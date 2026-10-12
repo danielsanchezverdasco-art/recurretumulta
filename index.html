@@ -9,6 +9,16 @@
        encolar eventos; el script real se inyecta tras el LCP, primera
        interacción o idle (lo que ocurra antes). GA4 sigue registrando igual. -->
   <script>
+    // 12/10/2026: imagen de /media/ que no existe -> se oculta su <figure> (o la propia
+    // imagen), igual que hacen ya las fichas, en vez de mostrar el icono roto.
+    window.addEventListener("error", function (e) {
+      var t = e.target;
+      if (!t || t.tagName !== "IMG" || t.dataset.fb || (t.getAttribute("src") || "").indexOf("/media/") < 0) return;
+      var fig = t.closest("figure");
+      (fig || t).style.display = "none";
+    }, true);
+  </script>
+  <script>
     (function () {
       // 07/10/2026: no inyectar GA durante el prerender (el script quedaría
       // baked en el HTML estático y GA se cargaría duplicado en producción).
