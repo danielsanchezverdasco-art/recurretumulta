@@ -1,0 +1,2151 @@
+// Fichas técnicas Cupra — equipo CUPRA (04/10/2026).
+// Modelos reales de la gama Cupra vendidos en España (2024+).
+// Formentor, Terramar, Born y Tavascan ya existen en comparador-coches-nuevos.ts (no duplicar).
+// Datos verificados con km77.com (tarifa 08/2026) y SEAT Media Center (factsheet oficial Raval).
+import type { CocheComparador } from "./comparador-coches-data.ts";
+
+export const COCHES_CUPRA: CocheComparador[] = [
+  // 1. Cupra León 5p (restyling 2024) — versión de referencia: 1.5 eTSI DSG 150 CV
+  {
+    id: "cupra-leon-2025-precio-ficha-tecnica",
+    marca: "Cupra",
+    modelo: "León",
+    tipo: "Híbrido",
+    categoria: "Compacto",
+    precioDesde: 33840,
+    potenciaCv: 150,
+    autonomiaKm: null,
+    maleteroL: 380,
+    ceroCien: 8.7,
+    velocidadMax: 215,
+    bateriaKwh: null,
+    cargaRapidaKw: null,
+    etiquetaDgt: "ECO",
+    garantiaBateriaAnos: 8,
+    garantiaBateriaKm: 160000,
+    garantiaBateriaDegradacionPct: 70,
+    largoMm: 4398,
+    anchoMm: 1799,
+    altoMm: 1444,
+    pesoKg: 1401,
+    consumo: 5.4,
+    consumoUnidad: "l/100 km",
+    plazas: 5,
+    parNm: 250,
+    traccion: "Delantera",
+    emisionesCo2: 122,
+    aprox: [],
+    pros: [
+      "Restyling 2024: frontal 'nariz de tiburón', faros Matrix LED de tres triángulos y logo iluminado",
+      "El 1.5 eTSI de 150 CV lleva etiqueta ECO y homologa solo 5,4 l/100 km",
+      "Gama amplísima: del 1.5 TSI de acceso al VZ de 325 CV y los eHybrid con etiqueta Cero",
+      "Chasis MQB Evo muy bien puesto a punto: tacto deportivo sin renunciar al confort",
+      "Hecho en Martorell: el compacto español que planta cara al Golf GTI y compañía",
+    ],
+    contras: [
+      "La versión de acceso 1.5 TSI manual (31.752 €) solo tiene etiqueta C",
+      "Maletero de 380 L, por debajo de rivales como el Volkswagen Golf",
+      "Mucho táctil en el interior: clima y volumen sin botones físicos",
+      "Las versiones eHybrid pierden maletero: 270 L frente a 380 L",
+      "Precio de partida alto frente a un SEAT León equivalente",
+    ],
+    imagen: "/media/cupra-leon-2025-precio-ficha-tecnica-hero.webp",
+    imagenOficial: "/media/cupra-leon-2025-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial: "/media/cupra-leon-2025-precio-ficha-tecnica-interior-oficial.webp",
+    videoId: "v8lkIdEdx4g",
+    videoCanal: "GrandMotor",
+    opiniones: [],
+    costeMensual: {
+      "costeEnergia100km": 8.9,
+      "seguroTercerosAnual": 450,
+      "seguroAmpliadoAnual": 950,
+      "mantenimientoAnual": 450,
+      "costeMensualTotal": 228,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "estimado con 15.000 km/año, consumo WLTP 5,4 l/100 km y gasolina a 1,65 €/l; seguro y mantenimiento orientativos para un compacto de ~34.000 €",
+      "estimado": true
+    },
+    galeria: [
+      {
+        "src": "/media/cupra-leon-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "Cupra León 2025, vista lateral",
+        "ancho": 2736,
+        "alto": 912
+      },
+      {
+        "src": "/media/cupra-leon-2025-precio-ficha-tecnica-oficial-2.webp",
+        "alt": "Cupra León 2025, tres cuartos trasero",
+        "ancho": 1920,
+        "alto": 1280
+      },
+      {
+        "src": "/media/cupra-leon-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del Cupra León 2025",
+        "ancho": 1920,
+        "alto": 1280
+      }
+    ],
+    fuenteNombre: "km77.com",
+    fuenteUrl: "https://www.km77.com/coches/cupra/leon/2024/5-puertas/estandar/leon-5p/datos",
+  },
+  // 2. Cupra León Sportstourer (restyling 2024) — versión de referencia: 1.5 eTSI DSG 150 CV
+  {
+    id: "cupra-leon-sportstourer-2025-precio-ficha-tecnica",
+    marca: "Cupra",
+    modelo: "León Sportstourer",
+    tipo: "Híbrido",
+    categoria: "Familiar",
+    precioDesde: 34892,
+    potenciaCv: 150,
+    autonomiaKm: null,
+    maleteroL: 620,
+    ceroCien: 9.0,
+    velocidadMax: 216,
+    bateriaKwh: null,
+    cargaRapidaKw: null,
+    etiquetaDgt: "ECO",
+    garantiaBateriaAnos: 8,
+    garantiaBateriaKm: 160000,
+    garantiaBateriaDegradacionPct: 70,
+    largoMm: 4657,
+    anchoMm: 1799,
+    altoMm: 1438,
+    pesoKg: 1447,
+    consumo: 5.5,
+    consumoUnidad: "l/100 km",
+    plazas: 5,
+    parNm: 250,
+    traccion: "Delantera",
+    emisionesCo2: 123,
+    aprox: [],
+    pros: [
+      "Maletero de 620 L: de los más grandes entre los compactos familiares",
+      "El 1.5 eTSI de 150 CV con etiqueta ECO homologa solo 5,5 l/100 km",
+      "Mismo restyling 2024 que el León 5p: diseño Cupra sin complejos",
+      "Versión VZ de 333 CV con tracción total 4Drive para quien quiera lo máximo",
+      "eHybrid de 204 CV con etiqueta Cero y más de 100 km de autonomía eléctrica",
+    ],
+    contras: [
+      "Pesa 1.447 kg: el 1.5 eTSI de 150 CV va justo con el coche cargado",
+      "El diésel 2.0 TDI de 150 CV solo tiene etiqueta C",
+      "El eHybrid pierde 150 L de maletero: se queda en 470 L",
+      "Cuesta unos 1.000 € más que el León 5 puertas equivalente",
+      "Plazas traseras correctas, pero sin el espacio de un SUV familiar",
+    ],
+    imagen: "/media/cupra-leon-sportstourer-2025-precio-ficha-tecnica-hero.webp",
+    imagenOficial: "/media/cupra-leon-sportstourer-2025-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial: "/media/cupra-leon-sportstourer-2025-precio-ficha-tecnica-interior-oficial.webp",
+    videoId: null,
+    videoCanal: null,
+    opiniones: [],
+    costeMensual: {
+      "costeEnergia100km": 9.1,
+      "seguroTercerosAnual": 460,
+      "seguroAmpliadoAnual": 980,
+      "mantenimientoAnual": 470,
+      "costeMensualTotal": 234,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "estimado con 15.000 km/año, consumo WLTP 5,5 l/100 km y gasolina a 1,65 €/l; seguro y mantenimiento orientativos para un familiar de ~35.000 €",
+      "estimado": true
+    },
+    galeria: [
+      {
+        "src": "/media/cupra-leon-sportstourer-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "Cupra León Sportstourer 2025, vista lateral",
+        "ancho": 1920,
+        "alto": 1280
+      },
+      {
+        "src": "/media/cupra-leon-sportstourer-2025-precio-ficha-tecnica-oficial-2.webp",
+        "alt": "Cupra León Sportstourer 2025, tres cuartos trasero con portón abierto",
+        "ancho": 1920,
+        "alto": 1280
+      },
+      {
+        "src": "/media/cupra-leon-sportstourer-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del Cupra León Sportstourer 2025",
+        "ancho": 1920,
+        "alto": 1280
+      }
+    ],
+    fuenteNombre: "km77.com",
+    fuenteUrl: "https://www.km77.com/coches/cupra/leon/2024/sportstourer/estandar/leon-sportstourer/datos",
+  },
+  // 3. Cupra Raval (2026) — versión de referencia: Raval 116 CV (acceso, 26.000 €)
+  {
+    id: "cupra-raval-2026-precio-ficha-tecnica",
+    marca: "Cupra",
+    modelo: "Raval",
+    tipo: "Eléctrico",
+    categoria: "Urbano",
+    precioDesde: 26000,
+    potenciaCv: 116,
+    autonomiaKm: 300,
+    maleteroL: 441,
+    ceroCien: null,
+    velocidadMax: null,
+    bateriaKwh: 37,
+    cargaRapidaKw: 50,
+    etiquetaDgt: "Cero",
+    garantiaBateriaAnos: 8,
+    garantiaBateriaKm: 160000,
+    garantiaBateriaDegradacionPct: 70,
+    largoMm: 4046,
+    anchoMm: 1784,
+    altoMm: 1514,
+    pesoKg: null,
+    consumo: null,
+    consumoUnidad: null,
+    plazas: 5,
+    parNm: null,
+    traccion: "Delantera",
+    emisionesCo2: null,
+    aprox: [],
+    pros: [
+      "Desde 26.000 €: el eléctrico urbano español más asequible sobre la plataforma MEB+",
+      "Diseñado, desarrollado y fabricado en Martorell (Barcelona)",
+      "Cinco estrellas Euro NCAP con el protocolo 2026: 91 % en protección de ocupantes",
+      "Maletero de 441 L: enorme para un coche de solo 4,04 m",
+      "Gama hasta 226 CV (VZ) y 446 km de autonomía WLTP (Endurance)",
+    ],
+    contras: [
+      "La versión de acceso (116 CV, 300 km) es la última en llegar: septiembre de 2026",
+      "Carga rápida limitada a 50 kW en la versión básica",
+      "Marca joven: red de servicio y valor de reventa aún por demostrar",
+      "El precio 'desde' exige la versión básica; el Endurance roza los 35.000 €",
+      "Rivales duros en casa: el Volkswagen ID. Polo comparte plataforma y planta",
+    ],
+    imagen: "/media/cupra-raval-2026-precio-ficha-tecnica-hero.webp",
+    imagenOficial: "/media/cupra-raval-2026-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial: "/media/cupra-raval-2026-precio-ficha-tecnica-interior-oficial.webp",
+    videoId: "aruUUU71KtM",
+    videoCanal: "coches.net",
+    opiniones: [],
+    costeMensual: {
+      "costeEnergia100km": 2.4,
+      "seguroTercerosAnual": 400,
+      "seguroAmpliadoAnual": 800,
+      "mantenimientoAnual": 350,
+      "costeMensualTotal": 126,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "estimado con 15.000 km/año y consumo supuesto de 13,5 kWh/100 km (sin dato WLTP publicado para la versión de acceso de 116 CV); seguro y mantenimiento orientativos",
+      "estimado": true
+    },
+    galeria: [
+      {
+        "src": "/media/cupra-raval-2026-precio-ficha-tecnica-oficial.webp",
+        "alt": "Cupra Raval 2026, vista lateral",
+        "ancho": 2736,
+        "alto": 912
+      },
+      {
+        "src": "/media/cupra-raval-2026-precio-ficha-tecnica-oficial-2.webp",
+        "alt": "Cupra Raval 2026 cargando en un punto de recarga rápida",
+        "ancho": 1920,
+        "alto": 1280
+      },
+      {
+        "src": "/media/cupra-raval-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del Cupra Raval 2026",
+        "ancho": 1920,
+        "alto": 1280
+      }
+    ],
+    fuenteNombre: "SEAT Media Center",
+    fuenteUrl: "https://www.seat-mediacenter.com/mediacenter_netstor/seat-media-center/Img/2026/04/2026-04-09/Factsheet-CUPRA-Raval_es.pdf",
+  },
+  {
+    id: "cupra-leon-15-tsi-2025-precio-ficha-tecnica",
+    "marca": "cupra",
+    "modelo": "León 1.5 TSI",
+    "tipo": "Gasolina",
+    "categoria": "Compacto",
+    "precioDesde": 31752,
+    "potenciaCv": 150,
+    "autonomiaKm": null,
+    "maleteroL": 380,
+    "ceroCien": null,
+    "velocidadMax": null,
+    "bateriaKwh": null,
+    "cargaRapidaKw": null,
+    "etiquetaDgt": "C",
+    "garantiaBateriaAnos": null,
+    "garantiaBateriaKm": null,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4368,
+    "anchoMm": 1799,
+    "altoMm": 1467,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": 250,
+    "traccion": "Delantera",
+    "emisionesCo2": null,
+    "aprox": [],
+    "pros": [
+      "31.752 € (km77): el Cupra León más asequible",
+      "1.5 TSI de 150 CV con hibridación ligera y etiqueta ECO",
+      "Chasis Cupra con puesta a punto deportiva",
+      "Maletero de 380 L, de los mejores del segmento",
+      "Interior con pantalla de 12,9\" y acabados deportivos"
+    ],
+    "contras": [
+      "150 CV: el menos prestacional de la gama León",
+      "Etiqueta ECO, no Cero: sin acceso libre a todas las ZBE",
+      "Sin cambio manual (solo DSG)",
+      "El e-Hybrid 204 ofrece 126 km eléctricos por 10.588 € más",
+      "Consumo real en ciudad, alto para un 1.5"
+    ],
+    "imagen": "/media/cupra-leon-15-tsi-2025-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/cupra-leon-15-tsi-2025-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/cupra-leon-15-tsi-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": null,
+    "videoCanal": null,
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 12.4,
+      "seguroTercerosAnual": 420,
+      "seguroAmpliadoAnual": 850,
+      "mantenimientoAnual": 380,
+      "costeMensualTotal": 258,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "gasolina aprox 7,5 L/100 km a 1,65 EUR/L",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/cupra-leon-15-tsi-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "Cupra León 1.5 TSI, compacto deportivo, tres cuartos delantero",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-leon-15-tsi-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del Cupra León con pantalla de 12,9 pulgadas",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-leon-15-tsi-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "Cupra León 1.5 TSI en una carretera secundaria",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "cupra-leon-ehybrid-204-2025-precio-ficha-tecnica",
+    "marca": "cupra",
+    "modelo": "León e-Hybrid 204",
+    "tipo": "Híbrido enchufable",
+    "categoria": "Compacto",
+    "precioDesde": 42340,
+    "potenciaCv": 204,
+    "autonomiaKm": 126,
+    "maleteroL": 270,
+    "ceroCien": null,
+    "velocidadMax": null,
+    "bateriaKwh": 19.7,
+    "cargaRapidaKw": null,
+    "etiquetaDgt": "Cero",
+    "garantiaBateriaAnos": 8,
+    "garantiaBateriaKm": 160000,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4368,
+    "anchoMm": 1799,
+    "altoMm": 1467,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": 350,
+    "traccion": "Delantera",
+    "emisionesCo2": null,
+    "aprox": [],
+    "pros": [
+      "126 km de autonomía eléctrica: de las mejores del segmento",
+      "42.340 € (km77): 204 CV con etiqueta Cero",
+      "Batería de 19,7 kWh con carga en alterna a 11 kW",
+      "En ciudad, semanas sin gastar una gota de gasolina",
+      "Maletero de 270 L, suficiente para el día a día"
+    ],
+    "contras": [
+      "10.588 € más que el 1.5 TSI",
+      "270 L de maletero: la batería se come 110 L",
+      "Peso extra notable frente al TSI",
+      "Sin carga rápida en continua",
+      "Si no cargas a diario, pierde todo el sentido"
+    ],
+    "imagen": "/media/cupra-leon-ehybrid-204-2025-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/cupra-leon-ehybrid-204-2025-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/cupra-leon-ehybrid-204-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": null,
+    "videoCanal": null,
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 4,
+      "seguroTercerosAnual": 450,
+      "seguroAmpliadoAnual": 900,
+      "mantenimientoAnual": 400,
+      "costeMensualTotal": 158,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "uso mixto con recarga habitual en casa; coste combinado electricidad+gasolina estimado",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/cupra-leon-ehybrid-204-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "Cupra León e-Hybrid 204, compacto híbrido enchufable",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-leon-ehybrid-204-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del Cupra León e-Hybrid con pantalla de 12,9 pulgadas",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-leon-ehybrid-204-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "Cupra León e-Hybrid cargando en un punto de recarga",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "cupra-leon-vz-300-2025-precio-ficha-tecnica",
+    "marca": "cupra",
+    "modelo": "León VZ 300",
+    "tipo": "Gasolina",
+    "categoria": "Compacto",
+    "precioDesde": 48954,
+    "potenciaCv": 300,
+    "autonomiaKm": null,
+    "maleteroL": 380,
+    "ceroCien": null,
+    "velocidadMax": null,
+    "bateriaKwh": null,
+    "cargaRapidaKw": null,
+    "etiquetaDgt": "C",
+    "garantiaBateriaAnos": null,
+    "garantiaBateriaKm": null,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4368,
+    "anchoMm": 1799,
+    "altoMm": 1467,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": 400,
+    "traccion": "Delantera",
+    "emisionesCo2": null,
+    "aprox": [],
+    "pros": [
+      "300 CV y 400 Nm: el León gasolina más potente con tracción delantera",
+      "48.954 € (km77): deportivo de verdad por menos de 50.000 €",
+      "2.0 TSI con autoblocante y chasis Cupra",
+      "Maletero intacto de 380 L",
+      "Estética VZ con detalles en cobre"
+    ],
+    "contras": [
+      "Tracción delantera con 300 CV: hay que saber llevarlo",
+      "Etiqueta C: sin ventajas en ZBE",
+      "Consumo real alto si se aprovecha la potencia",
+      "El VZ 325 añade 4Drive por 1.840 € más",
+      "Sin hibridación: malus en algunos impuestos autonómicos"
+    ],
+    "imagen": "/media/cupra-leon-vz-300-2025-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/cupra-leon-vz-300-2025-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/cupra-leon-vz-300-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": null,
+    "videoCanal": null,
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 14,
+      "seguroTercerosAnual": 520,
+      "seguroAmpliadoAnual": 1000,
+      "mantenimientoAnual": 450,
+      "costeMensualTotal": 296,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "gasolina aprox 8,5 L/100 km a 1,65 EUR/L",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/cupra-leon-vz-300-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "Cupra León VZ 300, compacto deportivo, tres cuartos delantero",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-leon-vz-300-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del Cupra León VZ con asientos bucket",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-leon-vz-300-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "Cupra León VZ 300 en un puerto de montaña",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "cupra-leon-vz-325-2025-precio-ficha-tecnica",
+    "marca": "cupra",
+    "modelo": "León VZ 325",
+    "tipo": "Gasolina",
+    "categoria": "Compacto",
+    "precioDesde": 50794,
+    "potenciaCv": 325,
+    "autonomiaKm": null,
+    "maleteroL": 380,
+    "ceroCien": null,
+    "velocidadMax": null,
+    "bateriaKwh": null,
+    "cargaRapidaKw": null,
+    "etiquetaDgt": "C",
+    "garantiaBateriaAnos": null,
+    "garantiaBateriaKm": null,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4368,
+    "anchoMm": 1799,
+    "altoMm": 1467,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": 420,
+    "traccion": "Total",
+    "emisionesCo2": null,
+    "aprox": [],
+    "pros": [
+      "325 CV y 420 Nm con tracción total 4Drive: el León más potente",
+      "50.794 € (km77): solo 1.840 € más que el VZ 300",
+      "El 4Drive reparte el par y elimina el subviraje del delantera",
+      "Prestaciones de compacto premium por menos dinero",
+      "Maletero de 380 L intacto"
+    ],
+    "contras": [
+      "Más peso que el VZ 300 por la tracción total",
+      "Etiqueta C: sin ventajas en ZBE",
+      "Consumo real elevado",
+      "A este precio, el Golf R juega en la misma liga",
+      "Sin opción manual"
+    ],
+    "imagen": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": null,
+    "videoCanal": null,
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 14.9,
+      "seguroTercerosAnual": 540,
+      "seguroAmpliadoAnual": 1050,
+      "mantenimientoAnual": 470,
+      "costeMensualTotal": 313,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "gasolina aprox 9,0 L/100 km a 1,65 EUR/L",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "Cupra León VZ 325, tres cuartos delantero",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del Cupra León VZ 325 con asientos deportivos",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "Cupra León VZ 325 acelerando en circuito",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica",
+    "marca": "cupra",
+    "modelo": "León Sportstourer e-Hybrid 204",
+    "tipo": "Híbrido enchufable",
+    "categoria": "Familiar",
+    "precioDesde": null,
+    "potenciaCv": 204,
+    "autonomiaKm": 126,
+    "maleteroL": 470,
+    "ceroCien": null,
+    "velocidadMax": null,
+    "bateriaKwh": 19.7,
+    "cargaRapidaKw": null,
+    "etiquetaDgt": "Cero",
+    "garantiaBateriaAnos": 8,
+    "garantiaBateriaKm": 160000,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4642,
+    "anchoMm": 1799,
+    "altoMm": 1456,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": 350,
+    "traccion": "Delantera",
+    "emisionesCo2": null,
+    "aprox": [
+      "maleteroL"
+    ],
+    "pros": [
+      "Familiar híbrido enchufable con 126 km eléctricos y etiqueta Cero",
+      "204 CV combinados con 350 Nm",
+      "Maletero de aprox 470 L: el León más práctico",
+      "Batería de 19,7 kWh con carga a 11 kW",
+      "4,64 m: familiar sin llegar a tamaño XL"
+    ],
+    "contras": [
+      "Precio sin confirmar en tarifa oficial",
+      "La batería resta maletero frente a los 620 L del ST térmico",
+      "Sin carga rápida en continua",
+      "Peso extra del sistema híbrido",
+      "Solo tiene sentido si cargas a diario"
+    ],
+    "imagen": "/media/cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": null,
+    "videoCanal": null,
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 4.2,
+      "seguroTercerosAnual": 460,
+      "seguroAmpliadoAnual": 920,
+      "mantenimientoAnual": 420,
+      "costeMensualTotal": 164,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "uso mixto con recarga habitual en casa; coste combinado electricidad+gasolina estimado",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "Cupra León Sportstourer e-Hybrid, familiar híbrido enchufable",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del León Sportstourer e-Hybrid",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "Cupra León Sportstourer e-Hybrid con portón abierto y maletero",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica",
+    "marca": "cupra",
+    "modelo": "León Sportstourer VZ 333",
+    "tipo": "Gasolina",
+    "categoria": "Familiar",
+    "precioDesde": null,
+    "potenciaCv": 333,
+    "autonomiaKm": null,
+    "maleteroL": 620,
+    "ceroCien": null,
+    "velocidadMax": null,
+    "bateriaKwh": null,
+    "cargaRapidaKw": null,
+    "etiquetaDgt": "C",
+    "garantiaBateriaAnos": null,
+    "garantiaBateriaKm": null,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4642,
+    "anchoMm": 1799,
+    "altoMm": 1456,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": 420,
+    "traccion": "Total",
+    "emisionesCo2": null,
+    "aprox": [],
+    "pros": [
+      "333 CV con tracción total 4Drive: el familiar León más potente",
+      "Maletero de 620 L: deportivo y familiar a la vez",
+      "420 Nm del 2.0 TSI",
+      "El sleeper definitivo: nadie espera 333 CV en un familiar",
+      "Chasis Cupra con modos de conducción"
+    ],
+    "contras": [
+      "Precio sin confirmar en tarifa oficial",
+      "Etiqueta C: sin ventajas en ZBE",
+      "Consumo real alto",
+      "El Golf R Variant es su gemelo por más dinero",
+      "Poco stock: es una versión de nicho"
+    ],
+    "imagen": "/media/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": null,
+    "videoCanal": null,
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 15.5,
+      "seguroTercerosAnual": 560,
+      "seguroAmpliadoAnual": 1100,
+      "mantenimientoAnual": 480,
+      "costeMensualTotal": 325,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "gasolina aprox 9,5 L/100 km a 1,65 EUR/L",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "Cupra León Sportstourer VZ 333, familiar deportivo",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del León Sportstourer VZ con asientos bucket",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "Cupra León Sportstourer VZ 333 en carretera",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "cupra-formentor-15-etsi-2025-precio-ficha-tecnica",
+    "marca": "cupra",
+    "modelo": "Formentor 1.5 eTSI",
+    "tipo": "Híbrido",
+    "categoria": "SUV",
+    "precioDesde": 36192,
+    "potenciaCv": 150,
+    "autonomiaKm": null,
+    "maleteroL": 450,
+    "ceroCien": null,
+    "velocidadMax": null,
+    "bateriaKwh": null,
+    "cargaRapidaKw": null,
+    "etiquetaDgt": "ECO",
+    "garantiaBateriaAnos": null,
+    "garantiaBateriaKm": null,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4451,
+    "anchoMm": 1839,
+    "altoMm": 1511,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": 250,
+    "traccion": "Delantera",
+    "emisionesCo2": null,
+    "aprox": [],
+    "pros": [
+      "36.192 € (km77): el Formentor más asequible",
+      "1.5 eTSI de 150 CV con etiqueta ECO",
+      "El SUV que inventó Cupra, con chasis deportivo",
+      "Maletero de 450 L",
+      "Diseño coupé que sigue pareciendo nuevo"
+    ],
+    "contras": [
+      "150 CV: justo para 1,4 toneladas",
+      "Etiqueta ECO, no Cero",
+      "El e-Hybrid 204 da 120 km eléctricos por 7.288 € más",
+      "Plazas traseras con techo coupé",
+      "Sin tracción total en esta versión"
+    ],
+    "imagen": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": null,
+    "videoCanal": null,
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 12.9,
+      "seguroTercerosAnual": 440,
+      "seguroAmpliadoAnual": 880,
+      "mantenimientoAnual": 400,
+      "costeMensualTotal": 268,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "gasolina aprox 7,8 L/100 km a 1,65 EUR/L",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "Cupra Formentor 1.5 eTSI, SUV coupé, tres cuartos delantero",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del Cupra Formentor con pantalla central",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "Cupra Formentor 1.5 eTSI en ciudad",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica",
+    "marca": "cupra",
+    "modelo": "Formentor e-Hybrid 204",
+    "tipo": "Híbrido enchufable",
+    "categoria": "SUV",
+    "precioDesde": 43480,
+    "potenciaCv": 204,
+    "autonomiaKm": 120,
+    "maleteroL": 345,
+    "ceroCien": null,
+    "velocidadMax": null,
+    "bateriaKwh": 19.7,
+    "cargaRapidaKw": null,
+    "etiquetaDgt": "Cero",
+    "garantiaBateriaAnos": 8,
+    "garantiaBateriaKm": 160000,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4451,
+    "anchoMm": 1839,
+    "altoMm": 1511,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": 350,
+    "traccion": "Delantera",
+    "emisionesCo2": null,
+    "aprox": [],
+    "pros": [
+      "120 km de autonomía eléctrica con etiqueta Cero",
+      "43.480 € (km77): 204 CV enchufables",
+      "Batería de 19,7 kWh con carga a 11 kW",
+      "El Formentor más vendido en renting por su fiscalidad",
+      "En ciudad, eléctrico puro la mayoría de los días"
+    ],
+    "contras": [
+      "7.288 € más que el 1.5 eTSI",
+      "Maletero de 345 L: la batería resta 105 L",
+      "Sin carga rápida en continua",
+      "Peso extra del sistema híbrido",
+      "Sin enchufe diario, mejor el eTSI"
+    ],
+    "imagen": "/media/cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": null,
+    "videoCanal": null,
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 4.2,
+      "seguroTercerosAnual": 460,
+      "seguroAmpliadoAnual": 920,
+      "mantenimientoAnual": 420,
+      "costeMensualTotal": 164,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "uso mixto con recarga habitual en casa; coste combinado electricidad+gasolina estimado",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "Cupra Formentor e-Hybrid 204, SUV híbrido enchufable",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del Cupra Formentor e-Hybrid",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "Cupra Formentor e-Hybrid cargando en casa",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica",
+    "marca": "cupra",
+    "modelo": "Formentor VZ e-Hybrid 272",
+    "tipo": "Híbrido enchufable",
+    "categoria": "SUV",
+    "precioDesde": 49160,
+    "potenciaCv": 272,
+    "autonomiaKm": 120,
+    "maleteroL": 345,
+    "ceroCien": null,
+    "velocidadMax": null,
+    "bateriaKwh": 19.7,
+    "cargaRapidaKw": null,
+    "etiquetaDgt": "Cero",
+    "garantiaBateriaAnos": 8,
+    "garantiaBateriaKm": 160000,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4451,
+    "anchoMm": 1839,
+    "altoMm": 1511,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": 400,
+    "traccion": "Delantera",
+    "emisionesCo2": null,
+    "aprox": [],
+    "pros": [
+      "272 CV enchufables: el Formentor PHEV más potente",
+      "49.160 € (km77): 120 km eléctricos con chasis VZ",
+      "400 Nm y modos Cupra para exprimirlo",
+      "Etiqueta Cero con prestaciones de deportivo",
+      "Batería de 19,7 kWh con 11 kW en alterna"
+    ],
+    "contras": [
+      "5.680 € más que el e-Hybrid 204 con la misma batería",
+      "Maletero de 345 L",
+      "Tracción delantera con 272 CV",
+      "Peso: el Formentor más pesado",
+      "El VZ 333 gasolina es más radical por 5.814 € más"
+    ],
+    "imagen": "/media/cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": null,
+    "videoCanal": null,
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 4.8,
+      "seguroTercerosAnual": 500,
+      "seguroAmpliadoAnual": 980,
+      "mantenimientoAnual": 440,
+      "costeMensualTotal": 178,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "uso mixto con recarga habitual; coste combinado electricidad+gasolina estimado",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "Cupra Formentor VZ e-Hybrid 272, tres cuartos delantero",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del Formentor VZ e-Hybrid con detalles en cobre",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "Cupra Formentor VZ e-Hybrid en carretera de curvas",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "cupra-formentor-vz-265-2025-precio-ficha-tecnica",
+    "marca": "cupra",
+    "modelo": "Formentor VZ 265",
+    "tipo": "Gasolina",
+    "categoria": "SUV",
+    "precioDesde": 51254,
+    "potenciaCv": 265,
+    "autonomiaKm": null,
+    "maleteroL": 450,
+    "ceroCien": null,
+    "velocidadMax": null,
+    "bateriaKwh": null,
+    "cargaRapidaKw": null,
+    "etiquetaDgt": "C",
+    "garantiaBateriaAnos": null,
+    "garantiaBateriaKm": null,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4451,
+    "anchoMm": 1839,
+    "altoMm": 1511,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": 400,
+    "traccion": "Delantera",
+    "emisionesCo2": null,
+    "aprox": [],
+    "pros": [
+      "265 CV y 400 Nm: el VZ gasolina de acceso",
+      "51.254 € (km77): chasis VZ sin llegar al 333",
+      "2.0 TSI con autoblocante",
+      "Maletero intacto de 450 L",
+      "Sonido y tacto de gasolina pura"
+    ],
+    "contras": [
+      "El VZ e-Hybrid 272 da más potencia y etiqueta Cero por menos",
+      "Tracción delantera",
+      "Etiqueta C",
+      "Por 3.720 € más está el VZ 333 con 4Drive",
+      "Consumo real alto"
+    ],
+    "imagen": "/media/cupra-formentor-vz-265-2025-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/cupra-formentor-vz-265-2025-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/cupra-formentor-vz-265-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": "NOrtK0OS2hw",
+    "videoCanal": "Arrancamos",
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 14.5,
+      "seguroTercerosAnual": 520,
+      "seguroAmpliadoAnual": 1020,
+      "mantenimientoAnual": 460,
+      "costeMensualTotal": 305,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "gasolina aprox 8,8 L/100 km a 1,65 EUR/L",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/cupra-formentor-vz-265-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "Cupra Formentor VZ 265, tres cuartos delantero",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-formentor-vz-265-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del Formentor VZ con asientos deportivos",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-formentor-vz-265-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "Cupra Formentor VZ 265 en un tramo de curvas",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "cupra-formentor-vz-333-2025-precio-ficha-tecnica",
+    "marca": "cupra",
+    "modelo": "Formentor VZ 333",
+    "tipo": "Gasolina",
+    "categoria": "SUV",
+    "precioDesde": 54974,
+    "potenciaCv": 333,
+    "autonomiaKm": null,
+    "maleteroL": 450,
+    "ceroCien": null,
+    "velocidadMax": null,
+    "bateriaKwh": null,
+    "cargaRapidaKw": null,
+    "etiquetaDgt": "C",
+    "garantiaBateriaAnos": null,
+    "garantiaBateriaKm": null,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4451,
+    "anchoMm": 1839,
+    "altoMm": 1511,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": 420,
+    "traccion": "Total",
+    "emisionesCo2": null,
+    "aprox": [],
+    "pros": [
+      "333 CV y 420 Nm con tracción total 4Drive: el Formentor definitivo",
+      "54.974 € (km77): prestaciones premium por precio Cupra",
+      "El 2.0 TSI más potente montado en un Formentor",
+      "Chasis VZ con modo Cupra radical",
+      "Maletero de 450 L intacto"
+    ],
+    "contras": [
+      "Etiqueta C: el Formentor con peor fiscalidad",
+      "Consumo real muy alto",
+      "El VZ e-Hybrid 272 ofrece etiqueta Cero por 5.814 € menos",
+      "A este precio, el Audi SQ2 aprieta",
+      "Solo para quien priorice prestaciones sobre todo"
+    ],
+    "imagen": "/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": "NOrtK0OS2hw",
+    "videoCanal": "Arrancamos",
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 15.5,
+      "seguroTercerosAnual": 560,
+      "seguroAmpliadoAnual": 1100,
+      "mantenimientoAnual": 480,
+      "costeMensualTotal": 325,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "gasolina aprox 9,5 L/100 km a 1,65 EUR/L",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "Cupra Formentor VZ 333, tres cuartos delantero",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del Formentor VZ 333 con detalles en cobre",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "Cupra Formentor VZ 333 en circuito",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica",
+    "marca": "cupra",
+    "modelo": "Terramar e-Hybrid 204",
+    "tipo": "Híbrido enchufable",
+    "categoria": "SUV",
+    "precioDesde": 45350,
+    "potenciaCv": 204,
+    "autonomiaKm": 120,
+    "maleteroL": 400,
+    "ceroCien": null,
+    "velocidadMax": null,
+    "bateriaKwh": 19.7,
+    "cargaRapidaKw": null,
+    "etiquetaDgt": "Cero",
+    "garantiaBateriaAnos": 8,
+    "garantiaBateriaKm": 160000,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4519,
+    "anchoMm": 1863,
+    "altoMm": 1584,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": 350,
+    "traccion": "Delantera",
+    "emisionesCo2": null,
+    "aprox": [
+      "maleteroL"
+    ],
+    "pros": [
+      "45.350 € (km77): el Terramar híbrido enchufable de acceso",
+      "120 km de autonomía eléctrica con etiqueta Cero",
+      "Batería de 19,7 kWh con carga a 11 kW",
+      "4,52 m: el SUV familiar de Cupra",
+      "Maletero de aprox 400 L"
+    ],
+    "contras": [
+      "Maletero menor que los 508 L del Terramar térmico",
+      "Sin carga rápida en continua",
+      "El VZ e-Hybrid 272 añade 68 CV por 7.660 € más",
+      "Peso extra del sistema híbrido",
+      "Sin enchufe diario, pierde el sentido"
+    ],
+    "imagen": "/media/cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": "JyFoqkMlzMI",
+    "videoCanal": "Actualidad Motor",
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 4.5,
+      "seguroTercerosAnual": 470,
+      "seguroAmpliadoAnual": 940,
+      "mantenimientoAnual": 420,
+      "costeMensualTotal": 170,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "uso mixto con recarga habitual en casa; coste combinado electricidad+gasolina estimado",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "Cupra Terramar e-Hybrid 204, SUV familiar híbrido enchufable",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del Cupra Terramar e-Hybrid",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "Cupra Terramar e-Hybrid en una carretera nacional",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "cupra-terramar-vz-ehybrid-272-2025-precio-ficha-tecnica",
+    "marca": "cupra",
+    "modelo": "Terramar VZ e-Hybrid 272",
+    "tipo": "Híbrido enchufable",
+    "categoria": "SUV",
+    "precioDesde": 53010,
+    "potenciaCv": 272,
+    "autonomiaKm": 120,
+    "maleteroL": 400,
+    "ceroCien": null,
+    "velocidadMax": null,
+    "bateriaKwh": 19.7,
+    "cargaRapidaKw": null,
+    "etiquetaDgt": "Cero",
+    "garantiaBateriaAnos": 8,
+    "garantiaBateriaKm": 160000,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4519,
+    "anchoMm": 1863,
+    "altoMm": 1584,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": 400,
+    "traccion": "Delantera",
+    "emisionesCo2": null,
+    "aprox": [
+      "maleteroL"
+    ],
+    "pros": [
+      "272 CV enchufables: el Terramar PHEV más potente",
+      "53.010 € (km77): 120 km eléctricos con chasis VZ",
+      "400 Nm y modos Cupra",
+      "Etiqueta Cero con prestaciones",
+      "El SUV familiar deportivo enchufable"
+    ],
+    "contras": [
+      "7.660 € más que el e-Hybrid 204 con la misma batería",
+      "Maletero de aprox 400 L",
+      "Tracción delantera con 272 CV",
+      "El VZ 265 gasolina tiene 4Drive por 2.064 € más",
+      "Peso: el Terramar más pesado"
+    ],
+    "imagen": "/media/cupra-terramar-vz-ehybrid-272-2025-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/cupra-terramar-vz-ehybrid-272-2025-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/cupra-terramar-vz-ehybrid-272-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": "ZG9YbIFyWd4",
+    "videoCanal": "Movilidad Eléctrica",
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 5,
+      "seguroTercerosAnual": 510,
+      "seguroAmpliadoAnual": 1000,
+      "mantenimientoAnual": 440,
+      "costeMensualTotal": 183,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "uso mixto con recarga habitual; coste combinado electricidad+gasolina estimado",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/cupra-terramar-vz-ehybrid-272-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "Cupra Terramar VZ e-Hybrid 272, tres cuartos delantero",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-terramar-vz-ehybrid-272-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del Terramar VZ e-Hybrid con detalles en cobre",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-terramar-vz-ehybrid-272-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "Cupra Terramar VZ e-Hybrid en un puerto de montaña",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "cupra-terramar-vz-265-2025-precio-ficha-tecnica",
+    "marca": "cupra",
+    "modelo": "Terramar VZ 265",
+    "tipo": "Gasolina",
+    "categoria": "SUV",
+    "precioDesde": 55074,
+    "potenciaCv": 265,
+    "autonomiaKm": null,
+    "maleteroL": 508,
+    "ceroCien": null,
+    "velocidadMax": null,
+    "bateriaKwh": null,
+    "cargaRapidaKw": null,
+    "etiquetaDgt": "C",
+    "garantiaBateriaAnos": null,
+    "garantiaBateriaKm": null,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4519,
+    "anchoMm": 1863,
+    "altoMm": 1584,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": 400,
+    "traccion": "Total",
+    "emisionesCo2": null,
+    "aprox": [],
+    "pros": [
+      "265 CV con tracción total 4Drive: el Terramar gasolina más capaz",
+      "55.074 € (km77): el tope térmico de la gama",
+      "400 Nm del 2.0 TSI",
+      "Maletero intacto de 508 L",
+      "Chasis VZ con modos Cupra"
+    ],
+    "contras": [
+      "Etiqueta C: la peor fiscalidad de la gama",
+      "El VZ e-Hybrid 272 tiene etiqueta Cero por 2.064 € menos",
+      "Consumo real alto",
+      "A este precio, el Tiguan R-Line aprieta",
+      "Sin hibridación de ningún tipo"
+    ],
+    "imagen": "/media/cupra-terramar-vz-265-2025-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/cupra-terramar-vz-265-2025-precio-ficha-tecnica-hero.webp",
+    "imagenInteriorOficial": "/media/cupra-terramar-vz-265-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": null,
+    "videoCanal": null,
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 15,
+      "seguroTercerosAnual": 540,
+      "seguroAmpliadoAnual": 1060,
+      "mantenimientoAnual": 460,
+      "costeMensualTotal": 314,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "gasolina aprox 9,0 L/100 km a 1,65 EUR/L",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/cupra-terramar-vz-265-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "Cupra Terramar VZ 265, tres cuartos delantero",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-terramar-vz-265-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del Terramar VZ con asientos deportivos",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-terramar-vz-265-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "Cupra Terramar VZ 265 en carretera",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "cupra-born-190-2026-precio-ficha-tecnica",
+    "marca": "cupra",
+    "modelo": "Born 190",
+    "tipo": "Eléctrico",
+    "categoria": "Compacto",
+    "precioDesde": 39500,
+    "potenciaCv": 190,
+    "autonomiaKm": 425,
+    "maleteroL": 385,
+    "ceroCien": null,
+    "velocidadMax": 160,
+    "bateriaKwh": 58,
+    "cargaRapidaKw": 120,
+    "etiquetaDgt": "Cero",
+    "garantiaBateriaAnos": 8,
+    "garantiaBateriaKm": 160000,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4322,
+    "anchoMm": 1811,
+    "altoMm": 1537,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": 310,
+    "traccion": "Trasera",
+    "emisionesCo2": 0,
+    "aprox": [
+      "autonomiaKm"
+    ],
+    "pros": [
+      "39.500 €: el Cupra eléctrico más asequible",
+      "Tracción trasera con 190 CV: tacto deportivo",
+      "Batería de 58 kWh con 120 kW de carga rápida",
+      "Diseño Cupra con interior deportivo",
+      "Maletero de 385 L"
+    ],
+    "contras": [
+      "Autonomía aprox 425 km: justa para viajar",
+      "160 km/h de velocidad máxima",
+      "El Endurance añade 79 kWh por 4.000 € más",
+      "Plataforma MEB: ya no es la última generación",
+      "Sin frunk delantero"
+    ],
+    "imagen": "/media/cupra-born-190-2026-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/cupra-born-190-2026-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/cupra-born-190-2026-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": "ouzuVCCbuFE",
+    "videoCanal": "Autofácil",
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 3,
+      "seguroTercerosAnual": 470,
+      "seguroAmpliadoAnual": 900,
+      "mantenimientoAnual": 300,
+      "costeMensualTotal": 138,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "consumo estimado aprox 16,5 kWh/100 km; recarga doméstica aprox 0,18 EUR/kWh; autonomía aproximada",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/cupra-born-190-2026-precio-ficha-tecnica-oficial.webp",
+        "alt": "Cupra Born 190, compacto eléctrico, tres cuartos delantero",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-born-190-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del Cupra Born con pantalla de 12 pulgadas",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-born-190-2026-precio-ficha-tecnica-hero.webp",
+        "alt": "Cupra Born 190 en una avenida urbana",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "cupra-born-endurance-231-2026-precio-ficha-tecnica",
+    "marca": "cupra",
+    "modelo": "Born Endurance 231",
+    "tipo": "Eléctrico",
+    "categoria": "Compacto",
+    "precioDesde": 43500,
+    "potenciaCv": 231,
+    "autonomiaKm": 590,
+    "maleteroL": 385,
+    "ceroCien": null,
+    "velocidadMax": 160,
+    "bateriaKwh": 79,
+    "cargaRapidaKw": 150,
+    "etiquetaDgt": "Cero",
+    "garantiaBateriaAnos": 8,
+    "garantiaBateriaKm": 160000,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4322,
+    "anchoMm": 1811,
+    "altoMm": 1537,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": 310,
+    "traccion": "Trasera",
+    "emisionesCo2": 0,
+    "aprox": [
+      "autonomiaKm"
+    ],
+    "pros": [
+      "Batería de 79 kWh: la mayor autonomía de la gama Born",
+      "43.500 €: solo 4.000 € más que el Born 190",
+      "231 CV con tracción trasera",
+      "≈590 km de autonomía (aprox.): viaja de verdad",
+      "150 kW de carga rápida"
+    ],
+    "contras": [
+      "Más peso que el Born 190 por la batería grande",
+      "160 km/h de velocidad máxima",
+      "El VZ 326 añade 95 CV por 7.050 € más",
+      "Sin frunk delantero",
+      "Autonomía aproximada, pendiente de dato WLTP final"
+    ],
+    "imagen": "/media/cupra-born-endurance-231-2026-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/cupra-born-endurance-231-2026-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/cupra-born-endurance-231-2026-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": "ouzuVCCbuFE",
+    "videoCanal": "Autofácil",
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 3.1,
+      "seguroTercerosAnual": 480,
+      "seguroAmpliadoAnual": 930,
+      "mantenimientoAnual": 310,
+      "costeMensualTotal": 142,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "consumo estimado aprox 17 kWh/100 km; recarga doméstica aprox 0,18 EUR/kWh; autonomía aproximada",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/cupra-born-endurance-231-2026-precio-ficha-tecnica-oficial.webp",
+        "alt": "Cupra Born Endurance 231, tres cuartos delantero",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-born-endurance-231-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del Cupra Born Endurance",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-born-endurance-231-2026-precio-ficha-tecnica-hero.webp",
+        "alt": "Cupra Born Endurance en autopista",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "cupra-born-vz-326-2026-precio-ficha-tecnica",
+    "marca": "cupra",
+    "modelo": "Born VZ 326",
+    "tipo": "Eléctrico",
+    "categoria": "Compacto",
+    "precioDesde": 50550,
+    "potenciaCv": 326,
+    "autonomiaKm": 560,
+    "maleteroL": 385,
+    "ceroCien": null,
+    "velocidadMax": 200,
+    "bateriaKwh": 79,
+    "cargaRapidaKw": 150,
+    "etiquetaDgt": "Cero",
+    "garantiaBateriaAnos": 8,
+    "garantiaBateriaKm": 160000,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4322,
+    "anchoMm": 1811,
+    "altoMm": 1537,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": 545,
+    "traccion": "Trasera",
+    "emisionesCo2": 0,
+    "aprox": [
+      "autonomiaKm",
+      "ceroCien"
+    ],
+    "pros": [
+      "326 CV y 545 Nm: el Born más potente",
+      "50.550 €: deportivo eléctrico con 79 kWh",
+      "200 km/h de velocidad máxima",
+      "Chasis VZ con puesta a punto Cupra",
+      "≈560 km de autonomía (aprox.) pese a la potencia"
+    ],
+    "contras": [
+      "7.050 € más que el Endurance por 95 CV",
+      "Menos autonomía que el Endurance",
+      "Tracción trasera con 545 Nm: respeta el acelerador",
+      "0-100 sin dato oficial publicado",
+      "A este precio, el Tesla Model 3 aprieta"
+    ],
+    "imagen": "/media/cupra-born-vz-326-2026-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/cupra-born-vz-326-2026-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/cupra-born-vz-326-2026-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": "ouzuVCCbuFE",
+    "videoCanal": "Autofácil",
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 3.3,
+      "seguroTercerosAnual": 500,
+      "seguroAmpliadoAnual": 980,
+      "mantenimientoAnual": 330,
+      "costeMensualTotal": 150,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "consumo estimado aprox 18 kWh/100 km; recarga doméstica aprox 0,18 EUR/kWh; autonomía y 0-100 aproximados",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/cupra-born-vz-326-2026-precio-ficha-tecnica-oficial.webp",
+        "alt": "Cupra Born VZ 326, tres cuartos delantero",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-born-vz-326-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del Cupra Born VZ con asientos bucket",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-born-vz-326-2026-precio-ficha-tecnica-hero.webp",
+        "alt": "Cupra Born VZ 326 en un tramo de curvas",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "cupra-tavascan-vz-340-2026-precio-ficha-tecnica",
+    "marca": "cupra",
+    "modelo": "Tavascan VZ 340",
+    "tipo": "Eléctrico",
+    "categoria": "SUV",
+    "precioDesde": 55050,
+    "potenciaCv": 340,
+    "autonomiaKm": 522,
+    "maleteroL": 540,
+    "ceroCien": 5.5,
+    "velocidadMax": 180,
+    "bateriaKwh": 77,
+    "cargaRapidaKw": 135,
+    "etiquetaDgt": "Cero",
+    "garantiaBateriaAnos": 8,
+    "garantiaBateriaKm": 160000,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4644,
+    "anchoMm": 1861,
+    "altoMm": 1597,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": null,
+    "traccion": "Total",
+    "emisionesCo2": 0,
+    "aprox": [
+      "autonomiaKm",
+      "cargaRapidaKw"
+    ],
+    "pros": [
+      "340 CV con tracción total: el SUV coupé eléctrico de Cupra",
+      "55.050 €: 0-100 en 5,5 s",
+      "Batería de 77 kWh con ≈522 km (aprox.)",
+      "Diseño coupé, el Cupra más llamativo",
+      "Maletero de 540 L"
+    ],
+    "contras": [
+      "El Endurance de 286 CV da 569 km por menos dinero",
+      "Carga rápida de 135 kW (aprox.): mejorable",
+      "Techo coupé: plazas traseras con menos altura",
+      "Fabricado fuera de España (se produce en China)",
+      "A este precio, el Tesla Model Y compite fuerte"
+    ],
+    "imagen": "/media/cupra-tavascan-vz-340-2026-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/cupra-tavascan-vz-340-2026-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/cupra-tavascan-vz-340-2026-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": null,
+    "videoCanal": null,
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 3.4,
+      "seguroTercerosAnual": 520,
+      "seguroAmpliadoAnual": 1020,
+      "mantenimientoAnual": 340,
+      "costeMensualTotal": 156,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "consumo estimado aprox 19 kWh/100 km; recarga doméstica aprox 0,18 EUR/kWh; autonomía y carga aproximadas",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/cupra-tavascan-vz-340-2026-precio-ficha-tecnica-oficial.webp",
+        "alt": "Cupra Tavascan VZ 340, SUV coupé eléctrico",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-tavascan-vz-340-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del Cupra Tavascan con pantalla central",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-tavascan-vz-340-2026-precio-ficha-tecnica-hero.webp",
+        "alt": "Cupra Tavascan VZ 340 al atardecer",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "cupra-ateca-190-2025-precio-ficha-tecnica",
+    "marca": "cupra",
+    "modelo": "Ateca 190 4Drive",
+    "tipo": "Gasolina",
+    "categoria": "SUV",
+    "precioDesde": 45760,
+    "potenciaCv": 190,
+    "autonomiaKm": null,
+    "maleteroL": 485,
+    "ceroCien": 7.2,
+    "velocidadMax": 212,
+    "bateriaKwh": null,
+    "cargaRapidaKw": null,
+    "etiquetaDgt": "C",
+    "garantiaBateriaAnos": null,
+    "garantiaBateriaKm": null,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4381,
+    "anchoMm": 1841,
+    "altoMm": 1601,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": 320,
+    "traccion": "Total",
+    "emisionesCo2": null,
+    "aprox": [],
+    "pros": [
+      "45.760 € (km77): el Ateca con tracción total 4Drive",
+      "190 CV y 320 Nm: 0-100 en 7,2 s",
+      "212 km/h de velocidad máxima",
+      "Maletero de 485 L",
+      "El SUV veterano de Cupra, fiable y probado"
+    ],
+    "contras": [
+      "Modelo veterano: plataforma e interior de anterior generación",
+      "Etiqueta C",
+      "El Terramar es su sucesor natural",
+      "Sin hibridación",
+      "Consumo real alto con 4Drive"
+    ],
+    "imagen": "/media/cupra-ateca-190-2025-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/cupra-ateca-190-2025-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/cupra-ateca-190-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": null,
+    "videoCanal": null,
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 14,
+      "seguroTercerosAnual": 500,
+      "seguroAmpliadoAnual": 980,
+      "mantenimientoAnual": 430,
+      "costeMensualTotal": 293,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "gasolina aprox 8,5 L/100 km a 1,65 EUR/L",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/cupra-ateca-190-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "Cupra Ateca 190 4Drive, tres cuartos delantero",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-ateca-190-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del Cupra Ateca",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-ateca-190-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "Cupra Ateca 190 en una pista de tierra",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "cupra-ateca-vz-300-2025-precio-ficha-tecnica",
+    "marca": "cupra",
+    "modelo": "Ateca VZ 300",
+    "tipo": "Gasolina",
+    "categoria": "SUV",
+    "precioDesde": 56000,
+    "potenciaCv": 300,
+    "autonomiaKm": null,
+    "maleteroL": 485,
+    "ceroCien": 4.9,
+    "velocidadMax": 250,
+    "bateriaKwh": null,
+    "cargaRapidaKw": null,
+    "etiquetaDgt": "C",
+    "garantiaBateriaAnos": null,
+    "garantiaBateriaKm": null,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4381,
+    "anchoMm": 1841,
+    "altoMm": 1601,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": 400,
+    "traccion": "Total",
+    "emisionesCo2": null,
+    "aprox": [],
+    "pros": [
+      "300 CV y 400 Nm: 0-100 en 4,9 s, prestaciones de deportivo",
+      "56.000 € (km77): el Ateca más radical",
+      "250 km/h de velocidad máxima",
+      "Tracción total 4Drive",
+      "Maletero de 485 L intacto"
+    ],
+    "contras": [
+      "Etiqueta C con 300 CV: fiscalidad dura",
+      "Modelo veterano frente al Terramar",
+      "Consumo real muy alto",
+      "El Terramar VZ 265 es más moderno por menos",
+      "Interior de anterior generación"
+    ],
+    "imagen": "/media/cupra-ateca-vz-300-2025-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/cupra-ateca-vz-300-2025-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/cupra-ateca-vz-300-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": "-Hg6oeAQsqY",
+    "videoCanal": "CUPRA",
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 16,
+      "seguroTercerosAnual": 560,
+      "seguroAmpliadoAnual": 1080,
+      "mantenimientoAnual": 470,
+      "costeMensualTotal": 329,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "gasolina aprox 9,7 L/100 km a 1,65 EUR/L",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/cupra-ateca-vz-300-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "Cupra Ateca VZ 300, tres cuartos delantero",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-ateca-vz-300-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del Cupra Ateca VZ con detalles en cobre",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-ateca-vz-300-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "Cupra Ateca VZ 300 acelerando",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "cupra-raval-plus-2026-precio-ficha-tecnica",
+    "marca": "cupra",
+    "modelo": "Raval Plus 135",
+    "tipo": "Eléctrico",
+    "categoria": "Urbano",
+    "precioDesde": 29530,
+    "potenciaCv": 135,
+    "autonomiaKm": null,
+    "maleteroL": null,
+    "ceroCien": null,
+    "velocidadMax": null,
+    "bateriaKwh": null,
+    "cargaRapidaKw": null,
+    "etiquetaDgt": "Cero",
+    "garantiaBateriaAnos": 8,
+    "garantiaBateriaKm": 160000,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4050,
+    "anchoMm": 1780,
+    "altoMm": 1560,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": null,
+    "traccion": "Delantera",
+    "emisionesCo2": 0,
+    "aprox": [
+      "largoMm",
+      "anchoMm",
+      "altoMm"
+    ],
+    "pros": [
+      "29.530 €: el Cupra eléctrico más barato, hecho en Martorell",
+      "135 CV: perfecto para ciudad",
+      "4,05 m: aparca en cualquier sitio",
+      "Etiqueta Cero con coste de uso mínimo",
+      "Diseño Cupra en formato urbano"
+    ],
+    "contras": [
+      "135 CV: el menos potente de la gama eléctrica",
+      "Autonomía sin dato oficial publicado",
+      "Batería sin capacidad confirmada",
+      "Modelo nuevo: sin historial de fiabilidad",
+      "Maletero sin dato oficial"
+    ],
+    "imagen": "/media/cupra-raval-plus-2026-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/cupra-raval-plus-2026-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/cupra-raval-plus-2026-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": "aruUUU71KtM",
+    "videoCanal": "coches.net",
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 2.7,
+      "seguroTercerosAnual": 430,
+      "seguroAmpliadoAnual": 820,
+      "mantenimientoAnual": 260,
+      "costeMensualTotal": 124,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "consumo estimado aprox 15 kWh/100 km; recarga doméstica aprox 0,18 EUR/kWh; autonomía sin dato oficial",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/cupra-raval-plus-2026-precio-ficha-tecnica-oficial.webp",
+        "alt": "Cupra Raval Plus, urbano eléctrico, tres cuartos delantero",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-raval-plus-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del Cupra Raval con pantalla central",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-raval-plus-2026-precio-ficha-tecnica-hero.webp",
+        "alt": "Cupra Raval Plus en el centro de una ciudad",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "cupra-raval-endurance-2026-precio-ficha-tecnica",
+    "marca": "cupra",
+    "modelo": "Raval Endurance 210",
+    "tipo": "Eléctrico",
+    "categoria": "Urbano",
+    "precioDesde": 35010,
+    "potenciaCv": 210,
+    "autonomiaKm": 446,
+    "maleteroL": null,
+    "ceroCien": null,
+    "velocidadMax": null,
+    "bateriaKwh": null,
+    "cargaRapidaKw": 105,
+    "etiquetaDgt": "Cero",
+    "garantiaBateriaAnos": 8,
+    "garantiaBateriaKm": 160000,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4050,
+    "anchoMm": 1780,
+    "altoMm": 1560,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": null,
+    "traccion": "Delantera",
+    "emisionesCo2": 0,
+    "aprox": [
+      "largoMm",
+      "anchoMm",
+      "altoMm"
+    ],
+    "pros": [
+      "446 km de autonomía: el urbano eléctrico con más alcance",
+      "35.010 €: 210 CV por precio de generalista",
+      "Carga rápida de 105 kW en continua",
+      "Hecho en Martorell",
+      "El equilibrio de la gama Raval"
+    ],
+    "contras": [
+      "5.480 € más que el Plus",
+      "Batería sin capacidad oficial confirmada",
+      "El VZ añade 16 CV por 4.060 € más",
+      "Modelo nuevo sin historial",
+      "Maletero sin dato oficial"
+    ],
+    "imagen": "/media/cupra-raval-endurance-2026-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/cupra-raval-endurance-2026-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/cupra-raval-endurance-2026-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": "aruUUU71KtM",
+    "videoCanal": "coches.net",
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 2.8,
+      "seguroTercerosAnual": 440,
+      "seguroAmpliadoAnual": 850,
+      "mantenimientoAnual": 270,
+      "costeMensualTotal": 128,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "consumo estimado aprox 15,5 kWh/100 km; recarga doméstica aprox 0,18 EUR/kWh",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/cupra-raval-endurance-2026-precio-ficha-tecnica-oficial.webp",
+        "alt": "Cupra Raval Endurance, urbano eléctrico, tres cuartos delantero",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-raval-endurance-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del Cupra Raval Endurance",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-raval-endurance-2026-precio-ficha-tecnica-hero.webp",
+        "alt": "Cupra Raval Endurance en carretera",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "cupra-raval-vz-226-2026-precio-ficha-tecnica",
+    "marca": "cupra",
+    "modelo": "Raval VZ 226",
+    "tipo": "Eléctrico",
+    "categoria": "Urbano",
+    "precioDesde": 39070,
+    "potenciaCv": 226,
+    "autonomiaKm": null,
+    "maleteroL": null,
+    "ceroCien": null,
+    "velocidadMax": null,
+    "bateriaKwh": null,
+    "cargaRapidaKw": null,
+    "etiquetaDgt": "Cero",
+    "garantiaBateriaAnos": 8,
+    "garantiaBateriaKm": 160000,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4050,
+    "anchoMm": 1780,
+    "altoMm": 1560,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": null,
+    "traccion": "Delantera",
+    "emisionesCo2": 0,
+    "aprox": [
+      "largoMm",
+      "anchoMm",
+      "altoMm"
+    ],
+    "pros": [
+      "226 CV: el urbano eléctrico más potente de Cupra",
+      "39.070 €: prestaciones VZ en formato urbano",
+      "Chasis VZ con puesta a punto deportiva",
+      "Diseño VZ con detalles en cobre",
+      "Hecho en Martorell"
+    ],
+    "contras": [
+      "4.060 € más que el Endurance por 16 CV",
+      "Autonomía sin dato oficial (menor que el Endurance)",
+      "226 CV al tren delantero en 4,05 m",
+      "Modelo nuevo sin historial",
+      "A este precio, el Born 190 ofrece más coche"
+    ],
+    "imagen": "/media/cupra-raval-vz-226-2026-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/cupra-raval-vz-226-2026-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/cupra-raval-vz-226-2026-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": "aruUUU71KtM",
+    "videoCanal": "coches.net",
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 3,
+      "seguroTercerosAnual": 460,
+      "seguroAmpliadoAnual": 900,
+      "mantenimientoAnual": 290,
+      "costeMensualTotal": 137,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "consumo estimado aprox 16,5 kWh/100 km; recarga doméstica aprox 0,18 EUR/kWh; autonomía sin dato oficial",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/cupra-raval-vz-226-2026-precio-ficha-tecnica-oficial.webp",
+        "alt": "Cupra Raval VZ 226, tres cuartos delantero",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-raval-vz-226-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del Cupra Raval VZ con detalles en cobre",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/cupra-raval-vz-226-2026-precio-ficha-tecnica-hero.webp",
+        "alt": "Cupra Raval VZ 226 en un tramo de curvas",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  }
+];

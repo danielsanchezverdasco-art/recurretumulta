@@ -1,0 +1,13 @@
+[15:53:41] === SAFE PUBLISH v2 (20261011-155341) ===
+[15:53:41] Rutas a prerenderizar: 3 (ver scripts/.safe-publish/runs/20261011-155341/routes.txt)
+[15:53:41] Run dir (persistente): scripts/.safe-publish/runs/20261011-155341
+[15:53:41] [0] TypeScript...
+[15:53:43]   ✓ tsc -b OK
+[15:53:43] [0b] Preflight de auth Netlify...
+[15:53:43]   ✓ auth Netlify OK
+[15:53:44] [1] Backup de dist/ (5844 páginas) -> dist-backup-20261011-155341/ ...
+[15:53:56]   ✓ backup instantáneo (hardlinks, solo lectura)
+[15:53:56] [2] --skip-build: se usa dist/ tal cual
+[15:53:56] [3] Restaurando HTML del backup...
+[15:53:57] ⛔ FALLO: cp de dist-backup-20261011-155341/index.html
+[15:53:57] Backup intacto en dist-backup-20261011-155341/ — producción NO tocada

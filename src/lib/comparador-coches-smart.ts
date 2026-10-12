@@ -1,0 +1,1489 @@
+// smart — lote A (04/10/2026): smart #2, smart #3 y smart #3 Brabus.
+// Datos verificados con prensa española (autonocion.com, hibridosyelectricos.com,
+// somoselectricos.com, hackercar.com, coches.net, quecochemecompro.com, drivek.es)
+// y prensa oficial de smart (ECA / Concept #2). Regla dura: dato no verificado = null.
+// Ya existentes (no duplicar): smart-1-precio-ficha-tecnica, smart-5-electrico-ficha-tecnica-precio.
+// El #6 EHD es híbrido solo para China: fuera de gama europea.
+import type { CocheComparador } from "./comparador-coches-data.ts";
+
+export const COCHES_SMART: CocheComparador[] = [
+  {
+    id: "smart-2-2026-precio-autonomia-paris",
+    garantiaBateriaAnos: null,
+    garantiaBateriaKm: null,
+    garantiaBateriaDegradacionPct: null,
+    imagenOficial: "/media/smart-2-2026-precio-autonomia-paris-oficial.webp",
+    imagenInteriorOficial: "/media/smart-2-2026-precio-autonomia-paris-interior-oficial.webp",
+    videoId: null,
+    videoCanal: null,
+    marca: "smart",
+    modelo: "#2",
+    tipo: "Eléctrico",
+    categoria: "Urbano",
+    precioDesde: null,
+    potenciaCv: 82,
+    autonomiaKm: 290,
+    maleteroL: null,
+    ceroCien: null,
+    velocidadMax: null,
+    bateriaKwh: 35.8,
+    cargaRapidaKw: 65,
+    etiquetaDgt: "Cero",
+    pros: [
+      "El biplaza urbano de siempre: 2,79 m de largo y radio de giro de 6,95 m para la ciudad",
+      "Batería CATL de 35,8 kWh con 290 km WLTP: de lo mejor del segmento urbano",
+      "Carga rápida del 10 al 80 % en menos de 20 minutos con cargador de 65 kW",
+      "Célula Tridion Cell Evo con acero de 1.800 MPa y 7 airbags: seguridad de coche grande",
+      "Tracción trasera, reparto de pesos 50:50 y suspensión multibrazo: diversión de kart",
+    ],
+    contras: [
+      "Precio aún sin confirmar y en proceso de homologación europea",
+      "Dos plazas y dos puertas: cero flexibilidad para viajar en familia",
+      "82 CV: de sobra en ciudad, justos en autopista",
+      "Maletero sin dato oficial: el espacio de carga será escaso",
+      "Red smart pequeña en España frente a generalistas",
+    ],
+    largoMm: 2792,
+    anchoMm: 1670,
+    altoMm: 1560,
+    pesoKg: null,
+    consumo: null,
+    consumoUnidad: null,
+    plazas: 2,
+    parNm: null,
+    traccion: "Trasera",
+    emisionesCo2: 0,
+    aprox: ["largoMm", "anchoMm", "altoMm"],
+    imagen: "/media/smart-2-2026-precio-autonomia-paris-hero.webp",
+    opiniones: [],
+    costeMensual: {
+      "costeEnergia100km": 2.3,
+      "seguroTercerosAnual": 500,
+      "seguroAmpliadoAnual": 900,
+      "mantenimientoAnual": 250,
+      "costeMensualTotal": 119,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.85,
+      "notas": "precio oficial sin publicar (se revela el 12/10/2026 en París); consumo estimado aprox 12,5 kWh/100 km por segmento urbano; dimensiones del Concept #2, pendientes de homologación europea",
+      "estimado": true
+    },
+    galeria: [
+      {
+        "src": "/media/smart-2-2026-precio-autonomia-paris-oficial.webp",
+        "alt": "smart #2, urbano eléctrico biplaza, tres cuartos delantero",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-2-2026-precio-autonomia-paris-interior-oficial.webp",
+        "alt": "Interior del smart #2 con asiento corrido y módulo central en forma de S",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-2-2026-precio-autonomia-paris-hero.webp",
+        "alt": "smart #2 circulando por una calle estrecha del centro de una ciudad europea",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ],
+  },
+  {
+    id: "smart-3-2026-precio-ficha-tecnica",
+    garantiaBateriaAnos: 8,
+    garantiaBateriaKm: 160000,
+    garantiaBateriaDegradacionPct: null,
+    imagenOficial: "/media/smart-3-2026-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial: "/media/smart-3-2026-precio-ficha-tecnica-interior-oficial.webp",
+    videoId: "ckVx0oR_Vs8",
+    videoCanal: "ElectroExamen",
+    marca: "smart",
+    modelo: "#3",
+    tipo: "Eléctrico",
+    categoria: "SUV",
+    precioDesde: 41760,
+    potenciaCv: 272,
+    autonomiaKm: 455,
+    maleteroL: 370,
+    ceroCien: 5.8,
+    velocidadMax: 180,
+    bateriaKwh: 66,
+    cargaRapidaKw: 150,
+    etiquetaDgt: "Cero",
+    pros: [
+      "Diseño SUV coupé firmado por Mercedes: el smart más bonito de la gama",
+      "Hasta 455 km WLTP y carga de 150 kW (10-80 % en menos de 30 minutos)",
+      "272 CV con tracción trasera y 0-100 en 5,8 s: diversión seria",
+      "Cargador de 22 kW en alterna y bomba de calor: carga rápida también en casa",
+      "Maletero de 370 L + 15 L delanteros: el más práctico de los smart compactos",
+    ],
+    contras: [
+      "Desde 41.760 €: muy lejos del smart barato de antes",
+      "1.780 kg en vacío: se nota en consumo real (18,8 kWh/100 km en autopista según prueba)",
+      "El planificador de ruta a veces no reconoce cargadores hasta iniciar el trayecto",
+      "La marca aún arrastra la imagen del microcoche urbano: pesa en la reventa",
+      "Red smart pequeña en España frente a generalistas",
+    ],
+    largoMm: 4440,
+    anchoMm: 1844,
+    altoMm: 1556,
+    pesoKg: 1780,
+    consumo: 17.6,
+    consumoUnidad: "kWh/100 km",
+    plazas: 5,
+    parNm: 343,
+    traccion: "Trasera",
+    emisionesCo2: 0,
+    aprox: ["consumo"],
+    imagen: "/media/smart-3-2026-precio-ficha-tecnica-hero.webp",
+    opiniones: [],
+    costeMensual: {
+      "costeEnergia100km": 3.2,
+      "seguroTercerosAnual": 550,
+      "seguroAmpliadoAnual": 1000,
+      "mantenimientoAnual": 300,
+      "costeMensualTotal": 140,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.85,
+      "notas": "consumo WLTP medio del rango (17,6-16,3 kWh/100 km según drivek.es); recarga doméstica aprox 0,18 EUR/kWh",
+      "estimado": true
+    },
+    galeria: [
+      {
+        "src": "/media/smart-3-2026-precio-ficha-tecnica-oficial.webp",
+        "alt": "smart #3, SUV coupé eléctrico, tres cuartos delantero",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-3-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del smart #3 con pantalla central flotante",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-3-2026-precio-ficha-tecnica-hero.webp",
+        "alt": "smart #3 circulando por una carretera de montaña al atardecer",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ],
+  },
+  {
+    id: "smart-3-brabus-2026-precio-ficha-tecnica",
+    garantiaBateriaAnos: 8,
+    garantiaBateriaKm: 160000,
+    garantiaBateriaDegradacionPct: null,
+    imagenOficial: "/media/smart-3-brabus-2026-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial: "/media/smart-3-brabus-2026-precio-ficha-tecnica-interior-oficial.webp",
+    videoId: null,
+    videoCanal: null,
+    marca: "smart",
+    modelo: "#3 Brabus",
+    tipo: "Eléctrico",
+    categoria: "SUV",
+    precioDesde: 55120,
+    potenciaCv: 428,
+    autonomiaKm: 415,
+    maleteroL: 370,
+    ceroCien: 3.7,
+    velocidadMax: 180,
+    bateriaKwh: 66,
+    cargaRapidaKw: 150,
+    etiquetaDgt: "Cero",
+    pros: [
+      "428 CV y 543 Nm con tracción total: 0-100 en 3,7 s, el smart más rápido de la historia",
+      "415 km WLTP y carga de 150 kW: prestaciones sin renunciar al uso diario",
+      "Chasis específico Brabus: suspensiones firmes, dirección deportiva y Cx de 0,27",
+      "Equipamiento cerrado de serie: bomba de calor, head-up display y sonido deportivo simulado",
+      "Capacidad de remolque de 1.600 kg: rara en un SUV compacto eléctrico",
+    ],
+    contras: [
+      "55.120 €: territorio premium, lejos de la filosofía smart original",
+      "1.910 kg: 130 kg más que la versión básica, se nota en consumo",
+      "Velocidad limitada a 180 km/h: las prestaciones se quedan en la aceleración",
+      "Llantas de 20\" y neumáticos de 245 mm: suben el confort duro y el coste de reposición",
+      "Autonomía real en conducción deportiva muy por debajo de los 415 km WLTP",
+    ],
+    largoMm: 4440,
+    anchoMm: 1840,
+    altoMm: 1550,
+    pesoKg: 1910,
+    consumo: null,
+    consumoUnidad: null,
+    plazas: 5,
+    parNm: 543,
+    traccion: "Total",
+    emisionesCo2: 0,
+    aprox: [],
+    imagen: "/media/smart-3-brabus-2026-precio-ficha-tecnica-hero.webp",
+    opiniones: [],
+    costeMensual: {
+      "costeEnergia100km": 4.0,
+      "seguroTercerosAnual": 600,
+      "seguroAmpliadoAnual": 1100,
+      "mantenimientoAnual": 320,
+      "costeMensualTotal": 152,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.85,
+      "notas": "consumo real estimado aprox 22 kWh/100 km por mayor peso y potencia (sin dato WLTP publicado); recarga doméstica aprox 0,18 EUR/kWh",
+      "estimado": true
+    },
+    galeria: [
+      {
+        "src": "/media/smart-3-brabus-2026-precio-ficha-tecnica-oficial.webp",
+        "alt": "smart #3 Brabus, tres cuartos delantero con llantas de 20 pulgadas",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-3-brabus-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior deportivo del smart #3 Brabus con detalles en rojo",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-3-brabus-2026-precio-ficha-tecnica-hero.webp",
+        "alt": "smart #3 Brabus acelerando en una carretera secundaria",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ],
+  },
+  {
+    id: "smart-1-pure-2025-precio-ficha-tecnica",
+    "marca": "smart",
+    "modelo": "#1 Pure",
+    "tipo": "Eléctrico",
+    "categoria": "SUV",
+    "precioDesde": 31400,
+    "potenciaCv": 272,
+    "autonomiaKm": 310,
+    "maleteroL": 288,
+    "ceroCien": 6.7,
+    "velocidadMax": 180,
+    "bateriaKwh": 49,
+    "cargaRapidaKw": 150,
+    "etiquetaDgt": "Cero",
+    "garantiaBateriaAnos": 8,
+    "garantiaBateriaKm": 160000,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4270,
+    "anchoMm": 1822,
+    "altoMm": 1636,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": 343,
+    "traccion": "Trasera",
+    "emisionesCo2": 0,
+    "aprox": [],
+    "pros": [
+      "31.400 €: el smart eléctrico más barato, 7.000 € menos que el anterior acceso",
+      "272 CV y 343 Nm con tracción trasera: potencia de sobra para un B-SUV",
+      "Batería LFP de 49 kWh: química más duradera y sin cobalto",
+      "310 km WLTP y carga del 10 al 80 % en 30 minutos (150 kW DC)",
+      "5 estrellas Euro NCAP y ADAS de serie (smart Pilot Assist)"
+    ],
+    "contras": [
+      "Tapicería de tela y sin techo panorámico: se nota el recorte de equipamiento",
+      "310 km WLTP: justo para viajar, pensado para ciudad y cercanías",
+      "Llantas de 18\" y techo duro: pierde parte del aire premium del #1",
+      "Maletero de 288 L: correcto, pero no generoso",
+      "Red smart pequeña en España frente a generalistas"
+    ],
+    "imagen": "/media/smart-1-pure-2025-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/smart-1-pure-2025-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/smart-1-pure-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": null,
+    "videoCanal": null,
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 2.9,
+      "seguroTercerosAnual": 450,
+      "seguroAmpliadoAnual": 850,
+      "mantenimientoAnual": 280,
+      "costeMensualTotal": 130,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "consumo estimado aprox 16 kWh/100 km por versión de acceso; recarga doméstica aprox 0,18 EUR/kWh",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/smart-1-pure-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "smart #1 Pure, SUV eléctrico compacto, tres cuartos delantero",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-1-pure-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del smart #1 Pure con tapicería de tela y pantalla central",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-1-pure-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "smart #1 Pure circulando por una avenida urbana",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "smart-1-pure-plus-2025-precio-ficha-tecnica",
+    "marca": "smart",
+    "modelo": "#1 Pure+",
+    "tipo": "Eléctrico",
+    "categoria": "SUV",
+    "precioDesde": 35600,
+    "potenciaCv": 272,
+    "autonomiaKm": 420,
+    "maleteroL": 288,
+    "ceroCien": 6.7,
+    "velocidadMax": 180,
+    "bateriaKwh": 66,
+    "cargaRapidaKw": 150,
+    "etiquetaDgt": "Cero",
+    "garantiaBateriaAnos": 8,
+    "garantiaBateriaKm": 160000,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4270,
+    "anchoMm": 1822,
+    "altoMm": 1636,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": 343,
+    "traccion": "Trasera",
+    "emisionesCo2": 0,
+    "aprox": [],
+    "pros": [
+      "35.600 €: 7.800 € menos que el Pro+ con la misma batería de 66 kWh",
+      "420 km WLTP: 110 km más que el Pure por solo 4.200 € más",
+      "Bomba de calor de serie: menos consumo en invierno",
+      "272 CV con tracción trasera y 0-100 en 6,7 s",
+      "Carga de 150 kW DC: del 10 al 80 % en 30 minutos"
+    ],
+    "contras": [
+      "Mismo equipamiento recortado que el Pure (tela, sin techo panorámico)",
+      "20 km menos de autonomía que el Premium con la misma batería",
+      "Batería NMC: conviene no cargarla al 100 % a diario",
+      "Maletero de 288 L: no es su punto fuerte",
+      "Por 5.100 € más está el Premium, mucho mejor equipado"
+    ],
+    "imagen": "/media/smart-1-pure-plus-2025-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/smart-1-pure-plus-2025-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/smart-1-pure-plus-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": null,
+    "videoCanal": null,
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 3,
+      "seguroTercerosAnual": 470,
+      "seguroAmpliadoAnual": 880,
+      "mantenimientoAnual": 290,
+      "costeMensualTotal": 135,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "consumo estimado aprox 16,5 kWh/100 km; recarga doméstica aprox 0,18 EUR/kWh",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/smart-1-pure-plus-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "smart #1 Pure+, SUV eléctrico, tres cuartos delantero",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-1-pure-plus-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del smart #1 Pure+ con pantalla central de 12,8 pulgadas",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-1-pure-plus-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "smart #1 Pure+ en una carretera secundaria al atardecer",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "smart-1-pro-2025-precio-ficha-tecnica",
+    "marca": "smart",
+    "modelo": "#1 Pro",
+    "tipo": "Eléctrico",
+    "categoria": "SUV",
+    "precioDesde": null,
+    "potenciaCv": 272,
+    "autonomiaKm": 310,
+    "maleteroL": 288,
+    "ceroCien": 6.7,
+    "velocidadMax": 180,
+    "bateriaKwh": 49,
+    "cargaRapidaKw": 150,
+    "etiquetaDgt": "Cero",
+    "garantiaBateriaAnos": 8,
+    "garantiaBateriaKm": 160000,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4270,
+    "anchoMm": 1822,
+    "altoMm": 1636,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": 343,
+    "traccion": "Trasera",
+    "emisionesCo2": 0,
+    "aprox": [],
+    "pros": [
+      "Batería LFP de 49 kWh: admite cargas al 100 % sin degradar como la NMC",
+      "272 CV y tracción trasera: el #1 más divertido de los de un motor",
+      "310 km WLTP con 150 kW de carga rápida",
+      "Techo panorámico Halo y acabados superiores al Pure",
+      "5 estrellas Euro NCAP con 96 % en ocupante adulto"
+    ],
+    "contras": [
+      "El Pure ofrece lo mismo por menos dinero",
+      "310 km: la autonomía más corta de la gama junto al Pure",
+      "Sin bomba de calor (reservada a versiones superiores)",
+      "Maletero de 288 L",
+      "Precio actual sin confirmar en tarifa"
+    ],
+    "imagen": "/media/smart-1-pro-2025-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/smart-1-pro-2025-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/smart-1-pro-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": null,
+    "videoCanal": null,
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 2.9,
+      "seguroTercerosAnual": 460,
+      "seguroAmpliadoAnual": 870,
+      "mantenimientoAnual": 290,
+      "costeMensualTotal": 133,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "consumo estimado aprox 16 kWh/100 km; recarga doméstica aprox 0,18 EUR/kWh; precio de compra sin confirmar",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/smart-1-pro-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "smart #1 Pro, SUV eléctrico compacto, tres cuartos delantero",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-1-pro-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del smart #1 Pro con techo panorámico Halo",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-1-pro-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "smart #1 Pro aparcado en una calle del centro",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "smart-1-pro-plus-2025-precio-ficha-tecnica",
+    "marca": "smart",
+    "modelo": "#1 Pro+",
+    "tipo": "Eléctrico",
+    "categoria": "SUV",
+    "precioDesde": null,
+    "potenciaCv": 272,
+    "autonomiaKm": 420,
+    "maleteroL": 288,
+    "ceroCien": 6.7,
+    "velocidadMax": 180,
+    "bateriaKwh": 66,
+    "cargaRapidaKw": 150,
+    "etiquetaDgt": "Cero",
+    "garantiaBateriaAnos": 8,
+    "garantiaBateriaKm": 160000,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4270,
+    "anchoMm": 1822,
+    "altoMm": 1636,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": 343,
+    "traccion": "Trasera",
+    "emisionesCo2": 0,
+    "aprox": [],
+    "pros": [
+      "420 km WLTP (584 km en ciudad): la autonomía de un motor más equilibrada",
+      "Batería de 66 kWh con 150 kW de carga rápida",
+      "272 CV con tracción trasera: tacto deportivo",
+      "Equipamiento completo con techo panorámico Halo",
+      "5 estrellas Euro NCAP"
+    ],
+    "contras": [
+      "El Pure+ da la misma batería y autonomía por 7.800 € menos",
+      "Sin bomba de calor (la lleva el Pure+, curioso)",
+      "Batería NMC: mejor no cargarla al 100 % a diario",
+      "Maletero de 288 L",
+      "Precio actual sin confirmar en tarifa"
+    ],
+    "imagen": "/media/smart-1-pro-plus-2025-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/smart-1-pro-plus-2025-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/smart-1-pro-plus-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": "OF7vPd_vQ6w",
+    "videoCanal": "Motorelegance",
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 3,
+      "seguroTercerosAnual": 470,
+      "seguroAmpliadoAnual": 900,
+      "mantenimientoAnual": 300,
+      "costeMensualTotal": 138,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "consumo estimado aprox 16,5 kWh/100 km; recarga doméstica aprox 0,18 EUR/kWh",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/smart-1-pro-plus-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "smart #1 Pro+, SUV eléctrico, tres cuartos delantero",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-1-pro-plus-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del smart #1 Pro+ con pantalla de 12,8 pulgadas",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-1-pro-plus-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "smart #1 Pro+ en carretera de montaña",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "smart-1-premium-2025-precio-ficha-tecnica",
+    "marca": "smart",
+    "modelo": "#1 Premium",
+    "tipo": "Eléctrico",
+    "categoria": "SUV",
+    "precioDesde": 40700,
+    "potenciaCv": 272,
+    "autonomiaKm": 440,
+    "maleteroL": 288,
+    "ceroCien": 6.7,
+    "velocidadMax": 180,
+    "bateriaKwh": 66,
+    "cargaRapidaKw": 150,
+    "etiquetaDgt": "Cero",
+    "garantiaBateriaAnos": 8,
+    "garantiaBateriaKm": 160000,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4270,
+    "anchoMm": 1822,
+    "altoMm": 1636,
+    "pesoKg": 1788,
+    "consumo": 16.7,
+    "consumoUnidad": "kWh/100 km",
+    "plazas": 5,
+    "parNm": 343,
+    "traccion": "Trasera",
+    "emisionesCo2": 0,
+    "aprox": [],
+    "pros": [
+      "440 km WLTP: la mayor autonomía de los #1 de un motor",
+      "40.700 € (km77, tarifa 08/2026): el tope de gama racional",
+      "Bomba de calor, 22 kW en alterna y 150 kW en continua",
+      "Interior premium con pantalla de 12,8\" y techo Halo",
+      "16,7 kWh/100 km WLTP: el más eficiente de la gama"
+    ],
+    "contras": [
+      "5.100 € más que el Pure+ por 20 km y equipamiento",
+      "El Pulse añade la tracción total por solo 466 € más",
+      "Batería NMC: mejor no cargarla al 100 % a diario",
+      "Maletero de 288 L",
+      "1.788 kg: se nota en consumos reales"
+    ],
+    "imagen": "/media/smart-1-premium-2025-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/smart-1-premium-2025-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/smart-1-premium-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": "OF7vPd_vQ6w",
+    "videoCanal": "Motorelegance",
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 3,
+      "seguroTercerosAnual": 480,
+      "seguroAmpliadoAnual": 920,
+      "mantenimientoAnual": 300,
+      "costeMensualTotal": 139,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "consumo WLTP 16,7 kWh/100 km; recarga doméstica aprox 0,18 EUR/kWh",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/smart-1-premium-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "smart #1 Premium, SUV eléctrico, tres cuartos delantero",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-1-premium-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior premium del smart #1 Premium con pantalla de 12,8 pulgadas",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-1-premium-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "smart #1 Premium en color cobre al atardecer",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "smart-1-pulse-2025-precio-ficha-tecnica",
+    "marca": "smart",
+    "modelo": "#1 Pulse",
+    "tipo": "Eléctrico",
+    "categoria": "SUV",
+    "precioDesde": 41166,
+    "potenciaCv": 428,
+    "autonomiaKm": 400,
+    "maleteroL": 288,
+    "ceroCien": null,
+    "velocidadMax": 180,
+    "bateriaKwh": 66,
+    "cargaRapidaKw": 150,
+    "etiquetaDgt": "Cero",
+    "garantiaBateriaAnos": 8,
+    "garantiaBateriaKm": 160000,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4270,
+    "anchoMm": 1822,
+    "altoMm": 1636,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": 543,
+    "traccion": "Total",
+    "emisionesCo2": 0,
+    "aprox": [
+      "autonomiaKm"
+    ],
+    "pros": [
+      "428 CV y 543 Nm con tracción total: prestaciones de deportivo",
+      "41.166 € (km77, tarifa 12/2025): solo 466 € más que el Premium",
+      "Doble motor con reparto inteligente de par",
+      "Batería de 66 kWh con 150 kW de carga rápida",
+      "Estética deportiva sin el precio del Brabus"
+    ],
+    "contras": [
+      "Autonomía aprox 400 km: menos que el Premium",
+      "Sin el chasis específico ni la imagen del Brabus",
+      "Mayor peso y consumo que las versiones trasera",
+      "Maletero de 288 L",
+      "0-100 sin dato oficial publicado"
+    ],
+    "imagen": "/media/smart-1-pulse-2025-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/smart-1-pulse-2025-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/smart-1-pulse-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": null,
+    "videoCanal": null,
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 3.2,
+      "seguroTercerosAnual": 500,
+      "seguroAmpliadoAnual": 1000,
+      "mantenimientoAnual": 320,
+      "costeMensualTotal": 150,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "consumo estimado aprox 18 kWh/100 km por tracción total; recarga doméstica aprox 0,18 EUR/kWh; autonomía aprox 400 km",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/smart-1-pulse-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "smart #1 Pulse, SUV eléctrico deportivo, tres cuartos delantero",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-1-pulse-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del smart #1 Pulse con detalles deportivos",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-1-pulse-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "smart #1 Pulse en una carretera de curvas",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "smart-1-brabus-2025-precio-ficha-tecnica",
+    "marca": "smart",
+    "modelo": "#1 Brabus",
+    "tipo": "Eléctrico",
+    "categoria": "SUV",
+    "precioDesde": 46210,
+    "potenciaCv": 428,
+    "autonomiaKm": 400,
+    "maleteroL": 313,
+    "ceroCien": 3.9,
+    "velocidadMax": 180,
+    "bateriaKwh": 66,
+    "cargaRapidaKw": 150,
+    "etiquetaDgt": "Cero",
+    "garantiaBateriaAnos": 8,
+    "garantiaBateriaKm": 160000,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4300,
+    "anchoMm": 1822,
+    "altoMm": 1636,
+    "pesoKg": 1900,
+    "consumo": 18.2,
+    "consumoUnidad": "kWh/100 km",
+    "plazas": 5,
+    "parNm": 543,
+    "traccion": "Total",
+    "emisionesCo2": 0,
+    "aprox": [],
+    "pros": [
+      "428 CV y 543 Nm: 0-100 en 3,9 s, el #1 más rápido",
+      "46.210 € (km77): el Brabus más asequible de la historia",
+      "Chasis específico Brabus con puesta a punto deportiva",
+      "400 km WLTP y 150 kW de carga (10-80 % en 30 min)",
+      "Estética Brabus con detalles en rojo y llantas de 19\""
+    ],
+    "contras": [
+      "5.044 € más que el Pulse con el mismo tren motriz",
+      "18,2 kWh/100 km WLTP: en autopista supera los 22",
+      "1.900 kg: se nota en consumo y agilidad",
+      "Maletero de 313 L: mejorable",
+      "Autonomía real en conducción deportiva, muy lejos de 400 km"
+    ],
+    "imagen": "/media/smart-1-brabus-2025-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/smart-1-brabus-2025-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/smart-1-brabus-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": null,
+    "videoCanal": null,
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 3.3,
+      "seguroTercerosAnual": 520,
+      "seguroAmpliadoAnual": 1050,
+      "mantenimientoAnual": 320,
+      "costeMensualTotal": 155,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "consumo WLTP 18,2 kWh/100 km; recarga doméstica aprox 0,18 EUR/kWh",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/smart-1-brabus-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "smart #1 Brabus, tres cuartos delantero con detalles en rojo",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-1-brabus-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del smart #1 Brabus con costuras en rojo",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-1-brabus-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "smart #1 Brabus acelerando en circuito",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "smart-3-pro-2025-precio-ficha-tecnica",
+    "marca": "smart",
+    "modelo": "#3 Pro",
+    "tipo": "Eléctrico",
+    "categoria": "SUV",
+    "precioDesde": null,
+    "potenciaCv": 272,
+    "autonomiaKm": 325,
+    "maleteroL": 370,
+    "ceroCien": 6.5,
+    "velocidadMax": 180,
+    "bateriaKwh": 49,
+    "cargaRapidaKw": 130,
+    "etiquetaDgt": "Cero",
+    "garantiaBateriaAnos": 8,
+    "garantiaBateriaKm": 160000,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4440,
+    "anchoMm": 1844,
+    "altoMm": 1556,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": 343,
+    "traccion": "Trasera",
+    "emisionesCo2": 0,
+    "aprox": [],
+    "pros": [
+      "SUV coupé con 272 CV y tracción trasera: el #3 más divertido de acceso",
+      "Batería LFP de 49 kWh: admite el 100 % diario sin degradar",
+      "325 km WLTP, 15 más que el #1 con la misma batería",
+      "Diseño coupé con Cx de 0,27: el más aerodinámico de smart",
+      "Maletero de 370 L + 15 L delantero: más práctico que el #1"
+    ],
+    "contras": [
+      "El #3 base ya ofrece 455 km por 38.950 €: compite en casa",
+      "325 km: corto para un coche de 4,44 m",
+      "Carga rápida de 130 kW, menos que los 150 del #1",
+      "La caída del techo penaliza las plazas traseras altas",
+      "Precio actual sin confirmar en tarifa"
+    ],
+    "imagen": "/media/smart-3-pro-2025-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/smart-3-pro-2025-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/smart-3-pro-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": "ckVx0oR_Vs8",
+    "videoCanal": "ElectroExamen",
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 3,
+      "seguroTercerosAnual": 460,
+      "seguroAmpliadoAnual": 880,
+      "mantenimientoAnual": 290,
+      "costeMensualTotal": 135,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "consumo estimado aprox 16,5 kWh/100 km; recarga doméstica aprox 0,18 EUR/kWh",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/smart-3-pro-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "smart #3 Pro, SUV coupé eléctrico, tres cuartos delantero",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-3-pro-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del smart #3 Pro con pantalla central",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-3-pro-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "smart #3 Pro en una carretera costera",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "smart-3-pro-plus-2025-precio-ficha-tecnica",
+    "marca": "smart",
+    "modelo": "#3 Pro+",
+    "tipo": "Eléctrico",
+    "categoria": "SUV",
+    "precioDesde": null,
+    "potenciaCv": 272,
+    "autonomiaKm": 435,
+    "maleteroL": 370,
+    "ceroCien": 6.5,
+    "velocidadMax": 180,
+    "bateriaKwh": 66,
+    "cargaRapidaKw": 150,
+    "etiquetaDgt": "Cero",
+    "garantiaBateriaAnos": 8,
+    "garantiaBateriaKm": 160000,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4440,
+    "anchoMm": 1844,
+    "altoMm": 1556,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": 343,
+    "traccion": "Trasera",
+    "emisionesCo2": 0,
+    "aprox": [],
+    "pros": [
+      "435 km WLTP: de las mejores autonomías trasera del segmento",
+      "272 CV con tracción trasera y 0-100 en 6,5 s",
+      "Batería de 66 kWh con 150 kW de carga rápida",
+      "Diseño coupé con Cx de 0,27",
+      "Maletero de 370 L + frunk de 15 L"
+    ],
+    "contras": [
+      "El #3 Premium da 455 km con más equipamiento",
+      "Sin tracción total (reservada al Brabus de 428 CV)",
+      "Batería NMC: mejor no cargarla al 100 % a diario",
+      "Plazas traseras con techo coupé",
+      "Precio actual sin confirmar en tarifa"
+    ],
+    "imagen": "/media/smart-3-pro-plus-2025-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/smart-3-pro-plus-2025-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/smart-3-pro-plus-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": "ckVx0oR_Vs8",
+    "videoCanal": "ElectroExamen",
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 3,
+      "seguroTercerosAnual": 470,
+      "seguroAmpliadoAnual": 900,
+      "mantenimientoAnual": 300,
+      "costeMensualTotal": 138,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "consumo estimado aprox 16,5 kWh/100 km; recarga doméstica aprox 0,18 EUR/kWh",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/smart-3-pro-plus-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "smart #3 Pro+, SUV coupé eléctrico, tres cuartos delantero",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-3-pro-plus-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del smart #3 Pro+ con acabados premium",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-3-pro-plus-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "smart #3 Pro+ en una autopista al amanecer",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "smart-5-pro-2025-precio-ficha-tecnica",
+    "marca": "smart",
+    "modelo": "#5 Pro",
+    "tipo": "Eléctrico",
+    "categoria": "SUV",
+    "precioDesde": 48000,
+    "potenciaCv": 340,
+    "autonomiaKm": 465,
+    "maleteroL": 630,
+    "ceroCien": null,
+    "velocidadMax": 200,
+    "bateriaKwh": 76,
+    "cargaRapidaKw": 400,
+    "etiquetaDgt": "Cero",
+    "garantiaBateriaAnos": 8,
+    "garantiaBateriaKm": 160000,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4710,
+    "anchoMm": 1920,
+    "altoMm": 1710,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": 373,
+    "traccion": "Trasera",
+    "emisionesCo2": 0,
+    "aprox": [
+      "autonomiaKm",
+      "ceroCien"
+    ],
+    "pros": [
+      "48.000 €: el #5 más asequible, 5.000 € menos que el Pro+",
+      "Batería LFP de 76 kWh: la mayor LFP de smart, admite el 100 % diario",
+      "340 CV con tracción trasera",
+      "Arquitectura de 800 V: cargas ultrarrápidas",
+      "Maletero de 630 L, el más grande de smart"
+    ],
+    "contras": [
+      "Autonomía aprox 465 km: 125 menos que el Pro+",
+      "Sin la batería de 100 kWh ni los 590 km del Pro+",
+      "Tamaño XL (4,71 m): aparcar en ciudad cuesta",
+      "0-100 sin dato oficial publicado",
+      "Red smart pequeña para un coche de este precio"
+    ],
+    "imagen": "/media/smart-5-pro-2025-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/smart-5-pro-2025-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/smart-5-pro-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": null,
+    "videoCanal": null,
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 3.4,
+      "seguroTercerosAnual": 520,
+      "seguroAmpliadoAnual": 1000,
+      "mantenimientoAnual": 320,
+      "costeMensualTotal": 153,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "consumo estimado aprox 19 kWh/100 km; recarga doméstica aprox 0,18 EUR/kWh; autonomía aprox 465 km",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/smart-5-pro-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "smart #5 Pro, SUV eléctrico grande, tres cuartos delantero",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-5-pro-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del smart #5 Pro con triple pantalla",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-5-pro-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "smart #5 Pro en una carretera de montaña",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "smart-5-pro-plus-2025-precio-ficha-tecnica",
+    "marca": "smart",
+    "modelo": "#5 Pro+",
+    "tipo": "Eléctrico",
+    "categoria": "SUV",
+    "precioDesde": 53000,
+    "potenciaCv": 363,
+    "autonomiaKm": 590,
+    "maleteroL": 630,
+    "ceroCien": 6.5,
+    "velocidadMax": 200,
+    "bateriaKwh": 100,
+    "cargaRapidaKw": 400,
+    "etiquetaDgt": "Cero",
+    "garantiaBateriaAnos": 8,
+    "garantiaBateriaKm": 160000,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4710,
+    "anchoMm": 1920,
+    "altoMm": 1710,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": 373,
+    "traccion": "Trasera",
+    "emisionesCo2": 0,
+    "aprox": [
+      "cargaRapidaKw"
+    ],
+    "pros": [
+      "590 km WLTP: la mayor autonomía de todo smart",
+      "53.000 €: 5.000 € menos que el Premium con lo esencial",
+      "363 CV con tracción trasera y 0-100 en 6,5 s",
+      "Batería de 100 kWh con arquitectura de 800 V",
+      "Maletero de 630 L y batalla de 2,9 m: habitabilidad XL"
+    ],
+    "contras": [
+      "Batería NMC: mejor no cargarla al 100 % a diario",
+      "Sin el equipamiento top del Premium (misma batería)",
+      "4,71 m de largo: no es un coche de ciudad",
+      "Carga DC de hasta 400 kW (dato aprox., según versión)",
+      "A este precio, el Tesla Model Y compite duro"
+    ],
+    "imagen": "/media/smart-5-pro-plus-2025-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/smart-5-pro-plus-2025-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/smart-5-pro-plus-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": "Lrlr3Fx3Crk",
+    "videoCanal": "PureGrip",
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 3.3,
+      "seguroTercerosAnual": 540,
+      "seguroAmpliadoAnual": 1050,
+      "mantenimientoAnual": 340,
+      "costeMensualTotal": 157,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "consumo estimado aprox 18,5 kWh/100 km; recarga doméstica aprox 0,18 EUR/kWh; carga DC aprox 400 kW",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/smart-5-pro-plus-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "smart #5 Pro+, SUV eléctrico grande, tres cuartos delantero",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-5-pro-plus-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del smart #5 Pro+ con triple pantalla",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-5-pro-plus-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "smart #5 Pro+ en una autopista europea",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "smart-5-premium-2025-precio-ficha-tecnica",
+    "marca": "smart",
+    "modelo": "#5 Premium",
+    "tipo": "Eléctrico",
+    "categoria": "SUV",
+    "precioDesde": 57500,
+    "potenciaCv": 363,
+    "autonomiaKm": 590,
+    "maleteroL": 630,
+    "ceroCien": 6.5,
+    "velocidadMax": 200,
+    "bateriaKwh": 100,
+    "cargaRapidaKw": 400,
+    "etiquetaDgt": "Cero",
+    "garantiaBateriaAnos": 8,
+    "garantiaBateriaKm": 160000,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4710,
+    "anchoMm": 1920,
+    "altoMm": 1710,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": 373,
+    "traccion": "Trasera",
+    "emisionesCo2": 0,
+    "aprox": [
+      "cargaRapidaKw"
+    ],
+    "pros": [
+      "590 km WLTP con el equipamiento más completo de la gama trasera",
+      "363 CV, 0-100 en 6,5 s y 200 km/h",
+      "Batería de 100 kWh con arquitectura de 800 V",
+      "Interior lounge con triple pantalla y asientos de confort",
+      "Maletero de 630 L"
+    ],
+    "contras": [
+      "57.500 €: 4.500 € más que el Pro+ con la misma mecánica",
+      "El Pulse añade la tracción total por el mismo precio",
+      "Batería NMC: mejor no cargarla al 100 % a diario",
+      "4,71 m: tamaño XL para diario urbano",
+      "A este precio hay premium alemanes eléctricos"
+    ],
+    "imagen": "/media/smart-5-premium-2025-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/smart-5-premium-2025-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/smart-5-premium-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": null,
+    "videoCanal": null,
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 3.3,
+      "seguroTercerosAnual": 550,
+      "seguroAmpliadoAnual": 1080,
+      "mantenimientoAnual": 340,
+      "costeMensualTotal": 160,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "consumo estimado aprox 18,5 kWh/100 km; recarga doméstica aprox 0,18 EUR/kWh; carga DC aprox 400 kW",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/smart-5-premium-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "smart #5 Premium, SUV eléctrico grande, tres cuartos delantero",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-5-premium-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior lounge del smart #5 Premium con triple pantalla",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-5-premium-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "smart #5 Premium en un entorno urbano premium",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "smart-5-pulse-2025-precio-ficha-tecnica",
+    "marca": "smart",
+    "modelo": "#5 Pulse",
+    "tipo": "Eléctrico",
+    "categoria": "SUV",
+    "precioDesde": 57500,
+    "potenciaCv": 587,
+    "autonomiaKm": 540,
+    "maleteroL": 630,
+    "ceroCien": null,
+    "velocidadMax": 210,
+    "bateriaKwh": 100,
+    "cargaRapidaKw": 400,
+    "etiquetaDgt": "Cero",
+    "garantiaBateriaAnos": 8,
+    "garantiaBateriaKm": 160000,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4710,
+    "anchoMm": 1920,
+    "altoMm": 1710,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": null,
+    "traccion": "Total",
+    "emisionesCo2": 0,
+    "aprox": [
+      "potenciaCv",
+      "autonomiaKm",
+      "cargaRapidaKw"
+    ],
+    "pros": [
+      "587 CV con tracción total (dato aprox.): prestaciones de deportivo",
+      "57.500 €: mismo precio que el Premium con 224 CV más",
+      "Batería de 100 kWh con arquitectura de 800 V",
+      "≈540 km de autonomía (dato aproximado)",
+      "210 km/h de velocidad máxima"
+    ],
+    "contras": [
+      "Menos autonomía que el Premium (590 km)",
+      "El Brabus añade 59 CV y chasis específico por 6.160 € más",
+      "Batería NMC: mejor no cargarla al 100 % a diario",
+      "0-100 y par sin dato oficial publicado",
+      "4,71 m y mucho peso: no es un juguete urbano"
+    ],
+    "imagen": "/media/smart-5-pulse-2025-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/smart-5-pulse-2025-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/smart-5-pulse-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": null,
+    "videoCanal": null,
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 3.8,
+      "seguroTercerosAnual": 560,
+      "seguroAmpliadoAnual": 1150,
+      "mantenimientoAnual": 360,
+      "costeMensualTotal": 173,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "consumo estimado aprox 21 kWh/100 km por tracción total; recarga doméstica aprox 0,18 EUR/kWh; potencia y autonomía aproximadas",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/smart-5-pulse-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "smart #5 Pulse, SUV eléctrico deportivo, tres cuartos delantero",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-5-pulse-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del smart #5 Pulse con detalles deportivos",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-5-pulse-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "smart #5 Pulse en una carretera de montaña",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "smart-5-summit-edition-2025-precio-ficha-tecnica",
+    "marca": "smart",
+    "modelo": "#5 Summit Edition",
+    "tipo": "Eléctrico",
+    "categoria": "SUV",
+    "precioDesde": 59000,
+    "potenciaCv": 587,
+    "autonomiaKm": 540,
+    "maleteroL": 630,
+    "ceroCien": null,
+    "velocidadMax": 210,
+    "bateriaKwh": 100,
+    "cargaRapidaKw": 400,
+    "etiquetaDgt": "Cero",
+    "garantiaBateriaAnos": 8,
+    "garantiaBateriaKm": 160000,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4710,
+    "anchoMm": 1920,
+    "altoMm": 1710,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": null,
+    "traccion": "Total",
+    "emisionesCo2": 0,
+    "aprox": [
+      "potenciaCv",
+      "autonomiaKm",
+      "cargaRapidaKw"
+    ],
+    "pros": [
+      "Edición aventurera con pack off-road: baca, escalera y protecciones",
+      "587 CV con tracción total (dato aprox.) y 540 km",
+      "59.000 €: el #5 más exclusivo sin llegar al Brabus",
+      "Batería de 100 kWh con arquitectura de 800 V",
+      "Maletero de 630 L más accesorios de expedición"
+    ],
+    "contras": [
+      "El pack aventurero penaliza aerodinámica y consumo",
+      "1.500 € más que el Pulse con la misma base mecánica",
+      "Batería NMC: mejor no cargarla al 100 % a diario",
+      "Edición limitada: disponibilidad reducida",
+      "No es un todoterreno de verdad (sin reductora)"
+    ],
+    "imagen": "/media/smart-5-summit-edition-2025-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/smart-5-summit-edition-2025-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/smart-5-summit-edition-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": "4tPvOgv5uyc",
+    "videoCanal": null,
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 3.8,
+      "seguroTercerosAnual": 560,
+      "seguroAmpliadoAnual": 1150,
+      "mantenimientoAnual": 360,
+      "costeMensualTotal": 173,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "consumo estimado aprox 21 kWh/100 km; recarga doméstica aprox 0,18 EUR/kWh; potencia y autonomía aproximadas",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/smart-5-summit-edition-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "smart #5 Summit Edition con baca y accesorios de expedición",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-5-summit-edition-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del smart #5 Summit Edition",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-5-summit-edition-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "smart #5 Summit Edition en una pista de tierra",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  },
+  {
+    id: "smart-5-brabus-2025-precio-ficha-tecnica",
+    "marca": "smart",
+    "modelo": "#5 Brabus",
+    "tipo": "Eléctrico",
+    "categoria": "SUV",
+    "precioDesde": 63660,
+    "potenciaCv": 646,
+    "autonomiaKm": 540,
+    "maleteroL": 630,
+    "ceroCien": 3.8,
+    "velocidadMax": 210,
+    "bateriaKwh": 100,
+    "cargaRapidaKw": 400,
+    "etiquetaDgt": "Cero",
+    "garantiaBateriaAnos": 8,
+    "garantiaBateriaKm": 160000,
+    "garantiaBateriaDegradacionPct": null,
+    "largoMm": 4710,
+    "anchoMm": 1920,
+    "altoMm": 1710,
+    "pesoKg": null,
+    "consumo": null,
+    "consumoUnidad": null,
+    "plazas": 5,
+    "parNm": null,
+    "traccion": "Total",
+    "emisionesCo2": 0,
+    "aprox": [
+      "precioDesde",
+      "autonomiaKm",
+      "cargaRapidaKw"
+    ],
+    "pros": [
+      "646 CV: el smart más potente de la historia, 0-100 en 3,8 s",
+      "63.660 € aprox.: prestaciones de superdeportivo en SUV familiar",
+      "Chasis específico Brabus",
+      "Batería de 100 kWh con arquitectura de 800 V",
+      "≈540 km de autonomía (dato aproximado)"
+    ],
+    "contras": [
+      "6.160 € más que el Pulse por 59 CV y el chasis",
+      "Consumo real muy alto si se usa la potencia",
+      "Batería NMC: mejor no cargarla al 100 % a diario",
+      "4,71 m y más de 2,2 t estimadas: física implacable",
+      "Precio aproximado, pendiente de tarifa oficial"
+    ],
+    "imagen": "/media/smart-5-brabus-2025-precio-ficha-tecnica-hero.webp",
+    "imagenOficial": "/media/smart-5-brabus-2025-precio-ficha-tecnica-oficial.webp",
+    "imagenInteriorOficial": "/media/smart-5-brabus-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "videoId": null,
+    "videoCanal": null,
+    "opiniones": [],
+    "costeMensual": {
+      "costeEnergia100km": 4,
+      "seguroTercerosAnual": 580,
+      "seguroAmpliadoAnual": 1250,
+      "mantenimientoAnual": 380,
+      "costeMensualTotal": 186,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "consumo estimado aprox 22 kWh/100 km; recarga doméstica aprox 0,18 EUR/kWh; precio y autonomía aproximados",
+      "estimado": true
+    },
+    "galeria": [
+      {
+        "src": "/media/smart-5-brabus-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "smart #5 Brabus, tres cuartos delantero con llantas Brabus",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-5-brabus-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "alt": "Interior del smart #5 Brabus con detalles en rojo",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-5-brabus-2025-precio-ficha-tecnica-hero.webp",
+        "alt": "smart #5 Brabus en circuito",
+        "ancho": 1200,
+        "alto": 800
+      }
+    ]
+  }
+];

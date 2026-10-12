@@ -1,0 +1,39 @@
+// SeccionJuegoPortada — sección COMPACTA del juego en la portada (05/10/2026).
+// Va tras "Antes de recurrir, analiza tu multa": mini-titular + una línea +
+// CTA "Jugar" → /juego-monos, con el mono colgando como decoración.
+// Compacta a propósito: no rompe el ritmo vertical de la portada.
+import { Link } from "react-router-dom";
+import { AVATAR_COSA_COLGANDO } from "@/lib/cosa";
+
+export default function SeccionJuegoPortada() {
+  return (
+    <section aria-label="Caza de monos" className="relative overflow-hidden bg-gradient-to-r from-amber-50 via-orange-50 to-amber-50 border-y border-amber-100">
+      {/* Mono colgando del borde superior, decorativo */}
+      <div className="absolute top-0 right-5 sm:right-12 z-10 pointer-events-none" aria-hidden="true">
+        <img
+          src={AVATAR_COSA_COLGANDO}
+          alt=""
+          width={44}
+          height={88}
+          loading="lazy"
+          className="w-[40px] h-[80px] sm:w-[44px] sm:h-[88px] object-cover rounded-b-lg animate-[rtmCosaSwing_3.4s_ease-in-out_infinite] origin-top"
+        />
+      </div>
+      <div className="max-w-2xl mx-auto px-4 py-6 sm:py-7 pr-16 sm:pr-20">
+        <h2 className="text-lg sm:text-xl font-black text-gray-900">
+          🦍 Encuentra los monos y gana 1000€
+        </h2>
+        <p className="mt-1 text-sm text-gray-600 leading-relaxed">
+          Hay 250 monos + el legendario dorado escondidos por la web. Cázalos todos
+          y opta a 1000€ + 1 año de recursos gratis. Del 2º al 100º, recursos gratis.
+        </p>
+        <Link
+          to="/juego-monos"
+          className="mt-3 inline-block rounded-full bg-gradient-to-r from-amber-500 to-red-500 text-white font-black text-sm px-6 py-2.5 shadow-lg hover:brightness-110 transition cursor-pointer"
+        >
+          Jugar
+        </Link>
+      </div>
+    </section>
+  );
+}

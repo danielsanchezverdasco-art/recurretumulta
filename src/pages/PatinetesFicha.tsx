@@ -1,0 +1,778 @@
+import { lazy, Suspense, useEffect, useState } from "react";
+import { Link, useParams } from "react-router-dom";
+import {
+  ArrowLeftRight,
+  BookOpen,
+  Check,
+  Gauge,
+  Minus,
+  Play,
+  ShieldCheck,
+  Wrench,
+  X,
+} from "lucide-react";
+import { useSeo } from "@/hooks/use-seo.ts";
+import SharedNavbar from "@/components/shared-navbar.tsx";
+import SharedFooter from "@/components/shared-footer.tsx";
+import {
+  DriveInImage,
+  FlipCard,
+  Lightbox,
+  Marker,
+  StickyCta,
+  useSpotlight,
+} from "@/components/motion.tsx";
+// 07/10/2026 (fluidez): animados below-the-fold en lazy — se cargan al hacer scroll.
+const Donut = lazy(() => import("@/components/motion.tsx").then((m) => ({ default: m.Donut })));
+const BatteryFill = lazy(() => import("@/components/motion.tsx").then((m) => ({ default: m.BatteryFill })));
+const NightGallery = lazy(() => import("@/components/motion.tsx").then((m) => ({ default: m.NightGallery })));
+const SpecBar = lazy(() => import("@/components/motion.tsx").then((m) => ({ default: m.SpecBar })));
+const Speedometer = lazy(() => import("@/components/motion.tsx").then((m) => ({ default: m.Speedometer })));
+import CompartirBotones from "@/components/CompartirBotones.tsx";
+import { NotaCosa, MarcaAguaCosa } from "@/components/Cosa.tsx";
+import MonoEscondido from "@/components/caza-monos/MonoEscondido.tsx";
+import { fijoId } from "@/components/caza-monos/CazaMonosContext.tsx";
+import { garantiaDeMarca } from "@/lib/garantias-marcas.ts";
+import { tituloFichaPatinete } from "@/lib/seo-titulo-ficha.ts";
+import type { PatineteComparador } from "@/lib/comparador-patinetes-data.ts";
+import type { ResenaSchemaExtra } from "@/components/ResenasVehiculo.tsx";
+
+import { loadArrayItem, loadRecordEntry } from "@/lib/data-loader-utils.ts";
+
+// 07/10/2026 (rendimiento): below-the-fold en lazy para reducir el chunk inicial.
+const SeguridadEuroNCAPLayz = lazy(() => import("@/components/SeguridadEuroNCAP.tsx"));
+// 12/10/2026: opiniones de propietarios con fotos (below-the-fold en lazy).
+const ResenasVehiculoLazy = lazy(() => import("@/components/ResenasVehiculo.tsx"));
+
+const fmtPrecio = (v: number | null) =>
+  v == null ? "No publicado" : v.toLocaleString("es-ES") + " €";
+const fmtW = (v: number | null) => (v == null ? "No publicado" : v + " W");
+const fmtKm = (v: number | null) => (v == null ? "No publicado" : v + " km");
+const fmtKmh = (v: number | null) => (v == null ? "No publicado" : v + " km/h");
+const fmtWh = (v: number | null) => (v == null ? "No publicado" : v + " Wh");
+const fmtKg = (v: number | null) =>
+  v == null ? "No publicado" : v.toLocaleString("es-ES") + " kg";
+const fmtH = (v: number | null) =>
+  v == null
+    ? "No publicado"
+    : String(v).replace(".", ",") + (v === 1 ? " hora" : " horas");
+
+const fmtCertificado = (v: boolean | null) =>
+  v === true ? "Sí, verificado" : v === false ? "No" : "No verificado";
+
+type Fila = { campo: string; label: string; get: (p: PatineteComparador) => string };
+
+const FILAS: Fila[] = [
+  { campo: "precioEur", label: "Precio oficial", get: (p) => fmtPrecio(p.precioEur) },
+  { campo: "potenciaNominalW", label: "Potencia nominal", get: (p) => fmtW(p.potenciaNominalW) },
+  { campo: "potenciaPicoW", label: "Potencia pico", get: (p) => fmtW(p.potenciaPicoW) },
+  { campo: "autonomiaKm", label: "Autonomía declarada", get: (p) => fmtKm(p.autonomiaKm) },
+  { campo: "autonomiaRealKm", label: "Autonomía real estimada", get: (p) => fmtKm(p.autonomiaRealKm) },
+  { campo: "velocidadMaxKmh", label: "Velocidad máxima", get: (p) => fmtKmh(p.velocidadMaxKmh) },
+  { campo: "pesoKg", label: "Peso", get: (p) => fmtKg(p.pesoKg) },
+  { campo: "cargaMaxKg", label: "Carga máxima", get: (p) => fmtKg(p.cargaMaxKg) },
+  { campo: "tiempoCargaH", label: "Tiempo de carga", get: (p) => fmtH(p.tiempoCargaH) },
+  { campo: "bateriaWh", label: "Batería", get: (p) => fmtWh(p.bateriaWh) },
+  { campo: "frenos", label: "Frenos", get: (p) => p.frenos ?? "No publicado" },
+  { campo: "neumaticos", label: "Neumáticos", get: (p) => p.neumaticos ?? "No publicado" },
+  { campo: "certificadoDgt", label: "Certificado DGT", get: (p) => fmtCertificado(p.certificadoDgt) },
+];
+
+function Ficha({ patinete }: { patinete: PatineteComparador }) {
+  const nombre = `${patinete.marca} ${patinete.modelo}`;
+  // 12/10/2026: nodos schema.org de reseñas (se fusionan en cliente cuando
+  // Convex responde; en el prerender no hay datos → solo el schema base).
+  const [reviewsExtra, setReviewsExtra] = useState<ResenaSchemaExtra | null>(null);
+
+  const [lightbox, setLightbox] = useState(false);
+  const spotRef = useSpotlight<HTMLElement>();
+
+  // Dimensiones intrínsecas para width/height exactos de la hero (LCP 05/10/2026):
+  // importación diferida para no engordar el chunk de la ficha con el mapa de 548KB.
+  const [dims, setDims] = useState<Record<string, [number, number]>>({});
+  useEffect(() => {
+    let viva = true;
+    import("@/lib/media-dimensiones.ts").then((m) => {
+      if (viva) setDims(m.MEDIA_DIMENSIONS ?? {});
+    });
+    return () => { viva = false; };
+  }, []);
+
+  // Datos estrella para los Donut (solo valores reales, nunca inventados).
+  const donuts: { value: number; max: number; label: string }[] = [];
+  const autonomia = patinete.autonomiaRealKm ?? patinete.autonomiaKm;
+  if (autonomia != null)
+    donuts.push({ value: autonomia, max: 80, label: "km de autonomía" });
+  if (patinete.potenciaPicoW != null)
+    donuts.push({ value: patinete.potenciaPicoW, max: 2000, label: "W de potencia pico" });
+  if (donuts.length < 3 && patinete.bateriaWh != null)
+    donuts.push({ value: patinete.bateriaWh, max: 1500, label: "Wh de batería" });
+
+  // Datos técnicos para las SpecBar (solo valores reales).
+  const specbars: { label: string; value: number; max: number; unit: string }[] = [];
+  if (patinete.potenciaPicoW != null)
+    specbars.push({ label: "Potencia pico", value: patinete.potenciaPicoW, max: 2000, unit: " W" });
+  if (autonomia != null)
+    specbars.push({ label: "Autonomía real estimada", value: autonomia, max: 80, unit: " km" });
+  if (patinete.bateriaWh != null)
+    specbars.push({ label: "Batería", value: patinete.bateriaWh, max: 1500, unit: " Wh" });
+  if (specbars.length < 4 && patinete.tiempoCargaH != null)
+    specbars.push({ label: "Tiempo de carga", value: patinete.tiempoCargaH, max: 12, unit: " h" });
+
+  const FAQS = [
+    {
+      q: `¿Cuánto cuesta el ${nombre}?`,
+      a:
+        patinete.precioEur == null
+          ? `El ${nombre} no tiene precio oficial publicado para España en este momento: aparece como «No publicado» en la ficha. Lo actualizaremos en cuanto la marca lo anuncie.`
+          : `El precio oficial del ${nombre} en España es de ${fmtPrecio(patinete.precioEur)}. Ten en cuenta que las tiendas pueden aplicar ofertas puntuales por debajo de ese precio.`,
+    },
+    {
+      q: `¿Cuál es la autonomía real del ${nombre}?`,
+      a:
+        patinete.autonomiaRealKm == null
+          ? `No hay una estimación fiable de autonomía real para el ${nombre}: preferimos no inventarla.`
+          : `El fabricante declara ${fmtKm(patinete.autonomiaKm)}, pero en uso real urbano (semáforos, cuestas, peso del conductor) nuestra estimación es de ≈${patinete.autonomiaRealKm} km. La cifra con ≈ es una estimación, no un dato oficial.`,
+    },
+    {
+      q: `¿El ${nombre} tiene certificado de la DGT?`,
+      a:
+        patinete.certificadoDgt === true
+          ? `Sí: según el fabricante, el ${nombre} cumple la normativa española vigente para VMP. Aun así, conserva el certificado y comprueba que el número de serie coincide con el de la documentación.`
+          : `No hemos podido verificar el certificado DGT del ${nombre} en una fuente oficial, así que aparece como «No verificado». Antes de comprar, pide al vendedor el certificado de circulación: sin él, el patinete no es legal en España.`,
+    },
+    {
+      q: `¿Necesito seguro para el ${nombre}?`,
+      a: `Desde el 2 de enero de 2026 el seguro de responsabilidad civil es obligatorio para los VMP en España (Ley 5/2025). Además, desde el 30 de enero de 2026 los patinetes deben inscribirse en el Registro de Vehículos Personales Ligeros de la DGT. Tienes todos los detalles en nuestra guía de patinetes eléctricos.`,
+    },
+    {
+      q: `¿Dónde puedo comparar el ${nombre} con otros patinetes?`,
+      a: `En nuestro comparador de patinetes eléctricos, cara a cara con los otros 9 modelos de la base: precio, potencia, autonomía, peso y puntos fuertes y débiles.`,
+    },
+  ];
+
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Product",
+        name,
+        ...(patinete.fotoPendiente
+          ? {}
+          : {
+              image: [
+                `https://recurretumulta.online${patinete.foto}`,
+                ...(patinete.galeria ?? []).map(
+                  (g) => `https://recurretumulta.online${g.src}`
+                ),
+              ],
+            }),
+        url: `https://recurretumulta.online/patinetes/${patinete.id}`,
+        brand: { "@type": "Brand", name: patinete.marca },
+        category: "Patinete eléctrico (VMP)",
+        description: patinete.veredicto,
+        ...(patinete.pesoKg != null && {
+          weight: {
+            "@type": "QuantitativeValue",
+            value: patinete.pesoKg,
+            unitText: "kg",
+          },
+        }),
+        ...(patinete.velocidadMaxKmh != null && {
+          speed: {
+            "@type": "QuantitativeValue",
+            value: patinete.velocidadMaxKmh,
+            unitText: "km/h",
+          },
+        }),
+        ...(patinete.precioEur != null && {
+          offers: {
+            "@type": "Offer",
+            price: patinete.precioEur,
+            priceCurrency: "EUR",
+            availability: "https://schema.org/InStock",
+          },
+        }),
+      },
+      {
+        "@type": "FAQPage",
+        mainEntity: FAQS.map((f) => ({
+          "@type": "Question",
+          name: f.q,
+          acceptedAnswer: { "@type": "Answer", text: f.a },
+        })),
+      },
+      {
+        "@type": "BreadcrumbList",
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Inicio", item: "https://recurretumulta.online/" },
+          {
+            "@type": "ListItem",
+            position: 2,
+            name: "Comparador de patinetes",
+            item: "https://recurretumulta.online/comparador-patinetes",
+          },
+          {
+            "@type": "ListItem",
+            position: 3,
+            name,
+            item: `https://recurretumulta.online/patinetes/${patinete.id}`,
+          },
+        ],
+      },
+    ],
+  };
+
+  useSeo({
+    // SEO 07/10/2026 (metodología CTR, Daniel): fórmula ganadora
+    // [Keyword] + [número] + [beneficio] + [(año)]. Siempre ≤60 car.
+    title: tituloFichaPatinete(nombre, patinete),
+    description: `Ficha técnica del ${nombre}: precio, potencia, autonomía, peso, frenos, certificado DGT, pros y contras. Sin cifras inventadas.`,
+    canonical: `/patinetes/${patinete.id}`,
+    ...(patinete.fotoPendiente
+      ? {}
+      : { image: `https://recurretumulta.online${patinete.foto}` }),
+    type: "article",
+    keywords: [
+      nombre,
+      `${nombre} ficha técnica`,
+      `${nombre} precio`,
+      `${nombre} autonomía`,
+      `${nombre} opiniones`,
+    ],
+    schema: reviewsExtra
+      ? {
+          ...jsonLd,
+          "@graph": [
+            ...(jsonLd["@graph"] as Record<string, unknown>[]).map((nodo, i) =>
+              i === 0 && reviewsExtra.aggregateRating
+                ? { ...nodo, aggregateRating: reviewsExtra.aggregateRating }
+                : nodo,
+            ),
+            ...reviewsExtra.reviews,
+          ],
+        }
+      : jsonLd,
+  });
+
+  return (
+    <div className="min-h-screen bg-gray-50">
+      <SharedNavbar />
+      <main className="mx-auto max-w-4xl px-4 pb-16 pt-8">
+        <nav className="text-xs text-gray-500" aria-label="Migas de pan">
+          <Link to="/" className="hover:underline">
+            Inicio
+          </Link>{" "}
+          ·{" "}
+          <Link to="/comparador-patinetes" className="hover:underline">
+            Comparador de patinetes
+          </Link>{" "}
+          · <span className="text-gray-700">{nombre}</span>
+        </nav>
+
+        <header className="mt-4">
+          <div className="overflow-hidden rounded-3xl">
+            {patinete.fotoPendiente ? (
+              <div className="flex aspect-video w-full flex-col items-center justify-center gap-2 bg-gray-100 p-6 text-center">
+                <ShieldCheck className="h-10 w-10 text-gray-300" />
+                <p className="text-sm font-semibold text-gray-500">Foto oficial pendiente</p>
+                <p className="text-xs text-gray-400">
+                  Estamos consiguiendo la imagen oficial del {nombre} en la web de {patinete.marca}.
+                </p>
+              </div>
+            ) : (
+              <button
+                type="button"
+                onClick={() => setLightbox(true)}
+                className="block w-full cursor-zoom-in"
+                aria-label={`Ver foto grande del ${nombre}`}
+              >
+                <DriveInImage
+                  src={patinete.foto}
+                  alt={`Foto oficial del ${nombre}`}
+                  eager={true}
+                  width={dims[patinete.foto.split("/").pop() ?? ""]?.[0]}
+                  height={dims[patinete.foto.split("/").pop() ?? ""]?.[1]}
+                  className="block w-full bg-white"
+                  imgClassName="aspect-video w-full object-contain"
+                />
+              </button>
+            )}
+          </div>
+          {!patinete.fotoPendiente && lightbox && (
+            <Lightbox
+              src={patinete.foto}
+              alt={`Foto oficial del ${nombre}`}
+              onClose={() => setLightbox(false)}
+            />
+          )}
+          <div className="mt-5 flex flex-wrap items-center gap-2">
+            <span className="rounded-full bg-red-600 px-3 py-1 text-xs font-bold uppercase tracking-widest text-white">
+              {patinete.marca}
+            </span>
+            <span className="rounded-full bg-gray-200 px-3 py-1 text-xs font-semibold text-gray-700">
+              Patinete eléctrico (VMP)
+            </span>
+            <span
+              className={`rounded-full px-3 py-1 text-xs font-semibold ${
+                patinete.certificadoDgt === true
+                  ? "bg-emerald-100 text-emerald-700"
+                  : "bg-amber-100 text-amber-700"
+              }`}
+            >
+              Certificado DGT: {fmtCertificado(patinete.certificadoDgt)}
+            </span>
+          </div>
+          <h1 className="mt-3 text-3xl font-extrabold text-gray-900 sm:text-4xl">{nombre}</h1>
+          <p className="mt-2 text-gray-600">
+            Ficha técnica completa: precio, potencia, autonomía declarada y{" "}
+            <Marker>autonomía real estimada</Marker>,
+            peso, frenos y <Marker>certificado DGT</Marker>, con puntos fuertes y débiles honestos. Si un
+            dato no está publicado por una fuente fiable, aparece como «No publicado» en
+            vez de inventarlo. Datos verificados el 02/10/2026 en la web oficial de{" "}
+            {patinete.marca}.
+          </p>
+          <p className="mt-2 text-xs text-gray-500">
+            Fuente:{" "}
+            <a
+              href={patinete.fuenteUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-medium text-red-600 underline"
+            >
+              {patinete.fuenteNombre}
+            </a>
+          </p>
+        </header>
+
+        <div className="mt-4 flex justify-end">
+          <CompartirBotones
+            titulo={`Ficha técnica: ${nombre}`}
+            texto={`Ficha técnica del ${nombre}: precio, autonomía real, potencia y certificado DGT`}
+          />
+        </div>
+
+        {/* ── La nota de Cosa (fórmula determinista sobre datos reales) ── */}
+        <NotaCosa
+          nombre={nombre}
+          entrada={{
+            precioEur: patinete.precioEur,
+            potenciaCv: patinete.potenciaNominalW != null ? patinete.potenciaNominalW / 735.5 : null,
+            etiquetaDgt: null, // sin etiqueta ambiental aplicable: el peso se reparte
+            estrellasEuroNCAP: null, // los patinetes no tienen test EuroNCAP: no penaliza
+            garantiaAnos: garantiaDeMarca(patinete.marca, "patinetes")?.anios ?? null,
+            autonomiaKm: patinete.autonomiaRealKm ?? patinete.autonomiaKm,
+            pesoKg: patinete.pesoKg,
+          }}
+        />
+        <MarcaAguaCosa />
+
+        {/* Caza de monos: mono superpuesto (sin hueco en el flujo) */}
+        <div className="relative h-0 z-10">
+          <MonoEscondido
+            id={fijoId("ficha-patinete")}
+            pose="mono-risa"
+            size={36}
+            className="absolute -top-8 right-5"
+            titulo="¡Un mono en la ficha! Haz clic para cazarlo 🦍"
+          />
+        </div>
+
+        {donuts.length >= 2 && (
+          <Suspense fallback={null}>
+          <section
+            className="rtm-card mt-8 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6"
+            aria-label="Datos destacados"
+          >
+            <h2 className="text-xl font-extrabold text-gray-900">En cifras</h2>
+            <div className="mt-4 flex flex-wrap items-start justify-around gap-6">
+              {donuts.map((d) => (
+                <Donut key={d.label} value={d.value} max={d.max} label={d.label} />
+              ))}
+            </div>
+            {/* ── LOTE 2: velocímetro animado ── */}
+            {patinete.velocidadMaxKmh != null && (
+              <div className="mt-6 flex flex-wrap items-start justify-around gap-6">
+                <Speedometer value={patinete.velocidadMaxKmh} max={40} label="Velocidad máxima" />
+              </div>
+            )}
+            {specbars.length > 0 && (
+              <div className="mt-6 space-y-4">
+                {specbars.map((s) => (
+                  <SpecBar
+                    key={s.label}
+                    label={s.label}
+                    value={s.value}
+                    max={s.max}
+                    unit={s.unit}
+                  />
+                ))}
+              </div>
+            )}
+          </section>
+          </Suspense>
+        )}
+
+        {(patinete.galeria?.length ?? 0) > 0 && (
+          <Suspense fallback={null}>
+          <section className="mt-8" aria-label="Galería de fotos oficiales">
+            <NightGallery label="Galería">
+            <div className="mt-3 flex snap-x snap-mandatory gap-3 overflow-x-auto pb-2 sm:grid sm:grid-cols-3 sm:overflow-visible">
+              {patinete.galeria!.map((f) => (
+                <figure
+                  key={f.src}
+                  className="rtm-card w-72 shrink-0 snap-center overflow-hidden rounded-2xl sm:w-auto"
+                >
+                  <img
+                    src={f.src}
+                    alt={f.alt}
+                    width={f.ancho}
+                    height={f.alto}
+                    loading="lazy"
+                    className="rtm-card-zoom aspect-[3/2] w-full object-contain bg-white"
+                  />
+                </figure>
+              ))}
+            </div>
+            <p className="mt-2 text-xs text-gray-500">
+              Fotos oficiales de {patinete.marca} (prensa del fabricante).
+            </p>
+                      </NightGallery>
+</section>
+          </Suspense>
+        )}
+
+        <section
+          ref={spotRef}
+          className="rtm-spotlight rtm-card mt-8 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6"
+          aria-label="Ficha técnica"
+        >
+          <h2 className="flex items-center gap-2 text-xl font-extrabold text-gray-900">
+            <Gauge className="h-5 w-5 text-red-600" /> Ficha técnica
+          </h2>
+          <table className="mt-3 w-full text-sm">
+            <tbody>
+              {FILAS.map((f) => {
+                const esAprox = patinete.aprox.includes(f.campo);
+                return (
+                  <tr key={f.label} className="border-t border-gray-200/70">
+                    <th className="py-2.5 pr-2 text-left font-medium text-gray-500">
+                      {f.label}
+                    </th>
+                    <td className="py-2.5 text-right font-semibold text-gray-900">
+                      <span className="inline-flex items-center gap-1">
+                        {esAprox && <span title="Cifra aproximada">≈&nbsp;</span>}
+                        {f.get(patinete)}
+                      </span>
+                    </td>
+                  </tr>
+                );
+              })}
+            </tbody>
+          </table>
+          <p className="mt-3 text-xs text-gray-500">
+            <strong>≈</strong> = cifra aproximada (estimación cuando no hay dato oficial publicado).
+            «No publicado» = el fabricante no publica el dato; «No verificado» = no pudimos
+            confirmarlo en una fuente oficial.
+          </p>
+        </section>
+
+        <section className="rtm-card mt-8 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6">
+          <h2 className="text-xl font-extrabold text-gray-900">Nuestro veredicto</h2>
+          <p className="mt-3 text-gray-700">{patinete.veredicto}</p>
+          {(() => {
+            const g = garantiaDeMarca(patinete.marca, "patinetes");
+            return g && g.anios != null ? (
+              <p className="mt-3 text-sm text-gray-500">
+                🛡️ Garantía oficial {patinete.marca}: <strong className="text-gray-800">{g.anios} años{g.km ? ` / ${g.km.toLocaleString("es-ES")} km` : ""}</strong>
+                {g.nota ? <span className="text-gray-400"> ({g.nota.split(".")[0]})</span> : null}
+              </p>
+            ) : null;
+          })()}
+        </section>
+
+        <section className="mt-8 grid gap-6 sm:grid-cols-2" aria-label="Puntos fuertes y débiles">
+          <FlipCard
+            className="rtm-card"
+            minHeight="240px"
+            front={
+              <div className="flex min-h-[240px] flex-col items-center justify-center gap-2 rounded-3xl border border-emerald-200 bg-emerald-50 p-6 text-center">
+                <span className="text-4xl" aria-hidden="true">✅</span>
+                <p className="text-lg font-extrabold text-emerald-700">Pros</p>
+                <p className="text-sm text-gray-600">{patinete.pros[0]}</p>
+                <p className="text-xs font-semibold text-gray-400">
+                  Toca para voltear ⟳
+                </p>
+              </div>
+            }
+            back={
+              <div className="h-full min-h-[240px] overflow-y-auto rounded-3xl border border-emerald-200 bg-emerald-50 p-4 sm:p-6">
+                <h2 className="flex items-center gap-1.5 text-lg font-extrabold text-emerald-700">
+                  <Check className="h-5 w-5" /> Puntos fuertes
+                </h2>
+                <ul className="mt-3 space-y-2">
+                  {patinete.pros.map((p, i) => (
+                    <li key={i} className="flex gap-2 text-sm text-gray-700">
+                      <Check className="mt-0.5 h-4 w-4 shrink-0 text-emerald-600" />
+                      <span>{p}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            }
+          />
+          <FlipCard
+            className="rtm-card"
+            minHeight="240px"
+            front={
+              <div className="flex min-h-[240px] flex-col items-center justify-center gap-2 rounded-3xl border border-red-200 bg-red-50 p-6 text-center">
+                <span className="text-4xl" aria-hidden="true">❌</span>
+                <p className="text-lg font-extrabold text-red-600">Contras</p>
+                <p className="text-sm text-gray-600">{patinete.contras[0]}</p>
+                <p className="text-xs font-semibold text-gray-400">
+                  Toca para voltear ⟳
+                </p>
+              </div>
+            }
+            back={
+              <div className="h-full min-h-[240px] overflow-y-auto rounded-3xl border border-red-200 bg-red-50 p-4 sm:p-6">
+                <h2 className="flex items-center gap-1.5 text-lg font-extrabold text-red-600">
+                  <X className="h-5 w-5" /> Puntos débiles
+                </h2>
+                <ul className="mt-3 space-y-2">
+                  {patinete.contras.map((p, i) => (
+                    <li key={i} className="flex gap-2 text-sm text-gray-700">
+                      <Minus className="mt-1 h-3.5 w-3.5 shrink-0 text-red-500" />
+                      <span>{p}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            }
+          />
+        </section>
+
+        {patinete.videoId && (
+          <section className="rtm-card mt-8 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6">
+            <h2 className="flex items-center gap-2 text-xl font-extrabold text-gray-900">
+              <Play className="h-5 w-5 text-red-600" /> Míralo en vídeo
+            </h2>
+            <div className="mt-3 overflow-hidden rounded-2xl">
+              <iframe
+                src={`https://www.youtube.com/embed/${patinete.videoId}`}
+                title={`Vídeo del ${nombre}`}
+                className="aspect-video w-full"
+                loading="lazy"
+                allowFullScreen
+              />
+            </div>
+            <p className="mt-2 text-xs text-gray-500">
+              Vídeo:{" "}
+              <a
+                href={`https://www.youtube.com/watch?v=${patinete.videoId}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="font-medium text-red-600 underline"
+              >
+                {patinete.videoCanal ?? "YouTube"}
+              </a>{" "}
+              en YouTube
+            </p>
+          </section>
+        )}
+
+        {patinete.mantenimientoDIY && (
+          <section className="rtm-card mt-8 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6" aria-label={`Mantenimiento en casa del ${nombre}`}>
+            <h2 className="flex items-center gap-2 text-xl font-extrabold text-gray-900">
+              <Wrench className="h-5 w-5 text-red-600" /> Mantenimiento en casa
+            </h2>
+            <p className="mt-1 text-sm text-gray-600">
+              Guías paso a paso para el mantenimiento básico de tu {nombre}, sin pasar por el taller.
+            </p>
+            {patinete.mantenimientoDIY.intervaloRevision && (
+              <p className="mt-2 rounded-lg bg-red-50 border border-red-200 px-3 py-2 text-xs font-semibold text-red-800">
+                🗓️ Intervalo de revisión: {patinete.mantenimientoDIY.intervaloRevision}
+              </p>
+            )}
+
+            <div className="mt-4 space-y-4">
+              {patinete.mantenimientoDIY.presionNeumaticos && (
+                <div className="rounded-2xl border border-gray-200 bg-gray-50 p-4">
+                  <h3 className="text-base font-extrabold text-gray-900">🛞 Presión de neumáticos</h3>
+                  <p className="mt-1 text-sm text-gray-700">{patinete.mantenimientoDIY.presionNeumaticos}</p>
+                </div>
+              )}
+
+              {patinete.mantenimientoDIY.aprieteTornilleria && (
+                <div className="rounded-2xl border border-gray-200 bg-gray-50 p-4">
+                  <h3 className="text-base font-extrabold text-gray-900">🔩 Apriete de tornillería</h3>
+                  <p className="mt-1 text-sm text-gray-700">{patinete.mantenimientoDIY.aprieteTornilleria}</p>
+                </div>
+              )}
+
+              {patinete.mantenimientoDIY.actualizacionFirmware && (
+                <div className="rounded-2xl border border-gray-200 bg-gray-50 p-4">
+                  <h3 className="text-base font-extrabold text-gray-900">📲 Actualización de firmware</h3>
+                  <p className="mt-1 text-sm text-gray-700">{patinete.mantenimientoDIY.actualizacionFirmware}</p>
+                </div>
+              )}
+
+              {patinete.mantenimientoDIY.ajusteFrenosPasos && patinete.mantenimientoDIY.ajusteFrenosPasos.length > 0 && (
+                <div className="rounded-2xl border border-gray-200 bg-gray-50 p-4">
+                  <h3 className="text-base font-extrabold text-gray-900">🛑 Ajuste de frenos</h3>
+                  <ol className="mt-2 space-y-1.5">
+                    {patinete.mantenimientoDIY.ajusteFrenosPasos.map((p, i) => (
+                      <li key={i} className="flex gap-2 text-sm text-gray-700">
+                        <span className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-red-600 text-[11px] font-black text-white">{i + 1}</span>
+                        <span>{p}</span>
+                      </li>
+                    ))}
+                  </ol>
+                </div>
+              )}
+
+              {patinete.mantenimientoDIY.trucos && patinete.mantenimientoDIY.trucos.length > 0 && (
+                <div className="rounded-2xl border border-amber-200 bg-amber-50 p-4">
+                  <h3 className="text-base font-extrabold text-gray-900">💡 Trucos de cuidado</h3>
+                  <ul className="mt-2 space-y-1.5">
+                    {patinete.mantenimientoDIY.trucos.map((t, i) => (
+                      <li key={i} className="flex gap-2 text-sm text-gray-700">
+                        <span className="font-bold text-amber-600">·</span>
+                        <span>{t}</span>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+
+              {patinete.mantenimientoDIY.videoTutorialUrl && (
+                <div className="overflow-hidden rounded-2xl border border-gray-200">
+                  <div className="aspect-video w-full">
+                    <iframe
+                      src={patinete.mantenimientoDIY.videoTutorialUrl.replace("watch?v=", "embed/").replace("youtu.be/", "www.youtube.com/embed/")}
+                      title={patinete.mantenimientoDIY.videoTutorialTitulo ?? `Tutorial de mantenimiento del ${nombre}`}
+                      className="h-full w-full"
+                      loading="lazy"
+                      allowFullScreen
+                    />
+                  </div>
+                  <p className="bg-gray-50 px-4 py-2 text-xs text-gray-500">
+                    🎥 {patinete.mantenimientoDIY.videoTutorialTitulo ?? "Vídeo tutorial"} — YouTube
+                  </p>
+                </div>
+              )}
+            </div>
+          </section>
+        )}
+
+        <Suspense fallback={null}>
+          <SeguridadEuroNCAPLayz fichaId={patinete.id} nombre={nombre} />
+        </Suspense>
+
+        <section className="mt-8 grid gap-3 sm:grid-cols-2">
+          <Link
+            to={`/comparador-patinetes?a=${patinete.id}`}
+            className="inline-flex items-center justify-center gap-2 rounded-2xl border-2 border-red-600 bg-white px-4 py-3 text-sm font-bold text-red-600 transition hover:bg-red-50"
+          >
+            <ArrowLeftRight className="h-4 w-4" /> Comparar con otro patinete
+          </Link>          <Link
+            to="/guias/patinetes-electricos"
+            className="inline-flex items-center justify-center gap-2 rounded-2xl bg-red-600 px-4 py-3 text-sm font-bold text-white transition hover:bg-red-700"
+          >
+            <BookOpen className="h-4 w-4" /> Guía: normativa y multas 2026
+          </Link>
+        </section>
+
+        <p className="mt-4 text-center text-sm text-gray-500">
+          ¿Buscas coche en vez de patinete?{" "}
+          <Link to="/comparador-coches" className="font-semibold text-red-600 hover:underline">
+            Ver el comparador de coches →
+          </Link>
+        </p>
+
+        <section className="mt-10">
+          <h2 className="text-2xl font-extrabold text-gray-900">Preguntas frecuentes</h2>
+          <div className="mt-4 space-y-3">
+            {FAQS.map((f) => (
+              <details key={f.q} className="rounded-2xl border border-gray-200 bg-white p-4">
+                <summary className="cursor-pointer font-semibold text-gray-900">{f.q}</summary>
+                <p className="mt-2 text-sm text-gray-600">{f.a}</p>
+              </details>
+            ))}
+          </div>
+        </section>
+
+        <StickyCta href={`/comparador-patinetes?a=${patinete.id}`} label="Comparar este modelo" />
+
+        {/* 12/10/2026: opiniones de propietarios con fotos */}
+        <Suspense fallback={null}>
+          <ResenasVehiculoLazy
+            tipo="patinetes"
+            slug={patinete.id}
+            nombre={nombre}
+            onDatosSchema={setReviewsExtra}
+          />
+        </Suspense>
+      </main>
+      <SharedFooter />
+    </div>
+  );
+}
+
+export default function PatinetesFichaPage() {
+  const { slug = "" } = useParams<{ slug: string }>();
+  // Carga perezosa (05/10/2026): solo el módulo de la marca de este modelo.
+  const [patinete, setPatinete] = useState<PatineteComparador | null | undefined>(undefined);
+
+  useEffect(() => {
+    let alive = true;
+    delete document.body.dataset.pageReady;
+    (async () => {
+      const p = await loadArrayItem<PatineteComparador>("patinete", slug, (x) => x.id === slug);
+      if (!alive) return;
+      setPatinete(p ?? null);
+      if (p) {
+        await Promise.all([
+          loadRecordEntry("historia", slug),
+          loadRecordEntry("euroncap", slug),
+        ]);
+      }
+      if (alive) document.body.dataset.pageReady = "1";
+    })();
+    return () => {
+      alive = false;
+      delete document.body.dataset.pageReady;
+    };
+  }, [slug]);
+
+  if (patinete === undefined) {
+    return (
+      <div className="min-h-screen bg-gray-50 flex items-center justify-center">
+        <div className="w-10 h-10 border-4 border-red-600 border-t-transparent rounded-full animate-spin" aria-label="Cargando ficha" />
+      </div>
+    );
+  }
+
+  if (!patinete) {
+    return (
+      <div className="min-h-screen bg-gray-50">
+        <SharedNavbar />
+        <main className="mx-auto max-w-xl px-4 pb-16 pt-16 text-center">
+          <h1 className="text-2xl font-extrabold text-gray-900">Patinete no encontrado</h1>
+          <p className="mt-3 text-gray-600">
+            No hay ningún patinete con esa dirección en la ficha técnica. Prueba con el comparador.
+          </p>
+          <Link
+            to="/comparador-patinetes"
+            className="mt-6 inline-block rounded-xl bg-red-600 px-6 py-3 text-sm font-bold text-white transition hover:bg-red-700"
+          >
+            Ir al comparador de patinetes
+          </Link>
+        </main>
+        <SharedFooter />
+      </div>
+    );
+  }
+
+  return <Ficha patinete={patinete} />;
+}

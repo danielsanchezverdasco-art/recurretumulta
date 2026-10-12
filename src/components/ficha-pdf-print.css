@@ -1,0 +1,49 @@
+/* ============================================================
+   Impresión de la ficha técnica del coche
+   ("Descargar ficha en PDF" -> window.print() -> Guardar como PDF)
+   Solo se imprime la ficha: cabecera, datos destacados, tabla de
+   ficha técnica, ZBE, precio, coste mensual y pros/contras.
+   ============================================================ */
+
+@page {
+  size: A4;
+  margin: 12mm 10mm;
+}
+
+@media print {
+  /* ---- Chrome de la app y elementos interactivos ---- */
+  #root > div > header, /* SharedNavbar */
+  #root > div > footer, /* SharedFooter */
+  .rtm-sticky-cta,
+  .descargar-ficha-pdf-btn,
+  #ficha-pdf nav[aria-label="Migas de pan"],
+  #ficha-pdf section[aria-label="Galería de fotos oficiales"],
+  #ficha-pdf section[aria-label="Opiniones de propietarios"],
+  #ficha-pdf section[aria-label*="Mantenimiento en casa"],
+  #ficha-pdf section[aria-label="Duelos y comparativas"],
+  #ficha-pdf section[aria-label="Vídeo del modelo"],
+  #ficha-pdf section[aria-label="Preguntas frecuentes"],
+  #ficha-pdf section[aria-label="Comparar modelo"] {
+    display: none !important;
+  }
+
+  /* ---- El contenido aprovecha todo el ancho ---- */
+  #ficha-pdf {
+    max-width: none !important;
+    padding: 0 !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  /* ---- Evita cortes feos a mitad de tarjeta o fila ---- */
+  #ficha-pdf section,
+  #ficha-pdf table,
+  #ficha-pdf tr {
+    break-inside: avoid;
+  }
+
+  /* ---- Las tarjetas, sin sombras ni bordes pesados ---- */
+  #ficha-pdf .rtm-card {
+    box-shadow: none !important;
+  }
+}

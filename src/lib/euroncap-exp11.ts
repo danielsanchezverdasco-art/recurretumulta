@@ -1,0 +1,101 @@
+// EURONCAP EXP11 — datos EuroNCAP verificados para las fichas nuevas.
+// Solo entran fichas con test EuroNCAP verificado del MISMO modelo (los
+// resultados aplican a la generación ensayada, incluidos sus años-modelo).
+// Verificación: 05/10/2026 desde euroncap.com (vía entradas ya verificadas
+// en seguridad-euroncap.ts para los mismos modelos).
+// Sin test verificado -> SIN entrada (la ficha muestra "sin datos EuroNCAP").
+// Modelos exp11 sin test: Deepal G318, Deepal L07, IM LS7, LEVC L380, LEVC TX,
+// Onvo L60, Onvo L90, Luxeed S7, Luxeed R7, Lepas L4, Lepas L6, Lepas L8,
+// Seres 3, Seres 5, Seres M7.
+import type { SeguridadEuroNCAP } from "./seguridad-euroncap.ts";
+
+export const EURONCAP_EXP11: Record<string, SeguridadEuroNCAP> = {
+  "ebro-s400-2025-precio-ficha-tecnica": {
+    fichaId: "ebro-s400-2025-precio-ficha-tecnica",
+    estrellas: 4,
+    anioTest: 2025,
+    adulto: 79,
+    infantil: 85,
+    peatones: 78,
+    asistencias: 80,
+    videoCrashId: "ybWER4hJjhE",
+    videoAlceId: null,
+  },
+  "ebro-s400-excellence-2025-precio-ficha-tecnica": {
+    fichaId: "ebro-s400-excellence-2025-precio-ficha-tecnica",
+    estrellas: 4,
+    anioTest: 2025,
+    adulto: 79,
+    infantil: 85,
+    peatones: 78,
+    asistencias: 80,
+    videoCrashId: "ybWER4hJjhE",
+    videoAlceId: null,
+  },
+  "ebro-s700-2025-precio-ficha-tecnica": {
+    fichaId: "ebro-s700-2025-precio-ficha-tecnica",
+    estrellas: 5,
+    anioTest: 2025,
+    adulto: 82,
+    infantil: 85,
+    peatones: 80,
+    asistencias: 78,
+    videoCrashId: "34oLhiTyIyQ",
+    videoAlceId: "njjKo8A7SZs",
+  },
+  "ebro-s800-2025-precio-ficha-tecnica": {
+    fichaId: "ebro-s800-2025-precio-ficha-tecnica",
+    estrellas: 5,
+    anioTest: 2025,
+    adulto: 82,
+    infantil: 85,
+    peatones: 80,
+    asistencias: 78,
+    videoCrashId: "rOa-QWl5X3A",
+    videoAlceId: "7P9ql3MKot0",
+  },
+  "deepal-s05-2025-precio-ficha-tecnica": {
+    fichaId: "deepal-s05-2025-precio-ficha-tecnica",
+    estrellas: 5,
+    anioTest: 2025,
+    adulto: 94,
+    infantil: 87,
+    peatones: 78,
+    asistencias: 76,
+    videoCrashId: "w6ZUtZ3yYeA",
+    videoAlceId: null,
+  },
+  "deepal-s07-2025-precio-ficha-tecnica": {
+    fichaId: "deepal-s07-2025-precio-ficha-tecnica",
+    estrellas: 5,
+    anioTest: 2024,
+    adulto: 95,
+    infantil: 87,
+    peatones: 74,
+    asistencias: 77,
+    videoCrashId: "dKYJAgsRYc0",
+    videoAlceId: null,
+  },
+  "im-l6-2026-precio-ficha-tecnica": {
+    fichaId: "im-l6-2026-precio-ficha-tecnica",
+    estrellas: 5,
+    anioTest: 2025,
+    adulto: 89,
+    infantil: 85,
+    peatones: 85,
+    asistencias: 87,
+    videoCrashId: "5RZl3vU7UAM",
+    videoAlceId: null,
+  },
+  "im-ls6-2025-precio-ficha-tecnica": {
+    fichaId: "im-ls6-2025-precio-ficha-tecnica",
+    estrellas: 5,
+    anioTest: 2025,
+    adulto: 90,
+    infantil: 85,
+    peatones: 83,
+    asistencias: 87,
+    videoCrashId: "PptL4gay6lw",
+    videoAlceId: null,
+  },
+};
