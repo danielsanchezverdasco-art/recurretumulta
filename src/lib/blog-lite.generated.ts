@@ -37548,6 +37548,25 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 4
   },
   {
+    "slug": "fangchengbao-tai-9-suv-6-plazas",
+    "title": "Tai 9: el buque insignia de Fangchengbao ya está aquí",
+    "excerpt": "El Fangchengbao Tai 9 es el nuevo buque insignia de BYD: SUV híbrido de 5,27 m, 6 plazas, 310 km eléctricos y 544 CV. Llega a China a finales de 2026.",
+    "category": "Modelos desconocidos",
+    "date": "2026-10-12",
+    "locale": "all",
+    "heroSrc": "/media/fangchengbao-tai-9-hero.webp",
+    "heroAlt": "SUV insignia híbrido enchufable chino de más de 5,2 metros, negro y dorado, circulando por una carretera de montaña al atardecer",
+    "keywords": [
+      "Fangchengbao Tai 9",
+      "Tai 9 precio",
+      "BYD Ti 9",
+      "SUV chino 6 plazas",
+      "Fangchengbao buque insignia",
+      "coches chinos desconocidos"
+    ],
+    "readTime": 5
+  },
+  {
     "slug": "anfac-septiembre-2026-record-electrificacion-model-3-lider",
     "title": "Récord: el eléctrico ya es el 34% del mercado español",
     "excerpt": "Septiembre de 2026, récord del eléctrico en España: los electrificados llegaron al 34% del mercado y el Tesla Model 3 fue el coche más vendido del país.",
@@ -41360,7 +41379,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "crf rx opiniones",
       "enduro competición honda"
     ],
-    "readTime": 1
+    "readTime": 2
   },
   {
     "slug": "yamaha-wr450f-2025-ficha-tecnica-precio",
@@ -52313,7 +52332,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Rieju rally",
       "moto trail 300"
     ],
-    "readTime": 1
+    "readTime": 2
   },
   {
     "slug": "zero-sr-2025-ficha-tecnica-precio",
@@ -52370,7 +52389,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Silence eléctrico",
       "etiqueta Cero"
     ],
-    "readTime": 1
+    "readTime": 2
   },
   {
     "slug": "niu-rqi-sport-2025-ficha-tecnica-precio",
@@ -52503,7 +52522,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Voge 2025",
       "moto trail barata"
     ],
-    "readTime": 1
+    "readTime": 2
   },
   {
     "slug": "voge-sr1-125-2025-ficha-tecnica-precio",
@@ -59079,8 +59098,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/patinetes/acer-es-series-5-advance.webp",
+    "heroAlt": "Acer ES Series 5 Advance patinete eléctrico",
     "keywords": [
       "acer es series 5 advance precio",
       "acer es series 5 advance ficha técnica",
@@ -59096,12 +59115,12 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "aprilia-esr2-evo",
     "title": "Aprilia eSR2 EVO: 500 W y 691 Wh para exigentes",
-    "excerpt": "El Aprilia eSR2 EVO: 500 W con pico de 700 W, batería de 691 Wh, doble suspensión y 50 km declarados. La versión vitaminada del eSR2 por 786,10 €. Análisis completo.",
+    "excerpt": "El Aprilia eSR2 EVO: 500 W con pico de 700 W, batería de 691 Wh, doble suspensión y 50 km declarados por 786,10 €. Análisis completo.",
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/patinetes/aprilia-esr2-evo.webp",
+    "heroAlt": "Aprilia eSR2 EVO patinete eléctrico",
     "keywords": [
       "aprilia esr2 evo precio",
       "aprilia esr2 evo ficha técnica",
@@ -59112,17 +59131,17 @@ export const BLOG_LITE: BlogLitePost[] = [
       "aprilia esr2 evo 786 euros",
       "patinete deportivo doble suspensión"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "cecotec-bongo-serie-a-plus-max-45-connected",
     "title": "Cecotec Bongo Serie A+ Max 45: batería extraíble",
-    "excerpt": "El Cecotec Bongo Serie A+ Max 45 Connected: batería extraíble de 461 Wh, 13,5 kg, 45 km declarados y homologación DGT por 449 €. El superventas español, analizado.",
+    "excerpt": "El Cecotec Bongo Serie A+ Max 45 Connected: batería extraíble de 461 Wh, 13,5 kg, 45 km declarados y homologación DGT por 449 €. Superventas analizado.",
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/patinetes/cecotec-bongo-serie-a-plus-max-45-connected.webp",
+    "heroAlt": "Cecotec Bongo Serie A+ Max 45 Connected patinete eléctrico",
     "keywords": [
       "cecotec bongo serie a+ max 45 precio",
       "bongo serie a+ max 45 ficha técnica",
@@ -59133,17 +59152,17 @@ export const BLOG_LITE: BlogLitePost[] = [
       "cecotec bongo 45 km autonomía",
       "bongo serie a+ vs xiaomi"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "ducati-pro-3",
     "title": "Ducati Pro-III: NFC, magnesio y 50 km",
-    "excerpt": "El Ducati Pro-III: desbloqueo NFC, chasis de magnesio, tubeless antipinchazos y 50 km declarados por 799 €. El patinete más tecnológico de Ducati, analizado.",
+    "excerpt": "El Ducati Pro-III: desbloqueo NFC, chasis de magnesio, tubeless antipinchazos y 50 km declarados por 799 €. El más tecnológico de Ducati, analizado.",
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/patinetes/ducati-pro-3.webp",
+    "heroAlt": "Ducati Pro-III patinete eléctrico",
     "keywords": [
       "ducati pro-iii precio",
       "ducati pro 3 ficha técnica",
@@ -59154,7 +59173,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "ducati pro-iii vs pro 2 evo",
       "patinete chasis magnesio"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "fiat-500-iride",
@@ -59163,8 +59182,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/patinetes/fiat-500-iride.webp",
+    "heroAlt": "Fiat 500 Iride patinete eléctrico",
     "keywords": [
       "fiat 500 iride precio",
       "fiat 500 iride ficha técnica",
@@ -59175,7 +59194,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "mopar 500 iride patinete",
       "patinete ligero 15 kg"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "cecotec-bongo-d40-xl-connected",

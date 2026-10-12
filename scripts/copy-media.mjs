@@ -9,6 +9,7 @@ const SRC = join(process.env.HOME, "workspace/migracion-export/media-migrada");
 const DEST = join(ROOT, "public", "media");
 
 mkdirSync(DEST, { recursive: true });
+if (!existsSync(SRC)) { console.log('[copy-media] sin carpeta origen; public/media ya es la fuente'); process.exit(0); }
 let n = 0;
 for (const f of readdirSync(SRC)) {
   if (!/\.(webp|png|jpe?g|gif)$/i.test(f)) continue;

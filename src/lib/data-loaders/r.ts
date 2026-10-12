@@ -303,6 +303,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "rieju-aventura-500-2024-ficha-tecnica-precio": () => import("../comparador-motos-exp-m3.ts"),
     "rieju-aventura-500-2025-ficha-tecnica-precio": () => import("../comparador-motos-exp-m23.ts"),
     "rieju-aventura-500-legend-2026-ficha-tecnica-precio": () => import("../comparador-motos-lote10.ts"),
+    "rieju-aventura-rally-307-2025-ficha-tecnica-precio": () => import("../comparador-motos-lote16.ts"),
     "rieju-aventura-rally-307-2026-ficha-tecnica-precio": () => import("../comparador-motos-exp-m6.ts"),
     "rieju-aventura-rally-307-r-2026-ficha-tecnica-precio": () => import("../comparador-motos-exp-m9.ts"),
     "rieju-coaster-407-2026-ficha-tecnica-precio": () => import("../comparador-motos-exp-m11.ts"),

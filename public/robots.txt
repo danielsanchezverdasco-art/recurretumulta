@@ -1,0 +1,68 @@
+User-agent: *
+Allow: /
+Disallow: /auth/
+Disallow: /perfil
+Disallow: /admin/
+Disallow: /api/
+
+# Sitemap
+Sitemap: https://recurretumulta.online/sitemap.xml
+
+# LLMs.txt para motores IA (AEO/GEO)
+# https://recurretumulta.online/llms.txt
+
+# Crawl-delay para scrapers pesados
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10
+
+User-agent: MJ12bot
+Crawl-delay: 30
+
+User-agent: DotBot
+Crawl-delay: 30
+
+# Permitir Google completamente
+User-agent: Googlebot
+Allow: /
+Disallow: /auth/
+Disallow: /perfil
+Disallow: /admin/
+
+User-agent: Googlebot-Image
+Allow: /
+
+# Permitir crawlers de IA para AEO/GEO
+User-agent: GPTBot
+Allow: /
+Disallow: /auth/
+Disallow: /perfil
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: Bytespider
+Crawl-delay: 10

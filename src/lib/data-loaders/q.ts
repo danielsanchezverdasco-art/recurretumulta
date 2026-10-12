@@ -81,6 +81,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "qjmotor-srt-900-sx-2026-ficha-tecnica-precio": () => import("../comparador-motos-lote7.ts"),
     "qjmotor-srt-900s-2025-ficha-tecnica-precio": () => import("../comparador-motos-exp-m26.ts"),
     "qjmotor-srt-900sx-2025-ficha-tecnica-precio": () => import("../comparador-motos-exp-m26.ts"),
+    "qjmotor-srt-900sx-2026-ficha-tecnica-precio": () => import("../comparador-motos-lote16.ts"),
     "qjmotor-srv-125-ficha-tecnica-precio": () => import("../comparador-motos-base.ts"),
     "qjmotor-srv-300-2024-ficha-tecnica-precio": () => import("../comparador-motos-exp-m3.ts"),
     "qjmotor-srv-550-st-2025-ficha-tecnica-precio": () => import("../comparador-motos-exp-m25.ts"),

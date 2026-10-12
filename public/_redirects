@@ -1,0 +1,7 @@
+# Redirect duplicate blog car fichas to /coches/
+/blog/*ficha-tecnica /coches/:splat/ 301
+
+# Redirect old multilingual URLs to Spanish
+/en/* /:splat 301
+/fr/* /:splat 301
+/pt/* /:splat 301

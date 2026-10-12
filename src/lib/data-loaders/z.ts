@@ -130,6 +130,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "zontes-350d-2026-ficha-tecnica-precio": () => import("../comparador-motos-nuevos-m6.ts"),
     "zontes-350e-2024-ficha-tecnica-precio": () => import("../comparador-motos-exp-m3.ts"),
     "zontes-350e-2025-ficha-tecnica-precio": () => import("../comparador-motos-exp-m25.ts"),
+    "zontes-350gk-2025-ficha-tecnica-precio": () => import("../comparador-motos-lote16.ts"),
     "zontes-350r-2025-ficha-tecnica-precio": () => import("../comparador-motos-exp-m3.ts"),
     "zontes-350r-2026": () => import("../comparador-motos-nuevos-m7.ts"),
     "zontes-350t-2024-ficha-tecnica-precio": () => import("../comparador-motos-nuevos-m7.ts"),

@@ -267,6 +267,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "piaggio-liberty-125-2025-ficha-tecnica-precio": () => import("../comparador-motos-exp-m4.ts"),
     "piaggio-liberty-125-2026-ficha-tecnica-precio": () => import("../comparador-motos-nuevos-m3.ts"),
     "piaggio-medley-125-2025-ficha-tecnica-precio": () => import("../comparador-motos-exp-m4.ts"),
+    "piaggio-medley-200-2026-ficha-tecnica-precio": () => import("../comparador-motos-lote16.ts"),
     "piaggio-mp3-400-sport-2025-ficha-tecnica-precio": () => import("../comparador-motos-exp-m4.ts"),
     "piaggio-mp3-530-exclusive-2025-ficha-tecnica-precio": () => import("../comparador-motos-exp-m4.ts"),
     "pursang-e-track-ficha-tecnica-precio": () => import("../comparador-motos-base.ts"),

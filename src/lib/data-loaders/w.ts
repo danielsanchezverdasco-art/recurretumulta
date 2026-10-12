@@ -66,6 +66,8 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "wuling-zhiguang-ev-2025-precio-ficha-tecnica": () => import("../comparador-coches-wuling.ts"),
   },
   moto: {
+    "wellta-artica-2026-ficha-tecnica-precio": () => import("../comparador-motos-lote16.ts"),
+    "wellta-boreal-2026-ficha-tecnica-precio": () => import("../comparador-motos-lote16.ts"),
     "wottan-rebbe-401-2024-ficha-tecnica-precio": () => import("../comparador-motos-exp-m3.ts"),
     "wottan-rebbe-401-2025-ficha-tecnica-precio": () => import("../comparador-motos-exp-m25.ts"),
     "wottan-sixteen-125-2025-ficha-tecnica-precio": () => import("../comparador-motos-exp-m25.ts"),

@@ -7,6 +7,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "fangchengbao-bao-3-2025-precio-ficha-tecnica": () => import("../blog-posts-batch2b-6.ts"),
     "fangchengbao-byd-marca-desconocida-formula-s-bao-5": () => import("../blog-posts-modelos-desconocidos.ts"),
     "fangchengbao-tai-3-2025-precio-ficha-tecnica": () => import("../blog-posts-lote2.ts"),
+    "fangchengbao-tai-9-suv-6-plazas": () => import("../blog-posts-modelos-desconocidos.ts"),
     "fantic-caballero-500-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m6.ts"),
     "fantic-caballero-700-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m6.ts"),
     "fantic-caballero-700-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m13.ts"),
@@ -256,7 +257,10 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "fb-mondial-imola-125-2024-ficha-tecnica-precio": () => import("../comparador-motos-nuevos-m7.ts"),
     "fb-mondial-imola-125-2026-ficha-tecnica-precio": () => import("../comparador-motos-lote10.ts"),
     "fb-mondial-piega-125": () => import("../comparador-motos-lote14.ts"),
+    "fb-mondial-piega-452-2025-ficha-tecnica-precio": () => import("../comparador-motos-lote16.ts"),
+    "felo-fw-03-ficha-tecnica-precio": () => import("../comparador-motos-lote16.ts"),
     "felo-fw-06-2025-ficha-tecnica-precio": () => import("../comparador-motos-lote9.ts"),
+    "felo-fw-07-ficha-tecnica-precio": () => import("../comparador-motos-lote16.ts"),
     "flying-flea-c6-moto-electrica-royal-enfield-5990-euros": () => import("../comparador-motos-base.ts"),
   },
   patinete: {
