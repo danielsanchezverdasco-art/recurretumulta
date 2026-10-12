@@ -178,7 +178,12 @@ async function main() {
     // estático. Abortar las peticiones a Convex evita que WebSockets colgados o
     // reintentos lentos hagan el prerender no determinista (02/10/2026: 34/55
     // artículos del blog capturaron el shell genérico en vez del artículo).
-    await page.route("**/convex.cloud/**", (r) => r.abort());
+    // 12/10/2026: el glob anterior ("**/convex.cloud/**") NO casaba con
+    // <deploy>.convex.cloud ni cubría el WebSocket: con la URL real de Convex,
+    // networkidle no llegaba y el prerender se atascaba. Se bloquea TODO lo externo
+    // (HTTP y WebSocket): el HTML estático no debe depender de terceros.
+    await page.route((u) => !/^https?:\/\/localhost[:/]/.test(u.href), (r) => r.abort());
+    if (page.routeWebSocket) await page.routeWebSocket(/.*/, (ws) => ws.close());
     // 07/10/2026 (velocidad): bloquear Google Analytics durante el prerender.
     // El loader diferido de GA en index.html se dispara por requestIdleCallback/
     // setTimeout durante la captura e inyecta <script src="gtag/js"> en el DOM,
