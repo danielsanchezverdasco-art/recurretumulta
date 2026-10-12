@@ -66,3 +66,15 @@ Con la URL real de Convex, **todas las fichas y posts se rompían** (ErrorBounda
 - Sanity check en local (móvil 390): 20 URLs (home, blog, 404, juego-monos y bases, 3 posts, 3 coches, 3 motos, 3 patinetes, 3 multas). **20/20 OK**: status 200, título correcto, contenido real, sin scroll horizontal y 0 imágenes rotas visibles.
 - Convex: hecho (ver la sección Convex). `.env.production` apunta a handsome-rhinoceros-259 y las consultas de solo lectura responden. Newsletter y alertas son mutaciones: no se han probado para no escribir en la base de datos.
 - **No se ha hecho ningún deploy.**
+
+### Deploy (16:26-17:00): INCIDENCIA, producción intacta
+- `netlify deploy --dir dist` (CLI) leyó netlify.toml y **ejecutó el build (`build:full`) antes de subir**. Eso vació dist/ y empezó a reprerenderizar con vite preview. Lo detecté y maté el proceso antes de que subiera nada.
+- El deploy 6acd0a4a se quedó en estado «new», sin archivos. Producción sigue en 6ac8e7ec.
+- dist/ hay que completarlo otra vez: faltan 7.182 de 8.435 (prerender-3.log, unos 90 min). Después se sube con la API de deploy (deploy_api.py, mismo deploy 6acd0a4a, sin ejecutar ningún build).
+
+### PUBLICADO (18:31 UTC)
+- Deploy **6acd0a4ad577d5848dfdbf08**: el mismo borrador, reanudado por la API (deploy_api.py). 8.664 archivos subidos, 0 fallos. Sin build en Netlify.
+- dist: 8.435/8.435 URLs del sitemap con HTML real (los 132 timeouts se reprerenderizaron antes de subir).
+- Sanity en el borrador: 20/20 OK. Publicado. Purga total de Cloudflare: success. Sanity en vivo: 20/20 OK. El bundle en vivo coincide con dist (index-DFqB_TCh.js). Convex en vivo conecta con handsome-rhinoceros-259 (antes, localhost:3000).
+- Rollback: restaurar 6ac8e7ec6d030c0141615efb.
+- Lección: NO usar `netlify deploy` (CLI) con este netlify.toml: ejecuta `build:full` y vacía dist. Usar deploy_api.py.
