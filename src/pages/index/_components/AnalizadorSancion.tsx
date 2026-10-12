@@ -15,6 +15,9 @@ import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription, Di
 import { useAction, useConvex } from "convex/react";
 import { api } from "@/convex/_generated/api.js";
 import { toast } from "sonner";
+
+// Pack 10 oculto hasta que exista el backend que consume los créditos (decisión de Daniel, 12/10/2026).
+const PACK10_VISIBLE = false;
 import { getAnonymousFingerprint, withAnalisisTimeout, AnalisisTimeoutError } from "@/lib/analisis-libre.ts";
 
 async function fileToBase64(file: File): Promise<string> {
@@ -635,11 +638,13 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
                     onClick={() => abrirDialogo("pdf_unico")} disabled={confirmando}>
                     <Download className="w-5 h-5 mr-2" /> {t("pdf.download")}
                   </Button>
-                  <Button variant="secondary"
+                  {PACK10_VISIBLE && (
+<Button variant="secondary"
                     className="w-full font-bold h-10 text-sm rounded-xl border-2 border-blue-200 hover:border-blue-400 hover:bg-blue-50"
                     onClick={() => abrirDialogo("pdf_pack_10")} disabled={confirmando}>
                     {t("pdf.pack10Question")}
                   </Button>
+)}
                 </>
               )}
             </div>
