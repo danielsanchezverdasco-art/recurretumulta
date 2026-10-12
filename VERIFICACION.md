@@ -39,3 +39,30 @@ Tras el fix del CSS, dist/ se reconstruyó y ahora **solo tiene prerenderizadas 
 - El deployment real es `handsome-rhinoceros-259.eu-west-1.convex.cloud`: aparece en convex/auth.ts, convex/http.ts e index.html. `/version` responde 200 (backend desplegado el 06/10). Las consultas de solo lectura funcionan: valoraciones:listarAprobadas (2), lanzamientos:listar (36), cazaMonos:topHunters (7).
 - **El backend desplegado no tiene `resenasVehiculos:*`** (código del 12/10, «Could not find public function»). Las reseñas nuevas no funcionarán hasta que el dueño despliegue Convex. Aquí no se ha tocado.
 - `.env.production` queda con `VITE_CONVEX_URL=https://handsome-rhinoceros-259.eu-west-1.convex.cloud`.
+
+### 1) Desbordamiento en móvil: arreglado
+- La causa real no era la barra superior. La regla inline `img{height:auto}` de index.html iba sin capa y ganaba a las utilidades de Tailwind (`h-10`…). El logo del footer salía a 326-332 px (en producción mide 62 px) y el navegador alejaba el zoom. Arreglo: la regla pasa a `@layer base`.
+- Además: la fila de compartir del blog (`gap-2 sm:gap-3`) y las pestañas de /fichas-tecnicas/ (`px-2 sm:px-3`) desbordaban a 360 px.
+- Resultado: **0 páginas con scroll horizontal** en 15 páginas × 360/390/414 (45 comprobaciones).
+- Capturas frente a producción: los altos de página ahora coinciden con producción. Antes salían 700-1.000 px más por los logos gigantes; no era contenido nuevo, como dije en la ronda 1.
+  - Escritorio: 0,5-4 % de píxeles distintos en fichas, posts y multas; home 9 %; algunos posts 16-18 %; comparador, fichas-técnicas y ZBE 27-40 % por rediseño del código nuevo.
+  - Ver diff-prod-local2.txt y diff-base-local2.txt.
+
+### Reseñas
+Con la URL real de Convex, **todas las fichas y posts se rompían** (ErrorBoundary) porque el backend desplegado no tiene `resenasVehiculos:*`. Ahora las reseñas tienen su propio boundary: si fallan, la sección se oculta.
+
+### 3) Imágenes que faltaban (3.966 referenciadas por el código y ausentes en public/)
+- 3.519 recuperadas de deploys anteriores: 6accab08, 6ac97163 y 6ac96b96 (lista de archivos por la API, descargadas de sus URLs permanentes), sin fallos.
+- 1 recuperada de /workspace/nuevos.
+- **447 sin fuente en ningún sitio**: lista en media-sin-fuente.txt. Las páginas afectadas salen del prerender (paginas-sin-imagen.txt).
+- Para que ninguna página muestre una imagen rota: script global en index.html. Si falla una imagen de /media/, se oculta su `<figure>` (o la propia imagen), igual que ya hacían las fichas con su onError.
+
+### 4) Sitemap y prerender
+`gen-sitemap.mjs` genera 8.435 URLs (antes 5.584 en producción). Prerender completo lanzado.
+- 15:26: el prerender se atascó a ~4.475/8.435. Causa: con la URL real de Convex, el bloqueo `**/convex.cloud/**` no casaba con `<deploy>.convex.cloud` y el WebSocket quedaba abierto. Networkidle no llegaba (page.goto con timeout de 25 s) y había presión de memoria. Arreglo: bloquear todo lo externo (HTTP y WebSocket) durante el prerender. Relanzado con nohup solo para las 3.960 que faltaban (log: prerender-resto.log), a ~1,3 páginas/s.
+
+### Prerender final (16:30)
+- Prerender del resto: 3.914 OK y 46 reintentadas con éxito. **dist cubre las 8.435 URLs del sitemap: 0 faltan, 0 con el shell vacío** (la home no lleva `<h1>`, igual que en producción).
+- Sanity check en local (móvil 390): 20 URLs (home, blog, 404, juego-monos y bases, 3 posts, 3 coches, 3 motos, 3 patinetes, 3 multas). **20/20 OK**: status 200, título correcto, contenido real, sin scroll horizontal y 0 imágenes rotas visibles.
+- Convex: hecho (ver la sección Convex). `.env.production` apunta a handsome-rhinoceros-259 y las consultas de solo lectura responden. Newsletter y alertas son mutaciones: no se han probado para no escribir en la base de datos.
+- **No se ha hecho ningún deploy.**
