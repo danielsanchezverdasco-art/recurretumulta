@@ -107,6 +107,9 @@
       media="print"
       onload="this.media='all'"
     />
+    <!-- OJO: este <noscript> es el que hace que Vite emita el CSS PROCESADO de Tailwind
+         (el <link media=print> de arriba sale sin procesar). No quitarlo. -->
+    <noscript><link href="/src/index.css" rel="stylesheet" /></noscript>
 
     <!-- ═══════════════════════════════════════════════════════
          DATOS ESTRUCTURADOS ESTÁTICOS — presentes en el HTML crudo
