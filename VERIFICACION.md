@@ -78,3 +78,9 @@ Con la URL real de Convex, **todas las fichas y posts se rompían** (ErrorBounda
 - Sanity en el borrador: 20/20 OK. Publicado. Purga total de Cloudflare: success. Sanity en vivo: 20/20 OK. El bundle en vivo coincide con dist (index-DFqB_TCh.js). Convex en vivo conecta con handsome-rhinoceros-259 (antes, localhost:3000).
 - Rollback: restaurar 6ac8e7ec6d030c0141615efb.
 - Lección: NO usar `netlify deploy` (CLI) con este netlify.toml: ejecuta `build:full` y vacía dist. Usar deploy_api.py.
+
+## 12/10 noche: clon de producción 6ac8e7ec
+- Navbar, footer y portada reconstruidos desde el bundle de 6ac8e7ec (commits 612ef88, 753b4fc).
+- estructura.mjs (nav, contador, enlaces/botones header-main-footer, h2; desktop+móvil): 0 diferencias en blog index, fichas-tecnicas, blog, fichas y multas/juego existentes en prod. Única diferencia: titular del juego en portada ("gana 1000€" local vs "gana 900€" prod), pendiente de decisión de Daniel.
+- Fichas nuevas (togg-t10x, urbet-riazor, ducati-city-cross-e, kaabo-mantis-10-lite) dan 404 en 6ac8e7ec: contenido nuevo que se mantiene.
+- build:full en curso (prerender de 8.440 rutas, log /tmp/buildfull.log).
