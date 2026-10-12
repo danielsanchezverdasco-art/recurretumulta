@@ -13,7 +13,12 @@
     // imagen), igual que hacen ya las fichas, en vez de mostrar el icono roto.
     window.addEventListener("error", function (e) {
       var t = e.target;
-      if (!t || t.tagName !== "IMG" || t.dataset.fb || (t.getAttribute("src") || "").indexOf("/media/") < 0) return;
+      if (!t || t.tagName !== "IMG" || (t.getAttribute("src") || "").indexOf("/media/") < 0) return;
+      if (t.dataset.fb) { if (t.dataset.fb === "1" && t.closest("a") && t.getAttribute("src").indexOf("/media/og-") < 0) { t.dataset.fb = "2"; t.src = "/media/og-recurretumulta-online.png"; } return; }
+      var s = t.getAttribute("src");
+      // 13/10/2026: miniatura -card que falta -> imagen completa; si tampoco existe y es una tarjeta enlazada -> imagen OG.
+      if (/-card\.webp$/.test(s) && !t.dataset.fbFull) { t.dataset.fbFull = "1"; t.removeAttribute("srcset"); t.src = s.replace(/-card\.webp$/, ".webp"); return; }
+      if (t.closest("a")) { t.dataset.fb = "1"; t.removeAttribute("srcset"); t.src = "/media/og-recurretumulta-online.png"; return; }
       var fig = t.closest("figure");
       (fig || t).style.display = "none";
     }, true);
