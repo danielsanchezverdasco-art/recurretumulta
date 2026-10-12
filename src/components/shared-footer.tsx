@@ -1,90 +1,69 @@
+// Footer reconstruido a partir del bundle de producción 6ac8e7ec.
+import { Fragment } from "react";
 import { Link } from "react-router-dom";
+import { Camera, MessageCircle } from "lucide-react";
+import { useTranslation } from "react-i18next";
+import MonoEscondido from "@/components/caza-monos/MonoEscondido.tsx";
+import { fijoId } from "@/components/caza-monos/CazaMonosContext.tsx";
 
-const LOGO_URL = "/media/file_JCUW0M5ZDov5VKrmqbwPmQSz.png";
+const LOGO_URL = "/media/logo-recurretumulta-sm.webp";
+const L = "hover:text-red-600 underline decoration-gray-300 underline-offset-2 transition-colors";
+const LI = `inline-flex items-center gap-1 ${L}`;
 
 export default function SharedFooter() {
-
+  const { t } = useTranslation("common");
+  const items = [
+    <Link to="/blog" className={L}>{t("nav.blog")} DGT</Link>,
+    <Link to="/multas" className={L}>52 {t("nav.provinces")}</Link>,
+    <Link to="/herramientas" className={L}>Herramientas</Link>,
+    <Link to="/newsletter" className={L}>Newsletter</Link>,
+    <Link to="/glosario-multa" className={L}>Glosario</Link>,
+    <Link to="/metodologia" className={L}>Metodología</Link>,
+    <Link to="/sobre-nosotros" className={L}>Quiénes somos</Link>,
+    <Link to="/comparativa" className={L}>IA vs abogado vs gestor</Link>,
+    <Link to="/contacto" className={L}>{t("footer.contact")}</Link>,
+    <a href="https://wa.me/34711292174?text=Hola%2C%20necesito%20ayuda%20con%20RecurreTuMulta." target="_blank" rel="noopener noreferrer" className={LI}>
+      <MessageCircle className="w-3.5 h-3.5 text-[#128C7E]" /> WhatsApp · Ayuda
+    </a>,
+    <a href="https://www.instagram.com/soycosa.ia/" target="_blank" rel="noopener noreferrer" title="La IA detrás de esta web" className={LI}>
+      <Camera className="w-3.5 h-3.5 text-[#E1306C]" /> Instagram · @soycosa.ia
+    </a>,
+    <Link to="/privacidad" className={L}>{t("footer.privacy")}</Link>,
+    <Link to="/terminos" className={L}>{t("footer.terms")}</Link>,
+    <Link to="/aviso-legal" className={L}>Aviso Legal</Link>,
+    <Link to="/cookies" className={L}>{t("footer.cookies")}</Link>,
+  ];
   return (
     <footer className="border-t border-gray-100 py-8 px-4">
       <div className="max-w-4xl mx-auto space-y-4 text-center">
-        {/* Logo + wordmark */}
         <div className="flex items-center justify-center gap-2">
-          <img
-            src={LOGO_URL}
-            alt="RecurreTuMulta.online logo"
-            className="h-10 w-auto"
-          />
+          <img src={LOGO_URL} alt="RecurreTuMulta.online logo" width={216} height={140} className="h-10 w-auto" />
           <span className="font-black text-sm text-gray-900">
             RecurreTuMulta<span className="text-red-600">.online</span>
           </span>
         </div>
-
-        {/* Nav links */}
-        <nav
-          aria-label="Footer navegación"
-          className="flex flex-wrap items-center justify-center gap-3 text-xs text-gray-400"
-        >
-          <Link to="/blog" className="hover:text-red-600 transition-colors">
-            Blog
-          </Link>
-          <span aria-hidden="true">·</span>
-          <Link to="/multas" className="hover:text-red-600 transition-colors">
-            Provincias
-          </Link>
-          <span aria-hidden="true">·</span>
-          <Link to="/herramientas" className="hover:text-red-600 transition-colors">
-            Herramientas
-          </Link>
-          <span aria-hidden="true">·</span>
-          <Link to="/sobre-nosotros" className="hover:text-red-600 transition-colors">
-            Quiénes somos
-          </Link>
-          <span aria-hidden="true">·</span>
-          <Link to="/contacto" className="hover:text-red-600 transition-colors">
-            Contacto
-          </Link>
-          <span aria-hidden="true">·</span>
-          <Link to="/privacidad" className="hover:text-red-600 transition-colors">
-            Privacidad
-          </Link>
-          <span aria-hidden="true">·</span>
-          <Link to="/terminos" className="hover:text-red-600 transition-colors">
-            Términos
-          </Link>
-          <span aria-hidden="true">·</span>
-          <Link to="/aviso-legal" className="hover:text-red-600 transition-colors">
-            Aviso Legal
-          </Link>
-          <span aria-hidden="true">·</span>
-          <Link to="/cookies" className="hover:text-red-600 transition-colors">
-            Cookies
-          </Link>
+        <nav aria-label="Footer navegación" className="flex flex-wrap items-center justify-center gap-3 text-xs text-gray-600">
+          {items.map((el, i) => (
+            <Fragment key={i}>
+              {i > 0 && <span aria-hidden="true">·</span>}
+              {el}
+            </Fragment>
+          ))}
         </nav>
-
-        {/* Disclaimer */}
-        <p className="text-xs text-gray-400">
-          Servicio de redacción asistida por IA. No somos un despacho de abogados. Contenido orientativo.
-        </p>
-
-        {/* Copyright */}
-        <p className="text-xs text-gray-400">
+        <p className="text-xs text-gray-600">{t("footer.disclaimer")}</p>
+        <p className="text-xs text-gray-600">
           © {new Date().getFullYear()} RecurreTuMulta.online ·{" "}
-          <a
-            href="mailto:soporte@recurretumulta.online"
-            className="text-red-600 hover:underline"
-          >
-            soporte@recurretumulta.online
-          </a>
-          {" · "}
-          <a
-            href="https://wa.me/34711292174"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-red-600 hover:underline"
-          >
-            WhatsApp +34 711 29 21 74
-          </a>
+          <a href="mailto:soporte@recurretumulta.online" className="text-red-600 underline underline-offset-2">soporte@recurretumulta.online</a>
         </p>
+        <div className="relative h-0 z-10">
+          <MonoEscondido
+            id={fijoId("footer")}
+            pose="mono-durmiendo"
+            size={30}
+            className="absolute -top-9 right-6"
+            titulo="¡Un mono al fondo de la página! Haz clic para cazarlo 🦍"
+          />
+        </div>
       </div>
     </footer>
   );
