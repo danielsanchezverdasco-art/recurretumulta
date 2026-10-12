@@ -243,6 +243,8 @@ function quoteImgAlt(html: string): string {
 // la etiqueta se deja intacta. Además marca loading="lazy": la hero del
 // artículo se extrae aparte con eager, así que aquí todo va bajo el pliegue.
 function addImgDimensions(html: string, dims: Record<string, [number, number]>): string {
+  // Rendimiento: los iframes (YouTube) del cuerpo del post cargan en diferido.
+  html = html.replace(/<iframe(?![^>]*\sloading=)/g, '<iframe loading="lazy"');
   return html.replace(
     /<img(\s[^>]*?)src=(["']?)(\/media\/[^"'\s>]+)\2([^>]*?)>/g,
     (m, pre, q, src, post) => {

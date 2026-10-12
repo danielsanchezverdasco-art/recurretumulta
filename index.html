@@ -27,17 +27,12 @@
         s.src = 'https://www.googletagmanager.com/gtag/js?id=G-NQD5QTRJPH';
         document.head.appendChild(s);
       }
-      try {
-        var po = new PerformanceObserver(function (list) {
-          if (list.getEntries().length) { load(); po.disconnect(); }
-        });
-        po.observe({ type: 'largest-contentful-paint', buffered: true });
-      } catch (e) { /* PerformanceObserver no disponible: tiran los fallbacks */ }
+      // 12/10/2026: GA solo tras la primera interacción o 6 s después de load
+      // (antes se cargaba al pintar el LCP y sumaba ~900 ms de TBT en móvil).
       ['scroll', 'click', 'touchstart', 'keydown'].forEach(function (ev) {
         window.addEventListener(ev, load, { once: true, passive: true });
       });
-      if ('requestIdleCallback' in window) { requestIdleCallback(load, { timeout: 8000 }); }
-      else { setTimeout(load, 5000); }
+      window.addEventListener('load', function () { setTimeout(load, 6000); });
     })();
   </script>
     <meta name="twitter:image" content="/media/file_GwrC2BjvFbzGFY6yvNwZ6tov.png" />
@@ -64,10 +59,6 @@
       imagesizes="100vw"
       fetchpriority="high"
     />
-    <!-- Preconnect a Convex (07/10/2026, velocidad): el cliente Convex se
-         inicializa en el bundle inicial; ahorrar DNS+TLS en 4G lenta. -->
-    <link rel="preconnect" href="https://handsome-rhinoceros-259.eu-west-1.convex.cloud" />
-    <link rel="dns-prefetch" href="https://handsome-rhinoceros-259.eu-west-1.convex.cloud" />
 
     <!-- Speculation Rules (07/10/2026, velocidad): prerenderiza en idle las
          páginas más visitadas tras la portada para navegación instantánea.
@@ -116,7 +107,6 @@
       media="print"
       onload="this.media='all'"
     />
-    <noscript><link href="/src/index.css" rel="stylesheet" /></noscript>
 
     <!-- ═══════════════════════════════════════════════════════
          DATOS ESTRUCTURADOS ESTÁTICOS — presentes en el HTML crudo
