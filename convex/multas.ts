@@ -1,3 +1,4 @@
+import { evaluarVelocidad, PLAZOS } from "./lib/normativaTrafico";
 "use node";
 /// <reference types="node" />
 
@@ -39,6 +40,9 @@ function groq(): OpenAI {
   return new OpenAI({
     baseURL: "https://api.groq.com/openai/v1",
     apiKey,
+    // 12/10/2026: sin timeout una llamada colgada dejaba el analizador girando sin fin.
+    timeout: 60_000,
+    maxRetries: 1,
   });
 }
 
@@ -90,6 +94,11 @@ async function withRetry<T>(fn: () => Promise<T>, attempts = MAX_RETRY_ATTEMPTS)
 
 type Defecto = { titulo: string; descripcion: string; gravedad: "alta" | "media" | "baja" };
 type AnalisisRaw = {
+  tipoRadar?: "fijo" | "movil" | "desconocido";
+  tipoDocumento?: "denuncia" | "resolucion" | "desconocido";
+  fechaNotificacion?: string;
+  datosFaltantes?: string[];
+  fundamentos?: string[];
   viabilidad: number;
   nivel: "alta" | "media" | "baja";
   resumen: string;
@@ -119,13 +128,22 @@ Analiza la multa en 3 FASES, con lógica jurídica estricta, y devuelve SOLO JSO
   "importe": <importe exacto en euros del documento, p.ej. "200€", o "No especificado">,
   "infraccion": <descripción COMPLETA de la infracción tal como aparece en el documento, incluyendo TODOS los valores numéricos (velocidad detectada Y límite de la vía si es radar)>,
   "fecha": <fecha exacta de la infracción del documento, o "No especificada">,
-  "plazoRecurso": "20 días hábiles desde la notificación",
+  "tipoDocumento": <"denuncia" si es el boletín/notificación de denuncia, "resolucion" si es la resolución sancionadora, o "desconocido">,
+  "fechaNotificacion": <fecha de notificación tal como aparece, o "No consta">,
+  "tipoRadar": <"fijo" | "movil" | "desconocido" según el medio de captación que figure>,
+  "datosFaltantes": [<datos necesarios que NO aparecen en el documento>],
   "matricula": <matrícula del vehículo tal como aparece, o "No encontrada">,
   "velocidadDetectada": <velocidad medida por el radar/cinemómetro en km/h, p.ej. "68 km/h", o "No aplica" si no es exceso de velocidad>,
   "limiteVia": <límite de velocidad de la vía en km/h, p.ej. "50 km/h", o "No aplica" si no es exceso de velocidad>
 }
 
 REGLA CRÍTICA DE VELOCIDAD: si es un exceso de velocidad, la "velocidadDetectada" es la velocidad a la que IBA el vehículo y el "limiteVia" es el máximo permitido. NUNCA confundas la velocidad detectada con el exceso: si el documento dice "68 km/h en vía limitada a 50", la velocidad es 68 y el límite es 50 (el exceso son 18 km/h). Extrae AMBOS valores por separado.
+
+REGLAS DE HONESTIDAD (obligatorias):
+- NUNCA inventes datos: si un dato no aparece en el documento escribe "No consta" y añádelo a "datosFaltantes".
+- Solo derecho español/UE de tráfico. En los defectos cita solo: LSV (RDL 6/2015) arts. 76, 77, 80, 81, 87, 89-91, 93-96, 112 y anexo IV; RGC arts. 48 y 50; Orden ICT/155/2020; Ley 39/2015 arts. 53 y 77; art. 24 CE.
+- No calcules márgenes de radar, tramos ni plazos: los calcula el sistema.
+- La falta de mención del certificado metrológico en el boletín NO es por sí sola causa de nulidad: como mucho gravedad "media" (se puede pedir en alegaciones que se aporte al expediente).
 
 FASE 1 — EXTRACCIÓN LITERAL: copia expediente, importe, fecha, infracción, provincia, MATRÍCULA, velocidad detectada y límite de la vía EXACTAMENTE como aparecen. NO inventes ni completes datos. Si algo no se lee con claridad, escribe "No encontrado" / "No especificado" / "No aplica".
 
@@ -236,19 +254,16 @@ async function analizarConTexto(texto: string): Promise<AnalisisRaw> {
 
 function parseAnalisis(raw: string): AnalisisRaw {
   const defaults: AnalisisRaw = {
-    viabilidad: 65,
-    nivel: "media",
-    resumen: "Se han detectado posibles irregularidades en la tramitación. Se recomienda recurrir.",
-    defectos: [
-      { titulo: "Posible defecto de notificación", descripcion: "La notificación podría no cumplir los requisitos del art. 41 de la Ley 39/2015.", gravedad: "media" },
-      { titulo: "Verificación metrológica pendiente", descripcion: "Debe comprobarse la vigencia del certificado de calibración del instrumento de medida.", gravedad: "media" },
-    ],
+    viabilidad: 0,
+    nivel: "baja",
+    resumen: "",
+    defectos: [],
     provincia: "No detectada",
     expediente: "No encontrado",
     importe: "No especificado",
     infraccion: "No especificada",
     fecha: "No especificada",
-    plazoRecurso: "20 días hábiles desde la notificación",
+    plazoRecurso: "",
     matricula: "No encontrada",
     velocidadDetectada: "No aplica",
     limiteVia: "No aplica",
@@ -259,21 +274,54 @@ function parseAnalisis(raw: string): AnalisisRaw {
       .replace(/\s*```\s*$/i, "")
       .trim();
     const parsed = JSON.parse(cleaned) as Partial<AnalisisRaw>;
-    return { ...defaults, ...parsed };
+    return aplicarNormativa({ ...defaults, ...parsed });
   } catch {
-    return defaults;
+    // 12/10/2026: antes devolvía un análisis "por defecto" con defectos inventados
+    // (65 %, "se recomienda recurrir"). Ahora se dice la verdad.
+    throw new ConvexError({
+      code: "ANALISIS_VACIO",
+      message: "No hemos podido leer el documento con seguridad. Sube una foto más nítida o el PDF original.",
+    });
   }
+}
+
+// Cálculos legales deterministas + saneado de lo que devuelve la IA (12/10/2026).
+function aplicarNormativa(a: AnalisisRaw): AnalisisRaw {
+  const hechos = evaluarVelocidad({
+    velocidadDetectada: a.velocidadDetectada, limiteVia: a.limiteVia, importe: a.importe,
+    tipoRadar: a.tipoRadar ?? "desconocido",
+  });
+  const esVelocidad = /\d/.test(a.velocidadDetectada ?? "") || /velocidad|km\/h/i.test(a.infraccion ?? "");
+  const defectos: Defecto[] = (a.defectos ?? []).slice(0, 4).map((d) =>
+    /certificad|verificaci|metrol/i.test(`${d.titulo} ${d.descripcion}`) && d.gravedad === "alta" ? { ...d, gravedad: "media" } : d
+  );
+  for (const m of hechos.motivosFuertes) defectos.unshift({ titulo: "Error en el cálculo de la sanción por velocidad", descripcion: m, gravedad: "alta" });
+  const faltan = [...new Set([...(a.datosFaltantes ?? []), ...(esVelocidad ? hechos.datosFaltantes : [])])];
+  const puntos = { alta: 20, media: 10, baja: 5 } as const;
+  const viabilidad = Math.min(95, 25 + defectos.reduce((n, d) => n + (puntos[d.gravedad as keyof typeof puntos] ?? 0), 0));
+  const tipoDoc = a.tipoDocumento ?? "desconocido";
+  const plazo = tipoDoc === "resolucion" ? PLAZOS[1] : tipoDoc === "denuncia" ? PLAZOS[0] : `${PLAZOS[0]} ${PLAZOS[1]}`;
+  return {
+    ...a,
+    defectos,
+    viabilidad,
+    nivel: viabilidad >= 70 ? "alta" : viabilidad >= 40 ? "media" : "baja",
+    plazoRecurso: plazo,
+    datosFaltantes: faltan,
+    fundamentos: [...(esVelocidad ? hechos.lineas : []), plazo],
+    resumen: [a.resumen, faltan.length ? `Faltan datos para valorarlo del todo: ${faltan.join(", ")}.` : ""].filter(Boolean).join(" "),
+  };
 }
 
 // ── Genera el texto del recurso de reposición dado el análisis y los datos personales ──
 async function generarCartaMulta(
-  datos: { provincia: string; expediente: string; importe: string; infraccion: string; fecha: string; matricula: string; velocidadDetectada: string; limiteVia: string },
+  datos: { provincia: string; expediente: string; importe: string; infraccion: string; fecha: string; matricula: string; velocidadDetectada: string; limiteVia: string; tipoDocumento?: string; fechaNotificacion?: string; fundamentos?: string[] },
   defectos: Defecto[],
   personal: { nombreRecurrente?: string; dniRecurrente?: string; domicilioRecurrente?: string },
   hoy: string
 ): Promise<string> {
   const recursoSystemPrompt = `Eres un abogado especialista en derecho de tráfico español con 20 años de experiencia.
-Redacta un RECURSO DE REPOSICIÓN formal y completo.
+Redacta el escrito que indique TIPO DE ESCRITO (alegaciones a la denuncia o recurso de reposición contra la resolución), formal y completo.
 
 ESTRUCTURA OBLIGATORIA:
 1. ENCABEZADO: lugar, fecha actual, órgano destinatario (según provincia detectada)
@@ -284,7 +332,7 @@ ESTRUCTURA OBLIGATORIA:
 6. OTROSÍ si procede medida cautelar de suspensión
 7. PIE: lugar, fecha, firma
 
-Lenguaje jurídico formal. Datos desconocidos → "[COMPLETAR]". Primera persona.`;
+Lenguaje jurídico formal. Datos desconocidos → "[COMPLETAR]". Primera persona.\nNo inventes artículos ni sentencias concretas: cita solo LSV (RDL 6/2015), RGC, Orden ICT/155/2020, Ley 39/2015 y art. 24 CE. Usa literalmente los HECHOS CALCULADOS que se te dan (márgenes, tramos y plazos).`;
 
   const recursoUserPrompt = `Recurrente: ${personal.nombreRecurrente ?? "[COMPLETAR: Nombre y apellidos]"}
 DNI/NIE: ${personal.dniRecurrente ?? "[COMPLETAR: DNI/NIE]"}
@@ -298,13 +346,18 @@ Provincia/Órgano: ${datos.provincia}
 Matrícula: ${datos.matricula}
 Velocidad detectada: ${datos.velocidadDetectada}
 Límite de la vía: ${datos.limiteVia}
+Fecha de notificación: ${datos.fechaNotificacion ?? "No consta"}
+TIPO DE ESCRITO: ${datos.tipoDocumento === "resolucion" ? "RECURSO DE REPOSICIÓN contra la resolución sancionadora (art. 96 LSV)" : "ESCRITO DE ALEGACIONES a la denuncia (art. 95 LSV)"}
+
+HECHOS CALCULADOS (úsalos literalmente, no los modifiques):
+${(datos.fundamentos ?? []).map((f) => `- ${f}`).join("\n") || "- (ninguno)"}
 
 REGLA OBLIGATORIA: si hay velocidad detectada y límite de vía, descríbelos SIEMPRE por separado ("circulaba a X km/h en vía limitada a Y km/h"). NUNCA digas "X km/h por encima del límite" salvo que el documento indique expresamente el exceso.
 
 DEFECTOS DETECTADOS (desarrolla cada uno en profundidad):
 ${defectos.map((d, i) => `${i + 1}. [${d.gravedad.toUpperCase()}] ${d.titulo}: ${d.descripcion}`).join("\n")}
 
-Redacta el recurso de reposición completo con todos los argumentos jurídicos.`;
+Redacta el escrito completo con todos los argumentos jurídicos.`;
 
   const client = groq();
   const cartaResponse = await withRetry(() => client.chat.completions.create({
@@ -339,6 +392,8 @@ export const analizarMulta = action({
     nivel: "alta" | "media" | "baja";
     resumen: string;
     defectos: Defecto[];
+    datosFaltantes?: string[];
+    fundamentos?: string[];
     datosMulta: {
       provincia: string;
       expediente: string;
@@ -414,7 +469,7 @@ export const analizarMulta = action({
 
     // ── 2. Redactar recurso de reposición ─────────────────────────────────────
     const carta = await generarCartaMulta(
-      { provincia: analisis.provincia, expediente: analisis.expediente, importe: analisis.importe, infraccion: analisis.infraccion, fecha: analisis.fecha, matricula: analisis.matricula, velocidadDetectada: analisis.velocidadDetectada, limiteVia: analisis.limiteVia },
+      { provincia: analisis.provincia, expediente: analisis.expediente, importe: analisis.importe, infraccion: analisis.infraccion, fecha: analisis.fecha, matricula: analisis.matricula, velocidadDetectada: analisis.velocidadDetectada, limiteVia: analisis.limiteVia, tipoDocumento: analisis.tipoDocumento, fechaNotificacion: analisis.fechaNotificacion, fundamentos: analisis.fundamentos },
       analisis.defectos,
       { nombreRecurrente, dniRecurrente, domicilioRecurrente },
       hoy
@@ -426,6 +481,8 @@ export const analizarMulta = action({
       nivel: analisis.nivel,
       resumen: analisis.resumen,
       defectos: analisis.defectos,
+      datosFaltantes: analisis.datosFaltantes ?? [],
+      fundamentos: analisis.fundamentos ?? [],
       datosMulta: {
         provincia: analisis.provincia,
         expediente: analisis.expediente,
