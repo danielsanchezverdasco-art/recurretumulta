@@ -554,8 +554,24 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
     return <ScanAnimation />;
   }
 
-  const descargarPdf = () => {
-    if (!result) return;
+  const descargarPdf = async () => {
+    if (!result?.carta) return;
+    // jsPDF se carga solo al pulsar (no pesa en la carga inicial).
+    const { jsPDF } = await import("jspdf");
+    const doc = new jsPDF({ unit: "mm", format: "a4" });
+    const margen = 20, ancho = 170, alto = 297, linea = 5.2;
+    doc.setFont("helvetica", "normal");
+    doc.setFontSize(10.5);
+    let y = margen;
+    for (const parrafo of result.carta.replace(/\r/g, "").split("\n")) {
+      const lineas = parrafo.trim() ? doc.splitTextToSize(parrafo, ancho) : [""];
+      for (const l of lineas) {
+        if (y > alto - margen) { doc.addPage(); y = margen; }
+        doc.text(l, margen, y);
+        y += linea;
+      }
+    }
+    doc.save("recurso-multa.pdf");
   };
 
   const datosDialog = (
