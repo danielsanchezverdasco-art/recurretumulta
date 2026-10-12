@@ -160,10 +160,7 @@ async function main() {
   const preview = await startPreview();
   // Usar el Chromium completo (el headless-shell no se pudo descargar en este entorno)
   const browser = await chromium.launch({
-    executablePath: join(
-      process.env.HOME,
-      ".cache/ms-playwright/chromium-1243/chrome-linux/chrome"
-    ),
+    executablePath: process.env.CHROME_PATH || undefined,
     // El prerender solo navega a localhost: el proxy de egress a veces cuelga o
     // devuelve respuestas que Chromium rechaza (goto timeout / ERR_HTTP_RESPONSE_CODE_FAILURE).
     args: ["--no-proxy-server"],
