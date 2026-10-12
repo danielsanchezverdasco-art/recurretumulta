@@ -157,7 +157,9 @@ async function main() {
   }
   console.log(`Prerender de ${ROUTES_FINAL.length} rutas…`);
 
-  const preview = await startPreview();
+  // PRERENDER_EXTERNAL=1: usar un servidor estático ya arrancado en PRERENDER_PORT
+  // (p. ej. `npm run serve:dist`), mucho más rápido que vite preview.
+  const preview = process.env.PRERENDER_EXTERNAL ? null : await startPreview();
   // Usar el Chromium completo (el headless-shell no se pudo descargar en este entorno)
   const browser = await chromium.launch({
     executablePath: process.env.CHROME_PATH || undefined,
@@ -306,9 +308,17 @@ async function main() {
     }
   }
 
-  for (let i = 0; i < ROUTES_FINAL.length; i += CONCURRENCY) {
-    await Promise.all(ROUTES_FINAL.slice(i, i + CONCURRENCY).map(render));
-    if (i % 20 === 0) console.log(`  …${Math.min(i + CONCURRENCY, ROUTES_FINAL.length)}/${ROUTES_FINAL.length}`);
+  // 12/10/2026: pool de workers (antes lotes con Promise.all: un timeout de 30 s
+  // bloqueaba el lote entero y el prerender completo tardaba horas).
+  let next = 0, done = 0;
+  await Promise.all(Array.from({ length: CONCURRENCY }, async () => {
+    while (next < ROUTES_FINAL.length) {
+      const r = ROUTES_FINAL[next++];
+      await render(r);
+      if (++done % 200 === 0) console.log(`  …${done}/${ROUTES_FINAL.length}`);
+    }
+  }));
+  {
   }
 
   // Fallback SPA para rutas de cliente en Cloudflare Pages.
@@ -325,7 +335,7 @@ async function main() {
     // SIGKILL directo: es un servidor de desarrollo, no necesita cierre
     // elegante, y un SIGTERM ignorado deja el puerto ocupado (zombi).
     try {
-      preview.kill("SIGKILL");
+      preview?.kill("SIGKILL");
     } catch {}
   }
 }
