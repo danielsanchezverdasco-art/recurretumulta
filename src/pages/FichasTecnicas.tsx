@@ -474,7 +474,7 @@ export default function FichasTecnicasPage() {
                 role="tab"
                 aria-selected={activa}
                 onClick={() => cambiarTab(t.id)}
-                className={`flex-1 rounded-xl px-3 py-2.5 text-sm font-extrabold transition cursor-pointer ${
+                className={`flex-1 rounded-xl px-2 sm:px-3 py-2.5 text-sm font-extrabold transition cursor-pointer ${
                   activa
                     ? "bg-[#cd001d] text-white shadow-md"
                     : "bg-white text-gray-700 border border-gray-200 hover:border-[#cd001d] hover:text-[#cd001d]"

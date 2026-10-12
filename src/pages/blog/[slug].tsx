@@ -748,8 +748,8 @@ function BlogPostPage() {
             <NewsletterSignup origen="articulo-motor" compact />
           )}
 
-          {/* Share */}
-          <div className="flex items-center gap-3">
+          {/* Share (gap menor en móvil: a 360 px desbordaba 6 px) */}
+          <div className="flex items-center gap-2 sm:gap-3">
             <div className="flex-1 h-px bg-gray-100" />
             <Button
               variant="secondary"

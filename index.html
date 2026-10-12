@@ -98,7 +98,8 @@
       @font-face{font-family:"Geist";src:url("/fonts/geist-latin.woff2") format("woff2");font-weight:100 900;font-style:normal;font-display:swap}
       html{-webkit-text-size-adjust:100%}
       body{margin:0;font-family:"Geist",ui-sans-serif,system-ui,sans-serif;background:#fff;color:#111}
-      img{max-width:100%;height:auto}
+      /* En @layer base: sin capa ganaba a las utilidades de Tailwind (h-10…) y el logo del footer salía a 330 px, desbordando en móvil. */
+      @layer base{img{max-width:100%;height:auto}}
       .hj-root{min-height:378px;background:#0d0f0a}
     </style>
     <link

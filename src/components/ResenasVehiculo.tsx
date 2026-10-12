@@ -1,3 +1,4 @@
+import { Component, type ReactNode } from "react";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { useMutation, useQuery } from "convex/react";
 import { api } from "@/convex/_generated/api.js";
@@ -528,10 +529,27 @@ function ResenasVehiculoInner({ tipo, slug, nombre, onDatosSchema }: Props) {
   );
 }
 
+// 12/10/2026: si el backend Convex aún no tiene resenasVehiculos:* desplegado
+// (o falla la red), la sección se oculta en vez de tumbar la página entera.
+class ResenasBoundary extends Component<{ children: ReactNode }, { fallo: boolean }> {
+  state = { fallo: false };
+  static getDerivedStateFromError() {
+    return { fallo: true };
+  }
+  componentDidCatch(e: unknown) {
+    console.warn("[ResenasVehiculo] sección oculta:", e);
+  }
+  render() {
+    return this.state.fallo ? null : this.props.children;
+  }
+}
+
 export default function ResenasVehiculo(props: Props) {
   return (
-    <LazyConvexProvider>
-      <ResenasVehiculoInner {...props} />
-    </LazyConvexProvider>
+    <ResenasBoundary>
+      <LazyConvexProvider>
+        <ResenasVehiculoInner {...props} />
+      </LazyConvexProvider>
+    </ResenasBoundary>
   );
 }

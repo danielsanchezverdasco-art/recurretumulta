@@ -32,3 +32,10 @@ Ganancia de la limpieza: TBT entre -35 % y -50 % y JS sin usar de unos 145-180 K
 
 ## Estado del dist
 Tras el fix del CSS, dist/ se reconstruyó y ahora **solo tiene prerenderizadas las 14 páginas de prueba**. Antes de publicar hay que repetir el prerender completo (unos 90 min, `PRERENDER_EXTERNAL=1 …`, ver README) y regenerar el sitemap. La paridad de URLs (b) se midió con el prerender completo del commit anterior, que solo cambia ese `<noscript>`.
+
+## Ronda 2 (12/10, tarde)
+### Convex
+- Producción **no habla con Convex**: el cliente abre el websocket a `ws://localhost:3000`, en el deploy publicado y también en 6accab08 y 6ac97163. Esos builds se hicieron sin `VITE_CONVEX_URL` y el código cae al valor por defecto. Reseñas, newsletter, alertas y la caza de monos están rotos en producción ahora mismo. (El `happy-otter-123` que vi antes no es la URL que usa la web.)
+- El deployment real es `handsome-rhinoceros-259.eu-west-1.convex.cloud`: aparece en convex/auth.ts, convex/http.ts e index.html. `/version` responde 200 (backend desplegado el 06/10). Las consultas de solo lectura funcionan: valoraciones:listarAprobadas (2), lanzamientos:listar (36), cazaMonos:topHunters (7).
+- **El backend desplegado no tiene `resenasVehiculos:*`** (código del 12/10, «Could not find public function»). Las reseñas nuevas no funcionarán hasta que el dueño despliegue Convex. Aquí no se ha tocado.
+- `.env.production` queda con `VITE_CONVEX_URL=https://handsome-rhinoceros-259.eu-west-1.convex.cloud`.
