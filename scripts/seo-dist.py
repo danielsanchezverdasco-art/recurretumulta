@@ -93,6 +93,15 @@ def resolver(p):
     f=fix404(q); q=f if f else None; break
   cache[p]=q if q in P else None
   return cache[p]
+# Aviso de cookies "congelado" en el prerender: lo pinta React tras el primer render (no debe ser el LCP).
+def quitar_cookies(h):
+  i=h.find('role="dialog" aria-label="Aviso de cookies"')
+  if i<0: return h
+  a=h.rfind("<div",0,i); n=0; k=a
+  for m in re.finditer(r"<div\b|</div>",h[a:]):
+    n+=1 if m.group(0)=="<div" else -1
+    if n==0: k=a+m.end(); break
+  return h[:a]+h[k:]
 # ── 4. HTML: enlaces + canonical ──
 HREF=re.compile(r'href="((?:https://recurretumulta\.online)?)(/[^"#?\s]*)([?#][^"]*)?"')
 nl=nc=0; rotos={}
@@ -107,6 +116,7 @@ for p,f in P.items():
     if not r: rotos[ruta]=rotos.get(ruta,0)+1; return m.group(0)
     nl+=1; return f'href="{pre}{r}{suf}"'
   h=HREF.sub(rep,h)
+  h=quitar_cookies(h)
   can=re.search(r'<link rel="canonical" href="([^"]*)"',h)
   if not can:
     h=h.replace("</head>",f'<link rel="canonical" href="{ORIG}{p}"/></head>',1); nc+=1
