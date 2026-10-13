@@ -246,18 +246,19 @@ function ScanAnimation({ progresoId, conPruebas }: { progresoId: string; conPrue
     >
 
 
+      {/* ── Logo animado mientras se espera ── */}
+      <motion.img
+        src="/media/file_JCUW0M5ZDov5VKrmqbwPmQSz.png"
+        alt="Logotipo de RecurreTuMulta.online"
+        className="w-14 h-14 drop-shadow-lg"
+        animate={{ scale: [1, 1.12, 1], rotate: [0, -6, 6, 0] }}
+        transition={{ duration: 2.6, repeat: Infinity, ease: "easeInOut" }}
+      />
+
       {/* ── Documento con escáner ── */}
       <div className="relative w-52 h-64 select-none">
         {/* Sombra del documento */}
         <div className="absolute inset-0 translate-y-1.5 translate-x-1.5 bg-gray-200 rounded-2xl" />
-
-        {/* Cosa detective (Sherlock) recorriendo la multa con la lupa: WebP 9 KB, solo CSS transform */}
-        <style>{`@keyframes cosa-paseo{0%{transform:translateX(-38px) scaleX(1)}45%{transform:translateX(38px) scaleX(1)}50%{transform:translateX(38px) scaleX(-1)}95%{transform:translateX(-38px) scaleX(-1)}100%{transform:translateX(-38px) scaleX(1)}}
-@keyframes cosa-bote{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
-@media (prefers-reduced-motion:reduce){.cosa-paseo,.cosa-bote{animation:none!important}}`}</style>
-        <div className="absolute z-20 left-1/2 -ml-12 bottom-6 w-24 h-24 pointer-events-none cosa-paseo" style={{ animation: "cosa-paseo 7s ease-in-out infinite" }} aria-hidden="true">
-          <img src="/media/cosa-sherlock.webp" width={96} height={96} alt="" className="w-24 h-24 drop-shadow-lg cosa-bote" style={{ animation: "cosa-bote .6s ease-in-out infinite" }} />
-        </div>
 
         {/* Documento */}
         <div className="relative w-full h-full bg-white rounded-2xl border-2 border-gray-200 overflow-hidden shadow-xl">

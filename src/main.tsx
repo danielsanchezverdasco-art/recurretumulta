@@ -17,7 +17,32 @@ if (rootEl.innerHTML.trim().length > 200) {
     desc: document.querySelector('meta[name="description"]')?.getAttribute("content") ?? "",
   };
 }
-const root = createRoot(rootEl);
+// 13/10/2026 (PageSpeed/LCP): con HTML prerenderizado, React monta en un contenedor
+// invisible superpuesto y se intercambia cuando ya ha pintado la página (o a los 4 s).
+// Así el contenido prerenderizado sigue visible (es el LCP) y no se sustituye por el
+// cargador mientras llegan los chunks diferidos.
+const prerender = rootEl.innerHTML.trim().length > 200 && !/[?&]sinswap\b/.test(location.search);
+let destino = rootEl;
+if (prerender) {
+  destino = document.createElement("div");
+  destino.setAttribute("aria-hidden", "true");
+  destino.style.cssText = "position:absolute;top:0;left:0;width:100%;visibility:hidden;pointer-events:none;z-index:-1";
+  rootEl.after(destino);
+  const objetivo = (rootEl.textContent ?? "").replace(/\s+/g, "").length * 0.6;
+  let hecho = false;
+  const intercambiar = () => {
+    if (hecho) return; hecho = true; obs.disconnect(); clearTimeout(t);
+    rootEl.remove();
+    destino.removeAttribute("aria-hidden"); destino.removeAttribute("style"); destino.id = "root";
+  };
+  const listo = () => (destino.textContent ?? "").replace(/\s+/g, "").length >= objetivo;
+  const obs = new MutationObserver(() => { if (listo()) requestAnimationFrame(intercambiar); });
+  obs.observe(destino, { childList: true, subtree: true, characterData: true });
+  const t = setTimeout(intercambiar, 4000);
+  // Si el usuario interactúa con el HTML estático antes del intercambio, se intercambia ya.
+  ["pointerdown", "keydown"].forEach((e) => window.addEventListener(e, intercambiar, { once: true, capture: true }));
+}
+const root = createRoot(destino);
 root.render(<App />);
 // 11/10/2026: señal para el prerender (scripts/prerender.mjs).
 // Se fija tras el primer commit de React, indicando que la app arrancó.

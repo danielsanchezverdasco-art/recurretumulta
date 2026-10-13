@@ -232,26 +232,33 @@ function FadedRoutes() {
 
 function CookieBanner() {
   const [visible, setVisible] = useState(false);
-  useEffect(() => { let c = null; try { c = localStorage.getItem("rtm-cookie-consent"); } catch (e) { /* Sin acceso a localStorage; se muestra el banner por defecto */ } if (!c) requestAnimationFrame(() => setVisible(true)); }, []);
+  // 13/10/2026 (PageSpeed): barra compacta que aparece cuando el navegador está ocioso,
+  // fija abajo y sin ocupar espacio (no es el LCP ni mueve la maquetación). Misma lógica de consentimiento.
+  useEffect(() => {
+    let c = null; try { c = localStorage.getItem("rtm-cookie-consent"); } catch (e) { /* Sin acceso a localStorage; se muestra el aviso */ }
+    if (c) return;
+    const w = window as unknown as { requestIdleCallback?: (cb: () => void, o?: { timeout: number }) => number; cancelIdleCallback?: (id: number) => void };
+    const mostrar = () => setVisible(true);
+    const t = setTimeout(() => { if (w.requestIdleCallback) w.requestIdleCallback(mostrar, { timeout: 2500 }); else mostrar(); }, 1200);
+    return () => clearTimeout(t);
+  }, []);
   if (!visible) return null;
-  const accept = () => { try { localStorage.setItem("rtm-cookie-consent", "accepted"); } catch (e) { /* No se pudo persistir; se oculta el banner igualmente */ } setVisible(false); };
-  const reject = () => { try { localStorage.setItem("rtm-cookie-consent", "rejected"); } catch (e) { /* No se pudo persistir; se oculta el banner igualmente */ } setVisible(false); };
+  const accept = () => { try { localStorage.setItem("rtm-cookie-consent", "accepted"); } catch (e) { /* No se pudo persistir; se oculta igualmente */ } setVisible(false); };
+  const reject = () => { try { localStorage.setItem("rtm-cookie-consent", "rejected"); } catch (e) { /* No se pudo persistir; se oculta igualmente */ } setVisible(false); };
   return (
-    <div className="fixed bottom-0 inset-x-0 z-50 p-3" role="dialog" aria-label="Aviso de cookies">
-      <div className="relative max-w-3xl mx-auto bg-gray-950 text-white rounded-xl shadow-lg border border-gray-800 p-4 flex flex-col gap-3 sm:flex-row sm:items-center">
+    <div className="fixed bottom-0 inset-x-0 z-50 bg-gray-950/95 text-white border-t border-gray-800" role="dialog" aria-label="Aviso de cookies">
+      <div className="relative max-w-3xl mx-auto px-3 py-1.5 flex items-center gap-2">
         {/* Caza de monos: el mono de la galleta, fijo temático (05/10/2026) */}
         <MonoEscondido
           id={fijoId("cookies-banner")}
           pose="mono-galleta"
-          size={34}
-          className="absolute -top-3 left-4"
+          size={22}
+          className="shrink-0"
           titulo="¡Un mono con su galleta! Haz clic para cazarlo 🍪"
         />
-        <p className="text-xs sm:text-sm text-gray-300 flex-1">Usamos cookies propias para que la web funcione correctamente. Más información en nuestra <Link to="/cookies/" className="underline hover:text-white">política de cookies</Link>.</p>
-        <div className="flex gap-2 shrink-0">
-          <button onClick={reject} className="text-sm font-semibold px-4 py-2 rounded-lg border border-gray-700 text-gray-300 hover:bg-gray-800 transition-colors">Rechazar</button>
-          <button onClick={accept} className="bg-white text-gray-950 text-sm font-semibold px-4 py-2 rounded-lg hover:bg-gray-200 transition-colors">Aceptar</button>
-        </div>
+        <p className="text-[11px] leading-tight text-gray-300 flex-1">Usamos cookies propias para que la web funcione. <Link to="/cookies/" className="underline hover:text-white">Política de cookies</Link>.</p>
+        <button onClick={reject} className="text-[11px] font-semibold px-2.5 py-1 rounded-md border border-gray-700 text-gray-300 hover:bg-gray-800">Rechazar</button>
+        <button onClick={accept} className="bg-white text-gray-950 text-[11px] font-semibold px-2.5 py-1 rounded-md hover:bg-gray-200">Aceptar</button>
       </div>
     </div>
   );
