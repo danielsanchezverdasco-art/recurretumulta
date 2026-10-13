@@ -12,6 +12,13 @@ import { getUserFromSession } from "./authSimple";
 
 const MODEL_TEXT   = "openai/gpt-oss-120b";
 const MODEL_VISION = "qwen/qwen3.8-27b";
+// 13/10/2026 (plan gratuito de Groq, sin upgrade): cada modelo tiene su propia
+// cuota por minuto. Si el principal devuelve 429 se prueba el siguiente; un 404
+// (modelo retirado) simplemente se salta.
+const MODELOS_TEXTO  = [MODEL_TEXT, "openai/gpt-oss-20b"];
+const MODELOS_VISION = [MODEL_VISION, "meta-llama/llama-4-scout-17b-16e-instruct", "meta-llama/llama-4-maverick-17b-128e-instruct"];
+// Tiempo máximo esperando a que se libere la cuota antes de mostrar "saturado".
+const RATE_LIMIT_BUDGET_MS = 60_000;
 
 const AI_ANALYSIS_DAILY_LIMIT = 10;
 const MAX_RETRY_ATTEMPTS = 1;
@@ -42,7 +49,7 @@ function groq(): OpenAI {
     apiKey,
     // 12/10/2026: sin timeout una llamada colgada dejaba el analizador girando sin fin.
     // 13/10/2026: presupuesto total < 100 s (timeout del cliente). Sin reintentos
-    // internos del SDK; los controla withRetry según el tiempo que quede.
+    // internos del SDK; los controla withModelos según el tiempo que quede.
     timeout: 40_000,
     maxRetries: 0,
   });
@@ -62,38 +69,60 @@ function isFatalError(err: unknown): boolean {
 }
 
 // ── Retry helper ──────────────────────────────────────────────────────────────
-async function withRetry<T>(fn: () => Promise<T>, attempts = MAX_RETRY_ATTEMPTS): Promise<T> {
+function retryAfterMs(err: unknown): number {
+  const ra = Number((err as InstanceType<typeof OpenAI.APIError>).headers?.get?.("retry-after"));
+  return Number.isFinite(ra) && ra > 0 ? Math.ceil(ra * 1000) + 500 : RATE_LIMIT_RETRY_DELAY_MS;
+}
+
+/**
+ * Llama a Groq probando los modelos en orden. Ante un 429 pasa al siguiente
+ * modelo (otra cuota); si todos están limitados, espera (retry-after) y vuelve
+ * a empezar, hasta RATE_LIMIT_BUDGET_MS en total. Solo entonces GROQ_SATURADO.
+ */
+async function withModelos<T>(modelos: string[], fn: (modelo: string) => Promise<T>): Promise<T> {
+  const inicio = Date.now();
   let lastError: unknown;
-  for (let i = 0; i <= attempts; i++) {
-    try {
-      return await fn();
-    } catch (err) {
-      lastError = err;
-      // No reintentar errores fatales (auth, modelo inexistente)
-      if (isFatalError(err)) {
-        if (err instanceof OpenAI.APIError && (err.status === 401 || err.status === 403)) {
-          throw new ConvexError({
-            code: "GROQ_AUTH",
-            message: "El servicio de análisis no está disponible ahora mismo (error de configuración). Inténtalo más tarde.",
-          });
+  let erroresRed = 0;
+  const vivos = [...modelos];
+  for (;;) {
+    let espera = Infinity;
+    for (const modelo of [...vivos]) {
+      try {
+        const r = await fn(modelo);
+        if (modelo !== modelos[0]) console.log(`[groq] respuesta con modelo de respaldo ${modelo}`);
+        return r;
+      } catch (err) {
+        lastError = err;
+        if (err instanceof OpenAI.APIError && (err.status === 404 || (err.status === 400 && modelo !== modelos[0])) && vivos.length > 1) {
+          console.log(`[groq] ${modelo} no disponible (${err.status})`);
+          vivos.splice(vivos.indexOf(modelo), 1); // modelo retirado: probar el siguiente
+          continue;
         }
-        if (err instanceof OpenAI.APIError && err.status === 404) {
-          throw new ConvexError({
-            code: "GROQ_MODEL",
-            message: "El servicio de análisis no está disponible ahora mismo (modelo no disponible). Inténtalo más tarde.",
-          });
+        if (isFatalError(err)) {
+          if (err instanceof OpenAI.APIError && (err.status === 401 || err.status === 403)) {
+            throw new ConvexError({ code: "GROQ_AUTH", message: "El servicio de análisis no está disponible ahora mismo (error de configuración). Inténtalo más tarde." });
+          }
+          if (err instanceof OpenAI.APIError && err.status === 404) {
+            throw new ConvexError({ code: "GROQ_MODEL", message: "El servicio de análisis no está disponible ahora mismo (modelo no disponible). Inténtalo más tarde." });
+          }
+          throw err;
         }
-        throw err;
-      }
-      if (i < attempts) {
-        let delay = isRateLimitError(err) ? RATE_LIMIT_RETRY_DELAY_MS : RETRY_DELAY_MS;
         if (isRateLimitError(err)) {
-          const ra = Number((err as InstanceType<typeof OpenAI.APIError>).headers?.get?.("retry-after"));
-          if (Number.isFinite(ra) && ra > 0) delay = Math.min(20_000, Math.ceil(ra * 1000) + 1000);
+          console.log(`[groq] 429 en ${modelo}`);
+          espera = Math.min(espera, retryAfterMs(err));
+          continue; // siguiente modelo, con su propia cuota
         }
-        await new Promise((res) => setTimeout(res, delay));
+        // error de red/5xx: un reintento corto con el mismo modelo
+        if (++erroresRed > MAX_RETRY_ATTEMPTS) break;
+        await new Promise((res) => setTimeout(res, RETRY_DELAY_MS));
+        espera = 0;
+        break;
       }
     }
+    if (erroresRed > MAX_RETRY_ATTEMPTS) break;
+    const quedan = RATE_LIMIT_BUDGET_MS - (Date.now() - inicio);
+    if (espera === Infinity || quedan <= 1000) break;
+    await new Promise((res) => setTimeout(res, Math.min(Math.max(espera, 1000), 20_000, quedan)));
   }
   if (isRateLimitError(lastError)) {
     throw new ConvexError({
@@ -203,7 +232,7 @@ REGLA DE CONSISTENCIA: ante el mismo documento debes producir siempre los mismos
 REGLA DE COHERENCIA DATOS-DEFECTOS (obligatoria): cada defecto debe ser COHERENTE con los datos extraídos en la FASE 1. Está PROHIBIDO decir que falta un dato que SÍ extrajiste. Ejemplos: si "matricula" tiene un valor, no puedes listar "falta la matrícula" ni "vehículo no identificado"; si "fecha" tiene un valor, no digas que "falta la fecha"; si "expediente" tiene un valor, no digas que "falta el expediente". Antes de incluir cada defecto, comprueba que no contradice ningún campo extraído. Solo incluye defectos REALES que veas en el documento.`;
 
 // Subir CACHE_V cuando cambie la lógica del análisis: invalida la caché anterior.
-const CACHE_V = "v8";
+const CACHE_V = "v9";
 // ── Caché de análisis: la misma multa siempre devuelve el mismo resultado ───
 // (orden de Daniel 03/10/2026). Helpers puros; las queries/mutaciones viven en
 // convex/multasInterno.ts porque los ficheros "use node" solo admiten actions.
@@ -250,8 +279,8 @@ async function analizarConVision(base64Data: string, mimeType: string): Promise<
   const red = await reducirImagenBase64(base64Data);
   if (red) { base64Data = red.data; mimeType = red.mime; }
   const client = groq();
-  const response = await withRetry(() => client.chat.completions.create({
-    model: MODEL_VISION,
+  const response = await withModelos(MODELOS_VISION, (modelo) => client.chat.completions.create({
+    model: modelo,
     temperature: 0,
     max_tokens: 2500,
     messages: [
@@ -275,8 +304,8 @@ async function analizarConVision(base64Data: string, mimeType: string): Promise<
 // ── Análisis con texto — Llama 3.3 70B ───────────────────────────────────────
 async function analizarConTexto(texto: string): Promise<AnalisisRaw> {
   const client = groq();
-  const response = await withRetry(() => client.chat.completions.create({
-    model: MODEL_TEXT,
+  const response = await withModelos(MODELOS_TEXTO, (modelo) => client.chat.completions.create({
+    model: modelo,
     temperature: 0,
     response_format: { type: "json_object" },
     max_completion_tokens: MAX_OUTPUT_TOKENS_ANALISIS,
@@ -336,6 +365,12 @@ function aplicarNormativa(a: AnalisisRaw): AnalisisRaw {
   const defectos: Defecto[] = (a.defectos ?? []).filter((d) => CITA.test(`${d.titulo} ${d.descripcion}`) && !sobreCifra(d)).slice(0, 4).map((d) =>
     /certificad|verificaci|metrol/i.test(`${d.titulo} ${d.descripcion}`) && d.gravedad === "alta" ? { ...d, gravedad: "media" } : d
   );
+  // 13/10/2026: si no es una notificación (p. ej. solo el fotograma del radar), lo
+  // que "falta" no es un defecto de la multa sino un dato que no tenemos.
+  const noEsNotificacion = (a.tipoDocumento ?? "desconocido") === "desconocido" && /no encontrad|^$/i.test(a.expediente ?? "");
+  const FALTA = /\b(falta|ausencia|no consta|no se (indica|especifica|identifica)|no (aparece|figura|indica|especifica)|sin identificar|omisi)/i;
+  const faltasMovidas: string[] = [];
+  if (noEsNotificacion) for (let i = defectos.length - 1; i >= 0; i--) if (FALTA.test(`${defectos[i].titulo} ${defectos[i].descripcion}`)) faltasMovidas.unshift(defectos.splice(i, 1)[0].titulo.toLowerCase());
   const presc = evaluarPrescripcion({ fecha: a.fecha, fechaNotificacion: a.fechaNotificacion, calificacion: a.calificacion });
   // El cálculo manda: se quitan los defectos de prescripción que haya escrito la IA.
   if (presc.motivo || presc.linea) for (let i = defectos.length - 1; i >= 0; i--) if (/prescrip/i.test(defectos[i].titulo)) defectos.splice(i, 1);
@@ -343,7 +378,7 @@ function aplicarNormativa(a: AnalisisRaw): AnalisisRaw {
     defectos.unshift({ titulo: "Prescripción de la infracción", descripcion: presc.motivo, gravedad: "alta" });
   }
   for (const m of hechos.motivosFuertes) defectos.unshift({ titulo: "Error en el cálculo de la sanción por velocidad", descripcion: m, gravedad: "alta" });
-  const faltan = [...new Set([...(a.datosFaltantes ?? []), ...(esVelocidad ? hechos.datosFaltantes : []), ...(presc.falta ? [presc.falta] : [])])];
+  const faltan = [...new Set([...(a.datosFaltantes ?? []), ...faltasMovidas, ...(esVelocidad ? hechos.datosFaltantes : []), ...(presc.falta ? [presc.falta] : [])])];
   const puntos = { alta: 20, media: 10, baja: 5 } as const;
   let viabilidad = Math.min(95, 25 + defectos.reduce((n, d) => n + (puntos[d.gravedad as keyof typeof puntos] ?? 0), 0));
   // Motivos calculados con la norma (prescripción, importe o velocidad fuera de tramo): son objetivos.
@@ -427,8 +462,8 @@ ${defectos.map((d, i) => `${i + 1}. [${d.gravedad.toUpperCase()}] ${d.titulo}: $
 Redacta el escrito completo con todos los argumentos jurídicos.`;
 
   const client = groq();
-  const cartaResponse = await withRetry(() => client.chat.completions.create({
-    model: MODEL_TEXT,
+  const cartaResponse = await withModelos(MODELOS_TEXTO, (modelo) => client.chat.completions.create({
+    model: modelo,
     temperature: 0,
     max_completion_tokens: MAX_OUTPUT_TOKENS_CARTA,
     reasoning_effort: REASONING_EFFORT_TEXT,

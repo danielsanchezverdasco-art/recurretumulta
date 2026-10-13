@@ -188,6 +188,12 @@ const SCAN_LINES = [
 function ScanAnimation() {
   const { t } = useTranslation("analyzer");
   const [stepIdx, setStepIdx] = useState(0);
+  // 13/10/2026: si Groq está al límite el backend espera y reintenta (hasta ~60s).
+  const [tardando, setTardando] = useState(false);
+  useEffect(() => {
+    const t = setTimeout(() => setTardando(true), 25_000);
+    return () => clearTimeout(t);
+  }, []);
 
   // Avanza el paso cada ~5s (los 5 pasos cubren ~25s de espera real)
   useEffect(() => {
@@ -344,6 +350,11 @@ function ScanAnimation() {
             <p className="text-xs text-gray-400">{current.detail}</p>
           </motion.div>
         </AnimatePresence>
+        {tardando && (
+          <p role="status" className="text-xs font-semibold text-amber-700">
+            Analizando, puede tardar un poco…
+          </p>
+        )}
       </div>
 
       {/* ── Barra de progreso ── */}

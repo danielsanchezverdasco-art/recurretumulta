@@ -44,7 +44,9 @@ export function takePendingDownload(tipo: "multa" | "sancion"): PendingDownload 
 // Si la promesa de Convex (WebSocket) se queda colgada —p. ej. por un corte de
 // red en el móvil—, no dejamos la UI en "procesando" para siempre: a los 100s
 // fallamos con un error claro y botón de reintentar.
-export const ANALISIS_TIMEOUT_MS = 100_000;
+// 13/10/2026: 200s — el backend puede esperar hasta ~60s por análisis y por carta
+// a que Groq (plan gratuito) libere cuota.
+export const ANALISIS_TIMEOUT_MS = 200_000;
 export class AnalisisTimeoutError extends Error {
   constructor() { super("timeout"); this.name = "AnalisisTimeoutError"; }
 }
