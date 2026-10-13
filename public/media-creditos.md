@@ -21,3 +21,27 @@
 | /media/ford-e-tourneo-courier-2025-2.webp | https://commons.wikimedia.org/wiki/File:Ford_E-Tourneo_Courier_DSC_0743.jpg | Alexander-93 | CC BY-SA 4.0 |
 | /media/chevrolet-corvette-z06-2025-2.webp | https://commons.wikimedia.org/wiki/File:Corvette_Z06,_BAS_24,_Brussels_(P1170397-RR).jpg | Matti Blume | CC BY-SA 4.0 |
 | /media/chevrolet-corvette-e-ray-2025-2.webp | https://commons.wikimedia.org/wiki/File:2025_Chevrolet_Corvette_E-Ray_1.jpg | Calreyn88 | CC BY-SA 4.0 |
+| /media/vespa-gtv-310-2026-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Vespa_GTV_310_2025.jpg | AVMOTO | CC BY-SA 4.0 |
+| /media/motron-ventura-125-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Motron_Ventura_125_2026.jpg | ADXTurbo66 | CC BY-SA 4.0 |
+| /media/aprilia-sr-gt-400-2026-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Aprilia_SR_GT_400_2026.jpg | MotorideSA | CC BY-SA 4.0 |
+| /media/kymco-dtx-360-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Kymco_DTX_360.jpg | Kenneth Lee | CC BY-SA 2.0 |
+| /media/sym-cruisym-400-2026-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:SYM_Cruisym_400_2026.jpg | MotorideSA | CC BY-SA 4.0 |
+| /media/sym-bwt-125-2026-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:SYM_BWT_125.jpg | MotorideSA | CC BY-SA 4.0 |
+| /media/benelli-tornado-400-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Benelli_Tornado_400_2025.jpg | AVMOTO | CC BY-SA 4.0 |
+| /media/kawasaki-ninja-500-se-2026-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Kawasaki_Ninja_500_SE_2025.jpg | AVMOTO | CC BY-SA 4.0 |
+| /media/yamaha-yzf-r125-2024-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Yamaha_YZF-R125_2025.jpg | AVMOTO | CC BY-SA 4.0 |
+| /media/aprilia-rs-125-2024-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:2024_Aprilia_RS_125.jpg | Calreyn88 | CC0 |
+| /media/fb-mondial-piega-452-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:FB_Mondial_Piega_452_2026.jpg | MotorideSA | CC BY-SA 4.0 |
+| /media/harley-davidson-pan-america-1250-special-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Harley-Davidson_Museum_May_2024_29_(2023_Pan_America_1250_Special).jpg | Michael Barera | CC BY-SA 4.0 |
+| /media/yamaha-tenere-700-rally-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Yamaha_T%C3%A9n%C3%A9r%C3%A9_Rally_700_2025.jpg | AVMOTO | CC BY-SA 4.0 |
+| /media/rieju-aventura-rally-307-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Rieju_Aventura_Rally_307.jpg | MotorideSA | CC BY-SA 4.0 |
+| /media/kawasaki-versys-1100-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Kawasaki_Versys_1100_2025.jpg | AVMOTO | CC BY-SA 4.0 |
+| /media/morbidelli-t502x-2026-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Morbidelli_T502X_2025.jpg | AVMOTO | CC BY-SA 4.0 |
+| /media/qjmotor-srt-900sx-2026-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:QJMotor_SRT_900SX_2025.jpg | AVMOTO | CC BY-SA 4.0 |
+| /media/benelli-trk-702x-2026-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Benelli_TRK_702X_2026.jpg | MotorideSA | CC BY-SA 4.0 |
+| /media/harley-davidson-low-rider-st-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Harley-Davidson_Museum_May_2024_28_(2024_Low_Rider_ST).jpg | Michael Barera | CC BY-SA 4.0 |
+| /media/kawasaki-versys-1100-se-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Kawasaki_Versys_SE_1100_2025.jpg | AVMOTO | CC BY-SA 4.0 |
+| /media/kawasaki-ninja-zx-10rr-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Kawasaki_Ninja_ZX-10RR_2026.jpg | MotorideSA | CC BY-SA 4.0 |
+| /media/bsa-scrambler-650-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:BSA_Scrambler_650_2026.jpg | MotorideSA | CC BY-SA 4.0 |
+| /media/kawasaki-w230-2026-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Kawasaki_W230_2025.jpg | AVMOTO | CC BY-SA 4.0 |
+| /media/triumph-bonneville-bobber-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Triumph_Bonneville_Bobber_1200_Icon_Edition_(2025).jpg | AVMOTO | CC BY-SA 4.0 |

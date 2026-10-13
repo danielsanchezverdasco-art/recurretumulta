@@ -134,8 +134,12 @@ console.log(`Generados ${all.length} posts lite en blog-lite.generated.ts`);
 
 // 05/10/2026 (rendimiento): la portada solo necesita los 30 más recientes
 // (muestra 6) + el contador. Evita cargar 1.5MB en la home.
-const home = [...all]
-  .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
+// 13/10/2026: mismo criterio que /blog: fecha descendente y, a igual fecha,
+// lo que aparece después en los arrays (publicado después) va primero.
+const home = all
+  .map((p, i) => ({ p, i }))
+  .sort((a, b) => new Date(b.p.date).getTime() - new Date(a.p.date).getTime() || b.i - a.i)
+  .map((x) => x.p)
   .slice(0, 30);
 const homeOut = `// Generado automáticamente por scripts/gen-blog-lite.mjs — NO EDITAR A MANO.
 // Subconjunto para la portada: 30 posts más recientes + contador total.
