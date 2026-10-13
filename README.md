@@ -1,5 +1,8 @@
 # recurretumulta.online: frontend
 
+> Para publicar, lee primero **PUBLICAR.md**; el aviso «ahora no se publica desde aquí» está obsoleto.
+
+
 Vite + React 19 + TypeScript + Tailwind 4. Es una SPA **prerenderizada**: cada URL pública sale como `dist/<ruta>/index.html` con el HTML ya pintado.
 El backend (Convex: reseñas, newsletter, alertas y auth) **no está en este flujo**. La carpeta `convex/` se guarda solo como referencia y no se despliega desde aquí.
 
