@@ -15,7 +15,7 @@ export const MOTOS_EXP_M17_POSTS: BlogPost[] = [
     keywords: ["Kawasaki Z900 SE", "Z900 SE 2025 precio", "Kawasaki Z900 SE ficha técnica", "naked 124 CV", "Z900 SE Öhlins Brembo", "motos naked carnet A"],
     content: `<img src=/media/motos/kawasaki-z900-se-2025-ficha-tecnica-precio-hero.webp alt=Kawasaki Z900 SE 2025 con decoración gris mate exclusiva>
 
-La <a href=/motos/kawasaki-z900-se-2025-ficha-tecnica-precio>Kawasaki Z900 SE 2025</a> es la versión más equipada de la naked media-alta de Akashi: sobre la base de la Z900 renovada en 2025, la SE añade frenos Brembo, amortiguador trasero Öhlins, toma USB-C y una decoración exclusiva en gris mate. Con 124 CV, electrónica con IMU y un precio de 12.475 €, es una de las naked con mejor relación equipo-precio del mercado.
+La <a href=/motos/kawasaki-z900-se-2025-ficha-tecnica-precio/>Kawasaki Z900 SE 2025</a> es la versión más equipada de la naked media-alta de Akashi: sobre la base de la Z900 renovada en 2025, la SE añade frenos Brembo, amortiguador trasero Öhlins, toma USB-C y una decoración exclusiva en gris mate. Con 124 CV, electrónica con IMU y un precio de 12.475 €, es una de las naked con mejor relación equipo-precio del mercado.
 
 ## Ficha técnica resumida
 
@@ -33,7 +33,7 @@ La <a href=/motos/kawasaki-z900-se-2025-ficha-tecnica-precio>Kawasaki Z900 SE 20
 
 ## La SE: lo que cambia respecto a la Z900 estándar
 
-La receta de la SE es sencilla y efectiva: la misma base que la <a href=/motos/kawasaki-z900-2025-ficha-tecnica-precio>Kawasaki Z900 2025</a> —motor tetracilíndrico de 948 cc adaptado a la Euro5+, chasis ligero y electrónica con unidad inercial IMU— pero con tres añadidos que se notan desde la primera frenada. Las pinzas Brembo muerden con más progresividad que las de la estándar, el amortiguador Öhlins trasero filtra mejor el asfalto roto y la toma USB-C bajo el asiento resuelve la carga del móvil en ruta.
+La receta de la SE es sencilla y efectiva: la misma base que la <a href=/motos/kawasaki-z900-2025-ficha-tecnica-precio/>Kawasaki Z900 2025</a> —motor tetracilíndrico de 948 cc adaptado a la Euro5+, chasis ligero y electrónica con unidad inercial IMU— pero con tres añadidos que se notan desde la primera frenada. Las pinzas Brembo muerden con más progresividad que las de la estándar, el amortiguador Öhlins trasero filtra mejor el asfalto roto y la toma USB-C bajo el asiento resuelve la carga del móvil en ruta.
 
 La decoración también es propia: Metallic Matte Graphite Gray combinado con negro y grafito, con gráficos específicos que la distinguen a primera vista. No es solo estética: la SE se posiciona como la Z900 para quien quiere el máximo equipo sin saltar a una supernaked europea de 18.000 €.
 
@@ -51,7 +51,7 @@ Kawasaki aplica su plan de revisiones estándar: la primera a los 1.000 km y las
 
 ## Precio y rivales
 
-La Z900 SE 2025 cuesta <strong>12.475 €</strong>, unos 2.000 € más que la Z900 estándar. Sus rivales naturales son la <a href=/motos/honda-cb1000-hornet-sp-2025-ficha-tecnica-precio>Honda CB1000 Hornet SP 2025</a>, la <a href=/motos/suzuki-gsx-s1000-2025-ficha-tecnica-precio>Suzuki GSX-S1000 2025</a> y la <a href=/motos/yamaha-mt-10-2025-ficha-tecnica-precio>Yamaha MT-10 2025</a>. Frente a ellas, la Kawasaki gana en precio y pierde algo de potencia bruta: 124 CV frente a los 150+ de las rivales.
+La Z900 SE 2025 cuesta <strong>12.475 €</strong>, unos 2.000 € más que la Z900 estándar. Sus rivales naturales son la <a href=/motos/honda-cb1000-hornet-sp-2025-ficha-tecnica-precio/>Honda CB1000 Hornet SP 2025</a>, la <a href=/motos/suzuki-gsx-s1000-2025-ficha-tecnica-precio/>Suzuki GSX-S1000 2025</a> y la <a href=/motos/yamaha-mt-10-2025-ficha-tecnica-precio/>Yamaha MT-10 2025</a>. Frente a ellas, la Kawasaki gana en precio y pierde algo de potencia bruta: 124 CV frente a los 150+ de las rivales.
 
 ## Preguntas frecuentes
 
@@ -90,7 +90,7 @@ Si valoras la frenada y la suspensión, sí: el sobreprecio se amortiza solo con
     keywords: ["Kawasaki Ninja 1100SX SE", "Ninja 1100SX SE 2026 precio", "Kawasaki 1100SX SE ficha técnica", "sport turismo 136 CV", "Ninja 1100SX Öhlins", "motos sport turismo carnet A"],
     content: `<img src=/media/motos/kawasaki-ninja-1100sx-se-2026-ficha-tecnica-precio-hero.webp alt=Kawasaki Ninja 1100SX SE 2026, sport-turismo con carenado completo>
 
-La <a href=/motos/kawasaki-ninja-1100sx-se-2026-ficha-tecnica-precio>Kawasaki Ninja 1100SX SE 2026</a> ocupa un lugar muy particular dentro de la gama Ninja: no es una deportiva pura ni una trail, sino una sport-turismo con alma deportiva. Su tetracilíndrico de 1.099 cc entrega 136 CV, la versión SE suma suspensiones Öhlins y frenos Brembo, y todo el conjunto cuesta 18.490 €. Una moto para quien entiende el motociclismo como algo más que una cifra de potencia.
+La <a href=/motos/kawasaki-ninja-1100sx-se-2026-ficha-tecnica-precio/>Kawasaki Ninja 1100SX SE 2026</a> ocupa un lugar muy particular dentro de la gama Ninja: no es una deportiva pura ni una trail, sino una sport-turismo con alma deportiva. Su tetracilíndrico de 1.099 cc entrega 136 CV, la versión SE suma suspensiones Öhlins y frenos Brembo, y todo el conjunto cuesta 18.490 €. Una moto para quien entiende el motociclismo como algo más que una cifra de potencia.
 
 ## Ficha técnica resumida
 
@@ -128,7 +128,7 @@ Revisiones cada 12.000 km o 12 meses tras el rodaje de 1.000 km, con aceite 10W-
 
 ## Precio y rivales
 
-La Ninja 1100SX SE 2026 cuesta <strong>18.490 €</strong>, frente a los 16.750 € de la versión estándar. Compite con la <a href=/motos/bmw-s-1000-xr-2024-ficha-tecnica-precio>BMW S 1000 XR 2024</a>, la <a href=/motos/yamaha-tracer-9-gt-plus-2025-ficha-tecnica-precio>Yamaha Tracer 9 GT+ 2025</a> y la <a href=/motos/suzuki-gsx-s1000gx-2024-ficha-tecnica-precio>Suzuki GSX-S1000GX 2024</a>. Su baza: el equilibrio entre deportividad real y confort rutero sin llegar a los 20.000 €.
+La Ninja 1100SX SE 2026 cuesta <strong>18.490 €</strong>, frente a los 16.750 € de la versión estándar. Compite con la <a href=/motos/bmw-s-1000-xr-2024-ficha-tecnica-precio/>BMW S 1000 XR 2024</a>, la <a href=/motos/yamaha-tracer-9-gt-plus-2025-ficha-tecnica-precio/>Yamaha Tracer 9 GT+ 2025</a> y la <a href=/motos/suzuki-gsx-s1000gx-2024-ficha-tecnica-precio/>Suzuki GSX-S1000GX 2024</a>. Su baza: el equilibrio entre deportividad real y confort rutero sin llegar a los 20.000 €.
 
 ## Preguntas frecuentes
 
@@ -167,7 +167,7 @@ Sí: es su razón de ser. Posición erguida, carenado protector y asiento pensad
     keywords: ["Kawasaki Meguro S1", "Meguro S1 2026 precio", "Kawasaki Meguro ficha técnica", "moto retro 233 cc", "Meguro S1 carnet A2", "motos clásicas ligeras"],
     content: `<img src=/media/motos/kawasaki-meguro-s1-2026-ficha-tecnica-precio-hero.webp alt=Kawasaki Meguro S1 2026, roadster retro con depósito clásico>
 
-La <a href=/motos/kawasaki-meguro-s1-2026-ficha-tecnica-precio>Kawasaki Meguro S1 2026</a> es una rareza deliciosa en el catálogo actual: una moto nueva con alma de los años 60, firmada por Meguro, la marca japonesa centenaria que Kawasaki adquirió hace décadas. Con 233 cc, 17,5 CV y solo 143 kg, cuesta 5.995 € y se puede llevar con el carnet A2. Puro clasicismo sin complicaciones.
+La <a href=/motos/kawasaki-meguro-s1-2026-ficha-tecnica-precio/>Kawasaki Meguro S1 2026</a> es una rareza deliciosa en el catálogo actual: una moto nueva con alma de los años 60, firmada por Meguro, la marca japonesa centenaria que Kawasaki adquirió hace décadas. Con 233 cc, 17,5 CV y solo 143 kg, cuesta 5.995 € y se puede llevar con el carnet A2. Puro clasicismo sin complicaciones.
 
 ## Ficha técnica resumida
 
@@ -198,7 +198,7 @@ Mecánica simple de monocilíndrico: revisiones económicas, consumo mínimo y r
 
 ## Precio y rivales
 
-Cuesta <strong>5.995 €</strong>. Sus rivales son la <a href=/motos/royal-enfield-hunter-350-2025-ficha-tecnica-precio>Royal Enfield Hunter 350 2025</a>, la <a href=/motos/honda-gb350s-2025-ficha-tecnica-precio>Honda GB350S 2025</a> y la <a href=/motos/triumph-speed-400-2024-ficha-tecnica-precio>Triumph Speed 400 2024</a>. La Meguro gana en ligereza y precio, y pierde en prestaciones puras.
+Cuesta <strong>5.995 €</strong>. Sus rivales son la <a href=/motos/royal-enfield-hunter-350-2025-ficha-tecnica-precio/>Royal Enfield Hunter 350 2025</a>, la <a href=/motos/honda-gb350s-2025-ficha-tecnica-precio/>Honda GB350S 2025</a> y la <a href=/motos/triumph-speed-400-2024-ficha-tecnica-precio/>Triumph Speed 400 2024</a>. La Meguro gana en ligereza y precio, y pierde en prestaciones puras.
 
 ## Preguntas frecuentes
 
@@ -236,7 +236,7 @@ Solo 143 kg, de las más ligeras con marchas.
     keywords: ["Kawasaki W800", "W800 2024 precio", "Kawasaki W800 ficha técnica", "moto clásica 48 CV", "W800 carnet A2", "retro refrigerada por aire"],
     content: `<img src=/media/motos/kawasaki-w800-2024-ficha-tecnica-precio-hero.webp alt=Kawasaki W800 2024 en rojo, clásica roadster de estética sesentera>
 
-La <a href=/motos/kawasaki-w800-2024-ficha-tecnica-precio>Kawasaki W800 2024</a> es una anomalía maravillosa en 2024: una moto nueva con motor refrigerado por aire, cinco marchas y relojes analógicos. Su bicilíndrico de 773 cc entrega 48 CV exactos —el límite del carnet A2—, y en 2024 volvió al color rojo que la vio nacer. Precio aproximado: 11.099 €.
+La <a href=/motos/kawasaki-w800-2024-ficha-tecnica-precio/>Kawasaki W800 2024</a> es una anomalía maravillosa en 2024: una moto nueva con motor refrigerado por aire, cinco marchas y relojes analógicos. Su bicilíndrico de 773 cc entrega 48 CV exactos —el límite del carnet A2—, y en 2024 volvió al color rojo que la vio nacer. Precio aproximado: 11.099 €.
 
 ## Ficha técnica resumida
 
@@ -270,7 +270,7 @@ Mecánica sencilla y accesible: revisiones cada 12.000 km o 12 meses, con un bic
 
 ## Precio y rivales
 
-Su precio ronda los <strong>11.099 €</strong>. Rivales directas: la <a href=/motos/triumph-bonneville-t100-2025-ficha-tecnica-precio>Triumph Bonneville T100 2025</a>, la <a href=/motos/royal-enfield-interceptor-650-2024-ficha-tecnica-precio>Royal Enfield Interceptor 650 2024</a> y la <a href=/motos/moto-guzzi-v7-stone-2024-ficha-tecnica-precio>Moto Guzzi V7 Stone 2024</a>. La W800 es la única refrigerada por aire del grupo y la más fiel al espíritu sesentero.
+Su precio ronda los <strong>11.099 €</strong>. Rivales directas: la <a href=/motos/triumph-bonneville-t100-2025-ficha-tecnica-precio/>Triumph Bonneville T100 2025</a>, la <a href=/motos/royal-enfield-interceptor-650-2024-ficha-tecnica-precio/>Royal Enfield Interceptor 650 2024</a> y la <a href=/motos/moto-guzzi-v7-stone-2024-ficha-tecnica-precio/>Moto Guzzi V7 Stone 2024</a>. La W800 es la única refrigerada por aire del grupo y la más fiel al espíritu sesentero.
 
 ## Preguntas frecuentes
 
@@ -308,7 +308,7 @@ No: ni modos ni control de tracción. Solo ABS, inyección y embrague antirrebot
     keywords: ["Kawasaki Z500 SE", "Z500 SE 2025 precio", "Kawasaki Z500 ficha técnica", "naked A2 45 CV", "Z500 SE TFT", "motos A2 2025"],
     content: `<img src=/media/motos/kawasaki-z500-se-2025-ficha-tecnica-precio-hero.webp alt=Kawasaki Z500 SE 2025, naked deportiva con faro triple LED>
 
-La <a href=/motos/kawasaki-z500-se-2025-ficha-tecnica-precio>Kawasaki Z500 SE 2025</a> es la versión equipada de la naked de acceso de Kawasaki: mismo bicilíndrico de 451 cc y 45,4 CV apto para el A2, pero con pantalla TFT a color, conectividad para smartphone, puerto USB e iluminación full LED. Cuesta 6.699 € y pesa solo 172 kg. La supernaked de bolsillo.
+La <a href=/motos/kawasaki-z500-se-2025-ficha-tecnica-precio/>Kawasaki Z500 SE 2025</a> es la versión equipada de la naked de acceso de Kawasaki: mismo bicilíndrico de 451 cc y 45,4 CV apto para el A2, pero con pantalla TFT a color, conectividad para smartphone, puerto USB e iluminación full LED. Cuesta 6.699 € y pesa solo 172 kg. La supernaked de bolsillo.
 
 ## Ficha técnica resumida
 
@@ -343,7 +343,7 @@ Revisiones cada 12.000 km o 12 meses tras el rodaje. Mecánica sencilla de bicil
 
 ## Precio y rivales
 
-Cuesta <strong>6.699 €</strong>. Compite con la <a href=/motos/honda-cb500-hornet-2025-ficha-tecnica-precio>Honda CB500 Hornet 2025</a>, la <a href=/motos/ktm-390-duke-2024-ficha-tecnica-precio>KTM 390 Duke 2024</a> y la <a href=/motos/yamaha-mt-03-2025-ficha-tecnica-precio>Yamaha MT-03 2025</a>. La Kawasaki destaca por la pantalla TFT y el tacto del bicilíndrico; la Honda, por el par.
+Cuesta <strong>6.699 €</strong>. Compite con la <a href=/motos/honda-cb500-hornet-2025-ficha-tecnica-precio/>Honda CB500 Hornet 2025</a>, la <a href=/motos/ktm-390-duke-2024-ficha-tecnica-precio/>KTM 390 Duke 2024</a> y la <a href=/motos/yamaha-mt-03-2025-ficha-tecnica-precio/>Yamaha MT-03 2025</a>. La Kawasaki destaca por la pantalla TFT y el tacto del bicilíndrico; la Honda, por el par.
 
 ## Preguntas frecuentes
 
@@ -382,7 +382,7 @@ Sí, sin limitación: tiene 45,4 CV y el límite son 47,6 CV.
     keywords: ["Suzuki GSX-8R", "GSX-8R 2026 precio", "Suzuki GSX-8R ficha técnica", "deportiva A2 83 CV", "GSX-8R limitable", "motos deportivas medias"],
     content: `<img src=/media/motos/suzuki-gsx-8r-2026-ficha-tecnica-precio-hero.webp alt=Suzuki GSX-8R 2026, deportiva carenada de media cilindrada>
 
-La <a href=/motos/suzuki-gsx-8r-2026-ficha-tecnica-precio>Suzuki GSX-8R 2026</a> sigue siendo la puerta carenada al mundo R de Suzuki: el bicilíndrico de 776 cc con 83 CV, limitable para el carnet A2, vestido con un carenado completo de estética GSX-R. El modelo 2026 mantiene la fórmula y ajusta el precio a 9.999 €. Deportiva de verdad para todos los días.
+La <a href=/motos/suzuki-gsx-8r-2026-ficha-tecnica-precio/>Suzuki GSX-8R 2026</a> sigue siendo la puerta carenada al mundo R de Suzuki: el bicilíndrico de 776 cc con 83 CV, limitable para el carnet A2, vestido con un carenado completo de estética GSX-R. El modelo 2026 mantiene la fórmula y ajusta el precio a 9.999 €. Deportiva de verdad para todos los días.
 
 ## Ficha técnica resumida
 
@@ -402,7 +402,7 @@ La <a href=/motos/suzuki-gsx-8r-2026-ficha-tecnica-precio>Suzuki GSX-8R 2026</a>
 
 ## Una R pensada para la calle
 
-La GSX-8R no es una supersport radical: es una sport-turismo con carenado completo, semimanillares elevados y una posición que no destroza las muñecas. Comparte chasis tubular de acero y motor con la naked <a href=/motos/suzuki-gsx-8s-2026-ficha-tecnica-precio>Suzuki GSX-8S 2026</a>, pero con suspensiones Showa específicas y una estética que bebe de la saga GSX-R.
+La GSX-8R no es una supersport radical: es una sport-turismo con carenado completo, semimanillares elevados y una posición que no destroza las muñecas. Comparte chasis tubular de acero y motor con la naked <a href=/motos/suzuki-gsx-8s-2026-ficha-tecnica-precio/>Suzuki GSX-8S 2026</a>, pero con suspensiones Showa específicas y una estética que bebe de la saga GSX-R.
 
 El bicilíndrico de 776 cc con cigüeñal calado a 270 grados y sistema Cross Balancer entrega 83 CV con mucho par desde abajo: 78 Nm a 6.800 rpm. Es un motor trabajado para el día a día, con un consumo de solo 4,2 l/100 km.
 
@@ -418,7 +418,7 @@ Revisiones cada 12.000 km o 12 meses. El bicilíndrico es mecánicamente sencill
 
 ## Precio y rivales
 
-El modelo 2026 cuesta <strong>9.999 €</strong> (el 2024 salió a 9.699 €). Sus rivales son la <a href=/motos/yamaha-yzf-r7-2025-ficha-tecnica-precio>Yamaha YZF-R7 2025</a>, la <a href=/motos/honda-cbr650r-e-clutch-2025-ficha-tecnica-precio>Honda CBR650R E-Clutch 2025</a> y la <a href=/motos/aprilia-rs-660-2024-ficha-tecnica-precio>Aprilia RS 660 2024</a>. La Suzuki es la más rutera y económica de usar del grupo.
+El modelo 2026 cuesta <strong>9.999 €</strong> (el 2024 salió a 9.699 €). Sus rivales son la <a href=/motos/yamaha-yzf-r7-2025-ficha-tecnica-precio/>Yamaha YZF-R7 2025</a>, la <a href=/motos/honda-cbr650r-e-clutch-2025-ficha-tecnica-precio/>Honda CBR650R E-Clutch 2025</a> y la <a href=/motos/aprilia-rs-660-2024-ficha-tecnica-precio/>Aprilia RS 660 2024</a>. La Suzuki es la más rutera y económica de usar del grupo.
 
 ## Preguntas frecuentes
 
@@ -457,7 +457,7 @@ Horquilla invertida Showa SFF-BP delante y monoamortiguador con precarga detrás
     keywords: ["Suzuki GSX-8S", "GSX-8S 2026 precio", "Suzuki GSX-8S ficha técnica", "naked 776 cc", "GSX-8S A2", "naked media 2026"],
     content: `<img src=/media/motos/suzuki-gsx-8s-2026-ficha-tecnica-precio-hero.webp alt=Suzuki GSX-8S 2026, naked bicilíndrica de diseño agresivo>
 
-La <a href=/motos/suzuki-gsx-8s-2026-ficha-tecnica-precio>Suzuki GSX-8S 2026</a> es la naked que estrenó el bicilíndrico de 776 cc de Suzuki y la base de toda una familia: de ella nacieron la deportiva GSX-8R y la trail V-Strom 800. El modelo 2026 mantiene los 82 CV, la electrónica S.I.R.S. y un precio de 7.999 €. La naked media racional por excelencia.
+La <a href=/motos/suzuki-gsx-8s-2026-ficha-tecnica-precio/>Suzuki GSX-8S 2026</a> es la naked que estrenó el bicilíndrico de 776 cc de Suzuki y la base de toda una familia: de ella nacieron la deportiva GSX-8R y la trail V-Strom 800. El modelo 2026 mantiene los 82 CV, la electrónica S.I.R.S. y un precio de 7.999 €. La naked media racional por excelencia.
 
 ## Ficha técnica resumida
 
@@ -490,7 +490,7 @@ Revisiones cada 12.000 km o 12 meses. Mecánica simple y probada, con costes de 
 
 ## Precio y rivales
 
-Cuesta <strong>7.999 €</strong>. Compite con la <a href=/motos/yamaha-mt-07-2025-ficha-tecnica-precio>Yamaha MT-07 2025</a>, la <a href=/motos/honda-cb750-hornet-2025-ficha-tecnica-precio>Honda CB750 Hornet 2025</a> y la <a href=/motos/kawasaki-z650-2025-ficha-tecnica-precio>Kawasaki Z650 2025</a>. La Suzuki se defiende con mejor electrónica de serie y el carácter de su bicilíndrico.
+Cuesta <strong>7.999 €</strong>. Compite con la <a href=/motos/yamaha-mt-07-2025-ficha-tecnica-precio/>Yamaha MT-07 2025</a>, la <a href=/motos/honda-cb750-hornet-2025-ficha-tecnica-precio/>Honda CB750 Hornet 2025</a> y la <a href=/motos/kawasaki-z650-2025-ficha-tecnica-precio/>Kawasaki Z650 2025</a>. La Suzuki se defiende con mejor electrónica de serie y el carácter de su bicilíndrico.
 
 ## Preguntas frecuentes
 
@@ -528,7 +528,7 @@ La 8S es naked y la 8R es la versión carenada deportiva; comparten chasis y mot
     keywords: ["Suzuki SV-7GX", "SV-7GX 2026 precio", "Suzuki SV-7GX ficha técnica", "nueva SV 650", "SV crossover 73 CV", "sport turismo V2"],
     content: `<img src=/media/motos/suzuki-sv-7gx-2026-ficha-tecnica-precio-hero.webp alt=Suzuki SV-7GX 2026, sport-turismo con motor V2>
 
-La <a href=/motos/suzuki-sv-7gx-2026-ficha-tecnica-precio>Suzuki SV-7GX 2026</a> es la noticia más interesante de Suzuki en años: retoma el espíritu de la legendaria SV con un formato inédito, una sport-turismo de estética crossover inspirada en la GSX-S1000GX. Mantiene el V2 de 645 cc, ahora con 73 CV, acelerador electrónico, quickshifter y pantalla TFT. Y cuesta 7.999 €.
+La <a href=/motos/suzuki-sv-7gx-2026-ficha-tecnica-precio/>Suzuki SV-7GX 2026</a> es la noticia más interesante de Suzuki en años: retoma el espíritu de la legendaria SV con un formato inédito, una sport-turismo de estética crossover inspirada en la GSX-S1000GX. Mantiene el V2 de 645 cc, ahora con 73 CV, acelerador electrónico, quickshifter y pantalla TFT. Y cuesta 7.999 €.
 
 ## Ficha técnica resumida
 
@@ -561,7 +561,7 @@ El V2 de 645 cc es uno de los motores más probados y fiables del mercado, con m
 
 ## Precio y rivales
 
-Cuesta <strong>7.999 €</strong>. Sus rivales son la <a href=/motos/yamaha-tracer-7-2025-ficha-tecnica-precio>Yamaha Tracer 7 2025</a>, la <a href=/motos/kawasaki-versys-650-2025-ficha-tecnica-precio>Kawasaki Versys 650 2025</a> y la <a href=/motos/triumph-tiger-sport-660-2025-ficha-tecnica-precio>Triumph Tiger Sport 660 2025</a>. La Suzuki juega la carta del precio y del motor legendario.
+Cuesta <strong>7.999 €</strong>. Sus rivales son la <a href=/motos/yamaha-tracer-7-2025-ficha-tecnica-precio/>Yamaha Tracer 7 2025</a>, la <a href=/motos/kawasaki-versys-650-2025-ficha-tecnica-precio/>Kawasaki Versys 650 2025</a> y la <a href=/motos/triumph-tiger-sport-660-2025-ficha-tecnica-precio/>Triumph Tiger Sport 660 2025</a>. La Suzuki juega la carta del precio y del motor legendario.
 
 ## Preguntas frecuentes
 
@@ -600,7 +600,7 @@ Es su planteamiento: posición erguida, pantalla regulable y depósito de más d
     keywords: ["Suzuki V-Strom 800RE", "V-Strom 800RE 2025 precio", "V-Strom 800RE ficha técnica", "trail asfáltica 800", "V-Strom road edition", "trail 83 CV"],
     content: `<img src=/media/motos/suzuki-v-strom-800re-2025-ficha-tecnica-precio-hero.webp alt=Suzuki V-Strom 800RE 2025, trail asfáltica con llanta de 19 pulgadas>
 
-La <a href=/motos/suzuki-v-strom-800re-2025-ficha-tecnica-precio>Suzuki V-Strom 800RE 2025</a> responde a una pregunta sencilla: ¿y si la V-Strom 800 estuviera pensada para el asfalto? La RE (Road Edition) cambia la llanta delantera de 21 a 19 pulgadas, baja el asiento a 825 mm, recorta 7 kg y monta pinzas de freno radiales. Mismo bicilíndrico de 776 cc y 83 CV, pero con otro carácter. Precio aproximado: 10.699 €.
+La <a href=/motos/suzuki-v-strom-800re-2025-ficha-tecnica-precio/>Suzuki V-Strom 800RE 2025</a> responde a una pregunta sencilla: ¿y si la V-Strom 800 estuviera pensada para el asfalto? La RE (Road Edition) cambia la llanta delantera de 21 a 19 pulgadas, baja el asiento a 825 mm, recorta 7 kg y monta pinzas de freno radiales. Mismo bicilíndrico de 776 cc y 83 CV, pero con otro carácter. Precio aproximado: 10.699 €.
 
 ## Ficha técnica resumida
 
@@ -636,7 +636,7 @@ Revisiones cada 12.000 km o 12 meses. El bicilíndrico comparte base con la GSX-
 
 ## Precio y rivales
 
-Su precio aproximado es de <strong>10.699 €</strong>. Compite con la <a href=/motos/honda-xl750-transalp-2025-ficha-tecnica-precio>Honda XL750 Transalp 2025</a>, la <a href=/motos/yamaha-tenere-700-2025-ficha-tecnica-precio>Yamaha Ténéré 700 2025</a> y la <a href=/motos/bmw-f-800-gs-2024-ficha-tecnica-precio>BMW F 800 GS 2024</a>. La Suzuki destaca por su suavidad de motor y su precio contenido.
+Su precio aproximado es de <strong>10.699 €</strong>. Compite con la <a href=/motos/honda-xl750-transalp-2025-ficha-tecnica-precio/>Honda XL750 Transalp 2025</a>, la <a href=/motos/yamaha-tenere-700-2025-ficha-tecnica-precio/>Yamaha Ténéré 700 2025</a> y la <a href=/motos/bmw-f-800-gs-2024-ficha-tecnica-precio/>BMW F 800 GS 2024</a>. La Suzuki destaca por su suavidad de motor y su precio contenido.
 
 ## Preguntas frecuentes
 
@@ -674,7 +674,7 @@ Unos 400 km gracias a los 20 litros y un consumo de 4,4 l/100 km.
     keywords: ["Suzuki Hayabusa", "Hayabusa 2026 precio", "Hayabusa ficha técnica", "hypersport 190 CV", "Hayabusa 299 km/h", "moto más rápida"],
     content: `<img src=/media/motos/suzuki-hayabusa-2026-ficha-tecnica-precio-hero.webp alt=Suzuki Hayabusa 2026 en Gris Trueno, hypersport de 190 CV>
 
-La <a href=/motos/suzuki-hayabusa-2026-ficha-tecnica-precio>Suzuki Hayabusa 2026</a> no necesita presentación: es la moto que en 1999 inventó el segmento hypersport y obligó a toda la industria a pactar el límite de 299 km/h. La tercera generación, actualizada a Euro5+ en 2025, mantiene los 190 CV y en 2026 estrena el color Gris Trueno. Precio aproximado de la estándar: 19.990 €.
+La <a href=/motos/suzuki-hayabusa-2026-ficha-tecnica-precio/>Suzuki Hayabusa 2026</a> no necesita presentación: es la moto que en 1999 inventó el segmento hypersport y obligó a toda la industria a pactar el límite de 299 km/h. La tercera generación, actualizada a Euro5+ en 2025, mantiene los 190 CV y en 2026 estrena el color Gris Trueno. Precio aproximado de la estándar: 19.990 €.
 
 ## Ficha técnica resumida
 
@@ -710,7 +710,7 @@ Moto grande, mantenimiento grande: revisiones cada 12.000 km, neumáticos 190 tr
 
 ## Precio y rivales
 
-La estándar ronda los <strong>19.990 €</strong>. No tiene rivales directos —el segmento hypersport lo inventó ella—, pero por precio y planteamiento se cruza con la <a href=/motos/kawasaki-ninja-h2-sx-2026-ficha-tecnica-precio>Kawasaki Ninja H2 SX 2026</a> y la <a href=/motos/bmw-s-1000-xr-2024-ficha-tecnica-precio>BMW S 1000 XR 2024</a>. Ninguna tiene su historia.
+La estándar ronda los <strong>19.990 €</strong>. No tiene rivales directos —el segmento hypersport lo inventó ella—, pero por precio y planteamiento se cruza con la <a href=/motos/kawasaki-ninja-h2-sx-2026-ficha-tecnica-precio/>Kawasaki Ninja H2 SX 2026</a> y la <a href=/motos/bmw-s-1000-xr-2024-ficha-tecnica-precio/>BMW S 1000 XR 2024</a>. Ninguna tiene su historia.
 
 ## Preguntas frecuentes
 
@@ -749,7 +749,7 @@ Más de lo que parece: posición relativamente cómoda, 20 litros y control de c
     keywords: ["KTM 790 Duke", "790 Duke 2024 precio", "KTM 790 Duke ficha técnica", "naked 105 CV", "La Scalpel KTM", "790 Duke A2"],
     content: `<img src=/media/motos/ktm-790-duke-2024-ficha-tecnica-precio-hero.webp alt=KTM 790 Duke 2024 naranja, naked deportiva 'La Scalpel'>
 
-La <a href=/motos/ktm-790-duke-2024-ficha-tecnica-precio>KTM 790 Duke 2024</a> marcó el regreso de "La Scalpel", la naked con la que KTM redefinió el segmento medio en 2017. El relanzamiento de 2023 la trajo de vuelta con el bicilíndrico LC8c de 799 cc y 105 CV, electrónica con IMU y un peso de 174 kg, por 9.549 €. Afilada como un bisturí.
+La <a href=/motos/ktm-790-duke-2024-ficha-tecnica-precio/>KTM 790 Duke 2024</a> marcó el regreso de "La Scalpel", la naked con la que KTM redefinió el segmento medio en 2017. El relanzamiento de 2023 la trajo de vuelta con el bicilíndrico LC8c de 799 cc y 105 CV, electrónica con IMU y un peso de 174 kg, por 9.549 €. Afilada como un bisturí.
 
 ## Ficha técnica resumida
 
@@ -784,7 +784,7 @@ Revisiones cada 15.000 km según el plan KTM (con control anual). El bicilíndri
 
 ## Precio y rivales
 
-Cuesta <strong>9.549 €</strong>. Sus rivales son la <a href=/motos/yamaha-mt-09-2025-ficha-tecnica-precio>Yamaha MT-09 2025</a>, la <a href=/motos/triumph-street-triple-765-2024-ficha-tecnica-precio>Triumph Street Triple 765 2024</a> y la <a href=/motos/ktm-990-duke-2024-ficha-tecnica-precio>KTM 990 Duke 2024</a>, su hermana mayor. La 790 gana en precio y agilidad; pierde en potencia bruta.
+Cuesta <strong>9.549 €</strong>. Sus rivales son la <a href=/motos/yamaha-mt-09-2025-ficha-tecnica-precio/>Yamaha MT-09 2025</a>, la <a href=/motos/triumph-street-triple-765-2024-ficha-tecnica-precio/>Triumph Street Triple 765 2024</a> y la <a href=/motos/ktm-990-duke-2024-ficha-tecnica-precio/>KTM 990 Duke 2024</a>, su hermana mayor. La 790 gana en precio y agilidad; pierde en potencia bruta.
 
 ## Preguntas frecuentes
 
@@ -823,7 +823,7 @@ Con 14 litros y un consumo realista, unos 250-280 km.
     keywords: ["KTM 390 Duke", "390 Duke 2025 precio", "KTM 390 Duke ficha técnica", "naked A2 45 CV", "390 Duke 399 cc", "mejor moto A2"],
     content: `<img src=/media/motos/ktm-390-duke-2025-ficha-tecnica-precio-hero.webp alt=KTM 390 Duke 2025, naked A2 con chasis multitubular naranja>
 
-La <a href=/motos/ktm-390-duke-2025-ficha-tecnica-precio>KTM 390 Duke 2025</a> es la segunda generación de la naked A2 más radical del mercado: nuevo monocilíndrico de 399 cc con 45 CV y 39 Nm, chasis multitubular, suspensiones WP y una electrónica impropia de su segmento —TFT de 5 pulgadas, launch control y tres modos—. Precio aproximado: 6.399 €.
+La <a href=/motos/ktm-390-duke-2025-ficha-tecnica-precio/>KTM 390 Duke 2025</a> es la segunda generación de la naked A2 más radical del mercado: nuevo monocilíndrico de 399 cc con 45 CV y 39 Nm, chasis multitubular, suspensiones WP y una electrónica impropia de su segmento —TFT de 5 pulgadas, launch control y tres modos—. Precio aproximado: 6.399 €.
 
 ## Ficha técnica resumida
 
@@ -858,7 +858,7 @@ Revisiones según el plan KTM con intervalos amplios para un monocilíndrico. Co
 
 ## Precio y rivales
 
-Su precio aproximado es de <strong>6.399 €</strong>. Compite con la <a href=/motos/triumph-speed-400-2024-ficha-tecnica-precio>Triumph Speed 400 2024</a>, la <a href=/motos/yamaha-mt-03-2025-ficha-tecnica-precio>Yamaha MT-03 2025</a> y la <a href=/motos/kawasaki-z500-2025-ficha-tecnica-precio>Kawasaki Z500 2025</a>. La KTM gana en electrónica y parte ciclo; la Triumph, en suavidad y precio.
+Su precio aproximado es de <strong>6.399 €</strong>. Compite con la <a href=/motos/triumph-speed-400-2024-ficha-tecnica-precio/>Triumph Speed 400 2024</a>, la <a href=/motos/yamaha-mt-03-2025-ficha-tecnica-precio/>Yamaha MT-03 2025</a> y la <a href=/motos/kawasaki-z500-2025-ficha-tecnica-precio/>Kawasaki Z500 2025</a>. La KTM gana en electrónica y parte ciclo; la Triumph, en suavidad y precio.
 
 ## Preguntas frecuentes
 
@@ -897,7 +897,7 @@ No: unos 3,4-3,8 l/100 km en uso real.
     keywords: ["KTM 1390 Super Duke R", "1390 Super Duke R Evo precio", "Super Duke R Evo ficha técnica", "hypernaked 190 CV", "KTM 190 CV", "naked más potente"],
     content: `<img src=/media/motos/ktm-1390-super-duke-r-evo-2025-ficha-tecnica-precio-hero.webp alt=KTM 1390 Super Duke R Evo 2025, hypernaked de 190 CV>
 
-La <a href=/motos/ktm-1390-super-duke-r-evo-2025-ficha-tecnica-precio>KTM 1390 Super Duke R Evo 2025</a> es la hypernaked definitiva de Mattighofen y la celebración de los 30 años de la saga Super Duke: un V2 LC8 de 1.350 cc con 190 CV y 145 Nm, suspensiones semiactivas WP APEX de tercera generación y frenos Brembo Stylema. Precio aproximado: 24.699 €. La bestia, en su máxima expresión.
+La <a href=/motos/ktm-1390-super-duke-r-evo-2025-ficha-tecnica-precio/>KTM 1390 Super Duke R Evo 2025</a> es la hypernaked definitiva de Mattighofen y la celebración de los 30 años de la saga Super Duke: un V2 LC8 de 1.350 cc con 190 CV y 145 Nm, suspensiones semiactivas WP APEX de tercera generación y frenos Brembo Stylema. Precio aproximado: 24.699 €. La bestia, en su máxima expresión.
 
 ## Ficha técnica resumida
 
@@ -933,7 +933,7 @@ Revisiones según el plan KTM con intervalos de 15.000 km. Neumáticos 200 trase
 
 ## Precio y rivales
 
-Su precio aproximado es de <strong>24.699 €</strong> (la estándar, 22.699 €). Sus rivales son la <a href=/motos/ducati-streetfighter-v4-s-2025-ficha-tecnica-precio>Ducati Streetfighter V4 S 2025</a>, la <a href=/motos/aprilia-tuono-v4-factory-2025-ficha-tecnica-precio>Aprilia Tuono V4 Factory 2025</a> y la <a href=/motos/bmw-s-1000-r-2024-ficha-tecnica-precio>BMW S 1000 R 2024</a>. La KTM es la única V2 del grupo y la más brutal en entrega.
+Su precio aproximado es de <strong>24.699 €</strong> (la estándar, 22.699 €). Sus rivales son la <a href=/motos/ducati-streetfighter-v4-s-2025-ficha-tecnica-precio/>Ducati Streetfighter V4 S 2025</a>, la <a href=/motos/aprilia-tuono-v4-factory-2025-ficha-tecnica-precio/>Aprilia Tuono V4 Factory 2025</a> y la <a href=/motos/bmw-s-1000-r-2024-ficha-tecnica-precio/>BMW S 1000 R 2024</a>. La KTM es la única V2 del grupo y la más brutal en entrega.
 
 ## Preguntas frecuentes
 
@@ -972,7 +972,7 @@ Los 30 años de la saga Super Duke.
     keywords: ["KTM 890 Adventure R", "890 Adventure R 2025 precio", "KTM 890 Adventure ficha técnica", "trail off-road 105 CV", "mejor trail media", "890 Adventure R conectividad"],
     content: `<img src=/media/motos/ktm-890-adventure-r-2025-ficha-tecnica-precio-hero.webp alt=KTM 890 Adventure R 2025 en pista de tierra, trail off-road>
 
-La <a href=/motos/ktm-890-adventure-r-2025-ficha-tecnica-precio>KTM 890 Adventure R 2025</a> no necesita reinventarse: sigue siendo la referencia de las trail medias cuando la prioridad es la tierra. El modelo 2025 añade la conectividad de serie con navegación giro a giro y estrena decoración, manteniendo el LC8c de 889 cc con 105 CV y las suspensiones WP XPLOR de 240 mm. Precio: 16.199 €.
+La <a href=/motos/ktm-890-adventure-r-2025-ficha-tecnica-precio/>KTM 890 Adventure R 2025</a> no necesita reinventarse: sigue siendo la referencia de las trail medias cuando la prioridad es la tierra. El modelo 2025 añade la conectividad de serie con navegación giro a giro y estrena decoración, manteniendo el LC8c de 889 cc con 105 CV y las suspensiones WP XPLOR de 240 mm. Precio: 16.199 €.
 
 ## Ficha técnica resumida
 
@@ -1008,7 +1008,7 @@ Revisiones cada 15.000 km según el plan KTM. El uso off-road intensivo acorta l
 
 ## Precio y rivales
 
-Cuesta <strong>16.199 €</strong>. Sus rivales son la <a href=/motos/yamaha-tenere-700-2025-ficha-tecnica-precio>Yamaha Ténéré 700 2025</a>, la <a href=/motos/honda-xl750-transalp-2025-ficha-tecnica-precio>Honda XL750 Transalp 2025</a> y la <a href=/motos/husqvarna-norden-901-2025-ficha-tecnica-precio>Husqvarna Norden 901 2025</a>. La KTM es la más radical en tierra; la Honda, la más rutera.
+Cuesta <strong>16.199 €</strong>. Sus rivales son la <a href=/motos/yamaha-tenere-700-2025-ficha-tecnica-precio/>Yamaha Ténéré 700 2025</a>, la <a href=/motos/honda-xl750-transalp-2025-ficha-tecnica-precio/>Honda XL750 Transalp 2025</a> y la <a href=/motos/husqvarna-norden-901-2025-ficha-tecnica-precio/>Husqvarna Norden 901 2025</a>. La KTM es la más radical en tierra; la Honda, la más rutera.
 
 ## Preguntas frecuentes
 
@@ -1047,7 +1047,7 @@ En tierra, sí, por suspensiones y geometría; en asfalto y confort, la estánda
     keywords: ["KTM 450 EXC-F", "450 EXC-F 2025 precio", "KTM 450 EXC-F ficha técnica", "enduro 450 2025", "KTM enduro matriculable", "mejor enduro 4T"],
     content: `<img src=/media/motos/ktm-450-exc-f-2025-ficha-tecnica-precio-hero.webp alt=KTM 450 EXC-F 2025 naranja, enduro de competición>
 
-La <a href=/motos/ktm-450-exc-f-2025-ficha-tecnica-precio>KTM 450 EXC-F 2025</a> es el arma definitiva del enduro naranja: un monocilíndrico de 449 cc con 57 CV en solo 107 kg en seco, con mapas de potencia, control de tracción y quickshifter. Y es matriculable: del tramo al circuito sin remolque. Precio en España: 13.090 €.
+La <a href=/motos/ktm-450-exc-f-2025-ficha-tecnica-precio/>KTM 450 EXC-F 2025</a> es el arma definitiva del enduro naranja: un monocilíndrico de 449 cc con 57 CV en solo 107 kg en seco, con mapas de potencia, control de tracción y quickshifter. Y es matriculable: del tramo al circuito sin remolque. Precio en España: 13.090 €.
 
 ## Ficha técnica resumida
 
@@ -1081,7 +1081,7 @@ Mantenimiento de competición: revisiones frecuentes, aceite y filtros con inter
 
 ## Precio y rivales
 
-Cuesta <strong>13.090 €</strong> en España. Sus rivales son la <a href=/motos/husqvarna-fe-450-2025-ficha-tecnica-precio>Husqvarna FE 450 2025</a> (13.299 €, misma base), la <a href=/motos/gasgas-ec-350f-2025-ficha-tecnica-precio>GASGAS EC 350F 2025</a> y la <a href=/motos/ktm-500-exc-f-2025-ficha-tecnica-precio>KTM 500 EXC-F 2025</a>, su hermana mayor.
+Cuesta <strong>13.090 €</strong> en España. Sus rivales son la <a href=/motos/husqvarna-fe-450-2025-ficha-tecnica-precio/>Husqvarna FE 450 2025</a> (13.299 €, misma base), la <a href=/motos/gasgas-ec-350f-2025-ficha-tecnica-precio/>GASGAS EC 350F 2025</a> y la <a href=/motos/ktm-500-exc-f-2025-ficha-tecnica-precio/>KTM 500 EXC-F 2025</a>, su hermana mayor.
 
 ## Preguntas frecuentes
 

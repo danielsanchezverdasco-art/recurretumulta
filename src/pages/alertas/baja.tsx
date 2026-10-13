@@ -84,7 +84,7 @@ export default function AlertasBajaPage() {
                 )}{" "}
                 Si ha sido un error, puedes activar la alerta de nuevo desde la ficha del coche.
               </p>
-              <Link to="/comparador-coches" className="mt-6">
+              <Link to="/comparador-coches/" className="mt-6">
                 <Button className="rounded-xl bg-amber-500 font-bold text-white hover:bg-amber-600">
                   Volver al comparador
                 </Button>
@@ -110,7 +110,7 @@ export default function AlertasBajaPage() {
                 )}
               </p>
               <Link
-                to="/comparador-coches"
+                to="/comparador-coches/"
                 className="mt-6 inline-flex items-center gap-2 text-sm font-bold text-amber-700 underline"
               >
                 <CheckCircle2 className="h-4 w-4" /> Ir al comparador

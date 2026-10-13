@@ -268,7 +268,7 @@ function BlogPage() {
                   viewport={{ once: true }}
                   transition={{ delay: i * 0.06, duration: 0.4 }}
                 >
-                  <Link to={`/blog/${post.slug}`} className="block h-full group">
+                  <Link to={`/blog/${post.slug}/`} className="block h-full group">
                     <div className="border border-gray-200 rounded-2xl overflow-hidden h-full hover:border-red-200 hover:shadow-md hover:shadow-red-50 transition-all duration-200 bg-white flex flex-col">
                       <div className="aspect-video w-full overflow-hidden bg-gray-100 shrink-0">
                         {heroSrc ? (
@@ -370,7 +370,7 @@ function BlogPage() {
               ))}
             </div>
             <p className="text-xs text-gray-400">
-              También tienes el <Link to="/multas" className="text-red-600 font-semibold hover:underline">índice por provincias</Link> y las <Link to="/herramientas" className="text-red-600 font-semibold hover:underline">herramientas gratuitas para conductores</Link>.
+              También tienes el <Link to="/multas/" className="text-red-600 font-semibold hover:underline">índice por provincias</Link> y las <Link to="/herramientas/" className="text-red-600 font-semibold hover:underline">herramientas gratuitas para conductores</Link>.
             </p>
           </div>
 

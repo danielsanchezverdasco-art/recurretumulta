@@ -99,7 +99,7 @@ export default function PrivacidadPage() {
 
           <section>
             <h2 className="text-xl font-black text-gray-900">8. Cookies</h2>
-            <p>Usamos cookies técnicas (necesarias para el funcionamiento), analíticas (Google Analytics) y publicitarias (Google AdSense). Puedes gestionar tus preferencias en nuestra <Link to="/cookies" className="text-red-600 underline">Política de Cookies</Link>.</p>
+            <p>Usamos cookies técnicas (necesarias para el funcionamiento), analíticas (Google Analytics) y publicitarias (Google AdSense). Puedes gestionar tus preferencias en nuestra <Link to="/cookies/" className="text-red-600 underline">Política de Cookies</Link>.</p>
           </section>
         </div>
       </main>

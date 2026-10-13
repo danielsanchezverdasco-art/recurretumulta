@@ -31,7 +31,7 @@ export default function EquivalenciaNeumaticosItvPage() {
           <div className="relative max-w-3xl mx-auto px-4 pt-10 pb-12 space-y-4">
             <motion.nav initial={{opacity:0,y:12}} animate={{opacity:1,y:0}} transition={{duration:0.5}} aria-label="Migas de pan" className="flex items-center gap-1.5 text-xs text-white/60">
               <Link to="/" className="hover:text-white">Inicio</Link><span aria-hidden="true">/</span>
-              <Link to="/herramientas" className="hover:text-white">Herramientas</Link><span aria-hidden="true">/</span>
+              <Link to="/herramientas/" className="hover:text-white">Herramientas</Link><span aria-hidden="true">/</span>
               <span className="text-white/40 truncate max-w-[200px]">Equivalencia de neumáticos</span>
             </motion.nav>
             <motion.div initial={{opacity:0,y:12}} animate={{opacity:1,y:0}} transition={{duration:0.5,delay:0.08}}>
@@ -98,9 +98,9 @@ export default function EquivalenciaNeumaticosItvPage() {
         <nav className="bg-slate-100 rounded-3xl p-6 border border-slate-200">
           <h2 className="font-bold mb-4">Más herramientas</h2>
           <div className="grid sm:grid-cols-2 gap-3 text-sm">
-            <Link to="/herramientas" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Todas las herramientas</Link>
-            <Link to="/calculadora-kw-a-cv" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Conversor kW a CV</Link>
-            <Link to="/blog/ruedas-de-km0-chollo-o-timo-pros-contras-precios-reales-y-multas-por-neumaticos-caducados-o-gastados" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Ruedas de Km0: chollo o timo</Link>
+            <Link to="/herramientas/" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Todas las herramientas</Link>
+            <Link to="/calculadora-kw-a-cv/" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Conversor kW a CV</Link>
+            <Link to="/blog/ruedas-de-km0-chollo-o-timo-pros-contras-precios-reales-y-multas-por-neumaticos-caducados-o-gastados/" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Ruedas de Km0: chollo o timo</Link>
           </div>
         </nav>
       </main>

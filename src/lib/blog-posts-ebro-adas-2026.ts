@@ -25,7 +25,7 @@ export const EBRO_ADAS_POSTS: BlogPost[] = [
 
 Si conduces un coche nuevo, conoces el ritual: arrancas, sales del garaje y empieza el concierto. Pitido del aviso de velocidad, vibración del mantenimiento de carril, alertas que no pediste... y tú, uno por uno, desactivando menús antes de salir a la carretera. La culpa no es del coche: la **normativa europea obliga a que buena parte de los ADAS se reactiven en cada arranque**. El **Ebro s800 PHEV MY2027** ha decidido plantarle cara con **perfiles personales**: configuras una vez qué ayudas quieres y cómo, y el coche lo recuerda.
 
-<a href=/coches/ebro-s800-phev-precio-ficha-tecnica>Ver ficha técnica del Ebro S800</a>
+<a href=/coches/ebro-s800-phev-precio-ficha-tecnica/>Ver ficha técnica del Ebro S800</a>
 
 ## El problema: la UE te los enciende cada mañana
 
@@ -66,7 +66,7 @@ No es una ocurrencia aislada: **Omoda & Jaecoo** y **Lepas**, marcas con las que
 
 La función llega con la evolución del modelo para el año 2027, que también retoca diseño, confort y calidad percibida. Lo que no cambia es lo esencial: el sistema híbrido enchufable de **279 CV** conjuntos, **hasta 90 km de autonomía eléctrica** y **más de 1.100 km de autonomía total**, con **7 plazas** de serie, uno de sus grandes argumentos frente a rivales. Con esas cifras, lleva la **etiqueta Cero de la DGT**: acceso libre a las Zonas de Bajas Emisiones. Más detalles en la <a href=https://www.dgt.es>web de la DGT</a>.
 
-¿Te cuadra como coche familiar? <a href=/comparador-coches>Compáralo con sus rivales en el comparador</a> y echa un ojo a nuestro <a href=/blog/ebro-s900-phev-2026-precio-ficha-tecnica>análisis del Ebro S900 PHEV</a>, su hermano mayor de 7 plazas.
+¿Te cuadra como coche familiar? <a href=/comparador-coches/>Compáralo con sus rivales en el comparador</a> y echa un ojo a nuestro <a href=/blog/ebro-s900-phev-2026-precio-ficha-tecnica/>análisis del Ebro S900 PHEV</a>, su hermano mayor de 7 plazas.
 
 ## Menos menús, menos distracciones (y menos multas)
 

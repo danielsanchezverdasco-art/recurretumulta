@@ -1,4 +1,4 @@
-import { createElement, useEffect, useRef, useState, type CSSProperties, type ReactNode } from "react";
+import { useLayoutEffect, createElement, useEffect, useRef, useState, type CSSProperties, type ReactNode } from "react";
 
 /* ─── Kit de animación sin dependencias (03/10/2026, optimización LCP) ─────────
    Sustituye a motion/react en el bundle inicial: las mismas apariencias
@@ -45,6 +45,13 @@ export function Reveal({ children, className, id, style, as = "div", threshold =
   const reduced = useReducedMotion();
   const ref = useRef<HTMLElement | null>(null);
   const [inView, setInView] = useState(false);
+  const [sinAnim, setSinAnim] = useState(false);
+  // 13/10/2026 (LCP): lo que ya está en pantalla al montar se muestra sin animación
+  // (antes de pintar), así el contenido prerenderizado no desaparece y reaparece.
+  useLayoutEffect(() => {
+    const el = ref.current;
+    if (el && el.getBoundingClientRect().top < window.innerHeight) { setSinAnim(true); setInView(true); }
+  }, []);
   useEffect(() => {
     if (reduced) {
       setInView(true);
@@ -78,6 +85,7 @@ export function Reveal({ children, className, id, style, as = "div", threshold =
         ...(y !== 20 ? { ["--reveal-y" as string]: `${y}px` } : {}),
         ...(duration !== 600 ? { transitionDuration: `${duration}ms` } : {}),
         ...(delay ? { transitionDelay: `${delay}ms` } : {}),
+        ...(sinAnim ? { transition: "none" } : {}),
         ...style,
       } as CSSProperties,
     },

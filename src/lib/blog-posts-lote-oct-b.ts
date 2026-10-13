@@ -21,7 +21,7 @@ export const LOTE_OCT_B_POSTS: BlogPost[] = [
     ],
     content: `<img src=/media/geely-e2-electrico-barato-precio-espana-hero.webp alt=\"Compacto eléctrico urbano azul circulando por una calle del centro de Madrid al atardecer\">
 
-**¿Buscas solo los datos?** <a href=/comparador-coches>Compara el Geely E2 con sus rivales</a> o <a href=/mejor-coche-por-presupuesto>descubre el mejor coche por tu presupuesto</a>.
+**¿Buscas solo los datos?** <a href=/comparador-coches/>Compara el Geely E2 con sus rivales</a> o <a href=/mejor-coche-por-presupuesto/>descubre el mejor coche por tu presupuesto</a>.
 
 El eléctrico más vendido de China ya está en España. El **Geely E2** aterriza con una receta que suena a trampa: 4,13 metros, **tracción trasera**, cinco plazas, **5 estrellas Euro NCAP** y un precio de tarifa de **20.990 euros** que con la promoción de lanzamiento baja hasta los **13.990 euros**. ¿Demasiado bonito para ser verdad? Lo hemos comprobado dato por dato.
 
@@ -66,7 +66,7 @@ El equipamiento de serie ya es generoso desde el PRO: climatizador automático, 
 | **Volkswagen ID. Polo** | 35.070 € | 449 km |
 | **Leapmotor B03X** | 24.264 € | 382 km |
 
-<a href=/comparador-coches>Compáralos cara a cara en nuestro comparador</a>.
+<a href=/comparador-coches/>Compáralos cara a cara en nuestro comparador</a>.
 
 ## El plan de Geely en España
 
@@ -88,7 +88,7 @@ No es el coche para quien haga viajes largos cada fin de semana: con 345 km WLTP
 
 Vídeo: <a href=https://www.youtube.com/watch?v=fRPebu_L1SE>carwow.es</a> en YouTube
 
-Si estás comparando urbanos eléctricos asequibles, no te pierdas el <a href=/blog/byd-dolphin-surf-my26-5-plazas-precio-espana>BYD Dolphin Surf</a>, el <a href=/blog/volkswagen-id-polo-electrico-precio-espana-2026>Volkswagen ID. Polo</a> y el <a href=/blog/leapmotor-b03x-suv-electrico-barato-europa>Leapmotor B03X</a>.
+Si estás comparando urbanos eléctricos asequibles, no te pierdas el <a href=/blog/byd-dolphin-surf-my26-5-plazas-precio-espana/>BYD Dolphin Surf</a>, el <a href=/blog/volkswagen-id-polo-electrico-precio-espana-2026/>Volkswagen ID. Polo</a> y el <a href=/blog/leapmotor-b03x-suv-electrico-barato-europa/>Leapmotor B03X</a>.
 
 ## Preguntas frecuentes
 
@@ -132,7 +132,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     content: `<img src=/media/leapmotor-b03x-suv-electrico-barato-europa-hero.webp alt=\"SUV urbano eléctrico gris perla con tira de luz LED de ancho completo aparcado en una calle europea arbolada\">
 
-**¿Buscas solo los datos?** <a href=/comparador-coches>Compara el Leapmotor B03X con sus rivales</a> o <a href=/mejor-coche-por-presupuesto>descubre el mejor coche por tu presupuesto</a>.
+**¿Buscas solo los datos?** <a href=/comparador-coches/>Compara el Leapmotor B03X con sus rivales</a> o <a href=/mejor-coche-por-presupuesto/>descubre el mejor coche por tu presupuesto</a>.
 
 Hay un nuevo rey del precio entre los SUV eléctricos europeos, y no es europeo. El **Leapmotor B03X** llega a España desde **24.264 euros** con argumentos de coche mucho más caro: hasta **197 CV**, **382 km de autonomía**, pantalla de 14,6 pulgadas y el respaldo industrial de **Stellantis**, socio de la marca china en Europa. El Peugeot E-2008, que comparte grupo, ya tiembla.
 
@@ -173,7 +173,7 @@ Con las ayudas del Plan Auto+ y descuentos, el precio real puede bajar hasta el 
 | **Renault 4 E-Tech** | ~29.000 € | 409 km |
 | **Peugeot E-2008** | 33.545 € | 406 km |
 
-<a href=/comparador-coches>Compáralos cara a cara en nuestro comparador</a>.
+<a href=/comparador-coches/>Compáralos cara a cara en nuestro comparador</a>.
 
 ## Stellantis: el as en la manga
 
@@ -197,7 +197,7 @@ El consumo homologado (15,5-15,7 kWh/100 km) también juega a su favor en el cos
 
 Vídeo: <a href=https://www.youtube.com/watch?v=_9M-W8wSFbY>Ricardo Torres</a> en YouTube
 
-Otros eléctricos asequibles que hemos analizado: el <a href=/blog/geely-e2-electrico-barato-precio-espana>Geely E2</a>, el <a href=/blog/skoda-epiq-electrico-barato-precio-espana>Skoda Epiq</a> y el <a href=/blog/byd-dolphin-surf-my26-5-plazas-precio-espana>BYD Dolphin Surf</a>.
+Otros eléctricos asequibles que hemos analizado: el <a href=/blog/geely-e2-electrico-barato-precio-espana/>Geely E2</a>, el <a href=/blog/skoda-epiq-electrico-barato-precio-espana/>Skoda Epiq</a> y el <a href=/blog/byd-dolphin-surf-my26-5-plazas-precio-espana/>BYD Dolphin Surf</a>.
 
 ## Preguntas frecuentes
 
@@ -242,7 +242,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
 
 **Actualización 07/10/2026 — presentación oficial:** Hyundai ha presentado oficialmente el Ioniq 3 en España con dos opciones de batería: autonomía WLTP prevista de **más de 344 km** (estándar) y **más de 495 km** (larga autonomía). El precio de partida es **29.995 € al contado**, y se queda en **21.535 €** aplicando los descuentos de financiación de la marca y el Plan Auto. Lo que sigue es el análisis completo con la letra pequeña de la gama.
 
-**¿Buscas solo los datos?** <a href=/comparador-coches>Compara el Ioniq 3 con sus rivales</a> o <a href=/calculadora-etiqueta-dgt>comprueba su etiqueta DGT</a>.
+**¿Buscas solo los datos?** <a href=/comparador-coches/>Compara el Ioniq 3 con sus rivales</a> o <a href=/calculadora-etiqueta-dgt/>comprueba su etiqueta DGT</a>.
 
 El **Hyundai Ioniq 3** es la gran apuesta coreana para democratizar el eléctrico de gran autonomía: un compacto de 4,15 metros con **hasta 497 km WLTP** y un precio de partida anunciado de **29.995 euros**. Pero ojo, porque hay letra pequeña importante en la gama española: te la contamos sin rodeos.
 
@@ -290,7 +290,7 @@ El N Line viene muy equipado de serie: llantas de 18 pulgadas, LED, climatizador
 
 *Precio anunciado de la Standard Range, aún no a la venta en España.
 
-<a href=/comparador-coches>Compáralos cara a cara en nuestro comparador</a>.
+<a href=/comparador-coches/>Compáralos cara a cara en nuestro comparador</a>.
 
 ## La jugada de Hyundai
 
@@ -312,7 +312,7 @@ Nuestro consejo honesto: si tu presupuesto está en los 30.000 euros, espera a l
 
 Vídeo: <a href=https://www.youtube.com/watch?v=wbjUokbtE70>Hyundai España</a> en YouTube
 
-Sus duelos directos, ya analizados: el <a href=/blog/cupra-raval-electrico-precio-espana-2026>Cupra Raval</a>, el <a href=/blog/volkswagen-id-polo-electrico-precio-espana-2026>Volkswagen ID. Polo</a> y el <a href=/blog/byd-dolphin-surf-my26-5-plazas-precio-espana>BYD Dolphin Surf</a>.
+Sus duelos directos, ya analizados: el <a href=/blog/cupra-raval-electrico-precio-espana-2026/>Cupra Raval</a>, el <a href=/blog/volkswagen-id-polo-electrico-precio-espana-2026/>Volkswagen ID. Polo</a> y el <a href=/blog/byd-dolphin-surf-my26-5-plazas-precio-espana/>BYD Dolphin Surf</a>.
 
 ## Preguntas frecuentes
 
@@ -358,7 +358,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     content: `<img src=/media/byd-atto-3-evo-2026-precio-espana-hero.webp alt=\"SUV familiar eléctrico blanco circulando por una carretera de montaña española entre pinares al atardecer\">
 
-**¿Buscas solo los datos?** <a href=/comparador-coches>Compara el Atto 3 Evo con sus rivales</a> o <a href=/mejor-coche-por-presupuesto>descubre el mejor coche por tu presupuesto</a>.
+**¿Buscas solo los datos?** <a href=/comparador-coches/>Compara el Atto 3 Evo con sus rivales</a> o <a href=/mejor-coche-por-presupuesto/>descubre el mejor coche por tu presupuesto</a>.
 
 El líder no se duerme. El **BYD Atto 3** fue el C-SUV eléctrico más vendido de España en 2025 (12,8 % de cuota) y su evolución, el **Atto 3 Evo**, sube la apuesta a lo grande: **arquitectura de 800 voltios**, batería Blade de **74,8 kWh**, **tracción trasera o total**, hasta **449 CV** y **510 km de autonomía**. Y el precio de ataque, con todo aplicado, se queda en **29.455 euros**. Parece el mismo coche. No lo es.
 
@@ -401,7 +401,7 @@ El salto de precio entre tarifa y precio "con todo" es grande porque BYD aprieta
 
 *Con campañas, financiación y ayudas.
 
-<a href=/comparador-coches>Compáralos cara a cara en nuestro comparador</a>.
+<a href=/comparador-coches/>Compáralos cara a cara en nuestro comparador</a>.
 
 ## Por qué el Evo importa
 
@@ -423,7 +423,7 @@ Ojo al dato del precio: la diferencia entre la tarifa (42.990 €) y el precio "
 
 Vídeo: <a href=https://www.youtube.com/watch?v=i8hd6_KIx6s>Loading Cars</a> en YouTube
 
-Si buscas alternativas en el segmento, mira el <a href=/blog/deepal-s05-precio-espana-2026>Deepal S05</a>, el eléctrico chino que más vende en España, y el <a href=/blog/xpeng-g9l-debut-paris-2026>XPeng G9L</a> que debuta en el Salón de París.
+Si buscas alternativas en el segmento, mira el <a href=/blog/deepal-s05-precio-espana-2026/>Deepal S05</a>, el eléctrico chino que más vende en España, y el <a href=/blog/xpeng-g9l-debut-paris-2026/>XPeng G9L</a> que debuta en el Salón de París.
 
 ## Preguntas frecuentes
 

@@ -78,7 +78,7 @@ La respuesta corta: **la S01 es para quien prioriza la autonomía y la red de se
 
 ## Veredicto: ¿cuál comprar?
 
-**Compra la Silence S01 si** haces muchos kilómetros al día y necesitas la máxima autonomía con la tranquilidad de una marca con fábrica y servicio en España. **Compra la NIU MQi GT Evo si** buscas el scooter más ágil y tecnológico, y tus rutas son urbanas y cortas. En ambos casos, mira antes las fichas: <a href=/motos/silence-s01-ficha-tecnica-precio>ficha de la Silence S01</a> y <a href=/motos/niu-mqi-gt-evo-ficha-tecnica-precio>ficha de la NIU MQi GT Evo</a>, o enfréntalas en nuestro <a href=/comparador-motos?a=silence-s01-ficha-tecnica-precio&b=niu-mqi-gt-evo-ficha-tecnica-precio>comparador de motos eléctricas</a>.
+**Compra la Silence S01 si** haces muchos kilómetros al día y necesitas la máxima autonomía con la tranquilidad de una marca con fábrica y servicio en España. **Compra la NIU MQi GT Evo si** buscas el scooter más ágil y tecnológico, y tus rutas son urbanas y cortas. En ambos casos, mira antes las fichas: <a href=/motos/silence-s01-ficha-tecnica-precio/>ficha de la Silence S01</a> y <a href=/motos/niu-mqi-gt-evo-ficha-tecnica-precio/>ficha de la NIU MQi GT Evo</a>, o enfréntalas en nuestro <a href=/comparador-motos/?a=silence-s01-ficha-tecnica-precio&b=niu-mqi-gt-evo-ficha-tecnica-precio>comparador de motos eléctricas</a>.
 
 ## Míralo en vídeo
 
@@ -178,7 +178,7 @@ La respuesta corta: **el CE 04 es para quien quiere el scooter definitivo para c
 
 ## Veredicto: ¿cuál comprar?
 
-**Compra el BMW CE 04 si** quieres el scooter eléctrico definitivo: rápido, tecnológico y usable a diario, y el presupuesto no es el problema. **Compra la Zero FXE si** lo que buscas es una moto con la que divertirte de verdad, ligera y con carácter, y tienes dónde cargarla durante la noche. Fichas completas: <a href=/motos/bmw-ce-04-ficha-tecnica-precio>ficha del BMW CE 04</a> y <a href=/motos/zero-fxe-ficha-tecnica-precio>ficha de la Zero FXE</a>, o cara a cara en el <a href=/comparador-motos?a=bmw-ce-04-ficha-tecnica-precio&b=zero-fxe-ficha-tecnica-precio>comparador de motos eléctricas</a>.
+**Compra el BMW CE 04 si** quieres el scooter eléctrico definitivo: rápido, tecnológico y usable a diario, y el presupuesto no es el problema. **Compra la Zero FXE si** lo que buscas es una moto con la que divertirte de verdad, ligera y con carácter, y tienes dónde cargarla durante la noche. Fichas completas: <a href=/motos/bmw-ce-04-ficha-tecnica-precio/>ficha del BMW CE 04</a> y <a href=/motos/zero-fxe-ficha-tecnica-precio/>ficha de la Zero FXE</a>, o cara a cara en el <a href=/comparador-motos/?a=bmw-ce-04-ficha-tecnica-precio&b=zero-fxe-ficha-tecnica-precio>comparador de motos eléctricas</a>.
 
 ## Míralo en vídeo
 
@@ -277,7 +277,7 @@ La respuesta corta: **la Elettrica es para quien compra una Vespa ante todo; el 
 
 ## Veredicto: ¿cuál comprar?
 
-**Compra la Vespa Elettrica si** lo que quieres es una Vespa y el precio es secundario: el icono, el acabado y las sensaciones no tienen rival. **Compra el Piaggio 1 Active si** buscas el eléctrico urbano más racional: más barato, con batería extraíble y 60 km/h reales. Fichas: <a href=/motos/vespa-elettrica-ficha-tecnica-precio>ficha de la Vespa Elettrica</a> y <a href=/motos/piaggio-1-ficha-tecnica-precio>ficha del Piaggio 1</a>, o en el <a href=/comparador-motos?a=vespa-elettrica-ficha-tecnica-precio&b=piaggio-1-ficha-tecnica-precio>comparador de motos eléctricas</a>.
+**Compra la Vespa Elettrica si** lo que quieres es una Vespa y el precio es secundario: el icono, el acabado y las sensaciones no tienen rival. **Compra el Piaggio 1 Active si** buscas el eléctrico urbano más racional: más barato, con batería extraíble y 60 km/h reales. Fichas: <a href=/motos/vespa-elettrica-ficha-tecnica-precio/>ficha de la Vespa Elettrica</a> y <a href=/motos/piaggio-1-ficha-tecnica-precio/>ficha del Piaggio 1</a>, o en el <a href=/comparador-motos/?a=vespa-elettrica-ficha-tecnica-precio&b=piaggio-1-ficha-tecnica-precio>comparador de motos eléctricas</a>.
 
 ## Míralo en vídeo
 
@@ -376,7 +376,7 @@ La respuesta corta: **la NEO's es la más barata y ligera de usar a diario; la E
 
 ## Veredicto: ¿cuál comprar?
 
-**Compra la Yamaha NEO's si** buscas el ciclomotor eléctrico más barato y práctico para moverte por la ciudad: por 2.999 € no hay rival japonesa. **Compra la Honda EM1 e: si** priorizas la calidad de construcción y la apuesta de Honda por las baterías intercambiables, asumiendo que pagas más por menos autonomía. Fichas: <a href=/motos/honda-em1-e-ficha-tecnica-precio>ficha de la Honda EM1 e:</a> y <a href=/motos/yamaha-neos-ficha-tecnica-precio>ficha de la Yamaha NEO's</a>, o en el <a href=/comparador-motos?a=honda-em1-e-ficha-tecnica-precio&b=yamaha-neos-ficha-tecnica-precio>comparador de motos eléctricas</a>.
+**Compra la Yamaha NEO's si** buscas el ciclomotor eléctrico más barato y práctico para moverte por la ciudad: por 2.999 € no hay rival japonesa. **Compra la Honda EM1 e: si** priorizas la calidad de construcción y la apuesta de Honda por las baterías intercambiables, asumiendo que pagas más por menos autonomía. Fichas: <a href=/motos/honda-em1-e-ficha-tecnica-precio/>ficha de la Honda EM1 e:</a> y <a href=/motos/yamaha-neos-ficha-tecnica-precio/>ficha de la Yamaha NEO's</a>, o en el <a href=/comparador-motos/?a=honda-em1-e-ficha-tecnica-precio&b=yamaha-neos-ficha-tecnica-precio>comparador de motos eléctricas</a>.
 
 ## Míralo en vídeo
 
@@ -476,7 +476,7 @@ La respuesta corta: **la CE 02 es para quien quiere diseño y diversión urbana;
 
 ## Veredicto: ¿cuál comprar?
 
-**Compra la BMW CE 02 si** quieres la urbana eléctrica más divertida y diferente, con equipamiento premium y no te importa pagar el capricho. **Compra la Super Soco CPx si** buscas la máxima autonomía y practicidad por euro invertido: 137 km y dos baterías por 5.589 € no lo iguala nadie. Fichas: <a href=/motos/bmw-ce-02-ficha-tecnica-precio>ficha de la BMW CE 02</a> y <a href=/motos/super-soco-cpx-ficha-tecnica-precio>ficha de la Super Soco CPx</a>, o en el <a href=/comparador-motos?a=bmw-ce-02-ficha-tecnica-precio&b=super-soco-cpx-ficha-tecnica-precio>comparador de motos eléctricas</a>.
+**Compra la BMW CE 02 si** quieres la urbana eléctrica más divertida y diferente, con equipamiento premium y no te importa pagar el capricho. **Compra la Super Soco CPx si** buscas la máxima autonomía y practicidad por euro invertido: 137 km y dos baterías por 5.589 € no lo iguala nadie. Fichas: <a href=/motos/bmw-ce-02-ficha-tecnica-precio/>ficha de la BMW CE 02</a> y <a href=/motos/super-soco-cpx-ficha-tecnica-precio/>ficha de la Super Soco CPx</a>, o en el <a href=/comparador-motos/?a=bmw-ce-02-ficha-tecnica-precio&b=super-soco-cpx-ficha-tecnica-precio>comparador de motos eléctricas</a>.
 
 ## Míralo en vídeo
 
@@ -576,7 +576,7 @@ La respuesta corta: **la Zero S es para quien quiere la máxima autonomía eléc
 
 ## Veredicto: ¿cuál comprar?
 
-**Compra la Zero S si** tu prioridad es la autonomía y quieres la eléctrica más capaz que se puede llevar con el carnet de coche: 262 km no los ofrece nadie más. **Compra la Can-Am Pulse si** prefieres la naked más moderna y tecnológica, con carga rápida de verdad y un precio 5.000 € inferior, asumiendo el A2. Fichas: <a href=/motos/zero-s-ficha-tecnica-precio>ficha de la Zero S</a> y <a href=/motos/can-am-pulse-ficha-tecnica-precio>ficha de la Can-Am Pulse</a>, o en el <a href=/comparador-motos?a=zero-s-ficha-tecnica-precio&b=can-am-pulse-ficha-tecnica-precio>comparador de motos eléctricas</a>.
+**Compra la Zero S si** tu prioridad es la autonomía y quieres la eléctrica más capaz que se puede llevar con el carnet de coche: 262 km no los ofrece nadie más. **Compra la Can-Am Pulse si** prefieres la naked más moderna y tecnológica, con carga rápida de verdad y un precio 5.000 € inferior, asumiendo el A2. Fichas: <a href=/motos/zero-s-ficha-tecnica-precio/>ficha de la Zero S</a> y <a href=/motos/can-am-pulse-ficha-tecnica-precio/>ficha de la Can-Am Pulse</a>, o en el <a href=/comparador-motos/?a=zero-s-ficha-tecnica-precio&b=can-am-pulse-ficha-tecnica-precio>comparador de motos eléctricas</a>.
 
 ## Míralo en vídeo
 
@@ -649,7 +649,7 @@ La **BMW F 450 R** acaba de aterrizar en el segmento más disputado del carnet A
 
 ¿Tecnología y carácter? **BMW F 450 R**. ¿Equilibrio y reventa? **Honda CB500 Hornet**. ¿Precio mínimo? **Kawasaki Z500**. Las tres cumplen el A2 al límite; la diferencia la pone tu prioridad: electrónica, sensatez o bolsillo.
 
-Fichas completas: <a href=/motos/bmw-f-450-r-2026-ficha-tecnica-precio>BMW F 450 R</a> · <a href=/comparador-motos>Comparador de motos</a> · Análisis: <a href=/blog/bmw-f-450-r-naked-a2-precio-espana-2026>BMW F 450 R, a fondo</a>
+Fichas completas: <a href=/motos/bmw-f-450-r-2026-ficha-tecnica-precio/>BMW F 450 R</a> · <a href=/comparador-motos/>Comparador de motos</a> · Análisis: <a href=/blog/bmw-f-450-r-naked-a2-precio-espana-2026/>BMW F 450 R, a fondo</a>
 
 ## Preguntas frecuentes
 
@@ -684,7 +684,7 @@ La **BMW F 450 R** (175 kg en orden de marcha), 13 kg menos que la Honda CB500 H
     ],
     content: `<img src=/media/flying-flea-c6-vs-honda-cuv-e-vs-niu-nqi-sport-cual-comprar-hero.webp alt=Tres motos eléctricas urbanas aparcadas en una calle de Barcelona al atardecer, escena de comparativa>
 
-**¿Buscas solo los datos?** <a href=/motos/royal-enfield-flying-flea-c6-2026-ficha-tecnica-precio>Ver ficha de la Flying Flea C6</a> · <a href=/motos/honda-cuv-e-2025-ficha-tecnica-precio>Ver ficha de la Honda CUV e:</a> · <a href=/motos/niu-nqi-sport-scooter-electrico-1999-euros-gama-2026>Ver ficha de la NIU NQi Sport</a> · <a href=/comparador-motos>Compararlas cara a cara</a>.
+**¿Buscas solo los datos?** <a href=/motos/royal-enfield-flying-flea-c6-2026-ficha-tecnica-precio/>Ver ficha de la Flying Flea C6</a> · <a href=/motos/honda-cuv-e-2025-ficha-tecnica-precio/>Ver ficha de la Honda CUV e:</a> · <a href=/motos/niu-nqi-sport-scooter-electrico-1999-euros-gama-2026/>Ver ficha de la NIU NQi Sport</a> · <a href=/comparador-motos/>Compararlas cara a cara</a>.
 
 Tres eléctricas urbanas, tres carnets, tres presupuestos. La **Flying Flea C6** (5.990 €) es la primera eléctrica de Royal Enfield: 115 km/h y chasis de aluminio forjado. La **Honda CUV e:** (~4.000 €) es el scooter japonés con dos baterías extraíbles que cargas en casa. La **NIU NQi Sport** (1.999 €) es el ciclomotor eléctrico con 130 km de autonomía. Spoiler: **la ganadora la decide tu carnet**.
 
@@ -703,7 +703,7 @@ Tres eléctricas urbanas, tres carnets, tres presupuestos. La **Flying Flea C6**
 | **Carnet** | **A2** | **A1** (o B con 3 años) | **AM** |
 | **Etiqueta DGT** | Cero | Cero | Cero |
 
-*Cifras de las <a href=/comparador-motos>fichas del comparador de motos</a> y de los fabricantes.*
+*Cifras de las <a href=/comparador-motos/>fichas del comparador de motos</a> y de los fabricantes.*
 
 <img src=/media/flying-flea-c6-vs-honda-cuv-e-vs-niu-nqi-sport-cual-comprar-carga.webp alt=Scooter eléctrico cargando en un enchufe doméstico en un garaje en España>
 
@@ -723,7 +723,7 @@ El carnet manda más que el precio:
 - **Carnet A1 (o B con 3 años) y uso diario → Honda CUV e:.** Baterías extraíbles, marca con red y 83 km/h. La C6 te exige el A2 para aprovecharla.
 - **Carnet A2 y quieres una moto, no un scooter → Flying Flea C6.** 5.990 € por una eléctrica con chasis de verdad, 115 km/h y tecnología de curva. Es otra liga.
 
-El matiz: si tienes el A2 y dudas entre la C6 y la CUV e:, pregúntate dónde aparcas. Sin garaje con enchufe, las baterías extraíbles de la Honda valen oro; con garaje, la C6 es mucho más moto. <a href=/comparador-motos>Pásate por el comparador de motos</a> y míralas cara a cara.
+El matiz: si tienes el A2 y dudas entre la C6 y la CUV e:, pregúntate dónde aparcas. Sin garaje con enchufe, las baterías extraíbles de la Honda valen oro; con garaje, la C6 es mucho más moto. <a href=/comparador-motos/>Pásate por el comparador de motos</a> y míralas cara a cara.
 
 Y un recordatorio de la casa: también en eléctrico, los límites de velocidad aplican. Si te llega una multa, <a href=/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
@@ -745,9 +745,9 @@ Sí: las tres son 100 % eléctricas y llevan la **etiqueta Cero**, con acceso to
 La **C6**: del 20 al 80 % en unos 65 minutos. La CUV e: tarda unas 6 horas (0-100 %), aunque del 25 al 75 % baja de 3 horas.
 
 ### ¿Merece la pena la Flying Flea C6 por 5.990 €?
-Si tienes el A2 y buscas una moto eléctrica de verdad (no un scooter), sí: chasis de aluminio forjado, 115 km/h y ayudas en curva por ese precio no tienen rival directo. <a href=/blog/flying-flea-c6-moto-electrica-royal-enfield-5990-euros>Aquí tienes nuestro análisis completo</a>.
+Si tienes el A2 y buscas una moto eléctrica de verdad (no un scooter), sí: chasis de aluminio forjado, 115 km/h y ayudas en curva por ese precio no tienen rival directo. <a href=/blog/flying-flea-c6-moto-electrica-royal-enfield-5990-euros/>Aquí tienes nuestro análisis completo</a>.
 
-**También te puede interesar:** <a href=/motos/royal-enfield-flying-flea-c6-2026-ficha-tecnica-precio>ficha de la Flying Flea C6</a> · <a href=/motos/honda-cuv-e-2025-ficha-tecnica-precio>ficha de la Honda CUV e:</a> · <a href=/comparador-motos>comparador de motos eléctricas</a> · <a href=/#analizador>analiza tu multa gratis</a>.
+**También te puede interesar:** <a href=/motos/royal-enfield-flying-flea-c6-2026-ficha-tecnica-precio/>ficha de la Flying Flea C6</a> · <a href=/motos/honda-cuv-e-2025-ficha-tecnica-precio/>ficha de la Honda CUV e:</a> · <a href=/comparador-motos/>comparador de motos eléctricas</a> · <a href=/#analizador>analiza tu multa gratis</a>.
 
 `
   },

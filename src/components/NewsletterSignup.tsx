@@ -111,7 +111,7 @@ export default function NewsletterSignup({ origen = "web", compact = false }: Pr
           />
           <span>
             He leído y acepto la{" "}
-            <Link to="/privacidad" className="font-bold underline">
+            <Link to="/privacidad/" className="font-bold underline">
               política de privacidad
             </Link>
             . Podré darme de baja en 1 clic desde cualquier email.

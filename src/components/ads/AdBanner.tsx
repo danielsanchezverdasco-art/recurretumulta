@@ -24,8 +24,21 @@ export const AD_SLOTS = {
 
 let scriptInjected = false;
 
+// 13/10/2026 (PageSpeed): AdSense solo tras la primera interacción o cuando el navegador está ocioso (≥5 s).
+let esperando = false;
 function injectAdSenseScript() {
-  if (scriptInjected || !ADSENSE_PUBLISHER_ID) return;
+  if (scriptInjected || esperando || !ADSENSE_PUBLISHER_ID) return;
+  esperando = true;
+  const ev = ["pointerdown", "keydown", "scroll", "touchstart"] as const;
+  const ya = () => { ev.forEach((e) => window.removeEventListener(e, ya)); cargarAdSense(); };
+  ev.forEach((e) => window.addEventListener(e, ya, { once: true, passive: true }));
+  setTimeout(() => {
+    const ric = (window as unknown as { requestIdleCallback?: (cb: () => void, o?: { timeout: number }) => number }).requestIdleCallback;
+    if (ric) ric(ya, { timeout: 10_000 }); else ya();
+  }, 5000);
+}
+function cargarAdSense() {
+  if (scriptInjected) return;
   scriptInjected = true;
   const script = document.createElement("script");
   script.async = true;
@@ -59,8 +72,9 @@ export default function AdBanner({ slotId, format = "auto", className = "", styl
     const timer = setTimeout(() => {
       try {
         // eslint-disable-next-line @typescript-eslint/no-explicit-any
-        const adsbygoogle = (window as unknown as { adsbygoogle: unknown[] }).adsbygoogle;
-        if (adsbygoogle) adsbygoogle.push({});
+        // Cola estándar: AdSense la procesa cuando el script (diferido) termina de cargar.
+        const w = window as unknown as { adsbygoogle?: unknown[] };
+        (w.adsbygoogle = w.adsbygoogle || []).push({});
       } catch {
         // silencioso en dev
       }

@@ -115,7 +115,7 @@ export default function Top3VentasMes() {
             </Card>
           );
           return v.fichaId ? (
-            <Link key={i} to={`/coches/${v.fichaId}`} className="block h-full">
+            <Link key={i} to={`/coches/${v.fichaId}/`} className="block h-full">
               {tarjeta}
             </Link>
           ) : (
@@ -128,7 +128,7 @@ export default function Top3VentasMes() {
 
       <div className="text-center">
         <Link
-          to="/comparador/mas-vendidos"
+          to="/comparador/mas-vendidos/"
           className="inline-flex items-center gap-1.5 text-sm font-bold text-red-600 hover:text-red-700"
         >
           Ver ranking completo

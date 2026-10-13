@@ -200,7 +200,7 @@ export default function MultasIndexPage() {
                       <div
                         key={prov.slug}
                       >
-                        <Link to={`/multas/${prov.slug}`} className="block group">
+                        <Link to={`/multas/${prov.slug}/`} className="block group">
                           <div className="border border-gray-200 rounded-xl p-3 hover:border-red-300 hover:shadow-sm transition-all bg-white space-y-1.5">
                             <div className="flex items-start justify-between gap-1">
                               <p className="text-xs font-black text-gray-900 group-hover:text-red-600 transition-colors leading-tight">

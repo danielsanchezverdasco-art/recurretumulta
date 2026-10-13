@@ -50,9 +50,9 @@ El Model 3 no solo lidera: septiembre fue **su mejor mes histórico en España**
 
 <img src=/media/anfac-septiembre-2026-record-electrificacion-model-3-lider-cuerpo.webp alt=Coches eléctricos enchufados a puntos de recarga rápida en un concesionario español moderno>
 
-Pero el dato más español de la tabla está en los puestos 4 y 5 del acumulado: **Kia EV3** (3.828) y **Toyota C-HR+** (3.359). Corea y Japón ya colocan dos modelos entre los cinco eléctricos más vendidos del país, mientras el **BYD Dolphin Surf** (4.334, tercero) confirma que el urbano barato chino es mainstream. El **<a href=/coches/renault-5-e-tech-2026-precio-autonomia>Renault 5 E-Tech</a>** (2.570) cierra el pelotón de cabeza: el eléctrico europeo "asequible" aún tiene que remontar.
+Pero el dato más español de la tabla está en los puestos 4 y 5 del acumulado: **Kia EV3** (3.828) y **Toyota C-HR+** (3.359). Corea y Japón ya colocan dos modelos entre los cinco eléctricos más vendidos del país, mientras el **BYD Dolphin Surf** (4.334, tercero) confirma que el urbano barato chino es mainstream. El **<a href=/coches/renault-5-e-tech-2026-precio-autonomia/>Renault 5 E-Tech</a>** (2.570) cierra el pelotón de cabeza: el eléctrico europeo "asequible" aún tiene que remontar.
 
-El veredicto es claro: la electrificación en España ya no es nicho, pero el 34% de septiembre depende de las ayudas — ANFAC reclama mantener el <a href=/guias/ayudas-compra-coche-electrico-2026>Plan Auto+</a> hasta fin de 2026 y aclarar qué pasará en 2027. Si estabas esperando la señal de que el eléctrico ha cruzado el Rubicón en España, es esta.
+El veredicto es claro: la electrificación en España ya no es nicho, pero el 34% de septiembre depende de las ayudas — ANFAC reclama mantener el <a href=/guias/ayudas-compra-coche-electrico-2026/>Plan Auto+</a> hasta fin de 2026 y aclarar qué pasará en 2027. Si estabas esperando la señal de que el eléctrico ha cruzado el Rubicón en España, es esta.
 
 ## Míralo en vídeo
 
@@ -73,7 +73,7 @@ El **34%** en septiembre de 2026 (31.945 de 93.858 matriculaciones), diez puntos
 
 
 ### ¿Qué ayudas están impulsando las ventas de eléctricos?
-El crecimiento depende en buena parte de las ayudas: ANFAC reclama mantener el <a href=/guias/ayudas-compra-coche-electrico-2026>Plan Auto+</a> hasta fin de 2026 y que se aclare qué pasará en 2027.
+El crecimiento depende en buena parte de las ayudas: ANFAC reclama mantener el <a href=/guias/ayudas-compra-coche-electrico-2026/>Plan Auto+</a> hasta fin de 2026 y que se aclare qué pasará en 2027.
 
 ### ¿Qué marcas chinas están entre las más vendidas?
 El **BYD Dolphin Surf** es tercero del acumulado anual con 4.334 unidades y el **BYD Atto 2** suma 3.175: el urbano barato chino ya es mainstream en España.
@@ -133,7 +133,7 @@ NIU ha movido ficha: renovación completa de su gama de scooters eléctricos par
 
 Hasta ahora, el scooter eléctrico urbano en España era cosa de **Silence** (líder local) y **Vespa Elettrica** (el icono caro). NIU ataca por el flanco que más duele: **precio y tecnología**. Un NQi Sport a 1.999 € con 130 km de autonomía cuesta menos de la mitad que una Vespa Elettrica, y el radar trasero con ABS de serie es equipamiento que ni las gasolina de ese precio ofrecen.
 
-¿El "pero"? La autonomía máxima del NQi Sport exige la **segunda batería opcional**, y la red comercial (25 puntos entre España y Portugal) aún está lejos de la capilaridad de Silence. Pero la dirección es clara: el scooter eléctrico deja de ser un capricho caro para convertirse en la opción racional del commuter urbano. Tienes el duelo <a href=/motos/niu-mqi-gt-evo-ficha-tecnica-precio>NIU MQi GT Evo</a> y el resto de la gama en el <a href=/comparador-motos>comparador de motos eléctricas</a>.
+¿El "pero"? La autonomía máxima del NQi Sport exige la **segunda batería opcional**, y la red comercial (25 puntos entre España y Portugal) aún está lejos de la capilaridad de Silence. Pero la dirección es clara: el scooter eléctrico deja de ser un capricho caro para convertirse en la opción racional del commuter urbano. Tienes el duelo <a href=/motos/niu-mqi-gt-evo-ficha-tecnica-precio/>NIU MQi GT Evo</a> y el resto de la gama en el <a href=/comparador-motos/>comparador de motos eléctricas</a>.
 
 ## Míralo en vídeo
 
@@ -218,7 +218,7 @@ Royal Enfield, la marca de las motos clásicas por excelencia, acaba de hacer lo
 
 La mayoría de motos eléctricas de 6.000 € son scooters utilitarios o naked genéricas. La C6 juega en otra liga emocional: estética clásica de verdad (esa horquilla Girder no la tiene nadie), **115 km/h** que permiten salir a carretera —algo que casi ninguna rival de su precio ofrece— y un peso de 124 kg que la hace ágil en ciudad.
 
-El "pero" es la autonomía fuera de ciudad: 81 km en uso exurbano la limitan a commuter y escapadas cortas, y la batería de 3,91 kWh no es intercambiable. Aun así, el veredicto es positivo: **por 5.990 € no hay otra moto eléctrica con este diseño, esta velocidad punta y este equipamiento de seguridad**. Si buscas una eléctrica con carácter para moverte por Barcelona y alrededores, acaba de llegar tu moto. Compárala en el <a href=/comparador-motos>comparador de motos eléctricas</a> con la <a href=/motos/silence-s01-ficha-tecnica-precio>Silence S01</a>.
+El "pero" es la autonomía fuera de ciudad: 81 km en uso exurbano la limitan a commuter y escapadas cortas, y la batería de 3,91 kWh no es intercambiable. Aun así, el veredicto es positivo: **por 5.990 € no hay otra moto eléctrica con este diseño, esta velocidad punta y este equipamiento de seguridad**. Si buscas una eléctrica con carácter para moverte por Barcelona y alrededores, acaba de llegar tu moto. Compárala en el <a href=/comparador-motos/>comparador de motos eléctricas</a> con la <a href=/motos/silence-s01-ficha-tecnica-precio/>Silence S01</a>.
 
 ## Míralo en vídeo
 

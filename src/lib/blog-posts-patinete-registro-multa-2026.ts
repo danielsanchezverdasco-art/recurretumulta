@@ -76,7 +76,7 @@ Si te ha llegado una denuncia por falta de registro o de seguro, no pagues a cie
 
 <a href=https://recurretumulta.online/>**Analiza tu multa gratis con nuestra IA**</a>: sube el documento y en segundos detectamos vicios de forma, errores de tipificación y defectos de notificación antes de que decidas si pagas o recurres.
 
-Si quieres el marco completo de sanciones para patinetes este año, consulta nuestra guía de la <a href=/blog/multa-patinete-octubre-2026-que-hacer-como-recurrir>multa en patinete de octubre 2026 y cómo recurrirla</a>, el <a href=/blog/como-recurrir-multa-de-patinete-electrico-vmp-modelo-gratis>paso a paso para recurrir una multa de patinete</a> y la <a href=/blog/patinete-electrico-normativa-dgt-2026-multas>normativa DGT 2026 para patinetes eléctricos</a>.
+Si quieres el marco completo de sanciones para patinetes este año, consulta nuestra guía de la <a href=/blog/multa-patinete-octubre-2026-que-hacer-como-recurrir/>multa en patinete de octubre 2026 y cómo recurrirla</a>, el <a href=/blog/como-recurrir-multa-de-patinete-electrico-vmp-modelo-gratis/>paso a paso para recurrir una multa de patinete</a> y la <a href=/blog/patinete-electrico-normativa-dgt-2026-multas/>normativa DGT 2026 para patinetes eléctricos</a>.
 
 ## Preguntas frecuentes
 

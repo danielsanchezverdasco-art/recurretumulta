@@ -142,7 +142,7 @@ export default function DatoDelDiaPage() {
       <SharedNavbar />
       <nav aria-label="Migas de pan" className="max-w-4xl mx-auto px-4 pt-6 text-sm text-slate-500">
         <Link to="/" className="hover:text-slate-800">Inicio</Link> {" > "}
-        <Link to="/herramientas" className="hover:text-slate-800">Herramientas</Link> {" > "}
+        <Link to="/herramientas/" className="hover:text-slate-800">Herramientas</Link> {" > "}
         <span className="text-slate-800 font-medium">El dato del día</span>
       </nav>
 
@@ -220,7 +220,7 @@ export default function DatoDelDiaPage() {
             <p className="text-sm text-slate-600">Cada día respondemos la pregunta que más busca la gente.</p>
           </div>
           <Link
-            to="/la-pregunta-del-dia"
+            to="/la-pregunta-del-dia/"
             className="shrink-0 inline-flex items-center justify-center gap-1 rounded-xl bg-red-600 px-5 py-3 text-sm font-bold text-white transition hover:bg-red-700"
           >
             La pregunta del día <ArrowRight className="h-4 w-4" />

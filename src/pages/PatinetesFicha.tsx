@@ -233,7 +233,7 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
     // [Keyword] + [número] + [beneficio] + [(año)]. Siempre ≤60 car.
     title: tituloFichaPatinete(nombre, patinete),
     description: `Ficha técnica del ${nombre}: precio, potencia, autonomía, peso, frenos, certificado DGT, pros y contras. Sin cifras inventadas.`,
-    canonical: `/patinetes/${patinete.id}`,
+    canonical: `/patinetes/${patinete.id}/`,
     ...(patinete.fotoPendiente
       ? {}
       : { image: `https://recurretumulta.online${patinete.foto}` }),
@@ -270,7 +270,7 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
             Inicio
           </Link>{" "}
           ·{" "}
-          <Link to="/comparador-patinetes" className="hover:underline">
+          <Link to="/comparador-patinetes/" className="hover:underline">
             Comparador de patinetes
           </Link>{" "}
           · <span className="text-gray-700">{nombre}</span>
@@ -684,7 +684,7 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
           >
             <ArrowLeftRight className="h-4 w-4" /> Comparar con otro patinete
           </Link>          <Link
-            to="/guias/patinetes-electricos"
+            to="/guias/patinetes-electricos/"
             className="inline-flex items-center justify-center gap-2 rounded-2xl bg-red-600 px-4 py-3 text-sm font-bold text-white transition hover:bg-red-700"
           >
             <BookOpen className="h-4 w-4" /> Guía: normativa y multas 2026
@@ -692,7 +692,7 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
           {/* 13/10/2026: análisis del blog del mismo modelo, solo si el post existe */}
           {BLOG_SLUGS.has(analisisSlug) && (
             <Link
-              to={`/blog/${analisisSlug}`}
+              to={`/blog/${analisisSlug}/`}
               className="inline-flex items-center justify-center gap-2 rounded-2xl border border-gray-300 bg-white px-4 py-3 text-sm font-bold text-gray-900 transition hover:bg-gray-50"
             >
               <BookOpen className="h-4 w-4" /> Ver análisis
@@ -702,7 +702,7 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
 
         <p className="mt-4 text-center text-sm text-gray-500">
           ¿Buscas coche en vez de patinete?{" "}
-          <Link to="/comparador-coches" className="font-semibold text-red-600 hover:underline">
+          <Link to="/comparador-coches/" className="font-semibold text-red-600 hover:underline">
             Ver el comparador de coches →
           </Link>
         </p>
@@ -780,7 +780,7 @@ export default function PatinetesFichaPage() {
             No hay ningún patinete con esa dirección en la ficha técnica. Prueba con el comparador.
           </p>
           <Link
-            to="/comparador-patinetes"
+            to="/comparador-patinetes/"
             className="mt-6 inline-block rounded-xl bg-red-600 px-6 py-3 text-sm font-bold text-white transition hover:bg-red-700"
           >
             Ir al comparador de patinetes

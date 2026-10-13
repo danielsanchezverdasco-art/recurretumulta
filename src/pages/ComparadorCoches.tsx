@@ -290,7 +290,7 @@ function TarjetaCoche({
         ))}
       </ul>
       <Link
-        to={`/coches/${coche.id}`}
+        to={`/coches/${coche.id}/`}
         onClick={(e) => e.stopPropagation()}
         className="mt-auto block rounded-lg bg-[#cd001d] px-2 py-2 text-center text-xs font-bold text-white transition hover:bg-[#a50018]"
       >

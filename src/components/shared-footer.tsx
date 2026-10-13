@@ -13,25 +13,25 @@ const LI = `inline-flex items-center gap-1 ${L}`;
 export default function SharedFooter() {
   const { t } = useTranslation("common");
   const items = [
-    <Link to="/blog" className={L}>{t("nav.blog")} DGT</Link>,
-    <Link to="/multas" className={L}>52 {t("nav.provinces")}</Link>,
-    <Link to="/herramientas" className={L}>Herramientas</Link>,
-    <Link to="/newsletter" className={L}>Newsletter</Link>,
-    <Link to="/glosario-multa" className={L}>Glosario</Link>,
-    <Link to="/metodologia" className={L}>Metodología</Link>,
-    <Link to="/sobre-nosotros" className={L}>Quiénes somos</Link>,
-    <Link to="/comparativa" className={L}>IA vs abogado vs gestor</Link>,
-    <Link to="/contacto" className={L}>{t("footer.contact")}</Link>,
+    <Link to="/blog/" className={L}>{t("nav.blog")} DGT</Link>,
+    <Link to="/multas/" className={L}>52 {t("nav.provinces")}</Link>,
+    <Link to="/herramientas/" className={L}>Herramientas</Link>,
+    <Link to="/newsletter/" className={L}>Newsletter</Link>,
+    <Link to="/glosario-multa/" className={L}>Glosario</Link>,
+    <Link to="/metodologia/" className={L}>Metodología</Link>,
+    <Link to="/sobre-nosotros/" className={L}>Quiénes somos</Link>,
+    <Link to="/comparativa/" className={L}>IA vs abogado vs gestor</Link>,
+    <Link to="/contacto/" className={L}>{t("footer.contact")}</Link>,
     <a href="https://wa.me/34711292174?text=Hola%2C%20necesito%20ayuda%20con%20RecurreTuMulta." target="_blank" rel="noopener noreferrer" className={LI}>
       <MessageCircle className="w-3.5 h-3.5 text-[#128C7E]" /> WhatsApp · Ayuda
     </a>,
     <a href="https://www.instagram.com/soycosa.ia/" target="_blank" rel="noopener noreferrer" title="La IA detrás de esta web" className={LI}>
       <Camera className="w-3.5 h-3.5 text-[#E1306C]" /> Instagram · @soycosa.ia
     </a>,
-    <Link to="/privacidad" className={L}>{t("footer.privacy")}</Link>,
-    <Link to="/terminos" className={L}>{t("footer.terms")}</Link>,
-    <Link to="/aviso-legal" className={L}>Aviso Legal</Link>,
-    <Link to="/cookies" className={L}>{t("footer.cookies")}</Link>,
+    <Link to="/privacidad/" className={L}>{t("footer.privacy")}</Link>,
+    <Link to="/terminos/" className={L}>{t("footer.terms")}</Link>,
+    <Link to="/aviso-legal/" className={L}>Aviso Legal</Link>,
+    <Link to="/cookies/" className={L}>{t("footer.cookies")}</Link>,
   ];
   return (
     <footer className="border-t border-gray-100 py-8 px-4">

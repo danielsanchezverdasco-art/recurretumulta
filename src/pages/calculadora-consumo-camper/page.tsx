@@ -191,7 +191,7 @@ export default function CalculadoraConsumoCamperPage() {
           <div className="relative max-w-3xl mx-auto px-4 pt-10 pb-12 space-y-4">
             <motion.nav initial={{opacity:0,y:12}} animate={{opacity:1,y:0}} transition={{duration:0.5}} aria-label="Migas de pan" className="flex items-center gap-1.5 text-xs text-white/60">
               <Link to="/" className="hover:text-white">Inicio</Link><span aria-hidden="true">/</span>
-              <Link to="/herramientas" className="hover:text-white">Herramientas</Link><span aria-hidden="true">/</span>
+              <Link to="/herramientas/" className="hover:text-white">Herramientas</Link><span aria-hidden="true">/</span>
               <span className="text-white/40 truncate max-w-[200px]">Consumo camper</span>
             </motion.nav>
             <motion.div initial={{opacity:0,y:12}} animate={{opacity:1,y:0}} transition={{duration:0.5,delay:0.08}}>
@@ -549,19 +549,19 @@ export default function CalculadoraConsumoCamperPage() {
         <div className="grid sm:grid-cols-2 gap-3 text-sm">
           <Link
             className="bg-white p-4 rounded-xl border hover:border-amber-400 transition"
-            to="/herramientas"
+            to="/herramientas/"
           >
             Todas las herramientas
           </Link>
           <Link
             className="bg-white p-4 rounded-xl border hover:border-amber-400 transition"
-            to="/valor-venal-vehiculo"
+            to="/valor-venal-vehiculo/"
           >
             Valor venal del vehículo
           </Link>
           <Link
             className="bg-white p-4 rounded-xl border hover:border-amber-400 transition"
-            to="/blog/homologacion-camper-y-caravanas-en-espana-vacios-legales-itv-y-como-evitar-multas-de-la-dgt"
+            to="/blog/homologacion-camper-y-caravanas-en-espana-vacios-legales-itv-y-como-evitar-multas-de-la-dgt/"
           >
             Homologación de camper y caravanas: vacíos legales e ITV
           </Link>

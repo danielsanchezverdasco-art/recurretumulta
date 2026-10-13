@@ -150,7 +150,7 @@ export default function HitosCaza() {
               Ahora reclama tu premio antes de que se lo lleve otro: el 1º gana 1.500 € + 1 año de recursos ilimitados, y del 2º al 50º, 1 año de recursos ilimitados.
             </p>
             <Link
-              to="/juego-monos"
+              to="/juego-monos/"
               onClick={cerrarCelebracion}
               className="mt-4 inline-block rounded-full bg-gradient-to-r from-amber-500 to-red-500 text-white font-black px-8 py-3 shadow-lg hover:brightness-110 transition cursor-pointer"
             >

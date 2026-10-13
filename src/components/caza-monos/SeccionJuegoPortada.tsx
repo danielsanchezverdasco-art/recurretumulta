@@ -27,7 +27,7 @@ export default function SeccionJuegoPortada() {
           Hay 350 monos escondidos por la web, incluido el legendario dorado. El 1º en cazarlos todos gana 1.500 € + 1 año de recursos ilimitados, y del 2º al 50º, 1 año de recursos ilimitados.
         </p>
         <Link
-          to="/juego-monos"
+          to="/juego-monos/"
           className="mt-3 inline-block rounded-full bg-gradient-to-r from-amber-500 to-red-500 text-white font-black text-sm px-6 py-2.5 shadow-lg hover:brightness-110 transition cursor-pointer"
         >
           Jugar

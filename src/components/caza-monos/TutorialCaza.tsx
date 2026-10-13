@@ -82,7 +82,7 @@ export default function TutorialCaza() {
             y del <span className="font-black">2º al 50º, 1 año de recursos ilimitados</span>. ¡Corre!
           </p>
           <p className="text-gray-500">
-            Tienes tu ranking en <Link to="/juego-monos" onClick={cerrar} className="font-bold text-amber-700 underline underline-offset-2 cursor-pointer">/juego-monos</Link>. ¡Suerte! 🍀
+            Tienes tu ranking en <Link to="/juego-monos/" onClick={cerrar} className="font-bold text-amber-700 underline underline-offset-2 cursor-pointer">/juego-monos</Link>. ¡Suerte! 🍀
           </p>
         </div>
         <label className="mt-3 block">

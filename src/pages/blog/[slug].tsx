@@ -449,7 +449,7 @@ function BlogPostPage() {
         : post ? {
     title: post.title,
     description: post.excerpt,
-    canonical: `/blog/${post.slug}`,
+    canonical: `/blog/${post.slug}/`,
     type: "article",
     image: ogImage,
     keywords: post.keywords,
@@ -539,7 +539,7 @@ function BlogPostPage() {
         <div className="space-y-4">
           <AlertTriangle className="w-12 h-12 text-red-500 mx-auto" />
           <p className="text-lg font-black text-gray-900">Artículo no encontrado</p>
-          <Link to="/blog">
+          <Link to="/blog/">
             <Button className="bg-red-600 hover:bg-red-700 text-white rounded-xl">
               Ver todos los artículos
             </Button>
@@ -622,7 +622,7 @@ function BlogPostPage() {
             >
               <Link to="/" className="hover:text-white">Inicio</Link>
               <span aria-hidden="true">/</span>
-              <Link to="/blog" className="hover:text-white">Blog</Link>
+              <Link to="/blog/" className="hover:text-white">Blog</Link>
               <span aria-hidden="true">/</span>
               <span className="text-white/40 truncate max-w-[200px]">{post.title}</span>
             </nav>
@@ -725,7 +725,7 @@ function BlogPostPage() {
               </a>
               . La IA de análisis identifica posibles defectos e indicios relevantes en tu documento, pero no
               sustituye el asesoramiento de un profesional. Consulta más sobre nuestro proceso editorial en{" "}
-              <Link to="/sobre-nosotros" className="text-red-600 underline">¿Quién está detrás?</Link>.
+              <Link to="/sobre-nosotros/" className="text-red-600 underline">¿Quién está detrás?</Link>.
             </p>
             <p className="text-[11px] text-gray-400">Última revisión de este contenido: {post.date}</p>
           </div>
@@ -862,7 +862,7 @@ function BlogPostPage() {
               <p className="text-xs font-bold uppercase tracking-widest text-gray-400">Artículos relacionados</p>
               <div className="space-y-3">
                 {related.map((rp) => (
-                  <Link key={rp.slug} to={`/blog/${rp.slug}`} className="block group">
+                  <Link key={rp.slug} to={`/blog/${rp.slug}/`} className="block group">
                     <div className="border border-gray-200 rounded-xl p-4 hover:border-red-200 hover:shadow-sm transition-all space-y-1">
                       <Badge className="bg-red-50 text-red-600 border-0 text-xs mb-1">{rp.category}</Badge>
                       <p className="text-sm font-bold text-gray-900 group-hover:text-red-600 transition-colors line-clamp-2">

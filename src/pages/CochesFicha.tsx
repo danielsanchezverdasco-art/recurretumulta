@@ -395,7 +395,7 @@ function Ficha({ coche }: { coche: CocheComparador }) {
   useSeo({
     title: tituloSeo,
     description: `Ficha técnica del ${nombre}: precio, potencia, autonomía, batería, maletero, etiqueta DGT, pros y contras, vídeo y análisis.`,
-    canonical: `/coches/${coche.id}`,
+    canonical: `/coches/${coche.id}/`,
     image: seoImage,
     type: "article",
     keywords: [
@@ -429,7 +429,7 @@ function Ficha({ coche }: { coche: CocheComparador }) {
             Inicio
           </Link>{" "}
           ·{" "}
-          <Link to="/comparador-coches" className="hover:underline">
+          <Link to="/comparador-coches/" className="hover:underline">
             Comparador de coches
           </Link>{" "}
           · <span className="text-gray-700">{nombre}</span>
@@ -675,7 +675,7 @@ function Ficha({ coche }: { coche: CocheComparador }) {
           </p>
           {tieneBlog && (
             <Link
-              to={`/blog/${analisisSlug}`}
+              to={`/blog/${analisisSlug}/`}
               className="mt-4 inline-flex items-center gap-2 rounded-xl bg-gray-900 px-4 py-2.5 text-sm font-bold text-white transition hover:bg-gray-700"
             >
               <BookOpen className="h-4 w-4" /> Ver versiones en el análisis
@@ -683,7 +683,7 @@ function Ficha({ coche }: { coche: CocheComparador }) {
           )}
           <p className="mt-3 text-sm text-gray-500">
             ITV en tu comunidad:{" "}
-            <Link to="/herramientas/precio-itv" className="font-semibold text-red-600 hover:underline">
+            <Link to="/herramientas/precio-itv/" className="font-semibold text-red-600 hover:underline">
               consúltala aquí
             </Link>
           </p>
@@ -1044,7 +1044,7 @@ function Ficha({ coche }: { coche: CocheComparador }) {
             <ul className="mt-3 space-y-2">
               {duelos.map((d) => (
                 <li key={d.slug}>
-                  <Link to={`/blog/${d.slug}`} className="font-semibold text-red-600 hover:underline">
+                  <Link to={`/blog/${d.slug}/`} className="font-semibold text-red-600 hover:underline">
                     {d.titulo} →
                   </Link>
                 </li>
@@ -1062,7 +1062,7 @@ function Ficha({ coche }: { coche: CocheComparador }) {
           </Link>
           {tieneBlog && (
             <Link
-              to={`/blog/${analisisSlug}`}
+              to={`/blog/${analisisSlug}/`}
               className="inline-flex items-center justify-center gap-2 rounded-2xl bg-red-600 px-4 py-3 text-sm font-bold text-white transition hover:bg-red-700"
             >
               <BookOpen className="h-4 w-4" /> Leer nuestro análisis
@@ -1072,28 +1072,28 @@ function Ficha({ coche }: { coche: CocheComparador }) {
 
         <p className="mt-4 text-center text-sm text-gray-500">
           ¿Cuántos años de batería dan las marcas?{" "}
-          <Link to="/comparador-garantia-bateria" className="font-semibold text-red-600 hover:underline">
+          <Link to="/comparador-garantia-bateria/" className="font-semibold text-red-600 hover:underline">
             Ver el ranking de garantías de batería →
           </Link>
         </p>
 
         <p className="mt-2 text-center text-sm text-gray-500">
           ¿Entra en tu presupuesto?{" "}
-          <Link to="/mejor-coche-por-presupuesto" className="font-semibold text-red-600 hover:underline">
+          <Link to="/mejor-coche-por-presupuesto/" className="font-semibold text-red-600 hover:underline">
             Qué coche me compro con mi presupuesto →
           </Link>
         </p>
 
         <p className="mt-2 text-center text-sm text-gray-500">
           ¿Cuánto consume de verdad?{" "}
-          <Link to="/calculadora-autonomia-real" className="font-semibold text-red-600 hover:underline">
+          <Link to="/calculadora-autonomia-real/" className="font-semibold text-red-600 hover:underline">
             Calculadora de autonomía real →
           </Link>
         </p>
 
         <p className="mt-2 text-center text-sm text-gray-500">
           ¿Puede entrar en las ZBE?{" "}
-          <Link to="/calculadora-etiqueta-dgt" className="font-semibold text-red-600 hover:underline">
+          <Link to="/calculadora-etiqueta-dgt/" className="font-semibold text-red-600 hover:underline">
             Calculadora de etiqueta DGT →
           </Link>
         </p>
@@ -1174,7 +1174,7 @@ export default function CochesFichaPage() {
             No hay ningún modelo con esa dirección en la ficha técnica. Prueba con el comparador.
           </p>
           <Link
-            to="/comparador-coches"
+            to="/comparador-coches/"
             className="mt-6 inline-block rounded-xl bg-red-600 px-6 py-3 text-sm font-bold text-white transition hover:bg-red-700"
           >
             Ir al comparador de coches

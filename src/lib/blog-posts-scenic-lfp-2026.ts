@@ -25,7 +25,7 @@ export const SCENIC_LFP_2026_POSTS: BlogPost[] = [
     ],
     "content": `<img src=/media/renault-scenic-e-tech-lfp-67-kwh-2026-hero.webp alt=Renault Scenic E-Tech 2026 en azul antracita satinado en una carretera de montaña española>
 
-**¿Buscas solo los datos?** <a href=/coches/renault-scenic-e-tech-87-kwh-2025-precio-ficha-tecnica>Ver ficha técnica del Scenic E-Tech</a>: precio, autonomía y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/renault-scenic-e-tech-87-kwh-2025-precio-ficha-tecnica/>Ver ficha técnica del Scenic E-Tech</a>: precio, autonomía y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 Renault acaba de renovar su familiar eléctrico y la noticia gorda no es la autonomía récord: es el precio de entrada. El **Scénic E-Tech** estrena una **batería LFP de 67 kWh** que homologa **467 km WLTP** y costará **desde 39.900 €** en España (<a href=https://www.somoselectricos.com/coches-electricos/nuevo-renault-scenic-electrico-642-km-autonomia-precio-39900-euros/20261004190056063898.html>somoselectricos.com</a>). Por encima, la versión gran autonomía pasa a **89 kWh y 642 km WLTP** desde 45.085 €.
 
@@ -76,7 +76,7 @@ La renovación no es solo baterías:
 
 ## ¿Merece la pena esperar al LFP?
 
-Si haces menos de 300 km del tirón, sí: 467 km WLTP por 39.900 € (o ~30.660 € con ayudas) es la compra racional, con la batería más duradera y la carga más rápida de la gama. Si viajas mucho, el 89 kWh con 642 km sigue siendo el rutero. Los detalles completos del modelo están en <a href=/coches/renault-scenic-e-tech-87-kwh-2025-precio-ficha-tecnica>la ficha técnica del Scenic E-Tech</a>; y si dudas entre las versiones anteriores, aquí tienes <a href=/blog/renault-scenic-e-tech-60-kwh-2024-precio-autonomia>el análisis del 60 kWh</a> y <a href=/blog/renault-scenic-e-tech-87-kwh-2025-precio-ficha-tecnica>el del 87 kWh</a>.
+Si haces menos de 300 km del tirón, sí: 467 km WLTP por 39.900 € (o ~30.660 € con ayudas) es la compra racional, con la batería más duradera y la carga más rápida de la gama. Si viajas mucho, el 89 kWh con 642 km sigue siendo el rutero. Los detalles completos del modelo están en <a href=/coches/renault-scenic-e-tech-87-kwh-2025-precio-ficha-tecnica/>la ficha técnica del Scenic E-Tech</a>; y si dudas entre las versiones anteriores, aquí tienes <a href=/blog/renault-scenic-e-tech-60-kwh-2024-precio-autonomia/>el análisis del 60 kWh</a> y <a href=/blog/renault-scenic-e-tech-87-kwh-2025-precio-ficha-tecnica/>el del 87 kWh</a>.
 
 ## Pros y contras
 

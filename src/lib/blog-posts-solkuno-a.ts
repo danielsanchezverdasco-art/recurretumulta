@@ -25,7 +25,7 @@ export const SOLKUNO_A_POSTS: BlogPost[] = [
     ],
     "content": `<img src=/media/byd-tang-l-dron-dji-techo.webp alt=BYD Tang L con un dron DJI volando sobre su techo en una carretera de montaña al atardecer>
 
-Puedes <a href=/coches/byd-tang-l-2026-precio-ficha-tecnica>ver la ficha técnica completa del BYD Tang L</a> con todos los datos.
+Puedes <a href=/coches/byd-tang-l-2026-precio-ficha-tecnica/>ver la ficha técnica completa del BYD Tang L</a> con todos los datos.
 
 No es un coche normal: es el SUV que el creador @solkuno llama **"El Emperador del Aire"**. El **BYD Tang L** esconde **1.102 CV (810 kW)** con tracción total bajo una arquitectura eléctrica de **1.000 voltios** capaz de cargar hasta **1.000 kW**: recupera **2 km de autonomía por segundo**, o lo que es lo mismo, **400 km en 5 minutos**. Y como guinda, lleva un **dron DJI integrado en el techo** (sistema Ling Yuan) que despega en marcha y graba tu ruta desde el aire. Detrás de esta locura está la **Super e-platform** de BYD, la plataforma que ha dejado obsoleta la carga rápida tal y como la conocíamos.
 
@@ -49,7 +49,7 @@ No es un coche normal: es el SUV que el creador @solkuno llama **"El Emperador d
 
 ## Precio
 
-Seamos claros: **no hay precio oficial confirmado fuera de China** y el Tang L **no se vende en España** por el momento. BYD no ha anunciado ni fecha ni tarifa europea. Siguiendo la política de precios de la marca en Europa, si llega lo hará para pelear con los SUV premium alemanes. Actualizaremos este artículo en cuanto haya una cifra oficial. Mientras tanto, puedes ver qué SUV eléctricos chinos sí se venden aquí, como los <a href=/blog/yangwang-byd-u8-u9-europa-2027>YangWang U8 y U9 de BYD</a>.
+Seamos claros: **no hay precio oficial confirmado fuera de China** y el Tang L **no se vende en España** por el momento. BYD no ha anunciado ni fecha ni tarifa europea. Siguiendo la política de precios de la marca en Europa, si llega lo hará para pelear con los SUV premium alemanes. Actualizaremos este artículo en cuanto haya una cifra oficial. Mientras tanto, puedes ver qué SUV eléctricos chinos sí se venden aquí, como los <a href=/blog/yangwang-byd-u8-u9-europa-2027/>YangWang U8 y U9 de BYD</a>.
 
 ## Curiosidades
 
@@ -125,7 +125,7 @@ El <a href=/blog/byd-tang-2024-precio-ficha-tecnica/>BYD Tang</a> ya se vende en
     ],
     "content": `<img src=/media/nio-es9-suv-lujo.webp alt=NIO ES9, enorme SUV eléctrico de lujo, en una avenida nocturna de ciudad con luces de neón>
 
-Puedes <a href=/coches/nio-es9-2026-precio-ficha-tecnica>ver la ficha técnica completa del Nio ES9</a> con todos los datos.
+Puedes <a href=/coches/nio-es9-2026-precio-ficha-tecnica/>ver la ficha técnica completa del Nio ES9</a> con todos los datos.
 
 No es un SUV... es otro nivel. Así presenta @solkuno al **NIO ES9**, el buque insignia de la marca china que, según él, **"pone en jaque a Maybach"**. Y no es una exageración vacía: **697 CV (520 kW)**, batería de **102 kWh**, arquitectura de **900 voltios** y **5,36 metros** de lujo rodante. Pero lo verdaderamente increíble no es la potencia: es que **cambia la batería entera en 3 minutos** en una estación automática, sin enchufar nada. En China parte de unos **50.700 €** con batería en alquiler, y ha vendido unas **30.000 unidades en cuatro meses**. Maybach debería estar mirando por el retrovisor.
 
@@ -222,7 +222,7 @@ Si conduces una bestia así, un despiste con el acelerador sale caro. ¿Te ha ll
     ],
     "content": `<img src=/media/lotus-eletre-r-plus.webp alt=Lotus Eletre R+ rojo con el alerón trasero desplegado en un circuito al amanecer>
 
-Puedes <a href=/coches/lotus-eletre-r-plus-2026-precio-ficha-tecnica>ver la ficha técnica completa del Lotus Eletre R+</a> con todos los datos.
+Puedes <a href=/coches/lotus-eletre-r-plus-2026-precio-ficha-tecnica/>ver la ficha técnica completa del Lotus Eletre R+</a> con todos los datos.
 
 918 CV. 0-100 km/h en 2,95 segundos. 265 km/h de velocidad punta. En un SUV de 5,1 metros y cinco plazas. El **Lotus Eletre R+** (hoy renombrado **900 Sport Carbon** en algunos mercados) es el hyper-SUV con el que la legendaria marca británica —propiedad del gigante chino Geely y con fabricación en China— apunta directamente al **Lamborghini Urus**. Su arma secreta no es solo la potencia: es una aerodinámica obsesiva con **alerón trasero activo de tres posiciones**, arquitectura de **800 V** y carga a **350 kW**. Esto ya no es un Lotus de los de antes. Es algo mucho más bestia.
 

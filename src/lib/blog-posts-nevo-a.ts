@@ -23,7 +23,7 @@ export const NEVO_POSTS: BlogPost[] = [
     content: `
 <img src=/media/nevo-a05-2025-precio-ficha-tecnica-hero.webp alt="Nevo A05, tres cuartos delantero en carretera de montaña">
 
-<p><strong>Nevo</strong> es la submarca "de nueva energía" de <strong>Changan</strong>, y su berlina compacta <strong>A05</strong> es el modelo que mejor explica por qué el mercado chino es hoy otro planeta: un <strong>híbrido enchufable de 4,78 metros, 215 CV y 115 km de autonomía eléctrica (WLTC) por el equivalente a 10.400 €</strong>. La versión 2025款真香版 se vende en China entre 7.89 y 10.39万元. <a href=/coches/nevo-a05-2025-precio-ficha-tecnica>Consulta aquí su ficha técnica completa</a> y compáralo con lo que cuesta un PHEV en España.</p>
+<p><strong>Nevo</strong> es la submarca "de nueva energía" de <strong>Changan</strong>, y su berlina compacta <strong>A05</strong> es el modelo que mejor explica por qué el mercado chino es hoy otro planeta: un <strong>híbrido enchufable de 4,78 metros, 215 CV y 115 km de autonomía eléctrica (WLTC) por el equivalente a 10.400 €</strong>. La versión 2025款真香版 se vende en China entre 7.89 y 10.39万元. <a href=/coches/nevo-a05-2025-precio-ficha-tecnica/>Consulta aquí su ficha técnica completa</a> y compáralo con lo que cuesta un PHEV en España.</p>
 
 <p>Su arma es el sistema <strong>蓝鲸 (Blue Whale) 1.5</strong>: un motor gasolina 1.5 de 81 kW que actúa como generador y un motor eléctrico de 158 kW (215 CV) y 330 Nm que mueve las ruedas delanteras. Resultado: <strong>0-100 km/h en 6,8 s</strong>, un consumo combinado de solo <strong>0,98 l/100 km (WLTC)</strong> y una <strong>autonomía total declarada de 1.300 km</strong> en la versión 145. No es un juguete: es una berlina familiar de verdad, con pantalla de 13,2 pulgadas y el equipamiento que en Europa cuesta el triple.</p>
 
@@ -83,7 +83,7 @@ Como híbrido enchufable con más de 40 km de autonomía eléctrica, le correspo
 - <a href=https://k.sina.cn>Lanzamiento y especificaciones en Sina Auto</a>
 - <a href=https://www.autonocion.com>Autonocion: cobertura de la gama Nevo de Changan</a>
 
-<p>¿Te ha sorprendido lo que cuesta un PHEV en China? <a href=/comparador-coches>Compara el Nevo A05 con los híbridos que sí se venden en España en nuestro comparador</a> y, antes de recurrir cualquier multa, <a href=https://recurretumulta.online/#analizador>analiza tu multa gratis con nuestra IA</a>.</p>
+<p>¿Te ha sorprendido lo que cuesta un PHEV en China? <a href=/comparador-coches/>Compara el Nevo A05 con los híbridos que sí se venden en España en nuestro comparador</a> y, antes de recurrir cualquier multa, <a href=https://recurretumulta.online/#analizador>analiza tu multa gratis con nuestra IA</a>.</p>
 `,
     locale: "all",
   },
@@ -106,7 +106,7 @@ Como híbrido enchufable con más de 40 km de autonomía eléctrica, le correspo
     content: `
 <img src=/media/nevo-a06-2025-precio-ficha-tecnica-hero.webp alt="Nevo A06, tres cuartos delantero en carretera de montaña">
 
-<p>Lanzado en noviembre de 2025, el <strong>Nevo A06</strong> es la apuesta de Changan para demostrar que la tecnología de 800 V no tiene por qué costar 50.000 €. Esta <strong>berlina liftback eléctrica</strong> arranca en China en <strong>10.99万元 (≈14.300 €)</strong> y ofrece <strong>carga 6C: del 30 al 80 % en 9 minutos</strong>. <a href=/coches/nevo-a06-2025-precio-ficha-tecnica>Mira su ficha técnica completa aquí</a>.</p>
+<p>Lanzado en noviembre de 2025, el <strong>Nevo A06</strong> es la apuesta de Changan para demostrar que la tecnología de 800 V no tiene por qué costar 50.000 €. Esta <strong>berlina liftback eléctrica</strong> arranca en China en <strong>10.99万元 (≈14.300 €)</strong> y ofrece <strong>carga 6C: del 30 al 80 % en 9 minutos</strong>. <a href=/coches/nevo-a06-2025-precio-ficha-tecnica/>Mira su ficha técnica completa aquí</a>.</p>
 
 <p>Con 4.885 mm de largo y una batalla de 2.922 mm, el A06 juega en la liga del Tesla Model 3 y el BYD Seal. La versión eléctrica monta un motor trasero de <strong>200 kW (272 CV)</strong>, acelera de <strong>0-100 en 6,2 s</strong> y declara <strong>510 km CLTC</strong> (630 km en la versión de batería grande). También existe variante de <strong>autonomía extendida</strong> con 240 km eléctricos y una autonomía total declarada de 2.120 km.</p>
 
@@ -160,7 +160,7 @@ Como eléctrico puro, le correspondería la etiqueta Cero.
 - <a href=https://k.sina.cn>Sina Auto: especificaciones del Nevo A06</a>
 - <a href=https://www.testcoches.es>Testcoches: la ofensiva eléctrica china</a>
 
-<p>¿Una berlina 800V por 14.300 €? <a href=/comparador-coches>Compara el Nevo A06 con los eléctricos que se venden en España</a> y recuerda: <a href=https://recurretumulta.online/#analizador>analiza tu multa gratis con nuestra IA antes de recurrirla</a>.</p>
+<p>¿Una berlina 800V por 14.300 €? <a href=/comparador-coches/>Compara el Nevo A06 con los eléctricos que se venden en España</a> y recuerda: <a href=https://recurretumulta.online/#analizador>analiza tu multa gratis con nuestra IA antes de recurrirla</a>.</p>
 `,
     locale: "all",
   },
@@ -183,7 +183,7 @@ Como eléctrico puro, le correspondería la etiqueta Cero.
     content: `
 <img src=/media/nevo-a07-2025-precio-ficha-tecnica-hero.webp alt="Nevo A07, tres cuartos delantero en carretera de montaña">
 
-<p>El <strong>Nevo A07</strong> es la berlina grande de la submarca de Changan: <strong>4,9 metros</strong>, tracción trasera y un sistema de <strong>autonomía extendida (EREV)</strong> que combina un motor 1.5 como generador con un eléctrico de 218 CV. En China cuesta desde <strong>11.09万元 (≈14.400 €)</strong>, el precio de un compacto europeo. <a href=/coches/nevo-a07-2025-precio-ficha-tecnica>Aquí tienes su ficha técnica completa</a>.</p>
+<p>El <strong>Nevo A07</strong> es la berlina grande de la submarca de Changan: <strong>4,9 metros</strong>, tracción trasera y un sistema de <strong>autonomía extendida (EREV)</strong> que combina un motor 1.5 como generador con un eléctrico de 218 CV. En China cuesta desde <strong>11.09万元 (≈14.400 €)</strong>, el precio de un compacto europeo. <a href=/coches/nevo-a07-2025-precio-ficha-tecnica/>Aquí tienes su ficha técnica completa</a>.</p>
 
 <p>La receta es sencilla: <strong>200 km eléctricos CLTC</strong> para el día a día y un <strong>total declarado de 1.200 km</strong> cuando entra el extensor, con un consumo de solo <strong>0,75 l/100 km (WLTC)</strong>. El 0-100 se resuelve en 7,8 s y el equipamiento incluye pantalla 2.5K de 15,4 pulgadas y equipo de sonido de 16 altavoces. También existe versión eléctrica pura (258 CV, 515 km CLTC), aunque la EREV es la que vende.</p>
 
@@ -239,7 +239,7 @@ Como vehículo con más de 40 km de autonomía eléctrica, le correspondería la
 - <a href=https://k.sina.cn>Sina Auto: lanzamiento del Nevo A07</a>
 - <a href=https://www.autonocion.com>Autonocion: la gama Nevo de Changan</a>
 
-<p>Una berlina de 4,9 m por 14.400 €: <a href=/comparador-coches>compárala con las berlinas que se venden en España</a>. Y si tienes una multa pendiente, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA antes de recurrir</a>.</p>
+<p>Una berlina de 4,9 m por 14.400 €: <a href=/comparador-coches/>compárala con las berlinas que se venden en España</a>. Y si tienes una multa pendiente, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA antes de recurrir</a>.</p>
 `,
     locale: "all",
   },
@@ -262,7 +262,7 @@ Como vehículo con más de 40 km de autonomía eléctrica, le correspondería la
     content: `
 <img src=/media/nevo-e07-2025-precio-ficha-tecnica-hero.webp alt="Nevo E07, tres cuartos delantero en carretera de montaña">
 
-<p>El <strong>Nevo E07</strong> es el coche más raro —y más ambicioso— de Changan: un <strong>SUV de 5 metros que se transforma en pick-up con solo pulsar un botón</strong>. El techo trasero se pliega eléctricamente y el portón se convierte en caja de carga abierta. Cuesta desde <strong>19.99万元</strong> en China. <a href=/coches/nevo-e07-2025-precio-ficha-tecnica>Consulta su ficha técnica completa aquí</a>.</p>
+<p>El <strong>Nevo E07</strong> es el coche más raro —y más ambicioso— de Changan: un <strong>SUV de 5 metros que se transforma en pick-up con solo pulsar un botón</strong>. El techo trasero se pliega eléctricamente y el portón se convierte en caja de carga abierta. Cuesta desde <strong>19.99万元</strong> en China. <a href=/coches/nevo-e07-2025-precio-ficha-tecnica/>Consulta su ficha técnica completa aquí</a>.</p>
 
 <p>Pero no es solo un truco de magia: la versión eléctrica con batería de <strong>90 kWh</strong> declara <strong>701 km CLTC</strong> y 343 CV (7,9 s en el 0-100), con <strong>plataforma de 800 V</strong> que recupera 365 km en 15 minutos de carga. La variante <strong>4WD de 440 kW (598 CV)</strong> baja a <strong>3,96 s</strong> en el 0-100. También existe versión de autonomía extendida.</p>
 
@@ -316,7 +316,7 @@ Como eléctrico puro, le correspondería la etiqueta Cero.
 - <a href=https://k.sina.cn>Sina Auto: lanzamiento del Nevo E07</a>
 - <a href=https://www.borderlesscar.com>BorderlessCar: cobertura del Nevo E07</a>
 
-<p>El SUV-transformer existe y cuesta 30.000 € en China. <a href=/comparador-coches>Compara el Nevo E07 con los SUV eléctricos de España</a> y <a href=https://recurretumulta.online/#analizador>analiza tu multa gratis con nuestra IA</a>.</p>
+<p>El SUV-transformer existe y cuesta 30.000 € en China. <a href=/comparador-coches/>Compara el Nevo E07 con los SUV eléctricos de España</a> y <a href=https://recurretumulta.online/#analizador>analiza tu multa gratis con nuestra IA</a>.</p>
 `,
     locale: "all",
   },
@@ -339,7 +339,7 @@ Como eléctrico puro, le correspondería la etiqueta Cero.
     content: `
 <img src=/media/nevo-q05-2025-precio-ficha-tecnica-hero.webp alt="Nevo Q05, tres cuartos delantero en carretera de montaña">
 
-<p>El <strong>Nevo Q05</strong> es el SUV compacto eléctrico de Changan y uno de los superventas de la marca: más de <strong>100.000 unidades</strong> vendidas en China. Su secreto es llevar <strong>lidar de serie</strong> desde la versión 405 Air, que cuesta <strong>7.99万元 (≈10.400 €)</strong>: conducción asistida avanzada por el precio de un utilitario. <a href=/coches/nevo-q05-2025-precio-ficha-tecnica>Aquí está su ficha técnica completa</a>.</p>
+<p>El <strong>Nevo Q05</strong> es el SUV compacto eléctrico de Changan y uno de los superventas de la marca: más de <strong>100.000 unidades</strong> vendidas en China. Su secreto es llevar <strong>lidar de serie</strong> desde la versión 405 Air, que cuesta <strong>7.99万元 (≈10.400 €)</strong>: conducción asistida avanzada por el precio de un utilitario. <a href=/coches/nevo-q05-2025-precio-ficha-tecnica/>Aquí está su ficha técnica completa</a>.</p>
 
 <p>Con 4.435 mm de largo, un motor de <strong>120 kW (163 CV)</strong> y batería CATL de <strong>40,29 kWh</strong>, declara <strong>405 km CLTC</strong> (506 km en la versión de 51,91 kWh). La batería admite <strong>carga 3C: del 30 al 80 % en 15 minutos</strong>. Y el maletero es enorme para su tamaño: <strong>540 l</strong> que llegan a 1.380 l abatiendo los asientos.</p>
 
@@ -393,7 +393,7 @@ Como eléctrico puro, le correspondería la etiqueta Cero.
 - <a href=https://k.sina.cn>Sina Auto: lanzamiento del nuevo Nevo Q05 EV</a>
 - <a href=https://www.testcoches.es>Testcoches: los SUV eléctricos chinos más baratos</a>
 
-<p>Un SUV eléctrico con lidar por 10.400 €: <a href=/comparador-coches>compáralo con los SUV eléctricos de España</a>. Y recuerda: <a href=https://recurretumulta.online/#analizador>analiza tu multa gratis con nuestra IA antes de recurrir</a>.</p>
+<p>Un SUV eléctrico con lidar por 10.400 €: <a href=/comparador-coches/>compáralo con los SUV eléctricos de España</a>. Y recuerda: <a href=https://recurretumulta.online/#analizador>analiza tu multa gratis con nuestra IA antes de recurrir</a>.</p>
 `,
     locale: "all",
   },
@@ -416,7 +416,7 @@ Como eléctrico puro, le correspondería la etiqueta Cero.
     content: `
 <img src=/media/nevo-q06-2026-precio-ficha-tecnica-hero.webp alt="Nevo Q06, tres cuartos delantero en carretera de montaña">
 
-<p>Lanzado en septiembre de 2026, el <strong>Nevo Q06</strong> es el SUV mediano eléctrico con el que Changan quiere plantar cara al Tesla Model Y en China: <strong>plataforma de 800 V, carga 6C (30-80 % en 9 minutos), hasta 700 km CLTC y lidar de 256 líneas de serie</strong> desde <strong>13.99万元 (≈18.200 €)</strong>. <a href=/coches/nevo-q06-2026-precio-ficha-tecnica>Mira su ficha técnica completa aquí</a>.</p>
+<p>Lanzado en septiembre de 2026, el <strong>Nevo Q06</strong> es el SUV mediano eléctrico con el que Changan quiere plantar cara al Tesla Model Y en China: <strong>plataforma de 800 V, carga 6C (30-80 % en 9 minutos), hasta 700 km CLTC y lidar de 256 líneas de serie</strong> desde <strong>13.99万元 (≈18.200 €)</strong>. <a href=/coches/nevo-q06-2026-precio-ficha-tecnica/>Mira su ficha técnica completa aquí</a>.</p>
 
 <p>Con 4.837 mm y batalla de 2.940 mm, ofrece versiones de <strong>225 kW (306 CV)</strong> y <strong>245 kW</strong> de tracción trasera, además de una <strong>4WD de 330 kW (449 CV)</strong> que hace el 0-100 en 4,8 s. Las baterías van de 63,18 a 80,02 kWh. También existe variante de autonomía extendida con <strong>1.600 km totales</strong> y 200 km eléctricos.</p>
 
@@ -470,7 +470,7 @@ Como eléctrico puro, le correspondería la etiqueta Cero.
 - <a href=https://k.sina.cn>Sina Auto: especificaciones del Nevo Q06</a>
 - <a href=https://www.autonocion.com>Autonocion: el nuevo SUV eléctrico de Changan</a>
 
-<p>800 V y lidar de serie por 18.200 €: <a href=/comparador-coches>compáralo con los SUV eléctricos que se venden en España</a>. Y si te llega una multa, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a>.</p>
+<p>800 V y lidar de serie por 18.200 €: <a href=/comparador-coches/>compáralo con los SUV eléctricos que se venden en España</a>. Y si te llega una multa, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a>.</p>
 `,
     locale: "all",
   },
@@ -493,7 +493,7 @@ Como eléctrico puro, le correspondería la etiqueta Cero.
     content: `
 <img src=/media/nevo-q07-2025-precio-ficha-tecnica-hero.webp alt="Nevo Q07, tres cuartos delantero en carretera de montaña">
 
-<p>El <strong>Nevo Q07</strong> es el SUV familiar híbrido enchufable de Changan: <strong>4,84 metros</strong>, <strong>145 km eléctricos CLTC</strong> y una <strong>autonomía total declarada de más de 1.400 km</strong>, por un precio en China desde <strong>12.98万元 (≈16.900 €)</strong>. <a href=/coches/nevo-q07-2025-precio-ficha-tecnica>Consulta su ficha técnica completa aquí</a>.</p>
+<p>El <strong>Nevo Q07</strong> es el SUV familiar híbrido enchufable de Changan: <strong>4,84 metros</strong>, <strong>145 km eléctricos CLTC</strong> y una <strong>autonomía total declarada de más de 1.400 km</strong>, por un precio en China desde <strong>12.98万元 (≈16.900 €)</strong>. <a href=/coches/nevo-q07-2025-precio-ficha-tecnica/>Consulta su ficha técnica completa aquí</a>.</p>
 
 <p>Su sistema combina un 1.5 de 72 kW con un motor eléctrico de <strong>165 kW (224 CV)</strong> y 330 Nm. La batería de <strong>18,7 kWh</strong> da 145 km CLTC (215 km en la versión de 28,4 kWh), y el consumo en modo híbrido es de <strong>3,9 l/100 km</strong>. El maletero de doble piso ofrece <strong>763 l</strong>.</p>
 
@@ -549,7 +549,7 @@ Como híbrido enchufable con más de 40 km de autonomía eléctrica, le correspo
 - <a href=https://k.sina.cn>Sina Auto: lanzamiento del Nevo Q07</a>
 - <a href=https://www.autonocion.com>Autonocion: la gama SUV de Nevo</a>
 
-<p>Un SUV familiar PHEV de 1.400 km por 16.900 €: <a href=/comparador-coches>compáralo con los SUV híbridos de España</a>. Y antes de recurrir una multa, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a>.</p>
+<p>Un SUV familiar PHEV de 1.400 km por 16.900 €: <a href=/comparador-coches/>compáralo con los SUV híbridos de España</a>. Y antes de recurrir una multa, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a>.</p>
 `,
     locale: "all",
   },

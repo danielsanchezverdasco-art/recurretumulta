@@ -162,7 +162,7 @@ function TarjetaCoche({ rec }: { rec: Recomendacion }) {
             </Link>
           ) : (
             <Link
-              to="/comparador-coches"
+              to="/comparador-coches/"
               className="flex-1 inline-flex items-center justify-center gap-1.5 border border-gray-300 hover:border-red-500 hover:text-red-700 text-sm font-bold px-4 py-2.5 rounded-xl transition-colors"
             >
               Ver comparador
@@ -266,7 +266,7 @@ export default function MejorCochePresupuesto() {
       <main className="max-w-6xl mx-auto px-4 py-8 md:py-12">
         <nav className="text-xs text-gray-500 mb-4" aria-label="Migas de pan">
           <Link to="/" className="hover:underline">Inicio</Link> ·{" "}
-          <Link to="/herramientas" className="hover:underline">Herramientas</Link> ·{" "}
+          <Link to="/herramientas/" className="hover:underline">Herramientas</Link> ·{" "}
           <span className="text-gray-700">Mejor coche por presupuesto</span>
         </nav>
 
@@ -387,15 +387,15 @@ export default function MejorCochePresupuesto() {
             expresamente. La lista se revisa periódicamente.
           </p>
           <div className="flex flex-wrap gap-2 mt-4 text-sm">
-            <Link to="/comparador-coches" className="text-red-600 font-bold hover:underline">
+            <Link to="/comparador-coches/" className="text-red-600 font-bold hover:underline">
               Comparador de coches
             </Link>
             <span className="text-gray-300">·</span>
-            <Link to="/calculadora-etiqueta-dgt" className="text-red-600 font-bold hover:underline">
+            <Link to="/calculadora-etiqueta-dgt/" className="text-red-600 font-bold hover:underline">
               Calculadora de etiqueta DGT
             </Link>
             <span className="text-gray-300">·</span>
-            <Link to="/herramientas" className="text-red-600 font-bold hover:underline">
+            <Link to="/herramientas/" className="text-red-600 font-bold hover:underline">
               Todas las herramientas
             </Link>
           </div>

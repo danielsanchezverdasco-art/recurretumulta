@@ -253,7 +253,7 @@ function Ficha({ moto }: { moto: MotoComparador }) {
     // [Keyword] + [número] + [beneficio] + [(año)]. Siempre ≤60 car.
     title: tituloFichaMoto(nombre, moto),
     description: `Ficha técnica de la ${nombre}: precio, autonomía, batería, carnet necesario, pros y contras, vídeo y comparativa. Sin cifras inventadas.`,
-    canonical: `/motos/${moto.id}`,
+    canonical: `/motos/${moto.id}/`,
     ...(moto.imagen ? { image: `https://recurretumulta.online${moto.imagen}` } : {}),
     type: "article",
     keywords: [
@@ -288,7 +288,7 @@ function Ficha({ moto }: { moto: MotoComparador }) {
             Inicio
           </Link>{" "}
           ·{" "}
-          <Link to="/comparador-motos" className="hover:underline">
+          <Link to="/comparador-motos/" className="hover:underline">
             Comparador de motos eléctricas
           </Link>{" "}
           · <span className="text-gray-700">{nombre}</span>
@@ -527,7 +527,7 @@ function Ficha({ moto }: { moto: MotoComparador }) {
           })()}
           {BLOG_SLUGS.has(analisisMoto) ? (
             <Link
-              to={`/blog/${analisisMoto}`}
+              to={`/blog/${analisisMoto}/`}
               className="mt-4 inline-flex items-center gap-2 rounded-xl bg-gray-900 px-4 py-2.5 text-sm font-bold text-white transition hover:bg-gray-700"
             >
               <BookOpen className="h-4 w-4" /> Ver la comparativa completa
@@ -757,7 +757,7 @@ function Ficha({ moto }: { moto: MotoComparador }) {
             <ArrowLeftRight className="h-4 w-4" /> Comparar con otra moto
           </Link>
           <Link
-            to="/comparador-coches"
+            to="/comparador-coches/"
             className="inline-flex items-center justify-center gap-2 rounded-2xl bg-gray-900 px-4 py-3 text-sm font-bold text-white transition hover:bg-gray-700"
           >
             <Bike className="h-4 w-4" /> Comparador de coches
@@ -837,7 +837,7 @@ export default function MotosFichaPage() {
             No hay ninguna moto con esa dirección en la ficha técnica. Prueba con el comparador.
           </p>
           <Link
-            to="/comparador-motos"
+            to="/comparador-motos/"
             className="mt-6 inline-block rounded-xl bg-red-600 px-6 py-3 text-sm font-bold text-white transition hover:bg-red-700"
           >
             Ir al comparador de motos

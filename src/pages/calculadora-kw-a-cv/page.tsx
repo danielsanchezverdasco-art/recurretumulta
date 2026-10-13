@@ -39,7 +39,7 @@ export default function CalculadoraKwACvPage() {
           <div className="relative max-w-3xl mx-auto px-4 pt-10 pb-12 space-y-4">
             <motion.nav initial={{opacity:0,y:12}} animate={{opacity:1,y:0}} transition={{duration:0.5}} aria-label="Migas de pan" className="flex items-center gap-1.5 text-xs text-white/60">
               <Link to="/" className="hover:text-white">Inicio</Link><span aria-hidden="true">/</span>
-              <Link to="/herramientas" className="hover:text-white">Herramientas</Link><span aria-hidden="true">/</span>
+              <Link to="/herramientas/" className="hover:text-white">Herramientas</Link><span aria-hidden="true">/</span>
               <span className="text-white/40 truncate max-w-[200px]">Conversor kW a CV</span>
             </motion.nav>
             <motion.div initial={{opacity:0,y:12}} animate={{opacity:1,y:0}} transition={{duration:0.5,delay:0.08}}>
@@ -124,11 +124,11 @@ export default function CalculadoraKwACvPage() {
         <nav className="bg-slate-100 rounded-3xl p-6 border border-slate-200">
           <h2 className="font-bold mb-4">Más herramientas y guías</h2>
           <div className="grid sm:grid-cols-2 gap-3 text-sm">
-            <Link to="/herramientas" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Todas las herramientas</Link>
-            <Link to="/buscador-codigo-multa" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Buscador de infracciones por código</Link>
-            <Link to="/blog/margenes-de-error-de-los-radares-de-la-dgt-te-han-multado-injustamente-tablas-oficiales-multas-falsas-y-como-recurrirlas" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Márgenes de error de los radares</Link>
-            <Link to="/blog/recurrir-multa-radar-velocidad" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Cómo recurrir una multa de radar</Link>
-            <Link to="/blog/defectos-forma-anulan-multa-dgt" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Defectos de forma que anulan multas</Link>
+            <Link to="/herramientas/" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Todas las herramientas</Link>
+            <Link to="/buscador-codigo-multa/" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Buscador de infracciones por código</Link>
+            <Link to="/blog/margenes-de-error-de-los-radares-de-la-dgt-te-han-multado-injustamente-tablas-oficiales-multas-falsas-y-como-recurrirlas/" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Márgenes de error de los radares</Link>
+            <Link to="/blog/recurrir-multa-radar-velocidad/" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Cómo recurrir una multa de radar</Link>
+            <Link to="/blog/defectos-forma-anulan-multa-dgt/" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Defectos de forma que anulan multas</Link>
           </div>
         </nav>
       </main>

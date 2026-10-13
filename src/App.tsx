@@ -89,6 +89,7 @@ const GuiaPatinetesPage = lazy(() => import("./pages/guias/patinetes-electricos.
 const GuiaItvDocumentacionPage = lazy(() => import("./pages/guias/itv-documentacion.tsx"));
 const JuegoMonosPage = lazy(() => import("./pages/JuegoMonos.tsx"));
 const JuegoMonosBasesPage = lazy(() => import("./pages/JuegoMonosBases.tsx"));
+const HubFichas = lazy(() => import("./pages/HubFichas.tsx"));
 const NotFound = lazy(() => import("./pages/NotFound.tsx"));
 
 // Spinner mínimo mientras carga la ruta lazy.
@@ -116,16 +117,16 @@ function ContentRoutes() {
       <Route index element={<Index />} />
       <Route path="blog" element={<BlogPage />} />
       {/* Redirects de contenido fusionado/eliminado (auditoría 03/10/2026): van ANTES de blog/:slug */}
-      <Route path="blog/zeekr-9x-precio-espana-lanzamiento-octubre-2026" element={<Navigate to="/blog/zeekr-9x-2026-precio-ficha-tecnica" replace />} />
+      <Route path="blog/zeekr-9x-precio-espana-lanzamiento-octubre-2026" element={<Navigate to="/blog/zeekr-9x-2026-precio-ficha-tecnica/" replace />} />
       <Route path="blog/:slug" element={<BlogPostPage />} />
       <Route path="multas" element={<MultasIndexPage />} />
       <Route path="multas/:provincia" element={<MultaProvinciaPage />} />
       <Route path="comunidades/:ccaa" element={<ComunidadPage />} />
       <Route path="privacidad" element={<PrivacidadPage />} />
-      <Route path="politica-privacidad" element={<Navigate to="/privacidad" replace />} />
+      <Route path="politica-privacidad" element={<Navigate to="/privacidad/" replace />} />
       <Route path="terminos" element={<TerminosPage />} />
       <Route path="cookies" element={<CookiesPage />} />
-      <Route path="politica-cookies" element={<Navigate to="/cookies" replace />} />
+      <Route path="politica-cookies" element={<Navigate to="/cookies/" replace />} />
       <Route path="contacto" element={<ContactoPage />} />
       {/* 12/10/2026: privada, no enlazar desde ningún sitio */}
       <Route path="moderar-resenas" element={<ModerarResenasPage />} />
@@ -148,6 +149,9 @@ function ContentRoutes() {
       <Route path="senales-trafico" element={<SenalesTraficoPage />} />
       <Route path="comparador-coches" element={<ComparadorCochesPage />} />
       <Route path="comparador-garantia-bateria" element={<ComparadorGarantiaBateriaPage />} />
+      <Route path="coches" element={<HubFichas categoria="coches" />} />
+      <Route path="motos" element={<HubFichas categoria="motos" />} />
+      <Route path="patinetes" element={<HubFichas categoria="patinetes" />} />
       <Route path="coches/:slug" element={<CochesFichaPage />} />
       <Route path="comparador-motos" element={<ComparadorMotosPage />} />
       <Route path="fichas-tecnicas" element={<FichasTecnicasPage />} />
@@ -157,7 +161,7 @@ function ContentRoutes() {
       <Route path="patinetes/:slug" element={<PatinetesFichaPage />} />
       <Route path="rankings" element={<RankingsIndexPage />} />
       <Route path="rankings/:slug" element={<RankingsPage />} />
-      <Route path="calendario-lanzamientos" element={<Navigate to="/calendario-lanzamientos-2026-2027" replace />} />
+      <Route path="calendario-lanzamientos" element={<Navigate to="/calendario-lanzamientos-2026-2027/" replace />} />
       <Route path="calendario-lanzamientos-2026-2027" element={<CalendarioLanzamientosPage />} />
       <Route path="calculadora-autonomia-real" element={<CalculadoraAutonomiaRealPage />} />
       <Route path="calculadora-etiqueta-dgt" element={<CalculadoraEtiquetaDgtPage />} />
@@ -243,7 +247,7 @@ function CookieBanner() {
           className="absolute -top-3 left-4"
           titulo="¡Un mono con su galleta! Haz clic para cazarlo 🍪"
         />
-        <p className="text-xs sm:text-sm text-gray-300 flex-1">Usamos cookies propias para que la web funcione correctamente. Más información en nuestra <Link to="/cookies" className="underline hover:text-white">política de cookies</Link>.</p>
+        <p className="text-xs sm:text-sm text-gray-300 flex-1">Usamos cookies propias para que la web funcione correctamente. Más información en nuestra <Link to="/cookies/" className="underline hover:text-white">política de cookies</Link>.</p>
         <div className="flex gap-2 shrink-0">
           <button onClick={reject} className="text-sm font-semibold px-4 py-2 rounded-lg border border-gray-700 text-gray-300 hover:bg-gray-800 transition-colors">Rechazar</button>
           <button onClick={accept} className="bg-white text-gray-950 text-sm font-semibold px-4 py-2 rounded-lg hover:bg-gray-200 transition-colors">Aceptar</button>

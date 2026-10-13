@@ -352,7 +352,7 @@ function JuegoMonosPage() {
                 Empezar a cazar 🦍
               </a>
               <Link
-                to="/juego-monos/bases"
+                to="/juego-monos/bases/"
                 className="rounded-full border border-white/30 font-bold px-6 py-3 text-sm hover:bg-white/10 transition cursor-pointer"
               >
                 Ver las bases
@@ -492,7 +492,7 @@ function JuegoMonosPage() {
             </div>
             <p className="mt-6 text-center text-sm">
               <Link
-                to="/juego-monos/bases"
+                to="/juego-monos/bases/"
                 className="inline-flex items-center gap-1.5 font-bold text-amber-700 hover:text-amber-800 underline underline-offset-4 cursor-pointer"
               >
                 Leer las bases legales del concurso <ExternalLink className="w-3.5 h-3.5" />

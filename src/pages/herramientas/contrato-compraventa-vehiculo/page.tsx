@@ -112,7 +112,7 @@ export default function ContratoCompraventaPage() {
           <div className="relative max-w-3xl mx-auto px-4 pt-10 pb-12 space-y-4">
             <nav aria-label="Migas de pan" className="flex items-center gap-1.5 text-xs text-white/60">
               <Link to="/" className="hover:text-white">Inicio</Link><span aria-hidden="true">/</span>
-              <Link to="/herramientas" className="hover:text-white">Herramientas</Link><span aria-hidden="true">/</span>
+              <Link to="/herramientas/" className="hover:text-white">Herramientas</Link><span aria-hidden="true">/</span>
               <span className="text-white/40 truncate max-w-[200px]">Contrato de compraventa</span>
             </nav>
             <div>
@@ -292,10 +292,10 @@ export default function ContratoCompraventaPage() {
         <nav className="bg-slate-100 rounded-3xl p-6 border border-slate-200 contrato-no-print">
           <h2 className="font-bold mb-4">Más herramientas y guías</h2>
           <div className="grid sm:grid-cols-2 gap-3 text-sm">
-            <Link to="/herramientas" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Todas las herramientas</Link>
-            <Link to="/valor-venal-vehiculo" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Valor venal del vehículo</Link>
-            <Link to="/equivalencia-neumaticos-itv" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Equivalencia de neumáticos e ITV</Link>
-            <Link to="/guias/comprar-coche-electrico-segunda-mano" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Guía: comprar coche de segunda mano</Link>
+            <Link to="/herramientas/" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Todas las herramientas</Link>
+            <Link to="/valor-venal-vehiculo/" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Valor venal del vehículo</Link>
+            <Link to="/equivalencia-neumaticos-itv/" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Equivalencia de neumáticos e ITV</Link>
+            <Link to="/guias/comprar-coche-electrico-segunda-mano/" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Guía: comprar coche de segunda mano</Link>
           </div>
         </nav>
       </main>

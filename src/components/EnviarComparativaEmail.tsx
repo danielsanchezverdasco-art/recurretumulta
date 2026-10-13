@@ -143,7 +143,7 @@ export default function EnviarComparativaEmail({
           />
           <span>
             He leído y acepto la{" "}
-            <Link to="/privacidad" className="font-bold text-red-600 underline">
+            <Link to="/privacidad/" className="font-bold text-red-600 underline">
               política de privacidad
             </Link>
             . Solo recibirás este email con tu comparativa.

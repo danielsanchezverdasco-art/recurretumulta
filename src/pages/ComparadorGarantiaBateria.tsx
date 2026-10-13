@@ -116,7 +116,7 @@ export default function ComparadorGarantiaBateriaPage() {
       <main className="mx-auto max-w-6xl px-4 pb-16 pt-8">
         <nav className="text-xs text-gray-500" aria-label="Migas de pan">
           <Link to="/" className="hover:underline">Inicio</Link> ·{" "}
-          <Link to="/comparador-coches" className="hover:underline">Comparador de coches</Link> ·{" "}
+          <Link to="/comparador-coches/" className="hover:underline">Comparador de coches</Link> ·{" "}
           <span className="text-gray-700">Garantía de batería</span>
         </nav>
 
@@ -149,7 +149,7 @@ export default function ComparadorGarantiaBateriaPage() {
             {top3.map((c, i) => (
               <Link
                 key={c.id}
-                to={`/coches/${c.id}`}
+                to={`/coches/${c.id}/`}
                 className="overflow-hidden rounded-2xl border-2 border-red-100 bg-white shadow-sm transition hover:border-red-300 hover:shadow-md"
               >
                 <img
@@ -186,7 +186,7 @@ export default function ComparadorGarantiaBateriaPage() {
             {resto.map((c, i) => (
               <li key={c.id}>
                 <Link
-                  to={`/coches/${c.id}`}
+                  to={`/coches/${c.id}/`}
                   className="flex items-center gap-3 rounded-2xl border border-gray-200 bg-white p-3 transition hover:border-red-300"
                 >
                   <span className="w-8 shrink-0 text-center text-sm font-black text-gray-400">
@@ -303,13 +303,13 @@ export default function ComparadorGarantiaBateriaPage() {
 
         <div className="mt-10 flex flex-col gap-3 sm:flex-row">
           <Link
-            to="/comparador-coches"
+            to="/comparador-coches/"
             className="inline-flex items-center justify-center gap-2 rounded-xl bg-red-700 px-5 py-3 font-bold text-white hover:bg-red-800"
           >
             <ArrowLeftRight size={18} /> Comparar los modelos cara a cara
           </Link>
           <Link
-            to="/blog"
+            to="/blog/"
             className="inline-flex items-center justify-center gap-2 rounded-xl border border-gray-300 px-5 py-3 font-bold text-gray-700 hover:border-red-300 hover:text-red-700"
           >
             Ver Novedades Motor

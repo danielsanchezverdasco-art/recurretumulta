@@ -19,7 +19,7 @@ export const COCHES_EXP25_POSTS: BlogPost[] = [
     keywords: ["Lynk & Co Z20 2025 precio", "Lynk & Co 02 ficha técnica", "Lynk & Co Z20 autonomía", "SUV eléctrico 272 CV", "Lynk & Co 02 España"],
     content: `<img src=/media/lynk-co-z20-2025-precio-ficha-tecnica-hero.webp alt="Lynk & Co Z20 (02) eléctrico en carretera de montaña">
 
-**¿Buscas solo los datos?** <a href=/coches/lynk-co-z20-2025-precio-ficha-tecnica>Ver la ficha técnica del Lynk & Co Z20</a>: precio, potencia, autonomía y maletero. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/lynk-co-z20-2025-precio-ficha-tecnica/>Ver la ficha técnica del Lynk & Co Z20</a>: precio, potencia, autonomía y maletero. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Lynk & Co Z20 2025** es el primer SUV 100 % eléctrico de la marca sueco-china, y en Europa se vende con otro nombre: **Lynk & Co 02**. Da igual cómo lo llames: con **272 CV**, tracción trasera y **445 km de autonomía WLTP**, es uno de los eléctricos compactos más equilibrados que puedes comprar hoy en España, con un **PVP oficial de 35.495 €**.
 
@@ -43,7 +43,7 @@ Su carta de presentación más seria no es la potencia, sino la seguridad: Euro 
 | Tracción | Trasera |
 | Etiqueta DGT | Cero |
 
-<a href=/coches/lynk-co-z20-2025-precio-ficha-tecnica>Ver la ficha técnica completa del Lynk & Co Z20 con galería de fotos</a>
+<a href=/coches/lynk-co-z20-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del Lynk & Co Z20 con galería de fotos</a>
 
 ## Diseño: coupé por fuera, práctico por dentro
 
@@ -113,7 +113,7 @@ El Volvo EX30 (su primo de plataforma), el Smart #3, el Zeekr X y el MG4 en sus 
     keywords: ["Omoda C7 2025 precio", "Omoda 7 SHS ficha técnica", "Omoda C7 híbrido enchufable", "SUV PHEV 279 CV", "Omoda 7 España"],
     content: `<img src=/media/omoda-c7-2025-precio-ficha-tecnica-hero.webp alt="Omoda C7 (7 SHS) con parrilla en X en ciudad">
 
-**¿Buscas solo los datos?** <a href=/coches/omoda-c7-2025-precio-ficha-tecnica>Ver la ficha técnica del Omoda C7</a>: precio, potencia, autonomía eléctrica y maletero. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/omoda-c7-2025-precio-ficha-tecnica/>Ver la ficha técnica del Omoda C7</a>: precio, potencia, autonomía eléctrica y maletero. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Omoda C7 2025** es el SUV que completa la gama española de la marca china entre el Omoda 5 y el Omoda 9. Ojo al nombre: **en España se vende como Omoda 7 SHS** (C7 es la denominación que usa en otros mercados). Llega solo como **híbrido enchufable de 279 CV**, con **92 km de autonomía eléctrica WLTP**, carga rápida en continua y un precio de partida de **42.900 €**.
 
@@ -137,7 +137,7 @@ El **Omoda C7 2025** es el SUV que completa la gama española de la marca china 
 | Tracción | Delantera |
 | Etiqueta DGT | Cero |
 
-<a href=/coches/omoda-c7-2025-precio-ficha-tecnica>Ver la ficha técnica completa del Omoda C7 con galería de fotos</a>
+<a href=/coches/omoda-c7-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del Omoda C7 con galería de fotos</a>
 
 ## El sistema SHS: un PHEV que carga como un eléctrico
 
@@ -200,7 +200,7 @@ Omoda anuncia 8 años o 160.000 km para el sistema híbrido.
     keywords: ["Opel Frontera 2024 precio", "Opel Frontera Electric ficha técnica", "Frontera eléctrico autonomía", "SUV eléctrico barato", "Opel Frontera 7 plazas"],
     content: `<img src=/media/opel-frontera-2024-precio-ficha-tecnica-hero.webp alt="Opel Frontera Electric 2024 con frontal Vizor">
 
-**¿Buscas solo los datos?** <a href=/coches/opel-frontera-2024-precio-ficha-tecnica>Ver la ficha técnica del Opel Frontera</a>: precio, autonomía, maletero y versiones. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/opel-frontera-2024-precio-ficha-tecnica/>Ver la ficha técnica del Opel Frontera</a>: precio, autonomía, maletero y versiones. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Opel Frontera 2024** recupera un nombre histórico de la marca (el 4x4 de los noventa) para un SUV compacto totalmente nuevo, primo del Citroën C3 Aircross. Se vende en versiones **híbridas (110 y 145 CV)** y **eléctricas**, y esta ficha se centra en la más interesante por precio: el **Frontera Electric 44 kWh Edition**, con **113 CV**, **308 km WLTP** y un precio de partida de **24.900 €**.
 
@@ -223,7 +223,7 @@ El **Opel Frontera 2024** recupera un nombre histórico de la marca (el 4x4 de l
 | Tracción | Delantera |
 | Etiqueta DGT | Cero |
 
-<a href=/coches/opel-frontera-2024-precio-ficha-tecnica>Ver la ficha técnica completa del Opel Frontera con galería de fotos</a>
+<a href=/coches/opel-frontera-2024-precio-ficha-tecnica/>Ver la ficha técnica completa del Opel Frontera con galería de fotos</a>
 
 ## Un eléctrico honesto y familiar
 
@@ -286,7 +286,7 @@ Si haces sobre todo ciudad y tienes dónde cargar, el eléctrico sale más barat
     keywords: ["GAC Aion V precio", "GAC Aion V ficha técnica", "Aion V 510 km", "SUV eléctrico chino España", "GAC España"],
     content: `<img src=/media/gac-aion-v-2024-precio-ficha-tecnica-hero.webp alt="GAC Aion V eléctrico en carretera de montaña">
 
-**¿Buscas solo los datos?** <a href=/coches/gac-aion-v-2024-precio-ficha-tecnica>Ver la ficha técnica del GAC Aion V</a>: precio, autonomía, batería y equipamiento. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/gac-aion-v-2024-precio-ficha-tecnica/>Ver la ficha técnica del GAC Aion V</a>: precio, autonomía, batería y equipamiento. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **GAC Aion V 2024** es la carta de presentación en Europa del quinto fabricante de China (socio de Toyota y Honda en su país). Es un SUV eléctrico familiar de **204 CV** con batería LFP de **75,3 kWh**, **510 km de autonomía WLTP** y carga rápida de **180 kW**. Ya se vende en España desde **37.995 €**, con **5 estrellas Euro NCAP** y una garantía de batería de 8 años o 200.000 km.
 
@@ -309,7 +309,7 @@ El **GAC Aion V 2024** es la carta de presentación en Europa del quinto fabrica
 | Tracción | Delantera |
 | Etiqueta DGT | Cero |
 
-<a href=/coches/gac-aion-v-2024-precio-ficha-tecnica>Ver la ficha técnica completa del GAC Aion V con galería de fotos</a>
+<a href=/coches/gac-aion-v-2024-precio-ficha-tecnica/>Ver la ficha técnica completa del GAC Aion V con galería de fotos</a>
 
 ## Batería grande, carga muy rápida
 
@@ -379,7 +379,7 @@ De 427 litros: correcto pero por debajo de rivales como el Volkswagen ID.4 o el 
     keywords: ["iCar 03 ficha técnica", "Chery iCar 03", "iCar 03 precio", "SUV eléctrico todoterreno", "iCar 03 España"],
     content: `<img src=/media/icar-03-2025-precio-ficha-tecnica-hero.webp alt="iCar 03 eléctrico de Chery en pista de tierra">
 
-**¿Buscas solo los datos?** <a href=/coches/icar-03-2025-precio-ficha-tecnica>Ver la ficha técnica del iCar 03</a>: potencia, batería, autonomía y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/icar-03-2025-precio-ficha-tecnica/>Ver la ficha técnica del iCar 03</a>: potencia, batería, autonomía y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **iCar 03 2025** es la apuesta más carismática de Chery: un **SUV eléctrico con estética de todoterreno clásico** (piensa en un Defender pasado por el siglo XXI) que esconde **279 CV**, tracción total y una batería CATL de **69,77 kWh**. Acelera de 0 a 100 en **6,5 segundos**. La mala noticia: **de momento no se vende en España** ni en Europa; solo está disponible en China y Latinoamérica.
 
@@ -402,7 +402,7 @@ El **iCar 03 2025** es la apuesta más carismática de Chery: un **SUV eléctric
 | Tracción | Total (iWD) o trasera |
 | Emisiones | 0 g/km de CO₂ |
 
-<a href=/coches/icar-03-2025-precio-ficha-tecnica>Ver la ficha técnica completa del iCar 03 con galería de fotos</a>
+<a href=/coches/icar-03-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del iCar 03 con galería de fotos</a>
 
 ## Un eléctrico con alma de 4x4
 

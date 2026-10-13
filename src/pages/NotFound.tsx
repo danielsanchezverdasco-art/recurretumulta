@@ -54,7 +54,7 @@ export default function NotFound() {
             <Link to="/#analizador">Analizar mi multa gratis</Link>
           </Button>
           <Button asChild variant="secondary">
-            <Link to="/herramientas">Ver las herramientas</Link>
+            <Link to="/herramientas/">Ver las herramientas</Link>
           </Button>
         </div>
         {/* Caza de monos: hasta perdida, Cosa esconde un mono (pose despistada) */}

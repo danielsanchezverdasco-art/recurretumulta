@@ -93,7 +93,7 @@ export default function ComunidadPage() {
         <div className="space-y-4">
           <AlertTriangle className="w-12 h-12 text-red-500 mx-auto" />
           <p className="text-lg font-black text-gray-900">Comunidad no encontrada</p>
-          <Link to="/multas">
+          <Link to="/multas/">
             <Button className="bg-red-600 hover:bg-red-700 text-white rounded-xl">Ver todas las provincias</Button>
           </Link>
         </div>
@@ -129,7 +129,7 @@ export default function ComunidadPage() {
             >
               <Link to="/" className="hover:text-white">Inicio</Link>
               <span aria-hidden="true">/</span>
-              <Link to="/multas" className="hover:text-white">Multas</Link>
+              <Link to="/multas/" className="hover:text-white">Multas</Link>
               <span aria-hidden="true">/</span>
               <span className="text-white/80">{c.nombre}</span>
             </nav>
@@ -422,7 +422,7 @@ export default function ComunidadPage() {
                 {provincias.map((p) => (
                   <Link
                     key={p.slug}
-                    to={`/multas/${p.slug}`}
+                    to={`/multas/${p.slug}/`}
                     className="rounded-xl border border-gray-200 bg-white px-3 py-2.5 text-sm font-semibold text-gray-700 hover:border-red-400 hover:text-red-600 transition-colors flex items-center gap-2"
                   >
                     <MapPin className="w-3.5 h-3.5 text-red-500 shrink-0" />
@@ -437,13 +437,13 @@ export default function ComunidadPage() {
           <section className="rounded-2xl border border-gray-200 bg-white p-4 md:p-6 space-y-3">
             <h2 className="text-lg md:text-xl font-black text-gray-900">Guías relacionadas</h2>
             <ul className="space-y-2 text-sm">
-              <li><Link to="/blog/como-recurrir-multa-dgt-sin-abogado" className="text-red-700 underline">Cómo recurrir una multa de la DGT sin abogado</Link></li>
-              <li><Link to="/blog/defectos-forma-anulan-multa-dgt" className="text-red-700 underline">Defectos de forma que pueden anular tu multa</Link></li>
-              <li><Link to="/blog/recurrir-multa-radar-velocidad" className="text-red-700 underline">Cómo recurrir una multa de radar de velocidad</Link></li>
-              <li><Link to="/blog/prescripcion-y-caducidad-de-las-multas-de-trafico-cuando-expira-una-sancion-de-la-dgt-plazos-legales-mitos-y-como-anular-expedientes-fuera-de-plazo" className="text-red-700 underline">Prescripción de multas de tráfico: plazos</Link></li>
-              <li><Link to="/guias/vicios-forma" className="text-red-700 underline">Guía: vicios de forma que pueden anular tu multa</Link></li>
-              <li><Link to="/guias/radares" className="text-red-700 underline">Guía: radares de tráfico y cómo recurrir sus multas</Link></li>
-              <li><Link to="/herramientas" className="text-red-700 underline">Herramientas gratis: calculadoras y conversores</Link></li>
+              <li><Link to="/blog/como-recurrir-multa-dgt-sin-abogado/" className="text-red-700 underline">Cómo recurrir una multa de la DGT sin abogado</Link></li>
+              <li><Link to="/blog/defectos-forma-anulan-multa-dgt/" className="text-red-700 underline">Defectos de forma que pueden anular tu multa</Link></li>
+              <li><Link to="/blog/recurrir-multa-radar-velocidad/" className="text-red-700 underline">Cómo recurrir una multa de radar de velocidad</Link></li>
+              <li><Link to="/blog/prescripcion-y-caducidad-de-las-multas-de-trafico-cuando-expira-una-sancion-de-la-dgt-plazos-legales-mitos-y-como-anular-expedientes-fuera-de-plazo/" className="text-red-700 underline">Prescripción de multas de tráfico: plazos</Link></li>
+              <li><Link to="/guias/vicios-forma/" className="text-red-700 underline">Guía: vicios de forma que pueden anular tu multa</Link></li>
+              <li><Link to="/guias/radares/" className="text-red-700 underline">Guía: radares de tráfico y cómo recurrir sus multas</Link></li>
+              <li><Link to="/herramientas/" className="text-red-700 underline">Herramientas gratis: calculadoras y conversores</Link></li>
             </ul>
           </section>
 

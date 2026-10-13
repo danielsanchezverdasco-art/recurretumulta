@@ -45,16 +45,16 @@ Y mientras Bruselas afila las cuotas, **BYD** mueve ficha en el escaparate: del 
 
 | Modelo | Tipo | Etiqueta DGT | Ficha |
 |---|---|---|---|
-| Omoda 9 SHS | Híbrido enchufable | Cero | <a href=/coches/omoda-9-shs-precio-ficha-tecnica>Ver ficha</a> |
-| Jaecoo 7 SHS | Híbrido enchufable | Cero | <a href=/coches/jaecoo-7-shs-hibrido-enchufable-precio-ficha-tecnica>Ver ficha</a> |
-| BYD Seal U DM-i | Híbrido enchufable | Cero | <a href=/coches/byd-seal-u-dm-i-precio-ficha-tecnica>Ver ficha</a> |
-| MG HS Hybrid+ | Híbrido (HEV) | ECO | <a href=/blog/mg-hs-hybrid-plus-225-cv-precio-espana>Ver análisis</a> |
+| Omoda 9 SHS | Híbrido enchufable | Cero | <a href=/coches/omoda-9-shs-precio-ficha-tecnica/>Ver ficha</a> |
+| Jaecoo 7 SHS | Híbrido enchufable | Cero | <a href=/coches/jaecoo-7-shs-hibrido-enchufable-precio-ficha-tecnica/>Ver ficha</a> |
+| BYD Seal U DM-i | Híbrido enchufable | Cero | <a href=/coches/byd-seal-u-dm-i-precio-ficha-tecnica/>Ver ficha</a> |
+| MG HS Hybrid+ | Híbrido (HEV) | ECO | <a href=/blog/mg-hs-hybrid-plus-225-cv-precio-espana/>Ver análisis</a> |
 
 <img src=/media/ue-bruselas-cuotas-hibridos-chinos-galeria-2.webp alt=Banderas de la Unión Europea ondeando frente a un edificio institucional, imagen editorial>
 
 ## Qué significa para tu bolsillo
 
-Si las cuotas entran en vigor, los PHEV chinos **dejarían de ser la ganga que son hoy**: el arancel por encima del cupo se trasladaría al precio final. Los que ya circulan por España no se verían afectados, y la etiqueta Cero seguiría dando acceso a todas las ZBE. La lectura práctica: si estabas mirando un híbrido enchufable chino, **2026 es el año para comprarlo**; en 2027 podría costar más. <a href=/comparador-coches>Compáralos en nuestro comparador</a> antes de decidir.
+Si las cuotas entran en vigor, los PHEV chinos **dejarían de ser la ganga que son hoy**: el arancel por encima del cupo se trasladaría al precio final. Los que ya circulan por España no se verían afectados, y la etiqueta Cero seguiría dando acceso a todas las ZBE. La lectura práctica: si estabas mirando un híbrido enchufable chino, **2026 es el año para comprarlo**; en 2027 podría costar más. <a href=/comparador-coches/>Compáralos en nuestro comparador</a> antes de decidir.
 
 ## Preguntas frecuentes
 
@@ -120,7 +120,7 @@ Primero, **empleo industrial de calidad**: 6.000 empleos directos más todo el e
 
 <img src=/media/renault-600-millones-electricos-espana-galeria-2.webp alt=Baterías de coche eléctrico en una línea de producción moderna, imagen editorial>
 
-Los eléctricos que Renault ya vende en España —del <a href=/coches/renault-5-e-tech-2026-precio-autonomia>Renault 5 E-Tech</a> al <a href=/coches/renault-megane-e-tech-2026-lfp-67-kwh-precio-ficha-tecnica>Mégane E-Tech con batería LFP</a>— son la avanzadilla de lo que Palencia producirá a gran escala. <a href=/comparador-coches>Compáralos en nuestro comparador de coches eléctricos</a> y <a href=/guias/ayudas-compra-coche-electrico-2026>revisa las ayudas vigentes para comprar un eléctrico en 2026</a>.
+Los eléctricos que Renault ya vende en España —del <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>Renault 5 E-Tech</a> al <a href=/coches/renault-megane-e-tech-2026-lfp-67-kwh-precio-ficha-tecnica/>Mégane E-Tech con batería LFP</a>— son la avanzadilla de lo que Palencia producirá a gran escala. <a href=/comparador-coches/>Compáralos en nuestro comparador de coches eléctricos</a> y <a href=/guias/ayudas-compra-coche-electrico-2026/>revisa las ayudas vigentes para comprar un eléctrico en 2026</a>.
 
 ## Preguntas frecuentes
 
@@ -260,7 +260,7 @@ Volkswagen lo explica sin rodeos: el nombre **Tiguan** —8,3 millones de unidad
 
 <img src=/media/volkswagen-id-tiguan-2027-galeria-2.webp alt=Salpicadero moderno de un SUV eléctrico con doble pantalla, imagen editorial>
 
-El ID.Tiguan peleará en el segmento C eléctrico europeo contra rivales como el Skoda Enyaq o el Hyundai Ioniq 5. <a href=/comparador-coches>Compáralos en nuestro comparador de coches eléctricos</a> mientras esperamos los datos definitivos del estreno de mañana.
+El ID.Tiguan peleará en el segmento C eléctrico europeo contra rivales como el Skoda Enyaq o el Hyundai Ioniq 5. <a href=/comparador-coches/>Compáralos en nuestro comparador de coches eléctricos</a> mientras esperamos los datos definitivos del estreno de mañana.
 
 ## Preguntas frecuentes
 
@@ -326,11 +326,11 @@ Medio siglo después del primer Golf GTI, las tres letras más famosas del autom
 
 ## Un GTI de verdad, sin gasolina
 
-Volkswagen no se ha limitado a pegar el logo: el ID. Polo GTI estrena puesta a punto específica, diferencial electrónico y la estética GTI de siempre (detalles rojos, asientos deportivos). Con 226 CV es el utilitario eléctrico alemán más divertido sobre el papel, y su rival natural —el Alpine A290— aún no tiene ficha en nuestro comparador: cuando la tenga, habrá duelo. De momento, <a href=/coches/volkswagen-id-polo-gti-2026-precio-ficha-tecnica>consulta la ficha técnica completa del ID. Polo GTI</a> con fotos oficiales, o <a href=/coches/volkswagen-id-polo-2026-precio-ficha-tecnica>mira la versión normal del ID. Polo</a> si buscas algo más racional.
+Volkswagen no se ha limitado a pegar el logo: el ID. Polo GTI estrena puesta a punto específica, diferencial electrónico y la estética GTI de siempre (detalles rojos, asientos deportivos). Con 226 CV es el utilitario eléctrico alemán más divertido sobre el papel, y su rival natural —el Alpine A290— aún no tiene ficha en nuestro comparador: cuando la tenga, habrá duelo. De momento, <a href=/coches/volkswagen-id-polo-gti-2026-precio-ficha-tecnica/>consulta la ficha técnica completa del ID. Polo GTI</a> con fotos oficiales, o <a href=/coches/volkswagen-id-polo-2026-precio-ficha-tecnica/>mira la versión normal del ID. Polo</a> si buscas algo más racional.
 
 ## El precio, con lupa
 
-Volkswagen abrió la preventa en Alemania en **39.995 €** y comunicó que la preventa de otoño quedará "**ligeramente inferior a 39.000 €**". Nuestra estimación para España —**≈39.000 €**— se basa en ese anuncio oficial, no en una conversión de divisa, y va marcada como **NO oficial** en todos los sitios donde aparece. En cuanto Volkswagen publique la tarifa española, la sustituiremos. <a href=/comparador-coches>Compáralo con sus rivales en el comparador</a>.
+Volkswagen abrió la preventa en Alemania en **39.995 €** y comunicó que la preventa de otoño quedará "**ligeramente inferior a 39.000 €**". Nuestra estimación para España —**≈39.000 €**— se basa en ese anuncio oficial, no en una conversión de divisa, y va marcada como **NO oficial** en todos los sitios donde aparece. En cuanto Volkswagen publique la tarifa española, la sustituiremos. <a href=/comparador-coches/>Compáralo con sus rivales en el comparador</a>.
 
 <img src=/media/volkswagen-id-polo-gti-electrico-2026-precio-galeria-2.webp alt=Interior deportivo de un hot hatch eléctrico con costuras rojas, imagen editorial>
 
@@ -390,7 +390,7 @@ Primera toma de contacto con el Dacia Striker, por <a href=https://www.youtube.c
 
 ## Dónde se coloca
 
-Con 4,62 m y 600 litros de maletero, el Striker juega en la liga del Skoda Octavia Combi pero a precio Dacia: por debajo de 25.000 € no hay rival familiar híbrido que se le acerque. En casa compite con su hermano mayor, el <a href=/coches/dacia-bigster-hybrid-155-2025-precio-ficha-tecnica>Bigster Hybrid 155</a>. <a href=/comparador-coches>Compáralos en nuestro comparador de coches</a> cuando Dacia publique la tarifa española.
+Con 4,62 m y 600 litros de maletero, el Striker juega en la liga del Skoda Octavia Combi pero a precio Dacia: por debajo de 25.000 € no hay rival familiar híbrido que se le acerque. En casa compite con su hermano mayor, el <a href=/coches/dacia-bigster-hybrid-155-2025-precio-ficha-tecnica/>Bigster Hybrid 155</a>. <a href=/comparador-coches/>Compáralos en nuestro comparador de coches</a> cuando Dacia publique la tarifa española.
 
 <img src=/media/dacia-striker-2026-precio-ficha-galeria-2.webp alt=Maletero amplio de un crossover familiar con maletas, imagen editorial>
 

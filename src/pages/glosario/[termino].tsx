@@ -19,7 +19,7 @@ export default function GlosarioMotorDetallePage() {
         <main className="max-w-4xl mx-auto px-4 pt-16 pb-16 text-center">
           <h1 className="text-3xl font-extrabold mb-4">Ese término no existe</h1>
           <p className="text-slate-600 mb-8">No tenemos ese término en el glosario. Estos son los 10 que explicamos:</p>
-          <Link to="/glosario" className="inline-flex items-center gap-2 bg-slate-900 hover:bg-slate-800 text-white font-bold py-3 px-8 rounded-xl transition">
+          <Link to="/glosario/" className="inline-flex items-center gap-2 bg-slate-900 hover:bg-slate-800 text-white font-bold py-3 px-8 rounded-xl transition">
             <ArrowLeft className="h-5 w-5" /> Volver al glosario
           </Link>
         </main>
@@ -77,7 +77,7 @@ function TerminoPage({
   useSeo({
     title: `¿Qué es ${t.nombre}?`,
     description: `${t.nombre}: ${defCorta}`,
-    canonical: `/glosario/${t.slug}`,
+    canonical: `/glosario/${t.slug}/`,
     schema,
   });
 
@@ -95,7 +95,7 @@ function TerminoPage({
             <motion.nav initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.5 }} aria-label="Migas de pan" className="flex items-center gap-1.5 text-xs text-white/60">
               <Link to="/" className="hover:text-white">Inicio</Link>
               <span aria-hidden="true">/</span>
-              <Link to="/glosario" className="hover:text-white">Glosario del coche eléctrico</Link>
+              <Link to="/glosario/" className="hover:text-white">Glosario del coche eléctrico</Link>
               <span aria-hidden="true">/</span>
               <span className="text-white/40">{t.nombre}</span>
             </motion.nav>
@@ -132,14 +132,14 @@ function TerminoPage({
           </h2>
           <p className="text-slate-600 mb-4">
             {t.ejemplo.texto}{" "}
-            <Link to={`/coches/${t.ejemplo.cocheId}`} className="text-red-600 font-semibold hover:underline">
+            <Link to={`/coches/${t.ejemplo.cocheId}/`} className="text-red-600 font-semibold hover:underline">
               Ver ficha del {t.ejemplo.cocheNombre}
             </Link>
           </p>
           {t.ejemplo2 && (
             <p className="text-slate-600">
               {t.ejemplo2.texto}{" "}
-              <Link to={`/coches/${t.ejemplo2.cocheId}`} className="text-red-600 font-semibold hover:underline">
+              <Link to={`/coches/${t.ejemplo2.cocheId}/`} className="text-red-600 font-semibold hover:underline">
                 Ver ficha del {t.ejemplo2.cocheNombre}
               </Link>
             </p>
@@ -162,7 +162,7 @@ function TerminoPage({
               {relacionados.map((r) => (
                 <Link
                   key={r.slug}
-                  to={`/glosario/${r.slug}`}
+                  to={`/glosario/${r.slug}/`}
                   className="inline-flex items-center gap-1 bg-white border border-slate-200 hover:border-red-400 rounded-full px-4 py-2 text-sm font-semibold text-slate-700 hover:text-red-700 transition"
                 >
                   ¿Qué es {r.nombre}? <ArrowRight className="h-4 w-4" />
@@ -184,15 +184,15 @@ function TerminoPage({
           <ul className="list-disc pl-5 space-y-1 text-sm text-slate-600">
             <li><a href="https://www.dgt.es" target="_blank" rel="noopener noreferrer" className="text-red-600 font-semibold hover:underline">DGT</a>: etiquetas ambientales y normativa de vehículos.</li>
             <li><a href="https://www.boe.es" target="_blank" rel="noopener noreferrer" className="text-red-600 font-semibold hover:underline">BOE</a>: reglamentos y normativa aplicable.</li>
-            <li><Link to="/comparador-coches" className="text-red-600 font-semibold hover:underline">Comparador de coches</Link>: fichas técnicas de las que salen los ejemplos de cada término.</li>
+            <li><Link to="/comparador-coches/" className="text-red-600 font-semibold hover:underline">Comparador de coches</Link>: fichas técnicas de las que salen los ejemplos de cada término.</li>
           </ul>
         </div>
 
         <div className="flex flex-col sm:flex-row gap-3 mb-10">
-          <Link to="/glosario" className="inline-flex items-center justify-center gap-2 border border-slate-300 bg-white hover:bg-slate-100 text-slate-800 font-bold py-3 px-6 rounded-xl transition">
+          <Link to="/glosario/" className="inline-flex items-center justify-center gap-2 border border-slate-300 bg-white hover:bg-slate-100 text-slate-800 font-bold py-3 px-6 rounded-xl transition">
             <ArrowLeft className="h-5 w-5" /> Todo el glosario
           </Link>
-          <Link to="/comparador-coches" className="inline-flex items-center justify-center gap-2 bg-slate-900 hover:bg-slate-800 text-white font-bold py-3 px-6 rounded-xl transition">
+          <Link to="/comparador-coches/" className="inline-flex items-center justify-center gap-2 bg-slate-900 hover:bg-slate-800 text-white font-bold py-3 px-6 rounded-xl transition">
             Comparar los 26 coches <ArrowRight className="h-5 w-5" />
           </Link>
         </div>

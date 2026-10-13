@@ -24,7 +24,7 @@ export const SOLKUNO_C_POSTS: BlogPost[] = [
     ],
     "content": `<img src=/media/aito-m8-huawei-suv.webp alt=SUV Aito M8 de Huawei y Seres con LiDAR en el techo circulando por una carretera de montaña al atardecer>
 
-Puedes <a href=/coches/aito-m8-huawei-2026-precio-ficha-tecnica>ver la ficha técnica completa del Aito M8</a> con todos los datos.
+Puedes <a href=/coches/aito-m8-huawei-2026-precio-ficha-tecnica/>ver la ficha técnica completa del Aito M8</a> con todos los datos.
 
 **1.526 km de autonomía combinada, 533 CV y más de 100.000 reservas en 32 días.** El Aito M8 es el SUV con el que Huawei y Seres han decidido ir a por el segmento familiar premium en China: el "hermano menor" del M9, más barato pero con la misma receta que está arrasando — eléctrico de autonomía extendida (EREV), conducción asistida con LiDAR y un interior de seis plazas pensado para viajar en primera clase. Desde **368.000 yuanes (unos 50.540 dólares)**, cuesta lo que un SUV alemán medio... pero ofrece lo de uno alemán grande. <a href=/comparador-coches/>Compáralo con sus rivales en nuestro comparador</a>.
 
@@ -116,7 +116,7 @@ En el día a día, sí: con 201-310 km de autonomía eléctrica cubres la semana
     ],
     "content": `<img src=/media/deepal-s09-suv-grande.webp alt=SUV Deepal S09 de Changan, grande y lujoso, en una ciudad moderna al atardecer>
 
-Puedes <a href=/coches/deepal-s09-2026-precio-ficha-tecnica>ver la ficha técnica completa del Deepal S09</a> con todos los datos.
+Puedes <a href=/coches/deepal-s09-2026-precio-ficha-tecnica/>ver la ficha técnica completa del Deepal S09</a> con todos los datos.
 
 **21.000 unidades vendidas en dos meses y un precio que parece un error: desde 239.900 yuanes (unos 29.370 €).** El Deepal S09 es el SUV grande de la marca tecnológica de Changan, y su carta de presentación es brutal: 5,2 metros, seis plazas, hasta **220 km de autonomía eléctrica** y un motor 1.5 turbo que solo actúa como generador. Lleva dentro tecnología de Huawei (conducción asistida con LiDAR y HarmonyOS), suspensión neumática y una garantía de por vida para el sistema eléctrico. Es la prueba de que el lujo familiar chino ya no pide perdón. <a href=/comparador-coches/>Mídelo frente a sus rivales en el comparador</a>.
 
@@ -209,7 +209,7 @@ Sí: el <a href=/blog/deepal-s07-2025-precio-ficha-tecnica/>Deepal S07</a> ya se
     ],
     "content": `<img src=/media/im-ls9-suv-insignia.webp alt=SUV insignia IM LS9 en una carretera costera al atardecer>
 
-Puedes <a href=/coches/im-ls9-2026-precio-ficha-tecnica>ver la ficha técnica completa del IM LS9</a> con todos los datos.
+Puedes <a href=/coches/im-ls9-2026-precio-ficha-tecnica/>ver la ficha técnica completa del IM LS9</a> con todos los datos.
 
 **402 km en modo 100% eléctrico, 1.508 km de autonomía combinada y 523 CV por 322.800 yuanes (unos 45.360 dólares).** El IM LS9 es el buque insignia de IM Motors, la marca premium de SAIC Motor (la de MG) nacida de la alianza con Alibaba, y viene a decirle al BMW X7 que su era se acaba: arquitectura de 800 voltios, batería CATL Freevoy, dos motores, LiDAR de 520 líneas y un interior con doble pantalla MiniLED 5K de 27,1 pulgadas. Se lanzó en China el 12 de noviembre de 2025 con una rebaja de 14.000 yuanes sobre la preventa. Y lo mejor: IM ya vende en Europa a través de la red de MG. <a href=/comparador-coches/>Enfréntalo a sus rivales en el comparador</a>.
 

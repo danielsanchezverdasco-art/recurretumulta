@@ -58,7 +58,7 @@ Y hay una noticia mejor para el bolsillo: **Zero baja los precios** de varios mo
 
 Son precios del Benelux; **el precio para España de la edición aniversario está sin confirmar** por la marca. La edición se venderá solo en concesionarios participantes hasta agotar las 20 unidades europeas.
 
-Si te interesa la SR/F de serie, tienes su <a href=/motos/zero-sr-f-2024-ficha-tecnica-precio>ficha técnica completa en el comparador de motos</a> y el análisis de su hermana trail en <a href=/blog/zero-ds-2026-ficha-tecnica-precio>Zero DS 2026: ficha y precio</a>. Y si buscas comparar eléctricas, entra al <a href=/comparador-motos>comparador de motos eléctricas</a>.
+Si te interesa la SR/F de serie, tienes su <a href=/motos/zero-sr-f-2024-ficha-tecnica-precio/>ficha técnica completa en el comparador de motos</a> y el análisis de su hermana trail en <a href=/blog/zero-ds-2026-ficha-tecnica-precio/>Zero DS 2026: ficha y precio</a>. Y si buscas comparar eléctricas, entra al <a href=/comparador-motos/>comparador de motos eléctricas</a>.
 
 Vídeo oficial de la edición aniversario (canal oficial de Zero Motorcycles):
 
@@ -147,12 +147,12 @@ El equipamiento es de moto grande de verdad: **ABS en curva con IMU**, control d
 | Modelo | Precio | Potencia | Autonomía | Carga rápida |
 |---|---|---|---|---|
 | **Honda WN7** | **15.000 €** | 50 kW (68 CV) | 140 km WMTC | **CCS2 (30 min)** |
-| <a href=/motos/zero-sr-f-2024-ficha-tecnica-precio>Zero SR/F</a> | ~21.090 € | 83 kW (113 CV) | 283 km (ciudad) | No (opcional) |
-| <a href=/blog/flying-flea-c6-moto-electrica-royal-enfield-5990-euros>Royal Enfield Flying Flea C6</a> | 5.990 € | 15,4 kW (21 CV) | 104 km WMTC | No |
+| <a href=/motos/zero-sr-f-2024-ficha-tecnica-precio/>Zero SR/F</a> | ~21.090 € | 83 kW (113 CV) | 283 km (ciudad) | No (opcional) |
+| <a href=/blog/flying-flea-c6-moto-electrica-royal-enfield-5990-euros/>Royal Enfield Flying Flea C6</a> | 5.990 € | 15,4 kW (21 CV) | 104 km WMTC | No |
 
 La WN7 se sitúa justo en el hueco entre la urbana asequible (Flying Flea) y la premium americana (Zero SR/F): **más moto que la primera, mucho más barata que la segunda**, y la única de las tres con carga rápida de verdad. Su punto débil es el de todas: 140 km WMTC dan para el día a día y poco más. En una prueba real con conducción deportiva en modo Sport, una unidad de pruebas se quedó en **96 km**; con pilotaje sensato debería superar los 120 km sin problema.
 
-Tienes la <a href=/motos/honda-wn7-electrica-precio-espana-15000>ficha técnica completa de la Honda WN7 en el comparador</a>, con galería de fotos oficiales, y puedes cotejarla con el resto en el <a href=/comparador-motos>comparador de motos eléctricas</a>.
+Tienes la <a href=/motos/honda-wn7-electrica-precio-espana-15000/>ficha técnica completa de la Honda WN7 en el comparador</a>, con galería de fotos oficiales, y puedes cotejarla con el resto en el <a href=/comparador-motos/>comparador de motos eléctricas</a>.
 
 ## Preguntas frecuentes
 
@@ -172,7 +172,7 @@ Con **carga rápida CCS2** pasa del 20 al 80% en **30 minutos**. En un enchufe d
 Sí: la **carcasa de la batería funciona como elemento estructural**, sin un chasis tubular tradicional. Es una de las soluciones más atrevidas vistas en una moto eléctrica de serie.
 
 ### ¿Dónde puedo ver la ficha técnica completa?
-En la <a href=/motos/honda-wn7-electrica-precio-espana-15000>ficha de la Honda WN7 del comparador</a>, con fotos oficiales, pros y contras y todos los datos verificados.
+En la <a href=/motos/honda-wn7-electrica-precio-espana-15000/>ficha de la Honda WN7 del comparador</a>, con fotos oficiales, pros y contras y todos los datos verificados.
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
 },

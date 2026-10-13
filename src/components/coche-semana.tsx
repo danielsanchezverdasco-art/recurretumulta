@@ -63,7 +63,7 @@ export default function CocheSemana() {
 
           <div className="flex flex-col gap-2 pt-1">
             <Link
-              to={`/coches/${coche.id}`}
+              to={`/coches/${coche.id}/`}
               className="inline-flex items-center justify-center gap-2 rounded-xl bg-red-600 px-4 py-2.5 text-sm font-bold text-white transition hover:bg-red-700"
             >
               <Car className="h-4 w-4" />
@@ -78,7 +78,7 @@ export default function CocheSemana() {
                 Comparar
               </Link>
               {analisis && <Link
-                to={`/blog/${analisis}`}
+                to={`/blog/${analisis}/`}
                 className="inline-flex items-center justify-center gap-1.5 rounded-xl border border-gray-200 px-3 py-2 text-sm font-semibold text-gray-700 transition hover:border-red-300 hover:text-red-600"
               >
                 <Newspaper className="h-4 w-4" />
@@ -93,7 +93,7 @@ export default function CocheSemana() {
         {esEditorial
           ? "Elección editorial de la redacción."
           : "Selección automática rotativa entre los modelos de nuestro comparador."}{" "}
-        <Link to="/comparador-coches" className="font-semibold text-red-600 hover:underline">
+        <Link to="/comparador-coches/" className="font-semibold text-red-600 hover:underline">
           Ver todos los modelos
           <ArrowRight className="ml-1 inline h-3 w-3" />
         </Link>

@@ -67,7 +67,7 @@ export default function GraciasReportePage() {
                 Volver al inicio
               </Link>
               <Link
-                to="/reportar-carretera"
+                to="/reportar-carretera/"
                 className="inline-block min-h-[52px] leading-[52px] px-8 bg-white border-2 border-gray-900 text-gray-900 font-black rounded-xl hover:bg-gray-100 transition-colors"
               >
                 Hacer otro reporte

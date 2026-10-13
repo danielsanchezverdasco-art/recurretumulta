@@ -225,7 +225,7 @@ export default function MetodologiaPage() {
           <li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514" target="_blank" rel="noopener noreferrer" className="text-red-600 hover:underline font-medium">Reglamento General de Circulación (RD 1428/2003)</a> y su reforma por <a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13889" target="_blank" rel="noopener noreferrer" className="text-red-600 hover:underline font-medium">RD 518/2026</a>, en vigor desde el 1 de octubre de 2026.</li>
           <li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722" target="_blank" rel="noopener noreferrer" className="text-red-600 hover:underline font-medium">Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial (RDL 6/2015)</a>.</li>
           <li><a href="https://sede.dgt.gob.es/" target="_blank" rel="noopener noreferrer" className="text-red-600 hover:underline font-medium">Sede electrónica de la DGT</a>: notificaciones, DEV y consulta de sanciones.</li>
-          <li><Link to="/glosario-multa" className="text-red-600 hover:underline font-medium">Glosario de tu multa</Link> y <Link to="/buscador-codigo-multa" className="text-red-600 hover:underline font-medium">buscador de infracciones</Link>: nuestras herramientas para entender tu denuncia.</li>
+          <li><Link to="/glosario-multa/" className="text-red-600 hover:underline font-medium">Glosario de tu multa</Link> y <Link to="/buscador-codigo-multa/" className="text-red-600 hover:underline font-medium">buscador de infracciones</Link>: nuestras herramientas para entender tu denuncia.</li>
         </ul>
 
         <h2 className="text-2xl font-bold mt-10 mb-6">Preguntas frecuentes</h2>

@@ -15,7 +15,7 @@ export const MOTOS_EXP_M14_POSTS: BlogPost[] = [
     keywords: ["Zero SR/S", "moto eléctrica deportiva", "Zero SR/S 2025 precio", "moto eléctrica 200 km/h", "ficha técnica Zero SR/S", "motos eléctricas carnet A"],
     content: `<img src=/media/motos/zero-sr-s-2025-ficha-tecnica-precio-1.webp alt=Zero SR/S 2025, deportiva eléctrica>
 
-La <a href=/motos/zero-sr-s-2025-ficha-tecnica-precio>Zero SR/S 2025</a> es la apuesta de Zero Motorcycles por la deportiva eléctrica de carretera: 111 CV, 190 Nm instantáneos y 200 km/h de velocidad máxima, con carenado completo para usarla a diario. Es la hermana carenada de la SR/F y una de las eléctricas más rápidas que se pueden comprar con el carnet A.
+La <a href=/motos/zero-sr-s-2025-ficha-tecnica-precio/>Zero SR/S 2025</a> es la apuesta de Zero Motorcycles por la deportiva eléctrica de carretera: 111 CV, 190 Nm instantáneos y 200 km/h de velocidad máxima, con carenado completo para usarla a diario. Es la hermana carenada de la SR/F y una de las eléctricas más rápidas que se pueden comprar con el carnet A.
 
 ## Ficha técnica resumida
 
@@ -45,7 +45,7 @@ Las eléctricas Zero no tienen aceite, filtros ni bujías que cambiar: el manten
 
 ## Precio y rivales
 
-Zero no publica precio oficial en España para la SR/S 2025; en EE. UU. parte de 20.995 $. Sus rivales naturales son la <a href=/motos/zero-sr-2025-ficha-tecnica-precio>Zero SR 2025</a>, la <a href=/motos/zero-sr-f-2024-ficha-tecnica-precio>Zero SR/F 2024</a> y, en combustión, las deportivas de media cilindrada con carnet A.
+Zero no publica precio oficial en España para la SR/S 2025; en EE. UU. parte de 20.995 $. Sus rivales naturales son la <a href=/motos/zero-sr-2025-ficha-tecnica-precio/>Zero SR 2025</a>, la <a href=/motos/zero-sr-f-2024-ficha-tecnica-precio/>Zero SR/F 2024</a> y, en combustión, las deportivas de media cilindrada con carnet A.
 
 ## Preguntas frecuentes
 
@@ -84,7 +84,7 @@ Es la Zero más rutera por su carenado, pero la autonomía en autopista obliga a
     keywords: ["Zero DSR/X", "trail eléctrica", "Zero DSR/X 2025 precio", "moto trail eléctrica", "ficha técnica Zero DSR/X", "motos eléctricas carnet A"],
     content: `<img src=/media/motos/zero-dsr-x-2025-ficha-tecnica-precio-1.webp alt=Zero DSR/X 2025, trail eléctrica>
 
-La <a href=/motos/zero-dsr-x-2025-ficha-tecnica-precio>Zero DSR/X 2025</a> es la trail eléctrica más potente del mercado: 100 CV, 229 Nm y una batería de 17,3 kWh que le da 288 km de autonomía urbana declarada. Con suspensiones de largo recorrido y electrónica Bosch, es la primera eléctrica que puede mirar de tú a tú a las trail de combustión en uso mixto.
+La <a href=/motos/zero-dsr-x-2025-ficha-tecnica-precio/>Zero DSR/X 2025</a> es la trail eléctrica más potente del mercado: 100 CV, 229 Nm y una batería de 17,3 kWh que le da 288 km de autonomía urbana declarada. Con suspensiones de largo recorrido y electrónica Bosch, es la primera eléctrica que puede mirar de tú a tú a las trail de combustión en uso mixto.
 
 ## Ficha técnica resumida
 
@@ -115,7 +115,7 @@ Sin aceite ni filtros: neumáticos, frenos, correa y software. La garantía euro
 
 ## Precio y rivales
 
-En Europa se vende por 23.895 €, precio de trail premium de combustión. Sus rivales eléctricos son la <a href=/motos/zero-dsr-2025-ficha-tecnica-precio>Zero DSR 2025</a> y la <a href=/motos/zero-dsr-x-2024-ficha-tecnica-precio>Zero DSR/X 2024</a>; en combustión compite con las trail medias de 700-900 cc.
+En Europa se vende por 23.895 €, precio de trail premium de combustión. Sus rivales eléctricos son la <a href=/motos/zero-dsr-2025-ficha-tecnica-precio/>Zero DSR 2025</a> y la <a href=/motos/zero-dsr-x-2024-ficha-tecnica-precio/>Zero DSR/X 2024</a>; en combustión compite con las trail medias de 700-900 cc.
 
 ## Preguntas frecuentes
 
@@ -154,7 +154,7 @@ Sí, el modo Parking permite moverla marcha atrás con el acelerador.
     keywords: ["NIU FQi 500", "scooter eléctrico 125", "NIU FQi 500 precio", "moto eléctrica A1", "ficha técnica NIU FQi 500", "scooter eléctrico baterías extraíbles"],
     content: `<img src=/media/motos/niu-fqi-500-2025-ficha-tecnica-precio-1.webp alt=NIU FQi 500 2025, scooter eléctrico>
 
-El <a href=/motos/niu-fqi-500-2025-ficha-tecnica-precio>NIU FQi 500 2025</a> es la gran apuesta urbana de NIU: un scooter equivalente a 125 con motor de 6,4 kW, 95 km/h de punta y dos baterías extraíbles, por 3.799 €. Llega para plantar cara a los scooters de gasolina en su propio terreno: el precio.
+El <a href=/motos/niu-fqi-500-2025-ficha-tecnica-precio/>NIU FQi 500 2025</a> es la gran apuesta urbana de NIU: un scooter equivalente a 125 con motor de 6,4 kW, 95 km/h de punta y dos baterías extraíbles, por 3.799 €. Llega para plantar cara a los scooters de gasolina en su propio terreno: el precio.
 
 ## Ficha técnica resumida
 
@@ -184,7 +184,7 @@ El mantenimiento de un scooter eléctrico NIU se reduce a neumáticos, frenos y 
 
 ## Precio y rivales
 
-Por 3.799 € es uno de los equivalentes a 125 eléctricos más baratos. Compite con el <a href=/motos/niu-mqi-gt-evo-ficha-tecnica-precio>NIU MQi GT Evo</a>, el <a href=/motos/niu-nqix-500-2026-ficha-tecnica-precio>NIU NQiX 500</a> y los scooters de gasolina de 125 cc.
+Por 3.799 € es uno de los equivalentes a 125 eléctricos más baratos. Compite con el <a href=/motos/niu-mqi-gt-evo-ficha-tecnica-precio/>NIU MQi GT Evo</a>, el <a href=/motos/niu-nqix-500-2026-ficha-tecnica-precio/>NIU NQiX 500</a> y los scooters de gasolina de 125 cc.
 
 ## Preguntas frecuentes
 
@@ -223,7 +223,7 @@ No: las dos baterías ocupan todo el hueco. Hay que usar un baúl o llevar el ca
     keywords: ["NIU MQi GT Evo", "scooter eléctrico 100 km/h", "NIU MQi GT Evo precio", "moto eléctrica A1", "ficha técnica MQi GT Evo", "NIU scooter eléctrico"],
     content: `<img src=/media/motos/niu-mqi-gt-evo-2025-ficha-tecnica-precio-1.webp alt=NIU MQi GT Evo 2025, scooter eléctrico>
 
-El <a href=/motos/niu-mqi-gt-evo-2025-ficha-tecnica-precio>NIU MQi GT Evo 2025</a> es el scooter más rápido de la gama clásica de NIU: 100 km/h de punta, motor Bosch de 6,5 kW y un asiento un 30% más largo que la serie NQi para viajar a dúo. Por 4.999 € es la opción cómoda para quien quiere un eléctrico equivalente a 125 sin renunciar al pasajero.
+El <a href=/motos/niu-mqi-gt-evo-2025-ficha-tecnica-precio/>NIU MQi GT Evo 2025</a> es el scooter más rápido de la gama clásica de NIU: 100 km/h de punta, motor Bosch de 6,5 kW y un asiento un 30% más largo que la serie NQi para viajar a dúo. Por 4.999 € es la opción cómoda para quien quiere un eléctrico equivalente a 125 sin renunciar al pasajero.
 
 ## Ficha técnica resumida
 
@@ -254,7 +254,7 @@ Como eléctrico, el mantenimiento se limita a neumáticos, frenos y software. La
 
 ## Precio y rivales
 
-Cuesta 4.999 €. Sus rivales en la casa son el <a href=/motos/niu-nqix-500-2026-ficha-tecnica-precio>NIU NQiX 500</a> y el <a href=/motos/niu-rqi-sport-2025-ficha-tecnica-precio>NIU RQi Sport</a>; fuera, los scooters de gasolina de 125 cc.
+Cuesta 4.999 €. Sus rivales en la casa son el <a href=/motos/niu-nqix-500-2026-ficha-tecnica-precio/>NIU NQiX 500</a> y el <a href=/motos/niu-rqi-sport-2025-ficha-tecnica-precio/>NIU RQi Sport</a>; fuera, los scooters de gasolina de 125 cc.
 
 ## Preguntas frecuentes
 
@@ -293,7 +293,7 @@ Sí, con 3 años de antigüedad, como todo equivalente a 125.
     keywords: ["NIU NQiX 500", "scooter eléctrico rápido", "NIU NQiX 500 precio", "moto eléctrica A1", "ficha técnica NQiX 500", "scooter eléctrico ABS"],
     content: `<img src=/media/motos/niu-nqix-500-2025-ficha-tecnica-precio-1.webp alt=NIU NQiX 500 2025, scooter eléctrico>
 
-El <a href=/motos/niu-nqix-500-2025-ficha-tecnica-precio>NIU NQiX 500 2025</a> es la evolución más radical del mítico NQi: 0-50 km/h en 2,8 segundos, 100 km/h de punta y un modo Boost que exprime 9 kW para los adelantamientos. Con ABS y control de tracción de serie, es el scooter urbano de NIU más completo.
+El <a href=/motos/niu-nqix-500-2025-ficha-tecnica-precio/>NIU NQiX 500 2025</a> es la evolución más radical del mítico NQi: 0-50 km/h en 2,8 segundos, 100 km/h de punta y un modo Boost que exprime 9 kW para los adelantamientos. Con ABS y control de tracción de serie, es el scooter urbano de NIU más completo.
 
 ## Ficha técnica resumida
 
@@ -323,7 +323,7 @@ Neumáticos, frenos y software: eso es todo. La garantía oficial de NIU es de <
 
 ## Precio y rivales
 
-En Europa ronda los 4.500 €. Compite con el <a href=/motos/niu-mqi-gt-evo-ficha-tecnica-precio>NIU MQi GT Evo</a>, el <a href=/motos/niu-nqix-300-2026-ficha-tecnica-precio>NIU NQiX 300</a> y los scooters deportivos de 125 cc de gasolina.
+En Europa ronda los 4.500 €. Compite con el <a href=/motos/niu-mqi-gt-evo-ficha-tecnica-precio/>NIU MQi GT Evo</a>, el <a href=/motos/niu-nqix-300-2026-ficha-tecnica-precio/>NIU NQiX 300</a> y los scooters deportivos de 125 cc de gasolina.
 
 ## Preguntas frecuentes
 
@@ -362,7 +362,7 @@ Sí, admite un integral pese a la doble batería.
     keywords: ["Silence S02 LS", "ciclomotor eléctrico", "Silence S02 LS precio", "moto eléctrica carnet AM", "batería extraíble trolley", "Silence S02 ficha técnica"],
     content: `<img src=/media/motos/silence-s02-ls-2025-ficha-tecnica-precio-1.webp alt=Silence S02 LS 2025, ciclomotor eléctrico>
 
-La <a href=/motos/silence-s02-ls-2025-ficha-tecnica-precio>Silence S02 LS 2025</a> es la versión ciclomotor de la popular S02: 45 km/h, motor de 1,5 kW y la famosa batería extraíble tipo trolley con ruedas. Se conduce con el carnet AM desde los 15 años y es la favorita de las flotas de reparto urbanas.
+La <a href=/motos/silence-s02-ls-2025-ficha-tecnica-precio/>Silence S02 LS 2025</a> es la versión ciclomotor de la popular S02: 45 km/h, motor de 1,5 kW y la famosa batería extraíble tipo trolley con ruedas. Se conduce con el carnet AM desde los 15 años y es la favorita de las flotas de reparto urbanas.
 
 ## Ficha técnica resumida
 
@@ -391,7 +391,7 @@ El plan de mantenimiento de Silence se limita a revisiones de neumáticos, freno
 
 ## Precio y rivales
 
-Silence no publica un PVP fijo para la S02 LS (se vende mucho a flotas). Sus rivales son la <a href=/motos/silence-s02-2025-ficha-tecnica-precio>Silence S02 2025</a> (su hermana de 90 km/h), la <a href=/motos/silence-s01-ficha-tecnica-precio>Silence S01</a> y los ciclomotores eléctricos de reparto.
+Silence no publica un PVP fijo para la S02 LS (se vende mucho a flotas). Sus rivales son la <a href=/motos/silence-s02-2025-ficha-tecnica-precio/>Silence S02 2025</a> (su hermana de 90 km/h), la <a href=/motos/silence-s01-ficha-tecnica-precio/>Silence S01</a> y los ciclomotores eléctricos de reparto.
 
 ## Preguntas frecuentes
 
@@ -430,7 +430,7 @@ En Barcelona: Silence produce sus propias baterías en la Zona Franca.
     keywords: ["Silence S01+", "scooter eléctrico 125", "Silence S01+ precio", "moto eléctrica A1", "ficha técnica Silence S01+", "scooter eléctrico autonomía"],
     content: `<img src=/media/motos/silence-s01-plus-2025-ficha-tecnica-precio-1.webp alt=Silence S01+ 2025, scooter eléctrico>
 
-La <a href=/motos/silence-s01-plus-2025-ficha-tecnica-precio>Silence S01+ 2025</a> es la versión de gran autonomía del scooter barcelonés: 133 km declarados, 100 km/h de punta y la batería extraíble tipo trolley que hizo famosa a la marca. Por 4.990 € es el equivalente a 125 eléctrico con más autonomía del mercado español.
+La <a href=/motos/silence-s01-plus-2025-ficha-tecnica-precio/>Silence S01+ 2025</a> es la versión de gran autonomía del scooter barcelonés: 133 km declarados, 100 km/h de punta y la batería extraíble tipo trolley que hizo famosa a la marca. Por 4.990 € es el equivalente a 125 eléctrico con más autonomía del mercado español.
 
 ## Ficha técnica resumida
 
@@ -460,7 +460,7 @@ Silence publica una garantía de <strong>2 años en el vehículo y 3 años o 30.
 
 ## Precio y rivales
 
-Cuesta 4.990 €. Sus rivales son la <a href=/motos/silence-s01-ficha-tecnica-precio>Silence S01</a>, la <a href=/motos/silence-s03-2025-ficha-tecnica-precio>Silence S03 2025</a> y los scooters de gasolina de 125 cc.
+Cuesta 4.990 €. Sus rivales son la <a href=/motos/silence-s01-ficha-tecnica-precio/>Silence S01</a>, la <a href=/motos/silence-s03-2025-ficha-tecnica-precio/>Silence S03 2025</a> y los scooters de gasolina de 125 cc.
 
 ## Preguntas frecuentes
 
@@ -499,7 +499,7 @@ Sí: SEAT la comercializó como SEAT MÓ eScooter 125.
     keywords: ["Horwin SK1", "ciclomotor eléctrico", "Horwin SK1 precio", "moto eléctrica carnet AM", "ficha técnica Horwin SK1", "Horwin scooter eléctrico"],
     content: `<img src=/media/motos/horwin-sk1-2025-ficha-tecnica-precio-1.webp alt=Horwin SK1 2025, ciclomotor eléctrico>
 
-El <a href=/motos/horwin-sk1-2025-ficha-tecnica-precio>Horwin SK1 2025</a> es la puerta de entrada a la gama Horwin: un ciclomotor eléctrico de 45 km/h con hasta 96 km de autonomía declarada y batería extraíble. Se conduce con el carnet AM desde los 15 años y comparte chasis con su hermano mayor, el SK3.
+El <a href=/motos/horwin-sk1-2025-ficha-tecnica-precio/>Horwin SK1 2025</a> es la puerta de entrada a la gama Horwin: un ciclomotor eléctrico de 45 km/h con hasta 96 km de autonomía declarada y batería extraíble. Se conduce con el carnet AM desde los 15 años y comparte chasis con su hermano mayor, el SK3.
 
 ## Ficha técnica resumida
 
@@ -528,7 +528,7 @@ Como eléctrico ligero, el mantenimiento se limita a neumáticos, frenos y elect
 
 ## Precio y rivales
 
-Horwin no publica PVP oficial en España para el SK1 (en Europa se lanzó en torno a 3.690 €). Sus rivales son el <a href=/motos/horwin-sk3-2025-ficha-tecnica-precio>Horwin SK3 2025</a> (su hermano de 95 km/h), el <a href=/motos/horwin-ek1-2025-ficha-tecnica-precio>Horwin EK1 2025</a> y los ciclomotores eléctricos urbanos.
+Horwin no publica PVP oficial en España para el SK1 (en Europa se lanzó en torno a 3.690 €). Sus rivales son el <a href=/motos/horwin-sk3-2025-ficha-tecnica-precio/>Horwin SK3 2025</a> (su hermano de 95 km/h), el <a href=/motos/horwin-ek1-2025-ficha-tecnica-precio/>Horwin EK1 2025</a> y los ciclomotores eléctricos urbanos.
 
 ## Preguntas frecuentes
 
@@ -567,7 +567,7 @@ Es una marca austriaca con producción en China y distribución europea propia.
     keywords: ["Horwin EK3", "scooter eléctrico 95 km/h", "Horwin EK3 precio", "moto eléctrica A1", "ficha técnica Horwin EK3", "scooter eléctrico diseño"],
     content: `<img src=/media/motos/horwin-ek3-2025-ficha-tecnica-precio-1.webp alt=Horwin EK3 2025, scooter eléctrico>
 
-El <a href=/motos/horwin-ek3-2025-ficha-tecnica-precio>Horwin EK3 2025</a> es el scooter eléctrico que ganó el premio Red Dot de diseño: 95 km/h de punta, batería Samsung extraíble y una segunda batería opcional que eleva la autonomía hasta 200 km. Por 4.490 € es el eléctrico con más estilo de su segmento.
+El <a href=/motos/horwin-ek3-2025-ficha-tecnica-precio/>Horwin EK3 2025</a> es el scooter eléctrico que ganó el premio Red Dot de diseño: 95 km/h de punta, batería Samsung extraíble y una segunda batería opcional que eleva la autonomía hasta 200 km. Por 4.490 € es el eléctrico con más estilo de su segmento.
 
 ## Ficha técnica resumida
 
@@ -597,7 +597,7 @@ Eléctrico sin mantenimiento mecánico relevante: neumáticos, frenos y software
 
 ## Precio y rivales
 
-Cuesta 4.490 € (la segunda batería es opcional y encarece el conjunto). Compite con el <a href=/motos/horwin-ek3-ficha-tecnica-precio>Horwin EK3</a> de años anteriores, el <a href=/motos/horwin-sk3-2025-ficha-tecnica-precio>Horwin SK3 2025</a> y los scooters eléctricos equivalentes a 125.
+Cuesta 4.490 € (la segunda batería es opcional y encarece el conjunto). Compite con el <a href=/motos/horwin-ek3-ficha-tecnica-precio/>Horwin EK3</a> de años anteriores, el <a href=/motos/horwin-sk3-2025-ficha-tecnica-precio/>Horwin SK3 2025</a> y los scooters eléctricos equivalentes a 125.
 
 ## Preguntas frecuentes
 
@@ -636,7 +636,7 @@ Sí, con 3 años de antigüedad.
     keywords: ["Horwin CR6", "café racer eléctrica", "Horwin CR6 precio", "moto eléctrica A1", "ficha técnica Horwin CR6", "moto eléctrica retro"],
     content: `<img src=/media/motos/horwin-cr6-2025-ficha-tecnica-precio-1.webp alt=Horwin CR6 2025, café racer eléctrica>
 
-La <a href=/motos/horwin-cr6-2025-ficha-tecnica-precio>Horwin CR6 2025</a> es la café racer eléctrica sin complicaciones: sin cambio de marchas (a diferencia de su hermana CR6 Pro), con 95 km/h de punta y 150 km de autonomía a ritmo tranquilo. Por 5.890 € ofrece el estilo retro con la sencillez de un scooter.
+La <a href=/motos/horwin-cr6-2025-ficha-tecnica-precio/>Horwin CR6 2025</a> es la café racer eléctrica sin complicaciones: sin cambio de marchas (a diferencia de su hermana CR6 Pro), con 95 km/h de punta y 150 km de autonomía a ritmo tranquilo. Por 5.890 € ofrece el estilo retro con la sencillez de un scooter.
 
 ## Ficha técnica resumida
 
@@ -666,7 +666,7 @@ Cadena, neumáticos y frenos: eso es todo. La garantía europea de Horwin es de 
 
 ## Precio y rivales
 
-Cuesta 5.890 €. Sus rivales son la <a href=/motos/horwin-cr6-pro-2025-ficha-tecnica-precio>Horwin CR6 Pro 2025</a> (con cambio manual de 5 marchas), el <a href=/motos/horwin-ek3-ficha-tecnica-precio>Horwin EK3</a> y las naked eléctricas equivalentes a 125.
+Cuesta 5.890 €. Sus rivales son la <a href=/motos/horwin-cr6-pro-2025-ficha-tecnica-precio/>Horwin CR6 Pro 2025</a> (con cambio manual de 5 marchas), el <a href=/motos/horwin-ek3-ficha-tecnica-precio/>Horwin EK3</a> y las naked eléctricas equivalentes a 125.
 
 ## Preguntas frecuentes
 
@@ -705,7 +705,7 @@ Sí, con 3 años de antigüedad.
     keywords: ["Can-Am Pulse", "naked eléctrica", "Can-Am Pulse precio", "moto eléctrica A2", "ficha técnica Can-Am Pulse", "moto eléctrica CarPlay"],
     content: `<img src=/media/motos/can-am-pulse-2025-ficha-tecnica-precio-1.webp alt=Can-Am Pulse 2025, naked eléctrica>
 
-La <a href=/motos/can-am-pulse-2025-ficha-tecnica-precio>Can-Am Pulse 2025</a> marca el regreso de Can-Am a las motos 40 años después: una naked eléctrica A2 de 47 CV, con pantalla táctil de 10,25 pulgadas con Apple CarPlay y batería de refrigeración líquida. 0-100 km/h en 3,8 segundos.
+La <a href=/motos/can-am-pulse-2025-ficha-tecnica-precio/>Can-Am Pulse 2025</a> marca el regreso de Can-Am a las motos 40 años después: una naked eléctrica A2 de 47 CV, con pantalla táctil de 10,25 pulgadas con Apple CarPlay y batería de refrigeración líquida. 0-100 km/h en 3,8 segundos.
 
 ## Ficha técnica resumida
 
@@ -736,7 +736,7 @@ Sin aceite ni filtros: neumáticos, frenos, transmisión y software. La garantí
 
 ## Precio y rivales
 
-Can-Am no publica precio oficial en España (en EE. UU. parte de 13.999 $). Sus rivales son la <a href=/motos/can-am-pulse-2024-ficha-tecnica-precio>Can-Am Pulse 2024</a>, la <a href=/motos/can-am-origin-2024-ficha-tecnica-precio>Can-Am Origin 2024</a> y las naked A2 de gasolina.
+Can-Am no publica precio oficial en España (en EE. UU. parte de 13.999 $). Sus rivales son la <a href=/motos/can-am-pulse-2024-ficha-tecnica-precio/>Can-Am Pulse 2024</a>, la <a href=/motos/can-am-origin-2024-ficha-tecnica-precio/>Can-Am Origin 2024</a> y las naked A2 de gasolina.
 
 ## Preguntas frecuentes
 
@@ -775,7 +775,7 @@ BRP, el grupo canadiense de Bombardier Recreational Products.
     keywords: ["Can-Am Origin", "trail eléctrica", "Can-Am Origin precio", "moto eléctrica A2", "ficha técnica Can-Am Origin", "moto trail eléctrica"],
     content: `<img src=/media/motos/can-am-origin-2025-ficha-tecnica-precio-1.webp alt=Can-Am Origin 2025, trail eléctrica>
 
-La <a href=/motos/can-am-origin-2025-ficha-tecnica-precio>Can-Am Origin 2025</a> es la hermana trail de la Pulse: misma plataforma eléctrica de 47 CV, pero con suspensiones KYB de 255 mm de recorrido, modos Off-Road y geometría aventurera. La trail eléctrica A2 más tecnológica del mercado.
+La <a href=/motos/can-am-origin-2025-ficha-tecnica-precio/>Can-Am Origin 2025</a> es la hermana trail de la Pulse: misma plataforma eléctrica de 47 CV, pero con suspensiones KYB de 255 mm de recorrido, modos Off-Road y geometría aventurera. La trail eléctrica A2 más tecnológica del mercado.
 
 ## Ficha técnica resumida
 
@@ -807,7 +807,7 @@ El mantenimiento se limita a neumáticos, frenos, kit de transmisión encapsulad
 
 ## Precio y rivales
 
-Sin precio oficial en España. Sus rivales son la <a href=/motos/can-am-origin-2024-ficha-tecnica-precio>Can-Am Origin 2024</a>, la <a href=/motos/can-am-pulse-2024-ficha-tecnica-precio>Can-Am Pulse 2024</a> y las trail A2 de gasolina.
+Sin precio oficial en España. Sus rivales son la <a href=/motos/can-am-origin-2024-ficha-tecnica-precio/>Can-Am Origin 2024</a>, la <a href=/motos/can-am-pulse-2024-ficha-tecnica-precio/>Can-Am Pulse 2024</a> y las trail A2 de gasolina.
 
 ## Preguntas frecuentes
 
@@ -846,7 +846,7 @@ Sí: BRP confirma su venta en concesionarios oficiales en España.
     keywords: ["Super Soco TC Max", "café racer eléctrica", "Super Soco TC Max precio", "moto eléctrica A1", "ficha técnica TC Max", "moto eléctrica batería extraíble"],
     content: `<img src=/media/motos/super-soco-tc-max-2025-ficha-tecnica-precio-1.webp alt=Super Soco TC Max 2025, café racer eléctrica>
 
-La <a href=/motos/super-soco-tc-max-2025-ficha-tecnica-precio>Super Soco TC Max 2025</a> es la café racer eléctrica equivalente a 125: 95 km/h de punta, estética clásica con ruedas de radios y batería extraíble. La eléctrica A1 con más carácter del mercado, sin necesidad de cambiar de marchas.
+La <a href=/motos/super-soco-tc-max-2025-ficha-tecnica-precio/>Super Soco TC Max 2025</a> es la café racer eléctrica equivalente a 125: 95 km/h de punta, estética clásica con ruedas de radios y batería extraíble. La eléctrica A1 con más carácter del mercado, sin necesidad de cambiar de marchas.
 
 ## Ficha técnica resumida
 
@@ -876,7 +876,7 @@ Correa, neumáticos, frenos y poco más. Vmoto/Super Soco ofrece <strong>2 años
 
 ## Precio y rivales
 
-En Europa ronda los 4.500-5.000 €. Sus rivales son la <a href=/motos/super-soco-tc-wanderer-2025-ficha-tecnica-precio>Super Soco TC Wanderer 2025</a>, la <a href=/motos/super-soco-ts-hunter-2025-ficha-tecnica-precio>Super Soco TS Hunter 2025</a> y las 125 clásicas de gasolina.
+En Europa ronda los 4.500-5.000 €. Sus rivales son la <a href=/motos/super-soco-tc-wanderer-2025-ficha-tecnica-precio/>Super Soco TC Wanderer 2025</a>, la <a href=/motos/super-soco-ts-hunter-2025-ficha-tecnica-precio/>Super Soco TS Hunter 2025</a> y las 125 clásicas de gasolina.
 
 ## Preguntas frecuentes
 
@@ -915,7 +915,7 @@ Sí, con 3 años de antigüedad.
     keywords: ["Super Soco CPx Pro", "maxi-scooter eléctrico", "Super Soco CPx Pro precio", "scooter eléctrico 115 km/h", "ficha técnica CPx Pro", "moto eléctrica A1"],
     content: `<img src=/media/motos/super-soco-cpx-pro-2025-ficha-tecnica-precio-1.webp alt=Super Soco CPx Pro 2025, maxi-scooter eléctrico>
 
-El <a href=/motos/super-soco-cpx-pro-2025-ficha-tecnica-precio>Super Soco CPx Pro 2025</a> es el maxi-scooter eléctrico más rápido por su precio: 115 km/h de punta, 7 kW de potencia y doble batería extraíble de 5,4 kWh. El salto definitivo respecto al CPx básico, con prestaciones de 125 de verdad.
+El <a href=/motos/super-soco-cpx-pro-2025-ficha-tecnica-precio/>Super Soco CPx Pro 2025</a> es el maxi-scooter eléctrico más rápido por su precio: 115 km/h de punta, 7 kW de potencia y doble batería extraíble de 5,4 kWh. El salto definitivo respecto al CPx básico, con prestaciones de 125 de verdad.
 
 ## Ficha técnica resumida
 
@@ -945,7 +945,7 @@ Neumáticos, frenos y software. La garantía es de <strong>2 años en el vehícu
 
 ## Precio y rivales
 
-Sin PVP oficial publicado en España. Sus rivales son el <a href=/motos/super-soco-cpx-ficha-tecnica-precio>Super Soco CPx</a> (la versión básica), el <a href=/motos/super-soco-cu-mini-2025-ficha-tecnica-precio>Super Soco CU Mini 2025</a> y los maxi-scooters de 125 cc de gasolina.
+Sin PVP oficial publicado en España. Sus rivales son el <a href=/motos/super-soco-cpx-ficha-tecnica-precio/>Super Soco CPx</a> (la versión básica), el <a href=/motos/super-soco-cu-mini-2025-ficha-tecnica-precio/>Super Soco CU Mini 2025</a> y los maxi-scooters de 125 cc de gasolina.
 
 ## Preguntas frecuentes
 
@@ -984,7 +984,7 @@ Sí, con 3 años de antigüedad.
     keywords: ["Maeving RM1", "moto retro eléctrica", "Maeving RM1 precio", "moto eléctrica A1", "ficha técnica Maeving RM1", "moto eléctrica británica"],
     content: `<img src=/media/motos/maeving-rm1-2025-ficha-tecnica-precio-1.webp alt=Maeving RM1 2025, moto retro eléctrica>
 
-La <a href=/motos/maeving-rm1-2025-ficha-tecnica-precio>Maeving RM1 2025</a> es la moto eléctrica que no parece eléctrica: diseño retro británico, fabricada en Coventry por exingenieros de Triumph, con baterías extraíbles con asa de bambú que se cargan como un portátil. La urbana con más estilo del segmento A1.
+La <a href=/motos/maeving-rm1-2025-ficha-tecnica-precio/>Maeving RM1 2025</a> es la moto eléctrica que no parece eléctrica: diseño retro británico, fabricada en Coventry por exingenieros de Triumph, con baterías extraíbles con asa de bambú que se cargan como un portátil. La urbana con más estilo del segmento A1.
 
 ## Ficha técnica resumida
 
@@ -1014,7 +1014,7 @@ Prácticamente inexistente: neumáticos, frenos y software. La garantía oficial
 
 ## Precio y rivales
 
-En Reino Unido parte de 4.995 £; en Francia se vende desde 7.395 €. Su rival más cercano es la <a href=/motos/maeving-rm1-2024-ficha-tecnica-precio>Maeving RM1 2024</a>; por concepto compite con las 125 retro de gasolina.
+En Reino Unido parte de 4.995 £; en Francia se vende desde 7.395 €. Su rival más cercano es la <a href=/motos/maeving-rm1-2024-ficha-tecnica-precio/>Maeving RM1 2024</a>; por concepto compite con las 125 retro de gasolina.
 
 ## Preguntas frecuentes
 
@@ -1053,7 +1053,7 @@ Una empresa británica fundada por exingenieros de Triumph en Coventry.
     keywords: ["LiveWire S2 Del Mar", "moto eléctrica 82 CV", "LiveWire Del Mar precio", "moto eléctrica carnet A", "ficha técnica S2 Del Mar", "street tracker eléctrica"],
     content: `<img src=/media/motos/livewire-s2-del-mar-2025-ficha-tecnica-precio-1.webp alt=LiveWire S2 Del Mar 2025, street tracker eléctrica>
 
-La <a href=/motos/livewire-s2-del-mar-2025-ficha-tecnica-precio>LiveWire S2 Del Mar 2025</a> es la street tracker eléctrica de la marca de Milwaukee: 82 CV, 263 Nm y 0-100 km/h en 3,1 segundos, con batería estructural de 10,5 kWh. La eléctrica con más carácter americano del mercado.
+La <a href=/motos/livewire-s2-del-mar-2025-ficha-tecnica-precio/>LiveWire S2 Del Mar 2025</a> es la street tracker eléctrica de la marca de Milwaukee: 82 CV, 263 Nm y 0-100 km/h en 3,1 segundos, con batería estructural de 10,5 kWh. La eléctrica con más carácter americano del mercado.
 
 ## Ficha técnica resumida
 
@@ -1084,7 +1084,7 @@ Sin aceite ni filtros: neumáticos, frenos, correa y software. La garantía ofic
 
 ## Precio y rivales
 
-Sin precio oficial en España (la gama S2 supera los 19.000 € en Alemania). Sus rivales son la <a href=/motos/livewire-s2-del-mar-2024-ficha-tecnica-precio>LiveWire S2 Del Mar 2024</a>, la <a href=/motos/livewire-s2-alpinista-2025-ficha-tecnica-precio>LiveWire S2 Alpinista 2025</a> y las street tracker de gasolina.
+Sin precio oficial en España (la gama S2 supera los 19.000 € en Alemania). Sus rivales son la <a href=/motos/livewire-s2-del-mar-2024-ficha-tecnica-precio/>LiveWire S2 Del Mar 2024</a>, la <a href=/motos/livewire-s2-alpinista-2025-ficha-tecnica-precio/>LiveWire S2 Alpinista 2025</a> y las street tracker de gasolina.
 
 ## Preguntas frecuentes
 
@@ -1123,7 +1123,7 @@ Que forma parte del chasis: ahorra peso y aumenta la rigidez.
     keywords: ["Yadea Keeness", "naked eléctrica", "Yadea Keeness precio", "moto eléctrica A1", "ficha técnica Yadea Keeness", "moto eléctrica 100 km/h"],
     content: `<img src=/media/motos/yadea-keeness-2025-ficha-tecnica-precio-1.webp alt=Yadea Keeness 2025, naked eléctrica>
 
-La <a href=/motos/yadea-keeness-2025-ficha-tecnica-precio>Yadea Keeness 2025</a> es la naked eléctrica equivalente a 125 del gigante chino Yadea: 11 kW de pico (15 CV), 100 km/h de punta y 129 km de autonomía con doble batería extraíble. La apuesta seria de Yadea por el mercado europeo.
+La <a href=/motos/yadea-keeness-2025-ficha-tecnica-precio/>Yadea Keeness 2025</a> es la naked eléctrica equivalente a 125 del gigante chino Yadea: 11 kW de pico (15 CV), 100 km/h de punta y 129 km de autonomía con doble batería extraíble. La apuesta seria de Yadea por el mercado europeo.
 
 ## Ficha técnica resumida
 
@@ -1152,7 +1152,7 @@ Eléctrica sin mantenimiento mecánico: neumáticos, frenos y software. La garan
 
 ## Precio y rivales
 
-En Europa se mueve entre 5.800 y 7.000 € según el país. Sus rivales son la <a href=/motos/yadea-g5-s-2025-ficha-tecnica-precio>Yadea G5S 2025</a>, la <a href=/motos/yadea-c1s-pro-2025-ficha-tecnica-precio>Yadea C1S Pro 2025</a> y las naked de 125 cc de gasolina.
+En Europa se mueve entre 5.800 y 7.000 € según el país. Sus rivales son la <a href=/motos/yadea-g5-s-2025-ficha-tecnica-precio/>Yadea G5S 2025</a>, la <a href=/motos/yadea-c1s-pro-2025-ficha-tecnica-precio/>Yadea C1S Pro 2025</a> y las naked de 125 cc de gasolina.
 
 ## Preguntas frecuentes
 
@@ -1191,7 +1191,7 @@ El mayor fabricante mundial de vehículos eléctricos ligeros, con sede en China
     keywords: ["Yadea Fierider", "scooter eléctrico 15 CV", "Yadea Fierider precio", "scooter eléctrico ABS", "ficha técnica Yadea Fierider", "moto eléctrica A1"],
     content: `<img src=/media/motos/yadea-fierider-2025-ficha-tecnica-precio-1.webp alt=Yadea Fierider 2025, scooter eléctrico>
 
-El <a href=/motos/yadea-fierider-2025-ficha-tecnica-precio>Yadea Fierider 2025</a> es el scooter insignia urbano de Yadea: 11 kW de pico (15 CV), 0-50 km/h en 2,5 segundos, ABS de serie y pantalla TFT de 7 pulgadas. Con 148 km de autonomía y precio oficial de 5.995 € en Europa, es el scooter A1 eléctrico más ambicioso del gigante chino.
+El <a href=/motos/yadea-fierider-2025-ficha-tecnica-precio/>Yadea Fierider 2025</a> es el scooter insignia urbano de Yadea: 11 kW de pico (15 CV), 0-50 km/h en 2,5 segundos, ABS de serie y pantalla TFT de 7 pulgadas. Con 148 km de autonomía y precio oficial de 5.995 € en Europa, es el scooter A1 eléctrico más ambicioso del gigante chino.
 
 ## Ficha técnica resumida
 
@@ -1221,7 +1221,7 @@ Neumáticos, frenos y software. Garantía europea de <strong>2 años</strong> se
 
 ## Precio y rivales
 
-Precio oficial en Europa: 5.995 €. Sus rivales son el <a href=/motos/yadea-g5-s-2025-ficha-tecnica-precio>Yadea G5S 2025</a>, la <a href=/motos/yadea-keeness-2025-ficha-tecnica-precio>Yadea Keeness 2025</a> y los scooters deportivos de 125 cc.
+Precio oficial en Europa: 5.995 €. Sus rivales son el <a href=/motos/yadea-g5-s-2025-ficha-tecnica-precio/>Yadea G5S 2025</a>, la <a href=/motos/yadea-keeness-2025-ficha-tecnica-precio/>Yadea Keeness 2025</a> y los scooters deportivos de 125 cc.
 
 ## Preguntas frecuentes
 

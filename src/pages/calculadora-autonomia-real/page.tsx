@@ -71,7 +71,7 @@ export default function CalculadoraAutonomiaRealPage() {
             <nav aria-label="Migas de pan" className="flex items-center gap-1.5 text-xs text-white/60">
               <Link to="/" className="hover:text-white">Inicio</Link>
               <span aria-hidden="true">/</span>
-              <Link to="/herramientas" className="hover:text-white">Herramientas</Link>
+              <Link to="/herramientas/" className="hover:text-white">Herramientas</Link>
               <span aria-hidden="true">/</span>
               <span className="text-white/40">Autonomía real</span>
             </nav>
@@ -193,12 +193,12 @@ export default function CalculadoraAutonomiaRealPage() {
         <nav className="bg-slate-100 rounded-3xl p-6 border border-slate-200">
           <h2 className="font-bold mb-4">Más herramientas y guías</h2>
           <div className="grid sm:grid-cols-2 gap-3 text-sm">
-            <Link to="/herramientas" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Todas las herramientas</Link>
-            <Link to="/calculadora-etiqueta-dgt" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Calculadora de etiqueta DGT</Link>
-            <Link to="/comparador-coches" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Comparador de coches eléctricos</Link>
-            <Link to="/blog/como-recurrir-multas-de-la-zbe-en-madrid-barcelona-y-toda-espana-guia-definitiva-y-modelos-con-ia" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Zonas de Bajas Emisiones (ZBE)</Link>
-            <Link to="/blog/recurrir-multa-radar-velocidad" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Cómo recurrir una multa de radar</Link>
-            <Link to="/blog/defectos-forma-anulan-multa-dgt" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Defectos de forma que anulan multas</Link>
+            <Link to="/herramientas/" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Todas las herramientas</Link>
+            <Link to="/calculadora-etiqueta-dgt/" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Calculadora de etiqueta DGT</Link>
+            <Link to="/comparador-coches/" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Comparador de coches eléctricos</Link>
+            <Link to="/blog/como-recurrir-multas-de-la-zbe-en-madrid-barcelona-y-toda-espana-guia-definitiva-y-modelos-con-ia/" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Zonas de Bajas Emisiones (ZBE)</Link>
+            <Link to="/blog/recurrir-multa-radar-velocidad/" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Cómo recurrir una multa de radar</Link>
+            <Link to="/blog/defectos-forma-anulan-multa-dgt/" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Defectos de forma que anulan multas</Link>
           </div>
         </nav>
       </main>

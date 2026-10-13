@@ -26,7 +26,7 @@ export const PATINETES_EXP_P4_POSTS: BlogPost[] = [
     ],
     content: `<img src=/media/patinetes/bogist-m1-elite-1.webp alt=Bogist M1 Elite negro, vista lateral completa del patinete>
 
-**¿Buscas solo los datos?** <a href=/patinetes/bogist-m1-elite>Ver ficha técnica del Bogist M1 Elite</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/bogist-m1-elite/>Ver ficha técnica del Bogist M1 Elite</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Bogist M1 Elite** es el modelo más asequible de la marca china Bogist: un urbano de **250 W** con batería de **36 V y 7,8 Ah (281 Wh)** que se vende por **unos 275 €** con opción de envío desde almacén europeo (<a href=https://www.gleeride.com/products/bogist-m1-elite-8-5-folding-electric-scooter-250w-motor-36v-7-8ah-battery>Gleeride</a>). No pretende ser el más potente ni el de más autonomía: pretende ser el más barato para quien empieza.
 
@@ -40,7 +40,7 @@ El **Bogist M1 Elite** es el modelo más asequible de la marca china Bogist: un 
 | **Velocidad máxima** | ≈25 km/h |
 | **Ruedas** | 8,5 pulgadas |
 
-¿Quieres el detalle completo? <a href=/patinetes/bogist-m1-elite>Ficha técnica completa del Bogist M1 Elite</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/bogist-m1-elite/>Ficha técnica completa del Bogist M1 Elite</a> con todos los datos verificados.
 
 ## Precio del Bogist M1 Elite en España
 
@@ -117,7 +117,7 @@ Si tu presupuesto es mínimo, el M1 Elite vale. Si puedes estirarte, el M3 Pro a
     ],
     content: `<img src=/media/patinetes/bogist-m3-pro-1.webp alt=Bogist M3 Pro negro, vista lateral completa del patinete>
 
-**¿Buscas solo los datos?** <a href=/patinetes/bogist-m3-pro>Ver ficha técnica del Bogist M3 Pro</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/bogist-m3-pro/>Ver ficha técnica del Bogist M3 Pro</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Bogist M3 Pro** es el urbano compacto de la marca: **350 W**, batería de **36 V y 7,5 Ah (270 Wh)** y unos **25 km de autonomía** declarada, con un frontal de **24 LED** que se ve de verdad de noche (<a href=https://www.priceboon.com/product/bogist-m3-pro/>Priceboon</a> lo probó a fondo). Pequeño, barato y honesto.
 
@@ -133,7 +133,7 @@ El **Bogist M3 Pro** es el urbano compacto de la marca: **350 W**, batería de *
 | **Ruedas** | 8" honeycomb (macizas) |
 | **Frenos** | Electrónico delantero + pie trasero |
 
-¿Quieres el detalle completo? <a href=/patinetes/bogist-m3-pro>Ficha técnica completa del Bogist M3 Pro</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/bogist-m3-pro/>Ficha técnica completa del Bogist M3 Pro</a> con todos los datos verificados.
 
 ## Precio del Bogist M3 Pro en España
 
@@ -210,7 +210,7 @@ Como segundo patinete o para ciudad llana, sí. Para uso intensivo, mira el M5 P
     ],
     content: `<img src=/media/patinetes/bogist-c1-pro-1.webp alt=Bogist C1 Pro negro con sillín, vista lateral completa>
 
-**¿Buscas solo los datos?** <a href=/patinetes/bogist-c1-pro>Ver ficha técnica del Bogist C1 Pro</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/bogist-c1-pro/>Ver ficha técnica del Bogist C1 Pro</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Bogist C1 Pro** es el musculoso de la gama con sillín: **550 W** (800 W de pico), **40 km** de autonomía declarada, **doble suspensión**, **IP65** y **sillín extraíble** incluido. Tres modos de velocidad (24/32/45 km/h) para adaptarlo a cada situación.
 
@@ -226,7 +226,7 @@ El **Bogist C1 Pro** es el musculoso de la gama con sillín: **550 W** (800 W de
 | **Resistencia** | IP65 |
 | **Ruedas** | 10" hinchables |
 
-¿Quieres el detalle completo? <a href=/patinetes/bogist-c1-pro>Ficha técnica completa del Bogist C1 Pro</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/bogist-c1-pro/>Ficha técnica completa del Bogist C1 Pro</a> con todos los datos verificados.
 
 ## Precio del Bogist C1 Pro en España
 
@@ -307,7 +307,7 @@ El C1 Pro es más potente y ligero; el M5 Pro tiene más batería y cesta. Depen
     ],
     content: `<img src=/media/patinetes/bogist-m5-pro-1.webp alt=Bogist M5 Pro negro con sillín y cesta, vista lateral completa>
 
-**¿Buscas solo los datos?** <a href=/patinetes/bogist-m5-pro>Ver ficha técnica del Bogist M5 Pro</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/bogist-m5-pro/>Ver ficha técnica del Bogist M5 Pro</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Bogist M5 Pro** no parece un patinete: parece una minimoto. **500 W**, batería de **48 V y 13 Ah (624 Wh)**, ruedas **neumáticas de 12 pulgadas**, **sillín con respaldo**, **cesta trasera** y **doble freno de disco**, por **unos 429 €** (<a href=https://www.electricscooterguides.com/resources/bogist-m5-pro-electric-scooter-review-a-comprehensive-analysis>ElectricScooterGuides</a> lo analizó a fondo). El utilitario total.
 
@@ -326,7 +326,7 @@ El **Bogist M5 Pro** no parece un patinete: parece una minimoto. **500 W**, bate
 | **Ruedas** | 12" neumáticas |
 | **Frenos** | Doble disco |
 
-¿Quieres el detalle completo? <a href=/patinetes/bogist-m5-pro>Ficha técnica completa del Bogist M5 Pro</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/bogist-m5-pro/>Ficha técnica completa del Bogist M5 Pro</a> con todos los datos verificados.
 
 ## Precio del Bogist M5 Pro en España
 
@@ -407,7 +407,7 @@ El Pro S tiene más batería (720 Wh); el Pro normal suele ser más barato. Si l
     ],
     content: `<img src=/media/patinetes/bogist-m5-pro-s-1.webp alt=Bogist M5 Pro S negro, vista lateral completa del patinete>
 
-**¿Buscas solo los datos?** <a href=/patinetes/bogist-m5-pro-s>Ver ficha técnica del Bogist M5 Pro S</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/bogist-m5-pro-s/>Ver ficha técnica del Bogist M5 Pro S</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Bogist M5 Pro S** es la evolución del M5 Pro: misma filosofía de minimoto con sillín, pero con batería de **48 V y 15 Ah (720 Wh)**, **40 km** de autonomía y ruedas **neumáticas de 12,5 pulgadas** con dibujo especial. En Francia se vendió por **429 €** (<a href=https://www.youtube.com/watch?v=BsQ69eDWwsk>Geekmaxi</a> lo probó a fondo).
 
@@ -426,7 +426,7 @@ El **Bogist M5 Pro S** es la evolución del M5 Pro: misma filosofía de minimoto
 | **Ruedas** | 12,5" neumáticas |
 | **Frenos** | Doble disco |
 
-¿Quieres el detalle completo? <a href=/patinetes/bogist-m5-pro-s>Ficha técnica completa del Bogist M5 Pro S</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/bogist-m5-pro-s/>Ficha técnica completa del Bogist M5 Pro S</a> con todos los datos verificados.
 
 ## Precio del Bogist M5 Pro S en España
 
@@ -507,7 +507,7 @@ El Plus promete 55 km declarados; el Pro S está probado por medios. Ante la dud
     ],
     content: `<img src=/media/patinetes/bogist-m5-pro-plus-1.webp alt=Bogist M5 Pro+ negro con sillín, vista lateral completa>
 
-**¿Buscas solo los datos?** <a href=/patinetes/bogist-m5-pro-plus>Ver ficha técnica del Bogist M5 Pro+</a>: motor, batería y autonomía. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/bogist-m5-pro-plus/>Ver ficha técnica del Bogist M5 Pro+</a>: motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Bogist M5 Pro+** es la variante de mayor autonomía de la familia M5: **500 W**, batería de **48 V y 15 Ah (720 Wh)** y **55 km** declarados, manteniendo sillín, cesta trasera y doble freno de disco (<a href=https://www.accio.com/plp/bogist-m5-pro>Accio</a> lo lista en el catálogo de la marca).
 
@@ -522,7 +522,7 @@ El **Bogist M5 Pro+** es la variante de mayor autonomía de la familia M5: **500
 | **Ruedas** | 12" neumáticas |
 | **Frenos** | Doble disco |
 
-¿Quieres el detalle completo? <a href=/patinetes/bogist-m5-pro-plus>Ficha técnica completa del Bogist M5 Pro+</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/bogist-m5-pro-plus/>Ficha técnica completa del Bogist M5 Pro+</a> con todos los datos verificados.
 
 ## Precio del Bogist M5 Pro+ en España
 
@@ -600,7 +600,7 @@ Si lo encuentras al precio del Pro S, sí por el extra de rango. Si es mucho má
     ],
     content: `<img src=/media/patinetes/aovopro-esmax-1.webp alt=Aovopro ESMAX negro, vista lateral completa del patinete>
 
-**¿Buscas solo los datos?** <a href=/patinetes/aovopro-esmax>Ver ficha técnica del Aovopro ESMAX</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/aovopro-esmax/>Ver ficha técnica del Aovopro ESMAX</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Aovopro ESMAX** es el buque insignia de la marca budget: **500 W**, batería de **42 V y 14,5 Ah (609 Wh)**, **43 km** declarados (27 millas) y **cuádruple suspensión** delantera y trasera. El salto grande respecto al popular ES80 (<a href=https://hoverboardsguide.com/aovopro-electric-scooter-review/>HoverboardsGuide</a> lo señala como el mejor commuter barato).
 
@@ -618,7 +618,7 @@ El **Aovopro ESMAX** es el buque insignia de la marca budget: **500 W**, baterí
 | **Frenos** | Tambor delantero + eléctrico trasero |
 | **Resistencia** | IP65 |
 
-¿Quieres el detalle completo? <a href=/patinetes/aovopro-esmax>Ficha técnica completa del Aovopro ESMAX</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/aovopro-esmax/>Ficha técnica completa del Aovopro ESMAX</a> con todos los datos verificados.
 
 ## Precio del Aovopro ESMAX en España
 
@@ -695,7 +695,7 @@ Si haces más de 15 km al día o pesas más de 80 kg, sí: el ES80 se queda cort
     ],
     content: `<img src=/media/patinetes/aovopro-365-go-1.webp alt=Aovopro 365 Go negro, vista lateral completa del patinete>
 
-**¿Buscas solo los datos?** <a href=/patinetes/aovopro-365-go>Ver ficha técnica del Aovopro 365 Go</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/aovopro-365-go/>Ver ficha técnica del Aovopro 365 Go</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Aovopro 365 Go** es la versión ligera y barata del ES80: **350 W**, batería de **36 V y 7,8 Ah (281 Wh)**, **12,5 kg** y app propia, por **unos 199 €** en importación europea (<a href=https://couponsfromchina.com/aovopro-365go-electric-scooter-36v-10-5ah-350w-8-5inch-eu/>CouponsFromChina</a> lo lista en almacén UE). El patinete del último kilómetro.
 
@@ -714,7 +714,7 @@ El **Aovopro 365 Go** es la versión ligera y barata del ES80: **350 W**, bater�
 | **Ruedas** | 8,5" macizas |
 | **Frenos** | Electrónico + disco |
 
-¿Quieres el detalle completo? <a href=/patinetes/aovopro-365-go>Ficha técnica completa del Aovopro 365 Go</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/aovopro-365-go/>Ficha técnica completa del Aovopro 365 Go</a> con todos los datos verificados.
 
 ## Precio del Aovopro 365 Go en España
 
@@ -791,7 +791,7 @@ Para quien hace menos de 10 km al día y quiere gastar lo mínimo.
     ],
     content: `<img src=/media/patinetes/aovopro-es60-1.webp alt=Aovopro ES60 gris oscuro, vista lateral completa del patinete>
 
-**¿Buscas solo los datos?** <a href=/patinetes/aovopro-es60>Ver ficha técnica del Aovopro ES60</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/aovopro-es60/>Ver ficha técnica del Aovopro ES60</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Aovopro ES60** es la apuesta de la marca por la autonomía ligera: **350 W**, batería de **36 V y 10,5 Ah (378 Wh)** y hasta **40 km** declarados en solo **12 kg** (<a href=https://www.priceboon.com/product/aovopro-es60/>Priceboon</a> lo probó). En Europa se vende por **unos 430 €** en almacén UE.
 
@@ -810,7 +810,7 @@ El **Aovopro ES60** es la apuesta de la marca por la autonomía ligera: **350 W*
 | **Ruedas** | 8,5" honeycomb |
 | **Resistencia** | IP65 |
 
-¿Quieres el detalle completo? <a href=/patinetes/aovopro-es60>Ficha técnica completa del Aovopro ES60</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/aovopro-es60/>Ficha técnica completa del Aovopro ES60</a> con todos los datos verificados.
 
 ## Precio del Aovopro ES60 en España
 
@@ -888,7 +888,7 @@ Si lo encuentras por ~430 € con envío UE y buscas ligereza, sí. Si el precio
     ],
     content: `<img src=/media/patinetes/evercross-h5-1.webp alt=Evercross H5 negro con sillín, vista lateral completa>
 
-**¿Buscas solo los datos?** <a href=/patinetes/evercross-h5>Ver ficha técnica del Evercross H5</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/evercross-h5/>Ver ficha técnica del Evercross H5</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Evercross H5** juega en la liga de los patinetes con sillín: **800 W** de pico, batería de **48 V y 10 Ah (480 Wh)**, **sillín desmontable** con amortiguación y **150 kg** de carga máxima, por **~490 €** (<a href=https://www.levyelectric.com/resources/evercross-electric-scooter-complete-guide-app-setup-review>Levy Electric</a> lo compara con toda la gama).
 
@@ -907,7 +907,7 @@ El **Evercross H5** juega en la liga de los patinetes con sillín: **800 W** de 
 | **Ruedas** | 10" macizas |
 | **Extras** | Sillín desmontable, app, intermitentes |
 
-¿Quieres el detalle completo? <a href=/patinetes/evercross-h5>Ficha técnica completa del Evercross H5</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/evercross-h5/>Ficha técnica completa del Evercross H5</a> con todos los datos verificados.
 
 ## Precio del Evercross H5 en España
 
@@ -984,7 +984,7 @@ El H7 tiene más batería (720 Wh) y certificación UL2272 por ~60 € más. Si 
     ],
     content: `<img src=/media/patinetes/evercross-h7-1.webp alt=Evercross H7 negro con sillín, vista lateral completa>
 
-**¿Buscas solo los datos?** <a href=/patinetes/evercross-h7>Ver ficha técnica del Evercross H7</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/evercross-h7/>Ver ficha técnica del Evercross H7</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Evercross H7** es el más completo de la serie H: **800 W** de pico, batería de **48 V y 15 Ah (720 Wh)**, **45 km** declarados, **certificación UL2272** y **sillín desmontable**, por **~550 €** (<a href=https://www.amazon.com/dp/B0BNZZ2NG2/ref=as_li_ss_tl>Amazon</a> lo vende con más de 1.300 reseñas).
 
@@ -1003,7 +1003,7 @@ El **Evercross H7** es el más completo de la serie H: **800 W** de pico, bater�
 | **Ruedas** | 10" macizas todoterreno |
 | **Certificación** | UL2272 |
 
-¿Quieres el detalle completo? <a href=/patinetes/evercross-h7>Ficha técnica completa del Evercross H7</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/evercross-h7/>Ficha técnica completa del Evercross H7</a> con todos los datos verificados.
 
 ## Precio del Evercross H7 en España
 
@@ -1080,7 +1080,7 @@ Por ~60 € más tienes 720 Wh (frente a 480 Wh) y UL2272. Sí, compensa.
     ],
     content: `<img src=/media/patinetes/evercross-h9-1.webp alt=Evercross H9 negro, vista lateral completa del patinete>
 
-**¿Buscas solo los datos?** <a href=/patinetes/evercross-h9>Ver ficha técnica del Evercross H9</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/evercross-h9/>Ver ficha técnica del Evercross H9</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Evercross H9** es la dieta de la serie H: **800 W** de pico, **48 V y 14 Ah (672 Wh)**, **45 km** declarados y **sillín desmontable** en solo **20 kg** (<a href=https://www.levyelectric.com/resources/evercross-electric-scooter-complete-guide-app-setup-review>Levy Electric</a>). Cinco kilos menos que el H7 se notan al plegarlo.
 
@@ -1098,7 +1098,7 @@ El **Evercross H9** es la dieta de la serie H: **800 W** de pico, **48 V y 14 Ah
 | **Carga máxima** | 150 kg |
 | **Ruedas** | 10" macizas |
 
-¿Quieres el detalle completo? <a href=/patinetes/evercross-h9>Ficha técnica completa del Evercross H9</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/evercross-h9/>Ficha técnica completa del Evercross H9</a> con todos los datos verificados.
 
 ## Precio del Evercross H9 en España
 
@@ -1175,7 +1175,7 @@ Sí, es **desmontable**.
     ],
     content: `<img src=/media/patinetes/evercross-ev10k-pro-1.webp alt=Evercross EV10K Pro negro, vista lateral completa del patinete>
 
-**¿Buscas solo los datos?** <a href=/patinetes/evercross-ev10k-pro>Ver ficha técnica del Evercross EV10K Pro</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/evercross-ev10k-pro/>Ver ficha técnica del Evercross EV10K Pro</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Evercross EV10K Pro** es el equilibrio de la gama: **500 W**, batería de **36 V y 11,4 Ah (410 Wh)**, **35 km** declarados, **intermitentes** delanteros y traseros y **150 kg** de carga, por **~275 €**. Sin sillín ni excesos: un urbano completo.
 
@@ -1194,7 +1194,7 @@ El **Evercross EV10K Pro** es el equilibrio de la gama: **500 W**, batería de *
 | **Ruedas** | 10" honeycomb |
 | **Frenos** | Electrónico + disco |
 
-¿Quieres el detalle completo? <a href=/patinetes/evercross-ev10k-pro>Ficha técnica completa del Evercross EV10K Pro</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/evercross-ev10k-pro/>Ficha técnica completa del Evercross EV10K Pro</a> con todos los datos verificados.
 
 ## Precio del Evercross EV10K Pro en España
 
@@ -1271,7 +1271,7 @@ Por ~45 € más tienes 500 W (frente a 350 W), más batería e intermitentes. S
     ],
     content: `<img src=/media/patinetes/evercross-ev85f-1.webp alt=Evercross EV85F negro, vista lateral completa del patinete>
 
-**¿Buscas solo los datos?** <a href=/patinetes/evercross-ev85f>Ver ficha técnica del Evercross EV85F</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/evercross-ev85f/>Ver ficha técnica del Evercross EV85F</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Evercross EV85F** es el más barato de la comparativa Evercross: **350 W**, batería de **36 V y 7,8 Ah (281 Wh)**, **15 kg** y app **EVERCROSS PRO**, por **~230 €**. El urbanita para combinar con el transporte público.
 
@@ -1290,7 +1290,7 @@ El **Evercross EV85F** es el más barato de la comparativa Evercross: **350 W**,
 | **Ruedas** | 8,5" |
 | **Frenos** | E-ABS + disco |
 
-¿Quieres el detalle completo? <a href=/patinetes/evercross-ev85f>Ficha técnica completa del Evercross EV85F</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/evercross-ev85f/>Ficha técnica completa del Evercross EV85F</a> con todos los datos verificados.
 
 ## Precio del Evercross EV85F en España
 
@@ -1367,7 +1367,7 @@ Para trayectos cortos y presupuesto mínimo, es imbatible. Para más, el EV10K P
     ],
     content: `<img src=/media/patinetes/evercross-ev08e-1.webp alt=Evercross EV08E negro con sillín, vista lateral completa>
 
-**¿Buscas solo los datos?** <a href=/patinetes/evercross-ev08e>Ver ficha técnica del Evercross EV08E</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/evercross-ev08e/>Ver ficha técnica del Evercross EV08E</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Evercross EV08E** es el capricho barato con sillín: **350 W**, **32 km** declarados, **doble freno de disco** y **asiento de serie** por **~230 €** (<a href=https://www.levyelectric.com/resources/evercross-electric-scooter-complete-guide-app-setup-review>Levy Electric</a>). El utilitario puro.
 
@@ -1386,7 +1386,7 @@ El **Evercross EV08E** es el capricho barato con sillín: **350 W**, **32 km** d
 | **Ruedas** | 8" macizas |
 | **Frenos** | Doble disco |
 
-¿Quieres el detalle completo? <a href=/patinetes/evercross-ev08e>Ficha técnica completa del Evercross EV08E</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/evercross-ev08e/>Ficha técnica completa del Evercross EV08E</a> con todos los datos verificados.
 
 ## Precio del Evercross EV08E en España
 
@@ -1463,7 +1463,7 @@ El H5 tiene 800 W y app por ~260 € más. Si el sillín es innegociable y el pr
     ],
     content: `<img src=/media/patinetes/evercross-ev10-max-1.webp alt=Evercross EV10 Max negro, vista lateral completa del patinete>
 
-**¿Buscas solo los datos?** <a href=/patinetes/evercross-ev10-max>Ver ficha técnica del Evercross EV10 Max</a>: motor, autonomía y frenos. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/evercross-ev10-max/>Ver ficha técnica del Evercross EV10 Max</a>: motor, autonomía y frenos. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Evercross EV10 Max** es el 'tope' de la marca sobre el papel: **1.200 W**, **64 km** de autonomía declarada (40 millas), **neumáticos de 10 pulgadas** y **doble freno de disco** (<a href=https://www.igeekphone.com/zooming-into-the-future-what-to-know-before-buying-an-evercross-electric-scooter/>iGeekPhone</a>). Pero ojo: el fabricante publica poquísimos datos oficiales.
 
@@ -1478,7 +1478,7 @@ El **Evercross EV10 Max** es el 'tope' de la marca sobre el papel: **1.200 W**, 
 | **Ruedas** | 10" neumáticas |
 | **Frenos** | Doble disco |
 
-¿Quieres el detalle completo? <a href=/patinetes/evercross-ev10-max>Ficha técnica completa del Evercross EV10 Max</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/evercross-ev10-max/>Ficha técnica completa del Evercross EV10 Max</a> con todos los datos verificados.
 
 ## Precio del Evercross EV10 Max en España
 
@@ -1556,7 +1556,7 @@ Con tan pocos datos oficiales, solo si lo encuentras con garantía local y a bue
     ],
     content: `<img src=/media/patinetes/minimotors-dualtron-city-2024-1.webp alt=Dualtron City 2024 negro, vista lateral completa con ruedas de 15 pulgadas>
 
-**¿Buscas solo los datos?** <a href=/patinetes/minimotors-dualtron-city-2024>Ver ficha técnica del Dualtron City 2024</a>: motor, batería, autonomía y peso. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/minimotors-dualtron-city-2024/>Ver ficha técnica del Dualtron City 2024</a>: motor, batería, autonomía y peso. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Dualtron City 2024** de Minimotors no compite con patinetes: compite con el concepto de patinete. **Doble motor de 1.200 W** (casi 4.000 W de pico), batería de **60 V y 25 Ah (1.500 Wh)**, **90 km** declarados y unas absurdas **ruedas de 15 pulgadas**, además de **batería extraíble** (<a href=https://manuals.plus/minimotors/dualtron-city-electric-scooter-manual>manual oficial</a>).
 
@@ -1575,7 +1575,7 @@ El **Dualtron City 2024** de Minimotors no compite con patinetes: compite con el
 | **Frenos** | Hidráulicos + ABS/EBS |
 | **Carga** | 14 h (7 h con dos cargadores) |
 
-¿Quieres el detalle completo? <a href=/patinetes/minimotors-dualtron-city-2024>Ficha técnica completa del Dualtron City 2024</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/minimotors-dualtron-city-2024/>Ficha técnica completa del Dualtron City 2024</a> con todos los datos verificados.
 
 ## Precio del Dualtron City 2024 en España
 
@@ -1652,7 +1652,7 @@ El City prima confort y autonomía (ruedas de 15", batería extraíble); el Thun
     ],
     content: `<img src=/media/patinetes/minimotors-dualtron-victor-luxury-plus-1.webp alt=Dualtron Victor Luxury Plus negro, vista lateral completa>
 
-**¿Buscas solo los datos?** <a href=/patinetes/minimotors-dualtron-victor-luxury-plus>Ver ficha técnica del Dualtron Victor Luxury Plus</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/minimotors-dualtron-victor-luxury-plus/>Ver ficha técnica del Dualtron Victor Luxury Plus</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Dualtron Victor Luxury Plus** es el Victor para los que el Victor se les queda pequeño: **doble motor de 2.000 W** (4.400 W de pico), batería de **60 V hasta 35 Ah (2.100 Wh)**, chasis **60 mm más alto** y pantalla **EY4** con app. En España lo vende <a href=https://vepace.com/products/dualtron-victor-luxury-plus-electric-scooter>Vepace</a> **desde 1.890 €**.
 
@@ -1671,7 +1671,7 @@ El **Dualtron Victor Luxury Plus** es el Victor para los que el Victor se les qu
 | **Ruedas** | 10" tubeless |
 | **Frenos** | Disco hidráulicos + electrónico |
 
-¿Quieres el detalle completo? <a href=/patinetes/minimotors-dualtron-victor-luxury-plus>Ficha técnica completa del Victor Luxury Plus</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/minimotors-dualtron-victor-luxury-plus/>Ficha técnica completa del Victor Luxury Plus</a> con todos los datos verificados.
 
 ## Precio del Dualtron Victor Luxury Plus en España
 
@@ -1752,7 +1752,7 @@ El Thunder es más bestia; el Luxury Plus es más rutero y alto. Para commuting 
     ],
     content: `<img src=/media/patinetes/minimotors-dualtron-eagle-pro-1.webp alt=Dualtron Eagle Pro negro, vista lateral completa del patinete>
 
-**¿Buscas solo los datos?** <a href=/patinetes/minimotors-dualtron-eagle-pro>Ver ficha técnica del Dualtron Eagle Pro</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/minimotors-dualtron-eagle-pro/>Ver ficha técnica del Dualtron Eagle Pro</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Dualtron Eagle Pro** es el Dualtron ágil: **doble motor de 1.100 W** (3.600 W de pico), batería **Samsung de 60 V y 24,5 Ah (1.470 Wh)** y **~30 kg** de peso (<a href=https://minimotors.oss-eu-central-1.aliyuncs.com/upload/Product%20Catalogue%20-%202025.8.15.pdf>catálogo oficial Minimotors 2025</a>). Potencia de Thunder en formato manejable.
 
@@ -1770,7 +1770,7 @@ El **Dualtron Eagle Pro** es el Dualtron ágil: **doble motor de 1.100 W** (3.60
 | **Ruedas** | 10x2,5" con cámara |
 | **Frenos** | Disco + ABS/EBS |
 
-¿Quieres el detalle completo? <a href=/patinetes/minimotors-dualtron-eagle-pro>Ficha técnica completa del Dualtron Eagle Pro</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/minimotors-dualtron-eagle-pro/>Ficha técnica completa del Dualtron Eagle Pro</a> con todos los datos verificados.
 
 ## Precio del Dualtron Eagle Pro en España
 
@@ -1848,7 +1848,7 @@ Es más ágil y ligero; el Thunder es más estable a alta velocidad. Para divers
     ],
     content: `<img src=/media/patinetes/currus-panther-1.webp alt=Currus Panther NF11 negro, vista lateral completa del hiperpatinete>
 
-**¿Buscas solo los datos?** <a href=/patinetes/currus-panther>Ver ficha técnica del Currus Panther</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/currus-panther/>Ver ficha técnica del Currus Panther</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Currus Panther (NF11)** nació para pelear con el Dualtron Thunder: **doble motor de 1.200 W** (5.400 W de pico), batería **Samsung SDI de 60 V y 35 Ah (2.100 Wh)** y **120 km** declarados, con un chasis coreano atornillado más robusto que el Thunder (<a href=https://www.priceboon.com/currus-nf11-the-alternative-of-choice-to-the-dualtron-thunder/>Priceboon</a>).
 
@@ -1867,7 +1867,7 @@ El **Currus Panther (NF11)** nació para pelear con el Dualtron Thunder: **doble
 | **Frenos** | Hidráulicos 160 mm |
 | **Carga** | 21 h (10 h con dos cargadores) |
 
-¿Quieres el detalle completo? <a href=/patinetes/currus-panther>Ficha técnica completa del Currus Panther</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/currus-panther/>Ficha técnica completa del Currus Panther</a> con todos los datos verificados.
 
 ## Precio del Currus Panther en España
 
@@ -1944,7 +1944,7 @@ Como pieza de coleccionista, sí. Como compra racional nueva, no hay unidades.
     ],
     content: `<img src=/media/patinetes/currus-nf-1.webp alt=Currus NF negro, vista lateral completa del patinete>
 
-**¿Buscas solo los datos?** <a href=/patinetes/currus-nf>Ver ficha técnica del Currus NF</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/currus-nf/>Ver ficha técnica del Currus NF</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Currus NF** es el modelo que lanzó la marca coreana: **doble motor** con **3.600 W de pico**, batería de **60 V y 28 Ah (1.680 Wh)**, **100-120 km** declarados y una construcción que <a href=https://electrek.co/2019/10/23/review-currus-nf-electric-scooter/>Electrek</a> calificó de referencia. Precio de lanzamiento: **2.799 $**.
 
@@ -1962,7 +1962,7 @@ El **Currus NF** es el modelo que lanzó la marca coreana: **doble motor** con *
 | **Ruedas** | 10x3" neumáticas |
 | **Frenos** | Hidráulicos con ABS |
 
-¿Quieres el detalle completo? <a href=/patinetes/currus-nf>Ficha técnica completa del Currus NF</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/currus-nf/>Ficha técnica completa del Currus NF</a> con todos los datos verificados.
 
 ## Precio del Currus NF en España
 
@@ -2043,7 +2043,7 @@ Si la batería está sana y el precio es razonable, es una pieza histórica. Rev
     ],
     content: `<img src=/media/patinetes/currus-nf10-plus-1.webp alt=Currus NF10 Plus negro, vista lateral completa del patinete>
 
-**¿Buscas solo los datos?** <a href=/patinetes/currus-nf10-plus>Ver ficha técnica del Currus NF10 Plus</a>: batería y datos verificados. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/currus-nf10-plus/>Ver ficha técnica del Currus NF10 Plus</a>: batería y datos verificados. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Currus NF10 Plus** es el eslabón entre el NF y el Panther: existe (los talleres franceses venden baterías de repuesto de **60 V y 28 Ah** para él, <a href=https://savemybattery.fr/gb/battery-for-currus-nf10-plus/412-battery-60v-28ah-car-nf10-plus.html>Save My Battery</a>), pero Currus nunca publicó una ficha técnica completa. Lo que se sabe: plataforma de **doble motor** con **1.680 Wh**.
 
@@ -2055,7 +2055,7 @@ El **Currus NF10 Plus** es el eslabón entre el NF y el Panther: existe (los tal
 | **Motor** | Doble (datos no publicados) |
 | **Resto** | No publicado por el fabricante |
 
-¿Quieres el detalle completo? <a href=/patinetes/currus-nf10-plus>Ficha técnica completa del Currus NF10 Plus</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/currus-nf10-plus/>Ficha técnica completa del Currus NF10 Plus</a> con todos los datos verificados.
 
 ## Precio del Currus NF10 Plus en España
 
@@ -2133,7 +2133,7 @@ Solo para entusiastas que sepan lo que compran. Para los demás, el Panther tien
     ],
     content: `<img src=/media/patinetes/bronco-xtreme-11-1.webp alt=Bronco Xtreme 11 negro, vista lateral completa del hiperpatinete>
 
-**¿Buscas solo los datos?** <a href=/patinetes/bronco-xtreme-11>Ver ficha técnica del Bronco Xtreme 11</a>: potencia, velocidad y frenos. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/bronco-xtreme-11/>Ver ficha técnica del Bronco Xtreme 11</a>: potencia, velocidad y frenos. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Bronco Xtreme 11** es la rareza de Singapur: **8.400 W de pico**, **112 km/h** de punta y un chasis **forjado en caliente** con control de calidad manual. Sus vendedores lo anuncian como el patinete de serie más rápido del mercado (<a href=https://scooter.guide/reviews/bronco/>Scooter.Guide</a>).
 
@@ -2149,7 +2149,7 @@ El **Bronco Xtreme 11** es la rareza de Singapur: **8.400 W de pico**, **112 km/
 | **Frenos** | E-ABS + disco |
 | **Suspensión** | Neumática delantera y trasera |
 
-¿Quieres el detalle completo? <a href=/patinetes/bronco-xtreme-11>Ficha técnica completa del Bronco Xtreme 11</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/bronco-xtreme-11/>Ficha técnica completa del Bronco Xtreme 11</a> con todos los datos verificados.
 
 ## Precio del Bronco Xtreme 11 en España
 
@@ -2230,7 +2230,7 @@ Como curiosidad de ingeniería, sí. Como compra en España, no hay forma racion
     ],
     content: `<img src=/media/patinetes/bronco-xtreme-vnom-11-1.webp alt=Bronco Xtreme VNOM 11 negro, vista lateral completa del hiperpatinete>
 
-**¿Buscas solo los datos?** <a href=/patinetes/bronco-xtreme-vnom-11>Ver ficha técnica del Bronco Xtreme VNOM 11</a>: batería, autonomía y equipamiento. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/bronco-xtreme-vnom-11/>Ver ficha técnica del Bronco Xtreme VNOM 11</a>: batería, autonomía y equipamiento. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Bronco Xtreme VNOM 11** es la evolución del Xtreme 11 hacia el gran turismo: batería de **50 Ah**, **129 km** de autonomía declarada (80 millas), **pantalla TFT**, **frenos hidráulicos** e **intermitentes** (<a href=https://alienrides.com/collections/electric-scooters/products/bronco-xtreme-vnom-11-electric-scooter>Alien Rides</a>).
 
@@ -2246,7 +2246,7 @@ El **Bronco Xtreme VNOM 11** es la evolución del Xtreme 11 hacia el gran turism
 | **Pantalla** | TFT a color |
 | **Extras** | Intermitentes, plataforma 13x26" |
 
-¿Quieres el detalle completo? <a href=/patinetes/bronco-xtreme-vnom-11>Ficha técnica completa del VNOM 11</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/bronco-xtreme-vnom-11/>Ficha técnica completa del VNOM 11</a> con todos los datos verificados.
 
 ## Precio del Bronco Xtreme VNOM 11 en España
 
@@ -2324,7 +2324,7 @@ En EE. UU. para reparto, quizá. En España es una curiosidad.
     ],
     content: `<img src=/media/patinetes/etwow-gt-se-1.webp alt=E-TWOW GT SE gris, vista lateral completa del patinete>
 
-**¿Buscas solo los datos?** <a href=/patinetes/etwow-gt-se>Ver ficha técnica del E-TWOW GT SE</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/etwow-gt-se/>Ver ficha técnica del E-TWOW GT SE</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **E-TWOW GT SE** es el GT con más autonomía: **500 W** (700 W de pico), batería **Samsung de 48 V y 10,5 Ah (504 Wh)**, **50 km** declarados (31 millas) y **13,2 kg** de peso (<a href=https://www.amazon.com/dp/B09NRHB7C8>Amazon</a>). El E-TWOW para los que no quieren cargar cada día.
 
@@ -2344,7 +2344,7 @@ El **E-TWOW GT SE** es el GT con más autonomía: **500 W** (700 W de pico), bat
 | **Ruedas** | 8" macizas |
 | **Frenos** | EBS + tambor trasero |
 
-¿Quieres el detalle completo? <a href=/patinetes/etwow-gt-se>Ficha técnica completa del E-TWOW GT SE</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/etwow-gt-se/>Ficha técnica completa del E-TWOW GT SE</a> con todos los datos verificados.
 
 ## Precio del E-TWOW GT SE en España
 
@@ -2421,7 +2421,7 @@ Revisar tornillería cada 1.000 km y tensar el cable del tambor cuando la maneta
     ],
     content: `<img src=/media/patinetes/etwow-gt-se-sport-1.webp alt=E-TWOW GT SE Sport negro, vista lateral completa del patinete>
 
-**¿Buscas solo los datos?** <a href=/patinetes/etwow-gt-se-sport>Ver ficha técnica del E-TWOW GT SE Sport</a>: precio, potencia, batería y autonomía. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/etwow-gt-se-sport/>Ver ficha técnica del E-TWOW GT SE Sport</a>: precio, potencia, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **E-TWOW GT SE Sport** con **Kit Sport** es el E-TWOW definitivo: **1.000 W de pico** en **12,3 kg**, batería de **48 V y 10,5 Ah (504 Wh)**, **Bluetooth** con app E-TWOW CONNECT y **35-45 km** de rango, por **1.240 €** en <a href=https://www.etwow.net/en/e-twow-gt-se-sport-en>E-TWOW España</a>.
 
@@ -2440,7 +2440,7 @@ El **E-TWOW GT SE Sport** con **Kit Sport** es el E-TWOW definitivo: **1.000 W d
 | **Frenos** | Tambor trasero + regenerativo |
 | **Conectividad** | Bluetooth + app |
 
-¿Quieres el detalle completo? <a href=/patinetes/etwow-gt-se-sport>Ficha técnica completa del GT SE Sport</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/etwow-gt-se-sport/>Ficha técnica completa del GT SE Sport</a> con todos los datos verificados.
 
 ## Precio del E-TWOW GT SE Sport en España
 
@@ -2518,7 +2518,7 @@ Si buscas lo máximo en potencia/peso y eres fan de E-TWOW, sí. Si no, el GT SE
     ],
     content: `<img src=/media/patinetes/egret-ey-1-1.webp alt=Egret Ey! 1 negro, vista lateral completa del patinete>
 
-**¿Buscas solo los datos?** <a href=/patinetes/egret-ey-1>Ver ficha técnica del Egret Ey! 1</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/egret-ey-1/>Ver ficha técnica del Egret Ey! 1</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Egret Ey! 1** es el buque insignia de la nueva familia Ey! de la marca de Hamburgo: **500 W** con **1.512 W de pico**, **65 km** de autonomía declarada, **doble suspensión antichoque** y neumáticos de 10 pulgadas, por **1.299 €** (<a href=https://www.voylt.com/en/e-garage/e-scooter/egret-ey%21-1>Voylt e-Garage</a>).
 
@@ -2535,7 +2535,7 @@ El **Egret Ey! 1** es el buque insignia de la nueva familia Ey! de la marca de H
 | **Ruedas** | 10" neumáticas |
 | **Suspensión** | Doble antichoque |
 
-¿Quieres el detalle completo? <a href=/patinetes/egret-ey-1>Ficha técnica completa del Egret Ey! 1</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/egret-ey-1/>Ficha técnica completa del Egret Ey! 1</a> con todos los datos verificados.
 
 ## Precio del Egret Ey! 1 en España
 
@@ -2612,7 +2612,7 @@ El Ey! 1 tiene más pico (1.512 W) y más rango (65 km); el Ey! 6 cuesta 500 €
     ],
     content: `<img src=/media/patinetes/egret-ey-2-1.webp alt=Egret Ey! 2 negro, vista lateral completa del patinete>
 
-**¿Buscas solo los datos?** <a href=/patinetes/egret-ey-2>Ver ficha técnica del Egret Ey! 2</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/egret-ey-2/>Ver ficha técnica del Egret Ey! 2</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Egret Ey! 2** es el todoterreno razonable de la familia: **500 W** (1.188 W de pico), batería de **446 Wh** (47,45 V y 9,4 Ah), **45 km** declarados y **triple freno** (tambor + disco + motor), por **899 €** (<a href=https://www.maxblinker.com/en/electric-scooters/egret-ey-2-de-street-legal>Maxblinker</a>).
 
@@ -2630,7 +2630,7 @@ El **Egret Ey! 2** es el todoterreno razonable de la familia: **500 W** (1.188 W
 | **Ruedas** | 10" tubeless autosellantes |
 | **Frenos** | Tambor + disco + motor |
 
-¿Quieres el detalle completo? <a href=/patinetes/egret-ey-2>Ficha técnica completa del Egret Ey! 2</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/egret-ey-2/>Ficha técnica completa del Egret Ey! 2</a> con todos los datos verificados.
 
 ## Precio del Egret Ey! 2 en España
 
@@ -2707,7 +2707,7 @@ El Ey! 1 tiene más pico y rango; el Ey! 2 cuesta 400 € menos. Para ciudad, el
     ],
     content: `<img src=/media/patinetes/egret-ey-3-1.webp alt=Egret Ey! 3 negro, vista lateral completa del patinete>
 
-**¿Buscas solo los datos?** <a href=/patinetes/egret-ey-3>Ver ficha técnica del Egret Ey! 3</a>: motor, batería, peso y autonomía. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/egret-ey-3/>Ver ficha técnica del Egret Ey! 3</a>: motor, batería, peso y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Egret Ey! 3** es el pequeño de la familia: **350 W**, batería de **36 V y 7,65 Ah (275 Wh)**, **30 km** declarados y **18,6 kg** de peso, con homologación alemana y suiza (<a href=https://www.digitec.ch/en/s1/product/egret-ey-3-e-scooter-20-kmh-30-km-350-w-e-scooters-standing-47502041>Digitec</a>).
 
@@ -2724,7 +2724,7 @@ El **Egret Ey! 3** es el pequeño de la familia: **350 W**, batería de **36 V y
 | **Carga** | 5,5 horas |
 | **Ruedas** | 10" |
 
-¿Quieres el detalle completo? <a href=/patinetes/egret-ey-3>Ficha técnica completa del Egret Ey! 3</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/egret-ey-3/>Ficha técnica completa del Egret Ey! 3</a> con todos los datos verificados.
 
 ## Precio del Egret Ey! 3 en España
 
@@ -2801,7 +2801,7 @@ Para quien quiere un Egret ligero y no necesita más de 20 km al día.
     ],
     content: `<img src=/media/patinetes/egret-ey-6-1.webp alt=Egret Ey! 6 negro, vista lateral completa del patinete>
 
-**¿Buscas solo los datos?** <a href=/patinetes/egret-ey-6>Ver ficha técnica del Egret Ey! 6</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/egret-ey-6/>Ver ficha técnica del Egret Ey! 6</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Egret Ey! 6** es el elegante de la familia: **450 W** (902 W de pico), batería de **551 Wh**, **55 km** declarados, **suspensión integral** e **intermitentes en los puños**, por **799 €** (<a href=https://www.digitec.ch/en/s1/product/egret-ey-6-e-scooter-20-kmh-55-km-450-w-e-scooters-standing-47502040>Digitec</a> / <a href=https://www.voylt.com/en/e-garage/e-scooter/egret-ey!-6>Voylt</a>).
 
@@ -2822,7 +2822,7 @@ El **Egret Ey! 6** es el elegante de la familia: **450 W** (902 W de pico), bate
 | **Frenos** | Disco + tambor + electrónico |
 | **Resistencia** | IPX5 |
 
-¿Quieres el detalle completo? <a href=/patinetes/egret-ey-6>Ficha técnica completa del Egret Ey! 6</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/egret-ey-6/>Ficha técnica completa del Egret Ey! 6</a> con todos los datos verificados.
 
 ## Precio del Egret Ey! 6 en España
 
@@ -2899,7 +2899,7 @@ El Ey! 6 tiene más batería (551 Wh frente a 446 Wh) y cuesta 100 € menos. Pa
     ],
     content: `<img src=/media/patinetes/egret-ey-7-1.webp alt=Egret Ey! 7 negro, vista lateral completa del patinete>
 
-**¿Buscas solo los datos?** <a href=/patinetes/egret-ey-7>Ver ficha técnica del Egret Ey! 7</a>: precio, motor y datos verificados. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/egret-ey-7/>Ver ficha técnica del Egret Ey! 7</a>: precio, motor y datos verificados. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Egret Ey! 7** es la bomba de la marca alemana: **motor Bosch**, ruedas **tubeless de 10 pulgadas**, tres modos de conducción y un precio de **449 €** (<a href=https://gadgetflare.top/en/affordable-electric-scooter-featuring-bosch-motor-unveiled-egret-ey7/>GadgetFlare</a>). A la venta desde el 28 de mayo de 2025. El Egret más barato de la historia.
 
@@ -2913,7 +2913,7 @@ El **Egret Ey! 7** es la bomba de la marca alemana: **motor Bosch**, ruedas **tu
 | **Ruedas** | 10" tubeless |
 | **Disponible** | Desde mayo 2025 |
 
-¿Quieres el detalle completo? <a href=/patinetes/egret-ey-7>Ficha técnica completa del Egret Ey! 7</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/egret-ey-7/>Ficha técnica completa del Egret Ey! 7</a> con todos los datos verificados.
 
 ## Precio del Egret Ey! 7 en España
 
@@ -2991,7 +2991,7 @@ El Ey! 6 (799 €) ofrece ficha completa y 551 Wh; el Ey! 7 es la apuesta budget
     ],
     content: `<img src=/media/patinetes/turboant-x7-max-1.webp alt=Turboant X7 Max negro, vista lateral completa del patinete>
 
-**¿Buscas solo los datos?** <a href=/patinetes/turboant-x7-max>Ver ficha técnica del Turboant X7 Max</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/turboant-x7-max/>Ver ficha técnica del Turboant X7 Max</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Turboant X7 Max** tiene el truco que todos querrían: **batería extraíble de 360 Wh** que se carga en la oficina sin subir el patinete. Además: **350 W** (700 W de pico), **52 km** declarados y **15,5 kg**, por **~415 €** (<a href=https://eridehero.com/turboant-x7-max-electric-scooter-review/>ERideHero</a> lo probó durante 200 millas).
 
@@ -3011,7 +3011,7 @@ El **Turboant X7 Max** tiene el truco que todos querrían: **batería extraíble
 | **Ruedas** | 10" neumáticas (opción honeycomb) |
 | **Frenos** | Disco + electrónico |
 
-¿Quieres el detalle completo? <a href=/patinetes/turboant-x7-max>Ficha técnica completa del Turboant X7 Max</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/turboant-x7-max/>Ficha técnica completa del Turboant X7 Max</a> con todos los datos verificados.
 
 ## Precio del Turboant X7 Max en España
 
@@ -3088,7 +3088,7 @@ El Max añade batería extraíble y más rango; el Pro ya estaba en el comparado
     ],
     content: `<img src=/media/patinetes/turboant-r9-1.webp alt=Turboant R9 negro, vista lateral completa del patinete>
 
-**¿Buscas solo los datos?** <a href=/patinetes/turboant-r9>Ver ficha técnica del Turboant R9</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/turboant-r9/>Ver ficha técnica del Turboant R9</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Turboant R9** es el todoterreno de la marca americana: **500 W traseros** (800 W de pico), batería de **48 V y 12,5 Ah (600 Wh)**, **56 km** declarados, **ruedas todoterreno de 10 pulgadas** y **doble suspensión**, por **~490 €** (<a href=https://turboant.com/products/r9-all-terrain-electric-scooter>TurboAnt oficial</a>).
 
@@ -3109,7 +3109,7 @@ El **Turboant R9** es el todoterreno de la marca americana: **500 W traseros** (
 | **Frenos** | Tambor + electrónico |
 | **Resistencia** | IP54 |
 
-¿Quieres el detalle completo? <a href=/patinetes/turboant-r9>Ficha técnica completa del Turboant R9</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/turboant-r9/>Ficha técnica completa del Turboant R9</a> con todos los datos verificados.
 
 ## Precio del Turboant R9 en España
 
@@ -3186,7 +3186,7 @@ El R9 es para tierra; el X7 Max para ciudad con batería extraíble. Terrenos di
     ],
     content: `<img src=/media/patinetes/turboant-m10-lite-1.webp alt=Turboant M10 Lite negro, vista lateral completa del patinete>
 
-**¿Buscas solo los datos?** <a href=/patinetes/turboant-m10-lite>Ver ficha técnica del Turboant M10 Lite</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes>Compáralo con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/turboant-m10-lite/>Ver ficha técnica del Turboant M10 Lite</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
 El **Turboant M10 Lite** es el más barato de la marca: **350 W**, batería de **36 V y 6,6 Ah (238 Wh)**, **25 km** declarados, **14 kg** y plegado en 3 segundos, por **~230 €** (<a href=https://turboant.com/pages/best-electric-scooter-for-campus>TurboAnt oficial</a> / <a href=https://the-gadgeteer.com/2022/12/18/turboant-m10-lite-folding-electric-scooter-review-zippy-and-fun-transportation/>The Gadgeteer</a>).
 
@@ -3207,7 +3207,7 @@ El **Turboant M10 Lite** es el más barato de la marca: **350 W**, batería de *
 | **Frenos** | Disco + electrónico |
 | **Resistencia** | IP54 |
 
-¿Quieres el detalle completo? <a href=/patinetes/turboant-m10-lite>Ficha técnica completa del Turboant M10 Lite</a> con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/turboant-m10-lite/>Ficha técnica completa del Turboant M10 Lite</a> con todos los datos verificados.
 
 ## Precio del Turboant M10 Lite en España
 

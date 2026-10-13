@@ -50,7 +50,7 @@ La lectura es directa: Omoda y Jaecoo no venden "coches chinos baratos", venden 
 
 El fenómeno no es local. En agosto, el grupo **Chery** (matriz de Omoda y Jaecoo) matriculó **22.668 unidades en Europa, un 217,5% más** que un año antes, y el **BYD Seal U** (7.789 uds) ya vende en el continente más que superventas históricos como el VW Tiguan o el Ford Kuga, según los datos de matriculaciones europeas publicados por la prensa especializada. La ofensiva china ha dejado de ser una promesa para convertirse en cuota de mercado contante y sonante.
 
-El veredicto para el comprador español: la competencia china ya no compite solo en precio, compite en **volumen y en electrificación**. Si estás comparando SUV, los tienes en el <a href=/comparador-coches>comparador de coches</a>: echa un ojo a las fichas del <a href=/coches/omoda-5-ev-electrico-precio-ficha-tecnica>Omoda 5 EV</a> y del <a href=/coches/jaecoo-5-precio-ficha-tecnica>Jaecoo 5</a>.
+El veredicto para el comprador español: la competencia china ya no compite solo en precio, compite en **volumen y en electrificación**. Si estás comparando SUV, los tienes en el <a href=/comparador-coches/>comparador de coches</a>: echa un ojo a las fichas del <a href=/coches/omoda-5-ev-electrico-precio-ficha-tecnica/>Omoda 5 EV</a> y del <a href=/coches/jaecoo-5-precio-ficha-tecnica/>Jaecoo 5</a>.
 
 ## Míralo en vídeo
 
@@ -124,7 +124,7 @@ MG no lanza este coche por capricho: según **José Antonio Galve** (SAIC Motor 
 
 <img src=/media/mg-hs-hybrid-plus-225-cv-precio-espana-cuerpo.webp alt=MG HS Hybrid+ aparcado frente a una vivienda unifamiliar española con el maletero abierto>
 
-El "pero" honesto: con la campaña de lanzamiento, el precio real de acceso puede bajar de los 26.000 €, pero esos descuentos de hasta 4.000 € suelen ir ligados a financiación. Y frente a su hermano enchufable (el HS PHEV, con más de 100 km eléctricos y etiqueta Cero), el Hybrid+ es la opción para quien no quiere ni oír hablar de cables. Compáralo con sus rivales en el <a href=/comparador-coches>comparador de coches</a>.
+El "pero" honesto: con la campaña de lanzamiento, el precio real de acceso puede bajar de los 26.000 €, pero esos descuentos de hasta 4.000 € suelen ir ligados a financiación. Y frente a su hermano enchufable (el HS PHEV, con más de 100 km eléctricos y etiqueta Cero), el Hybrid+ es la opción para quien no quiere ni oír hablar de cables. Compáralo con sus rivales en el <a href=/comparador-coches/>comparador de coches</a>.
 
 ## Míralo en vídeo
 
@@ -132,7 +132,7 @@ El "pero" honesto: con la campaña de lanzamiento, el precio real de acceso pued
 
 Vídeo: <a href=https://www.youtube.com/watch?v=5uB2nHqFUqg>PruebaTuCoche</a> en YouTube
 
-El HS Hybrid+ se suma a la ofensiva de los híbridos chinos en España que contamos en <a href=/blog/omoda-jaecoo-record-ventas-septiembre-2026>el récord de ventas de Omoda y Jaecoo</a>; con su etiqueta ECO, además, circula sin restricciones por las <a href=/blog/zbe-espana-2026-ciudades-multan-cuanto-multa>Zonas de Bajas Emisiones</a>. Y si dudas entre híbrido y eléctrico, mira <a href=/blog/anfac-septiembre-2026-record-electrificacion-model-3-lider>el récord de electrificación de septiembre de 2026</a>.
+El HS Hybrid+ se suma a la ofensiva de los híbridos chinos en España que contamos en <a href=/blog/omoda-jaecoo-record-ventas-septiembre-2026/>el récord de ventas de Omoda y Jaecoo</a>; con su etiqueta ECO, además, circula sin restricciones por las <a href=/blog/zbe-espana-2026-ciudades-multan-cuanto-multa/>Zonas de Bajas Emisiones</a>. Y si dudas entre híbrido y eléctrico, mira <a href=/blog/anfac-septiembre-2026-record-electrificacion-model-3-lider/>el récord de electrificación de septiembre de 2026</a>.
 
 ## Preguntas frecuentes
 
@@ -203,7 +203,7 @@ El "desde 12.605 €" es real, pero tiene condiciones: exige **financiar 12.500 
 
 La limitación a 4 plazas era la crítica más repetida al Dolphin Surf en foros y pruebas: un coche de 3,99 metros con aspiraciones familiares que no podía llevar a tres niños detrás. Con la quinta plaza por 350 €, BYD elimina de un plumazo su principal argumento en contra sin tocar el precio base. El Boost de 5 plazas (24.490 €, 322 km de autonomía) queda como la versión con más sentido de la gama: más autonomía que el Comfort, suficiente potencia para ciudad y ahora, cinco plazas reales.
 
-Su rival natural sigue siendo el <a href=/coches/renault-5-e-tech-2026-precio-autonomia>Renault 5 E-Tech</a>, más caro pero con más imagen. Compáralos en el <a href=/comparador-coches>comparador de coches eléctricos</a>.
+Su rival natural sigue siendo el <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>Renault 5 E-Tech</a>, más caro pero con más imagen. Compáralos en el <a href=/comparador-coches/>comparador de coches eléctricos</a>.
 
 ## Míralo en vídeo
 
@@ -251,7 +251,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
   ],
   content: `<img src=/media/dongfeng-vigo-mage-phev-precio-espana-ficha-hero.webp alt=Dos SUV electrificados aparcados en un mirador español al atardecer>
 
-Dongfeng va en serio en España. La marca china —de la mano del importador **Salvador Caetano Auto**— acaba de abrir los pedidos de sus dos nuevos SUV electrificados: el **Vigo 100% eléctrico** (el Nammi 06 que se vende en China: <a href=/blog/dongfeng-nammi-06-2025-precio-ficha-tecnica>ver el análisis del Nammi 06</a>) y el **Mage híbrido enchufable**. Ambos con **etiqueta Cero** de la <a href=https://www.dgt.es>DGT</a>, ambos con un único acabado completísimo (solo eliges el color) y ambos con precios que ponen en apuros a todo el segmento C.
+Dongfeng va en serio en España. La marca china —de la mano del importador **Salvador Caetano Auto**— acaba de abrir los pedidos de sus dos nuevos SUV electrificados: el **Vigo 100% eléctrico** (el Nammi 06 que se vende en China: <a href=/blog/dongfeng-nammi-06-2025-precio-ficha-tecnica/>ver el análisis del Nammi 06</a>) y el **Mage híbrido enchufable**. Ambos con **etiqueta Cero** de la <a href=https://www.dgt.es>DGT</a>, ambos con un único acabado completísimo (solo eliges el color) y ambos con precios que ponen en apuros a todo el segmento C.
 
 ## Datos clave
 
@@ -286,9 +286,9 @@ Los 26.615 € y 28.740 € **incluyen los descuentos de lanzamiento y el adelan
 
 El **Vigo** es el más interesante de los dos: 167 kW de carga DC en un coche de 26.615 € es una cifra que ni muchos eléctricos de 40.000 € ofrecen, y los 340 km WLTP con batería LFP (más duradera y barata de producir) lo hacen creíble como coche único para quien no haga viajes larguísimos a diario. El equipamiento de serie —asientos delanteros eléctricos con memoria, calefacción y ventilación, cámara 360º, carga inalámbrica de 50 W— es de segmento superior.
 
-El **Mage** juega otra liga: 299 CV y 89 km eléctricos lo colocan frente a los PHEV europeos de 40.000 € para arriba, con la ventaja de poder hacer el día a día en eléctrico y los viajes largos sin parar a cargar. Su rival directo en precio es el <a href=/coches/jaecoo-5-precio-ficha-tecnica>Jaecoo 5</a>; en formato eléctrico puro, el <a href=/coches/byd-atto-2-precio-ficha-tecnica>BYD Atto 2</a>.
+El **Mage** juega otra liga: 299 CV y 89 km eléctricos lo colocan frente a los PHEV europeos de 40.000 € para arriba, con la ventaja de poder hacer el día a día en eléctrico y los viajes largos sin parar a cargar. Su rival directo en precio es el <a href=/coches/jaecoo-5-precio-ficha-tecnica/>Jaecoo 5</a>; en formato eléctrico puro, el <a href=/coches/byd-atto-2-precio-ficha-tecnica/>BYD Atto 2</a>.
 
-¿El "pero"? La marca aún está construyendo su red (25 puntos de venta) y no hay opiniones de propietarios españoles todavía: son modelos recién llegados. A cambio, la garantía de 10 años sin límite de kilómetros en la batería es la mejor del mercado. Los tienes en el <a href=/comparador-coches>comparador de coches</a>.
+¿El "pero"? La marca aún está construyendo su red (25 puntos de venta) y no hay opiniones de propietarios españoles todavía: son modelos recién llegados. A cambio, la garantía de 10 años sin límite de kilómetros en la batería es la mejor del mercado. Los tienes en el <a href=/comparador-coches/>comparador de coches</a>.
 
 ## Míralo en vídeo
 

@@ -306,7 +306,7 @@ function Reverso({ p }: { p: PatineteComparador }) {
           </span>
         ) : (
           <Link
-            to={`/patinetes/${p.id}`}
+            to={`/patinetes/${p.id}/`}
             onClick={(e) => e.stopPropagation()}
             className="block rounded-[10px] bg-[#cd001d] px-2 py-2 text-center text-[12px] font-bold text-white transition hover:bg-[#a50018]"
           >
@@ -713,7 +713,7 @@ export default function ComparadorPatinetesPage() {
             Inicio
           </Link>{" "}
           ·{" "}
-          <Link to="/herramientas" className="hover:underline">
+          <Link to="/herramientas/" className="hover:underline">
             Herramientas
           </Link>{" "}
           · <span className="text-gray-700">Comparador de patinetes</span>
@@ -1103,7 +1103,7 @@ export default function ComparadorPatinetesPage() {
                     </button>
                     {!resultadoIA.esIA && (
                       <Link
-                        to={`/patinetes/${resultadoIA.id}`}
+                        to={`/patinetes/${resultadoIA.id}/`}
                         className="rounded-xl bg-[#cd001d] px-4 py-2 text-sm font-bold text-white transition hover:bg-[#a50018]"
                       >
                         Ver ficha completa →

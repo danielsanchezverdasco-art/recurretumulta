@@ -54,7 +54,7 @@ function cocheACard(c: CocheComparador): FichaCard {
     marca: c.marca,
     modelo: c.modelo,
     nombreBusqueda: `${c.marca} ${c.modelo}`,
-    ruta: `/coches/${c.id}`,
+    ruta: `/coches/${c.id}/`,
     foto: c.imagenOficial || c.imagen || null,
     fotoAlt: `${c.marca} ${c.modelo}`,
     precio: c.precioDesde,
@@ -87,7 +87,7 @@ function motoACard(m: MotoComparador): FichaCard {
     marca: m.marca,
     modelo: m.modelo,
     nombreBusqueda: `${m.marca} ${m.modelo} ${m.version}`,
-    ruta: `/motos/${m.id}`,
+    ruta: `/motos/${m.id}/`,
     foto: m.imagen ?? null,
     fotoAlt: `Foto oficial de la ${m.marca} ${m.modelo}`,
     precio: m.precioDesde,
@@ -118,7 +118,7 @@ function patineteACard(p: PatineteComparador): FichaCard {
     marca: p.marca,
     modelo: p.modelo,
     nombreBusqueda: `${p.marca} ${p.modelo}`,
-    ruta: `/patinetes/${p.id}`,
+    ruta: `/patinetes/${p.id}/`,
     foto: p.foto || null,
     fotoAlt: `Patinete eléctrico ${p.marca} ${p.modelo}`,
     precio: p.precioEur,
@@ -646,9 +646,9 @@ export default function FichasTecnicasPage() {
             Los comparadores te ponen dos fichas cara a cara, con duelo de datos y veredicto.
           </p>
           <div className="mt-4 flex flex-wrap justify-center gap-2">
-            <Link to="/comparador-coches" className="rounded-full bg-gray-900 px-4 py-2 text-xs font-bold text-white hover:bg-gray-700">Comparador de coches</Link>
-            <Link to="/comparador-motos" className="rounded-full bg-gray-900 px-4 py-2 text-xs font-bold text-white hover:bg-gray-700">Comparador de motos</Link>
-            <Link to="/comparador-patinetes" className="rounded-full bg-gray-900 px-4 py-2 text-xs font-bold text-white hover:bg-gray-700">Comparador de patinetes</Link>
+            <Link to="/comparador-coches/" className="rounded-full bg-gray-900 px-4 py-2 text-xs font-bold text-white hover:bg-gray-700">Comparador de coches</Link>
+            <Link to="/comparador-motos/" className="rounded-full bg-gray-900 px-4 py-2 text-xs font-bold text-white hover:bg-gray-700">Comparador de motos</Link>
+            <Link to="/comparador-patinetes/" className="rounded-full bg-gray-900 px-4 py-2 text-xs font-bold text-white hover:bg-gray-700">Comparador de patinetes</Link>
           </div>
         </section>
 

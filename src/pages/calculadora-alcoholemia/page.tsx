@@ -114,7 +114,7 @@ export default function CalculadoraAlcoholemiaPage() {
             <nav aria-label="Migas de pan" className="flex items-center gap-1.5 text-xs text-white/60">
               <Link to="/" className="hover:text-white">Inicio</Link>
               <span aria-hidden="true">/</span>
-              <Link to="/herramientas" className="hover:text-white">Herramientas</Link>
+              <Link to="/herramientas/" className="hover:text-white">Herramientas</Link>
               <span aria-hidden="true">/</span>
               <span className="text-white/40">Alcoholemia</span>
             </nav>
@@ -232,7 +232,7 @@ export default function CalculadoraAlcoholemiaPage() {
             <li className="bg-slate-50 border border-slate-200 rounded-xl p-4"><strong className="text-slate-800">0,50 g/l en sangre</strong> (0,25 mg/l en aire espirado): conductores en general.</li>
             <li className="bg-slate-50 border border-slate-200 rounded-xl p-4"><strong className="text-slate-800">0,30 g/l en sangre</strong> (0,15 mg/l en aire espirado): conductores noveles (menos de 2 años de carnet) y profesionales.</li>
           </ul>
-          <p className="text-slate-600 mt-4">Superar la tasa es infracción grave: <strong>500 € y 4 puntos</strong> (1.000 € y 6 puntos si doblas la tasa o reincides). Por encima de 0,60 mg/l en aire o conduciendo bajo la influencia es <strong>delito</strong> (art. 379.2 del Código Penal). Tienes el detalle completo en nuestra <Link to="/guias/alcohol-drogas" className="text-green-700 font-semibold hover:underline">guía de alcohol y drogas al volante</Link>.</p>
+          <p className="text-slate-600 mt-4">Superar la tasa es infracción grave: <strong>500 € y 4 puntos</strong> (1.000 € y 6 puntos si doblas la tasa o reincides). Por encima de 0,60 mg/l en aire o conduciendo bajo la influencia es <strong>delito</strong> (art. 379.2 del Código Penal). Tienes el detalle completo en nuestra <Link to="/guias/alcohol-drogas/" className="text-green-700 font-semibold hover:underline">guía de alcohol y drogas al volante</Link>.</p>
         </section>
 
         <section className="bg-white rounded-3xl border border-slate-200 p-6 sm:p-8">
@@ -284,11 +284,11 @@ export default function CalculadoraAlcoholemiaPage() {
         <nav className="bg-slate-100 rounded-3xl p-6 border border-slate-200">
           <h2 className="font-bold mb-4">Más herramientas y guías</h2>
           <div className="grid sm:grid-cols-2 gap-3 text-sm">
-            <Link to="/herramientas" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Todas las herramientas</Link>
-            <Link to="/guias/alcohol-drogas" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Guía: alcohol y drogas al volante</Link>
-            <Link to="/buscador-codigo-multa" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Buscador de infracciones por código</Link>
-            <Link to="/calculadora-autonomia-real" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Calculadora de autonomía real</Link>
-            <Link to="/calculadora-etiqueta-dgt" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Calculadora de etiqueta DGT</Link>
+            <Link to="/herramientas/" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Todas las herramientas</Link>
+            <Link to="/guias/alcohol-drogas/" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Guía: alcohol y drogas al volante</Link>
+            <Link to="/buscador-codigo-multa/" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Buscador de infracciones por código</Link>
+            <Link to="/calculadora-autonomia-real/" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Calculadora de autonomía real</Link>
+            <Link to="/calculadora-etiqueta-dgt/" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Calculadora de etiqueta DGT</Link>
             <Link to="/" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Analizador gratuito de multas</Link>
           </div>
         </nav>

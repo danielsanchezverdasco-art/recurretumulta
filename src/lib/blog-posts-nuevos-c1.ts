@@ -18,7 +18,7 @@ export const NUEVOS_C1_POSTS: BlogPost[] = [
     "keywords": ["BYD Atto 2 DM-i precio", "Atto 2 DM-i ficha técnica", "BYD Atto 2 híbrido enchufable", "Atto 2 DM-i autonomía", "BYD Atto 2 2026 España", "PHEV más vendido España"],
     "content": `<img src=/media/byd-atto-2-dm-i-2026-precio-ficha-tecnica-hero.webp alt=BYD Atto 2 DM-i 2026 azul en estudio>
 
-**¿Buscas solo los datos?** <a href=/coches/byd-atto-2-dm-i-2026-precio-ficha-tecnica>Ver la ficha técnica del BYD Atto 2 DM-i</a>: precio, potencia, consumo y maletero. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/byd-atto-2-dm-i-2026-precio-ficha-tecnica/>Ver la ficha técnica del BYD Atto 2 DM-i</a>: precio, potencia, consumo y maletero. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **BYD Atto 2 DM-i** es el híbrido enchufable más vendido de España y la prueba de que la fórmula china funciona: un SUV compacto de **4,33 metros** con **212 CV**, **90 km de autonomía eléctrica** y una autonomía total que supera los **1.000 km**, por **28.200 €** de partida. Con **20.940 €** aplicando promociones y ayudas, no tiene rival en relación precio-tecnología.
 
@@ -43,7 +43,7 @@ Su secreto es la quinta generación del sistema **DM-i** de BYD: un 1.5 de gasol
 | Peso | 1.620 kg |
 | Etiqueta DGT | Cero |
 
-<a href=/coches/byd-atto-2-dm-i-2026-precio-ficha-tecnica>Ver la ficha técnica completa del Atto 2 DM-i con galería de fotos</a>
+<a href=/coches/byd-atto-2-dm-i-2026-precio-ficha-tecnica/>Ver la ficha técnica completa del Atto 2 DM-i con galería de fotos</a>
 
 ## Dos versiones: Active y Boost
 
@@ -120,7 +120,7 @@ Sí: el Atto 2 DM-i lidera las ventas de PHEV en España en 2026.
     "keywords": ["BYD Sealion 05 DM-i", "Sealion 05 ficha técnica", "BYD Sealion 05 autonomía", "híbrido enchufable 2000 km", "BYD Sealion 05 precio", "Sealion 05 Europa"],
     "content": `<img src=/media/byd-sealion-05-dm-i-2025-precio-ficha-tecnica-hero.webp alt=BYD Sealion 05 DM-i blanco en estudio>
 
-**¿Buscas solo los datos?** <a href=/coches/byd-sealion-05-dm-i-2025-precio-ficha-tecnica>Ver la ficha técnica del BYD Sealion 05 DM-i</a>: autonomía, batería y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/byd-sealion-05-dm-i-2025-precio-ficha-tecnica/>Ver la ficha técnica del BYD Sealion 05 DM-i</a>: autonomía, batería y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **BYD Sealion 05 DM-i** es el híbrido enchufable con más autonomía del mundo: hasta **305 km en modo eléctrico** y **2.105 km de autonomía combinada** según el ciclo chino. Un SUV de **4,62 metros** con maletero de **650 litros** que en China cuesta entre **14.360 y 18.760 €**. El problema: de momento, solo se vende allí.
 
@@ -139,7 +139,7 @@ El **BYD Sealion 05 DM-i** es el híbrido enchufable con más autonomía del mun
 | Batalla | 2.770 mm |
 | Tracción | Delantera |
 
-<a href=/coches/byd-sealion-05-dm-i-2025-precio-ficha-tecnica>Ver la ficha técnica completa del Sealion 05 DM-i</a>
+<a href=/coches/byd-sealion-05-dm-i-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del Sealion 05 DM-i</a>
 
 ## La receta: batería grande y motor eficiente
 
@@ -194,7 +194,7 @@ BYD no lo ha confirmado; en Europa su hueco lo cubren el Seal U DM-i y el Sealio
     "keywords": ["BYD Qin L DM-i", "Qin L ficha técnica", "BYD Qin L precio", "berlina híbrida enchufable", "Qin L autonomía", "BYD Qin L Europa"],
     "content": `<img src=/media/byd-qin-l-dm-i-2025-precio-ficha-tecnica-hero.webp alt=BYD Qin L DM-i berlina en estudio>
 
-**¿Buscas solo los datos?** <a href=/coches/byd-qin-l-dm-i-2025-precio-ficha-tecnica>Ver la ficha técnica del BYD Qin L DM-i</a>: potencia, autonomía y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/byd-qin-l-dm-i-2025-precio-ficha-tecnica/>Ver la ficha técnica del BYD Qin L DM-i</a>: potencia, autonomía y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **BYD Qin L DM-i** es uno de los coches más vendidos de China: una berlina de **4,83 metros** con tecnología híbrida enchufable de quinta generación, **218 CV**, **120 km de autonomía eléctrica** y un consumo de **3,8 l/100 km**. Todo por un precio que en China ronda los 14.000 €. En Europa, simplemente, no existe nada parecido.
 
@@ -213,7 +213,7 @@ El **BYD Qin L DM-i** es uno de los coches más vendidos de China: una berlina d
 | Peso | 1.660 - 1.775 kg |
 | Tracción | Delantera |
 
-<a href=/coches/byd-qin-l-dm-i-2025-precio-ficha-tecnica>Ver la ficha técnica completa del Qin L DM-i</a>
+<a href=/coches/byd-qin-l-dm-i-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del Qin L DM-i</a>
 
 ## Eficiencia de referencia
 
@@ -268,7 +268,7 @@ Parte de unos 13.700 € al cambio.
     "keywords": ["BYD Song L EV", "Song L ficha técnica", "BYD Song L autonomía", "SUV coupé eléctrico chino", "BYD Song L precio", "Song L 517 CV"],
     "content": `<img src=/media/byd-song-l-ev-2025-precio-ficha-tecnica-hero.webp alt=BYD Song L EV SUV coupé en estudio>
 
-**¿Buscas solo los datos?** <a href=/coches/byd-song-l-ev-2025-precio-ficha-tecnica>Ver la ficha técnica del BYD Song L EV</a>: potencia, autonomía y batería. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/byd-song-l-ev-2025-precio-ficha-tecnica/>Ver la ficha técnica del BYD Song L EV</a>: potencia, autonomía y batería. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **BYD Song L EV** es el SUV coupé eléctrico de BYD: **4,84 metros**, hasta **517 CV** con tracción total, **662 km de autonomía** y arquitectura de **800 V**. Tres versiones (204, 313 y 517 CV) que cubren desde el familiar eficiente hasta el deportivo. Como tantos BYD interesantes, de momento solo se vende en China.
 
@@ -285,7 +285,7 @@ El **BYD Song L EV** es el SUV coupé eléctrico de BYD: **4,84 metros**, hasta 
 | Batalla | 2.930 mm |
 | Tracción | Trasera / Total |
 
-<a href=/coches/byd-song-l-ev-2025-precio-ficha-tecnica>Ver la ficha técnica completa del Song L EV</a>
+<a href=/coches/byd-song-l-ev-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del Song L EV</a>
 
 ## Tres Song L para tres conductores
 
@@ -337,7 +337,7 @@ La e-Platform 3.0 de BYD con arquitectura de 800 V.
     "keywords": ["BYD Seal 06 GT", "Seal 06 GT ficha técnica", "BYD Seal 06 GT precio", "compacto eléctrico deportivo", "Seal 06 GT autonomía", "BYD 800V"],
     "content": `<img src=/media/byd-seal-06-gt-2025-precio-ficha-tecnica-hero.webp alt=BYD Seal 06 GT verde en carretera>
 
-**¿Buscas solo los datos?** <a href=/coches/byd-seal-06-gt-2025-precio-ficha-tecnica>Ver la ficha técnica del BYD Seal 06 GT</a>: potencia, autonomía y batería. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/byd-seal-06-gt-2025-precio-ficha-tecnica/>Ver la ficha técnica del BYD Seal 06 GT</a>: potencia, autonomía y batería. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **BYD Seal 06 GT** es lo que muchos pedían: un compacto eléctrico con alma deportiva. **224 CV** en la versión intermedia, **422 CV** con tracción total en la tope, **605 km de autonomía**, arquitectura de **800 V** y un precio en China desde **15.300 €**. Un Golf R eléctrico a precio de Golf TDI. Lástima que no venga a Europa.
 
@@ -356,7 +356,7 @@ El **BYD Seal 06 GT** es lo que muchos pedían: un compacto eléctrico con alma 
 | Batalla | 2.820 mm |
 | Arquitectura | 800 V |
 
-<a href=/coches/byd-seal-06-gt-2025-precio-ficha-tecnica>Ver la ficha técnica completa del Seal 06 GT</a>
+<a href=/coches/byd-seal-06-gt-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del Seal 06 GT</a>
 
 ## El GT de verdad: 422 CV y 4,9 segundos
 
@@ -411,7 +411,7 @@ De 595 a 1.103 litros abatiendo los asientos.
     "keywords": ["BYD Yuan Up", "Yuan Up ficha técnica", "BYD Yuan Up precio", "SUV eléctrico barato", "Yuan Up autonomía", "BYD eléctrico urbano"],
     "content": `<img src=/media/byd-yuan-up-2025-precio-ficha-tecnica-hero.webp alt=BYD Yuan Up SUV eléctrico en estudio>
 
-**¿Buscas solo los datos?** <a href=/coches/byd-yuan-up-2025-precio-ficha-tecnica>Ver la ficha técnica del BYD Yuan Up</a>: potencia, autonomía y batería. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/byd-yuan-up-2025-precio-ficha-tecnica/>Ver la ficha técnica del BYD Yuan Up</a>: potencia, autonomía y batería. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **BYD Yuan Up** es el SUV eléctrico urbano de BYD: **4,31 metros**, **177 CV**, **290 Nm**, **401 km de autonomía** y un **0-100 en 7,9 segundos**. El eléctrico de acceso de la marca china, con la plataforma e-Platform 3.0 y la batería Blade, a un precio rompedor en su mercado. En España, su hueco lo ocupa el Atto 2 eléctrico.
 
@@ -430,7 +430,7 @@ El **BYD Yuan Up** es el SUV eléctrico urbano de BYD: **4,31 metros**, **177 CV
 | Batalla | 2.620 mm |
 | Tracción | Delantera |
 
-<a href=/coches/byd-yuan-up-2025-precio-ficha-tecnica>Ver la ficha técnica completa del Yuan Up</a>
+<a href=/coches/byd-yuan-up-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del Yuan Up</a>
 
 ## Ágil en ciudad, solvente en carretera
 
@@ -482,7 +482,7 @@ No: en España su equivalente es el BYD Atto 2 eléctrico.
     "keywords": ["MG S6 EV precio", "MG S6 EV ficha técnica", "MG S6 EV autonomía", "MG S6 EV 2026 España", "SUV eléctrico 530 km", "MG Marvel R sustituto"],
     "content": `<img src=/media/mg-s6-ev-2026-precio-ficha-tecnica-hero.webp alt=MG S6 EV 2026 SUV eléctrico>
 
-**¿Buscas solo los datos?** <a href=/coches/mg-s6-ev-2026-precio-ficha-tecnica>Ver la ficha técnica del MG S6 EV</a>: precio, autonomía, carga y maletero. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/mg-s6-ev-2026-precio-ficha-tecnica/>Ver la ficha técnica del MG S6 EV</a>: precio, autonomía, carga y maletero. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **MG S6 EV** es el sustituto del Marvel R y el nuevo buque insignia eléctrico de MG en España: un SUV de **4,71 metros** con **245 CV**, **530 km de autonomía WLTP**, carga rápida de **144 kW** y un precio de **45.990 €** (37.789 € con ayudas). Bomba de calor y V2L de serie. Directo a por el Tesla Model Y.
 
@@ -503,7 +503,7 @@ El **MG S6 EV** es el sustituto del Marvel R y el nuevo buque insignia eléctric
 | Longitud | 4.710 mm |
 | Etiqueta DGT | Cero |
 
-<a href=/coches/mg-s6-ev-2026-precio-ficha-tecnica>Ver la ficha técnica completa del MG S6 EV con galería de fotos</a>
+<a href=/coches/mg-s6-ev-2026-precio-ficha-tecnica/>Ver la ficha técnica completa del MG S6 EV con galería de fotos</a>
 
 ## 530 km y carga de 144 kW
 
@@ -576,7 +576,7 @@ Sí: es su relevo natural en la gama MG.
     "keywords": ["MG ZS Hybrid+ precio", "MG ZS híbrido ficha técnica", "MG ZS 2026", "ZS Hybrid+ 197 CV", "SUV híbrido barato", "MG ZS ECO"],
     "content": `<img src=/media/mg-zs-hybrid-plus-2026-precio-ficha-tecnica-hero.webp alt=MG ZS Hybrid+ 2026 rojo>
 
-**¿Buscas solo los datos?** <a href=/coches/mg-zs-hybrid-plus-2026-precio-ficha-tecnica>Ver la ficha técnica del MG ZS Hybrid+</a>: precio, potencia, consumo y maletero. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/mg-zs-hybrid-plus-2026-precio-ficha-tecnica/>Ver la ficha técnica del MG ZS Hybrid+</a>: precio, potencia, consumo y maletero. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **MG ZS Hybrid+** es el SUV híbrido más vendido de su precio: **197 CV**, etiqueta **ECO**, consumos en torno a **5 l/100 km** y un precio de **20.340 €** que deja en evidencia a Toyota o Renault. La actualización **2026** lo hace más silencioso y añade equipamiento: cámara 360° y cargador inalámbrico de serie desde el acabado Comfort.
 
@@ -595,7 +595,7 @@ El **MG ZS Hybrid+** es el SUV híbrido más vendido de su precio: **197 CV**, e
 | Etiqueta DGT | ECO |
 | Garantía | 7 años o 150.000 km |
 
-<a href=/coches/mg-zs-hybrid-plus-2026-precio-ficha-tecnica>Ver la ficha técnica completa del ZS Hybrid+ con galería de fotos</a>
+<a href=/coches/mg-zs-hybrid-plus-2026-precio-ficha-tecnica/>Ver la ficha técnica completa del ZS Hybrid+ con galería de fotos</a>
 
 ## Qué cambia en 2026
 
@@ -669,7 +669,7 @@ En torno a 5,1 l/100 km en uso mixto.
     "keywords": ["MG7", "MG7 ficha técnica", "MG7 precio", "berlina MG", "MG7 261 CV", "MG7 Europa"],
     "content": `<img src=/media/mg7-2025-precio-ficha-tecnica-hero.webp alt=MG7 berlina fastback verde>
 
-**¿Buscas solo los datos?** <a href=/coches/mg7-2025-precio-ficha-tecnica>Ver la ficha técnica del MG7</a>: potencia, medidas y motor. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/mg7-2025-precio-ficha-tecnica/>Ver la ficha técnica del MG7</a>: potencia, medidas y motor. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **MG7** es la berlina insignia de MG: un fastback de **4,88 metros** con **2.0 turbo de 261 CV y 405 Nm**, cambio automático de 9 velocidades, alerón trasero activo y un diseño que quita el hipo. En China cuesta desde unos **15.000 €**. Y no, no vendrá a Europa: MG lo ha confirmado.
 
@@ -688,7 +688,7 @@ El **MG7** es la berlina insignia de MG: un fastback de **4,88 metros** con **2.
 | Tracción | Delantera |
 | ADAS | MG Pilot nivel 2 |
 
-<a href=/coches/mg7-2025-precio-ficha-tecnica>Ver la ficha técnica completa del MG7</a>
+<a href=/coches/mg7-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del MG7</a>
 
 ## 261 CV con sabor clásico
 
@@ -743,7 +743,7 @@ Ninguna directa; MG apuesta por eléctricos como el MG4 o el S6 EV.
     "keywords": ["MG S5 EV", "MG S5 EV precio", "S5 EV ficha técnica", "MG S5 EV autonomía", "sustituto ZS EV", "MG S5 EV 2026"],
     "content": `<img src=/media/mg-s5-ev-2026-precio-ficha-tecnica-hero.webp alt=MG S5 EV SUV eléctrico gris>
 
-**¿Buscas solo los datos?** <a href=/coches/mg-s5-ev-2026-precio-ficha-tecnica>Ver la ficha técnica del MG S5 EV</a>: potencia, autonomía y carga. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/mg-s5-ev-2026-precio-ficha-tecnica/>Ver la ficha técnica del MG S5 EV</a>: potencia, autonomía y carga. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **MG S5 EV** toma el testigo del ZS EV como SUV eléctrico de acceso de MG: **4,48 metros**, **231 CV**, **480 km de autonomía WLTP**, carga rápida de **139 kW** y **tracción trasera** sobre la plataforma MSP. Dos versiones: 170 CV con 49 kWh (340 km) y 231 CV con 62 kWh (480 km).
 
@@ -761,7 +761,7 @@ El **MG S5 EV** toma el testigo del ZS EV como SUV eléctrico de acceso de MG: *
 | Plataforma | MSP (dedicada eléctrica) |
 | Etiqueta DGT | Cero |
 
-<a href=/coches/mg-s5-ev-2026-precio-ficha-tecnica>Ver la ficha técnica completa del MG S5 EV</a>
+<a href=/coches/mg-s5-ev-2026-precio-ficha-tecnica/>Ver la ficha técnica completa del MG S5 EV</a>
 
 ## Tracción trasera y 480 km
 
@@ -817,7 +817,7 @@ Entre 32.348 y 38.348 € de tarifa; desde 22.090 € con promociones, financiac
     "keywords": ["Chery Tiggo 4 Pro", "Tiggo 4 Pro ficha técnica", "Chery Tiggo 4 precio", "Tiggo 4 Pro 1.5T", "SUV chino barato", "Chery Tiggo 4 España"],
     "content": `<img src=/media/chery-tiggo-4-pro-15t-2026-precio-ficha-tecnica-hero.webp alt=Chery Tiggo 4 Pro blanco en estudio>
 
-**¿Buscas solo los datos?** <a href=/coches/chery-tiggo-4-pro-15t-2026-precio-ficha-tecnica>Ver la ficha técnica del Chery Tiggo 4 Pro</a>: motor, potencia y equipamiento. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/chery-tiggo-4-pro-15t-2026-precio-ficha-tecnica/>Ver la ficha técnica del Chery Tiggo 4 Pro</a>: motor, potencia y equipamiento. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Chery Tiggo 4 Pro** es la puerta de entrada al mundo Tiggo: un SUV compacto con **1.5 turbo de 147 CV y 210 Nm**, cambio **CVT** y un equipamiento que avergüenza a rivales mucho más caros. En los mercados donde se vende es el SUV chino más asequible con turbo. En España no se vende: aquí Chery opera con **Omoda y Jaecoo**.
 
@@ -835,7 +835,7 @@ El **Chery Tiggo 4 Pro** es la puerta de entrada al mundo Tiggo: un SUV compacto
 | Pantalla | 10,25" + cuadro digital |
 | Garantía motor | De por vida (varios mercados) |
 
-<a href=/coches/chery-tiggo-4-pro-15t-2026-precio-ficha-tecnica>Ver la ficha técnica completa del Tiggo 4 Pro</a>
+<a href=/coches/chery-tiggo-4-pro-15t-2026-precio-ficha-tecnica/>Ver la ficha técnica completa del Tiggo 4 Pro</a>
 
 ## Mecánica probada y sin complicaciones
 
@@ -894,7 +894,7 @@ Cinco.
     "keywords": ["Chery Tiggo 7 Pro", "Tiggo 7 Pro ficha técnica", "Chery Tiggo 7 precio", "Tiggo 7 Pro 197 CV", "Tiggo 7 PHEV", "Jaecoo 7 hermano"],
     "content": `<img src=/media/chery-tiggo-7-pro-2026-precio-ficha-tecnica-hero.webp alt=Chery Tiggo 7 Pro azul en carretera>
 
-**¿Buscas solo los datos?** <a href=/coches/chery-tiggo-7-pro-2026-precio-ficha-tecnica>Ver la ficha técnica del Chery Tiggo 7 Pro</a>: motor, medidas y maletero. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/chery-tiggo-7-pro-2026-precio-ficha-tecnica/>Ver la ficha técnica del Chery Tiggo 7 Pro</a>: motor, medidas y maletero. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Chery Tiggo 7 Pro** es el SUV intermedio de Chery: **4,50 metros**, **1.6 turbo de 197 CV y 290 Nm**, cambio DCT de 7 velocidades y maletero de **475 litros**. Y para quien quiera más, existe una versión **híbrida enchufable de 315 CV** con 75 km eléctricos. En España no se vende como Chery: su gemelo es el **Jaecoo 7**.
 
@@ -913,7 +913,7 @@ El **Chery Tiggo 7 Pro** es el SUV intermedio de Chery: **4,50 metros**, **1.6 t
 | Batalla | 2.670 mm |
 | Tracción | Delantera |
 
-<a href=/coches/chery-tiggo-7-pro-2026-precio-ficha-tecnica>Ver la ficha técnica completa del Tiggo 7 Pro</a>
+<a href=/coches/chery-tiggo-7-pro-2026-precio-ficha-tecnica/>Ver la ficha técnica completa del Tiggo 7 Pro</a>
 
 ## 197 CV que se notan
 
@@ -965,7 +965,7 @@ No como Chery; su gemelo es el Jaecoo 7.
     "keywords": ["Chery Tiggo 8 Pro", "Tiggo 8 Pro ficha técnica", "Chery Tiggo 8 precio", "SUV 7 plazas chino", "Tiggo 8 PHEV 342 CV", "Chery 7 plazas"],
     "content": `<img src=/media/chery-tiggo-8-pro-2026-precio-ficha-tecnica-hero.webp alt=Chery Tiggo 8 Pro negro al atardecer>
 
-**¿Buscas solo los datos?** <a href=/coches/chery-tiggo-8-pro-2026-precio-ficha-tecnica>Ver la ficha técnica del Chery Tiggo 8 Pro</a>: motor, plazas y equipamiento. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/chery-tiggo-8-pro-2026-precio-ficha-tecnica/>Ver la ficha técnica del Chery Tiggo 8 Pro</a>: motor, plazas y equipamiento. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Chery Tiggo 8 Pro** es el SUV grande de Chery: **7 plazas reales**, **2.0 turbo de 254 CV y 390 Nm**, y una versión **híbrida enchufable de 342 CV** con 18,4 kWh. Equipamiento de lujo (head-up display, audio Sony, techo panorámico) y **7 airbags**. El familiar chino definitivo.
 
@@ -983,7 +983,7 @@ El **Chery Tiggo 8 Pro** es el SUV grande de Chery: **7 plazas reales**, **2.0 t
 | Airbags | 7 |
 | Pantalla | 15,6" + cuadro de 10,25" |
 
-<a href=/coches/chery-tiggo-8-pro-2026-precio-ficha-tecnica>Ver la ficha técnica completa del Tiggo 8 Pro</a>
+<a href=/coches/chery-tiggo-8-pro-2026-precio-ficha-tecnica/>Ver la ficha técnica completa del Tiggo 8 Pro</a>
 
 ## El 2.0T más potente de Chery
 
@@ -1035,7 +1035,7 @@ No como Chery; su equivalente es el Jaecoo 8.
     "keywords": ["iCAUR V23", "iCAUR V23 ficha técnica", "iCar V23", "todoterreno eléctrico chino", "iCAUR V23 precio", "Chery iCAUR"],
     "content": `<img src=/media/icaur-v23-2026-precio-ficha-tecnica-hero.webp alt=iCAUR V23 todoterreno eléctrico en salón>
 
-**¿Buscas solo los datos?** <a href=/coches/icaur-v23-2026-precio-ficha-tecnica>Ver la ficha técnica del iCAUR V23</a>: potencia, batería y tracción. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/icaur-v23-2026-precio-ficha-tecnica/>Ver la ficha técnica del iCAUR V23</a>: potencia, batería y tracción. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **iCAUR V23** es la apuesta más divertida de Chery: un **todoterreno eléctrico de estética retro** (piensa en un Land Rover Defender pasado por el filtro del diseño chino) con **208 CV**, tracción **4x4**, batería de **81,8 kWh** y una pantalla de **15,4 pulgadas**. Solo tiene **4 plazas**. Y nos encanta por eso.
 
@@ -1053,7 +1053,7 @@ El **iCAUR V23** es la apuesta más divertida de Chery: un **todoterreno eléctr
 | Medidas | 4.220 x 1.915 x 1.845 mm |
 | Garantía | 8 años o 200.000 km |
 
-<a href=/coches/icaur-v23-2026-precio-ficha-tecnica>Ver la ficha técnica completa del iCAUR V23</a>
+<a href=/coches/icaur-v23-2026-precio-ficha-tecnica/>Ver la ficha técnica completa del iCAUR V23</a>
 
 ## Retro por fuera, moderno por dentro
 
@@ -1105,7 +1105,7 @@ No: la marca iCAUR no opera en Europa por ahora.
     "keywords": ["Chery Fulwin T8", "Fulwin T8 ficha técnica", "Chery Fulwin precio", "PHEV 7 plazas", "Fulwin T8 autonomía", "híbrido enchufable 360 CV"],
     "content": `<img src=/media/chery-fulwin-t8-2025-precio-ficha-tecnica-hero.webp alt=Chery Fulwin T8 SUV híbrido enchufable>
 
-**¿Buscas solo los datos?** <a href=/coches/chery-fulwin-t8-2025-precio-ficha-tecnica>Ver la ficha técnica del Chery Fulwin T8</a>: potencia, autonomía y plazas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/chery-fulwin-t8-2025-precio-ficha-tecnica/>Ver la ficha técnica del Chery Fulwin T8</a>: potencia, autonomía y plazas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Chery Fulwin T8** es el híbrido enchufable más bestia de Chery: un SUV de **7 plazas** con **360 CV y 530 Nm** combinados, **130 km de autonomía eléctrica**, **1.200 km** de alcance total y un consumo de **1,3 l/100 km**. Hasta hizo un récord real de **2.078 km** con un depósito y una carga. Y no, no se vende en Europa.
 
@@ -1125,7 +1125,7 @@ El **Chery Fulwin T8** es el híbrido enchufable más bestia de Chery: un SUV de
 | Plazas | 5 o 7 |
 | Medidas | 4.730 x 1.860 x 1.747 mm |
 
-<a href=/coches/chery-fulwin-t8-2025-precio-ficha-tecnica>Ver la ficha técnica completa del Fulwin T8</a>
+<a href=/coches/chery-fulwin-t8-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del Fulwin T8</a>
 
 ## 360 CV con 1,3 l/100 km
 
@@ -1177,7 +1177,7 @@ No: la gama Fulwin no opera en Europa.
     "keywords": ["Deepal S07 precio", "Deepal S07 ficha técnica", "Changan Deepal S07", "Deepal S07 autonomía", "Deepal S07 2026 España", "SUV eléctrico 500 km"],
     "content": `<img src=/media/changan-deepal-s07-my26-2026-precio-ficha-tecnica-hero.webp alt=Deepal S07 SUV eléctrico naranja>
 
-**¿Buscas solo los datos?** <a href=/coches/changan-deepal-s07-my26-2026-precio-ficha-tecnica>Ver la ficha técnica del Deepal S07</a>: precio, autonomía, carga y seguridad. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/changan-deepal-s07-my26-2026-precio-ficha-tecnica/>Ver la ficha técnica del Deepal S07</a>: precio, autonomía, carga y seguridad. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Deepal S07** es la carta de presentación de **Changan** en España: un SUV eléctrico de **4,75 metros** con **258 CV**, **500 km de autonomía WLTP**, carga ultrarrápida de **200 kW** y **5 estrellas Euro NCAP**. Desde **45.990 €**, con 7 años de garantía. El rival chino más serio del Tesla Model Y.
 
@@ -1201,7 +1201,7 @@ El **Deepal S07** es la carta de presentación de **Changan** en España: un SUV
 | Garantía | 7 años/160.000 km (vehículo), 8/200.000 (batería) |
 | Etiqueta DGT | Cero |
 
-<a href=/coches/changan-deepal-s07-my26-2026-precio-ficha-tecnica>Ver la ficha técnica completa del Deepal S07 con galería de fotos</a>
+<a href=/coches/changan-deepal-s07-my26-2026-precio-ficha-tecnica/>Ver la ficha técnica completa del Deepal S07 con galería de fotos</a>
 
 ## 200 kW: carga de otro nivel
 
@@ -1274,7 +1274,7 @@ Changan, uno de los mayores grupos automovilísticos chinos.
     "keywords": ["Geely Monjaro", "Monjaro ficha técnica", "Geely Monjaro precio", "Geely Volvo plataforma", "SUV chino 238 CV", "Geely Monjaro España"],
     "content": `<img src=/media/geely-monjaro-2025-precio-ficha-tecnica-hero.webp alt=Geely Monjaro SUV verde azulado en estudio>
 
-**¿Buscas solo los datos?** <a href=/coches/geely-monjaro-2025-precio-ficha-tecnica>Ver la ficha técnica del Geely Monjaro</a>: motor, tracción y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/geely-monjaro-2025-precio-ficha-tecnica/>Ver la ficha técnica del Geely Monjaro</a>: motor, tracción y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Geely Monjaro** es el SUV insignia de Geely: **4,77 metros**, **2.0 turbo de 238 CV y 350 Nm**, cambio automático de 8 velocidades, **tracción total** y la plataforma **CMA desarrollada con Volvo**. 0-100 en 7,5 s y 215 km/h. El SUV chino con más genes europeos. Y no se vende en España.
 
@@ -1296,7 +1296,7 @@ El **Geely Monjaro** es el SUV insignia de Geely: **4,77 metros**, **2.0 turbo d
 | Peso | 1.675 kg |
 | Modos | 7 (incluye off-road) |
 
-<a href=/coches/geely-monjaro-2025-precio-ficha-tecnica>Ver la ficha técnica completa del Monjaro</a>
+<a href=/coches/geely-monjaro-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del Monjaro</a>
 
 ## Con Volvo en el ADN
 
@@ -1351,7 +1351,7 @@ No oficialmente; Geely turismos aún no opera aquí.
     "keywords": ["Geely Cityray", "Cityray ficha técnica", "Geely Cityray precio", "Geely Boyue Cool", "SUV chino 172 CV", "Geely Cityray España"],
     "content": `<img src=/media/geely-cityray-2025-precio-ficha-tecnica-hero.webp alt=Geely Cityray SUV gris en carretera>
 
-**¿Buscas solo los datos?** <a href=/coches/geely-cityray-2025-precio-ficha-tecnica>Ver la ficha técnica del Geely Cityray</a>: motor, maletero y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/geely-cityray-2025-precio-ficha-tecnica/>Ver la ficha técnica del Geely Cityray</a>: motor, maletero y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Geely Cityray** (Boyue Cool en China) es el SUV compacto con carácter de Geely: **4,51 metros** con caída de techo coupé, **1.5 turbo de 172 CV y 290 Nm**, cambio **DCT de 7 velocidades** y un maletero de **571 litros** que avergüenza a rivales mayores. **0-100 en 7,9 s** y garantía de **8 años o 250.000 km** en varios mercados.
 
@@ -1372,7 +1372,7 @@ El **Geely Cityray** (Boyue Cool en China) es el SUV compacto con carácter de G
 | Pantalla | 13,2" + cuadro de 10,2" |
 | Garantía | 8 años / 250.000 km (varios mercados) |
 
-<a href=/coches/geely-cityray-2025-precio-ficha-tecnica>Ver la ficha técnica completa del Cityray</a>
+<a href=/coches/geely-cityray-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del Cityray</a>
 
 ## 172 CV con alegría
 
@@ -1426,7 +1426,7 @@ Boyue Cool.
     "keywords": ["Geely Preface", "Preface ficha técnica", "Geely Preface precio", "berlina china 272 CV", "Geely Preface España", "Geely Xingrui"],
     "content": `<img src=/media/geely-preface-2025-precio-ficha-tecnica-hero.webp alt=Geely Preface berlina gris en estudio>
 
-**¿Buscas solo los datos?** <a href=/coches/geely-preface-2025-precio-ficha-tecnica>Ver la ficha técnica del Geely Preface</a>: motor, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/geely-preface-2025-precio-ficha-tecnica/>Ver la ficha técnica del Geely Preface</a>: motor, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Geely Preface** es la berlina grande de Geely: **4,83 metros**, **2.0 turbo de 272 CV y 400 Nm**, cambio de 8 velocidades, **215 km/h** de punta y la plataforma **CMA de Volvo**. Pantalla de **14,6"** con Flyme Auto y reconocimiento facial. La berlina china que planta cara a un BMW 330i por la mitad de precio.
 
@@ -1446,7 +1446,7 @@ El **Geely Preface** es la berlina grande de Geely: **4,83 metros**, **2.0 turbo
 | Plataforma | CMA (Geely-Volvo) |
 | Tracción | Delantera |
 
-<a href=/coches/geely-preface-2025-precio-ficha-tecnica>Ver la ficha técnica completa del Preface</a>
+<a href=/coches/geely-preface-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del Preface</a>
 
 ## 272 CV con refinamiento Volvo
 
@@ -1498,7 +1498,7 @@ La CMA, desarrollada con Volvo.
     "keywords": ["Geely Atlas", "Geely Atlas ficha técnica", "Geely Boyue L", "Geely Atlas precio", "SUV Geely 218 CV", "Geely Atlas España"],
     "content": `<img src=/media/geely-atlas-2025-precio-ficha-tecnica-hero.webp alt=Geely Atlas SUV negro en ciudad>
 
-**¿Buscas solo los datos?** <a href=/coches/geely-atlas-2025-precio-ficha-tecnica>Ver la ficha técnica del Geely Atlas</a>: motor, medidas y plataforma. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/geely-atlas-2025-precio-ficha-tecnica/>Ver la ficha técnica del Geely Atlas</a>: motor, medidas y plataforma. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Geely Atlas** (Boyue L en China) es el SUV más vendido de Geely en el mundo: **4,67 metros**, **2.0 turbo de 218 CV y 325 Nm**, cambio DCT de 7 velocidades y plataforma **CMA con Volvo**. Millones de unidades vendidas y una fiabilidad probada. El SUV chino por antonomasia que España no tiene.
 
@@ -1516,7 +1516,7 @@ El **Geely Atlas** (Boyue L en China) es el SUV más vendido de Geely en el mund
 | Plataforma | CMA (Geely-Volvo) |
 | Plazas | 5 |
 
-<a href=/coches/geely-atlas-2025-precio-ficha-tecnica>Ver la ficha técnica completa del Atlas</a>
+<a href=/coches/geely-atlas-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del Atlas</a>
 
 ## El superventas silencioso
 
@@ -1570,7 +1570,7 @@ Es el modelo más vendido de Geely con millones de unidades y buenos informes.
     "keywords": ["Haval Jolion HEV", "Jolion híbrido ficha técnica", "Haval Jolion precio", "GWM Jolion híbrido", "SUV híbrido 190 CV", "Haval España"],
     "content": `<img src=/media/haval-jolion-hev-2026-precio-ficha-tecnica-hero.webp alt=Haval Jolion HEV azul en casa rural>
 
-**¿Buscas solo los datos?** <a href=/coches/haval-jolion-hev-2026-precio-ficha-tecnica>Ver la ficha técnica del Haval Jolion HEV</a>: potencia, consumo y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/haval-jolion-hev-2026-precio-ficha-tecnica/>Ver la ficha técnica del Haval Jolion HEV</a>: potencia, consumo y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Haval Jolion HEV** es el SUV híbrido de GWM: **190 CV y 375 Nm** combinados, cambio **DHT** dedicado, consumo de **5,1 l/100 km** y **0-100 en 8,8 segundos**. Un 1.5 gasolina de 94 CV más un eléctrico de 154 CV que se recarga solo. Eficiente, potente y equipado. Lástima que Haval no venda turismos en España.
 
@@ -1592,7 +1592,7 @@ El **Haval Jolion HEV** es el SUV híbrido de GWM: **190 CV y 375 Nm** combinado
 | Tracción | Delantera |
 | Airbags | 6 |
 
-<a href=/coches/haval-jolion-hev-2026-precio-ficha-tecnica>Ver la ficha técnica completa del Jolion HEV</a>
+<a href=/coches/haval-jolion-hev-2026-precio-ficha-tecnica/>Ver la ficha técnica completa del Jolion HEV</a>
 
 ## DHT: el cambio que lo cambia todo
 
@@ -1642,7 +1642,7 @@ Entre 337 y 390 litros según la versión.
     "keywords": ["GWM Ora 05 precio", "Ora 05 ficha técnica", "GWM Ora 5 España", "Ora 05 autonomía", "SUV eléctrico 435 km", "GWM Ora 2026"],
     "content": `<img src=/media/gwm-ora-05-2026-precio-ficha-tecnica-hero.webp alt=GWM Ora 05 SUV eléctrico azul>
 
-**¿Buscas solo los datos?** <a href=/coches/gwm-ora-05-2026-precio-ficha-tecnica>Ver la ficha técnica del GWM Ora 05</a>: precio, autonomía, carga y maletero. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/gwm-ora-05-2026-precio-ficha-tecnica/>Ver la ficha técnica del GWM Ora 05</a>: precio, autonomía, carga y maletero. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **GWM Ora 05** es el SUV eléctrico de GWM en España: **204 CV**, **435 km de autonomía WLTP**, carga rápida de **120 kW**, bomba de calor de serie y etiqueta **Cero**. Desde **37.500 €** (23.850 € con promociones y ayudas). El eléctrico chino con mejor garantía del mercado: **7 años o 150.000 km**.
 
@@ -1665,7 +1665,7 @@ El **GWM Ora 05** es el SUV eléctrico de GWM en España: **204 CV**, **435 km d
 | Etiqueta DGT | Cero |
 | Garantía | 7 años/150.000 km (vehículo), 8/160.000 (batería) |
 
-<a href=/coches/gwm-ora-05-2026-precio-ficha-tecnica>Ver la ficha técnica completa del Ora 05 con galería de fotos</a>
+<a href=/coches/gwm-ora-05-2026-precio-ficha-tecnica/>Ver la ficha técnica completa del Ora 05 con galería de fotos</a>
 
 ## 435 km con eficiencia de 15,5 kWh
 
@@ -1732,7 +1732,7 @@ Sí: 223 CV con 5,1 l/100 km, pero con etiqueta ECO.
     "keywords": ["GWM Ora 03 GT", "Ora 03 GT ficha técnica", "Ora 03 GT precio", "GWM Ora 03", "compacto eléctrico deportivo", "Ora GT"],
     "content": `<img src=/media/gwm-ora-03-gt-2025-precio-ficha-tecnica-hero.webp alt=GWM Ora 03 GT trasera en ciudad>
 
-**¿Buscas solo los datos?** <a href=/coches/gwm-ora-03-gt-2025-precio-ficha-tecnica>Ver la ficha técnica del GWM Ora 03 GT</a>: potencia, autonomía y batería. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/gwm-ora-03-gt-2025-precio-ficha-tecnica/>Ver la ficha técnica del GWM Ora 03 GT</a>: potencia, autonomía y batería. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **GWM Ora 03 GT** es la versión deportiva del Ora 03: **171 CV**, **250 Nm**, **400 km de autonomía WLTP**, llantas específicas, pinzas de freno rojas y un kit aerodinámico que le da el carácter que al Ora 03 normal le falta. Eléctrico urbano con traje de GT.
 
@@ -1750,7 +1750,7 @@ El **GWM Ora 03 GT** es la versión deportiva del Ora 03: **171 CV**, **250 Nm**
 | Tracción | Delantera |
 | Etiqueta DGT | Cero |
 
-<a href=/coches/gwm-ora-03-gt-2025-precio-ficha-tecnica>Ver la ficha técnica completa del Ora 03 GT</a>
+<a href=/coches/gwm-ora-03-gt-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del Ora 03 GT</a>
 
 ## GT en estética, GT en sensaciones (casi)
 
@@ -1803,7 +1803,7 @@ GWM no publica un precio oficial específico del GT; la versión de 171 CV figur
     "keywords": ["GWM Poer", "Poer ficha técnica", "GWM Poer precio", "pick-up chino", "GWM Pao", "pick-up diésel 4x4"],
     "content": `<img src=/media/gwm-poer-2025-precio-ficha-tecnica-hero.webp alt=GWM Poer pick-up azul en campo>
 
-**¿Buscas solo los datos?** <a href=/coches/gwm-poer-2025-precio-ficha-tecnica>Ver la ficha técnica del GWM Poer</a>: motor, tracción y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/gwm-poer-2025-precio-ficha-tecnica/>Ver la ficha técnica del GWM Poer</a>: motor, tracción y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **GWM Poer** (Pao en China) es el pick-up de Great Wall: **5,41 metros**, **2.0 diésel de 163 CV y 400 Nm**, **4x4 con reductora**, chasis de largueros y un interior de nivel SUV con pantalla táctil y ADAS. El rival chino del Toyota Hilux y el Ford Ranger, a mucho menos precio.
 
@@ -1820,7 +1820,7 @@ El **GWM Poer** (Pao en China) es el pick-up de Great Wall: **5,41 metros**, **2
 | Plazas | 5 |
 | Cambio | Manual 6 vel. / Automático 8 vel. |
 
-<a href=/coches/gwm-poer-2025-precio-ficha-tecnica>Ver la ficha técnica completa del Poer</a>
+<a href=/coches/gwm-poer-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del Poer</a>
 
 ## Herramienta de trabajo con traje de domingo
 
@@ -1868,7 +1868,7 @@ Hasta 3,5 toneladas, como sus rivales japoneses.
     "keywords": ["Haval H6S", "H6S ficha técnica", "Haval H6S precio", "SUV coupé chino", "Haval H6S híbrido", "GWM H6S"],
     "content": `<img src=/media/haval-h6s-2025-precio-ficha-tecnica-hero.webp alt=Haval H6S SUV coupé gris>
 
-**¿Buscas solo los datos?** <a href=/coches/haval-h6s-2025-precio-ficha-tecnica>Ver la ficha técnica del Haval H6S</a>: motor, medidas y versiones. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/haval-h6s-2025-precio-ficha-tecnica/>Ver la ficha técnica del Haval H6S</a>: motor, medidas y versiones. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Haval H6S** es la versión coupé del superventas H6: **4,71 metros** con caída de techo deportiva, **2.0 turbo de 211 CV y 325 Nm**, y una versión **híbrida de 243 CV** combinados. El Haval más atractivo y dinámico, pensado para quien quiere un SUV con carácter.
 
@@ -1885,7 +1885,7 @@ El **Haval H6S** es la versión coupé del superventas H6: **4,71 metros** con c
 | Plazas | 5 |
 | Carrocería | SUV coupé |
 
-<a href=/coches/haval-h6s-2025-precio-ficha-tecnica>Ver la ficha técnica completa del H6S</a>
+<a href=/coches/haval-h6s-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del H6S</a>
 
 ## Coupé por fuera, H6 por dentro
 

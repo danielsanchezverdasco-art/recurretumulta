@@ -193,7 +193,7 @@ export default function Rankings() {
       ? {
           title: ranking.titulo,
           description: ranking.descripcion,
-          canonical: `/rankings/${ranking.slug}`,
+          canonical: `/rankings/${ranking.slug}/`,
           schema,
         }
       : {
@@ -217,7 +217,7 @@ export default function Rankings() {
             modelos de nuestra base de datos en el comparador.
           </p>
           <Link
-            to="/comparador-coches"
+            to="/comparador-coches/"
             className="mt-6 inline-flex items-center gap-2 rounded-xl bg-red-700 px-5 py-3 font-bold text-white hover:bg-red-800"
           >
             <ArrowLeftRight size={18} /> Ir al comparador de coches
@@ -237,7 +237,7 @@ export default function Rankings() {
       <main className="mx-auto max-w-6xl px-4 pb-16 pt-8">
         <nav className="text-xs text-gray-500" aria-label="Migas de pan">
           <Link to="/" className="hover:underline">Inicio</Link> ·{" "}
-          <Link to="/comparador-coches" className="hover:underline">Comparador de coches</Link> ·{" "}
+          <Link to="/comparador-coches/" className="hover:underline">Comparador de coches</Link> ·{" "}
           <span className="text-gray-700">{ranking.titulo}</span>
         </nav>
 
@@ -266,7 +266,7 @@ export default function Rankings() {
             {top3.map((c, i) => (
               <MorphCard
                 key={c.id}
-                href={`/coches/${c.id}`}
+                href={`/coches/${c.id}/`}
                 label={`${c.marca} ${c.modelo}`}
                 className="block overflow-hidden rounded-2xl border-2 border-red-100 bg-white shadow-sm transition hover:border-red-300 hover:shadow-md"
               >
@@ -328,7 +328,7 @@ export default function Rankings() {
                   />
                   <div className="min-w-0 flex-1">
                     <Link
-                      to={`/coches/${c.id}`}
+                      to={`/coches/${c.id}/`}
                       className="block truncate font-bold text-gray-900 hover:text-red-700"
                     >
                       {c.marca} {c.modelo}
@@ -407,13 +407,13 @@ export default function Rankings() {
 
         <div className="mt-12 flex flex-col items-stretch gap-3 sm:flex-row">
           <Link
-            to="/comparador-coches"
+            to="/comparador-coches/"
             className="inline-flex items-center justify-center gap-2 rounded-xl bg-red-700 px-6 py-3 font-bold text-white hover:bg-red-800"
           >
             <ArrowLeftRight size={18} /> Comparar modelos cara a cara
           </Link>
           <Link
-            to="/blog"
+            to="/blog/"
             className="inline-flex items-center justify-center gap-2 rounded-xl border-2 border-gray-300 px-6 py-3 font-bold text-gray-900 hover:border-red-400"
           >
             Ver todos los análisis de Novedades Motor
@@ -449,7 +449,7 @@ export function RankingsIndex() {
       <main className="mx-auto max-w-6xl px-4 pb-16 pt-8">
         <nav className="text-xs text-gray-500" aria-label="Migas de pan">
           <Link to="/" className="hover:underline">Inicio</Link> ·{" "}
-          <Link to="/comparador-coches" className="hover:underline">Comparador de coches</Link> ·{" "}
+          <Link to="/comparador-coches/" className="hover:underline">Comparador de coches</Link> ·{" "}
           <span className="text-gray-700">Rankings</span>
         </nav>
 
@@ -467,7 +467,7 @@ export function RankingsIndex() {
           {RANKINGS.map((r) => (
             <Link
               key={r.slug}
-              to={`/rankings/${r.slug}`}
+              to={`/rankings/${r.slug}/`}
               className="block rounded-2xl border border-gray-200 bg-white p-5 shadow-sm transition hover:border-red-300 hover:shadow-md"
             >
               <p className="flex items-center gap-2 text-xs font-bold uppercase tracking-widest text-red-700">
@@ -482,7 +482,7 @@ export function RankingsIndex() {
 
         <div className="mt-10 max-w-3xl">
           <Link
-            to="/comparador-coches"
+            to="/comparador-coches/"
             className="inline-flex items-center justify-center gap-2 rounded-xl bg-red-700 px-6 py-3 font-bold text-white hover:bg-red-800"
           >
             <ArrowLeftRight size={18} /> Comparar modelos cara a cara

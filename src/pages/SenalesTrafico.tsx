@@ -213,7 +213,7 @@ export default function SenalesTraficoPage() {
             <motion.nav initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.5 }} aria-label="Migas de pan" className="flex items-center gap-1.5 text-xs text-white/60">
               <Link to="/" className="hover:text-white">Inicio</Link>
               <span aria-hidden="true">/</span>
-              <Link to="/herramientas" className="hover:text-white">Herramientas</Link>
+              <Link to="/herramientas/" className="hover:text-white">Herramientas</Link>
               <span aria-hidden="true">/</span>
               <span className="text-white/40">Señales de tráfico</span>
             </motion.nav>
@@ -332,15 +332,15 @@ export default function SenalesTraficoPage() {
                 analizador gratuito con IA
               </Link>{" "}
               y detecta defectos de forma en segundos. También puedes consultar el{" "}
-              <Link to="/buscador-codigo-multa" className="text-red-600 font-bold hover:underline">
+              <Link to="/buscador-codigo-multa/" className="text-red-600 font-bold hover:underline">
                 buscador de infracciones por código
               </Link>
               , las{" "}
-              <Link to="/guias/vicios-forma" className="text-red-600 font-bold hover:underline">
+              <Link to="/guias/vicios-forma/" className="text-red-600 font-bold hover:underline">
                 causas más habituales para anular una multa
               </Link>{" "}
               o la guía de{" "}
-              <Link to="/guias/radares" className="text-red-600 font-bold hover:underline">
+              <Link to="/guias/radares/" className="text-red-600 font-bold hover:underline">
                 radares y márgenes de error
               </Link>
               .

@@ -275,7 +275,7 @@ export default function ComparativaPage() {
               <FileSearch className="w-4 h-4" /> Analizar mi multa gratis
             </Link>
             <Link
-              to="/buscador-codigo-multa"
+              to="/buscador-codigo-multa/"
               className="inline-flex items-center justify-center gap-2 bg-white hover:bg-gray-100 text-gray-900 font-bold text-sm px-6 py-3 rounded-xl transition-colors"
             >
               Buscar mi infracción por código <ArrowRight className="w-4 h-4" />

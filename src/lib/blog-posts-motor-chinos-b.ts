@@ -22,7 +22,7 @@ export const MOTOR_CHINOS_B_POSTS: BlogPost[] = [
     ],
     content: `<img src=/media/omoda-9-shs-precio-ficha-tecnica-hero.webp alt=SUV coupé híbrido enchufable gris oscuro de gran tamaño circulando por una carretera de montaña española al atardecer>
 
-**¿Buscas solo los datos?** <a href=/coches/omoda-9-shs-precio-ficha-tecnica>Ver ficha técnica del Omoda 9 SHS</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/omoda-9-shs-precio-ficha-tecnica/>Ver ficha técnica del Omoda 9 SHS</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El 28 de septiembre de 2026, Omoda & Jaecoo anunció que ya supera las **60.000 matriculaciones en España** en menos de tres años. Y su modelo más ambicioso, el **Omoda 9 SHS**, acumula **5.972 unidades** con 344 matriculadas solo en septiembre. No es un coche chino más: es un SUV de 4,77 metros con **537 CV**, **145 km de autonomía eléctrica** y tracción total, por un precio que en concesionario ronda los **48.000 euros**. El PHEV con más autonomía eléctrica por debajo de 50.000 €, según la propia marca.
 
@@ -36,7 +36,7 @@ El Omoda 9 se vende en España con una única motorización (1.5 TGDI SHS de 537
 
 <img src=/media/omoda-9-shs-precio-ficha-tecnica-interior-oficial-2.webp alt=Interior oficial del omoda 9 shs>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
@@ -83,7 +83,7 @@ Homologa 145 km en ciclo WLTP con su batería de 34,46 kWh, la mayor cifra entre
 537 CV combinados (143 CV del 1.5 turbo de gasolina + tres motores eléctricos), con tracción total y 0-100 km/h en 4,9 segundos.
 
 ### ¿El Omoda 9 tiene etiqueta CERO?
-Sí. Al ser un híbrido enchufable con 145 km de autonomía eléctrica, le corresponde la etiqueta CERO de la DGT. <a href=/calculadora-etiqueta-dgt>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Sí. Al ser un híbrido enchufable con 145 km de autonomía eléctrica, le corresponde la etiqueta CERO de la DGT. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
 ### ¿Qué tal va el Omoda 9 en la prueba de esquiva de km77?
 km77 lo sometió a su exigente prueba de esquiva y eslalon; puedes ver el resultado completo en el vídeo de arriba.
@@ -115,7 +115,7 @@ Con 537 CV bajo el pie derecho, conviene recordar que la velocidad tiene consecu
     ],
     content: `<img src=/media/jaecoo-5-precio-ficha-tecnica-hero.webp alt=SUV compacto robusto verde oliva de diseño todoterreno aparcado en un camino rural español al atardecer>
 
-**¿Buscas solo los datos?** <a href=/coches/jaecoo-5-precio-ficha-tecnica>Ver ficha técnica del Jaecoo 5</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/jaecoo-5-precio-ficha-tecnica/>Ver ficha técnica del Jaecoo 5</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El Jaecoo 5 acumula **6.690 unidades** en España y en septiembre de 2026 matriculó 745, convirtiéndose en el segundo modelo más vendido de la marca ese mes. Su receta: un SUV compacto de 4,38 metros con diseño de inspiración premium, **tres motorizaciones** (gasolina, híbrido y eléctrico) y precios que parten de **19.990 €** con financiación. Hasta tiene una **cabina certificada para llevar perros**.
 
@@ -135,7 +135,7 @@ El salto del gasolina al híbrido cuesta solo 2.500 € de tarifa y a cambio obt
 
 <img src=/media/jaecoo-5-precio-ficha-tecnica-interior-oficial-2.webp alt=Interior oficial del jaecoo 5>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
@@ -153,7 +153,7 @@ El salto del gasolina al híbrido cuesta solo 2.500 € de tarifa y a cambio obt
 | MG ZS Hybrid+ | Híbrido 194 CV | 22.340 € | 5,1 l/100 km, marca más asentada |
 | Omoda 5 | Híbrido | No confirmado | Entre los 5 híbridos más vendidos de 2026 |
 
-Los hemos enfrentado en detalle: <a href=/blog/byd-atto-2-vs-jaecoo-5-cual-comprar>Duelo BYD Atto 2 vs Jaecoo 5</a> y <a href=/blog/dacia-bigster-hybrid-vs-jaecoo-5-cual-comprar>Duelo Dacia Bigster Hybrid vs Jaecoo 5</a>.
+Los hemos enfrentado en detalle: <a href=/blog/byd-atto-2-vs-jaecoo-5-cual-comprar/>Duelo BYD Atto 2 vs Jaecoo 5</a> y <a href=/blog/dacia-bigster-hybrid-vs-jaecoo-5-cual-comprar/>Duelo Dacia Bigster Hybrid vs Jaecoo 5</a>.
 
 ## Pros y contras
 
@@ -175,7 +175,7 @@ Vídeo: <a href=https://www.youtube.com/watch?v=PGysqWUSeDE>Coches SoyMotor.com<
 El gasolina parte de 19.990 € con financiación, el híbrido de 22.500 € con promociones y el eléctrico de 35.500 € de tarifa.
 
 ### ¿El Jaecoo 5 híbrido qué etiqueta tiene?
-Etiqueta ECO de la DGT: es un híbrido autorrecargable de 224 CV con 5,3 l/100 km homologados. <a href=/calculadora-etiqueta-dgt>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Etiqueta ECO de la DGT: es un híbrido autorrecargable de 224 CV con 5,3 l/100 km homologados. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
 ### ¿Cuánta autonomía tiene el Jaecoo 5 eléctrico?
 402 km en ciclo WLTP con su batería LFP de 60,9 kWh, y carga rápida de 130 kW.
@@ -213,7 +213,7 @@ Da igual que sea chino, español o marciano: si te multan, <a href=https://recur
     ],
     content: `<img src=/media/leapmotor-b10-electrico-precio-espana-hero.webp alt=SUV eléctrico compacto azul de diseño moderno aparcado en una calle europea con arquitectura contemporánea>
 
-**¿Buscas solo los datos?** <a href=/coches/leapmotor-b10-electrico-precio-espana>Ver ficha técnica del Leapmotor B10</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/leapmotor-b10-electrico-precio-espana/>Ver ficha técnica del Leapmotor B10</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 A mediados de octubre de 2026 (fecha objetivo: el 13 de octubre), la planta de Stellantis en Figueruelas (Zaragoza) empezará a fabricar en serie el **Leapmotor B10**. Será el **primer coche eléctrico chino fabricado en España** para toda Europa, y de paso esquiva el arancel del 20,7% que la UE aplica a los eléctricos importados de China. El coche en sí no se queda atrás: **218 CV**, **tracción trasera**, hasta **434 km de autonomía** y carga rápida de **168 kW**, desde **27.000 euros**.
 
@@ -234,7 +234,7 @@ Algún medio publica el B10 anunciado en 22.500 €, pero es una tarifa promocio
 
 <img src=/media/leapmotor-b10-electrico-precio-espana-interior-oficial-2.webp alt=Interior oficial del leapmotor b10 electrico precio espana>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
@@ -253,7 +253,7 @@ Algún medio publica el B10 anunciado en 22.500 €, pero es una tarifa promocio
 | Changan Deepal S05 | 272 CV | 485 km | 26.120 € (promo) |
 | BYD Atto 3 | 204 CV | 420 km | 28.387 € (promo) |
 
-Los hemos enfrentado en detalle: <a href=/blog/leapmotor-b10-vs-byd-atto-2-cual-comprar>Duelo Leapmotor B10 vs BYD Atto 2</a>.
+Los hemos enfrentado en detalle: <a href=/blog/leapmotor-b10-vs-byd-atto-2-cual-comprar/>Duelo Leapmotor B10 vs BYD Atto 2</a>.
 
 El Deepal S05 carga a 200 kW (mejor que el B10) y está en promoción agresiva; el B10 responde con fabricación europea y el respaldo de Stellantis.
 
@@ -315,7 +315,7 @@ Fabricado en Zaragoza o en Shenzhen, la DGT multa igual: si te llega una, <a hre
     ],
     content: `<img src=/media/byd-atto-2-precio-ficha-tecnica-hero.webp alt=SUV eléctrico compacto blanco perla de diseño urbano moderno circulando por una avenida española al atardecer>
 
-**¿Buscas solo los datos?** <a href=/coches/byd-atto-2-precio-ficha-tecnica>Ver ficha técnica del BYD Atto 2</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/byd-atto-2-precio-ficha-tecnica/>Ver ficha técnica del BYD Atto 2</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **BYD Atto 2** es el fenómeno comercial chino del año en España: más de **14.000 matriculaciones en 2026**, al nivel del Peugeot 2008 o el Toyota Yaris Cross. Y tiene dos caras: la **100% eléctrica** (hasta 430 km de autonomía) y la **DM-i híbrida enchufable**, que fue el PHEV más vendido de España en su primer mes en los concesionarios. Todo desde **18.739 €** financiado.
 
@@ -331,7 +331,7 @@ La versión **DM-i (híbrida enchufable)**: 1.5 gasolina de 98 CV + motor eléct
 
 <img src=/media/byd-atto-2-precio-ficha-tecnica-interior-oficial-2.webp alt=Interior oficial del byd atto 2>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
@@ -350,7 +350,7 @@ La versión **DM-i (híbrida enchufable)**: 1.5 gasolina de 98 CV + motor eléct
 | Kia EV3 | 204 CV | 436-605 km | ~32.149 € |
 | Hyundai Inster | 97-115 CV | 327-370 km | 24.990 € |
 
-Los hemos enfrentado en detalle: <a href=/blog/byd-atto-2-vs-jaecoo-5-cual-comprar>Duelo BYD Atto 2 vs Jaecoo 5</a> y <a href=/blog/leapmotor-b10-vs-byd-atto-2-cual-comprar>Duelo Leapmotor B10 vs BYD Atto 2</a>.
+Los hemos enfrentado en detalle: <a href=/blog/byd-atto-2-vs-jaecoo-5-cual-comprar/>Duelo BYD Atto 2 vs Jaecoo 5</a> y <a href=/blog/leapmotor-b10-vs-byd-atto-2-cual-comprar/>Duelo Leapmotor B10 vs BYD Atto 2</a>.
 
 El Kia EV3 ofrece más autonomía pero cuesta bastante más; el Hyundai Inster presiona por abajo como eléctrico urbano barato.
 
@@ -380,7 +380,7 @@ El eléctrico: 25.790 € (Active), 27.047 € (Boost) y 31.740 € (Comfort) co
 La versión híbrida enchufable: combina un 1.5 gasolina con motor eléctrico (166 o 212 CV), 40-90 km de autonomía eléctrica y más de 1.000 km combinados. Fue el PHEV más vendido de España nada más llegar.
 
 ### ¿El BYD Atto 2 tiene etiqueta CERO?
-Sí, tanto el eléctrico como el DM-i híbrido enchufable llevan la etiqueta CERO de la DGT. <a href=/calculadora-etiqueta-dgt>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Sí, tanto el eléctrico como el DM-i híbrido enchufable llevan la etiqueta CERO de la DGT. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
 ### ¿BYD Atto 2 o Kia EV3?
 El Atto 2 es mucho más barato (desde 18.739 € financiado frente a ~32.149 € del EV3); el Kia ofrece más autonomía (hasta 605 km) y una red más consolidada.
@@ -412,7 +412,7 @@ Ni el más vendido se libra de los radares: si te cazan, <a href=https://recurre
     ],
     content: `<img src=/media/ebro-s700-precio-ficha-tecnica-hero.webp alt=SUV familiar rojo moderno circulando por una carretera española con la ciudad de Barcelona al fondo al atardecer>
 
-**¿Buscas solo los datos?** <a href=/coches/ebro-s700-precio-ficha-tecnica>Ver ficha técnica del Ebro S700</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/ebro-s700-precio-ficha-tecnica/>Ver ficha técnica del Ebro S700</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 Entre enero y agosto de 2026, Ebro matriculó **17.992 unidades** en España: ya supera todo 2025 (12.460) con un crecimiento del **208%**. Y el **S700** concentra el 38% de esas ventas: es el SUV de 4,55 metros **fabricado en la Zona Franca de Barcelona** que se vende en versiones gasolina, híbrida e híbrida enchufable desde **24.990 euros**. El S700 PHEV es ya el **sexto PHEV más vendido de España**.
 
@@ -430,7 +430,7 @@ La garantía es de **7 años o 150.000 km** (8 años/160.000 km para la batería
 
 <img src=/media/ebro-s700-precio-ficha-tecnica-oficial.webp alt=Ebro S700, SUV fabricado en Barcelona, vista lateral>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
@@ -478,7 +478,7 @@ En la Zona Franca de Barcelona (EBRO FACTORY), la antigua planta de Nissan donde
 La marca es española (refundada en 2023) pero opera en joint venture con Chery (40%) y usa su tecnología y plataforma T1X. El ensamblaje final es en Barcelona.
 
 ### ¿Qué etiqueta lleva el Ebro S700?
-Gasolina: C; híbrido HEV: ECO; híbrido enchufable PHEV: CERO, con acceso a las <a href=https://recurretumulta.online/guias/zbe>ZBE</a>. <a href=/calculadora-etiqueta-dgt>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Gasolina: C; híbrido HEV: ECO; híbrido enchufable PHEV: CERO, con acceso a las <a href=https://recurretumulta.online/guias/zbe>ZBE</a>. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
 ### ¿Qué garantía tiene el Ebro S700?
 7 años o 150.000 km para el coche y 8 años o 160.000 km para la batería, por encima de la mayoría de rivales.

@@ -23,7 +23,7 @@ export const MOTOR_NUEVOS_F_POSTS: BlogPost[] = [
     ],
     content: `<img src=/media/leapmotor-c10-electrico-precio-ficha-tecnica-hero.webp alt=SUV eléctrico blanco de gran tamaño circulando por una carretera de montaña española al atardecer>
 
-**¿Buscas solo los datos?** <a href=/coches/leapmotor-c10-electrico-precio-ficha-tecnica>Ver ficha técnica del Leapmotor C10</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/leapmotor-c10-electrico-precio-ficha-tecnica/>Ver ficha técnica del Leapmotor C10</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 Leapmotor no es una marca china más: es la socia de **Stellantis** (que posee el 21 % de la compañía y controla su expansión internacional), y el **C10** es su carta fuerte en España. Un SUV eléctrico de **4,74 metros**, **218 CV**, **420 km de autonomía WLTP** y batería LFP de 69,9 kWh por **32.824 €** según la tarifa de km77 de septiembre de 2025. Familiar, honesto y con etiqueta CERO.
 
@@ -40,7 +40,7 @@ La versión **REEV** (eléctrico de autonomía extendida) combina un motor de ga
 
 <img src=/media/leapmotor-c10-electrico-precio-ficha-tecnica-interior-oficial-2.webp alt=Interior oficial del leapmotor c10 electrico>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
@@ -56,7 +56,7 @@ La versión **REEV** (eléctrico de autonomía extendida) combina un motor de ga
 |---|---|---|---|
 | **Leapmotor C10** | 420 km | 32.824 € | Tamaño familiar y precio |
 | BYD Atto 3 | 420 km | ~38.000 € | Marca más asentada |
-| <a href=/coches/kgm-torres-evx-electrico-precio-ficha-tecnica>KGM Torres EVX</a> | 503 km | 32.700 € | Más autonomía y maletero |
+| <a href=/coches/kgm-torres-evx-electrico-precio-ficha-tecnica/>KGM Torres EVX</a> | 503 km | 32.700 € | Más autonomía y maletero |
 | Deepal S07 | 475 km | ~45.000 € | Diseño y equipamiento |
 
 ## Pros y contras
@@ -84,7 +84,7 @@ La tarifa publicada por km77 (septiembre 2025) es de 32.824 € para la versión
 Homologa 420 km en ciclo WLTP con su batería útil de 69,9 kWh. La versión REEV homologa 145 km en modo eléctrico.
 
 ### ¿El Leapmotor C10 tiene etiqueta CERO?
-Sí. Al ser 100 % eléctrico (y la REEV también), le corresponde la etiqueta CERO de la DGT. <a href=/calculadora-etiqueta-dgt>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Sí. Al ser 100 % eléctrico (y la REEV también), le corresponde la etiqueta CERO de la DGT. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
 ### ¿Quién fabrica Leapmotor?
 Leapmotor es una marca china fundada en 2015. Stellantis compró el 21 % en 2023 y creó la joint venture Leapmotor International para vender sus coches fuera de China.
@@ -113,7 +113,7 @@ Fuente oficial: <a href=https://www.leapmotor.com/es>web oficial de Leapmotor</a
     ],
     content: `<img src=/media/leapmotor-t03-electrico-precio-ficha-tecnica-hero.webp alt=Pequeño coche eléctrico urbano azul claro aparcado en una calle empedrada de casco histórico europeo al amanecer>
 
-**¿Buscas solo los datos?** <a href=/coches/leapmotor-t03-electrico-precio-ficha-tecnica>Ver ficha técnica del Leapmotor T03</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/leapmotor-t03-electrico-precio-ficha-tecnica/>Ver ficha técnica del Leapmotor T03</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El coche eléctrico más barato ya no es un mito: el **Leapmotor T03** se lanzó en España por **18.600 €** (precio oficial de lanzamiento; km77 publica una tarifa de 18.552 € y carwow un PVP de 20.110 €). Por ese dinero ofrece **95 CV**, **265 km de autonomía WLTP**, batería de 37,3 kWh y **etiqueta CERO**. Y no es un cacharro sin pedigrí: carwow lo nombró **Automóvil Urbano del Año 2025**.
 
@@ -125,7 +125,7 @@ El precio oficial de lanzamiento fue de **18.600 €**. km77 recoge una tarifa d
 
 <img src=/media/leapmotor-t03-electrico-precio-ficha-tecnica-interior-oficial-2.webp alt=Interior oficial del leapmotor t03 electrico>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
@@ -141,8 +141,8 @@ El precio oficial de lanzamiento fue de **18.600 €**. km77 recoge una tarifa d
 |---|---|---|---|
 | **Leapmotor T03** | 265 km | 18.600 € | Precio y premio urbano 2025 |
 | Dacia Spring Electric 70 | 225 km | ~17.000 € | El más barato |
-| <a href=/coches/hyundai-inster-electrico-precio-ficha-tecnica>Hyundai Inster</a> | 327 km | 25.140 € | Más autonomía y marca |
-| <a href=/coches/fiat-grande-panda-electrico-precio-ficha-tecnica>Fiat Grande Panda</a> | 320 km | 22.553 € | Diseño y 5 plazas |
+| <a href=/coches/hyundai-inster-electrico-precio-ficha-tecnica/>Hyundai Inster</a> | 327 km | 25.140 € | Más autonomía y marca |
+| <a href=/coches/fiat-grande-panda-electrico-precio-ficha-tecnica/>Fiat Grande Panda</a> | 320 km | 22.553 € | Diseño y 5 plazas |
 
 ## Pros y contras
 
@@ -172,7 +172,7 @@ Homologa 265 km en ciclo WLTP con su batería útil de 37,3 kWh.
 No: homologa 4 plazas. Es un urbano de 3,62 m pensado para ciudad.
 
 ### ¿El Leapmotor T03 tiene etiqueta CERO?
-Sí, al ser 100 % eléctrico. <a href=/calculadora-etiqueta-dgt>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Sí, al ser 100 % eléctrico. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
 ### ¿Es mejor que el Dacia Spring?
 El T03 ofrece más autonomía (265 km frente a 225 km) y fue premiado como urbano del año; el Spring es algo más barato y tiene la red Dacia detrás. Empate técnico según prioridades.
@@ -198,7 +198,7 @@ Fuente oficial: <a href=https://www.leapmotor.com/es>web oficial de Leapmotor</a
     ],
     content: `<img src=/media/lynk-co-02-electrico-precio-ficha-tecnica-hero.webp alt=Crossover eléctrico gris oscuro aparcado en un paseo marítimo al atardecer con luces de ciudad al fondo>
 
-**¿Buscas solo los datos?** <a href=/coches/lynk-co-02-electrico-precio-ficha-tecnica>Ver ficha técnica del Lynk & Co 02</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/lynk-co-02-electrico-precio-ficha-tecnica/>Ver ficha técnica del Lynk & Co 02</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 Lynk & Co es la marca «chino-sueca» del grupo **Geely** (dueño de Volvo y Polestar), y el **02** es su SUV eléctrico compacto: **272 CV** con **tracción trasera**, **435 km de autonomía WLTP**, batería de 66 kWh, **carga rápida de 150 kW** y función **V2L**, desde **35.495 €** (acabado Core, tarifa km77 de mayo 2026). El 0-100 en 5,5 segundos lo pone al nivel de deportivos de hace una década.
 
@@ -215,7 +215,7 @@ La versión More añade más autonomía (445 km) y carga en AC de 22 kW, además
 
 <img src=/media/lynk-co-02-electrico-precio-ficha-tecnica-interior-oficial-2.webp alt=Interior oficial del lynk co 02 electrico>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
@@ -231,8 +231,8 @@ La versión More añade más autonomía (445 km) y carga en AC de 22 kW, además
 |---|---|---|---|
 | **Lynk & Co 02** | 272 CV | 435 km | 35.495 € |
 | Volvo EX30 | 272 CV | 476 km | ~37.000 € |
-| <a href=/coches/kia-ev3-electrico-precio-ficha-tecnica>Kia EV3</a> | 204 CV | 436 km | 37.020 € |
-| <a href=/coches/skoda-elroq-electrico-precio-ficha-tecnica>Skoda Elroq 60</a> | 204 CV | 428 km | 30.350 € |
+| <a href=/coches/kia-ev3-electrico-precio-ficha-tecnica/>Kia EV3</a> | 204 CV | 436 km | 37.020 € |
+| <a href=/coches/skoda-elroq-electrico-precio-ficha-tecnica/>Skoda Elroq 60</a> | 204 CV | 428 km | 30.350 € |
 
 ## Pros y contras
 
@@ -259,7 +259,7 @@ Parte de 35.495 € en acabado Core, según la tarifa de km77 de mayo de 2026.
 435 km WLTP la versión Core y 445 km la More, con batería de 66 kWh.
 
 ### ¿El Lynk & Co 02 tiene etiqueta CERO?
-Sí, es 100 % eléctrico. <a href=/calculadora-etiqueta-dgt>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Sí, es 100 % eléctrico. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
 ### ¿Qué relación tiene Lynk & Co con Volvo?
 Ambas pertenecen al grupo chino Geely. El 02 comparte plataforma con el Volvo EX30 y se diseña en Suecia.
@@ -289,7 +289,7 @@ Fuente oficial: <a href=https://www.lynkco.com/es-es>web oficial de Lynk & Co</a
     ],
     content: `<img src=/media/mg-zs-hybrid-precio-ficha-tecnica-hero.webp alt=SUV híbrido compacto rojo circulando por una carretera rural española entre campos de trigo>
 
-**¿Buscas solo los datos?** <a href=/coches/mg-zs-hybrid-precio-ficha-tecnica>Ver ficha técnica del MG ZS Hybrid+</a>: precio, consumo, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/mg-zs-hybrid-precio-ficha-tecnica/>Ver ficha técnica del MG ZS Hybrid+</a>: precio, consumo, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 No hay discusión: el **MG ZS** es el SUV más vendido de España, y su versión **Hybrid+** es la responsable. Por **22.340 €** (tarifa km77 de septiembre 2026) ofrece **194 CV**, un consumo homologado de **5,0 l/100 km**, **etiqueta ECO** y 358 litros de maletero en 4,43 metros. Potencia de segmento superior a precio de utilitario.
 
@@ -301,7 +301,7 @@ La tarifa parte de **22.340 €**, lo que lo convierte en uno de los SUV híbrid
 
 <img src=/media/mg-zs-hybrid-precio-ficha-tecnica-interior-oficial-2.webp alt=Interior oficial del mg zs hybrid>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
@@ -316,10 +316,10 @@ La tarifa parte de **22.340 €**, lo que lo convierte en uno de los SUV híbrid
 | Modelo | Potencia | Consumo | Precio desde |
 |---|---|---|---|
 | **MG ZS Hybrid+** | 194 CV | 5,0 l/100 km | 22.340 € |
-| <a href=/coches/ebro-s400-hibrido-precio-ficha-tecnica>Ebro S400 HEV</a> | 211 CV | 5,3 l/100 km | 19.715 € |
+| <a href=/coches/ebro-s400-hibrido-precio-ficha-tecnica/>Ebro S400 HEV</a> | 211 CV | 5,3 l/100 km | 19.715 € |
 | Toyota Yaris Cross 130H | 132 CV | 4,5 l/100 km | ~30.000 € |
 | Renault Captur E-Tech | 145 CV | 4,7 l/100 km | ~27.000 € |
-| <a href=/coches/jaecoo-5-precio-ficha-tecnica>Jaecoo 5 HEV</a> | 224 CV | 5,3 l/100 km | 22.500 € |
+| <a href=/coches/jaecoo-5-precio-ficha-tecnica/>Jaecoo 5 HEV</a> | 224 CV | 5,3 l/100 km | 22.500 € |
 
 ## Pros y contras
 
@@ -346,7 +346,7 @@ Desde 22.340 € según la tarifa de km77 de septiembre de 2026.
 Homologa 5,0 l/100 km en ciclo WLTP, con unas emisiones de 113 g/km de CO₂.
 
 ### ¿El MG ZS Hybrid+ tiene etiqueta ECO?
-Sí. Al ser un híbrido no enchufable eficiente, le corresponde la etiqueta ECO. <a href=/calculadora-etiqueta-dgt>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Sí. Al ser un híbrido no enchufable eficiente, le corresponde la etiqueta ECO. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
 ### ¿Es el coche más vendido de España?
 El MG ZS es el SUV más vendido del país y uno de los turismos más matriculados en 2025 y 2026.
@@ -376,7 +376,7 @@ Fuente oficial: <a href=https://mgmotor.es>web oficial de MG</a>.`
     ],
     content: `<img src=/media/jaecoo-7-shs-hibrido-enchufable-precio-ficha-tecnica-hero.webp alt=SUV híbrido enchufable robusto verde oscuro aparcado en un mirador de montaña con picos rocosos al fondo>
 
-**¿Buscas solo los datos?** <a href=/coches/jaecoo-7-shs-hibrido-enchufable-precio-ficha-tecnica>Ver ficha técnica del Jaecoo 7 SHS</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/jaecoo-7-shs-hibrido-enchufable-precio-ficha-tecnica/>Ver ficha técnica del Jaecoo 7 SHS</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 Jaecoo (la marca «premium aventurera» del grupo **Chery**) ha encontrado su mina de oro en España con el **7 SHS**: un SUV híbrido enchufable de 4,50 m con **279 CV**, **90 km de autonomía eléctrica**, **etiqueta CERO** y un precio que con promociones baja hasta **27.990 €** (tarifa: 34.400 €). Diseño de aire británico, tecnología china y precio rompedor.
 
@@ -395,7 +395,7 @@ En 2026 la marca ha ampliado la gama con versiones **híbridas no enchufables (2
 
 <img src=/media/jaecoo-7-shs-hibrido-enchufable-precio-ficha-tecnica-interior-oficial-2.webp alt=Interior oficial del jaecoo 7 shs hibrido enchufable>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
@@ -410,9 +410,9 @@ En 2026 la marca ha ampliado la gama con versiones **híbridas no enchufables (2
 | Modelo | Potencia | Autonomía eléctrica | Precio desde |
 |---|---|---|---|
 | **Jaecoo 7 SHS** | 279 CV | 90 km | 27.990 € |
-| <a href=/coches/ebro-s800-phev-precio-ficha-tecnica>Ebro S800 PHEV</a> | 279 CV | 90 km | 40.389 € |
+| <a href=/coches/ebro-s800-phev-precio-ficha-tecnica/>Ebro S800 PHEV</a> | 279 CV | 90 km | 40.389 € |
 | BYD Seal U DM-i | 218 CV | 125 km | ~30.000 € |
-| <a href=/coches/omoda-9-shs-precio-ficha-tecnica>Omoda 9 SHS</a> | 537 CV | 145 km | ~48.000 € |
+| <a href=/coches/omoda-9-shs-precio-ficha-tecnica/>Omoda 9 SHS</a> | 537 CV | 145 km | ~48.000 € |
 
 ## Pros y contras
 
@@ -439,7 +439,7 @@ La tarifa es de 34.400 €, pero con promociones y descuentos se anuncia desde 2
 Homologa 90 km en ciclo WLTP, suficientes para el uso diario sin gastar gasolina.
 
 ### ¿El Jaecoo 7 SHS tiene etiqueta CERO?
-Sí. Al superar los 40 km de autonomía eléctrica, le corresponde la etiqueta CERO. <a href=/calculadora-etiqueta-dgt>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Sí. Al superar los 40 km de autonomía eléctrica, le corresponde la etiqueta CERO. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
 ### ¿Cuánto gasta el Jaecoo 7 SHS de verdad?
 El 0,7 l/100 km es la cifra ponderada WLTP cargando a diario. Con la batería agotada, los medios hablan de unos 6,0 l/100 km reales.
@@ -469,7 +469,7 @@ Fuente oficial: <a href=https://www.jaecoo.es>web oficial de Jaecoo</a>.`
     ],
     content: `<img src=/media/kgm-torres-evx-electrico-precio-ficha-tecnica-hero.webp alt=SUV eléctrico de líneas robustas color verde bosque circulando por una carretera rural española entre campos de trigo>
 
-**¿Buscas solo los datos?** <a href=/coches/kgm-torres-evx-electrico-precio-ficha-tecnica>Ver ficha técnica del KGM Torres EVX</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/kgm-torres-evx-electrico-precio-ficha-tecnica/>Ver ficha técnica del KGM Torres EVX</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 **KGM** es el nuevo nombre de **SsangYong** (la marca coreana la compró el grupo KG en 2023), y el **Torres EVX** es su apuesta eléctrica: un SUV de 4,72 m con **207 CV**, **503 km de autonomía WLTP**, batería LFP Blade de **BYD** de 80,6 kWh y una garantía de batería de **10 años o 1.000.000 de kilómetros**, la mejor del mercado. Precio: **35.000 €** de tarifa, **32.700 €** financiando.
 
@@ -485,7 +485,7 @@ Un matiz sobre el maletero: km77 publica 599 L (su propia medición), pero la **
 
 <img src=/media/kgm-torres-evx-electrico-precio-ficha-tecnica-interior-oficial-2.webp alt=Interior oficial del kgm torres evx electrico>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
@@ -500,8 +500,8 @@ Un matiz sobre el maletero: km77 publica 599 L (su propia medición), pero la **
 | Modelo | Autonomía | Maletero | Precio desde |
 |---|---|---|---|
 | **KGM Torres EVX** | 503 km | 839 L | 32.700 € |
-| <a href=/coches/skoda-elroq-electrico-precio-ficha-tecnica>Skoda Elroq 60</a> | 428 km | 470 L | 30.350 € |
-| <a href=/coches/kia-ev3-electrico-precio-ficha-tecnica>Kia EV3</a> | 436 km | 460 L | 37.020 € |
+| <a href=/coches/skoda-elroq-electrico-precio-ficha-tecnica/>Skoda Elroq 60</a> | 428 km | 470 L | 30.350 € |
+| <a href=/coches/kia-ev3-electrico-precio-ficha-tecnica/>Kia EV3</a> | 436 km | 460 L | 37.020 € |
 | BYD Atto 3 | 420 km | 440 L | ~38.000 € |
 
 ## Pros y contras
@@ -532,7 +532,7 @@ Vídeo: <a href=https://www.youtube.com/watch?v=12byL1RB7Ew>pruebatucoche.es</a>
 10 años o 1.000.000 de kilómetros, la mejor garantía de batería del mercado español.
 
 ### ¿El Torres EVX tiene etiqueta CERO?
-Sí, es 100 % eléctrico. <a href=/calculadora-etiqueta-dgt>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Sí, es 100 % eléctrico. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
 ### ¿Qué es KGM?
 Es el nuevo nombre de SsangYong tras su compra por el grupo coreano KG en 2023.
@@ -558,7 +558,7 @@ Fuente oficial: <a href=https://kgm.com.es>web oficial de KGM</a>.`
     ],
     content: `<img src=/media/kgm-actyon-hibrido-precio-ficha-tecnica-hero.webp alt=SUV coupé híbrido azul medianoche circulando de noche por una avenida moderna con estelas de luz>
 
-**¿Buscas solo los datos?** <a href=/coches/kgm-actyon-hibrido-precio-ficha-tecnica>Ver ficha técnica del KGM Actyon</a>: precio, consumo, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/kgm-actyon-hibrido-precio-ficha-tecnica/>Ver ficha técnica del KGM Actyon</a>: precio, consumo, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Actyon** recupera un nombre histórico de SsangYong para el nuevo KGM: un SUV coupé de 4,74 m con sistema **híbrido de 204 CV desarrollado por BYD** (1.5 turbo de 150 CV + motor eléctrico de 177 CV), **5,9 l/100 km**, **etiqueta ECO** y un maletero de **668 L**. Precio: **38.000 €** de PVP, **35.300 €** financiando.
 
@@ -572,7 +572,7 @@ El **Actyon** recupera un nombre histórico de SsangYong para el nuevo KGM: un S
 
 <img src=/media/kgm-actyon-hibrido-precio-ficha-tecnica-interior-oficial-2.webp alt=Interior oficial del kgm actyon hibrido>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
@@ -616,7 +616,7 @@ Vídeo: <a href=https://www.youtube.com/watch?v=LstHxqDh5O4>caranddriving (Méxi
 Un sistema de 204 CV desarrollado por BYD: 1.5 turbo de gasolina (150 CV) más un motor eléctrico de 177 CV, con batería de 1,84 kWh.
 
 ### ¿El KGM Actyon tiene etiqueta ECO?
-Sí. <a href=/calculadora-etiqueta-dgt>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Sí. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
 ### ¿Qué maletero tiene el Actyon?
 668 litros, una de las mejores cifras entre los SUV híbridos de su tamaño.
@@ -646,7 +646,7 @@ Fuente oficial: <a href=https://kgm.com.es>web oficial de KGM</a>.`
     ],
     content: `<img src=/media/ebro-s800-phev-precio-ficha-tecnica-hero.webp alt=Gran SUV híbrido enchufable de 7 plazas color plata aparcado frente a una nave industrial moderna en Barcelona>
 
-**¿Buscas solo los datos?** <a href=/coches/ebro-s800-phev-precio-ficha-tecnica>Ver ficha técnica del Ebro S800</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/ebro-s800-phev-precio-ficha-tecnica/>Ver ficha técnica del Ebro S800</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 **Ebro** ha vuelto, y lo ha hecho a lo grande: el **S800** es su buque insignia, un SUV híbrido enchufable de **7 plazas** y 4,73 m **fabricado en la Zona Franca de Barcelona**. **279 CV**, **90 km de autonomía eléctrica**, **carga rápida en DC de 40 kW** (rara en un PHEV), función **V2L de 3,3 kW** y **etiqueta CERO** desde **40.389 €** (acabado Premium; 46.990 € el Luxury).
 
@@ -661,7 +661,7 @@ Fuente oficial: <a href=https://kgm.com.es>web oficial de KGM</a>.`
 
 <img src=/media/ebro-s800-phev-precio-ficha-tecnica-interior-oficial-2.webp alt=Interior oficial del ebro s800 phev>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
@@ -676,9 +676,9 @@ Fuente oficial: <a href=https://kgm.com.es>web oficial de KGM</a>.`
 | Modelo | Plazas | Potencia | Precio desde |
 |---|---|---|---|
 | **Ebro S800 PHEV** | 7 | 279 CV | 40.389 € |
-| <a href=/coches/jaecoo-7-shs-hibrido-enchufable-precio-ficha-tecnica>Jaecoo 7 SHS</a> | 5 | 279 CV | 27.990 € |
-| <a href=/coches/dfsk-e5-hibrido-enchufable-precio-ficha-tecnica>DFSK E5</a> | 7 | 217 CV | 27.995 € |
-| <a href=/coches/lepas-l8-chery-hibrido-enchufable-precio-espana>Lepas L8</a> | 5 | 279 CV | 41.700 € |
+| <a href=/coches/jaecoo-7-shs-hibrido-enchufable-precio-ficha-tecnica/>Jaecoo 7 SHS</a> | 5 | 279 CV | 27.990 € |
+| <a href=/coches/dfsk-e5-hibrido-enchufable-precio-ficha-tecnica/>DFSK E5</a> | 7 | 217 CV | 27.995 € |
+| <a href=/coches/lepas-l8-chery-hibrido-enchufable-precio-espana/>Lepas L8</a> | 5 | 279 CV | 41.700 € |
 
 ## Pros y contras
 
@@ -711,7 +711,7 @@ En la Zona Franca de Barcelona, en la antigua planta de Nissan.
 90 km en ciclo WLTP, con batería de 18,4 kWh y carga rápida en DC de 40 kW.
 
 ### ¿El Ebro S800 tiene etiqueta CERO?
-Sí. <a href=/calculadora-etiqueta-dgt>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Sí. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
 279 CV en un 7 plazas familiar también dan para despistes con el acelerador: si te llega una <a href=https://recurretumulta.online/guias/radares>multa de radar</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
 
@@ -734,7 +734,7 @@ Fuente oficial: <a href=https://www.ebro.es>web oficial de Ebro</a>.`
     ],
     content: `<img src=/media/ebro-s400-hibrido-precio-ficha-tecnica-hero.webp alt=SUV híbrido compacto naranja aparcado en una calle de Barcelona con arquitectura modernista>
 
-**¿Buscas solo los datos?** <a href=/coches/ebro-s400-hibrido-precio-ficha-tecnica>Ver ficha técnica del Ebro S400</a>: precio, consumo, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/ebro-s400-hibrido-precio-ficha-tecnica/>Ver ficha técnica del Ebro S400</a>: precio, consumo, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 Si el S800 es el buque insignia, el **S400** es el superventas en potencia: un SUV híbrido de 4,32 m **fabricado en Barcelona** con **211 CV**, **5,3 l/100 km**, **etiqueta ECO** y un precio de campaña de **19.715 €** (tarifa: 26.885 €). Más potente que un MG ZS Hybrid+ y, con la promoción, más barato.
 
@@ -751,7 +751,7 @@ La campaña lo deja más de 7.000 € por debajo de tarifa: a ese precio no hay 
 
 <img src=/media/ebro-s400-hibrido-precio-ficha-tecnica-interior-oficial-2.webp alt=Interior oficial del ebro s400 hibrido>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
@@ -766,8 +766,8 @@ La campaña lo deja más de 7.000 € por debajo de tarifa: a ese precio no hay 
 | Modelo | Potencia | Consumo | Precio desde |
 |---|---|---|---|
 | **Ebro S400 HEV** | 211 CV | 5,3 l/100 km | 19.715 € |
-| <a href=/coches/mg-zs-hybrid-precio-ficha-tecnica>MG ZS Hybrid+</a> | 194 CV | 5,0 l/100 km | 22.340 € |
-| <a href=/coches/jaecoo-5-precio-ficha-tecnica>Jaecoo 5 HEV</a> | 224 CV | 5,3 l/100 km | 22.500 € |
+| <a href=/coches/mg-zs-hybrid-precio-ficha-tecnica/>MG ZS Hybrid+</a> | 194 CV | 5,0 l/100 km | 22.340 € |
+| <a href=/coches/jaecoo-5-precio-ficha-tecnica/>Jaecoo 5 HEV</a> | 224 CV | 5,3 l/100 km | 22.500 € |
 | Dacia Bigster Hybrid 155 | 155 CV | 4,7 l/100 km | ~25.000 € |
 
 ## Pros y contras
@@ -795,7 +795,7 @@ Vídeo: <a href=https://www.youtube.com/watch?v=sjVkNViFqYo>carwow España (JF C
 Un sistema híbrido de 211 CV con batería de 1,83 kWh, tracción delantera y cambio automático.
 
 ### ¿El Ebro S400 tiene etiqueta ECO?
-Sí. <a href=/calculadora-etiqueta-dgt>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Sí. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
 ### ¿Dónde se fabrica?
 En la Zona Franca de Barcelona, en la antigua fábrica de Nissan.
@@ -825,7 +825,7 @@ Fuente oficial: <a href=https://www.ebro.es>web oficial de Ebro</a>.`
     ],
     content: `<img src=/media/dfsk-e5-hibrido-enchufable-precio-ficha-tecnica-hero.webp alt=Gran SUV familiar híbrido enchufable blanco perla de 7 plazas circulando por una autopista española al atardecer>
 
-**¿Buscas solo los datos?** <a href=/coches/dfsk-e5-hibrido-enchufable-precio-ficha-tecnica>Ver ficha técnica del DFSK E5</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/dfsk-e5-hibrido-enchufable-precio-ficha-tecnica/>Ver ficha técnica del DFSK E5</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 ¿Un SUV de **7 plazas**, **híbrido enchufable**, con **etiqueta CERO** por menos de 28.000 €? Existe: es el **DFSK E5**. Mide **4,76 m**, rinde **217 CV** (1.5 de gasolina de 102 CV + eléctrico de 177 CV), homologa **64 km eléctricos** (km77) y con promociones parte de **27.995 €** (tarifa: 35.495 €). El PHEV familiar más barato del mercado español.
 
@@ -842,7 +842,7 @@ Matiz honesto: algún medio publica 87 km de autonomía eléctrica, pero **km77 
 
 <img src=/media/dfsk-e5-hibrido-enchufable-precio-ficha-tecnica-interior-oficial-2.webp alt=Interior oficial del dfsk e5 hibrido enchufable>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
@@ -857,8 +857,8 @@ Matiz honesto: algún medio publica 87 km de autonomía eléctrica, pero **km77 
 | Modelo | Plazas | Potencia | Precio desde |
 |---|---|---|---|
 | **DFSK E5** | 7 | 217 CV | 27.995 € |
-| <a href=/coches/ebro-s800-phev-precio-ficha-tecnica>Ebro S800 PHEV</a> | 7 | 279 CV | 40.389 € |
-| <a href=/coches/jaecoo-7-shs-hibrido-enchufable-precio-ficha-tecnica>Jaecoo 7 SHS</a> | 5 | 279 CV | 27.990 € |
+| <a href=/coches/ebro-s800-phev-precio-ficha-tecnica/>Ebro S800 PHEV</a> | 7 | 279 CV | 40.389 € |
+| <a href=/coches/jaecoo-7-shs-hibrido-enchufable-precio-ficha-tecnica/>Jaecoo 7 SHS</a> | 5 | 279 CV | 27.990 € |
 | BYD Tang | 7 | 517 CV | ~70.000 € |
 
 ## Pros y contras
@@ -889,7 +889,7 @@ Sí, es uno de los pocos híbridos enchufables de 7 plazas por debajo de 30.000 
 64 km según km77 (algún medio publica 87 km). Batería de unos 17,5 kWh.
 
 ### ¿El DFSK E5 tiene etiqueta CERO?
-Sí. <a href=/calculadora-etiqueta-dgt>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Sí. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
 ### ¿Merece la pena frente al Ebro S800?
 El E5 es mucho más barato y también tiene 7 plazas; el S800 ofrece más potencia (279 CV), más autonomía eléctrica (90 km) y carga rápida en DC.
@@ -915,7 +915,7 @@ Fuente oficial: <a href=https://www.dfskmotors.es>web oficial de DFSK</a>.`
     ],
     content: `<img src=/media/omoda-5-ev-electrico-precio-ficha-tecnica-hero.webp alt=SUV coupé eléctrico turquesa aparcado en un paseo marítimo mediterráneo al amanecer con palmeras>
 
-**¿Buscas solo los datos?** <a href=/coches/omoda-5-ev-electrico-precio-ficha-tecnica>Ver ficha técnica del Omoda 5 EV</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/omoda-5-ev-electrico-precio-ficha-tecnica/>Ver ficha técnica del Omoda 5 EV</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 Antes del Omoda 9 SHS estuvo el **5 EV** (también llamado E5): el SUV eléctrico de acceso de la marca china de **Chery**. **211 CV**, **430 km de autonomía WLTP**, batería de 61 kWh, **carga rápida de 80 kW** y un precio que parte de **34.900 €**. Diseño coupé rompedor para quien busca un eléctrico con personalidad sin pagar premium.
 
@@ -929,7 +929,7 @@ El PVP se mueve entre **34.900 y 37.900 €** según versiones (carwow), con tar
 
 <img src=/media/omoda-5-ev-electrico-precio-ficha-tecnica-interior-oficial-2.webp alt=Interior oficial del omoda 5 ev electrico>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
@@ -945,8 +945,8 @@ El PVP se mueve entre **34.900 y 37.900 €** según versiones (carwow), con tar
 |---|---|---|---|
 | **Omoda 5 EV** | 430 km | 211 CV | 34.900 € |
 | BYD Atto 2 | 312 km | 177 CV | ~30.000 € |
-| <a href=/coches/kia-ev3-electrico-precio-ficha-tecnica>Kia EV3</a> | 436 km | 204 CV | 37.020 € |
-| <a href=/coches/leapmotor-c10-electrico-precio-ficha-tecnica>Leapmotor C10</a> | 420 km | 218 CV | 32.824 € |
+| <a href=/coches/kia-ev3-electrico-precio-ficha-tecnica/>Kia EV3</a> | 436 km | 204 CV | 37.020 € |
+| <a href=/coches/leapmotor-c10-electrico-precio-ficha-tecnica/>Leapmotor C10</a> | 420 km | 218 CV | 32.824 € |
 
 ## Pros y contras
 
@@ -973,7 +973,7 @@ El PVP va de 34.900 a 37.900 € según versión y acabado.
 430 km en ciclo WLTP con batería de 61 kWh.
 
 ### ¿El Omoda 5 EV tiene etiqueta CERO?
-Sí, es 100 % eléctrico. <a href=/calculadora-etiqueta-dgt>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Sí, es 100 % eléctrico. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
 ### ¿Es lo mismo el Omoda E5 y el Omoda 5 EV?
 Sí: E5 es el nombre comercial en algunos mercados del mismo Omoda 5 eléctrico.
@@ -1003,7 +1003,7 @@ Fuente oficial: <a href=https://www.omodaoficial.es>web oficial de Omoda</a>.`
     ],
     content: `<img src=/media/xpeng-p7-electrico-precio-ficha-tecnica-hero.webp alt=Berlina eléctrica premium azul oscuro cargando en una estación de carga ultrarrápida de noche>
 
-**¿Buscas solo los datos?** <a href=/coches/xpeng-p7-electrico-precio-ficha-tecnica>Ver ficha técnica del XPeng P7+</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/xpeng-p7-electrico-precio-ficha-tecnica/>Ver ficha técnica del XPeng P7+</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 **XPeng** ha desembarcado oficialmente en España, y su primer golpe es el **P7+**: una berlina eléctrica de **5,07 metros** con plataforma de **800 voltios**, carga ultrarrápida de hasta **446 kW** (del 10 al 80 % en unos 12 minutos en la Long Range) y un Cx de **0,211**, de los mejores del mundo. Precios oficiales: **45.990 €** (RWD Standard Range), **49.990 €** (RWD Long Range) y **55.990 €** (AWD Performance). Los pedidos se abrieron en mayo de 2026 con entregas en junio.
 
@@ -1030,7 +1030,7 @@ Dimensiones: 5.056 mm de largo, 1.937 mm de ancho, 1.512 mm de alto y 3 metros d
 
 <img src=/media/xpeng-p7-electrico-precio-ficha-tecnica-interior-oficial-2.webp alt=Interior oficial del xpeng p7 electrico>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Pros y contras
 
@@ -1060,7 +1060,7 @@ Vídeo: <a href=https://www.youtube.com/watch?v=npPr3nminy8>Todos Eléctricos</a
 La Long Range carga a 446 kW en DC: del 10 al 80 % en unos 12 minutos. La Standard Range llega a 350 kW.
 
 ### ¿El XPeng P7+ tiene etiqueta CERO?
-Sí, es 100 % eléctrico. <a href=/calculadora-etiqueta-dgt>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Sí, es 100 % eléctrico. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
 ### ¿Merece la pena frente al Tesla Model 3?
 El P7+ carga más rápido (800 V) y es más grande; el Model 3 tiene mejor red de carga y más valor de reventa. Duelo de filosofías.
@@ -1086,7 +1086,7 @@ Fuente oficial: <a href=https://www.xpeng.com>web oficial de XPeng</a>.`
     ],
     content: `<img src=/media/fiat-grande-panda-electrico-precio-ficha-tecnica-hero.webp alt=Pequeño SUV urbano eléctrico amarillo de diseño retro aparcado en una calle de Roma con arquitectura italiana>
 
-**¿Buscas solo los datos?** <a href=/coches/fiat-grande-panda-electrico-precio-ficha-tecnica>Ver ficha técnica del Fiat Grande Panda</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/fiat-grande-panda-electrico-precio-ficha-tecnica/>Ver ficha técnica del Fiat Grande Panda</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Panda** vuelve, y lo hace a lo grande: el **Fiat Grande Panda** es un urbano de **3,99 m** con diseño que homenajea al Panda original de los 80. Se vende en **tres versiones**: **eléctrica** (113 CV, 44 kWh, 320 km WLTP) desde **22.553 €**, **híbrida** (110 CV, etiqueta ECO) desde **20.405 €** y **gasolina** (101 CV) desde **17.107 €**. Eléctrico con encanto italiano sin arruinarse.
 
@@ -1103,7 +1103,7 @@ El **Panda** vuelve, y lo hace a lo grande: el **Fiat Grande Panda** es un urban
 
 <img src=/media/fiat-grande-panda-electrico-precio-ficha-tecnica-interior-oficial-2.webp alt=Interior oficial del fiat grande panda electrico>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
@@ -1119,8 +1119,8 @@ El **Panda** vuelve, y lo hace a lo grande: el **Fiat Grande Panda** es un urban
 |---|---|---|---|
 | **Grande Panda EV** | 320 km | 22.553 € | Diseño retro y 5 plazas |
 | Citroën ë-C3 | 320 km | ~23.000 € | Primo técnico más barato |
-| <a href=/coches/hyundai-inster-electrico-precio-ficha-tecnica>Hyundai Inster</a> | 327 km | 25.140 € | Más autonomía |
-| <a href=/coches/leapmotor-t03-electrico-precio-ficha-tecnica>Leapmotor T03</a> | 265 km | 18.600 € | Más barato |
+| <a href=/coches/hyundai-inster-electrico-precio-ficha-tecnica/>Hyundai Inster</a> | 327 km | 25.140 € | Más autonomía |
+| <a href=/coches/leapmotor-t03-electrico-precio-ficha-tecnica/>Leapmotor T03</a> | 265 km | 18.600 € | Más barato |
 
 ## Pros y contras
 
@@ -1150,7 +1150,7 @@ Desde 22.553 € en acabados Icon/Pop; el La Prima parte de 26.693 €.
 Sí: el Híbrido de 110 CV con etiqueta ECO parte de 20.405 €. También hay un gasolina de 101 CV desde 17.107 €.
 
 ### ¿El Grande Panda eléctrico tiene etiqueta CERO?
-Sí. <a href=/calculadora-etiqueta-dgt>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Sí. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
 ### ¿Merece la pena frente al Citroën ë-C3?
 Son primos técnicos (misma plataforma Stellantis) con idéntica autonomía. El Panda gana en diseño; el ë-C3 suele ser algo más barato.
@@ -1176,7 +1176,7 @@ Fuente oficial: <a href=https://www.fiat.es>web oficial de Fiat</a>.`
     ],
     content: `<img src=/media/skoda-elroq-electrico-precio-ficha-tecnica-hero.webp alt=SUV eléctrico moderno verde oliva circulando por una carretera rural checa con colinas y un castillo al fondo>
 
-**¿Buscas solo los datos?** <a href=/coches/skoda-elroq-electrico-precio-ficha-tecnica>Ver ficha técnica del Skoda Elroq</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/skoda-elroq-electrico-precio-ficha-tecnica/>Ver ficha técnica del Skoda Elroq</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 Skoda ha dado en el clavo con el **Elroq**: un SUV eléctrico de 4,49 m sobre la probada plataforma **MEB** del grupo Volkswagen. La versión **60** ofrece **204 CV** con **tracción trasera**, **428 km de autonomía WLTP**, batería de 63 kWh y maletero de **470 L** por **30.350 €**. Sin estridencias, sin riesgos: el eléctrico familiar sensato.
 
@@ -1188,7 +1188,7 @@ La gama Elroq parte de **30.350 €** en la versión 60 (tarifa km77 de octubre 
 
 <img src=/media/skoda-elroq-electrico-precio-ficha-tecnica-interior-oficial-2.webp alt=Interior oficial del skoda elroq electrico>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
@@ -1203,8 +1203,8 @@ La gama Elroq parte de **30.350 €** en la versión 60 (tarifa km77 de octubre 
 | Modelo | Autonomía | Potencia | Precio desde |
 |---|---|---|---|
 | **Skoda Elroq 60** | 428 km | 204 CV | 30.350 € |
-| <a href=/coches/kia-ev3-electrico-precio-ficha-tecnica>Kia EV3</a> | 436 km | 204 CV | 37.020 € |
-| <a href=/coches/kgm-torres-evx-electrico-precio-ficha-tecnica>KGM Torres EVX</a> | 503 km | 207 CV | 32.700 € |
+| <a href=/coches/kia-ev3-electrico-precio-ficha-tecnica/>Kia EV3</a> | 436 km | 204 CV | 37.020 € |
+| <a href=/coches/kgm-torres-evx-electrico-precio-ficha-tecnica/>KGM Torres EVX</a> | 503 km | 207 CV | 32.700 € |
 | Hyundai Kona Electric | 454 km | 204 CV | ~38.000 € |
 
 ## Pros y contras
@@ -1232,7 +1232,7 @@ Desde 30.350 € en versión Elroq 60, según la tarifa de km77 de octubre de 20
 428 km en ciclo WLTP con batería de 63 kWh (59 kWh útiles).
 
 ### ¿El Skoda Elroq tiene etiqueta CERO?
-Sí, es 100 % eléctrico. <a href=/calculadora-etiqueta-dgt>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Sí, es 100 % eléctrico. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
 ### ¿Qué plataforma usa?
 La MEB del grupo Volkswagen, compartida con el VW ID.4 o el Audi Q4 e-tron.
@@ -1262,7 +1262,7 @@ Fuente oficial: <a href=https://www.skoda.es>web oficial de Skoda</a>.`
     ],
     content: `<img src=/media/kia-ev3-electrico-precio-ficha-tecnica-hero.webp alt=SUV eléctrico compacto futurista blanco circulando por una carretera costera española al atardecer con acantilados>
 
-**¿Buscas solo los datos?** <a href=/coches/kia-ev3-electrico-precio-ficha-tecnica>Ver ficha técnica del Kia EV3</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/kia-ev3-electrico-precio-ficha-tecnica/>Ver ficha técnica del Kia EV3</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Kia EV3** es la apuesta coreana para democratizar el coche eléctrico: un SUV de 4,30 m con **204 CV**, **436 km de autonomía WLTP** en la versión Standard Range y nada menos que **605 km** en la Air Long Range. Batería de 58,3 kWh, consumo de solo **14,9 kWh/100 km**, maletero de 460 L (+25 L de frunk) y precio desde **37.020 €**. Eficiencia y diseño premiado.
 
@@ -1278,14 +1278,14 @@ El **Kia EV3** es la apuesta coreana para democratizar el coche eléctrico: un S
 
 <img src=/media/kia-ev3-electrico-precio-ficha-tecnica-interior-oficial-2.webp alt=Interior oficial del kia ev3 electrico>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Rivales directos
 
 | Modelo | Autonomía | Precio desde | Punto fuerte |
 |---|---|---|---|
 | **Kia EV3 SR** | 436 km | 37.020 € | Eficiencia y 605 km en LR |
-| <a href=/coches/skoda-elroq-electrico-precio-ficha-tecnica>Skoda Elroq 60</a> | 428 km | 30.350 € | Más barato, similar autonomía |
+| <a href=/coches/skoda-elroq-electrico-precio-ficha-tecnica/>Skoda Elroq 60</a> | 428 km | 30.350 € | Más barato, similar autonomía |
 | Volvo EX30 | 476 km | ~37.000 € | Más autonomía base |
 | Smart #1 | 440 km | ~38.000 € | Diseño y potencia |
 
@@ -1317,7 +1317,7 @@ Desde 37.020 € en acabado Air Standard Range (tarifa km77 de enero de 2026).
 Sí: 292 CV y 501 km de autonomía, lanzado en septiembre de 2026. Precio en España aún sin confirmar.
 
 ### ¿El Kia EV3 tiene etiqueta CERO?
-Sí, es 100 % eléctrico. <a href=/calculadora-etiqueta-dgt>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Sí, es 100 % eléctrico. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
 ### ¿Merece la pena frente al Skoda Elroq?
 El Elroq es 7.000 € más barato; el EV3 gasta menos, tiene versión de 605 km y un interior más moderno. Duelo coreano-checo muy igualado.
@@ -1343,7 +1343,7 @@ Fuente oficial: <a href=https://www.kia.com/es>web oficial de Kia</a>.`
     ],
     content: `<img src=/media/hyundai-inster-electrico-precio-ficha-tecnica-hero.webp alt=Pequeño coche eléctrico urbano verde menta aparcado en un callejón de casco histórico europeo con casas de colores>
 
-**¿Buscas solo los datos?** <a href=/coches/hyundai-inster-electrico-precio-ficha-tecnica>Ver ficha técnica del Hyundai Inster</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/hyundai-inster-electrico-precio-ficha-tecnica/>Ver ficha técnica del Hyundai Inster</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 Hyundai se apunta a la guerra del eléctrico urbano con el **Inster**: 3,83 m de largo, **97 CV**, **327 km de autonomía WLTP**, batería de 42 kWh y una configuración curiosa de **4 plazas (2+2)**. Precio: **25.140 €** en acabado Klass. Y con un aval importante: **8 años o 160.000 km de garantía para la batería** de alto voltaje, confirmado por Hyundai Motor España.
 
@@ -1360,7 +1360,7 @@ Existe también una versión de **115 CV** con más batería y autonomía (hasta
 
 <img src=/media/hyundai-inster-electrico-precio-ficha-tecnica-interior-oficial-2.webp alt=Interior oficial del hyundai inster electrico>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
@@ -1375,9 +1375,9 @@ Existe también una versión de **115 CV** con más batería y autonomía (hasta
 | Modelo | Autonomía | Plazas | Precio desde |
 |---|---|---|---|
 | **Hyundai Inster** | 327 km | 4 | 25.140 € |
-| <a href=/coches/leapmotor-t03-electrico-precio-ficha-tecnica>Leapmotor T03</a> | 265 km | 4 | 18.600 € |
+| <a href=/coches/leapmotor-t03-electrico-precio-ficha-tecnica/>Leapmotor T03</a> | 265 km | 4 | 18.600 € |
 | Dacia Spring Electric 70 | 225 km | 4 | ~17.000 € |
-| <a href=/coches/fiat-grande-panda-electrico-precio-ficha-tecnica>Fiat Grande Panda</a> | 320 km | 5 | 22.553 € |
+| <a href=/coches/fiat-grande-panda-electrico-precio-ficha-tecnica/>Fiat Grande Panda</a> | 320 km | 5 | 22.553 € |
 
 ## Pros y contras
 
@@ -1407,7 +1407,7 @@ No: homologa 4 plazas en configuración 2+2.
 8 años o 160.000 km para la batería de alto voltaje, según Hyundai Motor España.
 
 ### ¿El Hyundai Inster tiene etiqueta CERO?
-Sí, es 100 % eléctrico. <a href=/calculadora-etiqueta-dgt>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Sí, es 100 % eléctrico. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
 ### ¿Merece la pena frente al Leapmotor T03?
 El Inster ofrece más autonomía (327 km) y la garantía Hyundai; el T03 es 6.500 € más barato. El Grande Panda añade una quinta plaza por menos dinero.
@@ -1433,7 +1433,7 @@ Fuente oficial: <a href=https://www.hyundai.com/es>web oficial de Hyundai</a>.`
     ],
     content: `<img src=/media/citroen-e-c3-aircross-electrico-precio-ficha-tecnica-hero.webp alt=SUV eléctrico familiar verde salvia circulando por una carretera rural francesa entre campos de lavanda>
 
-**¿Buscas solo los datos?** <a href=/coches/citroen-e-c3-aircross-electrico-precio-ficha-tecnica>Ver ficha técnica del Citroën e-C3 Aircross</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/citroen-e-c3-aircross-electrico-precio-ficha-tecnica/>Ver ficha técnica del Citroën e-C3 Aircross</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Citroën e-C3 Aircross** quiere ser el SUV eléctrico familiar sin sustos: 4,40 m, **113 CV**, **394 km de autonomía WLTP**, batería **LFP de 43,8 kWh**, un maletero enorme de **460 L** y precio desde **28.190 €** (acabado Plus; 30.390 € el Max con 400 km). Y no viene solo: hay **híbrido** (110 o 145 CV, etiqueta ECO) desde **23.140 €**, gasolina Turbo 100 desde 18.040 € e incluso **opción de 7 plazas**.
 
@@ -1451,7 +1451,7 @@ El **Citroën e-C3 Aircross** quiere ser el SUV eléctrico familiar sin sustos: 
 
 <img src=/media/citroen-e-c3-aircross-electrico-precio-ficha-tecnica-interior-oficial-2.webp alt=Interior oficial del citroen e c3 aircross electrico>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
@@ -1466,9 +1466,9 @@ El **Citroën e-C3 Aircross** quiere ser el SUV eléctrico familiar sin sustos: 
 | Modelo | Autonomía | Maletero | Precio desde |
 |---|---|---|---|
 | **ë-C3 Aircross** | 394 km | 460 L | 28.190 € |
-| <a href=/coches/opel-frontera-electric-precio-ficha-tecnica>Opel Frontera Electric</a> | 406 km | 460 L | 30.500 € |
-| <a href=/coches/fiat-grande-panda-electrico-precio-ficha-tecnica>Fiat Grande Panda</a> | 320 km | 361 L | 22.553 € |
-| <a href=/coches/skoda-elroq-electrico-precio-ficha-tecnica>Skoda Elroq 60</a> | 428 km | 470 L | 30.350 € |
+| <a href=/coches/opel-frontera-electric-precio-ficha-tecnica/>Opel Frontera Electric</a> | 406 km | 460 L | 30.500 € |
+| <a href=/coches/fiat-grande-panda-electrico-precio-ficha-tecnica/>Fiat Grande Panda</a> | 320 km | 361 L | 22.553 € |
+| <a href=/coches/skoda-elroq-electrico-precio-ficha-tecnica/>Skoda Elroq 60</a> | 428 km | 470 L | 30.350 € |
 
 ## Pros y contras
 
@@ -1498,7 +1498,7 @@ Sí, el C3 Aircross ofrece configuración de 7 plazas, una rareza en su segmento
 394 km (Plus) o 400 km (Max) en ciclo WLTP, con batería LFP de 43,8 kWh útiles.
 
 ### ¿El e-C3 Aircross tiene etiqueta CERO?
-Sí, la versión eléctrica. El híbrido lleva etiqueta ECO. <a href=/calculadora-etiqueta-dgt>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Sí, la versión eléctrica. El híbrido lleva etiqueta ECO. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
 ### ¿Merece la pena frente al Opel Frontera Electric?
 Son primos técnicos (misma plataforma Stellantis). El Frontera ofrece 406 km y carga rápida de 100 kW por 2.300 € más; el Citroën gana en confort y precio.
@@ -1524,7 +1524,7 @@ Fuente oficial: <a href=https://www.citroen.es>web oficial de Citroën</a>.`
     ],
     content: `<img src=/media/opel-frontera-electric-precio-ficha-tecnica-hero.webp alt=SUV eléctrico familiar gris circulando por una autopista alemana entre colinas verdes>
 
-**¿Buscas solo los datos?** <a href=/coches/opel-frontera-electric-precio-ficha-tecnica>Ver ficha técnica del Opel Frontera Electric</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/opel-frontera-electric-precio-ficha-tecnica/>Ver ficha técnica del Opel Frontera Electric</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 **Frontera** vuelve: Opel recupera el nombre de su todoterreno de los 90 para un SUV familiar moderno. El **Frontera Electric** de 54 kWh ofrece **113 CV**, **406 km de autonomía WLTP**, **carga rápida de 100 kW** (11 kW en AC), maletero de **460 L** y precio desde **30.500 €** (acabado GS). También existe con batería de 44 kWh (304 km) desde 28.400 € y en **híbrido de 110 CV** con etiqueta ECO desde **23.300 €**, con opción de **7 plazas**.
 
@@ -1541,7 +1541,7 @@ Fuente oficial: <a href=https://www.citroen.es>web oficial de Citroën</a>.`
 
 <img src=/media/opel-frontera-electric-precio-ficha-tecnica-interior-oficial-2.webp alt=Interior oficial del opel frontera electric>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
@@ -1556,9 +1556,9 @@ Fuente oficial: <a href=https://www.citroen.es>web oficial de Citroën</a>.`
 | Modelo | Autonomía | Carga DC | Precio desde |
 |---|---|---|---|
 | **Frontera Electric 54** | 406 km | 100 kW | 30.500 € |
-| <a href=/coches/citroen-e-c3-aircross-electrico-precio-ficha-tecnica>ë-C3 Aircross</a> | 394 km | n.d. | 28.190 € |
-| <a href=/coches/skoda-elroq-electrico-precio-ficha-tecnica>Skoda Elroq 60</a> | 428 km | n.d. | 30.350 € |
-| <a href=/coches/fiat-grande-panda-electrico-precio-ficha-tecnica>Fiat Grande Panda</a> | 320 km | n.d. | 22.553 € |
+| <a href=/coches/citroen-e-c3-aircross-electrico-precio-ficha-tecnica/>ë-C3 Aircross</a> | 394 km | n.d. | 28.190 € |
+| <a href=/coches/skoda-elroq-electrico-precio-ficha-tecnica/>Skoda Elroq 60</a> | 428 km | n.d. | 30.350 € |
+| <a href=/coches/fiat-grande-panda-electrico-precio-ficha-tecnica/>Fiat Grande Panda</a> | 320 km | n.d. | 22.553 € |
 
 ## Pros y contras
 
@@ -1588,7 +1588,7 @@ Desde 30.500 € con batería de 54 kWh (406 km) y desde 28.400 € con la de 44
 Sí: el Frontera Híbrido de 110 CV con etiqueta ECO parte de 23.300 €, y hay un 145 CV con 7 plazas por 28.550 €.
 
 ### ¿El Frontera Electric tiene etiqueta CERO?
-Sí. <a href=/calculadora-etiqueta-dgt>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Sí. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
 ### ¿Merece la pena frente al Citroën e-C3 Aircross?
 Misma plataforma y maletero (460 L). El Frontera carga a 100 kW y ofrece 12 km más de autonomía por 2.300 € extra; el Citroën es más barato y confortable.
@@ -1615,7 +1615,7 @@ Fuente oficial: <a href=https://www.opel.es>web oficial de Opel</a>.`
     ],
     content: `<img src=/media/jetour-g700-903-cv-precio-ficha-tecnica-hero.webp alt=Jetour G700, gran SUV todoterreno híbrido enchufable de color verde oscuro, circulando por una pista de montaña al atardecer>
 
-**¿Buscas solo los datos?** <a href=/coches/jetour-g700-903-cv-precio-ficha-tecnica>Ver ficha técnica del Jetour G700</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/jetour-g700-903-cv-precio-ficha-tecnica/>Ver ficha técnica del Jetour G700</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 **903 CV en un todoterreno de 5,2 metros que puede cruzar un río.** El **Jetour G700** es el buque insignia de Jetour, la marca aventurera del gigante chino **Chery**, y acaba de presentarse por primera vez en Argentina durante la **Expo Auto Chino de Buenos Aires**, con llegada prevista para **2027**. Es un híbrido enchufable con chasis de largueros, tres bloqueos de diferencial y una potencia que supera a la de un Ferrari 812 Superfast.
 
@@ -1629,7 +1629,7 @@ Jetour ya vende en España el **T2**, y la estrategia es clara: primero los mode
 
 <img src=/media/jetour-g700-903-cv-precio-ficha-tecnica-interior-oficial.webp alt=Interior oficial del jetour g700 903 cv>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Ficha técnica del Jetour G700
 
@@ -1668,7 +1668,7 @@ Jetour ya vende en España el **T2**, y la estrategia es clara: primero los mode
 | Modelo | Potencia | 0-100 km/h | Precio desde |
 |---|---|---|---|
 | **Jetour G700** | 903 CV | 4,6 s | ~56.000 € (est.) |
-| <a href=/coches/yangwang-byd-u8-u9-europa-2027>Yangwang U8</a> | 1.197 CV | n.d. | n.d. |
+| <a href=/coches/yangwang-byd-u8-u9-europa-2027/>Yangwang U8</a> | 1.197 CV | n.d. | n.d. |
 | Toyota Land Cruiser | 205 CV | 9,9 s | 85.000 € |
 | GWM Tank 500 | 348 CV | n.d. | n.d. |
 
@@ -1700,7 +1700,7 @@ La marca apunta a 2027 para su desembarco europeo y latinoamericano, tras su pre
 903 CV (665 kW) y 1.135 Nm, con un 2.0 turbo de gasolina y dos motores eléctricos. Acelera de 0 a 100 km/h en 4,6 segundos.
 
 ### ¿Es el Jetour G700 un coche eléctrico?
-No: es un híbrido enchufable (PHEV). Tiene unos 150 km de autonomía eléctrica (CLTC) y etiqueta Cero de la DGT. <a href=/calculadora-etiqueta-dgt>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+No: es un híbrido enchufable (PHEV). Tiene unos 150 km de autonomía eléctrica (CLTC) y etiqueta Cero de la DGT. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
 ### ¿El Jetour G700 puede circular por agua?
 Sí: anuncia 970 mm de vadeo y en China demostró su capacidad cruzando el río Yangtsé.

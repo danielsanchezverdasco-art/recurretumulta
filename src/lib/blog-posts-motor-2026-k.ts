@@ -55,7 +55,7 @@ El dato que escuece: en China este mismo coche se vende como iCar V27 desde unos
 
 La duda razonable es la de toda marca nueva: Chery ya es la segunda marca china en Europa y su red crece, pero el servicio posventa y el valor de reventa del V27 están por demostrar. Si buscas un 4x4 electrificado con carácter y no te corre prisa (llega en 2027), este es el rival a vigilar.
 
-Ficha completa: <a href=/coches/icaur-v27-erev-2027-precio-ficha-tecnica>iCAUR V27: ficha técnica y precio</a> · <a href=/comparador-coches>Comparador de coches</a> · La marca: <a href=/blog/icaur-chery-marca-aventura-europa-espana-2027>iCAUR, la marca aventura de Chery</a>
+Ficha completa: <a href=/coches/icaur-v27-erev-2027-precio-ficha-tecnica/>iCAUR V27: ficha técnica y precio</a> · <a href=/comparador-coches/>Comparador de coches</a> · La marca: <a href=/blog/icaur-chery-marca-aventura-europa-espana-2027/>iCAUR, la marca aventura de Chery</a>
 
 <img src=/media/icaur-v27-defender-chino-precio-espana-2027-galeria-2.webp alt=Interior de un todoterreno premium con gran pantalla táctil central y cuero marrón>
 
@@ -123,7 +123,7 @@ Hasta ahora, las naked A2 eran territorio japonés con electrónica justa. La F 
 
 El pero: la versión base viene justa de equipamiento y la que de verdad brilla (M Sport Innovation) se va a 7.550 €, donde ya asoman rivales con más cilindrada. Y la red BMW no es precisamente barata de mantener. Aun así, es la naked A2 más completa del momento sobre el papel.
 
-Ficha completa: <a href=/motos/bmw-f-450-r-2026-ficha-tecnica-precio>BMW F 450 R: ficha técnica y precio</a> · Duelo: <a href=/blog/bmw-f-450-r-vs-honda-cb500-hornet-vs-kawasaki-z500>F 450 R vs Hornet vs Z500</a> · <a href=/comparador-motos>Comparador de motos</a>
+Ficha completa: <a href=/motos/bmw-f-450-r-2026-ficha-tecnica-precio/>BMW F 450 R: ficha técnica y precio</a> · Duelo: <a href=/blog/bmw-f-450-r-vs-honda-cb500-hornet-vs-kawasaki-z500/>F 450 R vs Hornet vs Z500</a> · <a href=/comparador-motos/>Comparador de motos</a>
 
 <img src=/media/bmw-f-450-r-naked-a2-precio-espana-2026-galeria-2.webp alt=Salpicadero TFT de una moto naked visto desde el puesto del piloto en carretera>
 
@@ -190,7 +190,7 @@ La Monster inventó la naked moderna en 1993 y cada generación ha tenido que re
 
 El debate inevitable es el precio: ~12.990 € son unos 6.000 € más que una Yamaha MT-09 con potencia similar. La Monster nunca ha sido la compra racional; es la compra emocional. Y en eso, con este diseño y este motor nuevo, sigue sin rival directo.
 
-Ficha completa: <a href=/motos/ducati-monster-2026-ficha-tecnica-precio>Ducati Monster 2026: ficha técnica y precio</a> · <a href=/comparador-motos>Comparador de motos</a>
+Ficha completa: <a href=/motos/ducati-monster-2026-ficha-tecnica-precio/>Ducati Monster 2026: ficha técnica y precio</a> · <a href=/comparador-motos/>Comparador de motos</a>
 
 <img src=/media/ducati-monster-2026-quinta-generacion-precio-espana-galeria-2.webp alt=Detalle del faro LED redondo de una moto naked roja>
 
@@ -242,7 +242,7 @@ El monovolumen murió en Europa devorado por los SUV —el propio Espace VI de 2
 
 <img src=/media/renault-e-space-concept-paris-2026-galeria-1.webp alt=Interior espacioso de un monovolumen eléctrico con tres filas de asientos y techo panorámico>
 
-Más estrenos de París: <a href=/blog/salon-paris-2026-estrenos-electricos-guia>guía de todos los eléctricos del Salón de París 2026</a> · <a href=/comparador-coches>Comparador de coches</a>
+Más estrenos de París: <a href=/blog/salon-paris-2026-estrenos-electricos-guia/>guía de todos los eléctricos del Salón de París 2026</a> · <a href=/comparador-coches/>Comparador de coches</a>
 
 ## Preguntas frecuentes
 
@@ -299,7 +299,7 @@ Es un concept: anticipa el lenguaje de diseño de los futuros familiares eléctr
 
 El segmento profesional en España lo dominan las Berlingo y e-Partner de Stellantis, y la ID.Buzz Cargo juega en otra liga de precio. La PV5 ataca justo el hueco: furgoneta eléctrica modular, con etiqueta Cero y pensada para autónomos y flotas desde el primer boceto. Si Kia acierta con el precio (aún sin confirmar para España), tiene mimbres para ser la furgoneta eléctrica de referencia del reparto urbano. La veremos en las calles antes que en los concesionarios: las flotas compran por coste total, no por capricho.
 
-<a href=/comparador-coches>Comparador de coches</a> · Etiqueta Cero: entra en todas las ZBE sin restricciones.
+<a href=/comparador-coches/>Comparador de coches</a> · Etiqueta Cero: entra en todas las ZBE sin restricciones.
 
 ## Preguntas frecuentes
 
@@ -371,7 +371,7 @@ El **Salón del Automóvil de París** (12-18 de octubre, Paris Expo Porte de Ve
 
 <img src=/media/salon-paris-2026-estrenos-electricos-guia-galeria-2.webp alt=Pequeño coche eléctrico urbano sobre una plataforma giratoria en un salón del automóvil>
 
-Cobertura relacionada: <a href=/blog/renault-e-space-concept-paris-2026>Renault E-Space Concept</a> · <a href=/blog/citroen-2cv-electrico-2026-paris>Citroën 2CV eléctrico</a> · <a href=/blog/xpeng-g9l-debut-paris-2026>XPeng G9L</a> · <a href=/blog/liux-big-salon-paris-2026>Liux BIG</a> · <a href=/comparador-coches>Comparador de coches</a>
+Cobertura relacionada: <a href=/blog/renault-e-space-concept-paris-2026/>Renault E-Space Concept</a> · <a href=/blog/citroen-2cv-electrico-2026-paris/>Citroën 2CV eléctrico</a> · <a href=/blog/xpeng-g9l-debut-paris-2026/>XPeng G9L</a> · <a href=/blog/liux-big-salon-paris-2026/>Liux BIG</a> · <a href=/comparador-coches/>Comparador de coches</a>
 
 ## Preguntas frecuentes
 

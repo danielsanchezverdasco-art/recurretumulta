@@ -53,7 +53,7 @@ De serie en toda la gama: suspensión neumática de doble cámara (DiSus-A), dir
 
 ## ¿Lo veremos en Europa?
 
-**De momento no hay plan confirmado de venta en Europa.** Es un modelo pensado para el mercado chino, donde se medirá con los premium locales y europeos. Si BYD decidiera traerlo, sería el buque insignia de la marca junto al <a href=/coches/byd-seal-u-dm-i-precio-ficha-tecnica>Seal U DM-i</a> que ya se vende en España. <a href=/comparador-coches>Compáralos en nuestro comparador</a> para ver cuánto falta para que China iguale a Europa en el segmento premium.
+**De momento no hay plan confirmado de venta en Europa.** Es un modelo pensado para el mercado chino, donde se medirá con los premium locales y europeos. Si BYD decidiera traerlo, sería el buque insignia de la marca junto al <a href=/coches/byd-seal-u-dm-i-precio-ficha-tecnica/>Seal U DM-i</a> que ya se vende en España. <a href=/comparador-coches/>Compáralos en nuestro comparador</a> para ver cuánto falta para que China iguale a Europa en el segmento premium.
 
 ## Preguntas frecuentes
 
@@ -116,11 +116,11 @@ El plato fuerte es el **E-Space Concept**, estreno mundial: reinterpretación 10
 
 El movimiento estratégico que más importa no es un prototipo, sino la **masificación de las baterías LFP** (litio-ferrofosfato) en toda la gama eléctrica Renault, con arquitectura cell-to-pack: **27,5 kWh** (Twingo), **37 kWh** (Renault 5), **67 kWh** (Megane y Scenic; el R4 llegará después). La química LFP elimina el cobalto y el níquel, baja el coste y es la misma que BYD usa para liderar en precio. Renault la combina con su sistema **Fireman Access** antiincendios. Además, la IA **Gemini de Google** llegará a los coches por actualización OTA, también a los que ya circulan.
 
-El mensaje de Provost es claro: la guerra ya no es por "quién tiene eléctricos", sino por **quién los hace asequibles**. Y quiere ganar esa guerra fabricando en Francia: <a href=/coches/renault-megane-e-tech-2026-precio-autonomia>el Megane E-Tech</a> renovado, el <a href=/coches/renault-twingo-e-tech-2026-precio-ficha-tecnica>Twingo E-Tech</a> y el <a href=/coches/renault-5-e-tech-2026-precio-autonomia>Renault 5 E-Tech</a> son la punta de lanza. <a href=/comparador-coches>Compáralos en nuestro comparador</a>.
+El mensaje de Provost es claro: la guerra ya no es por "quién tiene eléctricos", sino por **quién los hace asequibles**. Y quiere ganar esa guerra fabricando en Francia: <a href=/coches/renault-megane-e-tech-2026-precio-autonomia/>el Megane E-Tech</a> renovado, el <a href=/coches/renault-twingo-e-tech-2026-precio-ficha-tecnica/>Twingo E-Tech</a> y el <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>Renault 5 E-Tech</a> son la punta de lanza. <a href=/comparador-coches/>Compáralos en nuestro comparador</a>.
 
 ## No confundir: 600 M€ en España ≠ 10.000 M€ en Francia
 
-Ojo con las cifras: los **600 M€ anunciados para España** son un capítulo aparte (ya lo <a href=/blog/renault-600-millones-electricos-espana>analizamos aquí</a>). Los 10.000 M€ son el plan francés a 5 años. El <a href=/blog/renault-e-space-concept-paris-2026>E-Space Concept</a>, por su parte, tiene su propio análisis de diseño. Este artículo es el **plan industrial y estratégico**: dónde va el dinero y por qué.
+Ojo con las cifras: los **600 M€ anunciados para España** son un capítulo aparte (ya lo <a href=/blog/renault-600-millones-electricos-espana/>analizamos aquí</a>). Los 10.000 M€ son el plan francés a 5 años. El <a href=/blog/renault-e-space-concept-paris-2026/>E-Space Concept</a>, por su parte, tiene su propio análisis de diseño. Este artículo es el **plan industrial y estratégico**: dónde va el dinero y por qué.
 
 ## Preguntas frecuentes
 

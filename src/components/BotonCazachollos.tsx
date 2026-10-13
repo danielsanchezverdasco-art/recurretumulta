@@ -177,7 +177,7 @@ export default function BotonCazachollos({ cocheId, nombre, precioActual }: Prop
               <span>
                 Acepto recibir avisos de bajadas de precio de este modelo por email. Puedo darme
                 de baja cuando quiera. Ver{" "}
-                <Link to="/privacidad" className="font-bold text-amber-700 underline">
+                <Link to="/privacidad/" className="font-bold text-amber-700 underline">
                   política de privacidad
                 </Link>
                 .

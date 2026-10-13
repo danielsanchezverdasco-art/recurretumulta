@@ -16,7 +16,7 @@ export const CUPRA_POSTS: BlogPost[] = [
     "keywords": ["Cupra León 2025", "precio Cupra León", "Cupra León eTSI", "ficha técnica Cupra León", "Cupra León etiqueta ECO", "compacto deportivo"],
     "content": `<img src=/media/cupra-leon-2025-precio-ficha-tecnica-hero.webp alt=Cupra León 2025 gris mate con detalles en cobre al atardecer en una carretera de montaña española>
 
-El **Cupra León 2025** ya está a la venta en España con el restyling que lo pone al día: frontal de "nariz de tiburón", faros Matrix LED de tres triángulos y el logotipo iluminado en la zaga. **¿Buscas solo los datos?** <a href=/coches/cupra-leon-2025-precio-ficha-tecnica>Ver ficha técnica del Cupra León</a>: precio, consumos, medidas y etiqueta DGT. Y si dudas entre varios, <a href=/comparador-coches>compáralo cara a cara con sus rivales</a>.
+El **Cupra León 2025** ya está a la venta en España con el restyling que lo pone al día: frontal de "nariz de tiburón", faros Matrix LED de tres triángulos y el logotipo iluminado en la zaga. **¿Buscas solo los datos?** <a href=/coches/cupra-leon-2025-precio-ficha-tecnica/>Ver ficha técnica del Cupra León</a>: precio, consumos, medidas y etiqueta DGT. Y si dudas entre varios, <a href=/comparador-coches/>compáralo cara a cara con sus rivales</a>.
 
 El León es el modelo que lo empezó todo para Cupra como marca independiente, y con esta actualización quiere seguir siendo el compacto deportivo español de referencia frente al Volkswagen Golf, el Hyundai i30 N o el Honda Civic. Se fabrica en Martorell (Barcelona) y la gama combina gasolina, diésel, microhíbridos con etiqueta ECO e híbridos enchufables con etiqueta Cero.
 
@@ -35,7 +35,7 @@ El León es el modelo que lo empezó todo para Cupra como marca independiente, y
 | **Peso** | 1.401 kg |
 | **Etiqueta DGT** | ECO |
 
-¿Quieres el detalle completo? <a href=/coches/cupra-leon-2025-precio-ficha-tecnica>Ficha técnica completa del Cupra León</a> con medidas, equipamiento y comparativas.
+¿Quieres el detalle completo? <a href=/coches/cupra-leon-2025-precio-ficha-tecnica/>Ficha técnica completa del Cupra León</a> con medidas, equipamiento y comparativas.
 
 ## Precio y versiones del Cupra León en España
 
@@ -50,7 +50,7 @@ Precios de tarifa en España (km77, tarifa 08/2026, con descuentos oficiales apl
 | VZ 2.0 TSI DSG 300 CV | 300 CV | C | 48.954 € |
 | VZ 2.0 TSI DSG 325 CV | 325 CV | C | 50.794 € |
 
-La compra más racional es el **1.5 eTSI DSG**: por unos 2.000 € más que el TSI manual ganas cambio automático, hibridación ligera de 48 V y la etiqueta ECO de la <a href=https://www.dgt.es>DGT</a>, que te abre las zonas de bajas emisiones. Si tu presupuesto manda, <a href=/mejor-coche-por-presupuesto>descubre el mejor coche por tu presupuesto</a>.
+La compra más racional es el **1.5 eTSI DSG**: por unos 2.000 € más que el TSI manual ganas cambio automático, hibridación ligera de 48 V y la etiqueta ECO de la <a href=https://www.dgt.es>DGT</a>, que te abre las zonas de bajas emisiones. Si tu presupuesto manda, <a href=/mejor-coche-por-presupuesto/>descubre el mejor coche por tu presupuesto</a>.
 
 <img src=/media/cupra-leon-2025-precio-ficha-tecnica-oficial.webp alt=Cupra León 2025 azul oscuro, vista lateral en estudio>
 
@@ -132,7 +132,7 @@ Con 325 CV en la versión VZ, conviene tener el pie derecho a raya: si te llega 
     "keywords": ["Cupra León Sportstourer", "precio León Sportstourer", "familiar deportivo", "Cupra León familiar", "maletero León Sportstourer", "ficha técnica"],
     "content": `<img src=/media/cupra-leon-sportstourer-2025-precio-ficha-tecnica-hero.webp alt=Cupra León Sportstourer 2025 gris mate, familiar deportivo al atardecer en una carretera costera española>
 
-El **Cupra León Sportstourer 2025** es la respuesta española a quien quiere un compacto deportivo sin renunciar al maletero: 620 litros, 26 más que un Volkswagen Golf Variant y con el mismo restyling "nariz de tiburón" que su hermano de cinco puertas. **¿Buscas solo los datos?** <a href=/coches/cupra-leon-sportstourer-2025-precio-ficha-tecnica>Ver ficha técnica del León Sportstourer</a>: precio, medidas, maletero y etiqueta DGT. También puedes ver el <a href=/blog/cupra-leon-2025-precio-ficha-tecnica>análisis del León 5 puertas</a> o <a href=/comparador-coches>compararlo con sus rivales</a>.
+El **Cupra León Sportstourer 2025** es la respuesta española a quien quiere un compacto deportivo sin renunciar al maletero: 620 litros, 26 más que un Volkswagen Golf Variant y con el mismo restyling "nariz de tiburón" que su hermano de cinco puertas. **¿Buscas solo los datos?** <a href=/coches/cupra-leon-sportstourer-2025-precio-ficha-tecnica/>Ver ficha técnica del León Sportstourer</a>: precio, medidas, maletero y etiqueta DGT. También puedes ver el <a href=/blog/cupra-leon-2025-precio-ficha-tecnica/>análisis del León 5 puertas</a> o <a href=/comparador-coches/>compararlo con sus rivales</a>.
 
 Comparte plataforma MQB Evo, motores y tecnología con el León berlina, pero añade 26 cm de largo concentrados detrás del pilar C. Se fabrica en Martorell y es uno de los pocos familiares deportivos con etiqueta ECO y Cero en su gama.
 
@@ -151,7 +151,7 @@ Comparte plataforma MQB Evo, motores y tecnología con el León berlina, pero a�
 | **Peso** | 1.447 kg |
 | **Etiqueta DGT** | ECO |
 
-¿Quieres el detalle completo? <a href=/coches/cupra-leon-sportstourer-2025-precio-ficha-tecnica>Ficha técnica completa del León Sportstourer</a> con medidas y comparativas.
+¿Quieres el detalle completo? <a href=/coches/cupra-leon-sportstourer-2025-precio-ficha-tecnica/>Ficha técnica completa del León Sportstourer</a> con medidas y comparativas.
 
 ## Precio y versiones en España
 
@@ -166,7 +166,7 @@ Precios de tarifa en España (km77, tarifa 08/2026, con descuentos oficiales apl
 | eHybrid DSG 204 CV | 204 CV | Cero | 43.330 € |
 | VZ 2.0 TSI 4Drive 333 CV | 333 CV | C | 55.404 € |
 
-El familiar cuesta unos 1.000 € más que el 5 puertas equivalente, un sobreprecio razonable por 240 litros extra de maletero. La versión con mejor equilibrio es, de nuevo, el **1.5 eTSI DSG** con etiqueta ECO de la <a href=https://www.dgt.es>DGT</a>. ¿Dudas con el presupuesto? <a href=/mejor-coche-por-presupuesto>Calcula el mejor coche por tu presupuesto</a>.
+El familiar cuesta unos 1.000 € más que el 5 puertas equivalente, un sobreprecio razonable por 240 litros extra de maletero. La versión con mejor equilibrio es, de nuevo, el **1.5 eTSI DSG** con etiqueta ECO de la <a href=https://www.dgt.es>DGT</a>. ¿Dudas con el presupuesto? <a href=/mejor-coche-por-presupuesto/>Calcula el mejor coche por tu presupuesto</a>.
 
 <img src=/media/cupra-leon-sportstourer-2025-precio-ficha-tecnica-oficial.webp alt=Cupra León Sportstourer 2025 negro, vista lateral en estudio mostrando su silueta de familiar>
 
@@ -244,7 +244,7 @@ Un familiar de 333 CV invita a correr: si te llega una denuncia, <a href=https:/
     "keywords": ["Cupra Raval", "precio Cupra Raval", "Cupra Raval 2026", "eléctrico barato España", "ficha técnica Raval", "Euro NCAP Raval"],
     "content": `<img src=/media/cupra-raval-2026-precio-ficha-tecnica-hero.webp alt=Cupra Raval 2026 color bronce mate en las calles del barrio del Raval en Barcelona al atardecer>
 
-El **Cupra Raval 2026** ya se vende en España y es el eléctrico que la marca española llevaba años prometiendo: diseñado, desarrollado y fabricado en **Martorell (Barcelona)**, con precio de salida de **26.000 €** y hasta 446 km de autonomía. **¿Buscas solo los datos?** <a href=/coches/cupra-raval-2026-precio-ficha-tecnica>Ver ficha técnica del Cupra Raval</a>: precio, autonomía, batería y medidas. También puedes leer <a href=/blog/cupra-raval-electrico-precio-espana-2026>nuestro primer análisis del Raval</a> o <a href=/comparador-coches>compararlo con sus rivales eléctricos</a>.
+El **Cupra Raval 2026** ya se vende en España y es el eléctrico que la marca española llevaba años prometiendo: diseñado, desarrollado y fabricado en **Martorell (Barcelona)**, con precio de salida de **26.000 €** y hasta 446 km de autonomía. **¿Buscas solo los datos?** <a href=/coches/cupra-raval-2026-precio-ficha-tecnica/>Ver ficha técnica del Cupra Raval</a>: precio, autonomía, batería y medidas. También puedes leer <a href=/blog/cupra-raval-electrico-precio-espana-2026/>nuestro primer análisis del Raval</a> o <a href=/comparador-coches/>compararlo con sus rivales eléctricos</a>.
 
 Es el tercer eléctrico de Cupra tras el Born y el Tavascan, y el primero de la familia de urbanos eléctricos del Grupo Volkswagen (plataforma MEB+), que comparte con el Volkswagen ID. Polo y el Skoda Epiq. Su nombre rinde homenaje al barrio barcelonés de El Raval.
 
@@ -264,7 +264,7 @@ Es el tercer eléctrico de Cupra tras el Born y el Tavascan, y el primero de la 
 | **Etiqueta DGT** | Cero |
 | **Seguridad** | 5 estrellas Euro NCAP (protocolo 2026) |
 
-¿Quieres el detalle completo? <a href=/coches/cupra-raval-2026-precio-ficha-tecnica>Ficha técnica completa del Cupra Raval</a> con versiones, precios y comparativas.
+¿Quieres el detalle completo? <a href=/coches/cupra-raval-2026-precio-ficha-tecnica/>Ficha técnica completa del Cupra Raval</a> con versiones, precios y comparativas.
 
 ## Precio y versiones del Cupra Raval en España
 
@@ -277,7 +277,7 @@ La gama española se articula en cuatro versiones (datos del factsheet oficial d
 | Endurance | 211 CV | 52 kWh NMC | 446 km | 105 kW | 35.010 € |
 | VZ | 226 CV | 52 kWh NMC | 439 km | 105 kW | 39.070 € |
 
-La versión de acceso (26.000 €) es la última en llegar: está prevista para **septiembre de 2026**. La gama arrancó con las versiones más equipadas, y el Plus se queda en 28.320 € con descuentos de marca. Con financiación, descuentos y el Plan Auto+, Cupra anuncia el Plus desde 20.490 €. Si el presupuesto es tu filtro principal, <a href=/mejor-coche-por-presupuesto>encuentra el mejor coche por tu presupuesto</a>.
+La versión de acceso (26.000 €) es la última en llegar: está prevista para **septiembre de 2026**. La gama arrancó con las versiones más equipadas, y el Plus se queda en 28.320 € con descuentos de marca. Con financiación, descuentos y el Plan Auto+, Cupra anuncia el Plus desde 20.490 €. Si el presupuesto es tu filtro principal, <a href=/mejor-coche-por-presupuesto/>encuentra el mejor coche por tu presupuesto</a>.
 
 <img src=/media/cupra-raval-2026-precio-ficha-tecnica-oficial.webp alt=Cupra Raval 2026 azul Fiord, vista lateral en estudio>
 
@@ -362,7 +362,7 @@ Incluso con 226 CV, la diversión tiene límites legales: si te llega una denunc
     keywords: ["Cupra León 1.5 TSI","Cupra León precio","Cupra León más barato","Cupra León 150 CV","Cupra León ficha técnica"],
     content: `<img src=/media/cupra-leon-15-tsi-2025-precio-ficha-tecnica-hero.webp alt=Cupra León 1.5 TSI, compacto deportivo, en una carretera secundaria>
 
-**¿Buscas solo los datos?** <a href=/coches/cupra-leon-15-tsi-2025-precio-ficha-tecnica>Ver ficha técnica del Cupra León 1.5 TSI</a>: precio, motor y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/cupra-leon-15-tsi-2025-precio-ficha-tecnica/>Ver ficha técnica del Cupra León 1.5 TSI</a>: precio, motor y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Cupra León 1.5 TSI** es la puerta de entrada a la marca: **31.752 €** según km77, con el motor **1.5 TSI de 150 CV** y 250 Nm, cambio DSG y tracción delantera. Lleva hibridación ligera de 48 V, lo que le da la **etiqueta ECO** de la DGT.
 
@@ -379,7 +379,7 @@ El **Cupra León 1.5 TSI** es la puerta de entrada a la marca: **31.752 €** se
 | **Largo × ancho × alto** | 4.368 × 1.799 × 1.467 mm |
 | **Plazas** | 5 |
 
-¿Quieres el detalle completo? <a href=/coches/cupra-leon-15-tsi-2025-precio-ficha-tecnica>Ficha técnica completa del Cupra León 1.5 TSI</a>.
+¿Quieres el detalle completo? <a href=/coches/cupra-leon-15-tsi-2025-precio-ficha-tecnica/>Ficha técnica completa del Cupra León 1.5 TSI</a>.
 
 ## La gama León 5 puertas, de menos a más
 
@@ -394,7 +394,7 @@ El salto al e-Hybrid (10.588 €) se justifica si haces mucha ciudad: 126 km el�
 
 <img src=/media/cupra-leon-15-tsi-2025-precio-ficha-tecnica-oficial.webp alt=Cupra León 1.5 TSI, compacto deportivo, tres cuartos delantero>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Rivales directos
 
@@ -450,7 +450,7 @@ Si te llega una denuncia de tráfico, <a href=https://recurretumulta.online/#ana
     keywords: ["Cupra León e-Hybrid","Cupra León híbrido enchufable","Cupra León 126 km","Cupra León e-Hybrid precio","Cupra León etiqueta Cero"],
     content: `<img src=/media/cupra-leon-ehybrid-204-2025-precio-ficha-tecnica-hero.webp alt=Cupra León e-Hybrid cargando en un punto de recarga>
 
-**¿Buscas solo los datos?** <a href=/coches/cupra-leon-ehybrid-204-2025-precio-ficha-tecnica>Ver ficha técnica del Cupra León e-Hybrid 204</a>: autonomía eléctrica, batería y precio. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/cupra-leon-ehybrid-204-2025-precio-ficha-tecnica/>Ver ficha técnica del Cupra León e-Hybrid 204</a>: autonomía eléctrica, batería y precio. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Cupra León e-Hybrid 204** es el híbrido enchufable de la gama: **42.340 €**, con **204 CV** combinados (1.5 TSI + motor eléctrico), **350 Nm** y una batería de **19,7 kWh** que le da **126 km de autonomía eléctrica** —de las mejores cifras entre los compactos PHEV— y la **etiqueta Cero**.
 
@@ -466,7 +466,7 @@ El **Cupra León e-Hybrid 204** es el híbrido enchufable de la gama: **42.340 �
 | **Maletero** | 270 L |
 | **Etiqueta DGT** | Cero |
 
-¿Quieres el detalle completo? <a href=/coches/cupra-leon-ehybrid-204-2025-precio-ficha-tecnica>Ficha técnica completa del Cupra León e-Hybrid 204</a>.
+¿Quieres el detalle completo? <a href=/coches/cupra-leon-ehybrid-204-2025-precio-ficha-tecnica/>Ficha técnica completa del Cupra León e-Hybrid 204</a>.
 
 ## ¿Para quién tiene sentido?
 
@@ -530,7 +530,7 @@ Si te llega una denuncia de tráfico, <a href=https://recurretumulta.online/#ana
     keywords: ["Cupra León VZ 300","Cupra León VZ precio","Cupra León 300 CV","Cupra León deportivo","Cupra León VZ ficha"],
     content: `<img src=/media/cupra-leon-vz-300-2025-precio-ficha-tecnica-hero.webp alt=Cupra León VZ 300 en un puerto de montaña>
 
-**¿Buscas solo los datos?** <a href=/coches/cupra-leon-vz-300-2025-precio-ficha-tecnica>Ver ficha técnica del Cupra León VZ 300</a>: 300 CV, par y precio. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/cupra-leon-vz-300-2025-precio-ficha-tecnica/>Ver ficha técnica del Cupra León VZ 300</a>: 300 CV, par y precio. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Cupra León VZ 300** es el compacto deportivo de gasolina: **48.954 €**, con el **2.0 TSI de 300 CV** y 400 Nm, tracción delantera con diferencial autoblocante y el chasis más afilado de la gama León. El último mohicano de los GTI de verdad antes de la electrificación total.
 
@@ -545,7 +545,7 @@ El **Cupra León VZ 300** es el compacto deportivo de gasolina: **48.954 €**, 
 | **Maletero** | 380 L |
 | **Etiqueta DGT** | C |
 
-¿Quieres el detalle completo? <a href=/coches/cupra-leon-vz-300-2025-precio-ficha-tecnica>Ficha técnica completa del Cupra León VZ 300</a>.
+¿Quieres el detalle completo? <a href=/coches/cupra-leon-vz-300-2025-precio-ficha-tecnica/>Ficha técnica completa del Cupra León VZ 300</a>.
 
 ## VZ 300 frente a VZ 325: el dilema
 
@@ -614,7 +614,7 @@ Con 300 CV al tren delantero, respeta los límites: Si te llega una denuncia de 
     keywords: ["Cupra León VZ 325","Cupra León 325 CV","Cupra León 4Drive","Cupra León más potente","Cupra León VZ 325 precio"],
     content: `<img src=/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-hero.webp alt=Cupra León VZ 325 acelerando en circuito>
 
-**¿Buscas solo los datos?** <a href=/coches/cupra-leon-vz-325-2025-precio-ficha-tecnica>Ver ficha técnica del Cupra León VZ 325</a>: 325 CV, 4Drive y precio. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/cupra-leon-vz-325-2025-precio-ficha-tecnica/>Ver ficha técnica del Cupra León VZ 325</a>: 325 CV, 4Drive y precio. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Cupra León VZ 325** es el León más potente jamás fabricado: **50.794 €**, con el **2.0 TSI de 325 CV** y 420 Nm asociado a la **tracción total 4Drive**. Por solo 1.840 € más que el VZ 300, añade 25 CV y un tren trasero que reparte el par para una motricidad total.
 
@@ -629,7 +629,7 @@ El **Cupra León VZ 325** es el León más potente jamás fabricado: **50.794 �
 | **Maletero** | 380 L |
 | **Etiqueta DGT** | C |
 
-¿Quieres el detalle completo? <a href=/coches/cupra-leon-vz-325-2025-precio-ficha-tecnica>Ficha técnica completa del Cupra León VZ 325</a>.
+¿Quieres el detalle completo? <a href=/coches/cupra-leon-vz-325-2025-precio-ficha-tecnica/>Ficha técnica completa del Cupra León VZ 325</a>.
 
 ## Rivales directos
 
@@ -689,7 +689,7 @@ Con 325 CV, la cabeza fría es el mejor opcional: Si te llega una denuncia de tr
     keywords: ["Cupra León Sportstourer e-Hybrid","Cupra León familiar híbrido","León ST e-Hybrid","Cupra León ST precio","familiar híbrido enchufable"],
     content: `<img src=/media/cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica-hero.webp alt=Cupra León Sportstourer e-Hybrid con portón abierto y maletero>
 
-**¿Buscas solo los datos?** <a href=/coches/cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica>Ver ficha técnica del León Sportstourer e-Hybrid</a>: autonomía, maletero y datos. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica/>Ver ficha técnica del León Sportstourer e-Hybrid</a>: autonomía, maletero y datos. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Cupra León Sportstourer e-Hybrid 204** es la versión familiar del híbrido enchufable: **204 CV** combinados, batería de **19,7 kWh** con **126 km de autonomía eléctrica**, **etiqueta Cero** y un maletero de aprox. **470 litros** —200 más que el 5 puertas e-Hybrid—.
 
@@ -705,7 +705,7 @@ El **Cupra León Sportstourer e-Hybrid 204** es la versión familiar del híbrid
 | **Largo** | 4.642 mm |
 | **Etiqueta DGT** | Cero |
 
-¿Quieres el detalle completo? <a href=/coches/cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica>Ficha técnica completa del León Sportstourer e-Hybrid</a>.
+¿Quieres el detalle completo? <a href=/coches/cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica/>Ficha técnica completa del León Sportstourer e-Hybrid</a>.
 
 ## ST e-Hybrid frente al 5p e-Hybrid
 
@@ -774,7 +774,7 @@ Si te llega una denuncia de tráfico, <a href=https://recurretumulta.online/#ana
     keywords: ["Cupra León ST VZ 333","León Sportstourer VZ","Cupra León familiar 333 CV","León ST más potente","familiar deportivo 333 CV"],
     content: `<img src=/media/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica-hero.webp alt=Cupra León Sportstourer VZ 333 en carretera>
 
-**¿Buscas solo los datos?** <a href=/coches/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica>Ver ficha técnica del León ST VZ 333</a>: 333 CV, 4Drive y maletero. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica/>Ver ficha técnica del León ST VZ 333</a>: 333 CV, 4Drive y maletero. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Cupra León Sportstourer VZ 333** es el sleeper definitivo: un familiar de **620 litros** de maletero con **333 CV**, 420 Nm y **tracción total 4Drive**. El León más potente con carrocería familiar, capaz de humillar a deportivos en el semáforo y de llevar a la familia con todo el equipaje.
 
@@ -789,7 +789,7 @@ El **Cupra León Sportstourer VZ 333** es el sleeper definitivo: un familiar de 
 | **Largo** | 4.642 mm |
 | **Etiqueta DGT** | C |
 
-¿Quieres el detalle completo? <a href=/coches/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica>Ficha técnica completa del León ST VZ 333</a>.
+¿Quieres el detalle completo? <a href=/coches/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica/>Ficha técnica completa del León ST VZ 333</a>.
 
 ## Rivales directos
 
@@ -849,7 +849,7 @@ Con 333 CV en un familiar, la templanza es clave: Si te llega una denuncia de tr
     keywords: ["Cupra Formentor 1.5 eTSI","Cupra Formentor precio","Formentor más barato","Cupra Formentor 150 CV","Formentor ficha técnica"],
     content: `<img src=/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-hero.webp alt=Cupra Formentor 1.5 eTSI en ciudad>
 
-**¿Buscas solo los datos?** <a href=/coches/cupra-formentor-15-etsi-2025-precio-ficha-tecnica>Ver ficha técnica del Formentor 1.5 eTSI</a>: precio, motor y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/cupra-formentor-15-etsi-2025-precio-ficha-tecnica/>Ver ficha técnica del Formentor 1.5 eTSI</a>: precio, motor y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Cupra Formentor 1.5 eTSI** es la puerta de entrada al modelo que inventó Cupra: **36.192 €** según km77, con el **1.5 eTSI de 150 CV** y 250 Nm, cambio DSG y **etiqueta ECO** gracias a la hibridación ligera.
 
@@ -865,7 +865,7 @@ El **Cupra Formentor 1.5 eTSI** es la puerta de entrada al modelo que inventó C
 | **Maletero** | 450 L |
 | **Largo × ancho × alto** | 4.451 × 1.839 × 1.511 mm |
 
-¿Quieres el detalle completo? <a href=/coches/cupra-formentor-15-etsi-2025-precio-ficha-tecnica>Ficha técnica completa del Formentor 1.5 eTSI</a>.
+¿Quieres el detalle completo? <a href=/coches/cupra-formentor-15-etsi-2025-precio-ficha-tecnica/>Ficha técnica completa del Formentor 1.5 eTSI</a>.
 
 ## La gama Formentor, de menos a más
 
@@ -879,7 +879,7 @@ El **Cupra Formentor 1.5 eTSI** es la puerta de entrada al modelo que inventó C
 
 <img src=/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-oficial.webp alt=Cupra Formentor 1.5 eTSI, SUV coupé, tres cuartos delantero>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Rivales directos
 
@@ -935,7 +935,7 @@ Si te llega una denuncia de tráfico, <a href=https://recurretumulta.online/#ana
     keywords: ["Cupra Formentor e-Hybrid","Formentor híbrido enchufable","Formentor 120 km eléctricos","Formentor e-Hybrid precio","Formentor etiqueta Cero"],
     content: `<img src=/media/cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica-hero.webp alt=Cupra Formentor e-Hybrid cargando en casa>
 
-**¿Buscas solo los datos?** <a href=/coches/cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica>Ver ficha técnica del Formentor e-Hybrid 204</a>: autonomía eléctrica y precio. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica/>Ver ficha técnica del Formentor e-Hybrid 204</a>: autonomía eléctrica y precio. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Cupra Formentor e-Hybrid 204** es el híbrido enchufable: **43.480 €**, **204 CV** combinados, batería de **19,7 kWh** con **120 km de autonomía eléctrica** y **etiqueta Cero**. El Formentor que más se vende en renting, gracias a su fiscalidad.
 
@@ -951,7 +951,7 @@ El **Cupra Formentor e-Hybrid 204** es el híbrido enchufable: **43.480 €**, *
 | **Maletero** | 345 L |
 | **Etiqueta DGT** | Cero |
 
-¿Quieres el detalle completo? <a href=/coches/cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica>Ficha técnica completa del Formentor e-Hybrid 204</a>.
+¿Quieres el detalle completo? <a href=/coches/cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica/>Ficha técnica completa del Formentor e-Hybrid 204</a>.
 
 ## e-Hybrid 204 frente a VZ e-Hybrid 272
 
@@ -1020,7 +1020,7 @@ Si te llega una denuncia de tráfico, <a href=https://recurretumulta.online/#ana
     keywords: ["Formentor VZ e-Hybrid 272","Formentor híbrido 272 CV","Formentor VZ híbrido precio","Formentor PHEV deportivo","Cupra Formentor VZ"],
     content: `<img src=/media/cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica-hero.webp alt=Cupra Formentor VZ e-Hybrid en carretera de curvas>
 
-**¿Buscas solo los datos?** <a href=/coches/cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica>Ver ficha técnica del Formentor VZ e-Hybrid 272</a>: 272 CV y autonomía. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica/>Ver ficha técnica del Formentor VZ e-Hybrid 272</a>: 272 CV y autonomía. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Cupra Formentor VZ e-Hybrid 272** es el híbrido enchufable deportivo: **49.160 €**, con **272 CV** y 400 Nm combinados, **120 km de autonomía eléctrica** y el chasis VZ con modos Cupra. Etiqueta Cero con alma de deportivo.
 
@@ -1036,7 +1036,7 @@ El **Cupra Formentor VZ e-Hybrid 272** es el híbrido enchufable deportivo: **49
 | **Maletero** | 345 L |
 | **Etiqueta DGT** | Cero |
 
-¿Quieres el detalle completo? <a href=/coches/cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica>Ficha técnica completa del Formentor VZ e-Hybrid 272</a>.
+¿Quieres el detalle completo? <a href=/coches/cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica/>Ficha técnica completa del Formentor VZ e-Hybrid 272</a>.
 
 ## ¿VZ e-Hybrid 272 o VZ 333 gasolina?
 
@@ -1105,7 +1105,7 @@ Con 272 CV, disfruta con cabeza: Si te llega una denuncia de tráfico, <a href=h
     keywords: ["Formentor VZ 265","Cupra Formentor VZ","Formentor 265 CV","Formentor VZ precio","Formentor gasolina VZ"],
     content: `<img src=/media/cupra-formentor-vz-265-2025-precio-ficha-tecnica-hero.webp alt=Cupra Formentor VZ 265 en un tramo de curvas>
 
-**¿Buscas solo los datos?** <a href=/coches/cupra-formentor-vz-265-2025-precio-ficha-tecnica>Ver ficha técnica del Formentor VZ 265</a>: 265 CV y precio. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/cupra-formentor-vz-265-2025-precio-ficha-tecnica/>Ver ficha técnica del Formentor VZ 265</a>: 265 CV y precio. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Cupra Formentor VZ 265** es el VZ de gasolina de acceso: **51.254 €**, con el **2.0 TSI de 265 CV** y 400 Nm, tracción delantera con autoblocante y todo el chasis VZ. Para quien quiere gasolina pura sin llegar al 333.
 
@@ -1126,7 +1126,7 @@ El **Cupra Formentor VZ 265** es el VZ de gasolina de acceso: **51.254 €**, co
 | **Maletero** | 450 L |
 | **Etiqueta DGT** | C |
 
-¿Quieres el detalle completo? <a href=/coches/cupra-formentor-vz-265-2025-precio-ficha-tecnica>Ficha técnica completa del Formentor VZ 265</a>.
+¿Quieres el detalle completo? <a href=/coches/cupra-formentor-vz-265-2025-precio-ficha-tecnica/>Ficha técnica completa del Formentor VZ 265</a>.
 
 ## VZ 265 frente a VZ e-Hybrid 272: el debate
 
@@ -1195,7 +1195,7 @@ Con 265 CV, la prudencia suma: Si te llega una denuncia de tráfico, <a href=htt
     keywords: ["Formentor VZ 333","Cupra Formentor 333 CV","Formentor más potente","Formentor VZ 333 precio","Formentor 4Drive"],
     content: `<img src=/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-hero.webp alt=Cupra Formentor VZ 333 en circuito>
 
-**¿Buscas solo los datos?** <a href=/coches/cupra-formentor-vz-333-2025-precio-ficha-tecnica>Ver ficha técnica del Formentor VZ 333</a>: 333 CV, 4Drive y precio. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/cupra-formentor-vz-333-2025-precio-ficha-tecnica/>Ver ficha técnica del Formentor VZ 333</a>: 333 CV, 4Drive y precio. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Cupra Formentor VZ 333** es el tope de la gama: **54.974 €**, con el **2.0 TSI de 333 CV** y 420 Nm asociado a la **tracción total 4Drive**. El Formentor más rápido, más radical y más caro: el canto del cisne de la gasolina en Cupra.
 
@@ -1216,7 +1216,7 @@ El **Cupra Formentor VZ 333** es el tope de la gama: **54.974 €**, con el **2.
 | **Maletero** | 450 L |
 | **Etiqueta DGT** | C |
 
-¿Quieres el detalle completo? <a href=/coches/cupra-formentor-vz-333-2025-precio-ficha-tecnica>Ficha técnica completa del Formentor VZ 333</a>.
+¿Quieres el detalle completo? <a href=/coches/cupra-formentor-vz-333-2025-precio-ficha-tecnica/>Ficha técnica completa del Formentor VZ 333</a>.
 
 ## Rivales directos
 
@@ -1231,7 +1231,7 @@ El Formentor VZ 333 es el más potente y el más barato de los SUV compactos dep
 
 <img src=/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-oficial.webp alt=Cupra Formentor VZ 333, tres cuartos delantero>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Pros y contras
 
@@ -1278,7 +1278,7 @@ Con 333 CV, el respeto a los límites es obligatorio: Si te llega una denuncia d
     keywords: ["Cupra Terramar e-Hybrid","Terramar híbrido enchufable","Terramar 120 km","Terramar e-Hybrid precio","Terramar etiqueta Cero"],
     content: `<img src=/media/cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica-hero.webp alt=Cupra Terramar e-Hybrid en una carretera nacional>
 
-**¿Buscas solo los datos?** <a href=/coches/cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica>Ver ficha técnica del Terramar e-Hybrid 204</a>: autonomía eléctrica y precio. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica/>Ver ficha técnica del Terramar e-Hybrid 204</a>: autonomía eléctrica y precio. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Cupra Terramar e-Hybrid 204** es el SUV familiar híbrido enchufable: **45.350 €**, **204 CV** combinados, batería de **19,7 kWh** con **120 km de autonomía eléctrica** y **etiqueta Cero**. El Terramar para quien quiere espacio y etiqueta sin renunciar al motor de combustión.
 
@@ -1301,7 +1301,7 @@ El **Cupra Terramar e-Hybrid 204** es el SUV familiar híbrido enchufable: **45.
 | **Largo** | 4.519 mm |
 | **Etiqueta DGT** | Cero |
 
-¿Quieres el detalle completo? <a href=/coches/cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica>Ficha técnica completa del Terramar e-Hybrid 204</a>.
+¿Quieres el detalle completo? <a href=/coches/cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica/>Ficha técnica completa del Terramar e-Hybrid 204</a>.
 
 ## La gama Terramar
 
@@ -1367,7 +1367,7 @@ Si te llega una denuncia de tráfico, <a href=https://recurretumulta.online/#ana
     keywords: ["Terramar VZ e-Hybrid 272","Terramar 272 CV","Terramar VZ híbrido precio","Terramar deportivo híbrido","Cupra Terramar VZ"],
     content: `<img src=/media/cupra-terramar-vz-ehybrid-272-2025-precio-ficha-tecnica-hero.webp alt=Cupra Terramar VZ e-Hybrid en un puerto de montaña>
 
-**¿Buscas solo los datos?** <a href=/coches/cupra-terramar-vz-ehybrid-272-2025-precio-ficha-tecnica>Ver ficha técnica del Terramar VZ e-Hybrid 272</a>: 272 CV y autonomía. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/cupra-terramar-vz-ehybrid-272-2025-precio-ficha-tecnica/>Ver ficha técnica del Terramar VZ e-Hybrid 272</a>: 272 CV y autonomía. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Cupra Terramar VZ e-Hybrid 272** es el híbrido enchufable deportivo: **53.010 €**, **272 CV** y 400 Nm combinados, **120 km eléctricos** y el chasis VZ. Un SUV familiar de 4,52 m con alma Cupra y etiqueta Cero.
 
@@ -1388,7 +1388,7 @@ El **Cupra Terramar VZ e-Hybrid 272** es el híbrido enchufable deportivo: **53.
 | **Maletero** | ≈400 L |
 | **Etiqueta DGT** | Cero |
 
-¿Quieres el detalle completo? <a href=/coches/cupra-terramar-vz-ehybrid-272-2025-precio-ficha-tecnica>Ficha técnica completa del Terramar VZ e-Hybrid 272</a>.
+¿Quieres el detalle completo? <a href=/coches/cupra-terramar-vz-ehybrid-272-2025-precio-ficha-tecnica/>Ficha técnica completa del Terramar VZ e-Hybrid 272</a>.
 
 ## Rivales directos
 
@@ -1446,7 +1446,7 @@ Con 272 CV en un SUV familiar, cabeza fría: Si te llega una denuncia de tráfic
     keywords: ["Terramar VZ 265","Cupra Terramar VZ","Terramar 265 CV","Terramar 4Drive","Terramar VZ precio"],
     content: `<img src=/media/cupra-terramar-vz-265-2025-precio-ficha-tecnica-hero.webp alt=Cupra Terramar VZ 265 en carretera>
 
-**¿Buscas solo los datos?** <a href=/coches/cupra-terramar-vz-265-2025-precio-ficha-tecnica>Ver ficha técnica del Terramar VZ 265</a>: 265 CV, 4Drive y precio. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/cupra-terramar-vz-265-2025-precio-ficha-tecnica/>Ver ficha técnica del Terramar VZ 265</a>: 265 CV, 4Drive y precio. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Cupra Terramar VZ 265** es el tope de la gama térmica: **55.074 €**, con el **2.0 TSI de 265 CV** y 400 Nm asociado a la **tracción total 4Drive**. El Terramar para quien quiere gasolina, tracción total y 508 litros de maletero intactos.
 
@@ -1462,7 +1462,7 @@ El **Cupra Terramar VZ 265** es el tope de la gama térmica: **55.074 €**, con
 | **Largo** | 4.519 mm |
 | **Etiqueta DGT** | C |
 
-¿Quieres el detalle completo? <a href=/coches/cupra-terramar-vz-265-2025-precio-ficha-tecnica>Ficha técnica completa del Terramar VZ 265</a>.
+¿Quieres el detalle completo? <a href=/coches/cupra-terramar-vz-265-2025-precio-ficha-tecnica/>Ficha técnica completa del Terramar VZ 265</a>.
 
 ## VZ 265 frente a VZ e-Hybrid 272
 
@@ -1532,7 +1532,7 @@ Si te llega una denuncia de tráfico, <a href=https://recurretumulta.online/#ana
     keywords: ["Cupra Born 190","Cupra Born precio","Cupra Born más barato","Cupra Born 58 kWh","Cupra Born ficha técnica"],
     content: `<img src=/media/cupra-born-190-2026-precio-ficha-tecnica-hero.webp alt=Cupra Born 190 en una avenida urbana>
 
-**¿Buscas solo los datos?** <a href=/coches/cupra-born-190-2026-precio-ficha-tecnica>Ver ficha técnica del Cupra Born 190</a>: precio, batería y autonomía. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/cupra-born-190-2026-precio-ficha-tecnica/>Ver ficha técnica del Cupra Born 190</a>: precio, batería y autonomía. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Cupra Born 190** es el eléctrico más asequible de la marca: **39.500 €**, con **190 CV**, 310 Nm, **tracción trasera** y batería de **58 kWh** para unos **425 km de autonomía** (aprox.). El compacto eléctrico con carácter Cupra.
 
@@ -1556,7 +1556,7 @@ El **Cupra Born 190** es el eléctrico más asequible de la marca: **39.500 €*
 | **Maletero** | 385 L |
 | **Etiqueta DGT** | Cero |
 
-¿Quieres el detalle completo? <a href=/coches/cupra-born-190-2026-precio-ficha-tecnica>Ficha técnica completa del Cupra Born 190</a>.
+¿Quieres el detalle completo? <a href=/coches/cupra-born-190-2026-precio-ficha-tecnica/>Ficha técnica completa del Cupra Born 190</a>.
 
 ## La gama Born 2026
 
@@ -1568,7 +1568,7 @@ El **Cupra Born 190** es el eléctrico más asequible de la marca: **39.500 €*
 
 <img src=/media/cupra-born-190-2026-precio-ficha-tecnica-oficial.webp alt=Cupra Born 190, compacto eléctrico, tres cuartos delantero>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Rivales directos
 
@@ -1624,7 +1624,7 @@ Si te llega una denuncia de tráfico, <a href=https://recurretumulta.online/#ana
     keywords: ["Cupra Born Endurance","Born 231 CV","Cupra Born 79 kWh","Born autonomía 590","Cupra Born Endurance precio"],
     content: `<img src=/media/cupra-born-endurance-231-2026-precio-ficha-tecnica-hero.webp alt=Cupra Born Endurance en autopista>
 
-**¿Buscas solo los datos?** <a href=/coches/cupra-born-endurance-231-2026-precio-ficha-tecnica>Ver ficha técnica del Born Endurance 231</a>: batería de 79 kWh y autonomía. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/cupra-born-endurance-231-2026-precio-ficha-tecnica/>Ver ficha técnica del Born Endurance 231</a>: batería de 79 kWh y autonomía. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Cupra Born Endurance 231** es el Born de la autonomía: **43.500 €**, con **231 CV**, tracción trasera y la batería grande de **79 kWh** para unos **590 km de autonomía** (aprox.). Por solo 4.000 € más que el Born 190, ganas 165 km de autonomía.
 
@@ -1647,7 +1647,7 @@ El **Cupra Born Endurance 231** es el Born de la autonomía: **43.500 €**, con
 | **Maletero** | 385 L |
 | **Etiqueta DGT** | Cero |
 
-¿Quieres el detalle completo? <a href=/coches/cupra-born-endurance-231-2026-precio-ficha-tecnica>Ficha técnica completa del Born Endurance 231</a>.
+¿Quieres el detalle completo? <a href=/coches/cupra-born-endurance-231-2026-precio-ficha-tecnica/>Ficha técnica completa del Born Endurance 231</a>.
 
 ## Endurance frente a VZ: ¿autonomía o potencia?
 
@@ -1716,7 +1716,7 @@ Si te llega una denuncia de tráfico, <a href=https://recurretumulta.online/#ana
     keywords: ["Cupra Born VZ","Born 326 CV","Cupra Born VZ precio","Born más potente","Cupra Born deportivo"],
     content: `<img src=/media/cupra-born-vz-326-2026-precio-ficha-tecnica-hero.webp alt=Cupra Born VZ 326 en un tramo de curvas>
 
-**¿Buscas solo los datos?** <a href=/coches/cupra-born-vz-326-2026-precio-ficha-tecnica>Ver ficha técnica del Born VZ 326</a>: 326 CV y prestaciones. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/cupra-born-vz-326-2026-precio-ficha-tecnica/>Ver ficha técnica del Born VZ 326</a>: 326 CV y prestaciones. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Cupra Born VZ 326** es el compacto eléctrico deportivo de Cupra: **50.550 €**, con **326 CV** y **545 Nm**, tracción trasera, **200 km/h** de velocidad máxima y la batería de **79 kWh** para unos **560 km de autonomía** (aprox.).
 
@@ -1740,7 +1740,7 @@ El **Cupra Born VZ 326** es el compacto eléctrico deportivo de Cupra: **50.550 
 | **Maletero** | 385 L |
 | **Etiqueta DGT** | Cero |
 
-¿Quieres el detalle completo? <a href=/coches/cupra-born-vz-326-2026-precio-ficha-tecnica>Ficha técnica completa del Born VZ 326</a>.
+¿Quieres el detalle completo? <a href=/coches/cupra-born-vz-326-2026-precio-ficha-tecnica/>Ficha técnica completa del Born VZ 326</a>.
 
 ## Rivales directos
 
@@ -1755,7 +1755,7 @@ El MG4 XPower es más barato y potente; el Born VZ juega la baza del equilibrio 
 
 <img src=/media/cupra-born-vz-326-2026-precio-ficha-tecnica-oficial.webp alt=Cupra Born VZ 326, tres cuartos delantero>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Pros y contras
 
@@ -1802,7 +1802,7 @@ Con 545 Nm al tren trasero, la mesura es tu aliada: Si te llega una denuncia de 
     keywords: ["Cupra Tavascan VZ","Tavascan 340 CV","Cupra Tavascan precio","Tavascan VZ 340","Cupra SUV coupé eléctrico"],
     content: `<img src=/media/cupra-tavascan-vz-340-2026-precio-ficha-tecnica-hero.webp alt=Cupra Tavascan VZ 340 al atardecer>
 
-**¿Buscas solo los datos?** <a href=/coches/cupra-tavascan-vz-340-2026-precio-ficha-tecnica>Ver ficha técnica del Tavascan VZ 340</a>: 340 CV y prestaciones. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/cupra-tavascan-vz-340-2026-precio-ficha-tecnica/>Ver ficha técnica del Tavascan VZ 340</a>: 340 CV y prestaciones. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Cupra Tavascan VZ 340** es el SUV coupé 100 % eléctrico de Cupra: **55.050 €**, con **340 CV**, tracción total y un **0-100 km/h en 5,5 segundos**. Batería de **77 kWh** para unos **522 km de autonomía** (aprox.) y el diseño más radical de la marca.
 
@@ -1822,7 +1822,7 @@ El **Cupra Tavascan VZ 340** es el SUV coupé 100 % eléctrico de Cupra: **55.05
 | **Largo** | 4.644 mm |
 | **Etiqueta DGT** | Cero |
 
-¿Quieres el detalle completo? <a href=/coches/cupra-tavascan-vz-340-2026-precio-ficha-tecnica>Ficha técnica completa del Tavascan VZ 340</a>.
+¿Quieres el detalle completo? <a href=/coches/cupra-tavascan-vz-340-2026-precio-ficha-tecnica/>Ficha técnica completa del Tavascan VZ 340</a>.
 
 ## VZ 340 frente a Endurance 286: el dilema
 
@@ -1836,7 +1836,7 @@ El Endurance prioriza autonomía (569 km); el VZ, prestaciones con tracción tot
 
 <img src=/media/cupra-tavascan-vz-340-2026-precio-ficha-tecnica-oficial.webp alt=Cupra Tavascan VZ 340, SUV coupé eléctrico>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Rivales directos
 
@@ -1892,7 +1892,7 @@ Si te llega una denuncia de tráfico, <a href=https://recurretumulta.online/#ana
     keywords: ["Cupra Ateca 190","Ateca 4Drive precio","Cupra Ateca 190 CV","Cupra Ateca ficha","Ateca 2.0 TSI 190"],
     content: `<img src=/media/cupra-ateca-190-2025-precio-ficha-tecnica-hero.webp alt=Cupra Ateca 190 en una pista de tierra>
 
-**¿Buscas solo los datos?** <a href=/coches/cupra-ateca-190-2025-precio-ficha-tecnica>Ver ficha técnica del Ateca 190 4Drive</a>: 190 CV y tracción total. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/cupra-ateca-190-2025-precio-ficha-tecnica/>Ver ficha técnica del Ateca 190 4Drive</a>: 190 CV y tracción total. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Cupra Ateca 190 4Drive** es el SUV que lo empezó todo para Cupra: **45.760 €**, con el **2.0 TSI de 190 CV** y 320 Nm, **tracción total 4Drive**, **0-100 en 7,2 s** y 212 km/h de punta. Un veterano que sigue cumpliendo.
 
@@ -1909,7 +1909,7 @@ El **Cupra Ateca 190 4Drive** es el SUV que lo empezó todo para Cupra: **45.760
 | **Largo** | 4.381 mm |
 | **Etiqueta DGT** | C |
 
-¿Quieres el detalle completo? <a href=/coches/cupra-ateca-190-2025-precio-ficha-tecnica>Ficha técnica completa del Ateca 190 4Drive</a>.
+¿Quieres el detalle completo? <a href=/coches/cupra-ateca-190-2025-precio-ficha-tecnica/>Ficha técnica completa del Ateca 190 4Drive</a>.
 
 ## Ateca frente a Terramar: ¿veterano o sucesor?
 
@@ -1978,7 +1978,7 @@ Si te llega una denuncia de tráfico, <a href=https://recurretumulta.online/#ana
     keywords: ["Cupra Ateca VZ 300","Ateca 300 CV","Ateca VZ precio","Cupra Ateca más potente","Ateca 0-100 4.9"],
     content: `<img src=/media/cupra-ateca-vz-300-2025-precio-ficha-tecnica-hero.webp alt=Cupra Ateca VZ 300 acelerando>
 
-**¿Buscas solo los datos?** <a href=/coches/cupra-ateca-vz-300-2025-precio-ficha-tecnica>Ver ficha técnica del Ateca VZ 300</a>: 300 CV y 4,9 s. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/cupra-ateca-vz-300-2025-precio-ficha-tecnica/>Ver ficha técnica del Ateca VZ 300</a>: 300 CV y 4,9 s. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Cupra Ateca VZ 300** es el Ateca definitivo: **56.000 €**, con el **2.0 TSI de 300 CV** y 400 Nm, **tracción total 4Drive**, **0-100 en 4,9 s** y **250 km/h** de velocidad máxima. Un SUV familiar con prestaciones de deportivo.
 
@@ -2000,7 +2000,7 @@ El **Cupra Ateca VZ 300** es el Ateca definitivo: **56.000 €**, con el **2.0 T
 | **Maletero** | 485 L |
 | **Etiqueta DGT** | C |
 
-¿Quieres el detalle completo? <a href=/coches/cupra-ateca-vz-300-2025-precio-ficha-tecnica>Ficha técnica completa del Ateca VZ 300</a>.
+¿Quieres el detalle completo? <a href=/coches/cupra-ateca-vz-300-2025-precio-ficha-tecnica/>Ficha técnica completa del Ateca VZ 300</a>.
 
 ## Rivales directos
 
@@ -2058,7 +2058,7 @@ Con 300 CV y 4,9 s, el carnet se juega en cada recta: Si te llega una denuncia d
     keywords: ["Cupra Raval Plus","Cupra Raval precio","Cupra Raval 135 CV","Cupra urbano eléctrico","Raval Martorell"],
     content: `<img src=/media/cupra-raval-plus-2026-precio-ficha-tecnica-hero.webp alt=Cupra Raval Plus en el centro de una ciudad>
 
-**¿Buscas solo los datos?** <a href=/coches/cupra-raval-plus-2026-precio-ficha-tecnica>Ver ficha técnica del Cupra Raval Plus</a>: precio y datos. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/cupra-raval-plus-2026-precio-ficha-tecnica/>Ver ficha técnica del Cupra Raval Plus</a>: precio y datos. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Cupra Raval Plus** es el urbano 100 % eléctrico de Cupra: **29.530 €**, con **135 CV**, tracción delantera y **4,05 metros** de largo. Se fabrica en **Martorell** y es el Cupra eléctrico más asequible: la respuesta española al Renault 5 eléctrico.
 
@@ -2079,7 +2079,7 @@ El **Cupra Raval Plus** es el urbano 100 % eléctrico de Cupra: **29.530 €**, 
 | **Fabricación** | Martorell (España) |
 | **Etiqueta DGT** | Cero |
 
-¿Quieres el detalle completo? <a href=/coches/cupra-raval-plus-2026-precio-ficha-tecnica>Ficha técnica completa del Cupra Raval Plus</a>.
+¿Quieres el detalle completo? <a href=/coches/cupra-raval-plus-2026-precio-ficha-tecnica/>Ficha técnica completa del Cupra Raval Plus</a>.
 
 ## La gama Raval
 
@@ -2091,7 +2091,7 @@ El **Cupra Raval Plus** es el urbano 100 % eléctrico de Cupra: **29.530 €**, 
 
 <img src=/media/cupra-raval-plus-2026-precio-ficha-tecnica-oficial.webp alt=Cupra Raval Plus, urbano eléctrico, tres cuartos delantero>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Rivales directos
 
@@ -2147,7 +2147,7 @@ Si te llega una denuncia de tráfico, <a href=https://recurretumulta.online/#ana
     keywords: ["Cupra Raval Endurance","Raval 210 CV","Raval 446 km","Cupra Raval autonomía","Raval Endurance precio"],
     content: `<img src=/media/cupra-raval-endurance-2026-precio-ficha-tecnica-hero.webp alt=Cupra Raval Endurance en carretera>
 
-**¿Buscas solo los datos?** <a href=/coches/cupra-raval-endurance-2026-precio-ficha-tecnica>Ver ficha técnica del Raval Endurance</a>: 446 km y precio. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/cupra-raval-endurance-2026-precio-ficha-tecnica/>Ver ficha técnica del Raval Endurance</a>: 446 km y precio. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Cupra Raval Endurance** es el urbano eléctrico de largo alcance: **35.010 €**, con **210 CV**, **446 km de autonomía** y carga rápida de **105 kW**. El Raval para quien quiere un urbano que también viaje.
 
@@ -2170,7 +2170,7 @@ El **Cupra Raval Endurance** es el urbano eléctrico de largo alcance: **35.010 
 | **Fabricación** | Martorell |
 | **Etiqueta DGT** | Cero |
 
-¿Quieres el detalle completo? <a href=/coches/cupra-raval-endurance-2026-precio-ficha-tecnica>Ficha técnica completa del Raval Endurance</a>.
+¿Quieres el detalle completo? <a href=/coches/cupra-raval-endurance-2026-precio-ficha-tecnica/>Ficha técnica completa del Raval Endurance</a>.
 
 ## Rivales directos
 
@@ -2230,7 +2230,7 @@ Si te llega una denuncia de tráfico, <a href=https://recurretumulta.online/#ana
     keywords: ["Cupra Raval VZ","Raval 226 CV","Raval VZ precio","urbano eléctrico deportivo","Cupra Raval deportivo"],
     content: `<img src=/media/cupra-raval-vz-226-2026-precio-ficha-tecnica-hero.webp alt=Cupra Raval VZ 226 en un tramo de curvas>
 
-**¿Buscas solo los datos?** <a href=/coches/cupra-raval-vz-226-2026-precio-ficha-tecnica>Ver ficha técnica del Raval VZ 226</a>: 226 CV y precio. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/cupra-raval-vz-226-2026-precio-ficha-tecnica/>Ver ficha técnica del Raval VZ 226</a>: 226 CV y precio. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **Cupra Raval VZ 226** es el urbano eléctrico deportivo: **39.070 €**, con **226 CV**, chasis VZ y detalles en cobre. El Raval para quien quiere un urbano que divierta de verdad.
 
@@ -2252,7 +2252,7 @@ El **Cupra Raval VZ 226** es el urbano eléctrico deportivo: **39.070 €**, con
 | **Fabricación** | Martorell |
 | **Etiqueta DGT** | Cero |
 
-¿Quieres el detalle completo? <a href=/coches/cupra-raval-vz-226-2026-precio-ficha-tecnica>Ficha técnica completa del Raval VZ 226</a>.
+¿Quieres el detalle completo? <a href=/coches/cupra-raval-vz-226-2026-precio-ficha-tecnica/>Ficha técnica completa del Raval VZ 226</a>.
 
 ## VZ 226 frente a Endurance 210
 

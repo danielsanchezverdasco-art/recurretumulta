@@ -83,7 +83,7 @@ export default function NewsletterBajaPage() {
                 )}{" "}
                 Si ha sido un error, puedes volver a suscribirte cuando quieras desde la sección Motor.
               </p>
-              <Link to="/blog" className="mt-6">
+              <Link to="/blog/" className="mt-6">
                 <Button className="rounded-xl bg-red-600 font-bold text-white hover:bg-red-700">
                   Volver a Novedades Motor
                 </Button>
@@ -108,7 +108,7 @@ export default function NewsletterBajaPage() {
                   </>
                 )}
               </p>
-              <Link to="/blog" className="mt-6 inline-flex items-center gap-2 text-sm font-bold text-red-600 underline">
+              <Link to="/blog/" className="mt-6 inline-flex items-center gap-2 text-sm font-bold text-red-600 underline">
                 <CheckCircle2 className="h-4 w-4" />
                 Ir a Novedades Motor
               </Link>

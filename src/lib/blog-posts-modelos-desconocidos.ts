@@ -62,19 +62,19 @@ Pero la bomba de 2026 no es el todoterreno, sino la berlina **Fang Cheng Bao For
 - **Carga del 10 al 70 % en cinco minutos** con la tecnología de carga ultrarrápida de BYD.
 - Precio de partida en China **por debajo de los 30.000 €** al cambio: unos 30.000 yuanes menos que el Xiaomi SU7 y 45.600 menos que el Model 3 de acceso.
 
-La marca también ha lanzado el **Formula S GT**, una variante familiar de corte deportivo (shooting brake) que es, según los analistas, el candidato más probable a cruzar a Europa: un familiar eléctrico de casi cinco metros encaja mucho mejor en el gusto europeo que en el chino, y su lenguaje de diseño coincide con el del Denza Z mostrado en Goodwood. Si llega, lo hará **bajo la marca Denza**, porque Fang Cheng Bao no existe como marca fuera de China. Otra china que juega en esa liga de berlinas eléctricas potentes es <a href=/blog/avatr-changan-huawei-catl-06t-t09>Avatr, la alianza de Changan, Huawei y CATL</a>.
+La marca también ha lanzado el **Formula S GT**, una variante familiar de corte deportivo (shooting brake) que es, según los analistas, el candidato más probable a cruzar a Europa: un familiar eléctrico de casi cinco metros encaja mucho mejor en el gusto europeo que en el chino, y su lenguaje de diseño coincide con el del Denza Z mostrado en Goodwood. Si llega, lo hará **bajo la marca Denza**, porque Fang Cheng Bao no existe como marca fuera de China. Otra china que juega en esa liga de berlinas eléctricas potentes es <a href=/blog/avatr-changan-huawei-catl-06t-t09/>Avatr, la alianza de Changan, Huawei y CATL</a>.
 
 ## El plan de BYD: 6.000 cargadores ultrarrápidos fuera de China
 
 El desembarco no es solo de coches. En su reunión con accionistas, BYD detalló un plan de infraestructura: **6.000 cargadores Flash Charging fuera de China, 3.000 de ellos en Europa**, integrados con su negocio de almacenamiento y energía solar. En China desplegará 20.000 antes de que acabe el año.
 
-La jugada es inteligente: cuando los Fang Cheng Bao (o los Denza que los esconden) lleguen a los concesionarios europeos, la red de megacarga ya llevará meses funcionando. Y no será de nadie más. En el mismo Goodwood, BYD mostró también a su marca de superlujo <a href=/blog/yangwang-byd-u8-u9-europa-2027>Yangwang, cuyo U8 flota en el agua</a>.
+La jugada es inteligente: cuando los Fang Cheng Bao (o los Denza que los esconden) lleguen a los concesionarios europeos, la red de megacarga ya llevará meses funcionando. Y no será de nadie más. En el mismo Goodwood, BYD mostró también a su marca de superlujo <a href=/blog/yangwang-byd-u8-u9-europa-2027/>Yangwang, cuyo U8 flota en el agua</a>.
 
 ## ¿Cuándo lo veremos en España?
 
 El **Denza Bao 5** ya ha debutado en Europa y su lanzamiento comercial es cuestión de meses. Del **Formula S** no hay fecha europea ni precio para España: de momento es un fenómeno chino. Pero la ventana está abierta: **Xiaomi no llegará a Europa hasta 2027**, y BYD quiere ocupar ese hueco antes.
 
-Mientras tanto, si te tienta un todoterreno electrificado ya a la venta aquí, <a href=/comparador-coches>compáralo con los SUV del comparador</a>: el Bao 5 jugará en la liga de los grandes cuando aterrice. Y si te van los 4x4 con estética aventurera, aquí te contamos quién es <a href=/blog/icaur-chery-marca-aventura-europa-espana-2027>iCaur, la marca aventurera de Chery que llega a Europa en 2027</a>.
+Mientras tanto, si te tienta un todoterreno electrificado ya a la venta aquí, <a href=/comparador-coches/>compáralo con los SUV del comparador</a>: el Bao 5 jugará en la liga de los grandes cuando aterrice. Y si te van los 4x4 con estética aventurera, aquí te contamos quién es <a href=/blog/icaur-chery-marca-aventura-europa-espana-2027/>iCaur, la marca aventurera de Chery que llega a Europa en 2027</a>.
 
 ## Preguntas frecuentes
 
@@ -118,7 +118,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     "content": `<img src=/media/yangwang-desconocidos-hero.webp alt=SUV eléctrico de lujo chino de gran tamaño aparcado frente a rascacielos de cristal al anochecer>
 
-**¿Buscas solo los datos?** <a href=/coches/yangwang-byd-u8-u9-europa-2027>Ver ficha técnica del Yangwang U8</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/yangwang-byd-u8-u9-europa-2027/>Ver ficha técnica del Yangwang U8</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 Hay un coche que **flota en el agua**, gira 360 grados sobre sí mismo como un tanque y tiene **1.197 CV**. No es un prototipo: se vende en China desde 2023. Se llama **Yangwang U8**, es la punta de lanza de la marca de superlujo de **BYD**, y su llegada a Europa está confirmada para **2027**.
 
@@ -249,7 +249,7 @@ La gama se completa con el sedán **Avatr 06**: versión eléctrica pura con bat
 
 De momento no hay anuncio oficial de desembarco europeo, y esa es precisamente la gracia de esta sección: son marcas que están a un paso de llegar y que casi nadie conoce aquí. Con la alianza Changan-Huawei-CATL detrás y unos precios que rompen cualquier comparativa, Avatr es candidata natural a seguir el camino de Zeekr, XPeng o MG cuando decida cruzar.
 
-Si quieres ir calibrando el ojo para cuando lleguen, <a href=/comparador-coches>el comparador de coches</a> ya incluye a sus futuros rivales chinos con precio en España, como el <a href=/coches/leapmotor-c10-electrico-precio-ficha-tecnica>Leapmotor C10</a>.
+Si quieres ir calibrando el ojo para cuando lleguen, <a href=/comparador-coches/>el comparador de coches</a> ya incluye a sus futuros rivales chinos con precio en España, como el <a href=/coches/leapmotor-c10-electrico-precio-ficha-tecnica/>Leapmotor C10</a>.
 
 ## Por qué Avatr es diferente a las demás marcas chinas
 
@@ -335,7 +335,7 @@ En los mercados donde ya se vende (presentación en Latinoamérica de la mano de
 
 Porque el **rango extendido** es justo la tecnología que mejor encaja con el conductor español medio: uso diario 100 % eléctrico (235 km dan para semanas de commuting) y viajes largos sin planificar cargas, gracias a los 1.115 km combinados. Es la respuesta china a la eterna duda del "¿y si me quedo tirado?".
 
-Marcas como **Leapmotor** ya han demostrado en España que el EREV tiene público: el <a href=/coches/leapmotor-c10-electrico-precio-ficha-tecnica>Leapmotor C10</a> combina eléctrico y extensor con éxito en nuestro <a href=/comparador-coches>comparador</a>. El Rox 01 sería su hermano mayor, más lujoso y más aventurero.
+Marcas como **Leapmotor** ya han demostrado en España que el EREV tiene público: el <a href=/coches/leapmotor-c10-electrico-precio-ficha-tecnica/>Leapmotor C10</a> combina eléctrico y extensor con éxito en nuestro <a href=/comparador-coches/>comparador</a>. El Rox 01 sería su hermano mayor, más lujoso y más aventurero.
 
 De momento no hay planes anunciados para Europa. Pero con Pininfarina en el diseño y una propuesta tan redonda, es cuestión de tiempo que alguien lo traiga.
 
@@ -343,7 +343,7 @@ De momento no hay planes anunciados para Europa. Pero con Pininfarina en el dise
 
 Conviene aclarar la sopa de siglas, porque el Rox 01 no es "un híbrido más". En un **híbrido enchufable (PHEV)** convencional, el motor de gasolina puede mover las ruedas directamente; en un **EREV** como el Rox 01, **nunca** lo hace: es un generador puro. ¿La diferencia práctica? Conducción siempre eléctrica —respuesta inmediata, silencio, suavidad— con la red de seguridad de la gasolina para viajes largos.
 
-Es la misma filosofía que usan el **Leapmotor C10 REEV** o los **Mazda MX-30 R-EV**, y tiene una ventaja fiscal interesante en España: al ser un eléctrico de autonomía extendida con 235 km eléctricos, el Rox 01 tendría <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>**etiqueta Cero** de la DGT</a>, con acceso total a las ZBE. Puedes comprobar cómo funciona el sistema de etiquetas en nuestra <a href=/calculadora-etiqueta-dgt>calculadora de etiqueta DGT</a>.
+Es la misma filosofía que usan el **Leapmotor C10 REEV** o los **Mazda MX-30 R-EV**, y tiene una ventaja fiscal interesante en España: al ser un eléctrico de autonomía extendida con 235 km eléctricos, el Rox 01 tendría <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>**etiqueta Cero** de la DGT</a>, con acceso total a las ZBE. Puedes comprobar cómo funciona el sistema de etiquetas en nuestra <a href=/calculadora-etiqueta-dgt/>calculadora de etiqueta DGT</a>.
 
 ## Pininfarina: el toque italiano
 
@@ -390,7 +390,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     "content": `<img src=/media/im-motors-desconocidos-hero.webp alt=SUV coupé eléctrico chino azul oscuro circulando por el distrito financiero de Madrid al anochecer>
 
-**¿Buscas solo los datos?** <a href=/coches/im-motors-ls6-nuevo-suv-electrico-model-y>Ver ficha técnica del IM LS6</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/im-motors-ls6-nuevo-suv-electrico-model-y/>Ver ficha técnica del IM LS6</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 **8.000 reservas en 45 minutos.** Esa es la cifra con la que el nuevo **IM LS6** abrió su preventa en China el pasado septiembre. El modelo es la renovación del SUV eléctrico más vendido de **IM Motors**, la marca premium de **SAIC** —el gigante chino que también es dueño de **MG**—, y su objetivo declarado no es otro que destronar al **Tesla Model Y**.
 
@@ -432,7 +432,7 @@ Su baza frente al Model Y: más tecnología de chasis, más equipamiento y un pr
 
 IM ya ha confirmado su presencia internacional en Australia, Nueva Zelanda, Reino Unido, el norte de Europa y Oriente Medio, y **fuera de China el modelo se comercializa como IM6** en algunos mercados. Lo que **aún no está confirmado es cuándo empezará a exportarse esta nueva generación del LS6** ni con qué precios europeos.
 
-Mientras tanto, su primo barato —MG— ya demuestra en España que SAIC sabe vender aquí: el <a href=/comparador-coches>comparador de coches</a> está lleno de modelos del grupo que compiten por precio. Cuando IM aterrice con todas sus letras, el segmento premium eléctrico europeo tendrá un problema serio.
+Mientras tanto, su primo barato —MG— ya demuestra en España que SAIC sabe vender aquí: el <a href=/comparador-coches/>comparador de coches</a> está lleno de modelos del grupo que compiten por precio. Cuando IM aterrice con todas sus letras, el segmento premium eléctrico europeo tendrá un problema serio.
 
 ## El chasis por cable, explicado para conductores normales
 
@@ -489,7 +489,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
 
 Probablemente no has oído hablar de **iCaur**. Es la marca más aventurera del gigante **Chery** (el dueño de Omoda y Jaecoo), y tiene un plan que te afecta directamente: **desembarcar en Europa en 2027, con España en la hoja de ruta**. La noticia saltó esta misma semana: Austria será el banco de pruebas este otoño y el anuncio oficial llegará antes de que termine 2026.
 
-Si el <a href=/blog/fangchengbao-byd-marca-desconocida-formula-s-bao-5>Fangchengbao Bao 5</a> te pareció interesante, apunta este nombre: iCaur juega en la misma liga de todoterrenos electrificados con estética retro, pero con una estrategia de expansión aún más agresiva.
+Si el <a href=/blog/fangchengbao-byd-marca-desconocida-formula-s-bao-5/>Fangchengbao Bao 5</a> te pareció interesante, apunta este nombre: iCaur juega en la misma liga de todoterrenos electrificados con estética retro, pero con una estrategia de expansión aún más agresiva.
 
 ## Qué es iCaur
 
@@ -503,7 +503,7 @@ El precedente invita al optimismo: **Omoda y Jaecoo** entraron en España hace a
 
 Según la prensa especializada, la puerta de entrada a Europa será **Austria**, donde la marca aterrizará este otoño como banco de pruebas y trampolín para el resto del continente. En la hoja de ruta posterior figuran la **República Checa, España, Reino Unido y Alemania**.
 
-La idea es tener la red lista para un lanzamiento a **principios de 2027**, con el anuncio oficial antes de que termine este 2026 —el mismo año en que <a href=/blog/yangwang-byd-u8-u9-europa-2027>Yangwang traerá a Europa su SUV que flota</a>—. En España, eso sí, todo apunta a un ritmo algo más lento que en el centro de Europa.
+La idea es tener la red lista para un lanzamiento a **principios de 2027**, con el anuncio oficial antes de que termine este 2026 —el mismo año en que <a href=/blog/yangwang-byd-u8-u9-europa-2027/>Yangwang traerá a Europa su SUV que flota</a>—. En España, eso sí, todo apunta a un ritmo algo más lento que en el centro de Europa.
 
 ## La gama: V23, V25 y V27
 
@@ -544,7 +544,7 @@ Para verlo en movimiento, esta prueba completa del canal <a href=https://www.you
 
 El calendario es claro: anuncio oficial antes de fin de 2026, Austria este otoño como piloto y lanzamiento europeo a **principios de 2027**, con España en la segunda oleada. Si se mantienen unos precios agresivos al estilo Omoda, el V23 podría llegar como uno de los SUV eléctricos con mejor relación precio/tamaño del mercado.
 
-Mientras tanto, si buscas un SUV eléctrico ya a la venta aquí, <a href=/comparador-coches>pásate por el comparador</a> y mide a sus futuros rivales, o descubre el <a href=/blog/rox-01-erev-pininfarina-autonomia-1115-km>Rox 01, otro SUV de autonomía extendida con 1.115 km combinados</a>.
+Mientras tanto, si buscas un SUV eléctrico ya a la venta aquí, <a href=/comparador-coches/>pásate por el comparador</a> y mide a sus futuros rivales, o descubre el <a href=/blog/rox-01-erev-pininfarina-autonomia-1115-km/>Rox 01, otro SUV de autonomía extendida con 1.115 km combinados</a>.
 
 ## Preguntas frecuentes
 
@@ -584,7 +584,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     "content": `<img src=/media/li-auto-i8-hero.webp alt=SUV eléctrico familiar chino de gran tamaño con diseño aerodinámico>
 
-**¿Buscas solo los datos?** <a href=/coches/li-auto-i8-suv-electrico-6-plazas-precio-2026>Ver ficha técnica del Li Auto i8</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/li-auto-i8-suv-electrico-6-plazas-precio-2026/>Ver ficha técnica del Li Auto i8</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 **Seis plazas, 780 km de autonomía, carga de 500 km en 10 minutos y un precio que en Europa sería de derribo.** El **Li Auto i8** lo tenía todo para triunfar... y sin embargo pincha en China: en junio vendió **779 unidades**, la mitad que en mayo. La marca ha respondido con una bajada de precio histórica. Y mientras tanto, Li Auto prepara su desembarco en Europa para este mismo octubre.
 
@@ -629,7 +629,7 @@ Aquí viene lo interesante para ti: **Li Auto debuta en Europa en el Salón de P
 
 La estrategia es clara: **eléctricos puros para Europa**, mientras la gama de autonomía extendida (L6, L7, L8, L9) se reserva para otros mercados. Como eléctrico puro, de llegar a España le correspondería la <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta Cero de la DGT</a>, con acceso libre a las ZBE. El i8 no está confirmado para el continente... pero si el Li 6 funciona, es cuestión de tiempo. Y con la bajada de precio china como referencia, su posicionamiento europeo podría ser agresivo.
 
-Si te gustan los SUV eléctricos grandes ya disponibles aquí, <a href=/comparador-coches>compáralos cara a cara</a>.
+Si te gustan los SUV eléctricos grandes ya disponibles aquí, <a href=/comparador-coches/>compáralos cara a cara</a>.
 
 ## Vídeo: el i8 en un minuto
 
@@ -688,7 +688,7 @@ Mientras en Europa Volkswagen recorta gama y plantilla, en China juega otra liga
 
 ## Por dentro es un XPeng con logo de Volkswagen
 
-Que no te engañe la insignia: el UNYX 09 nace de la alianza que Volkswagen firmó con XPeng en 2023 (los alemanes compraron un 5% del fabricante chino). La **arquitectura eléctrica y electrónica es conjunta**, y el sistema de asistencia a la conducción es el **VLA de XPeng**, la misma familia tecnológica que lleva el <a href=/blog/xpeng-p7-electrico-precio-ficha-tecnica>XPeng P7+ que ya se vende en España</a>.
+Que no te engañe la insignia: el UNYX 09 nace de la alianza que Volkswagen firmó con XPeng en 2023 (los alemanes compraron un 5% del fabricante chino). La **arquitectura eléctrica y electrónica es conjunta**, y el sistema de asistencia a la conducción es el **VLA de XPeng**, la misma familia tecnológica que lleva el <a href=/blog/xpeng-p7-electrico-precio-ficha-tecnica/>XPeng P7+ que ya se vende en España</a>.
 
 Es el segundo fruto de esa alianza tras el SUV ID. UNYX 08, y llega en un momento dramático para VW en China: sus entregas cayeron un **26% en el primer semestre de 2026** (971.000 unidades, mínimo en 16 años) mientras BYD y Geely le comen el terreno. La respuesta alemana es la campaña *"in China, for China"*: más de **20 modelos electrificados** solo este año, desarrollados a ritmo chino.
 
@@ -718,7 +718,7 @@ Antes de soñar con un coche de 5 metros y 755 km por 26.000 €, la realidad: e
 
 ¿Y si Volkswagen cambiara de idea? Los rumores apuntan a que los alemanes estudian **traer a Europa varios de sus eléctricos chinos**, y el UNYX 09 encajaría como un hipotético **ID.9** entre el ID.7 y el segmento premium. Con un posicionamiento lógico en torno a los 60.000 €, tendría rivales como el Tesla Model 3, el BYD Seal o el Hyundai IONIQ 6 temblando. Pero hoy por hoy es solo un rumor: **no hay plan oficial**.
 
-Puedes comparar lo que sí se vende aquí en el <a href=/comparador-coches>comparador de coches eléctricos</a>.
+Puedes comparar lo que sí se vende aquí en el <a href=/comparador-coches/>comparador de coches eléctricos</a>.
 
 ## Preguntas frecuentes
 
@@ -799,7 +799,7 @@ Toda la gama usa **arquitectura de 800 voltios** con baterías de litio-ferrofos
 
 El chasis lo firma **Lotus**: doble triángulo delantero de aluminio, multibrazo trasero y un **alerón trasero activo** de tres posiciones capaz de generar **508 N de carga aerodinámica**. Dentro: sistema **Flyme Auto 2**, asistente de IA "Super Eva", equipo de sonido de **23 altavoces** y, de serie en toda la gama, **LiDAR** con el sistema de conducción asistida **G-ASD** para autopista y ciudad. El Ultra añade el chip **Nvidia Thor-U**.
 
-El diseño no esconde su objetivo: **4,99 metros** de largo, silueta fastback, **Cx de 0,22** y una firma luminosa trasera de **108 LED**. Otro chino que juega en esta liga de berlinas eléctricas asequibles es el <a href=/blog/fangchengbao-byd-marca-desconocida-formula-s-bao-5>Fang Cheng Bao Formula S, con 900 km por menos de 30.000 €</a>.
+El diseño no esconde su objetivo: **4,99 metros** de largo, silueta fastback, **Cx de 0,22** y una firma luminosa trasera de **108 LED**. Otro chino que juega en esta liga de berlinas eléctricas asequibles es el <a href=/blog/fangchengbao-byd-marca-desconocida-formula-s-bao-5/>Fang Cheng Bao Formula S, con 900 km por menos de 30.000 €</a>.
 
 ## Por qué importa
 
@@ -811,9 +811,9 @@ Para verlo en detalle, esta prueba del creador <a href=https://www.youtube.com/w
 
 ## ¿Llegará a Europa?
 
-**De momento, no.** El Galaxy TT solo se vende en China y, a septiembre de 2026, Geely **no ha confirmado ningún plan de exportación** de esta generación. Es el mismo caso que el de otros eléctricos desarrollados solo para China, como el <a href=/blog/volkswagen-id-unyx-09-electrico-china-755-km>Volkswagen ID. UNYX 09, la berlina china de 755 km que VW no trae a Europa</a>.
+**De momento, no.** El Galaxy TT solo se vende en China y, a septiembre de 2026, Geely **no ha confirmado ningún plan de exportación** de esta generación. Es el mismo caso que el de otros eléctricos desarrollados solo para China, como el <a href=/blog/volkswagen-id-unyx-09-electrico-china-755-km/>Volkswagen ID. UNYX 09, la berlina china de 755 km que VW no trae a Europa</a>.
 
-La estrategia de Geely en Europa pasa por sus marcas occidentales —**Volvo, Polestar, Lotus, smart o Zeekr**—, así que el TT quedará, por ahora, como una de esas rarezas chinas que solo se pueden ver en vídeo. Si buscas una berlina eléctrica que sí se venda aquí, <a href=/comparador-coches>pásate por el comparador de coches eléctricos</a>. Y si te va la tecnología china de Huawei y CATL, aquí te contamos el caso de <a href=/blog/avatr-changan-huawei-catl-06t-t09>Avatr, el familiar chino de 955 CV con Huawei dentro</a>.
+La estrategia de Geely en Europa pasa por sus marcas occidentales —**Volvo, Polestar, Lotus, smart o Zeekr**—, así que el TT quedará, por ahora, como una de esas rarezas chinas que solo se pueden ver en vídeo. Si buscas una berlina eléctrica que sí se venda aquí, <a href=/comparador-coches/>pásate por el comparador de coches eléctricos</a>. Y si te va la tecnología china de Huawei y CATL, aquí te contamos el caso de <a href=/blog/avatr-changan-huawei-catl-06t-t09/>Avatr, el familiar chino de 955 CV con Huawei dentro</a>.
 
 ## Preguntas frecuentes
 
@@ -906,7 +906,7 @@ Que una marca oculte las cifras técnicas en la presentación no es raro en Chin
 
 **De momento, no hay anuncio oficial.** Pero el gesto es elocuente: una marca china de cuatro meses eligiendo **París para su debut mundial** no lo hace por casualidad. Si AIVA cumple su plan de vender en mercados internacionales, Europa estará en la hoja de ruta tarde o temprano.
 
-Mientras tanto, aquí puedes <a href=/comparador-coches>comparar los SUV eléctricos que sí se venden en España</a>, y si te va la tecnología china con Huawei y CATL dentro, echa un ojo a <a href=/blog/avatr-changan-huawei-catl-06t-t09>Avatr, la alianza de Changan, Huawei y CATL</a>. La <a href=/coches/aiva-me7-2026-precio-ficha-tecnica>ficha técnica del AIVA ME7</a> recoge todos los datos confirmados hasta hoy, sin relleno.
+Mientras tanto, aquí puedes <a href=/comparador-coches/>comparar los SUV eléctricos que sí se venden en España</a>, y si te va la tecnología china con Huawei y CATL dentro, echa un ojo a <a href=/blog/avatr-changan-huawei-catl-06t-t09/>Avatr, la alianza de Changan, Huawei y CATL</a>. La <a href=/coches/aiva-me7-2026-precio-ficha-tecnica/>ficha técnica del AIVA ME7</a> recoge todos los datos confirmados hasta hoy, sin relleno.
 
 ## Preguntas frecuentes
 
@@ -994,9 +994,9 @@ Para verlo en acción, esta prueba completa de <a href=https://www.youtube.com/w
 
 ## ¿Llegará a Europa?
 
-**De momento, no hay plan confirmado.** El Battleship 700 es un producto pensado para China, donde competirá con el **Fang Cheng Bao de BYD** y los **Tank de GWM**. La estrategia europea de Geely pasa por sus marcas occidentales (Volvo, Polestar, Lotus, smart, Zeekr), como ya contamos con el <a href=/blog/geely-galaxy-tt-berlina-electrica-china>Geely Galaxy TT</a>. Pero con este éxito de preventa, no sería raro verlo en mercados de exportación más adelante.
+**De momento, no hay plan confirmado.** El Battleship 700 es un producto pensado para China, donde competirá con el **Fang Cheng Bao de BYD** y los **Tank de GWM**. La estrategia europea de Geely pasa por sus marcas occidentales (Volvo, Polestar, Lotus, smart, Zeekr), como ya contamos con el <a href=/blog/geely-galaxy-tt-berlina-electrica-china/>Geely Galaxy TT</a>. Pero con este éxito de preventa, no sería raro verlo en mercados de exportación más adelante.
 
-Su <a href=/coches/geely-galaxy-battleship-700-2026-precio-ficha-tecnica>ficha técnica completa está aquí</a>, y si te van los 4x4 chinos con estética aventurera, no te pierdas <a href=/blog/fangchengbao-byd-marca-desconocida-formula-s-bao-5>Fangchengbao, la marca secreta de BYD</a>.
+Su <a href=/coches/geely-galaxy-battleship-700-2026-precio-ficha-tecnica/>ficha técnica completa está aquí</a>, y si te van los 4x4 chinos con estética aventurera, no te pierdas <a href=/blog/fangchengbao-byd-marca-desconocida-formula-s-bao-5/>Fangchengbao, la marca secreta de BYD</a>.
 
 ## Preguntas frecuentes
 
@@ -1075,7 +1075,7 @@ La Nrgy llega con el músculo de una empresa que acaba de celebrar su **10.º an
 
 Lo interesante de la Nrgy no es solo el precio, sino **cómo** lo consigue. Ambas versiones usan celdas **LFP (litio-ferrofosfato)** según la prensa especializada —la misma química que BYD ha popularizado en coches—. El LFP renuncia a algo de densidad energética, pero gana **estabilidad térmica, vida útil y coste**: exactamente lo que una moto asequible necesita. Y la propia Evoke lo dice sin rodeos: frente a la competencia barata que monta baterías pequeñas y maquilla la autonomía con cifras de laboratorio, la Nrgy apuesta por **la batería más grande de su segmento de precio**, porque la autonomía real se mide en kWh, no en promesas.
 
-El hueco que ataca es real: en Europa una moto eléctrica de carretera capaz cuesta el doble. Si Evoke logra traerla a Europa cerca de los **~4.300 €** que saldrían al cambio, sería la primera eléctrica de autopista a precio de 125 de gasolina. <a href=/comparador-motos>Compárala con las eléctricas que ya se venden en España en nuestro comparador de motos</a>.
+El hueco que ataca es real: en Europa una moto eléctrica de carretera capaz cuesta el doble. Si Evoke logra traerla a Europa cerca de los **~4.300 €** que saldrían al cambio, sería la primera eléctrica de autopista a precio de 125 de gasolina. <a href=/comparador-motos/>Compárala con las eléctricas que ya se venden en España en nuestro comparador de motos</a>.
 
 ## ¿Llegará a Europa?
 
@@ -1161,9 +1161,9 @@ Puedes verla aquí: <a href=https://www.youtube.com/watch?v=dp7ti7NmUKo>prueba c
 
 ## ¿Llegará a España?
 
-**De momento, no hay plan confirmado.** Jetour opera oficialmente en Europa solo en Polonia y con modelos de gasolina. El G700, como híbrido enchufable de más de 3 toneladas y 903 CV, tendría que pasar por la homologación europea y un posicionamiento de precio que aún no existe. Su <a href=/coches/jetour-g700-903-cv-precio-ficha-tecnica>ficha técnica completa está aquí</a>.
+**De momento, no hay plan confirmado.** Jetour opera oficialmente en Europa solo en Polonia y con modelos de gasolina. El G700, como híbrido enchufable de más de 3 toneladas y 903 CV, tendría que pasar por la homologación europea y un posicionamiento de precio que aún no existe. Su <a href=/coches/jetour-g700-903-cv-precio-ficha-tecnica/>ficha técnica completa está aquí</a>.
 
-Si te van los 4x4 chinos extremos, no te pierdas el <a href=/blog/geely-galaxy-battleship-700-zhanjian-700>Battleship 700 de Geely (1.113 CV)</a> ni <a href=/blog/fangchengbao-byd-marca-desconocida-formula-s-bao-5>Fangchengbao, la marca secreta de BYD</a>. Y puedes <a href=/comparador-coches>comparar todoterrenos en el comparador</a>.
+Si te van los 4x4 chinos extremos, no te pierdas el <a href=/blog/geely-galaxy-battleship-700-zhanjian-700/>Battleship 700 de Geely (1.113 CV)</a> ni <a href=/blog/fangchengbao-byd-marca-desconocida-formula-s-bao-5/>Fangchengbao, la marca secreta de BYD</a>. Y puedes <a href=/comparador-coches/>comparar todoterrenos en el comparador</a>.
 
 ## Preguntas frecuentes
 
@@ -1250,9 +1250,9 @@ El canal <a href=https://www.youtube.com/watch?v=wHGvjDbZBGs>CarVibes en YouTube
 
 ## ¿Llegará a Europa?
 
-**Sin plan confirmado.** Hongqi vende en Europa solo en **Dinamarca, Suecia y Noruega** (los eléctricos EH7 y EHS7), con el Reino Unido en el horizonte para 2026. El G919 es, de momento, un producto pensado para China. Su <a href=/coches/hongqi-g919-2026-precio-ficha-tecnica>ficha técnica completa está aquí</a>.
+**Sin plan confirmado.** Hongqi vende en Europa solo en **Dinamarca, Suecia y Noruega** (los eléctricos EH7 y EHS7), con el Reino Unido en el horizonte para 2026. El G919 es, de momento, un producto pensado para China. Su <a href=/coches/hongqi-g919-2026-precio-ficha-tecnica/>ficha técnica completa está aquí</a>.
 
-Si te van los 4x4 chinos extremos, mira también el <a href=/blog/jetour-zongheng-g700-903-cv>Jetour Zongheng G700 (903 CV)</a>, el <a href=/blog/geely-galaxy-battleship-700-zhanjian-700>Battleship 700 de Geely</a> y <a href=/blog/yangwang-byd-u8-u9-europa-2027>los Yangwang de BYD</a>. Y puedes <a href=/comparador-coches>compararlos en el comparador</a>.
+Si te van los 4x4 chinos extremos, mira también el <a href=/blog/jetour-zongheng-g700-903-cv/>Jetour Zongheng G700 (903 CV)</a>, el <a href=/blog/geely-galaxy-battleship-700-zhanjian-700/>Battleship 700 de Geely</a> y <a href=/blog/yangwang-byd-u8-u9-europa-2027/>los Yangwang de BYD</a>. Y puedes <a href=/comparador-coches/>compararlos en el comparador</a>.
 
 ## Preguntas frecuentes
 
@@ -1344,9 +1344,9 @@ El canal <a href=https://www.youtube.com/watch?v=ZvywJzLZ6Mw>tuningblog en YouTu
 
 Fuera de China, el Tai 9 podría llegar como **BYD Ti 9** —igual que el Tai 7 se vende como BYD Ti 7—, pero **no hay anuncio oficial**. Hoy por hoy, **no se vende en Europa** ni hay fecha para España.
 
-Si te interesa la marca, lee <a href=/blog/fangchengbao-byd-marca-desconocida-formula-s-bao-5>quién es Fangchengbao, la marca secreta de BYD</a>. Y si te van los SUV chinos grandes, mira el <a href=/blog/geely-galaxy-battleship-700-zhanjian-700>Geely Galaxy Battleship 700</a>, el <a href=/blog/jetour-zongheng-g700-903-cv>Jetour Zongheng G700</a> y el <a href=/blog/hongqi-g919-4x4-electrico-831-cv>Hongqi G919</a>. Puedes <a href=/comparador-coches>compararlos en el comparador</a>.
+Si te interesa la marca, lee <a href=/blog/fangchengbao-byd-marca-desconocida-formula-s-bao-5/>quién es Fangchengbao, la marca secreta de BYD</a>. Y si te van los SUV chinos grandes, mira el <a href=/blog/geely-galaxy-battleship-700-zhanjian-700/>Geely Galaxy Battleship 700</a>, el <a href=/blog/jetour-zongheng-g700-903-cv/>Jetour Zongheng G700</a> y el <a href=/blog/hongqi-g919-4x4-electrico-831-cv/>Hongqi G919</a>. Puedes <a href=/comparador-coches/>compararlos en el comparador</a>.
 
-¿Te gustan los retos? <a href=/juego-monos>Prueba el juego del caza-monos</a>: hay monos escondidos por toda la web.
+¿Te gustan los retos? <a href=/juego-monos/>Prueba el juego del caza-monos</a>: hay monos escondidos por toda la web.
 
 ## Preguntas frecuentes
 

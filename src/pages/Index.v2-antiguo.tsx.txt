@@ -523,7 +523,7 @@ export default function Index() {
               </Card>
 
               {/* Plan Empresas */}
-              <Link to="/empresas">
+              <Link to="/empresas/">
                 <Card className="border-2 border-gray-800 shadow-sm hover:shadow-md transition-shadow cursor-pointer">
                   <CardContent className="p-5 flex items-center justify-between gap-4">
                     <div className="space-y-0.5">
@@ -560,7 +560,7 @@ export default function Index() {
               { slug: "recurrir-multa-radar-velocidad", title: "Cómo recurrir una multa de radar de velocidad", category: "Radares y Velocidad" },
               { slug: "prescripcion-multas-trafico-plazos", title: "Prescripción de multas: plazos exactos y cómo alegarla", category: "Procedimiento" }].
               map((post) =>
-              <Link key={post.slug} to={`/blog/${post.slug}`} className="block group">
+              <Link key={post.slug} to={`/blog/${post.slug}/`} className="block group">
                   <div className="border border-gray-200 rounded-xl p-4 hover:border-red-200 hover:shadow-sm transition-all flex items-center justify-between gap-3">
                     <div className="space-y-0.5 min-w-0">
                       <Badge className="bg-red-50 text-red-600 border-0 text-[10px] mb-1">{post.category}</Badge>
@@ -571,7 +571,7 @@ export default function Index() {
                 </Link>
               )}
             </div>
-            <Link to="/blog" className="block">
+            <Link to="/blog/" className="block">
               <Button variant="secondary" className="w-full font-bold rounded-xl gap-2">
                 <BookOpen className="w-4 h-4" />
                 {t("blog.viewAll")}
@@ -732,9 +732,9 @@ export default function Index() {
               )}
             </div>
             <div className="flex flex-wrap gap-3 pt-1">
-              <Link to="/privacidad" className="text-xs text-red-600 hover:underline font-semibold">Política de privacidad →</Link>
-              <Link to="/terminos" className="text-xs text-red-600 hover:underline font-semibold">Términos y condiciones →</Link>
-              <Link to="/cookies" className="text-xs text-red-600 hover:underline font-semibold">Política de cookies →</Link>
+              <Link to="/privacidad/" className="text-xs text-red-600 hover:underline font-semibold">Política de privacidad →</Link>
+              <Link to="/terminos/" className="text-xs text-red-600 hover:underline font-semibold">Términos y condiciones →</Link>
+              <Link to="/cookies/" className="text-xs text-red-600 hover:underline font-semibold">Política de cookies →</Link>
             </div>
           </Reveal>
 

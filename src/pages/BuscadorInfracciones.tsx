@@ -192,7 +192,7 @@ export default function BuscadorInfraccionesPage() {
             <motion.nav initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.5 }} aria-label="Migas de pan" className="flex items-center gap-1.5 text-xs text-white/60">
               <Link to="/" className="hover:text-white">Inicio</Link>
               <span aria-hidden="true">/</span>
-              <Link to="/herramientas" className="hover:text-white">Herramientas</Link>
+              <Link to="/herramientas/" className="hover:text-white">Herramientas</Link>
               <span aria-hidden="true">/</span>
               <span className="text-white/80">Buscador</span>
             </motion.nav>
@@ -282,11 +282,11 @@ export default function BuscadorInfraccionesPage() {
                 analizador gratuito con IA
               </Link>{" "}
               y detecta defectos de forma en segundos. También puedes consultar las{" "}
-              <Link to="/guias/vicios-forma" className="text-red-600 font-bold hover:underline">
+              <Link to="/guias/vicios-forma/" className="text-red-600 font-bold hover:underline">
                 causas más habituales para anular una multa
               </Link>{" "}
               o los{" "}
-              <Link to="/guias/prescripcion" className="text-red-600 font-bold hover:underline">
+              <Link to="/guias/prescripcion/" className="text-red-600 font-bold hover:underline">
                 plazos de prescripción
               </Link>
               .

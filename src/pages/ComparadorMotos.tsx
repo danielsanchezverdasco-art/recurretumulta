@@ -750,7 +750,7 @@ function CartaMoto({
           </ul>
         </div>
         <Link
-          to={`/motos/${moto.id}`}
+          to={`/motos/${moto.id}/`}
           onClick={(e) => e.stopPropagation()}
           className="mt-auto block rounded-lg bg-[#cd001d] py-1.5 text-center text-[12px] font-bold text-white transition hover:bg-[#a50018] sm:py-2 sm:text-sm"
         >

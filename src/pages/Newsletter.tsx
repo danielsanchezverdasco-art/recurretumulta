@@ -148,7 +148,7 @@ export default function Newsletter() {
           <NewsletterSignup origen="newsletter-pagina" />
           <p className="mt-3 text-center text-xs text-gray-500 leading-relaxed">
             Al suscribirte aceptas la{" "}
-            <Link to="/privacidad" className="text-red-600 font-semibold hover:underline">
+            <Link to="/privacidad/" className="text-red-600 font-semibold hover:underline">
               política de privacidad
             </Link>
             . Tus datos solo se usan para enviarte la newsletter (RGPD): no los vendemos

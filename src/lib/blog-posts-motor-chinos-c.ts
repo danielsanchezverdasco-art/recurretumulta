@@ -23,7 +23,7 @@ export const MOTOR_CHINOS_C_POSTS: BlogPost[] = [
     ],
     content: `<img src=/media/xpeng-g6-2026-restyling-precio-espana-hero.webp alt=SUV coupé eléctrico XPeng G6 de color gris oscuro con banda lumínica delantera aparcado en una calle de Barcelona al atardecer>
 
-**¿Buscas solo los datos?** <a href=/coches/xpeng-g6-2026-restyling-precio-espana>Ver ficha técnica del XPeng G6 2026</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/xpeng-g6-2026-restyling-precio-espana/>Ver ficha técnica del XPeng G6 2026</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 El **XPeng G6** ya era uno de los eléctricos chinos más serios a la venta en España, pero su actualización de 2026 lo pone en otra liga: toda la gama estrena **batería LFP** y una carga rápida de **451 kW** que recupera del 10 al 80 % en **12 minutos**. Ningún rival de su precio carga tan rápido. Ni siquiera el Tesla Model Y se acerca.
 
@@ -47,7 +47,7 @@ Ojo con los precios que circulan por ahí: autonocion lista cifras algo distinta
 
 <img src=/media/xpeng-g6-2026-restyling-precio-espana-interior-oficial-2.webp alt=Interior oficial del xpeng g6 2026 restyling precio espana>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
@@ -67,7 +67,7 @@ Ojo con los precios que circulan por ahí: autonocion lista cifras algo distinta
 | **10-80 %** | 12 min | ~25 min | — |
 | **0-100 km/h** | 6,7 s | 7,2 s | — |
 
-Lo hemos enfrentado en detalle: <a href=/blog/xpeng-g6-vs-tesla-model-y-cual-comprar>Duelo XPeng G6 vs Tesla Model Y</a>.
+Lo hemos enfrentado en detalle: <a href=/blog/xpeng-g6-vs-tesla-model-y-cual-comprar/>Duelo XPeng G6 vs Tesla Model Y</a>.
 
 El Tesla es más barato y más eficiente; el Peugeot homologa más autonomía. Pero en **velocidad de carga no hay color**: el G6 duplica al Model Y. Para quien viaje mucho por autovía, esos 12 minutos cambian la experiencia.
 
@@ -103,7 +103,7 @@ Depende de qué valores: el G6 carga muchísimo más rápido (451 kW frente a 17
 Toda la gama 2026 usa **litio-ferrofosfato (LFP)**, incluidas las versiones superiores que antes montaban NCM.
 
 ### ¿Tiene etiqueta Cero de la DGT?
-Sí, al ser 100 % eléctrico le corresponde la **etiqueta CERO**, así que entra en todas las <a href=https://recurretumulta.online/guias/zbe>Zonas de Bajas Emisiones</a> sin restricciones. <a href=/calculadora-etiqueta-dgt>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Sí, al ser 100 % eléctrico le corresponde la **etiqueta CERO**, así que entra en todas las <a href=https://recurretumulta.online/guias/zbe>Zonas de Bajas Emisiones</a> sin restricciones. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
 Con 202 km/h de velocidad máxima y 487 CV en la versión Performance, conviene recordar que en España superar los límites sale caro: si te llega una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
 
@@ -129,7 +129,7 @@ Con 202 km/h de velocidad máxima y 487 CV en la versión Performance, conviene 
     ],
     content: `<img src=/media/xiaomi-yu7-suv-electrico-llegada-europa-hero.webp alt=SUV eléctrico Xiaomi YU7 de color verde azulado circulando por una carretera de costa española a la hora dorada>
 
-**¿Buscas solo los datos?** <a href=/coches/xiaomi-yu7-suv-electrico-llegada-europa>Ver ficha técnica del Xiaomi YU7</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/xiaomi-yu7-suv-electrico-llegada-europa/>Ver ficha técnica del Xiaomi YU7</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 La empresa que te vendió el móvil ahora quiere venderte el coche. Y no va de broma: el **Xiaomi YU7**, segundo modelo de Xiaomi EV, consiguió **200.000 pedidos en 3 minutos** y **289.000 en la primera hora** cuando se abrió la reserva en China el 26 de junio de 2025. En octubre de 2025 ya vendía más que el Tesla Model Y en el mercado chino. La pregunta que nos hacemos en España es cuándo lo veremos por aquí: **Xiaomi ha confirmado que llegará a Europa en 2027**.
 
@@ -151,7 +151,7 @@ Para comparar: el Tesla Model Y parte allí de 263.500 yuanes, es decir, **el YU
 
 <img src=/media/xiaomi-yu7-suv-electrico-llegada-europa-interior-oficial-2.webp alt=Interior oficial del xiaomi yu7 suv electrico llegada europa>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
@@ -231,7 +231,7 @@ Mientras esperamos a 2027, recuerda que con 253 km/h de velocidad máxima el YU7
     ],
     content: `<img src=/media/deepal-s07-precio-espana-ficha-tecnica-hero.webp alt=SUV eléctrico Deepal S07 azul oscuro de diseño futurista aparcado en el distrito financiero de Madrid al atardecer>
 
-**¿Buscas solo los datos?** <a href=/coches/deepal-s07-precio-espana-ficha-tecnica>Ver ficha técnica del Deepal S07</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/deepal-s07-precio-espana-ficha-tecnica/>Ver ficha técnica del Deepal S07</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 **Changan**, el fabricante más veterano de China, desembarcó en España a finales de enero de 2026 con su submarca **Deepal** y dos SUV eléctricos: el S05 y este **S07**. Y no ha tardado en ponerse las pilas: en agosto de 2026 ya lo actualizó con batería LFP de 78 kWh, **258 CV**, **500 km WLTP** y carga rápida de **200 kW**. Todo por **45.990 €**.
 
@@ -247,7 +247,7 @@ La red comercial ya suma **71 puntos de venta en España**, con objetivo de 80 a
 
 <img src=/media/deepal-s07-precio-espana-ficha-tecnica-interior-oficial-2.webp alt=Interior oficial del deepal s07 precio espana ficha tecnica>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
@@ -300,7 +300,7 @@ Con sus **200 kW** en corriente continua, pasa del 10 al 80 % en **24 minutos**.
 **Changan**, el fabricante de automóviles más veterano de China. Deepal es su submarca de vehículos de nuevas energías con diseño más deportivo.
 
 ### ¿El Deepal S07 tiene etiqueta Cero?
-Sí, al ser 100 % eléctrico le corresponde la **etiqueta CERO** de la DGT. <a href=/calculadora-etiqueta-dgt>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Sí, al ser 100 % eléctrico le corresponde la **etiqueta CERO** de la DGT. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
 ### ¿Hay una versión híbrida del S07?
 En otros mercados existe el **S07 REEV** (autonomía extendida con generador de gasolina), pero **no se vende en España** y no hay fecha confirmada.
@@ -329,7 +329,7 @@ Con etiqueta CERO, el S07 entra en todas las <a href=https://recurretumulta.onli
     ],
     content: `<img src=/media/nio-firefly-precio-espana-ficha-tecnica-hero.webp alt=Pequeño coche eléctrico urbano NIO Firefly blanco con faros redondos aparcado en una plaza de casco antiguo europeo>
 
-**¿Buscas solo los datos?** <a href=/coches/nio-firefly-precio-espana-ficha-tecnica>Ver ficha técnica del NIO Firefly</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/nio-firefly-precio-espana-ficha-tecnica/>Ver ficha técnica del NIO Firefly</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 **Firefly** ("luciérnaga") es la tercera marca del grupo **NIO**, tras NIO y Onvo, y su misión es clara: ser el MINI de los chinos, un utilitario eléctrico urbano con acabado premium. Presentado en diciembre de 2024 y a la venta en China desde abril de 2025, ya rueda por **Países Bajos, Noruega, Austria, Bélgica, Portugal y Singapur** por **29.900 €**. En España aún no tiene fecha ni precio oficiales, pero "llegará próximamente". Y con más de **80.000 unidades entregadas** en China, no es una promesa vacía.
 
@@ -348,7 +348,7 @@ Se mueve, por tanto, en el entorno de los **30.000 €** en Europa, con dos acab
 
 <img src=/media/nio-firefly-precio-espana-ficha-tecnica-interior-oficial-2.webp alt=Interior oficial del nio firefly precio espana ficha tecnica>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
@@ -405,7 +405,7 @@ Es **compatible con el Power Swap** de NIO, pero la red europea de estaciones es
 Sí: es la **tercera marca del grupo NIO**, tras NIO y Onvo, posicionada como la alternativa asequible con acabado premium.
 
 ### ¿Tiene etiqueta Cero de la DGT?
-Al ser 100 % eléctrico le correspondería la **etiqueta CERO**, pero está **pendiente de confirmación oficial**. Te recomendamos verificarlo en la web de la DGT cuando se lance. <a href=/calculadora-etiqueta-dgt>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Al ser 100 % eléctrico le correspondería la **etiqueta CERO**, pero está **pendiente de confirmación oficial**. Te recomendamos verificarlo en la web de la DGT cuando se lance. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
 Un urbano de 150 km/h de velocidad máxima no parece una amenaza para tu carné, pero los radares de tramo en ciudad no perdonan ni a los eléctricos: si te llega una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
 
@@ -431,7 +431,7 @@ Un urbano de 150 km/h de velocidad máxima no parece una amenaza para tu carné,
     ],
     content: `<img src=/media/dacia-bigster-hybrid-precio-espana-hero.webp alt=SUV familiar Dacia Bigster color arena con protecciones robustas en una pista de montaña española>
 
-**¿Buscas solo los datos?** <a href=/coches/dacia-bigster-hybrid-precio-espana>Ver ficha técnica del Dacia Bigster Hybrid 155</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/dacia-bigster-hybrid-precio-espana/>Ver ficha técnica del Dacia Bigster Hybrid 155</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
 **Dacia** ha hecho lo impensable: un SUV del segmento C, de **4,57 metros**, híbrido, con maletero de **546 litros** y consumo de **4,6 l/100 km**... desde **29.390 €**. El **Bigster** es el Dacia más grande jamás fabricado, lleva en España desde la primavera de 2025 y en su primer año ya matriculó **67.573 unidades en Europa** (más de 100.000 fabricadas). Dacia lo califica como un éxito por encima de las expectativas. Y para 2026 hay novedad: la versión **Tribrid 150 4x4** (gasolina + GLP + electricidad) desde 30.890 €.
 
@@ -451,7 +451,7 @@ Para ponerlo en contexto: un Hyundai Tucson o un Toyota RAV4 híbridos equivalen
 
 <img src=/media/dacia-bigster-hybrid-precio-espana-oficial.webp alt=Dacia Bigster Hybrid, SUV familiar, vista lateral>
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto>Descubre el mejor coche por tu presupuesto</a>.
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
@@ -474,7 +474,7 @@ Para ponerlo en contexto: un Hyundai Tucson o un Toyota RAV4 híbridos equivalen
 | **Etiqueta DGT** | ECO | ECO | CERO |
 | **0-100 km/h** | 9,7 s | 7,9 s | — |
 
-Lo hemos enfrentado en detalle: <a href=/blog/dacia-bigster-hybrid-vs-jaecoo-5-cual-comprar>Duelo Dacia Bigster Hybrid vs Jaecoo 5</a>.
+Lo hemos enfrentado en detalle: <a href=/blog/dacia-bigster-hybrid-vs-jaecoo-5-cual-comprar/>Duelo Dacia Bigster Hybrid vs Jaecoo 5</a>.
 
 El MG HS tiene más potencia y el Jaecoo 7 SHS presume de etiqueta CERO, pero el Bigster es el más barato, el que menos consume en híbrido convencional y el único con opción 4x4 trivalente.
 
@@ -501,7 +501,7 @@ El Hybrid 155 parte de **29.390 €** (Expression). Los acabados Journey y Extre
 **4,6 l/100 km** en ciclo WLTP combinado (4,7 en el acabado Extreme), con emisiones de 104-106 g/km de CO₂.
 
 ### ¿El Bigster tiene etiqueta ECO o CERO?
-El Hybrid 155 lleva la **etiqueta ECO**. Las versiones híbridas enchufables de sus rivales (como el Jaecoo 7) sí tienen la CERO. <a href=/calculadora-etiqueta-dgt>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+El Hybrid 155 lleva la **etiqueta ECO**. Las versiones híbridas enchufables de sus rivales (como el Jaecoo 7) sí tienen la CERO. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
 ### ¿Hay un Dacia Bigster 4x4?
 Sí: el **Tribrid 150 4x4** combina gasolina, electricidad y GLP, con tracción total mediante un motor eléctrico en el eje trasero, desde 30.890 €.

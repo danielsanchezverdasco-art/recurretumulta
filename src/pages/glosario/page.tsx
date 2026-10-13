@@ -96,7 +96,7 @@ export default function GlosarioMotorIndexPage() {
           {TERMINOS.map((t) => (
             <Link
               key={t.slug}
-              to={`/glosario/${t.slug}`}
+              to={`/glosario/${t.slug}/`}
               className="group bg-white rounded-2xl border border-slate-200 p-5 sm:p-6 hover:border-red-400 hover:shadow-md transition"
             >
               <h2 className="text-lg font-bold flex items-center gap-2 mb-2 group-hover:text-red-700">
@@ -121,7 +121,7 @@ export default function GlosarioMotorIndexPage() {
           batería, autonomía WLTP, carga rápida y etiqueta DGT, ficha por ficha.
         </p>
         <Link
-          to="/comparador-coches"
+          to="/comparador-coches/"
           className="inline-flex items-center gap-2 bg-slate-900 hover:bg-slate-800 text-white font-bold py-3 px-6 rounded-xl transition mb-12"
         >
           <Gauge className="h-5 w-5" /> Comparar los 26 coches eléctricos <ArrowRight className="h-5 w-5" />

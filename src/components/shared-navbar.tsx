@@ -77,19 +77,19 @@ export default function SharedNavbar({ ctaMode = "link" }: SharedNavbarProps) {
         </Link>
 
         <div className="flex items-center gap-1 sm:gap-2 shrink-0">
-          <Link to="/blog" className={"hidden sm:flex items-center gap-1 text-xs font-semibold text-gray-500 hover:text-gray-900 transition-colors cursor-pointer"}>
+          <Link to="/blog/" className={"hidden sm:flex items-center gap-1 text-xs font-semibold text-gray-500 hover:text-gray-900 transition-colors cursor-pointer"}>
             <BookOpen className="w-3.5 h-3.5" /> {t("nav.blog")}
           </Link>
-          <Link to="/multas" className={"hidden sm:flex items-center gap-1 text-xs font-semibold text-gray-500 hover:text-gray-900 transition-colors cursor-pointer"}>
+          <Link to="/multas/" className={"hidden sm:flex items-center gap-1 text-xs font-semibold text-gray-500 hover:text-gray-900 transition-colors cursor-pointer"}>
             <MapPin className="w-3.5 h-3.5" /> {t("nav.provinces")}
           </Link>
           <Link
-            to="/fichas-tecnicas"
+            to="/fichas-tecnicas/"
             className="hidden sm:flex items-center gap-1 text-xs font-extrabold text-white bg-gradient-to-r from-red-700 to-red-600 hover:from-red-800 hover:to-red-700 rounded-full px-2.5 py-1 shadow-sm transition-colors cursor-pointer"
           >
             <CarFront className="w-3.5 h-3.5" /> Fichas técnicas
           </Link>
-          <Link to="/empresas" className={"hidden md:flex items-center gap-1 text-xs font-semibold text-gray-500 hover:text-gray-900 transition-colors cursor-pointer"}>
+          <Link to="/empresas/" className={"hidden md:flex items-center gap-1 text-xs font-semibold text-gray-500 hover:text-gray-900 transition-colors cursor-pointer"}>
             <Building2 className="w-3.5 h-3.5" /> Empresas
           </Link>
           <a
@@ -115,7 +115,7 @@ export default function SharedNavbar({ ctaMode = "link" }: SharedNavbarProps) {
                 titulo="¡Un mono en el menú! Haz clic para cazarlo 🦍"
               />
               <DropdownMenuItem asChild>
-                <Link to="/herramientas" className="cursor-pointer font-semibold">Todas las herramientas</Link>
+                <Link to="/herramientas/" className="cursor-pointer font-semibold">Todas las herramientas</Link>
               </DropdownMenuItem>
               {CATEGORIAS_HERRAMIENTAS.map((cat) => (
                 <div key={cat}>
@@ -149,24 +149,24 @@ export default function SharedNavbar({ ctaMode = "link" }: SharedNavbarProps) {
 
       {mobileOpen && (
         <nav className="sm:hidden bg-white border-t border-gray-100 px-4 py-3 flex flex-col gap-1 shadow-lg max-h-[75vh] overflow-y-auto">
-          <Link to="/blog" onClick={() => setMobileOpen(false)} className={MITEM} style={{ "--mi": 0 } as CSSProperties}>
+          <Link to="/blog/" onClick={() => setMobileOpen(false)} className={MITEM} style={{ "--mi": 0 } as CSSProperties}>
             <BookOpen className="w-4 h-4" /> {t("nav.blog")}
           </Link>
-          <Link to="/multas" onClick={() => setMobileOpen(false)} className={MITEM} style={{ "--mi": 1 } as CSSProperties}>
+          <Link to="/multas/" onClick={() => setMobileOpen(false)} className={MITEM} style={{ "--mi": 1 } as CSSProperties}>
             <MapPin className="w-4 h-4" /> {t("nav.provinces")}
           </Link>
-          <Link to="/empresas" onClick={() => setMobileOpen(false)} className={MITEM} style={{ "--mi": 2 } as CSSProperties}>
+          <Link to="/empresas/" onClick={() => setMobileOpen(false)} className={MITEM} style={{ "--mi": 2 } as CSSProperties}>
             <Building2 className="w-4 h-4" /> Empresas
           </Link>
           <Link
-            to="/fichas-tecnicas"
+            to="/fichas-tecnicas/"
             onClick={() => setMobileOpen(false)}
             className="rtm-menu-item flex items-center gap-2 py-2.5 text-sm font-extrabold text-white bg-gradient-to-r from-red-700 to-red-600 rounded-full px-3 my-1 cursor-pointer"
             style={{ "--mi": 3 } as CSSProperties}
           >
             <CarFront className="w-4 h-4" /> Fichas técnicas
           </Link>
-          <Link to="/newsletter" onClick={() => setMobileOpen(false)} className={MITEM} style={{ "--mi": 4 } as CSSProperties}>
+          <Link to="/newsletter/" onClick={() => setMobileOpen(false)} className={MITEM} style={{ "--mi": 4 } as CSSProperties}>
             <Mail className="w-4 h-4" /> Newsletter
           </Link>
           <button
@@ -182,7 +182,7 @@ export default function SharedNavbar({ ctaMode = "link" }: SharedNavbarProps) {
           </button>
           {toolsOpen && (
             <div className="flex flex-col">
-              <Link to="/herramientas" onClick={() => setMobileOpen(false)} className="py-1.5 pl-6 text-sm font-semibold text-red-600 cursor-pointer">
+              <Link to="/herramientas/" onClick={() => setMobileOpen(false)} className="py-1.5 pl-6 text-sm font-semibold text-red-600 cursor-pointer">
                 Ver todas las herramientas
               </Link>
               {CATEGORIAS_HERRAMIENTAS.map((cat) => (

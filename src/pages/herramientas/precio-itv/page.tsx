@@ -143,7 +143,7 @@ export default function PrecioItvPage() {
             >
               <Link to="/" className="hover:text-white">Inicio</Link>
               <span aria-hidden="true">/</span>
-              <Link to="/herramientas" className="hover:text-white">Herramientas</Link>
+              <Link to="/herramientas/" className="hover:text-white">Herramientas</Link>
               <span aria-hidden="true">/</span>
               <span className="text-white/40 truncate max-w-[200px]">Precio de la ITV</span>
             </motion.nav>
@@ -290,7 +290,7 @@ export default function PrecioItvPage() {
           </p>
           <p className="text-slate-600">
             Más información en nuestra{" "}
-            <Link to="/guias/itv-documentacion" className="text-red-600 hover:underline font-medium">
+            <Link to="/guias/itv-documentacion/" className="text-red-600 hover:underline font-medium">
               guía de ITV, neumáticos y documentación
             </Link>
             .
@@ -358,16 +358,16 @@ export default function PrecioItvPage() {
         <nav className="bg-slate-100 rounded-3xl p-6 border border-slate-200">
           <h2 className="font-bold mb-4">Más herramientas y guías</h2>
           <div className="grid sm:grid-cols-2 gap-3 text-sm">
-            <Link to="/herramientas" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">
+            <Link to="/herramientas/" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">
               Todas las herramientas
             </Link>
-            <Link to="/guias/itv-documentacion" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">
+            <Link to="/guias/itv-documentacion/" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">
               Guía de ITV, neumáticos y documentación
             </Link>
-            <Link to="/equivalencia-neumaticos-itv" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">
+            <Link to="/equivalencia-neumaticos-itv/" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">
               Equivalencia de neumáticos e ITV
             </Link>
-            <Link to="/buscador-codigo-multa" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">
+            <Link to="/buscador-codigo-multa/" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">
               Buscador de infracciones por código
             </Link>
           </div>

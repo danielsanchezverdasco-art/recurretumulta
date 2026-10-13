@@ -61,7 +61,7 @@ export default function AvisoLegalPage() {
 
           <section>
             <h2 className="text-xl font-black text-gray-900">2. Objeto y ámbito de aplicación</h2>
-            <p>Este aviso legal regula el acceso y uso del sitio web recurretumulta.online. El acceso al sitio implica la aceptación de las condiciones aquí descritas, sin perjuicio de lo establecido en nuestros <Link to="/terminos" className="text-red-600 underline">Términos y Condiciones</Link> y nuestra <Link to="/privacidad" className="text-red-600 underline">Política de Privacidad</Link>.</p>
+            <p>Este aviso legal regula el acceso y uso del sitio web recurretumulta.online. El acceso al sitio implica la aceptación de las condiciones aquí descritas, sin perjuicio de lo establecido en nuestros <Link to="/terminos/" className="text-red-600 underline">Términos y Condiciones</Link> y nuestra <Link to="/privacidad/" className="text-red-600 underline">Política de Privacidad</Link>.</p>
           </section>
 
           <section>
@@ -87,7 +87,7 @@ export default function AvisoLegalPage() {
 
           <section>
             <h2 className="text-xl font-black text-gray-900">7. Legislación aplicable</h2>
-            <p>Este aviso legal se rige por la legislación española. Para más información sobre protección de datos, consulta nuestra <Link to="/privacidad" className="text-red-600 underline">Política de Privacidad</Link>.</p>
+            <p>Este aviso legal se rige por la legislación española. Para más información sobre protección de datos, consulta nuestra <Link to="/privacidad/" className="text-red-600 underline">Política de Privacidad</Link>.</p>
           </section>
         </div>
       </main>

@@ -244,27 +244,14 @@ function q() {
             (0, B.jsx)(`img`, {
               className: `hj-cuerpo`,
               src: `/media/cosa-jungla-apoyado-sm.webp`,
-              srcSet: `/media/cosa-jungla-apoyado-sm.webp 400w, /media/cosa-jungla-apoyado.webp 735w`,
+              srcSet: `/media/cosa-jungla-apoyado-sm.webp 240w, /media/cosa-jungla-apoyado.webp 735w`,
               sizes: `170px`,
+              width: `240`,
+              height: `326`,
               fetchPriority: `high`,
               alt: `Cosa, el mono robot, apoyado en el botón de análisis`,
             }),
-            K.map((e, t) =>
-              (0, B.jsx)(
-                `div`,
-                {
-                  "aria-hidden": `true`,
-                  className: `hj-parpado`,
-                  style: {
-                    left: `calc(${e.x}% - 6.9%)`,
-                    top: `calc(${e.y}% - 6.6%)`,
-                    width: `13.8%`,
-                    aspectRatio: `1/1.05`,
-                  },
-                },
-                t,
-              ),
-            ),
+            // 13/10/2026: mono estático (sin parpadeo) por rendimiento.
           ],
         }),
         (0, B.jsxs)(`div`, {
@@ -295,8 +282,11 @@ function q() {
         (0, B.jsx)(`img`, {
           className: `hj-manos`,
           src: `/media/cosa-jungla-manos-sm.webp`,
-          srcSet: `/media/cosa-jungla-manos-sm.webp 400w, /media/cosa-jungla-manos.webp 735w`,
+          srcSet: `/media/cosa-jungla-manos-sm.webp 240w, /media/cosa-jungla-manos.webp 735w`,
           sizes: `170px`,
+          width: `240`,
+          height: `326`,
+          loading: `lazy`,
           alt: ``,
           "aria-hidden": `true`,
         }),
@@ -1222,7 +1212,7 @@ function $() {
                       return (0, B.jsx)(
                         S,
                         {
-                          to: `/blog/${e.slug}`,
+                          to: `/blog/${e.slug}/`,
                           className: `block group`,
                           children: (0, B.jsxs)(`div`, {
                             className: `border border-gray-200 rounded-xl overflow-hidden hover:border-red-200 hover:shadow-sm transition-all bg-white h-full`,

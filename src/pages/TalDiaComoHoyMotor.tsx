@@ -296,7 +296,7 @@ export default function TalDiaComoHoyMotorPage() {
       <SharedNavbar />
       <nav aria-label="Migas de pan" className="max-w-4xl mx-auto px-4 pt-6 text-sm text-slate-500">
         <Link to="/" className="hover:text-slate-800">Inicio</Link> {" > "}
-        <Link to="/herramientas" className="hover:text-slate-800">Herramientas</Link> {" > "}
+        <Link to="/herramientas/" className="hover:text-slate-800">Herramientas</Link> {" > "}
         <span className="text-slate-800 font-medium">Tal día como hoy en el motor</span>
       </nav>
 
@@ -407,7 +407,7 @@ export default function TalDiaComoHoyMotorPage() {
             <p className="font-bold text-slate-900">El dato del día</p>
             <p className="text-sm text-slate-600 mb-3">Una cifra del motor explicada en dos frases.</p>
             <Link
-              to="/el-dato-del-dia"
+              to="/el-dato-del-dia/"
               className="inline-flex items-center gap-1 text-sm font-semibold text-red-600 hover:underline"
             >
               Ver el dato de hoy <ArrowRight className="h-4 w-4" />
@@ -417,7 +417,7 @@ export default function TalDiaComoHoyMotorPage() {
             <p className="font-bold text-slate-900">La pregunta del día</p>
             <p className="text-sm text-slate-600 mb-3">La duda que más busca la gente, resuelta.</p>
             <Link
-              to="/la-pregunta-del-dia"
+              to="/la-pregunta-del-dia/"
               className="inline-flex items-center gap-1 text-sm font-semibold text-red-600 hover:underline"
             >
               Ver la pregunta de hoy <ArrowRight className="h-4 w-4" />

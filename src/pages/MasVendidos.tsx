@@ -38,8 +38,8 @@ const CATEGORIAS: { id: CategoriaMasVendidos; etiqueta: string; icono: typeof Ca
 
 function fichaUrl(cat: CategoriaMasVendidos, m: ModeloVendido): string | null {
   if (!m.fichaId) return null;
-  if (cat === "coches") return `/coches/${m.fichaId}`;
-  if (cat === "motos") return `/motos/${m.fichaId}`;
+  if (cat === "coches") return `/coches/${m.fichaId}/`;
+  if (cat === "motos") return `/motos/${m.fichaId}/`;
   return null;
 }
 
@@ -145,7 +145,7 @@ export default function MasVendidos() {
       <main className="mx-auto max-w-6xl px-4 pb-16 pt-8">
         <nav className="text-xs text-gray-500" aria-label="Migas de pan">
           <Link to="/" className="hover:underline">Inicio</Link> ·{" "}
-          <Link to="/comparador-coches" className="hover:underline">Comparadores</Link> ·{" "}
+          <Link to="/comparador-coches/" className="hover:underline">Comparadores</Link> ·{" "}
           <span className="text-gray-700">Más vendidos</span>
         </nav>
 
@@ -204,7 +204,7 @@ export default function MasVendidos() {
               con ficha técnica de cada modelo:
             </p>
             <Link
-              to="/comparador-patinetes"
+              to="/comparador-patinetes/"
               className="mt-4 inline-flex items-center gap-2 rounded-xl bg-red-700 px-6 py-3 font-bold text-white hover:bg-red-800"
             >
               <ArrowLeftRight size={18} /> Comparador de patinetes
@@ -391,13 +391,13 @@ export default function MasVendidos() {
 
         <div className="mt-12 flex flex-col items-stretch gap-3 sm:flex-row">
           <Link
-            to="/comparador-coches"
+            to="/comparador-coches/"
             className="inline-flex items-center justify-center gap-2 rounded-xl bg-red-700 px-6 py-3 font-bold text-white hover:bg-red-800"
           >
             <ArrowLeftRight size={18} /> Comparador de coches
           </Link>
           <Link
-            to="/comparador-motos"
+            to="/comparador-motos/"
             className="inline-flex items-center justify-center gap-2 rounded-xl border-2 border-gray-300 px-6 py-3 font-bold text-gray-900 hover:border-red-400"
           >
             Comparador de motos

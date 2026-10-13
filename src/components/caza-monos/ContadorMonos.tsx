@@ -10,7 +10,7 @@ export default function ContadorMonos({ className = "" }: { className?: string }
   // móvil (antes solo tras la primera captura). Va en el hueco del CTA.
   return (
     <Link
-      to="/juego-monos"
+      to="/juego-monos/"
       title={`Caza de monos: llevas ${total} de ${objetivo} — ver el juego`}
       aria-label={`Caza de monos: llevas ${total} de ${objetivo} monos. Ir al juego.`}
       className={`inline-flex items-center gap-1 rounded-full bg-amber-100/80 hover:bg-amber-200/80 border border-amber-300/60 pl-1 pr-2 py-0.5 transition-colors cursor-pointer ${className}`}

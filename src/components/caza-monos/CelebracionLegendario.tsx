@@ -59,7 +59,7 @@ export default function CelebracionLegendario({
           Reclama tu premio en tu perfil.
         </p>
         <a
-          href="/juego-monos"
+          href="/juego-monos/"
           onClick={onClose}
           className="inline-block rounded-xl bg-amber-500 hover:bg-amber-600 text-white font-black px-8 py-3 text-lg transition shadow-lg"
         >

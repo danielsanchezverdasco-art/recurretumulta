@@ -312,10 +312,10 @@ export default function GlosarioMultaPage() {
 
         <h2 className="text-2xl font-bold mt-10 mb-4">Sigue aprendiendo</h2>
         <ul className="list-disc pl-6 space-y-2 text-slate-600 mb-12">
-          <li><Link to="/buscador-codigo-multa" className="text-red-600 hover:underline font-medium">Buscador de infracciones por código</Link>: copia el precepto de tu multa y descubre el importe, los puntos y la base legal.</li>
-          <li><Link to="/guias/vicios-forma" className="text-red-600 hover:underline font-medium">Guía de vicios de forma</Link>: los defectos que más multas anulan.</li>
-          <li><Link to="/guias/prescripcion" className="text-red-600 hover:underline font-medium">Guía de prescripción y caducidad</Link>: cuándo la Administración llega tarde.</li>
-          <li><Link to="/metodologia" className="text-red-600 hover:underline font-medium">Nuestra metodología</Link>: cómo analiza la IA tu denuncia, con total transparencia.</li>
+          <li><Link to="/buscador-codigo-multa/" className="text-red-600 hover:underline font-medium">Buscador de infracciones por código</Link>: copia el precepto de tu multa y descubre el importe, los puntos y la base legal.</li>
+          <li><Link to="/guias/vicios-forma/" className="text-red-600 hover:underline font-medium">Guía de vicios de forma</Link>: los defectos que más multas anulan.</li>
+          <li><Link to="/guias/prescripcion/" className="text-red-600 hover:underline font-medium">Guía de prescripción y caducidad</Link>: cuándo la Administración llega tarde.</li>
+          <li><Link to="/metodologia/" className="text-red-600 hover:underline font-medium">Nuestra metodología</Link>: cómo analiza la IA tu denuncia, con total transparencia.</li>
         </ul>
 
               <figure className="my-8">

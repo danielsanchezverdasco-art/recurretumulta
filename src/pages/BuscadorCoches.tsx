@@ -618,7 +618,7 @@ function TarjetaAnuncio({ a, fichaId }: { a: Anuncio; fichaId?: string }) {
         <div className="flex gap-2 mt-auto pt-2">
           {fichaId && (
             <Link
-              to={`/coches/${fichaId}`}
+              to={`/coches/${fichaId}/`}
               className="flex-1 text-center text-sm font-bold text-red-700 bg-red-50 hover:bg-red-100 rounded-xl px-3 py-2.5 transition"
             >
               Ver ficha
@@ -690,7 +690,7 @@ function SeccionRecomendacion({
                   <span className="ml-auto flex gap-2">
                     {fichaId && (
                       <Link
-                        to={`/coches/${fichaId}`}
+                        to={`/coches/${fichaId}/`}
                         className="text-xs font-bold text-red-700 bg-red-50 hover:bg-red-100 rounded-lg px-3 py-2 transition"
                       >
                         Ver ficha
@@ -1007,7 +1007,7 @@ function BuscadorCochesContenido() {
       <main className="max-w-6xl mx-auto px-4 py-8 md:py-12">
         <nav className="text-xs text-gray-500 mb-4" aria-label="Migas de pan">
           <Link to="/" className="hover:underline">Inicio</Link> ·{" "}
-          <Link to="/herramientas" className="hover:underline">Herramientas</Link> ·{" "}
+          <Link to="/herramientas/" className="hover:underline">Herramientas</Link> ·{" "}
           <span className="text-gray-700">Buscador de coches</span>
         </nav>
 

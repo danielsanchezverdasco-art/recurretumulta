@@ -60,7 +60,7 @@ Al ser un cuadriciclo pesado (L7e), en Europa se puede conducir **desde los 16 a
 
 <img src=/media/liux-big-salon-paris-2026-fabrica.webp alt=Fábrica moderna en España ensamblando pequeños vehículos eléctricos>
 
-París 2026 se está convirtiendo en el escaparate del coche eléctrico asequible: además del Liux BIG, allí debutan el <a href=/blog/citroen-2cv-electrico-2026-paris>2CV eléctrico de Citroën</a> y el <a href=/blog/xpeng-g9l-debut-paris-2026>XPeng G9L</a>. Si buscas comparar eléctricos que ya están a la venta, entra en nuestro <a href=/comparador-coches>comparador de coches</a>.
+París 2026 se está convirtiendo en el escaparate del coche eléctrico asequible: además del Liux BIG, allí debutan el <a href=/blog/citroen-2cv-electrico-2026-paris/>2CV eléctrico de Citroën</a> y el <a href=/blog/xpeng-g9l-debut-paris-2026/>XPeng G9L</a>. Si buscas comparar eléctricos que ya están a la venta, entra en nuestro <a href=/comparador-coches/>comparador de coches</a>.
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
 `,
@@ -135,7 +135,7 @@ En la Nude y la Nude Lite, sí: son paquetes de 72V/40Ah extraíbles. En la Eon,
 ### ¿Dónde se mantienen las Velca?
 La marca anuncia más de 80 puntos de venta y 350 talleres asociados en España, muchos integrados en la red FeuVert.
 
-Compara las tres cara a cara en nuestro <a href=/comparador-motos?a=velca-eon-2026-ficha-tecnica-precio&b=velca-nude-2026-ficha-tecnica-precio>comparador de motos</a>, con sus fichas detalladas: <a href=/motos/velca-nude-2026-ficha-tecnica-precio>ficha de la Velca Nude</a>, <a href=/motos/velca-nude-lite-2026-ficha-tecnica-precio>ficha de la Nude Lite</a> y <a href=/motos/velca-eon-2026-ficha-tecnica-precio>ficha de la Velca Eon</a>. Y si buscas otra eléctrica con pedigrí, lee el <a href=/blog/honda-wn7-electrica-precio-espana-15000>análisis de la Honda WN7</a>.
+Compara las tres cara a cara en nuestro <a href=/comparador-motos/?a=velca-eon-2026-ficha-tecnica-precio&b=velca-nude-2026-ficha-tecnica-precio>comparador de motos</a>, con sus fichas detalladas: <a href=/motos/velca-nude-2026-ficha-tecnica-precio/>ficha de la Velca Nude</a>, <a href=/motos/velca-nude-lite-2026-ficha-tecnica-precio/>ficha de la Nude Lite</a> y <a href=/motos/velca-eon-2026-ficha-tecnica-precio/>ficha de la Velca Eon</a>. Y si buscas otra eléctrica con pedigrí, lee el <a href=/blog/honda-wn7-electrica-precio-espana-15000/>análisis de la Honda WN7</a>.
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
 `,

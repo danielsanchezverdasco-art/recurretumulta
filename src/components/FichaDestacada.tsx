@@ -83,7 +83,7 @@ export default function FichaDestacada({ coche }: { coche: CocheComparador }) {
           )}
           <div className="mt-4 grid gap-2.5">
             <Link
-              to={`/coches/${coche.id}`}
+              to={`/coches/${coche.id}/`}
               className="inline-flex items-center justify-center gap-2 rounded-xl bg-red-600 px-4 py-3 text-sm font-black text-white transition hover:bg-red-700"
             >
               Ver ficha técnica completa

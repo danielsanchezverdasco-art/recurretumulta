@@ -60,7 +60,7 @@ El concept se ha diseñado **íntegramente en Renault** (a diferencia del R17 sh
 
 El veredicto honesto: este coche **no se va a fabricar**. Su destino es el futuro **museo Renault Collections de Flins**, cuya apertura está prevista dentro de unos 15 meses. Y quizá sea lo más inteligente: un concept así no necesita venderse, necesita **generar deseo**. La pregunta interesante es otra: ¿qué le enseña a un futuro deportivo eléctrico asequible de Renault? Que la **propulsión trasera** puede volver al segmento popular, algo que hoy casi nadie ofrece por menos de 40.000 €.
 
-Si te gusta la filosofía, lo más parecido que puedes comprar hoy es el <a href=/blog/renault-5-turbo-3e-2026-precio-ficha-tecnica>Renault 5 Turbo 3E</a>, y la gama eléctrica asequible la tienes en el <a href=/blog/renault-5-e-tech-40-kwh-2026-precio-ficha-tecnica>Renault 5 E-Tech</a>. El concept comparte salón con el <a href=/blog/renault-e-space-concept-paris-2026>Renault E-Space Concept</a>, la otra gran apuesta de la marca en París. <a href=/comparador-coches>Compáralos con sus rivales en el comparador de coches</a>.
+Si te gusta la filosofía, lo más parecido que puedes comprar hoy es el <a href=/blog/renault-5-turbo-3e-2026-precio-ficha-tecnica/>Renault 5 Turbo 3E</a>, y la gama eléctrica asequible la tienes en el <a href=/blog/renault-5-e-tech-40-kwh-2026-precio-ficha-tecnica/>Renault 5 E-Tech</a>. El concept comparte salón con el <a href=/blog/renault-e-space-concept-paris-2026/>Renault E-Space Concept</a>, la otra gran apuesta de la marca en París. <a href=/comparador-coches/>Compáralos con sus rivales en el comparador de coches</a>.
 
 ## Preguntas frecuentes
 
@@ -117,7 +117,7 @@ El símbolo histórico de Gordini. En el concept deja de ser decoración y pasa 
 
 ## El análisis: ¿dónde encaja el B03?
 
-El B03 se coloca justo debajo del <a href=/blog/leapmotor-b03x-2026-precio-ficha-tecnica>B03X</a>, el SUV que ya se vende en España desde **24.264 €** con 176 CV y 292 km de autonomía (datos de nuestra <a href=/coches/leapmotor-b03x-2026-precio-ficha-tecnica>ficha del B03X</a>). Si Leapmotor mantiene su política de precios agresiva, el B03 —más pequeño y ligero— debería partir **por debajo** de esa cifra, lo que lo pondría directamente contra el <a href=/blog/renault-5-e-tech-40-kwh-2026-precio-ficha-tecnica>Renault 5 E-Tech</a> (desde 26.821 €) y el <a href=/blog/volkswagen-id-polo-2026-precio-ficha-tecnica>Volkswagen ID. Polo</a>.
+El B03 se coloca justo debajo del <a href=/blog/leapmotor-b03x-2026-precio-ficha-tecnica/>B03X</a>, el SUV que ya se vende en España desde **24.264 €** con 176 CV y 292 km de autonomía (datos de nuestra <a href=/coches/leapmotor-b03x-2026-precio-ficha-tecnica/>ficha del B03X</a>). Si Leapmotor mantiene su política de precios agresiva, el B03 —más pequeño y ligero— debería partir **por debajo** de esa cifra, lo que lo pondría directamente contra el <a href=/blog/renault-5-e-tech-40-kwh-2026-precio-ficha-tecnica/>Renault 5 E-Tech</a> (desde 26.821 €) y el <a href=/blog/volkswagen-id-polo-2026-precio-ficha-tecnica/>Volkswagen ID. Polo</a>.
 
 Ojo con la letra pequeña: los **392 km están medidos en ciclo chino WLTC** y pendientes de homologación europea. El WLTC es más optimista que el WLTP que usamos en España, así que la cifra final europea será algo menor. Aun así, es un dato prometedor para un compacto de este precio.
 
@@ -132,7 +132,7 @@ Ojo con la letra pequeña: los **392 km están medidos en ciclo chino WLTC** y p
 
 ## Por qué importa para España
 
-Leapmotor es la prueba de que la ofensiva china ya no es futuro: es presente. Con el B03X vendiéndose, el <a href=/blog/leapmotor-b05-2026-precio-ficha-tecnica>B05</a> y el <a href=/blog/leapmotor-c10-reev-2025-precio-ficha-tecnica>C10 REEV</a> completando la gama, y la actividad industrial en marcha dentro del grupo Stellantis, el B03 llegaría con **etiqueta Cero de la DGT** automática y una red de distribución que ya existe. El segmento de los compactos eléctricos asequibles —R5, ID. Polo, B03— va a ser la batalla del año en España. <a href=/comparador-coches>Compáralos en el comparador de coches</a>.
+Leapmotor es la prueba de que la ofensiva china ya no es futuro: es presente. Con el B03X vendiéndose, el <a href=/blog/leapmotor-b05-2026-precio-ficha-tecnica/>B05</a> y el <a href=/blog/leapmotor-c10-reev-2025-precio-ficha-tecnica/>C10 REEV</a> completando la gama, y la actividad industrial en marcha dentro del grupo Stellantis, el B03 llegaría con **etiqueta Cero de la DGT** automática y una red de distribución que ya existe. El segmento de los compactos eléctricos asequibles —R5, ID. Polo, B03— va a ser la batalla del año en España. <a href=/comparador-coches/>Compáralos en el comparador de coches</a>.
 
 ## Preguntas frecuentes
 
@@ -149,7 +149,7 @@ Sin fecha oficial. Se ha presentado por primera vez fuera de China en el Salón 
 Sí: el B03 es un hatchback compacto de 4,20 m, mientras que el B03X es un SUV. Comparten filosofía, pero atacan segmentos distintos.
 
 ### ¿Tendrá etiqueta Cero de la DGT?
-Al ser 100 % eléctrico, llevará la **etiqueta Cero**, con acceso libre a las Zonas de Bajas Emisiones. Más detalles en nuestra <a href=/guias/zbe>guía de ZBE</a>.
+Al ser 100 % eléctrico, llevará la **etiqueta Cero**, con acceso libre a las Zonas de Bajas Emisiones. Más detalles en nuestra <a href=/guias/zbe/>guía de ZBE</a>.
 
 ### ¿Por qué vende tanto Leapmotor en España?
 Precio agresivo, gama eléctrica completa y el respaldo industrial de Stellantis: 1.705 matriculaciones en septiembre, cinco veces más que hace un año.
@@ -199,13 +199,13 @@ Precio agresivo, gama eléctrica completa y el respaldo industrial de Stellantis
 
 ## El análisis: Stellantis contra Stellantis
 
-Aquí está lo interesante: el Grizzly comparte la **plataforma Smart Car** con el <a href=/blog/opel-frontera-electric-44kwh-2025-precio-ficha-tecnica>Opel Frontera</a> y el Citroën C3 Aircross. Es decir, **Stellantis va a competir contra sí misma** en el mismo segmento y con la misma base técnica. La diferenciación será de diseño, equipamiento y precio —y ahí Fiat juega con ventaja histórica: es la marca del coche popular italiano.
+Aquí está lo interesante: el Grizzly comparte la **plataforma Smart Car** con el <a href=/blog/opel-frontera-electric-44kwh-2025-precio-ficha-tecnica/>Opel Frontera</a> y el Citroën C3 Aircross. Es decir, **Stellantis va a competir contra sí misma** en el mismo segmento y con la misma base técnica. La diferenciación será de diseño, equipamiento y precio —y ahí Fiat juega con ventaja histórica: es la marca del coche popular italiano.
 
-El rival a batir es el <a href=/blog/dacia-duster-2026-mild-hybrid-140-precio-ficha-tecnica>Dacia Duster</a>, la referencia del SUV asequible en España. Si Fiat cumple el precio estimado (~20.000 €) y la versión eléctrica ronda los 400 km, el Grizzly tiene argumentos. La duda razonable: con tres marcas del mismo grupo vendiendo primos hermanos, ¿quién se queda con el cliente? <a href=/comparador-coches>Compáralos en el comparador de coches</a>.
+El rival a batir es el <a href=/blog/dacia-duster-2026-mild-hybrid-140-precio-ficha-tecnica/>Dacia Duster</a>, la referencia del SUV asequible en España. Si Fiat cumple el precio estimado (~20.000 €) y la versión eléctrica ronda los 400 km, el Grizzly tiene argumentos. La duda razonable: con tres marcas del mismo grupo vendiendo primos hermanos, ¿quién se queda con el cliente? <a href=/comparador-coches/>Compáralos en el comparador de coches</a>.
 
 <img src=/media/fiat-grizzly-fastback-paris-2026-oficial-2.webp alt=Fiat Grizzly Fastback, vista trasera en foto oficial de Fiat>
 
-Los dos modelos se presentaron en julio en el vídeo del **127º aniversario de Fiat**, con Olivier François (consejero delegado de Fiat) convirtiendo una oficina de registro italiana en una prueba improvisada. Se suman al <a href=/blog/fiat-grande-panda-hibrido-2025-precio-ficha-tecnica>Grande Panda</a> en la gama renovada de la marca, junto al <a href=/blog/fiat-600e-2025-precio-ficha-tecnica>600e</a> eléctrico. Hoy, en París, es su primera aparición pública ante el gran público.
+Los dos modelos se presentaron en julio en el vídeo del **127º aniversario de Fiat**, con Olivier François (consejero delegado de Fiat) convirtiendo una oficina de registro italiana en una prueba improvisada. Se suman al <a href=/blog/fiat-grande-panda-hibrido-2025-precio-ficha-tecnica/>Grande Panda</a> en la gama renovada de la marca, junto al <a href=/blog/fiat-600e-2025-precio-ficha-tecnica/>600e</a> eléctrico. Hoy, en París, es su primera aparición pública ante el gran público.
 
 ## Preguntas frecuentes
 
@@ -222,7 +222,7 @@ Gasolina 1.2 de 100 CV, microhíbrido de unos 145 CV y una versión **100 % elé
 Según la prensa, hasta **~400 km** con baterías de 44 o 54 kWh. Pendiente de confirmación oficial por parte de Fiat.
 
 ### ¿Qué etiqueta DGT llevará?
-El eléctrico llevará la **etiqueta Cero**; el microhíbrido, previsiblemente la **ECO**; el gasolina, la **C**. Confírmalo en nuestra <a href=/calculadora-etiqueta-dgt>calculadora de etiqueta DGT</a>.
+El eléctrico llevará la **etiqueta Cero**; el microhíbrido, previsiblemente la **ECO**; el gasolina, la **C**. Confírmalo en nuestra <a href=/calculadora-etiqueta-dgt/>calculadora de etiqueta DGT</a>.
 
 ### ¿El Grizzly es el sustituto de algún modelo Fiat?
 No directamente: es un segmento nuevo para la Fiat actual, el C-SUV familiar, donde la marca no competía. Se suma al Grande Panda en la gama renovada.
@@ -277,7 +277,7 @@ Hagamos las cuentas con los datos oficiales: con 6,89 kWh/100 km y 54,9 kWh úti
 
 ## ¿Qué llegará a los concesionarios?
 
-El Mission Efficiency es un **prototipo** y no se va a vender. Pero su tecnología no es ciencia ficción: usa el motor de 99 kW y la plataforma **MEB+ de tracción delantera** que estrenan el <a href=/blog/volkswagen-id-polo-2026-precio-ficha-tecnica>Volkswagen ID. Polo</a> y el futuro ID. Cross, y que comparte filosofía con el <a href=/blog/volkswagen-id3-2026-precio-ficha-tecnica>ID.3</a>. Es decir, parte de esta eficiencia —sobre todo la gestión térmica y la aerodinámica— acabará en los eléctricos asequibles de la marca. El <a href=/blog/volkswagen-id-tiguan-2027>próximo ID. Tiguan</a> también beberá de aquí. <a href=/comparador-coches>Compáralos en el comparador de coches</a>.
+El Mission Efficiency es un **prototipo** y no se va a vender. Pero su tecnología no es ciencia ficción: usa el motor de 99 kW y la plataforma **MEB+ de tracción delantera** que estrenan el <a href=/blog/volkswagen-id-polo-2026-precio-ficha-tecnica/>Volkswagen ID. Polo</a> y el futuro ID. Cross, y que comparte filosofía con el <a href=/blog/volkswagen-id3-2026-precio-ficha-tecnica/>ID.3</a>. Es decir, parte de esta eficiencia —sobre todo la gestión térmica y la aerodinámica— acabará en los eléctricos asequibles de la marca. El <a href=/blog/volkswagen-id-tiguan-2027/>próximo ID. Tiguan</a> también beberá de aquí. <a href=/comparador-coches/>Compáralos en el comparador de coches</a>.
 
 ## Preguntas frecuentes
 
@@ -355,9 +355,9 @@ Aquí la EDS se desmarca de las puras de cross: **aceite y filtro cada 2.500 km,
 
 ## ¿A por quién va?
 
-Directa a la **KTM 450 EXC-F** y la **Honda CRF450RX**: el mismo precio (~13.000 €), el mismo concepto. La baza de Ducati es el **desmodrómico** —ninguna rival lo ofrece— y una electrónica más completa de serie. Su hándicap: una red de concesionarios mucho más pequeña en el mundo del off-road y una fiabilidad a largo plazo por demostrar en este segmento. Tienes la ficha completa en nuestra <a href=/motos/ducati-desmo450-eds-2026-precio-ficha-tecnica>ficha de la Desmo450 EDS</a> y puedes compararla en el <a href=/comparador-motos>comparador de motos</a>.
+Directa a la **KTM 450 EXC-F** y la **Honda CRF450RX**: el mismo precio (~13.000 €), el mismo concepto. La baza de Ducati es el **desmodrómico** —ninguna rival lo ofrece— y una electrónica más completa de serie. Su hándicap: una red de concesionarios mucho más pequeña en el mundo del off-road y una fiabilidad a largo plazo por demostrar en este segmento. Tienes la ficha completa en nuestra <a href=/motos/ducati-desmo450-eds-2026-precio-ficha-tecnica/>ficha de la Desmo450 EDS</a> y puedes compararla en el <a href=/comparador-motos/>comparador de motos</a>.
 
-Si buscas algo más rutero de la marca, mira la <a href=/blog/ducati-desertx-2025-ficha-tecnica-precio>DesertX</a>; y si lo tuyo es el asfalto con una sola rueda en el aire, la <a href=/blog/ducati-hypermotard-698-mono-2024-ficha-tecnica-precio>Hypermotard 698 Mono</a> es su prima.
+Si buscas algo más rutero de la marca, mira la <a href=/blog/ducati-desertx-2025-ficha-tecnica-precio/>DesertX</a>; y si lo tuyo es el asfalto con una sola rueda en el aire, la <a href=/blog/ducati-hypermotard-698-mono-2024-ficha-tecnica-precio/>Hypermotard 698 Mono</a> es su prima.
 
 ## Preguntas frecuentes
 
@@ -432,7 +432,7 @@ Ojo a la letra pequeña: el mantenimiento es de **competición pura** —aceite 
 
 <img src=/media/ducati-desmo450-sm-2026-precio-ficha-tecnica-oficial-2.webp alt=Ducati Desmo450 SM 2026 tumbando en curva, foto oficial>
 
-Su rival natural es la **KTM 450 SMR**, la reina del segmento. La Ducati responde con el desmodrómico, mejor frenada de serie y una electrónica más refinada. Tienes la ficha completa en nuestra <a href=/motos/ducati-desmo450-sm-2026-precio-ficha-tecnica>ficha de la Desmo450 SM</a> y puedes compararla en el <a href=/comparador-motos>comparador de motos</a>. Si prefieres el campo, su hermana es la <a href=/blog/ducati-desmo450-eds-2026-precio-ficha-tecnica>Desmo450 EDS</a>; y para el asfalto diario, la <a href=/blog/ducati-monster-2026-quinta-generacion-precio-espana>Monster 2026</a>.
+Su rival natural es la **KTM 450 SMR**, la reina del segmento. La Ducati responde con el desmodrómico, mejor frenada de serie y una electrónica más refinada. Tienes la ficha completa en nuestra <a href=/motos/ducati-desmo450-sm-2026-precio-ficha-tecnica/>ficha de la Desmo450 SM</a> y puedes compararla en el <a href=/comparador-motos/>comparador de motos</a>. Si prefieres el campo, su hermana es la <a href=/blog/ducati-desmo450-eds-2026-precio-ficha-tecnica/>Desmo450 EDS</a>; y para el asfalto diario, la <a href=/blog/ducati-monster-2026-quinta-generacion-precio-espana/>Monster 2026</a>.
 
 ## Preguntas frecuentes
 
