@@ -69410,7 +69410,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "stelato-g9-erev-2026-precio-ficha-tecnica",
-    "title": "Stelato G9 EREV: 1.300 km y 586 CV por 55.900 €",
+    "title": "Stelato G9 EREV: 1.300 km y 594 CV por 55.900 €",
     "excerpt": "El Stelato G9 EREV: todoterreno con extensor de autonomía, 405 km eléctricos, más de 1.300 km totales y 594 CV desde ~55.900 €.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
