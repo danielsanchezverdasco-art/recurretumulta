@@ -14,6 +14,7 @@ import { AVATAR_COSA, AVATAR_COSA_COLGANDO, AVATAR_COSA_LEGENDARIO, POSES_COSA }
 import { useCazaMonos, fijoId, MONOS_OBJETIVO } from "@/components/caza-monos/CazaMonosContext";
 import MonoEscondido from "@/components/caza-monos/MonoEscondido";
 import RankingCazadores from "@/components/caza-monos/RankingCazadores";
+import ContadorVivos from "@/components/caza-monos/ContadorVivos";
 import { GANADORES, PREMIOS_ENTREGADOS, generarCodigoReclamo, enlaceReclamoWhatsApp, WHATSAPP_RECLAMO } from "@/components/caza-monos/datos";
 import { useQuery } from "convex/react";
 import { api } from "@/convex/_generated/api.js";
@@ -346,6 +347,7 @@ function JuegoMonosPage() {
               El 1º en cazar los 350 gana <span className="font-black text-white">1.500 € por transferencia + 1 año de recursos ilimitados</span>.
               Del 2º al 50º, 1 año de recursos ilimitados. ¿Encuentras el dorado? <span className="font-black text-amber-300">1 año de recursos gratis</span>.
             </p>
+            <div className="mt-4 h-7 text-amber-200"><ContadorVivos /></div>
             <div className="mt-6 flex flex-col sm:flex-row items-center justify-center gap-3">
               <a
                 href="#como-se-juega"
@@ -374,8 +376,7 @@ function JuegoMonosPage() {
             <h2 className="text-2xl font-black text-gray-900 mb-5 text-center">Cómo se juega</h2>
             <div className="grid gap-4 sm:grid-cols-3">
               {[
-                { icon: Navigation, paso: "1", titulo: "Te faltan <span className="font-black text-gray-800 tabular-nums">{objetivo - total}</span> monos (o encuentra el dorado).
-          Sigue navegando", texto: "Los monos están escondidos en artículos, fichas, comparadores y herramientas." },
+                { icon: Navigation, paso: "1", titulo: "Navega por la web", texto: "Los monos están escondidos en artículos, fichas, comparadores y herramientas." },
                 { icon: MousePointerClick, paso: "2", titulo: "Haz clic en cada mono", texto: "Al hacer clic desaparece y suma 1 a tu contador del menú superior." },
                 { icon: Trophy, paso: "3", titulo: "Llega a 350 y reclama", texto: "Genera tu código y envíalo por WhatsApp. ¡El primero gana 1.500 €!" },
               ].map((s) => (

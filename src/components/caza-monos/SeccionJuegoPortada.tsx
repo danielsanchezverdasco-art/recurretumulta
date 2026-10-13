@@ -3,6 +3,7 @@
 // CTA "Jugar" → /juego-monos, con el mono colgando como decoración.
 // Compacta a propósito: no rompe el ritmo vertical de la portada.
 import { Link } from "react-router-dom";
+import ContadorVivos from "./ContadorVivos";
 import { AVATAR_COSA_COLGANDO } from "@/lib/cosa";
 
 export default function SeccionJuegoPortada() {
@@ -27,6 +28,7 @@ export default function SeccionJuegoPortada() {
         <p className="mt-1 text-sm text-gray-600 leading-relaxed">
           Hay 350 monos escondidos por la web. El 1º en cazar los 350 gana 1.500 € + 1 año de recursos ilimitados; del 2º al 50º, 1 año de recursos ilimitados. Y quien encuentre el mono dorado gana 1 año de recursos gratis.
         </p>
+        <div className="mt-2 h-5 text-gray-800"><ContadorVivos compacto /></div>
         <Link
           to="/juego-monos/"
           className="mt-3 inline-block rounded-full bg-gradient-to-r from-amber-500 to-red-500 text-white font-black text-sm px-6 py-2.5 shadow-lg hover:brightness-110 transition cursor-pointer"
