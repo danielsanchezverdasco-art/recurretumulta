@@ -19,3 +19,11 @@ describe("normativa de tráfico", () => {
     expect(evaluarVelocidad({ velocidadDetectada: "No aplica", limiteVia: "50" }).datosFaltantes).toContain("velocidad medida por el cinemómetro");
   });
 });
+
+import { evaluarPrescripcion } from "./normativaTrafico";
+import { test } from "vitest";
+test("prescripción leve 3 meses", () => {
+  expect(evaluarPrescripcion({ fecha: "03/03/2026", fechaNotificacion: "15/07/2026", calificacion: "LEVE" }).motivo).toMatch(/3 meses/);
+  expect(evaluarPrescripcion({ fecha: "14/08/2026", fechaNotificacion: "02/09/2026", calificacion: "GRAVE" }).linea).toMatch(/6 meses/);
+  expect(evaluarPrescripcion({ fecha: "14/08/2026", fechaNotificacion: "No consta" }).falta).toMatch(/notificación/);
+});

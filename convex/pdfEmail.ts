@@ -2,7 +2,7 @@
 
 // Genera el PDF del recurso comprado y lo envía por email adjunto tras el pago.
 import escapeHtml from "escape-html";
-import jsPDF from "jspdf";
+import { jsPDF } from "jspdf";
 import { Resend } from "resend";
 import { v } from "convex/values";
 import { internalAction } from "./_generated/server";
@@ -70,7 +70,7 @@ function generarPdfBase64(carta: string, datos: DatosRecurso, logoBase64: string
   doc.setFontSize(9);
   doc.setTextColor(255, 255, 255);
   doc.setFont("helvetica", "bold");
-  doc.text("RECURSO DE REPOSICIÓN — DGT", 105, 8, { align: "center" });
+  doc.text(/^\s*\S*\s*ESCRITO DE ALEGACIONES|ALEGACIONES/i.test(carta.slice(0, 600)) ? "ESCRITO DE ALEGACIONES" : "RECURSO DE REPOSICIÓN", 105, 8, { align: "center" });
   y = 20;
 
   // Logo de RecurreTuMulta.online junto al título
@@ -81,7 +81,7 @@ function generarPdfBase64(carta: string, datos: DatosRecurso, logoBase64: string
   doc.setFontSize(16);
   doc.setFont("helvetica", "bold");
   doc.setTextColor(220, 38, 38);
-  doc.text("RECURSO DE REPOSICIÓN", titleX, y + 6);
+  doc.text(/ALEGACIONES/i.test(carta.slice(0, 600)) ? "ESCRITO DE ALEGACIONES" : "RECURSO DE REPOSICIÓN", titleX, y + 6);
   y += 12;
   addText(`Expediente: ${datos.expediente}`, 10, false, [100, 100, 100]);
   y += 4;

@@ -1,25 +1,25 @@
-import { evaluarVelocidad, PLAZOS } from "./lib/normativaTrafico";
 "use node";
 /// <reference types="node" />
+import { evaluarVelocidad, evaluarPrescripcion, PLAZOS } from "./lib/normativaTrafico";
 
 import { v } from "convex/values";
 import OpenAI from "openai";
 import { action } from "./_generated/server";
 import { ConvexError } from "convex/values";
 import { internal, api } from "./_generated/api";
-import { renderPdfFirstPageToJpegBase64 } from "./lib/pdfToImage";
+import { renderPdfFirstPageToJpegBase64, reducirImagenBase64 } from "./lib/pdfToImage";
 import { getUserFromSession } from "./authSimple";
 
 const MODEL_TEXT   = "openai/gpt-oss-120b";
 const MODEL_VISION = "qwen/qwen3.8-27b";
 
 const AI_ANALYSIS_DAILY_LIMIT = 10;
-const MAX_RETRY_ATTEMPTS = 2;
+const MAX_RETRY_ATTEMPTS = 1;
 const RETRY_DELAY_MS = 2000;
 // La cuenta de Groq tiene un límite estricto de tokens de salida por minuto (OTPM).
 // Al recibir un 429 por ese límite, hay que esperar mucho más (para caer en el
 // siguiente minuto) en vez del reintento corto normal.
-const RATE_LIMIT_RETRY_DELAY_MS = 21000;
+const RATE_LIMIT_RETRY_DELAY_MS = 8000;
 // Máximo de tokens que puede generar cada respuesta. gpt-oss-120b es un modelo
 // "razonador": el pensamiento interno oculto consume el mismo presupuesto que
 // la respuesta visible. Con un límite bajo, el modelo agotaba todo el
@@ -41,8 +41,10 @@ function groq(): OpenAI {
     baseURL: "https://api.groq.com/openai/v1",
     apiKey,
     // 12/10/2026: sin timeout una llamada colgada dejaba el analizador girando sin fin.
-    timeout: 60_000,
-    maxRetries: 1,
+    // 13/10/2026: presupuesto total < 100 s (timeout del cliente). Sin reintentos
+    // internos del SDK; los controla withRetry según el tiempo que quede.
+    timeout: 40_000,
+    maxRetries: 0,
   });
 }
 
@@ -84,10 +86,26 @@ async function withRetry<T>(fn: () => Promise<T>, attempts = MAX_RETRY_ATTEMPTS)
         throw err;
       }
       if (i < attempts) {
-        const delay = isRateLimitError(err) ? RATE_LIMIT_RETRY_DELAY_MS : RETRY_DELAY_MS;
+        let delay = isRateLimitError(err) ? RATE_LIMIT_RETRY_DELAY_MS : RETRY_DELAY_MS;
+        if (isRateLimitError(err)) {
+          const ra = Number((err as InstanceType<typeof OpenAI.APIError>).headers?.get?.("retry-after"));
+          if (Number.isFinite(ra) && ra > 0) delay = Math.min(20_000, Math.ceil(ra * 1000) + 1000);
+        }
         await new Promise((res) => setTimeout(res, delay));
       }
     }
+  }
+  if (isRateLimitError(lastError)) {
+    throw new ConvexError({
+      code: "GROQ_SATURADO",
+      message: "El servicio de análisis está saturado ahora mismo. Espera un minuto y vuelve a intentarlo.",
+    });
+  }
+  if (lastError instanceof OpenAI.APIConnectionTimeoutError || lastError instanceof OpenAI.APIConnectionError) {
+    throw new ConvexError({
+      code: "GROQ_TIMEOUT",
+      message: "El análisis ha tardado demasiado. Vuelve a intentarlo en unos segundos.",
+    });
   }
   throw lastError;
 }
@@ -97,6 +115,8 @@ type AnalisisRaw = {
   tipoRadar?: "fijo" | "movil" | "desconocido";
   tipoDocumento?: "denuncia" | "resolucion" | "desconocido";
   fechaNotificacion?: string;
+  calificacion?: string;
+  organo?: string;
   datosFaltantes?: string[];
   fundamentos?: string[];
   viabilidad: number;
@@ -123,13 +143,15 @@ Analiza la multa en 3 FASES, con lógica jurídica estricta, y devuelve SOLO JSO
   "defectos": [
     { "titulo": <nombre del defecto>, "descripcion": <1 frase explicativa>, "gravedad": <"alta"|"media"|"baja"> }
   ],
-  "provincia": <provincia exacta detectada en el documento, o "Desconocida">,
+  "organo": <órgano que denuncia o sanciona tal como figure (p. ej. "Jefatura Provincial de Tráfico de Madrid", "Alcaldía de Sevilla"), o "No consta">,
+  "provincia": <provincia que figure escrita en el documento (o la del ayuntamiento/jefatura emisor), o "Desconocida"; no la deduzcas de nombres de carreteras>,
   "expediente": <número de expediente exacto del documento, o "No encontrado">,
   "importe": <importe exacto en euros del documento, p.ej. "200€", o "No especificado">,
   "infraccion": <descripción COMPLETA de la infracción tal como aparece en el documento, incluyendo TODOS los valores numéricos (velocidad detectada Y límite de la vía si es radar)>,
   "fecha": <fecha exacta de la infracción del documento, o "No especificada">,
   "tipoDocumento": <"denuncia" si es el boletín/notificación de denuncia, "resolucion" si es la resolución sancionadora, o "desconocido">,
-  "fechaNotificacion": <fecha de notificación tal como aparece, o "No consta">,
+  "fechaNotificacion": <fecha de notificación DE LA DENUNCIA tal como aparece, o "No consta">,
+  "calificacion": <"leve" | "grave" | "muy grave" según figure en el documento, o "No consta">,
   "tipoRadar": <"fijo" | "movil" | "desconocido" según el medio de captación que figure>,
   "datosFaltantes": [<datos necesarios que NO aparecen en el documento>],
   "matricula": <matrícula del vehículo tal como aparece, o "No encontrada">,
@@ -143,6 +165,15 @@ REGLAS DE HONESTIDAD (obligatorias):
 - NUNCA inventes datos: si un dato no aparece en el documento escribe "No consta" y añádelo a "datosFaltantes".
 - Solo derecho español/UE de tráfico. En los defectos cita solo: LSV (RDL 6/2015) arts. 76, 77, 80, 81, 87, 89-91, 93-96, 112 y anexo IV; RGC arts. 48 y 50; Orden ICT/155/2020; Ley 39/2015 arts. 53 y 77; art. 24 CE.
 - No calcules márgenes de radar, tramos ni plazos: los calcula el sistema.
+- Mapa de artículos (úsalo para citar bien): art. 87.2 LSV contenido mínimo de toda denuncia (vehículo, identidad del denunciado SOLO "si se conoce", hecho con lugar/fecha/hora, identificación del agente o su nº profesional); art. 87.3 LSV lo que debe constar si se notifica en el acto (sanción, puntos, órgano competente y norma); art. 88 LSV valor probatorio de la denuncia del agente; arts. 89-91 LSV notificación (en el acto, causas para no detener, DEV/domicilio, BOE/TESTRA); art. 82 LSV responsables (titular/conductor); art. 112 LSV prescripción y caducidad (la calcula el sistema); anexo IV LSV y Orden ICT/155/2020 velocidad (los calcula el sistema). En multas municipales puedes citar además el artículo de la ordenanza que figure en el documento.
+- En denuncias por radar o cámara notificadas al titular es normal que no figure el nombre del conductor: NO es defecto (art. 87.2.b solo exige la identidad "si se conoce").
+- En denuncias captadas por cinemómetro fijo automático no hay agente presente: la falta de identificación de un agente NO es defecto.
+- Que la velocidad medida supere el límite es el hecho denunciado, no una contradicción.
+- Textos entre corchetes o de relleno (p. ej. "[nombre]") no son defectos.
+- Cada defecto debe terminar con la cita concreta entre paréntesis, p. ej. "(art. 89 LSV)". Si no puedes citar un artículo de la lista anterior, no es un defecto.
+- Si el documento es solo una FOTO o FOTOGRAMA del radar (no la notificación oficial), lo que no aparece en él (denunciado, precepto, órgano, importe, expediente, notificación) NO es un defecto: va a "datosFaltantes". Sin notificación, "defectos" puede ir vacío.
+- Las marcas como "prueba", "ficticio", "muestra" o "test" no son defectos jurídicos: ignóralas.
+- Los plazos (alegaciones, recurso, prescripción) no los escribas en "plazoRecurso": los pone el sistema.
 - La falta de mención del certificado metrológico en el boletín NO es por sí sola causa de nulidad: como mucho gravedad "media" (se puede pedir en alegaciones que se aporte al expediente).
 
 FASE 1 — EXTRACCIÓN LITERAL: copia expediente, importe, fecha, infracción, provincia, MATRÍCULA, velocidad detectada y límite de la vía EXACTAMENTE como aparecen. NO inventes ni completes datos. Si algo no se lee con claridad, escribe "No encontrado" / "No especificado" / "No aplica".
@@ -171,17 +202,20 @@ REGLA DE CONSISTENCIA: ante el mismo documento debes producir siempre los mismos
 
 REGLA DE COHERENCIA DATOS-DEFECTOS (obligatoria): cada defecto debe ser COHERENTE con los datos extraídos en la FASE 1. Está PROHIBIDO decir que falta un dato que SÍ extrajiste. Ejemplos: si "matricula" tiene un valor, no puedes listar "falta la matrícula" ni "vehículo no identificado"; si "fecha" tiene un valor, no digas que "falta la fecha"; si "expediente" tiene un valor, no digas que "falta el expediente". Antes de incluir cada defecto, comprueba que no contradice ningún campo extraído. Solo incluye defectos REALES que veas en el documento.`;
 
+// Subir CACHE_V cuando cambie la lógica del análisis: invalida la caché anterior.
+const CACHE_V = "v8";
 // ── Caché de análisis: la misma multa siempre devuelve el mismo resultado ───
 // (orden de Daniel 03/10/2026). Helpers puros; las queries/mutaciones viven en
 // convex/multasInterno.ts porque los ficheros "use node" solo admiten actions.
 function normalizarExpediente(exp: string | undefined): string {
   const n = (exp ?? "").toUpperCase().replace(/[\s.\-_/\\]+/g, "");
-  return n === "" || n === "NOENCONTRADO" ? "SIN_EXPEDIENTE" : n;
+  // "v3:" invalida los análisis guardados con la lógica anterior (13/10/2026).
+  return n === "" || n === "NOENCONTRADO" || n === "NOCONSTA" ? "SIN_EXPEDIENTE" : `${CACHE_V}:${n}`;
 }
 
 async function sha256hex(text: string): Promise<string> {
   const { createHash } = await import("node:crypto");
-  return createHash("sha256").update(text, "utf8").digest("hex");
+  return CACHE_V + ":" + createHash("sha256").update(text, "utf8").digest("hex");
 }
 
 // ── Extracción de texto de PDF con pdfjs-dist ─────────────────────────────────
@@ -211,29 +245,31 @@ async function extractPdfText(base64Data: string): Promise<string> {
 
 // ── Análisis con visión — Llama 4 Scout ──────────────────────────────────────
 async function analizarConVision(base64Data: string, mimeType: string): Promise<AnalisisRaw> {
+  // 13/10/2026: la visión SOLO transcribe; el análisis jurídico lo hace el modelo
+  // de texto (más fiable razonando) con las mismas reglas que un PDF.
+  const red = await reducirImagenBase64(base64Data);
+  if (red) { base64Data = red.data; mimeType = red.mime; }
   const client = groq();
   const response = await withRetry(() => client.chat.completions.create({
     model: MODEL_VISION,
     temperature: 0,
-    max_tokens: MAX_OUTPUT_TOKENS_ANALISIS,
+    max_tokens: 2500,
     messages: [
-      { role: "system", content: ANALISIS_SYSTEM },
+      { role: "system", content: "Eres un transcriptor. Copia LITERALMENTE todo el texto legible de la imagen (multa, notificación o fotograma de radar), línea a línea, sin resumir, sin interpretar y sin añadir nada. Si la imagen es una foto de radar, transcribe también los datos sobreimpresos (velocidad, límite, fecha, hora, lugar, nº de serie, tipo de cinemómetro) y la matrícula visible. Al final añade una línea: TIPO_IMAGEN: notificación | fotograma radar | otro. Si no hay texto legible, responde solo: ILEGIBLE." },
       {
         role: "user",
         content: [
-          { type: "text", text: "Lee esta multa de tráfico y analízala. Extrae TODOS los datos que veas." },
-          {
-            type: "image_url",
-            image_url: {
-              url: `data:${mimeType};base64,${base64Data}`,
-              detail: "high",
-            },
-          },
+          { type: "text", text: "Transcribe esta imagen." },
+          { type: "image_url", image_url: { url: `data:${mimeType};base64,${base64Data}`, detail: "high" } },
         ],
       },
     ],
   }));
-  return parseAnalisis(response.choices[0]?.message?.content ?? "{}");
+  const texto = (response.choices[0]?.message?.content ?? "").replace(/<think>[\s\S]*?<\/think>/gi, "").trim();
+  if (!texto || /^ILEGIBLE/i.test(texto) || texto.length < 25) {
+    throw new ConvexError({ code: "ANALISIS_VACIO", message: "No hemos podido leer el documento con seguridad. Sube una foto más nítida o el PDF original." });
+  }
+  return analizarConTexto(`(Transcripción automática de una imagen)\n${texto}`);
 }
 
 // ── Análisis con texto — Llama 3.3 70B ───────────────────────────────────────
@@ -242,6 +278,7 @@ async function analizarConTexto(texto: string): Promise<AnalisisRaw> {
   const response = await withRetry(() => client.chat.completions.create({
     model: MODEL_TEXT,
     temperature: 0,
+    response_format: { type: "json_object" },
     max_completion_tokens: MAX_OUTPUT_TOKENS_ANALISIS,
     reasoning_effort: REASONING_EFFORT_TEXT,
     messages: [
@@ -269,10 +306,9 @@ function parseAnalisis(raw: string): AnalisisRaw {
     limiteVia: "No aplica",
   };
   try {
-    const cleaned = raw
-      .replace(/^```(?:json)?\s*/i, "")
-      .replace(/\s*```\s*$/i, "")
-      .trim();
+    const sinThink = raw.replace(/<think>[\s\S]*?<\/think>/gi, "");
+    const ini = sinThink.indexOf("{"), fin = sinThink.lastIndexOf("}");
+    const cleaned = ini >= 0 && fin > ini ? sinThink.slice(ini, fin + 1) : sinThink.trim();
     const parsed = JSON.parse(cleaned) as Partial<AnalisisRaw>;
     return aplicarNormativa({ ...defaults, ...parsed });
   } catch {
@@ -292,13 +328,27 @@ function aplicarNormativa(a: AnalisisRaw): AnalisisRaw {
     tipoRadar: a.tipoRadar ?? "desconocido",
   });
   const esVelocidad = /\d/.test(a.velocidadDetectada ?? "") || /velocidad|km\/h/i.test(a.infraccion ?? "");
-  const defectos: Defecto[] = (a.defectos ?? []).slice(0, 4).map((d) =>
+  // Solo defectos con cita concreta (13/10/2026): sin artículo no es un motivo jurídico.
+  const CITA = /\b(art(?:ículo|\.)?\s*\d+|anexo\s+[IVX]+|Orden\s+ICT\/155\/2020|ordenanza)/i;
+  const esVel = /\d/.test(a.velocidadDetectada ?? "") || /velocidad|km\/h/i.test(a.infraccion ?? "");
+  // En velocidad, márgenes y tramos los calcula el sistema: fuera los "defectos" de la IA sobre la cifra.
+  const sobreCifra = (d: Defecto) => esVel && /velocidad|km\/h|margen|exceso|contradic|tramo/i.test(`${d.titulo} ${d.descripcion}`) && !/certificad|verificaci|metrol/i.test(`${d.titulo} ${d.descripcion}`);
+  const defectos: Defecto[] = (a.defectos ?? []).filter((d) => CITA.test(`${d.titulo} ${d.descripcion}`) && !sobreCifra(d)).slice(0, 4).map((d) =>
     /certificad|verificaci|metrol/i.test(`${d.titulo} ${d.descripcion}`) && d.gravedad === "alta" ? { ...d, gravedad: "media" } : d
   );
+  const presc = evaluarPrescripcion({ fecha: a.fecha, fechaNotificacion: a.fechaNotificacion, calificacion: a.calificacion });
+  // El cálculo manda: se quitan los defectos de prescripción que haya escrito la IA.
+  if (presc.motivo || presc.linea) for (let i = defectos.length - 1; i >= 0; i--) if (/prescrip/i.test(defectos[i].titulo)) defectos.splice(i, 1);
+  if (presc.motivo) {
+    defectos.unshift({ titulo: "Prescripción de la infracción", descripcion: presc.motivo, gravedad: "alta" });
+  }
   for (const m of hechos.motivosFuertes) defectos.unshift({ titulo: "Error en el cálculo de la sanción por velocidad", descripcion: m, gravedad: "alta" });
-  const faltan = [...new Set([...(a.datosFaltantes ?? []), ...(esVelocidad ? hechos.datosFaltantes : [])])];
+  const faltan = [...new Set([...(a.datosFaltantes ?? []), ...(esVelocidad ? hechos.datosFaltantes : []), ...(presc.falta ? [presc.falta] : [])])];
   const puntos = { alta: 20, media: 10, baja: 5 } as const;
-  const viabilidad = Math.min(95, 25 + defectos.reduce((n, d) => n + (puntos[d.gravedad as keyof typeof puntos] ?? 0), 0));
+  let viabilidad = Math.min(95, 25 + defectos.reduce((n, d) => n + (puntos[d.gravedad as keyof typeof puntos] ?? 0), 0));
+  // Motivos calculados con la norma (prescripción, importe o velocidad fuera de tramo): son objetivos.
+  const objetivos = (presc.motivo ? 1 : 0) + hechos.motivosFuertes.length;
+  if (objetivos) viabilidad = Math.max(viabilidad, 75);
   const tipoDoc = a.tipoDocumento ?? "desconocido";
   const plazo = tipoDoc === "resolucion" ? PLAZOS[1] : tipoDoc === "denuncia" ? PLAZOS[0] : `${PLAZOS[0]} ${PLAZOS[1]}`;
   return {
@@ -308,14 +358,23 @@ function aplicarNormativa(a: AnalisisRaw): AnalisisRaw {
     nivel: viabilidad >= 70 ? "alta" : viabilidad >= 40 ? "media" : "baja",
     plazoRecurso: plazo,
     datosFaltantes: faltan,
-    fundamentos: [...(esVelocidad ? hechos.lineas : []), plazo],
-    resumen: [a.resumen, faltan.length ? `Faltan datos para valorarlo del todo: ${faltan.join(", ")}.` : ""].filter(Boolean).join(" "),
+    fundamentos: [...(esVelocidad ? hechos.lineas : []), ...(presc.linea ? [presc.linea] : []), ...(presc.motivo ? [presc.motivo] : []), plazo, PLAZOS[2]],
+    // Resumen determinista (13/10/2026): coherente siempre con defectos y puntuación.
+    resumen: [
+      objetivos
+        ? `Hay un motivo objetivo para recurrir: ${defectos[0].titulo.toLowerCase()}.`
+        : defectos.length
+          ? `Hay ${defectos.length === 1 ? "un posible defecto" : `${defectos.length} posibles defectos`}: ${defectos.map((d) => d.titulo.toLowerCase()).join("; ")}.`
+          : "No vemos defectos formales en lo que muestra el documento: la multa parece correcta y recurrir tiene pocas posibilidades.",
+      esVelocidad && hechos.lineas[1] ? hechos.lineas[1] : "",
+      faltan.length ? `Faltan datos para valorarlo del todo: ${faltan.join(", ")}.` : "",
+    ].filter(Boolean).join(" "),
   };
 }
 
 // ── Genera el texto del recurso de reposición dado el análisis y los datos personales ──
 async function generarCartaMulta(
-  datos: { provincia: string; expediente: string; importe: string; infraccion: string; fecha: string; matricula: string; velocidadDetectada: string; limiteVia: string; tipoDocumento?: string; fechaNotificacion?: string; fundamentos?: string[] },
+  datos: { organo?: string; provincia: string; expediente: string; importe: string; infraccion: string; fecha: string; matricula: string; velocidadDetectada: string; limiteVia: string; tipoDocumento?: string; fechaNotificacion?: string; fundamentos?: string[] },
   defectos: Defecto[],
   personal: { nombreRecurrente?: string; dniRecurrente?: string; domicilioRecurrente?: string },
   hoy: string
@@ -332,7 +391,14 @@ ESTRUCTURA OBLIGATORIA:
 6. OTROSÍ si procede medida cautelar de suspensión
 7. PIE: lugar, fecha, firma
 
-Lenguaje jurídico formal. Datos desconocidos → "[COMPLETAR]". Primera persona.\nNo inventes artículos ni sentencias concretas: cita solo LSV (RDL 6/2015), RGC, Orden ICT/155/2020, Ley 39/2015 y art. 24 CE. Usa literalmente los HECHOS CALCULADOS que se te dan (márgenes, tramos y plazos).`;
+Lenguaje jurídico formal. Datos desconocidos → "[COMPLETAR]". Primera persona.
+DESTINATARIO: el órgano que figure en el documento (p. ej. "Jefatura Provincial de Tráfico de X" o "Alcaldía / Ayuntamiento de X"). NUNCA un juzgado. Si no consta: "[COMPLETAR: órgano que dictó el acto]".
+CITAS: PROHIBIDO citar sentencias, jurisprudencia o números de resolución. Cita SOLO estos artículos: LSV (RDL 6/2015) arts. 75, 76, 77, 80, 81, 82, 87, 88, 89, 90, 91, 93, 94, 95, 96, 112 y anexo IV; RGC arts. 48 y 50; Orden ICT/155/2020 (anexo III); Ley 39/2015 arts. 53, 77, 112, 117 y 124; CE arts. 24 y 25; y el artículo de la ordenanza municipal que figure en el documento.
+QUÉ DICE CADA UNO (cítalo solo para eso): LSV 75/76/77 = catálogo de infracciones leves/graves/muy graves; 80 = tipos de sanción; 81 = graduación de la multa; anexo IV = cuadro de velocidad; 82 = responsables; 87 = contenido obligatorio de la denuncia; 88 = valor probatorio de la denuncia del agente; 89-91 = notificación; 93-95 = procedimiento, alegaciones (20 días naturales) y pronto pago; 96 = recurso de reposición (1 mes); 112 = prescripción y caducidad. Ley 39/2015: 53 = derecho a acceder al expediente y obtener copia; 77 = prueba; 112 = recursos; 117 = suspensión de la ejecución; 124 = plazo de reposición. CE 24 = derecho de defensa y presunción de inocencia; 25 = legalidad sancionadora. RGC 48 = límites de velocidad; 50 = límites en vías urbanas.
+No atribuyas a un artículo exigencias que no contiene.
+No añadas alegaciones que no estén en DEFECTOS DETECTADOS o HECHOS CALCULADOS. Si no hay defectos, limita el escrito a pedir el expediente completo y la prueba (fotograma y certificado de verificación del cinemómetro si es radar) (art. 53 Ley 39/2015).
+FORMATO: texto plano, sin markdown (sin asteriscos, almohadillas ni líneas de guiones). Usa títulos en MAYÚSCULAS.
+Usa literalmente los HECHOS CALCULADOS que se te dan (márgenes, tramos y plazos).`;
 
   const recursoUserPrompt = `Recurrente: ${personal.nombreRecurrente ?? "[COMPLETAR: Nombre y apellidos]"}
 DNI/NIE: ${personal.dniRecurrente ?? "[COMPLETAR: DNI/NIE]"}
@@ -342,7 +408,8 @@ Expediente: ${datos.expediente}
 Importe sanción: ${datos.importe}
 Infracción: ${datos.infraccion}
 Fecha infracción: ${datos.fecha}
-Provincia/Órgano: ${datos.provincia}
+Órgano que figura en el documento (destinatario): ${datos.organo ?? "No consta"}
+Provincia: ${datos.provincia}
 Matrícula: ${datos.matricula}
 Velocidad detectada: ${datos.velocidadDetectada}
 Límite de la vía: ${datos.limiteVia}
@@ -362,6 +429,7 @@ Redacta el escrito completo con todos los argumentos jurídicos.`;
   const client = groq();
   const cartaResponse = await withRetry(() => client.chat.completions.create({
     model: MODEL_TEXT,
+    temperature: 0,
     max_completion_tokens: MAX_OUTPUT_TOKENS_CARTA,
     reasoning_effort: REASONING_EFFORT_TEXT,
     messages: [
@@ -370,7 +438,37 @@ Redacta el escrito completo con todos los argumentos jurídicos.`;
     ],
   }));
 
-  return cartaResponse.choices[0]?.message?.content ?? "";
+  return limpiarCarta(cartaResponse.choices[0]?.message?.content ?? "");
+}
+
+// 13/10/2026: quita markdown y cualquier línea con citas no permitidas
+// (sentencias inventadas o artículos fuera de la lista).
+const PERMITIDOS: Record<string, number[]> = {
+  lsv: [75, 76, 77, 80, 81, 82, 87, 88, 89, 90, 91, 93, 94, 95, 96, 112],
+  ley39: [53, 77, 112, 117, 124],
+  ce: [24, 25],
+  rgc: [48, 50],
+};
+function citaPermitida(linea: string): boolean {
+  if (/\b(STS|STC|SSTS|sentencia|jurisprudencia|Tribunal Supremo|Tribunal Constitucional|Audiencia)\b/i.test(linea)) return false;
+  const re = /art(?:ículo|ículos|s?\.)\s*(\d+)[^.;\n]{0,60}?(LSV|Seguridad Vial|RDL 6\/2015|Real Decreto Legislativo 6\/2015|Ley 39\/2015|Constituci|CE\b|RGC|Reglamento General de Circulaci)/gi;
+  for (const m of linea.matchAll(re)) {
+    const n = Number(m[1]); const ley = m[2].toLowerCase();
+    const lista = /39\/2015/.test(ley) ? PERMITIDOS.ley39 : /constituci|ce/.test(ley) ? PERMITIDOS.ce : /rgc|reglamento/.test(ley) ? PERMITIDOS.rgc : PERMITIDOS.lsv;
+    if (!lista.includes(n)) return false;
+  }
+  return true;
+}
+function limpiarCarta(t: string): string {
+  return t
+    .replace(/<think>[\s\S]*?<\/think>/gi, "")
+    .replace(/\*\*|__/g, "")
+    .replace(/^#{1,6}\s*/gm, "")
+    .split("\n")
+    .filter((l) => !/^\s*(-{3,}|\*{3,}|_{3,})\s*$/.test(l) && citaPermitida(l))
+    .join("\n")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
 }
 
 // ── ACTION PRINCIPAL ──────────────────────────────────────────────────────────
@@ -469,7 +567,7 @@ export const analizarMulta = action({
 
     // ── 2. Redactar recurso de reposición ─────────────────────────────────────
     const carta = await generarCartaMulta(
-      { provincia: analisis.provincia, expediente: analisis.expediente, importe: analisis.importe, infraccion: analisis.infraccion, fecha: analisis.fecha, matricula: analisis.matricula, velocidadDetectada: analisis.velocidadDetectada, limiteVia: analisis.limiteVia, tipoDocumento: analisis.tipoDocumento, fechaNotificacion: analisis.fechaNotificacion, fundamentos: analisis.fundamentos },
+      { organo: analisis.organo, provincia: analisis.provincia, expediente: analisis.expediente, importe: analisis.importe, infraccion: analisis.infraccion, fecha: analisis.fecha, matricula: analisis.matricula, velocidadDetectada: analisis.velocidadDetectada, limiteVia: analisis.limiteVia, tipoDocumento: analisis.tipoDocumento, fechaNotificacion: analisis.fechaNotificacion, fundamentos: analisis.fundamentos },
       analisis.defectos,
       { nombreRecurrente, dniRecurrente, domicilioRecurrente },
       hoy
@@ -527,6 +625,8 @@ export const regenerarCartaMulta = action({
     dniRecurrente: v.string(),
     domicilioRecurrente: v.string(),
     sessionToken: v.optional(v.string()),
+    // 13/10/2026: carta del análisis, por si no hay caché (multa sin expediente).
+    cartaBase: v.optional(v.string()),
   },
   handler: async (ctx, args): Promise<{ carta: string }> => {
     // Sin registro: la carta se regenera justo antes del pago, sin sesión.
@@ -536,7 +636,10 @@ export const regenerarCartaMulta = action({
       expedienteKey: normalizarExpediente(args.expediente),
     });
 
-    let carta = base;
+    let carta = base || args.cartaBase || "";
+    if (!carta.trim()) {
+      throw new ConvexError({ code: "SIN_CARTA", message: "No encontramos el borrador del recurso. Vuelve a analizar la multa." });
+    }
     carta = carta.replace(/\[COMPLETAR:\s*Nombre y apellidos\]/gi, args.nombreRecurrente);
     carta = carta.replace(/\[COMPLETAR:\s*DNI\/NIE\]/gi, args.dniRecurrente);
     carta = carta.replace(/\[COMPLETAR:\s*Domicilio completo\]/gi, args.domicilioRecurrente);

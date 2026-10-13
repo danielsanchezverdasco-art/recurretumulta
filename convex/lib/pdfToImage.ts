@@ -82,3 +82,22 @@ export async function renderPdfFirstPageToJpegBase64(base64Data: string): Promis
   const jpegBuffer = canvas.toBuffer("image/jpeg", 0.92);
   return jpegBuffer.toString("base64");
 }
+
+// 13/10/2026: reduce las fotos grandes (máx. 1280 px de lado) antes de enviarlas
+// a la IA. Menos tokens de entrada = menos 429 por el límite por minuto de Groq.
+// Si algo falla, devuelve la imagen original.
+export async function reducirImagenBase64(base64Data: string, maxLado = 1280): Promise<{ data: string; mime: string } | null> {
+  try {
+    const { createCanvas, loadImage } = await import("@napi-rs/canvas");
+    const img = await loadImage(Buffer.from(base64Data, "base64"));
+    const lado = Math.max(img.width, img.height);
+    if (lado <= maxLado) return null;
+    const k = maxLado / lado;
+    const c = createCanvas(Math.round(img.width * k), Math.round(img.height * k));
+    const ctx = c.getContext("2d");
+    ctx.drawImage(img, 0, 0, c.width, c.height);
+    return { data: c.toBuffer("image/jpeg", 88).toString("base64"), mime: "image/jpeg" };
+  } catch {
+    return null;
+  }
+}

@@ -32,6 +32,7 @@ import type * as empresas from "../empresas.js";
 import type * as empresasDb from "../empresasDb.js";
 import type * as http from "../http.js";
 import type * as lanzamientos from "../lanzamientos.js";
+import type * as lib_normativaTrafico from "../lib/normativaTrafico.js";
 import type * as lib_pdfToImage from "../lib/pdfToImage.js";
 import type * as misPagos from "../misPagos.js";
 import type * as multas from "../multas.js";
@@ -81,6 +82,7 @@ declare const fullApi: ApiFromModules<{
   empresasDb: typeof empresasDb;
   http: typeof http;
   lanzamientos: typeof lanzamientos;
+  "lib/normativaTrafico": typeof lib_normativaTrafico;
   "lib/pdfToImage": typeof lib_pdfToImage;
   misPagos: typeof misPagos;
   multas: typeof multas;

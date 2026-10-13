@@ -97,3 +97,27 @@ export const CITAS_PERMITIDAS = [
   "art. 90 LSV", "art. 91 LSV", "art. 93 LSV", "art. 94 LSV", "art. 95 LSV", "art. 96 LSV", "art. 112 LSV", "anexo IV LSV",
   "Orden ICT/155/2020", "art. 53 Ley 39/2015", "art. 77 Ley 39/2015", "art. 24 CE",
 ];
+
+/** dd/mm/aaaa (o d-m-aa) → Date UTC; null si no se puede leer. */
+export function leerFecha(s?: string): Date | null {
+  const m = (s ?? "").match(/(\d{1,2})[\/.\-](\d{1,2})[\/.\-](\d{2,4})/);
+  if (!m) return null;
+  const a = Number(m[3].length === 2 ? "20" + m[3] : m[3]);
+  const d = new Date(Date.UTC(a, Number(m[2]) - 1, Number(m[1])));
+  return d.getUTCDate() === Number(m[1]) ? d : null;
+}
+
+/** Prescripción (art. 112 LSV): 3 meses leves, 6 meses graves/muy graves, hasta la notificación de la denuncia. */
+export function evaluarPrescripcion(d: { fecha?: string; fechaNotificacion?: string; calificacion?: string }): { linea?: string; motivo?: string; falta?: string } {
+  const ini = leerFecha(d.fecha), fin = leerFecha(d.fechaNotificacion);
+  const cal = (d.calificacion ?? "").toLowerCase();
+  const meses = /muy grave|grave/.test(cal) ? 6 : /leve/.test(cal) ? 3 : null;
+  if (!ini || !fin) return { falta: !fin ? "fecha de notificación de la denuncia" : "fecha de la infracción" };
+  if (meses == null) return { falta: "calificación de la infracción (leve, grave o muy grave)" };
+  const limite = new Date(ini); limite.setUTCMonth(limite.getUTCMonth() + meses);
+  const f = (x: Date) => x.toISOString().slice(0, 10).split("-").reverse().join("/");
+  if (fin > limite) {
+    return { motivo: `La infracción (${f(ini)}) se notificó el ${f(fin)}, después de los ${meses} meses de prescripción de una infracción ${cal} (vencía el ${f(limite)}), salvo que conste en el expediente un acto interruptivo notificado antes (art. 112 LSV).` };
+  }
+  return { linea: `Notificación (${f(fin)}) dentro del plazo de prescripción de ${meses} meses (vence el ${f(limite)}; art. 112 LSV).` };
+}

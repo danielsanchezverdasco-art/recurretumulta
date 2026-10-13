@@ -431,6 +431,7 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
   const [creditosRestantes, setCreditosRestantes] = useState<number | null>(null);
 
   const analizarMulta = useAction(api.multas.analizarMulta);
+  const regenerarCarta = useAction(api.multas.regenerarCartaMulta);
   const createCheckoutSinRegistro = useAction(api.payments.createCheckoutSinRegistro);
   const usarCreditoPack = async (_: any) => ({ ok: false, carta: "", restantes: 0 }); // TODO: restaurar
 
@@ -485,18 +486,35 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
         toast.success(t("toast.done"));
       } else {
         const producto = dialogMode === "pdf_pack_10" ? "pdf_pack_10" : "pdf_unico";
+        // 13/10/2026: el checkout exige la carta (antes se mandaba vacía y el pago fallaba siempre).
+        const d = result.datosMulta;
+        const cartaBase = result.carta ?? "";
+        let carta: string;
+        try {
+          ({ carta } = await regenerarCarta({
+            provincia: d.provincia, expediente: d.expediente, importe: d.importe, infraccion: d.infraccion, fecha: d.fecha,
+            defectos: result.defectos.map((x) => ({ titulo: x.titulo, descripcion: x.descripcion, gravedad: x.gravedad })),
+            nombreRecurrente: nombre.trim(), dniRecurrente: dni.trim().toUpperCase(), domicilioRecurrente: domicilio.trim(),
+            cartaBase,
+          }));
+        } catch {
+          carta = cartaBase
+            .replace(/\[COMPLETAR:\s*Nombre y apellidos\]/gi, nombre.trim())
+            .replace(/\[COMPLETAR:\s*DNI\/NIE\]/gi, dni.trim().toUpperCase())
+            .replace(/\[COMPLETAR:\s*Domicilio( completo)?\]/gi, domicilio.trim());
+        }
         const { url } = await createCheckoutSinRegistro({
           email: email.trim(),
           nombre: nombre.trim(),
           dni: dni.trim().toUpperCase(),
           domicilio: domicilio.trim(),
           tipo: "multa",
-          importe: "",
-          carta: "",
-          expediente: "",
-          infraccion: "",
-          fecha: "",
-          plazoRecurso: "",
+          importe: d.importe,
+          carta,
+          expediente: d.expediente,
+          infraccion: d.infraccion,
+          fecha: d.fecha,
+          plazoRecurso: d.plazoRecurso,
         });
         window.location.href = url;
       }
