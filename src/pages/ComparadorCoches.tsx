@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useRef, useState, type ReactNode } from "react";
 import { Link, useSearchParams } from "react-router-dom";
-import { useSeo } from "@/hooks/use-seo.ts";
+import { useSeo, canonicalComparador } from "@/hooks/use-seo.ts";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 import FlipCard from "@/components/FlipCardSimple.tsx";
@@ -337,7 +337,7 @@ export default function ComparadorCochesPage() {
     title: "Comparador coches 2026: elige y decide antes de comprar",
     description:
       "Compara dos coches lado a lado: ficha técnica, precio, autonomía, maletero, pros y contras, y vídeo. El comparador para decidir qué coche comprar en 2026.",
-    canonical: "/comparador-coches",
+    canonical: canonicalComparador("/comparador-coches"),
     schema: jsonLd,
   });
 

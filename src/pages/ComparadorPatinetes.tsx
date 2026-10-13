@@ -10,7 +10,7 @@ import {
   Weight,
   Zap,
 } from "lucide-react";
-import { useSeo } from "@/hooks/use-seo.ts";
+import { useSeo, canonicalComparador } from "@/hooks/use-seo.ts";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 import FlipCard from "@/components/FlipCardSimple.tsx";
@@ -393,7 +393,7 @@ export default function ComparadorPatinetesPage() {
     title: "Comparador de patinetes eléctricos 2026: elige el mejor VMP",
     description:
       "Compara 10 patinetes eléctricos lado a lado: precio, potencia, autonomía real estimada, peso, certificado DGT, pros y contras. Encuentra el mejor VMP para tu ciudad en 2026.",
-    canonical: "/comparador-patinetes",
+    canonical: canonicalComparador("/comparador-patinetes"),
     schema: jsonLd,
   });
 

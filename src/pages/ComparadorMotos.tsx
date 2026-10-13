@@ -1,7 +1,7 @@
 import { useMemo, useRef, useState } from "react";
 import { Link } from "react-router-dom";
 import { Bike, Info } from "lucide-react";
-import { useSeo } from "@/hooks/use-seo.ts";
+import { useSeo, canonicalComparador } from "@/hooks/use-seo.ts";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 import FlipCard from "@/components/FlipCardSimple.tsx";
@@ -190,7 +190,7 @@ export default function ComparadorMotosPage() {
     title: "Comparador motos eléctricas 2026: elige la mejor",
     description:
       "Compara dos motos eléctricas lado a lado: ficha técnica, precio, autonomía, carnet necesario y vídeo. Decide qué moto eléctrica comprar en 2026.",
-    canonical: "/comparador-motos",
+    canonical: canonicalComparador("/comparador-motos"),
     schema: jsonLd,
   });
 

@@ -81,10 +81,12 @@ export function useSeo({
     // Canonical con barra final: el servidor sirve el contenido en la versión con /
     // y redirige 301 la versión sin /. El canonical debe apuntar a la URL que
     // devuelve 200 (Seobility 03/10/2026: 44 "loops" + 22 errores de canonical).
+    // 13/10/2026: la query (?a=… de los comparadores) va después de la barra.
+    const [rutaCanon, queryCanon = ""] = basePath.split(/(?=\?)/);
     const canonPath =
-      basePath !== "/" && !basePath.endsWith("/") && !/\.[a-z0-9]+$/i.test(basePath)
-        ? `${basePath}/`
-        : basePath;
+      (rutaCanon !== "/" && !rutaCanon.endsWith("/") && !/\.[a-z0-9]+$/i.test(rutaCanon)
+        ? `${rutaCanon}/`
+        : rutaCanon) + queryCanon;
     // Canonical española absoluta. Sitio solo en español: sin hreflang ni prefijos de idioma.
     const url = `${DOMAIN}${canonPath}`;
 
@@ -148,4 +150,15 @@ export function useSeo({
   }, [title, description, canonical, image, type, keywords, noindex, schema]);
 
   return null;
+}
+
+// 13/10/2026 (indexación): canonical autorreferente en los comparadores con ?a=<id>
+// (también ?b= y ?c=, en ese orden). Sin parámetros -> la ruta base.
+export function canonicalComparador(base: string): string {
+  if (typeof window === "undefined") return base;
+  const sp = new URLSearchParams(window.location.search);
+  const q = new URLSearchParams();
+  for (const k of ["a", "b", "c"]) { const v = sp.get(k); if (v && /^[a-z0-9-]+$/.test(v)) q.set(k, v); }
+  const qs = q.toString();
+  return qs ? `${base}?${qs}` : base;
 }
