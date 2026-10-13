@@ -26,7 +26,7 @@ Antes de publicar, consulta siempre en la API de Netlify cuál es el deploy en v
 3. Copiar las fotos nuevas a dist/media.
 4. `PRERENDER_ONLY_FILE=rutas.txt node scripts/prerender.mjs`. main.tsx no hace el swap offscreen con navigator.webdriver; antes, el prerender duplicaba los H1. Comprueba que el título no quede en "Recurrir multa gratis con IA".
 5. `python3 scripts/gen-hubs.py dist && python3 scripts/seo-dist.py dist && node scripts/apply-seo.mjs dist`
-6. Verificar: 1 H1 por página, ningún "Algo salió mal", `python3 /workspace/seo/scan_titulos.py` con 0 exactos y `python3 /workspace/sitecheck.py <url-draft>` (200 + canonical + barra en todo el sitemap).
+6. Verificar: 1 H1 por página, ningún "Algo salió mal", `python3 scripts/scan_titulos.py` con 0 exactos y `python3 scripts/sitecheck.py <url-draft>` (200 + canonical + barra en todo el sitemap).
 7. Draft: POST /sites/{SITE}/deploys {"draft":true,"files":{}} y después `python3 ../deploy_api.py <id>` (reanudable). Lighthouse de la home ×3 (mediana ≥ 88).
 8. Publicar: POST /sites/{SITE}/deploys/{id}/restore. Purgar Cloudflare (purge_everything) y verificar en vivo.
 9. Rollback: restore del id anterior.
