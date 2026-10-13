@@ -69392,7 +69392,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "stelato-g9-2026-precio-ficha-tecnica",
     "title": "62.400 €: Stelato G9, SUV 4x4 de Huawei con 728 km",
-    "excerpt": "Precio y ficha del Stelato G9: el primer todoterreno de Huawei HIMA, 586 CV, batería de 120 kWh y 728 km de autonomía desde ~62.400 €.",
+    "excerpt": "Precio y ficha del Stelato G9: el primer todoterreno de Huawei HIMA, 594 CV, batería de 120 kWh y 728 km de autonomía desde ~62.400 €.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -69411,7 +69411,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "stelato-g9-erev-2026-precio-ficha-tecnica",
     "title": "Stelato G9 EREV: 1.300 km y 586 CV por 55.900 €",
-    "excerpt": "El Stelato G9 EREV: todoterreno con extensor de autonomía, 405 km eléctricos, más de 1.300 km totales y 586 CV desde ~55.900 €.",
+    "excerpt": "El Stelato G9 EREV: todoterreno con extensor de autonomía, 405 km eléctricos, más de 1.300 km totales y 594 CV desde ~55.900 €.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",

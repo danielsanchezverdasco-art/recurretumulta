@@ -300,7 +300,7 @@ export const COCHES_STELATO: CocheComparador[] = [
     aprox: ["precioDesde", "potenciaCv", "autonomiaKm", "plazas"],
     pros: [
       "728 km CLTC con batería CATL Qilin de 120 kWh",
-      "586 CV con tracción total: el primer todoterreno de HIMA",
+      "594 CV con tracción total: el primer todoterreno de HIMA",
       "Suspensión neumática con +80/-50 mm y distancia al suelo hasta 282 mm",
       "Huawei ADS 5.0: conducción inteligente de última generación",
       "5 o 6 plazas (2-2-2), nevera y tienda de techo de serie/opción",
@@ -384,7 +384,7 @@ export const COCHES_STELATO: CocheComparador[] = [
     aprox: ["precioDesde", "potenciaCv", "autonomiaKm", "plazas"],
     pros: [
       "405 km CLTC eléctricos + más de 1.300 km totales: devorakilómetros total",
-      "586 CV AWD con bloqueo de diferencial eléctrico Huawei Zhiqing",
+      "594 CV AWD con bloqueo de diferencial eléctrico Huawei Zhiqing",
       "Arquitectura de 800 V: carga rápida en ruta",
       "Baterías CATL Freevoy de 56 o 75 kWh según versión",
       "5 o 6 plazas, nevera, portón con cocina opcional: camping de lujo",
