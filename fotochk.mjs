@@ -1,5 +1,13 @@
-import { chromium } from 'playwright';
-const b=await chromium.launch(); const pg=await (await b.newContext({viewport:{width:400,height:900}})).newPage();
-await pg.goto(process.argv[2]+'/motos/sym-symphony-sr-125-abs-2026-ficha-tecnica-precio/',{waitUntil:'networkidle'}); await pg.waitForTimeout(2500);
-console.log(await pg.evaluate(()=>{const i=document.querySelector('img[src*="sym-symphony-sr"]');return {img:!!i,ok:i?.naturalWidth,credit:document.body.innerText.match(/AVMOTO[^\n]*/)?.[0]}}));
-await pg.screenshot({path:'/workspace/sbs/foto-sym-symphony.jpg',type:'jpeg',quality:70}); await b.close();
+import { chromium, devices } from 'playwright';
+import fs from 'fs';
+const B=process.argv[2];const S=JSON.parse(fs.readFileSync('/workspace/fotos97/final/sel.json'));
+let bad=0;
+for(const s of S){const r=await fetch(B+s.destino);if(r.status!==200||!(r.headers.get('content-type')||'').includes('webp')){bad++;console.log('IMG',r.status,s.destino);}}
+console.log('imagenes ok',S.length-bad,'/',S.length);
+const pages=['/patinetes/joyor-c10/','/motos/harley-davidson-sportster-s-2025-ficha-tecnica-precio/','/coches/cupra-leon-20-tdi-2026/','/blog/leapmotor-b03-electrico-paris-2026/'];
+const b=await chromium.launch();const ctx=await b.newContext({...devices['Pixel 7']});
+for(const p of pages){const pg=await ctx.newPage();const r=await pg.goto(B+p,{waitUntil:'networkidle'}).catch(e=>null);await pg.waitForTimeout(2500);
+const t=await pg.evaluate(()=>[...document.querySelectorAll('p')].map(x=>x.innerText).filter(x=>/^Foto:/.test(x)).join(' | '));
+const imgs=await pg.evaluate(()=>[...document.images].filter(i=>/\/media\//.test(i.src)).slice(0,2).map(i=>i.src.split('/').pop()+':'+i.naturalWidth));
+console.log(r&&r.status(),p,'|',t,'|',imgs.join(','));await pg.close();}
+await b.close();
