@@ -18,3 +18,15 @@ NUNCA subas la carpeta `dist` arrastrándola a Netlify: borraría todo lo que no
 3. Comprueba que el número de ficheros de `dist` es el de antes más los nuevos, ni uno menos.
 4. Borrador con `deploy_api.py`, revisión y publicar. Si algo falla, vuelve a publicar el deploy del paso 1.
 Antes de publicar, consulta siempre en la API de Netlify cuál es el deploy en vivo; no te fíes de ids antiguos.
+
+## Flujo completo de publicación (actualizado 13/10/2026)
+0. Comprobar el deploy en vivo (`published_deploy.id`), que será el rollback. Si ha cambiado (p. ej. fotos de la otra IA), rebasar sobre los ficheros en vivo.
+1. `npx vite build --outDir /tmp/vbN --emptyOutDir`. NUNCA hagas build directo sobre dist (lo borra).
+2. `python3 scripts/patch-dist-monos.py dist /tmp/vbN` (cambia los assets y las referencias en el HTML).
+3. Copiar las fotos nuevas a dist/media.
+4. `PRERENDER_ONLY_FILE=rutas.txt node scripts/prerender.mjs`. main.tsx no hace el swap offscreen con navigator.webdriver; antes, el prerender duplicaba los H1. Comprueba que el título no quede en "Recurrir multa gratis con IA".
+5. `python3 scripts/gen-hubs.py dist && python3 scripts/seo-dist.py dist && node scripts/apply-seo.mjs dist`
+6. Verificar: 1 H1 por página, ningún "Algo salió mal", `python3 /workspace/seo/scan_titulos.py` con 0 exactos y `python3 /workspace/sitecheck.py <url-draft>` (200 + canonical + barra en todo el sitemap).
+7. Draft: POST /sites/{SITE}/deploys {"draft":true,"files":{}} y después `python3 ../deploy_api.py <id>` (reanudable). Lighthouse de la home ×3 (mediana ≥ 88).
+8. Publicar: POST /sites/{SITE}/deploys/{id}/restore. Purgar Cloudflare (purge_everything) y verificar en vivo.
+9. Rollback: restore del id anterior.

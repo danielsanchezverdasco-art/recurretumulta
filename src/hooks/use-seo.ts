@@ -160,10 +160,6 @@ export function useSeo({
 // 13/10/2026 (indexación): canonical autorreferente en los comparadores con ?a=<id>
 // (también ?b= y ?c=, en ese orden). Sin parámetros -> la ruta base.
 export function canonicalComparador(base: string): string {
-  if (typeof window === "undefined") return base;
-  const sp = new URLSearchParams(window.location.search);
-  const q = new URLSearchParams();
-  for (const k of ["a", "b", "c"]) { const v = sp.get(k); if (v && /^[a-z0-9-]+$/.test(v)) q.set(k, v); }
-  const qs = q.toString();
-  return qs ? `${base}?${qs}` : base;
+  // Canonical autorreferente sin parámetros: /comparador-x/?a=... apunta a /comparador-x/.
+  return base;
 }

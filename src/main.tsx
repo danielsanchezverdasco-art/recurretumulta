@@ -21,7 +21,8 @@ if (rootEl.innerHTML.trim().length > 200) {
 // invisible superpuesto y se intercambia cuando ya ha pintado la página (o a los 4 s).
 // Así el contenido prerenderizado sigue visible (es el LCP) y no se sustituye por el
 // cargador mientras llegan los chunks diferidos.
-const prerender = rootEl.innerHTML.trim().length > 200 && !/[?&]sinswap\b/.test(location.search);
+// No en el prerender (navegador automatizado): allí se monta directamente sobre #root.
+const prerender = rootEl.innerHTML.trim().length > 200 && !navigator.webdriver && !/[?&]sinswap\b/.test(location.search);
 let destino = rootEl;
 if (prerender) {
   destino = document.createElement("div");
