@@ -448,6 +448,7 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
   const [file, setFile] = useState<File | null>(null);
   // 13/10/2026: pruebas opcionales (ticket de parquímetro, fotos...), máx. 5 de 5 MB.
   const [pruebas, setPruebas] = useState<File[]>([]);
+  const [versionHechos, setVersionHechos] = useState("");
   const pruebasRef = useRef<HTMLInputElement>(null);
   const [dragActive, setDragActive] = useState(false);
   const [nombre, setNombre] = useState("");
@@ -604,6 +605,7 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
       }
       const res = await withAnalisisTimeout(analizarMulta({
         ...(pruebasPayload.length ? { pruebas: pruebasPayload } : {}),
+        ...(versionHechos.trim() ? { version: versionHechos.replace(/<[^>]*>/g, " ").trim().slice(0, 1500) } : {}),
         fileBase64,
         fileMimeType,
         fingerprint: getAnonymousFingerprint(),
@@ -1144,6 +1146,17 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
             </div>
           </div>
         )}
+      </div>
+
+      {/* ── VERSIÓN DE LOS HECHOS (OPCIONAL) ── */}
+      <div className="rounded-2xl border border-dashed border-gray-300 p-4 space-y-2">
+        <label htmlFor="version-hechos" className="block text-sm font-black text-gray-900">Tu versión de los hechos (opcional)</label>
+        <p className="text-xs text-gray-500">Cuéntanos qué pasó. Se tendrá en cuenta junto con tus pruebas y se incluirá en el recurso.</p>
+        <textarea id="version-hechos" value={versionHechos} maxLength={1500} rows={4}
+          onChange={(e) => setVersionHechos(e.target.value.slice(0, 1500))}
+          placeholder="Ej.: Puse el ticket, pasaron 5 minutos y me multaron"
+          className="w-full rounded-xl border border-gray-300 p-3 text-sm focus:outline-none focus:ring-2 focus:ring-red-500" />
+        <p className="text-right text-xs text-gray-400">{versionHechos.length}/1500</p>
       </div>
 
       {/* ── PRUEBAS OPCIONALES ── */}
