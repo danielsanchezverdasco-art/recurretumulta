@@ -25,7 +25,7 @@ export default function SeccionJuegoPortada() {
           🦍 Encuentra los monos y gana 1.500 €
         </h2>
         <p className="mt-1 text-sm text-gray-600 leading-relaxed">
-          Hay 350 monos escondidos por la web. Quien más cace gana 1.500 € + 1 año de recursos ilimitados; del 2º al 50º, 1 año de recursos ilimitados. Y quien encuentre el mono dorado gana 1 año de recursos gratis.
+          Hay 350 monos escondidos por la web. El 1º en cazar los 350 gana 1.500 € + 1 año de recursos ilimitados; del 2º al 50º, 1 año de recursos ilimitados. Y quien encuentre el mono dorado gana 1 año de recursos gratis.
         </p>
         <Link
           to="/juego-monos/"

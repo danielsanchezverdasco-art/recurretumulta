@@ -146,17 +146,17 @@ function ReclamarPremio() {
   const [nombre, setNombre] = useState("");
   const [contacto, setContacto] = useState("");
   const [codigo, setCodigo] = useState<string | null>(null);
-  const completo = total >= 1;
   const dorado = encontrados.some((id) => id.startsWith("l:"));
-  void objetivo;
+  const completo = total >= objetivo || dorado;
 
   if (!completo) {
     return (
       <div className="rounded-2xl border-2 border-dashed border-gray-200 bg-gray-50 p-6 text-center">
         <Ticket className="w-8 h-8 mx-auto text-gray-300 mb-2" />
-        <p className="font-bold text-gray-700">Aún no has cazado ningún mono</p>
+        <p className="font-bold text-gray-700">Aún no puedes reclamar el premio</p>
         <p className="text-sm text-gray-500 mt-1">
-          Navega por la web y haz clic en cada mono que veas 🦍
+          Te faltan <span className="font-black text-gray-800 tabular-nums">{objetivo - total}</span> monos (o encuentra el dorado).
+          Sigue navegando y haz clic en cada mono que veas 🦍
         </p>
       </div>
     );
@@ -173,7 +173,7 @@ function ReclamarPremio() {
         </p>
         <p className="text-xs text-gray-500 mt-3 max-w-md mx-auto">
           Envíalo por WhatsApp junto con tu nombre. Verificamos manualmente que los monos
-          sean de verdad y al cierre de la temporada te decimos tu puesto (1.500 € por transferencia si eres el 1º). Si tienes el dorado, 1 año de recursos gratis.
+          sean de verdad y te explicamos cómo recibir tu premio (1.500 € por transferencia si eres el 1º en completar los 350). Si tienes el dorado, 1 año de recursos gratis.
         </p>
         <a
           href={enlaceReclamoWhatsApp(codigo, nombre, total, dorado)}
@@ -236,7 +236,7 @@ function ReclamarPremio() {
 const FAQS = [
   {
     q: "¿Tengo que registrarme para jugar?",
-    a: "No. No hay cuentas ni registros: tu progreso se guarda automáticamente en tu navegador. Para reclamar solo te pedimos un nombre y un contacto para poder entregarte el premio.",
+    a: "No. No hay cuentas ni registros: tu progreso se guarda automáticamente en tu navegador. Cuando llegues a 350 monos (o encuentres el dorado) solo te pedimos un nombre y un contacto para poder entregarte el premio.",
   },
   {
     q: "¿Cómo sé cuántos monos llevo?",
@@ -252,7 +252,7 @@ const FAQS = [
   },
   {
     q: "¿En qué consiste el premio?",
-    a: "El 1º puesto se lleva 1.500 € por transferencia bancaria + 1 año de recursos ilimitados; del 2º al 50º, 1 año de recursos ilimitados. El 1º es quien tenga más monos verificados al cierre de la temporada (no hace falta llegar a 350). Además, todos los que encuentren el mono dorado ganan 1 año de recursos gratis (los detalles, en las bases).",
+    a: "El 1º puesto se lleva 1.500 € por transferencia bancaria + 1 año de recursos ilimitados; del 2º al 50º, 1 año de recursos ilimitados. El 1º es el primero en encontrar los 350 monos y reclamar con un código válido; no hay fecha límite: el juego dura hasta que alguien lo complete. Además, todos los que encuentren el mono dorado ganan 1 año de recursos gratis (los detalles, en las bases).",
   },
   {
     q: "¿Qué es el ranking de cazadores?",
@@ -279,7 +279,7 @@ const FAQS = [
 function JuegoMonosPage() {
   useSeo({
     title: "Encuentra los monos y gana 1.500 €",
-    description: "Caza de monos: 350 monos escondidos por la web. El 1º del ranking gana 1.500 € + 1 año de recursos ilimitados; quien encuentre el mono dorado, 1 año gratis.",
+    description: "Caza de monos: 350 monos escondidos por la web. El 1º en encontrar los 350 gana 1.500 € + 1 año de recursos ilimitados; quien encuentre el mono dorado, 1 año gratis.",
     canonical: "/juego-monos",
     image: "https://recurretumulta.online/media/og-caza-monos-1500e.jpg",
     keywords: ["caza de monos", "juego", "premio 1500 euros", "gana dinero"],
@@ -343,7 +343,7 @@ function JuegoMonosPage() {
             <p className="mt-4 text-sm sm:text-lg text-gray-300 max-w-xl mx-auto">
               Hay <span className="font-black text-white">350 monos</span> escondidos por toda la web
               más el <span className="font-black text-amber-300">legendario dorado</span>.
-              Quien más cace gana <span className="font-black text-white">1.500 € por transferencia + 1 año de recursos ilimitados</span>.
+              El 1º en cazar los 350 gana <span className="font-black text-white">1.500 € por transferencia + 1 año de recursos ilimitados</span>.
               Del 2º al 50º, 1 año de recursos ilimitados. ¿Encuentras el dorado? <span className="font-black text-amber-300">1 año de recursos gratis</span>.
             </p>
             <div className="mt-6 flex flex-col sm:flex-row items-center justify-center gap-3">
@@ -374,9 +374,10 @@ function JuegoMonosPage() {
             <h2 className="text-2xl font-black text-gray-900 mb-5 text-center">Cómo se juega</h2>
             <div className="grid gap-4 sm:grid-cols-3">
               {[
-                { icon: Navigation, paso: "1", titulo: "Navega por la web", texto: "Los monos están escondidos en artículos, fichas, comparadores y herramientas." },
+                { icon: Navigation, paso: "1", titulo: "Te faltan <span className="font-black text-gray-800 tabular-nums">{objetivo - total}</span> monos (o encuentra el dorado).
+          Sigue navegando", texto: "Los monos están escondidos en artículos, fichas, comparadores y herramientas." },
                 { icon: MousePointerClick, paso: "2", titulo: "Haz clic en cada mono", texto: "Al hacer clic desaparece y suma 1 a tu contador del menú superior." },
-                { icon: Trophy, paso: "3", titulo: "Reclama cuando quieras", texto: "Genera tu código y envíalo por WhatsApp. Gana quien más monos tenga al cierre." },
+                { icon: Trophy, paso: "3", titulo: "Llega a 350 y reclama", texto: "Genera tu código y envíalo por WhatsApp. ¡El primero gana 1.500 €!" },
               ].map((s) => (
                 <div key={s.paso} className="rounded-2xl border border-gray-200 bg-white p-5 shadow-sm text-center">
                   <div className="mx-auto w-11 h-11 rounded-full bg-gradient-to-br from-amber-400 to-red-500 text-white flex items-center justify-center mb-3">

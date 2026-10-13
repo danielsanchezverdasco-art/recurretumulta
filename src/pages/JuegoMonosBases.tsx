@@ -13,15 +13,15 @@ const SECCIONES: Array<{ t: string; c: string }> = [
   },
   {
     t: "2. Mecánica del concurso (por temporadas)",
-    c: "El concurso se organiza por temporadas mensuales. En la Temporada 1 (octubre de 2026) hay 353 monos escondidos en distintas páginas de recurretumulta.online (336 aleatorios —uno de ellos en la página de error 404—, 16 fáciles en puntos estratégicos y 1 legendario dorado escondidísimo; ampliada el 13 de octubre de 2026 desde 253). Cada vez que un participante hace clic en un mono, este queda registrado en su navegador (localStorage, sin necesidad de registro ni cuenta). No hay un número mínimo obligatorio de monos: 350 es solo la referencia de la temporada. Cada mono tiene un identificador único; en cualquier momento la web genera un código de reclamo personal e intransferible con los monos encontrados, válido solo para la temporada en curso. Todos los monos se pueden encontrar navegando con normalidad: ninguno exige más interacción que el desplazamiento por la página.",
+    c: "El concurso se organiza por temporadas mensuales. En la Temporada 1 (octubre de 2026) hay 353 monos escondidos en distintas páginas de recurretumulta.online (336 aleatorios —uno de ellos en la página de error 404—, 16 fáciles en puntos estratégicos y 1 legendario dorado escondidísimo; ampliada el 13 de octubre de 2026 desde 253). Cada vez que un participante hace clic en un mono, este queda registrado en su navegador (localStorage, sin necesidad de registro ni cuenta). El objetivo es encontrar 350 monos (no es obligatorio que entre ellos esté el legendario dorado). Cada mono tiene un identificador único; al llegar a 350, o al encontrar el dorado, la web genera un código de reclamo personal e intransferible, válido solo para la temporada en curso. Todos los monos se pueden encontrar navegando con normalidad: ninguno exige más interacción que el desplazamiento por la página.",
   },
   {
     t: "3. Premio",
-    c: "El premio consiste en: 1º puesto, 1.500 € por transferencia bancaria + 1 año de recursos ilimitados gratis en recurretumulta.online; del 2º al 50º puesto, 1 año de recursos ilimitados gratis. Además, todo participante que encuentre el mono legendario dorado gana 1 año de recursos gratis en recurretumulta.online, sin límite de ganadores. Los puestos se asignan según el número de monos verificados al cierre de la temporada; a igualdad de monos, por orden de reclamación verificada. No es obligatorio llegar a 350 monos ni encontrar el dorado para optar a los 1.500 €. El pago de los 1.500 € se realiza por transferencia al IBAN que indique el ganador. Estas bases sustituyen a cualquier importe anterior publicado (900 € o 1000 €).",
+    c: "El premio consiste en: 1º puesto, 1.500 € por transferencia bancaria + 1 año de recursos ilimitados gratis en recurretumulta.online; del 2º al 50º puesto, 1 año de recursos ilimitados gratis. Además, todo participante que encuentre el mono legendario dorado gana 1 año de recursos gratis en recurretumulta.online, sin límite de ganadores. Los puestos se asignan por estricto orden de reclamación verificada entre quienes encuentren 350 monos. No es obligatorio encontrar el dorado para optar a los 1.500 €. El pago de los 1.500 € se realiza por transferencia al IBAN que indique el ganador. Estas bases sustituyen a cualquier importe anterior publicado (900 € o 1000 €).",
   },
   {
     t: "4. Ganadores",
-    c: "Serán ganadores, por estricto orden de reclamación verificada, los participantes que (a) generen su código de reclamo y (b) lo envíen por WhatsApp al número indicado en la página del juego antes del cierre de la temporada. El participante con más monos verificados recibe 1.500 € + 1 año de recursos ilimitados gratis; del 2º al 50º, 1 año de recursos ilimitados gratis. Quien haya encontrado el mono dorado recibe 1 año de recursos gratis aunque no esté entre los 50 primeros. El Organizador verificará manualmente la validez de cada código antes de confirmar el premio.",
+    c: "Serán ganadores, por estricto orden de reclamación verificada, los participantes que (a) encuentren 350 monos, (b) generen su código de reclamo y (c) lo envíen por WhatsApp al número indicado en la página del juego. El primero en completar los 350 monos con reclamación verificada recibe 1.500 € + 1 año de recursos ilimitados gratis; del 2º al 50º, 1 año de recursos ilimitados gratis. Quien haya encontrado el mono dorado recibe 1 año de recursos gratis aunque no esté entre los 50 primeros. El Organizador verificará manualmente la validez de cada código antes de confirmar el premio.",
   },
   {
     t: "5. Verificación y medidas anti-fraude",
@@ -29,7 +29,7 @@ const SECCIONES: Array<{ t: string; c: string }> = [
   },
   {
     t: "6. Fechas",
-    c: "La Temporada 1 comienza el 6 de octubre de 2026 y terminará el 31 de octubre de 2026. Cada nueva temporada tendrá sus propias fechas y se anunciará en la página del juego. El Organizador publicará el ganador (nombre o apodo, con su permiso) en la página del juego.",
+    c: "La Temporada 1 comienza el 6 de octubre de 2026 y no tiene fecha de fin: dura hasta que se entreguen sus premios. Cada nueva temporada tendrá sus propias fechas y se anunciará en la página del juego. El Organizador publicará el ganador (nombre o apodo, con su permiso) en la página del juego.",
   },
   {
     t: "7. Datos personales",

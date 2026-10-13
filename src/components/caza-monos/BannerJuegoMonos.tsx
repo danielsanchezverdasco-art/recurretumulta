@@ -10,7 +10,7 @@ export default function BannerJuegoMonos() {
       >
         <img src="/media/cosa-avatar.webp" alt="" width={22} height={22} loading="lazy" className="w-[22px] h-[22px] shrink-0" />
         <span className="leading-snug">
-          <span className="inline-block rounded-full bg-amber-500 text-white font-black px-2 py-0.5 mr-1">💶 1.500 €</span><span className="font-bold">Caza de monos:</span> el 1º del ranking gana 1.500 €. ¿Encuentras el mono dorado? 1 año de recursos gratis.
+          <span className="inline-block rounded-full bg-amber-500 text-white font-black px-2 py-0.5 mr-1">💶 1.500 €</span><span className="font-bold">Caza de monos:</span> el 1º en encontrar los 350 gana 1.500 €. ¿Encuentras el mono dorado? 1 año de recursos gratis.
         </span>
         <span className="ml-auto font-bold whitespace-nowrap">Jugar →</span>
       </Link>

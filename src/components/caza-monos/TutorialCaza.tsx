@@ -76,7 +76,7 @@ export default function TutorialCaza() {
             <span className="font-black">contador (arriba en el menú)</span>.
           </p>
           <p>
-            Quien más monos cace (el <span className="font-black">1º del ranking</span>) se lleva{" "}
+            Si eres el <span className="font-black">1º en encontrar los 350</span>, te llevas{" "}
             <span className="font-black text-amber-700">1.500 € + 1 año de recursos ilimitados</span>,
             y del <span className="font-black">2º al 50º, 1 año de recursos ilimitados</span>. Y si encuentras el dorado, 1 año de recursos gratis. ¡Corre!
           </p>
