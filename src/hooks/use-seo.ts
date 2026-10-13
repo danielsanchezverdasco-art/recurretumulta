@@ -1,3 +1,4 @@
+import NOINDEX from "@/lib/noindex.generated.json";
 // Hook para inyectar meta tags SEO dinámicos en cada página
 // Fundamental para SPA SEO: actualiza <title>, description, canonical, OG y Twitter por ruta
 //
@@ -113,6 +114,8 @@ export function useSeo({
       "robots",
       noindex
         ? "noindex, nofollow"
+        : NOINDEX.includes(location.pathname.replace(/\/?$/, "/"))
+        ? "noindex, follow"
         : "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
     );
     setMeta("author", "RecurreTuMulta.online");

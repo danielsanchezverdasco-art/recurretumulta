@@ -90,6 +90,7 @@ const GuiaItvDocumentacionPage = lazy(() => import("./pages/guias/itv-documentac
 const JuegoMonosPage = lazy(() => import("./pages/JuegoMonos.tsx"));
 const JuegoMonosBasesPage = lazy(() => import("./pages/JuegoMonosBases.tsx"));
 const HubFichas = lazy(() => import("./pages/HubFichas.tsx"));
+const HubMarca = lazy(() => import("./pages/HubMarca.tsx"));
 const NotFound = lazy(() => import("./pages/NotFound.tsx"));
 
 // Spinner mínimo mientras carga la ruta lazy.
@@ -152,6 +153,9 @@ function ContentRoutes() {
       <Route path="coches" element={<HubFichas categoria="coches" />} />
       <Route path="motos" element={<HubFichas categoria="motos" />} />
       <Route path="patinetes" element={<HubFichas categoria="patinetes" />} />
+      <Route path="coches/marca/:slug" element={<HubMarca />} />
+      <Route path="motos/marca/:slug" element={<HubMarca />} />
+      <Route path="patinetes/marca/:slug" element={<HubMarca />} />
       <Route path="coches/:slug" element={<CochesFichaPage />} />
       <Route path="comparador-motos" element={<ComparadorMotosPage />} />
       <Route path="fichas-tecnicas" element={<FichasTecnicasPage />} />

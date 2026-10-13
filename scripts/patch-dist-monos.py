@@ -13,7 +13,10 @@ css_new=[c for c in re.findall(r'/assets/(index-[^"]+\.css)',new_idx)]
 old_idx=open(f"{D}/index.html").read()
 entry_old=re.search(r'src="/assets/(index-[^"]+\.js)"',old_idx).group(1)
 css_old=re.findall(r'/assets/(index-[^"]+\.css)',old_idx)
-SWAP=[(entry_old,entry_new)]+[(a,b) for a,b in zip(css_old,css_new) if a!=b]
+# todas las entradas index-*.js antiguas de cualquier HTML, no solo la de la portada
+import glob as _g
+_olds={m for f in _g.glob(f"{D}/**/index.html",recursive=True) for m in re.findall(r"/assets/(index-[A-Za-z0-9_-]+\.js)",open(f,encoding="utf8",errors="ignore").read())}-{entry_new}
+SWAP=[(o,entry_new) for o in sorted(_olds|{entry_old}) if o!=entry_new]+[(a,b) for a,b in zip(css_old,css_new) if a!=b]
 print("swap",SWAP)
 # 2) textos del juego: pares sacados del diff de las fuentes
 def segs(l):
