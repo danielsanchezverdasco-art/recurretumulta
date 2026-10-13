@@ -1,5 +1,9 @@
 import { lazy, Suspense, useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
+import CreditoFoto from "@/components/CreditoFoto.tsx";
+import { BLOG_LITE } from "@/lib/blog-lite.generated.ts";
+import { ANALISIS_PATINETES } from "@/lib/analisis-slugs.generated";
+const BLOG_SLUGS = new Set(BLOG_LITE.map((p) => p.slug));
 import {
   ArrowLeftRight,
   BookOpen,
@@ -255,6 +259,7 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
       : jsonLd,
   });
 
+  const analisisSlug = ANALISIS_PATINETES[patinete.id] ?? patinete.id;
   return (
     <div className="min-h-screen bg-gray-50">
       <SharedNavbar />
@@ -299,6 +304,7 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
               </button>
             )}
           </div>
+          {!patinete.fotoPendiente && <CreditoFoto src={patinete.foto} />}
           {!patinete.fotoPendiente && lightbox && (
             <Lightbox
               src={patinete.foto}
@@ -681,6 +687,15 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
           >
             <BookOpen className="h-4 w-4" /> Guía: normativa y multas 2026
           </Link>
+          {/* 13/10/2026: análisis del blog del mismo modelo, solo si el post existe */}
+          {BLOG_SLUGS.has(analisisSlug) && (
+            <Link
+              to={`/blog/${analisisSlug}`}
+              className="inline-flex items-center justify-center gap-2 rounded-2xl border border-gray-300 bg-white px-4 py-3 text-sm font-bold text-gray-900 transition hover:bg-gray-50"
+            >
+              <BookOpen className="h-4 w-4" /> Ver análisis
+            </Link>
+          )}
         </section>
 
         <p className="mt-4 text-center text-sm text-gray-500">

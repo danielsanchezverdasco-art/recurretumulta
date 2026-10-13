@@ -28,10 +28,11 @@ export default function CookiesPage() {
             <div className="w-10 h-10 bg-red-50 rounded-xl flex items-center justify-center">
               <Cookie className="w-5 h-5 text-red-600" />
             </div>
-            <h1 className="text-3xl font-black text-gray-900">{"legal.cookiesTitle"}</h1>
+            <h1 className="text-3xl font-black text-gray-900">{"Política de Cookies"}</h1>
           </div>
           <p className="text-sm text-gray-500">{"Última actualización: " + YEAR}</p>
         </div>
+        <img src="/media/cookies-web.webp" alt="Política de cookies: cómo usamos las cookies en tu navegador" className="w-full h-48 sm:h-64 object-cover rounded-2xl shadow-lg" loading="lazy" />
 
         <div className="prose prose-sm max-w-none text-gray-700 space-y-6">
           <section>
@@ -80,6 +81,7 @@ export default function CookiesPage() {
 
           <section>
             <h2 className="text-xl font-black text-gray-900">Cómo gestionar las cookies</h2>
+            <img src="/media/cookies-web.webp" alt="Ajustes de privacidad y cookies en un navegador web" className="w-full h-40 sm:h-52 object-cover rounded-2xl shadow mb-6" loading="lazy" />
             <p>Puedes configurar tu navegador para aceptar o rechazar cookies en cualquier momento:</p>
             <ul className="list-disc pl-5 space-y-1">
               <li><strong>Chrome:</strong> Configuración → Privacidad y seguridad → Cookies y otros datos de sitios</li>

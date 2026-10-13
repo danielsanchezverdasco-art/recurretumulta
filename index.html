@@ -9,18 +9,16 @@
        encolar eventos; el script real se inyecta tras el LCP, primera
        interacción o idle (lo que ocurra antes). GA4 sigue registrando igual. -->
   <script>
-    // 12/10/2026: imagen de /media/ que no existe -> se oculta su <figure> (o la propia
-    // imagen), igual que hacen ya las fichas, en vez de mostrar el icono roto.
+    // 13/10/2026: imagen de /media/ rota -> miniatura -card -> imagen completa -> imagen OG.
+    // Nunca se oculta (decisión de Daniel).
     window.addEventListener("error", function (e) {
       var t = e.target;
-      if (!t || t.tagName !== "IMG" || (t.getAttribute("src") || "").indexOf("/media/") < 0) return;
-      if (t.dataset.fb) { if (t.dataset.fb === "1" && t.closest("a") && t.getAttribute("src").indexOf("/media/og-") < 0) { t.dataset.fb = "2"; t.src = "/media/og-recurretumulta-online.png"; } return; }
-      var s = t.getAttribute("src");
-      // 13/10/2026: miniatura -card que falta -> imagen completa; si tampoco existe y es una tarjeta enlazada -> imagen OG.
-      if (/-card\.webp$/.test(s) && !t.dataset.fbFull) { t.dataset.fbFull = "1"; t.removeAttribute("srcset"); t.src = s.replace(/-card\.webp$/, ".webp"); return; }
-      if (t.closest("a")) { t.dataset.fb = "1"; t.removeAttribute("srcset"); t.src = "/media/og-recurretumulta-online.png"; return; }
-      var fig = t.closest("figure");
-      (fig || t).style.display = "none";
+      if (!t || t.tagName !== "IMG") return;
+      var s = t.getAttribute("src") || "";
+      if (s.indexOf("/media/") < 0 || s.indexOf("/media/og-") >= 0 || t.dataset.fb === "og") return;
+      t.removeAttribute("srcset");
+      if (/-card\.webp$/.test(s) && !t.dataset.fbFull) { t.dataset.fbFull = "1"; t.src = s.replace(/-card\.webp$/, ".webp"); return; }
+      t.dataset.fb = "og"; t.src = "/media/og-recurretumulta-online.png";
     }, true);
   </script>
   <script>
@@ -192,7 +190,7 @@
             "@type": "WebPage",
             "@id": "https://recurretumulta.online/#webpage",
             "url": "https://recurretumulta.online/",
-            "name": "Recurrir Multa DGT Gratis con IA | RecurreTuMulta.online",
+            "name": "Recurrir Multa DGT Gratis con IA",
             "description": "Analiza tu multa DGT gratis con IA. La IA detecta posibles vicios de forma y genera tu recurso en segundos. Sin abogados.",
             "inLanguage": "es-ES",
             "isPartOf": { "@id": "https://recurretumulta.online/#website" },

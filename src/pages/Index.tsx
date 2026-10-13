@@ -677,7 +677,7 @@ function $() {
     [m, h] = (0, z.useState)(null),
     [b, x] = (0, z.useState)(`multa`);
   k({
-    title: `Recurrir multa gratis con IA | RecurreTuMulta.online`,
+    title: `Recurrir multa gratis con IA`,
     description: `Analiza tu multa de tráfico o de la DGT gratis con IA: detectamos posibles errores, plazos y cómo recurrir. Sin compromiso.`,
     canonical: `/`,
     keywords: [

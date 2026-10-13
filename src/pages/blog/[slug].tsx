@@ -31,6 +31,17 @@ import CarruselFotos from "@/components/CarruselFotos.tsx";
 import { ReadingProgress, DriveInImage } from "@/components/motion.tsx";
 import { postHeroImage } from "@/lib/blog-image.ts";
 import FichaDestacada from "@/components/FichaDestacada.tsx";
+import { creditoDe } from "@/components/CreditoFoto.tsx";
+
+// 13/10/2026: atribución visible bajo las fotos CC BY / CC BY-SA del cuerpo del artículo.
+const escAttr = (x: string) => x.replace(/&/g, "&amp;").replace(/"/g, "&quot;").replace(/</g, "&lt;");
+function conCreditos(html: string): string {
+  return html.replace(/<img\b[^>]*\bsrc=["']([^"']+)["'][^>]*>/g, (tag, src) => {
+    const c = creditoDe(src);
+    if (!c) return tag;
+    return `${tag}<small class="block mt-1 text-[10px] leading-tight text-gray-400">Foto: <a href="${escAttr(c.url)}" target="_blank" rel="noopener noreferrer nofollow" class="underline">${escAttr(c.autor)}</a> · ${escAttr(c.licencia)} · Wikimedia Commons</small>`;
+  });
+}
 import MonoEscondido from "@/components/caza-monos/MonoEscondido.tsx";
 import { fijoId } from "@/components/caza-monos/CazaMonosContext.tsx";
 import CosaEnBanner from "@/components/CosaEnBanner.tsx";
@@ -203,7 +214,7 @@ function MarkdownContent({ content, galeria, dims }: { content: string; galeria?
     } else if (line.trim()) {
       elements.push(
         <p key={i} className="text-sm text-gray-700 leading-relaxed my-2"
-          dangerouslySetInnerHTML={{ __html: addImgDimensions(quoteImgAlt(formatInline(line)), dims) }}
+          dangerouslySetInnerHTML={{ __html: conCreditos(addImgDimensions(quoteImgAlt(formatInline(line)), dims)) }}
         />
       );
     }
@@ -272,6 +283,7 @@ function BlogPostPage() {
   const [dims, setDims] = useState<Record<string, [number, number]>>({});
   const [relatedStatic, setRelatedStatic] = useState<BlogLitePost[]>([]);
   const [cocheDestacado, setCocheDestacado] = useState<CocheComparador | null>(null);
+  const [fichaLink, setFichaLink] = useState<string | null>(null);
   // 12/10/2026: ficha enlazada (coche/moto/patinete) para mostrar sus reseñas al final.
   const [fichaResenas, setFichaResenas] = useState<{
     tipo: TipoVehiculoResena;
@@ -287,6 +299,7 @@ function BlogPostPage() {
     setGaleria(undefined);
     setRelatedStatic([]);
     setCocheDestacado(null);
+    setFichaLink(null);
     setFichaResenas(null);
     (async () => {
       const [modPosts, g, d] = await Promise.all([
@@ -353,6 +366,10 @@ function BlogPostPage() {
         }
       }
       if (alive) setFichaResenas(fr);
+      // 13/10/2026: "Ver ficha completa" a la ficha del modelo del artículo.
+      const { fichaDePost } = await import("@/lib/ficha-de-post.generated");
+      const fl = fichaDePost(s) ?? (fr ? `/${fr.tipo}/${fr.slug}` : null);
+      if (alive) setFichaLink(fl);
       if (!alive) return;
       setRelatedStatic(rel);
       setCocheDestacado(coche ?? null);
@@ -576,6 +593,15 @@ function BlogPostPage() {
               <div className="absolute inset-0 bg-gradient-to-b from-black/75 via-black/45 to-black/90" aria-hidden="true" />
               <div className="absolute inset-0 bg-gradient-to-tr from-red-950/50 via-transparent to-transparent" aria-hidden="true" />
               <CosaEnBanner />
+              {creditoDe(heroSrc) && (
+                <p className="absolute bottom-1 right-2 z-10 text-[10px] text-white/70">
+                  Foto:{" "}
+                  <a href={creditoDe(heroSrc)!.url} target="_blank" rel="noopener noreferrer nofollow" className="underline">
+                    {creditoDe(heroSrc)!.autor}
+                  </a>{" "}
+                  · {creditoDe(heroSrc)!.licencia} · Wikimedia Commons
+                </p>
+              )}
             </>
           ) : (
             <div className="absolute inset-0 bg-gradient-to-b from-gray-950 to-gray-900" aria-hidden="true" />
@@ -694,6 +720,16 @@ function BlogPostPage() {
             <p className="text-[11px] text-gray-400">Última revisión de este contenido: {post.date}</p>
           </div>
 
+          {fichaLink && (
+            <div className="my-8 text-center">
+              <Link
+                to={fichaLink}
+                className="inline-flex items-center justify-center gap-2 rounded-2xl bg-red-600 px-5 py-3 text-sm font-bold text-white transition hover:bg-red-700"
+              >
+                Ver ficha completa →
+              </Link>
+            </div>
+          )}
           {/* 12/10/2026: opiniones de propietarios de la ficha enlazada en el artículo */}
           {fichaResenas && (
             <Suspense fallback={null}>

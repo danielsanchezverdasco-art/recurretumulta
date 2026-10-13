@@ -88,11 +88,19 @@ export function useSeo({
     // Canonical española absoluta. Sitio solo en español: sin hreflang ni prefijos de idioma.
     const url = `${DOMAIN}${canonPath}`;
 
+    // Título/meta finales fijados en el HTML por scripts/apply-seo.mjs
+    // (fuente: src/content/seo/titulos.csv): en esa URL no se pisan.
+    const fijo = document.querySelector('meta[name="rtm-seo"]')?.getAttribute("data-path") === canonPath;
+    const tituloFinal = fijo ? document.title : fullTitle;
+    const descFinal = fijo
+      ? document.querySelector('meta[name="description"]')?.getAttribute("content") || desc
+      : desc;
+
     // Title
-    document.title = fullTitle;
+    document.title = tituloFinal;
 
     // Meta básicos
-    setMeta("description", desc);
+    setMeta("description", descFinal);
     
     setMeta(
       "robots",
@@ -110,8 +118,8 @@ export function useSeo({
     setLink("canonical", url);
 
     // Open Graph
-    setMeta("og:title", fullTitle, "property");
-    setMeta("og:description", desc, "property");
+    setMeta("og:title", tituloFinal, "property");
+    setMeta("og:description", descFinal, "property");
     setMeta("og:url", url, "property");
     setMeta("og:image", image, "property");
     setMeta("og:type", type, "property");
@@ -119,8 +127,8 @@ export function useSeo({
     setMeta("og:site_name", "RecurreTuMulta.online", "property");
 
     // Twitter
-    setMeta("twitter:title", fullTitle, "name");
-    setMeta("twitter:description", desc, "name");
+    setMeta("twitter:title", tituloFinal, "name");
+    setMeta("twitter:description", descFinal, "name");
     setMeta("twitter:image", image, "name");
     setMeta("twitter:card", "summary_large_image", "name");
 

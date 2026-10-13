@@ -35,10 +35,11 @@ export default function TerminosPage() {
             <div className="w-10 h-10 bg-red-50 rounded-xl flex items-center justify-center">
               <FileText className="w-5 h-5 text-red-600" />
             </div>
-            <h1 className="text-3xl font-black text-gray-900">{"legal.termsTitle"}</h1>
+            <h1 className="text-3xl font-black text-gray-900">{"Términos y Condiciones"}</h1>
           </div>
           <p className="text-sm text-gray-500">{"Última actualización: " + YEAR}</p>
         </div>
+        <img src="/media/terminos-condiciones.webp" alt="Términos y condiciones: contrato firmado que regula el uso del servicio" className="w-full h-48 sm:h-64 object-cover rounded-2xl shadow-lg" loading="lazy" />
 
         <div className="prose prose-sm max-w-none text-gray-700 space-y-6">
           <section>
@@ -68,6 +69,7 @@ export default function TerminosPage() {
 
           <section>
             <h2 className="text-xl font-black text-gray-900">5. Propiedad intelectual</h2>
+            <img src="/media/aviso-legal.webp" alt="Balanza de la justicia y documentos legales: marco jurídico de los términos del servicio" className="w-full h-40 sm:h-52 object-cover rounded-2xl shadow mb-6" loading="lazy" />
             <p>Todo el contenido de RecurreTuMulta.online (textos, diseño, código, marca) es propiedad de RecurreTuMulta.online y está protegido por las leyes de propiedad intelectual. Los recursos generados por la IA a partir de tu multa son tuyos: puedes usarlos, presentarlos y modificarlos libremente.</p>
           </section>
 

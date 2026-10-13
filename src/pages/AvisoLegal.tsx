@@ -45,6 +45,7 @@ export default function AvisoLegalPage() {
             Los contenidos de este sitio web tienen carácter meramente informativo y no constituyen asesoramiento jurídico.
           </p>
         </div>
+        <img src="/media/aviso-legal.webp" alt="Aviso legal: balanza de la justicia y documentos legales españoles" className="w-full h-48 sm:h-64 object-cover rounded-2xl shadow-lg" loading="lazy" />
 
         <div className="prose prose-sm max-w-none text-gray-700 space-y-6">
           <section>
@@ -70,6 +71,7 @@ export default function AvisoLegalPage() {
 
           <section>
             <h2 className="text-xl font-black text-gray-900">4. Propiedad intelectual e industrial</h2>
+            <img src="/media/vicios-forma-documento.webp" alt="Documentos legales españoles sobre una mesa: base jurídica del aviso legal" className="w-full h-40 sm:h-52 object-cover rounded-2xl shadow mb-6" loading="lazy" />
             <p>Los textos, diseños, logotipos, código y demás contenidos de este sitio son propiedad de RecurreTuMulta.online o de sus licenciantes, salvo el contenido normativo de carácter público (leyes, reglamentos, resoluciones) citado con fines informativos. Queda prohibida su reproducción total o parcial sin autorización expresa, salvo cita con enlace a la fuente original.</p>
           </section>
 

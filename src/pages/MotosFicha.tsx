@@ -1,5 +1,9 @@
 import { lazy, Suspense, useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
+import CreditoFoto from "@/components/CreditoFoto.tsx";
+import { BLOG_LITE } from "@/lib/blog-lite.generated.ts";
+import { ANALISIS_MOTOS } from "@/lib/analisis-slugs.generated";
+const BLOG_SLUGS = new Set(BLOG_LITE.map((p) => p.slug));
 import {
   ArrowLeftRight,
   Bike,
@@ -88,6 +92,8 @@ const FILAS: Fila[] = [
 
 function Ficha({ moto }: { moto: MotoComparador }) {
   const nombre = `${moto.marca} ${moto.modelo}`.replace(/:+$/, "").trim();
+  // 13/10/2026: análisis del blog (analisisSlug o post con el mismo id); botón solo si el post existe.
+  const analisisMoto = ANALISIS_MOTOS[moto.id] ?? moto.analisisSlug ?? moto.id;
   // 12/10/2026: nodos schema.org de reseñas (se fusionan en cliente cuando
   // Convex responde; en el prerender no hay datos → solo el schema base).
   const [reviewsExtra, setReviewsExtra] = useState<ResenaSchemaExtra | null>(null);
@@ -314,6 +320,7 @@ function Ficha({ moto }: { moto: MotoComparador }) {
               </div>
             )}
           </div>
+          <CreditoFoto src={moto.imagen} />
           {moto.imagen && lightbox && (
             <Lightbox
               src={moto.imagen}
@@ -448,6 +455,7 @@ function Ficha({ moto }: { moto: MotoComparador }) {
                       if (fig) (fig as HTMLElement).style.display = "none";
                     }}
                   />
+                  <CreditoFoto src={f.src} className="px-2 pb-1" />
                 </figure>
               ))}
             </div>
@@ -514,9 +522,9 @@ function Ficha({ moto }: { moto: MotoComparador }) {
               </p>
             ) : null;
           })()}
-          {moto.analisisSlug ? (
+          {BLOG_SLUGS.has(analisisMoto) ? (
             <Link
-              to={`/blog/${moto.analisisSlug}`}
+              to={`/blog/${analisisMoto}`}
               className="mt-4 inline-flex items-center gap-2 rounded-xl bg-gray-900 px-4 py-2.5 text-sm font-bold text-white transition hover:bg-gray-700"
             >
               <BookOpen className="h-4 w-4" /> Ver la comparativa completa

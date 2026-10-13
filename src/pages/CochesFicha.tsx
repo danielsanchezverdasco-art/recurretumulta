@@ -1,5 +1,6 @@
 import { lazy, Suspense, useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
+import CreditoFoto from "@/components/CreditoFoto.tsx";
 import {
   ArrowLeftRight,
   BookOpen,
@@ -17,6 +18,7 @@ import { useSeo } from "@/hooks/use-seo.ts";
 import { BLOG_LITE } from "@/lib/blog-lite.generated.ts";
 // 12/10/2026: los enlaces ficha->blog solo se renderizan si el blog existe.
 // Evita 298 enlaces rotos en el lote de 500 fichas sin blog publicado aún.
+import { ANALISIS_COCHES } from "@/lib/analisis-slugs.generated";
 const BLOG_SLUGS = new Set(BLOG_LITE.map((p) => p.slug));
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
@@ -178,7 +180,9 @@ function Ficha({ coche }: { coche: CocheComparador }) {
   const [reviewsExtra, setReviewsExtra] = useState<ResenaSchemaExtra | null>(null);
   const duelos = DUELOS[coche.id] ?? [];
   // 12/10/2026: solo enlazar al blog si existe (evita 404 en fichas sin blog aún).
-  const tieneBlog = BLOG_SLUGS.has(coche.id);
+  // 13/10/2026: slug del análisis (puede no coincidir con el id); botón solo si el post existe.
+  const analisisSlug = ANALISIS_COCHES[coche.id] ?? coche.id;
+  const tieneBlog = BLOG_SLUGS.has(analisisSlug);
 
   const [lightbox, setLightbox] = useState(false);
   const [heroSrc, setHeroSrc] = useState(coche.imagenOficial);
@@ -455,6 +459,7 @@ function Ficha({ coche }: { coche: CocheComparador }) {
             <p className="text-sm font-semibold text-gray-500">Foto oficial pendiente de verificación</p>
           </div>
           )}
+          {heroOk && <CreditoFoto src={heroSrc} />}
           {lightbox && heroOk && (
             <Lightbox
               src={heroSrc}
@@ -667,7 +672,7 @@ function Ficha({ coche }: { coche: CocheComparador }) {
           </p>
           {tieneBlog && (
             <Link
-              to={`/blog/${coche.id}`}
+              to={`/blog/${analisisSlug}`}
               className="mt-4 inline-flex items-center gap-2 rounded-xl bg-gray-900 px-4 py-2.5 text-sm font-bold text-white transition hover:bg-gray-700"
             >
               <BookOpen className="h-4 w-4" /> Ver versiones en el análisis
@@ -731,6 +736,7 @@ function Ficha({ coche }: { coche: CocheComparador }) {
                     loading="lazy"
                     className="rtm-card-zoom aspect-[3/2] w-full object-cover"
                   />
+                  <CreditoFoto src={f.src} className="px-2 pb-1" />
                 </figure>
               ))}
             </div>
@@ -1053,7 +1059,7 @@ function Ficha({ coche }: { coche: CocheComparador }) {
           </Link>
           {tieneBlog && (
             <Link
-              to={`/blog/${coche.id}`}
+              to={`/blog/${analisisSlug}`}
               className="inline-flex items-center justify-center gap-2 rounded-2xl bg-red-600 px-4 py-3 text-sm font-bold text-white transition hover:bg-red-700"
             >
               <BookOpen className="h-4 w-4" /> Leer nuestro análisis

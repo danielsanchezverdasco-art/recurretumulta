@@ -37,10 +37,11 @@ export default function PrivacidadPage() {
             <div className="w-10 h-10 bg-red-50 rounded-xl flex items-center justify-center">
               <Shield className="w-5 h-5 text-red-600" />
             </div>
-            <h1 className="text-3xl font-black text-gray-900">{"legal.privacyTitle"}</h1>
+            <h1 className="text-3xl font-black text-gray-900">{"Política de Privacidad"}</h1>
           </div>
           <p className="text-sm text-gray-500">{"Última actualización: " + YEAR}</p>
         </div>
+        <img src="/media/privacidad-datos.webp" alt="Protección de datos personales: candado digital que simboliza la seguridad de tu privacidad" className="w-full h-48 sm:h-64 object-cover rounded-2xl shadow-lg" loading="lazy" />
 
         <div className="prose prose-sm max-w-none text-gray-700 space-y-6">
           <section>
@@ -75,6 +76,7 @@ export default function PrivacidadPage() {
 
           <section>
             <h2 className="text-xl font-black text-gray-900">5. Destinatarios y transferencias</h2>
+            <img src="/media/vicios-forma-documento.webp" alt="Expediente con documentos oficiales: tus datos solo se comparten con quien la ley exige" className="w-full h-40 sm:h-52 object-cover rounded-2xl shadow mb-6" loading="lazy" />
             <p>No cedemos tus datos a terceros. Solo acceden a ellos los encargados estrictamente necesarios para prestarte el servicio:</p>
             <ul className="list-disc pl-5 space-y-1">
               <li><strong>Stripe Inc.</strong> (procesamiento de pagos) — EEUU, con garantías adecuadas.</li>

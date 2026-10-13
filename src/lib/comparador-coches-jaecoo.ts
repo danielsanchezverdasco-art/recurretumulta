@@ -403,7 +403,7 @@ export const COCHES_JAECOO: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/jaecoo-8-shs-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "",
+    imagenInteriorOficial: "/media/jaecoo-8-shs-2026-precio-ficha-tecnica-interior.webp",
     videoId: "et30-pnlgr0",
     videoCanal: "SoyMotor",
     marca: "Jaecoo",

@@ -45,3 +45,20 @@
 | /media/bsa-scrambler-650-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:BSA_Scrambler_650_2026.jpg | MotorideSA | CC BY-SA 4.0 |
 | /media/kawasaki-w230-2026-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Kawasaki_W230_2025.jpg | AVMOTO | CC BY-SA 4.0 |
 | /media/triumph-bonneville-bobber-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Triumph_Bonneville_Bobber_1200_Icon_Edition_(2025).jpg | AVMOTO | CC BY-SA 4.0 |
+| /media/cupra-formentor-vz5-2026-2.webp | https://commons.wikimedia.org/wiki/File:Cupra_Formentor_VZ5_1X7A6987.jpg | Alexander-93 | CC BY-SA 4.0 |
+| /media/genesis-electrified-g80-2026-2.webp | https://commons.wikimedia.org/wiki/File:Genesis_Electrified_G80_Auto_Zuerich_2023_1X7A1133.jpg | Alexander-93 | CC BY-SA 4.0 |
+| /media/piaggio-medley-200-2026-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Piaggio_Medley_S_200_2025.jpg | AVMOTO | CC BY-SA 4.0 |
+| /media/sym-joymax-z-300-2026-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:SYM_Joymax_z%2B_300.jpg | Spectru125gp2 | CC BY-SA 4.0 |
+| /media/honda-cbr500r-2024-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Honda_CBR500R_e-clutch.jpg | MotorideSA | CC BY-SA 4.0 |
+| /media/bmw-s-1000-xr-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:BMW_S_1000_XR.jpg | Andrew Napier | CC BY 2.0 |
+| /media/kawasaki-ninja-h2-sx-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Kawasaki_Ninja_H2_SX_-_Mondial_de_l%27Automobile_de_Paris_2018_-_001.jpg | Thesupermat | CC BY-SA 4.0 |
+| /media/indian-101-scout-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Indian_Scout_101_Motorcycle_(44400089014).jpg | David Merrett from Daventry, England | CC BY 2.0 |
+| /media/indian-super-chief-limited-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:The_rearview_of_Indian_Motorcycle_Super_Chief_Limited_mid-year_2023.jpg | Tokumeigakarinoaoshima | CC BY-SA 4.0 |
+| /media/moto-guzzi-v9-bobber-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Moto_Guzzi_V9_Bobber_Centenario_2021_museum.jpg | CheminduCret | CC0 |
+| /media/renault-8-gordini-concept-paris-2026-oficial.webp | https://commons.wikimedia.org/wiki/File:Renault_8_Gordini_Concept_2026.jpg | 2cv2026 | CC BY-SA 4.0 |
+| /media/renault-8-gordini-concept-paris-2026-oficial-2.webp | https://commons.wikimedia.org/wiki/File:Renault_8_Gordini_Concept_2026.jpg | 2cv2026 | CC BY-SA 4.0 |
+| /media/fiat-grizzly-fastback-paris-2026-oficial.webp | https://commons.wikimedia.org/wiki/File:Fiat_Grizzly_Fastback.jpg | Turning67 | CC BY-SA 4.0 |
+| /media/fiat-grizzly-fastback-paris-2026-oficial-2.webp | https://commons.wikimedia.org/wiki/File:Fiat_Grizzly_Fastback.jpg | Turning67 | CC BY-SA 4.0 |
+| /media/citroen-2cv-clasico-1948.webp | https://commons.wikimedia.org/wiki/File:Citro%C3%ABn_2_CV_Charleston_(2015-08-29_3174_b).jpg | Lothar Spurzem | CC BY-SA 2.0 de |
+| /media/aion-v-vs-deepal-s05-cual-comprar-hero.webp | https://commons.wikimedia.org/wiki/File:Aion_V_006.jpg | Jengtingchen | CC BY-SA 4.0 |
+| /media/aion-v-vs-deepal-s05-cual-comprar-cuerpo.webp | https://commons.wikimedia.org/wiki/File:Aion_V_006.jpg | Jengtingchen | CC BY-SA 4.0 |

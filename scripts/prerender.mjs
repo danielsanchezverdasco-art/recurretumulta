@@ -13,6 +13,7 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 // OUT_DIR permite escribir el HTML en un outDir distinto (p. ej. dist-new).
 const DIST = join(ROOT, (process.env.PREVIEW_DIR || "").trim() || "dist");
 const PORT = Number(process.env.PRERENDER_PORT || 4317);
+const EXPANDIR_RUTAS = new Set((process.env.PRERENDER_EXPANDIR ?? "/fichas-tecnicas").split(",").filter(Boolean));
 
 // ÚNICA FUENTE DE VERDAD DE RUTAS: scripts/routes.json (diseño 11/10/2026).
 // prerender-resume.mjs y gen-sitemap.mjs leen el mismo fichero: las listas ya no
@@ -276,6 +277,21 @@ async function main() {
           null,
           { timeout: 15000 }
         );
+        await page.waitForTimeout(500);
+      }
+      // 13/10/2026: como producción 6ac8e7ec, /fichas-tecnicas se publica con la
+      // lista completa en el HTML: se pulsa "Cargar más fichas" hasta agotarla.
+      if (EXPANDIR_RUTAS.has(route.replace(/\/$/, ""))) {
+        for (let i = 0; i < 400; i++) {
+          const n = await page.evaluate(() => {
+            const b = [...document.querySelectorAll("button")].find((x) => /^Cargar más/.test(x.textContent.trim()));
+            if (!b) return -1;
+            b.click();
+            return document.querySelectorAll("a[href]").length;
+          });
+          if (n < 0) break;
+          await page.waitForTimeout(60);
+        }
         await page.waitForTimeout(500);
       }
       let html = await page.content();

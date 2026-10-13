@@ -344,7 +344,7 @@ export default function FichasTecnicasPage() {
   const [fAutMin, setFAutMin] = useState(0);
   const [fEtiqueta, setFEtiqueta] = useState("todas");
   const [fCertificado, setFCertificado] = useState("todos");
-  const [orden, setOrden] = useState("novedad");
+  const [orden, setOrden] = useState("precioAsc");
   const [filtrosAbiertos, setFiltrosAbiertos] = useState(false);
   const PAGE_SIZE = 24;
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
@@ -388,7 +388,6 @@ export default function FichasTecnicasPage() {
     else if (orden === "precioDesc") lista.sort((a, b) => (b.precio ?? -Infinity) - (a.precio ?? -Infinity));
     else if (orden === "autDesc") lista.sort((a, b) => (b.autonomiaKm ?? -Infinity) - (a.autonomiaKm ?? -Infinity));
     else if (orden === "nombre") lista.sort((a, b) => a.nombreBusqueda.localeCompare(b.nombreBusqueda, "es"));
-    else if (orden === "novedad") lista.reverse();
     return lista;
   }, [base, q, fMarca, fPrecioMax, fAutMin, fEtiqueta, fCertificado, orden]);
 
@@ -576,7 +575,6 @@ export default function FichasTecnicasPage() {
           <label className="block text-xs font-bold text-gray-700">
             Ordenar
             <select value={orden} onChange={(e) => { setOrden(e.target.value); setVisibleCount(PAGE_SIZE); }} className={`${SELECT_CLASE} mt-1`}>
-              <option value="novedad">Novedades primero</option>
               <option value="precioAsc">Precio: menor a mayor</option>
               <option value="precioDesc">Precio: mayor a menor</option>
               <option value="autDesc">Autonomía: mayor a menor</option>

@@ -544,7 +544,13 @@ class ResenasBoundary extends Component<{ children: ReactNode }, { fallo: boolea
   }
 }
 
+// 13/10/2026: oculta hasta que el backend de reseñas (resenasVehiculos:*) esté
+// desplegado en Convex; así ni el HTML prerenderizado ni la app la muestran,
+// igual que producción 6ac8e7ec. Poner a true tras el deploy de Convex.
+const RESENAS_ACTIVAS = false;
+
 export default function ResenasVehiculo(props: Props) {
+  if (!RESENAS_ACTIVAS) return null;
   return (
     <ResenasBoundary>
       <LazyConvexProvider>
