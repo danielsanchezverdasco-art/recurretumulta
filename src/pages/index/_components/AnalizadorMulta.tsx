@@ -36,6 +36,18 @@ async function fileToBase64(file: File): Promise<string> {
   });
 }
 
+// Mensaje legible de un error de Convex (nunca el texto técnico)
+function mensajeError(err: unknown, porDefecto: string): string {
+  const data = (err as { data?: unknown })?.data;
+  if (data && typeof data === "object" && typeof (data as { message?: unknown }).message === "string") return (data as { message: string }).message;
+  if (typeof data === "string") return data;
+  const msg = err instanceof Error ? err.message : "";
+  const m = msg.match(/ConvexError: (\{[\s\S]*\})/);
+  if (m) { try { const j = JSON.parse(m[1]); if (typeof j.message === "string") return j.message; } catch { /* sigue */ } }
+  if (!msg || /\[CONVEX|Server Error|Request ID/i.test(msg)) return porDefecto;
+  return msg;
+}
+
 // Valida el tipo MIME del archivo
 function normalizeMimeType(file: File): string {
   const mime = file.type || (/\.pdf$/i.test(file.name) ? "application/pdf" : "application/octet-stream");
@@ -579,7 +591,7 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
       if (err instanceof AnalisisTimeoutError) {
         toast.error("Está tardando más de lo normal (puede ser tu conexión). Pulsa de nuevo para reintentar.");
       } else {
-        toast.error((err as { data?: { message?: string } })?.data?.message ?? (err instanceof Error ? err.message.replace(/^[\s\S]*?(Uncaught ConvexError: )?/, "") : t("toast.errorMulta")));
+        toast.error(mensajeError(err, t("toast.errorMulta")));
       }
       setStep("upload");
     }

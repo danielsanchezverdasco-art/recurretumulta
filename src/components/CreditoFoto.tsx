@@ -8,6 +8,17 @@ export function creditoDe(src?: string | null) {
 export default function CreditoFoto({ src, className = "" }: { src?: string | null; className?: string }) {
   const c = creditoDe(src);
   if (!c) return null;
+  if (c.licencia === "prensa") {
+    return (
+      <p className={`mt-1 text-[10px] leading-tight text-gray-400 ${className}`}>
+        Foto:{" "}
+        <a href={c.url} target="_blank" rel="noopener noreferrer nofollow" className="underline hover:text-gray-600">
+          {c.autor}
+        </a>{" "}
+        (prensa)
+      </p>
+    );
+  }
   return (
     <p className={`mt-1 text-[10px] leading-tight text-gray-400 ${className}`}>
       Foto:{" "}

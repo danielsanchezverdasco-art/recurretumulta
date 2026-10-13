@@ -63,3 +63,116 @@
 | /media/aion-v-vs-deepal-s05-cual-comprar-hero.webp | https://commons.wikimedia.org/wiki/File:Aion_V_006.jpg | Jengtingchen | CC BY-SA 4.0 |
 | /media/aion-v-vs-deepal-s05-cual-comprar-cuerpo.webp | https://commons.wikimedia.org/wiki/File:Aion_V_006.jpg | Jengtingchen | CC BY-SA 4.0 |
 | /media/sym-symphony-sr-125-abs-2026-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:SYM_Symphony_SR_125.jpg | AVMOTO | CC BY-SA 4.0 |
+
+## Fotos oficiales de prensa / web oficial del fabricante
+
+| Archivo | Fuente | Autor | Licencia |
+|---|---|---|---|
+| /media/cupra-leon-20-tdi-2026-1.webp | https://www.cupraofficial.es/coches/leon | CUPRA | prensa |
+| /media/cupra-leon-20-tdi-2026-1-card.webp | https://www.cupraofficial.es/coches/leon | CUPRA | prensa |
+| /media/skoda-elroq-85x-2026-1.webp | https://www.skoda-storyboard.com/en/press-kits/skoda-elroq-press-kit/images-2/ | Škoda | prensa |
+| /media/skoda-elroq-85x-2026-1-card.webp | https://www.skoda-storyboard.com/en/press-kits/skoda-elroq-press-kit/images-2/ | Škoda | prensa |
+| /media/skoda-enyaq-coupe-85x-2026-1.webp | https://www.skoda-storyboard.com/en/press-kits/new-skoda-enyaq-press-kit-2/ | Škoda | prensa |
+| /media/skoda-enyaq-coupe-85x-2026-1-card.webp | https://www.skoda-storyboard.com/en/press-kits/new-skoda-enyaq-press-kit-2/ | Škoda | prensa |
+| /media/mercedes-amg-cle-53-cabrio-2025-1.webp | https://media.mercedes-benz.com/article/057a4c29-2698-49fb-8847-810a5bd0192e | Mercedes-AMG | prensa |
+| /media/mercedes-amg-cle-53-cabrio-2025-1-card.webp | https://media.mercedes-benz.com/article/057a4c29-2698-49fb-8847-810a5bd0192e | Mercedes-AMG | prensa |
+| /media/velca-vortex-2026-ficha-tecnica-precio-1.webp | https://www.velcamotor.com/velca-vortex | Velca | prensa |
+| /media/velca-vortex-2026-ficha-tecnica-precio-1-card.webp | https://www.velcamotor.com/velca-vortex | Velca | prensa |
+| /media/velca-bora-plus-2025-ficha-tecnica-precio-1.webp | https://www.velcamotor.com/shop/bora-plus-ciclomotor-electrico-266 | Velca | prensa |
+| /media/velca-bora-plus-2025-ficha-tecnica-precio-1-card.webp | https://www.velcamotor.com/shop/bora-plus-ciclomotor-electrico-266 | Velca | prensa |
+| /media/velca-one-2026-ficha-tecnica-precio-1.webp | https://www.velcamotor.com/one | Velca | prensa |
+| /media/velca-one-2026-ficha-tecnica-precio-1-card.webp | https://www.velcamotor.com/one | Velca | prensa |
+| /media/patinetes/cecotec-bongo-v70-connected.webp | https://cecotec.es/es/patinetes-electricos/bongo-v70-connected | Cecotec | prensa |
+| /media/patinetes/cecotec-bongo-v70-connected-card.webp | https://cecotec.es/es/patinetes-electricos/bongo-v70-connected | Cecotec | prensa |
+| /media/patinetes/cecotec-bongo-d20e-connected.webp | https://cecotec.es/es/patinetes-electricos/bongo-d20e-connected | Cecotec | prensa |
+| /media/patinetes/cecotec-bongo-d20e-connected-card.webp | https://cecotec.es/es/patinetes-electricos/bongo-d20e-connected | Cecotec | prensa |
+| /media/patinetes/cecotec-bongo-v55-2x2-connected.webp | https://cecotec.es/es/patinetes-electricos/bongo-v55-2x2-connected | Cecotec | prensa |
+| /media/patinetes/cecotec-bongo-v55-2x2-connected-card.webp | https://cecotec.es/es/patinetes-electricos/bongo-v55-2x2-connected | Cecotec | prensa |
+| /media/patinetes/cecotec-bongo-gs65-2x2-xxl-connected.webp | https://cecotec.es/es/patinetes-electricos/bongo-gs65-2x2-xxl-connected | Cecotec | prensa |
+| /media/patinetes/cecotec-bongo-gs65-2x2-xxl-connected-card.webp | https://cecotec.es/es/patinetes-electricos/bongo-gs65-2x2-xxl-connected | Cecotec | prensa |
+| /media/patinetes/cecotec-bongo-x45-connected.webp | https://cecotec.es/es/patinetes-electricos/patinete-electrico-bongo-x45-connected | Cecotec | prensa |
+| /media/patinetes/cecotec-bongo-x45-connected-card.webp | https://cecotec.es/es/patinetes-electricos/patinete-electrico-bongo-x45-connected | Cecotec | prensa |
+| /media/cecotec-vulcano-2025-ficha-tecnica-precio-1.webp | https://cecotec.es/es/motocicletas-electricas/cecotec-vulcano-blancorojo | Cecotec | prensa |
+| /media/cecotec-vulcano-2025-ficha-tecnica-precio-1-card.webp | https://cecotec.es/es/motocicletas-electricas/cecotec-vulcano-blancorojo | Cecotec | prensa |
+| /media/patinetes/joyor-luxerider.webp | https://joyorscooter.com/products/joyor-luxerider-electric-scooter | Joyor | prensa |
+| /media/patinetes/joyor-luxerider-card.webp | https://joyorscooter.com/products/joyor-luxerider-electric-scooter | Joyor | prensa |
+| /media/patinetes/joyor-c10.webp | https://joyorscooter.com/products/joyor-c10-electric-scooter | Joyor | prensa |
+| /media/patinetes/joyor-c10-card.webp | https://joyorscooter.com/products/joyor-c10-electric-scooter | Joyor | prensa |
+| /media/patinetes/joyor-t-pro.webp | https://joyorscooter.com/products/joyor-t-pro-dgt-electric-scooter | Joyor | prensa |
+| /media/patinetes/joyor-t-pro-card.webp | https://joyorscooter.com/products/joyor-t-pro-dgt-electric-scooter | Joyor | prensa |
+| /media/patinetes/joyor-litego.webp | https://joyorscooter.com/products/joyor-litego-dgt-electric-scooter | Joyor | prensa |
+| /media/patinetes/joyor-litego-card.webp | https://joyorscooter.com/products/joyor-litego-dgt-electric-scooter | Joyor | prensa |
+| /media/patinetes/joyor-e6-s.webp | https://joyorscooter.com/products/joyor-e6-s-electric-scooter | Joyor | prensa |
+| /media/patinetes/joyor-e6-s-card.webp | https://joyorscooter.com/products/joyor-e6-s-electric-scooter | Joyor | prensa |
+| /media/patinetes/joyor-s-pro.webp | https://joyorscooter.com/products/joyor-s-pro-dgt-electric-scooter | Joyor | prensa |
+| /media/patinetes/joyor-s-pro-card.webp | https://joyorscooter.com/products/joyor-s-pro-dgt-electric-scooter | Joyor | prensa |
+| /media/patinetes/zero-10x.webp | https://zeroelectricscooter.com/products/zero-10x | Zero | prensa |
+| /media/patinetes/zero-10x-card.webp | https://zeroelectricscooter.com/products/zero-10x | Zero | prensa |
+| /media/patinetes/iscooter-if1.webp | https://www.iscooterglobal.com/pages/if1 | iScooter | prensa |
+| /media/patinetes/iscooter-if1-card.webp | https://www.iscooterglobal.com/pages/if1 | iScooter | prensa |
+| /media/patinetes/isinwheel-m2.webp | https://www.isinwheel.es/products/m2-patinete-electrico-todoterreno-800w-isinwheel | iSinwheel | prensa |
+| /media/patinetes/isinwheel-m2-card.webp | https://www.isinwheel.es/products/m2-patinete-electrico-todoterreno-800w-isinwheel | iSinwheel | prensa |
+| /media/patinetes/kaabo-wolf-warrior-11-max.webp | https://www.kaaboeu.com/products/wolf-warrior-11-max | Kaabo | prensa |
+| /media/patinetes/kaabo-wolf-warrior-11-max-card.webp | https://www.kaaboeu.com/products/wolf-warrior-11-max | Kaabo | prensa |
+| /media/patinetes/kaabo-wolf-warrior-x-max.webp | https://www.kaaboeu.com/products/wolf-warrior-x-max | Kaabo | prensa |
+| /media/patinetes/kaabo-wolf-warrior-x-max-card.webp | https://www.kaaboeu.com/products/wolf-warrior-x-max | Kaabo | prensa |
+| /media/patinetes/kaabo-mantis-x-plus.webp | https://www.kaaboeu.com/products/mantis-x-plus | Kaabo | prensa |
+| /media/patinetes/kaabo-mantis-x-plus-card.webp | https://www.kaaboeu.com/products/mantis-x-plus | Kaabo | prensa |
+| /media/patinetes/teverun-fighter-supreme-7260r.webp | https://teverun.com/product/fighter-supreme-7260r/ | Teverun | prensa |
+| /media/patinetes/teverun-fighter-supreme-7260r-card.webp | https://teverun.com/product/fighter-supreme-7260r/ | Teverun | prensa |
+| /media/patinetes/dualtron-togo-max.webp | https://www.minimotors.es/producto/dualtron-togo-max/ | Minimotors (Dualtron) | prensa |
+| /media/patinetes/dualtron-togo-max-card.webp | https://www.minimotors.es/producto/dualtron-togo-max/ | Minimotors (Dualtron) | prensa |
+| /media/patinetes/hiley-tiger-king-rs.webp | https://hiley.eu/p/tiger-king-rs/ | Hiley | prensa |
+| /media/patinetes/hiley-tiger-king-rs-card.webp | https://hiley.eu/p/tiger-king-rs/ | Hiley | prensa |
+| /media/patinetes/hiley-tiger-evo-gtr.webp | https://hiley.eu/p/tiger-evo-gtr/ | Hiley | prensa |
+| /media/patinetes/hiley-tiger-evo-gtr-card.webp | https://hiley.eu/p/tiger-evo-gtr/ | Hiley | prensa |
+| /media/patinetes/hiley-tiger-10-v5-performance.webp | https://hiley.eu/p/tiger-10-v5-performance/ | Hiley | prensa |
+| /media/patinetes/hiley-tiger-10-v5-performance-card.webp | https://hiley.eu/p/tiger-10-v5-performance/ | Hiley | prensa |
+| /media/patinetes/velocifero-mad-2000w.webp | https://www.velocifero.eu/en/portfolio-items/vlf-mad-2000w/ | Velocifero | prensa |
+| /media/patinetes/velocifero-mad-2000w-card.webp | https://www.velocifero.eu/en/portfolio-items/vlf-mad-2000w/ | Velocifero | prensa |
+| /media/macbor-eight-mile-125-lc-2025-ficha-tecnica-precio-1.webp | https://macbor.es/eight-mile-125-lc-m-1-es | Macbor | prensa |
+| /media/macbor-eight-mile-125-lc-2025-ficha-tecnica-precio-1-card.webp | https://macbor.es/eight-mile-125-lc-m-1-es | Macbor | prensa |
+| /media/bsa-gold-star-650-2025-ficha-tecnica-precio-1.webp | https://bsacompany.co.uk/bsa-goldstar/ | BSA | prensa |
+| /media/bsa-gold-star-650-2025-ficha-tecnica-precio-1-card.webp | https://bsacompany.co.uk/bsa-goldstar/ | BSA | prensa |
+| /media/morbidelli-f-125-2025-ficha-tecnica-precio-1.webp | https://morbidelli.com/int-en/products/f125 | Morbidelli | prensa |
+| /media/morbidelli-f-125-2025-ficha-tecnica-precio-1-card.webp | https://morbidelli.com/int-en/products/f125 | Morbidelli | prensa |
+| /media/leapmotor-b03-electrico-paris-2026-oficial.webp | https://www.media.stellantis.com/uk-en/leapmotor/press/leapmotor-reveals-new-b03-the-smart-small-hatchback-that-delivers-everyday-joy | Leapmotor | prensa |
+| /media/leapmotor-b03-electrico-paris-2026-oficial-card.webp | https://www.media.stellantis.com/uk-en/leapmotor/press/leapmotor-reveals-new-b03-the-smart-small-hatchback-that-delivers-everyday-joy | Leapmotor | prensa |
+| /media/harley-davidson-cvo-road-glide-2025-ficha-tecnica-precio-1.webp | https://www.harley-davidson.com/eu/en/motorcycles/2025/cvo-road-glide.html | Harley-Davidson | prensa |
+| /media/harley-davidson-cvo-road-glide-2025-ficha-tecnica-precio-1-card.webp | https://www.harley-davidson.com/eu/en/motorcycles/2025/cvo-road-glide.html | Harley-Davidson | prensa |
+| /media/harley-davidson-cvo-street-glide-2025-ficha-tecnica-precio-1.webp | https://www.harley-davidson.com/eu/en/motorcycles/2025/cvo-street-glide.html | Harley-Davidson | prensa |
+| /media/harley-davidson-cvo-street-glide-2025-ficha-tecnica-precio-1-card.webp | https://www.harley-davidson.com/eu/en/motorcycles/2025/cvo-street-glide.html | Harley-Davidson | prensa |
+| /media/harley-davidson-street-glide-ultra-2025-ficha-tecnica-precio-1.webp | https://www.harley-davidson.com/eu/en/motorcycles/2025/street-glide-ultra.html | Harley-Davidson | prensa |
+| /media/harley-davidson-street-glide-ultra-2025-ficha-tecnica-precio-1-card.webp | https://www.harley-davidson.com/eu/en/motorcycles/2025/street-glide-ultra.html | Harley-Davidson | prensa |
+| /media/harley-davidson-sportster-s-2025-ficha-tecnica-precio-1.webp | https://www.harley-davidson.com/es/es/motorcycles/sportster-s.html | Harley-Davidson | prensa |
+| /media/harley-davidson-sportster-s-2025-ficha-tecnica-precio-1-card.webp | https://www.harley-davidson.com/es/es/motorcycles/sportster-s.html | Harley-Davidson | prensa |
+| /media/wellta-boreal-2026-ficha-tecnica-precio-1.webp | https://welltamotors.com/descubre-la-nueva-wellta-boreal/ | Wellta | prensa |
+| /media/wellta-boreal-2026-ficha-tecnica-precio-1-card.webp | https://welltamotors.com/descubre-la-nueva-wellta-boreal/ | Wellta | prensa |
+| /media/felo-fw-07-ficha-tecnica-precio-1.webp | https://felomoto.es/motos-electricas-125/felo-fw-07/ | Felo | prensa |
+| /media/felo-fw-07-ficha-tecnica-precio-1-card.webp | https://felomoto.es/motos-electricas-125/felo-fw-07/ | Felo | prensa |
+| /media/triumph-scrambler-1200-x-2025-ficha-tecnica-precio-1.webp | https://es.triumphmotorcycles.com/motorcycles/classic/scrambler/scrambler-1200-x | Triumph | prensa |
+| /media/triumph-scrambler-1200-x-2025-ficha-tecnica-precio-1-card.webp | https://es.triumphmotorcycles.com/motorcycles/classic/scrambler/scrambler-1200-x | Triumph | prensa |
+| /media/triumph-tiger-1200-gt-pro-2025-ficha-tecnica-precio-1.webp | https://www.triumphmotorcycles.es/bikes/adventure/tiger/tiger-1200-gt-pro-2024 | Triumph | prensa |
+| /media/triumph-tiger-1200-gt-pro-2025-ficha-tecnica-precio-1-card.webp | https://www.triumphmotorcycles.es/bikes/adventure/tiger/tiger-1200-gt-pro-2024 | Triumph | prensa |
+| /media/indian-scout-sixty-classic-2025-ficha-tecnica-precio-1.webp | https://www.indianmotorcycle.es/scout-sixty-classic/ | Indian Motorcycle | prensa |
+| /media/indian-scout-sixty-classic-2025-ficha-tecnica-precio-1-card.webp | https://www.indianmotorcycle.es/scout-sixty-classic/ | Indian Motorcycle | prensa |
+| /media/sym-symphony-cargo-125-2026-ficha-tecnica-precio-1.webp | https://www.sym.com.es/sym-symphony-cargo-125cc-p-29-es | SYM | prensa |
+| /media/sym-symphony-cargo-125-2026-ficha-tecnica-precio-1-card.webp | https://www.sym.com.es/sym-symphony-cargo-125cc-p-29-es | SYM | prensa |
+| /media/harley-davidson-nightster-special-2025-ficha-tecnica-precio-1.webp | https://www.harley-davidson.com/es/es/motorcycles/nightster-special.html | Harley-Davidson | prensa |
+| /media/harley-davidson-nightster-special-2025-ficha-tecnica-precio-1-card.webp | https://www.harley-davidson.com/es/es/motorcycles/nightster-special.html | Harley-Davidson | prensa |
+| /media/indian-scout-sixty-bobber-2025-ficha-tecnica-precio-1.webp | https://www.indianmotorcycle.es/scout-sixty-bobber/ | Indian Motorcycle | prensa |
+| /media/indian-scout-sixty-bobber-2025-ficha-tecnica-precio-1-card.webp | https://www.indianmotorcycle.es/scout-sixty-bobber/ | Indian Motorcycle | prensa |
+| /media/indian-sport-scout-2025-ficha-tecnica-precio-1.webp | https://www.indianmotorcycle.es/sport-scout/ | Indian Motorcycle | prensa |
+| /media/indian-sport-scout-2025-ficha-tecnica-precio-1-card.webp | https://www.indianmotorcycle.es/sport-scout/ | Indian Motorcycle | prensa |
+| /media/morbidelli-f-352-2025-ficha-tecnica-precio-1.webp | https://morbidelli.com/int-en/products/f352 | Morbidelli | prensa |
+| /media/morbidelli-f-352-2025-ficha-tecnica-precio-1-card.webp | https://morbidelli.com/int-en/products/f352 | Morbidelli | prensa |
+| /media/triumph-scrambler-400-xc-2025-ficha-tecnica-precio-1.webp | https://www.triumphmotorcycles.es/ | Triumph | prensa |
+| /media/triumph-scrambler-400-xc-2025-ficha-tecnica-precio-1-card.webp | https://www.triumphmotorcycles.es/ | Triumph | prensa |
+| /media/kawasaki-eliminator-500-se-2025-ficha-tecnica-precio-1.webp | https://www.kawasaki.es/ | Kawasaki | prensa |
+| /media/kawasaki-eliminator-500-se-2025-ficha-tecnica-precio-1-card.webp | https://www.kawasaki.es/ | Kawasaki | prensa |
+| /media/yamaha-mt-03-2024-ficha-tecnica-precio-1.webp | https://www.yamaha-motor.eu/es/es/ | Yamaha | prensa |
+| /media/yamaha-mt-03-2024-ficha-tecnica-precio-1-card.webp | https://www.yamaha-motor.eu/es/es/ | Yamaha | prensa |
+| /media/ktm-rc-390-2026-ficha-tecnica-precio-1.webp | https://www.ktm.com/ | KTM | prensa |
+| /media/ktm-rc-390-2026-ficha-tecnica-precio-1-card.webp | https://www.ktm.com/ | KTM | prensa |
+| /media/husqvarna-svartpilen-401-2026-ficha-tecnica-precio-1.webp | https://www.husqvarna-motorcycles.com/ | Husqvarna | prensa |
+| /media/husqvarna-svartpilen-401-2026-ficha-tecnica-precio-1-card.webp | https://www.husqvarna-motorcycles.com/ | Husqvarna | prensa |
