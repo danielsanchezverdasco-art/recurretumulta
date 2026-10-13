@@ -62,3 +62,4 @@
 | /media/citroen-2cv-clasico-1948.webp | https://commons.wikimedia.org/wiki/File:Citro%C3%ABn_2_CV_Charleston_(2015-08-29_3174_b).jpg | Lothar Spurzem | CC BY-SA 2.0 de |
 | /media/aion-v-vs-deepal-s05-cual-comprar-hero.webp | https://commons.wikimedia.org/wiki/File:Aion_V_006.jpg | Jengtingchen | CC BY-SA 4.0 |
 | /media/aion-v-vs-deepal-s05-cual-comprar-cuerpo.webp | https://commons.wikimedia.org/wiki/File:Aion_V_006.jpg | Jengtingchen | CC BY-SA 4.0 |
+| /media/sym-symphony-sr-125-abs-2026-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:SYM_Symphony_SR_125.jpg | AVMOTO | CC BY-SA 4.0 |

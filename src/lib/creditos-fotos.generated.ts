@@ -1,5 +1,10 @@
 // GENERADO por scripts/gen-cards.py desde public/media-creditos.md. No editar.
 export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; url: string }> = {
+"/media/sym-symphony-sr-125-abs-2026-ficha-tecnica-precio-1.webp": {
+"autor": "AVMOTO",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:SYM_Symphony_SR_125.jpg"
+},
 "/media/xpeng-g9-awd-performance-2026-2.webp": {
 "autor": "Alexander-93",
 "licencia": "CC BY-SA 4.0",
