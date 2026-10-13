@@ -21,10 +21,11 @@ export default function SeccionJuegoPortada() {
       </div>
       <div className="max-w-2xl mx-auto px-4 py-6 sm:py-7 pr-16 sm:pr-20">
         <h2 className="text-lg sm:text-xl font-black text-gray-900">
+          <span className="inline-block align-middle rounded-full bg-gradient-to-r from-amber-400 to-red-500 text-white text-xs sm:text-sm font-black px-2.5 py-0.5 mr-2 shadow">💶 PREMIO 1.500 €</span>
           🦍 Encuentra los monos y gana 1.500 €
         </h2>
         <p className="mt-1 text-sm text-gray-600 leading-relaxed">
-          Hay 350 monos escondidos por la web, incluido el legendario dorado. El 1º en cazarlos todos gana 1.500 € + 1 año de recursos ilimitados, y del 2º al 50º, 1 año de recursos ilimitados.
+          Hay 350 monos escondidos por la web. Quien más cace gana 1.500 € + 1 año de recursos ilimitados; del 2º al 50º, 1 año de recursos ilimitados. Y quien encuentre el mono dorado gana 1 año de recursos gratis.
         </p>
         <Link
           to="/juego-monos/"

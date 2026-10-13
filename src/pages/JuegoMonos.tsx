@@ -146,16 +146,17 @@ function ReclamarPremio() {
   const [nombre, setNombre] = useState("");
   const [contacto, setContacto] = useState("");
   const [codigo, setCodigo] = useState<string | null>(null);
-  const completo = total >= objetivo;
+  const completo = total >= 1;
+  const dorado = encontrados.some((id) => id.startsWith("l:"));
+  void objetivo;
 
   if (!completo) {
     return (
       <div className="rounded-2xl border-2 border-dashed border-gray-200 bg-gray-50 p-6 text-center">
         <Ticket className="w-8 h-8 mx-auto text-gray-300 mb-2" />
-        <p className="font-bold text-gray-700">Aún no puedes reclamar el premio</p>
+        <p className="font-bold text-gray-700">Aún no has cazado ningún mono</p>
         <p className="text-sm text-gray-500 mt-1">
-          Te faltan <span className="font-black text-gray-800 tabular-nums">{objetivo - total}</span> monos.
-          Sigue navegando y haz clic en cada mono que veas 🦍
+          Navega por la web y haz clic en cada mono que veas 🦍
         </p>
       </div>
     );
@@ -165,17 +166,17 @@ function ReclamarPremio() {
     return (
       <div className="rounded-2xl border-2 border-amber-300 bg-amber-50 p-6 text-center">
         <PartyPopper className="w-10 h-10 mx-auto text-amber-600 mb-2" />
-        <p className="font-black text-xl text-gray-900">¡LO CONSEGUISTE! 🎉</p>
+        <p className="font-black text-xl text-gray-900">¡Código generado! 🎉 ({total} monos{dorado ? " + dorado" : ""})</p>
         <p className="text-sm text-gray-600 mt-1">Tu código de reclamo es:</p>
         <p className="mt-2 inline-block font-mono font-black text-lg sm:text-xl bg-white border border-amber-300 rounded-xl px-4 py-2 text-amber-900 select-all">
           {codigo}
         </p>
         <p className="text-xs text-gray-500 mt-3 max-w-md mx-auto">
           Envíalo por WhatsApp junto con tu nombre. Verificamos manualmente que los monos
-          sean de verdad y te explicamos cómo recibir tu premio (1.500 € por transferencia si eres el 1º).
+          sean de verdad y al cierre de la temporada te decimos tu puesto (1.500 € por transferencia si eres el 1º). Si tienes el dorado, 1 año de recursos gratis.
         </p>
         <a
-          href={enlaceReclamoWhatsApp(codigo, nombre)}
+          href={enlaceReclamoWhatsApp(codigo, nombre, total, dorado)}
           target="_blank"
           rel="noopener noreferrer"
           className="mt-4 inline-flex items-center gap-2 rounded-full bg-[#25D366] hover:bg-[#128C7E] text-white font-black px-6 py-3 shadow-lg transition-colors cursor-pointer"
@@ -235,7 +236,7 @@ function ReclamarPremio() {
 const FAQS = [
   {
     q: "¿Tengo que registrarme para jugar?",
-    a: "No. No hay cuentas ni registros: tu progreso se guarda automáticamente en tu navegador. Cuando llegues a 350 monos solo te pedimos un nombre y un contacto para poder entregarte el premio.",
+    a: "No. No hay cuentas ni registros: tu progreso se guarda automáticamente en tu navegador. Para reclamar solo te pedimos un nombre y un contacto para poder entregarte el premio.",
   },
   {
     q: "¿Cómo sé cuántos monos llevo?",
@@ -251,7 +252,7 @@ const FAQS = [
   },
   {
     q: "¿En qué consiste el premio?",
-    a: "El 1º puesto se lleva 1.500 € por transferencia bancaria + 1 año de recursos ilimitados; del 2º al 50º, 1 año de recursos ilimitados. El 1º es quien encuentre TODOS los monos, incluido el legendario dorado, y reclame primero con un código válido (los detalles, en las bases).",
+    a: "El 1º puesto se lleva 1.500 € por transferencia bancaria + 1 año de recursos ilimitados; del 2º al 50º, 1 año de recursos ilimitados. El 1º es quien tenga más monos verificados al cierre de la temporada (no hace falta llegar a 350). Además, todos los que encuentren el mono dorado ganan 1 año de recursos gratis (los detalles, en las bases).",
   },
   {
     q: "¿Qué es el ranking de cazadores?",
@@ -278,7 +279,7 @@ const FAQS = [
 function JuegoMonosPage() {
   useSeo({
     title: "Encuentra los monos y gana 1.500 €",
-    description: "Caza de monos: 350 monos escondidos por la web. El 1º gana 1.500 € + 1 año de recursos ilimitados; del 2º al 50º, 1 año de recursos ilimitados.",
+    description: "Caza de monos: 350 monos escondidos por la web. El 1º del ranking gana 1.500 € + 1 año de recursos ilimitados; quien encuentre el mono dorado, 1 año gratis.",
     canonical: "/juego-monos",
     image: "https://recurretumulta.online/media/og-caza-monos-1500e.jpg",
     keywords: ["caza de monos", "juego", "premio 1500 euros", "gana dinero"],
@@ -334,6 +335,7 @@ function JuegoMonosPage() {
               <span className="w-2 h-2 rounded-full bg-amber-400 animate-pulse" />
               <span className="text-xs font-black uppercase tracking-widest text-amber-300">Temporada 1 · Octubre 2026</span>
             </div>
+            <p className="mb-3"><span className="inline-flex items-center gap-2 rounded-full bg-gradient-to-r from-amber-400 via-yellow-300 to-amber-500 text-gray-900 font-black text-base sm:text-xl px-5 py-2 shadow-[0_0_30px_rgba(251,191,36,0.55)] ring-2 ring-amber-200">💶 PREMIO: 1.500 € por transferencia</span></p>
             <h1 className="text-3xl sm:text-5xl font-black leading-tight">
               Encuentra los monos y<br />
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-300 to-red-400">gana 1.500 €</span>
@@ -341,8 +343,8 @@ function JuegoMonosPage() {
             <p className="mt-4 text-sm sm:text-lg text-gray-300 max-w-xl mx-auto">
               Hay <span className="font-black text-white">350 monos</span> escondidos por toda la web
               más el <span className="font-black text-amber-300">legendario dorado</span>.
-              Cázalos a todos y opta a <span className="font-black text-white">1.500 € por transferencia + 1 año de recursos ilimitados</span>.
-              Del 2º al 50º, 1 año de recursos ilimitados.
+              Quien más cace gana <span className="font-black text-white">1.500 € por transferencia + 1 año de recursos ilimitados</span>.
+              Del 2º al 50º, 1 año de recursos ilimitados. ¿Encuentras el dorado? <span className="font-black text-amber-300">1 año de recursos gratis</span>.
             </p>
             <div className="mt-6 flex flex-col sm:flex-row items-center justify-center gap-3">
               <a
@@ -374,7 +376,7 @@ function JuegoMonosPage() {
               {[
                 { icon: Navigation, paso: "1", titulo: "Navega por la web", texto: "Los monos están escondidos en artículos, fichas, comparadores y herramientas." },
                 { icon: MousePointerClick, paso: "2", titulo: "Haz clic en cada mono", texto: "Al hacer clic desaparece y suma 1 a tu contador del menú superior." },
-                { icon: Trophy, paso: "3", titulo: "Llega a 350 y reclama", texto: "Genera tu código y envíalo por WhatsApp. ¡Ganan los más rápidos!" },
+                { icon: Trophy, paso: "3", titulo: "Reclama cuando quieras", texto: "Genera tu código y envíalo por WhatsApp. Gana quien más monos tenga al cierre." },
               ].map((s) => (
                 <div key={s.paso} className="rounded-2xl border border-gray-200 bg-white p-5 shadow-sm text-center">
                   <div className="mx-auto w-11 h-11 rounded-full bg-gradient-to-br from-amber-400 to-red-500 text-white flex items-center justify-center mb-3">
@@ -403,8 +405,7 @@ function JuegoMonosPage() {
                 <p className="text-[11px] font-black uppercase tracking-[0.25em] text-amber-400">✨ Mono legendario</p>
                 <p className="mt-1.5 text-sm sm:text-base text-gray-200 leading-relaxed">
                   Entre los 350 hay <span className="font-black text-amber-300">uno DORADO</span> escondido
-                  en una página profunda de la web. Es <span className="font-black text-white">obligatorio</span> para
-                  ganar los 1.500 €: sin el dorado no hay premio. Las <span className="font-black text-white">pistas solo salen en Instagram</span>.
+                  en una página profunda de la web. Quien lo encuentre gana <span className="font-black text-white">1 año de recursos gratis</span>, sin límite de ganadores. Las <span className="font-black text-white">pistas solo salen en Instagram</span>.
                 </p>
                 <a
                   href="https://www.instagram.com/soycosa.ia/"

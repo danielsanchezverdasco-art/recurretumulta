@@ -147,7 +147,7 @@ export default function HitosCaza() {
             <p className="mt-2 text-sm text-gray-600">
               ¡INCREÍBLE! ¡Eres una leyenda, cazador! 🏆 — <span className="font-black">Cosa</span>
               <br />
-              Ahora reclama tu premio antes de que se lo lleve otro: el 1º gana 1.500 € + 1 año de recursos ilimitados, y del 2º al 50º, 1 año de recursos ilimitados.
+              Reclama tu premio: el 1º del ranking gana 1.500 € + 1 año de recursos ilimitados, y del 2º al 50º, 1 año de recursos ilimitados.
             </p>
             <Link
               to="/juego-monos/"

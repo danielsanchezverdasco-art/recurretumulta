@@ -76,10 +76,9 @@ export default function TutorialCaza() {
             <span className="font-black">contador (arriba en el menú)</span>.
           </p>
           <p>
-            Si encuentras los <span className="font-black">350</span>, entras en los premios:{" "}
-            el <span className="font-black">1º</span> se lleva{" "}
+            Quien más monos cace (el <span className="font-black">1º del ranking</span>) se lleva{" "}
             <span className="font-black text-amber-700">1.500 € + 1 año de recursos ilimitados</span>,
-            y del <span className="font-black">2º al 50º, 1 año de recursos ilimitados</span>. ¡Corre!
+            y del <span className="font-black">2º al 50º, 1 año de recursos ilimitados</span>. Y si encuentras el dorado, 1 año de recursos gratis. ¡Corre!
           </p>
           <p className="text-gray-500">
             Tienes tu ranking en <Link to="/juego-monos/" onClick={cerrar} className="font-bold text-amber-700 underline underline-offset-2 cursor-pointer">/juego-monos</Link>. ¡Suerte! 🍀

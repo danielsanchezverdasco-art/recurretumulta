@@ -44,7 +44,7 @@ export function generarCodigoReclamo(ids: string[]): string {
 
 export const WHATSAPP_RECLAMO = "34711292174";
 
-export function enlaceReclamoWhatsApp(codigo: string, nombre: string): string {
-  const texto = `Hola, he cazado los 350 monos de la Caza de monos 🦍 Mi código de reclamo es ${codigo}. Nombre: ${nombre}`;
+export function enlaceReclamoWhatsApp(codigo: string, nombre: string, total?: number, dorado?: boolean): string {
+  const texto = `Hola, he cazado ${total ?? ""} monos en la Caza de monos 🦍${dorado ? " (¡incluido el dorado!)" : ""} Mi código de reclamo es ${codigo}. Nombre: ${nombre}`;
   return `https://wa.me/${WHATSAPP_RECLAMO}?text=${encodeURIComponent(texto)}`;
 }

@@ -52,11 +52,11 @@ export default function CelebracionLegendario({
           ¡EL MONO LEGENDARIO DORADO!
         </h2>
         <p className="text-amber-800 font-bold mb-1">
-          ¡Lo has cazado! Solo hay uno por temporada.
+          ¡Lo has cazado!
         </p>
         <p className="text-sm text-amber-700 mb-5">
-          Los 3 primeros en cazarlo ganan <span className="font-black">50&nbsp;€</span>.
-          Reclama tu premio en tu perfil.
+          Has ganado <span className="font-black">1 año de recursos gratis</span> (todos los que lo encuentran ganan).
+          Genera tu código y envíalo por WhatsApp para recibirlo.
         </p>
         <a
           href="/juego-monos/"
