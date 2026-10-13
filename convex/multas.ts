@@ -207,17 +207,17 @@ REGLAS DE HONESTIDAD (obligatorias):
 
 FASE 1 — EXTRACCIÓN LITERAL: copia expediente, importe, fecha, infracción, provincia, MATRÍCULA, velocidad detectada y límite de la vía EXACTAMENTE como aparecen. NO inventes ni completes datos. Si algo no se lee con claridad, escribe "No encontrado" / "No especificado" / "No aplica".
 
-FASE 2 — CHECKLIST DE DEFECTOS FORMALES (verifica uno por uno contra el documento):
-1. Identificación del denunciado y del vehículo (matrícula).
-2. Descripción de los hechos: lugar, fecha y hora concretos.
-3. Precepto infringido citado correctamente (artículo de la LTSV u ordenanza).
-4. Sanción impuesta y su correspondencia con el precepto.
-5. Órgano competente que sanciona.
-6. Notificación: ¿en el acto o posterior? ¿plazos respetados?
-7. Si es radar/cámara: ¿consta certificado de verificación metrológica vigente?
-8. Firma o identificación del agente denunciante (o sistema automatizado).
-9. Prescripción: ¿han pasado más de 3 meses (infracción leve) o 6 meses (grave/muy grave) sin notificar?
-Solo incluye defectos que VEAS en el documento. Máximo 4, los más relevantes.
+FASE 2 — CHECKLIST COMPLETO (lee TODAS las páginas; verifica cada punto contra el documento):
+1. Datos: expediente, fechas (infracción, apertura, emisión/notificación), matrícula, lugar concreto.
+2. Precepto infringido frente a la conducta descrita: ¿el artículo citado corresponde al hecho? (art. 76/77 LSV, RGC 48/50, ordenanza).
+3. Importe y puntos frente al cuadro oficial (anexo IV LSV) y calificación (leve/grave/muy grave). El sistema recalcula velocidad e importe: no lo hagas tú.
+4. Velocidad: velocidad medida, límite, mención de tolerancia/margen y del equipo (nº de serie). El margen lo aplica el sistema (Orden ICT/155/2020).
+5. Órgano competente que incoa/sanciona y quien firma o el agente/sistema que denuncia (art. 87.2 y 87.3 LSV; Ley 39/2015 art. 53).
+6. Notificación: forma (en el acto o posterior), causa de no detención, domicilio/DEV (arts. 89-91 LSV); plazos de alegaciones/pago (arts. 93-95 LSV).
+7. Contenido mínimo obligatorio de la denuncia (art. 87 LSV) y derechos del interesado (Ley 39/2015 art. 53).
+8. Prescripción y caducidad (art. 112 LSV): solo copia las fechas; el cálculo lo hace el sistema.
+9. Contradicciones ENTRE PÁGINAS (fechas, importes, matrícula, expediente o precepto distintos en distintas partes del documento).
+Solo incluye defectos que VEAS en el documento y que puedas citar con su artículo. Máximo 4, los más relevantes. Si no hay defectos, deja "defectos" vacío: no inventes.
 
 FASE 3 — RÚBRICA DE VIABILIDAD (determinista: mismos defectos = misma puntuación):
 - Base: 25 (multa aparentemente correcta, sin defectos).
@@ -232,7 +232,7 @@ REGLA DE CONSISTENCIA: ante el mismo documento debes producir siempre los mismos
 REGLA DE COHERENCIA DATOS-DEFECTOS (obligatoria): cada defecto debe ser COHERENTE con los datos extraídos en la FASE 1. Está PROHIBIDO decir que falta un dato que SÍ extrajiste. Ejemplos: si "matricula" tiene un valor, no puedes listar "falta la matrícula" ni "vehículo no identificado"; si "fecha" tiene un valor, no digas que "falta la fecha"; si "expediente" tiene un valor, no digas que "falta el expediente". Antes de incluir cada defecto, comprueba que no contradice ningún campo extraído. Solo incluye defectos REALES que veas en el documento.`;
 
 // Subir CACHE_V cuando cambie la lógica del análisis: invalida la caché anterior.
-const CACHE_V = "v9";
+const CACHE_V = "v11";
 // ── Caché de análisis: la misma multa siempre devuelve el mismo resultado ───
 // (orden de Daniel 03/10/2026). Helpers puros; las queries/mutaciones viven en
 // convex/multasInterno.ts porque los ficheros "use node" solo admiten actions.
@@ -257,15 +257,33 @@ async function extractPdfText(base64Data: string): Promise<string> {
     isEvalSupported: false,
   }).promise;
 
+  // 13/10/2026: reconstruir LÍNEAS por coordenadas (como pdftotext -layout). Las
+  // notificaciones tipo formulario (Ayto. de Madrid, ISIS Papyrus) escriben primero
+  // todas las etiquetas y luego todos los valores: en orden de flujo la IA no podía
+  // emparejar "IMPORTE DE LA MULTA" con "100,00" y devolvía todo vacío.
   const textPages: string[] = [];
-  const maxPages = Math.min(pdf.numPages, 8);
+  const maxPages = Math.min(pdf.numPages, 12);
   for (let i = 1; i <= maxPages; i++) {
     const page = await pdf.getPage(i);
     const content = await page.getTextContent();
-    const pageText = content.items
-      .map((item: { str?: string }) => item.str ?? "")
-      .join(" ")
-      .replace(/\s{2,}/g, " ")
+    type It = { str?: string; transform?: number[] };
+    const items = (content.items as It[])
+      .filter((it) => (it.str ?? "").trim() && it.transform)
+      .map((it) => ({ s: (it.str ?? "").trim(), x: it.transform![4], y: it.transform![5] }));
+    const lineas: { y: number; it: typeof items }[] = [];
+    for (const it of items.sort((a, b) => b.y - a.y)) {
+      const l = lineas.find((l) => Math.abs(l.y - it.y) <= 3);
+      if (l) l.it.push(it); else lineas.push({ y: it.y, it: [it] });
+    }
+    lineas.sort((a, b) => b.y - a.y);
+    const pageText = lineas
+      .map((l) => {
+        const xs = l.it.sort((a, b) => a.x - b.x);
+        let out = "";
+        xs.forEach((it, k) => { out += k === 0 ? it.s : (it.x - xs[k - 1].x > 120 ? "  |  " : " ") + it.s; });
+        return out.replace(/ {2,}(?!\|)/g, " ");
+      })
+      .join("\n")
       .trim();
     if (pageText) textPages.push(pageText);
   }
@@ -296,12 +314,18 @@ async function analizarConVision(base64Data: string, mimeType: string): Promise<
   }));
   const texto = (response.choices[0]?.message?.content ?? "").replace(/<think>[\s\S]*?<\/think>/gi, "").trim();
   if (!texto || /^ILEGIBLE/i.test(texto) || texto.length < 25) {
-    throw new ConvexError({ code: "ANALISIS_VACIO", message: "No hemos podido leer el documento con seguridad. Sube una foto más nítida o el PDF original." });
+    throw new ConvexError({ code: "ANALISIS_VACIO", message: "No hemos podido leer el documento, prueba con una foto más nítida (o sube el PDF original)." });
   }
   return analizarConTexto(`(Transcripción automática de una imagen)\n${texto}`);
 }
 
 // ── Análisis con texto — Llama 3.3 70B ───────────────────────────────────────
+// Quita líneas repetidas (cabeceras/pies de cada página) para que quepa el documento entero.
+function compactarTexto(t: string): string {
+  const vistas = new Set<string>();
+  return t.split("\n").filter((l) => { const k = l.trim(); if (k.length > 25 && vistas.has(k)) return false; vistas.add(k); return true; }).join("\n");
+}
+
 async function analizarConTexto(texto: string): Promise<AnalisisRaw> {
   const client = groq();
   const response = await withModelos(MODELOS_TEXTO, (modelo) => client.chat.completions.create({
@@ -312,13 +336,13 @@ async function analizarConTexto(texto: string): Promise<AnalisisRaw> {
     reasoning_effort: REASONING_EFFORT_TEXT,
     messages: [
       { role: "system", content: ANALISIS_SYSTEM },
-      { role: "user", content: `TEXTO DE LA MULTA:\n\n${texto.slice(0, 6000)}` },
+      { role: "user", content: `TEXTO DE LA MULTA (cada línea respeta la maquetación; " | " separa columnas y el valor suele ir en la línea de DEBAJO de su etiqueta):\n\n${compactarTexto(texto).slice(0, 14000)}` },
     ],
   }));
-  return parseAnalisis(response.choices[0]?.message?.content ?? "{}");
+  return parseAnalisis(response.choices[0]?.message?.content ?? "{}", texto);
 }
 
-function parseAnalisis(raw: string): AnalisisRaw {
+function parseAnalisis(raw: string, texto = ""): AnalisisRaw {
   const defaults: AnalisisRaw = {
     viabilidad: 0,
     nivel: "baja",
@@ -339,15 +363,63 @@ function parseAnalisis(raw: string): AnalisisRaw {
     const ini = sinThink.indexOf("{"), fin = sinThink.lastIndexOf("}");
     const cleaned = ini >= 0 && fin > ini ? sinThink.slice(ini, fin + 1) : sinThink.trim();
     const parsed = JSON.parse(cleaned) as Partial<AnalisisRaw>;
-    return aplicarNormativa({ ...defaults, ...parsed });
+    const completo = completarConTexto({ ...defaults, ...parsed }, texto);
+    const basicos = [completo.expediente, completo.importe, completo.fecha, completo.infraccion, completo.velocidadDetectada];
+    if (basicos.every((v) => VACIO.test(String(v ?? "").trim()))) throw new Error("sin datos");
+    return aplicarNormativa(completo);
   } catch {
     // 12/10/2026: antes devolvía un análisis "por defecto" con defectos inventados
     // (65 %, "se recomienda recurrir"). Ahora se dice la verdad.
     throw new ConvexError({
       code: "ANALISIS_VACIO",
-      message: "No hemos podido leer el documento con seguridad. Sube una foto más nítida o el PDF original.",
+      message: "No hemos podido leer el documento, prueba con una foto más nítida (o sube el PDF original).",
     });
   }
+}
+
+
+// 13/10/2026: respaldo determinista. Si la IA deja vacíos los datos básicos pero
+// están en el texto (formularios del Ayto. de Madrid, DGT), se leen con reglas.
+const VACIO = /^(no (consta|encontrad[oa]|especificad[oa]|aplica|detectad[oa])|desconocid[oa]|)$/i;
+function completarConTexto(a: AnalisisRaw, texto: string): AnalisisRaw {
+  if (!texto) return a;
+  const t = texto.replace(/\s+/g, " ");
+  const tras = (etq: RegExp, val: RegExp, ventana = 260) => {
+    const m = etq.exec(t); if (!m) return undefined;
+    return val.exec(t.slice(m.index + m[0].length, m.index + m[0].length + ventana))?.[1];
+  };
+  const out = { ...a };
+  const set = (k: keyof AnalisisRaw, v: string | undefined) => {
+    if (v && VACIO.test(String(out[k] ?? "").trim())) (out as Record<string, unknown>)[k] = v;
+  };
+  const vel = /CIRCULA(?:R|BA|NDO)?\s+A\s+(\d{2,3})\s*km\/h.{0,40}?L[IÍ]MITE(?:\s+DE)?(?:\s+VELOCIDAD)?\s+(\d{2,3})/i.exec(t);
+  if (vel) { set("velocidadDetectada", `${vel[1]} km/h`); set("limiteVia", `${vel[2]} km/h`); }
+  const imp = tras(/IMPORTE( DE LA (MULTA|SANCI[OÓ]N))?/i, /(\d{1,4}(?:[.,]\d{2}))\s*(?:€|EUR|euros)?/i);
+  if (imp) set("importe", `${imp.replace(".", ",")} €`);
+  set("expediente", tras(/(REFERENCIA DEL EXPEDIENTE|N[ºo°]\.? ?(DE )?EXPEDIENTE|EXPEDIENTE N[ºo°]?)/i, /\b([0-9][0-9A-Z/.\-]{6,})/));
+  set("fecha", tras(/FECHA\s*\/?\s*(HORA)?\s*DE LA (INFRACCI[OÓ]N|DENUNCIA)/i, /(\d{2}[/-]\d{2}[/-]\d{4})/));
+  set("matricula", /\b(\d{4}\s?[BCDFGHJKLMNPRSTVWXYZ]{3})\b/.exec(t)?.[1]);
+  set("infraccion", /(SOBREPASAR|CIRCULAR|ESTACIONAR|NO RESPETAR|CONDUCIR)[^|]{10,160}?(km\/h|\.)(?=\s)/i.exec(t)?.[0]?.trim());
+  if (/Ayuntamiento de Madrid/i.test(t)) set("provincia", "Madrid");
+  // Control de velocidad media en tramo: equipo fijo (margen de cinemómetro fijo).
+  if ((!out.tipoRadar || out.tipoRadar === "desconocido") && /VELOCIDAD MEDIA|TRAMO CONTROLADO|CONTROL DE TRAMO/i.test(t)) out.tipoRadar = "fijo";
+  if (!out.fechaNotificacion || VACIO.test(out.fechaNotificacion)) {
+    const em = tras(/FECHA DE (EMISI[OÓ]N DE LA )?NOTIFICACI[OÓ]N/i, /(\d{2}[/-]\d{2}[/-]\d{4})/);
+    if (em) out.fechaNotificacion = em; // emisión: la recepción real no consta (cota inferior)
+  }
+  return out;
+}
+
+
+const ETIQUETAS: Record<string, string> = {
+  expediente: "número de expediente", importe: "importe", fecha: "fecha de la infracción", infraccion: "hecho denunciado",
+  calificacion: "calificación (leve/grave/muy grave)", tiporadar: "tipo de radar", matricula: "matrícula",
+  velocidaddetectada: "velocidad medida", limitevia: "límite de la vía", provincia: "provincia", organo: "órgano sancionador",
+  fechanotificacion: "fecha de notificación de la denuncia", tipodocumento: "tipo de documento", precepto: "precepto infringido",
+};
+function etiquetaDato(d: string): string {
+  const k = d.replace(/[^a-zA-Z]/g, "").toLowerCase();
+  return ETIQUETAS[k] ?? (/^[a-z]+[A-Z][a-zA-Z]*$/.test(d.trim()) ? "" : d);
 }
 
 // Cálculos legales deterministas + saneado de lo que devuelve la IA (12/10/2026).
@@ -378,6 +450,7 @@ function aplicarNormativa(a: AnalisisRaw): AnalisisRaw {
     defectos.unshift({ titulo: "Prescripción de la infracción", descripcion: presc.motivo, gravedad: "alta" });
   }
   for (const m of hechos.motivosFuertes) defectos.unshift({ titulo: "Error en el cálculo de la sanción por velocidad", descripcion: m, gravedad: "alta" });
+  const relleno = (k: string) => { const v = (a as Record<string, unknown>)[k]; return typeof v === "string" && !VACIO.test(v.trim()); };
   const faltan = [...new Set([...(a.datosFaltantes ?? []), ...faltasMovidas, ...(esVelocidad ? hechos.datosFaltantes : []), ...(presc.falta ? [presc.falta] : [])])];
   const puntos = { alta: 20, media: 10, baja: 5 } as const;
   let viabilidad = Math.min(95, 25 + defectos.reduce((n, d) => n + (puntos[d.gravedad as keyof typeof puntos] ?? 0), 0));
@@ -392,7 +465,7 @@ function aplicarNormativa(a: AnalisisRaw): AnalisisRaw {
     viabilidad,
     nivel: viabilidad >= 70 ? "alta" : viabilidad >= 40 ? "media" : "baja",
     plazoRecurso: plazo,
-    datosFaltantes: faltan,
+    datosFaltantes: [...new Set(faltan.filter((d) => !relleno(Object.keys(ETIQUETAS).find((k) => k === d.replace(/[^a-zA-Z]/g, "").toLowerCase()) ? (Object.keys(a).find((x) => x.toLowerCase() === d.replace(/[^a-zA-Z]/g, "").toLowerCase()) ?? "") : "")).map(etiquetaDato).filter(Boolean))] as string[],
     fundamentos: [...(esVelocidad ? hechos.lineas : []), ...(presc.linea ? [presc.linea] : []), ...(presc.motivo ? [presc.motivo] : []), plazo, PLAZOS[2]],
     // Resumen determinista (13/10/2026): coherente siempre con defectos y puntuación.
     resumen: [
@@ -402,7 +475,7 @@ function aplicarNormativa(a: AnalisisRaw): AnalisisRaw {
           ? `Hay ${defectos.length === 1 ? "un posible defecto" : `${defectos.length} posibles defectos`}: ${defectos.map((d) => d.titulo.toLowerCase()).join("; ")}.`
           : "No vemos defectos formales en lo que muestra el documento: la multa parece correcta y recurrir tiene pocas posibilidades.",
       esVelocidad && hechos.lineas[1] ? hechos.lineas[1] : "",
-      faltan.length ? `Faltan datos para valorarlo del todo: ${faltan.join(", ")}.` : "",
+      faltan.length ? `Faltan datos para valorarlo del todo: ${[...new Set(faltan.filter((d) => !relleno(Object.keys(a).find((x) => x.toLowerCase() === d.replace(/[^a-zA-Z]/g, "").toLowerCase()) ?? "")).map(etiquetaDato).filter(Boolean))].join(", ")}.` : "",
     ].filter(Boolean).join(" "),
   };
 }
@@ -558,7 +631,7 @@ export const analizarMulta = action({
 
     // ── 1b. Caché: si este documento (o este expediente) ya se analizó,
     // devolver el MISMO resultado sin llamar a la IA (03/10/2026) ──────────
-    const docHash = await sha256hex(fileBase64);
+    const docHash = `${CACHE_V}:${await sha256hex(fileBase64)}`; // versionado: un cambio de lógica invalida la caché
     const hitDoc = await ctx.runQuery(internal.multasInterno.buscarAnalisisCache, { docHash });
     if (hitDoc) {
       await ctx.runMutation(internal.multasInterno.contarHitCache, { id: hitDoc._id });
