@@ -694,6 +694,8 @@ export const analizarMulta = action({
       matricula: string;
       velocidadDetectada: string;
       limiteVia: string;
+      organo?: string;
+      fechaNotificacion?: string;
     };
   }> => {
     // Rate limiting desactivado por orden de Daniel (01/10/2026).
@@ -814,6 +816,8 @@ export const analizarMulta = action({
         matricula: analisis.matricula,
         velocidadDetectada: analisis.velocidadDetectada,
         limiteVia: analisis.limiteVia,
+        organo: analisis.organo ?? "",
+        fechaNotificacion: analisis.fechaNotificacion ?? "",
       },
     };
 

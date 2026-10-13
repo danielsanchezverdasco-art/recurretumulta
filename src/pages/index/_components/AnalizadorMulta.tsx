@@ -12,7 +12,7 @@ import { Badge } from "@/components/ui/badge.tsx";
 import { Input } from "@/components/ui/input.tsx";
 import { Spinner } from "@/components/ui/spinner.tsx";
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription, DialogFooter } from "@/components/ui/dialog.tsx";
-import { useAction, useConvex } from "convex/react";
+import { useAction, useConvex, useQuery } from "convex/react";
 import { api } from "@/convex/_generated/api.js";
 import { toast } from "sonner";
 
@@ -92,6 +92,11 @@ type DatosMulta = {
   infraccion: string;
   fecha: string;
   plazoRecurso: string;
+  matricula?: string;
+  velocidadDetectada?: string;
+  limiteVia?: string;
+  organo?: string;
+  fechaNotificacion?: string;
 };
 
 type AnalysisResult = {
@@ -191,13 +196,15 @@ function ViabilidadGauge({ value, nivel }: { value: number; nivel: "alta" | "med
 }
 
 // ── SCAN ANIMATION ────────────────────────────────────────────────────────────
+// 13/10/2026: etapas REALES que informa el backend (tabla progresoAnalisis).
 const SCAN_STEPS = [
-  { icon: "📄", label: "Leyendo el documento...", detail: "Extrayendo texto e imágenes" },
-  { icon: "🔍", label: "Escaneando datos de la multa...", detail: "Expediente, importe, fecha, infracción" },
-  { icon: "⚖️", label: "Analizando vicios de forma...", detail: "Comparando con LTSV y Ley 39/2015" },
-  { icon: "🧠", label: "Calculando viabilidad...", detail: "Modelo IA procesando argumentos" },
-  { icon: "📝", label: "Redactando el recurso...", detail: "Generando texto jurídico formal" },
+  { key: "paginas", icon: "📄", label: "Leyendo las páginas...", detail: "Texto del PDF o de la foto" },
+  { key: "fotos", icon: "📷", label: "Leyendo las fotos...", detail: "Fotos y pruebas que has subido" },
+  { key: "radar", icon: "📡", label: "Comprobando el radar...", detail: "Velocidad, márgenes (Orden ICT/155/2020) y fotograma" },
+  { key: "normativa", icon: "⚖️", label: "Comprobando la normativa...", detail: "LSV, RGC, anexo IV y Ley 39/2015" },
+  { key: "resultado", icon: "📝", label: "Generando el resultado...", detail: "Veredicto y escrito de recurso" },
 ];
+const ETAPA_IDX: Record<string, number> = { paginas: 0, fotos: 1, analisis: 2, resultado: 4 };
 
 // Fake scanned lines to animate inside the "document"
 const SCAN_LINES = [
@@ -215,9 +222,13 @@ const SCAN_LINES = [
   { w: "w-full", delay: 0.55 },
 ];
 
-function ScanAnimation() {
+function ScanAnimation({ progresoId, conPruebas }: { progresoId: string; conPruebas: boolean }) {
   const { t } = useTranslation("analyzer");
-  const [stepIdx, setStepIdx] = useState(0);
+  const etapa = useQuery(api.multasInterno.getProgreso, progresoId ? { pid: progresoId } : "skip") ?? "paginas";
+  const stepIdx = ETAPA_IDX[etapa] ?? 0;
+  // radar y normativa se revisan en la misma llamada: ambas activas a la vez.
+  const activos = etapa === "analisis" ? [2, 3] : [stepIdx];
+  const vistos = useRef(new Set<string>()); vistos.current.add(etapa);
   // 13/10/2026: si Groq está al límite el backend espera y reintenta (hasta ~60s).
   const [tardando, setTardando] = useState(false);
   useEffect(() => {
@@ -225,15 +236,7 @@ function ScanAnimation() {
     return () => clearTimeout(t);
   }, []);
 
-  // Avanza el paso cada ~5s (los 5 pasos cubren ~25s de espera real)
-  useEffect(() => {
-    const interval = setInterval(() => {
-      setStepIdx((prev) => (prev < SCAN_STEPS.length - 1 ? prev + 1 : prev));
-    }, 4500);
-    return () => clearInterval(interval);
-  }, []);
 
-  const current = SCAN_STEPS[stepIdx];
 
   return (
     <motion.div
@@ -363,29 +366,23 @@ function ScanAnimation() {
         ))}
       </div>
 
-      {/* ── Paso actual ── */}
-      <div className="text-center space-y-1.5 max-w-[260px]">
-        <AnimatePresence mode="wait">
-          <motion.div
-            key={stepIdx}
-            initial={{ opacity: 0, y: 8 }}
-            animate={{ opacity: 1, y: 0 }}
-            exit={{ opacity: 0, y: -8 }}
-            transition={{ duration: 0.35 }}
-            className="space-y-1"
-          >
-            <p className="text-sm font-black text-gray-900">
-              {current.icon} {current.label}
-            </p>
-            <p className="text-xs text-gray-400">{current.detail}</p>
-          </motion.div>
-        </AnimatePresence>
-        {tardando && (
-          <p role="status" className="text-xs font-semibold text-amber-700">
-            Analizando, puede tardar un poco…
-          </p>
-        )}
-      </div>
+      {/* ── Etapas reales (altura fija: sin saltos de maquetación) ── */}
+      <ol className="w-64 space-y-1.5" aria-live="polite">
+        {SCAN_STEPS.map((st, i) => {
+          const fin = Math.max(...activos);
+          const omitido = i === 1 && i < Math.min(...activos) && !vistos.current.has("fotos") && !conPruebas;
+          const hecho = i < Math.min(...activos) && !omitido;
+          const activo = activos.includes(i);
+          return (
+            <li key={st.key} className={`flex items-center gap-2 h-7 rounded-lg px-2 text-xs transition-colors duration-300 ${activo ? "bg-red-50 text-gray-900 font-black" : hecho ? "text-gray-500" : "text-gray-300"}`}>
+              <span className="w-4 text-center" aria-hidden>{omitido ? "–" : hecho ? "✓" : activo ? <span className="inline-block w-2.5 h-2.5 rounded-full bg-red-500 animate-ping" /> : "·"}</span>
+              <span>{st.icon} {st.label.replace("...", "")}</span>
+              {activo && i === fin && <span className="ml-auto text-[10px] font-normal text-gray-400 truncate max-w-[90px]">{st.detail.split(",")[0]}</span>}
+            </li>
+          );
+        })}
+      </ol>
+      <p role="status" className="h-4 text-xs font-semibold text-amber-700">{tardando ? "Analizando, puede tardar un poco…" : ""}</p>
 
       {/* ── Barra de progreso ── */}
       <div className="w-52 space-y-2">
@@ -393,7 +390,7 @@ function ScanAnimation() {
           <motion.div
             className="h-full bg-gradient-to-r from-red-500 to-red-600 rounded-full"
             initial={{ width: "0%" }}
-            animate={{ width: `${((stepIdx + 1) / SCAN_STEPS.length) * 100}%` }}
+            animate={{ width: `${((Math.max(...activos) + 1) / SCAN_STEPS.length) * 100}%` }}
             transition={{ duration: 0.6, ease: "easeOut" }}
           />
         </div>
@@ -402,7 +399,7 @@ function ScanAnimation() {
             <motion.div
               key={i}
               className={`w-1.5 h-1.5 rounded-full transition-colors duration-500 ${
-                i <= stepIdx ? "bg-red-500" : "bg-gray-200"
+                i <= Math.max(...activos) ? "bg-red-500" : "bg-gray-200"
               }`}
             />
           ))}
@@ -449,6 +446,7 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
   // 13/10/2026: pruebas opcionales (ticket de parquímetro, fotos...), máx. 5 de 5 MB.
   const [pruebas, setPruebas] = useState<File[]>([]);
   const [versionHechos, setVersionHechos] = useState("");
+  const [progresoId, setProgresoId] = useState("");
   const pruebasRef = useRef<HTMLInputElement>(null);
   const [dragActive, setDragActive] = useState(false);
   const [nombre, setNombre] = useState("");
@@ -589,6 +587,8 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
       return;
     }
 
+    const pid = (globalThis.crypto?.randomUUID?.() ?? `${Date.now()}-${Math.random()}`).slice(0, 64);
+    setProgresoId(pid);
     setStep("processing");
     try {
       toast.info(t("toast.preparing"));
@@ -605,6 +605,7 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
       }
       const res = await withAnalisisTimeout(analizarMulta({
         ...(pruebasPayload.length ? { pruebas: pruebasPayload } : {}),
+        progresoId: pid,
         ...(versionHechos.trim() ? { version: versionHechos.replace(/<[^>]*>/g, " ").trim().slice(0, 1500) } : {}),
         fileBase64,
         fileMimeType,
@@ -633,7 +634,7 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
   const dgtInfo = DGT_EMAILS[provincia] ?? DEFAULT_DGT;
 
   if (step === "processing") {
-    return <ScanAnimation />;
+    return <ScanAnimation progresoId={progresoId} conPruebas={pruebas.length > 0} />;
   }
 
   const descargarPdf = async () => {
@@ -863,12 +864,16 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
             <div className="grid grid-cols-2 gap-2">
               {[
                 { icon: Hash, label: t("result.field.expediente"), value: result.datosMulta.expediente },
+                { icon: Hash, label: "Matrícula", value: result.datosMulta.matricula ?? "" },
                 { icon: Euro, label: t("result.field.importe"), value: result.datosMulta.importe },
                 { icon: AlertTriangle, label: t("result.field.infraccion"), value: result.datosMulta.infraccion },
                 { icon: Calendar, label: t("result.field.fecha"), value: result.datosMulta.fecha },
                 { icon: MapPin, label: t("result.field.provincia"), value: result.datosMulta.provincia },
+                ...(/\d/.test(result.datosMulta.velocidadDetectada ?? "") ? [{ icon: TrendingUp, label: "Velocidad medida / límite", value: `${result.datosMulta.velocidadDetectada} / ${result.datosMulta.limiteVia ?? "—"}` }] : []),
+                ...(result.datosMulta.organo ? [{ icon: Shield, label: "Órgano", value: result.datosMulta.organo }] : []),
+                ...(/\d/.test(result.datosMulta.fechaNotificacion ?? "") ? [{ icon: Calendar, label: "Notificación", value: result.datosMulta.fechaNotificacion! }] : []),
                 { icon: Clock, label: t("result.field.plazo"), value: result.datosMulta.plazoRecurso },
-              ].map(({ icon: Icon, label, value }) => (
+              ].filter((x) => x.value && x.value.trim()).map(({ icon: Icon, label, value }) => (
                 <div key={label} className="bg-muted/30 rounded-lg p-2.5">
                   <div className="flex items-center gap-1.5 mb-0.5">
                     <Icon className="w-3 h-3 text-primary" />
