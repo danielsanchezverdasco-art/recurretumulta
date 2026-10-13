@@ -33,7 +33,15 @@ const routes = [
   .filter((r, i, a) => a.indexOf(r) === i);
 
 const withSlash = (u) => (u === "/" || u.endsWith("/") ? u : `${u}/`);
-const urls = routes.map(withSlash);
+// 13/10/2026: fuera del sitemap las URLs con 301 forzado en public/_redirects (dedupe SEO).
+const redirigidas = new Set(
+  readFileSync(join(ROOT, "public", "_redirects"), "utf8")
+    .split("\n")
+    .map((l) => l.trim().split(/\s+/))
+    .filter((p) => p.length >= 3 && p[2] === "301!" && !p[0].startsWith("#"))
+    .map((p) => (p[0].endsWith("/") ? p[0] : p[0] + "/")),
+);
+const urls = routes.map(withSlash).filter((u) => !redirigidas.has(u));
 
 const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n` +
   urls.map((u) => {
