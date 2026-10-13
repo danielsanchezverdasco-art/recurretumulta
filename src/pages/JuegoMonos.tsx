@@ -333,7 +333,7 @@ function JuegoMonosPage() {
             <p className="text-xs font-black uppercase tracking-[0.25em] text-amber-400 mb-3">🦍 La caza de monos</p>
             <div className="inline-flex items-center gap-2 rounded-full border border-amber-400/40 bg-amber-400/10 px-4 py-1.5 mb-4">
               <span className="w-2 h-2 rounded-full bg-amber-400 animate-pulse" />
-              <span className="text-xs font-black uppercase tracking-widest text-amber-300">Temporada 1 · Octubre 2026</span>
+              <span className="text-xs font-black uppercase tracking-widest text-amber-300">Temporada 1</span>
             </div>
             <p className="mb-3"><span className="inline-flex items-center gap-2 rounded-full bg-gradient-to-r from-amber-400 via-yellow-300 to-amber-500 text-gray-900 font-black text-base sm:text-xl px-5 py-2 shadow-[0_0_30px_rgba(251,191,36,0.55)] ring-2 ring-amber-200">💶 PREMIO: 1.500 € por transferencia</span></p>
             <h1 className="text-3xl sm:text-5xl font-black leading-tight">

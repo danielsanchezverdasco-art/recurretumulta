@@ -13,7 +13,7 @@ const SECCIONES: Array<{ t: string; c: string }> = [
   },
   {
     t: "2. Mecánica del concurso (por temporadas)",
-    c: "El concurso se organiza por temporadas mensuales. En la Temporada 1 (octubre de 2026) hay 353 monos escondidos en distintas páginas de recurretumulta.online (336 aleatorios —uno de ellos en la página de error 404—, 16 fáciles en puntos estratégicos y 1 legendario dorado escondidísimo; ampliada el 13 de octubre de 2026 desde 253). Cada vez que un participante hace clic en un mono, este queda registrado en su navegador (localStorage, sin necesidad de registro ni cuenta). El objetivo es encontrar 350 monos (no es obligatorio que entre ellos esté el legendario dorado). Cada mono tiene un identificador único; al llegar a 350, o al encontrar el dorado, la web genera un código de reclamo personal e intransferible, válido solo para la temporada en curso. Todos los monos se pueden encontrar navegando con normalidad: ninguno exige más interacción que el desplazamiento por la página.",
+    c: "El concurso se organiza por temporadas. En la Temporada 1 (iniciada en octubre de 2026) hay 353 monos escondidos en distintas páginas de recurretumulta.online (336 aleatorios —uno de ellos en la página de error 404—, 16 fáciles en puntos estratégicos y 1 legendario dorado escondidísimo; ampliada el 13 de octubre de 2026 desde 253). Cada vez que un participante hace clic en un mono, este queda registrado en su navegador (localStorage, sin necesidad de registro ni cuenta). El objetivo es encontrar 350 monos (no es obligatorio que entre ellos esté el legendario dorado). Cada mono tiene un identificador único; al llegar a 350, o al encontrar el dorado, la web genera un código de reclamo personal e intransferible, válido solo para la temporada en curso. Todos los monos se pueden encontrar navegando con normalidad: ninguno exige más interacción que el desplazamiento por la página.",
   },
   {
     t: "3. Premio",
@@ -67,7 +67,7 @@ export default function JuegoMonosBasesPage() {
           <h1 className="text-2xl sm:text-3xl font-black text-gray-900 flex items-center gap-2.5">
             <ScrollText className="w-7 h-7 text-amber-600" /> Bases legales — Caza de monos
           </h1>
-          <p className="mt-2 text-xs text-gray-400">Última actualización: 11 de octubre de 2026</p>
+          <p className="mt-2 text-xs text-gray-400">Última actualización: 13 de octubre de 2026</p>
           <div className="mt-6 space-y-5">
             {SECCIONES.map((s) => (
               <section key={s.t} className="rounded-2xl border border-gray-200 bg-white p-5 shadow-sm">
