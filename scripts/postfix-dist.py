@@ -6,7 +6,7 @@ import os,re,sys,html
 D=sys.argv[1] if len(sys.argv)>1 else "dist"
 DOM="https://recurretumulta.online"
 PRES="/blog/prescripcion-y-caducidad-de-las-multas-de-trafico-cuando-expira-una-sancion-de-la-dgt-plazos-legales-mitos-y-como-anular-expedientes-fuera-de-plazo/"
-FIX404={"/blog/prescripcion-multas-trafico-plazos/":PRES}
+FIX404={"/blog/prescripcion-multas-trafico-plazos/":PRES,"/blog/zonas-de-bajas-emisiones-zbe-que-son-y-como-recurrir-una-multa/":"/blog/como-recurrir-multas-de-la-zbe-en-madrid-barcelona-y-toda-espana-guia-definitiva-y-modelos-con-ia/"}
 def barra(h):
     if not h.startswith("/") or h.startswith("//"): return h
     m=re.match(r"^([^?#]*)([?#].*)?$",h); r,resto=m.group(1),m.group(2) or ""

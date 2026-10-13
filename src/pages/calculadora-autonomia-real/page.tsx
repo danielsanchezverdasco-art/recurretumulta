@@ -196,7 +196,7 @@ export default function CalculadoraAutonomiaRealPage() {
             <Link to="/herramientas" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Todas las herramientas</Link>
             <Link to="/calculadora-etiqueta-dgt" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Calculadora de etiqueta DGT</Link>
             <Link to="/comparador-coches" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Comparador de coches eléctricos</Link>
-            <Link to="/blog/zonas-de-bajas-emisiones-zbe-que-son-y-como-recurrir-una-multa" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Zonas de Bajas Emisiones (ZBE)</Link>
+            <Link to="/blog/como-recurrir-multas-de-la-zbe-en-madrid-barcelona-y-toda-espana-guia-definitiva-y-modelos-con-ia" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Zonas de Bajas Emisiones (ZBE)</Link>
             <Link to="/blog/recurrir-multa-radar-velocidad" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Cómo recurrir una multa de radar</Link>
             <Link to="/blog/defectos-forma-anulan-multa-dgt" className="bg-white p-4 rounded-xl border hover:border-green-400 transition">Defectos de forma que anulan multas</Link>
           </div>
