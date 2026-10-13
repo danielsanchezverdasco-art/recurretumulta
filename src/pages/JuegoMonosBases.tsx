@@ -13,15 +13,15 @@ const SECCIONES: Array<{ t: string; c: string }> = [
   },
   {
     t: "2. Mecánica del concurso (por temporadas)",
-    c: "El concurso se organiza por temporadas mensuales. En la Temporada 1 (octubre de 2026) hay 253 monos escondidos en distintas páginas de recurretumulta.online (237 aleatorios, 15 fáciles en puntos estratégicos y 1 legendario dorado escondidísimo). Cada vez que un participante hace clic en un mono, este queda registrado en su navegador (localStorage, sin necesidad de registro ni cuenta). El objetivo de la temporada es encontrar los 250 monos MÁS el legendario dorado (251 en total). Cada mono tiene un identificador único; al completar el objetivo, la web genera un código de reclamo personal e intransferible, válido solo para la temporada en curso. Todos los monos se pueden encontrar navegando con normalidad: ninguno exige más interacción que el desplazamiento por la página.",
+    c: "El concurso se organiza por temporadas mensuales. En la Temporada 1 (octubre de 2026) hay 353 monos escondidos en distintas páginas de recurretumulta.online (336 aleatorios —uno de ellos en la página de error 404—, 16 fáciles en puntos estratégicos y 1 legendario dorado escondidísimo; ampliada el 13 de octubre de 2026 desde 253). Cada vez que un participante hace clic en un mono, este queda registrado en su navegador (localStorage, sin necesidad de registro ni cuenta). El objetivo de la temporada es encontrar 350 monos, entre los que debe estar el legendario dorado. Cada mono tiene un identificador único; al completar el objetivo, la web genera un código de reclamo personal e intransferible, válido solo para la temporada en curso. Todos los monos se pueden encontrar navegando con normalidad: ninguno exige más interacción que el desplazamiento por la página.",
   },
   {
     t: "3. Premio",
-    c: "El premio consiste en: 1º puesto, 1000€ por transferencia bancaria + 1 año de recursos gratis en recurretumulta.online; del 2º al 100º puesto, recursos gratis. Hay 100 premios por temporada, que se asignan por estricto orden de reclamación verificada entre quienes completen la caza (250 monos + legendario dorado). El pago de los 1000€ se realiza por transferencia al IBAN que indique el ganador.",
+    c: "El premio consiste en: 1º puesto, 1.500 € por transferencia bancaria + 1 año de recursos ilimitados gratis en recurretumulta.online; del 2º al 50º puesto, 1 año de recursos ilimitados gratis. Hay 50 premios por temporada, que se asignan por estricto orden de reclamación verificada entre quienes completen la caza (350 monos, incluido el legendario dorado). El pago de los 1.500 € se realiza por transferencia al IBAN que indique el ganador. Estas bases sustituyen a cualquier importe anterior publicado (900 € o 1000 €).",
   },
   {
     t: "4. Ganadores",
-    c: "Serán ganadores, por estricto orden de reclamación verificada, los participantes que (a) alcancen los 250 monos + el legendario dorado de la temporada, (b) generen su código de reclamo y (c) lo envíen por WhatsApp al número indicado en la página del juego. El 1º en el orden de reclamación recibe 1000€ + 1 año de recursos gratis; del 2º al 100º, recursos gratis. El Organizador verificará manualmente la validez de cada código antes de confirmar el premio. Una vez entregados los 100 premios de la temporada, esa temporada quedará cerrada.",
+    c: "Serán ganadores, por estricto orden de reclamación verificada, los participantes que (a) alcancen los 350 monos de la temporada, incluido el legendario dorado, (b) generen su código de reclamo y (c) lo envíen por WhatsApp al número indicado en la página del juego. El 1º en el orden de reclamación recibe 1.500 € + 1 año de recursos ilimitados gratis; del 2º al 50º, 1 año de recursos ilimitados gratis. El Organizador verificará manualmente la validez de cada código antes de confirmar el premio. Una vez entregados los 50 premios de la temporada, esa temporada quedará cerrada.",
   },
   {
     t: "5. Verificación y medidas anti-fraude",
@@ -29,7 +29,7 @@ const SECCIONES: Array<{ t: string; c: string }> = [
   },
   {
     t: "6. Fechas",
-    c: "La Temporada 1 comienza el 6 de octubre de 2026 y terminará cuando se entreguen sus 100 premios o, como máximo, el 31 de octubre de 2026. Cada nueva temporada tendrá sus propias fechas y se anunciará en la página del juego. El Organizador publicará el ganador (nombre o apodo, con su permiso) en la página del juego.",
+    c: "La Temporada 1 comienza el 6 de octubre de 2026 y terminará cuando se entreguen sus 50 premios o, como máximo, el 31 de octubre de 2026. Cada nueva temporada tendrá sus propias fechas y se anunciará en la página del juego. El Organizador publicará el ganador (nombre o apodo, con su permiso) en la página del juego.",
   },
   {
     t: "7. Datos personales",
@@ -48,7 +48,7 @@ const SECCIONES: Array<{ t: string; c: string }> = [
 export default function JuegoMonosBasesPage() {
   useSeo({
     title: "Bases legales del concurso Caza de monos",
-    description: "Bases legales del concurso Caza de monos de RecurreTuMulta.online (Temporada 1): 1000€ + 1 año de recursos gratis para el 1º y recursos gratis del 2º al 100º, verificación y condiciones.",
+    description: "Bases del concurso Caza de monos (Temporada 1): 1.500 € + 1 año de recursos ilimitados para el 1º y 1 año ilimitado del 2º al 50º.",
     canonical: "/juego-monos/bases",
     noindex: true,
   });

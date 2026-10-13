@@ -44,6 +44,7 @@ function conCreditos(html: string): string {
   });
 }
 import MonoEscondido from "@/components/caza-monos/MonoEscondido.tsx";
+import BannerJuegoMonos from "@/components/caza-monos/BannerJuegoMonos";
 import { fijoId } from "@/components/caza-monos/CazaMonosContext.tsx";
 import CosaEnBanner from "@/components/CosaEnBanner.tsx";
 
@@ -700,6 +701,7 @@ function BlogPostPage() {
               titulo="¿Un mono señalando el final del artículo? Haz clic para cazarlo 🦍"
             />
           </div>
+          <BannerJuegoMonos />
 
           {/* Fuentes y transparencia editorial */}
           <div className="bg-gray-50 border border-gray-200 rounded-2xl p-5 space-y-3">

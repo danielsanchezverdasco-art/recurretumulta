@@ -744,6 +744,7 @@ function $() {
             name: `Análisis gratuito`,
             price: `0`,
             priceCurrency: `EUR`,
+            availability: "https://schema.org/InStock",
             description: `Análisis de vicios de forma con IA completamente gratuito`,
           },
           {
@@ -751,6 +752,7 @@ function $() {
             name: `Recurso PDF`,
             price: `4.99`,
             priceCurrency: `EUR`,
+            availability: "https://schema.org/InStock",
             description: `PDF del recurso de reposición listo para firmar y presentar`,
           },
         ],
@@ -913,7 +915,7 @@ function $() {
         applicationCategory: `UtilitiesApplication`,
         operatingSystem: `Web`,
         inLanguage: `es-ES`,
-        offers: { "@type": `Offer`, price: `0`, priceCurrency: `EUR` },
+        offers: { "@type": `Offer`, price: `0`, priceCurrency: `EUR`, availability: "https://schema.org/InStock" },
         featureList: `Análisis de multas con inteligencia artificial, detección de defectos de forma, comprobación de plazos de notificación y prescripción, borrador de alegaciones`,
       },
       {

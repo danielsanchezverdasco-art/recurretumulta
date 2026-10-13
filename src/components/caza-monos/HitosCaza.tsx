@@ -1,5 +1,5 @@
 // HitosCaza — confetti en hitos y celebración al completar el objetivo (05/10/2026).
-// Hitos: 25/50/100/150/200/250 → confetti discreto + mensaje de Cosa celebrándolo.
+// Hitos: 25/50/100/150/200/250/300/350 → confetti discreto + mensaje de Cosa celebrándolo.
 // Al completar: celebración a lo grande (confetti + Cosa festejando) antes del
 // formulario de reclamación. Vive a nivel App (chunk diferido).
 // Todo con transform/opacity y prefers-reduced-motion respetado en CSS.
@@ -147,7 +147,7 @@ export default function HitosCaza() {
             <p className="mt-2 text-sm text-gray-600">
               ¡INCREÍBLE! ¡Eres una leyenda, cazador! 🏆 — <span className="font-black">Cosa</span>
               <br />
-              Ahora reclama tu premio antes de que se lo lleve otro: el 1º gana 1000€ + 1 año de recursos gratis, y del 2º al 100º hay recursos gratis.
+              Ahora reclama tu premio antes de que se lo lleve otro: el 1º gana 1.500 € + 1 año de recursos ilimitados, y del 2º al 50º, 1 año de recursos ilimitados.
             </p>
             <Link
               to="/juego-monos"

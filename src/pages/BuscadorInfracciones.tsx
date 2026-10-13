@@ -49,7 +49,7 @@ const jsonLd = {
       "url": "https://recurretumulta.online/buscador-codigo-multa",
       "applicationCategory": "UtilityApplication",
       "operatingSystem": "All",
-      "offers": { "@type": "Offer", "price": "0", "priceCurrency": "EUR" },
+      "offers": { "@type": "Offer", "price": "0", "priceCurrency": "EUR", availability: "https://schema.org/InStock" },
       "description":
         "Busca cualquier infracción de tráfico por su código o artículo y descubre el importe de la multa, los puntos que resta, su gravedad y la base legal en el BOE.",
     },

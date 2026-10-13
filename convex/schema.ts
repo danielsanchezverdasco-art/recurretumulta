@@ -297,7 +297,7 @@ export default defineSchema({
   monkeyHunters: defineTable({
     hunterId: v.string(), // UUID anónimo, generado en el navegador
     nickname: v.optional(v.string()), // apodo opcional, para salir en el ranking
-    found: v.number(), // monos cazados en la temporada activa (máx. 250)
+    found: v.number(), // monos cazados en la temporada activa (máx. 350)
     updatedAt: v.number(), // epoch ms
   }).index("by_hunterId", ["hunterId"])
     .index("by_found", ["found"]),

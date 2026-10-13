@@ -52,15 +52,6 @@ const FAQ_SCHEMA = {
         { "@type": "ListItem", "position": 2, "name": "Guías", "item": "https://recurretumulta.online/guias/radares" },
       ],
     },
-    {
-      "@type": "VideoObject",
-      "@id": "https://recurretumulta.online/guias/radares#video",
-      "name": "Radares de la DGT: cómo funcionan y cómo recurrir sus multas",
-      "description": "Vídeo: circulación por una autopista española al atardecer. Guía visual sobre los radares de velocidad de la DGT.",
-      "thumbnailUrl": "https://recurretumulta.online/media/pilar-radares.webp",
-      "uploadDate": "2026-10-02",
-      "contentUrl": "https://recurretumulta.online/media/guia-radares.mp4",
-    },
   ],
 };
 

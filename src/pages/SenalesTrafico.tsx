@@ -47,7 +47,7 @@ const jsonLd = {
       "url": "https://recurretumulta.online/senales-trafico",
       "applicationCategory": "UtilityApplication",
       "operatingSystem": "All",
-      "offers": { "@type": "Offer", "price": "0", "priceCurrency": "EUR" },
+      "offers": { "@type": "Offer", "price": "0", "priceCurrency": "EUR", availability: "https://schema.org/InStock" },
       "description":
         "Diccionario visual de las señales de tráfico españolas: busca por nombre o código, filtra por categoría y descubre qué significa cada señal, qué debes hacer y qué multa te cae si la ignoras.",
     },

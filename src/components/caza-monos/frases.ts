@@ -170,14 +170,16 @@ export function fraseCaza(id: string, pose: PoseCosa): string {
 }
 
 /** Hitos con confetti y mensaje de Cosa celebrándolo (05/10/2026). */
-export const HITOS: number[] = [25, 50, 100, 150, 200, 250];
+export const HITOS: number[] = [25, 50, 100, 150, 200, 250, 300, 350];
 
 /** Mensajes de Cosa en cada hito (los firma ella). */
 export const MENSAJES_COSA_HITOS: Record<number, string> = {
   25: "¡25 monos! Vas como un tiro, cazador 🚀",
   50: "¡50! Ya eres medio profesional 🦍",
   100: "¡100 monos! Esto se pone serio 👀",
-  150: "¡150! Solo te faltan 100 para los premios 💰",
-  200: "¡200! ¡A 50 del premio! ¡No pares! 🔥",
-  250: "¡LOS 250! ¡Eres una leyenda! 🏆",
+  150: "¡150! Ya llevas más de un tercio 💪",
+  200: "¡200! Solo te faltan 150 para los premios 💰",
+  250: "¡250! ¡A 100 del premio! ¡No pares! 🔥",
+  300: "¡300! ¡A solo 50 de los premios! 🔥",
+  350: "¡LOS 350! ¡Eres una leyenda! 🏆",
 };

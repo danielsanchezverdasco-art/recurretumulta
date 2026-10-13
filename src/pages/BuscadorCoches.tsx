@@ -945,7 +945,7 @@ function BuscadorCochesContenido() {
           url: "https://recurretumulta.online/buscador-coches/",
           applicationCategory: "ShoppingApplication",
           operatingSystem: "Web",
-          offers: { "@type": "Offer", price: "0", priceCurrency: "EUR" },
+          offers: { "@type": "Offer", price: "0", priceCurrency: "EUR", availability: "https://schema.org/InStock" },
           description:
             "Encuentra tu coche ideal: rastreamos Coches.net, Wallapop, Milanuncios y Autoscout24 con tu presupuesto, km y zona. Con averías típicas reportadas y recomendación personal.",
         },

@@ -1,4 +1,4 @@
-// RankingCazadores — top 20 de la Caza de monos (05/10/2026).
+// RankingCazadores — top 50 de la Caza de monos (05/10/2026).
 // Datos en Convex (tabla monkeyHunters), sin cuentas: UUID anónimo + apodo opcional.
 // La query es reactiva: el ranking se actualiza solo. Si el backend aún no está
 // desplegado, la sección falla en silencio (no rompe la página).
@@ -66,7 +66,7 @@ function Tabla() {
           Aún no hay cazadores en el ranking. ¡Sé el primero! 🦍
         </p>
       ) : (
-        <ol className="space-y-1.5">
+        <ol className="space-y-1.5 max-h-[32rem] overflow-y-auto pr-1">
           {datos.map((c, i) => {
             const soyYo = c.hunterId === uuid;
             return (

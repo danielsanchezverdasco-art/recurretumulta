@@ -17,8 +17,8 @@ import { TOKENS_FIJOS, TOTAL_MONOS_ALEATORIOS, TOTAL_MONOS_FIJOS } from "./place
 const ScoreReporter = lazy(() => import("./ScoreReporter.tsx"));
 
 export const TEMPORADA_ACTUAL = 1; // Temporada 1: octubre 2026
-export const MONOS_OBJETIVO = 250; // meta de la Temporada 1 (decisión final de Daniel 05/10/2026)
-export const MONOS_TOTAL_COLOCADOS = TOTAL_MONOS_ALEATORIOS + TOTAL_MONOS_FIJOS; // 253: 237 aleatorios + 1 legendario (entre los 250, cuenta igual) + 15 fijos; el objetivo de la temporada es 250
+export const MONOS_OBJETIVO = 350; // meta de la Temporada 1 (ampliada de 250 a 350 el 13/10/2026)
+export const MONOS_TOTAL_COLOCADOS = TOTAL_MONOS_ALEATORIOS + TOTAL_MONOS_FIJOS; // 353: 336 aleatorios + 1 legendario (cuenta igual) + 16 fijos; el objetivo de la temporada es 350
 const STORAGE_KEY = "cosa-monos-encontrados";
 const UUID_KEY = "cosa-cazador-id"; // spec de Daniel 05/10/2026
 const APODO_KEY = "cosa-cazador-apodo"; // spec de Daniel 05/10/2026

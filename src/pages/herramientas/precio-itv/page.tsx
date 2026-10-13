@@ -23,7 +23,7 @@ const jsonLd = {
       url: "https://recurretumulta.online/herramientas/precio-itv",
       applicationCategory: "UtilityApplication",
       operatingSystem: "All",
-      offers: { "@type": "Offer", price: "0", "priceCurrency": "EUR" },
+      offers: { "@type": "Offer", price: "0", "priceCurrency": "EUR", availability: "https://schema.org/InStock" },
     },
     {
       "@type": "FAQPage",

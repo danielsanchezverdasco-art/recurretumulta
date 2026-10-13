@@ -1,7 +1,7 @@
 // Datos del juego "Caza de monos" (05/10/2026).
 
-// Ganadores: array de 100 slots (1º: 1000€ + 1 año de recursos gratis;
-// 2º–100º: recursos gratis). Se actualiza A MANO cuando se entrega cada premio.
+// Ganadores: array de 50 slots (1º: 1.500 € + 1 año de recursos ilimitados;
+// 2º–50º: 1 año de recursos ilimitados). Se actualiza A MANO cuando se entrega cada premio.
 // null = premio aún sin entregar.
 export interface Ganador {
   nombre: string; // nombre o apodo publicado (con permiso del ganador)
@@ -9,11 +9,6 @@ export interface Ganador {
 }
 
 export const GANADORES: Array<Ganador | null> = [
-  null, null, null, null, null, null, null, null, null, null,
-  null, null, null, null, null, null, null, null, null, null,
-  null, null, null, null, null, null, null, null, null, null,
-  null, null, null, null, null, null, null, null, null, null,
-  null, null, null, null, null, null, null, null, null, null,
   null, null, null, null, null, null, null, null, null, null,
   null, null, null, null, null, null, null, null, null, null,
   null, null, null, null, null, null, null, null, null, null,
@@ -50,6 +45,6 @@ export function generarCodigoReclamo(ids: string[]): string {
 export const WHATSAPP_RECLAMO = "34711292174";
 
 export function enlaceReclamoWhatsApp(codigo: string, nombre: string): string {
-  const texto = `Hola, he cazado los 250 monos de la Caza de monos 🦍 Mi código de reclamo es ${codigo}. Nombre: ${nombre}`;
+  const texto = `Hola, he cazado los 350 monos de la Caza de monos 🦍 Mi código de reclamo es ${codigo}. Nombre: ${nombre}`;
   return `https://wa.me/${WHATSAPP_RECLAMO}?text=${encodeURIComponent(texto)}`;
 }

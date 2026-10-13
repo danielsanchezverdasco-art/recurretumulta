@@ -1,5 +1,5 @@
 // Landing promocional "Caza de monos" (05/10/2026).
-// "Encuentra los monos y gana 1000€": hero, cómo se juega (3 pasos), progreso,
+// "Encuentra los monos y gana 1.500 €": hero, cómo se juega (3 pasos), progreso,
 // reclamar premio (código → WhatsApp), ganadores, FAQ y enlace a las bases.
 import { useState } from "react";
 import { Link } from "react-router-dom";
@@ -172,7 +172,7 @@ function ReclamarPremio() {
         </p>
         <p className="text-xs text-gray-500 mt-3 max-w-md mx-auto">
           Envíalo por WhatsApp junto con tu nombre. Verificamos manualmente que los monos
-          sean de verdad y te explicamos cómo recibir los 1000€ por transferencia.
+          sean de verdad y te explicamos cómo recibir tu premio (1.500 € por transferencia si eres el 1º).
         </p>
         <a
           href={enlaceReclamoWhatsApp(codigo, nombre)}
@@ -195,7 +195,7 @@ function ReclamarPremio() {
         setCodigo(generarCodigoReclamo(encontrados));
       }}
     >
-      <p className="font-black text-lg text-gray-900 mb-1">Reclama tu premio de 1000€</p>
+      <p className="font-black text-lg text-gray-900 mb-1">Reclama tu premio</p>
       <p className="text-xs text-gray-500 mb-4">
         Solo necesitamos un nombre y un contacto para entregarte el premio. No es un registro:
         no creamos ninguna cuenta.
@@ -235,15 +235,15 @@ function ReclamarPremio() {
 const FAQS = [
   {
     q: "¿Tengo que registrarme para jugar?",
-    a: "No. No hay cuentas ni registros: tu progreso se guarda automáticamente en tu navegador. Cuando llegues a 250 monos solo te pedimos un nombre y un contacto para poder entregarte el premio.",
+    a: "No. No hay cuentas ni registros: tu progreso se guarda automáticamente en tu navegador. Cuando llegues a 350 monos solo te pedimos un nombre y un contacto para poder entregarte el premio.",
   },
   {
     q: "¿Cómo sé cuántos monos llevo?",
-    a: "Cuando cazas tu primer mono aparece tu contador en el menú superior de la web, con el icono del mono (p. ej. 37/250). También puedes ver tu progreso con la barra de esta página.",
+    a: "Cuando cazas tu primer mono aparece tu contador en el menú superior de la web, con el icono del mono (p. ej. 37/350). También puedes ver tu progreso con la barra de esta página.",
   },
   {
     q: "¿Dónde están escondidos los monos?",
-    a: "Por toda la web: artículos del blog, fichas de coches, motos y patinetes, comparadores, herramientas… Hay 250 repartidos al azar y unos pocos fáciles en sitios visibles (el menú, el pie de página, la portada). Haz clic en cada mono que veas: desaparece y suma 1.",
+    a: "Por toda la web: artículos del blog, fichas de coches, motos y patinetes, comparadores, herramientas… Hay 350 repartidos al azar (uno de ellos, en la página de error 404) y unos pocos fáciles en sitios visibles (el menú, el pie de página, la portada). Haz clic en cada mono que veas: desaparece y suma 1.",
   },
   {
     q: "¿Cómo se verifica que los encontré de verdad?",
@@ -251,11 +251,11 @@ const FAQS = [
   },
   {
     q: "¿En qué consiste el premio?",
-    a: "El 1º puesto se lleva 1000€ por transferencia bancaria + 1 año de recursos gratis; del 2º al 100º, recursos gratis. El 1º es quien encuentre TODOS los monos, incluido el legendario dorado, y reclame primero con un código válido (los detalles, en las bases).",
+    a: "El 1º puesto se lleva 1.500 € por transferencia bancaria + 1 año de recursos ilimitados; del 2º al 50º, 1 año de recursos ilimitados. El 1º es quien encuentre TODOS los monos, incluido el legendario dorado, y reclame primero con un código válido (los detalles, en las bases).",
   },
   {
     q: "¿Qué es el ranking de cazadores?",
-    a: "Los 20 jugadores con más monos aparecen en el ranking de esta página. Si quieres salir, pon tu apodo en el formulario del ranking: es opcional y no necesitas ninguna cuenta.",
+    a: "Los 50 jugadores con más monos aparecen en el ranking de esta página. Si quieres salir, pon tu apodo en el formulario del ranking: es opcional y no necesitas ninguna cuenta.",
   },
   {
     q: "¿Qué es el mono legendario?",
@@ -267,7 +267,7 @@ const FAQS = [
   },
   {
     q: "¿Vale usar bots o scripts para cazar monos?",
-    a: "No. Revisamos cada reclamación a mano y el uso de bots, scripts, automatizaciones o cualquier ayuda artificial descalifica automáticamente del premio. Juega limpio: son 250 monos, se pueden encontrar todos navegando con normalidad.",
+    a: "No. Revisamos cada reclamación a mano y el uso de bots, scripts, automatizaciones o cualquier ayuda artificial descalifica automáticamente del premio. Juega limpio: son 350 monos, se pueden encontrar todos navegando con normalidad.",
   },
   {
     q: "¿Puedo jugar desde el móvil?",
@@ -277,11 +277,11 @@ const FAQS = [
 
 function JuegoMonosPage() {
   useSeo({
-    title: "Encuentra los monos y gana 1000€",
-    description: "Caza de monos: 250 monos + el legendario dorado escondidos por la web. Encuéntralos todos y gana 1000€ + 1 año de recursos gratis; del 2º al 100º, recursos gratis.",
+    title: "Encuentra los monos y gana 1.500 €",
+    description: "Caza de monos: 350 monos escondidos por la web. El 1º gana 1.500 € + 1 año de recursos ilimitados; del 2º al 50º, 1 año de recursos ilimitados.",
     canonical: "/juego-monos",
-    image: "https://recurretumulta.online/media/og-caza-monos-1000e.jpg",
-    keywords: ["caza de monos", "juego", "premio 1000 euros", "gana dinero"],
+    image: "https://recurretumulta.online/media/og-caza-monos-1500e.jpg",
+    keywords: ["caza de monos", "juego", "premio 1500 euros", "gana dinero"],
   });
 
   return (
@@ -336,13 +336,13 @@ function JuegoMonosPage() {
             </div>
             <h1 className="text-3xl sm:text-5xl font-black leading-tight">
               Encuentra los monos y<br />
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-300 to-red-400">gana 1000€</span>
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-300 to-red-400">gana 1.500 €</span>
             </h1>
             <p className="mt-4 text-sm sm:text-lg text-gray-300 max-w-xl mx-auto">
-              Hay <span className="font-black text-white">250 monos</span> escondidos por toda la web
+              Hay <span className="font-black text-white">350 monos</span> escondidos por toda la web
               más el <span className="font-black text-amber-300">legendario dorado</span>.
-              Cázalos a todos y opta a <span className="font-black text-white">1000€ por transferencia + 1 año de recursos gratis</span>.
-              Del 2º al 100º, recursos gratis.
+              Cázalos a todos y opta a <span className="font-black text-white">1.500 € por transferencia + 1 año de recursos ilimitados</span>.
+              Del 2º al 50º, 1 año de recursos ilimitados.
             </p>
             <div className="mt-6 flex flex-col sm:flex-row items-center justify-center gap-3">
               <a
@@ -374,7 +374,7 @@ function JuegoMonosPage() {
               {[
                 { icon: Navigation, paso: "1", titulo: "Navega por la web", texto: "Los monos están escondidos en artículos, fichas, comparadores y herramientas." },
                 { icon: MousePointerClick, paso: "2", titulo: "Haz clic en cada mono", texto: "Al hacer clic desaparece y suma 1 a tu contador del menú superior." },
-                { icon: Trophy, paso: "3", titulo: "Llega a 250 y reclama", texto: "Genera tu código y envíalo por WhatsApp. ¡Ganan los más rápidos!" },
+                { icon: Trophy, paso: "3", titulo: "Llega a 350 y reclama", texto: "Genera tu código y envíalo por WhatsApp. ¡Ganan los más rápidos!" },
               ].map((s) => (
                 <div key={s.paso} className="rounded-2xl border border-gray-200 bg-white p-5 shadow-sm text-center">
                   <div className="mx-auto w-11 h-11 rounded-full bg-gradient-to-br from-amber-400 to-red-500 text-white flex items-center justify-center mb-3">
@@ -402,9 +402,9 @@ function JuegoMonosPage() {
               <div className="text-center sm:text-left">
                 <p className="text-[11px] font-black uppercase tracking-[0.25em] text-amber-400">✨ Mono legendario</p>
                 <p className="mt-1.5 text-sm sm:text-base text-gray-200 leading-relaxed">
-                  Además de los 250, hay <span className="font-black text-amber-300">uno DORADO</span> escondido
+                  Entre los 350 hay <span className="font-black text-amber-300">uno DORADO</span> escondido
                   en una página profunda de la web. Es <span className="font-black text-white">obligatorio</span> para
-                  ganar los 1000€: sin el dorado no hay premio. Las <span className="font-black text-white">pistas solo salen en Instagram</span>.
+                  ganar los 1.500 €: sin el dorado no hay premio. Las <span className="font-black text-white">pistas solo salen en Instagram</span>.
                 </p>
                 <a
                   href="https://www.instagram.com/soycosa.ia/"
@@ -439,7 +439,7 @@ function JuegoMonosPage() {
               <Crown className="w-6 h-6 text-amber-500" /> Ranking de cazadores
             </h2>
             <p className="text-center text-sm text-gray-500 mb-5">
-              Los 20 mejores cazadores de monos. ¿Llegarás a lo más alto? 🦍
+              Los 50 mejores cazadores de monos. ¿Llegarás a lo más alto? 🦍
             </p>
             <div className="rounded-2xl border border-gray-200 bg-white p-5 sm:p-6 shadow-sm">
               <RankingCazadores />
@@ -452,7 +452,7 @@ function JuegoMonosPage() {
               <Users className="w-6 h-6 text-amber-500" /> Ganadores
             </h2>
             <p className="text-center text-sm text-gray-500 mb-5">
-              <span className="font-black text-gray-800 tabular-nums">{PREMIOS_ENTREGADOS}</span>/100 premios entregados
+              <span className="font-black text-gray-800 tabular-nums">{PREMIOS_ENTREGADOS}</span>/50 premios entregados
             </p>
             <div className="grid grid-cols-2 sm:grid-cols-5 gap-3">
               {GANADORES.map((g, i) => (

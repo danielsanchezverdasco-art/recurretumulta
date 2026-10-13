@@ -68,7 +68,7 @@ export default function TutorialCaza() {
         </p>
         <div className="mt-2 space-y-1.5 text-[13px] text-gray-700 leading-relaxed">
           <p>
-            ¡Eh, tú! Soy uno de los <span className="font-black">250 monos</span> escondidos
+            ¡Eh, tú! Soy uno de los <span className="font-black">350 monos</span> escondidos
             por la web.
           </p>
           <p>
@@ -76,10 +76,10 @@ export default function TutorialCaza() {
             <span className="font-black">contador (arriba en el menú)</span>.
           </p>
           <p>
-            Si encuentras los <span className="font-black">250</span>, entras en los premios:{" "}
+            Si encuentras los <span className="font-black">350</span>, entras en los premios:{" "}
             el <span className="font-black">1º</span> se lleva{" "}
-            <span className="font-black text-amber-700">1000€ + 1 año de recursos gratis</span>,
-            y del <span className="font-black">2º al 100º hay recursos gratis</span>. ¡Corre!
+            <span className="font-black text-amber-700">1.500 € + 1 año de recursos ilimitados</span>,
+            y del <span className="font-black">2º al 50º, 1 año de recursos ilimitados</span>. ¡Corre!
           </p>
           <p className="text-gray-500">
             Tienes tu ranking en <Link to="/juego-monos" onClick={cerrar} className="font-bold text-amber-700 underline underline-offset-2 cursor-pointer">/juego-monos</Link>. ¡Suerte! 🍀

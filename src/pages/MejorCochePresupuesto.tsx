@@ -203,7 +203,7 @@ export default function MejorCochePresupuesto() {
           url: "https://recurretumulta.online/mejor-coche-por-presupuesto",
           applicationCategory: "UtilityApplication",
           operatingSystem: "All",
-          offers: { "@type": "Offer", price: "0", priceCurrency: "EUR" },
+          offers: { "@type": "Offer", price: "0", priceCurrency: "EUR", availability: "https://schema.org/InStock" },
           description:
             "Mete tu presupuesto y elige tipo de motor: te recomendamos los coches nuevos que entran en tu presupuesto, ordenados por valor, con precios PVP verificados.",
         },
@@ -220,6 +220,7 @@ export default function MejorCochePresupuesto() {
                 "@type": "Offer",
                 price: r.coche.precioDesde,
                 priceCurrency: "EUR",
+                availability: "https://schema.org/InStock",
               },
             },
           })),

@@ -86,7 +86,7 @@ const jsonLd = {
       url: "https://recurretumulta.online/comparador-coches",
       applicationCategory: "UtilityApplication",
       operatingSystem: "All",
-      offers: { "@type": "Offer", price: "0", priceCurrency: "EUR" },
+      offers: { "@type": "Offer", price: "0", priceCurrency: "EUR", availability: "https://schema.org/InStock" },
       description:
         "Compara dos coches lado a lado antes de comprar: ficha técnica, precio, autonomía, maletero, pros y contras, y vídeo con crédito al canal.",
     },

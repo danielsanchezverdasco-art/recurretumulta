@@ -42,6 +42,7 @@ import BotonCazachollos from "@/components/BotonCazachollos.tsx";
 import CompartirBotones from "@/components/CompartirBotones.tsx";
 import { NotaCosa, MarcaAguaCosa } from "@/components/Cosa.tsx";
 import MonoEscondido from "@/components/caza-monos/MonoEscondido.tsx";
+import BannerJuegoMonos from "@/components/caza-monos/BannerJuegoMonos";
 import { fijoId } from "@/components/caza-monos/CazaMonosContext.tsx";
 import { garantiaDeMarca } from "@/lib/garantias-marcas.ts";
 import { tituloFichaCoche } from "@/lib/seo-titulo-ficha.ts";
@@ -353,6 +354,7 @@ function Ficha({ coche }: { coche: CocheComparador }) {
             "@type": "Offer",
             price: coche.precioDesde,
             priceCurrency: "EUR",
+            availability: "https://schema.org/InStock",
           },
         }),
       },
@@ -543,6 +545,7 @@ function Ficha({ coche }: { coche: CocheComparador }) {
             titulo="¡Un mono mecánico en la ficha! Haz clic para cazarlo 🦍"
           />
         </div>
+        <BannerJuegoMonos />
 
         {donuts.length >= 2 && (
           <Suspense fallback={null}>

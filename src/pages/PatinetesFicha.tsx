@@ -35,6 +35,7 @@ const Speedometer = lazy(() => import("@/components/motion.tsx").then((m) => ({ 
 import CompartirBotones from "@/components/CompartirBotones.tsx";
 import { NotaCosa, MarcaAguaCosa } from "@/components/Cosa.tsx";
 import MonoEscondido from "@/components/caza-monos/MonoEscondido.tsx";
+import BannerJuegoMonos from "@/components/caza-monos/BannerJuegoMonos";
 import { fijoId } from "@/components/caza-monos/CazaMonosContext.tsx";
 import { garantiaDeMarca } from "@/lib/garantias-marcas.ts";
 import { tituloFichaPatinete } from "@/lib/seo-titulo-ficha.ts";
@@ -160,7 +161,7 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
     "@graph": [
       {
         "@type": "Product",
-        name,
+        name: nombre,
         ...(patinete.fotoPendiente
           ? {}
           : {
@@ -383,6 +384,7 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
             titulo="¡Un mono en la ficha! Haz clic para cazarlo 🦍"
           />
         </div>
+        <BannerJuegoMonos />
 
         {donuts.length >= 2 && (
           <Suspense fallback={null}>

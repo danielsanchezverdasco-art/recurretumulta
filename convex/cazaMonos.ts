@@ -7,8 +7,8 @@
 import { query, mutation } from "./_generated/server";
 import { v } from "convex/values";
 
-// Temporada 1 (octubre 2026): objetivo 250 monos (decisión final de Daniel).
-const MAX_FOUND = 250;
+// Temporada 1 (octubre 2026): objetivo 350 monos (ampliado de 250 el 13/10/2026).
+const MAX_FOUND = 350;
 const MAX_NICKNAME = 24;
 const TEMPORADA = 1;
 
@@ -62,7 +62,7 @@ export const topHunters = query({
       .query("monkeyHunters")
       .withIndex("by_found")
       .order("desc")
-      .take(20);
+      .take(50); // 13/10/2026: premios del 1º al 50º
     return top.map((c) => ({
       hunterId: c.hunterId,
       nickname: c.nickname ?? "Cazador anónimo",
