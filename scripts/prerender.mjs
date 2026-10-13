@@ -335,7 +335,13 @@ async function main() {
   await Promise.all(Array.from({ length: CONCURRENCY }, async () => {
     while (next < ROUTES_FINAL.length) {
       const r = ROUTES_FINAL[next++];
-      await render(r);
+      // 13/10/2026: watchdog por ruta; una página colgada (page.content/close) ya no bloquea al worker.
+      let timer;
+      await Promise.race([
+        render(r),
+        new Promise((res) => { timer = setTimeout(() => { console.error(`  ✗ ${r}: watchdog 70s`); console.error(`FAIL_ROUTE:${r}`); res(); }, 70000); }),
+      ]);
+      clearTimeout(timer);
       if (++done % 200 === 0) console.log(`  …${done}/${ROUTES_FINAL.length}`);
     }
   }));
