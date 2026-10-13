@@ -217,6 +217,8 @@ FASE 2 — CHECKLIST COMPLETO (lee TODAS las páginas; verifica cada punto contr
 7. Contenido mínimo obligatorio de la denuncia (art. 87 LSV) y derechos del interesado (Ley 39/2015 art. 53).
 8. Prescripción y caducidad (art. 112 LSV): solo copia las fechas; el cálculo lo hace el sistema.
 9. Contradicciones ENTRE PÁGINAS (fechas, importes, matrícula, expediente o precepto distintos en distintas partes del documento).
+10. Fotograma/foto del radar, si lo hay: ¿la matrícula de la foto es legible y COINCIDE con la de la denuncia?; ¿fecha y hora de la foto coinciden con las de la denuncia?; ¿consta identificación del cinemómetro (marca/modelo/nº de serie) y su verificación metrológica en vigor (Orden ICT/155/2020)?; ¿consta el lugar (vía, punto kilométrico o calle y sentido)? Solo es defecto lo que VES que no coincide o es ilegible (cita art. 87 LSV / art. 77 Ley 39/2015 / Orden ICT/155/2020); si no hay foto, no lo valores.
+EL NÚMERO DE EXPEDIENTE puede tener barras, puntos, guiones o espacios (p. ej. "911/719473837.4", "28-045-123.456-7", "2026/000123"): cópialo entero tal cual, con todos sus signos.
 Solo incluye defectos que VEAS en el documento y que puedas citar con su artículo. Máximo 4, los más relevantes. Si no hay defectos, deja "defectos" vacío: no inventes.
 
 FASE 3 — RÚBRICA DE VIABILIDAD (determinista: mismos defectos = misma puntuación):
@@ -232,7 +234,7 @@ REGLA DE CONSISTENCIA: ante el mismo documento debes producir siempre los mismos
 REGLA DE COHERENCIA DATOS-DEFECTOS (obligatoria): cada defecto debe ser COHERENTE con los datos extraídos en la FASE 1. Está PROHIBIDO decir que falta un dato que SÍ extrajiste. Ejemplos: si "matricula" tiene un valor, no puedes listar "falta la matrícula" ni "vehículo no identificado"; si "fecha" tiene un valor, no digas que "falta la fecha"; si "expediente" tiene un valor, no digas que "falta el expediente". Antes de incluir cada defecto, comprueba que no contradice ningún campo extraído. Solo incluye defectos REALES que veas en el documento.`;
 
 // Subir CACHE_V cuando cambie la lógica del análisis: invalida la caché anterior.
-const CACHE_V = "v13";
+const CACHE_V = "v14";
 // ── Caché de análisis: la misma multa siempre devuelve el mismo resultado ───
 // (orden de Daniel 03/10/2026). Helpers puros; las queries/mutaciones viven en
 // convex/multasInterno.ts porque los ficheros "use node" solo admiten actions.
@@ -302,7 +304,7 @@ async function analizarConVision(base64Data: string, mimeType: string, extra = "
     temperature: 0,
     max_tokens: 2500,
     messages: [
-      { role: "system", content: "Eres un transcriptor. Copia LITERALMENTE todo el texto legible de la imagen (multa, notificación o fotograma de radar), línea a línea, sin resumir, sin interpretar y sin añadir nada. Si la imagen es una foto de radar, transcribe también los datos sobreimpresos (velocidad, límite, fecha, hora, lugar, nº de serie, tipo de cinemómetro) y la matrícula visible. Al final añade una línea: TIPO_IMAGEN: notificación | fotograma radar | otro. Si no hay texto legible, responde solo: ILEGIBLE." },
+      { role: "system", content: "Eres un transcriptor. Copia LITERALMENTE todo el texto legible de la imagen (multa, notificación o fotograma de radar), línea a línea, sin resumir, sin interpretar y sin añadir nada. Si la imagen es una foto de radar, transcribe también los datos sobreimpresos (velocidad, límite, fecha, hora, lugar, nº de serie, tipo de cinemómetro) y la matrícula visible. Copia números de expediente, boletín y matrícula carácter a carácter, con todas sus barras, puntos y guiones (p. ej. 911/719473837.4). Al final añade una línea: TIPO_IMAGEN: notificación | fotograma radar | otro. Si no hay texto legible, responde solo: ILEGIBLE." },
       {
         role: "user",
         content: [
@@ -442,7 +444,13 @@ function completarConTexto(a: AnalisisRaw, texto: string): AnalisisRaw {
   if (vel) { set("velocidadDetectada", `${vel[1]} km/h`); set("limiteVia", `${vel[2]} km/h`); }
   const imp = tras(/IMPORTE( DE LA (MULTA|SANCI[OÓ]N))?/i, /(\d{1,4}(?:[.,]\d{2}))\s*(?:€|EUR|euros)?/i);
   if (imp) set("importe", `${imp.replace(".", ",")} €`);
-  set("expediente", tras(/(REFERENCIA DEL EXPEDIENTE|N[ºo°]\.? ?(DE )?EXPEDIENTE|EXPEDIENTE N[ºo°]?)/i, /\b([0-9][0-9A-Z/.\-]{6,})/));
+  const exp = extraerExpediente(t);
+  if (exp) {
+    const actual = String(out.expediente ?? "").trim();
+    const dig = (x: string) => x.replace(/\D/g, "");
+    // Se corrige si la IA no lo dio, lo dio sin cifras suficientes o truncado/sin signos.
+    if (VACIO.test(actual) || dig(actual).length < 5 || (dig(exp).startsWith(dig(actual)) && dig(exp) !== dig(actual))) out.expediente = exp;
+  }
   set("fecha", tras(/FECHA\s*\/?\s*(HORA)?\s*DE LA (INFRACCI[OÓ]N|DENUNCIA)/i, /(\d{2}[/-]\d{2}[/-]\d{4})/));
   set("matricula", /\b(\d{4}\s?[BCDFGHJKLMNPRSTVWXYZ]{3})\b/.exec(t)?.[1]);
   set("infraccion", /(SOBREPASAR|CIRCULAR|ESTACIONAR|NO RESPETAR|CONDUCIR)[^|]{10,160}?(km\/h|\.)(?=\s)/i.exec(t)?.[0]?.trim());
@@ -468,6 +476,18 @@ function etiquetaDato(d: string): string {
   return ETIQUETAS[k] ?? (/^[a-z]+[A-Z][a-zA-Z]*$/.test(d.trim()) ? "" : d);
 }
 
+// Número de expediente (Madrid "911/719473837.4", DGT "28-045-123.456-7" o 12 cifras,
+// otros ayuntamientos "2026/000123", "EXP-2026-1234"...). Etiqueta + valor, o patrón Madrid suelto.
+function extraerExpediente(t: string): string | undefined {
+  const ETQ = /(REFERENCIA DEL EXPEDIENTE|N[ºo°.]*\s*(?:DE\s+)?EXPEDIENTE|EXPEDIENTE\s*(?:NÚM(?:ERO)?\.?|N[ºo°.]*|SANCIONADOR)?|EXPTE\.?\s*(?:N[ºo°.]*)?|N[ºo°.]*\s*(?:DE\s+)?(?:BOLET[IÍ]N|DENUNCIA))\s*[:.\-]?\s*/gi;
+  const VAL = /^((?:[A-Z]{1,4}[-\s]?)?\d[\dA-Z]*(?:[\/.\-\s]\d[\dA-Z]*){0,6})/i;
+  for (const m of t.matchAll(ETQ)) {
+    const v = VAL.exec(t.slice(m.index! + m[0].length, m.index! + m[0].length + 60))?.[1]?.trim().replace(/[.\-\/\s]+$/, "");
+    if (v && v.replace(/\D/g, "").length >= 5 && !/^\d{2}[\/-]\d{2}[\/-]\d{4}$/.test(v)) return v.replace(/\s+/g, " ");
+  }
+  return /\b(\d{3}\/\d{6,12}\.\d)\b/.exec(t)?.[1];
+}
+
 // Cálculos legales deterministas + saneado de lo que devuelve la IA (12/10/2026).
 function aplicarNormativa(a: AnalisisRaw): AnalisisRaw {
   const hechos = evaluarVelocidad({
@@ -489,6 +509,14 @@ function aplicarNormativa(a: AnalisisRaw): AnalisisRaw {
   const FALTA = /\b(falta|ausencia|no consta|no se (indica|especifica|identifica)|no (aparece|figura|indica|especifica)|sin identificar|omisi)/i;
   const faltasMovidas: string[] = [];
   if (noEsNotificacion) for (let i = defectos.length - 1; i >= 0; i--) if (FALTA.test(`${defectos[i].titulo} ${defectos[i].descripcion}`)) faltasMovidas.unshift(defectos.splice(i, 1)[0].titulo.toLowerCase());
+  const CAMPOS: [keyof AnalisisRaw, RegExp][] = [
+    ["expediente", /expediente/i], ["matricula", /matr[ií]cula|veh[ií]culo no identificado/i], ["fecha", /fecha( y hora)? de (la )?(infracci|denuncia)|\bfecha\b/i],
+    ["importe", /importe|cuant[ií]a/i], ["organo", /[óo]rgano|autoridad/i]
+  ];
+  for (let i = defectos.length - 1; i >= 0; i--) {
+    const txt = `${defectos[i].titulo} ${defectos[i].descripcion}`;
+    if (FALTA.test(txt) && CAMPOS.some(([k, re]) => re.test(txt) && typeof a[k] === "string" && !VACIO.test(String(a[k]).trim()) && String(a[k]).trim() !== "")) defectos.splice(i, 1);
+  }
   const presc = evaluarPrescripcion({ fecha: a.fecha, fechaNotificacion: a.fechaNotificacion, calificacion: a.calificacion });
   // El cálculo manda: se quitan los defectos de prescripción que haya escrito la IA.
   if (presc.motivo || presc.linea) for (let i = defectos.length - 1; i >= 0; i--) if (/prescrip/i.test(defectos[i].titulo)) defectos.splice(i, 1);
@@ -594,7 +622,12 @@ Redacta el escrito completo con todos los argumentos jurídicos.`;
     ],
   }));
 
-  return limpiarCarta(cartaResponse.choices[0]?.message?.content ?? "");
+  // Bloque de datos leídos de la multa (13/10/2026): el usuario ve que se leyeron de verdad.
+  const fila = (k: string, v?: string) => (v && !VACIO.test(v.trim()) ? `${k}: ${v.trim()}\n` : "");
+  const bloque = fila("Expediente", datos.expediente) + fila("Matrícula", datos.matricula) + fila("Fecha de la infracción", datos.fecha) +
+    fila("Hecho denunciado", datos.infraccion) + fila("Importe", datos.importe) + fila("Velocidad medida", /\d/.test(datos.velocidadDetectada) ? datos.velocidadDetectada : "") +
+    fila("Límite de la vía", /\d/.test(datos.limiteVia) ? datos.limiteVia : "") + fila("Órgano", datos.organo) + fila("Fecha de notificación", datos.fechaNotificacion);
+  return (bloque ? `DATOS DE LA MULTA\n${bloque}\n` : "") + limpiarCarta(cartaResponse.choices[0]?.message?.content ?? "");
 }
 
 // 13/10/2026: quita markdown y cualquier línea con citas no permitidas
@@ -641,8 +674,9 @@ export const analizarMulta = action({
     sessionToken: v.optional(v.string()),
     pruebas: v.optional(v.array(v.object({ nombre: v.string(), base64: v.string(), mime: v.string() }))),
     version: v.optional(v.string()),
+    progresoId: v.optional(v.string()),
   },
-  handler: async (ctx, { fileBase64, fileMimeType, nombreRecurrente, dniRecurrente, domicilioRecurrente, fingerprint, sessionToken, pruebas, version: versionRaw }): Promise<{
+  handler: async (ctx, { fileBase64, fileMimeType, nombreRecurrente, dniRecurrente, domicilioRecurrente, fingerprint, sessionToken, pruebas, version: versionRaw, progresoId }): Promise<{
     carta: string;
     viabilidad: number;
     nivel: "alta" | "media" | "baja";
@@ -693,6 +727,10 @@ export const analizarMulta = action({
 
     // ── 2. Extraer contenido según tipo de archivo ─────────────────────────────
     let analisis: AnalisisRaw;
+    const pid = (progresoId ?? "").slice(0, 64);
+    const paso = async (etapa: string) => { if (pid) try { await ctx.runMutation(internal.multasInterno.setProgreso, { pid, etapa }); } catch { /* no bloquea */ } };
+    await paso("paginas");
+    if (lista.length) await paso("fotos");
     const transPruebas = await Promise.all(lista.map((p) => transcribirPrueba(p.base64, p.mime)));
     const extra = (version ? `\n\nVERSIÓN DE LOS HECHOS SEGÚN EL RECURRENTE (afirmación de parte, NO probada; no la trates como hecho):\n${version}` : "") + (lista.length
       ? "\n\nPRUEBAS APORTADAS POR EL RECURRENTE (tenlas en cuenta solo en lo que digan literalmente; no son parte de la multa):\n" +
@@ -702,6 +740,8 @@ export const analizarMulta = action({
 
     // Móviles (Android "Archivos"/Drive) a veces envían el PDF sin tipo o como
     // octet-stream/imagen: detectar PDF por la firma %PDF (base64 "JVBER").
+    const esPdfPre = fileMimeType === "application/pdf" || fileBase64.slice(0, 1024).replace(/\s/g, "").includes("JVBER");
+    if (!esPdfPre) await paso("fotos");
     const esPdf = fileMimeType === "application/pdf" || fileBase64.slice(0, 1024).replace(/\s/g, "").includes("JVBER");
     console.log(`[multa] mime=${fileMimeType} esPdf=${esPdf} b64len=${fileBase64.length}`);
     if (esPdf) {
@@ -714,16 +754,19 @@ export const analizarMulta = action({
 
       if (textoExtraido.length > 80) {
         // PDF con texto nativo — más preciso y rápido
+        await paso("analisis");
         analisis = await analizarConTexto(textoExtraido + extra);
       } else {
         // PDF escaneado — renderizar la primera página como imagen real
         // antes de enviarla al modelo de visión (los bytes del PDF no son
         // una imagen JPEG válida).
         const paginaJpegBase64 = await renderPdfFirstPageToJpegBase64(fileBase64);
+        await paso("analisis");
         analisis = await analizarConVision(paginaJpegBase64, "image/jpeg", extra);
       }
     } else {
       // Imagen (jpg, png, webp) — visión directa
+      await paso("analisis");
       analisis = await analizarConVision(fileBase64, fileMimeType, extra);
     }
 
@@ -737,6 +780,7 @@ export const analizarMulta = action({
     }
 
     // ── 2. Redactar recurso de reposición ─────────────────────────────────────
+    await paso("resultado");
     const carta = await generarCartaMulta(
       { organo: analisis.organo, provincia: analisis.provincia, expediente: analisis.expediente, importe: analisis.importe, infraccion: analisis.infraccion, fecha: analisis.fecha, matricula: analisis.matricula, velocidadDetectada: analisis.velocidadDetectada, limiteVia: analisis.limiteVia, tipoDocumento: analisis.tipoDocumento, fechaNotificacion: analisis.fechaNotificacion, fundamentos: analisis.fundamentos },
       analisis.defectos,

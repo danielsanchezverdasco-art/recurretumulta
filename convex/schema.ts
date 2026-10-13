@@ -4,6 +4,8 @@ import { authTables } from "@convex-dev/auth/server";
 
 export default defineSchema({
   ...authTables,
+  // Etapa real del análisis en curso (13/10/2026), para la pantalla de espera.
+  progresoAnalisis: defineTable({ pid: v.string(), etapa: v.string(), t: v.number() }).index("by_pid", ["pid"]),
   users: defineTable({
     tokenIdentifier: v.optional(v.string()),
     name: v.optional(v.string()),
