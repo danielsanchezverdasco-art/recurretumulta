@@ -92,11 +92,16 @@ export function useSeo({
 
     // Título/meta finales fijados en el HTML por scripts/apply-seo.mjs
     // (fuente: src/content/seo/titulos.csv): en esa URL no se pisan.
-    const fijo = document.querySelector('meta[name="rtm-seo"]')?.getAttribute("data-path") === canonPath;
-    const tituloFinal = fijo ? document.title : fullTitle;
-    const descFinal = fijo
-      ? document.querySelector('meta[name="description"]')?.getAttribute("content") || desc
-      : desc;
+    // 13/10/2026: también se conserva el título prerenderizado de la URL de entrada.
+    const inicial = (window as unknown as { __SEO_INICIAL__?: { path: string; title: string; desc: string } }).__SEO_INICIAL__;
+    const deEntrada = !!inicial && inicial.path === canonPath.split("?")[0] && location.pathname.replace(/\/?$/, "/") === inicial.path;
+    const fijo = deEntrada || document.querySelector('meta[name="rtm-seo"]')?.getAttribute("data-path") === canonPath;
+    const tituloFinal = deEntrada ? inicial!.title : fijo ? document.title : fullTitle;
+    const descFinal = deEntrada
+      ? inicial!.desc || desc
+      : fijo
+        ? document.querySelector('meta[name="description"]')?.getAttribute("content") || desc
+        : desc;
 
     // Title
     document.title = tituloFinal;

@@ -516,7 +516,11 @@ function BlogPostPage() {
     // lo que el usuario busca + la solución. PROHIBIDO el nombre de la web/marca.
     // El título final es el del artículo, sin sufijo.
     useEffect(() => {
-        if (post) {
+        // 13/10/2026: no pisar el título SEO (titulos.csv) fijado en el HTML.
+        const p = location.pathname.replace(/\/?$/, "/");
+        const inicial = (window as unknown as { __SEO_INICIAL__?: { path: string } }).__SEO_INICIAL__;
+        const fijo = inicial?.path === p || document.querySelector('meta[name="rtm-seo"]')?.getAttribute("data-path") === p;
+        if (post && !fijo) {
             document.title = post.title;
         }
     }, [post]);
