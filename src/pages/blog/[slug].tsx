@@ -40,7 +40,7 @@ function conCreditos(html: string): string {
   return html.replace(/<img\b[^>]*\bsrc=["']([^"']+)["'][^>]*>/g, (tag, src) => {
     const c = creditoDe(src);
     if (!c) return tag;
-    return `${tag}<small class="block mt-1 text-[10px] leading-tight text-gray-400">Foto: <a href="${escAttr(c.url)}" target="_blank" rel="noopener noreferrer nofollow" class="underline">${escAttr(c.autor)}</a> · ${escAttr(c.licencia)} · Wikimedia Commons</small>`;
+    return `${tag}<small class="block mt-1 text-[10px] leading-tight text-gray-400">Foto: <a href="${escAttr(c.url)}" target="_blank" rel="noopener noreferrer nofollow" class="underline">${escAttr(c.autor)}</a> ${c.licencia === "prensa" ? "(prensa)" : `· ${escAttr(c.licencia)} · Wikimedia Commons`}</small>`;
   });
 }
 import MonoEscondido from "@/components/caza-monos/MonoEscondido.tsx";
@@ -608,7 +608,7 @@ function BlogPostPage() {
                   <a href={creditoDe(heroSrc)!.url} target="_blank" rel="noopener noreferrer nofollow" className="underline">
                     {creditoDe(heroSrc)!.autor}
                   </a>{" "}
-                  · {creditoDe(heroSrc)!.licencia} · Wikimedia Commons
+                  {creditoDe(heroSrc)!.licencia === "prensa" ? "(prensa)" : `· ${creditoDe(heroSrc)!.licencia} · Wikimedia Commons`}
                 </p>
               )}
             </>

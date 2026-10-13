@@ -48,6 +48,23 @@ function mensajeError(err: unknown, porDefecto: string): string {
   return msg;
 }
 
+// Reduce fotos de pruebas a JPEG de ~1600 px para no superar el límite de subida.
+async function comprimirImagen(f: File): Promise<{ nombre: string; base64: string; mime: string } | null> {
+  try {
+    const bmp = await createImageBitmap(f);
+    const k = Math.min(1, 1600 / Math.max(bmp.width, bmp.height));
+    const c = document.createElement("canvas");
+    c.width = Math.round(bmp.width * k); c.height = Math.round(bmp.height * k);
+    c.getContext("2d")!.drawImage(bmp, 0, 0, c.width, c.height);
+    const b64 = c.toDataURL("image/jpeg", 0.85).split(",")[1];
+    return b64 ? { nombre: f.name, base64: b64, mime: "image/jpeg" } : null;
+  } catch { return null; }
+}
+
+function conAnexo(carta: string, anexo?: string): string {
+  return anexo && !carta.includes("ANEXO: PRUEBAS APORTADAS") ? carta + anexo : carta;
+}
+
 // Valida el tipo MIME del archivo
 function normalizeMimeType(file: File): string {
   const mime = file.type || (/\.pdf$/i.test(file.name) ? "application/pdf" : "application/octet-stream");
@@ -79,6 +96,7 @@ type DatosMulta = {
 
 type AnalysisResult = {
   carta: string;
+  anexoPruebas?: string;
   viabilidad: number;
   nivel: "alta" | "media" | "baja";
   resumen: string;
@@ -428,6 +446,9 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
   const { t } = useTranslation("analyzer");
   const convex = useConvex();
   const [file, setFile] = useState<File | null>(null);
+  // 13/10/2026: pruebas opcionales (ticket de parquímetro, fotos...), máx. 5 de 5 MB.
+  const [pruebas, setPruebas] = useState<File[]>([]);
+  const pruebasRef = useRef<HTMLInputElement>(null);
   const [dragActive, setDragActive] = useState(false);
   const [nombre, setNombre] = useState("");
   const [dni, setDni] = useState("");
@@ -503,7 +524,7 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
           domicilio: domicilio.trim(),
           tipo: "multa",
         });
-        setResult({ ...result, carta: r.carta });
+        setResult({ ...result, carta: conAnexo(r.carta, result.anexoPruebas) });
         setCreditosRestantes(r.restantes);
         setDatosDialogOpen(false);
         toast.success(t("toast.done"));
@@ -526,6 +547,7 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
             .replace(/\[COMPLETAR:\s*DNI\/NIE\]/gi, dni.trim().toUpperCase())
             .replace(/\[COMPLETAR:\s*Domicilio( completo)?\]/gi, domicilio.trim());
         }
+        carta = conAnexo(carta, result.anexoPruebas);
         const { url } = await createCheckoutSinRegistro({
           email: email.trim(),
           nombre: nombre.trim(),
@@ -573,7 +595,15 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
       const fileMimeType = normalizeMimeType(file);
 
       toast.info(t("toast.analyzing"));
+      const pruebasPayload = await Promise.all(pruebas.map(async (p) => {
+        const img = p.type.startsWith("image/") ? await comprimirImagen(p) : null;
+        return img ?? { nombre: p.name, base64: await fileToBase64(p), mime: normalizeMimeType(p) };
+      }));
+      if (pruebasPayload.reduce((n, p) => n + p.base64.length, 0) > 12_000_000) {
+        throw new Error("Las pruebas ocupan demasiado en total. Quita alguna o súbelas más ligeras.");
+      }
       const res = await withAnalisisTimeout(analizarMulta({
+        ...(pruebasPayload.length ? { pruebas: pruebasPayload } : {}),
         fileBase64,
         fileMimeType,
         fingerprint: getAnonymousFingerprint(),
@@ -1113,6 +1143,35 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
               ))}
             </div>
           </div>
+        )}
+      </div>
+
+      {/* ── PRUEBAS OPCIONALES ── */}
+      <div className="rounded-2xl border border-dashed border-gray-300 p-4 space-y-2">
+        <div className="flex items-center justify-between gap-2">
+          <div>
+            <p className="text-sm font-black text-gray-900">Adjuntar pruebas (opcional)</p>
+            <p className="text-xs text-gray-500">Ticket del parquímetro, fotos de la señal… Hasta 5 archivos de 5 MB (imagen o PDF). Se tendrán en cuenta en el análisis y se añadirán como anexo al recurso.</p>
+          </div>
+          <Button type="button" variant="outline" size="sm" disabled={pruebas.length >= 5} onClick={() => pruebasRef.current?.click()}>Añadir</Button>
+        </div>
+        <input ref={pruebasRef} type="file" multiple accept="application/pdf,image/*" className="hidden" data-testid="pruebas-input"
+          onChange={(e) => {
+            const nuevos = Array.from(e.target.files ?? []);
+            const grandes = nuevos.filter((f) => f.size > 5 * 1024 * 1024);
+            if (grandes.length) toast.error(`Máximo 5 MB por archivo: ${grandes.map((f) => f.name).join(", ")}`);
+            setPruebas((prev) => [...prev, ...nuevos.filter((f) => f.size <= 5 * 1024 * 1024)].slice(0, 5));
+            e.target.value = "";
+          }} />
+        {pruebas.length > 0 && (
+          <ul className="space-y-1">
+            {pruebas.map((p, i) => (
+              <li key={i} className="flex items-center justify-between text-xs bg-gray-50 rounded-lg px-2 py-1">
+                <span className="truncate">{p.name} · {(p.size / 1024).toFixed(0)} KB</span>
+                <button type="button" className="text-red-600 font-bold ml-2" onClick={() => setPruebas((prev) => prev.filter((_, j) => j !== i))}>Quitar</button>
+              </li>
+            ))}
+          </ul>
         )}
       </div>
 

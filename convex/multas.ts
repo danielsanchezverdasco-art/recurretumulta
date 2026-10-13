@@ -291,7 +291,7 @@ async function extractPdfText(base64Data: string): Promise<string> {
 }
 
 // ── Análisis con visión — Llama 4 Scout ──────────────────────────────────────
-async function analizarConVision(base64Data: string, mimeType: string): Promise<AnalisisRaw> {
+async function analizarConVision(base64Data: string, mimeType: string, extra = ""): Promise<AnalisisRaw> {
   // 13/10/2026: la visión SOLO transcribe; el análisis jurídico lo hace el modelo
   // de texto (más fiable razonando) con las mismas reglas que un PDF.
   const red = await reducirImagenBase64(base64Data);
@@ -316,7 +316,34 @@ async function analizarConVision(base64Data: string, mimeType: string): Promise<
   if (!texto || /^ILEGIBLE/i.test(texto) || texto.length < 25) {
     throw new ConvexError({ code: "ANALISIS_VACIO", message: "No hemos podido leer el documento, prueba con una foto más nítida (o sube el PDF original)." });
   }
-  return analizarConTexto(`(Transcripción automática de una imagen)\n${texto}`);
+  return analizarConTexto(`(Transcripción automática de una imagen)\n${texto}${extra}`);
+}
+
+// ── Pruebas aportadas por el usuario (13/10/2026): se transcriben con el mismo
+// modelo de visión (o texto nativo si es PDF). Nada se inventa: si no se lee, se dice.
+async function transcribirPrueba(b64: string, mime: string): Promise<string | null> {
+  try {
+    const esPdf = mime === "application/pdf" || b64.slice(0, 1024).replace(/\s/g, "").includes("JVBER");
+    if (esPdf) {
+      const t = (await extractPdfText(b64)).trim();
+      if (t.length > 20) return t.slice(0, 4000);
+      b64 = await renderPdfFirstPageToJpegBase64(b64); mime = "image/jpeg";
+    }
+    const red = await reducirImagenBase64(b64);
+    if (red) { b64 = red.data; mime = red.mime; }
+    const r = await withModelos(MODELOS_VISION, (modelo) => groq().chat.completions.create({
+      model: modelo, temperature: 0, max_tokens: 1500,
+      messages: [
+        { role: "system", content: "Eres un transcriptor. Copia LITERALMENTE el texto legible de la imagen (ticket de parquímetro, señal, documento...) y, si es una foto sin texto, describe en una o dos frases SOLO lo que se ve objetivamente. No interpretes ni añadas nada. Si no se distingue nada, responde solo: ILEGIBLE." },
+        { role: "user", content: [{ type: "text", text: "Transcribe esta prueba." }, { type: "image_url", image_url: { url: `data:${mime};base64,${b64}`, detail: "high" } }] },
+      ],
+    }));
+    const t = (r.choices[0]?.message?.content ?? "").replace(/<think>[\s\S]*?<\/think>/gi, "").trim();
+    return !t || /^ILEGIBLE/i.test(t) ? null : t.slice(0, 4000);
+  } catch (e) {
+    console.log("[pruebas] error", String(e).slice(0, 120));
+    return null;
+  }
 }
 
 // ── Análisis con texto — Llama 3.3 70B ───────────────────────────────────────
@@ -593,8 +620,9 @@ export const analizarMulta = action({
     // cuando el usuario analiza sin registrarse.
     fingerprint: v.optional(v.string()),
     sessionToken: v.optional(v.string()),
+    pruebas: v.optional(v.array(v.object({ nombre: v.string(), base64: v.string(), mime: v.string() }))),
   },
-  handler: async (ctx, { fileBase64, fileMimeType, nombreRecurrente, dniRecurrente, domicilioRecurrente, fingerprint, sessionToken }): Promise<{
+  handler: async (ctx, { fileBase64, fileMimeType, nombreRecurrente, dniRecurrente, domicilioRecurrente, fingerprint, sessionToken, pruebas }): Promise<{
     carta: string;
     viabilidad: number;
     nivel: "alta" | "media" | "baja";
@@ -634,7 +662,9 @@ export const analizarMulta = action({
     // ── 1b. Caché: si este documento (o este expediente) ya se analizó,
     // devolver el MISMO resultado sin llamar a la IA (03/10/2026) ──────────
     const docHash = `${CACHE_V}:${await sha256hex(fileBase64)}`; // versionado: un cambio de lógica invalida la caché
-    const hitDoc = await ctx.runQuery(internal.multasInterno.buscarAnalisisCache, { docHash });
+    const lista = (pruebas ?? []).slice(0, 5);
+    if (lista.some((p) => p.base64.length > 7_200_000)) throw new ConvexError({ code: "PRUEBA_GRANDE", message: "Cada prueba puede ocupar como máximo 5 MB." });
+    const hitDoc = lista.length ? null : await ctx.runQuery(internal.multasInterno.buscarAnalisisCache, { docHash });
     if (hitDoc) {
       await ctx.runMutation(internal.multasInterno.contarHitCache, { id: hitDoc._id });
       return JSON.parse(hitDoc.resultado);
@@ -642,6 +672,11 @@ export const analizarMulta = action({
 
     // ── 2. Extraer contenido según tipo de archivo ─────────────────────────────
     let analisis: AnalisisRaw;
+    const transPruebas = await Promise.all(lista.map((p) => transcribirPrueba(p.base64, p.mime)));
+    const extra = lista.length
+      ? "\n\nPRUEBAS APORTADAS POR EL RECURRENTE (tenlas en cuenta solo en lo que digan literalmente; no son parte de la multa):\n" +
+        lista.map((p, i) => `[Prueba ${i + 1}: ${p.nombre}]\n${transPruebas[i] ?? "(no se ha podido leer)"}`).join("\n\n")
+      : "";
 
     // Móviles (Android "Archivos"/Drive) a veces envían el PDF sin tipo o como
     // octet-stream/imagen: detectar PDF por la firma %PDF (base64 "JVBER").
@@ -657,23 +692,23 @@ export const analizarMulta = action({
 
       if (textoExtraido.length > 80) {
         // PDF con texto nativo — más preciso y rápido
-        analisis = await analizarConTexto(textoExtraido);
+        analisis = await analizarConTexto(textoExtraido + extra);
       } else {
         // PDF escaneado — renderizar la primera página como imagen real
         // antes de enviarla al modelo de visión (los bytes del PDF no son
         // una imagen JPEG válida).
         const paginaJpegBase64 = await renderPdfFirstPageToJpegBase64(fileBase64);
-        analisis = await analizarConVision(paginaJpegBase64, "image/jpeg");
+        analisis = await analizarConVision(paginaJpegBase64, "image/jpeg", extra);
       }
     } else {
       // Imagen (jpg, png, webp) — visión directa
-      analisis = await analizarConVision(fileBase64, fileMimeType);
+      analisis = await analizarConVision(fileBase64, fileMimeType, extra);
     }
 
     // ── 2b. Segundo intento de caché: mismo expediente con otro archivo
     // (reescaneo o foto distinta de la misma multa) ─────────────────────────
     const expedienteKey = normalizarExpediente(analisis.expediente);
-    const hitExp = await ctx.runQuery(internal.multasInterno.buscarAnalisisCache, { expedienteKey });
+    const hitExp = lista.length ? null : await ctx.runQuery(internal.multasInterno.buscarAnalisisCache, { expedienteKey });
     if (hitExp) {
       await ctx.runMutation(internal.multasInterno.contarHitCache, { id: hitExp._id });
       return JSON.parse(hitExp.resultado);
@@ -687,8 +722,13 @@ export const analizarMulta = action({
       hoy
     );
 
+    const anexoPruebas = lista.length
+      ? "\n\nANEXO: PRUEBAS APORTADAS\n\n" +
+        lista.map((p, i) => `Prueba ${i + 1} (${p.nombre}):\n${transPruebas[i] ? `Transcripción: ${transPruebas[i]}` : "No se ha podido leer el contenido de esta prueba; se aporta el archivo original."}`).join("\n\n")
+      : "";
     const resultado = {
-      carta,
+      carta: carta + anexoPruebas,
+      anexoPruebas,
       viabilidad: analisis.viabilidad,
       nivel: analisis.nivel,
       resumen: analisis.resumen,
@@ -717,7 +757,7 @@ export const analizarMulta = action({
     }
 
     // ── 2c. Guardar en caché para futuras consultas idénticas ───────────────
-    await ctx.runMutation(internal.multasInterno.guardarAnalisisCache, {
+    if (!lista.length) await ctx.runMutation(internal.multasInterno.guardarAnalisisCache, {
       expedienteKey,
       docHash,
       resultado: JSON.stringify(resultado),
