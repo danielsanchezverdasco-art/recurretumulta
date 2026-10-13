@@ -15,10 +15,12 @@ export default defineConfig({
   },
   plugins: [react(), tailwindcss()],
   resolve: {
-    alias: {
-      "@/convex": path.resolve(import.meta.dirname, "./convex"),
-      "@": path.resolve(import.meta.dirname, "./src"),
-    },
+    alias: [
+      // 13/10/2026 (indexación): <Link>/<NavLink> con barra final (src/lib/router-barra.tsx).
+      { find: /^react-router-dom$/, replacement: path.resolve(import.meta.dirname, "./src/lib/router-barra.tsx") },
+      { find: "@/convex", replacement: path.resolve(import.meta.dirname, "./convex") },
+      { find: "@", replacement: path.resolve(import.meta.dirname, "./src") },
+    ],
     dedupe: [
       "react",
       "react-dom",

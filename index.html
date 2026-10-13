@@ -9,6 +9,25 @@
        encolar eventos; el script real se inyecta tras el LCP, primera
        interacción o idle (lo que ocurra antes). GA4 sigue registrando igual. -->
   <script>
+    // 13/10/2026 (indexación): enlaces internos siempre con barra final (= URL canónica, sin 301).
+    (function () {
+      function fix(a) {
+        var h = a.getAttribute("href");
+        if (!h || h.charAt(0) !== "/" || h.charAt(1) === "/") return;
+        var m = h.match(/^([^?#]*)([?#].*)?$/); if (!m) return;
+        var r = m[1];
+        if (r === "/" || r.slice(-1) === "/" || /\.[a-z0-9]{2,5}$/i.test(r)) return;
+        a.setAttribute("href", r + "/" + (m[2] || ""));
+      }
+      function scan(n) { if (n.tagName === "A") fix(n); if (n.querySelectorAll) n.querySelectorAll("a[href^='/']").forEach(fix); }
+      new MutationObserver(function (ms) {
+        ms.forEach(function (m) {
+          if (m.type === "attributes") fix(m.target); else m.addedNodes.forEach(function (n) { if (n.nodeType === 1) scan(n); });
+        });
+      }).observe(document.documentElement, { subtree: true, childList: true, attributes: true, attributeFilter: ["href"] });
+    })();
+  </script>
+  <script>
     // 13/10/2026: imagen de /media/ rota -> miniatura -card -> imagen completa -> imagen OG.
     // Nunca se oculta (decisión de Daniel).
     window.addEventListener("error", function (e) {

@@ -32,6 +32,7 @@ import { ReadingProgress, DriveInImage } from "@/components/motion.tsx";
 import { postHeroImage } from "@/lib/blog-image.ts";
 import FichaDestacada from "@/components/FichaDestacada.tsx";
 import { creditoDe } from "@/components/CreditoFoto.tsx";
+import { conBarra } from "@/lib/barra-final";
 
 // 13/10/2026: atribución visible bajo las fotos CC BY / CC BY-SA del cuerpo del artículo.
 const escAttr = (x: string) => x.replace(/&/g, "&amp;").replace(/"/g, "&quot;").replace(/</g, "&lt;");
@@ -232,6 +233,9 @@ function MarkdownContent({ content, galeria, dims }: { content: string; galeria?
 }
 
 function formatInline(text: string): string {
+  return formatInline0(text).replace(/href="(\/[^"]*)"/g, (_m, h) => `href="${conBarra(h)}"`);
+}
+function formatInline0(text: string): string {
   return text
     .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
     .replace(/\*(.+?)\*/g, "<em>$1</em>")

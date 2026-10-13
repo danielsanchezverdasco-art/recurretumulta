@@ -4,6 +4,7 @@
 import { Link } from "react-router-dom";
 import { ArrowRight, Car, GitCompareArrows, Newspaper } from "lucide-react";
 import { getCocheSemana } from "@/lib/coche-semana.ts";
+import { COCHES_CON_ANALISIS } from "@/lib/coches-con-analisis.generated";
 
 function formatoPrecio(euros: number | null): string {
   if (euros == null) return "—";
@@ -12,6 +13,8 @@ function formatoPrecio(euros: number | null): string {
 
 export default function CocheSemana() {
   const { coche, titular, gancho, esEditorial, semana } = getCocheSemana();
+  // 13/10/2026: solo enlazar al análisis si el post existe (antes /blog/<id> daba 404).
+  const analisis = COCHES_CON_ANALISIS[coche.id];
   const datos: Array<[string, string]> = [
     ["Precio desde", formatoPrecio(coche.precioDesde)],
     ["Autonomía", coche.autonomiaKm != null ? `${coche.autonomiaKm} km` : "—"],
@@ -74,13 +77,13 @@ export default function CocheSemana() {
                 <GitCompareArrows className="h-4 w-4" />
                 Comparar
               </Link>
-              <Link
-                to={`/blog/${coche.id}`}
+              {analisis && <Link
+                to={`/blog/${analisis}`}
                 className="inline-flex items-center justify-center gap-1.5 rounded-xl border border-gray-200 px-3 py-2 text-sm font-semibold text-gray-700 transition hover:border-red-300 hover:text-red-600"
               >
                 <Newspaper className="h-4 w-4" />
                 Leer análisis
-              </Link>
+              </Link>}
             </div>
           </div>
         </div>
