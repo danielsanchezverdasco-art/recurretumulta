@@ -232,7 +232,7 @@ REGLA DE CONSISTENCIA: ante el mismo documento debes producir siempre los mismos
 REGLA DE COHERENCIA DATOS-DEFECTOS (obligatoria): cada defecto debe ser COHERENTE con los datos extraídos en la FASE 1. Está PROHIBIDO decir que falta un dato que SÍ extrajiste. Ejemplos: si "matricula" tiene un valor, no puedes listar "falta la matrícula" ni "vehículo no identificado"; si "fecha" tiene un valor, no digas que "falta la fecha"; si "expediente" tiene un valor, no digas que "falta el expediente". Antes de incluir cada defecto, comprueba que no contradice ningún campo extraído. Solo incluye defectos REALES que veas en el documento.`;
 
 // Subir CACHE_V cuando cambie la lógica del análisis: invalida la caché anterior.
-const CACHE_V = "v11";
+const CACHE_V = "v13";
 // ── Caché de análisis: la misma multa siempre devuelve el mismo resultado ───
 // (orden de Daniel 03/10/2026). Helpers puros; las queries/mutaciones viven en
 // convex/multasInterno.ts porque los ficheros "use node" solo admiten actions.
@@ -457,6 +457,8 @@ function aplicarNormativa(a: AnalisisRaw): AnalisisRaw {
   // Motivos calculados con la norma (prescripción, importe o velocidad fuera de tramo): son objetivos.
   const objetivos = (presc.motivo ? 1 : 0) + hechos.motivosFuertes.length;
   if (objetivos) viabilidad = Math.max(viabilidad, 75);
+  // Si el sistema ya calculó importe/puntos con el anexo IV, los puntos no "faltan".
+  if (esVelocidad && hechos.lineas[1]) for (let i = faltan.length - 1; i >= 0; i--) if (/punto/i.test(faltan[i])) faltan.splice(i, 1);
   const tipoDoc = a.tipoDocumento ?? "desconocido";
   const plazo = tipoDoc === "resolucion" ? PLAZOS[1] : tipoDoc === "denuncia" ? PLAZOS[0] : `${PLAZOS[0]} ${PLAZOS[1]}`;
   return {
@@ -641,7 +643,11 @@ export const analizarMulta = action({
     // ── 2. Extraer contenido según tipo de archivo ─────────────────────────────
     let analisis: AnalisisRaw;
 
-    if (fileMimeType === "application/pdf") {
+    // Móviles (Android "Archivos"/Drive) a veces envían el PDF sin tipo o como
+    // octet-stream/imagen: detectar PDF por la firma %PDF (base64 "JVBER").
+    const esPdf = fileMimeType === "application/pdf" || fileBase64.slice(0, 1024).replace(/\s/g, "").includes("JVBER");
+    console.log(`[multa] mime=${fileMimeType} esPdf=${esPdf} b64len=${fileBase64.length}`);
+    if (esPdf) {
       let textoExtraido = "";
       try {
         textoExtraido = await extractPdfText(fileBase64);
@@ -701,6 +707,14 @@ export const analizarMulta = action({
         limiteVia: analisis.limiteVia,
       },
     };
+
+    // Nunca devolver (ni cachear) un veredicto sin los datos básicos: el
+    // front mostraría "no hemos podido leer" junto a un 25 %.
+    const sinDato = (v?: string) => !v || VACIO.test(String(v).trim());
+    if (sinDato(analisis.expediente) && sinDato(analisis.importe) && sinDato(analisis.fecha)) {
+      console.log("[multa] datos básicos vacíos: no se devuelve veredicto");
+      throw new ConvexError({ code: "ANALISIS_VACIO", message: "No hemos podido leer el documento, prueba con una foto más nítida (o sube el PDF original)." });
+    }
 
     // ── 2c. Guardar en caché para futuras consultas idénticas ───────────────
     await ctx.runMutation(internal.multasInterno.guardarAnalisisCache, {

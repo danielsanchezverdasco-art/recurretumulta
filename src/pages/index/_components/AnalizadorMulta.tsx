@@ -38,7 +38,7 @@ async function fileToBase64(file: File): Promise<string> {
 
 // Valida el tipo MIME del archivo
 function normalizeMimeType(file: File): string {
-  const mime = file.type || "application/octet-stream";
+  const mime = file.type || (/\.pdf$/i.test(file.name) ? "application/pdf" : "application/octet-stream");
   // Normalizar tipos de imagen comunes
   if (mime.startsWith("image/")) return mime;
   if (mime === "application/pdf") return "application/pdf";
@@ -566,14 +566,20 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
         fileMimeType,
         fingerprint: getAnonymousFingerprint(),
       }));
-      setResult(res as AnalysisResult);
+      const r = res as AnalysisResult;
+      const vacio = (v: string) => !v || /no (encontrado|especificad[oa]|disponible)/i.test(String(v).trim());
+      if (vacio(r?.datosMulta?.expediente) && vacio(r?.datosMulta?.importe) && vacio(r?.datosMulta?.fecha)) {
+        // Nunca mostrar aviso de ilegible + veredicto a la vez: solo el aviso.
+        throw new Error(`${t("result.unreadableTitle")} ${t("result.unreadableBody")}`);
+      }
+      setResult(r);
       setStep("result");
       toast.success(t("toast.done"));
     } catch (err) {
       if (err instanceof AnalisisTimeoutError) {
         toast.error("Está tardando más de lo normal (puede ser tu conexión). Pulsa de nuevo para reintentar.");
       } else {
-        toast.error(err instanceof Error ? err.message : t("toast.errorMulta"));
+        toast.error((err as { data?: { message?: string } })?.data?.message ?? (err instanceof Error ? err.message.replace(/^[\s\S]*?(Uncaught ConvexError: )?/, "") : t("toast.errorMulta")));
       }
       setStep("upload");
     }
@@ -732,7 +738,7 @@ function AnalizadorInner({ packToken }: { packToken?: string }) {
         {datosDialog}
         <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} className="space-y-4">
 
-        {docIlegible && (
+        {false && docIlegible && (
           <div className="rounded-2xl border-2 border-amber-300 bg-amber-50 p-4 flex items-start gap-3">
             <AlertTriangle className="w-5 h-5 text-amber-600 shrink-0 mt-0.5" />
             <div>
