@@ -38,6 +38,12 @@ export class ErrorBoundary extends Component<ErrorBoundaryProps, ErrorBoundarySt
 
   render() {
     if (this.state.hasError) {
+      const prerender = (window as unknown as { __HTML_PRERENDER__?: string })
+        .__HTML_PRERENDER__;
+      if (prerender) {
+        // Conserva el contenido prerenderizado (h1, texto) para usuarios y buscadores.
+        return <div style={{ display: "contents" }} dangerouslySetInnerHTML={{ __html: prerender }} />;
+      }
       return (
         <div className="min-h-screen flex items-center justify-center bg-background p-6">
           <ErrorState className="max-w-md border-none">
