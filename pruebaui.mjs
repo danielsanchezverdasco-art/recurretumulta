@@ -7,7 +7,7 @@ await pg.locator('[data-testid=pruebas-input]').setInputFiles('/workspace/analiz
 await pg.waitForTimeout(800);
 const listed=await pg.evaluate(()=>document.body.innerText.includes('ticket.jpg'));
 await pg.getByRole('button',{name:/Analizar multa con IA gratis/}).click();
-await pg.waitForFunction(()=>/Resultado del análisis IA|No hemos podido leer|tardando más/i.test(document.body.innerText),null,{timeout:240000}).catch(()=>{});
-const txt=await pg.evaluate(()=>document.body.innerText);
+await pg.waitForFunction(()=>/RESULTADO DEL ANÁLISIS IA|Resultado del análisis IA|No hemos podido leer el documento|Las pruebas ocupan/.test(document.body.innerText),null,{timeout:240000}).catch(()=>{});
+await pg.waitForTimeout(1500);const txt=await pg.evaluate(()=>document.body.innerText);
 console.log(dev,'pruebaListada',listed,'resultado',/Resultado del análisis IA/.test(txt),'anexo',txt.includes('ANEXO: PRUEBAS APORTADAS'),'ticketTranscrito',txt.includes('004512'),'aviso',/No hemos podido leer/.test(txt));
 await b.close();

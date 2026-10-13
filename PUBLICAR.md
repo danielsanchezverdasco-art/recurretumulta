@@ -11,3 +11,10 @@ La web YA SE PUEDE publicar desde este repo. El aviso antiguo del README («ahor
 7. Vuelta atrás: en Netlify publica de nuevo el deploy anterior.
 
 NUNCA subas la carpeta `dist` arrastrándola a Netlify: borraría todo lo que no esté en ella (las fotos). NUNCA metas claves en el repo.
+
+## Añadir contenido sin build completo (recomendado)
+1. `NETLIFY_AUTH_TOKEN=... python3 scripts/bajar-web.py`: deja en `dist/` una copia exacta de lo publicado e imprime el id del deploy en vivo, que es tu vuelta atrás.
+2. Prerender SOLO de las rutas nuevas con `PRERENDER_ONLY` sobre ese `dist`. No hagas `npm run build` salvo que cambie código de `src/`.
+3. Comprueba que el número de ficheros de `dist` es el de antes más los nuevos, ni uno menos.
+4. Borrador con `deploy_api.py`, revisión y publicar. Si algo falla, vuelve a publicar el deploy del paso 1.
+Antes de publicar, consulta siempre en la API de Netlify cuál es el deploy en vivo; no te fíes de ids antiguos.
