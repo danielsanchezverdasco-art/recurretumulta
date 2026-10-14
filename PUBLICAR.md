@@ -25,6 +25,7 @@ Antes de publicar, consulta siempre en la API de Netlify cuál es el deploy en v
 2. `python3 scripts/patch-dist-monos.py dist /tmp/vbN` (cambia los assets y las referencias en el HTML).
 3. Copiar las fotos nuevas a dist/media.
 4. `PRERENDER_ONLY_FILE=rutas.txt node scripts/prerender.mjs`. main.tsx no hace el swap offscreen con navigator.webdriver; antes, el prerender duplicaba los H1. Comprueba que el título no quede en "Recurrir multa gratis con IA".
+4b. `python3 scripts/gen-hero-variantes.py dist` (variantes -480w/-828w de las fotos de portada + srcset; idempotente).
 5. `python3 scripts/gen-hubs.py dist && python3 scripts/seo-dist.py dist && python3 scripts/gen-marcas.py dist && node scripts/apply-seo.mjs dist`. gen-marcas genera las páginas de marca, los 301 de marcas, el noindex de fichas-pobres y el BreadcrumbList de los hubs. Si cambia src/lib/hub-marcas.generated.json o noindex.generated.json, vuelve a hacer el build de vite y el parche.
    patch-dist-monos.py ahora cambia TODAS las entradas index-*.js antiguas de cualquier HTML (antes solo la de la portada y ~8.600 páginas seguían con un bundle viejo).
 6. Verificar: 1 H1 por página, ningún "Algo salió mal", `python3 scripts/scan_titulos.py` con 0 exactos y `python3 scripts/sitecheck.py <url-draft>` (200 + canonical + barra en todo el sitemap).

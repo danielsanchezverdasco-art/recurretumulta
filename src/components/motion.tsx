@@ -1179,6 +1179,7 @@ export function HeroScanDoc({ className = "" }: { className?: string }) {
 /* ── DRIVE-IN: la imagen entra desde la derecha como un coche y se queda fija
    (03/10/2026, orden Daniel: "el coche entrando de portada y se queda luego
    la imagen fija"). Solo transform. Respeta prefers-reduced-motion. ── */
+export const HERO_SIZES = "(max-width: 928px) calc(100vw - 32px), 896px";
 export function DriveInImage({ src, alt, className = "", imgClassName = "", eager = false, width, height }: {
   src: string; alt: string; className?: string; imgClassName?: string; eager?: boolean; width?: number; height?: number;
 }) {
@@ -1195,6 +1196,10 @@ export function DriveInImage({ src, alt, className = "", imgClassName = "", eage
       `}</style>
       <img
         src={src}
+        // 13/10/2026 (LCP móvil): variantes -480w/-828w generadas por scripts/gen-hero-variantes.py
+        // para todas las fotos de portada de fichas y blog (/media/*.webp).
+        srcSet={eager && /^\/media\/.+\.webp$/.test(src) ? `${src.replace(/\.webp$/, "-480w.webp")} 480w, ${src.replace(/\.webp$/, "-828w.webp")} 828w, ${src} ${width && width > 828 ? width : 1200}w` : undefined}
+        sizes={eager && /^\/media\/.+\.webp$/.test(src) ? HERO_SIZES : undefined}
         alt={alt}
         loading={eager ? "eager" : "lazy"}
         fetchPriority={eager ? "high" : undefined}
