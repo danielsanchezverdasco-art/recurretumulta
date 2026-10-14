@@ -12,7 +12,6 @@ export default function AvisoLegalPage() {
     title: "Aviso Legal",
     description: "Aviso legal de RecurreTuMulta.online: datos identificativos del titular del sitio, condiciones de uso del contenido y régimen de responsabilidad.",
     canonical: "/aviso-legal",
-    noindex: true,
     keywords: ["aviso legal RecurreTuMulta", "datos identificativos titular web"],
     schema: {
       "@context": "https://schema.org",

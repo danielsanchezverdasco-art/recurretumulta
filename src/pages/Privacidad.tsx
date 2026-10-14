@@ -11,7 +11,6 @@ export default function PrivacidadPage() {
     title: "Política de Privacidad",
     description: "Política de privacidad de RecurreTuMulta.online. Cómo recogemos, usamos y protegemos tus datos personales conforme al RGPD y la LOPDGDD española.",
     canonical: "/privacidad",
-    noindex: true,
     keywords: ["política privacidad RecurreTuMulta", "protección datos RGPD", "privacidad multas DGT"],
     schema: {
       "@context": "https://schema.org",

@@ -39,6 +39,7 @@ function injectAdSenseScript() {
 }
 function cargarAdSense() {
   if (scriptInjected) return;
+  if (location.pathname.startsWith("/juego-monos")) return;
   scriptInjected = true;
   // 14/10/2026: la etiqueta ya va en el <head> (index.html) para la revisión de AdSense.
   if (document.querySelector('script[src*="adsbygoogle.js"]')) return;

@@ -11,7 +11,6 @@ export default function CookiesPage() {
     title: "Política de Cookies",
     description: "Política de cookies de RecurreTuMulta.online. Qué cookies usamos, para qué y cómo puedes gestionarlas.",
     canonical: "/cookies",
-    noindex: true,
     keywords: ["política cookies RecurreTuMulta", "cookies web multas DGT"],
   });
 

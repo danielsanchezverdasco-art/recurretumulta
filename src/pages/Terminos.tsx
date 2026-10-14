@@ -11,7 +11,6 @@ export default function TerminosPage() {
     title: "Términos y Condiciones",
     description: "Términos y condiciones de uso de RecurreTuMulta.online. Servicio de análisis de multas de tráfico DGT con inteligencia artificial.",
     canonical: "/terminos",
-    noindex: true,
     keywords: ["términos condiciones RecurreTuMulta", "condiciones uso servicio multas DGT"],
     schema: {
       "@context": "https://schema.org",
