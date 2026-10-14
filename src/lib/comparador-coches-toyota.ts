@@ -134,13 +134,13 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     largoMm: 4362,
     anchoMm: 1832,
     altoMm: 1564,
-    pesoKg: null,
-    consumo: null,
-    consumoUnidad: null,
+    pesoKg: 1720,
+    consumo: 0.8,
+    consumoUnidad: "l/100 km",
     plazas: 5,
     parNm: null,
     traccion: "Delantera",
-    emisionesCo2: null,
+    emisionesCo2: 19,
     aprox: [],
     imagen: "/media/toyota-c-hr-phev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
@@ -174,7 +174,9 @@ export const COCHES_TOYOTA: CocheComparador[] = [
         "ancho": 1920,
         "alto": 1280
       }
-    ]
+    ],
+    fuenteNombre: "km77",
+    fuenteUrl: "https://www.km77.com/coches/toyota/c-hr/2024/estandar/phev/c-hr-plug-in-hybrid-220-advance/datos"
   },
   {
     id: "toyota-gr-yaris-2025-precio-ficha-tecnica",
@@ -680,7 +682,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     autonomiaKm: null,
     maleteroL: 597,
     ceroCien: null,
-    velocidadMax: null,
+    velocidadMax: 184,
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
@@ -701,11 +703,11 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     largoMm: 4403,
     anchoMm: 1848,
     altoMm: 1837,
-    pesoKg: null,
+    pesoKg: 1441,
     consumo: 5.5,
     consumoUnidad: "l/100 km",
     plazas: 7,
-    parNm: null,
+    parNm: 300,
     traccion: "Delantera",
     emisionesCo2: 145,
     aprox: ["plazas"],
@@ -741,7 +743,9 @@ export const COCHES_TOYOTA: CocheComparador[] = [
         "ancho": 1920,
         "alto": 1280
       }
-    ]
+    ],
+    fuenteNombre: "km77",
+    fuenteUrl: "https://www.km77.com/coches/toyota/proace-city/2024/verso-estandar/estandar/proace-city-familiy-l1-15d-130-cv/datos"
   },
   {
     id: "toyota-proace-verso-2025-precio-ficha-tecnica",
@@ -760,8 +764,8 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     potenciaCv: 150,
     autonomiaKm: null,
     maleteroL: 550,
-    ceroCien: null,
-    velocidadMax: null,
+    ceroCien: 11.0,
+    velocidadMax: 170,
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
@@ -786,9 +790,9 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     consumo: 7,
     consumoUnidad: "l/100 km",
     plazas: 9,
-    parNm: null,
+    parNm: 370,
     traccion: "Delantera",
-    emisionesCo2: null,
+    emisionesCo2: 139,
     aprox: ["consumo"],
     imagen: "/media/toyota-proace-verso-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
@@ -822,7 +826,9 @@ export const COCHES_TOYOTA: CocheComparador[] = [
         "ancho": 1920,
         "alto": 1280
       }
-    ]
+    ],
+    fuenteNombre: "autocasion",
+    fuenteUrl: "https://www.autocasion.com/marcas/toyota/proace-verso-monovolumenes/proace-verso-combi-mdio-2-0d-9pl-150-5-puertas-75357"
   },
   {
     id: "toyota-corolla-cross-2025-precio-ficha-tecnica",
@@ -1110,7 +1116,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     consumo: null,
     consumoUnidad: null,
     plazas: 5,
-    parNm: null,
+    parNm: 269,
     traccion: "Delantera",
     emisionesCo2: 0,
     aprox: ["bateriaKwh"],
@@ -1146,7 +1152,9 @@ export const COCHES_TOYOTA: CocheComparador[] = [
         "ancho": 1920,
         "alto": 1280
       }
-    ]
+    ],
+    fuenteNombre: "km77",
+    fuenteUrl: "https://www.km77.com/coches/toyota/bz4x-touring/2026/estandar/estandar/bz4x-touring/datos"
   },
   {
     id: "toyota-rav4-phev-2026-precio-ficha-tecnica",
@@ -1166,7 +1174,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     autonomiaKm: 100,
     maleteroL: 446,
     ceroCien: 6.5,
-    velocidadMax: null,
+    velocidadMax: 180,
     bateriaKwh: 22.7,
     cargaRapidaKw: 50,
     etiquetaDgt: "Cero",
@@ -1227,7 +1235,9 @@ export const COCHES_TOYOTA: CocheComparador[] = [
         "ancho": 1920,
         "alto": 1280
       }
-    ]
+    ],
+    fuenteNombre: "km77",
+    fuenteUrl: "https://www.km77.com/coches/toyota/rav4/2026/estandar/phev/rav4-2026-phev-awd-i-advance/datos"
   },
   {
     id: "toyota-corolla-berlina-2025-precio-ficha-tecnica",
@@ -1328,7 +1338,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     autonomiaKm: null,
     maleteroL: null,
     ceroCien: null,
-    velocidadMax: null,
+    velocidadMax: 153,
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
@@ -1347,9 +1357,9 @@ export const COCHES_TOYOTA: CocheComparador[] = [
       "Interior 100 % funcional, sin concesiones al confort",
     ],
     largoMm: 5413,
-    anchoMm: null,
-    altoMm: null,
-    pesoKg: null,
+    anchoMm: 2050,
+    altoMm: 2524,
+    pesoKg: 2100,
     consumo: 7.3,
     consumoUnidad: "l/100 km",
     plazas: 3,
@@ -1389,7 +1399,9 @@ export const COCHES_TOYOTA: CocheComparador[] = [
         "ancho": 1920,
         "alto": 1280
       }
-    ]
+    ],
+    fuenteNombre: "coches.net",
+    fuenteUrl: "https://www.coches.net/fichas_tecnicas/toyota/proace/industriales/4-puertas/van_l2h2_22d_103kw_140cv_6mt_gx_140cv_diesel/112711/843839920240704/"
   },
   {
     id: "toyota-yaris-130h-2025-precio-ficha-tecnica",
@@ -1576,7 +1588,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     maleteroL: null,
     ceroCien: 6.8,
     velocidadMax: 177,
-    bateriaKwh: null,
+    bateriaKwh: 13.6,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
@@ -1814,8 +1826,8 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     potenciaCv: 204,
     autonomiaKm: null,
     maleteroL: null,
-    ceroCien: null,
-    velocidadMax: null,
+    ceroCien: 10.7,
+    velocidadMax: 175,
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
@@ -1833,16 +1845,16 @@ export const COCHES_TOYOTA: CocheComparador[] = [
       "La hibridación ligera no permite circular en eléctrico",
       "Tamaño enorme para uso urbano"
     ],
-    largoMm: null,
-    anchoMm: null,
-    altoMm: null,
-    pesoKg: null,
+    largoMm: 5325,
+    anchoMm: 1855,
+    altoMm: 1815,
+    pesoKg: 2295,
     consumo: 8.5,
     consumoUnidad: "l/100 km",
     plazas: 5,
     parNm: 65,
     traccion: "Total",
-    emisionesCo2: null,
+    emisionesCo2: 265,
     aprox: [
       "consumo"
     ],
@@ -2001,16 +2013,16 @@ export const COCHES_TOYOTA: CocheComparador[] = [
       "Suspensión algo firme en el GR Sport",
       "Sin tracción total en esta versión"
     ],
-    largoMm: null,
-    anchoMm: null,
-    altoMm: null,
-    pesoKg: null,
+    largoMm: 4460,
+    anchoMm: 1825,
+    altoMm: 1620,
+    pesoKg: 1500,
     consumo: 5.2,
     consumoUnidad: "l/100 km",
     plazas: 5,
     parNm: null,
     traccion: "Delantera",
-    emisionesCo2: null,
+    emisionesCo2: 117,
     aprox: [],
     imagen: "/media/toyota-corolla-cross-200h-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
