@@ -3,6 +3,8 @@
 export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
   blog: {
     "ofensiva-china-salon-paris-2026-20-marcas": () => import("../blog-posts-salon-paris-china-2026.ts"),
+    "okai-es10-precio-ficha-tecnica": () => import("../blog-posts-tanda-20261014-p1.ts"),
+    "okai-es30-precio-ficha-tecnica": () => import("../blog-posts-tanda-20261014-p1.ts"),
     "okai-neon": () => import("../blog-posts-patinetes-exp-p9.ts"),
     "okai-neon-pro": () => import("../blog-posts-patinetes-exp-p9.ts"),
     "ola-s1-pro-2025-ficha-tecnica-precio": () => import("../blog-posts-lote9.ts"),
@@ -151,6 +153,8 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "ovaobike-mcr-s-2025-ficha-tecnica-precio": () => import("../comparador-motos-lote9.ts"),
   },
   patinete: {
+    "okai-es10": () => import("../comparador-patinetes-tanda-20261014-p1.ts"),
+    "okai-es30": () => import("../comparador-patinetes-tanda-20261014-p1.ts"),
     "okai-neon": () => import("../comparador-patinetes-exp-p9.ts"),
     "okai-neon-pro": () => import("../comparador-patinetes-exp-p9.ts"),
   },
