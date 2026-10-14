@@ -263,7 +263,6 @@
 /coches/cupra-raval-plus-2026-precio-ficha-tecnica/
 /coches/chery-tiggo-x-2027-precio-ficha-tecnica/
 /coches/volkswagen-tiguan-15-etsi-2026-precio-ficha-tecnica/
-/coches/lexus-lc-500-2024-precio-ficha-tecnica/
 /coches/chausson-640-2026/
 /coches/ferrari-sf90-xx-stradale-2025-precio-ficha-tecnica/
 /coches/denza-z-racing-2026-precio-ficha-tecnica/
@@ -329,7 +328,6 @@
 /coches/haval-h6s-2025-precio-ficha-tecnica/
 /coches/aito-m7-ev-2025-precio-ficha-tecnica/
 /coches/toyota-bz7-2026-precio-ficha-tecnica/
-/coches/changan-e06-2026-precio-ficha-tecnica/
 /coches/dacia-lodgy-2025/
 /coches/haval-cool-dog-2024-precio-ficha-tecnica/
 /coches/maserati-quattroporte-trofeo-2024-precio-ficha-tecnica/
@@ -408,7 +406,6 @@
 /coches/volkswagen-crafter-2025/
 /coches/renault-austral-mild-hybrid-160-2024-precio-ficha-tecnica/
 /coches/chevrolet-corvette-zr1x-2026-precio-ficha-tecnica/
-/coches/jac-j7-2025-precio-ficha-tecnica/
 /coches/hongqi-hq9-2023-precio-ficha-tecnica/
 /coches/cadillac-celestiq-2025-precio-ficha-tecnica/
 /coches/hyptec-a800-2026-precio-ficha-tecnica/
@@ -423,7 +420,6 @@
 /coches/volvo-em90-2024-precio-ficha-tecnica/
 /coches/soueast-dx8s-2026-precio-ficha-tecnica/
 /coches/rolls-royce-phantom-series-ii-2026-precio-ficha-tecnica/
-/coches/maextro-v800-huawei-precio-ficha-tecnica/
 /coches/livan-maple-80v-2024-precio-ficha-tecnica/
 /coches/hyundai-tucson-n-line-2026-precio-ficha-tecnica/
 /coches/gac-trumpchi-xiangwang-s7-2025-precio-ficha-tecnica/
@@ -743,7 +739,6 @@
 /coches/citroen-ami-cargo-2026-precio-ficha-tecnica/
 /coches/chery-himla-2026-precio-ficha-tecnica/
 /coches/lamborghini-urus-se-performante-2026-precio-ficha-tecnica/
-/coches/ligier-js50-ultimate-2026-precio-ficha-tecnica/
 /coches/forthing-u-tour-2025-precio-ficha-tecnica/
 /coches/jetour-t2-2024-precio-ficha-tecnica/
 /coches/byd-tang-l-2026-precio-ficha-tecnica/

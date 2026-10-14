@@ -66970,7 +66970,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "X6 M",
       "comprar X6 M"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "citroen-c4-cactus-2025-precio-opiniones",
@@ -67654,7 +67654,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "berlina",
       "híbrido"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "lexus-lm-350h-precio-opiniones",
@@ -68015,7 +68015,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "naked a 2026",
       "bmw motorrad f 900 r 2026"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "bmw-g-310-gs-2025",
@@ -68213,7 +68213,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "CFMoto 650NK opiniones",
       "motos CFMoto 2025"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "cfmoto-675sr-r-2026-precio-ficha-tecnica",
@@ -68447,7 +68447,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Energica Eva EsseEsse9+ opiniones",
       "motos Energica 2025"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "fantic-caballero-125-rally-2025-precio-ficha-tecnica",
@@ -68483,7 +68483,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Fantic Caballero 500 Rally opiniones",
       "motos Fantic 2025"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "fb-mondial-hps-125-2025-precio-ficha-tecnica",
@@ -68729,7 +68729,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Hiboy MAX V2 velocidad máxima",
       "Hiboy MAX V2 peso"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "inmotion-rs-precio-ficha-tecnica",
@@ -68767,7 +68767,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Inokim OX velocidad máxima",
       "Inokim OX peso"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "iscooter-i9-pro-precio-ficha-tecnica",
