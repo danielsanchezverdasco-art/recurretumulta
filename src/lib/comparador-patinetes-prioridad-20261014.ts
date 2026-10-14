@@ -1,10 +1,8 @@
-// Tanda 14/10/2026 P1 — 41 fichas de patinetes (lote-09 + lote-11-nuevos), integradas en src sin publicar.
-// Solo datos de los borradores verificados el 13/10/2026; dato no verificado = null.
-// Modelos >25 km/h: NO son VMP legales en España (aviso en contras/veredicto), solo circuito privado.
-// Fotos reales del modelo exacto en /media/patinetes/ (internet no oficial salvo indicación).
+// Fichas de patinetes de la tanda 14/10/2026, consolidadas en el lote de la mañana
+// (orden de Daniel: mismos ficheros que las fichas de la mañana, no separados).
 import type { PatineteComparador } from "./comparador-patinetes-data.ts";
 
-export const PATINETES_TANDA_20261014_P1: PatineteComparador[] = [
+export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
   {
     id: "apollo-air",
     videoId: null,

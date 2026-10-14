@@ -47,8 +47,7 @@ import { MOTOS_NUEVOS_M3 } from "./comparador-motos-nuevos-m3.ts";
 import { MOTOS_NUEVOS_M1 } from "./comparador-motos-nuevos-m1.ts";
 import { MOTOS_NUEVOS_M2 } from "./comparador-motos-nuevos-m2.ts";
 import { MOTOS_BASE } from "./comparador-motos-base.ts";
-import { MOTOS_TANDA_20261014_M1 } from "./comparador-motos-tanda-20261014-m1.ts";
-import { MOTOS_TANDA_20261014_M2 } from "./comparador-motos-tanda-20261014-m2.ts";
+import { MOTOS_PRIORIDAD_20261014 } from "./comparador-motos-prioridad-20261014.ts";
 
 /** Foto oficial de prensa para la galería de la ficha (nunca IA). */
 export interface FotoGaleriaMoto {
@@ -153,6 +152,5 @@ export const MOTOS_COMPARADOR: MotoComparador[] = [
   ...MOTOS_LOTE14,
   ...MOTOS_LOTE15,
   ...MOTOS_LOTE16,
-  ...MOTOS_TANDA_20261014_M1,
-  ...MOTOS_TANDA_20261014_M2,
+  ...MOTOS_PRIORIDAD_20261014,
 ];

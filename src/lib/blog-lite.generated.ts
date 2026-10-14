@@ -20277,7 +20277,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "comparativa SUV eléctricos chinos",
       "mejor SUV eléctrico chino 2026"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "ebro-s700-hibrido-2026-precio-ficha-tecnica",
@@ -66727,7 +66727,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "SUV chino 6 plazas",
       "Ti 9 ficha técnica"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "ds-f3ver-concept-paris-2026",
@@ -66819,6 +66819,2468 @@ export const BLOG_LITE: BlogLitePost[] = [
       "BYD Szeged"
     ],
     "readTime": 12
+  },
+  {
+    "slug": "alfa-romeo-giulietta-2025-precio-opiniones",
+    "title": "Alfa Romeo Giulietta precio ocasión: desde 24.900 €, 120 CV",
+    "excerpt": "Precio de ocasión del Alfa Romeo Giulietta en España, ficha, consumo y maletero. Cuánto cuesta, qué versión elegir y qué revisar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/alfa-romeo-giulietta-2025-hero.webp",
+    "heroAlt": "Alfa Romeo Giulietta — Veloce blanca",
+    "keywords": [
+      "Alfa Romeo Giulietta",
+      "Giulietta precio",
+      "Giulietta ficha técnica",
+      "Alfa Romeo Giulietta opiniones",
+      "Giulietta",
+      "comprar Giulietta"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "alfa-romeo-mito-2025-precio-opiniones",
+    "title": "Alfa Romeo MiTo precio ocasión: desde 15.900 €, 105 CV",
+    "excerpt": "Precio de ocasión del Alfa Romeo MiTo en España, ficha, consumo y maletero. Cuánto cuesta, qué versión elegir y qué revisar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/alfa-romeo-mito-2025-hero.webp",
+    "heroAlt": "Alfa Romeo MiTo — vista exterior",
+    "keywords": [
+      "Alfa Romeo MiTo",
+      "MiTo precio",
+      "MiTo ficha técnica",
+      "Alfa Romeo MiTo opiniones",
+      "MiTo",
+      "comprar MiTo"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "audi-a3-sedan-2025-precio-opiniones",
+    "title": "Audi A3 Sedan 2025 precio: desde 34.200 €, 150 CV, 425 l",
+    "excerpt": "Precio del Audi A3 Sedan 2025 en España, ficha, consumo y maletero. Cuánto cuesta, qué versión elegir y qué revisar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/audi-a3-sedan-2025-hero.webp",
+    "heroAlt": "Audi A3 Sedan — A3 2025, foto prensa Audi A3 Sedan 8Y roja (aérea)",
+    "keywords": [
+      "Audi A3 Sedan",
+      "A3 Sedan precio",
+      "A3 Sedan ficha técnica",
+      "Audi A3 Sedan opiniones",
+      "A3 Sedan",
+      "comprar A3 Sedan"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "audi-a4-avant-2025-precio-opiniones",
+    "title": "Audi A4 Avant 2025 precio: desde 42.900 €, 150 CV, 505 l",
+    "excerpt": "Precio del Audi A4 Avant 2025 en España, ficha, consumo y maletero. Cuánto cuesta, qué versión elegir y qué revisar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/audi-a4-avant-2025-hero.webp",
+    "heroAlt": "Audi A4 Avant — gris, perfil",
+    "keywords": [
+      "Audi A4 Avant",
+      "A4 Avant precio",
+      "A4 Avant ficha técnica",
+      "Audi A4 Avant opiniones",
+      "A4 Avant",
+      "comprar A4 Avant"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "audi-rs4-avant-2025-precio-opiniones",
+    "title": "Audi RS 4 Avant 2025 precio: desde 104.850 €, 450 CV",
+    "excerpt": "Precio del Audi RS 4 Avant 2025 en España, ficha, consumo y maletero. Cuánto cuesta, qué versión elegir y qué revisar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/audi-rs4-avant-2025-hero.webp",
+    "heroAlt": "Audi RS 4 Avant — Edition 25 amarillo, frontal",
+    "keywords": [
+      "Audi RS 4 Avant",
+      "RS 4 Avant precio",
+      "RS 4 Avant ficha técnica",
+      "Audi RS 4 Avant opiniones",
+      "RS 4 Avant",
+      "comprar RS 4 Avant"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "audi-s4-avant-2025-precio-opiniones",
+    "title": "Audi S4 Avant 2025 precio: desde 78.900 €, 354 CV, 505 l",
+    "excerpt": "Precio del Audi S4 Avant 2025 en España, ficha, consumo y maletero. Cuánto cuesta, qué versión elegir y qué revisar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/audi-s4-avant-2025-hero.webp",
+    "heroAlt": "Audi S4 Avant — vista exterior",
+    "keywords": [
+      "Audi S4 Avant",
+      "S4 Avant precio",
+      "S4 Avant ficha técnica",
+      "Audi S4 Avant opiniones",
+      "S4 Avant",
+      "comprar S4 Avant"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "bmw-ix-xdrive40-2025-precio-opiniones",
+    "title": "BMW iX xDrive40 2025 precio: desde 84.900 €, 326 CV",
+    "excerpt": "Precio del BMW iX xDrive40 2025 en España, ficha, consumo y maletero. Cuánto cuesta, qué versión elegir y qué revisar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/bmw-ix-xdrive40-2025-hero.webp",
+    "heroAlt": "BMW iX xDrive40 — iX 2025 blanco, foto prensa (M EV 5052 E)",
+    "keywords": [
+      "BMW iX xDrive40",
+      "iX xDrive40 precio",
+      "iX xDrive40 ficha técnica",
+      "BMW iX xDrive40 opiniones",
+      "iX xDrive40",
+      "comprar iX xDrive40"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "bmw-x6-m-2025-precio-opiniones",
+    "title": "BMW X6 M 2025 precio: desde 168.000 €, 625 CV, 580 l",
+    "excerpt": "Precio del BMW X6 M 2025 en España, ficha, consumo y maletero. Cuánto cuesta, qué versión elegir y qué revisar antes de comprar. Compara versiones.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/bmw-x6-m-2025-hero.webp",
+    "heroAlt": "BMW X6 M — vista exterior",
+    "keywords": [
+      "BMW X6 M",
+      "X6 M precio",
+      "X6 M ficha técnica",
+      "BMW X6 M opiniones",
+      "X6 M",
+      "comprar X6 M"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "citroen-c4-cactus-2025-precio-opiniones",
+    "title": "Citroën C4 Cactus precio ocasión: desde 18.900 €, 110 CV",
+    "excerpt": "Precio de ocasión del Citroën C4 Cactus en España, ficha, consumo y maletero. Cuánto cuesta, qué versión elegir y qué revisar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/citroen-c4-cactus-2025-hero.webp",
+    "heroAlt": "Citroën C4 Cactus — amarillo, trasera",
+    "keywords": [
+      "Citroën C4 Cactus",
+      "C4 Cactus precio",
+      "C4 Cactus ficha técnica",
+      "Citroën C4 Cactus opiniones",
+      "C4 Cactus",
+      "comprar C4 Cactus"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "dacia-lodgy-2025-precio-opiniones",
+    "title": "Dacia Lodgy 2025 precio: desde 14.900 €, 102 CV, 207 l",
+    "excerpt": "Precio del Dacia Lodgy 2025 en España, ficha, consumo y maletero. Cuánto cuesta, qué versión elegir y qué revisar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/dacia-lodgy-2025-hero.webp",
+    "heroAlt": "Dacia Lodgy — vista exterior",
+    "keywords": [
+      "Dacia Lodgy",
+      "Lodgy precio",
+      "Lodgy ficha técnica",
+      "Dacia Lodgy opiniones",
+      "Lodgy",
+      "comprar Lodgy"
+    ],
+    "readTime": 2
+  },
+  {
+    "slug": "daihatsu-copen-2025-precio-opiniones",
+    "title": "Daihatsu Copen 2025 precio: desde 24.900 €, 64 CV, 210 l",
+    "excerpt": "Precio del Daihatsu Copen 2025 en España, ficha, consumo y maletero. Cuánto cuesta, qué versión elegir y qué revisar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "all",
+    "heroSrc": "/media/daihatsu-copen-2025-hero.webp",
+    "heroAlt": "Daihatsu Copen — vista exterior",
+    "keywords": [
+      "Daihatsu Copen",
+      "Copen precio",
+      "Copen ficha técnica",
+      "Daihatsu Copen opiniones",
+      "Copen",
+      "comprar Copen"
+    ],
+    "readTime": 2
+  },
+  {
+    "slug": "fiat-tipo-sw-precio-ficha-tecnica",
+    "title": "Fiat Tipo SW precio en España: desde 24.000 €, 130 CV",
+    "excerpt": "¿Cuánto cuesta el Fiat Tipo SW? Desde 24.000 €, 130 CV. Versiones, consumo, opiniones y qué conviene comprar. Historia y rivales incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/fiat-tipo-sw-2025-hero.webp",
+    "heroAlt": "Fiat Tipo SW — 2025",
+    "keywords": [
+      "Fiat Tipo SW",
+      "Tipo SW precio",
+      "Tipo SW ficha técnica",
+      "Fiat Tipo SW opiniones",
+      "Tipo SW",
+      "comprar Tipo SW"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "ford-explorer-phev-precio-ficha-tecnica",
+    "title": "Ford Explorer PHEV precio en España: desde 80.000 €, 457 CV",
+    "excerpt": "¿Cuánto cuesta el Ford Explorer PHEV? Desde 80.000 €, 457 CV. Versiones, consumo, opiniones y qué conviene comprar. Historia y rivales incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/ford-explorer-phev-2023-hero.webp",
+    "heroAlt": "Ford Explorer PHEV — 2023",
+    "keywords": [
+      "Ford Explorer PHEV",
+      "Explorer PHEV precio",
+      "Explorer PHEV ficha técnica",
+      "Ford Explorer PHEV opiniones",
+      "Explorer PHEV",
+      "comprar Explorer PHEV"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "ford-f-150-lightning-precio-ficha-tecnica",
+    "title": "Ford F-150 Lightning precio: desde 47.780 $, 580 CV",
+    "excerpt": "Ford F-150 Lightning: precio desde 47.780 $, 580 CV. No se vende en España. Versiones, consumo y qué conviene comprar. Historia y rivales incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "all",
+    "heroSrc": "/media/ford-f-150-lightning-2025-hero.webp",
+    "heroAlt": "Ford F-150 Lightning — 2025",
+    "keywords": [
+      "Ford F-150 Lightning",
+      "F-150 Lightning precio",
+      "F-150 Lightning ficha técnica",
+      "Ford F-150 Lightning opiniones",
+      "F-150 Lightning",
+      "comprar F-150 Lightning"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "ford-fiesta-st-precio-ficha-tecnica",
+    "title": "Ford Fiesta ST precio en España: desde 32.450 €, 200 CV",
+    "excerpt": "¿Cuánto cuesta el Ford Fiesta ST? Desde 32.450 €, 200 CV. Versiones, consumo, opiniones y qué conviene comprar. Historia y rivales incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/ford-fiesta-st-2023-hero.webp",
+    "heroAlt": "Ford Fiesta ST — 2023",
+    "keywords": [
+      "Ford Fiesta ST",
+      "Fiesta ST precio",
+      "Fiesta ST ficha técnica",
+      "Ford Fiesta ST opiniones",
+      "Fiesta ST",
+      "comprar Fiesta ST"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "ford-maverick-precio-ficha-tecnica",
+    "title": "Ford Maverick precio: desde 27.000 $, 238 CV (2025)",
+    "excerpt": "Ford Maverick: precio desde 27.000 $, 238 CV. No se vende en España. Versiones, consumo y qué conviene comprar. Historia y rivales incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "all",
+    "heroSrc": "/media/ford-maverick-2025-hero.webp",
+    "heroAlt": "Ford Maverick — 2025",
+    "keywords": [
+      "Ford Maverick",
+      "Maverick precio",
+      "Maverick ficha técnica",
+      "Ford Maverick opiniones",
+      "Maverick",
+      "comprar Maverick"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "ford-mustang-gtd-precio-ficha-tecnica",
+    "title": "Ford Mustang GTD precio: desde 327.960 $, 815 CV (2025)",
+    "excerpt": "Ford Mustang GTD: precio desde 327.960 $, 815 CV. No se vende en España. Versiones, consumo y qué conviene comprar. Historia y rivales incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "all",
+    "heroSrc": "/media/ford-mustang-gtd-2025-hero.webp",
+    "heroAlt": "Ford Mustang GTD — 2025",
+    "keywords": [
+      "Ford Mustang GTD",
+      "Mustang GTD precio",
+      "Mustang GTD ficha técnica",
+      "Ford Mustang GTD opiniones",
+      "Mustang GTD",
+      "comprar Mustang GTD"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "ford-ranger-ms-rt-precio-ficha-tecnica",
+    "title": "Ford Ranger MS-RT precio en España: desde 65.000 €, 240 CV",
+    "excerpt": "¿Cuánto cuesta el Ford Ranger MS-RT? Desde 65.000 €, 240 CV. Versiones, consumo, opiniones y qué conviene comprar. Historia y rivales incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/ford-ranger-ms-rt-2025-hero.webp",
+    "heroAlt": "Ford Ranger MS-RT — 2025",
+    "keywords": [
+      "Ford Ranger MS-RT",
+      "Ranger MS-RT precio",
+      "Ranger MS-RT ficha técnica",
+      "Ford Ranger MS-RT opiniones",
+      "Ranger MS-RT",
+      "comprar Ranger MS-RT"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "ford-transit-nugget-plus-precio-ficha-tecnica",
+    "title": "Ford Transit Nugget Plus precio en España: desde 75.000 €",
+    "excerpt": "¿Cuánto cuesta el Ford Transit Nugget Plus? Desde 75.000 €, 170 CV. Versiones, consumo, opiniones y qué conviene comprar. Historia y rivales incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/ford-transit-nugget-plus-2025-hero.webp",
+    "heroAlt": "Ford Transit Nugget Plus — 2025",
+    "keywords": [
+      "Ford Transit Nugget Plus",
+      "Transit Nugget Plus precio",
+      "Transit Nugget Plus ficha técnica",
+      "Ford Transit Nugget Plus opiniones",
+      "Transit Nugget Plus",
+      "comprar Transit Nugget Plus"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "genesis-g70-precio-ficha-tecnica",
+    "title": "Genesis G70 precio en EE.UU.: desde 45.000 $, 245 CV",
+    "excerpt": "Genesis G70: precio desde 45.000 $, 245 CV. No se vende en España. Versiones, consumo y qué conviene comprar. Historia y rivales incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "all",
+    "heroSrc": "/media/genesis-g70-2025-hero.webp",
+    "heroAlt": "Genesis G70 — 2025",
+    "keywords": [
+      "Genesis G70",
+      "G70 precio",
+      "G70 ficha técnica",
+      "Genesis G70 opiniones",
+      "G70",
+      "comprar G70"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "genesis-g80-precio-ficha-tecnica",
+    "title": "Genesis G80 precio en EE.UU.: desde 58.000 $, 304 CV",
+    "excerpt": "Genesis G80: precio desde 58.000 $, 304 CV. No se vende en España. Versiones, consumo y qué conviene comprar. Historia y rivales incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "all",
+    "heroSrc": "/media/genesis-g80-2025-hero.webp",
+    "heroAlt": "Genesis G80 2025 — exterior",
+    "keywords": [
+      "Genesis G80 2025",
+      "G80 precio",
+      "G80 ficha técnica",
+      "Genesis",
+      "berlina",
+      "gasolina"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "genesis-gv80-precio-ficha-tecnica",
+    "title": "Genesis GV80 precio: desde 60.000 $, 304 CV (2025)",
+    "excerpt": "Genesis GV80: precio desde 60.000 $, 304 CV. No se vende en España. Versiones, consumo y qué conviene comprar. Historia y rivales incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "all",
+    "heroSrc": "/media/genesis-gv80-2025-hero.webp",
+    "heroAlt": "Genesis GV80 2025 — exterior",
+    "keywords": [
+      "Genesis GV80 2025",
+      "GV80 precio",
+      "GV80 ficha técnica",
+      "Genesis",
+      "suv",
+      "gasolina"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "honda-accord-precio-ficha-tecnica",
+    "title": "Honda Accord precio: desde 28.000 $, 204 CV (2024)",
+    "excerpt": "Honda Accord: precio desde 28.000 $, 204 CV. No se vende en España. Versiones, consumo y qué conviene comprar. Historia y rivales incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "all",
+    "heroSrc": "/media/honda-accord-2024-hero.webp",
+    "heroAlt": "Honda Accord 2024 — exterior",
+    "keywords": [
+      "Honda Accord 2024",
+      "Accord precio",
+      "Accord ficha técnica",
+      "Honda",
+      "berlina",
+      "híbrido"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "honda-e-precio-ficha-tecnica",
+    "title": "Honda e precio en España: desde 34.000 €, 154 CV (2023)",
+    "excerpt": "¿Cuánto cuesta el Honda e? Desde 34.000 €, 154 CV. Versiones, consumo, opiniones y qué conviene comprar. Historia y rivales incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/honda-e-2023-hero.webp",
+    "heroAlt": "Honda e 2023 — exterior",
+    "keywords": [
+      "Honda e 2023",
+      "e precio",
+      "e ficha técnica",
+      "Honda",
+      "urbano",
+      "eléctrico"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "honda-nsx-precio-ficha-tecnica",
+    "title": "Honda NSX Type S precio: desde 170.000 $, 608 CV (2022)",
+    "excerpt": "Honda NSX Type S: precio desde 170.000 $, 608 CV. No se vende en España. Versiones, consumo y qué conviene comprar. Historia y rivales incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "all",
+    "heroSrc": "/media/honda-nsx-2022-hero.webp",
+    "heroAlt": "Honda NSX Type S 2022 — exterior",
+    "keywords": [
+      "Honda NSX Type S 2022",
+      "NSX Type S precio",
+      "NSX Type S ficha técnica",
+      "Honda",
+      "superdeportivo",
+      "eléctrico"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "honda-s2000-precio-ficha-tecnica",
+    "title": "Honda S2000 precio ocasión: desde 30.000 €, 240 CV (2009)",
+    "excerpt": "Honda S2000: precio desde 30.000 €, 240 CV. No se vende en España. Versiones, consumo y qué conviene comprar. Historia y rivales incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "all",
+    "heroSrc": "/media/honda-s2000-2009-hero.webp",
+    "heroAlt": "Honda S2000 2009 — exterior",
+    "keywords": [
+      "Honda S2000 2009",
+      "S2000 precio",
+      "S2000 ficha técnica",
+      "Honda",
+      "roadster",
+      "gasolina"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "hyundai-elantra-n-precio-ficha-tecnica",
+    "title": "Hyundai Elantra N precio: desde 35.000 $, 280 CV (2024)",
+    "excerpt": "Hyundai Elantra N: precio desde 35.000 $, 280 CV. No se vende en España. Versiones, consumo y qué conviene comprar. Historia y rivales incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "all",
+    "heroSrc": "/media/hyundai-elantra-n-2024-hero.webp",
+    "heroAlt": "Hyundai Elantra N 2024 — exterior",
+    "keywords": [
+      "Hyundai Elantra N 2024",
+      "Elantra N precio",
+      "Elantra N ficha técnica",
+      "Hyundai",
+      "berlina deportiva",
+      "gasolina"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "hyundai-i20-n-precio-ficha-tecnica",
+    "title": "Hyundai i20 N precio en España: desde 30.000 €, 204 CV",
+    "excerpt": "¿Cuánto cuesta el Hyundai i20 N? Desde 30.000 €, 204 CV. Versiones, consumo, opiniones y qué conviene comprar. Historia y rivales incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/hyundai-i20-n-2024-hero.webp",
+    "heroAlt": "Hyundai i20 N 2024 — exterior",
+    "keywords": [
+      "Hyundai i20 N 2024",
+      "i20 N precio",
+      "i20 N ficha técnica",
+      "Hyundai",
+      "utilitario",
+      "gasolina"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "hyundai-i30-fastback-n-precio-ficha-tecnica",
+    "title": "Hyundai i30 Fastback N precio en España: desde 42.000 €",
+    "excerpt": "¿Cuánto cuesta el Hyundai i30 Fastback N? Desde 42.000 €, 280 CV. Versiones, consumo, opiniones y qué conviene comprar. Historia y rivales incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/hyundai-i30-fastback-n-2024-hero.webp",
+    "heroAlt": "Hyundai i30 Fastback N 2024 — exterior",
+    "keywords": [
+      "Hyundai i30 Fastback N 2024",
+      "i30 Fastback N precio",
+      "i30 Fastback N ficha técnica",
+      "Hyundai",
+      "berlina deportiva",
+      "gasolina"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "hyundai-kona-n-precio-ficha-tecnica",
+    "title": "Hyundai Kona N precio en España: desde 40.000 €, 280 CV",
+    "excerpt": "¿Cuánto cuesta el Hyundai Kona N? Desde 40.000 €, 280 CV. Versiones, consumo, opiniones y qué conviene comprar. Historia y rivales incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/hyundai-kona-n-2023-hero.webp",
+    "heroAlt": "Hyundai Kona N 2023 — exterior",
+    "keywords": [
+      "Hyundai Kona N 2023",
+      "Kona N precio",
+      "Kona N ficha técnica",
+      "Hyundai",
+      "suv",
+      "gasolina"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "isuzu-mu-x-precio-ficha-tecnica",
+    "title": "Isuzu MU-X precio en Australia: desde 45.000 $, 190 CV",
+    "excerpt": "Isuzu MU-X: precio desde 45.000 $, 190 CV. No se vende en España. Versiones, consumo y qué conviene comprar. Historia y rivales incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "all",
+    "heroSrc": "/media/isuzu-mu-x-2025-hero.webp",
+    "heroAlt": "Isuzu MU-X 2025 — exterior",
+    "keywords": [
+      "Isuzu MU-X 2025",
+      "MU-X precio",
+      "MU-X ficha técnica",
+      "Isuzu",
+      "todoterreno",
+      "diésel"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "jaguar-xe-precio-ficha-tecnica",
+    "title": "Jaguar XE precio en España: desde 50.000 €, 250 CV",
+    "excerpt": "¿Cuánto cuesta el Jaguar XE? Desde 50.000 €, 250 CV. Versiones, consumo, opiniones y qué conviene comprar. Historia y rivales incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/jaguar-xe-2024-hero.webp",
+    "heroAlt": "Jaguar XE 2024 — exterior",
+    "keywords": [
+      "Jaguar XE 2024",
+      "XE precio",
+      "XE ficha técnica",
+      "Jaguar",
+      "berlina",
+      "gasolina"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "jaguar-xf-precio-ficha-tecnica",
+    "title": "Jaguar XF precio en España: desde 60.000 €, 250 CV",
+    "excerpt": "¿Cuánto cuesta el Jaguar XF? Desde 60.000 €, 250 CV. Versiones, consumo, opiniones y qué conviene comprar. Historia y rivales incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/jaguar-xf-2024-hero.webp",
+    "heroAlt": "Jaguar XF 2024 — exterior",
+    "keywords": [
+      "Jaguar XF 2024",
+      "XF precio",
+      "XF ficha técnica",
+      "Jaguar",
+      "berlina",
+      "gasolina"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "jeep-compass-trailhawk-precio-ficha-tecnica",
+    "title": "Jeep Compass Trailhawk precio en España: desde 45.000 €",
+    "excerpt": "¿Cuánto cuesta el Jeep Compass Trailhawk? Desde 45.000 €, 240 CV. Versiones, consumo, opiniones y qué conviene comprar. Historia y rivales incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/jeep-compass-trailhawk-2025-hero.webp",
+    "heroAlt": "Jeep Compass Trailhawk 2025 — exterior",
+    "keywords": [
+      "Jeep Compass Trailhawk 2025",
+      "Compass Trailhawk precio",
+      "Compass Trailhawk ficha técnica",
+      "Jeep",
+      "suv compacto",
+      "híbrido enchufable"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "jeep-gladiator-precio-ficha-tecnica",
+    "title": "Jeep Gladiator precio en España: desde 75.000 €, 272 CV",
+    "excerpt": "¿Cuánto cuesta el Jeep Gladiator? Desde 75.000 €, 272 CV. Versiones, consumo, opiniones y qué conviene comprar. Historia y rivales incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/jeep-gladiator-2025-hero.webp",
+    "heroAlt": "Jeep Gladiator 2025 — exterior",
+    "keywords": [
+      "Jeep Gladiator 2025",
+      "Gladiator precio",
+      "Gladiator ficha técnica",
+      "Jeep",
+      "pick-up",
+      "gasolina"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "jeep-grand-cherokee-l-precio-ficha-tecnica",
+    "title": "Jeep Grand Cherokee L precio: desde 60.000 $, 293 CV",
+    "excerpt": "Jeep Grand Cherokee L: precio desde 60.000 $, 293 CV. No se vende en España. Versiones, consumo y qué conviene comprar. Historia y rivales incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "all",
+    "heroSrc": "/media/jeep-grand-cherokee-l-2025-hero.webp",
+    "heroAlt": "Jeep Grand Cherokee L 2025 — exterior",
+    "keywords": [
+      "Jeep Grand Cherokee L 2025",
+      "Grand Cherokee L precio",
+      "Grand Cherokee L ficha técnica",
+      "Jeep",
+      "suv",
+      "gasolina"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "jeep-wrangler-rubicon-392-precio-ficha-tecnica",
+    "title": "Jeep Wrangler Rubicon 392 precio: desde 95.000 $, 470 CV",
+    "excerpt": "Jeep Wrangler Rubicon 392: precio desde 95.000 $, 470 CV. No se vende en España. Versiones, consumo y qué conviene comprar. Historia y rivales incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "all",
+    "heroSrc": "/media/jeep-wrangler-rubicon-392-2025-hero.webp",
+    "heroAlt": "Jeep Wrangler Rubicon 392 2025 — exterior",
+    "keywords": [
+      "Jeep Wrangler Rubicon 392 2025",
+      "Wrangler Rubicon 392 precio",
+      "Wrangler Rubicon 392 ficha técnica",
+      "Jeep",
+      "todoterreno",
+      "gasolina"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "kia-carnival-precio-ficha-tecnica",
+    "title": "Kia Carnival precio: desde 35.000 $, 290 CV (2025)",
+    "excerpt": "Kia Carnival: precio desde 35.000 $, 290 CV. No se vende en España. Versiones, consumo y qué conviene comprar. Historia y rivales incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "all",
+    "heroSrc": "/media/kia-carnival-2025-hero.webp",
+    "heroAlt": "Kia Carnival 2025 — exterior",
+    "keywords": [
+      "Kia Carnival 2025",
+      "Carnival precio",
+      "Carnival ficha técnica",
+      "Kia",
+      "monovolumen",
+      "gasolina"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "kia-ceed-gt-precio-ficha-tecnica",
+    "title": "Kia Ceed GT precio en España: desde 33.000 €, 204 CV",
+    "excerpt": "¿Cuánto cuesta el Kia Ceed GT? Desde 33.000 €, 204 CV. Versiones, consumo, opiniones y qué conviene comprar. Historia y rivales incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/kia-ceed-gt-2025-hero.webp",
+    "heroAlt": "Kia Ceed GT 2025 — exterior",
+    "keywords": [
+      "Kia Ceed GT 2025",
+      "Ceed GT precio",
+      "Ceed GT ficha técnica",
+      "Kia",
+      "compacto",
+      "gasolina"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "kia-ev3-gt-precio-ficha-tecnica",
+    "title": "Kia EV3 GT precio en Reino Unido: desde 48.695 £, 292 CV",
+    "excerpt": "Kia EV3 GT 2026: precio desde 48.695 £, 292 CV. Aún no en España. Versiones, consumo, autonomía y qué conviene comprar. Historia y rivales.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "all",
+    "heroSrc": "/media/kia-ev3-gt-2026-hero.webp",
+    "heroAlt": "Kia EV3 GT 2026 — exterior",
+    "keywords": [
+      "Kia EV3 GT 2026",
+      "EV3 GT precio",
+      "EV3 GT ficha técnica",
+      "Kia",
+      "suv eléctrico deportivo",
+      "eléctrico"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "kia-soul-ev-precio-ficha-tecnica",
+    "title": "Kia Soul EV precio en España: desde 38.000 €, 204 CV",
+    "excerpt": "¿Cuánto cuesta el Kia Soul EV? Desde 38.000 €, 204 CV. Versiones, consumo, opiniones y qué conviene comprar. Historia y rivales incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/kia-soul-ev-2024-hero.webp",
+    "heroAlt": "Kia Soul EV 2024 — exterior",
+    "keywords": [
+      "Kia Soul EV 2024",
+      "Soul EV precio",
+      "Soul EV ficha técnica",
+      "Kia",
+      "suv urbano",
+      "eléctrico"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "kia-stinger-precio-ficha-tecnica",
+    "title": "Kia Stinger precio en España: desde 55.000 €, 366 CV",
+    "excerpt": "¿Cuánto cuesta el Kia Stinger? Desde 55.000 €, 366 CV. Versiones, consumo, opiniones y qué conviene comprar. Historia y rivales incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/kia-stinger-2024-hero.webp",
+    "heroAlt": "Kia Stinger 2024 — exterior",
+    "keywords": [
+      "Kia Stinger 2024",
+      "Stinger precio",
+      "Stinger ficha técnica",
+      "Kia",
+      "berlina deportiva",
+      "gasolina"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "lexus-gx-550-precio-opiniones",
+    "title": "Lexus GX 550: precio aprox. ~62.000 €, 354 CV, 7 plazas",
+    "excerpt": "Lexus GX 550 2024: 354 CV, 0-100 en 6,5 s, precio aprox. ~62.000 €. Historia y ficha técnica: consumo, EuroNCAP, mantenimiento y garantía.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "all",
+    "heroSrc": "/media/lexus-gx-550-hero.webp",
+    "heroAlt": "Lexus GX 550 2024 — vista exterior",
+    "keywords": [
+      "Lexus GX 550 2024",
+      "GX 550 precio",
+      "GX 550 ficha técnica",
+      "Lexus",
+      "todoterreno",
+      "gasolina"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "lexus-is-300h-precio-opiniones",
+    "title": "Lexus IS 300h: precio desde 39.000 €, 223 CV, 5,7 l/100 km",
+    "excerpt": "¿Cuánto cuesta el Lexus IS 300h? Precio desde 39.000 €, 223 CV y 200 km/h de máxima. Historia, ficha técnica y qué versión comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/lexus-is-300h-hero.webp",
+    "heroAlt": "Lexus IS 300h 2021 — vista exterior",
+    "keywords": [
+      "Lexus IS 300h 2021",
+      "IS 300h precio",
+      "IS 300h ficha técnica",
+      "Lexus",
+      "berlina",
+      "híbrido"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "lexus-lm-350h-precio-opiniones",
+    "title": "Lexus LM 350h: precio desde 125.000 €, 250 CV, 7,2 l/100 km",
+    "excerpt": "¿Cuánto cuesta el Lexus LM 350h? Precio desde 125.000 €, 250 CV y maletero 110–1.191 l según configuración. Historia, ficha técnica y qué versión comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/lexus-lm-350h-hero.webp",
+    "heroAlt": "Lexus LM 350h 2024 — vista exterior",
+    "keywords": [
+      "Lexus LM 350h 2024",
+      "LM 350h precio",
+      "LM 350h ficha técnica",
+      "Lexus",
+      "monovolumen",
+      "híbrido"
+    ],
+    "readTime": 2
+  },
+  {
+    "slug": "aprilia-rs-125-2026",
+    "title": "Aprilia RS 125 2026 precio en España: 5.750 €, 15 CV",
+    "excerpt": "Aprilia RS 125 2026: precio aproximado no oficial en España, 15 CV y ficha técnica. Desde 5.750 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/aprilia-rs-125-2026-hero.webp",
+    "heroAlt": "Aprilia RS 125 2026, moto Deportiva para el carnet A1",
+    "keywords": [
+      "aprilia rs 125 precio",
+      "rs 125 2026 ficha técnica",
+      "aprilia rs 125 opiniones",
+      "deportiva a1 2026",
+      "aprilia rs 125 2026"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "aprilia-rs-660-factory-2026",
+    "title": "Aprilia RS 660 Factory 2026 precio: desde 14.650 €, 105 CV",
+    "excerpt": "Aprilia RS 660 Factory 2026: precio aproximado no oficial en España, 105 CV y ficha técnica. Desde 14.650 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/aprilia-rs-660-factory-2026-hero.webp",
+    "heroAlt": "Aprilia RS 660 Factory 2026, moto Deportiva para el carnet A",
+    "keywords": [
+      "aprilia rs 660 factory precio",
+      "rs 660 factory 2026 ficha técnica",
+      "aprilia rs 660 factory opiniones",
+      "deportiva a 2026",
+      "aprilia rs 660 factory 2026"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "aprilia-rsv4-factory-2026",
+    "title": "Aprilia RSV4 Factory 2026 precio: desde 29.150 €, 220 CV",
+    "excerpt": "Aprilia RSV4 Factory 2026: precio aproximado no oficial en España, 220 CV y ficha técnica. Desde 29.150 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/aprilia-rsv4-factory-2026-hero.webp",
+    "heroAlt": "Aprilia RSV4 Factory 2026, moto Superbike para el carnet A",
+    "keywords": [
+      "aprilia rsv4 factory precio",
+      "rsv4 factory 2026 ficha técnica",
+      "aprilia rsv4 factory opiniones",
+      "superbike a 2026",
+      "aprilia rsv4 factory 2026"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "aprilia-rx-125-2026",
+    "title": "Aprilia RX 125 2026 precio en España: 4.500 €, 15 CV",
+    "excerpt": "Aprilia RX 125 2026: precio aproximado no oficial en España, 15 CV y ficha técnica. Desde 4.500 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/aprilia-rx-125-2026-hero.webp",
+    "heroAlt": "Aprilia RX 125 2026, moto Enduro 125 para el carnet A1",
+    "keywords": [
+      "aprilia rx 125 precio",
+      "rx 125 2026 ficha técnica",
+      "aprilia rx 125 opiniones",
+      "enduro 125 a1 2026",
+      "aprilia rx 125 2026"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "aprilia-sr-gt-200-2026",
+    "title": "Aprilia SR GT 200 2026 precio: desde 4.700 €, 18 CV",
+    "excerpt": "Aprilia SR GT 200 2026: precio aproximado no oficial en España, 18 CV y ficha técnica. Desde 4.700 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/aprilia-sr-gt-200-2026-hero.webp",
+    "heroAlt": "Aprilia SR GT 200 2026, moto Scooter para el carnet A2",
+    "keywords": [
+      "aprilia sr gt 200 precio",
+      "sr gt 200 2026 ficha técnica",
+      "aprilia sr gt 200 opiniones",
+      "scooter a2 2026",
+      "aprilia sr gt 200 2026"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "aprilia-sx-125-2026",
+    "title": "Aprilia SX 125 2026 precio en España: 4.600 €, 15 CV",
+    "excerpt": "Aprilia SX 125 2026: precio aproximado no oficial en España, 15 CV y ficha técnica. Desde 4.600 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/aprilia-sx-125-2026-hero.webp",
+    "heroAlt": "Aprilia SX 125 2026, moto Supermotard 125 para el carnet A1",
+    "keywords": [
+      "aprilia sx 125 precio",
+      "sx 125 2026 ficha técnica",
+      "aprilia sx 125 opiniones",
+      "supermotard 125 a1 2026",
+      "aprilia sx 125 2026"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "aprilia-tuareg-660-rally-2026",
+    "title": "Aprilia Tuareg 660 Rally 2026 precio: desde 14.050 €, 80 CV",
+    "excerpt": "Aprilia Tuareg 660 Rally 2026: precio aproximado no oficial en España, 80 CV y ficha técnica. Desde 14.050 €. Opinión, rivales y qué mirar antes de.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/aprilia-tuareg-660-rally-2026-hero.webp",
+    "heroAlt": "Aprilia Tuareg 660 Rally 2026, moto Trail para el carnet A",
+    "keywords": [
+      "aprilia tuareg 660 rally precio",
+      "tuareg 660 rally 2026 ficha técnica",
+      "aprilia tuareg 660 rally opiniones",
+      "trail a 2026",
+      "aprilia tuareg 660 rally 2026"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "aprilia-tuono-660-factory-2026",
+    "title": "Aprilia Tuono 660 Factory 2026 precio desde 13.650 €, 105 CV",
+    "excerpt": "Aprilia Tuono 660 Factory 2026: precio aproximado no oficial en España, 105 CV y ficha técnica. Desde 13.650 €. Opinión, rivales y qué mirar antes de.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/aprilia-tuono-660-factory-2026-hero.webp",
+    "heroAlt": "Aprilia Tuono 660 Factory 2026, moto Naked para el carnet A",
+    "keywords": [
+      "aprilia tuono 660 factory precio",
+      "tuono 660 factory 2026 ficha técnica",
+      "aprilia tuono 660 factory opiniones",
+      "naked a 2026",
+      "aprilia tuono 660 factory 2026"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "benda-rock-300-2026",
+    "title": "Benda Rock 300 2026 precio en España: 6.290 €, 30 CV",
+    "excerpt": "Benda Rock 300 2026: precio aproximado no oficial en España, 30 CV y ficha técnica. Desde 6.290 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/benda-rock-300-2026-hero.webp",
+    "heroAlt": "Benda Rock 300 2026, moto Cruiser para el carnet A2",
+    "keywords": [
+      "benda rock 300 precio",
+      "rock 300 2026 ficha técnica",
+      "benda rock 300 opiniones",
+      "cruiser a2 2026",
+      "benda rock 300 2026"
+    ],
+    "readTime": 2
+  },
+  {
+    "slug": "benelli-imperiale-400-2026",
+    "title": "Benelli Imperiale 400 2026 precio: desde 3.990 €, 21 CV",
+    "excerpt": "Benelli Imperiale 400 2026: precio aproximado no oficial en España, 21 CV y ficha técnica. Desde 3.990 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/benelli-imperiale-400-2026-hero.webp",
+    "heroAlt": "Benelli Imperiale 400 2026, moto Custom para el carnet A2",
+    "keywords": [
+      "benelli imperiale 400 precio",
+      "imperiale 400 2026 ficha técnica",
+      "benelli imperiale 400 opiniones",
+      "custom a2 2026",
+      "benelli imperiale 400 2026"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "benelli-leoncino-800-trail-2026",
+    "title": "Benelli Leoncino 800 Trail 2026 precio: desde 6.990 €, 76 CV",
+    "excerpt": "Benelli Leoncino 800 Trail 2026: precio aproximado no oficial en España, 76 CV y ficha técnica. Desde 6.990 €. Opinión, rivales y qué mirar antes de.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/benelli-leoncino-800-trail-2026-hero.webp",
+    "heroAlt": "Benelli Leoncino 800 Trail 2026, moto Scrambler para el carnet A",
+    "keywords": [
+      "benelli leoncino 800 trail precio",
+      "leoncino 800 trail 2026 ficha técnica",
+      "benelli leoncino 800 trail opiniones",
+      "scrambler a 2026",
+      "benelli leoncino 800 trail 2026"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "benelli-tornado-500-2025",
+    "title": "Benelli Tornado 500 2025 precio: desde 6.490 €, 48 CV",
+    "excerpt": "Benelli Tornado 500 2025: precio aproximado no oficial en España, 48 CV y ficha técnica. Desde 6.490 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/benelli-tornado-500-2025-hero.webp",
+    "heroAlt": "Benelli Tornado 500 2025, moto Deportiva para el carnet A2",
+    "keywords": [
+      "benelli tornado 500 precio",
+      "tornado 500 2025 ficha técnica",
+      "benelli tornado 500 opiniones",
+      "deportiva a2 2025",
+      "benelli tornado 500 2025"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "benelli-trk-502-2026",
+    "title": "Benelli TRK 502 2026 precio en España: 5.990 €, 48 CV",
+    "excerpt": "Benelli TRK 502 2026: precio aproximado no oficial en España, 48 CV y ficha técnica. Desde 5.990 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/benelli-trk-502-2026-hero.webp",
+    "heroAlt": "Benelli TRK 502 2026, moto Trail para el carnet A2",
+    "keywords": [
+      "benelli trk 502 precio",
+      "trk 502 2026 ficha técnica",
+      "benelli trk 502 opiniones",
+      "trail a2 2026",
+      "benelli trk 502 2026"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "benelli-trk-502x-2026",
+    "title": "Benelli TRK 502 X 2026 precio: desde 6.990 €, 48 CV",
+    "excerpt": "Benelli TRK 502 X 2026: precio aproximado no oficial en España, 48 CV y ficha técnica. Desde 6.990 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/benelli-trk-502x-2026-hero.webp",
+    "heroAlt": "Benelli TRK 502 X 2026, moto Trail para el carnet A2",
+    "keywords": [
+      "benelli trk 502 x precio",
+      "trk 502 x 2026 ficha técnica",
+      "benelli trk 502 x opiniones",
+      "trail a2 2026",
+      "benelli trk 502 x 2026"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "benelli-trk-702-2026",
+    "title": "Benelli TRK 702 2026 precio en España: 7.490 €, 70 CV",
+    "excerpt": "Benelli TRK 702 2026: precio aproximado no oficial en España, 70 CV y ficha técnica. Desde 7.490 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/benelli-trk-702-2026-hero.webp",
+    "heroAlt": "Benelli TRK 702 2026, moto Trail para el carnet A",
+    "keywords": [
+      "benelli trk 702 precio",
+      "trk 702 2026 ficha técnica",
+      "benelli trk 702 opiniones",
+      "trail a 2026",
+      "benelli trk 702 2026"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "bmw-c-400-x-2026",
+    "title": "BMW Motorrad C 400 X 2026 precio: desde 7.690 €, 34 CV",
+    "excerpt": "BMW Motorrad C 400 X 2026: precio aproximado no oficial en España, 34 CV y ficha técnica. Desde 7.690 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/bmw-c-400-x-2026-hero.webp",
+    "heroAlt": "BMW Motorrad C 400 X 2026, moto Scooter para el carnet A2",
+    "keywords": [
+      "bmw motorrad c 400 x precio",
+      "c 400 x 2026 ficha técnica",
+      "bmw motorrad c 400 x opiniones",
+      "scooter a2 2026",
+      "bmw motorrad c 400 x 2026"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "bmw-ce-02-2026",
+    "title": "BMW Motorrad CE 02 2026 precio: desde 8.425 €, 15 CV",
+    "excerpt": "BMW Motorrad CE 02 2026: precio aproximado no oficial en España, 15 CV y ficha técnica. Desde 8.425 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/bmw-ce-02-2026-hero.webp",
+    "heroAlt": "BMW Motorrad CE 02 2026, moto Eléctrica urbana para el carnet A1/A2",
+    "keywords": [
+      "bmw motorrad ce 02 precio",
+      "ce 02 2026 ficha técnica",
+      "bmw motorrad ce 02 opiniones",
+      "eléctrica urbana a1/a2 2026",
+      "bmw motorrad ce 02 2026"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "bmw-f-900-gs-adventure-2026",
+    "title": "BMW Motorrad F 900 GS Adventure precio 15.640 €, 105 CV",
+    "excerpt": "BMW Motorrad F 900 GS Adventure 2026: precio aproximado no oficial en España, 105 CV y ficha técnica. Desde 15.640 €. Opinión, rivales y qué mirar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/bmw-f-900-gs-adventure-2026-hero.webp",
+    "heroAlt": "BMW Motorrad F 900 GS Adventure 2026, moto Trail para el carnet A",
+    "keywords": [
+      "bmw motorrad f 900 gs adventure precio",
+      "f 900 gs adventure 2026 ficha técnica",
+      "bmw motorrad f 900 gs adventure opiniones",
+      "trail a 2026",
+      "bmw motorrad f 900 gs adventure 2026"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "bmw-f-900-r-2026",
+    "title": "BMW Motorrad F 900 R 2026 precio: desde 12.950 €, 105 CV",
+    "excerpt": "BMW Motorrad F 900 R 2026: precio aproximado no oficial en España, 105 CV y ficha técnica. Desde 12.950 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/bmw-f-900-r-2026-hero.webp",
+    "heroAlt": "BMW Motorrad F 900 R 2026, moto Naked para el carnet A",
+    "keywords": [
+      "bmw motorrad f 900 r precio",
+      "f 900 r 2026 ficha técnica",
+      "bmw motorrad f 900 r opiniones",
+      "naked a 2026",
+      "bmw motorrad f 900 r 2026"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "bmw-g-310-gs-2025",
+    "title": "BMW Motorrad G 310 GS 2025 precio: desde 6.640 €, 34 CV",
+    "excerpt": "BMW Motorrad G 310 GS 2025: precio aproximado no oficial en España, 34 CV y ficha técnica. Desde 6.640 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/bmw-g-310-gs-2025-hero.webp",
+    "heroAlt": "BMW Motorrad G 310 GS 2025, moto Trail para el carnet A2",
+    "keywords": [
+      "bmw motorrad g 310 gs precio",
+      "g 310 gs 2025 ficha técnica",
+      "bmw motorrad g 310 gs opiniones",
+      "trail a2 2025",
+      "bmw motorrad g 310 gs 2025"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "bmw-g-310-r-2025",
+    "title": "BMW Motorrad G 310 R 2025 precio: desde 5.810 €, 34 CV",
+    "excerpt": "BMW Motorrad G 310 R 2025: precio aproximado no oficial en España, 34 CV y ficha técnica. Desde 5.810 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/bmw-g-310-r-2025-hero.webp",
+    "heroAlt": "BMW Motorrad G 310 R 2025, moto Naked para el carnet A2",
+    "keywords": [
+      "bmw motorrad g 310 r precio",
+      "g 310 r 2025 ficha técnica",
+      "bmw motorrad g 310 r opiniones",
+      "naked a2 2025",
+      "bmw motorrad g 310 r 2025"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "bmw-m-1000-rr-2026",
+    "title": "BMW Motorrad M 1000 RR 2026 precio: desde 41.580 €, 212 CV",
+    "excerpt": "BMW Motorrad M 1000 RR 2026: precio aproximado no oficial en España, 212 CV y ficha técnica. Desde 41.580 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/bmw-m-1000-rr-2026-hero.webp",
+    "heroAlt": "BMW Motorrad M 1000 RR 2026, moto Superbike para el carnet A",
+    "keywords": [
+      "bmw motorrad m 1000 rr precio",
+      "m 1000 rr 2026 ficha técnica",
+      "bmw motorrad m 1000 rr opiniones",
+      "superbike a 2026",
+      "bmw motorrad m 1000 rr 2026"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "bmw-r-12-s-2026",
+    "title": "BMW Motorrad R 12 S 2026 precio: desde 22.495 €, 109 CV",
+    "excerpt": "BMW Motorrad R 12 S 2026: precio aproximado no oficial en España, 109 CV y ficha técnica. Desde 22.495 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/bmw-r-12-s-2026-hero.webp",
+    "heroAlt": "BMW Motorrad R 12 S 2026, moto Roadster para el carnet A",
+    "keywords": [
+      "bmw motorrad r 12 s precio",
+      "r 12 s 2026 ficha técnica",
+      "bmw motorrad r 12 s opiniones",
+      "roadster a 2026",
+      "bmw motorrad r 12 s 2026"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "bmw-r-18-classic-2025",
+    "title": "BMW Motorrad R 18 Classic 2025 precio: desde 26.250 €, 91 CV",
+    "excerpt": "BMW Motorrad R 18 Classic 2025: precio aproximado no oficial en España, 91 CV y ficha técnica. Desde 26.250 €. Opinión, rivales y qué mirar antes de.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/bmw-r-18-classic-2025-hero.webp",
+    "heroAlt": "BMW Motorrad R 18 Classic 2025, moto Cruiser para el carnet A",
+    "keywords": [
+      "bmw motorrad r 18 classic precio",
+      "r 18 classic 2025 ficha técnica",
+      "bmw motorrad r 18 classic opiniones",
+      "cruiser a 2025",
+      "bmw motorrad r 18 classic 2025"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "bmw-s-1000-xr-2026",
+    "title": "BMW Motorrad S 1000 XR 2026 precio: desde 21.780 €, 170 CV",
+    "excerpt": "BMW Motorrad S 1000 XR 2026: precio aproximado no oficial en España, 170 CV y ficha técnica. Desde 21.780 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/bmw-s-1000-xr-2026-hero.webp",
+    "heroAlt": "BMW Motorrad S 1000 XR 2026, moto Sport-turismo para el carnet A",
+    "keywords": [
+      "bmw motorrad s 1000 xr precio",
+      "s 1000 xr 2026 ficha técnica",
+      "bmw motorrad s 1000 xr opiniones",
+      "sport-turismo a 2026",
+      "bmw motorrad s 1000 xr 2026"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "can-am-origin-2026-precio-ficha-tecnica",
+    "title": "Can-Am Origin 2026 precio en España: 13.799 €, 47 CV",
+    "excerpt": "Can-Am Origin 2026: precio aproximado no oficial en España, 47 CV y ficha técnica. Desde 13.799 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/can-am-origin-2026-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "Can-Am Origin 2026",
+    "keywords": [
+      "Can-Am Origin 2026",
+      "Can-Am Origin precio",
+      "Can-Am Origin ficha técnica",
+      "Can-Am Origin opiniones",
+      "motos Can-Am 2026"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "can-am-pulse-2026-precio-ficha-tecnica",
+    "title": "Can-Am Pulse 2026 precio en España: 13.199 €, 47 CV",
+    "excerpt": "Can-Am Pulse 2026: precio aproximado no oficial en España, 47 CV y ficha técnica. Desde 13.199 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/can-am-pulse-2026-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "Can-Am Pulse 2026",
+    "keywords": [
+      "Can-Am Pulse 2026",
+      "Can-Am Pulse precio",
+      "Can-Am Pulse ficha técnica",
+      "Can-Am Pulse opiniones",
+      "motos Can-Am 2026"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "cfmoto-300nk-2026-precio-ficha-tecnica",
+    "title": "CFMoto 300NK 2026 precio en España: 4.500 €, 28 CV",
+    "excerpt": "CFMoto 300NK 2026: precio aproximado no oficial en España, 28 CV y ficha técnica. Desde 4.500 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/cfmoto-300nk-2026-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "CFMoto 300NK 2026",
+    "keywords": [
+      "CFMoto 300NK 2026",
+      "CFMoto 300NK precio",
+      "CFMoto 300NK ficha técnica",
+      "CFMoto 300NK opiniones",
+      "motos CFMoto 2026"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "cfmoto-300sr-2026-precio-ficha-tecnica",
+    "title": "CFMoto 300SR 2026 precio en España: 4.500 €, 29 CV",
+    "excerpt": "CFMoto 300SR 2026: precio aproximado no oficial en España, 29 CV y ficha técnica. Desde 4.500 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/cfmoto-300sr-2026-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "CFMoto 300SR 2026",
+    "keywords": [
+      "CFMoto 300SR 2026",
+      "CFMoto 300SR precio",
+      "CFMoto 300SR ficha técnica",
+      "CFMoto 300SR opiniones",
+      "motos CFMoto 2026"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "cfmoto-650nk-2025-precio-ficha-tecnica",
+    "title": "CFMoto 650NK 2025 precio en España: 6.495 €, 61 CV",
+    "excerpt": "CFMoto 650NK 2025: precio aproximado no oficial en España, 61 CV y ficha técnica. Desde 6.495 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/cfmoto-650nk-2025-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "CFMoto 650NK 2025",
+    "keywords": [
+      "CFMoto 650NK 2025",
+      "CFMoto 650NK precio",
+      "CFMoto 650NK ficha técnica",
+      "CFMoto 650NK opiniones",
+      "motos CFMoto 2025"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "cfmoto-675sr-r-2026-precio-ficha-tecnica",
+    "title": "CFMoto 675SR-R 2026 precio en España: 7.995 €, 95 CV",
+    "excerpt": "CFMoto 675SR-R 2026: precio aproximado no oficial en España, 95 CV y ficha técnica. Desde 7.995 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/cfmoto-675sr-r-2026-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "CFMoto 675SR-R 2026",
+    "keywords": [
+      "CFMoto 675SR-R 2026",
+      "CFMoto 675SR-R precio",
+      "CFMoto 675SR-R ficha técnica",
+      "CFMoto 675SR-R opiniones",
+      "motos CFMoto 2026"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "cfmoto-800mt-explore-2026-precio-ficha-tecnica",
+    "title": "CFMoto 800MT Explore 2026 precio: desde 10.995 €, 95 CV",
+    "excerpt": "CFMoto 800MT Explore 2026: precio aproximado no oficial en España, 95 CV y ficha técnica. Desde 10.995 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/cfmoto-800mt-explore-2026-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "CFMoto 800MT Explore 2026",
+    "keywords": [
+      "CFMoto 800MT Explore 2026",
+      "CFMoto 800MT Explore precio",
+      "CFMoto 800MT Explore ficha técnica",
+      "CFMoto 800MT Explore opiniones",
+      "motos CFMoto 2026"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "ducati-desertx-rally-2025-precio-ficha-tecnica",
+    "title": "Ducati DesertX Rally 2025 precio: desde 23.290 €, 110 CV",
+    "excerpt": "Ducati DesertX Rally 2025: precio aproximado no oficial en España, 110 CV y ficha técnica. Desde 23.290 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/ducati-desertx-rally-2025-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "Ducati DesertX Rally 2025",
+    "keywords": [
+      "Ducati DesertX Rally 2025",
+      "Ducati DesertX Rally precio",
+      "Ducati DesertX Rally ficha técnica",
+      "Ducati DesertX Rally opiniones",
+      "motos Ducati 2025"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "ducati-hypermotard-698-mono-rve-2025-precio-ficha-tecnica",
+    "title": "Ducati Hypermotard 698 Mono RVE 2025: precio 13.990 €, 77 CV",
+    "excerpt": "Ducati Hypermotard 698 Mono RVE 2025: precio aproximado no oficial en España, 77 CV y ficha técnica. Desde 13.990 €. Opinión, rivales y qué mirar antes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/ducati-hypermotard-698-mono-rve-2025-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "Ducati Hypermotard 698 Mono RVE 2025",
+    "keywords": [
+      "Ducati Hypermotard 698 Mono RVE 2025",
+      "Ducati Hypermotard 698 Mono RVE precio",
+      "Ducati Hypermotard 698 Mono RVE ficha técnica",
+      "Ducati Hypermotard 698 Mono RVE opiniones",
+      "motos Ducati 2025"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "ducati-monster-v2-2026-precio-ficha-tecnica",
+    "title": "Ducati Monster V2 2026 precio: desde 13.190 €, 111 CV",
+    "excerpt": "Ducati Monster V2 2026: precio aproximado no oficial en España, 111 CV y ficha técnica. Desde 13.190 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/ducati-monster-v2-2026-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "Ducati Monster V2 2026",
+    "keywords": [
+      "Ducati Monster V2 2026",
+      "Ducati Monster V2 precio",
+      "Ducati Monster V2 ficha técnica",
+      "Ducati Monster V2 opiniones",
+      "motos Ducati 2026"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "ducati-multistrada-v2-s-2025-precio-ficha-tecnica",
+    "title": "Ducati Multistrada V2 S 2025 precio: desde 19.390 €, 115 CV",
+    "excerpt": "Ducati Multistrada V2 S 2025: precio oficial en España, 115 CV y ficha técnica. Desde 19.390 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/ducati-multistrada-v2-s-2025-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "Ducati Multistrada V2 S 2025",
+    "keywords": [
+      "Ducati Multistrada V2 S 2025",
+      "Ducati Multistrada V2 S precio",
+      "Ducati Multistrada V2 S ficha técnica",
+      "Ducati Multistrada V2 S opiniones",
+      "motos Ducati 2025"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "ducati-panigale-v2-s-2025-precio-ficha-tecnica",
+    "title": "Ducati Panigale V2 S 2025 precio: desde 20.290 €, 120 CV",
+    "excerpt": "Ducati Panigale V2 S 2025: precio aproximado no oficial en España, 120 CV y ficha técnica. Desde 20.290 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/ducati-panigale-v2-s-2025-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "Ducati Panigale V2 S 2025",
+    "keywords": [
+      "Ducati Panigale V2 S 2025",
+      "Ducati Panigale V2 S precio",
+      "Ducati Panigale V2 S ficha técnica",
+      "Ducati Panigale V2 S opiniones",
+      "motos Ducati 2025"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "ducati-panigale-v4-s-2026-precio-ficha-tecnica",
+    "title": "Ducati Panigale V4 S 2026 precio: desde 38.790 €, 216 CV",
+    "excerpt": "Ducati Panigale V4 S 2026: precio oficial en España, 216 CV y ficha técnica. Desde 38.790 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/ducati-panigale-v4-s-2026-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "Ducati Panigale V4 S 2026",
+    "keywords": [
+      "Ducati Panigale V4 S 2026",
+      "Ducati Panigale V4 S precio",
+      "Ducati Panigale V4 S ficha técnica",
+      "Ducati Panigale V4 S opiniones",
+      "motos Ducati 2026"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "ducati-scrambler-800-full-throttle-2026-precio-ficha-tecnica",
+    "title": "Ducati Scrambler 800 Full Throttle precio 13.290 €, 73 CV",
+    "excerpt": "Ducati Scrambler 800 Full Throttle 2026: precio aproximado no oficial en España, 73 CV y ficha técnica. Desde 13.290 €. Opinión, rivales y qué mirar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/ducati-scrambler-800-full-throttle-2026-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "Ducati Scrambler 800 Full Throttle 2026",
+    "keywords": [
+      "Ducati Scrambler 800 Full Throttle 2026",
+      "Ducati Scrambler 800 Full Throttle precio",
+      "Ducati Scrambler 800 Full Throttle ficha técnica",
+      "Ducati Scrambler 800 Full Throttle opiniones",
+      "motos Ducati 2026"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "ducati-scrambler-icon-2026-precio-ficha-tecnica",
+    "title": "Ducati Scrambler Icon 2026 precio: desde 11.690 €, 73 CV",
+    "excerpt": "Ducati Scrambler Icon 2026: precio aproximado no oficial en España, 73 CV y ficha técnica. Desde 11.690 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/ducati-scrambler-icon-2026-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "Ducati Scrambler Icon 2026",
+    "keywords": [
+      "Ducati Scrambler Icon 2026",
+      "Ducati Scrambler Icon precio",
+      "Ducati Scrambler Icon ficha técnica",
+      "Ducati Scrambler Icon opiniones",
+      "motos Ducati 2026"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "ducati-streetfighter-v4-s-2026-precio-ficha-tecnica",
+    "title": "Ducati Streetfighter V4 S 2026 precio desde 32.490 €, 214 CV",
+    "excerpt": "Ducati Streetfighter V4 S 2026: precio oficial en España, 214 CV y ficha técnica. Desde 32.490 €. Opinión, rivales y qué mirar antes de comprar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/ducati-streetfighter-v4-s-2026-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "Ducati Streetfighter V4 S 2026",
+    "keywords": [
+      "Ducati Streetfighter V4 S 2026",
+      "Ducati Streetfighter V4 S precio",
+      "Ducati Streetfighter V4 S ficha técnica",
+      "Ducati Streetfighter V4 S opiniones",
+      "motos Ducati 2026"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "energica-ego-plus-2025-precio-ficha-tecnica",
+    "title": "Energica Ego+ 2025 precio: 29.140 £, 171 CV — ver ficha",
+    "excerpt": "Energica Ego+ 2025: precio aproximado 29.140 £ (Reino Unido), 171 CV y 215 Nm. Deportiva eléctrica con 21,5 kWh. Ficha y FAQ incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/energica-ego-plus-2025-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "Energica Ego+ 2025",
+    "keywords": [
+      "Energica Ego+ 2025",
+      "Energica Ego+ precio",
+      "Energica Ego+ ficha técnica",
+      "Energica Ego+ opiniones",
+      "motos Energica 2025"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "energica-eva-esseesse9-plus-2025-precio-ficha-tecnica",
+    "title": "Energica Eva EsseEsse9+ 2025 precio: 24.590 £, 109 CV",
+    "excerpt": "Energica Eva EsseEsse9+ 2025: precio aproximado 24.590 £ (Reino Unido), 109 CV y 80 kW. Naked eléctrica italiana. Ficha y FAQ incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/energica-eva-esseesse9-plus-2025-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "Energica Eva EsseEsse9+ 2025",
+    "keywords": [
+      "Energica Eva EsseEsse9+ 2025",
+      "Energica Eva EsseEsse9+ precio",
+      "Energica Eva EsseEsse9+ ficha técnica",
+      "Energica Eva EsseEsse9+ opiniones",
+      "motos Energica 2025"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "fantic-caballero-125-rally-2025-precio-ficha-tecnica",
+    "title": "Fantic Caballero 125 Rally 2025 precio: desde 5.990 €",
+    "excerpt": "Fantic Caballero 125 Rally 2025 precio desde 5.990 €: 15 CV, ruedas 21/19 y ABS desconectable. Ficha, mantenimiento y rivales. Ver ficha y blog.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/fantic-caballero-125-rally-2025-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "Fantic Caballero 125 Rally 2025",
+    "keywords": [
+      "Fantic Caballero 125 Rally 2025",
+      "Fantic Caballero 125 Rally precio",
+      "Fantic Caballero 125 Rally ficha técnica",
+      "Fantic Caballero 125 Rally opiniones",
+      "motos Fantic 2025"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "fantic-caballero-500-rally-2025-precio-ficha-tecnica",
+    "title": "Fantic Caballero 500 Rally 2025 precio: desde 7.590 €",
+    "excerpt": "Fantic Caballero 500 Rally 2025 precio desde 7.590 €: 44 CV, motor 463 cc y suspensiones de 200 mm. Ficha y rivales A2. Ver ficha y blog.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/fantic-caballero-500-rally-2025-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "Fantic Caballero 500 Rally 2025",
+    "keywords": [
+      "Fantic Caballero 500 Rally 2025",
+      "Fantic Caballero 500 Rally precio",
+      "Fantic Caballero 500 Rally ficha técnica",
+      "Fantic Caballero 500 Rally opiniones",
+      "motos Fantic 2025"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "fb-mondial-hps-125-2025-precio-ficha-tecnica",
+    "title": "FB Mondial HPS 125 2025 precio: desde 3.999 € — datos clave",
+    "excerpt": "FB Mondial HPS 125 2025 precio desde 3.999 €: 13,6 CV, TFT de 7 pulgadas y ABS. Ficha, consumo y rivales 125. Datos y FAQ incluidos.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/fb-mondial-hps-125-2025-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "FB Mondial HPS 125 2025",
+    "keywords": [
+      "FB Mondial HPS 125 2025",
+      "FB Mondial HPS 125 precio",
+      "FB Mondial HPS 125 ficha técnica",
+      "FB Mondial HPS 125 opiniones",
+      "motos FB Mondial 2025"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "apollo-air-precio-ficha-tecnica",
+    "title": "Apollo Air precio: desde 649 $, 250 W, 25 km, 16 kg",
+    "excerpt": "¿Cuánto cuesta el Apollo Air? Precio desde 649 $, motor 250 W, 25 km de autonomía y 25 km/h. Ficha, opinión, mantenimiento y dónde comprarlo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/apollo-air.webp",
+    "heroAlt": "Apollo Air patinete eléctrico",
+    "keywords": [
+      "Apollo Air precio",
+      "Apollo Air ficha técnica",
+      "Apollo Air autonomía",
+      "patinete Apollo Air opiniones",
+      "Apollo Air velocidad máxima",
+      "Apollo Air peso"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "apollo-air-pro-precio-ficha-tecnica",
+    "title": "Apollo Air Pro precio: desde 799 $, 350 W, 28 km y 17,5 kg",
+    "excerpt": "¿Cuánto cuesta el Apollo Air Pro? Precio desde 799 $, motor 350 W, 28 km de autonomía y 30 km/h. Ficha, opinión, mantenimiento y dónde comprarlo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/apollo-air-pro.webp",
+    "heroAlt": "Apollo Air Pro patinete eléctrico",
+    "keywords": [
+      "Apollo Air Pro precio",
+      "Apollo Air Pro ficha técnica",
+      "Apollo Air Pro autonomía",
+      "patinete Apollo Air Pro opiniones",
+      "Apollo Air Pro velocidad máxima",
+      "Apollo Air Pro peso"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "apollo-city-precio-ficha-tecnica",
+    "title": "Apollo City precio: desde 1.499 $, 500 W, 40 km, 25,9 kg",
+    "excerpt": "¿Cuánto cuesta el Apollo City 2022? Precio desde 1.499 $, motor 500 W, 40 km de autonomía y 43 km/h. Ficha, opinión, mantenimiento y dónde comprarlo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/apollo-city.webp",
+    "heroAlt": "Apollo City patinete eléctrico",
+    "keywords": [
+      "Apollo City precio",
+      "Apollo City ficha técnica",
+      "Apollo City autonomía",
+      "patinete Apollo City opiniones",
+      "Apollo City velocidad máxima",
+      "Apollo City peso"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "apollo-explore-precio-ficha-tecnica",
+    "title": "Apollo Explore precio: desde 1.249 $, 1.000 W y 55 km",
+    "excerpt": "¿Cuánto cuesta el Apollo Explore? Precio desde 1.249 $, motor 1.000 W, 55 km de autonomía y 50 km/h. Ficha, opinión, mantenimiento y dónde comprarlo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/apollo-explore.webp",
+    "heroAlt": "Apollo Explore patinete eléctrico",
+    "keywords": [
+      "Apollo Explore precio",
+      "Apollo Explore ficha técnica",
+      "Apollo Explore autonomía",
+      "patinete Apollo Explore opiniones",
+      "Apollo Explore velocidad máxima",
+      "Apollo Explore peso"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "apollo-ghost-precio-ficha-tecnica",
+    "title": "Apollo Ghost precio: desde 1.599 $, 1.600 W y 63 km",
+    "excerpt": "¿Cuánto cuesta el Apollo Ghost? Precio desde 1.599 $, doble motor 1.600 W, 63 km de autonomía y 55 km/h. Ficha, opinión, mantenimiento y dónde comprarlo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/apollo-ghost.webp",
+    "heroAlt": "Apollo Ghost patinete eléctrico",
+    "keywords": [
+      "Apollo Ghost precio",
+      "Apollo Ghost ficha técnica",
+      "Apollo Ghost autonomía",
+      "patinete Apollo Ghost opiniones",
+      "Apollo Ghost velocidad máxima",
+      "Apollo Ghost peso"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "dualtron-storm-precio-ficha-tecnica",
+    "title": "Dualtron Storm precio: desde 4.490 $, 6.640 W y 100 km/h",
+    "excerpt": "¿Cuánto cuesta el Dualtron Storm? Precio desde 4.490 $, motor 6.640 W, 100 km/h y 43 kg. Ficha, autonomía real, mantenimiento y dónde comprarlo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/dualtron-storm.webp",
+    "heroAlt": "Dualtron Storm patinete eléctrico",
+    "keywords": [
+      "Dualtron Storm precio",
+      "Dualtron Storm ficha técnica",
+      "Dualtron Storm autonomía",
+      "patinete Dualtron Storm opiniones",
+      "Dualtron Storm velocidad máxima",
+      "Dualtron Storm peso"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "dualtron-thunder-precio-ficha-tecnica",
+    "title": "Dualtron Thunder precio: desde 3.699 $, 5.400 W y 80 km/h",
+    "excerpt": "¿Cuánto cuesta el Dualtron Thunder? Precio desde 3.699 $, motor 5.400 W, 80 km/h y 43 kg. Ficha, autonomía real, mantenimiento y dónde comprarlo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/dualtron-thunder.webp",
+    "heroAlt": "Dualtron Thunder patinete eléctrico",
+    "keywords": [
+      "Dualtron Thunder precio",
+      "Dualtron Thunder ficha técnica",
+      "Dualtron Thunder autonomía",
+      "patinete Dualtron Thunder opiniones",
+      "Dualtron Thunder velocidad máxima",
+      "Dualtron Thunder peso"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "dualtron-ultra-2-precio-ficha-tecnica",
+    "title": "Dualtron Ultra 2 precio: desde 3.990 $, 6.640 W y 88 km/h",
+    "excerpt": "¿Cuánto cuesta el Dualtron Ultra 2? Precio desde 3.990 $, motor 6.640 W, 88 km/h y 43,5 kg. Ficha, autonomía real, mantenimiento y dónde comprarlo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/dualtron-ultra-2.webp",
+    "heroAlt": "Dualtron Ultra 2 patinete eléctrico",
+    "keywords": [
+      "Dualtron Ultra 2 precio",
+      "Dualtron Ultra 2 ficha técnica",
+      "Dualtron Ultra 2 autonomía",
+      "patinete Dualtron Ultra 2 opiniones",
+      "Dualtron Ultra 2 velocidad máxima",
+      "Dualtron Ultra 2 peso"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "dualtron-x2-precio-ficha-tecnica",
+    "title": "Dualtron X2 precio: desde 6.490 $, 8.300 W y 106 km/h",
+    "excerpt": "¿Cuánto cuesta el Dualtron X2? Precio desde 6.490 $, motor 8.300 W, 106 km/h y 65,8 kg. Ficha, autonomía, mantenimiento y dónde comprarlo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/dualtron-x2.webp",
+    "heroAlt": "Dualtron X2 patinete eléctrico",
+    "keywords": [
+      "Dualtron X2 precio",
+      "Dualtron X2 ficha técnica",
+      "Dualtron X2 autonomía",
+      "patinete Dualtron X2 opiniones",
+      "Dualtron X2 velocidad máxima",
+      "Dualtron X2 peso"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "egret-gt-precio-ficha-tecnica",
+    "title": "Egret GT precio: desde 1.899 €, 500 W, 100 km, 20 km/h",
+    "excerpt": "¿Cuánto cuesta el Egret GT? Precio desde 1.899 € (versión 20 Ah), motor 500 W, 100 km de autonomía y 20 km/h. Ficha, garantía 2 años y mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/egret-gt.webp",
+    "heroAlt": "Egret GT patinete eléctrico",
+    "keywords": [
+      "Egret GT precio",
+      "Egret GT ficha técnica",
+      "Egret GT autonomía",
+      "patinete Egret GT opiniones",
+      "Egret GT velocidad máxima",
+      "Egret GT peso"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "emove-cruiser-s-precio-ficha-tecnica",
+    "title": "Emove Cruiser S precio: desde 1.199 $, 1.600 W y 67 km",
+    "excerpt": "¿Cuánto cuesta el Emove Cruiser S? Precio desde 1.199 $, motor 1.600 W de pico, 67 km de autonomía real y 39 km/h. Ficha, opinión y mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/emove-cruiser-s.webp",
+    "heroAlt": "Emove Cruiser S patinete eléctrico",
+    "keywords": [
+      "Emove Cruiser S precio",
+      "Emove Cruiser S ficha técnica",
+      "Emove Cruiser S autonomía",
+      "patinete Emove Cruiser S opiniones",
+      "Emove Cruiser S velocidad máxima",
+      "Emove Cruiser S peso"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "hiboy-max-v2-precio-ficha-tecnica",
+    "title": "Hiboy Max V2 precio: desde 469 $, 350 W, 15 km y 16,6 kg",
+    "excerpt": "¿Cuánto cuesta el Hiboy MAX V2? Precio desde 469 $, motor 350 W, 15 km de autonomía real y 30 km/h. Ficha, opinión y mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/hiboy-max-v2.webp",
+    "heroAlt": "Hiboy MAX V2 patinete eléctrico",
+    "keywords": [
+      "Hiboy MAX V2 precio",
+      "Hiboy MAX V2 ficha técnica",
+      "Hiboy MAX V2 autonomía",
+      "patinete Hiboy MAX V2 opiniones",
+      "Hiboy MAX V2 velocidad máxima",
+      "Hiboy MAX V2 peso"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "inmotion-rs-precio-ficha-tecnica",
+    "title": "Inmotion RS precio: desde 3.899 $, 8.400 W y 160 km",
+    "excerpt": "¿Cuánto cuesta el Inmotion RS? Precio desde 3.899 $, doble motor 8.400 W de pico, 160 km de autonomía y 110 km/h. Ficha, opinión y mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/inmotion-rs.webp",
+    "heroAlt": "Inmotion RS patinete eléctrico",
+    "keywords": [
+      "Inmotion RS precio",
+      "Inmotion RS ficha técnica",
+      "Inmotion RS autonomía",
+      "patinete Inmotion RS opiniones",
+      "Inmotion RS velocidad máxima",
+      "Inmotion RS peso"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "inokim-ox-precio-ficha-tecnica",
+    "title": "Inokim OX precio: desde 1.499 $, 800 W, 34 km y 26,6 kg",
+    "excerpt": "¿Cuánto cuesta el Inokim OX? Precio desde 1.499 $, motor 800 W, 34 km de autonomía real y 45 km/h. Ficha, opinión y mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/inokim-ox.webp",
+    "heroAlt": "Inokim OX patinete eléctrico",
+    "keywords": [
+      "Inokim OX precio",
+      "Inokim OX ficha técnica",
+      "Inokim OX autonomía",
+      "patinete Inokim OX opiniones",
+      "Inokim OX velocidad máxima",
+      "Inokim OX peso"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "iscooter-i9-pro-precio-ficha-tecnica",
+    "title": "iScooter i9 Pro precio: desde 399 €, 350 W y 25 km",
+    "excerpt": "¿Cuánto cuesta el iScooter i9 Pro? Precio desde 399 €, motor 350 W, 25 km de autonomía y 30 km/h. Ficha, opinión y dónde comprarlo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/iscooter-i9-pro.webp",
+    "heroAlt": "iScooter i9 Pro patinete eléctrico",
+    "keywords": [
+      "iScooter i9 Pro precio",
+      "iScooter i9 Pro ficha técnica",
+      "iScooter i9 Pro autonomía",
+      "patinete iScooter i9 Pro opiniones",
+      "iScooter i9 Pro velocidad máxima",
+      "iScooter i9 Pro peso"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "joyor-f5s-precio-ficha-tecnica",
+    "title": "Joyor F5S precio: desde 699 $, 500 W, 27 km y 17,3 kg",
+    "excerpt": "¿Cuánto cuesta el Joyor F5S? Precio desde 699 $, motor 500 W, 27 km de autonomía real y 23 km/h. Ficha, opinión y mantenimiento. Pesa 17,3 kg.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/joyor-f5s.webp",
+    "heroAlt": "Joyor F5S patinete eléctrico",
+    "keywords": [
+      "Joyor F5S precio",
+      "Joyor F5S ficha técnica",
+      "Joyor F5S autonomía",
+      "patinete Joyor F5S opiniones",
+      "Joyor F5S velocidad máxima",
+      "Joyor F5S peso"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "joyor-s8-precio-ficha-tecnica",
+    "title": "Joyor S8 precio: desde 519 €, 600 W, 90 km y 24 kg",
+    "excerpt": "¿Cuánto cuesta el Joyor S8? Precio desde 519 €, motor 600 W, 90 km de autonomía y 25 km/h en versión EU. Ficha, opinión y dónde comprarlo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/joyor-s8.webp",
+    "heroAlt": "Joyor S8 patinete eléctrico",
+    "keywords": [
+      "Joyor S8 precio",
+      "Joyor S8 ficha técnica",
+      "Joyor S8 autonomía",
+      "patinete Joyor S8 opiniones",
+      "Joyor S8 velocidad máxima",
+      "Joyor S8 peso"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "kaabo-wolf-king-precio-ficha-tecnica",
+    "title": "Kaabo Wolf King precio: desde 2.999 $, 3.000 W y 54 km",
+    "excerpt": "¿Cuánto cuesta el Kaabo Wolf King? Precio desde 2.999 $, doble motor 3.000 W, 54 km de autonomía real y 95 km/h. Ficha, opinión y mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/kaabo-wolf-king.webp",
+    "heroAlt": "Kaabo Wolf King patinete eléctrico",
+    "keywords": [
+      "Kaabo Wolf King precio",
+      "Kaabo Wolf King ficha técnica",
+      "Kaabo Wolf King autonomía",
+      "patinete Kaabo Wolf King opiniones",
+      "Kaabo Wolf King velocidad máxima",
+      "Kaabo Wolf King peso"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "kugoo-kirin-g2-pro-precio-ficha-tecnica",
+    "title": "Kugoo Kirin G2 Pro precio: desde 770 €, 600 W y 55 km",
+    "excerpt": "¿Cuánto cuesta el Kugoo Kirin G2 Pro? Precio desde 770 €, motor 600 W, 55 km de autonomía y 45 km/h. Ficha, opinión, mantenimiento y dónde comprarlo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/kugoo-kirin-g2-pro.webp",
+    "heroAlt": "Kugoo Kirin G2 Pro patinete eléctrico",
+    "keywords": [
+      "Kugoo Kirin G2 Pro precio",
+      "Kugoo Kirin G2 Pro ficha técnica",
+      "Kugoo Kirin G2 Pro autonomía",
+      "patinete Kugoo Kirin G2 Pro opiniones",
+      "Kugoo Kirin G2 Pro velocidad máxima",
+      "Kugoo Kirin G2 Pro peso"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "kukirin-g2-precio-ficha-tecnica",
+    "title": "KuKirin G2 precio: desde 489 €, 500 W, 65 km y 25,3 kg",
+    "excerpt": "¿Cuánto cuesta el KuKirin G2? Precio desde 489 €, motor 500 W, 65 km de autonomía y 25 km/h homologado DGT. Ficha, opinión y dónde comprarlo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/kukirin-g2.webp",
+    "heroAlt": "KuKirin G2 patinete eléctrico",
+    "keywords": [
+      "KuKirin G2 precio",
+      "KuKirin G2 ficha técnica",
+      "KuKirin G2 autonomía",
+      "patinete KuKirin G2 opiniones",
+      "KuKirin G2 velocidad máxima",
+      "KuKirin G2 peso"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "kukirin-g3-precio-ficha-tecnica",
+    "title": "KuKirin G3 precio: desde 699 €, 1.200 W, 70 km y 31 kg",
+    "excerpt": "¿Cuánto cuesta el KuKirin G3? Precio desde 699 €, motor 1.200 W, 70 km de autonomía y 50 km/h. Ficha, opinión, mantenimiento y dónde comprarlo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/kukirin-g3.webp",
+    "heroAlt": "KuKirin G3 patinete eléctrico",
+    "keywords": [
+      "KuKirin G3 precio",
+      "KuKirin G3 ficha técnica",
+      "KuKirin G3 autonomía",
+      "patinete KuKirin G3 opiniones",
+      "KuKirin G3 velocidad máxima",
+      "KuKirin G3 peso"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "kukirin-g4-max-precio-ficha-tecnica",
+    "title": "KuKirin G4 Max precio: desde 2.149 €, 3.200 W, 86 km/h",
+    "excerpt": "¿Cuánto cuesta el KuKirin G4 Max? Precio desde 2.149 €, motor 3.200 W, 86 km/h y 95 km. Ficha, autonomía, mantenimiento y dónde comprarlo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/kukirin-g4-max.webp",
+    "heroAlt": "KuKirin G4 Max patinete eléctrico",
+    "keywords": [
+      "KuKirin G4 Max precio",
+      "KuKirin G4 Max ficha técnica",
+      "KuKirin G4 Max autonomía",
+      "patinete KuKirin G4 Max opiniones",
+      "KuKirin G4 Max velocidad máxima",
+      "KuKirin G4 Max peso"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "emove-roadrunner-precio-ficha-tecnica",
+    "title": "EMove RoadRunner precio: desde 1.195 $, 500 W y 80 km",
+    "excerpt": "¿Cuánto cuesta el EMove RoadRunner? Precio desde 1.195 $, motor 500 W, 80 km de autonomía y 25 km/h. Ficha, opinión y mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/emove-roadrunner.webp",
+    "heroAlt": "EMove RoadRunner patinete eléctrico",
+    "keywords": [
+      "EMove RoadRunner precio",
+      "EMove RoadRunner ficha técnica",
+      "EMove RoadRunner autonomía",
+      "patinete EMove RoadRunner opiniones",
+      "EMove RoadRunner velocidad máxima",
+      "EMove RoadRunner peso"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "emove-roadrunner-pro-precio-ficha-tecnica",
+    "title": "EMove RoadRunner Pro precio: desde 2.295 $, 2.000 W y 80 km",
+    "excerpt": "¿Cuánto cuesta el EMove RoadRunner Pro? Precio desde 2.295 $, motor 2.000 W, 80 km de autonomía y 25 km/h. Ficha, opinión y mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/emove-roadrunner-pro.webp",
+    "heroAlt": "EMove RoadRunner Pro patinete eléctrico",
+    "keywords": [
+      "EMove RoadRunner Pro precio",
+      "EMove RoadRunner Pro ficha técnica",
+      "EMove RoadRunner Pro autonomía",
+      "patinete EMove RoadRunner Pro opiniones",
+      "EMove RoadRunner Pro velocidad máxima",
+      "EMove RoadRunner Pro peso"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "emove-roadster-precio-ficha-tecnica",
+    "title": "EMove Roadster precio: desde 3.499 $, 3.000 W y 100 km",
+    "excerpt": "¿Cuánto cuesta el EMove Roadster? Precio desde 3.499 $, motor 3.000 W, 100 km de autonomía y 25 km/h. Ficha, opinión y mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/emove-roadster.webp",
+    "heroAlt": "EMove Roadster patinete eléctrico",
+    "keywords": [
+      "EMove Roadster precio",
+      "EMove Roadster ficha técnica",
+      "EMove Roadster autonomía",
+      "patinete EMove Roadster opiniones",
+      "EMove Roadster velocidad máxima",
+      "EMove Roadster peso"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "fluid-horizon-precio-ficha-tecnica",
+    "title": "Fluid Horizon precio: desde 1.299 $, 500 W y 40 km",
+    "excerpt": "Precio del Fluid Horizon: desde 1.299 $. Motor 500 W, 40 km de autonomía, 19 kg y 25 km/h. Ficha, opinión y mantenimiento. Dónde comprarlo y qué revisar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/fluid-horizon.webp",
+    "heroAlt": "Fluid Horizon patinete eléctrico",
+    "keywords": [
+      "Fluid Horizon precio",
+      "Fluid Horizon ficha técnica",
+      "Fluid Horizon autonomía",
+      "patinete Fluid Horizon opiniones",
+      "Fluid Horizon velocidad máxima",
+      "Fluid Horizon peso"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "fluid-mosquito-precio-ficha-tecnica",
+    "title": "Fluid Mosquito precio: desde 999 $, 500 W, 30 km y 13 kg",
+    "excerpt": "¿Cuánto cuesta el Fluid Mosquito? Precio desde 999 $, motor 500 W, 30 km de autonomía y 25 km/h. Ficha, opinión y mantenimiento. Opinión y dónde comprarlo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/fluid-mosquito.webp",
+    "heroAlt": "Fluid Mosquito patinete eléctrico",
+    "keywords": [
+      "Fluid Mosquito precio",
+      "Fluid Mosquito ficha técnica",
+      "Fluid Mosquito autonomía",
+      "patinete Fluid Mosquito opiniones",
+      "Fluid Mosquito velocidad máxima",
+      "Fluid Mosquito peso"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "glion-balto-precio-ficha-tecnica",
+    "title": "Glion Balto precio: desde 1.299 $, 500 W, 40 km y 20 kg",
+    "excerpt": "¿Cuánto cuesta el Glion Balto? Precio desde 1.299 $, motor 500 W, 40 km de autonomía y 25 km/h. Ficha, opinión y mantenimiento. Opinión y dónde comprarlo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/glion-balto.webp",
+    "heroAlt": "Glion Balto patinete eléctrico",
+    "keywords": [
+      "Glion Balto precio",
+      "Glion Balto ficha técnica",
+      "Glion Balto autonomía",
+      "patinete Glion Balto opiniones",
+      "Glion Balto velocidad máxima",
+      "Glion Balto peso"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "glion-dolly-precio-ficha-tecnica",
+    "title": "Glion Dolly precio: desde 899 $, 250 W, 24 km y 12,5 kg",
+    "excerpt": "¿Cuánto cuesta el Glion Dolly? Precio desde 899 $, motor 250 W, 24 km de autonomía y 25 km/h. Ficha, opinión y mantenimiento. Opinión y dónde comprarlo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/glion-dolly.webp",
+    "heroAlt": "Glion Dolly patinete eléctrico",
+    "keywords": [
+      "Glion Dolly precio",
+      "Glion Dolly ficha técnica",
+      "Glion Dolly autonomía",
+      "patinete Glion Dolly opiniones",
+      "Glion Dolly velocidad máxima",
+      "Glion Dolly peso"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "gotrax-g2-precio-ficha-tecnica",
+    "title": "GoTrax G2 precio: desde 449 $, 450 W, 35 km y 15 kg",
+    "excerpt": "¿Cuánto cuesta el GoTrax G2? Precio desde 449 $, motor 450 W, 35 km de autonomía y 25 km/h. Ficha, opinión y mantenimiento. Dónde comprarlo y qué revisar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/gotrax-g2.webp",
+    "heroAlt": "GoTrax G2 patinete eléctrico",
+    "keywords": [
+      "GoTrax G2 precio",
+      "GoTrax G2 ficha técnica",
+      "GoTrax G2 autonomía",
+      "patinete GoTrax G2 opiniones",
+      "GoTrax G2 velocidad máxima",
+      "GoTrax G2 peso"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "inmotion-s1-precio-ficha-tecnica",
+    "title": "Inmotion S1 precio: desde 999 $, 500 W, 95 km y 19 kg",
+    "excerpt": "¿Cuánto cuesta el Inmotion S1? Precio desde 999 $, motor 500 W, 95 km de autonomía y 25 km/h. Ficha, opinión y mantenimiento. Opinión y dónde comprarlo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/inmotion-s1.webp",
+    "heroAlt": "Inmotion S1 patinete eléctrico",
+    "keywords": [
+      "Inmotion S1 precio",
+      "Inmotion S1 ficha técnica",
+      "Inmotion S1 autonomía",
+      "patinete Inmotion S1 opiniones",
+      "Inmotion S1 velocidad máxima",
+      "Inmotion S1 peso"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "levy-plus-precio-ficha-tecnica",
+    "title": "Levy Plus precio: desde 599 $, 350 W, 30 km y 13 kg",
+    "excerpt": "¿Cuánto cuesta el Levy Plus? Precio desde 599 $, motor 350 W, 30 km de autonomía y 25 km/h. Ficha, opinión y mantenimiento. Dónde comprarlo y qué revisar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/levy-plus.webp",
+    "heroAlt": "Levy Plus patinete eléctrico",
+    "keywords": [
+      "Levy Plus precio",
+      "Levy Plus ficha técnica",
+      "Levy Plus autonomía",
+      "patinete Levy Plus opiniones",
+      "Levy Plus velocidad máxima",
+      "Levy Plus peso"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "levy-pro-precio-ficha-tecnica",
+    "title": "Levy Pro precio: desde 799 $, 500 W, 40 km y 16 kg",
+    "excerpt": "¿Cuánto cuesta el Levy Pro? Precio desde 799 $, motor 500 W, 40 km de autonomía y 25 km/h. Ficha, opinión y mantenimiento. Dónde comprarlo y qué revisar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/levy-pro.webp",
+    "heroAlt": "Levy Pro patinete eléctrico",
+    "keywords": [
+      "Levy Pro precio",
+      "Levy Pro ficha técnica",
+      "Levy Pro autonomía",
+      "patinete Levy Pro opiniones",
+      "Levy Pro velocidad máxima",
+      "Levy Pro peso"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "okai-es10-precio-ficha-tecnica",
+    "title": "Okai ES10 precio: desde 499 $, 350 W, 30 km y 15 kg",
+    "excerpt": "¿Cuánto cuesta el Okai ES10? Precio desde 499 $, motor 350 W, 30 km de autonomía y 25 km/h. Ficha, opinión y mantenimiento. Dónde comprarlo y qué revisar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/okai-es10.webp",
+    "heroAlt": "Okai ES10 patinete eléctrico",
+    "keywords": [
+      "Okai ES10 precio",
+      "Okai ES10 ficha técnica",
+      "Okai ES10 autonomía",
+      "patinete Okai ES10 opiniones",
+      "Okai ES10 velocidad máxima",
+      "Okai ES10 peso"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "okai-es30-precio-ficha-tecnica",
+    "title": "Okai ES30 precio: desde 699 $, 500 W, 40 km y 17 kg",
+    "excerpt": "¿Cuánto cuesta el Okai ES30? Precio desde 699 $, motor 500 W, 40 km de autonomía y 25 km/h. Ficha, opinión y mantenimiento. Dónde comprarlo y qué revisar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/okai-es30.webp",
+    "heroAlt": "Okai ES30 patinete eléctrico",
+    "keywords": [
+      "Okai ES30 precio",
+      "Okai ES30 ficha técnica",
+      "Okai ES30 autonomía",
+      "patinete Okai ES30 opiniones",
+      "Okai ES30 velocidad máxima",
+      "Okai ES30 peso"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "razor-e100-precio-ficha-tecnica",
+    "title": "Razor E100 precio: desde 129 $, 100 W, 16 km y 13 kg",
+    "excerpt": "¿Cuánto cuesta el Razor E100? Precio desde 129 $, motor 100 W, 16 km de autonomía y 25 km/h. Ficha, opinión y mantenimiento. Dónde comprarlo y qué revisar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/razor-e100.webp",
+    "heroAlt": "Razor E100 patinete eléctrico",
+    "keywords": [
+      "Razor E100 precio",
+      "Razor E100 ficha técnica",
+      "Razor E100 autonomía",
+      "patinete Razor E100 opiniones",
+      "Razor E100 velocidad máxima",
+      "Razor E100 peso"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "razor-e200-precio-ficha-tecnica",
+    "title": "Razor E200 precio: desde 199 $, 200 W, 19 km y 19 kg",
+    "excerpt": "¿Cuánto cuesta el Razor E200? Precio desde 199 $, motor 200 W, 19 km de autonomía y 25 km/h. Ficha, opinión y mantenimiento. Dónde comprarlo y qué revisar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/razor-e200.webp",
+    "heroAlt": "Razor E200 patinete eléctrico",
+    "keywords": [
+      "Razor E200 precio",
+      "Razor E200 ficha técnica",
+      "Razor E200 autonomía",
+      "patinete Razor E200 opiniones",
+      "Razor E200 velocidad máxima",
+      "Razor E200 peso"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "razor-e325-precio-ficha-tecnica",
+    "title": "Razor E325 precio: desde 279 $, 250 W, 24 km y 24 kg",
+    "excerpt": "¿Cuánto cuesta el Razor E325? Precio desde 279 $, motor 250 W, 24 km de autonomía y 25 km/h. Ficha, opinión y mantenimiento. Dónde comprarlo y qué revisar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/razor-e325.webp",
+    "heroAlt": "Razor E325 patinete eléctrico",
+    "keywords": [
+      "Razor E325 precio",
+      "Razor E325 ficha técnica",
+      "Razor E325 autonomía",
+      "patinete Razor E325 opiniones",
+      "Razor E325 velocidad máxima",
+      "Razor E325 peso"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "razor-e500-precio-ficha-tecnica",
+    "title": "Razor E500 precio: desde 399 $, 500 W, 32 km y 27 kg",
+    "excerpt": "¿Cuánto cuesta el Razor E500? Precio desde 399 $, motor 500 W, 32 km de autonomía y 25 km/h. Ficha, opinión y mantenimiento. Dónde comprarlo y qué revisar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/razor-e500.webp",
+    "heroAlt": "Razor E500 patinete eléctrico",
+    "keywords": [
+      "Razor E500 precio",
+      "Razor E500 ficha técnica",
+      "Razor E500 autonomía",
+      "patinete Razor E500 opiniones",
+      "Razor E500 velocidad máxima",
+      "Razor E500 peso"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "teverun-blade-gt-precio-ficha-tecnica",
+    "title": "Teverun Blade GT precio: desde 2.299 $, 5.000 W y 80 km",
+    "excerpt": "¿Cuánto cuesta el Teverun Blade GT? Precio desde 2.299 $, motor 5.000 W, 80 km de autonomía y 25 km/h. Ficha, opinión y mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/teverun-blade-gt.webp",
+    "heroAlt": "Teverun Blade GT patinete eléctrico",
+    "keywords": [
+      "Teverun Blade GT precio",
+      "Teverun Blade GT ficha técnica",
+      "Teverun Blade GT autonomía",
+      "patinete Teverun Blade GT opiniones",
+      "Teverun Blade GT velocidad máxima",
+      "Teverun Blade GT peso"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "teverun-blade-mini-precio-ficha-tecnica",
+    "title": "Teverun Blade Mini precio: desde 1.099 $, 1.000 W y 35 km",
+    "excerpt": "¿Cuánto cuesta el Teverun Blade Mini? Precio desde 1.099 $, motor 1.000 W, 35 km de autonomía y 25 km/h. Ficha, opinión y mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "es",
+    "heroSrc": "/media/patinetes/teverun-blade-mini.webp",
+    "heroAlt": "Teverun Blade Mini patinete eléctrico",
+    "keywords": [
+      "Teverun Blade Mini precio",
+      "Teverun Blade Mini ficha técnica",
+      "Teverun Blade Mini autonomía",
+      "patinete Teverun Blade Mini opiniones",
+      "Teverun Blade Mini velocidad máxima",
+      "Teverun Blade Mini peso"
+    ],
+    "readTime": 5
   },
   {
     "slug": "radical-sr1-xxr-2025-precio-ficha-tecnica",
