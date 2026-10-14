@@ -157,7 +157,7 @@ function Ficha({ moto }: { moto: MotoComparador }) {
       q: `¿Cuál es la autonomía de la ${nombre}?`,
       a:
         moto.autonomiaKm == null
-          ? `No hay una autonomía publicada por ninguna fuente fiable para la ${nombre}, así que preferimos no inventarla: aparece como «—» en la ficha.`
+          ? `No hay una autonomía publicada por ninguna fuente fiable para la ${nombre}, así que preferimos no inventarla: no la mostramos en la ficha.`
           : `Homologa ${fmtAutonomia(moto)}. La cifra real depende de tu conducción, el peso y la temperatura.`,
     },
     {
@@ -346,7 +346,7 @@ function Ficha({ moto }: { moto: MotoComparador }) {
             Ficha técnica completa: precio, potencia, <Marker>autonomía</Marker>, batería,{" "}
             <Marker>carnet necesario</Marker> y <Marker>etiqueta DGT</Marker>, con puntos
             fuertes y débiles. Si un dato no está publicado por una
-            fuente fiable, aparece como «—» en vez de inventarlo. Fuente:{" "}
+            fuente fiable, no lo mostramos en vez de inventarlo. Fuente:{" "}
             {moto.fuenteUrl ? (
               <a
                 href={moto.fuenteUrl}

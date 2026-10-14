@@ -273,7 +273,7 @@ function Ficha({ coche }: { coche: CocheComparador }) {
       q: `¿Cuál es la autonomía del ${nombre}?`,
       a:
         coche.autonomiaKm == null
-          ? `No hay una autonomía publicada por ninguna fuente fiable para el ${nombre}, así que preferimos no inventarla: aparece como «—» en la ficha.`
+          ? `No hay una autonomía publicada por ninguna fuente fiable para el ${nombre}, así que preferimos no inventarla: no la mostramos en la ficha.`
           : `Homologa ${fmtKm(coche.autonomiaKm)}${/híbrido|enchufable|autonomía extendida/i.test(coche.tipo) ? " en modo eléctrico" : " (WLTP)"}. Ten en cuenta que la cifra real depende de tu conducción y de la temperatura.`,
     },
     {
@@ -494,7 +494,7 @@ function Ficha({ coche }: { coche: CocheComparador }) {
             Ficha técnica completa: precio, potencia, <Marker>autonomía</Marker>,{" "}
             <Marker>batería</Marker>, maletero y <Marker>etiqueta DGT</Marker>, con puntos
             fuertes y débiles extraídos de nuestro análisis. Si un dato no
-            está publicado por una fuente fiable, aparece como «—» en vez de inventarlo.
+            está publicado por una fuente fiable, no lo mostramos en vez de inventarlo.
             Fuente:{" "}
             {coche.fuenteUrl ? (
               <a

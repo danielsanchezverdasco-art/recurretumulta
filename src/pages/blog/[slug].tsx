@@ -157,7 +157,11 @@ function MarkdownContent({ content, galeria, dims }: { content: string; galeria?
         tableLines.push(lines[i]);
         i++;
       }
-      const rows = tableLines.filter((l) => !l.match(/^\|[-| ]+\|$/));
+      const VACIA = /^(—|–|-|sin datos|n\/d|no publicad[oa]|\?)$/i;
+      const rows = tableLines
+        .filter((l) => !l.match(/^\|[-| ]+\|$/))
+        // AdSense P2: una fila con alguna celda sin dato ("—", "Sin datos") no se muestra.
+        .filter((l, ri) => ri === 0 || !l.split("|").slice(1, -1).some((c) => VACIA.test(c.trim())));
       elements.push(
         <div key={`table-${i}`} className="my-4">
           <table className="w-full text-xs border-collapse">

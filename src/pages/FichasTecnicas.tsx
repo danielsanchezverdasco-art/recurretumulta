@@ -281,7 +281,7 @@ function TarjetaFicha({ ficha }: { ficha: FichaCard }) {
 const FAQS = [
   {
     q: "¿De dónde salen los datos de las fichas técnicas?",
-    a: "De nuestros propios análisis: cada ficha nace de la tabla técnica del artículo correspondiente, con fuentes como km77, los configuradores oficiales de las marcas y medios especializados españoles. Si un dato no está publicado por ninguna fuente fiable, aparece como «—»: preferimos un hueco a una cifra inventada.",
+    a: "De nuestros propios análisis: cada ficha nace de la tabla técnica del artículo correspondiente, con fuentes como km77, los configuradores oficiales de las marcas y medios especializados españoles. Si un dato no está publicado por ninguna fuente fiable, no lo mostramos: preferimos un hueco a una cifra inventada.",
   },
   {
     q: "¿La autonomía que mostráis es real?",

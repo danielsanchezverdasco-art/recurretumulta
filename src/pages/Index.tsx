@@ -977,13 +977,6 @@ function $() {
           (0, B.jsxs)(`div`, {
             className: `max-w-2xl mx-auto px-4 py-10 pb-28 space-y-12`,
             children: [
-              (0, B.jsxs)(`section`, {
-                className: `space-y-2 text-sm text-gray-700 leading-relaxed`,
-                children: [
-                  (0, B.jsx)(`h2`, { className: `text-xl font-black text-gray-900`, children: `Por qué aquí hay multas y fichas de vehículos` }),
-                  (0, B.jsx)(`p`, { children: `RecurreTuMulta.online nació para ayudar a conductores con sus multas de tráfico: guías y herramientas basadas en la normativa oficial publicada en el BOE (RDL 6/2015, Ley de Tráfico, y Ley 39/2015) y en la información de la DGT. Las fichas de coches, motos y patinetes completan ese objetivo: etiqueta ambiental DGT, acceso a zonas de bajas emisiones, potencia y datos técnicos que influyen en sanciones, ITV y en qué vehículo te conviene. Cada dato lleva su fuente; si no hay un dato fiable, no lo mostramos.` }),
-                ],
-              }),
               (0, B.jsxs)(j, {
                 as: `section`,
                 id: `analizador`,
@@ -2049,8 +2042,15 @@ function $() {
                   }),
                 ],
               }),
+              (0, B.jsxs)(`section`, {
+                className: `space-y-2 text-sm text-gray-700 leading-relaxed`,
+                children: [
+                  (0, B.jsx)(`h2`, { className: `text-xl font-black text-gray-900`, children: `Por qué aquí hay multas y fichas de vehículos` }),
+                  (0, B.jsx)(`p`, { children: `RecurreTuMulta.online nació para ayudar a conductores con sus multas de tráfico: guías y herramientas basadas en la normativa oficial publicada en el BOE (RDL 6/2015, Ley de Tráfico, y Ley 39/2015) y en la información de la DGT. Las fichas de coches, motos y patinetes completan ese objetivo: etiqueta ambiental DGT, acceso a zonas de bajas emisiones, potencia y datos técnicos que influyen en sanciones, ITV y en qué vehículo te conviene. Cada dato lleva su fuente; si no hay un dato fiable, no lo mostramos.` }),
+                ],
+              }),
               (0, B.jsx)(te, {}),
-            ],
+],
           }),
         ],
       }),
