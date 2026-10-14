@@ -38,3 +38,14 @@ Antes de publicar, consulta siempre en la API de Netlify cuál es el deploy en v
 - Si se re-prerenderizan rutas sueltas, restaurar title/meta desde el dist previo (bug de títulos por defecto).
 - Juego de monos oculto: src/config/juego.ts JUEGO_MONOS_ACTIVO=false.
 - Después de adsense-dist: `cd dist && python3 ../scripts/fix-chains.py` (sitemap sin URLs redirigidas, 301 a un salto).
+
+## Guarda de seguridad de `deploy_api.py` (desde 14/10/2026)
+
+Antes de subir nada, `scripts/deploy_api.py`:
+
+1. **Avisa si `HEAD` != `origin/main`** (hace `git fetch`). Si sale el aviso, haz `git pull` antes de publicar: si no, puedes pisar trabajo de otra IA.
+2. **Compara con el deploy publicado**: descarga la lista de ficheros del deploy en vivo y, si algún fichero que está en vivo **desaparecería** con este deploy (p. ej. fotos de `public/media` que no están en `dist`), **aborta** y lista los ficheros.
+3. Solo si la eliminación es intencionada, repite con `--allow-removals`:
+   `NETLIFY_AUTH_TOKEN=... python3 scripts/deploy_api.py <id_del_deploy> --allow-removals`
+
+Nunca uses `--allow-removals` para "saltarte" el aviso: lo normal es copiar a `dist` lo que falta.

@@ -3,7 +3,9 @@
 # OJO: el deploy contiene SOLO lo que hay en dist. Si falta public/media completo, las fotos desaparecen.
 # ejecución pide a Netlify los ficheros que aún faltan y sube solo esos.
 import hashlib,json,os,sys,time,urllib.request,urllib.parse,concurrent.futures as cf
-SITE="438b74cf-d05a-4685-9de8-7bf56a1ef7ee";D=sys.argv[1];T=os.environ["NETLIFY_AUTH_TOKEN"];ROOT=os.path.join(os.path.dirname(os.path.abspath(__file__)),"..","dist")
+ARGS=[a for a in sys.argv[1:] if not a.startswith("--")];ALLOW_REMOVALS="--allow-removals" in sys.argv
+if not ARGS: sys.exit("Uso: python3 scripts/deploy_api.py <deploy_id> [--allow-removals]")
+SITE="438b74cf-d05a-4685-9de8-7bf56a1ef7ee";D=ARGS[0];T=os.environ["NETLIFY_AUTH_TOKEN"];ROOT=os.path.join(os.path.dirname(os.path.abspath(__file__)),"..","dist")
 H={"Authorization":"Bearer "+T}
 def api(method,url,data=None,ctype="application/json",timeout=600):
     for i in range(5):
@@ -25,6 +27,35 @@ def sha(p):
 files={"/"+os.path.relpath(os.path.join(dp,f),ROOT):os.path.join(dp,f) for dp,_,fs in os.walk(ROOT) for f in fs}
 with cf.ThreadPoolExecutor(8) as ex: hashes=dict(zip(files,ex.map(sha,files.values())))
 json.dump(hashes,open(CACHE,"w")); print("ficheros",len(hashes),flush=True)
+
+# --- Guardas de seguridad (antes de subir nada) ---
+import subprocess
+def git(*a):
+    try: return subprocess.run(["git",*a],cwd=os.path.dirname(os.path.abspath(__file__)),capture_output=True,text=True,timeout=60).stdout.strip()
+    except Exception: return ""
+git("fetch","-q","origin","main")
+head,om=git("rev-parse","HEAD"),git("rev-parse","origin/main")
+if not head or not om: print("AVISO: no se pudo comprobar HEAD frente a origin/main",flush=True)
+elif head!=om: print(f"AVISO: HEAD ({head[:8]}) != origin/main ({om[:8]}). Haz git pull antes de publicar o puedes borrar trabajo ajeno.",flush=True)
+site=api("GET",f"https://api.netlify.com/api/v1/sites/{SITE}")
+pub=(site.get("published_deploy") or {}).get("id")
+if pub:
+    live=set();page=1
+    while True:
+        lst=api("GET",f"https://api.netlify.com/api/v1/deploys/{pub}/files?page={page}&per_page=1000")
+        if not lst: break
+        live.update(("/"+x["id"].lstrip("/")) for x in lst)
+        if len(lst)<1000: break
+        page+=1
+    gone=sorted(live-set(hashes))
+    print("publicado",pub,"ficheros en vivo",len(live),"desaparecerian",len(gone),flush=True)
+    if gone:
+        for g in gone[:30]: print("  -",g,flush=True)
+        if len(gone)>30: print("  ... y",len(gone)-30,"mas",flush=True)
+        if not ALLOW_REMOVALS:
+            sys.exit("ABORTADO: este deploy borraria ficheros que estan en vivo. Copia lo que falta a dist (p.ej. public/media) o, si es intencionado, repite con --allow-removals.")
+        print("--allow-removals: se continua aunque desaparezcan ficheros",flush=True)
+else: print("AVISO: no hay deploy publicado para comparar",flush=True)
 d=api("PUT",f"https://api.netlify.com/api/v1/sites/{SITE}/deploys/{D}",json.dumps({"files":hashes,"draft":True}).encode())
 req=set(d.get("required") or []); print("estado",d.get("state"),"faltan",len(req),flush=True)
 by={}
