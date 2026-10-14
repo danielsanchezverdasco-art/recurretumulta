@@ -40,7 +40,7 @@ export default function AvisoLegalPage() {
           </div>
           <p className="text-sm text-gray-500">Última actualización: {YEAR}</p>
           <p className="text-xs text-gray-400">
-            Titular: Daniel Sánchez Verdasco · DNI 51706202V · Plaza de Corcubión 6, 28029 Madrid · soporte@recurretumulta.online.
+            Titular: Daniel Sánchez Verdasco · NIF 51706202V · Plaza de Corcubión 6, 28029 Madrid · soporte@recurretumulta.online.
             Los contenidos de este sitio web tienen carácter meramente informativo y no constituyen asesoramiento jurídico.
           </p>
         </div>

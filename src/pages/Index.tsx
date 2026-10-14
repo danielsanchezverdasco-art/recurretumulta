@@ -265,7 +265,7 @@ function q() {
                   .getElementById(`analizador`)
                   ?.scrollIntoView({ behavior: `smooth` });
               },
-              children: `Analizar mi multa gratis`,
+              children: `Analizar mi multa gratis (recurso PDF 4,99 €)`,
             }),
             (0, B.jsxs)(`div`, {
               className: `hj-ticks`,
@@ -413,7 +413,7 @@ function re() {
                         className: `mt-2 inline-flex items-center gap-1.5 text-xs font-semibold text-red-700`,
                         children: [
                           (0, B.jsx)(L, { className: `w-3.5 h-3.5` }),
-                          `Analizar la mía gratis`,
+                          `Analizar la mía gratis (PDF 4,99 €)`,
                         ],
                       }),
                     ],
@@ -977,6 +977,13 @@ function $() {
           (0, B.jsxs)(`div`, {
             className: `max-w-2xl mx-auto px-4 py-10 pb-28 space-y-12`,
             children: [
+              (0, B.jsxs)(`section`, {
+                className: `space-y-2 text-sm text-gray-700 leading-relaxed`,
+                children: [
+                  (0, B.jsx)(`h2`, { className: `text-xl font-black text-gray-900`, children: `Por qué aquí hay multas y fichas de vehículos` }),
+                  (0, B.jsx)(`p`, { children: `RecurreTuMulta.online nació para ayudar a conductores con sus multas de tráfico: guías y herramientas basadas en la normativa oficial publicada en el BOE (RDL 6/2015, Ley de Tráfico, y Ley 39/2015) y en la información de la DGT. Las fichas de coches, motos y patinetes completan ese objetivo: etiqueta ambiental DGT, acceso a zonas de bajas emisiones, potencia y datos técnicos que influyen en sanciones, ITV y en qué vehículo te conviene. Cada dato lleva su fuente; si no hay un dato fiable, no lo mostramos.` }),
+                ],
+              }),
               (0, B.jsxs)(j, {
                 as: `section`,
                 id: `analizador`,
@@ -996,6 +1003,10 @@ function $() {
                         children: e(`tool.title`),
                       }),
                     ],
+                  }),
+                  (0, B.jsx)(`p`, {
+                    className: `text-xs text-gray-600 bg-amber-50 border border-amber-200 rounded-xl p-3 text-center`,
+                    children: `Aviso: el analizador es una herramienta informativa con IA. No es asesoramiento jurídico ni garantiza que la multa se anule; consulta con un abogado si tu caso lo requiere. El análisis es gratis; el recurso en PDF cuesta 4,99 € (opcional).`,
                   }),
                   (0, B.jsx)(`div`, {
                     className: `flex bg-gray-100 rounded-2xl p-1 gap-1`,
@@ -1169,7 +1180,7 @@ function $() {
                         children: [
                           ` `,
                           (0, B.jsx)(s, { className: `w-4 h-4` }),
-                          ` Analizar mi multa gratis `,
+                          ` Analizar mi multa gratis (recurso PDF 4,99 €) `,
                         ],
                       }),
                       ` `,

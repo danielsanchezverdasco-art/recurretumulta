@@ -480,7 +480,7 @@ function Ficha({ moto }: { moto: MotoComparador }) {
           </h2>
           <table className="mt-3 w-full text-sm">
             <tbody>
-              {FILAS.map((f) => {
+              {FILAS.filter((f) => { const _v = f.campo === "etiquetaDgt" ? ((moto as any).etiquetaDgt || "—") : f.get(moto); return _v !== "—" && _v !== "Sin datos" && _v !== "No publicada" && !/^—/.test(String(_v)); }).map((f) => {
                 const esAprox = moto.aprox.includes(f.campo);
                 return (
                   <tr key={f.label} className="border-t border-gray-200/70">

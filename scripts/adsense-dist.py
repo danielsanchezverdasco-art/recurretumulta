@@ -31,6 +31,7 @@ if FASE in("noindex","todo"):
       p=f[len(D):-len("index.html")]
       if (m and m.group(1)=="0,0") or (len(dd)>=6 and vac/len(dd)>=0.6): fichas.append((p,m.group(1) if m else None,len(dd),vac))
   marcar+= [x[0] for x in fichas]
+  marcar+= [l.strip() for l in open(os.path.join(os.path.dirname(os.path.abspath(__file__)),'noindex-calidad-p2.txt')) if l.startswith('/')]
   for p in marcar:
     f=f"{D}{p}index.html"
     if not os.path.isfile(f): continue
