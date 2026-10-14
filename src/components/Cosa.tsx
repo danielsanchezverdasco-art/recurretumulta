@@ -215,11 +215,8 @@ export function NotaCosa({
           <div className="flex flex-wrap items-baseline gap-x-3 gap-y-1">
             <h2 className="text-xl font-extrabold text-gray-900">La nota de Cosa</h2>
             <p className={`text-3xl font-black tracking-tight ${colorNota}`}>
-              {inView ? (
-                <CountUp to={resultado.nota} decimals={1} duration={1200} />
-              ) : (
-                "0,0"
-              )}
+              {/* 14/10/2026 (AdSense): nota real en el HTML, sin contador desde 0,0 */}
+              {resultado.nota.toFixed(1).replace(".", ",")}
               <span className="text-base font-bold text-gray-400">/10</span>
             </p>
           </div>

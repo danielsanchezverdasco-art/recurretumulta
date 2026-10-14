@@ -27,7 +27,7 @@ export default function TerminosPage() {
       <SharedNavbar />
       <main className="max-w-3xl mx-auto px-4 pt-[73px] pb-12 space-y-8">
         <Link to="/" className="inline-flex items-center gap-1.5 text-sm text-gray-500 hover:text-gray-800 transition-colors">
-          <ArrowLeft className="w-3.5 h-3.5" /> {"backToHome"}
+          <ArrowLeft className="w-3.5 h-3.5" /> Volver al inicio
         </Link>
 
         <div className="space-y-3">

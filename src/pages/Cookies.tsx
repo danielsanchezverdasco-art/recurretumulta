@@ -20,7 +20,7 @@ export default function CookiesPage() {
       <SharedNavbar />
       <main className="max-w-3xl mx-auto px-4 pt-[73px] pb-12 space-y-8">
         <Link to="/" className="inline-flex items-center gap-1.5 text-sm text-gray-500 hover:text-gray-800 transition-colors">
-          <ArrowLeft className="w-3.5 h-3.5" /> {"backToHome"}
+          <ArrowLeft className="w-3.5 h-3.5" /> Volver al inicio
         </Link>
 
         <div className="space-y-3">
@@ -56,7 +56,7 @@ export default function CookiesPage() {
                 <tbody>
                   {[
                     { name: "_ga, _gid", provider: "Google Analytics", type: "Analítica", purpose: "Estadísticas de uso anónimas", duration: "2 años / 24h" },
-                    { name: "_gcl_au", provider: "Google AdSense", type: "Publicitaria", purpose: "Medir conversiones de anuncios", duration: "90 días" },
+                    { name: "_gcl_au", provider: "Google Ads / Google Tag (vinculador de conversiones)", type: "Publicitaria", purpose: "Medir conversiones de anuncios", duration: "90 días" },
                     { name: "IDE", provider: "Google DoubleClick", type: "Publicitaria", purpose: "Anuncios personalizados", duration: "1 año" },
                     { name: "__stripe_*", provider: "Stripe", type: "Técnica/pago", purpose: "Gestión segura de pagos", duration: "Sesión" },
                   ].map((c) => (

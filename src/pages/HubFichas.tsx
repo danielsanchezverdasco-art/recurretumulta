@@ -14,11 +14,11 @@ export const HUB_META: Record<Categoria, { h1: string; title: string; descriptio
   motos: { nombre: "Motos", h1: "Fichas técnicas de motos", title: "Fichas técnicas de motos por marca y modelo", description: "Índice de todas las fichas técnicas de motos y scooters, ordenadas por marca y modelo con cilindrada, potencia y precio." },
   patinetes: { nombre: "Patinetes", h1: "Fichas técnicas de patinetes eléctricos", title: "Fichas técnicas de patinetes eléctricos por marca", description: "Índice de todas las fichas técnicas de patinetes eléctricos, ordenadas por marca y modelo con autonomía, velocidad y precio." },
 };
-const CARGA: Record<Categoria, () => Promise<{ default: [string, string][] }>> = {
+const CARGA = {
   coches: () => import("@/lib/hub-coches.generated.json"),
   motos: () => import("@/lib/hub-motos.generated.json"),
   patinetes: () => import("@/lib/hub-patinetes.generated.json"),
-};
+} as unknown as Record<Categoria, () => Promise<{ default: [string, string][] }>>;
 const marca = (n: string) => n.split(" ")[0];
 const ancla = (m: string) => "m-" + m.toLowerCase().normalize("NFD").replace(/[^a-z0-9]+/g, "-");
 
@@ -40,9 +40,9 @@ export default function HubFichas({ categoria }: { categoria: Categoria }) {
         <h1 className="text-3xl font-black text-gray-900">{meta.h1}</h1>
         <p className="text-sm text-gray-600 max-w-2xl">{meta.description}</p>
         {lista && <p className="text-xs text-gray-500">{lista.length} fichas · {grupos.length} marcas</p>}
-        {(MARCAS as Record<string, [string, string][]>)[categoria]?.length > 0 && (
+        {(MARCAS as unknown as Record<string, [string, string][]>)[categoria]?.length > 0 && (
           <section className="space-y-2"><h2 className="text-lg font-black text-gray-900">Marcas</h2>
-            <ul className="flex flex-wrap gap-1.5">{(MARCAS as Record<string, [string, string][]>)[categoria].map(([s, n]) => <li key={s}><Link to={`/${categoria}/marca/${s}/`} className="block text-xs rounded-full border border-gray-200 bg-white px-2.5 py-1 hover:border-red-400">{n}</Link></li>)}</ul>
+            <ul className="flex flex-wrap gap-1.5">{(MARCAS as unknown as Record<string, [string, string][]>)[categoria].map(([s, n]) => <li key={s}><Link to={`/${categoria}/marca/${s}/`} className="block text-xs rounded-full border border-gray-200 bg-white px-2.5 py-1 hover:border-red-400">{n}</Link></li>)}</ul>
           </section>)}
         <div className="flex flex-wrap gap-1.5">{grupos.map(([m]) => <a key={m} href={`#${ancla(m)}`} className="text-xs rounded-full border border-gray-200 bg-white px-2.5 py-1 hover:border-red-400">{m}</a>)}</div>
         {grupos.map(([m, items]) => (

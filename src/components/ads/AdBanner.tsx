@@ -40,6 +40,8 @@ function injectAdSenseScript() {
 function cargarAdSense() {
   if (scriptInjected) return;
   scriptInjected = true;
+  // 14/10/2026: la etiqueta ya va en el <head> (index.html) para la revisión de AdSense.
+  if (document.querySelector('script[src*="adsbygoogle.js"]')) return;
   const script = document.createElement("script");
   script.async = true;
   script.src = `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_PUBLISHER_ID}`;

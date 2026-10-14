@@ -29,7 +29,7 @@ export default function PrivacidadPage() {
 
       <main className="max-w-3xl mx-auto px-4 pt-[73px] pb-12 space-y-8">
         <Link to="/" className="inline-flex items-center gap-1.5 text-sm text-gray-500 hover:text-gray-800 transition-colors">
-          <ArrowLeft className="w-3.5 h-3.5" /> {"backToHome"}
+          <ArrowLeft className="w-3.5 h-3.5" /> Volver al inicio
         </Link>
 
         <div className="space-y-3">
@@ -46,7 +46,7 @@ export default function PrivacidadPage() {
         <div className="prose prose-sm max-w-none text-gray-700 space-y-6">
           <section>
             <h2 className="text-xl font-black text-gray-900">1. Responsable del tratamiento</h2>
-            <p>El responsable del tratamiento de tus datos personales es <strong>RecurreTuMulta.online</strong>, con dirección de contacto en <a href="mailto:privacidad@recurretumulta.online" className="text-red-600 underline">privacidad@recurretumulta.online</a>.</p>
+            <p>El responsable del tratamiento de tus datos personales es <strong>Daniel Sánchez Verdasco</strong> (titular de RecurreTuMulta.online) · DNI 51706202V · Plaza de Corcubión 6, 28029 Madrid · soporte@recurretumulta.online, con dirección de contacto para privacidad en <a href="mailto:privacidad@recurretumulta.online" className="text-red-600 underline">privacidad@recurretumulta.online</a>.</p>
           </section>
 
           <section>

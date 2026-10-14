@@ -1,4 +1,9 @@
 import NOINDEX from "@/lib/noindex.generated.json";
+// 14/10/2026: noindex fijado en el HTML estático (data-fijo, scripts/adsense-dist.py) para la URL de entrada.
+const NOINDEX_FIJO: string | null =
+  typeof document !== "undefined" && document.querySelector('meta[name="robots"][data-fijo]')
+    ? location.pathname.replace(/\/?$/, "/")
+    : null;
 // Hook para inyectar meta tags SEO dinámicos en cada página
 // Fundamental para SPA SEO: actualiza <title>, description, canonical, OG y Twitter por ruta
 //
@@ -114,7 +119,7 @@ export function useSeo({
       "robots",
       noindex
         ? "noindex, nofollow"
-        : NOINDEX.includes(location.pathname.replace(/\/?$/, "/"))
+        : NOINDEX.includes(location.pathname.replace(/\/?$/, "/")) || location.pathname.replace(/\/?$/, "/") === NOINDEX_FIJO
         ? "noindex, follow"
         : "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
     );

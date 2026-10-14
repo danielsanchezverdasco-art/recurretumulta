@@ -58613,6 +58613,27 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 2
   },
   {
+    "slug": "europa-retrasa-coche-autonomo-espana-pruebas",
+    "title": "Europa retrasa el coche autónomo, España prueba nivel 4",
+    "excerpt": "Tesla cambia FSD por Tesla Assisted Driving, la votación europea se retrasa a diciembre de 2026 y España autoriza pruebas de nivel 4. Probar sí, vender no.",
+    "category": "Actualidad",
+    "date": "2026-10-14",
+    "locale": "all",
+    "heroSrc": "/media/tesla-cybercab-2026-precio-ficha-tecnica-1.webp",
+    "heroAlt": "Tesla Cybercab, robotaxi biplaza sin volante",
+    "keywords": [
+      "coche autónomo",
+      "conducción autónoma",
+      "Tesla Assisted Driving",
+      "FSD Europa",
+      "programa ES-AV",
+      "robotaxis Madrid",
+      "nivel 4",
+      "DGT vehículos autónomos"
+    ],
+    "readTime": 7
+  },
+  {
     "slug": "multa-patinete-sin-registro-1220-euros",
     "title": "Multa patinete sin registro: hasta 1.220 €",
     "excerpt": "Multa de hasta 1.220 € por ir en patinete sin registro DGT ni seguro, más inmovilización. La OCU avisa: solo 140.000 de 4 millones están registrados.",
@@ -66692,7 +66713,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "fangchengbao-ti-9-2026-precio-ficha-tecnica",
     "title": "Fang Cheng Bao Ti 9: precio a confirmar y 2.300 km",
-    "excerpt": "El Fang Cheng Bao Ti 9 (también llamado Tai 9) es el SUV híbrido enchufable de 5,27 m y 6 plazas de BYD: 310 km eléctricos y 2.300 km totales declarados. Precio a confirmar.",
+    "excerpt": "El Fang Cheng Bao Ti 9 (también llamado Tai 9) es el SUV híbrido enchufable de 5,27 m y 6 plazas (configuración principal) de BYD: 310 km eléctricos y 2.300 km totales declarados. Precio a confirmar.",
     "category": "Modelos desconocidos",
     "date": "2026-10-14",
     "locale": "all",
@@ -66706,7 +66727,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "SUV chino 6 plazas",
       "Ti 9 ficha técnica"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "ds-f3ver-concept-paris-2026",
@@ -66783,7 +66804,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "cuotas-hibridos-chinos-ue-china-2026",
     "title": "Cuota de 350.000 híbridos chinos: qué cambia en España",
-    "excerpt": "Tercera entrega de la serie: la Comisión fijó el cupo en 350.000 híbridos chinos al año desde el 1 de diciembre, con +6% anual durante 4 años. Qué cambia en España.",
+    "excerpt": "Tercera entrega de la serie: la Comisión fijó el cupo en 350.000 híbridos chinos al año, con entrada en vigor prevista para principios de diciembre (1 de diciembre, pendiente de confirmación) y +6% an",
     "category": "Actualidad",
     "date": "2026-10-14",
     "locale": "all",
@@ -68909,7 +68930,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "smart-2-2026-precio-autonomia-paris",
     "title": "smart #2 2026: el biplaza eléctrico vuelve a París",
-    "excerpt": "El smart #2 se presenta el 12 de octubre en París: biplaza eléctrico con batería CATL de 35,8 kWh, 290 km WLTP y 82 CV. Precio aún sin confirmar.",
+    "excerpt": "El smart #2 se presenta el 12 de octubre en París: biplaza eléctrico con batería CATL de 35,8 kWh, 290 km WLTP y 82 CV. Desde 19.990 € (Pure).",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
