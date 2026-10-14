@@ -1,3 +1,5 @@
+import { JUEGO_MONOS_ACTIVO } from "@/config/juego.ts";
+import JuegoPausa from "@/components/caza-monos/JuegoPausa.tsx";
 // Landing promocional "Caza de monos" (05/10/2026).
 // "Encuentra los monos y gana 1.500 €": hero, cómo se juega (3 pasos), progreso,
 // reclamar premio (código → WhatsApp), ganadores, FAQ y enlace a las bases.
@@ -510,6 +512,10 @@ function JuegoMonosPage() {
 }
 
 export default function JuegoMonosPageWithConvex() {
+  if (!JUEGO_MONOS_ACTIVO) return <JuegoPausa canonical="/juego-monos/" />;
+  return <JuegoMonosPageWithConvexActivo />;
+}
+function JuegoMonosPageWithConvexActivo() {
   return (
     <LazyConvexProvider>
       <JuegoMonosPage />

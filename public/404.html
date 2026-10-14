@@ -31,27 +31,5 @@
     <a class="btn secondary" href="/herramientas">Ver herramientas</a>
     <a class="btn secondary" href="/blog">Ir al blog</a>
   </div>
-
-  <!-- Caza de monos (13/10/2026): mono escondido de la página 404 (cuenta para los 350). -->
-  <style>
-    #mono404{position:fixed;right:14px;bottom:22%;width:38px;height:38px;padding:0;border:0;background:none;cursor:pointer;animation:m404 3s ease-in-out infinite;opacity:.9}
-    #mono404 img{width:38px;height:38px;display:block}
-    #mono404.cazado{transition:transform .4s,opacity .4s;transform:scale(1.6);opacity:0}
-    #mono404msg{position:fixed;right:12px;bottom:calc(22% + 46px);background:#111827;color:#fff;font-size:12px;font-weight:700;padding:6px 10px;border-radius:10px;display:none}
-    @keyframes m404{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
-  </style>
-  <button id="mono404" type="button" title="¡Un mono escondido! Haz clic para cazarlo 🦍" aria-label="¡Un mono escondido! Haz clic para cazarlo"><img src="/media/cosa-avatar.webp" alt="" width="38" height="38"></button>
-  <div id="mono404msg">+1 🦍 ¡Mono cazado! Míralo en <a href="/juego-monos/" style="color:#fbbf24">tu contador</a></div>
-  <script>
-  (function(){
-    var K="cosa-monos-encontrados",ID="f:pagina-404-estatica:845e86776cddd6cc",b=document.getElementById("mono404"),m=document.getElementById("mono404msg");
-    function leer(){try{var a=JSON.parse(localStorage.getItem(K)||"[]");return Array.isArray(a)?a:[]}catch(e){return []}}
-    if(leer().indexOf(ID)>=0){b.remove();return}
-    b.addEventListener("click",function(){
-      var a=leer();if(a.indexOf(ID)<0){a.push(ID);try{localStorage.setItem(K,JSON.stringify(a))}catch(e){}}
-      b.className="cazado";m.style.display="block";setTimeout(function(){b.remove()},450);
-    });
-  })();
-  </script>
 </body>
 </html>

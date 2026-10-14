@@ -1,3 +1,5 @@
+import { JUEGO_MONOS_ACTIVO } from "@/config/juego.ts";
+import JuegoPausa from "@/components/caza-monos/JuegoPausa.tsx";
 // Bases legales del concurso "Caza de monos" (05/10/2026).
 // Tono legal serio pero breve.
 import { Link } from "react-router-dom";
@@ -46,6 +48,10 @@ const SECCIONES: Array<{ t: string; c: string }> = [
 ];
 
 export default function JuegoMonosBasesPage() {
+  if (!JUEGO_MONOS_ACTIVO) return <JuegoPausa canonical="/juego-monos/bases/" />;
+  return <JuegoMonosBasesPageActivo />;
+}
+function JuegoMonosBasesPageActivo() {
   useSeo({
     title: "Bases legales del concurso Caza de monos",
     description: "Bases del concurso Caza de monos (Temporada 1): 1.500 € + 1 año de recursos ilimitados para el 1º, 1 año ilimitado del 2º al 50º y 1 año gratis para todos los que encuentren el mono dorado.",

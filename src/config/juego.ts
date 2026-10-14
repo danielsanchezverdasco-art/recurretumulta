@@ -2,4 +2,4 @@
 // false = sin monos en ninguna página, sin banner/contador en portada ni navbar.
 // Para reactivarlo: true aquí + quitar el bloque "juego-monos" de scripts/adsense-dist.py
 // (noindex/sitemap/redirect) y volver a generar el HTML.
-export const JUEGO_MONOS_ACTIVO = true;
+export const JUEGO_MONOS_ACTIVO = false;

@@ -21,7 +21,7 @@ if FASE in("blog","todo"):
   open(rp,"w",encoding="utf8").write(blq+R)
   INF["blog_301"]=len(reglas); INF["blog_sin_ficha"]=sin
 if FASE in("noindex","todo"):
-  marcar=[]; fichas=[]  # juego de monos activo de nuevo (14/10, Daniel)
+  marcar=["/juego-monos/","/juego-monos/bases/"]; fichas=[]  # juego en pausa (14/10, decisión final Daniel)
   for c in ("coches","motos","patinetes"):
     for f in glob.glob(f"{D}/{c}/*/index.html"):
       h=open(f,encoding="utf8",errors="ignore").read()

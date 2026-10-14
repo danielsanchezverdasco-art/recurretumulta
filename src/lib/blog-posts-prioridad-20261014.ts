@@ -112,7 +112,7 @@ Sin datos EuroNCAP. No hay prueba publicada para este modelo.
 
 **Sí. Ti 9 y Tai 9 SON EL MISMO COCHE. No se publican como dos modelos distintos.** El nombre principal es **Fang Cheng Bao Ti 9** (grafía de los materiales en inglés de BYD). **Tai 9** queda como alias: «También conocido como Tai 9». Pruebas: el mismo carácter chino 钛9 (titanio); CnEVPost escribe «Tai 9 (or Ti 9)»; FreshMotors: «badged Ti 9 in BYD's English-language material»; y la misma ficha MIIT con cifras idénticas en el artículo CnEVPost «Tai 9» (07/08/2026) y en CarNewsChina «Ti9» (11/08/2026): 5.270 / 1.999 / 1.850–1.880 mm, batalla 3.130 mm, peso 2.865 / 2.965 kg, 1.5T 110 kW, 2 motores 200 kW, batería 66,48 kWh LFP, 310 km eléctricos, Vmax 220 km/h.
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible. Y si te gusta buscar, juega al <a href=/juego-monos/>juego caza-monos</a>: hay monos escondidos por toda la web.
+**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 
 *Fuentes: <a href=https://www.hibridosyelectricos.com/coches/byd-prepara-gigantesco-suv-hibrido-527-metros-con-2300-km-autonomia-bateria-se-recarga-en-solo-9-minutos_89828_102.html>Híbridos y Eléctricos</a>, <a href=https://carnewschina.com/2026/08/11/byd-fang-cheng-bao-ti9-officially-revealed-with-6-seats-dual-200-kw-motors-and-310-km-ev-range/>CarNewsChina (revelación 11/08/2026)</a>, <a href=https://carnewschina.com/2026/08/21/byd-fcb-ti-9-phev-crossover-with-310-km-ev-range-made-live-debut-in-china/>CarNewsChina (debut Chengdu)</a>, <a href=https://carnewschina.com/2026/10/09/byd-fang-cheng-bao-ti-9-reveals-a-new-body-color-ahead-of-q4-launch/>CarNewsChina (color Meteorite Black)</a>, <a href=https://cnevpost.com/2026/08/03/byd-fang-cheng-bao-teases-tai-9/>CnEVPost</a>, <a href=https://www.freshmotors.net/articles/2026-byd-fangchengbao-tai-9-six-seat-phev-flagship-with-1-600-km-range>FreshMotors</a>, <a href=https://en.wikipedia.org/wiki/Fangchengbao_Ti9>Wikipedia</a>, <a href=https://newatlas.com/automotive/byds-fcb-ti9/>NewAtlas</a>. Precio, ciclo de homologación, potencia combinada, par, 0–100, consumo, maletero, kW de carga, garantía y mantenimiento: a verificar.*`,
   },
@@ -268,7 +268,6 @@ No. Es un concept de salón, sin versión comercial. Si buscas un DS compacto co
 
 **¿Tienes una multa y no sabes si puedes recurrirla?** Antes de decidir nada, <a href=https://recurretumulta.online/#analizador>analiza tu multa</a>: el analizador revisa tu caso y te dice qué opciones tienes.
 
-**¿Te gusta buscar detalles escondidos?** En esta web hay 350 monos escondidos en 7.000 páginas, con un premio total de 2.000 € para quien los encuentre todos primero. <a href=/juego-monos/>Jugar al caza-monos</a>.
 
 *Fuentes: <a href=https://www.media.stellantis.com/uk-en/ds/press/a-new-design-expression-ds-automobiles-f3ver-concept1>nota oficial DS / Stellantis Media (11/10/2026)</a>, <a href=https://www.media.stellantis.com/es-es/corporate/press/stellantis-presenta-seis-concept-cars-the-night-before-del-salon-del-automovil-de-paris>nota Stellantis «The Night Before»</a>, <a href=https://dsautomobiles.es/modelos/ds3/hybrid.html>DS 3 en la web oficial DS España (referencia)</a>.*`,
   },
@@ -397,7 +396,6 @@ Mientras el Multiplay es solo un laboratorio de ideas, estos FIAT sí están en 
 
 ¿Te ha llegado una multa y no sabes si puedes recurrirla? Antes de pagar, pásala por el analizador: <a href=https://recurretumulta.online/#analizador>analiza tu multa gratis aquí</a>.
 
-Y si te gustan los retos: tenemos 350 monos escondidos en la web. Encuéntralos todos y participa en el juego. <a href=/juego-monos/>Juega al caza-monos</a>.
 
 ## Preguntas frecuentes
 
@@ -588,7 +586,7 @@ La próxima generación del lenguaje de diseño Opel: un Vizor más alto y atrev
 
 No tiene precio ni autonomía publicada: es un concept, no un coche a la venta. Opel no ha comunicado batería, autonomía, carga, medidas ni maletero. No fiarse de cifras que no vengan de Opel o Stellantis.
 
-**¿Te han puesto una multa y no sabes si se puede recurrir?** Antes de pagarla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a>. Y si te gusta buscar, <a href=/juego-monos/>juega al caza-monos</a>: hay monos escondidos por toda la web.
+**¿Te han puesto una multa y no sabes si se puede recurrir?** Antes de pagarla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a>.
 
 *Fuentes: <a href=https://www.media.stellantis.com/em-en/opel/press/opel-stx-concept-visionary-study-from-ruesselsheim-shows-the-estate-design-of-tomorrow>nota oficial Opel / Stellantis Media (STX Concept)</a>, <a href=https://www.media.stellantis.com/em-en/opel/press/opel-stx-concept-german-manufacturer-reveals-name-of-next-visionary-concept-car>nota oficial Opel (nombre STX)</a>, <a href=https://www.media.stellantis.com/es-es/corporate/press/stellantis-presenta-seis-concept-cars-the-night-before-del-salon-del-automovil-de-paris>nota Stellantis «The Night Before»</a>.*`,
   },
@@ -756,7 +754,7 @@ PEUGEOT no ha confirmado ninguna versión de producción del RCZ Vision. Lo que 
 
 Es su sucesor conceptual: recupera el nombre y los rasgos icónicos del cupé RCZ (2009–2015) —techo de doble burbuja, alerón activo, detalles triangulares en las llantas— reinterpretados con propulsión eléctrica, plataforma basada en STLA One y cabina de 4 plazas reales.
 
-**¿Te han multado?** Antes de pagar, <a href=https://recurretumulta.online/#analizador>analiza tu multa gratis con la IA</a> y comprueba si se puede recurrir. Y si te gusta cazar detalles, <a href=/juego-monos/>juega al caza-monos</a> y busca el mono escondido en esta página.
+**¿Te han multado?** Antes de pagar, <a href=https://recurretumulta.online/#analizador>analiza tu multa gratis con la IA</a> y comprueba si se puede recurrir.
 
 *Fuentes: <a href=https://www.media.stellantis.com/em-en/peugeot/press/peugeot-rcz-vision-emotion-at-the-heart-of-the-future-of-peugeot>nota oficial PEUGEOT / Stellantis Media (11/10/2026)</a>, <a href=https://www.media.stellantis.com/es-es/corporate/press/stellantis-presenta-seis-concept-cars-the-night-before-del-salon-del-automovil-de-paris>nota Stellantis «The Night Before»</a>.*`,
   },
@@ -910,7 +908,6 @@ La cifra (350.000/año, +6%, 4 años) ya la detalló la Comisión el 12/10. La c
 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 
-🎮 **¿Te atreves con el juego?** Encuentra los monos escondidos por la web y gana hasta 2.000 €. <a href=/juego-monos/>Juega al caza-monos</a>.
 
 *Artículo publicado el 14 de octubre de 2026. Tercera entrega de la serie: <a href=/blog/ue-bruselas-cuotas-hibridos-chinos/>Bruselas frena a los híbridos chinos</a> (08/10) y <a href=/blog/ue-china-freno-hibridos-enchufables/>UE y China pactan freno a híbridos</a> (11/10).*
 
