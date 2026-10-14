@@ -1,10 +1,11 @@
+import { JUEGO_MONOS_ACTIVO } from "@/config/juego.ts";
 // ContadorMonos — contador de la Caza de monos en el menú superior (05/10/2026).
 // Icono del mono (frontal) + nº de monos cazados. Clic → /juego-monos.
 import { Link } from "react-router-dom";
 import { AVATAR_COSA } from "@/lib/cosa";
 import { useCazaMonos } from "./CazaMonosContext";
 
-export default function ContadorMonos({ className = "" }: { className?: string }) {
+function ContadorMonosInner({ className = "" }: { className?: string }) {
   const { total, objetivo } = useCazaMonos();
   // 06/10/2026 (orden de Daniel): el contador SIEMPRE visible en el header
   // móvil (antes solo tras la primera captura). Va en el hueco del CTA.
@@ -32,4 +33,11 @@ export default function ContadorMonos({ className = "" }: { className?: string }
       </span>
     </Link>
   );
+}
+
+// Interruptor del juego (src/config/juego.ts).
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+export default function ContadorMonos(props: any) {
+  if (!JUEGO_MONOS_ACTIVO) return null;
+  return <ContadorMonosInner {...props} />;
 }

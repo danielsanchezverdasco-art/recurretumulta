@@ -1,3 +1,4 @@
+import { JUEGO_MONOS_ACTIVO } from "@/config/juego.ts";
 // HitosCaza — confetti en hitos y celebración al completar el objetivo (05/10/2026).
 // Hitos: 25/50/100/150/200/250/300/350 → confetti discreto + mensaje de Cosa celebrándolo.
 // Al completar: celebración a lo grande (confetti + Cosa festejando) antes del
@@ -73,7 +74,7 @@ function ToastCosa({ mensaje, onFin }: { mensaje: string; onFin: () => void }) {
 
 const FLAG_CELEBRACION = "caza-monos-celebracion-vista";
 
-export default function HitosCaza() {
+function HitosCazaInner() {
   const { total, objetivo } = useCazaMonos();
   const [disparo, setDisparo] = useState(0);
   const [toast, setToast] = useState<string | null>(null);
@@ -161,4 +162,11 @@ export default function HitosCaza() {
       )}
     </>
   );
+}
+
+// Interruptor del juego (src/config/juego.ts).
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+export default function HitosCaza(props: any) {
+  if (!JUEGO_MONOS_ACTIVO) return null;
+  return <HitosCazaInner {...props} />;
 }

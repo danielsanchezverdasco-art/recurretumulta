@@ -1,3 +1,4 @@
+import { JUEGO_MONOS_ACTIVO } from "@/config/juego.ts";
 // MonoEscondido — el mono clicable de la Caza de monos (05/10/2026).
 // Al hacer clic: animación de captura (respeta prefers-reduced-motion),
 // bocadillo con frase del mono (~2 s, no bloquea) y +1 al contador.
@@ -45,7 +46,7 @@ interface MonoEscondidoProps {
   legendario?: boolean;
 }
 
-export default function MonoEscondido({
+function MonoEscondidoInner({
   id,
   pose = "frente",
   size = 40,
@@ -158,4 +159,11 @@ export default function MonoEscondido({
     </button>
     </>
   );
+}
+
+// Interruptor del juego (src/config/juego.ts).
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+export default function MonoEscondido(props: any) {
+  if (!JUEGO_MONOS_ACTIVO) return null;
+  return <MonoEscondidoInner {...props} />;
 }

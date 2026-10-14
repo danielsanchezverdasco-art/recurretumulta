@@ -1,3 +1,4 @@
+import { JUEGO_MONOS_ACTIVO } from "@/config/juego.ts";
 // SeccionJuegoPortada — sección COMPACTA del juego en la portada (05/10/2026).
 // Va tras "Antes de recurrir, analiza tu multa": mini-titular + una línea +
 // CTA "Jugar" → /juego-monos, con el mono colgando como decoración.
@@ -6,7 +7,7 @@ import { Link } from "react-router-dom";
 import ContadorVivos from "./ContadorVivos";
 import { AVATAR_COSA_COLGANDO } from "@/lib/cosa";
 
-export default function SeccionJuegoPortada() {
+function SeccionJuegoPortadaInner() {
   return (
     <section aria-label="Caza de monos" className="relative overflow-hidden bg-gradient-to-r from-amber-50 via-orange-50 to-amber-50 border-y border-amber-100">
       {/* Mono colgando del borde superior, decorativo */}
@@ -38,4 +39,11 @@ export default function SeccionJuegoPortada() {
       </div>
     </section>
   );
+}
+
+// Interruptor del juego (src/config/juego.ts).
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+export default function SeccionJuegoPortada(props: any) {
+  if (!JUEGO_MONOS_ACTIVO) return null;
+  return <SeccionJuegoPortadaInner {...props} />;
 }

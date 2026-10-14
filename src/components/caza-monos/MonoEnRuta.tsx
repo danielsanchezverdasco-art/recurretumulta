@@ -1,3 +1,4 @@
+import { JUEGO_MONOS_ACTIVO } from "@/config/juego.ts";
 // MonoEnRuta — inyección 100% en cliente del mono aleatorio (05/10/2026).
 // Vive en el shell global (dentro de FadedRoutes, contenedor relative): al hidratar,
 // si la ruta actual está en la lista determinista, renderiza el mono en posición
@@ -26,7 +27,7 @@ const TIEMPO_HUIDA_MS = 60_000;
 const PISTA_MS = 6_000;
 const SALUDO_MS = 2_800;
 
-export default function MonoEnRuta() {
+function MonoEnRutaInner() {
   const { pathname } = useLocation();
   const placement = useMemo(() => POR_RUTA.get(normalizar(pathname)), [pathname]);
   const [huidas, setHuidas] = useState(0);
@@ -131,4 +132,11 @@ export default function MonoEnRuta() {
       </div>
     </div>
   );
+}
+
+// Interruptor del juego (src/config/juego.ts).
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+export default function MonoEnRuta(props: any) {
+  if (!JUEGO_MONOS_ACTIVO) return null;
+  return <MonoEnRutaInner {...props} />;
 }

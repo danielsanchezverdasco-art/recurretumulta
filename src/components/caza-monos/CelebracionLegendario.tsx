@@ -1,3 +1,4 @@
+import { JUEGO_MONOS_ACTIVO } from "@/config/juego.ts";
 // CelebracionLegendario — modal de celebración al cazar el mono legendario dorado (07/10/2026).
 // Registra la caza en Convex (tabla legendaryCatches) para que Daniel vea quién lo cogió.
 import { useEffect, useRef } from "react";
@@ -5,7 +6,7 @@ import { useMutation } from "convex/react";
 import { api } from "@/convex/_generated/api.js";
 import { POSES_COSA } from "@/lib/cosa";
 
-export default function CelebracionLegendario({
+function CelebracionLegendarioInner({
   hunterId,
   nickname,
   onClose,
@@ -75,4 +76,11 @@ export default function CelebracionLegendario({
       <style>{`@keyframes pop{0%{transform:scale(.7);opacity:0}100%{transform:scale(1);opacity:1}}`}</style>
     </div>
   );
+}
+
+// Interruptor del juego (src/config/juego.ts).
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+export default function CelebracionLegendario(props: any) {
+  if (!JUEGO_MONOS_ACTIVO) return null;
+  return <CelebracionLegendarioInner {...props} />;
 }

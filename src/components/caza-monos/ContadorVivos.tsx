@@ -1,3 +1,4 @@
+import { JUEGO_MONOS_ACTIVO } from "@/config/juego.ts";
 // Contador "los 350 monos siguen vivos" (13/10/2026): tiempo desde el inicio del juego
 // (6/10/2026, fecha de las bases) hasta que alguien complete los 350 (GANADORES[0]).
 // Sin librerías ni peticiones; tamaño fijo (tabular-nums) para no mover la maquetación.
@@ -11,7 +12,7 @@ function partes(ms: number) {
   return [Math.floor(s / 86400), Math.floor((s % 86400) / 3600), Math.floor((s % 3600) / 60), s % 60];
 }
 
-export default function ContadorVivos({ compacto = false }: { compacto?: boolean }) {
+function ContadorVivosInner({ compacto = false }: { compacto?: boolean }) {
   const ganador = GANADORES[0];
   const [ahora, setAhora] = useState(() => Date.now());
   useEffect(() => {
@@ -34,4 +35,11 @@ export default function ContadorVivos({ compacto = false }: { compacto?: boolean
       <span className="inline-block min-w-[16ch] font-black">{d} d {dd(h)} h {dd(m)} min {dd(s)} s</span>
     </p>
   );
+}
+
+// Interruptor del juego (src/config/juego.ts).
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+export default function ContadorVivos(props: any) {
+  if (!JUEGO_MONOS_ACTIVO) return null;
+  return <ContadorVivosInner {...props} />;
 }

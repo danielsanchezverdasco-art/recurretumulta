@@ -1,7 +1,8 @@
+import { JUEGO_MONOS_ACTIVO } from "@/config/juego.ts";
 // Banner discreto de la Caza de monos para posts del blog y fichas (13/10/2026).
 import { Link } from "react-router-dom";
 
-export default function BannerJuegoMonos() {
+function BannerJuegoMonosInner() {
   return (
     <aside aria-label="Caza de monos" className="max-w-3xl mx-auto px-4 my-6">
       <Link
@@ -16,4 +17,11 @@ export default function BannerJuegoMonos() {
       </Link>
     </aside>
   );
+}
+
+// Interruptor del juego (src/config/juego.ts).
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+export default function BannerJuegoMonos(props: any) {
+  if (!JUEGO_MONOS_ACTIVO) return null;
+  return <BannerJuegoMonosInner {...props} />;
 }

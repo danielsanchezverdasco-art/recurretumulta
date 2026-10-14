@@ -1,3 +1,4 @@
+import { JUEGO_MONOS_ACTIVO } from "@/config/juego.ts";
 // TutorialCaza — mini-tutorial de descubrimiento orgánico (05/10/2026).
 // Al cazar el PRIMER mono aparece una sola vez: el mono habla en primera
 // persona. Tarjeta flotante NO bloqueante (sin backdrop): se puede cerrar y
@@ -10,7 +11,7 @@ import { useCazaMonos } from "./CazaMonosContext";
 
 const STORAGE_KEY = "caza-monos-tutorial-visto";
 
-export default function TutorialCaza() {
+function TutorialCazaInner() {
   const { total, apodo, setApodo } = useCazaMonos();
   const [visible, setVisible] = useState(false);
   const [borrador, setBorrador] = useState("");
@@ -105,4 +106,11 @@ export default function TutorialCaza() {
       </div>
     </div>
   );
+}
+
+// Interruptor del juego (src/config/juego.ts).
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+export default function TutorialCaza(props: any) {
+  if (!JUEGO_MONOS_ACTIVO) return null;
+  return <TutorialCazaInner {...props} />;
 }
