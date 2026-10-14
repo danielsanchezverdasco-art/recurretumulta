@@ -752,7 +752,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       }
     ],
     fuenteNombre: "km77",
-    fuenteUrl: null,
+    fuenteUrl: "https://www.km77.com/coches/seat/ateca/2020/estandar/estandar/ateca-15-ecotsi-110-kw-150-cv-dsg-7-special-edition/datos",
   },
   {
     id: "seat-arona-10-tsi-95-2026-precio-ficha-tecnica",
@@ -835,7 +835,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       }
     ],
     fuenteNombre: "km77",
-    fuenteUrl: null,
+    fuenteUrl: "https://www.km77.com/coches/seat/arona/2021/estandar/estandar/arona-10-tsi-70-kw-95-cv-style-special-edition/datos",
   },
   {
     id: "seat-leon-15-tsi-115-2026-precio-ficha-tecnica",
@@ -918,7 +918,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       }
     ],
     fuenteNombre: "km77",
-    fuenteUrl: null,
+    fuenteUrl: "https://www.km77.com/coches/seat/leon/2020/5-puertas/estandar/leon-15-tsi-85-kw-116-cv-style-25-aniversario/datos",
   },
   {
     id: "seat-leon-15-etsi-115-2026-precio-ficha-tecnica",
@@ -1001,7 +1001,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       }
     ],
     fuenteNombre: "km77",
-    fuenteUrl: null,
+    fuenteUrl: "https://www.km77.com/coches/seat/leon/2020/5-puertas/estandar/leon-15-etsi-85-kw-115-cv-dsg-style/datos",
   },
   {
     id: "seat-leon-20-tdi-115-2026-precio-ficha-tecnica",
@@ -1084,7 +1084,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       }
     ],
     fuenteNombre: "km77",
-    fuenteUrl: null,
+    fuenteUrl: "https://www.km77.com/coches/seat/leon/2020/5-puertas/estandar/leon-20-tdi-85-kw-115-cv-style/datos",
   },
   {
     id: "seat-leon-sportstourer-15-tsi-150-2026-precio-ficha-tecnica",
@@ -1167,7 +1167,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       }
     ],
     fuenteNombre: "km77",
-    fuenteUrl: null,
+    fuenteUrl: "https://www.km77.com/coches/seat/leon/2020/sportstourer/estandar/leon-sportstourer-15-tsi-110-kw-150-cv-style-special-edition/datos",
   },
   {
     id: "seat-leon-sportstourer-15-etsi-115-2026-precio-ficha-tecnica",
@@ -1250,7 +1250,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       }
     ],
     fuenteNombre: "km77",
-    fuenteUrl: null,
+    fuenteUrl: "https://www.km77.com/coches/seat/leon/2020/sportstourer/estandar/leon-sportstourer-15-etsi-85-kw-115-cv-dsg-style/datos",
   },
   {
     id: "seat-leon-sportstourer-15-etsi-150-2026-precio-ficha-tecnica",
@@ -1333,7 +1333,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       }
     ],
     fuenteNombre: "km77",
-    fuenteUrl: null,
+    fuenteUrl: "https://www.km77.com/coches/seat/leon/2020/sportstourer/estandar/leon-sportstourer-15-etsi-110-kw-150-cv-dsg-style-special-edition2/datos",
   },
   {
     id: "seat-leon-sportstourer-20-tdi-150-2026-precio-ficha-tecnica",
@@ -1350,7 +1350,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     categoria: "Familiar",
     precioDesde: 29682,
     potenciaCv: 150,
-    autonomiaKm: 1000,
+    autonomiaKm: 937,
     maleteroL: 620,
     ceroCien: 8.6,
     velocidadMax: 216,
@@ -1360,7 +1360,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     pros: [
       "4,8 l/100 km y 360 Nm: el devorakilómetros definitivo",
       "DSG de 7 velocidades de serie con el TDI 150",
-      "Autonomía de más de 1.000 km: Madrid-Barcelona sin repostar",
+      "Unos 940 km de autonomía real (depósito de 45 l): Madrid-Barcelona sin repostar",
       "Maletero de 620 litros para viajar en familia",
       "El familiar diésel más equilibrado del Grupo VW"
     ],
@@ -1416,7 +1416,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       }
     ],
     fuenteNombre: "km77",
-    fuenteUrl: null,
+    fuenteUrl: "https://www.km77.com/coches/seat/leon/2020/sportstourer/estandar/leon-sportstourer-20-tdi-110-kw-150-cv-dsg-style-xs/datos",
   },
   {
     id: "seat-leon-sportstourer-20-tdi-115-2026-precio-ficha-tecnica",
@@ -1499,7 +1499,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       }
     ],
     fuenteNombre: "km77",
-    fuenteUrl: null,
+    fuenteUrl: "https://www.km77.com/coches/seat/leon/2020/sportstourer/estandar/leon-sportstourer-20-tdi-85-kw-115-cv-style/datos",
   },
   {
     id: "seat-leon-sportstourer-15-ehybrid-2026-precio-ficha-tecnica",
@@ -1582,7 +1582,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       }
     ],
     fuenteNombre: "km77",
-    fuenteUrl: null,
+    fuenteUrl: "https://www.km77.com/coches/seat/leon/2020/sportstourer/ehybrid/leon-sportstourer-15-e-hybrid-150-kw-204-cv-dsg-fr-xm/datos",
   },
   {
     id: "seat-ateca-20-tdi-115-2026-precio-ficha-tecnica",

@@ -1463,3 +1463,5 @@
 /blog/okai-neon-pro/
 /blog/ford-f-150-lightning-precio-ficha-tecnica/
 /blog/jaguar-e-pace-2025-precio-autonomia/
+/coches/toyota-proace-max-2025-precio-ficha-tecnica/
+/coches/tesla-model-x-plaid-2026-precio-ficha-tecnica/

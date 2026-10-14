@@ -687,7 +687,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "Hasta 7 plazas con asientos individuales extraíbles",
+      "5 plazas amplias con asientos traseros extraíbles",
       "Maletero de 597 litros en versión corta",
       "1.5D de 131 CV con 5,5 l/100 km: gasta poco para su tamaño",
       "Puertas laterales correderas: acceso fácil en parkings",
@@ -695,7 +695,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     ],
     contras: [
       "Etiqueta C: vetada en las ZBE más estrictas a medio plazo",
-      "131 CV justos con 7 ocupantes y equipaje",
+      "131 CV justos con 5 ocupantes y equipaje",
       "Comportamiento de furgoneta: balanceo y ruidos aerodinámicos",
       "Acabados sencillos, pensados para el trabajo",
       "El 2.0D más potente sube mucho el precio",
@@ -706,11 +706,11 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     pesoKg: 1441,
     consumo: 5.5,
     consumoUnidad: "l/100 km",
-    plazas: 7,
+    plazas: 5,
     parNm: 300,
     traccion: "Delantera",
     emisionesCo2: 145,
-    aprox: ["plazas"],
+    aprox: [],
     imagen: "/media/toyota-proace-city-verso-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -721,7 +721,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
       "costeMensualTotal": 214,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimado con 15.000 km/año, consumo WLTP 5,5 l/100 km y diésel a precio de referencia 1,65 €/l; monovolumen de 7 plazas con uso familiar intensivo",
+      "notas": "estimado con 15.000 km/año, consumo WLTP 5,5 l/100 km y diésel a precio de referencia 1,65 €/l; monovolumen de 5 plazas con uso familiar intensivo",
       "estimado": true
     },
     galeria: [
@@ -1852,7 +1852,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     consumo: 8.5,
     consumoUnidad: "l/100 km",
     plazas: 5,
-    parNm: 65,
+    parNm: 500,
     traccion: "Total",
     emisionesCo2: 265,
     aprox: [
