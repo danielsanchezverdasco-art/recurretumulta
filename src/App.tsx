@@ -1,4 +1,5 @@
 import { lazy, Suspense, useEffect, useState } from "react";
+import Relacionados from "@/components/Relacionados";
 import { BrowserRouter, Link, Navigate, Route, Routes, useLocation } from "react-router-dom";
 import { DefaultProviders } from "./components/providers/default.tsx";
 import { ErrorBoundary } from "./components/error-boundary.tsx";
@@ -224,6 +225,7 @@ function FadedRoutes() {
 
         <Route path="*" element={<NotFound />} />
       </Routes>
+      <Relacionados pathname={location.pathname} />
       {/* Caza de monos (05/10/2026): inyección 100% en cliente del mono aleatorio
           de la ruta actual. Suspense propio con fallback null para no bloquear
           el render de la página. Sin tocar el prerender. */}
