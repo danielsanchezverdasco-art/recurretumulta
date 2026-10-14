@@ -446,7 +446,7 @@ function Ficha({ coche }: { coche: CocheComparador }) {
             >
               <DriveInImage
                 src={heroSrc}
-                alt={`Foto oficial del ${nombre}`}
+                alt={`Foto del ${nombre}`}
                 eager={true}
                 width={dims[heroSrc.split("/").pop() ?? ""]?.[0]}
                 height={dims[heroSrc.split("/").pop() ?? ""]?.[1]}
@@ -458,14 +458,14 @@ function Ficha({ coche }: { coche: CocheComparador }) {
           ) : (
           <div className="flex aspect-video w-full flex-col items-center justify-center gap-2 rounded-3xl bg-gradient-to-br from-gray-100 to-gray-200">
             <span className="text-5xl font-black text-gray-300">{coche.marca.charAt(0)}</span>
-            <p className="text-sm font-semibold text-gray-500">Foto oficial pendiente de verificación</p>
+            <p className="text-sm font-semibold text-gray-500">Foto pendiente de verificación</p>
           </div>
           )}
           {heroOk && <CreditoFoto src={heroSrc} />}
           {lightbox && heroOk && (
             <Lightbox
               src={heroSrc}
-              alt={`Foto oficial del ${nombre}`}
+              alt={`Foto del ${nombre}`}
               onClose={() => setLightbox(false)}
             />
           )}
@@ -716,14 +716,14 @@ function Ficha({ coche }: { coche: CocheComparador }) {
               />
             </div>
             <figcaption className="mt-2 text-center text-xs text-gray-500">
-              Foto oficial de {coche.marca} · Interior del {nombre}
+              Foto de {coche.marca} · Interior del {nombre}
             </figcaption>
           </figure>
         )}
 
         {(coche.galeria?.length ?? 0) > 0 && (
           <Suspense fallback={null}>
-          <section className="mt-8" aria-label="Galería de fotos oficiales">
+          <section className="mt-8" aria-label="Galería de fotos">
             <NightGallery label="Galería">
             <div className="mt-3 flex snap-x snap-mandatory gap-3 overflow-x-auto pb-2 sm:grid sm:grid-cols-3 sm:overflow-visible">
               {coche.galeria!.map((f) => (

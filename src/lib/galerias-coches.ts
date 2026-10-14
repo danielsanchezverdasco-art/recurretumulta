@@ -110,10 +110,14 @@ export const GALERIAS_COCHES: Record<string, FotoCarrusel[]> = {
     { src: "/media/smart-5-electrico-ficha-tecnica-precio-interior-oficial.webp", alt: "Interior del Smart #5 en fotografía oficial de la marca", credito: "Foto oficial de Smart" },
     { src: "/media/smart-5-electrico-ficha-tecnica-precio-interior-oficial-2.webp", alt: "Habitáculo del Smart #5 (foto oficial)", credito: "Foto oficial de Smart" },
   ],
+  "fangchengbao-ti-9-2026": [
+    { src: "/media/fangchengbao-ti-9-2026-hero.webp", alt: "Fang Cheng Bao Ti 9, SUV híbrido de 5,27 m, lateral con las puertas abiertas", credito: "Foto: Fang Cheng Bao (prensa) / Híbridos y Eléctricos (distribución)" },
+    { src: "/media/fangchengbao-ti-9-2026-oficial.webp", alt: "Fang Cheng Bao Ti 9, trasera tres cuartos con piloto vertical en forma de T", credito: "Foto: Fang Cheng Bao (prensa) / Híbridos y Eléctricos (distribución)" },
+    { src: "/media/fangchengbao-ti-9-2026-interior.webp", alt: "Interior del Fang Cheng Bao Ti 9 con pantalla panorámica de 30 pulgadas", credito: "Foto: Fang Cheng Bao (prensa) / Híbridos y Eléctricos (distribución)" },
+  ],
   "smart-2-2026-precio-autonomia-paris": [
-    { src: "/media/smart-2-2026-precio-autonomia-paris-hero.webp", alt: "smart #2, el nuevo biplaza eléctrico urbano, en una calle europea", credito: "Imagen ilustrativa generada por IA" },
-    { src: "/media/smart-2-2026-precio-autonomia-paris-oficial.webp", alt: "smart #2, urbano eléctrico biplaza, tres cuartos delantero", credito: "Imagen ilustrativa generada por IA" },
-    { src: "/media/smart-2-2026-precio-autonomia-paris-interior-oficial.webp", alt: "Interior del smart #2 con asiento corrido y módulo central en forma de S", credito: "Imagen ilustrativa generada por IA" },
+    { src: "/media/smart-2-2026-precio-autonomia-paris-hero.webp", alt: "smart #2 rojo, trasera tres cuartos con la insignia #2", credito: "Foto: smart (prensa) / Somos Eléctricos (distribución)" },
+    { src: "/media/smart-2-2026-precio-autonomia-paris-interior-oficial.webp", alt: "Interior del smart #2 con volante smart, pantalla de 10,1 pulgadas y aireadores de turbina", credito: "Foto: smart (prensa) / Somos Eléctricos (distribución)" },
   ],
   "smart-3-2026-precio-ficha-tecnica": [
     { src: "/media/smart-3-2026-precio-ficha-tecnica-hero.webp", alt: "smart #3, SUV coupé eléctrico, en carretera de montaña al atardecer", credito: "Imagen ilustrativa generada por IA" },

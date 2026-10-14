@@ -37,6 +37,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "etwow-gt-se": () => import("../blog-posts-patinetes-exp-p4.ts"),
     "etwow-gt-se-sport": () => import("../blog-posts-patinetes-exp-p4.ts"),
     "etwow-s2-booster-plus": () => import("../blog-posts-patinetes-exp-p9.ts"),
+    "europa-retrasa-coche-autonomo-espana-pruebas": () => import("../blog-posts-opinion-20261014.ts"),
     "evercross-a1": () => import("../blog-posts-patinetes-exp-p9.ts"),
     "evercross-ev08e": () => import("../blog-posts-patinetes-exp-p4.ts"),
     "evercross-ev10-max": () => import("../blog-posts-patinetes-exp-p4.ts"),

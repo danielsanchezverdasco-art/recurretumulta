@@ -3341,7 +3341,6 @@ bultaco-brinco-2026-precio-ficha-tecnica
 mecatecno-t8-2026-precio-ficha-tecnica
 electric-motion-escape-r-2026-precio-ficha-tecnica
 volkswagen-id-tiguan-2026-precio-ficha-tecnica
-
 byd-shark-6-2025-precio-autonomia
 xpeng-p7-2025-precio-autonomia
 mg-4-urban-ev-2026-precio-autonomia
@@ -3808,4 +3807,10 @@ mercedes-amg-one-2025-precio-ficha-tecnica
 mercedes-gls-2025-precio-ficha-tecnica
 jaguar-i-pace-2025-precio-ficha-tecnica
 jaguar-f-pace-2025-precio-ficha-tecnica
-fangchengbao-tai-9-suv-6-plazas
+fangchengbao-ti-9-2026-precio-ficha-tecnica
+ds-f3ver-concept-paris-2026
+fiat-multiplay-concept-paris-2026
+opel-stx-concept-paris-2026
+peugeot-rcz-vision-concept-paris-2026
+cuotas-hibridos-chinos-ue-china-2026
+europa-retrasa-coche-autonomo-espana-pruebas

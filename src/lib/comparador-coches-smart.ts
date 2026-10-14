@@ -8,10 +8,21 @@ import type { CocheComparador } from "./comparador-coches-data.ts";
 
 export const COCHES_SMART: CocheComparador[] = [
   {
+    // smart #2 — ACTUALIZADO 14/10/2026 (lote prioritario): datos verificados de la
+    // presentación de París (12–13/10/2026) y garantía oficial smart España.
+    // La ficha YA existía con datos del Concept #2 (precio null, largo 2.792,
+    // maletero null) e imágenes IA que NO existían en disco: se actualiza EN EL
+    // MISMO id (el blog ya enlaza a esta URL; NO crear una segunda ficha).
+    // Fotos: prensa distribuida por Somos Eléctricos (licencia desconocida),
+    // verificadas visualmente 13–14/10/2026. La foto hero y la oficial son el
+    // mismo archivo (byte a byte idénticos): solo hay 2 fotos distintas
+    // (exterior + interior). La galería muestra solo el interior para no
+    // repetir el hero. Mantenimiento: A VERIFICAR (smart aún no
+    // publica el programa del #2) → costeMensual: null, sin cifras inventadas.
     id: "smart-2-2026-precio-autonomia-paris",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
-    garantiaBateriaDegradacionPct: null,
+    garantiaBateriaAnos: 8,
+    garantiaBateriaKm: 200000,
+    garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/smart-2-2026-precio-autonomia-paris-oficial.webp",
     imagenInteriorOficial: "/media/smart-2-2026-precio-autonomia-paris-interior-oficial.webp",
     videoId: null,
@@ -20,73 +31,61 @@ export const COCHES_SMART: CocheComparador[] = [
     modelo: "#2",
     tipo: "Eléctrico",
     categoria: "Urbano",
-    precioDesde: null,
+    precioDesde: 19990,
     potenciaCv: 82,
     autonomiaKm: 290,
-    maleteroL: null,
-    ceroCien: null,
-    velocidadMax: null,
+    maleteroL: 305,
+    ceroCien: 11.6,
+    velocidadMax: 140,
     bateriaKwh: 35.8,
     cargaRapidaKw: 65,
     etiquetaDgt: "Cero",
     pros: [
-      "El biplaza urbano de siempre: 2,79 m de largo y radio de giro de 6,95 m para la ciudad",
-      "Batería CATL de 35,8 kWh con 290 km WLTP: de lo mejor del segmento urbano",
-      "Carga rápida del 10 al 80 % en menos de 20 minutos con cargador de 65 kW",
+      "El biplaza urbano de siempre: 2,75 m de largo y radio de giro de 6,95 m para la ciudad",
+      "Batería LFP CATL de 35,8 kWh con 290 km WLTP (cifra provisional, pendiente de homologación)",
+      "Carga rápida del 10 al 80 % en unos 20 minutos con cargador de 65 kW",
       "Célula Tridion Cell Evo con acero de 1.800 MPa y 7 airbags: seguridad de coche grande",
       "Tracción trasera, reparto de pesos 50:50 y suspensión multibrazo: diversión de kart",
+      "Maletero de 305 litros (527 litros con el asiento del acompañante abatido)",
+      "Precio desde 19.990 € (Pure), sin gastos de transporte y matriculación",
     ],
     contras: [
-      "Precio aún sin confirmar y en proceso de homologación europea",
       "Dos plazas y dos puertas: cero flexibilidad para viajar en familia",
       "82 CV: de sobra en ciudad, justos en autopista",
-      "Maletero sin dato oficial: el espacio de carga será escaso",
+      "Autonomía WLTP provisional, pendiente de homologación definitiva",
+      "Mantenimiento: intervalos y costes aún no publicados por smart (a verificar)",
       "Red smart pequeña en España frente a generalistas",
+      "Sin datos EuroNCAP",
     ],
-    largoMm: 2792,
-    anchoMm: 1670,
-    altoMm: 1560,
-    pesoKg: null,
-    consumo: null,
-    consumoUnidad: null,
+    largoMm: 2746,
+    anchoMm: 1760,
+    altoMm: 1555,
+    pesoKg: 1140,
+    consumo: 13.6,
+    consumoUnidad: "kWh/100 km",
     plazas: 2,
-    parNm: null,
+    parNm: 130,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["largoMm", "anchoMm", "altoMm"],
+    aprox: ["autonomiaKm"],
     imagen: "/media/smart-2-2026-precio-autonomia-paris-hero.webp",
+    analisisSlug: "smart-2-2026-precio-autonomia-paris",
     opiniones: [],
-    costeMensual: {
-      "costeEnergia100km": 2.3,
-      "seguroTercerosAnual": 500,
-      "seguroAmpliadoAnual": 900,
-      "mantenimientoAnual": 250,
-      "costeMensualTotal": 119,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.85,
-      "notas": "precio oficial sin publicar (se revela el 12/10/2026 en París); consumo estimado aprox 12,5 kWh/100 km por segmento urbano; dimensiones del Concept #2, pendientes de homologación europea",
-      "estimado": true
-    },
+    costeMensual: null,
     galeria: [
       {
-        "src": "/media/smart-2-2026-precio-autonomia-paris-oficial.webp",
-        "alt": "smart #2, urbano eléctrico biplaza, tres cuartos delantero",
-        "ancho": 1200,
-        "alto": 800
-      },
-      {
         "src": "/media/smart-2-2026-precio-autonomia-paris-interior-oficial.webp",
-        "alt": "Interior del smart #2 con asiento corrido y módulo central en forma de S",
-        "ancho": 1200,
-        "alto": 800
-      },
-      {
-        "src": "/media/smart-2-2026-precio-autonomia-paris-hero.webp",
-        "alt": "smart #2 circulando por una calle estrecha del centro de una ciudad europea",
-        "ancho": 1200,
-        "alto": 800
+        "alt": "Interior del smart #2 con volante smart, pantalla de 10,1 pulgadas y aireadores de turbina",
+        "ancho": 1280,
+        "alto": 720
       }
     ],
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: no hay prueba publicada para el smart #2.",
+    },
   },
   {
     id: "smart-3-2026-precio-ficha-tecnica",
