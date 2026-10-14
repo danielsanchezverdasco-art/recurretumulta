@@ -378,7 +378,9 @@
 .anim-gauge-pop { opacity: 0; animation: rtmGaugePop 0.4s ease-out 0.4s forwards; }
 
 /* Reveal al hacer scroll (sustituye whileInView): sin CLS, solo opacity+transform */
-.rtm-reveal { opacity: 0; transform: translateY(var(--reveal-y, 20px)); transition: opacity 0.6s ease-out, transform 0.6s cubic-bezier(0.22, 1, 0.36, 1); }
+/* Visible por defecto: solo se oculta si el script inline de index.html pone html.rv; a los 2,5 s se quita SIEMPRE (fallo móvil 14/10: si JS no hidrata, todo quedaba invisible) */
+.rtm-reveal { transition: opacity 0.6s ease-out, transform 0.6s cubic-bezier(0.22, 1, 0.36, 1); }
+html.rv .rtm-reveal:not(.is-inview) { opacity: 0; transform: translateY(var(--reveal-y, 20px)); }
 .rtm-reveal.is-inview { opacity: 1; transform: none; }
 
 /* Re-montaje con entrada (sustituye AnimatePresence mode="wait") */
