@@ -18,6 +18,7 @@ import { PATINETES_EXP_P10 } from "./comparador-patinetes-exp-p10.ts";
 import { PATINETES_EXP_P11 } from "./comparador-patinetes-exp-p11.ts";
 import { PATINETES_EXP_P12 } from "./comparador-patinetes-exp-p12.ts";
 import { PATINETES_BASE } from "./comparador-patinetes-base.ts";
+import { PATINETES_TANDA_20261014_P1 } from "./comparador-patinetes-tanda-20261014-p1.ts";
 
 /** Foto oficial de prensa para la galería de la ficha del patinete (nunca IA). */
 export interface FotoGaleriaPatinete {
@@ -91,6 +92,7 @@ export const PATINETES_COMPARADOR: PatineteComparador[] = [
   ...PATINETES_EXP_P10,
   ...PATINETES_EXP_P11,
   ...PATINETES_EXP_P12,
+  ...PATINETES_TANDA_20261014_P1,
 ];
 
 /** ¿Está el modelo en la base local? Devuelve su id o null. */
