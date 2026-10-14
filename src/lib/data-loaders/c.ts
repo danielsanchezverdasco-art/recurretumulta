@@ -187,6 +187,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "cuanto-tarda-dgt-en-responder-recurso": () => import("../blog-posts-demanda-2026.ts"),
     "cuanto-tarda-en-llegar-una-multa-de-radar": () => import("../blog-posts-longtail-1.ts"),
     "cumbre-mundial-motos-seguras-zaragoza-2026": () => import("../blog-posts-flash-2026.ts"),
+    "cuotas-hibridos-chinos-ue-china-2026": () => import("../blog-posts-prioridad-20261014.ts"),
     "cupra-ateca-190-2025-precio-ficha-tecnica": () => import("../blog-posts-cupra-a.ts"),
     "cupra-ateca-vz-300-2025-precio-ficha-tecnica": () => import("../blog-posts-cupra-a.ts"),
     "cupra-born-190-2026-precio-ficha-tecnica": () => import("../blog-posts-cupra-a.ts"),

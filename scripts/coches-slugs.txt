@@ -2267,7 +2267,6 @@ foton-general-g9-2026-precio-ficha-tecnica
 chery-arrizo-5-gt-2026-precio-ficha-tecnica
 jac-js6-2026-precio-ficha-tecnica
 volkswagen-id-tiguan
-
 byd-shark-6-2025-precio-ficha-tecnica
 xpeng-p7-2025-nueva-generacion-precio-ficha-tecnica
 mg-4-urban-ev-2026-precio-ficha-tecnica
@@ -2405,3 +2404,4 @@ gmc-yukon-2025
 cadillac-escalade-2026
 xpeng-g6-awd-performance-2026
 xpeng-g9-awd-performance-2026
+fangchengbao-ti-9-2026

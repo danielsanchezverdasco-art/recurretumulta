@@ -7,7 +7,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "fangchengbao-bao-3-2025-precio-ficha-tecnica": () => import("../blog-posts-batch2b-6.ts"),
     "fangchengbao-byd-marca-desconocida-formula-s-bao-5": () => import("../blog-posts-modelos-desconocidos.ts"),
     "fangchengbao-tai-3-2025-precio-ficha-tecnica": () => import("../blog-posts-lote2.ts"),
-    "fangchengbao-tai-9-suv-6-plazas": () => import("../blog-posts-modelos-desconocidos.ts"),
+    "fangchengbao-ti-9-2026-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "fantic-caballero-500-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m6.ts"),
     "fantic-caballero-700-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m6.ts"),
     "fantic-caballero-700-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m13.ts"),
@@ -67,6 +67,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "fiat-grande-panda-ev-113-2025-precio-ficha-tecnica": () => import("../blog-posts-fiat-a.ts"),
     "fiat-grande-panda-hibrido-2025-precio-ficha-tecnica": () => import("../blog-posts-fiat-a.ts"),
     "fiat-grizzly-fastback-paris-2026": () => import("../blog-posts-motor-2026-o.ts"),
+    "fiat-multiplay-concept-paris-2026": () => import("../blog-posts-prioridad-20261014.ts"),
     "fiat-panda-pandina-2025-precio-hibrido": () => import("../blog-posts-lote16.ts"),
     "fiat-pandina-2024-precio-ficha-tecnica": () => import("../blog-posts-fiat-a.ts"),
     "fiat-scudo-20-mjt-180-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp8.ts"),
@@ -133,6 +134,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
   coche: {
     "fangchengbao-bao-3-2025-precio-ficha-tecnica": () => import("../comparador-coches-lote11.ts"),
     "fangchengbao-tai-3-2025-precio-ficha-tecnica": () => import("../comparador-coches-lote2.ts"),
+    "fangchengbao-ti-9-2026": () => import("../comparador-coches-prioridad-20261014.ts"),
     "ferrari-12cilindri-2025-precio-ficha-tecnica": () => import("../comparador-coches-ferrari.ts"),
     "ferrari-12cilindri-manuale-2026-precio-ficha-tecnica": () => import("../comparador-coches-ferrari.ts"),
     "ferrari-12cilindri-spider-2025-precio-ficha-tecnica": () => import("../comparador-coches-ferrari.ts"),
@@ -268,6 +270,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
   },
   historia: {
     "fangchengbao-tai-3-2025-precio-ficha-tecnica": () => import("../historia-lote2.ts"),
+    "fangchengbao-ti-9-2026": () => import("../historia-modelos.ts"),
     "fantic-caballero-700-2026-ficha-tecnica-precio": () => import("../historia-m13.ts"),
     "fantic-stealth-500-2026-ficha-tecnica-precio": () => import("../historia-lote8.ts"),
     "fantic-xe-300-2025-ficha-tecnica-precio": () => import("../historia-m13.ts"),
@@ -397,6 +400,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
   },
   galeria: {
     "fangchengbao-byd-marca-desconocida-formula-s-bao-5": () => import("../galerias-coches.ts"),
+    "fangchengbao-ti-9-2026": () => import("../galerias-coches.ts"),
     "ferrari-12cilindri-manuale-2026-precio-ficha-tecnica": () => import("../galerias-coches.ts"),
     "ferrari-296-speciale-piloti-2025-precio-ficha-tecnica": () => import("../galerias-coches.ts"),
     "ferrari-812-gts-2024-precio-ficha-tecnica": () => import("../galerias-coches.ts"),

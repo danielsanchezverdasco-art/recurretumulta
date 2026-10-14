@@ -64,6 +64,8 @@
 | /media/aion-v-vs-deepal-s05-cual-comprar-cuerpo.webp | https://commons.wikimedia.org/wiki/File:Aion_V_006.jpg | Jengtingchen | CC BY-SA 4.0 |
 | /media/sym-symphony-sr-125-abs-2026-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:SYM_Symphony_SR_125.jpg | AVMOTO | CC BY-SA 4.0 |
 
+| /media/cuotas-hibridos-chinos-ue-china-2026-hero.webp | https://commons.wikimedia.org/wiki/File:Bremerhaven,_%C3%9Cberseehafen,_Autotransporter_%22Lydden%22_und_Wallenius-Wilhelmsen-Autotransporter_--_2024_--_2269.jpg | Dietmar Rabich | CC BY-SA 4.0 |
+
 ## Fotos oficiales de prensa / web oficial del fabricante
 
 | Archivo | Fuente | Autor | Licencia |
@@ -176,3 +178,23 @@
 | /media/ktm-rc-390-2026-ficha-tecnica-precio-1-card.webp | https://www.ktm.com/ | KTM | prensa |
 | /media/husqvarna-svartpilen-401-2026-ficha-tecnica-precio-1.webp | https://www.husqvarna-motorcycles.com/ | Husqvarna | prensa |
 | /media/husqvarna-svartpilen-401-2026-ficha-tecnica-precio-1-card.webp | https://www.husqvarna-motorcycles.com/ | Husqvarna | prensa |
+
+## Fotos de prensa distribuidas por medios terceros (no descargadas del media site oficial; licencia desconocida)
+
+| Archivo | Fuente | Autor | Licencia |
+|---|---|---|---|
+| /media/fangchengbao-ti-9-2026-hero.webp | https://www.hibridosyelectricos.com/coches/byd-prepara-gigantesco-suv-hibrido-527-metros-con-2300-km-autonomia-bateria-se-recarga-en-solo-9-minutos_89828_102.html | Fang Cheng Bao (prensa) / Híbridos y Eléctricos (distribución; licencia desconocida) | prensa |
+| /media/fangchengbao-ti-9-2026-oficial.webp | https://www.hibridosyelectricos.com/coches/byd-prepara-gigantesco-suv-hibrido-527-metros-con-2300-km-autonomia-bateria-se-recarga-en-solo-9-minutos_89828_102.html | Fang Cheng Bao (prensa) / Híbridos y Eléctricos (distribución; licencia desconocida) | prensa |
+| /media/fangchengbao-ti-9-2026-interior.webp | https://www.hibridosyelectricos.com/coches/byd-prepara-gigantesco-suv-hibrido-527-metros-con-2300-km-autonomia-bateria-se-recarga-en-solo-9-minutos_89828_102.html | Fang Cheng Bao (prensa) / Híbridos y Eléctricos (distribución; licencia desconocida) | prensa |
+| /media/smart-2-2026-precio-autonomia-paris-hero.webp | https://www.somoselectricos.com/coches-electricos/mitico-smart-fortwo-vuelve-como-electrico-290-km-autonomia-precio-19990-E/20261013070003064290.html | smart (prensa) / Somos Eléctricos (distribución; licencia desconocida) | prensa |
+| /media/smart-2-2026-precio-autonomia-paris-oficial.webp | https://www.somoselectricos.com/coches-electricos/mitico-smart-fortwo-vuelve-como-electrico-290-km-autonomia-precio-19990-E/20261013070003064290.html | smart (prensa) / Somos Eléctricos (distribución; licencia desconocida) | prensa |
+| /media/smart-2-2026-precio-autonomia-paris-interior-oficial.webp | https://www.somoselectricos.com/coches-electricos/mitico-smart-fortwo-vuelve-como-electrico-290-km-autonomia-precio-19990-E/20261013070003064290.html | smart (prensa) / Somos Eléctricos (distribución; licencia desconocida) | prensa |
+| /media/ds-f3ver-concept-paris-2026-hero.webp | https://moparinsiders.com/stellantis-reveals-the-electric-ds-f3ver-concept/ | DS Automobiles (prensa) / MoparInsiders (distribución; licencia desconocida) | prensa |
+| /media/ds-f3ver-concept-paris-2026-perfil.webp | https://moparinsiders.com/stellantis-reveals-the-electric-ds-f3ver-concept/ | DS Automobiles (prensa) / MoparInsiders (distribución; licencia desconocida) | prensa |
+| /media/fiat-multiplay-concept-paris-2026-hero.webp | https://www.designboom.com/technology/fiat-multiplay-concept-family-car-pickup-sliding-rear-module-paris-motor-show-2026/ | FIAT (prensa) / designboom (distribución; licencia desconocida) | prensa |
+| /media/fiat-multiplay-concept-paris-2026-pickup-perfil.webp | https://www.designboom.com/technology/fiat-multiplay-concept-family-car-pickup-sliding-rear-module-paris-motor-show-2026/ | FIAT (prensa) / designboom (distribución; licencia desconocida) | prensa |
+| /media/opel-stx-concept-paris-2026-hero.webp | https://www.carscoops.com/2026/10/opel-is-keeping-the-estate-alive-with-its-stx-concept/ | Opel / Stellantis (prensa) / Carscoops (distribución; licencia desconocida) | prensa |
+| /media/opel-stx-concept-paris-2026-trasera.webp | https://www.carscoops.com/2026/10/opel-is-keeping-the-estate-alive-with-its-stx-concept/ | Opel / Stellantis (prensa) / Carscoops (distribución; licencia desconocida) | prensa |
+| /media/peugeot-rcz-vision-concept-paris-2026-hero.webp | https://autobuzz.my/2026/10/13/the-peugeot-rcz-is-now-reimagined-as-an-ev/ | PEUGEOT (prensa) / AutoBuzz.my (distribución; licencia desconocida) | prensa |
+| /media/peugeot-rcz-vision-concept-paris-2026-trasera.webp | https://autobuzz.my/2026/10/13/the-peugeot-rcz-is-now-reimagined-as-an-ev/ | PEUGEOT (prensa) / AutoBuzz.my (distribución; licencia desconocida) | prensa |
+| /media/peugeot-rcz-vision-concept-paris-2026-interior.webp | https://autobuzz.my/2026/10/13/the-peugeot-rcz-is-now-reimagined-as-an-ev/ | PEUGEOT (prensa) / AutoBuzz.my (distribución; licencia desconocida) | prensa |

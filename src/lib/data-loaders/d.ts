@@ -142,6 +142,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "ds-7-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp10.ts"),
     "ds-9-e-tense-2026-precio-ficha-tecnica": () => import("../blog-posts-batch2b-5.ts"),
     "ds-9-e-tense-250-2026-precio-ficha": () => import("../blog-posts-lote3.ts"),
+    "ds-f3ver-concept-paris-2026": () => import("../blog-posts-prioridad-20261014.ts"),
     "ds-n4-e-tense-213-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp20.ts"),
     "ds-n4-hibrido-145-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp20.ts"),
     "ds-n7-nueva-generacion-salon-paris-2026": () => import("../blog-posts-feed-2026-10-06.ts"),

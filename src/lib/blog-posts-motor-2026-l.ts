@@ -65,7 +65,7 @@ Limitar sus importaciones con **cuotas**: por encima de un volumen fijado se pag
 Si las cuotas se aprueban, **sí**: el arancel encarecería los PHEV chinos que hoy compiten por precio (Omoda, Jaecoo, BYD). Aún no hay fechas ni volúmenes oficiales.
 
 ### ¿Qué coches híbridos chinos se venden en España?
-Los principales son el **Omoda 9 SHS**, el **Jaecoo 7 SHS** y el **BYD Seal U DM-i** (enchufables, etiqueta Cero) y el **MG HS Hybrid+** (híbrido convencional, etiqueta ECO).
+Los principales son el **Omoda 9 SHS**, el **Jaecoo 7 SHS** y el **BYD Seal U DM-i** (enchufables, etiqueta Cero) y el **MG HS Hybrid+** (híbrido convencional, etiqueta ECO).\\n\\n*Actualización: la serie continúa con la tercera entrega, que fija el cupo en 350.000 híbridos chinos al año: <a href=/blog/cuotas-hibridos-chinos-ue-china-2026/>Cuota de 350.000 híbridos chinos: qué cambia en España</a>.*
 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,

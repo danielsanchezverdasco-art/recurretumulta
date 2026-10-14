@@ -65,6 +65,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "opel-movano-22-diesel-180-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp8.ts"),
     "opel-movano-electrico-2025-precio-ficha-tecnica": () => import("../blog-posts-opel-a.ts"),
     "opel-rocks-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp8.ts"),
+    "opel-stx-concept-paris-2026": () => import("../blog-posts-prioridad-20261014.ts"),
     "opel-vivaro-20-diesel-180-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp8.ts"),
     "opel-vivaro-electrico-2025-precio-ficha-tecnica": () => import("../blog-posts-opel-a.ts"),
     "opel-zafira-20-diesel-180-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp20.ts"),

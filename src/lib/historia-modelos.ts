@@ -1138,6 +1138,7 @@ export const HISTORIA_MODELOS: Record<string, HistoriaModelo> = {
   "roewe-i6-2026-precio-ficha-tecnica": { lanzamiento: 2017, hitos: [{ anio: 2017, tipo: "lanzamiento", cambio: null, foto: "/media/historia-roewe-i6-2026-precio-ficha-tecnica-2017.webp" }] },
   "roewe-jiayue-07-2026-precio-ficha-tecnica": { lanzamiento: 2026, hitos: [{ anio: 2026, tipo: "lanzamiento", cambio: null, foto: null }] },
   "smart-2-2026-precio-autonomia-paris": { lanzamiento: 2026, hitos: [{ anio: 2026, tipo: "lanzamiento", cambio: null, foto: null }] },
+  "fangchengbao-ti-9-2026": { lanzamiento: 2026, hitos: [{ anio: 2026, tipo: "lanzamiento", cambio: null, foto: null }] },
   "smart-3-2026-precio-ficha-tecnica": { lanzamiento: 2023, hitos: [{ anio: 2023, tipo: "lanzamiento", cambio: null, foto: "/media/historia-smart-3-2026-precio-ficha-tecnica-2023.webp" }] },
   "smart-3-brabus-2026-precio-ficha-tecnica": { lanzamiento: 2023, hitos: [{ anio: 2023, tipo: "lanzamiento", cambio: null, foto: "/media/historia-smart-3-brabus-2026-precio-ficha-tecnica-2023.webp" }] },
   "tank-300-diesel-2025-precio-ficha-tecnica": { lanzamiento: 2020, hitos: [{ anio: 2020, tipo: "lanzamiento", cambio: null, foto: "/media/historia-tank-300-diesel-2025-precio-ficha-tecnica-2020.webp" }] },

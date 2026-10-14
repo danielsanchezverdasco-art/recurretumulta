@@ -37548,25 +37548,6 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 4
   },
   {
-    "slug": "fangchengbao-tai-9-suv-6-plazas",
-    "title": "Tai 9: el buque insignia de Fangchengbao ya está aquí",
-    "excerpt": "El Fangchengbao Tai 9 es el nuevo buque insignia de BYD: SUV híbrido de 5,27 m, 6 plazas, 310 km eléctricos y 544 CV. Llega a China a finales de 2026.",
-    "category": "Modelos desconocidos",
-    "date": "2026-10-12",
-    "locale": "all",
-    "heroSrc": "/media/fangchengbao-tai-9-hero.webp",
-    "heroAlt": "SUV insignia híbrido enchufable chino de más de 5,2 metros, negro y dorado, circulando por una carretera de montaña al atardecer",
-    "keywords": [
-      "Fangchengbao Tai 9",
-      "Tai 9 precio",
-      "BYD Ti 9",
-      "SUV chino 6 plazas",
-      "Fangchengbao buque insignia",
-      "coches chinos desconocidos"
-    ],
-    "readTime": 5
-  },
-  {
     "slug": "anfac-septiembre-2026-record-electrificacion-model-3-lider",
     "title": "Récord: el eléctrico ya es el 34% del mercado español",
     "excerpt": "Septiembre de 2026, récord del eléctrico en España: los electrificados llegaron al 34% del mercado y el Tesla Model 3 fue el coche más vendido del país.",
@@ -66709,6 +66690,116 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 4
   },
   {
+    "slug": "fangchengbao-ti-9-2026-precio-ficha-tecnica",
+    "title": "Fang Cheng Bao Ti 9: precio a confirmar y 2.300 km",
+    "excerpt": "El Fang Cheng Bao Ti 9 (también llamado Tai 9) es el SUV híbrido enchufable de 5,27 m y 6 plazas de BYD: 310 km eléctricos y 2.300 km totales declarados. Precio a confirmar.",
+    "category": "Modelos desconocidos",
+    "date": "2026-10-14",
+    "locale": "all",
+    "heroSrc": "/media/fangchengbao-ti-9-2026-hero.webp",
+    "heroAlt": "Fang Cheng Bao Ti 9, SUV híbrido de 5,27 m, lateral con las puertas abiertas",
+    "keywords": [
+      "Fangchengbao Ti 9",
+      "Ti 9 precio",
+      "Fangchengbao Tai 9",
+      "BYD Ti 9",
+      "SUV chino 6 plazas",
+      "Ti 9 ficha técnica"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "ds-f3ver-concept-paris-2026",
+    "title": "DS F3VER concept París 2026: 4,19 m y maletero de 400 litros",
+    "excerpt": "El DS F3VER es el concept eléctrico con el que DS abre su nuevo capítulo de diseño en París 2026: 4,19 m, 400 litros de maletero, luz en Y y 16 paneles LED traseros. Sin precio ni fecha de venta.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "all",
+    "heroSrc": "/media/ds-f3ver-concept-paris-2026-hero.webp",
+    "heroAlt": "DS F3VER Concept, frontal con emblema DS iluminado y firma luminosa en Y",
+    "keywords": [
+      "DS F3VER",
+      "F3VER concept",
+      "DS F3VER París 2026",
+      "concept DS eléctrico",
+      "DS Nº 3 futuro"
+    ],
+    "readTime": 10
+  },
+  {
+    "slug": "fiat-multiplay-concept-paris-2026",
+    "title": "FIAT Multiplay: concept 3 en 1 de 4,45 m en París 2026",
+    "excerpt": "El FIAT Multiplay es un concept 3 en 1 de 4,45 m: familiar 6+1 que se transforma en pick-up de 4 plazas con la arquitectura Metamorfosi. Laboratorio de ideas, no coche de serie.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "all",
+    "heroSrc": "/media/fiat-multiplay-concept-paris-2026-hero.webp",
+    "heroAlt": "FIAT Multiplay Concept, frontal tres cuartos en verde sandía con parrilla pixelada",
+    "keywords": [
+      "FIAT Multiplay",
+      "Multiplay concept",
+      "FIAT Multiplay París 2026",
+      "Multipla nuevo",
+      "FIAT concept pick-up"
+    ],
+    "readTime": 10
+  },
+  {
+    "slug": "opel-stx-concept-paris-2026",
+    "title": "Opel STX Concept: familiar eléctrico total y más de 200 km/h",
+    "excerpt": "El Opel STX Concept es la visión de Opel para el familiar eléctrico: tracción total, más de 200 km/h, nuevo Vizor y aerodinámica activa. Concept de París 2026, sin precio ni fecha de serie.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "all",
+    "heroSrc": "/media/opel-stx-concept-paris-2026-hero.webp",
+    "heroAlt": "Opel STX Concept, frontal tres cuartos con Vizor de lamelas, Blitz iluminado y detalles azules",
+    "keywords": [
+      "Opel STX Concept",
+      "STX Opel",
+      "Opel familiar eléctrico",
+      "Opel STX París 2026",
+      "Opel Vizor nuevo"
+    ],
+    "readTime": 10
+  },
+  {
+    "slug": "peugeot-rcz-vision-concept-paris-2026",
+    "title": "Peugeot RCZ Vision: 500 CV, 600 km y carga en 10 minutos",
+    "excerpt": "El Peugeot RCZ Vision es el concept eléctrico de París 2026 con 500 CV, hasta 600 km, batería de estado sólido y mando Hypersquare. Manifiesto de marca, no coche a la venta.",
+    "category": "Novedades Motor",
+    "date": "2026-10-14",
+    "locale": "all",
+    "heroSrc": "/media/peugeot-rcz-vision-concept-paris-2026-hero.webp",
+    "heroAlt": "Peugeot RCZ Vision, frontal con tres garras luminosas horizontales, emblema del león y gráfico RCZ",
+    "keywords": [
+      "Peugeot RCZ Vision",
+      "RCZ Vision",
+      "Peugeot RCZ eléctrico",
+      "Hypersquare",
+      "Peugeot concept París 2026"
+    ],
+    "readTime": 13
+  },
+  {
+    "slug": "cuotas-hibridos-chinos-ue-china-2026",
+    "title": "Cuota de 350.000 híbridos chinos: qué cambia en España",
+    "excerpt": "Tercera entrega de la serie: la Comisión fijó el cupo en 350.000 híbridos chinos al año desde el 1 de diciembre, con +6% anual durante 4 años. Qué cambia en España.",
+    "category": "Actualidad",
+    "date": "2026-10-14",
+    "locale": "all",
+    "heroSrc": "/media/cuotas-hibridos-chinos-ue-china-2026-hero.webp",
+    "heroAlt": "Buques portacoches en el puerto europeo de Bremerhaven, por donde llegan los coches importados",
+    "keywords": [
+      "cuota híbridos chinos",
+      "350.000 híbridos chinos",
+      "aranceles híbridos chinos",
+      "UE China híbridos",
+      "Leapmotor Zaragoza",
+      "BYD Szeged"
+    ],
+    "readTime": 12
+  },
+  {
     "slug": "radical-sr1-xxr-2025-precio-ficha-tecnica",
     "title": "Radical SR1 XXR: 188 CV y 510 kg por 76.600 €",
     "excerpt": "Precio y ficha técnica del Radical SR1 XXR: 188 CV, 510 kg, motor RPE Gen5 de 1.340 cc y 0-100 en 3,0 s. El coche de carreras de entrada, desde 76.600 €.",
@@ -68823,7 +68914,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/smart-2-2026-precio-autonomia-paris-hero.webp",
-    "heroAlt": "smart #2, el nuevo biplaza eléctrico urbano, circulando por una calle estrecha de una ciudad europea",
+    "heroAlt": "smart #2 rojo, trasera tres cuartos con la insignia #2",
     "keywords": [
       "smart #2 precio",
       "smart #2 autonomía",
@@ -68832,7 +68923,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "smart #2 batería 35,8 kwh",
       "smart #2 ficha técnica"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "smart-3-2026-precio-ficha-tecnica",
@@ -70613,7 +70704,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "aranceles híbridos chinos UE",
       "Sefcovic China híbridos moderación"
     ],
-    "readTime": 6
+    "readTime": 7
   },
   {
     "slug": "volkswagen-golf-8-2026-precio-ficha-tecnica",

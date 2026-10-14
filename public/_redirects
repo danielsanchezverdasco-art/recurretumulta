@@ -1428,3 +1428,8 @@
 /en/* /:splat 301
 /fr/* /:splat 301
 /pt/* /:splat 301
+
+# 14/10/2026: fusión Ti 9 / Tai 9 — UNA sola página (veredicto: mismo coche 钛9).
+# El blog antiguo «Tai 9» presentaba como potencia combinada la suma de los dos motores.
+/blog/fangchengbao-tai-9-suv-6-plazas/ /blog/fangchengbao-ti-9-2026-precio-ficha-tecnica/ 301!
+/blog/fangchengbao-tai-9-suv-6-plazas /blog/fangchengbao-ti-9-2026-precio-ficha-tecnica/ 301!
