@@ -132,11 +132,13 @@ export const COCHES_BMW: CocheComparador[] = [
     consumo: 5.2,
     consumoUnidad: "l/100 km",
     plazas: 5,
-    parNm: null,
+    parNm: 280,
     traccion: "Delantera",
-    emisionesCo2: null,
+    emisionesCo2: 119,
     aprox: [],
     imagen: "/media/bmw-serie-2-gran-coupe-220-2026-precio-ficha-tecnica-hero.webp",
+    fuenteNombre: "km77.com",
+    fuenteUrl: "https://www.km77.com/coches/bmw/serie-2/2025/gran-coupe/estandar/220-gran-coupe/datos",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 9.6,
@@ -148,6 +150,20 @@ export const COCHES_BMW: CocheComparador[] = [
       precioGasolinaL: 1.85,
       notas: "Estimación con 15.000 km/año: energía 5,2 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para coupé premium compacto.",
       estimado: true
+    },
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: el Serie 2 Gran Coupé (F44) no ha sido probado",
+    },
+    planMantenimiento: {
+      intervalo: "CBS (Condition Based Service): el vehículo determina cuándo necesita mantenimiento según el uso real",
+      revisiones: [
+        { nombre: "Revisión según CBS", queSeCambia: "Lo indicado por el cuadro de mandos: aceite y filtro de aceite, filtros, pastillas de freno, líquido de frenos e inspección general", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW (sistema Condition Based Service)",
     },
     galeria: [
       {
@@ -187,8 +203,8 @@ export const COCHES_BMW: CocheComparador[] = [
     potenciaCv: 190,
     autonomiaKm: null,
     maleteroL: 480,
-    ceroCien: null,
-    velocidadMax: null,
+    ceroCien: 6.9,
+    velocidadMax: 235,
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
@@ -213,11 +229,13 @@ export const COCHES_BMW: CocheComparador[] = [
     consumo: 4.9,
     consumoUnidad: "l/100 km",
     plazas: 5,
-    parNm: null,
+    parNm: 400,
     traccion: "Trasera",
     emisionesCo2: 129,
     aprox: [],
     imagen: "/media/bmw-serie-3-320d-2026-precio-ficha-tecnica-hero.webp",
+    fuenteNombre: "km77.com",
+    fuenteUrl: "https://www.km77.com/coches/bmw/serie-3/2024/datos?market[]=available",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 9.1,
@@ -229,6 +247,20 @@ export const COCHES_BMW: CocheComparador[] = [
       precioGasolinaL: 1.85,
       notas: "Estimación con 15.000 km/año: energía 4,9 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para berlina premium diésel.",
       estimado: true
+    },
+    euroncap: {
+      estrellas: 5,
+      ano: 2019,
+      url: null,
+      nota: "Prueba del BMW Serie 3 (G20), 2019",
+    },
+    planMantenimiento: {
+      intervalo: "CBS (Condition Based Service): el vehículo determina cuándo necesita mantenimiento según el uso real",
+      revisiones: [
+        { nombre: "Revisión según CBS", queSeCambia: "Lo indicado por el cuadro de mandos: aceite y filtro de aceite, filtros, pastillas de freno, líquido de frenos e inspección general", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW (sistema Condition Based Service)",
     },
     galeria: [
       {
@@ -461,6 +493,8 @@ export const COCHES_BMW: CocheComparador[] = [
     emisionesCo2: null,
     aprox: [],
     imagen: "/media/bmw-serie-5-520d-2026-precio-ficha-tecnica-hero.webp",
+    fuenteNombre: "km77.com",
+    fuenteUrl: "https://www.km77.com/coches/bmw/serie-5/2024/berlina/datos?amp=1",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 9.4,
@@ -472,6 +506,20 @@ export const COCHES_BMW: CocheComparador[] = [
       precioGasolinaL: 1.85,
       notas: "Estimación con 15.000 km/año: energía 5,1 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para berlina ejecutiva diésel.",
       estimado: true
+    },
+    euroncap: {
+      estrellas: 5,
+      ano: 2024,
+      url: null,
+      nota: "Prueba del BMW Serie 5 (G60), 2024",
+    },
+    planMantenimiento: {
+      intervalo: "CBS (Condition Based Service): el vehículo determina cuándo necesita mantenimiento según el uso real",
+      revisiones: [
+        { nombre: "Revisión según CBS", queSeCambia: "Lo indicado por el cuadro de mandos: aceite y filtro de aceite, filtros, pastillas de freno, líquido de frenos e inspección general", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW (sistema Condition Based Service)",
     },
     galeria: [
       {
@@ -658,8 +706,8 @@ export const COCHES_BMW: CocheComparador[] = [
   },
   {
     id: "bmw-ix1-xdrive30-2026-precio-ficha-tecnica",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
+    garantiaBateriaAnos: 8,
+    garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bmw-ix1-xdrive30-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/bmw-ix1-xdrive30-2026-precio-ficha-tecnica-interior.webp",
@@ -717,6 +765,20 @@ export const COCHES_BMW: CocheComparador[] = [
       precioGasolinaL: 1.85,
       notas: "Estimación con 15.000 km/año: energía 17 kWh/100 km × 0,18 €/kWh (carga doméstica); en carga pública el coste por km se multiplica.",
       estimado: true
+    },
+    euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: null,
+      nota: "Prueba del BMW X1 (U11), 2022; el iX1 comparte carrocería",
+    },
+    planMantenimiento: {
+      intervalo: "CBS (Condition Based Service): el vehículo determina cuándo necesita mantenimiento según el uso real",
+      revisiones: [
+        { nombre: "Revisión según CBS", queSeCambia: "Lo indicado por el cuadro de mandos: aceite y filtro de aceite, filtros, pastillas de freno, líquido de frenos e inspección general", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW (sistema Condition Based Service)",
     },
     galeria: [
       {
@@ -822,8 +884,8 @@ export const COCHES_BMW: CocheComparador[] = [
   },
   {
     id: "bmw-ix3-50-xdrive-2026-precio-ficha-tecnica",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
+    garantiaBateriaAnos: 8,
+    garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bmw-ix3-50-xdrive-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/bmw-ix3-50-xdrive-2026-precio-ficha-tecnica-interior.webp",
@@ -836,7 +898,7 @@ export const COCHES_BMW: CocheComparador[] = [
     precioDesde: 69900,
     potenciaCv: 469,
     autonomiaKm: 805,
-    maleteroL: null,
+    maleteroL: 520,
     ceroCien: 4.9,
     velocidadMax: 210,
     bateriaKwh: 108,
@@ -856,7 +918,7 @@ export const COCHES_BMW: CocheComparador[] = [
       "Dimensiones y maletero aún sin cifras oficiales publicadas",
       "Las versiones más baratas (40) tardarán en llegar",
     ],
-    largoMm: null,
+    largoMm: 4780,
     anchoMm: null,
     altoMm: null,
     pesoKg: null,
@@ -868,6 +930,8 @@ export const COCHES_BMW: CocheComparador[] = [
     emisionesCo2: 0,
     aprox: [],
     imagen: "/media/bmw-ix3-50-xdrive-2026-precio-ficha-tecnica-hero.webp",
+    fuenteNombre: "km77.com",
+    fuenteUrl: "https://www.km77.com/coches/bmw/ix3/informacion",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 2.7,
@@ -879,6 +943,20 @@ export const COCHES_BMW: CocheComparador[] = [
       precioGasolinaL: 1.85,
       notas: "Estimación con 15.000 km/año: energía 15,1 kWh/100 km × 0,18 €/kWh (carga doméstica); en carga pública el coste por km se multiplica.",
       estimado: true
+    },
+    euroncap: {
+      estrellas: 5,
+      ano: 2026,
+      url: null,
+      nota: "Prueba del BMW iX3 (Neue Klasse), 2026",
+    },
+    planMantenimiento: {
+      intervalo: "CBS (Condition Based Service): el vehículo determina cuándo necesita mantenimiento según el uso real",
+      revisiones: [
+        { nombre: "Revisión según CBS", queSeCambia: "Lo indicado por el cuadro de mandos: aceite y filtro de aceite, filtros, pastillas de freno, líquido de frenos e inspección general", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW (sistema Condition Based Service)",
     },
     galeria: [
       {
@@ -984,8 +1062,8 @@ export const COCHES_BMW: CocheComparador[] = [
   },
   {
     id: "bmw-i4-m50-xdrive-2026-precio-ficha-tecnica",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
+    garantiaBateriaAnos: 8,
+    garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bmw-i4-m50-xdrive-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/bmw-i4-m50-xdrive-2026-precio-ficha-tecnica-interior.webp",
@@ -1002,7 +1080,7 @@ export const COCHES_BMW: CocheComparador[] = [
     ceroCien: 3.9,
     velocidadMax: 225,
     bateriaKwh: 81.1,
-    cargaRapidaKw: null,
+    cargaRapidaKw: 205,
     etiquetaDgt: "Cero",
     pros: [
       "544 CV y 0-100 en 3,9 s: el Gran Coupé eléctrico más rápido de BMW",
@@ -1030,6 +1108,8 @@ export const COCHES_BMW: CocheComparador[] = [
     emisionesCo2: 0,
     aprox: [],
     imagen: "/media/bmw-i4-m50-xdrive-2026-precio-ficha-tecnica-hero.webp",
+    fuenteNombre: "km77.com",
+    fuenteUrl: "https://www.km77.com/coches/bmw/i4/2024/gran-coupe/estandar/i4-m50-xdrive/datos",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 3.2,
@@ -1041,6 +1121,20 @@ export const COCHES_BMW: CocheComparador[] = [
       precioGasolinaL: 1.85,
       notas: "Estimación con 15.000 km/año: energía 17,6 kWh/100 km × 0,18 €/kWh (carga doméstica); en carga pública el coste por km se multiplica.",
       estimado: true
+    },
+    euroncap: {
+      estrellas: 4,
+      ano: 2022,
+      url: null,
+      nota: "Prueba del BMW i4, 2022",
+    },
+    planMantenimiento: {
+      intervalo: "CBS (Condition Based Service): el vehículo determina cuándo necesita mantenimiento según el uso real",
+      revisiones: [
+        { nombre: "Revisión según CBS", queSeCambia: "Lo indicado por el cuadro de mandos: aceite y filtro de aceite, filtros, pastillas de freno, líquido de frenos e inspección general", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW (sistema Condition Based Service)",
     },
     galeria: [
       {
@@ -1189,9 +1283,11 @@ export const COCHES_BMW: CocheComparador[] = [
     plazas: 5,
     parNm: 280,
     traccion: "Delantera",
-    emisionesCo2: null,
+    emisionesCo2: 127,
     aprox: [],
     imagen: "/media/bmw-x1-sdrive20i-2026-precio-ficha-tecnica-hero.webp",
+    fuenteNombre: "km77.com",
+    fuenteUrl: "https://www.km77.com/coches/bmw/x1/2023/estandar/estandar/x1-sdrive20i/datos",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 10.5,
@@ -1203,6 +1299,20 @@ export const COCHES_BMW: CocheComparador[] = [
       precioGasolinaL: 1.85,
       notas: "Estimación con 15.000 km/año: energía 5,7 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para SUV compacto premium.",
       estimado: true
+    },
+    euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: null,
+      nota: "Prueba del BMW X1 (U11), 2022",
+    },
+    planMantenimiento: {
+      intervalo: "CBS (Condition Based Service): el vehículo determina cuándo necesita mantenimiento según el uso real",
+      revisiones: [
+        { nombre: "Revisión según CBS", queSeCambia: "Lo indicado por el cuadro de mandos: aceite y filtro de aceite, filtros, pastillas de freno, líquido de frenos e inspección general", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW (sistema Condition Based Service)",
     },
     galeria: [
       {
@@ -1351,9 +1461,11 @@ export const COCHES_BMW: CocheComparador[] = [
     plazas: 5,
     parNm: 330,
     traccion: "Total",
-    emisionesCo2: null,
+    emisionesCo2: 156,
     aprox: [],
     imagen: "/media/bmw-x3-20-xdrive-2026-precio-ficha-tecnica-hero.webp",
+    fuenteNombre: "km77.com",
+    fuenteUrl: "https://www.km77.com:443/coches/bmw/x3/2025/estandar/estandar/x3-20-xdrive/datos",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 12.8,
@@ -1365,6 +1477,20 @@ export const COCHES_BMW: CocheComparador[] = [
       precioGasolinaL: 1.85,
       notas: "Estimación con 15.000 km/año: energía 6,9 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para SUV medio premium.",
       estimado: true
+    },
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: null,
+      nota: "Prueba del BMW X3 (G45), 2025",
+    },
+    planMantenimiento: {
+      intervalo: "CBS (Condition Based Service): el vehículo determina cuándo necesita mantenimiento según el uso real",
+      revisiones: [
+        { nombre: "Revisión según CBS", queSeCambia: "Lo indicado por el cuadro de mandos: aceite y filtro de aceite, filtros, pastillas de freno, líquido de frenos e inspección general", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW (sistema Condition Based Service)",
     },
     galeria: [
       {
@@ -1553,8 +1679,8 @@ export const COCHES_BMW: CocheComparador[] = [
   },
   {
     id: "bmw-xm-50e-2026-precio-ficha-tecnica",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
+    garantiaBateriaAnos: 8,
+    garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bmw-xm-50e-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/bmw-xm-50e-2026-precio-ficha-tecnica-interior.webp",
@@ -1567,10 +1693,10 @@ export const COCHES_BMW: CocheComparador[] = [
     precioDesde: 134100,
     potenciaCv: 476,
     autonomiaKm: 83,
-    maleteroL: null,
-    ceroCien: null,
-    velocidadMax: null,
-    bateriaKwh: null,
+    maleteroL: 527,
+    ceroCien: 5.1,
+    velocidadMax: 250,
+    bateriaKwh: 25.7,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
@@ -1587,16 +1713,16 @@ export const COCHES_BMW: CocheComparador[] = [
       "Consumo elevado cuando se agota la batería",
       "Maletero sin cifra oficial publicada y boca de carga alta",
     ],
-    largoMm: null,
-    anchoMm: null,
-    altoMm: null,
-    pesoKg: null,
-    consumo: null,
-    consumoUnidad: null,
+    largoMm: 5110,
+    anchoMm: 2005,
+    altoMm: 1755,
+    pesoKg: 2695,
+    consumo: 1.4,
+    consumoUnidad: "l/100 km",
     plazas: 5,
-    parNm: null,
+    parNm: 700,
     traccion: "Total",
-    emisionesCo2: null,
+    emisionesCo2: 32,
     aprox: [],
     imagen: "/media/bmw-xm-50e-2026-precio-ficha-tecnica-hero.webp",
     fuenteNombre: "km77.com",
@@ -1612,6 +1738,20 @@ export const COCHES_BMW: CocheComparador[] = [
       precioGasolinaL: 1.85,
       notas: "Estimación con 15.000 km/año y carga diaria: energía estimada ≈4,5 €/100 km (sin consumo WLTP publicado en las fuentes consultadas); seguro y mantenimiento de SUV de lujo.",
       estimado: true
+    },
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: el BMW XM no ha sido probado",
+    },
+    planMantenimiento: {
+      intervalo: "CBS (Condition Based Service): el vehículo determina cuándo necesita mantenimiento según el uso real",
+      revisiones: [
+        { nombre: "Revisión según CBS", queSeCambia: "Lo indicado por el cuadro de mandos: aceite y filtro de aceite, filtros, pastillas de freno, líquido de frenos e inspección general", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW (sistema Condition Based Service)",
     },
     galeria: [
       {
@@ -1719,8 +1859,8 @@ export const COCHES_BMW: CocheComparador[] = [
   },
   {
     id: "bmw-ix3-40-2026-precio-ficha-tecnica",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
+    garantiaBateriaAnos: 8,
+    garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bmw-ix3-40-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/bmw-ix3-40-2026-precio-ficha-tecnica-interior-oficial.webp",
@@ -1730,10 +1870,10 @@ export const COCHES_BMW: CocheComparador[] = [
     modelo: "iX3 40",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 63650,
     potenciaCv: 320,
     autonomiaKm: 637,
-    maleteroL: null,
+    maleteroL: 520,
     ceroCien: 5.9,
     velocidadMax: 200,
     bateriaKwh: 82.6,
@@ -1753,7 +1893,7 @@ export const COCHES_BMW: CocheComparador[] = [
       "Pocos cargadores de 300 kW en España",
       "Diseño rompedor que no gustará a todos",
     ],
-    largoMm: null,
+    largoMm: 4780,
     anchoMm: null,
     altoMm: null,
     pesoKg: null,
@@ -1762,7 +1902,7 @@ export const COCHES_BMW: CocheComparador[] = [
     plazas: 5,
     parNm: 500,
     traccion: "Trasera",
-    emisionesCo2: null,
+    emisionesCo2: 0,
     aprox: [],
     imagen: "/media/bmw-ix3-40-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
@@ -1776,6 +1916,20 @@ export const COCHES_BMW: CocheComparador[] = [
       "precioGasolinaL": 1.6,
       "notas": "estimación con 15.000 km/año y consumo estimado 16 kWh/100 km × 0,18 €/kWh; precio de venta aún no confirmado en España",
       "estimado": true
+    },
+    euroncap: {
+      estrellas: 5,
+      ano: 2026,
+      url: null,
+      nota: "Prueba del BMW iX3 (Neue Klasse), 2026",
+    },
+    planMantenimiento: {
+      intervalo: "CBS (Condition Based Service): el vehículo determina cuándo necesita mantenimiento según el uso real",
+      revisiones: [
+        { nombre: "Revisión según CBS", queSeCambia: "Lo indicado por el cuadro de mandos: aceite y filtro de aceite, filtros, pastillas de freno, líquido de frenos e inspección general", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW (sistema Condition Based Service)",
     },
     galeria: [
       {
@@ -1802,8 +1956,8 @@ export const COCHES_BMW: CocheComparador[] = [
   },
   {
     id: "bmw-x5-xdrive50e-2026-precio-ficha-tecnica",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
+    garantiaBateriaAnos: 8,
+    garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bmw-x5-xdrive50e-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/bmw-x5-xdrive50e-2026-precio-ficha-tecnica-interior-oficial.webp",
@@ -1819,7 +1973,7 @@ export const COCHES_BMW: CocheComparador[] = [
     maleteroL: 500,
     ceroCien: 4.8,
     velocidadMax: 250,
-    bateriaKwh: null,
+    bateriaKwh: 25.7,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
@@ -1840,8 +1994,8 @@ export const COCHES_BMW: CocheComparador[] = [
     anchoMm: 2004,
     altoMm: 1755,
     pesoKg: 2495,
-    consumo: null,
-    consumoUnidad: null,
+    consumo: 0.8,
+    consumoUnidad: "l/100 km",
     plazas: 5,
     parNm: 700,
     traccion: "Total",
@@ -1859,6 +2013,20 @@ export const COCHES_BMW: CocheComparador[] = [
       "precioGasolinaL": 1.6,
       "notas": "estimación con uso mixto 50 % eléctrico (20 kWh/100 km × 0,18 €/kWh) y 50 % gasolina (9 l/100 km × 1,60 €/l); 15.000 km/año",
       "estimado": true
+    },
+    euroncap: {
+      estrellas: 5,
+      ano: 2018,
+      url: null,
+      nota: "Prueba del BMW X5 (G05), 2018",
+    },
+    planMantenimiento: {
+      intervalo: "CBS (Condition Based Service): el vehículo determina cuándo necesita mantenimiento según el uso real",
+      revisiones: [
+        { nombre: "Revisión según CBS", queSeCambia: "Lo indicado por el cuadro de mandos: aceite y filtro de aceite, filtros, pastillas de freno, líquido de frenos e inspección general", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW (sistema Condition Based Service)",
     },
     galeria: [
       {
@@ -1881,7 +2049,7 @@ export const COCHES_BMW: CocheComparador[] = [
       },
     ],
     fuenteNombre: "km77.com",
-    fuenteUrl: "https://www.km77.com",
+    fuenteUrl: "https://www.km77.com/coches/bmw/x5/2023/estandar/phev/x5-xdrive50e/datos",
   },
   {
     id: "bmw-m235-xdrive-gran-coupe-2026-precio-ficha-tecnica",
