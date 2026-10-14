@@ -37,3 +37,4 @@ Antes de publicar, consulta siempre en la API de Netlify cuál es el deploy en v
 - Tras build:full + hubs: `python3 scripts/adsense-dist.py blog` (301 blog duplicados) y `python3 scripts/adsense-dist.py noindex` (fichas nota 0,0 + juego), luego apply-seo.
 - Si se re-prerenderizan rutas sueltas, restaurar title/meta desde el dist previo (bug de títulos por defecto).
 - Juego de monos oculto: src/config/juego.ts JUEGO_MONOS_ACTIVO=false.
+- Después de adsense-dist: `cd dist && python3 ../scripts/fix-chains.py` (sitemap sin URLs redirigidas, 301 a un salto).
