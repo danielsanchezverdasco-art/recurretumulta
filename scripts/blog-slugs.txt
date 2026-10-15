@@ -307,6 +307,7 @@ bmw-ix1-xdrive30-2026-precio-ficha-tecnica
 bmw-ix2-xdrive30-2026-precio-ficha-tecnica
 bmw-ix3-40-2026-precio-ficha-tecnica
 bmw-ix3-50-xdrive-2026-precio-ficha-tecnica
+bmw-ix3-m60-xdrive-2026
 bmw-k-1600-gt-2025-ficha-tecnica-precio
 bmw-m-1000-r-2025-ficha-tecnica-precio
 bmw-m-1000-rr-2025-ficha-tecnica-precio
@@ -382,6 +383,7 @@ byd-dolphin-active-95-2026-precio-ficha-tecnica
 byd-dolphin-g-dmi-active-2026-precio-ficha-tecnica
 byd-dolphin-g-dmi-boost-2026-precio-ficha-tecnica
 byd-dolphin-surf-my26-5-plazas-precio-espana
+byd-dolphin-surf-2027-segunda-generacion
 byd-great-han-1008-km-autonomia-carga-9-minutos
 byd-great-tang-2026-precio-ficha-tecnica
 byd-han-2024-precio-ficha-tecnica
