@@ -1240,7 +1240,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
     ],
     largoMm: 5080,
     anchoMm: 1956,
-    altoMm: 1971,
+    altoMm: 1973,
     pesoKg: null,
     consumo: 7.0,
     consumoUnidad: "l/100 km",
@@ -1248,7 +1248,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
     parNm: 350,
     traccion: "Delantera",
     emisionesCo2: 185,
-    aprox: ["anchoMm", "altoMm", "parNm"],
+    aprox: [],
     imagen: "/media/renault-trafic-spaceclass-2025-1.webp",
     opiniones: [],
     costeMensual: {
