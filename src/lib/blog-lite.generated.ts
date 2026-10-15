@@ -69303,6 +69303,43 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 5
   },
   {
+    "slug": "skoda-epiq-sportline-2026-paris",
+    "title": "Skoda Epiq Sportline: 440 km de autonomía y 211 CV",
+    "excerpt": "El Skoda Epiq Sportline debuta en el Salón de París 2026: el acabado más deportivo y equipado del SUV eléctrico hecho en Pamplona, con versiones Epiq 40 (99 kW) y Epiq 55 (155 kW) y hasta 440 km de au",
+    "category": "Novedades Motor",
+    "date": "2026-10-15",
+    "locale": "all",
+    "heroSrc": "/media/skoda-epiq-sportline-2026-hero.webp",
+    "heroAlt": "Skoda Epiq, SUV eléctrico compacto, vista lateral tres cuartos en color claro",
+    "keywords": [
+      "Skoda Epiq Sportline",
+      "Epiq Sportline precio",
+      "Skoda Epiq 40",
+      "Skoda Epiq 55",
+      "Skoda Epiq autonomía",
+      "Epiq Sportline París 2026"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "alpine-a310-vision-concept-paris-2026",
+    "title": "Alpine A310 Vision: el concept retrofuturista de 4,55 m",
+    "excerpt": "El Alpine A310 Vision reinterpreta en el Salón de París 2026 el deportivo de 1971: 4,55 m, carrocería de aluminio y plataforma APP. Ejercicio de diseño, sin versión de serie anunciada.",
+    "category": "Novedades Motor",
+    "date": "2026-10-15",
+    "locale": "all",
+    "heroSrc": "/media/alpine-a310-vision-2026-hero.webp",
+    "heroAlt": "Alpine A310 Vision, concept retrofuturista expuesto en el Salón de París 2026",
+    "keywords": [
+      "Alpine A310 Vision",
+      "A310 Vision concept",
+      "Alpine A310 Vision París 2026",
+      "Alpine concept retrofuturista",
+      "Alpine plataforma APP"
+    ],
+    "readTime": 5
+  },
+  {
     "slug": "radical-sr1-xxr-2025-precio-ficha-tecnica",
     "title": "Radical SR1 XXR: 188 CV y 510 kg por 76.600 €",
     "excerpt": "Precio y ficha técnica del Radical SR1 XXR: 188 CV, 510 kg, motor RPE Gen5 de 1.340 cc y 0-100 en 3,0 s. El coche de carreras de entrada, desde 76.600 €.",
