@@ -99,6 +99,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "skoda-enyaq-rs-2026-precio-ficha-tecnica": () => import("../blog-posts-skoda-a.ts"),
     "skoda-epiq-2026-precio-ficha-tecnica": () => import("../blog-posts-skoda-a.ts"),
     "skoda-epiq-electrico-barato-precio-espana": () => import("../blog-posts-lote-oct-a.ts"),
+    "skoda-epiq-sportline-2026-paris": () => import("../blog-posts-radar-20261015.ts"),
     "skoda-fabia-10-tsi-95-2026-precio-ficha-tecnica": () => import("../blog-posts-batch2b-4.ts"),
     "skoda-fabia-15-tsi-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp17.ts"),
     "skoda-fabia-monte-carlo-2026-precio-ficha-tecnica": () => import("../blog-posts-skoda-a.ts"),

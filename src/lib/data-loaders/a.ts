@@ -98,6 +98,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "alpine-a290-gts-2026-precio-ficha-tecnica": () => import("../blog-posts-alpine-a.ts"),
     "alpine-a290-gts-premiere-edition-2026-precio-ficha-tecnica": () => import("../blog-posts-alpine-a.ts"),
     "alpine-a290-rallye-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp19.ts"),
+    "alpine-a310-vision-concept-paris-2026": () => import("../blog-posts-radar-20261015.ts"),
     "alpine-a390-gt-2026-precio-ficha-tecnica": () => import("../blog-posts-alpine-a.ts"),
     "alpine-a390-gts-2026-precio-ficha-tecnica": () => import("../blog-posts-alpine-a.ts"),
     "alpine-a390-precio-ficha-tecnica": () => import("../blog-posts-motor-chinos-e.ts"),

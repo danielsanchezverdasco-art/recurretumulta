@@ -38117,6 +38117,26 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 3
   },
   {
+    "slug": "li-auto-6-640-km-544-cv-europa-paris-2026",
+    "title": "Li Auto 6: 640 km y 544 CV, el chino que llega a Europa",
+    "excerpt": "Li Auto desembarca en Europa: el Li 6 debutó en París con 800 V, 96 kWh, 640 km WLTP y 544 CV. Ventas en Holanda y Noruega desde Q1 2027.",
+    "category": "Novedades Motor",
+    "date": "2026-10-15",
+    "locale": "all",
+    "heroSrc": "/media/li-auto-6-640-km-544-cv-europa-paris-2026-hero.webp",
+    "heroAlt": "Li Auto Li 6 blanco en un salón del automóvil, vista frontal de tres cuartos",
+    "keywords": [
+      "Li Auto 6",
+      "Li 6 Europa",
+      "Li Auto Salón de París 2026",
+      "Li i6 vs Li 6",
+      "Li Auto llega a Europa",
+      "SUV eléctrico chino 640 km autonomía",
+      "Li 6 precio Europa"
+    ],
+    "readTime": 4
+  },
+  {
     "slug": "lepas-l8-chery-hibrido-enchufable-precio-espana",
     "title": "Lepas L8: desde 33.990 €",
     "excerpt": "Chery lanza su tercera marca en España: el Lepas L8 es un SUV híbrido enchufable de 4,69 m, 279 CV y 90 km de autonomía eléctrica, desde 33.990 €.",
