@@ -10,9 +10,25 @@ const rootEl = document.getElementById("root")!;
   rootEl.innerHTML.trim().length > 200 ? rootEl.innerHTML : undefined;
 // 13/10/2026: título/description prerenderizados (ya con titulos.csv aplicado).
 // useSeo los conserva en la URL de entrada: Googlebot ve el título del SEO.
+// 15/10/2026 (fix radar): la ruta prerenderizada es la del canonical del HTML,
+// NO location.pathname. Con el fallback SPA, location es la ruta nueva pero el
+// HTML servido es la portada: usar location.pathname hacía que useSeo conservara
+// el título de la portada en artículos nuevos (bug de títulos por defecto).
 if (rootEl.innerHTML.trim().length > 200) {
+  const canonHref = document
+    .querySelector('link[rel="canonical"]')
+    ?.getAttribute("href");
+  let pathIni = location.pathname.endsWith("/")
+    ? location.pathname
+    : location.pathname + "/";
+  try {
+    if (canonHref) pathIni = new URL(canonHref, location.origin).pathname;
+  } catch {
+    /* mantener location.pathname */
+  }
+  if (!pathIni.endsWith("/")) pathIni += "/";
   (window as unknown as { __SEO_INICIAL__?: { path: string; title: string; desc: string } }).__SEO_INICIAL__ = {
-    path: location.pathname.endsWith("/") ? location.pathname : location.pathname + "/",
+    path: pathIni,
     title: document.title,
     desc: document.querySelector('meta[name="description"]')?.getAttribute("content") ?? "",
   };
