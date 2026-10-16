@@ -287,7 +287,6 @@ bmw-ce-04-vs-zero-fxe-cual-comprar
 bmw-f-450-gs-2026-ficha-tecnica-precio
 bmw-f-450-r-naked-a2-precio-espana-2026
 bmw-f-450-r-vs-honda-cb500-hornet-vs-kawasaki-z500
-bmw-f-750-gs-2024-precio
 bmw-f-800-gs-2025-ficha-tecnica-precio
 bmw-f-900-gs-2024-ficha-tecnica-precio
 bmw-f-900-gs-2025-ficha-tecnica-precio
@@ -1465,7 +1464,6 @@ ktm-990-duke-r-2026-ficha-tecnica-precio
 ktm-990-rc-r-2025-ficha-tecnica-precio
 ktm-rc-125-2025-precio
 ktm-rc-390-2024-ficha-tecnica-precio
-ktm-rc-390-2025-precio
 kugoo-kirin-m3
 kugoo-kirin-s1-pro
 kugoo-kirin-s4
@@ -3813,3 +3811,4 @@ zeekr-001-baja-precio-58490-euros-octubre-2026
 skoda-epiq-sportline-2026-paris
 alpine-a310-vision-concept-paris-2026
 tesla-roadster-2028-presentacion
+bmw-ix4-2027-presentacion-oficial

@@ -9,6 +9,12 @@
 //   venta el 20/10/2026. 4,21 m, 129 CV traseros, frunk de 94 L, carga 10-70 % en
 //   5 min. Blog + enlace a la ficha del Dolphin Surf actual (el nuevo aún no tiene
 //   precio ni fecha para Europa: sin precio no se publica ficha).
+// - BMW iX4 (presentación oficial 09/10/2026): tercer Neue Klasse, SUV coupé
+//   eléctrico con 828 km WLTP, 612 CV (M60) y carga de 400 kW. Blog + enlace a la
+//   ficha existente bmw-ix4-electrico-2026 (ya creada con datos oficiales).
+//   Además: las 5 fotos de la ficha eran INCORRECTAS (no era el iX4) — sustituidas
+//   por fotos oficiales BMW verificadas visualmente (kit de prensa vía
+//   somoselectricos.com), incluida la foto de historia-modelos.
 // Regla: cero cifras inventadas; lo no confirmado se marca como tal.
 import type { BlogPost } from "./blog-meta.ts";
 
@@ -229,5 +235,108 @@ BYD no lo ha anunciado. El Dolphin Surf actual se vende en España entre 20.140 
       "Tesla Roadster reserva 50.000",
     ],
     content: `<img src=/media/tesla-roadster-2028-presentacion-hero.webp alt=Tesla Roadster 2028 blanco visto desde arriba, diseño angular con faros ocultos>\n\n*Foto: Tesla (imagen oficial distribuida por automundo.com). El nuevo Roadster en blanco "Ano White": faros ocultos y líneas inspiradas en el avión espía SR-71 y el caza F-35. Licencia desconocida.*\n\n**Datos del proyecto hasta ahora:** <a href=/coches/tesla-roadster-2026-retraso-precio-ficha-tecnica/>Tesla Roadster — ficha, retrasos y promesas anteriores</a>\n\nTesla presentó la madrugada de este viernes el **nuevo Roadster** en una instalación de SpaceX cerca de **Waco (Texas)**, nueve años después del prototipo de 2017. El evento, aplazado desde el 1 de octubre por el mal tiempo, duró media hora y fue pura demostración en vivo: el coche **subió por una rampa invertida pegado a ella por succión**, se despegó boca abajo, giró en el aire con los propulsores y aterrizó. Después **saltó por encima de toda la gama Tesla** — un Cybercab, una Cybertruck, un Semi, un Model Y y un Model 3 — y Tesla mostró un vídeo con una aceleración de 0 a 97 km/h en **0,81 segundos** (sin cronómetro en pantalla ni verificación independiente, según Jalopnik; InsideEVs aclara que ese tiempo es de la versión Thrust). "Bueno, funcionó", dijo Musk al terminar.\n\n## Las tres versiones: Performance, Thrust y Rocket\n\nTesla detalló las configuraciones en su cuenta de X. La autonomía anunciada es de **más de 300 millas (unos 480 km)** para las tres.\n\n| Versión | Uso | Plazas | 0-60 mph (0-97 km/h) | Reserva |\n|---|---|---|---|---|\n| **Performance** | Calle | 2 | Menos de 1,6 s | 50.000 $ (5.000 $ + 45.000 $ por transferencia) |\n| **Thrust** | Circuito, edición limitada | 2 | Menos de 0,9 s | 250.000 $ (según TechCrunch) |\n| **Rocket** | Solo invitación, no homologada para calle | 1 | Menos de 0,59 s (objetivo) | Solo por invitación |\n\nLa **Performance** es "lista para la calle", con aerodinámica activa y sistema de succión de varios modos. La **Thrust** suma los propulsores traseros de gas frío de SpaceX. La **Rocket** lleva propulsores perimetrales que permiten acelerar hacia delante, hacia arriba y girar: "Sí… puede volar", escribió Tesla. La Rocket promete más de **230 mph (unos 370 km/h)** de velocidad máxima; Musk dijo que la meta es la mitad de la velocidad del sonido, unas 383 mph.\n\n## Propulsores de SpaceX en un coche\n\nLa gran novedad técnica: el Roadster lleva **diez salidas de aire comprimido y dos "cohetes" con tecnología de SpaceX**, alimentados por **600 litros de aire** (unos 250 kilos) en un tanque especial que se regenera constantemente, para un rendimiento sostenido sin intervención del conductor. Cada hueco aprovechable de la carrocería está ocupado por **tanques de fibra de carbono (COPV)** que guardan el gas comprimido: cuanto más gas lleva, más dura el "vuelo".\n\nLa física que lo justifica, según Tesla: todos los coches están limitados por el agarre de los neumáticos; los propulsores generan **entre cuatro y cinco veces la fuerza** que pueden transmitir las llantas, y a igualdad de masa, más fuerza es más aceleración. "SpaceX ha usado propulsores para posicionar naves espaciales durante décadas; hacerlos funcionar en un vehículo en lugar del vacío exigió hardware y controles totalmente nuevos", explicó Tesla.\n\n<img src=/media/tesla-roadster-2028-presentacion-perfil.webp alt=Tesla Roadster 2028 de perfil en modo de calle, carrocería blanca con cristales tintados>\n\n*Foto: Tesla (imagen oficial distribuida por automundo.com). El Roadster en su "Road Mode"; en el Modo Pista baja la altura y despliega alerones activos. Licencia desconocida.*\n\n## Un diseño que no se parece al de 2017\n\nEl nuevo Roadster no conserva nada del prototipo de hace una década. El lenguaje de diseño, según Tesla, evolucionó del Model S/3/X/Y a la Cybertruck, el Cybercab y el robot Optimus, con inspiración directa en el **SR-71 y el F-35**.\n\n- **Exterior:** faros ocultos, luz trasera de lado a lado y pintura "Ano White", que toma recubrimientos de protección de cohetes.\n- **Cristales:** tintados en tono dorado, como el visor de un traje espacial.\n- **Interior:** volante tipo yoke con dirección por cable, pantalla central y dos pequeñas pantallas frente al conductor.\n- **Peso:** asiento en posición fija, mandos manuales y piezas de magnesio, titanio y fibra de carbono.\n- **Modo Pista:** el coche se baja y despliega **alerones activos** movidos por los actuadores desarrollados para Optimus; Tesla dice que la carga aerodinámica se acerca a niveles de Fórmula 1.\n\n## Producción en 2028, sin precio\n\nMusk fue directo: "**Entramos en producción en 2028**". No dio fecha de entregas ni confirmó el precio. Las referencias de 2017 — 200.000 dólares el base y 250.000 la Founders Series — tienen casi una década y Tesla no las ha actualizado. Lo que sí reabrió son las **reservas**: 5.000 dólares en el momento (reembolsables según la marca) y 45.000 por transferencia en los 10 días siguientes, o se cancela; **50.000 dólares en total**, lo mismo que pedía en 2017.\n\n## Lo que cambió desde el prototipo de 2017\n\n| Dato | 2017 (promesa) | 2026 (presentación) |\n|---|---|---|\n| Plazas | 4 | 2 (1 en la Rocket) |\n| Autonomía | 620 millas (1.000 km) | Más de 300 millas (480 km) |\n| Velocidad máxima | Más de 250 mph (400 km/h) | Más de 230 mph (370 km/h, Rocket) |\n| 0-60 mph | 1,9 s | Menos de 1,6 s (Performance) |\n| Precio | 200.000 $ / 250.000 $ Founders | Sin confirmar |\n| Producción | 2020 | 2028 |\n\nMusk lo describió como "el mejor de los últimos autos conducidos por humanos" y admitió que "no es un coche necesariamente optimizado para la seguridad, pero sí que lleva la diversión a un nivel 11 de 10". Sobre los récords de circuito: "Toma las curvas como si rompiera las leyes de la física. Romperá todos los récords de circuitos que existen" — una promesa, no un dato medido.\n\n## Preguntas frecuentes\n\n### ¿Cuándo se presentó el nuevo Tesla Roadster?\n\nEl 15 de octubre de 2026 a las 19:55 hora local (madrugada del 16 de octubre en España, 02:55 CEST), en una instalación de SpaceX cerca de Waco (Texas). Estaba previsto para el 1 de octubre, pero Tesla lo aplazó dos semanas por las previsiones meteorológicas.\n\n### ¿Qué versiones tiene el Tesla Roadster 2028?\n\nTres: **Performance** (calle, 2 plazas, 0-60 en menos de 1,6 s), **Thrust** (circuito, 2 plazas, propulsores traseros de gas frío, menos de 0,9 s, edición limitada) y **Rocket** (1 plaza, propulsores perimetrales, menos de 0,59 s, más de 370 km/h, solo por invitación y no homologada para circular).\n\n### ¿El Tesla Roadster puede volar de verdad?\n\nLa versión Rocket lleva propulsores de gas frío alrededor de la carrocería que permiten despegar y girar en el aire: en la presentación se despegó boca abajo, hizo una voltereta y aterrizó controlado. "Sí… puede volar", dice Tesla. La Rocket, eso sí, no está aprobada para la vía pública según la propia marca.\n\n### ¿Cuánto cuesta el Tesla Roadster 2028?\n\nTesla no ha anunciado el precio. La reserva cuesta 50.000 dólares en total (5.000 al reservar, reembolsables según Tesla, y 45.000 por transferencia en 10 días). Para la versión Thrust la reserva asciende a 250.000 dólares, según TechCrunch.\n\n### ¿Cuándo entra en producción el Tesla Roadster?\n\nSegún Elon Musk, "entramos en producción en 2028". No dio fecha de entregas. El prototipo original de 2017 tenía que entrar en producción en 2020, así que la cautela es obligada.\n\n### ¿Qué autonomía y velocidad máxima tendrá?\n\nTesla anuncia más de 300 millas (unos 480 km) de autonomía para las tres versiones y más de 230 mph (unos 370 km/h) de velocidad máxima en la Rocket. Musk puso como meta la mitad de la velocidad del sonido: unas 383 mph.\n\n**¿Tienes una multa y no sabes si puedes recurrirla?** Antes de decidir nada, <a href=https://recurretumulta.online/#analizador>analiza tu multa</a>: el analizador revisa tu caso y te dice qué opciones tienes.\n\n*Fuentes: <a href=https://automundo.com/2026/10/15/nuevo-tesla-roadster/>Automundo (datos del evento, configuraciones de Tesla, 16/10/2026)</a>, <a href=https://soymotor.com/coches/noticias/tesla-roadster-presentacion-mundial-streaming>SoyMotor (demostración en vivo y versiones, 16/10/2026)</a>, <a href=https://zonanerd.co/gadgets-y-hardware/tesla-roadster-sorprende-en-demostracion-vuela-corre-a-60-mph-en-un-segundo/>Zona Nerd (resumen del evento, 16/10/2026)</a>, <a href=https://www.vayalujo.com/coches-lujo-15-octubre-2026/>Vaya Lujo (fecha, aplazamiento y reservas, 15/10/2026)</a>.*`,
+  },
+  {
+    slug: "bmw-ix4-2027-presentacion-oficial",
+    title: "BMW iX4 2027: 828 km, 612 CV y 70.900 € en Alemania",
+    excerpt:
+      "BMW iX4 oficial: SUV coupé eléctrico Neue Klasse con 828 km WLTP, 612 CV y carga de 400 kW. Llega en marzo de 2027; en Alemania desde 70.900 €.",
+    category: "Novedades Motor",
+    date: "2026-10-16",
+    readTime: 7,
+    locale: "all",
+    keywords: [
+      "BMW iX4 2027",
+      "BMW iX4 precio",
+      "BMW iX4 autonomía 828",
+      "iX4 M60 xDrive",
+      "BMW iX4 ficha técnica",
+      "BMW iX4 lanzamiento",
+    ],
+    content: `<img src=/media/bmw-ix4-electrico-2026-hero.webp alt=BMW iX4 eléctrico gris circulando, vista tres cuartos delantera>
+
+*Foto: BMW (kit de prensa oficial, distribuida por somoselectricos.com). El iX4 definitivo, presentado el 9 de octubre de 2026. Licencia desconocida.*
+
+**Ficha completa del modelo:** <a href=/coches/bmw-ix4-electrico-2026>BMW iX4 — ficha técnica, precio y autonomía</a>
+
+BMW ha presentado oficialmente el **nuevo iX4**, su primer Sports Activity Coupé (SAC) 100 % eléctrico sobre la plataforma **Neue Klasse**. Es el tercer modelo de la nueva generación eléctrica de la marca, tras el <a href=/coches/bmw-ix3-50-xdrive-2026-precio-ficha-tecnica/>BMW iX3</a> y el i3, y llega con cifras de referencia: **hasta 828 km de autonomía WLTP**, **carga ultrarrápida de 400 kW** y una versión tope de gama **M60 xDrive de 612 CV**. La comercialización arranca en **marzo de 2027**.
+
+## Las tres versiones, en una tabla
+
+| Versión | Potencia | Par | 0–100 km/h | Autonomía WLTP | Batería útil | Carga CC |
+|---|---|---|---|---|---|---|
+| **iX4 40 xDrive** | 374 CV (275 kW) | 520 Nm | 5,6 s | 638 km | 82,6 kWh | 300 kW |
+| **iX4 50 xDrive** | 469 CV (345 kW) | 645 Nm | 4,9 s | 828 km | 108,7 kWh | 400 kW |
+| **iX4 M60 xDrive** | 612 CV (450 kW) | 875 Nm | 3,9 s | 777 km | 108,7 kWh | 400 kW |
+
+Todas las versiones llevan un motor eléctrico en cada eje (tracción total xDrive) y la **sexta generación del eDrive** con arquitectura de **800 V** y celdas cilíndricas integradas en el chasis. Las cifras del M60 xDrive son provisionales según BMW, pendientes de homologación definitiva.
+
+## 387 km recuperados en 10 minutos
+
+El dato que cambia los viajes largos: el iX4 50 xDrive recupera **387 km de autonomía en solo 10 minutos** conectado a un cargador de 400 kW, y pasa del **10 al 80 % en 21 minutos**. En corriente alterna carga a 11 kW de serie (22 kW en opción) e incorpora **carga bidireccional** (V2L/V2H/V2G): el coche puede alimentar aparatos externos, una vivienda o devolver energía a la red.
+
+<img src=/media/bmw-ix4-electrico-2026-interior.webp alt=Interior del BMW iX4 con pantalla central de 17,9 pulgadas y Panoramic Vision>
+
+*Foto: BMW (kit de prensa oficial, distribuida por somoselectricos.com). Interior con Panoramic iDrive y pantalla central de 17,9 pulgadas. Licencia desconocida.*
+
+## Diseño coupé y medidas de berlina grande
+
+El iX4 comparte base técnica con el iX3 pero rebaja la altura 4 centímetros para lograr la silueta coupé: **4,78 m de largo, 1,90 m de ancho, 2,90 m de batalla y 1,59 m de alto**, con un coeficiente aerodinámico de **0,23**. El maletero cubica **de 490 a 1.600 litros** y suma un **frunk delantero de 58 litros** para los cables. El paquete **M Sport es de serie** (llantas de 20 pulgadas, 21 en el M60 y hasta 22 en opción) con pinzas de freno azules.
+
+Dentro, el **BMW Panoramic Vision** proyecta la información en la base del parabrisas, acompañado de la pantalla táctil de 17,9 pulgadas, Head-Up Display 3D opcional y **techo panorámico de serie**. La dinámica la gestiona el superordenador **Heart of Joy**, que procesa las órdenes diez veces más rápido que la generación anterior.
+
+## Precios: Alemania sí, España pendiente
+
+| Mercado | iX4 40 xDrive | iX4 50 xDrive |
+|---|---|---|
+| Alemania | 70.900 € | 75.900 € |
+| Portugal | 72.000 € | 78.400 € |
+| España | Pendiente de anuncio | Pendiente de anuncio |
+| EE. UU. | desde 66.200 $ | — |
+
+BMW España comunicará las tarifas oficiales en las semanas previas al lanzamiento. La producción arranca en **noviembre de 2026** en la nueva planta de **Debrecen (Hungría)**; los pedidos del M60 xDrive se abrirán en **enero de 2027** y las primeras entregas llegarán en **marzo**.
+
+## iX4 frente a su hermano iX3
+
+| Dato | iX4 50 xDrive | <a href=/coches/bmw-ix3-50-xdrive-2026-precio-ficha-tecnica/>iX3 50 xDrive</a> |
+|---|---|---|
+| Potencia | 469 CV | 469 CV |
+| Autonomía WLTP | 828 km | 805 km |
+| 0–100 km/h | 4,9 s | 4,9 s |
+| Carga rápida CC | 400 kW | 400 kW |
+| Carrocería | SUV coupé | SUV |
+| Precio de partida | 75.900 € (Alemania) | 69.900 € |
+
+El iX4 es la alternativa emocional al iX3: misma base técnica, 23 km más de autonomía gracias a la aerodinámica y un precio unos 5.000 euros superior en Alemania. Tienes el análisis del <a href=/blog/bmw-ix3-m60-xdrive-2026/>iX3 M60 xDrive de 612 CV</a>, presentado esta misma semana.
+
+## Preguntas frecuentes
+
+### ¿Cuándo se presentó el BMW iX4?
+
+El 9 de octubre de 2026. Es el tercer modelo de la familia Neue Klasse, tras el iX3 y el i3, y el primer Sports Activity Coupé 100 % eléctrico de BMW.
+
+### ¿Qué autonomía tiene el BMW iX4?
+
+Hasta **828 km en ciclo WLTP** en la versión 50 xDrive (batería de 108,7 kWh útiles). El 40 xDrive homologa 638 km y el M60 xDrive, 777 km.
+
+### ¿Cuánto cuesta el BMW iX4 en España?
+
+BMW España aún no ha comunicado los precios. Como referencia: en Alemania parte de **70.900 €** (40 xDrive) y **75.900 €** (50 xDrive); en Portugal, de 72.000 y 78.400 € respectivamente.
+
+### ¿Cuándo llega el BMW iX4 al mercado?
+
+La comercialización arranca en **marzo de 2027** con las versiones 40 y 50 xDrive. Los pedidos del M60 xDrive se abrirán en enero de 2027. La producción empieza en noviembre de 2026 en Debrecen (Hungría).
+
+### ¿Qué potencia tiene el BMW iX4?
+
+374 CV el 40 xDrive, 469 CV el 50 xDrive y **612 CV** el M60 xDrive, todos con tracción total. El M60 acelera de 0 a 100 km/h en 3,9 segundos.
+
+### ¿Cuánto tarda en cargar el BMW iX4?
+
+Del 10 al 80 % en **21 minutos** a 400 kW, recuperando 387 km de autonomía en 10 minutos (versiones con batería grande). Las cifras del M60 son provisionales.
+
+**¿Tienes una multa y no sabes si puedes recurrirla?** Antes de decidir nada, <a href=https://recurretumulta.online/#analizador>analiza tu multa</a>: el analizador revisa tu caso y te dice qué opciones tienes.
+
+*Fuentes: <a href=https://www.autocasion.com/actualidad/pruebas/bmw-ix4-2026/>Autocasion (presentación oficial, datos técnicos y precios, 09/10/2026)</a>, <a href=https://www.somoselectricos.com/coches-electricos/bmw-presenta-nuevo-ix4-electrico-828-km-autonomia-carga-400-kw/20261008070054064052.html>Somos Eléctricos (versiones, dimensiones y precios por mercado, 08/10/2026)</a>, <a href=https://www.tecnobreak.com/noticias/el-nuevo-bmw-ix4-ya-esta-confirmado-para-portugal-y-una-autonomia-impresionante/>TecnoBreak (precios Portugal y producción en Debrecen)</a>, <a href=https://www.autonocion.com/bmw-ix4-electrico-detalles-tecnicos-precios-autonomia-recarga-dimensiones/>Autonoción (detalle técnico completo)</a>.*`,
   },
 ];
