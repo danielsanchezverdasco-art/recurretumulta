@@ -451,4 +451,82 @@ export const COCHES_XPENG: CocheComparador[] = [
       }
     ],
   },
+  {
+    // Radar 16/10/2026 18:58 CEST — XPeng L03 PowerX Long Range (REEV).
+    // Pedidos abiertos en España el 15-16/10/2026; primeras entregas diciembre 2026.
+    // Precio oficial anunciado: desde 37.500 € con campañas, financiación y
+    // adelanto de 1.800 € del Plan Auto+ (sin gastos de matriculación/entrega).
+    // Fuentes: autonocion.com, somoselectricos.com, elperiodicodelaenergia.com,
+    // hibridosyelectricos.com, periodismodelmotor.com, apmc.cat, veomotor.com.
+    // Cero cifras inventadas: lo no publicado (velocidad máx., peso, consumo
+    // WLTP, par, EuroNCAP, plan de mantenimiento) queda en null/omitido.
+    id: "xpeng-l03-2026-precio-espana",
+    garantiaBateriaAnos: 8,
+    garantiaBateriaKm: 160000,
+    garantiaBateriaDegradacionPct: null,
+    imagenOficial: "/media/xpeng-l03-2026-precio-espana-oficial.webp",
+    imagenInteriorOficial: "/media/xpeng-l03-2026-precio-espana-interior.webp",
+    videoId: null,
+    videoCanal: null,
+    marca: "XPeng",
+    modelo: "L03 PowerX",
+    tipo: "Eléctrico de autonomía extendida",
+    categoria: "SUV",
+    precioDesde: 37500,
+    potenciaCv: 242,
+    autonomiaKm: 215,
+    maleteroL: 367,
+    ceroCien: 6.8,
+    velocidadMax: null,
+    bateriaKwh: 37.25,
+    cargaRapidaKw: 123,
+    etiquetaDgt: "Cero",
+    pros: [
+      "1.017 km de autonomía combinada WLTP: 215 km en modo eléctrico + extensor de gasolina 1.5 L",
+      "Batería LFP de 37,25 kWh con carga rápida de 123 kW (10-80 % en unos 20 minutos)",
+      "242 CV (178 kW) con tracción trasera y 0-100 km/h en 6,8 segundos",
+      "Diseño del español JuanMa López (ex-jefe de diseño de Ferrari), con Cx de solo 0,228",
+      "Desde 37.500 € con campañas: autonomía de 1.000+ km por precio de SUV eléctrico medio"
+    ],
+    contras: [
+      "Los 37.500 € exigen financiación, campañas y el adelanto de 1.800 € del Plan Auto+; no incluye matriculación",
+      "El motor 1.5 de gasolina solo genera electricidad: el consumo real en viajes largos aún no está publicado",
+      "367 litros de maletero: justo para un SUV de 4,65 metros",
+      "Sin prueba EuroNCAP publicada y sin unidades entregadas (primeras en diciembre de 2026)",
+      "Marca aún poco conocida en España, con red comercial y de servicio en crecimiento"
+    ],
+    largoMm: 4650,
+    anchoMm: 1920,
+    altoMm: 1600,
+    pesoKg: null,
+    consumo: null,
+    consumoUnidad: "kWh/100 km",
+    plazas: 5,
+    parNm: null,
+    traccion: "Trasera",
+    emisionesCo2: null,
+    aprox: [],
+    imagen: "/media/xpeng-l03-2026-precio-espana-hero.webp",
+    opiniones: [],
+    galeria: [
+      {
+        src: "/media/xpeng-l03-2026-precio-espana-oficial.webp",
+        alt: "XPeng L03 PowerX morado, SUV coupé, vista tres cuartos delantera (foto: sparneuwagen.de, licencia desconocida)",
+        ancho: 1500,
+        alto: 1500
+      },
+      {
+        src: "/media/xpeng-l03-2026-precio-espana-hero.webp",
+        alt: "XPeng L03 PowerX morado en la playa, vista lateral delantera (foto: actualidadmotor.com, licencia desconocida)",
+        ancho: 1500,
+        alto: 900
+      },
+      {
+        src: "/media/xpeng-l03-2026-precio-espana-interior.webp",
+        alt: "Interior del XPeng L03: volante con logo XPeng, pantalla central de 15,6 pulgadas y cuadro digital (foto: headlightmag.com, licencia desconocida)",
+        ancho: 900,
+        alto: 613
+      }
+    ],
+  },
 ];

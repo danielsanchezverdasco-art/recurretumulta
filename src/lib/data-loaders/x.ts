@@ -37,6 +37,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "xpeng-g9-2024-precio-espana": () => import("../blog-posts-xpeng-a.ts"),
     "xpeng-g9-2026-restyling-precio-espana": () => import("../blog-posts-xpeng-a.ts"),
     "xpeng-g9l-debut-paris-2026": () => import("../blog-posts-lote-oct-c.ts"),
+    "xpeng-l03-2026-precio-espana": () => import("../blog-posts-radar-20261016.ts"),
     "xpeng-mona-m03-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp12.ts"),
     "xpeng-p5-2025-precio-ficha-tecnica": () => import("../blog-posts-lote5.ts"),
     "xpeng-p7-2024-precio-ficha-tecnica": () => import("../blog-posts-xpeng-a.ts"),
