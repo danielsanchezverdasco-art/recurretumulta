@@ -2049,6 +2049,7 @@ xpeng-g6-long-range-2025-precio-ficha-tecnica
 xpeng-g7-2026-precio-ficha-tecnica
 xpeng-g9-2024-precio-espana
 xpeng-g9-2026-restyling-precio-espana
+xpeng-l03-2026-precio-espana
 xpeng-mona-m03-2025-precio-ficha-tecnica
 xpeng-p7-2024-precio-ficha-tecnica
 xpeng-p7-electrico-precio-ficha-tecnica
