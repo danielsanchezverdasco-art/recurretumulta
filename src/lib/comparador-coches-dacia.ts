@@ -963,6 +963,7 @@ export const COCHES_DACIA: CocheComparador[] = [
   },
   {
     id: "dacia-jogger-eco-g-120-7-plazas-2026-precio-ficha-tecnica",
+    analisisSlug: "dacia-jogger-eco-g-120-7-plazas-2026-precio-ficha-tecnica",
     marca: "Dacia",
     modelo: "Jogger ECO-G 120 7 plazas",
     tipo: "GLP (bifuel gasolina/GLP)",
@@ -1022,9 +1023,9 @@ export const COCHES_DACIA: CocheComparador[] = [
       "estimado": true
     },
     galeria: [
-      { "src": "/media/dacia-jogger-eco-g-120-7-plazas-2026-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Jogger ECO-G 120 7 plazas 2026, vista exterior", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-jogger-eco-g-120-7-plazas-2026-precio-ficha-tecnica-hero.webp", "alt": "Dacia Jogger ECO-G 120 7 plazas 2026, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-jogger-eco-g-120-7-plazas-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior de 7 plazas del Dacia Jogger ECO-G 120 2026", "ancho": 1920, "alto": 1280 }
+      { src: "/media/dacia-jogger-eco-g-120-7-plazas-2026-precio-ficha-tecnica-hero.webp", alt: "Dacia Jogger ECO-G 120 7 plazas 2026, tres cuartos delantero", ancho: 1600, alto: 1066 },
+      { src: "/media/dacia-jogger-eco-g-120-7-plazas-2026-precio-ficha-tecnica-oficial.webp", alt: "Dacia Jogger ECO-G 120 7 plazas 2026, vista exterior", ancho: 1600, alto: 1066 },
+      { src: "/media/dacia-jogger-eco-g-120-7-plazas-2026-precio-ficha-tecnica-galeria-4.webp", alt: "Dacia Jogger 2026, vista trasera", ancho: 1500, alto: 800 },
     ],
   },
   {

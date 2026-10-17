@@ -2863,6 +2863,12 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      {
+        src: "/media/motos/zontes-125v-2025-ficha-tecnica-precio-3.webp",
+        alt: "Zontes 125V 2025, vista lateral",
+        ancho: 1200,
+        alto: 800,
+      },
     ],
     videoId: null,
     videoCanal: null,

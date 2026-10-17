@@ -1737,13 +1737,32 @@ export const MOTOS_BASE: MotoComparador[] = [
       "Su chasis de aluminio es único en el segmento de 125 deportivas",
       "Existe la versión Réplica con los colores de las Aprilia de competición",
     ],
-    imagen: "/media/motos/aprilia-rs-125-2025-ficha-tecnica-precio.webp",
-    galeria: [],
+    imagen: "/media/aprilia-rs-125-2025-ficha-tecnica-precio-hero.webp",
+        galeria: [
+      {
+        src: "/media/aprilia-rs-125-2025-ficha-tecnica-precio-hero.webp",
+        alt: "Aprilia RS 125 2025, deportiva con decoración de carreras",
+        ancho: 1600,
+        alto: 1068,
+      },
+      {
+        src: "/media/aprilia-rs-125-2025-ficha-tecnica-precio-oficial.webp",
+        alt: "Aprilia RS 125 2025, vista lateral",
+        ancho: 1024,
+        alto: 684,
+      },
+      {
+        src: "/media/aprilia-rs-125-2025-ficha-tecnica-precio-galeria-4.webp",
+        alt: "Aprilia RS 125 2025 en circuito",
+        ancho: 1200,
+        alto: 800,
+      }
+    ],
     videoId: "7o9YYgC-amo",
     videoCanal: "motos.net",
     fuenteNombre: "motofichas.com",
     fuenteUrl: "https://www.motofichas.com/marcas/aprilia/rs-125",
-    analisisSlug: null,
+    analisisSlug: "aprilia-rs-125-2025-ficha-tecnica-precio",
   },
   {
     id: "yamaha-yzf-r125-ficha-tecnica-precio",
@@ -4638,13 +4657,32 @@ export const MOTOS_BASE: MotoComparador[] = [
       "Su motor CP3 deriva directamente del de la MT-09",
       "La GT+ añade control de crucero adaptativo por radar y suspensión electrónica",
     ],
-    imagen: "/media/motos/yamaha-tracer-9-gt-2024-ficha-tecnica-precio.webp",
-    galeria: [],
+    imagen: "/media/yamaha-tracer-9-gt-2024-ficha-tecnica-precio-hero.webp",
+        galeria: [
+      {
+        src: "/media/yamaha-tracer-9-gt-2024-ficha-tecnica-precio-hero.webp",
+        alt: "Yamaha Tracer 9 GT 2024, sport-touring con motor CP3",
+        ancho: 1600,
+        alto: 900,
+      },
+      {
+        src: "/media/yamaha-tracer-9-gt-2024-ficha-tecnica-precio-oficial.webp",
+        alt: "Yamaha Tracer 9 GT 2024, vista lateral",
+        ancho: 696,
+        alto: 464,
+      },
+      {
+        src: "/media/yamaha-tracer-9-gt-2024-ficha-tecnica-precio-galeria-4.webp",
+        alt: "Yamaha Tracer 9 GT 2024 de viaje con maletas",
+        ancho: 1600,
+        alto: 900,
+      }
+    ],
     videoId: "YQ4v9wwQxaY",
     videoCanal: "Bike Riding Adam",
     fuenteNombre: "motorbikemag.es",
     fuenteUrl: "https://www.motorbikemag.es/ficha-tecnica/yamaha-tracer-9-gt-2023/",
-    analisisSlug: null,
+    analisisSlug: "yamaha-tracer-9-gt-2024-ficha-tecnica-precio",
   },
   {
     id: "bmw-r-1300-gs-2024-ficha-tecnica-precio",

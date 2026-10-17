@@ -539,24 +539,24 @@ export const COCHES_BASE: CocheComparador[] = [
       "notas": "consumo WLTP combinado declarado (l/100 km); PHEV: el coste real depende del habito de carga",
       "estimado": true
     },
-    galeria: [
+        galeria: [
       {
-        "src": "/media/omoda-9-shs-precio-ficha-tecnica-oficial-2.webp",
-        "alt": "Omoda 9 SHS, tres cuartos delantero en estudio (spec UK)",
-        "ancho": 1200,
-        "alto": 759
+        src: "/media/omoda-9-shs-precio-ficha-tecnica-hero.webp",
+        alt: "Omoda 9 SHS, SUV híbrido enchufable de 537 CV",
+        ancho: 1280,
+        alto: 720,
       },
       {
-        "src": "/media/omoda-9-shs-precio-ficha-tecnica-oficial-3.webp",
-        "alt": "Omoda 9 SHS, vista frontal",
-        "ancho": 1199,
-        "alto": 800
+        src: "/media/omoda-9-shs-precio-ficha-tecnica-oficial.webp",
+        alt: "Omoda 9 SHS, vista lateral",
+        ancho: 1600,
+        alto: 900,
       },
       {
-        "src": "/media/omoda-9-shs-precio-ficha-tecnica-interior-oficial-2.webp",
-        "alt": "Interior del Omoda 9 SHS",
-        "ancho": 1200,
-        "alto": 720
+        src: "/media/omoda-9-shs-precio-ficha-tecnica-galeria-4.webp",
+        alt: "Omoda 9 SHS circulando",
+        ancho: 1280,
+        alto: 720,
       }
     ],
   },
