@@ -69434,6 +69434,25 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 6
   },
   {
+    "slug": "mercedes-amg-gt-suv-filtrado-primera-imagen",
+    "title": "Mercedes-AMG GT SUV filtrado: así es antes de su estreno",
+    "excerpt": "Filtradas las dos primeras imágenes del Mercedes-AMG GT SUV eléctrico, horas antes de su estreno mundial en Stuttgart. Plataforma AMG.EA y entregas en 2027",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/mercedes-amg-gt-suv-filtrado-delantero.webp",
+    "heroAlt": "Mercedes-AMG GT SUV eléctrico filtrado, vista delantera tres cuartos con la parrilla AMG y los faros en L",
+    "keywords": [
+      "Mercedes-AMG GT SUV",
+      "Mercedes-AMG GT SUV filtrado",
+      "Mercedes-AMG GT SUV 2027",
+      "Mercedes-AMG SUV eléctrico",
+      "AMG GT SUV precio",
+      "AMG.EA SUV"
+    ],
+    "readTime": 4
+  },
+  {
     "slug": "radical-sr1-xxr-2025-precio-ficha-tecnica",
     "title": "Radical SR1 XXR: 188 CV y 510 kg por 76.600 €",
     "excerpt": "Precio y ficha técnica del Radical SR1 XXR: 188 CV, 510 kg, motor RPE Gen5 de 1.340 cc y 0-100 en 3,0 s. El coche de carreras de entrada, desde 76.600 €.",
