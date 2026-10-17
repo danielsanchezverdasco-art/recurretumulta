@@ -1976,9 +1976,11 @@ const COCHES_LOTE12_E: CocheComparador[] = [
     plazas: 2,
     parNm: null,
     traccion: "Total",
-    emisionesCo2: null,
+    emisionesCo2: 198,
     aprox: [],
     imagen: "/media/mercedes-amg-one-2025-precio-ficha-tecnica-1.webp",
+    fuenteNombre: "autonocion.com (datos oficiales Mercedes-AMG)",
+    fuenteUrl: "https://www.autonocion.com/mercedes-amg-one-detalles-equipamiento-especificaciones/",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 13.92,
