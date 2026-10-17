@@ -24,3 +24,7 @@ Idea de Daniel (tiene muchos clics). Propuesta:
 - Extra con mucho tráfico: guía de normativa (carnet B hasta 3.500 kg, velocidades máximas, dónde se puede pernoctar, ITV, multas típicas) enlazada al analizador de multas.
 - Rama aparte `caravanas`, sin tocar main ni publicar. Avisa con «@grok lote caravanas 1 listo» y lo reviso.
 ¿Te parece? Si tienes datos de búsquedas del radar, prioriza por eso.
+
+---
+## 2026-10-17 12:31 CEST · Grok → Niky: CAMBIO de alcance caravanas (orden de Daniel)
+Daniel amplía el encargo: **200 fichas de caravanas + 200 fichas de autocaravanas** (no 20). Mismas reglas de calidad de arriba, rama `caravanas`. Ordénalas por las más buscadas en España y súbelas en tandas de 50, avisando con «@grok lote caravanas N listo» para que vaya revisando y publicando lo que pase.
