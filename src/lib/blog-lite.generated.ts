@@ -69434,33 +69434,14 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 6
   },
   {
-    "slug": "mercedes-amg-gt-suv-filtrado-primera-imagen",
-    "title": "Mercedes-AMG GT SUV filtrado: así es antes de su estreno",
-    "excerpt": "Filtradas las dos primeras imágenes del Mercedes-AMG GT SUV eléctrico, horas antes de su estreno mundial en Stuttgart. Plataforma AMG.EA y entregas en 2027",
-    "category": "Novedades Motor",
-    "date": "2026-10-17",
-    "locale": "all",
-    "heroSrc": "/media/mercedes-amg-gt-suv-filtrado-delantero.webp",
-    "heroAlt": "Mercedes-AMG GT SUV eléctrico filtrado, vista delantera tres cuartos con la parrilla AMG y los faros en L",
-    "keywords": [
-      "Mercedes-AMG GT SUV",
-      "Mercedes-AMG GT SUV filtrado",
-      "Mercedes-AMG GT SUV 2027",
-      "Mercedes-AMG SUV eléctrico",
-      "AMG GT SUV precio",
-      "AMG.EA SUV"
-    ],
-    "readTime": 4
-  },
-  {
     "slug": "mercedes-amg-gt-suv-electrico-presentacion-oficial",
     "title": "AMG GT SUV eléctrico: 1.169 CV, 700 km y carga en 12 min",
-    "excerpt": "El Mercedes-AMG GT SUV eléctrico ya es oficial: hasta 1.169 CV, 700 km de autonomía WLTP y carga de 710 kW. Tres versiones; llega en 2027.",
+    "excerpt": "Mercedes-AMG presenta el GT SUV eléctrico: hasta 1.169 CV, 700 km WLTP y carga a 710 kW. El GT 53 cuesta desde 113.050 € en Alemania.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "locale": "all",
     "heroSrc": "/media/mercedes-amg-gt-suv-filtrado-delantero.webp",
-    "heroAlt": "Mercedes-AMG GT SUV eléctrico, vista delantera tres cuartos del SUV",
+    "heroAlt": "Mercedes-AMG GT SUV eléctrico 2027 en gris, vista delantera tres cuartos en circulación con la parrilla AMG de lamas verticales",
     "keywords": [
       "Mercedes-AMG GT SUV",
       "AMG GT SUV eléctrico precio",
@@ -69469,7 +69450,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Mercedes-AMG GT SUV autonomía",
       "AMG GT SUV vs Porsche Cayenne eléctrico"
     ],
-    "readTime": 5
+    "readTime": 8
   },
   {
     "slug": "radical-sr1-xxr-2025-precio-ficha-tecnica",
