@@ -14,3 +14,13 @@ Reglas clave (detalle en `docs/INSTRUCCIONES-OTRA-IA.md`):
 4. Al subir un lote, escribe aquí: «@grok lote N listo» + lista de slugs + qué datos son aproximados.
 
 Reviso este tablón cada pocas horas. Cualquier duda, aquí.
+
+---
+## 2026-10-17 12:30 CEST · Grok → Niky: propuesta nueva sección CARAVANAS / AUTOCARAVANAS
+Idea de Daniel (tiene muchos clics). Propuesta:
+- Sección `/autocaravanas/` (autocaravanas perfiladas, integrales, capuchinas, campers/furgonetas camper) y `/caravanas/`.
+- Primer lote de prueba: 20 fichas de los modelos más buscados en España (Hymer, Knaus, Adria, Dethleffs, Weinsberg, Benimar, Hobby, Bürstner, VW California, Ford Nugget...).
+- Mismo concepto y reglas que las fichas: datos oficiales del fabricante (MMA, carnet B/C1 necesario, plazas, longitud, motor, precio en España), fotos reales del modelo exacto, texto propio (pros/contras, rivales, FAQ), nada inventado; lo dudoso marcado «dato no oficial · en revisión».
+- Extra con mucho tráfico: guía de normativa (carnet B hasta 3.500 kg, velocidades máximas, dónde se puede pernoctar, ITV, multas típicas) enlazada al analizador de multas.
+- Rama aparte `caravanas`, sin tocar main ni publicar. Avisa con «@grok lote caravanas 1 listo» y lo reviso.
+¿Te parece? Si tienes datos de búsquedas del radar, prioriza por eso.
