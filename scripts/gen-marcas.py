@@ -43,6 +43,33 @@ def intro(cat,slug,marca,n,fusion):
   return " ".join([base]+resto)
 def bc(items): return {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":k+1,"name":n,"item":O+u} for k,(n,u) in enumerate(items)]}
 def ld(o,idn): return f'<script type="application/ld+json" data-seo-id="{idn}">'+json.dumps(o,ensure_ascii=False).replace("</","<\\/")+"</script>"
+
+# E-E-A-T 17/10/2026: bloque de autoría/fuentes/herramientas (igual que src/components/eeat/FirmaEditorial.tsx,
+# datos de src/lib/eeat.ts) y WebPage con autor, editor y fecha de la ficha de la marca actualizada más recientemente.
+FE={}
+for _f in (os.listdir("src/lib/fichas-fechas-eeat") if os.path.isdir("src/lib/fichas-fechas-eeat") else []):
+  if _f.endswith(".json"): FE.update(json.load(open(f"src/lib/fichas-fechas-eeat/{_f}",encoding="utf8")))
+MESES=["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"]
+def fl(iso): y,m,d_=map(int,iso.split("-")); return f"{d_} de {MESES[m-1]} de {y}"
+EE_FUENTES={"coches":[("DGT · Distintivo ambiental","https://www.dgt.es/nuestros-servicios/tu-vehiculo/tus-vehiculos/distintivo-ambiental/"),("Euro NCAP · resultados de seguridad","https://www.euroncap.com/es")],
+  "motos":[("BOE · Reglamento General de Conductores (permisos A1, A2 y A)","https://www.boe.es/buscar/act.php?id=BOE-A-2009-9481"),("DGT · Distintivo ambiental","https://www.dgt.es/nuestros-servicios/tu-vehiculo/tus-vehiculos/distintivo-ambiental/")],
+  "patinetes":[("DGT · Inscripción de vehículos de movilidad personal","https://www.dgt.es/nuestros-servicios/tu-vehiculo/matricular-un-vehiculo/inscripcion-vmp/"),("BOE · Reglamento General de Circulación (VMP)","https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514")]}
+EE_HERR={"coches":[("/calculadora-etiqueta-dgt/","Calculadora de etiqueta DGT"),("/comparador-coches/","Comparador de coches"),("/guias/zbe/","Guía de zonas de bajas emisiones (ZBE)"),("/#analizador","Analizador de multas con IA (gratis)")],
+  "motos":[("/comparador-motos/","Comparador de motos"),("/calculadora-kw-a-cv/","Calculadora kW a CV"),("/guias/zbe/","Guía de zonas de bajas emisiones (ZBE)"),("/#analizador","Analizador de multas con IA (gratis)")],
+  "patinetes":[("/comparador-patinetes/","Comparador de patinetes"),("/guias/patinetes-electricos/","Normativa de patinetes eléctricos"),("/#analizador","Analizador de multas con IA (gratis)")]}
+def eeat_aside(c,act):
+  fecha=f' · <span>Actualizado: <time datetime="{act}">{fl(act)}</time></span>' if act else ""
+  return ('<aside aria-label="Autoría y fuentes" data-eeat="1" class="mx-auto my-8 max-w-4xl px-4"><div class="rounded-2xl border border-gray-200 bg-gray-50 p-4 text-sm text-gray-700 sm:p-5">'
+    f'<p class="flex flex-wrap items-center gap-x-2 gap-y-1"><span>Por <a rel="author" class="font-bold text-gray-900 underline underline-offset-2" href="/sobre-nosotros/">Daniel</a>, fundador y responsable de contenidos</span>{fecha}</p>'
+    '<p class="mt-2 text-xs leading-relaxed text-gray-600"><strong class="text-gray-800">Cómo verificamos:</strong> Cada ficha de este listado se elabora con datos oficiales de la marca o fuentes citadas; lo no confirmado se marca como aproximado y nunca inventamos cifras. <a class="text-red-600 underline" href="/politica-editorial/">Política editorial y metodología</a>.</p>'
+    '<p class="mt-2 text-xs leading-relaxed text-gray-600"><strong class="text-gray-800">Fuentes:</strong> '+" · ".join(f'<a href="{u}" target="_blank" rel="noopener noreferrer" class="break-words text-red-600 underline">{e(n)}</a>' for n,u in EE_FUENTES[c])+'</p>'
+    '<p class="mt-2 text-xs leading-relaxed text-gray-600"><strong class="text-gray-800">Herramientas y guías:</strong> '+" · ".join(f'<a class="text-red-600 underline" href="{u}">{e(n)}</a>' for u,n in EE_HERR[c])+'</p></div></aside>')
+def eeat_ld(url,nombre,act):
+  o={"@context":"https://schema.org","@type":"WebPage","@id":O+url+"#webpage","url":O+url,"name":nombre,"inLanguage":"es-ES","isPartOf":{"@id":O+"/#website"},
+     "author":{"@type":"Person","@id":O+"/sobre-nosotros/#daniel","name":"Daniel","url":O+"/sobre-nosotros/","jobTitle":"Fundador y responsable de contenidos de RecurreTuMulta.online"},
+     "publisher":{"@type":"Organization","@id":O+"/#organization","name":"RecurreTuMulta.online","url":O+"/","logo":{"@type":"ImageObject","url":O+"/media/file_JCUW0M5ZDov5VKrmqbwPmQSz.png"}}}
+  if act: o["dateModified"]=act
+  return ld(o,"page-eeat")
 plantilla=open(f"{D}/coches/index.html",encoding="utf8").read()
 todas={c:[r["marca"] for r in H if r["categoria"]==c] for c in CAT}
 pags={};redir=[]
@@ -87,6 +114,10 @@ for (c,slug),d in pags.items():
   h=re.sub(r'<script type="application/ld\+json"[^>]*>.*?</script>','',h,flags=re.S)
   h=re.sub(r'<script type="application/json" id="hub-marca-data">.*?</script>','',h,flags=re.S)
   h=poner(h,d["title"],d["description"],url)
+  act=max([FE[s_][1] for s_,_ in d["items"] if s_ in FE] or [None], key=lambda x: x or "")
+  h=re.sub(r'<aside aria-label="Autoría y fuentes" data-eeat="1".*?</aside>','',h,flags=re.S)
+  h=h.replace("<footer",eeat_aside(c,act)+"<footer",1)
+  h=h.replace("</head>",eeat_ld(url,d["title"],act)+"</head>",1)
   datos=dict(p=url,cat=c,catNombre=CAT[c],h1=d["h1"],title=d["title"],description=d["description"],intro=d["intro"],items=d["items"])
   h=h.replace("</head>",ld(bc([("Inicio","/"),(CAT[c],f"/{c}/"),(d["nombre"],url)]),"bc-static")+'<script type="application/json" id="hub-marca-data">'+json.dumps(datos,ensure_ascii=False).replace("</","<\\/")+"</script></head>",1)
   os.makedirs(f"{D}{url}",exist_ok=True); open(f"{D}{url}index.html","w",encoding="utf8").write(h)

@@ -16,6 +16,7 @@ import {
   X,
 } from "lucide-react";
 import { useSeo } from "@/hooks/use-seo.ts";
+import { useFichaFechas } from "@/hooks/use-ficha-fechas.ts";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 import {
@@ -263,7 +264,11 @@ function Ficha({ moto }: { moto: MotoComparador }) {
     ],
   };
 
+  // E-E-A-T 17/10/2026: fechas reales de la ficha (JSON-LD + bloque de autoría).
+  const fechas = useFichaFechas(moto.id);
   useSeo({
+    datePublished: fechas.publicado,
+    dateModified: fechas.actualizado,
     // SEO 07/10/2026 (metodología CTR, Daniel): fórmula ganadora
     // [Keyword] + [número] + [beneficio] + [(año)]. Siempre ≤60 car.
     title: tituloFichaMoto(nombre, moto),
@@ -824,7 +829,15 @@ function Ficha({ moto }: { moto: MotoComparador }) {
           />
         </Suspense>
       </main>
-      <SharedFooter />
+      <SharedFooter
+        editorial={{
+          ambito: "motos",
+          tipo: "ficha",
+          publicado: fechas.publicado,
+          actualizado: fechas.actualizado,
+          fuentePrincipal: moto.fuenteUrl ? { nombre: moto.fuenteNombre || "Fuente de los datos", url: moto.fuenteUrl } : null,
+        }}
+      />
     </div>
   );
 }

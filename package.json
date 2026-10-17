@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "preview": "vite preview",
-    "build": "node scripts/copy-media.mjs && node scripts/gen-blog-lite.mjs && python3 scripts/gen-cards.py && node scripts/gen-data-loaders.mjs && node scripts/historial-precios/gen.mjs && tsc -b && vite build",
+    "build": "node scripts/copy-media.mjs && node scripts/gen-blog-lite.mjs && python3 scripts/gen-cards.py && node scripts/gen-data-loaders.mjs && node scripts/gen-fechas-eeat.mjs && node scripts/historial-precios/gen.mjs && tsc -b && vite build",
     "test": "vitest run",
     "lint": "eslint . --max-warnings=0",
     "prettier-fix": "prettier --write .",

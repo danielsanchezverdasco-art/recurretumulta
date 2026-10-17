@@ -223,7 +223,7 @@ export default function Rankings() {
             <ArrowLeftRight size={18} /> Ir al comparador de coches
           </Link>
         </main>
-        <SharedFooter />
+        <SharedFooter editorial={{ ambito: "coches", tipo: "listado" }} />
       </>
     );
   }
@@ -420,7 +420,7 @@ export default function Rankings() {
           </Link>
         </div>
       </main>
-      <SharedFooter />
+      <SharedFooter editorial={{ ambito: "coches", tipo: "listado" }} />
     </>
   );
 }
@@ -489,7 +489,7 @@ export function RankingsIndex() {
           </Link>
         </div>
       </main>
-      <SharedFooter />
+      <SharedFooter editorial={{ ambito: "coches", tipo: "listado" }} />
     </>
   );
 }

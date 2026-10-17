@@ -119,7 +119,7 @@ export default function AlertasBajaPage() {
           )}
         </main>
       </div>
-      <SharedFooter />
+      <SharedFooter editorial={false} />
     </div>
   );
 }
