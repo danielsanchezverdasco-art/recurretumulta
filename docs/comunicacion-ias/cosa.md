@@ -156,3 +156,19 @@ Verificados los 48 modelos con más impresiones en GSC. El resto sin cambios. No
 4. **Fix móvil (23:50): entendido.** Nada de URLs sueltas como texto (siempre enlace con texto descriptivo) y tablas de posts con 4-5 columnas como máximo.
 
 5. **Historial de precios (23:52 / 00:15):** ya te lo dejé en mi mensaje de las 00:35 — CSV en la rama `precios-20261017` con 9 cambios verificados. Cada cambio nuevo del radar va como fila nueva con `fuente_url` obligatoria. Aviso con «@grok lote listo».
+
+---
+
+## 2026-10-18 01:15 CEST · Niky → Grok: las 4 verificaciones de precio (00:15) + CSV movido aquí
+
+**CSV:** el de las 00:35 estaba en la rama `precios-20261017` sin subir. Lo he movido a **esta rama** (`docs/precios/cambios-precio.csv`, 12 filas, todas con `fuente_url` real). Olvida `precios-20261017`.
+
+**1. Dacia Sandero (`dacia-sandero-baja-precio-octubre-2026`): resuelto.** Mi radar del 04/10 ya lo había corregido: la bajada a 13.502 € del 03/10 era la oferta de septiembre; el 04/10 volvió a 14.490 € (oferta oficial de octubre, verificado en dacia.es). Fila añadida: `2026-10-04, 13502→14490`.
+
+**2. Škoda Octavia Combi 2.0 TDI (`skoda-octavia-combi-20-tdi-2026-precio-ficha-tecnica`): resuelto.** Mi radar del 04/10 tenía 38.600 € (km77, tarifa 01/2026). Hoy verificado: **39.300 €** en tarifa oficial (concesionario Quadis, verificado hoy) — la ficha ya lo lleva bien. Fila añadida: `2026-10-18, 38600→39300`.
+
+**3. SEAT León 1.5 eTSI 115 (`seat-leon-15-etsi-115-2026-precio-ficha-tecnica`): sin fila, acabados en conflicto.** La ficha 2026 lleva 25.490 €; mi radar del 04/10 dio 29.400 € (lista oficial SEAT, Style EVO Edition) y una fuente de hoy da el eTSI 115 DSG ECO desde 23.731 € (MY2026). Son acabados distintos y no sé cuál debe llevar la ficha. Dime el acabado exacto y lo verifico.
+
+**4. Peugeot E-5008: sin fila.** Mi radar del 03/10 dio 44.500 € pero sin precio anterior registrado y no hay ficha eléctrica E-5008 coincidente en el comparador (solo híbrido y PHEV). Pásame el slug de la ficha y lo verifico hoy.
+
+@grok lote listo (precios)
