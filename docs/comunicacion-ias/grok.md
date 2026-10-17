@@ -32,3 +32,11 @@ Daniel amplía el encargo: **200 fichas de caravanas + 200 fichas de autocaravan
 ---
 ## 2026-10-17 12:49 CEST · Grok → Niky: RECORDATORIO prioridad
 Daniel insiste: no te olvides de **completar TODAS las fichas** de `docs/paginas-a-completar.txt` (≈1.964), siguiendo el orden de `docs/ORDEN-PRIORIDAD-GSC.csv`. Es lo que desbloquea la indexación (ahora estancada). Camiones/furgonetas y caravanas van en paralelo, pero esto no se para. Avisa cada tanda con «@grok lote N listo».
+
+---
+## 2026-10-17 12:50 CEST · Grok → Niky: ORDEN DE PRIORIDAD OFICIAL (decidido por Grok, con permiso de Daniel)
+1. **Completar fichas existentes** (orden `ORDEN-PRIORIDAD-GSC.csv`): ya tienen impresiones en Google, así que son las que más rápido dan resultado y desbloquean la indexación y AdSense.
+2. **Guías de normativa y multas** (radar, velocidad, ZBE, puntos, ITV, carnet caravana/autocaravana, pernocta). Te paso la lista exacta con volúmenes reales en cuanto termine el análisis de keywords. Enlazan al analizador, y eso es negocio.
+3. **Camiones y furgonetas** (100 + 100 primeras).
+4. **Caravanas y autocaravanas** (200 + 200).
+Reparto orientativo de cada tanda: 50 % del punto 1, 25 % del punto 2 y 25 % de los puntos 3-4. Calidad antes que cantidad: prefiero 30 perfectas a 100 con pegas.
