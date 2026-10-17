@@ -1492,13 +1492,25 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       "Es la 125 deportiva más vendida de Europa",
       "La versión 70.º Aniversario de 2025 cuesta 6.099 €",
     ],
-    imagen: "/media/motos/yamaha-yzf-r125-2025-ficha-tecnica-precio-1.webp",
+    imagen: "/media/yamaha-yzf-r125-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
-        src: "/media/motos/yamaha-yzf-r125-2025-ficha-tecnica-precio-2.webp",
+        src: "/media/yamaha-yzf-r125-2025-ficha-tecnica-precio-2.webp",
         alt: "Yamaha YZF-R125 2025, vista lateral deportiva",
-        ancho: 1200,
-        alto: 800,
+        ancho: 1600,
+        alto: 899,
+      },
+      {
+        src: "/media/yamaha-yzf-r125-2025-ficha-tecnica-precio-3.webp",
+        alt: "Yamaha YZF-R125 2025, chasis Deltabox de aluminio",
+        ancho: 600,
+        alto: 338,
+      },
+      {
+        src: "/media/yamaha-yzf-r125-2025-ficha-tecnica-precio-4.webp",
+        alt: "Yamaha YZF-R125 2025, posición de pilotaje",
+        ancho: 600,
+        alto: 338,
       },
     ],
     videoId: null,
@@ -1506,6 +1518,23 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     fuenteNombre: "motofichas.com",
     fuenteUrl: "https://www.motofichas.com/marcas/sport/yamaha/125cc",
     analisisSlug: "yamaha-yzf-r125-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión / 6.000 km",
+          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión / 12.000 km",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Manual del propietario Yamaha YZF-R125 (intervalo 6.000 km / 12 meses)",
+    },
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 6.000 km o 12 meses",
       aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
