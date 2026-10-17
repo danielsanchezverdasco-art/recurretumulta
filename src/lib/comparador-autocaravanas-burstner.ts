@@ -2,7 +2,9 @@
 // Datos verificados: configurador oficial Bürstner (buerstner.com, precios
 // "desde" oficiales) + datos técnicos vía red oficial. Precio de la 594
 // orientativo (marcado en "aprox").
-// Fotos: reales del modelo exacto, verificadas visualmente.
+// Fotos: reales del modelo exacto, verificadas visualmente. Hero e interior
+// principal de prensa oficial Bürstner; la tres cuartos delantera y el detalle
+// del salón son de concesionario (no prensa oficial).
 import type { CocheComparador } from "./comparador-coches-data.ts";
 
 export const AUTOCARAVANAS_BURSTNER: CocheComparador[] = [
@@ -36,6 +38,9 @@ export const AUTOCARAVANAS_BURSTNER: CocheComparador[] = [
     anchoMm: 2300,
     altoMm: 2950,
     pesoKg: 3009,
+    mmaKg: 3500,
+    carnetNecesario: "B",
+    cargaUtilKg: 491,
     consumo: null,
     consumoUnidad: null,
     plazas: 4,
@@ -44,7 +49,7 @@ export const AUTOCARAVANAS_BURSTNER: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde", "pesoKg"],
     pros: [
-      "Perfilada compacta de 5,99 m: la más ágil de su categoría",
+      "Perfilada compacta de 5,99 m: manejable en ciudad y en áreas pequeñas",
       "Cama abatible eléctrica + dinette convertible: 4 plazas sin camas fijas",
       "Doble suelo funcional Thermo-Floor con almacenaje accesible desde dentro",
       "Techo de GRP resistente al granizo y gran equipamiento de serie",
@@ -55,7 +60,7 @@ export const AUTOCARAVANAS_BURSTNER: CocheComparador[] = [
       "Precio orientativo alto para una perfilada de 6 metros",
       "Con 3.009 kg en vacío, la carga útil con 4 ocupantes es justa",
       "El baño es compacto, como en todas las perfiladas cortas",
-      "Red de servicio Bürstner menor que la de Benimar en España",
+      "Conviene confirmar taller oficial cercano: la red es más reducida que la de las marcas generalistas",
     ],
     opiniones: [],
     costeMensual: {
@@ -72,8 +77,8 @@ export const AUTOCARAVANAS_BURSTNER: CocheComparador[] = [
     },
     galeria: [
       {
-        src: "/media/burstner-lyseo-td-594-2026-precio-ficha-tecnica-oficial-2.webp",
-        alt: "Bürstner Lyseo TD 594, vista tres cuartos",
+        src: "/media/burstner-lyseo-td-594-2026-2.webp",
+        alt: "Bürstner Lyseo TD 594 en concesionario, vista tres cuartos delantera",
         ancho: 1200,
         alto: 800,
       },
@@ -84,8 +89,8 @@ export const AUTOCARAVANAS_BURSTNER: CocheComparador[] = [
         alto: 800,
       },
       {
-        src: "/media/burstner-lyseo-td-594-2026-interior-oficial-2.webp",
-        alt: "Detalle interior de la Bürstner Lyseo TD 594",
+        src: "/media/burstner-lyseo-td-594-2026-interior-2.webp",
+        alt: "Salón de la Bürstner Lyseo TD 594",
         ancho: 1200,
         alto: 800,
       },

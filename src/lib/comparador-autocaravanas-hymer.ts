@@ -1,6 +1,7 @@
 // Autocaravanas Hymer — ficha 1 (lote caravanas 1, 17/10/2026).
 // Datos verificados: hymer.com/es (datos técnicos y precio oficiales para España).
-// Fotos: reales del modelo exacto (foto de prensa oficial Hymer), verificadas visualmente.
+// Fotos: reales del modelo exacto; hero e interiores de prensa oficial Hymer,
+// la vista trasera es de campa de concesionario (verificada visualmente).
 import type { CocheComparador } from "./comparador-coches-data.ts";
 
 export const AUTOCARAVANAS_HYMER: CocheComparador[] = [
@@ -34,6 +35,9 @@ export const AUTOCARAVANAS_HYMER: CocheComparador[] = [
     anchoMm: 2290,
     altoMm: 2980,
     pesoKg: 3094,
+    mmaKg: 3500,
+    carnetNecesario: "B",
+    cargaUtilKg: 406,
     consumo: null,
     consumoUnidad: null,
     plazas: 5,
@@ -44,9 +48,9 @@ export const AUTOCARAVANAS_HYMER: CocheComparador[] = [
     pros: [
       "Integral sobre Mercedes-Benz Sprinter 315 CDI: la base más prestigiosa del segmento",
       "Precio oficial publicado para España: 138.990 €, sin sorpresas",
-      "Chasis SLC galardonado: ligereza y estabilidad superiores",
+      "Chasis SLC de Hymer: estructura aligerada propia, más estabilidad y margen de carga útil",
       "Camas gemelas traseras + abatible + central: hasta 5 plazas en 6,99 m",
-      "Hymer mantiene el mejor valor de reventa del caravaning europeo",
+      "Depósito de agua limpia de 180 l y garaje trasero con portones de 90x123 cm",
     ],
     contras: [
       "138.990 € la sitúan en el segmento premium: el doble que una perfilada generalista",
@@ -70,8 +74,8 @@ export const AUTOCARAVANAS_HYMER: CocheComparador[] = [
     },
     galeria: [
       {
-        src: "/media/hymer-b-mc-i-580-2026-precio-ficha-tecnica-oficial-2.webp",
-        alt: "Hymer B-Class ModernComfort I 580, vista lateral",
+        src: "/media/hymer-b-mc-i-580-2026-2.webp",
+        alt: "Hymer B-Class ModernComfort I 580 en campa de concesionario, vista lateral trasera",
         ancho: 1200,
         alto: 800,
       },

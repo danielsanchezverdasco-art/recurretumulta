@@ -3,7 +3,8 @@
 // distribuidores, cifras coincidentes: 5.990 x 2.050 x 2.580 mm, 3.500 kg,
 // Fiat Ducato 2.2 140 CV). Precio orientativo (catálogo 77.355 € versión
 // Street 60 Years; marcado en "aprox").
-// Fotos: reales del modelo exacto, verificadas visualmente.
+// Fotos: reales del modelo exacto, verificadas visualmente. Hero de prensa;
+// interiores y vista recortada de unidad real/concesionario (no prensa oficial).
 import type { CocheComparador } from "./comparador-coches-data.ts";
 
 export const AUTOCARAVANAS_KNAUS: CocheComparador[] = [
@@ -30,13 +31,16 @@ export const AUTOCARAVANAS_KNAUS: CocheComparador[] = [
     imagenOficial:
       "/media/knaus-boxstar-600-dq-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/knaus-boxstar-600-dq-2026-interior-oficial.webp",
+      "/media/knaus-boxstar-600-dq-2026-interior.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 5990,
     anchoMm: 2050,
     altoMm: 2580,
     pesoKg: 2921,
+    mmaKg: 3500,
+    carnetNecesario: "B",
+    cargaUtilKg: 579,
     consumo: null,
     consumoUnidad: null,
     plazas: 2,
@@ -73,20 +77,20 @@ export const AUTOCARAVANAS_KNAUS: CocheComparador[] = [
     },
     galeria: [
       {
-        src: "/media/knaus-boxstar-600-dq-2026-precio-ficha-tecnica-oficial-2.webp",
-        alt: "Knaus BoxStar 600 DQ, vista lateral",
+        src: "/media/knaus-boxstar-600-dq-2026-2.webp",
+        alt: "Knaus BoxStar 600 DQ, vista lateral tres cuartos",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/knaus-boxstar-600-dq-2026-interior-oficial.webp",
+        src: "/media/knaus-boxstar-600-dq-2026-interior.webp",
         alt: "Interior de la Knaus BoxStar 600 DQ, zona de estar",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/knaus-boxstar-600-dq-2026-interior-oficial-2.webp",
-        alt: "Interior de la Knaus BoxStar 600 DQ, detalle",
+        src: "/media/knaus-boxstar-600-dq-2026-interior-2.webp",
+        alt: "Cama transversal trasera de la Knaus BoxStar 600 DQ",
         ancho: 1200,
         alto: 800,
       },
@@ -113,8 +117,8 @@ export const AUTOCARAVANAS_KNAUS: CocheComparador[] = [
       fuente: "Plan de mantenimiento Fiat Professional + recomendaciones Knaus",
     },
     euroncap: null,
-    fuenteNombre: "Knaus (catálogo vía red oficial)",
-    fuenteUrl: "https://nomadaslife.es/listings/knaus-boxstar-street-600/",
+    fuenteNombre: "Knaus (web oficial; BoxStar descatalogada, sucesora BOXLIFE)",
+    fuenteUrl: "https://www.knaus.com/en-gb/",
   },
   {
     id: "knaus-sky-wave-650-meg-2026-precio-ficha-tecnica",

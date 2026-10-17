@@ -234,6 +234,10 @@ export interface CocheComparador {
   } | null;
   esIA?: boolean;
   confianza?: "alta" | "media" | "baja";
+  // ── Caravanas / autocaravanas (estándar 2026-10-18): MMA, carnet y carga útil ──
+  mmaKg?: number | null;            // Masa Máxima Autorizada en kg (dato oficial)
+  carnetNecesario?: string | null;  // "B" | "B96" | "BE" | "C1"
+  cargaUtilKg?: number | null;      // carga útil en kg (MMA − peso en orden de marcha)
   fuenteNombre?: string | null;
   fuenteUrl?: string | null;
   deCache?: boolean;

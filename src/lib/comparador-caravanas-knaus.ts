@@ -1,7 +1,9 @@
 // Caravanas Knaus — ficha 1 (lote caravanas 1, 17/10/2026).
 // Datos verificados: red oficial Knaus (datos técnicos) + PVP de
 // distribuidor oficial (marcado en "aprox").
-// Fotos: reales del modelo exacto, verificadas visualmente.
+// Fotos: reales del modelo exacto en concesionario (verificadas visualmente);
+// NO son de prensa oficial: una llevaba marca de agua del concesionario y se ha
+// eliminado. Sin foto interior disponible.
 import type { CocheComparador } from "./comparador-coches-data.ts";
 
 export const CARAVANAS_KNAUS: CocheComparador[] = [
@@ -23,18 +25,18 @@ export const CARAVANAS_KNAUS: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen:
-      "/media/knaus-sport-500-qdk-2026-precio-ficha-tecnica-oficial.webp",
-    imagenOficial:
-      "/media/knaus-sport-500-qdk-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial:
-      "/media/knaus-sport-500-qdk-2026-precio-ficha-tecnica-oficial-2.webp",
+    imagen: "/media/knaus-sport-500-qdk-2026.webp",
+    imagenOficial: "/media/knaus-sport-500-qdk-2026.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     largoMm: 7320,
     anchoMm: 2320,
     altoMm: 2570,
     pesoKg: 1166,
+    mmaKg: 1800,
+    carnetNecesario: "B",
+    cargaUtilKg: 634,
     consumo: null,
     consumoUnidad: null,
     plazas: 4,
@@ -44,7 +46,7 @@ export const CARAVANAS_KNAUS: CocheComparador[] = [
     aprox: ["precioDesde"],
     pros: [
       "La familiar por excelencia: litera doble trasera + cama transversal delantera",
-      "PVP desde ~31.000 €: de las 4 plazas más baratas de su tamaño",
+      "PVP desde ~31.000 €: precio contenido para una familiar alemana de 4 plazas",
       "1.800 kg de MMA con un solo eje y gran carga útil",
       "Techo de GFK resistente al granizo y chapa de aluminio martilleado",
       "Nevera de 142 L y cocina de 3 fuegos: equipamiento serio de serie",
@@ -71,20 +73,14 @@ export const CARAVANAS_KNAUS: CocheComparador[] = [
     },
     galeria: [
       {
-        src: "/media/knaus-sport-500-qdk-2026-precio-ficha-tecnica-oficial-2.webp",
-        alt: "Knaus Sport 500 QDK, vista lateral",
+        src: "/media/knaus-sport-500-qdk-2026-2.webp",
+        alt: "Knaus Sport 500 QDK en campa de concesionario, vista trasera",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/knaus-sport-500-qdk-2026-precio-ficha-tecnica-oficial-3.webp",
-        alt: "Knaus Sport 500 QDK, frontal",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/knaus-sport-500-qdk-2026-precio-ficha-tecnica-oficial-4.webp",
-        alt: "Knaus Sport 500 QDK, detalle",
+        src: "/media/knaus-sport-500-qdk-2026-3.webp",
+        alt: "Knaus Sport 500 QDK en exposición de concesionario, vista lateral",
         ancho: 1200,
         alto: 800,
       },
@@ -105,8 +101,8 @@ export const CARAVANAS_KNAUS: CocheComparador[] = [
       fuente: "Recomendaciones Knaus + red de distribuidores",
     },
     euroncap: null,
-    fuenteNombre: "Knaus (red oficial)",
-    fuenteUrl: "https://www.truckscout24.es/autocaravanas-caravanas/occasion/caravanas/knaus?page=7",
+    fuenteNombre: "Knaus (web oficial)",
+    fuenteUrl: "https://www.knaus.com/en/caravans/sport",
   },
   // Caravana 2 (lote caravanas 2D, 17/10/2026).
   // Datos verificados: anuncios de distribuidores oficiales Knaus del modelo
