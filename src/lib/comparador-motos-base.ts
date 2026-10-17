@@ -2520,13 +2520,49 @@ export const MOTOS_BASE: MotoComparador[] = [
       "Es la puerta de entrada al #SpiritOfGS de BMW Motorrad",
       "Comparte plataforma con la F 900 GS, su hermana de enfoque más campero",
     ],
-    imagen: "/media/motos/bmw-f-800-gs-2024-ficha-tecnica-precio.webp",
-    galeria: [],
+    imagen: "/media/bmw-f-800-gs-2024-ficha-tecnica-precio-1.webp",
+    galeria: [
+      {
+        src: "/media/bmw-f-800-gs-2024-ficha-tecnica-precio-2.webp",
+        alt: "BMW F 800 GS 2024, vista lateral",
+        ancho: 1600,
+        alto: 1066,
+      },
+      {
+        src: "/media/bmw-f-800-gs-2024-ficha-tecnica-precio-3.webp",
+        alt: "BMW F 800 GS 2024, detalle",
+        ancho: 1500,
+        alto: 1000,
+      },
+      {
+        src: "/media/bmw-f-800-gs-2024-ficha-tecnica-precio-4.webp",
+        alt: "BMW F 800 GS 2024, frontal",
+        ancho: 640,
+        alto: 427,
+      },
+    ],
     videoId: "JXMpGGXDUzM",
     videoCanal: "Big Rock Moto",
     fuenteNombre: "BMW Motorrad España",
     fuenteUrl: "https://www.bmw-motorrad.es/es/models/adventure/f800gs.html",
-    analisisSlug: null,
+    analisisSlug: "bmw-f-800-gs-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión / 10.000 km",
+          queSeCambia: "Aceite + filtro de aceite + inspección general",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión / 20.000 km",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Plan de mantenimiento oficial BMW Motorrad (intervalo estándar de la marca)",
+    },
   },
   {
     id: "triumph-tiger-900-gt-2024-ficha-tecnica-precio",
