@@ -163,7 +163,7 @@ function MarkdownContent({ content, galeria, dims }: { content: string; galeria?
         // AdSense P2: una fila con alguna celda sin dato ("—", "Sin datos") no se muestra.
         .filter((l, ri) => ri === 0 || !l.split("|").slice(1, -1).some((c) => VACIA.test(c.trim())));
       elements.push(
-        <div key={`table-${i}`} className="my-4">
+        <div key={`table-${i}`} className="my-4 overflow-x-auto">
           <table className="w-full text-xs border-collapse">
             {rows.map((row, ri) => {
               // OJO: no filtrar celdas vacías interiores (p. ej. la primera celda
@@ -199,7 +199,7 @@ function MarkdownContent({ content, galeria, dims }: { content: string; galeria?
           {items.map((item, ii) => (
             <li key={ii} className="flex items-start gap-2 text-sm text-gray-700">
               <Check className="w-3.5 h-3.5 text-red-500 mt-0.5 shrink-0" />
-              <span dangerouslySetInnerHTML={{ __html: formatInline(item) }} />
+              <span className="min-w-0 break-words" dangerouslySetInnerHTML={{ __html: formatInline(item) }} />
             </li>
           ))}
         </ul>
