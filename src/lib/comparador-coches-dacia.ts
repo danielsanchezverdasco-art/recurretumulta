@@ -147,8 +147,8 @@ export const COCHES_DACIA: CocheComparador[] = [
     potenciaCv: 155,
     autonomiaKm: null,
     maleteroL: 328,
-    ceroCien: null,
-    velocidadMax: null,
+    ceroCien: 8.3,
+    velocidadMax: 180,
     bateriaKwh: 1.4,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
@@ -162,10 +162,12 @@ export const COCHES_DACIA: CocheComparador[] = [
     consumo: 4.2,
     consumoUnidad: "l/100 km",
     plazas: 5,
-    parNm: null,
+    parNm: 170,
     traccion: "Delantera",
     emisionesCo2: 96,
     aprox: [],
+    fuenteNombre: "hibridosyelectricos.com",
+    fuenteUrl: "https://www.hibridosyelectricos.com/coches/pruebas-coches/prueba-coche-mas-vendido-dacia-sandero-motor-hibrido-155-cv-hecho-en-espana_89236_102.html",
     pros: [
       "155 CV híbridos desde 19.890 €: el híbrido más barato del mercado español",
       "4,2 l/100 km y 96 g/km: consumo de utilitario diésel con etiqueta ECO",
@@ -196,6 +198,20 @@ export const COCHES_DACIA: CocheComparador[] = [
       "precioGasolinaL": 1.6,
       "notas": "15.000 km/año; gasolina a 1,60 €/l con consumo WLTP 4,2 l/100 km; seguro y mantenimiento estimados por segmento",
       "estimado": true
+    },
+    euroncap: {
+      estrellas: 2,
+      ano: 2021,
+      url: "https://www.euroncap.com/press-media/dacia-aims-low-while-%C5%A1koda-vw-electrify/",
+      nota: "Prueba oficial del Sandero Stepway 2021 (2 estrellas); Euro NCAP indica que la valoración cubre también al Sandero berlina y al Logan de la misma generación",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        { nombre: "Revisión periódica del híbrido", queSeCambia: "Aceite y filtro de aceite, filtros, puntos de control de seguridad + revisión del sistema eléctrico e híbrido (diagnóstico)", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Dacia España — blog oficial: mantenimiento del coche híbrido (https://www.dacia.es/blog/seguridad-consejos/mantenimiento-del-coche-hibrido-claves-ahorro-real.html)",
     },
     galeria: [
       { "src": "/media/dacia-sandero-hybrid-155-2026-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Sandero Hybrid 155 2026, vista exterior", "ancho": 1920, "alto": 1280 },
@@ -345,8 +361,8 @@ export const COCHES_DACIA: CocheComparador[] = [
     potenciaCv: 155,
     autonomiaKm: null,
     maleteroL: 328,
-    ceroCien: null,
-    velocidadMax: null,
+    ceroCien: 8.3,
+    velocidadMax: 180,
     bateriaKwh: 1.4,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
@@ -360,10 +376,12 @@ export const COCHES_DACIA: CocheComparador[] = [
     consumo: 4.4,
     consumoUnidad: "l/100 km",
     plazas: 5,
-    parNm: null,
+    parNm: 170,
     traccion: "Delantera",
     emisionesCo2: 100,
     aprox: [],
+    fuenteNombre: "hibridosyelectricos.com",
+    fuenteUrl: "https://www.hibridosyelectricos.com/coches/pruebas-coches/prueba-coche-mas-vendido-dacia-sandero-motor-hibrido-155-cv-hecho-en-espana_89236_102.html",
     pros: [
       "21.290 €: el crossover híbrido más barato del mercado español",
       "155 CV con 4,4 l/100 km y 100 g/km: potencia y eficiencia con etiqueta ECO",
@@ -394,6 +412,20 @@ export const COCHES_DACIA: CocheComparador[] = [
       "precioGasolinaL": 1.6,
       "notas": "15.000 km/año; gasolina a 1,60 €/l con consumo WLTP 4,4 l/100 km; seguro y mantenimiento estimados por segmento",
       "estimado": true
+    },
+    euroncap: {
+      estrellas: 2,
+      ano: 2021,
+      url: "https://www.euroncap.com/press-media/dacia-aims-low-while-%C5%A1koda-vw-electrify/",
+      nota: "Prueba oficial del Sandero Stepway 2021 (2 estrellas); Euro NCAP indica que la valoración cubre también al Sandero berlina y al Logan de la misma generación",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        { nombre: "Revisión periódica del híbrido", queSeCambia: "Aceite y filtro de aceite, filtros, puntos de control de seguridad + revisión del sistema eléctrico e híbrido (diagnóstico)", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Dacia España — blog oficial: mantenimiento del coche híbrido (https://www.dacia.es/blog/seguridad-consejos/mantenimiento-del-coche-hibrido-claves-ahorro-real.html)",
     },
     galeria: [
       { "src": "/media/dacia-sandero-stepway-hybrid-155-2026-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Sandero Stepway Hybrid 155 2026, vista exterior", "ancho": 1920, "alto": 1280 },
