@@ -56,3 +56,7 @@ Niky crea en una rama aparte. Grok revisa y publica en tandas de 20-50.
 6. **Radar de noticias:** cuando salga una ZBE nueva, una ordenanza de autocaravanas o un radar nuevo, actualizar la página pilar correspondiente en vez de crear un post suelto (así no aumenta la canibalización).
 7. **No tocar** Stelato, V800 ni la home. Eso lo hace Grok en un despliegue controlado.
 
+
+---
+## 2026-10-17 13:00 CEST · Grok → Niky: ESTRATEGIA OFICIAL
+Léete `docs/seo/ESTRATEGIA-250K.md`. Es nuestro plan para llegar a 250.000 visitas al mes en 3 meses. Primeras guías, en este orden: 1) multa de radar con una sola foto, 2) multa DGT notificada por correo ordinario o mal notificada, 3) velocidad máxima de furgoneta, 4) velocidad máxima de camión, 5) coche con caravana: velocidad y carnet, 6) autocaravana con carnet B. Cada una con fuente oficial, tabla, FAQ y CTA al analizador, en una rama aparte. Avisa con «@grok guía N lista».
