@@ -473,8 +473,8 @@ const COCHES_LOTE13_A: CocheComparador[] = [
       "Ecosistema Xiaomi/Huawei pensado para el mercado chino",
     ],
     largoMm: 5130,
-    anchoMm: null,
-    altoMm: null,
+    anchoMm: 1965,
+    altoMm: 1510,
     pesoKg: null,
     consumo: 12.4,
     consumoUnidad: "kWh/100 km",
@@ -482,7 +482,7 @@ const COCHES_LOTE13_A: CocheComparador[] = [
     parNm: null,
     traccion: null,
     emisionesCo2: 0,
-    aprox: ["precioDesde", "autonomiaKm", "consumo", "largoMm"],
+    aprox: ["precioDesde", "autonomiaKm", "consumo"],
     imagen: "/media/toyota-bz7-2026-precio-ficha-tecnica-1.webp",
     opiniones: [],
     costeMensual: {
@@ -536,6 +536,8 @@ const COCHES_LOTE13_A: CocheComparador[] = [
       costeAnualAproxEur: 160,
       fuente: "Plan estándar para vehículos eléctricos (sin plan oficial publicado por la marca)",
     },
+    fuenteNombre: "hibridosyelectricos",
+    fuenteUrl: "https://www.hibridosyelectricos.com/coches/toyota-electrico-513-metros-tecnologia-huawei-llega-mercado-por-18400-aunque-no-podras-comprarlo_86197_102.html",
   },
   {
     id: "honda-gt-2026-precio-ficha-tecnica",

@@ -437,8 +437,8 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     precioDesde: 31990,
     potenciaCv: 144,
     autonomiaKm: 344,
-    maleteroL: 306,
-    ceroCien: null,
+    maleteroL: 310,
+    ceroCien: 9.6,
     velocidadMax: 150,
     bateriaKwh: 49,
     cargaRapidaKw: null,
@@ -464,10 +464,10 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     consumo: null,
     consumoUnidad: null,
     plazas: 5,
-    parNm: null,
+    parNm: 189,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["bateriaKwh"],
+    aprox: [],
     imagen: "/media/toyota-urban-cruiser-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -500,7 +500,15 @@ export const COCHES_TOYOTA: CocheComparador[] = [
         "ancho": 1984,
         "alto": 1184
       }
-    ]
+    ],
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: modelo no probado"
+    },
+    fuenteNombre: "somoselectricos",
+    fuenteUrl: "https://somoselectricos.com/toyota-urban-cruiser-electrico-no-llega-espana/"
   },
   {
     id: "toyota-c-hr-plus-2026-precio-ficha-tecnica",
@@ -1360,7 +1368,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     anchoMm: 2050,
     altoMm: 2524,
     pesoKg: 2100,
-    consumo: 7.3,
+    consumo: 7.7,
     consumoUnidad: "l/100 km",
     plazas: 3,
     parNm: 350,
@@ -1401,7 +1409,30 @@ export const COCHES_TOYOTA: CocheComparador[] = [
       }
     ],
     fuenteNombre: "coches.net",
-    fuenteUrl: "https://www.coches.net/fichas_tecnicas/toyota/proace/industriales/4-puertas/van_l2h2_22d_103kw_140cv_6mt_gx_140cv_diesel/112711/843839920240704/"
+    fuenteUrl: "https://www.coches.net/fichas_tecnicas/toyota/proace/industriales/4-puertas/van_l2h2_22d_103kw_140cv_6mt_gx_140cv_diesel/112711/843839920240704/",
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: null,
+      nota: "5 estrellas en el programa de furgonetas Euro NCAP 2025 (gemelos Stellantis evaluados con 5 estrellas: Peugeot Boxer y Fiat Ducato; sin prueba individual del Proace Max)"
+    },
+    planMantenimiento: {
+      intervalo: "Revisión intermedia cada 15.000 km o 12 meses; revisión principal cada 30.000 km o 24 meses",
+      revisiones: [
+        {
+          nombre: "Revisión intermedia / 15.000 km",
+          queSeCambia: "Aceite + filtro de aceite + inspección general + niveles + AdBlue",
+          costeAproxEur: null
+        },
+        {
+          nombre: "Revisión principal / 30.000 km",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + filtro de polen + filtro de combustible + inspección de frenos y correas",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento Toyota Professional (intermedia 15.000 km/12 meses, principal 30.000 km/24 meses)"
+    }
   },
   {
     id: "toyota-yaris-130h-2025-precio-ficha-tecnica",
@@ -1585,7 +1616,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     precioDesde: null,
     potenciaCv: 223,
     autonomiaKm: 86,
-    maleteroL: null,
+    maleteroL: 284,
     ceroCien: 6.8,
     velocidadMax: 177,
     bateriaKwh: 13.6,
@@ -1614,12 +1645,33 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     plazas: 5,
     parNm: null,
     traccion: "Delantera",
-    emisionesCo2: null,
-    aprox: [
-      "autonomiaKm"
-    ],
+    emisionesCo2: 11,
+    aprox: [],
     imagen: "/media/toyota-prius-phev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: la 5.ª generación (2023) aún no ha sido evaluada por Euro NCAP"
+    },
+    planMantenimiento: {
+      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+      revisiones: [
+        {
+          nombre: "Revisión intermedia / 15.000 km",
+          queSeCambia: "Aceite + filtro de aceite + inspección general + niveles",
+          costeAproxEur: null
+        },
+        {
+          nombre: "Revisión principal / 30.000 km",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + filtro de polen + líquido de frenos (según plan) + inspección híbrida",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento Toyota España (15.000 km o 12 meses)"
+    },
     galeria: [
       {
         src: "/media/toyota-prius-phev-2025-precio-ficha-tecnica-oficial.webp",

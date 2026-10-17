@@ -1998,12 +1998,12 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     imagen: "/media/toyota-corolla-5p-140h-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/toyota-corolla-5p-140h-2026-precio-ficha-tecnica-interior-oficial.webp",
     imagenOficial: "/media/toyota-corolla-5p-140h-2026-precio-ficha-tecnica-oficial.webp",
-    largoMm: null,
-    maleteroL: null,
+    largoMm: 4370,
+    maleteroL: 361,
     marca: "Toyota",
     modelo: "Corolla 5p 140H",
-    parNm: null,
-    pesoKg: null,
+    parNm: 185,
+    pesoKg: 1420,
     planMantenimiento: {
       fuente: "Toyota España: intervalo oficial 15.000 km o 1 año; costes no publicados",
       intervalo: "Cada 15.000 km o 1 año",
@@ -2015,6 +2015,14 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         }
       ]
     },
+    euroncap: {
+      ano: 2019,
+      estrellas: 5,
+      nota: "5 estrellas en la prueba Euro NCAP de 2019 (misma generación TNGA-C)",
+      url: null
+    },
+    fuenteNombre: "Toyota España (prensa)",
+    fuenteUrl: "https://prensa.toyota.es/download/3cef88a2-fe7c-4c07-9b61-222a9ea8ca2e/toyotacorolla-5-puertas-2025.pdf",
     plazas: 5,
     potenciaCv: 140,
     precioDesde: 25450,
@@ -2655,17 +2663,17 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    largoMm: null,
-    anchoMm: null,
-    altoMm: null,
-    pesoKg: null,
-    consumo: null,
-    consumoUnidad: null,
+    largoMm: 4505,
+    anchoMm: 1845,
+    altoMm: 1622,
+    pesoKg: 1740,
+    consumo: 7.8,
+    consumoUnidad: "l/100 km",
     plazas: 5,
     parNm: 400,
     traccion: "Total",
-    emisionesCo2: null,
-    aprox: [],
+    emisionesCo2: 177,
+    aprox: ["consumo", "emisionesCo2"],
     pros: [
       "Es el primer X1 con apellido M: 300 CV y chasis específico M con suspensión adaptativa.",
       "El maletero de 540 litros es de los más grandes entre los SUV compactos deportivos.",
@@ -2725,7 +2733,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       fuente: "BMW España: intervalo CBS oficial; la marca no publica precios de revisiones"
     },
     fuenteNombre: "BMW España",
-    fuenteUrl: "https://www.bmw.es"
+    fuenteUrl: "https://www.bmw.es/es/coches-bmw/m/x1-m35i/bmw-x1-m35i-xdrive.html"
   },
   {
     id: "bmw-x2-m35i-2025-precio-ficha-tecnica",
