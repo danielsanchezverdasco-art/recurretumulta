@@ -580,7 +580,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     plazas: 2,
     carnet: "A1 (B con 3 años)",
     carga: "6 h (0-100 %), <3 h (25-75 %)",
-    etiquetaDgt: "0emisiones",
+    etiquetaDgt: "Cero",
     aprox: ["precioDesde", "autonomiaKm"],
     pros: [
       "Dos baterías extraíbles de 1,3 kWh: se cargan en cualquier enchufe",
@@ -635,7 +635,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     plazas: 1,
     carnet: "AM",
     carga: "6 h",
-    etiquetaDgt: "0emisiones",
+    etiquetaDgt: "Cero",
     aprox: ["precioDesde", "autonomiaKm", "bateriaKwh"],
     pros: [
       "Carnet AM desde los 15 años: la primera moto eléctrica de muchos",
@@ -690,7 +690,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     plazas: 2,
     carnet: "A1 (B con 3 años)",
     carga: "0-80 % en 5 h",
-    etiquetaDgt: "0emisiones",
+    etiquetaDgt: "Cero",
     aprox: ["precioDesde", "autonomiaKm"],
     pros: [
       "218 Nm de par: aceleración brutal, 0-50 km/h en 2,6 segundos",
@@ -745,7 +745,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     plazas: 2,
     carnet: "A1 (B con 3 años)",
     carga: "~4 h",
-    etiquetaDgt: "0emisiones",
+    etiquetaDgt: "Cero",
     aprox: ["precioDesde", "potenciaKw", "potenciaCv", "autonomiaKm"],
     pros: [
       "Estética cafe racer retro con faro redondo LED",
@@ -800,7 +800,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     plazas: 2,
     carnet: "A1 (B con 3 años)",
     carga: null,
-    etiquetaDgt: "0emisiones",
+    etiquetaDgt: "Cero",
     aprox: ["precioDesde", "potenciaKw", "potenciaCv", "autonomiaKm", "bateriaKwh"],
     pros: [
       "130 km de autonomía declarada: de las mejores de su clase",

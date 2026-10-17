@@ -80,6 +80,7 @@ const FILAS: Fila[] = [
   { campo: "precioDesde", label: "Precio desde", get: (m) => fmtPrecio(m.precioDesde) },
   { campo: "version", label: "Versión", get: (m) => m.version },
   { campo: "potencia", label: "Potencia", get: fmtKwCv },
+  { campo: "cilindradaCc", label: "Cilindrada", get: (m) => (m.cilindradaCc == null || esMotoElectrica(m) ? "—" : m.cilindradaCc + " cc") },
   { campo: "autonomiaKm", label: "Autonomía", get: fmtAutonomia },
   { campo: "bateriaKwh", label: "Batería", get: (m) => fmtKwh(m.bateriaKwh) },
   { campo: "velocidadMax", label: "Velocidad máxima", get: (m) => fmtKmh(m.velocidadMax) },
@@ -137,6 +138,10 @@ function Ficha({ moto }: { moto: MotoComparador }) {
   if (specbars.length < 4 && moto.bateriaKwh != null)
     specbars.push({ label: "Batería", value: moto.bateriaKwh, max: 10, unit: " kWh" });
 
+  // 17/10/2026: moto eléctrica (etiqueta Cero, batería o autonomía). Las de combustión no
+  // muestran migas ni entradilla de «motos eléctricas» (autonomía/batería).
+  const esElectrica = esMotoElectrica(moto);
+  const conCilindrada = !esElectrica && moto.cilindradaCc != null;
   const esElectricaFaq =
     etiquetaBaseMoto(moto.etiquetaDgt) === "Cero" || moto.autonomiaKm != null || moto.carga != null;
   const FAQS = [
@@ -242,7 +247,7 @@ function Ficha({ moto }: { moto: MotoComparador }) {
           {
             "@type": "ListItem",
             position: 2,
-            name: "Comparador de motos eléctricas",
+            name: esElectrica ? "Comparador de motos eléctricas" : "Comparador de motos",
             item: "https://recurretumulta.online/comparador-motos",
           },
           {
@@ -260,7 +265,9 @@ function Ficha({ moto }: { moto: MotoComparador }) {
     // SEO 07/10/2026 (metodología CTR, Daniel): fórmula ganadora
     // [Keyword] + [número] + [beneficio] + [(año)]. Siempre ≤60 car.
     title: tituloFichaMoto(nombre, moto),
-    description: `Ficha técnica de la ${nombre}: precio, autonomía, batería, carnet necesario, pros y contras, vídeo y comparativa. Sin cifras inventadas.`,
+    description: esElectrica
+      ? `Ficha técnica de la ${nombre}: precio, autonomía, batería, carnet necesario, pros y contras, vídeo y comparativa. Sin cifras inventadas.`
+      : `Ficha técnica de la ${nombre}: precio, potencia, ${conCilindrada ? "cilindrada, " : ""}carnet necesario, etiqueta DGT, pros y contras y comparativa. Sin cifras inventadas.`,
     canonical: `/motos/${moto.id}/`,
     ...(moto.imagen ? { image: `https://recurretumulta.online${moto.imagen}` } : {}),
     type: "article",
@@ -268,9 +275,9 @@ function Ficha({ moto }: { moto: MotoComparador }) {
       nombre,
       `${nombre} ficha técnica`,
       `${nombre} precio`,
-      `${nombre} autonomía`,
+      esElectrica ? `${nombre} autonomía` : `${nombre} carnet`,
       `${nombre} opiniones`,
-      `moto eléctrica ${nombre}`,
+      esElectrica ? `moto eléctrica ${nombre}` : `moto ${nombre}`,
     ],
     schema: reviewsExtra
       ? {
@@ -297,7 +304,7 @@ function Ficha({ moto }: { moto: MotoComparador }) {
           </Link>{" "}
           ·{" "}
           <Link to="/comparador-motos/" className="hover:underline">
-            Comparador de motos eléctricas
+            {esElectrica ? "Comparador de motos eléctricas" : "Comparador de motos"}
           </Link>{" "}
           · <span className="text-gray-700">{nombre}</span>
         </nav>
@@ -351,7 +358,17 @@ function Ficha({ moto }: { moto: MotoComparador }) {
           </div>
           <h1 className="mt-3 text-3xl font-extrabold text-gray-900 sm:text-4xl">{nombre}</h1>
           <p className="mt-2 text-gray-600">
-            Ficha técnica completa: precio, potencia, <Marker>autonomía</Marker>, batería,{" "}
+            {esElectrica ? (
+              <>
+                Ficha técnica completa: precio, potencia, <Marker>autonomía</Marker>, batería,{" "}
+              </>
+            ) : (
+              conCilindrada ? (
+                <>Ficha técnica completa: precio, potencia, <Marker>cilindrada</Marker>,{" "}</>
+              ) : (
+                <>Ficha técnica completa: precio, potencia,{" "}</>
+              )
+            )}
             <Marker>carnet necesario</Marker> y <Marker>etiqueta DGT</Marker>, con puntos
             fuertes y débiles. Si un dato no está publicado por una
             fuente fiable, no lo mostramos en vez de inventarlo. Fuente:{" "}
@@ -805,6 +822,9 @@ function Ficha({ moto }: { moto: MotoComparador }) {
 // 17/10/2026: respuesta de la FAQ de etiqueta según la etiqueta DGT real de la ficha.
 function etiquetaBaseMoto(e: string | null | undefined): string {
   return String(e || "").trim().split(/\s+/)[0] || "";
+}
+function esMotoElectrica(m: MotoComparador): boolean {
+  return etiquetaBaseMoto(m.etiquetaDgt) === "Cero" || m.bateriaKwh != null || m.autonomiaKm != null;
 }
 function respuestaEtiquetaMoto(nombre: string, e: string | null | undefined): string {
   const et = etiquetaBaseMoto(e);

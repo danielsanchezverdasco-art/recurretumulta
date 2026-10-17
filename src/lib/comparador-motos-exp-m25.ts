@@ -3505,7 +3505,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     plazas: 2,
     carnet: "A1 (B con 3 años)",
     carga: null,
-    etiquetaDgt: "0emisiones",
+    etiquetaDgt: "Cero",
     aprox: ["precioDesde", "potenciaKw", "potenciaCv", "autonomiaKm", "bateriaKwh", "costeAnualAproxEur"],
     pros: [
       "130 km de autonomía declarada: de las mejores de su clase",

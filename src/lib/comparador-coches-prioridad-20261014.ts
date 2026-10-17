@@ -705,7 +705,7 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     pros: ["130 CV (96 kW)", "Maletero de 550 l", "3 estrellas EuroNCAP (2016)", "5 plazas", "Desde 24.000 € (aprox. no oficial)"],
     contras: ["Precio aproximado no oficial (no es PVP)"],
     imagen: "/media/fiat-tipo-sw-2025-hero.webp",
-    imagenOficial: "/media/fiat-tipo-sw-2025-2.webp",
+    imagenOficial: "/media/fiat-tipo-sw-2025-hero.webp", // 17/10/2026: la -2 es el interior; portada = exterior
     imagenInteriorOficial: "",
     analisisSlug: "fiat-tipo-sw-precio-ficha-tecnica",
     videoId: null,
@@ -813,7 +813,7 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     fuenteNombre: "Ford USA (showroom oficial)",
     fuenteUrl: "https://en.wikipedia.org/wiki/Ford_F-150_Lightning",
     imagen: "/media/ford-f-150-lightning-2025-hero.webp",
-    imagenOficial: "/media/ford-f-150-lightning-2025-2.webp",
+    imagenOficial: "/media/ford-f-150-lightning-2025-hero.webp", // 17/10/2026: la -2 es el interior; portada = exterior
     imagenInteriorOficial: "",
     analisisSlug: "ford-f-150-lightning-precio-ficha-tecnica",
     videoId: null,
@@ -1526,7 +1526,7 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
       "Sin datos EuroNCAP"
     ],
     imagen: "/media/honda-nsx-2022-hero.webp",
-    imagenOficial: "/media/honda-nsx-2022-2.webp",
+    imagenOficial: "/media/honda-nsx-2022-hero.webp", // 17/10/2026: la -2 es el interior; portada = exterior
     imagenInteriorOficial: "",
     analisisSlug: "honda-nsx-precio-ficha-tecnica",
     videoId: null,
