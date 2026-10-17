@@ -252,8 +252,8 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/mercedes-benz-clase-e-220-d-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mercedes-benz-clase-e-220-d-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/mercedes-benz-clase-e-220-d-precio-ficha-tecnica-1.webp",
+    imagenInteriorOficial: "/media/mercedes-benz-clase-e-220-d-precio-ficha-tecnica-2.webp",
     videoId: "3Jj9S-IPJmo",
     videoCanal: "Arrancamos 2.0",
     marca: "Mercedes-Benz",
@@ -262,7 +262,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     categoria: "Berlina",
     precioDesde: 65368,
     potenciaCv: 197,
-    autonomiaKm: 1400,
+    autonomiaKm: null,
     maleteroL: 540,
     ceroCien: 7.6,
     velocidadMax: 238,
@@ -312,7 +312,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     euroncap: {
       estrellas: 5,
       ano: 2024,
-      url: null,
+      url: "https://www.euroncap.com/en/results/mercedes-benz/e-class/51910",
       nota: "Prueba del Mercedes-Benz Clase E (W214), 2024: 92 % adulto, 90 % infantil; Best in Class Euro NCAP 2024",
     },
     planMantenimiento: {
@@ -505,22 +505,28 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/mercedes-benz-gla-200-precio-ficha-tecnica-hero.webp",
-        "alt": "Mercedes GLA 200, SUV compacto, vista tres cuartos delantera",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/mercedes-benz-gla-200-precio-ficha-tecnica-1.webp",
+        "alt": "Mercedes-Benz GLA 200 (H247), SUV compacto, vista frontal tres cuartos",
+        "ancho": 1500,
+        "alto": 1000
       },
       {
-        "src": "/media/mercedes-benz-gla-200-precio-ficha-tecnica-oficial.webp",
-        "alt": "Mercedes GLA 200, vista lateral",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/mercedes-benz-gla-200-precio-ficha-tecnica-2.webp",
+        "alt": "Mercedes-Benz GLA 200, vista lateral en estudio",
+        "ancho": 1600,
+        "alto": 1000
       },
       {
-        "src": "/media/mercedes-benz-gla-200-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del Mercedes GLA 200",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/mercedes-benz-gla-200-precio-ficha-tecnica-3.webp",
+        "alt": "Mercedes-Benz GLA 200, frontal tres cuartos",
+        "ancho": 1600,
+        "alto": 1066
+      },
+      {
+        "src": "/media/mercedes-benz-gla-200-precio-ficha-tecnica-4.webp",
+        "alt": "Mercedes-Benz GLA 200, detalle de llanta AMG",
+        "ancho": 1000,
+        "alto": 470
       }
     ],
   },
@@ -603,22 +609,28 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/mercedes-benz-glb-200-precio-ficha-tecnica-hero.webp",
-        "alt": "Mercedes GLB 200, SUV familiar de 7 plazas, vista tres cuartos",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/mercedes-benz-glb-200-precio-ficha-tecnica-1.webp",
+        "alt": "Mercedes-Benz GLB 200 (X247), SUV de 7 plazas, vista frontal",
+        "ancho": 800,
+        "alto": 534
       },
       {
-        "src": "/media/mercedes-benz-glb-200-precio-ficha-tecnica-oficial.webp",
-        "alt": "Mercedes GLB 200, vista lateral",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/mercedes-benz-glb-200-precio-ficha-tecnica-2.webp",
+        "alt": "Mercedes-Benz GLB 200, vista lateral",
+        "ancho": 1580,
+        "alto": 926
       },
       {
-        "src": "/media/mercedes-benz-glb-200-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del Mercedes GLB 200 con 7 plazas",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/mercedes-benz-glb-200-precio-ficha-tecnica-3.webp",
+        "alt": "Mercedes-Benz GLB 200, trasera tres cuartos",
+        "ancho": 1300,
+        "alto": 868
+      },
+      {
+        "src": "/media/mercedes-benz-glb-200-precio-ficha-tecnica-4.webp",
+        "alt": "Mercedes-Benz GLB 200, detalle del frontal",
+        "ancho": 830,
+        "alto": 550
       }
     ],
   },
@@ -701,22 +713,28 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/mercedes-benz-glc-200-precio-ficha-tecnica-hero.webp",
-        "alt": "Mercedes GLC 200 4MATIC, SUV premium, vista tres cuartos delantera",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/mercedes-benz-glc-200-precio-ficha-tecnica-1.webp",
+        "alt": "Mercedes-Benz GLC 200 (X254), SUV, vista frontal tres cuartos",
+        "ancho": 1249,
+        "alto": 654
       },
       {
-        "src": "/media/mercedes-benz-glc-200-precio-ficha-tecnica-oficial.webp",
-        "alt": "Mercedes GLC 200 4MATIC, vista lateral",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/mercedes-benz-glc-200-precio-ficha-tecnica-2.webp",
+        "alt": "Mercedes-Benz GLC 200, en carretera de montaña",
+        "ancho": 1499,
+        "alto": 1000
       },
       {
-        "src": "/media/mercedes-benz-glc-200-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del Mercedes GLC 200 4MATIC",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/mercedes-benz-glc-200-precio-ficha-tecnica-3.webp",
+        "alt": "Mercedes-Benz GLC 200, vista lateral",
+        "ancho": 1023,
+        "alto": 576
+      },
+      {
+        "src": "/media/mercedes-benz-glc-200-precio-ficha-tecnica-4.webp",
+        "alt": "Mercedes-Benz GLC 200, detalle del frontal",
+        "ancho": 1600,
+        "alto": 870
       }
     ],
   },
