@@ -1969,14 +1969,6 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     ],
     emisionesCo2: 104,
     etiquetaDgt: "ECO",
-    euroncap: {
-      ano: 2019,
-      estrellas: 5,
-      nota: "5 estrellas EuroNCAP 2019 para la duodécima generación del Corolla; URL del informe no publicada por la marca",
-      url: null
-    },
-    fuenteNombre: "prensa.toyota.es / km77.com",
-    fuenteUrl: "https://prensa.toyota.es/la-gama-toyota-corolla-refuerza-su-oferta-para-celebrar-su-60-aniversario-con-una-edicion-especial-el-regreso-de-style-y-una-mayor-presencia-de-gr-sport/",
     galeria: [
       {
         alt: "Toyota Corolla 5 puertas 2026 60 Aniversario vista exterior",
@@ -1998,12 +1990,12 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     imagen: "/media/toyota-corolla-5p-140h-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/toyota-corolla-5p-140h-2026-precio-ficha-tecnica-interior-oficial.webp",
     imagenOficial: "/media/toyota-corolla-5p-140h-2026-precio-ficha-tecnica-oficial.webp",
-    largoMm: null,
-    maleteroL: null,
+    largoMm: 4370,
+    maleteroL: 361,
     marca: "Toyota",
     modelo: "Corolla 5p 140H",
-    parNm: null,
-    pesoKg: null,
+    parNm: 185,
+    pesoKg: 1420,
     planMantenimiento: {
       fuente: "Toyota España: intervalo oficial 15.000 km o 1 año; costes no publicados",
       intervalo: "Cada 15.000 km o 1 año",
@@ -2015,6 +2007,14 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         }
       ]
     },
+    euroncap: {
+      ano: 2019,
+      estrellas: 5,
+      nota: "5 estrellas en la prueba Euro NCAP de 2019 (misma generación TNGA-C)",
+      url: null
+    },
+    fuenteNombre: "Toyota España (prensa)",
+    fuenteUrl: "https://prensa.toyota.es/download/3cef88a2-fe7c-4c07-9b61-222a9ea8ca2e/toyotacorolla-5-puertas-2025.pdf",
     plazas: 5,
     potenciaCv: 140,
     precioDesde: 25450,
@@ -2655,17 +2655,17 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    largoMm: null,
-    anchoMm: null,
-    altoMm: null,
-    pesoKg: null,
-    consumo: null,
-    consumoUnidad: null,
+    largoMm: 4505,
+    anchoMm: 1845,
+    altoMm: 1622,
+    pesoKg: 1740,
+    consumo: 7.8,
+    consumoUnidad: "l/100 km",
     plazas: 5,
     parNm: 400,
     traccion: "Total",
-    emisionesCo2: null,
-    aprox: [],
+    emisionesCo2: 177,
+    aprox: ["consumo", "emisionesCo2"],
     pros: [
       "Es el primer X1 con apellido M: 300 CV y chasis específico M con suspensión adaptativa.",
       "El maletero de 540 litros es de los más grandes entre los SUV compactos deportivos.",
@@ -2725,7 +2725,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       fuente: "BMW España: intervalo CBS oficial; la marca no publica precios de revisiones"
     },
     fuenteNombre: "BMW España",
-    fuenteUrl: "https://www.bmw.es"
+    fuenteUrl: "https://www.bmw.es/es/coches-bmw/m/x1-m35i/bmw-x1-m35i-xdrive.html"
   },
   {
     id: "bmw-x2-m35i-2025-precio-ficha-tecnica",
@@ -3189,25 +3189,25 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     potenciaCv: 208,
     autonomiaKm: null,
     maleteroL: 520,
-    ceroCien: null,
-    velocidadMax: null,
+    ceroCien: 7.5,
+    velocidadMax: 230,
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    largoMm: null,
-    anchoMm: null,
-    altoMm: null,
-    pesoKg: null,
-    consumo: null,
-    consumoUnidad: null,
+    largoMm: 5060,
+    anchoMm: 1900,
+    altoMm: 1515,
+    pesoKg: 1800,
+    consumo: 5.8,
+    consumoUnidad: "l/100 km",
     plazas: 5,
     parNm: 330,
     traccion: "Trasera",
-    emisionesCo2: null,
-    aprox: [],
+    emisionesCo2: 149,
+    aprox: ["emisionesCo2"],
     pros: [
       "El 2.0 de 208 CV con 48 V es suficiente y refinado para una berlina ejecutiva.",
       "La etiqueta ECO abre todas las ZBE sin el sobreprecio de un híbrido enchufable.",
@@ -3266,8 +3266,8 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       ],
       fuente: "BMW España: intervalo CBS oficial; la marca no publica precios de revisiones"
     },
-    fuenteNombre: "BMW España",
-    fuenteUrl: "https://www.bmw.es"
+    fuenteNombre: "coches.net",
+    fuenteUrl: "https://www.coches.net/fichas_tecnicas/bmw/serie_5/berlina/4-puertas/520i_208cv_hibrido/473/785069820251101/"
   },
   {
     id: "bmw-ix-m70-2025-precio-ficha-tecnica",

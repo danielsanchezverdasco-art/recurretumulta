@@ -918,7 +918,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
-    imagenOficial: "/media/ebro-s400-hibrido-precio-ficha-tecnica-oficial.webp",
+    imagenOficial: "/media/ebro-s400-hibrido-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial:
       "/media/ebro-s400-hibrido-precio-ficha-tecnica-interior-oficial.webp",
     videoId: "sjVkNViFqYo",
@@ -999,24 +999,24 @@ export const COCHES_NUEVOS: CocheComparador[] = [
       "notas": "consumo WLTP declarado (l/100 km); gasolina 95 aprox 1,85 EUR/l",
       "estimado": true
     },
-    galeria: [
+        galeria: [
       {
-        "src": "/media/ebro-s400-hibrido-precio-ficha-tecnica-oficial-2.webp",
-        "alt": "Ebro s400 Hybrid blanco frontal con parrilla EBRO",
-        "ancho": 1200,
-        "alto": 801
+        src: "/media/ebro-s400-hibrido-precio-ficha-tecnica-hero.webp",
+        alt: "Ebro S400 2025, SUV híbrido fabricado en España",
+        ancho: 1600,
+        alto: 750,
       },
       {
-        "src": "/media/ebro-s400-hibrido-precio-ficha-tecnica-oficial-3.webp",
-        "alt": "Ebro s400 Hybrid blanco de perfil al atardecer",
-        "ancho": 1200,
-        "alto": 801
+        src: "/media/ebro-s400-hibrido-precio-ficha-tecnica-oficial.webp",
+        alt: "Ebro S400 2025, vista lateral",
+        ancho: 1280,
+        alto: 800,
       },
       {
-        "src": "/media/ebro-s400-hibrido-precio-ficha-tecnica-interior-oficial-2.webp",
-        "alt": "Asientos traseros del Ebro s400 Hybrid",
-        "ancho": 1200,
-        "alto": 801
+        src: "/media/ebro-s400-hibrido-precio-ficha-tecnica-galeria-4.webp",
+        alt: "Ebro S400 circulando por carretera",
+        ancho: 1280,
+        alto: 720,
       }
     ],
   },
@@ -6539,11 +6539,26 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagen: "/media/renault-austral-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/renault-austral-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/renault-austral-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      {
+        src: "/media/renault-austral-2024-precio-ficha-tecnica-hero.webp",
+        alt: "Renault Austral E-Tech 2024, SUV híbrido",
+        ancho: 1600,
+        alto: 864,
+      },
+      {
+        src: "/media/renault-austral-2024-precio-ficha-tecnica-oficial.webp",
+        alt: "Renault Austral E-Tech 2024, vista lateral",
+        ancho: 1200,
+        alto: 800,
+      },
+    ],
     videoId: "7mwHJlc8P0Q",
     videoCanal: "HolyCars TV",
     opiniones: [],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/renault/austral/2023/estandar/hev/austral-evolution-e-tech-full-hybrid-146-kw-200-cv/datos",
+    analisisSlug: "renault-austral-2024-precio-ficha-tecnica",
   },
   {
     id: "renault-rafale-2024-precio-ficha-tecnica",
@@ -6732,6 +6747,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   },
   {
     id: "dacia-bigster-2025-precio-ficha-tecnica",
+    analisisSlug: "dacia-bigster-2025-precio-ficha-tecnica",
     mantenimientoDIY: {
         resetAceiteTitulo: "Resetear aviso de cambio de aceite",
         resetAceitePasos: ["Da el contacto sin arrancar el motor.", "Con el botón del ordenador de a bordo (en la palanca derecha o en los mandos del volante), navega por el menú hasta la pantalla de 'intervalo de revisión' / 'autonomía de revisión'.", "Mantén pulsado el botón OK durante unos 10 segundos, hasta que la indicación parpadee y quede fija con el nuevo intervalo.", "Quita el contacto y vuelve a darlo para comprobar que el aviso ha desaparecido."],
@@ -6785,6 +6801,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
       "Más pesado y torpe en ciudad que un Duster",
     ],
     imagen: "/media/dacia-bigster-2025-precio-ficha-tecnica-hero.webp",
+    galeria: [
+      { src: "/media/dacia-bigster-2025-precio-ficha-tecnica-hero.webp", alt: "Dacia Bigster 2025, el SUV grande de Dacia", ancho: 1500, alto: 800 },
+      { src: "/media/dacia-bigster-2025-precio-ficha-tecnica-oficial.webp", alt: "Dacia Bigster 2025, vista lateral", ancho: 1600, alto: 900 },
+      { src: "/media/dacia-bigster-2025-precio-ficha-tecnica-galeria-4.webp", alt: "Dacia Bigster 2025 en carretera", ancho: 1024, alto: 684 },
+    ],
     imagenOficial: "/media/dacia-bigster-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/dacia-bigster-2025-precio-ficha-tecnica-interior-oficial.webp",
     videoId: "Kmp-y-nU954",

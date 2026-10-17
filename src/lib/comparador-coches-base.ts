@@ -539,24 +539,24 @@ export const COCHES_BASE: CocheComparador[] = [
       "notas": "consumo WLTP combinado declarado (l/100 km); PHEV: el coste real depende del habito de carga",
       "estimado": true
     },
-    galeria: [
+        galeria: [
       {
-        "src": "/media/omoda-9-shs-precio-ficha-tecnica-oficial-2.webp",
-        "alt": "Omoda 9 SHS, tres cuartos delantero en estudio (spec UK)",
-        "ancho": 1200,
-        "alto": 759
+        src: "/media/omoda-9-shs-precio-ficha-tecnica-hero.webp",
+        alt: "Omoda 9 SHS, SUV híbrido enchufable de 537 CV",
+        ancho: 1280,
+        alto: 720,
       },
       {
-        "src": "/media/omoda-9-shs-precio-ficha-tecnica-oficial-3.webp",
-        "alt": "Omoda 9 SHS, vista frontal",
-        "ancho": 1199,
-        "alto": 800
+        src: "/media/omoda-9-shs-precio-ficha-tecnica-oficial.webp",
+        alt: "Omoda 9 SHS, vista lateral",
+        ancho: 1600,
+        alto: 900,
       },
       {
-        "src": "/media/omoda-9-shs-precio-ficha-tecnica-interior-oficial-2.webp",
-        "alt": "Interior del Omoda 9 SHS",
-        "ancho": 1200,
-        "alto": 720
+        src: "/media/omoda-9-shs-precio-ficha-tecnica-galeria-4.webp",
+        alt: "Omoda 9 SHS circulando",
+        ancho: 1280,
+        alto: 720,
       }
     ],
   },
@@ -2540,6 +2540,8 @@ export const COCHES_BASE: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
+    fuenteNombre: "testcoches.es (ficha técnica Ioniq 3 2026, datos oficiales Hyundai Motor Europe)",
+    fuenteUrl: "https://testcoches.es/modelos/hyundai-ioniq-3-2026/",
     imagenOficial: "/media/hyundai-ioniq-3-2026-ficha-1.webp",
     imagenInteriorOficial: "/media/hyundai-ioniq-3-2026-ficha-2.webp",
     videoId: "wbjUokbtE70",
@@ -2552,8 +2554,8 @@ export const COCHES_BASE: CocheComparador[] = [
     potenciaCv: 135,
     autonomiaKm: 497,
     maleteroL: 441,
-    ceroCien: null,
-    velocidadMax: null,
+    ceroCien: 9.6,
+    velocidadMax: 170,
     bateriaKwh: 61,
     cargaRapidaKw: 110,
     etiquetaDgt: "Cero",
@@ -2574,12 +2576,12 @@ export const COCHES_BASE: CocheComparador[] = [
     largoMm: 4155,
     anchoMm: 1800,
     altoMm: 1505,
-    pesoKg: null,
-    consumo: null,
+    pesoKg: 1580,
+    consumo: 14.1,
     consumoUnidad: "kWh/100 km",
     plazas: 5,
-    parNm: null,
-    traccion: null,
+    parNm: 250,
+    traccion: "Delantera",
     emisionesCo2: 0,
     aprox: [],
     imagen: "/media/hyundai-ioniq-3-2026-ficha-1.webp",
@@ -2628,6 +2630,23 @@ export const COCHES_BASE: CocheComparador[] = [
         "Inserta el filtro nuevo con la flecha en la misma dirección.",
         "Vuelve a colocar la tapa y monta la guantera.",
       ],
+    },
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: modelo demasiado reciente, aún no probado",
+    },
+    planMantenimiento: {
+      intervalo: "Cada 24 meses o 30.000 km (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión bienal / 30.000 km",
+          queSeCambia: "Inspección general, filtro de habitáculo y estado de la batería de alto voltaje",
+          costeAproxEur: null,
+        },
+      ],
+      fuente: "Hyundai España (plan oficial para eléctricos)",
     },
   },
 ];

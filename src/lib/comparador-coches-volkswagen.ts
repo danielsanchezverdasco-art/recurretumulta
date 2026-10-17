@@ -2066,7 +2066,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "La versión de 605 km (77 kWh, 286 CV) costará sensiblemente más",
       "Sin prueba Euro NCAP publicada todavía",
     ],
-    largoMm: null,
+    largoMm: 4620,
     anchoMm: null,
     altoMm: null,
     pesoKg: null,
@@ -2128,5 +2128,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       ],
       "costeAnualAproxEur": null
     },
+    fuenteNombre: "gagadget.es / motormundial.es",
+    fuenteUrl: "https://gagadget.es/729499-volkswagen-id-tiguan-reservas-en-espana-desde-32400-eur/",
   },
 ];
