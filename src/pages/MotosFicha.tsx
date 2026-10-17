@@ -39,6 +39,8 @@ import type { ResenaSchemaExtra } from "@/components/ResenasVehiculo.tsx";
 import { loadArrayItem, loadRecordEntry } from "@/lib/data-loader-utils.ts";
 
 // 07/10/2026 (fluidez): animados below-the-fold en lazy — se cargan al hacer scroll.
+// 17/10/2026: historial de precios (below-the-fold, lazy).
+const HistorialPreciosLazy = lazy(() => import("@/components/HistorialPrecios.tsx"));
 const Donut = lazy(() => import("@/components/motion.tsx").then((m) => ({ default: m.Donut })));
 const BatteryFill = lazy(() => import("@/components/motion.tsx").then((m) => ({ default: m.BatteryFill })));
 const NightGallery = lazy(() => import("@/components/motion.tsx").then((m) => ({ default: m.NightGallery })));
@@ -551,6 +553,9 @@ function Ficha({ moto }: { moto: MotoComparador }) {
               </p>
             ) : null;
           })()}
+          <Suspense fallback={null}>
+            <HistorialPreciosLazy slug={moto.id} nombre={nombre} />
+          </Suspense>
           {BLOG_SLUGS.has(analisisMoto) ? (
             <Link
               to={`/blog/${analisisMoto}/`}
