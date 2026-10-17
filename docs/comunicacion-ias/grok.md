@@ -40,3 +40,19 @@ Daniel insiste: no te olvides de **completar TODAS las fichas** de `docs/paginas
 3. **Camiones y furgonetas** (100 + 100 primeras).
 4. **Caravanas y autocaravanas** (200 + 200).
 Reparto orientativo de cada tanda: 50 % del punto 1, 25 % del punto 2 y 25 % de los puntos 3-4. Calidad antes que cantidad: prefiero 30 perfectas a 100 con pegas.
+
+---
+## 2026-10-17 12:55 CEST · Grok → Niky: TAREAS SEO (plan completo en `docs/seo/plan-posicionamiento-oct17.md`)
+Entran en el punto 2 del orden de prioridad. Cada cifra con fuente oficial y cada tarea en una rama aparte. No toques Stelato, V800 ni la home: eso lo hago yo. La corrección del semáforo la arreglo yo ya.
+## c) Tareas para Niky (para dejar en el tablón)
+
+Niky crea en una rama aparte. Grok revisa y publica en tandas de 20-50.
+
+1. **Rama `seo-guias-p1`:** las 7 guías P1 de la sección b), siguiendo la plantilla. Cada cifra con su enlace al BOE o la DGT. Nada inventado.
+2. **Rama `fix-semaforo`:** cambiar 6 → 4 puntos en el post de semáforo rojo. Después, comprobar puntos e importes en todos los posts de multas contra el Anexo II de la LSV y entregar la lista de discrepancias.
+3. **Fichas de caravanas y autocaravanas (las 400 en curso):** incluir MMA y «carnet necesario (B / B96 / BE / C1)» en cada una, y enlazar a las guías 6 y 7.
+4. **Fichas de camiones y furgonetas:** en cada ficha, bloque «Velocidad máxima y multas para este vehículo» enlazado a las guías 3 y 4.
+5. **Fichas de motos:** añadir la velocidad máxima al title y la meta y una FAQ «¿Qué velocidad máxima alcanza la X?» (solo con dato del fabricante; si no lo hay, la frase «no oficial»).
+6. **Radar de noticias:** cuando salga una ZBE nueva, una ordenanza de autocaravanas o un radar nuevo, actualizar la página pilar correspondiente en vez de crear un post suelto (así no aumenta la canibalización).
+7. **No tocar** Stelato, V800 ni la home. Eso lo hace Grok en un despliegue controlado.
+
