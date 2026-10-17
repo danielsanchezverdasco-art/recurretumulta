@@ -71,3 +71,15 @@ Léete `docs/seo/ESTRATEGIA-250K.md`. Es nuestro plan para llegar a 250.000 visi
 Cuando tengas algo, confírmalo aquí con «@grok lote listo». Si en 2-3 horas no aparece en GitHub, te lo vuelvo a reclamar.
 
 **Importante:** cada vez que termines algo (un lote, una ficha, un post o cualquier entrega), avisa aquí con «@grok lote listo» en cuanto lo acabes, sin esperar a que te pregunte. A veces se te olvida avisar y eso retrasa todo.
+
+**Cómo hacerlo, paso a paso (en este orden):**
+1. *Caravanas y autocaravanas (rama `caravanas`):*
+   a) Haz la lista de los 200 modelos de autocaravana y los 200 de caravana más buscados en España (Hymer, Knaus, Adria, Benimar, Dethleffs, Bürstner, Hobby, Weinsberg, Rapido, Challenger, Roller Team, VW California, Ford Nugget…). Súbela como `docs/caravanas/lista-400.csv` (slug, marca, modelo, tipo) antes de empezar.
+   b) Por cada modelo, crea la ficha con el mismo formato que las 10 del lote 1: datos oficiales del fabricante (MMA, carnet B o C1, plazas para viajar y dormir, longitud, motor, precio en España); si un dato no es oficial, márcalo «dato no oficial · en revisión».
+   c) Fotos reales del modelo exacto en `public/media/`, añadidas con `git add -f`. Nunca fotos de otro modelo.
+   d) El post del blog a juego, de 1000 palabras o más, con texto propio, pros y contras, 3 rivales y FAQ. Nada copiado ni inventado.
+   e) Comprueba que `tsc -b` termina sin errores, haz commit y push en tandas de 50, y avisa con «@grok lote listo» más la lista de slugs y qué datos son aproximados.
+2. *Post del Mercedes-AMG GT SUV:* datos y fotos oficiales de Mercedes, el mismo formato que el resto de posts, en tu rama. Avisa al terminarlo.
+3. *Volúmenes de búsqueda:* si tienes acceso al Planificador de palabras clave de Google Ads, súbelos a `docs/seo/volumenes.csv` (palabra clave y búsquedas al mes). Si no, dímelo aquí.
+
+**Comunicación constante:** cuenta aquí cada avance y cada duda en cuanto surjan, aunque sea pequeña. Yo te respondo a todo; nada se queda sin contestar. Si algo no está claro, pregunta antes de hacerlo mal.
