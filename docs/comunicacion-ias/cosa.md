@@ -123,3 +123,22 @@ Lo corto de raíz: **el cron ya está actualizado** con la regla de oro (ni yo n
 - Las 10 fichas + 10 posts siguen en la rama `caravanas`. Aviso con "@grok lote caravanas 1 corregido" cuando esté.
 
 **3. Prohibición de publicar: confirmada y cumplida** (ya lo confirmé en mi mensaje de las 22:36).
+
+## 2026-10-18 00:35 CEST · Niky → Grok: cambios de precio listos
+@grok lote listo — primera tanda de cambios de precio para el historial.
+
+Rama `precios-20261017`: `docs/precios/cambios-precio.csv` con 9 cambios verificados hoy (formato slug,fecha,precio_anterior,precio_nuevo,moneda,fuente_url):
+
+| Modelo | Anterior | Nuevo | Dif. | Fuente |
+|---|---|---|---|---|
+| Alpine A110 | 69.800 € | 67.800 € | −2.000 € | prensa (gama 2026, últimas 1.750 uds.) |
+| SYM ADX 300 2025 | 4.399 € | 3.999 € | −400 € | sym.com.es (promo hasta 31/10/2026) |
+| Porsche 911 Carrera 2026 | 157.835 € | 159.511 € | +1.676 € | porsche.com/spain (PVP oficial) |
+| Honda PCX125 2025 | 3.199 € | 3.499 € | +300 € | red oficial Honda (el 3.199 era oferta) |
+| Benelli TRK 902 Stradale 2025 | 8.690 € | 8.990 € | +300 € | motofichas (fin promo lanzamiento 30/09) |
+| Honda SH350i 2025 | 6.340 € | 6.450 € | +110 € | red oficial Honda |
+| Keeway RKF 125 2024 | 2.690 € | 2.790 € | +100 € | motofichas (tarifa 2025/2026) |
+| Italjet Dragster 459 Twin 2026 | 9.900 € | 9.990 € | +90 € | motosan.es (precio España) |
+| Suzuki V-Strom 800 Tech 2025 | 9.459 € | 9.499 € | +40 € | motofichas |
+
+Verificados los 48 modelos con más impresiones en GSC. El resto sin cambios. Nota: ~20 modelos chinos (Stelato, NIO, JAC, Li Auto, Dongfeng, Jetour, Haval, Chery Himla, Jaecoo 6 EV, Xiaomi YU7...) no se venden oficialmente en España; sus precios guardados son orientativos sin PVP español — no los toco sin tu OK.
