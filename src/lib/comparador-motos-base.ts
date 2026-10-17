@@ -1124,13 +1124,26 @@ export const MOTOS_BASE: MotoComparador[] = [
       "Comparte el motor CP3 con la MT-09 pero con puesta a punto específica",
       "La R6 solo sobrevive como R6 Race: exclusiva para circuito, sin posibilidad de matrícula",
     ],
-    imagen: "/media/motos/yamaha-yzf-r9-2025-ficha-tecnica-precio.webp",
-    galeria: [],
+    imagen: "/media/yamaha-yzf-r9-2025-ficha-tecnica-precio-hero.webp",
+    galeria: [
+      {
+        src: "/media/yamaha-yzf-r9-2025-ficha-tecnica-precio-oficial.webp",
+        alt: "Yamaha YZF-R9 2025, vista lateral",
+        ancho: 800,
+        alto: 600,
+      },
+      {
+        src: "/media/yamaha-yzf-r9-2025-ficha-tecnica-precio-galeria-4.webp",
+        alt: "Yamaha YZF-R9 2025 en circuito",
+        ancho: 1000,
+        alto: 742,
+      }
+    ],
     videoId: "WnTkpTkY_1o",
     videoCanal: "RevZilla",
     fuenteNombre: "motos.coches.net",
     fuenteUrl: "https://motos.coches.net/comparativa/yamaha-yzf_r1---vs-yamaha-r9---1411-9803.htm",
-    analisisSlug: null,
+    analisisSlug: "yamaha-yzf-r9-2025-ficha-tecnica-precio",
   },
   {
     id: "ducati-panigale-v2-2025-ficha-tecnica-precio",
@@ -1777,13 +1790,26 @@ export const MOTOS_BASE: MotoComparador[] = [
       "Existe la versión Monster Energy MotoGP Edition",
       "Su motor es la base de la naked MT-125 y la retro XSR125",
     ],
-    imagen: "/media/motos/yamaha-yzf-r125-ficha-tecnica-precio.webp",
-    galeria: [],
+    imagen: "/media/yamaha-yzf-r125-ficha-tecnica-precio-hero.webp",
+    galeria: [
+      {
+        src: "/media/yamaha-yzf-r125-ficha-tecnica-precio-oficial.webp",
+        alt: "Yamaha YZF-R125, vista lateral",
+        ancho: 800,
+        alto: 600,
+      },
+      {
+        src: "/media/yamaha-yzf-r125-ficha-tecnica-precio-galeria-4.webp",
+        alt: "Yamaha YZF-R125 en carretera",
+        ancho: 1600,
+        alto: 900,
+      }
+    ],
     videoId: "lNiLmKk5BSE",
     videoCanal: "Bike World",
     fuenteNombre: "mundomotero.com",
     fuenteUrl: "https://www.mundomotero.com/motos/yamaha/yzf-r125",
-    analisisSlug: null,
+    analisisSlug: "yamaha-yzf-r125-ficha-tecnica-precio",
   },
   {
     id: "honda-cb125f-2025-ficha-tecnica-precio",
@@ -2655,13 +2681,26 @@ export const MOTOS_BASE: MotoComparador[] = [
       "El motor es una evolución directa del tetracilíndrico crossplane de la YZF-R1 de MotoGP",
       "Existe la versión SP con suspensiones electrónicas Öhlins, por 21.399 €",
     ],
-    imagen: "/media/motos/yamaha-mt-10-2024-ficha-tecnica-precio.webp",
-    galeria: [],
+    imagen: "/media/yamaha-mt-10-2024-ficha-tecnica-precio-hero.webp",
+    galeria: [
+      {
+        src: "/media/yamaha-mt-10-2024-ficha-tecnica-precio-oficial.webp",
+        alt: "Yamaha MT-10 2024, vista lateral",
+        ancho: 1600,
+        alto: 900,
+      },
+      {
+        src: "/media/yamaha-mt-10-2024-ficha-tecnica-precio-galeria-4.webp",
+        alt: "Yamaha MT-10 2024 en carretera",
+        ancho: 696,
+        alto: 392,
+      }
+    ],
     videoId: "rCyPoacF8Us",
     videoCanal: "MotorbikeMag",
     fuenteNombre: "mundomotero.com",
     fuenteUrl: "https://www.mundomotero.com/motos/yamaha/mt-10",
-    analisisSlug: null,
+    analisisSlug: "yamaha-mt-10-2024-ficha-tecnica-precio",
   },
   // ── 3. Honda CB1000 Hornet 2024 ────────────────────────────────────
   {
@@ -4390,13 +4429,26 @@ export const MOTOS_BASE: MotoComparador[] = [
       "Cumple la normativa Euro 5+",
       "Incluye indicador de cambio de marcha para optimizar la eficiencia",
     ],
-    imagen: "/media/motos/honda-cb125r-2024-ficha-tecnica-precio.webp",
-    galeria: [],
+    imagen: "/media/honda-cb125r-2024-ficha-tecnica-precio-hero.webp",
+    galeria: [
+      {
+        src: "/media/honda-cb125r-2024-ficha-tecnica-precio-oficial.webp",
+        alt: "Honda CB125R 2024, vista lateral",
+        ancho: 1500,
+        alto: 1126,
+      },
+      {
+        src: "/media/honda-cb125r-2024-ficha-tecnica-precio-galeria-4.webp",
+        alt: "Honda CB125R 2024 en ciudad",
+        ancho: 1200,
+        alto: 756,
+      }
+    ],
     videoId: "BJYQRNxRvNI",
     videoCanal: "MCN",
     fuenteNombre: "motofichas.com",
     fuenteUrl: "https://www.motofichas.com/marcas/honda/cb125r",
-    analisisSlug: null,
+    analisisSlug: "honda-cb125r-2024-ficha-tecnica-precio",
   },
   {
     id: "yamaha-mt-125-2024-ficha-tecnica-precio",
@@ -5643,13 +5695,26 @@ export const MOTOS_BASE: MotoComparador[] = [
       "Existe versión E-Clutch con embrague electrónico por 8.350 €",
       "Está homologada en versión A2 de 35 kW",
     ],
-    imagen: "/media/motos/honda-cb750-hornet-2024-ficha-tecnica-precio.webp",
-    galeria: [],
+    imagen: "/media/honda-cb750-hornet-2024-ficha-tecnica-precio-hero.webp",
+    galeria: [
+      {
+        src: "/media/honda-cb750-hornet-2024-ficha-tecnica-precio-oficial.webp",
+        alt: "Honda CB750 Hornet 2024, vista lateral",
+        ancho: 1600,
+        alto: 900,
+      },
+      {
+        src: "/media/honda-cb750-hornet-2024-ficha-tecnica-precio-galeria-4.webp",
+        alt: "Honda CB750 Hornet 2024 en carretera",
+        ancho: 1086,
+        alto: 768,
+      }
+    ],
     videoId: "xTa7ltl3YrA",
     videoCanal: "FÉROCE",
     fuenteNombre: "ForoMotos",
     fuenteUrl: "https://foromotos.net/threads/ficha-t%C3%A9cnica-honda-cb750-hornet-2023-2024.10884/",
-    analisisSlug: null,
+    analisisSlug: "honda-cb750-hornet-2024-ficha-tecnica-precio",
   },
   {
     id: "suzuki-gsx-8s-2024-ficha-tecnica-precio",
@@ -6375,13 +6440,26 @@ export const MOTOS_BASE: MotoComparador[] = [
       "Honda declara un dato de aceleración inusual: de 30 km/h cubre 20 metros en 1,7 segundos",
       "Monta llantas de radios de 17\" delante y 15\" detrás, como una trail",
     ],
-    imagen: "/media/motos/honda-x-adv-750-2025-ficha-tecnica-precio.webp",
-    galeria: [],
+    imagen: "/media/honda-x-adv-750-2025-ficha-tecnica-precio-hero.webp",
+    galeria: [
+      {
+        src: "/media/honda-x-adv-750-2025-ficha-tecnica-precio-oficial.webp",
+        alt: "Honda X-ADV 750 2025, vista lateral",
+        ancho: 1000,
+        alto: 708,
+      },
+      {
+        src: "/media/honda-x-adv-750-2025-ficha-tecnica-precio-galeria-4.webp",
+        alt: "Honda X-ADV 750 2025 en pista",
+        ancho: 1600,
+        alto: 1066,
+      }
+    ],
     videoId: "drMoB1sxb50",
     videoCanal: "motos.net",
     fuenteNombre: "Honda Canarias (precios y especificaciones oficiales X-ADV)",
     fuenteUrl: "https://www.hondacanarias.com/motorcycles/adventure-xadv-especificaciones",
-    analisisSlug: null,
+    analisisSlug: "honda-x-adv-750-2025-ficha-tecnica-precio",
   },
   {
     id: "piaggio-beverly-400-2024-ficha-tecnica-precio",

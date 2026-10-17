@@ -6540,11 +6540,26 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagen: "/media/renault-austral-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/renault-austral-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/renault-austral-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      {
+        src: "/media/renault-austral-2024-precio-ficha-tecnica-hero.webp",
+        alt: "Renault Austral E-Tech 2024, SUV híbrido",
+        ancho: 1600,
+        alto: 864,
+      },
+      {
+        src: "/media/renault-austral-2024-precio-ficha-tecnica-oficial.webp",
+        alt: "Renault Austral E-Tech 2024, vista lateral",
+        ancho: 1200,
+        alto: 800,
+      },
+    ],
     videoId: "7mwHJlc8P0Q",
     videoCanal: "HolyCars TV",
     opiniones: [],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/renault/austral/2023/estandar/hev/austral-evolution-e-tech-full-hybrid-146-kw-200-cv/datos",
+    analisisSlug: "renault-austral-2024-precio-ficha-tecnica",
   },
   {
     id: "renault-rafale-2024-precio-ficha-tecnica",
