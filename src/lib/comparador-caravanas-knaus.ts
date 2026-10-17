@@ -108,4 +108,114 @@ export const CARAVANAS_KNAUS: CocheComparador[] = [
     fuenteNombre: "Knaus (red oficial)",
     fuenteUrl: "https://www.truckscout24.es/autocaravanas-caravanas/occasion/caravanas/knaus?page=7",
   },
+  // Caravana 2 (lote caravanas 2D, 17/10/2026).
+  // Datos verificados: anuncios de distribuidores oficiales Knaus del modelo
+  // 2026 (6.720/2.320/2.570 mm, 1.056 kg en vacío, MMA 1.800 kg con
+  // Auflastung, 4 plazas: cama francesa delantera + dinette trasera).
+  // Precio orientativo según anuncios de distribuidores (25.040–27.377 €).
+  // Fotos: reales del modelo exacto, verificadas visualmente.
+  {
+    id: "knaus-sport-450-fu-2026-precio-ficha-tecnica",
+    marca: "Knaus",
+    modelo: "Sport 450 FU",
+    tipo: "Caravana",
+    categoria: "Caravana",
+    precioDesde: 25000,
+    potenciaCv: null,
+    autonomiaKm: null,
+    maleteroL: null,
+    ceroCien: null,
+    velocidadMax: null,
+    bateriaKwh: null,
+    cargaRapidaKw: null,
+    etiquetaDgt: null,
+    garantiaBateriaAnos: null,
+    garantiaBateriaKm: null,
+    garantiaBateriaDegradacionPct: null,
+    imagen:
+      "/media/knaus-sport-450-fu-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial:
+      "/media/knaus-sport-450-fu-2026-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial:
+      "/media/knaus-sport-450-fu-2026-precio-ficha-tecnica-interior-oficial.webp",
+    videoId: null,
+    videoCanal: null,
+    largoMm: 6720,
+    anchoMm: 2320,
+    altoMm: 2570,
+    pesoKg: 1800,
+    consumo: null,
+    consumoUnidad: null,
+    plazas: 4,
+    parNm: null,
+    traccion: null,
+    emisionesCo2: null,
+    aprox: ["precioDesde"],
+    pros: [
+      "La compacta familiar: 6,72 m con cama francesa y dinette para 4 en poco espacio",
+      "Precio orientativo desde ~25.000 €: la alemana más asequible de su tamaño",
+      "Solo 1.056 kg en vacío: la remolca un SUV compacto y gasta menos",
+      "1.800 kg de MMA con el aumento de carga: más de 700 kg de carga útil",
+      "Techo de GFK anti-granizo y 10 años de garantía de estanqueidad",
+    ],
+    contras: [
+      "6,72 m con 4 plazas: el baño y la cocina son compactos",
+      "La dinette trasera hay que montarla cada noche para la 3.ª y 4.ª plaza",
+      "Precio orientativo: en España puede variar según el distribuidor",
+      "Sin mover eléctrico, maniobrarla a mano cuesta",
+      "El avance se presupuesta aparte",
+    ],
+    opiniones: [],
+    costeMensual: {
+      costeEnergia100km: 0,
+      precioKwh: 0.18,
+      precioGasolinaL: 1.6,
+      seguroTercerosAnual: 150,
+      seguroAmpliadoAnual: 300,
+      mantenimientoAnual: 200,
+      costeMensualTotal: 120,
+      notas:
+        "Estimación: seguro de caravana + revisión anual de estanqueidad y gas. Sin motor propio.",
+      estimado: true,
+    },
+    galeria: [
+      {
+        src: "/media/knaus-sport-450-fu-2026-precio-ficha-tecnica-oficial-2.webp",
+        alt: "Knaus Sport 450 FU, vista frontal",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/knaus-sport-450-fu-2026-precio-ficha-tecnica-interior-oficial.webp",
+        alt: "Interior oficial de la Knaus Sport 450 FU",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/knaus-sport-450-fu-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Knaus Sport 450 FU, vista lateral",
+        ancho: 1200,
+        alto: 800,
+      },
+    ],
+    analisisSlug: "knaus-sport-450-fu-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo:
+        "Revisión anual recomendada: estanqueidad, gas, electricidad y frenos",
+      revisiones: [
+        {
+          nombre: "Revisión anual de la caravana",
+          queSeCambia:
+            "Estanqueidad, instalación de gas, electricidad y estado de frenos y neumáticos",
+          costeAproxEur: 200,
+        },
+      ],
+      costeAnualAproxEur: 200,
+      fuente: "Recomendaciones Knaus + red de distribuidores",
+    },
+    euroncap: null,
+    fuenteNombre: "Knaus (red de distribuidores)",
+    fuenteUrl:
+      "https://www.careiwo.de/fahrzeug/knaus-sport-450-fu-1800kgduschausbau-6v6dzt/",
+  },
 ];
