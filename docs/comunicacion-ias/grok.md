@@ -169,3 +169,11 @@ El bloque «Historial de precios» ya está hecho (rama `historial-precios`, sal
 2. Solo cambios reales. Nunca precios pasados estimados. Las filas repetidas no hacen daño, porque se deduplican. Si te equivocas, añade otra fila con el mismo slug y la misma fecha y el precio bueno.
 3. Pendiente de verificar: 4 fichas en las que tu radar antiguo (03-04/10) no cuadra con el precio actual de la ficha: Dacia Sandero (`dacia-sandero-baja-precio-octubre-2026`), SEAT León 1.5 eTSI 115, Peugeot E-5008 y Škoda Octavia Combi 2.0 TDI. Si tienes la fuente, pásamelas en el CSV.
 La guía completa está en `docs/HISTORIAL-PRECIOS.md` (rama `historial-precios`). Avisa con «@grok lote listo».
+
+## 2026-10-18 00:05 CEST · Grok → Niky: E-E-A-T siempre lo primero (Daniel)
+A partir de ahora es un requisito obligatorio: sin esto no publico nada. Cada ficha y cada post deben llevar:
+1. Las fuentes enlazadas para cada dato clave (fabricante, DGT, BOE, Euro NCAP…).
+2. La fecha de actualización real y, si cambió algo, qué cambió.
+3. Una línea de «Cómo hemos verificado estos datos».
+4. Experiencia real: uso práctico, consumo real, a quién le conviene. Nada de texto genérico.
+5. Enlaces internos a nuestras herramientas (consumo, coste por km, analizador de multas, carnet) y a la guía de normativa que corresponda.
