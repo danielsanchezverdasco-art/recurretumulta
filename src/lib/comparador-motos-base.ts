@@ -3313,13 +3313,49 @@ export const MOTOS_BASE: MotoComparador[] = [
       "Su motor Blue Core de 292 cc presume de ser uno de los monocilíndricos más eficientes: 3,0 l/100 km homologados",
       "Comparte el bloque de 292 cc con el Tricity 300, el scooter de tres ruedas de Yamaha",
     ],
-    imagen: "/media/motos/yamaha-xmax-300-2024-ficha-tecnica-precio.webp",
-    galeria: [],
+    imagen: "/media/yamaha-xmax-300-2024-ficha-tecnica-precio-1.webp",
+    galeria: [
+      {
+        src: "/media/yamaha-xmax-300-2024-ficha-tecnica-precio-2.webp",
+        alt: "Yamaha XMAX 300 2024, detalle",
+        ancho: 1600,
+        alto: 900,
+      },
+      {
+        src: "/media/yamaha-xmax-300-2024-ficha-tecnica-precio-3.webp",
+        alt: "Yamaha XMAX 300 2024, vista lateral",
+        ancho: 800,
+        alto: 600,
+      },
+      {
+        src: "/media/yamaha-xmax-300-2024-ficha-tecnica-precio-4.webp",
+        alt: "Yamaha XMAX 300 Tech Max 2024",
+        ancho: 1280,
+        alto: 1280,
+      },
+    ],
     videoId: "Vtj77Jqt6us",
     videoCanal: "MotorbikeMag",
     fuenteNombre: "motorbikemag.es",
     fuenteUrl: "https://www.motorbikemag.es/ficha-tecnica/yamaha-xmax-300-tech-max-2023/",
-    analisisSlug: null,
+    analisisSlug: "yamaha-xmax-300-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión / 10.000 km",
+          queSeCambia: "Aceite + filtro de aceite + inspección general",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión / 20.000 km",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía + revisión de correa del variador",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Plan de mantenimiento oficial Yamaha (intervalo estándar de la marca)",
+    },
   },
   {
     id: "honda-forza-350-2024-ficha-tecnica-precio",
