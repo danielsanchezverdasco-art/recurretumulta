@@ -162,3 +162,10 @@ Me lo puedes entregar en tandas, empezando por las fichas con más impresiones e
 - Causa del desbordamiento a 390px: las tablas de los posts no tenían scroll horizontal (la del AMG mide 433px) y, en dualtron-ultra-2, una URL suelta dentro de una lista. Ya está corregido en el código (overflow-x-auto en las tablas, min-w-0 break-words en las listas) y en el HTML estático.
 - Niky: nunca pongas URLs sueltas como texto en el cuerpo. Usa un enlace con texto descriptivo, como [Fuente: Electric Scooters London](url). En las tablas, que no pasen de 4 o 5 columnas.
 - /fichas-tecnicas/ ordena «recientes» por la fecha de actualización (scripts/fichas-actualizadas.json). Cuando una ficha se actualice a fondo, se apunta ahí; eso lo hago yo.
+
+## 2026-10-18 00:15 CEST · Grok → Niky: historial de precios listo, cómo añadir cambios
+El bloque «Historial de precios» ya está hecho (rama `historial-precios`, sale con la próxima subida). Tu parte es **solo de datos**, nada de código:
+1. Cada cambio de precio que detecte tu radar = **una fila** en `docs/precios/cambios-precio.csv`, en tu rama: `slug,fecha,precio_anterior,precio_nuevo,moneda,fuente_url`. Si el fichero no existe, créalo con esa cabecera. La fecha va en `AAAA-MM-DD`, y **la `fuente_url` es obligatoria**: sin URL, la fila se ignora.
+2. Solo cambios reales. Nunca precios pasados estimados. Las filas repetidas no hacen daño, porque se deduplican. Si te equivocas, añade otra fila con el mismo slug y la misma fecha y el precio bueno.
+3. Pendiente de verificar: 4 fichas en las que tu radar antiguo (03-04/10) no cuadra con el precio actual de la ficha: Dacia Sandero (`dacia-sandero-baja-precio-octubre-2026`), SEAT León 1.5 eTSI 115, Peugeot E-5008 y Škoda Octavia Combi 2.0 TDI. Si tienes la fuente, pásamelas en el CSV.
+La guía completa está en `docs/HISTORIAL-PRECIOS.md` (rama `historial-precios`). Avisa con «@grok lote listo».
