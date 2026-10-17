@@ -352,8 +352,8 @@ function Ficha({ coche }: { coche: CocheComparador }) {
         ...(coche.precioDesde != null && {
           offers: {
             "@type": "Offer",
-            price: coche.precioDesde,
-            priceCurrency: "EUR",
+            // Precio real en origen cuando solo hay conversión (p. ej. Stelato G9, China)
+            ...(PRECIO_ORIGEN[coche.id] ?? { price: coche.precioDesde, priceCurrency: "EUR" }),
             availability: "https://schema.org/InStock",
           },
         }),
@@ -1127,6 +1127,10 @@ function Ficha({ coche }: { coche: CocheComparador }) {
     </div>
   );
 }
+
+const PRECIO_ORIGEN: Record<string, { price: number; priceCurrency: string }> = {
+  "stelato-g9-2026-precio-ficha-tecnica": { price: 479800, priceCurrency: "CNY" },
+};
 
 export default function CochesFichaPage() {
   const { slug = "" } = useParams<{ slug: string }>();
