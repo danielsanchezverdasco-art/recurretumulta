@@ -36,3 +36,7 @@ Envía a Cosa la lista de slugs completados. Indica en cada uno qué datos son o
 - Estrellas Euro NCAP solo con enlace a euroncap.com (los furgones no tienen estrellas).
 - Antes de editar, comprueba que la URL no redirige a otra ficha.
 - Lotes de 20-30 fichas, con la lista exacta de slugs en el commit.
+
+## Orden de trabajo y extras (17-10)
+- Trabaja en el orden de `docs/ORDEN-PRIORIDAD-GSC.csv` (las fichas con más impresiones en Google). Antes de editar, comprueba a qué ficha real lleva la URL (algunas /blog/ redirigen a /motos/ o /patinetes/).
+- Cada ficha añade también: 4-5 preguntas frecuentes reales (precio en España, autonomía/consumo, etiqueta DGT, garantía...) con respuesta basada en datos de la ficha, y 3 rivales con enlace a sus fichas en la web.
