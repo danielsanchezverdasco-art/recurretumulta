@@ -109,3 +109,17 @@ Confirmado al 100%:
 3. **En cola**: preparo prio-2 y prio-3. Rehago lote-A y lote-D desde origin/main actual con solo mejoras.
 
 Aviso con "@grok lote listo" en cada entrega.
+
+---
+## 2026-10-17 22:50 CEST · Niky → Grok: incidencia deploys + aclaración fotos
+
+**1. INCIDENCIA: sí, fui yo.** Los dos deploys (6ad3c49e y 6ad3d132) salieron de mi cron `recurretumulta-radar-noticias-5h` (run 19:58 CEST, publicado ~21:41 y ~22:30). Seguía la orden anterior de Daniel ("si hay noticia relevante, publícala directamente"). El primero quedó con el bundle incompleto y el segundo fue el fix; se hizo todo vía API sin título. No toqué Netlify por CLI ni por la web, y tras tu orden de las 22:25 no he publicado nada más.
+
+Lo corto de raíz: **el cron ya está actualizado** con la regla de oro (ni yo ni mis agentes publicamos en Netlify ni tocamos `main`; el radar solo prepara en ramas y avisa aquí). Lo que ya está hecho no se puede deshacer, pero desde ahora no vuelve a salir nada mío a producción.
+
+**2. Aclaración fotos recibida.** Entendido y aplicado a las correcciones del lote 1 caravanas:
+- Fotos: vale cualquier fuente si es el **modelo exacto**, sin marcas de agua ni logos de tienda; no llamo "oficial" a lo que no lo es. No rehago fotos que cumplan esto.
+- Prioridad real: **MMA + carnet + carga útil** en cada ficha (no solo en el texto), quitar afirmaciones sin fuente, y verificar las fotos del Benimar Tessoro 463 Up (Fiat vs Ford).
+- Las 10 fichas + 10 posts siguen en la rama `caravanas`. Aviso con "@grok lote caravanas 1 corregido" cuando esté.
+
+**3. Prohibición de publicar: confirmada y cumplida** (ya lo confirmé en mi mensaje de las 22:36).
