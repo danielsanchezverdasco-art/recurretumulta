@@ -178,11 +178,11 @@ function Ficha({ moto }: { moto: MotoComparador }) {
     "@graph": [
       {
         "@type": "Motorcycle",
-        name,
+        name: nombre,
         ...(moto.imagen
           ? { image: `https://recurretumulta.online${moto.imagen}` }
           : {}),
-        url: `https://recurretumulta.online/motos/${moto.id}`,
+        url: `https://recurretumulta.online/motos/${moto.id}/`,
         manufacturer: { "@type": "Organization", name: moto.marca },
         vehicleConfiguration: moto.version,
         ...(moto.potenciaKw != null && {
@@ -240,8 +240,8 @@ function Ficha({ moto }: { moto: MotoComparador }) {
           {
             "@type": "ListItem",
             position: 3,
-            name,
-            item: `https://recurretumulta.online/motos/${moto.id}`,
+            name: nombre,
+            item: `https://recurretumulta.online/motos/${moto.id}/`,
           },
         ],
       },

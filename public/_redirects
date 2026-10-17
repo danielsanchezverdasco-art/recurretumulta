@@ -1,3 +1,6 @@
+# avatr-12 2026 -> ficha vigente (17/10/2026)
+/coches/avatr-12-2026-precio-ficha-tecnica/ /coches/avatr-12-2024-precio-ficha-tecnica/ 301!
+/coches/avatr-12-2026-precio-ficha-tecnica /coches/avatr-12-2024-precio-ficha-tecnica/ 301!
 # 13/10/2026: /index.html duplicaba la portada
 /index.html / 301!
 

@@ -304,9 +304,9 @@ function Ficha({ coche }: { coche: CocheComparador }) {
     "@graph": [
       {
         "@type": "Car",
-        name,
+        name: nombre,
         ...(seoImage ? { image: seoImage } : {}),
-        url: `https://recurretumulta.online/coches/${coche.id}`,
+        url: `https://recurretumulta.online/coches/${coche.id}/`,
         manufacturer: { "@type": "Organization", name: coche.marca },
         bodyType: coche.categoria,
         fuelType: coche.tipo,
@@ -379,8 +379,8 @@ function Ficha({ coche }: { coche: CocheComparador }) {
           {
             "@type": "ListItem",
             position: 3,
-            name,
-            item: `https://recurretumulta.online/coches/${coche.id}`,
+            name: nombre,
+            item: `https://recurretumulta.online/coches/${coche.id}/`,
           },
         ],
       },

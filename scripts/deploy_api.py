@@ -47,7 +47,9 @@ if pub:
         live.update(("/"+x["id"].lstrip("/")) for x in lst)
         if len(lst)<1000: break
         page+=1
-    gone=sorted(live-set(hashes))
+    # Netlify devuelve los ids en minúsculas: comparar sin distinguir mayúsculas (17/10/2026)
+    loc_l={k.lower() for k in hashes}
+    gone=sorted(x for x in live if x.lower() not in loc_l)
     print("publicado",pub,"ficheros en vivo",len(live),"desaparecerian",len(gone),flush=True)
     if gone:
         for g in gone[:30]: print("  -",g,flush=True)
