@@ -469,8 +469,9 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
                     </th>
                     <td className="py-2.5 text-right font-semibold text-gray-900">
                       <span className="inline-flex items-center gap-1">
-                        {esAprox && <span title="Cifra aproximada">≈&nbsp;</span>}
+                        {esAprox && <span title="Dato no oficial, en revisión">≈&nbsp;</span>}
                         {f.get(patinete)}
+                      {esAprox && <span className="ml-1 text-[10px] font-medium text-amber-700 whitespace-nowrap">dato no oficial · en revisión</span>}
                       </span>
                     </td>
                   </tr>
@@ -479,7 +480,7 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
             </tbody>
           </table>
           <p className="mt-3 text-xs text-gray-500">
-            <strong>≈</strong> = cifra aproximada (estimación cuando no hay dato oficial publicado).
+            <strong>≈</strong> / «dato no oficial · en revisión» = cifra aproximada (estimación cuando no hay dato oficial publicado; se actualizará con el dato oficial).
             «No publicado» = el fabricante no publica el dato; «No verificado» = no pudimos
             confirmarlo en una fuente oficial.
           </p>

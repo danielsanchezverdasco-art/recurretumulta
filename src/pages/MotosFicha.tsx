@@ -489,8 +489,9 @@ function Ficha({ moto }: { moto: MotoComparador }) {
                     </th>
                     <td className="py-2.5 text-right font-semibold text-gray-900">
                       <span className="inline-flex items-center gap-1">
-                        {esAprox && <span title="Cifra aproximada">≈&nbsp;</span>}
+                        {esAprox && <span title="Dato no oficial, en revisión">≈&nbsp;</span>}
                         {f.get(moto)}
+                      {esAprox && <span className="ml-1 text-[10px] font-medium text-amber-700 whitespace-nowrap">dato no oficial · en revisión</span>}
                       </span>
                     </td>
                   </tr>
@@ -499,7 +500,7 @@ function Ficha({ moto }: { moto: MotoComparador }) {
             </tbody>
           </table>
           <p className="mt-3 text-xs text-gray-500">
-            <strong>≈</strong> = cifra aproximada (estimación cuando no hay dato oficial publicado).
+            <strong>≈</strong> / «dato no oficial · en revisión» = cifra aproximada (estimación cuando no hay dato oficial publicado; se actualizará con el dato oficial).
           </p>
         </section>
 

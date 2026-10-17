@@ -25,8 +25,6 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "urban-glide-urbanride-85-plus": () => import("../blog-posts-patinetes-exp-p6.ts"),
   },
   moto: {
-    "ultraviolette-f77-mach-2-recon-2025-ficha-tecnica-precio": () => import("../comparador-motos-lote17.ts"),
-    "ultraviolette-f77-superstreet-recon-2025-ficha-tecnica-precio": () => import("../comparador-motos-lote17.ts"),
     "urbet-gadiro-e-125-2025-ficha-tecnica-precio": () => import("../comparador-motos-nuevos-m7.ts"),
     "urbet-riazor-2025-ficha-tecnica-precio": () => import("../comparador-motos-nuevos-m7.ts"),
   },

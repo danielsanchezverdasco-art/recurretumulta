@@ -73,6 +73,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "xpeng-g9-2024-precio-espana": () => import("../comparador-coches-xpeng.ts"),
     "xpeng-g9-2026-restyling-precio-espana": () => import("../comparador-coches-xpeng.ts"),
     "xpeng-g9-awd-performance-2026": () => import("../comparador-coches-lote17.ts"),
+    "xpeng-l03-2026-precio-espana": () => import("../comparador-coches-xpeng.ts"),
     "xpeng-mona-m03-2025-precio-ficha-tecnica": () => import("../comparador-coches-exp12.ts"),
     "xpeng-p5-2025-precio-ficha-tecnica": () => import("../comparador-coches-lote5.ts"),
     "xpeng-p7-2024-precio-ficha-tecnica": () => import("../comparador-coches-xpeng.ts"),

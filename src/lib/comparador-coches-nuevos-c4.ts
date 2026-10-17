@@ -1786,7 +1786,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["autonomiaKm", "velocidadMax", "bateriaKwh", "cargaRapidaKw"],
+    aprox: ["precioDesde", "autonomiaKm", "velocidadMax", "bateriaKwh", "cargaRapidaKw"],
     pros: [
       "1.020 CV con puertas de ala de halcón",
       "0-100 km/h en 2,6 segundos",

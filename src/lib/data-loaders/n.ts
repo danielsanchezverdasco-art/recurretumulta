@@ -130,7 +130,6 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "nuevas-marcas-viales-en-forma-de-circulo-que-significan-multan-y-como-afectan-a-las-curvas-en-espana": () => import("../blog-posts-db.ts"),
     "nuevo-bmw-serie-3-i3-electrico-2026-precio-ficha-tecnica": () => import("../blog-posts-flash-2026.ts"),
     "nuevo-hyundai-tucson-2027-presentacion-precio-ficha-tecnica": () => import("../blog-posts-flash-2026.ts"),
-    "nuevo-omoda-5-2027-presentacion-precio-ficha-tecnica": () => import("../blog-posts-flash-2026.ts"),
     "nuevo-radar-fijo-a67-torrelavega": () => import("../blog-posts-flash-2026.ts"),
   },
   coche: {
@@ -206,7 +205,6 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "noble-m500-2025-precio-ficha-tecnica": () => import("../comparador-coches-noble.ts"),
     "nuevo-bmw-serie-3-i3-electrico-2026-precio-ficha-tecnica": () => import("../comparador-coches-nuevos.ts"),
     "nuevo-hyundai-tucson-2027-presentacion-precio-ficha-tecnica": () => import("../comparador-coches-nuevos.ts"),
-    "nuevo-omoda-5-2027-presentacion-precio-ficha-tecnica": () => import("../comparador-coches-exp27.ts"),
   },
   moto: {
     "nerva-cargo-2026-ficha-tecnica-precio": () => import("../comparador-motos-nuevos-m7.ts"),
@@ -243,7 +241,6 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "niu-xqi3-2025-ficha-tecnica-precio": () => import("../comparador-motos-exp-m26.ts"),
     "nmoto-nce-d-125-2024-ficha-tecnica-precio": () => import("../comparador-motos-lote16.ts"),
     "nmoto-nce-s-125-2024-ficha-tecnica-precio": () => import("../comparador-motos-lote16.ts"),
-    "nmoto-nce-s-50-2024-ficha-tecnica-precio": () => import("../comparador-motos-lote17.ts"),
     "nmoto-ncf-d-125-2024-ficha-tecnica-precio": () => import("../comparador-motos-lote16.ts"),
     "norton-v4sv-2026-ficha-tecnica-precio": () => import("../comparador-motos-lote10.ts"),
   },

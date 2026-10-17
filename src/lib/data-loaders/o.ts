@@ -3,6 +3,8 @@
 export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
   blog: {
     "ofensiva-china-salon-paris-2026-20-marcas": () => import("../blog-posts-salon-paris-china-2026.ts"),
+    "okai-es10-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
+    "okai-es30-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "okai-neon": () => import("../blog-posts-patinetes-exp-p9.ts"),
     "okai-neon-pro": () => import("../blog-posts-patinetes-exp-p9.ts"),
     "ola-s1-pro-2025-ficha-tecnica-precio": () => import("../blog-posts-lote9.ts"),
@@ -65,6 +67,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "opel-movano-22-diesel-180-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp8.ts"),
     "opel-movano-electrico-2025-precio-ficha-tecnica": () => import("../blog-posts-opel-a.ts"),
     "opel-rocks-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp8.ts"),
+    "opel-stx-concept-paris-2026": () => import("../blog-posts-prioridad-20261014.ts"),
     "opel-vivaro-20-diesel-180-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp8.ts"),
     "opel-vivaro-electrico-2025-precio-ficha-tecnica": () => import("../blog-posts-opel-a.ts"),
     "opel-zafira-20-diesel-180-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp20.ts"),
@@ -120,7 +123,6 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "opel-frontera-electric-precio-ficha-tecnica": () => import("../comparador-coches-nuevos.ts"),
     "opel-frontera-electrico-54kwh-2025-precio-ficha-tecnica": () => import("../comparador-coches-opel.ts"),
     "opel-frontera-hibrido-2025-precio-ficha-tecnica": () => import("../comparador-coches-opel.ts"),
-    "opel-frontera-hybrid-145-2026": () => import("../comparador-coches-lote18.ts"),
     "opel-grandland-12-turbo-130-2024-precio-ficha-tecnica": () => import("../comparador-coches-exp8.ts"),
     "opel-grandland-2024-precio-ficha-tecnica": () => import("../comparador-coches-nuevos.ts"),
     "opel-grandland-2025-precio-ficha-tecnica": () => import("../comparador-coches-nuevos-c3.ts"),
@@ -134,7 +136,6 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "opel-mokka-electrico-2025-precio-ficha-tecnica": () => import("../comparador-coches-opel.ts"),
     "opel-mokka-gse-2025-precio-ficha-tecnica": () => import("../comparador-coches-opel.ts"),
     "opel-mokka-hibrido-2025-precio-ficha-tecnica": () => import("../comparador-coches-opel.ts"),
-    "opel-mokka-hybrid-145-2026": () => import("../comparador-coches-lote18.ts"),
     "opel-movano-22-diesel-180-2025-precio-ficha-tecnica": () => import("../comparador-coches-exp8.ts"),
     "opel-movano-electrico-2025-precio-ficha-tecnica": () => import("../comparador-coches-opel.ts"),
     "opel-rocks-2026-precio-ficha-tecnica": () => import("../comparador-coches-exp8.ts"),
@@ -152,6 +153,8 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "ovaobike-mcr-s-2025-ficha-tecnica-precio": () => import("../comparador-motos-lote9.ts"),
   },
   patinete: {
+    "okai-es10": () => import("../comparador-patinetes-prioridad-20261014.ts"),
+    "okai-es30": () => import("../comparador-patinetes-prioridad-20261014.ts"),
     "okai-neon": () => import("../comparador-patinetes-exp-p9.ts"),
     "okai-neon-pro": () => import("../comparador-patinetes-exp-p9.ts"),
   },
