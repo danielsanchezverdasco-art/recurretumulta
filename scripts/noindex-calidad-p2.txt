@@ -25,7 +25,6 @@
 /coches/lucid-gravity-2026-precio-ficha-tecnica/
 /coches/chery-explorer-06-2024-precio-ficha-tecnica/
 /coches/dr-3-0-2025-precio-ficha-tecnica/
-/coches/mercedes-benz-gla-200-precio-ficha-tecnica/
 /coches/maserati-grecale-2027-precio-ficha-tecnica/
 /coches/volkswagen-tayron-20-tsi-2026-precio-ficha-tecnica/
 /coches/kgm-musso-diesel-2026-precio-ficha-tecnica/
@@ -191,7 +190,6 @@
 /coches/toyota-bz3x-2026-precio-ficha-tecnica/
 /coches/mobilize-duo-45-2025-precio-ficha-tecnica/
 /coches/rolls-royce-cullinan-series-ii-black-badge-2026-precio-ficha-tecnica/
-/coches/mercedes-amg-one-2025-precio-ficha-tecnica/
 /coches/jac-t9-2025-precio-ficha-tecnica/
 /coches/cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica/
 /coches/aixam-coupe-sport-2025-precio-ficha-tecnica/
@@ -254,7 +252,6 @@
 /coches/gwm-king-kong-poer-2026-precio-ficha-tecnica/
 /coches/denza-n8l-dm-2025-precio-ficha-tecnica/
 /coches/ford-e-transit-2025-precio-ficha-tecnica/
-/coches/mercedes-benz-glb-200-precio-ficha-tecnica/
 /coches/caterham-super-seven-2000-2025-precio-ficha-tecnica/
 /coches/togg-t10x-2026-precio-ficha-tecnica/
 /coches/fangchengbao-ti-9-2026/
@@ -269,7 +266,6 @@
 /coches/mitsubishi-asx-130t-7dct-2026-precio-ficha-tecnica/
 /coches/ds-n4-e-tense-213-2026-precio-ficha-tecnica/
 /coches/aston-martin-dbx-gt-2026-precio-ficha-tecnica/
-/coches/mercedes-benz-glc-200-precio-ficha-tecnica/
 /coches/dfsk-500-2025-precio-ficha-tecnica/
 /coches/nevo-a06-2025-precio-ficha-tecnica/
 /coches/fiat-tipo-2024-precio-ficha-tecnica/
@@ -335,7 +331,6 @@
 /coches/ferrari-sf90-stradale-2025-precio-ficha-tecnica/
 /coches/geely-emgrand-2025-precio-ficha-tecnica/
 /coches/hongqi-hs3-phev-2025-precio-ficha-tecnica/
-/coches/mercedes-gle-450-e-2026-precio-ficha-tecnica/
 /coches/dongfeng-aeolus-huge-2023-precio-ficha-tecnica/
 /coches/nio-es9-2026-precio-ficha-tecnica/
 /coches/haval-dargo-2024-precio-ficha-tecnica/
@@ -416,9 +411,7 @@
 /coches/honda-super-n-ev-2026-precio-ficha-tecnica/
 /coches/volkswagen-arteon-2025-precio-ficha-tecnica/
 /coches/aito-m7-2026-precio-ficha-tecnica/
-/coches/mercedes-benz-clase-e-220-d-precio-ficha-tecnica/
 /coches/bentley-flying-spur-azure-2026-precio-ficha-tecnica/
-/coches/mercedes-gla-250-e-2025-precio-ficha-tecnica/
 /coches/chery-arrizo-8-2024-precio-ficha-tecnica/
 /coches/swm-g01-2025-precio-ficha-tecnica/
 /coches/suzuki-e-vitara-2025-precio-ficha-tecnica/
