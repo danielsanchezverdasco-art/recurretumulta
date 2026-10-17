@@ -24,3 +24,15 @@ Lista de páginas: paginas-a-completar.txt (1.967 URLs, fuera de Google por ahor
 
 ## Al terminar cada lote
 Envía a Cosa la lista de slugs completados. Indica en cada uno qué datos son oficiales y cuáles aproximados. Cosa los revisa, los saca de noindex si están completos con datos oficiales y los publica.
+
+## Correcciones tras el lote 1 (rechazado entero, ver docs/REVISION-LOTE1.md)
+- Cada ficha va COMPLETA en el mismo commit: datos + texto propio + fotos nuevas. Si falta algo, no la subas.
+- "800 palabras" = texto propio en prosa (análisis, pros/contras, rivales, mantenimiento), SIN contar tablas ni datos. Va en el campo de texto/análisis de la ficha.
+- Fotos: súbelas con `git add -f public/media/`. Mínimo portada + 3 reales. Prohibido usar renders hechos con IA y la imagen `-hero`.
+- Mira con tus ojos la portada que ya existe: si no es ese modelo, generación y año, cámbiala.
+- Cada cifra tiene que aparecer en su `fuenteUrl` (web oficial, nota de prensa, km77...). No valen anuncios de ocasión, concesionarios, Scribd, PDF anónimos, buscadores ni exportadores.
+- No calcules nada (ni autonomía, ni consumo, ni potencias sumadas). Peso = en vacío, nunca la MMA.
+- Precio = tarifa en España sin ayudas. Si es de otro país o aproximado, márcalo como aproximado.
+- Estrellas Euro NCAP solo con enlace a euroncap.com (los furgones no tienen estrellas).
+- Antes de editar, comprueba que la URL no redirige a otra ficha.
+- Lotes de 20-30 fichas, con la lista exacta de slugs en el commit.
