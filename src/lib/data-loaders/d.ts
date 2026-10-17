@@ -41,6 +41,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "dacia-sandero-stepway-hybrid-155-2026-precio-ficha-tecnica": () => import("../blog-posts-dacia-a.ts"),
     "dacia-sandero-stepway-tce-90-2026-precio-ficha-tecnica": () => import("../blog-posts-dacia-a.ts"),
     "dacia-sandero-tce-90-2026-precio-ficha-tecnica": () => import("../blog-posts-dacia-a.ts"),
+    "dacia-spring-2024-precio-ficha-tecnica": () => import("../blog-posts-prio-3.ts"),
     "dacia-spring-2026-nueva-generacion-precio": () => import("../blog-posts-motor-chinos-e.ts"),
     "dacia-spring-baja-precio-octubre-2026": () => import("../blog-posts-flash-2026.ts"),
     "dacia-spring-electric-45-2024-precio-ficha-tecnica": () => import("../blog-posts-dacia-a.ts"),
