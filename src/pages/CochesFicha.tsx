@@ -54,7 +54,7 @@ import { loadArrayItem, loadRecordEntry } from "@/lib/data-loader-utils.ts";
 
 // 07/10/2026 (rendimiento): componentes below-the-fold en lazy para reducir
 // el chunk inicial de la ficha (era 1,6MB). Se cargan al hacer scroll.
-const HistoricoPreciosLazy = lazy(() => import("@/components/HistoricoPrecios.tsx"));
+const HistorialPreciosLazy = lazy(() => import("@/components/HistorialPrecios.tsx"));
 const SeguridadEuroNCAPLayz = lazy(() => import("@/components/SeguridadEuroNCAP.tsx"));
 const HistoriaModeloLazy = lazy(() => import("@/components/HistoriaModelo.tsx"));
 const PlanMantenimientoLazy = lazy(() => import("@/components/PlanMantenimiento.tsx"));
@@ -703,7 +703,7 @@ function Ficha({ coche }: { coche: CocheComparador }) {
             ) : null;
           })()}
           <Suspense fallback={null}>
-            <HistoricoPreciosLazy id={coche.id} />
+            <HistorialPreciosLazy slug={coche.id} nombre={nombre} />
           </Suspense>
         </section>
 
