@@ -1,8 +1,11 @@
-// Campers Volkswagen — ficha 1 (lote caravanas 1, 17/10/2026).
-// Datos verificados: concesionario oficial VW (Comatrasa: precio y ficha),
-// km77 (datos técnicos). Precio con impuestos incluidos según stock de
-// concesionario (marcado en "aprox").
-// Fotos: reales del modelo exacto, verificadas visualmente.
+// Campers Volkswagen — ficha 1 (lote caravanas 1, 17/10/2026; corregida 18/10/2026).
+// Datos verificados: Volkswagen Vehículos Comerciales (web oficial) +
+// concesionario oficial VW (Comatrasa: precio y ficha), km77 (datos técnicos).
+// Precio con impuestos incluidos según stock de concesionario (marcado en "aprox").
+// MMA 2.850 kg (ficha oficial VW).
+// Fotos: reales del modelo exacto, verificadas visualmente; la principal y la
+// lateral son del press kit oficial VW; la cocina y el interior son fotos reales
+// no oficiales (sin "-oficial").
 import type { CocheComparador } from "./comparador-coches-data.ts";
 
 export const AUTOCARAVANAS_VOLKSWAGEN: CocheComparador[] = [
@@ -29,7 +32,7 @@ export const AUTOCARAVANAS_VOLKSWAGEN: CocheComparador[] = [
     imagenOficial:
       "/media/volkswagen-california-ocean-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/volkswagen-california-ocean-2026-interior-oficial.webp",
+      "/media/volkswagen-california-ocean-2026-interior.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 5173,
@@ -42,6 +45,10 @@ export const AUTOCARAVANAS_VOLKSWAGEN: CocheComparador[] = [
     parNm: 360,
     traccion: "Delantera",
     emisionesCo2: 178,
+    // MMA 2.850 kg (ficha oficial VW); carnet B (≤3.500 kg).
+    mmaKg: 2850,
+    carnetNecesario: "B",
+    cargaUtilKg: 435, // 2.850 − 2.415 kg en orden de marcha
     aprox: ["precioDesde"],
     pros: [
       "La camper original: icono con la mejor reventa del segmento",
@@ -78,14 +85,14 @@ export const AUTOCARAVANAS_VOLKSWAGEN: CocheComparador[] = [
         alto: 800,
       },
       {
-        src: "/media/volkswagen-california-ocean-2026-interior-oficial.webp",
-        alt: "Interior del Volkswagen California Ocean T7, cama del techo (km77)",
+        src: "/media/volkswagen-california-ocean-2026-interior.webp",
+        alt: "Interior del Volkswagen California Ocean T7, cama del techo",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/volkswagen-california-ocean-2026-precio-ficha-tecnica-oficial-3.webp",
-        alt: "Volkswagen California Ocean T7, vista tres cuartos",
+        src: "/media/volkswagen-california-ocean-2026-precio-ficha-tecnica-3.webp",
+        alt: "Cocina del Volkswagen California Ocean T7",
         ancho: 1200,
         alto: 800,
       },
@@ -112,8 +119,8 @@ export const AUTOCARAVANAS_VOLKSWAGEN: CocheComparador[] = [
       fuente: "Plan de mantenimiento Volkswagen + recomendaciones California",
     },
     euroncap: null,
-    fuenteNombre: "Volkswagen (concesionario oficial) + km77",
+    fuenteNombre: "Volkswagen Vehículos Comerciales (oficial) + km77",
     fuenteUrl:
-      "https://comatrasa.es/venta-vehiculos/volkswagen-california-ocean-150-cv-tdi-dsg-bl-4-pza/",
+      "https://www.volkswagen-comerciales.es/es/modelos/california.html",
   },
 ];

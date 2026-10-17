@@ -25,17 +25,20 @@ export const AUTOCARAVANAS_ADRIA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagen:
-      "/media/adria-matrix-plus-670-sl-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/adria-matrix-plus-670-sl-2026-precio-ficha-tecnica.webp",
     imagenOficial:
-      "/media/adria-matrix-plus-670-sl-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/adria-matrix-plus-670-sl-2026-precio-ficha-tecnica.webp",
     imagenInteriorOficial:
-      "/media/adria-matrix-plus-670-sl-2026-interior-oficial.webp",
+      "/media/adria-matrix-plus-670-sl-2026-interior.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 7490,
-    anchoMm: 2299,
+    anchoMm: 2300,
     altoMm: 2810,
     pesoKg: null,
+    mmaKg: 3500,
+    carnetNecesario: "B",
+    cargaUtilKg: null, // sin masa oficial en orden de marcha publicada por Adria
     consumo: null,
     consumoUnidad: null,
     plazas: 4,
@@ -47,7 +50,7 @@ export const AUTOCARAVANAS_ADRIA: CocheComparador[] = [
       "Interior de diseño moderno con cocina en L y baño separado de concepto doméstico",
       "Camas gemelas traseras extensibles a king size + cama abatible eléctrica",
       "Chasis Fiat Ducato 2.2 con opción de 180 CV y cambio automático",
-      "La perfilada más vendida de Adria en Europa: reventa sólida",
+      "Baño separado con ducha y cocina en L: distribución pensada para el uso diario intensivo",
       "Adria MACH: control de funciones del vehículo desde el móvil",
     ],
     contras: [
@@ -72,19 +75,19 @@ export const AUTOCARAVANAS_ADRIA: CocheComparador[] = [
     },
     galeria: [
       {
-        src: "/media/adria-matrix-plus-670-sl-2026-precio-ficha-tecnica-oficial-2.webp",
+        src: "/media/adria-matrix-plus-670-sl-2026-precio-ficha-tecnica-2.webp",
         alt: "Adria Matrix Plus 670 SL, vista lateral con gráficos Matrix Plus",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/adria-matrix-plus-670-sl-2026-precio-ficha-tecnica-oficial-3.webp",
+        src: "/media/adria-matrix-plus-670-sl-2026-precio-ficha-tecnica-3.webp",
         alt: "Adria Matrix Plus 670 SL, vista tres cuartos trasera",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/adria-matrix-plus-670-sl-2026-interior-oficial.webp",
+        src: "/media/adria-matrix-plus-670-sl-2026-interior.webp",
         alt: "Interior de la Adria Matrix Plus 670 SL, salón y cocina",
         ancho: 1200,
         alto: 800,

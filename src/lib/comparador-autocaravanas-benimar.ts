@@ -25,17 +25,20 @@ export const AUTOCARAVANAS_BENIMAR: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagen:
-      "/media/benimar-tessoro-463-up-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/benimar-tessoro-463-up-2026-precio-ficha-tecnica-2.webp",
     imagenOficial:
-      "/media/benimar-tessoro-463-up-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/benimar-tessoro-463-up-2026-precio-ficha-tecnica-2.webp",
     imagenInteriorOficial:
-      "/media/benimar-tessoro-463-up-2026-precio-ficha-tecnica-interior-oficial.webp",
+      "/media/benimar-tessoro-463-up-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 7480,
     anchoMm: 2300,
     altoMm: 2970,
     pesoKg: null,
+    mmaKg: 3500,
+    carnetNecesario: "B",
+    cargaUtilKg: null, // sin masa oficial en orden de marcha publicada por Benimar
     consumo: null,
     consumoUnidad: null,
     plazas: 5,
@@ -44,7 +47,7 @@ export const AUTOCARAVANAS_BENIMAR: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde"],
     pros: [
-      "La autocaravana más vendida de España en 2024, 2025 y 2026: valor de reventa blindado",
+      "La autocaravana más vendida de España en 2026 (accamper.com): valor de reventa muy sólido",
       "5 plazas para dormir y 5 para circular con carnet B (MMA 3.500 kg)",
       "Camas gemelas traseras convertibles en cama doble + cama basculante eléctrica",
       "Versión UP 'lista para viajar': toldo, placa solar y TV incluidos de serie",
@@ -72,20 +75,20 @@ export const AUTOCARAVANAS_BENIMAR: CocheComparador[] = [
     },
     galeria: [
       {
-        src: "/media/benimar-tessoro-463-up-2026-precio-ficha-tecnica-oficial-2.webp",
+        src: "/media/benimar-tessoro-463-up-2026-precio-ficha-tecnica-2.webp",
         alt: "Benimar Tessoro 463 UP, vista tres cuartos delantera",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/benimar-tessoro-463-up-2026-precio-ficha-tecnica-oficial-3.webp",
+        src: "/media/benimar-tessoro-463-up-2026-precio-ficha-tecnica-3.webp",
         alt: "Benimar Tessoro 463 UP, vista lateral",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/benimar-tessoro-463-up-2026-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Cocina de la Benimar Tessoro 463 UP, foto oficial",
+        src: "/media/benimar-tessoro-463-up-2026-precio-ficha-tecnica-interior.webp",
+        alt: "Cocina de la Benimar Tessoro 463 UP",
         ancho: 1200,
         alto: 1500,
       },

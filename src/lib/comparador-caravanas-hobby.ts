@@ -1,8 +1,10 @@
-// Caravanas Hobby — ficha 1 (lote caravanas 1, 17/10/2026).
-// Datos verificados: red oficial Hobby (datos técnicos del modelo 2026)
-// + precio de lista de distribuidor oficial. Precio orientativo
+// Caravanas Hobby — ficha 1 (lote caravanas 1, 17/10/2026; corregida 18/10/2026).
+// Datos verificados: Hobby (web oficial) + exposé oficial del modelo 2026
+// (1.475 kg en orden de marcha, MMA 1.800 kg con Auflastung opcional,
+// carga útil 325 kg). Precio orientativo de lista de distribuidor
 // (marcado en "aprox"). Las caravanas no llevan etiqueta DGT.
-// Fotos: reales del modelo exacto, verificadas visualmente.
+// Fotos: reales del modelo exacto, verificadas visualmente; son de
+// distribuidores, NO del press kit oficial (sin "-oficial").
 import type { CocheComparador } from "./comparador-coches-data.ts";
 
 export const CARAVANAS_HOBBY: CocheComparador[] = [
@@ -25,35 +27,40 @@ export const CARAVANAS_HOBBY: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagen:
-      "/media/hobby-de-luxe-540-ul-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/hobby-de-luxe-540-ul-2026-precio-ficha-tecnica.webp",
     imagenOficial:
-      "/media/hobby-de-luxe-540-ul-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/hobby-de-luxe-540-ul-2026-precio-ficha-tecnica.webp",
     imagenInteriorOficial:
-      "/media/hobby-de-luxe-540-ul-2026-precio-ficha-tecnica-oficial-2.webp",
+      "/media/hobby-de-luxe-540-ul-2026-precio-ficha-tecnica-2.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 7300,
     anchoMm: 2300,
     altoMm: 2640,
-    pesoKg: 1263,
+    pesoKg: 1475,
     consumo: null,
     consumoUnidad: null,
     plazas: 4,
     parNm: null,
     traccion: null,
     emisionesCo2: null,
+    // MMA 1.800 kg con Auflastung opcional (exposé oficial); carnet B con el
+    // coche adecuado (conjunto ≤3.500 kg).
+    mmaKg: 1800,
+    carnetNecesario: "B",
+    cargaUtilKg: 325, // según exposé oficial (1.800 − 1.475 kg)
     aprox: ["precioDesde", "pesoKg"],
     pros: [
-      "La caravana más vendida de Europa: red de servicio y repuestos imbatible",
+      "De una de las marcas de caravanas más vendidas de Europa: red de servicio y repuestos imbatible",
       "Camas individuales traseras + salón convertible: 4 plazas sin literas",
-      "1.800 kg de MMA con un solo eje: remolcable con carnet B y coche medio",
+      "1.800 kg de MMA (con aumento de carga opcional) en un solo eje: con el coche adecuado, carnet B",
       "Altura interior de 1,95 m y gran sensación de espacio",
       "Garantía de estanqueidad de 5 años",
     ],
     contras: [
       "Con 7,30 m totales exige experiencia remolcando y plaza de parking",
       "El precio orientativo (~34.500 €) es alto frente a la competencia",
-      "Con 1.263 kg en vacío, la carga útil con 4 ocupantes es justa",
+      "Con 1.475 kg en orden de marcha y 325 kg de carga útil, hay que repartir bien el equipaje",
       "Sin mover eléctrico, maniobrar 7,3 m a mano es duro",
       "El avance no viene de serie: hay que presupuestarlo aparte",
     ],
@@ -72,19 +79,19 @@ export const CARAVANAS_HOBBY: CocheComparador[] = [
     },
     galeria: [
       {
-        src: "/media/hobby-de-luxe-540-ul-2026-precio-ficha-tecnica-oficial-2.webp",
-        alt: "Hobby De Luxe 540 UL, imagen oficial",
+        src: "/media/hobby-de-luxe-540-ul-2026-precio-ficha-tecnica-2.webp",
+        alt: "Hobby De Luxe 540 UL, imagen del modelo",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/hobby-de-luxe-540-ul-2026-precio-ficha-tecnica-oficial-3.webp",
+        src: "/media/hobby-de-luxe-540-ul-2026-precio-ficha-tecnica-3.webp",
         alt: "Hobby De Luxe 540 UL, vista lateral real",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/hobby-de-luxe-540-ul-2026-precio-ficha-tecnica-oficial-4.webp",
+        src: "/media/hobby-de-luxe-540-ul-2026-precio-ficha-tecnica-4.webp",
         alt: "Hobby De Luxe 540 UL, vista tres cuartos",
         ancho: 1200,
         alto: 800,
@@ -106,7 +113,7 @@ export const CARAVANAS_HOBBY: CocheComparador[] = [
       fuente: "Recomendaciones Hobby + red de distribuidores",
     },
     euroncap: null,
-    fuenteNombre: "Hobby (red oficial)",
+    fuenteNombre: "Hobby (web oficial) + exposé oficial del modelo 2026",
     fuenteUrl: "https://www.hobby-caravan.de/ch_de/wohnwagen/de-luxe/540-ul/",
   },
   // Caravana 2 (lote caravanas 2D, 17/10/2026).

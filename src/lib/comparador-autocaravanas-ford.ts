@@ -1,8 +1,9 @@
-// Campers Ford — ficha 1 (lote caravanas 1, 17/10/2026).
-// Datos verificados: Ford + Westfalia (datos técnicos), rango de precios
-// 2026 según prensa especializada (marcado en "aprox").
-// Fotos: reales del modelo exacto (Tourneo Custom actual), verificadas
-// visualmente.
+// Campers Ford — ficha 1 (lote caravanas 1, 17/10/2026; corregida 18/10/2026).
+// Datos verificados: Ford España (web oficial) + Westfalia (datos técnicos),
+// precios orientativos España 2025 según prensa especializada (marcado en
+// "aprox"). MMA 3.300 kg según unidades 2026 (Tourneo Custom L2).
+// Fotos: reales del modelo exacto (Tourneo Custom Westfalia), verificadas
+// visualmente; son de concesionario, NO del press kit oficial (sin "-oficial").
 import type { CocheComparador } from "./comparador-coches-data.ts";
 
 export const AUTOCARAVANAS_FORD: CocheComparador[] = [
@@ -12,7 +13,7 @@ export const AUTOCARAVANAS_FORD: CocheComparador[] = [
     modelo: "Nugget Plus",
     tipo: "Camper",
     categoria: "Autocaravana",
-    precioDesde: 63400,
+    precioDesde: 75000,
     potenciaCv: 136,
     autonomiaKm: null,
     maleteroL: null,
@@ -25,11 +26,11 @@ export const AUTOCARAVANAS_FORD: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagen:
-      "/media/ford-nugget-plus-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/ford-nugget-plus-2026-precio-ficha-tecnica.webp",
     imagenOficial:
-      "/media/ford-nugget-plus-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/ford-nugget-plus-2026-precio-ficha-tecnica.webp",
     imagenInteriorOficial:
-      "/media/ford-nugget-plus-2026-precio-ficha-tecnica-oficial-3.webp",
+      "/media/ford-nugget-plus-2026-precio-ficha-tecnica-3.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 5450,
@@ -42,13 +43,17 @@ export const AUTOCARAVANAS_FORD: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
+    // MMA 3.300 kg (unidades 2026 Tourneo Custom L2); carnet B (≤3.500 kg).
+    mmaKg: 3300,
+    carnetNecesario: "B",
+    cargaUtilKg: 850, // 3.300 − 2.450 kg en orden de marcha (aprox.)
     aprox: ["precioDesde", "pesoKg"],
     pros: [
       "Conversión Westfalia de fábrica: calidad alemana con garantía Ford",
       "Versión PHEV de 233 CV con 50 km eléctricos: única camper híbrida enchufable",
       "Techo elevable + baño con WC y ducha: más equipada que la California",
-      "5,45 m y 2,06 m de alto: entra en parkings y se usa a diario",
-      "Precio desde ~63.400 €: más barata que la California Ocean",
+      "5,45 m de largo: ágil para el día a día (con 2,06 m de alto, ojo con los parkings subterráneos)",
+      "Precio desde ~75.000 €: más barata que la California Ocean",
     ],
     contras: [
       "La versión PHEV supera los 80.000 €: el precio se dispara con opciones",
@@ -72,13 +77,13 @@ export const AUTOCARAVANAS_FORD: CocheComparador[] = [
     },
     galeria: [
       {
-        src: "/media/ford-nugget-plus-2026-precio-ficha-tecnica-oficial-2.webp",
+        src: "/media/ford-nugget-plus-2026-precio-ficha-tecnica-2.webp",
         alt: "Ford Nugget Plus, vista tres cuartos",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/ford-nugget-plus-2026-precio-ficha-tecnica-oficial-3.webp",
+        src: "/media/ford-nugget-plus-2026-precio-ficha-tecnica-3.webp",
         alt: "Ford Nugget Plus, vista lateral",
         ancho: 1200,
         alto: 800,
@@ -106,8 +111,8 @@ export const AUTOCARAVANAS_FORD: CocheComparador[] = [
       fuente: "Plan de mantenimiento Ford + recomendaciones Westfalia",
     },
     euroncap: null,
-    fuenteNombre: "Ford / Westfalia + prensa especializada",
+    fuenteNombre: "Ford España (oficial) + Westfalia + prensa especializada",
     fuenteUrl:
-      "https://autotest.com.ar/transportes/233-cv-y-muy-buena-relacion-precio-equipamiento-ford-renovo-su-furgoneta-lider/",
+      "https://www.ford.es/furgonetas-pick-up/nueva-transit-custom-nugget",
   },
 ];

@@ -25,17 +25,20 @@ export const AUTOCARAVANAS_DETHLEFFS: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagen:
-      "/media/dethleffs-trend-t-7057-eb-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/dethleffs-trend-t-7057-eb-2026-precio-ficha-tecnica.webp",
     imagenOficial:
-      "/media/dethleffs-trend-t-7057-eb-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/dethleffs-trend-t-7057-eb-2026-precio-ficha-tecnica.webp",
     imagenInteriorOficial:
-      "/media/dethleffs-trend-t-7057-eb-2026-interior-oficial.webp",
+      "/media/dethleffs-trend-t-7057-eb-2026-interior.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 7410,
     anchoMm: 2330,
     altoMm: 3000,
     pesoKg: 2955,
+    mmaKg: 3499,
+    carnetNecesario: "B",
+    cargaUtilKg: 544, // 3499 − 2955 kg (datos oficiales Dethleffs 2027)
     consumo: null,
     consumoUnidad: null,
     plazas: 5,
@@ -44,7 +47,7 @@ export const AUTOCARAVANAS_DETHLEFFS: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde"],
     pros: [
-      "Construcción Lifetime-Plus sin madera en la estructura: a prueba de corrosión",
+      "Tecnología Lifetime Smart: suelo sin costillaje de madera, a prueba de corrosión",
       "Camas gemelas traseras de 214x80 cm convertibles en cama doble de 211x201",
       "Masa en orden de marcha oficial de 2.955 kg: buena carga útil hasta los 3.499 kg",
       "Calefacción Truma Combi 6 y frigorífico de 137 l de serie",
@@ -72,19 +75,19 @@ export const AUTOCARAVANAS_DETHLEFFS: CocheComparador[] = [
     },
     galeria: [
       {
-        src: "/media/dethleffs-trend-t-7057-eb-2026-precio-ficha-tecnica-oficial-2.webp",
+        src: "/media/dethleffs-trend-t-7057-eb-2026-precio-ficha-tecnica.webp",
         alt: "Dethleffs Trend T 7057, vista lateral",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/dethleffs-trend-t-7057-eb-2026-interior-oficial.webp",
+        src: "/media/dethleffs-trend-t-7057-eb-2026-interior.webp",
         alt: "Salón comedor de la Dethleffs Trend T 7057",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/dethleffs-trend-t-7057-eb-2026-extra-oficial.webp",
+        src: "/media/dethleffs-trend-t-7057-eb-2026-extra.webp",
         alt: "Interior de la Dethleffs Trend, zona de estar con cocina",
         ancho: 1200,
         alto: 800,
