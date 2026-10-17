@@ -184,8 +184,8 @@ export const COCHES_CUPRA: CocheComparador[] = [
     potenciaCv: 116,
     autonomiaKm: 300,
     maleteroL: 441,
-    ceroCien: 11.0,
-    velocidadMax: 160,
+    ceroCien: null,
+    velocidadMax: null,
     bateriaKwh: 37,
     cargaRapidaKw: 50,
     etiquetaDgt: "Cero",
@@ -194,15 +194,15 @@ export const COCHES_CUPRA: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     largoMm: 4046,
     anchoMm: 1784,
-    altoMm: 1514,
+    altoMm: 1518,
     pesoKg: 1568,
     consumo: 13.7,
     consumoUnidad: "kWh/100 km",
     plazas: 5,
-    parNm: 267,
+    parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["autonomiaKm", "precioDesde"],
     pros: [
       "Desde 26.000 €: el eléctrico urbano español más asequible sobre la plataforma MEB+",
       "Diseñado, desarrollado y fabricado en Martorell (Barcelona)",
@@ -217,9 +217,9 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "El precio 'desde' exige la versión básica; el Endurance roza los 35.000 €",
       "Rivales duros en casa: el Volkswagen ID. Polo comparte plataforma y planta",
     ],
-    imagen: "/media/cupra-raval-2026-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/cupra-raval-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/cupra-raval-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagen: "/media/cupra-raval-2026-precio-ficha-tecnica-1.webp",
+    imagenOficial: "/media/cupra-raval-2026-precio-ficha-tecnica-1.webp",
+    imagenInteriorOficial: "/media/cupra-raval-2026-precio-ficha-tecnica-4.webp",
     videoId: "aruUUU71KtM",
     videoCanal: "coches.net",
     opiniones: [],
@@ -236,22 +236,22 @@ export const COCHES_CUPRA: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/cupra-raval-2026-precio-ficha-tecnica-oficial.webp",
-        "alt": "Cupra Raval 2026, vista lateral",
-        "ancho": 2736,
-        "alto": 912
+        "src": "/media/cupra-raval-2026-precio-ficha-tecnica-2.webp",
+        "alt": "Cupra Raval Dynamic Plus, lateral",
+        "ancho": 1500,
+        "alto": 900
       },
       {
-        "src": "/media/cupra-raval-2026-precio-ficha-tecnica-oficial-2.webp",
-        "alt": "Cupra Raval 2026 cargando en un punto de recarga rápida",
-        "ancho": 1920,
-        "alto": 1280
+        "src": "/media/cupra-raval-2026-precio-ficha-tecnica-3.webp",
+        "alt": "Trasera del Cupra Raval",
+        "ancho": 1600,
+        "alto": 900
       },
       {
-        "src": "/media/cupra-raval-2026-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del Cupra Raval 2026",
-        "ancho": 1920,
-        "alto": 1280
+        "src": "/media/cupra-raval-2026-precio-ficha-tecnica-4.webp",
+        "alt": "Interior del Cupra Raval",
+        "ancho": 953,
+        "alto": 536
       }
     ],
     fuenteNombre: "SEAT Media Center",
@@ -286,17 +286,17 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "autonomiaKm": null,
     "maleteroL": 380,
     "ceroCien": 8.9,
-    "velocidadMax": 215,
+    "velocidadMax": 214,
     "bateriaKwh": null,
     "cargaRapidaKw": null,
-    "etiquetaDgt": "C",
+    "etiquetaDgt": "ECO",
     "garantiaBateriaAnos": null,
     "garantiaBateriaKm": null,
     "garantiaBateriaDegradacionPct": null,
-    "largoMm": 4368,
+    "largoMm": 4398,
     "anchoMm": 1799,
-    "altoMm": 1467,
-    "pesoKg": 1373,
+    "altoMm": 1442,
+    "pesoKg": 1338,
     "consumo": 5.8,
     "consumoUnidad": "l/100 km",
     "plazas": 5,
@@ -318,9 +318,9 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "El e-Hybrid 204 ofrece 126 km eléctricos por 10.588 € más",
       "Consumo real en ciudad, alto para un 1.5"
     ],
-    "imagen": "/media/cupra-leon-15-tsi-2025-precio-ficha-tecnica-hero.webp",
-    "imagenOficial": "/media/cupra-leon-15-tsi-2025-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/cupra-leon-15-tsi-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "imagen": "/media/cupra-leon-15-tsi-2025-precio-ficha-tecnica-1.webp",
+    "imagenOficial": "/media/cupra-leon-15-tsi-2025-precio-ficha-tecnica-1.webp",
+    "imagenInteriorOficial": "/media/cupra-leon-15-tsi-2025-precio-ficha-tecnica-3.webp",
     "videoId": null,
     "videoCanal": null,
     "opiniones": [],
@@ -337,22 +337,22 @@ export const COCHES_CUPRA: CocheComparador[] = [
     },
     "galeria": [
       {
-        "src": "/media/cupra-leon-15-tsi-2025-precio-ficha-tecnica-oficial.webp",
-        "alt": "Cupra León 1.5 TSI, compacto deportivo, tres cuartos delantero",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-leon-15-tsi-2025-precio-ficha-tecnica-2.webp",
+        "alt": "Cupra León 2024 (facelift), trasera",
+        "ancho": 730,
+        "alto": 487
       },
       {
-        "src": "/media/cupra-leon-15-tsi-2025-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del Cupra León con pantalla de 12,9 pulgadas",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-leon-15-tsi-2025-precio-ficha-tecnica-3.webp",
+        "alt": "Interior del Cupra León 2024",
+        "ancho": 659,
+        "alto": 371
       },
       {
-        "src": "/media/cupra-leon-15-tsi-2025-precio-ficha-tecnica-hero.webp",
-        "alt": "Cupra León 1.5 TSI en una carretera secundaria",
+        "src": "/media/cupra-leon-15-tsi-2025-precio-ficha-tecnica-4.webp",
+        "alt": "Trasera del Cupra León 2024 de noche con pilotos LED",
         "ancho": 1200,
-        "alto": 800
+        "alto": 600
       }
     ],
     "fuenteNombre": "auto-data.net",
@@ -393,10 +393,10 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "garantiaBateriaAnos": 8,
     "garantiaBateriaKm": 160000,
     "garantiaBateriaDegradacionPct": null,
-    "largoMm": 4368,
+    "largoMm": 4398,
     "anchoMm": 1799,
-    "altoMm": 1467,
-    "pesoKg": 1673,
+    "altoMm": 1442,
+    "pesoKg": 1606,
     "consumo": 0.4,
     "consumoUnidad": "l/100 km",
     "plazas": 5,
@@ -418,9 +418,9 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "Sin carga rápida en continua",
       "Si no cargas a diario, pierde todo el sentido"
     ],
-    "imagen": "/media/cupra-leon-ehybrid-204-2025-precio-ficha-tecnica-hero.webp",
-    "imagenOficial": "/media/cupra-leon-ehybrid-204-2025-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/cupra-leon-ehybrid-204-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "imagen": "/media/cupra-leon-ehybrid-204-2025-precio-ficha-tecnica-1.webp",
+    "imagenOficial": "/media/cupra-leon-ehybrid-204-2025-precio-ficha-tecnica-1.webp",
+    "imagenInteriorOficial": "/media/cupra-leon-ehybrid-204-2025-precio-ficha-tecnica-3.webp",
     "videoId": null,
     "videoCanal": null,
     "opiniones": [],
@@ -437,22 +437,22 @@ export const COCHES_CUPRA: CocheComparador[] = [
     },
     "galeria": [
       {
-        "src": "/media/cupra-leon-ehybrid-204-2025-precio-ficha-tecnica-oficial.webp",
-        "alt": "Cupra León e-Hybrid 204, compacto híbrido enchufable",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-leon-ehybrid-204-2025-precio-ficha-tecnica-2.webp",
+        "alt": "Cupra León 2024 (facelift), trasera",
+        "ancho": 730,
+        "alto": 487
       },
       {
-        "src": "/media/cupra-leon-ehybrid-204-2025-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del Cupra León e-Hybrid con pantalla de 12,9 pulgadas",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-leon-ehybrid-204-2025-precio-ficha-tecnica-3.webp",
+        "alt": "Interior del Cupra León 2024",
+        "ancho": 659,
+        "alto": 371
       },
       {
-        "src": "/media/cupra-leon-ehybrid-204-2025-precio-ficha-tecnica-hero.webp",
-        "alt": "Cupra León e-Hybrid cargando en un punto de recarga",
+        "src": "/media/cupra-leon-ehybrid-204-2025-precio-ficha-tecnica-4.webp",
+        "alt": "Trasera del Cupra León 2024 de noche con pilotos LED",
         "ancho": 1200,
-        "alto": 800
+        "alto": 600
       }
     ],
     "fuenteNombre": "auto-data.net",
@@ -493,16 +493,16 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "garantiaBateriaAnos": null,
     "garantiaBateriaKm": null,
     "garantiaBateriaDegradacionPct": null,
-    "largoMm": 4368,
+    "largoMm": 4398,
     "anchoMm": 1799,
     "altoMm": 1467,
-    "pesoKg": 1496,
+    "pesoKg": 1421,
     "consumo": 7.6,
     "consumoUnidad": "l/100 km",
     "plazas": 5,
     "parNm": 400,
     "traccion": "Delantera",
-    "emisionesCo2": 172,
+    "emisionesCo2": 173,
     "aprox": [],
     "pros": [
       "300 CV y 400 Nm: el León gasolina más potente con tracción delantera",
@@ -518,9 +518,9 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "El VZ 325 añade 4Drive por 1.840 € más",
       "Sin hibridación: malus en algunos impuestos autonómicos"
     ],
-    "imagen": "/media/cupra-leon-vz-300-2025-precio-ficha-tecnica-hero.webp",
-    "imagenOficial": "/media/cupra-leon-vz-300-2025-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/cupra-leon-vz-300-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "imagen": "/media/cupra-leon-vz-300-2025-precio-ficha-tecnica-1.webp",
+    "imagenOficial": "/media/cupra-leon-vz-300-2025-precio-ficha-tecnica-1.webp",
+    "imagenInteriorOficial": "/media/cupra-leon-vz-300-2025-precio-ficha-tecnica-3.webp",
     "videoId": null,
     "videoCanal": null,
     "opiniones": [],
@@ -537,26 +537,26 @@ export const COCHES_CUPRA: CocheComparador[] = [
     },
     "galeria": [
       {
-        "src": "/media/cupra-leon-vz-300-2025-precio-ficha-tecnica-oficial.webp",
-        "alt": "Cupra León VZ 300, compacto deportivo, tres cuartos delantero",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-leon-vz-300-2025-precio-ficha-tecnica-2.webp",
+        "alt": "Cupra León 2024 (facelift), trasera",
+        "ancho": 730,
+        "alto": 487
       },
       {
-        "src": "/media/cupra-leon-vz-300-2025-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del Cupra León VZ con asientos bucket",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-leon-vz-300-2025-precio-ficha-tecnica-3.webp",
+        "alt": "Interior del Cupra León 2024",
+        "ancho": 659,
+        "alto": 371
       },
       {
-        "src": "/media/cupra-leon-vz-300-2025-precio-ficha-tecnica-hero.webp",
-        "alt": "Cupra León VZ 300 en un puerto de montaña",
+        "src": "/media/cupra-leon-vz-300-2025-precio-ficha-tecnica-4.webp",
+        "alt": "Trasera del Cupra León 2024 de noche con pilotos LED",
         "ancho": 1200,
-        "alto": 800
+        "alto": 600
       }
     ],
-    "fuenteNombre": "motoryviajes.com",
-    "fuenteUrl": "https://motoryviajes.com/2025/05/31/nuevo-cupra-leon-5p-vz-2-0-tsi-dsg-300-cv/",
+    "fuenteNombre": "auto-data.net",
+    "fuenteUrl": "https://www.auto-data.net/es/cupra-leon-facelift-2024-2.0-tsi-300hp-dsg-53235",
     "euroncap": {
       "estrellas": 5,
       "ano": 2020,
@@ -593,10 +593,10 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "garantiaBateriaAnos": null,
     "garantiaBateriaKm": null,
     "garantiaBateriaDegradacionPct": null,
-    "largoMm": 4368,
+    "largoMm": 4398,
     "anchoMm": 1799,
-    "altoMm": 1467,
-    "pesoKg": null,
+    "altoMm": 1444,
+    "pesoKg": 1432,
     "consumo": 7.7,
     "consumoUnidad": "l/100 km",
     "plazas": 5,
@@ -618,9 +618,9 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "A este precio, el Golf R juega en la misma liga",
       "Sin opción manual"
     ],
-    "imagen": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-hero.webp",
-    "imagenOficial": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "imagen": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-1.webp",
+    "imagenOficial": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-1.webp",
+    "imagenInteriorOficial": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-3.webp",
     "videoId": null,
     "videoCanal": null,
     "opiniones": [],
@@ -637,22 +637,22 @@ export const COCHES_CUPRA: CocheComparador[] = [
     },
     "galeria": [
       {
-        "src": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-oficial.webp",
-        "alt": "Cupra León VZ 325, tres cuartos delantero",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-2.webp",
+        "alt": "Cupra León 2024 (facelift), trasera",
+        "ancho": 730,
+        "alto": 487
       },
       {
-        "src": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del Cupra León VZ 325 con asientos deportivos",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-3.webp",
+        "alt": "Interior del Cupra León 2024",
+        "ancho": 659,
+        "alto": 371
       },
       {
-        "src": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-hero.webp",
-        "alt": "Cupra León VZ 325 acelerando en circuito",
+        "src": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-4.webp",
+        "alt": "Trasera del Cupra León 2024 de noche con pilotos LED",
         "ancho": 1200,
-        "alto": 800
+        "alto": 600
       }
     ],
     "fuenteNombre": "auto-data.net",
@@ -693,10 +693,10 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "garantiaBateriaAnos": 8,
     "garantiaBateriaKm": 160000,
     "garantiaBateriaDegradacionPct": null,
-    "largoMm": 4642,
+    "largoMm": 4657,
     "anchoMm": 1799,
     "altoMm": 1456,
-    "pesoKg": 1720,
+    "pesoKg": 1598,
     "consumo": 0.4,
     "consumoUnidad": "l/100 km",
     "plazas": 5,
@@ -720,9 +720,9 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "Peso extra del sistema híbrido",
       "Solo tiene sentido si cargas a diario"
     ],
-    "imagen": "/media/cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica-hero.webp",
-    "imagenOficial": "/media/cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "imagen": "/media/cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica-1.webp",
+    "imagenOficial": "/media/cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica-1.webp",
+    "imagenInteriorOficial": "/media/cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica-4.webp",
     "videoId": null,
     "videoCanal": null,
     "opiniones": [],
@@ -739,26 +739,26 @@ export const COCHES_CUPRA: CocheComparador[] = [
     },
     "galeria": [
       {
-        "src": "/media/cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica-oficial.webp",
-        "alt": "Cupra León Sportstourer e-Hybrid, familiar híbrido enchufable",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica-2.webp",
+        "alt": "Cupra León Sportstourer 2024, trasera de tres cuartos",
+        "ancho": 1920,
+        "alto": 1080
       },
       {
-        "src": "/media/cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del León Sportstourer e-Hybrid",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica-3.webp",
+        "alt": "Cupra León Sportstourer 2024, vista aérea",
+        "ancho": 1700,
+        "alto": 947
       },
       {
-        "src": "/media/cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica-hero.webp",
-        "alt": "Cupra León Sportstourer e-Hybrid con portón abierto y maletero",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica-4.webp",
+        "alt": "Maletero del Cupra León Sportstourer",
+        "ancho": 1279,
+        "alto": 906
       }
     ],
-    "fuenteNombre": "km77.com",
-    "fuenteUrl": "https://www.km77.com/coches/cupra/leon/informacion?market[]=available",
+    "fuenteNombre": "auto-data.net",
+    "fuenteUrl": "https://www.auto-data.net/es/cupra-leon-sportstourer-facelift-2024-1.5-tsi-204hp-e-hybrid-dsg-53245",
     "euroncap": {
       "estrellas": 5,
       "ano": 2020,
@@ -795,10 +795,10 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "garantiaBateriaAnos": null,
     "garantiaBateriaKm": null,
     "garantiaBateriaDegradacionPct": null,
-    "largoMm": 4642,
+    "largoMm": 4659,
     "anchoMm": 1799,
-    "altoMm": 1456,
-    "pesoKg": 1651,
+    "altoMm": 1438,
+    "pesoKg": 1576,
     "consumo": 8.3,
     "consumoUnidad": "l/100 km",
     "plazas": 5,
@@ -820,9 +820,9 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "El Golf R Variant es su gemelo por más dinero",
       "Poco stock: es una versión de nicho"
     ],
-    "imagen": "/media/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica-hero.webp",
-    "imagenOficial": "/media/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "imagen": "/media/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica-1.webp",
+    "imagenOficial": "/media/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica-1.webp",
+    "imagenInteriorOficial": "/media/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica-4.webp",
     "videoId": null,
     "videoCanal": null,
     "opiniones": [],
@@ -839,26 +839,26 @@ export const COCHES_CUPRA: CocheComparador[] = [
     },
     "galeria": [
       {
-        "src": "/media/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica-oficial.webp",
-        "alt": "Cupra León Sportstourer VZ 333, familiar deportivo",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica-2.webp",
+        "alt": "Cupra León Sportstourer 2024, trasera de tres cuartos",
+        "ancho": 1920,
+        "alto": 1080
       },
       {
-        "src": "/media/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del León Sportstourer VZ con asientos bucket",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica-3.webp",
+        "alt": "Cupra León Sportstourer 2024, vista aérea",
+        "ancho": 1700,
+        "alto": 947
       },
       {
-        "src": "/media/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica-hero.webp",
-        "alt": "Cupra León Sportstourer VZ 333 en carretera",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica-4.webp",
+        "alt": "Maletero del Cupra León Sportstourer",
+        "ancho": 1279,
+        "alto": 906
       }
     ],
-    "fuenteNombre": "tufichatecnica.com",
-    "fuenteUrl": "https://www.tufichatecnica.com/cupra/leon/sportstourer/2024/cupra-leon-vz-2024-5p-20g-at7-333cv-b4j0",
+    "fuenteNombre": "auto-data.net",
+    "fuenteUrl": "https://www.auto-data.net/es/cupra-leon-sportstourer-facelift-2024-2.0-tsi-333hp-4drive-dsg-53239",
     "euroncap": {
       "estrellas": 5,
       "ano": 2020,
@@ -920,9 +920,9 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "Plazas traseras con techo coupé",
       "Sin tracción total en esta versión"
     ],
-    "imagen": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-hero.webp",
-    "imagenOficial": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "imagen": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-1.webp",
+    "imagenOficial": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-1.webp",
+    "imagenInteriorOficial": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-3.webp",
     "videoId": null,
     "videoCanal": null,
     "opiniones": [],
@@ -939,22 +939,22 @@ export const COCHES_CUPRA: CocheComparador[] = [
     },
     "galeria": [
       {
-        "src": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-oficial.webp",
-        "alt": "Cupra Formentor 1.5 eTSI, SUV coupé, tres cuartos delantero",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-2.webp",
+        "alt": "Cupra Formentor 2024 (facelift), trasera de tres cuartos",
+        "ancho": 1140,
+        "alto": 641
       },
       {
-        "src": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del Cupra Formentor con pantalla central",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-3.webp",
+        "alt": "Interior del Cupra Formentor 2024 con pantalla central",
+        "ancho": 1068,
+        "alto": 601
       },
       {
-        "src": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-hero.webp",
-        "alt": "Cupra Formentor 1.5 eTSI en ciudad",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-4.webp",
+        "alt": "Logotipo CUPRA iluminado en el Formentor 2024",
+        "ancho": 1920,
+        "alto": 1080
       }
     ],
     "fuenteNombre": "coches.net",
@@ -998,7 +998,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "largoMm": 4451,
     "anchoMm": 1839,
     "altoMm": 1511,
-    "pesoKg": 1717,
+    "pesoKg": 1642,
     "consumo": 0.4,
     "consumoUnidad": "l/100 km",
     "plazas": 5,
@@ -1020,9 +1020,9 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "Peso extra del sistema híbrido",
       "Sin enchufe diario, mejor el eTSI"
     ],
-    "imagen": "/media/cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica-hero.webp",
-    "imagenOficial": "/media/cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "imagen": "/media/cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica-1.webp",
+    "imagenOficial": "/media/cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica-1.webp",
+    "imagenInteriorOficial": "/media/cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica-3.webp",
     "videoId": null,
     "videoCanal": null,
     "opiniones": [],
@@ -1039,26 +1039,26 @@ export const COCHES_CUPRA: CocheComparador[] = [
     },
     "galeria": [
       {
-        "src": "/media/cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica-oficial.webp",
-        "alt": "Cupra Formentor e-Hybrid 204, SUV híbrido enchufable",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica-2.webp",
+        "alt": "Cupra Formentor 2024 (facelift), trasera de tres cuartos",
+        "ancho": 1140,
+        "alto": 641
       },
       {
-        "src": "/media/cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del Cupra Formentor e-Hybrid",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica-3.webp",
+        "alt": "Interior del Cupra Formentor 2024 con pantalla central",
+        "ancho": 1068,
+        "alto": 601
       },
       {
-        "src": "/media/cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica-hero.webp",
-        "alt": "Cupra Formentor e-Hybrid cargando en casa",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica-4.webp",
+        "alt": "Logotipo CUPRA iluminado en el Formentor 2024",
+        "ancho": 1920,
+        "alto": 1080
       }
     ],
-    "fuenteNombre": "CUPRA (ficha técnica oficial)",
-    "fuenteUrl": "https://storage.googleapis.com/flipcar-specs-documents-production/smartycar_production_v2/smartycar_production_v2_be6bfcf4-19d8-4c4f-b58c-f19a00137e51.pdf",
+    "fuenteNombre": "auto-data.net",
+    "fuenteUrl": "https://www.auto-data.net/es/cupra-formentor-facelift-2024-1.5-tsi-204hp-e-hybrid-dsg-53216",
     "euroncap": {
       "estrellas": 5,
       "ano": 2021,
@@ -1085,7 +1085,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "categoria": "SUV",
     "precioDesde": 49160,
     "potenciaCv": 272,
-    "autonomiaKm": 120,
+    "autonomiaKm": 117,
     "maleteroL": 345,
     "ceroCien": 7.2,
     "velocidadMax": 220,
@@ -1120,9 +1120,9 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "Peso: el Formentor más pesado",
       "El VZ 333 gasolina es más radical por 5.814 € más"
     ],
-    "imagen": "/media/cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica-hero.webp",
-    "imagenOficial": "/media/cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "imagen": "/media/cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica-1.webp",
+    "imagenOficial": "/media/cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica-1.webp",
+    "imagenInteriorOficial": "/media/cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica-3.webp",
     "videoId": null,
     "videoCanal": null,
     "opiniones": [],
@@ -1139,26 +1139,26 @@ export const COCHES_CUPRA: CocheComparador[] = [
     },
     "galeria": [
       {
-        "src": "/media/cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica-oficial.webp",
-        "alt": "Cupra Formentor VZ e-Hybrid 272, tres cuartos delantero",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica-2.webp",
+        "alt": "Cupra Formentor 2024 (facelift), trasera de tres cuartos",
+        "ancho": 1140,
+        "alto": 641
       },
       {
-        "src": "/media/cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del Formentor VZ e-Hybrid con detalles en cobre",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica-3.webp",
+        "alt": "Interior del Cupra Formentor 2024 con pantalla central",
+        "ancho": 1068,
+        "alto": 601
       },
       {
-        "src": "/media/cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica-hero.webp",
-        "alt": "Cupra Formentor VZ e-Hybrid en carretera de curvas",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica-4.webp",
+        "alt": "Logotipo CUPRA iluminado en el Formentor 2024",
+        "ancho": 1920,
+        "alto": 1080
       }
     ],
-    "fuenteNombre": "movento.es",
-    "fuenteUrl": "https://www.movento.es/es/coches-ocasion/ficha/cupra-formentor-hibrido-electro-gasolina-272-ocasion-en-barcelona/86309930",
+    "fuenteNombre": "coches.net",
+    "fuenteUrl": "https://www.coches.net/fichas_tecnicas/cupra/formentor/4x4/5-puertas/15_tsi_ehybrid_200kw_vz_extreme_dsg_272cv_hibrido_enchufable/112910/844209720251118/",
     "euroncap": {
       "estrellas": 5,
       "ano": 2021,
@@ -1198,7 +1198,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "largoMm": 4451,
     "anchoMm": 1839,
     "altoMm": 1511,
-    "pesoKg": 1540,
+    "pesoKg": 1465,
     "consumo": 7.9,
     "consumoUnidad": "l/100 km",
     "plazas": 5,
@@ -1220,9 +1220,9 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "Por 3.720 € más está el VZ 333 con 4Drive",
       "Consumo real alto"
     ],
-    "imagen": "/media/cupra-formentor-vz-265-2025-precio-ficha-tecnica-hero.webp",
-    "imagenOficial": "/media/cupra-formentor-vz-265-2025-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/cupra-formentor-vz-265-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "imagen": "/media/cupra-formentor-vz-265-2025-precio-ficha-tecnica-1.webp",
+    "imagenOficial": "/media/cupra-formentor-vz-265-2025-precio-ficha-tecnica-1.webp",
+    "imagenInteriorOficial": "/media/cupra-formentor-vz-265-2025-precio-ficha-tecnica-3.webp",
     "videoId": "NOrtK0OS2hw",
     "videoCanal": "Arrancamos",
     "opiniones": [],
@@ -1239,26 +1239,26 @@ export const COCHES_CUPRA: CocheComparador[] = [
     },
     "galeria": [
       {
-        "src": "/media/cupra-formentor-vz-265-2025-precio-ficha-tecnica-oficial.webp",
-        "alt": "Cupra Formentor VZ 265, tres cuartos delantero",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-formentor-vz-265-2025-precio-ficha-tecnica-2.webp",
+        "alt": "Cupra Formentor 2024 (facelift), trasera de tres cuartos",
+        "ancho": 1140,
+        "alto": 641
       },
       {
-        "src": "/media/cupra-formentor-vz-265-2025-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del Formentor VZ con asientos deportivos",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-formentor-vz-265-2025-precio-ficha-tecnica-3.webp",
+        "alt": "Interior del Cupra Formentor 2024 con pantalla central",
+        "ancho": 1068,
+        "alto": 601
       },
       {
-        "src": "/media/cupra-formentor-vz-265-2025-precio-ficha-tecnica-hero.webp",
-        "alt": "Cupra Formentor VZ 265 en un tramo de curvas",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-formentor-vz-265-2025-precio-ficha-tecnica-4.webp",
+        "alt": "Logotipo CUPRA iluminado en el Formentor 2024",
+        "ancho": 1920,
+        "alto": 1080
       }
     ],
-    "fuenteNombre": "tufichatecnica.com",
-    "fuenteUrl": "https://www.tufichatecnica.com/cupra/formentor/estandar/2024/cupra-formentor-vz-extreme-2024-5p-20g-at7-265cv-2o1s",
+    "fuenteNombre": "auto-data.net",
+    "fuenteUrl": "https://www.auto-data.net/es/cupra-formentor-facelift-2024-2.0-tsi-265hp-dsg-53213",
     "euroncap": {
       "estrellas": 5,
       "ano": 2021,
@@ -1320,9 +1320,9 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "A este precio, el Audi SQ2 aprieta",
       "Solo para quien priorice prestaciones sobre todo"
     ],
-    "imagen": "/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-hero.webp",
-    "imagenOficial": "/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "imagen": "/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-1.webp",
+    "imagenOficial": "/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-1.webp",
+    "imagenInteriorOficial": "/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-3.webp",
     "videoId": "NOrtK0OS2hw",
     "videoCanal": "Arrancamos",
     "opiniones": [],
@@ -1339,22 +1339,22 @@ export const COCHES_CUPRA: CocheComparador[] = [
     },
     "galeria": [
       {
-        "src": "/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-oficial.webp",
-        "alt": "Cupra Formentor VZ 333, tres cuartos delantero",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-2.webp",
+        "alt": "Cupra Formentor 2024 (facelift), trasera de tres cuartos",
+        "ancho": 1140,
+        "alto": 641
       },
       {
-        "src": "/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del Formentor VZ 333 con detalles en cobre",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-3.webp",
+        "alt": "Interior del Cupra Formentor 2024 con pantalla central",
+        "ancho": 1068,
+        "alto": 601
       },
       {
-        "src": "/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-hero.webp",
-        "alt": "Cupra Formentor VZ 333 en circuito",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-4.webp",
+        "alt": "Logotipo CUPRA iluminado en el Formentor 2024",
+        "ancho": 1920,
+        "alto": 1080
       }
     ],
     "fuenteNombre": "coches.net",
@@ -1420,9 +1420,9 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "Peso extra del sistema híbrido",
       "Sin enchufe diario, pierde el sentido"
     ],
-    "imagen": "/media/cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica-hero.webp",
-    "imagenOficial": "/media/cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "imagen": "/media/cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica-1.webp",
+    "imagenOficial": "/media/cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica-1.webp",
+    "imagenInteriorOficial": "/media/cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica-3.webp",
     "videoId": "JyFoqkMlzMI",
     "videoCanal": "Actualidad Motor",
     "opiniones": [],
@@ -1439,26 +1439,26 @@ export const COCHES_CUPRA: CocheComparador[] = [
     },
     "galeria": [
       {
-        "src": "/media/cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica-oficial.webp",
-        "alt": "Cupra Terramar e-Hybrid 204, SUV familiar híbrido enchufable",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica-2.webp",
+        "alt": "Cupra Terramar, trasera de tres cuartos",
+        "ancho": 1920,
+        "alto": 1080
       },
       {
-        "src": "/media/cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del Cupra Terramar e-Hybrid",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica-3.webp",
+        "alt": "Interior del Cupra Terramar",
+        "ancho": 1920,
+        "alto": 1050
       },
       {
-        "src": "/media/cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica-hero.webp",
-        "alt": "Cupra Terramar e-Hybrid en una carretera nacional",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica-4.webp",
+        "alt": "Consola central del Cupra Terramar",
+        "ancho": 1920,
+        "alto": 1286
       }
     ],
-    "fuenteNombre": "autonocion.com",
-    "fuenteUrl": "https://www.autonocion.com/opinion-prueba-cupra-terramar-2025/",
+    "fuenteNombre": "coches.net",
+    "fuenteUrl": "https://www.coches.net/fichas_tecnicas/cupra/terramar/4x4/5-puertas/15_tsi_ehybrid_150kw_204_cv_dsg_beyo_204cv_hibrido_enchufable/116618/850775620251201/",
     "euroncap": {
       "estrellas": 5,
       "ano": 2025,
@@ -1586,7 +1586,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "precioDesde": 55074,
     "potenciaCv": 265,
     "autonomiaKm": null,
-    "maleteroL": 508,
+    "maleteroL": 540,
     "ceroCien": 5.9,
     "velocidadMax": 243,
     "bateriaKwh": null,
@@ -1596,9 +1596,9 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "garantiaBateriaKm": null,
     "garantiaBateriaDegradacionPct": null,
     "largoMm": 4519,
-    "anchoMm": 1863,
+    "anchoMm": 1869,
     "altoMm": 1584,
-    "pesoKg": 1750,
+    "pesoKg": 1675,
     "consumo": 8.6,
     "consumoUnidad": "l/100 km",
     "plazas": 5,
@@ -1620,9 +1620,9 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "A este precio, el Tiguan R-Line aprieta",
       "Sin hibridación de ningún tipo"
     ],
-    "imagen": "/media/cupra-terramar-vz-265-2025-precio-ficha-tecnica-hero.webp",
-    "imagenOficial": "/media/cupra-terramar-vz-265-2025-precio-ficha-tecnica-hero.webp",
-    "imagenInteriorOficial": "/media/cupra-terramar-vz-265-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "imagen": "/media/cupra-terramar-vz-265-2025-precio-ficha-tecnica-1.webp",
+    "imagenOficial": "/media/cupra-terramar-vz-265-2025-precio-ficha-tecnica-1.webp",
+    "imagenInteriorOficial": "/media/cupra-terramar-vz-265-2025-precio-ficha-tecnica-3.webp",
     "videoId": null,
     "videoCanal": null,
     "opiniones": [],
@@ -1639,26 +1639,26 @@ export const COCHES_CUPRA: CocheComparador[] = [
     },
     "galeria": [
       {
-        "src": "/media/cupra-terramar-vz-265-2025-precio-ficha-tecnica-hero.webp",
-        "alt": "Cupra Terramar VZ 265, tres cuartos delantero",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-terramar-vz-265-2025-precio-ficha-tecnica-2.webp",
+        "alt": "Cupra Terramar, trasera de tres cuartos",
+        "ancho": 1920,
+        "alto": 1080
       },
       {
-        "src": "/media/cupra-terramar-vz-265-2025-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del Terramar VZ con asientos deportivos",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-terramar-vz-265-2025-precio-ficha-tecnica-3.webp",
+        "alt": "Interior del Cupra Terramar",
+        "ancho": 1920,
+        "alto": 1050
       },
       {
-        "src": "/media/cupra-terramar-vz-265-2025-precio-ficha-tecnica-hero.webp",
-        "alt": "Cupra Terramar VZ 265 en carretera",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-terramar-vz-265-2025-precio-ficha-tecnica-4.webp",
+        "alt": "Consola central del Cupra Terramar",
+        "ancho": 1920,
+        "alto": 1286
       }
     ],
-    "fuenteNombre": "SEAT Media Center",
-    "fuenteUrl": "https://www.seat-cupra-mediacenter.es/CUPRA-Brand/noticias/2024/Ya-es-posible-realizar-pedidos-del-CUPRA-Terramar-el-nuevo-SUV-deportivo-de-la-marca",
+    "fuenteNombre": "auto-data.net",
+    "fuenteUrl": "https://www.auto-data.net/es/cupra-terramar-2.0-tsi-265hp-4drive-dsg-52622",
     "euroncap": {
       "estrellas": 5,
       "ano": 2025,
@@ -2181,7 +2181,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "categoria": "Urbano",
     "precioDesde": 29530,
     "potenciaCv": 135,
-    "autonomiaKm": 328,
+    "autonomiaKm": 300,
     "maleteroL": 441,
     "ceroCien": 9.9,
     "velocidadMax": 160,
@@ -2201,7 +2201,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "parNm": 267,
     "traccion": "Delantera",
     "emisionesCo2": 0,
-    "aprox": [],
+    "aprox": ["autonomiaKm"],
     "pros": [
       "29.530 €: el Cupra eléctrico más barato, hecho en Martorell",
       "135 CV: perfecto para ciudad",
@@ -2216,9 +2216,9 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "Modelo nuevo: sin historial de fiabilidad",
       "Maletero sin dato oficial"
     ],
-    "imagen": "/media/cupra-raval-plus-2026-precio-ficha-tecnica-hero.webp",
-    "imagenOficial": "/media/cupra-raval-plus-2026-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/cupra-raval-plus-2026-precio-ficha-tecnica-interior-oficial.webp",
+    "imagen": "/media/cupra-raval-plus-2026-precio-ficha-tecnica-1.webp",
+    "imagenOficial": "/media/cupra-raval-plus-2026-precio-ficha-tecnica-1.webp",
+    "imagenInteriorOficial": "/media/cupra-raval-plus-2026-precio-ficha-tecnica-4.webp",
     "videoId": "aruUUU71KtM",
     "videoCanal": "coches.net",
     "opiniones": [],
@@ -2235,22 +2235,22 @@ export const COCHES_CUPRA: CocheComparador[] = [
     },
     "galeria": [
       {
-        "src": "/media/cupra-raval-plus-2026-precio-ficha-tecnica-oficial.webp",
-        "alt": "Cupra Raval Plus, urbano eléctrico, tres cuartos delantero",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-raval-plus-2026-precio-ficha-tecnica-2.webp",
+        "alt": "Cupra Raval Dynamic Plus, lateral",
+        "ancho": 1500,
+        "alto": 900
       },
       {
-        "src": "/media/cupra-raval-plus-2026-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del Cupra Raval con pantalla central",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-raval-plus-2026-precio-ficha-tecnica-3.webp",
+        "alt": "Trasera del Cupra Raval",
+        "ancho": 1600,
+        "alto": 900
       },
       {
-        "src": "/media/cupra-raval-plus-2026-precio-ficha-tecnica-hero.webp",
-        "alt": "Cupra Raval Plus en el centro de una ciudad",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-raval-plus-2026-precio-ficha-tecnica-4.webp",
+        "alt": "Interior del Cupra Raval",
+        "ancho": 953,
+        "alto": 536
       }
     ],
     "fuenteNombre": "SEAT Media Center",
@@ -2282,7 +2282,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "categoria": "Urbano",
     "precioDesde": 35010,
     "potenciaCv": 211,
-    "autonomiaKm": 446,
+    "autonomiaKm": 450,
     "maleteroL": 441,
     "ceroCien": 7.1,
     "velocidadMax": 160,
@@ -2302,7 +2302,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "parNm": 290,
     "traccion": "Delantera",
     "emisionesCo2": 0,
-    "aprox": [],
+    "aprox": ["autonomiaKm"],
     "pros": [
       "446 km de autonomía: el urbano eléctrico con más alcance",
       "35.010 €: 210 CV por precio de generalista",
@@ -2317,9 +2317,9 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "Modelo nuevo sin historial",
       "Maletero sin dato oficial"
     ],
-    "imagen": "/media/cupra-raval-endurance-2026-precio-ficha-tecnica-hero.webp",
-    "imagenOficial": "/media/cupra-raval-endurance-2026-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/cupra-raval-endurance-2026-precio-ficha-tecnica-interior-oficial.webp",
+    "imagen": "/media/cupra-raval-endurance-2026-precio-ficha-tecnica-1.webp",
+    "imagenOficial": "/media/cupra-raval-endurance-2026-precio-ficha-tecnica-1.webp",
+    "imagenInteriorOficial": "/media/cupra-raval-endurance-2026-precio-ficha-tecnica-4.webp",
     "videoId": "aruUUU71KtM",
     "videoCanal": "coches.net",
     "opiniones": [],
@@ -2336,22 +2336,22 @@ export const COCHES_CUPRA: CocheComparador[] = [
     },
     "galeria": [
       {
-        "src": "/media/cupra-raval-endurance-2026-precio-ficha-tecnica-oficial.webp",
-        "alt": "Cupra Raval Endurance, urbano eléctrico, tres cuartos delantero",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-raval-endurance-2026-precio-ficha-tecnica-2.webp",
+        "alt": "Cupra Raval Dynamic Plus, lateral",
+        "ancho": 1500,
+        "alto": 900
       },
       {
-        "src": "/media/cupra-raval-endurance-2026-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del Cupra Raval Endurance",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-raval-endurance-2026-precio-ficha-tecnica-3.webp",
+        "alt": "Trasera del Cupra Raval",
+        "ancho": 1600,
+        "alto": 900
       },
       {
-        "src": "/media/cupra-raval-endurance-2026-precio-ficha-tecnica-hero.webp",
-        "alt": "Cupra Raval Endurance en carretera",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-raval-endurance-2026-precio-ficha-tecnica-4.webp",
+        "alt": "Interior del Cupra Raval",
+        "ancho": 953,
+        "alto": 536
       }
     ],
     "fuenteNombre": "SEAT Media Center",
@@ -2403,7 +2403,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "parNm": 290,
     "traccion": "Delantera",
     "emisionesCo2": 0,
-    "aprox": [],
+    "aprox": ["autonomiaKm"],
     "pros": [
       "226 CV: el urbano eléctrico más potente de Cupra",
       "39.070 €: prestaciones VZ en formato urbano",
@@ -2418,9 +2418,9 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "Modelo nuevo sin historial",
       "A este precio, el Born 190 ofrece más coche"
     ],
-    "imagen": "/media/cupra-raval-vz-226-2026-precio-ficha-tecnica-hero.webp",
-    "imagenOficial": "/media/cupra-raval-vz-226-2026-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/cupra-raval-vz-226-2026-precio-ficha-tecnica-interior-oficial.webp",
+    "imagen": "/media/cupra-raval-vz-226-2026-precio-ficha-tecnica-1.webp",
+    "imagenOficial": "/media/cupra-raval-vz-226-2026-precio-ficha-tecnica-1.webp",
+    "imagenInteriorOficial": "/media/cupra-raval-vz-226-2026-precio-ficha-tecnica-4.webp",
     "videoId": "aruUUU71KtM",
     "videoCanal": "coches.net",
     "opiniones": [],
@@ -2437,22 +2437,22 @@ export const COCHES_CUPRA: CocheComparador[] = [
     },
     "galeria": [
       {
-        "src": "/media/cupra-raval-vz-226-2026-precio-ficha-tecnica-oficial.webp",
-        "alt": "Cupra Raval VZ 226, tres cuartos delantero",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-raval-vz-226-2026-precio-ficha-tecnica-2.webp",
+        "alt": "Cupra Raval Dynamic Plus, lateral",
+        "ancho": 1500,
+        "alto": 900
       },
       {
-        "src": "/media/cupra-raval-vz-226-2026-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del Cupra Raval VZ con detalles en cobre",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-raval-vz-226-2026-precio-ficha-tecnica-3.webp",
+        "alt": "Trasera del Cupra Raval",
+        "ancho": 1600,
+        "alto": 900
       },
       {
-        "src": "/media/cupra-raval-vz-226-2026-precio-ficha-tecnica-hero.webp",
-        "alt": "Cupra Raval VZ 226 en un tramo de curvas",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/cupra-raval-vz-226-2026-precio-ficha-tecnica-4.webp",
+        "alt": "Interior del Cupra Raval",
+        "ancho": 953,
+        "alto": 536
       }
     ],
     "fuenteNombre": "SEAT Media Center",
