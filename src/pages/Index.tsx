@@ -997,10 +997,6 @@ function $() {
                       }),
                     ],
                   }),
-                  (0, B.jsx)(`p`, {
-                    className: `text-xs text-gray-600 bg-amber-50 border border-amber-200 rounded-xl p-3 text-center`,
-                    children: `Aviso: el analizador es una herramienta informativa con IA. No es asesoramiento jurídico ni garantiza que la multa se anule; consulta con un abogado si tu caso lo requiere. El análisis es gratis; el recurso en PDF cuesta 4,99 € (opcional).`,
-                  }),
                   (0, B.jsx)(`div`, {
                     className: `flex bg-gray-100 rounded-2xl p-1 gap-1`,
                     children: [
@@ -1031,6 +1027,10 @@ function $() {
                       className: `space-y-6`,
                       children: (0, B.jsx)(ie, {}),
                     }),
+                  (0, B.jsx)(`p`, {
+                    className: `text-xs text-gray-600 bg-amber-50 border border-amber-200 rounded-xl p-3 text-center mt-2`,
+                    children: `Aviso: el analizador es una herramienta informativa con IA. No es asesoramiento jurídico ni garantiza que la multa se anule; consulta con un abogado si tu caso lo requiere. El análisis es gratis; el recurso en PDF cuesta 4,99 € (opcional).`,
+                  }),
                 ],
               }),
               (0, B.jsxs)(`p`, {
