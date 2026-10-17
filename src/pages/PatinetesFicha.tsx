@@ -45,6 +45,8 @@ import type { ResenaSchemaExtra } from "@/components/ResenasVehiculo.tsx";
 import { loadArrayItem, loadRecordEntry } from "@/lib/data-loader-utils.ts";
 
 // 07/10/2026 (rendimiento): below-the-fold en lazy para reducir el chunk inicial.
+// 17/10/2026: historial de precios (below-the-fold, lazy).
+const HistorialPreciosLazy = lazy(() => import("@/components/HistorialPrecios.tsx"));
 const SeguridadEuroNCAPLayz = lazy(() => import("@/components/SeguridadEuroNCAP.tsx"));
 // 12/10/2026: opiniones de propietarios con fotos (below-the-fold en lazy).
 const ResenasVehiculoLazy = lazy(() => import("@/components/ResenasVehiculo.tsx"));
@@ -498,6 +500,9 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
               </p>
             ) : null;
           })()}
+          <Suspense fallback={null}>
+            <HistorialPreciosLazy slug={patinete.id} nombre={nombre} />
+          </Suspense>
         </section>
 
         <section className="mt-8 grid gap-6 sm:grid-cols-2" aria-label="Puntos fuertes y débiles">
