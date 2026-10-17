@@ -1969,14 +1969,6 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     ],
     emisionesCo2: 104,
     etiquetaDgt: "ECO",
-    euroncap: {
-      ano: 2019,
-      estrellas: 5,
-      nota: "5 estrellas EuroNCAP 2019 para la duodécima generación del Corolla; URL del informe no publicada por la marca",
-      url: null
-    },
-    fuenteNombre: "prensa.toyota.es / km77.com",
-    fuenteUrl: "https://prensa.toyota.es/la-gama-toyota-corolla-refuerza-su-oferta-para-celebrar-su-60-aniversario-con-una-edicion-especial-el-regreso-de-style-y-una-mayor-presencia-de-gr-sport/",
     galeria: [
       {
         alt: "Toyota Corolla 5 puertas 2026 60 Aniversario vista exterior",
