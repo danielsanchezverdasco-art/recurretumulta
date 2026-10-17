@@ -123,7 +123,6 @@
 /coches/mini-countryman-d-2025-precio-ficha-tecnica/
 /coches/ora-ballet-cat-2024-precio-ficha-tecnica/
 /coches/hongqi-hs7-phev-2024-precio-ficha-tecnica/
-/coches/li-auto-l8-2026-precio-ficha-tecnica/
 /coches/evo-6-2026-precio-ficha-tecnica/
 /coches/im-ls9-2026-precio-ficha-tecnica/
 /coches/icar-03-2025-precio-ficha-tecnica/
@@ -264,7 +263,6 @@
 /coches/haval-xiaolong-2024-precio-ficha-tecnica/
 /coches/rolls-royce-ghost-black-badge-2026-precio-ficha-tecnica/
 /coches/honda-s2000-2009/
-/coches/li-auto-i6-2025-precio-ficha-tecnica/
 /coches/bentley-flying-spur-speed-2026-precio-ficha-tecnica/
 /coches/jetour-x50-2025-precio-ficha-tecnica/
 /coches/haima-7x-2026-precio-ficha-tecnica/
@@ -366,7 +364,6 @@
 /coches/changan-uni-z-2025-precio-ficha-tecnica/
 /coches/voyah-passion-l-2026-precio-ficha-tecnica/
 /coches/chery-fulwin-t10-2024-precio-ficha-tecnica/
-/coches/li-auto-mega-2026-precio-ficha-tecnica/
 /coches/ds-4-2025-precio-ficha-tecnica/
 /coches/beijing-bj40e-2025-precio-ficha-tecnica/
 /coches/changan-x5-plus-2025-precio-ficha-tecnica/

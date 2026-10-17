@@ -26957,8 +26957,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/li-auto-i9-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Li Auto i9 frente a una villa moderna al atardecer\\",
+    "heroSrc": "/media/li-auto-i9-home-2026-oficial-v2-hero.webp",
+    "heroAlt": "\\\"Li Auto i9 Home aparcado en la calle, foto oficial de Li Auto\\",
     "keywords": [
       "Li Auto i9",
       "Li Auto i9 precio",
@@ -38115,26 +38115,6 @@ export const BLOG_LITE: BlogLitePost[] = [
       "supermotard 450 2026"
     ],
     "readTime": 3
-  },
-  {
-    "slug": "li-auto-6-640-km-544-cv-europa-paris-2026",
-    "title": "Li Auto 6: 640 km y 544 CV, el chino que llega a Europa",
-    "excerpt": "Li Auto desembarca en Europa: el Li 6 debutó en París con 800 V, 96 kWh, 640 km WLTP y 544 CV. Ventas en Holanda y Noruega desde Q1 2027.",
-    "category": "Novedades Motor",
-    "date": "2026-10-15",
-    "locale": "all",
-    "heroSrc": "/media/li-auto-6-640-km-544-cv-europa-paris-2026-hero.webp",
-    "heroAlt": "Li Auto Li 6 blanco en un salón del automóvil, vista frontal de tres cuartos",
-    "keywords": [
-      "Li Auto 6",
-      "Li 6 Europa",
-      "Li Auto Salón de París 2026",
-      "Li i6 vs Li 6",
-      "Li Auto llega a Europa",
-      "SUV eléctrico chino 640 km autonomía",
-      "Li 6 precio Europa"
-    ],
-    "readTime": 4
   },
   {
     "slug": "lepas-l8-chery-hibrido-enchufable-precio-espana",
@@ -69338,6 +69318,120 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Alpine plataforma APP"
     ],
     "readTime": 5
+  },
+  {
+    "slug": "bmw-ix3-m60-xdrive-2026",
+    "title": "BMW iX3 M60 xDrive: 612 CV, 754 km y carga de 400 kW",
+    "excerpt": "BMW iX3 M60 xDrive: 612 CV, 754 km WLTP y carga de 400 kW. El Neue Klasse más potente acelera de 0-100 en 3,9 s; pedidos desde enero de 2027.",
+    "category": "Novedades Motor",
+    "date": "2026-10-16",
+    "locale": "all",
+    "heroSrc": "/media/bmw-ix3-m60-xdrive-2026-hero.webp",
+    "heroAlt": "BMW iX3 de la Neue Klasse, SUV eléctrico, vista tres cuartos delantera en azul",
+    "keywords": [
+      "BMW iX3 M60 xDrive",
+      "iX3 M60 precio",
+      "BMW iX3 612 CV",
+      "iX3 M60 autonomía",
+      "BMW Neue Klasse M Performance",
+      "BMW iX3 2026"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "byd-dolphin-surf-2027-segunda-generacion",
+    "title": "BYD Dolphin Surf 2027: 4,21 m, 129 CV y carga en 5 minutos",
+    "excerpt": "BYD Seagull 2ª generación (Dolphin Surf en Europa): 4,21 m, 129 CV traseros, frunk de 94 L y carga del 10 al 70 % en 5 minutos. Debuta el 20 de octubre.",
+    "category": "Novedades Motor",
+    "date": "2026-10-16",
+    "locale": "all",
+    "heroSrc": "/media/byd-dolphin-surf-2027-hero.webp",
+    "heroAlt": "Segunda generación del BYD Seagull, coche eléctrico blanco, vista tres cuartos delantera",
+    "keywords": [
+      "BYD Dolphin Surf 2027",
+      "BYD Seagull segunda generación",
+      "Dolphin Surf nuevo",
+      "BYD Great Seagull",
+      "Seagull 2026 precio",
+      "Dolphin Surf autonomía"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "tesla-roadster-2028-presentacion",
+    "title": "Tesla Roadster 2028: 0,59 s, 370 km/h y propulsores SpaceX",
+    "excerpt": "Tesla Roadster 2028: tres versiones con propulsores de gas frío de SpaceX, 0-97 km/h en menos de 0,59 s y producción en 2028. Sin precio confirmado.",
+    "category": "Novedades Motor",
+    "date": "2026-10-16",
+    "locale": "all",
+    "heroSrc": "/media/tesla-roadster-2028-presentacion-hero.webp",
+    "heroAlt": "Tesla Roadster 2028 blanco visto desde arriba, diseño angular con faros ocultos",
+    "keywords": [
+      "Tesla Roadster 2028",
+      "Tesla Roadster precio",
+      "Tesla Roadster producción 2028",
+      "Roadster propulsores SpaceX",
+      "Tesla Roadster Waco presentación",
+      "Tesla Roadster reserva 50.000"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "bmw-ix4-2027-presentacion-oficial",
+    "title": "BMW iX4 2027: 828 km, 612 CV y 70.900 € en Alemania",
+    "excerpt": "BMW iX4 oficial: SUV coupé eléctrico Neue Klasse con 828 km WLTP, 612 CV y carga de 400 kW. Llega en marzo de 2027; en Alemania desde 70.900 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-16",
+    "locale": "all",
+    "heroSrc": "/media/bmw-ix4-electrico-2026-hero.webp",
+    "heroAlt": "BMW iX4 eléctrico gris circulando, vista tres cuartos delantera",
+    "keywords": [
+      "BMW iX4 2027",
+      "BMW iX4 precio",
+      "BMW iX4 autonomía 828",
+      "iX4 M60 xDrive",
+      "BMW iX4 ficha técnica",
+      "BMW iX4 lanzamiento"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "xpeng-l03-2026-precio-espana",
+    "title": "¿Cuánto cuesta el XPeng L03? 37.500 €, 1.017 km y 242 CV",
+    "excerpt": "El XPeng L03 abre pedidos en España desde 37.500 €: SUV de autonomía extendida con 215 km eléctricos, 1.017 km combinados y 242 CV. Llega en diciembre.",
+    "category": "Novedades Motor",
+    "date": "2026-10-16",
+    "locale": "all",
+    "heroSrc": "/media/xpeng-l03-2026-precio-espana-oficial.webp",
+    "heroAlt": "XPeng L03 PowerX morado, SUV coupé de autonomía extendida, vista tres cuartos delantera",
+    "keywords": [
+      "XPeng L03",
+      "XPeng L03 precio",
+      "XPeng L03 autonomía",
+      "XPeng L03 España",
+      "L03 PowerX Long Range",
+      "coche autonomía extendida REEV"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "porsche-mission-s-2026-revelado",
+    "title": "Porsche Mission S: 8.000 rpm y motor central sobre el 911",
+    "excerpt": "Porsche desvela el Mission S: superdeportivo de motor central por encima del 911, con 8.000 rpm y sin pantalla. De combustión o híbrido, nunca eléctrico.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/porsche-mission-s-2026-revelado-hero.webp",
+    "heroAlt": "Porsche Mission S 2026, superdeportivo de motor central en blanco, vista trasera desde arriba con el ventilador del capó",
+    "keywords": [
+      "Porsche Mission S",
+      "Porsche Mission S precio",
+      "Porsche Mission S motor",
+      "Porsche superdeportivo 2026",
+      "Mission S vs 911",
+      "Porsche motor central"
+    ],
+    "readTime": 6
   },
   {
     "slug": "radical-sr1-xxr-2025-precio-ficha-tecnica",

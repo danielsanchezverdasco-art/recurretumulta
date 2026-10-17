@@ -12,6 +12,10 @@ import {
   type CocheComparador,
 } from "@/lib/comparador-coches-data.ts";
 import CosaEnBanner from "@/components/CosaEnBanner.tsx";
+// Fecha real de publicación de cada ficha (scripts/gen-fichas-fechas.mjs)
+import FICHAS_FECHAS from "@/lib/fichas-fechas.generated.json";
+const FECHAS = FICHAS_FECHAS as Record<string, string>;
+const tsFicha = (id: string) => (FECHAS[id] ? Date.parse(FECHAS[id]) : 0);
 import {
   MOTOS_COMPARADOR,
   type MotoComparador,
@@ -344,7 +348,7 @@ export default function FichasTecnicasPage() {
   const [fAutMin, setFAutMin] = useState(0);
   const [fEtiqueta, setFEtiqueta] = useState("todas");
   const [fCertificado, setFCertificado] = useState("todos");
-  const [orden, setOrden] = useState("precioAsc");
+  const [orden, setOrden] = useState("recientes");
   const [filtrosAbiertos, setFiltrosAbiertos] = useState(false);
   const PAGE_SIZE = 24;
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
@@ -384,7 +388,8 @@ export default function FichasTecnicasPage() {
           (fCertificado === "si" ? f.certificadoDgt === true : f.certificadoDgt !== true)) &&
         (query === "" || f.nombreBusqueda.toLowerCase().includes(query))
     );
-    if (orden === "precioAsc") lista.sort((a, b) => (a.precio ?? Infinity) - (b.precio ?? Infinity));
+    if (orden === "recientes") lista.sort((a, b) => tsFicha(b.id) - tsFicha(a.id));
+    else if (orden === "precioAsc") lista.sort((a, b) => (a.precio ?? Infinity) - (b.precio ?? Infinity));
     else if (orden === "precioDesc") lista.sort((a, b) => (b.precio ?? -Infinity) - (a.precio ?? -Infinity));
     else if (orden === "autDesc") lista.sort((a, b) => (b.autonomiaKm ?? -Infinity) - (a.autonomiaKm ?? -Infinity));
     else if (orden === "nombre") lista.sort((a, b) => a.nombreBusqueda.localeCompare(b.nombreBusqueda, "es"));
@@ -575,6 +580,7 @@ export default function FichasTecnicasPage() {
           <label className="block text-xs font-bold text-gray-700">
             Ordenar
             <select value={orden} onChange={(e) => { setOrden(e.target.value); setVisibleCount(PAGE_SIZE); }} className={`${SELECT_CLASE} mt-1`}>
+              <option value="recientes">Más recientes</option>
               <option value="precioAsc">Precio: menor a mayor</option>
               <option value="precioDesc">Precio: mayor a menor</option>
               <option value="autDesc">Autonomía: mayor a menor</option>
