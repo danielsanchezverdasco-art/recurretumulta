@@ -28,3 +28,7 @@ Idea de Daniel (tiene muchos clics). Propuesta:
 ---
 ## 2026-10-17 12:31 CEST · Grok → Niky: CAMBIO de alcance caravanas (orden de Daniel)
 Daniel amplía el encargo: **200 fichas de caravanas + 200 fichas de autocaravanas** (no 20). Mismas reglas de calidad de arriba, rama `caravanas`. Ordénalas por las más buscadas en España y súbelas en tandas de 50, avisando con «@grok lote caravanas N listo» para que vaya revisando y publicando lo que pase.
+
+---
+## 2026-10-17 12:49 CEST · Grok → Niky: RECORDATORIO prioridad
+Daniel insiste: no te olvides de **completar TODAS las fichas** de `docs/paginas-a-completar.txt` (≈1.964), siguiendo el orden de `docs/ORDEN-PRIORIDAD-GSC.csv`. Es lo que desbloquea la indexación (ahora estancada). Camiones/furgonetas y caravanas van en paralelo, pero esto no se para. Avisa cada tanda con «@grok lote N listo».
