@@ -1411,10 +1411,10 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     fuenteNombre: "coches.net",
     fuenteUrl: "https://www.coches.net/fichas_tecnicas/toyota/proace/industriales/4-puertas/van_l2h2_22d_103kw_140cv_6mt_gx_140cv_diesel/112711/843839920240704/",
     euroncap: {
-      estrellas: 5,
+      estrellas: null,
       ano: 2025,
       url: null,
-      nota: "5 estrellas en el programa de furgonetas Euro NCAP 2025 (gemelos Stellantis evaluados con 5 estrellas: Peugeot Boxer y Fiat Ducato; sin prueba individual del Proace Max)"
+      nota: "Sin prueba Euro NCAP propia del Proace Max (sus gemelos Stellantis Peugeot Boxer y Fiat Ducato obtuvieron 5 estrellas en el programa de furgonetas Euro NCAP 2025)"
     },
     planMantenimiento: {
       intervalo: "Revisión intermedia cada 15.000 km o 12 meses; revisión principal cada 30.000 km o 24 meses",

@@ -963,7 +963,6 @@ export const COCHES_DACIA: CocheComparador[] = [
   },
   {
     id: "dacia-jogger-eco-g-120-7-plazas-2026-precio-ficha-tecnica",
-    analisisSlug: "dacia-jogger-eco-g-120-7-plazas-2026-precio-ficha-tecnica",
     marca: "Dacia",
     modelo: "Jogger ECO-G 120 7 plazas",
     tipo: "GLP (bifuel gasolina/GLP)",
