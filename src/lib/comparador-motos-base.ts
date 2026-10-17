@@ -4510,13 +4510,49 @@ export const MOTOS_BASE: MotoComparador[] = [
       "Es la hermana pequeña de las MT-03, MT-07, MT-09 y MT-10",
       "Comparte chasis y basculante con la deportiva YZF-R125",
     ],
-    imagen: "/media/motos/yamaha-mt-125-2024-ficha-tecnica-precio.webp",
-    galeria: [],
+    imagen: "/media/yamaha-mt-125-2024-ficha-tecnica-precio-1.webp",
+    galeria: [
+      {
+        src: "/media/yamaha-mt-125-2024-ficha-tecnica-precio-2.webp",
+        alt: "Yamaha MT-125 2024, detalle",
+        ancho: 1024,
+        alto: 576,
+      },
+      {
+        src: "/media/yamaha-mt-125-2024-ficha-tecnica-precio-3.webp",
+        alt: "Yamaha MT-125 2024, vista lateral",
+        ancho: 800,
+        alto: 600,
+      },
+      {
+        src: "/media/yamaha-mt-125-2024-ficha-tecnica-precio-4.webp",
+        alt: "Yamaha MT-125 2024, tres cuartos delantero",
+        ancho: 992,
+        alto: 558,
+      },
+    ],
     videoId: "90am9cvj5pM",
     videoCanal: "Motofichas",
     fuenteNombre: "moteo.es",
     fuenteUrl: "https://moteo.es/yamaha-mt-125-2024-precio-ficha-tecnica/",
-    analisisSlug: null,
+    analisisSlug: "yamaha-mt-125-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión / 6.000 km",
+          queSeCambia: "Aceite + filtro de aceite + inspección general",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión / 12.000 km",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Manual del propietario Yamaha MT-125 (intervalo 6.000 km / 12 meses, como la YZF-R125)",
+    },
   },
   {
     id: "gasgas-sm-700-2024-ficha-tecnica-precio",
