@@ -107,6 +107,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "porsche-macan-4s-electric-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp7.ts"),
     "porsche-macan-electric-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp7.ts"),
     "porsche-macan-turbo-electric-2026-precio-ficha-tecnica": () => import("../blog-posts-porsche-a.ts"),
+    "porsche-mission-s-2026-revelado": () => import("../blog-posts-radar-20261017.ts"),
     "porsche-panamera-2026-precio-ficha-tecnica": () => import("../blog-posts-porsche-a.ts"),
     "porsche-panamera-4-e-hybrid-2026-precio-ficha-tecnica": () => import("../blog-posts-porsche-a.ts"),
     "porsche-panamera-gts-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp7.ts"),
