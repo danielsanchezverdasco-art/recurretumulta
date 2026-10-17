@@ -312,11 +312,10 @@ export const GALERIAS_COCHES: Record<string, FotoCarrusel[]> = {
     { src: "/media/renault-5-e-tech-2026-precio-autonomia-interior-oficial-2.webp", alt: "Habitáculo del Renault 5 E-Tech (foto oficial)", credito: "Foto oficial de Renault" },
   ],
   "tesla-roadster-2026-retraso-precio-ficha-tecnica": [
-    { src: "/media/tesla-roadster-2026-retraso-precio-ficha-tecnica-oficial.webp", alt: "Tesla Roadster, vista exterior en fotografía oficial de la marca", credito: "Foto oficial de Tesla" },
-    { src: "/media/tesla-roadster-2026-retraso-precio-ficha-tecnica-oficial-2.webp", alt: "Tesla Roadster en fotografía oficial de la marca", credito: "Foto oficial de Tesla" },
-    { src: "/media/tesla-roadster-2026-retraso-precio-ficha-tecnica-oficial-3.webp", alt: "El Tesla Roadster, exterior en foto de prensa oficial", credito: "Foto oficial de Tesla" },
-    { src: "/media/tesla-roadster-2026-retraso-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior del Tesla Roadster en fotografía oficial de la marca", credito: "Foto oficial de Tesla" },
-    { src: "/media/tesla-roadster-2026-retraso-precio-ficha-tecnica-interior-oficial-2.webp", alt: "Habitáculo del Tesla Roadster (foto oficial)", credito: "Foto oficial de Tesla" },
+    { src: "/media/tesla-roadster-2028-waco-oficial.webp", alt: "Tesla Roadster 2028 en blanco Ano White visto desde arriba, presentación de Waco", credito: "Foto oficial de Tesla" },
+    { src: "/media/tesla-roadster-2028-waco-perfil.webp", alt: "Tesla Roadster 2028 de perfil en modo de calle", credito: "Foto oficial de Tesla" },
+    { src: "/media/tesla-roadster-2026-retraso-precio-ficha-tecnica-oficial-2.webp", alt: "Prototipo 2017 del Tesla Roadster (diseño anterior, no es el modelo de 2028)", credito: "Foto oficial de Tesla (prototipo 2017)" },
+    { src: "/media/tesla-roadster-2026-retraso-precio-ficha-tecnica-oficial-3.webp", alt: "Prototipo 2017 del Tesla Roadster en marcha (diseño anterior)", credito: "Foto oficial de Tesla (prototipo 2017)" },
   ],
   "zeekr-9x-2026-precio-ficha-tecnica": [
     { src: "/media/zeekr-9x-2026-precio-ficha-tecnica-oficial.webp", alt: "Zeekr 9X, vista exterior en fotografía oficial de la marca", credito: "Foto oficial de Zeekr" },

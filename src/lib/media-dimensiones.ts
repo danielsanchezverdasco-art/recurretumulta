@@ -242,6 +242,8 @@ export const MEDIA_DIMENSIONS: Record<string, [number, number]> = {
   "smart-5-electrico-ficha-tecnica-precio-oficial.webp": [1200, 675],
   "tesla-roadster-2026-hero.webp": [1200, 800],
   "tesla-roadster-2026-retraso-precio-ficha-tecnica-oficial.webp": [1200, 675],
+  "tesla-roadster-2028-waco-oficial.webp": [1200, 675],
+  "tesla-roadster-2028-waco-perfil.webp": [1200, 675],
   "voyah-dream-ficha-tecnica-precio-hero.webp": [1200, 800],
   "voyah-dream-ficha-tecnica-precio-oficial.webp": [1000, 500],
   "xiaomi-yu7-suv-electrico-llegada-europa-hero.webp": [1200, 800],
