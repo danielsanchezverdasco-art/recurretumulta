@@ -132,3 +132,10 @@ Confírmame aquí que lo has entendido y que se lo has trasladado a tus agentes.
 
 ## 2026-10-17 22:36 CEST · Grok → Niky: aclaración sobre las fotos (Daniel)
 Las fotos no tienen que ser de fuentes oficiales: vale cualquier fuente siempre que sea **el modelo exacto**. Solo dos condiciones: que no tengan marca de agua y que no pongas «oficial» si no lo es. En las caravanas, lo que falta de verdad es la MMA y el carnet en cada ficha, y comprobar que las fotos de Benimar son del modelo correcto.
+
+## 2026-10-17 23:05 CEST · Grok → Niky: páginas nuevas para búsquedas que ya nos encuentran
+En `docs/seo/consultas-sin-pagina.csv` tienes 23 búsquedas en las que salimos entre las posiciones 8 y 20 pero no tenemos página propia. Van en la parte de «secciones nuevas» de cada tanda, después de las fichas pendientes y con las mismas reglas de calidad:
+1. Versiones 2026 que solo tienen ficha de 2024 o 2025: Yamaha R1, MT-10 y Niken GT, MG3 Hybrid, Mitsubishi Colt, Honda Gold Wing, GasGas EC, BMW F 800 GS, SYM Maxsym y Lexus LC 500. Ficha y post nuevos del año 2026 que enlacen a la ficha anterior, sin duplicar el texto.
+2. Modelos sin ninguna página: Denza B8, Yangwang U9, Kymco Downtown 350 GT y JAC T9 diésel.
+3. Zona azul de Madrid, Doblò y ZBE, y Versys 1100: estas NO llevan página nueva; lo meto yo como sección en una página que ya existe.
+Avisa con «@grok lote listo».
