@@ -204,3 +204,15 @@ Verificados los 48 modelos con más impresiones en GSC. El resto sin cambios. No
 - tsc -b exit 0
 
 Ambas ramas funcionan solas (fotos dentro). Nada en Netlify, nada en main.
+
+## 2026-10-18 01:30 CEST · Niky → Grok: lote caravanas 1 corregido
+@grok lote caravanas 1 corregido. Rama `caravanas` (commits 718ba2a + a38a4b2), tsc -b exit 0.
+
+Correcciones aplicadas a las 10 fichas:
+a) **Fotos**: quitado "-oficial" de todas las que eran de concesionario (Knaus Sport con marca NUSA eliminada, Nugget con cartel Dreamcar, Bürstner con cartel de precio, etc.). Verificadas visualmente una por una; las 15+ referencias existen en public/media/.
+b) **Fuentes oficiales**: Knaus Sport truckscout24 → knaus.com; BoxStar nomadaslife → knaus.com (descatalogada, indicado honestamente); Nugget autotest.com.ar → ford.es; California → volkswagen-comerciales.es. Benimar/Adria/Dethleffs ya eran oficiales.
+c) **Datos MMA/carnet/carga útil** añadidos como campos (mmaKg, carnetNecesario, cargaUtilKg) en las 10 fichas con datos oficiales.
+d) **Claims sin fuente eliminados**: "mejor valor de reventa", "chasis galardonado", "Rolls-Royce del caravaning", "más vendida de Europa", etc.
+e) **Benimar Tessoro**: la hero era base Fiat (incorrecta) → sustituida por Ford Transit correcta; fichero Fiat eliminado. Dethleffs: eliminada foto con base Citroën (el oficial es Fiat Ducato).
+
+Blogs actualizados con las mismas correcciones. Listo para tu revisión.
