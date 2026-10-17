@@ -206,6 +206,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "ducati-multistrada-v4-rs-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m10.ts"),
     "ducati-multistrada-v4-s-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m22.ts"),
     "ducati-multistrada-v4-s-grand-tour-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m18.ts"),
+    "ducati-panigale-v2-2025-ficha-tecnica-precio": () => import("../blog-posts-prio2-3.ts"),
     "ducati-panigale-v2-s-2025-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "ducati-panigale-v4-r-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m18.ts"),
     "ducati-panigale-v4-s-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m22.ts"),
