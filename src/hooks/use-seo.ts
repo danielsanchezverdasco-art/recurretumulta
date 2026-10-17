@@ -11,6 +11,7 @@ const NOINDEX_FIJO: string | null =
 // (https://recurretumulta.online + ruta) y NO se emiten etiquetas hreflang.
 
 import { useEffect } from "react";
+import { AUTOR_DANIEL, PUBLISHER, isoDia } from "@/lib/eeat.ts";
 
 const DOMAIN = "https://recurretumulta.online";
 const DEFAULT_IMG = "https://recurretumulta.online/media/og-recurretumulta-online.png";
@@ -27,7 +28,32 @@ type SeoProps = {
   noindex?: boolean;
   /** Schema.org JSON-LD object (or array) to inject */
   schema?: Record<string, unknown> | Record<string, unknown>[];
+  /** E-E-A-T 17/10/2026: fechas reales de la página (AAAA-MM-DD o ISO). Sin fecha conocida, se omiten. */
+  datePublished?: string | null;
+  dateModified?: string | null;
 };
+
+/**
+ * E-E-A-T 17/10/2026: el JSON-LD estático de index.html trae el WebPage de la HOME
+ * (#webpage, url "/") y acababa en todas las páginas. Fuera de "/" se quita ese nodo
+ * (se conservan Organization, WebSite y SoftwareApplication).
+ */
+function limpiarWebPageEstatico(path: string) {
+  if (path === "/") return;
+  for (const el of Array.from(document.querySelectorAll('script[type="application/ld+json"]:not([data-seo-id])'))) {
+    const txt = el.textContent || "";
+    if (!txt.includes('/#webpage"')) continue;
+    try {
+      const d = JSON.parse(txt);
+      if (Array.isArray(d["@graph"])) {
+        d["@graph"] = d["@graph"].filter((n: Record<string, unknown>) => !String(n["@id"] || "").endsWith("/#webpage"));
+        el.textContent = JSON.stringify(d);
+      }
+    } catch {
+      /* JSON-LD estático ilegible: no se toca */
+    }
+  }
+}
 
 function setMeta(name: string, content: string, attr: "name" | "property" = "name") {
   let el = document.querySelector(`meta[${attr}="${name}"]`) as HTMLMetaElement | null;
@@ -73,6 +99,8 @@ export function useSeo({
   keywords = [],
   noindex = false,
   schema,
+  datePublished,
+  dateModified,
 }: SeoProps) {
   // SEO exprés 04/10/2026: Google corta las descriptions a ~155 caracteres en SERPs.
   // Truncar aquí (un solo punto) en vez de tocar los 89 textos largos en los datos.
@@ -147,8 +175,31 @@ export function useSeo({
     setMeta("twitter:image", image, "name");
     setMeta("twitter:card", "summary_large_image", "name");
 
-    // Freshness signal for search/AI engines
-    setMeta("og:updated_time", new Date().toISOString(), "property");
+    // E-E-A-T 17/10/2026: og:updated_time solo con la fecha real de actualización
+    // (antes ponía la hora del prerender en todas las páginas: frescura falsa).
+    const pub = isoDia(datePublished);
+    const mod = isoDia(dateModified) ?? pub;
+    if (mod) setMeta("og:updated_time", mod, "property");
+    else document.querySelector('meta[property="og:updated_time"]')?.remove();
+
+    // E-E-A-T 17/10/2026: WebPage propio de cada URL con autor (Daniel), editor y fechas reales.
+    limpiarWebPageEstatico(canonPath.split("?")[0]);
+    injectSchema(
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": `${url.split("?")[0]}#webpage`,
+        url: url.split("?")[0],
+        name: tituloFinal,
+        inLanguage: "es-ES",
+        isPartOf: { "@id": `${DOMAIN}/#website` },
+        author: AUTOR_DANIEL,
+        publisher: PUBLISHER,
+        ...(pub ? { datePublished: pub } : {}),
+        ...(mod ? { dateModified: mod } : {}),
+      },
+      "page-eeat",
+    );
 
     // Schema
     if (schema) {
@@ -159,8 +210,9 @@ export function useSeo({
 
     return () => {
       removeSchema("page-schema");
+      removeSchema("page-eeat");
     };
-  }, [title, description, canonical, image, type, keywords, noindex, schema]);
+  }, [title, description, canonical, image, type, keywords, noindex, schema, datePublished, dateModified]);
 
   return null;
 }

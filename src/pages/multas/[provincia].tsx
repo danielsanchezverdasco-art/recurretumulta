@@ -46,6 +46,8 @@ export default function MultaProvinciaPage() {
     title: seoOverride?.title ?? `Multas en ${p.nombre}: recúrrelas gratis 2026`,
     description: `¿Multa de la DGT o Policía Local en ${p.nombre}? Analízala gratis con IA: detecta vicios de forma y genera tu recurso en PDF.`,
     canonical: `/multas/${p.slug}/`,
+    // E-E-A-T 17/10/2026: misma fecha que el JSON-LD de la página (fecha de publicación no registrada).
+    dateModified: "2026-10-04",
     keywords: [
       ...p.keywords,
       `recurrir multa ${p.nombre}`,
@@ -190,7 +192,7 @@ export default function MultaProvinciaPage() {
               <span className="w-6 h-6 rounded-full bg-red-600 flex items-center justify-center text-white shrink-0">
                 <UserRound className="w-3.5 h-3.5" />
               </span>
-              <span>Por Daniel, fundador y responsable de contenidos de RecurreTuMulta.online</span>
+              <span>Por <Link to="/sobre-nosotros/" rel="author" className="underline underline-offset-2">Daniel</Link>, fundador y responsable de contenidos de RecurreTuMulta.online</span>
               <span aria-hidden="true">·</span>
               <span>Actualizado: octubre 2026</span>
             </div>
@@ -539,7 +541,7 @@ export default function MultaProvinciaPage() {
           </div>
 
           {/* Footer */}
-          <SharedFooter />
+          <SharedFooter editorial={{ ambito: "multas", tipo: "articulo", actualizado: "2026-10-04", sinHerramientas: true }} />
         </div>
       </div>
     </div>

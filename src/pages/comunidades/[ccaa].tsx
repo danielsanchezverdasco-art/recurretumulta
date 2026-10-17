@@ -159,7 +159,7 @@ export default function ComunidadPage() {
               <span className="w-6 h-6 rounded-full bg-red-600 flex items-center justify-center text-white shrink-0">
                 <UserRound className="w-3.5 h-3.5" />
               </span>
-              <span>Por Daniel, fundador y responsable de contenidos de RecurreTuMulta.online</span>
+              <span>Por <Link to="/sobre-nosotros/" rel="author" className="underline underline-offset-2">Daniel</Link>, fundador y responsable de contenidos de RecurreTuMulta.online</span>
               <span aria-hidden="true">·</span>
               <span>Actualizado: octubre 2026</span>
             </div>
@@ -465,7 +465,7 @@ export default function ComunidadPage() {
 
         </div>
       </div>
-      <SharedFooter />
+      <SharedFooter editorial={{ ambito: "multas", tipo: "articulo", sinHerramientas: true }} />
     </div>
   );
 }

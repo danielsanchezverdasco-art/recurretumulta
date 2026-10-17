@@ -84,7 +84,7 @@ function JuegoMonosBasesPageActivo() {
           </div>
         </main>
       </div>
-      <SharedFooter />
+      <SharedFooter editorial={false} />
     </div>
   );
 }

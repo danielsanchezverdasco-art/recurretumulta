@@ -6,6 +6,7 @@ import { Link, useLocation } from "react-router-dom";
 import { useSeo } from "@/hooks/use-seo.ts";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
+import { useUltimaActualizacion } from "@/hooks/use-ficha-fechas.ts";
 
 type Datos = { p: string; cat: string; catNombre: string; h1: string; title: string; description: string; intro: string; items: [string, string][] };
 const leer = (doc: Document, p: string): Datos | null => {
@@ -26,7 +27,11 @@ export default function HubMarca() {
     }).catch(() => ok && setError(true));
     return () => { ok = false; };
   }, [p, d]);
-  useSeo({ title: d?.title ?? "Fichas técnicas por marca", description: d?.description ?? "", canonical: p });
+  // E-E-A-T 17/10/2026: actualizado = la ficha de la marca actualizada más recientemente
+  // (mismo cálculo que scripts/gen-marcas.py en el HTML estático).
+  const actualizado = useUltimaActualizacion(d?.items.map(([s]) => s) ?? []);
+  useSeo({ title: d?.title ?? "Fichas técnicas por marca", description: d?.description ?? "", canonical: p, dateModified: actualizado });
+  const ambito = d?.cat === "motos" ? "motos" : d?.cat === "patinetes" ? "patinetes" : "coches";
   return (
     <div className="min-h-screen bg-slate-50">
       <SharedNavbar />
@@ -40,7 +45,7 @@ export default function HubMarca() {
           </ul>
         </>) : <p className="text-sm text-gray-500">{error ? "No hemos podido cargar esta marca." : "Cargando…"}</p>}
       </main>
-      <SharedFooter />
+      <SharedFooter editorial={{ ambito, tipo: "listado", actualizado }} />
     </div>
   );
 }

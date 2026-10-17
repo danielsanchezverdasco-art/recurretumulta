@@ -108,7 +108,7 @@ function ModerarInner() {
             </button>
           </form>
         </main>
-        <SharedFooter />
+        <SharedFooter editorial={false} />
       </div>
     );
   }
@@ -390,7 +390,7 @@ function ModerarInner() {
           </form>
         )}
       </main>
-      <SharedFooter />
+      <SharedFooter editorial={false} />
     </div>
   );
 }

@@ -506,7 +506,7 @@ function JuegoMonosPage() {
           </section>
         </main>
       </div>
-      <SharedFooter />
+      <SharedFooter editorial={false} />
     </div>
   );
 }

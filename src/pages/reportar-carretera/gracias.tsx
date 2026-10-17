@@ -77,7 +77,7 @@ export default function GraciasReportePage() {
         </div>
       </section>
 
-      <SharedFooter />
+      <SharedFooter editorial={false} />
     </div>
   );
 }

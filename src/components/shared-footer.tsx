@@ -5,12 +5,19 @@ import { Camera, MessageCircle } from "lucide-react";
 import { useTranslation } from "react-i18next";
 import MonoEscondido from "@/components/caza-monos/MonoEscondido.tsx";
 import { fijoId } from "@/components/caza-monos/CazaMonosContext.tsx";
+import FirmaEditorial, { type EditorialProps } from "@/components/eeat/FirmaEditorial.tsx";
 
 const LOGO_URL = "/media/logo-recurretumulta-sm.webp";
 const L = "hover:text-red-600 underline decoration-gray-300 underline-offset-2 transition-colors";
 const LI = `inline-flex items-center gap-1 ${L}`;
 
-export default function SharedFooter() {
+/**
+ * E-E-A-T 17/10/2026: antes del <footer> se pinta el bloque de autoría, fechas,
+ * «cómo verificamos», fuentes y herramientas (FirmaEditorial). Cada plantilla le
+ * pasa sus datos en `editorial`; sin datos sale el bloque genérico (sin fechas).
+ * `editorial={false}` lo quita (páginas legales, bajas, juegos).
+ */
+export default function SharedFooter({ editorial }: { editorial?: EditorialProps | false } = {}) {
   const { t } = useTranslation("common");
   const items = [
     <Link to="/blog/" className={L}>{t("nav.blog")} DGT</Link>,
@@ -19,6 +26,7 @@ export default function SharedFooter() {
     <Link to="/newsletter/" className={L}>Newsletter</Link>,
     <Link to="/glosario-multa/" className={L}>Glosario</Link>,
     <Link to="/metodologia/" className={L}>Metodología</Link>,
+    <Link to="/politica-editorial/" className={L}>Política editorial</Link>,
     <Link to="/sobre-nosotros/" className={L}>Quiénes somos</Link>,
     <Link to="/comparativa/" className={L}>IA vs abogado vs gestor</Link>,
     <Link to="/contacto/" className={L}>{t("footer.contact")}</Link>,
@@ -34,6 +42,8 @@ export default function SharedFooter() {
     <Link to="/cookies/" className={L}>{t("footer.cookies")}</Link>,
   ];
   return (
+    <>
+    {editorial !== false && <FirmaEditorial {...(editorial ?? {})} />}
     <footer className="border-t border-gray-100 py-8 px-4">
       <div className="max-w-4xl mx-auto space-y-4 text-center">
         <div className="flex items-center justify-center gap-2">
@@ -66,5 +76,6 @@ export default function SharedFooter() {
         </div>
       </div>
     </footer>
+    </>
   );
 }

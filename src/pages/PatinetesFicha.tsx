@@ -16,6 +16,7 @@ import {
   X,
 } from "lucide-react";
 import { useSeo } from "@/hooks/use-seo.ts";
+import { useFichaFechas } from "@/hooks/use-ficha-fechas.ts";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 import {
@@ -228,7 +229,11 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
     ],
   };
 
+  // E-E-A-T 17/10/2026: fechas reales de la ficha (JSON-LD + bloque de autoría).
+  const fechas = useFichaFechas(patinete.id);
   useSeo({
+    datePublished: fechas.publicado,
+    dateModified: fechas.actualizado,
     // SEO 07/10/2026 (metodología CTR, Daniel): fórmula ganadora
     // [Keyword] + [número] + [beneficio] + [(año)]. Siempre ≤60 car.
     title: tituloFichaPatinete(nombre, patinete),
@@ -732,7 +737,15 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
           />
         </Suspense>
       </main>
-      <SharedFooter />
+      <SharedFooter
+        editorial={{
+          ambito: "patinetes",
+          tipo: "ficha",
+          publicado: fechas.publicado,
+          actualizado: fechas.actualizado,
+          fuentePrincipal: patinete.fuenteUrl ? { nombre: patinete.fuenteNombre || "Fuente de los datos", url: patinete.fuenteUrl } : null,
+        }}
+      />
     </div>
   );
 }

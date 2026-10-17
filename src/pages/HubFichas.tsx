@@ -54,7 +54,7 @@ export default function HubFichas({ categoria }: { categoria: Categoria }) {
           </section>
         ))}
       </main>
-      <SharedFooter />
+      <SharedFooter editorial={{ ambito: categoria, tipo: "listado" }} />
     </div>
   );
 }

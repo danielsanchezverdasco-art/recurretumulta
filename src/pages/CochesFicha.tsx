@@ -15,6 +15,7 @@ import {
   X,
 } from "lucide-react";
 import { useSeo } from "@/hooks/use-seo.ts";
+import { useFichaFechas } from "@/hooks/use-ficha-fechas.ts";
 import { BLOG_LITE } from "@/lib/blog-lite.generated.ts";
 // 12/10/2026: los enlaces ficha->blog solo se renderizan si el blog existe.
 // Evita 298 enlaces rotos en el lote de 500 fichas sin blog publicado aún.
@@ -392,7 +393,11 @@ function Ficha({ coche }: { coche: CocheComparador }) {
   // useSeo omite el sufijo de marca en /coches/*.
   const tituloSeo = tituloFichaCoche(nombre, coche);
 
+  // E-E-A-T 17/10/2026: fechas reales de la ficha (JSON-LD + bloque de autoría).
+  const fechas = useFichaFechas(coche.id);
   useSeo({
+    datePublished: fechas.publicado,
+    dateModified: fechas.actualizado,
     title: tituloSeo,
     description: `Ficha técnica del ${nombre}: precio, potencia, autonomía, batería, maletero, etiqueta DGT, pros y contras, vídeo y análisis.`,
     canonical: `/coches/${coche.id}/`,
@@ -1123,7 +1128,15 @@ function Ficha({ coche }: { coche: CocheComparador }) {
           />
         </Suspense>
       </main>
-      <SharedFooter />
+      <SharedFooter
+        editorial={{
+          ambito: "coches",
+          tipo: "ficha",
+          publicado: fechas.publicado,
+          actualizado: fechas.actualizado,
+          fuentePrincipal: coche.fuenteUrl ? { nombre: coche.fuenteNombre || "Fuente de los datos", url: coche.fuenteUrl } : null,
+        }}
+      />
     </div>
   );
 }

@@ -25,6 +25,8 @@ import { api } from "@/convex/_generated/api.js";
 import { LazyConvexProvider } from "@/components/providers/convex-lazy.tsx";
 
 import SharedNavbar from "@/components/shared-navbar.tsx";
+import { AUTOR_DANIEL, PUBLISHER } from "@/lib/eeat.ts";
+import { EnlacesHerramientas } from "@/components/eeat/FirmaEditorial.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 import NewsletterSignup from "@/components/NewsletterSignup.tsx";
 import CarruselFotos from "@/components/CarruselFotos.tsx";
@@ -441,6 +443,14 @@ function BlogPostPage() {
     const src = m[1].replace(/^["']|["']$/g, "");
     return src.startsWith("http") ? src : `${DOMAIN}${src.startsWith("/") ? "" : "/"}${src}`;
   })();
+  // E-E-A-T 17/10/2026: herramientas según el tema del post.
+  const ambitoPost = fichaLink?.startsWith("/motos/")
+    ? "motos"
+    : fichaLink?.startsWith("/patinetes/")
+      ? "patinetes"
+      : post && ["Novedades Motor", "Motor", "Coches", "Modelos desconocidos"].includes(post.category)
+        ? "coches"
+        : "multas";
   useSeo(isLoading
         ? {
               title: "Cargando artículo",
@@ -455,6 +465,8 @@ function BlogPostPage() {
     description: post.excerpt,
     canonical: `/blog/${post.slug}/`,
     type: "article",
+    datePublished: post.date,
+    dateModified: post.date,
     image: ogImage,
     keywords: post.keywords,
     schema: {
@@ -469,19 +481,9 @@ function BlogPostPage() {
           "datePublished": post.date,
           "dateModified": post.date,
           "inLanguage": "es-ES",
-          "author": {
-            "@type": "Organization",
-            "name": "RecurreTuMulta.online",
-            "url": DOMAIN,
-          },
-          "publisher": {
-            "@type": "Organization",
-            "name": "RecurreTuMulta.online",
-            "logo": {
-              "@type": "ImageObject",
-              "url": "/media/file_JCUW0M5ZDov5VKrmqbwPmQSz.png",
-            },
-          },
+          // E-E-A-T 17/10/2026: autor = Daniel (como dice la firma visible), editor = la organización.
+          "author": AUTOR_DANIEL,
+          "publisher": PUBLISHER,
           "image": "/media/og-recurretumulta-online.png",
           "articleSection": post.category,
           "keywords": post.keywords.join(", "),
@@ -657,7 +659,7 @@ function BlogPostPage() {
               <span className="w-6 h-6 rounded-full bg-red-600 flex items-center justify-center text-white shrink-0">
                 <UserRound className="w-3.5 h-3.5" />
               </span>
-              <span>Por Daniel, fundador y responsable de contenidos de RecurreTuMulta.online</span>
+              <span>Por <Link to="/sobre-nosotros/" rel="author" className="underline underline-offset-2 hover:text-white">Daniel</Link>, fundador y responsable de contenidos de RecurreTuMulta.online</span>
               <span aria-hidden="true">·</span>
               <span>Actualizado: {post.date}</span>
             </div>
@@ -729,8 +731,10 @@ function BlogPostPage() {
               </a>
               . La IA de análisis identifica posibles defectos e indicios relevantes en tu documento, pero no
               sustituye el asesoramiento de un profesional. Consulta más sobre nuestro proceso editorial en{" "}
-              <Link to="/sobre-nosotros/" className="text-red-600 underline">¿Quién está detrás?</Link>.
+              <Link to="/sobre-nosotros/" className="text-red-600 underline">¿Quién está detrás?</Link> y en nuestra{" "}
+              <Link to="/politica-editorial/" className="text-red-600 underline">política editorial</Link>.
             </p>
+            <EnlacesHerramientas ambito={ambitoPost} />
             <p className="text-[11px] text-gray-400">Última revisión de este contenido: {post.date}</p>
           </div>
 
@@ -883,7 +887,7 @@ function BlogPostPage() {
           )}
 
           {/* Footer */}
-          <SharedFooter />
+          <SharedFooter editorial={false} />
         </div>
       </div>
     </div>

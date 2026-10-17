@@ -90,7 +90,7 @@ export default function TerminosPage() {
       </main>
 
       <footer className="border-t border-gray-100 py-6">
-        <SharedFooter />
+        <SharedFooter editorial={false} />
       </footer>
     </div>
   );
