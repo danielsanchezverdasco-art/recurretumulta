@@ -2,12 +2,12 @@
 // Stelato S9, Luxeed R7, Onvo L90 y Denza N9.
 // Datos verificados en prensa especializada (transportauto.es / Europa Press,
 // autonocion.com, forococheselectricos.com, auto-data.net, tierragamer.com,
-// testcoches.es, inoticias.cl). Regla dura: cero cifras inventadas; lo no
-// cStelato S9 Huawei: 816 km y 516 CVt } from "./blog-data.ts";
+// testcoches.es, inoticias.cl). Regla dura: cero cifras inventadas; lo no confirmado, fuera.
+import type { BlogPost } from "./blog-data.ts";
 
 export const SOLKUNO_B_POSTS: BlogPost[] = [
   {
-    "title": "Stelato S9: el Huawei de 816 km que va a por Tesla",
+    "title": "Stelato S9 Huawei: 816 km y 516 CV",
     "slug": "stelato-s9-huawei-2026-precio-ficha-tecnica",
     "excerpt": "La berlina de Huawei y BAIC promete 816 km CLTC, 516 CV, 200 km de carga en 5 minutos y conducción ADS 3.0 desde 399.800 yuanes. Ficha técnica y rivales.",
     "category": "Actualidad",
