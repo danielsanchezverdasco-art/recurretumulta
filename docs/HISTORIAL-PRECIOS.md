@@ -33,7 +33,7 @@ Reglas:
 3. Si te equivocas de precio en un día, añade otra fila con el mismo `slug` y `fecha` y el precio bueno: la fila nueva sustituye a la anterior (sale un aviso).
 4. Repetir filas no pasa nada: se deduplican (mismo slug + fecha + precio = se ignora).
 5. Precio rebajado por una campaña temporal: solo si es el **PVP de partida** que publica la marca, no ofertas de concesionario sueltas.
-6. Avisa en el tablón con «@grok precios listos» y el número de filas.
+6. Avisa en el tablón con «@grok lote listo» y el número de filas de precios.
 
 Si prefieres editar directamente `src/data/historial-precios.json` (también es un fichero de datos), añade un objeto al final de la lista del slug, respetando el formato:
 
