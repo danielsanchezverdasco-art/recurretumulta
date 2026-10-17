@@ -6218,13 +6218,49 @@ export const MOTOS_BASE: MotoComparador[] = [
       "Con el paquete M baja a 193,5 kg",
       "La generación Euro5+ de 2025 declara 303 km/h de velocidad máxima",
     ],
-    imagen: "/media/motos/bmw-s-1000-rr-2024-ficha-tecnica-precio.webp",
-    galeria: [],
+    imagen: "/media/bmw-s-1000-rr-2024-ficha-tecnica-precio-1.webp",
+    galeria: [
+      {
+        src: "/media/bmw-s-1000-rr-2024-ficha-tecnica-precio-2.webp",
+        alt: "BMW S 1000 RR 2024, vista lateral",
+        ancho: 1600,
+        alto: 1067,
+      },
+      {
+        src: "/media/bmw-s-1000-rr-2024-ficha-tecnica-precio-3.webp",
+        alt: "BMW S 1000 RR 2024, detalle",
+        ancho: 1600,
+        alto: 900,
+      },
+      {
+        src: "/media/bmw-s-1000-rr-2024-ficha-tecnica-precio-4.webp",
+        alt: "BMW S 1000 RR 2024, frontal",
+        ancho: 1600,
+        alto: 900,
+      },
+    ],
     videoId: "mHeXLQcq_kU",
     videoCanal: "HolyCars TV",
     fuenteNombre: "MotoFichas",
     fuenteUrl: "https://www.motofichas.com/marcas/bmw/s-1000-rr-2023",
-    analisisSlug: null,
+    analisisSlug: "bmw-s-1000-rr-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión / 10.000 km",
+          queSeCambia: "Aceite + filtro de aceite + inspección general",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión / 20.000 km",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Plan de mantenimiento oficial BMW Motorrad (intervalo estándar de la marca)",
+    },
   },
   {
     id: "aprilia-rsv4-factory-2024-ficha-tecnica-precio",
