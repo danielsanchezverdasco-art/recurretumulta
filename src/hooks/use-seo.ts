@@ -89,6 +89,19 @@ function tieneBreadcrumb(o: unknown): boolean {
   }
   return false;
 }
+function breadcrumbEnDom(): boolean {
+  // Otro bloque JSON-LD de la página (p. ej. <script> renderizado por el componente
+  // o el «bc-static» de las páginas de marca) ya trae su BreadcrumbList.
+  const otros = document.querySelectorAll('script[type="application/ld+json"]:not([data-seo-id="page-schema"])');
+  for (const s of Array.from(otros)) {
+    try {
+      if (tieneBreadcrumb(JSON.parse(s.textContent || "null"))) return true;
+    } catch {
+      /* JSON inválido: se ignora */
+    }
+  }
+  return false;
+}
 function conBreadcrumb(
   schema: Nodo | Nodo[] | undefined,
   canonPath: string,
@@ -96,7 +109,7 @@ function conBreadcrumb(
   titulo: string,
 ): Nodo | Nodo[] | undefined {
   const ruta = canonPath.split("?")[0];
-  if (ruta === "/" || tieneBreadcrumb(schema)) return schema;
+  if (ruta === "/" || tieneBreadcrumb(schema) || breadcrumbEnDom()) return schema;
   const nombre = BC_NOMBRES[ruta] || titulo.split(/\s[:|—–-]\s|:\s/)[0].trim() || titulo;
   const bc: Nodo = {
     "@context": "https://schema.org",
