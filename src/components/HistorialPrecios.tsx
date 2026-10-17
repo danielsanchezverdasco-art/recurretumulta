@@ -56,6 +56,28 @@ const dominio = (url: string) => {
 const textoFuente = (s?: string) =>
   !s ? "Ficha técnica" : /^https?:\/\//.test(s) ? dominio(s) : s.startsWith("radar-precios") ? "Radar de precios" : s;
 
+
+// 17/10/2026 (Daniel): punto verde que late + «Seguimiento de precio activo» y la fecha
+// del último dato comprobado (el último punto del historial). Solo CSS (.hp-pulso en
+// index.css), sin JS; con prefers-reduced-motion no se anima.
+function Seguimiento({ fecha }: { fecha: string }) {
+  const txt = fmtFecha(fecha);
+  return (
+    <p
+      role="note"
+      aria-label={`Seguimiento de precio activo. Última comprobación: ${txt}`}
+      className="mt-1 flex flex-wrap items-center gap-x-1.5 gap-y-0.5 text-xs text-gray-600"
+    >
+      <span className="hp-pulso" aria-hidden="true" />
+      <span className="font-semibold text-green-800">Seguimiento de precio activo</span>
+      <span aria-hidden="true">·</span>
+      <span>
+        Última comprobación: <time dateTime={fecha}>{txt}</time>
+      </span>
+    </p>
+  );
+}
+
 export default function HistorialPrecios({ slug, nombre }: { slug: string; nombre: string }) {
   const [puntos, setPuntos] = useState<PuntoGen[] | null>(null);
   const [animar, setAnimar] = useState(false);
@@ -99,6 +121,7 @@ export default function HistorialPrecios({ slug, nombre }: { slug: string; nombr
     return (
       <div className="mt-6 rounded-2xl border border-gray-200 bg-gray-50 p-4" data-historial-precios="1">
         <h3 className="text-base font-extrabold text-gray-900">Historial de precios</h3>
+        <Seguimiento fecha={ultimo.f} />
         <p className="mt-1 text-sm text-gray-800">
           Precio actual: <strong>{precioTxt}</strong> ({aprox ? "dato aproximado, registrado" : "verificado"}{" "}
           <time dateTime={ultimo.f}>{fmtFecha(ultimo.f)}</time>)
@@ -153,6 +176,7 @@ export default function HistorialPrecios({ slug, nombre }: { slug: string; nombr
           </span>
         )}
       </div>
+      <Seguimiento fecha={ultimo.f} />
       <p className="mt-1 text-sm text-gray-800">
         Precio actual: <strong>{precioTxt}</strong> ({aprox ? "dato aproximado, registrado" : "verificado"}{" "}
         <time dateTime={ultimo.f}>{fmtFecha(ultimo.f)}</time>)

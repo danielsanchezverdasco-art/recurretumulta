@@ -545,7 +545,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "SH350i",
     version: "2025",
     categoria: "Scooter",
-    precioDesde: 6340,
+    precioDesde: 6450,
     potenciaKw: 21.18,
     potenciaCv: 28.8,
     autonomiaKm: null,
@@ -567,7 +567,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       "Gran hueco bajo el asiento para un casco integral",
     ],
     contras: [
-      "6.340 €: caro frente a la competencia taiwanesa",
+      "6.450 €: caro frente a la competencia taiwanesa",
       "Protección aerodinámica mejorable en autovía",
       "El asiento podría ser más cómodo para trayectos largos",
       "Consumo real en torno a 3,4 l/100 km si vas rápido",

@@ -225,12 +225,12 @@ function Ficha({ moto }: { moto: MotoComparador }) {
             unitText: "km/h",
           },
         }),
-        ...(moto.precioDesde != null && {
+        // 17/10/2026: Offer solo con precio real y con imagen; sin availability: no vendemos.
+        ...(moto.precioDesde != null && !!moto.imagen && {
           offers: {
             "@type": "Offer",
             price: moto.precioDesde,
             priceCurrency: "EUR",
-            availability: "https://schema.org/InStock",
           },
         }),
       },
@@ -286,11 +286,16 @@ function Ficha({ moto }: { moto: MotoComparador }) {
           ...jsonLd,
           "@graph": [
             ...(jsonLd["@graph"] as Record<string, unknown>[]).map((nodo, i) =>
-              i === 0 && reviewsExtra.aggregateRating
-                ? { ...nodo, aggregateRating: reviewsExtra.aggregateRating }
+              // 17/10/2026: reseñas reales aprobadas DENTRO del producto
+              // (antes iban sueltas en @graph, sin itemReviewed).
+              i === 0 && (reviewsExtra.aggregateRating || reviewsExtra.reviews.length)
+                ? {
+                    ...nodo,
+                    ...(reviewsExtra.aggregateRating ? { aggregateRating: reviewsExtra.aggregateRating } : {}),
+                    ...(reviewsExtra.reviews.length ? { review: reviewsExtra.reviews } : {}),
+                  }
                 : nodo,
             ),
-            ...reviewsExtra.reviews,
           ],
         }
       : jsonLd,

@@ -176,23 +176,8 @@ export default function EmpresasPage() {
       "software gestion multas empresas",
       "asesor multas trafico empresas",
     ],
-    schema: [{
-      "@context": "https://schema.org",
-      "@type": "Product",
-      "name": "Plan Empresas RecurreTuMulta.online",
-      "image": "https://recurretumulta.online/media/og-recurretumulta-online.png",
-      "description": "Suscripción mensual para empresas: recursos PDF ilimitados, asistencia prioritaria sin colas, sin permanencia.",
-      "offers": {
-        "@type": "Offer",
-        "price": "70",
-        "priceCurrency": "EUR",
-        "priceSpecification": {
-          "@type": "RecurringCharge",
-          "billingDuration": "P1M",
-        },
-        "availability": "https://schema.org/InStock",
-      },
-    },
+    // 17/10/2026: sin Product/Offer (es un servicio, no una ficha de producto; GSC Fichas de comerciantes).
+    schema: [
     {
     "@context": "https://schema.org",
     "@type": "FAQPage",

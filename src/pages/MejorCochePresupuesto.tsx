@@ -213,17 +213,9 @@ export default function MejorCochePresupuesto() {
           itemListElement: recomendaciones.map((r, i) => ({
             "@type": "ListItem",
             position: i + 1,
-            item: {
-              "@type": "Car",
-              name: `${r.coche.marca} ${r.coche.modelo}`,
-              ...(r.coche.imagen ? { image: `https://recurretumulta.online${r.coche.imagen}` } : {}),
-              offers: {
-                "@type": "Offer",
-                price: r.coche.precioDesde,
-                priceCurrency: "EUR",
-                availability: "https://schema.org/InStock",
-              },
-            },
+            // 17/10/2026: página de listado, no de producto: sin Car/Offer (GSC).
+            name: `${r.coche.marca} ${r.coche.modelo}`,
+            url: `https://recurretumulta.online/coches/${r.coche.id}/`,
           })),
         },
         {

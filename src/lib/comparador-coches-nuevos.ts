@@ -5961,7 +5961,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     modelo: "A110",
     tipo: "Gasolina",
     categoria: "Deportivo",
-    precioDesde: 69800,
+    precioDesde: 67800,
     potenciaCv: 252,
     autonomiaKm: null,
     maleteroL: 196,
@@ -5977,7 +5977,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
       "0-100 km/h en 4,5 s con solo 252 CV",
     ],
     contras: [
-      "Desde 69.800 €, no es barato",
+      "Desde 67.800 €, no es barato",
       "Solo 2 plazas y maleteros pequeños",
       "Red de concesionarios Alpine limitada",
     ],

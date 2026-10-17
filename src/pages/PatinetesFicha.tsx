@@ -192,12 +192,12 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
             unitText: "km/h",
           },
         }),
-        ...(patinete.precioEur != null && {
+        // 17/10/2026: Offer solo con precio real y con imagen; sin availability: no vendemos.
+        ...(patinete.precioEur != null && !patinete.fotoPendiente && !!patinete.foto && {
           offers: {
             "@type": "Offer",
             price: patinete.precioEur,
             priceCurrency: "EUR",
-            availability: "https://schema.org/InStock",
           },
         }),
       },
@@ -252,11 +252,16 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
           ...jsonLd,
           "@graph": [
             ...(jsonLd["@graph"] as Record<string, unknown>[]).map((nodo, i) =>
-              i === 0 && reviewsExtra.aggregateRating
-                ? { ...nodo, aggregateRating: reviewsExtra.aggregateRating }
+              // 17/10/2026: reseñas reales aprobadas DENTRO del producto
+              // (antes iban sueltas en @graph, sin itemReviewed).
+              i === 0 && (reviewsExtra.aggregateRating || reviewsExtra.reviews.length)
+                ? {
+                    ...nodo,
+                    ...(reviewsExtra.aggregateRating ? { aggregateRating: reviewsExtra.aggregateRating } : {}),
+                    ...(reviewsExtra.reviews.length ? { review: reviewsExtra.reviews } : {}),
+                  }
                 : nodo,
             ),
-            ...reviewsExtra.reviews,
           ],
         }
       : jsonLd,

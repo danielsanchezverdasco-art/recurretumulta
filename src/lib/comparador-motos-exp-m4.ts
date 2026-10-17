@@ -3034,7 +3034,7 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 300,
     categoria: "Scooter",
-    precioDesde: 4399,
+    precioDesde: 3999,
     potenciaKw: null,
     potenciaCv: 26,
     autonomiaKm: null,
@@ -3057,7 +3057,7 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
       "Asiento a 790 mm y 200 kg: manejable",
     ],
     contras: [
-      "4.399 €: más caro que el Joymax con el mismo motor",
+      "3.999 €: lo mismo que el Joymax Z+ 300, que lleva el mismo motor",
       "La estética adventure es más pose que capacidad real",
       "200 kg se notan en parado",
       "Neumáticos mixtos con menos agarre en asfalto",

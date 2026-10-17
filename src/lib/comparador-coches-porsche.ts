@@ -12,7 +12,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     modelo: "911 Carrera",
     tipo: "Gasolina",
     categoria: "Deportivo",
-    precioDesde: 157835,
+    precioDesde: 159511,
     potenciaCv: 394,
     autonomiaKm: null,
     maleteroL: 135,
@@ -43,7 +43,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       "Valor de reventa de los más altos del mercado",
     ],
     contras: [
-      "157.835 €: el 911 más barato ya es un coche de lujo",
+      "159.511 €: el 911 más barato ya es un coche de lujo",
       "Etiqueta C de la DGT: sin acceso a ZBE en episodios de contaminación",
       "10,1 l/100 km WLTP: el consumo real sube rápido si se exprime",
       "Las plazas traseras son testimoniales para adultos",

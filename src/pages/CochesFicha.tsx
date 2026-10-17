@@ -349,12 +349,12 @@ function Ficha({ coche }: { coche: CocheComparador }) {
             unitText: "km/h",
           },
         }),
-        ...(coche.precioDesde != null && {
+        // 17/10/2026: Offer solo con precio real y con imagen (Google exige name+image); sin availability: no vendemos.
+        ...(coche.precioDesde != null && !!seoImage && {
           offers: {
             "@type": "Offer",
             // Precio real en origen cuando solo hay conversión (p. ej. Stelato G9, China)
             ...(PRECIO_ORIGEN[coche.id] ?? { price: coche.precioDesde, priceCurrency: "EUR" }),
-            availability: "https://schema.org/InStock",
           },
         }),
       },
@@ -410,11 +410,16 @@ function Ficha({ coche }: { coche: CocheComparador }) {
           ...jsonLd,
           "@graph": [
             ...(jsonLd["@graph"] as Record<string, unknown>[]).map((nodo, i) =>
-              i === 0 && reviewsExtra.aggregateRating
-                ? { ...nodo, aggregateRating: reviewsExtra.aggregateRating }
+              // 17/10/2026: reseñas reales aprobadas DENTRO del producto
+              // (antes iban sueltas en @graph, sin itemReviewed).
+              i === 0 && (reviewsExtra.aggregateRating || reviewsExtra.reviews.length)
+                ? {
+                    ...nodo,
+                    ...(reviewsExtra.aggregateRating ? { aggregateRating: reviewsExtra.aggregateRating } : {}),
+                    ...(reviewsExtra.reviews.length ? { review: reviewsExtra.reviews } : {}),
+                  }
                 : nodo,
             ),
-            ...reviewsExtra.reviews,
           ],
         }
       : jsonLd,

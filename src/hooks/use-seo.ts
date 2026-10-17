@@ -60,6 +60,61 @@ function injectSchema(schema: Record<string, unknown> | Record<string, unknown>[
   el.textContent = JSON.stringify(Array.isArray(schema) ? schema.filter((s) => s["@type"] !== "Organization" && s["@type"] !== "WebSite") : schema);
 }
 
+
+// 17/10/2026 (GSC «Rutas de exploración»): exactamente UN BreadcrumbList por página.
+// La plantilla global de index.html ya no lleva breadcrumb; si el schema de la
+// página no trae uno propio, se añade aquí Inicio > página (URL absoluta).
+const BC_NOMBRES: Record<string, string> = {
+  "/blog/": "Blog",
+  "/multas/": "Multas por provincia",
+  "/empresas/": "Empresas",
+  "/herramientas/": "Herramientas",
+  "/contacto/": "Contacto",
+  "/aviso-legal/": "Aviso legal",
+  "/privacidad/": "Privacidad",
+  "/cookies/": "Cookies",
+  "/terminos/": "Términos",
+  "/newsletter/": "Newsletter",
+  "/juego-monos/": "Juego de los monos",
+  "/reportar-carretera/": "Reportar carretera",
+};
+type Nodo = Record<string, unknown>;
+function tieneBreadcrumb(o: unknown): boolean {
+  if (Array.isArray(o)) return o.some(tieneBreadcrumb);
+  if (o && typeof o === "object") {
+    const n = o as Nodo;
+    const t = n["@type"];
+    if (t === "BreadcrumbList" || (Array.isArray(t) && t.includes("BreadcrumbList"))) return true;
+    return Object.values(n).some(tieneBreadcrumb);
+  }
+  return false;
+}
+function conBreadcrumb(
+  schema: Nodo | Nodo[] | undefined,
+  canonPath: string,
+  url: string,
+  titulo: string,
+): Nodo | Nodo[] | undefined {
+  const ruta = canonPath.split("?")[0];
+  if (ruta === "/" || tieneBreadcrumb(schema)) return schema;
+  const nombre = BC_NOMBRES[ruta] || titulo.split(/\s[:|—–-]\s|:\s/)[0].trim() || titulo;
+  const bc: Nodo = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Inicio", item: `${DOMAIN}/` },
+      { "@type": "ListItem", position: 2, name: nombre, item: url.split("?")[0] },
+    ],
+  };
+  if (!schema) return [bc];
+  if (Array.isArray(schema)) return [...schema, bc];
+  if (Array.isArray(schema["@graph"])) {
+    const { "@context": _c, ...bcSinCtx } = bc;
+    return { ...schema, "@graph": [...(schema["@graph"] as Nodo[]), bcSinCtx] };
+  }
+  return [schema, bc];
+}
+
 function removeSchema(id: string) {
   document.querySelector(`script[data-seo-id="${id}"]`)?.remove();
 }
@@ -151,8 +206,9 @@ export function useSeo({
     setMeta("og:updated_time", new Date().toISOString(), "property");
 
     // Schema
-    if (schema) {
-      injectSchema(schema, "page-schema");
+    const schemaFinal = noindex ? schema : conBreadcrumb(schema, canonPath, url, tituloFinal);
+    if (schemaFinal) {
+      injectSchema(schemaFinal, "page-schema");
     } else {
       removeSchema("page-schema");
     }

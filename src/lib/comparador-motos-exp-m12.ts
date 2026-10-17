@@ -840,7 +840,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
     version: "Dragster 459 Twin 2026",
     cilindradaCc: 449,
     categoria: "Scooter",
-    precioDesde: 9900,
+    precioDesde: 9990,
     potenciaKw: 35.3,
     potenciaCv: 48,
     autonomiaKm: null,
@@ -853,7 +853,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Bicilíndrico de 449 cc con 48 CV: el scooter deportivo más radical del mercado",
       "Chasis de tubos de acero a la vista con estética MotoGP",
@@ -863,7 +863,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
     ],
     contras: [
       "48 CV (35,3 kW) rozan el límite del A2: exige el carnet A",
-      "Precio estimado de ~9.900 €: territorio de motos de mayor cilindrada",
+      "Precio de 9.990 €: territorio de motos de mayor cilindrada",
       "Postura radical y asiento duro: no es un scooter para todos los días",
       "Consumo elevado para su segmento",
       "Italjet tiene una red de servicio limitada en España",

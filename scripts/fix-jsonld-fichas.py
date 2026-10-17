@@ -3,7 +3,7 @@
  - Car/Motorcycle/Product.name vacío -> nombre del modelo (H1); url con barra final.
  - BreadcrumbList posición 3: name vacío -> H1; item con barra final (como el canonical).
  - WebPage (plantilla de portada) -> name = <title> de la ficha, url = canonical, @id propio.
- - Car/Product con offers sin image -> og:image de la propia ficha (si existe); offers sin availability -> InStock (igual que la plantilla).
+ - Car/Product con offers sin image -> og:image de la propia ficha; si no hay imagen, fuera offers. Se quita availability (no vendemos).
 Uso: python3 scripts/fix-jsonld-fichas.py dist   (imprime cuántas páginas cambia)"""
 import os,re,sys,json,html
 D=sys.argv[1]; O="https://recurretumulta.online"
@@ -37,8 +37,11 @@ for cat in ("coches","motos","patinetes"):
           if n.get("url")==url.rstrip("/"): n["url"]=url; ch=True
           if "offers" in n:
             if not n.get("image") and og: n["image"]=og; stats["image"]+=1; ch=True
+            # 17/10/2026: sin availability (no vendemos) y sin Offer si no hay imagen (Google exige name+image).
             off=n["offers"]
-            if isinstance(off,dict) and not off.get("availability"): off["availability"]="https://schema.org/InStock"; stats["avail"]+=1; ch=True
+            for o in (off if isinstance(off,list) else [off]):
+              if isinstance(o,dict) and "availability" in o: del o["availability"]; stats["avail"]+=1; ch=True
+            if not n.get("image"): del n["offers"]; stats["image"]+=1; ch=True
         elif t=="BreadcrumbList":
           for it in n.get("itemListElement",[]):
             if it.get("position")==3:
