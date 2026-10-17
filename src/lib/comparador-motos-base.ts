@@ -5023,13 +5023,49 @@ export const MOTOS_BASE: MotoComparador[] = [
       "Los faros auxiliares van integrados en la carrocería, no atornillados a defensas",
       "Existe la versión Expedition, más equipada para viajes, con precio verificado de 16.749 €",
     ],
-    imagen: "/media/motos/husqvarna-norden-901-2024-ficha-tecnica-precio.webp",
-    galeria: [],
+    imagen: "/media/husqvarna-norden-901-2024-ficha-tecnica-precio-2.webp",
+    galeria: [
+      {
+        src: "/media/husqvarna-norden-901-2024-ficha-tecnica-precio-1.webp",
+        alt: "Husqvarna Norden 901 2024, detalle del subchasis",
+        ancho: 1000,
+        alto: 1000,
+      },
+      {
+        src: "/media/husqvarna-norden-901-2024-ficha-tecnica-precio-3.webp",
+        alt: "Husqvarna Norden 901 2024 en acción",
+        ancho: 999,
+        alto: 666,
+      },
+      {
+        src: "/media/husqvarna-norden-901-2024-ficha-tecnica-precio-4.webp",
+        alt: "Husqvarna Norden 901 2024, detalle",
+        ancho: 800,
+        alto: 600,
+      },
+    ],
     videoId: "0x7BWX_DsNY",
     videoCanal: "Motoblog Argentina",
     fuenteNombre: "Husqvarna Motorcycles",
     fuenteUrl: "https://www.husqvarna-motorcycles.com/es-es/models/travel/norden-901-2026.html",
-    analisisSlug: null,
+    analisisSlug: "husqvarna-norden-901-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "15.000 km o 24 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión / 15.000 km",
+          queSeCambia: "Aceite + filtro de aceite + inspección general",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión / 30.000 km",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Plan de mantenimiento oficial Husqvarna (plataforma KTM 890: intervalo 15.000 km / 24 meses)",
+    },
   },
   {
     id: "ktm-890-adventure-2024-ficha-tecnica-precio",
