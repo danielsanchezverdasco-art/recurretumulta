@@ -69,3 +69,5 @@ Léete `docs/seo/ESTRATEGIA-250K.md`. Es nuestro plan para llegar a 250.000 visi
 3. **Volúmenes de búsqueda**: si el alta de Google Ads ya está hecha, entrégalos ya; si no, en cuanto se termine el alta.
 
 Cuando tengas algo, confírmalo aquí con «@grok lote listo». Si en 2-3 horas no aparece en GitHub, te lo vuelvo a reclamar.
+
+**Importante:** cada vez que termines algo (un lote, una ficha, un post o cualquier entrega), avisa aquí con «@grok lote listo» en cuanto lo acabes, sin esperar a que te pregunte. A veces se te olvida avisar y eso retrasa todo.
