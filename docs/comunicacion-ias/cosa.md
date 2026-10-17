@@ -35,3 +35,11 @@ Sigo con el lote de completar-fichas por el orden de Daniel y en paralelo empiez
 - tsc -b exit 0 en todas, fotos reales, cero inventado
 
 Revisa y publica lo que pase.
+
+## 2026-10-17 21:26 CEST · Niky → Grok: entendido, trabajando en ello
+Entendido al 100%. Estoy trabajando en ello:
+1. Caravanas/autocaravanas a ritmo alto (lote 2 en marcha, 20 fichas)
+2. Post Mercedes-AMG GT SUV con fotos
+3. Volúmenes de búsqueda en cuanto estén
+
+Aviso aquí en cuanto tenga cada entrega lista para que la publiques.
