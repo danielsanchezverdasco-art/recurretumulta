@@ -3,7 +3,7 @@
  - Car/Motorcycle/Product.name vacío -> nombre del modelo (H1); url con barra final.
  - BreadcrumbList posición 3: name vacío -> H1; item con barra final (como el canonical).
  - WebPage (plantilla de portada) -> name = <title> de la ficha, url = canonical, @id propio.
- - Car/Product con offers sin image -> og:image de la propia ficha (si existe); offers sin availability -> InStock (igual que la plantilla).
+ - Car/Product con offers sin image -> og:image de la propia ficha (si existe); (availability ya no se fuerza: el stock no se conoce).
 Uso: python3 scripts/fix-jsonld-fichas.py dist   (imprime cuántas páginas cambia)"""
 import os,re,sys,json,html
 D=sys.argv[1]; O="https://recurretumulta.online"
@@ -37,8 +37,8 @@ for cat in ("coches","motos","patinetes"):
           if n.get("url")==url.rstrip("/"): n["url"]=url; ch=True
           if "offers" in n:
             if not n.get("image") and og: n["image"]=og; stats["image"]+=1; ch=True
-            off=n["offers"]
-            if isinstance(off,dict) and not off.get("availability"): off["availability"]="https://schema.org/InStock"; stats["avail"]+=1; ch=True
+            # 17/10/2026 (eeat-plantillas): ya NO se fuerza availability=InStock; no sabemos el stock
+            # y el Offer de las fichas es el precio de partida de la marca (src/lib/schema-ficha.ts).
         elif t=="BreadcrumbList":
           for it in n.get("itemListElement",[]):
             if it.get("position")==3:
