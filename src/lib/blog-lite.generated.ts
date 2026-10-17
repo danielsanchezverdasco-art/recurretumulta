@@ -18081,7 +18081,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "jogger 7 plazas 2026",
       "dacia jogger 7 plazas opiniones"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "dacia-spring-electric-45-2024-precio-ficha-tecnica",
@@ -22914,7 +22914,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "GWM Haval H6",
       "etiqueta ECO SUV"
     ],
-    "readTime": 3
+    "readTime": 5
   },
   {
     "slug": "haval-h6-phev-2025-precio-ficha-tecnica",
@@ -47962,7 +47962,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "agility 125 carnet b",
       "kymco agility nueva generación"
     ],
-    "readTime": 2
+    "readTime": 4
   },
   {
     "slug": "kymco-dtx-125-2025-ficha-tecnica-precio",
@@ -52465,7 +52465,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Zontes 2025",
       "scooter barato"
     ],
-    "readTime": 1
+    "readTime": 4
   },
   {
     "slug": "qjmotor-fort-4-0-2025-ficha-tecnica-precio",
@@ -66711,6 +66711,250 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 4
   },
   {
+    "slug": "yamaha-xsr900-2024-ficha-tecnica-precio",
+    "title": "Yamaha XSR900 2024: 119 CV neo-retro desde 11.999 €",
+    "excerpt": "Precio y ficha de la Yamaha XSR900 2024: 119 CV del tricilíndrico CP3, electrónica con IMU de 6 ejes, 193 kg y limitable al A2 por 11.999 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/yamaha-xsr900-2024-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "\\\"Yamaha XSR900 2024, naked neo-retro con motor CP3\\",
+    "keywords": [
+      "Yamaha XSR900 2024",
+      "XSR900 precio",
+      "Yamaha XSR900 ficha técnica",
+      "neo retro 119 CV",
+      "XSR900 A2",
+      "moto retro Yamaha"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "honda-forza-350-2024-ficha-tecnica-precio",
+    "title": "Honda Forza 350 2024: el scooter premium por 6.380 €",
+    "excerpt": "Precio y ficha del Honda Forza 350 2024: 29 CV, parabrisas eléctrico, cofre para 2 cascos, control de tracción y 3,4 l/100 km por 6.380 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/honda-forza-350-2024-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "\\\"Honda Forza 350 2024, scooter GT de rueda alta\\",
+    "keywords": [
+      "Honda Forza 350 2024",
+      "Forza 350 precio",
+      "Honda Forza 350 ficha técnica",
+      "scooter 350 Honda",
+      "Forza 350 vs XMAX 300"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "yamaha-yzf-r1-2024-ficha-tecnica-precio",
+    "title": "Yamaha YZF-R1 2024: 200 CV con alma de MotoGP, 21.499 €",
+    "excerpt": "Precio y ficha de la Yamaha YZF-R1 2024: 200 CV del crossplane, IMU de 6 ejes, 199 kg y electrónica de MotoGP por 21.499 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/yamaha-yzf-r1-2024-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "\\\"Yamaha YZF-R1 2024, superbike con motor crossplane\\",
+    "keywords": [
+      "Yamaha YZF-R1 2024",
+      "R1 precio",
+      "Yamaha R1 ficha técnica",
+      "superbike 200 CV",
+      "R1 vs Panigale",
+      "moto MotoGP calle"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "honda-adv350-2024-ficha-tecnica-precio",
+    "title": "Honda ADV350 2024: el SUV de los scooters, 6.580 €",
+    "excerpt": "Precio y ficha del Honda ADV350 2024: 29 CV, estética crossover, 340 km de autonomía y control de tracción por 6.580 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/honda-adv350-2024-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "\\\"Honda ADV350 2024, scooter crossover de estilo aventurero\\",
+    "keywords": [
+      "Honda ADV350 2024",
+      "ADV350 precio",
+      "Honda ADV350 ficha técnica",
+      "scooter crossover",
+      "ADV350 vs Forza 350",
+      "scooter aventura"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "honda-cbr650r-2024-ficha-tecnica-precio",
+    "title": "Honda CBR650R 2024: 95 CV con E-Clutch desde 10.100 €",
+    "excerpt": "Precio y ficha de la Honda CBR650R 2024: tetracilíndrico de 95 CV, E-Clutch opcional, TFT de 5\" y limitable al A2 por 10.100 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/honda-cbr650r-2024-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "\\\"Honda CBR650R 2024, deportiva con motor tetracilíndrico\\",
+    "keywords": [
+      "Honda CBR650R 2024",
+      "CBR650R precio",
+      "Honda CBR650R ficha técnica",
+      "CBR650R E-Clutch",
+      "deportiva A2 95 CV",
+      "CBR650R vs R7"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "yamaha-mt-10-2024-ficha-tecnica-precio",
+    "title": "Yamaha MT-10 2024: la naked de 166 CV por 17.999 €",
+    "excerpt": "Precio y ficha de la Yamaha MT-10 2024: 166 CV del crossplane de la R1, IMU de 6 ejes, 212 kg y electrónica total por 17.999 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/yamaha-mt-10-2024-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "\\\"Yamaha MT-10 2024, hypernaked con motor crossplane\\",
+    "keywords": [
+      "Yamaha MT-10 2024",
+      "MT-10 precio",
+      "Yamaha MT-10 ficha técnica",
+      "naked 166 CV",
+      "MT-10 vs Super Duke",
+      "hypernaked Yamaha"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "yamaha-yzf-r9-2025-ficha-tecnica-precio",
+    "title": "Yamaha YZF-R9 2025: 119 CV supersport por 13.499 €",
+    "excerpt": "Precio y ficha de la Yamaha YZF-R9 2025: 119 CV del tricilíndrico CP3, 195 kg, alerones MotoGP e IMU de 6 ejes por 13.499 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/yamaha-yzf-r9-2025-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "\\\"Yamaha YZF-R9 2025, supersport con motor CP3\\",
+    "keywords": [
+      "Yamaha YZF-R9 2025",
+      "R9 precio",
+      "Yamaha R9 ficha técnica",
+      "supersport CP3",
+      "R9 vs RS 660",
+      "deportiva 119 CV"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "renault-austral-2024-precio-ficha-tecnica",
+    "title": "Renault Austral E-Tech: 200 CV híbridos desde 35.815 €",
+    "excerpt": "Precio y ficha del Renault Austral E-Tech 2024: 200 CV full hybrid, 4,5 l/100 km, etiqueta ECO, 4Control y fabricado en España desde 35.815 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/renault-austral-2024-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "\\\"Renault Austral E-Tech 2024, SUV híbrido\\",
+    "keywords": [
+      "Renault Austral 2024",
+      "Austral E-Tech precio",
+      "Renault Austral ficha técnica",
+      "Austral híbrido",
+      "SUV híbrido ECO",
+      "Austral vs Qashqai"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "honda-cb750-hornet-2024-ficha-tecnica-precio",
+    "title": "Honda CB750 Hornet 2024: 92 CV, 190 kg y solo 7.880 €",
+    "excerpt": "Precio y ficha de la Honda CB750 Hornet 2024: bicilíndrico de 92 CV, 190 kg, limitable al A2, TFT y control de tracción por 7.880 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/honda-cb750-hornet-2024-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "\\\"Honda CB750 Hornet 2024, naked bicilíndrica\\",
+    "keywords": [
+      "Honda CB750 Hornet 2024",
+      "Hornet 750 precio",
+      "CB750 Hornet ficha técnica",
+      "Hornet vs MT-07",
+      "naked 92 CV",
+      "Honda Hornet A2"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "honda-cb125r-2024-ficha-tecnica-precio",
+    "title": "Honda CB125R 2024: Neo Sports Café de 15 CV, 5.050 €",
+    "excerpt": "Precio y ficha de la Honda CB125R 2024: 15 CV, 130 kg, horquilla invertida Showa, TFT a todo color y estilo Neo Sports Café por 5.050 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/honda-cb125r-2024-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "\\\"Honda CB125R 2024, naked Neo Sports Café\\",
+    "keywords": [
+      "Honda CB125R 2024",
+      "CB125R precio",
+      "Honda CB125R ficha técnica",
+      "naked 125",
+      "CB125R vs MT-125",
+      "moto A1 naked"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "honda-x-adv-750-2025-ficha-tecnica-precio",
+    "title": "Honda X-ADV 750 2025: el SUV de los scooters, 13.180 €",
+    "excerpt": "Precio y ficha del Honda X-ADV 750 2025: 59 CV, cambio DCT, 13,1 litros, TFT con conectividad y espíritu aventurero por 13.180 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/honda-x-adv-750-2025-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "\\\"Honda X-ADV 750 2025, maxiscooter aventurero\\",
+    "keywords": [
+      "Honda X-ADV 750 2025",
+      "X-ADV precio",
+      "Honda X-ADV ficha técnica",
+      "scooter DCT",
+      "X-ADV vs TMAX",
+      "maxiscooter aventura"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "dacia-bigster-2025-precio-ficha-tecnica",
+    "title": "Dacia Bigster 2025: el SUV grande e híbrido desde 24.990 €",
+    "excerpt": "Precio y ficha del Dacia Bigster 2025: SUV de 4,57 m con TCe 140 mild hybrid, etiqueta ECO, 667 litros de maletero desde 24.990 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/dacia-bigster-2025-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "\\\"Dacia Bigster 2025, el SUV grande de Dacia\\",
+    "keywords": [
+      "Dacia Bigster 2025",
+      "Bigster precio",
+      "Dacia Bigster ficha técnica",
+      "SUV Dacia grande",
+      "Bigster TCe 140"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "yamaha-tracer-9-gt-2024-ficha-tecnica-precio",
+    "title": "Yamaha Tracer 9 GT 2024: 120 CV sport-touring por 15.099 €",
+    "excerpt": "Precio y ficha de la Yamaha Tracer 9 GT 2024: tricilíndrico CP3 de 890 cc y 120 CV, suspensiones electrónicas y maletas por 15.099 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/yamaha-tracer-9-gt-2024-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "\\\"Yamaha Tracer 9 GT 2024, sport-touring con motor CP3\\",
+    "keywords": [
+      "Yamaha Tracer 9 GT 2024",
+      "Tracer 9 GT precio",
+      "Tracer 9 GT ficha técnica",
+      "sport touring Yamaha",
+      "Tracer 9 120 CV"
+    ],
+    "readTime": 5
+  },
+  {
     "slug": "fangchengbao-ti-9-2026-precio-ficha-tecnica",
     "title": "Fang Cheng Bao Ti 9: precio a confirmar y 2.300 km",
     "excerpt": "El Fang Cheng Bao Ti 9 (también llamado Tai 9) es el SUV híbrido enchufable de 5,27 m y 6 plazas (configuración principal) de BYD: 310 km eléctricos y 2.300 km totales declarados. Precio a confirmar.",
@@ -72150,7 +72394,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Stelato G9 ficha técnica",
       "Huawei ADS 5"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "stelato-g9-erev-2026-precio-ficha-tecnica",

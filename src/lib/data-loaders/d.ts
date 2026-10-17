@@ -2,6 +2,7 @@
 // Loaders de import() dinámico para slugs que empiezan por "d".
 export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
   blog: {
+    "dacia-bigster-2025-precio-ficha-tecnica": () => import("../blog-posts-prio-1c.ts"),
     "dacia-bigster-2026-hybrid-155-precio-ficha-tecnica": () => import("../blog-posts-coches-exp19.ts"),
     "dacia-bigster-2026-tce-140-precio-ficha-tecnica": () => import("../blog-posts-coches-exp19.ts"),
     "dacia-bigster-eco-g-140-2025-precio-ficha-tecnica": () => import("../blog-posts-dacia-a.ts"),

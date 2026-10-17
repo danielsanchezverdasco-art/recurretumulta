@@ -1744,7 +1744,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     videoCanal: "motos.net",
     fuenteNombre: "motofichas.com",
     fuenteUrl: "https://www.motofichas.com/marcas/aprilia/rs-125",
-    analisisSlug: "aprilia-rs-125-2025-ficha-tecnica-precio",
+    analisisSlug: null,
   },
   {
     id: "yamaha-yzf-r125-ficha-tecnica-precio",
@@ -1810,7 +1810,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     videoCanal: "Bike World",
     fuenteNombre: "mundomotero.com",
     fuenteUrl: "https://www.mundomotero.com/motos/yamaha/yzf-r125",
-    analisisSlug: "yamaha-yzf-r125-ficha-tecnica-precio",
+    analisisSlug: null,
   },
   {
     id: "honda-cb125f-2025-ficha-tecnica-precio",

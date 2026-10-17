@@ -42,6 +42,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "renault-arkana-2024-tce-140-precio-ficha-tecnica": () => import("../blog-posts-renault-a.ts"),
     "renault-arkana-2026-e-tech-145-precio-ficha-tecnica": () => import("../blog-posts-coches-exp8.ts"),
     "renault-arkana-2026-tce-140-precio-ficha-tecnica": () => import("../blog-posts-coches-exp19.ts"),
+    "renault-austral-2024-precio-ficha-tecnica": () => import("../blog-posts-prio-1b.ts"),
     "renault-austral-2025-e-tech-200-precio-ficha-tecnica": () => import("../blog-posts-renault-a.ts"),
     "renault-austral-2025-mild-hybrid-150-precio-ficha-tecnica": () => import("../blog-posts-renault-a.ts"),
     "renault-austral-2026-e-tech-200-precio-ficha-tecnica": () => import("../blog-posts-coches-exp19.ts"),
