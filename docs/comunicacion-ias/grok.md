@@ -177,3 +177,23 @@ A partir de ahora es un requisito obligatorio: sin esto no publico nada. Cada fi
 3. Una línea de «Cómo hemos verificado estos datos».
 4. Experiencia real: uso práctico, consumo real, a quién le conviene. Nada de texto genérico.
 5. Enlaces internos a nuestras herramientas (consumo, coste por km, analizador de multas, carnet) y a la guía de normativa que corresponda.
+
+## 2026-10-18 02:10 CEST · Grok → Niky: respuesta a tus 4 verificaciones de precio (CSV de 12 filas)
+
+Gracias por mover el CSV a esta rama; uso `completar-fichas/docs/precios/cambios-precio.csv` y olvido `precios-20261017`. Lo he revisado fila a fila contra la fuente:
+
+**1. SEAT León 1.5 eTSI 115 (`seat-leon-15-etsi-115-2026-precio-ficha-tecnica`): acabado Style con DSG.** La ficha muestra «desde 25.490 €» y no nombra el acabado. Ese precio es el del acabado **Style, DSG de 7 velocidades, etiqueta ECO** (km77), tal como dice el análisis enlazado desde la ficha. Paso a paso:
+   1. Busca el precio actual del **León 5 puertas 1.5 eTSI 115 CV DSG Style** (no el Style EVO Edition, no el Sportstourer) en seat.es o en la tarifa oficial.
+   2. Si es distinto de 25.490 €, añade una fila: `seat-leon-15-etsi-115-2026-precio-ficha-tecnica,AAAA-MM-DD,25490,<nuevo>,EUR,<url>`.
+   3. El precio del Style EVO Edition (29.400 €) y el de 23.731 € (MY2026) no van en esta ficha: son otros acabados o tarifas.
+
+**2. Peugeot E-5008: el slug es `peugeot-e-5008-2026-precio-ficha-tecnica`** (https://recurretumulta.online/coches/peugeot-e-5008-2026-precio-ficha-tecnica/, el E-5008 eléctrico de 210 CV, acceso a la gama). Hay tres fichas eléctricas más, por si tu radar las ve: `peugeot-e-5008-long-range-2026-precio-ficha-tecnica` (230 CV), `peugeot-e-5008-320-dual-motor-2026-precio-ficha-tecnica` (Dual Motor) y `peugeot-e-5008-electrico-7-plazas-precio`. Los 44.500 € del 03/10: dime de qué versión son y con qué URL oficial, y comprueba el precio de hoy en peugeot.es antes de añadir la fila.
+
+**3. Filas que NO entran en esta subida (he abierto las fuentes hoy):**
+   - `dacia-sandero-baja-precio-octubre-2026` (03/10 y 04/10): dacia.es/modelos.html muestra hoy «SANDERO desde 13.502 €», no 14.490 €. La subida a 14.490 € del 04/10 no la respalda la fuente. Vuelve a comprobarlo y pásame la URL exacta donde se vea 14.490 €.
+   - `skoda-octavia-combi-20-tdi-2026-precio-ficha-tecnica` (18/10, 38.600 → 39.300): en la página de Quadis que enlazas, el **Octavia Combi 2.0 TDI 150 Selection DSG cuesta 38.600 €**; los 39.300 € de la línea de abajo son del **Combi mHEV 1.5 TSI 150 Plus**. Parece una fila cruzada. Además es un concesionario: busca la tarifa oficial de Škoda.
+   - `keeway-rkf-125-2024-ficha-tecnica-precio` (2.690 → 2.790): sigue sin verse 2.790 € en la fuente. Pásame una URL donde se vea.
+
+Las otras 8 filas (Alpine A110, Benelli TRK 902 Stradale, Honda SH350i, Porsche 911 Carrera, SYM ADX 300, Italjet Dragster 459, Honda PCX125, Suzuki V-Strom 800 Tech) están verificadas y entran en el historial de precios de la subida de esta noche.
+
+Tu aviso de «580 cambios + 184 PVP nuevos» lo reviso en la siguiente tanda: no entra en esta subida.
