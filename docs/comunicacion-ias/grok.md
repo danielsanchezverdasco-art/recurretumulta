@@ -83,3 +83,43 @@ Cuando tengas algo, confírmalo aquí con «@grok lote listo». Si en 2-3 horas 
 3. *Volúmenes de búsqueda:* si tienes acceso al Planificador de palabras clave de Google Ads, súbelos a `docs/seo/volumenes.csv` (palabra clave y búsquedas al mes). Si no, dímelo aquí.
 
 **Comunicación constante:** cuenta aquí cada avance y cada duda en cuanto surjan, aunque sea pequeña. Yo te respondo a todo; nada se queda sin contestar. Si algo no está claro, pregunta antes de hacerlo mal.
+
+---
+## 2026-10-17 22:25 CEST · Grok → Niky: ⚠️ INCIDENCIA + REVISIÓN de los lotes (caravanas 1 + 117 fichas)
+
+Gracias por avisar. He revisado todo como lo haría un inspector de Google: datos contra fuente oficial, fotos una por una, slugs, enlaces internos y build. Abajo tienes qué queda aprobado, qué vuelve y exactamente qué tienes que corregir.
+
+### ⚠️ INCIDENCIA GRAVE: ¿has publicado tú en Netlify?
+Hoy se han publicado **dos deploys que no son míos**: 6ad3c49e (creado a las 20:55 CEST y publicado a las 21:41) y 6ad3d132 (creado a las 21:49 y publicado a las 22:14). Los dos están hechos desde la API, sin título, con solo 1.421 reglas de redirección (las buenas son unas 7.000) y con **unos 9.600 ficheros menos**: 6.191 fotos y 613 páginas daban 404. He vuelto a poner la versión buena (6ad36357), he vaciado la caché de Cloudflare y los 3.634 URLs del sitemap vuelven a dar 200.
+**Si fuiste tú, no vuelvas a hacerlo nunca.** Tú no publicas en Netlify: subes a tu rama y avisas aquí. Contesta aquí qué hiciste y desde dónde, para cortarlo de raíz.
+
+### ✅ APROBADO, pendiente de publicar (rama `completar-fichas-prio-1` con mis correcciones; borrador preparado, sale en la próxima subida)
+- **112 fichas completadas** (las de GSC 1-25 más las de Cupra, Dacia, BMW, Mercedes, VW, Hyundai, Toyota y BYD que ya venían en esa rama). He comprobado al azar Euro NCAP del T-Cross (3★ en 2025), del Raval (4★/5★ con Safety Pack), la Vmax de 270 km/h del León VZ 325 y los datos del Ioniq 3: todo correcto. Buen trabajo con las fuentes.
+- **13 posts nuevos:** XSR900, Forza 350, YZF-R1, ADV350, CBR650R, MT-10, YZF-R9, Austral, CB750 Hornet, CB125R, X-ADV 750, Bigster y Tracer 9 GT.
+- **27 fotos generadas por IA cambiadas por fotos reales** (Stelato G9 y G9 EREV, V800, NIO ES9, Bigster, Jogger, H6 HEV, Ebro S400, Omoda 9, Austral, Kymco y Zontes). Están bien, pero **Stelato, V800 y la home los toco solo yo**. La próxima vez que veas algo ahí, me lo propones aquí y no lo cambias tú.
+
+### ✏️ Lo que corregí yo antes de publicar (no lo repitas)
+1. **Ninja 650 (foto -4):** tenía la marca de agua de un concesionario («BIKES 4 SALE»). La he quitado. No vale ninguna foto con marca de agua o logo de tienda.
+2. **YZF-R1 (galeria-4):** era la R1 de carreras del WorldSBK (decoración Pata), no la R1 de calle. La he quitado de la ficha y del post. Las fotos tienen que ser del modelo exacto de calle.
+3. **Toyota Proace Max:** tenía 5★ Euro NCAP sin prueba propia. Lo he dejado en `estrellas: null` y una nota que dice que los 5★ son de sus gemelos (Boxer y Ducato). Nunca pongas estrellas heredadas de otro modelo.
+4. **Dacia Jogger ECO-G 7 plazas:** el `analisisSlug` apuntaba a un post que ya redirige (301) a la propia ficha. Lo he quitado.
+
+### ❌ RECHAZADO (corrige y vuelve a avisar)
+1. **Posts `ebro-s400-hibrido-precio-ficha-tecnica` y `omoda-9-shs-precio-ficha-tecnica`:** esos slugs ya existían en `blog-posts-motor-nuevos-f.ts` y `blog-posts-motor-chinos-b.ts` y redirigen con 301 a la ficha (deduplicación de AdSense). Tus posts no se verían nunca. **Antes de crear un post, busca el slug en `src/lib` y en `_redirects`.** Si quieres mejorar esos modelos, amplía la ficha.
+2. **Posts `yamaha-yzf-r125-ficha-tecnica-precio` y `aprilia-rs-125-2025-ficha-tecnica-precio`:** compiten con posts que ya están publicados (`yamaha-yzf-r125-2026-precio`, `aprilia-rs-125-2026-precio` y `aprilia-rs-125-2026`) y se quitarían visitas entre ellos. **Mejora el post que ya existe** en vez de crear otro del mismo modelo.
+3. **5 fichas de prio-1 que dependían de fotos que solo están en `prio-2`** (deepal-s09, honda-cb1000-hornet, kawasaki-ninja-650, piaggio-beverly-400 y silence-s01), más el slug `byd-seal-u-dm-i-precio-ficha-tecnica`, que estaba en `blog-slugs.txt` sin ningún post. Sin las fotos, la ficha se rompía. Se revisan con prio-2. **Cada rama tiene que funcionar sola:** las fotos y los posts que usa una ficha van en la misma rama.
+4. **Caravanas lote 1 (10 fichas + 10 posts): NO se publica todavía.** Arregla esto:
+   a) **Las fotos no son oficiales.** Muchas son de concesionarios o anuncios (fachada de Ullrich, campas de concesionario, cartel de Dreamcar en las del Nugget, logo en la esquina de la Knaus Sport) y se llaman `-oficial`. Usa solo fotos de prensa del fabricante (media center o press kit) sin marcas de agua. Si una foto no es oficial, no la llames `-oficial`.
+   b) **Las fuentes no son oficiales:** Knaus Sport → truckscout24 (anuncios de segunda mano), Boxstar → nomadaslife (un anuncio, y además del «Boxstar Street 600», que no es el «600 DQ»). Cada ficha necesita la web o el catálogo oficial del modelo exacto y del año 2026.
+   c) **Faltan MMA y carnet** como datos de la ficha (no solo dentro del texto): MMA en kg, «carnet necesario (B / B96 / BE / C1)» y la carga útil con el conductor. Es la tarea 3 del plan SEO.
+   d) **Afirmaciones sin fuente** («Hymer mantiene el mejor valor de reventa del caravaning europeo», «chasis galardonado»). O pones una fuente o las quitas.
+   e) **Comprueba que las fotos del Benimar Tessoro 463 Up son de ese modelo.** En una se ve una base Fiat y en otra una Ford.
+   f) La sección (rutas `/autocaravanas/` y `/caravanas/`, el hub, las migas, el sitemap y el JSON-LD) la programo yo. Tú solo das los datos. Cuando corrijas, súbelo en la misma rama `caravanas` y avisa con «@grok lote caravanas 1 corregido».
+5. **No subas nada a `main`** (el commit 828f05e del sitemap del AMG lo subiste directamente a main). Todo va en tu rama y lo fusiono yo. El post de la filtración del AMG está fusionado con el oficial y redirige con 301; ya lo he quitado del sitemap.
+
+### ⏳ EN COLA para la próxima subida (máximo unas 50 páginas nuevas por subida mientras dure la revisión de AdSense)
+- `completar-fichas-prio-2` (25) y `completar-fichas-prio-3` (25): siguen el orden de GSC y son lo siguiente que reviso.
+- `completar-fichas-lote-A` y `completar-fichas-lote-D`: **están creadas a partir del tablón (`completar-fichas`), no de `main`**, y repiten fichas que ya publiqué hoy desde prio-1 (Cupra, Dacia, Mercedes y VW). Para que no me pises datos ya publicados: crea una rama nueva desde `origin/main` actual, lleva ahí solo lo que mejore lo publicado y avísame.
+- Caravanas lote 1, cuando esté corregido.
+
+**Regla para todo:** cada rama sale de `origin/main` actualizado (`git fetch && git checkout -b <rama> origin/main`), funciona sola, sin slugs repetidos y con todas las fotos dentro. Sigue así, que el nivel de datos ha subido mucho. 💪
