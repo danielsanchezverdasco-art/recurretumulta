@@ -7218,13 +7218,49 @@ export const MOTOS_BASE: MotoComparador[] = [
     pros: ["Bicilíndrico de 1.084 cc derivado de la Africa Twin, con 87 CV y 98 Nm", "Cambio DCT de doble embrague opcional", "Control de par HSTC con control de wheelie y 3 modos de conducción", "Asiento a solo 700 mm del suelo", "Faro full LED y estética minimalista", "Precio desde 11.250 €, contenida para su cilindrada"],
     contras: ["233 kg en orden de marcha", "Depósito de 13,6 litros: autonomía limitada", "Suspensiones básicas, solo regulables en precarga", "La pantalla TFT no llegó hasta la actualización de 2025 (LCD en 2024)", "Poco espacio para equipaje de serie"],
     curiosidades: ["Su motor deriva del bicilíndrico de la Africa Twin CRF1100L", "Es de las pocas custom con cambio automático DCT opcional", "Con 700 mm de asiento es de las custom más bajas del mercado", "La diseñó el mismo departamento de Honda en EE. UU. que la Rebel 500"],
-    imagen: "/media/motos/honda-rebel-1100-2024-ficha-tecnica-precio.webp",
-    galeria: [],
+    imagen: "/media/honda-rebel-1100-2024-ficha-tecnica-precio-1.webp",
+    galeria: [
+      {
+        src: "/media/honda-rebel-1100-2024-ficha-tecnica-precio-2.webp",
+        alt: "Honda Rebel 1100 2024, vista lateral",
+        ancho: 1024,
+        alto: 683,
+      },
+      {
+        src: "/media/honda-rebel-1100-2024-ficha-tecnica-precio-3.webp",
+        alt: "Honda CMX1100 Rebel 2024, tres cuartos delantero",
+        ancho: 1600,
+        alto: 900,
+      },
+      {
+        src: "/media/honda-rebel-1100-2024-ficha-tecnica-precio-4.webp",
+        alt: "Honda Rebel 1100 2024, detalle",
+        ancho: 734,
+        alto: 550,
+      },
+    ],
     videoId: "mdzVsSlpWpQ",
     videoCanal: "Bike Riding Adam",
     fuenteNombre: "Motorbike Magazine",
     fuenteUrl: "https://www.motorbikemag.es/ficha-tecnica/honda-cmx1100-rebel-2023/",
-    analisisSlug: null,
+    analisisSlug: "honda-rebel-1100-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 12.000 km",
+          queSeCambia: "Aceite + filtro de aceite + inspección general",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión / 24.000 km",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Plan de mantenimiento oficial Honda (intervalo estándar de la marca)",
+    },
   },
   {
     id: "kawasaki-eliminator-500-2024-ficha-tecnica-precio",
