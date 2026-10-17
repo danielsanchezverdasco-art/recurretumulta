@@ -116,4 +116,114 @@ export const AUTOCARAVANAS_DETHLEFFS: CocheComparador[] = [
     fuenteUrl:
       "https://www.dethleffs.es/dethleffs/07_ES/02_pdfs/mj26/02_motorcaravan/preisliste_motorcaravans_01-2026_es_spanisch.pdf",
   },
+  {
+    id: "dethleffs-globebus-t-6-2026-precio-ficha-tecnica",
+    marca: "Dethleffs",
+    modelo: "Globebus T 6",
+    tipo: "Autocaravana perfilada",
+    categoria: "Autocaravana",
+    precioDesde: 77000,
+    potenciaCv: 140,
+    autonomiaKm: null,
+    maleteroL: null,
+    ceroCien: null,
+    velocidadMax: null,
+    bateriaKwh: null,
+    cargaRapidaKw: null,
+    etiquetaDgt: "C",
+    garantiaBateriaAnos: null,
+    garantiaBateriaKm: null,
+    garantiaBateriaDegradacionPct: null,
+    imagen:
+      "/media/dethleffs-globebus-t-6-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial:
+      "/media/dethleffs-globebus-t-6-2026-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial:
+      "/media/dethleffs-globebus-t-6-2026-precio-ficha-tecnica-interior-oficial.webp",
+    videoId: null,
+    videoCanal: null,
+    largoMm: 6980,
+    anchoMm: 2190,
+    altoMm: 2810,
+    pesoKg: 2948,
+    consumo: null,
+    consumoUnidad: null,
+    plazas: 4,
+    parNm: null,
+    traccion: "Delantera",
+    emisionesCo2: null,
+    aprox: ["precioDesde"],
+    pros: [
+      "La perfilada compacta alemana por excelencia: 6,98 m y solo 2,19 m de ancho, ágil en ciudad y puertos",
+      "Camas gemelas traseras de 194x80 y 192x75 convertibles en maxi-doble",
+      "Masa en orden de marcha oficial de 2.948 kg: carga útil honesta hasta los 3.500 kg",
+      "Construcción Lifetime Smart sin pudrición y techo de GRP anti-granizo",
+      "Cocina de 3 fuegos y frigorífico AES de 142 l: equipamiento serio en formato compacto",
+    ],
+    contras: [
+      "3 plazas para dormir de serie: la cuarta depende de la cama central opcional",
+      "El motor base de 140 CV es suficiente pero no sobrado en puertos con carga",
+      "Baño central compacto: funcional pero sin lujos",
+      "Precio orientativo alto para una 7 metros: la compacidad se paga",
+      "Red de concesionarios Dethleffs más pequeña que la de Benimar en España",
+    ],
+    opiniones: [],
+    costeMensual: {
+      costeEnergia100km: 13,
+      precioKwh: 0.18,
+      precioGasolinaL: 1.6,
+      seguroTercerosAnual: 680,
+      seguroAmpliadoAnual: 1250,
+      mantenimientoAnual: 600,
+      costeMensualTotal: 430,
+      notas:
+        "Estimación con 12.000 km/año, consumo medio ~10 l/100 km de gasóleo y seguro a todo riesgo.",
+      estimado: true,
+    },
+    galeria: [
+      {
+        src: "/media/dethleffs-globebus-t-6-2026-precio-ficha-tecnica-oficial-2.webp",
+        alt: "Dethleffs Globebus T 6, vista lateral",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/dethleffs-globebus-t-6-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Dethleffs Globebus T 6, vista trasera tres cuartos",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/dethleffs-globebus-t-6-2026-precio-ficha-tecnica-interior-oficial.webp",
+        alt: "Interior de la Dethleffs Globebus T 6, cocina y salón",
+        ancho: 1200,
+        alto: 800,
+      },
+    ],
+    analisisSlug: "dethleffs-globebus-t-6-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo:
+        "Fiat Ducato: revisión cada 2 años o 48.000 km según plan Fiat Professional",
+      revisiones: [
+        {
+          nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",
+          queSeCambia:
+            "Aceite + filtro de aceite + filtro de polen + inspección general",
+          costeAproxEur: 380,
+        },
+        {
+          nombre: "Revisión célula Dethleffs (anual recomendada)",
+          queSeCambia:
+            "Estanqueidad, gas, electricidad, humedades y prueba de calefacción",
+          costeAproxEur: 250,
+        },
+      ],
+      costeAnualAproxEur: 620,
+      fuente: "Plan de mantenimiento Fiat Professional + recomendaciones Dethleffs",
+    },
+    euroncap: null,
+    fuenteNombre: "Dethleffs (datos técnicos oficiales) + CamperLife",
+    fuenteUrl:
+      "https://camperlife.it/notizie/dethleffs-globebus-t6-gt-i-test-di-camperlife.html",
+  },
 ];
