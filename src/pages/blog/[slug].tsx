@@ -113,7 +113,7 @@ function MarkdownContent({ content, galeria, dims }: { content: string; galeria?
         elements.push(b);
         galeriaInyectada = true;
       }
-    } else if (line.match(/^##\s*/) && line.trim().length > 2) {
+    } else if (line.match(/^##(?!#)\s*/) && line.trim().length > 2) {  // 17/10/2026: "###" ya no cae aquí (salía h2 "# …")
       if (galeria && galeria.length > 0 && !tieneMarcadorGaleria && !galeriaInyectada) {
         const b = bloqueGaleria(`galeria-auto-${i}`);
         if (b) {

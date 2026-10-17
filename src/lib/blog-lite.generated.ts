@@ -75759,7 +75759,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "multa-semaforo-en-rojo-recurrir",
     "title": "Saltarse un semáforo (200 €): cómo recurrir la multa",
-    "excerpt": "Saltarse un semáforo en rojo son 200€ y 6 puntos. Pero si la foto es ambigua o el semáforo fallaba, tienes argumentos. Te los explicamos.",
+    "excerpt": "Saltarse un semáforo en rojo son 200 € y 4 puntos. Pero si la foto es ambigua o el semáforo fallaba, tienes argumentos. Te los explicamos.",
     "category": "Tipos de Multa",
     "date": "2026-06-25",
     "locale": "es",

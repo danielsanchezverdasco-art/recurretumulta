@@ -180,6 +180,7 @@ export default function EmpresasPage() {
       "@context": "https://schema.org",
       "@type": "Product",
       "name": "Plan Empresas RecurreTuMulta.online",
+      "image": "https://recurretumulta.online/media/og-recurretumulta-online.png",
       "description": "Suscripción mensual para empresas: recursos PDF ilimitados, asistencia prioritaria sin colas, sin permanencia.",
       "offers": {
         "@type": "Offer",

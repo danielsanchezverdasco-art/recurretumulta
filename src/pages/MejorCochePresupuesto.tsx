@@ -216,6 +216,7 @@ export default function MejorCochePresupuesto() {
             item: {
               "@type": "Car",
               name: `${r.coche.marca} ${r.coche.modelo}`,
+              ...(r.coche.imagen ? { image: `https://recurretumulta.online${r.coche.imagen}` } : {}),
               offers: {
                 "@type": "Offer",
                 price: r.coche.precioDesde,

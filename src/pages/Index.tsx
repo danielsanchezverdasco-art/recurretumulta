@@ -114,6 +114,7 @@ function q() {
         .hj-headline h1{font-size:28px;font-weight:800;line-height:1.25;margin:0;text-shadow:0 2px 12px rgba(0,0,0,.8)}
         .hj-headline h1 .hl{color:#b8f56b}
         .hj-headline p{color:#e2e2da;font-size:12px;margin:10px 0 0;text-shadow:0 1px 8px rgba(0,0,0,.85)}
+        .hj-headline h1 .hj-sub{display:block;color:#e2e2da;font-size:12px;font-weight:400;line-height:1.5;margin:10px 0 0;text-shadow:0 1px 8px rgba(0,0,0,.85)}
         .hj-glow{position:absolute;z-index:4;border-radius:50%;pointer-events:none;top:158px;left:50%;width:220px;height:220px;
           margin-left:-110px;background:radial-gradient(ellipse at center,rgba(255,190,120,.20) 0%,transparent 62%);filter:blur(6px)}
         .hj-cosa{position:absolute;top:150px;left:50%;width:170px;margin-left:-85px;z-index:5}
@@ -141,6 +142,7 @@ function q() {
           .hj-headline{padding-top:52px}
           .hj-headline h1{font-size:36px}
           .hj-headline p{font-size:14px}
+          .hj-headline h1 .hj-sub{font-size:14px}
           .hj-cosa{width:200px;margin-left:-100px;top:158px}
           .hj-manos{width:200px;margin-left:-100px;top:158px}
           .hj-glow{top:166px}
@@ -223,16 +225,18 @@ function q() {
                   className: `hl`,
                   children: `Cosa rastrea el fallo`,
                 }),
-              ],
-            }),
-            (0, B.jsxs)(`p`, {
-              children: [
-                `Analiza tu sanción con IA en 2 minutos y descubre si se puede recurrir · `,
-                (0, B.jsx)(`strong`, {
-                  style: { color: `#fff` },
-                  children: `Gratis`,
+                // 17/10/2026 SEO: «recurrir multas gratis» dentro del H1, con el mismo aspecto que el antiguo <p>
+                (0, B.jsxs)(`span`, {
+                  className: `hj-sub`,
+                  children: [
+                    `Recurrir multas `,
+                    (0, B.jsx)(`strong`, {
+                      style: { color: `#fff` },
+                      children: `gratis`,
+                    }),
+                    ` con IA: analiza tu sanción en 2 minutos, sin registro`,
+                  ],
                 }),
-                `, sin registro`,
               ],
             }),
           ],

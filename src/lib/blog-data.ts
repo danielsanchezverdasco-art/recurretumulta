@@ -716,7 +716,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     locale: "es",
     title: "Saltarse un semáforo (200 €): cómo recurrir la multa",
     excerpt:
-      "Saltarse un semáforo en rojo son 200€ y 6 puntos. Pero si la foto es ambigua o el semáforo fallaba, tienes argumentos. Te los explicamos.",
+      "Saltarse un semáforo en rojo son 200 € y 4 puntos. Pero si la foto es ambigua o el semáforo fallaba, tienes argumentos. Te los explicamos.",
     category: "Tipos de Multa",
     date: "2026-06-25",
     readTime: 5,
@@ -732,7 +732,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     content: `## La multa de semáforo en rojo: lo que debes saber
 
-Saltarse un semáforo en rojo es una infracción **muy grave** según el artículo 65 de la LTSV: **200€ y 6 puntos** del carnet. Sin embargo, estas multas tienen margen de recurso cuando la prueba fotográfica es cuestionable o el procedimiento tiene defectos.
+Saltarse un semáforo en rojo es una infracción **grave** según el artículo 76.k) de la Ley de Tráfico (RDL 6/2015): **200 € y 4 puntos** del carnet (Anexo II de la misma ley). Sin embargo, estas multas tienen margen de recurso cuando la prueba fotográfica es cuestionable o el procedimiento tiene defectos.
 
 <img src=/media/semaforo-ambar-cruce-cuerpo.webp alt=Semáforo en ámbar en un cruce urbano>
 
@@ -800,7 +800,7 @@ Fuente oficial: <a href=https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722>Le
 ## Preguntas frecuentes
 
 ### ¿Cuánto es la multa por saltarse un semáforo en rojo?
-200 € y 6 puntos del carnet, según esta guía.
+200 € y 4 puntos del carnet, según el Anexo II de la Ley de Tráfico (RDL 6/2015). Con el pronto pago (20 días naturales) pagas 100 €, pero los 4 puntos se pierden igualmente.
 
 ### ¿Cruzar en ámbar es infracción?
 No: la infracción es cruzar en rojo. Si la fotografía muestra el semáforo en fase de cambio o en ámbar, la multa no es procedente.
