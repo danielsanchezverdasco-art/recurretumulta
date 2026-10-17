@@ -2492,18 +2492,6 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     costeMensual: null,
     galeria: [
       {
-        src: "/media/li-auto-l6-ficha-tecnica-precio-oficial-2.webp",
-        alt: "Li Auto L6, vista tres cuartos delantera",
-        ancho: 1200,
-        alto: 900,
-      },
-      {
-        src: "/media/li-auto-l6-ficha-tecnica-precio-oficial-3.webp",
-        alt: "Li Auto L6, vista trasera",
-        ancho: 1200,
-        alto: 675,
-      },
-      {
         src: "/media/li-auto-l6-ficha-tecnica-precio-interior-oficial-2.webp",
         alt: "Interior del Li Auto L6",
         ancho: 1200,

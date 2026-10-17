@@ -77,8 +77,6 @@ export const GALERIAS_COCHES: Record<string, FotoCarrusel[]> = {
   ],
   "li-auto-l6-ficha-tecnica-precio": [
     { src: "/media/li-auto-l6-ficha-tecnica-precio-oficial.webp", alt: "Li Auto L6, vista exterior en fotografía oficial de la marca", credito: "Foto oficial de Li Auto" },
-    { src: "/media/li-auto-l6-ficha-tecnica-precio-oficial-2.webp", alt: "Li Auto L6 en fotografía oficial de la marca", credito: "Foto oficial de Li Auto" },
-    { src: "/media/li-auto-l6-ficha-tecnica-precio-oficial-3.webp", alt: "El Li Auto L6, exterior en foto de prensa oficial", credito: "Foto oficial de Li Auto" },
     { src: "/media/li-auto-l6-ficha-tecnica-precio-interior-oficial.webp", alt: "Interior del Li Auto L6 en fotografía oficial de la marca", credito: "Foto oficial de Li Auto" },
     { src: "/media/li-auto-l6-ficha-tecnica-precio-interior-oficial-2.webp", alt: "Habitáculo del Li Auto L6 (foto oficial)", credito: "Foto oficial de Li Auto" },
   ],
