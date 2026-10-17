@@ -950,6 +950,8 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     "content": `<img src=/media/battleship-700-offroad-hero.webp alt=Todoterreno híbrido enchufable de color verde oscuro con barra de luces LED subiendo por una pista de montaña al atardecer>
 
+*Actualizado el 18 de octubre de 2026: Geely confirmó en el Salón de París 2026 que el Battleship 700 llegará a Europa en la segunda mitad de 2027.*
+
 **1.113 CV. 43.900 pedidos en una hora. Y flota en el agua.** El **Geely Galaxy Battleship 700** (Zhanjian 700 en China) es el primer todoterreno de verdad de Geely y sale a la venta en China el **10 de octubre de 2026**. Es un híbrido enchufable de **tres motores** con chasis de largueros, 305 km de autonomía eléctrica y un precio que parte de unos **26.500 € al cambio**. El Land Rover Defender tiene un problema nuevo, y se llama Battleship.
 
 ## 43.900 pedidos en 60 minutos
@@ -992,11 +994,15 @@ El creador **Solkuno** tuvo la oportunidad de llevar el Battleship 700 al límit
 
 Para verlo en acción, esta prueba completa de <a href=https://www.youtube.com/watch?v=yW7MF3kKo2Q>Solkuno en YouTube</a> lo exprime de verdad: vadeo con navegación, inclinaciones imposibles, el interior con 5 pantallas y el modo flotación, todo en español.
 
-## ¿Llegará a Europa?
+## Confirmado: llegará a Europa en la segunda mitad de 2027
 
-**De momento, no hay plan confirmado.** El Battleship 700 es un producto pensado para China, donde competirá con el **Fang Cheng Bao de BYD** y los **Tank de GWM**. La estrategia europea de Geely pasa por sus marcas occidentales (Volvo, Polestar, Lotus, smart, Zeekr), como ya contamos con el <a href=/blog/geely-galaxy-tt-berlina-electrica-china/>Geely Galaxy TT</a>. Pero con este éxito de preventa, no sería raro verlo en mercados de exportación más adelante.
+**Ya es oficial.** Geely confirmó en el **Salón del Automóvil de París 2026** que el Battleship 700 se venderá en Europa en la **segunda mitad de 2027** (en el salón se expuso como KO11, su código interno de desarrollo). Fue el debut del grupo Geely como expositor en París, con las marcas Geely, Lynk & Co y Zeekr. El precio europeo aún no se ha anunciado.
+
+La apuesta tiene lógica: en septiembre de 2026, Geely, Lynk & Co y Zeekr superaron por primera vez las **10.000 ventas mensuales en la Unión Europea**, y el grupo ya opera en 27 países europeos con más de 450 puntos de venta. El Battleship 700 también llegará a Australia.
 
 Su <a href=/coches/geely-galaxy-battleship-700-2026-precio-ficha-tecnica/>ficha técnica completa está aquí</a>, y si te van los 4x4 chinos con estética aventurera, no te pierdas <a href=/blog/fangchengbao-byd-marca-desconocida-formula-s-bao-5/>Fangchengbao, la marca secreta de BYD</a>.
+
+*Fuentes: <a href=https://carnewschina.com/2026/10/13/geely-battleship-700-will-arrive-in-europe-in-h2-2027/>CarNewsChina</a>, <a href=https://www.thesupercarblog.com/geely-battleship-700-suv-europe-paris-auto-show/>The Supercar Blog</a>, <a href=https://www.hibridosyelectricos.com/coches/10000-pedidos-en-12-minutos-43900-en-1-hora-todoterreno-hibrido-geely-1113-cv-confirma-su-venta-en-europa-en-2027_89876_102.html>Híbridos y Eléctricos</a>.*
 
 ## Preguntas frecuentes
 
@@ -1016,7 +1022,7 @@ Tiene **modo de flotación de emergencia** además de un vadeo convencional de 8
 **305 km en ciclo CLTC** (≈247 km WLTP) con su batería CATL LFP de 47,14 kWh; la combinada supera los 1.770 km CLTC.
 
 ### ¿El Battleship 700 llegará a España?
-**Sin plan confirmado.** Solo se vende en China y Geely no ha anunciado su exportación a Europa.
+Sí. Geely confirmó en el Salón del Automóvil de París 2026 que el todoterreno híbrido se venderá en Europa en la **segunda mitad de 2027**. También está prevista su llegada a Australia. El precio europeo aún no se ha anunciado.
 
 Fuentes: <a href=https://carnewschina.com/2026/09/29/geelys-1113-hp-off-roader-battleship-700-to-launch-october-10/>CarNewsChina</a>, <a href=https://cnevpost.com/2026/09/15/geely-galaxy-cruiser-700-pre-sales/>CnEVPost</a>, <a href=https://carnewschina.com/2026/09/16/geelys-first-off-road-suv-galaxy-zhanjian-700-with-1113-hp-hits-43900-pre-orders-in-one-hour/>CarNewsChina</a>, <a href=https://www.youtube.com/watch?v=yW7MF3kKo2Q>Solkuno en YouTube</a>.
 
