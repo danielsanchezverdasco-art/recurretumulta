@@ -1216,12 +1216,39 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   },
   {
     id: "xpeng-p7-electrico-precio-ficha-tecnica",
+    fuenteNombre: "Híbridos y Eléctricos",
+    fuenteUrl: "https://www.hibridosyelectricos.com/coches/xpeng-p7-precio-medidas-motor-interior-maletero_86676_102.html",
+    analisisSlug: "xpeng-p7-electrico-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin prueba EuroNCAP del P7+: el 5 estrellas de 2023 corresponde al P7 de primera generación",
+    },
+    planMantenimiento: {
+      intervalo: "20.000 km o 12 meses (lo que antes ocurra)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 20.000 km",
+          queSeCambia: "Inspección general + filtro de habitáculo + niveles (líquido de frenos, refrigerante) + actualización de software",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión 40.000 km / 24 meses",
+          queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "XPeng – programa oficial de mantenimiento (intervalo oficial de la marca)",
+    },
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
-    imagenOficial: "/media/xpeng-p7-electrico-precio-ficha-tecnica-oficial.webp",
+    imagenOficial:
+      "/media/xpeng-p7-electrico-precio-ficha-tecnica-1.webp",
     imagenInteriorOficial:
-      "/media/xpeng-p7-electrico-precio-ficha-tecnica-interior-oficial.webp",
+      "/media/xpeng-p7-electrico-precio-ficha-tecnica-4.webp",
     videoId: "npPr3nminy8",
     videoCanal: "Todos Eléctricos",
     marca: "XPeng",
@@ -1262,7 +1289,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["emisionesCo2"],
-    imagen: "/media/xpeng-p7-electrico-precio-ficha-tecnica-hero.webp",
+    imagen: "/media/xpeng-p7-electrico-precio-ficha-tecnica-1.webp",
     opiniones: [
       {
         "texto": "LR gris oscuro Silver Frost y blanco interior por 50200€ financiando.",
@@ -1296,22 +1323,22 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/xpeng-p7-electrico-precio-ficha-tecnica-oficial-2.webp",
-        "alt": "XPeng P7+ plateado de perfil en ciudad",
-        "ancho": 1200,
+        "src": "/media/xpeng-p7-electrico-precio-ficha-tecnica-2.webp",
+        "alt": "XPeng P7+ plateado, vista trasera de tres cuartos en estudio",
+        "ancho": 900,
         "alto": 600
       },
       {
-        "src": "/media/xpeng-p7-electrico-precio-ficha-tecnica-oficial-3.webp",
-        "alt": "Detalle del emblema P7+ en el XPeng P7+",
-        "ancho": 1200,
-        "alto": 905
+        "src": "/media/xpeng-p7-electrico-precio-ficha-tecnica-3.webp",
+        "alt": "XPeng P7+ plateado, frontal de tres cuartos",
+        "ancho": 500,
+        "alto": 281
       },
       {
-        "src": "/media/xpeng-p7-electrico-precio-ficha-tecnica-interior-oficial-2.webp",
-        "alt": "Interior claro del XPeng P7+ con pantalla central",
-        "ancho": 1200,
-        "alto": 720
+        "src": "/media/xpeng-p7-electrico-precio-ficha-tecnica-4.webp",
+        "alt": "Interior del XPeng P7+ con volante y pantalla central de 15,6 pulgadas",
+        "ancho": 1012,
+        "alto": 760
       }
     ],
   },

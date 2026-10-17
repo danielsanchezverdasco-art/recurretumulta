@@ -986,9 +986,9 @@ El C10 es más grande y barato; el Omoda 5 EV tiene un diseño más llamativo y 
 Fuente oficial: <a href=https://www.omodaoficial.es>web oficial de Omoda</a>.`
   },
   {
-    title: "XPeng P7+: 350 kW desde 45.990 €",
+    title: "XPeng P7+: berlina eléctrica de 455 km por 45.990 €",
     slug: "xpeng-p7-electrico-precio-ficha-tecnica",
-    excerpt: "El XPeng P7+ ya se vende en España: 455 km de autonomía y carga de 446 kW desde 45.990 €.",
+    excerpt: "El XPeng P7+ ya se vende en España: berlina eléctrica de 5,07 m, 455 km WLTP y carga ultrarrápida de 446 kW desde 45.990 €. Análisis completo.",
     category: "Novedades Motor",
     date: "2026-10-03",
     readTime: 8,
@@ -1001,73 +1001,114 @@ Fuente oficial: <a href=https://www.omodaoficial.es>web oficial de Omoda</a>.`
       "XPeng P7+ vs Tesla Model 3",
       "XPeng España lanzamiento"
     ],
-    content: `<img src=/media/xpeng-p7-electrico-precio-ficha-tecnica-hero.webp alt=Berlina eléctrica premium azul oscuro cargando en una estación de carga ultrarrápida de noche>
+    content: `<img src=/media/xpeng-p7-electrico-precio-ficha-tecnica-1.webp alt=XPeng P7+ plateado, vista delantera de tres cuartos al aire libre>
 
 **¿Buscas solo los datos?** <a href=/coches/xpeng-p7-electrico-precio-ficha-tecnica/>Ver ficha técnica del XPeng P7+</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-**XPeng** ha desembarcado oficialmente en España, y su primer golpe es el **P7+**: una berlina eléctrica de **5,07 metros** con plataforma de **800 voltios**, carga ultrarrápida de hasta **446 kW** (del 10 al 80 % en unos 12 minutos en la Long Range) y un Cx de **0,211**, de los mejores del mundo. Precios oficiales: **45.990 €** (RWD Standard Range), **49.990 €** (RWD Long Range) y **55.990 €** (AWD Performance). Los pedidos se abrieron en mayo de 2026 con entregas en junio.
+**XPeng** ha desembarcado oficialmente en España y su primer golpe sobre la mesa es el **P7+**: una berlina eléctrica de **5,07 metros** que juega en la liga de las grandes berlinas premium pero con un precio que empieza en **45.990 €**. Plataforma de **800 voltios**, carga ultrarrápida de hasta **446 kW** (del 10 al 80 % en unos 12 minutos), un Cx de **0,211** —de los mejores del mundo— y un maletero de **573 litros** con portón trasero. Los pedidos se abrieron en mayo de 2026 y las primeras entregas llegaron en junio.
 
-Dimensiones: 5.056 mm de largo, 1.937 mm de ancho, 1.512 mm de alto y 3 metros de batalla. Velocidad máxima: 200 km/h.
+No es un coche más del montón chino: XPeng es socio tecnológico del Grupo Volkswagen (que adquirió el 5 % de la compañía en 2023) y fabrica este modelo en **Europa, en la planta de Magna en Austria**. Eso cambia la conversación sobre calidades, logística de recambios y percepción de marca.
 
-## Curiosidades que quizá no sabías
+## Ficha técnica resumida: XPeng P7+
 
-- **Fabricado en Europa**: sale de la planta de **Magna en Graz (Austria)**.
-- **Cx de 0,211**: una de las mejores aerodinámicas del mundo, clave para su eficiencia.
-- **800 voltios**: la misma tecnología de carga que Porsche o Hyundai, pero por 46.000 €.
-- XPeng es una de las «tres grandes» startups chinas junto a **NIO** y Li Auto.
-- Su sistema de conducción asistida **XNGP** es de los más avanzados de China.
+| Dato | Valor |
+|---|---|
+| **Precio en España** | Desde 45.990 € (sin ayudas) |
+| **Versiones** | RWD Standard Range / RWD Long Range / AWD Performance |
+| **Potencia** | 245 CV / 313 CV / 503 CV |
+| **Autonomía WLTP** | 455 km / 530 km / 500 km |
+| **Batería** | 61,7 kWh LFP (RWD) · ~75 kWh (Performance) |
+| **Carga rápida DC** | Hasta 446 kW (10-80 % en ~12 min) |
+| **0-100 km/h** | 6,9 s (Standard Range) |
+| **Velocidad máxima** | 200 km/h (limitada) |
+| **Maletero** | 573 L (1.931 L con asientos abatidos) |
+| **Etiqueta DGT** | Cero |
 
-## Rivales directos
+¿Quieres el detalle completo? <a href=/coches/xpeng-p7-electrico-precio-ficha-tecnica/>Ficha técnica completa del XPeng P7+</a> con todos los datos.
 
-| Modelo | Autonomía | Carga DC | Precio desde |
+## Versiones y precios: tres peldaños claros
+
+La gama española es sencilla y transparente, sin packs confusos:
+
+| Versión | Potencia | Autonomía WLTP | Precio desde |
 |---|---|---|---|
-| **XPeng P7+ SR** | 455 km | 350 kW | 45.990 € |
-| Tesla Model 3 | 520 km | 250 kW | ~40.000 € |
-| BYD Seal | 520 km | 150 kW | ~47.000 € |
-| Hyundai Ioniq 6 | 614 km | 233 kW | ~48.000 € |
+| **RWD Standard Range** | 245 CV | 455 km | **45.990 €** |
+| **RWD Long Range** | 313 CV | 530 km | **49.990 €** |
+| **AWD Performance** | 503 CV | 500 km | **55.990 €** |
 
-<img src=/media/xpeng-p7-electrico-precio-ficha-tecnica-oficial.webp alt=XPeng P7+, berlina eléctrica, vista oficial>
+Todas comparten un nivel de equipamiento de serie muy alto; las diferencias están en la batería, la potencia y la tracción. La **Long Range** es probablemente la compra más redonda: 530 km WLTP (hasta 660 km en ciclo urbano) por 49.990 €. El **Performance**, con sus 503 CV y tracción total, baja de 4,5 segundos en el 0-100 y aun así homologa 500 km.
 
-<img src=/media/xpeng-p7-electrico-precio-ficha-tecnica-interior-oficial-2.webp alt=Interior oficial del xpeng p7 electrico>
+## Carga: su verdadero superpoder
 
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
+Si hay un argumento que justifica el P7+ frente a rivales más establecidos, es la carga. La arquitectura de 800 V admite picos de **446 kW en corriente continua** en las versiones Long Range y Performance: pasar del 10 al 80 % lleva unos **12 minutos** en condiciones favorables. En alterna carga a 11 kW, incluye **bomba de calor de serie**, carga bidireccional y función **V2L de 3,3 kW** para alimentar dispositivos externos. El consumo WLTP declarado es de **15,2 kWh/100 km**; en uso real los medios hablan de unos 17,5 kWh/100 km, razonable para un coche de este tamaño.
+
+<img src=/media/xpeng-p7-electrico-precio-ficha-tecnica-4.webp alt=Interior del XPeng P7+ con volante y pantalla central de 15,6 pulgadas>
+
+## Interior y maletero: pensado para vivir dentro
+
+El habitáculo apuesta por el minimalismo premium: cuadro digital de **8,8 pulgadas**, pantalla central de **15,6 pulgadas** con Apple CarPlay y Android Auto, y un head-up display de 26 pulgadas. Los asientos delanteros tienen reglajes eléctricos, calefacción, ventilación y masaje. La distancia entre ejes de **3 metros** se nota en las plazas traseras, dignas de una berlina de representación.
+
+Y el maletero rompe el molde del segmento: **573 litros** con una enorme boca de portón (no es un maletero de berlina clásica con tapa pequeña), ampliables a **1.931 litros** abatiendo los asientos. XPeng presume de que caben 33 maletas de cabina. Para un coche eléctrico de 5 metros, es una cifra extraordinaria.
+
+## ¿Para quién es el XPeng P7+?
+
+Es el coche ideal si haces **muchos kilómetros por autovía** y quieres una berlina grande sin pagar 60.000-70.000 €: la combinación de 530 km de autonomía y recargas de 12 minutos elimina el principal miedo del eléctrico en viajes largos. También encaja si vienes de una berlina premium de combustión y buscas etiqueta **Cero** para moverte por las ZBE sin restricciones. No es, en cambio, un coche de capricho urbano: con 5,07 metros, aparcar en el centro exigirá paciencia.
+
+## Rivales: duelo de berlinas eléctricas
+
+El segmento está que arde. Así queda frente a sus enemigos naturales:
+
+- <a href=/coches/tesla-model-3-gran-autonomia-traccion-trasera-2026-precio-ficha-tecnica/>Tesla Model 3 Gran Autonomía</a>: el rival a batir, con mejor red de carga propia, pero más pequeño y con menos maletero.
+- <a href=/coches/byd-seal-2024-precio-ficha-tecnica/>BYD Seal</a>: el otro chino de la contienda, muy bien resuelto y con 5 estrellas EuroNCAP, aunque con carga más lenta.
+- <a href=/coches/hyundai-ioniq-6-2025-precio-ficha-tecnica/>Hyundai Ioniq 6</a>: también con 800 V y gran eficiencia, pero con un diseño que divide opiniones y menos espacio.
+
+El P7+ se defiende con tamaño, maletero y velocidad de carga. Pierde, de momento, en red comercial y valor de reventa desconocido.
+
+<img src=/media/xpeng-p7-electrico-precio-ficha-tecnica-2.webp alt=XPeng P7+ plateado, vista trasera de tres cuartos en estudio>
 
 ## Pros y contras
 
 | ✅ Pros | ❌ Contras |
 |---|---|
-| Plataforma de 800 V con carga de 350 kW (10-80 % en ~12 min) | Marca recién llegada a España |
-| 455 km WLTP desde 45.990 € | Red de servicio mínima por ahora |
-| Maletero de 573 L y Cx de 0,211 | La berlina eléctrica grande es un nicho difícil |
-| Fabricado en Europa (Magna, Austria) | La Long Range sube a 49.990 € |
-| V2L de 3,3 kW y gran pantalla panorámica | Sin datos de consumo real todavía |
+| Carga de 446 kW: del 10 al 80 % en ~12 min | Marca recién llegada a España |
+| 455-530 km WLTP desde 45.990 € | Red de servicio mínima por ahora |
+| Maletero de 573 L con portón (1.931 L abatido) | La berlina grande es un nicho difícil |
+| Cx de 0,211, de los mejores del mundo | Valor de reventa aún desconocido |
+| Fabricado en Europa (Magna, Austria) | Sin prueba EuroNCAP específica del P7+ |
 
-## Míralo en vídeo
+## Mantenimiento y garantía
 
-<iframe src=https://www.youtube.com/embed/npPr3nminy8 title="Vídeo: 48 horas con el XPENG P7+ ❤️ Me ha enamorado" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
+Al ser eléctrico, el mantenimiento es sencillo: XPeng establece revisiones cada **20.000 km o 12 meses**, con inspección general, filtro de habitáculo, niveles y actualizaciones de software. La batería de tracción tiene **8 años o 160.000 km de garantía** con un mínimo del 70 % de capacidad. Ojo: la red de talleres en España está en construcción, así que conviene tener un servicio oficial a distancia razonable antes de firmar.
 
-Vídeo: <a href=https://www.youtube.com/watch?v=npPr3nminy8>Todos Eléctricos</a> en YouTube
+## ¿Y la seguridad?
+
+Aquí toca ser honestos: el **XPeng P7+ aún no ha pasado por EuroNCAP**. El 5 estrellas de 2023 corresponde al **P7 de primera generación**, un modelo distinto. El P7+ equipa de serie un arsenal completo (frenada automática, mantenimiento de carril, control de crucero adaptativo, cámara 360º y 7 airbags en el caso del G6 de la misma marca), pero hasta que EuroNCAP lo pruebe no hay nota oficial. Lo contaremos aquí en cuanto se publique.
+
+<img src=/media/xpeng-p7-electrico-precio-ficha-tecnica-3.webp alt=XPeng P7+ plateado, frontal de tres cuartos>
 
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el XPeng P7+ en España?
-45.990 € (Standard Range), 49.990 € (Long Range) y 55.990 € (AWD Performance). Precios oficiales de lanzamiento.
+Parte de **45.990 €** (RWD Standard Range, 245 CV), sin contar ayudas ni campañas. La Long Range cuesta 49.990 € y el Performance 55.990 €.
 
-### ¿Qué autonomía tiene el XPeng P7+?
-455 km la Standard Range, 530 km la Long Range y 500 km la AWD Performance, en ciclo WLTP.
+### ¿Qué autonomía real tiene?
+Homologa **455 km WLTP** en la versión de acceso y **530 km** en la Long Range (hasta 660 km en ciclo urbano). En uso real ronda los 380-450 km según versión y conducción.
 
 ### ¿Cuánto tarda en cargar?
-La Long Range carga a 446 kW en DC: del 10 al 80 % en unos 12 minutos. La Standard Range llega a 350 kW.
+En un cargador ultrarrápido compatible pasa del **10 al 80 % en unos 12 minutos** gracias a sus 446 kW de pico. En casa (11 kW en alterna), una carga completa lleva unas 9-10 horas.
 
-### ¿El XPeng P7+ tiene etiqueta CERO?
-Sí, es 100 % eléctrico. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+### ¿Tiene 5 estrellas EuroNCAP?
+Aún no: el P7+ **no ha sido probado por EuroNCAP**. El 5 estrellas de 2023 es del P7 anterior. Cuando haya resultados los publicaremos en la ficha.
 
-### ¿Merece la pena frente al Tesla Model 3?
-El P7+ carga más rápido (800 V) y es más grande; el Model 3 tiene mejor red de carga y más valor de reventa. Duelo de filosofías.
+### ¿Es una buena compra frente al Tesla Model 3?
+Si priorizas **espacio, maletero y velocidad de carga**, sí: es más grande y carga más rápido. Si priorizas red de servicio y valor de reventa, el Model 3 sigue por delante. <a href=/comparador-coches/>Compáralos cara a cara</a>.
 
-Con hasta 503 CV en la versión Performance, el pie derecho pesa: si te llega una <a href=https://recurretumulta.online/guias/radares>multa de radar</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
+### ¿Dónde ver todos los datos?
+En la <a href=/coches/xpeng-p7-electrico-precio-ficha-tecnica/>ficha técnica completa del XPeng P7+</a>: precio, medidas, consumos y comparativas.
 
-Fuente oficial: <a href=https://www.xpeng.com>web oficial de XPeng</a>.`
+¿Te ha llegado una denuncia de tráfico? <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: precios y versiones según <a href=https://www.hibridosyelectricos.com/coches/xpeng-p7-precio-medidas-motor-interior-maletero_86676_102.html>Híbridos y Eléctricos</a> y <a href=https://elperiodicodelaenergia.com/xpeng-abre-pedidos-en-espana-del-p7-su-nueva-berlina-electrica-con-hasta-530-km-de-autonomia/>El Periódico de la Energía</a>; datos técnicos de la <a href=/coches/xpeng-p7-electrico-precio-ficha-tecnica/>ficha técnica del XPeng P7+</a>.*`
   },
   {
     title: "Fiat Grande Panda: 320 km",
