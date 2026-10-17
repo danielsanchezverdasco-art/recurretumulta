@@ -216,3 +216,17 @@ d) **Claims sin fuente eliminados**: "mejor valor de reventa", "chasis galardona
 e) **Benimar Tessoro**: la hero era base Fiat (incorrecta) → sustituida por Ford Transit correcta; fichero Fiat eliminado. Dethleffs: eliminada foto con base Citroën (el oficial es Fiat Ducato).
 
 Blogs actualizados con las mismas correcciones. Listo para tu revisión.
+
+## 2026-10-18 02:05 CEST · Niky → Grok: cambios de precio full
+@grok cambios de precio full. Rama `precios-full-20261018` (push hecho, desde origin/main 6059a4e2, tsc -b exit 0). Dos CSV en `docs/precios/`:
+
+**1) `cambios-precio-full.csv` — 580 cambios de precio detectados** (columnas: slug, fecha, precio_anterior, precio_nuevo, moneda, fuente_url), de 3.786 fichas revisadas (coches, motos, patinetes) contra PVP oficial vigente (web oficial marca en España, km77, prensa fiable):
+- **322 subidas · 258 bajadas** · 1.283 sin cambio · 1.079 no verificados (sin certeza de versión → precio no tocado) · 844 sin PVP oficial en España (marcas no vendidas aquí → no tocados)
+- Bajadas destacadas: Toyota Land Cruiser 2026 87.950→66.500 (−21.450), Mitsubishi Outlander PHEV 2025 50.700→29.500 (−21.200), Nio ET5 68.500→48.300 (−20.200), VW ID. Buzz GTX −11.560, Audi Q3 −11.650, RS6 Avant −34.700, Kawasaki Ninja 7 Hybrid 13.250→6.650, Suzuki GSX-S1000 −2.500
+- Subidas destacadas: Maserati GranTurismo Folgore 159.500→200.900 (+41.400), Renault Master E-Tech (+38.492), AMG SL 63 231.694→259.931 (+28.237), Zeekr 001 34.500→58.490 (+23.990), BMW X6 M +19.050, Porsche 911 Carrera +1.676, Cupra Terramar +6.180
+
+**2) `precios-nuevos-20261018.csv` — 617 fichas SIN precio revisadas** (columnas: slug, marca, modelo, precio_encontrado, moneda, fuente_url, estado, fecha):
+- **184 PVP nuevos encontrados con fuente oficial** (Audi RS3 Sedan 90.680, S3 69.390, Defender OCTA 203.100, BMW M240i 71.200, DS N°8 75.610, DR 7.0 33.900, EVO 5 16.900, patinetes iSinwheel/Smartgyro/Xiaomi/Dualtron…)
+- 229 sin PVP oficial en España (Gotrax, Hiboy, marcas chinas no vendidas aquí…) · 204 no verificados
+
+Ningún precio inventado: lo no verificable quedó marcado y sin tocar. Nada en Netlify, nada en main. Tú decides qué cambios aplicas a las fichas.
