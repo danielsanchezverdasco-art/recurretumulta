@@ -490,8 +490,8 @@ export const COCHES_JAECOO: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-1.webp",
+    imagenInteriorOficial: "",
     videoId: "iwc5mIbG_1s",
     videoCanal: "Wheelsboy",
     marca: "Jaecoo",
@@ -512,12 +512,16 @@ export const COCHES_JAECOO: CocheComparador[] = [
       "181 CV y 335 km WLTP con batería de 65,69 kWh",
       "Chasis de aluminio con modo 540° de chasis transparente",
       "Interior con pantalla de 15,6\" y gran equipamiento",
+      "Tracción trasera y 220 Nm: divertido pese a su formato",
+      "Precio desde ~14.100 € en los mercados donde se vende",
     ],
     contras: [
       "No se vende en Europa: solo Latinoamérica y Asia",
       "10,5 s de 0-100: el menos prestacional de la gama",
       "Autonomía justa para su formato por la aerodinámica",
       "Sin precio para España",
+      "Sin etiqueta DGT asignada al no comercializarse en España",
+      "Red de recambios y servicio inexistente fuera de sus mercados",
     ],
     largoMm: 4406,
     anchoMm: 1910,
@@ -530,7 +534,7 @@ export const COCHES_JAECOO: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["precioDesde"],
-    imagen: "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-1.webp",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 3.06,
@@ -545,24 +549,32 @@ export const COCHES_JAECOO: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-oficial.webp",
-        "alt": "Jaecoo 6 EV, SUV eléctrico de diseño caja en vista de estudio",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-2.webp",
+        "alt": "Jaecoo 6 EV, SUV eléctrico de diseño caja en vista frontal",
+        "ancho": 800,
+        "alto": 533
       },
       {
-        "src": "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-hero.webp",
-        "alt": "Jaecoo 6 EV en pista de tierra",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-3.webp",
+        "alt": "Jaecoo 6 EV, lateral del todocamino eléctrico",
+        "ancho": 800,
+        "alto": 533
       },
       {
-        "src": "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del Jaecoo 6 EV con pantalla de 15,6 pulgadas",
-        "ancho": 1200,
-        "alto": 800
+        "src": "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-4.webp",
+        "alt": "Jaecoo 6 EV, detalle del frontal tipo Defender",
+        "ancho": 800,
+        "alto": 450
       }
     ],
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: modelo no probado",
+    },
+    fuenteNombre: "autolifethailand.tv (prensa)",
+    fuenteUrl: "https://autolifethailand.tv/official-price-discount-jaecoo-6-ev-thailand-oct-2026/",
   },
   {
     id: "jaecoo-6-ev-awd-2026-precio-ficha-tecnica",

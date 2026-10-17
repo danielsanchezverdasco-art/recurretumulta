@@ -74,6 +74,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "sherco-450-sef-factory-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m6.ts"),
     "sherco-500-sef-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m13.ts"),
     "sherco-st-250-factory-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m6.ts"),
+    "silence-s01-ficha-tecnica-precio": () => import("../blog-posts-prio2-1.ts"),
     "silence-s01-plus-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m14.ts"),
     "silence-s01-plus-baja-precio-octubre-2026": () => import("../blog-posts-flash-2026.ts"),
     "silence-s01-vs-niu-mqi-gt-evo-cual-comprar": () => import("../blog-posts-duelos-motos.ts"),

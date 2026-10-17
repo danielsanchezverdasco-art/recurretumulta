@@ -37,6 +37,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "kawasaki-ninja-500-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m20.ts"),
     "kawasaki-ninja-500-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m7.ts"),
     "kawasaki-ninja-500-se-2025-precio-ficha": () => import("../blog-posts-lote15.ts"),
+    "kawasaki-ninja-650-2024-ficha-tecnica-precio": () => import("../blog-posts-prio2-1.ts"),
     "kawasaki-ninja-650-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m7.ts"),
     "kawasaki-ninja-650-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m20.ts"),
     "kawasaki-ninja-7-hybrid-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m1.ts"),

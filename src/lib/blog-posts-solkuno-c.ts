@@ -114,7 +114,7 @@ En el día a día, sí: con 201-310 km de autonomía eléctrica cubres la semana
       "Deepal S09 vs Li Auto L9",
       "Changan Deepal España"
     ],
-    "content": `<img src=/media/deepal-s09-suv-grande.webp alt=SUV Deepal S09 de Changan, grande y lujoso, en una ciudad moderna al atardecer>
+    "content": `<img src=/media/deepal-s09-2026-precio-ficha-tecnica-1.webp alt=SUV Deepal S09 de Changan, grande y lujoso, en una ciudad moderna al atardecer>
 
 Puedes <a href=/coches/deepal-s09-2026-precio-ficha-tecnica/>ver la ficha técnica completa del Deepal S09</a> con todos los datos.
 
@@ -142,7 +142,7 @@ Puedes <a href=/coches/deepal-s09-2026-precio-ficha-tecnica/>ver la ficha técni
 - **Garantía de por vida** para el sistema eléctrico y la batería; 5 años o 100.000 km para el resto del vehículo.
 - **Cine en la segunda fila**: dos pantallas delanteras de 15,6" y una pantalla trasera desplegable de 21,4".
 - **Nevera inteligente y consola central móvil**: el interior está diseñado como un salón rodante.
-- **Tecnología Huawei dentro**: conducción asistida con LiDAR (ADS 3.x) y cabina HarmonyOS, sonido de 20 altavoces y 8 airbags.<img src=/media/deepal-s09-2026-precio-ficha-tecnica-oficial.webp alt=Deepal S09 en foto oficial del fabricante>
+- **Tecnología Huawei dentro**: conducción asistida con LiDAR (ADS 3.x) y cabina HarmonyOS, sonido de 20 altavoces y 8 airbags.<img src=/media/deepal-s09-2026-precio-ficha-tecnica-2.webp alt=Deepal S09 en foto oficial del fabricante>
 
 ## Rivales
 

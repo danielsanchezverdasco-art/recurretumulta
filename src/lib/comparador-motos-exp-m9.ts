@@ -1483,19 +1483,25 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
       "Sus estriberas son ajustables en dos posiciones",
       "El motor de 292,4 cc entrega 24,5 Nm a 7.000 rpm",
     ],
-    imagen: "/media/motos/benelli-bkx-300-s-2025-ficha-tecnica-precio-1.webp",
+    imagen: "/media/benelli-bkx-300-s-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
-        src: "/media/motos/benelli-bkx-300-s-2025-ficha-tecnica-precio-2.webp",
-        alt: "Benelli BKX 300 S 2025, detalle",
-        ancho: 1200,
-        alto: 800,
+        src: "/media/benelli-bkx-300-s-2025-ficha-tecnica-precio-2.webp",
+        alt: "Benelli BKX 300 S 2025, vista lateral",
+        ancho: 1024,
+        alto: 768,
       },
       {
-        src: "/media/motos/benelli-bkx-300-s-2025-ficha-tecnica-precio-1.webp",
-        alt: "Benelli BKX 300 S 2025, vista tres cuartos",
-        ancho: 1200,
-        alto: 800,
+        src: "/media/benelli-bkx-300-s-2025-ficha-tecnica-precio-3.webp",
+        alt: "Benelli BKX 300 S 2025, tres cuartos delantero",
+        ancho: 1024,
+        alto: 768,
+      },
+      {
+        src: "/media/benelli-bkx-300-s-2025-ficha-tecnica-precio-4.webp",
+        alt: "Benelli BKX 300 S 2025, detalle",
+        ancho: 992,
+        alto: 558,
       },
     ],
     videoId: null,
@@ -1503,6 +1509,23 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     fuenteNombre: "Benelli",
     fuenteUrl: "https://www.benelli.com",
     analisisSlug: "benelli-bkx-300-s-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "4.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión / 4.000 km",
+          queSeCambia: "Aceite 10W-40 + filtro de aceite + inspección general",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión / 12.000 km",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Plan de mantenimiento oficial Benelli (intervalo estándar de la marca)",
+    },
     mantenimientoDIY: {
       cadenaPasos: [
         "Revisa y tensa la cadena cada 1.000 km: holgura de 25-35 mm en el punto medio.",
