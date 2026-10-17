@@ -7071,13 +7071,49 @@ export const MOTOS_BASE: MotoComparador[] = [
     pros: ["4.590 €: de las retro más asequibles del mercado", "29 Nm a solo 3.000 rpm: empuja desde muy abajo", "Consumo de 2,5 l/100 km y depósito de 15 litros: hasta 600 km de autonomía", "Control de par seleccionable Honda (HSTC) de serie", "Embrague asistido con tecnología antirrebote", "178 kg en orden de marcha: ligera y manejable"],
     contras: ["Solo 21 CV: pensada para ritmo tranquilo, justa en autovía", "Caja de cambios de solo 5 velocidades", "Refrigeración por aire: mecánica sencilla", "Suspensiones simples, ajustadas al confort a baja velocidad", "Llegó a Europa en 2025, cinco años después que a India"],
     curiosidades: ["En India se vende como CB350RS desde 2020; en Europa revive la denominación GB", "Honda la diseñó para competir con Royal Enfield en el mercado indio", "Las unidades europeas son 'Made in Japan'", "Su motor de carrera larga (70 x 90,5 mm) tiene cotas casi de diésel"],
-    imagen: "/media/motos/honda-gb350s-2025-ficha-tecnica-precio.webp",
-    galeria: [],
+    imagen: "/media/honda-gb350s-2025-ficha-tecnica-precio-1.webp",
+    galeria: [
+      {
+        src: "/media/honda-gb350s-2025-ficha-tecnica-precio-2.webp",
+        alt: "Honda GB350S 2025, vista lateral",
+        ancho: 992,
+        alto: 661,
+      },
+      {
+        src: "/media/honda-gb350s-2025-ficha-tecnica-precio-3.webp",
+        alt: "Honda GB350S 2025, detalle",
+        ancho: 1200,
+        alto: 740,
+      },
+      {
+        src: "/media/honda-gb350s-2025-ficha-tecnica-precio-4.webp",
+        alt: "Honda GB350S 2025, tres cuartos",
+        ancho: 992,
+        alto: 558,
+      },
+    ],
     videoId: "x8AYUADtS38",
     videoCanal: "Jimmy Roméo",
     fuenteNombre: "MundoMotero.com",
     fuenteUrl: "https://www.mundomotero.com/motos/honda/gb350s",
-    analisisSlug: null,
+    analisisSlug: "honda-gb350s-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión / 6.000 km",
+          queSeCambia: "Aceite + filtro de aceite + inspección general",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión / 12.000 km",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujía",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Plan de mantenimiento oficial Honda (intervalo 6.000 km / 12 meses para monocilíndricos)",
+    },
   },
   {
     id: "royal-enfield-continental-gt-650-2024-ficha-tecnica-precio",
