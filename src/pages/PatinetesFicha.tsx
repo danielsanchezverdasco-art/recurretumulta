@@ -44,6 +44,10 @@ import type { PatineteComparador } from "@/lib/comparador-patinetes-data.ts";
 import type { ResenaSchemaExtra } from "@/components/ResenasVehiculo.tsx";
 
 import { loadArrayItem, loadRecordEntry } from "@/lib/data-loader-utils.ts";
+import RespuestaRapida from "@/components/geo/RespuestaRapida.tsx";
+import { datosGeoPatinete, frasesGeo, metaGeo } from "@/lib/geo-ficha.ts";
+import { useHistorialPrecios } from "@/lib/historial-precios-cargar.ts";
+import { anioModelo, productoFicha } from "@/lib/schema-ficha.ts";
 
 // 07/10/2026 (rendimiento): below-the-fold en lazy para reducir el chunk inicial.
 // 17/10/2026: historial de precios (below-the-fold, lazy).
@@ -88,6 +92,9 @@ const FILAS: Fila[] = [
 
 function Ficha({ patinete }: { patinete: PatineteComparador }) {
   const nombre = `${patinete.marca} ${patinete.modelo}`;
+  // GEO 17/10/2026: respuesta rápida (ficha + historial de precios, nada inventado).
+  const historial = useHistorialPrecios(patinete.id);
+  const geo = frasesGeo(datosGeoPatinete(patinete, nombre, historial));
   // 12/10/2026: nodos schema.org de reseñas (se fusionan en cliente cuando
   // Convex responde; en el prerender no hay datos → solo el schema base).
   const [reviewsExtra, setReviewsExtra] = useState<ResenaSchemaExtra | null>(null);
@@ -133,7 +140,7 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
       a:
         patinete.precioEur == null
           ? `El ${nombre} no tiene precio oficial publicado para España en este momento: aparece como «No publicado» en la ficha. Lo actualizaremos en cuanto la marca lo anuncie.`
-          : `El precio oficial del ${nombre} en España es de ${fmtPrecio(patinete.precioEur)}. Ten en cuenta que las tiendas pueden aplicar ofertas puntuales por debajo de ese precio.`,
+          : `${geo.faqPrecio ?? `El precio oficial del ${nombre} en España es de ${fmtPrecio(patinete.precioEur)}.`} Ten en cuenta que las tiendas pueden aplicar ofertas puntuales por debajo de ese precio.`,
     },
     {
       q: `¿Cuál es la autonomía real del ${nombre}?`,
@@ -164,21 +171,24 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
     "@graph": [
       {
         "@type": "Product",
-        name: nombre,
-        ...(patinete.fotoPendiente
-          ? {}
-          : {
-              image: [
+        ...productoFicha({
+          nombre,
+          marca: patinete.marca,
+          modelo: patinete.modelo,
+          slug: patinete.id,
+          image: patinete.fotoPendiente
+            ? undefined
+            : [
                 `https://recurretumulta.online${patinete.foto}`,
-                ...(patinete.galeria ?? []).map(
-                  (g) => `https://recurretumulta.online${g.src}`
-                ),
+                ...(patinete.galeria ?? []).map((g) => `https://recurretumulta.online${g.src}`),
               ],
-            }),
-        url: `https://recurretumulta.online/patinetes/${patinete.id}/`,
-        brand: { "@type": "Brand", name: patinete.marca },
+          url: `https://recurretumulta.online/patinetes/${patinete.id}/`,
+          precio: patinete.precioEur,
+          precioAprox: patinete.aprox.includes("precioEur"),
+          historial,
+        }),
         category: "Patinete eléctrico (VMP)",
-        description: patinete.veredicto,
+        description: [geo.frases.join(" "), patinete.veredicto].filter(Boolean).join(" "),
         ...(patinete.pesoKg != null && {
           weight: {
             "@type": "QuantitativeValue",
@@ -191,14 +201,6 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
             "@type": "QuantitativeValue",
             value: patinete.velocidadMaxKmh,
             unitText: "km/h",
-          },
-        }),
-        ...(patinete.precioEur != null && {
-          offers: {
-            "@type": "Offer",
-            price: patinete.precioEur,
-            priceCurrency: "EUR",
-            availability: "https://schema.org/InStock",
           },
         }),
       },
@@ -239,7 +241,8 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
     // SEO 07/10/2026 (metodología CTR, Daniel): fórmula ganadora
     // [Keyword] + [número] + [beneficio] + [(año)]. Siempre ≤60 car.
     title: tituloFichaPatinete(nombre, patinete),
-    description: `Ficha técnica del ${nombre}: precio, potencia, autonomía, peso, frenos, certificado DGT, pros y contras. Sin cifras inventadas.`,
+    // 17/10/2026: meta con datos reales (solo se ve si titulos.csv no trae meta para la URL).
+    description: metaGeo(datosGeoPatinete(patinete, nombre, null), "Ficha técnica, certificado DGT, pros y contras.", anioModelo(patinete.id)),
     canonical: `/patinetes/${patinete.id}/`,
     ...(patinete.fotoPendiente
       ? {}
@@ -338,6 +341,7 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
             </span>
           </div>
           <h1 className="mt-3 text-3xl font-extrabold text-gray-900 sm:text-4xl">{nombre}</h1>
+          <RespuestaRapida frases={geo.frases} />
           <p className="mt-2 text-gray-600">
             Ficha técnica completa: precio, potencia, autonomía declarada y{" "}
             <Marker>autonomía real estimada</Marker>,

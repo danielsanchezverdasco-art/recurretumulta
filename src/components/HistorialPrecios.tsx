@@ -6,24 +6,7 @@
 // Guía para añadir cambios: docs/HISTORIAL-PRECIOS.md
 import { useEffect, useRef, useState } from "react";
 
-interface PuntoGen {
-  f: string; // fecha AAAA-MM-DD
-  p: number; // precio
-  m?: string; // moneda (por defecto EUR)
-  s?: string; // fuente (por defecto: la propia ficha)
-  a?: 1; // precio aproximado
-}
-type Trozo = Record<string, PuntoGen[]>;
-
-const TROZOS = import.meta.glob<{ default: Trozo }>("../lib/historial-precios-gen/*.json");
-
-async function cargarHistorial(slug: string): Promise<PuntoGen[] | null> {
-  const ini = /^[a-z0-9]/.test(slug) ? slug[0] : "_";
-  const load = TROZOS[`../lib/historial-precios-gen/${ini}.json`];
-  if (!load) return null;
-  const mod = await load();
-  return mod.default[slug] ?? null;
-}
+import { cargarHistorial, type PuntoGen } from "@/lib/historial-precios-cargar";
 
 const fmtPrecio = (v: number, moneda = "EUR") => {
   try {

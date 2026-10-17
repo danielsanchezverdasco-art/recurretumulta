@@ -38,6 +38,10 @@ import type { MotoComparador } from "@/lib/comparador-motos-data.ts";
 import type { ResenaSchemaExtra } from "@/components/ResenasVehiculo.tsx";
 
 import { loadArrayItem, loadRecordEntry } from "@/lib/data-loader-utils.ts";
+import RespuestaRapida from "@/components/geo/RespuestaRapida.tsx";
+import { datosGeoMoto, frasesGeo, metaGeo } from "@/lib/geo-ficha.ts";
+import { useHistorialPrecios } from "@/lib/historial-precios-cargar.ts";
+import { anioModelo, productoFicha } from "@/lib/schema-ficha.ts";
 
 // 07/10/2026 (fluidez): animados below-the-fold en lazy — se cargan al hacer scroll.
 // 17/10/2026: historial de precios (below-the-fold, lazy).
@@ -97,6 +101,9 @@ const FILAS: Fila[] = [
 
 function Ficha({ moto }: { moto: MotoComparador }) {
   const nombre = `${moto.marca} ${moto.modelo}`.replace(/:+$/, "").trim();
+  // GEO 17/10/2026: respuesta rápida (ficha + historial de precios, nada inventado).
+  const historial = useHistorialPrecios(moto.id);
+  const geo = frasesGeo(datosGeoMoto({ ...moto, electrica: esMotoElectrica(moto) }, nombre, historial));
   // 13/10/2026: análisis del blog (analisisSlug o post con el mismo id); botón solo si el post existe.
   const analisisMoto = ANALISIS_MOTOS[moto.id] ?? moto.analisisSlug ?? moto.id;
   // 12/10/2026: nodos schema.org de reseñas (se fusionan en cliente cuando
@@ -153,7 +160,7 @@ function Ficha({ moto }: { moto: MotoComparador }) {
       a:
         moto.precioDesde == null
           ? `La ${nombre} aún no tiene precio confirmado para España: lo publicaremos en cuanto la marca lo anuncie.`
-          : `La ${nombre} parte de ${fmtPrecio(moto.precioDesde)}. El detalle de versiones está en la comparativa completa.`,
+          : `${geo.faqPrecio ?? `La ${nombre} parte de ${fmtPrecio(moto.precioDesde)}.`} El detalle de versiones está en la comparativa completa.`,
     },
     {
       q: `¿Qué carnet necesito para la ${nombre}?`,
@@ -194,11 +201,18 @@ function Ficha({ moto }: { moto: MotoComparador }) {
     "@graph": [
       {
         "@type": "Motorcycle",
-        name: nombre,
-        ...(moto.imagen
-          ? { image: `https://recurretumulta.online${moto.imagen}` }
-          : {}),
-        url: `https://recurretumulta.online/motos/${moto.id}/`,
+        ...productoFicha({
+          nombre,
+          marca: moto.marca,
+          modelo: moto.modelo,
+          slug: moto.id,
+          image: moto.imagen ? `https://recurretumulta.online${moto.imagen}` : undefined,
+          url: `https://recurretumulta.online/motos/${moto.id}/`,
+          descripcion: geo.frases.join(" "),
+          precio: moto.precioDesde,
+          precioAprox: moto.aprox.includes("precioDesde"),
+          historial,
+        }),
         manufacturer: { "@type": "Organization", name: moto.marca },
         vehicleConfiguration: moto.version,
         ...(moto.potenciaKw != null && {
@@ -224,14 +238,6 @@ function Ficha({ moto }: { moto: MotoComparador }) {
             "@type": "QuantitativeValue",
             value: moto.velocidadMax,
             unitText: "km/h",
-          },
-        }),
-        ...(moto.precioDesde != null && {
-          offers: {
-            "@type": "Offer",
-            price: moto.precioDesde,
-            priceCurrency: "EUR",
-            availability: "https://schema.org/InStock",
           },
         }),
       },
@@ -272,9 +278,8 @@ function Ficha({ moto }: { moto: MotoComparador }) {
     // SEO 07/10/2026 (metodología CTR, Daniel): fórmula ganadora
     // [Keyword] + [número] + [beneficio] + [(año)]. Siempre ≤60 car.
     title: tituloFichaMoto(nombre, moto),
-    description: esElectrica
-      ? `Ficha técnica de la ${nombre}: precio, autonomía, batería, carnet necesario, pros y contras, vídeo y comparativa. Sin cifras inventadas.`
-      : `Ficha técnica de la ${nombre}: precio, potencia, ${conCilindrada ? "cilindrada, " : ""}carnet necesario, etiqueta DGT, pros y contras y comparativa. Sin cifras inventadas.`,
+    // 17/10/2026: meta con datos reales (solo se ve si titulos.csv no trae meta para la URL).
+    description: metaGeo(datosGeoMoto({ ...moto, electrica: esMotoElectrica(moto) }, nombre, null), "Ficha técnica, carnet, pros y contras.", anioModelo(moto.id)),
     canonical: `/motos/${moto.id}/`,
     ...(moto.imagen ? { image: `https://recurretumulta.online${moto.imagen}` } : {}),
     type: "article",
@@ -364,6 +369,7 @@ function Ficha({ moto }: { moto: MotoComparador }) {
             </span>
           </div>
           <h1 className="mt-3 text-3xl font-extrabold text-gray-900 sm:text-4xl">{nombre}</h1>
+          <RespuestaRapida frases={geo.frases} />
           <p className="mt-2 text-gray-600">
             {esElectrica ? (
               <>
