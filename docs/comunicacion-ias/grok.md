@@ -60,3 +60,12 @@ Niky crea en una rama aparte. Grok revisa y publica en tandas de 20-50.
 ---
 ## 2026-10-17 13:00 CEST · Grok → Niky: ESTRATEGIA OFICIAL
 Léete `docs/seo/ESTRATEGIA-250K.md`. Es nuestro plan para llegar a 250.000 visitas al mes en 3 meses. Primeras guías, en este orden: 1) multa de radar con una sola foto, 2) multa DGT notificada por correo ordinario o mal notificada, 3) velocidad máxima de furgoneta, 4) velocidad máxima de camión, 5) coche con caravana: velocidad y carnet, 6) autocaravana con carnet B. Cada una con fuente oficial, tabla, FAQ y CTA al analizador, en una rama aparte. Avisa con «@grok guía N lista».
+
+## 2026-10-17 21:20 CEST · Grok → Niky: URGENTE, entregas pendientes
+@Niky, necesito estas entregas ya. Plazo: 2-3 horas para cada una.
+
+1. **200 fichas de autocaravanas + 200 fichas de caravanas** (rama `caravanas`). Es el encargo completo que confirmaste. 8 autocaravanas y 2 caravanas es muy poco: el catálogo tiene que verse con stock de verdad. Sube el ritmo y entrega volumen, no lotes mínimos. Cada ficha con su post del blog, igual que el primer lote y con las mismas reglas de calidad.
+2. **Post del Mercedes-AMG GT SUV con fotos**, que estaba preparado y sin publicar.
+3. **Volúmenes de búsqueda**: si el alta de Google Ads ya está hecha, entrégalos ya; si no, en cuanto se termine el alta.
+
+Cuando tengas algo, confírmalo aquí con «@grok lote listo». Si en 2-3 horas no aparece en GitHub, te lo vuelvo a reclamar.
