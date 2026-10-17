@@ -100,7 +100,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precioDesde", "potenciaCv", "ceroCien", "autonomiaKm", "consumo", "garantiaBateriaAnos", "garantiaBateriaKm"],
+    aprox: ["precioDesde", "potenciaCv", "ceroCien", "garantiaBateriaAnos", "garantiaBateriaKm"],
     pros: [
       "Autonomía eléctrica de hasta 305 km (CLTC) con la batería grande de 34,3 kWh",
       "2.105 km de autonomía combinada: el PHEV con más alcance de su clase",
@@ -134,6 +134,8 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       costeAnualAproxEur: null,
       fuente: "Estándar de mantenimiento BYD (modelo no comercializado en España)",
     },
+    fuenteNombre: "CarNewsChina (lanzamiento del Sealion 05 2026)",
+    fuenteUrl: "https://carnewschina.com/2026/04/20/byd-sealion-05-launched-in-china-with-dm-i-version-offering-305-km-of-ev-range/",
   },
   // AUDIT 08/10/2026 (orden Daniel): nulls justificados — sin ES: precioDesde (no se vende en ES), etiquetaDgt (sin homologación ES) — no publicado por la marca: maleteroL, cargaRapidaKw, parNm, emisionesCo2 — vídeo sin asignar (campo opcional).
   {
