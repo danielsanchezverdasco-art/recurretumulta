@@ -575,6 +575,7 @@ export const COCHES_JAECOO: CocheComparador[] = [
     },
     fuenteNombre: "autolifethailand.tv (prensa)",
     fuenteUrl: "https://autolifethailand.tv/official-price-discount-jaecoo-6-ev-thailand-oct-2026/",
+    analisisSlug: "jaecoo-6-ev-2026-precio-ficha-tecnica",
   },
   {
     id: "jaecoo-6-ev-awd-2026-precio-ficha-tecnica",
