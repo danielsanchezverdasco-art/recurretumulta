@@ -77,7 +77,7 @@ for (const sec of Object.keys(fichas)) {
     const txt = g.frases.join(" ");
     const precio = sec === "patinetes" ? x.precioEur : x.precioDesde;
     const aprox = (x.aprox ?? []).includes(sec === "patinetes" ? "precioEur" : "precioDesde");
-    const prod = L.productoFicha({ nombre, marca: x.marca, modelo: x.modelo, slug: id, url: `https://recurretumulta.online/${sec}/${id}/`, descripcion: txt, precio, precioAprox: aprox, precioOrigen: sec === "coches" ? L.PRECIO_ORIGEN[id] ?? null : null, historial: h });
+    const prod = L.productoFicha({ nombre, marca: x.marca, modelo: x.modelo, slug: id, image: x.foto ?? x.imagen ?? x.imagenUrl ?? undefined, url: `https://recurretumulta.online/${sec}/${id}/`, descripcion: txt, precio, precioAprox: aprox, precioOrigen: sec === "coches" ? L.PRECIO_ORIGEN[id] ?? null : null, historial: h });
     const ld = JSON.stringify(prod);
     {
       const url = `https://recurretumulta.online/${sec}/${id}/`, c = seoCsv.get(url);
