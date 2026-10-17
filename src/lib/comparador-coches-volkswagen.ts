@@ -2035,7 +2035,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
-    imagenOficial: "/media/volkswagen-id-tiguan-2027-galeria-1.webp",
+    imagenOficial: "/media/volkswagen-id-tiguan-1.webp",
     imagenInteriorOficial: "/media/volkswagen-id-tiguan-2027-galeria-2.webp",
     videoId: "EbxzoBJFWz4",
     videoCanal: "Auto Sensación",
@@ -2076,7 +2076,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: null,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: ["cargaRapidaKw"],
+    aprox: ["cargaRapidaKw", "precioDesde"],
     imagen: "/media/volkswagen-id-tiguan-2027-hero.webp",
     analisisSlug: "volkswagen-id-tiguan-2026-precio-ficha-tecnica",
     opiniones: [],
@@ -2093,23 +2093,23 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/volkswagen-id-tiguan-2027-hero.webp",
-        "alt": "Volkswagen ID. Tiguan eléctrico en carretera de montaña al amanecer",
-        "ancho": 1600,
-        "alto": 1066
+        src: "/media/volkswagen-id-tiguan-2.webp",
+        alt: "Volkswagen ID. Tiguan, foto 2",
+        ancho: 1600,
+        alto: 1068,
       },
       {
-        "src": "/media/volkswagen-id-tiguan-2027-galeria-1.webp",
-        "alt": "Volkswagen ID. Tiguan, vista de perfil",
-        "ancho": 1600,
-        "alto": 1066
+        src: "/media/volkswagen-id-tiguan-3.webp",
+        alt: "Volkswagen ID. Tiguan, foto 3",
+        ancho: 1280,
+        alto: 720,
       },
       {
-        "src": "/media/volkswagen-id-tiguan-2027-galeria-2.webp",
-        "alt": "Interior del Volkswagen ID. Tiguan con pantallas",
-        "ancho": 1600,
-        "alto": 1066
-      },
+        src: "/media/volkswagen-id-tiguan-4.webp",
+        alt: "Volkswagen ID. Tiguan, foto 4",
+        ancho: 1600,
+        alto: 1068,
+      }
     ],
     euroncap: {
       "estrellas": null,

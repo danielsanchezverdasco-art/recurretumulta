@@ -330,7 +330,7 @@ const COCHES_LOTE12_A: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/volkswagen-arteon-2025-precio-ficha-tecnica-2.webp",
+    imagenOficial: "/media/volkswagen-arteon-2025-precio-ficha-tecnica-1.webp",
     imagenInteriorOficial: "/media/volkswagen-arteon-2025-precio-ficha-tecnica-3.webp",
     videoId: null,
     videoCanal: null,
@@ -388,23 +388,23 @@ const COCHES_LOTE12_A: CocheComparador[] = [
     },
     galeria: [
       {
-        src: "/media/volkswagen-arteon-2025-precio-ficha-tecnica-1.webp",
-        alt: "Volkswagen Arteon Shooting Brake, familiar premium en vista frontal",
-        ancho: 1600,
-        alto: 1065,
-      },
-      {
         src: "/media/volkswagen-arteon-2025-precio-ficha-tecnica-2.webp",
-        alt: "Volkswagen Arteon, vista lateral del shooting brake de 4,87 metros",
-        ancho: 1600,
-        alto: 1194,
+        alt: "Volkswagen Arteon Shooting Brake, foto 2",
+        ancho: 768,
+        alto: 512,
       },
       {
         src: "/media/volkswagen-arteon-2025-precio-ficha-tecnica-3.webp",
-        alt: "Interior del Volkswagen Arteon con instrumentación digital",
-        ancho: 1600,
-        alto: 900,
+        alt: "Volkswagen Arteon Shooting Brake, foto 3",
+        ancho: 1280,
+        alto: 926,
       },
+      {
+        src: "/media/volkswagen-arteon-2025-precio-ficha-tecnica-4.webp",
+        alt: "Volkswagen Arteon Shooting Brake, foto 4",
+        ancho: 640,
+        alto: 480,
+      }
     ],
     analisisSlug: "volkswagen-arteon-2025-precio-autonomia",
     euroncap: {
@@ -441,7 +441,7 @@ const COCHES_LOTE12_B: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/volkswagen-touran-2025-precio-ficha-tecnica-2.webp",
+    imagenOficial: "/media/volkswagen-touran-2025-precio-ficha-tecnica-1.webp",
     imagenInteriorOficial: "/media/volkswagen-touran-2025-precio-ficha-tecnica-3.webp",
     videoId: null,
     videoCanal: null,
@@ -499,23 +499,23 @@ const COCHES_LOTE12_B: CocheComparador[] = [
     },
     galeria: [
       {
-        src: "/media/volkswagen-touran-2025-precio-ficha-tecnica-1.webp",
-        alt: "Volkswagen Touran 2025, monovolumen familiar de 7 plazas",
-        ancho: 1600,
-        alto: 1108,
-      },
-      {
         src: "/media/volkswagen-touran-2025-precio-ficha-tecnica-2.webp",
-        alt: "Volkswagen Touran, vista lateral del monovolumen alemán",
-        ancho: 1600,
-        alto: 1000,
+        alt: "Volkswagen Touran, foto 2",
+        ancho: 1200,
+        alto: 676,
       },
       {
         src: "/media/volkswagen-touran-2025-precio-ficha-tecnica-3.webp",
-        alt: "Interior del Volkswagen Touran con 7 plazas modulables",
-        ancho: 1600,
-        alto: 844,
+        alt: "Volkswagen Touran, foto 3",
+        ancho: 1200,
+        alto: 676,
       },
+      {
+        src: "/media/volkswagen-touran-2025-precio-ficha-tecnica-4.webp",
+        alt: "Volkswagen Touran, foto 4",
+        ancho: 1200,
+        alto: 676,
+      }
     ],
     analisisSlug: "volkswagen-touran-2025-precio-autonomia",
     euroncap: {

@@ -26,7 +26,6 @@
 /coches/chery-explorer-06-2024-precio-ficha-tecnica/
 /coches/dr-3-0-2025-precio-ficha-tecnica/
 /coches/maserati-grecale-2027-precio-ficha-tecnica/
-/coches/volkswagen-tayron-20-tsi-2026-precio-ficha-tecnica/
 /coches/kgm-musso-diesel-2026-precio-ficha-tecnica/
 /coches/rolls-royce-droptail-2024-precio-ficha-tecnica/
 /coches/jetour-t1-2025-precio-ficha-tecnica/
@@ -113,7 +112,6 @@
 /coches/stelato-g9-2026-precio-ficha-tecnica/
 /coches/exeed-vx-2025-precio-ficha-tecnica/
 /coches/tank-300-hooke-trail-2026-precio-ficha-tecnica/
-/coches/volkswagen-golf-gti-clubsport-2026-precio-ficha-tecnica/
 /coches/koenigsegg-gemera-2025-precio-ficha-tecnica/
 /coches/donkervoort-f22-2025-precio-ficha-tecnica/
 /coches/gwm-poer-2024-precio-ficha-tecnica/
@@ -238,7 +236,6 @@
 /coches/luxeed-r7-2025-precio-ficha-tecnica/
 /coches/cupra-raval-plus-2026-precio-ficha-tecnica/
 /coches/chery-tiggo-x-2027-precio-ficha-tecnica/
-/coches/volkswagen-tiguan-15-etsi-2026-precio-ficha-tecnica/
 /coches/chausson-640-2026/
 /coches/ferrari-sf90-xx-stradale-2025-precio-ficha-tecnica/
 /coches/denza-z-racing-2026-precio-ficha-tecnica/
@@ -404,7 +401,6 @@
 /coches/subaru-solterra-2026-precio-ficha-tecnica/
 /coches/leapmotor-d19-2026-precio-ficha-tecnica/
 /coches/honda-super-n-ev-2026-precio-ficha-tecnica/
-/coches/volkswagen-arteon-2025-precio-ficha-tecnica/
 /coches/aito-m7-2026-precio-ficha-tecnica/
 /coches/bentley-flying-spur-azure-2026-precio-ficha-tecnica/
 /coches/chery-arrizo-8-2024-precio-ficha-tecnica/
@@ -547,7 +543,6 @@
 /coches/jac-qx-2025-precio-ficha-tecnica/
 /coches/radical-sr3-xxr-2025-precio-ficha-tecnica/
 /coches/livan-s6-pro-2024-precio-ficha-tecnica/
-/coches/volkswagen-golf-variant-r-line-20-tsi-2026-precio-ficha-tecnica/
 /coches/exeed-lx-c-dm-2024-precio-ficha-tecnica/
 /coches/bmw-ix3-40-2026-precio-ficha-tecnica/
 /coches/lexus-lbx-2026-precio-ficha-tecnica/
@@ -616,7 +611,6 @@
 /coches/iveco-daily-2025/
 /coches/jetour-x70-pro-2024-precio-ficha-tecnica/
 /coches/aixam-d-truck-furgon-van-2025-precio-ficha-tecnica/
-/coches/volkswagen-touran-2025-precio-ficha-tecnica/
 /coches/avatr-07-2024-precio-ficha-tecnica/
 /coches/lexus-lc-500-cabrio-2025-precio-ficha-tecnica/
 /coches/radical-sr1-xxr-2025-precio-ficha-tecnica/
@@ -639,7 +633,6 @@
 /coches/renault-master-23-dci-180-2026-precio-ficha-tecnica/
 /coches/cupra-raval-endurance-2026-precio-ficha-tecnica/
 /coches/bmw-m440i-xdrive-2025-precio-ficha-tecnica/
-/coches/volkswagen-t-cross-15-tsi-2026-precio-ficha-tecnica/
 /coches/ligier-myli-diesel-2025-precio-ficha-tecnica/
 /coches/geely-preface-2025-precio-ficha-tecnica/
 /coches/invicta-pocco-2025-precio-ficha-tecnica/
@@ -653,7 +646,6 @@
 /coches/nio-ec7-2024-precio-ficha-tecnica/
 /coches/renault-kangoo-blue-dci-95-2024-precio-ficha-tecnica/
 /coches/cupra-leon-vz-300-2025-precio-ficha-tecnica/
-/coches/volkswagen-id-tiguan/
 /coches/hongqi-hs3-2023-precio-ficha-tecnica/
 /coches/neta-s-shooting-brake-2024-precio-ficha-tecnica/
 /coches/citroen-ami-cargo-2026-precio-ficha-tecnica/
