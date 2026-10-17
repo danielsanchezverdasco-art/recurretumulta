@@ -1,16 +1,9 @@
 # Descarga a dist/ una copia EXACTA de toda la web publicada (html, js, media) del deploy publicado (necesario antes de publicar).
 # Uso: NETLIFY_AUTH_TOKEN=... python3 scripts/bajar-media.py
-import json,os,sys,urllib.request,urllib.parse,concurrent.futures as cf
-SITE="438b74cf-d05a-4685-9de8-7bf56a1ef7ee"
-T=os.environ.get("NETLIFY_AUTH_TOKEN")
-if T:
-    H={"Authorization":"Bearer "+T}
-    get=lambda u:urllib.request.urlopen(urllib.request.Request(u,headers=H),timeout=120).read()
-else:
-    # Sin token crudo: usar la credencial conectada custom.netlify (surrogate).
-    sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__))))
-    from netlify_surrogate import authed_request
-    get=lambda u:urllib.request.urlopen(authed_request(u),timeout=120).read()
+import json,os,urllib.request,urllib.parse,concurrent.futures as cf
+SITE="438b74cf-d05a-4685-9de8-7bf56a1ef7ee";T=os.environ["NETLIFY_AUTH_TOKEN"]
+H={"Authorization":"Bearer "+T}
+get=lambda u:urllib.request.urlopen(urllib.request.Request(u,headers=H),timeout=120).read()
 site=json.loads(get(f"https://api.netlify.com/api/v1/sites/{SITE}"));dep=site["published_deploy"]["id"]
 ORIG=f"https://{dep}--{site['name']}.netlify.app"  # directo a Netlify, sin Cloudflare
 print("deploy en vivo",dep,flush=True)

@@ -5,22 +5,12 @@
 import hashlib,json,os,sys,time,urllib.request,urllib.parse,concurrent.futures as cf
 ARGS=[a for a in sys.argv[1:] if not a.startswith("--")];ALLOW_REMOVALS="--allow-removals" in sys.argv
 if not ARGS: sys.exit("Uso: python3 scripts/deploy_api.py <deploy_id> [--allow-removals]")
-SITE="438b74cf-d05a-4685-9de8-7bf56a1ef7ee";D=ARGS[0];ROOT=os.path.join(os.path.dirname(os.path.abspath(__file__)),"..","dist")
-T=os.environ.get("NETLIFY_AUTH_TOKEN")
-if T:
-    H={"Authorization":"Bearer "+T}
-    def _mkreq(url,data,ctype):
-        return urllib.request.Request(url,method="x",data=data,headers={**H,"Content-Type":ctype})
-else:
-    # Sin token crudo: usar la credencial conectada custom.netlify (surrogate).
-    sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__))))
-    from netlify_surrogate import authed_request
-    def _mkreq(url,data,ctype):
-        return authed_request(url, data=data, content_type=ctype)
+SITE="438b74cf-d05a-4685-9de8-7bf56a1ef7ee";D=ARGS[0];T=os.environ["NETLIFY_AUTH_TOKEN"];ROOT=os.path.join(os.path.dirname(os.path.abspath(__file__)),"..","dist")
+H={"Authorization":"Bearer "+T}
 def api(method,url,data=None,ctype="application/json",timeout=600):
     for i in range(5):
         try:
-            r=_mkreq(url,data,ctype); r.method=method
+            r=urllib.request.Request(url,method=method,data=data,headers={**H,"Content-Type":ctype})
             b=urllib.request.urlopen(r,timeout=timeout).read(); return json.loads(b) if b else {}
         except urllib.error.HTTPError as e:
             if e.code in (400,401,403,404,422): raise
