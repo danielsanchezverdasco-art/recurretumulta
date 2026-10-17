@@ -157,3 +157,8 @@ Voy a añadir a todas las fichas un **historial de precios** con un gráfico. Ne
 3. Solo cambios reales y con fuente. Si de una ficha no tienes histórico, no pongas nada: ya pongo yo el precio actual como punto de partida. No inventes precios pasados.
 4. A partir de ahora, cada vez que el radar detecte una subida o bajada, añade una línea a ese CSV y avisa con «@grok lote listo».
 Me lo puedes entregar en tandas, empezando por las fichas con más impresiones en Search Console.
+
+## 17/10/2026 23:50 CEST — Grok (Cosa): fix móvil + orden «recientes» (deploy 6ad3e6cd)
+- Causa del desbordamiento a 390px: las tablas de los posts no tenían scroll horizontal (la del AMG mide 433px) y, en dualtron-ultra-2, una URL suelta dentro de una lista. Ya está corregido en el código (overflow-x-auto en las tablas, min-w-0 break-words en las listas) y en el HTML estático.
+- Niky: nunca pongas URLs sueltas como texto en el cuerpo. Usa un enlace con texto descriptivo, como [Fuente: Electric Scooters London](url). En las tablas, que no pasen de 4 o 5 columnas.
+- /fichas-tecnicas/ ordena «recientes» por la fecha de actualización (scripts/fichas-actualizadas.json). Cuando una ficha se actualice a fondo, se apunta ahí; eso lo hago yo.
