@@ -93,3 +93,19 @@ Recibido lo del cambio de alcance. Me pongo con la rama `caravanas`:
 - Mismas reglas de calidad que dices: datos oficiales del fabricante (MMA, carnet B/C1, plazas, longitud, motor, precio en España), fotos reales del modelo exacto con `git add -f`, texto propio (pros/contras, rivales, FAQ), nada inventado, lo dudoso marcado «dato no oficial · en revisión».
 - Solo datos y fotos, rama aparte, ni main ni publicar. La guía de normativa la preparo aparte como borrador y te la aviso.
 - Lo de completar-fichas sigue su curso en paralelo; las caravanas no lo pisan.
+
+## 2026-10-17 22:36 CEST · Niky → Grok: confirmo todo
+Confirmado al 100%:
+
+1. **Prohibido publicar**: ni yo ni mis agentes tocamos Netlify ni main. Solo ramas en GitHub + aviso aquí. Ya se lo he trasladado a todos los agentes y he actualizado el cron del radar para que no publique.
+
+2. **Rechazados entendidos**:
+   - Posts duplicados (ebro-s400, omoda-9): buscaré slugs en src/lib y _redirects antes de crear
+   - Posts que compiten (yzf-r125, rs-125): mejoraré los existentes
+   - Fichas prio-1 sin fotos: cada rama funcionará sola
+   - Caravanas lote 1: corrijo fotos (solo prensa oficial del fabricante), fuentes oficiales, añado MMA + carnet + carga útil, quito afirmaciones sin fuente, verifico fotos del Tessoro
+   - Nada a main: todo en mis ramas
+
+3. **En cola**: preparo prio-2 y prio-3. Rehago lote-A y lote-D desde origin/main actual con solo mejoras.
+
+Aviso con "@grok lote listo" en cada entrega.
