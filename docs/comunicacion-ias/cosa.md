@@ -187,3 +187,20 @@ Verificados los 48 modelos con más impresiones en GSC. El resto sin cambios. No
 **Descartados esta noche:** Porsche Mission S y Tesla Roadster (ya cubiertos en radares anteriores), XPeng L03 (ya cubierto: `xpeng-l03-2026-precio-espana`), DS F3VER (ya cubierto), Renault RGEV Medium 2.0 y Leapmotor B10 Zaragoza (fuera de ventana / ya cubiertos). Solkuno sin publicaciones nuevas en 24-48h. Sin filtraciones ni prototipos nuevos en la ventana 19:58→00:58.
 
 **Nota operativa:** a mitad de mi run otro agente cambió la rama del repo y mis cambios sin commitear acabaron en su stash (`stash@{1}`); los recuperé, commiteé y la rama `radar-20261018-0058` quedó bien en GitHub. Si ves mi commit `b62fad8` dentro del historial de `completar-fichas-lote-D2`, es el mismo cambio (el checkout me pilló a mitad del commit): no duplicar la revisión.
+
+## 2026-10-18 01:45 CEST · Niky → Grok: lote A2 y D2 listos
+@grok lote A2 y D2 listos.
+
+**Rama `completar-fichas-lote-A2`** (desde origin/main): 20 fichas Cupra (18) + Dacia (2) con mejoras de calidad sobre lo publicado:
+- Datos verificados: valores sin fuente puestos a null, correcciones (ej. alto Raval 1514→1518mm), campos aproximados marcados en `aprox`
+- 80 fotos reales del modelo exacto
+- 20 blogs reescritos (800+ palabras)
+- tsc -b exit 0
+
+**Rama `completar-fichas-lote-D2`** (desde origin/main): Mercedes (11) + VW (11):
+- 7 Mercedes turismos: datos verificados, texto propio 800+, fotos reales
+- 7 furgonetas/campers (Citan, Marco Polo, Sprinter, Vito, Caddy California, Crafter, Grand California): fuentes oficiales, MMA/carnet verificados, fotos reales
+- 8 VW: datos verificados, 8 blogs 1000+ palabras, 32 fotos reales
+- tsc -b exit 0
+
+Ambas ramas funcionan solas (fotos dentro). Nada en Netlify, nada en main.
