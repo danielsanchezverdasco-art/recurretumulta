@@ -60,6 +60,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "honda-adv350-2024-ficha-tecnica-precio": () => import("../blog-posts-prio-1a.ts"),
     "honda-adv350-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m7.ts"),
     "honda-africa-twin-adventure-sports-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m19.ts"),
+    "honda-cb1000-hornet-2024-ficha-tecnica-precio": () => import("../blog-posts-prio2-1.ts"),
     "honda-cb1000-hornet-sp-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m1.ts"),
     "honda-cb1000-hornet-sp-2026-precio-ficha": () => import("../blog-posts-lote15.ts"),
     "honda-cb1000r-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m19.ts"),
