@@ -5,7 +5,7 @@ import type { BlogPost } from "./blog-data.ts";
 
 export const MOTOS_EXP_M7_POSTS: BlogPost[] = [
   {
-    "title": "Honda CBR600RR 2025: precio y ficha técnica",
+    "title": "CBR600RR 2025: precio y ficha técnica",
     "slug": "honda-cbr600rr-2025-ficha-tecnica-precio",
     "excerpt": "La Honda CBR600RR 2025 desde 12.700 €: 121 CV, 193 kg, alerones, IMU y ABS en curva. Ficha técnica, precio en España y etiqueta DGT.",
     "category": "Novedades Motor",
