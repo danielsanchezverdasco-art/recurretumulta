@@ -51,6 +51,10 @@ import type { CocheComparador } from "@/lib/comparador-coches-data.ts";
 import type { ResenaSchemaExtra } from "@/components/ResenasVehiculo.tsx";
 
 import { loadArrayItem, loadRecordEntry } from "@/lib/data-loader-utils.ts";
+import RespuestaRapida from "@/components/geo/RespuestaRapida.tsx";
+import { datosGeoCoche, frasesGeo, metaGeo } from "@/lib/geo-ficha.ts";
+import { useHistorialPrecios } from "@/lib/historial-precios-cargar.ts";
+import { PRECIO_ORIGEN, anioModelo, productoFicha } from "@/lib/schema-ficha.ts";
 
 // 07/10/2026 (rendimiento): componentes below-the-fold en lazy para reducir
 // el chunk inicial de la ficha (era 1,6MB). Se cargan al hacer scroll.
@@ -177,6 +181,9 @@ const FILAS: Fila[] = [
 
 function Ficha({ coche }: { coche: CocheComparador }) {
   const nombre = `${coche.marca} ${coche.modelo}`;
+  // GEO 17/10/2026: respuesta rápida (ficha + historial de precios, nada inventado).
+  const historial = useHistorialPrecios(coche.id);
+  const geo = frasesGeo(datosGeoCoche(coche, nombre, historial, PRECIO_ORIGEN[coche.id] ?? null));
   // 12/10/2026: nodos schema.org de reseñas (se fusionan en cliente cuando
   // Convex responde; en el prerender no hay datos → solo el schema base).
   const [reviewsExtra, setReviewsExtra] = useState<ResenaSchemaExtra | null>(null);
@@ -268,7 +275,7 @@ function Ficha({ coche }: { coche: CocheComparador }) {
       a:
         coche.precioDesde == null
           ? `El ${nombre} aún no tiene precio confirmado para España: lo publicaremos en cuanto la marca lo anuncie. Tienes el detalle de las versiones disponibles en el análisis completo.`
-          : `El ${nombre} parte de ${fmtPrecio(coche.precioDesde)}. El desglose por versiones y acabados, con y sin ayudas, está en el análisis completo del modelo.`,
+          : `${geo.faqPrecio ?? `El ${nombre} parte de ${fmtPrecio(coche.precioDesde)}.`} El desglose por versiones y acabados, con y sin ayudas, está en el análisis completo del modelo.`,
     },
     {
       q: `¿Cuál es la autonomía del ${nombre}?`,
@@ -305,9 +312,19 @@ function Ficha({ coche }: { coche: CocheComparador }) {
     "@graph": [
       {
         "@type": "Car",
-        name: nombre,
-        ...(seoImage ? { image: seoImage } : {}),
-        url: `https://recurretumulta.online/coches/${coche.id}/`,
+        ...productoFicha({
+          nombre,
+          marca: coche.marca,
+          modelo: coche.modelo,
+          slug: coche.id,
+          image: seoImage,
+          url: `https://recurretumulta.online/coches/${coche.id}/`,
+          descripcion: geo.frases.join(" "),
+          precio: coche.precioDesde,
+          precioAprox: coche.aprox.includes("precioDesde"),
+          precioOrigen: PRECIO_ORIGEN[coche.id] ?? null,
+          historial,
+        }),
         manufacturer: { "@type": "Organization", name: coche.marca },
         bodyType: coche.categoria,
         fuelType: coche.tipo,
@@ -348,14 +365,6 @@ function Ficha({ coche }: { coche: CocheComparador }) {
             "@type": "QuantitativeValue",
             value: coche.velocidadMax,
             unitText: "km/h",
-          },
-        }),
-        // 17/10/2026: Offer solo con precio real y con imagen (Google exige name+image); sin availability: no vendemos.
-        ...(coche.precioDesde != null && !!seoImage && {
-          offers: {
-            "@type": "Offer",
-            // Precio real en origen cuando solo hay conversión (p. ej. Stelato G9, China)
-            ...(PRECIO_ORIGEN[coche.id] ?? { price: coche.precioDesde, priceCurrency: "EUR" }),
           },
         }),
       },
@@ -399,7 +408,8 @@ function Ficha({ coche }: { coche: CocheComparador }) {
     datePublished: fechas.publicado,
     dateModified: fechas.actualizado,
     title: tituloSeo,
-    description: `Ficha técnica del ${nombre}: precio, potencia, autonomía, batería, maletero, etiqueta DGT, pros y contras, vídeo y análisis.`,
+    // 17/10/2026: meta con datos reales (solo se ve si titulos.csv no trae meta para la URL).
+    description: metaGeo(datosGeoCoche(coche, nombre, null, PRECIO_ORIGEN[coche.id] ?? null), "Ficha técnica, etiqueta DGT, pros y contras.", anioModelo(coche.id)),
     canonical: `/coches/${coche.id}/`,
     image: seoImage,
     type: "article",
@@ -500,6 +510,7 @@ function Ficha({ coche }: { coche: CocheComparador }) {
             )}
           </div>
           <h1 className="mt-3 text-3xl font-extrabold text-gray-900 sm:text-4xl">{nombre}</h1>
+          <RespuestaRapida frases={geo.frases} />
           <p className="mt-2 text-gray-600">
             Ficha técnica completa: precio, potencia, <Marker>autonomía</Marker>,{" "}
             <Marker>batería</Marker>, maletero y <Marker>etiqueta DGT</Marker>, con puntos
@@ -1146,9 +1157,6 @@ function Ficha({ coche }: { coche: CocheComparador }) {
   );
 }
 
-const PRECIO_ORIGEN: Record<string, { price: number; priceCurrency: string }> = {
-  "stelato-g9-2026-precio-ficha-tecnica": { price: 479800, priceCurrency: "CNY" },
-};
 
 export default function CochesFichaPage() {
   const { slug = "" } = useParams<{ slug: string }>();
