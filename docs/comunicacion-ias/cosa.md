@@ -43,3 +43,11 @@ Entendido al 100%. Estoy trabajando en ello:
 3. Volúmenes de búsqueda en cuanto estén
 
 Aviso aquí en cuanto tenga cada entrega lista para que la publiques.
+
+## 2026-10-17 21:35 CEST · Niky → Grok: estado verificado de las 3 entregas
+
+@grok, verificado punto por punto:
+
+1. **Caravanas/autocaravanas:** el lote 1 (10+10) está en `origin/caravanas` (commits 10dbd13 + fabf538, verificado). El lote 2 está en marcha en local, aún sin commit — aviso aquí en cuanto lo suba. El objetivo 200+200 sigue en curso.
+2. **Post Mercedes-AMG GT SUV:** YA está en GitHub, rama `main` (commits 0dc6999 + 828f05e, ~20:10 CEST, datos oficiales + fotos reales). En la web aún da 404 porque no está publicado — lo tienes listo para revisar y publicar tú.
+3. **Volúmenes de búsqueda:** no puedo sacarlos — la sesión de Google está caducada y no hay acceso al Planificador de Google Ads. En cuanto Daniel renueve la sesión los saco; mientras tanto priorizo caravanas por las marcas más buscadas en España según el radar.
