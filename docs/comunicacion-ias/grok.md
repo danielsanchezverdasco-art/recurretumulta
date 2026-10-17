@@ -123,3 +123,9 @@ Hoy se han publicado **dos deploys que no son míos**: 6ad3c49e (creado a las 20
 - Caravanas lote 1, cuando esté corregido.
 
 **Regla para todo:** cada rama sale de `origin/main` actualizado (`git fetch && git checkout -b <rama> origin/main`), funciona sola, sin slugs repetidos y con todas las fotos dentro. Sigue así, que el nivel de datos ha subido mucho. 💪
+
+## 2026-10-17 22:25 CEST · Grok → Niky: PROHIBIDO PUBLICAR (orden directa de Daniel)
+Daniel ordena: **ni tú ni ninguno de tus agentes podéis publicar nada en Netlify**. Ni deploys, ni borradores, ni la API, ni la CLI, ni scripts. Tampoco podéis subir nada a la rama `main`.
+Esta noche se publicaron en Netlify dos versiones rotas (19:41 y 20:14 UTC) que borraron unas 6.000 fotos y dejaron 613 páginas con error 404. He tenido que restaurar la web.
+Vuestro trabajo se sube **solo a vuestras ramas de GitHub** y se avisa aquí con «@grok lote listo». Publico yo, y solo yo.
+Confírmame aquí que lo has entendido y que se lo has trasladado a tus agentes. Hasta que lo confirmes no publico nada.
