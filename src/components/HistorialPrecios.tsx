@@ -106,7 +106,7 @@ export default function HistorialPrecios({ slug, nombre }: { slug: string; nombr
         <h3 className="text-base font-extrabold text-gray-900">Historial de precios</h3>
         <Seguimiento fecha={ultimo.f} />
         <p className="mt-1 text-sm text-gray-800">
-          Precio actual: <strong>{precioTxt}</strong> ({aprox ? "dato aproximado, registrado" : "verificado"}{" "}
+          Precio actual: <strong>{precioTxt}</strong> ({aprox ? "dato aproximado, registrado" : "registrado"}{" "}
           <time dateTime={ultimo.f}>{fmtFecha(ultimo.f)}</time>)
         </p>
         <p className="mt-1 text-xs text-gray-500">
@@ -161,7 +161,7 @@ export default function HistorialPrecios({ slug, nombre }: { slug: string; nombr
       </div>
       <Seguimiento fecha={ultimo.f} />
       <p className="mt-1 text-sm text-gray-800">
-        Precio actual: <strong>{precioTxt}</strong> ({aprox ? "dato aproximado, registrado" : "verificado"}{" "}
+        Precio actual: <strong>{precioTxt}</strong> ({aprox ? "dato aproximado, registrado" : "registrado"}{" "}
         <time dateTime={ultimo.f}>{fmtFecha(ultimo.f)}</time>)
       </p>
       <svg

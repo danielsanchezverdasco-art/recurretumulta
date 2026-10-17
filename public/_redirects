@@ -1,4 +1,7 @@
 # avatr-12 2026 -> ficha vigente (17/10/2026)
+# 18/10/2026: misma moto publicada dos veces (Stark Varg EX): una sola URL
+/motos/stark-varg-ex-2025-ficha-tecnica-precio/ /motos/stark-future-varg-ex-2025-ficha-tecnica-precio/ 301!
+/motos/stark-varg-ex-2025-ficha-tecnica-precio /motos/stark-future-varg-ex-2025-ficha-tecnica-precio/ 301!
 /coches/avatr-12-2026-precio-ficha-tecnica/ /coches/avatr-12-2024-precio-ficha-tecnica/ 301!
 /coches/avatr-12-2026-precio-ficha-tecnica /coches/avatr-12-2024-precio-ficha-tecnica/ 301!
 # 13/10/2026: /index.html duplicaba la portada
@@ -1109,8 +1112,8 @@
 /motos/silence-s01-plus-2025-ficha-tecnica-precio /motos/silence-s01-plus-ficha-tecnica-precio/ 301!
 /motos/silence-s03-2025-ficha-tecnica-precio/ /motos/silence-s03-2026-ficha-tecnica-precio/ 301!
 /motos/silence-s03-2025-ficha-tecnica-precio /motos/silence-s03-2026-ficha-tecnica-precio/ 301!
-/motos/stark-varg-ex-factory-edition-2026-ficha-tecnica-precio/ /motos/stark-varg-ex-2025-ficha-tecnica-precio/ 301!
-/motos/stark-varg-ex-factory-edition-2026-ficha-tecnica-precio /motos/stark-varg-ex-2025-ficha-tecnica-precio/ 301!
+/motos/stark-varg-ex-factory-edition-2026-ficha-tecnica-precio/ /motos/stark-future-varg-ex-2025-ficha-tecnica-precio/ 301!
+/motos/stark-varg-ex-factory-edition-2026-ficha-tecnica-precio /motos/stark-future-varg-ex-2025-ficha-tecnica-precio/ 301!
 /motos/super-soco-cpx-2025-ficha-tecnica-precio/ /motos/super-soco-cpx-ficha-tecnica-precio/ 301!
 /motos/super-soco-cpx-2025-ficha-tecnica-precio /motos/super-soco-cpx-ficha-tecnica-precio/ 301!
 /motos/super-soco-tc-max-2025-ficha-tecnica-precio/ /motos/super-soco-tc-max-2026-ficha-tecnica-precio/ 301!

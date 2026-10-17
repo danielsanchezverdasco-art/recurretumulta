@@ -56,7 +56,7 @@ export function frasesGeo(d: DatosGeo): { frases: string[]; faqPrecio: string | 
   // El historial solo se cita si su último punto coincide con el precio de la ficha.
   const histOk = !!ult && ok(d.precio) && ult.p === d.precio && (ult.m ?? "EUR") === "EUR";
   if (ok(d.precio)) {
-    const verif = histOk ? ` (${d.precioAprox ? "dato registrado" : "precio verificado"} el ${fecha(ult.f)})` : "";
+    const verif = histOk ? ` (${d.precioAprox ? "dato registrado" : "precio registrado"} el ${fecha(ult.f)})` : "";
     const del = `${d.articulo === "El" ? "del" : "de la"} ${d.nombre}`;
     if (d.precioOrigen && ok(d.precioOrigen.price) && d.precioOrigen.priceCurrency !== "EUR") {
       const mon = MON[d.precioOrigen.priceCurrency] ?? d.precioOrigen.priceCurrency;
