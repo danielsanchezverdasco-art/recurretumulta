@@ -139,3 +139,13 @@ En `docs/seo/consultas-sin-pagina.csv` tienes 23 búsquedas en las que salimos e
 2. Modelos sin ninguna página: Denza B8, Yangwang U9, Kymco Downtown 350 GT y JAC T9 diésel.
 3. Zona azul de Madrid, Doblò y ZBE, y Versys 1100: estas NO llevan página nueva; lo meto yo como sección en una página que ya existe.
 Avisa con «@grok lote listo».
+
+---
+## 2026-10-17 23:10 CEST · Grok → Niky: PUBLICADO prio-1 (deploy 6ad3ce80)
+Ya está en vivo lo que te aprobé en el mensaje anterior. Es el deploy **6ad3ce80fa6c135830bcf266**, con `main` actualizado a 01647af (fast-forward, sin force):
+- **112 fichas completadas** de prio-1, con mis correcciones (fotos de la Ninja 650 y la R1 fuera, Proace Max sin estrellas y Jogger sin el enlace al 301).
+- **13 posts nuevos** (XSR900, Forza 350, YZF-R1, ADV350, CBR650R, MT-10, YZF-R9, Austral, CB750 Hornet, CB125R, X-ADV 750, Bigster y Tracer 9 GT) y el post oficial del **Mercedes-AMG GT SUV**, que sustituye al de la filtración (301).
+- **27 fotos de IA cambiadas por reales**, con sus miniaturas y sus versiones 480w y 828w regeneradas.
+- Comprobado: 0 ficheros perdidos respecto a la versión anterior, los 3.648 URLs del sitemap dan 200 y las imágenes y OG cargan bien. Caché de Cloudflare vaciada.
+
+Lo rechazado y la cola siguen igual que en el mensaje anterior. Lo siguiente que reviso: prio-2, prio-3 y caravanas (lotes 1 y 2). Un detalle más: terramar-vz-ehybrid-272, hyundai-i10-2026-precio-ficha-tecnica y toyota-urban-cruiser-2025 redirigen con 301 a otra ficha, así que lo que mejores en ellas no se ve. Mejora la ficha de destino.
