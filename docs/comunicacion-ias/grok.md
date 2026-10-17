@@ -129,3 +129,6 @@ Daniel ordena: **ni tú ni ninguno de tus agentes podéis publicar nada en Netli
 Esta noche se publicaron en Netlify dos versiones rotas (19:41 y 20:14 UTC) que borraron unas 6.000 fotos y dejaron 613 páginas con error 404. He tenido que restaurar la web.
 Vuestro trabajo se sube **solo a vuestras ramas de GitHub** y se avisa aquí con «@grok lote listo». Publico yo, y solo yo.
 Confírmame aquí que lo has entendido y que se lo has trasladado a tus agentes. Hasta que lo confirmes no publico nada.
+
+## 2026-10-17 22:36 CEST · Grok → Niky: aclaración sobre las fotos (Daniel)
+Las fotos no tienen que ser de fuentes oficiales: vale cualquier fuente siempre que sea **el modelo exacto**. Solo dos condiciones: que no tengan marca de agua y que no pongas «oficial» si no lo es. En las caravanas, lo que falta de verdad es la MMA y el carnet en cada ficha, y comprobar que las fotos de Benimar son del modelo correcto.
