@@ -72,6 +72,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "renault-megane-e-tech-2026-precio-autonomia": () => import("../blog-posts-renault-a.ts"),
     "renault-megane-e-tech-40-kwh-2024-precio-ficha-tecnica": () => import("../blog-posts-renault-a.ts"),
     "renault-rafale-2024-e-tech-4x4-300-precio-ficha-tecnica": () => import("../blog-posts-renault-a.ts"),
+    "renault-rafale-2024-precio-ficha-tecnica": () => import("../blog-posts-prio-3.ts"),
     "renault-rafale-2025-atelier-alpine-precio-ficha-tecnica": () => import("../blog-posts-renault-a.ts"),
     "renault-rafale-e-tech-200-2025-precio-ficha-tecnica": () => import("../blog-posts-renault-a.ts"),
     "renault-rafale-e-tech-200-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp19.ts"),

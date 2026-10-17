@@ -29,6 +29,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "gasgas-es-700-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m6.ts"),
     "gasgas-mc-450f-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m6.ts"),
     "gasgas-mc-450f-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m13.ts"),
+    "gasgas-sm-700-2024-ficha-tecnica-precio": () => import("../blog-posts-prio-3.ts"),
     "gasgas-sm-700-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m13.ts"),
     "gasgas-txt-gp-250-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m6.ts"),
     "gasolina-cara-como-evitar-multas-velocidad-que-cuestan-mas-que-un-deposito": () => import("../blog-data.ts"),
