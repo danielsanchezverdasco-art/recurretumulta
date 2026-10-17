@@ -1,0 +1,111 @@
+// Caravanas Knaus — ficha 1 (lote caravanas 1, 17/10/2026).
+// Datos verificados: red oficial Knaus (datos técnicos) + PVP de
+// distribuidor oficial (marcado en "aprox").
+// Fotos: reales del modelo exacto, verificadas visualmente.
+import type { CocheComparador } from "./comparador-coches-data.ts";
+
+export const CARAVANAS_KNAUS: CocheComparador[] = [
+  {
+    id: "knaus-sport-500-qdk-2026-precio-ficha-tecnica",
+    marca: "Knaus",
+    modelo: "Sport 500 QDK",
+    tipo: "Caravana",
+    categoria: "Caravana",
+    precioDesde: 31000,
+    potenciaCv: null,
+    autonomiaKm: null,
+    maleteroL: null,
+    ceroCien: null,
+    velocidadMax: null,
+    bateriaKwh: null,
+    cargaRapidaKw: null,
+    etiquetaDgt: null,
+    garantiaBateriaAnos: null,
+    garantiaBateriaKm: null,
+    garantiaBateriaDegradacionPct: null,
+    imagen:
+      "/media/knaus-sport-500-qdk-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial:
+      "/media/knaus-sport-500-qdk-2026-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial:
+      "/media/knaus-sport-500-qdk-2026-precio-ficha-tecnica-oficial-2.webp",
+    videoId: null,
+    videoCanal: null,
+    largoMm: 7320,
+    anchoMm: 2320,
+    altoMm: 2570,
+    pesoKg: 1166,
+    consumo: null,
+    consumoUnidad: null,
+    plazas: 4,
+    parNm: null,
+    traccion: null,
+    emisionesCo2: null,
+    aprox: ["precioDesde"],
+    pros: [
+      "La familiar por excelencia: litera doble trasera + cama transversal delantera",
+      "PVP desde ~31.000 €: de las 4 plazas más baratas de su tamaño",
+      "1.800 kg de MMA con un solo eje y gran carga útil",
+      "Techo de GFK resistente al granizo y chapa de aluminio martilleado",
+      "Nevera de 142 L y cocina de 3 fuegos: equipamiento serio de serie",
+    ],
+    contras: [
+      "7,32 m totales: exige experiencia remolcando",
+      "La litera es para niños o adultos no muy altos",
+      "Acabados más sencillos que la Hobby De Luxe",
+      "Sin mover eléctrico de serie: maniobrar a mano es duro",
+      "El avance se presupuesta aparte",
+    ],
+    opiniones: [],
+    costeMensual: {
+      costeEnergia100km: 0,
+      precioKwh: 0.18,
+      precioGasolinaL: 1.6,
+      seguroTercerosAnual: 150,
+      seguroAmpliadoAnual: 300,
+      mantenimientoAnual: 200,
+      costeMensualTotal: 120,
+      notas:
+        "Estimación: seguro de caravana + revisión anual de estanqueidad y gas. Sin motor propio.",
+      estimado: true,
+    },
+    galeria: [
+      {
+        src: "/media/knaus-sport-500-qdk-2026-precio-ficha-tecnica-oficial-2.webp",
+        alt: "Knaus Sport 500 QDK, vista lateral",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/knaus-sport-500-qdk-2026-precio-ficha-tecnica-oficial-3.webp",
+        alt: "Knaus Sport 500 QDK, frontal",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/knaus-sport-500-qdk-2026-precio-ficha-tecnica-oficial-4.webp",
+        alt: "Knaus Sport 500 QDK, detalle",
+        ancho: 1200,
+        alto: 800,
+      },
+    ],
+    analisisSlug: "knaus-sport-500-qdk-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo:
+        "Revisión anual recomendada: estanqueidad, gas, electricidad y frenos",
+      revisiones: [
+        {
+          nombre: "Revisión anual de la caravana",
+          queSeCambia:
+            "Estanqueidad, instalación de gas, electricidad y estado de frenos y neumáticos",
+          costeAproxEur: 200,
+        },
+      ],
+      costeAnualAproxEur: 200,
+      fuente: "Recomendaciones Knaus + red de distribuidores",
+    },
+    euroncap: null,
+    fuenteNombre: "Knaus (red oficial)",
+    fuenteUrl: "https://www.truckscout24.es/autocaravanas-caravanas/occasion/caravanas/knaus?page=7",
+  },
+];
