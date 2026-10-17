@@ -265,7 +265,7 @@ function q() {
                   .getElementById(`analizador`)
                   ?.scrollIntoView({ behavior: `smooth` });
               },
-              children: `Analizar mi multa gratis (recurso PDF 4,99 €)`,
+              children: `Analizar mi multa gratis`,
             }),
             (0, B.jsxs)(`div`, {
               className: `hj-ticks`,
@@ -1173,7 +1173,7 @@ function $() {
                         children: [
                           ` `,
                           (0, B.jsx)(s, { className: `w-4 h-4` }),
-                          ` Analizar mi multa gratis (recurso PDF 4,99 €) `,
+                          ` Analizar mi multa gratis `,
                         ],
                       }),
                       ` `,
