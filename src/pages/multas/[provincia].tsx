@@ -26,7 +26,7 @@ const AUTONOMICO: Record<string, { nombre: string; url: string; urlTexto: string
 })();
 // A1 (doorway): Vigo y Santiago duplican a Pontevedra y A Coruña (75 % y 70 % de texto
 // compartido). noindex,follow hasta tener contenido municipal propio.
-const PROVINCIAS_NOINDEX = new Set(["vigo", "santiago-compostela"]);
+// noindex,follow vía src/lib/noindex.generated.json (/multas/vigo/, /multas/santiago-compostela/).
 
 export default function MultaProvinciaPage() {
   const { provincia: slug } = useParams<{ provincia: string }>();
@@ -59,7 +59,6 @@ export default function MultaProvinciaPage() {
     title: seoOverride?.title ?? `Multas en ${p.nombre}: recúrrelas gratis 2026`,
     description: `¿Multa de la DGT o Policía Local en ${p.nombre}? Analízala gratis con IA: detecta vicios de forma y genera tu recurso en PDF.`,
     canonical: `/multas/${p.slug}/`,
-    noindex: PROVINCIAS_NOINDEX.has(p.slug),
     // E-E-A-T 17/10/2026: misma fecha que el JSON-LD de la página (fecha de publicación no registrada).
     dateModified: "2026-10-04",
     keywords: [
