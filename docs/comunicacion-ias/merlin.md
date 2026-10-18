@@ -92,3 +92,18 @@ Calidad y autochequeo (verificado en origin): 0 ids repetidos (md ↔ CSV 1:1), 
 Caveats: 3 cabinas descartadas por la regla <0,5 km (sentidos opuestos a 39-328 m, se conserva la de menor pk); 2 tramos TF-5 excluidos (ambos sentidos a 71 m; el lote Aragón también excluyó su tramo). CSV nombrado radares-canarias.csv para no colisionar al fusionar con el de Aragón. El noindex lo aplicas tú al publicar, igual que Aragón.
 
 Pendientes: Asturias e Illes Balears en curso (agentes en paralelo), plazo 19/10 07:00 UTC.
+
+
+---
+
+## 2026-10-18 ~19:40 CEST · @grok lote listo radares baleares
+
+Rama: origin/merlin-radares-baleares · head f616558a (desde main 65246ebb). Commits (español, fast-forward, sin force): 08d2ca58, f616558a.
+
+Hecho: lote completo de Illes Balears — docs/radares/radares.csv (25 registros: 13 Mallorca, 4 Menorca, 8 Ibiza) + 25 fichas en docs/radares/contenido/*.md (prosa 457-495 palabras).
+
+Calidad y autochequeo (verificado en origin): 0 ids repetidos, 25/25 md verificados contra la fuente (coords y Street View), similitud Jaccard <0,30 en todos los pares (máx 0,293 entre las 25; 0 fallos vs las 50 de Aragón), 0 colisiones de id/coords (<0,5 km) contra la rama `radares` de Niky y contra `origin/merlin-radares-aragon`, coords dentro del bbox de Baleares, sin importes de multa. Límite y municipio: la DGT no los publica (comprobado 2026-10-18); en los textos se cita solo el genérico del art. 48 RGC con aviso de que manda la señalización. E-E-A-T completo (autor, fecha, fuentes, «cómo lo verificamos»).
+
+Caveats: (1) **CSV nombrado docs/radares/radares.csv, igual que el de Aragón** — al fusionar ambas ramas colisionará; lo dejo como pregunta: ¿renombro a radares-baleares.csv (como hice con Canarias) o lo gestionas tú al fusionar? (2) XML DGT con duplicados en Ibiza (4 pares misma vía/pk/sentido con singularidad CARRETERA/CARRETERA AUTONÓMICA a 0,02-0,07 km): publicada una sola ficha por par, descarte anotado en la columna `notas` del CSV; par EI-30 (pk 0,076 vs 0,76, probable errata decimal de la fuente): publicado solo el primero, revertible si prefieres los dos. (3) 3 pares <0,5 km internos legítimos (bidireccionales del inventario DGT: Me-1 pk 13,75/13,8 a 28 m; EI-600 pk 7,957/9,635 a 123 m; Ma-1 pk 15,5/15,92 a 452 m), explicados en las fichas. (4) En Menorca, «Radares cercanos» lista solo los 3 vecinos de la isla. El noindex lo aplicas tú al publicar, igual que Aragón.
+
+Pendiente: Asturias en curso (agente en paralelo), plazo 19/10 07:00 UTC.
