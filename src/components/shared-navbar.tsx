@@ -2,7 +2,7 @@
 // shared-navbar.tsx del export v2 era una versión anterior: sin «Fichas
 // técnicas», sin WhatsApp y sin el contador de la caza de monos).
 import { Link } from "react-router-dom";
-import { BookOpen, MapPin, Sparkles, Building2, Wrench, ChevronDown, Menu, X, MessageCircle, CarFront, Mail } from "lucide-react";
+import { BookOpen, MapPin, Sparkles, Building2, Wrench, ChevronDown, Menu, X, MessageCircle, CarFront, Caravan, Mail } from "lucide-react";
 import { useEffect, useState, type CSSProperties } from "react";
 import { useTranslation } from "react-i18next";
 import { HERRAMIENTAS, CATEGORIAS_HERRAMIENTAS } from "@/lib/herramientas-data.ts";
@@ -89,6 +89,10 @@ export default function SharedNavbar({ ctaMode = "link" }: SharedNavbarProps) {
           >
             <CarFront className="w-3.5 h-3.5" /> Fichas técnicas
           </Link>
+          {/* 18/10/2026 (sección /caravanas/) */}
+          <Link to="/caravanas/" className={"hidden sm:flex items-center gap-1 text-xs font-semibold text-gray-500 hover:text-gray-900 transition-colors cursor-pointer"}>
+            <Caravan className="w-3.5 h-3.5" /> Caravanas
+          </Link>
           <Link to="/empresas/" className={"hidden md:flex items-center gap-1 text-xs font-semibold text-gray-500 hover:text-gray-900 transition-colors cursor-pointer"}>
             <Building2 className="w-3.5 h-3.5" /> Empresas
           </Link>
@@ -166,13 +170,17 @@ export default function SharedNavbar({ ctaMode = "link" }: SharedNavbarProps) {
           >
             <CarFront className="w-4 h-4" /> Fichas técnicas
           </Link>
-          <Link to="/newsletter/" onClick={() => setMobileOpen(false)} className={MITEM} style={{ "--mi": 4 } as CSSProperties}>
+          {/* 18/10/2026 (sección /caravanas/) */}
+          <Link to="/caravanas/" onClick={() => setMobileOpen(false)} className={MITEM} style={{ "--mi": 4 } as CSSProperties}>
+            <Caravan className="w-4 h-4" /> Caravanas
+          </Link>
+          <Link to="/newsletter/" onClick={() => setMobileOpen(false)} className={MITEM} style={{ "--mi": 5 } as CSSProperties}>
             <Mail className="w-4 h-4" /> Newsletter
           </Link>
           <button
             onClick={() => setToolsOpen(!toolsOpen)}
             aria-expanded={toolsOpen}
-            style={{ "--mi": 5 } as CSSProperties}
+            style={{ "--mi": 6 } as CSSProperties}
             className="rtm-menu-item flex items-center justify-between gap-2 py-2.5 text-sm font-semibold text-gray-700 hover:text-red-600 cursor-pointer w-full"
           >
             <span className="flex items-center gap-2">
@@ -210,7 +218,7 @@ export default function SharedNavbar({ ctaMode = "link" }: SharedNavbarProps) {
             target="_blank"
             rel="noopener noreferrer"
             onClick={() => setMobileOpen(false)}
-            style={{ "--mi": 6 } as CSSProperties}
+            style={{ "--mi": 7 } as CSSProperties}
             className="rtm-menu-item flex items-center gap-2 py-2.5 text-sm font-semibold text-[#25D366] hover:text-[#128C7E] cursor-pointer"
           >
             <MessageCircle className="w-4 h-4" /> WhatsApp · Ayuda

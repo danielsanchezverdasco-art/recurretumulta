@@ -240,7 +240,7 @@ async function main() {
       // cuando TODOS sus datos resolvieron (artículo + galería + relacionados +
       // ficha destacada / modelo + historia + EuroNCAP). Sin esto se capturaría
       // el esqueleto de carga.
-      const needsReady = /^\/(blog|coches|motos|patinetes)\//.test(route);
+      const needsReady = /^\/(blog|coches|motos|patinetes|caravanas)\//.test(route);
       try {
         await page.waitForFunction(
           ({ exp, waitReady }) => {

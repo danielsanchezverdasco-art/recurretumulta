@@ -25,6 +25,7 @@
     "/comparador-coches",
     "/comparador-patinetes",
     "/comparador-motos",
+    "/caravanas",
     "/fichas-tecnicas",
     "/favoritos-del-mes",
     "/comparador/mas-vendidos",
@@ -154,6 +155,10 @@
     {
       "file": "scripts/patinetes-slugs.txt",
       "prefix": "/patinetes/"
+    },
+    {
+      "file": "scripts/caravanas-slugs.txt",
+      "prefix": "/caravanas/"
     },
     {
       "file": "scripts/rankings-slugs.txt",

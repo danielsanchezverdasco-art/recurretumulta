@@ -16,5 +16,11 @@
   "h1": "Fichas técnicas de patinetes eléctricos",
   "title": "Fichas técnicas de patinetes eléctricos por marca",
   "description": "Índice de todas las fichas técnicas de patinetes eléctricos, ordenadas por marca y modelo con autonomía, velocidad y precio."
+ },
+ "caravanas": {
+  "nombre": "Caravanas",
+  "h1": "Fichas técnicas de caravanas",
+  "title": "Caravanas: fichas técnicas, precios y MMA 2026",
+  "description": "Fichas técnicas de caravanas por marca y modelo: precio, MMA, carnet necesario, dimensiones, plazas y carga útil, con datos verificados del fabricante."
  }
 }

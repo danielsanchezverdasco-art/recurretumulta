@@ -24,10 +24,20 @@ import {
   PATINETES_COMPARADOR,
   type PatineteComparador,
 } from "@/lib/comparador-patinetes-data.ts";
+// 18/10/2026 (sección /caravanas/): las 9 marcas viven en ficheros por marca.
+import { CARAVANAS_ADRIA } from "@/lib/comparador-caravanas-adria.ts";
+import { CARAVANAS_BURSTNER } from "@/lib/comparador-caravanas-burstner.ts";
+import { CARAVANAS_DETHLEFFS } from "@/lib/comparador-caravanas-dethleffs.ts";
+import { CARAVANAS_ERIBA } from "@/lib/comparador-caravanas-eriba.ts";
+import { CARAVANAS_FENDT } from "@/lib/comparador-caravanas-fendt.ts";
+import { CARAVANAS_HOBBY } from "@/lib/comparador-caravanas-hobby.ts";
+import { CARAVANAS_KNAUS } from "@/lib/comparador-caravanas-knaus.ts";
+import { CARAVANAS_TABBERT } from "@/lib/comparador-caravanas-tabbert.ts";
+import { CARAVANAS_WEINSBERG } from "@/lib/comparador-caravanas-weinsberg.ts";
 
 // ── Normalización: los tres catálogos a una tarjeta común ────────────────────
 type FichaCard = {
-  kind: "coche" | "moto" | "patinete";
+  kind: "coche" | "moto" | "patinete" | "caravana";
   id: string;
   marca: string;
   modelo: string;
@@ -147,17 +157,61 @@ function patineteACard(p: PatineteComparador): FichaCard {
   };
 }
 
+// 18/10/2026 (sección /caravanas/): specs propias (MMA, plazas, carnet)
+// y ruta /caravanas/<id>/.
+function caravanaACard(c: CocheComparador): FichaCard {
+  const fmtM = (v: number | null) =>
+    v == null ? "—" : `${(v / 1000).toLocaleString("es-ES", { maximumFractionDigits: 2 })} m`;
+  return {
+    kind: "caravana",
+    id: c.id,
+    marca: c.marca,
+    modelo: c.modelo,
+    nombreBusqueda: `${c.marca} ${c.modelo}`,
+    ruta: `/caravanas/${c.id}/`,
+    foto: c.imagenOficial || c.imagen || null,
+    fotoAlt: `Caravana ${c.marca} ${c.modelo}`,
+    precio: c.precioDesde,
+    badge: "Caravana",
+    etiquetaDgt: null,
+    specs: [
+      { v: fmtNum(c.mmaKg ?? null, "kg"), l: "MMA" },
+      { v: c.plazas != null ? String(c.plazas) : "—", l: "plazas" },
+      { v: c.carnetNecesario ? `Carnet ${c.carnetNecesario}` : "—", l: "carnet" },
+    ],
+    detalles: [
+      { l: "Longitud", v: fmtM(c.largoMm) },
+      { l: "Carga útil", v: fmtNum(c.cargaUtilKg ?? null, "kg") },
+      { l: "Anchura", v: c.anchoMm != null ? `${c.anchoMm.toLocaleString("es-ES")} mm` : "—" },
+      { l: "Altura", v: c.altoMm != null ? `${c.altoMm.toLocaleString("es-ES")} mm` : "—" },
+      { l: "Peso (tara)", v: fmtNum(c.pesoKg, "kg") },
+    ],
+    autonomiaKm: null,
+    certificadoDgt: null,
+  };
+}
+
 const TODAS: FichaCard[] = [
   ...COCHES_COMPARADOR.map(cocheACard),
   ...MOTOS_PUBLICADAS.map(motoACard),
   ...PATINETES_COMPARADOR.map(patineteACard),
+  ...CARAVANAS_ADRIA.map(caravanaACard),
+  ...CARAVANAS_BURSTNER.map(caravanaACard),
+  ...CARAVANAS_DETHLEFFS.map(caravanaACard),
+  ...CARAVANAS_ERIBA.map(caravanaACard),
+  ...CARAVANAS_FENDT.map(caravanaACard),
+  ...CARAVANAS_HOBBY.map(caravanaACard),
+  ...CARAVANAS_KNAUS.map(caravanaACard),
+  ...CARAVANAS_TABBERT.map(caravanaACard),
+  ...CARAVANAS_WEINSBERG.map(caravanaACard),
 ];
 
-type Tab = "coche" | "moto" | "patinete";
+type Tab = "coche" | "moto" | "patinete" | "caravana";
 const TABS: Array<{ id: Tab; label: string; plural: string }> = [
   { id: "coche", label: "Coches", plural: "coches" },
   { id: "moto", label: "Motos", plural: "motos" },
   { id: "patinete", label: "Patinetes", plural: "patinetes" },
+  { id: "caravana", label: "Caravanas", plural: "caravanas" },
 ];
 
 const SELECT_CLASE =
@@ -307,9 +361,9 @@ const jsonLd = {
     {
       "@type": "CollectionPage",
       "@id": "https://recurretumulta.online/fichas-tecnicas#pagina",
-      name: "Fichas técnicas de coches, motos y patinetes 2026",
+      name: "Fichas técnicas de coches, motos, patinetes y caravanas 2026",
       description:
-        "Índice de fichas técnicas con buscador y filtros: precio, potencia, autonomía y etiqueta DGT de cientos de modelos 2024-2026.",
+        "Índice de fichas técnicas con buscador y filtros: precio, potencia, autonomía, MMA y etiqueta DGT de cientos de modelos 2024-2026.",
       url: "https://recurretumulta.online/fichas-tecnicas",
       inLanguage: "es-ES",
     },
@@ -334,9 +388,9 @@ const jsonLd = {
 
 export default function FichasTecnicasPage() {
   useSeo({
-    title: "Fichas técnicas: coches, motos y patinetes",
+    title: "Fichas técnicas: coches, motos, patinetes y caravanas",
     description:
-      "Todas las fichas técnicas en un solo lugar: busca por marca y modelo, filtra por precio, autonomía y etiqueta DGT, y abre la ficha completa con datos verificados.",
+      "Fichas técnicas de coches, motos, patinetes y caravanas: busca por marca y modelo, filtra por precio y abre la ficha completa con datos verificados.",
     canonical: "/fichas-tecnicas",
     schema: jsonLd,
   });
@@ -500,7 +554,7 @@ export default function FichasTecnicasPage() {
             type="search"
             value={q}
             onChange={(e) => { setQ(e.target.value); setVisibleCount(PAGE_SIZE); }}
-            placeholder={`Busca marca o modelo… (ej. ${tab === "coche" ? "BYD, Tucson" : tab === "moto" ? "Silence, NIU" : "Xiaomi, Segway"})`}
+            placeholder={`Busca marca o modelo… (ej. ${tab === "coche" ? "BYD, Tucson" : tab === "moto" ? "Silence, NIU" : tab === "caravana" ? "Adria, Knaus" : "Xiaomi, Segway"})`}
             aria-label="Buscar por marca o modelo"
             className="w-full rounded-xl border border-gray-300 bg-white py-2.5 pl-10 pr-4 text-sm shadow-sm focus:border-[#cd001d] focus:outline-none focus:ring-2 focus:ring-[#cd001d]/20"
           />
@@ -546,6 +600,8 @@ export default function FichasTecnicasPage() {
               <option value={100000}>100.000 €</option>
             </select>
           </label>
+          {/* 18/10/2026 (caravanas): sin autonomía ni etiqueta DGT en caravanas. */}
+          {tab !== "caravana" && (
           <label className="block text-xs font-bold text-gray-700">
             Autonomía mínima
             <select value={fAutMin} onChange={(e) => { setFAutMin(Number(e.target.value)); setVisibleCount(PAGE_SIZE); }} className={`${SELECT_CLASE} mt-1`}>
@@ -557,6 +613,7 @@ export default function FichasTecnicasPage() {
               <option value={500}>500 km</option>
             </select>
           </label>
+          )}
           {tab === "patinete" ? (
             <label className="block text-xs font-bold text-gray-700">
               Certificado DGT
@@ -566,7 +623,7 @@ export default function FichasTecnicasPage() {
                 <option value="no">Sin verificar</option>
               </select>
             </label>
-          ) : (
+          ) : tab === "caravana" ? null : (
             <label className="block text-xs font-bold text-gray-700">
               Etiqueta DGT
               <select value={fEtiqueta} onChange={(e) => { setFEtiqueta(e.target.value); setVisibleCount(PAGE_SIZE); }} className={`${SELECT_CLASE} mt-1`}>
@@ -655,6 +712,7 @@ export default function FichasTecnicasPage() {
             <Link to="/comparador-coches/" className="rounded-full bg-gray-900 px-4 py-2 text-xs font-bold text-white hover:bg-gray-700">Comparador de coches</Link>
             <Link to="/comparador-motos/" className="rounded-full bg-gray-900 px-4 py-2 text-xs font-bold text-white hover:bg-gray-700">Comparador de motos</Link>
             <Link to="/comparador-patinetes/" className="rounded-full bg-gray-900 px-4 py-2 text-xs font-bold text-white hover:bg-gray-700">Comparador de patinetes</Link>
+            <Link to="/caravanas/" className="rounded-full bg-red-700 px-4 py-2 text-xs font-bold text-white hover:bg-red-800">Todas las caravanas</Link>
           </div>
         </section>
 
