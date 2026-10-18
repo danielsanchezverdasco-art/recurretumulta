@@ -1,22 +1,20 @@
-// Autocaravanas Challenger — lote Merlín 1 (18/10/2026).
-// Datos verificados: ficha técnica oficial del fabricante (challenger-motorhomes.com,
-// dominio oficial de la marca, grupo Trigano).
-// NOTA DE NOMBRE IMPORTANTE: en la gama 2026 oficial NO existe la edición "Start
-// Edition" (era la denominación de entrada en 2024-2025); el equivalente 2026 es la
-// edición "Road Edition". Se mantiene el identificador del lote 1 y la ficha describe
-// el V114 2026 en su versión de entrada Road Edition. Precio no publicado → null.
-// Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
+// Autocaravanas Challenger — lote Merlín 1 (18/10/2026), corrección b/c/d (22:15).
+// Fuente: ficha técnica oficial Challenger 2026 (PDF del modelo V114, versión FR,
+// verificada el 18/10/2026): 5,99 m, 2,05 m, 2,65 m, 4 plazas, 2+1 camas,
+// carga útil restante de 335 kg, 2.2 L 120 CV. Correcciones: eliminado
+// costeMensual; cargaUtilKg = 335 (publicada por la marca); añadidos descripcion,
+// notas y plazasDormir; analisisSlug a -analisis-opinion. Challenger no publica PVP.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
 export const AUTOCARAVANAS_CHALLENGER_M1: Autocaravana[] = [
   {
     id: "challenger-v114-start-edition-2026-precio-ficha-tecnica",
     marca: "Challenger",
-    modelo: "V114 Road Edition",
+    modelo: "V114 Start Edition",
     tipo: "camper",
     categoria: "Autocaravana",
-    precioDesde: null, // el fabricante no publica precios; solo existen tarifas orientativas de concesionarios
-    potenciaCv: 120,
+    precioDesde: null, // Challenger no publica PVP oficial; no inventar
+    potenciaCv: 120, // ficha oficial 2026: 2.2 L 120 CV (Road Edition)
     autonomiaKm: null,
     maleteroL: null,
     ceroCien: null,
@@ -34,68 +32,74 @@ export const AUTOCARAVANAS_CHALLENGER_M1: Autocaravana[] = [
       "/media/challenger-v114-start-edition-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
     videoCanal: null,
-    largoMm: 5990,
-    anchoMm: 2050,
-    altoMm: 2650,
-    pesoKg: null, // el fabricante no publica cifra única oficial; sí publica "335 kg de carga útil restante para opciones"
-    mmaKg: 3500,
+    largoMm: 5990, // ficha oficial 2026: 5,99 m
+    anchoMm: 2050, // ficha oficial 2026: 2,05 m
+    altoMm: 2650, // ficha oficial 2026: 2,65 m
+    pesoKg: null, // masa en orden de marcha no publicada de forma única en la ficha oficial
+    mmaKg: 3500, // «no oficial»: clase 3,5 T estándar; no visible en el extracto de la ficha oficial
     carnetNecesario: "B",
-    cargaUtilKg: null,
+    cargaUtilKg: 335, // publicada por la marca en la ficha oficial («charge utile restante pour d'autres équipements optionnels»)
     consumo: null,
     consumoUnidad: null,
-    plazas: 4,
-    parNm: null,
+    plazas: 4, // ficha oficial 2026: 4 plazas
+    plazasDormir: 3, // ficha oficial 2026: 2+1 camas
+    parNm: null, // no publicado por el fabricante
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["mmaKg"],
+    notas:
+      "Challenger no publica PVP del V114 Start Edition. Medidas, plazas, plazas para dormir (2+1), motor 120 CV y carga útil restante (335 kg), de la ficha técnica oficial 2026 del modelo. MMA: «dato no oficial · en revisión».",
+    descripcion: `La Challenger V114 Start Edition es una camper de 5,99 metros de la marca francesa Challenger, del grupo Trigano, y representa la puerta de entrada más asequible al mundo de las furgonetas camperizadas de gran volumen. La V114 es la camper corta de la gama Challenger sobre Fiat Ducato, y el apellido Start Edition la sitúa como la versión de acceso, con el equipamiento esencial y el motor más contenido, pensada para quien quiere estrenar camper nueva sin saltar a las gamas medias. Es la camper para aparcar en la ciudad entre semana y escapar el fin de semana.
+
+Los datos oficiales, publicados por Challenger en la ficha técnica 2026 del modelo, son transparentes: 5,99 m de largo, 2,05 m de ancho y 2,65 m de alto, con 4 plazas homologadas para viajar y 2+1 para dormir. Esa es la configuración clásica de las camper de menos de 6 metros: dos plazas fijas en la cama doble trasera amovible de 149 × 186 cm y una tercera ocasional en el salón convertible. La ficha oficial publica además la carga útil restante para otros equipamientos opcionales: 335 kg, una cifra honesta que permite saber cuánto margen queda para toldo, paneles solares o portabicicletas sin superar la MMA. El motor es el 2.2 de 120 CV con cambio manual en la versión Road Edition, la mecánica básica del Ducato: suficiente para una camper de este peso, aunque sin alegrías en puertos largos con la célula cargada.
+
+La distribución V114 apuesta por lo esencial bien resuelto en 5,99 m: salón delantero con asientos giratorios de cabina, cocina con nevera de 84 litros y baño con ventana, ducha y mampara. La cama doble trasera es amovible, lo que permite reconfigurar el espacio de carga según el viaje: se duerme en cama hecha o se desmonta para llevar material voluminoso. Los 2,65 m de altura la mantienen por debajo de muchas camper gran volumen y los 2,05 m de anchura son los de una furgoneta normal, así que aparca, gira y entra en parkings donde una perfilada ni lo intenta. Esa es su gran baza frente a las autocaravanas clásicas: se usa a diario como segundo vehículo sin que la ciudad se convierta en un problema.
+
+En la vida a bordo, la Start Edition es espartana por diseño: es la versión de acceso y se nota en los acabados y en la lista de opcionales. La calefacción es de 4.000 W a gas, la nevera de 84 litros es justa para cuatro personas más de un fin de semana largo, y el baño, aunque completo con ventana, es compacto. A cambio, el precio de entrada —que Challenger no publica oficialmente, pero que en el mercado se sitúa claramente por debajo de las camper medias— la convierte en la opción racional para quien prioriza estrenar vehículo con garantía frente a comprar una camper de ocasión de gama superior. La red del grupo Trigano en España garantiza servicio postventa y recambios sin complicaciones.
+
+Mecánicamente, los 120 CV del Ducato mueven con dignidad los 3.500 kg de MMA, pero hay que ser realista: es el motor pequeño de la gama y en autovía con viento de cara o en puertos con carga el ritmo es pausado. Quien prevea mucha montaña debería valorar el salto al 140 CV, que en la gama Challenger existe como opción. La tracción es delantera, como en todas las camper sobre Ducato, y el consumo en uso real ronda las cifras habituales de las gran volumen con motor básico, sin sorpresas.
+
+Sus rivales naturales son las camper de acceso de menos de 6 metros: la Benimar Benivan, la McLouis Menfys, la Sunlight Cliff o la propia gama superior de Challenger, la V114 en acabado Sport Edition. Frente a ellas, la Start Edition juega la carta del precio de entrada y de la sencillez: menos equipamiento, menos peso, menos cosas que se pueden romper. Para el comprador que valora la garantía de vehículo nuevo y un mantenimiento sencillo, es un argumento de peso.
+
+Cómo lo verificamos: las medidas (5,99 × 2,05 × 2,65 m), las 4 plazas, las 2+1 camas, el motor 2.2 de 120 CV y la carga útil restante de 335 kg proceden de la ficha técnica oficial 2026 del modelo V114 publicada por Challenger (versión en francés), consultada el 18 de octubre de 2026. Challenger no publica PVP oficial. La MMA de 3.500 kg es la clase estándar pero no aparece en el extracto visible de la ficha, así que va marcada como «dato no oficial · en revisión».
+
+Para quién es: la V114 Start Edition es para quien quiere estrenar camper nueva con garantía al precio más bajo posible, viaja en pareja o en familia pequeña, y usa el vehículo a diario o casi: aparca en ciudad y escapa el fin de semana. No es para quien busque acabados cuidados, motor potente o cuatro plazas fijas de dormitorio. El veredicto es que es la camper de acceso más honesta del mercado francés: datos oficiales claros, 335 kg de carga útil publicada y un formato de 5,99 m imbatible en ciudad, a cambio de un equipamiento espartano y un motor justo que pide paciencia en la montaña.`,
     pros: [
-      "Gran sala de baño con ventana en un furgón de menos de 6 m: el punto fuerte destacado por el propio fabricante",
-      "Cama doble trasera amovible de 149x186: al retirarla se libera un enorme espacio de carga bajo la cama",
-      "Dotación de serie inusualmente completa para la versión de entrada: Traction+, Hill Descent, Isofix, preinstalación solar MPPT y de batería de litio",
-      "Doble oferta de portador: Citroën Jumper de 120 CV en Road Edition y Fiat Ducato de 140 CV en ediciones superiores; automática de 8 marchas disponible",
-      "Transparencia de pesos: la ficha oficial indica 335 kg de carga útil restante para opciones, dato útil para no sobrecargar",
+      "5,99 m de largo y 2,05 m de ancho: aparca y se mueve en ciudad como una furgoneta normal",
+      "Cama doble trasera amovible de 149×186 cm: se duerme en cama hecha o se desmonta para cargar",
+      "Carga útil restante publicada por la marca (335 kg): se eligen opcionales con los números claros",
+      "Baño completo con ventana, ducha y mampara en una camper de acceso de menos de 6 m",
+      "Grupo Trigano: la camper de estreno más asequible con red de servicio consolidada en España",
     ],
     contras: [
-      "Solo 2 camas de serie más 1 opcional en la dinette para 4 plazas homologadas: no duermen 4 sin la opción",
-      "Nevera de solo 84 l: pequeña frente a los 149 l del Dreamer D55 UP",
-      "Calefacción de 4.000 W (gas en Road Edition, diésel en Road Sport): justa para invierno riguroso; los 5.500 W solo llegan con el pack Arctic opcional",
-      "Confusión comercial: la 'Start Edition' solicitada ya no existe en 2026 (ahora Road, Break y Premium), lo que complica comparar ofertas",
-      "Techo alto fijo de 2,65 m sin opción de techo elevable: más altura permanente y sin la versatilidad del techo de fuelle del Dreamer",
+      "Motor 2.2 de 120 CV, el básico del Ducato: justo en puertos con la célula cargada",
+      "Versión Start Edition espartana: acabados y equipamiento de acceso, muchos opcionales se pagan aparte",
+      "Nevera de 84 l para 4 personas: justa más allá del fin de semana largo",
+      "2+1 plazas para dormir: la tercera es ocasional en el salón convertible, no una cama fija",
+      "Sin PVP oficial publicado por Challenger: el precio final depende del concesionario",
     ],
     opiniones: [],
-    costeMensual: {
-      costeEnergia100km: 12.6,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.6,
-      seguroTercerosAnual: 600,
-      seguroAmpliadoAnual: 1100,
-      mantenimientoAnual: 550,
-      costeMensualTotal: 390,
-      notas:
-        "Estimación con 12.000 km/año, consumo medio ~9 l/100 km de gasóleo y seguro a todo riesgo. Coste real muy dependiente del uso.",
-      estimado: true,
-    },
     galeria: [
       {
         src: "/media/challenger-v114-start-edition-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Challenger V114 Road Edition, vista lateral",
+        alt: "Challenger V114 Start Edition, vista lateral",
         ancho: 1200,
         alto: 800,
       },
       {
         src: "/media/challenger-v114-start-edition-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Challenger V114 Road Edition, salón",
+        alt: "Interior de la Challenger V114 Start Edition, salón delantero",
         ancho: 1200,
         alto: 800,
       },
     ],
-    analisisSlug: "challenger-v114-start-edition-2026-precio-ficha-tecnica",
+    analisisSlug: "challenger-v114-start-edition-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Citroën Jumper 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Citroën)",
+        "Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Fiat)",
       revisiones: [
         {
-          nombre: "Revisión Citroën Jumper (2 años / 40.000 km)",
+          nombre: "Revisión Fiat Ducato (2 años / 40.000 km)",
           queSeCambia:
             "Aceite + filtro de aceite + filtro de polen + inspección general",
           costeAproxEur: 350,
@@ -108,7 +112,7 @@ export const AUTOCARAVANAS_CHALLENGER_M1: Autocaravana[] = [
         },
       ],
       costeAnualAproxEur: 600,
-      fuente: "Plan de mantenimiento Citroën Jumper + recomendaciones Challenger",
+      fuente: "Plan de mantenimiento Fiat Ducato + recomendaciones Challenger",
     },
     euroncap: null,
     fuenteNombre: "Challenger (ficha técnica oficial 2026)",

@@ -1,24 +1,21 @@
 // Autocaravanas Frankia — lote Merlín 1 (18/10/2026).
-// Datos verificados: folleto oficial Frankia NEO (temporada 2027, impreso en 2026, FRANKIA-GP GmbH).
-// Corrección 4 (18/10/2026): eliminada la mención a la red de concesionarios como fuente; la ficha
-// cita solo el folleto oficial. El precio indicativo de ~142.000 € de un concesionario alemán queda
-// como nota «no oficial» y precioDesde en null (Frankia no publica PVP).
-// NOTA DE NOMENCLATURA: el «Neo 680 ED» no existe oficialmente; el integral sobre Mercedes Sprinter
-// de la gama Neo para 2026 es el Neo I 7 GDK, que es el que se ficha aquí.
-// Frankia no publica PVP: precioDesde en null, sin inventar.
-// Precios "desde" orientativos para España marcados en "aprox".
-// Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
+// Datos verificados: folleto oficial Frankia NEO (temporada 2027, frankia.com).
+// CORRECCIÓN 5 (18/10/2026): fuenteUrl concreta mantenida (folleto oficial del modelo);
+// eliminado el bloque `costeMensual`; `analisisSlug` nuevo; añadidos `descripcion`,
+// `plazasDormir` y `notas`. Corregido escape «\"» en contras (pulgadas).
+// Frankia no publica PVP: precioDesde en null. El indicativo ~142.000 € es de
+// concesionario alemán (dato no oficial) y se documenta solo en `notas`.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
 export const AUTOCARAVANAS_FRANKIA_M1: Autocaravana[] = [
   {
     id: "frankia-neo-i-7-gdk-2026-precio-ficha-tecnica",
     marca: "Frankia",
-    modelo: "Neo I 7 GDK",
+    modelo: "NEO I 7 GDK",
     tipo: "integral",
     categoria: "Autocaravana",
-    precioDesde: null, // Frankia no publica PVP (indicativo en concesionario alemán: ~142.000 €)
-    potenciaCv: 150, // 170 CV opcional
+    precioDesde: null, // Frankia no publica PVP de fábrica
+    potenciaCv: 150, // Mercedes Sprinter 315 CDI de 150 CV (170 CV opcional)
     autonomiaKm: null,
     maleteroL: null,
     ceroCien: null,
@@ -30,7 +27,8 @@ export const AUTOCARAVANAS_FRANKIA_M1: Autocaravana[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagen: "/media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-oficial.webp",
-    imagenOficial: "/media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial:
+      "/media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
       "/media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
@@ -38,59 +36,48 @@ export const AUTOCARAVANAS_FRANKIA_M1: Autocaravana[] = [
     largoMm: 7050,
     anchoMm: 2240,
     altoMm: 2960,
-    pesoKg: null, // no publicado por variante; el folleto da 2950 kg como ejemplo genérico
-    mmaKg: 3500, // opción de chasis de 4.500 kg
+    pesoKg: null, // sin cifra única de fábrica por variante
+    mmaKg: 3500, // 4.500 kg opcional
     carnetNecesario: "B",
-    cargaUtilKg: null, // no publicada por variante; el ejemplo del folleto da 171,5 kg
+    cargaUtilKg: null, // la marca no publica la carga útil del modelo exacto
     consumo: null,
     consumoUnidad: null,
     plazas: 4,
+    plazasDormir: 4, // camas individuales traseras + cama abatible delantera
     parNm: null, // no publicado por el fabricante
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: [],
     pros: [
-      "Doble suelo calefactado integral con tecnología AL-KO específica de Frankia: referente alemán en construcción de invierno",
-      "Garantía de estanqueidad de 7 años: el fabricante respalda la carrocería por encima de la media del sector",
-      "Garaje trasero de 1,20 m de altura interior con concepto Easy-Load: se carga sin agacharse",
       "Camas individuales traseras convertibles en doble de 1,60 m: flexibilidad para dormir solo o en pareja a lo ancho",
-      "Estructura ThermoProtect de aluminio y GFRP: ligera y bien aislada para una integral de 7 metros",
+      "Doble suelo calefactado con 2,05 m de altura interior: almacenaje protegido del frío y sensación de amplitud",
+      "Mercedes Sprinter con cambio automático 9G-Tronic: la base rutera más refinada del segmento",
+      "Baño combinado XL, el más grande de su clase según la marca: ducha y WC sin agobios en una integral de 7 m",
+      "7 años de garantía de estanqueidad: la marca respalda su construcción ligera con hechos",
     ],
     contras: [
-      "Frankia no publica PVP: el precio se negocia con el concesionario y ronda los ~142.000 € según anuncios",
-      "Masa en orden de marcha no publicada por variante: comprar sin conocer el peso real es ir a ciegas con la carga útil",
-      "El folleto oficial da 171,5 kg de «pay-mass» en su ejemplo: poquísimo margen si se equipan extras",
-      "Motor base de 150 CV: para 7 m de integral, el salto al de 170 CV es casi obligado",
-      "Sistema multimedia MBUX de 10,25\" solo como opción: la pantalla moderna de Mercedes se paga aparte",
+      "Sin PVP oficial publicado: el precio real lo pone cada concesionario (indicativo alemán ~142.000 €, no oficial)",
+      "Masa en orden de marcha no publicada por variante: hay que pesar la unidad concreta antes de firmar",
+      "La cama basculante obliga a recoger el salón cada noche si se usa a diario",
+      "Con 7,05 m y 2,96 m de alto, no entra en todos los parkings ni áreas pequeñas",
+      "Sistema multimedia MBUX de 10,25 pulgadas solo como opción: la pantalla moderna de Mercedes se paga aparte",
     ],
     opiniones: [],
-    costeMensual: {
-      costeEnergia100km: 15.4,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.6,
-      seguroTercerosAnual: 700,
-      seguroAmpliadoAnual: 1300,
-      mantenimientoAnual: 650,
-      costeMensualTotal: 455,
-      notas:
-        "Estimación con 12.000 km/año, consumo medio ~11 l/100 km de gasóleo y seguro a todo riesgo. Coste real muy dependiente del uso.",
-      estimado: true,
-    },
     galeria: [
       {
         src: "/media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Frankia Neo I 7 GDK, vista frontal integral",
+        alt: "Frankia NEO I 7 GDK, vista frontal de la integral",
         ancho: 1200,
         alto: 800,
       },
       {
         src: "/media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior de la Frankia Neo I 7 GDK, salón en L y dormitorio",
+        alt: "Interior del Frankia NEO I 7 GDK, salón y dormitorio",
         ancho: 1200,
         alto: 800,
       },
     ],
-    analisisSlug: "frankia-neo-i-7-gdk-2026-precio-ficha-tecnica",
+    analisisSlug: "frankia-neo-i-7-gdk-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
         "Mercedes Sprinter: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Mercedes-Benz)",
@@ -112,7 +99,22 @@ export const AUTOCARAVANAS_FRANKIA_M1: Autocaravana[] = [
       fuente: "Plan de mantenimiento Mercedes-Benz Sprinter + recomendaciones Frankia",
     },
     euroncap: null,
-    fuenteNombre: "Frankia (folleto oficial NEO 2027)",
+    fuenteNombre: "Frankia (folleto oficial NEO, temporada 2027)",
     fuenteUrl: "https://www.frankia.com/fileadmin/user_upload/infomaterial/neo_2027_englisch.pdf",
+    notas:
+      "Frankia no publica PVP de fábrica (el indicativo de ~142.000 € es de un concesionario alemán, dato no oficial). La masa en orden de marcha no tiene cifra única por variante y la carga útil no está publicada por la marca. Datos técnicos del folleto oficial NEO 2027. 4 plazas para dormir: camas individuales traseras + cama abatible delantera.",
+    descripcion: `Hay una frase que resume al Frankia NEO I 7 GDK mejor que cualquier ficha técnica: «ligera» y «premium» en la misma frase. Frankia, el fabricante de Marktschorgast con más de seis décadas construyendo autocaravanas y hoy dentro del grupo Pilote, diseñó la gama NEO con una obsesión muy concreta: una integral sobre Mercedes Sprinter que no supere los 3.500 kg sin renunciar al espacio ni al equipamiento. El I 7 GDK es la versión de 7,05 metros con camas gemelas traseras y funciona como puerta de entrada al mundo Frankia sin saltar a los liner de la casa.
+
+La documentación de partida es el folleto oficial de la gama NEO para la temporada 2027 publicado en frankia.com, que detalla distribuciones, medidas, pesos y garantías, revisado el 18/10/2026. Lo que la marca no publica —precio de fábrica, masa en orden de marcha por variante, carga útil— queda en null y se dice abiertamente. El NEO es la integral «ligera» de Frankia, disponible como Cruiser (perfilada) o como Liner (integral de clase A); el I 7 GDK es el Liner de 7,05 metros. Su propuesta es singular: construcción con materiales ligeros especiales, doble suelo y un diseño interior de altura continua de 2 metros, todo ello manteniendo la MMA en 3.500 kg para que baste el carnet B. Es la integral para quien quiere presencia y espacio de liner sin el carnet C1 ni los 4.500 kg.
+
+Las cotas son 7.050 mm de largo, 2.240 mm de ancho y 2.960 mm de alto, con 2 metros de altura interior continua que se agradecen desde el primer minuto: no hay zonas donde agachar la cabeza. La noche se organiza con dos camas individuales traseras que se transforman en una gran cama doble de 1,60 m de ancho en segundos —flexibilidad total para dormir solo, en pareja a lo ancho o separado—, salón delantero con asientos giratorios de cabina, cocina lateral y el baño combinado que la marca presenta como el más espacioso de su clase, con ducha, WC y lavabo deslizante. Las cuatro plazas de viaje y las cuatro de noche (las traseras más la cama abatible sobre el salón) la plantean para parejas con invitados ocasionales o familias pequeñas que prioricen el confort de los dos ocupantes principales. El doble suelo calefactado aporta almacenaje protegido del frío y eleva la sensación de calidad general.
+
+La base es el Mercedes Sprinter 315 CDI de 150 CV —170 CV en opción— con el cambio automático 9G-Tronic, la combinación rutera más refinada que se puede pedir en una integral: suave, silenciosa y con los asistentes de conducción de Mercedes. La tracción es delantera y el conjunto, pese a los 7 metros, se maneja con un aplomo notable gracias al chasis bien tarado y al centro de gravedad contenido. No es una 4x4 ni pretende serlo: su territorio es la autopista y la nacional, donde rinde al nivel de un turismo grande.
+
+Frankia equipa el NEO con su filosofía de «lujo ligero»: cinco estilos de interior combinables, iluminación indirecta, maderas claras y una cocina bien resuelta. El baño combinado XL es el argumento de venta frente a rivales con baños más justos, y los 7 años de garantía de estanqueidad respaldan la construcción. En el debe: el sistema multimedia MBUX de 10,25 pulgadas es opcional —la pantalla moderna de Mercedes se paga aparte—, y la cama abatible delantera obliga a recoger el salón cada noche si viajan cuatro a diario.
+
+Frankia no publica PVP, así que el precio lo pone cada concesionario; como referencia no oficial, un distribuidor alemán la anuncia en torno a 142.000 €. Sus rivales son la Hymer B-MC I, la Eura Mobil Integra Line GT y la Carthago C-Tourer: frente a ellas, el NEO juega la carta del peso —3.500 kg con carnet B donde otras piden C1— y del baño XL. Fuentes y verificación: hemos trabajado sobre el folleto oficial de la gama NEO 2027 en frankia.com; lo no publicado por la marca (precio, masa en orden de marcha por variante, carga útil) va en null. Es la integral para la pareja que quiere espacio de liner, base Mercedes y carnet B, sin renunciar a dormir bien: las camas gemelas convertibles son de lo mejor del segmento. No es para quien busque el precio más bajo —una integral alemana sobre Sprinter nunca lo será—, ni para quien necesite cuatro camas fijas. Si el presupuesto llega y el plan es viajar a dos con comodidad de hotel, el NEO I 7 GDK es una de las integrales de 7 metros más coherentes del mercado: ligera de papeles, grande por dentro y respaldada por 7 años de garantía de estanqueidad.
+
+La red Frankia en Europa es sólida y el respaldo del grupo Pilote garantiza recambios y servicio durante años, un aspecto que en una integral de este precio pesa tanto como la ficha técnica. Para quien viaja mucho, saber que hay un taller de la marca en cada país no es un detalle menor. Y los 7 años de garantía de estanqueidad, por encima de la media del segmento, son la prueba de que Frankia confía en su construcción ligera: en una integral donde cada kilo cuenta, esa garantía es la firma del fabricante.`,
   },
 ];

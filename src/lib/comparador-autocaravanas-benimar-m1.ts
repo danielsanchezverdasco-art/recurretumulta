@@ -1,17 +1,10 @@
-// Autocaravanas Benimar — lote Merlín 1 (18/10/2026).
-// Modelos: Mileo 243 + Amphitryon 940 (integral, ficha técnica oficial vía Motorvisión)
-// + Sport 340 UP (capuchina sobre Ford Transit, no camper; alpacacamping.de + caravaningplaza.com).
-// Benimar no publica PVP: precioDesde en null. Fotos: pendientes de subida; se referencian
-// los nombres y se suben antes de anunciar el lote.
-// Corrección 4 (18/10/2026, solo Mileo 243): benimar.es no publica ficha oficial del 243
-// (temporada 2026; en el catálogo 2027 no aparece). Eliminada la fuente Dinmore Leisure
-// (concesionario UK). Dimensiones, MMA y plazas, de hoja de concesionario UK, quedan marcadas
-// «no oficial» en "aprox". Nota: la hoja UK indica MMA 3.650 kg y distribución de cama
-// transversal + basculante (no camas gemelas); la ficha mantiene los valores de gama ES.
-// CORRECCIÓN 4 (18/10/2026, Amphitryon 940 y Sport 340 UP): eliminadas las fuentes de
-// concesionario/anuncio (Motorvisión, AlpacaCamping, Caravaning Plaza) de fuenteNombre y
-// fuenteUrl (sustituidas por la web oficial del fabricante); la masa del Sport 340 UP, solo
-// disponible en fichas de concesionario, queda marcada «no oficial» en "aprox".
+// Autocaravanas Benimar — lote Merlín 1 (18/10/2026), corrección b/c/d (22:15).
+// Benimar no publica PVP ni fichas oficiales de los modelos 243, Amphitryon 940 y
+// Sport 340 UP (no están en el catálogo oficial 2027): fuenteNombre/fuenteUrl en null.
+// Datos de hojas de concesionario y prensa especializada, en «aprox» con nota
+// «dato no oficial · en revisión». Correcciones: eliminado costeMensual;
+// cargaUtilKg calculada a null; añadidos descripcion, notas y plazasDormir (null);
+// analisisSlug actualizado a -analisis-opinion.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
 export const AUTOCARAVANAS_BENIMAR_M1: Autocaravana[] = [
@@ -22,7 +15,7 @@ export const AUTOCARAVANAS_BENIMAR_M1: Autocaravana[] = [
     tipo: "perfilada",
     categoria: "Autocaravana",
     precioDesde: null, // Benimar no publica PVP oficial; no inventar
-    potenciaCv: 140,
+    potenciaCv: 140, // «no oficial»: motorización estándar de la gama Mileo
     autonomiaKm: null,
     maleteroL: null,
     ceroCien: null,
@@ -33,57 +26,61 @@ export const AUTOCARAVANAS_BENIMAR_M1: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/benimar-mileo-243-2026-precio-ficha-tecnica-oficial.webp",
+    imagen: "/media/benimar-mileo-243-2026-precio-ficha-tecnica-ext.webp",
     imagenOficial:
-      "/media/benimar-mileo-243-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/benimar-mileo-243-2026-precio-ficha-tecnica-ext.webp",
     imagenInteriorOficial:
       "/media/benimar-mileo-243-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
     videoCanal: null,
-    largoMm: 6990, // «no oficial»: sin ficha oficial del 243; 6,99 m según hoja de concesionario UK
-    anchoMm: 2300, // «no oficial»: hoja de concesionario UK (gama ES 2027: 2,32 m)
-    altoMm: 2890,
-    pesoKg: null, // masa en orden de marcha no publicada por Benimar para esta versión
-    mmaKg: 3500, // «no oficial»: 3.500 kg a nivel de gama; la hoja UK del 243 indica 3.650 kg
+    largoMm: 6990, // «no oficial»: hoja de concesionario UK del modelo
+    anchoMm: 2300, // «no oficial»: hoja de concesionario UK (gama 2027: 2,32 m)
+    altoMm: 2890, // «no oficial»: hoja de concesionario UK del modelo
+    pesoKg: null, // masa en orden de marcha no publicada para esta versión
+    mmaKg: 3500, // «no oficial»: 3.500 kg a nivel de gama; la hoja UK indica 3.650 kg
     carnetNecesario: "B",
     cargaUtilKg: null,
     consumo: null,
     consumoUnidad: null,
     plazas: 4, // «no oficial»: 4 plazas según hoja de concesionario UK
+    plazasDormir: null, // la marca no publica las plazas para dormir de este modelo
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["largoMm", "anchoMm", "mmaKg", "plazas"], // «no oficial»: ver nota en cabecera
+    aprox: ["largoMm", "anchoMm", "altoMm", "mmaKg", "plazas", "potenciaCv"],
+    notas:
+      "Benimar no publica ficha oficial del Mileo 243 (no está en el catálogo oficial 2027) ni PVP. Medidas, MMA, plazas y potencia, de hoja de concesionario UK del modelo: «dato no oficial · en revisión».",
+    descripcion: `La Benimar Mileo 243 es una autocaravana perfilada de 6,99 metros que pertenece a la gama Mileo, la perfilada más sofisticada de Benimar, la marca que más autocaravanas vende en España y que fabrica en Benicarló, primero, y ahora en su nueva planta de Peñíscola. La gama Mileo se distingue dentro del catálogo de Benimar por sus interiores cuidados con acabados premium, y la 243 es una de sus distribuciones con cama transversal trasera y cama basculante delantera, pensada para parejas que viajan con invitados ocasionales o con un niño.
+
+Hay que empezar con una advertencia honesta: Benimar no publica ficha oficial del Mileo 243. El modelo no aparece en el catálogo oficial 2027 de la marca, y los datos que manejamos proceden de una hoja técnica de un concesionario británico del modelo, así que van marcados como «dato no oficial · en revisión». Según esa hoja, la 243 mide 6,99 m de largo, 2,30 m de ancho y 2,89 m de alto, con una MMA de 3.500 kg a nivel de gama —la hoja británica indica 3.650 kg para esta versión concreta— y 4 plazas homologadas. La motorización estándar de la gama es el Fiat Ducato 2.2 de 140 CV, el motor que monta la inmensa mayoría de las perfiladas europeas de este tamaño. Con 3.500 kg se conduce con el carnet B; si la unidad concreta está homologada a 3.650 kg, en España haría falta el C1, un detalle que conviene verificar en la ficha de la unidad antes de comprar.
+
+La gama Mileo se caracteriza por la construcción ISB de Benimar: paredes y techo sin madera, con aislamiento de poliéster, una solución pensada para eliminar de raíz los problemas de humedades estructurales que históricamente han lastrado a las autocaravanas. La puerta de acceso es la LUXE extra ancha de la marca, con ventana y mosquitera, y el interior apuesta por ambientes modernos con madera oscura y blanco lacado. Uno de los argumentos de Benimar es la personalización por packs: el Plus, el Winter y el Northautokapp permiten configurar la misma base para esquiar en invierno o para el sur en verano, con calefacción reforzada, segundos depósitos y equipamiento de conducción ampliado. Es una filosofía de «elige tu aventura» que funciona bien en el mercado español, donde el mismo vehículo se usa en agosto en la playa y en enero en la sierra.
+
+En la vida a bordo, la distribución con cama transversal trasera y cama basculante eléctrica delantera ofrece dos plazas fijas siempre hechas y dos más que se despliegan en segundos, a costa de tener que hacer y deshacer la cama delantera a diario si viajan cuatro. El salón delantero, con asientos giratorios de cabina, es luminoso gracias a la claraboya panorámica que la marca anuncia para la gama. Los 140 CV del Ducato son suficientes en llano y en autovía, pero con la célula cargada y cuatro ocupantes el motor va justo en puertos largos, el peaje habitual de las perfiladas de 3,5 toneladas con motor base. Los casi 7 metros de eslora se notan al aparcar en áreas pequeñas, aunque siguen siendo manejables para un conductor acostumbrado.
+
+Del precio no hay cifra oficial: Benimar no publica PVP y cada concesionario fija el suyo, así que negociar lleva tiempo y las diferencias entre provincias pueden ser de miles de euros. Como referencia de gama, las Mileo bien equipadas se mueven en la franja media-alta de las perfiladas generalistas, por encima de las Tessoro de la propia marca y por debajo de las integrales Amphitryon. Sus rivales naturales son la Dethleffs Trend, la Bürstner Lyseo TD y la Chausson Titanium en distribuciones equivalentes de 7 metros.
+
+Verificación de fuentes: al no existir ficha oficial del fabricante para el Mileo 243, los datos de esta ficha proceden de la hoja técnica de un concesionario británico del modelo, contrastada con la información de gama que Benimar sí publica (motorización 140 CV, construcción ISB, packs disponibles). Todos los campos numéricos específicos del modelo van marcados como «dato no oficial · en revisión»; recomendamos confirmar cada cifra en el concesionario con la ficha de la unidad concreta. Benimar fabrica en España (Benicarló/Peñíscola) y forma parte del grupo Trigano.
+
+Perfil de comprador: la Mileo 243 encaja con parejas que buscan la perfilada más refinada de la marca líder en España, con servicio postventa cercano y recambios sin esperas, y que aceptan comprar con datos de concesionario ante la falta de ficha oficial. No encaja con quien necesite certezas documentales de cada cifra ni con familias de cuatro que duerman cada noche a bordo. Balance: una perfilada atractiva y bien construida, con el respaldo de la red Benimar en España, lastrada únicamente por la opacidad informativa del fabricante sobre este modelo concreto. La red comercial de Benimar en España, la más densa del sector, facilita además la posventa y el acceso a recambios, un factor que pesa mucho cuando la autocaravana se compra para una década.`,
     pros: [
-      "La marca que más autocaravanas vende en España, fabricada en Benicarló: recambios y servicio sin esperas",
-      "Gama Mileo sobre Fiat Ducato (la Tessoro va sobre Ford): eliges chasis según tu mecánico de confianza",
+      "La marca que más autocaravanas vende en España, fabricada en Benicarló/Peñíscola: recambios y servicio sin esperas",
+      "Gama Mileo sobre Fiat Ducato: eliges chasis según tu mecánico de confianza",
       "Construcción ISB sin madera en paredes y techo: adiós a las humedades estructurales",
       "Puerta de acceso LUXE extra ancha con ventana y mosquitera: entrar y salir es un placer",
       "Packs Plus, Winter y Northautokapp: la configuras para esquiar o para el sur sin cambiar de modelo",
     ],
     contras: [
+      "Sin ficha oficial del fabricante para este modelo: todos los datos son de concesionario",
       "Sin PVP oficial publicado: cada concesionario da su precio y negociar lleva tiempo",
-      "El dormitorio trasero con cama basculante delantera obliga a hacer y deshacer camas a diario",
-      "Deportivos de 140 CV: suficiente en llano, perezoso en puertos con la célula cargada",
-      "Casi 7 metros de eslora: en áreas de autocaravanas pequeñas toca aparcar 'a lo largo'",
-      "Los opcionales que de verdad se usan (toldo, placa solar, TV) vienen en packs de pago",
+      "El dormitorio con cama basculante delantera obliga a hacer y deshacer camas a diario si viajan cuatro",
+      "140 CV justos en puertos con la célula cargada",
+      "Casi 7 metros de eslora: en áreas de autocaravanas pequeñas toca aparcar con cuidado",
     ],
     opiniones: [],
-    costeMensual: {
-      costeEnergia100km: 13.5,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.6,
-      seguroTercerosAnual: 650,
-      seguroAmpliadoAnual: 1200,
-      mantenimientoAnual: 600,
-      costeMensualTotal: 420,
-      notas:
-        "Estimación con 12.000 km/año, consumo medio ~10 l/100 km de gasóleo y seguro a todo riesgo. Coste real muy dependiente del uso.",
-      estimado: true,
-    },
     galeria: [
       {
-        src: "/media/benimar-mileo-243-2026-precio-ficha-tecnica-oficial.webp",
+        src: "/media/benimar-mileo-243-2026-precio-ficha-tecnica-ext.webp",
         alt: "Benimar Mileo 243, vista lateral",
         ancho: 1200,
         alto: 800,
@@ -95,7 +92,7 @@ export const AUTOCARAVANAS_BENIMAR_M1: Autocaravana[] = [
         alto: 800,
       },
     ],
-    analisisSlug: "benimar-mileo-243-2026-precio-ficha-tecnica",
+    analisisSlug: "benimar-mileo-243-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
         "Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Fiat)",
@@ -117,8 +114,8 @@ export const AUTOCARAVANAS_BENIMAR_M1: Autocaravana[] = [
       fuente: "Plan de mantenimiento Fiat Ducato + recomendaciones Benimar",
     },
     euroncap: null,
-    fuenteNombre: "Benimar (web oficial, gama Mileo)",
-    fuenteUrl: "https://www.benimar.es/en/low-profile-motorhomes/",
+    fuenteNombre: null,
+    fuenteUrl: null,
   },
   {
   id: "benimar-amphitryon-940-2026-precio-ficha-tecnica",
@@ -127,7 +124,7 @@ export const AUTOCARAVANAS_BENIMAR_M1: Autocaravana[] = [
   tipo: "integral",
   categoria: "Autocaravana",
   precioDesde: null, // Benimar no publica PVP oficial; no inventar
-  potenciaCv: 140, // Fiat Ducato 2.2; 180 CV opcional
+  potenciaCv: 140, // «no oficial»: Fiat Ducato 2.2; 180 CV opcional según ficha de concesionario
   autonomiaKm: null,
   maleteroL: null,
   ceroCien: null,
@@ -138,57 +135,61 @@ export const AUTOCARAVANAS_BENIMAR_M1: Autocaravana[] = [
   garantiaBateriaAnos: null,
   garantiaBateriaKm: null,
   garantiaBateriaDegradacionPct: null,
-  imagen: "/media/benimar-amphitryon-940-2026-precio-ficha-tecnica-oficial.webp",
+  imagen: "/media/benimar-amphitryon-940-2026-precio-ficha-tecnica-ext.webp",
   imagenOficial:
-  "/media/benimar-amphitryon-940-2026-precio-ficha-tecnica-oficial.webp",
+  "/media/benimar-amphitryon-940-2026-precio-ficha-tecnica-ext.webp",
   imagenInteriorOficial:
   "/media/benimar-amphitryon-940-2026-precio-ficha-tecnica-interior.webp",
   videoId: null,
   videoCanal: null,
-  largoMm: 6990,
-  anchoMm: 2370,
-  altoMm: 2950,
-  pesoKg: 3085, // masa en orden de marcha ±5% según ficha técnica oficial
-  mmaKg: 3500,
+  largoMm: 6990, // «no oficial»: ficha técnica de concesionario (Motorvisión)
+  anchoMm: 2370, // «no oficial»: ficha técnica de concesionario (Motorvisión)
+  altoMm: 2950, // «no oficial»: ficha técnica de concesionario (Motorvisión)
+  pesoKg: 3085, // «no oficial»: masa en orden de marcha ±5 % según ficha de concesionario
+  mmaKg: 3500, // «no oficial»: ficha técnica de concesionario (Motorvisión)
   carnetNecesario: "B",
-  cargaUtilKg: 415, // calculada: 3.500 − 3.085 (MMA menos masa en orden de marcha)
+  cargaUtilKg: null, // la cifra anterior (415 kg) era calculada (MMA − MRO): no se publica
   consumo: null,
   consumoUnidad: null,
-  plazas: 5,
+  plazas: 5, // «no oficial»: ficha técnica de concesionario (Motorvisión)
+  plazasDormir: null, // la marca no publica las plazas para dormir de este modelo
   parNm: null, // no publicado por el fabricante
   traccion: "Delantera",
   emisionesCo2: null,
-  aprox: [],
-  pros: [
+  aprox: ["largoMm", "anchoMm", "altoMm", "pesoKg", "mmaKg", "plazas", "potenciaCv"],
+  notas:
+      "Benimar no publica ficha oficial del Amphitryon 940 (no está en el catálogo oficial 2027) ni PVP. Medidas, masas, plazas y potencia, de la ficha técnica de concesionario Motorvisión (exposé del modelo): «dato no oficial · en revisión». La carga útil no la publica la marca: no se ofrece cifra calculada.",
+    descripcion: `La Benimar Amphitryon 940 es una autocaravana integral de 6,99 metros que destaca por una propuesta poco común: cinco plazas reales para viajar y dormir en una clase A compacta, fabricada en España por Benimar. La gama Amphitryon es la integral de la marca de Benicarló/Peñíscola, con un frontal inspirado en los SUV más prestigiosos —parachoques anguloso, ópticas negras— y una filosofía de lujo accesible: integral española con precio de generalista y servicio postventa cercano, sin los sobrecostes de las premium alemanas.
+
+La honestidad obliga a empezar por las fuentes: Benimar no publica ficha oficial del Amphitryon 940 —el modelo no figura en el catálogo oficial 2027— ni PVP oficial. Los datos que manejamos proceden de la ficha técnica que publica el concesionario Motorvisión (Caravanas Principado, Asturias) para este modelo, así que todos van marcados como «dato no oficial · en revisión». Según esa ficha, la 940 mide 6,99 m de largo, 2,37 m de ancho y 2,95 m de alto, con una masa en orden de marcha de 3.085 kg (±5 %) y una MMA de 3.500 kg, lo que permite conducirla con el carnet B. Homologa 5 plazas para viajar, 5 para comer y 5 para dormir. La carga útil no la publica la marca: la cifra de 415 kg que aparecía antes en esta ficha era un cálculo (3.500 − 3.085) y, siguiendo el criterio de no calcular, la retiramos; con 3.085 kg de masa en orden de marcha y cinco ocupantes, el margen real para equipaje es ajustado y conviene pesarlo en la báscula del concesionario con la unidad configurada.
+
+El gran argumento de la 940 es su triple sistema de camas: cama transversal trasera regulable en altura, cama basculante eléctrica de techo y cama basculante sobre la cabina. Es una arquitectura pensada para que duerman cinco sin convertir el salón cada noche, algo raro en una integral de menos de 7 metros. El garaje, bajo la cama trasera, tiene altura regulable entre 67 y 120 cm con doble portón XL: se puede llevar desde bicicletas hasta una moto pequeña sin renunciar a la cama. La calefacción es a gasóleo de 4.000 W, que utiliza el combustible del depósito del motor: se viaja en invierno sin depender de las botellas de gas, una ventaja práctica enorme en rutas largas por el norte de Europa. La célula se construye con el sistema ISB de Benimar, sin madera en paredes ni techo, y el salón cara a cara con mesa plegable acoge a cinco comensales.
+
+Mecánicamente monta el Fiat Ducato 2.2 de 140 CV, con 180 CV opcional para quien prevea montaña con carga. Los 140 CV de base son suficientes en llano, pero con 3,5 toneladas y cinco ocupantes el 180 CV se agradece en puertos, y es una opción que conviene valorar en el pedido porque reequipar después sale más caro. La altura de 2,95 m y la anchura de 2,37 m la hacen más sensible al viento lateral que una perfilada equivalente y encarecen algunos peajes, el peaje físico de las integrales.
+
+Del precio, como en toda la gama Benimar, no hay cifra oficial: cada concesionario fija la suya y las diferencias entre provincias pueden ser de miles de euros. Como referencia de mercado, los concesionarios españoles anuncian la Amphitryon 940 nueva en el entorno de los 90.000 euros con packs, una cifra orientativa de concesionario, no un PVP oficial. Sus rivales son las integrales de 7 metros con cinco plazas de otras generalistas —Pilote, Chausson, Bavaria— y, por encima en precio, las alemanas Dethleffs o Bürstner. Frente a ellas, la Benimar juega la baza de la fabricación nacional: recambios, garantía y servicio sin intermediarios ni esperas de importación.
+
+Fuentes y comprobación: ante la falta de documentación oficial del fabricante para el Amphitryon 940, todos los datos proceden de la ficha técnica que publica el concesionario Motorvisión (Caravanas Principado, Asturias) para este modelo, contrastada con la información de gama de Benimar (construcción ISB, calefacción a gasóleo, packs). Ningún campo numérico tiene respaldo oficial del fabricante: todos van en «aprox» con la nota correspondiente. Benimar forma parte del grupo Trigano y fabrica en España.
+
+A quién va dirigida: la Amphitryon 940 es para familias de cinco que quieren una integral auténtica —parabrisas panorámico y presencia de clase A— en menos de 7 metros, fabricada en España y con servicio cercano, asumiendo que los datos técnicos son de concesionario. No es para quien busque una integral ligera de 3,5 toneladas con mucha carga útil ni para quien exija certezas oficiales de cada cifra. Conclusión: la integral familiar española más compacta y mejor equipada por su precio orientativo, con una arquitectura de camas muy bien pensada, lastrada por la falta de documentación oficial del fabricante y por una carga útil realista que obliga a viajar ligero. La fabricación nacional es aquí un argumento tangible: plazos de entrega más cortos que los de las integrales importadas y un servicio posventa sin intermediarios, algo que las familias que viajan mucho agradecen cuando surge una avería en ruta.`,
+    pros: [
   "Integral de 6,99 m con 5 plazas reales para viajar y dormir: la clase A familiar más compacta del mercado español",
   "Triple sistema de camas: transversal trasera regulable en altura + basculante eléctrica de techo + basculante de cabina",
   "Calefacción a gasóleo de 4.000 W: calientas con el depósito del motor y viajas en invierno sin depender de las botellas de gas",
   "Garaje con altura regulable de 67 a 120 cm y doble portón XL: de las bicis a una moto pequeña sin renunciar a la cama",
-  "Fabricada en Benicarló con célula de poliéster ISB sin madera en paredes y techo: integral española con servicio postventa cercano",
+  "Fabricada en Benicarló/Peñíscola con célula de poliéster ISB sin madera en paredes y techo: integral española con servicio postventa cercano",
   ],
   contras: [
-  "Masa en orden de marcha de 3.085 kg: con 5 ocupantes solo quedan 415 kg de carga útil teórica, menos en la práctica",
+  "Sin ficha oficial del fabricante para este modelo: todos los datos son de concesionario",
+  "Masa en orden de marcha de 3.085 kg: con 5 ocupantes la carga útil real es ajustada y la marca no publica cifra",
   "Motor base de 140 CV para 3,5 toneladas: en puertos con la célula cargada se agradece el 180 CV opcional",
-  "Cama de cabina de 140×190 cm: justa para dos adultos altos, y la basculante de techo es de una sola plaza",
   "Sin PVP oficial publicado: cada concesionario fija su precio y las ofertas varían miles de euros entre provincias",
   "2,95 m de alto y 2,37 m de ancho: peajes más caros y más sensibilidad al viento lateral que una perfilada equivalente",
   ],
   opiniones: [],
-  costeMensual: {
-  costeEnergia100km: 14.7,
-  precioKwh: 0.18,
-  precioGasolinaL: 1.6,
-  seguroTercerosAnual: 650,
-  seguroAmpliadoAnual: 1200,
-  mantenimientoAnual: 600,
-  costeMensualTotal: 425,
-  notas:
-  "Estimación con 12.000 km/año, consumo medio ~10,5 l/100 km de gasóleo y seguro a todo riesgo. Coste real muy dependiente del uso.",
-  estimado: true,
-  },
   galeria: [
   {
-  src: "/media/benimar-amphitryon-940-2026-precio-ficha-tecnica-oficial.webp",
+  src: "/media/benimar-amphitryon-940-2026-precio-ficha-tecnica-ext.webp",
   alt: "Benimar Amphitryon 940, vista tres cuartos delantera",
   ancho: 1200,
   alto: 800,
@@ -200,7 +201,7 @@ export const AUTOCARAVANAS_BENIMAR_M1: Autocaravana[] = [
   alto: 800,
   },
   ],
-  analisisSlug: "benimar-amphitryon-940-2026-precio-ficha-tecnica",
+  analisisSlug: "benimar-amphitryon-940-2026-analisis-opinion",
   planMantenimiento: {
   intervalo:
   "Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Fiat)",
@@ -222,8 +223,8 @@ export const AUTOCARAVANAS_BENIMAR_M1: Autocaravana[] = [
   fuente: "Plan de mantenimiento Fiat Ducato + recomendaciones Benimar",
   },
   euroncap: null,
-  fuenteNombre: "Benimar (ficha técnica oficial)",
-  fuenteUrl: "https://www.benimar.es",
+  fuenteNombre: null,
+  fuenteUrl: null,
   },
   {
   id: "benimar-sport-340-up-2026-precio-ficha-tecnica",
@@ -232,7 +233,7 @@ export const AUTOCARAVANAS_BENIMAR_M1: Autocaravana[] = [
   tipo: "capuchina",
   categoria: "Autocaravana",
   precioDesde: null, // Benimar no publica PVP oficial; no inventar
-  potenciaCv: 130, // base; 160/165 CV y cambio automático de 9 velocidades opcionales
+  potenciaCv: 130, // «no oficial»: base según fichas de concesionarios; 160/165 CV y automático de 9 velocidades opcionales
   autonomiaKm: null,
   maleteroL: null,
   ceroCien: null,
@@ -243,57 +244,61 @@ export const AUTOCARAVANAS_BENIMAR_M1: Autocaravana[] = [
   garantiaBateriaAnos: null,
   garantiaBateriaKm: null,
   garantiaBateriaDegradacionPct: null,
-  imagen: "/media/benimar-sport-340-up-2026-precio-ficha-tecnica-oficial.webp",
+  imagen: "/media/benimar-sport-340-up-2026-precio-ficha-tecnica-ext.webp",
   imagenOficial:
-  "/media/benimar-sport-340-up-2026-precio-ficha-tecnica-oficial.webp",
+  "/media/benimar-sport-340-up-2026-precio-ficha-tecnica-ext.webp",
   imagenInteriorOficial:
   "/media/benimar-sport-340-up-2026-precio-ficha-tecnica-interior.webp",
   videoId: null,
   videoCanal: null,
-  largoMm: 6760,
-  anchoMm: 2300,
-  altoMm: 3080,
-  pesoKg: 2900, // «no oficial»: aprox. según alpacacamping.de (concesionario); Benimar no publica cifra única oficial
-  mmaKg: 3500,
+  largoMm: 6760, // «no oficial»: fichas de concesionarios del modelo
+  anchoMm: 2300, // «no oficial»: fichas de concesionarios del modelo
+  altoMm: 3080, // «no oficial»: fichas de concesionarios del modelo
+  pesoKg: 2900, // «no oficial»: aprox. según fichas de concesionarios; Benimar no publica cifra única oficial
+  mmaKg: 3500, // «no oficial»: fichas de concesionarios del modelo
   carnetNecesario: "B",
   cargaUtilKg: null, // sin cifras oficiales de masa no se puede calcular con fiabilidad
   consumo: null,
   consumoUnidad: null,
-  plazas: 5,
+  plazas: 5, // «no oficial»: fichas de concesionarios del modelo
+  plazasDormir: null, // la marca no publica las plazas para dormir de este modelo
   parNm: null, // no publicado por el fabricante
   traccion: "Delantera",
   emisionesCo2: null,
-  aprox: ["pesoKg"], // «no oficial»: masa según ficha de concesionario, no publicada por Benimar
-  pros: [
+  aprox: ["largoMm", "anchoMm", "altoMm", "pesoKg", "mmaKg", "plazas", "potenciaCv"],
+  notas:
+      "Benimar no publica ficha oficial del Sport 340 UP (no está en el catálogo oficial 2027) ni PVP. Medidas, masas, plazas y potencia, de fichas de concesionarios del modelo (AlpacaCamping, entre otros): «dato no oficial · en revisión».",
+    descripcion: `La Benimar Sport 340 UP es una autocaravana capuchina de 6,76 metros pensada para familias de cinco, con la cama sobre la cabina como seña de identidad del formato. Pertenece a la gama Sport de Benimar, la de las capuchinas familiares de la marca española, y el apellido UP designa el concepto «lista para viajar» con el que Benimar equipa de serie estas versiones: toldo exterior, panel solar, TV con antena, sensores de aparcamiento y kit de viaje incluidos, para no tener que añadir accesorios después de la compra. Es la capuchina para quien se inicia en el autocaravanismo en familia y quiere salir del concesionario rumbo al primer viaje.
+
+Un apunte previo sobre la documentación: del Sport 340 UP no existe ficha de fábrica —Benimar no lo incluye en su catálogo oficial 2027— ni tarifa pública. La información técnica disponible viene de las fichas que publican los concesionarios del modelo, así que todos los valores numéricos se señalan como «dato no oficial · en revisión». Esas fichas coinciden en las cotas: 6,76 m de longitud, 2,30 m de anchura y 3,08 m de altura, con unos 2.900 kg de masa en orden de marcha y 3.500 kg de MMA, de modo que basta el carnet B. La homologación es de 5 plazas para circular. El portador es el Ford Transit 2.0 de 130 CV de serie, con alternativas de 160/165 CV y caja automática de 9 relaciones para quien prefiera olvidarse del embrague. El Transit aporta un bastidor robusto con vía trasera ensanchada que estabiliza el conjunto en carretera, una cualidad valiosa en una capuchina alta.
+
+La distribución está pensada para cinco: cama capuchina de 155 × 210 cm sobre la cabina —una de las más grandes del segmento, donde duermen dos adultos de verdad—, cama trasera regulable en altura sobre el garaje modulable, y salón delantero convertible. El garaje es uno de los puntos fuertes: al regular la altura de la cama trasera, el espacio libre varía y admite desde maletas familiares hasta bicicletas. La cocina monta un frigorífico de 150 litros, justo pero suficiente para cinco en viajes de una o dos semanas; en verano o en rutas largas, una nevera auxiliar portátil es una compra sensata. El baño es completo, con ducha separada por mampara rígida, un lujo en una capuchina de menos de 7 metros. La calefacción es a gasóleo de 4.000 W, que usa el combustible del depósito del Transit: invierno sin depender de botellas de gas y con la posibilidad de usarla en marcha. De serie incluye ISOFIX en el comedor, un detalle que delata su enfoque familiar.
+
+En marcha, la capuchina impone sus servidumbres: 3,08 m de altura significan más consumo que una perfilada equivalente y peor comportamiento con viento lateral fuerte, así que en días de temporal conviene reducir la velocidad y anticipar las rachas en puentes y descampados. A cambio, la visibilidad desde el puesto de conducción es excelente y la maniobrabilidad, con 6,76 m, es casi la de una perfilada grande: aparca y gira donde una integral de 7,4 m ya sufre. El motor base de 130 CV es suficiente en llano, pero con cinco ocupantes y la célula cargada se queda justo en puertos; el salto al 160/165 CV o al automático de 9 velocidades es una opción a valorar en el pedido.
+
+En cuanto al importe, no existe tarifa de fábrica: Benimar no difunde PVP y cada punto de venta establece el suyo. Las referencias del mercado colocan a las Sport UP entre las capuchinas familiares con mejor relación entre equipamiento y precio, por debajo de las capuchinas germanas equivalentes. En el escaparate compite con la Challenger Mageo o la Chausson capuchina de enfoque familiar, y dentro de la propia casa con las Tessoro para quien prefiera el formato perfilado. El concepto UP, con su dotación viajera incluida de serie, es su mejor baza comercial frente a competidoras que tarifican cada accesorio por separado.
+
+Comprobación de datos: al no publicar Benimar ficha oficial del Sport 340 UP, los datos proceden de fichas técnicas de concesionarios del modelo, contrastadas entre sí (las medidas de 6,76 × 2,30 × 3,08 m y la MMA de 3.500 kg coinciden en las distintas fuentes). Todos los campos numéricos van en «aprox» con la nota correspondiente. Benimar forma parte del grupo Trigano y fabrica en España.
+
+Comprador ideal: la Sport 340 UP está pensada para familias de cinco que se inician en el autocaravanismo y quieren una capuchina manejable, bien equipada de serie y con servicio postventa nacional, asumiendo que los datos técnicos son de concesionario. No está pensada para quien busque el consumo más bajo —la capuchina penaliza la aerodinámica— ni para quien necesite certezas oficiales de cada cifra. Cierre: una de las capuchinas familiares más racionales del mercado español por concepto y equipamiento de serie, con la incógnita documental como único lunar serio.`,
+    pros: [
   "Capuchina de 6,76 m para 5 personas: formato familiar que aparca y maniobra casi como una perfilada grande",
   "Cama capuchina de 155×210 cm, de las más grandes del segmento: duermen dos adultos de verdad sobre la cabina",
   "Calefacción a gasóleo de 4.000 W: invierno sin depender de botellas de gas, usando el depósito del Transit",
   "ISOFIX de serie en el comedor y garaje modulable: pensada para familias con niños pequeños",
-  "Ford Transit con cambio automático de 9 velocidades disponible: la capuchina sin palanca para quien viene del turismo",
+  "Concepto UP «lista para viajar»: toldo, solar, TV y sensores de serie, sin accesorios que añadir",
   ],
   contras: [
-  "3,08 m de altura con la capuchina: más consumo y peor comportamiento con viento lateral que las perfiladas equivalentes",
-  "La cama trasera regulable en altura obliga a elegir: o garaje grande o cama baja, no hay término medio por la noche",
+  "Sin ficha oficial del fabricante para este modelo: todos los datos son de concesionario",
+  "3,08 m de altura con la capuchina: más consumo y peor comportamiento con viento lateral que las perfiladas",
+  "La cama trasera regulable en altura obliga a elegir: o garaje grande o cama baja por la noche",
   "Motor base de 130 CV: suficiente en llano, justo con 5 ocupantes y la célula cargada en puertos",
   "Nevera de 150 l para 5 personas: en verano y viajes largos se queda corta sin nevera auxiliar",
-  "Sin PVP oficial publicado: negociar con el concesionario es obligatorio y los precios varían mucho",
   ],
   opiniones: [],
-  costeMensual: {
-  costeEnergia100km: 13.5,
-  precioKwh: 0.18,
-  precioGasolinaL: 1.6,
-  seguroTercerosAnual: 650,
-  seguroAmpliadoAnual: 1200,
-  mantenimientoAnual: 600,
-  costeMensualTotal: 420,
-  notas:
-  "Estimación con 12.000 km/año, consumo medio ~10 l/100 km de gasóleo y seguro a todo riesgo. Coste real muy dependiente del uso.",
-  estimado: true,
-  },
   galeria: [
   {
-  src: "/media/benimar-sport-340-up-2026-precio-ficha-tecnica-oficial.webp",
+  src: "/media/benimar-sport-340-up-2026-precio-ficha-tecnica-ext.webp",
   alt: "Benimar Sport 340 UP, vista tres cuartos delantera",
   ancho: 1200,
   alto: 800,
@@ -305,16 +310,16 @@ export const AUTOCARAVANAS_BENIMAR_M1: Autocaravana[] = [
   alto: 800,
   },
   ],
-  analisisSlug: "benimar-sport-340-up-2026-precio-ficha-tecnica",
+  analisisSlug: "benimar-sport-340-up-2026-analisis-opinion",
   planMantenimiento: {
   intervalo:
-  "Ford Transit 2.0: revisión cada 2 años o 40.000 km (lo que ocurra antes; intervalo Ford no verificado en web oficial para esta versión — consultar el manual)",
+  "Ford Transit 2.0: revisión según el plan de mantenimiento oficial Ford (consultar el manual de la unidad)",
   revisiones: [
   {
-  nombre: "Revisión Ford Transit (2 años / 40.000 km)",
+  nombre: "Revisión Ford Transit (según plan oficial Ford)",
   queSeCambia:
   "Aceite + filtro de aceite + filtro de polen + inspección general",
-  costeAproxEur: 380,
+  costeAproxEur: 350,
   },
   {
   nombre: "Revisión célula Benimar (anual recomendada)",
@@ -325,10 +330,10 @@ export const AUTOCARAVANAS_BENIMAR_M1: Autocaravana[] = [
   ],
   costeAnualAproxEur: 630,
   fuente:
-  "Intervalo Ford Transit (pendiente de verificación en web oficial) + recomendaciones Benimar",
+  "Plan de mantenimiento Ford Transit (consultar el manual de la unidad) + recomendaciones Benimar",
   },
   euroncap: null,
-  fuenteNombre: "Benimar (web oficial)",
-  fuenteUrl: "https://www.benimar.es",
+  fuenteNombre: null,
+  fuenteUrl: null,
   }
 ];
