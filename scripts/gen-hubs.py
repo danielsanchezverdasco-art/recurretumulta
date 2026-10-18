@@ -8,8 +8,9 @@ def redirigidas(c):
   for l in open(f"{D}/_redirects",encoding="utf8"):
     p=l.split()
     if len(p)<3 or p[0].startswith("#") or not p[0].startswith(f"/{c}/"): continue
-    dst=p[1].replace("https://recurretumulta.online","")
-    if dst.startswith(f"/{c}/") and os.path.isfile(f"{D}{dst.rstrip('/')}/index.html"): R.add(p[0].strip("/").split("/")[-1])
+    # 18/10/2026: cualquier 301 forzado cuenta como redirigida (a otra ficha o al hub de marca, que en un
+    # dist limpio aún no existe porque gen-marcas va después). Mismo criterio que *_PUBLICADOS.
+    if p[2].startswith("301") and p[0].strip("/").count("/")==1: R.add(p[0].strip("/").split("/")[-1])
   return R
 def publicadas(c):
   R=redirigidas(c)

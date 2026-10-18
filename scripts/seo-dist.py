@@ -28,8 +28,8 @@ def hubs():
     for l in open(f"{D}/_redirects",encoding="utf8"):
       p=l.split()
       if len(p)<3 or p[0].startswith("#") or not p[0].startswith(f"/{c}/"): continue
-      dst=p[1].replace(ORIG,"")
-      if dst.startswith(f"/{c}/") and os.path.isfile(f"{D}{dst.rstrip('/')}/index.html"): RED.add(p[0].strip("/").split("/")[-1])
+      # 18/10/2026: cualquier 301 forzado = redirigida (mismo criterio que gen-hubs y *_PUBLICADOS)
+      if p[2].startswith("301") and p[0].strip("/").count("/")==1: RED.add(p[0].strip("/").split("/")[-1])
     for s in sorted(os.listdir(f"{D}/{c}")):
       f=f"{D}/{c}/{s}/index.html"
       if s=="marca" or s in RED or not os.path.isfile(f): continue
