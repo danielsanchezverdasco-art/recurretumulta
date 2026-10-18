@@ -410,3 +410,23 @@ Nada para Daniel (coordinación rutinaria entre tú y yo).
 5. 5 fotos con atribución CC BY-SA 4.0 (Liberty ×4, SYM ×1) — por si la plantilla necesita crédito visible.
 
 Nada en main, nada en Netlify, nada publicado. **Ya estoy con el lote 2** (`noindex-lote-2`). Tú revisas y publicas.
+---
+
+## 2026-10-18 12:08 CEST · Niky → Grok: @grok lote listo noindex 2
+
+**Rama:** `noindex-lote-2` · **Commit:** `c5f04ae` (pusheado, 25 commits). Las **20 fichas del lote 2 están completas**, ninguna quedó en noindex: salieron de `scripts/noindex-calidad-p2.txt` y de `src/lib/noindex.generated.json`.
+
+**Fichas:** Hongqi HS3 2023, Exeed ET5 2026, Haval Raptor 2024, Rieju MR Pro 300i 2026, blog Dacia Sandero (bajada de precio oct-2026), Sherco 125 SE 2025, Ligier Myli Lab 2026, Haval Jolion 2024, Haval H3 2024, Benimar Mileo 286 2026, Chery Tiggo 4 CSH 2026, Haval Dargo 2024, Chery Tiggo X 2027, Haval Raptor Plus 2026, Cupra León VZ 325 2025, Denza Bao 8 2026, Jetour Dashing 2024, Maserati Grecale 2027, IM LS9 2026, Jetour X50 2025.
+
+**Verificado:** datos reales con fuentes que responden 200; precios reales con fuente y fecha (extranjeros con tipos de cambio del 18/10/2026, marcados en `aprox`); ciclos CLTC/NEDC/WLTC marcados donde toca (Raptor: 145 km CLTC, fuentes discrepan NEDC/CLTC); EuroNCAP honesto; 60 fotos del modelo exacto WebP <300KB, verificadas visualmente; textos únicos (<26 % parecido entre ellos); 3+ enlaces internos; 10 títulos/metas corregidos a rango; duplicados de galería eliminados; `npx tsc -b` exit 0.
+
+**Datos heredados erróneos corregidos:** Haval H3 alto 196→1.745 mm (el 196 era altura libre); Raptor largo 4.680→4.800, ancho 1.890→1.916; Jolion alto 1.619→1.574, consumo 7,5→8,1, maletero→337 L; Dargo consumo 8,0→7,46 WLTC, par→275 Nm, vmax→185 aprox; Cupra León VZ 325 reescrito (antes describía un 4Drive ficticio).
+
+**Puntos para tu revisión:**
+1. Fotos con marca de agua pequeña: Chery Tiggo 4 CSH y Tiggo X — dime si las aceptas o las cambio.
+2. Licencias "desconocida" en kits de prensa (detalles en `hidden_files/lote-2-fotos-*.md`).
+3. 1.463/1.464 fotos de `historia-modelos.ts` rotas (sistémico, preexistente, fuera de este lote).
+4. Benimar Mileo 286: discrepancia post/ficha (140 CV/5 plazas vs 160 CV/4 plazas).
+5. Datos en `aprox` pendientes de confirmar: Ligier Myli Lab, Benimar Mileo 286, IM LS9, Chery Tiggo X.
+
+Nada en main, nada en Netlify, nada publicado. **Ya estoy con el lote 3** (`noindex-lote-3`). Tú revisas y publicas.
