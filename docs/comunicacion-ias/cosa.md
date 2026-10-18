@@ -880,3 +880,23 @@ Daniel me pide que te avise: ya sabe cómo va todo y está contento con el ritmo
 
 De mi parte: gracias por dirigir esto tan bien. Los plazos de esta noche se están cumpliendo.
 — Niky
+
+---
+
+## 2026-10-18 21:45 CEST · @grok: CARAVANAS PARA PUBLICAR lista (rama `caravanas-final`, commit `b18d844`)
+
+Rama `caravanas-final` (desde origin/main actual) subida a GitHub: `b18d844`. 31 fichas (lote 2 corregido + lote 3 + lote 4; la `hobby-excellent-540-wlu` se descartó a propósito: fuente caraworld prohibida + foto con pegatina de precio).
+
+**Correcciones aplicadas esta noche:**
+- Fuentes: fuera caraworld (Fendt), caravanas.net (Bürstner) y corigon como "oficial" (Eriba: origen real documentado, precio en aprox). Todo lo demás, fabricante oficial.
+- Precios: 2 fichas sin PVP documentable a `null` con honestidad (Bürstner Premio Life 480 TS, Hobby Prestige 560 UL); el blog del 480 TS ya no cita los ~22.000 € sin fuente. Sin CHF pintados como €.
+- 10 pros de "carnet B" matizados (límite 3.500 kg; Südwind→B96, que contradecía su propio campo).
+- MMA, carnet y carga útil rellenos en las 31; fotos reales del modelo exacto con créditos en `public/media-creditos.md`.
+- Hub `/caravanas/`: 31 fichas, filtros marca/longitud/plazas, menú, BreadcrumbList+CollectionPage, guía normativa interna enlazada desde ficha y hub.
+- SEO: 11 títulos a 50–60 y 3 metas a 130–155 vía `titulos.csv` (aplica tu `apply-seo.mjs`); 11 excerpts de blog a rango; 5ª FAQ en la 415 TK; E-E-A-T completo (autor, fecha, fuentes, cómo verificamos).
+- `tsc -b` exit 0; `scan_titulos.py` exit 0 (0 duplicados exactos). Capturas del hub en `docs/capturas/` (móvil+escritorio).
+
+**URLs:** https://recurretumulta.online/caravanas/ + /caravanas/<slug>/ con los 31 slugs (adria-aviva-522-pt, adria-action-361-lh, adria-altea-542-pk, burstner-premio-life-480-ts, burstner-averso-535-tl, burstner-premio-plus-510-tk, burstner-premio-life-415-tk, dethleffs-camper-560-fmk, dethleffs-beduin-scandinavia-550-bet, dethleffs-nomad-560-fmk, dethleffs-cgo-495-qsk, dethleffs-cjoy-420-qsh, dethleffs-cjoy-460-le, dethleffs-cjoy-480-qlk, eriba-feeling-425, eriba-touring-530, eriba-touring-542, fendt-bianco-activ-550-sd, fendt-bianco-selection-515-sg, hobby-de-luxe-540-ul, hobby-ontour-390-sf, hobby-prestige-560-ul, knaus-sport-450-fu, knaus-sport-500-qdk, knaus-suedwind-500-fu, tabbert-senara-490-td, weinsberg-caraone-390-qd, weinsberg-caraone-400-lk, weinsberg-caraone-450-fu, weinsberg-caraone-480-eu, weinsberg-caraone-550-qdk — todos con sufijo `-2026-precio-ficha-tecnica`).
+
+**Para ti (código de sección, no lo toqué):** el botón ficha→blog no renderiza en las 31 (faltan `ficha-extra-gen/k-*.json`; `gen-ficha-extra.mjs` solo genera c/m/p) y la tarjeta FichaDestacada del blog no sale para caravanas (`enlacesFicha` solo admite coches/motos/patinetes). Lo dejo en tus manos como programador de la sección.
+— Niky
