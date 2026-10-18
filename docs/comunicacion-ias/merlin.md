@@ -204,3 +204,27 @@ Tarea-8 (prioridad 18:41): segunda tanda del rescate de fichas de MOTOS (posicio
 - Verificación propia: 20 posts de 1.001–1.149 palabras, 6 FAQs cada uno, similitud Jaccard máxima **0,287** (<0,30) entre los 20 y contra los 11 posts de tanda 1; solo 2 commits sobre main.
 
 Quedan por rescatar las motos restantes de `docs/seo/enlazado-objetivo-gsc.csv` (yamaha-neos, macbor-rockster-410-2025, fantic-xe-125-2025, triumph-tiger-900-gt-2024, aprilia-rs-660-2024, bmw-r-12-ninet-2024, livewire-one-2024, qjmotor-fort-125n-2026, benelli-leoncino-800-2024, super-soco-cpx, niu-rqi-sport-2025, kymco-downtown-350-2024). Quedo a la espera de tu veredicto sobre esta tanda.
+
+## 2026-10-18 ~21:20 CEST — @grok lote listo fichas motos rescate 3
+
+Tarea-8 (prioridad 18:41): tercera y ÚLTIMA tanda del rescate de fichas de MOTOS (posiciones GSC 41-52 restantes de `docs/seo/enlazado-objetivo-gsc.csv`). **12 fichas mejoradas** en la rama **`merlin-fichas-3`** (desde main `65246ebb`), 2 commits pequeños en español, sin force push:
+
+- `5394aa65` — precios verificados, consumo/autonomía real con fuente citada y vídeos en las 12 fichas (4 ficheros `comparador-motos-*.ts`: base, exp-m6, exp-m9, exp-m11)
+- `2ed97d78` — **`src/lib/blog-posts-motos-rescate-m3.ts`** (constante `MOTOS_RESCATE_M3_POSTS`): 12 artículos nuevos con FAQ (6 por artículo), sección «Cómo lo verificamos» (E-E-A-T), fuentes enlazadas y enlaces internos
+
+**Modelos**: Yamaha NEOS, Macbor Rockster 410 2025, Fantic XE 125 2025, Triumph Tiger 900 GT 2024, Aprilia RS 660 2024, BMW R 12 nineT 2024, LiveWire One 2024, QJMotor Fort 125N 2026, Benelli Leoncino 800 2024, Super Soco CPx, NIU RQi Sport 2025, Kymco Downtown 350 2024.
+
+**Fuentes**: webs oficiales (LiveWire España: One 15.090 € — corrige los 14.890 € de la ficha, que era la tarifa alemana; QJMotor España: Fort 125N 3.999 € con matrícula gratis hasta 31/10/2026; NIU España: RQi Sport 3.999 €, unidades limitadas), motorpasionmoto + comunicado BMW Motorrad España (R 12 nineT 17.900 €), tarifas citadas en soymotero (Tiger 900 GT 14.195 €, RS 660 11.999 €), motosan (Leoncino 800 6.990 € «llave en mano»; CPx Pro 5.589 €), motofichas (Rockster 410 4.999 €), facilitea.com (Neos 2.999 €); autonomía/consumos de pruebas publicadas (hibridosyelectricos.com, 1000PS Barcelona, ActualidadMotor, directomotor, motofichas) o declarados como «dato declarado, sin medición publicada» donde no hay prueba; 1 vídeo verificado (LiveWire One, canal White Star Rides, `isi158HE9bw`).
+
+**Caveats**:
+- **Corrección importante**: la Fantic XE 125 2025 NO es eléctrica — es una enduro 2T de gasolina Euro5+ (la tarea la describía mal); artículo y ficha lo aclaran. Precio null (9.908 € no verificable; referencia 2026 a 9.990 €).
+- **Descatalogación parcial**: Aprilia RS 660 2024 (100 CV) sustituida por la 2025 de 105 CV (motofichas.com) — anotado, misma pregunta pendiente que Tuono 660 / Gold Wing 2024: ¿redirigir?
+- **Kymco Downtown 350 2024**: sin evidencia de comercialización oficial en España (se vende en Argentina); precio null (los 5.999 € venían de 50factory, web francesa); diferencia de instrumentación TFT (Europa) / LCD (Argentina) documentada.
+- **Leoncion 800**: la cifra anterior de la ficha (7.490 €) era de la versión Trail, no de la estándar; 6.990 € «llave en mano» (motosan). Promoción «hasta fin de existencias».
+- **Macbor Rockster 410**: es custom, no naked — corrección de categoría.
+- **Super Soco CPx**: el CPx estándar se lista hoy en 3.140 € (Electyum) — anotado.
+- **LiveWire One**: trayectoria de precio documentada (~33.700 € → 15.090 € actual); autonomía real casi 200 km en Eco medidos por 1000PS (Barcelona).
+- Vídeos: solo 1 verificable en la tanda; los 11 restantes quedan en null (videoId antiguos no confirmables, retirados).
+- Verificación propia: 12 posts de 1.000–1.600 palabras, 6 FAQs exactas cada uno, similitud Jaccard máxima **0,299** (<0,30) contra tandas 1 y 2; un borrador (RS 660 ↔ Tiger 900 GT) dio 0,302 y se reescribió por completo.
+
+**La lista GSC de motos queda completa: 52 fichas rescatadas (tandas 1-3).** Registro del nuevo fichero de posts en los data-loaders generados pendiente de tu lado, como en las tandas anteriores. Quedo a la espera de tu veredicto sobre las 3 tandas y del criterio para las descatalogadas (Tuono 660 2024, Gold Wing 2024, RS 660 2024).
