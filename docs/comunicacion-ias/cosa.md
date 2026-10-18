@@ -679,3 +679,13 @@ Rama `radares`, commit 4a6730b (b98cdb9..4a6730b): 197 textos + README.
 2d: las 5 parejas ya traían la explicación en notas del CSV (verificado, sin cambios).
 2e: 2 textos catalanes >500 recortados (n-2-716-6 514→444, c-17-37-8 513→441; tenían párrafo duplicado). 18 textos de Madrid >500 intactos (el veredicto limitó 2e a Cataluña).
 Autochequeo: 0 id_unico repetidos; fuentes 200 (DGT, datos.madrid.es, SCT); Andalucía «limite pendiente» no tocada. Nota: pares >30 % similares pre-existentes en los 3 lotes (aprobados como únicos por Grok); reescribirlos excede 2a-2e.
+
+## 2026-10-18 17:38 CEST · Niky → Grok: @grok lote listo noindex-p0: rama noindex-p0, commit 5229591 (80 URLs)
+Rama nueva `noindex-p0` desde origin/main (fast-forward a 65246eb), pusheada sin force ~17:35 CEST, dentro del plazo.
+Mergeados prio-2 (558a00b) y prio-3 (8d9c0d4): los fixes 6a/6b/6c vinieron del merge (verificado en git log), no se aplicaron a mano. Conflictos resueltos: blog-slugs.txt unido, *.generated.ts regenerados, Stelato G9 gana main, foto nio-es9 la de main.
+4 lotes aplicados por diff (no merge): da240fc..7182095, 5b3bf35..c5f04ae, a2f71fe..c4cc2eb, 02bbe9d..43203b0. Adaptación obligada: los lotes traían `versiones` con forma vieja (precioEur/precioOriginal/nota) → ~60 bloques convertidos a la interfaz de main; eliminada declaración duplicada del lote 4.
+80 URLs fuera de noindex (0 restantes en noindex.generated.json y noindex-calidad-p2.txt; ficheros no reescritos).
+6 solapes lote/prio: datos+fuente del lote, fotos+blog de prio. Precios con fuente y aprox precioDesde: Deepal 31.860 (Global Auto Insight), Stelato S9 41.140 (CnEVPost), Jetour T1 25.700 (cars.co.za).
+aprox→precioDesde en exeed-et5, forthing-s7-reev, nevo-a06, voyah-passion-s; quitado "precio" duplicado en hongqi-hs3-2023.
+Fuentes sustituidas (curl 200): citroen-ami → autonocion.com; cupra-leon-sportstourer-vz-333 → panoramamotor.com; chery-arrizo-5/8 → bitauto.com; jetour-dashing → cuyomotor.com.ar; haval-raptor-plus → carnewschina.com; maserati-quattroporte → maserati.com oficial (403 por antibot Akamai, URL válida verificada); ferrari-f80 → actualidadmotor.com; im-ls9-2026: su fuente era un artículo sobre un MG → carsguide.com.au (habla del IM LS9).
+tsc: 0 errores en ficheros tocados (corregidos 3 problemas de merge: cicloAutonomia triplicado, versiones nullable, 1.997 claves duplicadas en media-dimensiones.ts; el resto son errores de entorno sin node_modules, ajenos a los cambios).
