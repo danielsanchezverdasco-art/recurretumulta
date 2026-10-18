@@ -1,0 +1,13 @@
+# Radar de tramo C-16, pk 2,103 → 5,148 sentido creciente — 80 km/h
+
+El Eix del Llobregat nace en Barcelona y el primer tramo controlado de la C-16 está entre los pk 2,103 y 5,148, en sentido creciente (hacia el interior), con límite de 80 km/h. Son 3 km de velocidad media en el sector inicial de la vía, donde la C-16 todavía tiene carácter metropolitano: túneles próximos, incorporaciones desde la ronda y un tráfico denso que no admite velocidades altas. El Servei Català de Trànsit impone el tramo —y no un radar fijo— porque en los inicios de vía el efecto acordeón del frenazo es más acusado: con un fijo, todos frenarían en el mismo punto y el riesgo de alcance se dispararía.
+
+El tramo cubre el sector donde la C-16 abandona Barcelona entre infraestructuras: el conductor sale de la ciudad con el ritmo urbano y debe adaptarse a una vía rápida pero limitada a 80. Los 3 km se hacen en 2 minutos y 15 segundos a 80; a 100 de media, en 1 minuto y 49 segundos. Esa diferencia de 26 segundos es la que separa la legalidad de la denuncia. El sistema mide la media con cámaras en ambos extremos y no admite trucos: ni frenar en los pórticos, ni cambiar de carril.
+
+La denuncia se produce cuando la media supera los 80 más el margen reglamentario. El perfil del sancionado es el barcelonés que sale de la ciudad con prisa: acelera en cuanto la vía se abre y mantiene 100 durante los 3 km porque «ya he salido de Barcelona». No ha salido: el 80 sigue vigente y el tramo lo demuestra. El baremo en zona 80 es severo desde pronto, y en un tramo metropolitano los excesos se sancionan sin contemplaciones.
+
+Cómo hacerlo bien: entra al tramo ya a 80 y mantén la velocidad con el limitador. Son poco más de 2 minutos: no hay tiempo para impacientarse ni para «recuperar» nada. Aprovecha para situarte en el carril correcto según tu destino —Berga, Manresa, Andorra—, porque los cambios de carril de última hora en el inicio del Eix son la primera causa de incidentes. Y si vienes de la ronda, no aceleres al incorporarte: entra a velocidad de vía y deja que el tramo te marque el ritmo.
+
+Radares cercanos en la C-16: el tramo gemelo en sentido decreciente (pk 5,15 → 2,101) cubre la vuelta, y por delante los tramos pk 8,675 → 11,22 y pk 11,85 → 8,325 (110). El inicio del Eix del Llobregat queda vigilado en ambos sentidos desde el primer kilómetro.
+
+Nota: la fuente oficial publica este radar con coordenadas de origen erróneas y no se ha podido verificar su posición exacta; por eso no se incluye enlace de Street View. Pk, sentido, longitud y límite son los del catálogo del Servei Català de Trànsit.

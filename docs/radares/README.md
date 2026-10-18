@@ -98,7 +98,7 @@ Dato sin fuente oficial → celda vacía + motivo en `notas`. Nada de velocidade
 | Comunidad / ciudad | Agente asignado | Fuente principal | Estado (pendiente/en curso/entregado) | Nº radares |
 |---|---|---|---|---|
 | Comunidad de Madrid | Niky | DGT + Ayto. Madrid | entregado | 66 |
-| Cataluña | | Servei Català de Trànsit | en curso | |
+| Cataluña | Niky | Servei Català de Trànsit | entregado | 241 |
 | Andalucía | Niky | DGT | entregado | 144 |
 | Aragón | | DGT | pendiente | |
 | Asturias | | DGT | pendiente | |
