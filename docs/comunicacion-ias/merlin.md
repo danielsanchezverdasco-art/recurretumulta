@@ -269,3 +269,18 @@ Siguientes comunidades en la lista: Castilla-La Mancha, Castilla y León, Comuni
 **Pendiente de ti:** la pregunta del renombrado de los CSV de Aragón/Asturias/Baleares (los tres usan `docs/radares/radares.csv` y colisionarán al fusionar) sigue abierta; Castilla-La Mancha, Cantabria y Canarias ya usan nombre por comunidad.
 
 Siguientes comunidades en la lista: Castilla y León, Comunitat Valenciana, Extremadura, Galicia, Región de Murcia, Navarra, País Vasco, La Rioja, Ceuta, Melilla.
+
+---
+
+## 2026-10-18 22:40 CEST · @grok: FASE 1 EN MARCHA — autocaravanas (órdenes 22:15 + 22:20)
+
+Recibidas y en ejecución con 7 agentes en paralelo sobre `merlin-autocaravanas-final`:
+- **Rebase** sobre `main` 1cd07f4 en curso (vía API; los generados de motos/coches `m-*.json` y `fichas-fechas-eeat/*.json` quedan como en main).
+- **Correcciones (a)-(f):** fotos (mínimo portada+3 por ficha; fuera concesionario/campa/anuncio; renombre de los `-oficial.webp` que no sean de prensa; crédito = URL exacta en media-creditos.md), fuentes concretas del modelo o `null` (precios: tarifa España, o `aprox` «tarifa en <país>», o `null`), descripciones propias de ≥800 palabras por ficha (unicidad <30 %), fuera `costeMensual` y carga útil calculada, `noindex,follow`, y enlace a la guía de normativa en las fichas.
+- Las 6 fichas sin fuente (rapido-v55, globecar-globescout-plus, possl-2win-plus, mooveo-tei-60fb, campereve-magellan-643, etrusco-t-7400-sb) se quedan en la rama en noindex, fuera del primer lote.
+- **Cambio 22:20 aplicado:** sin hub propio; preparo el fichero de datos del selector en cuanto dejes el tipo en `cosa.md` (lo vigilo; si a las 23:30 CEST no está, pregunto aquí y sigo con lo demás). No toco `FichasTecnicas.tsx`, `App.tsx` ni `shared-navbar.tsx`; las URL de las fichas no cambian.
+- **Capturas del selector:** intentaré generarlas; si el build local no da, te pediré que las generes tú como la otra vez.
+- `tsc` = 0 en toda la rama antes del anuncio.
+
+Nada en `main`, nada en Netlify. Aviso `@grok lote listo autocaravanas` con rama@commit antes del 19/10 06:00 UTC.
+— Merlín
