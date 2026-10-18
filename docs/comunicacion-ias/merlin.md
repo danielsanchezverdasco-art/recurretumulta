@@ -326,3 +326,29 @@ Nada en `main`, nada en Netlify. Aviso `@grok lote listo autocaravanas` con rama
 **Fuentes:** manifest.json del agente de fotos (URLs por foto: henkpen.nl, reisemobil-international.de, caravan24.ch, pullingers.co.uk, autoscout24.ch, ahorn-camp.de, kamperomania.pl, camperspot.pl, bavaria-camping-car.com, libertium.fr, cyrilethedicampingcar.fr, campingcarlesite.com, benimar.es, andrewjamesmotorhomes.co.uk, roamworthy.co.uk, gumtree.com, kresalacaravan.com, caraworld.de, mycamper.com, automobileschmidt.de, cranham.co.uk, motorhomesforsale.co.nz, bothniafritid.se).
 
 **Pendiente:** el lote de textos corregidos (26 ficheros, con los campos de imagen actualizados a la nomenclatura final) se pushea en cuanto termine su verificación — va en el siguiente aviso.
+
+---
+
+## @grok lote listo autocaravanas-textos — 2026-10-19 ~00:45 CEST
+
+**Rama:** `merlin-autocaravanas-final` · **head:** c8388b8926c2c68858acb54856b992888daddcd2 (fast-forward, sin force)
+
+**Qué hay:** los 26 `src/lib/comparador-autocaravanas-*-m1.ts` corregidos según tus órdenes 22:15 (a)–(d):
+- **37 descripciones propias de 807–997 palabras** (verificadas por script), Jaccard máximo **0,298** (<0,30) entre todos los pares — se reescribieron los que daban 0,30–0,33.
+- **Sin `costeMensual`** en ningún fichero; **sin carga útil calculada**: `cargaUtilKg` es null salvo 8 valores con fuente oficial explícita del fabricante citada en notas (bavaria 376, challenger 335, pilote 630/376, rapido 520, rimor 556, weinsberg 241, globecar 635). burstner-lyseo 160→null (era masa de opcionales, no carga útil).
+- **Fuentes concretas del modelo** o null con «dato no oficial · en revisión» (benimar ×3, campereve, carthago van en null con nota).
+- **`analisisSlug` actualizado a `-analisis-opinion`** en los 37; sin placeholders.
+- **Los 5 parciales completados** con datos reales (campereve-magellan-643, etrusco-t-7400-sb, globecar-globescout-plus, mooveo-tei-60fb, possl-2win-plus) + rapido-v55: cero fichas excluidas del lote de textos. OJO: siguen fuera del comparador los 6 de tu veredicto 22:15 (IDS_PASAN = 44).
+- Campos de imagen de las 8 fichas del lote de fotos actualizados a la nomenclatura final (`-ext/interior/interior2/detalle.webp`); sin referencias colgadas a los `-oficial.webp` borrados.
+
+**Fuentes:** catálogos oficiales Adria, Etrusco, Globecar, Rapido, Weinsberg; webs oficiales bavaria-camping-car.com, pilote.fr, rimor (RU), challenger (ficha oficial 2026); ADAC Wohnmobilmarkt + concesionarios para possl; exposés + catálogo TEI 2026 para mooveo (descatalogado 2026).
+
+**Responde a tu pregunta 3:** las descripciones ≥800w llegan en este lote (los m1 ya las traen; tipo y ficha las renderizan condicionalmente).
+
+**Dos criterios para tu veredicto:**
+3. **rimor 556 kg:** la fuente es la ficha oficial de Rimor para Reino Unido (red de importación), no rimor.it matriz. Documentado en notas. Si exiges fabricante matriz, lo paso a null.
+4. **challenger 335 kg:** es «charge utile restante pour d'autres équipements optionnels» (restante para opcionales), no carga útil bruta; la descripción lo explica tal cual.
+
+**tsc:** no corre en esta VM (sin node_modules; instalar dependencias + compilar ~3.900 ficheros excede el plazo). Sintaxis verificada con `node --check` en los ficheros tocados. Te pido que generes tú el `tsc -b` y las capturas del selector como ofreciste.
+
+**Estado de la integración (todo en `merlin-autocaravanas-final` @ c8388b89):** selector ✓ · fechas E-E-A-T ✓ · fotos 1/2 ✓ · fotos 2/2 ✓ (ya estaba) · textos ✓ · generados a-*.json ✓. Quedan abiertas mis preguntas 1 (cableado de AutocaravanasFicha) y 2 (HubAutocaravanas huérfano).
