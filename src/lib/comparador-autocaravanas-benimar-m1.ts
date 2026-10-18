@@ -1,7 +1,8 @@
 // Autocaravanas Benimar — lote Merlín 1 (18/10/2026).
-// Datos verificados: benimar.es (web oficial; Benimar no publica PVP: precioDesde en null),
-// dinmoreleisure.co.uk y outandaboutlive.co.uk (fichas técnicas del modelo).
-// Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
+// Modelos: Mileo 243 + Amphitryon 940 (integral, ficha técnica oficial vía Motorvisión)
+// + Sport 340 UP (capuchina sobre Ford Transit, no camper; alpacacamping.de + caravaningplaza.com).
+// Benimar no publica PVP: precioDesde en null. Fotos: pendientes de subida; se referencian
+// los nombres y se suben antes de anunciar el lote.
 import type { CocheComparador } from "./comparador-coches-data.ts";
 
 export const AUTOCARAVANAS_BENIMAR_M1: CocheComparador[] = [
@@ -109,5 +110,216 @@ export const AUTOCARAVANAS_BENIMAR_M1: CocheComparador[] = [
     euroncap: null,
     fuenteNombre: "Benimar (web oficial) + Dinmore Leisure + Out & About Live",
     fuenteUrl: "https://www.benimar.es/en/low-profile-motorhomes/",
+  },,
+  {
+  id: "benimar-amphitryon-940-2026-precio-ficha-tecnica",
+  marca: "Benimar",
+  modelo: "Amphitryon 940",
+  tipo: "Autocaravana integral",
+  categoria: "Autocaravana",
+  precioDesde: null, // Benimar no publica PVP oficial; no inventar
+  potenciaCv: 140, // Fiat Ducato 2.2; 180 CV opcional
+  autonomiaKm: null,
+  maleteroL: null,
+  ceroCien: null,
+  velocidadMax: null,
+  bateriaKwh: null,
+  cargaRapidaKw: null,
+  etiquetaDgt: "C",
+  garantiaBateriaAnos: null,
+  garantiaBateriaKm: null,
+  garantiaBateriaDegradacionPct: null,
+  imagen: "/media/benimar-amphitryon-940-2026-precio-ficha-tecnica-oficial.webp",
+  imagenOficial:
+  "/media/benimar-amphitryon-940-2026-precio-ficha-tecnica-oficial.webp",
+  imagenInteriorOficial:
+  "/media/benimar-amphitryon-940-2026-precio-ficha-tecnica-interior.webp",
+  videoId: null,
+  videoCanal: null,
+  largoMm: 6990,
+  anchoMm: 2370,
+  altoMm: 2950,
+  pesoKg: 3085, // masa en orden de marcha ±5% según ficha técnica oficial
+  mmaKg: 3500,
+  carnetNecesario: "B",
+  cargaUtilKg: 415, // calculada: 3.500 − 3.085 (MMA menos masa en orden de marcha)
+  consumo: null,
+  consumoUnidad: null,
+  plazas: 5,
+  parNm: null, // no publicado por el fabricante
+  traccion: "Delantera",
+  emisionesCo2: null,
+  aprox: [],
+  pros: [
+  "Integral de 6,99 m con 5 plazas reales para viajar y dormir: la clase A familiar más compacta del mercado español",
+  "Triple sistema de camas: transversal trasera regulable en altura + basculante eléctrica de techo + basculante de cabina",
+  "Calefacción a gasóleo de 4.000 W: calientas con el depósito del motor y viajas en invierno sin depender de las botellas de gas",
+  "Garaje con altura regulable de 67 a 120 cm y doble portón XL: de las bicis a una moto pequeña sin renunciar a la cama",
+  "Fabricada en Benicarló con célula de poliéster ISB sin madera en paredes y techo: integral española con servicio postventa cercano",
+  ],
+  contras: [
+  "Masa en orden de marcha de 3.085 kg: con 5 ocupantes solo quedan 415 kg de carga útil teórica, menos en la práctica",
+  "Motor base de 140 CV para 3,5 toneladas: en puertos con la célula cargada se agradece el 180 CV opcional",
+  "Cama de cabina de 140×190 cm: justa para dos adultos altos, y la basculante de techo es de una sola plaza",
+  "Sin PVP oficial publicado: cada concesionario fija su precio y las ofertas varían miles de euros entre provincias",
+  "2,95 m de alto y 2,37 m de ancho: peajes más caros y más sensibilidad al viento lateral que una perfilada equivalente",
+  ],
+  opiniones: [],
+  costeMensual: {
+  costeEnergia100km: 14.7,
+  precioKwh: 0.18,
+  precioGasolinaL: 1.6,
+  seguroTercerosAnual: 650,
+  seguroAmpliadoAnual: 1200,
+  mantenimientoAnual: 600,
+  costeMensualTotal: 425,
+  notas:
+  "Estimación con 12.000 km/año, consumo medio ~10,5 l/100 km de gasóleo y seguro a todo riesgo. Coste real muy dependiente del uso.",
+  estimado: true,
   },
+  galeria: [
+  {
+  src: "/media/benimar-amphitryon-940-2026-precio-ficha-tecnica-oficial.webp",
+  alt: "Benimar Amphitryon 940, vista tres cuartos delantera",
+  ancho: 1200,
+  alto: 800,
+  },
+  {
+  src: "/media/benimar-amphitryon-940-2026-precio-ficha-tecnica-interior.webp",
+  alt: "Interior de la Benimar Amphitryon 940, salón y dormitorio trasero",
+  ancho: 1200,
+  alto: 800,
+  },
+  ],
+  analisisSlug: "benimar-amphitryon-940-2026-precio-ficha-tecnica",
+  planMantenimiento: {
+  intervalo:
+  "Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Fiat)",
+  revisiones: [
+  {
+  nombre: "Revisión Fiat Ducato (2 años / 40.000 km)",
+  queSeCambia:
+  "Aceite + filtro de aceite + filtro de polen + inspección general",
+  costeAproxEur: 350,
+  },
+  {
+  nombre: "Revisión célula Benimar (anual recomendada)",
+  queSeCambia:
+  "Estanqueidad, gas, electricidad, humedades y prueba de calefacción",
+  costeAproxEur: 250,
+  },
+  ],
+  costeAnualAproxEur: 600,
+  fuente: "Plan de mantenimiento Fiat Ducato + recomendaciones Benimar",
+  },
+  euroncap: null,
+  fuenteNombre: "Benimar (ficha técnica oficial) + Motorvisión",
+  fuenteUrl: "https://motorvision.es/pdf/generados/w0157074w.pdf",
+  },
+  {
+  id: "benimar-sport-340-up-2026-precio-ficha-tecnica",
+  marca: "Benimar",
+  modelo: "Sport 340 UP",
+  tipo: "Autocaravana capuchina",
+  categoria: "Autocaravana",
+  precioDesde: null, // Benimar no publica PVP oficial; no inventar
+  potenciaCv: 130, // base; 160/165 CV y cambio automático de 9 velocidades opcionales
+  autonomiaKm: null,
+  maleteroL: null,
+  ceroCien: null,
+  velocidadMax: null,
+  bateriaKwh: null,
+  cargaRapidaKw: null,
+  etiquetaDgt: "C",
+  garantiaBateriaAnos: null,
+  garantiaBateriaKm: null,
+  garantiaBateriaDegradacionPct: null,
+  imagen: "/media/benimar-sport-340-up-2026-precio-ficha-tecnica-oficial.webp",
+  imagenOficial:
+  "/media/benimar-sport-340-up-2026-precio-ficha-tecnica-oficial.webp",
+  imagenInteriorOficial:
+  "/media/benimar-sport-340-up-2026-precio-ficha-tecnica-interior.webp",
+  videoId: null,
+  videoCanal: null,
+  largoMm: 6760,
+  anchoMm: 2300,
+  altoMm: 3080,
+  pesoKg: 2900, // aprox. según alpacacamping.de; Benimar no publica cifra única oficial
+  mmaKg: 3500,
+  carnetNecesario: "B",
+  cargaUtilKg: null, // sin cifras oficiales de masa no se puede calcular con fiabilidad
+  consumo: null,
+  consumoUnidad: null,
+  plazas: 5,
+  parNm: null, // no publicado por el fabricante
+  traccion: "Delantera",
+  emisionesCo2: null,
+  aprox: [],
+  pros: [
+  "Capuchina de 6,76 m para 5 personas: formato familiar que aparca y maniobra casi como una perfilada grande",
+  "Cama capuchina de 155×210 cm, de las más grandes del segmento: duermen dos adultos de verdad sobre la cabina",
+  "Calefacción a gasóleo de 4.000 W: invierno sin depender de botellas de gas, usando el depósito del Transit",
+  "ISOFIX de serie en el comedor y garaje modulable: pensada para familias con niños pequeños",
+  "Ford Transit con cambio automático de 9 velocidades disponible: la capuchina sin palanca para quien viene del turismo",
+  ],
+  contras: [
+  "3,08 m de altura con la capuchina: más consumo y peor comportamiento con viento lateral que las perfiladas equivalentes",
+  "La cama trasera regulable en altura obliga a elegir: o garaje grande o cama baja, no hay término medio por la noche",
+  "Motor base de 130 CV: suficiente en llano, justo con 5 ocupantes y la célula cargada en puertos",
+  "Nevera de 150 l para 5 personas: en verano y viajes largos se queda corta sin nevera auxiliar",
+  "Sin PVP oficial publicado: negociar con el concesionario es obligatorio y los precios varían mucho",
+  ],
+  opiniones: [],
+  costeMensual: {
+  costeEnergia100km: 13.5,
+  precioKwh: 0.18,
+  precioGasolinaL: 1.6,
+  seguroTercerosAnual: 650,
+  seguroAmpliadoAnual: 1200,
+  mantenimientoAnual: 600,
+  costeMensualTotal: 420,
+  notas:
+  "Estimación con 12.000 km/año, consumo medio ~10 l/100 km de gasóleo y seguro a todo riesgo. Coste real muy dependiente del uso.",
+  estimado: true,
+  },
+  galeria: [
+  {
+  src: "/media/benimar-sport-340-up-2026-precio-ficha-tecnica-oficial.webp",
+  alt: "Benimar Sport 340 UP, vista tres cuartos delantera",
+  ancho: 1200,
+  alto: 800,
+  },
+  {
+  src: "/media/benimar-sport-340-up-2026-precio-ficha-tecnica-interior.webp",
+  alt: "Interior de la Benimar Sport 340 UP, salón y capuchina",
+  ancho: 1200,
+  alto: 800,
+  },
+  ],
+  analisisSlug: "benimar-sport-340-up-2026-precio-ficha-tecnica",
+  planMantenimiento: {
+  intervalo:
+  "Ford Transit 2.0: revisión cada 2 años o 40.000 km (lo que ocurra antes; intervalo Ford no verificado en web oficial para esta versión — consultar el manual)",
+  revisiones: [
+  {
+  nombre: "Revisión Ford Transit (2 años / 40.000 km)",
+  queSeCambia:
+  "Aceite + filtro de aceite + filtro de polen + inspección general",
+  costeAproxEur: 380,
+  },
+  {
+  nombre: "Revisión célula Benimar (anual recomendada)",
+  queSeCambia:
+  "Estanqueidad, gas, electricidad, humedades y prueba de calefacción",
+  costeAproxEur: 250,
+  },
+  ],
+  costeAnualAproxEur: 630,
+  fuente:
+  "Intervalo Ford Transit (pendiente de verificación en web oficial) + recomendaciones Benimar",
+  },
+  euroncap: null,
+  fuenteNombre: "Benimar (web oficial) + AlpacaCamping + Caravaning Plaza",
+  fuenteUrl: "https://caravaningplaza.com/vehiculos/benimar-sport-340/",
+  }
 ];
