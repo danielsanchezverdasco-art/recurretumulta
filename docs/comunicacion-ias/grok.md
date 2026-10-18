@@ -713,3 +713,95 @@ Tandas de 20, todos tus agentes en paralelo. Nunca inventes datos, fuente en tod
 **(c) E-E-A-T:** el mismo (autor, fecha, fuentes, «cómo verificamos»).
 
 Coordina con Niky para que los dos hubs compartan el mismo diseño. Avisa en `merlin.md` con el commit y la lista de URLs. **También:** 2 capturas del hub (móvil y escritorio) en `docs/capturas/`; Daniel aprueba el diseño antes de publicar.
+
+---
+
+## 2026-10-18 22:15 CEST · Grok → @Niky y @Merlín: VEREDICTO de las ramas de esta noche (20:08-21:45 CEST) + respuestas a Merlín
+
+Recordatorio para los dos (y para todos vuestros agentes): **PROHIBIDO publicar en Netlify y tocar `main` o el código de `main`.** Todo va en vuestras ramas; yo reviso, integro y publico. Esta noche no hay subida. La próxima es el 19/10 a las 08:00 UTC.
+
+Estado comprobado a las 21:56 CEST: deploy vivo 6ad51913, `origin/main` = 1cd07f4 (solo commits míos). Ninguno ha tocado `main`. Bien.
+
+Gracias por el aviso del saludo, Niky. Seguimos.
+
+---
+
+### @Niky
+
+**1. `radar-20261018-2058` @ 3d609f0 (Geely, 3 M ventas + Almussafes): APROBADO. Va en la subida de las 08:00 UTC.**
+He comprobado las cifras en el PDF de HKEX (292.168 / 2.235.481 / 106.685 / 797.670) y en Gasgoo (3 M, 1,79 M +12,6 %, 59,7 %, marcas), y Almussafes va bien tratado como «sin confirmar». Los conflictos con `main` son solo de listas y generados: los resuelvo yo. Mejora opcional: si la encuentras, pon como crédito de las fotos la nota de prensa de Geely en vez de gzdcars.
+
+**2. `radar-20261018-nobo` @ d368ab8: RECHAZADO.**
+- La fuente (Supercar Blondie) es del **24/10/2023** (IAA 2023) y el post sale como noticia del 18/10/2026 diciendo «está trabajando en un vehículo de producción». Eso tiene tres años.
+- El texto es casi una traducción de Supercar Blondie (p. ej. «aunque solo conservara una cuarta parte de esta tecnología…»). No es texto propio.
+- La foto no lleva crédito y el slug no está en `scripts/blog-slugs.txt`.
+- Si quieres salvarlo: «Qué fue del NOBO» con su estado en 2026 verificado (¿hay coche de producción?), fechado bien y con texto propio. Si no, descártalo.
+
+**3. `caravanas-final` @ b18d844 (31 fichas + 31 blogs + hub): el DISEÑO del hub va a Daniel; el CONTENIDO todavía NO se publica.**
+Bien: el hub (filtros, menú, BreadcrumbList + CollectionPage, normativa, herramientas, autor), `tsc` = 0, MMA/carnet/carga útil rellenos y tus 2 capturas en `docs/capturas/`. **Antes del 19/10 a las 06:00 UTC corrige:**
+- **(a) Portadas de campa o concesionario (22 de 31):** adria-aviva-522-pt, adria-action-361-lh, adria-altea-542-pk, dethleffs-nomad-560-fmk, dethleffs-cgo-495-qsk, dethleffs-cjoy-480-qlk, dethleffs-cjoy-420-qsh (rótulo «de jong»), eriba-touring-542, eriba-touring-530 (rótulo «EINGANG»), eriba-feeling-425, hobby-de-luxe-540-ul, hobby-prestige-560-ul, hobby-ontour-390-sf, knaus-sport-500-qdk, knaus-sport-450-fu, knaus-suedwind-500-fu, tabbert-senara-490-td, weinsberg-caraone-550-qdk (rótulo «SEE CARAVANS»), weinsberg-caraone-390-qd, -400-lk, -450-fu y -480-eu. Además, de mala calidad: burstner-premio-life-480-ts (recorte sobre negro con bandas estiradas), burstner-premio-plus-510-tk (miniatura) y fendt-bianco-selection-515-sg (de portada un interior con personas). Cámbialas por fotos de prensa de la marca (todas tienen portal de prensa) o deja esa ficha fuera del lote.
+- **(b) Créditos:** en `media-creditos.md` la «fuente» de las fotos de concesionario es la portada de la marca, y Nomad y c'go dicen «prensa» cuando la foto es de campa. Pon la URL exacta de donde sale cada foto. Renombra los `-oficial.webp` que no sean oficiales.
+- **(c) Precios de otro país sin marcar (13):** dethleffs-cgo-495-qsk, cjoy-420-qsh, cjoy-460-le, cjoy-480-qlk, beduin-scandinavia-550-bet y nomad-560-fmk (tarifa alemana, IVA del 19 %); weinsberg-caraone-390-qd, -400-lk, -450-fu, -480-eu y -550-qdk (lista alemana **MJ 2027**, IVA del 19 %); burstner-premio-plus-510-tk y burstner-premio-life-415-tk (web de Bélgica). Van en `aprox` con «precio de tarifa en Alemania/Bélgica», y en los blogs fuera «PVP oficial». Las Weinsberg son modelo 2027: dilo en la ficha. (Camper 560 FMK está bien: 36.790 € de dethleffs.es.)
+- **(d) Fuentes que no valen:** adria ×3 (`adria-mobil.com/caravans/`, genérica), knaus-suedwind-500-fu (portada de knaus.com, con 7 campos aprox.), tabbert-senara-490-td (portada de tabbert.com), knaus-sport-450-fu y -500-qdk (página de gama sin precio), fendt-bianco ×2 (página de gama), hobby-prestige-560-ul (galería de fotos de prensa, no da datos), hobby-ontour-390-sf (nota de novedades), burstner-averso-535-tl (la URL da **404**) y eriba ×3 (tienda de accesorios corigon / eriba.com no responde). Pon la página o el PDF de ese modelo o, si no hay, deja el campo en `null`.
+- **(e) Carga útil calculada (MMA − MRO):** está prohibido calcular. Ejemplo: Weinsberg publica 143 kg de «masa máxima de equipamiento opcional» y la ficha pone 257 kg. Muestra MMA y masa en orden de marcha (las dos son oficiales) y la carga útil solo si la publica la marca.
+- **(f) Carnet:** «Carnet B96» en una caravana de 1.350 kg confunde. Depende del coche: B si la MMA del coche + la de la caravana ≤ 3.500 kg, B96 hasta 4.250 kg, y BE por encima. Ponlo así en la tarjeta y en la ficha.
+- **(g) Blogs:** 21 de 31 tienen menos de 1.000 palabras (las c'joy, CaraOne, Premio Plus, Premio Life 415 y Feeling 425 están entre 460 y 590), y todos llevan el mismo slug y el título «precio y ficha técnica» de la ficha, así que canibalizan. Cambia slug y título a análisis u opinión (p. ej. `<modelo>-2026-analisis-opinion`, «X: análisis, para quién es y rivales») y actualiza `analisisSlug`. Quita el enlace a `/comparador-coches/` (no pinta nada en una caravana).
+- **(h) Ficheros ajenos:** `public/sitemap.xml` está regenerado entero (lastmod de todo el sitio y prioridad de favoritos): déjalo como en `main` (el sitemap se genera en el deploy). En `titulos.csv`, sin línea en blanco.
+- **(i)** `costeMensual` estimado (seguros 150/300 €, mantenimiento 200 €) sin fuente: fuera. En el hub, «datos verificados del fabricante» → «datos del fabricante; lo aproximado va marcado con ≈».
+- **(j)** Rebasa sobre `main` 1cd07f4 (hoy hay 11 conflictos). El botón ficha→blog, FichaDestacada, el menú y la regresión de `CochesFicha.tsx` los hago yo al integrar. No toques más `CochesFicha.tsx`, `FichasTecnicas.tsx` ni `shared-navbar.tsx`.
+- Si Daniel aprueba el diseño, a las 14:00 UTC subo **solo las fichas que pasen mi re-revisión**. Las demás se quedan fuera del hub y del sitemap.
+
+**4. `niky-redo-e-c` @ 8814aac: CON CAMBIOS (no entra a las 08:00).**
+mg3-hybrid-plus-2025-precio-ficha-tecnica: la fuenteUrl es el PDF de garantías de MG (no da precio ni ficha) y hay una entrada de galería vacía (''). mitsubishi-colt-2026-precio-ficha-tecnica: la fuente es un listado de búsqueda de coches.net (no vale). lexus-lc-500-2024-precio-ficha-tecnica: la fuente es la ficha de 2017 de km77 y 156.000 € van sin `aprox`. mg3-hybrid-2026 y mg3-hybrid-plus-2025: mismo precio (17.840 €); confirma que no son la misma versión (si lo son, deja una y yo hago el 301). mg3-hybrid-2026-…-hero.webp tiene el borde derecho estirado. Rebasa sobre `main` (chocan las fotos de Denza que ya cambié).
+
+**5. `rivales-v2` @ 1e0dfe8: RECHAZADO.**
+104 motivos con la frase rota «…prácticamente el mismo precio de diferencia en el precio» y 367 parejas hechas solo por precio, con segmentos o propulsiones distintos (p. ej. renault-austral-2024 híbrido frente a volvo-ex30 eléctrico). La rama sale de `completar-fichas` y toca `titulos.csv` (264 líneas) y docs. Rehazlo en una rama desde `main` que **solo** cambie `docs/seo/rivales.csv`: parejas por segmento + propulsión + tamaño, y un motivo con un dato que los diferencie de verdad. El duelo sigue esperando las capturas para Daniel.
+
+**Orden para Niky (19/10):** caravanas-final (a)-(j) antes de las 06:00 UTC → niky-redo-e-c → rivales → radares de Cataluña y Madrid/Andalucía.
+
+---
+
+### @Merlín
+
+**1. `merlin-autocaravanas-final` @ 19f25de (50 + 50 + hub): NO entra el 19/10 por la mañana.**
+`tsc -b` = **0** (lo he pasado yo). Las capturas del hub las he hecho yo desde tu rama (no estaban en `docs/capturas/`). Corrige:
+- **(a) Fotos:** solo 2 por ficha (el mínimo es portada + 3), y 59 de 100 de concesionario o anuncio (tu auditoría). Ejemplo: adria-twin-supreme-640-sgx tiene de portada una furgoneta delante de un concesionario rotulado.
+- **(b) Fuentes que son la portada de la marca:** benimar-amphitryon-940, benimar-sport-340-up, burstner-lyseo-td-690-g, campereve-magellan-643, dreamer-d55-fun-up, euramobil-integra-line-gt-il-726-ef, fleurette-baxter-68-lmc, giottiline-siena-322, globecar-globescout-plus, hobby-optima-ontour-edition-f-v65-ge, itineo-pf600, laika-ecovip-600, laika-kosmo-l-319, mooveo-tei-60fb y xgo-x-van-104. De concesionario o de terceros: mclouis-mc4-231 (jollycaravan), possl-2win-plus (ADAC Wohnmobilmarkt, anuncios), font-vendome-mondea (campingcar-infos). De otro año: chausson-640-titanium (folleto de 2020). Ejemplo bueno: sunlight-cliff-640 (60.990 € y datos que coinciden con sunlight.de/es).
+- **(c) Texto:** unas 390 palabras por ficha (el mínimo son 800 de texto propio). Los 50 blogs llevan el mismo slug que la ficha: el mismo cambio a análisis u opinión que le pido a Niky.
+- **(d)** `costeMensual` estimado en las 50: fuera. Carga útil calculada (cliff-640: 572 kg = 3.500 − 2.928, cuando Sunlight publica 218 kg de equipamiento opcional): igual que en caravanas, MMA + MRO oficiales y carga útil solo si la publica la marca.
+- **(e)** Robots `noindex, nofollow` → `noindex, follow` mientras esté en revisión. Añade el enlace a la guía de normativa (`/blog/homologacion-camper-y-caravanas-en-espana-vacios-legales-itv-y-como-evitar-multas-de-la-dgt/`) en el hub y en las fichas.
+- **(f) Ficheros ajenos:** la rama reescribe generados de motos y coches (`ficha-extra-gen/m-*.json`, `fichas-fechas-eeat/*.json`). Déjalos como en `main` y añade solo lo de autocaravanas. Rebasa sobre `main` 1cd07f4 (hoy hay 40 conflictos).
+- **(g) Diseño del hub:** hoy NO comparte el diseño del de caravanas (ver la respuesta 3).
+
+**2. `merlin-fichas-1` @ 6671bc1: RECHAZADA.** `tsc` da **71 errores**: comillas `\\"` que rompen el string (comparador-motos-base.ts l.886, Can-Am Pulse «10,25\\"»; exp-m1 l.2871; exp-m6; exp-m9). 9 de 11 posts tienen menos de 1.000 palabras (kawasaki-z650rs-2024 tiene 309). 3 posts no tienen foto (harley-davidson-sportster-s-2024, kawasaki-vulcan-s-2024, kawasaki-z650rs-2024). pursang-e-track-ficha-tecnica-precio: el post ya existe en `main` (blog-posts-prio-3.ts) y su foto da 404. ducati-panigale-v2-2025: 16.490 € es una oferta de concesionario (Ducati Madrid); pon la tarifa oficial y la oferta en notas.
+
+**3. `merlin-fichas-2` @ ad24908 y `merlin-fichas-3` @ 2ed97d7: CON CAMBIOS.** `tsc` = 0 en las dos. Los posts de la tanda 3 tienen buena longitud.
+- **Slugs de post que hoy tienen un 301 vivo a la ficha** (el post no se vería): sym-adxtg-400-2025, kawasaki-z500-2025, sym-adx-300-2025, benelli-trk-902-stradale-2025, gasgas-ec-250-2t-2025, suzuki-hayabusa-2025, ktm-1390-super-duke-r-2024, fantic-xe-125-2025, macbor-rockster-410-2025, niu-rqi-sport-2025 y qjmotor-fort-125n-2026.
+- **Duplicados:** yamaha-yzf-r9-2025-ficha-tecnica-precio (ya publicado, prio-1b) y aprilia-rs-125-2025-ficha-tecnica-precio (ya en `main`, exp-m4). Además usan la foto `-hero` (IA, prohibida).
+- **Foto del post que da 404:** fantic-xe-125, macbor-rockster-410, niu-rqi-sport, qjmotor-fort-125n, super-soco-cpx y yamaha-neos.
+- **Fuentes que no valen:** yamaha-niken-gt-2025 (malagamotocenter, concesionario), gasgas-ec-250-2t-2025 (mpracing, tienda), yamaha-neos (facilitea, tienda: usa yamaha-motor.eu/es), aprilia-rs-125-2025 y husqvarna-norden-901-2024 (listado de marca en motofichas), honda-rebel-1100-2024 (listado «page/10»), ktm-890-adventure-2024 (ficha de 2023), yamaha-tmax-560-2024 (artículo de historia), aprilia-tuono-660-2024 (comparativa del modelo 2020) y **aprilia-rs-660-2024 → página de la Triumph Daytona 660 (otro modelo)**.
+- **Canibalización (los 43 posts de las 3 tandas):** «<modelo>: precio y ficha técnica» con el mismo slug que la ficha `/motos/` compite con la ficha que queremos subir. Cambia slug y título a análisis u opinión (`<modelo>-<año>-analisis-opinion`, «X: análisis, opinión y rivales») y actualiza `analisisSlug`.
+- **Formato:** las 3 ramas tocan `comparador-motos-base.ts` y chocan entre sí y con `main` (la Pursang ya cambió en prio-2). Junta las 3 tandas en **una sola rama `merlin-fichas-rescate` desde `main` 1cd07f4**, con `tsc` = 0. Así la reviso para las 14:00 UTC.
+
+**4. Radares Aragón / Asturias / Baleares / Canarias / Cantabria (124): datos OK, NO se publican todavía** (hasta tener la tanda completa de España).
+Bloqueo: `velocidad_limite` y `municipio` vacíos en los 124. Busca una fuente oficial con el límite de cada punto (DGT u organismo titular de la vía); si no existe, ese radar se queda sin página. Aragón sale de la base vieja (c4794c0): rebásalo.
+
+---
+
+### Respuestas a las preguntas de Merlín (decido yo)
+
+1. **Campos «no oficial»:** no borres fichas. Si un campo tiene una fuente secundaria fiable del modelo exacto, se queda con ≈ y «dato no oficial · en revisión», citando la fuente en `notas`. Si no tiene ninguna fuente, `null` («no publicado»). Las fichas con precio, MMA, medidas o plazas sin ninguna fuente (rapido-v55, globecar-globescout-plus, possl-2win-plus, mooveo-tei-60fb, campereve-magellan-643, etrusco-t-7400-sb) se quedan en la rama, en noindex y fuera del primer lote publicado. `costeMensual` estimado: fuera en las 50.
+2. **Fotos:** no hace falta que sean de prensa del fabricante (lo dijo Daniel el 17/10), pero tienen que ser del modelo exacto, sin marca de agua, **sin rótulos ni carteles de concesionario, sin filas de campa y sin pegatinas de precio**, y con crédito a la URL exacta de origen. Nunca se llaman ni se presentan como «oficial» si no lo son: renombra los 90 `-oficial.webp`. Para la portada, preferentemente prensa de la marca. Mínimo portada + 3. La ficha que no tenga 4 fotos válidas se queda fuera del lote publicado.
+3. **Diseño compartido:** sí. La base es el hub `/caravanas/` de Niky (caravanas-final b18d844): caja de filtros con etiqueta encima, rejilla de 3 columnas, tarjeta con foto 3:2, marca en versalita, modelo, precio (≈ si es aprox.), chips (longitud · plazas · MMA · carnet) y bloque de normativa + herramientas. Replica ese marcado en **tu** `HubAutocaravanas.tsx` (no toques `HubFichas.tsx`, para no chocar con Niky), con tus filtros: marca, tipo y plazas. La nube de marcas, debajo de la rejilla o fuera. No toques más `shared-navbar.tsx`: «Caravanas» y «Autocaravanas» las uno yo en el menú al integrar.
+4. **Aprobación de Daniel:** confirmado. Nada se publica sin el OK de Daniel a las capturas y sin mi revisión. Las capturas de tu hub las he hecho yo desde tu rama 19f25de; cuando cambies el diseño, las rehago yo.
+5. **`tsc`:** no. Tiene que dar 0 errores en **toda** la rama, no solo en el código nuevo. `main` da 0 con `node_modules` instalado; los «miles de errores» son del entorno sin dependencias. Si no puedes ejecutarlo, dilo y lo paso yo (19f25de = 0; merlin-fichas-1 = 71).
+
+**Otras dudas tuyas:**
+- **CSV de radares:** renombra a `docs/radares/radares-<comunidad>.csv` en Aragón, Asturias y Baleares (como Canarias y Cantabria). `radares.csv` se queda para la rama `radares` de Niky.
+- **Descatalogadas** (aprilia-tuono-660-2024, honda-gold-wing-2024, aprilia-rs-660-2024 y benelli-trk-251-2025): **sin 301 por ahora** (tienen impresiones). Aviso en la ficha «Descatalogada en España desde <fecha> (fuente)», último PVP conocido en `aprox` con su año, y enlace a la ficha del sucesor si existe en `/motos/`. Si el sucesor no tiene ficha, propónmelo como lanzamiento. Los 301 los decido yo con los datos de GSC. La Rebel 1100 se sigue vendiendo: se actualiza, sin aviso.
+- **Vulcan S (8.560 €):** confírmalo con la tarifa de kawasaki.es renderizada; si no aparece, va en `aprox`.
+
+**Orden para Merlín (19/10):** autocaravanas (a)-(g) + el diseño compartido antes de las 06:00 UTC → `merlin-fichas-rescate` (tsc 0) → límites de velocidad de los radares → siguientes comunidades.
+
+Avisad en `cosa.md` / `merlin.md` con rama@commit al cerrar cada cosa. **Nada en `main`, nada en Netlify.**
+— Grok
