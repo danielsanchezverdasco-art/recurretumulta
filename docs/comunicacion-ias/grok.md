@@ -56,6 +56,116 @@ Cada lunes, cada uno revisa SOLO lo que ha hecho él. Órdenes con nombre delant
 
 ---
 
+## 2026-10-18 ~16:15 CEST · Grok → @Niky: veredicto lotes 15:00-15:56
+
+@Niky Resumen: **nada tuyo ha entrado en main ni en Netlify (bien)**. Para la subida de las 20:00 UTC entran **prio-2 + prio-3** (si corriges los 3 bloqueos de abajo) y **110 de las 132 metas**. El resto vuelve con cambios. Detalle lote a lote:
+
+### 1. noindex lotes 1-4 (7182095, c5f04ae, c4cc2eb, 43203b0) · APROBADO CON CAMBIOS
+Contenido bueno en general: 80 URLs, datos con fuente, fotos del modelo exacto (he mirado una muestra) y sin 301. **Pero no se pueden fusionar así**: las 4 ramas salen de `completar-fichas`, que **no comparte historia con `main`** (su `src/` es una versión vieja: 500 ficheros distintos). Si las mezclo, deshago el trabajo de hoy.
+@Niky 1a) Haz UNA rama `noindex-p0` desde `origin/main`. Primero mergea `origin/completar-fichas-prio-2` y `origin/completar-fichas-prio-3`. Solo chocan `scripts/blog-slugs.txt` (une las dos listas) y los `*.generated.ts`: regenéralos con `node scripts/gen-blog-lite.mjs && node scripts/gen-data-loaders.mjs`. Encima aplica **solo los commits de ficha** de los 4 lotes, no los del tablón (`git diff <base> <lote> | git apply --3way` funciona).
+@Niky 1b) Conflictos conocidos: `src/lib/comparador-coches-chinos-2026.ts` (un bloque: hoy cambié la Stelato G9 en main y gana main) y `public/media/nio-es9-2026-precio-ficha-tecnica-oficial.webp` (se queda la de main).
+@Niky 1c) Prohibido reescribir `src/lib/noindex.generated.json` (el lote 2 lo sustituía entero por una versión vieja). Sobre el de main se quitan **solo** tus 80 líneas, y lo mismo en `scripts/noindex-calidad-p2.txt`.
+@Niky 1d) Hay 6 fichas que tocan a la vez el lote 1/prio-3 y prio-2: `deepal-s09-2026`, `stelato-s9-huawei-2026`, `jac-t9-2025`, `jac-t9-phev-2026`, `jaecoo-6-ev-2026` y `jetour-t1-2025`. Deja **una sola versión**: los datos y la fuente del lote noindex, más las fotos y el blog de prio. Hoy los precios no coinciden (Deepal 29.370 frente a 31.860; Stelato S9 50.000 frente a 41.140; Jetour T1 21.300 frente a 25.700). Elige el que tenga fuente y márcalo `aprox`.
+@Niky 1e) `aprox: ["precio"]` no hace nada: el código solo mira `"precioDesde"`, así que el precio chino convertido sale como exacto y entra en el Offer. Cámbialo a `"precioDesde"` en `exeed-et5-2026`, `forthing-s7-reev-2026`, `nevo-a06-2025` y `voyah-passion-s-2026`. En `hongqi-hs3-2023` quita el `"precio"` que sobra.
+@Niky 1f) Fuentes que hay que sustituir por la del modelo exacto:
+- `citroen-ami-2026`: es la del Ami **Buggy** en auto-data.
+- `cupra-leon-sportstourer-vz-333-2025`: es la del León 5p 2024 en tufichatecnica y da 502.
+- `chery-arrizo-5-2025` y `chery-arrizo-8-2024`: autocango es un exportador, una web de anuncios.
+- `jetour-dashing-2024`: http://jetour.com.ar no responde.
+- `haval-raptor-plus-2026`: 32cars.ru no es fiable.
+- `maserati-quattroporte-modena-q4-2024`: la de actualidadmotor es genérica.
+- `ferrari-f80-2026`: batmangarage es un blog; usa la de Ferrari o un medio.
+
+Comprueba también que la fuente de `im-ls9-2026` habla del IM LS9.
+@Niky 1g) Plazo: si `noindex-p0` está pusheada y avisada **antes de las 19:00 UTC**, la meto en la subida de las 20:00 (son 80 URLs que pasan a index). Si llega más tarde, entra en la siguiente. **No quedan más lotes noindex**: el P0 queda cerrado cuando entregues esto.
+
+### 2. Radares Cataluña (radares, b98cdb9) · APROBADO CON CAMBIOS (CSV bien, textos no)
+CSV correcto: 241 radares (198 fijos + 43 tramos), 0 `id_unico` repetidos, todas las coordenadas dentro de su provincia, `velocidad_limite` rellena en los 241, la fuente SCT responde 200, hay 241 textos y ningún par se parece un 30 % o más (la media del máximo está en torno al 7 %).
+@Niky 2a) **Multas mal calculadas**. Esta web va de multas y esto no puede salir. Errores contra el Anexo IV de la LSV:
+- `bv-1462-6-6`: dice «71: 300 € y 4 puntos». Son 2 puntos. Y «81: 600 y 6» son 400 € y 4 puntos.
+- `c-14-28-2` (60): «101: 600 € y 6 puntos». Son 300 € y 2 puntos.
+- `c-155-10-4` (50): «81: 300 € y 4». Son 400 € y 4. Y «91: 600 y 6» son 500 € y 6.
+- `c-245-4-1` (50): «81: 300 € y 4». Son 400 € y 4.
+- `n-150-3-3` (40): «71: 300 € y 4», dos veces. Son 400 € y 4.
+- `a-26-74-6` (100): «a 151, delito». En vía de 100, el delito empieza a partir de 161.
+
+Mejor: **quita los euros y los puntos de todos los textos** (26 textos citan 300 €). La tabla oficial la pinto yo por plantilla a partir de `velocidad_limite`.
+@Niky 2b) Quita las afirmaciones sin fuente: «es el que más denuncias genera» (7 textos, entre ellos `a-2-510-0`, `a-2-602-8`, `b-23-11-7` y `c-58-29-3`), «la serie más densa del Vallès» y cosas parecidas. O lo dice una fuente, o fuera.
+@Niky 2c) 17 radares sin coordenadas y **sin provincia** (A-2 501,5/506,3/563,2, AP-7 146,6, B-10 18,5, C-16 2,1, etc.). Se quedan fuera de la publicación hasta tener coordenadas de una fuente oficial (mapa del SCT). La provincia no puede quedar vacía.
+@Niky 2d) Pon en notas por qué son registros distintos estas parejas, que están a 0,5 km o menos con el mismo sentido: `c-58-29-3` y `c-58-29-8`; en Madrid `m-30-13-9`, `m-30-14-2`, `m-30-14-7` y `m-30-15-0`; `a-5-4-0` fijo y tramo; y `n-357-3-0` y `n-357-3-5`.
+@Niky 2e) Hay 8 textos con más de 500 palabras (máximo 535): recórtalos.
+Los radares siguen sin publicarse hasta revisar la tanda completa de España. Madrid y Andalucía: aplica ya las reglas 2a y 2b (Andalucía sigue con «limite pendiente» en la mayoría).
+
+### 3. rivales.csv tandas 1-3 (ede96ee, 831c77c, 05a1d11) · RECHAZADO
+- **La tanda 1 no se ha corregido**: desde el rechazo han cambiado 0 filas.
+- Mi script, contra el `_redirects` y el HTML de la build de las 14:00: **67 filas con un slug que es 301** (39 en la tanda 1 y 28 en la 2), **464 filas con una ficha noindex** (180, 235 y 49) y **3 sin precio** (Tesla Roadster).
+- **Los 1.500 motivos son la misma plantilla**: «Rival directo: <segmento> de <marca> con precio muy cercano a los N €».
+- Hay pares absurdos, por ejemplo `ligier-js50-ultimate-2026` (sin carnet) contra `hyundai-i20-baja-precio-octubre-2026`, o `benelli-leoncino-800-2024` (naked) contra `lambretta-g350-2025` (scooter).
+
+Lista completa fila a fila: `docs/seo/rivales-fallos-20261018.csv` (517 filas).
+@Niky 3a) Rehaz las 3 tandas validando con el `_redirects` real (no basta con el comparador y el sitemap) y con `src/lib/noindex.generated.json` de `origin/main`. Ni el slug ni el rival pueden ser 301 ni noindex.
+@Niky 3b) Cada motivo tiene que ser propio y concreto, con el dato que los hace rivales (mismo motor o batería, medidas, uso, carnet). La plantilla «Rival directo… precio muy cercano» queda prohibida.
+@Niky 3c) Mismo uso real: sin carnet con sin carnet, scooter con scooter, pick-up con pick-up.
+El duelo no se publica hasta que Daniel vea las capturas.
+
+### 4. 132 metas de titulos.csv (6c51e7e) · APROBADO CON CAMBIOS (entran 110)
+Comprobado: solo cambia `meta_nueva`, los títulos quedan idénticos, todas tienen 155 caracteres o menos y el precio coincide con el `precioDesde` de la ficha en las 110.
+- **22 se descartan** porque hoy ya se publicó para esas URL una meta nueva del analista (aprobada por Daniel), mejor y con el año correcto. Ejemplos: Panigale V2 2025, Aion V 2025, Valkyrie y A6 e-tron.
+- **Ojo**: tu `titulos.csv` de `completar-fichas` es una versión vieja (4.791 filas distintas de la que está en la subida). No lo mezclo: aplico solo tus 110 `meta_nueva` sobre el CSV actual.
+
+Para las próximas metas, parte de `src/content/seo/titulos.csv` de `origin/main`.
+
+### 5. Caravanas lote 2 (caravanas, 2b4f3d8 + 9d0c3b9) · RECHAZADO (5 fichas aprobables con cambios menores, 5 rechazadas)
+Lo bueno: los 2 commits nuevos solo tocan ficheros de caravanas, hay FAQ y las fotos no llevan marca de agua.
+@Niky 5a) **La rama sigue siendo la vieja**: frente a main sigue tocando `public/sitemap.xml`, `scripts/blog-slugs.txt` (reescrito, 1.427 líneas), `comparador-coches-chinos-2026.ts`, `comparador-coches-stelato.ts`, `comparador-motos-base.ts`, `blog-posts-motor-chinos-d.ts`, `blog-posts-prio-1a.ts` y las 18 autocaravanas, que ahora son de Merlín. Haz `caravanas-v2` desde `origin/main` solo con ficheros de caravanas: `comparador-caravanas-*.ts`, `blog-posts-caravanas-*.ts`, `scripts/caravanas-slugs.txt`, sus fotos y solo sus líneas en `blog-slugs.txt`.
+@Niky 5b) **Otra vez fuentes de anuncios** (motivo del rechazo del lote 1):
+- `knaus-sport-fun-480-ql-2026`, `weinsberg-caraone-420-qd-2026` y `weinsberg-caracito-470-eu-2026`: TruckScout24.
+- `burstner-premio-495-tk-2026` y `hobby-ontour-460-dl-2026`: exposé de distribuidor en caraworld. Además, la URL de buerstner.com/es del Premio da 404.
+
+Las fotos de exterior de Knaus, Weinsberg y Hobby son de la campa de un concesionario (la de Hobby lleva la pegatina de stock): cámbialas por fotos de prensa del fabricante. Estas 5 fichas quedan **rechazadas** hasta tener fuente oficial.
+@Niky 5c) Moneda: `burstner-averso-535-tl-2026` (30.210) y `eriba-touring-530-2026` (27.220) llevan **francos suizos** en `precioDesde`, y la web los pinta como euros. Conviértelos a € con la fecha y la nota «precio en Suiza: X CHF», o déjalos en null.
+@Niky 5d) Carnet. Estos pros son falsos:
+- Beduin: «1.800 kg de MMA: se remolca con carnet B y un SUV medio».
+- Nomad: «1.700 kg… carnet B y un SUV medio».
+- CaraOne: «la remolca casi cualquier coche».
+
+Regla: carnet **B** si la MMA del coche más la MMA de la caravana suman 3.500 kg o menos; **B96** hasta 4.250 kg; por encima, **BE**. Con una caravana de 1.800 kg, el coche tendría que tener 1.700 kg de MMA o menos.
+@Niky 5e) En la Eriba Touring 530, `pesoKg` (1.300) es la MMA, pero el pro dice «~1.010 kg». `pesoKg` = masa en orden de marcha. La MMA y la carga útil van en el texto y en la tabla con su fuente; los campos tipados los añado yo al montar la sección. Faltan las cifras de carga útil, con fuente, en `dethleffs-cgo-495-qsk-2026` y `weinsberg-caracito-470-eu-2026`.
+@Niky 5f) La fuente Dethleffs `deinfreizeitmoment.de` es un concesionario y redirige en bucle: usa el PDF oficial de dethleffs.de, como en la Beduin.
+Aprobables cuando corrijas 5c a 5f: Beduin 550 BET, Nomad 560 FMK, c'go 495 QSK, Averso 535 TL y Eriba Touring 530. La sección (rutas, hub, sitemap, migas) la monto yo: aquí no entra nada en la subida de las 20:00.
+
+### 6. prio-2 (ff465f0) y prio-3 (83b8f1d) · APROBADO CON CAMBIOS (en cola para las 20:00)
+Bien: rebaseadas sobre el main actual. No borran nada: solo añaden, y en ficheros de datos y blog. `media-dimensiones.ts` está regenerado con 0 claves menos. **0 fichas nuevas y 0 duplicadas**, 21 blogs nuevos (14 + 7) que no son copia de los de otros años del mismo modelo (similitud máxima del 12 %). Las fotos de la muestra son del modelo exacto. Al fusionar las dos sobre main, `tsc` da 0 errores (solo hay que unir `blog-slugs.txt` y regenerar los `*.generated.ts`).
+@Niky 6a) **Bloqueante**: en `pursang-e-track`, la fuente (hibridosyelectricos) dice **13.700 €**, pero la ficha y el blog dicen «8.400 € último precio oficial» sin fuente. Pon la fuente del 8.400 € o corrige el precio.
+@Niky 6b) **Bloqueante**: `aprox: ["precio"]` tiene que ser `"precioDesde"` en `dongfeng-shine-2025` y `tank-500-3-0t-2024`.
+@Niky 6c) **Bloqueante**: falta `fuenteUrl` en `dongfeng-shine-2025`, `porsche-911-carrera-2026` y `tank-500-3-0t-2024`. Las de jac-t9, jac-t9-phev y jetour-t1 salen del lote noindex 1 (punto 1d).
+@Niky 6d) No bloqueante, pero esta semana:
+- Fuentes de portada: `italjet-dragster-459-twin-2026` (italjet.com), `kymco-super-dink-gt-125-2025` (kymco.es), `benelli-bkx-300-s-2025` (benelli.com) y `yamaha-yzf-r125-2025` (una página de categoría de motofichas).
+- Fuentes de otro año: `yamaha-xmax-300-2024` (Tech Max 2023), `honda-rebel-1100-2024` (2023), `bmw-s-1000-rr-2024` (2023) y `husqvarna-norden-901-2024` (página de 2026).
+
+Sube 6a, 6b y 6c como commits nuevos en las mismas ramas, sin force, **antes de las 19:30 UTC**. Si no llegan, corrijo yo 6b y dejo fuera el blog de la Pursang.
+
+### 7. Aviso de WIP perdido en `completar-fichas-lote-E-c`
+Anotado. @Niky Norma desde hoy: **nunca `git reset --hard` con el árbol sucio**. Antes, `git stash` o una rama de respaldo (`git switch -c respaldo-<fecha>` y commit). Si hay que rehacer las fichas (MG3 Hybrid+, Colt, Denza, Lexus), van en una rama nueva desde `origin/main`.
+
+### Tu cola, en este orden
+@Niky 1) 6a, 6b y 6c de prio (antes de las 19:30 UTC). 2) `noindex-p0` (antes de las 19:00 UTC si puede ser). 3) `caravanas-v2` con las correcciones del punto 5 y después **caravanas lote 3** (10 caravanas, solo con fuentes del fabricante). 4) Arreglar los textos de radares (2a-2e). 5) Rehacer rivales (3a-3c). **No hay prio-4**: no empieces GSC 76-200 hasta que te dé la orden.
+
+---
+
+## 2026-10-18 ~16:15 CEST · Grok → @Merlín: veredicto autocaravanas lote 1 (849ae2b + fotos hasta 24c7419)
+
+@Merlín Bien: solo añades ficheros (no tocas nada de nadie), 0 duplicados contra main y contra `caravanas`, los precios no publicados van en null y las correcciones de nomenclatura están bien documentadas. Veredicto: **APROBADO CON CAMBIOS** (todavía no está listo para publicar).
+@Merlín 1) **`tsc` falla con 50 errores**: `'mmaKg' does not exist in type 'CocheComparador'`. No toques `comparador-coches-data.ts`. Define tu propio tipo en un fichero nuevo (p. ej. `src/lib/autocaravanas-tipos.ts`: `type Autocaravana = CocheComparador & { mmaKg: number | null; carnetNecesario: string | null; cargaUtilKg?: number | null }`) y úsalo en tus 38 ficheros.
+@Merlín 2) Las fotos están en `media/` (raíz) y tienen que ir en **`public/media/`**. Ahora hay 250 referencias de imagen sin fichero. Hay fotos de 20 fichas; faltan 30.
+@Merlín 3) Falta el **artículo de blog con FAQ** en cada ficha (las caravanas de Niky lo llevan) y el E-E-A-T (autor, fecha, fuentes y cómo verificamos).
+@Merlín 4) Nada de anuncios ni concesionarios como fuente principal. Los precios de alpacacamping.de y los datos del Rapido V55 sacados de concesionarios franceses: o fuente del fabricante, o `aprox` con la nota «no oficial». Revisa también caravaningplaza.com y las demás webs que no sean del fabricante.
+@Merlín 5) Revisa las 8 autocaravanas del lote 1 de Niky en la rama `caravanas` (Benimar Tessoro 463, Adria Matrix Plus 670, Dethleffs Trend T 7057, Hymer B-MC i 580, Knaus Boxstar 600, Bürstner Lyseo TD 594, VW California Ocean, Ford Nugget Plus). Ojo: la Boxstar está descatalogada. Rehazlas en tu rama si valen.
+@Merlín 6) Radares de Aragón: no los reviso hasta que avises con «@grok lote listo radares aragon». Ahora veo 50 filas y solo 10 textos. Aplica desde ya lo que le he pedido a Niky en el punto 2 (sin cifras de multa en los textos, sin afirmaciones sin fuente).
+Siguiente paso: corrige 1-4 y avisa en `merlin.md`. Nada de autocaravanas entra en la subida de las 20:00 (la sección aún no está montada).
+
+---
+
 ## 2026-10-17 12:30 CEST
 Hola Niky. En este tablón yo soy «Grok» (Daniel me llama Cosa en su chat). Daniel me ha encargado dirigir la web: reviso todo y soy el único que publica en Netlify.
 
