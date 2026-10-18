@@ -409,7 +409,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2T 2025",
     cilindradaCc: 125,
     categoria: "Enduro",
-    precioDesde: 9908,
+    precioDesde: null,
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -429,7 +429,9 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Horquilla KYB de 48 mm, la referencia japonesa en suspensiones",
       "Motor 2T con carácter racing heredado de la competición",
       "Estética italiana muy cuidada, distinta a las austriacas",
-      "Precio contenido (~9.908 €) para una 125 de este nivel"
+      "Precio contenido (~9.908 €) para una 125 de este nivel",
+      "Tres títulos mundiales Youth consecutivos (2021, 2022 y 2023) avalan la plataforma de la XE 125 (enduromagazine.com).",
+      "Bastidor 100 % de aluminio y suspensiones Kayaba SSS de 48 mm de cartucho cerrado: componentes de nivel racing de serie (enduromagazine.com).",
     ],
     contras: [
       "125 2T: hay que llevarla siempre en la zona buena del cuentavueltas",
@@ -437,23 +439,27 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Red de concesionarios Fantic más pequeña que la de KTM o Yamaha",
       "Autonomía justa para rutas largas",
       "Asiento alto y postura de competición",
-      "El 2T pequeño castiga el embrague en trialeras lentas"
+      "El 2T pequeño castiga el embrague en trialeras lentas",
+      "El motor 2T exige llevarla alta de vueltas y tirar del embrague en zonas lentas; el embrague es por cable y se nota algo rígido (enduromagazine.com).",
+      "El arranque es solo por pedal: no hay arranque eléctrico (enduromagazine.com).",
     ],
     curiosidades: [
       "Fantic es una marca italiana histórica resucitada que hoy compite en Moto2 y en enduro",
       "La XE 125 comparte filosofía con las 125 de competición del Italiano de Enduro",
       "KYB es el mismo proveedor de suspensiones de Yamaha",
-      "Su precio la sitúa como alternativa italiana a las 125 austriacas"
+      "Su precio la sitúa como alternativa italiana a las 125 austriacas",
+      "La base del motor es Yamaha, readaptada por los técnicos de Fantic para convertirla en una enduro 125 de competición (enduromagazine.com).",
+      "Para la MY25 estrenó radiadores más largos que mejoran la extracción de calor un 35 %, clave en trialeras de baja velocidad (enduromagazine.com).",
     ],
     imagen: "/media/motos/fantic-xe-125-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       { src: "/media/motos/fantic-xe-125-2025-ficha-tecnica-precio-2.webp", alt: "Detalle de la horquilla KYB de la Fantic XE 125 2025", ancho: 1200, alto: 800 },
       { src: "/media/motos/fantic-xe-125-2025-ficha-tecnica-precio-3.webp", alt: "Fantic XE 125 2025 en un tramo de enduro", ancho: 1200, alto: 800 }
     ],
-    videoId: "fV5GKTJdjlo",
-    videoCanal: "𝐁𝐀𝐓𝐓.",
-    fuenteNombre: "Fantic Motor España",
-    fuenteUrl: null,
+    videoId: null,
+    videoCanal: null,
+    fuenteNombre: "motofichas.com (catálogo Fantic 125cc; el único PVP publicado es el de la XE 125 2026, 9.990 €)",
+    fuenteUrl: "https://www.motofichas.com/marcas/fantic/125cc",
     analisisSlug: "fantic-xe-125-2025-ficha-tecnica-precio"
   },
   {
