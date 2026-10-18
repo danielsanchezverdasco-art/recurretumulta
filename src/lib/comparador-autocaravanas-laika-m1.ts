@@ -1,10 +1,10 @@
 // Autocaravanas Laika — lote Merlín 1 (18/10/2026).
-// Datos verificados: lista oficial de precios y fichas técnicas Laika 2026 (documento
-// oficial de la marca, válido desde 01/08/2025; consultado vía mirror porque no se
-// localizó el descargable en laika.it; la web oficial confirma la gama Ecovip).
-// Precio "desde" publicado en la lista oficial (mercado francés), marcado en "aprox";
-// en España puede diferir.
-// Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
+// Modelos: Ecovip 600 + Kosmo L 319.
+// NOTA DE NOMENCLATURA: el «Kosmo L 319 DS» no existe en el catálogo oficial 2026; el sufijo DS
+// solo aparece en el Kosmo L 412 DS. La ficha corresponde al Kosmo L 319 (gama oficial 2026:
+// L 105, L 319, L 409, L 412 DS). Datos: laika.it + alpacacamping.de. Precio orientativo
+// Alemania en «aprox». Fotos: pendientes de subida; se referencian los nombres y se suben
+// antes de anunciar el lote.
 import type { CocheComparador } from "./comparador-coches-data.ts";
 
 export const AUTOCARAVANAS_LAIKA_M1: CocheComparador[] = [
@@ -112,5 +112,110 @@ export const AUTOCARAVANAS_LAIKA_M1: CocheComparador[] = [
     euroncap: null,
     fuenteNombre: "Laika (lista oficial de precios y fichas técnicas 2026)",
     fuenteUrl: "https://www.laika.it/",
+  },,
+  {
+  id: "laika-kosmo-l-319-2026-precio-ficha-tecnica",
+  marca: "Laika",
+  modelo: "Kosmo L 319",
+  tipo: "Autocaravana perfilada",
+  categoria: "Autocaravana",
+  precioDesde: 82500, // orientativo Alemania (alpacacamping.de); en España puede diferir
+  potenciaCv: 140, // Fiat Ducato 2.2 MultiJet 35 Light; cambio automático opcional
+  autonomiaKm: null,
+  maleteroL: null,
+  ceroCien: null,
+  velocidadMax: null,
+  bateriaKwh: null,
+  cargaRapidaKw: null,
+  etiquetaDgt: "C",
+  garantiaBateriaAnos: null,
+  garantiaBateriaKm: null,
+  garantiaBateriaDegradacionPct: null,
+  imagen: "/media/laika-kosmo-l-319-2026-precio-ficha-tecnica-oficial.webp",
+  imagenOficial:
+  "/media/laika-kosmo-l-319-2026-precio-ficha-tecnica-oficial.webp",
+  imagenInteriorOficial:
+  "/media/laika-kosmo-l-319-2026-precio-ficha-tecnica-interior.webp",
+  videoId: null,
+  videoCanal: null,
+  largoMm: 6950,
+  anchoMm: 2320,
+  altoMm: 2950,
+  pesoKg: null, // Laika no publica la masa en orden de marcha en su web oficial
+  mmaKg: 3500,
+  carnetNecesario: "B",
+  cargaUtilKg: null, // sin masa en orden de marcha oficial no se puede calcular
+  consumo: null,
+  consumoUnidad: null,
+  plazas: 4,
+  parNm: null, // no publicado por el fabricante
+  traccion: "Delantera",
+  emisionesCo2: null,
+  aprox: ["precioDesde"],
+  pros: [
+  "Camas gemelas traseras de hasta 205 cm con elevación eléctrica: de las camas más largas del segmento en solo 6,95 m",
+  "Baño Vario de nueva generación: giras la pared del lavabo y creas una ducha amplia sin cortinillas improvisadas",
+  "Garaje iluminado, calefactado y con rieles de amarre: el equipaje viaja protegido del frío y bien fijado",
+  "Diseño exterior de GFG Style con ventanas enrasadas de doble acristalamiento: estética premium en la gama de acceso de Laika",
+  "Precio de entrada orientativo de 82.500 €: la perfilada italiana de 6,95 m más asequible dentro del catálogo Laika",
+  ],
+  contras: [
+  "Masa en orden de marcha no publicada por Laika: la carga útil real hay que calcularla unidad a unidad con el concesionario",
+  "Cambio manual de serie y depósito de gasóleo de 90 l: el automático y más autonomía entre repostajes se pagan aparte",
+  "Nevera de 136 l: justa para 4 personas en viajes largos frente a las de 150 l o más de la competencia",
+  "Red de concesionarios pequeña en España: menos puntos de servicio que las marcas nacionales o francesas",
+  "El baño Vario exige girar el lavabo para ducharse: cada ducha implica reconfigurar el aseo",
+  ],
+  opiniones: [],
+  costeMensual: {
+  costeEnergia100km: 13.5,
+  precioKwh: 0.18,
+  precioGasolinaL: 1.6,
+  seguroTercerosAnual: 650,
+  seguroAmpliadoAnual: 1200,
+  mantenimientoAnual: 600,
+  costeMensualTotal: 420,
+  notas:
+  "Estimación con 12.000 km/año, consumo medio ~10 l/100 km de gasóleo y seguro a todo riesgo. Coste real muy dependiente del uso.",
+  estimado: true,
   },
+  galeria: [
+  {
+  src: "/media/laika-kosmo-l-319-2026-precio-ficha-tecnica-oficial.webp",
+  alt: "Laika Kosmo L 319, vista tres cuartos delantera",
+  ancho: 1200,
+  alto: 800,
+  },
+  {
+  src: "/media/laika-kosmo-l-319-2026-precio-ficha-tecnica-interior.webp",
+  alt: "Interior del Laika Kosmo L 319, baño Vario y dormitorio",
+  ancho: 1200,
+  alto: 800,
+  },
+  ],
+  analisisSlug: "laika-kosmo-l-319-2026-precio-ficha-tecnica",
+  planMantenimiento: {
+  intervalo:
+  "Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Fiat)",
+  revisiones: [
+  {
+  nombre: "Revisión Fiat Ducato (2 años / 40.000 km)",
+  queSeCambia:
+  "Aceite + filtro de aceite + filtro de polen + inspección general",
+  costeAproxEur: 350,
+  },
+  {
+  nombre: "Revisión célula Laika (anual recomendada)",
+  queSeCambia:
+  "Estanqueidad, gas, electricidad, humedades y prueba de calefacción",
+  costeAproxEur: 250,
+  },
+  ],
+  costeAnualAproxEur: 600,
+  fuente: "Plan de mantenimiento Fiat Ducato + recomendaciones Laika",
+  },
+  euroncap: null,
+  fuenteNombre: "Laika (laika.it) + AlpacaCamping",
+  fuenteUrl: "https://www.laika.it/",
+  }
 ];
