@@ -6,9 +6,9 @@
 // especializada; el catálogo oficial no pudo descargarse directamente (fallo de red) y se
 // consultó su extracto. Precio "desde" no publicado por el fabricante → null (no inventar).
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_DREAMER_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_DREAMER_M1: Autocaravana[] = [
   {
     id: "dreamer-d55-fun-up-2026-precio-ficha-tecnica",
     marca: "Dreamer",

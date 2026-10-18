@@ -9,9 +9,9 @@
 // la ficha corresponde al modelo oficial más próximo: G740FGJ ÉVIDENCE (integral de camas
 // gemelas, colección 2027). Precio no publicado por el fabricante → null (no inventar).
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_PILOTE_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_PILOTE_M1: Autocaravana[] = [
   {
     id: "pilote-v600g-2026-precio-ficha-tecnica",
     marca: "Pilote",

@@ -3,9 +3,9 @@
 // concesionarios para el TEI-60FB (descatalogado de la gama 2026, sustituido por el TEI-62DH).
 // El fabricante no publica PVP: precioDesde en null.
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_MOOVEO_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_MOOVEO_M1: Autocaravana[] = [
   {
     id: "mooveo-tei-60fb-2026-precio-ficha-tecnica",
     marca: "Mooveo",

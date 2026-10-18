@@ -3,9 +3,9 @@
 // 7.520 mm, 2.270 mm, 2.950 mm, Fiat 2.2 140 CV, 4 plazas), carthago.com (gama C-Tourer oficial).
 // Precio en España no verificado: precioDesde en null (no inventar).
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_CARTHAGO_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_CARTHAGO_M1: Autocaravana[] = [
   {
     id: "carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica",
     marca: "Carthago",

@@ -5,9 +5,9 @@
 // y la ficha corresponde al T 690. Ahorn Camp es marca alemana (Speyer), no canadiense.
 // Precios "desde" orientativos para España marcados en "aprox".
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_AHORNCAMP_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_AHORNCAMP_M1: Autocaravana[] = [
   {
     id: "ahorncamp-t-690-2026-precio-ficha-tecnica",
     marca: "Ahorn Camp",

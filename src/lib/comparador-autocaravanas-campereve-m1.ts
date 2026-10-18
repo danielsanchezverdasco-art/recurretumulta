@@ -3,9 +3,9 @@
 // (Campérêve no localizó ficha oficial completa del modelo; el fabricante no publica
 // PVP: precioDesde en null).
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_CAMPEREVE_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_CAMPEREVE_M1: Autocaravana[] = [
   {
     id: "campereve-magellan-643-2026-precio-ficha-tecnica",
     marca: "Campérêve",

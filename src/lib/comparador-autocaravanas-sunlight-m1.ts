@@ -4,9 +4,9 @@
 // outandaboutlive.co.uk (prensa especializada).
 // Precio del A 70 marcado en "aprox" (Alemania); precio del T 68 en España no verificado (null).
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_SUNLIGHT_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_SUNLIGHT_M1: Autocaravana[] = [
   {
     id: "sunlight-t-68-2026-precio-ficha-tecnica",
     marca: "Sunlight",

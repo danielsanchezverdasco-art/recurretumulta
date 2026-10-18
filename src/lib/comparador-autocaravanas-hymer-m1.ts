@@ -8,9 +8,9 @@
 // (desde 165.900 € en Alemania, hymer.com): el precio "desde" de la ficha se toma de esa edición,
 // único PVP oficial publicado por Hymer para el ML-T 580 4x4 en MY2026.
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_HYMER_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_HYMER_M1: Autocaravana[] = [
   {
     id: "hymer-grand-canyon-s-2026-precio-ficha-tecnica",
     marca: "Hymer",

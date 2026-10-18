@@ -3,9 +3,9 @@
 // dethleffs.co.uk (gama Trend actual).
 // Precio en España no verificado: precioDesde en null (no inventar).
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_DETHLEFFS_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_DETHLEFFS_M1: Autocaravana[] = [
   {
     id: "dethleffs-trend-t-6717-eb-2026-precio-ficha-tecnica",
     marca: "Dethleffs",

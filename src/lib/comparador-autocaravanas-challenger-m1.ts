@@ -6,9 +6,9 @@
 // edición "Road Edition". Se mantiene el identificador del lote 1 y la ficha describe
 // el V114 2026 en su versión de entrada Road Edition. Precio no publicado → null.
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_CHALLENGER_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_CHALLENGER_M1: Autocaravana[] = [
   {
     id: "challenger-v114-start-edition-2026-precio-ficha-tecnica",
     marca: "Challenger",

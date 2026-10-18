@@ -2,9 +2,9 @@
 // Datos verificados: catálogo oficial Itineo 2026 (PDF) y web oficial itineo.com
 // (grupo Rapido; el fabricante no publica MMA por modelo ni PVP: precioDesde en null).
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_ITINEO_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_ITINEO_M1: Autocaravana[] = [
   {
     id: "itineo-pf600-2026-precio-ficha-tecnica",
     marca: "Itineo",

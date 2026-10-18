@@ -3,9 +3,9 @@
 // + Sport 340 UP (capuchina sobre Ford Transit, no camper; alpacacamping.de + caravaningplaza.com).
 // Benimar no publica PVP: precioDesde en null. Fotos: pendientes de subida; se referencian
 // los nombres y se suben antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_BENIMAR_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_BENIMAR_M1: Autocaravana[] = [
   {
     id: "benimar-mileo-243-2026-precio-ficha-tecnica",
     marca: "Benimar",
@@ -110,7 +110,7 @@ export const AUTOCARAVANAS_BENIMAR_M1: CocheComparador[] = [
     euroncap: null,
     fuenteNombre: "Benimar (web oficial) + Dinmore Leisure + Out & About Live",
     fuenteUrl: "https://www.benimar.es/en/low-profile-motorhomes/",
-  },,
+  },
   {
   id: "benimar-amphitryon-940-2026-precio-ficha-tecnica",
   marca: "Benimar",

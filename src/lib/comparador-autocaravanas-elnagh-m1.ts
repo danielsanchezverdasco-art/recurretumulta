@@ -2,9 +2,9 @@
 // Datos verificados: catálogos oficiales Elnagh 2022 y 2025 + web oficial elnagh.com
 // (Elnagh no publica PVP: precioDesde en null; 120 CV en catálogo 2022, 140 CV en versiones recientes).
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_ELNAGH_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_ELNAGH_M1: Autocaravana[] = [
   {
     id: "elnagh-baron-565-2026-precio-ficha-tecnica",
     marca: "Elnagh",

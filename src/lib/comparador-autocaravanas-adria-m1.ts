@@ -3,9 +3,9 @@
 // existe en acabados Plus y Supreme). Datos Coral Plus: ficha técnica Adria UK (adria.co.uk),
 // The Caravan Club, Out & About Live. Adria no publica PVP: precioDesde en null.
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_ADRIA_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_ADRIA_M1: Autocaravana[] = [
   {
     id: "adria-twin-supreme-640-sgx-2026-precio-ficha-tecnica",
     marca: "Adria",
@@ -110,7 +110,7 @@ export const AUTOCARAVANAS_ADRIA_M1: CocheComparador[] = [
     euroncap: null,
     fuenteNombre: "Adria (catálogo) + AlpacaCamping + Sia Magazin",
     fuenteUrl: "https://www.alpacacamping.de/fahrzeuge/en/model/adria-twin-supreme/",
-  },,
+  },
   {
   id: "adria-coral-plus-670-sl-2026-precio-ficha-tecnica",
   marca: "Adria",

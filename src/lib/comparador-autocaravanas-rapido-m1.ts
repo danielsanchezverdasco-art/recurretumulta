@@ -9,9 +9,9 @@
 // unidades 2026 (datos coincidentes), claramente identificados como tales.
 // Precio "desde" no publicado por el fabricante en ningún mercado → null (no inventar).
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_RAPIDO_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_RAPIDO_M1: Autocaravana[] = [
   {
     id: "rapido-v55-2026-precio-ficha-tecnica",
     marca: "Rapido",

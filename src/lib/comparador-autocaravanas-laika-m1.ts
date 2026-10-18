@@ -5,9 +5,9 @@
 // L 105, L 319, L 409, L 412 DS). Datos: laika.it + alpacacamping.de. Precio orientativo
 // Alemania en «aprox». Fotos: pendientes de subida; se referencian los nombres y se suben
 // antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_LAIKA_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_LAIKA_M1: Autocaravana[] = [
   {
     id: "laika-ecovip-600-2026-precio-ficha-tecnica",
     marca: "Laika",
@@ -112,7 +112,7 @@ export const AUTOCARAVANAS_LAIKA_M1: CocheComparador[] = [
     euroncap: null,
     fuenteNombre: "Laika (lista oficial de precios y fichas técnicas 2026)",
     fuenteUrl: "https://www.laika.it/",
-  },,
+  },
   {
   id: "laika-kosmo-l-319-2026-precio-ficha-tecnica",
   marca: "Laika",

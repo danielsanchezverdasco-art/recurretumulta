@@ -2,9 +2,9 @@
 // Datos verificados: buerstner.com (web oficial; precio PVP recomendado Alemania, puede diferir en España).
 // Precios "desde" orientativos para España marcados en "aprox".
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_BURSTNER_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_BURSTNER_M1: Autocaravana[] = [
   {
     id: "burstner-lyseo-td-690-g-2026-precio-ficha-tecnica",
     marca: "Bürstner",

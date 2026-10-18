@@ -2,9 +2,9 @@
 // Datos verificados: web oficial CI (grupo Trigano) + ficha técnica de concesionario
 // (CI no publica PVP: precioDesde en null).
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_CI_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_CI_M1: Autocaravana[] = [
   {
     id: "ci-horon-84-xt-2026-precio-ficha-tecnica",
     marca: "CI",

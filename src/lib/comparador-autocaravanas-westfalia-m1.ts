@@ -3,9 +3,9 @@
 // + catálogo oficial 2026). Precio "desde" publicado en la web oficial (mercado alemán),
 // marcado en "aprox"; en España puede diferir.
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_WESTFALIA_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_WESTFALIA_M1: Autocaravana[] = [
   {
     id: "westfalia-columbus-600d-2026-precio-ficha-tecnica",
     marca: "Westfalia",

@@ -6,9 +6,9 @@
 // Frankia no publica PVP: precioDesde en null, sin inventar.
 // Precios "desde" orientativos para España marcados en "aprox".
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_FRANKIA_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_FRANKIA_M1: Autocaravana[] = [
   {
     id: "frankia-neo-i-7-gdk-2026-precio-ficha-tecnica",
     marca: "Frankia",

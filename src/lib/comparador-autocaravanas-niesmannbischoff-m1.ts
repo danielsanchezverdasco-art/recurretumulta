@@ -3,9 +3,9 @@
 // distribuidores coincidentes (el fabricante no publica plazas ni PVP: precioDesde en null;
 // precio base de prensa alemana ~114.850 € en Alemania MY2026, no oficial).
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_NIESMANNBISCHOFF_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_NIESMANNBISCHOFF_M1: Autocaravana[] = [
   {
     id: "niesmann-bischoff-ismove-69-e-2026-precio-ficha-tecnica",
     marca: "Niesmann+Bischoff",

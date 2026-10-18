@@ -7,9 +7,9 @@
 // NO presentarlo como novedad 2026. Solo unidades de ocasión (2016-2021).
 // Precio oficial inexistente → null (no inventar).
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_GLOBECAR_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_GLOBECAR_M1: Autocaravana[] = [
   {
     id: "globecar-globescout-plus-2026-precio-ficha-tecnica",
     marca: "Globecar",

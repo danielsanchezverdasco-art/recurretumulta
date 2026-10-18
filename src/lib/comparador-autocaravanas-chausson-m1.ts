@@ -10,9 +10,9 @@
 // no están publicados en el sitio oficial → null (no inventar).
 // Precio no publicado por el fabricante → null.
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_CHAUSSON_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_CHAUSSON_M1: Autocaravana[] = [
   {
     id: "chausson-640-titanium-2026-precio-ficha-tecnica",
     marca: "Chausson",

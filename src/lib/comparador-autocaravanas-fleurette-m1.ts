@@ -4,9 +4,9 @@
 // Nota: el "Florium Wincup 70" no existe en los catálogos oficiales; se documenta
 // el modelo oficial más próximo de la gama estrecha, el Baxter 68 LMC.
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_FLEURETTE_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_FLEURETTE_M1: Autocaravana[] = [
   {
     id: "fleurette-baxter-68-lmc-2026-precio-ficha-tecnica",
     marca: "Fleurette",

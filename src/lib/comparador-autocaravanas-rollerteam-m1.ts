@@ -4,9 +4,9 @@
 // camplify.co.uk (chasis Ford Transit actual).
 // Precio en España no verificado: precioDesde en null (no inventar).
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_ROLLERTEAM_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_ROLLERTEAM_M1: Autocaravana[] = [
   {
     id: "roller-team-auto-roller-746-2026-precio-ficha-tecnica",
     marca: "Roller Team",

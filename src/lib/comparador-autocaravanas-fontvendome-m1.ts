@@ -2,9 +2,9 @@
 // Datos verificados: ficha oficial del fabricante 2026 (PDF)
 // (Font Vendôme no publica PVP: precioDesde en null).
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_FONTVENDOME_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_FONTVENDOME_M1: Autocaravana[] = [
   {
     id: "font-vendome-mondea-2026-precio-ficha-tecnica",
     marca: "Font Vendôme",

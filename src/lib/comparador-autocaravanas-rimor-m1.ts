@@ -3,9 +3,9 @@
 // (PVP Alemania con IVA incluido, franco fábrica) + ficha de datos Rimor para Reino Unido.
 // Precios "desde" orientativos para España marcados en "aprox".
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_RIMOR_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_RIMOR_M1: Autocaravana[] = [
   {
     id: "rimor-superbrig-687-tc-2026-precio-ficha-tecnica",
     marca: "Rimor",

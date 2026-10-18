@@ -3,9 +3,9 @@
 // modelo vigente 2026: CaraBus GREY EDITION [FIRE] 600 MQ). Weinsberg no publica PVP: precioDesde en null.
 // Precios "desde" orientativos para España marcados en "aprox".
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_WEINSBERG_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_WEINSBERG_M1: Autocaravana[] = [
   {
     id: "weinsberg-carabus-grey-edition-fire-600-mq-2026-precio-ficha-tecnica",
     marca: "Weinsberg",

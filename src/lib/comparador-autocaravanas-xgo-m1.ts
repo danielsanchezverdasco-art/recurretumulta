@@ -2,9 +2,9 @@
 // Datos verificados: página oficial XVAN de xgomove.it + catálogo oficial XGO 25/26
 // (XGO no publica PVP ni tracción en su web: precioDesde en null).
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_XGO_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_XGO_M1: Autocaravana[] = [
   {
     id: "xgo-x-van-104-2026-precio-ficha-tecnica",
     marca: "XGO",

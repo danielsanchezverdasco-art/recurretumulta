@@ -7,9 +7,9 @@
 // NOTA Sky TI 650 MEG: la ficha corresponde al año modelo 2026 sobre Fiat Ducato 140 CV
 // (la generación 2027 cambia al chasis VW Crafter, según knaus.com).
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_KNAUS_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_KNAUS_M1: Autocaravana[] = [
   {
     id: "knaus-boxlife-600-mq-2026-precio-ficha-tecnica",
     marca: "Knaus",

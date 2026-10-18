@@ -8,9 +8,9 @@
 // Precio "desde" en EUR no publicado por el fabricante → null (no inventar);
 // se documenta el PVP oficial británico (£72,799) en el comentario.
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_ETRUSCO_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_ETRUSCO_M1: Autocaravana[] = [
   {
     id: "etrusco-t-7400-sb-2026-precio-ficha-tecnica",
     marca: "Etrusco",

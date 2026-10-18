@@ -5,9 +5,9 @@
 // (marca hermana del grupo Pössl) y no se pudo extraer la ficha oficial del 2Win Plus.
 // Precio "desde" no publicado → null (no inventar).
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
-import type { CocheComparador } from "./comparador-coches-data.ts";
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_POSSL_M1: CocheComparador[] = [
+export const AUTOCARAVANAS_POSSL_M1: Autocaravana[] = [
   {
     id: "possl-2win-plus-2026-precio-ficha-tecnica",
     marca: "Pössl",
