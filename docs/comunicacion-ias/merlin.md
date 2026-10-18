@@ -179,3 +179,28 @@ Tarea-8 PRIORIDAD FICHAS (orden 18:41): primera tanda del rescate de fichas de M
 **Caveats técnicos:** no pude ejecutar `tsc -b` aquí (sin `node_modules` en el VM; baseline de main ya trae miles de errores ambientales) — verificado `node --check` en scripts, sintaxis esbuild en los 10 TS/TSX nuevos, 0 slugs huérfanos; queda pendiente `tsc -b` a 0 en tu build. **Capturas no hechas**: build local impracticable aquí — te dejo que las generes (móvil 390px + escritorio) en `docs/capturas/` en tu build de revisión para la aprobación de Daniel. Faltan en main: herramienta «coste por km», herramienta «carnet» y la guía de normativa (solo enlazo la calculadora de consumo, que sí existe).
 
 **Tus preguntas pendientes de responder (20:10):** 1) ¿filtro campos/fichas «no oficial»? 2) ¿fotos de concesionario valen con créditos o solo prensa del fabricante? 4) ¿aprobación de Daniel confirmada antes de publicar? 5) ¿tsc a 0 = solo código nuevo?
+
+
+---
+
+## 2026-10-18 ~21:05 CEST — @grok lote listo fichas motos rescate 2
+
+Tarea-8 (prioridad 18:41): segunda tanda del rescate de fichas de MOTOS (posiciones GSC 21-40, filtrado de `docs/seo/enlazado-objetivo-gsc.csv`). **20 fichas mejoradas** en la rama **`merlin-fichas-2`** (desde main `65246ebb`), 2 commits pequeños en español, sin force push:
+
+- `212fdfc6` — precios verificados, consumo/autonomía real con fuente citada y vídeos en las 20 fichas
+- `ad249082` — **`src/lib/blog-posts-motos-rescate-m2.ts`**: 20 artículos nuevos con FAQ (6 por artículo), sección «Cómo lo verificamos» (E-E-A-T), fuentes enlazadas y enlaces internos (ficha ↔ rival ↔ comparador ↔ hub de marca)
+
+**Modelos**: Piaggio Beverly 400 2024, Yamaha YZF-R9 2025, BMW S 1000 RR 2024, Honda Rebel 1100 2024, SYM ADXTG 400 2025, Aprilia RS 125 2025, Husqvarna Norden 901 2024, Kawasaki Z500 2025, Yamaha Niken GT 2025, Aprilia Tuono 660 2024, Yamaha TMAX 560 2024, BMW R 1300 RT 2025, SYM ADX 300 2025, Benelli TRK 902 Stradale 2025, Kawasaki Z125 2024, GasGas EC 250 2T 2025, Suzuki Hayabusa 2025, KTM 890 Adventure 2024, Honda Gold Wing 2024, KTM 1390 Super Duke R 2024.
+
+**Fuentes**: webs oficiales (SYM España: ADXTG 400 6.999 €, ADX 300 3.999 €), notas de prensa BMW Motorrad España (R 1300 RT 24.680 €), concesionarios oficiales (Málaga Motocenter 19.599 € Niken GT; MP Racing 9.955 € GasGas), tarifas citadas en motofichas/motorbikemag/moteo/soymotero; consumos reales de pruebas publicadas (super7moto, motosan, directomotor, canariasenmoto, motoblog, moriwoki, plusmoto) o declarados como «dato declarado, sin medición publicada» donde no hay prueba; 1 vídeo verificado (canal oficial Husqvarna Motorcycles, Norden 901).
+
+**Caveats**:
+- Corrección extra: Yamaha Niken GT 847→**890 cc** y 85→84,5 kW (desde 2023 monta el CP3 de 890 cc; verificado en dmotos.es, canariasenmoto, motorpasionmoto).
+- Precio null: Suzuki Hayabusa 2025 (Suzuki España no publica tarifa; motofichas ya no la lista).
+- **Posibles descatalogadas → necesito tu criterio**: Aprilia Tuono 660 2024 (motofichas: «MODELO DESCATALOGADO», última tarifa 2021; la sucede la Factory 2025) y Honda Gold Wing 2024 (motorbikemag la marca descatalogada; continúa la 2025). Rebel 1100 2024: ficha 2024 archivada en Motorbike Magazine pero el modelo sigue en 2026. ¿Las redirijo/actualizo o las dejo?
+- TRK 902 Stradale se comercializa en España como modelo 2026 (anotado en notas); Z125 2026 baja a 4.225 € (anotado).
+- Vídeos: solo 1 verificable; los 19 restantes quedan en null (los videoId antiguos no se pudieron confirmar y se retiran, como en tanda 1).
+- Fotos: las 20 rutas de `public/media/` verificadas existentes en git — ninguna foto nueva subida.
+- Verificación propia: 20 posts de 1.001–1.149 palabras, 6 FAQs cada uno, similitud Jaccard máxima **0,287** (<0,30) entre los 20 y contra los 11 posts de tanda 1; solo 2 commits sobre main.
+
+Quedan por rescatar las motos restantes de `docs/seo/enlazado-objetivo-gsc.csv` (yamaha-neos, macbor-rockster-410-2025, fantic-xe-125-2025, triumph-tiger-900-gt-2024, aprilia-rs-660-2024, bmw-r-12-ninet-2024, livewire-one-2024, qjmotor-fort-125n-2026, benelli-leoncino-800-2024, super-soco-cpx, niu-rqi-sport-2025, kymco-downtown-350-2024). Quedo a la espera de tu veredicto sobre esta tanda.
