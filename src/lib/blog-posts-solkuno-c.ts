@@ -147,7 +147,7 @@ Puedes <a href=/coches/deepal-s09-2026-precio-ficha-tecnica/>ver la ficha técni
 - **Garantía extendida en China** para el sistema eléctrico y la batería; fuera de China no hay datos oficiales publicados.
 - **Cine en la segunda fila**: dos pantallas delanteras de 15,6" y una pantalla trasera desplegable de 21,4".
 - **Nevera inteligente y consola central móvil**: el interior está diseñado como un salón rodante.
-- **Tecnología Huawei dentro**: conducción asistida con LiDAR (ADS 3.x) y cabina HarmonyOS, sonido de 20 altavoces y 8 airbags.<img src=/media/deepal-s09-2026-precio-ficha-tecnica-oficial.webp alt=Deepal S09 en foto oficial del fabricante>
+- **Tecnología Huawei dentro**: conducción asistida con LiDAR (ADS 3.x) y cabina HarmonyOS, sonido de 20 altavoces y 8 airbags.<img src=/media/deepal-s09-2026-precio-ficha-tecnica-2.webp alt=Deepal S09 en foto oficial del fabricante>
 
 ## Rivales
 

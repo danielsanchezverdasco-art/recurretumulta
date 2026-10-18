@@ -490,8 +490,8 @@ export const COCHES_JAECOO: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-hero.webp",
-    imagenInteriorOficial: "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-1.webp",
+    imagenInteriorOficial: "",
     videoId: "iwc5mIbG_1s",
     videoCanal: "Wheelsboy",
     marca: "Jaecoo",
@@ -533,7 +533,7 @@ export const COCHES_JAECOO: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["precioDesde", "autonomiaKm", "bateriaKwh", "pesoKg"],
-    imagen: "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-1.webp",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 3.35,
@@ -548,22 +548,22 @@ export const COCHES_JAECOO: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-hero.webp",
-        "alt": "Jaecoo 6 EV, SUV eléctrico de diseño caja, tres cuartos delantero en estudio",
+        "src": "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-2.webp",
+        "alt": "Jaecoo 6 EV, SUV eléctrico de diseño caja en vista frontal",
+        "ancho": 800,
+        "alto": 533
+      },
+      {
+        "src": "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-3.webp",
+        "alt": "Jaecoo 6 EV, lateral del todocamino eléctrico",
+        "ancho": 800,
+        "alto": 533
+      },
+      {
+        "src": "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-4.webp",
+        "alt": "Jaecoo 6 EV, detalle del frontal tipo Defender",
         "ancho": 800,
         "alto": 450
-      },
-      {
-        "src": "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-foto2.webp",
-        "alt": "Jaecoo J6 EV, vista frontal en calle",
-        "ancho": 1024,
-        "alto": 1024
-      },
-      {
-        "src": "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-interior.webp",
-        "alt": "Interior del Jaecoo 6 EV con pantalla de 15,6 pulgadas",
-        "ancho": 1024,
-        "alto": 768
       }
     ],
     analisisSlug: "jaecoo-6-ev-2026-precio-ficha-tecnica",
