@@ -1,9 +1,10 @@
-// Caravanas Bürstner — ficha 1 (lote caravanas 2C, 17/10/2026).
+// Caravanas Bürstner — ficha 1 (lote caravanas 2C, 17/10/2026; corregida 18/10/2026).
 // Datos verificados: buerstner.com (gama Premio), caravanas.net (novedades
-// Bürstner: cama King Size 200x160 en la 480 TS, 3 plazas), anuncios de
-// distribuidores oficiales (medidas y pesos de la familia Premio Life).
-// Bürstner no publica PVP ni ficha técnica por modelo para España: precio,
-// medidas y pesos son orientativos (marcados en "aprox").
+// Bürstner: cama King Size 200x160 en la 480 TS, 3 plazas).
+// Premio Life 480 TS — cifras oficiales de la ficha técnica Bürstner
+// (datos técnicos caravanas, buerstner.com): 708/212/261 cm, MMA 1.200 kg
+// de serie (aumento opcional a 1.360/1.400/1.500 kg), 990 kg en orden de
+// marcha. El precio no es oficial: Bürstner no publica PVP por modelo.
 // Las caravanas no llevan etiqueta DGT.
 // Fotos: reales del modelo exacto (Bürstner Premio Life 480 TS), verificadas visualmente.
 import type { CocheComparador } from "./comparador-coches-data.ts";
@@ -35,17 +36,20 @@ export const CARAVANAS_BURSTNER: CocheComparador[] = [
       "/media/burstner-premio-life-480-ts-2026-interior-oficial.webp",
     videoId: null,
     videoCanal: null,
-    largoMm: 7000,
-    anchoMm: 2300,
+    largoMm: 7080,
+    anchoMm: 2120,
     altoMm: 2610,
-    pesoKg: 1000,
+    pesoKg: 990,
+    mmaKg: 1360,
+    carnetNecesario: "B",
+    cargaUtilKg: 370,
     consumo: null,
     consumoUnidad: null,
     plazas: 3,
     parNm: null,
     traccion: null,
     emisionesCo2: null,
-    aprox: ["precioDesde", "largoMm", "anchoMm", "altoMm", "pesoKg"],
+    aprox: ["precioDesde"],
     pros: [
       "Cama doble King Size de 200 x 160 cm: única en su categoría compacta",
       "3 plazas de serie: cama doble + dinette transformable",
@@ -109,8 +113,9 @@ export const CARAVANAS_BURSTNER: CocheComparador[] = [
       fuente: "Recomendaciones Bürstner + red de distribuidores",
     },
     euroncap: null,
-    fuenteNombre: "Bürstner (buerstner.com) + caravanas.net",
-    fuenteUrl: "https://www.buerstner.com/es/es/caravanas/premio/premio",
+    fuenteNombre: "Bürstner (ficha técnica oficial) + caravanas.net",
+    fuenteUrl:
+      "https://www.hymer.com/buerstner/downloads/kataloge-folder/mj2023_2/es/es_tds_burstner_wohnwagen_august_2023.pdf",
   },
   {
     id: "burstner-averso-535-tl-2026-precio-ficha-tecnica",
@@ -118,7 +123,7 @@ export const CARAVANAS_BURSTNER: CocheComparador[] = [
     modelo: "Averso 535 TL",
     tipo: "Caravana",
     categoria: "Caravana",
-    precioDesde: 32600,
+    precioDesde: 34900,
     potenciaCv: null,
     autonomiaKm: null,
     maleteroL: null,
@@ -130,10 +135,9 @@ export const CARAVANAS_BURSTNER: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen:
-      "/media/burstner-averso-535-tl-2026-precio-ficha-tecnica-oficial.webp",
+    imagen: "/media/burstner-averso-535-tl-2026-precio-ficha-tecnica.webp",
     imagenOficial:
-      "/media/burstner-averso-535-tl-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/burstner-averso-535-tl-2026-precio-ficha-tecnica.webp",
     imagenInteriorOficial:
       "/media/burstner-averso-535-tl-2026-precio-ficha-tecnica-interior-oficial.webp",
     videoId: null,
@@ -141,23 +145,26 @@ export const CARAVANAS_BURSTNER: CocheComparador[] = [
     largoMm: 7630,
     anchoMm: 2320,
     altoMm: 2610,
-    pesoKg: 1600,
+    pesoKg: 1325,
+    mmaKg: 1600,
+    carnetNecesario: "B96",
+    cargaUtilKg: 275,
     consumo: null,
     consumoUnidad: null,
     plazas: 4,
     parNm: null,
     traccion: null,
     emisionesCo2: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Distribución TL: cama transversal delantera y salón trasero en U",
       "4 plazas con baño completo y ducha separada",
-      "1.600 kg de MMA ampliables a 2.000 kg: carnet B si el conjunto no supera los 3.500 kg",
+      "1.600 kg de MMA ampliables a 2.000 kg: carnet B si el coche no supera 1.900 kg de MMA; con un SUV medio (2.200-2.500 kg) necesitas el B96",
       "Construcción Bürstner con techo de GFK y paredes reforzadas",
       "7,63 m: tamaño medio, remolcable con un SUV",
     ],
     contras: [
-      "Precio oficial en Suiza: 30.210 CHF (~32.600 € al cambio del 18/10/2026): por encima de las generalistas",
+      "Precio oficial en España: 34.900 € (lista oficial Bürstner): por encima de las generalistas",
       "La cama transversal obliga a dormir contra la pared a uno de los dos",
       "Carga útil de ~275 kg, justa con 4 ocupantes y equipaje",
       "El equipamiento de serie es correcto sin lujos",
@@ -190,8 +197,8 @@ export const CARAVANAS_BURSTNER: CocheComparador[] = [
         alto: 800,
       },
       {
-        src: "/media/burstner-averso-535-tl-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Bürstner Averso 535 TL, vista lateral",
+        src: "/media/burstner-averso-535-tl-2026-precio-ficha-tecnica.webp",
+        alt: "Bürstner Averso 535 TL, vista lateral (foto de distribuidor)",
         ancho: 1200,
         alto: 800,
       },
@@ -212,8 +219,8 @@ export const CARAVANAS_BURSTNER: CocheComparador[] = [
       fuente: "Recomendaciones Bürstner + red de distribuidores",
     },
     euroncap: null,
-    fuenteNombre: "Bürstner (web oficial, lista de precios Suiza)",
-    fuenteUrl: "https://www.buerstner.com/ch/de/wohnwagen/averso/averso",
+    fuenteNombre: "Bürstner (web oficial, lista de precios España)",
+    fuenteUrl: "https://www.buerstner.com/es/es/caravanas/averso/averso",
   },
   {
     id: "burstner-premio-plus-510-tk-2026-precio-ficha-tecnica",
@@ -245,6 +252,9 @@ export const CARAVANAS_BURSTNER: CocheComparador[] = [
     anchoMm: 2320,
     altoMm: 2710,
     pesoKg: 1345,
+    mmaKg: 1500,
+    carnetNecesario: "B",
+    cargaUtilKg: 155,
     consumo: null,
     consumoUnidad: null,
     plazas: 7,
@@ -345,6 +355,9 @@ export const CARAVANAS_BURSTNER: CocheComparador[] = [
     anchoMm: 2120,
     altoMm: 2610,
     pesoKg: 950,
+    mmaKg: 1100,
+    carnetNecesario: "B",
+    cargaUtilKg: 150,
     consumo: null,
     consumoUnidad: null,
     plazas: 5,
