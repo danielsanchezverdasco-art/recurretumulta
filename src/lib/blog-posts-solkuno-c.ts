@@ -8,11 +8,11 @@ import type { BlogPost } from "./blog-data.ts";
 
 export const SOLKUNO_C_POSTS: BlogPost[] = [
   {
-    "title": "Aito M8: el Huawei familiar que copia lo mejor",
+    "title": "Aito M8 de Huawei: precio desde 47.800 € y 1.526 km",
     "slug": "aito-m8-huawei-2026-precio-ficha-tecnica",
-    "excerpt": "El Aito M8 de Huawei y Seres es el SUV familiar EREV con hasta 1.526 km de autonomía, 533 CV y precio desde 368.000 yuanes. Ficha técnica y rivales.",
+    "excerpt": "El Aito M8: SUV EREV de Huawei y Seres con 533 CV, 310 km eléctricos y 1.526 km combinados. En China desde 359.800 yuanes.",
     "category": "Actualidad",
-    "date": "2026-10-04",
+    "date": "2026-10-18",
     "readTime": 7,
     "keywords": [
       "Aito M8 precio",
@@ -22,81 +22,84 @@ export const SOLKUNO_C_POSTS: BlogPost[] = [
       "SUV chino 6 plazas 2026",
       "coches chinos Huawei HIMA"
     ],
-    "content": `<img src=/media/aito-m8-huawei-suv.webp alt=SUV Aito M8 de Huawei y Seres con LiDAR en el techo circulando por una carretera de montaña al atardecer>
+    "content": `<img src=/media/aito-m8-huawei-2026-precio-ficha-tecnica-hero.webp alt=Aito M8 rojo tres cuartos delantero en montaña foto carnewschina.com>
 
 Puedes <a href=/coches/aito-m8-huawei-2026-precio-ficha-tecnica/>ver la ficha técnica completa del Aito M8</a> con todos los datos.
 
-**1.526 km de autonomía combinada, 533 CV y más de 100.000 reservas en 32 días.** El Aito M8 es el SUV con el que Huawei y Seres han decidido ir a por el segmento familiar premium en China: el "hermano menor" del M9, más barato pero con la misma receta que está arrasando — eléctrico de autonomía extendida (EREV), conducción asistida con LiDAR y un interior de seis plazas pensado para viajar en primera clase. Desde **368.000 yuanes (unos 50.540 dólares)**, cuesta lo que un SUV alemán medio... pero ofrece lo de uno alemán grande. <a href=/comparador-coches/>Compáralo con sus rivales en nuestro comparador</a>.
+*Actualizado el 18/10/2026.*
 
-## Ficha técnica
+**1.526 km de autonomía combinada, 533 CV y más de 80.000 pedidos firmes en 34 días.** El **Aito M8** es el SUV con el que **Huawei** y **Seres** atacan el segmento familiar premium en China: el "hermano mayor" del superventas M7, más grande (5,19 m), más potente y más lujoso, con eléctrico de autonomía extendida (EREV), conducción asistida con LiDAR y un interior de seis plazas con butacas de gravedad cero. En China parte de **359.800 yuanes (unos 47.800 €** al cambio). <a href=/comparador-coches/>Compáralo con sus rivales en nuestro comparador</a>.
 
-| Dato | Aito M8 |
+## Ficha técnica: Aito M8
+
+| Dato | Valor |
 |---|---|
-| Longitud / anchura / altura | 5.190 / 1.999 / 1.795 mm |
-| Distancia entre ejes | 3.105 mm |
-| Peso | 2.640 - 2.715 kg |
-| Motorización | EREV: extensor 1.5L turbo + motores eléctricos (versión 100% eléctrica anunciada) |
-| Batería | 36,0 kWh LFP CATL / 52,0 kWh NMC CATL |
-| Autonomía eléctrica | 201 - 310 km (CLTC) |
-| Autonomía combinada | 1.405 - 1.526 km (CLTC) |
-| Potencia | 392 kW (533 CV) |
-| Velocidad máxima | 200 km/h |
-| Plazas | 5 o 6 |
-| Precio en China | Desde 368.000 yuanes (~50.540 $) |
+| **Precio en China** | Desde 359.800 yuanes (~47.800 € aprox.) |
+| **Mecánica** | EREV: extensor 1.5T (118 kW) + 2 motores (165 + 227 kW) |
+| **Potencia combinada** | 533 CV (392 kW) |
+| **Batería** | 36 kWh (LFP) o 52 kWh (NMC) |
+| **Autonomía eléctrica** | 201 - 310 km (CLTC) |
+| **Autonomía combinada** | 1.405 - 1.526 km (CLTC) |
+| **Medidas** | 5.190 x 1.999 x 1.795 mm; batalla 3.105 mm |
+| **Plazas** | 5 o 6 |
+| **Tracción** | Total |
+| **Conducción asistida** | Huawei ADS con LiDAR en el techo |
+| **Etiqueta DGT** | Cero (por autonomía eléctrica; si llegara a España) |
 
-## Curiosidades
+¿Quieres el detalle completo? <a href=/coches/aito-m8-huawei-2026-precio-ficha-tecnica/>Ficha técnica completa del Aito M8</a> con galería de fotos.
 
-- **100.000 reservas en 32 días**: el prelanzamiento de marzo de 2025 superó todas las expectativas del segmento SUV premium chino.
-- **El 70% de los compradores elige la versión de 6 plazas**: es un coche pensado para familias numerosas.
-- **Las puertas se abren con un gesto de la mano**: sensores de proximidad y reconocimiento de movimiento permiten entrar sin tocar la manija.
-- **LiDAR en el techo**: el sistema de asistencia de Huawei (ADS 3.0) lo convierte en uno de los SUV chinos más avanzados en conducción asistida.
-- **Interior de "primera clase"**: triple pantalla, equipo de sonido de 19 altavoces y asientos de "gravedad cero" con reclinación avanzada.<img src=/media/aito-m8-huawei-2026-precio-ficha-tecnica-oficial.webp alt=Aito M8 en foto oficial del fabricante>
+## Precio y versiones en China
 
-## Rivales
+| Versión | Plazas | Precio en China | Precio aprox. en € |
+|---|---|---|---|
+| **Max** | 5 | 359.800 yuanes | ~47.800 € |
+| **Max+** | 5 | 379.800 yuanes | ~50.400 € |
+| **Ultra** | 5 | 429.800 yuanes | ~57.100 € |
+| **Max** | 6 | 369.800 yuanes | ~49.100 € |
+| **Max+** | 6 | 399.800 yuanes | ~53.100 € |
+| **Ultra** | 6 | 449.800 yuanes | ~59.700 € |
 
-En China su rival directo es el **Li Auto L8**, el rey de los SUV familiares EREV. Si algún día llegara a Europa, miraría de tú a tú al **BMW X5** y al **Volvo XC90**: mismo tamaño, mucha más tecnología por euro. Su hermano mayor, el <a href=/coches/aito-m9-huawei-ficha-tecnica-precio/>Aito M9 de Huawei</a>, juega en la liga superior de precio.
+Lanzado el 16 de abril de 2025, el M8 sumó **21.000 reservas en 6 horas** de preventa y **más de 80.000 pedidos firmes en 34 días**. Conversión a 1 € ≈ 7,53 yuanes (18/10/2026): precios aproximados, sin validez para Europa.
 
-**Precio honesto:** el precio oficial en China parte de 368.000 yuanes. **No hay precio oficial para Europa ni fecha de llegada confirmada**: cualquier cifra que veas para España es especulación.
+## El familiar premium de Huawei
 
-## Antes de decidir: lo que conviene vigilar
+El M8 es el cuarto modelo de Aito y su apuesta por el lujo familiar: triple pantalla, equipo de sonido de 19 altavoces, asientos de gravedad cero y el chasis inteligente Turing de Huawei. Con 5,19 metros, juega en la liga del BMW X5 y el Volvo XC90, pero con 533 CV y 1.526 km de autonomía por menos de 48.000 € en su mercado de origen.
 
-- **Etiqueta DGT:** como EREV con 201-310 km de autonomía eléctrica, aspiraría a etiqueta Cero (la DGT pide más de 40 km eléctricos a los enchufables); confírmalo en la <a href=/calculadora-etiqueta-dgt/>calculadora de etiqueta DGT</a> y revisa la <a href=/guias/zbe/>guía de ZBE</a>.
-- **Hermano mayor:** si buscas más tamaño y lujo, el <a href=/coches/aito-m9-huawei-ficha-tecnica-precio/>Aito M9 de Huawei</a> juega en la liga superior.
-- **¿Es la mejor compra por ese dinero?** Si llega a Europa, compáralo cara a cara en el <a href=/comparador-coches/>comparador de coches</a> y pásalo por la <a href=/mejor-coche-por-presupuesto/>herramienta de mejor coche por presupuesto</a>.
+<img src=/media/aito-m8-huawei-2026-precio-ficha-tecnica-oficial.webp alt=Aito M8 rojo tres cuartos delantero foto huaweicentral.com>
+
+## M8 frente a M7: ¿cuál es cuál?
+
+No lo confundas con su hermano menor, el <a href=/coches/aito-m7-2026-precio-ficha-tecnica/>Aito M7</a>: el M7 (5,08 m) es el familiar equilibrado y el superventas de la marca, con precio de acceso más bajo y opción 100 % eléctrica. El **M8 es el salto premium**: más grande, 533 CV y tracción total de serie, seis plazas protagonista y el acabado más lujoso de la gama. Por encima de ambos, el <a href=/coches/aito-m9-huawei-ficha-tecnica-precio/>Aito M9</a> es el buque insignia.
+
+<img src=/media/aito-m8-huawei-2026-precio-ficha-tecnica-interior.webp alt=Interior del Aito M8 con triple pantalla foto auto-dealer-online.ru>
 
 ## Preguntas frecuentes
 
-### ¿El Aito M8 es un coche de Huawei?
-Lo fabrica Seres bajo la marca AITO, dentro de HIMA (Harmony Intelligent Mobility Alliance), la alianza automovilística de Huawei. Huawei pone la tecnología (conducción asistida, cabina HarmonyOS) y la red de tiendas.
-
 ### ¿Cuánto cuesta el Aito M8?
-En China parte de 368.000 yuanes, unos 50.540 dólares. No hay precio ni planes oficiales para Europa.
+En China parte de **359.800 yuanes (unos 47.800 €** al cambio); la versión tope (Ultra 6 plazas) llega a 449.800 yuanes. No hay precio ni planes oficiales para Europa.
 
 ### ¿Es eléctrico o híbrido?
-Es un EREV: un eléctrico de autonomía extendida. Un motor 1.5 turbo actúa como generador y la tracción es siempre eléctrica. También se ha anunciado una versión 100% eléctrica a batería.
+Es un **EREV**: un eléctrico de autonomía extendida. Un motor 1.5 turbo actúa solo como generador y la tracción es siempre eléctrica (533 CV). También existe una versión 100 % eléctrica.
 
 ### ¿Qué autonomía tiene el Aito M8?
-Entre 201 y 310 km en modo puramente eléctrico y hasta 1.526 km de autonomía combinada, según el ciclo chino CLTC.
+Entre **201 y 310 km en modo puramente eléctrico** y hasta **1.526 km de autonomía combinada**, según el ciclo chino CLTC.
 
 ### ¿Se vende el Aito M8 en España?
-No. No hay anuncio oficial de llegada a Europa. De momento solo se comercializa en China.
+No. Aito anunció en el Salón de París (octubre de 2026) su llegada a Europa en **otoño de 2027**, sin confirmar modelos ni mercados.
 
-### ¿Qué diferencia hay entre el Aito M8 y el Aito M9?
-El M8 es el hermano menor: más compacto, más barato y enfocado a familias. El <a href=/coches/aito-m9-huawei-ficha-tecnica-precio/>M9</a> es el buque insignia de la marca, más grande y caro.
+### ¿Qué diferencia hay entre el Aito M8 y el Aito M7?
+El M8 es el hermano mayor: más grande (5,19 m frente a 5,08 m), más potente (533 CV de serie) y más premium. El <a href=/coches/aito-m7-2026-precio-ficha-tecnica/>M7</a> es el familiar equilibrado y el superventas.
 
 ### ¿Qué etiqueta DGT tendría el Aito M8?
-Como EREV con 201-310 km de autonomía eléctrica, aspiraría a la **etiqueta Cero** (la DGT pide más de 40 km eléctricos a los enchufables). Confírmalo para tu caso en la <a href=/calculadora-etiqueta-dgt/>calculadora de etiqueta DGT</a>.
+Como EREV con 201-310 km de autonomía eléctrica, le correspondería la **etiqueta Cero**. <a href=/calculadora-etiqueta-dgt/>Calcúlala aquí</a>.
 
-### ¿Un EREV como el M8 gasta menos que un híbrido enchufable normal?
-En el día a día, sí: con 201-310 km de autonomía eléctrica cubres la semana sin arrancar el motor de gasolina, que solo actúa como generador. En viajes largos el consumo se acerca al de un híbrido convencional.
+## Cómo verificamos los datos
 
-## Fuentes
+Precio de lanzamiento (359.800 yuanes), versiones y los 80.000 pedidos en 34 días, en <a href=https://cnevpost.com/2025/05/21/aito-m8-80000-orders-1-month/>CnEVPost</a>; potencia (392 kW/533 CV), baterías (36/52 kWh), autonomías (310/1.526 km CLTC) y medidas, en la cobertura del lanzamiento de <a href=https://carnewschina.com/2025/03/06/huaweis-aito-m8-got-21000-orders-in-six-hours-in-china-priced-at-50650-usd/>CarNewsChina</a>; la llegada a Europa en otoño de 2027, en <a href=https://www.somoselectricos.com/coches-electricos/huawei-prepara-asalto-europa-aito-llegara-2027-suv-lujo/20261014113506064351.html>somoselectricos.com</a>. La conversión a euros usa 1 € ≈ 7,53 yuanes (18/10/2026) y es aproximada. Lo no confirmado no se publica.
 
-- <a href=https://www.dgt.es/>DGT: etiquetas ambientales y zonas de bajas emisiones</a>
-- <a href=https://es.wikipedia.org/wiki/AITO_M8>Wikipedia: AITO M8</a>
-- <a href=https://www.hoy.com.sv/tegnologia/el-huawei-aito-m8-el-auto-que-abre-puertas-con-un-gesto-de-mano/>Hoy.com.sv: el Huawei Aito M8</a>
+*Fuentes: <a href=https://cnevpost.com/2025/05/21/aito-m8-80000-orders-1-month/>CnEVPost</a>, <a href=https://carnewschina.com/2025/03/06/huaweis-aito-m8-got-21000-orders-in-six-hours-in-china-priced-at-50650-usd/>CarNewsChina</a>, <a href=https://www.somoselectricos.com/coches-electricos/huawei-prepara-asalto-europa-aito-llegara-2027-suv-lujo/20261014113506064351.html>somoselectricos.com</a>, <a href=https://www.dgt.es>DGT</a>.*
 
-¿Te ha puesto una multa un radar y no sabes si es recurrible? <a href=/#analizador gratis con nuestra IA</a> antes de pagarla.
+¿Te ha puesto una multa un radar y no sabes si es recurrible? <a href=https://recurretumulta.online/#analizador>Analízala gratis con nuestra IA</a> antes de pagarla.
 `
   },
   {
