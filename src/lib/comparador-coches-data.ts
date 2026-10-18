@@ -167,6 +167,10 @@ export interface CocheComparador {
   precioDesde: number | null;   // euros, número
   potenciaCv: number | null;
   autonomiaKm: number | null;   // WLTP (en PHEV: autonomía eléctrica)
+  /** Ciclo de homologación de autonomiaKm: "WLTP" | "CLTC" | "EPA" | null. CLTC (China) es optimista: la cifra va en `aprox`. */
+  cicloAutonomia?: string | null;
+  /** Versiones con precio individual cuando la gama tiene varias versiones con precio conocido. */
+  versiones?: { nombre: string; precioEur: number | null; precioOriginal?: string | null; nota?: string | null }[] | null;
   maleteroL: number | null;
   ceroCien: number | null;       // segundos
   velocidadMax: number | null;  // km/h
