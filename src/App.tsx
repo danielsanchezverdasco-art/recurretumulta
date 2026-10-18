@@ -256,8 +256,13 @@ function CookieBanner() {
     return () => clearTimeout(t);
   }, []);
   if (!visible) return null;
-  const accept = () => { try { localStorage.setItem("rtm-cookie-consent", "accepted"); } catch (e) { /* No se pudo persistir; se oculta igualmente */ } setVisible(false); };
-  const reject = () => { try { localStorage.setItem("rtm-cookie-consent", "rejected"); } catch (e) { /* No se pudo persistir; se oculta igualmente */ } setVisible(false); };
+  const consent = (v: "granted" | "denied") => {
+    const w = window as unknown as { gtag?: (...a: unknown[]) => void; __rtmLoadGA?: () => void };
+    w.gtag?.("consent", "update", { ad_storage: v, analytics_storage: v, ad_user_data: v, ad_personalization: v });
+    if (v === "granted") w.__rtmLoadGA?.();
+  };
+  const accept = () => { try { localStorage.setItem("rtm-cookie-consent", "accepted"); } catch (e) { /* No se pudo persistir; se oculta igualmente */ } consent("granted"); setVisible(false); };
+  const reject = () => { try { localStorage.setItem("rtm-cookie-consent", "rejected"); } catch (e) { /* No se pudo persistir; se oculta igualmente */ } consent("denied"); setVisible(false); };
   return (
     <div className="fixed bottom-0 inset-x-0 z-50 bg-gray-950/95 text-white border-t border-gray-800" role="dialog" aria-label="Aviso de cookies">
       <div className="relative max-w-3xl mx-auto px-3 py-1.5 flex items-center gap-2">
@@ -269,7 +274,7 @@ function CookieBanner() {
           className="shrink-0"
           titulo="¡Un mono con su galleta! Haz clic para cazarlo 🍪"
         />
-        <p className="text-[11px] leading-tight text-gray-300 flex-1">Usamos cookies propias para que la web funcione. <Link to="/cookies/" className="underline hover:text-white">Política de cookies</Link>.</p>
+        <p className="text-[11px] leading-tight text-gray-300 flex-1">Usamos cookies propias y de terceros (analítica y publicidad). Solo activamos las de terceros si aceptas. <Link to="/cookies/" className="underline hover:text-white">Política de cookies</Link>.</p>
         <button onClick={reject} className="text-[11px] font-semibold px-2.5 py-1 rounded-md border border-gray-700 text-gray-300 hover:bg-gray-800">Rechazar</button>
         <button onClick={accept} className="bg-white text-gray-950 text-[11px] font-semibold px-2.5 py-1 rounded-md hover:bg-gray-200">Aceptar</button>
       </div>

@@ -50,11 +50,19 @@
       window.dataLayer = window.dataLayer || [];
       function gtag() { window.dataLayer.push(arguments); }
       window.gtag = gtag;
+      // 18/10/2026: Consent Mode v2. Todo denegado por defecto; GA solo se carga
+      // si el usuario ha aceptado en el aviso de cookies (rtm-cookie-consent).
+      gtag('consent', 'default', { ad_storage: 'denied', analytics_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied', wait_for_update: 500 });
+      var ok = false;
+      try { ok = localStorage.getItem('rtm-cookie-consent') === 'accepted'; } catch (e) { ok = false; }
+      if (ok) gtag('consent', 'update', { ad_storage: 'granted', analytics_storage: 'granted', ad_user_data: 'granted', ad_personalization: 'granted' });
       gtag('js', new Date());
       gtag('config', 'G-NQD5QTRJPH');
       var done = false;
       function load() {
-        if (done) return; done = true;
+        if (done) return;
+        try { if (localStorage.getItem('rtm-cookie-consent') !== 'accepted') return; } catch (e) { return; }
+        done = true;
         var s = document.createElement('script');
         s.async = true;
         s.src = 'https://www.googletagmanager.com/gtag/js?id=G-NQD5QTRJPH';
@@ -66,6 +74,7 @@
         window.addEventListener(ev, load, { once: true, passive: true });
       });
       window.addEventListener('load', function () { setTimeout(load, 6000); });
+      window.__rtmLoadGA = load;
     })();
   </script>
     <meta name="twitter:image" content="/media/file_GwrC2BjvFbzGFY6yvNwZ6tov.png" />

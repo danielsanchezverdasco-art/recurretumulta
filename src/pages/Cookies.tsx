@@ -28,6 +28,13 @@ export default function CookiesPage() {
               <Cookie className="w-5 h-5 text-red-600" />
             </div>
             <h1 className="text-3xl font-black text-gray-900">{"Política de Cookies"}</h1>
+            <button
+              type="button"
+              onClick={() => { try { localStorage.removeItem("rtm-cookie-consent"); } catch (e) { /* sin localStorage */ } window.location.reload(); }}
+              className="mt-3 rounded-lg border border-gray-300 px-3 py-1.5 text-sm font-semibold text-gray-800 hover:bg-gray-100"
+            >
+              Configurar cookies
+            </button>
           </div>
           <p className="text-sm text-gray-500">{"Última actualización: " + YEAR}</p>
         </div>
