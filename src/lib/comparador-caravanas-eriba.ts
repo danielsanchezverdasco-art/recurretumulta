@@ -25,9 +25,9 @@ export const CARAVANAS_ERIBA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagen:
-      "/media/eriba-touring-542-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/eriba-touring-542-2026-precio-ficha-tecnica.webp",
     imagenOficial:
-      "/media/eriba-touring-542-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/eriba-touring-542-2026-precio-ficha-tecnica.webp",
     imagenInteriorOficial:
       "/media/eriba-touring-542-2026-precio-ficha-tecnica-interior-oficial.webp",
     videoId: null,
@@ -35,17 +35,20 @@ export const CARAVANAS_ERIBA: CocheComparador[] = [
     largoMm: 5990,
     anchoMm: 2100,
     altoMm: 2270,
-    pesoKg: 1500,
+    pesoKg: 985,
+    mmaKg: 1300,
+    carnetNecesario: "B",
+    cargaUtilKg: 315,
     consumo: null,
     consumoUnidad: null,
     plazas: 3,
     parNm: null,
     traccion: null,
     emisionesCo2: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "El icono del caravaning: techo elevable y diseño aerodinámico inconfundible desde 1957",
-      "5,99 m y solo ~1.006 kg: la remolca casi cualquier coche con carnet B",
+      "5,99 m y solo ~985 kg: la remolca casi cualquier coche con carnet B",
       "La más baja del mercado (2,27 m): cabe en garajes y consume menos",
       "Techo elevable: 1,95 m de altura interior para vivir de pie",
       "El mejor valor de reventa entre las caravanas compactas",
@@ -55,7 +58,7 @@ export const CARAVANAS_ERIBA: CocheComparador[] = [
       "2,10 m de ancho: interior más estrecho que una caravana convencional",
       "El techo elevable exige montarlo y desmontarlo en cada parada",
       "Baño compacto: ducha solo con el equipamiento opcional",
-      "Precio orientativo desde ~21.290 €: cara para su tamaño",
+      "Precio oficial desde 21.290 € (lista EUR de Eriba): cara para su tamaño",
     ],
     opiniones: [],
     costeMensual: {
@@ -79,12 +82,12 @@ export const CARAVANAS_ERIBA: CocheComparador[] = [
       },
       {
         src: "/media/eriba-touring-542-2026-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior oficial de la Eriba Touring 542",
+        alt: "Interior de la Eriba Touring 542",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/eriba-touring-542-2026-precio-ficha-tecnica-oficial.webp",
+        src: "/media/eriba-touring-542-2026-precio-ficha-tecnica.webp",
         alt: "Eriba Touring 542, vista lateral",
         ancho: 1200,
         alto: 800,
@@ -106,9 +109,9 @@ export const CARAVANAS_ERIBA: CocheComparador[] = [
       fuente: "Recomendaciones Eriba/Hymer + red de distribuidores",
     },
     euroncap: null,
-    fuenteNombre: "Eriba (lista oficial de precios 2026)",
+    fuenteNombre: "Eriba (lista oficial de precios EUR, válida desde 01.07.2026)",
     fuenteUrl:
-      "https://corigon.eu/eriba/drucksachen/preislisten/caravans/eriba-caravans-ch_de.pdf",
+      "https://xn--corigon-original-zubehr-tlc.de/eriba/drucksachen/preislisten/caravans/eriba-caravans-de_de.pdf",
   },
   {
     id: "eriba-touring-530-2026-precio-ficha-tecnica",
@@ -116,7 +119,7 @@ export const CARAVANAS_ERIBA: CocheComparador[] = [
     modelo: "Touring 530",
     tipo: "Caravana",
     categoria: "Caravana",
-    precioDesde: 29370,
+    precioDesde: 20690,
     potenciaCv: null,
     autonomiaKm: null,
     maleteroL: null,
@@ -129,9 +132,9 @@ export const CARAVANAS_ERIBA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagen:
-      "/media/eriba-touring-530-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/eriba-touring-530-2026-precio-ficha-tecnica.webp",
     imagenOficial:
-      "/media/eriba-touring-530-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/eriba-touring-530-2026-precio-ficha-tecnica.webp",
     imagenInteriorOficial:
       "/media/eriba-touring-530-2026-precio-ficha-tecnica-interior-oficial.webp",
     videoId: null,
@@ -140,6 +143,9 @@ export const CARAVANAS_ERIBA: CocheComparador[] = [
     anchoMm: 2100,
     altoMm: 2270,
     pesoKg: 1010,
+    mmaKg: 1300,
+    carnetNecesario: "B",
+    cargaUtilKg: 290,
     consumo: null,
     consumoUnidad: null,
     plazas: 3,
@@ -159,7 +165,7 @@ export const CARAVANAS_ERIBA: CocheComparador[] = [
       "2,10 m de ancho: interior más estrecho que una caravana convencional",
       "El techo elevable exige montarlo y desmontarlo en cada parada",
       "Baño compacto: ducha solo con equipamiento opcional",
-      "Precio oficial en Suiza: 27.220 CHF (~29.370 € al cambio del 18/10/2026): cara para su tamaño",
+      "Precio oficial en la lista EUR: 20.690 € (precio aprox. para España): cara para su tamaño",
     ],
     opiniones: [],
     costeMensual: {
@@ -188,7 +194,7 @@ export const CARAVANAS_ERIBA: CocheComparador[] = [
         alto: 800,
       },
       {
-        src: "/media/eriba-touring-530-2026-precio-ficha-tecnica-oficial.webp",
+        src: "/media/eriba-touring-530-2026-precio-ficha-tecnica.webp",
         alt: "Eriba Touring 530, vista lateral",
         ancho: 1200,
         alto: 800,
@@ -210,9 +216,9 @@ export const CARAVANAS_ERIBA: CocheComparador[] = [
       fuente: "Recomendaciones Eriba/Hymer + red de distribuidores",
     },
     euroncap: null,
-    fuenteNombre: "Eriba (lista oficial de precios, edición válida desde 01.07.2026)",
+    fuenteNombre: "Eriba (lista oficial de precios EUR, válida desde 01.07.2026)",
     fuenteUrl:
-      "https://corigon.eu/eriba/drucksachen/preislisten/caravans/eriba-caravans-ch_de.pdf",
+      "https://xn--corigon-original-zubehr-tlc.de/eriba/drucksachen/preislisten/caravans/eriba-caravans-de_de.pdf",
   },
   {
     id: "eriba-feeling-425-2026-precio-ficha-tecnica",
@@ -220,7 +226,7 @@ export const CARAVANAS_ERIBA: CocheComparador[] = [
     modelo: "Feeling 425",
     tipo: "Caravana",
     categoria: "Caravana",
-    precioDesde: 28390,
+    precioDesde: 29560,
     potenciaCv: null,
     autonomiaKm: null,
     maleteroL: null,
@@ -243,6 +249,9 @@ export const CARAVANAS_ERIBA: CocheComparador[] = [
     anchoMm: 2160,
     altoMm: 2250,
     pesoKg: 1040,
+    mmaKg: 1200,
+    carnetNecesario: "B",
+    cargaUtilKg: 160,
     consumo: null,
     consumoUnidad: null,
     plazas: 5,
@@ -255,7 +264,7 @@ export const CARAVANAS_ERIBA: CocheComparador[] = [
       "Carnet B con prácticamente cualquier turismo: 1.200 kg de MMA",
       "Carga útil de 160 kg (1.040 kg en orden de marcha, 1.200 kg de MMA: lista oficial Eriba)",
       "2,25 m de alto con el techo bajado: menos resistencia y cabe en más parkings",
-      "Precio oficial en Suiza: 26.310 CHF (~28.390 € al cambio del 18/10/2026)",
+      "Precio oficial en eriba.com: 29.560 € (precio aprox. para España)",
     ],
     contras: [
       "Carga útil de 160 kg: justa para 5 ocupantes",
@@ -312,8 +321,7 @@ export const CARAVANAS_ERIBA: CocheComparador[] = [
       fuente: "Recomendaciones Eriba + red de distribuidores",
     },
     euroncap: null,
-    fuenteNombre: "Eriba (lista oficial de precios Suiza)",
-    fuenteUrl:
-      "https://corigon.eu/eriba/drucksachen/preislisten/caravans/eriba-caravans-ch_de.pdf",
+    fuenteNombre: "Eriba (página oficial del modelo)",
+    fuenteUrl: "http://www.eriba.com/de/en/models/caravans/eriba-feeling",
   },
 ];
