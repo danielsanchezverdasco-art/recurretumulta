@@ -8,7 +8,7 @@
   "precioDesde": 23500,
   "precioAprox": true,
   "mmaKg": 1350,
-  "carnetNecesario": "B96 (o B si el coche tiene MMA ≤2.000 kg)",
+  "carnetNecesario": "B96",
   "imagen": "/media/adria-aviva-522-pt-2026-precio-ficha-tecnica.webp"
  },
  {
@@ -20,7 +20,7 @@
   "precioDesde": 23000,
   "precioAprox": true,
   "mmaKg": 1400,
-  "carnetNecesario": "B si el conjunto no supera 3.500 kg (coche de MMA ≤2.100 kg); si no, B96",
+  "carnetNecesario": "B96",
   "imagen": "/media/adria-action-361-lh-2026-precio-ficha-tecnica-oficial.webp"
  },
  {
@@ -32,7 +32,7 @@
   "precioDesde": 23000,
   "precioAprox": true,
   "mmaKg": 1500,
-  "carnetNecesario": "B96 (o B si el coche tiene MMA ≤2.000 kg)",
+  "carnetNecesario": "B96",
   "imagen": "/media/adria-altea-542-pk-2026-precio-ficha-tecnica.webp"
  },
  {
@@ -92,7 +92,7 @@
   "precioDesde": 36790,
   "precioAprox": false,
   "mmaKg": 1700,
-  "carnetNecesario": "B96/BE",
+  "carnetNecesario": "B96",
   "imagen": "/media/dethleffs-camper-560-fmk-2026-precio-ficha-tecnica-oficial.webp"
  },
  {
@@ -104,7 +104,7 @@
   "precioDesde": 43199,
   "precioAprox": false,
   "mmaKg": 1800,
-  "carnetNecesario": "B96/BE",
+  "carnetNecesario": "B96",
   "imagen": "/media/dethleffs-beduin-scandinavia-550-bet-2026-precio-ficha-tecnica-oficial.webp"
  },
  {
@@ -116,7 +116,7 @@
   "precioDesde": 34199,
   "precioAprox": false,
   "mmaKg": 1700,
-  "carnetNecesario": "B96/BE",
+  "carnetNecesario": "B96",
   "imagen": "/media/dethleffs-nomad-560-fmk-2026-precio-ficha-tecnica-oficial.webp"
  },
  {
@@ -272,7 +272,7 @@
   "precioDesde": 31000,
   "precioAprox": true,
   "mmaKg": 1800,
-  "carnetNecesario": "B96 (o B si el coche tiene MMA ≤1.700 kg)",
+  "carnetNecesario": "B96",
   "imagen": "/media/knaus-sport-500-qdk-2026.webp"
  },
  {
@@ -296,7 +296,7 @@
   "precioDesde": 34000,
   "precioAprox": true,
   "mmaKg": 1700,
-  "carnetNecesario": "B96 (o B si el coche tiene MMA ≤1.800 kg)",
+  "carnetNecesario": "B96",
   "imagen": "/media/knaus-suedwind-500-fu-2026-precio-ficha-tecnica.webp"
  },
  {
@@ -308,7 +308,7 @@
   "precioDesde": 29490,
   "precioAprox": true,
   "mmaKg": 1700,
-  "carnetNecesario": "B96 (o B si el coche tiene MMA ≤1.800 kg)",
+  "carnetNecesario": "B96",
   "imagen": "/media/tabbert-senara-490-td-2026-precio-ficha-tecnica.webp"
  },
  {

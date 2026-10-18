@@ -3828,7 +3828,6 @@ dethleffs-camper-560-fmk-2026-precio-ficha-tecnica
 eriba-touring-542-2026-precio-ficha-tecnica
 fendt-bianco-activ-550-sd-2026-precio-ficha-tecnica
 hobby-de-luxe-540-ul-2026-precio-ficha-tecnica
-hobby-excellent-540-wlu-2026-precio-ficha-tecnica
 hobby-prestige-560-ul-2026-precio-ficha-tecnica
 knaus-sport-450-fu-2026-precio-ficha-tecnica
 knaus-sport-500-qdk-2026-precio-ficha-tecnica
@@ -3848,3 +3847,8 @@ dethleffs-cjoy-460-le-2026-precio-ficha-tecnica
 burstner-premio-plus-510-tk-2026-precio-ficha-tecnica
 burstner-premio-life-415-tk-2026-precio-ficha-tecnica
 eriba-feeling-425-2026-precio-ficha-tecnica
+adria-altea-542-pk-2026-precio-ficha-tecnica
+fendt-bianco-selection-515-sg-2026-precio-ficha-tecnica
+hobby-ontour-390-sf-2026-precio-ficha-tecnica
+knaus-suedwind-500-fu-2026-precio-ficha-tecnica
+tabbert-senara-490-td-2026-precio-ficha-tecnica

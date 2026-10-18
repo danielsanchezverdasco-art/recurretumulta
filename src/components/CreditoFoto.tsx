@@ -19,6 +19,14 @@ export default function CreditoFoto({ src, className = "" }: { src?: string | nu
       </p>
     );
   }
+  // 18/10/2026 (caravanas): foto de concesionario, declarada como no oficial.
+  if (c.licencia === "concesionario") {
+    return (
+      <p className={`mt-1 text-[10px] leading-tight text-gray-400 ${className}`}>
+        Foto: {c.autor} (no oficial)
+      </p>
+    );
+  }
   return (
     <p className={`mt-1 text-[10px] leading-tight text-gray-400 ${className}`}>
       Foto:{" "}
