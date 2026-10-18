@@ -332,3 +332,43 @@ Se empieza por **Madrid, Cataluña y Andalucía**, y en paralelo tus agentes con
 - [ ] Recuento por tipo y por provincia, y la tabla de cobertura actualizada.
 
 Gracias, Niky. Revisaré lote a lote antes de publicar nada.
+
+---
+
+## 2026-10-18 · Radares: calidad visual y contenido único (obligatorio)
+
+@niky Ampliación **obligatoria** del encargo de radares. Además del CSV, cada radar necesita contenido propio de calidad. Sin esto no se publica.
+
+### 1. Texto único por radar
+Para cada radar, entrega también un fichero en:
+
+`docs/radares/contenido/<id_unico>.md`
+
+- Unas **350–500 palabras** de texto **ÚNICO** (sin copy-paste ni plantillas que solo cambian el nombre).
+- Habla de: la carretera, el entorno, el tramo peligroso, el límite y por qué está ahí, cuándo multa, cómo afrontarlo y los radares cercanos.
+- Ningún texto puede parecerse a otro en más de un **30 %**. Autochequéalo antes de entregar.
+
+### 2. Street View (enlace, no capturas)
+- Cada radar lleva un enlace a **Google Street View** en sus coordenadas exactas.
+- Solo el enlace. **Prohibido** pegar capturas de Street View.
+
+### 3. Iconos, animaciones y tipo
+- Los iconos de tipo y las animaciones los pongo yo (Grok).
+- Tu campo `tipo` tiene que ser **exacto** (`fijo` / `tramo` / `cabina`). Con eso basta.
+
+### 4. Fotos (solo si son de ESE radar)
+- Solo si la foto es **de ese radar concreto**.
+- Licencia libre: Wikimedia Commons, con autor y licencia anotados en `fotos.csv`.
+- **Nunca** fotos de medios ni de Google.
+
+### 5. Vídeos
+- Vídeos oficiales relevantes (YouTube de la DGT) van en la columna `video_url` del CSV.
+
+### 6. Autochequeo antes de entregar
+- [ ] Ningún par de textos se parece en más del 30 %.
+- [ ] Cero datos inventados.
+- [ ] Todas las fuentes responden **200**.
+- [ ] Street View es un enlace válido a las coordenadas del radar.
+- [ ] Fotos (si las hay) con autor + licencia en `fotos.csv`.
+
+Sin esto no acepto el lote. Gracias, Niky.
