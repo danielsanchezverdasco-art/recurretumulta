@@ -186,77 +186,89 @@ Casi: el Seal U DM-i es la versión adaptada a Europa del Song Plus, con ajustes
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
   },
   {
-    title: "Qin Plus DM-i: 214 CV y 1.245 km por ~11.000 €",
+    title: "Qin Plus DM-i: 128 km eléctricos por ~9.600 €",
     slug: "byd-qin-plus-dm-i-2025-precio-ficha-tecnica",
-    excerpt: "El BYD Qin Plus DM-i: berlina híbrida enchufable de 214 CV, 55 km eléctricos y 1.245 km totales desde ~11.000 €. Precio y ficha.",
+    excerpt: "El BYD Qin Plus DM-i: berlina híbrida enchufable de 163 CV, 128 km eléctricos CLTC y 2.055 km totales desde ~9.600 €. Precio y ficha.",
     category: "Novedades Motor",
     date: "2026-10-11",
-    readTime: 7,
+    readTime: 8,
     locale: "all",
-    keywords: ["BYD Qin Plus DM-i precio", "BYD Qin Plus ficha técnica", "berlina híbrida enchufable", "BYD Qin autonomía", "coche híbrido barato", "Qin Plus 1245 km"],
-    content: `<img src=/media/byd-qin-plus-dm-i-2025-precio-ficha-tecnica-hero.webp alt=\"BYD Qin Plus DM-i blanco, tres cuartos delantero en ciudad\">
+    keywords: ["BYD Qin Plus DM-i precio", "BYD Qin Plus ficha técnica", "berlina híbrida enchufable", "BYD Qin autonomía", "Qin Plus 128 km eléctricos", "híbrido enchufable barato"],
+    content: `<img src=/media/byd-qin-plus-dm-i-2025-precio-ficha-tecnica-1.webp alt=\"BYD Qin Plus DM-i 2025, berlina híbrida enchufable de 163 CV\">
 
 **¿Buscas solo los datos?** <a href=/coches/byd-qin-plus-dm-i-2025-precio-ficha-tecnica/>Ver la ficha técnica del BYD Qin Plus DM-i</a>: precio, autonomía, batería y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-El **BYD Qin Plus DM-i** es la berlina híbrida enchufable que ha motorizado a China: **214 CV combinados**, **55 km de autonomía eléctrica** y una autonomía total de **1.245 km** con el depósito lleno. Todo ello desde unos **79.800 yuanes, unos ~11.000 €** al cambio. Ninguna berlina del mundo ofrece tanto por tan poco.
+El **BYD Qin Plus DM-i** es la berlina híbrida enchufable que ha motorizado a China: **163 CV**, **128 km de autonomía eléctrica CLTC** con la batería Blade de 15,87 kWh y una autonomía total de **2.055 km** con el depósito lleno. Todo ello desde **79.800 yuanes** (unos **9.600 €** al cambio, precio orientativo). Ninguna berlina del mundo ofrece tanto por tan poco.
 
-Acelera de 0 a 100 en **7,9 segundos**, mide 4,77 metros y su maletero cubica **450 litros**. La batería Blade LFP de 8,3 kWh se carga en unas 3 horas en un enchufe doméstico. Con la <a href=https://www.dgt.es>etiqueta Cero de la DGT</a>, sería el rey de las ZBE si se vendiera aquí.
+Acelera de 0 a 100 en **7,3 segundos**, mide 4,78 metros y con la batería descargada consume solo **2,69 l/100 km** en ciclo NEDC. Con la <a href=https://www.dgt.es>etiqueta Cero de la DGT</a>, sería el rey de las ZBE si se vendiera aquí.
 
 ## Ficha técnica resumida
 
 | Concepto | Dato |
 |---|---|
-| Precio desde | ~11.000 € (China) |
-| Potencia combinada | 214 CV |
-| Batería | 8,3 kWh (Blade LFP) |
-| Autonomía eléctrica | 55 km |
-| Autonomía total | 1.245 km |
-| 0-100 km/h | 7,9 s |
-| Medidas | 4.765 x 1.837 x 1.495 mm |
-| Maletero | 450 litros |
+| Precio desde | ~9.600 € (China) |
+| Potencia (motor eléctrico) | 163 CV (120 kW) |
+| Motor de gasolina | 1.5 de 101 CV (74 kW) |
+| Batería | 15,87 kWh (Blade LFP) |
+| Autonomía eléctrica | 128 km CLTC |
+| Autonomía total | 2.055 km |
+| Consumo (batería descargada) | 2,69 l/100 km NEDC |
+| 0-100 km/h | 7,3 s |
+| Velocidad máxima | 180 km/h |
+| Medidas | 4.780 x 1.837 x 1.515 mm |
+| Batalla | 2.718 mm |
 | Etiqueta DGT | Cero |
 
 <a href=/coches/byd-qin-plus-dm-i-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del Qin Plus DM-i con galería de fotos</a>
 
 ## Precio del Qin Plus DM-i
 
-La gama china arranca en 79.800 yuanes (~11.000 €) y la versión tope con 120 km eléctricos ronda los 125.800 yuanes (~17.000 €). En Chile, donde BYD sí lo vende, parte de unos 29.990.000 pesos chilenos. A Europa no ha llegado ni hay planes anunciados.
+La gama china de 2026 arranca en **79.800 yuanes** (~9.600 €) para el DM-i de 128 km, y sube a 89.800 yuanes en la versión de **210 km eléctricos** con batería de 25,28 kWh. A Europa no ha llegado ni hay planes anunciados: su hueco lo cubre el <a href=/blog/byd-seal-6-dm-i-2025-precio-ficha-tecnica/>BYD Seal 6 DM-i</a>, la berlina híbrida que la marca sí trae a España.
 
-<img src=/media/byd-qin-plus-dm-i-2025-precio-ficha-tecnica-oficial.webp alt=\"BYD Qin Plus DM-i gris, trasera con pilotos LED de ancho completo\">
+<img src=/media/byd-qin-plus-dm-i-2025-precio-ficha-tecnica-2.webp alt=\"BYD Qin Plus DM-i y Qin Plus EV 2025, imagen oficial de la gama\">
+
+## DM-i 5.0: el sistema que lo cambió todo
+
+El secreto del Qin Plus es la quinta generación del sistema **DM-i** (Dual Mode intelligent): un 1.5 atmosférico de ciclo Atkinson con un **46,06 % de rendimiento térmico** (récord entre los motores de gasolina de producción) que trabaja casi siempre en su punto óptimo de eficiencia, mientras el motor eléctrico de 120 kW mueve el coche. En ciudad circula como un eléctrico puro; en carretera, el gasolina genera electricidad y ayuda directamente a las ruedas cuando hace falta.
+
+El resultado: **2,69 l/100 km** con la batería descargada y más de **2.000 km** de autonomía total. Con uso urbano y carga nocturna, muchos propietarios chinos reportan repostar una vez al mes. La batería de 15,87 kWh admite carga rápida en continua y función de descarga externa (VTOL) para alimentar aparatos eléctricos.
 
 ## Por qué es un fenómeno en China
 
-El Qin Plus DM-i vende cientos de miles de unidades al año porque ataca el corazón del mercado: familias que quieren un coche grande, eficiente y barato. El truco está en el sistema DM-i, que en ciudad funciona como un eléctrico y en carretera como un híbrido de consumo mínimo. El resultado: repostar una vez al mes con uso urbano.
+El Qin Plus DM-i vende cientos de miles de unidades al año porque ataca el corazón del mercado: familias que quieren un coche grande, eficiente y barato. La familia Qin superó los **2,4 millones de unidades** acumuladas y en 2024 aportó más del 17 % de las ventas de BYD. La actualización de 2026 añadió los colores Pine Smoke Green, Bamboo Green y Wiyang Gray, y el sistema **God's Eye C** (DiPilot 100) con 12 cámaras y 5 radares en las versiones altas.
 
-Su rival conceptual en España sería el <a href=/blog/byd-seal-6-dm-i-2025-precio-ficha-tecnica/>BYD Seal 6 DM-i</a>, la berlina híbrida que BYD sí trae a Europa. <a href=/comparador-coches/>Compáralos aquí</a>.
+Su rival conceptual en España sería el <a href=/blog/byd-seal-6-dm-i-2025-precio-ficha-tecnica/>BYD Seal 6 DM-i</a>. <a href=/comparador-coches/>Compáralos aquí</a>.
 
-<img src=/media/byd-qin-plus-dm-i-2025-precio-ficha-tecnica-interior.webp alt=\"Interior del BYD Qin Plus DM-i, volante con el carácter Qin\">
+<img src=/media/byd-qin-plus-dm-i-2025-precio-ficha-tecnica-3.webp alt=\"Interior del BYD Qin Plus DM-i 2025, volante con el carácter Qin y pantalla central\">
 
 ## Curiosidades que lo hacen único
 
 - Qin es una dinastía imperial china: BYD nombra sus berlinas con dinastías (Qin, Han, Tang).
 - El carácter 秦 del volante significa "Qin".
 - Fue el primer híbrido enchufable en bajar de los 80.000 yuanes en China.
-- Su consumo con batería descargada ronda los 3,8 l/100 km.
+- Su motor 1.5 tiene un 46,06 % de rendimiento térmico, récord mundial en gasolina.
 - La pantalla central gira 90 grados con un botón.
+- Mide 150 mm más que un Toyota Corolla, su rival histórico en China.
+
+<img src=/media/byd-qin-plus-dm-i-2025-precio-ficha-tecnica-4.webp alt=\"BYD Qin Plus DM-i y EV 2025: versiones de 128, 420 y 510 km\">
 
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el BYD Qin Plus DM-i?
 
-Desde unos 79.800 yuanes (~11.000 €) en China. No se vende en Europa.
+Desde 79.800 yuanes (~9.600 €) en China. No se vende en Europa.
 
 ### ¿Qué autonomía total tiene?
 
-1.245 km combinando los 55 km eléctricos y el depósito de gasolina.
+2.055 km combinando los 128 km eléctricos CLTC y el depósito de gasolina.
 
 ### ¿Cuántos caballos tiene el Qin Plus DM-i?
 
-214 CV combinados entre el motor de gasolina y el eléctrico.
+El motor eléctrico rinde 163 CV (120 kW), apoyado por un 1.5 de gasolina de 101 CV.
 
 ### ¿Es rápido el Qin Plus DM-i?
 
-Hace el 0-100 en 7,9 segundos, notable para una berlina familiar híbrida.
+Hace el 0-100 en 7,3 segundos, notable para una berlina familiar híbrida.
 
 ### ¿Tiene etiqueta Cero?
 
@@ -266,7 +278,7 @@ Sí, como híbrido enchufable con más de 40 km de autonomía eléctrica.
 
 No hay planes oficiales. Su hueco europeo lo cubre el Seal 6 DM-i.
 
-*Fuentes: <a href=https://www.byd-auto.cl>BYD Chile</a>, <a href=https://www.byd.com>BYD</a>.*
+*Fuentes: <a href=https://cnevpost.com/2025/09/26/byd-launches-new-variants-qin-plus-sedan/>CnEVPost — lanzamiento del Qin Plus</a>, <a href=https://carnewschina.com/2026/01/08/updated-byd-qin-plus-and-qin-l-launched-in-china-with-210-km-ev-range/>CarNewsChina — Qin Plus 2026</a>.*
 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
   },
