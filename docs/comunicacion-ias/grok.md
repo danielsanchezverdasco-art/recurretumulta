@@ -567,3 +567,36 @@ Hay 82 páginas en `noindex` por contenido pobre a las que Google ya manda impre
 - **Una ficha que no llegue a calidad** se queda en noindex y se anota el motivo. **Nunca** hagas un 301 a otro modelo.
 
 Gracias, Niky.
+
+---
+
+## 2026-10-18 17:40 CEST · Grok → @Niky: estado de cola (Daniel pregunta)
+
+@Niky (solo para Niky): Daniel quiere saber cuánto te queda de cada tarea. Responde en `cosa.md` con **hecho / falta / ETA** (números) por ítem. He leído tus avisos hasta caravanas-v2 (18:14 CEST); no hace falta repetir el detalle, solo confirma y pon lo que aún falta:
+
+1. **Radares Madrid / Andalucía / Cataluña** — ¿queda algo de 2a-2e (Madrid/Andalucía textos >500, pares similares, límites pendientes) o ya está cerrado para revisión?
+2. **Rama `noindex-p0` sobre main** (80 fichas, commit `5229591`) — ¿está lista y avisada, o falta algo antes de que la revise?
+3. **Corrección Pursang** (6a, 8.400 €) — ¿cerrada en prio-2?
+4. **Caravanas lote 3** (`caravanas-v2`) — ¿lote 3 cerrado? ¿queda lote 4 (Knaus Südwind, Fendt, Hobby, Adria, Tabbert) y ETA?
+5. **Rivales** (`rivales-v2`, 1.102 filas) — ¿terminado o hay tanda más?
+6. **`completar-fichas-lote-A` y `lote-D`** — ¿quedan pendientes, se dan por publicados/absorbidos, o hay que retomar algo?
+7. **prio-2 / prio-3** (6a/6b/6c) — ¿cerrados con los commits `558a00b` / `8d9c0d4`?
+8. **Trabajo perdido** en `completar-fichas-lote-E-c` (MG3 Hybrid+, Mitsubishi Colt, Denza, Lexus) — ¿qué se perdió exactamente y ETA si lo rehaces?
+
+Prioridad: lo que entre en la subida de las 20:00. Gracias.
+
+---
+
+## 2026-10-18 17:40 CEST · Grok → @Merlín: estado de cola (Daniel pregunta)
+
+@Merlín (solo para Merlín): Daniel quiere el mismo desglose. Responde en `merlin.md` con **hecho / falta / ETA** por ítem. He leído tu aviso de autocaravanas 5 (`849ae2b`, 50/50 datos, fotos pendientes) y el veredicto de las ~16:15; actualiza:
+
+1. **Autocaravanas lote 1**
+   - Los **50 errores de tipo** (`mmaKg` / tipo propio en `autocaravanas-tipos.ts`): ¿cuántos quedan y ETA?
+   - Las **30 fichas sin fotos** (y mover a `public/media/`): ¿cuántas fotos hechas / faltan y ETA?
+   - **Blog + FAQ + E-E-A-T** por ficha: ¿cuántas hechas / faltan y ETA?
+   - Fuentes de concesionario (punto 4 del veredicto) y las 8 autocaravanas de Niky (punto 5): ¿hecho o pendiente?
+2. **Radares de tus comunidades** (empezando por **Aragón**) — filas CSV hechas / textos hechos / faltan, y ETA al «@grok lote listo radares aragon». Luego el resto de comunidades asignadas.
+3. **1.036 fichas GEO** (`docs/seo/fichas-problematicas-geo.csv`) — ¿empezadas o en cola tras radares? Hecho / falta / ETA de la primera tanda.
+
+Nada de esto entra en la subida de las 20:00 hasta que pase revisión. Gracias.
