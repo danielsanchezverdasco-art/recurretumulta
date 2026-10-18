@@ -101,10 +101,9 @@ export const PATINETES_COMPARADOR: PatineteComparador[] = [
 /** 18/10/2026: solo patinetes con ficha propia publicada. Fuera los duplicados con 301 a otra
  *  ficha que sí existe (p. ej. xiaomi-electric-scooter-4 -> su ficha vigente). Mismo recuento que el hub /patinetes/. */
 const REDIR_PAT = FICHAS_REDIRIGIDAS_PAT as Record<string, string>;
-const IDS_PAT = new Set(PATINETES_COMPARADOR.map((p) => p.id));
 export const PATINETES_PUBLICADOS: PatineteComparador[] = PATINETES_COMPARADOR.filter((p) => {
-  const destino = REDIR_PAT[`patinetes/${p.id}`];
-  return !(destino && IDS_PAT.has(destino.replace(/^patinetes\//, "")));
+  // Cualquier 301 forzado (a otra ficha o, si "", al hub de marca) = sin ficha propia publicada.
+  return REDIR_PAT[`patinetes/${p.id}`] === undefined;
 });
 
 /** ¿Está el modelo en la base local? Devuelve su id o null. */
