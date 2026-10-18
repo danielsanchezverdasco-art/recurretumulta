@@ -48,3 +48,5 @@ open("/workspace/codigo-original/diagnostico/enlaces-internos-sin-pagina.txt","w
 print(f"[postfix] hrefs con barra/arreglados: {cambios}; sitemap: {len(ok)} URLs; canonical no autorreferente (excluidas): {len(mal)}; destinos internos sin página: {len(rotos)}")
 # 18/10/2026: enlaces internos que pasan por un 301 -> destino final (fix-enlaces-301.py).
 import runpy as _rp; sys.argv=[sys.argv[0],D]; _rp.run_path(os.path.join(os.path.dirname(os.path.abspath(__file__)),"fix-enlaces-301.py"),run_name="__main__")
+# 18/10/2026: una sola copia del <style> de sonner por página (dedupe-estilos.py).
+_rp.run_path(os.path.join(os.path.dirname(os.path.abspath(__file__)),"dedupe-estilos.py"),run_name="__main__")

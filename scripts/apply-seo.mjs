@@ -40,7 +40,8 @@ for (const r of rows) {
     setAttr(/<meta[^>]*property="og:description"[^>]*>/, m);
     setAttr(/<meta[^>]*name="twitter:description"[^>]*>/, m);
   }
-  h = h.replace(/<meta name="rtm-seo"[^>]*>/, "");
+  // 18/10/2026: quitar también el salto de línea que deja la pasada anterior (antes sumaba una línea en blanco por pasada).
+  h = h.replace(/<meta name="rtm-seo"[^>]*>\n?/g, "").replace(/\n{2,}<\/head>/, "\n</head>");
   h = h.replace("</head>", `<meta name="rtm-seo" data-path="${esc(path + "/")}">\n</head>`);
   writeFileSync(file, h); ok++;
 }
