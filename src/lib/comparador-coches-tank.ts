@@ -638,7 +638,7 @@ export const COCHES_TANK: CocheComparador[] = [
     parNm: 500,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["precio"],
+    aprox: ["precioDesde"],
     imagen: "/media/tank-500-3-0t-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -673,6 +673,8 @@ export const COCHES_TANK: CocheComparador[] = [
         alto: 1280,
       },
     ],
+    fuenteNombre: "China Services Info",
+    fuenteUrl: "https://www.chinaservicesinfo.com/s/202111/22/WS619b076a498e6a12c120d14a/gwms-tank-kicks-off-presales-of-tank-500.html",
     analisisSlug: "tank-500-3-0t-2024-precio-ficha-tecnica",
   },
   {
