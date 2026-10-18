@@ -3,10 +3,10 @@
 // Trozos pequeños por las 2 primeras letras del slug; la página los espera
 // antes de marcar pageReady, así el prerender los incluye.
 export type Rival = [id: string, nombre: string, precio: number | null, foto: string];
-export type TipoFicha = "coches" | "motos" | "patinetes";
+export type TipoFicha = "coches" | "motos" | "patinetes" | "caravanas";
 export interface FichaExtra { r?: Rival[]; b?: 1 }
 
-const PREF: Record<TipoFicha, string> = { coches: "c", motos: "m", patinetes: "p" };
+const PREF: Record<TipoFicha, string> = { coches: "c", motos: "m", patinetes: "p", caravanas: "k" };
 const TROZOS = import.meta.glob<{ default: Record<string, FichaExtra> }>("./ficha-extra-gen/*.json");
 
 export async function cargarFichaExtra(tipo: TipoFicha, id: string): Promise<FichaExtra> {

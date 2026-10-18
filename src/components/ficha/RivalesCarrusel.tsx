@@ -12,6 +12,7 @@ const COMPARADOR: Record<Tipo, string> = {
   coches: "/comparador-coches/",
   motos: "/comparador-motos/",
   patinetes: "/comparador-patinetes/",
+  caravanas: "/caravanas/", // 18/10/2026: sin comparador propio; el carrusel solo pinta si hay rivales
 };
 
 function FotoRival({ src, alt, contain }: { src: string; alt: string; contain: boolean }) {

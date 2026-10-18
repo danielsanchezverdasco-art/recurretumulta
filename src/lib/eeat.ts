@@ -38,7 +38,7 @@ export const FUENTES = {
   sedeDgt: { nombre: "Sede electrónica de la DGT", url: "https://sede.dgt.gob.es" },
 } satisfies Record<string, Fuente>;
 
-export type Ambito = "coches" | "motos" | "patinetes" | "multas" | "general";
+export type Ambito = "coches" | "motos" | "patinetes" | "multas" | "general" | "caravanas";
 
 export const FUENTES_POR_AMBITO: Record<Ambito, Fuente[]> = {
   coches: [FUENTES.dgtDistintivo, FUENTES.euroNcap],
@@ -46,6 +46,8 @@ export const FUENTES_POR_AMBITO: Record<Ambito, Fuente[]> = {
   patinetes: [FUENTES.dgtVmp, FUENTES.rgCirculacion],
   multas: [FUENTES.leyTrafico, FUENTES.sedeDgt],
   general: [FUENTES.dgt, FUENTES.leyTrafico],
+  // 18/10/2026 (sección /caravanas/): normativa de remolque (DGT) + Ley de Tráfico.
+  caravanas: [FUENTES.dgt, FUENTES.leyTrafico],
 };
 
 /** Enlaces internos a herramientas y guías (rutas en el sitemap el 17/10/2026). */
@@ -77,6 +79,12 @@ export const HERRAMIENTAS_POR_AMBITO: Record<Ambito, { to: string; texto: string
     { to: "/#analizador", texto: "Analizador de multas con IA (gratis)" },
     { to: "/herramientas/", texto: "Todas las herramientas" },
     { to: "/guias/radares/", texto: "Guía de radares y multas de velocidad" },
+  ],
+  // 18/10/2026 (sección /caravanas/): hub + calculadora de consumo camper.
+  caravanas: [
+    { to: "/caravanas/", texto: "Todas las caravanas" },
+    { to: "/calculadora-consumo-camper/", texto: "Calculadora de consumo camper" },
+    { to: "/#analizador", texto: "Analizador de multas con IA (gratis)" },
   ],
 };
 

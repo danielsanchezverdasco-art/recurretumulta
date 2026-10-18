@@ -3,6 +3,7 @@ import { Link, useParams } from "react-router-dom";
 import CreditoFoto from "@/components/CreditoFoto.tsx";
 import {
   ArrowLeftRight,
+  BadgeCheck,
   BatteryCharging,
   BookOpen,
   Filter,
@@ -11,8 +12,10 @@ import {
   Package,
   Play,
   RotateCcw,
+  Ruler,
   Timer,
   Users,
+  Weight,
   Wind,
   Wrench,
   Zap,
@@ -59,7 +62,7 @@ import type { ResenaSchemaExtra } from "@/components/ResenasVehiculo.tsx";
 import { loadArrayItem, loadModuleArray, loadRecordEntry } from "@/lib/data-loader-utils.ts";
 import { cargarFichaExtra, type FichaExtra } from "@/lib/ficha-extra.ts";
 import RespuestaRapida from "@/components/geo/RespuestaRapida.tsx";
-import { datosGeoCoche, frasesGeo, metaGeo } from "@/lib/geo-ficha.ts";
+import { datosGeoCaravana, datosGeoCoche, frasesGeo, metaGeo, type PuntoHist } from "@/lib/geo-ficha.ts";
 import { useHistorialPrecios } from "@/lib/historial-precios-cargar.ts";
 import { PRECIO_ORIGEN, anioModelo, productoFicha } from "@/lib/schema-ficha.ts";
 
@@ -90,6 +93,9 @@ const fmtNm = (v: number | null) =>
   v == null ? "—" : fmtMiles(v) + " Nm";
 const fmtCo2 = (v: number | null) => (v == null ? "—" : v + " g/km");
 const fmtPlazas = (v: number | null) => (v == null ? "—" : String(v));
+const fmtM = (v: number | null) =>
+  v == null ? "—" : `${(v / 1000).toLocaleString("es-ES", { maximumFractionDigits: 2 })} m`;
+const fmtMm = (v: number | null) => (v == null ? "—" : fmtMiles(v) + " mm");
 const fmtDimensiones = (c: CocheComparador) =>
   c.largoMm == null || c.anchoMm == null || c.altoMm == null
     ? "—"
@@ -159,7 +165,21 @@ const DUELOS: Record<string, { slug: string; titulo: string }[]> = {
 
 type Fila = { campo: string; label: string; get: (c: CocheComparador) => string };
 
-const FILAS: Fila[] = [
+// 18/10/2026: filas de la tabla técnica para caravanas (MMA, carnet, carga
+// útil y dimensiones; solo se pintan las que tengan dato real).
+const FILAS_CARAVANA: Fila[] = [
+  { campo: "precioDesde", label: "Precio desde", get: (c) => fmtPrecio(c.precioDesde) },
+  { campo: "mmaKg", label: "MMA", get: (c) => fmtKg(c.mmaKg ?? null) },
+  { campo: "carnetNecesario", label: "Carnet necesario", get: (c) => (c.carnetNecesario ? `Carnet ${c.carnetNecesario}` : "—") },
+  { campo: "cargaUtilKg", label: "Carga útil", get: (c) => fmtKg(c.cargaUtilKg ?? null) },
+  { campo: "plazas", label: "Plazas", get: (c) => fmtPlazas(c.plazas) },
+  { campo: "longitud", label: "Longitud total", get: (c) => fmtM(c.largoMm) },
+  { campo: "anchura", label: "Anchura", get: (c) => fmtMm(c.anchoMm) },
+  { campo: "altura", label: "Altura", get: (c) => fmtMm(c.altoMm) },
+  { campo: "pesoKg", label: "Peso (tara)", get: (c) => fmtKg(c.pesoKg) },
+];
+
+const FILAS_COCHE: Fila[] = [
   { campo: "precioDesde", label: "Precio desde", get: (c) => fmtPrecio(c.precioDesde) },
   { campo: "potenciaCv", label: "Potencia", get: (c) => fmtCv(c.potenciaCv) },
   { campo: "parNm", label: "Par máximo", get: (c) => fmtNm(c.parNm) },
@@ -188,12 +208,40 @@ const FILAS: Fila[] = [
   },
 ];
 
-function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra: FichaExtra; hermanas?: CocheComparador[] }) {
+// 18/10/2026 (sección /caravanas/): las visitas de caravanas no se cuentan en
+// la audiencia porque el backend Convex solo admite coches/motos/patinetes.
+// El hook no puede llamarse condicionalmente: va en un hijo que solo se
+// renderiza cuando NO es caravana.
+function VisitaFichaCoches({ id }: { id: string }) {
+  useVisitaFicha("coches", id);
+  return null;
+}
+
+// 18/10/2026: `caravana` reutiliza esta misma ficha para /caravanas/<slug>/
+// (mismo tipo CocheComparador). Lo específico de coches (ZBE, etiqueta DGT,
+// audiencia, reseñas, herramientas de motor) se oculta o se sustituye por el
+// bloque propio de caravanas (MMA, carnet, normativa de remolque).
+export function Ficha({ coche, extra, hermanas = [], caravana = false }: { coche: CocheComparador; extra: FichaExtra; hermanas?: CocheComparador[]; caravana?: boolean }) {
   const nombre = `${coche.marca} ${coche.modelo}`;
   // GEO 17/10/2026: respuesta rápida (ficha + historial de precios, nada inventado).
   const historial = useHistorialPrecios(coche.id);
-  useVisitaFicha("coches", coche.id);
-  const geo = frasesGeo(datosGeoCoche(coche, nombre, historial, PRECIO_ORIGEN[coche.id] ?? null));
+  const datosGeo = (hist: PuntoHist[] | null | undefined) =>
+    caravana
+      ? datosGeoCaravana(
+          {
+            mmaKg: coche.mmaKg ?? null,
+            carnetNecesario: coche.carnetNecesario ?? null,
+            plazas: coche.plazas,
+            largoMm: coche.largoMm,
+            cargaUtilKg: coche.cargaUtilKg ?? null,
+            precioDesde: coche.precioDesde,
+            aprox: coche.aprox,
+          },
+          nombre,
+          hist,
+        )
+      : datosGeoCoche(coche, nombre, hist, PRECIO_ORIGEN[coche.id] ?? null);
+  const geo = frasesGeo(datosGeo(historial));
   // 12/10/2026: nodos schema.org de reseñas (se fusionan en cliente cuando
   // Convex responde; en el prerender no hay datos → solo el schema base).
   const [reviewsExtra, setReviewsExtra] = useState<ResenaSchemaExtra | null>(null);
@@ -259,6 +307,15 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
     donuts.push({ value: coche.maleteroL, max: 700, label: "L de maletero" });
   if (donuts.length < 3 && coche.cargaRapidaKw != null)
     donuts.push({ value: coche.cargaRapidaKw, max: 350, label: "kW de carga DC" });
+  // 18/10/2026 (caravanas): MMA, plazas y carga útil en vez de autonomía/CV.
+  if (caravana) {
+    if (coche.mmaKg != null)
+      donuts.push({ value: coche.mmaKg, max: 3500, label: "kg de MMA" });
+    if (coche.plazas != null)
+      donuts.push({ value: coche.plazas, max: 8, label: "plazas" });
+    if (coche.cargaUtilKg != null)
+      donuts.push({ value: coche.cargaUtilKg, max: 600, label: "kg de carga útil" });
+  }
 
   // Datos técnicos para las SpecBar (solo valores reales).
   const specbars: { label: string; value: number; max: number; unit: string }[] = [];
@@ -277,6 +334,15 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
       max: 30,
       unit: coche.consumoUnidad ? ` ${coche.consumoUnidad}` : "",
     });
+  // 18/10/2026 (caravanas): MMA, longitud y carga útil.
+  if (caravana) {
+    if (coche.mmaKg != null)
+      specbars.push({ label: "MMA", value: coche.mmaKg, max: 3500, unit: " kg" });
+    if (coche.largoMm != null)
+      specbars.push({ label: "Longitud", value: +(coche.largoMm / 1000).toFixed(2), max: 10, unit: " m" });
+    if (coche.cargaUtilKg != null)
+      specbars.push({ label: "Carga útil", value: coche.cargaUtilKg, max: 600, unit: " kg" });
+  }
 
   // 18/10/2026 (rediseño): fotos de la galería superior (hero válida + interior + galería oficial).
   const dimDe = (src: string) => dims[src.split("/").pop() ?? ""];
@@ -287,18 +353,28 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
   ].filter((f, i, a) => a.findIndex((g) => g.src === f.src) === i);
   const esPhevOEv = /eléctrico|enchufable|autonomía extendida/i.test(coche.tipo);
   const datosClave: DatoClave[] = [
-    coche.potenciaCv != null && { icono: <Zap className="h-5 w-5" />, valor: fmtCv(coche.potenciaCv), label: "Potencia" },
-    coche.autonomiaKm != null && esPhevOEv
-      ? { icono: <BatteryCharging className="h-5 w-5" />, valor: fmtKm(coche.autonomiaKm), label: /enchufable/i.test(coche.tipo) ? "Autonomía eléctrica" : "Autonomía WLTP" }
-      : coche.consumo != null && { icono: <Fuel className="h-5 w-5" />, valor: fmtConsumo(coche), label: "Consumo WLTP" },
-    coche.ceroCien != null && { icono: <Timer className="h-5 w-5" />, valor: fmtS(coche.ceroCien), label: "0-100 km/h" },
-    coche.maleteroL != null && { icono: <Package className="h-5 w-5" />, valor: fmtL(coche.maleteroL), label: "Maletero" },
-    coche.plazas != null && { icono: <Users className="h-5 w-5" />, valor: `${coche.plazas} plazas`, label: "Plazas" },
-    coche.velocidadMax != null && { icono: <Gauge className="h-5 w-5" />, valor: fmtKmh(coche.velocidadMax), label: "Velocidad máx." },
+    ...(caravana
+      ? [
+          coche.mmaKg != null && { icono: <Weight className="h-5 w-5" />, valor: fmtKg(coche.mmaKg), label: "MMA" },
+          coche.carnetNecesario != null && { icono: <BadgeCheck className="h-5 w-5" />, valor: `Carnet ${coche.carnetNecesario}`, label: "Carnet necesario" },
+          coche.plazas != null && { icono: <Users className="h-5 w-5" />, valor: `${coche.plazas} plazas`, label: "Plazas" },
+          coche.largoMm != null && { icono: <Ruler className="h-5 w-5" />, valor: fmtM(coche.largoMm), label: "Longitud total" },
+        ]
+      : [
+          coche.potenciaCv != null && { icono: <Zap className="h-5 w-5" />, valor: fmtCv(coche.potenciaCv), label: "Potencia" },
+          coche.autonomiaKm != null && esPhevOEv
+            ? { icono: <BatteryCharging className="h-5 w-5" />, valor: fmtKm(coche.autonomiaKm), label: /enchufable/i.test(coche.tipo) ? "Autonomía eléctrica" : "Autonomía WLTP" }
+            : coche.consumo != null && { icono: <Fuel className="h-5 w-5" />, valor: fmtConsumo(coche), label: "Consumo WLTP" },
+          coche.ceroCien != null && { icono: <Timer className="h-5 w-5" />, valor: fmtS(coche.ceroCien), label: "0-100 km/h" },
+          coche.maleteroL != null && { icono: <Package className="h-5 w-5" />, valor: fmtL(coche.maleteroL), label: "Maletero" },
+          coche.plazas != null && { icono: <Users className="h-5 w-5" />, valor: `${coche.plazas} plazas`, label: "Plazas" },
+          coche.velocidadMax != null && { icono: <Gauge className="h-5 w-5" />, valor: fmtKmh(coche.velocidadMax), label: "Velocidad máx." },
+        ]),
   ].filter(Boolean) as DatoClave[];
   const cambio = cambioDesdeHistorial(historial);
   const precioAprox = coche.aprox.includes("precioDesde");
-  const compararHref = `/comparador-coches/?a=${coche.id}`;
+  // 18/10/2026 (caravanas): sin comparador propio → el botón inferior lleva al hub.
+  const compararHref = caravana ? "/caravanas/" : `/comparador-coches/?a=${coche.id}`;
   const versiones = coche.versiones;
 
   const FAQS = [
@@ -339,18 +415,61 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
     },
   ];
 
+  // 18/10/2026: FAQ propias de caravanas (MMA, carnet, dimensiones, carga útil,
+  // velocidad; solo datos reales de la ficha + normativa DGT básica).
+  const FAQS_CARAVANA = [
+    {
+      q: `¿Cuánto cuesta la ${nombre}?`,
+      a:
+        coche.precioDesde == null
+          ? `La ${nombre} aún no tiene precio confirmado para España: lo publicaremos en cuanto el fabricante o su red de distribuidores lo anuncien.`
+          : `${geo.faqPrecio ?? `La ${nombre} parte de ${fmtPrecio(coche.precioDesde)}.`} El detalle de versiones y opciones está en el análisis completo del modelo.`,
+    },
+    {
+      q: `¿Qué carnet necesito para remolcar la ${nombre}?`,
+      a:
+        coche.carnetNecesario
+          ? `Con una MMA de ${coche.mmaKg != null ? fmtKg(coche.mmaKg) : "la indicada en la ficha técnica"}, la ${nombre} se remolca con el carnet ${coche.carnetNecesario}. Como referencia: el B vale hasta 750 kg de MMA del remolque o un conjunto que no supere los 3.500 kg; el B96 cubre conjuntos de 3.501 a 4.250 kg, y por encima hace falta el BE.`
+          : `Depende de su MMA y del peso del conjunto tractor + caravana: con el carnet B puedes remolcar hasta 750 kg de MMA o un conjunto de hasta 3.500 kg; entre 3.501 y 4.250 kg necesitas el B96, y por encima el BE.`,
+    },
+    {
+      q: `¿Cuánto mide y cuántas plazas tiene la ${nombre}?`,
+      a:
+        coche.largoMm == null && coche.plazas == null
+          ? `Las dimensiones y plazas de la ${nombre} no están publicadas por una fuente fiable: las añadiremos en cuanto haya dato oficial.`
+          : `La ${nombre} mide ${coche.largoMm != null ? fmtM(coche.largoMm) : "—"} de longitud total${coche.plazas != null ? ` y está homologada para ${coche.plazas} plazas` : ""}.`,
+    },
+    {
+      q: `¿Cuánta carga útil tiene la ${nombre}?`,
+      a:
+        coche.cargaUtilKg == null
+          ? `La carga útil de la ${nombre} no está publicada por una fuente fiable: la añadiremos en cuanto haya dato oficial.`
+          : `La ${nombre} admite ${fmtKg(coche.cargaUtilKg)} de carga útil (la diferencia entre su MMA y su peso en orden de marcha).`,
+    },
+    {
+      q: `¿A qué velocidad puedo circular con caravana?`,
+      a: `Los conjuntos de vehículos (turismo + caravana) están limitados a 90 km/h en autopistas y autovías, y a 80 km/h en el resto de vías fuera de poblado. Respeta siempre la señalización específica del tramo.`,
+    },
+    {
+      q: `¿Dónde puedo leer el análisis completo de la ${nombre}?`,
+      a: `En nuestro análisis de Novedades Motor, con ficha técnica, curiosidades, comparativa con modelos parecidos y vídeo. Pulsa «Leer el análisis completo» para abrirlo.`,
+    },
+  ];
+  const faqs = caravana ? FAQS_CARAVANA : FAQS;
+  const filas = caravana ? FILAS_CARAVANA : FILAS_COCHE;
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Car",
+        "@type": caravana ? "Vehicle" : "Car",
         ...productoFicha({
           nombre,
           marca: coche.marca,
           modelo: coche.modelo,
           slug: coche.id,
           image: seoImage,
-          url: `https://recurretumulta.online/coches/${coche.id}/`,
+          url: `https://recurretumulta.online/${caravana ? "caravanas" : "coches"}/${coche.id}/`,
           descripcion: geo.frases.join(" "),
           precio: coche.precioDesde,
           precioAprox: coche.aprox.includes("precioDesde"),
@@ -402,7 +521,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
       },
       {
         "@type": "FAQPage",
-        mainEntity: FAQS.map((f) => ({
+        mainEntity: faqs.map((f) => ({
           "@type": "Question",
           name: f.q,
           acceptedAnswer: { "@type": "Answer", text: f.a },
@@ -412,17 +531,24 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
         "@type": "BreadcrumbList",
         itemListElement: [
           { "@type": "ListItem", position: 1, name: "Inicio", item: "https://recurretumulta.online/" },
-          {
-            "@type": "ListItem",
-            position: 2,
-            name: "Comparador de coches",
-            item: "https://recurretumulta.online/comparador-coches",
-          },
+          caravana
+            ? {
+                "@type": "ListItem",
+                position: 2,
+                name: "Caravanas",
+                item: "https://recurretumulta.online/caravanas/",
+              }
+            : {
+                "@type": "ListItem",
+                position: 2,
+                name: "Comparador de coches",
+                item: "https://recurretumulta.online/comparador-coches",
+              },
           {
             "@type": "ListItem",
             position: 3,
             name: nombre,
-            item: `https://recurretumulta.online/coches/${coche.id}/`,
+            item: `https://recurretumulta.online/${caravana ? "caravanas" : "coches"}/${coche.id}/`,
           },
         ],
       },
@@ -441,17 +567,26 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
     dateModified: fechas.actualizado,
     title: tituloSeo,
     // 17/10/2026: meta con datos reales (solo se ve si titulos.csv no trae meta para la URL).
-    description: metaGeo(datosGeoCoche(coche, nombre, null, PRECIO_ORIGEN[coche.id] ?? null), "Ficha técnica, etiqueta DGT, pros y contras.", anioModelo(coche.id)),
-    canonical: `/coches/${coche.id}/`,
+    description: metaGeo(datosGeo(null), caravana ? "Ficha técnica: MMA, carnet, plazas y precio." : "Ficha técnica, etiqueta DGT, pros y contras.", anioModelo(coche.id)),
+    canonical: `/${caravana ? "caravanas" : "coches"}/${coche.id}/`,
     image: seoImage,
     type: "article",
-    keywords: [
-      nombre,
-      `${nombre} ficha técnica`,
-      `${nombre} precio`,
-      `${nombre} autonomía`,
-      `${nombre} opiniones`,
-    ],
+    keywords: caravana
+      ? [
+          nombre,
+          `${nombre} ficha técnica`,
+          `${nombre} precio`,
+          `${nombre} MMA`,
+          `${nombre} carnet`,
+          `${nombre} opiniones`,
+        ]
+      : [
+          nombre,
+          `${nombre} ficha técnica`,
+          `${nombre} precio`,
+          `${nombre} autonomía`,
+          `${nombre} opiniones`,
+        ],
     schema: reviewsExtra
       ? {
           ...jsonLd,
@@ -474,6 +609,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
 
   return (
     <div className="min-h-screen bg-gray-50">
+      {!caravana && <VisitaFichaCoches id={coche.id} />}
       <SharedNavbar />
       <main id="ficha-pdf" className="mx-auto max-w-6xl px-4 pb-16 pt-8">
         <nav className="text-xs text-gray-500" aria-label="Migas de pan">
@@ -481,9 +617,15 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
             Inicio
           </Link>{" "}
           ·{" "}
-          <Link to="/comparador-coches/" className="hover:underline">
-            Comparador de coches
-          </Link>{" "}
+          {caravana ? (
+            <Link to="/caravanas/" className="hover:underline">
+              Caravanas
+            </Link>
+          ) : (
+            <Link to="/comparador-coches/" className="hover:underline">
+              Comparador de coches
+            </Link>
+          )}{" "}
           · <span className="text-gray-700">{nombre}</span>
         </nav>
 
@@ -530,9 +672,21 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
             datos={datosClave}
           />
           <p className="mt-3 text-sm text-gray-600">
-            Ficha técnica completa: precio, potencia, <Marker>autonomía</Marker>,{" "}
-            <Marker>batería</Marker>, maletero y <Marker>etiqueta DGT</Marker>, con puntos
-            fuertes y débiles extraídos de nuestro análisis. Si un dato no
+            {caravana ? (
+              <>
+                Ficha técnica completa: precio, <Marker>MMA</Marker>,{" "}
+                <Marker>carnet necesario</Marker>, dimensiones, plazas y{" "}
+                <Marker>carga útil</Marker>, con puntos fuertes y débiles extraídos de
+                nuestro análisis.
+              </>
+            ) : (
+              <>
+                Ficha técnica completa: precio, potencia, <Marker>autonomía</Marker>,{" "}
+                <Marker>batería</Marker>, maletero y <Marker>etiqueta DGT</Marker>, con puntos
+                fuertes y débiles extraídos de nuestro análisis.
+              </>
+            )}{" "}
+            Si un dato no
             está publicado por una fuente fiable, no lo mostramos en vez de inventarlo.
             Fuente:{" "}
             {coche.fuenteUrl ? (
@@ -581,7 +735,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
             consumoL100: coche.consumoUnidad === "l/100km" ? coche.consumo : null,
             consumoKwh100: coche.consumoUnidad === "kWh/100km" ? coche.consumo : null,
             etiquetaDgt: coche.etiquetaDgt,
-            garantiaAnos: garantiaDeMarca(coche.marca, "coches")?.anios ?? null,
+            garantiaAnos: caravana ? null : garantiaDeMarca(coche.marca, "coches")?.anios ?? null,
             maleteroL: coche.maleteroL,
           }}
         />
@@ -590,7 +744,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
         {/* Caza de monos: mono mecánico superpuesto (sin hueco en el flujo) */}
         <div className="relative h-0 z-10">
           <MonoEscondido
-            id={fijoId("ficha-coche")}
+            id={fijoId(caravana ? "ficha-caravana" : "ficha-coche")}
             pose="mono-mecanico"
             size={36}
             className="absolute -top-8 right-5"
@@ -653,7 +807,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
           </h2>
           <table className="mt-3 w-full text-sm">
             <tbody>
-              {FILAS.filter((f) => { const _v = f.campo === "etiquetaDgt" ? ((coche as any).etiquetaDgt || "—") : f.get(coche); return _v !== "—" && _v !== "Sin datos" && _v !== "No publicada" && !/^—/.test(String(_v)); }).map((f) => {
+              {filas.filter((f) => { const _v = f.campo === "etiquetaDgt" ? ((coche as any).etiquetaDgt || "—") : f.get(coche); return _v !== "—" && _v !== "Sin datos" && _v !== "No publicada" && !/^—/.test(String(_v)); }).map((f) => {
                 const esAprox = coche.aprox.includes(f.campo);
                 return (
                   <tr key={f.label} className="border-t border-gray-200/70">
@@ -685,6 +839,8 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
           </p>
         </section>
 
+        {/* 18/10/2026 (caravanas): las caravanas no llevan etiqueta DGT: se oculta. */}
+        {!caravana && (
         <section className="rtm-card mt-8 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6" aria-label="ZBE de Madrid">
           <h2 className="text-xl font-extrabold text-gray-900">
             ¿Puede entrar en la ZBE de Madrid?
@@ -697,6 +853,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
             dependen del escenario anticontaminación y de la zona.
           </p>
         </section>
+        )}
 
         <section id="precio" className="rtm-card mt-8 scroll-mt-32 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6">
           <div className="flex flex-wrap items-center justify-between gap-3">
@@ -737,13 +894,16 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
               <BookOpen className="h-4 w-4" /> Ver versiones en el análisis
             </Link>
           )}
+          {/* 18/10/2026 (caravanas): ITV y garantía de coche no aplican a caravanas. */}
+          {!caravana && (
           <p className="mt-3 text-sm text-gray-500">
             ITV en tu comunidad:{" "}
             <Link to="/herramientas/precio-itv/" className="font-semibold text-red-600 hover:underline">
               consúltala aquí
             </Link>
           </p>
-          {(() => {
+          )}
+          {!caravana && (() => {
             const g = garantiaDeMarca(coche.marca, "coches");
             return g && g.anios != null ? (
               <p className="mt-2 text-sm text-gray-500">
@@ -757,11 +917,15 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
           </Suspense>
         </section>
 
+        {/* 18/10/2026 (caravanas): sin audiencia ni reseñas — el backend Convex solo
+            admite coches/motos/patinetes. */}
+        {!caravana && (
         <Diferido>
         <Suspense fallback={null}>
           <AudienciaFichaLazy tipo="coches" slug={coche.id} nombre={nombre} img={heroOk ? heroSrc : null} />
         </Suspense>
         </Diferido>
+        )}
 
         {coche.imagenInteriorOficial && (
           <figure className="rtm-card mt-8">
@@ -1043,59 +1207,103 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
           </section>
         )}
 
-        <RivalesCarrusel tipo="coches" id={coche.id} nombre={nombre} rivales={extra.r} />
+        <RivalesCarrusel tipo={caravana ? "caravanas" : "coches"} id={coche.id} nombre={nombre} rivales={extra.r} />
 
-        <section className="mt-8 grid gap-3 sm:grid-cols-2" aria-label="Comparar modelo">
-          <Link
-            to={`/comparador-coches/?a=${coche.id}`}
-            className="inline-flex items-center justify-center gap-2 rounded-2xl border-2 border-red-600 bg-white px-4 py-3 text-sm font-bold text-red-600 transition hover:bg-red-50"
-          >
-            <ArrowLeftRight className="h-4 w-4" /> Comparar con otro modelo
-          </Link>
-          {tieneBlog && (
-            <Link
-              to={`/blog/${analisisSlug}/`}
-              className="inline-flex items-center justify-center gap-2 rounded-2xl bg-red-600 px-4 py-3 text-sm font-bold text-white transition hover:bg-red-700"
-            >
-              <BookOpen className="h-4 w-4" /> Leer nuestro análisis
-            </Link>
-          )}
-        </section>
+        {caravana ? (
+          <>
+            {/* 18/10/2026 (sección /caravanas/): bloque propio — hub, herramientas y normativa de remolque. */}
+            <section className="mt-8 grid gap-3 sm:grid-cols-2" aria-label="Más caravanas">
+              <Link
+                to="/caravanas/"
+                className="inline-flex items-center justify-center gap-2 rounded-2xl border-2 border-red-600 bg-white px-4 py-3 text-sm font-bold text-red-600 transition hover:bg-red-50"
+              >
+                <ArrowLeftRight className="h-4 w-4" /> Ver todas las caravanas
+              </Link>
+              {tieneBlog && (
+                <Link
+                  to={`/blog/${analisisSlug}/`}
+                  className="inline-flex items-center justify-center gap-2 rounded-2xl bg-red-600 px-4 py-3 text-sm font-bold text-white transition hover:bg-red-700"
+                >
+                  <BookOpen className="h-4 w-4" /> Leer nuestro análisis
+                </Link>
+              )}
+            </section>
 
-        <p className="mt-4 text-center text-sm text-gray-500">
-          ¿Cuántos años de batería dan las marcas?{" "}
-          <Link to="/comparador-garantia-bateria/" className="font-semibold text-red-600 hover:underline">
-            Ver el ranking de garantías de batería →
-          </Link>
-        </p>
+            <p className="mt-4 text-center text-sm text-gray-500">
+              ¿Cuánto gasta el conjunto?{" "}
+              <Link to="/calculadora-consumo-camper/" className="font-semibold text-red-600 hover:underline">
+                Calculadora de consumo camper →
+              </Link>
+            </p>
 
-        <p className="mt-2 text-center text-sm text-gray-500">
-          ¿Entra en tu presupuesto?{" "}
-          <Link to="/mejor-coche-por-presupuesto/" className="font-semibold text-red-600 hover:underline">
-            Qué coche me compro con mi presupuesto →
-          </Link>
-        </p>
+            <p className="mt-2 text-center text-sm text-gray-500">
+              Carnet B (hasta 3.500 kg de conjunto), B96 (hasta 4.250 kg) o BE por encima;{" "}
+              velocidad máxima de 90 km/h en autopista y autovía.{" "}
+              <a
+                href="https://www.dgt.es"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="font-semibold text-red-600 hover:underline"
+              >
+                Normativa en la DGT →
+              </a>
+            </p>
+          </>
+        ) : (
+          <>
+            <section className="mt-8 grid gap-3 sm:grid-cols-2" aria-label="Comparar modelo">
+              <Link
+                to={`/comparador-coches/?a=${coche.id}`}
+                className="inline-flex items-center justify-center gap-2 rounded-2xl border-2 border-red-600 bg-white px-4 py-3 text-sm font-bold text-red-600 transition hover:bg-red-50"
+              >
+                <ArrowLeftRight className="h-4 w-4" /> Comparar con otro modelo
+              </Link>
+              {tieneBlog && (
+                <Link
+                  to={`/blog/${analisisSlug}/`}
+                  className="inline-flex items-center justify-center gap-2 rounded-2xl bg-red-600 px-4 py-3 text-sm font-bold text-white transition hover:bg-red-700"
+                >
+                  <BookOpen className="h-4 w-4" /> Leer nuestro análisis
+                </Link>
+              )}
+            </section>
 
-        <p className="mt-2 text-center text-sm text-gray-500">
-          ¿Cuánto consume de verdad?{" "}
-          <Link to="/calculadora-autonomia-real/" className="font-semibold text-red-600 hover:underline">
-            Calculadora de autonomía real →
-          </Link>
-        </p>
+            <p className="mt-4 text-center text-sm text-gray-500">
+              ¿Cuántos años de batería dan las marcas?{" "}
+              <Link to="/comparador-garantia-bateria/" className="font-semibold text-red-600 hover:underline">
+                Ver el ranking de garantías de batería →
+              </Link>
+            </p>
 
-        <p className="mt-2 text-center text-sm text-gray-500">
-          ¿Puede entrar en las ZBE?{" "}
-          <Link to="/calculadora-etiqueta-dgt/" className="font-semibold text-red-600 hover:underline">
-            Calculadora de etiqueta DGT →
-          </Link>
-        </p>
+            <p className="mt-2 text-center text-sm text-gray-500">
+              ¿Entra en tu presupuesto?{" "}
+              <Link to="/mejor-coche-por-presupuesto/" className="font-semibold text-red-600 hover:underline">
+                Qué coche me compro con mi presupuesto →
+              </Link>
+            </p>
+
+            <p className="mt-2 text-center text-sm text-gray-500">
+              ¿Cuánto consume de verdad?{" "}
+              <Link to="/calculadora-autonomia-real/" className="font-semibold text-red-600 hover:underline">
+                Calculadora de autonomía real →
+              </Link>
+            </p>
+
+            <p className="mt-2 text-center text-sm text-gray-500">
+              ¿Puede entrar en las ZBE?{" "}
+              <Link to="/calculadora-etiqueta-dgt/" className="font-semibold text-red-600 hover:underline">
+                Calculadora de etiqueta DGT →
+              </Link>
+            </p>
+          </>
+        )}
 
         <Relacionados pathname={`/coches/${coche.id}/`} enArticulo />
 
         <section id="faq" className="mt-10 scroll-mt-32" aria-label="Preguntas frecuentes">
           <h2 className="text-2xl font-extrabold text-gray-900">Preguntas frecuentes</h2>
           <div className="mt-4 space-y-3">
-            {FAQS.map((f) => (
+            {faqs.map((f) => (
               <details key={f.q} className="rounded-2xl border border-gray-200 bg-white p-4">
                 <summary className="cursor-pointer font-semibold text-gray-900">{f.q}</summary>
                 <p className="mt-2 text-sm text-gray-600">{f.a}</p>
@@ -1112,6 +1320,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
         </p>
 
         {/* 12/10/2026: opiniones de propietarios con fotos */}
+        {!caravana && (
         <div id={(coche.opiniones?.length ?? 0) > 0 ? undefined : "opiniones"} className="scroll-mt-32">
         <Suspense fallback={null}>
           <ResenasVehiculoLazy
@@ -1122,8 +1331,9 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
           />
         </Suspense>
         </div>
+        )}
         {/* 18/10/2026: enlazado interno a las otras versiones y fichas de la marca */}
-        <OtrasFichasMarca tipo="coches" actual={coche} todas={hermanas} />
+        <OtrasFichasMarca tipo={caravana ? "caravanas" : "coches"} actual={coche} todas={hermanas} />
         </article>
         <PanelLateral
           nombre={nombre}
@@ -1140,7 +1350,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
       </main>
       <SharedFooter
         editorial={{
-          ambito: "coches",
+          ambito: caravana ? "caravanas" : "coches",
           tipo: "ficha",
           publicado: fechas.publicado,
           actualizado: fechas.actualizado,

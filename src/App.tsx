@@ -62,6 +62,7 @@ const FichasTecnicasPage = lazy(() => import("./pages/FichasTecnicas.tsx"));
 const MotosFichaPage = lazy(() => import("./pages/MotosFicha.tsx"));
 const ComparadorPatinetesPage = lazy(() => import("./pages/ComparadorPatinetes.tsx"));
 const PatinetesFichaPage = lazy(() => import("./pages/PatinetesFicha.tsx"));
+const CaravanasFichaPage = lazy(() => import("./pages/CaravanasFicha.tsx"));
 const MasVendidosPage = lazy(() => import("./pages/MasVendidos.tsx"));
 const RankingsPage = lazy(() => import("./pages/Rankings.tsx"));
 const RankingsIndexPage = lazy(() =>
@@ -158,6 +159,7 @@ function ContentRoutes() {
       <Route path="coches" element={<HubFichas categoria="coches" />} />
       <Route path="motos" element={<HubFichas categoria="motos" />} />
       <Route path="patinetes" element={<HubFichas categoria="patinetes" />} />
+      <Route path="caravanas" element={<HubFichas categoria="caravanas" />} />
       <Route path="coches/marca/:slug" element={<HubMarca />} />
       <Route path="motos/marca/:slug" element={<HubMarca />} />
       <Route path="patinetes/marca/:slug" element={<HubMarca />} />
@@ -169,6 +171,7 @@ function ContentRoutes() {
       <Route path="comparador-patinetes" element={<ComparadorPatinetesPage />} />
       <Route path="comparador/mas-vendidos" element={<MasVendidosPage />} />
       <Route path="patinetes/:slug" element={<PatinetesFichaPage />} />
+      <Route path="caravanas/:slug" element={<CaravanasFichaPage />} />
       <Route path="rankings" element={<RankingsIndexPage />} />
       <Route path="rankings/:slug" element={<RankingsPage />} />
       <Route path="calendario-lanzamientos" element={<Navigate to="/calendario-lanzamientos-2026-2027/" replace />} />

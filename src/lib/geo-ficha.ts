@@ -159,6 +159,22 @@ export function datosGeoPatinete(p: PatineteGeo, nombre: string, historial?: Pun
   return { articulo: "El", nombre, queEs: "un patinete eléctrico", claves, extra, precio: p.precioEur, precioAprox: p.aprox.includes("precioEur"), historial };
 }
 
+export interface CaravanaGeo {
+  mmaKg: number | null; carnetNecesario: string | null; plazas: number | null;
+  largoMm: number | null; cargaUtilKg: number | null; precioDesde: number | null; aprox: string[];
+}
+// 18/10/2026 (sección /caravanas/): respuesta rápida para caravanas (femenino,
+// "una caravana", claves reales de la ficha: MMA, plazas, longitud, carnet).
+export function datosGeoCaravana(c: CaravanaGeo, nombre: string, historial?: PuntoHist[] | null): DatosGeo {
+  const claves: string[] = [];
+  if (ok(c.mmaKg)) claves.push(aproxS(`${num(c.mmaKg)} kg de MMA`, c.aprox.includes("mmaKg")));
+  if (ok(c.plazas)) claves.push(`${num(c.plazas)} plazas`);
+  if (ok(c.largoMm)) claves.push(`${num(c.largoMm / 1000)} m de longitud total`);
+  const carnet = (c.carnetNecesario || "").trim();
+  const extra = carnet && !/^(null|undefined|—|-)$/i.test(carnet) ? `Se remolca con el carnet ${carnet}.` : null;
+  return { articulo: "La", nombre, queEs: "una caravana", claves, extra, precio: c.precioDesde, precioAprox: c.aprox.includes("precioDesde"), historial };
+}
+
 /**
  * Meta description de respaldo con datos reales (la usan las fichas sin meta propia
  * en src/content/seo/titulos.csv; si el CSV trae meta, apply-seo.mjs la impone).

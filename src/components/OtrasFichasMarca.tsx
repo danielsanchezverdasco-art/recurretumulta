@@ -8,7 +8,7 @@ import { slugify } from "@/lib/ficha-match.ts";
    de la marca y a la página de la marca. Antes la ficha prerenderizada no enlazaba
    a ninguna otra ficha y muchas quedaban huérfanas. ── */
 
-type Tipo = "coches" | "motos" | "patinetes";
+type Tipo = "coches" | "motos" | "patinetes" | "caravanas"; // 18/10/2026: /caravanas/<id>/
 type Item = { id: string; marca: string | null; modelo: string | null };
 
 const REDIR = new Set(Object.keys(REDIRIGIDAS as Record<string, string>));
