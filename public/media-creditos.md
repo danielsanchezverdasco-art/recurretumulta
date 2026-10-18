@@ -202,3 +202,107 @@
 | /media/mercedes-amg-gt-suv-precio-ficha-tecnica-oficial.webp | https://media.mercedes-benz.com/en/article/7d4d77de-1aad-4c4c-8a89-a3e140109495 | Mercedes-Benz Group AG (prensa oficial, Mercedes-Benz Media) | prensa |
 | /media/mercedes-amg-gt-suv-precio-ficha-tecnica-frontal.webp | https://media.mercedes-benz.com/en/article/7d4d77de-1aad-4c4c-8a89-a3e140109495 | Mercedes-Benz Group AG (prensa oficial, Mercedes-Benz Media) | prensa |
 | /media/mercedes-amg-gt-suv-filtrado-trasera.webp | https://www.thesupercarblog.com/leaked-here-is-our-first-look-at-the-all-electric-mercedes-amg-gt-suv/ | Mercedes-Benz Group AG (prensa) / The Supercar Blog (distribución; licencia desconocida) | prensa |
+## Autocaravanas (lotes Merlín, octubre 2026)
+100 fotos de las 50 fichas de autocaravanas. Fuente y tipo según la auditoría de fuentes 2026-10-18; las 10 fichas de la tanda 1 no tienen URL de origen mapeada (brief de la tanda). Licencia: **no verificada** en ningún caso salvo indicación.
+| Archivo | Fuente | Tipo de fuente | Licencia |
+| /media/adria-twin-supreme-640-sgx-2026-precio-ficha-tecnica-oficial.webp | — (fuente no mapeada) | concesionario / prensa (según brief tanda 1) | no verificada |
+| /media/adria-twin-supreme-640-sgx-2026-precio-ficha-tecnica-interior.webp | — (fuente no mapeada) | concesionario / prensa (según brief tanda 1) | no verificada |
+| /media/adria-coral-plus-670-sl-2026-precio-ficha-tecnica-oficial.webp | caravan24.ch | concesionario / anuncio | no verificada |
+| /media/adria-coral-plus-670-sl-2026-precio-ficha-tecnica-interior.webp | lancastermotorhomesandcaravans.co.uk | concesionario / anuncio | no verificada |
+| /media/ahorncamp-t-690-2026-precio-ficha-tecnica-oficial.webp | kamperomania.pl | concesionario / anuncio | no verificada |
+| /media/ahorncamp-t-690-2026-precio-ficha-tecnica-interior.webp | ahorn-camp.de | concesionario / anuncio | no verificada |
+| /media/bavaria-i740fgj-nomade-2026-precio-ficha-tecnica-oficial.webp | libertium.fr | concesionario / anuncio | no verificada |
+| /media/bavaria-i740fgj-nomade-2026-precio-ficha-tecnica-interior.webp | bavaria-camping-car.com | concesionario / anuncio | no verificada |
+| /media/benimar-mileo-243-2026-precio-ficha-tecnica-oficial.webp | — (fuente no mapeada) | concesionario / prensa (según brief tanda 1) | no verificada |
+| /media/benimar-mileo-243-2026-precio-ficha-tecnica-interior.webp | — (fuente no mapeada) | concesionario / prensa (según brief tanda 1) | no verificada |
+| /media/benimar-amphitryon-940-2026-precio-ficha-tecnica-oficial.webp | opale-evasion.com | concesionario / anuncio | no verificada |
+| /media/benimar-amphitryon-940-2026-precio-ficha-tecnica-interior.webp | opale-evasion.com | concesionario / anuncio | no verificada |
+| /media/benimar-sport-340-up-2026-precio-ficha-tecnica-oficial.webp | slowlifevans.es | concesionario / anuncio | no verificada |
+| /media/benimar-sport-340-up-2026-precio-ficha-tecnica-interior.webp | caraworld.de | concesionario / anuncio | no verificada |
+| /media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-oficial.webp | suchen.mobile.de | concesionario / anuncio | no verificada |
+| /media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-interior.webp | caravana.de | prensa especializada | no verificada |
+| /media/campereve-magellan-643-2026-precio-ficha-tecnica-oficial.webp | ypocamp.fr | concesionario / anuncio | no verificada |
+| /media/campereve-magellan-643-2026-precio-ficha-tecnica-interior.webp | idylcar.fr | concesionario / anuncio | no verificada |
+| /media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-oficial.webp | — (fuente no mapeada) | concesionario / prensa (según brief tanda 1) | no verificada |
+| /media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-interior.webp | carthago.com | prensa del fabricante | no verificada |
+| /media/challenger-v114-start-edition-2026-precio-ficha-tecnica-oficial.webp | ypocamp.fr | concesionario / anuncio | no verificada |
+| /media/challenger-v114-start-edition-2026-precio-ficha-tecnica-interior.webp | vendezvotrecampingcar.com | concesionario / anuncio | no verificada |
+| /media/chausson-640-titanium-2026-precio-ficha-tecnica-oficial.webp | — (fuente no mapeada) | concesionario / prensa (según brief tanda 1) | no verificada |
+| /media/chausson-640-titanium-2026-precio-ficha-tecnica-interior.webp | — (fuente no mapeada) | concesionario / prensa (según brief tanda 1) | no verificada |
+| /media/chausson-777-titanium-line-2026-precio-ficha-tecnica-oficial.webp | loire-44.ypocamp.fr | concesionario / anuncio | no verificada |
+| /media/chausson-777-titanium-line-2026-precio-ficha-tecnica-interior.webp | be.chausson-motorhomes.com | prensa del fabricante | no verificada |
+| /media/ci-horon-84-xt-2026-precio-ficha-tecnica-oficial.webp | autocaravanascamperdadi.com | concesionario / anuncio | no verificada |
+| /media/ci-horon-84-xt-2026-precio-ficha-tecnica-interior.webp | caravansinternational.it | prensa del fabricante | no verificada |
+| /media/dethleffs-trend-t-6717-eb-2026-precio-ficha-tecnica-oficial.webp | — (fuente no mapeada) | concesionario / prensa (según brief tanda 1) | no verificada |
+| /media/dethleffs-trend-t-6717-eb-2026-precio-ficha-tecnica-interior.webp | — (fuente no mapeada) | concesionario / prensa (según brief tanda 1) | no verificada |
+| /media/dreamer-d55-fun-up-2026-precio-ficha-tecnica-oficial.webp | thompsonleisure.com | concesionario / anuncio | no verificada |
+| /media/dreamer-d55-fun-up-2026-precio-ficha-tecnica-interior.webp | okvans.com | concesionario / anuncio | no verificada |
+| /media/elnagh-baron-565-2026-precio-ficha-tecnica-oficial.webp | go4fun.si | concesionario / anuncio | no verificada |
+| /media/elnagh-baron-565-2026-precio-ficha-tecnica-interior.webp | camperis.com | concesionario / anuncio | no verificada |
+| /media/etrusco-t-7400-sb-2026-precio-ficha-tecnica-oficial.webp | caravan24.ch | concesionario / anuncio | no verificada |
+| /media/etrusco-t-7400-sb-2026-precio-ficha-tecnica-interior.webp | comercialcaravaning.com | concesionario / anuncio | no verificada |
+| /media/euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica-oficial.webp | karavantravel.cz | concesionario / anuncio | no verificada |
+| /media/euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica-interior.webp | karavantravel.cz | concesionario / anuncio | no verificada |
+| /media/fleurette-baxter-68-lmc-2026-precio-ficha-tecnica-oficial.webp | forsalecampers.com | concesionario / anuncio | no verificada |
+| /media/fleurette-baxter-68-lmc-2026-precio-ficha-tecnica-interior.webp | fleurette-florium.fr | concesionario / anuncio | no verificada |
+| /media/font-vendome-mondea-2026-precio-ficha-tecnica-oficial.webp | fourgonlesite.com | prensa especializada | no verificada |
+| /media/font-vendome-mondea-2026-precio-ficha-tecnica-interior.webp | fourgonlesite.com | prensa especializada | no verificada |
+| /media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-oficial.webp | truck1.co.za | concesionario / anuncio | no verificada |
+| /media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-interior.webp | smcmotorhomes.co.uk | concesionario / anuncio | no verificada |
+| /media/giottiline-siena-322-2026-precio-ficha-tecnica-oficial.webp | moosecamper.se | concesionario / anuncio | no verificada |
+| /media/giottiline-siena-322-2026-precio-ficha-tecnica-interior.webp | m3caravaning.com | concesionario / anuncio | no verificada |
+| /media/globecar-globescout-plus-2026-precio-ficha-tecnica-oficial.webp | espritcampingcar.com | prensa especializada | no verificada |
+| /media/globecar-globescout-plus-2026-precio-ficha-tecnica-interior.webp | regional-klimaneutral.org | prensa especializada | no verificada |
+| /media/hobby-optima-ontour-edition-f-v65-ge-2026-precio-ficha-tecnica-oficial.webp | caravanpark-mueller.de | concesionario / anuncio | no verificada |
+| /media/hobby-optima-ontour-edition-f-v65-ge-2026-precio-ficha-tecnica-interior.webp | suchen.mobile.de | concesionario / anuncio | no verificada |
+| /media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-oficial.webp | — (fuente no mapeada) | concesionario / prensa (según brief tanda 1) | no verificada |
+| /media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-interior.webp | hymer.com | prensa del fabricante | no verificada |
+| /media/hymer-b-mc-i-600-2026-precio-ficha-tecnica-oficial.webp | — (fuente no mapeada) | concesionario / prensa (según brief tanda 1) | no verificada |
+| /media/hymer-b-mc-i-600-2026-precio-ficha-tecnica-interior.webp | hymer.com | prensa del fabricante | no verificada |
+| /media/hymer-ml-t-580-4x4-2026-precio-ficha-tecnica-oficial.webp | dejonghattem.nl | concesionario / anuncio | no verificada |
+| /media/hymer-ml-t-580-4x4-2026-precio-ficha-tecnica-interior.webp | caravans.nl | concesionario / anuncio | no verificada |
+| /media/itineo-pf600-2026-precio-ficha-tecnica-oficial.webp | itineo.com | prensa del fabricante | no verificada |
+| /media/itineo-pf600-2026-precio-ficha-tecnica-interior.webp | itineo-autocaravana.es | concesionario / anuncio | no verificada |
+| /media/knaus-boxlife-600-mq-2026-precio-ficha-tecnica-oficial.webp | camperis.com | concesionario / anuncio | no verificada |
+| /media/knaus-boxlife-600-mq-2026-precio-ficha-tecnica-interior.webp | caraworld.de | concesionario / anuncio | no verificada |
+| /media/knaus-sky-ti-650-meg-2026-precio-ficha-tecnica-oficial.webp | schaffer-mobil.de | concesionario / anuncio | no verificada |
+| /media/knaus-sky-ti-650-meg-2026-precio-ficha-tecnica-interior.webp | campersite.nl | concesionario / anuncio | no verificada |
+| /media/laika-ecovip-600-2026-precio-ficha-tecnica-oficial.webp | giragira.it | concesionario / anuncio | no verificada |
+| /media/laika-ecovip-600-2026-precio-ficha-tecnica-interior.webp | giragira.it | concesionario / anuncio | no verificada |
+| /media/laika-kosmo-l-319-2026-precio-ficha-tecnica-oficial.webp | caravan24.ch | concesionario / anuncio | no verificada |
+| /media/laika-kosmo-l-319-2026-precio-ficha-tecnica-interior.webp | staging2.caravancompleet.nl | concesionario / anuncio | no verificada |
+| /media/mclouis-mc4-231-2026-precio-ficha-tecnica-oficial.webp | masquecamper.com | concesionario / anuncio | no verificada |
+| /media/mclouis-mc4-231-2026-precio-ficha-tecnica-interior.webp | camperlife.it | prensa especializada | no verificada |
+| /media/mobilvetta-k-yacht-tekno-line-86-2026-precio-ficha-tecnica-oficial.webp | karavantravel.cz | concesionario / anuncio | no verificada |
+| /media/mobilvetta-k-yacht-tekno-line-86-2026-precio-ficha-tecnica-interior.webp | completecamperssouthwales.co.uk | concesionario / anuncio | no verificada |
+| /media/mooveo-tei-60fb-2026-precio-ficha-tecnica-oficial.webp | womoo.de | prensa especializada | no verificada |
+| /media/mooveo-tei-60fb-2026-precio-ficha-tecnica-interior.webp | wohnmobilpark.com | concesionario / anuncio | no verificada |
+| /media/niesmann-bischoff-ismove-69-e-2026-precio-ficha-tecnica-oficial.webp | motorhomes.co.uk | concesionario / anuncio | no verificada |
+| /media/niesmann-bischoff-ismove-69-e-2026-precio-ficha-tecnica-interior.webp | reisemobil-international.de | prensa especializada | no verificada |
+| /media/pilote-v600g-2026-precio-ficha-tecnica-oficial.webp | ulrich-campingcars.fr | concesionario / anuncio | no verificada |
+| /media/pilote-v600g-2026-precio-ficha-tecnica-interior.webp | blocket.se | concesionario / anuncio | no verificada |
+| /media/pilote-g740fgj-evidence-2026-precio-ficha-tecnica-oficial.webp | campingcarlesite.com | prensa especializada | no verificada |
+| /media/pilote-g740fgj-evidence-2026-precio-ficha-tecnica-interior.webp | campingcarlesite.com | prensa especializada | no verificada |
+| /media/possl-2win-plus-2026-precio-ficha-tecnica-oficial.webp | dicar.be | concesionario / anuncio | no verificada |
+| /media/possl-2win-plus-2026-precio-ficha-tecnica-interior.webp | caravans.nl | concesionario / anuncio | no verificada |
+| /media/rapido-v55-2026-precio-ficha-tecnica-oficial.webp | opale-evasion.com | concesionario / anuncio | no verificada |
+| /media/rapido-v55-2026-precio-ficha-tecnica-interior.webp | fourgonlesite.com | prensa especializada | no verificada |
+| /media/rapido-606f-2026-precio-ficha-tecnica-oficial.webp | masters-france.com | concesionario / anuncio | no verificada |
+| /media/rapido-606f-2026-precio-ficha-tecnica-interior.webp | masters-france.com | concesionario / anuncio | no verificada |
+| /media/rimor-superbrig-687-tc-2026-precio-ficha-tecnica-oficial.webp | bluecamper.gr | concesionario / anuncio | no verificada |
+| /media/rimor-superbrig-687-tc-2026-precio-ficha-tecnica-interior.webp | bluecamper.gr | concesionario / anuncio | no verificada |
+| /media/roller-team-auto-roller-746-2026-precio-ficha-tecnica-oficial.webp | — (fuente no mapeada) | concesionario / prensa (según brief tanda 1) | no verificada |
+| /media/roller-team-auto-roller-746-2026-precio-ficha-tecnica-interior.webp | — (fuente no mapeada) | concesionario / prensa (según brief tanda 1) | no verificada |
+| /media/sunlight-t-68-2026-precio-ficha-tecnica-oficial.webp | — (fuente no mapeada) | concesionario / prensa (según brief tanda 1) | no verificada |
+| /media/sunlight-t-68-2026-precio-ficha-tecnica-interior.webp | — (fuente no mapeada) | concesionario / prensa (según brief tanda 1) | no verificada |
+| /media/sunlight-a-70-2026-precio-ficha-tecnica-oficial.webp | — (fuente no mapeada) | concesionario / prensa (según brief tanda 1) | no verificada |
+| /media/sunlight-a-70-2026-precio-ficha-tecnica-interior.webp | — (fuente no mapeada) | concesionario / prensa (según brief tanda 1) | no verificada |
+| /media/sunlight-cliff-640-2026-precio-ficha-tecnica-oficial.webp | sunlight.de | prensa del fabricante | no verificada |
+| /media/sunlight-cliff-640-2026-precio-ficha-tecnica-interior.webp | caravan-brandl.de | concesionario / anuncio | no verificada |
+| /media/weinsberg-carabus-grey-edition-fire-600-mq-2026-precio-ficha-tecnica-oficial.webp | caravana.de | prensa especializada | no verificada |
+| /media/weinsberg-carabus-grey-edition-fire-600-mq-2026-precio-ficha-tecnica-interior.webp | caravana.de | prensa especializada | no verificada |
+| /media/westfalia-columbus-600d-2026-precio-ficha-tecnica-oficial.webp | kosi-busse.de | concesionario / anuncio | no verificada |
+| /media/westfalia-columbus-600d-2026-precio-ficha-tecnica-interior.webp | wagoncat.com | concesionario / anuncio | no verificada |
+| /media/xgo-x-van-104-2026-precio-ficha-tecnica-oficial.webp | topdovca.cz | concesionario / anuncio | no verificada |
+| /media/xgo-x-van-104-2026-precio-ficha-tecnica-interior.webp | camperlife.it | prensa especializada | no verificada |
+<!-- 100 fotos -->

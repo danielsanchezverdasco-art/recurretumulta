@@ -1,0 +1,43 @@
+// Agregado de las 50 fichas de autocaravanas (lotes Merlín, 18/10/2026).
+// Necesario para scripts/gen-ficha-extra.mjs (rivales) y listados.
+import type { Autocaravana } from "./autocaravanas-tipos.ts";
+import { AUTOCARAVANAS_ADRIA_M1 } from "./comparador-autocaravanas-adria-m1.ts";
+import { AUTOCARAVANAS_AHORNCAMP_M1 } from "./comparador-autocaravanas-ahorncamp-m1.ts";
+import { AUTOCARAVANAS_BAVARIA_M1 } from "./comparador-autocaravanas-bavaria-m1.ts";
+import { AUTOCARAVANAS_BENIMAR_M1 } from "./comparador-autocaravanas-benimar-m1.ts";
+import { AUTOCARAVANAS_BURSTNER_M1 } from "./comparador-autocaravanas-burstner-m1.ts";
+import { AUTOCARAVANAS_CAMPEREVE_M1 } from "./comparador-autocaravanas-campereve-m1.ts";
+import { AUTOCARAVANAS_CARTHAGO_M1 } from "./comparador-autocaravanas-carthago-m1.ts";
+import { AUTOCARAVANAS_CHALLENGER_M1 } from "./comparador-autocaravanas-challenger-m1.ts";
+import { AUTOCARAVANAS_CHAUSSON_M1 } from "./comparador-autocaravanas-chausson-m1.ts";
+import { AUTOCARAVANAS_CI_M1 } from "./comparador-autocaravanas-ci-m1.ts";
+import { AUTOCARAVANAS_DETHLEFFS_M1 } from "./comparador-autocaravanas-dethleffs-m1.ts";
+import { AUTOCARAVANAS_DREAMER_M1 } from "./comparador-autocaravanas-dreamer-m1.ts";
+import { AUTOCARAVANAS_ELNAGH_M1 } from "./comparador-autocaravanas-elnagh-m1.ts";
+import { AUTOCARAVANAS_ETRUSCO_M1 } from "./comparador-autocaravanas-etrusco-m1.ts";
+import { AUTOCARAVANAS_EURAMOBIL_M1 } from "./comparador-autocaravanas-euramobil-m1.ts";
+import { AUTOCARAVANAS_FLEURETTE_M1 } from "./comparador-autocaravanas-fleurette-m1.ts";
+import { AUTOCARAVANAS_FONTVENDOME_M1 } from "./comparador-autocaravanas-fontvendome-m1.ts";
+import { AUTOCARAVANAS_FRANKIA_M1 } from "./comparador-autocaravanas-frankia-m1.ts";
+import { AUTOCARAVANAS_GIOTTILINE_M1 } from "./comparador-autocaravanas-giottiline-m1.ts";
+import { AUTOCARAVANAS_GLOBECAR_M1 } from "./comparador-autocaravanas-globecar-m1.ts";
+import { AUTOCARAVANAS_HOBBY_M1 } from "./comparador-autocaravanas-hobby-m1.ts";
+import { AUTOCARAVANAS_HYMER_M1 } from "./comparador-autocaravanas-hymer-m1.ts";
+import { AUTOCARAVANAS_ITINEO_M1 } from "./comparador-autocaravanas-itineo-m1.ts";
+import { AUTOCARAVANAS_KNAUS_M1 } from "./comparador-autocaravanas-knaus-m1.ts";
+import { AUTOCARAVANAS_LAIKA_M1 } from "./comparador-autocaravanas-laika-m1.ts";
+import { AUTOCARAVANAS_MCLOUIS_M1 } from "./comparador-autocaravanas-mclouis-m1.ts";
+import { AUTOCARAVANAS_MOBILVETTA_M1 } from "./comparador-autocaravanas-mobilvetta-m1.ts";
+import { AUTOCARAVANAS_MOOVEO_M1 } from "./comparador-autocaravanas-mooveo-m1.ts";
+import { AUTOCARAVANAS_NIESMANNBISCHOFF_M1 } from "./comparador-autocaravanas-niesmannbischoff-m1.ts";
+import { AUTOCARAVANAS_PILOTE_M1 } from "./comparador-autocaravanas-pilote-m1.ts";
+import { AUTOCARAVANAS_POSSL_M1 } from "./comparador-autocaravanas-possl-m1.ts";
+import { AUTOCARAVANAS_RAPIDO_M1 } from "./comparador-autocaravanas-rapido-m1.ts";
+import { AUTOCARAVANAS_RIMOR_M1 } from "./comparador-autocaravanas-rimor-m1.ts";
+import { AUTOCARAVANAS_ROLLERTEAM_M1 } from "./comparador-autocaravanas-rollerteam-m1.ts";
+import { AUTOCARAVANAS_SUNLIGHT_M1 } from "./comparador-autocaravanas-sunlight-m1.ts";
+import { AUTOCARAVANAS_WEINSBERG_M1 } from "./comparador-autocaravanas-weinsberg-m1.ts";
+import { AUTOCARAVANAS_WESTFALIA_M1 } from "./comparador-autocaravanas-westfalia-m1.ts";
+import { AUTOCARAVANAS_XGO_M1 } from "./comparador-autocaravanas-xgo-m1.ts";
+
+export const AUTOCARAVANAS_COMPARADOR: Autocaravana[] = [...AUTOCARAVANAS_ADRIA_M1, ...AUTOCARAVANAS_AHORNCAMP_M1, ...AUTOCARAVANAS_BAVARIA_M1, ...AUTOCARAVANAS_BENIMAR_M1, ...AUTOCARAVANAS_BURSTNER_M1, ...AUTOCARAVANAS_CAMPEREVE_M1, ...AUTOCARAVANAS_CARTHAGO_M1, ...AUTOCARAVANAS_CHALLENGER_M1, ...AUTOCARAVANAS_CHAUSSON_M1, ...AUTOCARAVANAS_CI_M1, ...AUTOCARAVANAS_DETHLEFFS_M1, ...AUTOCARAVANAS_DREAMER_M1, ...AUTOCARAVANAS_ELNAGH_M1, ...AUTOCARAVANAS_ETRUSCO_M1, ...AUTOCARAVANAS_EURAMOBIL_M1, ...AUTOCARAVANAS_FLEURETTE_M1, ...AUTOCARAVANAS_FONTVENDOME_M1, ...AUTOCARAVANAS_FRANKIA_M1, ...AUTOCARAVANAS_GIOTTILINE_M1, ...AUTOCARAVANAS_GLOBECAR_M1, ...AUTOCARAVANAS_HOBBY_M1, ...AUTOCARAVANAS_HYMER_M1, ...AUTOCARAVANAS_ITINEO_M1, ...AUTOCARAVANAS_KNAUS_M1, ...AUTOCARAVANAS_LAIKA_M1, ...AUTOCARAVANAS_MCLOUIS_M1, ...AUTOCARAVANAS_MOBILVETTA_M1, ...AUTOCARAVANAS_MOOVEO_M1, ...AUTOCARAVANAS_NIESMANNBISCHOFF_M1, ...AUTOCARAVANAS_PILOTE_M1, ...AUTOCARAVANAS_POSSL_M1, ...AUTOCARAVANAS_RAPIDO_M1, ...AUTOCARAVANAS_RIMOR_M1, ...AUTOCARAVANAS_ROLLERTEAM_M1, ...AUTOCARAVANAS_SUNLIGHT_M1, ...AUTOCARAVANAS_WEINSBERG_M1, ...AUTOCARAVANAS_WESTFALIA_M1, ...AUTOCARAVANAS_XGO_M1];
