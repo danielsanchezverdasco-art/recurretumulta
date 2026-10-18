@@ -7,6 +7,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "patinete-electrico-normativa-dgt-2026-multas": () => import("../blog-posts-db.ts"),
     "patinetes-15-anos-casco-obligatorio": () => import("../blog-posts-db.ts"),
     "peugeot-2008-12-puretech-100-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp20.ts"),
+    "peugeot-2008-2024-precio-ficha-tecnica": () => import("../blog-posts-prio-3.ts"),
     "peugeot-2008-2025-precio-ficha-tecnica": () => import("../blog-posts-nuevos-c3.ts"),
     "peugeot-2008-hibrido-145-2026-precio-ficha-tecnica": () => import("../blog-posts-peugeot-a.ts"),
     "peugeot-208-12-puretech-100-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp8.ts"),
@@ -139,6 +140,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "pure-escape-pro-plus": () => import("../blog-posts-patinetes-exp-p8.ts"),
     "pure-escape-ultra-max": () => import("../blog-posts-patinetes-exp-p8.ts"),
     "pure-x-mclaren": () => import("../blog-posts-patinetes-exp-p8.ts"),
+    "pursang-e-track-ficha-tecnica-precio": () => import("../blog-posts-prio-3.ts"),
   },
   coche: {
     "pagani-utopia-roadster-2026-precio-ficha-tecnica": () => import("../comparador-coches-lote4.ts"),

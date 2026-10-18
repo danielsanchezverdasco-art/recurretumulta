@@ -453,7 +453,7 @@ export const COCHES_DONGFENG: CocheComparador[] = [
     parNm: 158,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precio"],
+    aprox: ["precioDesde"],
     pros: [
       "Berlina de 4,67 m por 15.900 €: imbatible en precio",
       "Consumo contenido: 6,2 l/100 km en ciclo WLTC",
@@ -506,6 +506,8 @@ export const COCHES_DONGFENG: CocheComparador[] = [
         alto: 781,
       },
     ],
+    fuenteNombre: "Dongfeng Cuba (distribuidor oficial)",
+    fuenteUrl: "https://dongfengqba.com/modelos/shine/",
     analisisSlug: "dongfeng-shine-2025-precio-ficha-tecnica",
     euroncap: {
       estrellas: null,

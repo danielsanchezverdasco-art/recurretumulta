@@ -59,6 +59,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "land-rover-range-rover-velar-d300-2025-precio-ficha-tecnica": () => import("../blog-posts-batch2b-2.ts"),
     "leapmotor-a10-2026-precio-ficha-tecnica": () => import("../blog-posts-batch2b-2.ts"),
     "leapmotor-b01-2025-precio-ficha-tecnica": () => import("../blog-posts-nuevos-c2.ts"),
+    "leapmotor-b03-2026-precio-ficha-tecnica": () => import("../blog-posts-leapmotor-a.ts"),
     "leapmotor-b03-electrico-paris-2026": () => import("../blog-posts-motor-2026-o.ts"),
     "leapmotor-b03x-2026-precio-ficha-tecnica": () => import("../blog-posts-leapmotor-a.ts"),
     "leapmotor-b03x-suv-electrico-barato-europa": () => import("../blog-posts-lote-oct-b.ts"),

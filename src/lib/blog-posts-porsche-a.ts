@@ -9,7 +9,7 @@ export const PORSCHE_POSTS: BlogPost[] = [
     slug: "porsche-911-carrera-2026-precio-ficha-tecnica",
     title: "Porsche 911 Carrera 2026: precio y ficha técnica",
     "excerpt":
-      "Precio del Porsche 911 Carrera 2026 en España: 157.835 €. 394 CV, 0-100 en 4,1 s y 294 km/h. Ficha técnica completa del 992.2.",
+      "Precio del Porsche 911 Carrera 2026 en España: 159.511 €. 394 CV, 0-100 en 4,1 s y 294 km/h. Ficha técnica completa del 992.2.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 9,
@@ -23,11 +23,11 @@ export const PORSCHE_POSTS: BlogPost[] = [
       "deportivo porsche",
     ],
     content: `
-<img src=/media/porsche-911-carrera-2026-precio-ficha-tecnica-hero.webp alt=Porsche 911 Carrera 2026 plateado en carretera de montaña>
+<img src=/media/porsche-911-carrera-2026-precio-ficha-tecnica-1.webp alt=Porsche 911 Carrera 2026 plateado en carretera de montaña>
 
 **¿Buscas solo los datos?** <a href=/coches/porsche-911-carrera-2026-precio-ficha-tecnica/>Ver ficha técnica del Porsche 911 Carrera 2026</a>: precio, potencia, consumo y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-El **Porsche 911 Carrera 2026** es la puerta de entrada a la gama 911 (generación 992.2): el mito de Stuttgart parte en España de **157.835 €** con el bóxer 3.0 biturbo de **394 CV**, cambio PDK y tracción trasera. Acelera de 0 a 100 km/h en **4,1 segundos** y alcanza **294 km/h**, cifras que hace una década eran de Turbo.
+El **Porsche 911 Carrera 2026** es la puerta de entrada a la gama 911 (generación 992.2): el mito de Stuttgart parte en España de **159.511 €** con el bóxer 3.0 biturbo de **394 CV**, cambio PDK y tracción trasera. Acelera de 0 a 100 km/h en **4,1 segundos** y alcanza **294 km/h**, cifras que hace una década eran de Turbo.
 
 Es el 911 "para todos los días": cuatro plazas (2+2), maletero delantero de 135 litros y un chasis que combina precisión quirúrgica con un confort sorprendente para un deportivo. La actualización 992.2 trajo faros Matrix LED de serie, un interior con cuadro de instrumentos totalmente digital y mejoras aerodinámicas.
 
@@ -35,7 +35,7 @@ Es el 911 "para todos los días": cuatro plazas (2+2), maletero delantero de 135
 
 | Dato | Valor |
 |---|---|
-| **Precio en España** | 157.835 € |
+| **Precio en España** | 159.511 € |
 | **Motor** | Bóxer 3.0 biturbo, gasolina |
 | **Potencia / Par** | 394 CV / 450 Nm |
 | **0-100 km/h** | 4,1 s |
@@ -52,9 +52,9 @@ Es el 911 "para todos los días": cuatro plazas (2+2), maletero delantero de 135
 
 ## Precio y versiones en España
 
-El Carrera es el escalón de acceso a la familia 911. En España parte de **157.835 €**, y por encima quedan el Carrera T (170.101 €), el Carrera S (178.784 €), el Carrera GTS híbrido (205.356 €) y los Turbo y GT3. La lista de opciones de Porsche es legendaria: con cuatro o cinco extras bien elegidos es fácil sumar 20.000 € a la factura.
+El Carrera es el escalón de acceso a la familia 911. En España parte de **159.511 €**, y por encima quedan el Carrera T (170.101 €), el Carrera S (178.784 €), el Carrera GTS híbrido (205.356 €) y los Turbo y GT3. La lista de opciones de Porsche es legendaria: con cuatro o cinco extras bien elegidos es fácil sumar 20.000 € a la factura.
 
-<img src=/media/porsche-911-carrera-2026-precio-ficha-tecnica-oficial.webp alt=Porsche 911 Carrera 2026, vista tres cuartos>
+<img src=/media/porsche-911-carrera-2026-precio-ficha-tecnica-2.webp alt=Porsche 911 Carrera 2026, vista tres cuartos>
 
 ¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
@@ -64,24 +64,32 @@ El bóxer biturbo de 3 litros rinde **394 CV y 450 Nm**, gestionados por el camb
 
 En consumo, homologa **10,1 l/100 km** en ciclo WLTP. En uso realista y tranquilo es posible acercarse a los 9 litros; en conducción deportiva, olvídate: sube de 13 sin despeinarse.
 
-<img src=/media/porsche-911-carrera-2026-precio-ficha-tecnica-interior.webp alt=Interior del Porsche 911 Carrera 2026>
+<img src=/media/porsche-911-carrera-2026-precio-ficha-tecnica-3.webp alt=Interior del Porsche 911 Carrera 2026>
 
 ## Rivales del Porsche 911 Carrera
 
 |  | 911 Carrera | Mercedes-AMG GT | Audi R8 (fin de serie) | Corvette C8 |
 |---|---|---|---|---|
-| **Precio desde** | 157.835 € | ~190.000 € | ~250.000 € | ~95.000 € |
+| **Precio desde** | 159.511 € | ~190.000 € | ~250.000 € | ~95.000 € |
 | **Potencia** | 394 CV | 476 CV | 570 CV | 482 CV |
 | **0-100 km/h** | 4,1 s | 3,9 s | 3,7 s | 3,5 s |
 | **Etiqueta DGT** | C | C | C | C |
 
 El 911 no es el más potente ni el más barato, pero es el único con seis décadas de evolución continua, valor de reventa de hierro y usabilidad diaria real.
 
+## El 992.2: qué cambia respecto al 992
+
+La segunda fase del 992 trae un frontal rediseñado con nuevas ópticas Matrix LED, pilotos traseros renovados y un interior con el cuadro de instrumentos totalmente digital y curvo de 12,6 pulgadas. Mecánicamente, el Carrera mantiene el bóxer 3.0 biturbo pero con **394 CV** (9 más que antes) gracias a los turbos del anterior GTS. El resultado: 4,1 segundos de 0 a 100 y 294 km/h de punta, con un consumo WLTP de 10,1 L/100 km.
+
+## ¿Para quién es?
+
+Para quien siempre quiso un 911 y busca la puerta de entrada: el Carrera es el 911 más puro —tracción trasera, PDK de 8 velocidades y el chasis que ha definido el segmento durante 60 años—. Para el que lo usará a diario: es sorprendentemente civilizado, con 4 plazas (2+2) y 135 litros de maletero delantero. Para el inversor: el 911 es de los deportivos que mejor conservan su valor. No es para quien busque el máximo rendimiento (ahí están el GTS, el Turbo o el GT3) ni para quien necesite etiqueta ECO.
+
 ## Pros y contras
 
 | ✅ Pros | ❌ Contras |
 |---|---|
-| 394 CV y 0-100 en 4,1 s: rapidísimo siendo el 911 "básico" | 157.835 €: el acceso al mito ya es territorio de lujo |
+| 394 CV y 0-100 en 4,1 s: rapidísimo siendo el 911 "básico" | 159.511 €: el acceso al mito ya es territorio de lujo |
 | Chasis 992.2 de referencia absoluta | Etiqueta C: sin acceso a ZBE en episodios de contaminación |
 | Uso diario viable: 2+2 plazas y 135 l de maletero | Las plazas traseras son testimoniales |
 | Valor de reventa de los más altos del mercado | La lista de opciones engorda la factura con facilidad |
@@ -90,7 +98,7 @@ El 911 no es el más potente ni el más barato, pero es el único con seis déca
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Porsche 911 Carrera 2026 en España?
-Parte de **157.835 €** según la tarifa oficial en España. Es el 911 más asequible de la gama 992.2.
+Parte de **159.511 €** según la tarifa oficial en España. Es el 911 más asequible de la gama 992.2.
 
 ### ¿Cuántos caballos tiene el 911 Carrera 2026?
 El bóxer 3.0 biturbo rinde **394 CV y 450 Nm**, con cambio PDK de 8 velocidades y tracción trasera.
@@ -179,7 +187,7 @@ El Carrera T es una declaración de intenciones: en plena era de la hibridación
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Porsche 911 Carrera T 2026?
-**170.101 €** en España, entre el Carrera (157.835 €) y el Carrera S (178.784 €).
+**170.101 €** en España, entre el Carrera (159.511 €) y el Carrera S (178.784 €).
 
 ### ¿El Carrera T tiene cambio manual?
 Sí: es una de sus señas de identidad. Monta un **manual de 6 marchas** con función de punta-tacón automática.

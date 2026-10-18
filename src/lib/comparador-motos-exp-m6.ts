@@ -48,15 +48,16 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "El cambio es un Pankl de 6 velocidades, el mismo proveedor que en MotoGP",
       "De serie monta neumáticos Maxxis y manillar Neken de aluminio"
     ],
-    imagen: "/media/motos/gasgas-ec-300-2t-2025-ficha-tecnica-precio-1.webp",
+    imagen: "/media/gasgas-ec-300-2t-2025-ficha-tecnica-precio-1.webp",
     galeria: [
-      { src: "/media/motos/gasgas-ec-300-2t-2025-ficha-tecnica-precio-2.webp", alt: "Detalle del motor 2T de 293 cc de la GasGas EC 300 2025", ancho: 1200, alto: 800 },
-      { src: "/media/motos/gasgas-ec-300-2t-2025-ficha-tecnica-precio-3.webp", alt: "GasGas EC 300 2025 en acción en un sendero de enduro", ancho: 1200, alto: 800 }
+      { src: "/media/gasgas-ec-300-2t-2025-ficha-tecnica-precio-2.webp", alt: "GasGas EC 300 GP 2025, vista trasera tres cuartos", ancho: 918, alto: 629 },
+      { src: "/media/gasgas-ec-300-2t-2025-ficha-tecnica-precio-3.webp", alt: "GasGas EC 300 GP 2025, vista lateral", ancho: 1200, alto: 673 },
+      { src: "/media/gasgas-ec-300-2t-2025-ficha-tecnica-precio-4.webp", alt: "GasGas EC 300 2025, vista lateral", ancho: 600, alto: 338 },
     ],
     videoId: "wdUUQBSsGbU",
     videoCanal: "Michael Boggess",
-    fuenteNombre: "MP Racing (concesionario GasGas)",
-    fuenteUrl: "https://mpracing.es/776-enduro-gasgas",
+    fuenteNombre: "motofichas.com",
+    fuenteUrl: "https://www.motofichas.com/marcas/gasgas/ec-300-2025",
     analisisSlug: "gasgas-ec-300-2t-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       trucos: ["Sin premezcla: la bomba electrónica dosifica el aceite 2T (media 60:1); el testigo del cuadro avisa cuando el nivel baja (dato oficial GasGas)"]
