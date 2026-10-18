@@ -25149,7 +25149,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "T1 XWD",
       "Jetour T1 2025"
     ],
-    "readTime": 2
+    "readTime": 5
   },
   {
     "slug": "jetour-t1-i-dm-2025-precio-ficha-tecnica",
@@ -38856,13 +38856,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "xpeng-p7-electrico-precio-ficha-tecnica",
-    "title": "XPeng P7+: 350 kW desde 45.990 €",
-    "excerpt": "El XPeng P7+ ya se vende en España: 455 km de autonomía y carga de 446 kW desde 45.990 €.",
+    "title": "XPeng P7+: berlina eléctrica de 455 km por 45.990 €",
+    "excerpt": "El XPeng P7+ ya se vende en España: berlina eléctrica de 5,07 m, 455 km WLTP y carga ultrarrápida de 446 kW desde 45.990 €. Análisis completo.",
     "category": "Novedades Motor",
     "date": "2026-10-03",
     "locale": "all",
-    "heroSrc": "/media/xpeng-p7-electrico-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Berlina eléctrica premium azul oscuro cargando en una estación de carga ultrarrápida de noche",
+    "heroSrc": "/media/xpeng-p7-electrico-precio-ficha-tecnica-1.webp",
+    "heroAlt": "XPeng P7+ plateado, vista delantera de tres cuartos al aire libre",
     "keywords": [
       "XPeng P7+ precio España",
       "XPeng P7+ autonomía 455 km",
@@ -38871,7 +38871,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "XPeng P7+ vs Tesla Model 3",
       "XPeng España lanzamiento"
     ],
-    "readTime": 3
+    "readTime": 7
   },
   {
     "slug": "fiat-grande-panda-electrico-precio-ficha-tecnica",
@@ -39822,13 +39822,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "suzuki-v-strom-800-tech-2025-ficha-tecnica-precio",
-    "title": "Suzuki V-Strom 800 Tech 2025: precio y ficha",
+    "title": "Suzuki V-Strom 800 Tech: la trail de 84 CV por 10.699 €",
     "excerpt": "La Suzuki V-Strom 800 Tech 2025 desde 9.459 €: 83 CV, TFT de 5\", quickshifter, ficha técnica, etiqueta DGT y vídeo.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/suzuki-v-strom-800-tech-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Suzuki V-Strom 800 Tech 2025 amarilla en tres cuartos",
+    "heroSrc": "/media/suzuki-v-strom-800-tech-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Suzuki V-Strom 800 Tech negra y amarilla, vista lateral en estudio oficial",
     "keywords": [
       "suzuki v-strom 800 tech precio",
       "v-strom 800 tech 2025 ficha técnica",
@@ -39839,7 +39839,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "v-strom 800 tech",
       "v-strom 800 prueba"
     ],
-    "readTime": 2
+    "readTime": 5
   },
   {
     "slug": "suzuki-v-strom-650-2024-ficha-tecnica-precio",
@@ -43208,7 +43208,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "super duke r 190 cv",
       "ktm the beast 2024"
     ],
-    "readTime": 3
+    "readTime": 5
   },
   {
     "slug": "ktm-990-duke-r-2025-ficha-tecnica-precio",
@@ -47814,13 +47814,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "sym-adxtg-400-2025-ficha-tecnica-precio",
-    "title": "SYM ADXTG 400 2025: precio y ficha técnica",
+    "title": "SYM ADXTG 400: el scooter trail de 35 CV por 5.999 €",
     "excerpt": "El SYM ADXTG 400 2025 por 5.999 €: 399 cc, 35 CV y el crossover más potente de SYM. Ficha técnica completa.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/sym-adxtg-400-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "SYM ADXTG 400 en carretera de montaña",
+    "heroSrc": "/media/sym-adxtg-400-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "SYM ADXTG 400 blanco, vista delantera de tres cuartos",
     "keywords": [
       "sym adxtg 400 2025 precio",
       "adxtg 400 ficha técnica",
@@ -47829,7 +47829,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "sym 400 adventure",
       "adxtg 400 vs adx 300"
     ],
-    "readTime": 2
+    "readTime": 4
   },
   {
     "slug": "sym-adx-125-2025-ficha-tecnica-precio",
@@ -48698,7 +48698,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "gasgas-ec-300-2t-2025-ficha-tecnica-precio",
-    "title": "GasGas EC 300 2025: precio y ficha técnica",
+    "title": "GasGas EC 300 2025: la enduro 2T de 293 cc por 10.315 €",
     "excerpt": "La GasGas EC 300 2025 cuesta 10.315 €: 293 cc 2T con inyección, 107,6 kg, homologada Euro5+. Ficha técnica, precio y rivales.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
@@ -48715,7 +48715,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "gasgas ec 300 peso",
       "mejor enduro 300 2025"
     ],
-    "readTime": 3
+    "readTime": 5
   },
   {
     "slug": "gasgas-ec-250-2t-2025-ficha-tecnica-precio",
@@ -50336,13 +50336,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "kawasaki-z500-2025-ficha-tecnica-precio",
-    "title": "Kawasaki Z500 2025: precio y ficha técnica",
+    "title": "Kawasaki Z500 2025: la naked A2 de 45,4 CV por 6.350 €",
     "excerpt": "La Kawasaki Z500 2025 desde 6.350 €: 45,4 CV, 168 kg y carnet A2. Ficha técnica, precio en España y etiqueta DGT.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/kawasaki-z500-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Kawasaki Z500 2025 verde en ciudad",
+    "heroSrc": "/media/kawasaki-z500-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Kawasaki Z500 2025 negra, vista lateral en estudio oficial",
     "keywords": [
       "kawasaki z500 2025 precio",
       "z500 2025 ficha técnica",
@@ -50353,7 +50353,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "z500 vs mt-03",
       "kawasaki z500 2025"
     ],
-    "readTime": 2
+    "readTime": 5
   },
   {
     "slug": "kawasaki-ninja-zx-6r-2025-ficha-tecnica-precio",
@@ -52774,7 +52774,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "zontes-368g-2025-ficha-tecnica-precio",
-    "title": "Zontes 368G 2025: precio y ficha técnica",
+    "title": "Zontes 368G 2025: el scooter más vendido por 5.592 €",
     "excerpt": "La Zontes 368G 2025 desde 4.888 €: scooter crossover A2 de 38,8 CV, llantas de radios, cámara HD, ABS desconectable y 17,5 L de depósito.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
@@ -52791,7 +52791,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "368g vs adv350",
       "scooter trail barato"
     ],
-    "readTime": 3
+    "readTime": 5
   },
   {
     "slug": "zontes-703f-2025-ficha-tecnica-precio",
@@ -52816,13 +52816,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "zontes-368m-2025-ficha-tecnica-precio",
-    "title": "Zontes 368M 2025: precio y ficha técnica",
+    "title": "Zontes 368M 2025: scooter A2 de 38,8 CV por 4.192 €",
     "excerpt": "La Zontes 368M 2025 desde 4.192 €: scooter deportivo A2 de 38,8 CV, solo 163 kg en seco, modos de conducción y TFT de 6,75 pulgadas con mirroring.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/zontes-368m-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Zontes 368M 2025 scooter deportivo en ciudad",
+    "heroSrc": "/media/zontes-368m-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Zontes 368M 2025 negra, vista delantera de tres cuartos",
     "keywords": [
       "zontes 368m precio",
       "368m 2025 ficha técnica",
@@ -52833,7 +52833,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "368m vs 368g",
       "scooter tft barato"
     ],
-    "readTime": 3
+    "readTime": 5
   },
   {
     "slug": "zontes-gk125-2025-ficha-tecnica-precio",
@@ -66238,11 +66238,11 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "porsche-911-carrera-2026-precio-ficha-tecnica",
     "title": "Porsche 911 Carrera 2026: precio y ficha técnica",
-    "excerpt": "Precio del Porsche 911 Carrera 2026 en España: 157.835 €. 394 CV, 0-100 en 4,1 s y 294 km/h. Ficha técnica completa del 992.2.",
+    "excerpt": "Precio del Porsche 911 Carrera 2026 en España: 159.511 €. 394 CV, 0-100 en 4,1 s y 294 km/h. Ficha técnica completa del 992.2.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/porsche-911-carrera-2026-precio-ficha-tecnica-hero.webp",
+    "heroSrc": "/media/porsche-911-carrera-2026-precio-ficha-tecnica-1.webp",
     "heroAlt": "Porsche 911 Carrera 2026 plateado en carretera de montaña",
     "keywords": [
       "porsche 911 carrera 2026",
@@ -66252,7 +66252,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "porsche 911 precio españa",
       "deportivo porsche"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "porsche-911-carrera-t-2026-precio-ficha-tecnica",
@@ -66951,6 +66951,253 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Tracer 9 GT ficha técnica",
       "sport touring Yamaha",
       "Tracer 9 120 CV"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "yamaha-mt-09-2024-ficha-tecnica-precio",
+    "title": "Yamaha MT-09 2024: la naked de 119 CV por 11.299 €",
+    "excerpt": "La Yamaha MT-09 2024: tricilíndrico CP3 de 890 cc con 119 CV, IMU de 6 ejes y 193 kg por 11.299 €. Análisis completo de la naked japonesa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/yamaha-mt-09-2024-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Yamaha MT-09 2024 Midnight Cyan, vista delantera de tres cuartos",
+    "keywords": [
+      "yamaha mt-09 2024 precio",
+      "mt-09 2024 ficha técnica",
+      "yamaha mt-09 119 cv",
+      "naked 119 cv 2024",
+      "mt-09 opiniones",
+      "yamaha mt-09 vs street triple"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "honda-xl750-transalp-2024-ficha-tecnica-precio",
+    "title": "Honda XL750 Transalp 2024: la trail de 92 CV por 11.000 €",
+    "excerpt": "La Honda XL750 Transalp 2024: bicilíndrico de 755 cc con 92 CV, 208 kg y 11.000 €. Análisis completo de la trail media japonesa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/honda-xl750-transalp-2024-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Honda XL750 Transalp 2024 gris, vista lateral en estudio",
+    "keywords": [
+      "honda transalp 750 2024 precio",
+      "xl750 transalp ficha técnica",
+      "transalp 750 92 cv",
+      "trail media 2024 comparativa",
+      "transalp vs v-strom 800",
+      "honda transalp opiniones"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "cupra-formentor-2024-precio-ficha-tecnica",
+    "title": "Cupra Formentor 2024: el SUV coupé de 150 CV por 33.060 €",
+    "excerpt": "El Cupra Formentor 2024 restyling: 1.5 TSI de 150 CV desde 33.060 €, e-Hybrid con 125 km eléctricos y hasta 333 CV. Análisis completo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/cupra-formentor-2024-precio-ficha-tecnica-1.webp",
+    "heroAlt": "Cupra Formentor 2024, vista delantera de tres cuartos",
+    "keywords": [
+      "cupra formentor 2024 precio",
+      "formentor 2024 ficha técnica",
+      "cupra formentor 1.5 tsi 150",
+      "formentor e-hybrid 2024",
+      "cupra formentor opiniones",
+      "formentor vs tucson"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "yamaha-yzf-r7-2024-ficha-tecnica-precio",
+    "title": "Yamaha R7 2024: la deportiva de 73 CV por 9.799 €",
+    "excerpt": "Yamaha YZF-R7 2024: motor CP2 de 689 cc y 73,4 CV, 188 kg y precio de 9.799 €. La deportiva A2 japonesa con mejor relación calidad-precio.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/yamaha-yzf-r7-2024-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Yamaha YZF-R7 2024 azul en acción",
+    "keywords": [
+      "yamaha r7 2024 precio",
+      "yzf-r7 ficha técnica",
+      "yamaha r7 73 cv",
+      "r7 vs cbr650r",
+      "yamaha r7 a2",
+      "deportiva 73 cv 2024"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "renault-rafale-2024-precio-ficha-tecnica",
+    "title": "Renault Rafale 2024: 200 CV híbridos por 44.225 €",
+    "excerpt": "Renault Rafale E-Tech 200 CV: el SUV coupé fabricado en España con 4,8 L/100 km, etiqueta ECO y 530 L de maletero. Análisis completo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/renault-rafale-2024-precio-ficha-tecnica-1.webp",
+    "heroAlt": "Renault Rafale azul, tres cuartos delantero",
+    "keywords": [
+      "renault rafale 2024 precio",
+      "rafale e-tech 200 ficha técnica",
+      "renault rafale opiniones",
+      "rafale vs austral",
+      "rafale híbrido consumo",
+      "suv coupé híbrido 2024"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "honda-cbr600rr-2024-ficha-tecnica-precio",
+    "title": "Honda CBR600RR 2024: 119 CV por 13.200 €",
+    "excerpt": "Honda CBR600RR 2024: el regreso de la supersport con 599 cc, 119 CV, IMU de 6 ejes y quickshifter por 13.200 €. Análisis completo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/honda-cbr600rr-2024-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Honda CBR600RR 2024 roja, tres cuartos delantero",
+    "keywords": [
+      "honda cbr600rr 2024 precio",
+      "cbr600rr ficha técnica",
+      "cbr600rr 119 cv",
+      "cbr600rr vs zx-6r",
+      "supersport 600 2024",
+      "honda cbr600rr opiniones"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "dacia-spring-2024-precio-ficha-tecnica",
+    "title": "Dacia Spring 2024: el eléctrico de 17.636 €",
+    "excerpt": "Dacia Spring 2024: el eléctrico más barato de España desde 17.636 €, 225 km de autonomía y etiqueta Cero. Análisis completo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/dacia-spring-2024-precio-ficha-tecnica-1.webp",
+    "heroAlt": "Dacia Spring 2024 beige, tres cuartos delantero en marcha",
+    "keywords": [
+      "dacia spring 2024 precio",
+      "spring 45 ficha técnica",
+      "dacia spring autonomía",
+      "spring vs leapmotor t03",
+      "coche eléctrico barato 2024",
+      "dacia spring opiniones"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "sym-maxsym-tl-508-2024-ficha-tecnica-precio",
+    "title": "SYM Maxsym TL 508: 45,5 CV por 8.999 €",
+    "excerpt": "SYM Maxsym TL 508: maxiscooter deportivo con bicilíndrico de 508 cc y 45,5 CV, por 8.999 € con seguro gratis. Análisis completo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/sym-maxsym-tl-508-2024-ficha-tecnica-precio-1.webp",
+    "heroAlt": "SYM Maxsym TL 508 blanco, tres cuartos",
+    "keywords": [
+      "sym maxsym tl 508 precio",
+      "maxsym tl 508 ficha técnica",
+      "maxsym tl 508 opiniones",
+      "maxsym tl vs tmax",
+      "maxiscooter deportivo 2024",
+      "sym 508 cv"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "gasgas-sm-700-2024-ficha-tecnica-precio",
+    "title": "GASGAS SM 700 2024: 74 CV por 10.749 €",
+    "excerpt": "GASGAS SM 700 2024: la supermotard con el LC4 de 692 cc y 74 CV, por 10.749 €. La diversión en estado puro, limitable a A2.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/gasgas-sm-700-2024-ficha-tecnica-precio-1.webp",
+    "heroAlt": "GASGAS SM 700 roja, vista lateral",
+    "keywords": [
+      "gasgas sm 700 precio",
+      "sm 700 ficha técnica",
+      "gasgas sm 700 74 cv",
+      "sm 700 vs 690 smc r",
+      "supermotard 700 2024",
+      "gasgas sm 700 opiniones"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "pursang-e-track-ficha-tecnica-precio",
+    "title": "Pursang E-Track: la eléctrica española de 8.400 €",
+    "excerpt": "Pursang E-Track: la moto eléctrica española con 11 kW, 140 km de autonomía y diseño flat-tracker. La marca cerró en 2024: solo de ocasión.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/pursang-e-track-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Pursang E-Track, vista lateral",
+    "keywords": [
+      "pursang e-track precio",
+      "pursang e-track ficha técnica",
+      "pursang motorcycles liquidación",
+      "moto eléctrica española",
+      "pursang e-track autonomía",
+      "e-track 11 kw"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "can-am-pulse-ficha-tecnica-precio",
+    "title": "Can-Am Pulse: 47 CV eléctricos por 13.199 €",
+    "excerpt": "Can-Am Pulse: la naked eléctrica canadiense con 47 CV, 160 km de autonomía y 3,8 s de 0 a 100, desde 13.199 €. Análisis completo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/can-am-pulse-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Can-Am Pulse negro carbono, tres cuartos",
+    "keywords": [
+      "can-am pulse precio",
+      "can-am pulse ficha técnica",
+      "can-am pulse 47 cv",
+      "can-am pulse autonomía",
+      "moto eléctrica naked 2025",
+      "can-am pulse opiniones"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "yamaha-niken-gt-2025-ficha-tecnica-precio",
+    "title": "Yamaha Niken GT 2025: 115 CV por 17.749 €",
+    "excerpt": "Yamaha Niken GT 2025: la única moto de 3 ruedas que tumba como una normal, con el CP3 de 890 cc y 115 CV, desde 17.749 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/yamaha-niken-gt-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Yamaha Niken GT, vista estática en montaña",
+    "keywords": [
+      "yamaha niken gt 2025 precio",
+      "niken gt ficha técnica",
+      "niken gt 115 cv",
+      "moto tres ruedas yamaha",
+      "niken gt opiniones",
+      "niken gt vs tracer 9"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "peugeot-2008-2024-precio-ficha-tecnica",
+    "title": "Peugeot 2008 Hybrid 2024: 136 CV por 24.990 €",
+    "excerpt": "Peugeot 2008 2024: el B-SUV francés con Hybrid 136, etiqueta ECO y 4,9 l/100 km, desde 24.990 €. Análisis completo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/peugeot-2008-2024-precio-ficha-tecnica-1.webp",
+    "heroAlt": "Peugeot 2008 2024 naranja, tres cuartos",
+    "keywords": [
+      "peugeot 2008 2024 precio",
+      "2008 hybrid 136 ficha técnica",
+      "peugeot 2008 opiniones",
+      "2008 vs captur",
+      "peugeot 2008 maletero",
+      "e-2008 156 autonomía"
     ],
     "readTime": 5
   },
@@ -72873,7 +73120,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Tank 500 precio",
       "rival Land Cruiser chino"
     ],
-    "readTime": 2
+    "readTime": 5
   },
   {
     "slug": "tank-500-hev-2024-precio-ficha-tecnica",
@@ -75354,13 +75601,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "xiaomi-yu7-max-2025-precio-ficha-tecnica",
-    "title": "Xiaomi YU7 Max: 690 CV y 3,23 s por ~42.900 €",
-    "excerpt": "El Xiaomi YU7 Max: 690 CV, 866 Nm, 0-100 en 3,23 s y 760 km CLTC por ~42.900 € en China. El SUV eléctrico más bestia de su precio.",
+    "title": "Xiaomi YU7 Max: 690 CV, 760 km y 3,23 s por 42.900 €",
+    "excerpt": "El Xiaomi YU7 Max: 690 CV, 0-100 en 3,23 s y 760 km CLTC por ~42.900 € en China. El SUV eléctrico más bestia de su precio; a Europa en 2027.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/xiaomi-yu7-max-2025-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Xiaomi YU7 Max en autopista costera\\",
+    "heroSrc": "/media/xiaomi-yu7-max-2025-precio-ficha-tecnica-1.webp",
+    "heroAlt": "Xiaomi YU7 Max plateado, trasera de tres cuartos en estudio",
     "keywords": [
       "Xiaomi YU7 Max",
       "YU7 Max precio",
@@ -75369,7 +75616,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "YU7 Max 0-100",
       "Xiaomi YU7 Max ficha técnica"
     ],
-    "readTime": 2
+    "readTime": 5
   },
   {
     "slug": "xiaomi-skynomad-n70-pro-2026-precio-ficha-tecnica",
