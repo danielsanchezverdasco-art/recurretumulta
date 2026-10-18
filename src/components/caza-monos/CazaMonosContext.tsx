@@ -18,7 +18,7 @@ const ScoreReporter = lazy(() => import("./ScoreReporter.tsx"));
 
 export const TEMPORADA_ACTUAL = 1; // Temporada 1: octubre 2026
 export const MONOS_OBJETIVO = 350; // meta de la Temporada 1 (ampliada de 250 a 350 el 13/10/2026)
-export const MONOS_TOTAL_COLOCADOS = TOTAL_MONOS_ALEATORIOS + TOTAL_MONOS_FIJOS; // 350: 333 aleatorios + 1 legendario (cuenta igual) + 16 fijos
+export const MONOS_TOTAL_COLOCADOS = TOTAL_MONOS_ALEATORIOS + TOTAL_MONOS_FIJOS; // 351: 334 aleatorios + 1 legendario (cuenta igual) + 17 fijos (18/10/2026: +ficha-caravana)
 const STORAGE_KEY = "cosa-monos-encontrados";
 const UUID_KEY = "cosa-cazador-id"; // spec de Daniel 05/10/2026
 const APODO_KEY = "cosa-cazador-apodo"; // spec de Daniel 05/10/2026

@@ -9671,6 +9671,595 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 4
   },
   {
+    "slug": "hobby-de-luxe-540-ul-2026-precio-ficha-tecnica",
+    "title": "Hobby De Luxe 540 UL 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Hobby De Luxe 540 UL: la caravana más vendida de Europa, 4 plazas, camas individuales, 1.800 kg de MMA y carnet B96 desde ~34.500 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/hobby-de-luxe-540-ul-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "\\\"Hobby De Luxe 540 UL, caravana\\",
+    "keywords": [
+      "Hobby De Luxe 540 UL",
+      "De Luxe 540 UL precio",
+      "Hobby De Luxe ficha técnica",
+      "caravana 4 plazas Hobby",
+      "caravana más vendida Europa",
+      "Hobby De Luxe vs Excellent"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "knaus-sport-500-qdk-2026-precio-ficha-tecnica",
+    "title": "Knaus Sport 500 QDK 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Knaus Sport 500 QDK: caravana familiar con litera doble, 4 plazas, 1.800 kg de MMA y carnet B96 desde ~31.000 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/knaus-sport-500-qdk-2026.webp",
+    "heroAlt": "\\\"Knaus Sport 500 QDK, caravana familiar\\",
+    "keywords": [
+      "Knaus Sport 500 QDK",
+      "Sport 500 QDK precio",
+      "Knaus Sport ficha técnica",
+      "caravana litera doble",
+      "caravana familiar 4 plazas",
+      "Knaus Sport vs Hobby"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "adria-aviva-522-pt-2026-precio-ficha-tecnica",
+    "title": "Adria Aviva 522 PT 2026: precio, ficha técnica, 6 plazas",
+    "excerpt": "Precio y ficha de la Adria Aviva 522 PT 2026: caravana familiar de 7,06 m, 6 plazas, cama doble y literas, 1.500 kg de MMA y carnet B96 desde ~23.500 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/adria-aviva-522-pt-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "\\\"Adria Aviva 522 PT 2026, caravana familiar\\",
+    "keywords": [
+      "Adria Aviva 522 PT 2026",
+      "Aviva 522 PT precio",
+      "Adria Aviva ficha técnica",
+      "caravana 6 plazas Adria",
+      "Aviva 522 PT vs Hobby",
+      "caravana familiar barata"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "adria-action-361-lh-2026-precio-ficha-tecnica",
+    "title": "Adria Action 361 LH 2026: precio, ficha y caravana icono",
+    "excerpt": "Precio y ficha de la Adria Action 361 LH 2026: la caravana icono de 5,19 m, 2 plazas, 1.400 kg de MMA, baño con ducha y carnet B (conjunto ≤3.500 kg) desde ~23.000 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/adria-action-361-lh-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Adria Action 361 LH 2026, caravana icono\\",
+    "keywords": [
+      "Adria Action 361 LH 2026",
+      "Action 361 LH precio",
+      "Adria Action ficha técnica",
+      "caravana icono Adria",
+      "Action 361 LH vs 391",
+      "caravana ligera 2 plazas"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "burstner-premio-life-480-ts-2026-precio-ficha-tecnica",
+    "title": "Caravana con cama king de 200 cm: precio y ficha técnica",
+    "excerpt": "Precio y ficha de la Bürstner Premio Life 480 TS 2026: caravana con cama king de 200x160 cm, 3 plazas, carnet B y precio orientativo desde ~22.000 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/burstner-premio-life-480-ts-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Bürstner Premio Life 480 TS 2026, caravana\\",
+    "keywords": [
+      "Bürstner Premio Life 480 TS 2026",
+      "Premio Life 480 TS precio",
+      "Bürstner Premio Life ficha técnica",
+      "caravana cama king size",
+      "caravana 3 plazas carnet B",
+      "caravana barata Bürstner"
+    ],
+    "readTime": 6
+  },
+  {
+    "slug": "dethleffs-camper-560-fmk-2026-precio-ficha-tecnica",
+    "title": "Dethleffs Camper 560 FMK 2026: precio, ficha y 6 plazas",
+    "excerpt": "Precio y ficha de la Dethleffs Camper 560 FMK 2026: la familiar alemana con hasta 6 plazas, literas, 1.700 kg de MMA y 2,50 m de ancho desde 36.790 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/dethleffs-camper-560-fmk-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Dethleffs Camper 560 FMK, caravana familiar\\",
+    "keywords": [
+      "Dethleffs Camper 560 FMK",
+      "Camper 560 FMK precio",
+      "Dethleffs Camper ficha técnica",
+      "caravana 6 plazas familiar",
+      "Dethleffs Camper 2026",
+      "caravana literas 2026"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "fendt-bianco-activ-550-sd-2026-precio-ficha-tecnica",
+    "title": "Fendt Bianco Activ 550 SD 2026: precio, ficha y 4 plazas",
+    "excerpt": "Precio y ficha de la Fendt Bianco Activ 550 SD 2026: ducha separada, baño trasero, cama francesa, Truma Combi 6 y 2.000 kg de MMA desde ~32.500 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/fendt-bianco-activ-550-sd-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "\\\"Fendt Bianco Activ 550 SD, caravana\\",
+    "keywords": [
+      "Fendt Bianco Activ 550 SD",
+      "Bianco Activ 550 SD precio",
+      "Fendt Bianco ficha técnica",
+      "caravana ducha separada",
+      "Fendt Bianco Activ 2026",
+      "caravana premium 4 plazas"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "eriba-touring-542-2026-precio-ficha-tecnica",
+    "title": "Eriba Touring 542 2026: precio, ficha técnica y 3 plazas",
+    "excerpt": "Precio y ficha de la Eriba Touring 542 2026: el icono con techo elevable, 5,99 m, 985 kg, 3 plazas y carnet B desde 21.290 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/eriba-touring-542-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "\\\"Eriba Touring 542, caravana compacta\\",
+    "keywords": [
+      "Eriba Touring 542",
+      "Touring 542 precio",
+      "Eriba Touring ficha técnica",
+      "caravana techo elevable",
+      "Eriba Touring 2026",
+      "caravana compacta 3 plazas"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "knaus-sport-450-fu-2026-precio-ficha-tecnica",
+    "title": "Knaus Sport 450 FU 2026: precio, ficha técnica, 4 plazas",
+    "excerpt": "Precio y ficha de la Knaus Sport 450 FU 2026: cama francesa, 4 plazas en 6,72 m, 1.350 kg de MMA y techo anti-granizo desde ~25.000 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/knaus-sport-450-fu-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "\\\"Knaus Sport 450 FU, caravana compacta\\",
+    "keywords": [
+      "Knaus Sport 450 FU",
+      "Sport 450 FU precio",
+      "Knaus Sport ficha técnica",
+      "caravana compacta 4 plazas",
+      "Knaus Sport 450 FU 2026",
+      "caravana barata alemana"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "hobby-prestige-560-ul-2026-precio-ficha-tecnica",
+    "title": "Hobby Prestige 560 UL 2026: precio, ficha y camas gemelas",
+    "excerpt": "Precio y ficha de la Hobby Prestige 560 UL 2026: caravana de 7,57 m con camas individuales, Truma Combi 6 y baño trasero desde ~32.000 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/hobby-prestige-560-ul-2026-precio-ficha-tecnica-tecnica.webp",
+    "heroAlt": "\\\"Hobby Prestige 560 UL 2026, caravana\\",
+    "keywords": [
+      "Hobby Prestige 560 UL 2026",
+      "Prestige 560 UL precio",
+      "Hobby Prestige 560 ficha técnica",
+      "caravana camas individuales",
+      "Hobby Prestige 560 plazas",
+      "caravana 7,57 metros"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "weinsberg-caraone-550-qdk-2026-precio-ficha-tecnica",
+    "title": "Weinsberg CaraOne 550 QDK 2026: precio, ficha y 5 plazas",
+    "excerpt": "Precio y ficha de la Weinsberg CaraOne 550 QDK 2026: caravana familiar de 7,59 m con 5 plazas, literas y cama transversal desde 23.530 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/weinsberg-caraone-550-qdk-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "\\\"Weinsberg CaraOne 550 QDK 2026, caravana familiar\\",
+    "keywords": [
+      "Weinsberg CaraOne 550 QDK 2026",
+      "CaraOne 550 QDK precio",
+      "Weinsberg CaraOne ficha técnica",
+      "caravana 5 plazas literas",
+      "CaraOne 550 QDK plazas",
+      "caravana familiar barata"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "dethleffs-beduin-scandinavia-550-bet-2026-precio-ficha-tecnica",
+    "title": "Dethleffs Beduin Scandinavia 550 BET: precio y ficha",
+    "excerpt": "Precio y ficha del Dethleffs Beduin Scandinavia 550 BET 2026: caravana premium de 8,06 m con calefacción Alde, 3 plazas y 1.800 kg de MMA desde 43.199 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/dethleffs-beduin-scandinavia-550-bet-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Dethleffs Beduin Scandinavia 550 BET 2026, caravana premium\\",
+    "keywords": [
+      "Dethleffs Beduin Scandinavia 550 BET",
+      "Beduin 550 BET precio",
+      "Dethleffs Beduin ficha técnica",
+      "caravana con calefacción Alde",
+      "Beduin Scandinavia 2026",
+      "caravana premium invierno"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "dethleffs-nomad-560-fmk-2026-precio-ficha-tecnica",
+    "title": "Dethleffs Nomad 560 FMK 2026: precio, 6 plazas y ficha",
+    "excerpt": "Precio y ficha del Dethleffs Nomad 560 FMK 2026: caravana familiar de 8,18 m, 6 plazas, 2,50 m de ancho y 1.700 kg de MMA con carnet B desde 34.199 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/dethleffs-nomad-560-fmk-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Dethleffs Nomad 560 FMK 2026, caravana familiar\\",
+    "keywords": [
+      "Dethleffs Nomad 560 FMK",
+      "Nomad 560 FMK precio",
+      "Dethleffs Nomad ficha técnica",
+      "caravana 6 plazas Dethleffs",
+      "Nomad 560 FMK plazas",
+      "caravana familiar grande"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "burstner-averso-535-tl-2026-precio-ficha-tecnica",
+    "title": "Bürstner Averso 535 TL 2026: precio y ficha técnica",
+    "excerpt": "Precio y ficha del Bürstner Averso 535 TL 2026: caravana de 7,63 m con cama transversal, 4 plazas, baño con ducha y 1.600 kg de MMA desde 34.900 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/burstner-averso-535-tl-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "\\\"Bürstner Averso 535 TL 2026, caravana\\",
+    "keywords": [
+      "Bürstner Averso 535 TL",
+      "Averso 535 TL precio",
+      "Bürstner Averso ficha técnica",
+      "caravana cama transversal",
+      "Averso 535 TL plazas",
+      "caravana 4 plazas ducha"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "eriba-touring-530-2026-precio-ficha-tecnica",
+    "title": "Eriba Touring 530 2026: precio, techo elevable y ficha",
+    "excerpt": "Precio y ficha de la Eriba Touring 530 2026: la caravana icono con techo elevable, 5,99 m, 3 plazas, 1.300 kg de MMA y 2,27 m de alto desde 20.690 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/eriba-touring-530-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "\\\"Eriba Touring 530 2026, caravana con techo elevable\\",
+    "keywords": [
+      "Eriba Touring 530",
+      "Touring 530 precio",
+      "Eriba Touring ficha técnica",
+      "caravana techo elevable",
+      "Touring 530 plazas",
+      "caravana compacta icono"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "dethleffs-cgo-495-qsk-2026-precio-ficha-tecnica",
+    "title": "Dethleffs c'go 495 QSK 2026: precio y ficha familiar",
+    "excerpt": "Precio y ficha del Dethleffs c'go 495 QSK 2026: caravana familiar de 7,14 m, 6 plazas con literas, 1.360 kg de MMA ampliables y Truma desde 23.999 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/dethleffs-cgo-495-qsk-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Dethleffs c'go 495 QSK 2026, caravana familiar\\",
+    "keywords": [
+      "Dethleffs c'go 495 QSK",
+      "c'go 495 QSK precio",
+      "Dethleffs c'go ficha técnica",
+      "caravana 6 plazas barata",
+      "c'go 495 QSK plazas",
+      "caravana familiar Dethleffs"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "weinsberg-caraone-390-qd-2026-precio-ficha-tecnica",
+    "title": "Weinsberg CaraOne 390 QD: precio, 16.650 € y ficha técnica",
+    "excerpt": "Precio y ficha de la Weinsberg CaraOne 390 QD: 16.650 € oficiales, 4 plazas, 1.200 kg de MMA, carnet B y 257 kg de carga útil.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/weinsberg-caraone-390-qd-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "\\\"Weinsberg CaraOne 390 QD, caravana\\",
+    "keywords": [
+      "Weinsberg CaraOne 390 QD",
+      "CaraOne 390 QD precio",
+      "Weinsberg CaraOne ficha técnica",
+      "caravana 4 plazas barata",
+      "caravana carnet B",
+      "Weinsberg CaraOne 390 QD opiniones"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "weinsberg-caraone-400-lk-2026-precio-ficha-tecnica",
+    "title": "Weinsberg CaraOne 400 LK: precio, literas y ficha técnica",
+    "excerpt": "Precio y ficha de la Weinsberg CaraOne 400 LK: 16.790 € oficiales, literas para niños, 4-5 plazas, 1.200 kg de MMA y carnet B.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/weinsberg-caraone-400-lk-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "\\\"Weinsberg CaraOne 400 LK, caravana\\",
+    "keywords": [
+      "Weinsberg CaraOne 400 LK",
+      "CaraOne 400 LK precio",
+      "caravana con literas barata",
+      "Weinsberg CaraOne ficha técnica",
+      "caravana familiar carnet B",
+      "CaraOne 400 LK opiniones"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "weinsberg-caraone-450-fu-2026-precio-ficha-tecnica",
+    "title": "Weinsberg CaraOne 450 FU: precio y ficha técnica 2026",
+    "excerpt": "Precio y ficha de la Weinsberg CaraOne 450 FU: 20.290 € oficiales, salón en U, 4 plazas, 1.350 kg de MMA y 297 kg de carga útil.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/weinsberg-caraone-450-fu-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "\\\"Weinsberg CaraOne 450 FU, caravana\\",
+    "keywords": [
+      "Weinsberg CaraOne 450 FU",
+      "CaraOne 450 FU precio",
+      "caravana salón en U",
+      "Weinsberg CaraOne ficha técnica",
+      "caravana 4 plazas 2026",
+      "CaraOne 450 FU opiniones"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "weinsberg-caraone-480-eu-2026-precio-ficha-tecnica",
+    "title": "Weinsberg CaraOne 480 EU: precio, 21.450 € y ficha técnica",
+    "excerpt": "Precio y ficha de la Weinsberg CaraOne 480 EU: 21.450 € oficiales, cama isla, 4 plazas, 1.350 kg de MMA y carnet B.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/weinsberg-caraone-480-eu-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "\\\"Weinsberg CaraOne 480 EU, caravana\\",
+    "keywords": [
+      "Weinsberg CaraOne 480 EU",
+      "CaraOne 480 EU precio",
+      "caravana cama isla barata",
+      "Weinsberg CaraOne ficha técnica",
+      "caravana 4 plazas cama isla",
+      "CaraOne 480 EU opiniones"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "dethleffs-cjoy-480-qlk-2026-precio-ficha-tecnica",
+    "title": "Dethleffs c'joy 480 QLK: precio, 6 plazas y ficha técnica",
+    "excerpt": "Precio y ficha del Dethleffs c'joy 480 QLK: 21.999 € oficiales, 5-6 plazas con literas, 1.300 kg de MMA y 232 kg de carga útil.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/dethleffs-cjoy-480-qlk-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "\\\"Dethleffs c'joy 480 QLK, caravana\\",
+    "keywords": [
+      "Dethleffs c'joy 480 QLK",
+      "c'joy 480 QLK precio",
+      "Dethleffs c'joy ficha técnica",
+      "caravana 6 plazas barata",
+      "caravana familiar 2026",
+      "c'joy 480 QLK opiniones"
+    ],
+    "readTime": 2
+  },
+  {
+    "slug": "dethleffs-cjoy-420-qsh-2026-precio-ficha-tecnica",
+    "title": "Dethleffs c'joy 420 QSH: precio y ficha técnica 2026",
+    "excerpt": "Precio y ficha del Dethleffs c'joy 420 QSH: 18.999 € oficiales, 3 plazas, 1.100 kg de MMA, carnet B y solo 927 kg.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/dethleffs-cjoy-420-qsh-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "\\\"Dethleffs c'joy 420 QSH, caravana\\",
+    "keywords": [
+      "Dethleffs c'joy 420 QSH",
+      "c'joy 420 QSH precio",
+      "Dethleffs c'joy ficha técnica",
+      "caravana ligera 2026",
+      "caravana 3 plazas",
+      "c'joy 420 QSH opiniones"
+    ],
+    "readTime": 2
+  },
+  {
+    "slug": "dethleffs-cjoy-460-le-2026-precio-ficha-tecnica",
+    "title": "Dethleffs c'joy 460 LE: precio y ficha técnica 2026",
+    "excerpt": "Precio y ficha del Dethleffs c'joy 460 LE: 20.999 € oficiales, 3 plazas, 1.200 kg de MMA, carnet B y 247 kg de carga útil.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/dethleffs-cjoy-460-le-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "\\\"Dethleffs c'joy 460 LE, caravana\\",
+    "keywords": [
+      "Dethleffs c'joy 460 LE",
+      "c'joy 460 LE precio",
+      "Dethleffs c'joy ficha técnica",
+      "caravana pareja 2026",
+      "caravana 3 plazas Dethleffs",
+      "c'joy 460 LE opiniones"
+    ],
+    "readTime": 2
+  },
+  {
+    "slug": "burstner-premio-plus-510-tk-2026-precio-ficha-tecnica",
+    "title": "Bürstner Premio Plus 510 TK: precio, 7 plazas y ficha",
+    "excerpt": "Precio y ficha del Bürstner Premio Plus 510 TK: 29.360 € oficiales, 7 plazas con cama abatible, 1.500 kg de MMA y nevera de 142 l.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/burstner-premio-plus-510-tk-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Bürstner Premio Plus 510 TK, caravana\\",
+    "keywords": [
+      "Bürstner Premio Plus 510 TK",
+      "Premio Plus 510 TK precio",
+      "Bürstner Premio Plus ficha técnica",
+      "caravana 7 plazas",
+      "caravana cama abatible",
+      "Premio Plus 510 TK opiniones"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "burstner-premio-life-415-tk-2026-precio-ficha-tecnica",
+    "title": "Bürstner Premio Life 415 TK: precio y ficha técnica",
+    "excerpt": "Precio y ficha del Bürstner Premio Life 415 TK: 20.070 € oficiales, 4-5 plazas con literas, 1.100 kg de MMA y carnet B.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/burstner-premio-life-415-tk-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "\\\"Bürstner Premio Life 415 TK, caravana\\",
+    "keywords": [
+      "Bürstner Premio Life 415 TK",
+      "Premio Life 415 TK precio",
+      "Bürstner Premio Life ficha técnica",
+      "caravana literas Bürstner",
+      "caravana 5 plazas barata",
+      "Premio Life 415 TK opiniones"
+    ],
+    "readTime": 2
+  },
+  {
+    "slug": "eriba-feeling-425-2026-precio-ficha-tecnica",
+    "title": "Eriba Feeling 425: precio, techo elevable y ficha técnica",
+    "excerpt": "Precio y ficha del Eriba Feeling 425: 29.560 €, techo elevable, 3-5 plazas, 1.200 kg de MMA y carnet B.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/eriba-feeling-425-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "\\\"Eriba Feeling 425 con el techo elevable abierto\\",
+    "keywords": [
+      "Eriba Feeling 425",
+      "Feeling 425 precio",
+      "Eriba Feeling ficha técnica",
+      "caravana techo elevable",
+      "Eriba Feeling 425 opiniones",
+      "caravana compacta premium"
+    ],
+    "readTime": 2
+  },
+  {
+    "slug": "knaus-suedwind-500-fu-2026-precio-ficha-tecnica",
+    "title": "Knaus Südwind 500 FU 2026: precio, ficha técnica y 4 plazas",
+    "excerpt": "Precio y ficha de la Knaus Südwind 500 FU 2026: caravana familiar alemana con cama francesa, 4 plazas, 1.700 kg de MMA y carnet B96 desde ~34.000 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/knaus-suedwind-500-fu-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "\\\"Knaus Südwind 500 FU 2026, caravana familiar\\",
+    "keywords": [
+      "Knaus Südwind 500 FU 2026",
+      "Südwind 500 FU precio",
+      "Knaus Südwind ficha técnica",
+      "caravana cama francesa",
+      "Knaus Südwind vs Sport",
+      "caravana familiar alemana"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "fendt-bianco-selection-515-sg-2026-precio-ficha-tecnica",
+    "title": "Fendt Bianco Selection 515 SG 2026: precio y ficha",
+    "excerpt": "Precio y ficha de la Fendt Bianco Selection 515 SG 2026: camas individuales, 4 plazas, 1.700 kg de MMA y carnet B desde ~32.000 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/fendt-bianco-selection-515-sg-2026-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "\\\"Fendt Bianco Selection 515 SG 2026, salón\\",
+    "keywords": [
+      "Fendt Bianco Selection 515 SG",
+      "Bianco 515 SG precio",
+      "Fendt Bianco ficha técnica",
+      "caravana camas individuales",
+      "Fendt Bianco vs Knaus",
+      "caravana 4 plazas premium"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "hobby-ontour-390-sf-2026-precio-ficha-tecnica",
+    "title": "Hobby OnTour 390 SF 2026: precio, ficha y 4 plazas",
+    "excerpt": "Precio y ficha de la Hobby OnTour 390 SF 2026: la caravana más vendida para empezar, 4 plazas, 1.350 kg de MMA y carnet B desde ~21.980 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/hobby-ontour-390-sf-2026-precio-ficha-tecnica-tecnica.webp",
+    "heroAlt": "\\\"Hobby OnTour 390 SF 2026 en campa\\",
+    "keywords": [
+      "Hobby OnTour 390 SF 2026",
+      "OnTour 390 SF precio",
+      "Hobby OnTour ficha técnica",
+      "caravana barata 4 plazas",
+      "caravana para empezar",
+      "Hobby más vendida"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "adria-altea-542-pk-2026-precio-ficha-tecnica",
+    "title": "Adria Altea 542 PK 2026: precio, ficha técnica, 6 plazas",
+    "excerpt": "Precio y ficha de la Adria Altea 542 PK 2026: 6 plazas, 7,43 m, 1.500 kg de MMA y carnet B96 desde ~23.000 €. La familiar eslovena.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/adria-altea-542-pk-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "\\\"Adria Altea 542 PK 2026 en concesionario\\",
+    "keywords": [
+      "Adria Altea 542 PK 2026",
+      "Altea 542 PK precio",
+      "Adria Altea ficha técnica",
+      "caravana 6 plazas",
+      "Altea 542 PK vs Aviva",
+      "caravana familiar Adria"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "tabbert-senara-490-td-2026-precio-ficha-tecnica",
+    "title": "Tabbert Senara 490 TD 2026: precio, ficha y 4 plazas",
+    "excerpt": "Precio y ficha de la Tabbert Senara 490 TD 2026: caravana premium con cama francesa, 4 plazas, 1.700 kg de MMA y carnet B96 desde ~29.490 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/tabbert-senara-490-td-2026-precio-ficha-tecnica.webp",
+    "heroAlt": "\\\"Tabbert Senara 490 TD 2026, vista delantera\\",
+    "keywords": [
+      "Tabbert Senara 490 TD 2026",
+      "Senara 490 TD precio",
+      "Tabbert Senara ficha técnica",
+      "caravana premium Tabbert",
+      "Tabbert vs Fendt",
+      "caravana cama francesa 4 plazas"
+    ],
+    "readTime": 4
+  },
+  {
     "slug": "changan-e06-2026-precio-ficha-tecnica",
     "title": "Changan E06 2026: 450 km, 274 CV y 162 kW de carga",
     "excerpt": "El Changan E06 llega a Europa a finales de 2026: el Nevo Q05 con nombre europeo, 450 km WLTP, 274 CV, carga de 162 kW y 545 litros de maletero.",
@@ -57955,9 +58544,9 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 7
   },
   {
-    "slug": "frenar-antes-radar-multa-600-euros",
-    "title": "Multa por frenar ante el radar: 600€",
-    "excerpt": "Frenar bruscamente ante un radar es una infracción grave: 200 € y 4 puntos que se suman al exceso de velocidad. Así se multa y cómo recurrir.",
+    "slug": "frenar-antes-radar-multa-200-euros",
+    "title": "Multa por frenar ante el radar: 200 € (art. 53 RGC)",
+    "excerpt": "Frenar bruscamente ante un radar es una infracción grave de 200 € (sin pérdida de puntos) que se suma a la del exceso de velocidad. Así se multa y cómo recurrir.",
     "category": "Radares y Velocidad",
     "date": "2026-10-08",
     "locale": "es",

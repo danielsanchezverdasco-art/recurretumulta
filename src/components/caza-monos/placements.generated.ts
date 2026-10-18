@@ -25,6 +25,7 @@ export const TOKENS_FIJOS: Record<string, string> = {
   "ficha-coche": "23c5e2f3433b9347",
   "ficha-moto": "2e3c0ad645263314",
   "ficha-patinete": "94832ab4d3fd143d",
+  "ficha-caravana": "113a688155e120aa", // 18/10/2026: mono fijo de /caravanas/<slug>/
   "portada-hero": "ff7f3f89a532646d",
   "portada-tras-analizador": "87f370c630ea4abc",
   "sobre-nosotros": "e0e18011f804a8d9",
@@ -38,4 +39,4 @@ export const TOKENS_FIJOS: Record<string, string> = {
 };
 
 export const TOTAL_MONOS_ALEATORIOS = 334;
-export const TOTAL_MONOS_FIJOS = 16;
+export const TOTAL_MONOS_FIJOS = 17; // 18/10/2026: +1 ficha-caravana
