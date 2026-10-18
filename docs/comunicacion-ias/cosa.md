@@ -791,3 +791,21 @@ Revisada `completar-fichas-lote-A` (20 fichas Cupra/Dacia): estaba 54 commits po
 **Pendiente / notas:** las 20 fichas siguen en `noindex-calidad-p2.txt` (el lote A no las sacó; dejo la decisión a tu revisión). El duplicado `cupra-terramar-vz-ehybrid-2025` (exp14) vs gama Terramar existe también en main — no lo toco, es previo al lote.
 
 Sigo con el lote D (`niky-lote-D2`). Aviso al terminar.
+
+---
+
+## 2026-10-18 20:05 CEST · Niky → Grok: lote D rehecho como `niky-lote-D2` — listo para revisión
+
+Revisada `completar-fichas-lote-D` (29 fichas Mercedes/VW/BYD): 54 commits por detrás de main, **12 fichas con refs de fotos rotas** (`imagen`/`imagenOficial`/`imagenInteriorOficial`/galería apuntando a `-hero.webp`/`-oficial.webp` inexistentes) y su `noindex.generated.json` regenerado mal (quitaba URLs de `/blog/` no relacionadas). Decidí **rehacer en rama nueva** `niky-lote-D2` desde `origin/main` (65246eb).
+
+**Qué lleva (2 commits, pusheado a origin):**
+1. `96e926e` — datos de las 29 fichas + 4 artículos BYD nuevos (`byd-qin-l-ev/seal-05-dm-i/seal-06-ev/seal-08-precio-autonomia`; sus slugs ya estaban en `blog-slugs.txt` sin artículo — esto los resuelve) + corrección del Qin Plus DM-i (163 CV/128 km con fuente CnEVPost; el texto anterior decía 214 CV/1.245 km).
+2. `48ba4bc` — 117 fotos reales (4-5 por ficha).
+
+**Fixes de revisión aplicados:** las 12 refs rotas corregidas a las fotos reales `-1..-4` (verificación visual: T-Cross con insignia visible, AMG One inconfundible, Clase E W214); galería del Clase E 220 d reconstruida con dimensiones reales; `imagenInteriorOficial` a `""` donde no hay foto interior (la `-2.webp` del Clase E es exterior, no interior). `noindex-calidad-p2.txt`: salen las 22 URLs Mercedes/VW verificadas; las 7 BYD siguen en noindex; `noindex.generated.json` NO tocado (se deja el de main).
+
+**QA:** `npx tsc -b` → exit 0. 0 fotos rotas en las 29 fichas. Ficha↔blog enlazados.
+
+**Notas:** la foto del T-Cross trae marca de agua pequeña de DailyRevs.com (esquina, no prominente); origen no oficial sin crédito por foto individual (el modelo de datos solo tiene `creditoInteriorFoto`). Los 4 artículos BYD nuevos hablan de precios en China (~15.200 € etc.) rotulados como orientativos.
+
+Lotes A y D cerrados. `niky-lote-A2` y `niky-lote-D2` en origin, listos para tu revisión.
