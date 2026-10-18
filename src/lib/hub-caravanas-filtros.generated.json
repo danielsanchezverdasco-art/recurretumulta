@@ -41,8 +41,8 @@
   "modelo": "Premio Life 480 TS",
   "largoMm": 7080,
   "plazas": 3,
-  "precioDesde": 22000,
-  "precioAprox": true,
+  "precioDesde": null,
+  "precioAprox": false,
   "mmaKg": 1360,
   "carnetNecesario": "B",
   "imagen": "/media/burstner-premio-life-480-ts-2026-precio-ficha-tecnica-oficial.webp"
@@ -174,7 +174,7 @@
   "largoMm": 5990,
   "plazas": 3,
   "precioDesde": 21290,
-  "precioAprox": false,
+  "precioAprox": true,
   "mmaKg": 1300,
   "carnetNecesario": "B",
   "imagen": "/media/eriba-touring-542-2026-precio-ficha-tecnica.webp"
@@ -245,8 +245,8 @@
   "modelo": "Prestige 560 UL",
   "largoMm": 7570,
   "plazas": 4,
-  "precioDesde": 32000,
-  "precioAprox": true,
+  "precioDesde": null,
+  "precioAprox": false,
   "mmaKg": 2000,
   "carnetNecesario": "B96",
   "imagen": "/media/hobby-prestige-560-ul-2026-precio-ficha-tecnica-tecnica.webp"
