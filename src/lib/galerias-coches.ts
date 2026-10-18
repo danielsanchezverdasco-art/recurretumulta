@@ -400,9 +400,9 @@ export const GALERIAS_COCHES: Record<string, FotoCarrusel[]> = {
     { src: "/media/dacia-spring-baja-precio-octubre-2026-galeria-ia-2.webp", alt: "Vista trasera del SUV urbano eléctrico con piloto de ancho completo", credito: "Imagen editorial generada por IA" },
   ],
   "dacia-sandero-baja-precio-octubre-2026": [
-    { src: "/media/dacia-sandero-baja-precio-octubre-2026-hero.webp", alt: "Dacia Sandero azul circulando por una carretera española al atardecer", credito: "Imagen editorial generada por IA" },
-    { src: "/media/dacia-sandero-tce-100-oficial.webp", alt: "Dacia Sandero en fotografía oficial de la marca", credito: "Foto oficial de Dacia" },
-    { src: "/media/dacia-sandero-baja-precio-octubre-2026-galeria-ia-1.webp", alt: "Compacto asequible azul con luces diurnas en forma de Y en una plaza española", credito: "Imagen editorial generada por IA" },
+    { src: "/media/dacia-sandero-baja-precio-octubre-2026-hero.webp", alt: "Dacia Sandero 2026 en marcha", credito: "Foto de prensa (xerodrive.com)" },
+    { src: "/media/dacia-sandero-baja-precio-octubre-2026-oficial.webp", alt: "Dacia Sandero Stepway 2026 en estudio", credito: "Foto de prensa" },
+    { src: "/media/dacia-sandero-baja-precio-octubre-2026-interior.webp", alt: "Interior del Dacia Sandero 2026", credito: "Foto de prensa (carexpert.com.au)" },
   ],
   "hyundai-i20-baja-precio-octubre-2026": [
     { src: "/media/hyundai-i20-baja-precio-octubre-2026-hero.webp", alt: "Hyundai i20 rojo aparcado frente a un concesionario en España", credito: "Imagen editorial generada por IA" },
