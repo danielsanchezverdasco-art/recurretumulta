@@ -239,10 +239,10 @@ export interface CocheComparador {
   deCache?: boolean;
   /** 18/10/2026: versiones reales con precio (tabla en la ficha). Sin dato = no se muestra. Nunca inventar. */
   /** 18/10/2026: ciclo de homologación de autonomiaKm si no es WLTP (p. ej. modelos solo vendidos en China). */
-  cicloAutonomia?: "WLTP" | "CLTC";
+  cicloAutonomia?: string | null;
   /** 18/10/2026: si la foto de interior no es de prensa, crédito real (autor y licencia). Sin esto se rotula como oficial. */
   creditoInteriorFoto?: string;
-  versiones?: { nombre: string; precio: number | null; potenciaCv?: number | null; autonomiaKm?: number | null; aprox?: boolean }[];
+  versiones?: { nombre: string; precio: number | null; potenciaCv?: number | null; autonomiaKm?: number | null; aprox?: boolean }[] | null;
 }
 
 /** Normaliza texto para comparar marcas/modelos: minúsculas, sin tildes. */

@@ -576,12 +576,12 @@ export const COCHES_CUPRA: CocheComparador[] = [
     },
   },
   {
-    id: "cupra-leon-vz-325-2025-precio-ficha-tecnica",
+    "id": "cupra-leon-vz-325-2025-precio-ficha-tecnica",
     "marca": "cupra",
     "modelo": "León VZ 325",
     "tipo": "Gasolina",
     "categoria": "Compacto",
-    "precioDesde": 50794,
+    "precioDesde": 49514,
     "potenciaCv": 325,
     "autonomiaKm": null,
     "maleteroL": 380,
@@ -596,31 +596,31 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "largoMm": 4368,
     "anchoMm": 1799,
     "altoMm": 1467,
-    "pesoKg": null,
-    "consumo": 7.7,
+    "pesoKg": 1500,
+    "consumo": 7.9,
     "consumoUnidad": "l/100 km",
     "plazas": 5,
     "parNm": 420,
     "traccion": "Delantera",
-    "emisionesCo2": 175,
-    "aprox": [],
+    "emisionesCo2": 172,
+    "aprox": ["pesoKg", "consumo", "emisionesCo2"],
     "pros": [
-      "325 CV y 420 Nm con tracción total 4Drive: el León más potente",
-      "50.794 € (km77): solo 1.840 € más que el VZ 300",
-      "El 4Drive reparte el par y elimina el subviraje del delantera",
-      "Prestaciones de compacto premium por menos dinero",
-      "Maletero de 380 L intacto"
+      "325 CV y 420 Nm con tracción delantera y diferencial autoblocante mecánico: el León más potente de la historia",
+      "49.514 € (km77): producción limitada a 1.500 unidades para todo el mundo",
+      "0-100 km/h en 5,4 s y 270 km/h sin limitador: prestaciones de Golf R por menos dinero",
+      "Frenos Akebono de 6 pistones y chasis adaptativo DCC de serie",
+      "Maletero de 380 L intacto: tan usable a diario como un León normal"
     ],
     "contras": [
-      "Más peso que el VZ 300 por la tracción total",
+      "Serie limitada a 1.500 unidades: difícil de conseguir nuevo",
       "Etiqueta C: sin ventajas en ZBE",
-      "Consumo real elevado",
-      "A este precio, el Golf R juega en la misma liga",
-      "Sin opción manual"
+      "Consumo real elevado si se aprovechan los 325 CV",
+      "Sin opción de cambio manual",
+      "A este precio, el Golf GTI Edition 50 juega en la misma liga"
     ],
     "imagen": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "imagenInteriorOficial": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-interior.webp",
     "videoId": null,
     "videoCanal": null,
     "opiniones": [],
@@ -637,26 +637,27 @@ export const COCHES_CUPRA: CocheComparador[] = [
     },
     "galeria": [
       {
-        "src": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-oficial.webp",
-        "alt": "Cupra León VZ 325, tres cuartos delantero",
-        "ancho": 1200,
-        "alto": 800
-      },
-      {
-        "src": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del Cupra León VZ 325 con asientos deportivos",
-        "ancho": 1200,
-        "alto": 800
-      },
-      {
         "src": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-hero.webp",
-        "alt": "Cupra León VZ 325 acelerando en circuito",
-        "ancho": 1200,
-        "alto": 800
+        "alt": "Cupra León VZ 325, tres cuartos delantero (foto oficial de prensa)",
+        "ancho": 1280,
+        "alto": 853
+      },
+      {
+        "src": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "Cupra León VZ 325, trasera tres cuartos en marcha (foto oficial de prensa)",
+        "ancho": 960,
+        "alto": 540
+      },
+      {
+        "src": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-interior.webp",
+        "alt": "Interior del Cupra León VZ 325 con asientos CUPBucket",
+        "ancho": 1260,
+        "alto": 710
       }
     ],
-    "fuenteNombre": "auto-data.net",
-    "fuenteUrl": "https://www.auto-data.net/es/cupra-leon-facelift-2024-2.0-tsi-325hp-dsg-56736",
+    "analisisSlug": "cupra-leon-vz-325-2025-precio-ficha-tecnica",
+    "fuenteNombre": "km77.com",
+    "fuenteUrl": "https://www.km77.com/coches/cupra/leon/informacion",
     "euroncap": {
       "estrellas": 5,
       "ano": 2020,
@@ -814,9 +815,9 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "Chasis Cupra con modos de conducción"
     ],
     "contras": [
-      "Precio sin confirmar en tarifa oficial",
+      "55.820 €: el León más caro de la historia",
       "Etiqueta C: sin ventajas en ZBE",
-      "Consumo real alto",
+      "Consumo real alto (8,3 l/100 km WLTP)",
       "El Golf R Variant es su gemelo por más dinero",
       "Poco stock: es una versión de nicho"
     ],
@@ -840,25 +841,25 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "galeria": [
       {
         "src": "/media/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica-oficial.webp",
-        "alt": "Cupra León Sportstourer VZ 333, familiar deportivo",
+        "alt": "Cupra León Sportstourer 2024 (restyling), vista cenital trasera",
         "ancho": 1200,
         "alto": 800
       },
       {
         "src": "/media/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del León Sportstourer VZ con asientos bucket",
+        "alt": "Interior del León Sportstourer 2024 con asientos deportivos",
         "ancho": 1200,
         "alto": 800
       },
       {
         "src": "/media/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica-hero.webp",
-        "alt": "Cupra León Sportstourer VZ 333 en carretera",
+        "alt": "Cupra León Sportstourer 2024, tres cuartos delantero",
         "ancho": 1200,
         "alto": 800
       }
     ],
-    "fuenteNombre": "tufichatecnica.com",
-    "fuenteUrl": "https://www.tufichatecnica.com/cupra/leon/sportstourer/2024/cupra-leon-vz-2024-5p-20g-at7-333cv-b4j0",
+    "fuenteNombre": "Panorama Motor (CUPRA León VZ Sportstourer 2025, 333 CV)",
+    "fuenteUrl": "https://panoramamotor.com/cupra-leon-vz-sportstourer-2025/",
     "euroncap": {
       "estrellas": 5,
       "ano": 2020,
@@ -883,7 +884,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "modelo": "Formentor 1.5 eTSI",
     "tipo": "Híbrido",
     "categoria": "SUV",
-    "precioDesde": 36192,
+    "precioDesde": 35883,
     "potenciaCv": 150,
     "autonomiaKm": null,
     "maleteroL": 450,
@@ -907,16 +908,16 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "emisionesCo2": 131,
     "aprox": [],
     "pros": [
-      "36.192 € (km77): el Formentor más asequible",
+      "35.883 € (PVP oficial CUPRA): el Formentor más asequible",
       "1.5 eTSI de 150 CV con etiqueta ECO",
       "El SUV que inventó Cupra, con chasis deportivo",
       "Maletero de 450 L",
-      "Diseño coupé que sigue pareciendo nuevo"
+      "Diseño coupé del restyling 2024, vigente"
     ],
     "contras": [
       "150 CV: justo para 1,4 toneladas",
       "Etiqueta ECO, no Cero",
-      "El e-Hybrid 204 da 120 km eléctricos por 7.288 € más",
+      "El e-Hybrid 204 da 120 km eléctricos por unos 7.600 € más",
       "Plazas traseras con techo coupé",
       "Sin tracción total en esta versión"
     ],
@@ -940,25 +941,25 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "galeria": [
       {
         "src": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-oficial.webp",
-        "alt": "Cupra Formentor 1.5 eTSI, SUV coupé, tres cuartos delantero",
+        "alt": "Cupra Formentor 2024 (restyling), trasera tres cuartos con firma lumínica",
         "ancho": 1200,
         "alto": 800
       },
       {
         "src": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del Cupra Formentor con pantalla central",
+        "alt": "Interior del Cupra Formentor 2024 con pantalla de 12,9 pulgadas",
         "ancho": 1200,
         "alto": 800
       },
       {
         "src": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-hero.webp",
-        "alt": "Cupra Formentor 1.5 eTSI en ciudad",
+        "alt": "Cupra Formentor 2024 al atardecer, tres cuartos trasero",
         "ancho": 1200,
         "alto": 800
       }
     ],
-    "fuenteNombre": "coches.net",
-    "fuenteUrl": "https://www.coches.net/fichas_tecnicas/cupra/formentor/suv/5-puertas/15_etsi_110kw_launch_edition_dsg_150cv_hibrido/112409/843101920240626/",
+    "fuenteNombre": "CUPRA oficial",
+    "fuenteUrl": "https://www.cupra.com/es-es/coches/formentor",
     "euroncap": {
       "estrellas": 5,
       "ano": 2021,
@@ -1283,7 +1284,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "modelo": "Formentor VZ 333",
     "tipo": "Gasolina",
     "categoria": "SUV",
-    "precioDesde": 54974,
+    "precioDesde": 61344,
     "potenciaCv": 333,
     "autonomiaKm": null,
     "maleteroL": 420,
@@ -1304,19 +1305,19 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "plazas": 5,
     "parNm": 420,
     "traccion": "Total",
-    "emisionesCo2": 197,
-    "aprox": [],
+    "emisionesCo2": 200,
+    "aprox": ["emisionesCo2"],
     "pros": [
       "333 CV y 420 Nm con tracción total 4Drive: el Formentor definitivo",
-      "54.974 € (km77): prestaciones premium por precio Cupra",
+      "61.344 € (tarifa oficial MY27): prestaciones premium con precio Cupra",
       "El 2.0 TSI más potente montado en un Formentor",
       "Chasis VZ con modo Cupra radical",
-      "Maletero de 450 L intacto"
+      "Maletero de 420 L pese al 4Drive"
     ],
     "contras": [
       "Etiqueta C: el Formentor con peor fiscalidad",
       "Consumo real muy alto",
-      "El VZ e-Hybrid 272 ofrece etiqueta Cero por 5.814 € menos",
+      "El VZ e-Hybrid 272 ofrece etiqueta Cero por 8.364 € menos",
       "A este precio, el Audi SQ2 aprieta",
       "Solo para quien priorice prestaciones sobre todo"
     ],
@@ -1340,25 +1341,25 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "galeria": [
       {
         "src": "/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-oficial.webp",
-        "alt": "Cupra Formentor VZ 333, tres cuartos delantero",
+        "alt": "Cupra Formentor VZ 333, trasera tres cuartos con cuatro escapes",
         "ancho": 1200,
         "alto": 800
       },
       {
         "src": "/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del Formentor VZ 333 con detalles en cobre",
+        "alt": "Interior del Formentor VZ 333 con asientos bucket",
         "ancho": 1200,
         "alto": 800
       },
       {
         "src": "/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-hero.webp",
-        "alt": "Cupra Formentor VZ 333 en circuito",
+        "alt": "Cupra Formentor VZ 333 en carretera de montaña",
         "ancho": 1200,
         "alto": 800
       }
     ],
-    "fuenteNombre": "coches.net",
-    "fuenteUrl": "https://www.coches.net/fichas_tecnicas/cupra/formentor/4x4/5-puertas/20_tsi_245kw_333_cv_vz_dsg_4_drive_333cv_gasolina/112909/844209620251029/",
+    "fuenteNombre": "CUPRA oficial",
+    "fuenteUrl": "https://www.cupra.com/es-es/coches/formentor",
     "euroncap": {
       "estrellas": 5,
       "ano": 2021,

@@ -123,11 +123,13 @@ El <a href=/blog/byd-tang-2024-precio-ficha-tecnica/>BYD Tang</a> ya se vende en
       "NIO ES9 batería 102 kWh",
       "NIO ES9 cambio de batería"
     ],
-    "content": `<img src=/media/nio-es9-suv-lujo.webp alt=NIO ES9, enorme SUV eléctrico de lujo, en una avenida nocturna de ciudad con luces de neón>
+    "content": `<img src=/media/nio-es9-2026-precio-ficha-tecnica-hero.webp alt=NIO ES9, SUV eléctrico insignia de 697 CV, tres cuartos delantero>
 
 Puedes <a href=/coches/nio-es9-2026-precio-ficha-tecnica/>ver la ficha técnica completa del Nio ES9</a> con todos los datos.
 
-No es un SUV... es otro nivel. Así presenta @solkuno al **NIO ES9**, el buque insignia de la marca china que, según él, **"pone en jaque a Maybach"**. Y no es una exageración vacía: **697 CV (520 kW)**, batería de **102 kWh**, arquitectura de **900 voltios** y **5,36 metros** de lujo rodante. Pero lo verdaderamente increíble no es la potencia: es que **cambia la batería entera en 3 minutos** en una estación automática, sin enchufar nada. En China parte de unos **50.700 €** con batería en alquiler, y ha vendido unas **30.000 unidades en cuatro meses**. Maybach debería estar mirando por el retrovisor.
+No es un SUV... es otro nivel. Así presenta @solkuno al **NIO ES9**, el buque insignia de la marca china que, según él, **"pone en jaque a Maybach"**. Y no es una exageración vacía: **697 CV (520 kW)**, batería de **102 kWh**, arquitectura de **900 voltios** y **5,36 metros** de lujo rodante. Pero lo verdaderamente increíble no es la potencia: es que **cambia la batería entera en 3 minutos** en una estación automática, sin enchufar nada. En China parte de **498.000 yuanes (unos 66.130 €)** con la batería en propiedad, o de **390.000 yuanes (unos 51.790 €)** alquilando la batería con el plan BaaS. Hasta septiembre de 2026 acumula **32.203 entregas**, liderando su segmento de precio en China. Maybach debería estar mirando por el retrovisor.
+
+*Actualizado el 18/10/2026. Cómo verificamos estos datos: especificaciones y precios del lanzamiento oficial en China (27 de mayo de 2026) contrastados con CnEVPost, EV.com y Fresh Motors; precios convertidos al cambio del día (1 yuan ≈ 0,1328 €); a esta fecha no hay pruebas EuroNCAP ni homologación WLTP publicadas.*
 
 ## Ficha técnica
 
@@ -137,29 +139,39 @@ No es un SUV... es otro nivel. Así presenta @solkuno al **NIO ES9**, el buque i
 | Tracción | Total (AWD) |
 | Batería | 102 kWh (proveedor de celdas no confirmado oficialmente) |
 | Arquitectura eléctrica | 900 V |
-| Autonomía | ~635 km CLTC (sin homologación WLTP publicada) |
+| Autonomía | 620 km CLTC (sin homologación WLTP publicada) |
 | Velocidad máxima | 220 km/h (según primeras pruebas en vídeo) |
 | Longitud | 5.365 mm |
 | Plazas | 6 |
 | Cambio de batería | ~3 minutos en estación automática |
-| Precio en China | 498.000 yuanes (~64.740 €); 390.000 yuanes (~50.700 €) con BaaS |
+| Precio en China | 498.000 yuanes (~66.130 €); 390.000 yuanes (~51.790 €) con BaaS |
 | Conducción asistida | 2 chips propios Shenji NX9031, suspensión activa SkyRide (versiones top) |
 
 ## Precio
 
-En China el ES9 parte de **498.000 yuanes (unos 64.740 €)** con la batería incluida, pero el truco está en el **BaaS** (battery as a service): si alquilas la batería, el precio baja a **390.000 yuanes, unos 50.700 €**. Eso es territorio de un SUV premium medio europeo por un coche que juega en la liga del Mercedes GLS. **En Europa no se vende ni hay precio oficial**: NIO sigue presente en el continente, pero el ES9 es, de momento, exclusivo de China.
+En China el ES9 parte de **498.000 yuanes (unos 66.130 €)** con la batería incluida, pero el truco está en el **BaaS** (battery as a service): si alquilas la batería, el precio baja a **390.000 yuanes, unos 51.790 €**. Eso es territorio de un SUV premium medio europeo por un coche que juega en la liga del Mercedes GLS. **En Europa no se vende ni hay precio oficial**: NIO sigue presente en el continente, pero el ES9 es, de momento, exclusivo de China.
+
+| Versión | Precio en China | Con BaaS (batería en alquiler) |
+|---|---|---|
+| Executive Luxury (acceso) | 498.000 ¥ (~66.130 €) | 390.000 ¥ (~51.790 €) |
+| Executive Signature (intermedia) | precio no publicado | precio no publicado |
+| Horizon Special (tope) | 628.000 ¥ (~83.400 €) | 520.000 ¥ (~69.060 €) |
+
+Precios oficiales del lanzamiento (27 de mayo de 2026), convertidos al cambio del 18/10/2026. La cuota mensual del BaaS es de 1.128 yuanes (~150 €).
 
 ## Curiosidades
 
-- **Batería en alquiler**: con el plan BaaS pagas una cuota mensual por la batería y el coche te sale por unos 50.700 €. Además, siempre llevas una batería sana: en cada cambio te pueden dar una más nueva.
-- **3 minutos y a seguir**: las estaciones de intercambio de NIO cambian la batería descargada por una cargada automáticamente en unos tres minutos. La marca ya tiene más de 8.000 puntos de carga e intercambio en China.
-- **30.000 unidades en cuatro meses**: el ES9 alcanzó las 10.000 entregas en un mes y las 20.000 en poco más de dos. Junto a su hermano menor, el ES8, representa más del 80 % de las ventas de NIO en China.
+- **Batería en alquiler**: con el plan BaaS pagas una cuota mensual de 1.128 yuanes (~150 €) por la batería y el coche te sale por unos 51.790 €. Además, siempre llevas una batería sana: en cada cambio te pueden dar una más nueva.
+- **3 minutos y a seguir**: las estaciones de intercambio de NIO cambian la batería descargada por una cargada automáticamente en unos tres minutos. La marca ya tiene 4.094 estaciones de intercambio en China (septiembre de 2026).
+- **32.203 unidades acumuladas**: el ES9 alcanzó las 10.000 entregas en un mes y las 20.000 en poco más de dos. Junto a su hermano menor, el ES8, representa más del 80 % de las ventas de NIO en China.
 - **Cerebro propio**: las versiones Executive Signature Edition y Horizon Edition montan dos chips de conducción asistida Shenji NX9031 diseñados por la propia NIO, además de la suspensión totalmente activa SkyRide.
 - **El rival es el Mercedes GLS**: la prensa especializada lo enfrenta directamente al GLS y al BMW X7... y concluye que el chino los supera en casi todo por menos dinero.<img src=/media/nio-es9-2026-precio-ficha-tecnica-oficial.webp alt=NIO ES9 en foto oficial del fabricante>
 
 ## Rivales
 
-El ES9 juega en la liga de los SUV grandes de lujo: **Mercedes GLS**, **BMW X7** y **Range Rover**. Ninguno de ellos ofrece nada parecido al intercambio de batería en 3 minutos ni una arquitectura de 900 V a este nivel, y todos cuestan bastante más que los ~50.700-64.740 € que pide el NIO en China. Su baza no es solo el precio: es una tecnología de "repostaje" eléctrico que en Europa aún no existe. <a href=/comparador-coches/>Compáralo con sus rivales europeos en nuestro comparador</a>.
+El ES9 juega en la liga de los SUV grandes de lujo: **Mercedes GLS**, **BMW X7** y **Range Rover**. Ninguno de ellos ofrece nada parecido al intercambio de batería en 3 minutos ni una arquitectura de 900 V a este nivel, y todos cuestan bastante más que los ~51.790-66.130 € que pide el NIO en China. Su baza no es solo el precio: es una tecnología de "repostaje" eléctrico que en Europa aún no existe.
+
+En nuestro catálogo, los rivales más cercanos por tamaño y precio son el <a href=/coches/kia-ev9-2025-precio-ficha-tecnica/>Kia EV9</a> (eléctrico de 7 plazas desde 64.800 €) y el <a href=/coches/mercedes-benz-glc-220-d-precio-ficha-tecnica/>Mercedes GLC 220 d</a> (diésel premium desde 64.647 €). <a href=/comparador-coches/>Compáralos con el ES9 en nuestro comparador</a>.
 
 ## Antes de decidir: lo que conviene vigilar
 
@@ -182,6 +194,15 @@ Entras en una estación de intercambio, el sistema automatizado retira tu bater�
 ### ¿Qué autonomía tiene el NIO ES9?
 Alrededor de 635 km en ciclo CLTC con la batería de 102 kWh, según las primeras pruebas. NIO no ha publicado cifra WLTP.
 
+### ¿Tiene el NIO ES9 prueba EuroNCAP?
+No. A 18/10/2026 no hay ninguna prueba EuroNCAP publicada del ES9. NIO equipa hasta 12 airbags, frenada automática de emergencia y estructura de jaula de alta resistencia, pero sin el crash test europeo no hay estrellas que mostrar.
+
+### ¿Qué mantenimiento necesita el ES9?
+Al ser eléctrico no hay aceite ni filtros de motor: solo inspecciones periódicas, líquido de frenos, filtro de habitáculo y actualizaciones OTA según el manual de NIO China. Eso sí: en España no hay red oficial que lo atienda, así que hoy por hoy es un coche para importar con todos los riesgos que eso conlleva.
+
+### ¿A quién le conviene el NIO ES9?
+A quien viva en China y quiera el máximo lujo eléctrico con "repostaje" en 3 minutos sin depender de un cargador. En Europa, sin red de intercambio de baterías ni servicio oficial, es un objeto de deseo más que una compra racional: el <a href=/coches/kia-ev9-2025-precio-ficha-tecnica/>Kia EV9</a> cubre el mismo hueco familiar con servicio en cada esquina.
+
 ### ¿Qué es el BaaS de NIO?
 Battery as a Service: compras el coche sin batería (más barato) y pagas una suscripción mensual por usarla, con cambios e intercambios incluidos.
 
@@ -202,7 +223,7 @@ El BaaS baja el precio de acceso (390.000 yuanes frente a 498.000 con batería e
 - <a href=https://www.youtube.com/watch?v=0fegZZGZGdM>prueba en vídeo del NIO ES9 (YouTube)</a>
 - <a href=https://www.tiktok.com/@solkuno/video/7626695858117086477>Solkuno en TikTok</a>
 
-Si conduces una bestia así, un despiste con el acelerador sale caro. ¿Te ha llegado una multa? <a href=/#analizador gratis con nuestra IA</a> antes de pagarla.`
+Si conduces una bestia así, un despiste con el acelerador sale caro. ¿Te ha llegado una multa? <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.`
   },
   {
     "title": "Lotus Eletre R+: 918 CV que humillan al Lamborghini",

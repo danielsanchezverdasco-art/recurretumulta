@@ -667,11 +667,11 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     plazas: 5,
     parNm: 320,
     traccion: "Total",
-    emisionesCo2: 158,
+    emisionesCo2: 161,
     aprox: [],
     imagen: "/media/mercedes-benz-glc-200-precio-ficha-tecnica-hero.webp",
-    fuenteNombre: "coches.net (datos JATO)",
-    fuenteUrl: "https://www.coches.net/fichas_tecnicas/mercedes-benz/glc/4x4/5-puertas/glc_200_4matic_204cv_hibrido/105823/765679220251007/",
+    fuenteNombre: "km77.com",
+    fuenteUrl: "https://www.km77.com/coches/mercedes/clase-glc/2023/datos",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 11.4,
@@ -687,17 +687,21 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     euroncap: {
       estrellas: 5,
       ano: 2022,
-      url: null,
+      url: "https://www.euroncap.com/assessments/mercedes-benz/glc/0932/",
       nota: "Prueba del Mercedes-Benz GLC (X254), 2022: 92 % adulto, 90 % infantil",
     },
+    versiones: [
+      { nombre: "GLC 200 4MATIC", precio: 59438 },
+      { nombre: "GLC 220 d 4MATIC", precio: 64647 },
+    ],
     planMantenimiento: {
       intervalo: "12 meses o 15.000 km (Service A/B alternos), lo que ocurra antes",
       revisiones: [
-        { nombre: "Service A / 15.000 km", queSeCambia: "Aceite + filtro de aceite + inspección general", costeAproxEur: 300 },
-        { nombre: "Service B / 30.000 km", queSeCambia: "Service A + filtro de aire, filtro de habitáculo, líquido de frenos e inspección ampliada", costeAproxEur: 480 },
+        { nombre: "Service A / 15.000 km", queSeCambia: "Aceite + filtro de aceite + inspección general", costeAproxEur: null },
+        { nombre: "Service B / 30.000 km", queSeCambia: "Service A + filtro de aire, filtro de habitáculo, líquido de frenos e inspección ampliada", costeAproxEur: null },
       ],
-      costeAnualAproxEur: 480,
-      fuente: "Mercedes-Benz (intervalo oficial Service A/B)",
+      costeAnualAproxEur: null,
+      fuente: "Mercedes-Benz (intervalo oficial Service A/B; los costes dependen del concesionario y no se publican)",
     },
     galeria: [
       {

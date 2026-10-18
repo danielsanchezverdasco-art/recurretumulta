@@ -1341,9 +1341,24 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     modelo: "Proace Max",
     tipo: "Diésel",
     categoria: "Furgoneta",
-    precioDesde: 32975,
+    precioDesde: 24545,
     potenciaCv: 140,
     autonomiaKm: null,
+    versiones: [
+      {
+        nombre: "Van L2H1 2.2D 120 CV 6MT GX",
+        precio: 24545,
+      },
+      {
+        nombre: "Van L4H3 2.2D 180 CV 8AT VX",
+        precio: 34024,
+      },
+      {
+        nombre: "Electric Van (270 CV, 110 kWh)",
+        precio: 34800,
+        aprox: true,
+      },
+    ],
     maleteroL: null,
     ceroCien: null,
     velocidadMax: 153,
@@ -1353,14 +1368,14 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     pros: [
       "Hasta 17 m³ de carga y 1.400 kg de carga útil",
       "Gama diésel 2.2 de 120, 140 y 180 CV para cada necesidad",
-      "También en versión eléctrica: 272 CV, 110,6 kWh y 420 km WLTP",
+      "También en versión eléctrica: 270 CV, 110 kWh y 420 km WLTP",
       "Eléctrica con carga rápida de 150 kW",
       "5 estrellas Euro NCAP en seguridad de furgonetas (2025)",
     ],
     contras: [
       "Etiqueta C en diésel: las ZBE la dejarán fuera",
       "Hasta 6,36 m de largo: solo para profesionales",
-      "La versión eléctrica ronda los 67.900 €",
+      "La eléctrica parte de unos 34.800 € sin IVA",
       "7,3 l/100 km de consumo en diésel",
       "Interior 100 % funcional, sin concesiones al confort",
     ],
@@ -1374,7 +1389,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     parNm: 350,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["consumo"],
+    aprox: ["precioDesde", "consumo"],
     imagen: "/media/toyota-proace-max-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1392,47 +1407,31 @@ export const COCHES_TOYOTA: CocheComparador[] = [
       {
         "src": "/media/toyota-proace-max-2025-precio-ficha-tecnica-hero.webp",
         "alt": "Toyota Proace Max 2025, vista tres cuartos delantera",
-        "ancho": 1920,
-        "alto": 1280
+        "ancho": 1600,
+        "alto": 900
       },
       {
         "src": "/media/toyota-proace-max-2025-precio-ficha-tecnica-oficial.webp",
         "alt": "Toyota Proace Max 2025, vista lateral",
-        "ancho": 1920,
-        "alto": 1280
+        "ancho": 800,
+        "alto": 533
       },
       {
         "src": "/media/toyota-proace-max-2025-precio-ficha-tecnica-interior-oficial.webp",
         "alt": "Toyota Proace Max 2025, interior",
-        "ancho": 1920,
-        "alto": 1280
+        "ancho": 1422,
+        "alto": 800
       }
     ],
-    fuenteNombre: "coches.net",
-    fuenteUrl: "https://www.coches.net/fichas_tecnicas/toyota/proace/industriales/4-puertas/van_l2h2_22d_103kw_140cv_6mt_gx_140cv_diesel/112711/843839920240704/",
+    fuenteNombre: "Toyota España (prensa)",
+    fuenteUrl: "https://prensa.toyota.es/toyota-professional-se-hace-mas-grande-con-la-proace-max-la-furgoneta-comercial-de-gran-tamano-ya-disponible-desde-24545-/",
     euroncap: {
       estrellas: null,
       ano: 2025,
-      url: null,
-      nota: "Sin prueba Euro NCAP propia del Proace Max (sus gemelos Stellantis Peugeot Boxer y Fiat Ducato obtuvieron 5 estrellas en el programa de furgonetas Euro NCAP 2025)"
+      url: "https://news.euroncap.com/safertrucksandvans/choose-a-vehicle/toyota-proace-max---euro-ncap-2025-commercial-van-safety---5-stars/s/308b75c5-30ed-4f19-ab87-604db9d1a463",
+      nota: "5 estrellas en el programa Commercial Van Safety 2025 de Euro NCAP (evaluada como gemela del Fiat E-Ducato; aplica al Proace Max desde julio de 2024)"
     },
-    planMantenimiento: {
-      intervalo: "Revisión intermedia cada 15.000 km o 12 meses; revisión principal cada 30.000 km o 24 meses",
-      revisiones: [
-        {
-          nombre: "Revisión intermedia / 15.000 km",
-          queSeCambia: "Aceite + filtro de aceite + inspección general + niveles + AdBlue",
-          costeAproxEur: null
-        },
-        {
-          nombre: "Revisión principal / 30.000 km",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + filtro de polen + filtro de combustible + inspección de frenos y correas",
-          costeAproxEur: null
-        }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Programa de mantenimiento Toyota Professional (intermedia 15.000 km/12 meses, principal 30.000 km/24 meses)"
-    }
+    planMantenimiento: null
   },
   {
     id: "toyota-yaris-130h-2025-precio-ficha-tecnica",
@@ -1613,9 +1612,10 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     modelo: "Prius Plug-in Hybrid",
     tipo: "Híbrido enchufable",
     categoria: "Compacto",
-    precioDesde: null,
+    precioDesde: 44400,
     potenciaCv: 223,
     autonomiaKm: 86,
+    cicloAutonomia: "WLTP",
     maleteroL: 284,
     ceroCien: 6.8,
     velocidadMax: 177,
@@ -1624,36 +1624,36 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "223 CV: el Prius más potente de la historia",
-      "86 km de autonomía eléctrica (aprox.)",
+      "86 km de autonomía eléctrica WLTP (72 km con llantas de 19\")",
       "0-100 en 6,8 s: prestaciones de GTI",
-      "Solo 1,6 l/100 km homologados",
+      "Solo 0,5-0,7 l/100 km homologados (WLTP)",
       "Etiqueta Cero"
     ],
     contras: [
-      "NO se vende en España (solo Francia, Alemania y otros mercados)",
+      "NO se vende en España (44.400 € en Francia, precio aprox.)",
       "Sin precio oficial en nuestro mercado",
       "Diseño polarizante",
       "Maletero reducido frente al Corolla",
-      "Sin datos de batería ni carga verificados"
+      "Sin carga rápida: la batería de 13,6 kWh tarda unas 4 h en casa"
     ],
     largoMm: 4530,
     anchoMm: 1780,
     altoMm: 1420,
     pesoKg: null,
-    consumo: 1.6,
+    consumo: 0.6,
     consumoUnidad: "l/100 km",
     plazas: 5,
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 11,
-    aprox: [],
+    aprox: ["precioDesde", "consumo"],
     imagen: "/media/toyota-prius-phev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: la 5.ª generación (2023) aún no ha sido evaluada por Euro NCAP"
+      nota: "Sin datos EuroNCAP: la 5.ª generación (2023) aún no ha sido evaluada por Euro NCAP (verificado el 18/10/2026)"
     },
     planMantenimiento: {
       intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
@@ -1675,25 +1675,26 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     galeria: [
       {
         src: "/media/toyota-prius-phev-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Toyota Prius Plug-in Hybrid, vista tres cuartos delantera",
-        ancho: 1200,
-        alto: 800
+        alt: "Toyota Prius Plug-in Hybrid amarillo, vista cenital delantera",
+        ancho: 1024,
+        alto: 625
       },
       {
         src: "/media/toyota-prius-phev-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Toyota Prius",
-        ancho: 1200,
-        alto: 800
+        alt: "Interior del Toyota Prius: cuadro digital y pantalla de 12,3 pulgadas",
+        ancho: 1024,
+        alto: 659
       },
       {
         src: "/media/toyota-prius-phev-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Toyota Prius Plug-in Hybrid, vista frontal",
-        ancho: 1200,
-        alto: 800
+        alt: "Toyota Prius Plug-in Hybrid rojo, trasera tres cuartos en ciudad",
+        ancho: 1400,
+        alto: 933
       }
     ],
-    fuenteNombre: "Autonoción",
-    fuenteUrl: "https://www.autonocion.com/motornocion/toyota-prius-falta-espana/"
+    analisisSlug: "toyota-prius-phev-2025-precio-ficha-tecnica",
+    fuenteNombre: "Toyota Bélgica",
+    fuenteUrl: "https://fr.toyota.be/modeles/prius-plugin"
   },
   {
     id: "toyota-aygo-x-hybrid-2025-precio-ficha-tecnica",

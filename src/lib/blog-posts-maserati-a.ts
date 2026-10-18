@@ -5,9 +5,9 @@ import type { BlogPost } from "./blog-data.ts";
 
 export const MASERATI_POSTS: BlogPost[] = [
   {
-    "title": "Maserati Grecale 2027: precio y ficha técnica",
+    "title": "Maserati Grecale 2027: precio, gama y 250 CV del restyling",
     "slug": "maserati-grecale-2027-precio-ficha-tecnica",
-    "excerpt": "El Maserati Grecale 2027 parte de 86.687 € en España con 250 CV, etiqueta ECO y el nuevo frontal de morro de tiburón. Precio, ficha y rivales.",
+    "excerpt": "El Maserati Grecale 2027 estrena morro de tiburón: mHEV de 250 CV con etiqueta ECO, maletero de 535 l y gama hasta el Trofeo de 530 CV. Precio y ficha.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "readTime": 8,
@@ -20,7 +20,7 @@ export const MASERATI_POSTS: BlogPost[] = [
       "maserati grecale etiqueta eco",
       "grecale vs porsche macan"
     ],
-    "content": "<img src=/media/maserati-grecale-2027-precio-ficha-tecnica-hero.webp alt=Maserati Grecale 2027 gris en carretera de montaña al atardecer>\n\n**¿Buscas solo los datos?** <a href=/coches/maserati-grecale-2027-precio-ficha-tecnica/>Ver ficha técnica del Maserati Grecale 2027</a>: precio, potencia y etiqueta DGT. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.\n\nEl **Maserati Grecale 2027** es la renovación del SUV con el que la marca del Tridente quiere pelear contra el Porsche Macan y el BMW X3. La versión de acceso, el **Grecale 250**, parte de **86.687 € en España** según datos JATO y combina un cuatro cilindros microhíbrido de 48 V con **250 CV** y la **etiqueta ECO** de la <a href=https://www.dgt.es/>DGT</a>. Estrena el frontal de **morro de tiburón** que define a toda la gama 2027 y la campaña **Lujo, todos los días**, con la que Maserati quiere dejar claro que el lujo también sirve para el día a día.\n\n## Ficha técnica resumida: Maserati Grecale 250 (2027)\n\n| Dato | Valor |\n|---|---|\n| **Precio en España** | Desde 86.687 € (datos JATO) |\n| **Potencia** | 250 CV |\n| **Motor** | Gasolina microhíbrido de 48 V |\n| **Tracción** | Total |\n| **Plazas** | 5 |\n| **Etiqueta DGT** | ECO |\n| **Categoría** | SUV premium |\n\n¿Quieres el detalle completo? <a href=/coches/maserati-grecale-2027-precio-ficha-tecnica/>Ficha técnica completa del Grecale 2027</a> con equipamiento, medidas y comparativas.\n\n## Precio en España: 86.687 € de acceso al Tridente\n\nLos **86.687 €** del Grecale 250 lo convierten en el Maserati más barato de la gama 2027. Es la cifra que maneja la consultora JATO para el mercado español; Maserati España aún no ha publicado la tarifa oficial de la renovación, así que conviene tomarlo como referencia sólida pero no definitiva. Por ese precio recibes un SUV premium italiano con tracción total, interior de triple pantalla y cuero, y una etiqueta ECO que te abre las puertas de la ZBE de Madrid sin restricciones.\n\n<img src=/media/maserati-grecale-2027-precio-ficha-tecnica-oficial.webp alt=Maserati Grecale 2027 gris, vista lateral>\n\n¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.\n\n## La gama Grecale 2027: cuatro versiones, cuatro caracteres\n\n|  | Grecale 250 | Modena V6 | Trofeo | Folgore |\n|---|---|---|---|---|\n| **Precio desde** | 86.687 € | 112.713 € | 140.311 € | Sin confirmar |\n| **Potencia** | 250 CV | 390 CV | 530 CV | 557 CV |\n| **Motor** | Microhíbrido 48 V | V6 biturbo | V6 biturbo | Eléctrico |\n| **Etiqueta DGT** | ECO | C | C | Cero |\n| **Consumo / autonomía** | Sin publicar | 10,6 l/100 km | 11,2 l/100 km | 579 km WLTP |\n\nEl salto al <a href=/coches/maserati-grecale-modena-v6-2027-precio-ficha-tecnica/>Grecale Modena V6 de 390 CV</a> cuesta 112.713 €; el <a href=/coches/maserati-grecale-trofeo-2027-precio-ficha-tecnica/>Grecale Trofeo de 530 CV</a> parte de 140.311 €; y el <a href=/coches/maserati-grecale-folgore-2027-precio-ficha-tecnica/>Grecale Folgore eléctrico</a> entrega 557 CV con 579 km de autonomía, aunque su precio español aún no se ha confirmado.\n\n## Pros y contras\n\n| ✅ Pros | ❌ Contras |\n|---|---|\n| 86.687 €: la entrada más barata al mundo Maserati en 2027 | 250 CV para un SUV de gran tamaño: prestaciones justas frente a rivales alemanes |\n| Etiqueta ECO: acceso a la ZBE de Madrid sin restricciones | Precio verificado por datos JATO, no por tarifa oficial publicada |\n| Nuevo frontal de morro de tiburón de la renovación 2027 | El Modena V6 da 140 CV más por 26.026 € de diferencia |\n| Interior de lujo con triple pantalla y cuero italiano | Consumo WLTP 2027 sin publicar |\n| Tracción total de serie | Red de concesionarios corta en España |\n\n## Preguntas frecuentes\n\n### ¿Cuánto cuesta el Maserati Grecale 2027 en España?\nEl Grecale 250 de acceso parte de **86.687 €** según datos JATO. La tarifa oficial de Maserati España para la renovación 2027 aún no se ha publicado, así que la cifra puede ajustarse ligeramente.\n\n### ¿Qué motor lleva el Grecale de 250 CV?\nUn cuatro cilindros de gasolina con **microhibridación de 48 V**, tracción total y cambio automático. Gracias al sistema mild-hybrid, homologa la **etiqueta ECO** de la DGT.\n\n### ¿El Grecale 250 tiene etiqueta ECO?\nSí. El sistema de 48 V le otorga la etiqueta ECO, con acceso libre a las Zonas de Bajas Emisiones. Puedes comprobarlo en nuestra <a href=/calculadora-etiqueta-dgt/>calculadora de etiqueta DGT</a>.\n\n### ¿Qué cambia en el Grecale 2027 respecto al anterior?\nPrincipalmente el diseño: nuevo frontal de **morro de tiburón**, paragolpes rediseñados y equipamiento actualizado, bajo la campaña **Lujo, todos los días**. La base mecánica se mantiene.\n\n### ¿Merece la pena frente a un Porsche Macan?\nEl Macan parte de cifras similares pero con menos equipamiento de serie en sus versiones base; el Grecale ofrece más exclusividad y un interior más lujoso, a cambio de una red de servicio mucho más pequeña en España.\n\n### ¿Cuándo llega a los concesionarios españoles?\nLa renovación 2027 se presentó en el verano de 2026 y las primeras unidades están llegando a la red española durante el otoño. Pregunta en tu concesionario por disponibilidad y pruebas.\n\nCon 250 CV conviene recordar que en España superar los límites te puede costar el carné: si te ha llegado una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.\n\n*Fuentes: <a href=https://qucochemecompro.com/resultados?marca=maserati&modelo=grecale>precios JATO para España en qucochemecompro.com</a>, <a href=https://www.carscoops.com/2026/06/maserati-grecale-facelift-2/>renovación 2027 en carscoops.com</a>.*"
+    "content": "<img src=/media/maserati-grecale-2027-precio-ficha-tecnica-hero.webp alt=Maserati Grecale 2027, tres cuartos delantero (foto oficial Maserati)>\n\n*Actualizado el 18/10/2026.*\n\n**¿Buscas solo los datos?** <a href=/coches/maserati-grecale-2027-precio-ficha-tecnica/>Ver ficha técnica del Maserati Grecale 2027</a>: precio, potencia y etiqueta DGT. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.\n\nEl **Maserati Grecale 2027** es el restyling del SUV con el que la marca del Tridente pelea contra el Porsche Macan y el BMW X3. La renovación trae el frontal de **morro de tiburón**, paragolpes rediseñados, volante achatado y un interior actualizado. La versión de acceso, el **Grecale mHEV de 250 CV**, combina un cuatro cilindros microhíbrido de 48 V con la **etiqueta ECO** de la <a href=https://www.dgt.es/>DGT</a>.\n\n## Ficha técnica resumida: Maserati Grecale mHEV 250 (2027)\n\n| Dato | Valor |\n|---|---|\n| **Precio desde** | 83.900 € (listino Italia; PVP España pendiente) |\n| **Potencia** | 250 CV |\n| **Motor** | Gasolina microhíbrido de 48 V |\n| **Tracción** | Total |\n| **Consumo WLTP** | 9,3-8,8 l/100 km |\n| **CO₂ WLTP** | 209-198 g/km |\n| **Maletero** | 535 litros |\n| **Medidas** | 4.873 x 1.947 x 1.687 mm |\n| **Plazas** | 5 |\n| **Etiqueta DGT** | ECO |\n\n¿Quieres el detalle completo? <a href=/coches/maserati-grecale-2027-precio-ficha-tecnica/>Ficha técnica completa del Grecale 2027</a> con medidas y comparativas.\n\n## Precio: 83.900 € de acceso al Tridente\n\nEl Grecale mHEV 250 parte de **83.900 €** según el listino oficial italiano (noviembre de 2025). Maserati España aún no ha publicado la tarifa de la renovación 2027, así que la cifra es una referencia sólida pero no definitiva. Por ese precio recibes un SUV premium italiano con tracción total, interior de lujo y una etiqueta ECO que te abre las puertas de las ZBE sin restricciones.\n\n<img src=/media/maserati-grecale-2027-precio-ficha-tecnica-oficial.webp alt=Maserati Grecale 2027, trasera tres cuartos (foto oficial de prensa)>\n\n¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.\n\n## La gama Grecale 2027: cinco versiones\n\n|  | mHEV 250 | Modena 330 | Modena V6 390 | Trofeo 530 | Folgore 550 |\n|---|---|---|---|---|---|\n| **Precio (UK)** | — | £75.040 | £85.395 | £106.045 | £86.695 |\n| **Potencia** | 250 CV | 330 CV | 390 CV | 530 CV | 550 CV |\n| **Motor** | Microhíbrido 48 V | 4 cil. mHEV | V6 biturbo | V6 biturbo | Eléctrico |\n| **Etiqueta DGT** | ECO | ECO | C | C | Cero |\n\nPrecios oficiales de Maserati UK (2026); al cambio rondan los 86.700, 98.600, 122.500 y 100.100 €. El salto al <a href=/blog/maserati-grecale-modena-v6-2027-precio-ficha-tecnica/>Grecale Modena V6 de 390 CV</a> es el punto dulce de la gama; el <a href=/blog/maserati-grecale-trofeo-2027-precio-ficha-tecnica/>Grecale Trofeo de 530 CV</a> es el deportivo; y el <a href=/blog/maserati-grecale-folgore-2027-precio-ficha-tecnica/>Grecale Folgore eléctrico</a> entrega 550 CV con cero emisiones locales.\n\n<img src=/media/maserati-grecale-2027-precio-ficha-tecnica-interior.webp alt=Interior del Maserati Grecale 2027 con reloj digital y doble pantalla>\n\n## Qué cambia en el Grecale 2027\n\nPrincipalmente el diseño: nuevo frontal de **morro de tiburón** con parrilla más plana, paragolpes rediseñados, volante achatado y selector de cambio metálico. La base mecánica se mantiene, con la gama reordenada: mHEV de 250, 300 y 330 CV, el V6 de 390 y 530 CV, y el Folgore eléctrico de 550 CV.\n\n## Rivales\n\nEl rival natural es el <a href=/blog/porsche-macan-electric-2026-precio-ficha-tecnica/>Porsche Macan</a>, hoy solo eléctrico: el Grecale es de los pocos premium que aún ofrece gasolina, microhíbrido y eléctrico en la misma carrocería. <a href=/comparador-coches/>Compáralos en el comparador</a>.\n\n## Preguntas frecuentes\n\n### ¿Cuánto cuesta el Maserati Grecale 2027 en España?\nEl Grecale mHEV 250 de acceso parte de **83.900 €** según el listino italiano. La tarifa oficial de Maserati España para la renovación 2027 aún no se ha publicado.\n\n### ¿Qué motor lleva el Grecale de 250 CV?\nUn cuatro cilindros de gasolina con **microhibridación de 48 V**, tracción total y cambio automático. Gracias al sistema mild-hybrid, homologa la **etiqueta ECO** de la DGT.\n\n### ¿Qué cambia en el Grecale 2027 respecto al anterior?\nEl diseño: nuevo frontal de **morro de tiburón**, paragolpes rediseñados, volante achatado y equipamiento actualizado. La base mecánica se mantiene.\n\n### ¿Qué maletero tiene?\n535 litros según la web oficial de Maserati, muy por encima del Macan térmico.\n\n### ¿Merece la pena frente a un Porsche Macan?\nEl Macan actual es solo eléctrico; el Grecale ofrece más exclusividad, un interior más lujoso y la opción de gasolina microhíbrida, a cambio de una red de servicio mucho más pequeña en España.\n\n### ¿Tiene prueba Euro NCAP?\nNo. A 18/10/2026 no hay prueba Euro NCAP publicada para el Grecale.\n\nCon 250 CV conviene recordar que en España superar los límites te puede costar el carné: si te ha llegado una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.\n\n*Cómo verificamos: precios del listino oficial italiano (automobile.it, 11/2025) y de Maserati UK; datos técnicos de la web oficial de Maserati (medidas, maletero, consumos WLTP); renovación descrita por evo.co.uk y TFLcar. Eliminamos cifras sin fuente pública (precios JATO, consumos de las versiones V6).*\n\n*Fuentes: <a href=https://www.automobile.it/magazine/recensioni-modelli/maserati-grecale-37057>automobile.it (listino Italia)</a>, <a href=https://www.evo.co.uk/maserati/grecale/208835/the-maserati-grecale-gains-a-six-cylinder-variant-to-rival-porsches-macan-s>evo.co.uk</a>, <a href=https://tflcar.com/2026/06/2027-maserati-grecale-gets-styling-updates-a-new-base-model-and-more-ev-range/>TFLcar</a>.*"
   },
   {
     "title": "Maserati Grecale Modena V6: 390 CV por 112.713 €",
@@ -769,80 +769,105 @@ Si te ha llegado una multa con tu Maserati, <a href=https://recurretumulta.onlin
 *Fuentes: folleto oficial de Maserati.*`
   },
   {
-    "title": "Quattroporte Modena Q4: precio y ficha",
+    "title": "Maserati Quattroporte Modena Q4: 430 CV por 172.300 €",
     "slug": "maserati-quattroporte-modena-q4-2024-precio-ficha-tecnica",
-    "excerpt": "El Quattroporte Modena Q4: V6 de 430 CV, tracción total y 288 km/h. Ficha técnica de la limusina deportiva.",
+    "excerpt": "El Maserati Quattroporte Modena Q4 cuesta desde 172.300 €: V6 de 430 CV, tracción total Q4 y 288 km/h. Ficha completa.",
     "category": "Novedades Motor",
-    "date": "2026-10-05",
-    "readTime": 6,
+    "date": "2026-10-18",
+    "readTime": 7,
     "locale": "all",
     "keywords": [
       "quattroporte modena q4 precio",
       "maserati quattroporte 430 cv",
       "quattroporte traccion total"
     ],
-    "content": `<img src=/media/maserati-quattroporte-modena-q4-2024-precio-ficha-tecnica-hero.webp alt=Maserati Quattroporte Modena Q4 azul de noche>
+    "content": `<img src=/media/maserati-quattroporte-modena-q4-2024-precio-ficha-tecnica-hero.webp alt=Maserati Quattroporte Modena Q4 gris en estudio, tres cuartos delantero>
+
+*Actualizado el 18/10/2026.*
 
 **¿Buscas solo los datos?** <a href=/coches/maserati-quattroporte-modena-q4-2024-precio-ficha-tecnica/>Ver ficha técnica del Quattroporte Modena Q4</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-El **Maserati Quattroporte Modena Q4** es el Quattroporte para todo el año: V6 3.0 biturbo de **430 CV** y 580 Nm con tracción total, 288 km/h y 0-100 en 4,8 s. Precio no publicado por la marca.
+El **Maserati Quattroporte Modena Q4** cuesta **desde 172.300 €** en España: V6 3.0 biturbo de **430 CV** y 580 Nm, tracción total, **288 km/h** y 0-100 en 4,8 s. Es el Quattroporte para todo el año: el equilibrio justo entre el GT y el Trofeo.
 
 ## Ficha técnica resumida: Quattroporte Modena Q4
 
 | Dato | Valor |
 |---|---|
-| **Precio en España** | No publicado |
-| **Motor** | V6 3.0 biturbo |
+| **Precio en España** | Desde 172.300 € (oficial Maserati) |
+| **Motor** | V6 3.0 biturbo, 2.979 cm³ |
 | **Potencia** | 430 CV (580 Nm) |
 | **Tracción** | Total Q4 |
+| **Cambio** | Automático ZF de 8 velocidades |
 | **0-100 km/h** | 4,8 s |
 | **Velocidad máxima** | 288 km/h |
+| **Consumo WLTP** | 11,4 l/100 km |
+| **Emisiones CO₂** | 258 g/km |
+| **Largo × ancho × alto** | 5.262 × 1.948 × 1.481 mm |
+| **Maletero** | 530 L |
+| **Peso** | 1.920 kg |
 | **Etiqueta DGT** | C |
-| **Plazas** | 5 |
 
 ¿Quieres el detalle completo? <a href=/coches/maserati-quattroporte-modena-q4-2024-precio-ficha-tecnica/>Ficha técnica completa del Quattroporte Modena Q4</a> con pros, contras, costes mensuales y galería.
 
-## El equilibrio perfecto
+## La gama Quattroporte, de menos a más
 
-Entre el <a href=/coches/maserati-quattroporte-gt-2024-precio-ficha-tecnica/>GT</a> (350 CV, trasera) y el <a href=/coches/maserati-quattroporte-trofeo-2024-precio-ficha-tecnica/>Trofeo</a> (V8 580 CV), el Modena Q4 es la compra sensata: 430 CV, tracción total para el invierno y casi 290 km/h.
+| Versión | Potencia | Precio desde |
+|---|---|---|
+| **Modena Q4** | 430 CV | **172.300 €** |
+| Modena Ultima | 430 CV | 196.000 € |
+| Trofeo | 580 CV | 214.750 € |
 
-<img src=/media/maserati-quattroporte-modena-q4-2024-precio-ficha-tecnica-oficial.webp alt=Maserati Quattroporte Modena Q4, vista lateral en estudio>
+Precios oficiales de Maserati España (octubre 2026). El Modena Q4 es la única versión con tracción total.
 
-Lleva etiqueta **C** (<a href=https://www.cupra.com/es-es/hibridos-y-electricos/etiquetas-dgt>criterios de la DGT</a>). <a href=/mejor-coche-por-presupuesto/>Compara berlinas de lujo por presupuesto</a>.
+Entre el <a href=/coches/maserati-quattroporte-gt-2024-precio-ficha-tecnica/>GT</a> (350 CV, trasera) y el <a href=/coches/maserati-quattroporte-trofeo-2024-precio-ficha-tecnica/>Trofeo</a> (V8 580 CV), el Modena Q4 es la compra sensata para quien conduce todo el año: 430 CV, tracción total para el invierno y casi 290 km/h.
+
+<img src=/media/maserati-quattroporte-modena-q4-2024-precio-ficha-tecnica-oficial.webp alt=Maserati Quattroporte Modena Q4 negro en estudio, con insignia Modena>
+
+## EuroNCAP y mantenimiento, sin inventar
+
+**EuroNCAP:** el Quattroporte no ha sido sometido a las pruebas de Euro NCAP: no hay estrellas ni informe publicados. Lo decimos claro en la ficha en vez de inventar una nota.
+
+**Mantenimiento:** según la guía de mantenimiento programado del Manual del propietario, las revisiones son cada **20.000 km o 24 meses** (lo que ocurra antes), con aceite, filtros e inspección completa en servicio oficial. Maserati no publica los costes: en un V6 de este nivel, presupuesta mantenimiento de superlujo.
+
+Lleva etiqueta **C** de la <a href=https://www.dgt.es>DGT</a>. <a href=/mejor-coche-por-presupuesto/>Compara berlinas de lujo por presupuesto</a>.
 
 ## Pros y contras
 
 | ✅ Pros | ❌ Contras |
 |---|---|
-| V6 de 430 CV y 580 Nm | Precio no publicado |
-| Tracción total Q4 | Etiqueta C |
-| 288 km/h y 4,8 s | Consumos sin publicar |
-| El equilibrio de la gama | El Trofeo ofrece 150 CV más |
-| Limusina con alma deportiva | Reventa débil |
+| V6 de 430 CV y 580 Nm | 172.300 € desde |
+| Tracción total Q4 | Consumo WLTP de 11,4 l/100 km |
+| 288 km/h y 4,8 s | Etiqueta C |
+| 5,26 m con 530 L de maletero | Sin prueba EuroNCAP |
+| Interior artesanal italiano | Mantenimiento de superlujo |
 
 ## Preguntas frecuentes
 
-### ¿Qué significa Q4?
-La tracción total de Maserati, con reparto prioritario al eje trasero.
+### ¿Cuánto cuesta el Quattroporte Modena Q4?
+**Desde 172.300 €** según la web oficial de Maserati España (octubre 2026).
 
 ### ¿Qué potencia tiene?
-**430 CV** y 580 Nm.
+**430 CV** y 580 Nm, de un V6 3.0 biturbo.
+
+### ¿Qué significa Q4?
+La **tracción total** de Maserati, con reparto prioritario al eje trasero: el único Quattroporte con las cuatro ruedas motrices.
 
 ### ¿Cuánto acelera de 0-100?
-**4,8 segundos**.
+**4,8 segundos**, con 288 km/h de velocidad máxima.
 
 ### ¿En qué se diferencia del GT?
-80 CV más y tracción total frente a la trasera del GT.
-
-### ¿Sigue a la venta?
-La producción clásica del Quattroporte terminó.
+80 CV más y tracción total Q4 frente a la trasera del GT.
 
 ### ¿Qué etiqueta DGT lleva?
-**C**.
+**Etiqueta C**.
 
 Si te ha llegado una multa con tu Maserati, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: folleto oficial de Maserati.*`
+## Cómo verificamos
+
+Precio (172.300 €), potencia (430 CV), medidas (5.262 × 1.948 × 1.481 mm), consumos WLTP (11,4 l/100 km) y emisiones (258 g/km): web oficial de Maserati España, consultada el 18/10/2026. Peso (1.920 kg), maletero (530 L) y depósito (80 L): ficha técnica independiente. EuroNCAP: sin resultados publicados en euroncap.com (comprobado). Si un dato no tiene fuente, no lo publicamos.
+
+*Fuentes: <a href=https://www.maserati.com/es/es/modelos/quattroporte>maserati.com</a>, <a href=https://www.actualidadmotor.com/coches/maserati/maserati-quattroporte/>actualidadmotor.com</a> y <a href=https://www.dgt.es>DGT</a>.*`
   },
   {
     "title": "Quattroporte Trofeo: 580 CV y 326 km/h",

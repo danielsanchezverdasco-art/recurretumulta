@@ -518,9 +518,9 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     marca: "Fantic",
     modelo: "XEF 310",
     version: "4T 2025",
-    cilindradaCc: 310,
+    cilindradaCc: 304,
     categoria: "Enduro",
-    precioDesde: 10990,
+    precioDesde: 10790,
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -528,46 +528,63 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     bateriaKwh: null,
     velocidadMax: null,
     ceroCincuenta: null,
-    pesoKg: null,
+    pesoKg: 106,
     plazas: 1,
     carnet: "A2",
     carga: null,
-    etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    etiquetaDgt: "C",
+    aprox: [],
     pros: [
-      "Cilindrada intermedia de 310 cc: más par que la 250 sin el peso de la 450",
-      "Motor 4T con base Yamaha, suave y lleno desde abajo",
+      "304 cc 4T con cilindro Athena: más par que la 250 sin el peso de la 450",
+      "3 mapas de motor + control de tracción de 10 niveles con app WiGET",
+      "Horquilla Kayaba SSS de 48 mm y chasis perimetral de aluminio",
       "El punto dulce para enduro técnico y pilotos de nivel medio-alto",
-      "Parte ciclo de competición con suspensiones de calidad",
-      "Menos intimidante que una 450 en zonas complicadas",
-      "Exclusividad: pocas marcas ofrecen esta cilindrada"
+      "Homologada Euro5+: se puede matricular y circular",
+      "PVP de 10.790 €, por debajo de gran parte de su competencia"
     ],
     contras: [
-      "Moto de competición sin homologación",
-      "Precio (~10.990 €) superior al de muchas 350 de la competencia",
+      "Precio superior al de muchas 250 de la competencia",
       "Cilindrada poco común: menos oferta de repuestos específicos",
-      "El 4T requiere mantenimiento de válvulas",
-      "Reventa más lenta que una 250 o 450 estándar",
+      "El 4T exige reglaje de válvulas periódico",
+      "Como enduro racing, pide mantenimiento frecuente",
+      "Asiento alto (955 mm): no apta para pilotos bajos",
       "Red de concesionarios limitada en España"
     ],
     curiosidades: [
-      "La 310 es una cilindrada casi exclusiva de Fantic en el enduro moderno",
-      "Nació para ofrecer el par de una 350 con la agilidad de una 250",
-      "Su motor parte del bloque Yamaha de 250 llevado a 310 cc",
-      "En el enduro italiano es una de las opciones favoritas de los privados"
+      "Su motor de 304 cc lo firma Athena: 85,0 x 53,6 mm y compresión 12,8:1",
+      "La desarrolló con el excampeón del mundo Alex Salvini",
+      "Lleva el sistema WiFi COM: se ajusta el motor desde el móvil con la app WiGET",
+      "Enduromagazine la probó en 2024: «equilibrio perfecto entre la 250 y la 450»"
     ],
     imagen: "/media/motos/fantic-xef-310-2025-ficha-tecnica-precio-1.webp",
     galeria: [
-      { src: "/media/motos/fantic-xef-310-2025-ficha-tecnica-precio-2.webp", alt: "Detalle del motor de la Fantic XEF 310 2025", ancho: 1200, alto: 800 },
+      { src: "/media/motos/fantic-xef-310-2025-ficha-tecnica-precio-2.webp", alt: "Fantic XEF 310 2025, vista delantera tres cuartos", ancho: 1200, alto: 800 },
       { src: "/media/motos/fantic-xef-310-2025-ficha-tecnica-precio-3.webp", alt: "Fantic XEF 310 2025 en acción en el monte", ancho: 1200, alto: 800 }
     ],
     videoId: null,
     videoCanal: null,
-    fuenteNombre: "Fantic Motor España",
-    fuenteUrl: null,
+    fuenteNombre: "Enduromagazine (prueba XEF 310 4T)",
+    fuenteUrl: "https://enduromagazine.com/test-fantic-xe-300-2t-y-xef-310-4t/",
     analisisSlug: "fantic-xef-310-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       aceiteTipo: "10W-40 4T API SG o superior, JASO MA (manual oficial Fantic; no usar aceites minerales)"
+    },
+    planMantenimiento: {
+      intervalo: "Sin plan oficial público: enduro de competición con mantenimiento por horas de uso",
+      revisiones: [
+        {
+          nombre: "Tras cada salida",
+          queSeCambia: "Aceite 10W-40 4T JASO MA + limpieza y engrase de cadena + revisión del filtro de aire",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Cada 15-20 horas de uso",
+          queSeCambia: "Control de holgura de válvulas + bujía + líquidos",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Fantic Motor: la XEF 310 es una enduro de competición; intervalos por uso, no públicos",
     },
   },
   {
@@ -1082,7 +1099,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     marca: "Beta",
     modelo: "RR X-Pro 300",
     version: "2T 2026",
-    cilindradaCc: 300,
+    cilindradaCc: 292.6,
     categoria: "Enduro",
     precioDesde: 9670,
     potenciaKw: null,
@@ -1122,13 +1139,13 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     ],
     imagen: "/media/motos/beta-rr-x-pro-300-2t-2026-ficha-tecnica-precio-1.webp",
     galeria: [
-      { src: "/media/motos/beta-rr-x-pro-300-2t-2026-ficha-tecnica-precio-2.webp", alt: "Motor 2T de la Beta RR X-Pro 300 2026", ancho: 1200, alto: 800 },
-      { src: "/media/motos/beta-rr-x-pro-300-2t-2026-ficha-tecnica-precio-3.webp", alt: "Beta RR X-Pro 300 2026 en una zona de hard enduro", ancho: 1200, alto: 800 }
+      { src: "/media/motos/beta-rr-x-pro-300-2t-2026-ficha-tecnica-precio-2.webp", alt: "Beta RR X-Pro 300 2T 2026, perfil lateral en estudio (foto betatrueba.com)", ancho: 800, alto: 490 },
+      { src: "/media/motos/beta-rr-x-pro-300-2t-2026-ficha-tecnica-precio-3.webp", alt: "Beta RR X-Pro 300 2T 2026, foto oficial de prensa Beta", ancho: 1200, alto: 775 }
     ],
     videoId: "yGcWmkaGar0",
     videoCanal: "MOTO-CAR TV",
-    fuenteNombre: "Betamotor España",
-    fuenteUrl: null,
+    fuenteNombre: "Betamotor",
+    fuenteUrl: "https://www.betamotor.com/en/moto/rr-x-pro-2t-300/",
     analisisSlug: "beta-rr-x-pro-300-2t-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
       aceiteTipo: "SAE 10W-40 para el embrague (manual oficial)",
@@ -2673,7 +2690,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     marca: "Rieju",
     modelo: "MR Pro 300i",
     version: "2026",
-    cilindradaCc: 300,
+    cilindradaCc: 298,
     categoria: "Enduro",
     precioDesde: 10299,
     potenciaKw: null,
@@ -2683,12 +2700,12 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     bateriaKwh: null,
     velocidadMax: null,
     ceroCincuenta: null,
-    pesoKg: null,
+    pesoKg: 103.5,
     plazas: 1,
-    carnet: "A2",
+    carnet: "A",
     carga: null,
     etiquetaDgt: null,
-    aprox: [],
+    aprox: ["pesoKg"],
     pros: [
       "Inyección electrónica TFI en el 300 2T: fin del carburador",
       "La enduro española más avanzada de la historia de Rieju",
@@ -2706,20 +2723,22 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Sin etiqueta DGT"
     ],
     curiosidades: [
-      "La 'i' de 300i indica la inyección electrónica TFI",
+      "La 'i' de 300i indica la inyección electrónica TFI con 2 inyectores Bosch",
       "Es la primera 2T de inyección fabricada en España",
-      "Rieju desarrolló el sistema con su departamento de carreras",
-      "La gama MR es la heredera de las míticas Marathon de los 80"
+      "3 mapas de potencia: Race, Forest y Wet, seleccionables en marcha",
+      "La gama MR es la heredera de las míticas Marathon de los 80",
+      "Válvula de escape electrónica y eje de balance contrarrotante de serie",
+      "103,5 kg en seco: de las 300 2T más ligeras con inyección"
     ],
     imagen: "/media/motos/rieju-mr-pro-300i-2026-ficha-tecnica-precio-1.webp",
     galeria: [
-      { src: "/media/motos/rieju-mr-pro-300i-2026-ficha-tecnica-precio-2.webp", alt: "Inyección TFI de la Rieju MR Pro 300i 2026", ancho: 1200, alto: 800 },
-      { src: "/media/motos/rieju-mr-pro-300i-2026-ficha-tecnica-precio-3.webp", alt: "Rieju MR Pro 300i 2026 en una zona de enduro", ancho: 1200, alto: 800 }
+      { src: "/media/motos/rieju-mr-pro-300i-2026-ficha-tecnica-precio-2.webp", alt: "Rieju MR Pro 300i 2026, vista lateral de estudio", ancho: 1068, alto: 739 },
+      { src: "/media/motos/rieju-mr-pro-300i-2026-ficha-tecnica-precio-3.webp", alt: "Rieju MR Pro 300i 2026 en acción, hard enduro", ancho: 1200, alto: 800 }
     ],
     videoId: "a0fURbAYX1g",
     videoCanal: "Motorbike Magazine",
-    fuenteNombre: "Rieju",
-    fuenteUrl: null,
+    fuenteNombre: "Directomotor (ficha técnica Rieju)",
+    fuenteUrl: "https://directomotor.com/rieju-mr-pro-300i-2026/",
     analisisSlug: "rieju-mr-pro-300i-2026-ficha-tecnica-precio"
   },
   {

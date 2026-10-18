@@ -660,24 +660,32 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     galeria: [
       {
         "src": "/media/mitsubishi-colt-100t-glp-2025-precio-ficha-tecnica-hero.webp",
-        "alt": "Mitsubishi Colt 100T GLP verde, tres cuartos delantero en pueblo español",
+        "alt": "Mitsubishi Colt 100T GLP rojo, tres cuartos delantero (foto de prensa Mitsubishi)",
         "ancho": 1200,
-        "alto": 800
+        "alto": 628
       },
       {
         "src": "/media/mitsubishi-colt-100t-glp-2025-precio-ficha-tecnica-oficial.webp",
-        "alt": "Mitsubishi Colt 100T GLP verde, vista lateral completa",
-        "ancho": 1200,
-        "alto": 800
+        "alt": "Mitsubishi Colt rojo en marcha, vista frontal (foto oficial de prensa Mitsubishi)",
+        "ancho": 1049,
+        "alto": 641
       },
       {
         "src": "/media/mitsubishi-colt-100t-glp-2025-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del Mitsubishi Colt 100T GLP con pantalla de 9,3 pulgadas",
-        "ancho": 1200,
-        "alto": 800
+        "alt": "Interior del Mitsubishi Colt con pantalla vertical de 9,3 pulgadas (foto oficial de prensa)",
+        "ancho": 1024,
+        "alto": 614
       }
     ],
     analisisSlug: "mitsubishi-colt-100t-glp-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: Euro NCAP no ha publicado prueba del Mitsubishi Colt actual",
+    },
+    fuenteNombre: "Mitsubishi Motors España",
+    fuenteUrl: "https://www.mitsubishi-motors.es/modelos/colt",
   },
   {
     id: "mitsubishi-asx-100t-2025-precio-ficha-tecnica",
@@ -774,74 +782,82 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     modelo: "ASX 120T",
     tipo: "Híbrido ligero",
     categoria: "SUV",
-    precioDesde: 24772,
-    potenciaCv: 120,
+    precioDesde: 24050,
+    potenciaCv: 115,
     autonomiaKm: null,
     maleteroL: 422,
-    ceroCien: null,
-    velocidadMax: null,
+    ceroCien: 11.2,
+    velocidadMax: 182,
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
-      "Etiqueta ECO con 120 CV por 24.772 €",
+      "Etiqueta ECO con 115 CV por 24.050 €",
       "Microhibridación de 48 V: ayuda en ciudad y en retenciones",
       "Maletero de 422 l como el resto de la gama",
       "El equilibrio precio/prestaciones de la gama ASX",
       "Garantía Mitsubishi de 5 años o 100.000 km",
     ],
     contras: [
-      "Datos técnicos oficiales aún escasos (novedad 2026)",
-      "Prestaciones sin cifras oficiales publicadas",
-      "El salto al 130T 7DCT no es muy grande en precio",
       "Etiqueta ECO, no Cero: pagará en algunas ZBE futuras",
+      "0-100 en 11,2 s: sin brillo para 115 CV",
+      "El salto al 130T 7DCT (140 CV) no es muy grande en precio",
       "Sin tracción total disponible",
+      "Interior heredado del Captur con plásticos duros",
     ],
     largoMm: 4227,
     anchoMm: 1797,
     altoMm: 1567,
-    pesoKg: null,
-    consumo: null,
+    pesoKg: 1247,
+    consumo: 5.2,
     consumoUnidad: "l/100 km",
     plazas: 5,
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precioDesde"],
+    aprox: ["precioDesde", "potenciaCv", "consumo", "ceroCien", "velocidadMax", "pesoKg"],
     imagen: "/media/mitsubishi-asx-120t-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
-      "costeEnergia100km": 9.3,
+      "costeEnergia100km": 8.1,
       "seguroTercerosAnual": 450,
       "seguroAmpliadoAnual": 800,
       "mantenimientoAnual": 400,
-      "costeMensualTotal": 187,
+      "costeMensualTotal": 167,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "estimación ~6,0 l/100 km (datos oficiales de consumo pendientes); 15.000 km/año; seguro y mantenimiento estimados; cifras aproximadas (oct-2026)",
+      "notas": "consumo medio 5,2 l/100 km (JATO vía coches.net); 15.000 km/año; seguro y mantenimiento estimados; cifras aproximadas (oct-2026)",
       "estimado": true
     },
     galeria: [
       {
         "src": "/media/mitsubishi-asx-120t-2026-precio-ficha-tecnica-hero.webp",
-        "alt": "Mitsubishi ASX 120T azul oscuro, tres cuartos delantero en carretera de montaña",
+        "alt": "Mitsubishi ASX rojo, tres cuartos delantero en estudio (foto oficial de prensa Mitsubishi)",
         "ancho": 1200,
         "alto": 800
       },
       {
         "src": "/media/mitsubishi-asx-120t-2026-precio-ficha-tecnica-oficial.webp",
-        "alt": "Mitsubishi ASX 120T azul oscuro, vista lateral completa",
+        "alt": "Mitsubishi ASX rojo, vista trasera en estudio (foto oficial de prensa Mitsubishi)",
         "ancho": 1200,
         "alto": 800
       },
       {
         "src": "/media/mitsubishi-asx-120t-2026-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del Mitsubishi ASX 120T con pantalla vertical y tapicería de cuero",
+        "alt": "Interior del Mitsubishi ASX con pantalla vertical de 10,4 pulgadas (foto oficial de prensa)",
         "ancho": 1200,
         "alto": 800
       }
     ],
     analisisSlug: "mitsubishi-asx-120t-2026-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2024,
+      url: "https://www.euroncap.com/en/results/mitsubishi/asx/53137",
+      nota: "Prueba Euro NCAP 2024 (76% adultos, 80% infantil, 76% peatones, 69% asistencias); el ASX es gemelo del Renault Captur",
+    },
+    fuenteNombre: "Mitsubishi Motors España",
+    fuenteUrl: "https://www.mitsubishi-motors.es/modelos/asx",
   },
   {
     id: "mitsubishi-asx-130t-7dct-2026-precio-ficha-tecnica",

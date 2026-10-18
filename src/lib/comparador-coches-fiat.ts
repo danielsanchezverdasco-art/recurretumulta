@@ -864,8 +864,8 @@ export const COCHES_FIAT: CocheComparador[] = [
   },
   {
     id: "fiat-topolino-2024-precio-ficha-tecnica",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
+    garantiaBateriaAnos: 3,
+    garantiaBateriaKm: 40000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/fiat-topolino-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/fiat-topolino-2024-precio-ficha-tecnica-interior.webp",
@@ -875,24 +875,25 @@ export const COCHES_FIAT: CocheComparador[] = [
     modelo: "Topolino",
     tipo: "Eléctrico",
     categoria: "Cuadriciclo",
-    precioDesde: 9890,
+    precioDesde: 9990,
     potenciaCv: 8,
     autonomiaKm: 75,
+    cicloAutonomia: "WMTC",
     maleteroL: null,
     ceroCien: null,
     velocidadMax: 45,
-    bateriaKwh: 5.4,
+    bateriaKwh: 5.5,
     cargaRapidaKw: null,
     etiquetaDgt: null,
     pros: [
       "Se conduce desde los 15 años con permiso AM",
-      "75 km de autonomía y 45 km/h: la ciudad sin emisiones",
+      "75 km de autonomía WMTC y 45 km/h: la ciudad sin emisiones",
       "2,56 m de largo: aparca en cualquier hueco",
       "Venta 100 % online con entrega a domicilio",
       "Diseño retro adorable inspirado en el 500 de 1957",
     ],
     contras: [
-      "Desde 9.890 €: más caro que el Citroën Ami equivalente",
+      "Desde 9.990 €: más caro que el Citroën Ami equivalente",
       "Sin airbags, sin aire acondicionado y sin apenas equipamiento",
       "75 km de autonomía: solo ciudad y alrededores",
       "Dos plazas y maletero testimonial",
@@ -925,25 +926,44 @@ export const COCHES_FIAT: CocheComparador[] = [
     galeria: [
       {
         src: "/media/fiat-topolino-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Fiat Topolino verde vita, vista lateral",
-        ancho: 1920,
-        alto: 1280
+        alt: "Fiat Topolino Verde Vita, frontal en calle de Roma",
+        ancho: 1400,
+        alto: 1120
       },
       {
         src: "/media/fiat-topolino-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior minimalista del Fiat Topolino, biplaza",
-        ancho: 1920,
-        alto: 1280
+        alt: "Fiat Topolino Dolcevita, trasera con techo de lona",
+        ancho: 1200,
+        alto: 795
       },
       {
         src: "/media/fiat-topolino-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Fiat Topolino verde vita en calle del centro de Roma",
-        ancho: 2352,
-        alto: 1008
+        alt: "Fiat Topolino Verde Vita circulando por una calle del centro",
+        ancho: 750,
+        alto: 500
       }
     ],
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Los cuadriciclos ligeros (L6e) no entran en el programa de pruebas de Euro NCAP (turismos); sin datos (18/10/2026)",
+    },
+    planMantenimiento: {
+      intervalo: "Cada 2 años o 20.000 km, lo que antes ocurra",
+      revisiones: [
+        {
+          nombre: "Revisión bienal / 20.000 km",
+          queSeCambia: "Según el plan de mantenimiento que Fiat entrega al hacer el pedido; vehículo de fácil mantenimiento con tutoriales en la app MyFiat",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "fiat.es (FAQ oficial del Topolino)"
+    },
     fuenteNombre: "fiat.es",
     fuenteUrl: "https://www.fiat.es/modelos/fiat-topolino",
+    analisisSlug: "fiat-topolino-2024-precio-ficha-tecnica",
   },
   {
     id: "fiat-grande-panda-ev-113-2025-precio-ficha-tecnica",
