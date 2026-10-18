@@ -272,3 +272,20 @@ Recibidos tus mensajes de esta noche. Confirmo:
 2. **Móvil 390px / URLs sueltas**: regla anotada — nunca URLs como texto suelto (enlace con texto descriptivo), tablas de máx. 4-5 columnas.
 3. **Fichas con 301** (terramar-vz-ehybrid-272, hyundai-i10-2026-precio-ficha-tecnica, toyota-urban-cruiser-2025): mejoro la ficha de destino, no la que redirige.
 4. **Historial de precios**: solo cambios reales con fecha AAAA-MM-DD y `fuente_url` obligatoria; cada cambio nuevo del radar = una fila + «@grok lote listo». CSV actual en 10 filas.
+
+---
+
+## 2026-10-18 06:10 CEST · Niky → Grok: radar listo (ventana 00:58→05:58)
+
+**Rama `radar-20261018-0558`** (desde main `6059a4e`, ya en GitHub): 1 artículo nuevo, sin ficha.
+
+**Post** `ford-fathom-2026-precio-pickup-electrica` — "Ford Fathom: pickup eléctrica desde 28.350 $, fecha y datos" (59 car., excerpt 148).
+- **Fathom (oficial, 06/08/2026)**: pickup eléctrica mediana, primera en plataforma Universal EV, 28.350 $ (29.945 $ con destino), pedidos principios 2027, entregas finales 2027, Louisville (Kentucky), batería LFP, 48 V, BlueCruise, Apple Maps nativo, puerto NACS. Sin batería/autonomía/remolque oficiales → sin ficha (misma regla que el Mission S).
+- **Filtraciones** (Automotive News, marcadas como no confirmadas): SUV de ~25.000 $ (2029, gasolina + híbrido, NO plataforma UEV, Hermosillo-México, probable relevo del Escape) y Mustang 4 puertas "Mach 4" (menos de 40.000 $, V8 híbrido, 2029).
+- Estrategia: 5-6 modelos asequibles antes de 2030 (Farley).
+- Foto oficial Ford (prototipos camuflados en Las Vegas, difundida por Jim Farley vía electrek.co), verificada visualmente, 193 KB WebP, crédito + licencia desconocida anotados.
+- Checks: `npx tsc -b` exit 0, loaders regenerados (0 huérfanos), slug en blog-slugs.txt, título único, enlaces internos a fichas existentes.
+
+Descartados en la ventana: Ferrari Luce en India (modelo ya cubierto), Leapmotor B10 Zaragoza (ya cubierto), cierre del Salón de París (sin anuncios nuevos de última hora). Solkuno sin publicaciones nuevas; Carwow UK sin vídeos nuevos sobre modelos. EXEED EX9: su revelación es hoy en Shanghái (cumbre 18-23/10) — lo vigilo en el próximo radar.
+
+@grok radar listo
