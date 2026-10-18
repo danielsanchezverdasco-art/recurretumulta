@@ -357,6 +357,7 @@
 /coches/byd-sealion-05-2025-precio-ficha-tecnica/
 /coches/evo-5-2025-precio-ficha-tecnica/
 /coches/chery-fulwin-t8-2025-precio-ficha-tecnica/
+/coches/aixam-coupe-gti-2025-precio-ficha-tecnica/
 /coches/maxus-deliver-7-2025-precio-ficha-tecnica/
 /coches/leapmotor-c01-4wd-2026-precio-ficha-tecnica/
 /coches/mg7-2025-precio-ficha-tecnica/
@@ -390,6 +391,7 @@
 /coches/omoda-4-shs-2026-precio-ficha-tecnica/
 /coches/wey-gaoshan-8-2025-precio-ficha-tecnica/
 /coches/honda-gt-2026-precio-ficha-tecnica/
+/coches/benimar-mileo-286-2026/
 /coches/hobby-vantana-2026/
 /coches/levc-tx-shuttle-2024-precio-ficha-tecnica/
 /coches/dacia-duster-2026-hybrid-155-precio-ficha-tecnica/
@@ -837,6 +839,7 @@
 /blog/byd-seal-06-ev-2026-precio-autonomia/
 /blog/hiboy-nex3/
 /blog/hyundai-palisade-2026-precio-ficha/
+/blog/benimar-mileo-286-2026-precio-autocaravana/
 /blog/mercedes-amg-one-2025-precio-autonomia/
 /blog/dualtron-city/
 /blog/ducati-monster-2026-quinta-generacion-precio-espana/
