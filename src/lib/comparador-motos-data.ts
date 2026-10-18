@@ -42,7 +42,8 @@ import { MOTOS_LOTE16 } from "./comparador-motos-lote16.ts";
 import { MOTOS_NUEVOS_M4 } from "./comparador-motos-nuevos-m4.ts";
 import { MOTOS_NUEVOS_M5 } from "./comparador-motos-nuevos-m5.ts";
 import { MOTOS_NUEVOS_M7 } from "./comparador-motos-nuevos-m7.ts";
-// import { MOTOS_NUEVOS_M6 } from "./comparador-motos-nuevos-m6.ts"; // EXCLUDED
+import { MOTOS_NUEVOS_M6 } from "./comparador-motos-nuevos-m6.ts"; // 18/10/2026: reincluido (26 fichas publicadas sin datos en el comparador)
+import FICHAS_REDIRIGIDAS from "./fichas-redirigidas.generated.json";
 import { MOTOS_NUEVOS_M3 } from "./comparador-motos-nuevos-m3.ts";
 import { MOTOS_NUEVOS_M1 } from "./comparador-motos-nuevos-m1.ts";
 import { MOTOS_NUEVOS_M2 } from "./comparador-motos-nuevos-m2.ts";
@@ -155,4 +156,24 @@ export const MOTOS_COMPARADOR: MotoComparador[] = [
   ...MOTOS_LOTE15,
   ...MOTOS_LOTE16,
   ...MOTOS_PRIORIDAD_20261014,
+  ...MOTOS_NUEVOS_M6,
 ];
+/** 18/10/2026: ids de datos sin ficha publicada (nunca tuvieron página; 404 en vivo). No se cuentan ni se enlazan. */
+const MOTOS_SIN_FICHA = new Set([
+  "cyclone-battlo",
+  "keeway-k-light-250v",
+  "zontes-368e",
+  "zontes-e125",
+  "ktm-1390-super-adventure-s-2026-ficha-tecnica-precio", // la ficha publicada es la 2025
+  "yamaha-xsr700-2026-ficha-tecnica-precio", // 301 a la XSR700 2025
+]);
+/** Solo motos con ficha publicada propia: fuera las que no tienen página y las duplicadas con 301
+ *  a otra ficha que sí existe (p. ej. 2025 -> 2026). Mismo recuento que el hub /motos/. */
+const REDIR = FICHAS_REDIRIGIDAS as Record<string, string>;
+const CON_PAGINA = new Set(MOTOS_COMPARADOR.filter((m) => !MOTOS_SIN_FICHA.has(m.id)).map((m) => m.id));
+export const MOTOS_PUBLICADAS: MotoComparador[] = MOTOS_COMPARADOR.filter((m) => {
+  if (!CON_PAGINA.has(m.id)) return false;
+  const destino = REDIR[`motos/${m.id}`];
+  return !(destino && CON_PAGINA.has(destino.replace(/^motos\//, "")));
+});
+

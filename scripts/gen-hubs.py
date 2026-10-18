@@ -2,6 +2,18 @@
 import os,re,json,sys,html
 D=sys.argv[1] if len(sys.argv)>1 else "dist"
 out={}
+def redirigidas(c):
+  # fichas con 301 a otra ficha que existe en dist (duplicadas): no cuentan como publicadas
+  R=set()
+  for l in open(f"{D}/_redirects",encoding="utf8"):
+    p=l.split()
+    if len(p)<3 or p[0].startswith("#") or not p[0].startswith(f"/{c}/"): continue
+    dst=p[1].replace("https://recurretumulta.online","")
+    if dst.startswith(f"/{c}/") and os.path.isfile(f"{D}{dst.rstrip('/')}/index.html"): R.add(p[0].strip("/").split("/")[-1])
+  return R
+def publicadas(c):
+  R=redirigidas(c)
+  return [s for s in sorted(os.listdir(f"{D}/{c}")) if s!="marca" and s not in R and os.path.isfile(f"{D}/{c}/{s}/index.html")]
 for c in ["coches","motos","patinetes"]:
   L=[]
   for s in sorted(os.listdir(f"{D}/{c}")):
@@ -15,5 +27,6 @@ for c in ["coches","motos","patinetes"]:
     n=html.unescape(re.sub(r"\s+"," ",n))[:80] or s
     L.append([s,n])
   out[c]=L
+json.dump({c:len(publicadas(c)) for c in out},open("src/lib/hub-conteos.generated.json","w"))
 for c,L in out.items(): json.dump(L,open(f"src/lib/hub-{c}.generated.json","w"),ensure_ascii=False,separators=(",",":"))
 print({k:len(v) for k,v in out.items()})

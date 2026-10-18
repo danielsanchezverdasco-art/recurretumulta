@@ -17,7 +17,7 @@ import FICHAS_FECHAS from "@/lib/fichas-fechas.generated.json";
 const FECHAS = FICHAS_FECHAS as Record<string, string>;
 const tsFicha = (id: string) => (FECHAS[id] ? Date.parse(FECHAS[id]) : 0);
 import {
-  MOTOS_COMPARADOR,
+  MOTOS_PUBLICADAS,
   type MotoComparador,
 } from "@/lib/comparador-motos-data.ts";
 import {
@@ -149,7 +149,7 @@ function patineteACard(p: PatineteComparador): FichaCard {
 
 const TODAS: FichaCard[] = [
   ...COCHES_COMPARADOR.map(cocheACard),
-  ...MOTOS_COMPARADOR.map(motoACard),
+  ...MOTOS_PUBLICADAS.map(motoACard),
   ...PATINETES_COMPARADOR.map(patineteACard),
 ];
 

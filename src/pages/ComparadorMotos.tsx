@@ -13,6 +13,7 @@ import CompartirBotones from "@/components/CompartirBotones.tsx";
 import EtiquetaDGT from "@/components/EtiquetaDGT.tsx";
 import {
   MOTOS_COMPARADOR,
+  MOTOS_PUBLICADAS,
   type MotoComparador,
 } from "@/lib/comparador-motos-data.ts";
 
@@ -216,14 +217,14 @@ export default function ComparadorMotosPage() {
 
   const porId = useMemo(() => new Map(MOTOS_COMPARADOR.map((m) => [m.id, m])), []);
   const categorias = useMemo(
-    () => [...new Set(MOTOS_COMPARADOR.map((m) => m.categoria))],
+    () => [...new Set(MOTOS_PUBLICADAS.map((m) => m.categoria))],
     []
   );
 
   const filtradas = useMemo(() => {
     const texto = q.trim().toLowerCase();
     const rango = RANGOS_CC.find((r) => r.id === rangoCc);
-    const lista = MOTOS_COMPARADOR.filter(
+    const lista = MOTOS_PUBLICADAS.filter(
       (m) =>
         (categoria === "todos" || m.categoria === categoria) &&
         (carnet === "todos" || codigoCarnet(m) === carnet) &&
@@ -381,7 +382,7 @@ export default function ComparadorMotosPage() {
         onBusqueda={(v) => { setQ(v); setVisibleCount(24); }}
         placeholderBusqueda="Busca marca o modelo… (ej. Silence, NIU)"
         stats={[
-          { valor: MOTOS_COMPARADOR.length, etiqueta: "modelos" },
+          { valor: MOTOS_PUBLICADAS.length, etiqueta: "modelos" },
           { valor: "2026", etiqueta: "actualizado" },
           { valor: "Cero", etiqueta: "etiqueta DGT" },
         ]}

@@ -24,9 +24,15 @@ def hubs():
   for c,m in HUBS.items():
     ruta=f"{D}/{c}/index.html"
     L_=[]
+    RED=set()
+    for l in open(f"{D}/_redirects",encoding="utf8"):
+      p=l.split()
+      if len(p)<3 or p[0].startswith("#") or not p[0].startswith(f"/{c}/"): continue
+      dst=p[1].replace(ORIG,"")
+      if dst.startswith(f"/{c}/") and os.path.isfile(f"{D}{dst.rstrip('/')}/index.html"): RED.add(p[0].strip("/").split("/")[-1])
     for s in sorted(os.listdir(f"{D}/{c}")):
       f=f"{D}/{c}/{s}/index.html"
-      if not os.path.isfile(f): continue
+      if s=="marca" or s in RED or not os.path.isfile(f): continue
       h=open(f,encoding="utf8",errors="ignore").read(60000)
       t=re.search(r"<title>([^<]*)",h); L_.append((s,html.unescape(t.group(1).split("|")[-1].strip() if t else s)))
     g={}
