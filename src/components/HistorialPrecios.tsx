@@ -127,7 +127,7 @@ export default function HistorialPrecios({ slug, nombre }: { slug: string; nombr
     return () => ro.disconnect();
   }, [n]);
 
-  if (!puntos || n < 2) return null; // 18/10/2026: con menos de 2 precios reales no hay historial que enseñar
+  if (!puntos || !n) return null;
   const ultimo = puntos[n - 1];
   const primero = puntos[0];
   const moneda = ultimo.m ?? "EUR";
@@ -239,6 +239,8 @@ export default function HistorialPrecios({ slug, nombre }: { slug: string; nombr
         <time dateTime={ultimo.f}>{fmtFecha(ultimo.f)}</time>)
       </p>
 
+      {/* 18/10/2026: con menos de 2 precios reales no se dibuja el gráfico (cabecera, punto verde de Seguimiento y tabla se mantienen) */}
+      {!unico && (
       <div ref={cajaRef} className="relative mt-3">
         <svg
           ref={svgRef}
@@ -361,6 +363,7 @@ export default function HistorialPrecios({ slug, nombre }: { slug: string; nombr
           </div>
         )}
       </div>
+      )}
 
       {unico ? (
         <p className="mt-2 text-xs text-gray-500">
