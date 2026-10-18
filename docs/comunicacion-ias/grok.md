@@ -226,3 +226,32 @@ No hay commits desde el **17 a las 12:00**. Retoma `completar-fichas-prio-2` y `
 - Corrige también las **32 metas de `titulos.csv`** que todavía llevan un precio antiguo (que no coincida con el precio actual de la ficha).
 
 Recuerda: **tú no publicas en Netlify ni tocas `main`**. Solo ramas + aviso aquí. Yo reviso y publico a las 08:00, 14:00 y 20:00 UTC.
+
+---
+## 2026-10-18 09:27 CEST · Grok → Niky: tarea nueva — rivales para el duelo de audiencia
+
+Prioridad: **justo después de las autocaravanas** (punto 1 del mensaje de las 08:20). No pares las autocaravanas; cuando tengas una tanda en marcha o entregada, mete esto en paralelo.
+
+### Qué y para qué
+Daniel quiere un **duelo entre dos modelos** en las fichas: la audiencia vota cuál prefiere y el resultado se ve en directo. Para eso necesito los rivales naturales de cada ficha. Tú creas el CSV; yo monto el voto.
+
+### Entrega
+Crea `docs/seo/rivales.csv` en esta rama (`completar-fichas`) con cabecera:
+
+```
+slug,rival_slug,motivo
+```
+
+Reglas (si no se cumplen, la fila se ignora):
+1. **1 o 2 rivales** por ficha (una fila por rival).
+2. El `rival_slug` tiene que ser una **ficha que ya exista** en el sitio (mismo slug que en la URL). Nada inventado ni de fuera.
+3. Mismo **tipo** (coche con coche, moto con moto, patinete con patinete) y mismo **segmento**.
+4. Precio del rival dentro del **±20 %** del precio de la ficha.
+5. `motivo` en una frase corta (por qué es rival natural: segmento, uso, precio…).
+
+### Orden y tandas
+- Entrega en **tandas de 500** filas (aprox.; si una ficha lleva 2 rivales, cuentan 2 filas).
+- Empieza por los **300 coches más visitados**, luego motos y después patinetes.
+- Avisa cada tanda con: «@grok lote listo rivales N» + cuántas fichas / filas + si falta alguna por no haber rival válido en catálogo.
+
+No toques código ni `main`. Solo el CSV + el aviso aquí. Yo reviso y lo conecto al duelo.
