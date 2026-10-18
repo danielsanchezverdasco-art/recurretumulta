@@ -15,6 +15,19 @@ import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 import CosaEnBanner from "@/components/CosaEnBanner.tsx";
 
+// Cumplimiento 18/10/2026 (A2): en Cataluña y País Vasco las multas de las vías
+// interurbanas NO las tramita la DGT. Webs oficiales verificadas el 18/10/2026.
+const AUTONOMICO: Record<string, { nombre: string; url: string; urlTexto: string; texto: string }> = (() => {
+  const sct = { nombre: "Servei Català de Trànsit (SCT)", url: "https://transit.gencat.cat/ca/inici/", urlTexto: "transit.gencat.cat",
+    texto: "Cataluña tiene competencia propia en tráfico: las denuncias en carreteras y autopistas catalanas las formulan los Mossos d'Esquadra y las tramita el Servei Català de Trànsit, no la DGT. Las alegaciones y recursos de esas multas se dirigen al SCT. Las multas urbanas (zona azul, semáforos, ZBE) son del ayuntamiento." };
+  const gv = { nombre: "Dirección de Tráfico del Gobierno Vasco", url: "https://www.trafikoa.euskadi.eus/inicio/", urlTexto: "trafikoa.euskadi.eus",
+    texto: "Euskadi tiene competencia propia en tráfico: la Ertzaintza denuncia en las carreteras vascas y la Dirección de Tráfico del Gobierno Vasco tramita esas sanciones, no la DGT. Las alegaciones y recursos de multas interurbanas se dirigen al Gobierno Vasco. Las multas urbanas (OTA, ZBE, semáforos) son del ayuntamiento." };
+  return { barcelona: sct, girona: sct, lleida: sct, tarragona: sct, bilbao: gv, "san-sebastian": gv, vitoria: gv };
+})();
+// A1 (doorway): Vigo y Santiago duplican a Pontevedra y A Coruña (75 % y 70 % de texto
+// compartido). noindex,follow hasta tener contenido municipal propio.
+const PROVINCIAS_NOINDEX = new Set(["vigo", "santiago-compostela"]);
+
 export default function MultaProvinciaPage() {
   const { provincia: slug } = useParams<{ provincia: string }>();
   const p = getProvinciaBySlug(slug ?? "");
@@ -32,7 +45,7 @@ export default function MultaProvinciaPage() {
   // DGT (Carta de Servicios, dgt.es), sede.dgt.gob.es y RDL 6/2015 (BOE).
   // Solo se muestran filas con dato verificado; si falta un campo, su fila se oculta.
 
-  const FOTOS: Record<string, string> = { madrid: "/media/file_sG1QGXHmBmVNNxxkWkdoekLf.webp", barcelona: "/media/file_NwTcVnMEc6kvu0BEmGS06Dij.webp", sevilla: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", malaga: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", granada: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", cordoba: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", cadiz: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", huelva: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", jaen: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", almeria: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", pontevedra: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", "a-coruna": "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", "santiago-compostela": "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", vigo: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", lugo: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", ourense: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", oviedo: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", santander: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", bilbao: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", "san-sebastian": "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", vitoria: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", valencia: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp", alicante: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp", murcia: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp", tarragona: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp", girona: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp", lleida: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp", castellon: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp", "palma-mallorca": "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp" }; const FOTO_DEFAULT = "/media/file_Z8djfEFD5PFw1iuocMtty02V.webp"; const fotoProvincia = FOTOS[slug ?? ""] ?? FOTO_DEFAULT; const faqsExtra = [ { pregunta: "¿Cuánto tiempo tengo para recurrir una multa de tráfico?", respuesta: "Dispones de 20 días naturales desde la notificación para presentar alegaciones o pagar con el 50% de descuento por pronto pago. Pasado ese plazo, la sanción se vuelve firme en vía administrativa." }, { pregunta: "¿Puedo recurrir una multa si ya la he pagado?", respuesta: "Sí, pero pagar con el descuento del 50% implica reconocer la infracción y renunciar a recurrir. Si pagas sin aplicar el descuento, puedes seguir recurriendo la sanción." }, { pregunta: "¿Qué pasa si no pago ni recurro la multa?", respuesta: "La multa pasará a la vía ejecutiva con un recargo del 20% y la Agencia Tributaria podrá embargar tus cuentas o tu nómina para cobrarla." } ]; const todasFaqs = [...(p?.faq ?? []), ...faqsExtra];
+  const FOTOS: Record<string, string> = { madrid: "/media/file_sG1QGXHmBmVNNxxkWkdoekLf.webp", barcelona: "/media/file_NwTcVnMEc6kvu0BEmGS06Dij.webp", sevilla: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", malaga: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", granada: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", cordoba: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", cadiz: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", huelva: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", jaen: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", almeria: "/media/file_z7yQQQfi3BZBv84NP4DxRwbb.webp", pontevedra: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", "a-coruna": "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", "santiago-compostela": "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", vigo: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", lugo: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", ourense: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", oviedo: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", santander: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", bilbao: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", "san-sebastian": "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", vitoria: "/media/file_leMADIEj9caf7aKJnih1DhqD.webp", valencia: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp", alicante: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp", murcia: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp", tarragona: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp", girona: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp", lleida: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp", castellon: "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp", "palma-mallorca": "/media/file_Chq0vdQj5Bt009N6mRa3YgE3.webp" }; const FOTO_DEFAULT = "/media/file_Z8djfEFD5PFw1iuocMtty02V.webp"; const fotoProvincia = FOTOS[slug ?? ""] ?? FOTO_DEFAULT; const auto = AUTONOMICO[slug ?? ""]; const todasFaqs = (p?.faq ?? []).filter((f) => !/^¿Cuánto tarda en resolverse un recurso|^¿Las multas del Ayuntamiento de .* se recurren igual/.test(f.pregunta)).map((f) => auto ? { pregunta: f.pregunta, respuesta: /presento el recurso/i.test(f.pregunta) ? `Las multas de carretera en ${p?.nombre} las tramita el ${auto.nombre} (${auto.urlTexto}), no la DGT: las alegaciones y el recurso se presentan ante ese organismo. Las multas municipales, ante el ayuntamiento.` : f.respuesta.replace(/Las multas de la DGT \(carreteras\) se recurren ante la Jefatura Provincial de Tráfico/g, `Las multas de carretera se recurren ante el ${auto.nombre}`).replace(/Las multas de carretera estatal en el País Vasco siguen el mismo procedimiento DGT\./, "Las multas de carretera en Euskadi las tramita la Dirección de Tráfico del Gobierno Vasco, con el mismo procedimiento sancionador de la Ley de Tráfico.") } : f);
 
 
   // SEO dinámico por provincia. Se llama siempre (nunca condicionalmente antes
@@ -46,6 +59,7 @@ export default function MultaProvinciaPage() {
     title: seoOverride?.title ?? `Multas en ${p.nombre}: recúrrelas gratis 2026`,
     description: `¿Multa de la DGT o Policía Local en ${p.nombre}? Analízala gratis con IA: detecta vicios de forma y genera tu recurso en PDF.`,
     canonical: `/multas/${p.slug}/`,
+    noindex: PROVINCIAS_NOINDEX.has(p.slug),
     // E-E-A-T 17/10/2026: misma fecha que el JSON-LD de la página (fecha de publicación no registrada).
     dateModified: "2026-10-04",
     keywords: [
@@ -65,7 +79,7 @@ export default function MultaProvinciaPage() {
           "@id": `https://recurretumulta.online/multas/${p.slug}`,
           "url": `https://recurretumulta.online/multas/${p.slug}`,
           "name": `Recurrir multas de tráfico en ${p.nombre} — RecurreTuMulta.online`,
-          "description": `Guía completa para recurrir multas DGT, ${p.dgtDelegacion} y Ayuntamiento de ${p.capital}. Análisis IA gratis, recurso PDF por 4,99€.`,
+          "description": `Dónde y cómo recurrir multas de tráfico en ${p.nombre}: organismo competente, plazos, radares y zonas de bajas emisiones.`,
           "inLanguage": "es-ES",
           "author": {
             "@type": "Person",
@@ -85,23 +99,9 @@ export default function MultaProvinciaPage() {
           },
         },
         {
-          "@type": "LocalBusiness",
-          "@id": `https://recurretumulta.online/multas/${p.slug}#service`,
-          "name": `RecurreTuMulta.online — Recurrir multas en ${p.nombre}`,
-          "description": `Servicio de IA para recurrir multas de tráfico en ${p.nombre}. ${p.dgtDelegacion}.`,
-          "url": `https://recurretumulta.online/multas/${p.slug}`,
-          "areaServed": {
-            "@type": "AdministrativeArea",
-            "name": p.nombre,
-            "containedInPlace": { "@type": "Country", "name": "España" },
-          },
-          "address": { "@type": "PostalAddress", "addressLocality": p.capital, "addressCountry": "ES" },
-          "priceRange": "€",
-        },
-        {
           "@type": "GovernmentOffice",
           "name": p.dgtDelegacion,
-          "description": `Oficina oficial de la DGT para presentar recursos de multas en ${p.nombre}.`,
+          "description": AUTONOMICO[p.slug] ? `Jefatura de la DGT en ${p.nombre} (vehículos y permisos). Las multas interurbanas las tramita el ${AUTONOMICO[p.slug].nombre}.` : `Oficina oficial de la DGT para presentar recursos de multas en ${p.nombre}.`,
           "address": {
             "@type": "PostalAddress",
             "streetAddress": (p as {direccionDgt?: string}).direccionDgt ?? "",
@@ -184,7 +184,7 @@ export default function MultaProvinciaPage() {
             <p
               className="text-white/80 text-sm md:text-base leading-relaxed max-w-xl"
             >
-              Guía completa para impugnar multas de la DGT, {p.dgtDelegacion} y Ayuntamiento de {p.capital}. Análisis con IA gratis, recurso PDF por 4,99€.
+              Quién tramita tu multa en {p.nombre}, dónde presentar el recurso, plazos, radares y zonas de bajas emisiones.
             </p>
             <div
               className="flex items-center gap-2 text-xs text-white/60 pt-1"
@@ -195,15 +195,6 @@ export default function MultaProvinciaPage() {
               <span>Por <Link to="/sobre-nosotros/" rel="author" className="underline underline-offset-2">Daniel</Link>, fundador y responsable de contenidos de RecurreTuMulta.online</span>
               <span aria-hidden="true">·</span>
               <span>Actualizado: octubre 2026</span>
-            </div>
-            <div
-              className="flex flex-wrap gap-1.5 pt-1"
-            >
-              {p.keywords.slice(0, 5).map((kw) => (
-                <span key={kw} className="inline-flex items-center gap-1 text-[10px] bg-white/10 text-white/70 rounded-full px-2 py-0.5">
-                  <Tag className="w-2.5 h-2.5" />{kw}
-                </span>
-              ))}
             </div>
           </div>
         </div>
@@ -218,7 +209,7 @@ export default function MultaProvinciaPage() {
               <table className="w-full text-sm">
                 <tbody className="divide-y divide-gray-100">
                   <tr>
-                    <td className="py-2 pr-3 font-semibold text-gray-700 align-top whitespace-nowrap">Oficina DGT</td>
+                    <td className="py-2 pr-3 font-semibold text-gray-700 align-top whitespace-nowrap">{auto ? "Oficina DGT (vehículos y permisos)" : "Oficina DGT"}</td>
                     <td className="py-2 text-gray-600">{p.dgtDelegacion} — {p.direccionDgt}</td>
                   </tr>
                   {p.telefonoDgt && (
@@ -230,13 +221,19 @@ export default function MultaProvinciaPage() {
                       </td>
                     </tr>
                   )}
-                  <tr>
+                  {auto && (
+                    <tr>
+                      <td className="py-2 pr-3 font-semibold text-gray-700 align-top whitespace-nowrap">Multas de carretera</td>
+                      <td className="py-2 text-gray-600">Las tramita el {auto.nombre}: <a href={auto.url} target="_blank" rel="noopener noreferrer" className="text-red-600 hover:underline">{auto.urlTexto}</a></td>
+                    </tr>
+                  )}
+                  {!auto && <tr>
                     <td className="py-2 pr-3 font-semibold text-gray-700 align-top whitespace-nowrap">Pagar online</td>
                     <td className="py-2 text-gray-600"><a href={PORTAL_PAGO_MULTAS_DGT} target="_blank" rel="noopener noreferrer" className="text-red-600 hover:underline">sede.dgt.gob.es — Paga tu multa</a></td>
-                  </tr>
+                  </tr>}
                   <tr>
                     <td className="py-2 pr-3 font-semibold text-gray-700 align-top whitespace-nowrap">Plazo para recurrir</td>
-                    <td className="py-2 text-gray-600">{PLAZO_ALEGACIONES_MULTAS}</td>
+                    <td className="py-2 text-gray-600">Alegaciones: {PLAZO_ALEGACIONES_MULTAS} de la denuncia. Recurso de reposición: 1 mes desde la resolución sancionadora.</td>
                   </tr>
                 </tbody>
               </table>
@@ -253,7 +250,7 @@ export default function MultaProvinciaPage() {
               </div>
               <div>
                 <p className="font-black text-sm">¿Tienes una multa de {p.nombre}?</p>
-                <p className="text-white/80 text-xs">La IA detecta en segundos si tu multa tiene defectos que la anulan. Gratis.</p>
+                <p className="text-white/80 text-xs">Nuestra herramienta puede detectar posibles defectos de forma. Gratis y sin garantía de resultado.</p>
               </div>
             </div>
             <Link to="/#analizador" className="block">
@@ -328,140 +325,31 @@ export default function MultaProvinciaPage() {
             </Card>
           )}
 
-          {/* Sede Oficial DGT */}
-          <Card className="border border-gray-200 bg-gray-50">
-            <CardContent className="p-4 space-y-3">
-              <div className="flex items-center gap-2">
-                <div className="w-8 h-8 bg-red-100 rounded-xl flex items-center justify-center shrink-0">
-                  <MapPin className="w-4 h-4 text-red-600" />
-                </div>
-                <div>
-                  <p className="text-sm font-black text-gray-900">{p.dgtDelegacion}</p>
-                  <p className="text-[10px] text-gray-400 uppercase tracking-wide font-semibold">Sede oficial para presentar recursos</p>
-                </div>
-              </div>
-              <div className="grid grid-cols-1 gap-2 text-xs text-gray-600">
-                {(p as {direccionDgt?: string}).direccionDgt && (
-                  <div className="flex items-start gap-2">
-                    <MapPin className="w-3.5 h-3.5 text-gray-400 mt-0.5 shrink-0" />
-                    <span className="font-semibold">{(p as {direccionDgt?: string}).direccionDgt}</span>
-                  </div>
-                )}
-                <div className="flex items-center gap-2">
-                  <Mail className="w-3.5 h-3.5 text-gray-400 shrink-0" />
-                  <a href={`mailto:${p.emailDgt}`} className="text-red-600 hover:underline font-semibold">{p.emailDgt}</a>
-                </div>
-              </div>
-              <div className="flex flex-wrap gap-2 pt-1">
-                <a
-                  href="https://sede.dgt.gob.es"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-[10px] bg-white border border-gray-200 rounded-lg px-3 py-1.5 font-bold text-gray-700 hover:border-red-400 hover:text-red-600 transition-colors flex items-center gap-1"
-                >
-                  <Check className="w-3 h-3" /> Sede Electrónica DGT
+          {/* Organismo competente (Cataluña / País Vasco) */}
+          {auto && (
+            <Card className="border-2 border-amber-200 bg-amber-50">
+              <CardContent className="p-4 space-y-2">
+                <p className="text-sm font-black text-gray-900">¿Quién tramita tu multa en {p.nombre}?</p>
+                <p className="text-xs text-gray-700 leading-relaxed">{auto.texto}</p>
+                <a href={auto.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1 text-xs text-red-600 font-semibold hover:underline">
+                  {auto.urlTexto} <ArrowRight className="w-3 h-3" />
                 </a>
-                <span className="text-[10px] bg-white border border-gray-200 rounded-lg px-3 py-1.5 font-bold text-gray-500 flex items-center gap-1">
-                  <Clock className="w-3 h-3" /> Cita previa: 060
-                </span>
-              </div>
-            </CardContent>
-          </Card>
-
-          {/* Cómo recurrir step-by-step */}
-          <div className="space-y-4">
-            <h2 className="text-xl font-black text-gray-900">
-              Cómo recurrir una multa DGT en {p.nombre}
-            </h2>
-            <div className="space-y-3">
-              {[
-                {
-                  n: "1",
-                  title: "Analiza tu multa con IA (gratis)",
-                  desc: "Sube tu multa a RecurreTuMulta.online. La IA detecta en segundos los defectos legales, el % de viabilidad y los argumentos exactos para tu recurso.",
-                },
-                {
-                  n: "2",
-                  title: "Revisa los argumentos detectados",
-                  desc: "Verás una lista detallada de defectos: falta de señalización, prescripción, error en la identificación del conductor, verificación caducada del radar, etc.",
-                },
-                {
-                  n: "3",
-                  title: "Descarga el recurso PDF listo para enviar (4,99€)",
-                  desc: "El PDF incluye todos los argumentos en lenguaje jurídico, con referencias exactas a la LTSV, el RPSANVI y la jurisprudencia del Tribunal Supremo.",
-                },
-                {
-                  n: "4",
-                  title: `Presenta ante ${p.dgtDelegacion}`,
-                  desc: `Envíalo por correo certificado o en sede.dgt.gob.es. Plazo: 1 mes desde la notificación. Contacto: ${p.emailDgt}`,
-                },
-              ].map((step) => (
-                <div key={step.n} className="flex gap-3">
-                  <div className="w-7 h-7 bg-red-600 text-white rounded-full flex items-center justify-center text-xs font-black shrink-0 mt-0.5">
-                    {step.n}
-                  </div>
-                  <div className="space-y-0.5">
-                    <p className="text-sm font-black text-gray-900">{step.title}</p>
-                    <p className="text-xs text-gray-500 leading-relaxed">{step.desc}</p>
-                  </div>
-                </div>
-              ))}
-            </div>
-          </div>
-
-          {/* Vídeo: defectos que pueden anular tu multa */}
-          <section className="space-y-3">
-            <h2 className="text-xl font-black text-gray-900">
-              Vídeo: los defectos que pueden anular tu multa en {p.nombre}
-            </h2>
-            <div className="rounded-2xl overflow-hidden border border-gray-200 bg-gray-950">
-              <video
-                controls
-                preload="metadata"
-                className="w-full aspect-video"
-                aria-label="Vídeo explicativo: defectos de forma que pueden anular una multa de tráfico"
-              >
-                <source src="/media/guia-vicios-forma.mp4" type="video/mp4" />
-                Tu navegador no soporta la reproducción de vídeo.
-              </video>
-            </div>
-            <p className="text-xs text-gray-500 leading-relaxed">
-              Falta de señalización, errores en la notificación, radar sin verificación vigente o prescripción: estos son los
-              defectos que más multas anulan en {p.nombre}. La IA de RecurreTuMulta.online los detecta automáticamente al analizar tu multa.
+                <p className="text-[11px] text-gray-500">La {p.dgtDelegacion} solo atiende trámites de vehículos y permisos de conducir.</p>
+              </CardContent>
+            </Card>
+          )}
+          {/* Cómo recurrir (A1/A3 18/10/2026: sin pasos de plantilla; plazos correctos) */}
+          <section className="space-y-2">
+            <h2 className="text-xl font-black text-gray-900">Dónde y en qué plazo recurrir en {p.nombre}</h2>
+            <p className="text-sm text-gray-600 leading-relaxed">
+              {auto
+                ? <>Si la denuncia es de carretera, preséntala ante el {auto.nombre} ({auto.urlTexto}).</>
+                : <>Si la denuncia es de la DGT, preséntala ante la {p.dgtDelegacion} ({p.emailDgt}) o en sede.dgt.gob.es.</>}
+              {" "}Si es del Ayuntamiento de {p.capital}, ante el propio ayuntamiento.
+              {" "}<strong>Alegaciones:</strong> {PLAZO_ALEGACIONES_MULTAS} de la denuncia. <strong>Recurso de reposición:</strong> 1 mes desde la resolución sancionadora.
+              {" "}Explicamos el procedimiento completo en la <Link to="/multas/" className="text-red-600 hover:underline">guía general para recurrir multas</Link>.
             </p>
           </section>
-
-          {/* Delegación DGT */}
-          <Card className="border border-gray-200">
-            <CardContent className="p-4 space-y-3">
-              <div className="flex items-center gap-2">
-                <Shield className="w-4 h-4 text-red-600" />
-                <p className="text-sm font-black text-gray-900">{p.dgtDelegacion}</p>
-              </div>
-              <div className="space-y-1.5">
-                <div className="flex items-center gap-2 text-xs text-gray-600">
-                  <Mail className="w-3.5 h-3.5 text-gray-400" />
-                  <span>{p.emailDgt}</span>
-                </div>
-                <div className="flex items-center gap-2 text-xs text-gray-600">
-                  <Phone className="w-3.5 h-3.5 text-gray-400" />
-                  <span>060 (atención DGT nacional)</span>
-                </div>
-                <div className="flex items-center gap-2 text-xs text-gray-600">
-                  <Clock className="w-3.5 h-3.5 text-gray-400" />
-                  <span>Plazo recurso reposición: 1 mes desde notificación</span>
-                </div>
-              </div>
-              <a
-                href="https://sede.dgt.gob.es"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-1 text-xs text-red-600 font-semibold hover:underline"
-              >
-                sede.dgt.gob.es <ArrowRight className="w-3 h-3" />
-              </a>
-            </CardContent>
-          </Card>
 
           {/* FAQ provincia */}
           {todasFaqs.length > 0 && (
@@ -478,40 +366,11 @@ export default function MultaProvinciaPage() {
             </div>
           )}
 
-          {/* Keywords SEO */}
-          <div className="border border-gray-100 rounded-2xl p-4 bg-gray-50 space-y-3">
-            <p className="text-xs font-bold uppercase tracking-widest text-gray-400 flex items-center gap-1.5">
-              <Tag className="w-3 h-3" /> Términos relacionados
-            </p>
-            <div className="flex flex-wrap gap-1.5">
-              {p.keywords.map((kw, i) => (
-                <span key={i} className="text-[11px] bg-white border border-gray-200 text-gray-500 rounded-full px-2.5 py-1">
-                  {kw}
-                </span>
-              ))}
-            </div>
-          </div>
-
-      <figure className="my-8">
-        <img src="/media/tabla-multas-exceso-velocidad-2026.webp" alt="Tabla de multas de tráfico más comunes en España: importe y puntos por infracción" className="w-full rounded-3xl border border-slate-200" loading="lazy" />
-      </figure>
-
-{/* Tabla de multas más comunes */} <section className="rounded-2xl border border-gray-200 bg-white p-4 md:p-6 space-y-3"> <h2 className="text-lg md:text-xl font-black text-gray-900">Multas de tráfico más comunes: importe y puntos</h2> <div className="overflow-x-auto"> <table className="w-full text-sm"> <thead> <tr className="text-left text-xs uppercase tracking-wider text-gray-500 border-b border-gray-200"> <th className="py-2 pr-4">Infracción</th> <th className="py-2 pr-4">Importe</th> <th className="py-2">Puntos</th> </tr> </thead> <tbody className="divide-y divide-gray-100"> {[["Exceso de velocidad leve","100 €","0"],["Exceso de velocidad grave","300 €","2"],["Exceso de velocidad muy grave","400 €","4"],["Exceso de más de 60 km/h sobre el límite","600 €","6"],["Saltarse un semáforo en rojo","200 €","4"],["Usar el móvil al volante","200 €","6"],["No usar el cinturón de seguridad","200 €","4"],["Alcohol: 0,25–0,50 mg/l","500 €","4"],["Alcohol: más de 0,60 mg/l","1.000 €","6"],["Aparcar en lugar prohibido","200 €","0"],["Circular sin la ITV en vigor","200 €","0"]].map((r, i) => ( <tr key={i} className="text-gray-700"> <td className="py-2 pr-4">{r[0]}</td> <td className="py-2 pr-4 font-bold text-gray-900">{r[1]}</td> <td className="py-2">{r[2]}</td> </tr> ))} </tbody> </table> </div> <p className="text-xs text-gray-500">Si pagas dentro de los primeros 20 días naturales obtienes un 50% de descuento por pronto pago, pero renuncias a recurrir la sanción.</p> </section> {/* Fuentes oficiales */} <section className="rounded-2xl border border-gray-200 bg-gray-50 p-4 md:p-6 space-y-3"> <h2 className="text-lg md:text-xl font-black text-gray-900">Fuentes oficiales</h2> <ul className="space-y-2 text-sm"> <li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722" target="_blank" rel="noopener noreferrer" className="text-red-700 underline">Real Decreto Legislativo 6/2015 — Ley sobre Tráfico (BOE)</a></li> <li><a href="https://sede.dgt.gob.es" target="_blank" rel="noopener noreferrer" className="text-red-700 underline">Sede electrónica de la DGT — consulta y pago de multas</a></li> <li><a href="https://www.dgt.es" target="_blank" rel="noopener noreferrer" className="text-red-700 underline">Dirección General de Tráfico (DGT)</a></li> </ul> </section> {/* Guías relacionadas */} <section className="rounded-2xl border border-gray-200 bg-white p-4 md:p-6 space-y-3"> <h2 className="text-lg md:text-xl font-black text-gray-900">Guías relacionadas</h2> <ul className="space-y-2 text-sm"> <li><Link to="/blog/como-recurrir-multa-dgt-sin-abogado/" className="text-red-700 underline">Cómo recurrir una multa de la DGT sin abogado</Link></li> <li><Link to="/blog/defectos-forma-anulan-multa-dgt/" className="text-red-700 underline">Defectos de forma que pueden anular tu multa</Link></li> <li><Link to="/blog/recurrir-multa-radar-velocidad/" className="text-red-700 underline">Cómo recurrir una multa de radar de velocidad</Link></li> <li><Link to="/blog/prescripcion-y-caducidad-de-las-multas-de-trafico-cuando-expira-una-sancion-de-la-dgt-plazos-legales-mitos-y-como-anular-expedientes-fuera-de-plazo/" className="text-red-700 underline">Prescripción de multas de tráfico: plazos</Link></li> {p.multas.zonasBajas.length > 0 && (<li><Link to="/blog/como-recurrir-multas-de-la-zbe-en-madrid-barcelona-y-toda-espana-guia-definitiva-y-modelos-con-ia/" className="text-red-700 underline">Cómo recurrir multas de la ZBE en Madrid, Barcelona y toda España</Link></li>)} {slug === "madrid" && (<li><Link to="/blog/multa-trafico-madrid-recurrir/" className="text-red-700 underline">Multa de tráfico en Madrid: cómo recurrir</Link></li>)} {slug === "barcelona" && (<li><Link to="/blog/multa-trafico-barcelona-recurrir/" className="text-red-700 underline">Multa de tráfico en Barcelona: cómo recurrir</Link></li>)} <li><Link to="/guias/vicios-forma/" className="text-red-700 underline">Guía: vicios de forma que pueden anular tu multa</Link></li> <li><Link to="/guias/radares/" className="text-red-700 underline">Guía: radares de tráfico y cómo recurrir sus multas</Link></li> <li><Link to="/guias/prescripcion/" className="text-red-700 underline">Guía: prescripción de multas de tráfico</Link></li> <li><Link to="/herramientas/" className="text-red-700 underline">Herramientas gratis: calculadoras y conversores</Link></li> </ul> </section>
+<p className="text-sm text-gray-600">Importes y puntos de cada infracción: <Link to="/buscador-codigo-multa/" className="text-red-700 underline">buscador de códigos de multa</Link>.</p> {/* Fuentes oficiales */} <p className="text-xs text-gray-500">Fuentes: <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722" target="_blank" rel="noopener noreferrer" className="underline">RDL 6/2015 (BOE)</a> · {auto ? <a href={auto.url} target="_blank" rel="noopener noreferrer" className="underline">{auto.nombre}</a> : <a href="https://sede.dgt.gob.es" target="_blank" rel="noopener noreferrer" className="underline">sede.dgt.gob.es</a>}</p> {/* Guías relacionadas (A1: reducidas) */} <section className="space-y-2"> <h2 className="text-lg font-black text-gray-900">Guías relacionadas</h2> <ul className="space-y-1 text-sm"> <li><Link to="/guias/vicios-forma/" className="text-red-700 underline">Vicios de forma que pueden anular una multa</Link></li> {p.multas.radares.length > 0 && (<li><Link to="/guias/radares/" className="text-red-700 underline">Radares y cómo recurrir sus multas</Link></li>)} {p.multas.zonasBajas.length > 0 && (<li><Link to="/blog/como-recurrir-multas-de-la-zbe-en-madrid-barcelona-y-toda-espana-guia-definitiva-y-modelos-con-ia/" className="text-red-700 underline">Cómo recurrir multas de la ZBE</Link></li>)} {slug === "madrid" && (<li><Link to="/blog/multa-trafico-madrid-recurrir/" className="text-red-700 underline">Multa de tráfico en Madrid: cómo recurrir</Link></li>)} {slug === "barcelona" && (<li><Link to="/blog/multa-trafico-barcelona-recurrir/" className="text-red-700 underline">Multa de tráfico en Barcelona: cómo recurrir</Link></li>)} </ul> </section>
           <Card className="border-2 border-red-200">
             <CardContent className="p-5 space-y-4">
               <p className="font-black text-gray-900">¿Tienes una multa en {p.nombre}?</p>
-              <ul className="space-y-1.5">
-                {[
-                  "Análisis IA en 60 segundos — completamente gratis",
-                  "Detecta automáticamente defectos legales",
-                  "Recurso PDF listo para enviar por solo 4,99€",
-                  `Compatible con multas de ${p.dgtDelegacion}`,
-                ].map((b) => (
-                  <li key={b} className="flex items-center gap-2 text-xs text-gray-600">
-                    <Check className="w-3.5 h-3.5 text-red-500 shrink-0" /> {b}
-                  </li>
-                ))}
-              </ul>
+              
               <Link to="/#analizador" className="block">
                 <Button className="w-full font-black h-12 bg-red-600 hover:bg-red-700 text-white rounded-xl shadow-lg shadow-red-200">
                   <Sparkles className="w-4 h-4 mr-2" />
