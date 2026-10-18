@@ -162,7 +162,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     consumo: 4.2,
     consumoUnidad: "l/100 km",
     plazas: 5,
-    parNm: 170,
+    parNm: null,
     traccion: "Delantera",
     emisionesCo2: 96,
     aprox: [],
@@ -182,9 +182,9 @@ export const COCHES_DACIA: CocheComparador[] = [
       "El cambio automático electrificado puede resultar ruidoso a plena carga",
       "Entregas a partir del cuarto trimestre de 2026: lista de espera inicial",
     ],
-    imagen: "/media/dacia-sandero-hybrid-155-2026-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/dacia-sandero-hybrid-155-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-sandero-hybrid-155-2026-precio-ficha-tecnica-interior.webp",
+    imagen: "/media/dacia-sandero-hybrid-155-2026-precio-ficha-tecnica-1.webp",
+    imagenOficial: "/media/dacia-sandero-hybrid-155-2026-precio-ficha-tecnica-1.webp",
+    imagenInteriorOficial: "/media/dacia-sandero-hybrid-155-2026-precio-ficha-tecnica-3.webp",
     videoId: "JehEwxCQkmk",
     videoCanal: "SoyMotor",
     opiniones: [],
@@ -214,9 +214,24 @@ export const COCHES_DACIA: CocheComparador[] = [
       fuente: "Dacia España — blog oficial: mantenimiento del coche híbrido (https://www.dacia.es/blog/seguridad-consejos/mantenimiento-del-coche-hibrido-claves-ahorro-real.html)",
     },
     galeria: [
-      { "src": "/media/dacia-sandero-hybrid-155-2026-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Sandero Hybrid 155 2026, vista exterior", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-sandero-hybrid-155-2026-precio-ficha-tecnica-hero.webp", "alt": "Dacia Sandero Hybrid 155 2026, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-sandero-hybrid-155-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Sandero Hybrid 155 2026", "ancho": 1920, "alto": 1280 }
+      {
+        "src": "/media/dacia-sandero-hybrid-155-2026-precio-ficha-tecnica-2.webp",
+        "alt": "Dacia Sandero Hybrid 155, lateral",
+        "ancho": 700,
+        "alto": 525
+      },
+      {
+        "src": "/media/dacia-sandero-hybrid-155-2026-precio-ficha-tecnica-3.webp",
+        "alt": "Interior del Dacia Sandero Hybrid 155",
+        "ancho": 1920,
+        "alto": 1279
+      },
+      {
+        "src": "/media/dacia-sandero-hybrid-155-2026-precio-ficha-tecnica-4.webp",
+        "alt": "Dacia Sandero Hybrid 155, tres cuartos trasero",
+        "ancho": 992,
+        "alto": 536
+      }
     ],
   },
   {
@@ -371,12 +386,12 @@ export const COCHES_DACIA: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     largoMm: 4099,
     anchoMm: 1848,
-    altoMm: 1535,
+    altoMm: 1590,
     pesoKg: null,
     consumo: 4.4,
     consumoUnidad: "l/100 km",
     plazas: 5,
-    parNm: 170,
+    parNm: null,
     traccion: "Delantera",
     emisionesCo2: 100,
     aprox: [],
@@ -396,9 +411,9 @@ export const COCHES_DACIA: CocheComparador[] = [
       "Datos de peso y prestaciones no publicados en el lanzamiento",
       "Entregas a partir del cuarto trimestre de 2026",
     ],
-    imagen: "/media/dacia-sandero-stepway-hybrid-155-2026-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/dacia-sandero-stepway-hybrid-155-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-sandero-stepway-hybrid-155-2026-precio-ficha-tecnica-interior.webp",
+    imagen: "/media/dacia-sandero-stepway-hybrid-155-2026-precio-ficha-tecnica-1.webp",
+    imagenOficial: "/media/dacia-sandero-stepway-hybrid-155-2026-precio-ficha-tecnica-1.webp",
+    imagenInteriorOficial: "/media/dacia-sandero-stepway-hybrid-155-2026-precio-ficha-tecnica-4.webp",
     videoId: "tVqq7Skbt9w",
     videoCanal: "coches.net",
     opiniones: [],
@@ -428,9 +443,24 @@ export const COCHES_DACIA: CocheComparador[] = [
       fuente: "Dacia España — blog oficial: mantenimiento del coche híbrido (https://www.dacia.es/blog/seguridad-consejos/mantenimiento-del-coche-hibrido-claves-ahorro-real.html)",
     },
     galeria: [
-      { "src": "/media/dacia-sandero-stepway-hybrid-155-2026-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Sandero Stepway Hybrid 155 2026, vista exterior", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-sandero-stepway-hybrid-155-2026-precio-ficha-tecnica-hero.webp", "alt": "Dacia Sandero Stepway Hybrid 155 2026, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-sandero-stepway-hybrid-155-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Sandero Stepway Hybrid 155 2026", "ancho": 1920, "alto": 1280 }
+      {
+        "src": "/media/dacia-sandero-stepway-hybrid-155-2026-precio-ficha-tecnica-2.webp",
+        "alt": "Dacia Sandero Stepway Hybrid 155, lateral",
+        "ancho": 1920,
+        "alto": 1082
+      },
+      {
+        "src": "/media/dacia-sandero-stepway-hybrid-155-2026-precio-ficha-tecnica-3.webp",
+        "alt": "Trasera del Dacia Sandero Stepway Hybrid 155",
+        "ancho": 1500,
+        "alto": 1000
+      },
+      {
+        "src": "/media/dacia-sandero-stepway-hybrid-155-2026-precio-ficha-tecnica-4.webp",
+        "alt": "Interior del Dacia Sandero Stepway Hybrid 155",
+        "ancho": 1024,
+        "alto": 683
+      }
     ],
   },
   {

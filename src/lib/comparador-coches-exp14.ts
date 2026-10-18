@@ -614,8 +614,8 @@ export const COCHES_EXP14: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
-    imagenOficial: "/media/cupra-terramar-vz-ehybrid-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "",
+    imagenOficial: "/media/cupra-terramar-vz-ehybrid-2025-precio-ficha-tecnica-1.webp",
+    imagenInteriorOficial: "/media/cupra-terramar-vz-ehybrid-2025-precio-ficha-tecnica-3.webp",
     videoId: null,
     videoCanal: null,
     marca: "Cupra",
@@ -624,7 +624,7 @@ export const COCHES_EXP14: CocheComparador[] = [
     categoria: "SUV",
     precioDesde: 53010,
     potenciaCv: 272,
-    autonomiaKm: 116,
+    autonomiaKm: 121,
     maleteroL: 400,
     ceroCien: 7.3,
     velocidadMax: 215,
@@ -656,24 +656,38 @@ export const COCHES_EXP14: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 10,
     aprox: [],
-    imagen: "/media/cupra-terramar-vz-ehybrid-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "/media/cupra-terramar-vz-ehybrid-2025-precio-ficha-tecnica-1.webp",
     opiniones: [],
     costeMensual: null,
     galeria: [
       {
-        src: "/media/cupra-terramar-vz-ehybrid-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Cupra Terramar VZ e-Hybrid 2025 en carretera",
-        ancho: 1920,
-        alto: 1280,
+        "src": "/media/cupra-terramar-vz-ehybrid-2025-precio-ficha-tecnica-2.webp",
+        "alt": "Cupra Terramar, trasera de tres cuartos",
+        "ancho": 1920,
+        "alto": 1080
       },
       {
-        src: "/media/cupra-terramar-vz-ehybrid-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Cupra Terramar VZ e-Hybrid 2025, vista lateral",
-        ancho: 1920,
-        alto: 1280,
+        "src": "/media/cupra-terramar-vz-ehybrid-2025-precio-ficha-tecnica-3.webp",
+        "alt": "Interior del Cupra Terramar",
+        "ancho": 1920,
+        "alto": 1050
       },
+      {
+        "src": "/media/cupra-terramar-vz-ehybrid-2025-precio-ficha-tecnica-4.webp",
+        "alt": "Consola central del Cupra Terramar",
+        "ancho": 1920,
+        "alto": 1286
+      }
     ],
-    analisisSlug: "cupra-terramar-vz-ehybrid-2025-precio-ficha-tecnica",
+    fuenteNombre: "CUPRA Media Center (nota oficial de lanzamiento y lista de precios)",
+    fuenteUrl: "https://www.seat-cupra-mediacenter.es/CUPRA-Brand/noticias/2024/Ya-es-posible-realizar-pedidos-del-CUPRA-Terramar-el-nuevo-SUV-deportivo-de-la-marca",
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: "https://euroncap.blob.core.windows.net/media/86411/euroncap-2025-cupra-terramar-datasheet.pdf",
+      nota: "5 estrellas Euro NCAP (abril 2025): 89 % adulto, 87 % infantil",
+    },
+analisisSlug: "cupra-terramar-vz-ehybrid-2025-precio-ficha-tecnica",
   },
   {
     id: "cupra-raval-vz-2025-precio-ficha-tecnica",
