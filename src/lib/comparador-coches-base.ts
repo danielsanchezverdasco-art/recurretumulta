@@ -677,7 +677,7 @@ export const COCHES_BASE: CocheComparador[] = [
     cargaRapidaKw: 140,
     etiquetaDgt: "Cero",
     pros: [
-      "218 CV y 361 km WLTP desde 27.000 € (434 km en la ProMax): relación precio/producto rompedora",
+      "218 CV y 361 km WLTP desde 29.900 € (434 km en la ProMax): relación precio/producto rompedora",
       "Carga rápida de 140/168 kW con batería LFP: excelente por este precio",
       "Tracción trasera, rara en el segmento",
       "Interior tecnológico: pantalla de 14,6\", LEAP OS 4.0, chip Qualcomm 8155",

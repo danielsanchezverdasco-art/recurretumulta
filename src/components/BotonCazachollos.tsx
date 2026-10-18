@@ -10,12 +10,14 @@ interface Props {
   precioActual?: number | null;
 }
 
+import { fmtEur } from "@/lib/formato.ts";
+
 type Estado = "cerrado" | "form" | "enviando" | "ok" | "ya" | "error";
 
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
 
 function fmtPrecio(n: number): string {
-  return n.toLocaleString("es-ES") + " €";
+  return fmtEur(n); // 18/10/2026: «8.299 €» (es-ES no agrupa 4 cifras)
 }
 
 /**

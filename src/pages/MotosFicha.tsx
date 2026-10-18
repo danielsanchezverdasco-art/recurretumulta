@@ -1,32 +1,37 @@
 import { lazy, Suspense, useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import CreditoFoto from "@/components/CreditoFoto.tsx";
-import { BLOG_LITE } from "@/lib/blog-lite.generated.ts";
 import { ANALISIS_MOTOS } from "@/lib/analisis-slugs.generated";
-const BLOG_SLUGS = new Set(BLOG_LITE.map((p) => p.slug));
 import {
   ArrowLeftRight,
+  BatteryCharging,
   Bike,
   BookOpen,
-  Check,
   Gauge,
-  Minus,
+  IdCard,
   Play,
+  Weight,
   Wrench,
-  X,
+  Zap,
 } from "lucide-react";
 import { useSeo } from "@/hooks/use-seo.ts";
 import { useFichaFechas } from "@/hooks/use-ficha-fechas.ts";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
-import {
-  DriveInImage,
-  FlipCard,
-  Lightbox,
-  Marker,
-  StickyCta,
-  useSpotlight,
-} from "@/components/motion.tsx";
+import { Marker, useSpotlight } from "@/components/motion.tsx";
+// 18/10/2026 (rediseño fichas): misma cabecera, pestañas, barra y rivales que coches.
+import GaleriaFicha, { type FotoFicha } from "@/components/ficha/GaleriaFicha.tsx";
+import { FranjaPrecio, PanelLateral, cambioDesdeHistorial, type DatoClave } from "@/components/ficha/CabeceraPrecio.tsx";
+import PestanasFicha from "@/components/ficha/PestanasFicha.tsx";
+import BarraInferiorFicha from "@/components/ficha/BarraInferiorFicha.tsx";
+import ProsContras from "@/components/ficha/ProsContras.tsx";
+import VideoYoutube from "@/components/ficha/VideoYoutube.tsx";
+import TablaVersiones from "@/components/ficha/TablaVersiones.tsx";
+import RivalesCarrusel from "@/components/ficha/RivalesCarrusel.tsx";
+import Relacionados from "@/components/Relacionados.tsx";
+import DescargarFichaPDF from "@/components/DescargarFichaPDF.tsx";
+import BotonCazachollos from "@/components/BotonCazachollos.tsx";
+import { fmtEur, fmtMiles } from "@/lib/formato.ts";
 import CompartirBotones from "@/components/CompartirBotones.tsx";
 import { NotaCosa, MarcaAguaCosa } from "@/components/Cosa.tsx";
 import MonoEscondido from "@/components/caza-monos/MonoEscondido.tsx";
@@ -38,6 +43,7 @@ import type { MotoComparador } from "@/lib/comparador-motos-data.ts";
 import type { ResenaSchemaExtra } from "@/components/ResenasVehiculo.tsx";
 
 import { loadArrayItem, loadRecordEntry } from "@/lib/data-loader-utils.ts";
+import { cargarFichaExtra, type FichaExtra } from "@/lib/ficha-extra.ts";
 import RespuestaRapida from "@/components/geo/RespuestaRapida.tsx";
 import { datosGeoMoto, frasesGeo, metaGeo } from "@/lib/geo-ficha.ts";
 import { useHistorialPrecios } from "@/lib/historial-precios-cargar.ts";
@@ -59,8 +65,7 @@ const HistoriaModeloLazy = lazy(() => import("@/components/HistoriaModelo.tsx"))
 // 12/10/2026: opiniones de propietarios con fotos (below-the-fold en lazy).
 const ResenasVehiculoLazy = lazy(() => import("@/components/ResenasVehiculo.tsx"));
 
-const fmtPrecio = (v: number | null) =>
-  v == null ? "—" : v.toLocaleString("es-ES") + " €";
+const fmtPrecio = (v: number | null) => fmtEur(v);
 const fmtKm = (v: number | null) => (v == null ? "—" : v + " km");
 const fmtS = (v: number | null) =>
   v == null ? "—" : v.toLocaleString("es-ES") + " s";
@@ -69,11 +74,11 @@ const fmtKwh = (v: number | null) => (v == null ? "—" : v + " kWh");
 const fmtKwCv = (m: MotoComparador) => {
   if (m.potenciaKw == null && m.potenciaCv == null) return "—";
   const kw = m.potenciaKw != null ? `${String(m.potenciaKw).replace(".", ",")} kW` : "";
-  const cv = m.potenciaCv != null ? `${m.potenciaCv} CV` : "";
+  const cv = m.potenciaCv != null ? `${String(m.potenciaCv).replace(".", ",")} CV` : "";
   return [kw, cv].filter(Boolean).join(" · ");
 };
 const fmtKg = (v: number | null) =>
-  v == null ? "—" : v.toLocaleString("es-ES") + " kg";
+  v == null ? "—" : fmtMiles(v) + " kg";
 const fmtPlazas = (v: number | null) => (v == null ? "—" : String(v));
 const fmtAutonomia = (m: MotoComparador) => {
   if (m.autonomiaKm == null) return "—";
@@ -99,7 +104,7 @@ const FILAS: Fila[] = [
   { campo: "etiquetaDgt", label: "Etiqueta DGT", get: (m) => m.etiquetaDgt || "—" },
 ];
 
-function Ficha({ moto }: { moto: MotoComparador }) {
+function Ficha({ moto, extra }: { moto: MotoComparador; extra: FichaExtra }) {
   const nombre = `${moto.marca} ${moto.modelo}`.replace(/:+$/, "").trim();
   // GEO 17/10/2026: respuesta rápida (ficha + historial de precios, nada inventado).
   const historial = useHistorialPrecios(moto.id);
@@ -110,7 +115,6 @@ function Ficha({ moto }: { moto: MotoComparador }) {
   // Convex responde; en el prerender no hay datos → solo el schema base).
   const [reviewsExtra, setReviewsExtra] = useState<ResenaSchemaExtra | null>(null);
 
-  const [lightbox, setLightbox] = useState(false);
   const spotRef = useSpotlight<HTMLElement>();
 
   // Dimensiones intrínsecas para width/height exactos de la hero (LCP 05/10/2026):
@@ -154,6 +158,25 @@ function Ficha({ moto }: { moto: MotoComparador }) {
   const conCilindrada = !esElectrica && moto.cilindradaCc != null;
   const esElectricaFaq =
     etiquetaBaseMoto(moto.etiquetaDgt) === "Cero" || moto.autonomiaKm != null || moto.carga != null;
+  // 18/10/2026 (rediseño): galería superior, datos clave y precio.
+  const dimDe = (src: string) => dims[src.split("/").pop() ?? ""];
+  const fotosTop: FotoFicha[] = [
+    ...(moto.imagen ? [{ src: moto.imagen, alt: `Foto oficial de la ${nombre}`, ancho: dimDe(moto.imagen)?.[0], alto: dimDe(moto.imagen)?.[1] }] : []),
+    ...moto.galeria.map((f) => ({ src: f.src, alt: f.alt, ancho: f.ancho, alto: f.alto })),
+  ].filter((f, i, a) => a.findIndex((g) => g.src === f.src) === i);
+  const datosClave: DatoClave[] = [
+    (moto.potenciaCv != null || moto.potenciaKw != null) && { icono: <Zap className="h-5 w-5" />, valor: moto.potenciaCv != null ? `${String(moto.potenciaCv).replace(".", ",")} CV` : `${String(moto.potenciaKw).replace(".", ",")} kW`, label: "Potencia" },
+    esMotoElectrica(moto)
+      ? moto.autonomiaKm != null && { icono: <BatteryCharging className="h-5 w-5" />, valor: `${moto.autonomiaKm} km`, label: moto.autonomiaCiclo ? `Autonomía ${moto.autonomiaCiclo}` : "Autonomía" }
+      : moto.cilindradaCc != null && { icono: <Gauge className="h-5 w-5" />, valor: `${fmtMiles(moto.cilindradaCc)} cc`, label: "Cilindrada" },
+    moto.pesoKg != null && { icono: <Weight className="h-5 w-5" />, valor: fmtKg(moto.pesoKg), label: "Peso" },
+    moto.carnet && { icono: <IdCard className="h-5 w-5" />, valor: `Carnet ${moto.carnet.split(" ")[0]}`, label: "Permiso" },
+    moto.velocidadMax != null && { icono: <Gauge className="h-5 w-5" />, valor: `${moto.velocidadMax} km/h`, label: "Velocidad máx." },
+  ].filter(Boolean) as DatoClave[];
+  const cambio = cambioDesdeHistorial(historial);
+  const precioAprox = moto.aprox.includes("precioDesde");
+  const compararHref = `/comparador-motos/?a=${moto.id}`;
+
   const FAQS = [
     {
       q: `¿Cuánto cuesta la ${nombre}?`,
@@ -314,7 +337,7 @@ function Ficha({ moto }: { moto: MotoComparador }) {
   return (
     <div className="min-h-screen bg-gray-50">
       <SharedNavbar />
-      <main className="mx-auto max-w-4xl px-4 pb-16 pt-8">
+      <main id="ficha-pdf" className="mx-auto max-w-6xl px-4 pb-16 pt-8">
         <nav className="text-xs text-gray-500" aria-label="Migas de pan">
           <Link to="/" className="hover:underline">
             Inicio
@@ -326,43 +349,23 @@ function Ficha({ moto }: { moto: MotoComparador }) {
           · <span className="text-gray-700">{nombre}</span>
         </nav>
 
-        <header className="mt-4">
-          <div className="overflow-hidden rounded-3xl">
-            {moto.imagen ? (
-              <button
-                type="button"
-                onClick={() => setLightbox(true)}
-                className="block w-full cursor-zoom-in"
-                aria-label={`Ver foto grande de la ${nombre}`}
-              >
-                <DriveInImage
-                  src={moto.imagen}
-                  alt={`Foto oficial de la ${nombre}`}
-                  eager={true}
-                  width={dims[moto.imagen.split("/").pop() ?? ""]?.[0]}
-                  height={dims[moto.imagen.split("/").pop() ?? ""]?.[1]}
-                  className="block w-full bg-white"
-                  imgClassName="aspect-video w-full object-contain"
-                />
-              </button>
-            ) : (
-              <div className="flex aspect-video w-full flex-col items-center justify-center gap-2 bg-gradient-to-br from-gray-100 to-emerald-50 text-gray-500">
+        <div className="lg:grid lg:grid-cols-[minmax(0,1fr)_300px] lg:items-start lg:gap-8">
+        <article className="min-w-0">
+        <header id="ficha-cabecera" className="mt-4">
+          <GaleriaFicha
+            fotos={fotosTop}
+            nombre={nombre}
+            ajuste="contain"
+            vacio={
+              <div className="flex aspect-video w-full flex-col items-center justify-center gap-2 rounded-3xl bg-gradient-to-br from-gray-100 to-emerald-50 text-gray-500">
                 <Bike className="h-12 w-12" />
                 <p className="px-4 text-center text-sm font-medium">
                   Foto oficial pendiente de verificación
                 </p>
               </div>
-            )}
-          </div>
-          <CreditoFoto src={moto.imagen} />
-          {moto.imagen && lightbox && (
-            <Lightbox
-              src={moto.imagen}
-              alt={`Foto oficial de la ${nombre}`}
-              onClose={() => setLightbox(false)}
-            />
-          )}
-          <div className="mt-5 flex flex-wrap items-center gap-2">
+            }
+          />
+          <div className="mt-4 flex flex-wrap items-center gap-2">
             <span className="rounded-full bg-red-600 px-3 py-1 text-xs font-bold uppercase tracking-widest text-white">
               {moto.marca}
             </span>
@@ -375,7 +378,14 @@ function Ficha({ moto }: { moto: MotoComparador }) {
           </div>
           <h1 className="mt-3 text-3xl font-extrabold text-gray-900 sm:text-4xl">{nombre}</h1>
           <RespuestaRapida frases={geo.frases} />
-          <p className="mt-2 text-gray-600">
+          <FranjaPrecio
+            precio={moto.precioDesde}
+            aprox={precioAprox}
+            cambio={cambio}
+            etiqueta={moto.etiquetaDgt}
+            datos={datosClave}
+          />
+          <p className="mt-3 text-sm text-gray-600">
             {esElectrica ? (
               <>
                 Ficha técnica completa: precio, potencia, <Marker>autonomía</Marker>, batería,{" "}
@@ -405,6 +415,19 @@ function Ficha({ moto }: { moto: MotoComparador }) {
             .
           </p>
         </header>
+
+        <PestanasFicha
+          secciones={[
+            { id: "resumen", label: "Resumen" },
+            { id: "ficha", label: "Ficha" },
+            { id: "precio", label: "Precio" },
+            { id: "fotos", label: "Fotos" },
+            { id: "pros-contras", label: "Pros y contras" },
+            { id: "opiniones", label: "Opiniones" },
+            { id: "rivales", label: "Rivales" },
+            { id: "faq", label: "FAQ" },
+          ]}
+        />
 
         <div className="mt-4 flex justify-end">
           <CompartirBotones
@@ -443,7 +466,8 @@ function Ficha({ moto }: { moto: MotoComparador }) {
         {donuts.length >= 2 && (
           <Suspense fallback={null}>
           <section
-            className="rtm-card mt-8 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6"
+            id="resumen"
+            className="rtm-card mt-8 scroll-mt-32 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6"
             aria-label="Datos destacados"
           >
             <h2 className="text-xl font-extrabold text-gray-900">En cifras</h2>
@@ -481,7 +505,7 @@ function Ficha({ moto }: { moto: MotoComparador }) {
 
         {moto.galeria.length > 0 && (
           <Suspense fallback={null}>
-          <section className="mt-8" aria-label="Galería de fotos oficiales">
+          <section id="fotos" className="mt-8 scroll-mt-32" aria-label="Galería de fotos oficiales">
             <NightGallery label="Galería">
             <div className="mt-3 flex snap-x snap-mandatory gap-3 overflow-x-auto pb-2 sm:grid sm:grid-cols-3 sm:overflow-visible">
               {moto.galeria.map((f) => (
@@ -515,7 +539,8 @@ function Ficha({ moto }: { moto: MotoComparador }) {
 
         <section
           ref={spotRef}
-          className="rtm-spotlight rtm-card mt-8 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6"
+          id="ficha"
+          className="rtm-spotlight rtm-card mt-8 scroll-mt-32 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6"
           aria-label="Ficha técnica"
         >
           <h2 className="flex items-center gap-2 text-xl font-extrabold text-gray-900">
@@ -547,8 +572,15 @@ function Ficha({ moto }: { moto: MotoComparador }) {
           </p>
         </section>
 
-        <section className="rtm-card mt-8 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6">
-          <h2 className="text-xl font-extrabold text-gray-900">Precio y versiones</h2>
+        <section id="precio" className="rtm-card mt-8 scroll-mt-32 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6">
+          <div className="flex flex-wrap items-center justify-between gap-3">
+            <h2 className="text-xl font-extrabold text-gray-900">Precio y versiones</h2>
+            {/* 18/10/2026: alerta de precio y PDF, como en las fichas de coches */}
+            <div className="flex flex-wrap items-center gap-2">
+              <BotonCazachollos cocheId={moto.id} nombre={nombre} precioActual={moto.precioDesde ?? null} />
+              <DescargarFichaPDF nombre={nombre} />
+            </div>
+          </div>
           <p className="mt-3 text-gray-700">
             {moto.precioDesde == null ? (
               <>La {nombre} aún no tiene precio confirmado para España.</>
@@ -560,11 +592,12 @@ function Ficha({ moto }: { moto: MotoComparador }) {
             )}{" "}
             El detalle de versiones y opciones está en nuestra comparativa:
           </p>
+          <TablaVersiones versiones={moto.versiones} nombre={nombre} />
           {(() => {
             const g = garantiaDeMarca(moto.marca, "motos");
             return g && g.anios != null ? (
               <p className="mt-3 text-sm text-gray-500">
-                🛡️ Garantía oficial {moto.marca}: <strong className="text-gray-800">{g.anios} años{g.km ? ` / ${g.km.toLocaleString("es-ES")} km` : ""}</strong>
+                🛡️ Garantía oficial {moto.marca}: <strong className="text-gray-800">{g.anios} años{g.km ? ` / ${fmtMiles(g.km)} km` : ""}</strong>
                 {g.nota ? <span className="text-gray-400"> ({g.nota.split(".")[0]})</span> : null}
               </p>
             ) : null;
@@ -572,7 +605,7 @@ function Ficha({ moto }: { moto: MotoComparador }) {
           <Suspense fallback={null}>
             <HistorialPreciosLazy slug={moto.id} nombre={nombre} />
           </Suspense>
-          {BLOG_SLUGS.has(analisisMoto) ? (
+          {extra.b === 1 ? (
             <Link
               to={`/blog/${analisisMoto}/`}
               className="mt-4 inline-flex items-center gap-2 rounded-xl bg-gray-900 px-4 py-2.5 text-sm font-bold text-white transition hover:bg-gray-700"
@@ -582,66 +615,7 @@ function Ficha({ moto }: { moto: MotoComparador }) {
           ) : null}
         </section>
 
-        <section className="mt-8 grid gap-6 sm:grid-cols-2" aria-label="Puntos fuertes y débiles">
-          <FlipCard
-            className="rtm-card"
-            minHeight="240px"
-            front={
-              <div className="flex min-h-[240px] flex-col items-center justify-center gap-2 rounded-3xl border border-emerald-200 bg-emerald-50 p-6 text-center">
-                <span className="text-4xl" aria-hidden="true">✅</span>
-                <p className="text-lg font-extrabold text-emerald-700">Pros</p>
-                <p className="text-sm text-gray-600">{moto.pros[0]}</p>
-                <p className="text-xs font-semibold text-gray-400">
-                  Toca para voltear ⟳
-                </p>
-              </div>
-            }
-            back={
-              <div className="h-full min-h-[240px] overflow-y-auto rounded-3xl border border-emerald-200 bg-emerald-50 p-4 sm:p-6">
-                <h2 className="flex items-center gap-1.5 text-lg font-extrabold text-emerald-700">
-                  <Check className="h-5 w-5" /> Puntos fuertes
-                </h2>
-                <ul className="mt-3 space-y-2">
-                  {moto.pros.map((p, i) => (
-                    <li key={i} className="flex gap-2 text-sm text-gray-700">
-                      <Check className="mt-0.5 h-4 w-4 shrink-0 text-emerald-600" />
-                      <span>{p}</span>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            }
-          />
-          <FlipCard
-            className="rtm-card"
-            minHeight="240px"
-            front={
-              <div className="flex min-h-[240px] flex-col items-center justify-center gap-2 rounded-3xl border border-red-200 bg-red-50 p-6 text-center">
-                <span className="text-4xl" aria-hidden="true">❌</span>
-                <p className="text-lg font-extrabold text-red-600">Contras</p>
-                <p className="text-sm text-gray-600">{moto.contras[0]}</p>
-                <p className="text-xs font-semibold text-gray-400">
-                  Toca para voltear ⟳
-                </p>
-              </div>
-            }
-            back={
-              <div className="h-full min-h-[240px] overflow-y-auto rounded-3xl border border-red-200 bg-red-50 p-4 sm:p-6">
-                <h2 className="flex items-center gap-1.5 text-lg font-extrabold text-red-600">
-                  <X className="h-5 w-5" /> Puntos débiles
-                </h2>
-                <ul className="mt-3 space-y-2">
-                  {moto.contras.map((p, i) => (
-                    <li key={i} className="flex gap-2 text-sm text-gray-700">
-                      <Minus className="mt-1 h-3.5 w-3.5 shrink-0 text-red-500" />
-                      <span>{p}</span>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            }
-          />
-        </section>
+        <ProsContras pros={moto.pros} contras={moto.contras} />
 
         {moto.curiosidades.length > 0 && (
           <section className="rtm-card mt-8 rounded-3xl border border-amber-200 bg-amber-50 p-4 sm:p-6">
@@ -658,18 +632,12 @@ function Ficha({ moto }: { moto: MotoComparador }) {
         )}
 
         {moto.videoId && (
-          <section className="rtm-card mt-8 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6">
+          <section className="rtm-card mt-8 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6" aria-label="Vídeo del modelo">
             <h2 className="flex items-center gap-2 text-xl font-extrabold text-gray-900">
               <Play className="h-5 w-5 text-red-600" /> Mírala en vídeo
             </h2>
             <div className="mt-3 overflow-hidden rounded-2xl">
-              <iframe
-                src={`https://www.youtube.com/embed/${moto.videoId}`}
-                title={`Vídeo de la ${nombre}`}
-                className="aspect-video w-full"
-                loading="lazy"
-                allowFullScreen
-              />
+              <VideoYoutube id={moto.videoId} titulo={`Vídeo de la ${nombre}`} />
             </div>
             <p className="mt-2 text-xs text-gray-500">
               Vídeo:{" "}
@@ -764,15 +732,7 @@ function Ficha({ moto }: { moto: MotoComparador }) {
 
               {moto.mantenimientoDIY.videoTutorialUrl && (
                 <div className="overflow-hidden rounded-2xl border border-gray-200">
-                  <div className="aspect-video w-full">
-                    <iframe
-                      src={moto.mantenimientoDIY.videoTutorialUrl.replace("watch?v=", "embed/").replace("youtu.be/", "www.youtube.com/embed/")}
-                      title={moto.mantenimientoDIY.videoTutorialTitulo ?? `Tutorial de mantenimiento de la ${nombre}`}
-                      className="h-full w-full"
-                      loading="lazy"
-                      allowFullScreen
-                    />
-                  </div>
+                  <VideoYoutube id={moto.mantenimientoDIY.videoTutorialUrl} titulo={moto.mantenimientoDIY.videoTutorialTitulo ?? `Tutorial de mantenimiento de la ${nombre}`} />
                   <p className="bg-gray-50 px-4 py-2 text-xs text-gray-500">
                     🎥 {moto.mantenimientoDIY.videoTutorialTitulo ?? "Vídeo tutorial"} — YouTube
                   </p>
@@ -796,22 +756,27 @@ function Ficha({ moto }: { moto: MotoComparador }) {
           <HistoriaModeloLazy fichaId={moto.id} nombre={nombre} />
         </Suspense>
 
-        <section className="mt-8 grid gap-3 sm:grid-cols-2">
+        <RivalesCarrusel tipo="motos" id={moto.id} nombre={nombre} rivales={extra.r} />
+
+        <section className="mt-8 grid gap-3 sm:grid-cols-2" aria-label="Comparar modelo">
           <Link
-            to={`/comparador-motos?a=${moto.id}`}
+            to={compararHref}
             className="inline-flex items-center justify-center gap-2 rounded-2xl border-2 border-red-600 bg-white px-4 py-3 text-sm font-bold text-red-600 transition hover:bg-red-50"
           >
             <ArrowLeftRight className="h-4 w-4" /> Comparar con otra moto
           </Link>
+          {/* 18/10/2026: antes enlazaba al comparador de COCHES desde una ficha de moto. */}
           <Link
-            to="/comparador-coches/"
+            to="/comparador-motos/"
             className="inline-flex items-center justify-center gap-2 rounded-2xl bg-gray-900 px-4 py-3 text-sm font-bold text-white transition hover:bg-gray-700"
           >
-            <Bike className="h-4 w-4" /> Comparador de coches
+            <Bike className="h-4 w-4" /> {esElectrica ? "Comparador de motos eléctricas" : "Comparador de motos"}
           </Link>
         </section>
 
-        <section className="mt-10">
+        <Relacionados pathname={`/motos/${moto.id}/`} enArticulo />
+
+        <section id="faq" className="mt-10 scroll-mt-32" aria-label="Preguntas frecuentes">
           <h2 className="text-2xl font-extrabold text-gray-900">Preguntas frecuentes</h2>
           <div className="mt-4 space-y-3">
             {FAQS.map((f) => (
@@ -823,9 +788,8 @@ function Ficha({ moto }: { moto: MotoComparador }) {
           </div>
         </section>
 
-        <StickyCta href={`/comparador-motos?a=${moto.id}`} label="Comparar este modelo" />
-
         {/* 12/10/2026: opiniones de propietarios con fotos */}
+        <div id="opiniones" className="scroll-mt-32">
         <Suspense fallback={null}>
           <ResenasVehiculoLazy
             tipo="motos"
@@ -834,6 +798,19 @@ function Ficha({ moto }: { moto: MotoComparador }) {
             onDatosSchema={setReviewsExtra}
           />
         </Suspense>
+        </div>
+        </article>
+        <PanelLateral
+          nombre={nombre}
+          precio={moto.precioDesde}
+          aprox={precioAprox}
+          cambio={cambio}
+          compararHref={compararHref}
+          alerta={<BotonCazachollos cocheId={moto.id} nombre={nombre} precioActual={moto.precioDesde ?? null} />}
+          pdf={<DescargarFichaPDF nombre={nombre} />}
+        />
+        </div>
+        <BarraInferiorFicha compararHref={compararHref} precio={moto.precioDesde} aprox={precioAprox} />
       </main>
       <SharedFooter
         editorial={{
@@ -869,14 +846,17 @@ function respuestaEtiquetaMoto(nombre: string, e: string | null | undefined): st
 export default function MotosFichaPage() {
   const { slug = "" } = useParams<{ slug: string }>();
   // Carga perezosa (05/10/2026): solo el módulo de la marca de este modelo.
+  const [extra, setExtra] = useState<FichaExtra>({});
   const [moto, setMoto] = useState<MotoComparador | null | undefined>(undefined);
 
   useEffect(() => {
     let alive = true;
     delete document.body.dataset.pageReady;
     (async () => {
-      const m = await loadArrayItem<MotoComparador>("moto", slug, (x) => x.id === slug);
+      // 18/10/2026: rivales + ¿existe el análisis? (trozo pequeño) en paralelo con la ficha.
+      const [m, ex] = await Promise.all([loadArrayItem<MotoComparador>("moto", slug, (x) => x.id === slug), cargarFichaExtra("motos", slug)]);
       if (!alive) return;
+      setExtra(ex);
       setMoto(m ?? null);
       if (m) {
         await Promise.all([
@@ -921,5 +901,5 @@ export default function MotosFichaPage() {
     );
   }
 
-  return <Ficha moto={moto} />;
+  return <Ficha moto={moto} extra={extra} />;
 }

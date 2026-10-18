@@ -3,34 +3,39 @@ import { Link, useParams } from "react-router-dom";
 import CreditoFoto from "@/components/CreditoFoto.tsx";
 import {
   ArrowLeftRight,
+  BatteryCharging,
   BookOpen,
-  Check,
   Filter,
+  Fuel,
   Gauge,
-  Minus,
+  Package,
   Play,
   RotateCcw,
+  Timer,
+  Users,
   Wind,
   Wrench,
-  X,
+  Zap,
 } from "lucide-react";
 import { useSeo } from "@/hooks/use-seo.ts";
 import { useFichaFechas } from "@/hooks/use-ficha-fechas.ts";
-import { BLOG_LITE } from "@/lib/blog-lite.generated.ts";
 // 12/10/2026: los enlaces ficha->blog solo se renderizan si el blog existe.
 // Evita 298 enlaces rotos en el lote de 500 fichas sin blog publicado aún.
 import { ANALISIS_COCHES } from "@/lib/analisis-slugs.generated";
-const BLOG_SLUGS = new Set(BLOG_LITE.map((p) => p.slug));
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
-import {
-  DriveInImage,
-  FlipCard,
-  Lightbox,
-  Marker,
-  StickyCta,
-  useSpotlight,
-} from "@/components/motion.tsx";
+import { Marker, useSpotlight } from "@/components/motion.tsx";
+// 18/10/2026 (rediseño fichas): cabecera tipo tienda, pestañas, barra inferior, rivales.
+import GaleriaFicha, { type FotoFicha } from "@/components/ficha/GaleriaFicha.tsx";
+import { FranjaPrecio, PanelLateral, cambioDesdeHistorial, type DatoClave } from "@/components/ficha/CabeceraPrecio.tsx";
+import PestanasFicha from "@/components/ficha/PestanasFicha.tsx";
+import BarraInferiorFicha from "@/components/ficha/BarraInferiorFicha.tsx";
+import ProsContras from "@/components/ficha/ProsContras.tsx";
+import VideoYoutube from "@/components/ficha/VideoYoutube.tsx";
+import TablaVersiones from "@/components/ficha/TablaVersiones.tsx";
+import RivalesCarrusel from "@/components/ficha/RivalesCarrusel.tsx";
+import Relacionados from "@/components/Relacionados.tsx";
+import { fmtEur, fmtMiles } from "@/lib/formato.ts";
 // 07/10/2026 (fluidez): animados below-the-fold en lazy — se cargan al hacer scroll.
 const Donut = lazy(() => import("@/components/motion.tsx").then((m) => ({ default: m.Donut })));
 const BatteryFill = lazy(() => import("@/components/motion.tsx").then((m) => ({ default: m.BatteryFill })));
@@ -51,6 +56,7 @@ import type { CocheComparador } from "@/lib/comparador-coches-data.ts";
 import type { ResenaSchemaExtra } from "@/components/ResenasVehiculo.tsx";
 
 import { loadArrayItem, loadRecordEntry } from "@/lib/data-loader-utils.ts";
+import { cargarFichaExtra, type FichaExtra } from "@/lib/ficha-extra.ts";
 import RespuestaRapida from "@/components/geo/RespuestaRapida.tsx";
 import { datosGeoCoche, frasesGeo, metaGeo } from "@/lib/geo-ficha.ts";
 import { useHistorialPrecios } from "@/lib/historial-precios-cargar.ts";
@@ -65,8 +71,7 @@ const PlanMantenimientoLazy = lazy(() => import("@/components/PlanMantenimiento.
 // 12/10/2026: opiniones de propietarios con fotos (below-the-fold en lazy).
 const ResenasVehiculoLazy = lazy(() => import("@/components/ResenasVehiculo.tsx"));
 
-const fmtPrecio = (v: number | null) =>
-  v == null ? "—" : v.toLocaleString("es-ES") + " €";
+const fmtPrecio = (v: number | null) => fmtEur(v);
 const fmtKm = (v: number | null) => (v == null ? "—" : v + " km");
 const fmtL = (v: number | null) => (v == null ? "—" : v + " L");
 const fmtS = (v: number | null) =>
@@ -76,15 +81,15 @@ const fmtKwh = (v: number | null) => (v == null ? "—" : v + " kWh");
 const fmtKw = (v: number | null) => (v == null ? "—" : v + " kW");
 const fmtCv = (v: number | null) => (v == null ? "—" : v + " CV");
 const fmtKg = (v: number | null) =>
-  v == null ? "—" : v.toLocaleString("es-ES") + " kg";
+  v == null ? "—" : fmtMiles(v) + " kg";
 const fmtNm = (v: number | null) =>
-  v == null ? "—" : v.toLocaleString("es-ES") + " Nm";
+  v == null ? "—" : fmtMiles(v) + " Nm";
 const fmtCo2 = (v: number | null) => (v == null ? "—" : v + " g/km");
 const fmtPlazas = (v: number | null) => (v == null ? "—" : String(v));
 const fmtDimensiones = (c: CocheComparador) =>
   c.largoMm == null || c.anchoMm == null || c.altoMm == null
     ? "—"
-    : `${c.largoMm.toLocaleString("es-ES")} × ${c.anchoMm.toLocaleString("es-ES")} × ${c.altoMm.toLocaleString("es-ES")} mm`;
+    : `${fmtMiles(c.largoMm)} × ${fmtMiles(c.anchoMm)} × ${fmtMiles(c.altoMm)} mm`;
 const fmtConsumo = (c: CocheComparador) =>
   c.consumo == null
     ? "—"
@@ -174,12 +179,12 @@ const FILAS: Fila[] = [
       c.garantiaBateriaAnos == null
         ? "No publicada"
         : `${c.garantiaBateriaAnos} años / ${
-            c.garantiaBateriaKm != null ? c.garantiaBateriaKm.toLocaleString("es-ES") + " km" : "km no publicados"
+            c.garantiaBateriaKm != null ? fmtMiles(c.garantiaBateriaKm) + " km" : "km no publicados"
           }${c.garantiaBateriaDegradacionPct != null ? ` (mín. ${c.garantiaBateriaDegradacionPct} %)` : ""}`,
   },
 ];
 
-function Ficha({ coche }: { coche: CocheComparador }) {
+function Ficha({ coche, extra }: { coche: CocheComparador; extra: FichaExtra }) {
   const nombre = `${coche.marca} ${coche.modelo}`;
   // GEO 17/10/2026: respuesta rápida (ficha + historial de precios, nada inventado).
   const historial = useHistorialPrecios(coche.id);
@@ -191,9 +196,8 @@ function Ficha({ coche }: { coche: CocheComparador }) {
   // 12/10/2026: solo enlazar al blog si existe (evita 404 en fichas sin blog aún).
   // 13/10/2026: slug del análisis (puede no coincidir con el id); botón solo si el post existe.
   const analisisSlug = ANALISIS_COCHES[coche.id] ?? coche.id;
-  const tieneBlog = BLOG_SLUGS.has(analisisSlug);
+  const tieneBlog = extra.b === 1;
 
-  const [lightbox, setLightbox] = useState(false);
   const [heroSrc, setHeroSrc] = useState(coche.imagenOficial);
   // heroOk=false cuando ni la foto oficial ni la de respaldo existen en disco:
   // se oculta el hero y se muestra el aviso "foto pendiente" (auditoría 04/10/2026).
@@ -268,6 +272,29 @@ function Ficha({ coche }: { coche: CocheComparador }) {
       max: 30,
       unit: coche.consumoUnidad ? ` ${coche.consumoUnidad}` : "",
     });
+
+  // 18/10/2026 (rediseño): fotos de la galería superior (hero válida + interior + galería oficial).
+  const dimDe = (src: string) => dims[src.split("/").pop() ?? ""];
+  const fotosTop: FotoFicha[] = [
+    ...(heroOk && heroSrc ? [{ src: heroSrc, alt: `Foto del ${nombre}`, ancho: dimDe(heroSrc)?.[0], alto: dimDe(heroSrc)?.[1] }] : []),
+    ...(coche.imagenInteriorOficial ? [{ src: coche.imagenInteriorOficial, alt: `Interior oficial del ${nombre}` }] : []),
+    ...(coche.galeria ?? []).map((f) => ({ src: f.src, alt: f.alt, ancho: f.ancho, alto: f.alto })),
+  ].filter((f, i, a) => a.findIndex((g) => g.src === f.src) === i);
+  const esPhevOEv = /eléctrico|enchufable|autonomía extendida/i.test(coche.tipo);
+  const datosClave: DatoClave[] = [
+    coche.potenciaCv != null && { icono: <Zap className="h-5 w-5" />, valor: fmtCv(coche.potenciaCv), label: "Potencia" },
+    coche.autonomiaKm != null && esPhevOEv
+      ? { icono: <BatteryCharging className="h-5 w-5" />, valor: fmtKm(coche.autonomiaKm), label: /enchufable/i.test(coche.tipo) ? "Autonomía eléctrica" : "Autonomía WLTP" }
+      : coche.consumo != null && { icono: <Fuel className="h-5 w-5" />, valor: fmtConsumo(coche), label: "Consumo WLTP" },
+    coche.ceroCien != null && { icono: <Timer className="h-5 w-5" />, valor: fmtS(coche.ceroCien), label: "0-100 km/h" },
+    coche.maleteroL != null && { icono: <Package className="h-5 w-5" />, valor: fmtL(coche.maleteroL), label: "Maletero" },
+    coche.plazas != null && { icono: <Users className="h-5 w-5" />, valor: `${coche.plazas} plazas`, label: "Plazas" },
+    coche.velocidadMax != null && { icono: <Gauge className="h-5 w-5" />, valor: fmtKmh(coche.velocidadMax), label: "Velocidad máx." },
+  ].filter(Boolean) as DatoClave[];
+  const cambio = cambioDesdeHistorial(historial);
+  const precioAprox = coche.aprox.includes("precioDesde");
+  const compararHref = `/comparador-coches/?a=${coche.id}`;
+  const versiones = coche.versiones;
 
   const FAQS = [
     {
@@ -443,7 +470,7 @@ function Ficha({ coche }: { coche: CocheComparador }) {
   return (
     <div className="min-h-screen bg-gray-50">
       <SharedNavbar />
-      <main id="ficha-pdf" className="mx-auto max-w-4xl px-4 pb-16 pt-8">
+      <main id="ficha-pdf" className="mx-auto max-w-6xl px-4 pb-16 pt-8">
         <nav className="text-xs text-gray-500" aria-label="Migas de pan">
           <Link to="/" className="hover:underline">
             Inicio
@@ -455,42 +482,21 @@ function Ficha({ coche }: { coche: CocheComparador }) {
           · <span className="text-gray-700">{nombre}</span>
         </nav>
 
-        <header className="mt-4">
-          {heroOk && heroSrc ? (
-          <div className="overflow-hidden rounded-3xl">
-            <button
-              type="button"
-              onClick={() => setLightbox(true)}
-              className="block w-full cursor-zoom-in"
-              aria-label={`Ver foto grande del ${nombre}`}
-            >
-              <DriveInImage
-                src={heroSrc}
-                alt={`Foto del ${nombre}`}
-                eager={true}
-                width={dims[heroSrc.split("/").pop() ?? ""]?.[0]}
-                height={dims[heroSrc.split("/").pop() ?? ""]?.[1]}
-                className="block w-full"
-                imgClassName="aspect-video w-full object-cover"
-              />
-            </button>
-          </div>
-          ) : (
-          <div className="flex aspect-video w-full flex-col items-center justify-center gap-2 rounded-3xl bg-gradient-to-br from-gray-100 to-gray-200">
-            <span className="text-5xl font-black text-gray-300">{coche.marca.charAt(0)}</span>
-            <p className="text-sm font-semibold text-gray-500">Foto pendiente de verificación</p>
-          </div>
-          )}
-          {heroOk && <CreditoFoto src={heroSrc} />}
-          {lightbox && heroOk && (
-            <Lightbox
-              src={heroSrc}
-              alt={`Foto del ${nombre}`}
-              onClose={() => setLightbox(false)}
-            />
-          )}
-          <div className="mt-5 flex flex-wrap items-center gap-2">
-            <EtiquetaDGT etiqueta={coche.etiquetaDgt} size="md" />
+        <div className="lg:grid lg:grid-cols-[minmax(0,1fr)_300px] lg:items-start lg:gap-8">
+        <article className="min-w-0">
+        <header id="ficha-cabecera" className="mt-4">
+          <GaleriaFicha
+            fotos={fotosTop}
+            nombre={nombre}
+            ajuste="cover"
+            vacio={
+              <div className="flex aspect-video w-full flex-col items-center justify-center gap-2 rounded-3xl bg-gradient-to-br from-gray-100 to-gray-200">
+                <span className="text-5xl font-black text-gray-300">{coche.marca.charAt(0)}</span>
+                <p className="text-sm font-semibold text-gray-500">Foto pendiente de verificación</p>
+              </div>
+            }
+          />
+          <div className="mt-4 flex flex-wrap items-center gap-2">
             <span className="rounded-full bg-red-600 px-3 py-1 text-xs font-bold uppercase tracking-widest text-white">
               {coche.marca}
             </span>
@@ -500,7 +506,7 @@ function Ficha({ coche }: { coche: CocheComparador }) {
             <span className="rounded-full bg-gray-200 px-3 py-1 text-xs font-semibold text-gray-700">
               {coche.categoria}
             </span>
-            {coche.aprox.includes("precioDesde") && (
+            {precioAprox && (
               <span
                 className="rounded-full bg-amber-100 px-3 py-1 text-xs font-bold uppercase tracking-widest text-amber-800"
                 title={`${coche.marca} aún no ha publicado el precio oficial para España: es nuestra estimación`}
@@ -511,7 +517,14 @@ function Ficha({ coche }: { coche: CocheComparador }) {
           </div>
           <h1 className="mt-3 text-3xl font-extrabold text-gray-900 sm:text-4xl">{nombre}</h1>
           <RespuestaRapida frases={geo.frases} />
-          <p className="mt-2 text-gray-600">
+          <FranjaPrecio
+            precio={coche.precioDesde}
+            aprox={precioAprox}
+            cambio={cambio}
+            etiqueta={coche.etiquetaDgt}
+            datos={datosClave}
+          />
+          <p className="mt-3 text-sm text-gray-600">
             Ficha técnica completa: precio, potencia, <Marker>autonomía</Marker>,{" "}
             <Marker>batería</Marker>, maletero y <Marker>etiqueta DGT</Marker>, con puntos
             fuertes y débiles extraídos de nuestro análisis. Si un dato no
@@ -532,6 +545,19 @@ function Ficha({ coche }: { coche: CocheComparador }) {
             .
           </p>
         </header>
+
+        <PestanasFicha
+          secciones={[
+            { id: "resumen", label: "Resumen" },
+            { id: "ficha", label: "Ficha" },
+            { id: "precio", label: "Precio" },
+            { id: "fotos", label: "Fotos" },
+            { id: "pros-contras", label: "Pros y contras" },
+            { id: "opiniones", label: "Opiniones" },
+            { id: "rivales", label: "Rivales" },
+            { id: "faq", label: "FAQ" },
+          ]}
+        />
 
         <div className="mt-4 flex justify-end">
           <CompartirBotones
@@ -571,7 +597,8 @@ function Ficha({ coche }: { coche: CocheComparador }) {
         {donuts.length >= 2 && (
           <Suspense fallback={null}>
           <section
-            className="rtm-card mt-8 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6"
+            id="resumen"
+            className="rtm-card mt-8 scroll-mt-32 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6"
             aria-label="Datos destacados"
           >
             <h2 className="text-xl font-extrabold text-gray-900">En cifras</h2>
@@ -612,7 +639,8 @@ function Ficha({ coche }: { coche: CocheComparador }) {
 
         <section
           ref={spotRef}
-          className="rtm-spotlight rtm-card mt-8 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6"
+          id="ficha"
+          className="rtm-spotlight rtm-card mt-8 scroll-mt-32 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6"
           aria-label="Ficha técnica"
         >
           <h2 className="flex items-center gap-2 text-xl font-extrabold text-gray-900">
@@ -665,7 +693,7 @@ function Ficha({ coche }: { coche: CocheComparador }) {
           </p>
         </section>
 
-        <section className="rtm-card mt-8 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6">
+        <section id="precio" className="rtm-card mt-8 scroll-mt-32 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6">
           <div className="flex flex-wrap items-center justify-between gap-3">
             <h2 className="text-xl font-extrabold text-gray-900">Precio y versiones</h2>
             <div className="flex flex-wrap items-center gap-2">
@@ -695,6 +723,7 @@ function Ficha({ coche }: { coche: CocheComparador }) {
             )}{" "}
             El detalle de versiones, acabados y opciones está en nuestro análisis:
           </p>
+          <TablaVersiones versiones={versiones} nombre={nombre} />
           {tieneBlog && (
             <Link
               to={`/blog/${analisisSlug}/`}
@@ -713,7 +742,7 @@ function Ficha({ coche }: { coche: CocheComparador }) {
             const g = garantiaDeMarca(coche.marca, "coches");
             return g && g.anios != null ? (
               <p className="mt-2 text-sm text-gray-500">
-                🛡️ Garantía oficial {coche.marca}: <strong className="text-gray-800">{g.anios} años{g.km ? ` / ${g.km.toLocaleString("es-ES")} km` : ""}</strong>
+                🛡️ Garantía oficial {coche.marca}: <strong className="text-gray-800">{g.anios} años{g.km ? ` / ${fmtMiles(g.km)} km` : ""}</strong>
                 {g.nota ? <span className="text-gray-400"> ({g.nota.split(".")[0]})</span> : null}
               </p>
             ) : null;
@@ -745,7 +774,7 @@ function Ficha({ coche }: { coche: CocheComparador }) {
 
         {(coche.galeria?.length ?? 0) > 0 && (
           <Suspense fallback={null}>
-          <section className="mt-8" aria-label="Galería de fotos">
+          <section id="fotos" className="mt-8 scroll-mt-32" aria-label="Galería de fotos">
             <NightGallery label="Galería">
             <div className="mt-3 flex snap-x snap-mandatory gap-3 overflow-x-auto pb-2 sm:grid sm:grid-cols-3 sm:overflow-visible">
               {coche.galeria!.map((f) => (
@@ -776,6 +805,7 @@ function Ficha({ coche }: { coche: CocheComparador }) {
         {(coche.opiniones?.length ?? 0) > 0 && (
           <section
             className="rtm-card mt-8 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6"
+            id="opiniones"
             aria-label="Opiniones de propietarios"
           >
             <h2 className="text-xl font-extrabold text-gray-900">Lo que dicen los dueños</h2>
@@ -864,66 +894,7 @@ function Ficha({ coche }: { coche: CocheComparador }) {
           </section>
         )}
 
-        <section className="mt-8 grid gap-6 sm:grid-cols-2" aria-label="Puntos fuertes y débiles">
-          <FlipCard
-            className="rtm-card"
-            minHeight="240px"
-            front={
-              <div className="flex min-h-[240px] flex-col items-center justify-center gap-2 rounded-3xl border border-emerald-200 bg-emerald-50 p-6 text-center">
-                <span className="text-4xl" aria-hidden="true">✅</span>
-                <p className="text-lg font-extrabold text-emerald-700">Pros</p>
-                <p className="text-sm text-gray-600">{coche.pros[0]}</p>
-                <p className="text-xs font-semibold text-gray-400">
-                  Toca para voltear ⟳
-                </p>
-              </div>
-            }
-            back={
-              <div className="h-full min-h-[240px] overflow-y-auto rounded-3xl border border-emerald-200 bg-emerald-50 p-4 sm:p-6">
-                <h2 className="flex items-center gap-1.5 text-lg font-extrabold text-emerald-700">
-                  <Check className="h-5 w-5" /> Puntos fuertes
-                </h2>
-                <ul className="mt-3 space-y-2">
-                  {coche.pros.map((p, i) => (
-                    <li key={i} className="flex gap-2 text-sm text-gray-700">
-                      <Check className="mt-0.5 h-4 w-4 shrink-0 text-emerald-600" />
-                      <span>{p}</span>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            }
-          />
-          <FlipCard
-            className="rtm-card"
-            minHeight="240px"
-            front={
-              <div className="flex min-h-[240px] flex-col items-center justify-center gap-2 rounded-3xl border border-red-200 bg-red-50 p-6 text-center">
-                <span className="text-4xl" aria-hidden="true">❌</span>
-                <p className="text-lg font-extrabold text-red-600">Contras</p>
-                <p className="text-sm text-gray-600">{coche.contras[0]}</p>
-                <p className="text-xs font-semibold text-gray-400">
-                  Toca para voltear ⟳
-                </p>
-              </div>
-            }
-            back={
-              <div className="h-full min-h-[240px] overflow-y-auto rounded-3xl border border-red-200 bg-red-50 p-4 sm:p-6">
-                <h2 className="flex items-center gap-1.5 text-lg font-extrabold text-red-600">
-                  <X className="h-5 w-5" /> Puntos débiles
-                </h2>
-                <ul className="mt-3 space-y-2">
-                  {coche.contras.map((p, i) => (
-                    <li key={i} className="flex gap-2 text-sm text-gray-700">
-                      <Minus className="mt-1 h-3.5 w-3.5 shrink-0 text-red-500" />
-                      <span>{p}</span>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            }
-          />
-        </section>
+        <ProsContras pros={coche.pros} contras={coche.contras} />
 
         {coche.videoId && (
           <section className="rtm-card mt-8 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6" aria-label="Vídeo del modelo">
@@ -931,13 +902,7 @@ function Ficha({ coche }: { coche: CocheComparador }) {
               <Play className="h-5 w-5 text-red-600" /> Míralo en vídeo
             </h2>
             <div className="mt-3 overflow-hidden rounded-2xl">
-              <iframe
-                src={`https://www.youtube.com/embed/${coche.videoId}`}
-                title={`Vídeo del ${nombre}`}
-                className="aspect-video w-full"
-                loading="lazy"
-                allowFullScreen
-              />
+              <VideoYoutube id={coche.videoId} titulo={`Vídeo del ${nombre}`} />
             </div>
             <p className="mt-2 text-xs text-gray-500">
               Vídeo:{" "}
@@ -1037,15 +1002,7 @@ function Ficha({ coche }: { coche: CocheComparador }) {
 
               {coche.mantenimientoDIY.videoTutorialUrl && (
                 <div className="overflow-hidden rounded-2xl border border-gray-200">
-                  <div className="aspect-video w-full">
-                    <iframe
-                      src={coche.mantenimientoDIY.videoTutorialUrl.replace("watch?v=", "embed/").replace("youtu.be/", "www.youtube.com/embed/")}
-                      title={coche.mantenimientoDIY.videoTutorialTitulo ?? `Tutorial de mantenimiento del ${nombre}`}
-                      className="h-full w-full"
-                      loading="lazy"
-                      allowFullScreen
-                    />
-                  </div>
+                  <VideoYoutube id={coche.mantenimientoDIY.videoTutorialUrl} titulo={coche.mantenimientoDIY.videoTutorialTitulo ?? `Tutorial de mantenimiento del ${nombre}`} />
                   <p className="bg-gray-50 px-4 py-2 text-xs text-gray-500">
                     🎥 {coche.mantenimientoDIY.videoTutorialTitulo ?? "Vídeo tutorial"} — YouTube
                   </p>
@@ -1074,6 +1031,8 @@ function Ficha({ coche }: { coche: CocheComparador }) {
             </ul>
           </section>
         )}
+
+        <RivalesCarrusel tipo="coches" id={coche.id} nombre={nombre} rivales={extra.r} />
 
         <section className="mt-8 grid gap-3 sm:grid-cols-2" aria-label="Comparar modelo">
           <Link
@@ -1120,7 +1079,9 @@ function Ficha({ coche }: { coche: CocheComparador }) {
           </Link>
         </p>
 
-        <section className="mt-10" aria-label="Preguntas frecuentes">
+        <Relacionados pathname={`/coches/${coche.id}/`} enArticulo />
+
+        <section id="faq" className="mt-10 scroll-mt-32" aria-label="Preguntas frecuentes">
           <h2 className="text-2xl font-extrabold text-gray-900">Preguntas frecuentes</h2>
           <div className="mt-4 space-y-3">
             {FAQS.map((f) => (
@@ -1132,9 +1093,8 @@ function Ficha({ coche }: { coche: CocheComparador }) {
           </div>
         </section>
 
-        <StickyCta href={`/comparador-coches/?a=${coche.id}`} label="Comparar este modelo" />
-
         {/* 12/10/2026: opiniones de propietarios con fotos */}
+        <div id={(coche.opiniones?.length ?? 0) > 0 ? undefined : "opiniones"} className="scroll-mt-32">
         <Suspense fallback={null}>
           <ResenasVehiculoLazy
             tipo="coches"
@@ -1143,6 +1103,20 @@ function Ficha({ coche }: { coche: CocheComparador }) {
             onDatosSchema={setReviewsExtra}
           />
         </Suspense>
+        </div>
+        </article>
+        <PanelLateral
+          nombre={nombre}
+          precio={coche.precioDesde}
+          aprox={precioAprox}
+          cambio={cambio}
+          compararHref={compararHref}
+          alerta={<BotonCazachollos cocheId={coche.id} nombre={nombre} precioActual={coche.precioDesde ?? null} />}
+          pdf={<DescargarFichaPDF nombre={nombre} />}
+        />
+        </div>
+        {/* 18/10/2026: una sola barra inferior (comparar + WhatsApp) en lugar de CTA fijo + burbuja */}
+        <BarraInferiorFicha compararHref={compararHref} precio={coche.precioDesde} aprox={precioAprox} />
       </main>
       <SharedFooter
         editorial={{
@@ -1164,14 +1138,17 @@ export default function CochesFichaPage() {
   // no los 3.7MB del comparador completo. La historia y EuroNCAP se precargan
   // en paralelo para que el prerender las capture (los componentes hijos las
   // leen de la caché del dynamic import).
+  const [extra, setExtra] = useState<FichaExtra>({});
   const [coche, setCoche] = useState<CocheComparador | null | undefined>(undefined);
 
   useEffect(() => {
     let alive = true;
     delete document.body.dataset.pageReady;
     (async () => {
-      const c = await loadArrayItem<CocheComparador>("coche", slug, (x) => x.id === slug);
+      // 18/10/2026: rivales + ¿existe el análisis? (trozo pequeño) en paralelo con la ficha.
+      const [c, ex] = await Promise.all([loadArrayItem<CocheComparador>("coche", slug, (x) => x.id === slug), cargarFichaExtra("coches", slug)]);
       if (!alive) return;
+      setExtra(ex);
       setCoche(c ?? null);
       if (c) {
         await Promise.all([
@@ -1216,5 +1193,5 @@ export default function CochesFichaPage() {
     );
   }
 
-  return <Ficha coche={coche} />;
+  return <Ficha coche={coche} extra={extra} />;
 }

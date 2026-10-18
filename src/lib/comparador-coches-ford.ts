@@ -36,7 +36,7 @@ export const COCHES_FORD: CocheComparador[] = [
       "376 km de autonomía WLTP con solo 43 kWh útiles: de los más eficientes del segmento",
       "Maletero de 523 L más frunk de 43 L: más capaz que el Puma de gasolina",
       "Carga rápida de 100 kW en continua: competitiva para su batería",
-      "Desde 34.884 € con etiqueta Cero: acceso libre a todas las ZBE",
+      "Desde 28.526 € con etiqueta Cero: acceso libre a todas las ZBE",
       "0-100 km/h en 8 s y 290 Nm: ágil en ciudad y carretera",
     ],
     contras: [

@@ -1862,7 +1862,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
-      "145 CV con etiqueta ECO desde 25.700 €",
+      "145 CV con etiqueta ECO desde 24.200 €",
       "4,9 l/100 km homologados",
       "0-100 en 8,3 s: ágil en ciudad",
       "Diseño musculoso de SUV urbano",

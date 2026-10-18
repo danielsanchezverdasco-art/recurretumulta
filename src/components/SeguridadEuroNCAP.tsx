@@ -2,6 +2,7 @@
 // Cero datos inventados: si el modelo no tiene test verificado, no hay entrada en
 // SEGURIDAD_EURONCAP y se muestra "sin datos EuroNCAP". Vídeos solo de canales oficiales.
 import { useEffect, useState } from "react";
+import VideoYoutube from "@/components/ficha/VideoYoutube.tsx";
 import { ShieldCheck } from "lucide-react";
 import { useInView } from "./motion-lite.tsx";
 import type { SeguridadEuroNCAP as SeguridadEuroNCAPData } from "@/lib/seguridad-euroncap.ts";
@@ -38,13 +39,8 @@ function VideoYouTube({ id, titulo, canal }: { id: string; titulo: string; canal
   return (
     <div>
       <div className="overflow-hidden rounded-2xl border border-gray-200">
-        <iframe
-          src={`https://www.youtube.com/embed/${id}`}
-          title={titulo}
-          className="aspect-video w-full"
-          loading="lazy"
-          allowFullScreen
-        />
+        {/* 18/10/2026: fachada (miniatura + play); el iframe carga al tocar */}
+        <VideoYoutube id={id} titulo={titulo} />
       </div>
       <p className="mt-1.5 text-xs text-gray-500">
         🎥 {titulo} —{" "}

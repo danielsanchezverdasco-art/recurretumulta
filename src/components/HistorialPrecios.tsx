@@ -1,3 +1,4 @@
+import { fmtMiles } from "@/lib/formato.ts";
 // Historial de precios de una ficha técnica (coches, motos, patinetes y secciones futuras).
 // Datos: src/data/historial-precios.json → scripts/historial-precios/gen.mjs →
 // src/lib/historial-precios-gen/<inicial>.json (cada ficha carga solo su trozo).
@@ -21,7 +22,7 @@ const fmtPrecio = (v: number, moneda = "EUR") => {
       useGrouping: "always",
     } as unknown as Intl.NumberFormatOptions).format(v);
   } catch {
-    return `${v.toLocaleString("es-ES")} ${moneda === "EUR" ? "€" : moneda}`;
+    return `${fmtMiles(v)} ${moneda === "EUR" ? "€" : moneda}`;
   }
 };
 const fmtFecha = (iso: string) => {

@@ -1,10 +1,15 @@
 import { MessageCircle } from "lucide-react";
+import { useLocation } from "react-router-dom";
+import { esRutaFicha } from "@/lib/ruta-ficha.ts";
 
 const WHATSAPP_HREF =
   "https://wa.me/34711292174?text=Hola%2C%20necesito%20ayuda%20con%20RecurreTuMulta.";
 
 /** Burbuja de ayuda por WhatsApp, fija abajo a la derecha en toda la web. */
 export default function WhatsAppBubble() {
+  // 18/10/2026: en las fichas WhatsApp va en la barra inferior única (no tapa contenido a 390 px).
+  const { pathname } = useLocation();
+  if (esRutaFicha(pathname)) return null;
   return (
     <a
       href={WHATSAPP_HREF}

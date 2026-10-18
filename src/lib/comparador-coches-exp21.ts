@@ -343,7 +343,7 @@ export const COCHES_EXP21: CocheComparador[] = [
       "Cuatro cilindros sin el carácter del antiguo V6",
       "Sonido del motor parcialmente artificial",
       "Maletero de 455 litros",
-      "97.931 € de precio de partida",
+      "93.563 € de precio de partida",
     ],
     imagen: "/media/mercedes-benz-amg-c-43-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mercedes-benz-amg-c-43-2025-precio-ficha-tecnica-oficial.webp",

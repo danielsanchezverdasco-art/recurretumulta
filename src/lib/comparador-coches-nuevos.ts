@@ -3819,7 +3819,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     pros: [
       "La berlina eléctrica más vendida de Europa",
       "Hasta 534 km de autonomía WLTP en la versión de acceso",
-      "Precio de acceso competitivo: desde 32.385 €",
+      "Precio de acceso competitivo: desde 36.990 €",
       "Red de Supercargadores propia",
     ],
     contras: [
@@ -4155,7 +4155,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     cargaRapidaKw: 165,
     etiquetaDgt: "Cero",
     pros: [
-      "Precio de acceso competitivo: desde 36.200 €",
+      "Precio de acceso competitivo: desde 40.610 €",
       "Maletero de 585 l, de los más amplios del segmento",
       "Gran relación precio/equipamiento",
     ],
@@ -8320,7 +8320,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     ],
     contras: [
       "Se fabrica en China, no en Europa",
-      "Precio elevado para su origen: desde 45.420 €",
+      "Precio elevado para su origen: desde 43.500 €",
       "Pesa 2.178 kg",
       "No es tan deportivo como su imagen promete",
       "La autonomía real en autopista ronda los 400 km",

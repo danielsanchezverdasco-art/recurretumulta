@@ -71,6 +71,8 @@ export interface PatineteComparador {
     videoTutorialUrl?: string;       // YouTube (embed) real y verificado
     videoTutorialTitulo?: string;
   } | null;
+  /** 18/10/2026: versiones reales con precio (tabla en la ficha). Sin dato = no se muestra. Nunca inventar. */
+  versiones?: { nombre: string; precio: number | null; potenciaCv?: number | null; autonomiaKm?: number | null; aprox?: boolean }[];
 }
 
 /** Normaliza texto para comparar marcas/modelos: minúsculas, sin tildes. */

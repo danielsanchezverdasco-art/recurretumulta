@@ -7,6 +7,7 @@ import { LazyConvexProvider } from "./components/providers/convex-lazy.tsx";
 
 import ScrollToTop from "./components/scroll-to-top.tsx";
 import WhatsAppBubble from "./components/whatsapp-bubble.tsx";
+import { esRutaFicha } from "@/lib/ruta-ficha.ts";
 // ReferralCapture: solo trabaja con ?ref= en la URL. Lazy para no meter
 // convex/react en el chunk inicial (07/10/2026, PageSpeed). Retorna null.
 const ReferralCapture = lazy(() => import("./components/creadores/ReferralCapture.tsx"));
@@ -228,7 +229,8 @@ function FadedRoutes() {
 
         <Route path="*" element={<NotFound />} />
       </Routes>
-      <Relacionados pathname={location.pathname} />
+      {/* 18/10/2026: en las fichas, Relacionados va dentro del artículo (encima de la FAQ). */}
+      {!esRutaFicha(location.pathname) && <Relacionados pathname={location.pathname} />}
       {/* Caza de monos (05/10/2026): inyección 100% en cliente del mono aleatorio
           de la ruta actual. Suspense propio con fallback null para no bloquear
           el render de la página. Sin tocar el prerender. */}

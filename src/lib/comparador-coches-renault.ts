@@ -684,7 +684,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
       "Carga del 15 al 80 % en 24 minutos",
       "218 CV con 0-100 en 7,4 s: el compacto eléctrico divertido",
       "Google integrado y planificador de ruta",
-      "Desde 34.990 €: más autonomía por menos dinero",
+      "Desde 37.685 €: más autonomía por menos dinero",
     ],
     contras: [
       "Maletero de 389 L, justo para su segmento",

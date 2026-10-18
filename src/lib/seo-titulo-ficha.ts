@@ -1,3 +1,4 @@
+import { fmtMiles } from "@/lib/formato.ts";
 // Títulos SEO de fichas de vehículos — fórmula ganadora (metodología CTR 07/10/2026,
 // aprobada por Daniel; estándar profesional investigado el 07/10/2026).
 //
@@ -9,7 +10,8 @@
 // Garantías: siempre ≤60 car. (filtro SEO), siempre con número si hay dato real.
 // Sin datos GSC para fichas (tráfico orgánico aún bajo): criterio profesional.
 
-const fmtPrecio = (p: number): string => Math.round(p).toLocaleString("es-ES");
+// 18/10/2026: separador de miles siempre («8.299», no «8299»).
+const fmtPrecio = (p: number): string => fmtMiles(Math.round(p));
 
 function pick(cands: string[]): string {
   for (const c of cands) if (c.length <= 60) return c;

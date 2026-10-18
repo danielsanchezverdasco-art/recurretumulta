@@ -1,32 +1,36 @@
 import { lazy, Suspense, useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import CreditoFoto from "@/components/CreditoFoto.tsx";
-import { BLOG_LITE } from "@/lib/blog-lite.generated.ts";
 import { ANALISIS_PATINETES } from "@/lib/analisis-slugs.generated";
-const BLOG_SLUGS = new Set(BLOG_LITE.map((p) => p.slug));
 import {
   ArrowLeftRight,
+  BatteryCharging,
   BookOpen,
-  Check,
   Gauge,
-  Minus,
   Play,
   ShieldCheck,
+  Weight,
   Wrench,
-  X,
+  Zap,
 } from "lucide-react";
 import { useSeo } from "@/hooks/use-seo.ts";
 import { useFichaFechas } from "@/hooks/use-ficha-fechas.ts";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
-import {
-  DriveInImage,
-  FlipCard,
-  Lightbox,
-  Marker,
-  StickyCta,
-  useSpotlight,
-} from "@/components/motion.tsx";
+import { Marker, useSpotlight } from "@/components/motion.tsx";
+// 18/10/2026 (rediseño fichas): misma cabecera, pestañas, barra y rivales que coches.
+import GaleriaFicha, { type FotoFicha } from "@/components/ficha/GaleriaFicha.tsx";
+import { FranjaPrecio, PanelLateral, cambioDesdeHistorial, type DatoClave } from "@/components/ficha/CabeceraPrecio.tsx";
+import PestanasFicha from "@/components/ficha/PestanasFicha.tsx";
+import BarraInferiorFicha from "@/components/ficha/BarraInferiorFicha.tsx";
+import ProsContras from "@/components/ficha/ProsContras.tsx";
+import VideoYoutube from "@/components/ficha/VideoYoutube.tsx";
+import TablaVersiones from "@/components/ficha/TablaVersiones.tsx";
+import RivalesCarrusel from "@/components/ficha/RivalesCarrusel.tsx";
+import Relacionados from "@/components/Relacionados.tsx";
+import DescargarFichaPDF from "@/components/DescargarFichaPDF.tsx";
+import BotonCazachollos from "@/components/BotonCazachollos.tsx";
+import { fmtEur, fmtMiles } from "@/lib/formato.ts";
 // 07/10/2026 (fluidez): animados below-the-fold en lazy — se cargan al hacer scroll.
 const Donut = lazy(() => import("@/components/motion.tsx").then((m) => ({ default: m.Donut })));
 const BatteryFill = lazy(() => import("@/components/motion.tsx").then((m) => ({ default: m.BatteryFill })));
@@ -44,6 +48,7 @@ import type { PatineteComparador } from "@/lib/comparador-patinetes-data.ts";
 import type { ResenaSchemaExtra } from "@/components/ResenasVehiculo.tsx";
 
 import { loadArrayItem, loadRecordEntry } from "@/lib/data-loader-utils.ts";
+import { cargarFichaExtra, type FichaExtra } from "@/lib/ficha-extra.ts";
 import RespuestaRapida from "@/components/geo/RespuestaRapida.tsx";
 import { datosGeoPatinete, frasesGeo, metaGeo } from "@/lib/geo-ficha.ts";
 import { useHistorialPrecios } from "@/lib/historial-precios-cargar.ts";
@@ -56,14 +61,13 @@ const SeguridadEuroNCAPLayz = lazy(() => import("@/components/SeguridadEuroNCAP.
 // 12/10/2026: opiniones de propietarios con fotos (below-the-fold en lazy).
 const ResenasVehiculoLazy = lazy(() => import("@/components/ResenasVehiculo.tsx"));
 
-const fmtPrecio = (v: number | null) =>
-  v == null ? "No publicado" : v.toLocaleString("es-ES") + " €";
+const fmtPrecio = (v: number | null) => fmtEur(v, "No publicado");
 const fmtW = (v: number | null) => (v == null ? "No publicado" : v + " W");
 const fmtKm = (v: number | null) => (v == null ? "No publicado" : v + " km");
 const fmtKmh = (v: number | null) => (v == null ? "No publicado" : v + " km/h");
 const fmtWh = (v: number | null) => (v == null ? "No publicado" : v + " Wh");
 const fmtKg = (v: number | null) =>
-  v == null ? "No publicado" : v.toLocaleString("es-ES") + " kg";
+  v == null ? "No publicado" : fmtMiles(v) + " kg";
 const fmtH = (v: number | null) =>
   v == null
     ? "No publicado"
@@ -90,7 +94,7 @@ const FILAS: Fila[] = [
   { campo: "certificadoDgt", label: "Certificado DGT", get: (p) => fmtCertificado(p.certificadoDgt) },
 ];
 
-function Ficha({ patinete }: { patinete: PatineteComparador }) {
+function Ficha({ patinete, extra }: { patinete: PatineteComparador; extra: FichaExtra }) {
   const nombre = `${patinete.marca} ${patinete.modelo}`;
   // GEO 17/10/2026: respuesta rápida (ficha + historial de precios, nada inventado).
   const historial = useHistorialPrecios(patinete.id);
@@ -99,7 +103,6 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
   // Convex responde; en el prerender no hay datos → solo el schema base).
   const [reviewsExtra, setReviewsExtra] = useState<ResenaSchemaExtra | null>(null);
 
-  const [lightbox, setLightbox] = useState(false);
   const spotRef = useSpotlight<HTMLElement>();
 
   // Dimensiones intrínsecas para width/height exactos de la hero (LCP 05/10/2026):
@@ -133,6 +136,23 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
     specbars.push({ label: "Batería", value: patinete.bateriaWh, max: 1500, unit: " Wh" });
   if (specbars.length < 4 && patinete.tiempoCargaH != null)
     specbars.push({ label: "Tiempo de carga", value: patinete.tiempoCargaH, max: 12, unit: " h" });
+
+  // 18/10/2026 (rediseño): galería superior, datos clave y precio.
+  const dimDe = (src: string) => dims[src.split("/").pop() ?? ""];
+  const fotosTop: FotoFicha[] = [
+    ...(!patinete.fotoPendiente && patinete.foto ? [{ src: patinete.foto, alt: `Foto oficial del ${nombre}`, ancho: dimDe(patinete.foto)?.[0], alto: dimDe(patinete.foto)?.[1] }] : []),
+    ...(patinete.galeria ?? []).map((f) => ({ src: f.src, alt: f.alt, ancho: f.ancho, alto: f.alto })),
+  ].filter((f, i, a) => a.findIndex((g) => g.src === f.src) === i);
+  const datosClave: DatoClave[] = [
+    patinete.autonomiaKm != null && { icono: <BatteryCharging className="h-5 w-5" />, valor: `${patinete.autonomiaKm} km`, label: "Autonomía declarada" },
+    patinete.potenciaNominalW != null && { icono: <Zap className="h-5 w-5" />, valor: `${fmtMiles(patinete.potenciaNominalW)} W`, label: "Potencia nominal" },
+    patinete.pesoKg != null && { icono: <Weight className="h-5 w-5" />, valor: fmtKg(patinete.pesoKg), label: "Peso" },
+    patinete.velocidadMaxKmh != null && { icono: <Gauge className="h-5 w-5" />, valor: `${patinete.velocidadMaxKmh} km/h`, label: "Velocidad máx." },
+    patinete.certificadoDgt === true && { icono: <ShieldCheck className="h-5 w-5" />, valor: "Certificado", label: "DGT verificado" },
+  ].filter(Boolean) as DatoClave[];
+  const cambio = cambioDesdeHistorial(historial);
+  const precioAprox = patinete.aprox.includes("precioEur");
+  const compararHref = `/comparador-patinetes/?a=${patinete.id}`;
 
   const FAQS = [
     {
@@ -279,7 +299,7 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
   return (
     <div className="min-h-screen bg-gray-50">
       <SharedNavbar />
-      <main className="mx-auto max-w-4xl px-4 pb-16 pt-8">
+      <main id="ficha-pdf" className="mx-auto max-w-6xl px-4 pb-16 pt-8">
         <nav className="text-xs text-gray-500" aria-label="Migas de pan">
           <Link to="/" className="hover:underline">
             Inicio
@@ -291,44 +311,24 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
           · <span className="text-gray-700">{nombre}</span>
         </nav>
 
-        <header className="mt-4">
-          <div className="overflow-hidden rounded-3xl">
-            {patinete.fotoPendiente ? (
-              <div className="flex aspect-video w-full flex-col items-center justify-center gap-2 bg-gray-100 p-6 text-center">
+        <div className="lg:grid lg:grid-cols-[minmax(0,1fr)_300px] lg:items-start lg:gap-8">
+        <article className="min-w-0">
+        <header id="ficha-cabecera" className="mt-4">
+          <GaleriaFicha
+            fotos={fotosTop}
+            nombre={nombre}
+            ajuste="contain"
+            vacio={
+              <div className="flex aspect-video w-full flex-col items-center justify-center gap-2 rounded-3xl bg-gray-100 p-6 text-center">
                 <ShieldCheck className="h-10 w-10 text-gray-300" />
                 <p className="text-sm font-semibold text-gray-500">Foto oficial pendiente</p>
                 <p className="text-xs text-gray-400">
                   Estamos consiguiendo la imagen oficial del {nombre} en la web de {patinete.marca}.
                 </p>
               </div>
-            ) : (
-              <button
-                type="button"
-                onClick={() => setLightbox(true)}
-                className="block w-full cursor-zoom-in"
-                aria-label={`Ver foto grande del ${nombre}`}
-              >
-                <DriveInImage
-                  src={patinete.foto}
-                  alt={`Foto oficial del ${nombre}`}
-                  eager={true}
-                  width={dims[patinete.foto.split("/").pop() ?? ""]?.[0]}
-                  height={dims[patinete.foto.split("/").pop() ?? ""]?.[1]}
-                  className="block w-full bg-white"
-                  imgClassName="aspect-video w-full object-contain"
-                />
-              </button>
-            )}
-          </div>
-          {!patinete.fotoPendiente && <CreditoFoto src={patinete.foto} />}
-          {!patinete.fotoPendiente && lightbox && (
-            <Lightbox
-              src={patinete.foto}
-              alt={`Foto oficial del ${nombre}`}
-              onClose={() => setLightbox(false)}
-            />
-          )}
-          <div className="mt-5 flex flex-wrap items-center gap-2">
+            }
+          />
+          <div className="mt-4 flex flex-wrap items-center gap-2">
             <span className="rounded-full bg-red-600 px-3 py-1 text-xs font-bold uppercase tracking-widest text-white">
               {patinete.marca}
             </span>
@@ -347,7 +347,13 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
           </div>
           <h1 className="mt-3 text-3xl font-extrabold text-gray-900 sm:text-4xl">{nombre}</h1>
           <RespuestaRapida frases={geo.frases} />
-          <p className="mt-2 text-gray-600">
+          <FranjaPrecio
+            precio={patinete.precioEur}
+            aprox={precioAprox}
+            cambio={cambio}
+            datos={datosClave}
+          />
+          <p className="mt-3 text-sm text-gray-600">
             Ficha técnica completa: precio, potencia, autonomía declarada y{" "}
             <Marker>autonomía real estimada</Marker>,
             peso, frenos y <Marker>certificado DGT</Marker>, con puntos fuertes y débiles honestos. Si un
@@ -367,6 +373,19 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
             </a>
           </p>
         </header>
+
+        <PestanasFicha
+          secciones={[
+            { id: "resumen", label: "Resumen" },
+            { id: "ficha", label: "Ficha" },
+            { id: "precio", label: "Precio" },
+            { id: "fotos", label: "Fotos" },
+            { id: "pros-contras", label: "Pros y contras" },
+            { id: "opiniones", label: "Opiniones" },
+            { id: "rivales", label: "Rivales" },
+            { id: "faq", label: "FAQ" },
+          ]}
+        />
 
         <div className="mt-4 flex justify-end">
           <CompartirBotones
@@ -405,7 +424,8 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
         {donuts.length >= 2 && (
           <Suspense fallback={null}>
           <section
-            className="rtm-card mt-8 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6"
+            id="resumen"
+            className="rtm-card mt-8 scroll-mt-32 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6"
             aria-label="Datos destacados"
           >
             <h2 className="text-xl font-extrabold text-gray-900">En cifras</h2>
@@ -439,7 +459,7 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
 
         {(patinete.galeria?.length ?? 0) > 0 && (
           <Suspense fallback={null}>
-          <section className="mt-8" aria-label="Galería de fotos oficiales">
+          <section id="fotos" className="mt-8 scroll-mt-32" aria-label="Galería de fotos oficiales">
             <NightGallery label="Galería">
             <div className="mt-3 flex snap-x snap-mandatory gap-3 overflow-x-auto pb-2 sm:grid sm:grid-cols-3 sm:overflow-visible">
               {patinete.galeria!.map((f) => (
@@ -468,7 +488,8 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
 
         <section
           ref={spotRef}
-          className="rtm-spotlight rtm-card mt-8 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6"
+          id="ficha"
+          className="rtm-spotlight rtm-card mt-8 scroll-mt-32 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6"
           aria-label="Ficha técnica"
         >
           <h2 className="flex items-center gap-2 text-xl font-extrabold text-gray-900">
@@ -502,14 +523,21 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
           </p>
         </section>
 
-        <section className="rtm-card mt-8 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6">
-          <h2 className="text-xl font-extrabold text-gray-900">Nuestro veredicto</h2>
+        <section id="precio" className="rtm-card mt-8 scroll-mt-32 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6">
+          <div className="flex flex-wrap items-center justify-between gap-3">
+            <h2 className="text-xl font-extrabold text-gray-900">Nuestro veredicto</h2>
+            <div className="flex flex-wrap items-center gap-2">
+              <BotonCazachollos cocheId={patinete.id} nombre={nombre} precioActual={patinete.precioEur ?? null} />
+              <DescargarFichaPDF nombre={nombre} />
+            </div>
+          </div>
           <p className="mt-3 text-gray-700">{patinete.veredicto}</p>
+          <TablaVersiones versiones={patinete.versiones} nombre={nombre} />
           {(() => {
             const g = garantiaDeMarca(patinete.marca, "patinetes");
             return g && g.anios != null ? (
               <p className="mt-3 text-sm text-gray-500">
-                🛡️ Garantía oficial {patinete.marca}: <strong className="text-gray-800">{g.anios} años{g.km ? ` / ${g.km.toLocaleString("es-ES")} km` : ""}</strong>
+                🛡️ Garantía oficial {patinete.marca}: <strong className="text-gray-800">{g.anios} años{g.km ? ` / ${fmtMiles(g.km)} km` : ""}</strong>
                 {g.nota ? <span className="text-gray-400"> ({g.nota.split(".")[0]})</span> : null}
               </p>
             ) : null;
@@ -519,66 +547,7 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
           </Suspense>
         </section>
 
-        <section className="mt-8 grid gap-6 sm:grid-cols-2" aria-label="Puntos fuertes y débiles">
-          <FlipCard
-            className="rtm-card"
-            minHeight="240px"
-            front={
-              <div className="flex min-h-[240px] flex-col items-center justify-center gap-2 rounded-3xl border border-emerald-200 bg-emerald-50 p-6 text-center">
-                <span className="text-4xl" aria-hidden="true">✅</span>
-                <p className="text-lg font-extrabold text-emerald-700">Pros</p>
-                <p className="text-sm text-gray-600">{patinete.pros[0]}</p>
-                <p className="text-xs font-semibold text-gray-400">
-                  Toca para voltear ⟳
-                </p>
-              </div>
-            }
-            back={
-              <div className="h-full min-h-[240px] overflow-y-auto rounded-3xl border border-emerald-200 bg-emerald-50 p-4 sm:p-6">
-                <h2 className="flex items-center gap-1.5 text-lg font-extrabold text-emerald-700">
-                  <Check className="h-5 w-5" /> Puntos fuertes
-                </h2>
-                <ul className="mt-3 space-y-2">
-                  {patinete.pros.map((p, i) => (
-                    <li key={i} className="flex gap-2 text-sm text-gray-700">
-                      <Check className="mt-0.5 h-4 w-4 shrink-0 text-emerald-600" />
-                      <span>{p}</span>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            }
-          />
-          <FlipCard
-            className="rtm-card"
-            minHeight="240px"
-            front={
-              <div className="flex min-h-[240px] flex-col items-center justify-center gap-2 rounded-3xl border border-red-200 bg-red-50 p-6 text-center">
-                <span className="text-4xl" aria-hidden="true">❌</span>
-                <p className="text-lg font-extrabold text-red-600">Contras</p>
-                <p className="text-sm text-gray-600">{patinete.contras[0]}</p>
-                <p className="text-xs font-semibold text-gray-400">
-                  Toca para voltear ⟳
-                </p>
-              </div>
-            }
-            back={
-              <div className="h-full min-h-[240px] overflow-y-auto rounded-3xl border border-red-200 bg-red-50 p-4 sm:p-6">
-                <h2 className="flex items-center gap-1.5 text-lg font-extrabold text-red-600">
-                  <X className="h-5 w-5" /> Puntos débiles
-                </h2>
-                <ul className="mt-3 space-y-2">
-                  {patinete.contras.map((p, i) => (
-                    <li key={i} className="flex gap-2 text-sm text-gray-700">
-                      <Minus className="mt-1 h-3.5 w-3.5 shrink-0 text-red-500" />
-                      <span>{p}</span>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            }
-          />
-        </section>
+        <ProsContras pros={patinete.pros} contras={patinete.contras} />
 
         {patinete.videoId && (
           <section className="rtm-card mt-8 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6">
@@ -586,13 +555,7 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
               <Play className="h-5 w-5 text-red-600" /> Míralo en vídeo
             </h2>
             <div className="mt-3 overflow-hidden rounded-2xl">
-              <iframe
-                src={`https://www.youtube.com/embed/${patinete.videoId}`}
-                title={`Vídeo del ${nombre}`}
-                className="aspect-video w-full"
-                loading="lazy"
-                allowFullScreen
-              />
+              <VideoYoutube id={patinete.videoId} titulo={`Vídeo del ${nombre}`} />
             </div>
             <p className="mt-2 text-xs text-gray-500">
               Vídeo:{" "}
@@ -675,15 +638,7 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
 
               {patinete.mantenimientoDIY.videoTutorialUrl && (
                 <div className="overflow-hidden rounded-2xl border border-gray-200">
-                  <div className="aspect-video w-full">
-                    <iframe
-                      src={patinete.mantenimientoDIY.videoTutorialUrl.replace("watch?v=", "embed/").replace("youtu.be/", "www.youtube.com/embed/")}
-                      title={patinete.mantenimientoDIY.videoTutorialTitulo ?? `Tutorial de mantenimiento del ${nombre}`}
-                      className="h-full w-full"
-                      loading="lazy"
-                      allowFullScreen
-                    />
-                  </div>
+                  <VideoYoutube id={patinete.mantenimientoDIY.videoTutorialUrl} titulo={patinete.mantenimientoDIY.videoTutorialTitulo ?? `Tutorial de mantenimiento del ${nombre}`} />
                   <p className="bg-gray-50 px-4 py-2 text-xs text-gray-500">
                     🎥 {patinete.mantenimientoDIY.videoTutorialTitulo ?? "Vídeo tutorial"} — YouTube
                   </p>
@@ -697,9 +652,11 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
           <SeguridadEuroNCAPLayz fichaId={patinete.id} nombre={nombre} />
         </Suspense>
 
-        <section className="mt-8 grid gap-3 sm:grid-cols-2">
+        <RivalesCarrusel tipo="patinetes" id={patinete.id} nombre={nombre} rivales={extra.r} />
+
+        <section className="mt-8 grid gap-3 sm:grid-cols-2" aria-label="Comparar modelo">
           <Link
-            to={`/comparador-patinetes?a=${patinete.id}`}
+            to={compararHref}
             className="inline-flex items-center justify-center gap-2 rounded-2xl border-2 border-red-600 bg-white px-4 py-3 text-sm font-bold text-red-600 transition hover:bg-red-50"
           >
             <ArrowLeftRight className="h-4 w-4" /> Comparar con otro patinete
@@ -710,7 +667,7 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
             <BookOpen className="h-4 w-4" /> Guía: normativa y multas 2026
           </Link>
           {/* 13/10/2026: análisis del blog del mismo modelo, solo si el post existe */}
-          {BLOG_SLUGS.has(analisisSlug) && (
+          {extra.b === 1 && (
             <Link
               to={`/blog/${analisisSlug}/`}
               className="inline-flex items-center justify-center gap-2 rounded-2xl border border-gray-300 bg-white px-4 py-3 text-sm font-bold text-gray-900 transition hover:bg-gray-50"
@@ -727,7 +684,9 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
           </Link>
         </p>
 
-        <section className="mt-10">
+        <Relacionados pathname={`/patinetes/${patinete.id}/`} enArticulo />
+
+        <section id="faq" className="mt-10 scroll-mt-32" aria-label="Preguntas frecuentes">
           <h2 className="text-2xl font-extrabold text-gray-900">Preguntas frecuentes</h2>
           <div className="mt-4 space-y-3">
             {FAQS.map((f) => (
@@ -739,9 +698,8 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
           </div>
         </section>
 
-        <StickyCta href={`/comparador-patinetes?a=${patinete.id}`} label="Comparar este modelo" />
-
         {/* 12/10/2026: opiniones de propietarios con fotos */}
+        <div id="opiniones" className="scroll-mt-32">
         <Suspense fallback={null}>
           <ResenasVehiculoLazy
             tipo="patinetes"
@@ -750,6 +708,19 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
             onDatosSchema={setReviewsExtra}
           />
         </Suspense>
+        </div>
+        </article>
+        <PanelLateral
+          nombre={nombre}
+          precio={patinete.precioEur}
+          aprox={precioAprox}
+          cambio={cambio}
+          compararHref={compararHref}
+          alerta={<BotonCazachollos cocheId={patinete.id} nombre={nombre} precioActual={patinete.precioEur ?? null} />}
+          pdf={<DescargarFichaPDF nombre={nombre} />}
+        />
+        </div>
+        <BarraInferiorFicha compararHref={compararHref} precio={patinete.precioEur} aprox={precioAprox} />
       </main>
       <SharedFooter
         editorial={{
@@ -767,14 +738,17 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
 export default function PatinetesFichaPage() {
   const { slug = "" } = useParams<{ slug: string }>();
   // Carga perezosa (05/10/2026): solo el módulo de la marca de este modelo.
+  const [extra, setExtra] = useState<FichaExtra>({});
   const [patinete, setPatinete] = useState<PatineteComparador | null | undefined>(undefined);
 
   useEffect(() => {
     let alive = true;
     delete document.body.dataset.pageReady;
     (async () => {
-      const p = await loadArrayItem<PatineteComparador>("patinete", slug, (x) => x.id === slug);
+      // 18/10/2026: rivales + ¿existe el análisis? (trozo pequeño) en paralelo con la ficha.
+      const [p, ex] = await Promise.all([loadArrayItem<PatineteComparador>("patinete", slug, (x) => x.id === slug), cargarFichaExtra("patinetes", slug)]);
       if (!alive) return;
+      setExtra(ex);
       setPatinete(p ?? null);
       if (p) {
         await Promise.all([
@@ -819,5 +793,5 @@ export default function PatinetesFichaPage() {
     );
   }
 
-  return <Ficha patinete={patinete} />;
+  return <Ficha patinete={patinete} extra={extra} />;
 }
