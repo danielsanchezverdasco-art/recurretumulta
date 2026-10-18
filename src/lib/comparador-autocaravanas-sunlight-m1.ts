@@ -216,4 +216,110 @@ export const AUTOCARAVANAS_SUNLIGHT_M1: CocheComparador[] = [
     fuenteNombre: "Sunlight (web oficial) + AlpacaCamping",
     fuenteUrl: "https://www.alpacacamping.de/fahrzeuge/en/model/sunlight-alkoven-a/",
   },
+  {
+    id: "sunlight-cliff-640-2026-precio-ficha-tecnica",
+    marca: "Sunlight",
+    modelo: "Cliff 640 Adventure",
+    tipo: "Camper (furgoneta camper)",
+    categoria: "Autocaravana",
+    precioDesde: 60990, // precio oficial publicado por Sunlight para España
+    potenciaCv: 140,
+    autonomiaKm: null,
+    maleteroL: null,
+    ceroCien: null,
+    velocidadMax: null,
+    bateriaKwh: null,
+    cargaRapidaKw: null,
+    etiquetaDgt: "C",
+    garantiaBateriaAnos: null,
+    garantiaBateriaKm: null,
+    garantiaBateriaDegradacionPct: null,
+    imagen: "/media/sunlight-cliff-640-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial:
+      "/media/sunlight-cliff-640-2026-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial:
+      "/media/sunlight-cliff-640-2026-precio-ficha-tecnica-interior.webp",
+    videoId: null,
+    videoCanal: null,
+    largoMm: 6360,
+    anchoMm: 2050,
+    altoMm: 2610, // 2.810 mm con el techo elevable opcional
+    pesoKg: 2928, // masa en orden de marcha según sunlight.de (horquilla oficial 2.782-3.074 kg según equipamiento)
+    mmaKg: 3500, // ampliable opcionalmente a 4.250 kg de fábrica
+    carnetNecesario: "B",
+    cargaUtilKg: 572, // calculada: 3.500 - 2.928 (MMA menos peso en orden de marcha)
+    consumo: null,
+    consumoUnidad: null,
+    plazas: 4,
+    parNm: null,
+    traccion: "Delantera",
+    emisionesCo2: null,
+    aprox: [],
+    pros: [
+      "Camas gemelas traseras de 192x108 y 184x86 cm con acceso individual: no hay que hacer ni deshacer la cama cada día, ventaja real frente a las transversales",
+      "Garaje trasero de gran volumen con 4 anillas de sujeción: admite bicis y material deportivo (pack Adventure)",
+      "MMA ampliable a 4.250 kg como opción de fábrica: resuelve el problema de carga útil que tienen casi todos los camper de 6,36 m en 3,5 t",
+      "Calefacción diésel opcional Combi 4 además de la de gas de serie: permite acampar en invierno sin depender de bombonas",
+      "Precio de partida oficial publicado (60.990 € en España): poco común y competitivo para un camper alemán de 6,36 m con 4 plazas",
+    ],
+    contras: [
+      "Solo 2 camas de serie (2+2): para dormir 4 hay que pagar la cama central opcional o el techo elevable, que además eleva la altura a 2,81 m",
+      "El peso en orden de marcha ya parte de 2.928 kg (hasta 3.074 con opciones): con la MMA de 3.500 kg queda poca carga útil real sin la ampliación a 4.250 kg",
+      "Baño compacto con ducha integrada en la misma cabina del inodoro cassette: no hay ducha separada como en rivales franceses",
+      "Cambio manual de 6 marchas de serie y automático no publicado en la ficha oficial española, frente a competidores que lo ofrecen de fábrica",
+      "Nevera de compresor de 84 l algo justa para 4 personas en viajes largos; la cocina es de solo 2 fuegos a gas",
+    ],
+    opiniones: [],
+    costeMensual: {
+      costeEnergia100km: 13.1,
+      precioKwh: 0.18,
+      precioGasolinaL: 1.6,
+      seguroTercerosAnual: 600,
+      seguroAmpliadoAnual: 1100,
+      mantenimientoAnual: 550,
+      costeMensualTotal: 400,
+      notas:
+        "Estimación con 12.000 km/año, consumo medio ~9,5 l/100 km de gasóleo y seguro a todo riesgo. Coste real muy dependiente del uso.",
+      estimado: true,
+    },
+    galeria: [
+      {
+        src: "/media/sunlight-cliff-640-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Sunlight Cliff 640 Adventure, vista lateral",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/sunlight-cliff-640-2026-precio-ficha-tecnica-interior.webp",
+        alt: "Interior del Sunlight Cliff 640 Adventure, camas gemelas",
+        ancho: 1200,
+        alto: 800,
+      },
+    ],
+    analisisSlug: "sunlight-cliff-640-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo:
+        "Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Fiat)",
+      revisiones: [
+        {
+          nombre: "Revisión Fiat Ducato (2 años / 40.000 km)",
+          queSeCambia:
+            "Aceite + filtro de aceite + filtro de polen + inspección general",
+          costeAproxEur: 350,
+        },
+        {
+          nombre: "Revisión célula Sunlight (anual recomendada)",
+          queSeCambia:
+            "Estanqueidad, gas, electricidad, humedades y prueba de calefacción",
+          costeAproxEur: 250,
+        },
+      ],
+      costeAnualAproxEur: 600,
+      fuente: "Plan de mantenimiento Fiat Ducato + recomendaciones Sunlight",
+    },
+    euroncap: null,
+    fuenteNombre: "Sunlight (web oficial)",
+    fuenteUrl:
+      "https://www.sunlight.de/es/modelos/camper-vans/cliff-adventure/cliff-640-adventure/",
+  },
 ];
