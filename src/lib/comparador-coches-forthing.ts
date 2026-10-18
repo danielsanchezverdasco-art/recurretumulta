@@ -586,7 +586,7 @@ export const COCHES_FORTHING: CocheComparador[] = [
     parNm: 310,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: ["precio", "autonomiaKm"],
+    aprox: ["precioDesde", "autonomiaKm"],
     imagen: "/media/forthing-s7-reev-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

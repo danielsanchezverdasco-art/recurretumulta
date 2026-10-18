@@ -984,7 +984,7 @@ export const COCHES_EXEED: CocheComparador[] = [
     parNm: null,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: ["precio", "autonomiaKm"],
+    aprox: ["precioDesde", "autonomiaKm"],
     imagen: "/media/exeed-et5-2026-precio-ficha-tecnica-hero.webp",
     fuenteNombre: "hibridosyelectricos.com",
     fuenteUrl:

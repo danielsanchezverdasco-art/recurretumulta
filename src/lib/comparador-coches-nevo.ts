@@ -158,7 +158,7 @@ export const COCHES_NEVO: CocheComparador[] = [
     parNm: null,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["precio", "autonomiaKm"],
+    aprox: ["precioDesde", "autonomiaKm"],
     imagen: "/media/nevo-a06-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

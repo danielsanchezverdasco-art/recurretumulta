@@ -394,7 +394,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
     parNm: 390,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["precio", "autonomiaKm"],
+    aprox: ["precioDesde", "autonomiaKm"],
     pros: [
       "SUV coupé eléctrico con 630 km de autonomía (CLTC)",
       "402 CV y tracción trasera en la versión de acceso",

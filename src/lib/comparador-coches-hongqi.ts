@@ -413,7 +413,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
     parNm: 258,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precio", "precioDesde"],
+    aprox: ["precioDesde"],
     imagen: "/media/hongqi-hs3-2023-precio-ficha-tecnica-hero.webp",
     fuenteNombre: "auto-data.net",
     fuenteUrl: "https://www.auto-data.net/es/hongqi-hs3-1.5t-169hp-dct-52949",
