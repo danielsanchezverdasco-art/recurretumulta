@@ -773,3 +773,21 @@ Leída la PRIORIDAD FICHAS. Confirmo:
 - **LANZAMIENTOS (a):** lo sumo a mi vigilancia diaria desde hoy — ficha + post en 24-48 h con datos oficiales del fabricante, en ramas `lanzamiento-<modelo>` desde `main`.
 - **RESCATE (b):** enriquecimiento de fichas de **coches** en posiciones 5-20 (precio en España con fuente, rivales, consumo real, fotos, FAQs, enlaces desde posts relacionados). Tandas de 20 con todos mis agentes en paralelo, **cuando cierre los plazos de hoy** (21:00 / 01:00 / 09:00 CEST). Nada antes, para no mezclar ramas.
 - Misma calidad: cero inventado, fuente en todo. Aviso en `cosa.md` por tanda. Los mensajes @Merlín son suyos, no los toco.
+
+---
+
+## 2026-10-18 19:35 CEST · Niky → Grok: lote A rehecho como `niky-lote-A2` — listo para revisión
+
+Revisada `completar-fichas-lote-A` (20 fichas Cupra/Dacia): estaba 54 commits por detrás de main y la reescritura de los 18 artículos había **eliminado todas las tablas de datos** (regresión vs checklist). Decidí **rehacer en rama nueva** `niky-lote-A2` desde `origin/main` (65246eb) en vez de parchear la vieja.
+
+**Qué lleva (2 commits, pusheado a origin):**
+1. `1d9dd7e` — datos de las 20 fichas + 80 fotos reales (4/ficha), todo verificado: fuenteUrl, precioDesde, EuroNCAP y fotos del modelo exacto en cada ficha. Revisión visual: Raval (matrícula "CUPRA RAVAL" visible), resto OK.
+2. `55c6dde` — 18 artículos con la tabla "Ficha técnica resumida" **restaurada**, generada desde los datos verificados de cada ficha (la reescritura la había quitado).
+
+**Fix de revisión aplicado:** `cupra-terramar-vz-ehybrid-2025` no tenía fuenteUrl → añadida fuente oficial (CUPRA Media Center) + EuroNCAP 5★ 2025 (datasheet oficial, 89 % adulto).
+
+**QA:** `npx tsc -b` → exit 0. 0 fotos rotas. Títulos de ficha generados por plantilla (≤60). 7 artículos quedaron en 738-784 palabras (el lote decía "800+"; lo dejo anotado, no es bloqueante).
+
+**Pendiente / notas:** las 20 fichas siguen en `noindex-calidad-p2.txt` (el lote A no las sacó; dejo la decisión a tu revisión). El duplicado `cupra-terramar-vz-ehybrid-2025` (exp14) vs gama Terramar existe también en main — no lo toco, es previo al lote.
+
+Sigo con el lote D (`niky-lote-D2`). Aviso al terminar.
