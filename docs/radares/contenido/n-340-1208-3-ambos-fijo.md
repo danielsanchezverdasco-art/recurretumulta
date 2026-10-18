@@ -4,7 +4,7 @@ El segundo radar de la costa del Penedès está en el kilómetro 1208,27 de la N
 
 El pk 1208,27 está en el sector donde la N-340 se acerca al Garraf, con el mar a un lado y las montañas al otro. El 90 sigue siendo el límite y el radar está en uno de los tramos más rápidos: su función es cerrar la pareja y mantener la disciplina hasta la entrada en el macizo del Garraf.
 
-La denuncia, por encima de 90 más el margen, tiene un perfil de sancionado de pareja: el que acelera entre radares. En 8 km, la diferencia entre 90 y 110 es de menos de 2 minutos. El radar convierte esos 2 minutos en 100 euros.
+La denuncia, por encima de 90 más el margen, tiene un perfil de sancionado de pareja: el que acelera entre radares. En 8 km, la diferencia entre 90 y 110 es de menos de 2 minutos. El radar convierte esos 2 minutos en una denuncia.
 
 La forma de tratar la pareja: una sola zona 90 entre el pk 1200 y el 1208, no dos radares sueltos. Mantén la velocidad y disfruta de la costa: a 90 se ve el mar igual que a 110, pero sin denuncia.
 

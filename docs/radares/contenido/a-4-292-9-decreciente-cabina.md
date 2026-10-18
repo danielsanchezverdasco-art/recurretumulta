@@ -20,7 +20,7 @@ Las notificaciones electrónicas son obligatorias para empresas y voluntarias pa
 
 En los alrededores hay otros controles publicados por la DGT: A-4 pk 292,4 (0,4 km, cabina); A-302 pk 13,3 (10,7 km, cabina); A-4 pk 308,2 (13,9 km, cabina); A-311 pk 25,5 (26,6 km, cabina).
 
-La red andaluza de control fijo alcanza los 156 puntos entre cabinas y tramos; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
+La red andaluza de control fijo suma cabinas y tramos repartidos por toda la comunidad; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
 
 La información de este control se extrae directamente del inventario oficial de la DGT; no utilizamos webs de avisadores ni datos sin contrastar.
 

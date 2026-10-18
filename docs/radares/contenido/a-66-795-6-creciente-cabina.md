@@ -20,7 +20,7 @@ Las notificaciones electrónicas son obligatorias para empresas y voluntarias pa
 
 En los alrededores hay otros controles publicados por la DGT: A-8006 pk 16,5 (7,0 km, cabina); N-433 pk 38,5 (14,2 km, cabina); A-49 pk 0,5 (15,9 km, cabina); SE-20 pk 2,7 (16,9 km, cabina); SE-30 pk 0,4 (18,0 km, cabina).
 
-Este punto es uno de los 156 que la DGT tiene publicados en Andalucía, repartidos entre 147 cabinas y 9 radares de tramo, con Málaga y Sevilla a la cabeza en número de controles.
+Este punto es uno de los que la DGT tiene publicados en Andalucía, entre cabinas y radares de tramo.
 
 Todos los datos de este punto —carretera, kilómetro, sentido y coordenadas— provienen de la publicación oficial de la DGT, verificada el 18 de octubre de 2026.
 

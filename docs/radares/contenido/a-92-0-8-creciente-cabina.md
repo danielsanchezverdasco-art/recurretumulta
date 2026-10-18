@@ -14,13 +14,13 @@ La forma más segura de afrontarlo es sencilla: ajustar la velocidad antes de ll
 
 Sin dato oficial de límite, no hay cifra que dar: la publicación de la DGT omite ese campo. Fíate de las señales, no de estimaciones.
 
-El importe final depende de cuánto se haya superado el límite: los excesos leves se saldan con 100 euros, mientras que los graves alcanzan los 600 y restan hasta seis puntos.
+El importe final depende de cuánto se haya superado el límite: los excesos leves conllevan la sanción mínima, mientras que los graves se castigan con dureza e implican la pérdida de puntos del permiso.
 
 Si el radar te capta, la denuncia llega al domicilio del titular del vehículo: conviene tener actualizada la dirección en la DGT para no perder plazos de alegación o de pronto pago.
 
 Otros puntos vigilados cercanos, también publicados por la DGT, son A-92 pk 0,8 (0,0 km, cabina); SE-30 pk 0,6 (2,3 km, cabina); SE-30 pk 0,4 (2,4 km, cabina); SE-20 pk 2,7 (3,9 km, cabina).
 
-Con 156 puntos publicados, Andalucía es una de las comunidades con más controles fijos de la red estatal; este kilómetro forma parte de ese despliegue.
+Andalucía cuenta con un amplio despliegue de controles fijos de la red estatal; este kilómetro forma parte de ese despliegue.
 
 Todos los datos de este punto —carretera, kilómetro, sentido y coordenadas— provienen de la publicación oficial de la DGT, verificada el 18 de octubre de 2026.
 

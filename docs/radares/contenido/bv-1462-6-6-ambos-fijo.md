@@ -6,7 +6,7 @@ Y a 50, la velocidad mata menos. Es física elemental: un atropello a 50 se sald
 
 El multado típico no es un temerario: es el vecino que hace el trayecto a diario y ha normalizado los 65-70 "porque aquí nunca hay nadie". Hasta que hay alguien. El 50 en una vía que "parece" de 70 es el límite más difícil de interiorizar, y por eso el radar es necesario: la señal sola no basta cuando el entorno engaña.
 
-La denuncia se activa por encima de 50 más el margen del equipo, y el baremo en zona 50 es proporcionalmente el más duro: a 71 ya son 300 euros y 4 puntos; a 81, 600 y 6. Son cifras que obligan a pensar: ¿vale la pena arriesgar 6 puntos por llegar 40 segundos antes a un tramo con rotondas?
+La denuncia se activa por encima de 50 más el margen del equipo, y el baremo en zona 50 es proporcionalmente el más duro: a 71 ya hay sanción grave con pérdida de puntos; a 81, la sanción es máxima. Son sanciones que obligan a pensar: ¿vale la pena arriesgar puntos del permiso por llegar 40 segundos antes a un tramo con rotondas?
 
 La táctica es mental: al ver el 50, olvida que estás en una carretera y piensa que estás en una calle con casas. Porque lo estás. Circula por el centro del carril, mira a los lados en cada acceso y no te impacientes: en 2 km a 50 se tarda 2 minutos y 24 segundos; a 70, 1 minuto y 43. La diferencia son 41 segundos. ¿Los vale una vida? ¿Los vale tu carnet?
 

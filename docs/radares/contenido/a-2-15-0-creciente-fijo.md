@@ -8,7 +8,7 @@ El tramo peligroso es el entorno del pk 15,0 en sentido salida. El patrón sanci
 
 Sobre el límite, hay que insistir en lo que dice la fuente oficial: el dataset de la DGT no publica la velocidad límite de esta cabina. No se puede afirmar una cifra concreta; la única referencia válida es la señalización del tramo. El conductor debe atenerse a lo que indiquen las señales, que es lo que el cinemómetro va a exigir.
 
-¿Cuándo multa? Cuando se supera la velocidad señalizada en el punto de control. ¿Cómo afrontarlo? En autovías con mucho tráfico pesado, la paciencia es la mejor estrategia: adelanta a los camiones de uno en uno, vuelve a tu carril y mantén una velocidad estable. Los adelantamientos múltiples a alta velocidad son la maniobra que más multas —y más riesgos— genera en este corredor.
+¿Cuándo multa? Cuando se supera la velocidad señalizada en el punto de control. ¿Cómo afrontarlo? En autovías con mucho tráfico pesado, la paciencia es la mejor estrategia: adelanta a los camiones de uno en uno, vuelve a tu carril y mantén una velocidad estable. Los adelantamientos múltiples a alta velocidad son la maniobra que más riesgos genera en este corredor.
 
 Como radares cercanos, en la misma A-2 y muy próximo está el del pk 15,9 en sentido decreciente —hacia Madrid—, que vigila el mismo sector en dirección contraria. La pareja forma un control completo del tramo: la A-2 a la altura del km 15 está vigilada en ambos sentidos.
 

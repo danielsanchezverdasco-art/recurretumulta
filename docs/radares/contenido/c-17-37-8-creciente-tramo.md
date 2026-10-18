@@ -13,5 +13,3 @@ En la C-17, este tramo convive con el gemelo en sentido decreciente (pk 41,1 →
 Nota: la fuente oficial publica este radar con coordenadas de origen erróneas y no se ha podido verificar su posición exacta; por eso no se incluye enlace de Street View. Pk, sentido, longitud y límite son los del catálogo del Servei Català de Trànsit.
 
 El tramo no va solo: por detrás, el fijo del 33,5 ya marca el tono a 80, y al salir te esperan el gemelo de vuelta y el fijo del 42,7. Todo el sector entre el 33 y el 43 es zona 80 continua: entra al tramo pensando que la disciplina empezó 4 km antes y termina 2 km después. El que lo interioriza no necesita mirar el cuadro cada diez segundos.
-
-El tramo no va solo: por detrás, el fijo del 33,5 ya marca el tono a 80, y al salir te esperan el gemelo de vuelta y el fijo del 42,7. Todo el sector entre el 33 y el 43 es zona 80 continua: entra al tramo pensando que la disciplina empezó 4 km antes y termina 2 km después. El que lo interioriza no necesita mirar el cuadro cada diez segundos.

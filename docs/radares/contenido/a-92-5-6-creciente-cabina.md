@@ -20,7 +20,7 @@ Además de la multa económica, hay que contar con la detracción de puntos: dos
 
 Otros puntos vigilados cercanos, también publicados por la DGT, son A-92 pk 5,6 (0,0 km, cabina); A-92 pk 0,8 (4,7 km, cabina); A-92 pk 0,8 (4,7 km, cabina); A-92 pk 10,9 (5,2 km, cabina); A-376 pk 3,0 (5,3 km, cabina).
 
-Andalucía concentra 156 puntos de control en el inventario oficial de la DGT: 147 cabinas fijas y 9 tramos de velocidad media, distribuidos por las ocho provincias.
+Andalucía concentra numerosos puntos de control en el inventario oficial de la DGT, entre cabinas fijas y tramos de velocidad media, distribuidos por las ocho provincias.
 
 Todos los datos de este punto —carretera, kilómetro, sentido y coordenadas— provienen de la publicación oficial de la DGT, verificada el 18 de octubre de 2026.
 

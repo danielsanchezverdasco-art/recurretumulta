@@ -20,7 +20,7 @@ Si el radar te capta, la denuncia llega al domicilio del titular del vehículo: 
 
 La DGT también tiene publicados controles próximos: SE-30 pk 10,5 (0,6 km, cabina); SE-30 pk 9,9 (1,1 km, cabina); SE-30 pk 10,2 (1,2 km, cabina); A-8057 pk 0,7 (3,7 km, cabina); A-8058 pk 4,9 (3,7 km, cabina).
 
-Este punto es uno de los 156 que la DGT tiene publicados en Andalucía, repartidos entre 147 cabinas y 9 radares de tramo, con Málaga y Sevilla a la cabeza en número de controles.
+Este punto es uno de los que la DGT tiene publicados en Andalucía, entre cabinas y radares de tramo.
 
 La información de este control se extrae directamente del inventario oficial de la DGT; no utilizamos webs de avisadores ni datos sin contrastar.
 

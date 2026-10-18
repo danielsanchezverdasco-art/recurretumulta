@@ -20,7 +20,7 @@ Además de la multa económica, hay que contar con la detracción de puntos: dos
 
 Otros puntos vigilados cercanos, también publicados por la DGT, son A-7 pk 968,2 (17,1 km, cabina); A-7 pk 937,4 (21,3 km, cabina); A-7 pk 936,3 (22,3 km, cabina); A-7 pk 979,0 (24,0 km, cabina); A-45 pk 126,0 (25,2 km, radar de tramo).
 
-La red andaluza de control fijo alcanza los 156 puntos entre cabinas y tramos; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
+La red andaluza de control fijo suma cabinas y tramos repartidos por toda la comunidad; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
 
 Todos los datos de este punto —carretera, kilómetro, sentido y coordenadas— provienen de la publicación oficial de la DGT, verificada el 18 de octubre de 2026.
 

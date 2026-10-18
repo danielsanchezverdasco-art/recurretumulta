@@ -20,7 +20,7 @@ En caso de sanción, el titular dispone de veinte días naturales para acogerse 
 
 Si sigues conduciendo por la zona, ten en cuenta estos otros radares oficiales: A-44 pk 42,6 (5,7 km, cabina); A-316 pk 59,7 (6,2 km, cabina); A-44 pk 39,0 (6,2 km, cabina); A-306 pk 55,9 (15,2 km, cabina).
 
-El mapa andaluz de radares fijos suma 156 ubicaciones oficiales; esta es una de ellas, y convive con otros 155 puntos repartidos por toda la comunidad.
+Esta ubicación forma parte del mapa andaluz de radares fijos publicado por la DGT, con controles repartidos por toda la comunidad.
 
 Los datos que aquí aparecen —vía, punto kilométrico, sentido, municipio y coordenadas— son los que la DGT publica en abierto, sin añadidos ni interpretaciones.
 

@@ -10,7 +10,7 @@ La zona, en plena provincia sevillana, presenta la llanura del Guadalquivir. Con
 
 Los cinemómetros fijos se instalan tras estudiar los tramos con más siniestros o con velocidades medias más altas; este kilómetro es uno de ellos.
 
-Superar el límite conlleva multas que oscilan entre 100 y 600 euros, con detracción de dos a seis puntos del permiso según la gravedad del exceso.
+Superar el límite conlleva multas proporcionales a la gravedad del exceso, con detracción de puntos del permiso.
 
 Ojo: el inventario de la DGT no publica el límite de velocidad de cada radar, así que no lo inventamos. La referencia válida es la señalización que encuentres en la carretera.
 
@@ -20,7 +20,7 @@ Si consideras que la denuncia es errónea, puedes recurrirla: revisa la imagen, 
 
 Otros puntos vigilados cercanos, también publicados por la DGT, son A-92 pk 5,6 (0,0 km, cabina); A-92 pk 0,8 (4,7 km, cabina); A-92 pk 0,8 (4,7 km, cabina); A-92 pk 10,9 (5,2 km, cabina).
 
-Con 156 puntos publicados, Andalucía es una de las comunidades con más controles fijos de la red estatal; este kilómetro forma parte de ese despliegue.
+Andalucía cuenta con un amplio despliegue de controles fijos de la red estatal; este kilómetro forma parte de ese despliegue.
 
 Este radar forma parte del inventario oficial que la DGT publica en su portal de datos abiertos, y su ubicación puede consultarse en el fichero XML de la Dirección General de Tráfico.
 

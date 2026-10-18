@@ -20,7 +20,7 @@ En caso de sanción, el titular dispone de veinte días naturales para acogerse 
 
 Otros puntos vigilados cercanos, también publicados por la DGT, son A-497 pk 3,1 (0,6 km, cabina); A-497 pk 11,9 (7,9 km, cabina); H-31 pk 79,9 (9,1 km, cabina).
 
-Este radar se integra en una red de 156 controles oficiales en Andalucía, pensada para cubrir los tramos de mayor riesgo de cada provincia.
+Este radar se integra en la red de controles oficiales de Andalucía, pensada para cubrir los tramos de mayor riesgo de cada provincia.
 
 Los datos que aquí aparecen —vía, punto kilométrico, sentido, municipio y coordenadas— son los que la DGT publica en abierto, sin añadidos ni interpretaciones.
 

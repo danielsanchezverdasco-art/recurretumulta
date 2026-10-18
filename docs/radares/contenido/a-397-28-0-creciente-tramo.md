@@ -20,7 +20,7 @@ Las notificaciones electrónicas son obligatorias para empresas y voluntarias pa
 
 La DGT también tiene publicados controles próximos: A-397 pk 28,0 (0,0 km, cabina); A-397 pk 30,1 (1,2 km, radar de tramo); A-397 pk 30,1 (1,2 km, cabina).
 
-Con 156 puntos publicados, Andalucía es una de las comunidades con más controles fijos de la red estatal; este kilómetro forma parte de ese despliegue.
+Andalucía cuenta con un amplio despliegue de controles fijos de la red estatal; este kilómetro forma parte de ese despliegue.
 
 Los datos que aquí aparecen —vía, punto kilométrico, sentido, municipio y coordenadas— son los que la DGT publica en abierto, sin añadidos ni interpretaciones.
 

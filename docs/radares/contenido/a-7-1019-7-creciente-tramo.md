@@ -20,7 +20,7 @@ Recuerda que identificar al conductor es obligatorio cuando el titular no era qu
 
 El mapa oficial de la DGT muestra en las inmediaciones: A-7 pk 1019,7 (0,0 km, cabina); A-7 pk 1019,7 (0,0 km, cabina); A-7 pk 1024,9 (4,6 km, radar de tramo); A-7 pk 1024,9 (4,6 km, cabina); A-7 pk 1024,9 (4,7 km, cabina).
 
-La red andaluza de control fijo alcanza los 156 puntos entre cabinas y tramos; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
+La red andaluza de control fijo suma cabinas y tramos repartidos por toda la comunidad; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
 
 Todos los datos de este punto —carretera, kilómetro, sentido y coordenadas— provienen de la publicación oficial de la DGT, verificada el 18 de octubre de 2026.
 

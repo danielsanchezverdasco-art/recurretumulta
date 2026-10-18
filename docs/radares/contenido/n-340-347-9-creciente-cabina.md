@@ -12,7 +12,7 @@ El punto queda definido oficialmente por: la nacional N-340, la mítica nacional
 
 Afrontar este radar no requiere más que disciplina: respetar la señalización vertical del tramo y mantener una velocidad homogénea con el resto del tráfico.
 
-El importe final depende de cuánto se haya superado el límite: los excesos leves se saldan con 100 euros, mientras que los graves alcanzan los 600 y restan hasta seis puntos.
+El importe final depende de cuánto se haya superado el límite: los excesos leves conllevan la sanción mínima, mientras que los graves se castigan con dureza e implican la pérdida de puntos del permiso.
 
 Sin dato oficial de límite, no hay cifra que dar: la publicación de la DGT omite ese campo. Fíate de las señales, no de estimaciones.
 
@@ -20,7 +20,7 @@ Si el radar te capta, la denuncia llega al domicilio del titular del vehículo: 
 
 Otros puntos vigilados cercanos, también publicados por la DGT, son N-340 pk 339,1 (7,4 km, cabina); N-340 pk 358,9 (8,9 km, cabina).
 
-De los 156 radares que la DGT publica en Andalucía, la mayoría son cabinas como esta; solo nueve son de tramo, el sistema de velocidad media.
+De los radares que la DGT publica en Andalucía, la mayoría son cabinas como esta; solo algunos son de tramo, el sistema de velocidad media.
 
 Este radar forma parte del inventario oficial que la DGT publica en su portal de datos abiertos, y su ubicación puede consultarse en el fichero XML de la Dirección General de Tráfico.
 

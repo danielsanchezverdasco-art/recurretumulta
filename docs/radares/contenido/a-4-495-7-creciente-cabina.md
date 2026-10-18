@@ -20,7 +20,7 @@ Recuerda que identificar al conductor es obligatorio cuando el titular no era qu
 
 La DGT también tiene publicados controles próximos: A-4 pk 484,2 (11,1 km, cabina); A-92 pk 29,1 (26,4 km, cabina); A-436 pk 11,5 (27,3 km, cabina); A-8125 pk 4,2 (28,3 km, cabina).
 
-Con 156 puntos publicados, Andalucía es una de las comunidades con más controles fijos de la red estatal; este kilómetro forma parte de ese despliegue.
+Andalucía cuenta con un amplio despliegue de controles fijos de la red estatal; este kilómetro forma parte de ese despliegue.
 
 Este radar forma parte del inventario oficial que la DGT publica en su portal de datos abiertos, y su ubicación puede consultarse en el fichero XML de la Dirección General de Tráfico.
 

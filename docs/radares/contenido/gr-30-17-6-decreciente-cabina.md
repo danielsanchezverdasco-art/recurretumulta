@@ -20,7 +20,7 @@ En caso de sanción, el titular dispone de veinte días naturales para acogerse 
 
 La DGT también tiene publicados controles próximos: A-395 pk 3,3 (3,5 km, cabina); GR-3303 pk 2,6 (3,8 km, cabina); GR-3303 pk 3,8 (4,0 km, cabina).
 
-El inventario andaluz combina 147 cabinas puntuales con 9 tramos de velocidad media: dos filosofías de control que conviene conocer para circular con seguridad.
+El inventario andaluz combina cabinas puntuales con tramos de velocidad media: dos filosofías de control que conviene conocer para circular con seguridad.
 
 Todos los datos de este punto —carretera, kilómetro, sentido y coordenadas— provienen de la publicación oficial de la DGT, verificada el 18 de octubre de 2026.
 

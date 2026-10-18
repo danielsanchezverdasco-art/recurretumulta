@@ -20,7 +20,7 @@ En caso de sanción, el titular dispone de veinte días naturales para acogerse 
 
 Otros puntos vigilados cercanos, también publicados por la DGT, son A-7 pk 1024,9 (0,0 km, cabina); A-7 pk 1024,9 (0,0 km, cabina); A-7 pk 1019,7 (4,6 km, radar de tramo).
 
-De los 156 radares que la DGT publica en Andalucía, la mayoría son cabinas como esta; solo nueve son de tramo, el sistema de velocidad media.
+De los radares que la DGT publica en Andalucía, la mayoría son cabinas como esta; solo algunos son de tramo, el sistema de velocidad media.
 
 La ubicación procede del fichero oficial de radares de la DGT (publicación DATEX II), la única fuente que utilizamos para este registro.
 

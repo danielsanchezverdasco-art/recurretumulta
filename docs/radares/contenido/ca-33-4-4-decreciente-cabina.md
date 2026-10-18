@@ -12,7 +12,7 @@ Según el fichero DATEX II de la DGT, el control está en la CA-33, el acceso su
 
 Mantén la distancia de seguridad y una velocidad estable: los frenazos bruscos ante el radar son peligrosos para quienes circulan detrás.
 
-El importe final depende de cuánto se haya superado el límite: los excesos leves se saldan con 100 euros, mientras que los graves alcanzan los 600 y restan hasta seis puntos.
+El importe final depende de cuánto se haya superado el límite: los excesos leves conllevan la sanción mínima, mientras que los graves se castigan con dureza e implican la pérdida de puntos del permiso.
 
 No publicamos ninguna cifra de límite porque la fuente oficial no la incluye. En la práctica, manda lo que indiquen las señales del tramo en el momento de circular.
 
@@ -20,7 +20,7 @@ En caso de sanción, el titular dispone de veinte días naturales para acogerse 
 
 El mapa oficial de la DGT muestra en las inmediaciones: CA-33 pk 4,0 (0,4 km, cabina); CA-33 pk 9,1 (4,3 km, radar de tramo); CA-36 pk 3,0 (4,8 km, cabina).
 
-La red andaluza de control fijo alcanza los 156 puntos entre cabinas y tramos; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
+La red andaluza de control fijo suma cabinas y tramos repartidos por toda la comunidad; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
 
 Este punto figura en la publicación oficial de radares fijos de la DGT con fecha de verificación 18 de octubre de 2026.
 

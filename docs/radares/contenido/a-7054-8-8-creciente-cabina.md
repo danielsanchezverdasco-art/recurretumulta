@@ -16,11 +16,11 @@ Este registro no incluye velocidad límite: el XML oficial de la DGT no la conti
 
 Si el radar te capta, la denuncia llega al domicilio del titular del vehículo: conviene tener actualizada la dirección en la DGT para no perder plazos de alegación o de pronto pago.
 
-La sanción por exceso de velocidad depende del margen superado: puede ir desde los 100 euros sin pérdida de puntos hasta los 600 euros con seis puntos menos, e incluso constituir delito a partir de ciertos umbrales.
+La sanción por exceso de velocidad depende del margen superado: puede ir desde una multa leve sin pérdida de puntos hasta la sanción máxima con pérdida de puntos, e incluso constituir delito a partir de ciertos umbrales.
 
 La DGT también tiene publicados controles próximos: A-7052 pk 3,5 (4,6 km, cabina); MA-20 pk 10,4 (11,0 km, cabina); A-45 pk 140,3 (14,3 km, cabina); A-357 pk 38,9 (15,2 km, cabina).
 
-Este punto es uno de los 156 que la DGT tiene publicados en Andalucía, repartidos entre 147 cabinas y 9 radares de tramo, con Málaga y Sevilla a la cabeza en número de controles.
+Este punto es uno de los que la DGT tiene publicados en Andalucía, entre cabinas y radares de tramo.
 
 La ubicación procede del fichero oficial de radares de la DGT (publicación DATEX II), la única fuente que utilizamos para este registro.
 

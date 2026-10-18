@@ -10,12 +10,12 @@ Estos emplazamientos no se eligen a voleo: la DGT los sitúa donde la velocidad 
 
 Del límite concreto de este radar no hay dato oficial: el XML de la DGT no incluye ese campo. Rige la señalización vertical del tramo y, en su defecto, los límites genéricos de la vía.
 
-La escala sancionadora es progresiva: desde 100 euros sin pérdida de puntos hasta 600 euros con seis puntos menos, pudiendo alcanzar la vía penal en los excesos más extremos.
+La escala sancionadora es progresiva: desde la multa leve sin pérdida de puntos hasta la sanción máxima con pérdida de puntos, pudiendo alcanzar la vía penal en los excesos más extremos.
 
 En carreteras de sierra como la N-435, la velocidad adecuada no siempre coincide con la máxima permitida: una curva cerrada o un cambio de rasante pueden pedir menos. El radar del pk 199,9 mide el cumplimiento del límite legal, pero la seguridad real la pone el conductor adaptando la marcha al trazado. Respetar las señales, no apurar las curvas y dejar margen con el vehículo de delante es lo que convierte un tramo exigente en un tramo seguro.
 
 Otros puntos vigilados en la zona, también oficiales: N-435 pk 180,1 (15,7 km, cabina); H-31 pk 79,9 (23,6 km, cabina); A-49 pk 50,8 (26,5 km, cabina); A-49 pk 46,3 (29,5 km, cabina).
 
-Datos tomados del inventario público de la DGT (DATEX II), verificado el 18 de octubre de 2026. De los 156 radares fijos de Andalucía, la gran mayoría son cabinas como esta; solo nueve miden velocidad media por tramo.
+Datos tomados del inventario público de la DGT (DATEX II), verificado el 18 de octubre de 2026.
 
 [Ver la ubicación exacta en Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=37.50831,-6.80256)

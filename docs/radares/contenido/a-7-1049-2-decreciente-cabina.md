@@ -20,7 +20,7 @@ En caso de sanción, el titular dispone de veinte días naturales para acogerse 
 
 El mapa oficial de la DGT muestra en las inmediaciones: A-355 pk 28,5 (10,0 km, cabina); A-397 pk 30,1 (14,0 km, radar de tramo); A-397 pk 30,1 (14,0 km, cabina); A-397 pk 28,0 (14,9 km, radar de tramo).
 
-La red andaluza de control fijo alcanza los 156 puntos entre cabinas y tramos; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
+La red andaluza de control fijo suma cabinas y tramos repartidos por toda la comunidad; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
 
 Este punto figura en la publicación oficial de radares fijos de la DGT con fecha de verificación 18 de octubre de 2026.
 

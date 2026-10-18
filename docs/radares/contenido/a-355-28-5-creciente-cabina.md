@@ -20,7 +20,7 @@ Si el radar te capta, la denuncia llega al domicilio del titular del vehículo: 
 
 Muy cerca, la DGT publica además estos puntos de control: A-7 pk 1049,2 (10,0 km, cabina); A-7053 pk 11,1 (16,9 km, cabina); A-7 pk 1024,9 (17,1 km, cabina).
 
-El inventario andaluz combina 147 cabinas puntuales con 9 tramos de velocidad media: dos filosofías de control que conviene conocer para circular con seguridad.
+El inventario andaluz combina cabinas puntuales con tramos de velocidad media: dos filosofías de control que conviene conocer para circular con seguridad.
 
 Todos los datos de este punto —carretera, kilómetro, sentido y coordenadas— provienen de la publicación oficial de la DGT, verificada el 18 de octubre de 2026.
 

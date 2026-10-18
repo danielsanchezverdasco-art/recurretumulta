@@ -20,7 +20,7 @@ Si consideras que la denuncia es errónea, puedes recurrirla: revisa la imagen, 
 
 Otros puntos vigilados cercanos, también publicados por la DGT, son A-45 pk 126,0 (0,0 km, cabina); A-45 pk 128,8 (2,6 km, cabina); A-45 pk 118,1 (6,4 km, cabina); A-45 pk 134,2 (7,2 km, radar de tramo).
 
-Con 156 puntos publicados, Andalucía es una de las comunidades con más controles fijos de la red estatal; este kilómetro forma parte de ese despliegue.
+Andalucía cuenta con un amplio despliegue de controles fijos de la red estatal; este kilómetro forma parte de ese despliegue.
 
 La ubicación procede del fichero oficial de radares de la DGT (publicación DATEX II), la única fuente que utilizamos para este registro.
 

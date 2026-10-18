@@ -10,7 +10,7 @@ El entorno es el típico de la provincia sevillana: rectas de la campiña. De no
 
 La elección de este punto no es casual: los tramos con control fijo suelen coincidir con zonas donde se han registrado excesos sistemáticos de velocidad o una siniestralidad superior a la media.
 
-Superar el límite conlleva multas que oscilan entre 100 y 600 euros, con detracción de dos a seis puntos del permiso según la gravedad del exceso.
+Superar el límite conlleva multas proporcionales a la gravedad del exceso, con detracción de puntos del permiso.
 
 No publicamos ninguna cifra de límite porque la fuente oficial no la incluye. En la práctica, manda lo que indiquen las señales del tramo en el momento de circular.
 
@@ -20,7 +20,7 @@ En caso de sanción, el titular dispone de veinte días naturales para acogerse 
 
 Otros puntos vigilados cercanos, también publicados por la DGT, son SE-30 pk 9,9 (0,5 km, cabina); SE-30 pk 11,1 (0,6 km, cabina); SE-30 pk 10,2 (0,6 km, cabina); A-8058 pk 4,9 (3,8 km, cabina); A-8057 pk 0,7 (4,2 km, cabina).
 
-El mapa andaluz de radares fijos suma 156 ubicaciones oficiales; esta es una de ellas, y convive con otros 155 puntos repartidos por toda la comunidad.
+Esta ubicación forma parte del mapa andaluz de radares fijos publicado por la DGT, con controles repartidos por toda la comunidad.
 
 Este punto figura en la publicación oficial de radares fijos de la DGT con fecha de verificación 18 de octubre de 2026.
 

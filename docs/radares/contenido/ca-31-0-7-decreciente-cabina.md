@@ -20,7 +20,7 @@ La multa no es lo peor: la pérdida de puntos puede dejar sin permiso a quien ac
 
 Otros puntos vigilados cercanos, también publicados por la DGT, son A-4 pk 645,4 (2,0 km, cabina); A-408 pk 2,5 (12,4 km, cabina); CA-36 pk 3,0 (15,1 km, cabina); CA-33 pk 9,1 (18,4 km, radar de tramo); CA-33 pk 12,8 (18,7 km, radar de tramo).
 
-La red andaluza de control fijo alcanza los 156 puntos entre cabinas y tramos; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
+La red andaluza de control fijo suma cabinas y tramos repartidos por toda la comunidad; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
 
 Este punto figura en la publicación oficial de radares fijos de la DGT con fecha de verificación 18 de octubre de 2026.
 

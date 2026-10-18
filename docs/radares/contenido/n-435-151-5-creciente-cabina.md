@@ -10,12 +10,12 @@ La medición es puntual pero constante: cada vehículo que pasa por el kilómetr
 
 La DGT no difunde el límite de cada cinemómetro en su fichero abierto; por eso no damos ninguna cifra. La referencia es la señalización de la carretera.
 
-En sanciones, el esquema es el general: excesos leves desde 100 euros; los graves llegan a 600 euros y restan hasta seis puntos del permiso.
+En sanciones, el esquema es el general: sanción mínima para los excesos leves; los graves conllevan la sanción máxima y la pérdida de puntos del permiso.
 
 Las rectas largas tienen un efecto curioso: adormecen la percepción del riesgo y animan a apretar el acelerador sin motivo. En la N-435, ese impulso choca con la realidad del pk 151,5. Una forma práctica de neutralizarlo es usar el control de crucero en los tramos rectos: fijas la velocidad legal una vez y te olvidas del pie derecho hasta que el trazado pida otra cosa. Menos estrés, menos consumo y cero sorpresas ante la cabina. Además, mantener un ritmo constante alarga la vida de los frenos, así que la prudencia sale rentable por partida doble.
 
 Si continúas por la zona, ten presente este otro radar oficial: N-435 pk 180,1 (20,1 km, cabina).
 
-Los datos —vía, punto kilométrico, sentido y coordenadas— son los que la DGT publica en abierto, sin añadidos. Andalucía combina 147 cabinas puntuales con 9 tramos de velocidad media en su inventario oficial.
+Los datos —vía, punto kilométrico, sentido y coordenadas— son los que la DGT publica en abierto, sin añadidos.
 
 [Ver la ubicación exacta en Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=37.79782,-6.71875)

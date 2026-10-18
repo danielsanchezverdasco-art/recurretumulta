@@ -4,7 +4,7 @@
 
 Quien circula a diario por aquí conoce la coreografía: se frena ante el primero, se mira el retrovisor, se acelera con disimulo... y se encuentra el segundo. Trànsit diseñó la pareja precisamente contra esa coreografía. No es una trampa; es pedagogía con cinemómetro. El mensaje: en 1,5 km no se gana nada corriendo, así que mejor no intentarlo.
 
-El 80 responde al carácter de la vía: la B-23 en este tramo es una autovía urbana con incorporaciones cortas y tráfico denso. Superar el 80 más el margen del equipo supone denuncia, y el baremo en zona 80 no perdona: a partir de 111, 300 euros y puntos menos.
+El 80 responde al carácter de la vía: la B-23 en este tramo es una autovía urbana con incorporaciones cortas y tráfico denso. Superar el 80 más el margen del equipo supone denuncia, y el baremo en zona 80 no perdona: a partir de 111 hay pérdida de puntos.
 
 La táctica es sencilla y aburrida, como todas las que funcionan: fija el 80 al entrar en la B-23 y olvídate de los radares. Si los ves, bien; si no, también. El que no juega no pierde. Y en hora punta, el tráfico impone su propio límite: paciencia.
 

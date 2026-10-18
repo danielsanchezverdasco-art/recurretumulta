@@ -16,11 +16,11 @@ Mantén la distancia de seguridad y una velocidad estable: los frenazos bruscos 
 
 Si el radar te capta, la denuncia llega al domicilio del titular del vehículo: conviene tener actualizada la dirección en la DGT para no perder plazos de alegación o de pronto pago.
 
-Superar el límite conlleva multas que oscilan entre 100 y 600 euros, con detracción de dos a seis puntos del permiso según la gravedad del exceso.
+Superar el límite conlleva multas proporcionales a la gravedad del exceso, con detracción de puntos del permiso.
 
 La DGT también tiene publicados controles próximos: A-92N pk 9,2 (20,7 km, cabina); A-92 pk 256,4 (22,1 km, cabina); A-395 pk 12,3 (27,9 km, cabina).
 
-El inventario andaluz combina 147 cabinas puntuales con 9 tramos de velocidad media: dos filosofías de control que conviene conocer para circular con seguridad.
+El inventario andaluz combina cabinas puntuales con tramos de velocidad media: dos filosofías de control que conviene conocer para circular con seguridad.
 
 Todos los datos de este punto —carretera, kilómetro, sentido y coordenadas— provienen de la publicación oficial de la DGT, verificada el 18 de octubre de 2026.
 

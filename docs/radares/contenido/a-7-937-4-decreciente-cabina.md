@@ -20,7 +20,7 @@ Las notificaciones electrónicas son obligatorias para empresas y voluntarias pa
 
 El mapa oficial de la DGT muestra en las inmediaciones: A-7 pk 936,3 (1,1 km, cabina); A-356 pk 36,5 (21,3 km, cabina); A-7 pk 968,2 (28,7 km, cabina).
 
-De los 156 radares que la DGT publica en Andalucía, la mayoría son cabinas como esta; solo nueve son de tramo, el sistema de velocidad media.
+De los radares que la DGT publica en Andalucía, la mayoría son cabinas como esta; solo algunos son de tramo, el sistema de velocidad media.
 
 Los datos que aquí aparecen —vía, punto kilométrico, sentido, municipio y coordenadas— son los que la DGT publica en abierto, sin añadidos ni interpretaciones.
 

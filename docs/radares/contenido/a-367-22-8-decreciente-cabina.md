@@ -20,7 +20,7 @@ Si el radar te capta, la denuncia llega al domicilio del titular del vehículo: 
 
 El mapa oficial de la DGT muestra en las inmediaciones: A-384 pk 89,6 (14,6 km, cabina); A-397 pk 7,0 (20,3 km, cabina); A-397 pk 11,1 (21,9 km, cabina).
 
-Con 156 puntos publicados, Andalucía es una de las comunidades con más controles fijos de la red estatal; este kilómetro forma parte de ese despliegue.
+Andalucía cuenta con un amplio despliegue de controles fijos de la red estatal; este kilómetro forma parte de ese despliegue.
 
 Los datos que aquí aparecen —vía, punto kilométrico, sentido, municipio y coordenadas— son los que la DGT publica en abierto, sin añadidos ni interpretaciones.
 

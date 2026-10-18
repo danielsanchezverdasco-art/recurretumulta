@@ -20,7 +20,7 @@ Recuerda que identificar al conductor es obligatorio cuando el titular no era qu
 
 En los alrededores hay otros controles publicados por la DGT: N-357 pk 0,5 (13,3 km, cabina); N-357 pk 3,0 (14,8 km, cabina); N-357 pk 3,5 (15,1 km, cabina); N-357 pk 5,5 (16,0 km, cabina); CA-34 pk 0,1 (16,9 km, cabina).
 
-El mapa andaluz de radares fijos suma 156 ubicaciones oficiales; esta es una de ellas, y convive con otros 155 puntos repartidos por toda la comunidad.
+Esta ubicación forma parte del mapa andaluz de radares fijos publicado por la DGT, con controles repartidos por toda la comunidad.
 
 Este radar forma parte del inventario oficial que la DGT publica en su portal de datos abiertos, y su ubicación puede consultarse en el fichero XML de la Dirección General de Tráfico.
 

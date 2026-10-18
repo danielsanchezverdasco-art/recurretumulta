@@ -16,11 +16,11 @@ En caso de sanción, el titular dispone de veinte días naturales para acogerse 
 
 La forma más segura de afrontarlo es sencilla: ajustar la velocidad antes de llegar al punto kilométrico indicado y mantenerla durante todo el paso por la zona.
 
-Superar el límite conlleva multas que oscilan entre 100 y 600 euros, con detracción de dos a seis puntos del permiso según la gravedad del exceso.
+Superar el límite conlleva multas proporcionales a la gravedad del exceso, con detracción de puntos del permiso.
 
 Muy cerca, la DGT publica además estos puntos de control: A-397 pk 7,0 (2,4 km, cabina); A-397 pk 28,0 (11,0 km, radar de tramo); A-397 pk 28,0 (11,0 km, cabina); A-397 pk 30,1 (12,1 km, radar de tramo).
 
-Este punto es uno de los 156 que la DGT tiene publicados en Andalucía, repartidos entre 147 cabinas y 9 radares de tramo, con Málaga y Sevilla a la cabeza en número de controles.
+Este punto es uno de los que la DGT tiene publicados en Andalucía, entre cabinas y radares de tramo.
 
 Todos los datos de este punto —carretera, kilómetro, sentido y coordenadas— provienen de la publicación oficial de la DGT, verificada el 18 de octubre de 2026.
 

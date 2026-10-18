@@ -4,7 +4,7 @@ La N-340 es la nacional del Mediterráneo, y su primer radar en el catálogo est
 
 El pk 1068,36 está en el Montsià, con el delta como referencia. La N-340 en este sector discurre entre arrozales y el mar, con un trazado recto que invita a correr. El 90 es el límite, pero el conductor que viene de la AP-7 —gratuita desde 2021— y entra en la N-340 debe adaptar la velocidad: de 120 a 90 hay un escalón que el radar vigila.
 
-La denuncia se produce por encima de 90 más el margen del equipo. El perfil del sancionado es el que usa la N-340 como alternativa a la AP-7 y quiere ir igual de rápido: a 110 «para que compense». No compensa: en 30 km de costa, la diferencia entre 90 y 110 es de menos de 4 minutos. El radar convierte esos 4 minutos en 100 euros.
+La denuncia se produce por encima de 90 más el margen del equipo. El perfil del sancionado es el que usa la N-340 como alternativa a la AP-7 y quiere ir igual de rápido: a 110 «para que compense». No compensa: en 30 km de costa, la diferencia entre 90 y 110 es de menos de 4 minutos. El radar convierte esos 4 minutos en una denuncia.
 
 Cómo empezar la N-340: a 90 constantes, disfrutando del delta. Si vienes de la AP-7, reduce con antelación: el escalón 120-90 es el más traicionero de la costa. En verano, la N-340 se llena de caravanas: paciencia y distancia.
 

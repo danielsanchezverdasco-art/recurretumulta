@@ -20,7 +20,7 @@ Si viajas a diario por aquí, memoriza el punto y conviértelo en rutina: pasar 
 
 La DGT también tiene publicados controles próximos: N-357 pk 3,5 (0,5 km, cabina); N-357 pk 0,5 (1,6 km, cabina); N-357 pk 5,5 (2,0 km, cabina); CA-34 pk 0,7 (8,2 km, cabina); CA-34 pk 0,1 (8,4 km, cabina).
 
-El inventario andaluz combina 147 cabinas puntuales con 9 tramos de velocidad media: dos filosofías de control que conviene conocer para circular con seguridad.
+El inventario andaluz combina cabinas puntuales con tramos de velocidad media: dos filosofías de control que conviene conocer para circular con seguridad.
 
 La ubicación procede del fichero oficial de radares de la DGT (publicación DATEX II), la única fuente que utilizamos para este registro.
 

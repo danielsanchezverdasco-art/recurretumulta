@@ -10,7 +10,7 @@ El entorno es el típico de la provincia malagueña: la vega del Guadalhorce. Co
 
 La lógica de la ubicación es preventiva: mejor un radar que frene a tiempo que una curva o un cruce que castigue el exceso.
 
-La sanción por exceso de velocidad depende del margen superado: puede ir desde los 100 euros sin pérdida de puntos hasta los 600 euros con seis puntos menos, e incluso constituir delito a partir de ciertos umbrales.
+La sanción por exceso de velocidad depende del margen superado: puede ir desde una multa leve sin pérdida de puntos hasta la sanción máxima con pérdida de puntos, e incluso constituir delito a partir de ciertos umbrales.
 
 La velocidad límite de este punto no figura en la publicación oficial de la DGT, por lo que no la indicamos: rige la señalización vertical del tramo y, en su defecto, los límites genéricos de la vía.
 
@@ -20,7 +20,7 @@ Las notificaciones electrónicas son obligatorias para empresas y voluntarias pa
 
 Otros puntos vigilados cercanos, también publicados por la DGT, son A-7054 pk 8,8 (15,2 km, cabina); A-7052 pk 3,5 (18,3 km, cabina); A-7053 pk 11,1 (25,8 km, cabina); MA-20 pk 10,4 (26,0 km, cabina); A-355 pk 28,5 (26,2 km, cabina).
 
-El mapa andaluz de radares fijos suma 156 ubicaciones oficiales; esta es una de ellas, y convive con otros 155 puntos repartidos por toda la comunidad.
+Esta ubicación forma parte del mapa andaluz de radares fijos publicado por la DGT, con controles repartidos por toda la comunidad.
 
 Este punto figura en la publicación oficial de radares fijos de la DGT con fecha de verificación 18 de octubre de 2026.
 

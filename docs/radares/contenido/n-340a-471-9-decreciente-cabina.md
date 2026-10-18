@@ -20,7 +20,7 @@ Recuerda que identificar al conductor es obligatorio cuando el titular no era qu
 
 Si sigues conduciendo por la zona, ten en cuenta estos otros radares oficiales: A-92 pk 391,9 (18,9 km, cabina); A-7 pk 778,1 (19,4 km, cabina); A-7 pk 760,3 (25,2 km, cabina); AL-3111 pk 9,0 (25,9 km, cabina); AL-3115 pk 3,4 (27,1 km, cabina).
 
-Este punto es uno de los 156 que la DGT tiene publicados en Andalucía, repartidos entre 147 cabinas y 9 radares de tramo, con Málaga y Sevilla a la cabeza en número de controles.
+Este punto es uno de los que la DGT tiene publicados en Andalucía, entre cabinas y radares de tramo.
 
 Los datos que aquí aparecen —vía, punto kilométrico, sentido, municipio y coordenadas— son los que la DGT publica en abierto, sin añadidos ni interpretaciones.
 

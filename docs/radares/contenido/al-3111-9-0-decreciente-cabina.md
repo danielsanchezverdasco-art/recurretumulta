@@ -20,7 +20,7 @@ Si el radar te capta, la denuncia llega al domicilio del titular del vehículo: 
 
 Otros puntos vigilados cercanos, también publicados por la DGT, son A-7 pk 760,3 (10,7 km, cabina); AL-3115 pk 3,4 (14,6 km, cabina); N-341 pk 8,5 (15,7 km, cabina); A-92 pk 391,9 (23,3 km, cabina); A-7 pk 778,1 (23,9 km, cabina).
 
-El inventario andaluz combina 147 cabinas puntuales con 9 tramos de velocidad media: dos filosofías de control que conviene conocer para circular con seguridad.
+El inventario andaluz combina cabinas puntuales con tramos de velocidad media: dos filosofías de control que conviene conocer para circular con seguridad.
 
 Este punto figura en la publicación oficial de radares fijos de la DGT con fecha de verificación 18 de octubre de 2026.
 

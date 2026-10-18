@@ -20,7 +20,7 @@ Si el radar te capta, la denuncia llega al domicilio del titular del vehículo: 
 
 Otros puntos vigilados cercanos, también publicados por la DGT, son A-92 pk 0,8 (0,0 km, cabina); SE-30 pk 0,6 (2,3 km, cabina); SE-30 pk 0,4 (2,4 km, cabina); SE-20 pk 2,7 (3,9 km, cabina).
 
-Con 156 puntos publicados, Andalucía es una de las comunidades con más controles fijos de la red estatal; este kilómetro forma parte de ese despliegue.
+Andalucía cuenta con un amplio despliegue de controles fijos de la red estatal; este kilómetro forma parte de ese despliegue.
 
 La ubicación procede del fichero oficial de radares de la DGT (publicación DATEX II), la única fuente que utilizamos para este registro.
 

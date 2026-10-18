@@ -12,7 +12,7 @@ El inventario oficial describe el punto así: la A-497, de titularidad autonómi
 
 Quien circule con el velocímetro en la cifra legal no tiene nada que temer: la clave está en anticiparse y no depender de frenazos de última hora.
 
-La sanción por exceso de velocidad depende del margen superado: puede ir desde los 100 euros sin pérdida de puntos hasta los 600 euros con seis puntos menos, e incluso constituir delito a partir de ciertos umbrales.
+La sanción por exceso de velocidad depende del margen superado: puede ir desde una multa leve sin pérdida de puntos hasta la sanción máxima con pérdida de puntos, e incluso constituir delito a partir de ciertos umbrales.
 
 La DGT no difunde el límite asociado a cada cinemómetro en su fichero abierto; por honestidad, dejamos ese dato pendiente y te remitimos a las señales de la vía.
 
@@ -20,7 +20,7 @@ El pronto pago reduce la multa a la mitad pero implica renunciar a recurrir; val
 
 El mapa oficial de la DGT muestra en las inmediaciones: A-497 pk 2,6 (0,6 km, cabina); A-497 pk 11,9 (7,4 km, cabina); H-31 pk 79,9 (9,7 km, cabina); A-494 pk 13,0 (10,6 km, cabina).
 
-El inventario andaluz combina 147 cabinas puntuales con 9 tramos de velocidad media: dos filosofías de control que conviene conocer para circular con seguridad.
+El inventario andaluz combina cabinas puntuales con tramos de velocidad media: dos filosofías de control que conviene conocer para circular con seguridad.
 
 La ubicación procede del fichero oficial de radares de la DGT (publicación DATEX II), la única fuente que utilizamos para este registro.
 

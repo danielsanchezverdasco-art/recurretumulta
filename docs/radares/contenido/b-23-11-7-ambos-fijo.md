@@ -2,7 +2,7 @@
 
 El último radar de la B-23 está en el kilómetro 11,65, con límite de 100, y cierra la serie de cuatro controles de la autovía del Baix Llobregat. Su posición, ya cerca del final de la vía, lo convierte en el radar de los que «ya han llegado»: el conductor que ve próxima su salida se relaja, acelera para no perder el hueco o, simplemente, deja de mirar el cuadro. El Servei Català de Trànsit lo mantiene aquí porque los finales de vía concentran tantos excesos como los inicios.
 
-Este es un radar de desenlace. Por detrás quedan los tres controles anteriores (3,35 y 4,76 a 80; 9,26 a 100) y el conductor que los ha pasado todos tiende a pensar que la vigilancia ha terminado. No ha terminado: este cuarto radar verifica que la velocidad se mantiene hasta el final de la vía. En las series encadenadas, el último control es el que más denuncias genera por sorpresa, precisamente porque la guardia está baja.
+Este es un radar de desenlace. Por detrás quedan los tres controles anteriores (3,35 y 4,76 a 80; 9,26 a 100) y el conductor que los ha pasado todos tiende a pensar que la vigilancia ha terminado. No ha terminado: este cuarto radar verifica que la velocidad se mantiene hasta el final de la vía. En las series encadenadas, el último control es el que más fácilmente pilla desprevenido, precisamente porque la guardia está baja.
 
 El cinemómetro denuncia por encima de 100 más su margen, como siempre. El matiz de este punto es su cercanía a los enlaces finales: los cambios de carril para tomar la salida se hacen a veces a velocidad excesiva, y un cambio de carril a 120 en zona 100 es doblemente peligroso. El radar no sanciona los cambios de carril, pero la velocidad a la que se hacen sí entra en su medición.
 

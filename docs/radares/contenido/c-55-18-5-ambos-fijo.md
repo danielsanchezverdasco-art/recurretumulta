@@ -6,7 +6,7 @@ El 80 responde al tramo: la C-55 antes de Manresa combina curvas, desniveles y u
 
 El multado típico es el del "entre radares": el que frena ante cada control y acelera en los huecos, convencido de que la media no se mide. Y tiene razón: la media no se mide, porque son radares fijos, no de tramo. Pero la velocidad instantánea sí, y el tercer radar está donde el acelerón del hueco culmina. La estrategia del hueco funciona hasta que deja de funcionar.
 
-La denuncia se activa por encima de 80 más el margen del equipo, con el baremo severo de zona 80. El que juega al hueco juega con fuego: a 111 ya son 300 euros y puntos.
+La denuncia se activa por encima de 80 más el margen del equipo, con el baremo severo de zona 80. El que juega al hueco juega con fuego: a 111 ya hay pérdida de puntos.
 
 La táctica de la serie: no hay huecos, hay una sola zona 80. Mantén la velocidad constante entre radares y la serie se vuelve invisible: tres postes, ningún problema. Si haces la C-55 a diario, interioriza el 80 como el ritmo del Bages: ni más, ni menos. Manresa está cerca, y la ciudad se merece una llegada sin denuncia.
 

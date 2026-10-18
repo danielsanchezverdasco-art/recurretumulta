@@ -18,7 +18,7 @@ Recibir la notificación en casa semanas después es lo habitual: el sistema ide
 
 En caso de sanción, el titular dispone de veinte días naturales para acogerse al pronto pago con el 50 % de descuento o para presentar alegaciones.
 
-Este radar se integra en una red de 156 controles oficiales en Andalucía, pensada para cubrir los tramos de mayor riesgo de cada provincia.
+Este radar se integra en la red de controles oficiales de Andalucía, pensada para cubrir los tramos de mayor riesgo de cada provincia.
 
 Los datos que aquí aparecen —vía, punto kilométrico, sentido, municipio y coordenadas— son los que la DGT publica en abierto, sin añadidos ni interpretaciones.
 

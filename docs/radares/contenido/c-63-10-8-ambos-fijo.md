@@ -8,7 +8,7 @@ La denuncia, por encima de 80 más el margen, tiene un perfil de sancionado de f
 
 La forma de cerrar la serie: mantén el 80 hasta que la señalización indique otra cosa. Si la serie se te ha hecho larga, piensa que son 7 km de disciplina. Y al salir del sector vigilado, no aceleres de golpe: el radar del pk 21,194 (90) sigue esperando más adelante.
 
-El tercer radar de una serie es el que más denuncias genera: la guardia baja, la confianza sube y el pie se relaja. En la C-63, el 10,778 es el examen final del tramo turístico: el que ha aprobado los dos anteriores no tiene por qué suspender este.
+El tercer radar de una serie suele pillar con la guardia baja: la confianza sube y el pie se relaja. En la C-63, el 10,778 es el examen final del tramo turístico: el que ha aprobado los dos anteriores no tiene por qué suspender este.
 
 Radares cercanos en la C-63: los del pk 4,1 y 4,8 (80) quedan por detrás, y el del pk 21,194 (90) por delante, donde el límite sube. Tres ochentas y un noventa: la C-63 se recorre con atención.
 

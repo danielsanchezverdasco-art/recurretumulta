@@ -4,7 +4,7 @@ El último radar de la serie del Maresme está en el kilómetro 665,159 de la N-
 
 El pk 665,159 está en el sector donde la N-II discurre con la playa a un lado y el pueblo al otro. El 60 es el límite, pero el conductor que viene a 90 del tramo anterior debe reducir 30 km/h. El radar está colocado donde esa reducción debe haberse producido: no vigila la transición, vigila el resultado. Y el baremo en zona 60 es de los más severos del catálogo.
 
-La denuncia, por encima de 60 más el margen, tiene un perfil de sancionado de escalón brutal: el que viene a 90 y no reduce lo suficiente. A 91 ya son 300 euros y 4 puntos; a 111, 600 y 6. Son cifras que invitan a reflexionar: en 2 km de vía urbana, la diferencia entre 60 y 90 es de menos de 1 minuto. El radar convierte ese minuto en una sanción seria.
+La denuncia, por encima de 60 más el margen, tiene un perfil de sancionado de escalón brutal: el que viene a 90 y no reduce lo suficiente. A 91 la sanción ya es grave, con pérdida de puntos; a 111, la sanción es máxima. Son sanciones que invitan a reflexionar: en 2 km de vía urbana, la diferencia entre 60 y 90 es de menos de 1 minuto. El radar convierte ese minuto en una sanción seria.
 
 Cómo gestionar el escalón 90-60: es el más extremo y hay que tomárselo con calma deliberada. Al ver la señal de 60, frena de verdad: no basta con soltar el acelerador. Cambia el chip por completo: esto ya no es carretera, es calle. Y disfruta de Sant Pol: a 60 se ve el mar igual que a 90, pero sin denuncia.
 

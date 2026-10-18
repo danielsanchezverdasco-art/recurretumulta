@@ -20,7 +20,7 @@ Conviene recordar que estos equipos aplican los márgenes de error reglamentario
 
 La DGT también tiene publicados controles próximos: A-494 pk 13,0 (8,3 km, cabina); A-497 pk 2,6 (9,1 km, cabina); A-497 pk 3,1 (9,7 km, cabina); A-497 pk 11,9 (15,9 km, cabina).
 
-La red andaluza de control fijo alcanza los 156 puntos entre cabinas y tramos; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
+La red andaluza de control fijo suma cabinas y tramos repartidos por toda la comunidad; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
 
 La información de este control se extrae directamente del inventario oficial de la DGT; no utilizamos webs de avisadores ni datos sin contrastar.
 

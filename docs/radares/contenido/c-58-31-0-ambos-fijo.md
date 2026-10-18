@@ -10,7 +10,7 @@ La forma de cerrar la serie: mantén el 80 hasta que la señalización indique o
 
 El último radar de una serie es el más rentable para la administración y el más doloroso para el conductor: la guardia baja justo donde no debe. Mantén el 80 cien metros más: la serie termina, tu carnet no tiene por qué sufrir.
 
-Radares cercanos en la C-58: los del pk 25,38, 26,85, 29,27 y 29,8 (80) quedan por detrás. Por delante, el del pk 38,15 (90) marca el cambio de régimen. Cinco radares en 6 km: la serie más densa de la C-58.
+Radares cercanos en la C-58: los del pk 25,38, 26,85, 29,27 y 29,8 (80) quedan por detrás. Por delante, el del pk 38,15 (90) marca el cambio de régimen. Cinco radares en 6 km: una serie muy concentrada dentro de la C-58.
 
 Puedes ver el entorno exacto del radar en Street View:
 https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=41.58463,1.92876

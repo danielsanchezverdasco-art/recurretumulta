@@ -20,7 +20,7 @@ Recuerda que identificar al conductor es obligatorio cuando el titular no era qu
 
 Otros puntos vigilados cercanos, también publicados por la DGT, son A-4 pk 645,4 (23,2 km, cabina); CA-31 pk 0,7 (25,0 km, cabina); A-384 pk 8,1 (28,1 km, cabina).
 
-Este radar se integra en una red de 156 controles oficiales en Andalucía, pensada para cubrir los tramos de mayor riesgo de cada provincia.
+Este radar se integra en la red de controles oficiales de Andalucía, pensada para cubrir los tramos de mayor riesgo de cada provincia.
 
 La ubicación procede del fichero oficial de radares de la DGT (publicación DATEX II), la única fuente que utilizamos para este registro.
 

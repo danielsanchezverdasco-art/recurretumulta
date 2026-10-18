@@ -4,7 +4,7 @@ La N-240 entra en Lleida y el radar del kilómetro 53,188, en las Garrigues, vig
 
 El pk 53,188 está en el sector donde la N-240 deja atrás la Conca y se adentra en las Garrigues. El 90 es el límite, pero el conductor que viene a 80 del tramo anterior acelera con alivio. El radar está colocado donde esa aceleración culmina: mide el resultado de la transición.
 
-La denuncia, por encima de 90 más el margen, tiene un perfil de sancionado de transición: el que celebra el fin del 80 con un acelerón. En 10 km de llanura, la diferencia entre 90 y 110 es de menos de 2 minutos. El radar convierte esos 2 minutos en 100 euros.
+La denuncia, por encima de 90 más el margen, tiene un perfil de sancionado de transición: el que celebra el fin del 80 con un acelerón. En 10 km de llanura, la diferencia entre 90 y 110 es de menos de 2 minutos. El radar convierte esos 2 minutos en una denuncia.
 
 La forma de gestionar la transición 80-90: acelera con progresividad hasta 90 y fija la velocidad. No uses el cambio de límite como excusa: el radar está justo donde el acelerón se estabiliza. Y disfruta de las Garrigues: los olivos milenarios a 90 se ven mejor que a 110.
 

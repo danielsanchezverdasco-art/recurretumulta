@@ -16,11 +16,11 @@ Si consideras que la denuncia es errónea, puedes recurrirla: revisa la imagen, 
 
 La recomendación práctica es clara: llegar al kilómetro 529,6 ya a velocidad legal y no acelerar hasta haberlo dejado atrás con margen suficiente.
 
-La sanción por exceso de velocidad depende del margen superado: puede ir desde los 100 euros sin pérdida de puntos hasta los 600 euros con seis puntos menos, e incluso constituir delito a partir de ciertos umbrales.
+La sanción por exceso de velocidad depende del margen superado: puede ir desde una multa leve sin pérdida de puntos hasta la sanción máxima con pérdida de puntos, e incluso constituir delito a partir de ciertos umbrales.
 
 Muy cerca, la DGT publica además estos puntos de control: SE-20 pk 2,7 (6,5 km, cabina); A-92 pk 5,6 (6,8 km, cabina); A-92 pk 5,6 (6,8 km, cabina).
 
-El mapa andaluz de radares fijos suma 156 ubicaciones oficiales; esta es una de ellas, y convive con otros 155 puntos repartidos por toda la comunidad.
+Esta ubicación forma parte del mapa andaluz de radares fijos publicado por la DGT, con controles repartidos por toda la comunidad.
 
 Los datos que aquí aparecen —vía, punto kilométrico, sentido, municipio y coordenadas— son los que la DGT publica en abierto, sin añadidos ni interpretaciones.
 

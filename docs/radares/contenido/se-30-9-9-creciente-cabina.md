@@ -10,12 +10,12 @@ El funcionamiento es el habitual en estos equipos: el cinemómetro mide cada veh
 
 La DGT no hace público el límite asociado a este radar; la única referencia válida es la señalización del tramo en el momento de circular.
 
-Las sanciones siguen la escala general: 100 euros para los excesos leves y hasta 600 euros con seis puntos menos para los graves. En una vía con tanto tráfico, un frenazo brusco ante la cabina es tan peligroso como el exceso: mejor llegar ya a velocidad legal.
+Las sanciones siguen la escala general: sanción mínima para los excesos leves y sanción máxima con pérdida de puntos para los graves. En una vía con tanto tráfico, un frenazo brusco ante la cabina es tan peligroso como el exceso: mejor llegar ya a velocidad legal.
 
 Quien usa la SE-30 a diario acaba memorizando dónde están las cabinas, y eso es precisamente lo que busca la DGT: que el punto fijo modere la velocidad de forma habitual, no solo el día que te acuerdas. Convertir el paso por el kilómetro 9,9 en una rutina —revisar el velocímetro un poco antes, mantener el carril y la velocidad estables— elimina cualquier sobresalto y, de paso, hace la conducción más fluida para todos.
 
 En las inmediaciones, la DGT publica más controles: SE-30 pk 10,2 (0,1 km, cabina); SE-30 pk 10,5 (0,5 km, cabina); SE-30 pk 11,1 (1,1 km, cabina).
 
-Información procedente del fichero DATEX II de la DGT, verificado el 18 de octubre de 2026. La red andaluza de control fijo alcanza los 156 puntos.
+Información procedente del fichero DATEX II de la DGT, verificado el 18 de octubre de 2026. La red andaluza de control fijo suma cabinas y tramos repartidos por la comunidad.
 
 [Ver la ubicación exacta en Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=37.34355,-5.98678)

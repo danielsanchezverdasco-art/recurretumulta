@@ -12,13 +12,13 @@ Según el fichero DATEX II de la DGT, el control está en la vía autonómica A-
 
 Circular con margen respecto al límite, revisar el estado de los neumáticos y evitar distracciones es la mejor estrategia ante cualquier control fijo.
 
-Superar el límite conlleva multas que oscilan entre 100 y 600 euros, con detracción de dos a seis puntos del permiso según la gravedad del exceso.
+Superar el límite conlleva multas proporcionales a la gravedad del exceso, con detracción de puntos del permiso.
 
 Ojo: el inventario de la DGT no publica el límite de velocidad de cada radar, así que no lo inventamos. La referencia válida es la señalización que encuentres en la carretera.
 
 Si el radar te capta, la denuncia llega al domicilio del titular del vehículo: conviene tener actualizada la dirección en la DGT para no perder plazos de alegación o de pronto pago.
 
-El mapa andaluz de radares fijos suma 156 ubicaciones oficiales; esta es una de ellas, y convive con otros 155 puntos repartidos por toda la comunidad.
+Esta ubicación forma parte del mapa andaluz de radares fijos publicado por la DGT, con controles repartidos por toda la comunidad.
 
 La ubicación procede del fichero oficial de radares de la DGT (publicación DATEX II), la única fuente que utilizamos para este registro.
 

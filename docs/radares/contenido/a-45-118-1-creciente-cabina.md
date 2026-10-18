@@ -14,13 +14,13 @@ No publicamos ninguna cifra de límite porque la fuente oficial no la incluye. E
 
 Un truco útil: fijar el avisador de velocidad del coche unos km/h por debajo del límite evita despistes en descensos o tramos donde el ritmo sube solo.
 
-El importe final depende de cuánto se haya superado el límite: los excesos leves se saldan con 100 euros, mientras que los graves alcanzan los 600 y restan hasta seis puntos.
+El importe final depende de cuánto se haya superado el límite: los excesos leves conllevan la sanción mínima, mientras que los graves se castigan con dureza e implican la pérdida de puntos del permiso.
 
 El pronto pago reduce la multa a la mitad pero implica renunciar a recurrir; valora si te compensa según las circunstancias de la denuncia.
 
 Muy cerca, la DGT publica además estos puntos de control: A-45 pk 126,0 (6,4 km, radar de tramo); A-45 pk 126,0 (6,4 km, cabina); A-45 pk 128,8 (8,5 km, cabina).
 
-Con 156 puntos publicados, Andalucía es una de las comunidades con más controles fijos de la red estatal; este kilómetro forma parte de ese despliegue.
+Andalucía cuenta con un amplio despliegue de controles fijos de la red estatal; este kilómetro forma parte de ese despliegue.
 
 La ubicación procede del fichero oficial de radares de la DGT (publicación DATEX II), la única fuente que utilizamos para este registro.
 

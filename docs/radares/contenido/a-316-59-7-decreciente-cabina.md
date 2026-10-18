@@ -20,7 +20,7 @@ Si consideras que la denuncia es errónea, puedes recurrirla: revisa la imagen, 
 
 Muy cerca, la DGT publica además estos puntos de control: A-6050 pk 0,9 (6,2 km, cabina); A-44 pk 39,0 (9,0 km, cabina); A-306 pk 55,9 (9,9 km, cabina).
 
-Andalucía concentra 156 puntos de control en el inventario oficial de la DGT: 147 cabinas fijas y 9 tramos de velocidad media, distribuidos por las ocho provincias.
+Andalucía concentra numerosos puntos de control en el inventario oficial de la DGT, entre cabinas fijas y tramos de velocidad media, distribuidos por las ocho provincias.
 
 Los datos que aquí aparecen —vía, punto kilométrico, sentido, municipio y coordenadas— son los que la DGT publica en abierto, sin añadidos ni interpretaciones.
 

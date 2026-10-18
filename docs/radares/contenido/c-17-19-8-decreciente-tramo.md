@@ -4,7 +4,7 @@ Antes del tramo de 100, la C-17 impone un tramo de 80: el controlado entre los p
 
 El tramo cubre 1,6 km que a 80 se hacen en 1 minuto y 12 segundos; a 100 de media, en 58 segundos. Catorce segundos de diferencia que separan la legalidad de la denuncia. El conductor que viene del sector rápido del Vallès a 100 debe reducir a 80 antes del tramo, y el tramo verifica que la reducción se produce. Es un control de disciplina en la puerta del congosto: el que entra a 80, sale a 80; el que entra a 100, sale denunciado.
 
-La denuncia, cuando la media supera los 80 más el margen, aplica un baremo severo: en zona 80, los 111 ya son 300 euros y puntos. Y el contexto agrava la imprudencia: circular a 100 donde el límite es 80 y la vía es un congosto no es un exceso leve, es una temeridad. Los tramos de acceso a zonas estrechas no están para pillar despistados: están para impedir que la velocidad inadecuada entre donde no debe.
+La denuncia, cuando la media supera los 80 más el margen, aplica un baremo severo: en zona 80, los 111 ya conllevan la pérdida de puntos. Y el contexto agrava la imprudencia: circular a 100 donde el límite es 80 y la vía es un congosto no es un exceso leve, es una temeridad. Los tramos de acceso a zonas estrechas no están para pillar despistados: están para impedir que la velocidad inadecuada entre donde no debe.
 
 Cómo afrontar la entrada al Congost: reduce a 80 con antelación, usando el freno motor en la bajada. Entra al tramo ya a velocidad correcta y mantén la calma durante el minuto y pico que dura: no hay nada que ganar y mucho que perder. Si vienes en moto, el acceso al Congost a 80 es el preludio de uno de los tramos más bonitos de la C-17: tómalo como calentamiento, no como carrera.
 

@@ -20,7 +20,7 @@ El pronto pago reduce la multa a la mitad pero implica renunciar a recurrir; val
 
 La DGT también tiene publicados controles próximos: A-358 pk 5,2 (10,7 km, cabina).
 
-La red andaluza de control fijo alcanza los 156 puntos entre cabinas y tramos; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
+La red andaluza de control fijo suma cabinas y tramos repartidos por toda la comunidad; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
 
 Los datos que aquí aparecen —vía, punto kilométrico, sentido, municipio y coordenadas— son los que la DGT publica en abierto, sin añadidos ni interpretaciones.
 

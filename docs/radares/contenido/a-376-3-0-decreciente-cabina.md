@@ -20,7 +20,7 @@ El pronto pago reduce la multa a la mitad pero implica renunciar a recurrir; val
 
 El mapa oficial de la DGT muestra en las inmediaciones: A-376 pk 2,0 (1,0 km, cabina); A-92 pk 0,8 (4,9 km, cabina); A-92 pk 0,8 (4,9 km, cabina); SE-30 pk 10,2 (5,0 km, cabina); SE-30 pk 9,9 (5,1 km, cabina).
 
-Andalucía concentra 156 puntos de control en el inventario oficial de la DGT: 147 cabinas fijas y 9 tramos de velocidad media, distribuidos por las ocho provincias.
+Andalucía concentra numerosos puntos de control en el inventario oficial de la DGT, entre cabinas fijas y tramos de velocidad media, distribuidos por las ocho provincias.
 
 Todos los datos de este punto —carretera, kilómetro, sentido y coordenadas— provienen de la publicación oficial de la DGT, verificada el 18 de octubre de 2026.
 

@@ -10,7 +10,7 @@ La zona, en plena provincia jiennense, presenta un mar de olivos a ambos lados. 
 
 La experiencia demuestra que un control visible en el punto adecuado reduce la velocidad media del tramo y, con ella, la gravedad de los accidentes.
 
-El importe final depende de cuánto se haya superado el límite: los excesos leves se saldan con 100 euros, mientras que los graves alcanzan los 600 y restan hasta seis puntos.
+El importe final depende de cuánto se haya superado el límite: los excesos leves conllevan la sanción mínima, mientras que los graves se castigan con dureza e implican la pérdida de puntos del permiso.
 
 Ojo: el inventario de la DGT no publica el límite de velocidad de cada radar, así que no lo inventamos. La referencia válida es la señalización que encuentres en la carretera.
 
@@ -20,7 +20,7 @@ Las notificaciones electrónicas son obligatorias para empresas y voluntarias pa
 
 Otros puntos vigilados cercanos, también publicados por la DGT, son N-432 pk 391,7 (25,9 km, cabina); A-44 pk 42,6 (27,4 km, cabina); A-6050 pk 0,9 (27,6 km, cabina).
 
-Con 156 puntos publicados, Andalucía es una de las comunidades con más controles fijos de la red estatal; este kilómetro forma parte de ese despliegue.
+Andalucía cuenta con un amplio despliegue de controles fijos de la red estatal; este kilómetro forma parte de ese despliegue.
 
 Este radar forma parte del inventario oficial que la DGT publica en su portal de datos abiertos, y su ubicación puede consultarse en el fichero XML de la Dirección General de Tráfico.
 

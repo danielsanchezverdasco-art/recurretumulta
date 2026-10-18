@@ -20,7 +20,7 @@ La multa no es lo peor: la pérdida de puntos puede dejar sin permiso a quien ac
 
 Si sigues conduciendo por la zona, ten en cuenta estos otros radares oficiales: A-306 pk 55,9 (20,4 km, cabina); A-306 pk 33,8 (27,3 km, cabina); A-316 pk 59,7 (28,6 km, cabina).
 
-El inventario andaluz combina 147 cabinas puntuales con 9 tramos de velocidad media: dos filosofías de control que conviene conocer para circular con seguridad.
+El inventario andaluz combina cabinas puntuales con tramos de velocidad media: dos filosofías de control que conviene conocer para circular con seguridad.
 
 Este punto figura en la publicación oficial de radares fijos de la DGT con fecha de verificación 18 de octubre de 2026.
 

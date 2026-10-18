@@ -16,11 +16,11 @@ Este registro no incluye velocidad límite: el XML oficial de la DGT no la conti
 
 El pronto pago reduce la multa a la mitad pero implica renunciar a recurrir; valora si te compensa según las circunstancias de la denuncia.
 
-Superar el límite conlleva multas que oscilan entre 100 y 600 euros, con detracción de dos a seis puntos del permiso según la gravedad del exceso.
+Superar el límite conlleva multas proporcionales a la gravedad del exceso, con detracción de puntos del permiso.
 
 En los alrededores hay otros controles publicados por la DGT: A-4 pk 417,6 (20,2 km, cabina); A-4 pk 416,1 (21,3 km, cabina); A-4 pk 415,2 (21,9 km, cabina); A-4 pk 410,1 (26,6 km, cabina).
 
-El mapa andaluz de radares fijos suma 156 ubicaciones oficiales; esta es una de ellas, y convive con otros 155 puntos repartidos por toda la comunidad.
+Esta ubicación forma parte del mapa andaluz de radares fijos publicado por la DGT, con controles repartidos por toda la comunidad.
 
 Los datos que aquí aparecen —vía, punto kilométrico, sentido, municipio y coordenadas— son los que la DGT publica en abierto, sin añadidos ni interpretaciones.
 

@@ -14,13 +14,13 @@ Un truco útil: fijar el avisador de velocidad del coche unos km/h por debajo de
 
 Ojo: el inventario de la DGT no publica el límite de velocidad de cada radar, así que no lo inventamos. La referencia válida es la señalización que encuentres en la carretera.
 
-La sanción por exceso de velocidad depende del margen superado: puede ir desde los 100 euros sin pérdida de puntos hasta los 600 euros con seis puntos menos, e incluso constituir delito a partir de ciertos umbrales.
+La sanción por exceso de velocidad depende del margen superado: puede ir desde una multa leve sin pérdida de puntos hasta la sanción máxima con pérdida de puntos, e incluso constituir delito a partir de ciertos umbrales.
 
 Recuerda que identificar al conductor es obligatorio cuando el titular no era quien conducía; no hacerlo duplica la cuantía de la multa.
 
 Muy cerca, la DGT publica además estos puntos de control: N-432 pk 219,6 (22,5 km, cabina); N-502 pk 380,5 (23,8 km, cabina).
 
-El inventario andaluz combina 147 cabinas puntuales con 9 tramos de velocidad media: dos filosofías de control que conviene conocer para circular con seguridad.
+El inventario andaluz combina cabinas puntuales con tramos de velocidad media: dos filosofías de control que conviene conocer para circular con seguridad.
 
 La información de este control se extrae directamente del inventario oficial de la DGT; no utilizamos webs de avisadores ni datos sin contrastar.
 

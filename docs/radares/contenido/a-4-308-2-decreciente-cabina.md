@@ -20,7 +20,7 @@ Si viajas a diario por aquí, memoriza el punto y conviértelo en rutina: pasar 
 
 Otros puntos vigilados cercanos, también publicados por la DGT, son A-302 pk 13,3 (11,1 km, cabina); A-311 pk 25,5 (13,1 km, cabina); A-4 pk 292,9 (13,9 km, cabina); A-4 pk 292,4 (14,2 km, cabina).
 
-La red andaluza de control fijo alcanza los 156 puntos entre cabinas y tramos; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
+La red andaluza de control fijo suma cabinas y tramos repartidos por toda la comunidad; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
 
 Este radar forma parte del inventario oficial que la DGT publica en su portal de datos abiertos, y su ubicación puede consultarse en el fichero XML de la Dirección General de Tráfico.
 

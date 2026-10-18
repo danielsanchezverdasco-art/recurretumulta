@@ -20,7 +20,7 @@ Conviene recordar que estos equipos aplican los márgenes de error reglamentario
 
 La DGT también tiene publicados controles próximos: A-44 pk 39,0 (3,3 km, cabina); A-6050 pk 0,9 (5,7 km, cabina); A-316 pk 59,7 (10,6 km, cabina).
 
-El inventario andaluz combina 147 cabinas puntuales con 9 tramos de velocidad media: dos filosofías de control que conviene conocer para circular con seguridad.
+El inventario andaluz combina cabinas puntuales con tramos de velocidad media: dos filosofías de control que conviene conocer para circular con seguridad.
 
 La ubicación procede del fichero oficial de radares de la DGT (publicación DATEX II), la única fuente que utilizamos para este registro.
 

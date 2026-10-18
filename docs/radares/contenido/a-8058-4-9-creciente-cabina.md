@@ -20,7 +20,7 @@ Las notificaciones electrónicas son obligatorias para empresas y voluntarias pa
 
 La DGT también tiene publicados controles próximos: SE-30 pk 11,1 (3,7 km, cabina); A-8057 pk 0,7 (3,8 km, cabina); SE-30 pk 10,5 (3,8 km, cabina); A-8057 pk 0,5 (3,9 km, cabina).
 
-El mapa andaluz de radares fijos suma 156 ubicaciones oficiales; esta es una de ellas, y convive con otros 155 puntos repartidos por toda la comunidad.
+Esta ubicación forma parte del mapa andaluz de radares fijos publicado por la DGT, con controles repartidos por toda la comunidad.
 
 La información de este control se extrae directamente del inventario oficial de la DGT; no utilizamos webs de avisadores ni datos sin contrastar.
 

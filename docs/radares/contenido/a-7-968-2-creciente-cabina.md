@@ -20,7 +20,7 @@ Recibir la notificación en casa semanas después es lo habitual: el sistema ide
 
 La DGT también tiene publicados controles próximos: A-7 pk 979,0 (10,1 km, cabina); A-45 pk 140,3 (16,2 km, cabina); A-356 pk 36,5 (17,1 km, cabina).
 
-Este radar se integra en una red de 156 controles oficiales en Andalucía, pensada para cubrir los tramos de mayor riesgo de cada provincia.
+Este radar se integra en la red de controles oficiales de Andalucía, pensada para cubrir los tramos de mayor riesgo de cada provincia.
 
 Todos los datos de este punto —carretera, kilómetro, sentido y coordenadas— provienen de la publicación oficial de la DGT, verificada el 18 de octubre de 2026.
 

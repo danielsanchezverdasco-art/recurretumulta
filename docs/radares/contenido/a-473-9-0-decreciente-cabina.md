@@ -20,7 +20,7 @@ Las notificaciones electrónicas son obligatorias para empresas y voluntarias pa
 
 Muy cerca, la DGT publica además estos puntos de control: A-8057 pk 0,5 (18,0 km, cabina); A-8058 pk 4,9 (18,1 km, cabina); A-8057 pk 0,7 (18,2 km, cabina); A-49 pk 0,5 (19,1 km, cabina); SE-30 pk 11,1 (21,3 km, cabina).
 
-La red andaluza de control fijo alcanza los 156 puntos entre cabinas y tramos; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
+La red andaluza de control fijo suma cabinas y tramos repartidos por toda la comunidad; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
 
 Este radar forma parte del inventario oficial que la DGT publica en su portal de datos abiertos, y su ubicación puede consultarse en el fichero XML de la Dirección General de Tráfico.
 

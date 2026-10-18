@@ -20,7 +20,7 @@ Si consideras que la denuncia es errónea, puedes recurrirla: revisa la imagen, 
 
 La DGT también tiene publicados controles próximos: N-432 pk 219,6 (9,5 km, cabina); N-432 pk 194,4 (23,8 km, cabina).
 
-Este radar se integra en una red de 156 controles oficiales en Andalucía, pensada para cubrir los tramos de mayor riesgo de cada provincia.
+Este radar se integra en la red de controles oficiales de Andalucía, pensada para cubrir los tramos de mayor riesgo de cada provincia.
 
 Este punto figura en la publicación oficial de radares fijos de la DGT con fecha de verificación 18 de octubre de 2026.
 

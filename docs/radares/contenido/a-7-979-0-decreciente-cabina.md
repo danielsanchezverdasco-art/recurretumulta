@@ -20,7 +20,7 @@ El pronto pago reduce la multa a la mitad pero implica renunciar a recurrir; val
 
 En los alrededores hay otros controles publicados por la DGT: A-45 pk 140,3 (7,2 km, cabina); MA-20 pk 10,4 (7,7 km, cabina); A-7 pk 968,2 (10,1 km, cabina).
 
-Andalucía concentra 156 puntos de control en el inventario oficial de la DGT: 147 cabinas fijas y 9 tramos de velocidad media, distribuidos por las ocho provincias.
+Andalucía concentra numerosos puntos de control en el inventario oficial de la DGT, entre cabinas fijas y tramos de velocidad media, distribuidos por las ocho provincias.
 
 Los datos que aquí aparecen —vía, punto kilométrico, sentido, municipio y coordenadas— son los que la DGT publica en abierto, sin añadidos ni interpretaciones.
 

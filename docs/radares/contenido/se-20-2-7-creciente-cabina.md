@@ -20,7 +20,7 @@ Si consideras que la denuncia es errónea, puedes recurrirla: revisa la imagen, 
 
 El mapa oficial de la DGT muestra en las inmediaciones: SE-30 pk 0,4 (1,7 km, cabina); SE-30 pk 0,6 (1,8 km, cabina); A-92 pk 0,8 (3,9 km, cabina); A-92 pk 0,8 (3,9 km, cabina); A-4 pk 529,6 (6,5 km, cabina).
 
-Este radar se integra en una red de 156 controles oficiales en Andalucía, pensada para cubrir los tramos de mayor riesgo de cada provincia.
+Este radar se integra en la red de controles oficiales de Andalucía, pensada para cubrir los tramos de mayor riesgo de cada provincia.
 
 Este punto figura en la publicación oficial de radares fijos de la DGT con fecha de verificación 18 de octubre de 2026.
 

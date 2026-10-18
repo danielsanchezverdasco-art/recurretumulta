@@ -12,7 +12,7 @@ La cabina protege un cinemómetro de alta precisión que dispara la fotografía 
 
 No publicamos ninguna cifra de límite porque la fuente oficial no la incluye. En la práctica, manda lo que indiquen las señales del tramo en el momento de circular.
 
-El importe final depende de cuánto se haya superado el límite: los excesos leves se saldan con 100 euros, mientras que los graves alcanzan los 600 y restan hasta seis puntos.
+El importe final depende de cuánto se haya superado el límite: los excesos leves conllevan la sanción mínima, mientras que los graves se castigan con dureza e implican la pérdida de puntos del permiso.
 
 El mejor consejo es programar el limitador o el control de crucero a la velocidad legal con antelación, de modo que el paso por el control sea automático y sin sobresaltos.
 
@@ -20,7 +20,7 @@ Recuerda que identificar al conductor es obligatorio cuando el titular no era qu
 
 El mapa oficial de la DGT muestra en las inmediaciones: N-433 pk 44,3 (5,5 km, cabina); A-66 pk 795,6 (14,2 km, cabina); A-8006 pk 16,5 (20,7 km, cabina); A-49 pk 0,5 (29,6 km, cabina).
 
-El mapa andaluz de radares fijos suma 156 ubicaciones oficiales; esta es una de ellas, y convive con otros 155 puntos repartidos por toda la comunidad.
+Esta ubicación forma parte del mapa andaluz de radares fijos publicado por la DGT, con controles repartidos por toda la comunidad.
 
 La ubicación procede del fichero oficial de radares de la DGT (publicación DATEX II), la única fuente que utilizamos para este registro.
 

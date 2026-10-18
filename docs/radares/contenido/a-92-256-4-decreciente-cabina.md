@@ -20,7 +20,7 @@ Si consideras que la denuncia es errónea, puedes recurrirla: revisa la imagen, 
 
 El mapa oficial de la DGT muestra en las inmediaciones: A-395 pk 8,7 (9,0 km, cabina); A-395 pk 12,3 (9,0 km, cabina); GR-3424 pk 2,2 (9,9 km, cabina).
 
-De los 156 radares que la DGT publica en Andalucía, la mayoría son cabinas como esta; solo nueve son de tramo, el sistema de velocidad media.
+De los radares que la DGT publica en Andalucía, la mayoría son cabinas como esta; solo algunos son de tramo, el sistema de velocidad media.
 
 Todos los datos de este punto —carretera, kilómetro, sentido y coordenadas— provienen de la publicación oficial de la DGT, verificada el 18 de octubre de 2026.
 

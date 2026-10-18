@@ -14,13 +14,13 @@ Este registro no incluye velocidad límite: el XML oficial de la DGT no la conti
 
 Afrontar este radar no requiere más que disciplina: respetar la señalización vertical del tramo y mantener una velocidad homogénea con el resto del tráfico.
 
-La sanción por exceso de velocidad depende del margen superado: puede ir desde los 100 euros sin pérdida de puntos hasta los 600 euros con seis puntos menos, e incluso constituir delito a partir de ciertos umbrales.
+La sanción por exceso de velocidad depende del margen superado: puede ir desde una multa leve sin pérdida de puntos hasta la sanción máxima con pérdida de puntos, e incluso constituir delito a partir de ciertos umbrales.
 
 Si el radar te capta, la denuncia llega al domicilio del titular del vehículo: conviene tener actualizada la dirección en la DGT para no perder plazos de alegación o de pronto pago.
 
 En los alrededores hay otros controles publicados por la DGT: A-45 pk 140,3 (5,7 km, cabina); A-7 pk 979,0 (7,7 km, cabina); A-45 pk 134,2 (10,2 km, radar de tramo); A-45 pk 134,2 (10,2 km, cabina).
 
-La red andaluza de control fijo alcanza los 156 puntos entre cabinas y tramos; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
+La red andaluza de control fijo suma cabinas y tramos repartidos por toda la comunidad; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
 
 Todos los datos de este punto —carretera, kilómetro, sentido y coordenadas— provienen de la publicación oficial de la DGT, verificada el 18 de octubre de 2026.
 

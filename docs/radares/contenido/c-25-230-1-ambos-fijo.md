@@ -6,7 +6,7 @@ El Eix Transversal es una vía rápida de altas prestaciones, y el 120 es su vel
 
 El multado típico es el viajero transversal: el que cruza Cataluña de oeste a este por el interior, el transportista, el turista que evita la AP-7. Todos comparten el cansancio del eje largo y la tentación del sprint final. Trànsit coloca el radar aquí porque los finales de corredor generan tantos excesos como los inicios.
 
-La denuncia se activa por encima de 120 más el margen del equipo. El baremo en zona 120 es el más benévolo en términos relativos, pero a 150+ la cosa se pone seria: euros y puntos.
+La denuncia se activa por encima de 120 más el margen del equipo. El baremo en zona 120 es el más benévolo en términos relativos, pero a 150+ la cosa se pone seria: multa y puntos.
 
 La forma de terminar el Eix: cuando veas Santa Coloma, no aceleres; mantén. Los últimos 20 km son los que exigen más atención, no menos. Si el viaje ha sido largo, para en un área de servicio: 10 minutos de pausa valen más que 2 minutos de prisa. Y al enlazar con la AP-7, cambia el chip: el Eix ha terminado, empieza la autopista.
 

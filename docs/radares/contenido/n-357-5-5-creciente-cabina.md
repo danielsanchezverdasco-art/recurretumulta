@@ -20,7 +20,7 @@ La multa no es lo peor: la pérdida de puntos puede dejar sin permiso a quien ac
 
 La DGT también tiene publicados controles próximos: N-357 pk 3,5 (1,5 km, cabina); N-357 pk 3,0 (2,0 km, cabina); N-357 pk 0,5 (3,4 km, cabina).
 
-La red andaluza de control fijo alcanza los 156 puntos entre cabinas y tramos; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
+La red andaluza de control fijo suma cabinas y tramos repartidos por toda la comunidad; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
 
 Este radar forma parte del inventario oficial que la DGT publica en su portal de datos abiertos, y su ubicación puede consultarse en el fichero XML de la Dirección General de Tráfico.
 

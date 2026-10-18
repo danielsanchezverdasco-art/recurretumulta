@@ -98,7 +98,7 @@ Dato sin fuente oficial → celda vacía + motivo en `notas`. Nada de velocidade
 | Comunidad / ciudad | Agente asignado | Fuente principal | Estado (pendiente/en curso/entregado) | Nº radares |
 |---|---|---|---|---|
 | Comunidad de Madrid | Niky | DGT + Ayto. Madrid | entregado | 66 |
-| Cataluña | Niky | Servei Català de Trànsit | entregado | 241 |
+| Cataluña | Niky | Servei Català de Trànsit | entregado (224; 17 excluidos pendientes de coordenadas, ver abajo) | 241 |
 | Andalucía | Niky | DGT | entregado | 144 |
 | Aragón | | DGT | pendiente | |
 | Asturias | | DGT | pendiente | |
@@ -119,3 +119,37 @@ Dato sin fuente oficial → celda vacía + motivo en `notas`. Nada de velocidade
 
 Si una comunidad no tiene ningún radar en las fuentes oficiales, la tabla tiene que
 decirlo expresamente («0 en fuente X, comprobado el AAAA-MM-DD»). Ninguna fila en blanco.
+
+## Registros excluidos de la entrega (Cataluña, 17)
+
+Los 17 registros siguientes están en `radares.csv` con `lat`/`lon` y `provincia`
+vacíos y **no cuentan como entregables** (nota en cada fila: «coordenada de
+origen errónea»): las coordenadas X/Y que publica el Servei Català de Trànsit
+para ellos no caen en Cataluña (filas mal escritas en el TXT de origen), así
+que no se pueden verificar ni situar en su provincia. Quedan excluidos hasta
+tener coordenadas de fuente oficial (mapa del SCT). Sus textos existen en
+`contenido/` pero tampoco son entregables todavía. La provincia no puede quedar
+vacía en lo entregado: lo entregado de Cataluña son **224 radares**.
+
+- `a-2-501-5-creciente-tramo` (A-2 pk 501,5, tramo)
+- `a-2-506-3-decreciente-tramo` (A-2 pk 506,3, tramo)
+- `a-2-563-2-creciente-tramo` (A-2 pk 563,2, tramo)
+- `ap-7-146-6-decreciente-tramo` (AP-7 pk 146,6, tramo)
+- `b-10-18-5-ambos-fijo` (B-10 pk 18,5, fijo; además duplicado exacto en fuente, unificado)
+- `c-16-2-1-creciente-tramo` (C-16 pk 2,1, tramo)
+- `c-16-5-2-decreciente-tramo` (C-16 pk 5,2, tramo)
+- `c-17-18-2-decreciente-tramo` (C-17 pk 18,2, tramo)
+- `c-17-19-8-decreciente-tramo` (C-17 pk 19,8, tramo)
+- `c-17-33-5-ambos-fijo` (C-17 pk 33,5, fijo)
+- `c-17-37-8-creciente-tramo` (C-17 pk 37,8, tramo)
+- `c-17-41-1-decreciente-tramo` (C-17 pk 41,1, tramo)
+- `c-58-15-0-decreciente-tramo` (C-58 pk 15,0, tramo)
+- `c-59-4-9-creciente-tramo` (C-59 pk 4,9, tramo)
+- `c-59-8-8-decreciente-tramo` (C-59 pk 8,8, tramo)
+- `n-2-751-4-creciente-tramo` (N-2 pk 751,4, tramo)
+- `n-2-758-8-decreciente-tramo` (N-2 pk 758,8, tramo)
+
+Autochequeo con la exclusión: 0 `id_unico` repetidos en todo el CSV; las 224
+filas entregadas de Cataluña tienen lat/lon dentro de su provincia y
+`velocidad_limite` rellena; las 17 excluidas están documentadas aquí y en sus
+notas, y no entran en ningún recuento de entregables.

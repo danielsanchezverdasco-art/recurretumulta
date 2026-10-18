@@ -20,7 +20,7 @@ La multa no es lo peor: la pérdida de puntos puede dejar sin permiso a quien ac
 
 La DGT también tiene publicados controles próximos: CA-33 pk 9,1 (3,1 km, radar de tramo); A-408 pk 2,5 (7,0 km, cabina); CA-33 pk 4,0 (7,1 km, cabina); CA-33 pk 4,4 (7,3 km, cabina); CA-36 pk 3,0 (8,1 km, cabina).
 
-Este punto es uno de los 156 que la DGT tiene publicados en Andalucía, repartidos entre 147 cabinas y 9 radares de tramo, con Málaga y Sevilla a la cabeza en número de controles.
+Este punto es uno de los que la DGT tiene publicados en Andalucía, entre cabinas y radares de tramo.
 
 Todos los datos de este punto —carretera, kilómetro, sentido y coordenadas— provienen de la publicación oficial de la DGT, verificada el 18 de octubre de 2026.
 

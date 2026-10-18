@@ -16,11 +16,11 @@ La DGT no difunde el límite asociado a cada cinemómetro en su fichero abierto;
 
 El pronto pago reduce la multa a la mitad pero implica renunciar a recurrir; valora si te compensa según las circunstancias de la denuncia.
 
-El importe final depende de cuánto se haya superado el límite: los excesos leves se saldan con 100 euros, mientras que los graves alcanzan los 600 y restan hasta seis puntos.
+El importe final depende de cuánto se haya superado el límite: los excesos leves conllevan la sanción mínima, mientras que los graves se castigan con dureza e implican la pérdida de puntos del permiso.
 
 La DGT también tiene publicados controles próximos: SE-30 pk 0,6 (0,2 km, cabina); SE-20 pk 2,7 (1,7 km, cabina); A-92 pk 0,8 (2,4 km, cabina).
 
-Este radar se integra en una red de 156 controles oficiales en Andalucía, pensada para cubrir los tramos de mayor riesgo de cada provincia.
+Este radar se integra en la red de controles oficiales de Andalucía, pensada para cubrir los tramos de mayor riesgo de cada provincia.
 
 La información de este control se extrae directamente del inventario oficial de la DGT; no utilizamos webs de avisadores ni datos sin contrastar.
 

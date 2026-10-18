@@ -20,7 +20,7 @@ En caso de sanción, el titular dispone de veinte días naturales para acogerse 
 
 Muy cerca, la DGT publica además estos puntos de control: A-316 pk 59,7 (9,9 km, cabina); A-6050 pk 0,9 (15,2 km, cabina); A-44 pk 39,0 (19,0 km, cabina); A-44 pk 42,6 (20,3 km, cabina); A-316 pk 92,0 (20,4 km, cabina).
 
-La red andaluza de control fijo alcanza los 156 puntos entre cabinas y tramos; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
+La red andaluza de control fijo suma cabinas y tramos repartidos por toda la comunidad; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
 
 Todos los datos de este punto —carretera, kilómetro, sentido y coordenadas— provienen de la publicación oficial de la DGT, verificada el 18 de octubre de 2026.
 

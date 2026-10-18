@@ -20,7 +20,7 @@ En caso de sanción, el titular dispone de veinte días naturales para acogerse 
 
 En los alrededores hay otros controles publicados por la DGT: A-8057 pk 0,7 (0,2 km, cabina); A-49 pk 0,5 (2,7 km, cabina); A-8058 pk 4,9 (3,9 km, cabina); SE-30 pk 11,1 (3,9 km, cabina); SE-30 pk 10,5 (4,4 km, cabina).
 
-De los 156 radares que la DGT publica en Andalucía, la mayoría son cabinas como esta; solo nueve son de tramo, el sistema de velocidad media.
+De los radares que la DGT publica en Andalucía, la mayoría son cabinas como esta; solo algunos son de tramo, el sistema de velocidad media.
 
 Todos los datos de este punto —carretera, kilómetro, sentido y coordenadas— provienen de la publicación oficial de la DGT, verificada el 18 de octubre de 2026.
 

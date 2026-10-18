@@ -12,7 +12,7 @@ La cabina es una instalación fija: el cinemómetro mide la velocidad de cada ve
 
 La DGT no difunde el límite asociado a cada cinemómetro en su fichero abierto; por honestidad, dejamos ese dato pendiente y te remitimos a las señales de la vía.
 
-La sanción por exceso de velocidad depende del margen superado: puede ir desde los 100 euros sin pérdida de puntos hasta los 600 euros con seis puntos menos, e incluso constituir delito a partir de ciertos umbrales.
+La sanción por exceso de velocidad depende del margen superado: puede ir desde una multa leve sin pérdida de puntos hasta la sanción máxima con pérdida de puntos, e incluso constituir delito a partir de ciertos umbrales.
 
 La forma más segura de afrontarlo es sencilla: ajustar la velocidad antes de llegar al punto kilométrico indicado y mantenerla durante todo el paso por la zona.
 
@@ -20,7 +20,7 @@ El pronto pago reduce la multa a la mitad pero implica renunciar a recurrir; val
 
 Si sigues conduciendo por la zona, ten en cuenta estos otros radares oficiales: A-92 pk 241,7 (3,5 km, cabina); GR-30 pk 8,7 (3,6 km, cabina); GR-3303 pk 2,6 (8,4 km, cabina); A-395 pk 3,3 (8,7 km, cabina).
 
-La red andaluza de control fijo alcanza los 156 puntos entre cabinas y tramos; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
+La red andaluza de control fijo suma cabinas y tramos repartidos por toda la comunidad; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
 
 La ubicación procede del fichero oficial de radares de la DGT (publicación DATEX II), la única fuente que utilizamos para este registro.
 

@@ -20,7 +20,7 @@ Recuerda que identificar al conductor es obligatorio cuando el titular no era qu
 
 Otros puntos vigilados cercanos, también publicados por la DGT, son A-8057 pk 0,5 (2,7 km, cabina); A-8057 pk 0,7 (2,7 km, cabina); SE-30 pk 11,1 (5,3 km, cabina); SE-30 pk 10,5 (5,9 km, cabina).
 
-El inventario andaluz combina 147 cabinas puntuales con 9 tramos de velocidad media: dos filosofías de control que conviene conocer para circular con seguridad.
+El inventario andaluz combina cabinas puntuales con tramos de velocidad media: dos filosofías de control que conviene conocer para circular con seguridad.
 
 Todos los datos de este punto —carretera, kilómetro, sentido y coordenadas— provienen de la publicación oficial de la DGT, verificada el 18 de octubre de 2026.
 

@@ -20,7 +20,7 @@ Además de la multa económica, hay que contar con la detracción de puntos: dos
 
 La DGT también tiene publicados controles próximos: A-316 pk 4,0 (20,5 km, cabina); A-4 pk 248,4 (25,8 km, radar de tramo); A-4 pk 245,2 (28,0 km, cabina).
 
-La red andaluza de control fijo alcanza los 156 puntos entre cabinas y tramos; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
+La red andaluza de control fijo suma cabinas y tramos repartidos por toda la comunidad; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
 
 Los datos que aquí aparecen —vía, punto kilométrico, sentido, municipio y coordenadas— son los que la DGT publica en abierto, sin añadidos ni interpretaciones.
 

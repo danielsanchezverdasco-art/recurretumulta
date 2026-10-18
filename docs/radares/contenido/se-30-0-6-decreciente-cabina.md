@@ -20,7 +20,7 @@ Circular con margen respecto al límite, revisar el estado de los neumáticos y 
 
 La DGT también tiene publicados controles próximos: SE-30 pk 0,4 (0,2 km, cabina); SE-20 pk 2,7 (1,8 km, cabina); A-92 pk 0,8 (2,3 km, cabina); A-92 pk 0,8 (2,3 km, cabina); A-376 pk 2,0 (6,1 km, cabina).
 
-Andalucía concentra 156 puntos de control en el inventario oficial de la DGT: 147 cabinas fijas y 9 tramos de velocidad media, distribuidos por las ocho provincias.
+Andalucía concentra numerosos puntos de control en el inventario oficial de la DGT, entre cabinas fijas y tramos de velocidad media, distribuidos por las ocho provincias.
 
 La ubicación procede del fichero oficial de radares de la DGT (publicación DATEX II), la única fuente que utilizamos para este registro.
 

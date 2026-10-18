@@ -14,13 +14,13 @@ No publicamos ninguna cifra de límite porque la fuente oficial no la incluye. E
 
 La anticipación es la mejor aliada: si ves la señal de radar o conoces el punto, suelta el acelerador con tiempo en lugar de frenar bruscamente.
 
-La sanción por exceso de velocidad depende del margen superado: puede ir desde los 100 euros sin pérdida de puntos hasta los 600 euros con seis puntos menos, e incluso constituir delito a partir de ciertos umbrales.
+La sanción por exceso de velocidad depende del margen superado: puede ir desde una multa leve sin pérdida de puntos hasta la sanción máxima con pérdida de puntos, e incluso constituir delito a partir de ciertos umbrales.
 
 En caso de sanción, el titular dispone de veinte días naturales para acogerse al pronto pago con el 50 % de descuento o para presentar alegaciones.
 
 Si sigues conduciendo por la zona, ten en cuenta estos otros radares oficiales: A-4 pk 416,1 (0,6 km, cabina); A-4 pk 417,6 (1,8 km, cabina); A-4 pk 410,1 (4,9 km, cabina); A-386 pk 11,3 (21,9 km, cabina); A-431 pk 29,7 (24,5 km, cabina).
 
-Andalucía concentra 156 puntos de control en el inventario oficial de la DGT: 147 cabinas fijas y 9 tramos de velocidad media, distribuidos por las ocho provincias.
+Andalucía concentra numerosos puntos de control en el inventario oficial de la DGT, entre cabinas fijas y tramos de velocidad media, distribuidos por las ocho provincias.
 
 Los datos que aquí aparecen —vía, punto kilométrico, sentido, municipio y coordenadas— son los que la DGT publica en abierto, sin añadidos ni interpretaciones.
 

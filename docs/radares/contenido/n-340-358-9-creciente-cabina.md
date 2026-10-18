@@ -16,6 +16,6 @@ De noche, la N-340 cambia de carácter: menos tráfico, pero también menos refe
 
 En los alrededores, la DGT publica estos otros controles: N-340 pk 347,9 (8,9 km, cabina); N-340 pk 339,1 (16,0 km, cabina).
 
-Todos los datos proceden de la publicación oficial de la DGT, verificada el 18 de octubre de 2026. El mapa andaluz de radares fijos suma 156 ubicaciones oficiales.
+Todos los datos proceden de la publicación oficial de la DGT, verificada el 18 de octubre de 2026.
 
 [Ver la ubicación exacta en Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=36.74631,-3.30682)

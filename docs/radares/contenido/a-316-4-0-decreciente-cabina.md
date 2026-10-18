@@ -20,7 +20,7 @@ Las denuncias de estos radares se tramitan de forma automatizada: la notificaci�
 
 En los alrededores hay otros controles publicados por la DGT: A-401 pk 20,1 (18,3 km, cabina); A-312 pk 35,9 (20,5 km, cabina).
 
-El mapa andaluz de radares fijos suma 156 ubicaciones oficiales; esta es una de ellas, y convive con otros 155 puntos repartidos por toda la comunidad.
+Esta ubicación forma parte del mapa andaluz de radares fijos publicado por la DGT, con controles repartidos por toda la comunidad.
 
 Este radar forma parte del inventario oficial que la DGT publica en su portal de datos abiertos, y su ubicación puede consultarse en el fichero XML de la Dirección General de Tráfico.
 

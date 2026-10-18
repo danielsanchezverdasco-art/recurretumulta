@@ -4,7 +4,7 @@ Cuatro coma tres kilómetros de velocidad media en el Gironès. El tramo control
 
 El tramo cubre 4,3 km que a 90 se hacen en 2 minutos y 52 segundos; a 110 de media, en 2 minutos y 21 segundos. Treinta y un segundos de diferencia que separan la legalidad de la denuncia. El conductor que recorre la nacional a 90 constantes no tiene ningún problema; el que acelera para «rentabilizar» el ahorro del peaje, sí. El tramo está diseñado contra la lógica del atajo con prisa.
 
-La denuncia se produce cuando la media supera los 90 más el margen reglamentario. El perfil del sancionado es el que usa la N-2 para evitar la AP-7 y quiere ir igual de rápido que en la autopista: a 110-120 «para que compense». No compensa: en 20 km de nacional, la diferencia entre 90 y 120 es de 5 minutos, y la denuncia cuesta 100 euros. La alternativa gratuita solo es alternativa si se respeta su límite.
+La denuncia se produce cuando la media supera los 90 más el margen reglamentario. El perfil del sancionado es el que usa la N-2 para evitar la AP-7 y quiere ir igual de rápido que en la autopista: a 110-120 «para que compense». No compensa: en 20 km de nacional, la diferencia entre 90 y 120 es de 5 minutos, y la denuncia sale cara. La alternativa gratuita solo es alternativa si se respeta su límite.
 
 Cómo hacerlo bien: entra al tramo a 90 y acepta que la N-2 es más lenta que la AP-7 por naturaleza. Si la has elegido para ahorrar el peaje, ahorra también la denuncia: a 90 constantes se llega igual. Con camiones —muchos en este eje—, paciencia en los adelantamientos: a 90 se adelanta con seguridad.
 

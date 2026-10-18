@@ -14,13 +14,13 @@ Sin dato oficial de límite, no hay cifra que dar: la publicación de la DGT omi
 
 La forma más segura de afrontarlo es sencilla: ajustar la velocidad antes de llegar al punto kilométrico indicado y mantenerla durante todo el paso por la zona.
 
-Superar el límite conlleva multas que oscilan entre 100 y 600 euros, con detracción de dos a seis puntos del permiso según la gravedad del exceso.
+Superar el límite conlleva multas proporcionales a la gravedad del exceso, con detracción de puntos del permiso.
 
 Si el radar te capta, la denuncia llega al domicilio del titular del vehículo: conviene tener actualizada la dirección en la DGT para no perder plazos de alegación o de pronto pago.
 
 El mapa oficial de la DGT muestra en las inmediaciones: A-397 pk 11,1 (2,4 km, cabina); A-397 pk 28,0 (13,3 km, radar de tramo); A-397 pk 28,0 (13,3 km, cabina); A-397 pk 30,1 (14,5 km, radar de tramo).
 
-La red andaluza de control fijo alcanza los 156 puntos entre cabinas y tramos; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
+La red andaluza de control fijo suma cabinas y tramos repartidos por toda la comunidad; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
 
 Este punto figura en la publicación oficial de radares fijos de la DGT con fecha de verificación 18 de octubre de 2026.
 

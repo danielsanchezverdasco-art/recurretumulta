@@ -12,12 +12,12 @@ La DGT no publica el límite de velocidad asociado a cada radar, así que no dam
 
 Circular con margen respecto al límite, mantener la distancia de seguridad y evitar frenazos bruscos ante la cabina es la mejor estrategia: quien frena de golpe pone en riesgo a los que vienen detrás.
 
-Las sanciones por exceso oscilan entre 100 y 600 euros, con detracción de dos a seis puntos según la gravedad. Y si la denuncia llega, conviene tener la dirección actualizada en la DGT para no perder plazos de alegación ni el descuento por pronto pago.
+Las sanciones por exceso son proporcionales a la gravedad, con detracción de puntos del permiso. Y si la denuncia llega, conviene tener la dirección actualizada en la DGT para no perder plazos de alegación ni el descuento por pronto pago.
 
 El viento es un factor a tener en cuenta en la costa gaditana: las rachas laterales desestabilizan sobre todo a furgonetas, caravanas y camiones, y obligan a corregir la trayectoria constantemente. Con viento fuerte, la velocidad legal puede resultar excesiva para las condiciones reales; reducir el ritmo unos kilómetros por hora da el margen necesario para mantener el coche en el carril sin sustos. El radar mide el límite señalizado, pero la seguridad la decide el conductor según lo que vea y sienta.
 
 Muy cerca, la DGT publica además estos puntos de control: N-340 pk 70,4 (13,8 km, cabina); N-357 pk 5,5 (17,8 km, cabina); N-357 pk 3,5 (18,9 km, cabina).
 
-Información extraída del inventario oficial de la DGT, con verificación del 18 de octubre de 2026. La red andaluza de control fijo alcanza los 156 puntos entre cabinas y tramos.
+Información extraída del inventario oficial de la DGT, con verificación del 18 de octubre de 2026. La red andaluza de control fijo suma cabinas y tramos repartidos por la comunidad.
 
 [Ver la ubicación exacta en Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=36.02380,-5.59423)

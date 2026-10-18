@@ -20,7 +20,7 @@ Quien circule con el velocímetro en la cifra legal no tiene nada que temer: la 
 
 Otros puntos vigilados cercanos, también publicados por la DGT, son A-401 pk 20,1 (27,4 km, cabina).
 
-Este radar se integra en una red de 156 controles oficiales en Andalucía, pensada para cubrir los tramos de mayor riesgo de cada provincia.
+Este radar se integra en la red de controles oficiales de Andalucía, pensada para cubrir los tramos de mayor riesgo de cada provincia.
 
 Este punto figura en la publicación oficial de radares fijos de la DGT con fecha de verificación 18 de octubre de 2026.
 

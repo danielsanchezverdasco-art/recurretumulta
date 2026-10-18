@@ -12,7 +12,7 @@ La cabina protege un cinemómetro de alta precisión que dispara la fotografía 
 
 No publicamos ninguna cifra de límite porque la fuente oficial no la incluye. En la práctica, manda lo que indiquen las señales del tramo en el momento de circular.
 
-El importe final depende de cuánto se haya superado el límite: los excesos leves se saldan con 100 euros, mientras que los graves alcanzan los 600 y restan hasta seis puntos.
+El importe final depende de cuánto se haya superado el límite: los excesos leves conllevan la sanción mínima, mientras que los graves se castigan con dureza e implican la pérdida de puntos del permiso.
 
 Un truco útil: fijar el avisador de velocidad del coche unos km/h por debajo del límite evita despistes en descensos o tramos donde el ritmo sube solo.
 
@@ -20,7 +20,7 @@ Recuerda que identificar al conductor es obligatorio cuando el titular no era qu
 
 En los alrededores hay otros controles publicados por la DGT: A-7 pk 760,3 (4,1 km, cabina); A-92 pk 391,9 (13,8 km, cabina); A-7 pk 778,1 (14,0 km, cabina); AL-3111 pk 9,0 (14,6 km, cabina); N-340a pk 471,9 (27,1 km, cabina).
 
-El inventario andaluz combina 147 cabinas puntuales con 9 tramos de velocidad media: dos filosofías de control que conviene conocer para circular con seguridad.
+El inventario andaluz combina cabinas puntuales con tramos de velocidad media: dos filosofías de control que conviene conocer para circular con seguridad.
 
 Los datos que aquí aparecen —vía, punto kilométrico, sentido, municipio y coordenadas— son los que la DGT publica en abierto, sin añadidos ni interpretaciones.
 

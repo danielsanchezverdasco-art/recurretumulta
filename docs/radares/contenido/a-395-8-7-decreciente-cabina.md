@@ -12,7 +12,7 @@ Funciona con un equipo fijo instalado en la cabina, que registra la velocidad de
 
 La velocidad límite de este punto no figura en la publicación oficial de la DGT, por lo que no la indicamos: rige la señalización vertical del tramo y, en su defecto, los límites genéricos de la vía.
 
-El importe final depende de cuánto se haya superado el límite: los excesos leves se saldan con 100 euros, mientras que los graves alcanzan los 600 y restan hasta seis puntos.
+El importe final depende de cuánto se haya superado el límite: los excesos leves conllevan la sanción mínima, mientras que los graves se castigan con dureza e implican la pérdida de puntos del permiso.
 
 Un truco útil: fijar el avisador de velocidad del coche unos km/h por debajo del límite evita despistes en descensos o tramos donde el ritmo sube solo.
 
@@ -20,7 +20,7 @@ Las notificaciones electrónicas son obligatorias para empresas y voluntarias pa
 
 Otros puntos vigilados cercanos, también publicados por la DGT, son A-395 pk 12,3 (2,4 km, cabina); A-395 pk 3,3 (5,1 km, cabina); GR-30 pk 17,6 (8,0 km, cabina); A-92 pk 256,4 (9,0 km, cabina).
 
-El mapa andaluz de radares fijos suma 156 ubicaciones oficiales; esta es una de ellas, y convive con otros 155 puntos repartidos por toda la comunidad.
+Esta ubicación forma parte del mapa andaluz de radares fijos publicado por la DGT, con controles repartidos por toda la comunidad.
 
 Todos los datos de este punto —carretera, kilómetro, sentido y coordenadas— provienen de la publicación oficial de la DGT, verificada el 18 de octubre de 2026.
 

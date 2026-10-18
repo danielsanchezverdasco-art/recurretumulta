@@ -8,12 +8,12 @@ La A-7053 es una vía autonómica que se adentra hacia el interior malagueño, c
 
 Conviene saberlo: el inventario de la DGT no incluye la velocidad máxima permitida de cada cinemómetro. No la publicamos porque no la conocemos de fuente oficial; manda lo que indiquen las señales verticales del tramo.
 
-Si el equipo te registra por encima del umbral, el procedimiento es automático: la denuncia se genera con la imagen como prueba y llega al titular del vehículo. Los excesos leves se resuelven con 100 euros; los más graves alcanzan los 600 y restan hasta seis puntos del permiso. El pronto pago recorta la sanción a la mitad, pero cierra la puerta al recurso.
+Si el equipo te registra por encima del umbral, el procedimiento es automático: la denuncia se genera con la imagen como prueba y llega al titular del vehículo. Los excesos leves se resuelven con la sanción mínima; los más graves conllevan la sanción máxima y la pérdida de puntos del permiso. El pronto pago recorta la sanción a la mitad, pero cierra la puerta al recurso.
 
 En esta zona del interior malagueño, la niebla matinal es otro factor a vigilar en otoño e invierno: aparece sin avisar en las vaguadas y reduce la visibilidad de golpe. Con niebla, la velocidad debe bajar muy por debajo del límite señalizado, radar o no.
 
 Quienes transiten la zona encontrarán más controles publicados en las inmediaciones: A-7 pk 1019,7 (5,5 km, radar de tramo); A-7 pk 1019,7 (5,5 km, cabina); A-7 pk 1019,7 (5,5 km, cabina); A-7 pk 1024,9 (5,7 km, cabina).
 
-La información procede del fichero abierto de radares de la DGT (formato DATEX II), verificado el 18 de octubre de 2026. Andalucía suma 156 emplazamientos fijos en ese inventario, entre cabinas y tramos de velocidad media.
+La información procede del fichero abierto de radares de la DGT (formato DATEX II), verificado el 18 de octubre de 2026.
 
 [Ver la ubicación exacta en Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=36.54829,-4.67377)

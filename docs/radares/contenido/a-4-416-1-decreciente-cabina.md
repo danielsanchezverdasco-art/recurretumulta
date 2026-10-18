@@ -20,7 +20,7 @@ El cuadro sancionador es progresivo: a mayor exceso, mayor multa y más puntos d
 
 El mapa oficial de la DGT muestra en las inmediaciones: A-4 pk 415,2 (0,6 km, cabina); A-4 pk 417,6 (1,1 km, cabina); A-4 pk 410,1 (5,5 km, cabina); A-386 pk 11,3 (21,3 km, cabina).
 
-El inventario andaluz combina 147 cabinas puntuales con 9 tramos de velocidad media: dos filosofías de control que conviene conocer para circular con seguridad.
+El inventario andaluz combina cabinas puntuales con tramos de velocidad media: dos filosofías de control que conviene conocer para circular con seguridad.
 
 La información de este control se extrae directamente del inventario oficial de la DGT; no utilizamos webs de avisadores ni datos sin contrastar.
 

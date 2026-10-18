@@ -10,9 +10,7 @@ Cómo gestionar el escalón 90-80 entre tramos: al terminar el tramo de 90, no a
 
 El escalón de 90 a 80 entre tramos es una prueba de atención: el conductor que no mira las señales lo suspende. En 2,9 km, el 80 se hace en 2 minutos y 11 segundos; el que entra a 90 «porque venía así» descubre que el tramo no admite excusas. La atención a la señalización es la única defensa, y es gratis.
 
-Radares cercanos en la N-2: los tramos pk 709,5 → 713,8 (90) quedan por detrás y el gemelo pk 719,5 → 716,6 (80) cubre la vuelta. Cuatro tramos en 10 km: la N-2 norte es el corredor con más control de velocidad media de Girona.
-
-Al salir del tramo, la vigilancia no termina: por delante, el fijo del 736,5 (90) continúa el control. La secuencia completa —tramos a 90 y a 80, más el fijo— convierte este sector de la N-2 en un corredor medido de punta a punta. Después del 719,5, no aceleres celebrando el final del 80: el 90 del fijo se alcanza con suavidad, no de golpe.
+Radares cercanos en la N-2: los tramos pk 709,5 → 713,8 (90) quedan por detrás y el gemelo pk 719,5 → 716,6 (80) cubre la vuelta. Cuatro tramos en 10 km: la N-2 norte concentra varios controles de velocidad media.
 
 Al salir del tramo, la vigilancia no termina: por delante, el fijo del 736,5 (90) continúa el control. La secuencia completa —tramos a 90 y a 80, más el fijo— convierte este sector de la N-2 en un corredor medido de punta a punta. Después del 719,5, no aceleres celebrando el final del 80: el 90 del fijo se alcanza con suavidad, no de golpe.
 

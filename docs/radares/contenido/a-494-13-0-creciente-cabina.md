@@ -12,7 +12,7 @@ Según el fichero DATEX II de la DGT, el control está en la A-494, de titularid
 
 La DGT no difunde el límite asociado a cada cinemómetro en su fichero abierto; por honestidad, dejamos ese dato pendiente y te remitimos a las señales de la vía.
 
-Superar el límite conlleva multas que oscilan entre 100 y 600 euros, con detracción de dos a seis puntos del permiso según la gravedad del exceso.
+Superar el límite conlleva multas proporcionales a la gravedad del exceso, con detracción de puntos del permiso.
 
 Quien circule con el velocímetro en la cifra legal no tiene nada que temer: la clave está en anticiparse y no depender de frenazos de última hora.
 
@@ -20,7 +20,7 @@ Si el radar te capta, la denuncia llega al domicilio del titular del vehículo: 
 
 En los alrededores hay otros controles publicados por la DGT: H-31 pk 79,9 (8,3 km, cabina); A-497 pk 2,6 (10,3 km, cabina); A-497 pk 3,1 (10,6 km, cabina); A-497 pk 11,9 (12,8 km, cabina).
 
-De los 156 radares que la DGT publica en Andalucía, la mayoría son cabinas como esta; solo nueve son de tramo, el sistema de velocidad media.
+De los radares que la DGT publica en Andalucía, la mayoría son cabinas como esta; solo algunos son de tramo, el sistema de velocidad media.
 
 Este radar forma parte del inventario oficial que la DGT publica en su portal de datos abiertos, y su ubicación puede consultarse en el fichero XML de la Dirección General de Tráfico.
 

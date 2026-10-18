@@ -20,7 +20,7 @@ Si el radar te capta, la denuncia llega al domicilio del titular del vehículo: 
 
 Muy cerca, la DGT publica además estos puntos de control: A-4 pk 529,6 (23,5 km, cabina); A-8006 pk 16,5 (25,4 km, cabina); A-4 pk 495,7 (27,3 km, cabina); SE-20 pk 2,7 (27,8 km, cabina); SE-30 pk 0,4 (29,3 km, cabina).
 
-La red andaluza de control fijo alcanza los 156 puntos entre cabinas y tramos; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
+La red andaluza de control fijo suma cabinas y tramos repartidos por toda la comunidad; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
 
 Este radar forma parte del inventario oficial que la DGT publica en su portal de datos abiertos, y su ubicación puede consultarse en el fichero XML de la Dirección General de Tráfico.
 

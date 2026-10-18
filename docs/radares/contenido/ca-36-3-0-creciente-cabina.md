@@ -20,7 +20,7 @@ Si el radar te capta, la denuncia llega al domicilio del titular del vehículo: 
 
 La DGT también tiene publicados controles próximos: CA-33 pk 4,4 (4,8 km, cabina); CA-33 pk 4,0 (5,0 km, cabina); CA-33 pk 9,1 (5,6 km, radar de tramo); CA-33 pk 12,8 (8,1 km, radar de tramo); A-408 pk 2,5 (9,0 km, cabina).
 
-El inventario andaluz combina 147 cabinas puntuales con 9 tramos de velocidad media: dos filosofías de control que conviene conocer para circular con seguridad.
+El inventario andaluz combina cabinas puntuales con tramos de velocidad media: dos filosofías de control que conviene conocer para circular con seguridad.
 
 Todos los datos de este punto —carretera, kilómetro, sentido y coordenadas— provienen de la publicación oficial de la DGT, verificada el 18 de octubre de 2026.
 

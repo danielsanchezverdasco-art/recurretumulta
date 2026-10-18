@@ -4,7 +4,7 @@ Tres kilómetros después del radar de 80, la Ronda de Dalt cambia de carácter 
 
 El radar del 21,5 es un radar de transición. Su misión no es solo sancionar el exceso sobre 100, es gestionar el cambio de régimen de la vía. Los que vienen del sector de 80 aceleran con ansia y se pasan a 115; los que entran a la ronda por este sector directamente circulan a 100 sin problemas. El radar homogeniza por arriba: impide que la alegría del nuevo límite se convierta en 130.
 
-La denuncia, por encima de 100 más el margen, tiene un perfil de sancionado muy concreto: el que acelera demasiado pronto. Sale del túnel del sector 80, ve la señal de 100 y pisa a fondo antes de que el coche haya alcanzado la zona de 100. La norma es clara: el límite vale donde está señalizado, no donde el conductor cree que empieza. Unos cientos de metros de anticipación pueden costar 100 euros.
+La denuncia, por encima de 100 más el margen, tiene un perfil de sancionado muy concreto: el que acelera demasiado pronto. Sale del túnel del sector 80, ve la señal de 100 y pisa a fondo antes de que el coche haya alcanzado la zona de 100. La norma es clara: el límite vale donde está señalizado, no donde el conductor cree que empieza. Unos cientos de metros de anticipación pueden costar una denuncia.
 
 La forma de hacerlo bien: acelera con progresividad al ver la señal de 100 y fija el crucero en cuanto la alcances, no antes. Si vienes del sector de 80, tómate la transición con calma: son 30 segundos de paciencia. Y mantén la disciplina de carril: a 100 por el central, el izquierdo solo para adelantar. La Ronda de Dalt en este sector ya permite un ritmo fluido; no lo estropees con cambios de carril innecesarios.
 

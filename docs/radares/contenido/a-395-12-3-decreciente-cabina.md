@@ -16,11 +16,11 @@ Si consideras que la denuncia es errónea, puedes recurrirla: revisa la imagen, 
 
 El mejor consejo es programar el limitador o el control de crucero a la velocidad legal con antelación, de modo que el paso por el control sea automático y sin sobresaltos.
 
-Superar el límite conlleva multas que oscilan entre 100 y 600 euros, con detracción de dos a seis puntos del permiso según la gravedad del exceso.
+Superar el límite conlleva multas proporcionales a la gravedad del exceso, con detracción de puntos del permiso.
 
 Muy cerca, la DGT publica además estos puntos de control: A-395 pk 8,7 (2,4 km, cabina); A-395 pk 3,3 (7,5 km, cabina); A-92 pk 256,4 (9,0 km, cabina); GR-30 pk 17,6 (10,2 km, cabina).
 
-De los 156 radares que la DGT publica en Andalucía, la mayoría son cabinas como esta; solo nueve son de tramo, el sistema de velocidad media.
+De los radares que la DGT publica en Andalucía, la mayoría son cabinas como esta; solo algunos son de tramo, el sistema de velocidad media.
 
 Este punto figura en la publicación oficial de radares fijos de la DGT con fecha de verificación 18 de octubre de 2026.
 

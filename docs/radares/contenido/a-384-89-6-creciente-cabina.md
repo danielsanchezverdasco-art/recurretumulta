@@ -16,11 +16,11 @@ No publicamos ninguna cifra de límite porque la fuente oficial no la incluye. E
 
 Recuerda que identificar al conductor es obligatorio cuando el titular no era quien conducía; no hacerlo duplica la cuantía de la multa.
 
-La sanción por exceso de velocidad depende del margen superado: puede ir desde los 100 euros sin pérdida de puntos hasta los 600 euros con seis puntos menos, e incluso constituir delito a partir de ciertos umbrales.
+La sanción por exceso de velocidad depende del margen superado: puede ir desde una multa leve sin pérdida de puntos hasta la sanción máxima con pérdida de puntos, e incluso constituir delito a partir de ciertos umbrales.
 
 Otros puntos vigilados cercanos, también publicados por la DGT, son A-367 pk 22,8 (14,6 km, cabina); A-92 pk 83,8 (25,4 km, cabina).
 
-De los 156 radares que la DGT publica en Andalucía, la mayoría son cabinas como esta; solo nueve son de tramo, el sistema de velocidad media.
+De los radares que la DGT publica en Andalucía, la mayoría son cabinas como esta; solo algunos son de tramo, el sistema de velocidad media.
 
 La información de este control se extrae directamente del inventario oficial de la DGT; no utilizamos webs de avisadores ni datos sin contrastar.
 

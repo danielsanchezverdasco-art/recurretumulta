@@ -20,7 +20,7 @@ Además de la multa económica, hay que contar con la detracción de puntos: dos
 
 Muy cerca, la DGT publica además estos puntos de control: N-432 pk 422,9 (25,1 km, cabina); A-44 pk 76,4 (25,9 km, cabina); A-316 pk 92,0 (29,3 km, cabina).
 
-Andalucía concentra 156 puntos de control en el inventario oficial de la DGT: 147 cabinas fijas y 9 tramos de velocidad media, distribuidos por las ocho provincias.
+Andalucía concentra numerosos puntos de control en el inventario oficial de la DGT, entre cabinas fijas y tramos de velocidad media, distribuidos por las ocho provincias.
 
 Este punto figura en la publicación oficial de radares fijos de la DGT con fecha de verificación 18 de octubre de 2026.
 

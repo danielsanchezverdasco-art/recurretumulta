@@ -4,7 +4,7 @@ La N-II en el Maresme ya es vía urbana, y el radar del kilómetro 636,415 vigil
 
 El pk 636,415 está en el sector donde la N-II discurre con el mar a un lado y el tren al otro. El 80 es el límite, pero el conductor que viene de la C-32 —gratuita desde 2021— y entra en la N-II debe adaptar la velocidad: de 120 a 80 hay un escalón enorme. El radar está para verificar esa adaptación desde el primer metro.
 
-La denuncia, por encima de 80 más el margen, aplica un baremo severo: en zona 80, los 111 ya son 300 euros y puntos. El perfil del sancionado es el commuter del Maresme: el que hace a diario el trayecto a Barcelona y circula a 95 «con el tráfico». Ir con el tráfico no exime.
+La denuncia, por encima de 80 más el margen, aplica un baremo severo: en zona 80, los 111 ya conllevan la pérdida de puntos. El perfil del sancionado es el commuter del Maresme: el que hace a diario el trayecto a Barcelona y circula a 95 «con el tráfico». Ir con el tráfico no exime.
 
 Cómo circular por el Maresme: a 80 constantes, con la atención en los pasos de peatones. La N-II del Maresme no es una autopista: es una calle larga. En hora punta, el tráfico marca el ritmo: paciencia. Si vas en bici —la N-II tiene carril bici en tramos—, este radar también te protege indirectamente.
 

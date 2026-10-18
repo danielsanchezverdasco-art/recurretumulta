@@ -4,7 +4,7 @@ La N-420a es la variante de la N-420, y el radar del kilómetro 879,314 vigila c
 
 El pk 879,314 está cerca de Reus, en el sector donde la N-420a todavía no es urbana del todo pero ya no es interurbana. El 70 es el límite, pero el conductor que viene de la N-420 a 90 tiende a mantener el 90 por inercia. El radar está para romper esa inercia: a 70, los accesos se gestionan; a 95, cada acceso es un riesgo.
 
-La denuncia, por encima de 70 más el margen, aplica un baremo severo: en zona 70, los 101 ya son 300 euros y puntos. El perfil del sancionado es el que entra en Reus a ritmo de nacional: a 95 «porque la carretera lo permite». La carretera ya no lo permite, y el radar lo recuerda.
+La denuncia, por encima de 70 más el margen, aplica un baremo severo: en zona 70, los 101 ya conllevan la pérdida de puntos. El perfil del sancionado es el que entra en Reus a ritmo de nacional: a 95 «porque la carretera lo permite». La carretera ya no lo permite, y el radar lo recuerda.
 
 Cómo entrar en Reus por la N-420a: al ver la señal de 70, cambia el chip por completo. Reduce con antelación y acepta que los últimos kilómetros son periurbanos. Si tu destino es el centro, este radar es el aviso de que la ciudad está cerca: a partir de aquí, la conducción es de ciudad.
 

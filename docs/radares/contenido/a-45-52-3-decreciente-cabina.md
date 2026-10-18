@@ -20,7 +20,7 @@ En los excesos más extremos, la conducta deja de ser administrativa y pasa a se
 
 La DGT también tiene publicados controles próximos: A-339 pk 2,6 (10,7 km, cabina); N-432 pk 310,9 (27,7 km, cabina).
 
-Este punto es uno de los 156 que la DGT tiene publicados en Andalucía, repartidos entre 147 cabinas y 9 radares de tramo, con Málaga y Sevilla a la cabeza en número de controles.
+Este punto es uno de los que la DGT tiene publicados en Andalucía, entre cabinas y radares de tramo.
 
 La información de este control se extrae directamente del inventario oficial de la DGT; no utilizamos webs de avisadores ni datos sin contrastar.
 

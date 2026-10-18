@@ -20,7 +20,7 @@ La recomendación práctica es clara: llegar al kilómetro 3,5 ya a velocidad le
 
 Si sigues conduciendo por la zona, ten en cuenta estos otros radares oficiales: N-357 pk 3,0 (0,5 km, cabina); N-357 pk 5,5 (1,5 km, cabina); N-357 pk 0,5 (2,0 km, cabina); CA-34 pk 0,7 (8,6 km, cabina).
 
-La red andaluza de control fijo alcanza los 156 puntos entre cabinas y tramos; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
+La red andaluza de control fijo suma cabinas y tramos repartidos por toda la comunidad; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
 
 Todos los datos de este punto —carretera, kilómetro, sentido y coordenadas— provienen de la publicación oficial de la DGT, verificada el 18 de octubre de 2026.
 

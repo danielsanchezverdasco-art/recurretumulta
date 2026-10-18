@@ -20,7 +20,7 @@ Las denuncias de estos radares se tramitan de forma automatizada: la notificaci�
 
 Muy cerca, la DGT publica además estos puntos de control: A-339 pk 2,6 (26,4 km, cabina); A-45 pk 52,3 (27,7 km, cabina); A-4 pk 417,6 (28,1 km, cabina); A-4 pk 416,1 (28,3 km, cabina); A-4 pk 415,2 (28,5 km, cabina).
 
-Este radar se integra en una red de 156 controles oficiales en Andalucía, pensada para cubrir los tramos de mayor riesgo de cada provincia.
+Este radar se integra en la red de controles oficiales de Andalucía, pensada para cubrir los tramos de mayor riesgo de cada provincia.
 
 Este radar forma parte del inventario oficial que la DGT publica en su portal de datos abiertos, y su ubicación puede consultarse en el fichero XML de la Dirección General de Tráfico.
 

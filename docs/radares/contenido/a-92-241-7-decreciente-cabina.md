@@ -20,7 +20,7 @@ La multa no es lo peor: la pérdida de puntos puede dejar sin permiso a quien ac
 
 Si sigues conduciendo por la zona, ten en cuenta estos otros radares oficiales: GR-3424 pk 2,2 (3,5 km, cabina); GR-30 pk 8,7 (4,8 km, cabina); N-432 pk 422,9 (8,3 km, cabina).
 
-El inventario andaluz combina 147 cabinas puntuales con 9 tramos de velocidad media: dos filosofías de control que conviene conocer para circular con seguridad.
+El inventario andaluz combina cabinas puntuales con tramos de velocidad media: dos filosofías de control que conviene conocer para circular con seguridad.
 
 La ubicación procede del fichero oficial de radares de la DGT (publicación DATEX II), la única fuente que utilizamos para este registro.
 

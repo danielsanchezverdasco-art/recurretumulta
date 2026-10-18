@@ -18,7 +18,7 @@ La recomendación práctica es clara: llegar al kilómetro 7,0 ya a velocidad le
 
 Las notificaciones electrónicas son obligatorias para empresas y voluntarias para particulares a través de la Dirección Electrónica Vial: actívala para no perderte nada.
 
-Andalucía concentra 156 puntos de control en el inventario oficial de la DGT: 147 cabinas fijas y 9 tramos de velocidad media, distribuidos por las ocho provincias.
+Andalucía concentra numerosos puntos de control en el inventario oficial de la DGT, entre cabinas fijas y tramos de velocidad media, distribuidos por las ocho provincias.
 
 Los datos que aquí aparecen —vía, punto kilométrico, sentido, municipio y coordenadas— son los que la DGT publica en abierto, sin añadidos ni interpretaciones.
 

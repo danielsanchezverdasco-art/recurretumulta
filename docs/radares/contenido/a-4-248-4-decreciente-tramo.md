@@ -20,7 +20,7 @@ El cuadro sancionador es progresivo: a mayor exceso, mayor multa y más puntos d
 
 El mapa oficial de la DGT muestra en las inmediaciones: A-4 pk 245,2 (3,1 km, cabina); A-312 pk 35,9 (25,8 km, cabina).
 
-La red andaluza de control fijo alcanza los 156 puntos entre cabinas y tramos; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
+La red andaluza de control fijo suma cabinas y tramos repartidos por toda la comunidad; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
 
 Todos los datos de este punto —carretera, kilómetro, sentido y coordenadas— provienen de la publicación oficial de la DGT, verificada el 18 de octubre de 2026.
 

@@ -4,7 +4,7 @@ Hay un momento en cada vía metropolitana en que la ciudad suelta y la carretera
 
 El patrón del multado aquí es el de la liberación: el que ha hecho 5 km a 80 con disciplina y, al ver el 100, acelera con una alegría que se pasa de frenada. De 80 a 100 hay un salto legítimo; de 80 a 125 hay una denuncia. El radar del 191,207 no está en el tramo de 80 para castigar la paciencia, sino en el de 100 para encauzar la euforia.
 
-La denuncia se activa por encima de 100 más el margen del equipo. El baremo en zona 100 es el estándar de las vías rápidas: los excesos moderados se pagan en euros, los graves en puntos.
+La denuncia se activa por encima de 100 más el margen del equipo. El baremo en zona 100 es el estándar de las vías rápidas: los excesos moderados se pagan con multa, los graves con puntos.
 
 La técnica para la transición: acelera con progresividad al ver la señal de 100, sin brusquedades, y estabiliza. No conviertas el cambio de límite en una celebración: el radar celebra poco. Y mantén la atención: la C-31 después del 191 sigue siendo metropolitana, con sus incorporaciones y sus sorpresas.
 

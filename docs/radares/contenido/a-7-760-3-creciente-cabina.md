@@ -20,7 +20,7 @@ La recomendación práctica es clara: llegar al kilómetro 760,3 ya a velocidad 
 
 El mapa oficial de la DGT muestra en las inmediaciones: AL-3115 pk 3,4 (4,1 km, cabina); AL-3111 pk 9,0 (10,7 km, cabina); A-92 pk 391,9 (14,9 km, cabina); A-7 pk 778,1 (15,3 km, cabina).
 
-El mapa andaluz de radares fijos suma 156 ubicaciones oficiales; esta es una de ellas, y convive con otros 155 puntos repartidos por toda la comunidad.
+Esta ubicación forma parte del mapa andaluz de radares fijos publicado por la DGT, con controles repartidos por toda la comunidad.
 
 Este punto figura en la publicación oficial de radares fijos de la DGT con fecha de verificación 18 de octubre de 2026.
 

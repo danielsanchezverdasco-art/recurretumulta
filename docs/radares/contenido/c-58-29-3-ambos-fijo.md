@@ -6,9 +6,9 @@ El pk 29,27 está en el sector donde la C-58 atraviesa la zona más densa de Ter
 
 La denuncia, por encima de 80 más el margen, tiene un perfil de sancionado de mitad de serie: el que ha pasado dos radares y cree que «ya no hay más». En una serie de cinco, el tercero es el que más denuncias por sorpresa genera: la guardia baja justo a mitad de camino. El radar del 29,27 vive de esa relajación intermedia.
 
-La forma de afrontar la mitad de la serie: no cuentes los radares, cuenta los kilómetros. Quedan 2 km de zona 80: mantén el limitador y no lo toques. Si la serie se te hace larga, piensa que son 6 km de disciplina que te ahorran 300 euros y 2 puntos. La paciencia, en las series urbanas, es la velocidad más rentable.
+La forma de afrontar la mitad de la serie: no cuentes los radares, cuenta los kilómetros. Quedan 2 km de zona 80: mantén el limitador y no lo toques. Si la serie se te hace larga, piensa que son 6 km de disciplina que te ahorran una sanción con pérdida de puntos. La paciencia, en las series urbanas, es la velocidad más rentable.
 
-Cinco radares en 6 km: la serie de Terrassa es la más densa del Vallès. No intentes memorizar dónde están: memoriza el 80 y olvídate del resto.
+Cinco radares en 6 km: la serie de Terrassa concentra cinco controles en muy poco espacio. No intentes memorizar dónde están: memoriza el 80 y olvídate del resto.
 
 Radares cercanos en la C-58: los del pk 25,38 y 26,85 (80) quedan por detrás, y los del pk 29,8 y 30,95 (80) por delante. Cinco en 6 km: no hay hueco para el exceso.
 

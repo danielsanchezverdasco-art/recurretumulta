@@ -20,7 +20,7 @@ Afrontar este radar no requiere más que disciplina: respetar la señalización 
 
 En los alrededores hay otros controles publicados por la DGT: N-357 pk 3,0 (1,6 km, cabina); N-357 pk 3,5 (2,0 km, cabina); N-357 pk 5,5 (3,4 km, cabina); CA-34 pk 0,7 (7,9 km, cabina).
 
-Con 156 puntos publicados, Andalucía es una de las comunidades con más controles fijos de la red estatal; este kilómetro forma parte de ese despliegue.
+Andalucía cuenta con un amplio despliegue de controles fijos de la red estatal; este kilómetro forma parte de ese despliegue.
 
 Todos los datos de este punto —carretera, kilómetro, sentido y coordenadas— provienen de la publicación oficial de la DGT, verificada el 18 de octubre de 2026.
 

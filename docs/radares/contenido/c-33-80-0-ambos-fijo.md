@@ -4,7 +4,7 @@ La C-33 es la autopista de entrada a Barcelona por el norte, y el radar del pk 8
 
 El multado típico aquí es el que entra a Barcelona con el ritmo de la autopista interurbana y no lo adapta a la metropolitana. Viene de la C-58 o del Vallès a 120-130, enfila la C-33 y mantiene. El problema: la C-33 en este tramo ya no es autopista de viaje, es autopista de ciudad. Y el radar del 80,048 está para recordar la diferencia entre una y otra.
 
-La denuncia se activa por encima de 120 más el margen del equipo. El baremo en zona 120 es el más benévolo en términos relativos, pero una denuncia a 150+ sigue doliendo: euros y puntos.
+La denuncia se activa por encima de 120 más el margen del equipo. El baremo en zona 120 es el más benévolo en términos relativos, pero una denuncia a 150+ sigue doliendo: multa y puntos.
 
 La táctica: al acercarte a Montcada, cambia el chip de "viaje" a "ciudad". El 120 sigue siendo legal, pero la atención debe ser la de vía urbana: espejos, incorporaciones, salidas. En hora punta, el tráfico impone su propio ritmo: no luches contra él. Y si vienes de fuera, este radar es tu bienvenida a Barcelona: la ciudad se recorre con calma, no con prisa.
 

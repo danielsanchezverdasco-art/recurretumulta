@@ -10,7 +10,7 @@ Nos encontramos en la provincia gaditana, donde el entorno de la bahía con trá
 
 La DGT coloca estos controles en puntos donde la velocidad inadecuada se ha demostrado especialmente peligrosa, con el objetivo de disuadir antes que de sancionar.
 
-El importe final depende de cuánto se haya superado el límite: los excesos leves se saldan con 100 euros, mientras que los graves alcanzan los 600 y restan hasta seis puntos.
+El importe final depende de cuánto se haya superado el límite: los excesos leves conllevan la sanción mínima, mientras que los graves se castigan con dureza e implican la pérdida de puntos del permiso.
 
 No publicamos ninguna cifra de límite porque la fuente oficial no la incluye. En la práctica, manda lo que indiquen las señales del tramo en el momento de circular.
 
@@ -20,7 +20,7 @@ Las notificaciones electrónicas son obligatorias para empresas y voluntarias pa
 
 Otros puntos vigilados cercanos, también publicados por la DGT, son CA-33 pk 12,8 (3,1 km, radar de tramo); CA-33 pk 4,0 (4,1 km, cabina); CA-33 pk 4,4 (4,3 km, cabina); CA-36 pk 3,0 (5,6 km, cabina); A-408 pk 2,5 (8,1 km, cabina).
 
-La red andaluza de control fijo alcanza los 156 puntos entre cabinas y tramos; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
+La red andaluza de control fijo suma cabinas y tramos repartidos por toda la comunidad; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
 
 La ubicación procede del fichero oficial de radares de la DGT (publicación DATEX II), la única fuente que utilizamos para este registro.
 

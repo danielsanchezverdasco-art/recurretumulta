@@ -4,7 +4,7 @@ La Segarra no tiene prisa, y su radar tampoco. El del pk 5,403 de la L-310 vigil
 
 El problema es que las rectas de la Segarra engañan. Son largas, son despejadas, invitan a 95. Y el conductor, que viene de vías de 90, mantiene el 90 por inercia en la recta... hasta que llega la curva. El radar del 5,403 no está en la curva —esa la gestiona cada uno—, está en la recta, para que a la curva no se llegue a 95. Es prevención pura: mide donde se corre para proteger donde se gira.
 
-La denuncia se activa por encima de 70 más el margen del equipo, y el baremo en zona 70 es de los severos: a 101 ya hablamos de 300 euros y puntos. En una secundaria estrecha, cada km/h de más pesa más que en una autovía.
+La denuncia se activa por encima de 70 más el margen del equipo, y el baremo en zona 70 es de los severos: a 101 ya hablamos de sanción con pérdida de puntos. En una secundaria estrecha, cada km/h de más pesa más que en una autovía.
 
 La forma de recorrer la L-310: a 70 como techo, y a menos en las curvas por criterio propio. En las rectas, el 70 se siente lento: es la sensación correcta. En verano, el cereal dorado invita a la calma; en invierno, la niebla segarrenca convierte el 70 en 50. La Segarra tiene dos caras y las dos exigen respeto.
 

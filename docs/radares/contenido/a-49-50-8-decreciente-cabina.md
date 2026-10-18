@@ -20,7 +20,7 @@ El pronto pago reduce la multa a la mitad pero implica renunciar a recurrir; val
 
 Si sigues conduciendo por la zona, ten en cuenta estos otros radares oficiales: A-49 pk 46,3 (4,5 km, cabina); N-435 pk 199,9 (26,5 km, cabina); H-31 pk 79,9 (28,5 km, cabina); A-494 pk 13,0 (29,9 km, cabina).
 
-Andalucía concentra 156 puntos de control en el inventario oficial de la DGT: 147 cabinas fijas y 9 tramos de velocidad media, distribuidos por las ocho provincias.
+Andalucía concentra numerosos puntos de control en el inventario oficial de la DGT, entre cabinas fijas y tramos de velocidad media, distribuidos por las ocho provincias.
 
 Este punto figura en la publicación oficial de radares fijos de la DGT con fecha de verificación 18 de octubre de 2026.
 

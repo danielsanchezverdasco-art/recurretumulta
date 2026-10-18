@@ -20,7 +20,7 @@ Si viajas a diario por aquí, memoriza el punto y conviértelo en rutina: pasar 
 
 Muy cerca, la DGT publica además estos puntos de control: A-376 pk 3,0 (1,0 km, cabina); A-92 pk 0,8 (4,2 km, cabina); SE-30 pk 10,2 (4,3 km, cabina).
 
-De los 156 radares que la DGT publica en Andalucía, la mayoría son cabinas como esta; solo nueve son de tramo, el sistema de velocidad media.
+De los radares que la DGT publica en Andalucía, la mayoría son cabinas como esta; solo algunos son de tramo, el sistema de velocidad media.
 
 Este punto figura en la publicación oficial de radares fijos de la DGT con fecha de verificación 18 de octubre de 2026.
 

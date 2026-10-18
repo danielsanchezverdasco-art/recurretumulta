@@ -4,7 +4,7 @@ Ocho kilómetros después del final de la serie de 80, la C-58 se abre hacia Vac
 
 El pk 38,15 está en el Vallès Occidental interior, en el sector donde la C-58 discurre entre bosques con Montserrat al fondo. El 90 es el límite, pero el contexto es de vía rápida secundaria: el conductor que viene de la serie de 80 acelera con alivio y se pasa hasta 115 sin darse cuenta. El radar está colocado donde esa aceleración culmina.
 
-La denuncia, por encima de 90 más el margen, tiene un perfil de sancionado de transición: el que celebra el fin del 80 con un acelerón. En 8 km de vía abierta, la diferencia entre 90 y 115 es de menos de 2 minutos. El radar convierte esos 2 minutos en 100 euros.
+La denuncia, por encima de 90 más el margen, tiene un perfil de sancionado de transición: el que celebra el fin del 80 con un acelerón. En 8 km de vía abierta, la diferencia entre 90 y 115 es de menos de 2 minutos. El radar convierte esos 2 minutos en una denuncia.
 
 La forma de gestionar la transición 80-90: acelera con progresividad hasta 90 y fija la velocidad. No uses el cambio de límite como excusa: el radar está justo donde el acelerón se estabiliza. Y disfruta del paisaje: la C-58 hacia Vacarisses con Montserrat al fondo es una de las vistas más bonitas del Vallès. A 90 se disfruta; a 115 se denuncia.
 

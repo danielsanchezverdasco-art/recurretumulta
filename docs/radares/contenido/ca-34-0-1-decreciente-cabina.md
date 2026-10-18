@@ -20,7 +20,7 @@ Recibir la notificación en casa semanas después es lo habitual: el sistema ide
 
 Si sigues conduciendo por la zona, ten en cuenta estos otros radares oficiales: CA-34 pk 0,7 (0,4 km, cabina); A-7 pk 1106,2 (0,6 km, cabina); N-357 pk 0,5 (8,1 km, cabina).
 
-Con 156 puntos publicados, Andalucía es una de las comunidades con más controles fijos de la red estatal; este kilómetro forma parte de ese despliegue.
+Andalucía cuenta con un amplio despliegue de controles fijos de la red estatal; este kilómetro forma parte de ese despliegue.
 
 Este radar forma parte del inventario oficial que la DGT publica en su portal de datos abiertos, y su ubicación puede consultarse en el fichero XML de la Dirección General de Tráfico.
 

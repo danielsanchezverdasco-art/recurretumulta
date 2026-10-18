@@ -12,13 +12,13 @@ La cabina es una instalación fija: el cinemómetro mide la velocidad de cada ve
 
 Ojo: el inventario de la DGT no publica el límite de velocidad de cada radar, así que no lo inventamos. La referencia válida es la señalización que encuentres en la carretera.
 
-La sanción por exceso de velocidad depende del margen superado: puede ir desde los 100 euros sin pérdida de puntos hasta los 600 euros con seis puntos menos, e incluso constituir delito a partir de ciertos umbrales.
+La sanción por exceso de velocidad depende del margen superado: puede ir desde una multa leve sin pérdida de puntos hasta la sanción máxima con pérdida de puntos, e incluso constituir delito a partir de ciertos umbrales.
 
 La anticipación es la mejor aliada: si ves la señal de radar o conoces el punto, suelta el acelerador con tiempo en lugar de frenar bruscamente.
 
 Recuerda que identificar al conductor es obligatorio cuando el titular no era quien conducía; no hacerlo duplica la cuantía de la multa.
 
-Con 156 puntos publicados, Andalucía es una de las comunidades con más controles fijos de la red estatal; este kilómetro forma parte de ese despliegue.
+Andalucía cuenta con un amplio despliegue de controles fijos de la red estatal; este kilómetro forma parte de ese despliegue.
 
 Este radar forma parte del inventario oficial que la DGT publica en su portal de datos abiertos, y su ubicación puede consultarse en el fichero XML de la Dirección General de Tráfico.
 

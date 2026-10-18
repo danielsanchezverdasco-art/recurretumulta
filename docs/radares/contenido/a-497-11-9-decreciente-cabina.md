@@ -16,11 +16,11 @@ En caso de sanción, el titular dispone de veinte días naturales para acogerse 
 
 Si viajas a diario por aquí, memoriza el punto y conviértelo en rutina: pasar a velocidad legal debe ser un hábito, no una excepción.
 
-Superar el límite conlleva multas que oscilan entre 100 y 600 euros, con detracción de dos a seis puntos del permiso según la gravedad del exceso.
+Superar el límite conlleva multas proporcionales a la gravedad del exceso, con detracción de puntos del permiso.
 
 Si sigues conduciendo por la zona, ten en cuenta estos otros radares oficiales: A-497 pk 3,1 (7,4 km, cabina); A-497 pk 2,6 (7,9 km, cabina); A-494 pk 13,0 (12,8 km, cabina); H-31 pk 79,9 (15,9 km, cabina).
 
-Con 156 puntos publicados, Andalucía es una de las comunidades con más controles fijos de la red estatal; este kilómetro forma parte de ese despliegue.
+Andalucía cuenta con un amplio despliegue de controles fijos de la red estatal; este kilómetro forma parte de ese despliegue.
 
 La ubicación procede del fichero oficial de radares de la DGT (publicación DATEX II), la única fuente que utilizamos para este registro.
 

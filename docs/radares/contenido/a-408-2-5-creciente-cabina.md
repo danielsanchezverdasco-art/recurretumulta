@@ -16,6 +16,6 @@ Para quienes pasan a diario por la A-408, el pk 2,5 acaba formando parte del pai
 
 Otros puntos vigilados cercanos, también publicados por la DGT: CA-33 pk 12,8 (7,0 km, radar de tramo); CA-33 pk 9,1 (8,1 km, radar de tramo); CA-36 pk 3,0 (9,0 km, cabina).
 
-Andalucía concentra 156 puntos de control en el inventario oficial de la DGT: 147 cabinas fijas y 9 tramos de velocidad media, repartidos por las ocho provincias.
+Andalucía concentra numerosos puntos de control en el inventario oficial de la DGT, entre cabinas fijas y tramos de velocidad media, repartidos por las ocho provincias.
 
 [Ver la ubicación exacta en Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=36.52855,-6.15207)

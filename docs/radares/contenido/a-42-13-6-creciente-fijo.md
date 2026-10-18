@@ -8,7 +8,7 @@ El tramo peligroso es el del pk 13,6 en dirección Toledo. El patrón habitual e
 
 El límite de este punto no lo publica el dataset de la DGT, por lo que no se afirma ninguna cifra en este texto. Como siempre, la señalización del tramo es la única referencia válida. En vías de cercanías como la A-42, los límites pueden ajustarse a las características de cada tramo, así que darlos por supuestos es un error.
 
-¿Cuándo multa? Cuando se supera la velocidad señalizada en el punto de control. ¿Cómo afrontarlo? En las vías que usas a diario, la mejor estrategia es la del "modo crucero mental": decide una velocidad legal al salir de casa y no la cambies por mucho que conozcas la carretera. Los conductores habituales son los que más multas acumulan precisamente por exceso de confianza.
+¿Cuándo multa? Cuando se supera la velocidad señalizada en el punto de control. ¿Cómo afrontarlo? En las vías que usas a diario, la mejor estrategia es la del "modo crucero mental": decide una velocidad legal al salir de casa y no la cambies por mucho que conozcas la carretera. El exceso de confianza es el enemigo del conductor habitual: conocer la carretera no exime de respetarla.
 
 Como radares cercanos, en la misma A-42 y en sentido decreciente —hacia Madrid— está el control del pk 27,4. En paralelo, la A-4 mantiene sus cabinas en los kilómetros 12,5 y 13,3. El sur metropolitano está bien cubierto en todas sus autovías.
 

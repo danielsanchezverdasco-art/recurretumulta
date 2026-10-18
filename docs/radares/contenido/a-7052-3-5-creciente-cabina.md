@@ -20,7 +20,7 @@ Las notificaciones electrónicas son obligatorias para empresas y voluntarias pa
 
 Otros puntos vigilados cercanos, también publicados por la DGT, son A-7054 pk 8,8 (4,6 km, cabina); MA-20 pk 10,4 (10,3 km, cabina); A-45 pk 140,3 (15,0 km, cabina); A-45 pk 134,2 (17,3 km, radar de tramo).
 
-La red andaluza de control fijo alcanza los 156 puntos entre cabinas y tramos; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
+La red andaluza de control fijo suma cabinas y tramos repartidos por toda la comunidad; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
 
 Este radar forma parte del inventario oficial que la DGT publica en su portal de datos abiertos, y su ubicación puede consultarse en el fichero XML de la Dirección General de Tráfico.
 

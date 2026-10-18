@@ -4,7 +4,7 @@ Vandellòs tiene una central nuclear, y la N-340 tiene un radar. El del pk 1125,
 
 El 80 responde al sector: curvas, accesos, un trazado que entre Vandellòs y l'Hospitalet de l'Infant no admite 90 con seguridad. A 80, la vía se gestiona; a 95, cada curva es una apuesta. Trànsit reduce el límite donde el territorio lo exige, y el radar verifica que la reducción se respeta. La energía nuclear se gestiona con precisión milimétrica; la velocidad, también.
 
-El multado típico es el del escalón: viene a 90 del tramo anterior, no registra la señal de 80 y mantiene. No es un temerario; es un distraído. Y en zona 80, la distracción se paga con el baremo severo: a 111 ya son 300 euros y puntos. El escalón descendente es el radar más rentable del catálogo porque vive de la inercia, y la inercia es el estado natural del conductor.
+El multado típico es el del escalón: viene a 90 del tramo anterior, no registra la señal de 80 y mantiene. No es un temerario; es un distraído. Y en zona 80, la distracción se paga con el baremo severo: a 111 ya hay pérdida de puntos. El escalón descendente vive de la inercia, y la inercia es el estado natural del conductor.
 
 La táctica contra los escalones: en las nacionales costeras, cada cambio de comarca es un posible cambio de límite. Después de pasar un radar, mira las señales con ojos nuevos durante 5 km. El del 1125,33 está donde la reducción debe haberse producido: no vigila la transición, vigila el resultado. Suelta el acelerador al ver la señal y deja que el coche decelere solo: no hace falta frenar si anticipas.
 

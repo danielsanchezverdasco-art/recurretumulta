@@ -12,7 +12,7 @@ Datos del registro: vía la A-4, la Autovía del Sur, el gran eje que une Madrid
 
 Quien circule con el velocímetro en la cifra legal no tiene nada que temer: la clave está en anticiparse y no depender de frenazos de última hora.
 
-El importe final depende de cuánto se haya superado el límite: los excesos leves se saldan con 100 euros, mientras que los graves alcanzan los 600 y restan hasta seis puntos.
+El importe final depende de cuánto se haya superado el límite: los excesos leves conllevan la sanción mínima, mientras que los graves se castigan con dureza e implican la pérdida de puntos del permiso.
 
 Este registro no incluye velocidad límite: el XML oficial de la DGT no la contiene. Circula según la señalización vertical, que es la única referencia legal.
 
@@ -20,7 +20,7 @@ Las notificaciones electrónicas son obligatorias para empresas y voluntarias pa
 
 El mapa oficial de la DGT muestra en las inmediaciones: A-4 pk 416,1 (1,1 km, cabina); A-4 pk 415,2 (1,8 km, cabina); A-4 pk 410,1 (6,6 km, cabina); A-386 pk 11,3 (20,2 km, cabina).
 
-De los 156 radares que la DGT publica en Andalucía, la mayoría son cabinas como esta; solo nueve son de tramo, el sistema de velocidad media.
+De los radares que la DGT publica en Andalucía, la mayoría son cabinas como esta; solo algunos son de tramo, el sistema de velocidad media.
 
 Este radar forma parte del inventario oficial que la DGT publica en su portal de datos abiertos, y su ubicación puede consultarse en el fichero XML de la Dirección General de Tráfico.
 

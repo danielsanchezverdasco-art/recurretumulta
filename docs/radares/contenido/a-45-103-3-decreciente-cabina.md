@@ -20,7 +20,7 @@ La multa no es lo peor: la pérdida de puntos puede dejar sin permiso a quien ac
 
 Muy cerca, la DGT publica además estos puntos de control: A-45 pk 118,1 (12,3 km, cabina); A-45 pk 126,0 (18,6 km, radar de tramo); A-45 pk 126,0 (18,6 km, cabina); A-45 pk 128,8 (20,5 km, cabina).
 
-Este radar se integra en una red de 156 controles oficiales en Andalucía, pensada para cubrir los tramos de mayor riesgo de cada provincia.
+Este radar se integra en la red de controles oficiales de Andalucía, pensada para cubrir los tramos de mayor riesgo de cada provincia.
 
 La ubicación procede del fichero oficial de radares de la DGT (publicación DATEX II), la única fuente que utilizamos para este registro.
 

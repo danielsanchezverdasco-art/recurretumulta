@@ -18,6 +18,6 @@ El sentido decreciente merece una explicación: significa que el radar vigila a 
 
 Controles próximos publicados por la DGT: A-8057 pk 0,5 (0,2 km, cabina); A-49 pk 0,5 (2,7 km, cabina); SE-30 pk 11,1 (3,7 km, cabina).
 
-Fuente: fichero oficial de radares de la DGT (publicación DATEX II), verificado el 18 de octubre de 2026. Andalucía cuenta con 156 puntos fijos entre cabinas y tramos.
+Fuente: fichero oficial de radares de la DGT (publicación DATEX II), verificado el 18 de octubre de 2026. Andalucía cuenta con cabinas fijas y tramos de control repartidos por la comunidad.
 
 [Ver la ubicación exacta en Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=37.36296,-6.03451)

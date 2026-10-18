@@ -4,7 +4,7 @@ El último radar de la N-340 en el catálogo está en el kilómetro 1242,24, en 
 
 El pk 1242,24 está en el sector donde la N-340 discurre entre Sant Boi y Viladecans con el aeropuerto al lado. El 60 es el límite, pero el conductor que viene de 90-70 tiende a no reducir lo suficiente. El radar está para cerrar la secuencia descendente: 90 en la costa, 70 en la entrada, 60 en la ciudad. Cada escalón tiene su radar.
 
-La denuncia, por encima de 60 más el margen, aplica el baremo de zona 60: a 91 ya son 300 euros y 4 puntos; a 111, 600 y 6. Son cifras que invitan a reflexionar: en 3 km de vía urbana, la diferencia entre 60 y 90 es de menos de 2 minutos. El radar convierte esos 2 minutos en una sanción seria.
+La denuncia, por encima de 60 más el margen, aplica el baremo de zona 60: a 91 ya son sanción grave con pérdida de puntos; a 111, sanción máxima. Son sanciones que invitan a reflexionar: en 3 km de vía urbana, la diferencia entre 60 y 90 es de menos de 2 minutos. El radar convierte esos 2 minutos en una sanción seria.
 
 Cómo terminar la N-340: a 60 constantes, con la atención en la ciudad. Si tu destino es Barcelona, este radar es el último de la histórica: 1.242 km desde el sur que terminan con disciplina. La N-340 ha visto pasar la historia del Mediterráneo español: recorrerla entera a velocidad legal es un homenaje.
 

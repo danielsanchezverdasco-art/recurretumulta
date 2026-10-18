@@ -4,7 +4,7 @@ La TP-2031 discurre por l'Alt Camp, y el radar del kilómetro 4,766 vigila con l
 
 El pk 4,766 está en l'Alt Camp, en un sector de la TP-2031 con el perfil de la sierra al fondo. El 70 es el límite, pero el conductor que viene de vías de 90 tiende a mantener el 90 por inercia. El radar está para romper esa inercia: a 70, las curvas se trazan; a 95, cada curva es una apuesta.
 
-La denuncia, por encima de 70 más el margen, aplica un baremo severo: en zona 70, los 101 ya son 300 euros y puntos. El perfil del sancionado es el que recorre l'Alt Camp a ritmo de 90 «porque la carretera lo permite»: en las rectas lo permite, en las curvas no, y el radar está en la recta para que no se llegue a la curva a 95.
+La denuncia, por encima de 70 más el margen, aplica un baremo severo: en zona 70, los 101 ya conllevan la pérdida de puntos. El perfil del sancionado es el que recorre l'Alt Camp a ritmo de 90 «porque la carretera lo permite»: en las rectas lo permite, en las curvas no, y el radar está en la recta para que no se llegue a la curva a 95.
 
 Cómo circular por l'Alt Camp: a 70 constantes, adaptando la velocidad a cada tramo. En las rectas, el 70 se siente lento: es la sensación correcta en una local estrecha. En los cruces con caminos, levanta el pie por sistema.
 

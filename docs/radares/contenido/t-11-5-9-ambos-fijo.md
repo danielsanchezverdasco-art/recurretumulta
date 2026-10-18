@@ -4,7 +4,7 @@ El segundo radar de la T-11 está en el kilómetro 5,87, también a 100, y conti
 
 El pk 5,87 está en el sector donde la T-11 discurre entre Reus y el interior, con el aeropuerto como referencia. El 100 sigue siendo el límite y el radar está en uno de los tramos más rápidos: su función es cerrar la pareja y mantener la disciplina hasta el final del eje.
 
-La denuncia, por encima de 100 más el margen, tiene un perfil de sancionado de pareja: el que acelera entre radares. En 3,5 km, la diferencia entre 100 y 120 es de menos de 1 minuto. El radar convierte ese minuto en 100 euros.
+La denuncia, por encima de 100 más el margen, tiene un perfil de sancionado de pareja: el que acelera entre radares. En 3,5 km, la diferencia entre 100 y 120 es de menos de 1 minuto. El radar convierte ese minuto en una denuncia.
 
 La forma de tratar la pareja: un solo eje a 100, no dos radares sueltos. Mantén la velocidad y llega a tu destino sin denuncia. Si haces este trayecto a diario, interioriza que la T-11 nunca se corre: son 10 km de disciplina.
 

@@ -20,7 +20,7 @@ Además de la multa económica, hay que contar con la detracción de puntos: dos
 
 Otros puntos vigilados cercanos, también publicados por la DGT, son A-4 pk 415,2 (24,5 km, cabina); A-4 pk 417,6 (24,5 km, cabina); A-4 pk 416,1 (24,6 km, cabina); A-4 pk 410,1 (26,4 km, cabina).
 
-Este punto es uno de los 156 que la DGT tiene publicados en Andalucía, repartidos entre 147 cabinas y 9 radares de tramo, con Málaga y Sevilla a la cabeza en número de controles.
+Este punto es uno de los que la DGT tiene publicados en Andalucía, entre cabinas y radares de tramo.
 
 Los datos que aquí aparecen —vía, punto kilométrico, sentido, municipio y coordenadas— son los que la DGT publica en abierto, sin añadidos ni interpretaciones.
 

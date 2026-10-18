@@ -20,7 +20,7 @@ Además de la multa económica, hay que contar con la detracción de puntos: dos
 
 Otros puntos vigilados cercanos, también publicados por la DGT, son A-66 pk 795,6 (7,0 km, cabina); SE-20 pk 2,7 (10,5 km, cabina); SE-30 pk 0,4 (11,8 km, cabina); SE-30 pk 0,6 (12,0 km, cabina).
 
-Con 156 puntos publicados, Andalucía es una de las comunidades con más controles fijos de la red estatal; este kilómetro forma parte de ese despliegue.
+Andalucía cuenta con un amplio despliegue de controles fijos de la red estatal; este kilómetro forma parte de ese despliegue.
 
 La información de este control se extrae directamente del inventario oficial de la DGT; no utilizamos webs de avisadores ni datos sin contrastar.
 

@@ -20,7 +20,7 @@ Conviene recordar que estos equipos aplican los márgenes de error reglamentario
 
 En los alrededores hay otros controles publicados por la DGT: A-308 pk 34,6 (20,7 km, cabina).
 
-El mapa andaluz de radares fijos suma 156 ubicaciones oficiales; esta es una de ellas, y convive con otros 155 puntos repartidos por toda la comunidad.
+Esta ubicación forma parte del mapa andaluz de radares fijos publicado por la DGT, con controles repartidos por toda la comunidad.
 
 La información de este control se extrae directamente del inventario oficial de la DGT; no utilizamos webs de avisadores ni datos sin contrastar.
 

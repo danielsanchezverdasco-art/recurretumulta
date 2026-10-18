@@ -10,12 +10,12 @@ El entorno es el del levante almeriense: llanuras abiertas que invitan a acelera
 
 Del límite, nada oficial: el fichero de la DGT no incluye la velocidad máxima de cada radar. Guíate por las señales del tramo.
 
-Si te capta por encima del umbral, la multa oscila entre 100 y 600 euros según el exceso, con detracción de dos a seis puntos. La notificación llega al domicilio del titular: mantén tus datos actualizados en la DGT para no perder el plazo de alegaciones ni el descuento por pronto pago.
+Si te capta por encima del umbral, la multa es proporcional al exceso, con detracción de puntos del permiso. La notificación llega al domicilio del titular: mantén tus datos actualizados en la DGT para no perder el plazo de alegaciones ni el descuento por pronto pago.
 
 Un detalle que conviene recordar en viajes largos por la A-92: el cansancio distorsiona la percepción de la velocidad. Después de una hora de autovía, 130 se sienten como 110. Por eso los puntos fijos como este del pk 391,9 funcionan también como recordatorio físico: obligan a mirar el cuadro y a recolocar el pie. Hacer pausas cada dos horas y revisar la velocidad al retomar la marcha es la combinación que mejor funciona.
 
 Otros controles cercanos publicados por la DGT: A-7 pk 778,1 (0,7 km, cabina); AL-3115 pk 3,4 (13,8 km, cabina); A-7 pk 760,3 (14,9 km, cabina); N-340a pk 471,9 (18,9 km, cabina).
 
-Fuente: inventario oficial de radares de la DGT en formato DATEX II, verificado el 18 de octubre de 2026. Andalucía concentra 156 ubicaciones fijas: 147 cabinas y 9 tramos de velocidad media.
+Fuente: inventario oficial de radares de la DGT en formato DATEX II, verificado el 18 de octubre de 2026.
 
 [Ver la ubicación exacta en Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=36.89713,-2.41683)

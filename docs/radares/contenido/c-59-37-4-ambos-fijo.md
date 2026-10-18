@@ -4,7 +4,7 @@ La C-59 se adentra en el Moianès y el radar del kilómetro 37,365, cerca de Moi
 
 El pk 37,365 está en el sector donde la C-59 discurre entre hayedos y campos del Moianès, con un trazado sinuoso que no perdona excesos. El 70 es el límite, pero el contexto es de carretera de montaña baja: el radar está en uno de los pocos tramos donde la vía permite 70 de verdad. Su función es impedir que la velocidad de la llanura se mantenga en la montaña.
 
-La denuncia, por encima de 70 más el margen, aplica un baremo severo: en zona 70, los 101 ya son 300 euros y puntos. Y el contexto montañoso agrava cada exceso: a 95 en una curva del Moianès, el margen de seguridad se evapora. El radar del 37,365 no está para pillar despistados: está para impedir temeridades.
+La denuncia, por encima de 70 más el margen, aplica un baremo severo: en zona 70, los 101 ya conllevan la pérdida de puntos. Y el contexto montañoso agrava cada exceso: a 95 en una curva del Moianès, el margen de seguridad se evapora. El radar del 37,365 no está para pillar despistados: está para impedir temeridades.
 
 Cómo circular por el Moianès: a 70 como máximo, y a menos en las curvas por criterio propio. En otoño, la hoja caída vuelve el asfalto deslizante: a 70 con hoja, la distancia debe aumentar. Si vas en moto, el Moianès a 70 es una delicia entre semana, cuando no hay tráfico. Y en invierno, con hielo en las umbrías, el 70 debe convertirse en 50 sin dudarlo.
 

@@ -4,7 +4,7 @@ Tres kilómetros después del radar de 90, la C-12 baja el límite a 70 y el rad
 
 El cambio de 90 a 70 en 3 km es el clásico escalón periurbano, y este radar es el garante de que se respete. El conductor que viene a 90 del pk 144 debe reducir a 70, y la reducción no siempre se produce: la inercia, las prisas y la percepción de que «todavía es carretera» hacen que muchos mantengan el 90 hasta casi entrar en la ciudad. El radar está justo donde esa inercia debe romperse.
 
-La denuncia, por encima de 70 más el margen, aplica un baremo severo: en zona 70, los 101 ya son 300 euros y puntos. Y el contexto agrava la sanción moral, si no la legal: circular a 95 donde el límite es 70 y hay peatones cerca no es solo una infracción, es una temeridad. Los radares de entrada a ciudad no están para recaudar: están para que la velocidad urbana empiece donde empieza la ciudad, no 3 km después.
+La denuncia, por encima de 70 más el margen, aplica un baremo severo: en zona 70, los 101 ya conllevan la pérdida de puntos. Y el contexto agrava la sanción moral, si no la legal: circular a 95 donde el límite es 70 y hay peatones cerca no es solo una infracción, es una temeridad. Los radares de entrada a ciudad no están para recaudar: están para que la velocidad urbana empiece donde empieza la ciudad, no 3 km después.
 
 Cómo entrar en Lleida por el Eix: al ver la señal de 70, reduce de verdad, no de boquilla. Suelta el acelerador con antelación y deja que el coche decelere solo; no hace falta frenar si anticipas. A partir de aquí, conduce en modo urbano: atención a los pasos de peatones, a los autobuses y a los ciclistas. El Eix de l'Ebre termina aquí; tu viaje en coche por Lleida empieza con otras reglas.
 

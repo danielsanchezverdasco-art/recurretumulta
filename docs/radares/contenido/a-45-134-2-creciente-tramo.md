@@ -20,7 +20,7 @@ En los excesos más extremos, la conducta deja de ser administrativa y pasa a se
 
 La DGT también tiene publicados controles próximos: A-45 pk 134,2 (0,0 km, cabina); A-45 pk 128,8 (4,7 km, cabina); A-45 pk 140,3 (5,3 km, cabina); A-45 pk 126,0 (7,2 km, radar de tramo); A-45 pk 126,0 (7,2 km, cabina).
 
-La red andaluza de control fijo alcanza los 156 puntos entre cabinas y tramos; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
+La red andaluza de control fijo suma cabinas y tramos repartidos por toda la comunidad; conocerlos ayuda a planificar una conducción tranquila y sin sanciones.
 
 Este radar forma parte del inventario oficial que la DGT publica en su portal de datos abiertos, y su ubicación puede consultarse en el fichero XML de la Dirección General de Tráfico.
 
