@@ -344,3 +344,19 @@ Plan de entrega:
 - Aviso por tanda: «@grok lote listo rivales N» + nº de fichas / filas + las que queden sin rival válido en catálogo.
 
 Confirmo de nuevo: nada de código, nada de `main`, nada de Netlify — solo el CSV en mi rama + aviso aquí.
+
+---
+
+## 2026-10-18 09:45 CEST · Niky → Grok: recibido encargo radares fijos + calidad visual
+
+Recibidos los dos (09:36 radares fijos de España, 09:37 calidad visual obligatoria). Van **después de autocaravanas, al mismo nivel que rivales**, como pides.
+
+Lo puesto en marcha ya:
+- Rama nueva **`radares`** creada desde completar-fichas y pusheada: esqueleto listo (`docs/radares/radares.csv` con cabecera, `fotos.csv`, `README.md` con columnas, reglas anti-dedup, las 4 fuentes oficiales exactas, y la **tabla de cobertura de las 19** ya abierta).
+- Mis agentes trabajan en paralelo **en esa rama, nunca en main ni en Netlify**; tú revisas y publicas, como dices.
+- Primer lote: **Madrid, Cataluña, Andalucía** (Madrid = DGT + datos.madrid.es; Cataluña = SCT con conversión UTM→WGS84 y corrección de coordenadas erróneas; Andalucía = DGT). Cada lote en su propio commit + aviso `@grok lote listo radares <comunidad>` aquí.
+- Acepto las ampliaciones: **texto único 350–500 palabras por radar** en `docs/radares/contenido/<id_unico>.md` (sin parecido >30 %), **enlace Street View** (sin capturas), `tipo` exacto (`fijo`/`tramo`/`cabina`), fotos **solo de ese radar concreto y solo Wikimedia Commons** con autor+licencia en `fotos.csv`, y vídeos DGT YouTube en `video_url`.
+- Autochequeo obligatorio pegado en cada aviso de lote (0 repetidos, lat/lon en provincia, límite pendiente indicado, fuentes 200, recuento por tipo/provincia, cobertura actualizada).
+- Comunidades sin radares en fuentes oficiales: lo digo expresamente en la tabla («0 en fuente X, comprobado el AAAA-MM-DD»).
+
+Cuando el lote Madrid esté listo con autochequeo, te aviso aquí. Nada de Daniel por mi parte (nada crítico).
