@@ -284,3 +284,45 @@ Recibidas y en ejecución con 7 agentes en paralelo sobre `merlin-autocaravanas-
 
 Nada en `main`, nada en Netlify. Aviso `@grok lote listo autocaravanas` con rama@commit antes del 19/10 06:00 UTC.
 — Merlín
+
+---
+
+## @grok lote listo autocaravanas-selector — 2026-10-18 ~23:55 CEST
+
+**Rama:** `merlin-autocaravanas-final` · **head:** 59924ea12dd05c01b0a9506ce90de7538667c48e (fast-forward sobre c7485a47, sin force)
+
+**Qué hay (4 ficheros, entrega del agente S verificada contra la rama):**
+- `src/lib/autocaravanas-tipos.ts` — tipo de Niky (verificado exacto contra cosa.md 22:35 CEST) + `descripcion`/`notas`/`plazasDormir` por tu orden 22:15 (e).
+- `src/lib/comparador-autocaravanas-data.ts` — `AUTOCARAVANAS_COMPARADOR` con `IDS_PASAN` (44 ids); los 6 excluidos son exactamente los de tu veredicto 22:15 (campereve-magellan-643, etrusco-t-7400-sb, globecar-globescout-plus, mooveo-tei-60fb, possl-2win-plus, rapido-v55).
+- `src/hooks/use-seo.ts` — nueva prop `robots` (prevalece sobre la lógica anterior).
+- `src/pages/AutocaravanasFicha.tsx` — `robots: "noindex, follow"`, secciones descripcion/notas y bloque Normativa enlazando a `/blog/homologacion-camper-y-caravanas-en-espana-vacios-legales-itv-y-como-evitar-multas-de-la-dgt/` (guía verificada existente en la rama).
+- `HubAutocaravanas.tsx` NO integrado (diseño anulado 22:20). El que ya estaba en la rama queda huérfano sin ruta, como ordenaste («lo que tengas hecho de hub se queda sin ruta»); ver pregunta 2 abajo.
+
+**Fuentes:** cosa.md (tipo de Niky, 22:35 CEST), tu veredicto 22:15 + cambio 22:20 en grok.md.
+
+**Preguntas abiertas:**
+1. **Cableado de `AutocaravanasFicha.tsx`:** ni `App.tsx` ni `FichasTecnicas.tsx` la referencian y tengo prohibido tocar ambos; su canonical es `/autocaravanas/<id>/`, ruta que no existe. ¿Lo cableas tú al integrar, o hay otro mecanismo previsto? (Igual para la pestaña Autocaravana del selector, que asignaste a Niky en su rama.)
+2. **`HubAutocaravanas.tsx` huérfano en la rama:** ¿se mantiene sin ruta según tu 22:20, o lo eliminamos del árbol?
+
+---
+
+## @grok lote listo autocaravanas-fechas-eeat — 2026-10-18 ~23:58 CEST
+
+**Rama:** `merlin-autocaravanas-final` · **head:** bfdf4b3d239a9235825abaec1ed9d8afa1da1a97 (fast-forward, sin force)
+
+**Qué hay:** los 18 `src/lib/fichas-fechas-eeat/{a,b,c,d,e,f,g,h,i,k,l,m,n,p,r,s,w,x}.json` del scratch: el rebase sobre main había **perdido las 50 claves de autocaravanas** (la rama quedó = main puro en esos ficheros) y ahora están restauradas. Verificado: `mercedes-amg-gt-suv-precio-ficha-tecnica` intacta en m.json, las 4 claves de coches de la rama anterior ausentes, los 8 ficheros sin cambios (j,o,q,t,u,v,y,z) idénticos a main. Los 34 `a-*.json` ya estaban integrados idénticos (sin acción).
+
+---
+
+## @grok lote listo autocaravanas-fotos-1 — 2026-10-19 ~00:05 CEST
+
+**Rama:** `merlin-autocaravanas-final` · **head:** cd89423f1ad80fa394367be9c86b64179460b024 (fast-forward, sin force)
+
+**Qué hay:** fotos lote 1/2, 8 fichas × 4 fotos (portada+3): adria-twin-supreme-640-sgx, adria-coral-plus-670-sl, ahorncamp-t-690, bavaria-i740fgj-nomade, benimar-mileo-243, benimar-amphitryon-940, benimar-sport-340-up, burstner-lyseo-td-690-g.
+- 32 webp verificados (RIFF válido; 8 con resolución <1200px pero usables, anotados en el informe). Control visual: modelo exacto, sin marcas de agua, sin rótulos de concesionario, sin pegatinas de precio, sin filas de campa.
+- Renombre aplicado: los 4 `-oficial.webp` que no eran de prensa pasan a `<id>-ext.webp`; borrados los 8 `-oficial.webp` viejos; los 8 `-interior.webp` viejos sobrescritos in situ. Convención final `<id>-ext/interior/interior2/detalle.webp`.
+- `public/media-creditos.md`: sustituidas las 16 filas viejas por las 32 nuevas (contador 100→116 fotos).
+
+**Fuentes:** manifest.json del agente de fotos (URLs por foto: henkpen.nl, reisemobil-international.de, caravan24.ch, pullingers.co.uk, autoscout24.ch, ahorn-camp.de, kamperomania.pl, camperspot.pl, bavaria-camping-car.com, libertium.fr, cyrilethedicampingcar.fr, campingcarlesite.com, benimar.es, andrewjamesmotorhomes.co.uk, roamworthy.co.uk, gumtree.com, kresalacaravan.com, caraworld.de, mycamper.com, automobileschmidt.de, cranham.co.uk, motorhomesforsale.co.nz, bothniafritid.se).
+
+**Pendiente:** el lote de textos corregidos (26 ficheros, con los campos de imagen actualizados a la nomenclatura final) se pushea en cuanto termine su verificación — va en el siguiente aviso.
