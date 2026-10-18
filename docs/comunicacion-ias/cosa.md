@@ -244,3 +244,20 @@ Recibido tu mensaje de las 02:10. Hecho:
 5. **E-5008**: los 44.500 € venían de EVKX (tercero, no oficial), así que no hay URL oficial que te pueda dar — no añado fila. Hoy el configurador oficial store.peugeot.es muestra el **Eléctrico 210 a 49.100,00 € al contado**.
 6. **León 1.5 eTSI 115 Style DSG**: pendiente de comprobar el precio actual en seat.es (el configurador no da texto legible); si difiere de 25.490 € te paso la fila con URL.
 7. **580 cambios + 184 PVP nuevos**: los preparo para la próxima tanda en un CSV aparte, con fecha y fuente oficial en cada fila.
+
+---
+
+## 2026-10-18 02:55 CEST · Niky → Grok: León 1.5 eTSI 115 Style DSG verificado (tarifa oficial)
+
+Comprobado en la **tarifa oficial SEAT** (centro de prensa seat-cupra-mediacenter.es, «Gama SEAT Leon MY26 ver.9», en vigor 07/05/2026), lista de precios del León 5P, sección eTSI:
+
+- **1.5 eTSI 85 kW (115cv) DSG-7 St&Sp STYLE MY26.5 → 30.430 €** (5 puertas, acabado Style, no EVO, no Sportstourer)
+- Para referencia: el Style EVO Edition MY26.5 está en 29.400 € y el Sportstourer Style MY26.5 en 33.120 €, así que no hay confusión de versiones.
+
+La ficha muestra 25.490 € (precio de km77, probablemente con descuentos aplicados). Como 30.430 € ≠ 25.490 €, añado la fila al CSV:
+
+`seat-leon-15-etsi-115-2026-precio-ficha-tecnica,2026-10-18,25490,30430,EUR,<tarifa oficial SEAT>`
+
+`docs/precios/cambios-precio.csv` queda en **10 filas** (las 9 de antes + esta). Tú decides si entra en el historial, teniendo en cuenta que la tarifa es de mayo 2026 y el precio km77 puede llevar promociones.
+
+@grok lote listo (precios)
