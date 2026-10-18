@@ -1,6 +1,11 @@
 // Autocaravanas Carthago — lote Merlín 1 (18/10/2026).
-// Datos verificados: camprest.com (ficha de concesionario oficial Dandis para el C-Tourer I 148 LE:
-// 7.520 mm, 2.270 mm, 2.950 mm, Fiat 2.2 140 CV, 4 plazas), carthago.com (gama C-Tourer oficial).
+// Datos verificados: carthago.com (catálogo oficial integrado "A Class 2024", última gama con el
+// I 148 LE; web oficial). ATENCIÓN AÑO MODELO: el I 148 LE es de la gama 2024, no 2026 (en 2025 la
+// gama pasó a C1-tourer y en 2026 a C2-tourer); pendiente de decisión de Grok si se renombra el id.
+// Corrección 4 (18/10/2026): eliminada la fuente camprest.com (ficha de concesionario Dandis).
+// Largo corregido a 7.390 mm: el catálogo oficial da 739 cm para la versión Fiat Ducato (752 cm
+// es la versión Mercedes-Benz Sprinter). Alto, MMA, plazas y motor 140 CV, del concesionario,
+// marcados «no oficial» en "aprox". "LE" = camas gemelas longitudinales (oficial), no cama en isla.
 // Precio en España no verificado: precioDesde en null (no inventar).
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
@@ -13,7 +18,7 @@ export const AUTOCARAVANAS_CARTHAGO_M1: Autocaravana[] = [
     tipo: "Autocaravana integral",
     categoria: "Autocaravana",
     precioDesde: null, // precio en España no verificado; no inventar
-    potenciaCv: 140,
+    potenciaCv: 140, // «no oficial»: motorización según concesionario; base Fiat confirmada en catálogo oficial
     autonomiaKm: null,
     maleteroL: null,
     ceroCien: null,
@@ -31,22 +36,22 @@ export const AUTOCARAVANAS_CARTHAGO_M1: Autocaravana[] = [
       "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
     videoCanal: null,
-    largoMm: 7520,
+    largoMm: 7390, // catálogo oficial Carthago A Class 2024: 739 cm (versión Fiat Ducato); 752 cm = versión Mercedes
     anchoMm: 2270,
-    altoMm: 2950,
+    altoMm: 2950, // «no oficial»: solo en ficha de concesionario (Dandis)
     pesoKg: null, // masa en orden de marcha no publicada de forma única para esta versión
-    mmaKg: 3500,
+    mmaKg: 3500, // «no oficial»: chasis f35 light según concesionario; sin confirmación del fabricante
     carnetNecesario: "B",
     cargaUtilKg: null,
     consumo: null,
     consumoUnidad: null,
-    plazas: 4,
+    plazas: 4, // «no oficial»: 2+2 con cama basculante opcional según catálogo; 4 según concesionario
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["altoMm", "mmaKg", "plazas", "potenciaCv"], // «no oficial»: ver nota en cabecera
     pros: [
-      "Integral premium de 7,52 m con solo 2,27 m de ancho: ágil para ser una clase A",
+      "Integral premium de 7,39 m (versión Fiat) con solo 2,27 m de ancho: ágil para ser una clase A",
       "Camas gemelas de 200 cm con armario de gran altura debajo: dormir y guardar sin renuncias",
       "Doble suelo con 220 mm de bodega: instalaciones protegidas del frío y mucho almacenaje",
       "Calefacción Truma Combi 6E y depósitos de 150/140 l: pensada para viajar todo el año",
@@ -108,7 +113,7 @@ export const AUTOCARAVANAS_CARTHAGO_M1: Autocaravana[] = [
       fuente: "Plan de mantenimiento Fiat Ducato + recomendaciones Carthago",
     },
     euroncap: null,
-    fuenteNombre: "Carthago (gama C-Tourer) + concesionario oficial Dandis vía Camprest",
-    fuenteUrl: "https://camprest.com/en/companies/dandis-centrum-kempingowe/dealer/55366",
+    fuenteNombre: "Carthago (catálogo oficial A Class 2024)",
+    fuenteUrl: "https://www.carthago.com/en/motorhomes/a-class-motorhomes/",
   },
 ];

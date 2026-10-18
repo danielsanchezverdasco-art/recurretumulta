@@ -1,7 +1,10 @@
 // Autocaravanas Hymer — lote Merlín 1 (18/10/2026).
 // Datos verificados: hymer.com (web oficial; precios PVP recomendado Alemania, pueden diferir en España),
-// outandaboutlive.co.uk (prensa especializada), alpacacamping.de, fichas de catálogo 2026 de la red oficial.
+// outandaboutlive.co.uk (prensa especializada), fichas de catálogo 2026 de la red oficial.
 // Precios "desde" orientativos para España marcados en "aprox".
+// Corrección 4 (18/10/2026): precios confirmados en hymer.com (oficiales); eliminada la mención a
+// alpacacamping.de (concesionario). NOTA B-MC I 600: los 139.900 € son el "desde" de la GAMA B-MC I en
+// Alemania (corresponde a la variante I 580); el I 600 no tiene PVP específico publicado por Hymer.
 // NOTA ML-T 580 4x4: la tracción total exige la variante de peso de 4.100 kg (opcional 4.430 kg),
 // por lo que esta versión necesita carnet C1 (la ML-T 580 de tracción simple sí va con B).
 // En el año modelo 2026 Hymer ofrece la versión 4x4 también como edición especial «ML-T 580 CrossTrail»
@@ -121,7 +124,7 @@ export const AUTOCARAVANAS_HYMER_M1: Autocaravana[] = [
     modelo: "B-MC I 600",
     tipo: "Autocaravana integral",
     categoria: "Autocaravana",
-    precioDesde: 139900,
+    precioDesde: 139900, // "desde" de la gama B-MC I en Alemania (variante I 580); sin PVP específico del I 600
     potenciaCv: 150,
     autonomiaKm: null,
     maleteroL: null,

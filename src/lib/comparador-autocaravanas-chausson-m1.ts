@@ -1,6 +1,7 @@
 // Autocaravanas Chausson — lote Merlín 1 (18/10/2026).
 // Datos verificados: chausson-camping-cars.fr (PDF oficial de la gama Titanium),
-// leboncoin.fr (precio de unidad nueva 2026 en Francia, orientativo; en España puede diferir).
+// leboncoin.fr (precio «no oficial» de anuncio de concesionario en Francia, orientativo;
+// Chausson no publica PVP: su política es negociar el precio en la red de concesionarios).
 // Precio "desde" del 640 Titanium marcado en "aprox".
 // NOTA DE NOMENCLATURA: «727 GA» no existe en las colecciones oficiales 2026/2027
 // (fue un modelo de la colección 2019, descatalogado); la ficha corresponde al modelo
@@ -19,7 +20,7 @@ export const AUTOCARAVANAS_CHAUSSON_M1: Autocaravana[] = [
     modelo: "640 Titanium",
     tipo: "Autocaravana perfilada",
     categoria: "Autocaravana",
-    precioDesde: 68900,
+    precioDesde: 68900, // «no oficial»: anuncio de concesionario en LeBonCoin (Francia); Chausson no publica PVP
     potenciaCv: 170,
     autonomiaKm: null,
     maleteroL: null,
@@ -115,7 +116,7 @@ export const AUTOCARAVANAS_CHAUSSON_M1: Autocaravana[] = [
       fuente: "Plan de mantenimiento Ford Transit + recomendaciones Chausson",
     },
     euroncap: null,
-    fuenteNombre: "Chausson (PDF oficial gama Titanium) + LeBonCoin",
+    fuenteNombre: "Chausson (PDF oficial gama Titanium)",
     fuenteUrl:
       "https://www.chausson-camping-cars.fr/wp-content/uploads/chausson_titanium_2020_8pages-UK.pdf",
   },

@@ -2,6 +2,10 @@
 // Modelos: Twin Supreme 640 SGX + Coral Plus 670 SL (nombre oficial completo; el 670 SL
 // existe en acabados Plus y Supreme). Datos Coral Plus: ficha técnica Adria UK (adria.co.uk),
 // The Caravan Club, Out & About Live. Adria no publica PVP: precioDesde en null.
+// Corrección 4 (18/10/2026, solo Twin Supreme 640 SGX): verificado en adria-mobil.com (catálogo
+// oficial Campervans 2026–2027). Eliminadas las fuentes de concesionario/anuncio (AlpacaCamping,
+// Sia Magazin). El precio 67.490 € es orientativo «no oficial» (Adria no publica PVP). Datos marcados
+// «no oficial» en "aprox": ancho (oficial: 2.100 mm), alto y MMA no publicados por Adria para el 640 SGX.
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
@@ -12,7 +16,7 @@ export const AUTOCARAVANAS_ADRIA_M1: Autocaravana[] = [
     modelo: "Twin Supreme 640 SGX",
     tipo: "Camper (furgoneta camper)",
     categoria: "Autocaravana",
-    precioDesde: 67490,
+    precioDesde: 67490, // orientativo «no oficial» (concesionario); Adria no publica PVP
     potenciaCv: 140,
     autonomiaKm: null,
     maleteroL: null,
@@ -31,11 +35,11 @@ export const AUTOCARAVANAS_ADRIA_M1: Autocaravana[] = [
       "/media/adria-twin-supreme-640-sgx-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
     videoCanal: null,
-    largoMm: 6360,
-    anchoMm: 2050,
-    altoMm: 2590,
+    largoMm: 6360, // catálogo oficial: 6.363 mm
+    anchoMm: 2050, // «no oficial»: según concesionarios; catálogo oficial indica 2.100 mm
+    altoMm: 2590, // «no oficial»: altura no publicada por Adria para el 640 SGX
     pesoKg: null, // Adria publica horquillas 3.020-3.070 kg según equipamiento; sin cifra única oficial
-    mmaKg: 3500,
+    mmaKg: 3500, // «no oficial»: MMA no publicada por Adria para el 640 SGX
     carnetNecesario: "B",
     cargaUtilKg: null,
     consumo: null,
@@ -44,7 +48,7 @@ export const AUTOCARAVANAS_ADRIA_M1: Autocaravana[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precioDesde"],
+    aprox: ["precioDesde", "anchoMm", "altoMm", "mmaKg"], // «no oficial»: ver notas en cabecera
     pros: [
       "Cama trasera elevable eléctricamente: de garaje enorme a dormitorio con un botón",
       "Fiat Ducato 2.2 de 140 CV (180 CV opcional) con cambio automático de 8/9 velocidades",
@@ -108,8 +112,8 @@ export const AUTOCARAVANAS_ADRIA_M1: Autocaravana[] = [
       fuente: "Plan de mantenimiento Fiat Ducato + recomendaciones Adria",
     },
     euroncap: null,
-    fuenteNombre: "Adria (catálogo) + AlpacaCamping + Sia Magazin",
-    fuenteUrl: "https://www.alpacacamping.de/fahrzeuge/en/model/adria-twin-supreme/",
+    fuenteNombre: "Adria (web oficial, adria-mobil.com)",
+    fuenteUrl: "https://www.adria-mobil.com/vans/twin",
   },
   {
   id: "adria-coral-plus-670-sl-2026-precio-ficha-tecnica",

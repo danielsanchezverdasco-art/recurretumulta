@@ -1,8 +1,10 @@
 // Autocaravanas Sunlight — lote Merlín 1 (18/10/2026).
-// Datos verificados: sunlight.de (web oficial; T 68: 741/232/293 cm, 3.007 kg en orden de marcha,
-// Fiat Ducato 2.2 140 CV), alpacacamping.de (gama capuchina A: A 70 desde ~66.799 €, Citroën Jumper),
+// Datos verificados: sunlight.de (web oficial; T 68: 741/232/293 cm, Fiat Ducato 2.2 140 CV;
+// A 70: PVP oficial Alemania 66.799 €, 726/232/314 cm, Citroën Jumper 2.2 140 CV),
 // outandaboutlive.co.uk (prensa especializada).
-// Precio del A 70 marcado en "aprox" (Alemania); precio del T 68 en España no verificado (null).
+// Corrección 4 (18/10/2026): precio del A 70 confirmado en sunlight.de (oficial); eliminada la
+// fuente alpacacamping.de (concesionario). Precio del A 70 en "aprox" (PVP Alemania, no España).
+// T 68: peso actualizado a 2.992 kg (dato oficial vigente en sunlight.de).
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
@@ -34,7 +36,7 @@ export const AUTOCARAVANAS_SUNLIGHT_M1: Autocaravana[] = [
     largoMm: 7410,
     anchoMm: 2320,
     altoMm: 2930,
-    pesoKg: 3007, // masa en orden de marcha según sunlight.de (horquilla 2.857-3.157)
+    pesoKg: 2992, // masa en orden de marcha según sunlight.de (horquilla oficial 2.842-3.142)
     mmaKg: 3500,
     carnetNecesario: "B",
     cargaUtilKg: null,
@@ -139,7 +141,7 @@ export const AUTOCARAVANAS_SUNLIGHT_M1: Autocaravana[] = [
     largoMm: 7260,
     anchoMm: 2320,
     altoMm: 3140,
-    pesoKg: null, // masa en orden de marcha no publicada de forma única para esta versión
+    pesoKg: 3008, // masa en orden de marcha según sunlight.de (horquilla oficial 2.858-3.158)
     mmaKg: 3500,
     carnetNecesario: "B",
     cargaUtilKg: null,
@@ -155,7 +157,7 @@ export const AUTOCARAVANAS_SUNLIGHT_M1: Autocaravana[] = [
       "La cama sobre la cabina no se recoge nunca: los niños la dejan hecha toda la semana",
       "Mesa de comedor para toda la familia: desayunos sin turnos ni taburetes plegables",
       "Mecánica Citroën Jumper emparentada con la Ducato: mantenimiento en cualquier taller",
-      "Tres quemadores y frío trivalente en la cocina: menús completos lejos del camping",
+      "Dos quemadores y frío trivalente en la cocina (oficial Sunlight): menús completos lejos del camping",
     ],
     contras: [
       "La chepa aerodinámica se paga en el surtidor: gasta más que una perfilada equivalente",
@@ -213,8 +215,8 @@ export const AUTOCARAVANAS_SUNLIGHT_M1: Autocaravana[] = [
       fuente: "Plan de mantenimiento Citroën Jumper + recomendaciones Sunlight",
     },
     euroncap: null,
-    fuenteNombre: "Sunlight (web oficial) + AlpacaCamping",
-    fuenteUrl: "https://www.alpacacamping.de/fahrzeuge/en/model/sunlight-alkoven-a/",
+    fuenteNombre: "Sunlight (web oficial)",
+    fuenteUrl: "https://www.sunlight.de/modelle/reisemobile/alkoven/a-70/",
   },
   {
     id: "sunlight-cliff-640-2026-precio-ficha-tecnica",

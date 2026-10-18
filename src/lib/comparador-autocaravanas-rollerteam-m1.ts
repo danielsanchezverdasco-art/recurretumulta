@@ -1,7 +1,11 @@
 // Autocaravanas Roller Team — lote Merlín 1 (18/10/2026).
-// Datos verificados: caravanclub.co.uk (Motorhome Design Awards: 3.500 kg, 2.935 kg en orden de
-// marcha, 6 plazas, Truma Combi 6E), bridgendleisurevehicles.co.uk (7,47/2,35/3,20 m),
-// camplify.co.uk (chasis Ford Transit actual).
+// Datos verificados: rollerteammotorhomes.co.uk (web OFICIAL UK de Roller Team; PDF oficial de
+// especificaciones Auto-Roller temporada 2026: 7,24/2,35/3,20 m, 2.935 kg, 3.500 kg, 6 plazas,
+// Ford Transit 2.0 TDI 130 CV). La gama Auto-Roller es exclusiva del mercado británico (en
+// rollerteam.it no existe). Corrección 4 (18/10/2026): eliminadas las fuentes de concesionario
+// (Bridgend Leisure), alquiler (Camplify) y el largo 7,47 m del concesionario (oficial: 7,24 m).
+// Calefacción: 6 kW gas/eléctrica (oficial; la marca "Truma Combi 6E" es de prensa). Cinturones:
+// 6 con cambio manual, 5 con automático (oficial).
 // Precio en España no verificado: precioDesde en null (no inventar).
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
@@ -14,7 +18,7 @@ export const AUTOCARAVANAS_ROLLERTEAM_M1: Autocaravana[] = [
     tipo: "Autocaravana capuchina",
     categoria: "Autocaravana",
     precioDesde: null, // precio en España no verificado; no inventar
-    potenciaCv: null, // motorización según mercado (Ford Transit actual); sin dato único verificado
+    potenciaCv: 130, // Ford Transit 2.0 TDI Euro 6D 130 CV (oficial; opcionales: 165 CV y automático)
     autonomiaKm: null,
     maleteroL: null,
     ceroCien: null,
@@ -32,10 +36,10 @@ export const AUTOCARAVANAS_ROLLERTEAM_M1: Autocaravana[] = [
       "/media/roller-team-auto-roller-746-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
     videoCanal: null,
-    largoMm: 7470,
+    largoMm: 7240, // PDF oficial Roller Team UK 2026: 7,24 m
     anchoMm: 2350,
     altoMm: 3200,
-    pesoKg: 2935, // masa en orden de marcha según Caravan Club
+    pesoKg: 2935, // masa en orden de marcha según PDF oficial Roller Team UK 2026
     mmaKg: 3500,
     carnetNecesario: "B",
     cargaUtilKg: null,
@@ -54,9 +58,9 @@ export const AUTOCARAVANAS_ROLLERTEAM_M1: Autocaravana[] = [
       "Roller Team (grupo Trigano): buena relación equipamiento/precio en capuchinas familiares",
     ],
     contras: [
-      "7,47 m de largo y 3,20 m de alto: la más voluminosa del lote; consumo y peajes lo notan",
+      "7,24 m de largo y 3,20 m de alto: la más voluminosa del lote; consumo y peajes lo notan",
       "La capuchina penaliza la aerodinámica: en autopista gasta más que una perfilada",
-      "Solo 5 cinturones para 6 plazas: el sexto viaja... no viaja; ojo al homologar plazas",
+      "6 cinturones con cambio manual, 5 con automático (oficial): con el automático, una plaza duerme pero no viaja",
       "El salón trasero en U obliga a pasar por la cocina para ir al baño de noche",
       "Precio en España no publicado: comparar exige pedir oferta a varios concesionarios",
     ],
@@ -109,8 +113,8 @@ export const AUTOCARAVANAS_ROLLERTEAM_M1: Autocaravana[] = [
       fuente: "Plan de mantenimiento Ford Transit + recomendaciones Roller Team",
     },
     euroncap: null,
-    fuenteNombre: "Caravan Club (Design Awards) + Bridgend Leisure + Camplify",
+    fuenteNombre: "Roller Team (web oficial UK, PDF especificaciones 2026)",
     fuenteUrl:
-      "https://www.caravanclub.co.uk/whats-on/awards/motorhome-design-awards/Roller-Team/",
+      "https://www.rollerteammotorhomes.co.uk/wp-content/uploads/sites/4/2025/06/auto-roller-tech-spec-tables-2026.pdf",
   },
 ];

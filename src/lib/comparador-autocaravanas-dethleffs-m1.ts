@@ -1,6 +1,10 @@
 // Autocaravanas Dethleffs — lote Merlín 1 (18/10/2026).
-// Datos verificados: caravanguard.co.uk (factfile del modelo), truckscout24.si (ficha de unidad),
-// dethleffs.co.uk (gama Trend actual).
+// Datos verificados: caravanguard.co.uk (factfile del modelo, prensa especializada),
+// dethleffs.co.uk / dethleffs.com (gama Trend actual, web oficial).
+// Corrección 4 (18/10/2026): el Trend T 6717 EB está DESCATALOGADO (sustituido por el T 6617 EB
+// en la lista oficial 2026); Dethleffs no publica ficha oficial de este modelo. Eliminada la fuente
+// truckscout24.si (portal de anuncios). Dimensiones, MMA y plazas, de concesionarios y prensa,
+// quedan marcadas «no oficial» en "aprox".
 // Precio en España no verificado: precioDesde en null (no inventar).
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
@@ -31,20 +35,20 @@ export const AUTOCARAVANAS_DETHLEFFS_M1: Autocaravana[] = [
       "/media/dethleffs-trend-t-6717-eb-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
     videoCanal: null,
-    largoMm: 6960,
-    anchoMm: 2330,
-    altoMm: 2940,
+    largoMm: 6960, // «no oficial»: modelo descatalogado; 6,96 m según concesionarios y prensa
+    anchoMm: 2330, // «no oficial»: sin ficha oficial del modelo (coincide con la gama actual)
+    altoMm: 2940, // «no oficial»: 2,94 m según prensa (CaravanGuard)
     pesoKg: null, // masa en orden de marcha no publicada de forma única para esta versión
-    mmaKg: 3499,
+    mmaKg: 3499, // «no oficial»: sin cifra oficial del modelo (3.499 kg en gama actual y prensa)
     carnetNecesario: "B",
     cargaUtilKg: null,
     consumo: null,
     consumoUnidad: null,
-    plazas: 4,
+    plazas: 4, // «no oficial»: 4 plazas según prensa y concesionarios
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["largoMm", "anchoMm", "altoMm", "mmaKg", "plazas"], // «no oficial»: ver cabecera
     pros: [
       "Marca alemana con fábrica propia en Isny (Allgäu): integración vertical y control de calidad total",
       "Garantía de 10 años contra infiltraciones de agua: la más larga entre las perfiladas generalistas",
@@ -108,7 +112,7 @@ export const AUTOCARAVANAS_DETHLEFFS_M1: Autocaravana[] = [
       fuente: "Plan de mantenimiento Fiat Ducato + recomendaciones Dethleffs",
     },
     euroncap: null,
-    fuenteNombre: "Dethleffs (gama Trend) + CaravanGuard + TruckScout24",
-    fuenteUrl: "https://www.dethleffs.co.uk/motorhomes/trend-active",
+    fuenteNombre: "Dethleffs (web oficial, gama Trend) + CaravanGuard (prensa especializada)",
+    fuenteUrl: "https://www.dethleffs.com/motorhomes/trend", // gama Trend oficial (el T 6717 EB está descatalogado)
   },
 ];

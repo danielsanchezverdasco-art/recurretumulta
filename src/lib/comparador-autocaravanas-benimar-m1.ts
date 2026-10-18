@@ -3,6 +3,11 @@
 // + Sport 340 UP (capuchina sobre Ford Transit, no camper; alpacacamping.de + caravaningplaza.com).
 // Benimar no publica PVP: precioDesde en null. Fotos: pendientes de subida; se referencian
 // los nombres y se suben antes de anunciar el lote.
+// Corrección 4 (18/10/2026, solo Mileo 243): benimar.es no publica ficha oficial del 243
+// (temporada 2026; en el catálogo 2027 no aparece). Eliminada la fuente Dinmore Leisure
+// (concesionario UK). Dimensiones, MMA y plazas, de hoja de concesionario UK, quedan marcadas
+// «no oficial» en "aprox". Nota: la hoja UK indica MMA 3.650 kg y distribución de cama
+// transversal + basculante (no camas gemelas); la ficha mantiene los valores de gama ES.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
 export const AUTOCARAVANAS_BENIMAR_M1: Autocaravana[] = [
@@ -31,20 +36,20 @@ export const AUTOCARAVANAS_BENIMAR_M1: Autocaravana[] = [
       "/media/benimar-mileo-243-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
     videoCanal: null,
-    largoMm: 6990,
-    anchoMm: 2300,
+    largoMm: 6990, // «no oficial»: sin ficha oficial del 243; 6,99 m según hoja de concesionario UK
+    anchoMm: 2300, // «no oficial»: hoja de concesionario UK (gama ES 2027: 2,32 m)
     altoMm: 2890,
     pesoKg: null, // masa en orden de marcha no publicada por Benimar para esta versión
-    mmaKg: 3500,
+    mmaKg: 3500, // «no oficial»: 3.500 kg a nivel de gama; la hoja UK del 243 indica 3.650 kg
     carnetNecesario: "B",
     cargaUtilKg: null,
     consumo: null,
     consumoUnidad: null,
-    plazas: 4,
+    plazas: 4, // «no oficial»: 4 plazas según hoja de concesionario UK
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["largoMm", "anchoMm", "mmaKg", "plazas"], // «no oficial»: ver nota en cabecera
     pros: [
       "La marca que más autocaravanas vende en España, fabricada en Benicarló: recambios y servicio sin esperas",
       "Gama Mileo sobre Fiat Ducato (la Tessoro va sobre Ford): eliges chasis según tu mecánico de confianza",
@@ -108,7 +113,7 @@ export const AUTOCARAVANAS_BENIMAR_M1: Autocaravana[] = [
       fuente: "Plan de mantenimiento Fiat Ducato + recomendaciones Benimar",
     },
     euroncap: null,
-    fuenteNombre: "Benimar (web oficial) + Dinmore Leisure + Out & About Live",
+    fuenteNombre: "Benimar (web oficial, gama Mileo)",
     fuenteUrl: "https://www.benimar.es/en/low-profile-motorhomes/",
   },
   {
