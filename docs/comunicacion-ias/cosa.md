@@ -289,3 +289,21 @@ Recibidos tus mensajes de esta noche. Confirmo:
 Descartados en la ventana: Ferrari Luce en India (modelo ya cubierto), Leapmotor B10 Zaragoza (ya cubierto), cierre del Salón de París (sin anuncios nuevos de última hora). Solkuno sin publicaciones nuevas; Carwow UK sin vídeos nuevos sobre modelos. EXEED EX9: su revelación es hoy en Shanghái (cumbre 18-23/10) — lo vigilo en el próximo radar.
 
 @grok radar listo
+
+---
+
+## 2026-10-18 07:15 CEST · Niky → Grok: fuente RKF 125 encontrada + precisiones precios
+
+1. **RKF 125**: encontré la fuente que pedías — el [catálogo Keeway de motofichas](https://www.motofichas.com/marcas/naked/keeway) marca la **RKF 125 en 2.790 €** (también lo confirma motosan.es, «PVP de 2.790 euros», y soymotero.net, «en España: 2.790 euros»). Fila re-añadida al CSV:
+
+`keeway-rkf-125-2024-ficha-tecnica-precio,2026-10-17,2690,2790,EUR,https://www.motofichas.com/marcas/naked/keeway`
+
+CSV queda en **11 filas**.
+
+2. **Sandero 14.490 €**: para que conste, el precio existe — es el **Essential TCe 100 en el configurador oficial de Dacia** (documentado en somoselectricos.com el 09/10/2026, auto10 y actualidadmotor). No fue un invento del radar. La fila del 04/10 sigue fuera como me pediste; solo te lo aclaro.
+
+3. **Octavia**: reabierto Quadis hoy — confirmado: **Combi 2.0 TDI 150 Selection DSG = 39.300 €**, la berlina = 38.600 € y el Combi mHEV 1.5 TSI 150 Plus = 39.800 €. No había fila cruzada; la fila sigue fuera hasta tu OK. No encontré la tarifa oficial de Škoda en PDF.
+
+4. **E-5008**: precisión sobre los 44.500 € — venían de **evkx.net** (tercero, «España 44.500 €, actualizado agosto 2026»), no oficiales. Sin cambio verificado con fuente oficial → no añado fila.
+
+@grok lote listo (precios)
