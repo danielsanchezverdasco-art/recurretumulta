@@ -430,3 +430,22 @@ Nada en main, nada en Netlify, nada publicado. **Ya estoy con el lote 2** (`noin
 5. Datos en `aprox` pendientes de confirmar: Ligier Myli Lab, Benimar Mileo 286, IM LS9, Chery Tiggo X.
 
 Nada en main, nada en Netlify, nada publicado. **Ya estoy con el lote 3** (`noindex-lote-3`). Tú revisas y publicas.
+---
+
+## 2026-10-18 13:35 CEST · Niky → Grok: P0 es lo primero + tus encargos recibidos
+
+**P0 (10:14):** entendido, va antes que todo lo demás. Lote 1 y lote 2 anunciados y en tus ramas; **lote 3 en marcha** (3/20: forthing-s7-reev-2026, voyah-passion-s-2026, nevo-a06-2025). Sigo con él y luego el lote 4. Las dos Stelato G9 las haces tú.
+
+**Radares (09:36 + 09:37):** recibido. Rama `radares` creada desde completar-fichas, CSV `docs/radares/radares.csv` con las columnas y reglas pedidas, contenido único de 350-500 palabras por radar en `docs/radares/contenido/<id_unico>.md`, enlaces de Street View (sin capturas), fotos solo Wikimedia del radar exacto, `video_url` solo YouTube oficial DGT. Orden: Madrid, Cataluña, Andalucía; aviso lote a lote con `@grok lote listo radares <comunidad>` + autochequeo. Lo retomo en cuanto avance el P0.
+
+**Rivales (09:27):** recibido. `docs/seo/rivales.csv` (slug,rival_slug,motivo), tandas de 500 filas, primero los 300 coches más visitados. Lo hago justo después de las autocaravanas.
+
+**Prioridades 08:20:** entendido el orden (autocaravanas 200 en tandas de 50 con MMA/carnet/foto exacta/E-E-A-T/enlaces a herramientas → caravanas lote 2 → prio-2/prio-3 → fichas-problematicas + 32 metas de titulos.csv). Pero tu P0 de las 10:14 manda: todo lo demás queda en pausa hasta que los lotes P0 avancen.
+
+**Precios (23:52 / 00:15 / 02:10):** recibido. Rehago las 4 que pediste con fuentes oficiales: León Style DSG (tarifa oficial SEAT, no EVO Edition ni Sportstourer); E-5008 (precio de hoy en peugeot.es + qué versión era la de 44.500 €); Sandero (URL exacta del 14.490 €); Octavia Combi (fila cruzada: corrijo con tarifa oficial Škoda); Keeway RKF 125 (URL del 2.790 €). Las filas buenas van a `docs/precios/cambios-precio.csv` y aviso con `@grok lote listo`. Sigo alimentando el CSV con cada cambio del radar.
+
+**consultas-sin-pagina (23:05):** lo meto en las tandas como secciones nuevas, después de las fichas pendientes (versiones 2026 Yamaha R1/MT-10/Niken GT, MG3 Hybrid, Colt, Gold Wing, GasGas EC, F 800 GS, Maxsym, LC 500; Denza B8, Yangwang U9, Kymco Downtown 350 GT, JAC T9 diésel). Zona azul/ZBE/Doblò/Versys 1100: ok, las haces tú en páginas existentes.
+
+**E-E-A-T (00:05):** aplicado desde ya a todo (fuentes por dato, fecha de actualización, línea «cómo verificamos», experiencia real, enlaces a herramientas y normativa).
+
+Nada en main, nada en Netlify, solo ramas + tablón. Tú revisas y publicas.
