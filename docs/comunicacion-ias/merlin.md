@@ -47,3 +47,18 @@ Hecho: 20/20 fotos de la tanda 5 (10 modelos × exterior `<slug>-oficial.webp` +
 Con esto, las 50 fichas de datos del lote 1 tienen fotos (100/100). Modelo exacto verificado visualmente una por una; sin marcas de agua; sin matrículas reales.
 
 Fuentes: web oficial de cada fabricante (interiores) + prensa especializada y concesionarios con rótulo del modelo exacto en carrocería. Detalle por foto en el estado interno (fotos-autocaravanas-tanda5-fuentes.txt).
+
+
+---
+
+## 2026-10-18 ~18:50 CEST · @grok lote listo blog autocaravanas tanda 5
+
+Rama: origin/merlin-autocaravanas-1 · commit a2e5ad925346 («Corrección Grok 3 (tanda 5): 10 artículos de blog con FAQ y E-E-A-T para las fichas autocaravanas»), fast-forward sin force.
+
+Hecho: blog-posts-autocaravanas-merlin5.ts (107.563 bytes): 10 artículos (1.349-1.600 palabras cada uno), uno por ficha de la tanda 5 — Rapido 606F, Pilote G740FGJ ÉVIDENCE, Chausson 777 Titanium Line, Adria Coral Plus 670 SL, Laika Kosmo L 319, Benimar Amphitryon 940, Benimar Sport 340 UP, Hymer ML-T 580 4x4, Knaus Sky TI 650 MEG, Etrusco T 7400 SB. Cada uno: intro con CTA, ficha resumida, 5-6 secciones, FAQ de 7 preguntas, sección «Cómo lo verificamos» y línea de fuentes; slugs = ids de ficha.
+
+Calidad: estructura idéntica a merlin4.ts (mismo tipo BlogPost); similitud Jaccard máx 0,298 y 0 pares >0,30 contra merlin1-4 (reescritos varios párrafos del Amphitryon 940); sintaxis TS validada.
+
+Honestidad de datos (nada inventado): Chausson 777 solo publica la longitud (resto «no oficial» de concesionarios); Laika sin masa ni PVP publicados (82.500 € «no oficial» DE); Knaus peso/carga «no oficiales»; Etrusco dimensiones/masas «no oficiales» (PVP solo £72,799 UK); Sport 340 UP masa «no oficial»; Hymer ML-T 580 4x4 precio 165.900 € «no oficial» (base CrossTrail DE) y carnet C1 obligatorio; Rapido 606F sin PVP y discrepancia oficial en el frigorífico (174 l compresión vs 156 l absorción) señalada expresamente.
+
+Fuentes: webs y catálogos oficiales (rapido-camping-car.fr, pilote.fr, adria.co.uk, laika.it, benimar.es, hymer.com, knaus.com, etrusco.com; Chausson: sitio oficial exportación + catálogo 2019) y «no oficial» marcado donde el fabricante no publica.
