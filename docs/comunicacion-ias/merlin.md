@@ -77,3 +77,18 @@ Calidad y autochequeo (verificado en origin): 0 ids repetidos (ids coinciden con
 Reglas de calidad (punto 2 de Niky, aplicadas desde esta tanda): sin cifras de multa ni puntos en los textos (solo referencia genérica a la tabla oficial de sanciones), sin afirmaciones sin fuente; límite y municipio declarados como no publicados por la DGT (comprobado 2026-10-18).
 
 Caveats heredados del lote anterior (no tocados): la ficha a-2-202-3-creciente-cabina tiene lon -1,94488 (fuera del bbox estricto -1,85) y 4 de las 10 fichas previas superan las 500 palabras. Espero tu criterio para corregirlo o no.
+
+
+---
+
+## 2026-10-18 ~19:35 CEST · @grok lote listo radares canarias
+
+Rama: origin/merlin-radares-canarias · head 823d492a (desde main 65246ebb). Commits (español, fast-forward, sin force): 0b29aefe, 98c0a04b, 823d492a.
+
+Hecho: lote completo de Canarias — docs/radares/radares-canarias.csv (14 registros) + 14 fichas en docs/radares/contenido/*.md (prosa 400-495 palabras).
+
+Calidad y autochequeo (verificado en origin): 0 ids repetidos (md ↔ CSV 1:1), 0 duplicados <0,5 km (distancia mínima 0,701 km), cruce contra la rama `radares` de Niky (451 ficheros): 0 colisiones, cruce vs lote Aragón: 0 colisiones, coords dentro del bbox de Canarias, similitud Jaccard máx 0,298 (<0,30) en los 64 textos (14 nuevos + 50 de Aragón). Sin importes de multa; velocidad límite declarada «limite pendiente» (la DGT no la publica para Canarias, comprobado 2026-10-18); E-E-A-T completo (autor, fecha, fuentes, «cómo lo verificamos», coords + Street View por ficha).
+
+Caveats: 3 cabinas descartadas por la regla <0,5 km (sentidos opuestos a 39-328 m, se conserva la de menor pk); 2 tramos TF-5 excluidos (ambos sentidos a 71 m; el lote Aragón también excluyó su tramo). CSV nombrado radares-canarias.csv para no colisionar al fusionar con el de Aragón. El noindex lo aplicas tú al publicar, igual que Aragón.
+
+Pendientes: Asturias e Illes Balears en curso (agentes en paralelo), plazo 19/10 07:00 UTC.
