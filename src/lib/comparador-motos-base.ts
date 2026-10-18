@@ -809,7 +809,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     version: "E-Track",
     cilindradaCc: null,
     categoria: "Urbana",
-    precioDesde: 9400,
+    precioDesde: 8400,
     potenciaKw: 11,
     potenciaCv: 15,
     autonomiaKm: 120,
@@ -832,7 +832,7 @@ export const MOTOS_BASE: MotoComparador[] = [
       "Baterías Bosch con unos 3.000 ciclos estimados (~10 años de vida útil)",
     ],
     contras: [
-      "Precio alto (9.400€) para una moto de 11 kW",
+      "Precio alto (8.400€) para una moto de 11 kW",
       "Baterías no extraíbles: hay que cargarla donde se aparca",
       "Carga lenta: unas 6 horas en un enchufe doméstico",
       "Autonomía limitada en modo Boost (~80 km)",
@@ -844,6 +844,7 @@ export const MOTOS_BASE: MotoComparador[] = [
       "Varias piezas (soporte de pantalla, faro, caja de cableado) se fabrican con impresión 3D en la Zona Franca de Barcelona",
       "Su sistema Bosch de bajo voltaje (48 V) permite que cualquier mecánico la mantenga sin certificación especial de alta tensión",
       "El fundador, Jim Palau-Ribes, es ingeniero industrial y registró la marca Pursang porque estaba libre",
+      "La empresa pidió la liquidación en 2024 tras vender solo 50 de las 70 unidades producidas (Motorpasión Moto)",
     ],
     imagen: "/media/pursang-e-track-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -862,8 +863,8 @@ export const MOTOS_BASE: MotoComparador[] = [
     ],
     videoId: "S3zM37sbWFo",
     videoCanal: "MotorADN Canal TV",
-    fuenteNombre: "Pursang Motorcycles",
-    fuenteUrl: "https://pursangmotorcycles.com/",
+    fuenteNombre: "Motorpasión Moto",
+    fuenteUrl: "https://www.motorpasionmoto.com/motos-electricas/marca-espanola-motos-electricas-que-pretendia-ser-bultaco-siglo-xxi-se-va-a-pique-panorama-oscuro/amp",
     analisisSlug: null,
   },
   {
