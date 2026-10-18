@@ -32,6 +32,7 @@ import Relacionados from "@/components/Relacionados.tsx";
 import DescargarFichaPDF from "@/components/DescargarFichaPDF.tsx";
 import BotonCazachollos from "@/components/BotonCazachollos.tsx";
 import { fmtEur, fmtMiles } from "@/lib/formato.ts";
+import OtrasFichasMarca from "@/components/OtrasFichasMarca.tsx";
 import CompartirBotones from "@/components/CompartirBotones.tsx";
 import { NotaCosa, MarcaAguaCosa } from "@/components/Cosa.tsx";
 import MonoEscondido from "@/components/caza-monos/MonoEscondido.tsx";
@@ -42,7 +43,7 @@ import { tituloFichaMoto } from "@/lib/seo-titulo-ficha.ts";
 import type { MotoComparador } from "@/lib/comparador-motos-data.ts";
 import type { ResenaSchemaExtra } from "@/components/ResenasVehiculo.tsx";
 
-import { loadArrayItem, loadRecordEntry } from "@/lib/data-loader-utils.ts";
+import { loadArrayItem, loadModuleArray, loadRecordEntry } from "@/lib/data-loader-utils.ts";
 import { cargarFichaExtra, type FichaExtra } from "@/lib/ficha-extra.ts";
 import RespuestaRapida from "@/components/geo/RespuestaRapida.tsx";
 import { datosGeoMoto, frasesGeo, metaGeo } from "@/lib/geo-ficha.ts";
@@ -107,7 +108,7 @@ const FILAS: Fila[] = [
   { campo: "etiquetaDgt", label: "Etiqueta DGT", get: (m) => m.etiquetaDgt || "—" },
 ];
 
-function Ficha({ moto, extra }: { moto: MotoComparador; extra: FichaExtra }) {
+function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: FichaExtra; hermanas?: MotoComparador[] }) {
   const nombre = `${moto.marca} ${moto.modelo}`.replace(/:+$/, "").trim();
   // GEO 17/10/2026: respuesta rápida (ficha + historial de precios, nada inventado).
   const historial = useHistorialPrecios(moto.id);
@@ -816,6 +817,8 @@ function Ficha({ moto, extra }: { moto: MotoComparador; extra: FichaExtra }) {
           />
         </Suspense>
         </div>
+        {/* 18/10/2026: enlazado interno a las otras versiones y fichas de la marca */}
+        <OtrasFichasMarca tipo="motos" actual={moto} todas={hermanas} />
         </article>
         <PanelLateral
           nombre={nombre}
@@ -865,6 +868,7 @@ export default function MotosFichaPage() {
   // Carga perezosa (05/10/2026): solo el módulo de la marca de este modelo.
   const [extra, setExtra] = useState<FichaExtra>({});
   const [moto, setMoto] = useState<MotoComparador | null | undefined>(undefined);
+  const [hermanas, setHermanas] = useState<MotoComparador[]>([]);
 
   useEffect(() => {
     let alive = true;
@@ -872,6 +876,9 @@ export default function MotosFichaPage() {
     (async () => {
       // 18/10/2026: rivales + ¿existe el análisis? (trozo pequeño) en paralelo con la ficha.
       const [m, ex] = await Promise.all([loadArrayItem<MotoComparador>("moto", slug, (x) => x.id === slug), cargarFichaExtra("motos", slug)]);
+      // Mismo módulo (fichero de la marca), ya en caché: sin coste extra.
+      const herm = await loadModuleArray<MotoComparador>("moto", slug);
+      if (alive) setHermanas(herm);
       if (!alive) return;
       setExtra(ex);
       setMoto(m ?? null);
@@ -918,5 +925,5 @@ export default function MotosFichaPage() {
     );
   }
 
-  return <Ficha moto={moto} extra={extra} />;
+  return <Ficha moto={moto} extra={extra} hermanas={hermanas} />;
 }

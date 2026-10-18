@@ -36,6 +36,7 @@ import TablaVersiones from "@/components/ficha/TablaVersiones.tsx";
 import RivalesCarrusel from "@/components/ficha/RivalesCarrusel.tsx";
 import Relacionados from "@/components/Relacionados.tsx";
 import { fmtEur, fmtMiles } from "@/lib/formato.ts";
+import OtrasFichasMarca from "@/components/OtrasFichasMarca.tsx";
 // 07/10/2026 (fluidez): animados below-the-fold en lazy — se cargan al hacer scroll.
 const Donut = lazy(() => import("@/components/motion.tsx").then((m) => ({ default: m.Donut })));
 const BatteryFill = lazy(() => import("@/components/motion.tsx").then((m) => ({ default: m.BatteryFill })));
@@ -55,7 +56,7 @@ import { tituloFichaCoche } from "@/lib/seo-titulo-ficha.ts";
 import type { CocheComparador } from "@/lib/comparador-coches-data.ts";
 import type { ResenaSchemaExtra } from "@/components/ResenasVehiculo.tsx";
 
-import { loadArrayItem, loadRecordEntry } from "@/lib/data-loader-utils.ts";
+import { loadArrayItem, loadModuleArray, loadRecordEntry } from "@/lib/data-loader-utils.ts";
 import { cargarFichaExtra, type FichaExtra } from "@/lib/ficha-extra.ts";
 import RespuestaRapida from "@/components/geo/RespuestaRapida.tsx";
 import { datosGeoCoche, frasesGeo, metaGeo } from "@/lib/geo-ficha.ts";
@@ -187,7 +188,7 @@ const FILAS: Fila[] = [
   },
 ];
 
-function Ficha({ coche, extra }: { coche: CocheComparador; extra: FichaExtra }) {
+function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra: FichaExtra; hermanas?: CocheComparador[] }) {
   const nombre = `${coche.marca} ${coche.modelo}`;
   // GEO 17/10/2026: respuesta rápida (ficha + historial de precios, nada inventado).
   const historial = useHistorialPrecios(coche.id);
@@ -1121,6 +1122,8 @@ function Ficha({ coche, extra }: { coche: CocheComparador; extra: FichaExtra }) 
           />
         </Suspense>
         </div>
+        {/* 18/10/2026: enlazado interno a las otras versiones y fichas de la marca */}
+        <OtrasFichasMarca tipo="coches" actual={coche} todas={hermanas} />
         </article>
         <PanelLateral
           nombre={nombre}
@@ -1157,6 +1160,7 @@ export default function CochesFichaPage() {
   // leen de la caché del dynamic import).
   const [extra, setExtra] = useState<FichaExtra>({});
   const [coche, setCoche] = useState<CocheComparador | null | undefined>(undefined);
+  const [hermanas, setHermanas] = useState<CocheComparador[]>([]);
 
   useEffect(() => {
     let alive = true;
@@ -1164,6 +1168,9 @@ export default function CochesFichaPage() {
     (async () => {
       // 18/10/2026: rivales + ¿existe el análisis? (trozo pequeño) en paralelo con la ficha.
       const [c, ex] = await Promise.all([loadArrayItem<CocheComparador>("coche", slug, (x) => x.id === slug), cargarFichaExtra("coches", slug)]);
+      // Mismo módulo (fichero de la marca), ya en caché: sin coste extra.
+      const herm = await loadModuleArray<CocheComparador>("coche", slug);
+      if (alive) setHermanas(herm);
       if (!alive) return;
       setExtra(ex);
       setCoche(c ?? null);
@@ -1210,5 +1217,5 @@ export default function CochesFichaPage() {
     );
   }
 
-  return <Ficha coche={coche} extra={extra} />;
+  return <Ficha coche={coche} extra={extra} hermanas={hermanas} />;
 }

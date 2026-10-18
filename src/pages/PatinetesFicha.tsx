@@ -31,6 +31,7 @@ import Relacionados from "@/components/Relacionados.tsx";
 import DescargarFichaPDF from "@/components/DescargarFichaPDF.tsx";
 import BotonCazachollos from "@/components/BotonCazachollos.tsx";
 import { fmtEur, fmtMiles } from "@/lib/formato.ts";
+import OtrasFichasMarca from "@/components/OtrasFichasMarca.tsx";
 // 07/10/2026 (fluidez): animados below-the-fold en lazy — se cargan al hacer scroll.
 const Donut = lazy(() => import("@/components/motion.tsx").then((m) => ({ default: m.Donut })));
 const BatteryFill = lazy(() => import("@/components/motion.tsx").then((m) => ({ default: m.BatteryFill })));
@@ -47,7 +48,7 @@ import { tituloFichaPatinete } from "@/lib/seo-titulo-ficha.ts";
 import type { PatineteComparador } from "@/lib/comparador-patinetes-data.ts";
 import type { ResenaSchemaExtra } from "@/components/ResenasVehiculo.tsx";
 
-import { loadArrayItem, loadRecordEntry } from "@/lib/data-loader-utils.ts";
+import { loadArrayItem, loadModuleArray, loadRecordEntry } from "@/lib/data-loader-utils.ts";
 import { cargarFichaExtra, type FichaExtra } from "@/lib/ficha-extra.ts";
 import RespuestaRapida from "@/components/geo/RespuestaRapida.tsx";
 import { datosGeoPatinete, frasesGeo, metaGeo } from "@/lib/geo-ficha.ts";
@@ -97,7 +98,7 @@ const FILAS: Fila[] = [
   { campo: "certificadoDgt", label: "Certificado DGT", get: (p) => fmtCertificado(p.certificadoDgt) },
 ];
 
-function Ficha({ patinete, extra }: { patinete: PatineteComparador; extra: FichaExtra }) {
+function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparador; extra: FichaExtra; hermanas?: PatineteComparador[] }) {
   const nombre = `${patinete.marca} ${patinete.modelo}`;
   // GEO 17/10/2026: respuesta rápida (ficha + historial de precios, nada inventado).
   const historial = useHistorialPrecios(patinete.id);
@@ -726,6 +727,8 @@ function Ficha({ patinete, extra }: { patinete: PatineteComparador; extra: Ficha
           />
         </Suspense>
         </div>
+        {/* 18/10/2026: enlazado interno a las otras versiones y fichas de la marca */}
+        <OtrasFichasMarca tipo="patinetes" actual={patinete} todas={hermanas} />
         </article>
         <PanelLateral
           nombre={nombre}
@@ -757,6 +760,7 @@ export default function PatinetesFichaPage() {
   // Carga perezosa (05/10/2026): solo el módulo de la marca de este modelo.
   const [extra, setExtra] = useState<FichaExtra>({});
   const [patinete, setPatinete] = useState<PatineteComparador | null | undefined>(undefined);
+  const [hermanas, setHermanas] = useState<PatineteComparador[]>([]);
 
   useEffect(() => {
     let alive = true;
@@ -764,6 +768,9 @@ export default function PatinetesFichaPage() {
     (async () => {
       // 18/10/2026: rivales + ¿existe el análisis? (trozo pequeño) en paralelo con la ficha.
       const [p, ex] = await Promise.all([loadArrayItem<PatineteComparador>("patinete", slug, (x) => x.id === slug), cargarFichaExtra("patinetes", slug)]);
+      // Mismo módulo (fichero de la marca), ya en caché: sin coste extra.
+      const herm = await loadModuleArray<PatineteComparador>("patinete", slug);
+      if (alive) setHermanas(herm);
       if (!alive) return;
       setExtra(ex);
       setPatinete(p ?? null);
@@ -810,5 +817,5 @@ export default function PatinetesFichaPage() {
     );
   }
 
-  return <Ficha patinete={patinete} extra={extra} />;
+  return <Ficha patinete={patinete} extra={extra} hermanas={hermanas} />;
 }

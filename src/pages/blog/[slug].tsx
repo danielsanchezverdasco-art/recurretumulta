@@ -36,6 +36,15 @@ import CarruselFotos from "@/components/CarruselFotos.tsx";
 import { ReadingProgress, DriveInImage } from "@/components/motion.tsx";
 import { postHeroImage } from "@/lib/blog-image.ts";
 import FichaDestacada from "@/components/FichaDestacada.tsx";
+import {
+  elegirFicha,
+  enlacesFicha,
+  idPlausible,
+  seguirRedireccion,
+  type FichaCandidata,
+  type FichaRef,
+  type TipoFicha,
+} from "@/lib/ficha-match.ts";
 import { creditoDe } from "@/components/CreditoFoto.tsx";
 import { conBarra } from "@/lib/barra-final";
 
@@ -352,38 +361,50 @@ function BlogPostPage() {
         );
         rel = [...rel, ...extra].slice(0, 3);
       }
-      // Ficha destacada si el artículo enlaza a /coches/<id>
-      const fichaMatch = p?.content.match(
-        /href=(?:https:\/\/recurretumulta\.online)?\/coches\/([a-z0-9-]+)/,
-      );
-      const coche = fichaMatch
-        ? await loadArrayItem<CocheComparador>("coche", fichaMatch[1], (x) => x.id === fichaMatch[1])
-        : undefined;
-      // 12/10/2026: reseñas al final si el artículo enlaza a una ficha
-      // (coches, motos o patinetes). Se usa el primer enlace encontrado.
-      const resenaMatch = p?.content.match(
-        /href=(?:https:\/\/recurretumulta\.online)?\/(coches|motos|patinetes)\/([a-z0-9-]+)/,
-      );
-      let fr: { tipo: TipoVehiculoResena; slug: string; nombre: string } | null = null;
-      if (resenaMatch && alive) {
-        const fTipo = resenaMatch[1] as TipoVehiculoResena;
-        const fSlug = resenaMatch[2];
-        if (fTipo === "coches") {
-          const c = await loadArrayItem<CocheComparador>("coche", fSlug, (x) => x.id === fSlug);
-          if (c && alive) fr = { tipo: fTipo, slug: fSlug, nombre: `${c.marca} ${c.modelo}` };
-        } else if (fTipo === "motos") {
-          const m = await loadArrayItem<MotoComparador>("moto", fSlug, (x) => x.id === fSlug);
-          if (m && alive) fr = { tipo: fTipo, slug: fSlug, nombre: `${m.marca} ${m.modelo}` };
-        } else {
-          const pt = await loadArrayItem<PatineteComparador>("patinete", fSlug, (x) => x.id === fSlug);
-          if (pt && alive) fr = { tipo: fTipo, slug: fSlug, nombre: `${pt.marca} ${pt.modelo}` };
-        }
-      }
-      if (alive) setFichaResenas(fr);
-      // 13/10/2026: "Ver ficha completa" a la ficha del modelo del artículo.
+      // 18/10/2026: ficha del MODELO del artículo, por casado exacto de marca y
+      // modelo (slug) con el slug/título del post. Antes se cogía el primer
+      // enlace /coches/ del texto y en posts que enlazan rivales salía la ficha
+      // de otro modelo (AMG GT SUV -> Porsche Cayenne Electric). Si ninguna
+      // ficha casa: sin tarjeta, nunca la de otro modelo.
       const { fichaDePost } = await import("@/lib/ficha-de-post.generated");
-      const fl = fichaDePost(s) ?? (fr ? `/${fr.tipo}/${fr.slug}` : null);
-      if (alive) setFichaLink(fl);
+      const curada = fichaDePost(s);
+      const curadaRef: FichaRef | null = curada
+        ? { tipo: curada.split("/")[1] as TipoFicha, id: curada.split("/")[2] }
+        : null;
+      // Las fichas con 301 forzado se sustituyen por su destino (nunca enlazar una redirección).
+      const redir = (await import("@/lib/fichas-redirigidas.generated.json")).default as Record<string, string>;
+      const preferida = curadaRef ? seguirRedireccion(curadaRef, redir) : null;
+      const refs: FichaRef[] = [];
+      const vistos = new Set<string>();
+      for (const r0 of [...(preferida ? [preferida] : []), ...(p ? enlacesFicha(p.content) : [])]) {
+        const r = seguirRedireccion(r0, redir);
+        if (!r) continue;
+        const k = `${r.tipo}/${r.id}`;
+        if (vistos.has(k) || !p || !idPlausible(p, r.id)) continue;
+        vistos.add(k);
+        refs.push(r);
+        if (refs.length >= 6) break;
+      }
+      type Cargada = FichaCandidata & { dato: CocheComparador | MotoComparador | PatineteComparador };
+      const cargadas = (
+        await Promise.all(
+          refs.map(async (r): Promise<Cargada | null> => {
+            const dom = r.tipo === "coches" ? "coche" : r.tipo === "motos" ? "moto" : "patinete";
+            const d = await loadArrayItem<CocheComparador | MotoComparador | PatineteComparador>(
+              dom, r.id, (x) => x.id === r.id,
+            );
+            return d ? { ...r, marca: d.marca, modelo: d.modelo, dato: d } : null;
+          }),
+        )
+      ).filter((x): x is Cargada => x !== null);
+      const elegida = p ? elegirFicha(p, cargadas, preferida) : null;
+      const coche = elegida?.tipo === "coches" ? (elegida.dato as CocheComparador) : undefined;
+      const fr: { tipo: TipoVehiculoResena; slug: string; nombre: string } | null = elegida
+        ? { tipo: elegida.tipo, slug: elegida.id, nombre: `${elegida.marca} ${elegida.modelo}` }
+        : null;
+      if (alive) setFichaResenas(fr);
+      // "Ver ficha completa": solo a la ficha del modelo del artículo.
+      if (alive) setFichaLink(elegida ? `/${elegida.tipo}/${elegida.id}` : null);
       if (!alive) return;
       setRelatedStatic(rel);
       setCocheDestacado(coche ?? null);
