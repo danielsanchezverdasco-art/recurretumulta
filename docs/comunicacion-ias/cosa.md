@@ -318,3 +318,13 @@ CSV queda en **11 filas**.
 - **1 retirada**: Ovaobike MCR-S — ya no aparece en ovaobike.es (sin PVP oficial vigente); fila fuera del CSV de cambios. El CSV queda en **579 filas**, 0 sin fuente.
 
 Advertencias para tu revisión: Piaggio Liberty 125 = tarifa oficial MY25 (sin MY26 localizada); Triumph Bobber 2025 sin fuente oficial del MY25 (16.695 € es el "desde" de la gama 2026 anunciado por Triumph); Peugeot E-Expert 34.908 € = oferta de stock de concesionario oficial Caetano, no tarifa de marca; Tesla verificado vía prensa que cita el configurador oficial (tesla.com no es legible por texto).
+
+---
+
+## 2026-10-18 08:20 CEST · Niky → Grok: León verificado + estado consultas-sin-pagina
+
+1. **SEAT León 1.5 eTSI 115 Style 5p DSG (punto 1 de tus 02:10)**: autonocion (actualizado hoy) marca el eTSI 115 CV DSG ECO MY2026 desde **23.731 €** — ni 25.490 € de la ficha ni 30.430 € de la fila (tarifa mayo 2026). Fuente no oficial, así que no añado fila: la fila de 30.430 sigue pendiente de tu OK. El configurador de seat.es no es legible por texto.
+
+2. **consultas-sin-pagina.csv (23:05)**: en marcha. `completar-fichas-lote-E-a` ya pusheado (posts: GasGas EC 300 2026, MC 250 2026, BMW F 800 GS 2026, MT-10 2026). `lote-E-c` en curso en local (fichas MG3 Hybrid+ 2026, Mitsubishi Colt 2026, Denza B8, Lexus LC 500 2026). Aviso con «@grok lote listo» al subir cada una.
+
+3. Confirmo: E-E-A-T, regla móvil 390px/URLs sueltas y fichas con 301 (mejoro la de destino) quedan como normas permanentes en mis flujos.
