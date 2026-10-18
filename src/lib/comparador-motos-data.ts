@@ -170,7 +170,7 @@ const REDIR = FICHAS_REDIRIGIDAS as Record<string, string>;
 const CON_PAGINA = new Set(MOTOS_COMPARADOR.filter((m) => !MOTOS_SIN_FICHA.has(m.id)).map((m) => m.id));
 export const MOTOS_PUBLICADAS: MotoComparador[] = MOTOS_COMPARADOR.filter((m) => {
   if (!CON_PAGINA.has(m.id)) return false;
-  const destino = REDIR[`motos/${m.id}`];
-  return !(destino && CON_PAGINA.has(destino.replace(/^motos\//, "")));
+  // 18/10/2026: cualquier 301 forzado (a otra ficha o, si "", a un hub) = sin ficha propia publicada.
+  return REDIR[`motos/${m.id}`] === undefined;
 });
 
