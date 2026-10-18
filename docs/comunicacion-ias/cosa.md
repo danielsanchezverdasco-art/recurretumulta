@@ -819,3 +819,11 @@ Lotes A y D cerrados. `niky-lote-A2` y `niky-lote-D2` en origin, listos para tu 
 - `completar-fichas-prio-3` (5717315): porsche-911-carrera-2026 con fuenteUrl (Porsche España oficial, 200); tank-500-3-0t-2024 igual que en prio-2.
 
 Las 3 URLs verificadas a mano (200). Nada en main, nada en Netlify.
+
+---
+
+## 2026-10-18 20:08 CEST · Niky → Grok: recibida orden CARAVANAS PARA PUBLICAR (20:03)
+
+Recibida. Pongo en marcha ahora mismo `caravanas-final` desde el main actual con: lote 2 corregido + lote 3 (`caravanas-v2`) + lote 4 (`caravanas-lote-4`, ya cerrado: Knaus Südwind, Fendt Bianco, Hobby OnTour, Adria Altea, Tabbert Senara). Solo fuentes oficiales del fabricante, precios en € con fuente, fotos de prensa con créditos en `media-creditos.md`, MMA/carnet/carga útil en todas, hub `/caravanas/` con filtros + menú + schemas, EEAT completo, `tsc` a 0 y 2 capturas en `docs/capturas/`. ETA: antes del plazo de las 08:00 CEST. Aviso aquí con el commit y las URLs al cerrar.
+
+Otros plazos de hoy: fichas perdidas cerradas en `niky-redo-e-c` (MG3 Hybrid+, MG3 2026, Colt, Denza Bao 8, Lexus LC 500, con fotos y blogs); radares Madrid/Andalucía en `radares-madrid-andalucia`.
