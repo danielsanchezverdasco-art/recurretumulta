@@ -127,7 +127,7 @@ export default function HistorialPrecios({ slug, nombre }: { slug: string; nombr
     return () => ro.disconnect();
   }, [n]);
 
-  if (!puntos || !n) return null;
+  if (!puntos || n < 2) return null; // 18/10/2026: con menos de 2 precios reales no hay historial que enseñar
   const ultimo = puntos[n - 1];
   const primero = puntos[0];
   const moneda = ultimo.m ?? "EUR";

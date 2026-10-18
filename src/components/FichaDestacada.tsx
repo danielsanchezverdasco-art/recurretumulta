@@ -101,11 +101,11 @@ export default function FichaDestacada({ coche }: { coche: CocheComparador }) {
       </div>
 
       {/* En cifras: Donuts animados */}
-      {donuts.length > 0 && (
+      {donuts.some((d) => d.value > 0) && (
         <div className="border-t border-gray-100 p-4 sm:p-6">
           <h3 className="text-xl font-extrabold text-gray-900">En cifras</h3>
           <div className="mt-4 flex flex-wrap items-start justify-around gap-6">
-            {donuts.map((d) => (
+            {donuts.filter((d) => d.value > 0).map((d) => (
               <Donut key={d.label} value={d.value} max={d.max} label={d.label} />
             ))}
           </div>
@@ -122,9 +122,9 @@ export default function FichaDestacada({ coche }: { coche: CocheComparador }) {
               )}
             </div>
           )}
-          {specbars.length > 0 && (
+          {specbars.some((sb) => sb.value > 0) && (
             <div className="mt-6 space-y-4">
-              {specbars.map((s) => (
+              {specbars.filter((sb) => sb.value > 0).map((s) => (
                 <SpecBar
                   key={s.label}
                   label={s.label}

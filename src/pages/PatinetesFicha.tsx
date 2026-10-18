@@ -435,7 +435,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
           >
             <h2 className="text-xl font-extrabold text-gray-900">En cifras</h2>
             <div className="mt-4 flex flex-wrap items-start justify-around gap-6">
-              {donuts.map((d) => (
+              {donuts.filter((d) => d.value > 0).map((d) => (
                 <Donut key={d.label} value={d.value} max={d.max} label={d.label} />
               ))}
             </div>
@@ -445,9 +445,9 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
                 <Speedometer value={patinete.velocidadMaxKmh} max={40} label="Velocidad máxima" />
               </div>
             )}
-            {specbars.length > 0 && (
+            {specbars.some((sb) => sb.value > 0) && (
               <div className="mt-6 space-y-4">
-                {specbars.map((s) => (
+                {specbars.filter((sb) => sb.value > 0).map((s) => (
                   <SpecBar
                     key={s.label}
                     label={s.label}

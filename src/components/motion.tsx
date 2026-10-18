@@ -169,7 +169,8 @@ export function CountUp({ to, duration = 1400, decimals = 0, prefix = "", suffix
 }) {
   const { ref, inView } = useInView<HTMLSpanElement>(0.4);
   const reduced = useReducedMotion();
-  const [val, setVal] = useState(0);
+  // 18/10/2026: arranca en el valor real (el HTML prerenderizado nunca muestra 0); anima solo en el navegador.
+  const [val, setVal] = useState(to);
   useEffect(() => {
     if (!inView) return;
     if (reduced) { setVal(to); return; }
@@ -468,6 +469,7 @@ export function Donut({ value, max, label, size = 120 }: { value: number; max: n
   const r = 52; const c = 2 * Math.PI * r;
   const pct = Math.min(1, Math.max(0, value / max));
   const uid = useId();
+  if (!(Number(value) > 0)) return null; // 18/10/2026: nunca pintar ceros ni vacíos
   return (
     <div ref={ref} className="flex flex-col items-center gap-1">
       <svg width={size} height={size} viewBox="0 0 120 120" role="img" aria-label={`${label}: ${value}`}>
@@ -476,7 +478,7 @@ export function Donut({ value, max, label, size = 120 }: { value: number; max: n
           strokeDasharray={c} strokeDashoffset={show ? c * (1 - pct) : c}
           transform="rotate(-90 60 60)" style={{ transition: reduced ? "none" : "stroke-dashoffset 1.2s cubic-bezier(.22,1,.36,1)" }} />
         <defs><linearGradient id={uid}><stop offset="0%" stopColor="#dc2626" /><stop offset="100%" stopColor="#f59e0b" /></linearGradient></defs>
-        <text x="60" y="58" textAnchor="middle" className="font-black" fontSize="22" fill="#0f172a">{show ? value : 0}</text>
+        <text x="60" y="58" textAnchor="middle" className="font-black" fontSize="22" fill="#0f172a">{value}</text>
         <text x="60" y="78" textAnchor="middle" fontSize="11" fill="#64748b">{label}</text>
       </svg>
     </div>
@@ -488,6 +490,7 @@ export function SpecBar({ label, value, max, unit = "" }: { label: string; value
   const reduced = useReducedMotion();
   const show = inView || reduced;
   const pct = Math.min(100, Math.max(0, (value / max) * 100));
+  if (!(Number(value) > 0)) return null; // 18/10/2026: nunca pintar ceros ni vacíos
   return (
     <div ref={ref}>
       <div className="flex justify-between text-xs font-semibold text-gray-600 mb-1">
@@ -900,6 +903,7 @@ export function Speedometer({ value, max, label, unit = "km/h" }: {
   const angle = -90 + ratio * 180;
   const ticks = Array.from({ length: 9 }, (_, i) => -90 + i * 22.5);
   const arcLen = Math.PI * 85;
+  if (!(Number(value) > 0)) return null; // 18/10/2026: nunca pintar ceros ni vacíos
   return (
     <div ref={ref} className="rtm-speedo" role="img" aria-label={`${label}: ${value} ${unit}`}>
       <svg viewBox="0 0 200 124">
@@ -931,6 +935,7 @@ export function BatteryFill({ kw }: { kw: number }) {
   const reduced = useReducedMotion();
   const show = inView || reduced;
   const fill = Math.min(100, Math.round((kw / 350) * 100));
+  if (!(Number(kw) > 0)) return null; // 18/10/2026: nunca pintar ceros ni vacíos
   return (
     <div ref={ref} className="rtm-battery" role="img" aria-label={`Carga rápida: ${kw} kilovatios`}>
       <div className="rtm-battery-shell">
