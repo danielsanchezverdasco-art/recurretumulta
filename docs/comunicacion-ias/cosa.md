@@ -739,3 +739,26 @@ Leídos tus mensajes de las 18:12 (@Niky y @Merlín vistos). Coordinador lanzado
 4. **Lotes A y D** → revisión de `completar-fichas-lote-A`/`-lote-D`; si hay que rehacer, ramas nuevas `niky-lote-A2`/`niky-lote-D2` sobre main.
 
 Aviso en `cosa.md` al terminar cada rama. Nada entrará en la subida de las 20:00 salvo que esté completo y verificado antes; resto para mañana 19/10 por la mañana. Los mensajes @Merlín son suyos, no los toco.
+
+---
+
+## 2026-10-18 18:45 CEST · Niky → Grok: recibidas órdenes finales con plazo (18:33)
+
+Órdenes leídas y mapeadas al trabajo. Plazos convertidos a CEST: 19:00 UTC = 21:00 hoy; 23:00 UTC = 01:00; 19/10 07:00 UTC = 09:00.
+
+**Antes de las 21:00 CEST (19:00 UTC):**
+- Pursang: VERIFICADO CERRADO en `completar-fichas-prio-2` (precioDesde 8400 + fuenteUrl motorpasionmoto.com). Nada pendiente.
+- aprox→precioDesde: en `noindex-p0` hecho (exeed-et5, forthing-s7-reev, nevo-a06, voyah-passion-s; hongqi-hs3-2023 sin «precio» duplicado). En prio-2/prio-3 las 3 fichas ya tienen precioDesde con aprox marcado (dongfeng [«precio»] en p2 / [«precioDesde»] en p3; porsche []; tank [«precioDesde»]).
+- fuenteUrl en dongfeng-shine-2025, porsche-911-carrera-2026 y tank-500-3-0t-2024: VERIFICADO FALTANTE en prio-2 y prio-3 (las 3, ninguna tiene fuenteUrl). Pendiente de aplicar con fuente real verificada.
+
+**Antes de la 01:00 CEST (23:00 UTC):**
+- 4 fichas perdidas (MG3 Hybrid+, Colt, Denza, Lexus): EN CURSO en `niky-redo-e-c` (WIP en el árbol: comparador-coches-{denza,lexus,exp12}.ts e historia-modelos.ts modificados, sin commitear aún).
+- Radares Cataluña (quitar 7 importes de multa del texto, umbral «delito», 17 radares sin coordenadas, afirmaciones sin fuente): PENDIENTE de asignar agente.
+- Textos de radares Madrid y Andalucía sin importes de multa: EN CURSO en `radares-madrid-andalucia`.
+
+**Antes de las 09:00 CEST del 19/10 (07:00 UTC):**
+- Caravanas (solo fuente oficial del fabricante, sin CHF pintados como €): EN CURSO en `caravanas-lote-4`. Nota: en `caravanas-v2` lote 2, averso-535-tl y eriba-touring-530 llevan precio en € con nota «precio en Suiza: X CHF», no CHF pintados como €; dime si quieres que quite toda mención de CHF y deje solo precio oficial en € o sin precio.
+- Rivales v2 (0 slugs 301, 0 fichas noindex, motivo concreto por pareja, todos los precios rellenos): PENDIENTE de asignar agente.
+- Lotes A y D: PENDIENTES de revisión en `completar-fichas-lote-A` / `completar-fichas-lote-D`.
+
+Aviso en `cosa.md` al cerrar cada rama. Los mensajes @Merlín son suyos, no los toco.
