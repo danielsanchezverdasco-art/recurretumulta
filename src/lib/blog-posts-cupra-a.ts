@@ -605,78 +605,91 @@ Con 300 CV al tren delantero, respeta los límites: Si te llega una denuncia de 
   },
   {
     slug: "cupra-leon-vz-325-2025-precio-ficha-tecnica",
-    title: "Cupra León VZ 325: tracción total y 325 CV",
-    "excerpt": "El Cupra León VZ 325 cuesta 50.794 €: 325 CV, 420 Nm y tracción total 4Drive. El León más potente de la historia.",
+    title: "Cupra León VZ 325: precio, 325 CV, ficha y rivales",
+    "excerpt": "El Cupra León VZ 325 cuesta 49.514 €: 325 CV, 420 Nm y tracción delantera con diferencial autoblocante. El León de serie más potente jamás fabricado.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
     locale: "all",
-    keywords: ["Cupra León VZ 325","Cupra León 325 CV","Cupra León 4Drive","Cupra León más potente","Cupra León VZ 325 precio"],
+    keywords: ["Cupra León VZ 325","Cupra León 325 CV","Cupra León VZ 325 precio","Cupra León más potente","Cupra León VZ 325 ficha técnica"],
     content: `<img src=/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-hero.webp alt=Cupra León VZ 325 acelerando en circuito>
 
-**¿Buscas solo los datos?** <a href=/coches/cupra-leon-vz-325-2025-precio-ficha-tecnica/>Ver ficha técnica del Cupra León VZ 325</a>: 325 CV, 4Drive y precio. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+*Actualizado el 18/10/2026.*
 
-El **Cupra León VZ 325** es el León más potente jamás fabricado: **50.794 €**, con el **2.0 TSI de 325 CV** y 420 Nm asociado a la **tracción total 4Drive**. Por solo 1.840 € más que el VZ 300, añade 25 CV y un tren trasero que reparte el par para una motricidad total.
+**¿Buscas solo los datos?** <a href=/coches/cupra-leon-vz-325-2025-precio-ficha-tecnica/>Ver ficha técnica del Cupra León VZ 325</a>: 325 CV, precio y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+
+El **Cupra León VZ 325** es el León de serie más potente jamás fabricado: **49.514 €**, con el **2.0 TSI de 325 CV** y 420 Nm enviados al **tren delantero** a través de un **diferencial autoblocante mecánico**. Solo se fabrican **1.500 unidades** para todo el mundo.
 
 ## Ficha técnica resumida: León VZ 325
 
 | Dato | Valor |
 |---|---|
-| **Precio en España** | 50.794 € (km77) |
+| **Precio en España** | 49.514 € (km77) |
 | **Motor** | 2.0 TSI, 325 CV, 420 Nm |
-| **Tracción** | Total 4Drive |
-| **Cambio** | DSG |
+| **Tracción** | Delantera + autoblocante mecánico |
+| **Cambio** | DSG 7 velocidades |
+| **0-100 km/h** | 5,4 s |
+| **Velocidad máxima** | 270 km/h |
 | **Maletero** | 380 L |
+| **Consumo WLTP** | 7,9 l/100 km |
 | **Etiqueta DGT** | C |
 
 ¿Quieres el detalle completo? <a href=/coches/cupra-leon-vz-325-2025-precio-ficha-tecnica/>Ficha técnica completa del Cupra León VZ 325</a>.
+
+## Delantera purista, nada de 4Drive
+
+El VZ 325 **no lleva tracción total**: Cupra ha optado por la tracción delantera con diferencial autoblocante mecánico, frenos **Akebono de 6 pistones** y chasis adaptativo **DCC** de serie. El resultado: 0-100 en 5,4 s y 270 km/h de punta, cifras de Golf R por bastante menos dinero.
+
+<img src=/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-oficial.webp alt=Cupra León VZ 325, tres cuartos delantero>
 
 ## Rivales directos
 
 | Modelo | Precio desde | Potencia | Tracción |
 |---|---|---|---|
-| **León VZ 325** | **50.794 €** | 325 CV | Total |
-| VW Golf R | ~58.000 € | 333 CV | Total |
-| Audi S3 Sportback | ~62.000 € | 333 CV | Total |
-| BMW M135 xDrive | ~60.000 € | 300 CV | Total |
+| **León VZ 325** | **49.514 €** | 325 CV | Delantera |
+| <a href=/coches/cupra-formentor-vz-333-2025-precio-ficha-tecnica/>Formentor VZ 333</a> | ver ficha | 333 CV | Total |
+| <a href=/coches/volkswagen-golf-2025-precio-ficha-tecnica/>VW Golf</a> | ver ficha | según versión | según versión |
+| <a href=/coches/cupra-leon-2025-precio-ficha-tecnica/>León 2025</a> | ver ficha | según versión | Delantera |
 
-El León VZ 325 ofrece las prestaciones del Golf R por 7.000 € menos, con la misma base técnica.
+Enfréntalos en <a href=/comparador-coches/>el comparador</a>.
 
-<img src=/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-oficial.webp alt=Cupra León VZ 325, tres cuartos delantero>
+<img src=/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-interior.webp alt=Interior del Cupra León VZ 325 con asientos CUPBucket>
 
 ## Pros y contras
 
 | ✅ Pros | ❌ Contras |
 |---|---|
-| 325 CV y 420 Nm con 4Drive | Más peso que el VZ 300 |
-| 50.794 €: 1.840 € más que el VZ 300 | Etiqueta C |
-| Motricidad total, adiós subviraje | Consumo elevado |
-| Prestaciones premium por menos | El Golf R, misma liga por más |
-| Maletero de 380 L | Sin manual |
+| 325 CV y 420 Nm con autoblocante mecánico | Serie limitada a 1.500 unidades |
+| 49.514 €: prestaciones de Golf R por menos | Etiqueta C |
+| 0-100 en 5,4 s, 270 km/h de punta | Consumo elevado si se exprime |
+| Frenos Akebono y DCC de serie | Sin cambio manual |
+| Maletero de 380 L intacto | Difícil de conseguir nuevo |
 
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Cupra León VZ 325?
-**50.794 €** según km77.
+**49.514 €** en España según km77, en serie limitada de 1.500 unidades para todo el mundo.
 
 ### ¿Cuántos caballos tiene?
-**325 CV** y 420 Nm: el León más potente de la historia.
+**325 CV** y 420 Nm: el León de serie más potente de la historia.
 
-### ¿Qué es el 4Drive?
-La **tracción total** de Cupra: reparte el par entre ejes para máxima motricidad.
+### ¿Lleva tracción total?
+No. Es **tracción delantera** con diferencial autoblocante mecánico, frenos Akebono de 6 pistones y DCC de serie.
 
-### ¿Merece la pena frente al VZ 300?
-Por 1.840 € ganas 25 CV y la tracción total: sí, si buscas la máxima eficacia. El 300 es más purista y ligero.
+### ¿Qué velocidad máxima alcanza?
+**270 km/h**, con un 0-100 km/h en 5,4 segundos.
+
+### ¿Merece la pena frente al León VZ de 300 CV?
+Si buscas el León definitivo y aceptas la serie limitada, sí: 25 CV más, autoblocante y equipo de circuito de serie.
 
 ### ¿Qué etiqueta DGT tiene?
 **Etiqueta C**.
 
-### ¿Es mejor compra que el Golf R?
-Misma base técnica y prestaciones similares por unos 7.000 € menos. El Golf R conserva mejor valor residual.
+*Cómo verificamos: precio, potencia, tracción, prestaciones y serie limitada de la ficha de km77 del León VZ 325 (consultada el 18/10/2026).*
 
-Con 325 CV, la cabeza fría es el mejor opcional: Si te llega una denuncia de tráfico, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.
+*Fuentes: <a href=https://www.km77.com/coches/cupra/leon/2024/estandar/estandar/leon-vz/datos/equipamiento>km77.com</a>.*
 
-*Fuentes: <a href=https://www.km77.com/coches/cupra/leon/2024/estandar/estandar/leon-vz/datos/equipamiento>km77.com</a> y <a href=https://www.dgt.es>DGT</a>.*`
+Con 325 CV al tren delantero, la cabeza fría es el mejor opcional: Si te llega una denuncia de tráfico, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.`
   },
   {
     slug: "cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica",
