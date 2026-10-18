@@ -78,6 +78,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "toyota-corolla-berlina-2025-precio-ficha-tecnica": () => import("../blog-posts-toyota-a.ts"),
     "toyota-corolla-cross-200h-2025-precio-ficha-tecnica": () => import("../blog-posts-toyota-a.ts"),
     "toyota-corolla-cross-2025-precio-ficha-tecnica": () => import("../blog-posts-toyota-a.ts"),
+    "toyota-corolla-cross-2026-precio-restyling": () => import("../blog-posts-toyota-a.ts"),
     "toyota-corolla-gr-sport-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp15.ts"),
     "toyota-corolla-sedan-140h-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp9.ts"),
     "toyota-corolla-touring-sports-2025-precio-ficha-tecnica": () => import("../blog-posts-toyota-a.ts"),

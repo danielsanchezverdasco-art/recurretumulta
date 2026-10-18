@@ -410,7 +410,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "permiso AM coche eléctrico",
       "Aixam e-City autonomía"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "aixam-e-city-sport-2025-precio-ficha-tecnica",
@@ -543,7 +543,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "cuadriciclo coupé GTI",
       "permiso AM GTI"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "aixam-e-coupe-gti-2025-precio-ficha-tecnica",
@@ -8223,22 +8223,22 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "beijing-x5-2024-precio-ficha-tecnica",
-    "title": "Beijing X5: el SUV chino de 150 CV por 9.984 €",
-    "excerpt": "El Beijing X5: SUV compacto de 150 CV desde unos 10.000 € en China. Fin de producción en 2025: solo stock.",
+    "title": "Beijing X5: 150 CV, fin de producción y precio 10.200 €",
+    "excerpt": "Precio y ficha del Beijing X5: SUV compacto de 150 CV desde 76.800 yuanes en China. Producción terminada en 2025: solo quedan unidades de stock.",
     "category": "Novedades Motor",
-    "date": "2026-10-05",
+    "date": "2026-10-18",
     "locale": "all",
     "heroSrc": "/media/beijing-x5-2024-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Beijing X5 en carretera rural\\",
+    "heroAlt": "\\\"Beijing X5 azul con el emblema BEIJING en el portón (foto de prensa BAIC)\\",
     "keywords": [
-      "Beijing X5",
-      "X5 precio",
+      "Beijing X5 precio",
+      "Beijing X5 ficha técnica",
       "SUV chino barato",
       "BAIC X5 2024",
       "SUV 150 CV barato",
-      "Beijing X5 ficha"
+      "Beijing X5 fin de producción"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "arcfox-alfa-t5-2024-precio-ficha-tecnica",
@@ -9691,20 +9691,20 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "chery-tiggo-4-csh-2026-precio-ficha-tecnica",
-    "title": "Chery Tiggo 4 CSH: 204 CV híbridos por 23.000 €",
-    "excerpt": "Precio y ficha del Chery Tiggo 4 CSH: SUV híbrido de 204 CV, 310 Nm y 5,3 l/100 km, más barato que un Dacia Duster. Datos y rivales.",
+    "title": "Chery Tiggo 4 CSH: SUV híbrido de 204 CV por 23.000 €",
+    "excerpt": "Precio y ficha del Chery Tiggo 4 CSH: SUV híbrido de 204 CV y 310 Nm, 0-100 en 8,9 s, maletero de 430 l y garantía de 7 años desde 23.100 €.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/chery-tiggo-4-csh-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Chery Tiggo 4 CSH híbrido en carretera de montaña\\",
+    "heroAlt": "\\\"Chery Tiggo 4 CSH, tres cuartos delantero (foto oficial de prensa)\\",
     "keywords": [
-      "Chery Tiggo 4 precio",
       "Chery Tiggo 4 CSH",
-      "Tiggo 4 híbrido 204 CV",
-      "SUV híbrido barato",
-      "rival Dacia Duster",
-      "Chery Tiggo 4 ficha técnica"
+      "Tiggo 4 híbrido",
+      "Chery Tiggo 4 precio",
+      "SUV híbrido 204 CV",
+      "Tiggo 4 CSH ficha técnica",
+      "Chery Super Hybrid"
     ],
     "readTime": 3
   },
@@ -9729,13 +9729,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "chery-tiggo-9l-2026-precio-ficha-tecnica",
-    "title": "Chery Tiggo 9L: el híbrido con LiDAR de 2026",
-    "excerpt": "El Chery Tiggo 9L: nuevo buque insignia híbrido con 270 CV, 200 km eléctricos, LiDAR y chasis digital con IA. Todos los datos.",
+    "title": "Chery Tiggo 9L: 270 CV, 200 km eléctricos y LiDAR de serie",
+    "excerpt": "El Chery Tiggo 9L: prototipo híbrido CDM-S con 270 CV, 200 km eléctricos (CLTC), LiDAR y Falcon 700 presentado en Shanghái 2025.",
     "category": "Novedades Motor",
-    "date": "2026-10-05",
+    "date": "2026-10-18",
     "locale": "all",
     "heroSrc": "/media/chery-tiggo-9l-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Chery Tiggo 9L híbrido en carretera\\",
+    "heroAlt": "\\\\\\\"Chery Tiggo 9L en el Salón de Shanghái 2025\\\\\\",
     "keywords": [
       "Chery Tiggo 9L",
       "Tiggo 9L híbrido",
@@ -9744,26 +9744,26 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Tiggo 9L 2026",
       "Chery buque insignia"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "chery-tiggo-x-2027-precio-ficha-tecnica",
-    "title": "Chery Tiggo X: 483 CV híbridos para Europa",
-    "excerpt": "El Chery Tiggo X: SUV híbrido enchufable de 483 CV y 200 km eléctricos, confirmado para Europa. Datos, fechas y rivales.",
+    "title": "Chery Tiggo X 2027: 483 CV híbridos llegan a Europa",
+    "excerpt": "El Chery Tiggo X existe: concept de ~5 metros y 7 plazas con 483 CV híbridos enchufables, 200 km eléctricos y más de 1.500 km totales. Llega en 2027.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/chery-tiggo-x-2027-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Chery Tiggo X en pista de tierra\\",
+    "heroAlt": "\\\"Chery Tiggo X concept en el salón, tres cuartos delantero\\",
     "keywords": [
       "Chery Tiggo X",
-      "Tiggo X Europa",
-      "Chery Tiggo X híbrido",
+      "Tiggo X 2027",
+      "Chery Tiggo X precio",
       "SUV híbrido 483 CV",
-      "Chery Europa 2027",
-      "Tiggo X precio"
+      "Chery Tiggo X ficha",
+      "Tiggo X Europa"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "chery-q-2027-precio-ficha-tecnica",
@@ -9782,7 +9782,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "urbano eléctrico barato",
       "Chery Q autonomía"
     ],
-    "readTime": 2
+    "readTime": 4
   },
   {
     "slug": "chery-tiggo-7-csh-2026-precio-ficha-tecnica",
@@ -9843,22 +9843,22 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "chery-arrizo-5-2025-precio-ficha-tecnica",
-    "title": "Chery Arrizo 5: la berlina de 120 CV por 14.700 €",
-    "excerpt": "El Chery Arrizo 5: berlina compacta de 120 CV, 4,45 metros y ESP de serie por 14.700 € al cambio. Ficha técnica y datos.",
+    "title": "Chery Arrizo 5: berlina de 120 CV por 7.950 €, barata",
+    "excerpt": "El Chery Arrizo 5: berlina de 4,57 m con 1.5 de 120 CV, cambio manual o CVT, desde 59.900 yuanes (unos 7.950 €). Ficha técnica verificada.",
     "category": "Novedades Motor",
-    "date": "2026-10-05",
+    "date": "2026-10-18",
     "locale": "all",
     "heroSrc": "/media/chery-arrizo-5-2025-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Chery Arrizo 5 berlina compacta\\",
+    "heroAlt": "\\\\\\\"Chery Arrizo 5 2025 circulando en carretera\\\\\\",
     "keywords": [
       "Chery Arrizo 5",
       "Arrizo 5 precio",
       "berlina china barata",
       "Chery Arrizo 5 ficha técnica",
-      "sedán 120 CV",
-      "Arrizo 5 2025"
+      "Arrizo 5 2025",
+      "berlina 120 CV barata"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "chery-arrizo-5-plus-2025-precio-ficha-tecnica",
@@ -9881,13 +9881,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "chery-arrizo-8-2024-precio-ficha-tecnica",
-    "title": "Chery Arrizo 8: berlina de 197 CV por 14.200 €",
-    "excerpt": "El Chery Arrizo 8: berlina de 4,78 m con 1.6 turbo de 197 CV, 10 airbags y pantalla curva por 14.200 € al cambio. Ficha completa.",
+    "title": "Chery Arrizo 8: berlina de 197 CV por 13.300 €, premium",
+    "excerpt": "El Chery Arrizo 8: berlina de 4,78 m con 1.6 turbo de 197 CV, 10 airbags y Snapdragon 8155 desde 99.900 yuanes (unos 13.300 €).",
     "category": "Novedades Motor",
-    "date": "2026-10-05",
+    "date": "2026-10-18",
     "locale": "all",
     "heroSrc": "/media/chery-arrizo-8-2024-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Chery Arrizo 8 berlina premium\\",
+    "heroAlt": "\\\\\\\"Chery Arrizo 8, tres cuartos delantero\\\\\\",
     "keywords": [
       "Chery Arrizo 8",
       "Arrizo 8 precio",
@@ -9896,7 +9896,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "sedán premium chino",
       "Arrizo 8 ficha técnica"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "chery-arrizo-8-csh-2026-precio-ficha-tecnica",
@@ -10067,7 +10067,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "rival Toyota Hilux",
       "pick-up 161 CV"
     ],
-    "readTime": 2
+    "readTime": 4
   },
   {
     "slug": "chery-icaur-v27-2027-precio-ficha-tecnica",
@@ -10342,13 +10342,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "citroen-ami-2026-precio-ficha-tecnica",
-    "title": "Citroën Ami 2026: desde 7.990 € y sin carnet",
+    "title": "Citroën Ami 2026: eléctrico desde 7.990 € sin carnet",
     "excerpt": "El Citroën Ami se vende en España desde 7.990 €: 8 CV, 75 km de autonomía y se conduce desde los 15 años sin carnet B. Análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/citroen-ami-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Citroën Ami amarillo aparcado en una calle estrecha del centro de Madrid",
+    "heroAlt": "Nuevo Citroën Ami 2026 gris, vista tres cuartos delantera (foto de prensa)",
     "keywords": [
       "citroen ami precio españa 2026",
       "citroen ami sin carnet",
@@ -10356,7 +10356,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "ami 8 cv autonomia",
       "coche sin carnet 15 años"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "citroen-e-c3-aircross-2026-precio-ficha-tecnica",
@@ -17455,8 +17455,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "cupra-leon-vz-325-2025-precio-ficha-tecnica",
-    "title": "Cupra León VZ 325: tracción total y 325 CV",
-    "excerpt": "El Cupra León VZ 325 cuesta 50.794 €: 325 CV, 420 Nm y tracción total 4Drive. El León más potente de la historia.",
+    "title": "Cupra León VZ 325: precio, 325 CV, ficha y rivales",
+    "excerpt": "El Cupra León VZ 325 cuesta 49.514 €: 325 CV, 420 Nm y tracción delantera con diferencial autoblocante. El León de serie más potente jamás fabricado.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -17465,11 +17465,11 @@ export const BLOG_LITE: BlogLitePost[] = [
     "keywords": [
       "Cupra León VZ 325",
       "Cupra León 325 CV",
-      "Cupra León 4Drive",
+      "Cupra León VZ 325 precio",
       "Cupra León más potente",
-      "Cupra León VZ 325 precio"
+      "Cupra León VZ 325 ficha técnica"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica",
@@ -17491,13 +17491,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica",
-    "title": "Cupra León ST VZ 333: el familiar más rápido",
-    "excerpt": "El Cupra León Sportstourer VZ 333 ofrece 333 CV, tracción total 4Drive y 620 L de maletero. El sleeper familiar.",
+    "title": "Cupra León ST VZ 333: familiar de 333 CV por 55.820 €",
+    "excerpt": "El Cupra León Sportstourer VZ 333 cuesta 55.820 €: 333 CV, 4Drive y 620 L de maletero. El sleeper familiar.",
     "category": "Novedades Motor",
-    "date": "2026-10-05",
+    "date": "2026-10-18",
     "locale": "all",
     "heroSrc": "/media/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Cupra León Sportstourer VZ 333 en carretera",
+    "heroAlt": "Cupra León Sportstourer 2024, tres cuartos delantero",
     "keywords": [
       "Cupra León ST VZ 333",
       "León Sportstourer VZ",
@@ -17505,17 +17505,17 @@ export const BLOG_LITE: BlogLitePost[] = [
       "León ST más potente",
       "familiar deportivo 333 CV"
     ],
-    "readTime": 2
+    "readTime": 4
   },
   {
     "slug": "cupra-formentor-15-etsi-2025-precio-ficha-tecnica",
-    "title": "Cupra Formentor 1.5 eTSI 2026: desde 36.192 €",
-    "excerpt": "El Cupra Formentor 1.5 eTSI cuesta 36.192 €: 150 CV, etiqueta ECO y el diseño que inventó Cupra. El acceso a Formentor.",
+    "title": "Cupra Formentor 1.5 eTSI: 150 CV y etiqueta ECO por 35.883 €",
+    "excerpt": "El Cupra Formentor 1.5 eTSI cuesta 35.883 €: 150 CV, etiqueta ECO y el restyling 2024. El acceso a Formentor.",
     "category": "Novedades Motor",
-    "date": "2026-10-05",
+    "date": "2026-10-18",
     "locale": "all",
     "heroSrc": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Cupra Formentor 1.5 eTSI en ciudad",
+    "heroAlt": "Cupra Formentor 2024 al atardecer, tres cuartos trasero",
     "keywords": [
       "Cupra Formentor 1.5 eTSI",
       "Cupra Formentor precio",
@@ -17581,13 +17581,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "cupra-formentor-vz-333-2025-precio-ficha-tecnica",
-    "title": "Cupra Formentor VZ 333: el tope, 333 CV y 4Drive",
-    "excerpt": "El Cupra Formentor VZ 333 cuesta 54.974 €: 333 CV, 420 Nm y tracción total 4Drive. El Formentor definitivo.",
+    "title": "Cupra Formentor VZ 333: 333 CV por 61.344 €, el más potente",
+    "excerpt": "El Cupra Formentor VZ 333 cuesta 61.344 €: 333 CV, 420 Nm y tracción total 4Drive. El Formentor definitivo.",
     "category": "Novedades Motor",
-    "date": "2026-10-05",
+    "date": "2026-10-18",
     "locale": "all",
     "heroSrc": "/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Cupra Formentor VZ 333 en circuito",
+    "heroAlt": "Cupra Formentor VZ 333 en carretera de montaña",
     "keywords": [
       "Formentor VZ 333",
       "Cupra Formentor 333 CV",
@@ -17595,7 +17595,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Formentor VZ 333 precio",
       "Formentor 4Drive"
     ],
-    "readTime": 2
+    "readTime": 4
   },
   {
     "slug": "cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica",
@@ -19548,13 +19548,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "denza-z-spider-2026-precio-ficha-tecnica",
-    "title": "Denza Z Spider: descapotable de 1.604 CV",
+    "title": "Denza Z Spider: 1.604 CV por ~185.000 €, el superdeportivo",
     "excerpt": "El Denza Z Spider: descapotable eléctrico de 1.604 CV, 0-100 en 2,3 s y 300 km/h. Precio, versiones y ficha técnica.",
     "category": "Novedades Motor",
-    "date": "2026-10-05",
+    "date": "2026-10-18",
     "locale": "all",
     "heroSrc": "/media/denza-z-spider-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Denza Z Spider descapotable en costa\\",
+    "heroAlt": "\\\"Denza Z Spider descapotable junto al mar (foto: planetcarsz.com)\\",
     "keywords": [
       "Denza Z Spider",
       "descapotable eléctrico",
@@ -19563,7 +19563,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Denza Z versiones",
       "superdeportivo descapotable"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "denza-z-racing-2026-precio-ficha-tecnica",
@@ -19605,22 +19605,22 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "denza-bao-8-2026-precio-ficha-tecnica",
-    "title": "Denza B8: todoterreno híbrido de 578 CV",
-    "excerpt": "El Denza B8: todoterreno híbrido enchufable de 578 CV, 760 Nm, 1.380 km combinados y 7 plazas. Precio y ficha técnica.",
+    "title": "Denza B8 2026: 578 CV, 7 plazas y 100 km eléctricos",
+    "excerpt": "Precio y ficha del Denza B8: todoterreno híbrido enchufable de 578 CV y 760 Nm, 100 km eléctricos WLTC, 7 plazas y 3.500 kg de remolque desde ~50.600 €.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/denza-bao-8-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Denza B8 en pista de montaña\\",
+    "heroAlt": "\\\"Denza B8, tres cuartos delantero en estudio (foto oficial de prensa)\\",
     "keywords": [
       "Denza B8",
       "Denza Bao 8",
       "Denza B8 precio",
       "todoterreno 7 plazas híbrido",
       "Denza B8 ficha",
-      "alternativa Land Cruiser"
+      "Fangchengbao Bao 8"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "dfsk-600-2026-precio-ficha-tecnica",
@@ -20639,13 +20639,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "exeed-et5-2026-precio-ficha-tecnica",
-    "title": "Exeed ET5: el SUV que abrirá Exeed en España",
-    "excerpt": "Exeed ET5 (Exlantix E05): SUV con extensor, 210 km eléctricos, LiDAR y chip Horizon desde 18.800 € al cambio. Llega a España en 2026.",
+    "title": "Exeed ET5: SUV con 205 km eléctricos desde 19.320 €",
+    "excerpt": "Exeed ET5 (Exlantix E05): SUV con extensor, 205 km eléctricos CLTC, LiDAR y chip Horizon desde 19.320 € al cambio. Llega a España en 2026.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/exeed-et5-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Exeed ET5 en carretera\\",
+    "heroAlt": "\\\"Exeed ET5 2026, vista delantera tres cuartos en azul\\",
     "keywords": [
       "Exeed ET5",
       "Exlantix E05",
@@ -20812,13 +20812,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "ferrari-296-speciale-a-2026-precio-ficha-tecnica",
-    "title": "Ferrari 296 Speciale A: 880 CV descapotables",
-    "excerpt": "El Ferrari 296 Speciale A es la versión Aperta del Speciale: 880 CV híbridos descapotables, 2,7 s y producción limitada. Precio y ficha técnica.",
+    "title": "Ferrari 296 Speciale A: 880 CV descapotable por 462.000 €",
+    "excerpt": "El Ferrari 296 Speciale A es la versión Aperta del Speciale: 880 CV híbridos descapotables, 2,8 s, 435 kg de carga y 462.000 € en Italia. Precio y ficha.",
     "category": "Novedades Motor",
-    "date": "2026-10-05",
+    "date": "2026-10-18",
     "locale": "all",
     "heroSrc": "/media/ferrari-296-speciale-a-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Ferrari 296 Speciale A amarillo descapotado en carretera de montaña",
+    "heroAlt": "\\\"Ferrari 296 Speciale A descapotado en el circuito de Fiorano (foto: carfun.tw)\\",
     "keywords": [
       "ferrari 296 speciale a precio",
       "ferrari 296 speciale aperta",
@@ -20827,7 +20827,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "ferrari 296 aperta ficha técnica",
       "ferrari 296 speciale spider"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "ferrari-sf90-stradale-2025-precio-ficha-tecnica",
@@ -20964,13 +20964,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "ferrari-f80-2026-precio-ficha-tecnica",
-    "title": "Ferrari F80: 1.200 CV, el Ferrari más potente",
+    "title": "Ferrari F80: 1.200 CV y precio de 3,6 millones de euros",
     "excerpt": "El Ferrari F80 es el sucesor del LaFerrari: 1.200 CV híbridos, 0-100 en 2,15 s, 350 km/h y 799 unidades a 3,6 millones. Precio, vídeo y ficha.",
     "category": "Novedades Motor",
-    "date": "2026-10-05",
+    "date": "2026-10-18",
     "locale": "all",
     "heroSrc": "/media/ferrari-f80-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Ferrari F80 negro mate en túnel de viento con luz dramática",
+    "heroAlt": "\\\"Ferrari F80 rojo, vista trasera cenital con el alerón activo (foto: cars4starters.com.au)\\",
     "keywords": [
       "ferrari f80 precio",
       "ferrari f80 1200 cv",
@@ -20979,7 +20979,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "ferrari f80 799 unidades",
       "ferrari f80 vídeo"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "ferrari-roma-2024-precio-ficha-tecnica",
@@ -21301,7 +21301,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "fiat topolino ficha técnica",
       "cuadriciclo eléctrico barato"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "fiat-grande-panda-ev-113-2025-precio-ficha-tecnica",
@@ -21450,7 +21450,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-03",
     "locale": "all",
     "heroSrc": "/media/dacia-sandero-baja-precio-octubre-2026-hero.webp",
-    "heroAlt": "Dacia Sandero azul circulando por una carretera española al atardecer",
+    "heroAlt": "\\\"Dacia Sandero 2026 en marcha\\",
     "keywords": [
       "Dacia Sandero precio",
       "Dacia Sandero 2026 precio España",
@@ -22614,13 +22614,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "forthing-s7-reev-2026-precio-ficha-tecnica",
-    "title": "Forthing S7 REEV: 209 CV y 200 km eléctricos",
-    "excerpt": "El Forthing S7 REEV: berlina de rango extendido con 200 km eléctricos WLTP, 1.050 km totales y tracción trasera. Precio y ficha técnica.",
+    "title": "Forthing S7 REEV: 218 CV y 235 km eléctricos por 17.251 €",
+    "excerpt": "El Forthing S7 REEV: berlina de autonomía extendida con 235 km eléctricos (CLTC), 218 CV y hasta 1.250 km totales. Precio y ficha técnica.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/forthing-s7-reev-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Forthing S7 REEV negro en carretera de montaña\\",
+    "heroAlt": "\\\"Forthing S7 plateado en carretera costera (foto del importador oficial)\\",
     "keywords": [
       "Forthing S7 REEV",
       "S7 rango extendido",
@@ -22629,7 +22629,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Forthing S7 precio",
       "berlina autonomía extendida"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "forthing-u-tour-2025-precio-ficha-tecnica",
@@ -22937,13 +22937,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "haval-jolion-2024-precio-ficha-tecnica",
-    "title": "Haval Jolion: precio y ficha técnica",
-    "excerpt": "Haval Jolion: el SUV compacto de GWM con 1.5T de 150 CV y versión híbrida de 190 CV. Precio, ficha técnica y mercados.",
+    "title": "Haval Jolion: precio, 150 CV y ficha técnica completa",
+    "excerpt": "Haval Jolion: el SUV compacto de GWM con 1.5T de 150 CV y versión híbrida de 190 CV. Precio, ficha técnica y mercados. Consumos y versiones.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/haval-jolion-2024-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Haval Jolion en carretera de montaña\\",
+    "heroAlt": "\\\"Haval Jolion, perfil lateral sobre fondo blanco\\",
     "keywords": [
       "Haval Jolion precio",
       "Haval Jolion ficha técnica",
@@ -22990,7 +22990,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "H6 GT 465 CV",
       "GWM H6 GT Australia"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "haval-h9-2025-precio-ficha-tecnica",
@@ -23013,13 +23013,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "haval-h3-2024-precio-ficha-tecnica",
-    "title": "Haval H3: precio y ficha técnica",
-    "excerpt": "Haval H3: SUV de estética todoterreno con 4x4, 177 CV y 196 mm de altura libre. Precio, ficha técnica y versiones.",
+    "title": "Haval H3: precio, 177 CV 4x4 y ficha técnica completa",
+    "excerpt": "Haval H3: SUV de estética todoterreno con 4x4, 177 CV y 196 mm de altura libre. Precio, ficha técnica y versiones. Precios en Rusia.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/haval-h3-2024-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Haval H3 en camino de montaña\\",
+    "heroAlt": "\\\"Haval H3 verde en entorno de montaña\\",
     "keywords": [
       "Haval H3 precio",
       "Haval H3 ficha técnica",
@@ -23028,7 +23028,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Haval H3 Rusia",
       "GWM H3"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "haval-h5-2024-precio-ficha-tecnica",
@@ -23047,17 +23047,17 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Haval H5 diésel",
       "SUV 5 metros"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "haval-dargo-2024-precio-ficha-tecnica",
-    "title": "Haval Dargo: precio y ficha técnica",
-    "excerpt": "Haval Dargo: el SUV cuadrado de GWM con 1.5T de 184 CV desde 129.900 yuanes (unos 16.900 €). Precio, ficha y diseño.",
+    "title": "Haval Dargo: precio, 184 CV y ficha técnica completa",
+    "excerpt": "Haval Dargo: el SUV cuadrado de GWM con 1.5T de 184 CV desde 129.900 yuanes (unos 17.300 €). Precio, ficha y diseño. Consumo WLTC verificado.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/haval-dargo-2024-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Haval Dargo en pista forestal\\",
+    "heroAlt": "\\\"Haval Dargo rojo, tres cuartos delantero\\",
     "keywords": [
       "Haval Dargo precio",
       "Haval Dargo ficha técnica",
@@ -23066,7 +23066,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "SUV cuadrado chino",
       "GWM Dargo"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "haval-dargo-x-2024-precio-ficha-tecnica",
@@ -23089,13 +23089,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "haval-raptor-2024-precio-ficha-tecnica",
-    "title": "Haval Raptor: precio y ficha técnica",
-    "excerpt": "Haval Raptor: SUV híbrido enchufable de 378 CV, 145 km eléctricos y 4x4 desde 165.800 yuanes (unos 21.500 €). Precio y ficha.",
+    "title": "Haval Raptor: 378 CV híbridos, precio y ficha técnica",
+    "excerpt": "Haval Raptor: SUV híbrido enchufable de 378 CV, 145 km eléctricos y 4x4 desde 165.800 yuanes (unos 22.100 €). Precio y ficha. Maletero de 586 l.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/haval-raptor-2024-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Haval Raptor en terreno montañoso\\",
+    "heroAlt": "\\\"Haval Raptor PHEV de perfil en estudio\\",
     "keywords": [
       "Haval Raptor precio",
       "Haval Raptor ficha técnica",
@@ -23104,17 +23104,17 @@ export const BLOG_LITE: BlogLitePost[] = [
       "SUV híbrido enchufable 4x4",
       "Haval H7"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "haval-raptor-plus-2026-precio-ficha-tecnica",
-    "title": "Haval Raptor Plus: precio y ficha técnica",
-    "excerpt": "Haval Raptor Plus 2026: el SUV híbrido Hi4 con 5 o 7 plazas desde 189.800 yuanes en preventa (unos 24.700 €). Precio y datos.",
+    "title": "Haval Raptor Plus: 7 plazas, precio y ficha técnica",
+    "excerpt": "Haval Raptor Plus 2026: el SUV híbrido Hi4 con 5 o 7 plazas desde 189.800 yuanes en preventa (unos 25.300 €). Precio y datos. Lanzado en mayo de 2026.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/haval-raptor-plus-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Haval Raptor Plus en carretera rural\\",
+    "heroAlt": "\\\"Haval Raptor Plus plateado, tres cuartos delantero\\",
     "keywords": [
       "Haval Raptor Plus",
       "Raptor Plus precio",
@@ -23123,7 +23123,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Haval Hi4 7 plazas",
       "GWM Raptor Plus"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "haval-xiaolong-2024-precio-ficha-tecnica",
@@ -23317,22 +23317,22 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "hongqi-ehs7-2025-precio-ficha-tecnica",
-    "title": "Hongqi EHS7: SUV eléctrico de 600 km por 53.999 €",
-    "excerpt": "Precio y ficha del Hongqi EHS7: SUV eléctrico de 344 CV, batería de 111 kWh y 600 km de autonomía desde 53.999 €. Con vídeo de carga.",
+    "title": "Hongqi EHS7: precio, 600 km y 5 estrellas EuroNCAP",
+    "excerpt": "Precio y ficha del Hongqi EHS7: SUV eléctrico de 344 CV, batería de 111 kWh, 600 km de autonomía y 5 estrellas EuroNCAP desde 53.990 €.",
     "category": "Novedades Motor",
-    "date": "2026-10-05",
+    "date": "2026-10-18",
     "locale": "all",
     "heroSrc": "/media/hongqi-ehs7-2025-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Hongqi EHS7 eléctrico en carretera\\",
+    "heroAlt": "\\\"Hongqi EHS7 blanco, vista de estudio (foto: Hongqi Noruega, web oficial)\\",
     "keywords": [
       "Hongqi EHS7 precio",
       "Hongqi EHS7 autonomía",
       "Hongqi EHS7 ficha técnica",
-      "SUV eléctrico 7 plazas",
+      "Hongqi EHS7 EuroNCAP",
       "Hongqi EHS7 AWD",
       "Tiangong 08"
     ],
-    "readTime": 2
+    "readTime": 4
   },
   {
     "slug": "hongqi-tiangong-05-2025-precio-ficha-tecnica",
@@ -23374,13 +23374,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "hongqi-hs3-2023-precio-ficha-tecnica",
-    "title": "Hongqi HS3: el SUV chino de 169 CV por 31.800 €",
-    "excerpt": "Precio y ficha del Hongqi HS3: SUV de gasolina con motor 1.5T de 169 CV, cambio DCT y 9,9 s de 0-100. Desde 689.900 pesos en México.",
+    "title": "Hongqi HS3: SUV chino 1.5T de 169 CV desde 33.200 €",
+    "excerpt": "Precio y ficha del Hongqi HS3: SUV de gasolina con motor 1.5T de 169 CV, cambio DCT, 9,9 s de 0-100 y maletero de 436 l. Desde 689.900 pesos en México.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/hongqi-hs3-2023-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Hongqi HS3 en carretera de montaña\\",
+    "heroAlt": "\\\"Hongqi HS3 2023, vista delantera en carretera (foto oficial Hongqi)\\",
     "keywords": [
       "Hongqi HS3 precio",
       "Hongqi HS3 ficha técnica",
@@ -23389,7 +23389,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Hongqi HS3 PHEV",
       "SUV 1.5T"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "hongqi-hs5-2023-precio-ficha-tecnica",
@@ -24286,7 +24286,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/jac-t9-2025-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"JAC T9 pick-up en pista de tierra\\",
+    "heroAlt": "\\\"JAC T9 pick-up blanca, tres cuartos delantero\\",
     "keywords": [
       "JAC T9 precio",
       "JAC T9 pick-up",
@@ -24295,7 +24295,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "JAC Frison T9",
       "pick-up 170 CV"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "jac-t9-ev-2025-precio-ficha-tecnica",
@@ -24324,7 +24324,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/jac-t9-phev-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"JAC T9 PHEV híbrida enchufable en montaña\\",
+    "heroAlt": "\\\"JAC T9 PHEV naranja en pista todoterreno\\",
     "keywords": [
       "JAC T9 PHEV",
       "JAC Hantu PHEV",
@@ -24333,7 +24333,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "pick-up PHEV 1000 Nm",
       "Shanghái 2025 JAC"
     ],
-    "readTime": 2
+    "readTime": 4
   },
   {
     "slug": "jac-qx-phev-2025-precio-ficha-tecnica",
@@ -24394,13 +24394,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "jac-rf8-phev-2026-precio-ficha-tecnica",
-    "title": "JAC RF8 PHEV: minivan de 7 plazas y 150 km",
-    "excerpt": "La JAC RF8 PHEV (Traveler): minivan híbrida enchufable de 415 CV, 150 km eléctricos, 7 plazas con masaje y V2L. Precio y ficha.",
+    "title": "JAC RF8 PHEV: minivan de 7 plazas por 23.500 €",
+    "excerpt": "La JAC RF8 PHEV 2026: minivan híbrida enchufable de 421 CV, 150 km eléctricos CLTC, 7 plazas con masaje y V2L desde ≈23.500 €.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/jac-rf8-phev-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"JAC RF8 PHEV minivan en carretera\\",
+    "heroAlt": "JAC RF8 PHEV 2026, vista tres cuartos delantera (foto: JAC Nigeria, prensa)",
     "keywords": [
       "JAC RF8 PHEV",
       "JAC Traveler PHEV",
@@ -24409,7 +24409,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "minivan 7 plazas PHEV",
       "JAC Traveler precio"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "jac-e40x-2025-precio-ficha-tecnica",
@@ -24685,7 +24685,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Jaecoo 6 EV en pista de tierra\\",
+    "heroAlt": "\\\"Jaecoo 6 EV, SUV eléctrico de diseño caja, tres cuartos delantero en estudio\\",
     "keywords": [
       "Jaecoo 6 EV",
       "Jaecoo 6 precio",
@@ -24694,7 +24694,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "SUV eléctrico caja",
       "Jaecoo 6 ficha técnica"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "jaecoo-6-ev-awd-2026-precio-ficha-tecnica",
@@ -24704,7 +24704,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/jaecoo-6-ev-awd-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Jaecoo 6 EV AWD en dunas\\",
+    "heroAlt": "\\\"Jaecoo 6 EV AWD en pista de tierra, tres cuartos delantero\\",
     "keywords": [
       "Jaecoo 6 EV AWD",
       "Jaecoo J6 AWD",
@@ -24712,7 +24712,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "iCar 03 AWD",
       "SUV eléctrico tracción total"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "jeep-avenger-e-hybrid-110-2026-precio-ficha-tecnica",
@@ -24982,13 +24982,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "jetour-x50-2025-precio-ficha-tecnica",
-    "title": "Jetour X50 2025: SUV compacto",
-    "excerpt": "El Jetour X50 2025: SUV compacto de 4,40 m con motor 1.5 turbo de 145 CV, cambio DCT y maletero de hasta 1.262 l. Precio, ficha técnica y rivales.",
+    "title": "Jetour X50 2025: precio en España, 154 CV y medidas",
+    "excerpt": "Precio y ficha del Jetour X50 2025: SUV compacto de 4,40 m con 1.5 turbo de 154 CV y 230 Nm, cambio DCT, maletero de 398 l y precio desde ~16.500 €.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/jetour-x50-2025-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Jetour X50 en carretera de montaña\\",
+    "heroAlt": "\\\"Jetour X50, tres cuartos delantero en calle (foto oficial Jetour Bahrein)\\",
     "keywords": [
       "Jetour X50",
       "Jetour X50 precio",
@@ -25001,8 +25001,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "jetour-dashing-2024-precio-ficha-tecnica",
-    "title": "Jetour Dashing: 197 CV y diseño rompedor",
-    "excerpt": "Precio y ficha del Jetour Dashing: SUV coupé de 197 CV, 290 Nm, DCT de 7 velocidades y pantalla de 15,6 pulgadas. Con vídeo de TN Autos.",
+    "title": "Jetour Dashing 2024: precio, 197 CV y ficha completa",
+    "excerpt": "Precio y ficha del Jetour Dashing: SUV de 197 CV y 290 Nm con DCT de 7 velocidades, pantalla de 15,6 pulgadas y maletero de 486 l desde ~33.500 €.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -25121,7 +25121,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/jetour-t2-2024-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Jetour T2 en pista de montaña\\",
+    "heroAlt": "\\\"Jetour T2 negro, tres cuartos delantero en montaña\\",
     "keywords": [
       "Jetour T2",
       "Jetour Traveller",
@@ -25130,7 +25130,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "todoterreno chino",
       "T2 XWD 254 CV"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "jetour-t1-2025-precio-ficha-tecnica",
@@ -25140,7 +25140,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/jetour-t1-2025-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Jetour T1 en camino de tierra\\",
+    "heroAlt": "\\\"Jetour T1, tres cuartos delantero en estudio\\",
     "keywords": [
       "Jetour T1",
       "Jetour T1 precio",
@@ -25149,7 +25149,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "T1 XWD",
       "Jetour T1 2025"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "jetour-t1-i-dm-2025-precio-ficha-tecnica",
@@ -26476,6 +26476,24 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 6
   },
   {
+    "slug": "leapmotor-b03-2026-precio-ficha-tecnica",
+    "title": "Leapmotor B03: precio, 197 CV y 390 km WLTP desde 8.500 €",
+    "excerpt": "Precio y ficha del Leapmotor B03: desde 63.900 yuanes en China, 197 CV y 390 km WLTP en la versión europea presentada en París 2026.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/leapmotor-b03-2026-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "\\\"Leapmotor B03 (A05 en China), tres cuartos delantero (foto: hibridosyelectricos.com)\\",
+    "keywords": [
+      "Leapmotor B03 precio",
+      "Leapmotor B03 ficha técnica",
+      "Leapmotor A05",
+      "B03 eléctrico autonomía",
+      "Leapmotor B03 Europa"
+    ],
+    "readTime": 3
+  },
+  {
     "slug": "lepas-l4-ev-2026-precio-ficha-tecnica",
     "title": "Lepas L4 EV: 450 km de autonomía y 218 CV",
     "excerpt": "Precio, ficha técnica y autonomía del Lepas L4 EV: SUV eléctrico de 218 CV, 450 km WLTP, batería LFP de 65 kWh y 458 litros de maletero.",
@@ -26743,8 +26761,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "lexus-es-300h-2026-precio-ficha-tecnica",
-    "title": "Lexus ES 300h 2026: la berlina híbrida",
-    "excerpt": "El nuevo Lexus ES 300h ya se vende en España desde 61.500 €: 201 CV, 4,8 l/100 km y 5,14 metros de berlina. Análisis completo con ficha técnica.",
+    "title": "Lexus ES 300h 2026: berlina híbrida desde 61.500 €",
+    "excerpt": "El nuevo Lexus ES 300h ya se vende en España desde 61.500 €: 196 CV, 4,8 l/100 km y 5,14 metros de berlina. Análisis completo con ficha técnica.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -26758,7 +26776,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "berlina híbrida premium 2026",
       "lexus es vs bmw serie 5"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "lexus-es-350e-2026-precio-ficha-tecnica",
@@ -27028,13 +27046,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "ligier-myli-lab-2026-precio-ficha-tecnica",
-    "title": "Ligier Myli LAB: el eléctrico sin carnet",
-    "excerpt": "El nuevo Ligier Myli LAB 2026: cuadriciclo eléctrico L6e con batería de 6 kWh, 80 km de autonomía y licencia AM desde 11.990 € (10.490 con Plan Auto+).",
+    "title": "Ligier Myli LAB: coche sin carnet eléctrico por 12.990 €",
+    "excerpt": "El nuevo Ligier Myli LAB 2026: cuadriciclo eléctrico L6e con batería de 6 kWh, unos 80 km de autonomía y licencia AM desde 12.990 € según Ligier España.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/ligier-myli-lab-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Ligier Myli LAB 2026 eléctrico en carretera de montaña al atardecer\\",
+    "heroAlt": "\\\"Ligier Myli LAB 2026 eléctrico, vista delantera (foto oficial)\\",
     "keywords": [
       "Ligier Myli LAB",
       "Myli LAB precio",
@@ -30964,13 +30982,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "benimar-mileo-286-2026-precio-autocaravana",
-    "title": "Mileo 286: autocaravana por ~79.900 €",
+    "title": "Benimar Mileo 286 2026: autocaravana con camas gemelas ~79.900 €",
     "excerpt": "Precio, ficha técnica y distribución del Benimar Mileo 286 2026: autocaravana perfilada española con camas gemelas y 5 plazas desde ~79.900 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
     "heroSrc": "/media/benimar-mileo-286-2026-1.webp",
-    "heroAlt": "\\\"Benimar Mileo 286 2026, autocaravana perfilada española\\",
+    "heroAlt": "\\\"Benimar Mileo 286, perfilada española (foto de concesionario, no oficial)\\",
     "keywords": [
       "Mileo 286 precio",
       "Benimar Mileo 2026",
@@ -30978,7 +30996,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "autocaravana Benimar",
       "perfilada camas gemelas"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "adria-matrix-supreme-2026-precio-autocaravana",
@@ -34219,7 +34237,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "zontes-125x-2026-ficha-tecnica-precio",
-    "title": "125X: 15 CV por 2.688 €",
+    "title": "Zontes 125X 2026: deportiva 125 de 15 CV por 2.688 €",
     "excerpt": "El Zontes 125X 2026 es el scooter 125 más tecnológico por 2.688 €: 15 CV, 117 kg, TFT con navegación, 2 cámaras y parabrisas eléctrico.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
@@ -34235,7 +34253,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Zontes 125X prueba",
       "scooter 125 barato"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "sur-ron-light-bee-x-2025-ficha-tecnica-precio",
@@ -35166,13 +35184,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "maserati-grecale-2027-precio-ficha-tecnica",
-    "title": "Maserati Grecale 2027: precio y ficha técnica",
-    "excerpt": "El Maserati Grecale 2027 parte de 86.687 € en España con 250 CV, etiqueta ECO y el nuevo frontal de morro de tiburón. Precio, ficha y rivales.",
+    "title": "Maserati Grecale 2027: precio, gama y 250 CV del restyling",
+    "excerpt": "El Maserati Grecale 2027 estrena morro de tiburón: mHEV de 250 CV con etiqueta ECO, maletero de 535 l y gama hasta el Trofeo de 530 CV. Precio y ficha.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/maserati-grecale-2027-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Maserati Grecale 2027 gris en carretera de montaña al atardecer",
+    "heroAlt": "Maserati Grecale 2027, tres cuartos delantero (foto oficial Maserati)",
     "keywords": [
       "maserati grecale 2027 precio españa",
       "maserati grecale 250 cv ficha técnica",
@@ -35513,19 +35531,19 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "maserati-quattroporte-modena-q4-2024-precio-ficha-tecnica",
-    "title": "Quattroporte Modena Q4: precio y ficha",
-    "excerpt": "El Quattroporte Modena Q4: V6 de 430 CV, tracción total y 288 km/h. Ficha técnica de la limusina deportiva.",
+    "title": "Maserati Quattroporte Modena Q4: 430 CV por 172.300 €",
+    "excerpt": "El Maserati Quattroporte Modena Q4 cuesta desde 172.300 €: V6 de 430 CV, tracción total Q4 y 288 km/h. Ficha completa.",
     "category": "Novedades Motor",
-    "date": "2026-10-05",
+    "date": "2026-10-18",
     "locale": "all",
     "heroSrc": "/media/maserati-quattroporte-modena-q4-2024-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Maserati Quattroporte Modena Q4 azul de noche",
+    "heroAlt": "Maserati Quattroporte Modena Q4 gris en estudio, tres cuartos delantero",
     "keywords": [
       "quattroporte modena q4 precio",
       "maserati quattroporte 430 cv",
       "quattroporte traccion total"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "maserati-quattroporte-trofeo-2024-precio-ficha-tecnica",
@@ -36320,7 +36338,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "mercedes-benz-glc-200-precio-ficha-tecnica",
-    "title": "Mercedes GLC 200 4MATIC: 204 CV y etiqueta ECO",
+    "title": "Mercedes GLC 200 4MATIC: precio, 204 CV y etiqueta ECO",
     "excerpt": "El Mercedes GLC 200 4MATIC parte de 59.438 €: 204 CV, tracción total, etiqueta ECO y 600 L de maletero. El SUV premium más vendido, al detalle.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
@@ -36335,7 +36353,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "mercedes glc 2026 precio españa",
       "glc vs bmw x3"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "mercedes-benz-glc-220-d-precio-ficha-tecnica",
@@ -37190,13 +37208,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "mitsubishi-colt-100t-glp-2025-precio-ficha-tecnica",
-    "title": "Mitsubishi Colt GLP: etiqueta ECO por 19.150 €",
+    "title": "Mitsubishi Colt GLP: 101 CV con etiqueta ECO por 19.150 €",
     "excerpt": "El Mitsubishi Colt 100T GLP: 101 CV, etiqueta ECO y repostar a ~0,95 €/l desde 19.150 €. El ECO más barato de Mitsubishi.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/mitsubishi-colt-100t-glp-2025-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Mitsubishi Colt 100T GLP verde, utilitario bifuel, tres cuartos delantero en pueblo español",
+    "heroAlt": "Mitsubishi Colt 100T GLP rojo, tres cuartos delantero (foto de prensa Mitsubishi)",
     "keywords": [
       "mitsubishi colt glp precio",
       "mitsubishi colt glp ficha técnica",
@@ -37228,13 +37246,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "mitsubishi-asx-120t-2026-precio-ficha-tecnica",
-    "title": "Mitsubishi ASX 120T: ECO con 120 CV por 24.772 €",
-    "excerpt": "El Mitsubishi ASX 120T estrena microhibridación: 120 CV, etiqueta ECO y 422 l de maletero desde 24.772 €.",
+    "title": "Mitsubishi ASX 120T: SUV ECO de 115 CV por 24.050 €",
+    "excerpt": "El Mitsubishi ASX 120T: 1.2 turbo mild hybrid de 115 CV, etiqueta ECO y 5 estrellas Euro NCAP desde 24.050 €.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/mitsubishi-asx-120t-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Mitsubishi ASX 120T azul oscuro, SUV compacto mild hybrid, tres cuartos delantero en carretera de montaña",
+    "heroAlt": "Mitsubishi ASX rojo, tres cuartos delantero en estudio (foto oficial de prensa Mitsubishi)",
     "keywords": [
       "mitsubishi asx 120t precio",
       "mitsubishi asx 120t ficha técnica",
@@ -37243,7 +37261,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "mitsubishi asx 120t vs 130t",
       "asx 1.2 turbo 2026"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "mitsubishi-asx-130t-7dct-2026-precio-ficha-tecnica",
@@ -39675,13 +39693,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "kawasaki-versys-1100-s-2025-ficha-tecnica-precio",
-    "title": "Kawasaki Versys 1100 S 2025: precio y ficha",
+    "title": "Kawasaki Versys 1100 S: 135 CV por 15.835 € (2025)",
     "excerpt": "La Kawasaki Versys 1100 S 2025 desde 17.700 €: 1099 cc, suspensiones electrónicas, ficha técnica, etiqueta DGT y vídeo.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/motos/kawasaki-versys-1100-s-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Kawasaki Versys 1100 S 2025 verde en tres cuartos",
+    "heroAlt": "Kawasaki Versys 1100 S 2025 con juego de maletas",
     "keywords": [
       "kawasaki versys 1100 precio",
       "versys 1100 s 2025 ficha técnica",
@@ -39692,7 +39710,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "versys 1000 sucesora",
       "versys 1100 prueba"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "kawasaki-ninja-zx-6r-2024-ficha-tecnica-precio",
@@ -41060,13 +41078,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "sherco-125-se-2025-ficha-tecnica-precio",
-    "title": "Sherco 125 SE 2025: precio y ficha",
+    "title": "Sherco 125 SE 2025: precio, motor 2T de 124,81 cc y ficha técnica completa de la enduro francesa, con medidas, suspensiones y equipamiento.",
     "excerpt": "Sherco 125 SE Factory 2025 por 9.999 €: enduro 2T de 124,81 cc para el A1. Ficha técnica, precio y rivales de la francesa.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/motos/sherco-125-se-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "\\\"Sherco 125 SE Factory 2025 en pista de enduro\\",
+    "heroAlt": "\\\"Sherco 125 SE Factory 2025, vista lateral de estudio (foto oficial)\\",
     "keywords": [
       "sherco 125 se 2025",
       "sherco 125 se precio",
@@ -47383,7 +47401,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/motos/piaggio-liberty-125-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Piaggio Liberty 125 blanco en calle europea",
+    "heroAlt": "Piaggio Liberty 125 2025 blanco en el EICMA",
     "keywords": [
       "piaggio liberty 125 2025 precio",
       "liberty 125 ficha técnica",
@@ -47392,7 +47410,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "liberty 125 vs medley 125",
       "piaggio liberty 125 consumo"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "piaggio-mp3-400-sport-2025-ficha-tecnica-precio",
@@ -47858,7 +47876,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/motos/sym-symphony-st-125-2026-ficha-tecnica-precio-1.webp",
-    "heroAlt": "SYM Symphony ST 125 en la ciudad",
+    "heroAlt": "SYM Symphony ST 125 gris, vista lateral",
     "keywords": [
       "sym symphony st 125 2026 precio",
       "symphony st 125 ficha técnica",
@@ -47867,7 +47885,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "symphony 125 carnet b",
       "sym symphony 125 consumo"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "sym-jet-x-125-2026-ficha-tecnica-precio",
@@ -48887,8 +48905,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "fantic-xef-310-2025-ficha-tecnica-precio",
-    "title": "Fantic XEF 310 2025: precio y ficha técnica",
-    "excerpt": "La Fantic XEF 310 2025 ronda los 10.990 €: 310 cc 4T, la cilindrada intermedia casi exclusiva de Fantic. Ficha técnica completa.",
+    "title": "Fantic XEF 310 2025: enduro de 304 cc por 10.790 €",
+    "excerpt": "La Fantic XEF 310 2025 cuesta 10.790 €: 304 cc 4T con cilindro Athena, 106 kg y electrónica WiGET. La cilindrada intermedia, ficha completa.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -48904,7 +48922,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "mejor enduro 300 4t 2025",
       "fantic motor 310"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "fantic-xef-450-2025-ficha-tecnica-precio",
@@ -49097,13 +49115,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "beta-rr-x-pro-300-2t-2026-ficha-tecnica-precio",
-    "title": "Beta RR X-Pro 300 2026: precio y ficha 2T",
+    "title": "Beta RR X-Pro 300 2026: enduro 2T por 9.670 € y 103 kg",
     "excerpt": "La Beta RR X-Pro 300 2026 cuesta 9.670 €: 292,6 cc 2T, 103,5 kg y chasis rediseñado. La italiana del hard enduro, ficha completa.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/motos/beta-rr-x-pro-300-2t-2026-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Beta RR X-Pro 300 2026 en una zona de hard enduro",
+    "heroAlt": "Beta RR X-Pro 300 2T 2026 en estudio, tres cuartos delantera (foto de prensa)",
     "keywords": [
       "beta rr x-pro 300 2026 precio",
       "beta rr 300 ficha técnica",
@@ -49685,13 +49703,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "rieju-mr-pro-300i-2026-ficha-tecnica-precio",
-    "title": "Rieju MR Pro 300i 2026: precio e inyección",
+    "title": "Rieju MR Pro 300i 2026: precio de la enduro española, motor 2T de 298 cc con inyección TFI, 103,5 kg en seco y ficha técnica completa.",
     "excerpt": "La Rieju MR Pro 300i 2026 cuesta 10.299 €: 300 2T con inyección TFI, la primera española. La enduro de Figueres, ficha completa.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/motos/rieju-mr-pro-300i-2026-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Rieju MR Pro 300i 2026 en una zona de enduro",
+    "heroAlt": "\\\"Rieju MR Pro 300i 2026, vista lateral de estudio\\",
     "keywords": [
       "rieju mr pro 300i 2026 precio",
       "rieju mr 300i ficha técnica",
@@ -49702,7 +49720,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "mejor enduro 300 2026",
       "rieju 2026"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "rieju-mr-racing-300-2024-ficha-tecnica-precio",
@@ -50846,7 +50864,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/motos/ktm-390-enduro-r-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "KTM 390 Enduro R 2025 naranja en pista de tierra",
+    "heroAlt": "KTM 390 Enduro R 2025 vista lateral en estudio",
     "keywords": [
       "ktm 390 enduro r precio",
       "ktm 390 enduro r 2025 ficha técnica",
@@ -50857,7 +50875,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "trail ligera a2 2025",
       "ktm 390 enduro r prueba"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "ktm-125-enduro-r-2025-ficha-tecnica-precio",
@@ -52336,13 +52354,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "silence-s04-l6e-2025-ficha-tecnica-precio",
-    "title": "Silence S04 L6e: precio y ficha del nanocar",
+    "title": "Silence S04 L6e: nanocar eléctrico por 9.870 € y 175 km",
     "excerpt": "El Silence S04 L6e es el nanocar eléctrico español: 175 km de autonomía, baterías extraíbles y 9.870 €. Ficha y precio.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/motos/silence-s04-l6e-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "Silence S04 L6e 2025 nanocar eléctrico",
+    "heroAlt": "Silence S04 circulando por Barcelona (foto oficial de prensa Silence)",
     "keywords": [
       "Silence S04",
       "nanocar eléctrico",
@@ -52972,13 +52990,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "neta-l-erev-2024-precio-ficha-tecnica",
-    "title": "Neta L EREV: 1.300 km de autonomía por 16.900 €",
-    "excerpt": "El Neta L EREV: SUV con extensor de autonomía, 310 km eléctricos, 1.300 km totales y carga ultrarrápida desde unos 16.900 €. Precio, ficha y análisis.",
+    "title": "Neta L EREV: 231 CV y 1.300 km de autonomía por 17.250 €",
+    "excerpt": "El Neta L EREV: SUV con extensor de autonomía, 231 CV, 310 km eléctricos (CLTC) y 1.300 km totales desde 129.900 yuanes (unos 17.250 €).",
     "category": "Novedades Motor",
-    "date": "2026-10-05",
+    "date": "2026-10-18",
     "locale": "all",
     "heroSrc": "/media/neta-l-erev-2024-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Neta L EREV en carretera de montaña\\",
+    "heroAlt": "\\\\\\\"Neta L EREV, tres cuartos delantero\\\\\\",
     "keywords": [
       "Neta L EREV",
       "Neta L extensor autonomía",
@@ -52987,7 +53005,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "híbrido autonomía extendida",
       "Neta L precio"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "nevo-a05-2025-precio-ficha-tecnica",
@@ -53010,13 +53028,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "nevo-a06-2025-precio-ficha-tecnica",
-    "title": "Nevo A06 2025: berlina eléctrica 800V desde 14.300 €",
-    "excerpt": "El Nevo A06 es una berlina eléctrica con plataforma de 800 V, carga 6C en 9 minutos y 510 km CLTC. Precio en China: desde 14.300 €.",
+    "title": "Nevo A06 2025: berlina eléctrica 800V desde 14.595 €",
+    "excerpt": "El Nevo A06 es una berlina eléctrica con plataforma de 800 V, carga 6C en 9 minutos y 510 km CLTC. Precio en China: desde 14.595 €.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/nevo-a06-2025-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Nevo A06, tres cuartos delantero en carretera de montaña",
+    "heroAlt": "Nevo A06 plateado, vista frontal en estudio (foto real de bitauto)",
     "keywords": [
       "Nevo A06",
       "Nevo A06 precio",
@@ -54483,13 +54501,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "aito-m7-2026-precio-ficha-tecnica",
-    "title": "Aito M7 2026: 1.200 km con tecnología Huawei",
-    "excerpt": "El Aito M7 2026: SUV de autonomía extendida con tecnología Huawei, 272 CV y más de 1.200 km combinados. Ficha técnica del M7.",
+    "title": "Aito M7 2026: precio, 315 km eléctricos y 1.625 km",
+    "excerpt": "El nuevo Aito M7 2026: SUV EREV de Huawei y Seres con 304 CV, 315 km eléctricos y 1.625 km combinados. En China desde 279.800 yuanes.",
     "category": "Novedades Motor",
-    "date": "2026-10-08",
+    "date": "2026-10-18",
     "locale": "all",
     "heroSrc": "/media/aito-m7-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Aito M7 gris, SUV de autonomía extendida",
+    "heroAlt": "Aito M7 2026 rojo tres cuartos delantero foto tuningblog.eu",
     "keywords": [
       "aito m7 2026",
       "aito m7 precio",
@@ -54498,7 +54516,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "aito m7 ficha técnica",
       "suv huawei erev"
     ],
-    "readTime": 2
+    "readTime": 4
   },
   {
     "slug": "leapmotor-c10-reev-2026-precio-ficha-tecnica",
@@ -57955,9 +57973,9 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 7
   },
   {
-    "slug": "frenar-antes-radar-multa-600-euros",
-    "title": "Multa por frenar ante el radar: 600€",
-    "excerpt": "Frenar bruscamente ante un radar es una infracción grave: 200 € y 4 puntos que se suman al exceso de velocidad. Así se multa y cómo recurrir.",
+    "slug": "frenar-antes-radar-multa-200-euros",
+    "title": "Multa por frenar ante el radar: 200 € (art. 53 RGC)",
+    "excerpt": "Frenar bruscamente ante un radar es una infracción grave de 200 € (sin pérdida de puntos) que se suma a la del exceso de velocidad. Así se multa y cómo recurrir.",
     "category": "Radares y Velocidad",
     "date": "2026-10-08",
     "locale": "es",
@@ -58067,13 +58085,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "omoda-4-2026-precio-ficha-tecnica",
-    "title": "Omoda 4: el SUV cyber-mecha que llega en 2026",
-    "excerpt": "El Omoda 4 (antes Omoda 3): SUV compacto de 4,4 m con diseño cyber-mecha. Llegará a Europa en 2026. Todo lo que se sabe: diseño, fecha y rivales.",
+    "title": "Omoda 4: SUV híbrido de 224 CV por ~22.000 €, rival del C-HR",
+    "excerpt": "El Omoda 4 (antes Omoda 3): SUV híbrido de 224 CV y 4,42 m con diseño cyber-mecha. Llega a España en 2027. Precio estimado, versiones y ficha.",
     "category": "Novedades Motor",
-    "date": "2026-10-05",
+    "date": "2026-10-18",
     "locale": "all",
     "heroSrc": "/media/omoda-4-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Omoda 4 en entorno urbano nocturno\\",
+    "heroAlt": "\\\"Omoda 4, SUV compacto de diseño cyber-mecha (foto: paultan.org)\\",
     "keywords": [
       "Omoda 4",
       "Omoda 4 precio",
@@ -58082,7 +58100,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Omoda 4 Europa",
       "Omoda cyber mecha"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "omoda-s5-2026-precio-ficha-tecnica",
@@ -61220,7 +61238,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "aovopro-esmax",
-    "title": "Aovopro ESMAX: 500 W y 609 Wh, el tope de gama",
+    "title": "Aovopro ESMAX: 500 W y 609 Wh, el patinete tope de gama",
     "excerpt": "El Aovopro ESMAX es lo máximo de la marca: 500 W, batería de 609 Wh, 43 km declarados y cuádruple suspensión. Precio y ficha.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
@@ -62837,8 +62855,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "hiley-maxspeed-x10",
-    "title": "Hiley MaxSpeed X10: 873 Wh y 45 km/h",
-    "excerpt": "Hiley MaxSpeed X10: 600 W, 873 Wh, 50 km declarados y 45 km/h de punta. El rutero rápido de Hiley, ficha completa.",
+    "title": "Hiley MaxSpeed X10: 600 W, 873 Wh y 50 km/h de punta",
+    "excerpt": "Hiley MaxSpeed X10: 600 W, 873 Wh, hasta 55 km y 50 km/h de punta. El rutero rápido de Hiley, ficha completa.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -62854,7 +62872,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete 873 wh",
       "maxspeed x10 opiniones"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "hiley-maxspeed-x8",
@@ -70601,13 +70619,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "roewe-jiayue-07-2026-precio-ficha-tecnica",
-    "title": "Roewe Jiayue 07: SUV EREV de 320 km por 17.900 €",
-    "excerpt": "El Roewe Jiayue 07: SUV de autonomía extendida con 320 km eléctricos, 1.480 km totales, cabina con IA y maletero de 915 l desde 17.900 €.",
+    "title": "Roewe Jiayue 07: SUV EREV de 320 km por 18.300 €",
+    "excerpt": "El Roewe Jiayue 07: SUV de autonomía extendida con 320 km eléctricos, 1.480 km totales, cabina con IA Doubao y 220 CV desde ≈18.300 €.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/roewe-jiayue-07-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Roewe Jiayue 07 en carretera de montaña\\",
+    "heroAlt": "Roewe Jiayue 07 2026, vista tres cuartos delantera (foto oficial: roewe.com.cn)",
     "keywords": [
       "Roewe Jiayue 07 precio",
       "Roewe Jiayue 07 EREV",
@@ -70616,7 +70634,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Roewe M7",
       "Jiayue 07 ficha técnica"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "rolls-royce-phantom-2026-precio-ficha-tecnica",
@@ -72156,8 +72174,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-10-04",
     "locale": "all",
-    "heroSrc": "/media/nio-es9-suv-lujo.webp",
-    "heroAlt": "NIO ES9, enorme SUV eléctrico de lujo, en una avenida nocturna de ciudad con luces de neón",
+    "heroSrc": "/media/nio-es9-2026-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "NIO ES9, SUV eléctrico insignia de 697 CV, tres cuartos delantero",
     "keywords": [
       "NIO ES9 precio",
       "NIO ES9 ficha técnica",
@@ -72166,7 +72184,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "NIO ES9 batería 102 kWh",
       "NIO ES9 cambio de batería"
     ],
-    "readTime": 6
+    "readTime": 7
   },
   {
     "slug": "lotus-eletre-r-plus-2026-precio-ficha-tecnica",
@@ -72194,8 +72212,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-10-04",
     "locale": "es",
-    "heroSrc": "/media/stelato-s9-huawei-berlina.webp",
-    "heroAlt": "Berlina eléctrica premium Stelato S9 de Huawei y BAIC en color oscuro metalizado al atardecer frente a un edificio moderno",
+    "heroSrc": "/media/stelato-s9-huawei-2026-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "\\\"Berlina eléctrica premium Stelato S9 de Huawei y BAIC en color gris\\",
     "keywords": [
       "Stelato S9 precio",
       "Stelato S9 ficha técnica",
@@ -72204,7 +72222,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Stelato S9 vs Tesla Model S",
       "coches Huawei 2026"
     ],
-    "readTime": 5
+    "readTime": 7
   },
   {
     "slug": "luxeed-r7-huawei-2026-precio-ficha-tecnica",
@@ -72246,13 +72264,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "denza-n9-byd-2026-precio-ficha-tecnica",
-    "title": "Denza N9: el BYD premium de 925 CV que mira al Range",
-    "excerpt": "El SUV insignia de Denza (BYD): 5,26 m, 925 CV, 0-100 en 3,9 s y versiones híbrida enchufable y eléctrica. Ficha técnica, curiosidades y rivales europeos.",
+    "title": "Denza N9: precio desde 51.800 €, 925 CV y 1.302 km",
+    "excerpt": "El Denza N9 2026: SUV híbrido enchufable de 5,26 m con 925 CV, 202 km eléctricos y 1.302 km combinados. En China desde 389.800 yuanes.",
     "category": "Actualidad",
-    "date": "2026-10-04",
+    "date": "2026-10-18",
     "locale": "es",
-    "heroSrc": "/media/denza-n9-byd-premium.webp",
-    "heroAlt": "SUV premium Denza N9 de BYD en negro y bronce en un garaje de lujo con iluminación de focos",
+    "heroSrc": "/media/denza-n9-byd-2026-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Denza N9 2026 negro tres cuartos delantero foto carsguide.com.au",
     "keywords": [
       "Denza N9 precio",
       "Denza N9 ficha técnica",
@@ -72265,13 +72283,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "aito-m8-huawei-2026-precio-ficha-tecnica",
-    "title": "Aito M8: el Huawei familiar que copia lo mejor",
-    "excerpt": "El Aito M8 de Huawei y Seres es el SUV familiar EREV con hasta 1.526 km de autonomía, 533 CV y precio desde 368.000 yuanes. Ficha técnica y rivales.",
+    "title": "Aito M8 de Huawei: precio desde 47.800 € y 1.526 km",
+    "excerpt": "El Aito M8: SUV EREV de Huawei y Seres con 533 CV, 310 km eléctricos y 1.526 km combinados. En China desde 359.800 yuanes.",
     "category": "Actualidad",
-    "date": "2026-10-04",
+    "date": "2026-10-18",
     "locale": "es",
-    "heroSrc": "/media/aito-m8-huawei-suv.webp",
-    "heroAlt": "SUV Aito M8 de Huawei y Seres con LiDAR en el techo circulando por una carretera de montaña al atardecer",
+    "heroSrc": "/media/aito-m8-huawei-2026-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Aito M8 rojo tres cuartos delantero en montaña foto carnewschina.com",
     "keywords": [
       "Aito M8 precio",
       "Aito M8 ficha técnica",
@@ -72280,7 +72298,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "SUV chino 6 plazas 2026",
       "coches chinos Huawei HIMA"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "deepal-s09-2026-precio-ficha-tecnica",
@@ -72289,8 +72307,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-10-04",
     "locale": "es",
-    "heroSrc": "/media/deepal-s09-suv-grande.webp",
-    "heroAlt": "SUV Deepal S09 de Changan, grande y lujoso, en una ciudad moderna al atardecer",
+    "heroSrc": "/media/deepal-s09-2026-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Deepal S09, SUV EREV de 6 plazas, tres cuartos delantero",
     "keywords": [
       "Deepal S09 precio",
       "Deepal S09 ficha técnica",
@@ -72299,17 +72317,17 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Deepal S09 vs Li Auto L9",
       "Changan Deepal España"
     ],
-    "readTime": 4
+    "readTime": 6
   },
   {
     "slug": "im-ls9-2026-precio-ficha-tecnica",
     "title": "IM LS9: el SUV de 1.508 km que quiere jubilar al BMW",
-    "excerpt": "El IM LS9 es el SUV insignia EREV de IM Motors (SAIC): 402 km eléctricos, 1.508 km combinados y 523 CV desde 322.800 yuanes. Ficha técnica y rivales.",
+    "excerpt": "El IM LS9 es el SUV insignia EREV de IM Motors (SAIC): 402 km eléctricos, 1.508 km combinados y 530 CV desde 44.373 €. Ficha técnica y rivales.",
     "category": "Actualidad",
     "date": "2026-10-04",
     "locale": "es",
-    "heroSrc": "/media/im-ls9-suv-insignia.webp",
-    "heroAlt": "SUV insignia IM LS9 en una carretera costera al atardecer",
+    "heroSrc": "/media/im-ls9-2026-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "IM LS9 2026, vista delantera tres cuartos",
     "keywords": [
       "IM LS9 precio",
       "IM LS9 ficha técnica",
@@ -72318,7 +72336,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "IM LS9 vs BMW X7",
       "SUV chino insignia 2026"
     ],
-    "readTime": 5
+    "readTime": 3
   },
   {
     "slug": "stelato-s9-erev-2025-precio-ficha-tecnica",
@@ -72801,22 +72819,22 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "tank-300-hooke-trail-2026-precio-ficha-tecnica",
-    "title": "Tank 300 Hooke Trail: el 4x4 más radical de GWM",
-    "excerpt": "El Tank 300 Hooke Trail: eje rígido, triple bloqueo y 850 mm de vadeo. El todoterreno extremo de GWM que va a por el Wrangler Rubicon.",
+    "title": "Tank 300 Hooke Trail: 4x4 extremo por 250.000 ¥ en China",
+    "excerpt": "Precio y ficha del Tank 300 Hooke Trail: 250.000 yuanes, eje rígido, triple bloqueo y 850 mm de vadeo. La edición extrema de GWM, solo para China.",
     "category": "Novedades Motor",
-    "date": "2026-10-05",
+    "date": "2026-10-18",
     "locale": "all",
     "heroSrc": "/media/tank-300-hooke-trail-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Tank 300 Hooke Trail cruzando un río\\",
+    "heroAlt": "\\\"Tank 300 Hooke Trail en la presentación de GWM en China (foto: CarsGuide)\\",
     "keywords": [
-      "Tank 300 Hooke Trail",
-      "Tank 300 radical",
-      "todoterreno extremo chino",
+      "Tank 300 Hooke Trail precio",
+      "Tank 300 Hooke Trail ficha",
       "Tank 300 eje rígido",
-      "GWM Hooke Trail",
+      "GWM Hooke Trail 250.000",
+      "todoterreno extremo chino",
       "rival Wrangler Rubicon"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "tank-400-hi4-t-2025-precio-ficha-tecnica",
@@ -73253,13 +73271,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "toyota-proace-max-2025-precio-ficha-tecnica",
-    "title": "Toyota Proace Max 2025: la furgoneta grande",
-    "excerpt": "El Toyota Proace Max 2025 ya está en España desde 32.975 €: furgoneta de hasta 17 m³, diésel de hasta 180 CV y versión eléctrica de 420 km.",
+    "title": "Toyota Proace Max: 17 m³ y 1.400 kg desde 24.545 €",
+    "excerpt": "El Toyota Proace Max 2025 ya está en España desde 24.545 €: furgoneta de hasta 17 m³, diésel de hasta 180 CV y eléctrica de 420 km.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/toyota-proace-max-2025-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Toyota Proace Max 2025 furgoneta grande",
+    "heroAlt": "Toyota Proace Max 2025, furgoneta grande vista frontal",
     "keywords": [
       "toyota proace max 2025 precio",
       "proace max furgoneta",
@@ -73493,7 +73511,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "prius plug-in hybrid precio",
       "prius no se vende españa"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "toyota-aygo-x-hybrid-2025-precio-ficha-tecnica",
@@ -73584,6 +73602,25 @@ export const BLOG_LITE: BlogLitePost[] = [
       "corolla cross ficha"
     ],
     "readTime": 2
+  },
+  {
+    "slug": "toyota-corolla-cross-2026-precio-restyling",
+    "title": "Toyota Corolla Cross 2026: restyling y precio desde 36.500 €",
+    "excerpt": "El Toyota Corolla Cross 2026 estrena restyling: frontal renovado, acabado GR Sport, híbridos de 140 y 180 CV y precio desde 36.500 € en España.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "all",
+    "heroSrc": "/media/toyota-corolla-cross-2026-hero.webp",
+    "heroAlt": "Toyota Corolla Cross 2026 GR Sport tres cuartos delantero foto autoscout24.at",
+    "keywords": [
+      "toyota corolla cross 2026 precio",
+      "corolla cross restyling",
+      "corolla cross gr sport",
+      "corolla cross hybrid 200",
+      "suv híbrido etiqueta eco",
+      "corolla cross ficha técnica"
+    ],
+    "readTime": 4
   },
   {
     "slug": "ue-china-freno-hibridos-enchufables",
@@ -74708,13 +74745,13 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "voyah-passion-s-2026-precio-ficha-tecnica",
-    "title": "Voyah Passion S 2026: SUV coupé de 637 CV y 800 V",
+    "title": "Voyah Passion S: SUV coupé de 637 CV, precio y ficha",
     "excerpt": "El Voyah Passion S: SUV coupé eléctrico con 637 CV, 740 km CLTC, carga 5C en 10 min y 4 LiDAR desde 229.900 yuanes. Ficha y análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/voyah-passion-s-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Voyah Passion S SUV coupé en carretera de montaña\\",
+    "heroAlt": "\\\"Voyah Passion S rojo, tres cuartos delantero en carretera (foto de prensa)\\",
     "keywords": [
       "Voyah Passion S precio",
       "Voyah Passion S ficha técnica",
@@ -74723,7 +74760,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Voyah Passion S autonomía",
       "Huawei ADS 5 Voyah"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "voyah-courage-2024-precio-ficha-tecnica",
@@ -75824,7 +75861,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "coche más lujoso chino",
       "Zeekr lujo extremo"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "zeekr-8x-2026-precio-ficha-tecnica",

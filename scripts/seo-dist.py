@@ -54,7 +54,12 @@ def hubs():
     h=re.sub(r'(<meta (?:property="og:title"|name="twitter:title") content=")[^"]*',lambda x:x.group(1)+e(m["title"]),h)
     h=re.sub(r'(<meta property="og:url" content=")[^"]*',lambda x:x.group(1)+f"{ORIG}/{c}/",h)
     h=re.sub(r'(rel="canonical" href=")[^"]*',lambda x:x.group(1)+f"{ORIG}/{c}/",h)
-    h=re.sub(r'<script type="application/ld\+json">.*?</script>','',h,flags=re.S)
+    # 18/10/2026: fuera TODO el JSON-LD heredado del glosario (también page-schema = FAQ/términos y
+    # page-eeat = WebPage del glosario, que llevan data-seo-id). El hub lleva su CollectionPage propio;
+    # el BreadcrumbList (Inicio > hub) lo añade gen-marcas.py (bc-static).
+    h=re.sub(r'<script type="application/ld\+json"[^>]*>.*?</script>','',h,flags=re.S)
+    cp={"@context":"https://schema.org","@type":"CollectionPage","@id":f"{ORIG}/{c}/#webpage","url":f"{ORIG}/{c}/","name":m["title"],"description":m["description"],"inLanguage":"es-ES","isPartOf":{"@type":"WebSite","@id":f"{ORIG}/#website","url":f"{ORIG}/"},"numberOfItems":len(L_)}
+    h=h.replace("</head>",'<script type="application/ld+json" data-seo-id="page-schema">'+json.dumps(cp,ensure_ascii=False).replace("</","<\\/")+"</script></head>",1)
     open(ruta,"w",encoding="utf8").write(h); L("hub",c,len(L_))
 hubs()
 # ── 2b. Portada: mono estático (sin párpados animados) y tamaños reales del mono ──

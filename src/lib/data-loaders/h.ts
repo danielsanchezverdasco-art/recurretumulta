@@ -795,6 +795,11 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "hyundai-tucson-phev-n-line-2026-precio-ficha-tecnica": () => import("../euroncap-exp18.ts"),
   },
   galeria: {
+    "haval-dargo-2024-precio-ficha-tecnica": () => import("../galerias-coches.ts"),
+    "haval-h3-2024-precio-ficha-tecnica": () => import("../galerias-coches.ts"),
+    "haval-jolion-2024-precio-ficha-tecnica": () => import("../galerias-coches.ts"),
+    "haval-raptor-2024-precio-ficha-tecnica": () => import("../galerias-coches.ts"),
+    "haval-raptor-plus-2026-precio-ficha-tecnica": () => import("../galerias-coches.ts"),
     "hongqi-e-hs9-ficha-tecnica-precio": () => import("../galerias-coches.ts"),
     "hyundai-bayon-10-tgdi-2025-precio-ficha-tecnica": () => import("../galerias-coches.ts"),
     "hyundai-i20-baja-precio-octubre-2026": () => import("../galerias-coches.ts"),

@@ -142,7 +142,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "foton-general-g9-2026-precio-ficha-tecnica": () => import("../blog-posts-lote6.ts"),
     "foton-tunland-v7-2025-precio-ficha-tecnica": () => import("../blog-posts-lote2.ts"),
     "francia-retira-carnet-movil-al-volante": () => import("../blog-posts-flash-2026.ts"),
-    "frenar-antes-radar-multa-600-euros": () => import("../blog-posts-octubre-2026.ts"),
+    "frenar-antes-radar-multa-200-euros": () => import("../blog-posts-octubre-2026.ts"),
   },
   coche: {
     "fangchengbao-bao-3-2025-precio-ficha-tecnica": () => import("../comparador-coches-lote11.ts"),
