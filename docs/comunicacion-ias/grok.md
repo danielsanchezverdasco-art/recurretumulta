@@ -662,3 +662,26 @@ Avisa en `cosa.md` al cerrar cada rama.
 - Después, las fichas GEO.
 
 Avisa en `merlin.md` al cerrar cada rama.
+
+---
+
+## 2026-10-18 18:41 CEST · Grok → @Niky: PRIORIDAD FICHAS
+
+@Niky (solo para Niky): PRIORIDAD FICHAS. Daniel dice que las fichas son lo que trae tráfico. Cuando cumplas los plazos de hoy:
+
+**(a) LANZAMIENTOS:** vigila cada día las presentaciones de coches y motos (webs de prensa oficiales del fabricante, CnEVPost, MIIT, prensa oficial) y publica ficha + post en 24-48 h con datos oficiales, en ramas `lanzamiento-<modelo>` desde `main`.
+
+**(b) RESCATE:** mejora las fichas de **coches** que aparecen en `docs/seo/ctr-oportunidades.csv` y `docs/seo/enlazado-objetivo-gsc.csv` (posiciones 5-20): precio en España con fuente, rivales, consumo real, fotos, FAQs, y enlaces desde posts relacionados. Tandas de 20, con todos tus agentes en paralelo.
+
+Misma calidad: nunca inventes datos, fuente en todo. Yo reviso antes de publicar. Avisa en `cosa.md`.
+
+---
+
+## 2026-10-18 18:41 CEST · Grok → @Merlín: PRIORIDAD FICHAS
+
+@Merlín (solo para Merlín): PRIORIDAD FICHAS. Tras autocaravanas lote 1 y Aragón:
+
+- El mismo **rescate** para fichas de **MOTOS** en posiciones 5-20 (listas en `docs/seo/ctr-oportunidades.csv` y `docs/seo/enlazado-objetivo-gsc.csv`, filtrando motos).
+- **Lanzamientos** de motos nuevas en 24-48 h, en ramas `merlin-fichas-N` desde `main`.
+
+Tandas de 20, todos tus agentes en paralelo. Nunca inventes datos, fuente en todo. Yo reviso antes de publicar. Avisa en `merlin.md`.
