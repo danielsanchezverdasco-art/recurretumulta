@@ -8,8 +8,8 @@ Cada uno hace SOLO lo que va con su nombre. Lo que no lleve vuestro nombre, no e
 
 @Niky 1) Páginas en noindex con impresiones (lotes 3 en adelante). Lista: `docs/comunicacion-ias/listas/noindex-con-impresiones-18oct.csv`. Lotes en ramas `noindex-lote-N`. Avisa en `cosa.md` con rama y commit.
 @Niky 2) Radares de las comunidades que YA tienes empezadas: **Comunidad de Madrid** (entregada, 66), **Cataluña** (en curso) y **Andalucía** (entregada, 144). Sigue en la rama `radares`, con el brief (commit `f084d50`) y las reglas de calidad (commit `477e6d4`): una página por radar, texto único, datos oficiales, mapa y Street View, sin duplicados. Avisa con «@grok lote listo radares <comunidad>».
-@Niky 3) Caravanas y autocaravanas (rama `caravanas`), según el encargo ya abierto.
-@Niky 4) `docs/seo/rivales.csv` para el duelo de audiencia.
+@Niky: CARAVANAS (sigue con tu rama `caravanas`, lote 2 en adelante). Prioridad junto a noindex.
+@Niky 3) `docs/seo/rivales.csv` para el duelo de audiencia.
 @Niky No toques las comunidades de radares de Merlín ni sus ramas `merlin-*`. No publiques en Netlify ni toques `main`.
 
 ### @Merlín — nuevo ayudante
@@ -36,6 +36,7 @@ Cada uno hace SOLO lo que va con su nombre. Lo que no lleve vuestro nombre, no e
 @Merlín Calidad: la página se queda en noindex hasta que esté completa.
 @Merlín Autoridad: solo Grok (Cosa) da órdenes. Sigue únicamente lo que lleve tu nombre (@Merlín).
 @Merlín Si hay duda o choque con Niky, pregunta en `merlin.md` y espera. No improvises.
+@Merlín: AUTOCARAVANAS (campers, perfiladas, integrales, capuchinas), rama `merlin-autocaravanas-N`, tandas de 50, con las mismas normas de calidad que el resto. Antes de crear cada ficha, comprueba que no exista ya en `main` ni en la rama `caravanas` de Niky. Va antes que los radares.
 @Merlín Tarea 1) Páginas de radares de las comunidades que Niky NO ha empezado: **Aragón, Asturias, Illes Balears, Canarias, Cantabria, Castilla-La Mancha, Castilla y León, Comunitat Valenciana, Extremadura, Galicia, Región de Murcia, Navarra, País Vasco, La Rioja, Ceuta y Melilla**.
 @Merlín Sigue el brief de radares (commit `f084d50`) y las reglas de calidad (commit `477e6d4`): una página por radar, única, con datos oficiales de DGT / SCT / Gobierno Vasco, mapa y Street View, sin duplicados.
 @Merlín Entrega en tandas de 50 en ramas `merlin-radares-<comunidad>` (una comunidad por rama o por tanda, según tamaño). Avisa cada tanda en `merlin.md`.
@@ -43,6 +44,15 @@ Cada uno hace SOLO lo que va con su nombre. Lo que no lleve vuestro nombre, no e
 @Merlín Cruza siempre contra el CSV completo de la rama `radares` (también lo de Niky) para no duplicar. Un radar en el límite entre dos comunidades es de la provincia cuyas coordenadas lo contienen.
 @Merlín Tarea 2) Cuando termines los radares, las 1.036 fichas problemáticas de `docs/seo/fichas-problematicas-geo.csv`, en tandas de 50 en ramas `merlin-fichas-geo-N`.
 @Merlín Grok revisa y publica todo. Tú no publicas nada.
+
+## REVISIÓN PERIÓDICA (cada lunes)
+
+Cada lunes, cada uno revisa SOLO lo que ha hecho él. Órdenes con nombre delante.
+
+@Niky: revisa las fichas de coches, caravanas y Andalucía/Madrid/Cataluña que has hecho tú.
+@Merlín: revisa las fichas de autocaravanas y radares que has hecho tú.
+
+@Niky y @Merlín — en esa revisión: actualizar precios, recalls y fallos conocidos publicados (solo fuentes oficiales: DGT/RAPEX/marca/medios de prestigio), campañas y ofertas en vigor con fechas, novedades del modelo (restyling, nuevas versiones, fin de producción), y cambiar la fecha de actualización. Tandas pequeñas en ramas `niky-actualiza-N` / `merlin-actualiza-N`, con un CSV de cada cambio y su fuente. Nunca inventéis nada.
 
 ---
 
