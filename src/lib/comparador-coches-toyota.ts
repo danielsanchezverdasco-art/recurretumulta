@@ -1341,9 +1341,29 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     modelo: "Proace Max",
     tipo: "Diésel",
     categoria: "Furgoneta",
-    precioDesde: 32975,
+    precioDesde: 24545,
     potenciaCv: 140,
     autonomiaKm: null,
+    versiones: [
+      {
+        nombre: "Van L2H1 2.2D 120 CV 6MT GX",
+        precioEur: 24545,
+        precioOriginal: null,
+        nota: "Precio de lanzamiento en España, sin IVA (prensa Toyota España)",
+      },
+      {
+        nombre: "Van L4H3 2.2D 180 CV 8AT VX",
+        precioEur: 34024,
+        precioOriginal: null,
+        nota: "Precio de lanzamiento en España, sin IVA (prensa Toyota España)",
+      },
+      {
+        nombre: "Electric Van (270 CV, 110 kWh)",
+        precioEur: 34800,
+        precioOriginal: null,
+        nota: "Aproximado, sin IVA (toyota.es)",
+      },
+    ],
     maleteroL: null,
     ceroCien: null,
     velocidadMax: 153,
@@ -1353,14 +1373,14 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     pros: [
       "Hasta 17 m³ de carga y 1.400 kg de carga útil",
       "Gama diésel 2.2 de 120, 140 y 180 CV para cada necesidad",
-      "También en versión eléctrica: 272 CV, 110,6 kWh y 420 km WLTP",
+      "También en versión eléctrica: 270 CV, 110 kWh y 420 km WLTP",
       "Eléctrica con carga rápida de 150 kW",
       "5 estrellas Euro NCAP en seguridad de furgonetas (2025)",
     ],
     contras: [
       "Etiqueta C en diésel: las ZBE la dejarán fuera",
       "Hasta 6,36 m de largo: solo para profesionales",
-      "La versión eléctrica ronda los 67.900 €",
+      "La eléctrica parte de unos 34.800 € sin IVA",
       "7,3 l/100 km de consumo en diésel",
       "Interior 100 % funcional, sin concesiones al confort",
     ],
@@ -1374,7 +1394,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     parNm: 350,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["consumo"],
+    aprox: ["precioDesde", "consumo"],
     imagen: "/media/toyota-proace-max-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1392,47 +1412,31 @@ export const COCHES_TOYOTA: CocheComparador[] = [
       {
         "src": "/media/toyota-proace-max-2025-precio-ficha-tecnica-hero.webp",
         "alt": "Toyota Proace Max 2025, vista tres cuartos delantera",
-        "ancho": 1920,
-        "alto": 1280
+        "ancho": 1600,
+        "alto": 900
       },
       {
         "src": "/media/toyota-proace-max-2025-precio-ficha-tecnica-oficial.webp",
         "alt": "Toyota Proace Max 2025, vista lateral",
-        "ancho": 1920,
-        "alto": 1280
+        "ancho": 800,
+        "alto": 533
       },
       {
         "src": "/media/toyota-proace-max-2025-precio-ficha-tecnica-interior-oficial.webp",
         "alt": "Toyota Proace Max 2025, interior",
-        "ancho": 1920,
-        "alto": 1280
+        "ancho": 1422,
+        "alto": 800
       }
     ],
-    fuenteNombre: "coches.net",
-    fuenteUrl: "https://www.coches.net/fichas_tecnicas/toyota/proace/industriales/4-puertas/van_l2h2_22d_103kw_140cv_6mt_gx_140cv_diesel/112711/843839920240704/",
+    fuenteNombre: "Toyota España (prensa)",
+    fuenteUrl: "https://prensa.toyota.es/toyota-professional-se-hace-mas-grande-con-la-proace-max-la-furgoneta-comercial-de-gran-tamano-ya-disponible-desde-24545-/",
     euroncap: {
       estrellas: 5,
       ano: 2025,
-      url: null,
-      nota: "5 estrellas en el programa de furgonetas Euro NCAP 2025 (gemelos Stellantis evaluados con 5 estrellas: Peugeot Boxer y Fiat Ducato; sin prueba individual del Proace Max)"
+      url: "https://news.euroncap.com/safertrucksandvans/choose-a-vehicle/toyota-proace-max---euro-ncap-2025-commercial-van-safety---5-stars/s/308b75c5-30ed-4f19-ab87-604db9d1a463",
+      nota: "5 estrellas en el programa Commercial Van Safety 2025 de Euro NCAP (evaluada como gemela del Fiat E-Ducato; aplica al Proace Max desde julio de 2024)"
     },
-    planMantenimiento: {
-      intervalo: "Revisión intermedia cada 15.000 km o 12 meses; revisión principal cada 30.000 km o 24 meses",
-      revisiones: [
-        {
-          nombre: "Revisión intermedia / 15.000 km",
-          queSeCambia: "Aceite + filtro de aceite + inspección general + niveles + AdBlue",
-          costeAproxEur: null
-        },
-        {
-          nombre: "Revisión principal / 30.000 km",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + filtro de polen + filtro de combustible + inspección de frenos y correas",
-          costeAproxEur: null
-        }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Programa de mantenimiento Toyota Professional (intermedia 15.000 km/12 meses, principal 30.000 km/24 meses)"
-    }
+    planMantenimiento: null
   },
   {
     id: "toyota-yaris-130h-2025-precio-ficha-tecnica",
