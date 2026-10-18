@@ -7,6 +7,9 @@
 // Sia Magazin). El precio 67.490 € es orientativo «no oficial» (Adria no publica PVP). Datos marcados
 // «no oficial» en "aprox": ancho (oficial: 2.100 mm), alto y MMA no publicados por Adria para el 640 SGX.
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
+// CORRECCIÓN 4 (18/10/2026, Coral Plus 670 SL): fuenteNombre reducido al fabricante
+// (ficha técnica oficial Adria UK); eliminadas las menciones a prensa como fuente principal.
+// Todos los datos numéricos proceden de la ficha técnica oficial Adria UK.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
 export const AUTOCARAVANAS_ADRIA_M1: Autocaravana[] = [
@@ -217,7 +220,7 @@ export const AUTOCARAVANAS_ADRIA_M1: Autocaravana[] = [
   fuente: "Plan de mantenimiento Fiat Ducato + recomendaciones Adria",
   },
   euroncap: null,
-  fuenteNombre: "Adria (adria.co.uk) + The Caravan Club + Out & About Live",
+  fuenteNombre: "Adria (adria.co.uk, ficha técnica oficial)",
   fuenteUrl: "https://www.adria.co.uk/motorhomes/coral",
   }
 ];

@@ -8,6 +8,10 @@
 // (concesionario UK). Dimensiones, MMA y plazas, de hoja de concesionario UK, quedan marcadas
 // «no oficial» en "aprox". Nota: la hoja UK indica MMA 3.650 kg y distribución de cama
 // transversal + basculante (no camas gemelas); la ficha mantiene los valores de gama ES.
+// CORRECCIÓN 4 (18/10/2026, Amphitryon 940 y Sport 340 UP): eliminadas las fuentes de
+// concesionario/anuncio (Motorvisión, AlpacaCamping, Caravaning Plaza) de fuenteNombre y
+// fuenteUrl (sustituidas por la web oficial del fabricante); la masa del Sport 340 UP, solo
+// disponible en fichas de concesionario, queda marcada «no oficial» en "aprox".
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
 export const AUTOCARAVANAS_BENIMAR_M1: Autocaravana[] = [
@@ -218,8 +222,8 @@ export const AUTOCARAVANAS_BENIMAR_M1: Autocaravana[] = [
   fuente: "Plan de mantenimiento Fiat Ducato + recomendaciones Benimar",
   },
   euroncap: null,
-  fuenteNombre: "Benimar (ficha técnica oficial) + Motorvisión",
-  fuenteUrl: "https://motorvision.es/pdf/generados/w0157074w.pdf",
+  fuenteNombre: "Benimar (ficha técnica oficial)",
+  fuenteUrl: "https://www.benimar.es",
   },
   {
   id: "benimar-sport-340-up-2026-precio-ficha-tecnica",
@@ -249,7 +253,7 @@ export const AUTOCARAVANAS_BENIMAR_M1: Autocaravana[] = [
   largoMm: 6760,
   anchoMm: 2300,
   altoMm: 3080,
-  pesoKg: 2900, // aprox. según alpacacamping.de; Benimar no publica cifra única oficial
+  pesoKg: 2900, // «no oficial»: aprox. según alpacacamping.de (concesionario); Benimar no publica cifra única oficial
   mmaKg: 3500,
   carnetNecesario: "B",
   cargaUtilKg: null, // sin cifras oficiales de masa no se puede calcular con fiabilidad
@@ -259,7 +263,7 @@ export const AUTOCARAVANAS_BENIMAR_M1: Autocaravana[] = [
   parNm: null, // no publicado por el fabricante
   traccion: "Delantera",
   emisionesCo2: null,
-  aprox: [],
+  aprox: ["pesoKg"], // «no oficial»: masa según ficha de concesionario, no publicada por Benimar
   pros: [
   "Capuchina de 6,76 m para 5 personas: formato familiar que aparca y maniobra casi como una perfilada grande",
   "Cama capuchina de 155×210 cm, de las más grandes del segmento: duermen dos adultos de verdad sobre la cabina",
@@ -324,7 +328,7 @@ export const AUTOCARAVANAS_BENIMAR_M1: Autocaravana[] = [
   "Intervalo Ford Transit (pendiente de verificación en web oficial) + recomendaciones Benimar",
   },
   euroncap: null,
-  fuenteNombre: "Benimar (web oficial) + AlpacaCamping + Caravaning Plaza",
-  fuenteUrl: "https://caravaningplaza.com/vehiculos/benimar-sport-340/",
+  fuenteNombre: "Benimar (web oficial)",
+  fuenteUrl: "https://www.benimar.es",
   }
 ];

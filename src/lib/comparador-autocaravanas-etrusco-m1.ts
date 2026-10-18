@@ -8,6 +8,9 @@
 // Precio "desde" en EUR no publicado por el fabricante → null (no inventar);
 // se documenta el PVP oficial británico (£72,799) en el comentario.
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
+// CORRECCIÓN 4 (18/10/2026, T 7400 SB): dimensiones, MMA, masa y carga útil proceden de
+// fichas de unidades 2026 de la red oficial (no de etrusco.com) → marcados «no oficial» en
+// "aprox". La web oficial solo confirma PVP británico, plazas y motor Fiat Ducato 2.2.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
 export const AUTOCARAVANAS_ETRUSCO_M1: Autocaravana[] = [
@@ -36,20 +39,20 @@ export const AUTOCARAVANAS_ETRUSCO_M1: Autocaravana[] = [
       "/media/etrusco-t-7400-sb-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
     videoCanal: null,
-    largoMm: 7400, // el catálogo oficial de la serie indica 743 cm; las unidades 2026 listan 7.400 mm
-    anchoMm: 2320,
-    altoMm: 2950,
-    pesoKg: 2801, // ficha de unidad 2026 (red oficial)
-    mmaKg: 3500, // opcional 3.650 kg según ficha de la red oficial (3.850 kg en catálogo)
+    largoMm: 7400, // «no oficial»: el catálogo oficial de la serie indica 743 cm; las unidades 2026 listan 7.400 mm
+    anchoMm: 2320, // «no oficial»: el catálogo oficial indica 233 cm; las unidades 2026 listan 2.320 mm
+    altoMm: 2950, // «no oficial»: el catálogo oficial indica 291 cm; las unidades 2026 listan 2.950 mm
+    pesoKg: 2801, // «no oficial»: ficha de unidad 2026 de la red oficial; Etrusco no publica la masa en su web
+    mmaKg: 3500, // «no oficial»: según fichas de unidades 2026 de la red oficial (opcional 3.650 kg; 3.850 kg en catálogo oficial)
     carnetNecesario: "B",
-    cargaUtilKg: 699, // calculada: 3.500 - 2.801 (coincide con la ficha de la red oficial)
+    cargaUtilKg: 699, // «no oficial»: calculada (3.500 − 2.801) desde cifras de la red oficial
     consumo: null,
     consumoUnidad: null,
     plazas: 4, // 4 plazas con cinturón; 2-5 plazas para dormir según configuración (etrusco.com)
     parNm: null, // no publicado en la documentación oficial consultada
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["largoMm", "anchoMm", "altoMm", "pesoKg", "mmaKg", "cargaUtilKg"], // «no oficial»: cifras de fichas de unidades 2026 de la red oficial, no de etrusco.com
     pros: [
       "Camas gemelas traseras de 217 x 80 cm que se unen en una doble gigante: el dormitorio más flexible de su precio",
       "Baño con ducha separada e independiente al otro lado del pasillo: ducharse sin plegar ni reconfigurar nada",

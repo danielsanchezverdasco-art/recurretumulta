@@ -5,6 +5,9 @@
 // L 105, L 319, L 409, L 412 DS). Datos: laika.it + alpacacamping.de. Precio orientativo
 // Alemania en «aprox». Fotos: pendientes de subida; se referencian los nombres y se suben
 // antes de anunciar el lote.
+// CORRECCIÓN 4 (18/10/2026, Kosmo L 319): eliminada la mención a alpacacamping.de
+// (concesionario) en fuenteNombre; el precio orientativo alemán queda marcado «no oficial»
+// en "aprox" (Laika no publica PVP).
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
 export const AUTOCARAVANAS_LAIKA_M1: Autocaravana[] = [
@@ -119,7 +122,7 @@ export const AUTOCARAVANAS_LAIKA_M1: Autocaravana[] = [
   modelo: "Kosmo L 319",
   tipo: "Autocaravana perfilada",
   categoria: "Autocaravana",
-  precioDesde: 82500, // orientativo Alemania (alpacacamping.de); en España puede diferir
+  precioDesde: 82500, // «no oficial»: orientativo Alemania según alpacacamping.de (concesionario); Laika no publica PVP; en España puede diferir
   potenciaCv: 140, // Fiat Ducato 2.2 MultiJet 35 Light; cambio automático opcional
   autonomiaKm: null,
   maleteroL: null,
@@ -215,7 +218,7 @@ export const AUTOCARAVANAS_LAIKA_M1: Autocaravana[] = [
   fuente: "Plan de mantenimiento Fiat Ducato + recomendaciones Laika",
   },
   euroncap: null,
-  fuenteNombre: "Laika (laika.it) + AlpacaCamping",
+  fuenteNombre: "Laika (laika.it, web oficial)",
   fuenteUrl: "https://www.laika.it/",
   }
 ];

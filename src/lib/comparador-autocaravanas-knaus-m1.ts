@@ -10,6 +10,9 @@
 // NOTA Sky TI 650 MEG: la ficha corresponde al año modelo 2026 sobre Fiat Ducato 140 CV
 // (la generación 2027 cambia al chasis VW Crafter, según knaus.com).
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
+// CORRECCIÓN 4 (18/10/2026, Sky TI 650 MEG): peso y carga útil proceden de fichas de
+// catálogo 2026 de la red oficial reproducidas por concesionarios → marcados «no oficial»
+// en "aprox" (mismo criterio aplicado al BoxLife 600 MQ en la tanda 2).
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
 export const AUTOCARAVANAS_KNAUS_M1: Autocaravana[] = [
@@ -146,17 +149,17 @@ export const AUTOCARAVANAS_KNAUS_M1: Autocaravana[] = [
     largoMm: 6960,
     anchoMm: 2320,
     altoMm: 2790,
-    pesoKg: 2990, // ficha de catálogo 2026 (red oficial); 3.119 kg en orden de marcha según la misma ficha
+    pesoKg: 2990, // «no oficial»: ficha de catálogo 2026 de la red oficial Knaus reproducida por concesionarios (no knaus.com); 3.119 kg en orden de marcha según la misma ficha
     mmaKg: 3500,
     carnetNecesario: "B",
-    cargaUtilKg: 381, // en orden de marcha según ficha de catálogo 2026 (red oficial)
+    cargaUtilKg: 381, // «no oficial»: calculada desde peso de catálogo de red (3.500 − 2.990)
     consumo: null,
     consumoUnidad: null,
     plazas: 4, // 4 plazas de circulación; 2 camas gemelas fijas + plazas opcionales
     parNm: null, // no publicado en la documentación oficial consultada
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["pesoKg", "cargaUtilKg"], // «no oficial»: peso de ficha de catálogo de red, no de knaus.com
     pros: [
       "Trasera FoldXpand con portón plegable: casi 10 cm más de espacio interior sin sumar un milímetro por fuera",
       "ServiceBox en la zaga: llaves de paso, conexiones y válvulas accesibles desde fuera sin entrar en la célula",

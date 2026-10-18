@@ -11,6 +11,9 @@
 // no están publicados en el sitio oficial → null (no inventar).
 // Precio no publicado por el fabricante → null.
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
+// CORRECCIÓN 4 (18/10/2026, 777 Titanium Line): carnetNecesario marcado «no oficial» en
+// "aprox" (MMA no publicado por el fabricante; el carnet B se infiere de la clase de 3,5 T
+// típica de la gama). Los datos de concesionario ya estaban en null con nota «no oficial».
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
 export const AUTOCARAVANAS_CHAUSSON_M1: Autocaravana[] = [
@@ -150,7 +153,7 @@ export const AUTOCARAVANAS_CHAUSSON_M1: Autocaravana[] = [
     altoMm: null, // no publicado en el sitio oficial (concesionarios: 2.920 mm — no oficial)
     pesoKg: null, // no publicado por el fabricante
     mmaKg: null, // no publicado en el sitio oficial (concesionarios: 3.500 kg — no oficial)
-    carnetNecesario: "B", // basado en la clase de 3,5 T típica de la gama; MMA oficial no publicado — confirmar en concesionario
+    carnetNecesario: "B", // «no oficial»: basado en la clase de 3,5 T típica de la gama; MMA oficial no publicado — confirmar en concesionario
     cargaUtilKg: null, // no publicada
     consumo: null,
     consumoUnidad: null,
@@ -158,7 +161,7 @@ export const AUTOCARAVANAS_CHAUSSON_M1: Autocaravana[] = [
     parNm: null, // no publicado por el fabricante
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["carnetNecesario"], // «no oficial»: MMA no publicado por el fabricante; el carnet B se infiere de la clase de 3,5 T típica de la gama
     pros: [
       "Camas gemelas traseras de 90 cm de ancho cada una: más anchas que las gemelas habituales, con un gran garaje calefactado e iluminado debajo y doble portón de acceso",
       "Estructura IRP con techo, suelo y paredes de poliéster y suelo de 64 mm, más 7 años de garantía de estanqueidad con revisión anual: construcción pensada para durar",
