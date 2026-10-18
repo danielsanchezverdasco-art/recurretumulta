@@ -311,28 +311,36 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: [
+    ],
     pros: [
+      "Consumo real de ≈5 L/100 km (fuente: Revista Moto)",
       "Monocilíndrico de 692,7 cc con 74 CV: el supermotard grande por excelencia",
-      "Parte ciclo de supermoto real: llantas 17\", frenos potentes y geometría agresiva",
+      "Parte ciclo de supermoto real: llantas 17\\", frenos potentes y geometría agresiva",
       "Electrónica completa: modos de conducción, control de tracción y ABS en curva",
       "Matriculable y usable a diario con etiqueta C",
       "Base KTM 690 SMC R con el toque rojo GasGas y precio 11.449 €",
-      "Diversión máxima en carreteras de curvas y puertos de montaña"
+      "Diversión máxima en carreteras de curvas y puertos de montaña",
+      "Quickshifter de doble sentido de serie (Motosan)",
+      "Intervalos de mantenimiento cada 10.000 km, de los más largos de su segmento (GasGas)",
     ],
     contras: [
       "146 kg y 74 CV: exige respeto, no es una 125 con esteroides",
       "Monocilíndrico grande: vibra y consume en uso tranquilo",
       "Postura y asiento pensados para atacar, no para viajar",
-      "Neumáticos deportivos de 17\" caros y de corta duración",
+      "Neumáticos deportivos de 17\\" caros y de corta duración",
       "El depósito limita la autonomía en ruta",
-      "Seguro a todo riesgo elevado por potencia y perfil"
+      "Seguro a todo riesgo elevado por potencia y perfil",
+      "A partir de 100 km/h la imagen de los retrovisores se vuelve borrosa por las vibraciones (Revista Moto)",
     ],
     curiosidades: [
       "Comparte motor y base con la KTM 690 SMC R, la reina de las supermotard",
       "Su nombre ES viene de 'Enduro Supermoto', la familia asfáltica de GasGas",
       "Es una de las pocas supermotard grandes homologadas Euro5 del mercado",
-      "El monocilíndrico de 692,7 cc es uno de los más grandes en producción"
+      "El monocilíndrico de 692,7 cc es uno de los más grandes en producción",
+      "El depósito de 13,5 L va integrado en el subchasis trasero autoportante de poliamida, que pesa solo 5,2 kg (GasGas)",
+      "Laia Sanz rodó con la ES 700 en una prueba de unos 1.600 km por el centro de España (Revista Moto)",
+      "Existe un mapa de motor específico A2 que la limita a 30 kW (gasgas.com)",
     ],
     imagen: "/media/motos/gasgas-es-700-2024-ficha-tecnica-precio-1.webp",
     galeria: [
