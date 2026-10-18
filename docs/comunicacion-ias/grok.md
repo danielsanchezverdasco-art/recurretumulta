@@ -255,3 +255,80 @@ Reglas (si no se cumplen, la fila se ignora):
 - Avisa cada tanda con: «@grok lote listo rivales N» + cuántas fichas / filas + si falta alguna por no haber rival válido en catálogo.
 
 No toques código ni `main`. Solo el CSV + el aviso aquí. Yo reviso y lo conecto al duelo.
+
+---
+
+## 2026-10-18 · Encargo nuevo: RADARES FIJOS DE ESPAÑA (una página por radar)
+
+@niky Prioridad: **después de autocaravanas, al mismo nivel que los rivales.** Daniel quiere **TODOS los radares fijos de España, sin dejarse ninguno**: las **17 comunidades autónomas + Ceuta + Melilla**. Tienen que ser de calidad y sin duplicados. Tú preparas los datos; yo reviso y publico. **No publiques ni toques la web.**
+
+### 0. Trabajo en paralelo con tus agentes
+- Reparte las comunidades entre tus propios agentes para trabajar en paralelo. Cada agente entrega su comunidad por lotes en la rama `radares` y pasa el mismo autochequeo obligatorio (punto 7).
+- **Tampoco puede haber duplicados entre agentes.** Antes de cada entrega se cruza contra el CSV completo de la rama, no solo contra lo de su comunidad. Un radar en el límite entre dos comunidades es de la comunidad cuya provincia contiene las coordenadas.
+- Rellena la tabla de cobertura y mantenla al día:
+
+| Comunidad / ciudad | Agente asignado | Fuente principal | Estado (pendiente/en curso/entregado) | Nº radares |
+|---|---|---|---|---|
+| Andalucía | | DGT | | |
+| Aragón | | DGT | | |
+| Asturias | | DGT | | |
+| Illes Balears | | DGT | | |
+| Canarias | | DGT (comprobar cobertura) | | |
+| Cantabria | | DGT | | |
+| Castilla-La Mancha | | DGT | | |
+| Castilla y León | | DGT | | |
+| Cataluña | | Servei Català de Trànsit | | |
+| Comunitat Valenciana | | DGT | | |
+| Extremadura | | DGT | | |
+| Galicia | | DGT | | |
+| Comunidad de Madrid | | DGT + Ayto. Madrid | | |
+| Región de Murcia | | DGT | | |
+| Navarra | | DGT (comprobar si la Policía Foral publica algo) | | |
+| País Vasco | | Trafikoa (mapa) | | |
+| La Rioja | | DGT | | |
+| Ceuta | | DGT | | |
+| Melilla | | DGT | | |
+
+Si una comunidad no tiene ningún radar en las fuentes oficiales, la tabla tiene que decirlo expresamente («0 en fuente X, comprobado el AAAA-MM-DD»). No se deja ninguna fila en blanco.
+
+### 1. Rama
+- Crea la rama nueva `radares` desde `completar-fichas`. Todo va en `docs/radares/radares.csv` (UTF-8, separado por comas, cabecera en la primera línea).
+
+### 2. Fuentes oficiales (solo estas; nada de webs de avisadores)
+1. **DGT (red estatal, sin Cataluña ni País Vasco)**: XML DATEX II https://nap.dgt.es/datex2/dgt/PredefinedLocationsPublication/radares/content.xml (ficha: https://nap.dgt.es/dataset/radares-fijos-dgt). Unas 737 ubicaciones: 690 `nonLinkedPoint` (= fijo) y 47 `segment` (= tramo, con `from` y `to`). Trae la carretera (`roadNumber`), el PK (`referencePointDistance`; revisa la unidad), el sentido (`directionRelative`/`directionNamed`), la provincia (`provinceINEIdentifier`), el municipio (`townName`) y lat/lon en WGS84. **NO trae la velocidad límite.**
+2. **Cataluña (Servei Català de Trànsit)**: TXT https://transit.gencat.cat/web/.content/documents/seguretat_viaria/radars.txt (catálogo: https://datos.gob.es/es/catalogo/a09002970-radares-fijos-de-cataluna). Unas 245 líneas con Via, PK, Velocitat, X e Y en UTM ETRS89 huso 31N (EPSG:25831), que hay que convertir a WGS84. Un PK con forma «A-B» es un tramo y el sentido sale del orden (de A a B). OJO: hay filas con X/Y mal escritas (B-10, C-16, C-17, A-2 563) y un duplicado exacto (B-10 18,5). Si una coordenada no cae en Cataluña, deja lat/lon vacíos y pon «coordenada de origen errónea» en notas.
+3. **País Vasco (Tráfico, Gobierno Vasco)**: no hay fichero abierto, solo el mapa https://apps.trafikoa.euskadi.eus/lfr/web/trafikoa/cabinas-de-radar-fijo. Copia de ahí solo lo que se lea con claridad. La capa de Bizkaia (https://geo.bizkaia.eus/arcgisserver/rest/services/Garraioa_Transporte/GHCN/MapServer/190) es de 2005: sirve para contrastar, nunca como fuente única.
+4. **Madrid ciudad (municipal)**: https://datos.madrid.es/dataset/300049-0-radares-fijos-moviles (WGS84, CC BY 4.0). Coge solo los fijos y los de tramo. En el tramo de la Avda. de Córdoba solo viene el radar de salida.
+5. Barcelona ciudad no tiene un dataset propio de radares. No lo inventes.
+
+### 3. Columnas (en este orden)
+`id_unico,carretera,pk,sentido,provincia,municipio,comunidad,tipo,velocidad_limite,lat,lon,longitud_tramo_km,fuente_url,fecha_verificacion,notas`
+- `id_unico`: un slug estable `carretera-pk-sentido-tipo`, en minúsculas y sin tildes, con el PK en km y un decimal y un guion en lugar del punto. Ejemplo: `a-6-25-3-creciente-fijo`. En un tramo, el PK de inicio. Si no se sabe el sentido: `ambos`.
+- `pk`: en km con punto decimal. En un tramo, el de inicio, y el final en notas («fin pk 30.1»).
+- `sentido`: creciente / decreciente / ambos, con el destino en notas si la fuente lo da.
+- `tipo`: fijo / tramo / cabina.
+- `velocidad_limite`: en km/h. La DGT no la da: búscala en una fuente oficial. Si no aparece, celda vacía y «limite pendiente» en notas.
+- `lat,lon`: WGS84 con 5 decimales. `longitud_tramo_km`: solo en los tramos.
+- `fuente_url`: la URL exacta del fichero oficial. `fecha_verificacion`: AAAA-MM-DD.
+
+### 4. Reglas contra duplicados
+1. Misma carretera, PK a ±0,5 km y mismo sentido = UN registro. Gana la fuente más oficial para esa vía y la otra se anota en notas.
+2. Un tramo es UN registro: su inicio y su fin no cuentan como dos radares.
+3. Cruza siempre las fuentes entre sí y entre agentes.
+4. `id_unico` no se repite nunca.
+
+### 5. PROHIBIDO INVENTAR
+Si un dato no sale de una fuente oficial: celda vacía y el motivo en `notas`. Nada de velocidades «típicas», municipios deducidos ni coordenadas aproximadas.
+
+### 6. Lotes
+Se empieza por **Madrid, Cataluña y Andalucía**, y en paralelo tus agentes con el resto. Cada lote va en su propio commit en `radares` y se anuncia aquí con:
+`@grok lote listo radares <comunidad>`
+
+### 7. Autochequeo OBLIGATORIO antes de cada entrega (pega el resultado en el aviso)
+- [ ] 0 `id_unico` repetidos y 0 parejas con la misma carretera, PK a ±0,5 y el mismo sentido, **en todo el CSV** (también entre agentes).
+- [ ] Todas las lat/lon dentro de su provincia.
+- [ ] `velocidad_limite` rellena, o vacía con «limite pendiente». Indica cuántas faltan.
+- [ ] Cada `fuente_url` responde 200.
+- [ ] Recuento por tipo y por provincia, y la tabla de cobertura actualizada.
+
+Gracias, Niky. Revisaré lote a lote antes de publicar nada.
