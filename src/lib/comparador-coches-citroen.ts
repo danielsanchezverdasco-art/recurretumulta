@@ -1165,7 +1165,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     precioDesde: 7990,
     potenciaCv: 8,
     autonomiaKm: 75,
-    maleteroL: null,
+    maleteroL: 63,
     ceroCien: null,
     velocidadMax: 45,
     bateriaKwh: 5.5,
@@ -1188,9 +1188,9 @@ export const COCHES_CITROEN: CocheComparador[] = [
     largoMm: 2410,
     anchoMm: 1390,
     altoMm: 1525,
-    pesoKg: null,
-    consumo: null,
-    consumoUnidad: null,
+    pesoKg: 483,
+    consumo: 8,
+    consumoUnidad: "kWh/100 km",
     plazas: 2,
     parNm: 40,
     traccion: "Delantera",
@@ -1224,11 +1224,39 @@ export const COCHES_CITROEN: CocheComparador[] = [
       },
       {
         "src": "/media/citroen-ami-2026-precio-ficha-tecnica-interior.webp",
-        "alt": "Interior minimalista del Citroën Ami",
+        "alt": "Interior del nuevo Citroën Ami 2026 (foto de prensa, vía evmagz.com)",
         "ancho": 1920,
         "alto": 1280
       }
     ],
+    cicloAutonomia: "WMTC",
+    versiones: [
+      {
+        nombre: "Ami",
+        precio: 7990,
+      },
+      {
+        nombre: "Ami Colour Pack",
+        precio: 8390,
+      },
+      {
+        nombre: "Ami Buggy",
+        precio: 9590,
+      },
+      {
+        nombre: "Ami Buggy Palmeira",
+        precio: 9990,
+      }
+    ],
+    euroncap: {
+      "estrellas": null,
+      "ano": null,
+      "url": null,
+      "nota": "Sin datos EuroNCAP: los cuadriciclos ligeros (L6e) no se someten a pruebas Euro NCAP"
+    },
+    planMantenimiento: null,
+    fuenteNombre: "auto-data.net (ficha Ami Electric Phase II 2025) + Citroën España",
+    fuenteUrl: "https://www.auto-data.net/es/citroen-ami-electric-buggy-5.4-kwh-8hp-54220"
   },  {
     id: "citroen-e-c3-aircross-2026-precio-ficha-tecnica",
     garantiaBateriaAnos: 8,

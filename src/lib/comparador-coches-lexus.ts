@@ -700,23 +700,23 @@ export const COCHES_LEXUS: CocheComparador[] = [
     tipo: "Híbrido",
     categoria: "Berlina",
     precioDesde: 61500,
-    potenciaCv: 201,
+    potenciaCv: 196,
     autonomiaKm: null,
     maleteroL: 493,
-    ceroCien: null,
+    ceroCien: 8.0,
     velocidadMax: null,
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
-      "201 CV con la sexta generación del sistema híbrido Lexus",
+      "196 CV con la sexta generación del sistema híbrido Lexus (0-100 km/h en 8,0 s)",
       "Solo 4,8 l/100 km homologados: la berlina grande más frugal",
       "5,14 metros de berlina de representación por 61.500 €",
       "Etiqueta ECO y Lexus Safety System+ 4.0 de serie",
       "Mismo precio de acceso que el eléctrico ES 350e: eliges tecnología",
     ],
     contras: [
-      "Sin dato oficial de 0-100 ni velocidad máxima publicados",
+      "Velocidad máxima sin dato oficial publicado por la marca",
       "El e-CVT eleva el régimen (y el ruido) al acelerar a fondo",
       "Maletero de 493 litros, justo para 5,14 metros de coche",
       "La calidad de rodadura queda por detrás de un BMW Serie 5 (hibridosyelectricos)",
@@ -724,14 +724,14 @@ export const COCHES_LEXUS: CocheComparador[] = [
     ],
     largoMm: 5140,
     anchoMm: 1920,
-    altoMm: 1560,
+    altoMm: 1555,
     pesoKg: null,
     consumo: 4.8,
     consumoUnidad: "l/100 km",
     plazas: 5,
     parNm: null,
     traccion: "Delantera",
-    emisionesCo2: null,
+    emisionesCo2: 109,
     aprox: [],
     imagen: "/media/lexus-es-300h-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
@@ -766,8 +766,37 @@ export const COCHES_LEXUS: CocheComparador[] = [
         "alto": 1152
       }
     ],
-    fuenteNombre: "hibridosyelectricos.com",
-    fuenteUrl: "https://www.hibridosyelectricos.com/coches/nuevo-lexus-es-llega-espana-con-dos-versiones-electricas-hibrida-61500-euros_89507_102.html",
+    versiones: [
+      {
+        nombre: "ES 300h Signature FWD",
+        precio: 61500,
+      },
+      {
+        nombre: "ES 300h Signature AWD",
+        precio: 64500,
+      },
+      {
+        nombre: "ES 300h Exclusive AWD",
+        precio: 69500,
+      }
+    ],
+    euroncap: {
+      "estrellas": null,
+      "ano": null,
+      "url": null,
+      "nota": "Sin datos EuroNCAP: el nuevo ES de octava generación (2026) no ha sido sometido a pruebas Euro NCAP publicadas"
+    },
+    planMantenimiento: {
+      "intervalo": "12 meses o 15.000 km (lo que ocurra antes)",
+      "revisiones": [
+        { "nombre": "Revisión anual / 15.000 km", "queSeCambia": "Aceite + filtros + inspección del sistema híbrido", "costeAproxEur": null },
+        { "nombre": "Revisión / 30.000 km", "queSeCambia": "Revisión anual + elementos adicionales según el plan Lexus", "costeAproxEur": null }
+      ],
+      "costeAnualAproxEur": null,
+      "fuente": "Lexus España (intervalo oficial; los costes dependen del concesionario y no se publican)"
+    },
+    fuenteNombre: "Lexus España (prensa oficial)",
+    fuenteUrl: "https://prensa.lexusauto.es/el-nuevo-lexus-es-redefiniendo-el-sedan-de-lujo/",
   },
   // 10. Lexus ES 350e (eléctrico, octava generación, 2026)
   {

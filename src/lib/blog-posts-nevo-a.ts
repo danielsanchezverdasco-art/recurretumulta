@@ -89,9 +89,9 @@ Como híbrido enchufable con más de 40 km de autonomía eléctrica, le correspo
   },
   {
     slug: "nevo-a06-2025-precio-ficha-tecnica",
-    title: "Nevo A06 2025: berlina eléctrica 800V desde 14.300 €",
+    title: "Nevo A06 2025: berlina eléctrica 800V desde 14.595 €",
     "excerpt":
-      "El Nevo A06 es una berlina eléctrica con plataforma de 800 V, carga 6C en 9 minutos y 510 km CLTC. Precio en China: desde 14.300 €.",
+      "El Nevo A06 es una berlina eléctrica con plataforma de 800 V, carga 6C en 9 minutos y 510 km CLTC. Precio en China: desde 14.595 €.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 8,
@@ -104,30 +104,35 @@ Como híbrido enchufable con más de 40 km de autonomía eléctrica, le correspo
       "berlina eléctrica 800V",
     ],
     content: `
-<img src=/media/nevo-a06-2025-precio-ficha-tecnica-hero.webp alt="Nevo A06, tres cuartos delantero en carretera de montaña">
+<img src=/media/nevo-a06-2025-precio-ficha-tecnica-hero.webp alt="Nevo A06 plateado, vista frontal en estudio (foto real de bitauto)">
 
-<p>Lanzado en noviembre de 2025, el <strong>Nevo A06</strong> es la apuesta de Changan para demostrar que la tecnología de 800 V no tiene por qué costar 50.000 €. Esta <strong>berlina liftback eléctrica</strong> arranca en China en <strong>10.99万元 (≈14.300 €)</strong> y ofrece <strong>carga 6C: del 30 al 80 % en 9 minutos</strong>. <a href=/coches/nevo-a06-2025-precio-ficha-tecnica/>Mira su ficha técnica completa aquí</a>.</p>
+<p><em>Actualizado el 18/10/2026.</em> Lanzado el <strong>09/11/2025</strong>, el <strong>Nevo A06</strong> es la apuesta de Changan para demostrar que la tecnología de 800 V no tiene por qué costar 50.000 €. Esta <strong>berlina liftback eléctrica</strong> arranca en China en <strong>109.900 ¥ (≈14.595 €)</strong> y ofrece <strong>carga 6C: del 30 al 80 % en 9 minutos</strong>. El <strong>10/10/2026</strong> llegó el <strong>restyling 2027款</strong>. <a href=/coches/nevo-a06-2025-precio-ficha-tecnica/>Mira su ficha técnica completa aquí</a>.</p>
 
-<p>Con 4.885 mm de largo y una batalla de 2.922 mm, el A06 juega en la liga del Tesla Model 3 y el BYD Seal. La versión eléctrica monta un motor trasero de <strong>200 kW (272 CV)</strong>, acelera de <strong>0-100 en 6,2 s</strong> y declara <strong>510 km CLTC</strong> (630 km en la versión de batería grande). También existe variante de <strong>autonomía extendida</strong> con 240 km eléctricos y una autonomía total declarada de 2.120 km.</p>
+<p>Con 4.885 mm de largo y una batalla de 2.922 mm, el A06 juega en la liga del Tesla Model 3 y el BYD Seal. El motor trasero entrega <strong>120 kW (163 CV)</strong> en la versión base y <strong>210 kW (286 CV)</strong> en la tope de gama, acelera de <strong>0-100 en 6,2 s</strong> y declara <strong>510 km CLTC</strong> (630 km en la versión de batería grande). También existe variante de <strong>autonomía extendida (REEV)</strong> con 240 km eléctricos y una autonomía total declarada de 2.120 km.</p>
 
-## Ficha técnica resumida
+## Ficha técnica por versión
 
-| Característica | Nevo A06 EV |
+| Versión | Motor | Batería | Autonomía (CLTC) | Precio en China |
+|---|---|---|---|---|
+| EV 510 km | 120 kW (163 CV), tracción trasera | 51,48 kWh | 510 km | 109.900 ¥ (≈14.595 €) |
+| REEV 240 km | Extensor 1.5 + motor eléctrico | 28,39 kWh (CATL) | 240 km eléctricos / 2.120 km totales | 119.900 ¥ (≈15.923 €) |
+| EV 630 km (tope) | 210 kW (286 CV), tracción trasera | 63,18 kWh | 630 km | 149.900 ¥ (≈19.907 €) |
+
+## Datos generales
+
+| Característica | Nevo A06 |
 |---|---|
-| Sistema | Eléctrico, tracción trasera |
-| Potencia | 200 kW (272 CV) |
-| Autonomía | 510 / 630 km CLTC |
-| 0-100 km/h | 6,2 s |
 | Plataforma | 800 V, carga 6C (30-80 % en 9 min) |
+| 0-100 km/h | 6,2 s |
 | Maletero | 656 l + frunk de 108 l |
 | Dimensiones | 4.885 × 1.916 × 1.496 mm (batalla 2.922 mm) |
-| Precio en China | desde 10.99万元 (≈14.300 €) |
+| Etiqueta DGT equivalente | Cero |
 
 ## Chasis y tecnología
 
-<p>El A06 presume de <strong>chasis de aleación de aluminio</strong> con doble horquilla delantera y multibrazo trasero, algo inaudito en su rango de precio. <img src=/media/nevo-a06-2025-precio-ficha-tecnica-oficial.webp alt="Nevo A06, vista lateral en una calle europea"></p>
+<p>El A06 presume de <strong>chasis de aleación de aluminio</strong> con doble horquilla delantera y multibrazo trasero, algo inaudito en su rango de precio. <img src=/media/nevo-a06-2025-precio-ficha-tecnica-oficial.webp alt="Nevo A06 gris, vista trasera tres cuartos (foto real de autohome)"></p>
 
-<p>El interior es minimalista, con una gran pantalla central y pocos botones físicos. <img src=/media/nevo-a06-2025-precio-ficha-tecnica-interior.webp alt="Interior del Nevo A06, salpicadero minimalista con gran pantalla central"> Las versiones altas añaden <strong>lidar</strong> y el sistema de conducción asistida de Changan.</p>
+<p>El interior es minimalista, con una gran pantalla central y pocos botones físicos. <img src=/media/nevo-a06-2025-precio-ficha-tecnica-interior.webp alt="Interior del Nevo A06 con pantalla de 15,6 pulgadas y volante con logo Nevo (foto de yiche, con marca de agua)"> Las versiones altas añaden <strong>lidar</strong> y el sistema de conducción asistida de Changan.</p>
 
 ## Vídeo
 
@@ -137,16 +142,16 @@ Como híbrido enchufable con más de 40 km de autonomía eléctrica, le correspo
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Nevo A06?
-Desde 10.99万元 en China, unos 14.300 € al cambio. La versión eléctrica tope ronda los 14.99万元.
+Desde 109.900 ¥ en China (unos 14.595 € al cambio) en la versión eléctrica de 510 km. La REEV cuesta 119.900 ¥ y la tope de gama eléctrica de 630 km llega a 149.900 ¥.
 
 ### ¿Qué autonomía tiene el Nevo A06?
-510 km CLTC en la versión base y 630 km en la de batería grande. En ciclo WLTP serían unos 420-440 km.
+510 km CLTC en la versión base, 630 km en la tope de gama y 240 km eléctricos (2.120 km totales) en la REEV con batería CATL de 28,39 kWh.
 
 ### ¿Qué es la carga 6C del Nevo A06?
 Su plataforma de 800 V admite cargas ultrarrápidas: del 30 al 80 % en solo 9 minutos.
 
-### ¿El Nevo A06 tiene versión de autonomía extendida?
-Sí, con motor 1.5 como generador, 28,4 kWh de batería, 240 km eléctricos y 2.120 km totales declarados.
+### ¿Qué cambia el restyling 2027款?
+Es la actualización de modelo que llegó el 10/10/2026; mantiene las versiones EV y REEV con los datos técnicos verificados de lanzamiento.
 
 ### ¿El Nevo A06 se vende en España?
 No. De momento solo se comercializa en China.
@@ -156,9 +161,12 @@ Como eléctrico puro, le correspondería la etiqueta Cero.
 
 ## Fuentes
 
-- <a href=https://www.autohome.com.cn/che168/carmodel>Autohome: Nevo A06, lanzamiento noviembre 2025</a>
-- <a href=https://k.sina.cn>Sina Auto: especificaciones del Nevo A06</a>
-- <a href=https://www.testcoches.es>Testcoches: la ofensiva eléctrica china</a>
+- <a href=https://chejiahao.autohome.com.cn/info/26634452>Autohome: lanzamiento y precios del Nevo A06</a>
+- <a href=https://www.autohome.com.cn/che168/carmodel>Autohome: especificaciones del Nevo A06</a>
+
+## Cómo verificamos
+
+<p>Precios, potencias y autonomías cotejados con la prensa china (Autohome) el 18/10/2026. Las conversiones a euros usan el tipo de cambio 1 € = 7,53 CNY del 18/10/2026 y son aproximadas. El A06 no ha sido probado por Euro NCAP.</p>
 
 <p>¿Una berlina 800V por 14.300 €? <a href=/comparador-coches/>Compara el Nevo A06 con los eléctricos que se venden en España</a> y recuerda: <a href=https://recurretumulta.online/#analizador>analiza tu multa gratis con nuestra IA antes de recurrirla</a>.</p>
 `,

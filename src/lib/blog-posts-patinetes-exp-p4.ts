@@ -581,7 +581,7 @@ Si lo encuentras al precio del Pro S, sí por el extra de rango. Si es mucho má
   // ─────────────────────────── AOVOPRO (3) ───────────────────────────
   {
     slug: "aovopro-esmax",
-    title: "Aovopro ESMAX: 500 W y 609 Wh, el tope de gama",
+    title: "Aovopro ESMAX: 500 W y 609 Wh, el patinete tope de gama",
     excerpt:
       "El Aovopro ESMAX es lo máximo de la marca: 500 W, batería de 609 Wh, 43 km declarados y cuádruple suspensión. Precio y ficha.",
     category: "Novedades Motor",
@@ -599,6 +599,8 @@ Si lo encuentras al precio del Pro S, sí por el extra de rango. Si es mucho má
       "aovopro esmax review",
     ],
     content: `<img src=/media/patinetes/aovopro-esmax-1.webp alt=Aovopro ESMAX negro, vista lateral completa del patinete>
+
+*Actualizado el 18/10/2026.*
 
 **¿Buscas solo los datos?** <a href=/patinetes/aovopro-esmax/>Ver ficha técnica del Aovopro ESMAX</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
@@ -668,11 +670,13 @@ Unas **7 horas** con el cargador de serie.
 Los neumáticos son **autosellantes**: la mayoría de pinchazos se sellan solos.
 
 ### ¿Merece la pena frente al ES80?
-Si haces más de 15 km al día o pesas más de 80 kg, sí: el ES80 se queda corto.
+Si haces más de 15 km al día o pesas más de 80 kg, sí: el ES80 se queda corto. Si buscas algo más ligero y barato, mira el <a href=/blog/aovopro-365-go/>Aovopro 365 Go</a>.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://manuals.plus/asin/B0DNFJQ2YP.pdf>manual oficial del ESMAX</a> y <a href=https://hoverboardsguide.com/aovopro-electric-scooter-review/>análisis en HoverboardsGuide</a>.*`,
+**Cómo verificamos:** especificaciones del manual oficial de Aovopro (500 W, 42 V 14,5 Ah, 43 km, 7 h de carga) contrastadas con la review de HoverboardsGuide y la ficha del distribuidor Aovo. Sin PVP oficial en España: el rango 300-400 € es de mercado, no oficial.
+
+*Fuentes: <a href=https://www.aovo.hu/en/products/aovo-esmax-elektromos-roller>ficha del distribuidor Aovo</a> y <a href=https://hoverboardsguide.com/aovopro-electric-scooter-review/>análisis en HoverboardsGuide</a>.*`,
   },
   {
     slug: "aovopro-365-go",

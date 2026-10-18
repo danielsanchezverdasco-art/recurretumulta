@@ -518,9 +518,9 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     marca: "Fantic",
     modelo: "XEF 310",
     version: "4T 2025",
-    cilindradaCc: 310,
+    cilindradaCc: 304,
     categoria: "Enduro",
-    precioDesde: 10990,
+    precioDesde: 10790,
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -528,46 +528,63 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     bateriaKwh: null,
     velocidadMax: null,
     ceroCincuenta: null,
-    pesoKg: null,
+    pesoKg: 106,
     plazas: 1,
     carnet: "A2",
     carga: null,
-    etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    etiquetaDgt: "C",
+    aprox: [],
     pros: [
-      "Cilindrada intermedia de 310 cc: más par que la 250 sin el peso de la 450",
-      "Motor 4T con base Yamaha, suave y lleno desde abajo",
+      "304 cc 4T con cilindro Athena: más par que la 250 sin el peso de la 450",
+      "3 mapas de motor + control de tracción de 10 niveles con app WiGET",
+      "Horquilla Kayaba SSS de 48 mm y chasis perimetral de aluminio",
       "El punto dulce para enduro técnico y pilotos de nivel medio-alto",
-      "Parte ciclo de competición con suspensiones de calidad",
-      "Menos intimidante que una 450 en zonas complicadas",
-      "Exclusividad: pocas marcas ofrecen esta cilindrada"
+      "Homologada Euro5+: se puede matricular y circular",
+      "PVP de 10.790 €, por debajo de gran parte de su competencia"
     ],
     contras: [
-      "Moto de competición sin homologación",
-      "Precio (~10.990 €) superior al de muchas 350 de la competencia",
+      "Precio superior al de muchas 250 de la competencia",
       "Cilindrada poco común: menos oferta de repuestos específicos",
-      "El 4T requiere mantenimiento de válvulas",
-      "Reventa más lenta que una 250 o 450 estándar",
+      "El 4T exige reglaje de válvulas periódico",
+      "Como enduro racing, pide mantenimiento frecuente",
+      "Asiento alto (955 mm): no apta para pilotos bajos",
       "Red de concesionarios limitada en España"
     ],
     curiosidades: [
-      "La 310 es una cilindrada casi exclusiva de Fantic en el enduro moderno",
-      "Nació para ofrecer el par de una 350 con la agilidad de una 250",
-      "Su motor parte del bloque Yamaha de 250 llevado a 310 cc",
-      "En el enduro italiano es una de las opciones favoritas de los privados"
+      "Su motor de 304 cc lo firma Athena: 85,0 x 53,6 mm y compresión 12,8:1",
+      "La desarrolló con el excampeón del mundo Alex Salvini",
+      "Lleva el sistema WiFi COM: se ajusta el motor desde el móvil con la app WiGET",
+      "Enduromagazine la probó en 2024: «equilibrio perfecto entre la 250 y la 450»"
     ],
     imagen: "/media/motos/fantic-xef-310-2025-ficha-tecnica-precio-1.webp",
     galeria: [
-      { src: "/media/motos/fantic-xef-310-2025-ficha-tecnica-precio-2.webp", alt: "Detalle del motor de la Fantic XEF 310 2025", ancho: 1200, alto: 800 },
+      { src: "/media/motos/fantic-xef-310-2025-ficha-tecnica-precio-2.webp", alt: "Fantic XEF 310 2025, vista delantera tres cuartos", ancho: 1200, alto: 800 },
       { src: "/media/motos/fantic-xef-310-2025-ficha-tecnica-precio-3.webp", alt: "Fantic XEF 310 2025 en acción en el monte", ancho: 1200, alto: 800 }
     ],
     videoId: null,
     videoCanal: null,
-    fuenteNombre: "Fantic Motor España",
-    fuenteUrl: null,
+    fuenteNombre: "Enduromagazine (prueba XEF 310 4T)",
+    fuenteUrl: "https://enduromagazine.com/test-fantic-xe-300-2t-y-xef-310-4t/",
     analisisSlug: "fantic-xef-310-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       aceiteTipo: "10W-40 4T API SG o superior, JASO MA (manual oficial Fantic; no usar aceites minerales)"
+    },
+    planMantenimiento: {
+      intervalo: "Sin plan oficial público: enduro de competición con mantenimiento por horas de uso",
+      revisiones: [
+        {
+          nombre: "Tras cada salida",
+          queSeCambia: "Aceite 10W-40 4T JASO MA + limpieza y engrase de cadena + revisión del filtro de aire",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Cada 15-20 horas de uso",
+          queSeCambia: "Control de holgura de válvulas + bujía + líquidos",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Fantic Motor: la XEF 310 es una enduro de competición; intervalos por uso, no públicos",
     },
   },
   {
