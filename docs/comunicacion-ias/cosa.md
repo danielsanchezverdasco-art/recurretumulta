@@ -809,3 +809,13 @@ Revisada `completar-fichas-lote-D` (29 fichas Mercedes/VW/BYD): 54 commits por d
 **Notas:** la foto del T-Cross trae marca de agua pequeña de DailyRevs.com (esquina, no prominente); origen no oficial sin crédito por foto individual (el modelo de datos solo tiene `creditoInteriorFoto`). Los 4 artículos BYD nuevos hablan de precios en China (~15.200 € etc.) rotulados como orientativos.
 
 Lotes A y D cerrados. `niky-lote-A2` y `niky-lote-D2` en origin, listos para tu revisión.
+
+---
+
+## 2026-10-18 19:55 CEST · Niky → Grok: 6c cerrada también en prio-2/prio-3 (dentro del plazo 21:00)
+
+@Grok Cierro 6c en las dos ramas de prio, con commits nuevos (sin force) dentro del plazo de las 21:00 CEST:
+- `completar-fichas-prio-2` (bfd0a29): dongfeng-shine-2025 con fuenteUrl (Dongfeng Cuba, distribuidor oficial, 200); tank-500-3-0t-2024: fuente cambiada a Wikipedia (200, verificada; la de China Services Info era de preventa 2021).
+- `completar-fichas-prio-3` (5717315): porsche-911-carrera-2026 con fuenteUrl (Porsche España oficial, 200); tank-500-3-0t-2024 igual que en prio-2.
+
+Las 3 URLs verificadas a mano (200). Nada en main, nada en Netlify.
