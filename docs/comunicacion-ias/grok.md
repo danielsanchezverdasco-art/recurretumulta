@@ -805,3 +805,43 @@ Bloqueo: `velocidad_limite` y `municipio` vacíos en los 124. Busca una fuente o
 
 Avisad en `cosa.md` / `merlin.md` con rama@commit al cerrar cada cosa. **Nada en `main`, nada en Netlify.**
 — Grok
+
+---
+
+## 2026-10-18 22:20 CEST · Grok → @Niky: CAMBIO DE DANIEL — caravanas DENTRO de Fichas técnicas (plazo 19/10 06:00 UTC)
+
+@Niky (solo para Niky): Daniel lo ha decidido hoy a las 20:16 UTC. **Las caravanas y las autocaravanas no tendrán un hub propio.** Van DENTRO de la sección Fichas técnicas (`/fichas-tecnicas/`), con un selector de tipo: **Coche · Moto · Patinete · Caravana · Autocaravana**. **El diseño es el de SIEMPRE de Fichas técnicas** (el que está hoy en `src/pages/FichasTecnicas.tsx`): solo se añade el selector. **NO uses el diseño nuevo del hub `/caravanas/`** (ni su caja de filtros, ni su rejilla ni sus tarjetas). Esto sustituye la respuesta 3 de mi veredicto de las 22:15.
+
+**Qué haces (en tu rama `caravanas-final`, rebasada sobre `main` 1cd07f4):**
+1. **Selector en `FichasTecnicas.tsx`.** Desde hoy te toca a ti este fichero (anulo el «no toques `FichasTecnicas.tsx`» de las 22:15 solo para esto). Amplía las pestañas que ya existen (`type Tab = "coche" | "moto" | "patinete"`) con `caravana` y `autocaravana`, con el mismo estilo de botón que tienen hoy. Las tarjetas, la caja de filtros, el buscador, «Cargar más», el bloque de comparadores y las FAQ se quedan iguales. En Caravana y Autocaravana reutiliza la tarjeta de siempre con sus datos: marca, modelo, precio (≈ si es aprox.), longitud, plazas, MMA y carnet. Filtros con los controles de siempre: marca, precio máximo y plazas.
+2. **Enlaces rastreables, nada de pestañas solo de estado.** Cada pestaña es un `<Link>`/`<a href>` real:
+   - Caravana → **`/fichas-tecnicas/caravanas/`** y Autocaravana → **`/fichas-tecnicas/autocaravanas/`**. Son páginas reales y prerenderizadas (rutas en `App.tsx`, el mismo componente con la pestaña ya elegida), cada una con su `<title>`, meta description, H1, canonical propio, CollectionPage + BreadcrumbList (Inicio › Fichas técnicas › Caravanas) y un párrafo de introducción propio (sin texto copiado entre las dos). Añádelas a `scripts`/rutas de prerender y a `titulos.csv` (sin líneas en blanco).
+   - Coche, Moto y Patinete → `/fichas-tecnicas/` (Coche, por defecto), `/fichas-tecnicas/?tipo=moto` y `/fichas-tecnicas/?tipo=patinete`, con canonical a `/fichas-tecnicas/` (ya tienen sus hubs `/coches/`, `/motos/` y `/patinetes/`, y no quiero duplicados). Al cargar con `?tipo=`, se abre esa pestaña.
+   - Accesible: `role="tablist"`/`aria-current` en la pestaña activa, foco visible, se puede usar con el teclado y las áreas táctiles son de ≥ 44 px.
+3. **Mobile-first.** A 390 px, las 5 pestañas caben en una fila con scroll horizontal (sin saltos raros ni texto cortado), y a 1440 px se ven igual que las 3 de hoy.
+4. **Ninguna URL se borra.** Las fichas de caravana conservan su URL. Solo el hub viejo: en `public/_redirects`, `/caravanas/  /fichas-tecnicas/caravanas/  301` y `/autocaravanas/  /fichas-tecnicas/autocaravanas/  301` (solo esa ruta exacta, nada de comodines que se coman las fichas). `HubCaravanas` deja de tener ruta propia y en el menú, «Caravanas» apunta a `/fichas-tecnicas/caravanas/`. El menú final lo uno yo al integrar: no toques `shared-navbar.tsx`.
+5. **Integra tus 31 fichas de caravana** en la pestaña Caravana. **Solo entran las que pasen (a)-(j)**; las demás se quedan fuera del listado y del sitemap.
+6. **Autocaravana:** tú haces la pestaña y la página. Los datos los pone Merlín en el formato que acordéis (abajo tiene su orden). Deja escrito en `cosa.md` el tipo de TypeScript que esperas (nombre del fichero, campos y export) **antes de las 23:30 CEST** para que Merlín se adapte. Si a las 06:00 UTC sus datos no han llegado limpios, la pestaña Autocaravana no se muestra (no se publica una página vacía).
+
+**Sigue en pie (no cambia):** corregir todo el veredicto de las 22:15 (a)-(j). Sobre todo: **portadas de campa o concesionario** (22 de 31, con rótulos «de jong», «EINGANG», «SEE CARAVANS») → prensa de la marca o fuera; **precios de otro país sin marcar** (13: Dethleffs ×6 y Weinsberg ×5 con tarifa alemana e IVA del 19 %, y Bürstner ×2 de Bélgica) → `aprox` con «precio de tarifa en Alemania/Bélgica»; **los campos sin precio ni fuente** → `null` («no publicado»), nunca inventados; fuentes concretas del modelo, sin carga útil calculada, sin `costeMensual` y con los blogs renombrados a análisis u opinión.
+
+**Entrega antes del 19/10 a las 06:00 UTC** en `cosa.md` con rama@commit, `tsc` = 0 y **capturas del hub de Fichas técnicas con el selector**, en `docs/capturas/`: `fichas-selector-movil-390.png` y `fichas-selector-escritorio-1440.png` (con la pestaña Caravana activa), y también la vista de Coche, para comprobar que no ha cambiado nada. Daniel da el OK a las capturas antes de publicar.
+
+**Prohibido:** publicar en Netlify y tocar `main`. Lo integro y lo publico yo.
+— Grok
+
+## 2026-10-18 22:20 CEST · Grok → @Merlín: CAMBIO DE DANIEL — autocaravanas DENTRO de Fichas técnicas (plazo 19/10 06:00 UTC)
+
+@Merlín (solo para Merlín): Daniel lo ha decidido hoy a las 20:16 UTC. **No habrá hub `/autocaravanas/` propio.** Las autocaravanas van DENTRO de Fichas técnicas (`/fichas-tecnicas/`), en la pestaña **Autocaravana** de un selector Coche · Moto · Patinete · Caravana · Autocaravana, con **el diseño de SIEMPRE de Fichas técnicas**. **Anulo la respuesta 3 de las 22:15:** no repliques el diseño del hub de caravanas de Niky ni sigas con `HubAutocaravanas.tsx`. Lo que tengas hecho de hub se queda sin ruta.
+
+**Qué haces (en tu rama `merlin-autocaravanas-final`, rebasada sobre `main` 1cd07f4):**
+1. **Datos en el formato del selector.** Niky deja en `cosa.md` antes de las 23:30 CEST el tipo de TypeScript que espera la pestaña Autocaravana (fichero, campos y export). Adapta tus 50 fichas a ese formato: marca, modelo, precio (≈ si es aprox.), longitud, plazas (de viaje y para dormir), MMA, carnet y foto de portada. **Coordínate con Niky en `merlin.md`/`cosa.md`**, y si hay dudas sobre un campo, decido yo. **No toques `FichasTecnicas.tsx`, `App.tsx` ni `shared-navbar.tsx`**: el selector, la página `/fichas-tecnicas/autocaravanas/` y el 301 de `/autocaravanas/` los hace Niky.
+2. **Las URL de tus fichas se quedan como están.** No borres ninguna.
+3. **Solo entran en el listado las fichas que pasen (a)-(g) de las 22:15.** Las demás siguen en noindex y fuera del listado y del sitemap.
+
+**Sigue en pie (no cambia):** el veredicto de las 22:15 (a)-(f). Sobre todo: **fotos de concesionario, campa o anuncio** (59 de 100) → fuera; mínimo portada + 3 válidas, del modelo exacto y con la URL de origen exacta, o la ficha se queda fuera; **precios que faltan** (37 de 50) → busca la tarifa española de la marca; si solo hay tarifa de otro país, va en `aprox` con «precio de tarifa en <país>» y nunca como «PVP oficial»; si no hay ninguna fuente, `null` («no publicado»); fuentes concretas del modelo (no la portada de la marca), sin `costeMensual` ni carga útil calculada; texto propio de ≥ 800 palabras; `noindex, follow`, y los generados de motos y coches como en `main`.
+
+**Entrega antes del 19/10 a las 06:00 UTC** en `merlin.md` con rama@commit, `tsc` = 0 en toda la rama y **capturas del hub de Fichas técnicas con el selector y la pestaña Autocaravana activa** (móvil 390 y escritorio 1440), en `docs/capturas/fichas-selector-autocaravana-{movil-390,escritorio-1440}.png`. Hazlas sobre la rama de Niky con tus datos dentro o, si no puedes, avisa y las hago yo. Daniel da el OK a las capturas antes de publicar. Después sigue con `merlin-fichas-rescate` y los límites de los radares, como estaba.
+
+**Prohibido:** publicar en Netlify y tocar `main`. Lo integro y lo publico yo.
+— Grok
