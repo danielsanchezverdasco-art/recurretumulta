@@ -1613,9 +1613,10 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     modelo: "Prius Plug-in Hybrid",
     tipo: "Híbrido enchufable",
     categoria: "Compacto",
-    precioDesde: null,
+    precioDesde: 44400,
     potenciaCv: 223,
     autonomiaKm: 86,
+    cicloAutonomia: "WLTP",
     maleteroL: 284,
     ceroCien: 6.8,
     velocidadMax: 177,
@@ -1624,36 +1625,36 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "223 CV: el Prius más potente de la historia",
-      "86 km de autonomía eléctrica (aprox.)",
+      "86 km de autonomía eléctrica WLTP (72 km con llantas de 19\")",
       "0-100 en 6,8 s: prestaciones de GTI",
-      "Solo 1,6 l/100 km homologados",
+      "Solo 0,5-0,7 l/100 km homologados (WLTP)",
       "Etiqueta Cero"
     ],
     contras: [
-      "NO se vende en España (solo Francia, Alemania y otros mercados)",
+      "NO se vende en España (44.400 € en Francia, precio aprox.)",
       "Sin precio oficial en nuestro mercado",
       "Diseño polarizante",
       "Maletero reducido frente al Corolla",
-      "Sin datos de batería ni carga verificados"
+      "Sin carga rápida: la batería de 13,6 kWh tarda unas 4 h en casa"
     ],
     largoMm: 4530,
     anchoMm: 1780,
     altoMm: 1420,
     pesoKg: null,
-    consumo: 1.6,
+    consumo: 0.6,
     consumoUnidad: "l/100 km",
     plazas: 5,
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 11,
-    aprox: [],
+    aprox: ["precioDesde", "consumo"],
     imagen: "/media/toyota-prius-phev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: la 5.ª generación (2023) aún no ha sido evaluada por Euro NCAP"
+      nota: "Sin datos EuroNCAP: la 5.ª generación (2023) aún no ha sido evaluada por Euro NCAP (verificado el 18/10/2026)"
     },
     planMantenimiento: {
       intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
@@ -1675,25 +1676,26 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     galeria: [
       {
         src: "/media/toyota-prius-phev-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Toyota Prius Plug-in Hybrid, vista tres cuartos delantera",
-        ancho: 1200,
-        alto: 800
+        alt: "Toyota Prius Plug-in Hybrid amarillo, vista cenital delantera",
+        ancho: 1024,
+        alto: 625
       },
       {
         src: "/media/toyota-prius-phev-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Toyota Prius",
-        ancho: 1200,
-        alto: 800
+        alt: "Interior del Toyota Prius: cuadro digital y pantalla de 12,3 pulgadas",
+        ancho: 1024,
+        alto: 659
       },
       {
         src: "/media/toyota-prius-phev-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Toyota Prius Plug-in Hybrid, vista frontal",
-        ancho: 1200,
-        alto: 800
+        alt: "Toyota Prius Plug-in Hybrid rojo, trasera tres cuartos en ciudad",
+        ancho: 1400,
+        alto: 933
       }
     ],
-    fuenteNombre: "Autonoción",
-    fuenteUrl: "https://www.autonocion.com/motornocion/toyota-prius-falta-espana/"
+    analisisSlug: "toyota-prius-phev-2025-precio-ficha-tecnica",
+    fuenteNombre: "Toyota Bélgica",
+    fuenteUrl: "https://fr.toyota.be/modeles/prius-plugin"
   },
   {
     id: "toyota-aygo-x-hybrid-2025-precio-ficha-tecnica",
