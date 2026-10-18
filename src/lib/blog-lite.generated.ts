@@ -12170,8 +12170,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/cupra-terramar-vz-ehybrid-2025-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Cupra Terramar VZ e-Hybrid 2025 en carretera\\",
+    "heroSrc": "/media/cupra-terramar-vz-ehybrid-2025-precio-ficha-tecnica-1.webp",
+    "heroAlt": "Cupra Terramar VZ e-Hybrid 2025, vista delantera",
     "keywords": [
       "Cupra Terramar VZ precio",
       "Terramar e-Hybrid 272 CV",
@@ -12180,7 +12180,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Terramar vs Tiguan",
       "SUV híbrido deportivo"
     ],
-    "readTime": 2
+    "readTime": 4
   },
   {
     "slug": "cupra-raval-vz-2025-precio-ficha-tecnica",
@@ -17387,8 +17387,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/cupra-raval-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Cupra Raval 2026 color bronce mate en las calles del barrio del Raval en Barcelona al atardecer",
+    "heroSrc": "/media/cupra-raval-2026-precio-ficha-tecnica-1.webp",
+    "heroAlt": "Cupra Raval VZ Extreme, frontal",
     "keywords": [
       "Cupra Raval",
       "precio Cupra Raval",
@@ -17397,7 +17397,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "ficha técnica Raval",
       "Euro NCAP Raval"
     ],
-    "readTime": 7
+    "readTime": 5
   },
   {
     "slug": "cupra-leon-15-tsi-2025-precio-ficha-tecnica",
@@ -17406,8 +17406,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/cupra-leon-15-tsi-2025-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Cupra León 1.5 TSI, compacto deportivo, en una carretera secundaria",
+    "heroSrc": "/media/cupra-leon-15-tsi-2025-precio-ficha-tecnica-1.webp",
+    "heroAlt": "Cupra León 2024 (facelift), vista lateral",
     "keywords": [
       "Cupra León 1.5 TSI",
       "Cupra León precio",
@@ -17415,7 +17415,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Cupra León 150 CV",
       "Cupra León ficha técnica"
     ],
-    "readTime": 3
+    "readTime": 5
   },
   {
     "slug": "cupra-leon-ehybrid-204-2025-precio-ficha-tecnica",
@@ -17424,8 +17424,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/cupra-leon-ehybrid-204-2025-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Cupra León e-Hybrid cargando en un punto de recarga",
+    "heroSrc": "/media/cupra-leon-ehybrid-204-2025-precio-ficha-tecnica-1.webp",
+    "heroAlt": "Cupra León e-Hybrid 2024, vista lateral",
     "keywords": [
       "Cupra León e-Hybrid",
       "Cupra León híbrido enchufable",
@@ -17433,7 +17433,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Cupra León e-Hybrid precio",
       "Cupra León etiqueta Cero"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "cupra-leon-vz-300-2025-precio-ficha-tecnica",
@@ -17442,8 +17442,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/cupra-leon-vz-300-2025-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Cupra León VZ 300 en un puerto de montaña",
+    "heroSrc": "/media/cupra-leon-vz-300-2025-precio-ficha-tecnica-1.webp",
+    "heroAlt": "Cupra León VZ 300 2024, vista delantera",
     "keywords": [
       "Cupra León VZ 300",
       "Cupra León VZ precio",
@@ -17451,7 +17451,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Cupra León deportivo",
       "Cupra León VZ ficha"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "cupra-leon-vz-325-2025-precio-ficha-tecnica",
@@ -17460,8 +17460,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Cupra León VZ 325 acelerando en circuito",
+    "heroSrc": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-1.webp",
+    "heroAlt": "Cupra León VZ 325 2024, vista delantera",
     "keywords": [
       "Cupra León VZ 325",
       "Cupra León 325 CV",
@@ -17469,7 +17469,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Cupra León más potente",
       "Cupra León VZ 325 precio"
     ],
-    "readTime": 2
+    "readTime": 4
   },
   {
     "slug": "cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica",
@@ -17478,8 +17478,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Cupra León Sportstourer e-Hybrid con portón abierto y maletero",
+    "heroSrc": "/media/cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica-1.webp",
+    "heroAlt": "Cupra León Sportstourer e-Hybrid 2024, vista lateral",
     "keywords": [
       "Cupra León Sportstourer e-Hybrid",
       "Cupra León familiar híbrido",
@@ -17487,7 +17487,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Cupra León ST precio",
       "familiar híbrido enchufable"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica",
@@ -17496,8 +17496,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Cupra León Sportstourer VZ 333 en carretera",
+    "heroSrc": "/media/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica-1.webp",
+    "heroAlt": "Cupra León Sportstourer VZ 333 2024, vista delantera",
     "keywords": [
       "Cupra León ST VZ 333",
       "León Sportstourer VZ",
@@ -17505,7 +17505,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "León ST más potente",
       "familiar deportivo 333 CV"
     ],
-    "readTime": 2
+    "readTime": 4
   },
   {
     "slug": "cupra-formentor-15-etsi-2025-precio-ficha-tecnica",
@@ -17514,8 +17514,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Cupra Formentor 1.5 eTSI en ciudad",
+    "heroSrc": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-1.webp",
+    "heroAlt": "Cupra Formentor 2024 (facelift), vista delantera",
     "keywords": [
       "Cupra Formentor 1.5 eTSI",
       "Cupra Formentor precio",
@@ -17523,7 +17523,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Cupra Formentor 150 CV",
       "Formentor ficha técnica"
     ],
-    "readTime": 3
+    "readTime": 5
   },
   {
     "slug": "cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica",
@@ -17532,8 +17532,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Cupra Formentor e-Hybrid cargando en casa",
+    "heroSrc": "/media/cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica-1.webp",
+    "heroAlt": "Cupra Formentor e-Hybrid 2024, vista lateral",
     "keywords": [
       "Cupra Formentor e-Hybrid",
       "Formentor híbrido enchufable",
@@ -17541,7 +17541,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Formentor e-Hybrid precio",
       "Formentor etiqueta Cero"
     ],
-    "readTime": 3
+    "readTime": 5
   },
   {
     "slug": "cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica",
@@ -17550,8 +17550,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Cupra Formentor VZ e-Hybrid en carretera de curvas",
+    "heroSrc": "/media/cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica-1.webp",
+    "heroAlt": "Cupra Formentor VZ e-Hybrid 2024, vista delantera",
     "keywords": [
       "Formentor VZ e-Hybrid 272",
       "Formentor híbrido 272 CV",
@@ -17559,7 +17559,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Formentor PHEV deportivo",
       "Cupra Formentor VZ"
     ],
-    "readTime": 3
+    "readTime": 5
   },
   {
     "slug": "cupra-formentor-vz-265-2025-precio-ficha-tecnica",
@@ -17568,8 +17568,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/cupra-formentor-vz-265-2025-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Cupra Formentor VZ 265 en un tramo de curvas",
+    "heroSrc": "/media/cupra-formentor-vz-265-2025-precio-ficha-tecnica-1.webp",
+    "heroAlt": "Cupra Formentor VZ 2024, vista delantera",
     "keywords": [
       "Formentor VZ 265",
       "Cupra Formentor VZ",
@@ -17577,7 +17577,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Formentor VZ precio",
       "Formentor gasolina VZ"
     ],
-    "readTime": 3
+    "readTime": 5
   },
   {
     "slug": "cupra-formentor-vz-333-2025-precio-ficha-tecnica",
@@ -17586,8 +17586,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Cupra Formentor VZ 333 en circuito",
+    "heroSrc": "/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-1.webp",
+    "heroAlt": "Cupra Formentor VZ 333 2024, vista delantera",
     "keywords": [
       "Formentor VZ 333",
       "Cupra Formentor 333 CV",
@@ -17595,7 +17595,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Formentor VZ 333 precio",
       "Formentor 4Drive"
     ],
-    "readTime": 2
+    "readTime": 5
   },
   {
     "slug": "cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica",
@@ -17604,8 +17604,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Cupra Terramar e-Hybrid en una carretera nacional",
+    "heroSrc": "/media/cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica-1.webp",
+    "heroAlt": "Cupra Terramar e-Hybrid 2024, vista lateral",
     "keywords": [
       "Cupra Terramar e-Hybrid",
       "Terramar híbrido enchufable",
@@ -17613,7 +17613,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Terramar e-Hybrid precio",
       "Terramar etiqueta Cero"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "cupra-terramar-vz-ehybrid-272-2025-precio-ficha-tecnica",
@@ -17640,8 +17640,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/cupra-terramar-vz-265-2025-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Cupra Terramar VZ 265 en carretera",
+    "heroSrc": "/media/cupra-terramar-vz-265-2025-precio-ficha-tecnica-1.webp",
+    "heroAlt": "Cupra Terramar VZ 265 2024, vista delantera",
     "keywords": [
       "Terramar VZ 265",
       "Cupra Terramar VZ",
@@ -17649,7 +17649,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Terramar 4Drive",
       "Terramar VZ precio"
     ],
-    "readTime": 2
+    "readTime": 4
   },
   {
     "slug": "cupra-born-190-2026-precio-ficha-tecnica",
@@ -17766,8 +17766,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/cupra-raval-plus-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Cupra Raval Plus en el centro de una ciudad",
+    "heroSrc": "/media/cupra-raval-plus-2026-precio-ficha-tecnica-1.webp",
+    "heroAlt": "Cupra Raval Plus, vista delantera",
     "keywords": [
       "Cupra Raval Plus",
       "Cupra Raval precio",
@@ -17775,7 +17775,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Cupra urbano eléctrico",
       "Raval Martorell"
     ],
-    "readTime": 3
+    "readTime": 5
   },
   {
     "slug": "cupra-raval-endurance-2026-precio-ficha-tecnica",
@@ -17784,8 +17784,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/cupra-raval-endurance-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Cupra Raval Endurance en carretera",
+    "heroSrc": "/media/cupra-raval-endurance-2026-precio-ficha-tecnica-1.webp",
+    "heroAlt": "Cupra Raval Endurance, vista delantera",
     "keywords": [
       "Cupra Raval Endurance",
       "Raval 210 CV",
@@ -17793,7 +17793,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Cupra Raval autonomía",
       "Raval Endurance precio"
     ],
-    "readTime": 2
+    "readTime": 4
   },
   {
     "slug": "cupra-raval-vz-226-2026-precio-ficha-tecnica",
@@ -17802,8 +17802,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/cupra-raval-vz-226-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Cupra Raval VZ 226 en un tramo de curvas",
+    "heroSrc": "/media/cupra-raval-vz-226-2026-precio-ficha-tecnica-1.webp",
+    "heroAlt": "Cupra Raval VZ 226, vista delantera",
     "keywords": [
       "Cupra Raval VZ",
       "Raval 226 CV",
@@ -17811,7 +17811,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "urbano eléctrico deportivo",
       "Cupra Raval deportivo"
     ],
-    "readTime": 3
+    "readTime": 5
   },
   {
     "slug": "dacia-sandero-tce-90-2026-precio-ficha-tecnica",
@@ -17856,8 +17856,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/dacia-sandero-hybrid-155-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Dacia Sandero Hybrid 155 2026 en gris pizarra en un distrito financiero español al atardecer",
+    "heroSrc": "/media/dacia-sandero-hybrid-155-2026-precio-ficha-tecnica-1.webp",
+    "heroAlt": "Dacia Sandero Hybrid 155 2026, vista delantera",
     "keywords": [
       "dacia sandero hybrid 155 precio",
       "sandero híbrido 2026",
@@ -17910,8 +17910,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/dacia-sandero-stepway-hybrid-155-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Dacia Sandero Stepway Hybrid 155 2026 en gris pizarra en una rotonda urbana española",
+    "heroSrc": "/media/dacia-sandero-stepway-hybrid-155-2026-precio-ficha-tecnica-1.webp",
+    "heroAlt": "Dacia Sandero Stepway Hybrid 155 2026, vista delantera",
     "keywords": [
       "sandero stepway hybrid 155 precio",
       "stepway híbrido 2026",
@@ -19753,7 +19753,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Dongfeng Box Plus",
       "etiqueta Cero Dongfeng"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "dongfeng-huge-hev-2025-precio-ficha-tecnica",
@@ -19833,12 +19833,12 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "dongfeng-shine-2025-precio-ficha-tecnica",
-    "title": "Dongfeng Shine: berlina gasolina desde 15.900 €",
+    "title": "Shine: berlina gasolina desde 15.900 €",
     "excerpt": "Ficha técnica del Dongfeng Aeolus Shine: berlina de 4,67 m con motor 1.5 de 125 CV, 6,2 l/100 km y pantalla de 13 pulgadas desde 15.900 €.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/dongfeng-shine-2025-precio-ficha-tecnica-hero.webp",
+    "heroSrc": "/media/dongfeng-shine-2025-precio-ficha-tecnica-1.webp",
     "heroAlt": "\\\"Dongfeng Aeolus Shine en carretera de montaña\\",
     "keywords": [
       "Dongfeng Shine precio",
@@ -19848,7 +19848,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Dongfeng Shine gasolina",
       "Aeolus Yixuan"
     ],
-    "readTime": 3
+    "readTime": 5
   },
   {
     "slug": "dongfeng-shine-gs-2025-precio-ficha-tecnica",
@@ -24276,17 +24276,17 @@ export const BLOG_LITE: BlogLitePost[] = [
       "JAC Yiwei 3",
       "urbano eléctrico barato"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "jac-t9-2025-precio-ficha-tecnica",
-    "title": "JAC T9: pick-up diésel 170 CV con 5 estrellas",
+    "title": "JAC T9: 170 CV y 5 estrellas ANCAP",
     "excerpt": "Precio y ficha de la JAC T9: pick-up diésel de 170 CV, 410 Nm, 4x4 con reductora, 1.000 kg de carga y 5 estrellas C-NCAP.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/jac-t9-2025-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"JAC T9 pick-up en pista de tierra\\",
+    "heroSrc": "/media/jac-t9-2025-precio-ficha-tecnica-1.webp",
+    "heroAlt": "JAC T9 2025 pick-up",
     "keywords": [
       "JAC T9 precio",
       "JAC T9 pick-up",
@@ -24295,7 +24295,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "JAC Frison T9",
       "pick-up 170 CV"
     ],
-    "readTime": 2
+    "readTime": 5
   },
   {
     "slug": "jac-t9-ev-2025-precio-ficha-tecnica",
@@ -24323,7 +24323,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/jac-t9-phev-2026-precio-ficha-tecnica-hero.webp",
+    "heroSrc": "/media/jac-t9-phev-2026-precio-ficha-tecnica-1.webp",
     "heroAlt": "\\\"JAC T9 PHEV híbrida enchufable en montaña\\",
     "keywords": [
       "JAC T9 PHEV",
@@ -24333,7 +24333,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "pick-up PHEV 1000 Nm",
       "Shanghái 2025 JAC"
     ],
-    "readTime": 2
+    "readTime": 5
   },
   {
     "slug": "jac-qx-phev-2025-precio-ficha-tecnica",
@@ -24684,7 +24684,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-hero.webp",
+    "heroSrc": "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-1.webp",
     "heroAlt": "\\\"Jaecoo 6 EV en pista de tierra\\",
     "keywords": [
       "Jaecoo 6 EV",
@@ -24694,7 +24694,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "SUV eléctrico caja",
       "Jaecoo 6 ficha técnica"
     ],
-    "readTime": 3
+    "readTime": 5
   },
   {
     "slug": "jaecoo-6-ev-awd-2026-precio-ficha-tecnica",
@@ -40818,8 +40818,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/italjet-dragster-459-twin-2026-ficha-tecnica-precio-1.webp",
-    "heroAlt": "\\\"Italjet Dragster 459 Twin 2026 negro y rojo en ciudad nocturna\\",
+    "heroSrc": "/media/italjet-dragster-459-twin-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Italjet Dragster 459 Twin 2026",
     "keywords": [
       "Italjet Dragster 459 Twin precio",
       "Dragster 459 ficha técnica",
@@ -40828,7 +40828,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Italjet 48 CV",
       "Dragster Twin España"
     ],
-    "readTime": 2
+    "readTime": 5
   },
   {
     "slug": "italjet-roadster-400-founders-edition-2026-ficha-tecnica-precio",
@@ -40932,8 +40932,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/kymco-super-dink-gt-125-2025-ficha-tecnica-precio-1.webp",
-    "heroAlt": "\\\"Kymco Super Dink GT 125 2025 en carretera secundaria\\",
+    "heroSrc": "/media/kymco-super-dink-gt-125-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Kymco Super Dink GT 125 2025",
     "keywords": [
       "Kymco Super Dink GT 125 precio",
       "Super Dink GT 125 ficha técnica",
@@ -40942,7 +40942,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Kymco 125 ABS",
       "Super Dink GT"
     ],
-    "readTime": 2
+    "readTime": 6
   },
   {
     "slug": "kymco-people-s-125-2025-ficha-tecnica-precio",
@@ -49748,7 +49748,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "honda-cbr600rr-2025-ficha-tecnica-precio",
-    "title": "Honda CBR600RR 2025: precio y ficha técnica",
+    "title": "CBR600RR 2025: precio y ficha técnica",
     "excerpt": "La Honda CBR600RR 2025 desde 12.700 €: 121 CV, 193 kg, alerones, IMU y ABS en curva. Ficha técnica, precio en España y etiqueta DGT.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
@@ -49916,12 +49916,12 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "honda-sh350i-2025-ficha-tecnica-precio",
-    "title": "Honda SH350i 2025: precio y ficha técnica",
+    "title": "SH350i 2025: precio, 28,8 CV y ficha",
     "excerpt": "El Honda SH350i 2025 desde 6.340 €: 28,8 CV, 134 km/h y carnet B+3 años. Ficha técnica, precio en España y etiqueta DGT.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/honda-sh350i-2025-ficha-tecnica-precio-1.webp",
+    "heroSrc": "/media/honda-sh350i-2025-ficha-tecnica-precio-1.webp",
     "heroAlt": "Honda SH350i 2025 en ciudad",
     "keywords": [
       "honda sh350i 2025 precio",
@@ -49933,7 +49933,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "sh350i vs beverly 400",
       "scooter 350 honda"
     ],
-    "readTime": 2
+    "readTime": 5
   },
   {
     "slug": "honda-forza-350-2025-ficha-tecnica-precio",
@@ -50210,12 +50210,12 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "yamaha-yzf-r125-2025-ficha-tecnica-precio",
-    "title": "Yamaha YZF-R125 2025: precio y ficha técnica",
+    "title": "YZF-R125 2025: precio y 15 CV",
     "excerpt": "La Yamaha YZF-R125 2025 desde 5.899 €: 15 CV, válvulas variables y estética de R1. Ficha técnica, precio y etiqueta DGT.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/yamaha-yzf-r125-2025-ficha-tecnica-precio-1.webp",
+    "heroSrc": "/media/yamaha-yzf-r125-2025-ficha-tecnica-precio-1.webp",
     "heroAlt": "Yamaha YZF-R125 2025 azul en circuito",
     "keywords": [
       "yamaha yzf-r125 2025 precio",
@@ -50227,7 +50227,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "r125 vs cbr125r",
       "moto 125 deportiva 2025"
     ],
-    "readTime": 2
+    "readTime": 5
   },
   {
     "slug": "yamaha-xsr700-2025-ficha-tecnica-precio",
@@ -52695,7 +52695,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/motos/benelli-bkx-300-s-2025-ficha-tecnica-precio-1.webp",
+    "heroSrc": "/media/benelli-bkx-300-s-2025-ficha-tecnica-precio-1.webp",
     "heroAlt": "Benelli BKX 300 S 2025 trail ligera en pista",
     "keywords": [
       "benelli bkx 300 s precio",
@@ -52707,7 +52707,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "moto trail barata",
       "benelli 300"
     ],
-    "readTime": 3
+    "readTime": 5
   },
   {
     "slug": "benelli-leoncino-800-trail-2025-ficha-tecnica-precio",
@@ -66955,6 +66955,236 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 5
   },
   {
+    "slug": "honda-cb1000-hornet-2024-ficha-tecnica-precio",
+    "title": "Honda CB1000 Hornet: 152 CV por 10.990 €",
+    "excerpt": "Precio y ficha técnica de la Honda CB1000 Hornet 2024: naked de 152 CV con motor de la Fireblade, Showa ajustable y 5 modos. Desde 10.990 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/honda-cb1000-hornet-2024-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Honda CB1000 Hornet 2024 negra en carretera",
+    "keywords": [
+      "Honda CB1000 Hornet 2024 precio",
+      "CB1000 Hornet 152 CV",
+      "Honda CB1000 Hornet ficha técnica",
+      "naked 1000 barata",
+      "CB1000 Hornet vs GSX-S1000",
+      "Honda Hornet 2024"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "piaggio-beverly-400-2024-ficha-tecnica-precio",
+    "title": "Piaggio Beverly 400: el GT de rueda alta",
+    "excerpt": "Precio y ficha técnica del Piaggio Beverly 400 2024: scooter GT de 35,4 CV, rueda alta y keyless. El maxiscooter rutero desde 6.799 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/piaggio-beverly-400-2024-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Piaggio Beverly 400 2024 en ciudad",
+    "keywords": [
+      "Piaggio Beverly 400 2024 precio",
+      "Beverly 400 ficha técnica",
+      "Piaggio Beverly 400 35 CV",
+      "scooter GT rueda alta",
+      "Beverly 400 vs XMAX 300",
+      "maxiscooter A2"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "byd-seal-u-dm-i-precio-ficha-tecnica",
+    "title": "BYD Seal U DM-i: 218 CV y 80 km eléctricos",
+    "excerpt": "Precio y ficha técnica del BYD Seal U DM-i: híbrido enchufable de 218 CV, 80 km eléctricos WLTP y 5 estrellas EuroNCAP. Desde 34.240 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/byd-seal-u-dm-i-precio-ficha-tecnica-1.webp",
+    "heroAlt": "BYD Seal U DM-i, SUV híbrido enchufable",
+    "keywords": [
+      "BYD Seal U DM-i precio",
+      "Seal U DM-i ficha técnica",
+      "BYD Seal U híbrido enchufable",
+      "Seal U DM-i autonomía eléctrica",
+      "BYD Seal U EuroNCAP",
+      "SUV híbrido enchufable 2025"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "silence-s01-ficha-tecnica-precio",
+    "title": "Silence S01: 133 km eléctricos por 4.190 €",
+    "excerpt": "Precio y ficha técnica del Silence S01: scooter eléctrico de 133 km, batería trolley extraíble y 110 km/h. El más vendido, desde 4.190 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/silence-s01-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Silence S01, scooter eléctrico",
+    "keywords": [
+      "Silence S01 precio",
+      "Silence S01 ficha técnica",
+      "Silence S01 autonomía",
+      "scooter eléctrico batería extraíble",
+      "Silence S01 vs NIU",
+      "moto eléctrica 125 precio"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "kawasaki-ninja-650-2024-ficha-tecnica-precio",
+    "title": "Kawasaki Ninja 650 2024: 68 CV por 8.375 €",
+    "excerpt": "Precio y ficha técnica de la Kawasaki Ninja 650 2024: deportiva bicilíndrica de 68 CV, 193 kg y edición 40º Aniversario. Desde 8.375 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/kawasaki-ninja-650-2024-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Kawasaki Ninja 650 2024 verde",
+    "keywords": [
+      "Kawasaki Ninja 650 2024 precio",
+      "Ninja 650 ficha técnica",
+      "Kawasaki Ninja 650 68 CV",
+      "Ninja 650 40 aniversario",
+      "Ninja 650 vs R7",
+      "deportiva barata 2024"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "honda-rebel-1100-2024-ficha-tecnica-precio",
+    "title": "Rebel 1100: custom 87 CV con DCT opcional",
+    "excerpt": "La Rebel 1100 2024: custom japonesa con motor de Africa Twin, 87 CV, asiento a 700 mm y cambio DCT opcional por 11.250 €. Análisis completo y rivales.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/honda-rebel-1100-2024-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Honda Rebel 1100 2024",
+    "keywords": [
+      "motos",
+      "ficha-tecnica"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "husqvarna-norden-901-2024-ficha-tecnica-precio",
+    "title": "Norden 901: trail 105 CV neo-retro",
+    "excerpt": "La Husqvarna Norden 901 2024 es la trail sueca de 105 CV con estética neo-retro y base KTM 890, por 14.399 €. Análisis, rivales y mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/husqvarna-norden-901-2024-ficha-tecnica-precio-2.webp",
+    "heroAlt": "Husqvarna Norden 901 2024",
+    "keywords": [
+      "motos",
+      "ficha-tecnica"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "yamaha-mt-125-2024-ficha-tecnica-precio",
+    "title": "MT-125: naked 15 CV, la pequeña MT",
+    "excerpt": "La Yamaha MT-125 2024 es la naked 125 del lado oscuro: 15 CV, 142 kg y estética agresiva por 5.399 €, con carnet A1 o B+3 años. Análisis completo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/yamaha-mt-125-2024-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Yamaha MT-125 2024",
+    "keywords": [
+      "motos",
+      "ficha-tecnica"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "bmw-s-1000-rr-2024-ficha-tecnica-precio",
+    "title": "S 1000 RR: 210 CV y 303 km/h de superbike",
+    "excerpt": "La BMW S 1000 RR 2024: superbike de 210 CV, 197 kg y 303 km/h con electrónica de MotoGP, desde 22.600 €. Análisis completo, rivales y mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/bmw-s-1000-rr-2024-ficha-tecnica-precio-1.webp",
+    "heroAlt": "BMW S 1000 RR 2024",
+    "keywords": [
+      "motos",
+      "ficha-tecnica"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "honda-gb350s-2025-ficha-tecnica-precio",
+    "title": "GB350S: retro 21 CV por 4.590 €",
+    "excerpt": "La Honda GB350S 2025: retro monocilíndrica de 348 cc y 21 CV por 4.590 €, con carnet A2 y 600 km de autonomía. Análisis, rivales y mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/honda-gb350s-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Honda GB350S 2025",
+    "keywords": [
+      "motos",
+      "ficha-tecnica"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "yamaha-xmax-300-2024-ficha-tecnica-precio",
+    "title": "XMAX 300: el maxiscooter del A2",
+    "excerpt": "El Yamaha XMAX 300 2024: maxiscooter de 28 CV con TFT, dos cascos bajo el asiento y 140 km/h, desde 6.499 €. Análisis completo y rivales.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/yamaha-xmax-300-2024-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Yamaha XMAX 300 2024",
+    "keywords": [
+      "motos",
+      "ficha-tecnica"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "byd-atto-3-precio-ficha-tecnica",
+    "title": "Atto 3: 420 km y 5 estrellas EuroNCAP",
+    "excerpt": "El BYD Atto 3: SUV eléctrico de 204 CV, 420 km WLTP y 5 estrellas EuroNCAP 2022, desde 32.990 €. Análisis, rivales y garantía de la batería.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/byd-atto-3-precio-ficha-tecnica-1.webp",
+    "heroAlt": "BYD Atto 3",
+    "keywords": [
+      "motos",
+      "ficha-tecnica"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "ducati-panigale-v2-2025-ficha-tecnica-precio",
+    "title": "Panigale V2: 120 CV de pura Ducati",
+    "excerpt": "La Ducati Panigale V2 2025: superbike V2 de 120 CV y 179 kg, la Panigale más fácil de llevar, desde 17.990 €. Análisis y rivales.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/ducati-panigale-v2-2025-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Ducati Panigale V2 2025",
+    "keywords": [
+      "motos",
+      "ficha-tecnica"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "bmw-f-800-gs-2024-ficha-tecnica-precio",
+    "title": "F 800 GS: trail 87 CV para viajar",
+    "excerpt": "La BMW F 800 GS 2024: trail bicilíndrica de 87 CV, la GS más versátil para viajar, desde 9.680 €. Análisis, rivales y mantenimiento.",
+    "category": "Novedades Motor",
+    "date": "2026-10-17",
+    "locale": "all",
+    "heroSrc": "/media/bmw-f-800-gs-2024-ficha-tecnica-precio-1.webp",
+    "heroAlt": "BMW F 800 GS 2024",
+    "keywords": [
+      "motos",
+      "ficha-tecnica"
+    ],
+    "readTime": 5
+  },
+  {
     "slug": "fangchengbao-ti-9-2026-precio-ficha-tecnica",
     "title": "Fang Cheng Bao Ti 9: precio a confirmar y 2.300 km",
     "excerpt": "El Fang Cheng Bao Ti 9 (también llamado Tai 9) es el SUV híbrido enchufable de 5,27 m y 6 plazas (configuración principal) de BYD: 310 km eléctricos y 2.300 km totales declarados. Precio a confirmar.",
@@ -72189,12 +72419,12 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "stelato-s9-huawei-2026-precio-ficha-tecnica",
-    "title": "Stelato S9: el Huawei de 816 km que va a por Tesla",
+    "title": "Stelato S9 Huawei: 816 km y 516 CV",
     "excerpt": "La berlina de Huawei y BAIC promete 816 km CLTC, 516 CV, 200 km de carga en 5 minutos y conducción ADS 3.0 desde 399.800 yuanes. Ficha técnica y rivales.",
     "category": "Actualidad",
     "date": "2026-10-04",
     "locale": "es",
-    "heroSrc": "/media/stelato-s9-huawei-berlina.webp",
+    "heroSrc": "/media/stelato-s9-huawei-2026-precio-ficha-tecnica-1.webp",
     "heroAlt": "Berlina eléctrica premium Stelato S9 de Huawei y BAIC en color oscuro metalizado al atardecer frente a un edificio moderno",
     "keywords": [
       "Stelato S9 precio",
@@ -72289,7 +72519,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Actualidad",
     "date": "2026-10-04",
     "locale": "es",
-    "heroSrc": "/media/deepal-s09-suv-grande.webp",
+    "heroSrc": "/media/deepal-s09-2026-precio-ficha-tecnica-1.webp",
     "heroAlt": "SUV Deepal S09 de Changan, grande y lujoso, en una ciudad moderna al atardecer",
     "keywords": [
       "Deepal S09 precio",
