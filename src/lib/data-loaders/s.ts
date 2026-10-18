@@ -295,6 +295,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "sym-jet-x-125-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m4.ts"),
     "sym-joymax-z-plus-300-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m4.ts"),
     "sym-maxsym-gt-400-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m12.ts"),
+    "sym-maxsym-tl-508-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m12.ts"),
     "sym-symphony-st-125-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m3.ts"),
     "sym-symphony-st-125-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m4.ts"),
     "sym-ttlbt-508-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m4.ts"),
@@ -612,6 +613,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "sym-maxsym-gt-400-2026-ficha-tecnica-precio": () => import("../comparador-motos-exp-m24.ts"),
     "sym-maxsym-tl-508-2024-ficha-tecnica-precio": () => import("../comparador-motos-base.ts"),
     "sym-maxsym-tl-508-2025-ficha-tecnica-precio": () => import("../comparador-motos-exp-m24.ts"),
+    "sym-maxsym-tl-508-2026-ficha-tecnica-precio": () => import("../comparador-motos-exp-m24.ts"),
     "sym-symphony-cargo-125-2026-ficha-tecnica-precio": () => import("../comparador-motos-lote16.ts"),
     "sym-symphony-sr-125-abs-2026-ficha-tecnica-precio": () => import("../comparador-motos-lote16.ts"),
     "sym-symphony-st-125-2025-ficha-tecnica-precio": () => import("../comparador-motos-nuevos-m3.ts"),
@@ -850,6 +852,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "sym-cruisym-300-2025-ficha-tecnica-precio": () => import("../historia-m12.ts"),
     "sym-fugue-125-2025-ficha-tecnica-precio": () => import("../historia-m12.ts"),
     "sym-maxsym-gt-400-2025-ficha-tecnica-precio": () => import("../historia-m12.ts"),
+    "sym-maxsym-tl-508-2026-ficha-tecnica-precio": () => import("../historia-lote-e-b.ts"),
   },
   euroncap: {
     "seat-arona-10-tsi": () => import("../seguridad-euroncap.ts"),
