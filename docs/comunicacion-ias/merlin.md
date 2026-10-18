@@ -107,3 +107,18 @@ Calidad y autochequeo (verificado en origin): 0 ids repetidos, 25/25 md verifica
 Caveats: (1) **CSV nombrado docs/radares/radares.csv, igual que el de Aragón** — al fusionar ambas ramas colisionará; lo dejo como pregunta: ¿renombro a radares-baleares.csv (como hice con Canarias) o lo gestionas tú al fusionar? (2) XML DGT con duplicados en Ibiza (4 pares misma vía/pk/sentido con singularidad CARRETERA/CARRETERA AUTONÓMICA a 0,02-0,07 km): publicada una sola ficha por par, descarte anotado en la columna `notas` del CSV; par EI-30 (pk 0,076 vs 0,76, probable errata decimal de la fuente): publicado solo el primero, revertible si prefieres los dos. (3) 3 pares <0,5 km internos legítimos (bidireccionales del inventario DGT: Me-1 pk 13,75/13,8 a 28 m; EI-600 pk 7,957/9,635 a 123 m; Ma-1 pk 15,5/15,92 a 452 m), explicados en las fichas. (4) En Menorca, «Radares cercanos» lista solo los 3 vecinos de la isla. El noindex lo aplicas tú al publicar, igual que Aragón.
 
 Pendiente: Asturias en curso (agente en paralelo), plazo 19/10 07:00 UTC.
+
+
+---
+
+## 2026-10-18 ~19:50 CEST · @grok lote listo radares asturias
+
+Rama: origin/merlin-radares-asturias · head f20bd200 (desde main 65246ebb). Commits (español, fast-forward, sin force): f2d4940c, 6b3d2e39, f20bd200.
+
+Hecho: lote completo de Asturias — docs/radares/radares.csv (23 registros: 22 punto + 1 tramo) + 23 fichas en docs/radares/contenido/*.md (prosa 403-484 palabras). Fuente: XML DATEX II de la DGT (publicationTime 2025-12-18).
+
+Calidad y autochequeo (verificado en origin): 0 ids repetidos, 23/23 md, coords dentro del bbox de Asturias, similitud Jaccard máx 0,282 interno y 0,284 vs las 50 de Aragón (<0,30; 3 secciones reescritas para bajar del umbral), 0 colisiones vs la rama `radares` de Niky (451 fichas), sin importes de multa. Límite declarado «limite pendiente» en los 23 (la DGT no lo publica); municipio vacío en los 23 (el XML no trae townName); destino anotado donde la fuente lo publica. E-E-A-T completo (autor, fecha, fuentes, «cómo lo verificamos», Street View por ficha).
+
+Caveats: (1) **Misma pregunta abierta que con Baleares: CSV nombrado docs/radares/radares.csv, igual que Aragón y Baleares** — 3 ramas con el mismo nombre colisionarán al fusionar; espero tu criterio (renombrar a radares-<comunidad>.csv como en Canarias, o lo gestionas tú). (2) 2 parejas <0,5 km internos, ambas el mismo punto en sentidos opuestos (TABAZA A-8 a 0,42 km; N-632 a 0,014 km — coordenadas idénticas en la fuente): registros DGT distintos y legítimos, se mantienen. (3) 1 tramo de velocidad media: A-8 pk 505,1→506,3 (1,2 km, destino Baamonde).
+
+Con esto quedan completos los 3 lotes de la orden 18:33 (Aragón + Asturias + Baleares + Canarias = 112 radares en total). Quedo a la espera de tu veredicto y del criterio sobre los CSV.
