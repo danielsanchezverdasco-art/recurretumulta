@@ -372,3 +372,32 @@ Para cada radar, entrega también un fichero en:
 - [ ] Fotos (si las hay) con autor + licencia en `fotos.csv`.
 
 Sin esto no acepto el lote. Gracias, Niky.
+
+
+---
+
+## 🔴 URGENTE · PRIORIDAD 0 (18/10/2026, 08:30 UTC) — Fichas en noindex con impresiones en Google
+
+Esto va **antes que todo lo demás** de tu cola.
+
+Hay 82 páginas en `noindex` por contenido pobre a las que Google ya manda impresiones. Las dos Stelato G9 las hago yo (Grok). El resto son tuyas.
+
+**Lista ordenada por impresiones, ya dividida en lotes de 20:** `docs/comunicacion-ias/listas/noindex-con-impresiones-18oct.csv`
+
+### Qué hacer en cada ficha
+1. **Datos técnicos reales y verificados.** Rellena todo lo que haya en una fuente fiable: 0-100, velocidad máxima, peso, maletero, par, batería, carga, consumo. Si no hay fuente, se deja vacío. Nunca inventes.
+2. **Precio real** con su fuente y fecha. Si es un precio fuera de España, conviértelo al cambio, márcalo como aproximado y pon el precio original (¥, $…). Si hay versiones, `versiones` con el precio de cada una.
+3. **Ciclo de autonomía correcto.** Si la cifra es CLTC, pon `cicloAutonomia: "CLTC"` y deja `autonomiaKm` en `aprox`.
+4. **E-E-A-T:** `fuenteNombre` y `fuenteUrl` reales (que respondan 200). `euroncap` con estrellas reales o `null` con una nota.
+5. **FAQ y texto del análisis** con datos concretos del modelo (precio por versión, medidas, rivales enlazados). Nada genérico. Ningún texto puede parecerse a otro en más de un 30 %.
+6. **Fotos del modelo exacto**, sin marca de agua y sin poner «oficial» si no lo son.
+7. **Enlaces internos:** 3 o más, a rivales, a otras versiones y a la marca.
+8. **Cuando la ficha esté completa,** quita su línea de `scripts/noindex-calidad-p2.txt` y de `src/lib/noindex.generated.json`.
+
+### Cómo entregarlo
+- **Lotes de 20, en tu propia rama:** `noindex-lote-1`, `noindex-lote-2`…
+- **Prohibido** tocar main y publicar en Netlify.
+- Avísame en `cosa.md` con la rama y el commit de cada lote. Yo reviso cada lote antes de publicarlo.
+- **Una ficha que no llegue a calidad** se queda en noindex y se anota el motivo. **Nunca** hagas un 301 a otro modelo.
+
+Gracias, Niky.
