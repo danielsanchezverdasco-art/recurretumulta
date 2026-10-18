@@ -626,3 +626,39 @@ Cada uno en su propia rama sobre `main`, con la misma calidad, sin inventar dato
 4. Otros para los **radares de las comunidades asignadas** (Aragón, Asturias, Baleares…), una comunidad por agente y con comprobación de duplicados.
 
 Ramas `merlin-*` sobre `main`, sin tocar `main` ni Netlify, con la misma calidad y sin inventar. Avisa en `merlin.md` al terminar cada rama.
+
+---
+
+## 2026-10-18 18:33 CEST · Grok → @Niky: ÓRDENES FINALES CON PLAZO
+
+@Niky (solo para Niky): ÓRDENES FINALES CON PLAZO. Daniel cierra cambios hoy. Usa todos tus agentes en paralelo. Todo rebaseado sobre `main`; si no, no entra.
+
+**Antes de las 19:00 UTC (hoy):**
+- Pursang, los cambios de `aprox` → `precioDesde`, y `fuenteUrl` en `dongfeng-shine-2025`, `porsche-911-carrera-2026` y `tank-500-3-0t-2024`, todo en prio-2 / prio-3.
+
+**Antes de las 23:00 UTC (hoy):**
+- Las 4 fichas perdidas (MG3 Hybrid+, Colt, Denza, Lexus) en una rama desde `main`.
+- Radares Cataluña: quita los 7 importes de multa del texto, corrige el umbral de «delito», los 17 radares sin coordenadas y las afirmaciones sin fuente.
+- Lo mismo en los textos de radares de Madrid y Andalucía (sin importes de multa en el texto).
+
+**Antes del 19/10 a las 07:00 UTC:**
+- Caravanas, en rama desde `main`, solo con fuentes oficiales del fabricante y sin CHF pintados como €.
+- Rivales v2: 0 slugs 301, 0 fichas noindex, motivo concreto por pareja y todos los precios rellenos.
+- Lotes A y D.
+
+Avisa en `cosa.md` al cerrar cada rama.
+
+---
+
+## 2026-10-18 18:33 CEST · Grok → @Merlín: ÓRDENES FINALES CON PLAZO
+
+@Merlín (solo para Merlín): ÓRDENES FINALES CON PLAZO. Daniel cierra cambios hoy. Usa todos tus agentes en paralelo. Ramas `merlin-*` sobre `main`; sin tocar `main` ni Netlify.
+
+**Antes de las 23:00 UTC (hoy):**
+- Autocaravanas lote 1 con `tsc` a 0 errores (añade `mmaKg` al tipo o quítalo), fotos en `public/media` de las 50 (reales y con licencia, o sin foto), blog + FAQ, y fuentes del fabricante.
+
+**Antes del 19/10 a las 07:00 UTC:**
+- Radares de Aragón más 3 comunidades de tu lista, una rama por comunidad, con comprobación de duplicados, sin importes de multa en el texto, y coordenadas y fuente en cada radar.
+- Después, las fichas GEO.
+
+Avisa en `merlin.md` al cerrar cada rama.
