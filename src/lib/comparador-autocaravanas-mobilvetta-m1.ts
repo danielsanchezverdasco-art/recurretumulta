@@ -1,7 +1,12 @@
 // Autocaravanas Mobilvetta — lote Merlín 1 (18/10/2026).
-// Datos verificados: mobilvetta.it (web oficial del modelo) + red de concesionarios europeos
-// (anuncios de unidades año modelo 2026, coherentes entre sí; la web oficial aún muestra la temporada anterior).
+// Datos verificados: mobilvetta.it (web oficial del modelo; la web muestra la temporada anterior,
+// pero la ficha del K-Yacht Tekno Line 86 sigue vigente).
 // Mobilvetta no publica PVP: precioDesde en null, sin inventar.
+// Corrección 4 (18/10/2026): eliminada la mención a la red de concesionarios como fuente. CORRECCIONES
+// DE DATOS contra la página oficial del modelo (re-verificada el 18/10 en mobilvetta.it): el motor es el
+// Fiat Ducato de 140 CV (no 180 CV: la cifra anterior, de anuncios de concesionarios, no está confirmada
+// oficialmente) y la longitud oficial es 7,45 m (no 7,50 m). La garantía de estanqueidad de 10 años queda
+// confirmada oficialmente («Mobilvetta 10 Years Body Integrity Privilege»).
 // Precios "desde" orientativos para España marcados en "aprox".
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
@@ -14,7 +19,7 @@ export const AUTOCARAVANAS_MOBILVETTA_M1: Autocaravana[] = [
     tipo: "Autocaravana integral",
     categoria: "Autocaravana",
     precioDesde: null, // Mobilvetta no publica PVP (anuncios 2026: 109.888–121.050 € según equipamiento)
-    potenciaCv: 180,
+    potenciaCv: 140, // oficial mobilvetta.it (Fiat Ducato 140 CV); la cifra de 180 CV era de anuncios, no oficial
     autonomiaKm: null,
     maleteroL: null,
     ceroCien: null,
@@ -32,8 +37,8 @@ export const AUTOCARAVANAS_MOBILVETTA_M1: Autocaravana[] = [
       "/media/mobilvetta-k-yacht-tekno-line-86-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
     videoCanal: null,
-    largoMm: 7500,
-    anchoMm: 2350,
+    largoMm: 7450, // oficial mobilvetta.it (7,45 m)
+    anchoMm: 2350, // oficial mobilvetta.it (2,35 m)
     altoMm: 2980,
     pesoKg: null, // masa en orden de marcha no publicada
     mmaKg: 3500, // opcional chasis pesado AL-KO de 4.500 kg
@@ -47,14 +52,14 @@ export const AUTOCARAVANAS_MOBILVETTA_M1: Autocaravana[] = [
     emisionesCo2: null,
     aprox: [],
     pros: [
-      "Motor Fiat de 180 CV con cambio automático de 8 velocidades: la integral más potente del lote sobre Ducato",
+      "Motor Fiat Ducato de 140 CV (oficial): mecánica probada y consumo contenido para una integral de 7,45 m",
       "Techo panorámico SkyDome de 100 × 80 cm de serie: luz cenital en el salón sin pagar extra",
       "Frigorífico de compresor de 174 l: enfría rápido y rinde bien con calor, ideal para el sur de Europa",
       "Sistema Truma iNetX con app: control de clima y niveles de la célula desde el móvil",
       "Garantía de estanqueidad de 10 años: la más larga de las fichas publicadas hasta ahora",
     ],
     contras: [
-      "7,50 m de largo y 2,98 m de alto: la más grande del lote, solo para conductores acostumbrados",
+      "7,45 m de largo y 2,98 m de alto: la más grande del lote, solo para conductores acostumbrados",
       "Masa en orden de marcha no publicada: con 3.500 kg de MMA y ese tamaño, la carga útil es una incógnita",
       "Mobilvetta no publica PVP: los anuncios 2026 se mueven entre ~110.000 y ~121.000 €",
       "Chasis pesado AL-KO de 4.500 kg como opción: tienta, pero obliga a sacarse el carnet C1",
@@ -109,7 +114,7 @@ export const AUTOCARAVANAS_MOBILVETTA_M1: Autocaravana[] = [
       fuente: "Plan de mantenimiento Fiat Professional Ducato + recomendaciones Mobilvetta",
     },
     euroncap: null,
-    fuenteNombre: "Mobilvetta (web oficial) + red de concesionarios europeos",
+    fuenteNombre: "Mobilvetta (web oficial)",
     fuenteUrl: "https://mobilvetta.it/en/tipologia/a-class/k-yacht-tekno-line-86/",
   },
 ];

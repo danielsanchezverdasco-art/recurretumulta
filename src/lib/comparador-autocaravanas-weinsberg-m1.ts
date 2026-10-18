@@ -1,6 +1,8 @@
 // Autocaravanas Weinsberg — lote Merlín 1 (18/10/2026).
 // Datos verificados: weinsberg.com (web oficial; la gama CaraTour se denomina ahora CaraBus,
 // modelo vigente 2026: CaraBus GREY EDITION [FIRE] 600 MQ). Weinsberg no publica PVP: precioDesde en null.
+// Corrección 4 (18/10/2026): sin fuentes no oficiales; carga útil de 241 kg («Maximum payload» publicado
+// por Weinsberg con nota al pie) marcada «no oficial» en "aprox" por su definición particular.
 // Precios "desde" orientativos para España marcados en "aprox".
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";

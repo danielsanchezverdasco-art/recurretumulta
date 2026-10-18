@@ -1,7 +1,11 @@
 // Autocaravanas Giottiline — lote Merlín 1 (18/10/2026).
 // Datos verificados: giottiline.com (web oficial, gama 2026; ficha técnica detallada no publicada
-// para 2026) + CamperOnLine Magazine (prueba técnica del modelo, datos coherentes con anuncios 2025-2026).
+// para 2026) + CamperOnLine Magazine (prensa especializada, prueba técnica del modelo,
+// datos coherentes con anuncios 2025-2026).
 // Giottiline no publica listino vigente ni PVP: precioDesde en null, sin inventar.
+// Corrección 4 (18/10/2026): CamperOnLine etiquetado como prensa especializada; la masa en orden
+// de marcha (2.834 kg, prueba de 2021 con base Citroën) queda marcada «no oficial» en "aprox"
+// porque la cifra con base Fiat 2026 no está publicada.
 // Precios "desde" orientativos para España marcados en "aprox".
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
@@ -108,7 +112,7 @@ export const AUTOCARAVANAS_GIOTTILINE_M1: Autocaravana[] = [
       fuente: "Plan de mantenimiento Fiat Professional Ducato + recomendaciones Giottiline",
     },
     euroncap: null,
-    fuenteNombre: "Giottiline (web oficial, gama) + CamperOnLine (prueba técnica)",
+    fuenteNombre: "Giottiline (web oficial) + CamperOnLine (prensa especializada)",
     fuenteUrl: "https://www.giottiline.com/",
   },
 ];

@@ -1,7 +1,9 @@
 // Autocaravanas Hobby — lote Merlín 1 (18/10/2026).
-// Datos verificados: hobby-caravan.de (web oficial; la ficha técnica 2026 vive en su configurador web),
-// red de concesionarios oficiales Hobby (unidades año modelo 2026) y alpacacamping.de (prensa especializada).
+// Datos verificados: hobby-caravan.de (web oficial; la ficha técnica 2026 vive en su configurador web).
 // Hobby no publica PVP oficial del modelo: precioDesde queda en null, sin inventar.
+// Corrección 4 (18/10/2026): eliminadas las menciones a concesionarios (alpacacamping.de y red de
+// distribuidores) como fuentes; la ficha cita solo la web oficial. Datos técnicos según el
+// configurador oficial Hobby para el año modelo 2026 (la web muestra ya la temporada 2027).
 // Precios "desde" orientativos para España marcados en "aprox".
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
@@ -109,7 +111,7 @@ export const AUTOCARAVANAS_HOBBY_M1: Autocaravana[] = [
       fuente: "Plan de mantenimiento Fiat Professional Ducato + recomendaciones Hobby",
     },
     euroncap: null,
-    fuenteNombre: "Hobby (web oficial) + red de concesionarios + alpacacamping.de",
+    fuenteNombre: "Hobby (web oficial)",
     fuenteUrl: "https://www.hobby-caravan.de/int_en/",
   },
 ];

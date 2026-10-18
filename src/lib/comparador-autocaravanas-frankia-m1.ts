@@ -1,6 +1,8 @@
 // Autocaravanas Frankia — lote Merlín 1 (18/10/2026).
-// Datos verificados: folleto oficial Frankia NEO (temporada 2027, impreso en 2026, FRANKIA-GP GmbH)
-// + red de concesionarios con unidades 2026.
+// Datos verificados: folleto oficial Frankia NEO (temporada 2027, impreso en 2026, FRANKIA-GP GmbH).
+// Corrección 4 (18/10/2026): eliminada la mención a la red de concesionarios como fuente; la ficha
+// cita solo el folleto oficial. El precio indicativo de ~142.000 € de un concesionario alemán queda
+// como nota «no oficial» y precioDesde en null (Frankia no publica PVP).
 // NOTA DE NOMENCLATURA: el «Neo 680 ED» no existe oficialmente; el integral sobre Mercedes Sprinter
 // de la gama Neo para 2026 es el Neo I 7 GDK, que es el que se ficha aquí.
 // Frankia no publica PVP: precioDesde en null, sin inventar.
@@ -110,7 +112,7 @@ export const AUTOCARAVANAS_FRANKIA_M1: Autocaravana[] = [
       fuente: "Plan de mantenimiento Mercedes-Benz Sprinter + recomendaciones Frankia",
     },
     euroncap: null,
-    fuenteNombre: "Frankia (folleto oficial NEO) + red de concesionarios",
+    fuenteNombre: "Frankia (folleto oficial NEO 2027)",
     fuenteUrl: "https://www.frankia.com/fileadmin/user_upload/infomaterial/neo_2027_englisch.pdf",
   },
 ];

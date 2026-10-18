@@ -1,6 +1,9 @@
 // Autocaravanas Bürstner — lote Merlín 1 (18/10/2026).
 // Datos verificados: buerstner.com (web oficial; precio PVP recomendado Alemania, puede diferir en España).
 // Precios "desde" orientativos para España marcados en "aprox".
+// Corrección 4 (18/10/2026): sin fuentes no oficiales; PVP 80.750 € = precio recomendado en Alemania
+// publicado en buerstner.com (verificado el 18/10; la web ha reestructurado sus URLs de gama desde
+// entonces, el enlace profundo de la Lyseo TD devuelve 404 y se deja la raíz oficial).
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
@@ -107,6 +110,6 @@ export const AUTOCARAVANAS_BURSTNER_M1: Autocaravana[] = [
     },
     euroncap: null,
     fuenteNombre: "Bürstner (web oficial)",
-    fuenteUrl: "https://www.buerstner.com/de/en/motorhomes/lyseo-td",
+    fuenteUrl: "https://www.buerstner.com/",
   },
 ];

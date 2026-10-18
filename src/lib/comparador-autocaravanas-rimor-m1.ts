@@ -2,6 +2,10 @@
 // Datos verificados: rimor.it (web oficial) + lista oficial de precios Rimor 2026-2027
 // (PVP Alemania con IVA incluido, franco fábrica) + ficha de datos Rimor para Reino Unido.
 // Precios "desde" orientativos para España marcados en "aprox".
+// Corrección 4 (18/10/2026): página oficial del 687 TC re-verificada el 18/10 en rimor.it
+// (6.968 × 2.340 × 3.080 mm; MMA 3.500/3.550/4.100 kg; 4 (+1 opc.) plazas, 4 camas, cama transversal).
+// El PVP de 70.840 € procede de la lista oficial Rimor 2026-2027 (Alemania, IVA incluido) y queda
+// en "aprox" porque en España el precio lo fija el importador.
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 

@@ -1,6 +1,10 @@
 // Autocaravanas Eura Mobil — lote Merlín 1 (18/10/2026).
 // Datos verificados: euramobil.de (web oficial) + prensa especializada (outandaboutlive.co.uk,
-// What Motorhome) y exposés de concesionarios oficiales alemanes con datos de fábrica.
+// What Motorhome).
+// Corrección 4 (18/10/2026): eliminada la mención a exposés de concesionarios como fuente; la ficha
+// cita solo la web oficial y prensa especializada. La carga útil (1.054 kg, especificación Reino Unido
+// vía What Motorhome) queda marcada «no oficial» en "aprox"; la masa en orden de marcha sigue en null
+// por no haber cifra única de fábrica.
 // NOTA DE NOMENCLATURA: el «726 EB» no existe en la gama Integra Line GT (el EB es de la Profila T);
 // el integral de camas gemelas oficial 2026 es el IL 726 EF, que es el que se ficha aquí.
 // Eura Mobil no publica PVP de fábrica: precioDesde en null, sin inventar.
@@ -111,7 +115,7 @@ export const AUTOCARAVANAS_EURAMOBIL_M1: Autocaravana[] = [
       fuente: "Plan de mantenimiento Mercedes-Benz Sprinter + recomendaciones Eura Mobil",
     },
     euroncap: null,
-    fuenteNombre: "Eura Mobil (web oficial) + What Motorhome + outandaboutlive.co.uk",
+    fuenteNombre: "Eura Mobil (web oficial) + What Motorhome + outandaboutlive.co.uk (prensa especializada)",
     fuenteUrl: "https://www.euramobil.de/",
   },
 ];

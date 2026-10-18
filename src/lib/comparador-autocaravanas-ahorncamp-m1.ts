@@ -1,5 +1,8 @@
 // Autocaravanas Ahorn Camp — lote Merlín 1 (18/10/2026).
 // Datos verificados: lista oficial de precios Ahorn Camp Model Year 2026 (agosto 2025, ahorn-camp.de).
+// Corrección 4 (18/10/2026): lista oficial re-verificada el 18/10 (PDF en ahorn-camp.de): T 690,
+// 6,99 × 2,32 m, 3.500/4.000 kg, 61.900 € (PVP recomendado incl. IVA, Alemania), 2.0 Blue dCi de 130 CV
+// (170 CV opcional), hasta 4(5) plazas y 2(4) camas. Precio OFICIAL confirmado.
 // NOTA DE NOMENCLATURA: el «Canada AE» 2026 no existe (fue una capuchina de la generación 2021-2025,
 // descatalogada); la gama oficial 2026 es la nueva serie T (perfiladas) sobre Renault Master,
 // y la ficha corresponde al T 690. Ahorn Camp es marca alemana (Speyer), no canadiense.

@@ -1,7 +1,10 @@
 // Autocaravanas McLouis — lote Merlín 1 (18/10/2026).
 // Datos verificados: catálogo oficial McLouis 2022 (última tabla técnica oficial publicada con el MC4 231;
 // la web de McLouis indica que las fichas 2026 estarán disponibles próximamente y el listino Italia 2026
-// ya no incluye el 231) + camperlife.it (prueba del modelo). Sin PVP oficial de fábrica: precioDesde en null.
+// ya no incluye el 231) + camperlife.it (prensa especializada, prueba del modelo).
+// Sin PVP oficial de fábrica: precioDesde en null.
+// Corrección 4 (18/10/2026): el catálogo oficial de 2022 es la última fuente de fábrica disponible y el
+// 231 no figura en el listino 2026, por lo que su continuidad en gama es dudosa (ver contras).
 // Precios "desde" orientativos para España marcados en "aprox".
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
@@ -108,7 +111,7 @@ export const AUTOCARAVANAS_MCLOUIS_M1: Autocaravana[] = [
       fuente: "Plan de mantenimiento Fiat Professional Ducato + recomendaciones McLouis",
     },
     euroncap: null,
-    fuenteNombre: "McLouis (catálogo oficial 2022) + camperlife.it",
+    fuenteNombre: "McLouis (catálogo oficial 2022) + camperlife.it (prensa especializada)",
     fuenteUrl:
       "https://www.jollycaravan.it/engine/public/base/dwl.php?co=1962&F=108200_CatalogoCAMPER_McLouis2022_ITA_Low-Res.pdf",
   },
