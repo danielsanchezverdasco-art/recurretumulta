@@ -69,7 +69,7 @@ const jsonLd = {
     {
       "@type": "WebPage",
       name: "Comparador de patinetes eléctricos 2026: elige el mejor VMP",
-      url: "https://recurretumulta.online/comparador-patinetes",
+      url: "https://recurretumulta.online/comparador-patinetes/",
       description:
         `Compara ${PATINETES_COMPARADOR.length.toLocaleString("es-ES")} patinetes eléctricos lado a lado: precio, potencia, autonomía real estimada, peso, certificado DGT, pros y contras. El comparador para elegir el mejor VMP en 2026.`,
     },
@@ -86,7 +86,7 @@ const jsonLd = {
       itemListElement: [
         { "@type": "ListItem", position: 1, name: "Inicio", item: "https://recurretumulta.online/" },
         { "@type": "ListItem", position: 2, name: "Herramientas", item: "https://recurretumulta.online/herramientas" },
-        { "@type": "ListItem", position: 3, name: "Comparador de patinetes", item: "https://recurretumulta.online/comparador-patinetes" },
+        { "@type": "ListItem", position: 3, name: "Comparador de patinetes", item: "https://recurretumulta.online/comparador-patinetes/" },
       ],
     },
   ],

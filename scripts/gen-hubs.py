@@ -15,10 +15,11 @@ def publicadas(c):
   R=redirigidas(c)
   return [s for s in sorted(os.listdir(f"{D}/{c}")) if s!="marca" and s not in R and os.path.isfile(f"{D}/{c}/{s}/index.html")]
 for c in ["coches","motos","patinetes"]:
-  L=[]
+  L=[]; R=redirigidas(c)
   for s in sorted(os.listdir(f"{D}/{c}")):
     f=f"{D}/{c}/{s}/index.html"
-    if not os.path.isfile(f): continue
+    # 18/10/2026: las fichas con 301 a otra ficha (p. ej. honda-eny1 -> honda-e-ny1) no se listan en el hub
+    if s=="marca" or s in R or not os.path.isfile(f): continue
     h=open(f,encoding="utf8",errors="ignore").read(200000)
     if re.search(r'<meta name="robots" content="[^"]*noindex',h): continue
     can=re.search(r'rel="canonical" href="https://recurretumulta\.online([^"]*)"',h)

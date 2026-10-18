@@ -224,7 +224,7 @@ function CalendarioLanzamientosPage() {
                       Ver ficha del modelo →
                     </a>
                   )}
-                  <a href="https://recurretumulta.online/comparador-coches" className="text-sm text-red-700 font-semibold hover:underline self-center">
+                  <a href="https://recurretumulta.online/comparador-coches/" className="text-sm text-red-700 font-semibold hover:underline self-center">
                     Comparar con otros coches →
                   </a>
                 </div>
@@ -246,7 +246,7 @@ function CalendarioLanzamientosPage() {
           </div>
           <div>
             <h3 className="font-bold mb-1">¿Dónde puedo comparar los modelos que ya están disponibles?</h3>
-            <p className="text-slate-600">En nuestro <a href="https://recurretumulta.online/comparador-coches" className="text-red-700 font-semibold hover:underline">comparador de coches</a>: autonomía, batería, carga rápida y precio, lado a lado.</p>
+            <p className="text-slate-600">En nuestro <a href="https://recurretumulta.online/comparador-coches/" className="text-red-700 font-semibold hover:underline">comparador de coches</a>: autonomía, batería, carga rápida y precio, lado a lado.</p>
           </div>
         </div>
 
@@ -258,7 +258,7 @@ function CalendarioLanzamientosPage() {
         <div className="bg-slate-900 text-white rounded-3xl p-8 text-center">
           <h2 className="text-2xl font-bold mb-3">¿Buscas coche ahora?</h2>
           <p className="text-slate-300 mb-6">Mientras llegan las novedades, compara los modelos que ya puedes comprar.</p>
-          <a href="https://recurretumulta.online/comparador-coches" className="inline-block bg-red-600 hover:bg-red-700 text-white font-bold py-3 px-8 rounded-xl transition">Ir al comparador</a>
+          <a href="https://recurretumulta.online/comparador-coches/" className="inline-block bg-red-600 hover:bg-red-700 text-white font-bold py-3 px-8 rounded-xl transition">Ir al comparador</a>
         </div>
       </main>
       <SharedFooter />

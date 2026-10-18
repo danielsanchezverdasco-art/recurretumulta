@@ -46,3 +46,5 @@ open(os.path.join(D,"sitemap.xml"),"w").write(xml)
 open("/workspace/codigo-original/diagnostico/canonical-no-autorreferente.txt","w").write("\n".join(f"{r}\t{c}" for r,c in mal))
 open("/workspace/codigo-original/diagnostico/enlaces-internos-sin-pagina.txt","w").write("\n".join(f"{n}\t{r}" for r,n in sorted(rotos.items(),key=lambda x:-x[1])))
 print(f"[postfix] hrefs con barra/arreglados: {cambios}; sitemap: {len(ok)} URLs; canonical no autorreferente (excluidas): {len(mal)}; destinos internos sin página: {len(rotos)}")
+# 18/10/2026: enlaces internos que pasan por un 301 -> destino final (fix-enlaces-301.py).
+import runpy as _rp; sys.argv=[sys.argv[0],D]; _rp.run_path(os.path.join(os.path.dirname(os.path.abspath(__file__)),"fix-enlaces-301.py"),run_name="__main__")

@@ -83,7 +83,7 @@ const jsonLd = {
     {
       "@type": "WebApplication",
       name: "Comparador de coches: elige dos modelos y decide",
-      url: "https://recurretumulta.online/comparador-coches",
+      url: "https://recurretumulta.online/comparador-coches/",
       applicationCategory: "UtilityApplication",
       operatingSystem: "All",
       offers: { "@type": "Offer", price: "0", priceCurrency: "EUR", availability: "https://schema.org/InStock" },
@@ -103,7 +103,7 @@ const jsonLd = {
       itemListElement: [
         { "@type": "ListItem", position: 1, name: "Inicio", item: "https://recurretumulta.online/" },
         { "@type": "ListItem", position: 2, name: "Novedades Motor", item: "https://recurretumulta.online/blog" },
-        { "@type": "ListItem", position: 3, name: "Comparador de coches", item: "https://recurretumulta.online/comparador-coches" },
+        { "@type": "ListItem", position: 3, name: "Comparador de coches", item: "https://recurretumulta.online/comparador-coches/" },
       ],
     },
   ],

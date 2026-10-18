@@ -245,7 +245,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
             "@type": "ListItem",
             position: 2,
             name: "Comparador de patinetes",
-            item: "https://recurretumulta.online/comparador-patinetes",
+            item: "https://recurretumulta.online/comparador-patinetes/",
           },
           {
             "@type": "ListItem",
