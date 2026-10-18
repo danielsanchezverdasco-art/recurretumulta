@@ -1,6 +1,7 @@
 // Autocaravanas Campérêve — lote Merlín 4 (18/10/2026).
-// Datos verificados: fichas de concesionarios y prensa especializada
-// (Campérêve no localizó ficha oficial completa del modelo; el fabricante no publica
+// Datos verificados: web oficial Campérêve (campereve.fr) — «no oficial»: la ficha
+// técnica completa del Magellan 643 no está publicada por el fabricante; los valores
+// vienen de prensa especializada y fichas de concesionarios (el fabricante no publica
 // PVP: precioDesde en null).
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
@@ -44,7 +45,7 @@ export const AUTOCARAVANAS_CAMPEREVE_M1: Autocaravana[] = [
     parNm: null,
     traccion: null, // no publicada oficialmente
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["potenciaCv", "largoMm", "anchoMm", "altoMm", "mmaKg", "plazas", "carnetNecesario"], // «no oficial»: ficha completa del modelo no publicada por el fabricante
     pros: [
       "Sistema Modul'Space patentado: el armario pivota y crea una ducha privada independiente",
       "Lit transversal trasero de 192×132 cm: cama fija de matrimonio en solo 6 metros",
@@ -108,7 +109,7 @@ export const AUTOCARAVANAS_CAMPEREVE_M1: Autocaravana[] = [
       fuente: "Plan de mantenimiento Fiat Ducato + recomendaciones del sector",
     },
     euroncap: null,
-    fuenteNombre: "Campérêve: fichas de concesionarios + prensa especializada (ficha oficial no localizada)",
+    fuenteNombre: "Campérêve (web oficial) + prensa especializada («no oficial»: el fabricante no publica la ficha técnica completa del Magellan 643)",
     fuenteUrl: "https://www.campereve.fr/",
   },
 ];

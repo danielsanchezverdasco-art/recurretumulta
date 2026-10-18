@@ -1,7 +1,7 @@
 // Autocaravanas Niesmann+Bischoff — lote Merlín 4 (18/10/2026).
-// Datos verificados: web oficial niesmann-bischoff.com + fichas técnicas de
-// distribuidores coincidentes (el fabricante no publica plazas ni PVP: precioDesde en null;
-// precio base de prensa alemana ~114.850 € en Alemania MY2026, no oficial).
+// Datos verificados: web oficial niesmann-bischoff.com (el fabricante no publica plazas
+// ni PVP: precioDesde en null; precio base de prensa alemana ~114.850 € en Alemania MY2026,
+// no oficial).
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
@@ -40,11 +40,11 @@ export const AUTOCARAVANAS_NIESMANNBISCHOFF_M1: Autocaravana[] = [
     cargaUtilKg: null,
     consumo: null,
     consumoUnidad: null,
-    plazas: 4, // consenso de distribuidores; el fabricante no lo publica en su web
+    plazas: 4, // consenso de distribuidores («no oficial» en aprox); el fabricante no lo publica en su web
     parNm: null,
     traccion: null, // no publicada por el fabricante
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["plazas"], // «no oficial»: plazas no publicadas por el fabricante, dato de distribuidores
     pros: [
       "Menos de 7 m y menos de 3,5 t con 7 soluciones patentadas: la premium compacta",
       "Cocina extensible y ducha corredera que duplica el baño: ingeniería alemana de verdad",
@@ -108,7 +108,7 @@ export const AUTOCARAVANAS_NIESMANNBISCHOFF_M1: Autocaravana[] = [
       fuente: "Plan de mantenimiento Fiat Ducato + recomendaciones del sector",
     },
     euroncap: null,
-    fuenteNombre: "Niesmann+Bischoff (web oficial) + fichas de distribuidores",
+    fuenteNombre: "Niesmann+Bischoff (web oficial) («no oficial»: plazas, dato de distribuidores; el fabricante no lo publica)",
     fuenteUrl: "https://www.niesmann-bischoff.com/en/models/ismove/",
   },
 ];

@@ -1,7 +1,7 @@
 // Autocaravanas Mooveo — lote Merlín 4 (18/10/2026).
-// Datos verificados: catálogo oficial Mooveo TEI 2026 (grupo Rapido) + exposés de
-// concesionarios para el TEI-60FB (descatalogado de la gama 2026, sustituido por el TEI-62DH).
-// El fabricante no publica PVP: precioDesde en null.
+// Datos verificados: catálogo oficial Mooveo TEI 2026 (grupo Rapido) — «no oficial» para el
+// TEI-60FB: descatalogado de la gama 2026 (sustituido por el TEI-62DH), valores de exposés
+// de concesionarios. El fabricante no publica PVP: precioDesde en null.
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
@@ -44,7 +44,7 @@ export const AUTOCARAVANAS_MOOVEO_M1: Autocaravana[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["potenciaCv", "largoMm", "anchoMm", "altoMm", "mmaKg", "plazas", "carnetNecesario", "traccion"], // «no oficial»: TEI-60FB descatalogado, fuera del catálogo oficial 2026
     pros: [
       "Menos de 6 m con baño trasero completo separado: el formato más difícil de encontrar",
       "Gran garaje accesible desde dentro y desde fuera: bicis y material sin pelearte",
@@ -108,7 +108,7 @@ export const AUTOCARAVANAS_MOOVEO_M1: Autocaravana[] = [
       fuente: "Plan de mantenimiento Citroën Jumper + recomendaciones del sector",
     },
     euroncap: null,
-    fuenteNombre: "Mooveo (catálogo oficial TEI 2026) + exposés de concesionarios",
+    fuenteNombre: "Mooveo (catálogo oficial TEI 2026) («no oficial» para el TEI-60FB: descatalogado de la gama 2026, datos de exposés de concesionarios)",
     fuenteUrl: "https://www.mooveo.fr/",
   },
 ];
