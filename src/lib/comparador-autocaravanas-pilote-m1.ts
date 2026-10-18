@@ -1,9 +1,13 @@
 // Autocaravanas Pilote — lote Merlín 1 (18/10/2026).
 // Datos verificados: pilote.fr (web oficial: ficha del modelo V600G + catálogo oficial
 // de la colección 2027, válida desde 01/07/2026; la base técnica coincide con las
-// unidades 2026: Fiat Ducato 2.2 140 CV, 5,99 m).
+// unidades 2026: Fiat Ducato 2.2 140 CV, 5,99 m; ficha oficial del G740FGJ ÉVIDENCE).
 // NOTA DE COLECCIÓN: las unidades 2026 montan calefacción Truma Combi 4; la colección
 // 2027 incorpora de serie la Truma Combi D4 diésel. Precio no publicado → null.
+// NOTA DE NOMENCLATURA: «G740LJ Evidence» no existe en el catálogo oficial (doble error:
+// la serie G de Pilote son INTEGRALES, no perfiladas, y «LJ» no es un código oficial);
+// la ficha corresponde al modelo oficial más próximo: G740FGJ ÉVIDENCE (integral de camas
+// gemelas, colección 2027). Precio no publicado por el fabricante → null (no inventar).
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
 import type { CocheComparador } from "./comparador-coches-data.ts";
 
@@ -112,5 +116,110 @@ export const AUTOCARAVANAS_PILOTE_M1: CocheComparador[] = [
     euroncap: null,
     fuenteNombre: "Pilote (web oficial + catálogo colección 2027)",
     fuenteUrl: "https://www.pilote.fr/fourgon/v600g-pilote/",
+  },
+  {
+    id: "pilote-g740fgj-evidence-2026-precio-ficha-tecnica",
+    marca: "Pilote",
+    modelo: "G740FGJ ÉVIDENCE",
+    tipo: "Autocaravana integral",
+    categoria: "Autocaravana",
+    precioDesde: null, // Pilote no publica ningún precio oficial; la compra es solo vía red de concesionarios
+    potenciaCv: 160, // 180 CV en opción
+    autonomiaKm: null,
+    maleteroL: null,
+    ceroCien: null,
+    velocidadMax: null,
+    bateriaKwh: null,
+    cargaRapidaKw: null,
+    etiquetaDgt: "C",
+    garantiaBateriaAnos: null,
+    garantiaBateriaKm: null,
+    garantiaBateriaDegradacionPct: null,
+    imagen: "/media/pilote-g740fgj-evidence-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial:
+      "/media/pilote-g740fgj-evidence-2026-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial:
+      "/media/pilote-g740fgj-evidence-2026-precio-ficha-tecnica-interior.webp",
+    videoId: null,
+    videoCanal: null,
+    largoMm: 7560,
+    anchoMm: 2300,
+    altoMm: 2850,
+    pesoKg: null, // Pilote no publica masa en orden de marcha; sí publica "carga útil: 376 kg"
+    mmaKg: 3500, // chasis oficial Fiat® 3T5; el PTAC exacto de homologación no está publicado explícitamente
+    carnetNecesario: "B",
+    cargaUtilKg: 376, // cifra oficial publicada por Pilote
+    consumo: null,
+    consumoUnidad: null,
+    plazas: 4,
+    parNm: null, // no publicado por el fabricante
+    traccion: "Delantera",
+    emisionesCo2: null,
+    aprox: [],
+    pros: [
+      "Serie especial Evidence 'lista para partir': batería de litio de 200 Ah, panel solar TOPCon de 210 W y convertidor de 2.000 W de serie; autonomía eléctrica sin enganche ni grupo electrógeno",
+      "Calefacción híbrida Truma D6E de 6.000 W (diésel + eléctrica a 230 V): invierno real sin quemar bombonas de gas, porque tira del depósito de gasóleo",
+      "160 CV con caja automática de serie en el Fiat Ducato 2,2 (180 CV en opción): el automático ya no es un extra de pago en esta integral de 7,56 m",
+      "Camas gemelas traseras con rallonge de serie: se unen en una cama doble king size; y existe la versión 'lits bas' para quien no quiera subir por escalera",
+      "Ducha independiente del WC y frigorífico de compresor eléctrico sin rejillas exteriores: mejor aislamiento y rendimiento con calor que una trivalente de absorción",
+    ],
+    contras: [
+      "Carga útil de solo 376 kg: la más ajustada entre las integrales de su tamaño; con cuatro viajeros y el depósito lleno, cada kilo cuenta",
+      "Camas gemelas elevadas sobre un garaje alto: se accede por escalera (salvo la versión lits bas) y cargar bultos pesados queda a altura incómoda",
+      "Cofre de gas de una sola bombona de 2,75 kg con toma exterior: coherente con una autocaravana pensada para no usar gas, pero limita si se quiere cocinar solo con bombona",
+      "Pilote no publica ningún precio oficial de la Evidence: sin PVP es imposible situarla frente a sus rivales sin pedir oferta en concesionario",
+      "Carrocería integral de 2,85 m de alto con gran parabrisas panorámico: más superficie acristalada que calentar o refrigerar y mayor sensibilidad al viento lateral que una perfilada",
+    ],
+    opiniones: [],
+    costeMensual: {
+      costeEnergia100km: 15.4,
+      precioKwh: 0.18,
+      precioGasolinaL: 1.6,
+      seguroTercerosAnual: 700,
+      seguroAmpliadoAnual: 1300,
+      mantenimientoAnual: 600,
+      costeMensualTotal: 450,
+      notas:
+        "Estimación con 12.000 km/año, consumo medio ~11 l/100 km de gasóleo y seguro a todo riesgo. Coste real muy dependiente del uso.",
+      estimado: true,
+    },
+    galeria: [
+      {
+        src: "/media/pilote-g740fgj-evidence-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Pilote G740FGJ ÉVIDENCE, vista tres cuartos delantera",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/pilote-g740fgj-evidence-2026-precio-ficha-tecnica-interior.webp",
+        alt: "Interior del Pilote G740FGJ ÉVIDENCE, camas gemelas y salón",
+        ancho: 1200,
+        alto: 800,
+      },
+    ],
+    analisisSlug: "pilote-g740fgj-evidence-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo:
+        "Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Fiat)",
+      revisiones: [
+        {
+          nombre: "Revisión Fiat Ducato (2 años / 40.000 km)",
+          queSeCambia:
+            "Aceite + filtro de aceite + filtro de polen + inspección general",
+          costeAproxEur: 350,
+        },
+        {
+          nombre: "Revisión célula Pilote (anual recomendada)",
+          queSeCambia:
+            "Estanqueidad, gas, electricidad, humedades y prueba de calefacción",
+          costeAproxEur: 250,
+        },
+      ],
+      costeAnualAproxEur: 600,
+      fuente: "Plan de mantenimiento Fiat Ducato + recomendaciones Pilote",
+    },
+    euroncap: null,
+    fuenteNombre: "Pilote (web oficial, colección 2027)",
+    fuenteUrl: "https://www.pilote.fr/integral/g740fgj-evidence/",
   },
 ];
