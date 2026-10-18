@@ -1612,6 +1612,8 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
       "TFT de 7\" con navegación",
       "Puños y asiento calefactables",
       "Quickshifter up & down",
+      "Existe una versión limitada a 35 kW al mismo precio, lo que la abre a los conductores con carnet A2 (soymotero.net).",
+      "Depósito metálico de 20 litros: con el consumo declarado de 5 l/100 km, la autonomía teórica llega a los 400 km.",
     ],
     contras: [
       "230 kg en seco",
@@ -1619,11 +1621,15 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
       "Sin llantas de radios",
       "Precio superior a la 702",
       "Consumo elevado",
+      "La versión Stradale es asfáltica pura: llantas de aleación de 17 pulgadas y neumáticos de carretera, sin una variante campera real (lamoto.com.ar).",
+      "Con el depósito lleno supera los 230 kg, por encima de la media de las crossover de 900 cc (directomotor.com).",
     ],
     curiosidades: [
       "Comparte plataforma con la TRK 902 Xplorer pero orientada a carretera",
       "Su radar ofrece asistencia al cambio de carril, inédita en su precio",
       "El depósito de 21 L da autonomía para grandes viajes",
+      "La ficha la cataloga como modelo 2025, pero en España la prensa la comercializa como modelo 2026: llegó a concesionarios en junio de 2026 (motosan.es).",
+      "Las primeras unidades programadas para julio y agosto de 2026 se agotaron en preventa, según Motosan.",
     ],
     imagen: "/media/motos/benelli-trk-902-stradale-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -1642,8 +1648,8 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     ],
     videoId: null,
     videoCanal: null,
-    fuenteNombre: "Benelli",
-    fuenteUrl: "https://www.benelli.com",
+    fuenteNombre: "SoyMotero (precio en España)",
+    fuenteUrl: "https://soymotero.net/motos/benelli/trk-902-stradale-2026/",
     analisisSlug: "benelli-trk-902-stradale-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       cadenaPasos: [

@@ -89,7 +89,11 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Chasis de doble cuna en acero 25CrMo4 actualizado para 2025",
       "Suspensiones WP con 300 mm de recorrido delante y detrás",
       "Homologada Euro5+: matriculable y usable a diario",
-      "Precio 9.955 €: la 250 2T austriaca más asequible del trío KTM/Husky/GasGas"
+      "Precio 9.955 €: la 250 2T austriaca más asequible del trío KTM/Husky/GasGas",
+      "Sin premezcla: la bomba de aceite electrónica dosifica la mezcla (media 60:1) y el cuadro avisa con un testigo cuando el nivel baja (dato oficial GasGas).",
+      "Inyección TBI en el cuerpo de aceleración: la centralita ajusta la mezcla según temperatura, presión y régimen, con una entrega limpia a cualquier altitud.",
+      "Chasis 2025 revisado para un paso por curva más preciso, manteniendo el eje de balance que reduce vibraciones y fatiga en las salidas largas.",
+      "Depósito transparente de 9 litros: el nivel de gasolina se comprueba de un vistazo sin abrir el tapón.",
     ],
     contras: [
       "Hay que hacer la mezcla de gasolina sin plomo 98 y aceite 2T",
@@ -97,13 +101,20 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Depósito de 9 litros: hay que planificar los repostajes",
       "Asiento a 956 mm de altura: no es para todos los públicos",
       "El 2T exige más atención al mantenimiento que un 4T",
-      "Sonoridad y humo del 2T, aunque cumple Euro5+"
+      "Sonoridad y humo del 2T, aunque cumple Euro5+",
+      "GasGas no declara la potencia: su ficha oficial no incluye cifra de CV al tratarse de una moto de competición, así que no se puede comparar en papel con rivales que sí la publican.",
+      "Depende totalmente de la batería (2 Ah) para la inyección y el arranque eléctrico: no hay patada de emergencia como en las 2T clásicas de carburador (MP Racing).",
+      "Hay que repostar aceite 2T aparte de la gasolina: la bomba electrónica evita la premezcla, pero hay que vigilar el nivel del depósito de aceite en cada salida (el cuadro avisa con un testigo).",
     ],
     curiosidades: [
       "Su diámetro por carrera es de 72 x 66,4 mm, cotas típicas de las 250 2T de competición",
       "El embrague es multidisco DS en baño de aceite con accionamiento hidráulico Braktec",
       "Monta cadena con junta en X de paso 520, pensada para durar en el barro",
-      "Comparte la base técnica con la KTM 250 EXC del mismo año"
+      "Comparte la base técnica con la KTM 250 EXC del mismo año",
+      "Su diámetro por carrera real es de 66,4 x 72 mm (dato de MP Racing): cotas de carrera larga, típicas de las 250 2T de enduro.",
+      "La mezcla media es de 60:1 gracias a la bomba electrónica: según GasGas, un depósito de aceite da para 'horas y horas' de pilotaje.",
+      "Para 2025 GasGas revisó toda la gama de enduro (con el regreso de la EC 125): la EC 250 recibió un chasis actualizado para mejorar el paso por curva (nota de prensa oficial GASGAS España).",
+      "El depósito es de polietileno transparente: el nivel de gasolina se ve sin quitar el tapón.",
     ],
     imagen: "/media/motos/gasgas-ec-250-2t-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -112,7 +123,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     ],
     videoId: null,
     videoCanal: null,
-    fuenteNombre: "MP Racing (concesionario GasGas)",
+    fuenteNombre: "MP Racing (concesionario oficial GasGas)",
     fuenteUrl: "https://mpracing.es/gasgas-motos/100672-moto-gas-gas-ec-250-2t-2025.html",
     analisisSlug: "gasgas-ec-250-2t-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
