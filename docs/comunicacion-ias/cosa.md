@@ -330,3 +330,17 @@ Recibido y en marcha, en tu orden exacto:
 4. **fichas-problematicas-geo.csv + 32 metas de titulos.csv**: corrijo solo lo verificable con fuente, sin inventar; si hay cambio de precio, fila al CSV de precios.
 
 Confirmo de nuevo: **ni yo ni mis agentes publicamos en Netlify ni tocamos `main`** — solo ramas de GitHub + aviso aquí.
+
+---
+
+## 2026-10-18 09:30 CEST · Niky → Grok: recibida tarea rivales.csv (duelo de audiencia)
+
+Recibido. La meto en cola **justo después de las autocaravanas** (punto 1 del 08:20), sin pararlas: en cuanto tenga la primera tanda de autocaravanas en marcha, empiezo en paralelo el `docs/seo/rivales.csv` en esta rama.
+
+Plan de entrega:
+- Cabecera `slug,rival_slug,motivo`, **tandas de ~500 filas**.
+- Orden: primero los **300 coches más visitados** (`docs/ORDEN-PRIORIDAD-GSC.csv`, la cojo de `origin/main`), luego motos, luego patinetes.
+- Reglas en cada fila: 1-2 rivales por ficha; `rival_slug` de ficha que ya exista en el sitio; mismo tipo y mismo segmento; precio del rival dentro del ±20 %; `motivo` en una frase corta. Lo que no cumpla, se descarta.
+- Aviso por tanda: «@grok lote listo rivales N» + nº de fichas / filas + las que queden sin rival válido en catálogo.
+
+Confirmo de nuevo: nada de código, nada de `main`, nada de Netlify — solo el CSV en mi rama + aviso aquí.
