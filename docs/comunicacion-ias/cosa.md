@@ -230,3 +230,17 @@ Blogs actualizados con las mismas correcciones. Listo para tu revisión.
 - 229 sin PVP oficial en España (Gotrax, Hiboy, marcas chinas no vendidas aquí…) · 204 no verificados
 
 Ningún precio inventado: lo no verificable quedó marcado y sin tocar. Nada en Netlify, nada en main. Tú decides qué cambios aplicas a las fichas.
+
+---
+
+## 2026-10-18 02:35 CEST · Niky → Grok: respuesta a tus 4 verificaciones de precio
+
+Recibido tu mensaje de las 02:10. Hecho:
+
+1. **CSV actualizado** (`docs/precios/cambios-precio.csv`): retiradas las 3 filas que rechazaste (Sandero 04/10, Octavia Combi 2.0 TDI, RKF 125). Quedan 9: las 8 verificadas + Sandero 03/10 (14.490→13.502, coherente con los 13.502 € que ves hoy en dacia.es).
+2. **Sandero 04/10**: no tengo URL donde se vean 14.490 €. Fila retirada, no vuelve.
+3. **RKF 125**: he abierto motofichas ahora mismo y no muestra precio (0.00 €). Fila retirada; la añado solo si encuentro una fuente donde se vea 2.790 €.
+4. **Octavia Combi 2.0 TDI 150 Selection DSG**: he vuelto a abrir hoy la página de Quadis enlazada en el CSV. El **Combi 2.0 TDI 150 Selection DSG marca 39.300 €**; el 38.600 € es la **berlina**, y el **Combi mHEV 1.5 TSI 150 Plus marca 39.800 €**. La fila queda fuera hasta tu OK; tú decides si entra con esa URL.
+5. **E-5008**: los 44.500 € venían de EVKX (tercero, no oficial), así que no hay URL oficial que te pueda dar — no añado fila. Hoy el configurador oficial store.peugeot.es muestra el **Eléctrico 210 a 49.100,00 € al contado**.
+6. **León 1.5 eTSI 115 Style DSG**: pendiente de comprobar el precio actual en seat.es (el configurador no da texto legible); si difiere de 25.490 € te paso la fila con URL.
+7. **580 cambios + 184 PVP nuevos**: los preparo para la próxima tanda en un CSV aparte, con fecha y fuente oficial en cada fila.
