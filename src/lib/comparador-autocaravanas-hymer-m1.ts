@@ -1,0 +1,217 @@
+// Autocaravanas Hymer — lote Merlín 1 (18/10/2026).
+// Datos verificados: hymer.com (web oficial; precios PVP recomendado Alemania, pueden diferir en España),
+// outandaboutlive.co.uk (prensa especializada), alpacacamping.de.
+// Precios "desde" orientativos para España marcados en "aprox".
+// Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
+import type { CocheComparador } from "./comparador-coches-data.ts";
+
+export const AUTOCARAVANAS_HYMER_M1: CocheComparador[] = [
+  {
+    id: "hymer-grand-canyon-s-2026-precio-ficha-tecnica",
+    marca: "Hymer",
+    modelo: "Grand Canyon S",
+    tipo: "Camper (furgoneta camper)",
+    categoria: "Autocaravana",
+    precioDesde: 98200,
+    potenciaCv: 150,
+    autonomiaKm: null,
+    maleteroL: null,
+    ceroCien: null,
+    velocidadMax: null,
+    bateriaKwh: null,
+    cargaRapidaKw: null,
+    etiquetaDgt: "C",
+    garantiaBateriaAnos: null,
+    garantiaBateriaKm: null,
+    garantiaBateriaDegradacionPct: null,
+    imagen: "/media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial: "/media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial:
+      "/media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-interior.webp",
+    videoId: null,
+    videoCanal: null,
+    largoMm: 5930,
+    anchoMm: 2060,
+    altoMm: 2760,
+    pesoKg: null, // masa en orden de marcha no publicada por Hymer para esta versión
+    mmaKg: 3500,
+    carnetNecesario: "B",
+    cargaUtilKg: null,
+    consumo: null,
+    consumoUnidad: null,
+    plazas: 4,
+    parNm: null,
+    traccion: "Trasera (4x4 opcional)",
+    emisionesCo2: null,
+    aprox: ["precioDesde"],
+    pros: [
+      "Camper de menos de 6 m (5,93 m) sobre Mercedes Sprinter: se conduce y aparca como una furgoneta grande",
+      "Versión 4x4 disponible: la camper de Hymer pensada para pistas y escapadas fuera del asfalto",
+      "Camas gemelas traseras con colchones de muelles enrollables: se pliegan para ganar maletero",
+      "Batería de litio LiFePO4 de 80 Ah de serie (ampliable): buena autonomía fuera de la red",
+      "Techo elevable opcional: 4 plazas para dormir en 5,93 m sin renunciar al garaje trasero",
+    ],
+    contras: [
+      "Precio de partida alto (~98.200 € en Alemania): de las campers más caras de su tamaño",
+      "Con 2,06 m de ancho, el pasillo y el baño son justos para dos personas a la vez",
+      "La cocina es compacta (dos fuegos y nevera de 90 l): para cocinar en serio hay que salir fuera",
+      "El 4x4 y los packs (Xperience, etc.) disparan el precio por encima de los 120.000 €",
+      "MMA de 3.500 kg: con 4 ocupantes y equipamiento 4x4 hay que vigilar la carga útil",
+    ],
+    opiniones: [],
+    costeMensual: {
+      costeEnergia100km: 12.6,
+      precioKwh: 0.18,
+      precioGasolinaL: 1.6,
+      seguroTercerosAnual: 600,
+      seguroAmpliadoAnual: 1100,
+      mantenimientoAnual: 550,
+      costeMensualTotal: 390,
+      notas:
+        "Estimación con 12.000 km/año, consumo medio ~9 l/100 km de gasóleo y seguro a todo riesgo. Coste real muy dependiente del uso.",
+      estimado: true,
+    },
+    galeria: [
+      {
+        src: "/media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Hymer Grand Canyon S, vista tres cuartos delantera",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-interior.webp",
+        alt: "Interior de la Hymer Grand Canyon S, salón y cocina",
+        ancho: 1200,
+        alto: 800,
+      },
+    ],
+    analisisSlug: "hymer-grand-canyon-s-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo:
+        "Mercedes Sprinter: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Mercedes-Benz)",
+      revisiones: [
+        {
+          nombre: "Revisión Mercedes Sprinter (2 años / 40.000 km)",
+          queSeCambia:
+            "Aceite + filtro de aceite + filtro de aire + inspección general",
+          costeAproxEur: 450,
+        },
+        {
+          nombre: "Revisión célula Hymer (anual recomendada)",
+          queSeCambia:
+            "Estanqueidad, gas, electricidad, humedades y prueba de calefacción",
+          costeAproxEur: 250,
+        },
+      ],
+      costeAnualAproxEur: 700,
+      fuente: "Plan de mantenimiento Mercedes-Benz Sprinter + recomendaciones Hymer",
+    },
+    euroncap: null,
+    fuenteNombre: "Hymer (web oficial) + Out & About Live",
+    fuenteUrl: "http://www.hymer.com/de/en/camper-vans-class-b",
+  },
+  {
+    id: "hymer-b-mc-i-600-2026-precio-ficha-tecnica",
+    marca: "Hymer",
+    modelo: "B-MC I 600",
+    tipo: "Autocaravana integral",
+    categoria: "Autocaravana",
+    precioDesde: 139900,
+    potenciaCv: 150,
+    autonomiaKm: null,
+    maleteroL: null,
+    ceroCien: null,
+    velocidadMax: null,
+    bateriaKwh: null,
+    cargaRapidaKw: null,
+    etiquetaDgt: "C",
+    garantiaBateriaAnos: null,
+    garantiaBateriaKm: null,
+    garantiaBateriaDegradacionPct: null,
+    imagen: "/media/hymer-b-mc-i-600-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial: "/media/hymer-b-mc-i-600-2026-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial:
+      "/media/hymer-b-mc-i-600-2026-precio-ficha-tecnica-interior.webp",
+    videoId: null,
+    videoCanal: null,
+    largoMm: 7190,
+    anchoMm: 2290,
+    altoMm: 2980,
+    pesoKg: null, // masa en orden de marcha no publicada por Hymer para esta versión
+    mmaKg: 3500,
+    carnetNecesario: "B",
+    cargaUtilKg: null,
+    consumo: null,
+    consumoUnidad: null,
+    plazas: 4,
+    parNm: null,
+    traccion: "Delantera",
+    emisionesCo2: null,
+    aprox: ["precioDesde"],
+    pros: [
+      "Integral de 7,19 m sobre chasis SLC de Mercedes: ligera y estable, se conduce con carnet B",
+      "Carrocería integral sin cabina de furgoneta: parabrisas panorámico y salón con mucha luz",
+      "Cama basculante eléctrica sobre el salón + camas traseras: 4 plazas sin capuchina",
+      "Depósitos grandes (180 l agua limpia / 150 l grises): autonomía para varios días fuera de camping",
+      "Hymer Smart Connect de serie: control de la célula desde el móvil",
+    ],
+    contras: [
+      "Desde ~139.900 € en Alemania: precio de acceso muy alto para una integral de 7,2 m",
+      "Con 2,98 m de alto y 7,19 m de largo, ni entra en parkings ni pasa desapercibida en pueblos",
+      "El motor base de 150 CV se queda corto con la integral cargada y el remolque",
+      "La cama basculante obliga a recoger el salón cada noche si se usa a diario",
+      "MMA de 3.500 kg justos: los packs de equipamiento comen carga útil rápidamente",
+    ],
+    opiniones: [],
+    costeMensual: {
+      costeEnergia100km: 14.4,
+      precioKwh: 0.18,
+      precioGasolinaL: 1.6,
+      seguroTercerosAnual: 700,
+      seguroAmpliadoAnual: 1300,
+      mantenimientoAnual: 650,
+      costeMensualTotal: 450,
+      notas:
+        "Estimación con 12.000 km/año, consumo medio ~10,5 l/100 km de gasóleo y seguro a todo riesgo. Coste real muy dependiente del uso.",
+      estimado: true,
+    },
+    galeria: [
+      {
+        src: "/media/hymer-b-mc-i-600-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Hymer B-MC I 600, vista frontal integral",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/hymer-b-mc-i-600-2026-precio-ficha-tecnica-interior.webp",
+        alt: "Interior de la Hymer B-MC I 600, salón en L",
+        ancho: 1200,
+        alto: 800,
+      },
+    ],
+    analisisSlug: "hymer-b-mc-i-600-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo:
+        "Mercedes Sprinter: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Mercedes-Benz)",
+      revisiones: [
+        {
+          nombre: "Revisión Mercedes Sprinter (2 años / 40.000 km)",
+          queSeCambia:
+            "Aceite + filtro de aceite + filtro de aire + inspección general",
+          costeAproxEur: 450,
+        },
+        {
+          nombre: "Revisión célula Hymer (anual recomendada)",
+          queSeCambia:
+            "Estanqueidad, gas, electricidad, humedades y prueba de calefacción",
+          costeAproxEur: 250,
+        },
+      ],
+      costeAnualAproxEur: 700,
+      fuente: "Plan de mantenimiento Mercedes-Benz Sprinter + recomendaciones Hymer",
+    },
+    euroncap: null,
+    fuenteNombre: "Hymer (web oficial)",
+    fuenteUrl: "https://www.hymer.com/de/en/motorhomes/class-a-motorhomes",
+  },
+];
