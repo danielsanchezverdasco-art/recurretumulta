@@ -765,62 +765,85 @@ Si te llega una denuncia de tráfico, <a href=https://recurretumulta.online/#ana
   },
   {
     slug: "cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica",
-    title: "Cupra León ST VZ 333: el familiar más rápido",
-    "excerpt": "El Cupra León Sportstourer VZ 333 ofrece 333 CV, tracción total 4Drive y 620 L de maletero. El sleeper familiar.",
+    title: "Cupra León ST VZ 333: familiar de 333 CV por 55.820 €",
+    "excerpt": "El Cupra León Sportstourer VZ 333 cuesta 55.820 €: 333 CV, 4Drive y 620 L de maletero. El sleeper familiar.",
     category: "Novedades Motor",
-    date: "2026-10-05",
+    date: "2026-10-18",
     readTime: 7,
     locale: "all",
     keywords: ["Cupra León ST VZ 333","León Sportstourer VZ","Cupra León familiar 333 CV","León ST más potente","familiar deportivo 333 CV"],
-    content: `<img src=/media/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica-hero.webp alt=Cupra León Sportstourer VZ 333 en carretera>
+    content: `<img src=/media/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica-hero.webp alt=Cupra León Sportstourer 2024, tres cuartos delantero>
+
+*Actualizado el 18/10/2026.*
 
 **¿Buscas solo los datos?** <a href=/coches/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica/>Ver ficha técnica del León ST VZ 333</a>: 333 CV, 4Drive y maletero. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-El **Cupra León Sportstourer VZ 333** es el sleeper definitivo: un familiar de **620 litros** de maletero con **333 CV**, 420 Nm y **tracción total 4Drive**. El León más potente con carrocería familiar, capaz de humillar a deportivos en el semáforo y de llevar a la familia con todo el equipaje.
+El **Cupra León Sportstourer VZ 333** es el sleeper definitivo: un familiar de **620 litros** de maletero con **333 CV**, 420 Nm y **tracción total 4Drive** por **55.820 €**. El León más potente con carrocería familiar: humilla a deportivos en el semáforo y lleva a la familia con todo el equipaje.
 
 ## Ficha técnica resumida: León ST VZ 333
 
 | Dato | Valor |
 |---|---|
+| **Precio en España** | 55.820 € |
 | **Motor** | 2.0 TSI, 333 CV, 420 Nm |
 | **Tracción** | Total 4Drive |
-| **Cambio** | DSG |
+| **Cambio** | DSG de 7 velocidades |
+| **0-100 km/h** | 4,8 s |
+| **Velocidad máxima** | 250 km/h |
+| **Consumo WLTP** | 8,3 l/100 km |
+| **Emisiones CO₂** | 188 g/km |
 | **Maletero** | 620 L |
-| **Largo** | 4.642 mm |
+| **Largo × ancho × alto** | 4.642 × 1.799 × 1.456 mm |
+| **Peso** | 1.651 kg |
 | **Etiqueta DGT** | C |
 
 ¿Quieres el detalle completo? <a href=/coches/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica/>Ficha técnica completa del León ST VZ 333</a>.
+
+## La gama Sportstourer más deportiva
+
+| Versión | Potencia | Precio | Etiqueta |
+|---|---|---|---|
+| **ST VZ 2.0 TSI 333 4Drive** | 333 CV | **55.820 €** | C |
+| ST VZ 1.5 e-HYBRID 272 | 272 CV | 62.120 € | Cero |
+| 5p VZ 2.0 TSI 325 (1.500 uds.) | 325 CV | 49.514 € | C |
+
+Precios: ficha técnica independiente (55.820 €); prueba de autonocion para el e-Hybrid 272 (diciembre de 2024); km77 para el 5p VZ 325 de producción limitada.
+
+<img src=/media/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica-oficial.webp alt=Cupra León Sportstourer 2024 (restyling), vista cenital trasera>
+
+Mismo motor que el Golf R Variant por bastante menos dinero: la definición de sleeper.
 
 ## Rivales directos
 
 | Modelo | Precio aprox. | Potencia | Maletero |
 |---|---|---|---|
-| **León ST VZ 333** | — | 333 CV | 620 L |
+| **León ST VZ 333** | **55.820 €** | 333 CV | 620 L |
 | VW Golf R Variant | ~60.000 € | 333 CV | 611 L |
 | Audi S4 Avant | ~75.000 € | 354 CV | 505 L |
 | BMW M340i Touring | ~78.000 € | 387 CV | 500 L |
 
-Mismo motor que el Golf R Variant por bastante menos dinero: la definición de sleeper.
-
-<img src=/media/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica-oficial.webp alt=Cupra León Sportstourer VZ 333, familiar deportivo>
+Precios de rivales orientativos de mercado.
 
 ## Pros y contras
 
 | ✅ Pros | ❌ Contras |
 |---|---|
-| 333 CV con 4Drive | Precio sin confirmar |
+| 333 CV con 4Drive | 55.820 €: el León más caro |
 | 620 L de maletero | Etiqueta C |
-| 420 Nm del 2.0 TSI | Consumo alto |
+| 420 Nm del 2.0 TSI | Consumo alto (8,3 l/100 km) |
 | Sleeper: 333 CV de incógnito | Golf R Variant, gemelo más caro |
-| Chasis Cupra | Versión de nicho, poco stock |
+| Chasis Cupra con torque splitter | Versión de nicho, poco stock |
 
 ## Preguntas frecuentes
 
 ### ¿Cuántos caballos tiene el León ST VZ 333?
-**333 CV** y 420 Nm, con tracción total 4Drive.
+**333 CV** y 420 Nm, con tracción total 4Drive y cambio DSG de 7 velocidades.
+
+### ¿Cuánto cuesta?
+**55.820 €** según ficha técnica independiente: es el León más caro de la historia, pero más barato que su gemelo Golf R Variant.
 
 ### ¿Qué maletero tiene?
-**620 litros**, como el resto de la gama Sportstourer térmica.
+**620 litros**, como el resto de la gama Sportstourer térmica: deportivo y familiar a la vez.
 
 ### ¿Es mejor que el Golf R Variant?
 Misma base mecánica y potencia (333 CV) por menos dinero; el Golf R tiene más imagen y mejor reventa.
@@ -828,42 +851,48 @@ Misma base mecánica y potencia (333 CV) por menos dinero; el Golf R tiene más 
 ### ¿Qué etiqueta DGT tiene?
 **Etiqueta C**.
 
-### ¿Cuál es su precio?
-**Pendiente de confirmación** en tarifa oficial; el 5 puertas VZ 325 (50.794 €) sirve de referencia.
-
 ### ¿Es un buen coche familiar?
 Sí: 620 L, 5 plazas amplias y 333 CV cuando vas solo. El familiar para quien no quiere renunciar a nada.
 
 Con 333 CV en un familiar, la templanza es clave: Si te llega una denuncia de tráfico, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.
 
-*Fuentes: <a href=https://www.km77.com/coches/cupra/leon/2024/estandar/estandar/leon-vz/datos/equipamiento>km77.com</a> y <a href=https://www.dgt.es>DGT</a>.*`
+## Cómo verificamos
+
+Precio (55.820 €), potencia (333 CV), par (420 Nm), consumo (8,3 l/100 km), emisiones (188 g/km), peso (1.651 kg) y maletero (620 L): ficha técnica independiente de la versión exacta, estado «Actual». EuroNCAP: el León obtuvo 5 estrellas en 2020 (<a href=https://www.euroncap.com/it/results/cupra/leon/43180>euroncap.com</a>). Si un dato no tiene fuente, no lo publicamos.
+
+*Fuentes: <a href=https://www.tufichatecnica.com/cupra/leon/sportstourer/2024/cupra-leon-vz-2024-5p-20g-at7-333cv-b4j0>tufichatecnica.com</a>, <a href=https://soloauto.net/prueba-cupra-leon-sportstourer-vz-familiar-radical/>soloauto.net</a>, <a href=https://www.euroncap.com/it/results/cupra/leon/43180>EuroNCAP</a> y <a href=https://www.dgt.es>DGT</a>.*`
   },
   {
     slug: "cupra-formentor-15-etsi-2025-precio-ficha-tecnica",
-    title: "Cupra Formentor 1.5 eTSI 2026: desde 36.192 €",
-    "excerpt": "El Cupra Formentor 1.5 eTSI cuesta 36.192 €: 150 CV, etiqueta ECO y el diseño que inventó Cupra. El acceso a Formentor.",
+    title: "Cupra Formentor 1.5 eTSI: 150 CV y etiqueta ECO por 35.883 €",
+    "excerpt": "El Cupra Formentor 1.5 eTSI cuesta 35.883 €: 150 CV, etiqueta ECO y el restyling 2024. El acceso a Formentor.",
     category: "Novedades Motor",
-    date: "2026-10-05",
+    date: "2026-10-18",
     readTime: 7,
     locale: "all",
     keywords: ["Cupra Formentor 1.5 eTSI","Cupra Formentor precio","Formentor más barato","Cupra Formentor 150 CV","Formentor ficha técnica"],
-    content: `<img src=/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-hero.webp alt=Cupra Formentor 1.5 eTSI en ciudad>
+    content: `<img src=/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-hero.webp alt=Cupra Formentor 2024 al atardecer, tres cuartos trasero>
+
+*Actualizado el 18/10/2026.*
 
 **¿Buscas solo los datos?** <a href=/coches/cupra-formentor-15-etsi-2025-precio-ficha-tecnica/>Ver ficha técnica del Formentor 1.5 eTSI</a>: precio, motor y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-El **Cupra Formentor 1.5 eTSI** es la puerta de entrada al modelo que inventó Cupra: **36.192 €** según km77, con el **1.5 eTSI de 150 CV** y 250 Nm, cambio DSG y **etiqueta ECO** gracias a la hibridación ligera.
+El **Cupra Formentor 1.5 eTSI** es la puerta de entrada al modelo que inventó Cupra: **35.883 €** de PVP recomendado al contado (oferta oficial de octubre de 2026), con el **1.5 eTSI de 150 CV** y 250 Nm, cambio DSG y **etiqueta ECO** gracias a la hibridación ligera de 48 V.
 
 ## Ficha técnica resumida: Formentor 1.5 eTSI
 
 | Dato | Valor |
 |---|---|
-| **Precio en España** | 36.192 € (km77) |
+| **Precio en España** | 35.883 € (PVP oficial al contado) |
 | **Motor** | 1.5 eTSI, 150 CV, 250 Nm |
-| **Cambio** | DSG |
+| **Cambio** | DSG de 7 velocidades |
 | **Tracción** | Delantera |
 | **Etiqueta DGT** | ECO |
+| **Consumo WLTP** | 5,8-6,4 l/100 km |
+| **Emisiones CO₂** | 132-144 g/km |
 | **Maletero** | 450 L |
 | **Largo × ancho × alto** | 4.451 × 1.839 × 1.511 mm |
+| **0-100 km/h** | 9,0 s |
 
 ¿Quieres el detalle completo? <a href=/coches/cupra-formentor-15-etsi-2025-precio-ficha-tecnica/>Ficha técnica completa del Formentor 1.5 eTSI</a>.
 
@@ -871,13 +900,14 @@ El **Cupra Formentor 1.5 eTSI** es la puerta de entrada al modelo que inventó C
 
 | Versión | Potencia | Precio | Etiqueta |
 |---|---|---|---|
-| **1.5 eTSI** | 150 CV | **36.192 €** | ECO |
-| e-Hybrid 204 | 204 CV | 43.480 € | Cero |
-| VZ e-Hybrid 272 | 272 CV | 49.160 € | Cero |
-| VZ 2.0 TSI 265 | 265 CV | 51.254 € | C |
-| VZ 2.0 TSI 333 4Drive | 333 CV | 54.974 € | C |
+| **1.5 eTSI DSG** | 150 CV | **35.883 €** | ECO |
+| VZ 1.5 e-HYBRID 272 | 272 CV | 52.980 € | Cero |
+| VZ 2.0 TSI 265 | 265 CV | 57.594 € | C |
+| <a href=/coches/cupra-formentor-vz-333-2025-precio-ficha-tecnica/>VZ 2.0 TSI 333 4Drive</a> | 333 CV | 61.344 € | C |
 
-<img src=/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-oficial.webp alt=Cupra Formentor 1.5 eTSI, SUV coupé, tres cuartos delantero>
+Precios: PVP oficial CUPRA España (oferta de octubre de 2026 para el 1.5 eTSI; tarifa oficial de julio de 2026, MY27, para los VZ).
+
+<img src=/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-oficial.webp alt=Cupra Formentor 2024 (restyling), trasera tres cuartos con firma lumínica>
 
 ¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
@@ -885,44 +915,50 @@ El **Cupra Formentor 1.5 eTSI** es la puerta de entrada al modelo que inventó C
 
 | Modelo | Precio desde | Potencia | Etiqueta |
 |---|---|---|---|
-| **Formentor 1.5 eTSI** | **36.192 €** | 150 CV | ECO |
+| **Formentor 1.5 eTSI** | **35.883 €** | 150 CV | ECO |
 | VW T-Roc 1.5 eTSI | ~33.000 € | 150 CV | ECO |
 | Hyundai Tucson 1.6 T-GDI | ~34.000 € | 150 CV | C |
 | Kia Sportage 1.6 T-GDI | ~33.500 € | 150 CV | ECO |
+
+Precios de rivales orientativos de mercado.
 
 ## Pros y contras
 
 | ✅ Pros | ❌ Contras |
 |---|---|
-| 36.192 €: el Formentor más asequible | 150 CV, justo para su peso |
+| 35.883 €: el Formentor más asequible | 150 CV, justo para su peso |
 | Etiqueta ECO | Sin etiqueta Cero |
 | Chasis deportivo Cupra | El e-Hybrid, 120 km eléctricos por más |
 | Maletero de 450 L | Techo coupé atrás |
-| Diseño que sigue vigente | Sin 4Drive |
+| Restyling 2024 vigente | Sin 4Drive |
 
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Cupra Formentor 1.5 eTSI?
-**36.192 €** según km77.
+**35.883 €** de PVP recomendado al contado, según la oferta oficial de CUPRA España (octubre de 2026).
 
 ### ¿Qué etiqueta DGT tiene?
 **ECO**, por la hibridación ligera de 48 V.
 
 ### ¿Cuántos caballos tiene?
-**150 CV** y 250 Nm.
+**150 CV** y 250 Nm, con cambio DSG de 7 velocidades.
 
-### ¿Merece la pena frente al e-Hybrid?
-El e-Hybrid 204 (43.480 €) añade 120 km eléctricos y etiqueta Cero por 7.288 € más: compensa si cargas a diario.
+### ¿Cuánto consume?
+Entre **5,8 y 6,4 l/100 km** (WLTP), con emisiones de 132 a 144 g/km de CO₂ según la web oficial de CUPRA.
 
 ### ¿Qué maletero tiene?
-**450 litros**.
+**450 litros**, el mayor de la gama junto al resto de versiones térmicas.
 
-### ¿Es el Cupra más vendido?
-El Formentor es el **modelo más vendido de Cupra** en España y Europa, el que consolidó la marca.
+### ¿Merece la pena frente al VZ e-Hybrid 272?
+El híbrido enchufable (52.980 € en tarifa oficial) añade 120 km eléctricos y etiqueta Cero por unos 17.000 € más: compensa si cargas a diario y quieres la mejor fiscalidad.
 
 Si te llega una denuncia de tráfico, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.
 
-*Fuentes: <a href=https://www.km77.com/coches/cupra/formentor/2024/estandar/formentor/formentor-15-etsi/datos/equipamiento>km77.com</a> y <a href=https://www.dgt.es>DGT</a>.*`
+## Cómo verificamos
+
+Precio (35.883 €) y consumos WLTP (5,8-6,4 l/100 km): web oficial de CUPRA España, oferta de octubre de 2026. Precios VZ (57.594 €, 61.344 €, 52.980 €): tarifa oficial CUPRA de julio de 2026 (MY27). EuroNCAP: 5 estrellas en 2021 (<a href=https://www.euroncap.com/en/results/cupra/formentor/57957>euroncap.com</a>). Si un dato no tiene fuente, no lo publicamos.
+
+*Fuentes: <a href=https://www.cupra.com/es-es/coches/formentor>CUPRA oficial</a>, <a href=https://www.euroncap.com/en/results/cupra/formentor/57957>EuroNCAP</a> y <a href=https://www.dgt.es>DGT</a>.*`
   },
   {
     slug: "cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica",
@@ -1186,18 +1222,20 @@ Con 265 CV, la prudencia suma: Si te llega una denuncia de tráfico, <a href=htt
   },
   {
     slug: "cupra-formentor-vz-333-2025-precio-ficha-tecnica",
-    title: "Cupra Formentor VZ 333: el tope, 333 CV y 4Drive",
-    "excerpt": "El Cupra Formentor VZ 333 cuesta 54.974 €: 333 CV, 420 Nm y tracción total 4Drive. El Formentor definitivo.",
+    title: "Cupra Formentor VZ 333: 333 CV por 61.344 €, el más potente",
+    "excerpt": "El Cupra Formentor VZ 333 cuesta 61.344 €: 333 CV, 420 Nm y tracción total 4Drive. El Formentor definitivo.",
     category: "Novedades Motor",
-    date: "2026-10-05",
+    date: "2026-10-18",
     readTime: 8,
     locale: "all",
     keywords: ["Formentor VZ 333","Cupra Formentor 333 CV","Formentor más potente","Formentor VZ 333 precio","Formentor 4Drive"],
-    content: `<img src=/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-hero.webp alt=Cupra Formentor VZ 333 en circuito>
+    content: `<img src=/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-hero.webp alt=Cupra Formentor VZ 333 en carretera de montaña>
+
+*Actualizado el 18/10/2026.*
 
 **¿Buscas solo los datos?** <a href=/coches/cupra-formentor-vz-333-2025-precio-ficha-tecnica/>Ver ficha técnica del Formentor VZ 333</a>: 333 CV, 4Drive y precio. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-El **Cupra Formentor VZ 333** es el tope de la gama: **54.974 €**, con el **2.0 TSI de 333 CV** y 420 Nm asociado a la **tracción total 4Drive**. El Formentor más rápido, más radical y más caro: el canto del cisne de la gasolina en Cupra.
+El **Cupra Formentor VZ 333** es el tope de la gama: **61.344 €** en la tarifa oficial de julio de 2026 (MY27), con el **2.0 TSI de 333 CV** y 420 Nm asociado a la **tracción total 4Drive**. El Formentor más rápido, más radical y más caro: gasolina pura sin complejos.
 
 ## Prueba en vídeo
 
@@ -1209,29 +1247,44 @@ El **Cupra Formentor VZ 333** es el tope de la gama: **54.974 €**, con el **2.
 
 | Dato | Valor |
 |---|---|
-| **Precio en España** | 54.974 € (km77) |
+| **Precio en España** | 61.344 € (tarifa oficial MY27) |
 | **Motor** | 2.0 TSI, 333 CV, 420 Nm |
 | **Tracción** | Total 4Drive |
-| **Cambio** | DSG |
-| **Maletero** | 450 L |
+| **Cambio** | DSG de 7 velocidades |
+| **0-100 km/h** | 4,8 s |
+| **Velocidad máxima** | 250 km/h |
+| **Emisiones CO₂** | 198-203 g/km (WLTP) |
+| **Maletero** | 420 L |
+| **Largo × ancho × alto** | 4.451 × 1.839 × 1.511 mm |
 | **Etiqueta DGT** | C |
 
 ¿Quieres el detalle completo? <a href=/coches/cupra-formentor-vz-333-2025-precio-ficha-tecnica/>Ficha técnica completa del Formentor VZ 333</a>.
+
+## La gama VZ, de menos a más
+
+| Versión | Potencia | Precio | Etiqueta |
+|---|---|---|---|
+| VZ 1.5 e-HYBRID 272 | 272 CV | 52.980 € | Cero |
+| VZ 2.0 TSI 265 | 265 CV | 57.594 € | C |
+| **VZ 2.0 TSI 333 4Drive** | 333 CV | **61.344 €** | C |
+| <a href=/coches/cupra-formentor-15-etsi-2025-precio-ficha-tecnica/>1.5 eTSI (acceso)</a> | 150 CV | 35.883 € | ECO |
+
+Precios: tarifa oficial CUPRA de julio de 2026 (MY27), salvo el 1.5 eTSI (oferta oficial de octubre de 2026).
+
+<img src=/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-oficial.webp alt=Cupra Formentor VZ 333, trasera tres cuartos con cuatro escapes>
+
+¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Rivales directos
 
 | Modelo | Precio desde | Potencia | Tracción |
 |---|---|---|---|
-| **Formentor VZ 333** | **54.974 €** | 333 CV | Total |
+| **Formentor VZ 333** | **61.344 €** | 333 CV | Total |
 | VW T-Roc R | ~55.000 € | 300 CV | Total |
 | Audi SQ2 | ~60.000 € | 300 CV | Total |
 | BMW X2 M35i | ~65.000 € | 300 CV | Total |
 
-El Formentor VZ 333 es el más potente y el más barato de los SUV compactos deportivos premium.
-
-<img src=/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-oficial.webp alt=Cupra Formentor VZ 333, tres cuartos delantero>
-
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
+Precios de rivales orientativos de mercado: el Formentor VZ 333 es el más potente del grupo.
 
 ## Pros y contras
 
@@ -1239,33 +1292,37 @@ El Formentor VZ 333 es el más potente y el más barato de los SUV compactos dep
 |---|---|
 | 333 CV y 420 Nm con 4Drive | Etiqueta C, la peor fiscalidad |
 | El Formentor definitivo | Consumo muy alto |
-| 54.974 €, prestaciones premium | El VZ e-Hybrid: Cero por 5.814 € menos |
-| Modo Cupra radical | El Audi SQ2 aprieta por más |
-| Maletero de 450 L | Solo para prestacionales puros |
+| 61.344 €, prestaciones premium | El VZ e-Hybrid: Cero por 8.364 € menos |
+| Modo Cupra radical | El Audi SQ2 aprieta por menos |
+| 4 escapes y llantas de cobre | Solo para prestacionales puros |
 
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Formentor VZ 333?
-**54.974 €** según km77.
+**61.344 €** según la tarifa oficial CUPRA de julio de 2026 (MY27).
 
 ### ¿Cuántos caballos tiene?
 **333 CV** y 420 Nm: el Formentor más potente.
 
 ### ¿Es tracción total?
-Sí, **4Drive**: reparte el par entre ambos ejes.
+Sí, **4Drive**: reparte el par entre ambos ejes, con cuatro salidas de escape.
 
 ### ¿Es mejor que el T-Roc R?
-El Formentor ofrece 33 CV más por un precio similar, con el mismo grupo técnico.
+El Formentor ofrece 33 CV más por un precio en la misma liga, con el mismo grupo técnico.
 
 ### ¿Qué etiqueta DGT tiene?
 **Etiqueta C**.
 
 ### ¿Merece la pena frente al VZ e-Hybrid 272?
-Solo si priorizas prestaciones puras: el híbrido (49.160 €) tiene etiqueta Cero y 120 km eléctricos.
+Solo si priorizas prestaciones puras: el híbrido (52.980 € en tarifa oficial) tiene etiqueta Cero y 120 km eléctricos por 8.364 € menos.
 
 Con 333 CV, el respeto a los límites es obligatorio: Si te llega una denuncia de tráfico, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.
 
-*Fuentes: <a href=https://www.km77.com/coches/cupra/formentor/2024/estandar/formentor/formentor-vz/datos/equipamiento>km77.com</a>, <a href=https://www.youtube.com/watch?v=NOrtK0OS2hw>Arrancamos en YouTube</a> y <a href=https://www.dgt.es>DGT</a>.*`
+## Cómo verificamos
+
+Precio (61.344 €) y emisiones WLTP (198-203 g/km): tarifa oficial CUPRA de julio de 2026 (MY27), publicada por el SEAT-CUPRA Media Center. Prestaciones (4,8 s, 250 km/h, 420 Nm): ficha técnica del fabricante. EuroNCAP: 5 estrellas en 2021 (<a href=https://www.euroncap.com/en/results/cupra/formentor/57957>euroncap.com</a>). Si un dato no tiene fuente, no lo publicamos.
+
+*Fuentes: <a href=https://www.cupra.com/es-es/coches/formentor>CUPRA oficial</a>, <a href=https://www.euroncap.com/en/results/cupra/formentor/57957>EuroNCAP</a> y <a href=https://www.dgt.es>DGT</a>.*`
   },
   {
     slug: "cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica",
