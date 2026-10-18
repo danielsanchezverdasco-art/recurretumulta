@@ -111,7 +111,6 @@
 /coches/dongfeng-aeolus-yixuan-2025-precio-ficha-tecnica/
 /coches/bmw-serie-3-320d-2026-precio-ficha-tecnica/
 /coches/maserati-ghibli-modena-2024-precio-ficha-tecnica/
-/coches/stelato-g9-2026-precio-ficha-tecnica/
 /coches/exeed-vx-2025-precio-ficha-tecnica/
 /coches/tank-300-hooke-trail-2026-precio-ficha-tecnica/
 /coches/volkswagen-golf-gti-clubsport-2026-precio-ficha-tecnica/
@@ -597,7 +596,6 @@
 /coches/leapmotor-b03-2026-precio-ficha-tecnica/
 /coches/chery-tiggo-4-pro-15t-2026-precio-ficha-tecnica/
 /coches/im-ls7-2024-precio-ficha-tecnica/
-/coches/stelato-g9-erev-2026-precio-ficha-tecnica/
 /coches/skoda-superb-20-tsi-2026-precio-ficha-tecnica/
 /coches/polestar-7-2028-precio-ficha-tecnica/
 /coches/tank-330-2024-precio-ficha-tecnica/

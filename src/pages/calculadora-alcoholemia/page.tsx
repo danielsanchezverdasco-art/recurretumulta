@@ -90,8 +90,8 @@ export default function CalculadoraAlcoholemiaPage() {
   const estadoTasa = calc && calc.hayConsumo
     ? calc.actual >= 0.5
       ? { nivel: "alta" as const, texto: "Por encima del límite general (0,50 g/l)", color: "text-red-500" }
-      : calc.actual >= 0.25
-        ? { nivel: "media" as const, texto: "Por encima del límite de noveles y profesionales (0,25 g/l)", color: "text-amber-400" }
+      : calc.actual >= 0.3
+        ? { nivel: "media" as const, texto: "Por encima del límite de noveles y profesionales (0,30 g/l en sangre = 0,15 mg/l en aire)", color: "text-amber-400" }
         : calc.actual > 0.02
           ? { nivel: "baja" as const, texto: "Por debajo de los límites legales, pero no es una tasa segura", color: "text-amber-300" }
           : { nivel: "cero" as const, texto: "Estimación cercana a 0,0 g/l", color: "text-green-400" }
@@ -206,11 +206,11 @@ export default function CalculadoraAlcoholemiaPage() {
               <div className="mt-5 text-left">
                 <div className="relative h-4 bg-slate-700 rounded-full overflow-visible">
                   <div className="absolute inset-y-0 left-0 bg-gradient-to-r from-green-500 via-amber-400 to-red-500 rounded-full" style={{ width: `${barraPct}%` }} />
-                  <div className="absolute inset-y-[-4px]" style={{ left: "25%" }} title="Límite noveles y profesionales: 0,25 g/l"><div className="w-0.5 h-6 bg-white/80" /></div>
+                  <div className="absolute inset-y-[-4px]" style={{ left: "30%" }} title="Límite noveles y profesionales: 0,30 g/l"><div className="w-0.5 h-6 bg-white/80" /></div>
                   <div className="absolute inset-y-[-4px]" style={{ left: "50%" }} title="Límite general: 0,50 g/l"><div className="w-0.5 h-6 bg-white/80" /></div>
                 </div>
                 <div className="flex justify-between text-[11px] text-slate-400 mt-1.5">
-                  <span>0</span><span>0,25 novel/prof.</span><span>0,50 general</span><span>1,0</span>
+                  <span>0</span><span>0,30 novel/prof.</span><span>0,50 general</span><span>1,0</span>
                 </div>
               </div>
               {calc.hayConsumo && calc.actual > 0.02 && (

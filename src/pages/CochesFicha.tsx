@@ -163,7 +163,7 @@ const FILAS: Fila[] = [
   { campo: "precioDesde", label: "Precio desde", get: (c) => fmtPrecio(c.precioDesde) },
   { campo: "potenciaCv", label: "Potencia", get: (c) => fmtCv(c.potenciaCv) },
   { campo: "parNm", label: "Par máximo", get: (c) => fmtNm(c.parNm) },
-  { campo: "autonomiaKm", label: "Autonomía eléctrica (WLTP)", get: (c) => fmtKm(c.autonomiaKm) },
+  { campo: "autonomiaKm", label: "Autonomía eléctrica (WLTP)", get: (c) => fmtKm(c.autonomiaKm) + (c.cicloAutonomia === "CLTC" ? " (ciclo chino CLTC, no WLTP)" : "") },
   { campo: "consumo", label: "Consumo (WLTP)", get: fmtConsumo },
   { campo: "bateriaKwh", label: "Batería", get: (c) => fmtKwh(c.bateriaKwh) },
   { campo: "cargaRapidaKw", label: "Carga rápida (DC)", get: (c) => fmtKw(c.cargaRapidaKw) },
@@ -265,7 +265,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
   if (coche.potenciaCv != null)
     specbars.push({ label: "Potencia", value: coche.potenciaCv, max: 500, unit: " CV" });
   if (coche.autonomiaKm != null)
-    specbars.push({ label: "Autonomía (WLTP)", value: coche.autonomiaKm, max: 800, unit: " km" });
+    specbars.push({ label: coche.cicloAutonomia === "CLTC" ? "Autonomía (CLTC)" : "Autonomía (WLTP)", value: coche.autonomiaKm, max: 800, unit: " km" });
   if (coche.maleteroL != null)
     specbars.push({ label: "Maletero", value: coche.maleteroL, max: 700, unit: " L" });
   if (specbars.length < 4 && coche.velocidadMax != null)
@@ -314,7 +314,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
       a:
         coche.autonomiaKm == null
           ? `No hay una autonomía publicada por ninguna fuente fiable para el ${nombre}, así que preferimos no inventarla: no la mostramos en la ficha.`
-          : `Homologa ${fmtKm(coche.autonomiaKm)}${/híbrido|enchufable|autonomía extendida/i.test(coche.tipo) ? " en modo eléctrico" : " (WLTP)"}. Ten en cuenta que la cifra real depende de tu conducción y de la temperatura.`,
+          : `Homologa ${fmtKm(coche.autonomiaKm)}${/híbrido|enchufable|autonomía extendida/i.test(coche.tipo) ? " en modo eléctrico" : ""}${coche.cicloAutonomia === "CLTC" ? " en el ciclo chino CLTC, más optimista que el WLTP europeo" : /híbrido|enchufable|autonomía extendida/i.test(coche.tipo) ? "" : " (WLTP)"}. Ten en cuenta que la cifra real depende de tu conducción y de la temperatura.`,
     },
     {
       q: `¿Cuánto maletero tiene el ${nombre}?`,
