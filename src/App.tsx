@@ -94,6 +94,7 @@ const JuegoMonosPage = lazy(() => import("./pages/JuegoMonos.tsx"));
 const JuegoMonosBasesPage = lazy(() => import("./pages/JuegoMonosBases.tsx"));
 const HubFichas = lazy(() => import("./pages/HubFichas.tsx"));
 const HubMarca = lazy(() => import("./pages/HubMarca.tsx"));
+const FavoritosDelMesPage = lazy(() => import("./pages/FavoritosDelMes.tsx"));
 const NotFound = lazy(() => import("./pages/NotFound.tsx"));
 
 // Spinner mínimo mientras carga la ruta lazy.
@@ -162,6 +163,7 @@ function ContentRoutes() {
       <Route path="coches/:slug" element={<CochesFichaPage />} />
       <Route path="comparador-motos" element={<ComparadorMotosPage />} />
       <Route path="fichas-tecnicas" element={<FichasTecnicasPage />} />
+      <Route path="favoritos-del-mes" element={<FavoritosDelMesPage />} />
       <Route path="motos/:slug" element={<MotosFichaPage />} />
       <Route path="comparador-patinetes" element={<ComparadorPatinetesPage />} />
       <Route path="comparador/mas-vendidos" element={<MasVendidosPage />} />

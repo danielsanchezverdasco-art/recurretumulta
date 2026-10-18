@@ -55,6 +55,9 @@ const HistorialPreciosLazy = lazy(() => import("@/components/HistorialPrecios.ts
 const SeguridadEuroNCAPLayz = lazy(() => import("@/components/SeguridadEuroNCAP.tsx"));
 // 12/10/2026: opiniones de propietarios con fotos (below-the-fold en lazy).
 const ResenasVehiculoLazy = lazy(() => import("@/components/ResenasVehiculo.tsx"));
+// 18/10/2026: audiencia (puntúa, ¿lo comprarías?, duelo, visitas). Solo cliente, tras la carga.
+const AudienciaFichaLazy = lazy(() => import("@/components/audiencia/AudienciaFicha.tsx"));
+import { Diferido, useVisitaFicha } from "@/components/audiencia/Diferido.tsx";
 
 const fmtPrecio = (v: number | null) =>
   v == null ? "No publicado" : v.toLocaleString("es-ES") + " €";
@@ -94,6 +97,7 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
   const nombre = `${patinete.marca} ${patinete.modelo}`;
   // GEO 17/10/2026: respuesta rápida (ficha + historial de precios, nada inventado).
   const historial = useHistorialPrecios(patinete.id);
+  useVisitaFicha("patinetes", patinete.id);
   const geo = frasesGeo(datosGeoPatinete(patinete, nombre, historial));
   // 12/10/2026: nodos schema.org de reseñas (se fusionan en cliente cuando
   // Convex responde; en el prerender no hay datos → solo el schema base).
@@ -519,6 +523,12 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
           </Suspense>
         </section>
 
+        <Diferido>
+        <Suspense fallback={null}>
+          <AudienciaFichaLazy tipo="patinetes" slug={patinete.id} nombre={nombre} img={patinete.fotoPendiente ? null : patinete.foto} />
+        </Suspense>
+        </Diferido>
+
         <section className="mt-8 grid gap-6 sm:grid-cols-2" aria-label="Puntos fuertes y débiles">
           <FlipCard
             className="rtm-card"
@@ -738,6 +748,13 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
             ))}
           </div>
         </section>
+
+        <p className="mt-8 text-sm text-gray-600">
+          🏆 ¿Qué modelos gustan más a los lectores?{" "}
+          <Link to="/favoritos-del-mes/" className="font-semibold text-red-600 hover:underline">
+            Mira los favoritos del mes
+          </Link>
+        </p>
 
         <StickyCta href={`/comparador-patinetes?a=${patinete.id}`} label="Comparar este modelo" />
 

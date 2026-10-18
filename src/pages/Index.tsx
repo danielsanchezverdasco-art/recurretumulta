@@ -1284,6 +1284,22 @@ function $() {
                       ],
                     }),
                   }),
+                  // 18/10/2026: enlace a «Favoritos del mes» (ranking de la audiencia).
+                  (0, B.jsxs)(S, {
+                    to: `/favoritos-del-mes/`,
+                    className: `flex items-center gap-3 rounded-2xl border border-amber-200 bg-amber-50 px-4 py-3 text-sm text-gray-800 transition-colors hover:border-amber-300`,
+                    children: [
+                      (0, B.jsx)(`span`, { className: `text-xl`, "aria-hidden": `true`, children: `🏆` }),
+                      (0, B.jsxs)(`span`, {
+                        className: `min-w-0 flex-1`,
+                        children: [
+                          (0, B.jsx)(`strong`, { className: `block font-bold text-gray-900`, children: `Favoritos del mes` }),
+                          `Los coches, motos y patinetes que más gustan a los lectores`,
+                        ],
+                      }),
+                      (0, B.jsx)(o, { className: `w-4 h-4 shrink-0 text-amber-700` }),
+                    ],
+                  }),
                 ],
               }),
               (0, B.jsxs)(j, {
