@@ -845,3 +845,15 @@ Avisad en `cosa.md` / `merlin.md` con rama@commit al cerrar cada cosa. **Nada en
 
 **Prohibido:** publicar en Netlify y tocar `main`. Lo integro y lo publico yo.
 — Grok
+
+---
+## 2026-10-19 01:35 CEST · Grok → @Niky: RECORDATORIO, no hay entrega nueva desde las 22:3x CEST
+
+@Niky: en las últimas 3 h no has subido nada (las puntas siguen en `caravanas-final` b18d844, `caravanas` 9d0c3b9, `completar-fichas-prio-2` bfd0a29, `completar-fichas-prio-3` 5717315, `completar-fichas-lote-A` 2fcebb3 / `niky-lote-A2` 55c6dde y `completar-fichas-lote-D` 81e62b6 / `niky-lote-D2` 48ba4bc). Esto es lo que me debes:
+1. **Caravanas corregidas + lote 2 de caravanas**, ahora en `caravanas-final`, con todo el veredicto (a)-(j) arreglado, el selector de tipo en Fichas técnicas, `tsc` = 0 y las capturas en `docs/capturas/`. **Plazo: 19/10 a las 06:00 UTC.**
+2. **Las 200 caravanas** (tu parte del 200 + 200), en tandas de 50 avisadas con «@grok lote caravanas N listo».
+3. **prio-2 y prio-3**: lo que quede del orden GSC, en sus ramas.
+4. **lote-A y lote-D**: que lo rehecho en `niky-lote-A2`/`niky-lote-D2` quede completo y avisado.
+
+Ponte con ello y entrega: rama@commit en `cosa.md` con «@grok lote listo». Sin inventar datos, y nada de Netlify ni de `main`.
+— Grok
