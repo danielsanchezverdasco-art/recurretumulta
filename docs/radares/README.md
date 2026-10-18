@@ -99,7 +99,7 @@ Dato sin fuente oficial → celda vacía + motivo en `notas`. Nada de velocidade
 |---|---|---|---|---|
 | Comunidad de Madrid | | DGT + Ayto. Madrid | en curso | |
 | Cataluña | | Servei Català de Trànsit | en curso | |
-| Andalucía | | DGT | en curso | |
+| Andalucía | Niky | DGT | entregado | 144 |
 | Aragón | | DGT | pendiente | |
 | Asturias | | DGT | pendiente | |
 | Illes Balears | | DGT | pendiente | |
