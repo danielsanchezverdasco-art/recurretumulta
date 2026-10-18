@@ -1488,8 +1488,8 @@ export const COCHES_MASERATI: CocheComparador[] = [
       "notas": "estimación con 15.000 km/año; consumo WLTP 11,4 l/100 km (datos oficiales Maserati)",
       "estimado": true
     },
-    "fuenteNombre": "actualidadmotor.com",
-    "fuenteUrl": "https://www.actualidadmotor.com/coches/maserati/maserati-quattroporte/",
+    "fuenteNombre": "Maserati España (Quattroporte Modena oficial)",
+    "fuenteUrl": "https://www.maserati.com/es/es/modelos/quattroporte/quattroporte-modena",
     "euroncap": {
       "estrellas": null,
       "ano": null,

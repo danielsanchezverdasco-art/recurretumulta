@@ -207,8 +207,8 @@ export const COCHES_JETOUR: CocheComparador[] = [
         alto: 801,
       },
     ],
-    fuenteNombre: "Jetour Argentina (web oficial)",
-    fuenteUrl: "http://jetour.com.ar/dashing/",
+    fuenteNombre: "Cuyomotor (Jetour Dashing Argentina, precios)",
+    fuenteUrl: "https://cuyomotor.com.ar/2026/09/23/jetour-rebajas-septiembre-dashing-2026/",
     euroncap: {
       estrellas: null,
       ano: null,

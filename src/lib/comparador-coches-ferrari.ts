@@ -1226,8 +1226,8 @@ export const COCHES_FERRARI: CocheComparador[] = [
       costeAnualAproxEur: null,
       fuente: "Programa oficial Ferrari Genuine Maintenance (7 años incluidos en todos los Ferrari nuevos)",
     },
-    fuenteNombre: "batmangarage.com (datos de la presentación oficial Ferrari)",
-    fuenteUrl: "https://www.batmangarage.com/news/ferrari-f80-hypercar-2026.html",
+    fuenteNombre: "Actualidad Motor (Ferrari F80, 1.200 CV)",
+    fuenteUrl: "https://www.actualidadmotor.com/coches/ferrari/ferrari-f80/",
     costeMensual: {
       "costeEnergia100km": 22.2,
       "seguroTercerosAnual": 6000,

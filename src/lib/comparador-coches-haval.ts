@@ -1235,8 +1235,8 @@ export const COCHES_HAVAL: CocheComparador[] = [
       costeAnualAproxEur: null,
       fuente: "Orientativo según el programa de mantenimiento de GWM; la marca no publica el plan oficial para este modelo",
     },
-    fuenteNombre: "32cars.ru (datos MIIT), Wikipedia (Haval Raptor)",
-    fuenteUrl: "https://www.32cars.ru/en/ampposts/id13139-haval-raptor-plus-suv-larger-variant-with-7-seats-and-hybrid-tech",
+    fuenteNombre: "CarNewsChina (Haval Raptor Plus, datos MIIT)",
+    fuenteUrl: "https://carnewschina.com/2026/02/08/gwms-haval-raptor-suv-gets-plus-variant-with-up-to-seven-seats/",
     analisisSlug: "haval-raptor-plus-2026-precio-ficha-tecnica",
   },
   {

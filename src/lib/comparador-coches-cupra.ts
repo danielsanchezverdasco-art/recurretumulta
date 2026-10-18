@@ -858,8 +858,8 @@ export const COCHES_CUPRA: CocheComparador[] = [
         "alto": 800
       }
     ],
-    "fuenteNombre": "tufichatecnica.com",
-    "fuenteUrl": "https://www.tufichatecnica.com/cupra/leon/sportstourer/2024/cupra-leon-vz-2024-5p-20g-at7-333cv-b4j0",
+    "fuenteNombre": "Panorama Motor (CUPRA León VZ Sportstourer 2025, 333 CV)",
+    "fuenteUrl": "https://panoramamotor.com/cupra-leon-vz-sportstourer-2025/",
     "euroncap": {
       "estrellas": 5,
       "ano": 2020,

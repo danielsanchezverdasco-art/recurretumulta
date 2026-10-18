@@ -793,8 +793,8 @@ export const COCHES_CHERY: CocheComparador[] = [
       costeAnualAproxEur: 135,
       fuente: "BitAuto (易车网): revisión pequeña 300-400 ¥; cálculo para 15.000 km/año",
     },
-    fuenteNombre: "AutoCango — ficha técnica del mercado chino",
-    fuenteUrl: "https://www.autocango.com/cs/carspecs-Chery-Arrizo%205-7Y4B",
+    fuenteNombre: "BitAuto (prueba Chery Arrizo 5)",
+    fuenteUrl: "https://www.bitauto.com/es-global/news/100287181855.html",
     pros: [
       "La berlina más barata de Chery: desde unos 7.950 € al cambio en China",
       "Motor 1.5 atmosférico de 120 CV: sencillo, probado y barato de mantener",
@@ -997,8 +997,8 @@ export const COCHES_CHERY: CocheComparador[] = [
       costeAnualAproxEur: 150,
       fuente: "Manual de mantenimiento Chery (pangku/PCauto): 5.000 km o 6 meses; coste estimado de revisión pequeña 300-400 ¥ (BitAuto)",
     },
-    fuenteNombre: "AutoCango — ficha técnica del mercado chino",
-    fuenteUrl: "https://www.autocango.com/zh/carspecs-detail/Chery-Arrizo-8-PMQNE1",
+    fuenteNombre: "BitAuto (Chery Arrizo 8 2024)",
+    fuenteUrl: "https://www.bitauto.com/wiki/10024338581/",
     pros: [
       "1.6 turbo de 197 CV y 290 Nm con cambio DCT de 7 marchas: 0-100 en 8,9 s",
       "Berlina de 4,78 m con batalla de 2.790 mm y maletero de 445 litros",

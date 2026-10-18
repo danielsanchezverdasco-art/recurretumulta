@@ -1255,8 +1255,8 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "nota": "Sin datos EuroNCAP: los cuadriciclos ligeros (L6e) no se someten a pruebas Euro NCAP"
     },
     planMantenimiento: null,
-    fuenteNombre: "auto-data.net (ficha Ami Electric Phase II 2025) + Citroën España",
-    fuenteUrl: "https://www.auto-data.net/es/citroen-ami-electric-buggy-5.4-kwh-8hp-54220"
+    fuenteNombre: "Autonocion (Citroën Ami, precio 7.990 €)",
+    fuenteUrl: "https://www.autonocion.com/motornocion/citroen-ami-descuento/"
   },  {
     id: "citroen-e-c3-aircross-2026-precio-ficha-tecnica",
     garantiaBateriaAnos: 8,

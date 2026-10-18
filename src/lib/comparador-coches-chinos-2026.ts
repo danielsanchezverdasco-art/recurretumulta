@@ -259,8 +259,8 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
     imagen: "/media/im-ls9-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/im-ls9-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/im-ls9-2026-precio-ficha-tecnica-interior.webp",
-    fuenteNombre: "hibridosyelectricos.com",
-    fuenteUrl: "https://www.hibridosyelectricos.com/coches/ultimo-mg-es-range-rover-hibrido-1500-km-autonomia-con-bateria-mg4_83429_102.html",
+    fuenteNombre: "CarsGuide (IM LS9 2026)",
+    fuenteUrl: "https://www.carsguide.com.au/car-news/chinas-range-rover-beater-coming-to-oz-100038",
     analisisSlug: "im-ls9-2026-precio-ficha-tecnica",
     euroncap: {
       estrellas: null,
