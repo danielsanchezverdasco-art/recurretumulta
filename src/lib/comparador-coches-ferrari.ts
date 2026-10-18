@@ -504,42 +504,62 @@ export const COCHES_FERRARI: CocheComparador[] = [
     modelo: "296 Speciale A",
     tipo: "Híbrido enchufable",
     categoria: "Descapotable",
-    precioDesde: 480000,
+    precioDesde: 462000,
     potenciaCv: 880,
     autonomiaKm: 25,
     maleteroL: 49,
-    ceroCien: 2.7,
+    ceroCien: 2.8,
     velocidadMax: 330,
     bateriaKwh: 7.45,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
-      "El 296 Speciale descapotable (Aperta): 880 CV con el cielo por techo",
-      "Mismas prestaciones que el coupé pese al techo retráctil",
-      "La versión más exclusiva del 296: producción muy limitada",
-      "Aerodinámica activa con alerón móvil de 360 kg de carga",
-      "Revalorización casi garantizada: los Aperta Speciale son objeto de colección",
+      "El 296 Speciale descapotable (A de Aperta): 880 CV con techo duro retráctil",
+      "700 CV del V6 + 180 del eléctrico: 50 CV más que el 296 GTS",
+      "435 kg de carga aerodinámica a 250 km/h (+20 % que el GTS)",
+      "50 kg menos que el GTS (1.490 kg en seco) con carbono y titanio",
+      "La versión más exclusiva del 296: serie especial de producción muy limitada",
     ],
     contras: [
-      "Casi medio millón de euros: el 296 más caro de la historia",
+      "462.000 € en Italia: unos 55.000 € más que el Speciale coupé",
       "Maletero de 49 litros: el techo se come todo el espacio",
-      "Entregas a partir de 2026 con lista de espera cerrada",
-      "Más peso que el coupé Speciale",
+      "0-200 en 7,3 s: tres décimas más lento que el coupé",
+      "Sin prueba EuroNCAP: los descapotables de serie especial no se prueban",
       "El confort es secundario: es una máquina de circuito con matrícula",
     ],
-    largoMm: 4565,
-    anchoMm: null,
-    altoMm: null,
-    pesoKg: null,
+    largoMm: 4625,
+    anchoMm: 1968,
+    altoMm: 1181,
+    pesoKg: 1490,
     consumo: null,
     consumoUnidad: null,
     plazas: 2,
-    parNm: null,
+    parNm: 755,
     traccion: "Trasera",
     emisionesCo2: null,
     aprox: ["precioDesde"],
     imagen: "/media/ferrari-296-speciale-a-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: los descapotables de serie especial no son probados por Euro NCAP",
+    },
+    planMantenimiento: {
+      intervalo: "Mantenimiento programado anual o cada 20.000 km (lo que ocurra antes), incluido durante 7 años",
+      revisiones: [
+        {
+          nombre: "Ferrari Genuine Maintenance (7 años)",
+          queSeCambia: "Todo el mantenimiento programado incluido en el precio del coche durante los primeros 7 años",
+          costeAproxEur: 0,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa oficial Ferrari Genuine Maintenance (7 años incluidos en todos los Ferrari nuevos)",
+    },
+    fuenteNombre: "paultan.org (lanzamiento oficial, datos de prensa Ferrari)",
+    fuenteUrl: "https://paultan.org/2025/10/29/ferrari-296-speciale-launched-in-malaysia/",
     costeMensual: {
       "costeEnergia100km": 18.5,
       "seguroTercerosAnual": 2000,
@@ -548,27 +568,27 @@ export const COCHES_FERRARI: CocheComparador[] = [
       "costeMensualTotal": 868,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "cifras orientativas para 1.000 km/mes; consumo combinado estimado ~10 l/100 km (WLTP no publicado); serie especial descapotable",
+      "notas": "cifras orientativas para 1.000 km/mes; consumo combinado estimado ~10 l/100 km (WLTP no publicado); serie especial descapotable; mantenimiento programado cubierto 7 años por Ferrari",
       "estimado": true
     },
     galeria: [
       {
         "src": "/media/ferrari-296-speciale-a-2026-precio-ficha-tecnica-hero.webp",
-        "alt": "Ferrari 296 Speciale A amarillo descapotado en carretera de montaña",
-        "ancho": 1920,
-        "alto": 1280
+        "alt": "Ferrari 296 Speciale A descapotado en el circuito de Fiorano (foto: carfun.tw)",
+        "ancho": 1024,
+        "alto": 576
       },
       {
         "src": "/media/ferrari-296-speciale-a-2026-precio-ficha-tecnica-oficial.webp",
-        "alt": "Ferrari 296 Speciale A, vista lateral con el techo bajado",
-        "ancho": 1920,
-        "alto": 1280
+        "alt": "Ferrari 296 Speciale A, vista frontal con el techo bajado (foto: sportscardigest.com)",
+        "ancho": 1280,
+        "alto": 720
       },
       {
         "src": "/media/ferrari-296-speciale-a-2026-precio-ficha-tecnica-interior.webp",
-        "alt": "Interior de carreras del Ferrari 296 Speciale A descapotable",
-        "ancho": 1920,
-        "alto": 1280
+        "alt": "Interior del Ferrari 296 Speciale A con asientos de carbono (foto: Ferrari Los Angeles, concesionario oficial)",
+        "ancho": 828,
+        "alto": 551
       }
     ]
   },
@@ -1151,7 +1171,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
     marca: "Ferrari",
     modelo: "F80",
     tipo: "Híbrido",
-    categoria: "Deportivo",
+    categoria: "Hiperdeportivo",
     precioDesde: 3600000,
     potenciaCv: 1200,
     autonomiaKm: null,
@@ -1160,20 +1180,20 @@ export const COCHES_FERRARI: CocheComparador[] = [
     velocidadMax: 350,
     bateriaKwh: 2.3,
     cargaRapidaKw: null,
-    etiquetaDgt: "ECO",
+    etiquetaDgt: null,
     pros: [
-      "1.200 CV: el Ferrari más potente de la historia, punto",
-      "0-100 en 2,15 s y 350 km/h: cifras de Fórmula 1 con matrícula",
-      "Tecnología derivada de Le Mans: V6 biturbo + 3 motores eléctricos",
-      "1.050 kg de carga aerodinámica: se pega al asfalto como un prototipo",
-      "799 unidades a 3,6 millones: el sucesor del LaFerrari ya es leyenda",
+      "1.200 CV (900 del V6 biturbo + 300 eléctricos): el Ferrari de serie más potente de la historia",
+      "0-100 en 2,15 s y 0-200 en 5,75 s: cifras de Fórmula 1 con matrícula",
+      "V6 de 3,0 litros derivado del 499P ganador de Le Mans, con turbos eléctricos",
+      "1.050 kg de carga aerodinámica a 250 km/h y aerodinámica activa",
+      "799 unidades, todas asignadas a clientes Ferrari: ya es pieza de colección",
     ],
     contras: [
-      "3.600.000 €: el Ferrari de serie más caro jamás vendido",
-      "Sin V12: el corazón es un V6, por muy derivado de competición que sea",
-      "799 unidades agotadas al instante: solo clientes top de Ferrari",
-      "Batería de 2,3 kWh: el modo eléctrico es anecdótico",
-      "Mantenimiento de hiperdeportivo: cada servicio cuesta una fortuna",
+      "3.600.000 € en Italia antes de impuestos y opcionales",
+      "Sin V12: el corazón es un V6, polémica entre los puristas",
+      "799 unidades agotadas al instante: no se puede comprar nuevo",
+      "Batería de 2,3 kWh sin enchufe: la hibridación solo sirve para rendir, no para ahorrar",
+      "Sin prueba EuroNCAP: los hiperdeportivos de producción limitada no se prueban",
     ],
     largoMm: 4840,
     anchoMm: 2060,
@@ -1188,6 +1208,26 @@ export const COCHES_FERRARI: CocheComparador[] = [
     aprox: [],
     imagen: "/media/ferrari-f80-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no son probados por Euro NCAP",
+    },
+    planMantenimiento: {
+      intervalo: "Mantenimiento programado anual o cada 20.000 km (lo que ocurra antes), incluido durante 7 años",
+      revisiones: [
+        {
+          nombre: "Ferrari Genuine Maintenance (7 años)",
+          queSeCambia: "Todo el mantenimiento programado incluido en el precio del coche durante los primeros 7 años",
+          costeAproxEur: 0,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa oficial Ferrari Genuine Maintenance (7 años incluidos en todos los Ferrari nuevos)",
+    },
+    fuenteNombre: "batmangarage.com (datos de la presentación oficial Ferrari)",
+    fuenteUrl: "https://www.batmangarage.com/news/ferrari-f80-hypercar-2026.html",
     costeMensual: {
       "costeEnergia100km": 22.2,
       "seguroTercerosAnual": 6000,
@@ -1196,27 +1236,27 @@ export const COCHES_FERRARI: CocheComparador[] = [
       "costeMensualTotal": 2222,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "cifras orientativas para 1.000 km/mes; consumo estimado ~12 l/100 km; hiperdeportivo de 3,6 millones de euros y 799 unidades",
+      "notas": "cifras orientativas para 1.000 km/mes; consumo estimado ~12 l/100 km; hiperdeportivo de 3,6 millones de euros y 799 unidades; mantenimiento programado cubierto 7 años por Ferrari",
       "estimado": true
     },
     galeria: [
       {
         "src": "/media/ferrari-f80-2026-precio-ficha-tecnica-hero.webp",
-        "alt": "Ferrari F80 negro mate en túnel de viento con luz dramática",
-        "ancho": 1920,
-        "alto": 1280
+        "alt": "Ferrari F80 rojo, vista trasera cenital con el alerón activo (foto: cars4starters.com.au)",
+        "ancho": 1155,
+        "alto": 770
       },
       {
         "src": "/media/ferrari-f80-2026-precio-ficha-tecnica-oficial.webp",
-        "alt": "Ferrari F80, vista lateral del hiperdeportivo híbrido",
-        "ancho": 2096,
-        "alto": 1184
+        "alt": "Ferrari F80, vista lateral del hiperdeportivo híbrido (foto: carandclassic.com)",
+        "ancho": 1280,
+        "alto": 720
       },
       {
         "src": "/media/ferrari-f80-2026-precio-ficha-tecnica-interior.webp",
-        "alt": "Interior monoplaza del Ferrari F80 con volante de competición",
-        "ancho": 1920,
-        "alto": 1280
+        "alt": "Interior del Ferrari F80 con volante de competición (foto: luxe.net)",
+        "ancho": 1200,
+        "alto": 900
       }
     ]
   },

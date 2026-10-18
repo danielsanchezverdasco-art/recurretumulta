@@ -1099,7 +1099,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     marca: "Beta",
     modelo: "RR X-Pro 300",
     version: "2T 2026",
-    cilindradaCc: 300,
+    cilindradaCc: 292.6,
     categoria: "Enduro",
     precioDesde: 9670,
     potenciaKw: null,
@@ -1139,13 +1139,13 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     ],
     imagen: "/media/motos/beta-rr-x-pro-300-2t-2026-ficha-tecnica-precio-1.webp",
     galeria: [
-      { src: "/media/motos/beta-rr-x-pro-300-2t-2026-ficha-tecnica-precio-2.webp", alt: "Motor 2T de la Beta RR X-Pro 300 2026", ancho: 1200, alto: 800 },
-      { src: "/media/motos/beta-rr-x-pro-300-2t-2026-ficha-tecnica-precio-3.webp", alt: "Beta RR X-Pro 300 2026 en una zona de hard enduro", ancho: 1200, alto: 800 }
+      { src: "/media/motos/beta-rr-x-pro-300-2t-2026-ficha-tecnica-precio-2.webp", alt: "Beta RR X-Pro 300 2T 2026, perfil lateral en estudio (foto betatrueba.com)", ancho: 800, alto: 490 },
+      { src: "/media/motos/beta-rr-x-pro-300-2t-2026-ficha-tecnica-precio-3.webp", alt: "Beta RR X-Pro 300 2T 2026, foto oficial de prensa Beta", ancho: 1200, alto: 775 }
     ],
     videoId: "yGcWmkaGar0",
     videoCanal: "MOTO-CAR TV",
-    fuenteNombre: "Betamotor España",
-    fuenteUrl: null,
+    fuenteNombre: "Betamotor",
+    fuenteUrl: "https://www.betamotor.com/en/moto/rr-x-pro-2t-300/",
     analisisSlug: "beta-rr-x-pro-300-2t-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
       aceiteTipo: "SAE 10W-40 para el embrague (manual oficial)",

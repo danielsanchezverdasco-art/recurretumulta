@@ -192,6 +192,7 @@ export interface CocheComparador {
   traccion: string | null;           // "Delantera" | "Trasera" | "Total"
   emisionesCo2: number | null;       // g/km WLTP
   aprox: string[];                   // campos con cifra aproximada (se muestran con ≈)
+  cicloAutonomia?: string | null;    // ciclo de homologación de la autonomía: "CLTC" | "WLTP" | "NEDC" (China-first)
   pros: string[];               // de la tabla de pros del artículo (textos cortos)
   contras: string[];            // de la tabla de contras (textos cortos)
   imagen: string;               // "/media/<slug>-hero.webp" (IA, artículo)

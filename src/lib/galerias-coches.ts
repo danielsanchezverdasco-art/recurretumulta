@@ -1560,7 +1560,7 @@ export const GALERIAS_COCHES: Record<string, FotoCarrusel[]> = {
   "omoda-4-2026-precio-ficha-tecnica": [
     { src: "/media/omoda-4-2026-precio-ficha-tecnica-oficial.webp", alt: "Omoda 4, SUV compacto de diseño cyber-mecha en vista de estudio", credito: "Imagen ilustrativa generada por IA" },
     { src: "/media/omoda-4-2026-precio-ficha-tecnica-hero.webp", alt: "Omoda 4 en entorno urbano nocturno", credito: "Imagen ilustrativa generada por IA" },
-    { src: "/media/omoda-4-2026-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior del Omoda 4 con doble pantalla", credito: "Imagen ilustrativa generada por IA" }
+    { src: "/media/omoda-4-2026-precio-ficha-tecnica-interior.webp", alt: "Interior del Omoda 4 con pantalla vertical y volante con logo Omoda", credito: "electricvehicleweb.com" }
   ],
   "omoda-s5-2026-precio-ficha-tecnica": [
     { src: "/media/omoda-s5-2026-precio-ficha-tecnica-oficial.webp", alt: "Omoda S5, berlina deportiva en vista de estudio", credito: "Imagen ilustrativa generada por IA" },
