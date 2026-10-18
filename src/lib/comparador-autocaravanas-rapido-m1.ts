@@ -1,9 +1,12 @@
 // Autocaravanas Rapido — lote Merlín 1 (18/10/2026).
 // Datos verificados: rapido-camping-car.fr (web oficial del fabricante: confirma para el
 // V55 la pertenencia a la serie especial OPTIMUM LINE y el sistema patentado
-// MODUL'SPACE®; Rapido NO publica fichas técnicas detalladas por modelo ni precios en
-// su web pública). Los datos técnicos proceden de fichas de la red de concesionarios
-// franceses de unidades 2026 (datos coincidentes), claramente identificados como tales.
+// MODUL'SPACE®); para el 606F: ficha oficial del modelo + guide technique de la colección
+// 2026 (perfilada Serie 6F, 6,69 m, PTAC 3,5/3,65 T, carga útil 520 kg, Peugeot Boxer 2,2
+// 140 CV, cama basculante eléctrica de techo, Truma Combi 4 diésel). Rapido NO publica
+// precios por modelo en su web pública (salvo franjas orientativas genéricas por tipo).
+// Los datos técnicos del V55 proceden de fichas de la red de concesionarios franceses de
+// unidades 2026 (datos coincidentes), claramente identificados como tales.
 // Precio "desde" no publicado por el fabricante en ningún mercado → null (no inventar).
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
 import type { CocheComparador } from "./comparador-coches-data.ts";
@@ -115,5 +118,113 @@ export const AUTOCARAVANAS_RAPIDO_M1: CocheComparador[] = [
       "Rapido (web oficial: OPTIMUM LINE y MODUL'SPACE®) + red de concesionarios FR (datos técnicos de unidades 2026)",
     fuenteUrl:
       "https://www.rapido-camping-car.fr/inc/rapido_nouveautes_les-fourgons_camping-car-serie-vans.phtml",
+  },
+  {
+    id: "rapido-606f-2026-precio-ficha-tecnica",
+    marca: "Rapido",
+    modelo: "606F",
+    tipo: "Autocaravana perfilada",
+    categoria: "Autocaravana",
+    precioDesde: null, // Rapido no publica ningún precio por modelo; solo franjas orientativas genéricas por tipo
+    potenciaCv: 140,
+    autonomiaKm: null,
+    maleteroL: null,
+    ceroCien: null,
+    velocidadMax: null,
+    bateriaKwh: null,
+    cargaRapidaKw: null,
+    etiquetaDgt: "C",
+    garantiaBateriaAnos: null,
+    garantiaBateriaKm: null,
+    garantiaBateriaDegradacionPct: null,
+    imagen: "/media/rapido-606f-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial:
+      "/media/rapido-606f-2026-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial:
+      "/media/rapido-606f-2026-precio-ficha-tecnica-interior.webp",
+    videoId: null,
+    videoCanal: null,
+    largoMm: 6690,
+    anchoMm: 2350, // 2.760 mm con retrovisores abiertos
+    altoMm: 2900, // +45 mm con llantas de 16"
+    pesoKg: 2980, // masa en orden de marcha según el guide technique oficial 2026
+    mmaKg: 3500, // PTAC 3,65 T disponible; versión HEAVY de 4,25 T en opción (exige carnet C1)
+    carnetNecesario: "B",
+    cargaUtilKg: 520, // cifra oficial publicada por Rapido
+    consumo: null,
+    consumoUnidad: null,
+    plazas: 4,
+    parNm: null, // no publicado por el fabricante
+    traccion: "Delantera",
+    emisionesCo2: null,
+    aprox: [],
+    pros: [
+      "Cama de techo eléctrica de serie (150/130x195 cm, somier de láminas y colchón Bultex®): 4 camas en 6,69 m sin robar ni un metro a la zona de día, porque no hay cama fija trasera",
+      "Garaje transversal calefactado de 85x217x120 cm con acceso desde el interior y por ambos lados, más vestidor/dressing XXL en la trasera: dos bicis y el equipaje viajan sin tocar el salón",
+      "Calefacción Truma Combi 4 diésel con mando CP Plus de serie: tira del depósito de gasóleo, así que el frío no depende de las dos bombonas de propano",
+      "ADAS completo de serie en el portador: frenada de emergencia, mantenimiento de carril, detección de somnolencia, Traction+ con control de descenso y neumáticos all season 3PMSF",
+      "Salón cara a cara abierto sin estrado, con mesa de pie telescópico eléctrico y techo panorámico Skyview con descongelación: la zona de día de una compacta con sensación de integral",
+    ],
+    contras: [
+      "Sin cama fija: la segunda cama es la transformación del salón (115x208 cm), que hay que montar cada noche si viajan cuatro",
+      "Rapido no publica el precio del 606F: la franja orientativa genérica de su web para perfiladas nuevas (75.000–95.000 € TTC) no es el precio de este modelo",
+      "Carga útil de 520 kg con 2.980 kg en orden de marcha: con cuatro personas, 120 l de agua y el garaje lleno, el margen se agota rápido",
+      "PTAC variable según versión (3,5 o 3,65 T; HEAVY de 4,25 T opcional que ya exige el C1): hay que confirmar el de la unidad concreta antes de firmar",
+      "Discrepancia en la propia documentación oficial sobre el frigorífico (la ficha web dice compresión de 174 l, el guide technique 2026 dice absorción de 156 l): conviene confirmarlo con el concesionario",
+    ],
+    opiniones: [],
+    costeMensual: {
+      costeEnergia100km: 14.7,
+      precioKwh: 0.18,
+      precioGasolinaL: 1.6,
+      seguroTercerosAnual: 650,
+      seguroAmpliadoAnual: 1200,
+      mantenimientoAnual: 600,
+      costeMensualTotal: 425,
+      notas:
+        "Estimación con 12.000 km/año, consumo medio ~10,5 l/100 km de gasóleo y seguro a todo riesgo. Coste real muy dependiente del uso.",
+      estimado: true,
+    },
+    galeria: [
+      {
+        src: "/media/rapido-606f-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Rapido 606F, vista tres cuartos delantera",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/rapido-606f-2026-precio-ficha-tecnica-interior.webp",
+        alt: "Interior del Rapido 606F, salón cara a cara y cama de techo",
+        ancho: 1200,
+        alto: 800,
+      },
+    ],
+    analisisSlug: "rapido-606f-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo:
+        "Peugeot Boxer 2.2 (Francia; Fiat Ducato en exportación): revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan del fabricante del portador)",
+      revisiones: [
+        {
+          nombre: "Revisión del portador (2 años / 40.000 km)",
+          queSeCambia:
+            "Aceite + filtro de aceite + filtro de polen + inspección general",
+          costeAproxEur: 350,
+        },
+        {
+          nombre: "Revisión célula Rapido (anual recomendada)",
+          queSeCambia:
+            "Estanqueidad, gas, electricidad, humedades y prueba de calefacción",
+          costeAproxEur: 250,
+        },
+      ],
+      costeAnualAproxEur: 600,
+      fuente:
+        "Plan de mantenimiento Peugeot Boxer / Fiat Ducato + recomendaciones Rapido",
+    },
+    euroncap: null,
+    fuenteNombre:
+      "Rapido (ficha oficial del modelo + guide technique colección 2026)",
+    fuenteUrl:
+      "https://www.rapido-camping-car.fr/reisemobil_teilintegrierte_serie-6f_606f.chtml",
   },
 ];
