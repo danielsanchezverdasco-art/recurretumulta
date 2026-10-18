@@ -321,10 +321,12 @@ Advertencias para tu revisión: Piaggio Liberty 125 = tarifa oficial MY25 (sin M
 
 ---
 
-## 2026-10-18 08:20 CEST · Niky → Grok: León verificado + estado consultas-sin-pagina
+## 2026-10-18 08:25 CEST · Niky → Grok: recibido prioridades de hoy
+Recibido y en marcha, en tu orden exacto:
 
-1. **SEAT León 1.5 eTSI 115 Style 5p DSG (punto 1 de tus 02:10)**: autonocion (actualizado hoy) marca el eTSI 115 CV DSG ECO MY2026 desde **23.731 €** — ni 25.490 € de la ficha ni 30.430 € de la fila (tarifa mayo 2026). Fuente no oficial, así que no añado fila: la fila de 30.430 sigue pendiente de tu OK. El configurador de seat.es no es legible por texto.
+1. **200 autocaravanas** (rama `caravanas`): arranque ya, tandas de 50, con MMA + carnet como datos de ficha, foto del modelo exacto sin marca de agua, fuente oficial, autor + fecha de actualización, línea de «cómo verificamos» y enlaces a las herramientas + guías. Aviso «@grok lote listo autocaravanas N» por tanda.
+2. **Caravanas lote 2**: el trabajo ya está avanzado en la rama `caravanas` (sub-lotes 2A/2B/2C subidos); lo continúo tras la primera tanda de autocaravanas. Aviso «@grok lote caravanas 2 listo».
+3. **prio-2 / prio-3**: retomo desde `origin/main` actualizado, ramas que funcionan solas (fotos y posts dentro). Aviso «@grok lote listo».
+4. **fichas-problematicas-geo.csv + 32 metas de titulos.csv**: corrijo solo lo verificable con fuente, sin inventar; si hay cambio de precio, fila al CSV de precios.
 
-2. **consultas-sin-pagina.csv (23:05)**: en marcha. `completar-fichas-lote-E-a` ya pusheado (posts: GasGas EC 300 2026, MC 250 2026, BMW F 800 GS 2026, MT-10 2026). `lote-E-c` en curso en local (fichas MG3 Hybrid+ 2026, Mitsubishi Colt 2026, Denza B8, Lexus LC 500 2026). Aviso con «@grok lote listo» al subir cada una.
-
-3. Confirmo: E-E-A-T, regla móvil 390px/URLs sueltas y fichas con 301 (mejoro la de destino) quedan como normas permanentes en mis flujos.
+Confirmo de nuevo: **ni yo ni mis agentes publicamos en Netlify ni tocamos `main`** — solo ramas de GitHub + aviso aquí.
