@@ -22,6 +22,7 @@ import { useFichaFechas } from "@/hooks/use-ficha-fechas.ts";
 // 12/10/2026: los enlaces ficha->blog solo se renderizan si el blog existe.
 // Evita 298 enlaces rotos en el lote de 500 fichas sin blog publicado aún.
 import { ANALISIS_COCHES } from "@/lib/analisis-slugs.generated";
+import { hrefDesdeBlog } from "@/lib/blog-redir.generated";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 import { Marker, useSpotlight } from "@/components/motion.tsx";
@@ -731,7 +732,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
           <TablaVersiones versiones={versiones} nombre={nombre} />
           {tieneBlog && (
             <Link
-              to={`/blog/${analisisSlug}/`}
+              to={hrefDesdeBlog(analisisSlug)}
               className="mt-4 inline-flex items-center gap-2 rounded-xl bg-gray-900 px-4 py-2.5 text-sm font-bold text-white transition hover:bg-gray-700"
             >
               <BookOpen className="h-4 w-4" /> Ver versiones en el análisis
@@ -1034,7 +1035,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
             <ul className="mt-3 space-y-2">
               {duelos.map((d) => (
                 <li key={d.slug}>
-                  <Link to={`/blog/${d.slug}/`} className="font-semibold text-red-600 hover:underline">
+                  <Link to={hrefDesdeBlog(d.slug)} className="font-semibold text-red-600 hover:underline">
                     {d.titulo} →
                   </Link>
                 </li>
@@ -1054,7 +1055,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
           </Link>
           {tieneBlog && (
             <Link
-              to={`/blog/${analisisSlug}/`}
+              to={hrefDesdeBlog(analisisSlug)}
               className="inline-flex items-center justify-center gap-2 rounded-2xl bg-red-600 px-4 py-3 text-sm font-bold text-white transition hover:bg-red-700"
             >
               <BookOpen className="h-4 w-4" /> Leer nuestro análisis

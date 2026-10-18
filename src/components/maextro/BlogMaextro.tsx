@@ -24,6 +24,7 @@ import {
   tituloBlogMaextro,
   truncar60,
 } from "./tipos.ts";
+import { hrefDesdeBlog } from "@/lib/blog-redir.generated";
 import {
   AcordeonFaq,
   CtaAnalizador,
@@ -35,7 +36,7 @@ export function BlogMaextro({ data }: { data: MaextroBlogData }) {
   const d = data;
   // Title SIEMPRE según la plantilla V800 (mandato): "[Modelo]: [dato impactante] por [precio]", ≤60, sin marca.
   const title = truncar60(tituloBlogMaextro(d.nombreCompleto, d.datoImpactante, d.precioTitle));
-  const canonical = `/blog/${d.slug}/`;
+  const canonical = hrefDesdeBlog(d.slug);
 
   useSeo({
     title,

@@ -2,6 +2,7 @@ import { lazy, Suspense, useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import CreditoFoto from "@/components/CreditoFoto.tsx";
 import { ANALISIS_PATINETES } from "@/lib/analisis-slugs.generated";
+import { hrefDesdeBlog } from "@/lib/blog-redir.generated";
 import {
   ArrowLeftRight,
   BatteryCharging,
@@ -680,7 +681,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
           {/* 13/10/2026: análisis del blog del mismo modelo, solo si el post existe */}
           {extra.b === 1 && (
             <Link
-              to={`/blog/${analisisSlug}/`}
+              to={hrefDesdeBlog(analisisSlug)}
               className="inline-flex items-center justify-center gap-2 rounded-2xl border border-gray-300 bg-white px-4 py-3 text-sm font-bold text-gray-900 transition hover:bg-gray-50"
             >
               <BookOpen className="h-4 w-4" /> Ver análisis

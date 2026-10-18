@@ -25,6 +25,7 @@ import {
   tituloFichaMaextro,
   truncar60,
 } from "./tipos.ts";
+import { hrefDesdeBlog } from "@/lib/blog-redir.generated";
 import {
   AcordeonFaq,
   AnilloNota,
@@ -295,7 +296,7 @@ export function FichaMaextro({ data }: { data: MaextroFichaData }) {
         <div className="rtm-card mt-8 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6">
           <h2 className="text-xl font-extrabold text-gray-900">Análisis completo en el blog</h2>
           <a
-            href={`/blog/${d.blogSlug}/`}
+            href={hrefDesdeBlog(d.blogSlug)}
             className="mt-3 inline-block rounded-full bg-red-700 px-6 py-3 text-sm font-extrabold text-white shadow-lg transition-transform hover:scale-105"
           >
             Leer el análisis del {d.nombreCompleto}

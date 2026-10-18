@@ -50,7 +50,7 @@ La gama arranca en unos **157.900 yuanes (~21.000 €)** para la versión de 55,
 
 El LiDAR (Light Detection and Ranging) emite pulsos láser y mide su rebote para crear un mapa 3D del entorno con precisión centimétrica. El P5 monta **dos unidades de Valeo** en el frontal que alimentan el sistema Xpilot 3.5, capaz de cambiar de carril, adelantar y aparcar solo. El problema: fuera de China, sin los mapas de alta definición locales, el sistema funciona en modo degradado.
 
-En el <a href=/comparador-coches/>comparador</a> puedes enfrentarlo al <a href=/blog/byd-seal-2024-precio-ficha-tecnica/>BYD Seal</a> o al Tesla Model 3, sus rivales naturales por tamaño.
+En el <a href=/comparador-coches/>comparador</a> puedes enfrentarlo al <a href=/coches/byd-seal-2024-precio-ficha-tecnica/>BYD Seal</a> o al Tesla Model 3, sus rivales naturales por tamaño.
 
 <img src=/media/xpeng-p5-2025-precio-ficha-tecnica-interior.webp alt=\"XPeng P5 2024 Edition en un concesionario, vista frontal\">
 
@@ -64,7 +64,7 @@ En el <a href=/comparador-coches/>comparador</a> puedes enfrentarlo al <a href=/
 
 ## ¿Merece la pena importarlo?
 
-Importar un P5 a España es posible pero caro: aranceles, homologación individual y la ausencia de red oficial lo convierten en un proyecto solo para entusiastas. Por el mismo esfuerzo, el <a href=/blog/byd-seal-2024-precio-ficha-tecnica/>BYD Seal</a> sí se vende aquí con garantía europea. El P5 queda como referencia de lo que China ofrece por 21.000 €.
+Importar un P5 a España es posible pero caro: aranceles, homologación individual y la ausencia de red oficial lo convierten en un proyecto solo para entusiastas. Por el mismo esfuerzo, el <a href=/coches/byd-seal-2024-precio-ficha-tecnica/>BYD Seal</a> sí se vende aquí con garantía europea. El P5 queda como referencia de lo que China ofrece por 21.000 €.
 
 ## Preguntas frecuentes
 
@@ -131,7 +131,7 @@ Con un 0-100 km/h en **8,3 segundos**, un maletero de **574 litros** y la bater�
 
 ## Precio del Song Plus DM-i
 
-En China la gama arranca en unos 135.800 yuanes (~20.000 €) y las versiones altas rondan los 175.800 yuanes (~26.000 €). En México, donde sí se vende oficialmente, parte de unos 778.800 pesos. A España aún no ha llegado, pero BYD ya vende aquí el <a href=/blog/byd-seal-u-ev-2025-precio-ficha-tecnica/>Seal U DM-i</a>, su primo europeo.
+En China la gama arranca en unos 135.800 yuanes (~20.000 €) y las versiones altas rondan los 175.800 yuanes (~26.000 €). En México, donde sí se vende oficialmente, parte de unos 778.800 pesos. A España aún no ha llegado, pero BYD ya vende aquí el <a href=/coches/byd-seal-u-ev-2025-precio-ficha-tecnica/>Seal U DM-i</a>, su primo europeo.
 
 <img src=/media/byd-song-plus-dm-i-2025-precio-ficha-tecnica-oficial.webp alt=\"BYD Song Plus DM-i negro, vista lateral\">
 
@@ -228,7 +228,7 @@ La gama china arranca en 79.800 yuanes (~11.000 €) y la versión tope con 120 
 
 El Qin Plus DM-i vende cientos de miles de unidades al año porque ataca el corazón del mercado: familias que quieren un coche grande, eficiente y barato. El truco está en el sistema DM-i, que en ciudad funciona como un eléctrico y en carretera como un híbrido de consumo mínimo. El resultado: repostar una vez al mes con uso urbano.
 
-Su rival conceptual en España sería el <a href=/blog/byd-seal-6-dm-i-2025-precio-ficha-tecnica/>BYD Seal 6 DM-i</a>, la berlina híbrida que BYD sí trae a Europa. <a href=/comparador-coches/>Compáralos aquí</a>.
+Su rival conceptual en España sería el <a href=/coches/byd-seal-6-dm-i-2025-precio-ficha-tecnica/>BYD Seal 6 DM-i</a>, la berlina híbrida que BYD sí trae a Europa. <a href=/comparador-coches/>Compáralos aquí</a>.
 
 <img src=/media/byd-qin-plus-dm-i-2025-precio-ficha-tecnica-interior.webp alt=\"Interior del BYD Qin Plus DM-i, volante con el carácter Qin\">
 
@@ -477,7 +477,7 @@ Con un 0-100 km/h en **7,6 segundos**, 180 km/h de velocidad máxima y un malete
 
 ## Precio del Electra E5
 
-En China la gama arranca en 169.900 yuanes (~28.000 €) para la versión de 68,4 kWh y 545 km, y la de 79,7 kWh con 620 km ronda los 189.900 yuanes (~31.000 €). En EE. UU. no se vende: allí su equivalente es el Chevrolet Equinox EV, que también cubrimos en <a href=/blog/chevrolet-equinox-ev-2025-precio-ficha-tecnica/>este artículo</a>.
+En China la gama arranca en 169.900 yuanes (~28.000 €) para la versión de 68,4 kWh y 545 km, y la de 79,7 kWh con 620 km ronda los 189.900 yuanes (~31.000 €). En EE. UU. no se vende: allí su equivalente es el Chevrolet Equinox EV, que también cubrimos en <a href=/coches/chevrolet-equinox-ev-2025-precio-ficha-tecnica/>este artículo</a>.
 
 <img src=/media/buick-electra-e5-2025-precio-ficha-tecnica-oficial.webp alt=\"Buick Electra E5, trasera con la inscripción Electra E5\">
 
@@ -485,7 +485,7 @@ En China la gama arranca en 169.900 yuanes (~28.000 €) para la versión de 68,
 
 Ultium es la arquitectura eléctrica modular de GM: baterías con celdas de gran formato, motores intercambiables y una electrónica común. Permite a GM fabricar desde el Equinox EV hasta el Hummer EV con los mismos componentes básicos, abaratando costes. El Electra E5 es la aplicación china de esa plataforma, adaptada a los gustos locales con más espacio trasero.
 
-En el <a href=/comparador-coches/>comparador</a> puedes enfrentarlo al <a href=/blog/chevrolet-equinox-ev-2025-precio-ficha-tecnica/>Equinox EV</a> o al <a href=/blog/cadillac-optiq-2025-precio-ficha-tecnica/>Cadillac Optiq</a>, sus hermanos de plataforma.
+En el <a href=/comparador-coches/>comparador</a> puedes enfrentarlo al <a href=/coches/chevrolet-equinox-ev-2025-precio-ficha-tecnica/>Equinox EV</a> o al <a href=/coches/cadillac-optiq-2025-precio-ficha-tecnica/>Cadillac Optiq</a>, sus hermanos de plataforma.
 
 <img src=/media/buick-electra-e5-2025-precio-ficha-tecnica-interior.webp alt=\"Buick Electra E5, vista lateral del SUV eléctrico\">
 
@@ -567,7 +567,7 @@ En EE. UU. la gama arranca en 33.600 $ (~31.000 €) para el LT de tracción del
 
 ## Ultium también aquí
 
-Como el <a href=/blog/buick-electra-e5-2025-precio-ficha-tecnica/>Buick Electra E5</a>, el Equinox EV usa la plataforma Ultium de GM. La diferencia está en el ajuste: el Chevrolet es más familiar y asequible, con suspensiones orientadas al confort americano. La versión AWD añade un segundo motor delantero para los 300 CV.
+Como el <a href=/coches/buick-electra-e5-2025-precio-ficha-tecnica/>Buick Electra E5</a>, el Equinox EV usa la plataforma Ultium de GM. La diferencia está en el ajuste: el Chevrolet es más familiar y asequible, con suspensiones orientadas al confort americano. La versión AWD añade un segundo motor delantero para los 300 CV.
 
 Sus rivales naturales serían el VW ID.4 o el Skoda Enyaq. <a href=/comparador-coches/>Enfréntalos en el comparador</a>.
 
@@ -654,7 +654,7 @@ En EE. UU. arranca en 54.390 $ (~50.000 €) y las versiones altas con más equi
 
 Super Cruise es el sistema de conducción manos libres de GM: en autopistas mapeadas (más de 600.000 km en Norteamérica), el coche mantiene el carril, adapta la velocidad y cambia de carril solo, mientras una cámara vigila que el conductor mire a la carretera. Es uno de los sistemas de nivel 2+ más avanzados del mercado.
 
-Su rival europeo más cercano sería el <a href=/blog/cadillac-vistiq-2026-precio-ficha-tecnica/>Cadillac Vistiq</a>... bueno, ese juega en otra liga. Más realista: el Audi Q4 e-tron. <a href=/comparador-coches/>Compáralos aquí</a>.
+Su rival europeo más cercano sería el <a href=/coches/cadillac-vistiq-2026-precio-ficha-tecnica/>Cadillac Vistiq</a>... bueno, ese juega en otra liga. Más realista: el Audi Q4 e-tron. <a href=/comparador-coches/>Compáralos aquí</a>.
 
 <img src=/media/cadillac-optiq-2025-precio-ficha-tecnica-interior.webp alt=\"Cadillac Optiq, vista lateral del SUV eléctrico\">
 
@@ -909,7 +909,7 @@ En EE. UU. la gama arranca en 66.995 $ (~62.000 €) para el Launch Edition y ba
 
 ## ¿Un Jeep sin off-road?
 
-El Wagoneer S es un SUV de asfalto: sin reductora, sin grandes ángulos y con neumáticos de carretera. Jeep reserva la aventura eléctrica para el <a href=/blog/jeep-recon-2026-precio-ficha-tecnica/>Recon</a>. El Wagoneer S es otra cosa: el Jeep para quien quiere prestaciones y lujo con la insignia de las 7 ranuras.
+El Wagoneer S es un SUV de asfalto: sin reductora, sin grandes ángulos y con neumáticos de carretera. Jeep reserva la aventura eléctrica para el <a href=/coches/jeep-recon-2026-precio-ficha-tecnica/>Recon</a>. El Wagoneer S es otra cosa: el Jeep para quien quiere prestaciones y lujo con la insignia de las 7 ranuras.
 
 Su rival directo es el Tesla Model Y Performance. <a href=/comparador-coches/>Enfréntalos en el comparador</a>.
 
@@ -995,7 +995,7 @@ Jeep aún no ha publicado el precio oficial, pero las estimaciones lo sitúan de
 
 El Recon usa dos motores (uno por eje) con una reductora eléctrica que multiplica el par a baja velocidad, como una reductora mecánica. El par instantáneo del eléctrico es ideal para el trial: control milimétrico sin embrague ni convertidor. El reto es la autonomía: en trialeras el consumo se dispara y no hay cargadores en la montaña.
 
-Su rival es el Rivian R1S y, en espíritu, el <a href=/blog/jeep-wagoneer-s-2025-precio-ficha-tecnica/>Wagoneer S</a>... aunque ese es de asfalto. <a href=/comparador-coches/>Compáralos aquí</a>.
+Su rival es el Rivian R1S y, en espíritu, el <a href=/coches/jeep-wagoneer-s-2025-precio-ficha-tecnica/>Wagoneer S</a>... aunque ese es de asfalto. <a href=/comparador-coches/>Compáralos aquí</a>.
 
 <img src=/media/jeep-recon-2026-precio-ficha-tecnica-interior.webp alt=\"Jeep Recon naranja, render oficial de jeep.com\">
 
@@ -1157,7 +1157,7 @@ Venucia es la marca asequible de la joint venture entre Dongfeng y Nissan, y el 
 
 ## Precio del D60 EV
 
-En China la gama se mueve entre 129.800 y 159.800 yuanes (~17.000-21.000 €). Es uno de los eléctricos con mejor relación tamaño/precio del mercado chino, rival del <a href=/blog/byd-qin-plus-dm-i-2025-precio-ficha-tecnica/>BYD Qin Plus</a> en su versión EV.
+En China la gama se mueve entre 129.800 y 159.800 yuanes (~17.000-21.000 €). Es uno de los eléctricos con mejor relación tamaño/precio del mercado chino, rival del <a href=/coches/byd-qin-plus-dm-i-2025-precio-ficha-tecnica/>BYD Qin Plus</a> en su versión EV.
 
 <img src=/media/venucia-d60-ev-2025-precio-ficha-tecnica-oficial.webp alt=\"Venucia D60 EV blanco, vista lateral en estudio\">
 
@@ -1334,7 +1334,7 @@ En China la gama se mueve entre 79.900 y 109.900 yuanes (~10.500-14.500 €). La
 
 Aeolus (Yixuan en chino, 奕炫) es la submarca juvenil y deportiva de Dongfeng, uno de los cuatro grandes grupos estatales chinos. El Yixuan compite en el campeonato chino de turismos (CTCC), donde ha ganado carreras contra rivales mucho más caros.
 
-Su rival conceptual sería el <a href=/blog/geely-binrui-cool-2025-precio-ficha-tecnica/>Geely Binrui Cool</a>, otra berlina china de 181 CV. <a href=/comparador-coches/>Enfréntalos en el comparador</a>.
+Su rival conceptual sería el <a href=/coches/geely-binrui-cool-2025-precio-ficha-tecnica/>Geely Binrui Cool</a>, otra berlina china de 181 CV. <a href=/comparador-coches/>Enfréntalos en el comparador</a>.
 
 <img src=/media/dongfeng-aeolus-yixuan-2025-precio-ficha-tecnica-interior.webp alt=\"Dongfeng Aeolus Yixuan rojo, vista frontal\">
 
@@ -1589,7 +1589,7 @@ En China la gama Binrui se mueve entre 79.800 y 109.800 yuanes (~10.500-14.500 �
 
 La cifra que lo define: ningún coche nuevo en Europa baja de 8 segundos en el 0-100 por menos de 25.000 €. El Binrui Cool lo hace por menos de la mitad, con un 1.5T que es una evolución del motor de origen Volvo que Geely usa en varios modelos.
 
-Su rival natural es el <a href=/blog/dongfeng-aeolus-yixuan-2025-precio-ficha-tecnica/>Dongfeng Aeolus Yixuan</a>, otra berlina china deportiva. <a href=/comparador-coches/>Enfréntalos en el comparador</a>.
+Su rival natural es el <a href=/coches/dongfeng-aeolus-yixuan-2025-precio-ficha-tecnica/>Dongfeng Aeolus Yixuan</a>, otra berlina china deportiva. <a href=/comparador-coches/>Enfréntalos en el comparador</a>.
 
 <img src=/media/geely-binrui-cool-2025-precio-ficha-tecnica-interior.webp alt=\"Geely Binrui Cool en un evento de presentación\">
 
@@ -1675,7 +1675,7 @@ En China la versión de gasolina parte de 78.900 yuanes (~10.000 €) y la eléc
 
 Wuling (parte de SAIC-GM-Wuling) es la marca que motorizó la China rural: furgonetas y monovolúmenes baratos e indestructibles. El Hongguang Mini EV, su microcoche eléctrico, fue el eléctrico más vendido del mundo en 2021.
 
-Su rival conceptual es el <a href=/blog/buick-gl8-2025-precio-ficha-tecnica/>Buick GL8</a>, aunque juegan en ligas distintas. <a href=/comparador-coches/>Compáralos aquí</a>.
+Su rival conceptual es el <a href=/coches/buick-gl8-2025-precio-ficha-tecnica/>Buick GL8</a>, aunque juegan en ligas distintas. <a href=/comparador-coches/>Compáralos aquí</a>.
 
 <img src=/media/wuling-journey-2025-precio-ficha-tecnica-interior.webp alt=\"Wuling Journey blanco aparcado en una plaza\">
 
@@ -1760,7 +1760,7 @@ En China se mueve entre 65.700 y 84.700 yuanes (~8.700-11.000 €). Es uno de lo
 
 El Nano Box nació como Dongfeng EX1, la versión china del Renault Kwid eléctrico (Dacia Spring en Europa). Comparten la plataforma CMF-A EV de la alianza Renault-Nissan-Mitsubishi. La diferencia: el Nano Box tiene más batería y más autonomía que el Spring europeo.
 
-Su rival es el <a href=/blog/renault-kwid-e-tech-2025-precio-ficha-tecnica/>Renault Kwid E-Tech</a> latinoamericano. <a href=/comparador-coches/>Enfréntalos en el comparador</a>.
+Su rival es el <a href=/coches/renault-kwid-e-tech-2025-precio-ficha-tecnica/>Renault Kwid E-Tech</a> latinoamericano. <a href=/comparador-coches/>Enfréntalos en el comparador</a>.
 
 <img src=/media/dongfeng-nano-box-2025-precio-ficha-tecnica-interior.webp alt=\"Dongfeng Nano Box negro, trasera con la insignia EX1\">
 
@@ -1843,7 +1843,7 @@ En Brasil parte de 99.990 reales (~17.000 €) y en Colombia ronda los 85 millon
 
 ## El Spring latinoamericano
 
-El Kwid E-Tech es el Dacia Spring con insignia Renault y adaptaciones para Latinoamérica: suspensiones reforzadas, más altura libre y equipamiento local. La base es la misma plataforma CMF-A EV que el <a href=/blog/dongfeng-nano-box-2025-precio-ficha-tecnica/>Dongfeng Nano Box</a> chino.
+El Kwid E-Tech es el Dacia Spring con insignia Renault y adaptaciones para Latinoamérica: suspensiones reforzadas, más altura libre y equipamiento local. La base es la misma plataforma CMF-A EV que el <a href=/coches/dongfeng-nano-box-2025-precio-ficha-tecnica/>Dongfeng Nano Box</a> chino.
 
 Su rival europeo sería el propio Dacia Spring. <a href=/comparador-coches/>Compáralos aquí</a>.
 
@@ -1931,7 +1931,7 @@ En China se mueve entre 69.800 y 84.800 yuanes (~9.200-11.000 €). Es uno de lo
 
 Changan es uno de los "cuatro grandes" grupos estatales chinos, con joint ventures con Ford y Mazda. El Benben es su utilitario histórico; la versión E-Star lo electrificó con una fórmula sencilla: batería LFP barata y duradera, motor suficiente y precio rompedor.
 
-Su rival es el <a href=/blog/dongfeng-nano-box-2025-precio-ficha-tecnica/>Dongfeng Nano Box</a>. <a href=/comparador-coches/>Enfréntalos en el comparador</a>.
+Su rival es el <a href=/coches/dongfeng-nano-box-2025-precio-ficha-tecnica/>Dongfeng Nano Box</a>. <a href=/comparador-coches/>Enfréntalos en el comparador</a>.
 
 <img src=/media/changan-benben-e-star-2025-precio-ficha-tecnica-interior.webp alt=\"Changan Benben E-Star, vista frontal\">
 
@@ -2015,7 +2015,7 @@ El Clever se vendió entre 59.900 y 79.900 yuanes (~8.000-10.500 €). SAIC lo d
 
 ## Roewe, la marca histórica de SAIC
 
-Roewe nació en 2006 con la tecnología de la británica Rover (de ahí el nombre parecido). El Clever fue su apuesta por la micromovilidad eléctrica, rival del <a href=/blog/chery-qq-ice-cream-2025-precio-ficha-tecnica/>Chery QQ Ice Cream</a>. SAIC prefiere ahora vender esos coches como MG en Europa.
+Roewe nació en 2006 con la tecnología de la británica Rover (de ahí el nombre parecido). El Clever fue su apuesta por la micromovilidad eléctrica, rival del <a href=/coches/chery-qq-ice-cream-2025-precio-ficha-tecnica/>Chery QQ Ice Cream</a>. SAIC prefiere ahora vender esos coches como MG en Europa.
 
 Su rival espiritual es el Smart EQ fortwo. <a href=/comparador-coches/>Compáralos aquí</a>.
 

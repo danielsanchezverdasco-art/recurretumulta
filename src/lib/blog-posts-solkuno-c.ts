@@ -151,7 +151,7 @@ Puedes <a href=/coches/deepal-s09-2026-precio-ficha-tecnica/>ver la ficha técni
 
 ## Rivales
 
-En China pelea con el <a href=/coches/li-auto-l9-2026-precio-ficha-tecnica/>Li Auto L9</a> y el <a href=/coches/aito-m9-2025-precio-ficha-tecnica/>Aito M9</a>, sus enemigos naturales. En Europa, si llegara, el espejo sería el **Volvo EX90**: mismo planteamiento familiar de 6-7 plazas, pero el sueco cuesta más del doble. Su hermano pequeño, el <a href=/blog/deepal-s07-2025-precio-ficha-tecnica/>Deepal S07</a>, ya se vende en España.
+En China pelea con el <a href=/coches/li-auto-l9-2026-precio-ficha-tecnica/>Li Auto L9</a> y el <a href=/coches/aito-m9-2025-precio-ficha-tecnica/>Aito M9</a>, sus enemigos naturales. En Europa, si llegara, el espejo sería el **Volvo EX90**: mismo planteamiento familiar de 6-7 plazas, pero el sueco cuesta más del doble. Su hermano pequeño, el <a href=/coches/deepal-s07-2025-precio-ficha-tecnica/>Deepal S07</a>, ya se vende en España.
 
 En nuestro catálogo, los rivales más cercanos por precio son el <a href=/coches/dacia-bigster-hybrid-155-2025-precio-ficha-tecnica/>Dacia Bigster Hybrid 155</a> y el <a href=/coches/mitsubishi-grandis-hev-2025-precio-ficha-tecnica/>Mitsubishi Grandis HEV</a>, ambos en torno a los 29.400 €: mucho más baratos de comprar, pero sin los 220 km eléctricos ni el planteamiento premium del S09.
 
@@ -169,7 +169,7 @@ En nuestro catálogo, los rivales más cercanos por precio son el <a href=/coche
 ## Antes de decidir: lo que conviene vigilar
 
 - **Etiqueta DGT:** como EREV con hasta 220 km de autonomía eléctrica, aspiraría a etiqueta Cero; confírmalo en la <a href=/calculadora-etiqueta-dgt/>calculadora de etiqueta DGT</a> y revisa la <a href=/guias/zbe/>guía de ZBE</a>.
-- **Alternativa real hoy:** el <a href=/blog/deepal-s07-2025-precio-ficha-tecnica/>Deepal S07</a> ya se vende en España: más pequeño y barato, disponible ya.
+- **Alternativa real hoy:** el <a href=/coches/deepal-s07-2025-precio-ficha-tecnica/>Deepal S07</a> ya se vende en España: más pequeño y barato, disponible ya.
 - **¿Es la mejor compra por ese dinero?** Si llega, compáralo cara a cara en el <a href=/comparador-coches/>comparador de coches</a> y pásalo por la <a href=/mejor-coche-por-presupuesto/>herramienta de mejor coche por presupuesto</a>.
 
 ## Preguntas frecuentes
@@ -187,7 +187,7 @@ No. A 18/10/2026 no hay ninguna prueba EuroNCAP publicada del S09. Lleva 8 airba
 El motor 1.5T solo actúa como generador, así que también necesita aceite y filtros, además de la inspección del sistema eléctrico. Deepal no publica el intervalo fuera de China; consúltalo en el manual del modelo si llega a Europa.
 
 ### ¿A quién le conviene el Deepal S09?
-A familias numerosas que quieran 6 plazas con 220 km eléctricos para el día a día y más de 1.000 km de autonomía total para viajar sin planificar cargas. Si no necesitas tanto coche, el <a href=/blog/deepal-s07-2025-precio-ficha-tecnica/>Deepal S07</a> ya se vende en España.
+A familias numerosas que quieran 6 plazas con 220 km eléctricos para el día a día y más de 1.000 km de autonomía total para viajar sin planificar cargas. Si no necesitas tanto coche, el <a href=/coches/deepal-s07-2025-precio-ficha-tecnica/>Deepal S07</a> ya se vende en España.
 
 ### ¿Es eléctrico o híbrido?
 Es un EREV (eléctrico de autonomía extendida): el motor 1.5 de gasolina solo genera electricidad; las ruedas las mueven siempre motores eléctricos.
@@ -205,7 +205,7 @@ En China Deepal anuncia garantías extendidas para el sistema eléctrico y la ba
 Como EREV con hasta 220 km de autonomía eléctrica, aspiraría a la **etiqueta Cero**. Confírmalo para tu caso en la <a href=/calculadora-etiqueta-dgt/>calculadora de etiqueta DGT</a> y revisa la <a href=/guias/zbe/>guía de ZBE</a>.
 
 ### ¿El Deepal S07 que ya se vende en España es una buena alternativa?
-Sí: el <a href=/blog/deepal-s07-2025-precio-ficha-tecnica/>Deepal S07</a> ya se vende en España; es más pequeño y barato que el S09. Si necesitas el coche ya, es la opción real hoy; el S09 no tiene fecha de llegada.
+Sí: el <a href=/coches/deepal-s07-2025-precio-ficha-tecnica/>Deepal S07</a> ya se vende en España; es más pequeño y barato que el S09. Si necesitas el coche ya, es la opción real hoy; el S09 no tiene fecha de llegada.
 
 ## Fuentes
 
@@ -270,7 +270,7 @@ Dentro: asientos de "gravedad cero" climatizados, pantalla MiniLED 5K de 27,1 pu
 
 ## Rivales
 
-En Europa el LS9 apuntaría al **BMW X7**, al **Mercedes-Benz GLS** y al **Range Rover**: misma talla, seis plazas reales y tecnología que los alemanes aún venden como opcional. Entre los chinos, sus rivales naturales son el <a href=/blog/li-auto-l9-2026-precio-ficha-tecnica/>Li Auto L9</a> y el <a href=/blog/aito-m9-2025-precio-ficha-tecnica/>Aito M9 de Huawei</a>. <a href=/comparador-coches/>Compáralos aquí</a>.
+En Europa el LS9 apuntaría al **BMW X7**, al **Mercedes-Benz GLS** y al **Range Rover**: misma talla, seis plazas reales y tecnología que los alemanes aún venden como opcional. Entre los chinos, sus rivales naturales son el <a href=/coches/li-auto-l9-2026-precio-ficha-tecnica/>Li Auto L9</a> y el <a href=/coches/aito-m9-2025-precio-ficha-tecnica/>Aito M9 de Huawei</a>. <a href=/comparador-coches/>Compáralos aquí</a>.
 
 <img src=/media/im-ls9-2026-precio-ficha-tecnica-interior.webp alt="Interior del IM LS9 2026 con pantallas digitales">
 

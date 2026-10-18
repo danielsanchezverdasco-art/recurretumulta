@@ -76,7 +76,7 @@ La renovación no es solo baterías:
 
 ## ¿Merece la pena esperar al LFP?
 
-Si haces menos de 300 km del tirón, sí: 467 km WLTP por 39.900 € (o ~30.660 € con ayudas) es la compra racional, con la batería más duradera y la carga más rápida de la gama. Si viajas mucho, el 89 kWh con 642 km sigue siendo el rutero. Los detalles completos del modelo están en <a href=/coches/renault-scenic-e-tech-87-kwh-2025-precio-ficha-tecnica/>la ficha técnica del Scenic E-Tech</a>; y si dudas entre las versiones anteriores, aquí tienes <a href=/blog/renault-scenic-e-tech-60-kwh-2024-precio-autonomia/>el análisis del 60 kWh</a> y <a href=/blog/renault-scenic-e-tech-87-kwh-2025-precio-ficha-tecnica/>el del 87 kWh</a>.
+Si haces menos de 300 km del tirón, sí: 467 km WLTP por 39.900 € (o ~30.660 € con ayudas) es la compra racional, con la batería más duradera y la carga más rápida de la gama. Si viajas mucho, el 89 kWh con 642 km sigue siendo el rutero. Los detalles completos del modelo están en <a href=/coches/renault-scenic-e-tech-87-kwh-2025-precio-ficha-tecnica/>la ficha técnica del Scenic E-Tech</a>; y si dudas entre las versiones anteriores, aquí tienes <a href=/coches/renault-scenic-e-tech-60-kwh-2026-precio-ficha-tecnica/>el análisis del 60 kWh</a> y <a href=/coches/renault-scenic-e-tech-87-kwh-2025-precio-ficha-tecnica/>el del 87 kWh</a>.
 
 ## Pros y contras
 

@@ -123,7 +123,7 @@ function ContentRoutes() {
       <Route index element={<Index />} />
       <Route path="blog" element={<BlogPage />} />
       {/* Redirects de contenido fusionado/eliminado (auditoría 03/10/2026): van ANTES de blog/:slug */}
-      <Route path="blog/zeekr-9x-precio-espana-lanzamiento-octubre-2026" element={<Navigate to="/blog/zeekr-9x-2026-precio-ficha-tecnica/" replace />} />
+      <Route path="blog/zeekr-9x-precio-espana-lanzamiento-octubre-2026" element={<Navigate to="/coches/zeekr-9x-2026-precio-ficha-tecnica/" replace />} />
       <Route path="blog/:slug" element={<BlogPostPage />} />
       <Route path="multas" element={<MultasIndexPage />} />
       <Route path="multas/:provincia" element={<MultaProvinciaPage />} />

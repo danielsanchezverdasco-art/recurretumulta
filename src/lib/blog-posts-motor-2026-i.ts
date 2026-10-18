@@ -58,7 +58,7 @@ Y hay una noticia mejor para el bolsillo: **Zero baja los precios** de varios mo
 
 Son precios del Benelux; **el precio para España de la edición aniversario está sin confirmar** por la marca. La edición se venderá solo en concesionarios participantes hasta agotar las 20 unidades europeas.
 
-Si te interesa la SR/F de serie, tienes su <a href=/motos/zero-sr-f-2024-ficha-tecnica-precio/>ficha técnica completa en el comparador de motos</a> y el análisis de su hermana trail en <a href=/blog/zero-ds-2026-ficha-tecnica-precio/>Zero DS 2026: ficha y precio</a>. Y si buscas comparar eléctricas, entra al <a href=/comparador-motos/>comparador de motos eléctricas</a>.
+Si te interesa la SR/F de serie, tienes su <a href=/motos/zero-sr-f-2024-ficha-tecnica-precio/>ficha técnica completa en el comparador de motos</a> y el análisis de su hermana trail en <a href=/motos/zero-ds-2026-ficha-tecnica-precio/>Zero DS 2026: ficha y precio</a>. Y si buscas comparar eléctricas, entra al <a href=/comparador-motos/>comparador de motos eléctricas</a>.
 
 Vídeo oficial de la edición aniversario (canal oficial de Zero Motorcycles):
 
