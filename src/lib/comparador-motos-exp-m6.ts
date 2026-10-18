@@ -2673,7 +2673,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     marca: "Rieju",
     modelo: "MR Pro 300i",
     version: "2026",
-    cilindradaCc: 300,
+    cilindradaCc: 298,
     categoria: "Enduro",
     precioDesde: 10299,
     potenciaKw: null,
@@ -2683,12 +2683,12 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     bateriaKwh: null,
     velocidadMax: null,
     ceroCincuenta: null,
-    pesoKg: null,
+    pesoKg: 103.5,
     plazas: 1,
-    carnet: "A2",
+    carnet: "A",
     carga: null,
     etiquetaDgt: null,
-    aprox: [],
+    aprox: ["pesoKg"],
     pros: [
       "Inyección electrónica TFI en el 300 2T: fin del carburador",
       "La enduro española más avanzada de la historia de Rieju",
@@ -2706,20 +2706,22 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Sin etiqueta DGT"
     ],
     curiosidades: [
-      "La 'i' de 300i indica la inyección electrónica TFI",
+      "La 'i' de 300i indica la inyección electrónica TFI con 2 inyectores Bosch",
       "Es la primera 2T de inyección fabricada en España",
-      "Rieju desarrolló el sistema con su departamento de carreras",
-      "La gama MR es la heredera de las míticas Marathon de los 80"
+      "3 mapas de potencia: Race, Forest y Wet, seleccionables en marcha",
+      "La gama MR es la heredera de las míticas Marathon de los 80",
+      "Válvula de escape electrónica y eje de balance contrarrotante de serie",
+      "103,5 kg en seco: de las 300 2T más ligeras con inyección"
     ],
     imagen: "/media/motos/rieju-mr-pro-300i-2026-ficha-tecnica-precio-1.webp",
     galeria: [
-      { src: "/media/motos/rieju-mr-pro-300i-2026-ficha-tecnica-precio-2.webp", alt: "Inyección TFI de la Rieju MR Pro 300i 2026", ancho: 1200, alto: 800 },
-      { src: "/media/motos/rieju-mr-pro-300i-2026-ficha-tecnica-precio-3.webp", alt: "Rieju MR Pro 300i 2026 en una zona de enduro", ancho: 1200, alto: 800 }
+      { src: "/media/motos/rieju-mr-pro-300i-2026-ficha-tecnica-precio-2.webp", alt: "Rieju MR Pro 300i 2026, vista lateral de estudio", ancho: 1068, alto: 739 },
+      { src: "/media/motos/rieju-mr-pro-300i-2026-ficha-tecnica-precio-3.webp", alt: "Rieju MR Pro 300i 2026 en acción, hard enduro", ancho: 1200, alto: 800 }
     ],
     videoId: "a0fURbAYX1g",
     videoCanal: "Motorbike Magazine",
-    fuenteNombre: "Rieju",
-    fuenteUrl: null,
+    fuenteNombre: "Directomotor (ficha técnica Rieju)",
+    fuenteUrl: "https://directomotor.com/rieju-mr-pro-300i-2026/",
     analisisSlug: "rieju-mr-pro-300i-2026-ficha-tecnica-precio"
   },
   {
