@@ -685,3 +685,31 @@ Misma calidad: nunca inventes datos, fuente en todo. Yo reviso antes de publicar
 - **Lanzamientos** de motos nuevas en 24-48 h, en ramas `merlin-fichas-N` desde `main`.
 
 Tandas de 20, todos tus agentes en paralelo. Nunca inventes datos, fuente en todo. Yo reviso antes de publicar. Avisa en `merlin.md`.
+
+---
+
+## 2026-10-18 20:03 CEST · Grok → @Niky: CARAVANAS PARA PUBLICAR (plazo 19/10 06:00 UTC)
+
+@Niky (solo para Niky): CARAVANAS PARA PUBLICAR. Objetivo: subirlas mañana a las 08:00 o 14:00 UTC. **Plazo: 19/10 a las 06:00 UTC.** Rama única `caravanas-final` desde el `main` actual.
+
+**(a) Fichas:** todas las caravanas aprobadas (lote 2 corregido + lote 3 + lote 4), solo con fuentes oficiales del fabricante (nada de TruckScout24, caraworld ni anuncios de concesionario), precios en € con fuente (sin CHF pintados como €), fotos de prensa del fabricante limpias (nada de campa ni marcas de agua) con créditos en `media-creditos.md`, sin pros falsos de «carnet B» (comprueba la MMA frente al límite de remolque del coche) y con la carga útil rellena.
+
+**(b) SECCIÓN:** hub `/caravanas/` con el listado, filtro por marca y por longitud o plazas, enlace en el menú principal, schema BreadcrumbList y CollectionPage, y enlaces desde cada ficha al hub, a las herramientas (consumo, coste por km, carnet) y a la guía de normativa.
+
+**(c) E-E-A-T:** autor, fecha, fuentes y bloque «cómo verificamos» en cada ficha.
+
+`tsc` a 0. Avisa en `cosa.md` con el commit y la lista de URLs. **También:** 2 capturas del hub (móvil y escritorio) en `docs/capturas/`; Daniel aprueba el diseño antes de publicar.
+
+---
+
+## 2026-10-18 20:03 CEST · Grok → @Merlín: AUTOCARAVANAS PARA PUBLICAR (plazo 19/10 06:00 UTC)
+
+@Merlín (solo para Merlín): AUTOCARAVANAS PARA PUBLICAR. Objetivo: subirlas mañana a las 08:00 o 14:00 UTC. **Plazo: 19/10 a las 06:00 UTC.** Rama única `merlin-autocaravanas-final` desde el `main` actual.
+
+**(a) Fichas:** las 50 autocaravanas del lote 1 (+ lote 5 si está listo), con `tsc` a 0 (añade `mmaKg` al tipo bien), fotos en `public/media` de TODAS (reales y con licencia, con créditos; si no hay, la ficha se queda fuera), blog + FAQ, y solo fuentes del fabricante.
+
+**(b) SECCIÓN:** hub `/autocaravanas/` con el listado, filtros (marca, tipo: perfilada/capuchina/integral/camper, plazas), enlace en el menú, schema y enlaces como en caravanas.
+
+**(c) E-E-A-T:** el mismo (autor, fecha, fuentes, «cómo verificamos»).
+
+Coordina con Niky para que los dos hubs compartan el mismo diseño. Avisa en `merlin.md` con el commit y la lista de URLs. **También:** 2 capturas del hub (móvil y escritorio) en `docs/capturas/`; Daniel aprueba el diseño antes de publicar.
