@@ -1,9 +1,7 @@
 # noindex,follow por calidad (P2 AdSense 14/10/2026). Quitar línea al completar datos/ampliar.
 /coches/baojun-yunhai-phev-2024-precio-ficha-tecnica/
 /coches/changan-eado-plus-2025-precio-ficha-tecnica/
-/coches/jaecoo-6-ev-2026-precio-ficha-tecnica/
 /coches/vinfast-vf-6-2026-precio-ficha-tecnica/
-/coches/jac-t9-phev-2026-precio-ficha-tecnica/
 /coches/lexus-lm-350h/
 /coches/bmw-x1-m35i-2025-precio-ficha-tecnica/
 /coches/denza-z9s-2026-precio-ficha-tecnica/
@@ -18,20 +16,15 @@
 /coches/chery-tiggo-2-pro-2025-precio-ficha-tecnica/
 /coches/ferrari-12cilindri-manuale-2026-precio-ficha-tecnica/
 /coches/bmw-serie-3-320i-2026-precio-ficha-tecnica/
-/coches/cupra-formentor-15-etsi-2025-precio-ficha-tecnica/
 /coches/de-tomaso-p900-2025-precio-ficha-tecnica/
 /coches/polestar-4-suv-precio-ficha-tecnica/
-/coches/toyota-prius-phev-2025-precio-ficha-tecnica/
 /coches/lucid-gravity-2026-precio-ficha-tecnica/
 /coches/chery-explorer-06-2024-precio-ficha-tecnica/
 /coches/dr-3-0-2025-precio-ficha-tecnica/
 /coches/mercedes-benz-gla-200-precio-ficha-tecnica/
-/coches/maserati-grecale-2027-precio-ficha-tecnica/
 /coches/volkswagen-tayron-20-tsi-2026-precio-ficha-tecnica/
 /coches/kgm-musso-diesel-2026-precio-ficha-tecnica/
 /coches/rolls-royce-droptail-2024-precio-ficha-tecnica/
-/coches/jetour-t1-2025-precio-ficha-tecnica/
-/coches/haval-raptor-2024-precio-ficha-tecnica/
 /coches/aito-m8-ev-2025-precio-ficha-tecnica/
 /coches/brabham-bt62-2024-precio-ficha-tecnica/
 /coches/jac-js4-2025-precio-ficha-tecnica/
@@ -45,7 +38,6 @@
 /coches/jeep-compass-13-t-130-2024-precio-ficha-tecnica/
 /coches/hyundai-ioniq-6-2025-precio-ficha-tecnica/
 /coches/yangwang-byd-berlina-260000-euros-rolls-royce/
-/coches/toyota-corolla-cross-2026/
 /coches/hyundai-i10-2026-precio-ficha-tecnica/
 /coches/suzuki-fronx-2025-precio-ficha-tecnica/
 /coches/oshan-x5-2026-precio-ficha-tecnica/
@@ -54,20 +46,16 @@
 /coches/dongfeng-vigo-electrico-precio-espana-ficha/
 /coches/voyah-free-plus-2026-precio-ficha-tecnica/
 /coches/daihatsu-copen-2025/
-/coches/haval-jolion-2024-precio-ficha-tecnica/
 /coches/ram-1500-rev-2026-precio-ficha-tecnica/
 /coches/voyah-dream-9-phev-2026-precio-ficha-tecnica/
 /coches/peugeot-expert-20-bluehdi-180-2026-precio-ficha-tecnica/
-/coches/denza-bao-8-2026-precio-ficha-tecnica/
 /coches/dr-7-0-2025-precio-ficha-tecnica/
 /coches/gordon-murray-t50-2025-precio-ficha-tecnica/
 /coches/chery-arrizo-5-gt-2026-precio-ficha-tecnica/
-/coches/denza-z-spider-2026-precio-ficha-tecnica/
 /coches/nevo-c390-2025-precio-ficha-tecnica/
 /coches/chery-fulwin-a9l-2025-precio-ficha-tecnica/
 /coches/bmw-ix-xdrive40-2025/
 /coches/jetour-t2-i-dm-xwd-2026-precio-ficha-tecnica/
-/coches/beijing-x5-2024-precio-ficha-tecnica/
 /coches/dongfeng-aeolus-ax7-2026-precio-ficha-tecnica/
 /coches/wey-gaoshan-7-2025-precio-ficha-tecnica/
 /coches/carado-t-447-2026/
@@ -88,9 +76,7 @@
 /coches/kaiyi-kunlun-2026-precio-ficha-tecnica/
 /coches/cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica/
 /coches/genesis-g70-2025/
-/coches/ligier-myli-lab-2026-precio-ficha-tecnica/
 /coches/venucia-star-2026-precio-ficha-tecnica/
-/coches/lexus-es-300h-2026-precio-ficha-tecnica/
 /coches/land-rover-defender-octa-2025-precio-ficha-tecnica/
 /coches/denza-z9-dm-2024-precio-ficha-tecnica/
 /coches/donkervoort-d8-gto-jd70-r-2025-precio-ficha-tecnica/
@@ -112,7 +98,6 @@
 /coches/bmw-serie-3-320d-2026-precio-ficha-tecnica/
 /coches/maserati-ghibli-modena-2024-precio-ficha-tecnica/
 /coches/exeed-vx-2025-precio-ficha-tecnica/
-/coches/tank-300-hooke-trail-2026-precio-ficha-tecnica/
 /coches/volkswagen-golf-gti-clubsport-2026-precio-ficha-tecnica/
 /coches/koenigsegg-gemera-2025-precio-ficha-tecnica/
 /coches/donkervoort-f22-2025-precio-ficha-tecnica/
@@ -123,10 +108,8 @@
 /coches/ora-ballet-cat-2024-precio-ficha-tecnica/
 /coches/hongqi-hs7-phev-2024-precio-ficha-tecnica/
 /coches/evo-6-2026-precio-ficha-tecnica/
-/coches/im-ls9-2026-precio-ficha-tecnica/
 /coches/icar-03-2025-precio-ficha-tecnica/
 /coches/bmw-serie-3-2025-precio-ficha-tecnica/
-/coches/deepal-s09-2026-precio-ficha-tecnica/
 /coches/chery-fulwin-a8l-2024-precio-ficha-tecnica/
 /coches/exeed-lx-2025-precio-ficha-tecnica/
 /coches/dr-sportequipe-8-2025-precio-ficha-tecnica/
@@ -137,7 +120,6 @@
 /coches/buick-envista-2025-precio-ficha-tecnica/
 /coches/ds-n8-2025-precio-ficha-tecnica/
 /coches/voyah-taishan-2026-precio-ficha-tecnica/
-/coches/ferrari-f80-2026-precio-ficha-tecnica/
 /coches/dongfeng-mage-phev-precio-espana-ficha/
 /coches/neta-l-2024-precio-ficha-tecnica/
 /coches/opel-movano-22-diesel-180-2025-precio-ficha-tecnica/
@@ -161,9 +143,7 @@
 /coches/aixam-easy-chic-2025-precio-ficha-tecnica/
 /coches/cupra-terramar-vz-265-2025-precio-ficha-tecnica/
 /coches/jmc-vigus-2026-precio-ficha-tecnica/
-/coches/aito-m8-huawei-2026-precio-ficha-tecnica/
 /coches/jac-js6-2026-precio-ficha-tecnica/
-/coches/citroen-ami-2026-precio-ficha-tecnica/
 /coches/hyundai-staria-hibrido-2026-precio-ficha-tecnica/
 /coches/possl-summit-600-2026/
 /coches/byd-seal-05-dm-i-2025-precio-ficha-tecnica/
@@ -175,14 +155,11 @@
 /coches/kia-stonic-hibrido-2026-precio-ficha-tecnica/
 /coches/mercedes-marco-polo-2025/
 /coches/hyptec-s600-2026-precio-ficha-tecnica/
-/coches/maserati-quattroporte-modena-q4-2024-precio-ficha-tecnica/
 /coches/byd-sealion-05-dm-i-2025-precio-ficha-tecnica/
 /coches/gac-trumpchi-gs4-max-2026-precio-ficha-tecnica/
 /coches/denza-z-coupe-2026-precio-ficha-tecnica/
 /coches/suzuki-vitara-strong-hybrid-2025-precio-ficha-tecnica/
-/coches/mitsubishi-colt-100t-glp-2025-precio-ficha-tecnica/
 /coches/nissan-primastar-combi-dci-2026-precio-ficha-tecnica/
-/coches/forthing-s7-reev-2026-precio-ficha-tecnica/
 /coches/cupra-leon-15-tsi-2025-precio-ficha-tecnica/
 /coches/maxus-mifa-9-2025-precio-ficha-tecnica/
 /coches/exeed-sterra-es-reev-2025-precio-ficha-tecnica/
@@ -191,11 +168,9 @@
 /coches/mobilize-duo-45-2025-precio-ficha-tecnica/
 /coches/rolls-royce-cullinan-series-ii-black-badge-2026-precio-ficha-tecnica/
 /coches/mercedes-amg-one-2025-precio-ficha-tecnica/
-/coches/jac-t9-2025-precio-ficha-tecnica/
 /coches/cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica/
 /coches/aixam-coupe-sport-2025-precio-ficha-tecnica/
 /coches/hyundai-kona-gasolina-2025-precio-ficha-tecnica/
-/coches/stelato-s9-huawei-2026-precio-ficha-tecnica/
 /coches/rimac-nevera-r-2025-precio-ficha-tecnica/
 /coches/aixam-e-city-sport-2025-precio-ficha-tecnica/
 /coches/yangwang-u8l-2025-precio-ficha-tecnica/
@@ -212,7 +187,6 @@
 /coches/tank-700-lwb-hi4-z-2025-precio-ficha-tecnica/
 /coches/baic-beijing-5-2025-precio-ficha-tecnica/
 /coches/evo-7-2025-precio-ficha-tecnica/
-/coches/exeed-et5-2026-precio-ficha-tecnica/
 /coches/nissan-murano-2025-precio-ficha-tecnica/
 /coches/aixam-easy-access-diesel-2025-precio-ficha-tecnica/
 /coches/wey-07-2024-precio-ficha-tecnica/
@@ -230,17 +204,13 @@
 /coches/ligier-js50-select-confort-2026-precio-ficha-tecnica/
 /coches/yangwang-u9-xtreme-2025-precio-ficha-tecnica/
 /coches/gordon-murray-t33-2025-precio-ficha-tecnica/
-/coches/cupra-leon-vz-325-2025-precio-ficha-tecnica/
 /coches/geely-galaxy-zhanjian-700-2026-precio-ficha-tecnica/
 /coches/cupra-terramar-vz-ehybrid-272-2025-precio-ficha-tecnica/
 /coches/hyundai-tucson-hibrido-enchufable-2026-precio-ficha-tecnica/
-/coches/denza-n9-byd-2026-precio-ficha-tecnica/
 /coches/lamborghini-huracan-sterrato-2024-precio-ficha-tecnica/
-/coches/neta-l-erev-2024-precio-ficha-tecnica/
 /coches/aito-m7-2025-precio-ficha-tecnica/
 /coches/luxeed-r7-2025-precio-ficha-tecnica/
 /coches/cupra-raval-plus-2026-precio-ficha-tecnica/
-/coches/chery-tiggo-x-2027-precio-ficha-tecnica/
 /coches/volkswagen-tiguan-15-etsi-2026-precio-ficha-tecnica/
 /coches/chausson-640-2026/
 /coches/ferrari-sf90-xx-stradale-2025-precio-ficha-tecnica/
@@ -263,14 +233,11 @@
 /coches/rolls-royce-ghost-black-badge-2026-precio-ficha-tecnica/
 /coches/honda-s2000-2009/
 /coches/bentley-flying-spur-speed-2026-precio-ficha-tecnica/
-/coches/jetour-x50-2025-precio-ficha-tecnica/
 /coches/haima-7x-2026-precio-ficha-tecnica/
 /coches/mitsubishi-asx-130t-7dct-2026-precio-ficha-tecnica/
 /coches/ds-n4-e-tense-213-2026-precio-ficha-tecnica/
 /coches/aston-martin-dbx-gt-2026-precio-ficha-tecnica/
-/coches/mercedes-benz-glc-200-precio-ficha-tecnica/
 /coches/dfsk-500-2025-precio-ficha-tecnica/
-/coches/nevo-a06-2025-precio-ficha-tecnica/
 /coches/fiat-tipo-2024-precio-ficha-tecnica/
 /coches/xiaomi-su7-ultra-2026-precio-ficha-tecnica/
 /coches/morgan-supersport-2025-precio-ficha-tecnica/
@@ -294,7 +261,6 @@
 /coches/tank-500-hi4-z-2025-precio-ficha-tecnica/
 /coches/byd-song-plus-dm-i-2025-precio-ficha-tecnica/
 /coches/mercedes-citan-tourer-2025/
-/coches/haval-h5-2024-precio-ficha-tecnica/
 /coches/hyundai-palisade-2026-precio-ficha-tecnica/
 /coches/ariel-hipercar-2026-precio-ficha-tecnica/
 /coches/haval-h6s-2025-precio-ficha-tecnica/
@@ -311,9 +277,7 @@
 /coches/silence-s04-l7e-2025-precio-ficha-tecnica/
 /coches/dacia-duster-2026-eco-g-120-precio-ficha-tecnica/
 /coches/byd-seal-08-2026-precio-ficha-tecnica/
-/coches/haval-h6-gt-2025-precio-ficha-tecnica/
 /coches/im-l6-2024-precio-ficha-tecnica/
-/coches/roewe-jiayue-07-2026-precio-ficha-tecnica/
 /coches/baic-beijing-x55-2025-precio-ficha-tecnica/
 /coches/dacia-duster-hybrid-g-150-4x4-2026-precio-ficha-tecnica/
 /coches/roewe-i6-2026-precio-ficha-tecnica/
@@ -325,10 +289,7 @@
 /coches/geely-galaxy-battleship-700-2026-precio-ficha-tecnica/
 /coches/lexus-es-500e-2026-precio-ficha-tecnica/
 /coches/lexus-lbx-morizo-rr-2025-precio-ficha-tecnica/
-/coches/jaecoo-6-ev-awd-2026-precio-ficha-tecnica/
 /coches/geely-atlas-2025-precio-ficha-tecnica/
-/coches/jetour-dashing-2024-precio-ficha-tecnica/
-/coches/chery-q-2027-precio-ficha-tecnica/
 /coches/toyota-corolla-5p-140h-2026-precio-ficha-tecnica/
 /coches/skoda-kodiaq-20-tdi-2026-precio-ficha-tecnica/
 /coches/ferrari-sf90-stradale-2025-precio-ficha-tecnica/
@@ -336,8 +297,6 @@
 /coches/hongqi-hs3-phev-2025-precio-ficha-tecnica/
 /coches/mercedes-gle-450-e-2026-precio-ficha-tecnica/
 /coches/dongfeng-aeolus-huge-2023-precio-ficha-tecnica/
-/coches/nio-es9-2026-precio-ficha-tecnica/
-/coches/haval-dargo-2024-precio-ficha-tecnica/
 /coches/hyundai-i20-n-line-2026-precio-ficha-tecnica/
 /coches/nevo-e07-2025-precio-ficha-tecnica/
 /coches/hyundai-elantra-n-2024/
@@ -356,7 +315,6 @@
 /coches/maserati-granturismo-trofeo-590-2027-precio-ficha-tecnica/
 /coches/dacia-logan-tce-90-2026-precio-ficha-tecnica/
 /coches/land-rover-range-rover-sport-sv-2025-precio-ficha-tecnica/
-/coches/voyah-passion-s-2026-precio-ficha-tecnica/
 /coches/voyah-free-erev-2025-precio-ficha-tecnica/
 /coches/cupra-tavascan-190-2026-precio-ficha-tecnica/
 /coches/tvr-griffith-2026-precio-ficha-tecnica/
@@ -374,7 +332,6 @@
 /coches/hongqi-hq9-2023-precio-ficha-tecnica/
 /coches/cadillac-celestiq-2025-precio-ficha-tecnica/
 /coches/hyptec-a800-2026-precio-ficha-tecnica/
-/coches/chery-tiggo-4-csh-2026-precio-ficha-tecnica/
 /coches/gwm-haval-h6-2024-precio-ficha-tecnica/
 /coches/citroen-jumper-22-bluehdi-140-2026-precio-ficha-tecnica/
 /coches/changan-hunter-reev-2025-precio-ficha-tecnica/
@@ -400,7 +357,6 @@
 /coches/byd-sealion-05-2025-precio-ficha-tecnica/
 /coches/evo-5-2025-precio-ficha-tecnica/
 /coches/chery-fulwin-t8-2025-precio-ficha-tecnica/
-/coches/aixam-coupe-gti-2025-precio-ficha-tecnica/
 /coches/maxus-deliver-7-2025-precio-ficha-tecnica/
 /coches/leapmotor-c01-4wd-2026-precio-ficha-tecnica/
 /coches/mg7-2025-precio-ficha-tecnica/
@@ -414,11 +370,9 @@
 /coches/leapmotor-d19-2026-precio-ficha-tecnica/
 /coches/honda-super-n-ev-2026-precio-ficha-tecnica/
 /coches/volkswagen-arteon-2025-precio-ficha-tecnica/
-/coches/aito-m7-2026-precio-ficha-tecnica/
 /coches/mercedes-benz-clase-e-220-d-precio-ficha-tecnica/
 /coches/bentley-flying-spur-azure-2026-precio-ficha-tecnica/
 /coches/mercedes-gla-250-e-2025-precio-ficha-tecnica/
-/coches/chery-arrizo-8-2024-precio-ficha-tecnica/
 /coches/swm-g01-2025-precio-ficha-tecnica/
 /coches/suzuki-e-vitara-2025-precio-ficha-tecnica/
 /coches/bugatti-tourbillon-2026-precio-ficha-tecnica/
@@ -434,10 +388,8 @@
 /coches/bentley-bentayga-2026-precio-ficha-tecnica/
 /coches/jmev-yi-2025-precio-ficha-tecnica/
 /coches/omoda-4-shs-2026-precio-ficha-tecnica/
-/coches/ferrari-296-speciale-a-2026-precio-ficha-tecnica/
 /coches/wey-gaoshan-8-2025-precio-ficha-tecnica/
 /coches/honda-gt-2026-precio-ficha-tecnica/
-/coches/benimar-mileo-286-2026/
 /coches/hobby-vantana-2026/
 /coches/levc-tx-shuttle-2024-precio-ficha-tecnica/
 /coches/dacia-duster-2026-hybrid-155-precio-ficha-tecnica/
@@ -465,7 +417,6 @@
 /coches/hongqi-tiangong-05-2025-precio-ficha-tecnica/
 /coches/land-rover-discovery-p360-2025-precio-ficha-tecnica/
 /coches/aion-rt-2024-precio-ficha-tecnica/
-/coches/fiat-topolino-2024-precio-ficha-tecnica/
 /coches/cadillac-escalade-iq-2025-precio-ficha-tecnica/
 /coches/kia-k4-2026-precio-ficha-tecnica/
 /coches/jmev-ev2-2026-precio-ficha-tecnica/
@@ -503,7 +454,6 @@
 /coches/toyota-rav4-gr-sport-phev-2026-precio-ficha-tecnica/
 /coches/radical-rxc-2025-precio-ficha-tecnica/
 /coches/citroen-spacetourer-campster-2025/
-/coches/mitsubishi-asx-120t-2026-precio-ficha-tecnica/
 /coches/maserati-grecale-modena-v6-2027-precio-ficha-tecnica/
 /coches/jetour-x70l-2025-precio-ficha-tecnica/
 /coches/jaguar-gt-electrico-2026-precio-ficha-tecnica/
@@ -528,7 +478,6 @@
 /coches/dr-sportequipe-7-2025-precio-ficha-tecnica/
 /coches/jeep-wrangler-rubicon-392-2025/
 /coches/maserati-levante-trofeo-2024-precio-ficha-tecnica/
-/coches/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica/
 /coches/audi-rs4-avant-2025/
 /coches/aixam-city-pack-2025-precio-ficha-tecnica/
 /coches/bmw-i3-neue-klasse-2026-precio-ficha-tecnica/
@@ -539,7 +488,6 @@
 /coches/wey-gaoshan-9-2025-precio-ficha-tecnica/
 /coches/hyundai-kona-hibrido-2025-precio-ficha-tecnica/
 /coches/levc-l380-2025-precio-ficha-tecnica/
-/coches/chery-tiggo-9l-2026-precio-ficha-tecnica/
 /coches/kia-tasman-2025-precio-ficha-tecnica/
 /coches/haval-dargo-x-2024-precio-ficha-tecnica/
 /coches/bentley-batur-convertible-2024-precio-ficha-tecnica/
@@ -551,7 +499,6 @@
 /coches/skoda-superb-15-tsi-2026-precio-ficha-tecnica/
 /coches/geely-cityray-2025-precio-ficha-tecnica/
 /coches/foton-tunland-v7-2025-precio-ficha-tecnica/
-/coches/omoda-4-2026-precio-ficha-tecnica/
 /coches/aito-m6-ev-2026-precio-ficha-tecnica/
 /coches/aion-lx-plus-2024-precio-ficha-tecnica/
 /coches/aito-m6-2026-precio-ficha-tecnica/
@@ -569,7 +516,6 @@
 /coches/ligier-js50-electrico-2026-precio-ficha-tecnica/
 /coches/land-rover-range-rover-sport-electrico-2026-precio-ficha-tecnica/
 /coches/gac-emkoo-2025-precio-ficha-tecnica/
-/coches/haval-raptor-plus-2026-precio-ficha-tecnica/
 /coches/tesla-cybercab-2026-precio-ficha-tecnica/
 /coches/aston-martin-valiant-2024-precio-ficha-tecnica/
 /coches/maserati-levante-modena-2024-precio-ficha-tecnica/
@@ -587,13 +533,11 @@
 /coches/bmw-serie-2-gran-coupe-2025-precio-ficha-tecnica/
 /coches/fiat-ducato-22-mjt-180-2026-precio-ficha-tecnica/
 /coches/gwm-cannon-alpha-phev-2025-precio-ficha-tecnica/
-/coches/cupra-formentor-vz-333-2025-precio-ficha-tecnica/
 /coches/audi-a4-avant-2025/
 /coches/changan-cs55-plus-2025-precio-ficha-tecnica/
 /coches/opel-astra-diesel-130-2025-precio-ficha-tecnica/
 /coches/icaur-v25-2026-precio-ficha-tecnica/
 /coches/swm-tiger-2026-precio-ficha-tecnica/
-/coches/leapmotor-b03-2026-precio-ficha-tecnica/
 /coches/chery-tiggo-4-pro-15t-2026-precio-ficha-tecnica/
 /coches/im-ls7-2024-precio-ficha-tecnica/
 /coches/skoda-superb-20-tsi-2026-precio-ficha-tecnica/
@@ -603,7 +547,6 @@
 /coches/kaiyi-x3-pro-2024-precio-ficha-tecnica/
 /coches/maserati-grancabrio-trofeo-590-2027-precio-ficha-tecnica/
 /coches/alfa-romeo-mito-2025/
-/coches/jac-rf8-phev-2026-precio-ficha-tecnica/
 /coches/mclouis-menfys-2026/
 /coches/wuling-hongguang-mini-ev-cabrio-2026-precio-ficha-tecnica/
 /coches/vinfast-vf-7-2026-precio-ficha-tecnica/
@@ -614,7 +557,6 @@
 /coches/wuling-starlight-730-ev-2025-precio-ficha-tecnica/
 /coches/aiva-me7-2026-precio-ficha-tecnica/
 /coches/leapmotor-c16-2026-precio-ficha-tecnica/
-/coches/haval-h3-2024-precio-ficha-tecnica/
 /coches/baojun-xiangjing-phev-2025-precio-ficha-tecnica/
 /coches/wuling-journey-2025-precio-ficha-tecnica/
 /coches/mazda-cx-5-2026-precio-ficha-tecnica/
@@ -631,15 +573,12 @@
 /coches/avatr-07-2024-precio-ficha-tecnica/
 /coches/lexus-lc-500-cabrio-2025-precio-ficha-tecnica/
 /coches/radical-sr1-xxr-2025-precio-ficha-tecnica/
-/coches/zeekr-009-grand-2024-precio-ficha-tecnica/
 /coches/rivian-r2-2026-precio-ficha-tecnica/
 /coches/tesla-cybertruck-2026-precio-ficha-tecnica/
 /coches/im-ls7-2026-precio-ficha-tecnica/
 /coches/cupra-raval-2026-precio-ficha-tecnica/
 /coches/swm-g03f-2025-precio-ficha-tecnica/
-/coches/hongqi-ehs7-2025-precio-ficha-tecnica/
 /coches/ligier-myli-max-2026-precio-ficha-tecnica/
-/coches/aixam-e-city-pack-2025-precio-ficha-tecnica/
 /coches/jeep-renegade-4xe-190-2026-precio-ficha-tecnica/
 /coches/alfa-romeo-tonale-hibrida-130-precio-ficha-tecnica/
 /coches/stelato-s9t-2025-precio-ficha-tecnica/
@@ -654,7 +593,6 @@
 /coches/ligier-myli-diesel-2025-precio-ficha-tecnica/
 /coches/geely-preface-2025-precio-ficha-tecnica/
 /coches/invicta-pocco-2025-precio-ficha-tecnica/
-/coches/chery-arrizo-5-2025-precio-ficha-tecnica/
 /coches/avatr-12-2024-precio-ficha-tecnica/
 /coches/lexus-is-300h/
 /coches/leapmotor-c16-erev-2026-precio-ficha-tecnica/
@@ -666,13 +604,10 @@
 /coches/volkswagen-caddy-california-2025/
 /coches/cupra-leon-vz-300-2025-precio-ficha-tecnica/
 /coches/volkswagen-id-tiguan/
-/coches/hongqi-hs3-2023-precio-ficha-tecnica/
 /coches/neta-s-shooting-brake-2024-precio-ficha-tecnica/
 /coches/citroen-ami-cargo-2026-precio-ficha-tecnica/
-/coches/chery-himla-2026-precio-ficha-tecnica/
 /coches/lamborghini-urus-se-performante-2026-precio-ficha-tecnica/
 /coches/forthing-u-tour-2025-precio-ficha-tecnica/
-/coches/jetour-t2-2024-precio-ficha-tecnica/
 /coches/byd-tang-l-2026-precio-ficha-tecnica/
 /coches/lexus-gx-550/
 /coches/gac-trumpchi-xiangwang-s9-2025-precio-ficha-tecnica/
@@ -700,9 +635,7 @@
 /motos/lifan-kpv150-2025-ficha-tecnica-precio/
 /motos/beta-evo-250-2t-factory-2025-ficha-tecnica-precio/
 /motos/bimota-kb4-2025-ficha-tecnica-precio/
-/motos/piaggio-liberty-125-2025-ficha-tecnica-precio/
 /motos/triumph-tiger-850-sport-2025-ficha-tecnica-precio/
-/motos/sym-symphony-st-125-2026-ficha-tecnica-precio/
 /motos/niu-fqix-150-2026-ficha-tecnica-precio/
 /motos/gasgas-mc-450f-2026-ficha-tecnica-precio/
 /motos/husqvarna-norden-901-2025-ficha-tecnica-precio/
@@ -724,13 +657,11 @@
 /motos/gasgas-ec-350f-2025-ficha-tecnica-precio/
 /motos/blueshark-r80-lite-hs-2025-ficha-tecnica-precio/
 /motos/scorpa-sc-125-factory-2025-ficha-tecnica-precio/
-/motos/beta-rr-x-pro-300-2t-2026-ficha-tecnica-precio/
 /motos/beta-rr-2t-200-race-2026-ficha-tecnica-precio/
 /motos/honda-cb500x-2025-ficha-tecnica-precio/
 /motos/zero-sr-s-2025-ficha-tecnica-precio/
 /motos/scorpa-sc-300-factory-2025-ficha-tecnica-precio/
 /motos/beta-rr-x-pro-350-4t-2026-ficha-tecnica-precio/
-/motos/sherco-125-se-2025-ficha-tecnica-precio/
 /motos/piaggio-medley-200-2026-ficha-tecnica-precio/
 /motos/trs-one-rr-300-2025-ficha-tecnica-precio/
 /motos/hero-xoom-125r-2026-ficha-tecnica-precio/
@@ -757,10 +688,8 @@
 /motos/fantic-caballero-700-2025-ficha-tecnica-precio/
 /motos/cake-kalk-2025-ficha-tecnica-precio/
 /motos/yamaha-tenere-700-rally-2026-ficha-tecnica-precio/
-/motos/ktm-390-enduro-r-2025-ficha-tecnica-precio/
 /motos/vespa-elettrica-70-2025-ficha-tecnica-precio/
 /motos/energica-eva-esseesse9-plus-2025-ficha-tecnica-precio/
-/motos/zontes-125x-2026-ficha-tecnica-precio/
 /motos/bmw-f-750-gs-2024-ficha-tecnica-precio/
 /motos/velca-tramontana-s-2025-ficha-tecnica-precio/
 /motos/piaggio-liberty-125-2026-ficha-tecnica-precio/
@@ -783,7 +712,6 @@
 /motos/mecatecno-dragonfly-e-2025-ficha-tecnica-precio/
 /motos/askoll-xkp-80-2025-ficha-tecnica-precio/
 /motos/lifan-kpt150-2025-ficha-tecnica-precio/
-/motos/kawasaki-versys-1100-s-2025-ficha-tecnica-precio/
 /motos/zero-sr-2026-ficha-tecnica-precio/
 /motos/rieju-ray-7-7-2025-ficha-tecnica-precio/
 /motos/stark-future-varg-mx-1-2-2025-ficha-tecnica-precio/
@@ -802,7 +730,6 @@
 /motos/voge-sr150gt-2025-ficha-tecnica-precio/
 /motos/rieju-aventura-500-2024-ficha-tecnica-precio/
 /motos/fantic-xef-250-2025-ficha-tecnica-precio/
-/motos/silence-s04-l6e-2025-ficha-tecnica-precio/
 /motos/ducati-scrambler-800-nightshift-2025-ficha-tecnica-precio/
 /motos/aprilia-sr-gt-200-2024-ficha-tecnica-precio/
 /motos/tm-en-300-2026-ficha-tecnica-precio/
@@ -811,9 +738,7 @@
 /motos/trs-one-r-250-2025-ficha-tecnica-precio/
 /motos/rieju-mr-racing-300-2024-ficha-tecnica-precio/
 /motos/sunra-rs-125e-2025-ficha-tecnica-precio/
-/motos/rieju-mr-pro-300i-2026-ficha-tecnica-precio/
 /motos/yamaha-yzf-r125-2026-ficha-tecnica-precio/
-/motos/fantic-xef-310-2025-ficha-tecnica-precio/
 /motos/lifan-kps200-2025-ficha-tecnica-precio/
 /motos/honda-cl500-2025-ficha-tecnica-precio/
 /motos/sherco-300-sef-factory-2026-ficha-tecnica-precio/
@@ -826,7 +751,6 @@
 /blog/dacia-lodgy-2025-precio-opiniones/
 /blog/gotrax-g-pro/
 /blog/possl-summit-600-2026-precio-camper/
-/blog/aovopro-esmax/
 /blog/lynk-co-10-em-p-2025-precio-autonomia/
 /blog/kaabo-mantis-10-eco/
 /blog/iscooter-i8/
@@ -913,7 +837,6 @@
 /blog/byd-seal-06-ev-2026-precio-autonomia/
 /blog/hiboy-nex3/
 /blog/hyundai-palisade-2026-precio-ficha/
-/blog/benimar-mileo-286-2026-precio-autocaravana/
 /blog/mercedes-amg-one-2025-precio-autonomia/
 /blog/dualtron-city/
 /blog/ducati-monster-2026-quinta-generacion-precio-espana/
@@ -1119,7 +1042,6 @@
 /blog/hero-vida-v1-2026-precio-ficha-tecnica/
 /blog/gmc-sierra-ev-2025-precio-autonomia/
 /blog/evercross-h5/
-/blog/dacia-sandero-baja-precio-octubre-2026/
 /blog/kugoo-kirin-s1-pro/
 /blog/emove-touring/
 /blog/smartgyro-rockway-gt-dual/
@@ -1159,7 +1081,6 @@
 /blog/suzuki-v-strom-250sx-2025-precio/
 /blog/aprilia-sr-gt-200-2026/
 /blog/chevrolet-spark-euv-2026-precio-autonomia/
-/blog/hiley-maxspeed-x10/
 /blog/cecotec-bongo-serie-doble-z75/
 /blog/denver-sel-10800f/
 /blog/segway-ninebot-f40e/
@@ -1411,5 +1332,4 @@
 /blog/okai-neon-pro/
 /blog/ford-f-150-lightning-precio-ficha-tecnica/
 /blog/jaguar-e-pace-2025-precio-autonomia/
-/coches/toyota-proace-max-2025-precio-ficha-tecnica/
 /coches/tesla-model-x-plaid-2026-precio-ficha-tecnica/
