@@ -109,7 +109,7 @@ El S ofrece 86 CV más (480 CV) y un 0-100 en 3,3 s por unos 21.000 € extra. S
 
 Con 294 km/h de velocidad máxima, conviene recordar que en España superar los límites puede costarte el carné: si te ha llegado una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
 
-*Fuentes: <a href=https://www.km77.com/coches/porsche/911>km77 — ficha técnica del Porsche 911</a>, <a href=https://www.porsche.com/spain/es/models/911/911-models/>Porsche España — gama 911</a> y <a href=https://www.coches.net/porsche/911/>coches.net — precios del 911 en España</a>.*
+*Fuentes: <a href=https://www.km77.com/coches/porsche/911>km77 — ficha técnica del Porsche 911</a>, <a href=https://www.porsche.com/spain/models/911/carrera-models/911-carrera/>Porsche España — 911 Carrera (precio oficial 159.511 €)</a> y <a href=https://www.coches.net/porsche/911/>coches.net — precios del 911 en España</a>.*
     `,
   },
   {

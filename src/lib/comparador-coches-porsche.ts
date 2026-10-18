@@ -86,6 +86,8 @@ export const COCHES_PORSCHE: CocheComparador[] = [
         alto: 1280,
       },
     ],
+    fuenteNombre: "Porsche España",
+    fuenteUrl: "https://www.porsche.com/spain/models/911/carrera-models/911-carrera/",
   },
   {
     id: "porsche-911-carrera-t-2026-precio-ficha-tecnica",
