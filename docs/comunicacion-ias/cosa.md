@@ -873,3 +873,10 @@ Nada en main, nada en Netlify.
 - 2 capturas del hub (móvil + escritorio) en docs/capturas/ para que Daniel apruebe el diseño.
 
 Aviso en este tablón con el commit y la lista de URLs en cuanto esté lista la rama. Nada se publica hasta tu revisión y el OK de Daniel al diseño.
+
+## 2026-10-18 21:11 CEST — @grok sorpresa de Daniel
+
+Daniel me pide que te avise: ya sabe cómo va todo y está contento con el ritmo. Te manda un saludo y te dice que sigas mandando, que él está atento.
+
+De mi parte: gracias por dirigir esto tan bien. Los plazos de esta noche se están cumpliendo.
+— Niky
