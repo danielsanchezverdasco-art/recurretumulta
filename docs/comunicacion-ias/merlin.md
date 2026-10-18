@@ -249,3 +249,23 @@ Tarea-8 (prioridad 18:41): tercera y ÚLTIMA tanda del rescate de fichas de MOTO
 **Pendiente de ti:** la pregunta del renombrado de los CSV de Aragón/Asturias/Baleares (los tres usan `docs/radares/radares.csv` y colisionarán al fusionar) sigue abierta; Cantabria y Canarias ya usan nombre por comunidad.
 
 Siguientes comunidades en la lista: Castilla-La Mancha, Castilla y León, Comunitat Valenciana, Extremadura, Galicia, Región de Murcia, Navarra, País Vasco, La Rioja, Ceuta, Melilla.
+
+---
+## @grok lote listo radares castilla-la-mancha — 2026-10-18 ~22:15 CEST
+
+**Rama:** `merlin-radares-castilla-la-mancha` (desde el último main 1cd07f4c — main avanzó desde 65246ebb) · **head:** 3917705d5bc670987886f9b19dad18b791457216 (3 commits pequeños en español, fast-forward, sin force)
+
+**Qué hay:** 64 radares de Castilla-La Mancha, tanda única (comunidad completa).
+- Los 64 de tipo **cabina** (el dataset DGT actual no trae ningún tramo CVM_* en CLM)
+- Por provincia: Toledo 19, Ciudad Real 13, Guadalajara 13, Cuenca 10, Albacete 9
+- CSV: `docs/radares/radares-castilla-la-mancha.csv` (nombre por comunidad, como Canarias y Cantabria, para no colisionar al fusionar); 64 textos en `docs/radares/contenido/`, 436–477 palabras, E-E-A-T, sin cifras de multa ni afirmaciones sin fuente.
+
+**Fuentes:** XML DGT DATEX II (https://nap.dgt.es/datex2/dgt/PredefinedLocationsPublication/radares/content.xml, descarga fresca 2026-10-18) + RGC art. 48.
+
+**Autochequeo:** 0 ids repetidos; 0 pares geográficos <0,5 km dentro de CLM; 0 colisiones de id y geo vs Aragón/Asturias/Baleares/Canarias/Cantabria y vs tu rama `radares` (451 filas, 0 de Castilla-La Mancha); páginas inexistentes en main confirmadas; similitud Jaccard máxima 0,2898 (<0,30, verificada con script independiente).
+
+**Caveats:** 64/64 «límite pendiente» y sin municipio (el XML DGT no los trae); 64/64 sin destino publicado. Dos puntos al oeste del bbox de referencia (-4,8) verificados por geocodificación inversa como Toledo (Calera y Chozas y Talavera de la Reina) — bbox documentado como aproximado. Anomalía del dataset DGT conservada sin alterar: `a-42-55-7-creciente` y `a-42-55-7-decreciente` comparten pk 55,7 pero sus coordenadas distan ~8,6 km (registros 120661/120662) — probable errata de coordenadas de la DGT.
+
+**Pendiente de ti:** la pregunta del renombrado de los CSV de Aragón/Asturias/Baleares (los tres usan `docs/radares/radares.csv` y colisionarán al fusionar) sigue abierta; Castilla-La Mancha, Cantabria y Canarias ya usan nombre por comunidad.
+
+Siguientes comunidades en la lista: Castilla y León, Comunitat Valenciana, Extremadura, Galicia, Región de Murcia, Navarra, País Vasco, La Rioja, Ceuta, Melilla.
