@@ -2183,4 +2183,29 @@ export const GALERIAS_COCHES: Record<string, FotoCarrusel[]> = {
     { src: "/media/gwm-haval-h6-2024-precio-ficha-tecnica-interior.webp", alt: "Interior del GWM Haval H6 2024: salpicadero", credito: "Foto: www.motaauto.com" },
     { src: "/media/gwm-haval-h6-2024-precio-ficha-tecnica-oficial.webp", alt: "Trasera del GWM Haval H6 2024", credito: "Foto: www.greatwall.bg" },
   ],
+  "haval-raptor-2024-precio-ficha-tecnica": [
+    { src: "/media/haval-raptor-2024-precio-ficha-tecnica-hero.webp", alt: "Haval Raptor PHEV, lateral en estudio con rueda de repuesto exterior", credito: "Foto: car250.com" },
+    { src: "/media/haval-raptor-2024-precio-ficha-tecnica-foto2.webp", alt: "Haval Raptor PHEV, vista aérea tres cuartos delantera", credito: "Foto: car250.com" },
+    { src: "/media/haval-raptor-2024-precio-ficha-tecnica-interior.webp", alt: "Interior del Haval Raptor: salpicadero con pantalla central", credito: "Foto: car250.com" },
+  ],
+  "haval-jolion-2024-precio-ficha-tecnica": [
+    { src: "/media/haval-jolion-2024-precio-ficha-tecnica-hero.webp", alt: "Haval Jolion, perfil lateral sobre fondo blanco", credito: "Foto: dubicars.com" },
+    { src: "/media/haval-jolion-2024-precio-ficha-tecnica-foto2.webp", alt: "Haval Jolion HEV azul en marcha", credito: "Foto: gwmcleber.com" },
+    { src: "/media/haval-jolion-2024-precio-ficha-tecnica-interior.webp", alt: "Interior del Haval Jolion: salpicadero con pantalla táctil", credito: "Foto: carexpert.com.au" },
+  ],
+  "haval-h3-2024-precio-ficha-tecnica": [
+    { src: "/media/haval-h3-2024-precio-ficha-tecnica-hero.webp", alt: "Haval H3 (Cool Dog) verde en entorno de montaña", credito: "Foto: autoprove.it" },
+    { src: "/media/haval-h3-2024-precio-ficha-tecnica-foto2.webp", alt: "Haval H3 (Cool Dog), vista lateral urbana", credito: "Foto: carnewschina.com" },
+    { src: "/media/haval-h3-2024-precio-ficha-tecnica-interior.webp", alt: "Plazas traseras del Haval H3", credito: "Foto: carnewschina.com" },
+  ],
+  "haval-dargo-2024-precio-ficha-tecnica": [
+    { src: "/media/haval-dargo-2024-precio-ficha-tecnica-hero.webp", alt: "Haval Dargo rojo, tres cuartos delantero", credito: "Foto: zigwheels.ae" },
+    { src: "/media/haval-dargo-2024-precio-ficha-tecnica-foto2.webp", alt: "Trasera del Haval Dargo con insignias DARGO y 4WD", credito: "Foto: yandex.net" },
+    { src: "/media/haval-dargo-2024-precio-ficha-tecnica-interior.webp", alt: "Interior del Haval Dargo: salpicadero robusto", credito: "Foto: carscoops.com" },
+  ],
+  "haval-raptor-plus-2026-precio-ficha-tecnica": [
+    { src: "/media/haval-raptor-plus-2026-precio-ficha-tecnica-hero.webp", alt: "Haval Raptor Plus, tres cuartos delantero plateado", credito: "Foto: 24andlife.com" },
+    { src: "/media/haval-raptor-plus-2026-precio-ficha-tecnica-foto2.webp", alt: "Frontal del Haval Raptor Plus con parrilla HAVAL", credito: "Foto: autosalon.by" },
+    { src: "/media/haval-raptor-plus-2026-precio-ficha-tecnica-interior.webp", alt: "Interior del Haval Raptor Plus: salpicadero con pantalla central", credito: "Foto: car250.com" },
+  ],
 };
