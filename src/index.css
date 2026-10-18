@@ -862,6 +862,9 @@ html.rv .rtm-reveal:not(.is-inview) { opacity: 0; transform: translateY(var(--re
 .hp-animar .hp-linea-plana { opacity: 0; animation: hp-aparecer .6s ease-out .1s forwards; }
 .hp-animar .hp-area { opacity: 0; transform-box: fill-box; transform-origin: bottom; transform: scaleY(.6); animation: hp-area .7s ease-out .7s forwards; }
 .hp-animar .hp-punto { opacity: 0; animation: hp-aparecer .35s ease-out forwards; }
+.hp-bolsa .hp-jeep { transform-box: view-box; offset-anchor: 0 0; offset-rotate: auto; offset-distance: 100%; }
+.hp-animar .hp-jeep { offset-distance: 0%; animation: hp-jeep 1.2s cubic-bezier(.4,0,.2,1) forwards; }
+@keyframes hp-jeep { to { offset-distance: 100%; } }
 .hp-animar .hp-halo { animation: hp-halo 2.2s ease-in-out 1.4s infinite; }
 @keyframes hp-dibujar { to { stroke-dashoffset: 0; } }
 @keyframes hp-aparecer { to { opacity: 1; } }
@@ -871,6 +874,7 @@ html.rv .rtm-reveal:not(.is-inview) { opacity: 0; transform: translateY(var(--re
 @media (prefers-reduced-motion: reduce) {
   .hp-animar .hp-linea, .hp-animar .hp-linea-plana, .hp-animar .hp-area, .hp-animar .hp-punto, .hp-animar .hp-halo { animation: none !important; opacity: 1 !important; stroke-dashoffset: 0 !important; transform: none !important; }
   .hp-animar .hp-halo { opacity: .18 !important; }
+  .hp-animar .hp-jeep { animation: none !important; offset-distance: 100% !important; }
 }
 
 /* 17/10/2026: punto «Seguimiento de precio activo» del historial de precios (solo CSS). */

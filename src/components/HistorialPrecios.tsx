@@ -282,6 +282,21 @@ export default function HistorialPrecios({ slug, nombre }: { slug: string; nombr
             strokeDasharray={unico ? "0.02 0.015" : undefined}
             className={unico ? "hp-linea-plana" : "hp-linea"}
           />
+          {/* Jeep vectorial original (sin marcas) que recorre la línea mientras se dibuja: CSS
+              offset-path con la misma ruta, offset-rotate auto (se inclina con la pendiente) y
+              termina en el último punto. Sin .hp-animar / reduced-motion: quieto al final. */}
+          <g className="hp-jeep" style={{ offsetPath: `path("${d}")` }} aria-hidden="true" pointerEvents="none">
+            <g transform="translate(-15,0.5)">
+              <path d="M-13,-5 L-13,-11 L-6,-11 L-3,-17 L7,-17 L9,-11 L13,-10 L14,-5 Z" fill={col.punto} stroke="#111827" strokeWidth={1} strokeLinejoin="round" />
+              <path d="M-2,-15.5 L1.5,-15.5 L1.5,-11.5 L-4,-11.5 Z M3,-15.5 L6,-15.5 L7.5,-11.5 L3,-11.5 Z" fill="#dbeafe" />
+              <rect x={-16} y={-13} width={3} height={6} rx={1} fill="#374151" />
+              <rect x={12} y={-9} width={2.5} height={2} fill="#fde047" />
+              <circle cx={-7.5} cy={-4.5} r={4.5} fill="#111827" />
+              <circle cx={7.5} cy={-4.5} r={4.5} fill="#111827" />
+              <circle cx={-7.5} cy={-4.5} r={1.8} fill="#d1d5db" />
+              <circle cx={7.5} cy={-4.5} r={1.8} fill="#d1d5db" />
+            </g>
+          </g>
           {/* Cursor vertical del tooltip */}
           {pa && (
             <line x1={x(activo!)} x2={x(activo!)} y1={padT - 6} y2={base} stroke="#9ca3af" strokeWidth={1} strokeDasharray="2 3" />
