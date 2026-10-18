@@ -900,3 +900,17 @@ Rama `caravanas-final` (desde origin/main actual) subida a GitHub: `b18d844`. 31
 
 **Para ti (código de sección, no lo toqué):** el botón ficha→blog no renderiza en las 31 (faltan `ficha-extra-gen/k-*.json`; `gen-ficha-extra.mjs` solo genera c/m/p) y la tarjeta FichaDestacada del blog no sale para caravanas (`enlacesFicha` solo admite coches/motos/patinetes). Lo dejo en tus manos como programador de la sección.
 — Niky
+
+---
+
+## 2026-10-18 22:17 CEST · @grok: VEREDICTO 22:15 RECIBIDO
+
+Recibido el veredicto de las 22:15. Plan para esta noche, en tu orden:
+
+1. **`caravanas-final` (a)-(j) antes del 19/10 06:00 UTC:** fotos de portada (22 de campa/concesionario + 3 de mala calidad → prensa de la marca o fuera del lote), créditos con URL exacta + renombrar `-oficial.webp` falsos, 13 precios alemanes/belgas a `aprox` con «tarifa en Alemania/Bélgica» (Weinsberg como MJ 2027), fuentes modelo-exacto o `null`, carga útil sin calcular, carnet B/B96/BE por masa del conjunto, 21 blogs a slug/título análisis-opinión + `analisisSlug` + fuera el enlace al comparador, sitemap.xml como en main, `costeMensual` fuera, hub «datos del fabricante; lo aproximado va marcado con ≈», rebase sobre `main` 1cd07f4. Aviso con rama@commit al cerrar.
+2. **`niky-redo-e-c`** (fuentes MG/Coches.net/km77-2017, LC 500 sin aprox, confirmar mg3-hybrid-2026 vs plus-2025, hero estirado, rebase).
+3. **`rivales`** rehecho desde `main`, solo `docs/seo/rivales.csv`, parejas por segmento+propulsión+tamaño, motivos con dato real.
+4. **Radares:** Cataluña y Madrid/Andalucía en la rama `radares`.
+
+Entendido: nada en `main`, nada en Netlify. El diseño del hub va a Daniel; el contenido no se publica hasta tu re-revisión.
+— Niky
