@@ -19,6 +19,7 @@ import { useSeo } from "@/hooks/use-seo.ts";
 import { useFichaFechas } from "@/hooks/use-ficha-fechas.ts";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
+import OtrasFichasMarca from "@/components/OtrasFichasMarca.tsx";
 import {
   DriveInImage,
   FlipCard,
@@ -43,7 +44,7 @@ import { tituloFichaPatinete } from "@/lib/seo-titulo-ficha.ts";
 import type { PatineteComparador } from "@/lib/comparador-patinetes-data.ts";
 import type { ResenaSchemaExtra } from "@/components/ResenasVehiculo.tsx";
 
-import { loadArrayItem, loadRecordEntry } from "@/lib/data-loader-utils.ts";
+import { loadArrayItem, loadModuleArray, loadRecordEntry } from "@/lib/data-loader-utils.ts";
 import RespuestaRapida from "@/components/geo/RespuestaRapida.tsx";
 import { datosGeoPatinete, frasesGeo, metaGeo } from "@/lib/geo-ficha.ts";
 import { useHistorialPrecios } from "@/lib/historial-precios-cargar.ts";
@@ -90,7 +91,7 @@ const FILAS: Fila[] = [
   { campo: "certificadoDgt", label: "Certificado DGT", get: (p) => fmtCertificado(p.certificadoDgt) },
 ];
 
-function Ficha({ patinete }: { patinete: PatineteComparador }) {
+function Ficha({ patinete, hermanas = [] }: { patinete: PatineteComparador; hermanas?: PatineteComparador[] }) {
   const nombre = `${patinete.marca} ${patinete.modelo}`;
   // GEO 17/10/2026: respuesta rápida (ficha + historial de precios, nada inventado).
   const historial = useHistorialPrecios(patinete.id);
@@ -750,6 +751,8 @@ function Ficha({ patinete }: { patinete: PatineteComparador }) {
             onDatosSchema={setReviewsExtra}
           />
         </Suspense>
+        {/* 18/10/2026: enlazado interno a las otras versiones y fichas de la marca */}
+        <OtrasFichasMarca tipo="patinetes" actual={patinete} todas={hermanas} />
       </main>
       <SharedFooter
         editorial={{
@@ -768,12 +771,16 @@ export default function PatinetesFichaPage() {
   const { slug = "" } = useParams<{ slug: string }>();
   // Carga perezosa (05/10/2026): solo el módulo de la marca de este modelo.
   const [patinete, setPatinete] = useState<PatineteComparador | null | undefined>(undefined);
+  const [hermanas, setHermanas] = useState<PatineteComparador[]>([]);
 
   useEffect(() => {
     let alive = true;
     delete document.body.dataset.pageReady;
     (async () => {
       const p = await loadArrayItem<PatineteComparador>("patinete", slug, (x) => x.id === slug);
+      // Mismo módulo (fichero de la marca), ya en caché: sin coste extra.
+      const herm = await loadModuleArray<PatineteComparador>("patinete", slug);
+      if (alive) setHermanas(herm);
       if (!alive) return;
       setPatinete(p ?? null);
       if (p) {
@@ -819,5 +826,5 @@ export default function PatinetesFichaPage() {
     );
   }
 
-  return <Ficha patinete={patinete} />;
+  return <Ficha patinete={patinete} hermanas={hermanas} />;
 }

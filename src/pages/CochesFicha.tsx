@@ -23,6 +23,7 @@ import { ANALISIS_COCHES } from "@/lib/analisis-slugs.generated";
 const BLOG_SLUGS = new Set(BLOG_LITE.map((p) => p.slug));
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
+import OtrasFichasMarca from "@/components/OtrasFichasMarca.tsx";
 import {
   DriveInImage,
   FlipCard,
@@ -50,7 +51,7 @@ import { tituloFichaCoche } from "@/lib/seo-titulo-ficha.ts";
 import type { CocheComparador } from "@/lib/comparador-coches-data.ts";
 import type { ResenaSchemaExtra } from "@/components/ResenasVehiculo.tsx";
 
-import { loadArrayItem, loadRecordEntry } from "@/lib/data-loader-utils.ts";
+import { loadArrayItem, loadModuleArray, loadRecordEntry } from "@/lib/data-loader-utils.ts";
 import RespuestaRapida from "@/components/geo/RespuestaRapida.tsx";
 import { datosGeoCoche, frasesGeo, metaGeo } from "@/lib/geo-ficha.ts";
 import { useHistorialPrecios } from "@/lib/historial-precios-cargar.ts";
@@ -179,7 +180,7 @@ const FILAS: Fila[] = [
   },
 ];
 
-function Ficha({ coche }: { coche: CocheComparador }) {
+function Ficha({ coche, hermanas = [] }: { coche: CocheComparador; hermanas?: CocheComparador[] }) {
   const nombre = `${coche.marca} ${coche.modelo}`;
   // GEO 17/10/2026: respuesta rápida (ficha + historial de precios, nada inventado).
   const historial = useHistorialPrecios(coche.id);
@@ -1143,6 +1144,8 @@ function Ficha({ coche }: { coche: CocheComparador }) {
             onDatosSchema={setReviewsExtra}
           />
         </Suspense>
+        {/* 18/10/2026: enlazado interno a las otras versiones y fichas de la marca */}
+        <OtrasFichasMarca tipo="coches" actual={coche} todas={hermanas} />
       </main>
       <SharedFooter
         editorial={{
@@ -1165,12 +1168,16 @@ export default function CochesFichaPage() {
   // en paralelo para que el prerender las capture (los componentes hijos las
   // leen de la caché del dynamic import).
   const [coche, setCoche] = useState<CocheComparador | null | undefined>(undefined);
+  const [hermanas, setHermanas] = useState<CocheComparador[]>([]);
 
   useEffect(() => {
     let alive = true;
     delete document.body.dataset.pageReady;
     (async () => {
       const c = await loadArrayItem<CocheComparador>("coche", slug, (x) => x.id === slug);
+      // Mismo módulo (fichero de la marca), ya en caché: sin coste extra.
+      const herm = await loadModuleArray<CocheComparador>("coche", slug);
+      if (alive) setHermanas(herm);
       if (!alive) return;
       setCoche(c ?? null);
       if (c) {
@@ -1216,5 +1223,5 @@ export default function CochesFichaPage() {
     );
   }
 
-  return <Ficha coche={coche} />;
+  return <Ficha coche={coche} hermanas={hermanas} />;
 }

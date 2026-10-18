@@ -19,6 +19,7 @@ import { useSeo } from "@/hooks/use-seo.ts";
 import { useFichaFechas } from "@/hooks/use-ficha-fechas.ts";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
+import OtrasFichasMarca from "@/components/OtrasFichasMarca.tsx";
 import {
   DriveInImage,
   FlipCard,
@@ -37,7 +38,7 @@ import { tituloFichaMoto } from "@/lib/seo-titulo-ficha.ts";
 import type { MotoComparador } from "@/lib/comparador-motos-data.ts";
 import type { ResenaSchemaExtra } from "@/components/ResenasVehiculo.tsx";
 
-import { loadArrayItem, loadRecordEntry } from "@/lib/data-loader-utils.ts";
+import { loadArrayItem, loadModuleArray, loadRecordEntry } from "@/lib/data-loader-utils.ts";
 import RespuestaRapida from "@/components/geo/RespuestaRapida.tsx";
 import { datosGeoMoto, frasesGeo, metaGeo } from "@/lib/geo-ficha.ts";
 import { useHistorialPrecios } from "@/lib/historial-precios-cargar.ts";
@@ -99,7 +100,7 @@ const FILAS: Fila[] = [
   { campo: "etiquetaDgt", label: "Etiqueta DGT", get: (m) => m.etiquetaDgt || "—" },
 ];
 
-function Ficha({ moto }: { moto: MotoComparador }) {
+function Ficha({ moto, hermanas = [] }: { moto: MotoComparador; hermanas?: MotoComparador[] }) {
   const nombre = `${moto.marca} ${moto.modelo}`.replace(/:+$/, "").trim();
   // GEO 17/10/2026: respuesta rápida (ficha + historial de precios, nada inventado).
   const historial = useHistorialPrecios(moto.id);
@@ -834,6 +835,8 @@ function Ficha({ moto }: { moto: MotoComparador }) {
             onDatosSchema={setReviewsExtra}
           />
         </Suspense>
+        {/* 18/10/2026: enlazado interno a las otras versiones y fichas de la marca */}
+        <OtrasFichasMarca tipo="motos" actual={moto} todas={hermanas} />
       </main>
       <SharedFooter
         editorial={{
@@ -870,12 +873,16 @@ export default function MotosFichaPage() {
   const { slug = "" } = useParams<{ slug: string }>();
   // Carga perezosa (05/10/2026): solo el módulo de la marca de este modelo.
   const [moto, setMoto] = useState<MotoComparador | null | undefined>(undefined);
+  const [hermanas, setHermanas] = useState<MotoComparador[]>([]);
 
   useEffect(() => {
     let alive = true;
     delete document.body.dataset.pageReady;
     (async () => {
       const m = await loadArrayItem<MotoComparador>("moto", slug, (x) => x.id === slug);
+      // Mismo módulo (fichero de la marca), ya en caché: sin coste extra.
+      const herm = await loadModuleArray<MotoComparador>("moto", slug);
+      if (alive) setHermanas(herm);
       if (!alive) return;
       setMoto(m ?? null);
       if (m) {
@@ -921,5 +928,5 @@ export default function MotosFichaPage() {
     );
   }
 
-  return <Ficha moto={moto} />;
+  return <Ficha moto={moto} hermanas={hermanas} />;
 }
