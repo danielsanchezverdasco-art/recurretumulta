@@ -1,7 +1,12 @@
 // Autocaravanas Hymer — lote Merlín 1 (18/10/2026).
 // Datos verificados: hymer.com (web oficial; precios PVP recomendado Alemania, pueden diferir en España),
-// outandaboutlive.co.uk (prensa especializada), alpacacamping.de.
+// outandaboutlive.co.uk (prensa especializada), alpacacamping.de, fichas de catálogo 2026 de la red oficial.
 // Precios "desde" orientativos para España marcados en "aprox".
+// NOTA ML-T 580 4x4: la tracción total exige la variante de peso de 4.100 kg (opcional 4.430 kg),
+// por lo que esta versión necesita carnet C1 (la ML-T 580 de tracción simple sí va con B).
+// En el año modelo 2026 Hymer ofrece la versión 4x4 también como edición especial «ML-T 580 CrossTrail»
+// (desde 165.900 € en Alemania, hymer.com): el precio "desde" de la ficha se toma de esa edición,
+// único PVP oficial publicado por Hymer para el ML-T 580 4x4 en MY2026.
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
 import type { CocheComparador } from "./comparador-coches-data.ts";
 
@@ -213,5 +218,110 @@ export const AUTOCARAVANAS_HYMER_M1: CocheComparador[] = [
     euroncap: null,
     fuenteNombre: "Hymer (web oficial)",
     fuenteUrl: "https://www.hymer.com/de/en/motorhomes/class-a-motorhomes",
+  },
+  {
+    id: "hymer-ml-t-580-4x4-2026-precio-ficha-tecnica",
+    marca: "Hymer",
+    modelo: "ML-T 580 4x4",
+    tipo: "Autocaravana perfilada",
+    categoria: "Autocaravana",
+    precioDesde: 165900, // PVP base Alemania de la edición ML-T 580 CrossTrail (MY2026), único precio oficial publicado para la versión 4x4; en España puede diferir
+    potenciaCv: 190, // Mercedes Sprinter 419 CDI (140 kW); también disponible 417 CDI de 170 CV
+    autonomiaKm: null,
+    maleteroL: null,
+    ceroCien: null,
+    velocidadMax: null,
+    bateriaKwh: null,
+    cargaRapidaKw: null,
+    etiquetaDgt: "C",
+    garantiaBateriaAnos: null,
+    garantiaBateriaKm: null,
+    garantiaBateriaDegradacionPct: null,
+    imagen: "/media/hymer-ml-t-580-4x4-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial:
+      "/media/hymer-ml-t-580-4x4-2026-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial:
+      "/media/hymer-ml-t-580-4x4-2026-precio-ficha-tecnica-interior.webp",
+    videoId: null,
+    videoCanal: null,
+    largoMm: 6980,
+    anchoMm: 2220,
+    altoMm: 2920,
+    pesoKg: null, // masa en orden de marcha no publicada por Hymer para esta versión
+    mmaKg: 4100, // la tracción 4x4 exige la variante de peso de 4.100 kg (opcional 4.430 kg)
+    carnetNecesario: "C1",
+    cargaUtilKg: null,
+    consumo: null,
+    consumoUnidad: null,
+    plazas: 3, // 2 plazas de serie (camas gemelas); 3 con cama abatible delantera opcional
+    parNm: null, // no publicado en la documentación oficial consultada
+    traccion: "Total (4x4)",
+    emisionesCo2: null,
+    aprox: ["precioDesde"],
+    pros: [
+      "Tracción total permanente Torque-on-Demand con control de descenso: de las pocas perfiladas premium que se meten en pista sin complejos",
+      "Mercedes Sprinter 419 CDI de 190 CV con cambio automático 9G-Tronic: empuja con solvencia los 4.100 kg del conjunto",
+      "Variante de peso de 4.100 kg de serie en el 4x4 (ampliable a 4.430 kg): la carga útil no se evapora con el equipamiento off-road",
+      "Camas gemelas traseras convertibles en doble + cama abatible delantera opcional: 3 plazas para dormir con el garaje intacto",
+      "Edición CrossTrail (MY2026): 320 Ah de litio, inversor de 1.800 W, doble panel solar de 95 W, calefacción diésel de 6 kW y router 5G para viajar autosuficiente",
+    ],
+    contras: [
+      "165.900 € de partida en Alemania (edición CrossTrail): el 4x4 cuesta del orden de 48.000 € más que una ML-T de tracción simple",
+      "Con 4.100 kg de MMA exige el carnet C1: adiós al permiso B que basta para la ML-T 580 normal",
+      "2,92 m de alto y neumáticos All-Terrain de 16\": ni garajes ni buena parte de los parkings subterráneos son opción",
+      "El 4x4, el peso y los neumáticos de tacos elevan el consumo frente a la ML-T de tracción simple: hay que planificar repostajes en rutas largas",
+      "Mantenimiento del 4x4 en la red Mercedes y recambios de célula Hymer: fuera de Alemania cualquier reparación tarda más",
+    ],
+    opiniones: [],
+    costeMensual: {
+      costeEnergia100km: 19.2,
+      precioKwh: 0.18,
+      precioGasolinaL: 1.6,
+      seguroTercerosAnual: 700,
+      seguroAmpliadoAnual: 1300,
+      mantenimientoAnual: 650,
+      costeMensualTotal: 355,
+      notas:
+        "Estimación con 12.000 km/año, consumo medio ~12 l/100 km de gasóleo y seguro a todo riesgo. Coste real muy dependiente del uso.",
+      estimado: true,
+    },
+    galeria: [
+      {
+        src: "/media/hymer-ml-t-580-4x4-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Hymer ML-T 580 4x4, vista tres cuartos delantera",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/hymer-ml-t-580-4x4-2026-precio-ficha-tecnica-interior.webp",
+        alt: "Interior de la Hymer ML-T 580 4x4, salón y camas gemelas",
+        ancho: 1200,
+        alto: 800,
+      },
+    ],
+    analisisSlug: "hymer-ml-t-580-4x4-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo:
+        "Mercedes Sprinter: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Mercedes-Benz)",
+      revisiones: [
+        {
+          nombre: "Revisión Mercedes Sprinter (2 años / 40.000 km)",
+          queSeCambia:
+            "Aceite + filtro de aceite + filtro de aire + inspección general",
+          costeAproxEur: 450,
+        },
+        {
+          nombre: "Revisión célula Hymer (anual recomendada)",
+          queSeCambia:
+            "Estanqueidad, gas, electricidad, humedades y prueba de calefacción",
+          costeAproxEur: 250,
+        },
+      ],
+      costeAnualAproxEur: 700,
+      fuente: "Plan de mantenimiento Mercedes-Benz Sprinter + recomendaciones Hymer",
+    },
+    euroncap: null,
+    fuenteNombre: "Hymer (web oficial) + fichas de catálogo 2026 de la red oficial",
+    fuenteUrl: "https://www.hymer.com/de/en/home/hymer-ml-t-580-crosstrail/p/3594259",
   },
 ];
