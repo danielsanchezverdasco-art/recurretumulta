@@ -8,6 +8,9 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "ac-cobra-gt-roadster-2025-precio-ficha-tecnica": () => import("../blog-posts-lote4.ts"),
     "acer-es-series-5-advance": () => import("../blog-posts-patinetes-exp-p10.ts"),
     "adelantar-ciclistas-nueva-norma-octubre": () => import("../blog-posts-db.ts"),
+    "adria-action-361-lh-2026-precio-ficha-tecnica": () => import("../blog-posts-caravanas-lote1.ts"),
+    "adria-altea-542-pk-2026-precio-ficha-tecnica": () => import("../blog-posts-caravanas-lote4.ts"),
+    "adria-aviva-522-pt-2026-precio-ficha-tecnica": () => import("../blog-posts-caravanas-lote1.ts"),
     "adria-matrix-supreme-2026-precio-autocaravana": () => import("../blog-posts-lote16.ts"),
     "aion-lx-plus-2024-precio-ficha-tecnica": () => import("../blog-posts-aion-a.ts"),
     "aion-ray7-2026-precio-ficha-tecnica": () => import("../blog-posts-aion-a.ts"),
@@ -542,6 +545,11 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "aprilia-esr2": () => import("../comparador-patinetes-base.ts"),
     "aprilia-esr2-evo": () => import("../comparador-patinetes-exp-p10.ts"),
     "aprilia-esrz": () => import("../comparador-patinetes-exp-p11.ts"),
+  },
+  caravana: {
+    "adria-action-361-lh-2026-precio-ficha-tecnica": () => import("../comparador-caravanas-adria.ts"),
+    "adria-altea-542-pk-2026-precio-ficha-tecnica": () => import("../comparador-caravanas-adria.ts"),
+    "adria-aviva-522-pt-2026-precio-ficha-tecnica": () => import("../comparador-caravanas-adria.ts"),
   },
   historia: {
     "abarth-500e-2025-precio-ficha-tecnica": () => import("../historia-exp10.ts"),

@@ -9,6 +9,7 @@ export type DataDomain =
   | "coche"
   | "moto"
   | "patinete"
+  | "caravana" // 18/10/2026 (sección /caravanas/): misma lógica que "coche"
   | "historia"
   | "euroncap"
   | "galeria"

@@ -27,6 +27,8 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "fb-mondial-imola-125-2026-precio-ficha-tecnica": () => import("../blog-posts-lote10.ts"),
     "fb-mondial-piega-125-precio": () => import("../blog-posts-lote14.ts"),
     "felo-fw-06-2025-ficha-tecnica-precio": () => import("../blog-posts-lote9.ts"),
+    "fendt-bianco-activ-550-sd-2026-precio-ficha-tecnica": () => import("../blog-posts-caravanas-lote1.ts"),
+    "fendt-bianco-selection-515-sg-2026-precio-ficha-tecnica": () => import("../blog-posts-caravanas-lote4.ts"),
     "ferrari-12cilindri-2025-precio-ficha-tecnica": () => import("../blog-posts-ferrari-a.ts"),
     "ferrari-12cilindri-manuale-2026-precio-ficha-tecnica": () => import("../blog-posts-ferrari-a.ts"),
     "ferrari-12cilindri-spider-2025-precio-ficha-tecnica": () => import("../blog-posts-ferrari-a.ts"),
@@ -142,7 +144,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "foton-general-g9-2026-precio-ficha-tecnica": () => import("../blog-posts-lote6.ts"),
     "foton-tunland-v7-2025-precio-ficha-tecnica": () => import("../blog-posts-lote2.ts"),
     "francia-retira-carnet-movil-al-volante": () => import("../blog-posts-flash-2026.ts"),
-    "frenar-antes-radar-multa-600-euros": () => import("../blog-posts-octubre-2026.ts"),
+    "frenar-antes-radar-multa-200-euros": () => import("../blog-posts-octubre-2026.ts"),
   },
   coche: {
     "fangchengbao-bao-3-2025-precio-ficha-tecnica": () => import("../comparador-coches-lote11.ts"),
@@ -293,6 +295,10 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "fiat-500-iride": () => import("../comparador-patinetes-exp-p10.ts"),
     "fluid-horizon": () => import("../comparador-patinetes-prioridad-20261014.ts"),
     "fluid-mosquito": () => import("../comparador-patinetes-prioridad-20261014.ts"),
+  },
+  caravana: {
+    "fendt-bianco-activ-550-sd-2026-precio-ficha-tecnica": () => import("../comparador-caravanas-fendt.ts"),
+    "fendt-bianco-selection-515-sg-2026-precio-ficha-tecnica": () => import("../comparador-caravanas-fendt.ts"),
   },
   historia: {
     "fangchengbao-tai-3-2025-precio-ficha-tecnica": () => import("../historia-lote2.ts"),

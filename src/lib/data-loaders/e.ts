@@ -39,6 +39,9 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "energica-ego-plus-2025-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "energica-eva-esseesse9-plus-2025-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "entornos-escolares-seguros-octubre": () => import("../blog-posts-db.ts"),
+    "eriba-feeling-425-2026-precio-ficha-tecnica": () => import("../blog-posts-caravanas-lote3.ts"),
+    "eriba-touring-530-2026-precio-ficha-tecnica": () => import("../blog-posts-caravanas-lote1.ts"),
+    "eriba-touring-542-2026-precio-ficha-tecnica": () => import("../blog-posts-caravanas-lote1.ts"),
     "etwow-booster-plus-s": () => import("../blog-posts-patinetes-exp-p9.ts"),
     "etwow-booster-sport": () => import("../blog-posts-patinetes-exp-p9.ts"),
     "etwow-gt-se": () => import("../blog-posts-patinetes-exp-p4.ts"),
@@ -164,6 +167,11 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "evercross-h5": () => import("../comparador-patinetes-exp-p4.ts"),
     "evercross-h7": () => import("../comparador-patinetes-exp-p4.ts"),
     "evercross-h9": () => import("../comparador-patinetes-exp-p4.ts"),
+  },
+  caravana: {
+    "eriba-feeling-425-2026-precio-ficha-tecnica": () => import("../comparador-caravanas-eriba.ts"),
+    "eriba-touring-530-2026-precio-ficha-tecnica": () => import("../comparador-caravanas-eriba.ts"),
+    "eriba-touring-542-2026-precio-ficha-tecnica": () => import("../comparador-caravanas-eriba.ts"),
   },
   historia: {
     "ebro-s400-2025-precio-ficha-tecnica": () => import("../historia-exp11.ts"),

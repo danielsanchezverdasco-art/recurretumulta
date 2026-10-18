@@ -2,6 +2,7 @@
 // Loaders de import() dinámico para slugs que empiezan por "t".
 export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
   blog: {
+    "tabbert-senara-490-td-2026-precio-ficha-tecnica": () => import("../blog-posts-caravanas-lote4.ts"),
     "tabla-multas-exceso-velocidad-2026": () => import("../blog-posts-longtail-1.ts"),
     "talaria-sting-r-mx4-2025-ficha-tecnica-precio": () => import("../blog-posts-lote9.ts"),
     "talaria-sting-rmx5-pro-2025-ficha-tecnica-precio": () => import("../blog-posts-lote9.ts"),
@@ -338,6 +339,9 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "turboant-x7": () => import("../comparador-patinetes-exp-p9.ts"),
     "turboant-x7-max": () => import("../comparador-patinetes-exp-p4.ts"),
     "turboant-x7-pro": () => import("../comparador-patinetes-base.ts"),
+  },
+  caravana: {
+    "tabbert-senara-490-td-2026-precio-ficha-tecnica": () => import("../comparador-caravanas-tabbert.ts"),
   },
   historia: {
     "talaria-sting-r-mx4-2025-ficha-tecnica-precio": () => import("../historia-lote9.ts"),

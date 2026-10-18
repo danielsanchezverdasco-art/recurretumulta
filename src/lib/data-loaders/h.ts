@@ -54,6 +54,9 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "hiley-tiger-10-pro": () => import("../blog-posts-patinetes-exp-p6.ts"),
     "hiley-tiger-8-gtr-v4": () => import("../blog-posts-patinetes-exp-p6.ts"),
     "hiley-tiger-supra-pro": () => import("../blog-posts-patinetes-exp-p6.ts"),
+    "hobby-de-luxe-540-ul-2026-precio-ficha-tecnica": () => import("../blog-posts-caravanas-lote1.ts"),
+    "hobby-ontour-390-sf-2026-precio-ficha-tecnica": () => import("../blog-posts-caravanas-lote4.ts"),
+    "hobby-prestige-560-ul-2026-precio-ficha-tecnica": () => import("../blog-posts-caravanas-lote1.ts"),
     "hobby-vantana-2026-precio-camper": () => import("../blog-posts-lote16.ts"),
     "homologacion-camper-y-caravanas-en-espana-vacios-legales-itv-y-como-evitar-multas-de-la-dgt": () => import("../blog-posts-db.ts"),
     "honda-accord-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
@@ -601,6 +604,11 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "hiley-tiger-evo-gtr": () => import("../comparador-patinetes-exp-p12.ts"),
     "hiley-tiger-king-rs": () => import("../comparador-patinetes-exp-p12.ts"),
     "hiley-tiger-supra-pro": () => import("../comparador-patinetes-exp-p6.ts"),
+  },
+  caravana: {
+    "hobby-de-luxe-540-ul-2026-precio-ficha-tecnica": () => import("../comparador-caravanas-hobby.ts"),
+    "hobby-ontour-390-sf-2026-precio-ficha-tecnica": () => import("../comparador-caravanas-hobby.ts"),
+    "hobby-prestige-560-ul-2026-precio-ficha-tecnica": () => import("../comparador-caravanas-hobby.ts"),
   },
   historia: {
     "haima-7x-2026-precio-ficha-tecnica": () => import("../historia-lote6.ts"),

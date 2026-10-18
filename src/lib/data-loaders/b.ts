@@ -253,6 +253,10 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "buick-gl8-2025-precio-ficha-tecnica": () => import("../blog-posts-lote5.ts"),
     "bullit-hero-125-2026-precio-ficha-tecnica": () => import("../blog-posts-lote10.ts"),
     "bultaco-brinco-2026-precio-ficha-tecnica": () => import("../blog-posts-lote10.ts"),
+    "burstner-averso-535-tl-2026-precio-ficha-tecnica": () => import("../blog-posts-caravanas-lote1.ts"),
+    "burstner-premio-life-415-tk-2026-precio-ficha-tecnica": () => import("../blog-posts-caravanas-lote3.ts"),
+    "burstner-premio-life-480-ts-2026-precio-ficha-tecnica": () => import("../blog-posts-caravanas-lote1.ts"),
+    "burstner-premio-plus-510-tk-2026-precio-ficha-tecnica": () => import("../blog-posts-caravanas-lote3.ts"),
     "byd-atto-2-dm-i-2026-precio-ficha-tecnica": () => import("../blog-posts-nuevos-c1.ts"),
     "byd-atto-2-precio-ficha-tecnica": () => import("../blog-posts-motor-chinos-b.ts"),
     "byd-atto-2-vs-jaecoo-5-cual-comprar": () => import("../blog-posts-duelos.ts"),
@@ -659,6 +663,12 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "bronco-xtreme-11": () => import("../comparador-patinetes-exp-p4.ts"),
     "bronco-xtreme-sport": () => import("../comparador-patinetes-exp-p11.ts"),
     "bronco-xtreme-vnom-11": () => import("../comparador-patinetes-exp-p4.ts"),
+  },
+  caravana: {
+    "burstner-averso-535-tl-2026-precio-ficha-tecnica": () => import("../comparador-caravanas-burstner.ts"),
+    "burstner-premio-life-415-tk-2026-precio-ficha-tecnica": () => import("../comparador-caravanas-burstner.ts"),
+    "burstner-premio-life-480-ts-2026-precio-ficha-tecnica": () => import("../comparador-caravanas-burstner.ts"),
+    "burstner-premio-plus-510-tk-2026-precio-ficha-tecnica": () => import("../comparador-caravanas-burstner.ts"),
   },
   historia: {
     "baic-bj40-pro-2026-precio-ficha-tecnica": () => import("../historia-lote2.ts"),

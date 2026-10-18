@@ -141,6 +141,9 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "kia-tasman-2025-precio-ficha": () => import("../blog-posts-lote13.ts"),
     "kia-xceed-15-mhev-2025-precio-ficha-tecnica": () => import("../blog-posts-kia-a.ts"),
     "kia-xceed-phev-2025-precio-ficha-tecnica": () => import("../blog-posts-kia-a.ts"),
+    "knaus-sport-450-fu-2026-precio-ficha-tecnica": () => import("../blog-posts-caravanas-lote1.ts"),
+    "knaus-sport-500-qdk-2026-precio-ficha-tecnica": () => import("../blog-posts-caravanas-lote1.ts"),
+    "knaus-suedwind-500-fu-2026-precio-ficha-tecnica": () => import("../blog-posts-caravanas-lote4.ts"),
     "koenigsegg-gemera-2025-precio-ficha-tecnica": () => import("../blog-posts-lote4.ts"),
     "kove-450-rally-2026-ficha-tecnica-precio": () => import("../blog-posts-lote7.ts"),
     "kove-450rr-2024-precio": () => import("../blog-posts-motos-exp-m27.ts"),
@@ -519,6 +522,11 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "kukirin-m4-max": () => import("../comparador-patinetes-exp-p3.ts"),
     "kukirin-m5-pro": () => import("../comparador-patinetes-exp-p3.ts"),
     "kukirin-s1-max": () => import("../comparador-patinetes-exp-p3.ts"),
+  },
+  caravana: {
+    "knaus-sport-450-fu-2026-precio-ficha-tecnica": () => import("../comparador-caravanas-knaus.ts"),
+    "knaus-sport-500-qdk-2026-precio-ficha-tecnica": () => import("../comparador-caravanas-knaus.ts"),
+    "knaus-suedwind-500-fu-2026-precio-ficha-tecnica": () => import("../comparador-caravanas-knaus.ts"),
   },
   historia: {
     "kaiyi-e5-2024-precio-ficha-tecnica": () => import("../historia-lote2.ts"),
