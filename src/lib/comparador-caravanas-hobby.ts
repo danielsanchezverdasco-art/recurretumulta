@@ -2,7 +2,10 @@
 // Datos verificados: Hobby (web oficial) + exposé oficial del modelo 2026
 // (1.475 kg en orden de marcha, MMA 1.800 kg con Auflastung opcional,
 // carga útil 325 kg). Precio orientativo de lista de distribuidor
-// (marcado en "aprox"). Las caravanas no llevan etiqueta DGT.
+// (marcado en "aprox"). Hobby no publica PVP oficial en EUR: la web oficial
+// suiza (hobby-caravan.de/ch_de) lista 27.220 CHF (~29.400 € al cambio del
+// 18/10/2026); los 34.500 € son precio orientativo de lista de distribuidor
+// en Alemania. Las caravanas no llevan etiqueta DGT.
 // Fotos: reales del modelo exacto, verificadas visualmente; son de
 // distribuidores, NO del press kit oficial (sin "-oficial").
 import type { CocheComparador } from "./comparador-coches-data.ts";
@@ -38,19 +41,23 @@ export const CARAVANAS_HOBBY: CocheComparador[] = [
     anchoMm: 2300,
     altoMm: 2640,
     pesoKg: 1475,
+    mmaKg: 1800,
+    carnetNecesario: "B96",
+    cargaUtilKg: 325,
     consumo: null,
     consumoUnidad: null,
     plazas: 4,
     parNm: null,
     traccion: null,
     emisionesCo2: null,
-    // MMA 1.800 kg con Auflastung opcional (exposé oficial); carnet B con el
-    // coche adecuado (conjunto ≤3.500 kg). Carga útil 325 kg (1.800 − 1.475 kg).
+    // MMA 1.800 kg con Auflastung opcional (exposé de distribuidor); carnet
+    // B96 (B solo con coches de MMA ≤1.700 kg). Carga útil 325 kg
+    // (1.800 − 1.475 kg).
     aprox: ["precioDesde", "pesoKg"],
     pros: [
       "De una de las marcas de caravanas más vendidas de Europa: red de servicio y repuestos imbatible",
       "Camas individuales traseras + salón convertible: 4 plazas sin literas",
-      "1.800 kg de MMA (con aumento de carga opcional) en un solo eje: con el coche adecuado, carnet B",
+      "1.800 kg de MMA (con aumento de carga opcional) en un solo eje: carnet B96 (B solo con coches de MMA ≤1.700 kg)",
       "Altura interior de 1,95 m y gran sensación de espacio",
       "Garantía de estanqueidad de 5 años",
     ],
@@ -110,7 +117,7 @@ export const CARAVANAS_HOBBY: CocheComparador[] = [
       fuente: "Recomendaciones Hobby + red de distribuidores",
     },
     euroncap: null,
-    fuenteNombre: "Hobby (web oficial) + exposé oficial del modelo 2026",
+    fuenteNombre: "Hobby (web oficial, ed. Suiza: 27.220 CHF) + exposé de distribuidor del modelo 2026",
     fuenteUrl: "https://www.hobby-caravan.de/ch_de/wohnwagen/de-luxe/540-ul/",
   },
 
@@ -133,9 +140,9 @@ export const CARAVANAS_HOBBY: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagen:
-      "/media/hobby-prestige-560-ul-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/hobby-prestige-560-ul-2026-precio-ficha-tecnica-tecnica.webp",
     imagenOficial:
-      "/media/hobby-prestige-560-ul-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/hobby-prestige-560-ul-2026-precio-ficha-tecnica-tecnica.webp",
     imagenInteriorOficial:
       "/media/hobby-prestige-560-ul-2026-precio-ficha-tecnica-interior-oficial.webp",
     videoId: null,
@@ -144,6 +151,9 @@ export const CARAVANAS_HOBBY: CocheComparador[] = [
     anchoMm: 2500,
     altoMm: 2650,
     pesoKg: 1508,
+    mmaKg: 2000,
+    carnetNecesario: "B96",
+    cargaUtilKg: 492,
     consumo: null,
     consumoUnidad: null,
     plazas: 4,
@@ -156,7 +166,7 @@ export const CARAVANAS_HOBBY: CocheComparador[] = [
       "Truma Combi 6 y nevera de 157 L: equipamiento de gama alta de serie",
       "Baño trasero con ducha separada: privacidad total en una caravana de un eje",
       "Garantía de estanqueidad de 5 años: la mejor del segmento",
-      "2.000 kg de MMA con un solo eje: remolcable con carnet B y coche medio",
+      "2.000 kg de MMA con un solo eje: carnet B96 (B solo con coches de MMA ≤1.500 kg)",
     ],
     contras: [
       "7,57 m de largo total: exige experiencia remolcando y sitio para guardarla",
@@ -180,7 +190,7 @@ export const CARAVANAS_HOBBY: CocheComparador[] = [
     },
     galeria: [
       {
-        src: "/media/hobby-prestige-560-ul-2026-precio-ficha-tecnica-oficial-2.webp",
+        src: "/media/hobby-prestige-560-ul-2026-precio-ficha-tecnica-tecnica-2.webp",
         alt: "Hobby Prestige 560 UL, vista frontal",
         ancho: 1200,
         alto: 800,
@@ -213,12 +223,13 @@ export const CARAVANAS_HOBBY: CocheComparador[] = [
       fuente: "Recomendaciones Hobby + red de concesionarios",
     },
     euroncap: null,
-    fuenteNombre:
-      "Hobby (portal de prensa oficial) + Caravan Center Bocholt (concesionario oficial)",
+    fuenteNombre: "Hobby (portal de prensa oficial)",
     fuenteUrl:
-      "https://www.caravan-center-bocholt.de/fahrzeug/pdf/hobby-prestige-560-wlu-modell-2026-p14t152.pdf",
+      "https://mediaportal.hobby-caravan.de/pressebilder-2025/wohnwagen/prestige/innenaufnahmen/",
   },
 
+  // Precio 21.980 €: Hobby no publica lista oficial de precios; cifra
+  // orientativa de distribuidores (marcada en "aprox").
   {
     id: "hobby-ontour-390-sf-2026-precio-ficha-tecnica",
     marca: "Hobby",
@@ -238,9 +249,9 @@ export const CARAVANAS_HOBBY: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagen:
-      "/media/hobby-ontour-390-sf-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/hobby-ontour-390-sf-2026-precio-ficha-tecnica-tecnica.webp",
     imagenOficial:
-      "/media/hobby-ontour-390-sf-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/hobby-ontour-390-sf-2026-precio-ficha-tecnica-tecnica.webp",
     imagenInteriorOficial:
       "/media/hobby-ontour-390-sf-2026-precio-ficha-tecnica-oficial-3.webp",
     videoId: null,
@@ -288,7 +299,7 @@ export const CARAVANAS_HOBBY: CocheComparador[] = [
     },
     galeria: [
       {
-        src: "/media/hobby-ontour-390-sf-2026-precio-ficha-tecnica-oficial-2.webp",
+        src: "/media/hobby-ontour-390-sf-2026-precio-ficha-tecnica-tecnica-2.webp",
         alt: "Hobby OnTour 390 SF 2026 en concesionario, vista lateral",
         ancho: 1200,
         alto: 800,
@@ -300,7 +311,7 @@ export const CARAVANAS_HOBBY: CocheComparador[] = [
         alto: 800,
       },
       {
-        src: "/media/hobby-ontour-390-sf-2026-precio-ficha-tecnica-oficial.webp",
+        src: "/media/hobby-ontour-390-sf-2026-precio-ficha-tecnica-tecnica.webp",
         alt: "Hobby OnTour 390 SF 2026 en campa, vista trasera",
         ancho: 1200,
         alto: 800,
