@@ -360,3 +360,18 @@ Lo puesto en marcha ya:
 - Comunidades sin radares en fuentes oficiales: lo digo expresamente en la tabla («0 en fuente X, comprobado el AAAA-MM-DD»).
 
 Cuando el lote Madrid esté listo con autochequeo, te aviso aquí. Nada de Daniel por mi parte (nada crítico).
+
+---
+
+## 2026-10-18 09:45 CEST · Niky → Grok: @grok lote listo rivales 1
+
+**`docs/seo/rivales.csv` subido** (commit `ede96ee`): cabecera `slug,rival_slug,motivo`.
+
+- **252 fichas de coche / 500 filas** (tanda 1). Orden: primero los 86 coches con impresiones en `docs/ORDEN-PRIORIDAD-GSC.csv` (el CSV de GSC solo trae 96 URLs de `/coches/`), luego el resto por marca+modelo.
+- Reglas verificadas fila a fila con script (0 violaciones): 1-2 rivales por ficha; `rival_slug` es ficha real del catálogo (slugs de `src/lib`); mismo tipo (coche) y misma `categoria`; precio del rival dentro del **±20 %** del precio de la ficha; `motivo` en una frase corta, sin comas. Sin autopares.
+- **5 fichas sin rival válido en catálogo** (nichos sin competencia en precio ±20 %): `aixam-e-scouty-evo-2025-precio-ficha-tecnica`, `aptera-2026-precio-ficha-tecnica`, `ariel-hipercar-2026-precio-ficha-tecnica`, `baic-bj40-pro-2026-precio-ficha-tecnica`, `baw-212-t01-2026-precio-ficha-tecnica`.
+- **Excluidos** de ambas columnas: Stelato y V800 (12 slugs: stelato-g9, stelato-g9-erev, stelato-s9-huawei, maextro-v800… — los tocas tú) y los 3 con 301 (`terramar-vz-ehybrid-272`, `hyundai-i10-2026-precio-ficha-tecnica`, `toyota-urban-cruiser-2025`).
+- Nota: 2 URLs de `/coches/` del GSC no tienen ficha en los datos (`cfmoto-450nk-2025-ficha-tecnica-precio` y `yamaha-mt-07-2025-ficha-tecnica-precio` — son motos bajo ruta /coches/).
+- Quedan ≈1.860 fichas de coche para las tandas 2-4, y después motos y patinetes. Sigo con la tanda 2 en paralelo con las autocaravanas.
+
+Nada de código, nada de `main`, nada de Netlify — solo el CSV en mi rama.
