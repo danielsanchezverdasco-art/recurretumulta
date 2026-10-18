@@ -769,80 +769,105 @@ Si te ha llegado una multa con tu Maserati, <a href=https://recurretumulta.onlin
 *Fuentes: folleto oficial de Maserati.*`
   },
   {
-    "title": "Quattroporte Modena Q4: precio y ficha",
+    "title": "Maserati Quattroporte Modena Q4: 430 CV por 172.300 €",
     "slug": "maserati-quattroporte-modena-q4-2024-precio-ficha-tecnica",
-    "excerpt": "El Quattroporte Modena Q4: V6 de 430 CV, tracción total y 288 km/h. Ficha técnica de la limusina deportiva.",
+    "excerpt": "El Maserati Quattroporte Modena Q4 cuesta desde 172.300 €: V6 de 430 CV, tracción total Q4 y 288 km/h. Ficha completa.",
     "category": "Novedades Motor",
-    "date": "2026-10-05",
-    "readTime": 6,
+    "date": "2026-10-18",
+    "readTime": 7,
     "locale": "all",
     "keywords": [
       "quattroporte modena q4 precio",
       "maserati quattroporte 430 cv",
       "quattroporte traccion total"
     ],
-    "content": `<img src=/media/maserati-quattroporte-modena-q4-2024-precio-ficha-tecnica-hero.webp alt=Maserati Quattroporte Modena Q4 azul de noche>
+    "content": `<img src=/media/maserati-quattroporte-modena-q4-2024-precio-ficha-tecnica-hero.webp alt=Maserati Quattroporte Modena Q4 gris en estudio, tres cuartos delantero>
+
+*Actualizado el 18/10/2026.*
 
 **¿Buscas solo los datos?** <a href=/coches/maserati-quattroporte-modena-q4-2024-precio-ficha-tecnica/>Ver ficha técnica del Quattroporte Modena Q4</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-El **Maserati Quattroporte Modena Q4** es el Quattroporte para todo el año: V6 3.0 biturbo de **430 CV** y 580 Nm con tracción total, 288 km/h y 0-100 en 4,8 s. Precio no publicado por la marca.
+El **Maserati Quattroporte Modena Q4** cuesta **desde 172.300 €** en España: V6 3.0 biturbo de **430 CV** y 580 Nm, tracción total, **288 km/h** y 0-100 en 4,8 s. Es el Quattroporte para todo el año: el equilibrio justo entre el GT y el Trofeo.
 
 ## Ficha técnica resumida: Quattroporte Modena Q4
 
 | Dato | Valor |
 |---|---|
-| **Precio en España** | No publicado |
-| **Motor** | V6 3.0 biturbo |
+| **Precio en España** | Desde 172.300 € (oficial Maserati) |
+| **Motor** | V6 3.0 biturbo, 2.979 cm³ |
 | **Potencia** | 430 CV (580 Nm) |
 | **Tracción** | Total Q4 |
+| **Cambio** | Automático ZF de 8 velocidades |
 | **0-100 km/h** | 4,8 s |
 | **Velocidad máxima** | 288 km/h |
+| **Consumo WLTP** | 11,4 l/100 km |
+| **Emisiones CO₂** | 258 g/km |
+| **Largo × ancho × alto** | 5.262 × 1.948 × 1.481 mm |
+| **Maletero** | 530 L |
+| **Peso** | 1.920 kg |
 | **Etiqueta DGT** | C |
-| **Plazas** | 5 |
 
 ¿Quieres el detalle completo? <a href=/coches/maserati-quattroporte-modena-q4-2024-precio-ficha-tecnica/>Ficha técnica completa del Quattroporte Modena Q4</a> con pros, contras, costes mensuales y galería.
 
-## El equilibrio perfecto
+## La gama Quattroporte, de menos a más
 
-Entre el <a href=/coches/maserati-quattroporte-gt-2024-precio-ficha-tecnica/>GT</a> (350 CV, trasera) y el <a href=/coches/maserati-quattroporte-trofeo-2024-precio-ficha-tecnica/>Trofeo</a> (V8 580 CV), el Modena Q4 es la compra sensata: 430 CV, tracción total para el invierno y casi 290 km/h.
+| Versión | Potencia | Precio desde |
+|---|---|---|
+| **Modena Q4** | 430 CV | **172.300 €** |
+| Modena Ultima | 430 CV | 196.000 € |
+| Trofeo | 580 CV | 214.750 € |
 
-<img src=/media/maserati-quattroporte-modena-q4-2024-precio-ficha-tecnica-oficial.webp alt=Maserati Quattroporte Modena Q4, vista lateral en estudio>
+Precios oficiales de Maserati España (octubre 2026). El Modena Q4 es la única versión con tracción total.
 
-Lleva etiqueta **C** (<a href=https://www.cupra.com/es-es/hibridos-y-electricos/etiquetas-dgt>criterios de la DGT</a>). <a href=/mejor-coche-por-presupuesto/>Compara berlinas de lujo por presupuesto</a>.
+Entre el <a href=/coches/maserati-quattroporte-gt-2024-precio-ficha-tecnica/>GT</a> (350 CV, trasera) y el <a href=/coches/maserati-quattroporte-trofeo-2024-precio-ficha-tecnica/>Trofeo</a> (V8 580 CV), el Modena Q4 es la compra sensata para quien conduce todo el año: 430 CV, tracción total para el invierno y casi 290 km/h.
+
+<img src=/media/maserati-quattroporte-modena-q4-2024-precio-ficha-tecnica-oficial.webp alt=Maserati Quattroporte Modena Q4 negro en estudio, con insignia Modena>
+
+## EuroNCAP y mantenimiento, sin inventar
+
+**EuroNCAP:** el Quattroporte no ha sido sometido a las pruebas de Euro NCAP: no hay estrellas ni informe publicados. Lo decimos claro en la ficha en vez de inventar una nota.
+
+**Mantenimiento:** según la guía de mantenimiento programado del Manual del propietario, las revisiones son cada **20.000 km o 24 meses** (lo que ocurra antes), con aceite, filtros e inspección completa en servicio oficial. Maserati no publica los costes: en un V6 de este nivel, presupuesta mantenimiento de superlujo.
+
+Lleva etiqueta **C** de la <a href=https://www.dgt.es>DGT</a>. <a href=/mejor-coche-por-presupuesto/>Compara berlinas de lujo por presupuesto</a>.
 
 ## Pros y contras
 
 | ✅ Pros | ❌ Contras |
 |---|---|
-| V6 de 430 CV y 580 Nm | Precio no publicado |
-| Tracción total Q4 | Etiqueta C |
-| 288 km/h y 4,8 s | Consumos sin publicar |
-| El equilibrio de la gama | El Trofeo ofrece 150 CV más |
-| Limusina con alma deportiva | Reventa débil |
+| V6 de 430 CV y 580 Nm | 172.300 € desde |
+| Tracción total Q4 | Consumo WLTP de 11,4 l/100 km |
+| 288 km/h y 4,8 s | Etiqueta C |
+| 5,26 m con 530 L de maletero | Sin prueba EuroNCAP |
+| Interior artesanal italiano | Mantenimiento de superlujo |
 
 ## Preguntas frecuentes
 
-### ¿Qué significa Q4?
-La tracción total de Maserati, con reparto prioritario al eje trasero.
+### ¿Cuánto cuesta el Quattroporte Modena Q4?
+**Desde 172.300 €** según la web oficial de Maserati España (octubre 2026).
 
 ### ¿Qué potencia tiene?
-**430 CV** y 580 Nm.
+**430 CV** y 580 Nm, de un V6 3.0 biturbo.
+
+### ¿Qué significa Q4?
+La **tracción total** de Maserati, con reparto prioritario al eje trasero: el único Quattroporte con las cuatro ruedas motrices.
 
 ### ¿Cuánto acelera de 0-100?
-**4,8 segundos**.
+**4,8 segundos**, con 288 km/h de velocidad máxima.
 
 ### ¿En qué se diferencia del GT?
-80 CV más y tracción total frente a la trasera del GT.
-
-### ¿Sigue a la venta?
-La producción clásica del Quattroporte terminó.
+80 CV más y tracción total Q4 frente a la trasera del GT.
 
 ### ¿Qué etiqueta DGT lleva?
-**C**.
+**Etiqueta C**.
 
 Si te ha llegado una multa con tu Maserati, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: folleto oficial de Maserati.*`
+## Cómo verificamos
+
+Precio (172.300 €), potencia (430 CV), medidas (5.262 × 1.948 × 1.481 mm), consumos WLTP (11,4 l/100 km) y emisiones (258 g/km): web oficial de Maserati España, consultada el 18/10/2026. Peso (1.920 kg), maletero (530 L) y depósito (80 L): ficha técnica independiente. EuroNCAP: sin resultados publicados en euroncap.com (comprobado). Si un dato no tiene fuente, no lo publicamos.
+
+*Fuentes: <a href=https://www.maserati.com/es/es/modelos/quattroporte>maserati.com</a>, <a href=https://www.actualidadmotor.com/coches/maserati/maserati-quattroporte/>actualidadmotor.com</a> y <a href=https://www.dgt.es>DGT</a>.*`
   },
   {
     "title": "Quattroporte Trofeo: 580 CV y 326 km/h",
