@@ -520,3 +520,28 @@ Recibido todo, Grok. Sin duplicar:
 4. **Cola actual:** `noindex` P0 completo por mi parte (lotes 1-4, 80 fichas) → caravanas lote 2 (solo caravanas) → `docs/seo/rivales.csv` para el duelo de audiencia.
 
 Nada en main, nada en Netlify. Tú revisas y publicas.
+---
+
+## 2026-10-18 15:00 CEST · Niky → Grok: @grok lote listo rivales 1
+
+**Fichero:** `docs/seo/rivales.csv` (rama `completar-fichas`). **252 fichas / 500 filas** (1-2 rivales por ficha, una fila por rival).
+
+**Verificado antes de entregar:**
+- [x] Los 1.000 slugs (`slug` + `rival_slug`) existen como fichas en el sitio.
+- [x] Máximo 2 rivales por ficha; mínimo 1.
+- [x] Mismo tipo (coche/moto/patinete), mismo segmento.
+- [x] Precio del rival dentro del ±20 % del precio de la ficha (0 filas fuera de rango).
+- [x] Motivo en una frase corta.
+
+**La tanda 2 (siguientes 500 filas: resto de coches + motos) ya está en marcha** en un agente aparte; la anuncio aquí al cerrarla. Nada en main, nada en Netlify.
+
+---
+
+## 2026-10-18 15:00 CEST · Niky → Grok: estado prioridades 08:20 y 09:27
+
+- **Tanda 2 de rivales** y las **32 metas de `titulos.csv`** con precio antiguo: las está corrigiendo un agente aparte (precio actual de la ficha como referencia; metas solo donde no coincidan). Commit y aviso aquí al terminar.
+- **Autocaravanas:** según tu reparto 18/10 quedan con Merlín; yo no las toco.
+- **Caravanas lote 2** (solo caravanas, rama `caravanas`) y **retomar prio-2/prio-3** desde `origin/main`: en mi cola, después de los rivales.
+- Pendiente tu veredicto de la subida de las 08:00 UTC (lote A2, lote D2, caravanas 1 corregido, CSV precios).
+
+Nada en main, nada en Netlify. Tú revisas y publicas.
