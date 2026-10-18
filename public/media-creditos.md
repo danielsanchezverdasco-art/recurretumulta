@@ -205,22 +205,38 @@
 ## Autocaravanas (lotes Merlín, octubre 2026)
 100 fotos de las 50 fichas de autocaravanas. Fuente y tipo según la auditoría de fuentes 2026-10-18; las 10 fichas de la tanda 1 no tienen URL de origen mapeada (brief de la tanda). Licencia: **no verificada** en ningún caso salvo indicación.
 | Archivo | Fuente | Tipo de fuente | Licencia |
-| /media/adria-twin-supreme-640-sgx-2026-precio-ficha-tecnica-oficial.webp | — (fuente no mapeada) | concesionario / prensa (según brief tanda 1) | no verificada |
-| /media/adria-twin-supreme-640-sgx-2026-precio-ficha-tecnica-interior.webp | — (fuente no mapeada) | concesionario / prensa (según brief tanda 1) | no verificada |
-| /media/adria-coral-plus-670-sl-2026-precio-ficha-tecnica-oficial.webp | caravan24.ch | concesionario / anuncio | no verificada |
-| /media/adria-coral-plus-670-sl-2026-precio-ficha-tecnica-interior.webp | lancastermotorhomesandcaravans.co.uk | concesionario / anuncio | no verificada |
-| /media/ahorncamp-t-690-2026-precio-ficha-tecnica-oficial.webp | kamperomania.pl | concesionario / anuncio | no verificada |
-| /media/ahorncamp-t-690-2026-precio-ficha-tecnica-interior.webp | ahorn-camp.de | concesionario / anuncio | no verificada |
-| /media/bavaria-i740fgj-nomade-2026-precio-ficha-tecnica-oficial.webp | libertium.fr | concesionario / anuncio | no verificada |
-| /media/bavaria-i740fgj-nomade-2026-precio-ficha-tecnica-interior.webp | bavaria-camping-car.com | concesionario / anuncio | no verificada |
-| /media/benimar-mileo-243-2026-precio-ficha-tecnica-oficial.webp | — (fuente no mapeada) | concesionario / prensa (según brief tanda 1) | no verificada |
-| /media/benimar-mileo-243-2026-precio-ficha-tecnica-interior.webp | — (fuente no mapeada) | concesionario / prensa (según brief tanda 1) | no verificada |
-| /media/benimar-amphitryon-940-2026-precio-ficha-tecnica-oficial.webp | opale-evasion.com | concesionario / anuncio | no verificada |
-| /media/benimar-amphitryon-940-2026-precio-ficha-tecnica-interior.webp | opale-evasion.com | concesionario / anuncio | no verificada |
-| /media/benimar-sport-340-up-2026-precio-ficha-tecnica-oficial.webp | slowlifevans.es | concesionario / anuncio | no verificada |
+| /media/adria-coral-plus-670-sl-2026-precio-ficha-tecnica-ext.webp | henkpen.nl | concesionario / anuncio | no verificada |
+| /media/adria-coral-plus-670-sl-2026-precio-ficha-tecnica-interior.webp | reisemobil-international.de | prensa especializada | no verificada |
+| /media/adria-coral-plus-670-sl-2026-precio-ficha-tecnica-interior2.webp | bothniafritid.se | concesionario / anuncio | no verificada |
+| /media/adria-coral-plus-670-sl-2026-precio-ficha-tecnica-detalle.webp | caravan24.ch | concesionario / anuncio | no verificada |
+| /media/adria-twin-supreme-640-sgx-2026-precio-ficha-tecnica-ext.webp | pullingers.co.uk | concesionario / anuncio | no verificada |
+| /media/adria-twin-supreme-640-sgx-2026-precio-ficha-tecnica-interior.webp | caravan24.ch | concesionario / anuncio | no verificada |
+| /media/adria-twin-supreme-640-sgx-2026-precio-ficha-tecnica-interior2.webp | autoscout24.ch | concesionario / anuncio | no verificada |
+| /media/adria-twin-supreme-640-sgx-2026-precio-ficha-tecnica-detalle.webp | autoscout24.ch | concesionario / anuncio | no verificada |
+| /media/ahorncamp-t-690-2026-precio-ficha-tecnica-ext.webp | ahorn-camp.de | prensa del fabricante | no verificada |
+| /media/ahorncamp-t-690-2026-precio-ficha-tecnica-interior.webp | reisemobil-international.de | prensa especializada | no verificada |
+| /media/ahorncamp-t-690-2026-precio-ficha-tecnica-interior2.webp | kamperomania.pl | concesionario / anuncio | no verificada |
+| /media/ahorncamp-t-690-2026-precio-ficha-tecnica-detalle.webp | camperspot.pl | concesionario / anuncio | no verificada |
+| /media/bavaria-i740fgj-nomade-2026-precio-ficha-tecnica-ext.webp | bavaria-camping-car.com | prensa del fabricante | no verificada |
+| /media/bavaria-i740fgj-nomade-2026-precio-ficha-tecnica-interior.webp | libertium.fr | concesionario / anuncio | no verificada |
+| /media/bavaria-i740fgj-nomade-2026-precio-ficha-tecnica-interior2.webp | cyrilethedicampingcar.fr | concesionario / anuncio | no verificada |
+| /media/bavaria-i740fgj-nomade-2026-precio-ficha-tecnica-detalle.webp | libertium.fr | concesionario / anuncio | no verificada |
+| /media/benimar-amphitryon-940-2026-precio-ficha-tecnica-ext.webp | campingcarlesite.com | prensa del fabricante (vía tercero) | no verificada |
+| /media/benimar-amphitryon-940-2026-precio-ficha-tecnica-interior.webp | benimar.es | prensa del fabricante | no verificada |
+| /media/benimar-amphitryon-940-2026-precio-ficha-tecnica-interior2.webp | campingcarlesite.com | prensa del fabricante (vía tercero) | no verificada |
+| /media/benimar-amphitryon-940-2026-precio-ficha-tecnica-detalle.webp | campingcarlesite.com | prensa del fabricante (vía tercero) | no verificada |
+| /media/benimar-mileo-243-2026-precio-ficha-tecnica-ext.webp | andrewjamesmotorhomes.co.uk | concesionario / anuncio | no verificada |
+| /media/benimar-mileo-243-2026-precio-ficha-tecnica-interior.webp | roamworthy.co.uk | concesionario / anuncio | no verificada |
+| /media/benimar-mileo-243-2026-precio-ficha-tecnica-interior2.webp | roamworthy.co.uk | concesionario / anuncio | no verificada |
+| /media/benimar-mileo-243-2026-precio-ficha-tecnica-detalle.webp | gumtree.com | concesionario / anuncio | no verificada |
+| /media/benimar-sport-340-up-2026-precio-ficha-tecnica-ext.webp | kresalacaravan.com | prensa del fabricante (vía tercero) | no verificada |
 | /media/benimar-sport-340-up-2026-precio-ficha-tecnica-interior.webp | caraworld.de | concesionario / anuncio | no verificada |
-| /media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-oficial.webp | suchen.mobile.de | concesionario / anuncio | no verificada |
-| /media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-interior.webp | caravana.de | prensa especializada | no verificada |
+| /media/benimar-sport-340-up-2026-precio-ficha-tecnica-interior2.webp | mycamper.com | concesionario / anuncio | no verificada |
+| /media/benimar-sport-340-up-2026-precio-ficha-tecnica-detalle.webp | automobileschmidt.de | prensa del fabricante (vía tercero) | no verificada |
+| /media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-ext.webp | cranham.co.uk | concesionario / anuncio | no verificada |
+| /media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-interior.webp | caraworld.de | concesionario / anuncio | no verificada |
+| /media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-interior2.webp | cranham.co.uk | concesionario / anuncio | no verificada |
+| /media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-detalle.webp | motorhomesforsale.co.nz | concesionario / anuncio | no verificada |
 | /media/campereve-magellan-643-2026-precio-ficha-tecnica-oficial.webp | ypocamp.fr | concesionario / anuncio | no verificada |
 | /media/campereve-magellan-643-2026-precio-ficha-tecnica-interior.webp | idylcar.fr | concesionario / anuncio | no verificada |
 | /media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-oficial.webp | — (fuente no mapeada) | concesionario / prensa (según brief tanda 1) | no verificada |
@@ -305,4 +321,4 @@
 | /media/westfalia-columbus-600d-2026-precio-ficha-tecnica-interior.webp | wagoncat.com | concesionario / anuncio | no verificada |
 | /media/xgo-x-van-104-2026-precio-ficha-tecnica-oficial.webp | topdovca.cz | concesionario / anuncio | no verificada |
 | /media/xgo-x-van-104-2026-precio-ficha-tecnica-interior.webp | camperlife.it | prensa especializada | no verificada |
-<!-- 100 fotos -->
+<!-- 116 fotos -->
