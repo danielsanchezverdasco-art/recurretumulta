@@ -7,7 +7,7 @@ export const CARAVANAS_POSTS_LOTE3: BlogPost[] = [
     "title": "Weinsberg CaraOne 390 QD: precio, 16.650 € y ficha técnica",
     "slug": "weinsberg-caraone-390-qd-2026-precio-ficha-tecnica",
     "excerpt":
-      "Precio y ficha de la Weinsberg CaraOne 390 QD: 16.650 € oficiales, 4 plazas, 1.200 kg de MMA, carnet B y 257 kg de carga útil.",
+      "Precio y ficha de la Weinsberg CaraOne 390 QD: 16.650 € oficiales, 4 plazas, 1.200 kg de MMA, carnet B y 257 kg de carga útil. Ficha técnica y precio.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "readTime": 7,
@@ -27,7 +27,7 @@ export const CARAVANAS_POSTS_LOTE3: BlogPost[] = [
     "title": "Weinsberg CaraOne 400 LK: precio, literas y ficha técnica",
     "slug": "weinsberg-caraone-400-lk-2026-precio-ficha-tecnica",
     "excerpt":
-      "Precio y ficha de la Weinsberg CaraOne 400 LK: 16.790 € oficiales, literas para niños, 4-5 plazas, 1.200 kg de MMA y carnet B.",
+      "Precio y ficha de la Weinsberg CaraOne 400 LK: 16.790 € oficiales, literas para niños, 4-5 plazas, 1.200 kg de MMA y carnet B. Ficha técnica y precio.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "readTime": 7,
@@ -47,7 +47,7 @@ export const CARAVANAS_POSTS_LOTE3: BlogPost[] = [
     "title": "Weinsberg CaraOne 450 FU: precio y ficha técnica 2026",
     "slug": "weinsberg-caraone-450-fu-2026-precio-ficha-tecnica",
     "excerpt":
-      "Precio y ficha de la Weinsberg CaraOne 450 FU: 20.290 € oficiales, salón en U, 4 plazas, 1.350 kg de MMA y 297 kg de carga útil.",
+      "Precio y ficha de la Weinsberg CaraOne 450 FU: 20.290 € oficiales, salón en U, 4 plazas, 1.350 kg de MMA y 297 kg de carga útil. Ficha técnica y precio.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "readTime": 7,
@@ -67,7 +67,7 @@ export const CARAVANAS_POSTS_LOTE3: BlogPost[] = [
     "title": "Weinsberg CaraOne 480 EU: precio, 21.450 € y ficha técnica",
     "slug": "weinsberg-caraone-480-eu-2026-precio-ficha-tecnica",
     "excerpt":
-      "Precio y ficha de la Weinsberg CaraOne 480 EU: 21.450 € oficiales, cama isla, 4 plazas, 1.350 kg de MMA y carnet B.",
+      "Precio y ficha de la Weinsberg CaraOne 480 EU: 21.450 € oficiales, cama isla, 4 plazas, 1.350 kg de MMA y carnet B. Ficha técnica y precio.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "readTime": 7,
@@ -87,7 +87,7 @@ export const CARAVANAS_POSTS_LOTE3: BlogPost[] = [
     "title": "Dethleffs c'joy 480 QLK: precio, 6 plazas y ficha técnica",
     "slug": "dethleffs-cjoy-480-qlk-2026-precio-ficha-tecnica",
     "excerpt":
-      "Precio y ficha del Dethleffs c'joy 480 QLK: 21.999 € oficiales, 5-6 plazas con literas, 1.300 kg de MMA y 232 kg de carga útil.",
+      "Precio y ficha del Dethleffs c'joy 480 QLK: 21.999 € oficiales, 5-6 plazas con literas, 1.300 kg de MMA y 232 kg de carga útil. Ficha técnica y precio.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "readTime": 7,
@@ -107,7 +107,7 @@ export const CARAVANAS_POSTS_LOTE3: BlogPost[] = [
     "title": "Dethleffs c'joy 420 QSH: precio y ficha técnica 2026",
     "slug": "dethleffs-cjoy-420-qsh-2026-precio-ficha-tecnica",
     "excerpt":
-      "Precio y ficha del Dethleffs c'joy 420 QSH: 18.999 € oficiales, 3 plazas, 1.100 kg de MMA, carnet B y solo 927 kg.",
+      "Precio y ficha del Dethleffs c'joy 420 QSH: 18.999 € oficiales, 3 plazas, 1.100 kg de MMA, carnet B y solo 927 kg. Ficha técnica y precio.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "readTime": 7,
@@ -127,7 +127,7 @@ export const CARAVANAS_POSTS_LOTE3: BlogPost[] = [
     "title": "Dethleffs c'joy 460 LE: precio y ficha técnica 2026",
     "slug": "dethleffs-cjoy-460-le-2026-precio-ficha-tecnica",
     "excerpt":
-      "Precio y ficha del Dethleffs c'joy 460 LE: 20.999 € oficiales, 3 plazas, 1.200 kg de MMA, carnet B y 247 kg de carga útil.",
+      "Precio y ficha del Dethleffs c'joy 460 LE: 20.999 € oficiales, 3 plazas, 1.200 kg de MMA, carnet B y 247 kg de carga útil. Ficha técnica y precio.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "readTime": 7,
@@ -167,7 +167,7 @@ export const CARAVANAS_POSTS_LOTE3: BlogPost[] = [
     "title": "Bürstner Premio Life 415 TK: precio y ficha técnica",
     "slug": "burstner-premio-life-415-tk-2026-precio-ficha-tecnica",
     "excerpt":
-      "Precio y ficha del Bürstner Premio Life 415 TK: 20.070 € oficiales, 4-5 plazas con literas, 1.100 kg de MMA y carnet B.",
+      "Precio y ficha del Bürstner Premio Life 415 TK: 20.070 € oficiales, 4-5 plazas con literas, 1.100 kg de MMA y carnet B. Ficha técnica y precio.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "readTime": 7,
@@ -181,13 +181,13 @@ export const CARAVANAS_POSTS_LOTE3: BlogPost[] = [
       "Premio Life 415 TK opiniones",
     ],
     "content":
-      "<img src=/media/burstner-premio-life-415-tk-2026-precio-ficha-tecnica.webp alt=\"Bürstner Premio Life 415 TK, caravana\">\n\n**¿Buscas solo los datos?** <a href=/caravanas/burstner-premio-life-415-tk-2026-precio-ficha-tecnica/>Ver la ficha técnica del Bürstner Premio Life 415 TK</a>: precio oficial, MMA, carga útil, dimensiones y galería. <a href=/comparador-coches/>Compárala cara a cara con sus rivales</a>.\n\nEl **Bürstner Premio Life 415 TK** es la Premio más asequible: **20.070 € de PVP oficial** (lista Bürstner Países Bajos), **4-5 plazas** con literas, **6,22 m** y solo **950 kg** en orden de marcha. La Bürstner familiar para presupuestos ajustados.\n\nCon **1.100 kg de MMA**, el carnet B vale con prácticamente cualquier turismo, y sus 950 kg la hacen una de las más ligeras del segmento.\n\n## Ficha técnica resumida\n\n| Dato | Valor |\n|---|---|\n| **Tipo** | Caravana de un eje |\n| **Longitud / anchura / altura** | 6,22 m / 2,12 m / 2,61 m |\n| **Peso en orden de marcha** | 950 kg |\n| **MMA** | 1.100 kg |\n| **Carga útil** | 150 kg |\n| **Plazas dormir** | 4-5 (literas + cama doble) |\n| **Carnet** | B (con casi cualquier turismo) |\n| **Precio oficial** | Desde 20.070 € (lista Bürstner Países Bajos) |\n\n<a href=/caravanas/burstner-premio-life-415-tk-2026-precio-ficha-tecnica/>Ver la ficha técnica completa del Premio Life 415 TK con galería</a>\n\n## Literas Bürstner por 20.070 €\n\nLas **literas traseras** + la **cama doble** delantera dan 4-5 plazas en 6,22 m. Es la fórmula familiar clásica, con el acabado y la red de servicio de Bürstner, por el precio de una generalista.\n\n<img src=/media/burstner-premio-life-415-tk-2026-precio-ficha-tecnica-2.webp alt=\"Bürstner Premio Life 415 TK, vista lateral\">\n\n## ¿Para quién es el Premio Life 415 TK?\n\nPara la **familia con niños** que quiere marca premium sin pasar de 21.000 €. Para quien necesita **ligereza** (950 kg) y carnet B. Y para el que busca **reventa**: Bürstner mantiene bien el valor.\n\n<img src=/media/burstner-premio-life-415-tk-2026-precio-ficha-tecnica-interior.webp alt=\"Interior del Bürstner Premio Life 415 TK\">\n\n## Lo bueno y lo mejorable\n\n**Nos encanta:** 20.070 € oficiales, 950 kg, carnet B y literas en 6,22 m.\n\n**Mejoraría:** 150 kg de carga útil (justa para 5), 2,12 m de ancho y acabados de acceso.\n\n## Preguntas frecuentes\n\n### ¿Cuánto cuesta el Bürstner Premio Life 415 TK?\n\nEl PVP oficial es de **20.070 €** (lista Bürstner Países Bajos).\n\n### ¿Cuántas personas duermen?\n\n**4-5**: dos en literas y dos en la cama doble (más una en el salón).\n\n### ¿Qué carnet necesito?\n\nEl **carnet B** con prácticamente cualquier turismo (1.100 kg de MMA).\n\n### ¿Cuál es su carga útil?\n\n**150 kg** (1.100 kg de MMA menos 950 kg en orden de marcha, según buerstner.com).\n\n*Fotos: caravans.nl y AC Glavan (distribuidores). No son fotos oficiales de Bürstner. Fuentes: <a href=https://www.buerstner.com/be/nl/caravans/premio/premio-life>Bürstner, web oficial (Premio Life)</a>.*\n\n**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.",
+      "<img src=/media/burstner-premio-life-415-tk-2026-precio-ficha-tecnica.webp alt=\"Bürstner Premio Life 415 TK, caravana\">\n\n**¿Buscas solo los datos?** <a href=/caravanas/burstner-premio-life-415-tk-2026-precio-ficha-tecnica/>Ver la ficha técnica del Bürstner Premio Life 415 TK</a>: precio oficial, MMA, carga útil, dimensiones y galería. <a href=/comparador-coches/>Compárala cara a cara con sus rivales</a>.\n\nEl **Bürstner Premio Life 415 TK** es la Premio más asequible: **20.070 € de PVP oficial** (lista Bürstner Países Bajos), **4-5 plazas** con literas, **6,22 m** y solo **950 kg** en orden de marcha. La Bürstner familiar para presupuestos ajustados.\n\nCon **1.100 kg de MMA**, el carnet B vale con prácticamente cualquier turismo, y sus 950 kg la hacen una de las más ligeras del segmento.\n\n## Ficha técnica resumida\n\n| Dato | Valor |\n|---|---|\n| **Tipo** | Caravana de un eje |\n| **Longitud / anchura / altura** | 6,22 m / 2,12 m / 2,61 m |\n| **Peso en orden de marcha** | 950 kg |\n| **MMA** | 1.100 kg |\n| **Carga útil** | 150 kg |\n| **Plazas dormir** | 4-5 (literas + cama doble) |\n| **Carnet** | B (con casi cualquier turismo) |\n| **Precio oficial** | Desde 20.070 € (lista Bürstner Países Bajos) |\n\n<a href=/caravanas/burstner-premio-life-415-tk-2026-precio-ficha-tecnica/>Ver la ficha técnica completa del Premio Life 415 TK con galería</a>\n\n## Literas Bürstner por 20.070 €\n\nLas **literas traseras** + la **cama doble** delantera dan 4-5 plazas en 6,22 m. Es la fórmula familiar clásica, con el acabado y la red de servicio de Bürstner, por el precio de una generalista.\n\n<img src=/media/burstner-premio-life-415-tk-2026-precio-ficha-tecnica-2.webp alt=\"Bürstner Premio Life 415 TK, vista lateral\">\n\n## ¿Para quién es el Premio Life 415 TK?\n\nPara la **familia con niños** que quiere marca premium sin pasar de 21.000 €. Para quien necesita **ligereza** (950 kg) y carnet B. Y para el que busca **reventa**: Bürstner mantiene bien el valor.\n\n<img src=/media/burstner-premio-life-415-tk-2026-precio-ficha-tecnica-interior.webp alt=\"Interior del Bürstner Premio Life 415 TK\">\n\n## Lo bueno y lo mejorable\n\n**Nos encanta:** 20.070 € oficiales, 950 kg, carnet B y literas en 6,22 m.\n\n**Mejoraría:** 150 kg de carga útil (justa para 5), 2,12 m de ancho y acabados de acceso.\n\n## Preguntas frecuentes\n\n### ¿Cuánto cuesta el Bürstner Premio Life 415 TK?\n\nEl PVP oficial es de **20.070 €** (lista Bürstner Países Bajos).\n\n### ¿Cuántas personas duermen?\n\n**4-5**: dos en literas y dos en la cama doble (más una en el salón).\n\n### ¿Qué carnet necesito?\n\nEl **carnet B** con prácticamente cualquier turismo (1.100 kg de MMA).\n\n### ¿Cuál es su carga útil?\n\n**150 kg** (1.100 kg de MMA menos 950 kg en orden de marcha, según buerstner.com).\n\n### ¿Qué mide el Bürstner Premio Life 415 TK?\n\n**6,22 m** de largo, **2,12 m** de ancho y **2,61 m** de alto (datos oficiales Bürstner).\n\n*Fotos: caravans.nl y AC Glavan (distribuidores). No son fotos oficiales de Bürstner. Fuentes: <a href=https://www.buerstner.com/be/nl/caravans/premio/premio-life>Bürstner, web oficial (Premio Life)</a>.*\n\n**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.",
   },
   {
     "title": "Eriba Feeling 425: precio, techo elevable y ficha técnica",
     "slug": "eriba-feeling-425-2026-precio-ficha-tecnica",
     "excerpt":
-      "Precio y ficha del Eriba Feeling 425: 29.560 €, techo elevable, 3-5 plazas, 1.200 kg de MMA y carnet B.",
+      "Precio y ficha del Eriba Feeling 425: 29.560 €, techo elevable, 3-5 plazas, 1.200 kg de MMA y carnet B. Ficha técnica completa con medidas, MMA y precio.",
     "category": "Novedades Motor",
     "date": "2026-10-18",
     "readTime": 7,

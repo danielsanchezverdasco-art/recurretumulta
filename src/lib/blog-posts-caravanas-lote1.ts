@@ -62,7 +62,7 @@ export const CARAVANAS_POSTS_LOTE1: BlogPost[] = [
   {
     "title": "Adria Action 361 LH 2026: precio, ficha y caravana icono",
     "slug": "adria-action-361-lh-2026-precio-ficha-tecnica",
-    "excerpt": "Precio y ficha de la Adria Action 361 LH 2026: la caravana icono de 5,19 m, 2 plazas, 1.400 kg de MMA, baño con ducha y carnet B (conjunto ≤3.500 kg) desde ~23.000 €.",
+    "excerpt": "Precio y ficha de la Adria Action 361 LH 2026: la caravana icono de 5,19 m, 2 plazas, 1.400 kg de MMA, baño con ducha y carnet B desde ~23.000 €.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "readTime": 8,
@@ -141,7 +141,7 @@ export const CARAVANAS_POSTS_LOTE1: BlogPost[] = [
     "title": "Eriba Touring 542 2026: precio, ficha técnica y 3 plazas",
     "slug": "eriba-touring-542-2026-precio-ficha-tecnica",
     "excerpt":
-      "Precio y ficha de la Eriba Touring 542 2026: el icono con techo elevable, 5,99 m, 985 kg, 3 plazas y carnet B desde 21.290 €.",
+      "Precio y ficha de la Eriba Touring 542 2026: el icono con techo elevable, 5,99 m, 985 kg, 3 plazas y carnet B desde 21.290 €. Ficha técnica y precio.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
     "readTime": 9,
