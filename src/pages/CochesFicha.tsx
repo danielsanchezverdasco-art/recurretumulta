@@ -720,7 +720,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
                   <>
                     {" "}
                     (estimación: {coche.marca} aún no ha publicado la tarifa oficial
-                    para España; precio orientativo calculado desde el mercado de origen).
+                    para España; precio orientativo calculado desde el mercado de origen)
                   </>
                 )}
                 .

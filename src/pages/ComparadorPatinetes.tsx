@@ -24,6 +24,7 @@ import { api } from "@/convex/_generated/api.js";
 import { getAnonymousFingerprint } from "@/lib/analisis-libre.ts";
 import {
   PATINETES_COMPARADOR,
+  PATINETES_PUBLICADOS,
   buscarEnBasePatinetes,
   fichaPatineteIAToPatinete,
   normalizarModelo,
@@ -71,7 +72,7 @@ const jsonLd = {
       name: "Comparador de patinetes eléctricos 2026: elige el mejor VMP",
       url: "https://recurretumulta.online/comparador-patinetes/",
       description:
-        `Compara ${PATINETES_COMPARADOR.length.toLocaleString("es-ES")} patinetes eléctricos lado a lado: precio, potencia, autonomía real estimada, peso, certificado DGT, pros y contras. El comparador para elegir el mejor VMP en 2026.`,
+        `Compara ${PATINETES_PUBLICADOS.length.toLocaleString("es-ES")} patinetes eléctricos lado a lado: precio, potencia, autonomía real estimada, peso, certificado DGT, pros y contras. El comparador para elegir el mejor VMP en 2026.`,
     },
     {
       "@type": "FAQPage",
@@ -392,7 +393,7 @@ export default function ComparadorPatinetesPage() {
   useSeo({
     title: "Comparador de patinetes eléctricos 2026: elige el mejor VMP",
     description:
-      `Compara ${PATINETES_COMPARADOR.length.toLocaleString("es-ES")} patinetes eléctricos lado a lado: precio, potencia, autonomía real estimada, peso, certificado DGT, pros y contras. Encuentra el mejor VMP para tu ciudad en 2026.`,
+      `Compara ${PATINETES_PUBLICADOS.length.toLocaleString("es-ES")} patinetes eléctricos lado a lado: precio, potencia, autonomía real estimada, peso, certificado DGT, pros y contras. Encuentra el mejor VMP para tu ciudad en 2026.`,
     canonical: canonicalComparador("/comparador-patinetes"),
     schema: jsonLd,
   });
@@ -415,7 +416,7 @@ export default function ComparadorPatinetesPage() {
 
   const filtrados = useMemo(() => {
     const q = normalizarModelo(busqueda);
-    const lista = PATINETES_COMPARADOR.filter((p) => {
+    const lista = PATINETES_PUBLICADOS.filter((p) => {
       if (precioMax > 0 && (p.precioEur == null || p.precioEur > precioMax)) return false;
       if (potMin > 0 && (p.potenciaNominalW == null || p.potenciaNominalW < potMin)) return false;
       if (autMin > 0) {
@@ -731,7 +732,7 @@ export default function ComparadorPatinetesPage() {
             onBusqueda={(v) => { setBusqueda(v); setVisibleCount(24); }}
             placeholderBusqueda="Busca marca o modelo… (ej. Xiaomi, Bongo)"
             stats={[
-              { valor: PATINETES_COMPARADOR.length, etiqueta: "modelos" },
+              { valor: PATINETES_PUBLICADOS.length, etiqueta: "modelos" },
               { valor: "2026", etiqueta: "actualizado" },
               { valor: "≈70%", etiqueta: "autonomía real" },
             ]}
