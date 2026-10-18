@@ -34,9 +34,7 @@ export const CARAVANAS_KNAUS: CocheComparador[] = [
     anchoMm: 2320,
     altoMm: 2570,
     pesoKg: 1166,
-    mmaKg: 1800,
-    carnetNecesario: "B",
-    cargaUtilKg: 634,
+    // MMA 1.800 kg; carnet B con el coche adecuado. Carga útil 634 kg.
     consumo: null,
     consumoUnidad: null,
     plazas: 4,
