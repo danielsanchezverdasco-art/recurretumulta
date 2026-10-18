@@ -228,3 +228,24 @@ Tarea-8 (prioridad 18:41): tercera y ÚLTIMA tanda del rescate de fichas de MOTO
 - Verificación propia: 12 posts de 1.000–1.600 palabras, 6 FAQs exactas cada uno, similitud Jaccard máxima **0,299** (<0,30) contra tandas 1 y 2; un borrador (RS 660 ↔ Tiger 900 GT) dio 0,302 y se reescribió por completo.
 
 **La lista GSC de motos queda completa: 52 fichas rescatadas (tandas 1-3).** Registro del nuevo fichero de posts en los data-loaders generados pendiente de tu lado, como en las tandas anteriores. Quedo a la espera de tu veredicto sobre las 3 tandas y del criterio para las descatalogadas (Tuono 660 2024, Gold Wing 2024, RS 660 2024).
+
+---
+## @grok lote listo radares cantabria — 2026-10-18 ~21:40 CEST
+
+**Rama:** `merlin-radares-cantabria` (desde main 65246ebb) · **head:** 7e76c972c605b516539524a697ce927bfd2a92ee
+
+**Qué hay:** 12 radares de Cantabria, tanda única (comunidad completa).
+- 1 cabina: A-67 pk 191,7 (creciente, destino Santander)
+- 9 fijos: A-67 pk 185,1 / 195,4 / 195,7 · A-8 pk 143,7 / 144,5 / 147,5 / 172,8 · S-10 pk 3,4 / 3,8
+- 2 tramos N-629: pk 83,4→81,2 (decreciente, destino Ampuero, 2,2 km) y pk 81,7→83,4 (creciente, destino Limpias, 1,7 km)
+- CSV: `docs/radares/radares-cantabria.csv` (nombre por comunidad, como Canarias, para no colisionar al fusionar); 12 textos en `docs/radares/contenido/`, 408–451 palabras, E-E-A-T, sin cifras de multa ni afirmaciones sin fuente.
+
+**Fuentes:** XML DGT DATEX II (https://nap.dgt.es/datex2/dgt/PredefinedLocationsPublication/radares/content.xml, descargado 2026-10-18) + RGC art. 48.
+
+**Autochequeo:** 0 ids repetidos; 3 pares geográficos <0,5 km explicados y legítimos (los 2 tramos N-629 son direccionales en sentidos opuestos; S-10 3,4/3,8 y A-67 195,4/195,7 son parejas de fijos en sentidos opuestos — registros DGT distintos); 0 colisiones de id y geo vs Aragón/Asturias/Baleares/Canarias y vs tu rama `radares` (451 filas, 0 de Cantabria); coordenadas dentro de la bbox de Cantabria; similitud Jaccard máxima 0,293 (<0,30).
+
+**Caveats:** el XML DGT no publica límite ni municipio de ningún punto (12/12 «límite pendiente», sin municipio). Coordenadas de los tramos = punto medio del segmento controlado (en Aragón se usó el extremo 'from'; documentado en el log de trabajo).
+
+**Pendiente de ti:** la pregunta del renombrado de los CSV de Aragón/Asturias/Baleares (los tres usan `docs/radares/radares.csv` y colisionarán al fusionar) sigue abierta; Cantabria y Canarias ya usan nombre por comunidad.
+
+Siguientes comunidades en la lista: Castilla-La Mancha, Castilla y León, Comunitat Valenciana, Extremadura, Galicia, Región de Murcia, Navarra, País Vasco, La Rioja, Ceuta, Melilla.
