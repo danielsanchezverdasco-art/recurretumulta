@@ -7,6 +7,10 @@
 // precios por modelo en su web pública (salvo franjas orientativas genéricas por tipo).
 // Los datos técnicos del V55 proceden de fichas de la red de concesionarios franceses de
 // unidades 2026 (datos coincidentes), claramente identificados como tales.
+// CORRECCIÓN 4 (18/10/2026, V55): verificado en rapido-camping-car.fr — la web oficial solo
+// confirma la pertenencia a la serie especial OPTIMUM LINE y el sistema MODUL'SPACE®; NO
+// publica ficha técnica del V55. Todos los datos numéricos del V55 marcados «no oficial»
+// en "aprox" (fuente: fichas coincidentes de concesionarios FR).
 // Precio "desde" no publicado por el fabricante en ningún mercado → null (no inventar).
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
@@ -19,7 +23,7 @@ export const AUTOCARAVANAS_RAPIDO_M1: Autocaravana[] = [
     tipo: "Camper (furgoneta camper)",
     categoria: "Autocaravana",
     precioDesde: null, // Rapido no publica ningún precio oficial; solo existen precios de concesionarios
-    potenciaCv: 140,
+    potenciaCv: 140, // «no oficial»: según fichas coincidentes de concesionarios FR (aveyroncampingcar.com, cap-passion.fr); la web oficial no publica ficha del V55
     autonomiaKm: null,
     maleteroL: null,
     ceroCien: null,
@@ -37,20 +41,20 @@ export const AUTOCARAVANAS_RAPIDO_M1: Autocaravana[] = [
       "/media/rapido-v55-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
     videoCanal: null,
-    largoMm: 5990,
-    anchoMm: 2050,
-    altoMm: 2590,
+    largoMm: 5990, // «no oficial»: según fichas coincidentes de concesionarios FR; la web oficial no publica ficha del V55
+    anchoMm: 2050, // «no oficial»: ver nota anterior
+    altoMm: 2590, // «no oficial»: ver nota anterior
     pesoKg: null, // no publicado por el fabricante; una ficha de concesionario de unidad 2026 indica 3.040 kg en vacío
-    mmaKg: 3500,
+    mmaKg: 3500, // «no oficial»: PTAC de 3.500 kg según fichas de concesionarios FR
     carnetNecesario: "B",
     cargaUtilKg: null,
     consumo: null,
     consumoUnidad: null,
-    plazas: 4,
+    plazas: 4, // «no oficial»: 4 plazas de circulación según fichas de concesionarios FR
     parNm: null,
-    traccion: "Delantera",
+    traccion: "Delantera", // «no oficial»: portador Peugeot Boxer (tracción delantera según fichas de concesionarios)
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["potenciaCv", "largoMm", "anchoMm", "altoMm", "mmaKg", "plazas", "traccion"], // «no oficial»: web oficial sin ficha del V55
     pros: [
       "Menos de 6 m con 3 plazas de dormir y 4 de viaje: formato muy compacto y maniobrable, ideal para uso diario y ciudad",
       "Sistema patentado MODUL'SPACE®: en un van de menos de 6 m consigue ducha y WC separados de verdad, algo único en su categoría",
@@ -115,7 +119,7 @@ export const AUTOCARAVANAS_RAPIDO_M1: Autocaravana[] = [
     },
     euroncap: null,
     fuenteNombre:
-      "Rapido (web oficial: OPTIMUM LINE y MODUL'SPACE®) + red de concesionarios FR (datos técnicos de unidades 2026)",
+      "Rapido (web oficial: OPTIMUM LINE y MODUL'SPACE®) + fichas de concesionarios FR («no oficial»: la web oficial no publica la ficha técnica del V55)",
     fuenteUrl:
       "https://www.rapido-camping-car.fr/inc/rapido_nouveautes_les-fourgons_camping-car-serie-vans.phtml",
   },

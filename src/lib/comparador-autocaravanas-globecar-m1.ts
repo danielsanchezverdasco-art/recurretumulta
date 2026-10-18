@@ -5,7 +5,9 @@
 // Los datos que siguen son la ÚLTIMA FICHA OFICIAL PUBLICADA (catálogo de época de
 // producción), corroborada por fichas de concesionarios que reproducen la ficha de fábrica.
 // NO presentarlo como novedad 2026. Solo unidades de ocasión (2016-2021).
-// Precio oficial inexistente → null (no inventar).
+// CORRECCIÓN 4 (18/10/2026): no existe fuente oficial utilizable (globecar.de redirige a
+// Roadcar). Las medidas del último catálogo oficial publicado se mantienen marcadas
+// «no oficial» en "aprox". Precio oficial inexistente → null (no inventar).
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
@@ -35,20 +37,20 @@ export const AUTOCARAVANAS_GLOBECAR_M1: Autocaravana[] = [
       "/media/globecar-globescout-plus-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
     videoCanal: null,
-    largoMm: 5998, // último catálogo oficial publicado
-    anchoMm: 2050, // último catálogo oficial publicado
-    altoMm: 2650, // último catálogo oficial publicado
+    largoMm: 5998, // «no oficial»: último catálogo oficial publicado; modelo descatalogado
+    anchoMm: 2050, // «no oficial»: último catálogo oficial publicado
+    altoMm: 2650, // «no oficial»: último catálogo oficial publicado
     pesoKg: null, // sin cifra única oficial; las fichas de la época situaban ~2.800 kg en orden de marcha
-    mmaKg: 3500, // último catálogo oficial publicado
+    mmaKg: 3500, // «no oficial»: último catálogo oficial publicado
     carnetNecesario: "B",
     cargaUtilKg: null, // teórica ~700 kg según datos de catálogo; sin cifra oficial única
     consumo: null,
     consumoUnidad: null,
-    plazas: 4,
+    plazas: 4, // «no oficial»: último catálogo oficial publicado
     parNm: null,
-    traccion: "Delantera",
+    traccion: "Delantera", // «no oficial»: portador Citroën Jumper (tracción delantera según catálogo de época)
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["largoMm", "anchoMm", "altoMm", "mmaKg", "plazas", "traccion"], // «no oficial»: modelo descatalogado, sin fuente oficial en vigor
     pros: [
       "Gran garaje trasero bajo la cama transversal fija: la cama se deja montada siempre y aun así caben bicis o una moto",
       "Carga útil teórica de unos 700 kg según el último catálogo: margen generoso para el segmento de 6 m",
@@ -113,7 +115,7 @@ export const AUTOCARAVANAS_GLOBECAR_M1: Autocaravana[] = [
     },
     euroncap: null,
     fuenteNombre:
-      "Globecar (último catálogo oficial; la marca fue absorbida por Roadcar) + prensa especializada",
+      "Globecar (último catálogo oficial publicado; la marca fue absorbida por Roadcar, «no oficial»: la web oficial ya no publica ficha del modelo) + prensa especializada",
     fuenteUrl: "https://globecar.de/",
   },
 ];

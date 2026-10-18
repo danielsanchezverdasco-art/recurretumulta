@@ -4,6 +4,9 @@
 // + fichas de catálogo 2026 de la red oficial Knaus reproducidas por concesionarios (8+ anuncios coincidentes).
 // Precio "desde" no publicado por el fabricante ni para el 600 MQ ni para el Sky TI 650 MEG → null (no inventar);
 // el portal alpacacamping.de indica un precio de entrada orientativo de ~81.000 € en Alemania para el Sky TI.
+// CORRECCIÓN 4 (18/10/2026, solo BoxLife 600 MQ): datos knaus.com confirmados; peso y carga
+// útil proceden de fichas de catálogo 2026 de la red oficial reproducidas por concesionarios
+// → marcados «no oficial» en "aprox".
 // NOTA Sky TI 650 MEG: la ficha corresponde al año modelo 2026 sobre Fiat Ducato 140 CV
 // (la generación 2027 cambia al chasis VW Crafter, según knaus.com).
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
@@ -38,17 +41,17 @@ export const AUTOCARAVANAS_KNAUS_M1: Autocaravana[] = [
     largoMm: 5990,
     anchoMm: 2050,
     altoMm: 2580,
-    pesoKg: 2967, // ficha de catálogo 2026 (red oficial); el PDF técnico oficial Knaus lo expresa como horquilla 2.693-2.976 kg con tolerancia ±5%
+    pesoKg: 2967, // «no oficial»: ficha de catálogo 2026 de la red oficial Knaus reproducida por concesionarios; el PDF técnico oficial Knaus lo expresa como horquilla 2.693-2.976 kg con tolerancia ±5%
     mmaKg: 3500,
     carnetNecesario: "B",
-    cargaUtilKg: 533, // calculada: 3.500 - 2.967 (MMA menos peso en orden de marcha)
+    cargaUtilKg: 533, // «no oficial»: calculada desde peso de catálogo de red (3.500 - 2.967)
     consumo: null,
     consumoUnidad: null,
     plazas: 4,
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["pesoKg", "cargaUtilKg"], // «no oficial»: peso de ficha de catálogo de red, no de knaus.com
     pros: [
       "Calefacción diésel Truma Combi 6 D de serie: calefacción y agua caliente sin depender de bombonas de gas en invierno",
       "Baño XL con pared giratoria: un giro convierte el aseo en una ducha amplia con zona seca separada",

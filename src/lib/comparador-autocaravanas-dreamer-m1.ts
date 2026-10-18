@@ -1,6 +1,9 @@
 // Autocaravanas Dreamer — lote Merlín 1 (18/10/2026).
 // Datos verificados: catálogo oficial Dreamer Colección 2026 (contenido del fabricante)
 // + dreamer-van.fr (portadores Fiat Ducato / Peugeot Boxer, fabricación en Mayenne).
+// CORRECCIÓN 4 (18/10/2026): motor de serie de 120 CV según prensa especializada (el catálogo
+// oficial no pudo descargarse directamente) → marcado «no oficial» en "aprox". Resto de datos
+// del catálogo oficial Dreamer Colección 2026 + dreamer-van.fr.
 // NOTA DE NOMBRE: el nombre comercial oficial es "D55 UP" (gama Fun); se mantiene el
 // identificador del lote 1. Motor de serie Peugeot Boxer 2.2 120 CV según prensa
 // especializada; el catálogo oficial no pudo descargarse directamente (fallo de red) y se
@@ -16,7 +19,7 @@ export const AUTOCARAVANAS_DREAMER_M1: Autocaravana[] = [
     tipo: "Camper (furgoneta camper)",
     categoria: "Autocaravana",
     precioDesde: null, // el fabricante no publica precios; solo existen tarifas de concesionarios
-    potenciaCv: 120,
+    potenciaCv: 120, // «no oficial»: según prensa especializada; el catálogo oficial no pudo descargarse directamente
     autonomiaKm: null,
     maleteroL: null,
     ceroCien: null,
@@ -47,7 +50,7 @@ export const AUTOCARAVANAS_DREAMER_M1: Autocaravana[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["potenciaCv"], // «no oficial»: potencia según prensa especializada
     pros: [
       "Cuatro plazas de adulto reales en menos de 6 m: cama transversal trasera (1950x1320) más lit de pavillon de 2000x1300 en el techo elevable, combinación rara en un furgón de 5,99 m",
       "Baño Modul'Space con armario pivotante que se guarda en la ducha: ducha separada del WC en un formato casi único",

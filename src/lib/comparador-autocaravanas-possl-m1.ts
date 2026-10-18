@@ -3,7 +3,11 @@
 // reproducidas por múltiples concesionarios (datos coincidentes en medidas, pesos y
 // equipamiento). TRANSPARENCIA: poessl-mobile.de actualmente sirve contenido de Roadcar
 // (marca hermana del grupo Pössl) y no se pudo extraer la ficha oficial del 2Win Plus.
-// Precio "desde" no publicado → null (no inventar).
+// CORRECCIÓN 4 (18/10/2026): no se encontró fuente oficial utilizable (poessl-mobile.de
+// actualmente sirve contenido de Roadcar, marca hermana; no publica ficha del 2Win Plus).
+// Todos los datos numéricos marcados «no oficial» en "aprox". Cifras de cama, frigorífico,
+// depósitos y precios de ocasión proceden de fichas coincidentes de concesionarios y prensa
+// especializada (ADAC Wohnmobilmarkt).
 // Fotos: pendientes de subida; se referencian los nombres y se suben antes de anunciar el lote.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
@@ -15,7 +19,7 @@ export const AUTOCARAVANAS_POSSL_M1: Autocaravana[] = [
     tipo: "Camper (furgoneta camper)",
     categoria: "Autocaravana",
     precioDesde: null, // la lista oficial de Pössl existe, pero no se pudo verificar la cifra "desde" del 2Win Plus
-    potenciaCv: 140,
+    potenciaCv: 140, // «no oficial»: según fichas coincidentes de concesionarios; sin ficha oficial disponible
     autonomiaKm: null,
     maleteroL: null,
     ceroCien: null,
@@ -33,20 +37,20 @@ export const AUTOCARAVANAS_POSSL_M1: Autocaravana[] = [
       "/media/possl-2win-plus-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
     videoCanal: null,
-    largoMm: 5990,
-    anchoMm: 2050,
-    altoMm: 2580,
-    pesoKg: 2860, // cifra única consistente en fichas de concesionarios; no disponible el PDF oficial
-    mmaKg: 3500,
+    largoMm: 5990, // «no oficial»: según fichas coincidentes de concesionarios; sin ficha oficial disponible
+    anchoMm: 2050, // «no oficial»: según fichas coincidentes de concesionarios
+    altoMm: 2580, // «no oficial»: según fichas coincidentes de concesionarios
+    pesoKg: 2860, // «no oficial»: cifra única consistente en fichas de concesionarios; no disponible el PDF oficial
+    mmaKg: 3500, // «no oficial»: según fichas coincidentes de concesionarios
     carnetNecesario: "B",
-    cargaUtilKg: 640, // calculada: 3.500 - 2.860 (MMA menos peso en orden de marcha)
+    cargaUtilKg: 640, // «no oficial»: calculada desde peso de concesionario (3.500 - 2.860)
     consumo: null,
     consumoUnidad: null,
-    plazas: 4,
+    plazas: 4, // «no oficial»: según fichas coincidentes de concesionarios
     parNm: null,
-    traccion: "Delantera",
+    traccion: "Delantera", // «no oficial»: portador Citroën Jumper (tracción delantera según fichas de concesionarios)
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["potenciaCv", "largoMm", "anchoMm", "altoMm", "pesoKg", "mmaKg", "cargaUtilKg", "plazas", "traccion"], // «no oficial»: sin ficha del fabricante disponible
     pros: [
       "Cama transversal de 196x148/142 cm: 12 cm más larga que la del Knaus BoxLife y sin estrechamientos acusados, apta para personas altas",
       "Carga útil de unos 640 kg: de las mejores del segmento en 6 m; admite 4 ocupantes, toldo y bicis sin rozar la MMA",
@@ -111,7 +115,7 @@ export const AUTOCARAVANAS_POSSL_M1: Autocaravana[] = [
     },
     euroncap: null,
     fuenteNombre:
-      "ADAC Wohnmobilmarkt + fichas de concesionarios (la web oficial del fabricante no publica ficha del modelo)",
+      "ADAC Wohnmobilmarkt (prensa especializada) + fichas de concesionarios («no oficial»: la web oficial del fabricante no publica ficha del modelo)",
     fuenteUrl:
       "https://wohnmobilmarkt.adac.de/campervans/poessl/d-line/19752477/poessl-d-line-2win-plus-heavy-chassis-140ps-duo-cs.bilder.html",
   },
