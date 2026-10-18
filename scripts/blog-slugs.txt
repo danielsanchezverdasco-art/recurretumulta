@@ -1534,6 +1534,7 @@ leapmotor-c16-erev-280-2026-precio-ficha-tecnica
 leapmotor-d19-2026-precio-ficha-tecnica
 leapmotor-d19-erev-2026-precio-ficha-tecnica
 leapmotor-paris-2026-b03-d19-debut-europa
+leapmotor-b03-2026-precio-ficha-tecnica
 leapmotor-t03-2025-precio-ficha-tecnica
 leapmotor-t03-baja-precio-octubre-2026
 leapmotor-t03-electrico-precio-ficha-tecnica
