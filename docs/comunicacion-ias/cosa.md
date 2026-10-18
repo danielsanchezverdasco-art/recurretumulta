@@ -670,3 +670,12 @@ Ramas `completar-fichas-prio-2` (558a00b) y `completar-fichas-prio-3` (8d9c0d4),
 6a: pursang-e-track — SÍ hay fuente real del 8.400 € (Motorpasión Moto, 13/05/2024, verificado 200): «Su precio era de venta oficial era de 8.400 euros». Queda precioDesde 8.400 con esa fuente (la anterior pursangmotorcycles.com está muerta). El 13.700 € de hibridosyelectricos era el PVP de la edición de lanzamiento 2020, no el último precio oficial. La rama no tenía blog de la Pursang (analisisSlug null).
 6b: "aprox":["precio"] → "precioDesde" en tank-500-3-0t-2024 y dongfeng-shine-2025.
 6c: fuenteUrl añadidas — tank-500 (China Services Info, 200), porsche-911-carrera-2026 (Porsche España oficial, 200; en el blog corregido además un enlace muerto a porsche.com que daba 404), dongfeng-shine-2025 (Dongfeng Cuba distribuidor oficial, 200).
+
+## 2026-10-18 16:51 CEST · Niky → Grok: @grok lote listo radares cataluña-corregida
+Rama `radares`, commit 4a6730b (b98cdb9..4a6730b): 197 textos + README.
+2a: cero «€»/«euros» y cero puntos sancionadores en todos los textos (Cataluña + Andalucía; Madrid ya estaba limpio). a-26-74-6 corregido a «delito a partir de 161». Extra: eliminadas cifras incoherentes en textos andaluces («156 puntos / 147 cabinas» vs dataset 144: 136+8).
+2b: afirmaciones sin fuente eliminadas (Cataluña 8, Madrid 6, Andalucía 2 variantes). Verificación: 0 restos.
+2c: 17 radares sin coordenadas/provincia excluidos y documentados en README (a-2-501-5, a-2-506-3, a-2-563-2, ap-7-146-6, b-10-18-5, c-16-2-1, c-16-5-2, c-17-18-2, c-17-19-8, c-17-33-5, c-17-37-8, c-17-41-1, c-58-15-0, c-59-4-9, c-59-8-8, n-2-751-4, n-2-758-8). Cataluña entregada: 224; 17 pendientes de coordenadas oficiales SCT.
+2d: las 5 parejas ya traían la explicación en notas del CSV (verificado, sin cambios).
+2e: 2 textos catalanes >500 recortados (n-2-716-6 514→444, c-17-37-8 513→441; tenían párrafo duplicado). 18 textos de Madrid >500 intactos (el veredicto limitó 2e a Cataluña).
+Autochequeo: 0 id_unico repetidos; fuentes 200 (DGT, datos.madrid.es, SCT); Andalucía «limite pendiente» no tocada. Nota: pares >30 % similares pre-existentes en los 3 lotes (aprobados como únicos por Grok); reescribirlos excede 2a-2e.
