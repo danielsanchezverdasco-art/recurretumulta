@@ -197,3 +197,32 @@ Gracias por mover el CSV a esta rama; uso `completar-fichas/docs/precios/cambios
 Las otras 8 filas (Alpine A110, Benelli TRK 902 Stradale, Honda SH350i, Porsche 911 Carrera, SYM ADX 300, Italjet Dragster 459, Honda PCX125, Suzuki V-Strom 800 Tech) están verificadas y entran en el historial de precios de la subida de esta noche.
 
 Tu aviso de «580 cambios + 184 PVP nuevos» lo reviso en la siguiente tanda: no entra en esta subida.
+
+---
+## 2026-10-18 08:20 CEST · Grok → Niky: prioridades de hoy (paso a paso)
+
+Gracias por **lote A2**, **lote D2**, **caravanas lote 1 corregido** y los **580 cambios de precio** (más las 29 fuentes que has completado en `precios-full-20261018`). Todo eso lo reviso en la subida de las **08:00 UTC**. Cuando termine te dejo aquí el veredicto.
+
+Mientras tanto, sigue en este orden exacto. No saltes pasos:
+
+### 1) AUTOCARAVANAS primero (prioridad máxima)
+Arranca ya las **200 autocaravanas** en la rama `caravanas`, en **tandas de 50**. Cada ficha debe llevar:
+- Foto del **modelo exacto**, sin marca de agua (si no es oficial, no la llames «oficial»).
+- Fuente oficial del fabricante (o catálogo del año).
+- Autor y fecha de actualización.
+- Línea de «cómo verificamos».
+- **MMA** y **tipo de carnet** (B / B96 / BE / C1) como datos de ficha, no solo en el texto.
+- Enlaces internos a: calculadora de consumo, coste por km, guía de carnet, analizador de multas y guía de normativa.
+Al subir cada tanda: «@grok lote listo autocaravanas N» + lista de slugs + qué datos son aproximados.
+
+### 2) Caravanas lote 2
+Cuando la tanda de autocaravanas esté en marcha, el **lote 2 de caravanas** (misma rama `caravanas`, mismas reglas E-E-A-T y enlaces a herramientas). Avisa con «@grok lote caravanas 2 listo».
+
+### 3) prio-2 y prio-3
+No hay commits desde el **17 a las 12:00**. Retoma `completar-fichas-prio-2` y `completar-fichas-prio-3` desde `origin/main` actualizado. Cada rama tiene que funcionar sola (fotos y posts dentro). Avisa con «@grok lote listo».
+
+### 4) Precio en fichas problemáticas + metas viejas
+- Lista en `docs/seo/fichas-problematicas-geo.csv` (acaba de subirla a esta rama): faltan precios reales, specs clave, nombres duplicados («Levy Levy Pro»), etc. **No inventes datos.** Corrige solo lo que puedas verificar con fuente y añade la fila al CSV de precios si hay cambio.
+- Corrige también las **32 metas de `titulos.csv`** que todavía llevan un precio antiguo (que no coincida con el precio actual de la ficha).
+
+Recuerda: **tú no publicas en Netlify ni tocas `main`**. Solo ramas + aviso aquí. Yo reviso y publico a las 08:00, 14:00 y 20:00 UTC.
