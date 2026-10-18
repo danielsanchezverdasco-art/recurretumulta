@@ -330,6 +330,22 @@ El **Cupra León 1.5 eTSI** es el acceso al compacto deportivo español por **31
 
 El facelift de 2024 le sentó de maravilla: frontal con la nariz de tiburón, firma lumínica de tres triángulos, trasera con el logo iluminado y un interior con pantalla de 12,9 pulgadas que por fin está a la altura. Con 4.398 mm de largo y 380 litros de maletero, es un compacto de cinco puertas de tamaño honesto, más afilado que un Golf y menos radical que un Type R.
 
+## Ficha técnica resumida: Cupra León 1.5 TSI
+
+| Dato | Valor |
+|---|---|
+| **Precio en España** | Desde 31.752 € |
+| **Potencia** | 150 CV (250 Nm) |
+| **0-100 km/h** | 8.9 s |
+| **Velocidad máxima** | 214 km/h |
+| **Consumo WLTP** | 5.8 l/100 km |
+| **Emisiones CO₂** | 132 g/km |
+| **Etiqueta DGT** | ECO |
+| **Maletero** | 380 l |
+| **Medidas** | 4398 x 1799 x 1442 mm |
+| **Peso** | 1338 kg |
+
+
 ## El 1.5 eTSI en un compacto: su hábitat natural
 
 Si en el Formentor el 1.5 eTSI va justo, en el León va en su salsa: aquí mueve 1.338 kg, casi 150 menos que el SUV. El resultado es un 0-100 en 8,9 segundos, 214 km/h de punta y un consumo homologado de 5,6-5,8 l/100 km con 128-133 g/km de CO₂. Son 250 Nm disponibles desde bajo régimen, así que en el día a día se mueve con soltura.
@@ -409,6 +425,25 @@ Si te ha llegado una multa, <a href=https://recurretumulta.online/#analizador>an
 El **Cupra León e-Hybrid 204** es el híbrido enchufable del compacto español: **204 CV**, más de 130 km de autonomía eléctrica y **etiqueta Cero**. Es el León para quien hace muchos kilómetros en ciudad, puede cargar a diario y quiere el mínimo coste por kilómetro sin renunciar al chasis Cupra.
 
 La mecánica es la conocida del grupo: 1.5 TSI + motor eléctrico para 204 CV conjuntos. La batería de 19,7 kWh útiles da una autonomía eléctrica generosa (más de 130 km WLTP), y con 1.606 kg de peso, el León e-Hybrid sigue siendo ágil para un PHEV.
+
+## Ficha técnica resumida: Cupra León e-Hybrid 204
+
+| Dato | Valor |
+|---|---|
+| **Precio en España** | Desde 42.340 € |
+| **Potencia** | 204 CV (350 Nm) |
+| **0-100 km/h** | 7.7 s |
+| **Velocidad máxima** | 220 km/h |
+| **Consumo WLTP** | 0.4 l/100 km |
+| **Emisiones CO₂** | 9 g/km |
+| **Etiqueta DGT** | Cero |
+| **Batería** | 19.7 kWh |
+| **Autonomía eléctrica** | 126 km (WLTP) |
+| **Carga rápida DC** | 50 kW |
+| **Maletero** | 270 l |
+| **Medidas** | 4398 x 1799 x 1442 mm |
+| **Peso** | 1606 kg |
+
 
 ## El PHEV compacto con más autonomía
 
@@ -504,6 +539,22 @@ El **Cupra León VZ 300** es el GTI español: **300 CV**, tracción delantera, d
 
 300 CV, 400 Nm, 0-100 en 5,7 segundos y 250 km/h. Pesa solo 1.421 kg, 155 menos que el VZ 333. La tracción delantera con autoblocante VAQ hace que sea un coche de conducción participativa: hay que trabajar el volante, y eso es precisamente lo divertido.
 
+## Ficha técnica resumida: Cupra León VZ 300
+
+| Dato | Valor |
+|---|---|
+| **Precio en España** | Desde 48.954 € |
+| **Potencia** | 300 CV (400 Nm) |
+| **0-100 km/h** | 5.7 s |
+| **Velocidad máxima** | 250 km/h |
+| **Consumo WLTP** | 7.6 l/100 km |
+| **Emisiones CO₂** | 173 g/km |
+| **Etiqueta DGT** | C |
+| **Maletero** | 380 l |
+| **Medidas** | 4398 x 1799 x 1467 mm |
+| **Peso** | 1421 kg |
+
+
 ## El GTI de verdad
 
 El VZ 300 es el heredero de los GTI clásicos: potencia suficiente, peso contenido y un chasis que invita a buscar el límite. El autoblocante permite salir de las curvas con el pie a fondo sin que la dirección se descontrole, y el modo Cupra afila todo.
@@ -597,6 +648,22 @@ Si te ha llegado una multa, <a href=https://recurretumulta.online/#analizador>an
 El **Cupra León VZ 325** es el escalón intermedio entre el VZ 300 y el VZ 333: **325 CV** con tracción delantera, para quien quiere más que el 300 pero no necesita (o no quiere pagar) la tracción total del 333. Es el GTI más potente de tracción delantera de Cupra.
 
 325 CV, 420 Nm, 0-100 en 5,4 segundos. Pesa 1.432 kg, apenas 11 más que el VZ 300. La receta es la misma (delantera + autoblocante), pero con 25 CV extra que se notan en aceleración y recuperaciones.
+
+## Ficha técnica resumida: Cupra León VZ 325
+
+| Dato | Valor |
+|---|---|
+| **Precio en España** | Desde 50.794 € |
+| **Potencia** | 325 CV (420 Nm) |
+| **0-100 km/h** | 5.4 s |
+| **Velocidad máxima** | 270 km/h |
+| **Consumo WLTP** | 7.7 l/100 km |
+| **Emisiones CO₂** | 175 g/km |
+| **Etiqueta DGT** | C |
+| **Maletero** | 380 l |
+| **Medidas** | 4398 x 1799 x 1444 mm |
+| **Peso** | 1432 kg |
+
 
 ## El término medio con sentido
 
@@ -694,6 +761,25 @@ El **Cupra León Sportstourer e-Hybrid 204** es la respuesta al gran defecto del
 
 Mide 4.659 mm de largo y pesa 1.598 kg. La mecánica es la misma del 5 puertas: 204 CV, batería de 19,7 kWh y carga rápida de 50 kW. Pero el maletero familiar lo hace mucho más versátil.
 
+## Ficha técnica resumida: Cupra León Sportstourer e-Hybrid 204
+
+| Dato | Valor |
+|---|---|
+| **Precio en España** | Desde 41.530 € |
+| **Potencia** | 204 CV (350 Nm) |
+| **0-100 km/h** | 7.7 s |
+| **Velocidad máxima** | 220 km/h |
+| **Consumo WLTP** | 0.4 l/100 km |
+| **Emisiones CO₂** | 9 g/km |
+| **Etiqueta DGT** | Cero |
+| **Batería** | 19.7 kWh |
+| **Autonomía eléctrica** | 126 km (WLTP) |
+| **Carga rápida DC** | 50 kW |
+| **Maletero** | 470 l |
+| **Medidas** | 4657 x 1799 x 1456 mm |
+| **Peso** | 1598 kg |
+
+
 ## El PHEV familiar que sí sirve para todo
 
 El León ST e-Hybrid es el coche del que necesita espacio familiar, quiere etiqueta Cero y puede cargar a diario. Los 470 litros dan para el carrito, la compra y el equipaje de vacaciones, y los 130 km eléctricos cubren el uso diario. En viajes largos, el modo híbrido mantiene el consumo contenido.
@@ -787,6 +873,22 @@ Si te ha llegado una multa, <a href=https://recurretumulta.online/#analizador>an
 El **Cupra León Sportstourer VZ 333** es el familiar más rápido del mercado generalista: **333 CV**, tracción total y 610 litros de maletero. Es el coche del que se niega a elegir entre familia y diversión: lleva todo el equipaje y, cuando los niños no miran, hace el 0-100 en 4,9 segundos.
 
 333 CV, 420 Nm, 4Drive y cambio DSG. Pesa 1.576 kg y mide 4.657 mm. Es, básicamente, un Golf R Variant con el diseño y el chasis Cupra, y con un precio más contenido que el alemán.
+
+## Ficha técnica resumida: Cupra León Sportstourer VZ 333
+
+| Dato | Valor |
+|---|---|
+| **Precio en España** | Desde 55.820 € |
+| **Potencia** | 333 CV (420 Nm) |
+| **0-100 km/h** | 4.8 s |
+| **Velocidad máxima** | 250 km/h |
+| **Consumo WLTP** | 8.3 l/100 km |
+| **Emisiones CO₂** | 188 g/km |
+| **Etiqueta DGT** | C |
+| **Maletero** | 620 l |
+| **Medidas** | 4659 x 1799 x 1438 mm |
+| **Peso** | 1576 kg |
+
 
 ## El lobo con piel de familiar
 
@@ -882,6 +984,22 @@ El **Cupra Formentor 1.5 eTSI** es la puerta de entrada al SUV que inventó Cupr
 
 Con 4.451 mm de largo, el Formentor juega en la liga de los SUV compactos, pero su silueta coupé y su frontal de tiburón lo separan de los SUV genéricos. El 1.5 eTSI mueve 1.483 kg con dignidad: 150 CV, 250 Nm, 0-100 en 9,0 segundos y 210 km/h de punta. No es un deportivo, pero tampoco va justo en el día a día.
 
+## Ficha técnica resumida: Cupra Formentor 1.5 eTSI
+
+| Dato | Valor |
+|---|---|
+| **Precio en España** | Desde 36.192 € |
+| **Potencia** | 150 CV (250 Nm) |
+| **0-100 km/h** | 9.0 s |
+| **Velocidad máxima** | 205 km/h |
+| **Consumo WLTP** | 5.9 l/100 km |
+| **Emisiones CO₂** | 131 g/km |
+| **Etiqueta DGT** | ECO |
+| **Maletero** | 450 l |
+| **Medidas** | 4451 x 1839 x 1511 mm |
+| **Peso** | 1482 kg |
+
+
 ## El eTSI: etiqueta ECO sin complicaciones
 
 La hibridación ligera de 48 V le da la etiqueta ECO sin cambiar nada en la experiencia de uso: no se enchufa, no tiene modo eléctrico, solo suaviza el arranque, apaga el motor en retenciones y recupera energía al frenar. El consumo homologado es de 5,9-6,1 l/100 km con 134-139 g/km de CO₂. En uso real, calcula entre 6,5 y 8 litros según el pie.
@@ -974,6 +1092,25 @@ El **Cupra Formentor e-Hybrid 204** es el híbrido enchufable sensato de la gama
 
 La mecánica combina el 1.5 TSI con un motor eléctrico para 204 CV conjuntos y 350 Nm. La batería de 19,7 kWh útiles da una autonomía eléctrica que supera los 120 km en WLTP: suficiente para ir y volver al trabajo sin gastar una gota. Y cuando se agota, el modo híbrido mantiene el consumo a raya.
 
+## Ficha técnica resumida: Cupra Formentor e-Hybrid 204
+
+| Dato | Valor |
+|---|---|
+| **Precio en España** | Desde 43.480 € |
+| **Potencia** | 204 CV (350 Nm) |
+| **0-100 km/h** | 7.9 s |
+| **Velocidad máxima** | 210 km/h |
+| **Consumo WLTP** | 0.4 l/100 km |
+| **Emisiones CO₂** | 9 g/km |
+| **Etiqueta DGT** | Cero |
+| **Batería** | 19.7 kWh |
+| **Autonomía eléctrica** | 120 km (WLTP) |
+| **Carga rápida DC** | 50 kW |
+| **Maletero** | 345 l |
+| **Medidas** | 4451 x 1839 x 1511 mm |
+| **Peso** | 1642 kg |
+
+
 ## El PHEV que sí tiene sentido
 
 Muchos híbridos enchufables son un trámite para la etiqueta. Este no: con más de 120 km eléctricos reales (100-110 en uso normal), cubre el 80% de los desplazamientos de un conductor medio. La carga en continua de 50 kW es rápida para un PHEV, y en alterna carga a 11 kW.
@@ -1065,6 +1202,25 @@ Si te ha llegado una multa, <a href=https://recurretumulta.online/#analizador>an
 El **Cupra Formentor VZ e-Hybrid 272** es la cuadratura del círculo: **272 CV**, **etiqueta Cero** y más de 115 km de autonomía eléctrica. Es el Formentor para quien quiere prestaciones VZ sin renunciar a la etiqueta Cero ni al ahorro del modo eléctrico. Lo mejor de los dos mundos, con algún compromiso.
 
 La mecánica combina el 1.5 TSI con un motor eléctrico potente para 272 CV conjuntos y 400 Nm. La batería de 19,7 kWh da unos 117 km de autonomía eléctrica (WLTP), y la carga rápida de 50 kW en continua es de las mejores entre los PHEV.
+
+## Ficha técnica resumida: Cupra Formentor VZ e-Hybrid 272
+
+| Dato | Valor |
+|---|---|
+| **Precio en España** | Desde 49.160 € |
+| **Potencia** | 272 CV (400 Nm) |
+| **0-100 km/h** | 7.2 s |
+| **Velocidad máxima** | 220 km/h |
+| **Consumo WLTP** | 0.5 l/100 km |
+| **Emisiones CO₂** | 10 g/km |
+| **Etiqueta DGT** | Cero |
+| **Batería** | 19.7 kWh |
+| **Autonomía eléctrica** | 117 km (WLTP) |
+| **Carga rápida DC** | 50 kW |
+| **Maletero** | 345 l |
+| **Medidas** | 4451 x 1839 x 1511 mm |
+| **Peso** | 1742 kg |
+
 
 ## Potencia con etiqueta Cero
 
@@ -1160,6 +1316,22 @@ El **Cupra Formentor VZ 265** es el punto dulce de la gama: el **2.0 TSI de 265 
 
 265 CV, 400 Nm, 0-100 en 5,9 segundos y 250 km/h de punta. Son cifras de compacto deportivo en un SUV de 4.451 mm. La tracción total reparte el par con inteligencia y el modo Cupra afila la respuesta, endurece la dirección y abre el escape. Pesa 1.465 kg, contenido para lo que ofrece.
 
+## Ficha técnica resumida: Cupra Formentor VZ 265
+
+| Dato | Valor |
+|---|---|
+| **Precio en España** | Desde 51.254 € |
+| **Potencia** | 265 CV (370 Nm) |
+| **0-100 km/h** | 6.5 s |
+| **Velocidad máxima** | 245 km/h |
+| **Consumo WLTP** | 7.9 l/100 km |
+| **Emisiones CO₂** | 177 g/km |
+| **Etiqueta DGT** | C |
+| **Maletero** | 450 l |
+| **Medidas** | 4451 x 1839 x 1511 mm |
+| **Peso** | 1465 kg |
+
+
 ## El VZ sensato
 
 El VZ 333 es más bestia, pero también más caro y más sediento. El 265 da el 90% de las sensaciones por menos dinero y con un consumo más llevadero (homologa 7,8-8,2 l/100 km; en real, 9-11 si le pisas, 8 si vas tranquilo). Es el motor que el chasis del Formentor estaba pidiendo.
@@ -1251,6 +1423,22 @@ Si te ha llegado una multa, <a href=https://recurretumulta.online/#analizador>an
 El **Cupra Formentor VZ 333** es el Formentor definitivo: el **2.0 TSI de 333 CV** (el motor del Golf R), tracción total, escape Akrapovic opcional y un chasis llevado al límite. Es el SUV compacto más deportivo del mercado generalista, el que compra quien no quiere renunciar a nada.
 
 333 CV, 420 Nm, 0-100 en 4,8 segundos y 250 km/h limitados. Son cifras de deportivo puro en un coche familiar de 450 litros de maletero. El VZ 333 no es un SUV rápido: es un deportivo con maletero grande.
+
+## Ficha técnica resumida: Cupra Formentor VZ 333
+
+| Dato | Valor |
+|---|---|
+| **Precio en España** | Desde 54.974 € |
+| **Potencia** | 333 CV (420 Nm) |
+| **0-100 km/h** | 4.8 s |
+| **Velocidad máxima** | 250 km/h |
+| **Consumo WLTP** | 8.7 l/100 km |
+| **Emisiones CO₂** | 197 g/km |
+| **Etiqueta DGT** | C |
+| **Maletero** | 420 l |
+| **Medidas** | 4451 x 1839 x 1511 mm |
+| **Peso** | 1641 kg |
+
 
 ## La bestia de Martorell
 
@@ -1345,6 +1533,25 @@ Si te ha llegado una multa, <a href=https://recurretumulta.online/#analizador>an
 El **Cupra Terramar e-Hybrid 204** es el híbrido enchufable del SUV grande de Cupra: **204 CV**, más de 115 km de autonomía eléctrica y **etiqueta Cero**, con 540 litros de maletero. Es el Terramar para familias que quieren electrificar sin renunciar al espacio.
 
 El Terramar es el SUV de 4.519 mm de Cupra, por encima del Formentor. La versión e-Hybrid 204 combina el 1.5 TSI con motor eléctrico para 204 CV, con batería de 19,7 kWh y carga rápida de 50 kW. Los 540 litros de maletero lo hacen el PHEV familiar más capaz de Cupra.
+
+## Ficha técnica resumida: Cupra Terramar e-Hybrid 204
+
+| Dato | Valor |
+|---|---|
+| **Precio en España** | Desde 45.350 € |
+| **Potencia** | 204 CV (350 Nm) |
+| **0-100 km/h** | 8.3 s |
+| **Velocidad máxima** | 205 km/h |
+| **Consumo WLTP** | 0.5 l/100 km |
+| **Emisiones CO₂** | 10 g/km |
+| **Etiqueta DGT** | Cero |
+| **Batería** | 19.7 kWh |
+| **Autonomía eléctrica** | 120 km (WLTP) |
+| **Carga rápida DC** | 50 kW |
+| **Maletero** | 400 l |
+| **Medidas** | 4519 x 1863 x 1584 mm |
+| **Peso** | 1898 kg |
+
 
 ## El PHEV familiar con espacio de verdad
 
@@ -1518,6 +1725,22 @@ Con 272 CV en un SUV familiar, cabeza fría: Si te llega una denuncia de tráfic
 El **Cupra Terramar VZ 265** es el SUV grande con carácter: **265 CV**, tracción total y 540 litros de maletero en un coche de 4.519 mm. Es el Terramar para quien quiere el SUV familiar sin renunciar a las prestaciones: el equivalente grande del Formentor VZ 265.
 
 265 CV, 400 Nm, 0-100 en 6,4 segundos. Pesa 1.675 kg, pero la tracción 4Drive y el chasis Cupra hacen que se mueva con una agilidad sorprendente para su tamaño. No es un deportivo, pero es el SUV familiar menos aburrido de su categoría.
+
+## Ficha técnica resumida: Cupra Terramar VZ 265
+
+| Dato | Valor |
+|---|---|
+| **Precio en España** | Desde 55.074 € |
+| **Potencia** | 265 CV (400 Nm) |
+| **0-100 km/h** | 5.9 s |
+| **Velocidad máxima** | 243 km/h |
+| **Consumo WLTP** | 8.6 l/100 km |
+| **Emisiones CO₂** | 191 g/km |
+| **Etiqueta DGT** | C |
+| **Maletero** | 540 l |
+| **Medidas** | 4519 x 1869 x 1584 mm |
+| **Peso** | 1675 kg |
+
 
 ## El SUV familiar que no aburre
 
@@ -2141,6 +2364,24 @@ El **Cupra Raval Plus** es el punto medio de la gama: **135 CV**, batería LFP d
 
 135 CV (100 kW) frente a 116 del acceso. La diferencia se nota en aceleración y recuperaciones, sin cambiar la autonomía (la batería es la misma). La carga rápida sube a 88 kW en continua, mejor que los 50 kW del base.
 
+## Ficha técnica resumida: Cupra Raval Plus 135
+
+| Dato | Valor |
+|---|---|
+| **Precio en España** | Desde 29.530 € |
+| **Potencia** | 135 CV (267 Nm) |
+| **0-100 km/h** | 9.9 s |
+| **Velocidad máxima** | 160 km/h |
+| **Emisiones CO₂** | 0 g/km |
+| **Etiqueta DGT** | Cero |
+| **Batería** | 37.0 kWh |
+| **Autonomía eléctrica** | 300 km (WLTP) |
+| **Carga rápida DC** | 88 kW |
+| **Maletero** | 441 l |
+| **Medidas** | 4046 x 1784 x 1518 mm |
+| **Peso** | 1599 kg |
+
+
 ## El equilibrio de la gama
 
 El Plus es para quien encuentra el Raval base un poco justo de potencia pero no necesita los 450 km del Endurance. Los 135 CV dan un empuje más alegre en ciudad y permiten adelantar con más margen, manteniendo la batería LFP (más barata y duradera que la NMC).
@@ -2241,6 +2482,25 @@ El **Cupra Raval Endurance** es el Raval para los que no se conforman con 300 km
 
 211 CV (155 kW) con 290 Nm, 0-100 en 7,1 segundos y 180 km/h de punta. La batería de 52 kWh con química NMC (más densa que la LFP del acceso) y la carga rápida de 105 kW en continua lo ponen en otra liga: 450 km aproximados y recargas serias en ruta.
 
+## Ficha técnica resumida: Cupra Raval Endurance 210
+
+| Dato | Valor |
+|---|---|
+| **Precio en España** | Desde 35.010 € |
+| **Potencia** | 211 CV (290 Nm) |
+| **0-100 km/h** | 7.1 s |
+| **Velocidad máxima** | 160 km/h |
+| **Consumo WLTP** | 13.7 kWh/100 km |
+| **Emisiones CO₂** | 0 g/km |
+| **Etiqueta DGT** | Cero |
+| **Batería** | 52.0 kWh |
+| **Autonomía eléctrica** | 450 km (WLTP) |
+| **Carga rápida DC** | 105 kW |
+| **Maletero** | 441 l |
+| **Medidas** | 4046 x 1784 x 1518 mm |
+| **Peso** | 1610 kg |
+
+
 ## El Raval para viajar
 
 El Endurance cambia la propuesta: ya no es solo un urbano, es un coche para todo. Los 450 km (aproximados) permiten viajes interurbanos sin ansiedad, y los 105 kW de carga hacen las paradas cortas. Los 211 CV le dan un empuje que el Raval base no tiene.
@@ -2336,6 +2596,25 @@ Si te ha llegado una multa, <a href=https://recurretumulta.online/#analizador>an
 El **Cupra Raval VZ** es el Raval para apasionados: **226 CV**, 290 Nm, 0-100 en 6,8 segundos y 175 km/h de punta, con unos **400 km de autonomía** (dato aproximado). Es el urbano eléctrico deportivo español, el que demuestra que lo eléctrico también puede emocionar.
 
 226 CV (166 kW) en un coche de 4.046 mm: la relación peso/potencia es de deportivo. El chasis VZ (más bajo, más firme, con DCC Sport y autoblocante VAQ) está a la altura: es el Raval que se compra quien quiere divertirse, no solo desplazarse.
+
+## Ficha técnica resumida: Cupra Raval VZ 226
+
+| Dato | Valor |
+|---|---|
+| **Precio en España** | Desde 39.070 € |
+| **Potencia** | 226 CV (290 Nm) |
+| **0-100 km/h** | 6.8 s |
+| **Velocidad máxima** | 175 km/h |
+| **Consumo WLTP** | 15.9 kWh/100 km |
+| **Emisiones CO₂** | 0 g/km |
+| **Etiqueta DGT** | Cero |
+| **Batería** | 52.0 kWh |
+| **Autonomía eléctrica** | 387 km (WLTP) |
+| **Carga rápida DC** | 105 kW |
+| **Maletero** | 441 l |
+| **Medidas** | 4046 x 1784 x 1518 mm |
+| **Peso** | 1615 kg |
+
 
 ## El GTI eléctrico español
 
