@@ -198,3 +198,7 @@
 | /media/peugeot-rcz-vision-concept-paris-2026-hero.webp | https://autobuzz.my/2026/10/13/the-peugeot-rcz-is-now-reimagined-as-an-ev/ | PEUGEOT (prensa) / AutoBuzz.my (distribución; licencia desconocida) | prensa |
 | /media/peugeot-rcz-vision-concept-paris-2026-trasera.webp | https://autobuzz.my/2026/10/13/the-peugeot-rcz-is-now-reimagined-as-an-ev/ | PEUGEOT (prensa) / AutoBuzz.my (distribución; licencia desconocida) | prensa |
 | /media/peugeot-rcz-vision-concept-paris-2026-interior.webp | https://autobuzz.my/2026/10/13/the-peugeot-rcz-is-now-reimagined-as-an-ev/ | PEUGEOT (prensa) / AutoBuzz.my (distribución; licencia desconocida) | prensa |
+| /media/mercedes-amg-gt-suv-precio-ficha-tecnica-hero.webp | https://media.mercedes-benz.com/en/article/7d4d77de-1aad-4c4c-8a89-a3e140109495 | Mercedes-Benz Group AG (prensa oficial, Mercedes-Benz Media) | prensa |
+| /media/mercedes-amg-gt-suv-precio-ficha-tecnica-oficial.webp | https://media.mercedes-benz.com/en/article/7d4d77de-1aad-4c4c-8a89-a3e140109495 | Mercedes-Benz Group AG (prensa oficial, Mercedes-Benz Media) | prensa |
+| /media/mercedes-amg-gt-suv-precio-ficha-tecnica-frontal.webp | https://media.mercedes-benz.com/en/article/7d4d77de-1aad-4c4c-8a89-a3e140109495 | Mercedes-Benz Group AG (prensa oficial, Mercedes-Benz Media) | prensa |
+| /media/mercedes-amg-gt-suv-filtrado-trasera.webp | https://www.thesupercarblog.com/leaked-here-is-our-first-look-at-the-all-electric-mercedes-amg-gt-suv/ | Mercedes-Benz Group AG (prensa) / The Supercar Blog (distribución; licencia desconocida) | prensa |

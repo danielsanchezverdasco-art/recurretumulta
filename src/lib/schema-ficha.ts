@@ -7,8 +7,10 @@
 import type { PuntoGen } from "./historial-precios-cargar";
 
 /** Precio real en origen cuando solo hay conversión a euros (p. ej. Stelato G9, China). */
-export const PRECIO_ORIGEN: Record<string, { price: number; priceCurrency: string }> = {
+export const PRECIO_ORIGEN: Record<string, { price: number; priceCurrency: string; pais?: string }> = {
   "stelato-g9-2026-precio-ficha-tecnica": { price: 479800, priceCurrency: "CNY" },
+  // Nota de prensa Mercedes-AMG 17/10/2026: AMG GT 53 SUV desde 113.050 € en Alemania (IVA 19 %); sin tarifa en España.
+  "mercedes-amg-gt-suv-precio-ficha-tecnica": { price: 113050, priceCurrency: "EUR", pais: "Alemania" },
 };
 
 export interface ProductoFichaIn {
@@ -21,7 +23,7 @@ export interface ProductoFichaIn {
   descripcion?: string;
   precio: number | null;
   precioAprox: boolean;
-  precioOrigen?: { price: number; priceCurrency: string } | null;
+  precioOrigen?: { price: number; priceCurrency: string; pais?: string } | null;
   historial?: PuntoGen[] | null;
 }
 
@@ -41,7 +43,12 @@ export function productoFicha(d: ProductoFichaIn): Record<string, unknown> {
   if (!conImagen) {
     offers = null;
   } else if (d.precioOrigen && ok(d.precioOrigen.price)) {
-    offers = { ...base, price: d.precioOrigen.price, priceCurrency: d.precioOrigen.priceCurrency };
+    offers = {
+      ...base,
+      price: d.precioOrigen.price,
+      priceCurrency: d.precioOrigen.priceCurrency,
+      ...(d.precioOrigen.pais ? { eligibleRegion: { "@type": "Country", name: d.precioOrigen.pais } } : {}),
+    };
   } else if (ok(d.precio) && !d.precioAprox) {
     const ult = d.historial?.[d.historial.length - 1];
     const desde = ult && ult.p === d.precio && (ult.m ?? "EUR") === "EUR" && !ult.a ? ult.f : null;

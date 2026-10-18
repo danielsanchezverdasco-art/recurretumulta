@@ -23,8 +23,9 @@ export interface DatosGeo {
   extra?: string | null;
   precio: number | null;
   precioAprox: boolean;
-  /** Precio en moneda de origen cuando el modelo no se vende en España (p. ej. CNY). */
-  precioOrigen?: { price: number; priceCurrency: string } | null;
+  /** Precio en moneda de origen cuando el modelo no se vende en España (p. ej. CNY).
+   *  Con «pais»: tarifa oficial de otro país en euros (p. ej. Alemania), sin precio en España. */
+  precioOrigen?: { price: number; priceCurrency: string; pais?: string } | null;
   historial?: PuntoHist[] | null;
 }
 
@@ -61,6 +62,11 @@ export function frasesGeo(d: DatosGeo): { frases: string[]; faqPrecio: string | 
     if (d.precioOrigen && ok(d.precioOrigen.price) && d.precioOrigen.priceCurrency !== "EUR") {
       const mon = MON[d.precioOrigen.priceCurrency] ?? d.precioOrigen.priceCurrency;
       const resto = `desde ${num(d.precioOrigen.price)} ${mon} en su mercado de origen, aprox. ${eur(d.precio)} al cambio; no tiene precio oficial en España${verif}.`;
+      precioTxt = `Cuesta ${resto}`;
+      faq = `${sujeto} cuesta ${resto}`;
+    } else if (d.precioOrigen?.pais && ok(d.precioOrigen.price)) {
+      // 18/10/2026: tarifa oficial publicada solo para otro país (p. ej. Alemania): se cita tal cual.
+      const resto = `desde ${eur(d.precioOrigen.price)} en ${d.precioOrigen.pais} (tarifa oficial de la marca); aún no tiene precio oficial en España.`;
       precioTxt = `Cuesta ${resto}`;
       faq = `${sujeto} cuesta ${resto}`;
     } else if (d.precioAprox) {
@@ -117,7 +123,7 @@ export interface CocheGeo {
   marca: string; modelo: string; tipo: string; categoria: string;
   precioDesde: number | null; potenciaCv: number | null; autonomiaKm: number | null; aprox: string[];
 }
-export function datosGeoCoche(c: CocheGeo, nombre: string, historial?: PuntoHist[] | null, precioOrigen?: { price: number; priceCurrency: string } | null): DatosGeo {
+export function datosGeoCoche(c: CocheGeo, nombre: string, historial?: PuntoHist[] | null, precioOrigen?: { price: number; priceCurrency: string; pais?: string } | null): DatosGeo {
   const prop = propulsionCoche(c.tipo);
   const cat = catTxt(c.categoria);
   const queEs = prop || cat ? `un coche${prop ? " " + prop : ""}${cat ? ` de tipo ${cat}` : ""}` : null;

@@ -21444,7 +21444,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "dacia-sandero-baja-precio-octubre-2026",
-    "title": "El Dacia Sandero baja a 13.502 € en octubre de 2026: 988 € menos que antes. Precio, motores TCe y GLP, y rivales del coche nuevo más barato de España.",
+    "title": "El Dacia Sandero baja a 13.502 €: 988 € menos",
     "excerpt": "La web oficial de Dacia España anuncia el Sandero desde 13.502 €: 988 € menos. Sigue siendo el coche nuevo más barato.",
     "category": "Motor",
     "date": "2026-10-03",
@@ -25140,7 +25140,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-05",
     "locale": "all",
     "heroSrc": "/media/jetour-t1-2025-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "\\\"Jetour T1, tres cuartos delantero en estudio\\",
+    "heroAlt": "\\\"Jetour T1 en camino de tierra\\",
     "keywords": [
       "Jetour T1",
       "Jetour T1 precio",
@@ -25149,7 +25149,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "T1 XWD",
       "Jetour T1 2025"
     ],
-    "readTime": 3
+    "readTime": 5
   },
   {
     "slug": "jetour-t1-i-dm-2025-precio-ficha-tecnica",

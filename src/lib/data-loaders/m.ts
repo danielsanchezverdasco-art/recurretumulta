@@ -440,6 +440,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "mercedes-amg-glc-43-2026-precio-ficha-tecnica": () => import("../comparador-coches-nuevos-c6.ts"),
     "mercedes-amg-glc-63-s-e-performance-2025-precio-ficha-tecnica": () => import("../comparador-coches-exp23.ts"),
     "mercedes-amg-gt-43-2026-precio-ficha-tecnica": () => import("../comparador-coches-exp9.ts"),
+    "mercedes-amg-gt-suv-precio-ficha-tecnica": () => import("../comparador-coches-mercedes-benz.ts"),
     "mercedes-amg-one-2025-precio-ficha-tecnica": () => import("../comparador-coches-lote12.ts"),
     "mercedes-amg-s-63-e-performance-2026-precio-ficha-tecnica": () => import("../comparador-coches-exp23.ts"),
     "mercedes-amg-sl-63-2025-precio-ficha-tecnica": () => import("../comparador-coches-lote12.ts"),
