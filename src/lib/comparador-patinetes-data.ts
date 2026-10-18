@@ -18,6 +18,7 @@ import { PATINETES_EXP_P10 } from "./comparador-patinetes-exp-p10.ts";
 import { PATINETES_EXP_P11 } from "./comparador-patinetes-exp-p11.ts";
 import { PATINETES_EXP_P12 } from "./comparador-patinetes-exp-p12.ts";
 import { PATINETES_BASE } from "./comparador-patinetes-base.ts";
+import FICHAS_REDIRIGIDAS_PAT from "./fichas-redirigidas.generated.json";
 import { PATINETES_PRIORIDAD_20261014 } from "./comparador-patinetes-prioridad-20261014.ts";
 
 /** Foto oficial de prensa para la galería de la ficha del patinete (nunca IA). */
@@ -96,6 +97,15 @@ export const PATINETES_COMPARADOR: PatineteComparador[] = [
   ...PATINETES_EXP_P12,
   ...PATINETES_PRIORIDAD_20261014,
 ];
+
+/** 18/10/2026: solo patinetes con ficha propia publicada. Fuera los duplicados con 301 a otra
+ *  ficha que sí existe (p. ej. xiaomi-electric-scooter-4 -> su ficha vigente). Mismo recuento que el hub /patinetes/. */
+const REDIR_PAT = FICHAS_REDIRIGIDAS_PAT as Record<string, string>;
+const IDS_PAT = new Set(PATINETES_COMPARADOR.map((p) => p.id));
+export const PATINETES_PUBLICADOS: PatineteComparador[] = PATINETES_COMPARADOR.filter((p) => {
+  const destino = REDIR_PAT[`patinetes/${p.id}`];
+  return !(destino && IDS_PAT.has(destino.replace(/^patinetes\//, "")));
+});
 
 /** ¿Está el modelo en la base local? Devuelve su id o null. */
 export function buscarEnBasePatinetes(marca: string, modelo: string): string | null {

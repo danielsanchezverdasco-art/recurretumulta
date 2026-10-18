@@ -21,7 +21,7 @@ import {
   type MotoComparador,
 } from "@/lib/comparador-motos-data.ts";
 import {
-  PATINETES_COMPARADOR,
+  PATINETES_PUBLICADOS,
   type PatineteComparador,
 } from "@/lib/comparador-patinetes-data.ts";
 
@@ -150,7 +150,7 @@ function patineteACard(p: PatineteComparador): FichaCard {
 const TODAS: FichaCard[] = [
   ...COCHES_COMPARADOR.map(cocheACard),
   ...MOTOS_PUBLICADAS.map(motoACard),
-  ...PATINETES_COMPARADOR.map(patineteACard),
+  ...PATINETES_PUBLICADOS.map(patineteACard),
 ];
 
 type Tab = "coche" | "moto" | "patinete";

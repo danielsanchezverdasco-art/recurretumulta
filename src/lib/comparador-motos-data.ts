@@ -158,13 +158,10 @@ export const MOTOS_COMPARADOR: MotoComparador[] = [
   ...MOTOS_PRIORIDAD_20261014,
   ...MOTOS_NUEVOS_M6,
 ];
-/** 18/10/2026: ids de datos sin ficha publicada (nunca tuvieron página; 404 en vivo). No se cuentan ni se enlazan. */
+/** 18/10/2026: ids de datos sin ficha propia publicada. No se cuentan ni se enlazan.
+ *  (18/10 tarde: cyclone-battlo, keeway-k-light-250v, zontes-368e, zontes-e125 y ktm-1390-super-adventure-s-2026
+ *  ya tienen ficha 200 indexable en vivo, así que vuelven a contar: hub y comparador = mismo recuento.) */
 const MOTOS_SIN_FICHA = new Set([
-  "cyclone-battlo",
-  "keeway-k-light-250v",
-  "zontes-368e",
-  "zontes-e125",
-  "ktm-1390-super-adventure-s-2026-ficha-tecnica-precio", // la ficha publicada es la 2025
   "yamaha-xsr700-2026-ficha-tecnica-precio", // 301 a la XSR700 2025
 ]);
 /** Solo motos con ficha publicada propia: fuera las que no tienen página y las duplicadas con 301

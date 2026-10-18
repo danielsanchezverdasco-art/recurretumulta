@@ -1084,6 +1084,7 @@
 /blog/suzuki-v-strom-250sx-2025-precio/
 /blog/aprilia-sr-gt-200-2026/
 /blog/chevrolet-spark-euv-2026-precio-autonomia/
+/blog/hiley-maxspeed-x10/
 /blog/cecotec-bongo-serie-doble-z75/
 /blog/denver-sel-10800f/
 /blog/segway-ninebot-f40e/
