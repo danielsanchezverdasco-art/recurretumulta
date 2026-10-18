@@ -57955,9 +57955,9 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 7
   },
   {
-    "slug": "frenar-antes-radar-multa-600-euros",
-    "title": "Multa por frenar ante el radar: 600€",
-    "excerpt": "Frenar bruscamente ante un radar es una infracción grave: 200 € y 4 puntos que se suman al exceso de velocidad. Así se multa y cómo recurrir.",
+    "slug": "frenar-antes-radar-multa-200-euros",
+    "title": "Multa por frenar ante el radar: 200 € (art. 53 RGC)",
+    "excerpt": "Frenar bruscamente ante un radar es una infracción grave de 200 € (sin pérdida de puntos) que se suma a la del exceso de velocidad. Así se multa y cómo recurrir.",
     "category": "Radares y Velocidad",
     "date": "2026-10-08",
     "locale": "es",
@@ -69695,6 +69695,25 @@ export const BLOG_LITE: BlogLitePost[] = [
       "AMG GT SUV vs Porsche Cayenne eléctrico"
     ],
     "readTime": 8
+  },
+  {
+    "slug": "geely-record-ventas-2026-almussafes",
+    "title": "Geely vende 3 millones de coches en 2026 y mira a Almussafes",
+    "excerpt": "Geely supera los 3 millones de coches vendidos en 2026: récord con 1,79 millones electrificados y exportaciones +169 %. La mirada, en Ford Almussafes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "es",
+    "heroSrc": "/media/geely-record-ventas-2026-hero.webp",
+    "heroAlt": "Geely Galaxy E5 eléctrico plateado, vista tres cuartos delantera en estudio",
+    "keywords": [
+      "geely ventas 2026",
+      "geely récord ventas",
+      "geely 3 millones coches",
+      "geely ford almussafes",
+      "geely exportaciones 2026",
+      "coches chinos ventas 2026"
+    ],
+    "readTime": 5
   },
   {
     "slug": "radical-sr1-xxr-2025-precio-ficha-tecnica",
