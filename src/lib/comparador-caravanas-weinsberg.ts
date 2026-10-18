@@ -1,8 +1,8 @@
-// Caravanas Weinsberg — ficha 1 (lote caravanas 2A, 17/10/2026).
-// Datos verificados: red de concesionarios Weinsberg/Knaus Tabbert
-// (caravana.de, caraworld), prensa especializada. Precio: orientativo en Europa
-// (Weinsberg no publica PVP oficial por modelo en España; marcado en "aprox").
-// Fotos: reales del modelo exacto, verificadas visualmente.
+// Caravanas Weinsberg — ficha 1 (lote caravanas 2A, 17/10/2026; corregida 18/10/2026).
+// Datos: lista oficial de precios Weinsberg MJ 2027 (PDF, datos 05.08.2026).
+// Precios: PVP oficial con IVA. MMA y pesos de la lista oficial.
+// Fotos: reales del modelo exacto, verificadas visualmente (de distribuidor,
+// no del press kit oficial: sin "-oficial" en el nombre).
 import type { CocheComparador } from "./comparador-coches-data.ts";
 
 export const CARAVANAS_WEINSBERG: CocheComparador[] = [
@@ -12,7 +12,7 @@ export const CARAVANAS_WEINSBERG: CocheComparador[] = [
     modelo: "CaraOne 550 QDK",
     tipo: "Caravana",
     categoria: "Caravana",
-    precioDesde: 27570,
+    precioDesde: 23530,
     potenciaCv: null,
     autonomiaKm: null,
     maleteroL: null,
@@ -25,29 +25,32 @@ export const CARAVANAS_WEINSBERG: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagen:
-      "/media/weinsberg-caraone-550-qdk-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/weinsberg-caraone-550-qdk-2026-precio-ficha-tecnica.webp",
     imagenOficial:
-      "/media/weinsberg-caraone-550-qdk-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/weinsberg-caraone-550-qdk-2026-precio-ficha-tecnica.webp",
     imagenInteriorOficial:
-      "/media/weinsberg-caraone-550-qdk-2026-precio-ficha-tecnica-interior-oficial.webp",
+      "/media/weinsberg-caraone-550-qdk-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 7590,
     anchoMm: 2320,
     altoMm: 2570,
-    pesoKg: 1700,
+    pesoKg: 1248,
+    mmaKg: 1500,
+    carnetNecesario: "B",
+    cargaUtilKg: 252,
     consumo: null,
     consumoUnidad: null,
     plazas: 5,
     parNm: null,
     traccion: null,
     emisionesCo2: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "5 plazas homologadas: cama transversal delantera + literas + comedor convertible",
       "Literas de 1,87x0,76 m: la distribución familiar por excelencia",
-      "1.700 kg de MMA con un solo eje: la remolca cualquier SUV o berlina media",
-      "Precio orientativo ~27.570 €: de las 5 plazas más baratas del mercado",
+      "1.500 kg de MMA con un solo eje: la remolca cualquier SUV o berlina media",
+      "23.530 € de PVP oficial (lista Weinsberg MJ 2027): de las 5 plazas más baratas del mercado",
       "Grupo Knaus Tabbert: construcción sólida y buena reventa en Europa",
     ],
     contras: [
@@ -72,19 +75,19 @@ export const CARAVANAS_WEINSBERG: CocheComparador[] = [
     },
     galeria: [
       {
-        src: "/media/weinsberg-caraone-550-qdk-2026-precio-ficha-tecnica-oficial-2.webp",
+        src: "/media/weinsberg-caraone-550-qdk-2026-precio-ficha-tecnica-2.webp",
         alt: "Weinsberg CaraOne 550 QDK, vista trasera",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/weinsberg-caraone-550-qdk-2026-precio-ficha-tecnica-oficial-4.webp",
+        src: "/media/weinsberg-caraone-550-qdk-2026-precio-ficha-tecnica-4.webp",
         alt: "Weinsberg CaraOne 550 QDK, vista lateral",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/weinsberg-caraone-550-qdk-2026-precio-ficha-tecnica-interior-oficial.webp",
+        src: "/media/weinsberg-caraone-550-qdk-2026-precio-ficha-tecnica-interior.webp",
         alt: "Weinsberg CaraOne 550 QDK, cama transversal delantera",
         ancho: 1200,
         alto: 800,
@@ -105,9 +108,9 @@ export const CARAVANAS_WEINSBERG: CocheComparador[] = [
       fuente: "Recomendaciones Weinsberg/Knaus Tabbert + red de concesionarios",
     },
     euroncap: null,
-    fuenteNombre: "Weinsberg (Knaus Tabbert) + red de concesionarios",
+    fuenteNombre: "Weinsberg (lista oficial de precios MJ 2027)",
     fuenteUrl:
-      "https://www.caravana.de/wohnwagen/weinsberg/caraone/weinsberg-caraone-550-qdk-8c046f",
+      "https://www.weinsberg.com/fileadmin/media/mj2026-2027/global/service/kataloge-preislisten/preislisten/wohnwagen/Preisliste_Modelljahr_2027-1_WW_DE-DE__05-08_13-30-59_.pdf",
   },
   {
     id: "weinsberg-caraone-390-qd-2026-precio-ficha-tecnica",
@@ -138,6 +141,9 @@ export const CARAVANAS_WEINSBERG: CocheComparador[] = [
     anchoMm: 2200,
     altoMm: 2570,
     pesoKg: 943,
+    mmaKg: 1200,
+    carnetNecesario: "B",
+    cargaUtilKg: 257,
     consumo: null,
     consumoUnidad: null,
     plazas: 4,
@@ -240,6 +246,9 @@ export const CARAVANAS_WEINSBERG: CocheComparador[] = [
     anchoMm: 2200,
     altoMm: 2570,
     pesoKg: 948,
+    mmaKg: 1200,
+    carnetNecesario: "B",
+    cargaUtilKg: 252,
     consumo: null,
     consumoUnidad: null,
     plazas: 4,
@@ -342,6 +351,9 @@ export const CARAVANAS_WEINSBERG: CocheComparador[] = [
     anchoMm: 2320,
     altoMm: 2570,
     pesoKg: 1053,
+    mmaKg: 1350,
+    carnetNecesario: "B",
+    cargaUtilKg: 297,
     consumo: null,
     consumoUnidad: null,
     plazas: 4,
@@ -443,6 +455,9 @@ export const CARAVANAS_WEINSBERG: CocheComparador[] = [
     anchoMm: 2320,
     altoMm: 2570,
     pesoKg: 1153,
+    mmaKg: 1350,
+    carnetNecesario: "B",
+    cargaUtilKg: 197,
     consumo: null,
     consumoUnidad: null,
     plazas: 4,
