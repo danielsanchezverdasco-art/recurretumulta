@@ -203,7 +203,7 @@ El salpicadero se orienta al conductor, con un cuadro digital de 10,2 pulgadas y
 
 ## Precio: 113.050 € en Alemania para el GT 53
 
-El primero en venderse es el **GT 53**, desde **113.050 €** en Alemania, según ADAC y Autocar. Los GT 55 y GT 63 llegarán más tarde (Autocar habla de abril de 2027) y aún no tienen precio. **En España todavía no hay tarifa oficial**: en cuanto Mercedes-Benz España la publique, haremos la ficha técnica con el precio en España. Hasta entonces no la tenemos, porque nuestra regla es no publicar fichas sin un precio oficial.
+El primero en venderse es el **GT 53**, desde **113.050 €** en Alemania, según ADAC y Autocar. Los GT 55 y GT 63 llegarán más tarde (Autocar habla de abril de 2027) y aún no tienen precio. **En España todavía no hay tarifa oficial**: en cuanto Mercedes-Benz España la publique, la añadiremos. Mientras tanto, tienes todos los datos oficiales de las tres versiones en la <a href=/coches/mercedes-amg-gt-suv-precio-ficha-tecnica/>ficha técnica del Mercedes-AMG GT SUV</a>, con el precio alemán marcado como tal.
 
 ## Rivales
 

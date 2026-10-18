@@ -10,6 +10,12 @@ describe("ficha del post", () => {
     const post = { slug: "mercedes-amg-gt-suv-electrico-presentacion-oficial", title: "AMG GT SUV eléctrico: 1.169 CV, 700 km y carga en 12 min" };
     expect(elegirFicha(post, [cayenne, eletre])).toBeNull();
   });
+  it("el post del AMG GT SUV enlaza su propia ficha (y no la del GT 63 Coupé)", () => {
+    const post = { slug: "mercedes-amg-gt-suv-electrico-presentacion-oficial", title: "AMG GT SUV eléctrico: 1.169 CV, 700 km y carga en 12 min" };
+    const gtSuv = f("coches", "mercedes-amg-gt-suv-precio-ficha-tecnica", "Mercedes-Benz", "AMG GT SUV");
+    const gt63 = f("coches", "mercedes-benz-amg-gt-63-precio-ficha-tecnica", "Mercedes-Benz", "AMG GT 63 4MATIC+ Coupé");
+    expect(elegirFicha(post, [cayenne, gt63, gtSuv, eletre])?.id).toBe(gtSuv.id);
+  });
   it("casa marca y modelo exactos", () => {
     const post = { slug: "mercedes-amg-glc-43-2026-precio-ficha-tecnica", title: "Mercedes-AMG GLC 43: 421 CV con etiqueta ECO" };
     const glc = f("coches", "mercedes-amg-glc-43-2026-precio-ficha-tecnica-x", "Mercedes-Benz", "AMG GLC 43 4MATIC");
