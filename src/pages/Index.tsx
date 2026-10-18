@@ -936,18 +936,7 @@ function $() {
           },
         ],
       },
-      {
-        "@context": `https://schema.org`,
-        "@type": `BreadcrumbList`,
-        itemListElement: [
-          {
-            "@type": `ListItem`,
-            position: 1,
-            name: `Inicio`,
-            item: `https://recurretumulta.online/`,
-          },
-        ],
-      },
+      // 18/10/2026: fuera el BreadcrumbList de un solo elemento (portada): Google pide al menos 2.
     ],
   });
   let L = Q[n].base,
