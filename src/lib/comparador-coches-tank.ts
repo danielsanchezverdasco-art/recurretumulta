@@ -673,8 +673,8 @@ export const COCHES_TANK: CocheComparador[] = [
         alto: 1280,
       },
     ],
-    fuenteNombre: "China Services Info",
-    fuenteUrl: "https://www.chinaservicesinfo.com/s/202111/22/WS619b076a498e6a12c120d14a/gwms-tank-kicks-off-presales-of-tank-500.html",
+    fuenteNombre: "Wikipedia",
+    fuenteUrl: "https://en.wikipedia.org/wiki/GWM_Tank_500",
     analisisSlug: "tank-500-3-0t-2024-precio-ficha-tecnica",
   },
   {

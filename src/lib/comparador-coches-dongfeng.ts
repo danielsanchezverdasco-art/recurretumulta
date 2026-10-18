@@ -506,6 +506,8 @@ export const COCHES_DONGFENG: CocheComparador[] = [
         alto: 781,
       },
     ],
+    fuenteNombre: "Dongfeng Cuba (distribuidor oficial)",
+    fuenteUrl: "https://dongfengqba.com/modelos/shine/",
     analisisSlug: "dongfeng-shine-2025-precio-ficha-tecnica",
     euroncap: {
       estrellas: null,
