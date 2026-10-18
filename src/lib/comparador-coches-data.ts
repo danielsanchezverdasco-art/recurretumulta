@@ -190,6 +190,13 @@ export interface CocheComparador {
   traccion: string | null;           // "Delantera" | "Trasera" | "Total"
   emisionesCo2: number | null;       // g/km WLTP
   aprox: string[];                   // campos con cifra aproximada (se muestran con ≈)
+  cicloAutonomia?: string | null;    // ciclo de homologación de la autonomía: "CLTC" | "WLTP" | "NEDC" (China-first)
+  versiones?: {
+    nombre: string;                  // nombre de la versión
+    precioEur: number | null;        // €, conversión aproximada del precio oficial
+    precioOriginal: string;          // ej. "59.900 ¥"
+    nota?: string;                   // ej. "Precio oficial en China; conversión aproximada"
+  }[] | null;
   pros: string[];               // de la tabla de pros del artículo (textos cortos)
   contras: string[];            // de la tabla de contras (textos cortos)
   imagen: string;               // "/media/<slug>-hero.webp" (IA, artículo)
