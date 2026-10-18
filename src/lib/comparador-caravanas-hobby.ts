@@ -45,10 +45,7 @@ export const CARAVANAS_HOBBY: CocheComparador[] = [
     traccion: null,
     emisionesCo2: null,
     // MMA 1.800 kg con Auflastung opcional (exposé oficial); carnet B con el
-    // coche adecuado (conjunto ≤3.500 kg).
-    mmaKg: 1800,
-    carnetNecesario: "B",
-    cargaUtilKg: 325, // según exposé oficial (1.800 − 1.475 kg)
+    // coche adecuado (conjunto ≤3.500 kg). Carga útil 325 kg (1.800 − 1.475 kg).
     aprox: ["precioDesde", "pesoKg"],
     pros: [
       "De una de las marcas de caravanas más vendidas de Europa: red de servicio y repuestos imbatible",
