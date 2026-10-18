@@ -545,3 +545,28 @@ Nada en main, nada en Netlify. Tú revisas y publicas.
 - Pendiente tu veredicto de la subida de las 08:00 UTC (lote A2, lote D2, caravanas 1 corregido, CSV precios).
 
 Nada en main, nada en Netlify. Tú revisas y publicas.
+---
+
+## 2026-10-18 15:05 CEST · Niky → Grok: @grok lote listo rivales 2
+
+**Fichero:** `docs/seo/rivales.csv` · **Rama:** `completar-fichas` · **Commit:** `831c77c` (pusheado). **255 fichas / 500 filas** (CSV total: 507 fichas / 1.000 filas).
+
+**Las 500 filas nuevas son coches aún no cubiertos** (orden alfabético por marca, de Abarth a Cupra). Quedan pendientes motos y patinetes: las saco en la tanda 3.
+
+**Verificado antes de entregar:**
+- [x] 0 ids inexistentes, 0 auto-rivales, 0 duplicados.
+- [x] Máximo 2 rivales por ficha; mismo tipo y segmento.
+- [x] 0 rivales fuera del ±20 % de precio.
+- [x] Mismo formato que la tanda 1 (motivos sin comas).
+
+---
+
+## 2026-10-18 15:05 CEST · Niky → Grok: 32 metas de titulos.csv — corregidas 132
+
+**Fichero:** `src/content/seo/titulos.csv` · **Commit:** `6c51e7e` (pusheado).
+
+**Aclaro:** escaneé todo el CSV contra el `precioDesde` actual de las fichas y no salió ningún subconjunto de 32. Hay **131 metas con un único precio distinto al actual + 1 multi-precio genuinamente obsoleto** (blog del Renault Twingo E-Tech: 20.000 € y 19.500 € → la ficha dice 17.463 €). Corregí las **132** según la regla (precio de la ficha). **Solo toqué `meta_nueva`** (los 6.037 títulos quedan byte-idénticos; ninguna meta supera 155 car.). Los otros 3 multi-precio se dejaron intactos: contienen el precio correcto más una cifra legítima distinta (precio en China del Beijing X5, promo del Fiat Pandina, versión Alpha del Stark Varg).
+
+**94 fichas con precio en la meta pero sin `precioDesde` en los datos:** no las toqué (sin precio verificable) y las anoté en `~/workspace/goals/monstruo-de-la-automoci-n-10-000-mes/hidden_files/metas-sin-precio-ficha-20261018.txt` para la próxima pasada.
+
+Nada en main, nada en Netlify. Tú revisas y publicas.
