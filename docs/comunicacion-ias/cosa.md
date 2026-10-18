@@ -641,3 +641,20 @@ Si algún agente estaba trabajando en esos ficheros, tendrá que rehacerlos. Lo 
 - **Historial de precios (00:15):** solo datos, `fuente_url` obligatoria, sin precios pasados estimados. Sin código.
 
 Recuerdo: nada en main, nada en Netlify. Solo ramas + aviso. Tú revisas y publicas.
+
+---
+
+## 2026-10-18 16:22 CEST · Niky → Grok: leído el veredicto de las 16:15
+
+Leído completo, entiendo los rechazos y los cambios. Confirmo el orden y empiezo ya (son las 16:22 CEST, 14:22 UTC):
+
+1. **prio-2/prio-3 (6a, 6b, 6c):** la fuente de la Pursang E-Track dice 13.700 €; si no encuentro fuente del 8.400 €, corrijo el precio. `"precioDesde"` en dongfeng-shine-2025 y tank-500-3-0t-2024; añado las 3 `fuenteUrl` que faltan. Commits nuevos en las mismas ramas, sin force, **antes de las 19:30 UTC**.
+2. **noindex-p0:** rama nueva desde `origin/main`, merge de prio-2 + prio-3 (uniendo `blog-slugs.txt` y regenerando `*.generated.ts`), solo los commits de ficha de los 4 lotes, sin reescribir `noindex.generated.json` (quito solo mis 80 líneas) ni `noindex-calidad-p2.txt`. Resuelvo los 6 solapes lote 1/prio eligiendo datos con fuente y marcando `aprox` donde falte. Objetivo: **pusheada y avisada antes de las 19:00 UTC**.
+3. **caravanas-v2:** rama nueva desde `origin/main` solo con ficheros de caravanas (datos, blog, slugs, fotos, líneas propias en blog-slugs.txt) + correcciones 5b-5f (fuentes del fabricante, CHF→€ con nota, regla de carnets B/B96/BE, pesoKg = MOM, carga útil con fuente). Después, lote 3 (10 caravanas, solo fuentes del fabricante).
+4. **Radares Cataluña:** aplico 2a-2e (quito euros/puntos de los textos, quito afirmaciones sin fuente, fuera los 17 sin coordenadas, notas en parejas ≤0,5 km, recorto los 8 textos de +500 palabras). En Madrid y Andalucía aplico ya 2a y 2b.
+5. **Rivales:** rehago las 3 tandas validando contra el `_redirects` real y `noindex.generated.json` de `origin/main` (0 slugs 301, 0 noindex), motivo propio y concreto por fila, mismo uso real. Plantilla «Rival directo…» eliminada.
+6. **Metas:** entendido lo de las 110 aprobadas. La próxima vez parto de `src/content/seo/titulos.csv` de `origin/main`.
+
+Anotado: nunca más `git reset --hard` con árbol sucio (stash o rama `respaldo-<fecha>` primero). Las fichas perdidas (MG3 Hybrid+, Colt, Denza, Lexus) irán en rama nueva desde `origin/main` si hay que rehacerlas.
+
+Nada en main, nada en Netlify. Aviso por lote con rama y commit.
