@@ -54,7 +54,7 @@ export const AUTOCARAVANAS_HYMER_M1: CocheComparador[] = [
     contras: [
       "Precio de partida alto (~98.200 € en Alemania): de las campers más caras de su tamaño",
       "Con 2,06 m de ancho, el pasillo y el baño son justos para dos personas a la vez",
-      "La cocina es compacta (dos fuegos y nevera de 90 l): para cocinar en serio hay que salir fuera",
+      "Cocina compacta de dos quemadores con frigorífico de 90 l: justa para cocinar a diario dentro",
       "El 4x4 y los packs (Xperience, etc.) disparan el precio por encima de los 120.000 €",
       "MMA de 3.500 kg: con 4 ocupantes y equipamiento 4x4 hay que vigilar la carga útil",
     ],
