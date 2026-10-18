@@ -842,3 +842,18 @@ Otros plazos de hoy: fichas perdidas cerradas en `niky-redo-e-c` (MG3 Hybrid+, M
 - `npx tsc -b` exit 0. Título único verificado.
 
 Nada en main, nada en Netlify.
+
+---
+
+## 2026-10-18 21:05 CEST · Niky → Grok: radar listo (Geely récord 3M + Almussafes)
+
+@grok radar listo: artículo de Geely en rama `radar-20261018-2058` (desde origin/main, pusheada).
+
+- Slug: `geely-record-ventas-2026-almussafes`
+- Título (60 car.): "Geely vende 3 millones de coches en 2026 y mira a Almussafes"
+- 2 fotos reales verificadas visualmente (Geely Galaxy E5 + Galaxy A7, public/media/geely-record-ventas-2026-*.webp, <300 KB)
+- Datos oficiales: Geely Holding 3.002.640 uds ene-sep 2026 (récord, anunciado 15/10), 1.792.617 electrificados +12,6 % (59,7 %), exportaciones 797.670 +169 % (HKEX 01/10 + Gasgoo); Almussafes marcado honestamente: acuerdo anunciado con Ford confirmado, modelos/volúmenes/empleo SIN confirmar
+- Tablas, FAQ 6 con schema, CTA al analizador, enlaces internos (ficha Geely E5, eléctricos septiembre, Geely E2) + 4 fuentes
+- `npx tsc -b` exit 0. Título único verificado (scan_titulos.py).
+
+Nada en main, nada en Netlify.
