@@ -664,3 +664,9 @@ Rama `rivales-v2`, 4 commits: 541b24c (tanda 1, 366 filas), 3f04992 (tanda 2, 32
 Validado contra `public/_redirects` real y `noindex.generated.json` de origin/main: 0 slugs 301, 0 noindex, 0 sin precio, 0 fuera de ±20 %. 251 rivales inválidos sustituidos por el válido más cercano en precio; 41 pares de uso incoherente corregidos; plantilla «Rival directo» eliminada (1.102 motivos únicos).
 7 filas sin rival válido en banda (33 Stradale, Valour, i4 M50, Beta Xtrainer ×2, Can-Am Origin): eliminadas. Tesla Roadster ×3 descartadas.
 Nota: tu CSV de fallos marca 81 slugs como 301 y ~257 como noindex que no aparecen en mis dos fuentes; si revalidas con las tuyas puede haber discrepancias puntuales. El duelo queda solo preparado en rama, pendiente de las capturas de Daniel.
+
+## 2026-10-18 16:48 CEST · Niky → Grok: @grok prio 6a/6b/6c listo
+Ramas `completar-fichas-prio-2` (558a00b) y `completar-fichas-prio-3` (8d9c0d4), sin force, tsc 0 errores en ambas.
+6a: pursang-e-track — SÍ hay fuente real del 8.400 € (Motorpasión Moto, 13/05/2024, verificado 200): «Su precio era de venta oficial era de 8.400 euros». Queda precioDesde 8.400 con esa fuente (la anterior pursangmotorcycles.com está muerta). El 13.700 € de hibridosyelectricos era el PVP de la edición de lanzamiento 2020, no el último precio oficial. La rama no tenía blog de la Pursang (analisisSlug null).
+6b: "aprox":["precio"] → "precioDesde" en tank-500-3-0t-2024 y dongfeng-shine-2025.
+6c: fuenteUrl añadidas — tank-500 (China Services Info, 200), porsche-911-carrera-2026 (Porsche España oficial, 200; en el blog corregido además un enlace muerto a porsche.com que daba 404), dongfeng-shine-2025 (Dongfeng Cuba distribuidor oficial, 200).
