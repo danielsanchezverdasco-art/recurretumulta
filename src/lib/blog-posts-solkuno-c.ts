@@ -114,41 +114,54 @@ En el día a día, sí: con 201-310 km de autonomía eléctrica cubres la semana
       "Deepal S09 vs Li Auto L9",
       "Changan Deepal España"
     ],
-    "content": `<img src=/media/deepal-s09-suv-grande.webp alt=SUV Deepal S09 de Changan, grande y lujoso, en una ciudad moderna al atardecer>
+    "content": `<img src=/media/deepal-s09-2026-precio-ficha-tecnica-hero.webp alt=Deepal S09, SUV EREV de 6 plazas, tres cuartos delantero>
 
 Puedes <a href=/coches/deepal-s09-2026-precio-ficha-tecnica/>ver la ficha técnica completa del Deepal S09</a> con todos los datos.
 
-**21.000 unidades vendidas en dos meses y un precio que parece un error: desde 239.900 yuanes (unos 29.370 €).** El Deepal S09 es el SUV grande de la marca tecnológica de Changan, y su carta de presentación es brutal: 5,2 metros, seis plazas, hasta **220 km de autonomía eléctrica** y un motor 1.5 turbo que solo actúa como generador. Lleva dentro tecnología de Huawei (conducción asistida con LiDAR y HarmonyOS), suspensión neumática y una garantía de por vida para el sistema eléctrico. Es la prueba de que el lujo familiar chino ya no pide perdón. <a href=/comparador-coches/>Mídelo frente a sus rivales en el comparador</a>.
+**21.000 unidades vendidas en dos meses y un precio que parece un error: desde 239.900 yuanes (unos 31.860 €).** El Deepal S09 es el SUV grande de la marca tecnológica de Changan, y su carta de presentación es brutal: 5,21 metros, seis plazas, hasta **220 km de autonomía eléctrica** y un motor 1.5 turbo que solo actúa como generador. Lleva dentro tecnología de Huawei (conducción asistida con LiDAR y HarmonyOS), suspensión neumática y una garantía extendida para el sistema eléctrico en China. Es la prueba de que el lujo familiar chino ya no pide perdón. <a href=/comparador-coches/>Mídelo frente a sus rivales en el comparador</a>.
+
+*Actualizado el 18/10/2026. Cómo verificamos estos datos: especificaciones de la homologación china y del lanzamiento en Rusia (septiembre de 2026) contrastadas con Global Auto Insight, auto-data.net y nev-in-china.com; precios convertidos al cambio del día (1 yuan ≈ 0,1328 €); a esta fecha no hay pruebas EuroNCAP ni homologación WLTP publicadas.*
 
 ## Ficha técnica
 
 | Dato | Deepal S09 |
 |---|---|
-| Longitud | 5.200 mm (aprox.) |
+| Longitud | 5.205 mm |
 | Plazas | 6 (3 filas) |
 | Motorización | EREV: motor 1.5L turbo gasolina como generador + 1 o 2 motores eléctricos |
-| Potencia | ~310 CV (trasera) / hasta 492 CV (AWD) |
-| Par máximo | 535 Nm (versión básica) |
-| Batería | 40,18 kWh LFP |
-| Autonomía eléctrica | Hasta 220 km (CLTC) |
-| Autonomía combinada | Más de 1.000 km |
-| Carga rápida | Hasta 120 kW |
+| Potencia | 314 CV (trasera) / 492 CV (AWD) |
+| Par máximo | 375 Nm (trasera) / 637 Nm (AWD) |
+| Batería | 40,18 kWh LFP (53,49 kWh en la versión de gran autonomía) |
+| Autonomía eléctrica | Hasta 220 km (CLTC) / 310 km con la batería grande |
+| Autonomía combinada | Hasta 1.210 km (CLTC) |
+| Carga rápida | 117 kW (30-80 % en 15 min) |
 | Suspensión | Neumática ajustable con amortiguadores CDC |
-| Precio en China | 239.900 - 309.900 yuanes (~29.370 - 37.940 €) |
+| Precio en China | 239.900 - 309.900 yuanes (~31.860 - 41.155 €) |
 
 ## Curiosidades
 
 - **21.000 unidades en 2 meses**: su lanzamiento en China fue un éxito inmediato en el segmento de lujo.
-- **Garantía de por vida** para el sistema eléctrico y la batería; 5 años o 100.000 km para el resto del vehículo.
+- **Garantía extendida en China** para el sistema eléctrico y la batería; fuera de China no hay datos oficiales publicados.
 - **Cine en la segunda fila**: dos pantallas delanteras de 15,6" y una pantalla trasera desplegable de 21,4".
 - **Nevera inteligente y consola central móvil**: el interior está diseñado como un salón rodante.
 - **Tecnología Huawei dentro**: conducción asistida con LiDAR (ADS 3.x) y cabina HarmonyOS, sonido de 20 altavoces y 8 airbags.<img src=/media/deepal-s09-2026-precio-ficha-tecnica-oficial.webp alt=Deepal S09 en foto oficial del fabricante>
 
 ## Rivales
 
-En China pelea con el **Li Auto L9** y el **Aito M9**, sus enemigos naturales. En Europa, si llegara, el espejo sería el **Volvo EX90**: mismo planteamiento familiar de 6-7 plazas, pero el sueco cuesta más del doble. Su hermano pequeño, el <a href=/blog/deepal-s07-2025-precio-ficha-tecnica/>Deepal S07</a>, ya se vende en España.
+En China pelea con el <a href=/coches/li-auto-l9-2026-precio-ficha-tecnica/>Li Auto L9</a> y el <a href=/coches/aito-m9-2025-precio-ficha-tecnica/>Aito M9</a>, sus enemigos naturales. En Europa, si llegara, el espejo sería el **Volvo EX90**: mismo planteamiento familiar de 6-7 plazas, pero el sueco cuesta más del doble. Su hermano pequeño, el <a href=/blog/deepal-s07-2025-precio-ficha-tecnica/>Deepal S07</a>, ya se vende en España.
 
-**Precio honesto:** en China cuesta entre 239.900 y 309.900 yuanes según versión. **No hay precio oficial para Europa**: Changan ya está en España y lanzó el S07 en Alemania, pero del S09 no hay anuncio de llegada.
+En nuestro catálogo, los rivales más cercanos por precio son el <a href=/coches/dacia-bigster-hybrid-155-2025-precio-ficha-tecnica/>Dacia Bigster Hybrid 155</a> y el <a href=/coches/mitsubishi-grandis-hev-2025-precio-ficha-tecnica/>Mitsubishi Grandis HEV</a>, ambos en torno a los 29.400 €: mucho más baratos de comprar, pero sin los 220 km eléctricos ni el planteamiento premium del S09.
+
+**Precio honesto:** en China cuesta entre 239.900 y 309.900 yuanes según versión (~31.860 - 41.155 € al cambio). **No hay precio oficial para Europa**: Changan ya está en España y lanzó el S07 en Alemania, pero del S09 no hay anuncio de llegada.
+
+| Versión | Tracción | Potencia | Batería | Autonomía eléctrica CLTC | Precio en China |
+|---|---|---|---|---|---|
+| RWD Max | Trasera | 314 CV | 40,18 kWh | 220 km | 239.900 ¥ (~31.860 €) |
+| RWD Ultra | Trasera | 314 CV | 40,18 kWh | 220 km | 259.900 ¥ (~34.515 €) |
+| RWD Ultra+ | Trasera | 314 CV | 40,18 kWh | 220 km | 279.900 ¥ (~37.170 €) |
+| RWD Ultra+ gran autonomía | Trasera | 314 CV | 53,49 kWh | 310 km | 279.900 ¥ (~37.170 €) |
+| AWD Ultra+ | Total | 492 CV | 40,18 kWh | 210 km | 309.900 ¥ (~41.155 €) |
+| AWD Ultra+ gran autonomía | Total | 492 CV | 53,49 kWh | 300 km | 309.900 ¥ (~41.155 €) |
 
 ## Antes de decidir: lo que conviene vigilar
 
@@ -162,7 +175,16 @@ En China pelea con el **Li Auto L9** y el **Aito M9**, sus enemigos naturales. E
 Deepal, la marca tecnológica del gigante chino Changan, con sistemas de conducción inteligente y cabina de Huawei.
 
 ### ¿Cuánto cuesta el Deepal S09?
-Entre 239.900 y 309.900 yuanes en China (unos 29.370 - 37.940 € al cambio). La versión más equipada, con tracción total, ronda los 37.940 €.
+Entre 239.900 y 309.900 yuanes en China (unos 31.860 - 41.155 € al cambio). La versión más equipada, con tracción total y 492 CV, ronda los 41.155 €.
+
+### ¿Tiene el Deepal S09 prueba EuroNCAP?
+No. A 18/10/2026 no hay ninguna prueba EuroNCAP publicada del S09. Lleva 8 airbags y conducción asistida Huawei con LiDAR, pero sin el crash test europeo no hay estrellas que mostrar.
+
+### ¿Qué mantenimiento necesita un EREV como el S09?
+El motor 1.5T solo actúa como generador, así que también necesita aceite y filtros, además de la inspección del sistema eléctrico. Deepal no publica el intervalo fuera de China; consúltalo en el manual del modelo si llega a Europa.
+
+### ¿A quién le conviene el Deepal S09?
+A familias numerosas que quieran 6 plazas con 220 km eléctricos para el día a día y más de 1.000 km de autonomía total para viajar sin planificar cargas. Si no necesitas tanto coche, el <a href=/blog/deepal-s07-2025-precio-ficha-tecnica/>Deepal S07</a> ya se vende en España.
 
 ### ¿Es eléctrico o híbrido?
 Es un EREV (eléctrico de autonomía extendida): el motor 1.5 de gasolina solo genera electricidad; las ruedas las mueven siempre motores eléctricos.
@@ -174,7 +196,7 @@ Hasta 220 km según el ciclo CLTC, con una autonomía combinada superior a los 1
 No está confirmado. Changan ya vende el Deepal S07 en España y lo ha lanzado en Alemania, así que la puerta está abierta, pero no hay anuncio oficial.
 
 ### ¿Qué garantía ofrece?
-5 años o 100.000 km para el vehículo, 150.000 km para componentes clave como la suspensión neumática y garantía de por vida para el sistema eléctrico y la batería.
+En China Deepal anuncia garantías extendidas para el sistema eléctrico y la batería; fuera de China no hay datos oficiales publicados.
 
 ### ¿Qué etiqueta DGT tendría el Deepal S09?
 Como EREV con hasta 220 km de autonomía eléctrica, aspiraría a la **etiqueta Cero**. Confírmalo para tu caso en la <a href=/calculadora-etiqueta-dgt/>calculadora de etiqueta DGT</a> y revisa la <a href=/guias/zbe/>guía de ZBE</a>.
@@ -185,11 +207,13 @@ Sí: el <a href=/blog/deepal-s07-2025-precio-ficha-tecnica/>Deepal S07</a> ya se
 ## Fuentes
 
 - <a href=https://www.dgt.es/>DGT: etiquetas ambientales y zonas de bajas emisiones</a>
+- <a href=https://www.globalautoinsight.com/news/changan-deepal-s09-russia-1006-km-range-specifications>Global Auto Insight: especificaciones del Deepal S09</a>
+- <a href=https://www.auto-data.net/en/deepal-s09-1.5t-40.18-kwh-492hp-4wd-extended-range-55283>auto-data.net: ficha técnica del S09 4WD</a>
 - <a href=https://www.autosrodando.com/deepal-s09-el-hibrido-de-lujo-ya-vendio-21-000-unidades-en-solo-2-meses/>AutosRodando: Deepal S09, 21.000 unidades en 2 meses</a>
 - <a href=https://www.sobreruedas.news/novedades/la-camioneta-hibrida-mas-grande-e-imponente-de-deepal/>SobreRuedas: la camioneta híbrida más grande de Deepal</a>
 - <a href=https://www.elcarrocolombiano.com/autos-del-mundo/deepal-s09-a-la-venta-con-1-000-km-de-autonomia-y-3-filas-lujo-espacio-a-mitad-de-precio/>El Carro Colombiano: Deepal S09 a la venta</a>
 
-¿Te ha llegado una multa y dudas si puedes recurrirla? <a href=/#analizador gratis con nuestra IA</a> antes de pagar.
+¿Te ha llegado una multa y dudas si puedes recurrirla? <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
 `
   },
   {

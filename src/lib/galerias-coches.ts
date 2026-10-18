@@ -1568,14 +1568,14 @@ export const GALERIAS_COCHES: Record<string, FotoCarrusel[]> = {
     { src: "/media/omoda-s5-2026-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior del Omoda S5 con pantalla central", credito: "Imagen ilustrativa generada por IA" }
   ],
   "jaecoo-6-ev-2026-precio-ficha-tecnica": [
-    { src: "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-oficial.webp", alt: "Jaecoo 6 EV, SUV eléctrico de diseño caja en vista de estudio", credito: "Imagen ilustrativa generada por IA" },
-    { src: "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-hero.webp", alt: "Jaecoo 6 EV en pista de tierra", credito: "Imagen ilustrativa generada por IA" },
-    { src: "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior del Jaecoo 6 EV con pantalla de 15,6 pulgadas", credito: "Imagen ilustrativa generada por IA" }
+    { src: "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-foto2.webp", alt: "Jaecoo 6 EV, SUV eléctrico de diseño caja en vista de estudio", credito: "Fotografía del modelo (prensa)" },
+    { src: "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-hero.webp", alt: "Jaecoo 6 EV en pista de tierra", credito: "Fotografía del modelo (prensa)" },
+    { src: "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-interior.webp", alt: "Interior del Jaecoo 6 EV con pantalla de 15,6 pulgadas", credito: "Fotografía del modelo (prensa)" }
   ],
   "jaecoo-6-ev-awd-2026-precio-ficha-tecnica": [
-    { src: "/media/jaecoo-6-ev-awd-2026-precio-ficha-tecnica-oficial.webp", alt: "Jaecoo 6 EV AWD, vista de estudio", credito: "Imagen ilustrativa generada por IA" },
-    { src: "/media/jaecoo-6-ev-awd-2026-precio-ficha-tecnica-hero.webp", alt: "Jaecoo 6 EV AWD en dunas", credito: "Imagen ilustrativa generada por IA" },
-    { src: "/media/jaecoo-6-ev-awd-2026-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior del Jaecoo 6 EV AWD", credito: "Imagen ilustrativa generada por IA" }
+    { src: "/media/jaecoo-6-ev-awd-2026-precio-ficha-tecnica-foto2.webp", alt: "Jaecoo 6 EV AWD, vista de estudio", credito: "Fotografía del modelo (prensa)" },
+    { src: "/media/jaecoo-6-ev-awd-2026-precio-ficha-tecnica-hero.webp", alt: "Jaecoo 6 EV AWD en dunas", credito: "Fotografía del modelo (prensa)" },
+    { src: "/media/jaecoo-6-ev-awd-2026-precio-ficha-tecnica-interior.webp", alt: "Interior del Jaecoo 6 EV AWD", credito: "Fotografía del modelo (prensa)" }
   ],
 "dfsk-e5-plus-2026-precio-ficha-tecnica": [
     { src: "/media/dfsk-e5-plus-2026-precio-ficha-tecnica-hero.webp", alt: "DFSK E5 Plus azul oscuro tres cuartos frontal en calle residencial española", credito: "Imagen ilustrativa generada por IA" },
