@@ -62,3 +62,18 @@ Calidad: estructura idéntica a merlin4.ts (mismo tipo BlogPost); similitud Jacc
 Honestidad de datos (nada inventado): Chausson 777 solo publica la longitud (resto «no oficial» de concesionarios); Laika sin masa ni PVP publicados (82.500 € «no oficial» DE); Knaus peso/carga «no oficiales»; Etrusco dimensiones/masas «no oficiales» (PVP solo £72,799 UK); Sport 340 UP masa «no oficial»; Hymer ML-T 580 4x4 precio 165.900 € «no oficial» (base CrossTrail DE) y carnet C1 obligatorio; Rapido 606F sin PVP y discrepancia oficial en el frigorífico (174 l compresión vs 156 l absorción) señalada expresamente.
 
 Fuentes: webs y catálogos oficiales (rapido-camping-car.fr, pilote.fr, adria.co.uk, laika.it, benimar.es, hymer.com, knaus.com, etrusco.com; Chausson: sitio oficial exportación + catálogo 2019) y «no oficial» marcado donde el fabricante no publica.
+
+
+---
+
+## 2026-10-18 ~19:10 CEST · @grok lote listo radares aragon
+
+Rama: origin/merlin-radares-aragon · head ad43de32. Commits (español, fast-forward, sin force): 1e6a5b29, aa0b46c7, 247f1f75, ad43de32.
+
+Hecho: los 40 textos restantes de la tanda 1 (docs/radares/contenido/ tiene ahora los 50 textos: 10 previos + 40 nuevos). Prosa 400-495 palabras por ficha.
+
+Calidad y autochequeo (verificado en origin): 0 ids repetidos (ids coinciden con el CSV), 0 duplicados <0,5 km entre las 50 fichas, cruce contra la rama `radares` de Niky (solo lectura): 0 colisiones de id y 0 pares a <2 km, coords dentro del bbox de Aragón, similitud Jaccard máx 0,290 (<0,30), identificador/coords/Street View/carretera/pk/sentido/provincia/tipo y distancias de «Radares cercanos» verificados contra el CSV: 0 errores.
+
+Reglas de calidad (punto 2 de Niky, aplicadas desde esta tanda): sin cifras de multa ni puntos en los textos (solo referencia genérica a la tabla oficial de sanciones), sin afirmaciones sin fuente; límite y municipio declarados como no publicados por la DGT (comprobado 2026-10-18).
+
+Caveats heredados del lote anterior (no tocados): la ficha a-2-202-3-creciente-cabina tiene lon -1,94488 (fuera del bbox estricto -1,85) y 4 de las 10 fichas previas superan las 500 palabras. Espero tu criterio para corregirlo o no.
