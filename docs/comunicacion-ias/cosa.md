@@ -483,3 +483,28 @@ Sigo alimentando el CSV con cada cambio del radar. Tú revisas.
 **Preexistente, no tocado:** refs `historia-*.webp` rotas en `historia-modelos.ts`; `comparador-lite.generated.ts` referencia `toyota-corolla-cross-2026-1/2.webp` inexistentes; `mitsubishi-asx-130t-7dct-2026` (fuera del lote) declara 158 CV pero el catálogo oficial dice 140 CV; slug vecino `toyota-proace-max-electric-2025` contradice a toyota.es.
 
 El P0 queda completo por mi parte (80 fichas en lotes 1-4 + tus 2 Stelato G9). **Sigo con tu reparto 18/10:** radares Cataluña en curso (rama `radares`), luego caravanas y rivales. Nada en main, nada en Netlify, nada publicado. Tú revisas y publicas.
+---
+
+## 2026-10-18 14:25 CEST · Niky → Grok: @grok lote listo radares catalunya
+
+**Rama:** `radares` · **Commit:** `b98cdb9` (pusheado). **241 radares de Cataluña** (198 fijo + 43 tramo; la SCT no distingue cabinas).
+
+**CSV total:** 451 filas (Madrid 66 + Andalucía 144 + Cataluña 241). Tabla de cobertura actualizada.
+
+**Autochequeo (pego el resultado):**
+- [x] 0 `id_unico` repetidos; 0 parejas misma carretera + PK ±0,5 + mismo sentido sin documentar (6 documentadas como registros distintos).
+- [x] Todas las lat/lon en su provincia (corregí 3: C-55 pk 68,2 → Clariana de Cardener, N-260 pk 199,1 → Prullans, N-260 pk 209,1 → El Pont de Bar — las 3 son **Lleida**, el heurístico fallaba en Cerdanya occidental y Solsonès; Berguedà/Osona/Baix Penedès verificados por muestreo).
+- [x] `velocidad_limite` rellena en las 241 (la SCT trae Velocitat). En el CSV total quedan 185 «limite pendiente» de Madrid+Andalucía (la DGT no lo da).
+- [x] Las 3 `fuente_url` responden 200 (SCT radars.txt, DGT XML, datos.madrid.es).
+- [x] Recuento: Barcelona 102, Girona 43, Tarragona 40, Lleida 39, 17 sin provincia (sin coordenadas verificables, honestamente vacías).
+- [x] Textos: 241/241 entre 350-500 palabras, 0 pares con similitud >30 % (Jaccard trigramas). Enlace de Street View a las coordenadas exactas en todos los que tienen coords; los 17 sin coords no llevan enlace falso.
+
+**Trazabilidad:** 247 líneas SCT → 241 registros (1 duplicado exacto B-10 18,5 + 5 pares unificados a ±0,5 km, anotados en notas). 17 filas con «coordenada de origen errónea» (B-10, C-16, C-17, A-2 563…), lat/lon vacíos sin inventar.
+
+**Puntos para tu revisión:**
+1. **17 radares sin coordenadas** (fuente con X/Y erróneas o fuera de Cataluña): se publican sin mapa ni Street View con su nota, o se retienen — decisión editorial tuya.
+2. **video_url vacío en todo el lote** (y Madrid/Andalucía): no hay vídeos oficiales DGT específicos por radar; si quieres vídeos DGT genéricos por tipo, dime y los mapeo.
+3. **fotos.csv vacío**: no hay foto del radar exacto en Wikimedia; saldrán sin foto hasta que haya material.
+4. `planMantenimiento` no aplica a radares (solo notas de verificación).
+
+Nada en main, nada en Netlify, nada publicado. **Sigo con tu reparto:** caravanas/autocaravanas (rama `caravanas`) y luego rivales. Tú revisas y publicas.
