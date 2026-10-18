@@ -31,6 +31,7 @@ import { HISTORIA_M14 } from "./historia-m14.ts";
 import { HISTORIA_M15 } from "./historia-m15.ts";
 import { HISTORIA_M16 } from "./historia-m16.ts";
 import { HISTORIA_M17 } from "./historia-m17.ts";
+import { HISTORIA_LOTE_E_C } from "./historia-lote-e-c.ts";
 export const HISTORIA_MODELOS: Record<string, HistoriaModelo> = {
   "aion-v-2025-precio-ficha-tecnica": { lanzamiento: 2024, hitos: [{ anio: 2024, tipo: "lanzamiento", cambio: null, foto: "/media/historia-aion-v-2025-precio-ficha-tecnica-2024.webp" }] },
   "aion-ut-2025-precio-ficha-tecnica": { lanzamiento: 2025, hitos: [{ anio: 2025, tipo: "lanzamiento", cambio: null, foto: "/media/historia-aion-ut-2025-precio-ficha-tecnica-2025.webp" }] },
@@ -271,7 +272,7 @@ export const HISTORIA_MODELOS: Record<string, HistoriaModelo> = {
   "lexus-es-350e-2026-precio-ficha-tecnica": { lanzamiento: 2025, hitos: [{ anio: 2025, tipo: "lanzamiento", cambio: null, foto: "/media/historia-lexus-es-350e-2026-precio-ficha-tecnica-2025.webp" }] },
   "lexus-es-500e-2026-precio-ficha-tecnica": { lanzamiento: 2025, hitos: [{ anio: 2025, tipo: "lanzamiento", cambio: null, foto: "/media/historia-lexus-es-500e-2026-precio-ficha-tecnica-2025.webp" }] },
   "lexus-ls-500h-2024-precio-ficha-tecnica": { lanzamiento: 2017, hitos: [{ anio: 2017, tipo: "lanzamiento", cambio: null, foto: "/media/historia-lexus-ls-500h-2024-precio-ficha-tecnica-2017.webp" }, { anio: 2020, tipo: "restyling", cambio: "restyling/facelift de mitad de ciclo", foto: "/media/historia-lexus-ls-500h-2024-precio-ficha-tecnica-2020.webp" }] },
-  "lexus-lc-500-2024-precio-ficha-tecnica": { lanzamiento: 2017, hitos: [{ anio: 2017, tipo: "lanzamiento", cambio: null, foto: "/media/historia-lexus-lc-500-2024-precio-ficha-tecnica-2017.webp" }, { anio: 2026, tipo: "fin", cambio: null, foto: null }] },
+  "lexus-lc-500-2024-precio-ficha-tecnica": { lanzamiento: 2017, hitos: [{ anio: 2017, tipo: "lanzamiento", cambio: "llega el coupé con el V8 atmosférico 5.0 de 477 CV y el diseño del concept LF-LC", foto: "/media/historia-lexus-lc-500-2024-precio-ficha-tecnica-2017.webp" }, { anio: 2025, tipo: "fin", cambio: "fin de su comercialización en Europa (enero de 2025); solo queda en el mercado de ocasión", foto: null }] },
   "lexus-lc-500h-2024-precio-ficha-tecnica": { lanzamiento: 2017, hitos: [{ anio: 2017, tipo: "lanzamiento", cambio: null, foto: "/media/historia-lexus-lc-500h-2024-precio-ficha-tecnica-2017.webp" }, { anio: 2026, tipo: "fin", cambio: null, foto: null }] },
   "lotus-eletre-600-2025-precio-ficha-tecnica": { lanzamiento: 2022, hitos: [{ anio: 2022, tipo: "lanzamiento", cambio: null, foto: "/media/historia-lotus-eletre-600-2025-precio-ficha-tecnica-2022.webp" }] },
   "lotus-eletre-900-sport-2025-precio-ficha-tecnica": { lanzamiento: 2022, hitos: [{ anio: 2022, tipo: "lanzamiento", cambio: null, foto: "/media/historia-lotus-eletre-900-sport-2025-precio-ficha-tecnica-2022.webp" }] },
@@ -963,7 +964,7 @@ export const HISTORIA_MODELOS: Record<string, HistoriaModelo> = {
   "denza-z-spider-2026-precio-ficha-tecnica": { lanzamiento: 2026, hitos: [{ anio: 2026, tipo: "lanzamiento", cambio: null, foto: null }] },
   "denza-z-racing-2026-precio-ficha-tecnica": { lanzamiento: 2026, hitos: [{ anio: 2026, tipo: "lanzamiento", cambio: null, foto: null }] },
   "denza-bao-5-2026-precio-ficha-tecnica": { lanzamiento: 2023, hitos: [{ anio: 2023, tipo: "lanzamiento", cambio: null, foto: "/media/historia-denza-bao-5-2026-precio-ficha-tecnica-2023.webp" }] },
-  "denza-bao-8-2026-precio-ficha-tecnica": { lanzamiento: 2024, hitos: [{ anio: 2024, tipo: "lanzamiento", cambio: null, foto: null }] },
+  "denza-bao-8-2026-precio-ficha-tecnica": { lanzamiento: 2024, hitos: [{ anio: 2024, tipo: "lanzamiento", cambio: "Bao 8 de Fangchengbao (BYD) en China: todoterreno híbrido enchufable de 7 plazas con chasis de largueros", foto: null }, { anio: 2025, tipo: "restyling", cambio: "5 estrellas ANCAP en Australia (86 % adulto, 95 % infantil); desembarco comercial como Denza B8 en 2026", foto: null }] },
   "exeed-lx-2025-precio-ficha-tecnica": { lanzamiento: 2019, hitos: [{ anio: 2019, tipo: "lanzamiento", cambio: null, foto: "/media/historia-exeed-lx-2025-precio-ficha-tecnica-2019.webp" }, { anio: 2021, tipo: "restyling", cambio: "restyling", foto: null }, { anio: 2026, tipo: "fin", cambio: null, foto: null }] },
   "exeed-lx-c-dm-2024-precio-ficha-tecnica": { lanzamiento: 2019, hitos: [{ anio: 2019, tipo: "lanzamiento", cambio: null, foto: null }, { anio: 2021, tipo: "restyling", cambio: "restyling", foto: null }, { anio: 2026, tipo: "fin", cambio: null, foto: null }] },
   "exeed-txl-2025-precio-ficha-tecnica": { lanzamiento: 2019, hitos: [{ anio: 2019, tipo: "lanzamiento", cambio: null, foto: null }, { anio: 2020, tipo: "restyling", cambio: "restyling", foto: null }, { anio: 2025, tipo: "restyling", cambio: "restyling", foto: null }] },
@@ -1624,7 +1625,7 @@ export const HISTORIA_MODELOS: Record<string, HistoriaModelo> = {
   "omoda-9-shs-2025-precio-ficha-tecnica": { lanzamiento: 2025, hitos: [{ anio: 2025, tipo: "lanzamiento", cambio: null, foto: null }] },
   "mg4-xpower-2025-precio-ficha-tecnica": { lanzamiento: 2022, hitos: [{ anio: 2022, tipo: "lanzamiento", cambio: null, foto: null }, { anio: 2023, tipo: "restyling", cambio: "versión XPower de altas prestaciones", foto: "/media/historia-mg4-xpower-2025-precio-ficha-tecnica-2023.webp" }] },
   "mg5-ev-long-range-2025-precio-ficha-tecnica": { lanzamiento: 2021, hitos: [{ anio: 2021, tipo: "lanzamiento", cambio: null, foto: null }] },
-  "mg3-hybrid-plus-2025-precio-ficha-tecnica": { lanzamiento: 2024, hitos: [{ anio: 2024, tipo: "lanzamiento", cambio: null, foto: "/media/historia-mg3-hybrid-plus-2025-precio-ficha-tecnica-2024.webp" }] },
+  "mg3-hybrid-plus-2025-precio-ficha-tecnica": { lanzamiento: 2024, hitos: [{ anio: 2024, tipo: "lanzamiento", cambio: "nueva generación del MG3 con el sistema Hybrid+ de 194 CV, presentada en el Salón de Ginebra 2024", foto: "/media/historia-mg3-hybrid-plus-2025-precio-ficha-tecnica-2024.webp" }, { anio: 2025, tipo: "restyling", cambio: "test Euro NCAP: 4 estrellas; MG corrige el anclaje del asiento del conductor en los coches fabricados desde agosto de 2025", foto: null }] },
   "mg-zs-hybrid-plus-2025-precio-ficha-tecnica": { lanzamiento: 2024, hitos: [{ anio: 2024, tipo: "lanzamiento", cambio: null, foto: "/media/historia-mg-zs-hybrid-plus-2025-precio-ficha-tecnica-2024.webp" }] },
   "xiaomi-yu7-2025-precio-ficha-tecnica": { lanzamiento: 2025, hitos: [{ anio: 2025, tipo: "lanzamiento", cambio: null, foto: "/media/historia-xiaomi-yu7-2025-precio-ficha-tecnica-2025.webp" }] },
   "xiaomi-su7-ultra-2026-precio-ficha-tecnica": { lanzamiento: 2025, hitos: [{ anio: 2025, tipo: "lanzamiento", cambio: null, foto: "/media/historia-xiaomi-su7-ultra-2026-precio-ficha-tecnica-2025.webp" }] },
@@ -1679,6 +1680,7 @@ export const HISTORIA_MODELOS: Record<string, HistoriaModelo> = {
   ...HISTORIA_M12,
   ...HISTORIA_M13,
   ...HISTORIA_M14, ...HISTORIA_M15, ...HISTORIA_M16, ...HISTORIA_M17,
+  ...HISTORIA_LOTE_E_C,
   "volkswagen-id-polo-2026-precio-ficha-tecnica": { lanzamiento: 2026, hitos: [{ anio: 2026, tipo: "lanzamiento", cambio: null, foto: "/media/historia-volkswagen-id-polo-2026-precio-ficha-tecnica-2026.webp" }] },
   "volkswagen-tayron-ehybrid-204-2025-precio-ficha-tecnica": { lanzamiento: 2024, hitos: [{ anio: 2024, tipo: "lanzamiento", cambio: null, foto: "/media/historia-volkswagen-tayron-ehybrid-204-2025-precio-ficha-tecnica-2024.webp" }] },
   "volkswagen-id-7-tourer-pro-2025-precio-ficha-tecnica": { lanzamiento: 2023, hitos: [{ anio: 2023, tipo: "lanzamiento", cambio: null, foto: null }] },

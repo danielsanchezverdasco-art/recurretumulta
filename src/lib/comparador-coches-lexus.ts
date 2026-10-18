@@ -1104,6 +1104,24 @@ export const COCHES_LEXUS: CocheComparador[] = [
     ],
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/lexus/lc/2017/estandar/estandar/lc-500-sport2/datos/equipamiento",
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: el Lexus LC nunca ha sido probado por Euro NCAP (tampoco por ANCAP)",
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite + filtro de aceite + inspección y chequeo de salud Lexus (renueva la garantía Lexus Relax)",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Lexus España — programa Lexus Relax (hasta 10 años o 160.000 km con mantenimiento oficial)",
+    },
   },
   // 14. Lexus LC 500h (híbrido, se vendió en España hasta enero de 2025)
   {

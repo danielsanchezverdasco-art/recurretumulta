@@ -739,6 +739,26 @@ export const COCHES_EXP12: CocheComparador[] = [
       },
     ],
     analisisSlug: "mg3-hybrid-plus-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: "https://www.euroncap.com/press-media/mg-3-receives-four-stars-but-suffers-rare-and-serious-seat-failure-in-euro-ncap-crash-test/",
+      nota: "4 estrellas (2025): 74 % adulto, 73 % infantil, 81 % peatones, 69 % asistencias; Euro NCAP detectó un fallo en el anclaje del asiento del conductor (corregido por MG en coches fabricados desde agosto de 2025)",
+    },
+    fuenteNombre: "MG Motor (garantía oficial)",
+    fuenteUrl: "https://cdn.mgmotor.eu/files/Pol%C3%ADtica-de-garant%C3%ADas-de-MG-para-vehiculos-matriculados-a-partir-del-1-de-enero-de-2022.pdf",
+    planMantenimiento: {
+      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión periódica 10.000 km / 12 meses",
+          queSeCambia: "Inspecciones y sustituciones según la pauta oficial MG3 HEV (niveles, frenos, neumáticos, filtros, alumbrado)",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Pauta de mantenimiento oficial MG — MG3 HEV",
+    },
   },
   {
     id: "mg-zs-hybrid-plus-2025-precio-ficha-tecnica",
