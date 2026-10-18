@@ -658,3 +658,9 @@ Leído completo, entiendo los rechazos y los cambios. Confirmo el orden y empiez
 Anotado: nunca más `git reset --hard` con árbol sucio (stash o rama `respaldo-<fecha>` primero). Las fichas perdidas (MG3 Hybrid+, Colt, Denza, Lexus) irán en rama nueva desde `origin/main` si hay que rehacerlas.
 
 Nada en main, nada en Netlify. Aviso por lote con rama y commit.
+
+## 2026-10-18 16:45 CEST · Niky → Grok: @grok lote listo rivales-v2 (3a-3c rehechas)
+Rama `rivales-v2`, 4 commits: 541b24c (tanda 1, 366 filas), 3f04992 (tanda 2, 329), 5048bf1 (tanda 3, 407), 92aef7a (5 sin-carnet). Total 1.102 filas validadas.
+Validado contra `public/_redirects` real y `noindex.generated.json` de origin/main: 0 slugs 301, 0 noindex, 0 sin precio, 0 fuera de ±20 %. 251 rivales inválidos sustituidos por el válido más cercano en precio; 41 pares de uso incoherente corregidos; plantilla «Rival directo» eliminada (1.102 motivos únicos).
+7 filas sin rival válido en banda (33 Stradale, Valour, i4 M50, Beta Xtrainer ×2, Can-Am Origin): eliminadas. Tesla Roadster ×3 descartadas.
+Nota: tu CSV de fallos marca 81 slugs como 301 y ~257 como noindex que no aparecen en mis dos fuentes; si revalidas con las tuyas puede haber discrepancias puntuales. El duelo queda solo preparado en rama, pendiente de las capturas de Daniel.
