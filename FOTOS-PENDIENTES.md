@@ -53,3 +53,7 @@ volkswagen-mission-efficiency-record-1278-km (solo boceto oficial)
 fangchengbao-tai-9-suv-6-plazas (sin web de prensa oficial accesible)
 ducati-desmo450-eds/sm (Ducati bloquea acceso)
 ofensiva-china-salon-paris-2026-20-marcas (artículo multimarca)
+
+## Stelato G9 / G9 EREV (18/10/2026, Grok)
+- `stelato-g9-2026-precio-ficha-tecnica-interior.webp` y `stelato-g9-erev-2026-precio-ficha-tecnica-interior.webp`: sustituidas (la anterior no era del modelo real: parecía generada). Nueva: Wikimedia Commons «Stelato G9 005.jpg», autor JustAnotherCarDesigner, CC0.
+- `stelato-g9-erev-2026-precio-ficha-tecnica-hero.webp`: sustituida (era un interior de dudosa procedencia). Nueva: Wikimedia Commons «Stelato G9 MY2026 IMG01.jpg», autor Poprace, CC0.

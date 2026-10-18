@@ -768,7 +768,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
             <div className="overflow-hidden rounded-3xl">
               <img
                 src={coche.imagenInteriorOficial}
-                alt={`Interior oficial del ${nombre}`}
+                alt={coche.creditoInteriorFoto ? `Interior del ${nombre}` : `Interior oficial del ${nombre}`}
                 className="rtm-card-zoom aspect-video w-full object-cover"
                 loading="lazy"
                 onError={(e) => {
@@ -778,7 +778,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
               />
             </div>
             <figcaption className="mt-2 text-center text-xs text-gray-500">
-              Foto de {coche.marca} · Interior del {nombre}
+              {coche.creditoInteriorFoto ? `Foto: ${coche.creditoInteriorFoto}` : `Foto de ${coche.marca}`} · Interior del {nombre}
             </figcaption>
           </figure>
         )}

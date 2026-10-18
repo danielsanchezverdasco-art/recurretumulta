@@ -265,6 +265,7 @@ export const COCHES_STELATO: CocheComparador[] = [
   },
   {
     id: "stelato-g9-2026-precio-ficha-tecnica",
+    creditoInteriorFoto: "JustAnotherCarDesigner, Wikimedia Commons (CC0)",
     cicloAutonomia: "CLTC",
     marca: "Stelato",
     modelo: "G9",
@@ -371,6 +372,7 @@ export const COCHES_STELATO: CocheComparador[] = [
   },
   {
     id: "stelato-g9-erev-2026-precio-ficha-tecnica",
+    creditoInteriorFoto: "JustAnotherCarDesigner, Wikimedia Commons (CC0)",
     cicloAutonomia: "CLTC",
     marca: "Stelato",
     modelo: "G9 EREV",
@@ -433,12 +435,6 @@ export const COCHES_STELATO: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/stelato-g9-erev-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Stelato G9 EREV, todoterreno de autonomía extendida",
-        ancho: 1340,
-        alto: 1200,
-      },
       {
         src: "/media/stelato-g9-erev-2026-precio-ficha-tecnica-oficial.webp",
         alt: "Stelato G9 EREV, vista lateral",
