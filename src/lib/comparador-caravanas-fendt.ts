@@ -4,7 +4,11 @@
 // Se ficha el modelo real equivalente: Bianco Activ 550 SD (2026).
 // Datos verificados: exposés de distribuidores oficiales Fendt (medidas,
 // pesos y equipamiento del modelo 2026) + página oficial Bianco.
-// Fotos: reales del modelo exacto, verificadas visualmente.
+// Bianco Activ 550 SD (modelo 2026, exposé oficial de distribuidor):
+// 772/232/266 cm, 1.505 kg en orden de marcha, 1.700 kg de MMA de serie
+// (ampliación a 2.000 kg).
+// Fotos: reales del modelo exacto, verificadas visualmente; son fotos de
+// distribuidor (no prensa del fabricante).
 import type { CocheComparador } from "./comparador-coches-data.ts";
 
 export const CARAVANAS_FENDT: CocheComparador[] = [
@@ -26,18 +30,20 @@ export const CARAVANAS_FENDT: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen:
-      "/media/fendt-bianco-activ-550-sd-2026-precio-ficha-tecnica-oficial.webp",
+    imagen: "/media/fendt-bianco-activ-550-sd-2026-precio-ficha-tecnica.webp",
     imagenOficial:
-      "/media/fendt-bianco-activ-550-sd-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/fendt-bianco-activ-550-sd-2026-precio-ficha-tecnica.webp",
     imagenInteriorOficial:
-      "/media/fendt-bianco-activ-550-sd-2026-precio-ficha-tecnica-interior-oficial.webp",
+      "/media/fendt-bianco-activ-550-sd-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 7720,
     anchoMm: 2320,
     altoMm: 2660,
-    pesoKg: 2000,
+    pesoKg: 1500,
+    mmaKg: 1700,
+    carnetNecesario: "B96",
+    cargaUtilKg: 200,
     consumo: null,
     consumoUnidad: null,
     plazas: 4,
@@ -74,20 +80,20 @@ export const CARAVANAS_FENDT: CocheComparador[] = [
     },
     galeria: [
       {
-        src: "/media/fendt-bianco-activ-550-sd-2026-precio-ficha-tecnica-oficial-2.webp",
-        alt: "Fendt Bianco Activ 550 SD, vista frontal",
+        src: "/media/fendt-bianco-activ-550-sd-2026-precio-ficha-tecnica-2.webp",
+        alt: "Fendt Bianco Activ 550 SD, vista frontal (foto de distribuidor)",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/fendt-bianco-activ-550-sd-2026-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior oficial de la Fendt Bianco Activ 550 SD",
+        src: "/media/fendt-bianco-activ-550-sd-2026-precio-ficha-tecnica-interior.webp",
+        alt: "Interior de la Fendt Bianco Activ 550 SD (foto de distribuidor)",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/fendt-bianco-activ-550-sd-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Fendt Bianco Activ 550 SD, vista lateral",
+        src: "/media/fendt-bianco-activ-550-sd-2026-precio-ficha-tecnica.webp",
+        alt: "Fendt Bianco Activ 550 SD, vista lateral (foto de distribuidor)",
         ancho: 1200,
         alto: 800,
       },
@@ -108,9 +114,9 @@ export const CARAVANAS_FENDT: CocheComparador[] = [
       fuente: "Recomendaciones Fendt + red de distribuidores",
     },
     euroncap: null,
-    fuenteNombre: "Fendt-Caravan (oficial) + red de distribuidores",
+    fuenteNombre: "Fendt-Caravan (oficial) + exposé distribuidor oficial 2026",
     fuenteUrl:
-      "https://www.fendt-caravan.com/en/bianco.html?caravan360=465+SGE&cHash=48e88ce43a18ba84b2662f7674a73077",
+      "https://cdn.caraworld.com/bilder/e/027/442/172/cw27442172-de-DE1-expose.pdf",
   },
 
   {
@@ -144,7 +150,7 @@ export const CARAVANAS_FENDT: CocheComparador[] = [
     altoMm: 2570,
     pesoKg: 1420,
     mmaKg: 1700,
-    carnetNecesario: "B",
+    carnetNecesario: "B96",
     cargaUtilKg: 280,
     consumo: null,
     consumoUnidad: null,
@@ -158,7 +164,7 @@ export const CARAVANAS_FENDT: CocheComparador[] = [
       "7,51 m con 4 plazas reales: salón convertible + camas fijas",
       "Línea Selection: la Fendt más equilibrada en precio-equipamiento",
       "Nevera Slim-Tower y cocina de 3 fuegos con fregadero de acero",
-      "1.700 kg de MMA: carnet B con un SUV medio",
+      "1.700 kg de MMA: carnet B96 con un SUV medio (2.200-2.500 kg de MMA del coche)",
     ],
     contras: [
       "Precio orientativo (~32.000 €): Fendt no publica PVP por modelo en España",
