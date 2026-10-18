@@ -4,6 +4,8 @@
 // 2026 (7.330/2.320/2.600 mm, 1.333 kg en vacío, MMA 1.700 kg —ampliable a
 // 1.800 kg—, 4 plazas: cama francesa 200x138 + salón trasero convertible,
 // 29.490 € matriculada / UPE 34.891 €) + Tabbert (web oficial, marca).
+// fuenteUrl apunta a tabbert.com/en/ porque Tabbert no publica páginas por
+// modelo indexadas (verificado 18/10/2026).
 // Fotos: reales del modelo exacto en concesionario (verificadas visualmente);
 // NO son de prensa oficial (origen: anuncios de distribuidores).
 import type { CocheComparador } from "./comparador-coches-data.ts";
@@ -28,9 +30,9 @@ export const CARAVANAS_TABBERT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagen:
-      "/media/tabbert-senara-490-td-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/tabbert-senara-490-td-2026-precio-ficha-tecnica.webp",
     imagenOficial:
-      "/media/tabbert-senara-490-td-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/tabbert-senara-490-td-2026-precio-ficha-tecnica.webp",
     imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
@@ -39,7 +41,7 @@ export const CARAVANAS_TABBERT: CocheComparador[] = [
     altoMm: 2600,
     pesoKg: 1333,
     mmaKg: 1700,
-    carnetNecesario: "B",
+    carnetNecesario: "B96",
     cargaUtilKg: 367,
     consumo: null,
     consumoUnidad: null,
@@ -77,19 +79,19 @@ export const CARAVANAS_TABBERT: CocheComparador[] = [
     },
     galeria: [
       {
-        src: "/media/tabbert-senara-490-td-2026-precio-ficha-tecnica-oficial-2.webp",
+        src: "/media/tabbert-senara-490-td-2026-precio-ficha-tecnica-2.webp",
         alt: "Tabbert Senara 490 TD en concesionario, vista trasera",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/tabbert-senara-490-td-2026-precio-ficha-tecnica-oficial-3.webp",
+        src: "/media/tabbert-senara-490-td-2026-precio-ficha-tecnica-3.webp",
         alt: "Tabbert Senara 490 TD en campa, vista lateral",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/tabbert-senara-490-td-2026-precio-ficha-tecnica-oficial.webp",
+        src: "/media/tabbert-senara-490-td-2026-precio-ficha-tecnica.webp",
         alt: "Tabbert Senara 490 TD, vista delantera tres cuartos",
         ancho: 1200,
         alto: 800,

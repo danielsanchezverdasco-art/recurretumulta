@@ -3,7 +3,12 @@
 // distribuidores oficiales (medidas, pesos y precios de lista).
 // Precios orientativos (Adria no publica PVP oficial en España;
 // marcados en "aprox"). Las caravanas no llevan etiqueta DGT.
-// Fotos: reales del modelo exacto, verificadas visualmente.
+// Aviva 522 PT 2026: MRO 1.030 kg / MMA 1.350 kg (opción 1.500 kg) / carga
+// útil 320 kg según el configurador oficial de Adria (verificado 18/10/2026).
+// fuenteUrl apunta a adria-mobil.com/caravans/ porque Adria no publica
+// páginas por modelo (verificado 18/10/2026).
+// Fotos: reales del modelo exacto, verificadas visualmente; NO son de prensa
+// oficial (origen: concesionario/campa).
 import type { CocheComparador } from "./comparador-coches-data.ts";
 
 export const CARAVANAS_ADRIA: CocheComparador[] = [
@@ -25,17 +30,20 @@ export const CARAVANAS_ADRIA: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/adria-aviva-522-pt-2026-precio-ficha-tecnica-oficial.webp",
+    imagen: "/media/adria-aviva-522-pt-2026-precio-ficha-tecnica.webp",
     imagenOficial:
-      "/media/adria-aviva-522-pt-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/adria-aviva-522-pt-2026-precio-ficha-tecnica.webp",
     imagenInteriorOficial:
-      "/media/adria-aviva-522-pt-2026-precio-ficha-tecnica-interior-oficial.webp",
+      "/media/adria-aviva-522-pt-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 7060,
     anchoMm: 2300,
     altoMm: 2590,
-    pesoKg: null,
+    pesoKg: 1030,
+    mmaKg: 1350,
+    carnetNecesario: "B96",
+    cargaUtilKg: 320,
     consumo: null,
     consumoUnidad: null,
     plazas: 6,
@@ -45,7 +53,7 @@ export const CARAVANAS_ADRIA: CocheComparador[] = [
     aprox: ["precioDesde"],
     pros: [
       "6 plazas reales: cama doble + literas + salón convertible, la familiar de la gama Aviva",
-      "MMA de 1.350 kg ampliable a 1.500 kg: remolcable con carnet B y un SUV medio",
+      "MMA de 1.350 kg ampliable a 1.500 kg: B96 (o B si el coche tiene MMA ≤2.000 kg)",
       "Gran portón lateral en la zona de literas con acceso al garaje",
       "Nevera trivalente de 140 l y calefacción Truma: equipamiento serio por su precio",
       "La caravana familiar más asequible de Adria con 10 años de garantía de estanqueidad",
@@ -72,19 +80,19 @@ export const CARAVANAS_ADRIA: CocheComparador[] = [
     },
     galeria: [
       {
-        src: "/media/adria-aviva-522-pt-2026-precio-ficha-tecnica-oficial-2.webp",
+        src: "/media/adria-aviva-522-pt-2026-precio-ficha-tecnica-2.webp",
         alt: "Adria Aviva 522 PT, vista trasera tres cuartos",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/adria-aviva-522-pt-2026-precio-ficha-tecnica-oficial.webp",
+        src: "/media/adria-aviva-522-pt-2026-precio-ficha-tecnica.webp",
         alt: "Adria Aviva 522 PT, vista lateral",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/adria-aviva-522-pt-2026-precio-ficha-tecnica-interior-oficial.webp",
+        src: "/media/adria-aviva-522-pt-2026-precio-ficha-tecnica-interior.webp",
         alt: "Interior de la Adria Aviva 522 PT, cocina y salón",
         ancho: 1200,
         alto: 800,
@@ -106,8 +114,8 @@ export const CARAVANAS_ADRIA: CocheComparador[] = [
       fuente: "Recomendaciones Adria + red de distribuidores",
     },
     euroncap: null,
-    fuenteNombre: "Adria Mobil + L'Alba Caravaning (distribuidor oficial)",
-    fuenteUrl: "https://www.lalbacaravaning.com/caravanes-en-estoc/?lang=es",
+    fuenteNombre: "Adria Mobil (oficial)",
+    fuenteUrl: "https://www.adria-mobil.com/caravans/",
   },
   {
     id: "adria-action-361-lh-2026-precio-ficha-tecnica",
@@ -138,16 +146,19 @@ export const CARAVANAS_ADRIA: CocheComparador[] = [
     anchoMm: 2196,
     altoMm: 2545,
     pesoKg: 1000,
+    mmaKg: 1400,
+    carnetNecesario: "B96",
+    cargaUtilKg: 400,
     consumo: null,
     consumoUnidad: null,
     plazas: 2,
     parNm: null,
     traccion: null,
     emisionesCo2: null,
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["precioDesde", "pesoKg", "cargaUtilKg"],
     pros: [
       "La caravana icono desde 2004: diseño aerodinámico inconfundible que no pasa de moda",
-      "Solo 5,19 m y 1.400 kg de MMA: la remolca casi cualquier coche con carnet B",
+      "Solo 5,19 m y 1.400 kg de MMA: carnet B si el conjunto no supera 3.500 kg (coche de MMA ≤2.100 kg); si no, B96",
       "Carrocería integral de poliéster con aislamiento XPS: ligera y sin madera",
       "Equipada de verdad: baño con ducha, cocina con horno, TV de 19\" y altavoces Bluetooth de serie",
       "Climatizador Truma Saphir y caldera de 14 l incluidos: lista para las cuatro estaciones",
@@ -231,9 +242,9 @@ export const CARAVANAS_ADRIA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagen:
-      "/media/adria-altea-542-pk-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/adria-altea-542-pk-2026-precio-ficha-tecnica.webp",
     imagenOficial:
-      "/media/adria-altea-542-pk-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/adria-altea-542-pk-2026-precio-ficha-tecnica.webp",
     imagenInteriorOficial:
       "/media/adria-altea-542-pk-2026-precio-ficha-tecnica-oficial-2.webp",
     videoId: null,
@@ -243,7 +254,7 @@ export const CARAVANAS_ADRIA: CocheComparador[] = [
     altoMm: 2580,
     pesoKg: 1180,
     mmaKg: 1500,
-    carnetNecesario: "B",
+    carnetNecesario: "B96",
     cargaUtilKg: 320,
     consumo: null,
     consumoUnidad: null,
@@ -293,7 +304,7 @@ export const CARAVANAS_ADRIA: CocheComparador[] = [
         alto: 800,
       },
       {
-        src: "/media/adria-altea-542-pk-2026-precio-ficha-tecnica-oficial.webp",
+        src: "/media/adria-altea-542-pk-2026-precio-ficha-tecnica.webp",
         alt: "Adria Altea en concesionario, vista trasera",
         ancho: 1200,
         alto: 800,
@@ -315,8 +326,7 @@ export const CARAVANAS_ADRIA: CocheComparador[] = [
       fuente: "Recomendaciones Adria + red de distribuidores",
     },
     euroncap: null,
-    fuenteNombre: "Adria (representante oficial) + catálogo oficial Adria",
-    fuenteUrl:
-      "https://www.kemperiai365.lt/en/camper-vans-for-purchase/adria-altea-542-pk/",
+    fuenteNombre: "Adria Mobil (oficial)",
+    fuenteUrl: "https://www.adria-mobil.com/caravans/",
   },
 ];

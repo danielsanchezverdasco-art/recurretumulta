@@ -34,7 +34,10 @@ export const CARAVANAS_KNAUS: CocheComparador[] = [
     anchoMm: 2320,
     altoMm: 2570,
     pesoKg: 1166,
-    // MMA 1.800 kg; carnet B con el coche adecuado. Carga útil 634 kg.
+    mmaKg: 1800,
+    carnetNecesario: "B96",
+    cargaUtilKg: 634,
+    // MMA 1.800 kg con el aumento de carga; carga útil 634 kg.
     consumo: null,
     consumoUnidad: null,
     plazas: 4,
@@ -103,11 +106,13 @@ export const CARAVANAS_KNAUS: CocheComparador[] = [
     fuenteUrl: "https://www.knaus.com/en/caravans/sport",
   },
   // Caravana 2 (lote caravanas 2D, 17/10/2026).
-  // Datos verificados: anuncios de distribuidores oficiales Knaus del modelo
-  // 2026 (6.720/2.320/2.570 mm, 1.056 kg en vacío, MMA 1.800 kg con
-  // Auflastung, 4 plazas: cama francesa delantera + dinette trasera).
-  // Precio orientativo según anuncios de distribuidores (25.040–27.377 €).
-  // Fotos: reales del modelo exacto, verificadas visualmente.,
+  // Datos verificados: Knaus (web oficial; MIRO 1.061 kg, MMA 1.350 kg,
+  // carga útil 289 kg) + anuncios de distribuidores oficiales Knaus
+  // (6.720/2.320/2.570 mm, 4 plazas: cama francesa delantera + dinette
+  // trasera). Precio orientativo según anuncios de distribuidores
+  // (25.040–27.377 €).
+  // Fotos: reales del modelo exacto en campa de concesionario (verificadas
+  // visualmente); NO son de prensa oficial.,
   {
     id: "knaus-sport-450-fu-2026-precio-ficha-tecnica",
     marca: "Knaus",
@@ -127,17 +132,20 @@ export const CARAVANAS_KNAUS: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagen:
-      "/media/knaus-sport-450-fu-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/knaus-sport-450-fu-2026-precio-ficha-tecnica.webp",
     imagenOficial:
-      "/media/knaus-sport-450-fu-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/knaus-sport-450-fu-2026-precio-ficha-tecnica.webp",
     imagenInteriorOficial:
-      "/media/knaus-sport-450-fu-2026-precio-ficha-tecnica-interior-oficial.webp",
+      "/media/knaus-sport-450-fu-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 6720,
     anchoMm: 2320,
     altoMm: 2570,
-    pesoKg: 1800,
+    pesoKg: 1061,
+    mmaKg: 1350,
+    carnetNecesario: "B",
+    cargaUtilKg: 289,
     consumo: null,
     consumoUnidad: null,
     plazas: 4,
@@ -148,8 +156,8 @@ export const CARAVANAS_KNAUS: CocheComparador[] = [
     pros: [
       "La compacta familiar: 6,72 m con cama francesa y dinette para 4 en poco espacio",
       "Precio orientativo desde ~25.000 €: la alemana más asequible de su tamaño",
-      "Solo 1.056 kg en vacío: la remolca un SUV compacto y gasta menos",
-      "1.800 kg de MMA con el aumento de carga: más de 700 kg de carga útil",
+      "Solo 1.061 kg en vacío: la remolca un SUV compacto y gasta menos",
+      "1.350 kg de MMA: carnet B con casi cualquier coche si el conjunto no supera 3.500 kg",
       "Techo de GFK anti-granizo y 10 años de garantía de estanqueidad",
     ],
     contras: [
@@ -174,19 +182,19 @@ export const CARAVANAS_KNAUS: CocheComparador[] = [
     },
     galeria: [
       {
-        src: "/media/knaus-sport-450-fu-2026-precio-ficha-tecnica-oficial-2.webp",
+        src: "/media/knaus-sport-450-fu-2026-precio-ficha-tecnica-2.webp",
         alt: "Knaus Sport 450 FU, vista frontal",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/knaus-sport-450-fu-2026-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior oficial de la Knaus Sport 450 FU",
+        src: "/media/knaus-sport-450-fu-2026-precio-ficha-tecnica-interior.webp",
+        alt: "Interior de la Knaus Sport 450 FU",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/knaus-sport-450-fu-2026-precio-ficha-tecnica-oficial.webp",
+        src: "/media/knaus-sport-450-fu-2026-precio-ficha-tecnica.webp",
         alt: "Knaus Sport 450 FU, vista lateral",
         ancho: 1200,
         alto: 800,
@@ -208,13 +216,14 @@ export const CARAVANAS_KNAUS: CocheComparador[] = [
       fuente: "Recomendaciones Knaus + red de distribuidores",
     },
     euroncap: null,
-    fuenteNombre: "Knaus (red de distribuidores)",
-    fuenteUrl:
-      "https://www.careiwo.de/fahrzeug/knaus-sport-450-fu-1800kgduschausbau-6v6dzt/",
+    fuenteNombre: "Knaus (web oficial)",
+    fuenteUrl: "https://www.knaus.com/en/caravans/sport",
   },
 
   {
     id: "knaus-suedwind-500-fu-2026-precio-ficha-tecnica",
+    // Sin página por modelo indexada en knaus.com (verificado 18/10/2026):
+    // fuenteUrl apunta a la web oficial general.
     marca: "Knaus",
     modelo: "Südwind 500 FU",
     tipo: "Caravana",
@@ -232,9 +241,9 @@ export const CARAVANAS_KNAUS: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagen:
-      "/media/knaus-suedwind-500-fu-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/knaus-suedwind-500-fu-2026-precio-ficha-tecnica.webp",
     imagenOficial:
-      "/media/knaus-suedwind-500-fu-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/knaus-suedwind-500-fu-2026-precio-ficha-tecnica.webp",
     imagenInteriorOficial:
       "/media/knaus-suedwind-500-fu-2026-precio-ficha-tecnica-interior-oficial.webp",
     videoId: null,
@@ -244,7 +253,7 @@ export const CARAVANAS_KNAUS: CocheComparador[] = [
     altoMm: 2570,
     pesoKg: 1200,
     mmaKg: 1700,
-    carnetNecesario: "B",
+    carnetNecesario: "B96",
     cargaUtilKg: 500,
     consumo: null,
     consumoUnidad: null,
@@ -290,7 +299,7 @@ export const CARAVANAS_KNAUS: CocheComparador[] = [
     },
     galeria: [
       {
-        src: "/media/knaus-suedwind-500-fu-2026-precio-ficha-tecnica-oficial-2.webp",
+        src: "/media/knaus-suedwind-500-fu-2026-precio-ficha-tecnica-2.webp",
         alt: "Knaus Südwind 500 FU en campa de concesionario, vista delantera",
         ancho: 1200,
         alto: 800,
@@ -302,7 +311,7 @@ export const CARAVANAS_KNAUS: CocheComparador[] = [
         alto: 800,
       },
       {
-        src: "/media/knaus-suedwind-500-fu-2026-precio-ficha-tecnica-oficial.webp",
+        src: "/media/knaus-suedwind-500-fu-2026-precio-ficha-tecnica.webp",
         alt: "Knaus Südwind 500 FU en exposición, vista trasera",
         ancho: 1200,
         alto: 800,
