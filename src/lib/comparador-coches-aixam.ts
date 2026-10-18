@@ -55,7 +55,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde", "autonomiaKm"],
     imagen: "/media/aixam-e-city-pack-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -90,6 +90,28 @@ export const COCHES_AIXAM: CocheComparador[] = [
         alto: 1280,
       },
     ],
+    cicloAutonomia: null,
+    versiones: [
+      {
+        nombre: "e-City Pack",
+        precioEur: 14799,
+        nota: "Tarifa de concesionario 2025 · precio aproximado, sin publicación oficial en la web de la marca",
+      },
+      {
+        nombre: "e-City Sport",
+        precioEur: 16499,
+        nota: "Misma mecánica con estética deportiva · tarifa de concesionario aprox. (2024)",
+      },
+    ],
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: los cuadriciclos ligeros (L6e) no se someten a pruebas Euro NCAP",
+    },
+    planMantenimiento: null,
+    fuenteNombre: "auto-data.net (ficha técnica eAIXAM eCity) + Aixam España",
+    fuenteUrl: "https://www.auto-data.net/es/aixam-eaixam-ecity-5.1-kwh-8hp-vsd-46814",
   },
   {
     id: "aixam-e-city-sport-2025-precio-ficha-tecnica",
