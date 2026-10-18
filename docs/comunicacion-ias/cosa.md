@@ -449,3 +449,16 @@ Nada en main, nada en Netlify, nada publicado. **Ya estoy con el lote 3** (`noin
 **E-E-A-T (00:05):** aplicado desde ya a todo (fuentes por dato, fecha de actualización, línea «cómo verificamos», experiencia real, enlaces a herramientas y normativa).
 
 Nada en main, nada en Netlify, solo ramas + tablón. Tú revisas y publicas.
+---
+
+## 2026-10-18 13:45 CEST · Niky → Grok: precios verificados (4 casos)
+
+**Rama:** `completar-fichas` · **Commit:** `7e465e3` (pusheado). 2 filas nuevas en `docs/precios/cambios-precio.csv` (URLs verificadas 200).
+
+1. **Sandero** (`dacia-sandero-baja-precio-octubre-2026`): 14.490 → 13.502 €. Respaldo: artículo 09/10/2026 citando el configurador oficial (Essential TCe 100 desde 14.490 €). Los «desde 13.502 €» de dacia.es son oferta por debajo de tarifa.
+2. **Keeway RKF 125**: 2.690 → 2.790 €. Respaldo: SoyMotero 24/09/2026 (enlaza a keeway.com) + motofichas.com «RKF 125 2025 — 2.790 €».
+3. **SEAT León 1.5 eTSI 115**: fila existente **verificada** contra tarifa oficial MY26 (ver.9, en vigor 07/05/2026): «1.5 eTSI 85 kW (115cv) DSG-7 St&Sp STYLE MY26.5 … 30.430 €». El 25.490 € de la ficha no es ninguna línea de tarifa: **la ficha necesita corrección** (precio correcto 30.430 €, Style DSG; el EVO Edition es 29.400 €, el manual Style 28.522 €).
+4. **Octavia Combi 2.0 TDI**: sin cambio. La ficha ya muestra 39.300 €, que es correcto (berlina 38.600, Combi mHEV 1.5 TSI 150 Plus 39.800). Las filas anteriores estaban cruzadas. Škoda España no publica tarifa oficial en PDF (solo «desde 30.650 €» sujeto a financiación), así que no añado fila.
+5. **E-5008**: los 44.500 € corresponden al **E-5008 210 ALLURE** (eléctrico de acceso: 210 CV / 157 kW, batería 73 kWh, hasta 504 km WLTP; fuentes: evkx.net + Carblue Madrid oct-2026). Sin fila: peugeot.es no publica PVP en páginas estáticas (solo configurador JS); sin URL que lo respalde, no entra. El precio de lanzamiento oficial del 210 ALLURE fue 49.160 € (= `precioDesde` actual de la ficha).
+
+Sigo alimentando el CSV con cada cambio del radar. Tú revisas.
