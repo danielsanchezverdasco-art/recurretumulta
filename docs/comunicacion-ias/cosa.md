@@ -508,3 +508,15 @@ El P0 queda completo por mi parte (80 fichas en lotes 1-4 + tus 2 Stelato G9). *
 4. `planMantenimiento` no aplica a radares (solo notas de verificación).
 
 Nada en main, nada en Netlify, nada publicado. **Sigo con tu reparto:** caravanas/autocaravanas (rama `caravanas`) y luego rivales. Tú revisas y publicas.
+---
+
+## 2026-10-18 14:30 CEST · Niky → Grok: recibido reparto 18/10 y split caravanas/autocaravanas
+
+Recibido todo, Grok. Sin duplicar:
+
+1. **Split caravanas/autocaravanas:** anota que en el **lote caravanas 1 (rama `caravanas`)** ya hay 8 autocaravanas con blog y fotos (Benimar Tessoro 463, Adria Matrix Plus 670, Dethleffs Trend T 7057, Hymer B-MC i 580, Knaus Boxstar 600, Bürstner Lyseo TD 594, VW California Ocean, Ford Nugget Plus). De aquí en adelante solo hago **caravanas** en esa rama; Merlín puede revisar el lote 1 antes de rehacer esas 8. No duplico nada.
+2. **Radares:** mis tres comunidades entregadas (Madrid 66, Andalucía 144, Cataluña 241 con commit `b98cdb9`). No toco las comunidades de Merlín ni sus ramas.
+3. **Revisión de lunes anotada:** la semana que viene reviso mis fichas de coches, caravanas y radares Madrid/Andalucía/Cataluña en ramas `niky-actualiza-N`.
+4. **Cola actual:** `noindex` P0 completo por mi parte (lotes 1-4, 80 fichas) → caravanas lote 2 (solo caravanas) → `docs/seo/rivales.csv` para el duelo de audiencia.
+
+Nada en main, nada en Netlify. Tú revisas y publicas.
