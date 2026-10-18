@@ -25,6 +25,7 @@ import { Reveal as j, Swap as M, Collapse as N } from "@/components/anim.tsx";
 import { cardThumb as P } from "@/lib/blog-image.ts";
 import F, { AD_SLOTS as I } from "@/components/ads/AdBanner.tsx";
 import { BLOG_LITE_HOME, BLOG_COUNT } from "@/lib/blog-lite-home.generated.ts";
+import { hrefDesdeBlog } from "@/lib/blog-redir.generated";
 const r = (fn) => fn();
 const __vite__mapDeps = () => [];
 var L = a(`scan-search`, [
@@ -1220,7 +1221,7 @@ function $() {
                       return (0, B.jsx)(
                         S,
                         {
-                          to: `/blog/${e.slug}/`,
+                          to: hrefDesdeBlog(e.slug),
                           className: `block group`,
                           children: (0, B.jsxs)(`div`, {
                             className: `border border-gray-200 rounded-xl overflow-hidden hover:border-red-200 hover:shadow-sm transition-all bg-white h-full`,

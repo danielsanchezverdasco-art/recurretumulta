@@ -251,7 +251,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
   ],
   content: `<img src=/media/dongfeng-vigo-mage-phev-precio-espana-ficha-hero.webp alt=Dos SUV electrificados aparcados en un mirador español al atardecer>
 
-Dongfeng va en serio en España. La marca china —de la mano del importador **Salvador Caetano Auto**— acaba de abrir los pedidos de sus dos nuevos SUV electrificados: el **Vigo 100% eléctrico** (el Nammi 06 que se vende en China: <a href=/blog/dongfeng-nammi-06-2025-precio-ficha-tecnica/>ver el análisis del Nammi 06</a>) y el **Mage híbrido enchufable**. Ambos con **etiqueta Cero** de la <a href=https://www.dgt.es>DGT</a>, ambos con un único acabado completísimo (solo eliges el color) y ambos con precios que ponen en apuros a todo el segmento C.
+Dongfeng va en serio en España. La marca china —de la mano del importador **Salvador Caetano Auto**— acaba de abrir los pedidos de sus dos nuevos SUV electrificados: el **Vigo 100% eléctrico** (el Nammi 06 que se vende en China: <a href=/coches/dongfeng-nammi-06-2025-precio-ficha-tecnica/>ver el análisis del Nammi 06</a>) y el **Mage híbrido enchufable**. Ambos con **etiqueta Cero** de la <a href=https://www.dgt.es>DGT</a>, ambos con un único acabado completísimo (solo eliges el color) y ambos con precios que ponen en apuros a todo el segmento C.
 
 ## Datos clave
 

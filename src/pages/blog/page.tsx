@@ -21,6 +21,7 @@ import { useQuery } from "convex/react";
 import { api } from "@/convex/_generated/api.js";
 import CosaEnBanner from "@/components/CosaEnBanner.tsx";
 import { LazyConvexProvider } from "@/components/providers/convex-lazy.tsx";
+import { hrefDesdeBlog } from "@/lib/blog-redir.generated";
 
 function BlogPage() {
   const [search, setSearch] = useState("");
@@ -93,7 +94,7 @@ function BlogPage() {
           itemListElement: allPosts.slice(0, 24).map((p, i) => ({
             "@type": "ListItem",
             position: i + 1,
-            url: `https://recurretumulta.online/blog/${p.slug}/`,
+            url: `https://recurretumulta.online${hrefDesdeBlog(p.slug)}`,
             name: p.title,
           })),
         },
@@ -268,7 +269,7 @@ function BlogPage() {
                   viewport={{ once: true }}
                   transition={{ delay: i * 0.06, duration: 0.4 }}
                 >
-                  <Link to={`/blog/${post.slug}/`} className="block h-full group">
+                  <Link to={hrefDesdeBlog(post.slug)} className="block h-full group">
                     <div className="border border-gray-200 rounded-2xl overflow-hidden h-full hover:border-red-200 hover:shadow-md hover:shadow-red-50 transition-all duration-200 bg-white flex flex-col">
                       <div className="aspect-video w-full overflow-hidden bg-gray-100 shrink-0">
                         {heroSrc ? (

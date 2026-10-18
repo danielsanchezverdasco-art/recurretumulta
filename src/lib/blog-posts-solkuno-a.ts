@@ -94,7 +94,7 @@ Monta LiDAR en el techo y un avanzado sistema de asistencia a la conducción (AD
 Al ser 100 % eléctrico le correspondería la **etiqueta Cero**, con acceso libre a las Zonas de Bajas Emisiones. Confírmalo para tu caso en la <a href=/calculadora-etiqueta-dgt/>calculadora de etiqueta DGT</a>.
 
 ### ¿Compro el BYD Tang que ya se vende en España o espero al Tang L?
-El <a href=/blog/byd-tang-2024-precio-ficha-tecnica/>BYD Tang</a> ya se vende en España: es un SUV eléctrico de 7 plazas distinto y menos potente que el Tang L. El Tang L no tiene fecha de llegada a Europa; si necesitas el coche ya, el Tang actual es la opción real.
+El <a href=/coches/byd-tang-2024-precio-ficha-tecnica/>BYD Tang</a> ya se vende en España: es un SUV eléctrico de 7 plazas distinto y menos potente que el Tang L. El Tang L no tiene fecha de llegada a Europa; si necesitas el coche ya, el Tang actual es la opción real.
 
 ## Fuentes
 
@@ -192,7 +192,7 @@ Es el ángulo de @solkuno, y tiene base: por tamaño, lujo interior y tecnologí
 Al ser 100 % eléctrico le correspondería la **etiqueta Cero**, con acceso libre a las Zonas de Bajas Emisiones. Confírmalo para tu caso en la <a href=/calculadora-etiqueta-dgt/>calculadora de etiqueta DGT</a>.
 
 ### ¿Compensa el BaaS frente a comprar la batería?
-El BaaS baja el precio de acceso (390.000 yuanes frente a 498.000 con batería en propiedad) a cambio de una cuota mensual por la batería, con intercambios incluidos. NIO ya lo ofrece en otros modelos como el <a href=/blog/onvo-l90-nio-2026-precio-ficha-tecnica/>Onvo L90</a>. Si haces pocos kilómetros al año, la cuota puede no compensar: haz números con tu uso real.
+El BaaS baja el precio de acceso (390.000 yuanes frente a 498.000 con batería en propiedad) a cambio de una cuota mensual por la batería, con intercambios incluidos. NIO ya lo ofrece en otros modelos como el <a href=/coches/onvo-l90-nio-2026-precio-ficha-tecnica/>Onvo L90</a>. Si haces pocos kilómetros al año, la cuota puede no compensar: haz números con tu uso real.
 
 ## Fuentes
 

@@ -146,14 +146,14 @@ Puedes <a href=/coches/deepal-s09-2026-precio-ficha-tecnica/>ver la ficha técni
 
 ## Rivales
 
-En China pelea con el **Li Auto L9** y el **Aito M9**, sus enemigos naturales. En Europa, si llegara, el espejo sería el **Volvo EX90**: mismo planteamiento familiar de 6-7 plazas, pero el sueco cuesta más del doble. Su hermano pequeño, el <a href=/blog/deepal-s07-2025-precio-ficha-tecnica/>Deepal S07</a>, ya se vende en España.
+En China pelea con el **Li Auto L9** y el **Aito M9**, sus enemigos naturales. En Europa, si llegara, el espejo sería el **Volvo EX90**: mismo planteamiento familiar de 6-7 plazas, pero el sueco cuesta más del doble. Su hermano pequeño, el <a href=/coches/deepal-s07-2025-precio-ficha-tecnica/>Deepal S07</a>, ya se vende en España.
 
 **Precio honesto:** en China cuesta entre 239.900 y 309.900 yuanes según versión. **No hay precio oficial para Europa**: Changan ya está en España y lanzó el S07 en Alemania, pero del S09 no hay anuncio de llegada.
 
 ## Antes de decidir: lo que conviene vigilar
 
 - **Etiqueta DGT:** como EREV con hasta 220 km de autonomía eléctrica, aspiraría a etiqueta Cero; confírmalo en la <a href=/calculadora-etiqueta-dgt/>calculadora de etiqueta DGT</a> y revisa la <a href=/guias/zbe/>guía de ZBE</a>.
-- **Alternativa real hoy:** el <a href=/blog/deepal-s07-2025-precio-ficha-tecnica/>Deepal S07</a> ya se vende en España: más pequeño y barato, disponible ya.
+- **Alternativa real hoy:** el <a href=/coches/deepal-s07-2025-precio-ficha-tecnica/>Deepal S07</a> ya se vende en España: más pequeño y barato, disponible ya.
 - **¿Es la mejor compra por ese dinero?** Si llega, compáralo cara a cara en el <a href=/comparador-coches/>comparador de coches</a> y pásalo por la <a href=/mejor-coche-por-presupuesto/>herramienta de mejor coche por presupuesto</a>.
 
 ## Preguntas frecuentes
@@ -180,7 +180,7 @@ No está confirmado. Changan ya vende el Deepal S07 en España y lo ha lanzado e
 Como EREV con hasta 220 km de autonomía eléctrica, aspiraría a la **etiqueta Cero**. Confírmalo para tu caso en la <a href=/calculadora-etiqueta-dgt/>calculadora de etiqueta DGT</a> y revisa la <a href=/guias/zbe/>guía de ZBE</a>.
 
 ### ¿El Deepal S07 que ya se vende en España es una buena alternativa?
-Sí: el <a href=/blog/deepal-s07-2025-precio-ficha-tecnica/>Deepal S07</a> ya se vende en España; es más pequeño y barato que el S09. Si necesitas el coche ya, es la opción real hoy; el S09 no tiene fecha de llegada.
+Sí: el <a href=/coches/deepal-s07-2025-precio-ficha-tecnica/>Deepal S07</a> ya se vende en España; es más pequeño y barato que el S09. Si necesitas el coche ya, es la opción real hoy; el S09 no tiene fecha de llegada.
 
 ## Fuentes
 

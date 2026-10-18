@@ -7,6 +7,7 @@ import { MorphCard, PageHero, Countdown } from "@/components/motion.tsx";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 import { LANZAMIENTOS_SEED } from "@/lib/lanzamientos-2026-2027.ts";
+import { hrefDesdeBlog } from "@/lib/blog-redir.generated";
 
 // Artículo del blog para los modelos que ya tienen noticia publicada (ficha
 // técnica completa, fotos, vídeos). Clave: "marca modelo" en minúsculas.
@@ -171,7 +172,7 @@ function CalendarioLanzamientosPage() {
             const fichaId = FICHAS[`${l.marca} ${l.modelo}`.toLowerCase()];
             const articuloSlug = ARTICULOS[`${l.marca} ${l.modelo}`.toLowerCase()];
             const titulo = articuloSlug ? (
-              <a href={`https://recurretumulta.online/blog/${articuloSlug}/`} className="hover:text-red-700 hover:underline">
+              <a href={`https://recurretumulta.online${hrefDesdeBlog(articuloSlug)}`} className="hover:text-red-700 hover:underline">
                 <h2 className="text-xl font-bold">{l.modelo}</h2>
               </a>
             ) : (
@@ -181,7 +182,7 @@ function CalendarioLanzamientosPage() {
               <article key={`${l.marca}-${l.modelo}`} className="bg-white rounded-2xl border border-slate-200 overflow-hidden">
                 {l.imagen && (
                   articuloSlug ? (
-                    <MorphCard href={`/blog/${articuloSlug}/`} label={`Ver la noticia completa del ${l.marca} ${l.modelo}`} className="block">
+                    <MorphCard href={hrefDesdeBlog(articuloSlug)} label={`Ver la noticia completa del ${l.marca} ${l.modelo}`} className="block">
                       <img
                         src={l.imagen}
                         alt={`${l.marca} ${l.modelo}, ${l.segmento.toLowerCase()} de próxima llegada a España`}
@@ -215,7 +216,7 @@ function CalendarioLanzamientosPage() {
                 {l.notas && <p className="text-sm text-slate-600 mb-3">{l.notas}</p>}
                 <div className="flex flex-wrap gap-3">
                   {articuloSlug && (
-                    <a href={`https://recurretumulta.online/blog/${articuloSlug}/`} className="text-sm text-white font-bold bg-red-600 hover:bg-red-700 px-4 py-2 rounded-xl transition">
+                    <a href={`https://recurretumulta.online${hrefDesdeBlog(articuloSlug)}`} className="text-sm text-white font-bold bg-red-600 hover:bg-red-700 px-4 py-2 rounded-xl transition">
                       Ver la noticia completa →
                     </a>
                   )}

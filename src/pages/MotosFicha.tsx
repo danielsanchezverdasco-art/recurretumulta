@@ -2,6 +2,7 @@ import { lazy, Suspense, useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import CreditoFoto from "@/components/CreditoFoto.tsx";
 import { ANALISIS_MOTOS } from "@/lib/analisis-slugs.generated";
+import { hrefDesdeBlog } from "@/lib/blog-redir.generated";
 import {
   ArrowLeftRight,
   BatteryCharging,
@@ -612,7 +613,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
           </Suspense>
           {extra.b === 1 ? (
             <Link
-              to={`/blog/${analisisMoto}/`}
+              to={hrefDesdeBlog(analisisMoto)}
               className="mt-4 inline-flex items-center gap-2 rounded-xl bg-gray-900 px-4 py-2.5 text-sm font-bold text-white transition hover:bg-gray-700"
             >
               <BookOpen className="h-4 w-4" /> Ver la comparativa completa

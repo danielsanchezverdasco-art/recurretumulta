@@ -61,6 +61,7 @@ import MonoEscondido from "@/components/caza-monos/MonoEscondido.tsx";
 import BannerJuegoMonos from "@/components/caza-monos/BannerJuegoMonos";
 import { fijoId } from "@/components/caza-monos/CazaMonosContext.tsx";
 import CosaEnBanner from "@/components/CosaEnBanner.tsx";
+import { hrefDesdeBlog } from "@/lib/blog-redir.generated";
 
 // Extrae parejas pregunta/respuesta de la sección "Preguntas frecuentes" del markdown
 // para generar el schema FAQPage (rich snippets en Google).
@@ -487,7 +488,7 @@ function BlogPostPage() {
         : post ? {
     title: post.title,
     description: post.excerpt,
-    canonical: `/blog/${post.slug}/`,
+    canonical: hrefDesdeBlog(post.slug),
     type: "article",
     datePublished: post.date,
     dateModified: post.date,
@@ -498,10 +499,10 @@ function BlogPostPage() {
       "@graph": [
         {
           "@type": "Article",
-          "@id": `${DOMAIN}/blog/${post.slug}#article`,
+          "@id": `${DOMAIN}${hrefDesdeBlog(post.slug).replace(/\/$/, "")}#article`,
           "headline": post.title,
           "description": post.excerpt,
-          "url": `${DOMAIN}/blog/${post.slug}`,
+          "url": `${DOMAIN}${hrefDesdeBlog(post.slug).replace(/\/$/, "")}`,
           "datePublished": post.date,
           "dateModified": post.date,
           "inLanguage": "es-ES",
@@ -519,13 +520,13 @@ function BlogPostPage() {
           "itemListElement": [
             { "@type": "ListItem", "position": 1, "name": "Inicio", "item": `${DOMAIN}/` },
             { "@type": "ListItem", "position": 2, "name": "Blog DGT", "item": `${DOMAIN}/blog` },
-            { "@type": "ListItem", "position": 3, "name": post.title, "item": `${DOMAIN}/blog/${post.slug}` },
+            { "@type": "ListItem", "position": 3, "name": post.title, "item": `${DOMAIN}${hrefDesdeBlog(post.slug).replace(/\/$/, "")}` },
           ],
         },
         // FAQPage para rich snippets (solo si hay preguntas frecuentes)
         ...(faqs.length > 0 ? [{
           "@type": "FAQPage",
-          "@id": `${DOMAIN}/blog/${post.slug}#faq`,
+          "@id": `${DOMAIN}${hrefDesdeBlog(post.slug).replace(/\/$/, "")}#faq`,
           "mainEntity": faqs.map((f) => ({
             "@type": "Question",
             "name": f.question,
@@ -899,7 +900,7 @@ function BlogPostPage() {
               <p className="text-xs font-bold uppercase tracking-widest text-gray-400">Artículos relacionados</p>
               <div className="space-y-3">
                 {related.map((rp) => (
-                  <Link key={rp.slug} to={`/blog/${rp.slug}/`} className="block group">
+                  <Link key={rp.slug} to={hrefDesdeBlog(rp.slug)} className="block group">
                     <div className="border border-gray-200 rounded-xl p-4 hover:border-red-200 hover:shadow-sm transition-all space-y-1">
                       <Badge className="bg-red-50 text-red-600 border-0 text-xs mb-1">{rp.category}</Badge>
                       <p className="text-sm font-bold text-gray-900 group-hover:text-red-600 transition-colors line-clamp-2">

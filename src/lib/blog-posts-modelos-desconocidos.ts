@@ -688,7 +688,7 @@ Mientras en Europa Volkswagen recorta gama y plantilla, en China juega otra liga
 
 ## Por dentro es un XPeng con logo de Volkswagen
 
-Que no te engañe la insignia: el UNYX 09 nace de la alianza que Volkswagen firmó con XPeng en 2023 (los alemanes compraron un 5% del fabricante chino). La **arquitectura eléctrica y electrónica es conjunta**, y el sistema de asistencia a la conducción es el **VLA de XPeng**, la misma familia tecnológica que lleva el <a href=/blog/xpeng-p7-electrico-precio-ficha-tecnica/>XPeng P7+ que ya se vende en España</a>.
+Que no te engañe la insignia: el UNYX 09 nace de la alianza que Volkswagen firmó con XPeng en 2023 (los alemanes compraron un 5% del fabricante chino). La **arquitectura eléctrica y electrónica es conjunta**, y el sistema de asistencia a la conducción es el **VLA de XPeng**, la misma familia tecnológica que lleva el <a href=/coches/xpeng-p7-electrico-precio-ficha-tecnica/>XPeng P7+ que ya se vende en España</a>.
 
 Es el segundo fruto de esa alianza tras el SUV ID. UNYX 08, y llega en un momento dramático para VW en China: sus entregas cayeron un **26% en el primer semestre de 2026** (971.000 unidades, mínimo en 16 años) mientras BYD y Geely le comen el terreno. La respuesta alemana es la campaña *"in China, for China"*: más de **20 modelos electrificados** solo este año, desarrollados a ritmo chino.
 

@@ -5,6 +5,7 @@ import { Link } from "react-router-dom";
 import { ArrowRight, Car, GitCompareArrows, Newspaper } from "lucide-react";
 import { getCocheSemana } from "@/lib/coche-semana.ts";
 import { COCHES_CON_ANALISIS } from "@/lib/coches-con-analisis.generated";
+import { hrefDesdeBlog } from "@/lib/blog-redir.generated";
 
 function formatoPrecio(euros: number | null): string {
   if (euros == null) return "—";
@@ -78,7 +79,7 @@ export default function CocheSemana() {
                 Comparar
               </Link>
               {analisis && <Link
-                to={`/blog/${analisis}/`}
+                to={hrefDesdeBlog(analisis)}
                 className="inline-flex items-center justify-center gap-1.5 rounded-xl border border-gray-200 px-3 py-2 text-sm font-semibold text-gray-700 transition hover:border-red-300 hover:text-red-600"
               >
                 <Newspaper className="h-4 w-4" />
