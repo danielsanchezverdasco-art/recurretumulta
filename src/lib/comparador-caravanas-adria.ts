@@ -1,0 +1,214 @@
+// Caravanas Adria — fichas 1 y 2 (lote caravanas 2B, 17/10/2026).
+// Datos verificados: Adria Mobil (datos técnicos oficiales), red de
+// distribuidores oficiales (medidas, pesos y precios de lista).
+// Precios orientativos (Adria no publica PVP oficial en España;
+// marcados en "aprox"). Las caravanas no llevan etiqueta DGT.
+// Fotos: reales del modelo exacto, verificadas visualmente.
+import type { CocheComparador } from "./comparador-coches-data.ts";
+
+export const CARAVANAS_ADRIA: CocheComparador[] = [
+  {
+    id: "adria-aviva-522-pt-2026-precio-ficha-tecnica",
+    marca: "Adria",
+    modelo: "Aviva 522 PT",
+    tipo: "Caravana",
+    categoria: "Caravana",
+    precioDesde: 23500,
+    potenciaCv: null,
+    autonomiaKm: null,
+    maleteroL: null,
+    ceroCien: null,
+    velocidadMax: null,
+    bateriaKwh: null,
+    cargaRapidaKw: null,
+    etiquetaDgt: null,
+    garantiaBateriaAnos: null,
+    garantiaBateriaKm: null,
+    garantiaBateriaDegradacionPct: null,
+    imagen: "/media/adria-aviva-522-pt-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial:
+      "/media/adria-aviva-522-pt-2026-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial:
+      "/media/adria-aviva-522-pt-2026-precio-ficha-tecnica-interior-oficial.webp",
+    videoId: null,
+    videoCanal: null,
+    largoMm: 7060,
+    anchoMm: 2300,
+    altoMm: 2590,
+    pesoKg: null,
+    consumo: null,
+    consumoUnidad: null,
+    plazas: 6,
+    parNm: null,
+    traccion: null,
+    emisionesCo2: null,
+    aprox: ["precioDesde"],
+    pros: [
+      "6 plazas reales: cama doble + literas + salón convertible, la familiar de la gama Aviva",
+      "MMA de 1.350 kg ampliable a 1.500 kg: remolcable con carnet B y un SUV medio",
+      "Gran portón lateral en la zona de literas con acceso al garaje",
+      "Nevera trivalente de 140 l y calefacción Truma: equipamiento serio por su precio",
+      "La caravana familiar más asequible de Adria con 10 años de garantía de estanqueidad",
+    ],
+    contras: [
+      "Con 7,06 m totales exige experiencia remolcando y sitio donde guardarla",
+      "Las literas son para niños: justas para adolescentes altos",
+      "El acabado Aviva es correcto pero por debajo de la gama Altea",
+      "Sin mover eléctrico, maniobrar 7 metros a mano cuesta",
+      "El avance y el aire acondicionado se pagan aparte",
+    ],
+    opiniones: [],
+    costeMensual: {
+      costeEnergia100km: 0,
+      precioKwh: 0.18,
+      precioGasolinaL: 1.6,
+      seguroTercerosAnual: 150,
+      seguroAmpliadoAnual: 300,
+      mantenimientoAnual: 200,
+      costeMensualTotal: 120,
+      notas:
+        "Estimación: seguro de caravana + revisión anual de estanqueidad y gas. Sin motor propio.",
+      estimado: true,
+    },
+    galeria: [
+      {
+        src: "/media/adria-aviva-522-pt-2026-precio-ficha-tecnica-oficial-2.webp",
+        alt: "Adria Aviva 522 PT, vista trasera tres cuartos",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/adria-aviva-522-pt-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Adria Aviva 522 PT, vista lateral",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/adria-aviva-522-pt-2026-precio-ficha-tecnica-interior-oficial.webp",
+        alt: "Interior de la Adria Aviva 522 PT, cocina y salón",
+        ancho: 1200,
+        alto: 800,
+      },
+    ],
+    analisisSlug: "adria-aviva-522-pt-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo:
+        "Revisión anual recomendada: estanqueidad, gas, electricidad y frenos",
+      revisiones: [
+        {
+          nombre: "Revisión anual de la caravana",
+          queSeCambia:
+            "Estanqueidad, instalación de gas, electricidad y estado de frenos y neumáticos",
+          costeAproxEur: 200,
+        },
+      ],
+      costeAnualAproxEur: 200,
+      fuente: "Recomendaciones Adria + red de distribuidores",
+    },
+    euroncap: null,
+    fuenteNombre: "Adria Mobil + L'Alba Caravaning (distribuidor oficial)",
+    fuenteUrl: "https://www.lalbacaravaning.com/caravanes-en-estoc/?lang=es",
+  },
+  {
+    id: "adria-action-361-lh-2026-precio-ficha-tecnica",
+    marca: "Adria",
+    modelo: "Action 361 LH",
+    tipo: "Caravana",
+    categoria: "Caravana",
+    precioDesde: 23000,
+    potenciaCv: null,
+    autonomiaKm: null,
+    maleteroL: null,
+    ceroCien: null,
+    velocidadMax: null,
+    bateriaKwh: null,
+    cargaRapidaKw: null,
+    etiquetaDgt: null,
+    garantiaBateriaAnos: null,
+    garantiaBateriaKm: null,
+    garantiaBateriaDegradacionPct: null,
+    imagen: "/media/adria-action-361-lh-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial:
+      "/media/adria-action-361-lh-2026-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial:
+      "/media/adria-action-361-lh-2026-precio-ficha-tecnica-interior-oficial.webp",
+    videoId: null,
+    videoCanal: null,
+    largoMm: 5194,
+    anchoMm: 2196,
+    altoMm: 2545,
+    pesoKg: 1000,
+    consumo: null,
+    consumoUnidad: null,
+    plazas: 2,
+    parNm: null,
+    traccion: null,
+    emisionesCo2: null,
+    aprox: ["precioDesde", "pesoKg"],
+    pros: [
+      "La caravana icono desde 2004: diseño aerodinámico inconfundible que no pasa de moda",
+      "Solo 5,19 m y 1.400 kg de MMA: la remolca casi cualquier coche con carnet B",
+      "Carrocería integral de poliéster con aislamiento XPS: ligera y sin madera",
+      "Equipada de verdad: baño con ducha, cocina con horno, TV de 19\" y altavoces Bluetooth de serie",
+      "Climatizador Truma Saphir y caldera de 14 l incluidos: lista para las cuatro estaciones",
+    ],
+    contras: [
+      "2 plazas estrictas: no es una caravana familiar",
+      "La cama se hace cada noche bajando la dinette: no hay cama fija",
+      "Depósito de agua limpia de solo 50 l: justo para más de un fin de semana sin servicios",
+      "Precio orientativo alto para su tamaño: el diseño se paga",
+      "Espacio de almacenaje limitado: hay que viajar ligero",
+    ],
+    opiniones: [],
+    costeMensual: {
+      costeEnergia100km: 0,
+      precioKwh: 0.18,
+      precioGasolinaL: 1.6,
+      seguroTercerosAnual: 140,
+      seguroAmpliadoAnual: 280,
+      mantenimientoAnual: 180,
+      costeMensualTotal: 110,
+      notas:
+        "Estimación: seguro de caravana + revisión anual de estanqueidad y gas. Sin motor propio.",
+      estimado: true,
+    },
+    galeria: [
+      {
+        src: "/media/adria-action-361-lh-2026-precio-ficha-tecnica-oficial-2.webp",
+        alt: "Adria Action 361 LH, vista lateral",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/adria-action-361-lh-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Adria Action 361 LH, vista tres cuartos delantera",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/adria-action-361-lh-2026-precio-ficha-tecnica-interior-oficial.webp",
+        alt: "Interior de la Adria Action 361 LH, salón convertible",
+        ancho: 1200,
+        alto: 800,
+      },
+    ],
+    analisisSlug: "adria-action-361-lh-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo:
+        "Revisión anual recomendada: estanqueidad, gas, electricidad y frenos",
+      revisiones: [
+        {
+          nombre: "Revisión anual de la caravana",
+          queSeCambia:
+            "Estanqueidad, instalación de gas, electricidad y estado de frenos y neumáticos",
+          costeAproxEur: 180,
+        },
+      ],
+      costeAnualAproxEur: 180,
+      fuente: "Recomendaciones Adria + red de distribuidores",
+    },
+    euroncap: null,
+    fuenteNombre: "Adria Mobil (oficial)",
+    fuenteUrl: "https://www.adria-mobil.com/caravans/",
+  },
+];
