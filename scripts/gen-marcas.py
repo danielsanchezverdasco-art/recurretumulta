@@ -18,12 +18,17 @@ NOIDX={r["url"][len(O):] for r in csv.DictReader(open(f"{S}/fichas-pobres.csv"))
 def titulo(f):
   h=open(f,encoding="utf8",errors="ignore").read(80000); t=re.search(r'<h1[^>]*>(.*?)</h1>',h,re.S)
   return html.unescape(re.sub(r"<[^>]+>|\s+"," ",t.group(1)).strip()) if t else None
+_R301=set()
+for _l in open(f"{D}/_redirects",encoding="utf8"):
+  _p=_l.split()
+  if len(_p)>=3 and _p[2].startswith("301") and _p[0].count("/")>=2: _R301.add(_p[0].strip("/"))
 def fichas(cat,pref,todas):
+  # 18/10/2026: fuera las fichas con 301 a otra (p. ej. honda-eny1 -> honda-e-ny1)
   otras=[m for m in todas if m!=pref and m.startswith(pref+"-")]
   r=[]
   for s in sorted(os.listdir(f"{D}/{cat}")):
     f=f"{D}/{cat}/{s}/index.html"
-    if s=="marca" or not os.path.isfile(f) or not s.startswith(pref+"-") or any(s.startswith(o+"-") for o in otras): continue
+    if s=="marca" or f"{cat}/{s}" in _R301 or not os.path.isfile(f) or not s.startswith(pref+"-") or any(s.startswith(o+"-") for o in otras): continue
     h=open(f,encoding="utf8",errors="ignore").read(80000)
     c=re.search(r'rel="canonical" href="([^"]*)"',h)
     if c and c.group(1)!=f"{O}/{cat}/{s}/": continue

@@ -285,7 +285,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
             "@type": "ListItem",
             position: 2,
             name: esElectrica ? "Comparador de motos eléctricas" : "Comparador de motos",
-            item: "https://recurretumulta.online/comparador-motos",
+            item: "https://recurretumulta.online/comparador-motos/",
           },
           {
             "@type": "ListItem",

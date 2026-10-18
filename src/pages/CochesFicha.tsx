@@ -416,7 +416,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
             "@type": "ListItem",
             position: 2,
             name: "Comparador de coches",
-            item: "https://recurretumulta.online/comparador-coches",
+            item: "https://recurretumulta.online/comparador-coches/",
           },
           {
             "@type": "ListItem",
