@@ -6494,6 +6494,7 @@ export const MOTOS_BASE: MotoComparador[] = [
       "Con 12,5 litros de depósito y un consumo declarado de 3,8 l/100 km alcanza unos 328 km de autonomía",
       "El sistema Noodoe permite personalizar la instrumentación y recibir notificaciones del móvil",
       "Monta frenos de disco en ambas ruedas con ABS Bosch",
+      "Versión GT: Kymco la vende oficialmente como «Downtown GT 350i» en EE. UU. (desde mayo de 2026, 6.599 $) y Argentina; Euro 5+, 185 kg en orden de marcha y TFT de 7\". En España no tiene precio oficial publicado",
     ],
     imagen: "/media/motos/kymco-downtown-350-2024-ficha-tecnica-precio.webp",
     galeria: [],

@@ -31,6 +31,7 @@ import { HISTORIA_M14 } from "./historia-m14.ts";
 import { HISTORIA_M15 } from "./historia-m15.ts";
 import { HISTORIA_M16 } from "./historia-m16.ts";
 import { HISTORIA_M17 } from "./historia-m17.ts";
+import { HISTORIA_LOTE_E_B } from "./historia-lote-e-b.ts";
 export const HISTORIA_MODELOS: Record<string, HistoriaModelo> = {
   "aion-v-2025-precio-ficha-tecnica": { lanzamiento: 2024, hitos: [{ anio: 2024, tipo: "lanzamiento", cambio: null, foto: "/media/historia-aion-v-2025-precio-ficha-tecnica-2024.webp" }] },
   "aion-ut-2025-precio-ficha-tecnica": { lanzamiento: 2025, hitos: [{ anio: 2025, tipo: "lanzamiento", cambio: null, foto: "/media/historia-aion-ut-2025-precio-ficha-tecnica-2025.webp" }] },
@@ -1679,6 +1680,7 @@ export const HISTORIA_MODELOS: Record<string, HistoriaModelo> = {
   ...HISTORIA_M12,
   ...HISTORIA_M13,
   ...HISTORIA_M14, ...HISTORIA_M15, ...HISTORIA_M16, ...HISTORIA_M17,
+  ...HISTORIA_LOTE_E_B,
   "volkswagen-id-polo-2026-precio-ficha-tecnica": { lanzamiento: 2026, hitos: [{ anio: 2026, tipo: "lanzamiento", cambio: null, foto: "/media/historia-volkswagen-id-polo-2026-precio-ficha-tecnica-2026.webp" }] },
   "volkswagen-tayron-ehybrid-204-2025-precio-ficha-tecnica": { lanzamiento: 2024, hitos: [{ anio: 2024, tipo: "lanzamiento", cambio: null, foto: "/media/historia-volkswagen-tayron-ehybrid-204-2025-precio-ficha-tecnica-2024.webp" }] },
   "volkswagen-id-7-tourer-pro-2025-precio-ficha-tecnica": { lanzamiento: 2023, hitos: [{ anio: 2023, tipo: "lanzamiento", cambio: null, foto: null }] },
