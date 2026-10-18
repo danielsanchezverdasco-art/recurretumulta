@@ -696,3 +696,33 @@ Rama `caravanas-v2`, 2 commits: 4f68e48 (lote 2 corregido: 5 fichas 5c-5f, las 5
 Lote 3 (10): caraone-390-qd, caraone-400-lk, caraone-450-fu, caraone-480-eu, cjoy-480-qlk, cjoy-420-qsh, cjoy-460-le, premio-plus-510-tk, premio-life-415-tk, eriba-feeling-425 — MMA, carnet y carga útil prioritarios; fuentes: listas oficiales Weinsberg/Dethleffs/Eriba (PDF) y buerstner.com. 31 fotos del modelo exacto verificadas visualmente (4 rechazadas); origen real anotado; solo las del 510 TK se llaman «oficiales».
 Verificación: 0 imágenes faltantes; títulos 50-60 car.; tsc 0 errores en ficheros tocados (el worktree da errores ambientales preexistentes por falta de codegen de convex).
 Pendiente: Knaus Südwind 500 FU, Fendt, Hobby, Adria, Tabbert sin fuente oficial accesible → candidatos lote 4. El cableado al router + sitemap + prerender lo haces tú al publicar.
+
+---
+
+## 2026-10-18 18:40 CEST · Niky → Grok: estado de cola (hecho / falta / ETA)
+
+**1. Radares Madrid / Andalucía / Cataluña — CERRADO para revisión.**
+2a-2e aplicado completo en rama `radares`, commit `4a6730b` (avisado 16:51 CEST). Falta cero de 2a-2e: queda anotado en el README que hay 17 radares catalanes sin coordenadas oficiales SCT (documentados, no bloqueantes), 18 textos de Madrid >500 intactos (el veredicto limitó 2e a Cataluña) y pares >30 % similares preexistentes (exceden 2a-2e, decisión tuya si se reescriben).
+
+**2. `noindex-p0` (80 fichas, commit `5229591`) — LISTA Y AVISADA.**
+Pusheada sin force ~17:35 CEST, avisada 17:38 CEST. Falta nada de mi lado: queda tu revisión.
+
+**3. Pursang (6a, 8.400 €) — CERRADA.**
+En `completar-fichas-prio-2` (commit `558a00b`), avisada 16:48 CEST. Precio 8.400 € con fuente real (Motorpasión Moto 13/05/2024, 200).
+
+**4. Caravanas lote 3 (`caravanas-v2`) — CERRADO.**
+Commit `b3fccea`, avisado 18:14 CEST. Lote 4 (Knaus Südwind 500 FU, Fendt, Hobby, Adria, Tabbert): **pendiente de fuentes oficiales accesibles**; ETA: si encuentro fuente oficial esta noche, lote 4 listo mañana 19/10 ~10:00 CEST. Aviso en cuanto lo tenga.
+
+**5. Rivales (`rivales-v2`, 1.102 filas) — TERMINADO.**
+Avisado 16:45 CEST. No hay tanda más planeada; dime si quieres tanda 4 y la saco.
+
+**6. `completar-fichas-lote-A` y `lote-D` — PENDIENTES, no publicados ni absorbidos.**
+Están en sus ramas (17/10 ~11:10-11:43 UTC): lote-A 20 fichas (Cupra/Dacia), lote-D 22 fichas (Mercedes turismos, furgonetas/campers, VW x8). No están en main. ¿Los revisas tú o los retomo yo?
+
+**7. prio-2 / prio-3 (6a/6b/6c) — CERRADOS.**
+Commits `558a00b` / `8d9c0d4` avisados 16:48 CEST; ambos mergeados dentro de `noindex-p0` (`5229591`).
+
+**8. Trabajo perdido `completar-fichas-lote-E-c` — pendiente de rehacer.**
+Perdido: 5 ficheros sin commitear (MG3 Hybrid+, Mitsubishi Colt, Denza, Lexus) en `comparador-coches-{denza,lexus,mg,mitsubishi}.ts` e `historia-modelos.ts`. Lo commiteado (`6d0f2e6`) intacto. ETA de rehacer: **mañana 19/10 ~10:00-12:00 CEST**, en rama nueva desde `origin/main`. No entra en la subida de las 20:00.
+
+**Resumen para la subida de las 20:00:** listos `radares` (4a6730b), `noindex-p0` (5229591, incluye prio-2/prio-3), `caravanas-v2` (b3fccea), `rivales-v2` (92aef7a). Nada más en cola activa de mi lado.
