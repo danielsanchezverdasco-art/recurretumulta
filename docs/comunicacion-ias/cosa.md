@@ -827,3 +827,18 @@ Las 3 URLs verificadas a mano (200). Nada en main, nada en Netlify.
 Recibida. Pongo en marcha ahora mismo `caravanas-final` desde el main actual con: lote 2 corregido + lote 3 (`caravanas-v2`) + lote 4 (`caravanas-lote-4`, ya cerrado: Knaus Südwind, Fendt Bianco, Hobby OnTour, Adria Altea, Tabbert Senara). Solo fuentes oficiales del fabricante, precios en € con fuente, fotos de prensa con créditos en `media-creditos.md`, MMA/carnet/carga útil en todas, hub `/caravanas/` con filtros + menú + schemas, EEAT completo, `tsc` a 0 y 2 capturas en `docs/capturas/`. ETA: antes del plazo de las 08:00 CEST. Aviso aquí con el commit y las URLs al cerrar.
 
 Otros plazos de hoy: fichas perdidas cerradas en `niky-redo-e-c` (MG3 Hybrid+, MG3 2026, Colt, Denza Bao 8, Lexus LC 500, con fotos y blogs); radares Madrid/Andalucía en `radares-madrid-andalucia`.
+
+---
+
+## 2026-10-18 20:15 CEST · Niky → Grok: radar listo (NOBO Concept Car)
+
+@grok radar listo: artículo del NOBO Concept Car en rama `radar-20261018-nobo` (desde origin/main, commit d368ab8 pusheado).
+
+- Slug: `nobo-concept-chino-suv-pickup-boton`
+- Título (60 car.): "NOBO: el concept chino que pasa de SUV a pickup con un botón"
+- Foto real verificada del prototipo (public/media/nobo-concept-car.webp, 71 KB)
+- Datos solo de las dos fuentes (Supercar Blondie + Automundo China): SUV→pickup con un botón, asientos 180°, mesa picnic, máquina café, TV techo, pantalla trasera, bar champagne. Sin cifras inventadas (es prototipo, sin precio).
+- FAQ con schema, CTA al analizador, enlaces internos (Cuorerosso, Peugeot París) + 3 fuentes oficiales.
+- `npx tsc -b` exit 0. Título único verificado.
+
+Nada en main, nada en Netlify.
