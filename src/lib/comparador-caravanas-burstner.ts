@@ -1,10 +1,10 @@
 // Caravanas Bürstner — ficha 1 (lote caravanas 2C, 17/10/2026; corregida 18/10/2026).
-// Datos verificados: buerstner.com (gama Premio), caravanas.net (novedades
-// Bürstner: cama King Size 200x160 en la 480 TS, 3 plazas).
-// Premio Life 480 TS — cifras oficiales de la ficha técnica Bürstner
-// (datos técnicos caravanas, buerstner.com): 708/212/261 cm, MMA 1.200 kg
+// Datos verificados: buerstner.com (gama Premio) + ficha técnica oficial
+// (PDF técnico Bürstner MJ2023, hymer.com): 708/212/261 cm, MMA 1.200 kg
 // de serie (aumento opcional a 1.360/1.400/1.500 kg), 990 kg en orden de
-// marcha. El precio no es oficial: Bürstner no publica PVP por modelo.
+// marcha, cama King Size 200x160, 3 plazas.
+// Precio: sin PVP oficial publicado; precio no mostrado (precioDesde: null)
+// hasta disponer de fuente oficial o de distribuidor oficial.
 // Las caravanas no llevan etiqueta DGT.
 // Fotos: reales del modelo exacto (Bürstner Premio Life 480 TS), verificadas visualmente.
 import type { CocheComparador } from "./comparador-coches-data.ts";
@@ -16,7 +16,7 @@ export const CARAVANAS_BURSTNER: CocheComparador[] = [
     modelo: "Premio Life 480 TS",
     tipo: "Caravana",
     categoria: "Caravana",
-    precioDesde: 22000,
+    precioDesde: null,
     potenciaCv: null,
     autonomiaKm: null,
     maleteroL: null,
@@ -49,7 +49,7 @@ export const CARAVANAS_BURSTNER: CocheComparador[] = [
     parNm: null,
     traccion: null,
     emisionesCo2: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Cama doble King Size de 200 x 160 cm: única en su categoría compacta",
       "3 plazas de serie: cama doble + dinette transformable",
@@ -113,7 +113,7 @@ export const CARAVANAS_BURSTNER: CocheComparador[] = [
       fuente: "Recomendaciones Bürstner + red de distribuidores",
     },
     euroncap: null,
-    fuenteNombre: "Bürstner (ficha técnica oficial) + caravanas.net",
+    fuenteNombre: "Bürstner (ficha técnica oficial)",
     fuenteUrl:
       "https://www.hymer.com/buerstner/downloads/kataloge-folder/mj2023_2/es/es_tds_burstner_wohnwagen_august_2023.pdf",
   },

@@ -2,11 +2,15 @@
 // NOTA: el modelo "Bianco Activ 515 SD" no existe en la gama oficial Fendt
 // (verificado en fendt-caravan.com: la gama Activ 515 ofrece SGD, SGE y SKF).
 // Se ficha el modelo real equivalente: Bianco Activ 550 SD (2026).
-// Datos verificados: exposés de distribuidores oficiales Fendt (medidas,
-// pesos y equipamiento del modelo 2026) + página oficial Bianco.
-// Bianco Activ 550 SD (modelo 2026, exposé oficial de distribuidor):
-// 772/232/266 cm, 1.505 kg en orden de marcha, 1.700 kg de MMA de serie
-// (ampliación a 2.000 kg).
+// Fuente oficial: página oficial Fendt-Caravan de la gama Bianco — confirma
+// el Activ 550 SD (ducha separada, Slim-Tower, baño trasero, cama francesa,
+// 4 plazas, 772/232 cm): https://www.fendt-caravan.com/en/bianco.html
+// Medidas/pesos detallados (266 cm de alto, 1.505 kg en orden de marcha,
+// 1.700 kg de MMA de serie con ampliación opcional a 2.000 kg) y precio
+// orientativo (~32.500 €) proceden de exposés de distribuidores oficiales
+// (la URL anterior a cdn.caraworld.com se ha eliminado: dominio no admitido).
+// Fendt no publica PVP oficial por modelo: altoMm, pesoKg, mmaKg, cargaUtilKg
+// y precioDesde quedan en "aprox" como «dato no oficial · en revisión».
 // Fotos: reales del modelo exacto, verificadas visualmente; son fotos de
 // distribuidor (no prensa del fabricante).
 import type { CocheComparador } from "./comparador-coches-data.ts";
@@ -50,7 +54,7 @@ export const CARAVANAS_FENDT: CocheComparador[] = [
     parNm: null,
     traccion: null,
     emisionesCo2: null,
-    aprox: ["precioDesde"],
+    aprox: ["precioDesde", "altoMm", "pesoKg", "mmaKg", "cargaUtilKg"],
     pros: [
       "El premium alemán de verdad: calidad de construcción Fendt, la referencia del segmento",
       "Ducha separada + baño trasero completo: el mejor cuarto de baño de su tamaño",
@@ -114,9 +118,8 @@ export const CARAVANAS_FENDT: CocheComparador[] = [
       fuente: "Recomendaciones Fendt + red de distribuidores",
     },
     euroncap: null,
-    fuenteNombre: "Fendt-Caravan (oficial) + exposé distribuidor oficial 2026",
-    fuenteUrl:
-      "https://cdn.caraworld.com/bilder/e/027/442/172/cw27442172-de-DE1-expose.pdf",
+    fuenteNombre: "Fendt-Caravan (página oficial de la gama Bianco)",
+    fuenteUrl: "https://www.fendt-caravan.com/en/bianco.html",
   },
 
   {

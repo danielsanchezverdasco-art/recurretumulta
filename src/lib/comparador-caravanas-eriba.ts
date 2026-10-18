@@ -1,7 +1,12 @@
 // Caravanas Eriba — ficha 1 (lote caravanas 2D, 17/10/2026).
-// Datos verificados: lista oficial de precios Eriba 2026 (precio y datos
-// técnicos: 599/210/227 cm, 1.006 kg en orden de marcha, MMA 1.300 kg
-// ampliable a 1.500 kg, 3 plazas). Garantía 24 meses + 72 de estanqueidad.
+// Datos: lista de precios Eriba 2026 (precio y datos técnicos: 599/210/227 cm,
+// 1.006 kg en orden de marcha, MMA 1.300 kg ampliable a 1.500 kg, 3 plazas).
+// ORIGEN REAL: el PDF es la lista oficial de precios Eriba 2026, pero está
+// alojado en el portal del distribuidor Corigon (corigon-original-zubehör.de),
+// un TERCERO — no disponible en eriba.com (búsqueda en eriba.com 18/10/2026
+// sin resultado). Los campos afectados (precioDesde) quedan en "aprox" como
+// «dato no oficial · en revisión» hasta verificar con fuente oficial directa.
+// Garantía 24 meses + 72 de estanqueidad.
 // Fotos: reales del modelo exacto, verificadas visualmente.
 import type { CocheComparador } from "./comparador-coches-data.ts";
 
@@ -45,7 +50,7 @@ export const CARAVANAS_ERIBA: CocheComparador[] = [
     parNm: null,
     traccion: null,
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "El icono del caravaning: techo elevable y diseño aerodinámico inconfundible desde 1957",
       "5,99 m y solo ~985 kg: carnet B si el conjunto no supera 3.500 kg de MMA",
@@ -109,7 +114,7 @@ export const CARAVANAS_ERIBA: CocheComparador[] = [
       fuente: "Recomendaciones Eriba/Hymer + red de distribuidores",
     },
     euroncap: null,
-    fuenteNombre: "Eriba (lista oficial de precios EUR, válida desde 01.07.2026)",
+    fuenteNombre: "Eriba (lista de precios 2026, vía portal de distribuidor)",
     fuenteUrl:
       "https://xn--corigon-original-zubehr-tlc.de/eriba/drucksachen/preislisten/caravans/eriba-caravans-de_de.pdf",
   },
@@ -216,7 +221,7 @@ export const CARAVANAS_ERIBA: CocheComparador[] = [
       fuente: "Recomendaciones Eriba/Hymer + red de distribuidores",
     },
     euroncap: null,
-    fuenteNombre: "Eriba (lista oficial de precios EUR, válida desde 01.07.2026)",
+    fuenteNombre: "Eriba (lista de precios 2026, vía portal de distribuidor)",
     fuenteUrl:
       "https://xn--corigon-original-zubehr-tlc.de/eriba/drucksachen/preislisten/caravans/eriba-caravans-de_de.pdf",
   },

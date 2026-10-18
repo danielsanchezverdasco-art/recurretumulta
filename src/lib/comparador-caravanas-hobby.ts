@@ -8,6 +8,12 @@
 // en Alemania. Las caravanas no llevan etiqueta DGT.
 // Fotos: reales del modelo exacto, verificadas visualmente; son de
 // distribuidores, NO del press kit oficial (sin "-oficial").
+// Hobby Prestige 560 UL — precio: sin PVP oficial publicado. Hobby no publica
+// precios en EUR (la web oficial suiza es la única con precios y este modelo
+// no se verificó allí; el portal de prensa mediaportal.hobby-caravan.de no
+// publica precios y las listas de distribuidores no son fuente oficial).
+// precioDesde: null — precio no mostrado hasta disponer de fuente oficial o
+// de importador oficial.
 import type { CocheComparador } from "./comparador-coches-data.ts";
 
 export const CARAVANAS_HOBBY: CocheComparador[] = [
@@ -127,7 +133,7 @@ export const CARAVANAS_HOBBY: CocheComparador[] = [
     modelo: "Prestige 560 UL",
     tipo: "Caravana",
     categoria: "Caravana",
-    precioDesde: 32000,
+    precioDesde: null,
     potenciaCv: null,
     autonomiaKm: null,
     maleteroL: null,
@@ -160,7 +166,7 @@ export const CARAVANAS_HOBBY: CocheComparador[] = [
     parNm: null,
     traccion: null,
     emisionesCo2: null,
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Camas individuales traseras de 194x85 cm: cada uno duerme a su aire, sin molestar al otro",
       "Truma Combi 6 y nevera de 157 L: equipamiento de gama alta de serie",
@@ -170,7 +176,7 @@ export const CARAVANAS_HOBBY: CocheComparador[] = [
     ],
     contras: [
       "7,57 m de largo total: exige experiencia remolcando y sitio para guardarla",
-      "El precio orientativo (~32.000 €) es alto frente a marcas generalistas",
+      "Sin PVP oficial publicado: Hobby no publica precio en EUR por modelo, hay que pedir presupuesto al distribuidor",
       "Con 1.508 kg en orden de marcha, la carga útil con 4 ocupantes es justa",
       "Sin mover eléctrico de serie: maniobrar 7,5 m a mano es duro",
       "El avance y los extras habituales suben la factura final",
