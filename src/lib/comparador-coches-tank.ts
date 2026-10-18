@@ -673,6 +673,8 @@ export const COCHES_TANK: CocheComparador[] = [
         alto: 682,
       },
     ],
+    fuenteNombre: "Wikipedia",
+    fuenteUrl: "https://en.wikipedia.org/wiki/GWM_Tank_500",
     analisisSlug: "tank-500-3-0t-2024-precio-ficha-tecnica",
   },
   {
