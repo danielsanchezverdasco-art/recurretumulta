@@ -318,4 +318,108 @@ export const CARAVANAS_DETHLEFFS: CocheComparador[] = [
     fuenteUrl:
       "https://deinfreizeitmoment.de/fileadmin/redakteure/downloads/Daten_Preise_2026/Dethleffs_pl_caravans_2026.pdf",
   },
+  {
+    id: "dethleffs-cgo-495-qsk-2026-precio-ficha-tecnica",
+    marca: "Dethleffs",
+    modelo: "c'go 495 QSK",
+    tipo: "Caravana",
+    categoria: "Caravana",
+    precioDesde: 21998,
+    potenciaCv: null,
+    autonomiaKm: null,
+    maleteroL: null,
+    ceroCien: null,
+    velocidadMax: null,
+    bateriaKwh: null,
+    cargaRapidaKw: null,
+    etiquetaDgt: null,
+    garantiaBateriaAnos: null,
+    garantiaBateriaKm: null,
+    garantiaBateriaDegradacionPct: null,
+    imagen:
+      "/media/dethleffs-cgo-495-qsk-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial:
+      "/media/dethleffs-cgo-495-qsk-2026-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial:
+      "/media/dethleffs-cgo-495-qsk-2026-precio-ficha-tecnica-interior-oficial.webp",
+    videoId: null,
+    videoCanal: null,
+    largoMm: 7140,
+    anchoMm: 2330,
+    altoMm: 2610,
+    pesoKg: 1360,
+    consumo: null,
+    consumoUnidad: null,
+    plazas: 6,
+    parNm: null,
+    traccion: null,
+    emisionesCo2: null,
+    aprox: [],
+    pros: [
+      "21.998 € de PVP oficial: la caravana familiar Dethleffs más asequible",
+      "5-6 plazas: literas traseras, cama transversal y salón convertible",
+      "MMA ampliable a 1.700 o 1.800 kg en opción",
+      "Truma S 3004 y nevera de 137 l de serie",
+      "7,14 m: manejable para una 6 plazas de un solo eje",
+    ],
+    contras: [
+      "Carga útil de serie mínima: la ampliación de MMA es casi obligatoria con 6 ocupantes",
+      "1.360 kg de MMA base se quedan cortos para una familiar",
+      "Acabados sencillos: es la gama de acceso de Dethleffs",
+      "Baño sin ducha separada de serie",
+      "2,33 m de ancho, más estrecha que las gamas altas",
+    ],
+    opiniones: [],
+    costeMensual: {
+      costeEnergia100km: 0,
+      precioKwh: 0.18,
+      precioGasolinaL: 1.6,
+      seguroTercerosAnual: 150,
+      seguroAmpliadoAnual: 300,
+      mantenimientoAnual: 200,
+      costeMensualTotal: 120,
+      notas:
+        "Estimación: seguro de caravana + revisión anual de estanqueidad, gas, frenos y neumáticos. Sin motor propio.",
+      estimado: true,
+    },
+    galeria: [
+      {
+        src: "/media/dethleffs-cgo-495-qsk-2026-precio-ficha-tecnica-oficial-2.webp",
+        alt: "Dethleffs c'go 495 QSK, vista lateral",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/dethleffs-cgo-495-qsk-2026-precio-ficha-tecnica-interior-oficial.webp",
+        alt: "Interior de la gama Dethleffs c'go",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/dethleffs-cgo-495-qsk-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Dethleffs c'go 495 QSK, vista trasera",
+        ancho: 1200,
+        alto: 800,
+      },
+    ],
+    analisisSlug: "dethleffs-cgo-495-qsk-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo:
+        "Revisión anual recomendada: estanqueidad, gas, electricidad, frenos y neumáticos",
+      revisiones: [
+        {
+          nombre: "Revisión anual de la caravana",
+          queSeCambia:
+            "Estanqueidad, instalación de gas, electricidad, frenos y neumáticos",
+          costeAproxEur: 200,
+        },
+      ],
+      costeAnualAproxEur: 200,
+      fuente: "Recomendaciones Dethleffs + red de distribuidores",
+    },
+    euroncap: null,
+    fuenteNombre: "Dethleffs (lista oficial de precios 2026)",
+    fuenteUrl:
+      "https://deinfreizeitmoment.de/fileadmin/redakteure/downloads/Daten_Preise_2026/Dethleffs_pl_caravans_2026.pdf",
+  },
 ];

@@ -214,4 +214,108 @@ export const CARAVANAS_KNAUS: CocheComparador[] = [
     fuenteUrl:
       "https://www.careiwo.de/fahrzeug/knaus-sport-450-fu-1800kgduschausbau-6v6dzt/",
   },
+  {
+    id: "knaus-sport-fun-480-ql-2026-precio-ficha-tecnica",
+    marca: "Knaus",
+    modelo: "Sport&Fun 480 QL",
+    tipo: "Caravana",
+    categoria: "Caravana",
+    precioDesde: 25899,
+    potenciaCv: null,
+    autonomiaKm: null,
+    maleteroL: null,
+    ceroCien: null,
+    velocidadMax: null,
+    bateriaKwh: null,
+    cargaRapidaKw: null,
+    etiquetaDgt: null,
+    garantiaBateriaAnos: null,
+    garantiaBateriaKm: null,
+    garantiaBateriaDegradacionPct: null,
+    imagen:
+      "/media/knaus-sport-fun-480-ql-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial:
+      "/media/knaus-sport-fun-480-ql-2026-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial:
+      "/media/knaus-sport-fun-480-ql-2026-precio-ficha-tecnica-interior-oficial.webp",
+    videoId: null,
+    videoCanal: null,
+    largoMm: 6250,
+    anchoMm: 2320,
+    altoMm: 2570,
+    pesoKg: 1700,
+    consumo: null,
+    consumoUnidad: null,
+    plazas: 4,
+    parNm: null,
+    traccion: null,
+    emisionesCo2: null,
+    aprox: ["precioDesde"],
+    pros: [
+      "Transporta motos o quads: portón trasero con rampa y anillas de amarre",
+      "4 plazas: cama transversal delantera y dinette convertible",
+      "1.700 kg de MMA: carnet B con el coche adecuado",
+      "Baño con ducha y Truma S 3004 de serie",
+      "6,25 m: compacta para todo lo que carga",
+    ],
+    contras: [
+      "Precio de anuncio de distribuidor (~25.899 €), no PVP oficial",
+      "El garaje trasero resta espacio habitable frente a una 480 normal",
+      "1.156 kg en vacío: con la moto dentro hay que vigilar la carga útil",
+      "Diseño muy específico: no es para quien no lleva juguetes",
+      "La rampa y el portón añaden peso y mantenimiento",
+    ],
+    opiniones: [],
+    costeMensual: {
+      costeEnergia100km: 0,
+      precioKwh: 0.18,
+      precioGasolinaL: 1.6,
+      seguroTercerosAnual: 160,
+      seguroAmpliadoAnual: 320,
+      mantenimientoAnual: 220,
+      costeMensualTotal: 130,
+      notas:
+        "Estimación: seguro de caravana + revisión anual de estanqueidad, gas, frenos, neumáticos y portón trasero. Sin motor propio.",
+      estimado: true,
+    },
+    galeria: [
+      {
+        src: "/media/knaus-sport-fun-480-ql-2026-precio-ficha-tecnica-oficial-2.webp",
+        alt: "Knaus Sport&Fun 480 QL, vista delantera",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/knaus-sport-fun-480-ql-2026-precio-ficha-tecnica-interior-oficial.webp",
+        alt: "Interior del Knaus Sport&Fun 480 QL",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/knaus-sport-fun-480-ql-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Knaus Sport&Fun 480 QL, vista lateral",
+        ancho: 1200,
+        alto: 800,
+      },
+    ],
+    analisisSlug: "knaus-sport-fun-480-ql-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo:
+        "Revisión anual recomendada: estanqueidad, gas, electricidad, frenos, neumáticos y portón trasero",
+      revisiones: [
+        {
+          nombre: "Revisión anual de la caravana",
+          queSeCambia:
+            "Estanqueidad, instalación de gas, electricidad, frenos, neumáticos y mecanismos del portón",
+          costeAproxEur: 220,
+        },
+      ],
+      costeAnualAproxEur: 220,
+      fuente: "Recomendaciones Knaus Tabbert + red de distribuidores",
+    },
+    euroncap: null,
+    fuenteNombre: "caraworld / TruckScout24 (anuncios de distribuidores)",
+    fuenteUrl:
+      "https://www.truckscout24.es/main/search/index?search-word=knaus+sport%26fun+480+ql+1.7tduschebett+verstellbar",
+  },
 ];
