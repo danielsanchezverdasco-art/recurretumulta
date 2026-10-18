@@ -122,3 +122,25 @@ Calidad y autochequeo (verificado en origin): 0 ids repetidos, 23/23 md, coords 
 Caveats: (1) **Misma pregunta abierta que con Baleares: CSV nombrado docs/radares/radares.csv, igual que Aragón y Baleares** — 3 ramas con el mismo nombre colisionarán al fusionar; espero tu criterio (renombrar a radares-<comunidad>.csv como en Canarias, o lo gestionas tú). (2) 2 parejas <0,5 km internos, ambas el mismo punto en sentidos opuestos (TABAZA A-8 a 0,42 km; N-632 a 0,014 km — coordenadas idénticas en la fuente): registros DGT distintos y legítimos, se mantienen. (3) 1 tramo de velocidad media: A-8 pk 505,1→506,3 (1,2 km, destino Baamonde).
 
 Con esto quedan completos los 3 lotes de la orden 18:33 (Aragón + Asturias + Baleares + Canarias = 112 radares en total). Quedo a la espera de tu veredicto y del criterio sobre los CSV.
+
+---
+
+## 2026-10-18 ~20:05 CEST — @grok lote listo fichas motos rescate 1
+
+Tarea-8 PRIORIDAD FICHAS (orden 18:41): primera tanda del rescate de fichas de MOTOS en posiciones GSC 5-20 (filtrado de `docs/seo/enlazado-objetivo-gsc.csv`; `docs/seo/ctr-oportunidades.csv` no trae motos). **20 fichas mejoradas** en la rama **`merlin-fichas-1`** (desde main `65246ebb`), 3 commits pequeños en español, sin force push:
+
+- `4e72c97d` — precios oficiales, consumo/autonomía real y fuentes en 13 fichas base
+- `b6290574` — lo mismo en 7 fichas de los lotes m1/m5/m6/m7/m9/m11
+- `6671bc10` — **`src/lib/blog-posts-motos-rescate-m1.ts`**: 11 artículos nuevos con FAQ (6 por artículo), sección «Cómo lo verificamos» (E-E-A-T), fuentes enlazadas y enlaces internos (ficha ↔ rival ↔ comparador ↔ hub de marca)
+
+**Modelos**: Yamaha XSR700 2024, Kawasaki Z900 2025, Harley-Davidson Sportster S 2024, GasGas ES 700 2024, Kawasaki Vulcan S 2024, Kawasaki Z650RS 2024, Yamaha Tricity 300 2025, Suzuki V-Strom 800 Tech 2025, Benelli TRK 251 2025, Pursang E-Track, Yamaha Ténéré 700 2024, Maeving RM1 2024, Can-Am Pulse, Ducati Panigale V2 2025, Beta EVO 300 2024, Honda CBR650R E-Clutch 2025, Stark Varg EX 2025, SYM Maxsym TL 508 2024, Kawasaki Ninja ZX-4R 2026, Zontes 368M 2025.
+
+**Precios verificados/corregidos con fuente citada**: Pursang E-Track 9.400 → **8.400 €** (último precio oficial; la marca pidió la liquidación a principios de 2024: 780.000 € de deuda, 70 uds. fabricadas); Panigale V2 17.990 → **16.490 €** (oferta de octubre en Ducati Madrid, concesionario oficial); SYM Maxsym TL 508 9.999 → **8.999 €** (web oficial SYM España, con 5 años de garantía y seguro gratis); Sportster S 19.200 → **17.800 €** (web oficial H-D España, gama 2026); Zontes 368M sale del array `aprox` (4.192 € confirmado en Zontes España); **Maeving RM1 queda en precio null** (solo se vende en Reino Unido, sin precio en España); V-Strom 800 Tech (9.499 €) y TRK 251 (3.699 €) quedan como aproximados por falta de PVP oficial publicado.
+
+**Consumo/autonomía real con fuente** añadido como pro con medio citado en las 20 fichas. Declarado honestamente donde no hay medición publicada: ZX-4R (5,1 l/100 km declarado por Kawasaki) y CBR650R E-Clutch (4,9 WMTC homologado, sin prueba publicada de la versión 2025).
+
+**Vídeos verificados** (YouTube, modelo exacto): Maeving RM1, CBR650R E-Clutch, Varg EX, Panigale V2, EVO 300, Maxsym TL 508, 368M, Sportster S, V-Strom 800, TRK 251. Rivales ya existían en `src/lib/audiencia/rivales/motos-*.generated.json` (verificados) y se enlazan desde los artículos.
+
+**Calidad**: similitud Jaccard máx **0,288** entre los 11 artículos (<0,30; 4 parejas se reescribieron para bajar del umbral); textos únicos en español; 0 datos inventados (lo no verificable queda en null o etiquetado como declarado/aprox). **Fotos**: las 20 fichas ya muestran foto del modelo exacto en la web en vivo (verificado: webp servido con 200); en el repo git `public/media/motos/` solo constan 6 fichas nuevas — las fotos de estas 20 no están en git (situación preexistente, no tocada). Títulos/metas publicados no tocados; main, Netlify y Cloudflare no tocados.
+
+**Pendiente para ti**: (1) registrar `blog-posts-motos-rescate-m1.ts` en `src/lib/data-loaders/*.generated.ts` (lo genera `scripts/gen-data-loaders.mjs`; no lo edito a mano por tu regla); los 11 `analisisSlug` de las fichas ya apuntan a los nuevos artículos. (2) Revisar y publicar. **Caveats**: el precio 16.490 € de la Panigale V2 es oferta del mes (-1.500 € sobre 17.990 €); el PVP de la Vulcan S (8.560 €) no fue visible en el fetch estático de kawasaki.es — conviene re-verificar con JS antes de publicar su artículo; la Benelli TRK 251 parece descatalogada en España (su relevo es la BKX 250) — valora redirigir la ficha; los enlaces internos desde hubs de marca son páginas generadas (tu dominio).
