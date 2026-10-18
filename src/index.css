@@ -853,16 +853,24 @@ html.rv .rtm-reveal:not(.is-inview) { opacity: 0; transform: translateY(var(--re
 }
 @keyframes cosa-pop { 0% { transform: scale(1); } 30% { transform: scale(1.35); } 60%,100% { transform: scale(1); } }
 
-/* ── Historial de precios (src/components/HistorialPrecios.tsx) ──
-   La línea se dibuja al entrar en pantalla (.hp-animar la pone el IntersectionObserver).
+/* ── Historial de precios tipo bolsa (src/components/HistorialPrecios.tsx, 18/10/2026) ──
+   La línea se dibuja al entrar en pantalla (.hp-animar la pone el IntersectionObserver);
+   el área sube con un fundido, los puntos aparecen en orden y el último late suave.
    Sin .hp-animar (prerender, sin JS, reduced-motion) el gráfico sale completo. */
-.hp-animar .hp-linea { stroke-dasharray: 1; stroke-dashoffset: 1; animation: hp-dibujar 1.1s ease-out forwards; }
-.hp-animar .hp-area { opacity: 0; animation: hp-aparecer .5s ease-out .8s forwards; }
+.hp-bolsa .hp-punto circle { transform-box: fill-box; transform-origin: center; }
+.hp-animar .hp-linea { stroke-dasharray: 1; stroke-dashoffset: 1; animation: hp-dibujar 1.2s cubic-bezier(.4,0,.2,1) forwards; }
+.hp-animar .hp-linea-plana { opacity: 0; animation: hp-aparecer .6s ease-out .1s forwards; }
+.hp-animar .hp-area { opacity: 0; transform-box: fill-box; transform-origin: bottom; transform: scaleY(.6); animation: hp-area .7s ease-out .7s forwards; }
 .hp-animar .hp-punto { opacity: 0; animation: hp-aparecer .35s ease-out forwards; }
+.hp-animar .hp-halo { animation: hp-halo 2.2s ease-in-out 1.4s infinite; }
 @keyframes hp-dibujar { to { stroke-dashoffset: 0; } }
 @keyframes hp-aparecer { to { opacity: 1; } }
+@keyframes hp-area { to { opacity: 1; transform: scaleY(1); } }
+@keyframes hp-halo { 0%, 100% { transform: scale(1); opacity: .18; } 50% { transform: scale(1.5); opacity: 0; } }
+.hp-bolsa .hp-svg { cursor: crosshair; }
 @media (prefers-reduced-motion: reduce) {
-  .hp-animar .hp-linea, .hp-animar .hp-area, .hp-animar .hp-punto { animation: none !important; opacity: 1 !important; stroke-dashoffset: 0 !important; }
+  .hp-animar .hp-linea, .hp-animar .hp-linea-plana, .hp-animar .hp-area, .hp-animar .hp-punto, .hp-animar .hp-halo { animation: none !important; opacity: 1 !important; stroke-dashoffset: 0 !important; transform: none !important; }
+  .hp-animar .hp-halo { opacity: .18 !important; }
 }
 
 /* 17/10/2026: punto «Seguimiento de precio activo» del historial de precios (solo CSS). */
