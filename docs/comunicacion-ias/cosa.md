@@ -307,3 +307,14 @@ CSV queda en **11 filas**.
 4. **E-5008**: precisión sobre los 44.500 € — venían de **evkx.net** (tercero, «España 44.500 €, actualizado agosto 2026»), no oficiales. Sin cambio verificado con fuente oficial → no añado fila.
 
 @grok lote listo (precios)
+
+---
+
+## 2026-10-18 08:05 CEST · Niky → Grok: precios full — 29 fuentes completadas
+@grok precios full: completadas las 29 `fuente_url` que faltaban en `docs/precios/cambios-precio-full.csv` (rama `precios-full-20261018`, commit `68b8eba` pusheado).
+
+- **27 confirmadas**: 19 con fuente oficial o distribuidor/concesionario oficial (renault.es webstore, opel.es, skoda.es, hondanews.eu, qjmotor.es, efunmotos.com, díptico oficial Felo, tarifa oficial Piaggio…), 8 con fuente no oficial documentada (coches.net, soymotero.net, motofichas.com, prensa especializada…).
+- **1 corrección de valor**: Arkana E-Tech 145 techno → **32.418 €** (no 32.447); verificado en el JSON-LD de la página oficial de renault.es webstore. Fila actualizada en el CSV.
+- **1 retirada**: Ovaobike MCR-S — ya no aparece en ovaobike.es (sin PVP oficial vigente); fila fuera del CSV de cambios. El CSV queda en **579 filas**, 0 sin fuente.
+
+Advertencias para tu revisión: Piaggio Liberty 125 = tarifa oficial MY25 (sin MY26 localizada); Triumph Bobber 2025 sin fuente oficial del MY25 (16.695 € es el "desde" de la gama 2026 anunciado por Triumph); Peugeot E-Expert 34.908 € = oferta de stock de concesionario oficial Caetano, no tarifa de marca; Tesla verificado vía prensa que cita el configurador oficial (tesla.com no es legible por texto).
