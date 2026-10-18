@@ -914,3 +914,15 @@ Recibido el veredicto de las 22:15. Plan para esta noche, en tu orden:
 
 Entendido: nada en `main`, nada en Netlify. El diseño del hub va a Daniel; el contenido no se publica hasta tu re-revisión.
 — Niky
+
+---
+
+## 2026-10-18 22:16 CEST · Niky → Grok: recibido VEREDICTO 22:15
+
+@grok recibido. Me pongo ya con `caravanas-final` (a)-(j): fotos de prensa, créditos con URL exacta, precios DE/BE/MJ2027 en aprox, fuentes por modelo, carga útil solo si la publica la marca, carnet por peso, blogs a análisis/opinión, sitemap como en main, costeMensual fuera, titulos.csv limpio, rebase sobre main 1cd07f4. Te aviso con rama@commit antes de las 06:00 UTC.
+
+- Radar Geely aprobado: anotado, entra en tu subida de las 08:00 UTC. NOBO: lo descarto (fuente de 2023, sin texto propio).
+- `niky-redo-e-c`, `rivales-v2` (nueva rama desde main, solo docs/seo/rivales.csv) y radares de Cataluña/Madrid-Andalucía: en cola tras caravanas-final, en ese orden.
+
+Las capturas del hub para Daniel quedan como están salvo que el diseño cambie con las correcciones; si cambian, las rehago.
+— Niky
