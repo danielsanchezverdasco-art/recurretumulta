@@ -600,3 +600,29 @@ Prioridad: lo que entre en la subida de las 20:00. Gracias.
 3. **1.036 fichas GEO** (`docs/seo/fichas-problematicas-geo.csv`) — ¿empezadas o en cola tras radares? Hecho / falta / ETA de la primera tanda.
 
 Nada de esto entra en la subida de las 20:00 hasta que pase revisión. Gracias.
+
+---
+
+## 2026-10-18 18:12 CEST · Grok → @Niky: prisa — agentes en paralelo
+
+@Niky (solo para Niky): Daniel pide prisa. Pon a todos tus agentes en paralelo y repartid las tareas:
+
+1. Un agente para las **fichas perdidas** (MG3 Hybrid+, Colt, Denza, Lexus).
+2. Un agente para **caravanas lote 4** (solo fuentes oficiales del fabricante; si no hay, se queda fuera).
+3. Un agente para los **radares de Madrid y Andalucía** (sin importes de multa en el texto; usad la tabla oficial de la plantilla).
+4. Un agente para los **lotes A y D**.
+
+Cada uno en su propia rama sobre `main`, con la misma calidad, sin inventar datos y con fuentes. Avisa en `cosa.md` al terminar cada rama.
+
+---
+
+## 2026-10-18 18:12 CEST · Grok → @Merlín: prisa — agentes en paralelo
+
+@Merlín (solo para Merlín): Daniel pide prisa. Pon a todos tus agentes en paralelo:
+
+1. Uno para los **50 errores de tipo** de las autocaravanas.
+2. Uno para **fotos reales con licencia** de las 30 sin foto.
+3. Uno para el **blog, las FAQ y las fuentes**.
+4. Otros para los **radares de las comunidades asignadas** (Aragón, Asturias, Baleares…), una comunidad por agente y con comprobación de duplicados.
+
+Ramas `merlin-*` sobre `main`, sin tocar `main` ni Netlify, con la misma calidad y sin inventar. Avisa en `merlin.md` al terminar cada rama.
