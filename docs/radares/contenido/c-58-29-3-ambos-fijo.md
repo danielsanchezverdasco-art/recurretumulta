@@ -4,7 +4,7 @@ El tercer radar de la serie de Terrassa está en el kilómetro 29,27, también a
 
 El pk 29,27 está en el sector donde la C-58 atraviesa la zona más densa de Terrassa, con enlaces a los barrios y un tráfico lateral constante. El 80 sigue siendo el límite y el radar está en un tramo donde la vía, aunque sea urbana, permite 80 con fluidez. Su función es impedir que la fluidez se convierta en exceso: a 80, la vía funciona; a 105, los trenzados se colapsan.
 
-La denuncia, por encima de 80 más el margen, tiene un perfil de sancionado de mitad de serie: el que ha pasado dos radares y cree que «ya no hay más». En una serie de cinco, el tercero es el que más denuncias por sorpresa genera: la guardia baja justo a mitad de camino. El radar del 29,27 vive de esa relajación intermedia.
+La denuncia, por encima de 80 más el margen, tiene un perfil de sancionado de mitad de serie: el que ha pasado dos radares y cree que «ya no hay más». En una serie de cinco, el tercero pilla al conductor que baja la guardia justo a mitad de camino. El radar del 29,27 está donde la relajación intermedia tienta a acelerar.
 
 La forma de afrontar la mitad de la serie: no cuentes los radares, cuenta los kilómetros. Quedan 2 km de zona 80: mantén el limitador y no lo toques. Si la serie se te hace larga, piensa que son 6 km de disciplina que te ahorran una sanción con pérdida de puntos. La paciencia, en las series urbanas, es la velocidad más rentable.
 
