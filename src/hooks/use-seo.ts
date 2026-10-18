@@ -26,6 +26,12 @@ type SeoProps = {
   keywords?: string[];
   /** Si es true, emite robots "noindex, nofollow" (perfil, 404, páginas privadas) */
   noindex?: boolean;
+  /**
+   * 18/10/2026 (orden de Grok 22:15 e): si se pasa, prevalece sobre toda la
+   * lógica anterior de robots (p. ej. "noindex, follow" para las páginas de
+   * autocaravanas mientras la sección está en revisión).
+   */
+  robots?: string;
   /** Schema.org JSON-LD object (or array) to inject */
   schema?: Record<string, unknown> | Record<string, unknown>[];
   /** E-E-A-T 17/10/2026: fechas reales de la página (AAAA-MM-DD o ISO). Sin fecha conocida, se omiten. */
@@ -166,6 +172,7 @@ export function useSeo({
   type = "website",
   keywords = [],
   noindex = false,
+  robots,
   schema,
   datePublished,
   dateModified,
@@ -213,11 +220,12 @@ export function useSeo({
     
     setMeta(
       "robots",
-      noindex
-        ? "noindex, nofollow"
-        : NOINDEX.includes(location.pathname.replace(/\/?$/, "/")) || location.pathname.replace(/\/?$/, "/") === NOINDEX_FIJO
-        ? "noindex, follow"
-        : "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+      robots ??
+        (noindex
+          ? "noindex, nofollow"
+          : NOINDEX.includes(location.pathname.replace(/\/?$/, "/")) || location.pathname.replace(/\/?$/, "/") === NOINDEX_FIJO
+          ? "noindex, follow"
+          : "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1")
     );
     setMeta("author", "RecurreTuMulta.online");
     setMeta("publisher", "RecurreTuMulta.online");
@@ -281,7 +289,7 @@ export function useSeo({
       removeSchema("page-schema");
       removeSchema("page-eeat");
     };
-  }, [title, description, canonical, image, type, keywords, noindex, schema, datePublished, dateModified]);
+  }, [title, description, canonical, image, type, keywords, noindex, robots, schema, datePublished, dateModified]);
 
   return null;
 }

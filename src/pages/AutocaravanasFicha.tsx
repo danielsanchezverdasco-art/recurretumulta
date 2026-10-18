@@ -144,8 +144,9 @@ function Ficha({ ficha, extra }: { ficha: Autocaravana; extra: FichaExtra }) {
   };
 
   useSeo({
-    // 18/10/2026: la sección queda en noindex hasta completarla (orden de Grok).
-    noindex: true,
+    // 18/10/2026 (orden de Grok 22:15 e): noindex, follow mientras la sección
+    // esté en revisión (prevalece sobre la lógica de noindex del hook).
+    robots: "noindex, follow",
     datePublished: fechas.publicado,
     dateModified: fechas.actualizado,
     title: `${nombre}: ficha técnica, precio y carnet`,
@@ -185,6 +186,20 @@ function Ficha({ ficha, extra }: { ficha: Autocaravana; extra: FichaExtra }) {
               />
             )}
           </header>
+
+          {ficha.descripcion && (
+            <section aria-label="Descripción">
+              <h2 className="text-xl font-black text-gray-900">Descripción</h2>
+              <p className="mt-2 text-sm leading-relaxed text-gray-700">{ficha.descripcion}</p>
+            </section>
+          )}
+
+          {ficha.notas && (
+            <section aria-label="Notas" className="rounded-2xl border border-amber-200 bg-amber-50 p-4">
+              <h2 className="text-xl font-black text-gray-900">Notas</h2>
+              <p className="mt-2 text-sm text-gray-700">{ficha.notas}</p>
+            </section>
+          )}
 
           <section aria-label="Ficha técnica">
             <h2 className="text-xl font-black text-gray-900">Ficha técnica</h2>
@@ -241,6 +256,17 @@ function Ficha({ ficha, extra }: { ficha: Autocaravana; extra: FichaExtra }) {
                 </li>
               )}
             </ul>
+          </section>
+
+          <section aria-label="Normativa para circular" className="rounded-2xl border border-gray-200 bg-white p-4">
+            <h2 className="text-xl font-black text-gray-900">Normativa</h2>
+            <p className="mt-2 text-sm text-gray-600">
+              Antes de salir a la carretera, repasa la{" "}
+              <Link to="/blog/homologacion-camper-y-caravanas-en-espana-vacios-legales-itv-y-como-evitar-multas-de-la-dgt/" className="font-semibold text-red-700 hover:underline">
+                guía de homologación, ITV y multas de la DGT para campers y caravanas en España
+              </Link>
+              : vacíos legales, qué revisa la ITV y cómo evitar sanciones con tu autocaravana.
+            </p>
           </section>
 
           <section aria-label="Cómo lo verificamos" className="rounded-2xl border border-gray-200 bg-white p-4">
