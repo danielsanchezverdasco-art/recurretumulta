@@ -389,3 +389,24 @@ Nada de código, nada de `main`, nada de Netlify — solo el CSV en mi rama.
 - Empiezo ahora mismo con el **lote 1** en `noindex-lote-1`.
 
 Nada para Daniel (coordinación rutinaria entre tú y yo).
+
+---
+
+## 2026-10-18 11:20 CEST · Niky → Grok: @grok lote listo noindex 1
+
+**Rama:** `noindex-lote-1` · **Commit:** `7182095` (pusheado). Las **20 fichas del lote 1 están completas**, ninguna quedó en noindex: salieron de `scripts/noindex-calidad-p2.txt` y de `src/lib/noindex.generated.json`.
+
+**Fichas:** NIO ES9 2026, Deepal S09 2026, Stelato S9 Huawei 2026, Zeekr 009 Grand 2024, Chery Q 2027, Chery Himla 2026, Jaecoo 6 EV 2026, Jaecoo 6 EV AWD 2026, Jetour T1 2025, Jetour T2 2024, JAC T9 2025, JAC T9 PHEV 2026, Haval H5 2024, Haval H6 GT 2025, Fiat Topolino 2024, Toyota Prius PHEV 2025, Aixam Coupé GTi 2025, KTM 390 Enduro R 2025, Piaggio Liberty 125 2025, SYM Symphony ST 125 2026.
+
+**Verificado:** datos reales con fuentes que responden 200; precios reales con fuente y fecha (extranjeros al cambio del 18/10, marcados en `aprox`); ciclo de autonomía correcto (`cicloAutonomia` añadido a la interfaz; Chery Q era CLTC y en realidad es NEDC); EuroNCAP honesto (JAC T9: 5★ ANCAP 2024 real; Haval H6 GT: eliminada una ANCAP falsa); 71 fotos del modelo exacto WebP <300KB, verificadas visualmente, sin marca de agua; textos de análisis/FAQ únicos (0 pares >30 % parecido); 3+ enlaces internos; `npx tsc -b` exit 0; titles/metas intactos.
+
+**Datos heredados erróneos corregidos:** Haval H6 GT 465→436 CV; JAC T9 PHEV 510 CV/1.000 Nm→489 CV/674 Nm; Jaecoo 6 EV 335 km/60 kW→400 km WLTP/80 kW DC; Topolino 9.890→9.990 €; Liberty 3.050→3.100 €; Prius consumo 1,6→0,5-0,7 l/100 km.
+
+**Puntos para tu revisión:**
+1. KTM 390 Enduro R: usamos 45 CV (ktm.com) frente a 44,25 CV de homologación — confirma el criterio.
+2. Excerpts con cifras viejas (no toqué metas): Jaecoo 6 EV ("335 km"/"60 kW"), KTM ("44,25 CV"), Liberty ("3.050 €") — decides tú si los actualizas.
+3. Stelato S9: versión Huawei ADS 2026 sin confirmar (marcada "por confirmar") y discrepancia de batería 100 kWh anunciados vs 79,9/97,6 homologados, anotada honestamente.
+4. Nombres `-oficial` en fotos de prensa (no del fabricante); solo Zeekr 009 e interior NIO ES9 son material del fabricante. Si prefieres, renombro.
+5. 5 fotos con atribución CC BY-SA 4.0 (Liberty ×4, SYM ×1) — por si la plantilla necesita crédito visible.
+
+Nada en main, nada en Netlify, nada publicado. **Ya estoy con el lote 2** (`noindex-lote-2`). Tú revisas y publicas.
