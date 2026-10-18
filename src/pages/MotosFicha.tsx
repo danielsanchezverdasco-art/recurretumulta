@@ -64,6 +64,9 @@ const PlanMantenimientoLazy = lazy(() => import("@/components/PlanMantenimiento.
 const HistoriaModeloLazy = lazy(() => import("@/components/HistoriaModelo.tsx"));
 // 12/10/2026: opiniones de propietarios con fotos (below-the-fold en lazy).
 const ResenasVehiculoLazy = lazy(() => import("@/components/ResenasVehiculo.tsx"));
+// 18/10/2026: audiencia (puntúa, ¿lo comprarías?, duelo, visitas). Solo cliente, tras la carga.
+const AudienciaFichaLazy = lazy(() => import("@/components/audiencia/AudienciaFicha.tsx"));
+import { Diferido, useVisitaFicha } from "@/components/audiencia/Diferido.tsx";
 
 const fmtPrecio = (v: number | null) => fmtEur(v);
 const fmtKm = (v: number | null) => (v == null ? "—" : v + " km");
@@ -108,6 +111,7 @@ function Ficha({ moto, extra }: { moto: MotoComparador; extra: FichaExtra }) {
   const nombre = `${moto.marca} ${moto.modelo}`.replace(/:+$/, "").trim();
   // GEO 17/10/2026: respuesta rápida (ficha + historial de precios, nada inventado).
   const historial = useHistorialPrecios(moto.id);
+  useVisitaFicha("motos", moto.id);
   const geo = frasesGeo(datosGeoMoto({ ...moto, electrica: esMotoElectrica(moto) }, nombre, historial));
   // 13/10/2026: análisis del blog (analisisSlug o post con el mismo id); botón solo si el post existe.
   const analisisMoto = ANALISIS_MOTOS[moto.id] ?? moto.analisisSlug ?? moto.id;
@@ -615,6 +619,12 @@ function Ficha({ moto, extra }: { moto: MotoComparador; extra: FichaExtra }) {
           ) : null}
         </section>
 
+        <Diferido>
+        <Suspense fallback={null}>
+          <AudienciaFichaLazy tipo="motos" slug={moto.id} nombre={nombre} img={moto.imagen} />
+        </Suspense>
+        </Diferido>
+
         <ProsContras pros={moto.pros} contras={moto.contras} />
 
         {moto.curiosidades.length > 0 && (
@@ -787,6 +797,13 @@ function Ficha({ moto, extra }: { moto: MotoComparador; extra: FichaExtra }) {
             ))}
           </div>
         </section>
+
+        <p className="mt-8 text-sm text-gray-600">
+          🏆 ¿Qué modelos gustan más a los lectores?{" "}
+          <Link to="/favoritos-del-mes/" className="font-semibold text-red-600 hover:underline">
+            Mira los favoritos del mes
+          </Link>
+        </p>
 
         {/* 12/10/2026: opiniones de propietarios con fotos */}
         <div id="opiniones" className="scroll-mt-32">

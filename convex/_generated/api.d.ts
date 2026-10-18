@@ -10,6 +10,7 @@
 
 import type * as adminAuth from "../adminAuth.js";
 import type * as alertasPrecio from "../alertasPrecio.js";
+import type * as audiencia from "../audiencia.js";
 import type * as auth from "../auth.js";
 import type * as authSimple from "../authSimple.js";
 import type * as blog from "../blog.js";
@@ -26,6 +27,7 @@ import type * as comparadorPatinetes from "../comparadorPatinetes.js";
 import type * as comparadorPatinetesDatos from "../comparadorPatinetesDatos.js";
 import type * as comparadorPatinetesInterno from "../comparadorPatinetesInterno.js";
 import type * as creadores from "../creadores.js";
+import type * as crons from "../crons.js";
 import type * as deleteFakeHunters from "../deleteFakeHunters.js";
 import type * as emails from "../emails.js";
 import type * as empresas from "../empresas.js";
@@ -60,6 +62,7 @@ import type {
 declare const fullApi: ApiFromModules<{
   adminAuth: typeof adminAuth;
   alertasPrecio: typeof alertasPrecio;
+  audiencia: typeof audiencia;
   auth: typeof auth;
   authSimple: typeof authSimple;
   blog: typeof blog;
@@ -76,6 +79,7 @@ declare const fullApi: ApiFromModules<{
   comparadorPatinetesDatos: typeof comparadorPatinetesDatos;
   comparadorPatinetesInterno: typeof comparadorPatinetesInterno;
   creadores: typeof creadores;
+  crons: typeof crons;
   deleteFakeHunters: typeof deleteFakeHunters;
   emails: typeof emails;
   empresas: typeof empresas;

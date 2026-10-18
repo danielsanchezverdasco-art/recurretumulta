@@ -60,6 +60,9 @@ const HistorialPreciosLazy = lazy(() => import("@/components/HistorialPrecios.ts
 const SeguridadEuroNCAPLayz = lazy(() => import("@/components/SeguridadEuroNCAP.tsx"));
 // 12/10/2026: opiniones de propietarios con fotos (below-the-fold en lazy).
 const ResenasVehiculoLazy = lazy(() => import("@/components/ResenasVehiculo.tsx"));
+// 18/10/2026: audiencia (puntúa, ¿lo comprarías?, duelo, visitas). Solo cliente, tras la carga.
+const AudienciaFichaLazy = lazy(() => import("@/components/audiencia/AudienciaFicha.tsx"));
+import { Diferido, useVisitaFicha } from "@/components/audiencia/Diferido.tsx";
 
 const fmtPrecio = (v: number | null) => fmtEur(v, "No publicado");
 const fmtW = (v: number | null) => (v == null ? "No publicado" : v + " W");
@@ -98,6 +101,7 @@ function Ficha({ patinete, extra }: { patinete: PatineteComparador; extra: Ficha
   const nombre = `${patinete.marca} ${patinete.modelo}`;
   // GEO 17/10/2026: respuesta rápida (ficha + historial de precios, nada inventado).
   const historial = useHistorialPrecios(patinete.id);
+  useVisitaFicha("patinetes", patinete.id);
   const geo = frasesGeo(datosGeoPatinete(patinete, nombre, historial));
   // 12/10/2026: nodos schema.org de reseñas (se fusionan en cliente cuando
   // Convex responde; en el prerender no hay datos → solo el schema base).
@@ -547,6 +551,12 @@ function Ficha({ patinete, extra }: { patinete: PatineteComparador; extra: Ficha
           </Suspense>
         </section>
 
+        <Diferido>
+        <Suspense fallback={null}>
+          <AudienciaFichaLazy tipo="patinetes" slug={patinete.id} nombre={nombre} img={patinete.fotoPendiente ? null : patinete.foto} />
+        </Suspense>
+        </Diferido>
+
         <ProsContras pros={patinete.pros} contras={patinete.contras} />
 
         {patinete.videoId && (
@@ -697,6 +707,13 @@ function Ficha({ patinete, extra }: { patinete: PatineteComparador; extra: Ficha
             ))}
           </div>
         </section>
+
+        <p className="mt-8 text-sm text-gray-600">
+          🏆 ¿Qué modelos gustan más a los lectores?{" "}
+          <Link to="/favoritos-del-mes/" className="font-semibold text-red-600 hover:underline">
+            Mira los favoritos del mes
+          </Link>
+        </p>
 
         {/* 12/10/2026: opiniones de propietarios con fotos */}
         <div id="opiniones" className="scroll-mt-32">

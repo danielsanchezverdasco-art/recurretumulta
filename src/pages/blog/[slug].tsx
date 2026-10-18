@@ -18,6 +18,9 @@ import type { PatineteComparador } from "@/lib/comparador-patinetes-data.ts";
 import type { TipoVehiculoResena } from "@/components/ResenasVehiculo.tsx";
 // 12/10/2026: opiniones de propietarios al final del artículo (lazy, below-the-fold).
 const ResenasVehiculoLazy = lazy(() => import("@/components/ResenasVehiculo.tsx"));
+// 18/10/2026: reacciones 👍 😮 😡 (solo cliente, tras la carga).
+const ReaccionesPostLazy = lazy(() => import("@/components/audiencia/ReaccionesPost.tsx"));
+import { Diferido } from "@/components/audiencia/Diferido.tsx";
 import { useSeo } from "@/hooks/use-seo.ts";
 import AdBanner, { AD_SLOTS } from "@/components/ads/AdBanner.tsx";
 import { useQuery } from "convex/react";
@@ -711,6 +714,11 @@ function BlogPostPage() {
               titulo="¿Un mono señalando el final del artículo? Haz clic para cazarlo 🦍"
             />
           </div>
+          <Diferido>
+            <Suspense fallback={null}>
+              <ReaccionesPostLazy slug={post.slug} />
+            </Suspense>
+          </Diferido>
           <BannerJuegoMonos />
 
           {/* Fuentes y transparencia editorial */}

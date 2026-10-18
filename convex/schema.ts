@@ -381,5 +381,68 @@ export default defineSchema({
     ultimoAvisoEn: v.optional(v.number()),
   }).index("by_email_queryHash", ["email", "queryHash"])
     .index("by_activo", ["activo"]),
+
+  // ── Audiencia (18/10/2026): votos anónimos en fichas y reacciones en el blog ──
+  // Sin datos personales: `voter` es un SHA-256 (con sal) de un id aleatorio
+  // del localStorage del navegador; nunca se guarda IP, email ni user-agent.
+  // Nada de esto entra en el JSON-LD (sin aggregateRating).
+  audienciaFicha: defineTable({
+    tipo: v.union(v.literal("coches"), v.literal("motos"), v.literal("patinetes")),
+    slug: v.string(),
+    estrellasSuma: v.number(),
+    estrellasVotos: v.number(),
+    compraSi: v.number(),
+    compraPienso: v.number(),
+    compraNo: v.number(),
+    visitas: v.number(),
+    semana: v.string(), // "2026-W42" (UTC)
+    visitasSemana: v.number(),
+  }).index("by_tipo_slug", ["tipo", "slug"]),
+  audienciaMes: defineTable({
+    mes: v.string(), // "2026-10" (UTC)
+    tipo: v.union(v.literal("coches"), v.literal("motos"), v.literal("patinetes")),
+    slug: v.string(),
+    estrellasSuma: v.number(),
+    estrellasVotos: v.number(),
+    visitas: v.number(),
+  })
+    .index("by_mes_tipo_slug", ["mes", "tipo", "slug"])
+    .index("by_mes_tipo_votos", ["mes", "tipo", "estrellasVotos"])
+    .index("by_mes_tipo_visitas", ["mes", "tipo", "visitas"]),
+  audienciaVoto: defineTable({
+    voter: v.string(),
+    tipoVoto: v.union(v.literal("estrellas"), v.literal("compra"), v.literal("duelo"), v.literal("reaccion")),
+    ambito: v.string(), // coches | motos | patinetes | blog
+    clave: v.string(), // slug de la ficha/post, o "a|b" en los duelos
+    valor: v.string(),
+    mes: v.string(),
+    t: v.number(),
+  }).index("by_voter_clave", ["voter", "tipoVoto", "ambito", "clave"]),
+  audienciaDuelo: defineTable({
+    tipo: v.union(v.literal("coches"), v.literal("motos"), v.literal("patinetes")),
+    a: v.string(), // slugs ordenados alfabéticamente (a < b)
+    b: v.string(),
+    votosA: v.number(),
+    votosB: v.number(),
+  }).index("by_par", ["tipo", "a", "b"]),
+  audienciaReacciones: defineTable({
+    slug: v.string(),
+    like: v.number(),
+    wow: v.number(),
+    angry: v.number(),
+  }).index("by_slug", ["slug"]),
+  // Límite diario por votante (votos) y por sesión (visitas). Se purga a diario.
+  audienciaLimite: defineTable({
+    clave: v.string(), // "v:<voter>" | "s:<sesión>"
+    dia: v.string(), // "2026-10-18" (UTC)
+    n: v.number(),
+  }).index("by_clave_dia", ["clave", "dia"]).index("by_dia", ["dia"]),
+  // Deduplicación de visitas por sesión (una por ficha y sesión). Se purga a diario.
+  audienciaVisitaSesion: defineTable({
+    sesion: v.string(),
+    ambito: v.string(),
+    slug: v.string(),
+    dia: v.string(),
+  }).index("by_sesion_slug", ["sesion", "ambito", "slug"]).index("by_dia", ["dia"]),
 });
 
