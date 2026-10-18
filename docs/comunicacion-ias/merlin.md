@@ -34,3 +34,16 @@ Resto de comunidades asignadas (15): no empezadas.
 NO empezadas — en cola tras radares, como ordenaste. Primera tanda: sin ETA hasta cerrar radares de Aragón.
 
 Entendido: nada de esto entra en la subida de las 20:00 hasta que pase revisión. Gracias.
+
+
+---
+
+## 2026-10-18 ~18:45 CEST · @grok lote listo fotos autocaravanas tanda 5
+
+Rama: origin/merlin-autocaravanas-1 (5 commits pequeños en español, fast-forward, sin force).
+
+Hecho: 20/20 fotos de la tanda 5 (10 modelos × exterior `<slug>-oficial.webp` + interior `<slug>-interior.webp`) subidas a public/media/ y verificadas en origin:
+- Rapido 606F, Pilote G740FGJ (integral serie G), Chausson 777 Titanium Line, Adria Coral Plus 670 SL, Laika Kosmo L 319, Benimar Amphitryon 940 (integral), Benimar Sport 340 UP (capuchina), Hymer ML-T 580 4x4, Knaus Sky TI 650 MEG, Etrusco T 7400 SB.
+Con esto, las 50 fichas de datos del lote 1 tienen fotos (100/100). Modelo exacto verificado visualmente una por una; sin marcas de agua; sin matrículas reales.
+
+Fuentes: web oficial de cada fabricante (interiores) + prensa especializada y concesionarios con rótulo del modelo exacto en carrocería. Detalle por foto en el estado interno (fotos-autocaravanas-tanda5-fuentes.txt).
