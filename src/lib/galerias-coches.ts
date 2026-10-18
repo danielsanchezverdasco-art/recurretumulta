@@ -397,9 +397,9 @@ export const GALERIAS_COCHES: Record<string, FotoCarrusel[]> = {
     { src: "/media/dacia-spring-baja-precio-octubre-2026-galeria-ia-2.webp", alt: "Vista trasera del SUV urbano eléctrico con piloto de ancho completo", credito: "Imagen editorial generada por IA" },
   ],
   "dacia-sandero-baja-precio-octubre-2026": [
-    { src: "/media/dacia-sandero-baja-precio-octubre-2026-hero.webp", alt: "Dacia Sandero azul circulando por una carretera española al atardecer", credito: "Imagen editorial generada por IA" },
-    { src: "/media/dacia-sandero-tce-100-oficial.webp", alt: "Dacia Sandero en fotografía oficial de la marca", credito: "Foto oficial de Dacia" },
-    { src: "/media/dacia-sandero-baja-precio-octubre-2026-galeria-ia-1.webp", alt: "Compacto asequible azul con luces diurnas en forma de Y en una plaza española", credito: "Imagen editorial generada por IA" },
+    { src: "/media/dacia-sandero-baja-precio-octubre-2026-hero.webp", alt: "Dacia Sandero 2026 en marcha", credito: "Foto de prensa (xerodrive.com)" },
+    { src: "/media/dacia-sandero-baja-precio-octubre-2026-oficial.webp", alt: "Dacia Sandero Stepway 2026 en estudio", credito: "Foto de prensa" },
+    { src: "/media/dacia-sandero-baja-precio-octubre-2026-interior.webp", alt: "Interior del Dacia Sandero 2026", credito: "Foto de prensa (carexpert.com.au)" },
   ],
   "hyundai-i20-baja-precio-octubre-2026": [
     { src: "/media/hyundai-i20-baja-precio-octubre-2026-hero.webp", alt: "Hyundai i20 rojo aparcado frente a un concesionario en España", credito: "Imagen editorial generada por IA" },
@@ -619,9 +619,9 @@ export const GALERIAS_COCHES: Record<string, FotoCarrusel[]> = {
     { src: "/media/cupra-leon-vz-300-2025-precio-ficha-tecnica-hero.webp", alt: "Cupra León VZ 300 en un puerto de montaña", credito: "Imagen ilustrativa generada por IA" },
   ],
   "cupra-leon-vz-325-2025-precio-ficha-tecnica": [
-    { src: "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-oficial.webp", alt: "Cupra León VZ 325, tres cuartos delantero", credito: "Imagen ilustrativa generada por IA" },
-    { src: "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior del Cupra León VZ 325 con asientos deportivos", credito: "Imagen ilustrativa generada por IA" },
-    { src: "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-hero.webp", alt: "Cupra León VZ 325 acelerando en circuito", credito: "Imagen ilustrativa generada por IA" },
+    { src: "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-oficial.webp", alt: "Cupra León VZ 325, trasera tres cuartos en marcha (foto oficial de prensa)", credito: "Foto de prensa CUPRA vía dailydriver.pl" },
+    { src: "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Cupra León VZ 325 con asientos CUPBucket", credito: "Auto Express" },
+    { src: "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-hero.webp", alt: "Cupra León VZ 325, tres cuartos delantero (foto oficial de prensa)", credito: "Foto de prensa CUPRA vía infomotori.com" },
   ],
   "cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica": [
     { src: "/media/cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica-oficial.webp", alt: "Cupra León Sportstourer e-Hybrid, familiar híbrido enchufable", credito: "Imagen ilustrativa generada por IA" },
@@ -2179,5 +2179,30 @@ export const GALERIAS_COCHES: Record<string, FotoCarrusel[]> = {
     { src: "/media/gwm-haval-h6-2024-precio-ficha-tecnica-hero.webp", alt: "GWM Haval H6 2024, vista tres cuartos delantera", credito: "Foto: www.gwm-motor.de" },
     { src: "/media/gwm-haval-h6-2024-precio-ficha-tecnica-interior.webp", alt: "Interior del GWM Haval H6 2024: salpicadero", credito: "Foto: www.motaauto.com" },
     { src: "/media/gwm-haval-h6-2024-precio-ficha-tecnica-oficial.webp", alt: "Trasera del GWM Haval H6 2024", credito: "Foto: www.greatwall.bg" },
+  ],
+  "haval-raptor-2024-precio-ficha-tecnica": [
+    { src: "/media/haval-raptor-2024-precio-ficha-tecnica-hero.webp", alt: "Haval Raptor PHEV, lateral en estudio con rueda de repuesto exterior", credito: "Foto: car250.com" },
+    { src: "/media/haval-raptor-2024-precio-ficha-tecnica-foto2.webp", alt: "Haval Raptor PHEV, vista aérea tres cuartos delantera", credito: "Foto: car250.com" },
+    { src: "/media/haval-raptor-2024-precio-ficha-tecnica-interior.webp", alt: "Interior del Haval Raptor: salpicadero con pantalla central", credito: "Foto: car250.com" },
+  ],
+  "haval-jolion-2024-precio-ficha-tecnica": [
+    { src: "/media/haval-jolion-2024-precio-ficha-tecnica-hero.webp", alt: "Haval Jolion, perfil lateral sobre fondo blanco", credito: "Foto: dubicars.com" },
+    { src: "/media/haval-jolion-2024-precio-ficha-tecnica-foto2.webp", alt: "Haval Jolion HEV azul en marcha", credito: "Foto: gwmcleber.com" },
+    { src: "/media/haval-jolion-2024-precio-ficha-tecnica-interior.webp", alt: "Interior del Haval Jolion: salpicadero con pantalla táctil", credito: "Foto: carexpert.com.au" },
+  ],
+  "haval-h3-2024-precio-ficha-tecnica": [
+    { src: "/media/haval-h3-2024-precio-ficha-tecnica-hero.webp", alt: "Haval H3 (Cool Dog) verde en entorno de montaña", credito: "Foto: autoprove.it" },
+    { src: "/media/haval-h3-2024-precio-ficha-tecnica-foto2.webp", alt: "Haval H3 (Cool Dog), vista lateral urbana", credito: "Foto: carnewschina.com" },
+    { src: "/media/haval-h3-2024-precio-ficha-tecnica-interior.webp", alt: "Plazas traseras del Haval H3", credito: "Foto: carnewschina.com" },
+  ],
+  "haval-dargo-2024-precio-ficha-tecnica": [
+    { src: "/media/haval-dargo-2024-precio-ficha-tecnica-hero.webp", alt: "Haval Dargo rojo, tres cuartos delantero", credito: "Foto: zigwheels.ae" },
+    { src: "/media/haval-dargo-2024-precio-ficha-tecnica-foto2.webp", alt: "Trasera del Haval Dargo con insignias DARGO y 4WD", credito: "Foto: yandex.net" },
+    { src: "/media/haval-dargo-2024-precio-ficha-tecnica-interior.webp", alt: "Interior del Haval Dargo: salpicadero robusto", credito: "Foto: carscoops.com" },
+  ],
+  "haval-raptor-plus-2026-precio-ficha-tecnica": [
+    { src: "/media/haval-raptor-plus-2026-precio-ficha-tecnica-hero.webp", alt: "Haval Raptor Plus, tres cuartos delantero plateado", credito: "Foto: 24andlife.com" },
+    { src: "/media/haval-raptor-plus-2026-precio-ficha-tecnica-foto2.webp", alt: "Frontal del Haval Raptor Plus con parrilla HAVAL", credito: "Foto: autosalon.by" },
+    { src: "/media/haval-raptor-plus-2026-precio-ficha-tecnica-interior.webp", alt: "Interior del Haval Raptor Plus: salpicadero con pantalla central", credito: "Foto: car250.com" },
   ],
 };

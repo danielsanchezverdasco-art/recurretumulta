@@ -219,7 +219,7 @@ Sí: el <a href=/blog/deepal-s07-2025-precio-ficha-tecnica/>Deepal S07</a> ya se
   {
     "title": "IM LS9: el SUV de 1.508 km que quiere jubilar al BMW",
     "slug": "im-ls9-2026-precio-ficha-tecnica",
-    "excerpt": "El IM LS9 es el SUV insignia EREV de IM Motors (SAIC): 402 km eléctricos, 1.508 km combinados y 523 CV desde 322.800 yuanes. Ficha técnica y rivales.",
+    "excerpt": "El IM LS9 es el SUV insignia EREV de IM Motors (SAIC): 402 km eléctricos, 1.508 km combinados y 530 CV desde 44.373 €. Ficha técnica y rivales.",
     "category": "Actualidad",
     "date": "2026-10-04",
     "readTime": 7,
@@ -231,85 +231,77 @@ Sí: el <a href=/blog/deepal-s07-2025-precio-ficha-tecnica/>Deepal S07</a> ya se
       "IM LS9 vs BMW X7",
       "SUV chino insignia 2026"
     ],
-    "content": `<img src=/media/im-ls9-suv-insignia.webp alt=SUV insignia IM LS9 en una carretera costera al atardecer>
+    "content": `<img src=/media/im-ls9-2026-precio-ficha-tecnica-hero.webp alt="IM LS9 2026, vista delantera tres cuartos">
 
-Puedes <a href=/coches/im-ls9-2026-precio-ficha-tecnica/>ver la ficha técnica completa del IM LS9</a> con todos los datos.
+*Actualizado el 18/10/2026.*
 
-**402 km en modo 100% eléctrico, 1.508 km de autonomía combinada y 523 CV por 322.800 yuanes (unos 45.360 dólares).** El IM LS9 es el buque insignia de IM Motors, la marca premium de SAIC Motor (la de MG) nacida de la alianza con Alibaba, y viene a decirle al BMW X7 que su era se acaba: arquitectura de 800 voltios, batería CATL Freevoy, dos motores, LiDAR de 520 líneas y un interior con doble pantalla MiniLED 5K de 27,1 pulgadas. Se lanzó en China el 12 de noviembre de 2025 con una rebaja de 14.000 yuanes sobre la preventa. Y lo mejor: IM ya vende en Europa a través de la red de MG. <a href=/comparador-coches/>Enfréntalo a sus rivales en el comparador</a>.
+**¿Buscas solo los datos?** <a href=/coches/im-ls9-2026-precio-ficha-tecnica/>Ver la ficha técnica completa del IM LS9</a>: precio, autonomía y versiones. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-## Ficha técnica
+**402 km en modo 100 % eléctrico, 1.508 km de autonomía combinada y 530 CV desde 332.800 yuanes (unos 44.373 €).** El IM LS9 es el buque insignia de IM Motors, la marca premium de SAIC Motor (la de MG) nacida de la alianza con Alibaba, y viene a decirle al BMW X7 que su era se acaba: arquitectura de 800 voltios, batería CATL Freevoy de 66 kWh, 1.5 turbo como extensor y un interior de seis plazas con pantallas MiniLED. Se lanzó en China en noviembre de 2025. <a href=/comparador-coches/>Enfréntalo a sus rivales en el comparador</a>.
 
-| Dato | IM LS9 |
+## Ficha técnica resumida: IM LS9 2026
+
+| Dato | Valor |
 |---|---|
-| Longitud / anchura / altura | 5.279 / 2.000 / 1.806 mm |
-| Distancia entre ejes | 3.160 mm |
-| Plazas | 6 (3 filas de 2) |
-| Motorización | EREV "Stellar" de SAIC, arquitectura 800V |
-| Extensor de autonomía | Motor 1.5L gasolina (114 kW) |
-| Motores eléctricos | Delantero 150-160 kW + trasero 230 kW; 390 kW (523 CV) y 670 Nm combinados |
-| 0-100 km/h | 4,9 s |
-| Batería | 52 kWh LFP / 66 kWh ternaria (CATL Freevoy) |
-| Autonomía eléctrica | 320 / 402 km (CLTC) |
-| Autonomía combinada | 1.454 / 1.508 km |
-| Carga rápida | 10-80% en 16,5 min |
-| Precio en China | 322.800 yuanes (52 Ultra) / 352.800 yuanes (66 Ultra) |
+| **Precio en China** | 332.800–362.800 ¥ (~44.373–48.373 €) |
+| **Sistema** | EREV "Stellar": 1.5 turbo + 2 motores eléctricos |
+| **Potencia / par** | 530 CV / 670 Nm |
+| **0-100 km/h** | 4,9 s |
+| **Velocidad máxima** | 220 km/h |
+| **Batería** | 66 kWh CATL Freevoy (NMC) |
+| **Autonomía eléctrica** | 402 km (CLTC) |
+| **Autonomía combinada** | 1.508 km (CLTC) |
+| **Carga rápida** | 10-80 % en 16,5 min (800 V) |
+| **Medidas** | 5.279 x 2.000 x 1.806 mm |
+| **Distancia entre ejes** | 3.162 mm |
+| **Plazas** | 6 (tres filas de 2) |
+| **Peso** | ~2.700 kg |
 
-## Curiosidades
+<img src=/media/im-ls9-2026-precio-ficha-tecnica-oficial.webp alt="IM LS9 2026 en estudio">
 
-- **Rebaja de lanzamiento**: salió a la venta 14.000 yuanes por debajo del precio de preventa, un guiño a los primeros clientes.
-- **Viene la versión Hyper**: anunciada para el primer trimestre de 2026, con tres motores (550 kW, 730 Nm), 0-100 en 3,9 s, dirección por cable (steer-by-wire) y chip Nvidia Thor.
-- **LiDAR de 520 líneas** y dirección a las cuatro ruedas: el chasis "Lingxi" está pensado para la conducción autónoma del futuro.
-- **Cine total**: doble pantalla central MiniLED 5K de 27,1", pantalla de 15,6" para el copiloto y equipo de sonido B&O.
-- **IM es la apuesta premium de SAIC con Alibaba**: la misma casa que MG, que ya vende los IM5 e IM6 en Europa.<img src=/media/im-ls9-2026-precio-ficha-tecnica-oficial.webp alt=IM LS9 en foto oficial del fabricante>
+## El gigante que desafía a los premium alemanes
+
+Con 5,28 metros de largo y 3,16 de batalla, el LS9 juega en la liga del <a href=/blog/bmw-x7-xdrive40i-2026-precio-ficha-tecnica/>BMW X7</a> y el Mercedes GLS, pero con 402 km eléctricos reales y un precio en China que no llega a los 50.000 €. El chasis "Lingxi" incluye dirección a las cuatro ruedas (24 grados en el eje trasero) y LiDAR, pensado para la conducción autónoma.
+
+Dentro: asientos de "gravedad cero" climatizados, pantalla MiniLED 5K de 27,1 pulgadas para los pasajeros traseros y equipo de sonido de alta gama. Por incluir, incluye hasta una ducha en el maletero.
 
 ## Rivales
 
-IM lo tiene claro: en Europa el LS9 apuntaría al **BMW X7**, al **Mercedes-Benz GLS** y al **Range Rover**. Misma talla (5,28 m), seis plazas reales y tecnología que los alemanes aún venden como opcional... a mitad de precio. Otro chino a vigilar en este segmento es el <a href=/coches/aito-m9-huawei-ficha-tecnica-precio/>Aito M9 de Huawei</a>.
+En Europa el LS9 apuntaría al **BMW X7**, al **Mercedes-Benz GLS** y al **Range Rover**: misma talla, seis plazas reales y tecnología que los alemanes aún venden como opcional. Entre los chinos, sus rivales naturales son el <a href=/blog/li-auto-l9-2026-precio-ficha-tecnica/>Li Auto L9</a> y el <a href=/blog/aito-m9-2025-precio-ficha-tecnica/>Aito M9 de Huawei</a>. <a href=/comparador-coches/>Compáralos aquí</a>.
 
-**Precio honesto:** en China cuesta 322.800 yuanes (52 Ultra) y 352.800 yuanes (66 Ultra). **No hay precio oficial para Europa ni fecha de llegada confirmada del LS9**, aunque IM ya opera en el continente a través de MG.
-
-## Antes de decidir: lo que conviene vigilar
-
-- **Etiqueta DGT:** como EREV con hasta 402 km de autonomía eléctrica, aspiraría a etiqueta Cero; confírmalo en la <a href=/calculadora-etiqueta-dgt/>calculadora de etiqueta DGT</a> y revisa la <a href=/guias/zbe/>guía de ZBE</a>.
-- **Red de servicio:** IM ya vende en Europa (IM5 e IM6) a través de la red de MG, que daría el servicio postventa si el LS9 llega al continente.
-- **Rival a vigilar:** el <a href=/coches/aito-m9-huawei-ficha-tecnica-precio/>Aito M9 de Huawei</a> juega en el mismo segmento de SUV grandes premium.
-- **¿Es la mejor compra por ese dinero?** Compáralo cara a cara en el <a href=/comparador-coches/>comparador de coches</a> y pásalo por la <a href=/mejor-coche-por-presupuesto/>herramienta de mejor coche por presupuesto</a>.
+<img src=/media/im-ls9-2026-precio-ficha-tecnica-interior.webp alt="Interior del IM LS9 2026 con pantallas digitales">
 
 ## Preguntas frecuentes
 
-### ¿Quién fabrica el IM LS9?
-IM Motors, la marca premium de SAIC Motor (el grupo de MG) nacida de la alianza con Alibaba. Sus siglas significan Intelligent Movement.
-
 ### ¿Cuánto cuesta el IM LS9?
-322.800 yuanes (unos 45.360 dólares) la versión 52 Ultra y 352.800 yuanes la 66 Ultra, precios oficiales de lanzamiento en China.
+
+De 332.800 a 362.800 yuanes en China, unos **44.373–48.373 €** al cambio de octubre de 2026. No hay precio oficial para Europa.
 
 ### ¿Es eléctrico o híbrido?
-Es un EREV: un motor 1.5 de gasolina actúa solo como generador. Ofrece hasta 402 km de autonomía puramente eléctrica (CLTC).
+
+Es un EREV (eléctrico de autonomía extendida): un 1.5 turbo actúa solo como generador. Ofrece hasta 402 km de autonomía puramente eléctrica (CLTC).
 
 ### ¿Qué autonomía total tiene?
-Hasta 1.508 km combinando batería llena y depósito lleno en la versión 66 Ultra; 1.454 km en la 52 Ultra.
+
+Hasta **1.508 km** combinando batería llena y depósito lleno, con un consumo oficial de 2,81 l/100 km (CLTC).
 
 ### ¿Llegará el IM LS9 a Europa?
-IM ya vende en Europa (IM5 e IM6) a través de la red de MG y el LS9 se ha presentado como modelo global, pero no hay fecha oficial de llegada del LS9 al continente.
 
-### ¿Qué es la versión Hyper del IM LS9?
-Una variante de altas prestaciones anunciada para el primer trimestre de 2026: tres motores con 550 kW, 0-100 en 3,9 s, dirección por cable y chip Nvidia Thor para conducción asistida avanzada.
+IM ya vende en Europa (IM5 e IM6) a través de la red de MG y ha anunciado su llegada al continente. Del LS9 aún no hay fecha confirmada.
 
-### ¿Qué etiqueta DGT tendría el IM LS9?
-Como EREV con hasta 402 km de autonomía eléctrica, aspiraría a la **etiqueta Cero**. Confírmalo para tu caso en la <a href=/calculadora-etiqueta-dgt/>calculadora de etiqueta DGT</a>.
+### ¿Qué batería lleva?
 
-### ¿Quién daría servicio al IM LS9 en España?
-IM ya vende en Europa (IM5 e IM6) a través de la red de MG, que sería la encargada del servicio postventa si el LS9 llega al continente. De momento no hay fecha oficial de llegada.
+Una CATL Freevoy de 66 kWh (NMC), con arquitectura de 800 V que carga del 10 al 80 % en 16,5 minutos.
 
-## Fuentes
+### ¿Cuántos caballos tiene?
 
-- <a href=https://cnevpost.com/2025/11/12/im-motors-launches-ls9/>CnEVPost: IM Motors launches LS9</a>
-- <a href=https://cnevpost.com/2025/11/04/im-motors-starts-pre-sales-ls9/>CnEVPost: pre-sales of LS9</a>
-- <a href=https://www.arenaev.com/im_ls9_arrives_with_a_1500km_answer_to_range_anxiety-news-5310.php>ArenaEV: IM LS9 arrives</a>
-- <a href=https://carnewschina.com/2025/11/12/im-motors-launched-its-flagship-ls9-erev-suv-with-66-kwh-battery-and-1500-km-range/>CarNewsChina: flagship LS9 EREV SUV</a>
-- <a href=https://www.hibridosyelectricos.com/coches/im-ls9-erev-china_81265_102.html>Híbridos y Eléctricos: IM LS9, el SUV de lujo chino</a>
+530 CV de potencia combinada y 670 Nm de par, con un 0-100 km/h en 4,9 segundos.
 
-¿Te han multado y no sabes si el recurso prosperaría? <a href=/#analizador gratis con nuestra IA</a> antes de decidir.
-`
+*Cómo verificamos: especificaciones de auto-data.net y del artículo de hibridosyelectricos.com (13/11/2025); precios en yuanes convertidos a euros al cambio de octubre de 2026.*
+
+*Fuentes: <a href=https://www.hibridosyelectricos.com/coches/ultimo-mg-es-range-rover-hibrido-1500-km-autonomia-con-bateria-mg4_83429_102.html>hibridosyelectricos.com</a>, <a href=https://www.auto-data.net/es/compare?carId1=55788&carId2=&carId3=>auto-data.net</a>.*
+
+¿Te han multado y no sabes si el recurso prospera? <a href=https://recurretumulta.online/#analizador>Pásalo gratis por nuestro analizador de multas</a>.
+`,
   },
 ];

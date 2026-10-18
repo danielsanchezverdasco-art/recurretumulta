@@ -576,12 +576,12 @@ export const COCHES_CUPRA: CocheComparador[] = [
     },
   },
   {
-    id: "cupra-leon-vz-325-2025-precio-ficha-tecnica",
+    "id": "cupra-leon-vz-325-2025-precio-ficha-tecnica",
     "marca": "cupra",
     "modelo": "León VZ 325",
     "tipo": "Gasolina",
     "categoria": "Compacto",
-    "precioDesde": 50794,
+    "precioDesde": 49514,
     "potenciaCv": 325,
     "autonomiaKm": null,
     "maleteroL": 380,
@@ -596,31 +596,31 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "largoMm": 4368,
     "anchoMm": 1799,
     "altoMm": 1467,
-    "pesoKg": null,
-    "consumo": 7.7,
+    "pesoKg": 1500,
+    "consumo": 7.9,
     "consumoUnidad": "l/100 km",
     "plazas": 5,
     "parNm": 420,
     "traccion": "Delantera",
-    "emisionesCo2": 175,
-    "aprox": [],
+    "emisionesCo2": 172,
+    "aprox": ["pesoKg", "consumo", "emisionesCo2"],
     "pros": [
-      "325 CV y 420 Nm con tracción total 4Drive: el León más potente",
-      "50.794 € (km77): solo 1.840 € más que el VZ 300",
-      "El 4Drive reparte el par y elimina el subviraje del delantera",
-      "Prestaciones de compacto premium por menos dinero",
-      "Maletero de 380 L intacto"
+      "325 CV y 420 Nm con tracción delantera y diferencial autoblocante mecánico: el León más potente de la historia",
+      "49.514 € (km77): producción limitada a 1.500 unidades para todo el mundo",
+      "0-100 km/h en 5,4 s y 270 km/h sin limitador: prestaciones de Golf R por menos dinero",
+      "Frenos Akebono de 6 pistones y chasis adaptativo DCC de serie",
+      "Maletero de 380 L intacto: tan usable a diario como un León normal"
     ],
     "contras": [
-      "Más peso que el VZ 300 por la tracción total",
+      "Serie limitada a 1.500 unidades: difícil de conseguir nuevo",
       "Etiqueta C: sin ventajas en ZBE",
-      "Consumo real elevado",
-      "A este precio, el Golf R juega en la misma liga",
-      "Sin opción manual"
+      "Consumo real elevado si se aprovechan los 325 CV",
+      "Sin opción de cambio manual",
+      "A este precio, el Golf GTI Edition 50 juega en la misma liga"
     ],
     "imagen": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "imagenInteriorOficial": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-interior.webp",
     "videoId": null,
     "videoCanal": null,
     "opiniones": [],
@@ -637,26 +637,27 @@ export const COCHES_CUPRA: CocheComparador[] = [
     },
     "galeria": [
       {
-        "src": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-oficial.webp",
-        "alt": "Cupra León VZ 325, tres cuartos delantero",
-        "ancho": 1200,
-        "alto": 800
-      },
-      {
-        "src": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del Cupra León VZ 325 con asientos deportivos",
-        "ancho": 1200,
-        "alto": 800
-      },
-      {
         "src": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-hero.webp",
-        "alt": "Cupra León VZ 325 acelerando en circuito",
-        "ancho": 1200,
-        "alto": 800
+        "alt": "Cupra León VZ 325, tres cuartos delantero (foto oficial de prensa)",
+        "ancho": 1280,
+        "alto": 853
+      },
+      {
+        "src": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-oficial.webp",
+        "alt": "Cupra León VZ 325, trasera tres cuartos en marcha (foto oficial de prensa)",
+        "ancho": 960,
+        "alto": 540
+      },
+      {
+        "src": "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-interior.webp",
+        "alt": "Interior del Cupra León VZ 325 con asientos CUPBucket",
+        "ancho": 1260,
+        "alto": 710
       }
     ],
-    "fuenteNombre": "auto-data.net",
-    "fuenteUrl": "https://www.auto-data.net/es/cupra-leon-facelift-2024-2.0-tsi-325hp-dsg-56736",
+    "analisisSlug": "cupra-leon-vz-325-2025-precio-ficha-tecnica",
+    "fuenteNombre": "km77.com",
+    "fuenteUrl": "https://www.km77.com/coches/cupra/leon/informacion",
     "euroncap": {
       "estrellas": 5,
       "ano": 2020,
