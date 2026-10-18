@@ -1239,6 +1239,12 @@ export function Ficha({ coche, extra, hermanas = [], caravana = false }: { coche
             <p className="mt-2 text-center text-sm text-gray-500">
               Carnet B (hasta 3.500 kg de conjunto), B96 (hasta 4.250 kg) o BE por encima;{" "}
               velocidad máxima de 90 km/h en autopista y autovía.{" "}
+              <Link
+                to="/blog/homologacion-camper-y-caravanas-en-espana-vacios-legales-itv-y-como-evitar-multas-de-la-dgt/"
+                className="font-semibold text-red-600 hover:underline"
+              >
+                Guía de normativa para remolcar →
+              </Link>{" · "}
               <a
                 href="https://www.dgt.es"
                 target="_blank"

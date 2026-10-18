@@ -278,6 +278,10 @@ function HubCaravanas() {
               <a href="https://www.dgt.es" target="_blank" rel="noopener noreferrer" className="font-medium text-red-600 underline">
                 Dirección General de Tráfico (DGT)
               </a>
+              . Guía interna:{" "}
+              <Link to="/blog/homologacion-camper-y-caravanas-en-espana-vacios-legales-itv-y-como-evitar-multas-de-la-dgt/" className="font-medium text-red-600 underline">
+                homologación camper y caravanas
+              </Link>
               . Herramientas:{" "}
               <Link to="/calculadora-consumo-camper/" className="font-medium text-red-600 underline">
                 calculadora de consumo camper

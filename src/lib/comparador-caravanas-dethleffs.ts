@@ -581,7 +581,7 @@ export const CARAVANAS_DETHLEFFS: CocheComparador[] = [
     aprox: [],
     pros: [
       "18.999 € de PVP oficial: la c'joy más asequible (lista Dethleffs 2026)",
-      "Carnet B con prácticamente cualquier turismo: 1.100 kg de MMA",
+      "Carnet B con turismos de hasta 2.400 kg de MMA: 1.100 kg de MMA (conjunto bajo 3.500 kg)",
       "927 kg en orden de marcha: la más ligera de la gama, fácil de remolcar",
       "Carga útil de 173 kg (1.100 kg de MMA: lista oficial Dethleffs 2026)",
       "6,25 m: compacta para viajar en pareja",
@@ -685,7 +685,7 @@ export const CARAVANAS_DETHLEFFS: CocheComparador[] = [
     aprox: [],
     pros: [
       "20.999 € de PVP oficial: el punto medio de la gama c'joy (lista Dethleffs 2026)",
-      "Carnet B con prácticamente cualquier turismo: 1.200 kg de MMA",
+      "Carnet B con turismos de hasta 2.300 kg de MMA: 1.200 kg de MMA (conjunto bajo 3.500 kg)",
       "Carga útil de 247 kg, la mejor de las c'joy compactas (953 kg en orden de marcha, 1.200 kg de MMA: lista oficial)",
       "6,75 m con camas individuales: cómoda para pareja",
       "Menos de 1.000 kg en orden de marcha: remolque ligero",

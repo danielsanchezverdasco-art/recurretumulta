@@ -273,7 +273,7 @@ export const CARAVANAS_KNAUS: CocheComparador[] = [
     pros: [
       "La clásica familiar alemana: cama francesa delantera + salón trasero convertible",
       "7,30 m y un solo eje: manejable para una 4 plazas de este nivel",
-      "1.700 kg de MMA (ampliable a 1.800 kg): carnet B con el coche adecuado",
+      "1.700 kg de MMA (ampliable a 1.800 kg): carnet B96/BE con un SUV medio (el B solo vale si el conjunto no supera 3.500 kg)",
       "Techo de GFK anti-granizo y 10 años de garantía de estanqueidad Knaus",
       "Cocina completa con horno y nevera grande: equipamiento de gama media-alta",
     ],

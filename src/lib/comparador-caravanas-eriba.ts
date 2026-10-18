@@ -48,7 +48,7 @@ export const CARAVANAS_ERIBA: CocheComparador[] = [
     aprox: [],
     pros: [
       "El icono del caravaning: techo elevable y diseño aerodinámico inconfundible desde 1957",
-      "5,99 m y solo ~985 kg: la remolca casi cualquier coche con carnet B",
+      "5,99 m y solo ~985 kg: carnet B si el conjunto no supera 3.500 kg de MMA",
       "La más baja del mercado (2,27 m): cabe en garajes y consume menos",
       "Techo elevable: 1,95 m de altura interior para vivir de pie",
       "El mejor valor de reventa entre las caravanas compactas",
@@ -261,7 +261,7 @@ export const CARAVANAS_ERIBA: CocheComparador[] = [
     aprox: ["precioDesde"],
     pros: [
       "Techo elevable de serie: 1,98 m de altura interior y 5 plazas en 6,03 m",
-      "Carnet B con prácticamente cualquier turismo: 1.200 kg de MMA",
+      "Carnet B con turismos de hasta 2.300 kg de MMA: 1.200 kg de MMA (conjunto bajo 3.500 kg)",
       "Carga útil de 160 kg (1.040 kg en orden de marcha, 1.200 kg de MMA: lista oficial Eriba)",
       "2,25 m de alto con el techo bajado: menos resistencia y cabe en más parkings",
       "Precio oficial en eriba.com: 29.560 € (precio aprox. para España)",

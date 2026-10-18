@@ -258,7 +258,7 @@ export const CARAVANAS_WEINSBERG: CocheComparador[] = [
     aprox: [],
     pros: [
       "16.790 € de PVP oficial: literas por menos de 17.000 € (lista Weinsberg MJ 2027)",
-      "Carnet B con prácticamente cualquier turismo: 1.200 kg de MMA",
+      "Carnet B con turismos de hasta 2.300 kg de MMA: 1.200 kg de MMA (conjunto bajo 3.500 kg)",
       "Carga útil de 252 kg (948 kg en orden de marcha, 1.200 kg de MMA: lista oficial Weinsberg)",
       "Literas traseras: la familiar más compacta de la gama (5,92 m)",
       "5,92 m de largo: maniobrable como la 390 QD",
@@ -467,7 +467,7 @@ export const CARAVANAS_WEINSBERG: CocheComparador[] = [
     aprox: [],
     pros: [
       "21.450 € de PVP oficial: la CaraOne con cama isla por poco más de 21.000 € (lista Weinsberg MJ 2027)",
-      "Carnet B con la mayoría de turismos y SUV compactos: 1.350 kg de MMA",
+      "Carnet B con turismos de hasta 2.150 kg de MMA: 1.350 kg de MMA (conjunto bajo 3.500 kg)",
       "Cama isla y baño completo en 7,06 m de un solo eje",
       "Carga útil de 197 kg (1.153 kg en orden de marcha, 1.350 kg de MMA: lista oficial Weinsberg)",
       "2,32 m de ancho en toda la gama media",

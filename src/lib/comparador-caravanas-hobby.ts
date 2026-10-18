@@ -272,7 +272,7 @@ export const CARAVANAS_HOBBY: CocheComparador[] = [
     aprox: ["precioDesde", "altoMm", "cargaUtilKg"],
     pros: [
       "La más vendida para empezar: nº 1 en la encuesta promobil 2026 de su clase",
-      "Solo 5,80 m y 1.200 kg: la remolca casi cualquier coche con carnet B",
+      "Solo 5,80 m y 1.200 kg: carnet B si el conjunto no supera 3.500 kg de MMA",
       "Precio de acceso a Hobby nueva: desde ~21.980 € con todo incluido",
       "Paquete HOBBYKOMPLETT de serie: estabilizador, toldo, HOBBYCONNECT",
       "2,20 m de ancho: cabe en plazas y caminos donde las grandes no entran",

@@ -54,7 +54,7 @@ export const CARAVANAS_BURSTNER: CocheComparador[] = [
       "Cama doble King Size de 200 x 160 cm: única en su categoría compacta",
       "3 plazas de serie: cama doble + dinette transformable",
       "La Premio Life es la puerta de entrada a Bürstner: la caravana más asequible de la marca",
-      "MMA contenida (~1.360-1.500 kg): remolcable con carnet B y un coche medio",
+      "MMA contenida (~1.360-1.500 kg): carnet B si coche + caravana no superan 3.500 kg de MMA",
       "10 años de garantía de estanqueidad con el control anual en distribuidor oficial",
     ],
     contras: [
@@ -367,7 +367,7 @@ export const CARAVANAS_BURSTNER: CocheComparador[] = [
     aprox: [],
     pros: [
       "20.070 € de PVP oficial (lista Bürstner Países Bajos): la Premio más asequible",
-      "Carnet B con prácticamente cualquier turismo: 1.100 kg de MMA",
+      "Carnet B con turismos de hasta 2.400 kg de MMA: 1.100 kg de MMA (conjunto bajo 3.500 kg)",
       "950 kg en orden de marcha: ligera y fácil de remolcar",
       "Carga útil de 150 kg (1.100 kg de MMA: buerstner.com)",
       "Literas + cama doble: 4-5 plazas en 6,22 m",
