@@ -3154,3 +3154,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/ducati-streetfighter-v2-s-2025-ficha-tecnica-precio-hunt1.webp | https://www.motorcyclesrus.com.au/ | Ducati (distribuidor motorcyclesrus) | desconocida |
 | /media/ducati-streetfighter-v2-s-2025-ficha-tecnica-precio-hunt2.webp | https://www.visordown.com/models/streetfighter | Ducati / visordown.com | desconocida |
 | /media/ducati-streetfighter-v2-s-2025-ficha-tecnica-precio-hunt3.webp | https://www.mundomotero.com/pruebas-motos/prueba-ducati-streetfighter-v2-s-2025-la-luchadora-domesticada | mundomotero.com | desconocida |
+| /media/gotrax-fusion-hunt1.webp | https://sport.woot.com/offers/gotrax-fusion-seat-electric-scooter-for-adults-4 | Woot / GOTRAX | desconocida |
+| /media/gotrax-fusion-hunt2.webp | https://www.walmart.com/ | Walmart / GOTRAX | desconocida |
+| /media/gotrax-fusion-hunt3.webp | https://sport.woot.com/offers/gotrax-fusion-seat-electric-scooter-for-adults-4 | Woot / GOTRAX | desconocida |
+| /media/skoda-scala-10-tsi-2026-precio-ficha-tecnica-hunt1.webp | https://www.autoreview.nl/nieuws/id/33200/facelift-skoda-scala-skoda-kamiq-2024 | autoreview.nl (foto oficial Skoda) | desconocida |
+| /media/skoda-scala-10-tsi-2026-precio-ficha-tecnica-hunt2.webp | https://blog.bilbasen.dk/ny-etape-for-skoda-kamiq-og-scala-449458 | bilbasen.dk (foto oficial Skoda) | desconocida |
+| /media/skoda-scala-10-tsi-2026-precio-ficha-tecnica-hunt3.webp | https://www.autoscout24.nl/informeren/autonieuws/facelift-voor-skoda-scala-en-kamiq-2024-van-dit-nieuwtje-maakt-je-hart-een-sprongetje/ | autoscout24.nl (foto oficial Skoda) | desconocida |
+| /media/gotrax-xr-elite-hunt1.webp | https://gotrax.it.com/index.php/product/xr-elite-electric-scooter/ | GOTRAX (gotrax.it.com, página del producto) | desconocida |
+| /media/gotrax-xr-elite-hunt2.webp | https://gotrax.it.com/index.php/product/xr-elite-electric-scooter/ | GOTRAX (gotrax.it.com, página del producto) | desconocida |
+| /media/gotrax-xr-elite-hunt3.webp | https://www.campingworld.com/go-trax-xr-elite-e-scooter-black-130859.html | Camping World | desconocida |
+| /media/gwm-ora-5-2026-precio-ficha-tecnica-hunt1.webp | https://gwmmotors.com.br/pt/modelos/ora5 | GWM Brasil (web oficial) | desconocida |
+| /media/gwm-ora-5-2026-precio-ficha-tecnica-hunt2.webp | https://www.inghamdriven.nz/gwm/model/59/167 | Ingham Driven (concesionario oficial GWM, Nueva Zelanda) | desconocida |
+| /media/gwm-ora-5-2026-precio-ficha-tecnica-hunt3.webp | https://www.gwmanz.com/nz/electrified-range/battery-ev/ | GWM ANZ (web oficial) | desconocida |
+| /media/ktm-125-smc-r-2025-ficha-tecnica-precio-hunt1.webp | https://www.ktm.com/en-gb/models/supermoto/2025-ktm-125-smcr.html | KTM (web oficial) | desconocida |
+| /media/ktm-125-smc-r-2025-ficha-tecnica-precio-hunt2.webp | https://kojintekibikematomeblog.com/archives/2025-125-smc-r%E3%81%AE%E3%82%B9%E3%83%9A%E3%83%83%E3%82%AF-%E8%A3%85%E5%82%99-%E7%94%BB%E5%83%8F%E7%AD%89.html | KTM (foto de prensa MY25) | desconocida |
+| /media/ktm-125-smc-r-2025-ficha-tecnica-precio-hunt3.webp | https://www.ktm.com/en-gb/models/supermoto/2025-ktm-125-smcr.html | KTM (web oficial) | desconocida |
+| /media/skoda-epiq-2026-precio-ficha-tecnica-hunt1.webp | https://www.autozive.cz/skoda-epiq-naszeauto/ | AutoŽive (prensa del motor) | desconocida |
+| /media/skoda-epiq-2026-precio-ficha-tecnica-hunt2.webp | https://www.designmag.cz/technika/133083-skoda-epiq-je-mestsky-suv-crossover-s-vyraznym-usmevavym-designem-a-rozumnym-dojezdem.html | DesignMag (prensa del motor) | desconocida |
+| /media/skoda-epiq-2026-precio-ficha-tecnica-hunt3.webp | https://www.carwow.co.uk/skoda/news/10734/new-skoda-epiq-revealed-price-specs-range-review | Carwow UK (prensa del motor) | desconocida |
+| /media/ktm-390-enduro-r-2025-ficha-tecnica-precio-hunt1.webp | https://www.cyclenews.com/2025/01/article/new-2025-ktm-390-enduro-r-specs-and-price/ | CycleNews (artículo 2025 KTM 390 Enduro R) | desconocida |
+| /media/ktm-390-enduro-r-2025-ficha-tecnica-precio-hunt2.webp | https://cdpcdn.dx1app.com/products/USA/KT/2025/MC/DUALPURP/390_ENDURO_R/50/ORANGE_-_GREY/2000000016.jpg | KTM (CDN oficial del configurador) | desconocida (material de prensa del fabricante) |
+| /media/ktm-390-enduro-r-2025-ficha-tecnica-precio-hunt3.webp | https://transmoto.com.au/ktm-introduce-2025-ktm-390-enduro-r/ | TransMoto (presentación KTM 390 Enduro R 2025) | desconocida |
+| /media/kugoo-kirin-m3-hunt1.webp | https://www.oolactive.com/products/kugookirin-m3-electric-scooter | oolactive (página de producto Kugoo Kirin M3) | desconocida |
+| /media/kugoo-kirin-m3-hunt2.webp | https://skootterimaailma.fi/kauppa/kugoo-kirin-m3-sahkopotkulauta/ | Skootterimaailma (distribuidor Finlandia) | desconocida |
+| /media/kugoo-kirin-m3-hunt3.webp | https://berezovskiy.elektro-mall.ru/elektrosamokaty/ehlektrosamokat-kugoo-kirin-m3 | elektro-mall (tienda) | desconocida |
