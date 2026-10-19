@@ -1256,3 +1256,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/citroen-c5-aircross-phev-2026-precio-ficha-tecnica-hunt1.webp | https://www.completecar.ie/car-reviews/article/Citroen/C5_Aircross/e-C5_Aircross_(2026)/2606/14409/2025-Citroen-e-C5-Aircross-(2026)-review.html | auto-drives.com / Complete Car | desconocida |
 | /media/citroen-c5-aircross-phev-2026-precio-ficha-tecnica-hunt2.webp | https://www.drive.gr/news/nea-montela/neo-citroen-c5-aircross-plug-hybrid-giati-ayxithike-xafnika-i-ishys-toy | drive.gr | desconocida |
 | /media/citroen-c5-aircross-phev-2026-precio-ficha-tecnica-hunt3.webp | https://www.passionandcar.fr/2026/02/05/hybride-spacieux-comme-un-rav4-et-made-in-france-ce-suv-a-26-790-e-est-larme-ideale-face-a-linvasion-chinoise/ | passionandcar.fr | desconocida |
+| /media/bmw-c-400-x-2025-ficha-tecnica-precio-hunt1.webp | https://www.motor.nl/wp-content/uploads/2024/10/BMW-C-400-scooters-vernieuwd-voor-2025-00.jpg | Motor.nl (foto prensa) | desconocida |
+| /media/bmw-c-400-x-2025-ficha-tecnica-precio-hunt2.webp | https://admin.instance5.grandus.sk/files/attachment/2025-03/17287/f725c5/c400x-kalamata.jpg | MDMoto.sk (concesionario BMW) | desconocida |
+| /media/bmw-c-400-x-2025-ficha-tecnica-precio-hunt3.webp | https://www.motonews.com.ar/wp-content/uploads/2025/04/c400-1024x568.jpg | MotoNews.com.ar | desconocida |
+| /media/citroen-ami-2026-precio-ficha-tecnica-hunt1.webp | https://cargurus.co.uk/ | Citroën UK (vía CarGurus) | desconocida |
+| /media/citroen-ami-2026-precio-ficha-tecnica-hunt2.webp | https://www.planetcarsz.com/carros/citroen-ami-rip-curl-2026 | Citroën (fotos prensa, vía planetcarsz.com) | desconocida |
+| /media/citroen-ami-2026-precio-ficha-tecnica-hunt3.webp | https://bumpygoat.co.uk/used-cars/2026-citroen-ami-blue-pack-auto-33195/ | bumpygoat.co.uk | desconocida |
+| /media/chevrolet-blazer-ev-2025-precio-ficha-tecnica-hunt1.webp | https://carbuzz.com/cars/chevrolet/blazer-ev/ | Chevrolet / CarBuzz | desconocida |
+| /media/chevrolet-blazer-ev-2025-precio-ficha-tecnica-hunt2.webp | https://www.carnews.com.mx/chevrolet-blazer-ev-2025/ | Chevrolet (foto de prensa, vía carnews.com.mx) | desconocida |
+| /media/chevrolet-blazer-ev-2025-precio-ficha-tecnica-hunt3.webp | https://www.jamesmartindetroit.com/blogs/3522/2025-chevrolet-blazer-ev-interior-details/ | Chevrolet (foto de prensa, vía jamesmartindetroit.com) | desconocida |
+| /media/citroen-e-c3-aircross-2026-precio-ficha-tecnica-hunt1.webp | https://media.autoexpress.co.uk/image/private/s--_DPMLpb7--/f_auto,t_content-image-full-desktop@1/v1747736053/autoexpress/2025/05/Citroen%20e-C3%20Aircross%20-%20front%203_4_pqkldc.jpg | Auto Express | desconocida |
+| /media/citroen-e-c3-aircross-2026-precio-ficha-tecnica-hunt2.webp | https://car-images.bauersecure.com/wp-images/209973/080-citroen-ec3-aircross.jpg | Car Magazine | desconocida |
+| /media/citroen-e-c3-aircross-2026-precio-ficha-tecnica-hunt3.webp | https://i0.wp.com/evfleetworld.co.uk/wp-content/uploads/2025/08/NEW_C3AIRCROSS_INT_EXT-19.jpg | EV Fleet World | desconocida |
+| /media/citroen-c5-aircross-phev-2025-precio-ficha-tecnica-hunt1.webp | https://images.drivespark.com/img/2025/04/2025-citroen-c5-aircross-front-view-cover-jpg-1745999538228_1745999539460-600x338.jpg | DriveSpark | desconocida |
+| /media/citroen-c5-aircross-phev-2025-precio-ficha-tecnica-hunt2.webp | https://cdn-xy.drivek.com/b787d585/uploads/sites/40/2025/09/citroen-c5-aircross-2025.jpg | DriveK | desconocida |
+| /media/citroen-c5-aircross-phev-2025-precio-ficha-tecnica-hunt3.webp | https://estaticos-cdn.prensaiberica.es/clip/9556174b-1dac-4f62-bbac-9c6f5bdf624a_alta-libre-aspect-ratio_default_0.jpg | Prensa Ibérica / Superdeporte | desconocida |
+| /media/citroen-e-jumpy-2026-precio-ficha-tecnica-hunt1.webp | https://rentingcantabria.com/citroen-e-jumpy-furgon-talla-m-75kwh/ | Renting Cantabria | desconocida |
+| /media/citroen-e-jumpy-2026-precio-ficha-tecnica-hunt2.webp | https://www.autoscout24.it/auto/fiat/fiat-talento/ | AutoScout24 (foto prensa Citroën) | desconocida |
+| /media/citroen-e-jumpy-2026-precio-ficha-tecnica-hunt3.webp | https://otokulup.com/wp-content/uploads/2024/03/Citroen-Jumpy-jpg.webp | Otokulup | desconocida |
+| /media/citroen-c3-gasolina-2026-precio-ficha-tecnica-hunt1.webp | https://www.autoexpress.co.uk/citroen/c3 | Auto Express | desconocida |
+| /media/citroen-c3-gasolina-2026-precio-ficha-tecnica-hunt2.webp | https://www.completecar.ie/car-reviews/article/Citroen/C3/C3_and_e-C3/2695/14862/2026-Citroen-C3-and-e-C3-review.html | CompleteCar.ie | desconocida |
+| /media/citroen-c3-gasolina-2026-precio-ficha-tecnica-hunt3.webp | https://dalmaforyou.it/ricerca/veicoli-nuovi/ | Dalmaforyou | desconocida |
+| /media/cupra-leon-2025-precio-ficha-tecnica-hunt1.webp | https://www.cupraoficial.mx/content/dam/countries/mx/cupra-website/homepage/three-card-hightlights/cupra-leon-2025.jpg | Cupra | desconocida (imagen oficial de prensa del fabricante) |
+| /media/cupra-leon-2025-precio-ficha-tecnica-hunt2.webp | https://www.autosactual.mx/wp-content/uploads/2025/01/cupra-leon-2025-mexico-02-900x603.jpg | AutosActual.mx | desconocida |
+| /media/cupra-leon-2025-precio-ficha-tecnica-hunt3.webp | https://cms-assets.autoscout24.com/uaddx06iwzdz/4Z89zB5TerNkAEsSr0lK90/cb17e5e5091ef8f457db7fe2a19afe10/Cupra_Leon-2025__7_.jpg?w=768 | AutoScout24 | desconocida |
