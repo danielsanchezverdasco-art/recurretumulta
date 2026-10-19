@@ -1529,3 +1529,8 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/seat-ibiza-10-tsi-2026-precio-ficha-tecnica-hunt1.webp | https://autoanalitica.com.mx/wp-content/uploads/2025/10/New-SEAT-Ibiza-2026-04-1024x738.jpg | SEAT / Autoanalítica (prensa) | desconocida |
 | /media/seat-ibiza-10-tsi-2026-precio-ficha-tecnica-hunt2.webp | http://fleetnews.gr/wp-content/uploads/2025/10/SEAT-Ibiza_02_HQ.jpg | SEAT / Fleetnews.gr (prensa) | desconocida |
 | /media/seat-ibiza-10-tsi-2026-precio-ficha-tecnica-hunt3.webp | https://avitqahu.ru/uploads/posts/2025-08/seat-ibiza-i-arona-gotovjatsja-k-obnovleniju-u-pary-pojavjatsja-gibridnye-ustanovki-seat-7.jpg | Avitqahu / SEAT (prensa) | desconocida |
+| /media/audi-sq7-2025-precio-ficha-tecnica-hunt1.webp | https://marbecar.com/wp-content/uploads/2024/05/Audi-SQ7-2025-1024-01-980x735.jpg | Audi (prensa) vía NetCarShow — licencia desconocida | desconocida |
+| /media/audi-sq7-2025-precio-ficha-tecnica-hunt2.webp | https://en.wheelz.me/wp-content/uploads/2024/01/Audi-SQ7-2025-16.webp | Audi (prensa) vía Wheelz.me — licencia desconocida | desconocida |
+| /media/skoda-fabia-monte-carlo-2026-precio-ficha-tecnica-hunt1.webp | https://devstore.skoda.re/produit/fabia-monte-carlo-tsi-150-dsg-my24/ | Skoda Réunion (tienda oficial) | desconocida |
+| /media/skoda-fabia-monte-carlo-2026-precio-ficha-tecnica-hunt2.webp | https://devstore.skoda.re/produit/fabia-monte-carlo-tsi-150-dsg-my24/ | Skoda Réunion (tienda oficial) | desconocida |
+| /media/skoda-fabia-monte-carlo-2026-precio-ficha-tecnica-hunt3.webp | https://www.vertumotors.com/new/vertu/car/skoda/fabia/ | Vertu Motors (concesionario) | desconocida |
