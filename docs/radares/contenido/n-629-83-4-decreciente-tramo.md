@@ -12,6 +12,15 @@
 
 Este control de velocidad media se encuentra en la **N-629, entre los puntos kilométricos 83,4 y 81,2**, en el oriente de Cantabria, y vigila el **sentido decreciente** de la circulación, es decir, a los vehículos que la DGT identifica en dirección **Ampuero**. El tramo mide **2,2 km** y discurre por la zona de valles del Asón, un entorno de carretera nacional que conecta la costa oriental cántabra con el interior. Las coordenadas corresponden al punto medio del tramo controlado.
 
+<iframe title="Mapa: radar n-629-83-4-decreciente-tramo" src="https://www.google.com/maps?q=43.3593,-3.41845&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-629-83-4-decreciente-tramo" src="https://maps.google.com/maps?q=&layer=c&cbll=43.3593,-3.41845&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La N-629 es una carretera nacional de la red del Estado que vertebra la comarca oriental de Cantabria: une el litoral —la zona de Colindres y Laredo— con el interior a través de Ampuero y los valles del Asón. Es una vía convencional de un carril por sentido en la mayor parte de su trazado, con tráfico mixto de turismos, camiones de reparto y movimientos locales. En este tipo de carreteras, los excesos de velocidad suelen concentrarse en los tramos rectos entre travesías, y el control de tramo está pensado precisamente para esos sectores.
