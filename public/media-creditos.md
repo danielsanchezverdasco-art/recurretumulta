@@ -1684,3 +1684,24 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/rolls-royce-ghost-extended-2026-precio-ficha-tecnica-hunt1.webp | https://comparetab.com/cars/Rolls-Royce-Ghost-Extended-2026 | comparetab.com (catálogo) | desconocida |
 | /media/rolls-royce-ghost-extended-2026-precio-ficha-tecnica-hunt2.webp | https://comparetab.com/cars/Rolls-Royce-Ghost-Extended-2026 | comparetab.com (catálogo) | desconocida |
 | /media/rolls-royce-ghost-extended-2026-precio-ficha-tecnica-hunt3.webp | https://kataralimousine.com/ | kataralimousine.com | desconocida |
+| /media/renault-rafale-e-tech-200-2025-precio-ficha-tecnica-hunt1.webp | https://www.renault.it/veicoli-ibridi/rafale.html | Renault Italia (prensa oficial) | desconocida |
+| /media/renault-rafale-e-tech-200-2025-precio-ficha-tecnica-hunt2.webp | https://www.clubauto-covea.com/modele.php?marque=RENAULT&gamme=E-TECH%20FULL%20HYBRID%20200CH%20ESPRIT%20ALPIN | Starterre / Club Auto Covéa | desconocida |
+| /media/renault-rafale-e-tech-200-2025-precio-ficha-tecnica-hunt3.webp | https://www.autowereld.nl/renault/rafale/1-2-e-tech-hybrid-200-esprit-alpine-40816242/foto.html | Autowereld (anuncio 2025 1.2 E-Tech 200 Esprit Alpine) | desconocida |
+| /media/lexus-rx-500h-2024-precio-ficha-tecnica-hunt1.webp | https://cofinousados.com/backstage/files/vehiculos/image_1/32849900-7288-439e-8bfa-ba792a91bcbc/4989-LEXUS%20RX500H%20HYBRID%204X4%202024-GRIS-P927KKQWEB4.jpg | Cofino Usados | desconocida |
+| /media/lexus-rx-500h-2024-precio-ficha-tecnica-hunt2.webp | https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2023/09/2024_rx_500h_fsport_performance_awd_caviar_2-scaled-1.jpg | Lexus / HotCars | desconocida |
+| /media/lexus-rx-500h-2024-precio-ficha-tecnica-hunt3.webp | https://lexus-s3-bucket.s3.amazonaws.com/web/media/images/RXC7027.height-750.jpg | Lexus Chile | desconocida |
+| /media/navee-n65-hunt1.webp | https://www.smartx.bg/en/collections/%D0%B5%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0-%D0%B8-%D0%B0%D0%BA%D1%81%D0%B5%D1%81%D0%BE%D0%B0%D1%80%D0%B8/products/ieliektrichieski-skutier-navee-n65-500w-do-65km-probiegh-ipx4 | Innpro (distribuidor) | desconocida |
+| /media/navee-n65-hunt2.webp | https://navee.rakos.de/presskits/n65i-ii | NAVEE Alemania (press kit oficial) | desconocida |
+| /media/navee-n65-hunt3.webp | https://naveetech.us/products/navee-gt3 | NAVEE Tech US | desconocida |
+| /media/skoda-scala-15-tsi-2026-precio-ficha-tecnica-hunt1.webp | https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/skoda_scala_front_three_quarter.jpg | Autocar | desconocida |
+| /media/skoda-scala-15-tsi-2026-precio-ficha-tecnica-hunt2.webp | https://autotijd.be/images/skoda/2024/scala/facelift/skoda-scala-2024-02.jpg | AutoTijd.be (foto de prensa oficial Skoda) | desconocida |
+| /media/skoda-scala-15-tsi-2026-precio-ficha-tecnica-hunt3.webp | https://media.autoexpress.co.uk/image/private/s--vNcu-s5n--/f_auto,t_content-image-full-desktop@1/v1706292176/autoexpress/2024/01/Updated%20Skoda%20Scala%20001_mj4hfz.jpg | Auto Express | desconocida |
+| /media/subaru-uncharted-2026-precio-ficha-tecnica-hunt1.webp | https://telset.id/autonext/subaru-ev-baru-kalahkan-solterra-dalam-penjualan | electrek.co | desconocida |
+| /media/subaru-uncharted-2026-precio-ficha-tecnica-hunt2.webp | https://www.autoindustriya.com/auto-industry-news/not-c-hr-subaru-unveils-2026-u | autoindustriya.com | desconocida |
+| /media/subaru-uncharted-2026-precio-ficha-tecnica-hunt3.webp | https://www.autoguru.at/ | autoguru.at | desconocida |
+| /media/chausson-640-2026-hunt1.webp | https://www.tynevalleymotorhomes.com/wp-content/uploads/2026/05/Chausson-640-Ultimate-Line-1-1-1040x688.jpg | Tyne Valley Motorhomes | desconocida |
+| /media/chausson-640-2026-hunt2.webp | https://highbridgecaravans.co.uk/images/products/00063081/22px-68e7b62369672.png | Highbridge Caravans | desconocida |
+| /media/chausson-640-2026-hunt3.webp | https://www.ypocamp.fr/annonce/chausson/640-ultimate-line-2026/chausson-640-ultimate-line-2026 | Ypocamp | desconocida |
+| /media/volkswagen-caddy-ehybrid-2025-hunt1.webp | https://en-marcha.com/cms/uploads/VW_CADDY_2025-1400-sxydr5.jpg | En Marcha (foto de prensa Volkswagen) | desconocida |
+| /media/volkswagen-caddy-ehybrid-2025-hunt2.webp | https://img.teknolojioku.com/rcman/Cw800h595q95gc/storage/files/images/2025/03/22/volkswagen-caddy-ici-71ws.jpg | Teknolojioku | desconocida |
+| /media/volkswagen-caddy-ehybrid-2025-hunt3.webp | https://www.kaaratv.com/content/images/size/w1200/2025/06/20250527_120153-2-1.jpg | KaaraTV | desconocida |
