@@ -1732,3 +1732,9 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/wuling-starlight-ev-2025-precio-ficha-tecnica-hunt1.webp | https://www.borderlesscar.com/wp-content/uploads/2025/09/Wuling-Starlight-EV-5.jpg | Borderless Car | desconocida |
 | /media/wuling-starlight-ev-2025-precio-ficha-tecnica-hunt2.webp | https://imgcdn.zigwheels.ph/large/gallery/exterior/196/3719/wuling-starlight-front-angle-low-view-186497.jpg | zigwheels.ph | desconocida |
 | /media/wuling-starlight-ev-2025-precio-ficha-tecnica-hunt3.webp | https://www.borderlesscar.com/wp-content/uploads/2025/09/Wuling-Starlight-EV-1.jpg | Borderless Car | desconocida |
+| /media/audi-q3-sportback-e-hybrid-2026-hunt1.webp | https://www.carscoops.com/wp-content/uploads/2025/08/2026-Audi-Q3-Sportback-e-Hybrid-11-copy-2048x1153.jpg | Foto de prensa Audi (vía Carscoops) | desconocida |
+| /media/audi-q3-sportback-e-hybrid-2026-hunt2.webp | https://en.wheelz.me/wp-content/uploads/2025/09/0998542814280925.webp | Foto de prensa Audi (vía Wheelz) | desconocida |
+| /media/audi-q3-sportback-e-hybrid-2026-hunt3.webp | https://www.completecar.ie/img/testdrives/14402_large.jpg | Foto de prensa Audi (vía Complete Car) | desconocida |
+| /media/royal-enfield-guerrilla-450-2026-ficha-tecnica-precio-hunt1.webp | https://kawasaki-hielscher.de/de/motorrad-modell-royal-enfield-guerrilla-450-12583-2026 | 1000ps.net | desconocida |
+| /media/royal-enfield-guerrilla-450-2026-ficha-tecnica-precio-hunt2.webp | https://www.woodscyclecountry.com/NEW-Inventory-2026-Royal-Enfield-Motorcycle-Scooter-Guerilla-450-Woods-Cycle-Country-17672705 | Woods Cycle Country | desconocida |
+| /media/royal-enfield-guerrilla-450-2026-ficha-tecnica-precio-hunt3.webp | https://www.blackhillspowersports.com/New-Inventory-2026-Royal-Enfield-Motorcycle-Scooter-Guerrilla-450-Black-Hills-Powersports-17668405 | Black Hills Powersports | desconocida |
