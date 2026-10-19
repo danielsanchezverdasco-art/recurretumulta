@@ -26,11 +26,11 @@ export const AUTOCARAVANAS_FRANKIA_M1: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-ext.webp",
+    imagen: "/media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-oficial.webp",
     imagenOficial:
-      "/media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-ext.webp",
+      "/media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-interior.webp",
+      "/media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-oficial-interior.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 7050,
@@ -65,26 +65,26 @@ export const AUTOCARAVANAS_FRANKIA_M1: Autocaravana[] = [
     opiniones: [],
     galeria: [
       {
-        src: "/media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-ext.webp",
-        alt: "Frankia NEO I 7 GDK, vista frontal de la integral",
+        src: "/media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Frankia NEO I 7 GDK, vista exterior de la integral en marcha",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Frankia NEO I 7 GDK, salón y dormitorio",
+        src: "/media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-oficial-interior.webp",
+        alt: "Salón del Frankia NEO I 7 GDK con dinette y asientos giratorios",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-interior2.webp",
-        alt: "Salón del Frankia Neo I 7 GDK",
+        src: "/media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-oficial-interior2.webp",
+        alt: "Camas individuales traseras del Frankia NEO I 7 GDK",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-detalle.webp",
-        alt: "Dormitorio del Frankia Neo I 7 GDK",
+        src: "/media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-oficial-interior3.webp",
+        alt: "Cocina del Frankia NEO I 7 GDK con fogones de gas y fregadero",
         ancho: 1200,
         alto: 800,
       },
@@ -115,6 +115,8 @@ export const AUTOCARAVANAS_FRANKIA_M1: Autocaravana[] = [
     fuenteUrl: "https://www.frankia.com/fileadmin/user_upload/infomaterial/neo_2027_englisch.pdf",
     notas:
       "Frankia no publica PVP de fábrica (el indicativo de ~142.000 € es de un concesionario alemán, dato no oficial). La masa en orden de marcha no tiene cifra única por variante y la carga útil no está publicada por la marca. Datos técnicos del folleto oficial NEO 2027. 4 plazas para dormir: camas individuales traseras + cama abatible delantera.",
+    curiosidades:
+      "La edición Black Line del NEO MI 7 incluye de serie placa solar y batería de litio (LiFePO4) de 105 Ah, un equipamiento que la mayoría de rivales cobra como opción. Lo publica la propia Frankia en la página oficial del modelo: https://www.frankia.com/wohnmobile-reisemobile/neo/frankia-neo-mi-7.",
     descripcion: `Hay una frase que resume al Frankia NEO I 7 GDK mejor que cualquier ficha técnica: «ligera» y «premium» en la misma frase. Frankia, el fabricante de Marktschorgast con más de seis décadas construyendo autocaravanas y hoy dentro del grupo Pilote, diseñó la gama NEO con una obsesión muy concreta: una integral sobre Mercedes Sprinter que no supere los 3.500 kg sin renunciar al espacio ni al equipamiento. El I 7 GDK es la versión de 7,05 metros con camas gemelas traseras y funciona como puerta de entrada al mundo Frankia sin saltar a los liner de la casa.
 
 La documentación de partida es el folleto oficial de la gama NEO para la temporada 2027 publicado en frankia.com, que detalla distribuciones, medidas, pesos y garantías, revisado el 18/10/2026. Lo que la marca no publica —precio de fábrica, masa en orden de marcha por variante, carga útil— queda en null y se dice abiertamente. El NEO es la integral «ligera» de Frankia, disponible como Cruiser (perfilada) o como Liner (integral de clase A); el I 7 GDK es el Liner de 7,05 metros. Su propuesta es singular: construcción con materiales ligeros especiales, doble suelo y un diseño interior de altura continua de 2 metros, todo ello manteniendo la MMA en 3.500 kg para que baste el carnet B. Es la integral para quien quiere presencia y espacio de liner sin el carnet C1 ni los 4.500 kg.
