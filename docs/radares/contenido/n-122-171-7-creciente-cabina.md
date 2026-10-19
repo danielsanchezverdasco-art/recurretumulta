@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 41.7574, -2.6391
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=41.7574,-2.6391)
 
+<iframe title="Mapa: radar n-122-171-7-creciente-cabina" src="https://www.google.com/maps?q=41.7574,-2.6391&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-122-171-7-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=41.7574,-2.6391&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** Verificación hecha el 2026-10-19 sobre el XML de radares de la DGT (DATEX II, portal NAP): la N-122, el pk 171,65, el sentido creciente y las coordenadas proceden de ese registro oficial. Como el XML no incluye ni el límite de cada punto ni su municipio, la ficha aplica el genérico del RGC art. 48 para carretera convencional nacional (90 km/h) y sitúa el radar en Villaciervos gracias a CartoCiudad (IGN/CNIG).
 
 ## Cuándo actúa
