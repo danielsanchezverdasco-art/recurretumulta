@@ -12,6 +12,14 @@
 
 La Dirección General de Tráfico ubica esta caja en la **A-3 a la altura del pk 314,9**, en territorio de Valencia. Vigila el **sentido creciente**: los vehículos que circulan hacia puntos kilométricos crecientes. Estas coordenadas pertenecen a **Buñol** según el geocodificador del IGN. El punto vigilado más cercano es el de la **A-3, pk 292,1** (sentido creciente): queda a 21,2 km hacia el oeste.
 
+<iframe title="Mapa: radar a-3-314-9-creciente-cabina" src="https://www.google.com/maps?q=39.43353,-0.82064&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-3-314-9-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.43353,-0.82064&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 Se trata de la A-3, la Autovía del Este, que une Madrid con Valencia. El tráfico aquí mezcla el largo recorrido con los desplazamientos diarios de la zona. El marco geográfico es la costa valenciana.
