@@ -12,6 +12,15 @@
 
 La cabina se sitúa en la **A-67, punto kilométrico 191,7**, en la comunidad de Cantabria, y controla el **sentido creciente** de la marcha, es decir, los vehículos que circulan en la dirección que la DGT identifica como **Santander**. Las coordenadas la ubican en el tramo final de la autovía antes de la capital cántabra, en una franja donde el tráfico de la Meseta confluye con los desplazamientos metropolitanos del entorno de Torrelavega y Piélagos.
 
+<iframe title="Mapa: radar a-67-191-7-creciente-cabina" src="https://www.google.com/maps?q=43.4124,-3.9736&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-67-191-7-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=43.4124,-3.9736&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La A-67, conocida como **Autovía Cantabria-Meseta**, es el cordón umbilical entre Santander y el interior peninsular: arranca en la capital y desciende hacia Palencia atravesando Torrelavega. En este sector la vía ya ha dejado atrás el relieve más exigente y se mueve por una llanura costera con nudos de enlace frecuentes. Es un eje con mucho tráfico mixto —turismos de largo recorrido, camiones hacia el puerto de Santander y desplazamientos diarios de cercanías—, y la densidad de entradas y salidas obliga a mantener la atención incluso en tramos que parecen cómodos.
