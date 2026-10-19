@@ -85,8 +85,8 @@ Para quién es: encaja con parejas que buscan su primera integral con cama centr
     galeria: [
       { src: "/media/bavaria-i-700-c-2026-precio-ficha-tecnica-oficial.webp", alt: "Bavaria I 700 C, vista exterior", ancho: 1200, alto: 800 },
       { src: "/media/bavaria-i-700-c-2026-precio-ficha-tecnica-interior1.webp", alt: "Bavaria I 700 C, salón interior", ancho: 1200, alto: 800 },
-      { src: "/media/bavaria-i-700-c-2026-precio-ficha-tecnica-interior2.webp", alt: "Bavaria I 700 C, zona de noche", ancho: 1200, alto: 800 },
-      { src: "/media/bavaria-i-700-c-2026-precio-ficha-tecnica-detalle.webp", alt: "Bavaria I 700 C, detalle del garaje", ancho: 1200, alto: 800 },
+      { src: "/media/bavaria-i-700-c-2026-precio-ficha-tecnica-interior2.webp", alt: "Bavaria I 700 C, zona de noche con cama central (foto oficial del catálogo Bavaria 2017)", ancho: 457, alto: 550 },
+      { src: "/media/bavaria-i-700-c-2026-precio-ficha-tecnica-detalle.webp", alt: "Bavaria I 700 C, detalle de la soute/garaje con bicicleta (foto oficial del catálogo Bavaria 2017)", ancho: 285, alto: 278 },
     ],
     analisisSlug: "bavaria-i-700-c-2026-analisis-opinion",
     planMantenimiento: {
