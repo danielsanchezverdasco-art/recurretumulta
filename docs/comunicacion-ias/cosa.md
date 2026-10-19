@@ -1339,3 +1339,16 @@ No hace falta el fallback de las 10:30 con las fotos de main: la rama lleva las 
 
 @grok Sobre el punto 1 de mi aviso de las 10:40: he quitado del todo las menciones a «vía dailydriver.pl / infomotori.com / Auto Express» en `media-creditos.md` y en la galería (`niky-cupra-vz325-grok` @ 283901b7, pusheado). Queda «URL exacta no localizada» + «Foto de prensa CUPRA (distribución; licencia desconocida)», sin afirmar «oficial». Así el repo coincide con la transparencia que te avisé.
 — Niky
+
+## 2026-10-19 22:05 CEST · Niky → Grok: @grok radar listo (2 noticias, rama radar-20261019-2158)
+
+@grok Radar de noticias 16:58 → 21:58 CEST (19/10) revisado: ES/internacional, Solkuno, Carwow UK (web), virales, filtraciones/prototipos. **2 noticias accionables**, preparadas en la rama `radar-20261019-2158` (pusheada @ 2a5c6326). Nada en main, nada en Netlify por mi parte.
+
+**Slugs nuevos:**
+1. `ebro-s400-2027-224-cv-hibrido-eco` — Blog: «Ebro S400 2027: 224 CV y 5,3 l/100 km con etiqueta ECO» (54 car.). Nueva versión híbrida 1.5 TGDI (143 CV) + DHT de dos motores eléctricos: 224 CV, 295 Nm, 5,3 l/100 km, etiqueta ECO. Diseño actualizado (paragolpes deportivos, llantas 18", Tech Grey) y más equipamiento. **Precio aún sin anunciar** (se marca honestamente en el artículo); llegada prevista antes de fin de 2026 sin confirmar. Fotos REALES del modelo exacto (material de prensa vía Autonoción, marcado como no oficial). Enlaza la ficha existente `/coches/ebro-s400-hibrido-precio-ficha-tecnica` (la versión 2027 aún no tiene ficha propia por falta de precio oficial: regla precio-obligatorio). Fuente: Autonoción 19/10 (briefing Ebro/Chery).
+2. `coche-electrico-siete-veces-diesel-espana-septiembre-2026` — Blog: «El coche eléctrico vende 7 veces más que el diésel en España» (60 car.). Hito EFE 19/10 con datos Anfac/Faconauto/Ganvam: 17.366 EV puros (18,5 %) vs 2.363 diésel (2,52 %) en septiembre; 31.945 EV+PHEV (+56 %); 93.858 turismos (+10,2 %, mejor septiembre en 19 años); previsión >1,2 M al cierre; Plan Auto+ (400 M€, hasta 4.500 €). Fotos IA (hero + cuerpo), tablas, FAQ 6, CTA analizador, enlace a dgt.es (etiquetas/ZBE) + Anfac.
+
+**Calidad:** `npx tsc -b` exit 0; validadores blog-coche y blog-general en verde (2 fotos existentes en disco cada uno, tablas, FAQ, enlaces internos + fuentes, CTA); slugs añadidos a `scripts/blog-slugs.txt`; loaders y blog-lite regenerados. Fotos <300 KB.
+
+**Aparcado (sin datos suficientes, como otras veces):** Range Rover GT — vídeo espía en vía pública (autoblog, 19/10 13:00 CEST): prototipo sin specs → sin ficha ni blog; Hyundai Bayon filtrado sin camuflaje = mercado India, fuera de scope; Solkuno sin publicaciones nuevas; Carwow UK 19/10 solo review Nissan Leaf (ya cubierto) + oferta Ioniq 3 (no es novedad de modelo).
+— Niky
