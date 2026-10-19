@@ -4445,3 +4445,26 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/mecatecno-t8-2026-ficha-tecnica-precio-hunt1.webp | https://www.thomatrial.de/images/Mecatecno/T8/T8-2020.jpg | Thomatrial | desconocida |
 | /media/mecatecno-t8-2026-ficha-tecnica-precio-hunt2.webp | https://images.tapatalk-cdn.com/15/08/21/7aeb78b312b38dd4c10325c6322a68e7.jpg | 2y4t (foro, foto de usuario) | desconocida |
 | /media/mecatecno-t8-2026-ficha-tecnica-precio-hunt3.webp | https://media.nonstopbikes.com/product/mecatecno-t8-800x800.jpg?width=520 | Nonstop Bikes | desconocida |
+| /media/volkswagen-id4-2026-precio-ficha-tecnica-hunt1.webp | https://www.latinaology.com/wp-content/uploads/2026/02/17701-LIPMANJL15635-1140x615.jpg | Latinaology | desconocida |
+| /media/volkswagen-id4-2026-precio-ficha-tecnica-hunt2.webp | https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/exterior_1_st.webp | EVKX | desconocida |
+| /media/volkswagen-id4-2026-precio-ficha-tecnica-hunt3.webp | https://twfld.com/wp-content/uploads/2024/07/ID.4_Interior_006-1024x683.jpg | TWFld | desconocida |
+| /media/dacia-spring-electric-45-2024-precio-ficha-tecnica-hunt1.webp | https://st.arenaev.com/specs/dacia/dacia-spring-2024-main.jpg | ArenaEV | desconocida |
+| /media/dacia-spring-electric-45-2024-precio-ficha-tecnica-hunt2.webp | https://ev-database.org/img/auto/Dacia_Spring_Electric_2024/Dacia_Spring_Electric_2024-01@2x.jpg | EV Database | desconocida |
+| /media/dacia-spring-electric-45-2024-precio-ficha-tecnica-hunt3.webp | https://www.carscoops.com/wp-content/uploads/webp/2024/02/2024-Dacia-Spring-25-2048x1321.webp | Dacia (vía Carscoops) | desconocida |
+| /media/electric-motion-escape-r-2026-ficha-tecnica-precio-hunt1.webp | https://www.tec-race.ch/media/7997/catalog/EM ESCAPE R 326.JPG | Tec Race (distribuidor) | desconocida |
+| /media/electric-motion-escape-r-2026-ficha-tecnica-precio-hunt2.webp | https://immagini.insella.it/sites/default/files/styles/620w/public/immagine_mototree/electric_motion_escape_top.png.webp | InSella.it | desconocida |
+| /media/electric-motion-escape-r-2026-ficha-tecnica-precio-hunt3.webp | https://images.squarespace-cdn.com/content/v1/5f9b55e3448c6948e878bb8c/1627512633509-Q3LDUX3I0OON8V9NWQD3/Escape-R-profil-SMALL.png?format=1000w | Electric Motion USA (importador oficial) | desconocida |
+| /media/volkswagen-id-4-2025-hunt1.webp | https://images.hgmsites.net/hug/2025-volkswagen-id-4_100933709_h.webp | Volkswagen / Green Car Reports | desconocida |
+| /media/volkswagen-id-4-2025-hunt2.webp | https://media.drive.com.au/obj/tx_q:50,rs:auto:1920:1080:1/driveau/upload/cms/uploads/f8e2ac60-37b3-5fa2-8672-27546ab50000 | Drive.com.au | desconocida |
+| /media/volkswagen-id-4-2025-hunt3.webp | https://images.autoreview.nl/1280/volkswagen-id4-autowereldcom-dashboard-286a92.webp | AutoReview.nl / Volkswagen | desconocida |
+| /media/volkswagen-id5-2026-precio-ficha-tecnica-hunt1.webp | https://images.carexpert.com.au/resize/1920/-/cms/v1/media/2021-11-volkswagen-id5-3.jpg | Volkswagen / CarExpert | desconocida |
+| /media/volkswagen-id5-2026-precio-ficha-tecnica-hunt2.webp | https://images.carexpert.com.au/app/uploads/2023/09/2024-Volkswagen-ID-5-Review-57.jpg | Volkswagen / CarExpert | desconocida |
+| /media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-hunt1.webp | https://www.niesmann.de/fileadmin/_processed_/5/d/csm_carthago-c-tourer_f0f2a62d2c.webp | Niesmann (concesionario Carthago) | desconocida |
+| /media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-hunt2.webp | https://www.caravanbacci.com/wp-content/uploads/2024/06/carthago-ctoureri148-caravanbacci.jpg | Caravan Bacci | desconocida |
+| /media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-hunt3.webp | https://travel-cars.ru/wp-content/uploads/2020/11/interieur-wohnsitzgruppe_tourer-i-149-vo-1.jpg | Travel-Cars.ru | desconocida |
+| /media/dacia-spring-electric-65-2024-precio-ficha-tecnica-hunt1.webp | https://www.hibridosyelectricos.com/uploads/s1/77/67/87/dacia-spring.jpeg | Híbridos y Eléctricos | desconocida |
+| /media/dacia-spring-electric-65-2024-precio-ficha-tecnica-hunt2.webp | https://madridpress.com/upload/images/05_2024/8852_dacia.jpg | Madridpress | desconocida |
+| /media/dacia-spring-electric-65-2024-precio-ficha-tecnica-hunt3.webp | https://www.autobics.com/wp-content/uploads/2024/07/2024-Dacia-Spring-EV-Interior.jpg | Autobics | desconocida |
+| /media/lifan-kpt-400-hunt1.webp | https://www.americanlifan.com/wp-content/uploads/2025/02/KPT400-2-scaled.jpg | American Lifan (web oficial USA) | desconocida |
+| /media/lifan-kpt-400-hunt2.webp | https://www.americanlifan.com/wp-content/uploads/2025/02/A42I3337-768x512.jpg | American Lifan (web oficial USA) | desconocida |
+| /media/lifan-kpt-400-hunt3.webp | https://moto365.ru/s3/9683e4de88b3255a6efae0612699ed93-1773899841.4672.png | Moto365.ru | desconocida |
