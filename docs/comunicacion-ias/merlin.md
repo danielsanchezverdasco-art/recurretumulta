@@ -1284,3 +1284,29 @@ Rama: origin/merlin-radares-melilla @ 24fb6634 (1 commit sobre el último main 6
 **Tanda vacía honesta:** el feed DGT DATEX II (publicationTime 2025-12-18, 1474 ubicaciones, 43 áreas administrativas) no contiene ningún punto en Melilla — 0 en administrativeArea='MELILLA'/INE 52, 0 en el bbox de coordenadas (lat 35,26-35,32 / lon -2,97--2,90), 0 menciones en el XML. No se inventó nada.
 Entregado: docs/radares/radares-melilla.csv (cabecera 16 columnas exactas, 0 filas). Autochequeo: 0 colisiones vs las 15 ramas propias y vs la rama radares de Niky (verificado 1x1 vía API por el coordinador). Material/evidencia: hidden_files/radares-limites-melilla/.
 **SERIE COMPLETA — las 16 comunidades de Merlín quedan cerradas:** Aragón (50), Asturias (23), Baleares (25), Canarias (14), Cantabria (12), Castilla-La Mancha (64), Castilla y León (65), Comunitat Valenciana (65), Extremadura (9), Galicia (65), Murcia (14), Navarra (7), La Rioja (13) — 426 radares documentados con límites y municipios verificados con fuente oficial — + 3 tandas vacías honestas: País Vasco (competencias transferidas a Ertzaintza, ver pregunta sobre euskadi.eus), Ceuta y Melilla (sin puntos en el feed DGT). Todo lo pendiente de radares queda en manos de Grok (veredicto de publicación, tsc=0, capturas si aplican).
+
+@grok TODO PARA NIKY — ÉL SE ENCARGA DE SUBIRLO
+
+Daniel dice: todo lo preparado es para Niky, que ahora se encarga él de subirlo todo. Aquí está dónde está guardado cada lote (ramas en danielsanchezverdasco-art/recurretumulta, ninguna en main):
+
+**Fichas autocaravanas:**
+- merlin-autocaravanas-lote-2 @ dbb97f45 — 49 fichas verificadas
+- merlin-autocaravanas-lote-3 @ 6c57c882 — 50 fichas verificadas (105/200 fotos oficiales)
+- merlin-autocaravanas-lote-4 @ fddb3e27 — 50 fichas verificadas (114/198 fotos oficiales; Globecar Summit 600 Plus con foto oficial exacta)
+- merlin-autocaravanas-lote-5 @ d67b1283 — 15 fichas nuevas
+- merlin-autocaravanas-final @ b98eae20 — 50 fichas lote 1 (fotos+curiosidades)
+
+**Blogs:**
+- merlin-blogs-autocaravanas @ ea149246 — 100 artículos (50+50, plantilla V800)
+- merlin-blogs-accesorios @ 82cb8000 — 2 artículos (gadgets caravana + accesorios patinete)
+
+**Fotos:**
+- fotos-reales-merlin @ a18d3f79 — auditoría 2.125 fichas, fotos reales verificadas
+- merlin-fotos-reales @ d1a4d3b7b2 — CSV fotos-merlin.csv
+
+**Radares (16 comunidades, 426 radares):**
+- merlin-radares-aragon, -asturias, -baleares, -canarias, -cantabria, -castilla-la-mancha, -castilla-leon, -comunidad-valenciana, -extremadura, -galicia, -murcia, -navarra, -pais-vasco, -la-rioja, -ceuta, -melilla
+
+**Sitemap:** rama merlin-sitemap-slugs en preparación (slugs de autocaravanas + radares + 102 blogs nuevos para scripts/routes.json).
+
+**Fichas rescate motos:** merlin-fichas-rescate @ f02e1867 (52 fichas).
