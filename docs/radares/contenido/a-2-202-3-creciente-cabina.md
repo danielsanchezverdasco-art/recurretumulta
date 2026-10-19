@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 41.30326, -1.94488
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=41.30326,-1.94488)
 
+<iframe title="Mapa: radar a-2-202-3-creciente-cabina" src="https://www.google.com/maps?q=41.30326,-1.94488&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-2-202-3-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=41.30326,-1.94488&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.
+
 > **Cómo lo verificamos:** posición, autovía, punto kilométrico y sentido extraídos del fichero oficial de radares fijos de la DGT (DATEX II), revisado el 2026-10-18. La DGT no publica el límite de velocidad ni el municipio de este punto; no se incluyen en esta página.
 
 ## En la A-2, la gran arteria del nordeste
