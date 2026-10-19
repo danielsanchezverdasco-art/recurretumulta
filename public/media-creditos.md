@@ -3202,3 +3202,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/emove-touring-hunt1.webp | https://ecomotion.com.au/collections/e-scooter-commuter/products/emove-touring-500w-48v-13ah-portable-electric-scooter | EcoMotion Australia | desconocida |
 | /media/emove-touring-hunt2.webp | https://www.smartwheel.ca/emove-touring-electric-scooter/ | SmartWheel | desconocida |
 | /media/emove-touring-hunt3.webp | https://www.inydy.com/product/emove-touring-electric-scooter-white/ | InYdy | desconocida |
+| /media/triumph-trident-660-triple-tribute-2025-ficha-tecnica-precio-hunt1.webp | https://www.totalmotorcycle.com/motorcycles/2025/2025-triumph-trident-660-triple-tribute-special-edition | Total Motorcycle | desconocida |
+| /media/triumph-trident-660-triple-tribute-2025-ficha-tecnica-precio-hunt2.webp | https://www.1000ps.com/de-de/modell/12469/triumph-trident-660-triple-tribute | 1000PS | desconocida |
+| /media/triumph-trident-660-triple-tribute-2025-ficha-tecnica-precio-hunt3.webp | https://www.ilmoto.at/de/motorrad-modell-triumph-trident-660-triple-tribute-12469-2025 | 1000PS | desconocida |
+| /media/byd-atto-3-evo-2025-precio-ficha-tecnica-hunt1.webp | https://car2day.com/byd-atto-3-cumulative-sales-surpassed-1-million-units-worldwide/ | Car2Day | desconocida |
+| /media/byd-atto-3-evo-2025-precio-ficha-tecnica-hunt2.webp | https://car2day.com/byd-atto-3-cumulative-sales-surpassed-1-million-units-worldwide/ | Car2Day | desconocida |
+| /media/byd-atto-3-evo-2025-precio-ficha-tecnica-hunt3.webp | https://evpowered.co.uk/news/byd-atto-3-evo-evolves-with-battery-and-motor-upgrade/ | EV Powered | desconocida |
+| /media/fangchengbao-bao-3-2025-precio-ficha-tecnica-hunt1.webp | https://thetimeson.ru/2024/06/14/the-fangchengbao-leopard-3-crossover-from-byd-appeared-in-production-form-three-images-to-choose-from/ | BYD/Fangchengbao (prensa oficial) | desconocida |
+| /media/fangchengbao-bao-3-2025-precio-ficha-tecnica-hunt2.webp | https://cnevpost.com/2024/06/14/byd-fang-cheng-bao-releases-official-images-of-bao-3/ | BYD/Fangchengbao (prensa oficial) | desconocida |
+| /media/fangchengbao-bao-3-2025-precio-ficha-tecnica-hunt3.webp | https://rouleur-electrique.fr/byd-bao-3-le-nouveau-suv-electrique-baroudeur-qui-pourrait-seduire-leurope-des-2026/ | Rouleur Électrique | desconocida |
+| /media/triumph-tiger-900-rally-pro-2025-ficha-tecnica-precio-hunt1.webp | https://1000ps.com/en-us/model/9981/triumph-tiger-900-rally-pro/2025 | Triumph (catálogo 1000ps) | desconocida |
+| /media/triumph-tiger-900-rally-pro-2025-ficha-tecnica-precio-hunt2.webp | https://1000ps.com/en-gb/model/9981/triumph-tiger-900-rally-pro/2025 | Triumph (catálogo 1000ps) | desconocida |
+| /media/triumph-tiger-900-rally-pro-2025-ficha-tecnica-precio-hunt3.webp | https://motorcycles.autotrader.com/motorcycle-research/model-info/2025-triumph-tiger_900-rally_pro-overview | Autotrader (foto de concesionario) | desconocida |
+| /media/zero-10-hunt1.webp | https://mavink.com/explore/Zero-Scooters | Ride Electric (distribuidor, foto oficial de producto) | desconocida |
+| /media/zero-10-hunt2.webp | https://www.maxblinker.com/en/electric-scooters/zero-10 | Maxblinker (distribuidor) | desconocida |
+| /media/zero-10-hunt3.webp | https://zeroelectricscooter.com/cdn/shop/products/zero10_600x600.png | Zero Electric Scooter (fabricante, imagen oficial de producto) | desconocida |
+| /media/aprilia-tuono-457-2025-ficha-tecnica-precio-hunt1.webp | https://www.aprilia.com/en_EN/models/tuono-457/tuono-457-457-parallel-twin-4-stroke-2026/ | Aprilia | desconocida |
+| /media/aprilia-tuono-457-2025-ficha-tecnica-precio-hunt2.webp | https://www.1000ps.net | 1000PS | desconocida |
+| /media/aprilia-tuono-457-2025-ficha-tecnica-precio-hunt3.webp | https://apriliaindia.com/images/tuono-457/ | Aprilia India | desconocida |
+| /media/segway-ninebot-f40e-hunt1.webp | https://nr1elektrischestep.nl/products/ninebot-f40 | NR1 Elektrische Step | desconocida |
+| /media/segway-ninebot-f40e-hunt2.webp | https://old.beyondthebeach.com/product/ninebot-kickscooter-f40e-powered-by-segway/ | Beyond the Beach | desconocida |
+| /media/segway-ninebot-f40e-hunt3.webp | https://www.supermobily.sk/supermobily/eshop/1-1-MOBILNE-TELEFONY/60-3-MEIZU/5/2998-Ninebot-Segway-Kickscooter-F40E | SuperMobily | desconocida |
+| /media/smartgyro-dual-max-2-hunt1.webp | https://360scooters.com/es/producto/patinete-electrico-smartgyro-crossover-dual- | 360scooters.com | desconocida |
+| /media/smartgyro-dual-max-2-hunt2.webp | https://www.pascualmarti.es/patinete-electrico-smartgyro-dual-max-2-lr-20993071/ | pascualmarti.es | desconocida |
+| /media/smartgyro-dual-max-2-hunt3.webp | https://360scooters.com/es/producto/patinete-electrico-smartgyro-crossover-dual- | 360scooters.com | desconocida |
