@@ -12,6 +12,15 @@
 
 Esta cabina vigila la **A-4 en el punto kilométrico 230,8**, dentro de Ciudad Real. Controla el **sentido decreciente** de la marcha: los puntos kilométricos decrecientes. Que el control sea en sentido decreciente no implica que el contrario esté desatendido: la DGT publica puntos por sentido. El control fijo de la DGT más próximo es el de la **A-4, pk 230,8** (sentido creciente), a 1,4 km hacia el noreste. Le sigue en proximidad el de la **CM-4124, pk 8,0** (sentido creciente), situado a 47,9 km hacia el norte. Quien circula por aquí suele llevar ya muchos kilómetros encima: el cansancio también suma riesgo.
 
+<iframe title="Mapa: radar a-4-230-8-decreciente-cabina" src="https://www.google.com/maps?q=38.5075,-3.49722&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-4-230-8-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.5075,-3.49722&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La A-4 es la Autovía del Sur, que une Madrid con Andalucía. La autovía registra movimiento durante toda la jornada, con perfiles distintos por franjas horarias. La DGT mantiene aquí un control fijo porque es un tramo donde la velocidad tiende a despegarse de lo señalizado. De los 8 controles que la DGT publica para la A-4 en la comunidad, este es el octavo por punto kilométrico. En la misma A-4, el control más próximo es el del pk 230,8 (sentido creciente): dista 1,4 km hacia el noreste. En definitiva, un tramo donde la disciplina con el acelerador marca la diferencia. La señalización de la vía es la guía principal: atenderla evita la mayoría de los problemas.
