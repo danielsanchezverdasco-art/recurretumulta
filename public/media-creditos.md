@@ -1714,3 +1714,12 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/wuling-cloud-ev-2024-precio-ficha-tecnica-hunt1.webp | https://www3.wuling.id/wp-content/uploads/2024/12/Eksterior-Cloud-EV-terinspirasi-dari-lekukan-dan-bentuk-awan-yang-memancarkan-nuansa-futuristik-dan-modern.-2048x1365.jpg | Wuling Indonesia (nota de prensa oficial) | desconocida |
 | /media/wuling-cloud-ev-2024-precio-ficha-tecnica-hunt2.webp | https://www3.wuling.id/wp-content/uploads/2024/05/Cloud-EV-yang-Diperkenalkan-Pada-Februari-Lalu-Kini-Sudah-Dapat-Dipesan-Oleh-Para-Konsumen-1536x1152.jpg | Wuling Indonesia (nota de prensa oficial) | desconocida |
 | /media/wuling-cloud-ev-2024-precio-ficha-tecnica-hunt3.webp | https://teropongmedia.id/wp-content/uploads/2024/02/interior-cloud-ev.webp | Teropong Media | desconocida |
+| /media/benelli-trk-702-2025-ficha-tecnica-precio-hunt1.webp | https://www.benelli.com/gb-en/products/trk-702x | Benelli (foto oficial) | desconocida |
+| /media/benelli-trk-702-2025-ficha-tecnica-precio-hunt2.webp | https://www.benelli-motos.be/fr/models/trk-702.html | Benelli Motos Bélgica (foto oficial) | desconocida |
+| /media/benelli-trk-702-2025-ficha-tecnica-precio-hunt3.webp | https://benelli.co.uk/model/2026-benelli-trk-702-1951 | Benelli UK / Motobank | desconocida |
+| /media/subaru-trailseeker-2026-precio-ficha-tecnica-hunt1.webp | https://www.subaru.co.nz/about/news/subaru-confirms-all-new-all-electric-all-exciting-trailseeker-new-zealand | Subaru New Zealand (prensa oficial) | desconocida |
+| /media/subaru-trailseeker-2026-precio-ficha-tecnica-hunt2.webp | https://www.tarmaclife.co.nz/subaru-reviews-new-zealand/subarus-trailseeker-ev-rocket-set-to-electrify-new-zealand-roads/ | Subaru (prensa oficial) vía Tarmac Life | desconocida |
+| /media/subaru-trailseeker-2026-precio-ficha-tecnica-hunt3.webp | https://metamedia.com.ua/subaru-trailseeker-2026/ | Subaru (prensa oficial) vía Metamedia | desconocida |
+| /media/tesla-model-y-l-2026-precio-ficha-tecnica-hunt1.webp | https://images.carexpert.com.au/resize/960/-/cms/v1/media/2025-07-2026-tesla-model-yl-brightened.jpg | CarExpert / Tesla | desconocida |
+| /media/tesla-model-y-l-2026-precio-ficha-tecnica-hunt2.webp | https://autoprove.net/wp-content/uploads/2026/04/1-Model-Y-L-Toggle-Desktop-RHD.jpg | AutoProve | desconocida |
+| /media/tesla-model-y-l-2026-precio-ficha-tecnica-hunt3.webp | https://img.seemyphone.com/img1/c4a7c41ga7b2b29e/226817683385308245301283.jpg | seemyphone.com | desconocida |
