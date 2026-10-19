@@ -407,7 +407,9 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
             precioEur: patinete.precioEur,
             potenciaCv: patinete.potenciaNominalW != null ? patinete.potenciaNominalW / 735.5 : null,
             etiquetaDgt: null, // sin etiqueta ambiental aplicable: el peso se reparte
-            estrellasEuroNCAP: null, // los patinetes no tienen test EuroNCAP: no penaliza
+            estrellasEuroNCAP: null,
+            noAplicaEuroNCAP: true, // Euro NCAP no prueba patinetes
+            precioNoOficialEspana: patinete.aprox.includes("precioEur"),
             garantiaAnos: garantiaDeMarca(patinete.marca, "patinetes")?.anios ?? null,
             autonomiaKm: patinete.autonomiaRealKm ?? patinete.autonomiaKm,
             pesoKg: patinete.pesoKg,

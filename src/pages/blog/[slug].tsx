@@ -381,7 +381,8 @@ function BlogPostPage() {
         const r = seguirRedireccion(r0, redir);
         if (!r) continue;
         const k = `${r.tipo}/${r.id}`;
-        if (vistos.has(k) || !p || !idPlausible(p, r.id)) continue;
+        // La ficha curada (ficha-de-post) manda aunque el slug no case palabra a palabra (Denza Z -> denza-z-coupe).
+        if (vistos.has(k) || !p || (!(preferida && r0 === preferida) && !idPlausible(p, r.id))) continue;
         vistos.add(k);
         refs.push(r);
         if (refs.length >= 6) break;

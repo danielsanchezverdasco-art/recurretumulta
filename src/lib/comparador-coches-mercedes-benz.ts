@@ -2153,7 +2153,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     parNm: 800,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["precioDesde"],
+    aprox: [],
     imagen: "/media/mercedes-amg-gt-suv-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: null,
@@ -2192,7 +2192,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     fuenteNombre: "nota de prensa oficial de Mercedes-AMG (17/10/2026)",
     fuenteUrl: "https://media.mercedes-benz.com/en/article/7d4d77de-1aad-4c4c-8a89-a3e140109495",
     versiones: [
-      { nombre: "AMG GT 53 SUV (106 kWh) — precio en Alemania", precio: 113050, potenciaCv: 544, autonomiaKm: 668, aprox: true },
+      { nombre: "AMG GT 53 SUV (106 kWh) — precio en Alemania", precio: 113050, potenciaCv: 544, autonomiaKm: 668, aprox: false },
       { nombre: "AMG GT 55 SUV (106 o 128 kWh) — primavera de 2027", precio: null, potenciaCv: 816, autonomiaKm: 700 },
       { nombre: "AMG GT 63 SUV (106 o 128 kWh) — primavera de 2027", precio: null, potenciaCv: 1169, autonomiaKm: 700 },
     ],

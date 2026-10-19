@@ -61,7 +61,6 @@ const SpecBar = lazy(() => import("@/components/motion.tsx").then((m) => ({ defa
 const Speedometer = lazy(() => import("@/components/motion.tsx").then((m) => ({ default: m.Speedometer })));
 
 // 07/10/2026 (rendimiento): below-the-fold en lazy para reducir el chunk inicial.
-const SeguridadEuroNCAPLayz = lazy(() => import("@/components/SeguridadEuroNCAP.tsx"));
 const PlanMantenimientoLazy = lazy(() => import("@/components/PlanMantenimiento.tsx"));
 const HistoriaModeloLazy = lazy(() => import("@/components/HistoriaModelo.tsx"));
 // 12/10/2026: opiniones de propietarios con fotos (below-the-fold en lazy).
@@ -449,7 +448,9 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
             precioEur: moto.precioDesde,
             potenciaCv: moto.potenciaCv ?? (moto.potenciaKw != null ? moto.potenciaKw * 1.36 : null),
             etiquetaDgt: moto.etiquetaDgt,
-            estrellasEuroNCAP: null, // las motos no tienen test EuroNCAP: no penaliza
+            estrellasEuroNCAP: null,
+            noAplicaEuroNCAP: true, // Euro NCAP no prueba motos
+            precioNoOficialEspana: moto.aprox?.includes("precioDesde") ?? false,
             garantiaAnos: garantiaDeMarca(moto.marca, "motos")?.anios ?? null,
             autonomiaKm: moto.autonomiaKm,
             pesoKg: moto.pesoKg,
@@ -754,9 +755,6 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
           </section>
         )}
 
-        <Suspense fallback={null}>
-          <SeguridadEuroNCAPLayz fichaId={moto.id} nombre={nombre} />
-        </Suspense>
 
         {moto.planMantenimiento && (
           <Suspense fallback={null}>

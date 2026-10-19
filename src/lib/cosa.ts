@@ -78,6 +78,10 @@ export interface NotaCosaInput {
   autonomiaKm?: number | null;
   /** Peso en kg (motos/patinetes): más ligero = más práctico (≤120 kg → 10 · ≥220 kg → 0). */
   pesoKg?: number | null;
+  /** true = el precio no es una tarifa oficial en España (≈ o de otro mercado): no se calcula precio/potencia. */
+  precioNoOficialEspana?: boolean;
+  /** true = EuroNCAP no prueba este tipo de vehículo (motos, patinetes): el criterio no existe. */
+  noAplicaEuroNCAP?: boolean;
 }
 
 export interface NotaCosaCriterio {
@@ -125,7 +129,7 @@ export function calcularNotaCosa(input: NotaCosaInput): NotaCosaResultado {
   const crudos: Crudo[] = [];
 
   // 1. Valor precio/potencia
-  if (input.precioEur != null && input.potenciaCv != null && input.potenciaCv > 0) {
+  if (!input.precioNoOficialEspana && input.precioEur != null && input.potenciaCv != null && input.potenciaCv > 0) {
     const ratio = input.precioEur / input.potenciaCv;
     crudos.push({
       clave: "valor",
@@ -134,7 +138,12 @@ export function calcularNotaCosa(input: NotaCosaInput): NotaCosaResultado {
       nota: `${Math.round(ratio)} €/CV`,
     });
   } else {
-    crudos.push({ clave: "valor", etiqueta: "Relación precio/potencia", puntos: null, nota: "—" });
+    crudos.push({
+      clave: "valor",
+      etiqueta: "Relación precio/potencia",
+      puntos: null,
+      nota: input.precioNoOficialEspana ? "sin precio oficial en España" : "—",
+    });
   }
 
   // 2. Eficiencia
@@ -165,8 +174,8 @@ export function calcularNotaCosa(input: NotaCosaInput): NotaCosaResultado {
   }
 
   // 3. Seguridad EuroNCAP (solo verificado; sin datos no penaliza)
-  const sinEuroNCAP = input.estrellasEuroNCAP == null;
-  crudos.push({
+  const sinEuroNCAP = !input.noAplicaEuroNCAP && input.estrellasEuroNCAP == null;
+  if (!input.noAplicaEuroNCAP) crudos.push({
     clave: "seguridad",
     etiqueta: "Seguridad EuroNCAP",
     puntos: sinEuroNCAP ? null : clamp10((input.estrellasEuroNCAP! / 5) * 10),
@@ -242,15 +251,19 @@ export function calcularNotaCosa(input: NotaCosaInput): NotaCosaResultado {
     garantia: (p) => (p >= 7 ? "garantía por encima de la media" : null),
     practicidad: (p) => (p >= 7 ? "muy práctico en el día a día" : p <= 3.5 ? "practicidad justa" : null),
   };
-  const destacados: string[] = [];
+  // Puntos fuertes (p >= 7) y débiles (p <= 3.5) por separado: «precio alto» nunca es un «destaca por».
+  const fuertes: string[] = [];
+  const debiles: string[] = [];
   for (const a of aportes) {
     const f = frases[a.clave]?.(a.puntos);
-    if (f && destacados.length < 2) destacados.push(f);
+    if (!f) continue;
+    if (a.puntos >= 7) {
+      if (fuertes.length < 2) fuertes.push(f);
+    } else if (debiles.length < 2) debiles.push(f);
   }
   let justificacion =
-    destacados.length > 0
-      ? `Destaca por ${destacados.join(" y ")}.`
-      : "Nota calculada con los datos verificados de la ficha.";
+    fuertes.length > 0 ? `Destaca por ${fuertes.join(" y ")}.` : "Nota calculada con los datos verificados de la ficha.";
+  if (debiles.length > 0) justificacion += ` En contra: ${debiles.join(" y ")}.`;
   if (sinEuroNCAP) {
     justificacion += " Sin test EuroNCAP verificado: no se ha penalizado por ello.";
   }

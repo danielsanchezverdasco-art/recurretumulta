@@ -103,8 +103,13 @@ const fmtEur2 = (v: number) =>
   v.toLocaleString("es-ES", { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + " €";
 
 // ── Mejora 3: ¿puede entrar en la ZBE de Madrid? (derivado de la etiqueta DGT) ──
+const sinTarifaEspana = (c: CocheComparador): boolean =>
+  PRECIO_ORIGEN[c.id] != null || c.precioDesde == null || c.aprox.includes("precioDesde");
 function textoZbe(c: CocheComparador): string {
   const nombre = `${c.marca} ${c.modelo}`;
+  if (c.etiquetaDgt && sinTarifaEspana(c)) {
+    return `Al ${nombre} le correspondería la etiqueta ${c.etiquetaDgt === "Cero" ? "CERO" : c.etiquetaDgt} por su motorización (criterios DGT), pero aún no tiene tarifa en España. Cuando se matricule aquí, revisa las restricciones de la ZBE de tu ciudad según esa etiqueta.`;
+  }
   switch (c.etiquetaDgt) {
     case "Cero":
       return `Sí, sin restricciones: el ${nombre} lleva etiqueta CERO, así que puede circular por toda la ZBE de Madrid —incluido el interior de la M-30 y la zona de especial protección de Distrito Centro— todos los días y a cualquier hora.`;
@@ -113,7 +118,9 @@ function textoZbe(c: CocheComparador): string {
     case "C":
       return `Con matices: el ${nombre} lleva etiqueta C. Puede circular por la ZBE de Madrid, pero NO puede entrar en la zona de especial protección de Distrito Centro (salvo excepciones como residentes o acceso a parkings), y en los escenarios anticontaminación los etiqueta C son los primeros en quedarse fuera.`;
     default:
-      return `El ${nombre} tiene etiqueta DGT «${c.etiquetaDgt || "no publicada"}»: revisa las restricciones de tu ZBE local antes de entrar, porque cada ciudad aplica sus propias reglas por etiqueta.`;
+      return c.etiquetaDgt
+        ? `El ${nombre} tiene etiqueta DGT «${c.etiquetaDgt}»: revisa las restricciones de tu ZBE local antes de entrar, porque cada ciudad aplica sus propias reglas por etiqueta.`
+        : `La etiqueta DGT del ${nombre} todavía no está publicada por una fuente fiable: la añadiremos en cuanto haya dato oficial.`;
   }
 }
 
@@ -324,16 +331,24 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
           ? `El volumen de maletero del ${nombre} no está publicado por una fuente fiable: lo añadiremos en cuanto haya dato oficial.`
           : `El ${nombre} ofrece ${fmtL(coche.maleteroL)} de maletero.`,
     },
-    {
-      q: `¿Qué etiqueta DGT lleva el ${nombre}?`,
-      a: `El ${nombre} tiene etiqueta DGT «${coche.etiquetaDgt}». ${
-        coche.etiquetaDgt === "Cero"
-          ? "Puede circular por todas las ZBE sin restricciones."
-          : coche.etiquetaDgt === "ECO"
-            ? "Puede circular por las ZBE, pero algunas ciudades con ZBE estrictas aplican restricciones a los ECO."
-            : "Revisa las restricciones de tu ZBE local, ya que con etiqueta C algunas ciudades restringen el acceso."
-      }`,
-    },
+    ...(coche.etiquetaDgt
+      ? [
+          {
+            q: `¿Qué etiqueta DGT lleva el ${nombre}?`,
+            a: sinTarifaEspana(coche)
+              ? `Al ${nombre} le correspondería la etiqueta ${coche.etiquetaDgt === "Cero" ? "CERO" : coche.etiquetaDgt} por su motorización (criterios DGT); aún no tiene tarifa oficial en España.`
+              : `El ${nombre} tiene etiqueta DGT «${coche.etiquetaDgt}». ${
+                  coche.etiquetaDgt === "Cero"
+                    ? "Puede circular por todas las ZBE sin restricciones."
+                    : coche.etiquetaDgt === "ECO"
+                      ? "Puede circular por las ZBE, pero algunas ciudades con ZBE estrictas aplican restricciones a los ECO."
+                      : coche.etiquetaDgt === "C"
+                        ? "Revisa las restricciones de tu ZBE local, ya que con etiqueta C algunas ciudades restringen el acceso."
+                        : "Revisa las restricciones de tu ZBE local antes de entrar."
+                }`,
+          },
+        ]
+      : []),
     {
       q: `¿Dónde puedo leer el análisis completo del ${nombre}?`,
       a: `En nuestro análisis de Novedades Motor, con ficha técnica, curiosidades, comparativa con rivales y vídeo. Pulsa «Leer el análisis completo» para abrirlo.`,
@@ -578,6 +593,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
           fichaId={coche.id}
           entrada={{
             precioEur: coche.precioDesde,
+            precioNoOficialEspana: sinTarifaEspana(coche),
             potenciaCv: coche.potenciaCv,
             consumoL100: coche.consumoUnidad === "l/100km" ? coche.consumo : null,
             consumoKwh100: coche.consumoUnidad === "kWh/100km" ? coche.consumo : null,
@@ -717,6 +733,13 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
                   {coche.aprox.includes("precioDesde") && "≈"}
                   {fmtPrecio(coche.precioDesde)}
                 </strong>
+                {!coche.aprox.includes("precioDesde") && PRECIO_ORIGEN[coche.id]?.pais && PRECIO_ORIGEN[coche.id]?.priceCurrency === "EUR" && (
+                  <>
+                    {" "}
+                    (precio oficial en {PRECIO_ORIGEN[coche.id]?.pais}
+                    {PRECIO_ORIGEN[coche.id]?.pais === "Alemania" ? ", IVA alemán 19 %" : ""}; sin tarifa en España)
+                  </>
+                )}
                 {coche.aprox.includes("precioDesde") && (
                   <>
                     {" "}
