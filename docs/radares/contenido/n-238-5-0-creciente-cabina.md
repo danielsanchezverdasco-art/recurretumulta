@@ -12,6 +12,14 @@
 
 El puesto de control se sitúa en el **pk 5,0 de la N-238** (provincia de Castellón, Comunitat Valenciana). Cubre el **sentido creciente**, el de quienes se desplazan hacia pk crecientes. El punto cae en el término municipal de **Vinaròs**, según el geocodificador oficial CartoCiudad (IGN/CNIG). A 6,5 km hacia el suroeste está el control más próximo, el de la **AP-7, pk 356,7** (sentido creciente).
 
+<iframe title="Mapa: radar n-238-5-0-creciente-cabina" src="https://www.google.com/maps?q=40.52268,0.44936&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-238-5-0-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.52268,0.44936&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La N-238 es una carretera nacional convencional que cruza la provincia de Castellón. La intensidad varía por franjas: mañanas laborables densas, tardes más fluidas. La comarca de paso se identifica con la costa de Castellón.
