@@ -8,7 +8,7 @@ export const ZONTES_552G_POSTS: BlogPost[] = [
   {
     "title": "Zontes 552G: 52 CV por la mitad que la Honda X-ADV",
     "slug": "zontes-552g-531cc-homologacion-china",
-    "excerpt": "La Zontes 552G, homologada en China: bicilíndrico de 531 cc y 51,7 CV por entre 6.000 y 8.000 €. Así reta a la Honda X-ADV.",
+    "excerpt": "La Zontes 552G ya está homologada en China: bicilíndrico de 531 cc y 51,7 CV por entre 6.000 y 8.000 €, la mitad que la Honda X-ADV.",
     "category": "Novedades Motor",
     "date": "2026-10-09",
     "readTime": 7,
