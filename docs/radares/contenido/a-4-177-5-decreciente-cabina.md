@@ -12,6 +12,15 @@
 
 Nos situamos en el **pk 177,5 de la A-4**, en plena provincia de Ciudad Real. Su ámbito es el **sentido decreciente**: la dirección en que los hitos kilométricos van decrecientes. La provincia —Ciudad Real— es la que la DGT asigna al punto en su campo administrativeArea; el municipio no se publica. El punto vigilado más cercano es el de la **CM-4124, pk 22,0** (sentido decreciente): queda a 10,8 km hacia el oeste. Le sigue en proximidad el de la **CM-4124, pk 8,0** (sentido creciente), situado a 21,2 km hacia el oeste. El paisaje circundante es el de la meseta sur: llano, abierto y con largas rectas que invitan a acelerar.
 
+<iframe title="Mapa: radar a-4-177-5-decreciente-cabina" src="https://www.google.com/maps?q=38.96896,-3.38267&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-4-177-5-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.96896,-3.38267&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 Es la A-4: la Autovía del Sur, que une Madrid con Andalucía. Por aquí discurre el tráfico interregional junto al de los desplazamientos cortos de la zona. La DGT vigila este tramo con un puesto estable por ser propenso a las velocidades elevadas. De los 8 controles que la DGT publica para la A-4 en la comunidad, este es el sexto por punto kilométrico. Siguiendo por la A-4, el próximo punto con vigilancia es el del pk 135,6 (sentido creciente), a 40,5 km hacia el norte. El mensaje de fondo: adaptar la velocidad al tramo es aquí especialmente importante. Para el conductor ocasional, la recomendación es sencilla: señales, prudencia y ritmo constante.
