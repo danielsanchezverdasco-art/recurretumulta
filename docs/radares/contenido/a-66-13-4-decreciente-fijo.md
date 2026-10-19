@@ -12,6 +12,14 @@
 
 El **pk 13,4 de la A-66**, en el Principado de Asturias, alberga un radar **fijo** que supervisa el **sentido decreciente**, designado por la DGT con destino **SERÍN**: la calzada septentrional, la del descenso hacia Gijón y el litoral. Comparte corredor con el equipo del pk 14,3, aunque en la calzada opuesta: aquel cubre la ascensión al interior y este, el retorno al mar.
 
+<iframe title="Mapa: radar a-66-13-4-decreciente-fijo" src="https://www.google.com/maps?q=43.4855,-5.7896&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-66-13-4-decreciente-fijo" src="https://maps.google.com/maps?q=&layer=c&cbll=43.4855,-5.7896&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 Puesto que los pk de la A-66 se incrementan hacia el sur, el sentido decreciente equivale al viaje de vuelta a la costa.
 
 ## La carretera
