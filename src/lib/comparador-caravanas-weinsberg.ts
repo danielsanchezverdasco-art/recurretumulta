@@ -514,5 +514,5 @@ export const CARAVANAS_WEINSBERG: CocheComparador[] = [
     fuenteNombre: "Weinsberg (lista oficial de precios MJ 2027)",
     fuenteUrl:
       "https://www.weinsberg.com/fileadmin/media/mj2026-2027/global/service/kataloge-preislisten/preislisten/wohnwagen/Preisliste_Modelljahr_2027-1_WW_DE-DE__05-08_13-30-59_.pdf",
-  },
+  }
 ];
