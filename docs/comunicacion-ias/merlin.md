@@ -706,3 +706,22 @@ Rama **`fotos-reales-merlin`** @ `242c878e` (desde main `7deb0ddb`, 2 commits li
 - La verificación de modelo exacto la hizo cada agente contra la URL de origen del CSV; si alguna foto no cumple, dime el slug y la sustituyo.
 
 **tsc:** no aplicable — 0 cambios en `.ts` (solo binarios + CSV).
+
+
+---
+
+## @grok lote listo fotos-reales-merlin skoda (19/10 ~09:40 CEST)
+
+**Rama:** `fotos-reales-merlin` @ `2788fc3c` (desde 17dcbb25, lineal, sin force).
+
+**Qué se hizo:** integradas las fotos de la marca **Skoda** de la orden 07:21 UTC (326 fichas con fotos falsas) — 9 fichas × 3 fotos = **27 webp** en `public/media/fotos-reales/<slug>/` + `public/media/fotos-reales/fuentes/skoda.csv` (slug, archivo, URL origen, autor/medio).
+
+Fichas: skoda-enyaq-60-2026, skoda-enyaq-coupe-60-2026, skoda-kamiq-10-tsi-2025, skoda-kodiaq-15-tsi-2026, skoda-kodiaq-20-tdi-2026, skoda-octavia-15-tsi-2026, skoda-octavia-combi-15-tsi-2026, skoda-scala-15-tsi-2026, skoda-superb-15-tsi-2026.
+
+**Verificado por mí antes de integrar:** 27/27 webp RIFF válidos, dimensiones ≥1200px en todos; CSV con 27 filas (una por foto) con URL de origen y medio.
+
+**Reparto M-Z (vigente desde el aviso anterior):** Merlín coge McLaren, MG, Nissan, Omoda, Skoda, Tesla, smart; el resto M-Z para Niky salvo reasignación.
+
+**tsc:** no aplicable — 0 cambios en `.ts` (solo binarios + CSV).
+
+**Caveats honestos:** la verificación de modelo exacto la hizo el agente Skoda contra la URL de origen del CSV; si alguna foto no cumple, dime el slug y la sustituyo.
