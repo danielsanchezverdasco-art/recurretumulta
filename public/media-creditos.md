@@ -822,3 +822,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/baojun-yunduo-2024-precio-ficha-tecnica-hunt1.webp | https://www.car250.com/wp-content/uploads/2023/05/Baojun-Yunduo-10.jpg | Car250.com | desconocida |
 | /media/baojun-yunduo-2024-precio-ficha-tecnica-hunt2.webp | https://www.car250.com/wp-content/uploads/2023/05/Baojun-Yunduo-11.webp | Car250.com | desconocida |
 | /media/baojun-yunduo-2024-precio-ficha-tecnica-hunt3.webp | https://img.hainaauto.com/vehicle/col_d2343949cabdf629.webp | Hainaauto | desconocida |
+| /media/leapmotor-c16-2026-precio-ficha-tecnica-hunt1.webp | https://www.carsales.com.au/editorial/details/2025-leapmotor-c16-family-suv-revealed-146595/ | Carsales | desconocida |
+| /media/leapmotor-c16-2026-precio-ficha-tecnica-hunt2.webp | https://chinskiesamochody.pl/strefa-wiedzy/leapmotor-c16-napedy-wyposazenie-cena | ChinskieSamochody.pl | desconocida |
+| /media/leapmotor-c16-2026-precio-ficha-tecnica-hunt3.webp | https://autobuy.com.co/author/auto-buy/page/17/?page=31&sort_by=recent&view_type=list | Autobuy | desconocida |
+| /media/leapmotor-c11-2026-precio-ficha-tecnica-hunt1.webp | https://ev.motorwatt.com/media/djcatalog2/images/item/19/leapmotor-c11-2026_f.jpg | motorwatt | desconocida |
+| /media/leapmotor-c11-2026-precio-ficha-tecnica-hunt2.webp | https://wcevcar.com/static/upfiles/202507/687080f054cb1.webp | wcevcar (Wancheng EV Car) | desconocida |
+| /media/leapmotor-c11-2026-precio-ficha-tecnica-hunt3.webp | https://wcevcar.com/static/upfiles/202507/6870830dc1965.webp | wcevcar (Wancheng EV Car) | desconocida |
+| /media/honda-gold-wing-2025-ficha-tecnica-precio-hunt1.webp | https://ridermagazine.com/wp-content/uploads/2025/02/25-Honda-Gold-Wing-Tour-DCT_Light-Silver-Metallic_RF34.jpg | Rider Magazine | desconocida |
+| /media/honda-gold-wing-2025-ficha-tecnica-precio-hunt2.webp | https://www.cyclenews.com/wp-content/uploads/2025/02/2025-Honda-Gold-Wing-front-view.jpg | Cycle News | desconocida |
+| /media/honda-gold-wing-2025-ficha-tecnica-precio-hunt3.webp | https://bikmantech.com/ar/blogs/blogs/honda-gold-wing-tour-2025-50-years-of-touring-mastery | bikmantech.com | desconocida |
+| /media/pure-escape-ultra-max-hunt1.webp | https://pureelectric.com.br/cdn/shop/files/pure-scooter-escape-ultra-max-suspension-1227423803.jpg?v=1780058298&width=1024 | Pure Electric (web oficial) | desconocida |
+| /media/pure-escape-ultra-max-hunt2.webp | https://imagecontent.netonnet.com/n0e6ajgmrw5w/4fcgz4yegEFCFpAKUu2vl7/ebf61c385ab7bb1711f833567b5056e2/ESCAPE_ULTRA_MAX_SUSPENSION_Hero.jpg | NetOnNet | desconocida |
+| /media/pure-escape-ultra-max-hunt3.webp | https://cdn.expert.de/23/04/8a/7d80538b8191e290b4f3ff9143cbcb9b27/Abbildung_2590380.png.png | Expert.de | desconocida |
+| /media/roewe-i5-2024-precio-ficha-tecnica-hunt1.webp | https://www.bitauto.com/en-sa/news/100185304433.html | Bitauto | desconocida |
+| /media/roewe-i5-2024-precio-ficha-tecnica-hunt2.webp | https://www.vehicle-autos.com/sale-50915422-2024-roewe-i5-sedan-1-5l-cvt-turbo-engine-left-steering-euro-vi-emission-standard-within-2500-3000mm.html | Vehicle-Autos | desconocida |
+| /media/roewe-i5-2024-precio-ficha-tecnica-hunt3.webp | https://portaltele.com.ua/news/transport/vipushhenij-sedan-roewe-i5-honor-edition-2024-roku.html | Portaltele | desconocida |
+| /media/leapmotor-d19-erev-2026-precio-ficha-tecnica-hunt1.webp | https://carnewschina.com/2026/04/16/the-leapmotor-d19-launched-in-china-with-the-worlds-largest-erev-battery/ | CarNewsChina | desconocida |
+| /media/leapmotor-d19-erev-2026-precio-ficha-tecnica-hunt2.webp | https://www.car250.com/leapmotor-d19-erev-2026-1.html | Car250 | desconocida |
+| /media/leapmotor-d19-erev-2026-precio-ficha-tecnica-hunt3.webp | https://e-drivers.com/leapmotor-d19-nieuwe-triple-motor/ | E-drivers | desconocida |
+| /media/beijing-bj40e-2025-precio-ficha-tecnica-hunt1.webp | https://www.autohaina.com/vehicles/beijing-auto-bj40-2025-ok6j0khm01 | Autohaina | desconocida |
+| /media/beijing-bj40e-2025-precio-ficha-tecnica-hunt2.webp | https://avitqahu.ru/katalog-avto/60433-ramnyj-vnedorozhnik-baic-bj40-vtorogo-pokolenija-stal-gibridom-s-dvumja-jelektromotorami-baic.html | Avitqahu.ru | desconocida |
+| /media/beijing-bj40e-2025-precio-ficha-tecnica-hunt3.webp | https://bex-auto.md/auction-china/20188 | Bex-Auto | desconocida |
+| /media/honda-msx125-grom-2025-ficha-tecnica-precio-hunt1.webp | https://moto.honda.fr/motorcycles/range/125cc/msx125/overview.html | Honda France (moto.honda.fr) | desconocida |
+| /media/honda-msx125-grom-2025-ficha-tecnica-precio-hunt2.webp | https://nimes.honda-motos.com/moto-neuve/125-cm3/msx125-2025 | Honda Nimes (concesionario oficial) | desconocida |
+| /media/honda-msx125-grom-2025-ficha-tecnica-precio-hunt3.webp | http://nieuwsmotor.nl/nieuws/persberichten/honda-presenteert-2025-msx-125-grom/ | Nieuwsmotor.nl | desconocida |
