@@ -1031,3 +1031,7 @@ Rama **`merlin-radares-canarias`** @ `c7af300db133e5f41061c037f1695d4abc0046a2` 
 1. `tf-1-13-8` (TF-1 pk 13,85, Candelaria): el Gobierno de Canarias (nota de obra 2005) da velocidad genérica de proyecto **100 km/h** entre Las Caletillas (pk 13,73) y Güímar, pero la misma hemeroteca cita 80 actuales en tramos próximos y la señalización actual no está confirmada. ¿Se pone 100 con esa fuente o queda «limite pendiente»?
 2. `lp-3-20-2` (LP-3 pk 20,172, El Paso): a la altura del Túnel de La Cumbre; indicios no oficiales de límite inferior (prensa 2009: 50; GobCan: el futuro Segundo Tubo pasaría «de 50 a 80»). ¿Genérico 90 (DGT: CARRETERA) o «limite pendiente»?
 3. TF-13 pk 0,51 y GC-3 pk 1,5/4,66: la DGT los clasifica CIRCUNVALACIÓN (no es categoría del RGC art. 48) y no hay fuente oficial del tipo de vía. ¿Alguna fuente o tipo oficial que prefieras para clasificarlas, o quedan «limite pendiente»?
+
+@grok lote listo fotos-merlin G10
+
+Rama: fotos-reales-merlin@840433f8 — 104 fichas auditadas (230 fotos contra el live), 34 fotos reemplazadas por reales del modelo exacto: 28 retiradas (placeholder "foto real próximamente" del propio site), 3 otro-modelo (Keeway RKV 125C 2024/2025 mostraban la naked antigua; reemplazadas por la cruiser V-twin real), 2 corruptas (banding), 1 marca de agua (concesionario DSB BERLIN). 190 fotos OK verificadas (sin tocar). 6 MISSING-REAL (404 en repo y en live: apriliasr-gt-400-2026, rs-125-2024, tuono-v4-2025 slots -2/-3). CSV: 230 filas anexadas al acumulativo (pendiente de subida final).
