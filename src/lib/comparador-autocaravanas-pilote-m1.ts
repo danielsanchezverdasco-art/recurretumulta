@@ -142,7 +142,7 @@ export const AUTOCARAVANAS_PILOTE_M1: Autocaravana[] = [
     imagenOficial:
       "/media/pilote-g740fgj-evidence-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/pilote-g740fgj-evidence-2026-precio-ficha-tecnica-oficial-interior.webp",
+      "/media/pilote-g740fgj-evidence-2026-precio-ficha-tecnica-oficial-interior2.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 7560,
@@ -199,6 +199,18 @@ export const AUTOCARAVANAS_PILOTE_M1: Autocaravana[] = [
         alt: "Dormitorio de camas gemelas de la integral Pilote ÉVIDENCE (foto oficial de la serie)",
         ancho: 1024,
         alto: 683,
+      },
+      {
+        src: "/media/pilote-g740fgj-evidence-2026-precio-ficha-tecnica-oficial-interior2.webp",
+        alt: "Salón face-face del Pilote G740FGJ ÉVIDENCE (foto oficial)",
+        ancho: 768,
+        alto: 512,
+      },
+      {
+        src: "/media/pilote-g740fgj-evidence-2026-precio-ficha-tecnica-oficial-interior3.webp",
+        alt: "Dormitorio de camas gemelas del Pilote G740FGJ ÉVIDENCE (foto oficial)",
+        ancho: 735,
+        alto: 512,
       },
     ],
     descripcion: `La serie Evidence de Pilote nace de una observación tan simple como acertada: la mayoría de los compradores de una integral acaba pidiendo los mismos extras —batería de litio grande, panel solar, inversor potente, calefacción diésel—, así que la marca francesa los ha metido todos de serie en una edición «lista para partir» y se ha ahorrado al cliente la peregrinación por la lista de opcionales. El G740FGJ Evidence es la materialización de esa idea en formato integral de 7,56 metros: un vehículo que sale del concesionario preparado para la autonomía real, no para volver al taller a equiparlo. Y es una integral de verdad, con frontal de una sola pieza y parabrisas panorámico, no una perfilada disfrazada.

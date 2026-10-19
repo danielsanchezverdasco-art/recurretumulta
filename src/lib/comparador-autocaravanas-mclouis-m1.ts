@@ -37,7 +37,7 @@ export const AUTOCARAVANAS_MCLOUIS_M1: Autocaravana[] = [
     imagen: "/media/mclouis-mc4-231-2026-precio-ficha-tecnica-oficial.webp",
     imagenOficial: "/media/mclouis-mc4-231-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/mclouis-mc4-231-2026-precio-ficha-tecnica-interior.webp",
+      "/media/mclouis-mc4-231-2026-precio-ficha-tecnica-oficial-interior.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 5990, // catálogo oficial 2022
@@ -97,6 +97,12 @@ export const AUTOCARAVANAS_MCLOUIS_M1: Autocaravana[] = [
         alt: "McLouis MC4 231, vista tres cuartos delantera (foto oficial de prensa McLouis)",
         ancho: 1200,
         alto: 800,
+      },
+      {
+        src: "/media/mclouis-mc4-231-2026-precio-ficha-tecnica-oficial-interior.webp",
+        alt: "Salón-comedor del McLouis MC4 231 (foto oficial de la galería del modelo en mclouis.com)",
+        ancho: 600,
+        alto: 400,
       },
       {
         src: "/media/mclouis-mc4-231-2026-precio-ficha-tecnica-ext.webp",
