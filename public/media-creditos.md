@@ -894,3 +894,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/seat-ateca-15-tsi-2026-precio-ficha-tecnica-hunt1.webp | https://motoryviajes.com/wp-content/uploads/2026/06/Seat_Ateca_1.5-TSI-150-cv_FR_junio_2026_01.jpg | Motor y Viajes (prueba SEAT Ateca FR 2026 1.5 TSI DSG) | desconocida |
 | /media/seat-ateca-15-tsi-2026-precio-ficha-tecnica-hunt2.webp | https://www.coches.net/km-0/seat/ateca/vizcaya/nuevo-15-tsi-110kw-150cv-stsp-fr-2026-gasolina-71366801-nuvn.aspx | coches.net (anuncio de concesionario, Ateca 2026 1.5 TSI) | desconocida |
 | /media/seat-ateca-15-tsi-2026-precio-ficha-tecnica-hunt3.webp | https://www.actualidadmotor.com/wp-content/uploads/2026/02/Seat-Ateca-FR-2026_2.jpeg | Actualidad Motor (prensa del motor) | desconocida |
+| /media/bestune-b70-2026-precio-ficha-tecnica-hunt1.webp | https://autogaleria.pl/content/uploads/2025/03/Bestune-B70-16.jpg | autogaleria.pl (galería Bestune B70) | desconocida |
+| /media/bestune-b70-2026-precio-ficha-tecnica-hunt2.webp | https://motofilm.pl/wp-content/uploads/2026/02/bestune-b70-tyl-768x452.jpeg | motofilm.pl | desconocida |
+| /media/bestune-b70-2026-precio-ficha-tecnica-hunt3.webp | https://aws.autonotizen.de/fahrberichte/faw-bestune-b70-test-fahrt-video-b70s-2026 | autonotizen.de (prueba FAW Bestune B70 2026) | desconocida |
+| /media/apollo-phantom-stellar-hunt1.webp | https://apolloscooters.co/cdn/shop/files/A11_Mkt_01102024_16.png | Apollo Scooters (web oficial, producto Phantom 2.0 Stellar) | desconocida |
+| /media/apollo-phantom-stellar-hunt2.webp | https://escooternerds.com/wp-content/uploads/Apollo-Phantom.webp | eScooterNerds (blog de patinetes) | desconocida |
+| /media/apollo-phantom-stellar-hunt3.webp | https://apolloscooters.ca/cdn/shop/files/Group_1005_1.png | Apollo Scooters Canadá (web oficial) | desconocida |
+| /media/suzuki-v-strom-650-2025-ficha-tecnica-precio-hunt1.webp | https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/dl650xaa_vstrom650xtadv/2025/gallery/dl650xam4_yvb_diagonal_2400x1600.png | Suzuki (web oficial, galería 2025 V-Strom 650XT Adventure) | desconocida |
+| /media/suzuki-v-strom-650-2025-ficha-tecnica-precio-hunt2.webp | https://www.cyclenews.com/wp-content/uploads/2024/09/2025-Suzuki-V-Strom-650XT-1024x683.jpg | Cycle News (prensa de motos) | desconocida |
+| /media/suzuki-v-strom-650-2025-ficha-tecnica-precio-hunt3.webp | https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/dl650a_vstrom650/2025/color-gallery-images/dl650am4_yvb_right_2400x1500.png | Suzuki (web oficial, galería de colores 2025) | desconocida |
+| /media/ligier-myli-l7e-2025-precio-ficha-tecnica-hunt1.webp | https://voltandgo.com/wp-content/uploads/2025/03/ligier-myli-epic-noir-trois-quart-face-droit.webp | VoltandGo (distribuidor Ligier) | desconocida |
+| /media/ligier-myli-l7e-2025-precio-ficha-tecnica-hunt2.webp | https://e-motorspacific.com/wp-content/uploads/2025/07/Ligier-L7e-Image-produit.jpg | E-Motor Pacific (distribuidor, imagen de producto L7e) | desconocida |
+| /media/ligier-myli-l7e-2025-precio-ficha-tecnica-hunt3.webp | https://www.ligiergroup.ee/assets/img/myli/MAX/09_Myli_MAX_GraphiteDashboard.jpg | Ligier Group Estonia (distribuidor oficial) | desconocida |
+| /media/ligier-myli-max-confort-2026-precio-ficha-tecnica-hunt1.webp | https://pica.ligier.it/myli-max/ | Concesionario oficial Ligier (Italia) | desconocida |
+| /media/ligier-myli-max-confort-2026-precio-ficha-tecnica-hunt2.webp | https://www.newsauto.it/notizie/ligier-myli-quadriciclo-leggero-elettrico-diesel-prezzi-2026-602689/ | Newsauto.it | desconocida |
+| /media/ligier-myli-max-confort-2026-precio-ficha-tecnica-hunt3.webp | https://www.ligiergroup.ee/ | Ligier Group (distribuidor oficial Estonia) | desconocida |
+| /media/bestune-t90-2026-precio-ficha-tecnica-hunt1.webp | https://imagecdnsa.zigwheels.ae/large/gallery/exterior/99/2088/bestune-t90-rear-angle-view-310766.jpg | ZigWheels | desconocida |
+| /media/bestune-t90-2026-precio-ficha-tecnica-hunt2.webp | https://bestuneplichta.pl/wp-content/uploads/2026/02/Bestune_T90-9-converted-1024x576.webp | Bestune Plichta (concesionario oficial) | desconocida |
+| /media/bestune-t90-2026-precio-ficha-tecnica-hunt3.webp | https://kolesa-uploads.ru/r/880x/828f26f7-078d-48dc-a349-63ca8f39bcfa/3-bestune-t90-exterior-159-result.jpg.webp | Kolesa.ru | desconocida |
+| /media/ligier-myli-max-confort-l7e-2026-precio-ficha-tecnica-hunt1.webp | https://s3.ligier.fr/ligier-prod/uploads/2026/05/myli-max-L7e-header-1920px.webp | Ligier (prensa oficial) | desconocida |
+| /media/ligier-myli-max-confort-l7e-2026-precio-ficha-tecnica-hunt2.webp | https://www.patentati.it/blog/foto-hd/ligier-myli-2026-max.jpg | Patentati.it | desconocida |
+| /media/ligier-myli-max-confort-l7e-2026-precio-ficha-tecnica-hunt3.webp | https://www.ligiergroup.ee/assets/img/myli/MAX/09_Myli_MAX_GraphiteDashboard.jpg | Ligier Group | desconocida |
+| /media/bestune-t55-2025-precio-ficha-tecnica-hunt1.webp | https://www.masmotors.ru/resources/models/483/photo_exterior/FAW-Bestune-T55-ext-3_1280x960.webp | MASMOTORS (concesionario) | desconocida |
+| /media/bestune-t55-2025-precio-ficha-tecnica-hunt2.webp | https://data.favorit-motors.ru/upload/iblock/620/62093abc7ead7ae822fe6cc2e96b05d4.jpg | Favorit Motors (concesionario) | desconocida |
+| /media/bestune-t55-2025-precio-ficha-tecnica-hunt3.webp | https://www.masmotors.ru/resources/models/483/photo_interior/FAW-Bestune-T55-int-3_1280x960.webp | MASMOTORS (concesionario) | desconocida |
