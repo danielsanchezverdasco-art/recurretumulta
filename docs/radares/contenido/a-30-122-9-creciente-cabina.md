@@ -12,6 +12,15 @@
 
 Circulando por la A-30 hacia Cartagena, el pk 122,9 marca el punto donde esta cabina vigila el sentido creciente: el de quienes avanzan hacia pk cada vez mayores. El radar queda en el término municipal de Lorquí (Murcia), coordenadas 38.11197, -1.2394468. El enlace de Street View muestra el lugar tal como lo ve el conductor.
 
+<iframe title="Mapa: radar a-30-122-9-creciente-cabina" src="https://www.google.com/maps?q=38.11197,-1.2394468&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-30-122-9-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.11197,-1.2394468&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La vía es la Autovía de Murcia, autovía de titularidad estatal que comunica Albacete con la ciudad de Cartagena. Como el resto de autovías, está sujeta al régimen genérico de velocidad aplicable a las autovías. La fuente oficial de la DGT no ofrece ningún detalle sobre las condiciones de este tramo concreto, así que la ficha no le adjudica características propias.
