@@ -1280,3 +1280,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/cupra-leon-2025-precio-ficha-tecnica-hunt1.webp | https://www.cupraoficial.mx/content/dam/countries/mx/cupra-website/homepage/three-card-hightlights/cupra-leon-2025.jpg | Cupra | desconocida (imagen oficial de prensa del fabricante) |
 | /media/cupra-leon-2025-precio-ficha-tecnica-hunt2.webp | https://www.autosactual.mx/wp-content/uploads/2025/01/cupra-leon-2025-mexico-02-900x603.jpg | AutosActual.mx | desconocida |
 | /media/cupra-leon-2025-precio-ficha-tecnica-hunt3.webp | https://cms-assets.autoscout24.com/uaddx06iwzdz/4Z89zB5TerNkAEsSr0lK90/cb17e5e5091ef8f457db7fe2a19afe10/Cupra_Leon-2025__7_.jpg?w=768 | AutoScout24 | desconocida |
+| /media/beta-rr-4t-125-r-2025-ficha-tecnica-precio-hunt1.webp | https://www.betafabian.cz/Uploads/FocusPoint/5860653808b840a9993ede33aeee7f20.jpg | Beta Fabian (concesionario oficial Beta) | desconocida |
+| /media/beta-rr-4t-125-r-2025-ficha-tecnica-precio-hunt2.webp | https://www.motodream.ch/product/21767260/beta-rr-enduro-125-r | MotoDream (distribuidor Beta) | desconocida |
+| /media/beta-rr-4t-125-r-2025-ficha-tecnica-precio-hunt3.webp | https://www.betamotor.com/wp-content/uploads/2025/12/Betamotor-Young-Enduro-125-RR-125-R-4T-media-slider-1920x1280-03.jpg | Beta Motor (web oficial) | desconocida |
+| /media/ajp-pr5-250-extreme-2025-ficha-tecnica-precio-hunt1.webp | https://www.motofichas.com/images/cache/01-ajp-pr5-250-enduro-extreme-2018-perfil-739-a.jpg | motofichas.com | desconocida |
+| /media/ajp-pr5-250-extreme-2025-ficha-tecnica-precio-hunt2.webp | https://img2.stcrm.it/images/17788754/HOR_STD/1000x/ajp-pr5-extreme-250-2019-14.jpg | AutoScout24 (stcrm.it) | desconocida |
+| /media/ajp-pr5-250-extreme-2025-ficha-tecnica-precio-hunt3.webp | https://img1.stcrm.it/images/17788739/HOR_STD/1000x/ajp-pr5-extreme-250-2019-02.jpg | AutoScout24 (stcrm.it) | desconocida |
+| /media/dualtron-aminia-hunt1.webp | https://www.maxblinker.com/img/cms/Produkty/Dualtron-Aminia/dt-aminia-5.jpg | Maxblinker (tienda oficial Dualtron) | desconocida |
+| /media/dualtron-aminia-hunt2.webp | https://www.voltride.cz/img/cms/Produkty/Dualtron-Aminia/dt-aminia-1.jpg | Voltride (distribuidor Dualtron) | desconocida |
+| /media/dualtron-aminia-hunt3.webp | https://trotinetesportugal.com/wp-content/uploads/2024/09/dualtron-aminia-special-07.jpg | Trotinete Portugal (distribuidor Dualtron) | desconocida |
+| /media/ligier-js50-ultimate-2026-precio-ficha-tecnica-hunt1.webp | https://cdn.impel.io/swipetospin-viewers/pauldevries/vjrb3de3a64003995/20251009182812.4HRVJECN/ec/0-102.jpg | Ligier Store Doesburg (anuncio de stock) | desconocida |
+| /media/ligier-js50-ultimate-2026-precio-ficha-tecnica-hunt2.webp | https://cdn.impel.io/swipetospin-viewers/pauldevries/vjrb3de3a64003995/20251009182812.4HRVJECN/ec/0-10.jpg | Ligier Store Doesburg (anuncio de stock) | desconocida |
+| /media/ligier-js50-ultimate-2026-precio-ficha-tecnica-hunt3.webp | https://unimotor.es/wp-content/uploads/2026/04/IMG_6352-2048x1152.jpeg | Unimotor (anuncio de ocasión) | desconocida |
+| /media/citroen-e-c5-aircross-2025-precio-ficha-tecnica-hunt1.webp | https://www.motorone.gr/wp-content/uploads/2025/11/Citroen-C5-Aircross-BEV-2025-3-1920x760.jpg | MotorOne.gr | desconocida |
+| /media/citroen-e-c5-aircross-2025-precio-ficha-tecnica-hunt2.webp | https://sale.citroen.bg/f/cars/th1/4/142e533d0883bab14ef3fe087563c8f6.jpeg | Citroën Bulgaria (web oficial de ventas) | desconocida |
+| /media/citroen-e-c5-aircross-2025-precio-ficha-tecnica-hunt3.webp | https://www.electricdrive.cz/wp-content/uploads/2025/11/2959488-mdaw0o2mkx-whr.jpg | electricdrive.cz | desconocida |
+| /media/dacia-sandero-stepway-eco-g-100-2026-precio-ficha-tecnica-hunt1.webp | https://www.autofun.ro/dacia-bigster-vs-kona-frontera-karoq-cine-castiga/ | desconocida |  |
+| /media/dacia-sandero-stepway-eco-g-100-2026-precio-ficha-tecnica-hunt2.webp | https://dacia.autoalegre.pt/modelos/ | Dacia Auto Alegre (concesionario oficial Dacia Portugal) | desconocida |
+| /media/dacia-sandero-stepway-eco-g-100-2026-precio-ficha-tecnica-hunt3.webp | https://risbelmagazine.es/motor/coche-nuevo-mas-barato-espana-2026-dacia-sandero/ | Risbel Magazine | desconocida |
+| /media/dacia-bigster-tce-130-4x4-2025-precio-ficha-tecnica-hunt1.webp | https://carwow-es-wp-2.imgix.net/Dacia-Bigster-2025-Front_Three-Quarter.051a1225-scaled.jpg?auto=format&cs=tinysrgb&fit=clip&ixlib=rb-1.1.0&q=10&w=1600 | Carwow España | desconocida |
+| /media/dacia-bigster-tce-130-4x4-2025-precio-ficha-tecnica-hunt2.webp | https://www.actualidadmotor.com/wp-content/uploads/2024/10/dacia-bigster-1.jpg | Actualidad Motor | desconocida |
+| /media/dacia-bigster-tce-130-4x4-2025-precio-ficha-tecnica-hunt3.webp | https://www.autobics.com/wp-content/uploads/2024/10/Dacia-Bigster-HYBRID-155-Interior.jpg | Autobics | desconocida |
+| /media/roller-team-zefiro-696-2026-hunt1.webp | https://www.rollerteammotorhomes.co.uk/wp-content/uploads/sites/4/2024/10/Zefiro696_009_SB_2232-scaled-e1782219449460-1024x434.jpg | Roller Team UK (web oficial) | desconocida |
+| /media/roller-team-zefiro-696-2026-hunt2.webp | https://www.rollerteammotorhomes.co.uk/wp-content/uploads/sites/4/2024/05/Zefiro696_049_SB_2589-1536x1025.jpg | Roller Team UK (web oficial) | desconocida |
+| /media/roller-team-zefiro-696-2026-hunt3.webp | https://www.rollerteammotorhomes.co.uk/wp-content/uploads/sites/4/2024/05/Zefiro696_055_SB_2598-1536x1024.jpg | Roller Team UK (web oficial) | desconocida |
