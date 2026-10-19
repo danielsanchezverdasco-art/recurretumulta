@@ -12,6 +12,15 @@
 
 Este punto de control se sitúa en el **pk 29,2 de la CM-420** (provincia de Ciudad Real, Castilla-La Mancha). Cubre el **sentido creciente** —los conductores que se desplazan hacia pk crecientes—. Ciudad Real es la provincia que figura en el fichero de la DGT para este punto; el término municipal concreto no se difunde. A 1,6 km hacia el norte está el control más próximo, el de la **A-4, pk 135,6** (sentido creciente). El siguiente punto por cercanía es el de la **N-401, pk 150,2** (sentido creciente), a 23,4 km hacia el oeste. Es un punto donde la monotonía del recorrido juega en contra de la atención del conductor.
 
+<iframe title="Mapa: radar cm-420-29-2-creciente-cabina" src="https://www.google.com/maps?q=39.31168,-3.47672&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cm-420-29-2-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.31168,-3.47672&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La CM-420 forma parte de la red autonómica de Castilla-La Mancha, en la provincia de Ciudad Real. La carretera autonómica soporta a diario una corriente circulatoria heterogénea, con pesados y ligeros compartiendo calzada. Este emplazamiento se eligió por ser un sector donde conviene recordar el máximo permitido. La CM-420 cuenta con un único punto de control publicado en la comunidad: este. Es el único control de la DGT publicado para la CM-420 en Castilla-La Mancha. Circular por ella exige adaptar la marcha a cada circunstancia, más allá del límite genérico. Para el conductor ocasional, la recomendación es sencilla: señales, prudencia y ritmo constante.
