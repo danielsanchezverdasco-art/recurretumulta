@@ -340,3 +340,30 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/jac-e40x-2025-precio-ficha-tecnica-hunt2.webp | https://jacelectricos.com.co/automovil/e40x/ | JAC Eléctricos Colombia | desconocida |
 | /media/jac-e40x-2025-precio-ficha-tecnica-hunt3.webp | https://jacelectricos.com.co/automovil/e40x/ | JAC Eléctricos Colombia | desconocida |
 | /media/audi-a3-sedan-2025-hunt1.webp | http://www.mcondepremium.com/mcondepremium/uploads/new-vehicles/info/407.jpg | M. Conde Premium (concesionario Audi) | desconocida |
+| /media/lambretta-x125-2025-ficha-tecnica-precio-hunt1.webp | https://www.1000ps.com/en-us/model/11470/lambretta-x125 | 1000PS (ficha modelo Lambretta X125 2025) | desconocida |
+| /media/lambretta-x125-2025-ficha-tecnica-precio-hunt2.webp | https://www.theuth.co/lambotta-puts-its-iconic-x125-now-available-for-4999-euros/12000/ | TheUth | desconocida |
+| /media/lambretta-x125-2025-ficha-tecnica-precio-hunt3.webp | https://motociclismoyrocknroll.com/2025/08/04/lambretta-lanza-una-promocion-especial-para-su-x125/ | SoyMotero (promoción oficial Lambretta X125) | desconocida |
+
+## photo-hunt (19/10/2026) — uploader-2
+| /media/porsche-911-carrera-gts-2026-precio-ficha-tecnica-hunt1.webp | https://warrington.porsche.com/en/inventory/porsche/porsche-911-carrera-gts-new-W3RQ5Q | Porsche Finder (concesionario Porsche Warrington) | desconocida |
+| /media/porsche-911-carrera-gts-2026-precio-ficha-tecnica-hunt2.webp | https://finder.porsche.com/us/en-US/details/porsche-911-carrera-gts-new-38MRKW | Porsche Finder | desconocida |
+| /media/porsche-911-carrera-gts-2026-precio-ficha-tecnica-hunt3.webp | https://gtacars.ae/gta-showrooms/2026-porsche-911-carrera-gts-t-hybrid-brand-new-aerokit-carbon-2028-porsche-warranty-gcc/ | GTA Cars UAE (anuncio 2026 Porsche 911 Carrera GTS T-Hybrid) | desconocida |
+| /media/aion-s-max-2024-precio-ficha-tecnica-hunt1.webp | https://politiki.net.ua/wp-content/uploads/gac-aion-s-max-ocherednoj-restajling-nemolodogo-no-ochen-populjarnogo-elektrosedana-avto-novosti-75fb9a8.jpg | Politiki.net.ua (medio) | desconocida |
+| /media/aion-s-max-2024-precio-ficha-tecnica-hunt2.webp | https://img4.pcauto.com.cn/pcauto/images/pcauto_admin/20250309/24859483.jpg | PCAuto (blog del motor) | desconocida |
+| /media/aion-s-max-2024-precio-ficha-tecnica-hunt3.webp | https://images.dailyrevs.com/0000/v3/GAC%20Motor/65489eeeced5d867aa3f13fd/2024-aion-s-max-gac-motor-c3eym0z70vswpax6e.jpeg | DailyRevs (medio) | desconocida |
+| /media/jac-js4-2025-precio-ficha-tecnica-hunt1.webp | https://jaclibya.com/wp-content/uploads/2024/08/js4image7.webp | JAC Motors Libya (distribuidor oficial JAC) | desconocida |
+| /media/jac-js4-2025-precio-ficha-tecnica-hunt2.webp | https://jacen.jac.com.cn/_nuxt/img/2@2x.d604a59.jpg | JAC Motors (web oficial jacen.jac.com.cn) | desconocida |
+| /media/jac-js4-2025-precio-ficha-tecnica-hunt3.webp | https://jacuae.com/en/wp-content/uploads/2025/11/js4-2.jpg | JAC UAE (distribuidor oficial JAC) | desconocida |
+| /media/porsche-911-turbo-s-2026-precio-ficha-tecnica-hunt1.webp | https://www.stuttcars.com/wp-content/uploads/2025/07/323144_1920x1278.jpg | Stuttcars (blog Porsche) | desconocida |
+| /media/porsche-911-turbo-s-2026-precio-ficha-tecnica-hunt2.webp | https://www.stuttcars.com/wp-content/uploads/2025/07/911-Turbo-S-Coupe-Oak-Green-Metallic-Neo-4-scaled.jpg | Stuttcars (blog Porsche) | desconocida |
+| /media/porsche-911-turbo-s-2026-precio-ficha-tecnica-hunt3.webp | https://www.stuttcars.com/wp-content/uploads/2025/07/323147_1920x1280.jpg | Stuttcars (blog Porsche) | desconocida |
+| /media/aion-s-plus-2024-precio-ficha-tecnica-hunt1.webp | https://gogetcar.ru/catalog/legkovye/gac/aion_s_plus/ | GoGetCar (catálogo) | desconocida |
+| /media/aion-s-plus-2024-precio-ficha-tecnica-hunt2.webp | https://wetocar.ru/models/aion/s-plus | WetoCar (catálogo) | desconocida |
+| /media/aion-s-plus-2024-precio-ficha-tecnica-hunt3.webp | https://micaro.kr/ru/china/aion/s-plus/56365978?currency=cny | micaro.kr (anuncio) | desconocida |
+| /media/jac-j7-2025-precio-ficha-tecnica-hunt1.webp | https://ligamotors52.ru/auto/new/china/jac/v-nalichii/jac-j7-luxury-2025-sinij-2025-6100/ | Ligamotors52 (anuncio) | desconocida |
+| /media/jac-j7-2025-precio-ficha-tecnica-hunt2.webp | https://autohousespb.ru/auto/new/china/jac/in-stock/jac-j7-luxury-2025-krasnyij-2025-6141/ | Autohousespb (anuncio) | desconocida |
+| /media/jac-j7-2025-precio-ficha-tecnica-hunt3.webp | https://cars.alghafat.com/cars/jac-j7-2023-1002881 | alghafat.com (anuncio) | desconocida |
+| /media/porsche-911-gt3-2026-precio-ficha-tecnica-hunt1.webp | http://carbuzz.com/cars/porsche/911-gt3/2026/photos-exterior/ | CarBuzz (fotos oficiales de prensa Porsche) | desconocida |
+| /media/porsche-911-gt3-2026-precio-ficha-tecnica-hunt2.webp | http://carbuzz.com/cars/porsche/911-gt3/2026/photos-exterior/ | CarBuzz (fotos oficiales de prensa Porsche) | desconocida |
+| /media/porsche-911-gt3-2026-precio-ficha-tecnica-hunt3.webp | http://carbuzz.com/cars/porsche/911-gt3/2026/photos-exterior/ | CarBuzz (fotos oficiales de prensa Porsche) | desconocida |
+| /media/dacia-lodgy-2025-hunt1.webp | https://autotest.com.ar/wp-content/uploads/2020/12/RENAULT-LODGY-1024x631.jpg | autotest.com.ar (prensa del motor) | desconocida |
