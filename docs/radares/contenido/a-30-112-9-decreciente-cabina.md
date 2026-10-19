@@ -12,6 +12,15 @@
 
 Este radar se encuentra en la A-30, punto kilométrico 112,9, municipio de Ulea (Murcia): coordenadas 38.176327, -1.3138161. Controla el sentido decreciente, el flujo que avanza hacia pk inferiores, rumbo a Albacete. Quien lo desee puede examinar el emplazamiento en Street View con el enlace de la ficha.
 
+<iframe title="Mapa: radar a-30-112-9-decreciente-cabina" src="https://www.google.com/maps?q=38.176327,-1.3138161&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-30-112-9-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.176327,-1.3138161&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La A-30, Autovía de Murcia, es una vía estatal que conecta Albacete con Cartagena. Como autovía, le corresponde el régimen general de las vías de alta capacidad. El XML de la DGT no describe el tramo concreto: aquí no se le atribuye ningún rasgo particular.
