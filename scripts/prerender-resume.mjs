@@ -53,7 +53,7 @@ const STATIC_ROUTES_FALLBACK = [
   "/reportar-carretera/gracias", "/herramientas", "/herramientas/contrato-compraventa-vehiculo",
   "/herramientas/precio-itv", "/buscador-codigo-multa", "/senales-trafico",
   "/mejor-coche-por-presupuesto", "/comparador-coches", "/comparador-patinetes",
-  "/comparador-motos", "/fichas-tecnicas", "/comparador/mas-vendidos", "/glosario-multa",
+  "/comparador-motos", "/fichas-tecnicas", "/fichas-tecnicas/caravanas", "/fichas-tecnicas/autocaravanas", "/comparador/mas-vendidos", "/glosario-multa",
   "/metodologia", "/calculadora-kw-a-cv", "/calculadora-consumo-camper",
   "/equivalencia-neumaticos-itv", "/valor-venal-vehiculo", "/guias/radares",
   "/guias/patinetes-electricos", "/guias/zbe", "/guias/prescripcion", "/guias/vicios-forma",

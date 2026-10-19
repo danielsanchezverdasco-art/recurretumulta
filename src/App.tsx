@@ -166,6 +166,9 @@ function ContentRoutes() {
       <Route path="coches/:slug" element={<CochesFichaPage />} />
       <Route path="comparador-motos" element={<ComparadorMotosPage />} />
       <Route path="fichas-tecnicas" element={<FichasTecnicasPage />} />
+      {/* 19/10/2026: caravanas y autocaravanas viven dentro de /fichas-tecnicas/ (cambio de Daniel). */}
+      <Route path="fichas-tecnicas/caravanas" element={<FichasTecnicasPage tabInicial="caravana" />} />
+      <Route path="fichas-tecnicas/autocaravanas" element={<FichasTecnicasPage tabInicial="autocaravana" />} />
       <Route path="favoritos-del-mes" element={<FavoritosDelMesPage />} />
       <Route path="motos/:slug" element={<MotosFichaPage />} />
       <Route path="comparador-patinetes" element={<ComparadorPatinetesPage />} />

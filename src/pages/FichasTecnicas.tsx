@@ -1,5 +1,5 @@
-import { useMemo, useState } from "react";
-import { Link } from "react-router-dom";
+import { useEffect, useMemo, useRef, useState } from "react";
+import { Link, useLocation } from "react-router-dom";
 import { Search, SlidersHorizontal, ChevronDown, FileText } from "lucide-react";
 import { useSeo } from "@/hooks/use-seo.ts";
 import { DriveInImage } from "@/components/motion.tsx";
@@ -37,7 +37,7 @@ import { CARAVANAS_WEINSBERG } from "@/lib/comparador-caravanas-weinsberg.ts";
 
 // ── Normalización: los tres catálogos a una tarjeta común ────────────────────
 type FichaCard = {
-  kind: "coche" | "moto" | "patinete" | "caravana";
+  kind: "coche" | "moto" | "patinete" | "caravana" | "autocaravana";
   id: string;
   marca: string;
   modelo: string;
@@ -206,12 +206,15 @@ const TODAS: FichaCard[] = [
   ...CARAVANAS_WEINSBERG.map(caravanaACard),
 ];
 
-type Tab = "coche" | "moto" | "patinete" | "caravana";
-const TABS: Array<{ id: Tab; label: string; plural: string }> = [
-  { id: "coche", label: "Coches", plural: "coches" },
-  { id: "moto", label: "Motos", plural: "motos" },
-  { id: "patinete", label: "Patinetes", plural: "patinetes" },
-  { id: "caravana", label: "Caravanas", plural: "caravanas" },
+type Tab = "coche" | "moto" | "patinete" | "caravana" | "autocaravana";
+// 19/10/2026: las caravanas/autocaravanas viven en /fichas-tecnicas/ — las pestañas son ENLACES
+// reales (Coche → /fichas-tecnicas/, resto → ?tipo=, Caravana → /fichas-tecnicas/caravanas/).
+const TABS: Array<{ id: Tab; label: string; plural: string; to: string }> = [
+  { id: "coche", label: "Coches", plural: "coches", to: "/fichas-tecnicas/" },
+  { id: "moto", label: "Motos", plural: "motos", to: "/fichas-tecnicas/?tipo=moto" },
+  { id: "patinete", label: "Patinetes", plural: "patinetes", to: "/fichas-tecnicas/?tipo=patinete" },
+  { id: "caravana", label: "Caravanas", plural: "caravanas", to: "/fichas-tecnicas/caravanas/" },
+  { id: "autocaravana", label: "Autocaravanas", plural: "autocaravanas", to: "/fichas-tecnicas/autocaravanas/" },
 ];
 
 const SELECT_CLASE =
@@ -386,16 +389,51 @@ const jsonLd = {
   ],
 };
 
-export default function FichasTecnicasPage() {
-  useSeo({
-    title: "Fichas técnicas: coches, motos, patinetes y caravanas",
+export default function FichasTecnicasPage({ tabInicial }: { tabInicial?: Tab } = {}) {
+  const esCaravana = tabInicial === "caravana";
+  const esAutocaravana = tabInicial === "autocaravana";
+  const SEO_CARAVANAS = {
+    title: "Caravanas: fichas técnicas, MMA, carnet, plazas y precios",
     description:
-      "Fichas técnicas de coches, motos, patinetes y caravanas: busca por marca y modelo, filtra por precio y abre la ficha completa con datos verificados.",
-    canonical: "/fichas-tecnicas",
-    schema: jsonLd,
-  });
+      "Fichas técnicas de caravanas 2026: MMA, carnet necesario, plazas, longitud y precio aproximado (≈) de cada modelo. Compara marcas y abre la ficha completa.",
+    canonical: "/fichas-tecnicas/caravanas/" as const,
+  };
+  const SEO_AUTOCARAVANAS = {
+    title: "Autocaravanas: fichas técnicas, MMA, carnet y precios 2026",
+    description:
+      "Fichas técnicas de autocaravanas 2026: MMA, carnet necesario, plazas, longitud y precio de cada modelo. Compara marcas y abre la ficha completa.",
+    canonical: "/fichas-tecnicas/autocaravanas/" as const,
+  };
+  useSeo(
+    esCaravana
+      ? { ...SEO_CARAVANAS, schema: jsonLd }
+      : esAutocaravana
+        ? { ...SEO_AUTOCARAVANAS, schema: jsonLd }
+        : {
+            title: "Fichas técnicas: coches, motos, patinetes y caravanas",
+            description:
+              "Fichas técnicas de coches, motos, patinetes y caravanas: busca por marca y modelo, filtra por precio y abre la ficha completa con datos verificados.",
+            canonical: "/fichas-tecnicas",
+            schema: jsonLd,
+          }
+  );
 
-  const [tab, setTab] = useState<Tab>("coche");
+  const [tab, setTab] = useState<Tab>(() => {
+    if (tabInicial) return tabInicial;
+    const t =
+      typeof window !== "undefined"
+        ? new URLSearchParams(window.location.search).get("tipo")
+        : null;
+    return t === "moto" || t === "patinete" || t === "caravana" || t === "autocaravana" ? t : "coche";
+  });
+  const location = useLocation();
+  const ultimoSearchRef = useRef(location.search);
+  useEffect(() => {
+    if (tabInicial || ultimoSearchRef.current === location.search) return;
+    ultimoSearchRef.current = location.search;
+    const t = new URLSearchParams(location.search).get("tipo");
+    cambiarTab(t === "moto" || t === "patinete" || t === "caravana" || t === "autocaravana" ? t : "coche");
+  });
   const [q, setQ] = useState("");
   const [fMarca, setFMarca] = useState("todas");
   const [fPrecioMax, setFPrecioMax] = useState(0);
@@ -491,7 +529,21 @@ export default function FichasTecnicasPage() {
           >
             <Link to="/" className="hover:text-white">Inicio</Link>
             <span aria-hidden="true">/</span>
-            <span className="text-white/40">Fichas técnicas</span>
+            {esCaravana ? (
+              <>
+                <Link to="/fichas-tecnicas/" className="hover:text-white">Fichas técnicas</Link>
+                <span aria-hidden="true">/</span>
+                <span className="text-white/40" aria-current="page">Caravanas</span>
+              </>
+            ) : esAutocaravana ? (
+              <>
+                <Link to="/fichas-tecnicas/" className="hover:text-white">Fichas técnicas</Link>
+                <span aria-hidden="true">/</span>
+                <span className="text-white/40" aria-current="page">Autocaravanas</span>
+              </>
+            ) : (
+              <span className="text-white/40">Fichas técnicas</span>
+            )}
           </nav>
           <div
           >
@@ -502,15 +554,36 @@ export default function FichasTecnicasPage() {
           <h1
             className="text-3xl md:text-4xl font-black text-white leading-tight text-balance drop-shadow-lg"
           >
-            Fichas técnicas 2026
+            {esCaravana ? "Fichas técnicas de caravanas" : esAutocaravana ? "Fichas técnicas de autocaravanas" : "Fichas técnicas 2026"}
           </h1>
           <p
             className="text-white/80 text-sm md:text-base leading-relaxed"
           >
-            {TODAS.length} fichas técnicas con datos verificados: precio, potencia, autonomía,
-            etiqueta DGT y opiniones reales de propietarios. Busca por marca y modelo, filtra
-            por lo que te importa y abre la ficha completa. Sin humo: si un dato no está
-            publicado por una fuente fiable, lo verás como «—» en vez de inventado.
+            {esCaravana ? (
+              <>
+                Encuentra la caravana que encaja con tu coche y tu carnet:{" "}
+                {TODAS.filter((f) => f.kind === "caravana").length} fichas técnicas con MMA,
+                carnet necesario, plazas, longitud y precio aproximado (≈) de cada modelo.
+                Busca por marca, filtra por presupuesto y abre la ficha completa con medidas,
+                carga útil y opiniones. Sin humo: si un dato no está publicado por una fuente
+                fiable, lo verás como «—» en vez de inventado.
+              </>
+            ) : esAutocaravana ? (
+              <>
+                Encuentra la autocaravana que encaja con tu carnet:{" "}
+                {TODAS.filter((f) => f.kind === "autocaravana").length} fichas técnicas con MMA,
+                carnet necesario, plazas, longitud y precio de cada modelo.
+                Busca por marca, filtra por presupuesto y abre la ficha completa. Sin humo: si un
+                dato no está publicado por una fuente fiable, lo verás como «—» en vez de inventado.
+              </>
+            ) : (
+              <>
+                {TODAS.length} fichas técnicas con datos verificados: precio, potencia, autonomía,
+                etiqueta DGT y opiniones reales de propietarios. Busca por marca y modelo, filtra
+                por lo que te importa y abre la ficha completa. Sin humo: si un dato no está
+                publicado por una fuente fiable, lo verás como «—» en vez de inventado.
+              </>
+            )}
           </p>
           <p
             className="text-xs text-white/60 pt-1"
@@ -521,18 +594,19 @@ export default function FichasTecnicasPage() {
       </div>
 
       <main className="mx-auto max-w-6xl px-4 pb-24 pt-6 sm:px-6">
-        {/* ── Pestañas Coches / Motos / Patinetes ── */}
-        <div className="flex gap-2" role="tablist" aria-label="Tipo de vehículo">
+        {/* ── Pestañas Coches / Motos / Patinetes / Caravanas / Autocaravanas (enlaces reales) ── */}
+        <div className="flex gap-2 overflow-x-auto pb-1 sm:overflow-visible sm:pb-0" role="tablist" aria-label="Tipo de vehículo">
           {TABS.map((t) => {
             const n = TODAS.filter((f) => f.kind === t.id).length;
             const activa = tab === t.id;
             return (
-              <button
+              <Link
                 key={t.id}
+                to={t.to}
                 role="tab"
                 aria-selected={activa}
-                onClick={() => cambiarTab(t.id)}
-                className={`flex-1 rounded-xl px-2 sm:px-3 py-2.5 text-sm font-extrabold transition cursor-pointer ${
+                aria-current={activa ? "page" : undefined}
+                className={`inline-flex min-h-[44px] min-w-[7.5rem] shrink-0 items-center justify-center whitespace-nowrap rounded-xl px-3 py-2.5 text-sm font-extrabold transition sm:min-w-0 sm:flex-1 ${
                   activa
                     ? "bg-[#cd001d] text-white shadow-md"
                     : "bg-white text-gray-700 border border-gray-200 hover:border-[#cd001d] hover:text-[#cd001d]"
@@ -542,7 +616,7 @@ export default function FichasTecnicasPage() {
                 <span className={`ml-1.5 text-xs font-bold ${activa ? "text-white/80" : "text-gray-400"}`}>
                   {n}
                 </span>
-              </button>
+              </Link>
             );
           })}
         </div>
@@ -554,7 +628,7 @@ export default function FichasTecnicasPage() {
             type="search"
             value={q}
             onChange={(e) => { setQ(e.target.value); setVisibleCount(PAGE_SIZE); }}
-            placeholder={`Busca marca o modelo… (ej. ${tab === "coche" ? "BYD, Tucson" : tab === "moto" ? "Silence, NIU" : tab === "caravana" ? "Adria, Knaus" : "Xiaomi, Segway"})`}
+            placeholder={`Busca marca o modelo… (ej. ${tab === "coche" ? "BYD, Tucson" : tab === "moto" ? "Silence, NIU" : tab === "caravana" ? "Adria, Knaus" : tab === "autocaravana" ? "Benimar, Hymer" : "Xiaomi, Segway"})`}
             aria-label="Buscar por marca o modelo"
             className="w-full rounded-xl border border-gray-300 bg-white py-2.5 pl-10 pr-4 text-sm shadow-sm focus:border-[#cd001d] focus:outline-none focus:ring-2 focus:ring-[#cd001d]/20"
           />
