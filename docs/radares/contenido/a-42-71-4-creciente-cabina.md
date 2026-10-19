@@ -12,6 +12,15 @@
 
 La cabina está instalada en la **A-42, punto kilométrico 71,4**, dentro de la provincia de Toledo. Actúa sobre el **sentido creciente** de la vía, esto es, el de los puntos kilométricos crecientes. El punto kilométrico 71,4 es la referencia oficial; sobre el terreno la cabina puede estar unos metros antes o después. El control fijo de la DGT más próximo es el de la **A-42, pk 55,7** (sentido creciente), a 13,6 km hacia el norte. El siguiente punto por cercanía es el de la **A-42, pk 55,7** (sentido decreciente), a 17,7 km hacia el noreste. El tramo no presenta dificultades técnicas especiales; el desafío es mantener la disciplina de velocidad.
 
+<iframe title="Mapa: radar a-42-71-4-creciente-cabina" src="https://www.google.com/maps?q=39.86777,-4.00269&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-42-71-4-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.86777,-4.00269&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La A-42, la autovía que une Madrid con Toledo, atraviesa Toledo como autovía de doble calzada. Por esta autovía circula un tráfico muy mezclado: mercancías, viajes de largo recorrido y desplazamientos cotidianos. La vigilancia permanente en este sector busca contener los excesos en un tramo que invita a correr. Entre los 4 radares publicados para la A-42 en la región, este es el cuarto en orden de pk. Siguiendo por la A-42, el próximo punto con vigilancia es el del pk 55,7 (sentido creciente), a 13,6 km hacia el norte. La clave en esta vía: conducción atenta y velocidad siempre contenida. La vía no perdona las distracciones: mantener la vista al frente es tan importante como controlar la velocidad.
