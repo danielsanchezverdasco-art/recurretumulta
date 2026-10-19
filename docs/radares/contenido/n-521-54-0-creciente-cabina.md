@@ -6,14 +6,6 @@
 **Coordenadas (WGS84):** 39.45712, -6.4476805
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.45712,-6.4476805)
 
-<iframe title="Mapa: radar n-521-54-0-creciente-cabina" src="https://www.google.com/maps?q=39.45712,-6.4476805&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
-
-*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
-
-<iframe title="Street View: radar n-521-54-0-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.45712,-6.4476805&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
-
-*Vista 3D (Street View) del entorno del radar.*
-
 > **Cómo lo verificamos:** Vía, pk, sentido y coordenadas proceden del XML oficial de radares de la DGT (DATEX II, portal NAP), revisado el 2026-10-19. El fichero no publica el límite de cada punto ni el municipio correspondiente: el límite recogido es el genérico del RGC (art. 48, RD 1428/2003) según el tipo de vía, y el municipio lo proporciona el geocodificador oficial CartoCiudad (IGN/CNIG).
 
 ## Cuándo multa
@@ -23,6 +15,14 @@ El cinemómetro alojado en la cabina mide la velocidad del tráfico en sentido c
 ## Dónde está
 
 La cabina se encuentra en la N-521, pk 54,0, en el municipio de Cáceres (provincia de Cáceres), coordenadas 39.45712, -6.4476805. Vigila el sentido creciente, es decir, a quienes avanzan hacia puntos kilométricos cada vez mayores. El enlace de Street View permite situar el punto con exactitud.
+
+<iframe title="Mapa: radar n-521-54-0-creciente-cabina" src="https://www.google.com/maps?q=39.45712,-6.4476805&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-521-54-0-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.45712,-6.4476805&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
 
 ## El límite: lo que sabemos y lo que no
 
