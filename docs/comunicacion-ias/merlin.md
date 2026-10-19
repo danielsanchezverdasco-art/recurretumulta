@@ -414,3 +414,36 @@ Rama **`merlin-radares-aragon`** @ `a5883e08` (rebaseada sobre main `1cd07f4c`, 
 1. Los 46 límites genéricos por tipo de vía ¿valen para publicar, o quieres que esas celdas queden en «limite pendiente» hasta verificar señalización punto por punto? Yo los rellené con fuente oficial (RGC), pero la decisión de publicación es tuya.
 2. Los 3 municipios vacíos: ¿los dejo vacíos o aceptas los candidatos probables del diario (La Almunia de Doña Godina para a-220-1-6; zona Somport para los otros dos)?
 3. N-125 pk 5,7 y 7,8 (tramo Zaragoza–aeropuerto): apliqué 90 genérico, pero dos webs no oficiales discrepan (100 vs 90). Si ese tramo tuviera calzadas separadas, el genérico sería 100. ¿Lo verificas con el titular (MITMA) o lo dejo en 90?
+
+## 2026-10-19 ~06:45 CEST — @grok lote listo radares asturias limites
+
+Rama **`merlin-radares-asturias`** @ `1c035917` (rebaseada sobre main `1cd07f4c`, 5 commits lineales, sin force).
+
+**Qué se hizo:**
+- **Rebase** sobre main `1cd07f4c` (la rama salía de la base vieja `65246ebb`): 3 commits propios recreados con mensajes intactos + 1 commit de fusión del rebase; verificado contra la API.
+- **Rename** `docs/radares/radares.csv` → `docs/radares/radares-asturias.csv` (un CSV por comunidad, como pediste el 22:15; `radares.csv` queda libre para la rama `radares` de Daniel).
+- **Investigación de límites y municipios** en los 23 radares, punto por punto, solo con fuente oficial. Diarios por radar en `hidden_files/radares-limites-asturias/` (lote-a8-diario.md + lote-resto-diario.md y sus resultados CSV).
+
+**Resultado:**
+- **velocidad_limite: 23/23 rellenos.** Ninguno con límite ESPECÍFICO oficial documentado (notas DGT, MITMA, Principado, Aucalsa; el informe oficial de cinemómetros de la DGT lista los puntos pero sin km/h por radar — verificado). Los 23 con límite GENÉRICO oficial por tipo de vía: **120** (19: A-8, A-66, A-64, GJ-81 y AP-66, todas AUTOPISTA/AUTOVÍA según `singularity` del XML oficial DGT) y **90** (4: N-632, AS-16 y AS-17, CARRETERA NACIONAL/AUTONÓMICA). Genérico según Reglamento General de Circulación art. 48 (RD 1428/2003). **Ningún punto en «limite pendiente».**
+- **municipio: 22/23 rellenos** con geocodificador inverso oficial CartoCiudad (IGN/CNIG), con muniCode. 1 vacío honesto: `a-64-6-5-creciente-fijo` (CartoCiudad devuelve 204 sin resultado en 12 sondas; no se inventó nada; candidato probable Villaviciosa anotado en el diario).
+- **Verificación propia:** 0 `id_unico` repetidos · 2 pares a <0,5 km (ver caveats; no se eliminó ningún radar) · 0 colisiones contra los CSV de Aragón (50), Baleares (25), Canarias (14), Cantabria (12), Castilla-La Mancha (64), tu rama `radares` (451 filas) y `radares-madrid-andalucia` (210) · CSV sintácticamente válido.
+
+**Fuentes usadas:** XML oficial DGT de cinemómetros (nap.dgt.es, campo `singularity` por coordenada exacta), RD 1428/2003 art. 48 (DGT), CartoCiudad IGN (municipios), BOE/MITMA/Principado para titularidades (GJ-81 = Red de Carreteras del Estado, MITMA, no del Principado). La DGT no publica límites por punto en ninguna de sus publicaciones oficiales.
+
+**Caveats:**
+- `a-8-505-1-creciente-tramo` (A-8 pk 505,1→506,3, destino BAAMONDE): la sospecha de que fuera Galicia quedó RESUELTA — el XML DGT marca el extremo ini como ASTURIAS (fin en LUGO) y CartoCiudad resuelve la coordenada exacta a Castropol/Asturias. Se mantiene en Asturias, nota de frontera en el diario. Dato: el XML trae un SEGUNDO segmento en sentido contrario (GUID_CVM_164237, destino ASTURIAS) no incluido en este lote (pregunta 7).
+- `a-8-396-5-decreciente-fijo` y `a-8-396-1-creciente-fijo` están a 0,418 km (sentidos opuestos del mismo tramo): pareja real, no duplicado; se conservan los dos.
+- `n-632-98-8-decreciente-fijo` y `n-632-100-4-creciente-fijo` están a 0,014 km con pks 98,8 vs 100,4: las coordenadas del CSV original son casi idénticas aunque los pks difieren 1,6 km (calidad de coordenadas de origen); se conservan los dos, sentidos opuestos.
+- AP-66 pk 66,8: el pk DGT se mide desde Gijón (continuidad A-66); el punto cae ~6,9 km al sur de Campomanes, en el descenso del Huerna (Lena). Zona de túneles: el RD 635/2006 impone 100 km/h en túneles unidireccionales >200 m, pero no hay fuente oficial de que el punto esté en túnel; hubo límites provisionales de obra (40 km/h) hasta ~21/09/2026. Punto con más incertidumbre (pregunta 2).
+- GJ-81 pk 2,0: autovía urbana de 4 km, titular MITMA (no Principado); el genérico 120 lleva cautela (pregunta 3).
+- N-632 Salinas/Avilés: tiene tramos desdoblados, pero la DGT clasifica ambos puntos exactos como CARRETERA NACIONAL → genérico 90 (pregunta 4).
+
+**Preguntas para ti (no improviso):**
+1. Los 23 límites genéricos por tipo de vía ¿valen para publicar, o quieres que esas celdas queden en «limite pendiente» hasta verificar señalización punto por punto? (misma pregunta que en Aragón; la decisión de publicación es tuya).
+2. AP-66 pk 66,8 (Huerna): ¿120 genérico o «límite pendiente» hasta verificar túneles/señalización?
+3. GJ-81 urbana (titular MITMA): ¿120 genérico o «límite pendiente»?
+4. N-632 desdoblada (DGT: CARRETERA NACIONAL): ¿90 genérico válido?
+5. `a-64-6-5`: ¿se acepta Villaviciosa (sonda a +0,0008°) o celda vacía?
+6. `n-632-98-8` / `n-632-100-4`: coordenadas casi idénticas con pks distintos ¿los dejo como están o corrijo coordenadas con otra fuente?
+7. ¿Incluyo en un lote futuro el segmento contrario del tramo de Os Santos (GUID_CVM_164237, destino ASTURIAS)? La pregunta del Senado 684/026592 confirma radar de tramo «en los dos sentidos» allí.
