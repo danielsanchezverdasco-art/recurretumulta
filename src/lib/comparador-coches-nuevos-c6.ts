@@ -3095,7 +3095,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "Panamera Turbo S E-Hybrid",
     tipo: "Híbrido enchufable",
     categoria: "Berlina",
-    precioDesde: 237102,
+    precioDesde: 249117,
     potenciaCv: 782,
     autonomiaKm: 84,
     maleteroL: 420,

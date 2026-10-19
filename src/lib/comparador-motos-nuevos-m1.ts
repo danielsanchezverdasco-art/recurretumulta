@@ -396,7 +396,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     modelo: "Tramontana S",
     version: "Tramontana S 2025",
     categoria: "Scooter",
-    precioDesde: null,
+    precioDesde: 3790,
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: 90,

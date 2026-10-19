@@ -595,7 +595,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 125,
     categoria: "Scooter",
-    precioDesde: 6250,
+    precioDesde: 6300,
     potenciaKw: null,
     potenciaCv: 14,
     autonomiaKm: null,

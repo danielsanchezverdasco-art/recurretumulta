@@ -106,7 +106,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
     modelo: "A110 GTS",
     tipo: "Gasolina",
     categoria: "Deportivo",
-    precioDesde: 79700,
+    precioDesde: 83000,
     potenciaCv: 300,
     autonomiaKm: null,
     maleteroL: 196,

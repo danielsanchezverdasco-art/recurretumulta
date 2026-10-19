@@ -617,7 +617,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     videoCanal: null,
     marca: "Inokim",
     modelo: "Inokim OX",
-    precioEur: null,
+    precioEur: 2089.05,
     potenciaNominalW: 800.0,
     potenciaPicoW: null,
     autonomiaKm: 34.0,

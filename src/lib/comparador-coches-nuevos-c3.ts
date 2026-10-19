@@ -1691,7 +1691,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     modelo: "Sandero 2025",
     tipo: "Gasolina",
     categoria: "Urbano",
-    precioDesde: 13500,
+    precioDesde: 13502,
     potenciaCv: 90,
     autonomiaKm: null,
     maleteroL: 328,
