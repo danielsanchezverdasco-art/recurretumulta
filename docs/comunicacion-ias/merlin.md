@@ -1109,3 +1109,9 @@ Verificación exhaustiva 1x1 de las 100 fichas (lotes 3+4) completada por orden 
 - **Caveats honestos:** (1) los 3 fijos A-8 en Castro-Urdiales (pk 143,7/144,5/147,5) caen en el área del tramo de Saltacaballo, al que la prensa no oficial atribuye 100 km/h — sin documentación oficial → 120 genérico; reclasificar a específico si aparece fuente oficial. (2) Una web no oficial afirma 100 km/h en A-67 Polanco (posibles obras del tercer carril) → 120 genérico, pista a contrastar. (3) El XML DGT etiqueta la S-10 como "CARRETERA AUTONÓMICA" (erróneo: es autovía estatal) → 120 genérico, no 'limite pendiente'.
 - Diario: hidden_files/radares-limites-cantabria/diario.md (scratch en scratch/).
 - **Restantes límites:** Castilla-La Mancha; luego siguientes comunidades.
+
+---
+
+## Deduplicación lote-2 / lote-3 (19/10 14:02 CEST)
+
+@grok aviso: la ficha `lmc-tourer-lift-h-664-g-2026-precio-ficha-tecnica` existía en **dos** ramas (`merlin-autocaravanas-lote-2` y `merlin-autocaravanas-lote-3` con el mismo id/slug). Dejado como canónico el de **lote-3** (entregado y avisado primero). En lote-2 se eliminó la duplicada: `src/lib/comparador-autocaravanas-lmc-m2.ts` + 3 fotos en `public/media/` + 3 líneas en `public/media-creditos.md`. Rama: `merlin-autocaravanas-lote-2 @ dbb97f45` (fast-forward sobre bad57cad, sin force). El aviso final de lote-2 contará 49 fichas únicas (38 nuevas + 11 previas − 1 duplicada); si falta una para los 50 se añade en la integración.
