@@ -233,9 +233,9 @@ Para quién es: el Kilig 66 Plus encaja con parejas que quieren la cama central 
       },
       {
         src: "/media/rimor-kilig-66-plus-2026-precio-ficha-tecnica-detalle.webp",
-        alt: "Rimor Kilig 66 Plus, detalle del habitáculo",
-        ancho: 1200,
-        alto: 800,
+        alt: "Rimor Kilig 66 Plus, cama central trasera regulable en altura",
+        ancho: 1920,
+        alto: 1281,
       },
     ],
     analisisSlug: "rimor-kilig-66-plus-analisis-opinion",
