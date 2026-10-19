@@ -3106,3 +3106,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/apollo-city-stellar-hunt1.webp | https://apolloscooters.co/pages/compare-scooters | Apollo Scooters (web oficial) | desconocida |
 | /media/apollo-city-stellar-hunt2.webp | https://apolloscooters.co/search?page=4&q=pro&type=product | Apollo Scooters (web oficial) | desconocida |
 | /media/apollo-city-stellar-hunt3.webp | https://apolloscooters.co/products/apollo-city-stellar | Apollo Scooters (web oficial) | desconocida |
+| /media/suzuki-dr-z4sm-2025-ficha-tecnica-precio-hunt1.webp | https://cycles.aws-prod.suzuki.com/supermoto/2025/dr-z4sm | Suzuki Motor USA (web oficial) | desconocida |
+| /media/suzuki-dr-z4sm-2025-ficha-tecnica-precio-hunt2.webp | https://www.globalsuzuki.com/motorcycle/smgs/products/360viewer/2025dr-z4sm/ | Suzuki Motor Corporation (web oficial global) | desconocida |
+| /media/suzuki-dr-z4sm-2025-ficha-tecnica-precio-hunt3.webp | https://suzukicycles.com/supermoto/2026/dr-z4sm | Suzuki Cycles (web oficial) | desconocida |
+| /media/apollo-pro-2024-hunt1.webp | https://beyondpev.com/cdn/shop/files/image.png?v=1692566892&width=1000 | Beyond PEV | desconocida |
+| /media/apollo-pro-2024-hunt2.webp | https://beyondpev.com/cdn/shop/files/Proproductimage2.webp?v=1692566892&width=1000 | Beyond PEV | desconocida |
+| /media/apollo-pro-2024-hunt3.webp | https://www.stokemachines.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcHdZIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c862a8e035948a81888032eea43e27fe4e971a9d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RTNKbGMybDZaVjkwYjE5bWFXeHNXd2hwQXFRQmFRS2tBWHNHT2dsamNtOXdPZ3RqWlc1MGNtVT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--d2b5aee4ca9194e69f1d60f3de0293a6fedbdb51/Apollo_Pro_2024.png | Stoke Machines | desconocida |
+| /media/apollo-explore-2024-hunt1.webp | https://cdn.shopify.com/s/files/1/0030/8183/0512/products/ApolloExplore_1_640x.png?v=1635501334 | Apollo Scooters (prensa oficial) | desconocida |
+| /media/apollo-explore-2024-hunt2.webp | https://escooterbay.com/wp-content/uploads/2024/03/apollo-explore.jpg | eScooterBay | desconocida |
+| /media/apollo-explore-2024-hunt3.webp | https://cdn.shopify.com/s/files/1/0030/8183/0512/t/15/assets/ff2b13532088--render-explore.png?v=1621349682 | Apollo Scooters (prensa oficial) | desconocida |
+| /media/seat-leon-sportstourer-15-etsi-115-2026-precio-ficha-tecnica-hunt1.webp | https://cdn.nwi-ms.com/media/at/S/comm/S20260541965/model/front.jpg?size=XL&num=23 | Red oficial SEAT Austria (car4me / Porsche Bank) | desconocida |
+| /media/seat-leon-sportstourer-15-etsi-115-2026-precio-ficha-tecnica-hunt2.webp | https://www.petrolissimo.sk/www/files/news/310/8659/dsc3094fhd_cd6455592.jpg | Petrolissimo (prueba de prensa) | desconocida |
+| /media/seat-leon-sportstourer-15-etsi-115-2026-precio-ficha-tecnica-hunt3.webp | https://www.km77.com/images/medium/3/0/5/1/seat-leon-sportstourer-2020-volante.353051.jpg | km77.com | desconocida |
+| /media/smartgyro-z-one-hunt1.webp | https://onubamobility.com/wp-content/uploads/2025/03/patinete-electrico-smartgyro-z-one-red-homologado-1-1000x1000.jpg | Onuba Mobility (tienda de movilidad) | desconocida |
+| /media/smartgyro-z-one-hunt2.webp | https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/202311/27/00126680501132____3__1200x1200.jpg?impolicy=frontWeb&width=1200&shape=square | El Corte Inglés (ficha de producto) | desconocida |
+| /media/smartgyro-z-one-hunt3.webp | https://sabwaysantaperpetua.com/wp-content/uploads/2025/12/Z-ONE.webp | Sabway Santa Perpètua (tienda especializada) | desconocida |
+| /media/suzuki-gsx-s1000gt-2025-ficha-tecnica-precio-hunt1.webp | https://moto.suzuki.es/storage/images/kl9s8ycjpn8nebhscuibm9exmwe2ascl924q9srp.jpg | Suzuki Motos España (web oficial) | desconocida |
+| /media/suzuki-gsx-s1000gt-2025-ficha-tecnica-precio-hunt2.webp | https://moto.suzuki.es/storage/images/esa1yubudm5uih925uoyuu0hwnmm9dbq8taos3vm.jpg | Suzuki Motos España (web oficial) | desconocida |
+| /media/suzuki-gsx-s1000gt-2025-ficha-tecnica-precio-hunt3.webp | https://young-machine.com/main/wp-content/uploads/2024/10/gsx-s1000gt-my25-yky-blu-montreal-768x512.jpg?v=1730310684 | Young Machine (prensa del motor) | desconocida |
+| /media/bmw-r-1300-r-2025-ficha-tecnica-precio-hunt1.webp | https://mediapool.bmwgroup.com/cache/P9/202503/P90593402/P90593402-the-new-bmw-r-1300-r-04-2025-2666px.jpg | BMW Group Press Club | desconocida |
+| /media/bmw-r-1300-r-2025-ficha-tecnica-precio-hunt2.webp | https://mcn-images.stg.bauersecure.com/wp-images/347414/900x0/2025-on_bmw_r1300r_012.jpg | MCN (Motor Cycle News) | desconocida |
+| /media/bmw-r-1300-r-2025-ficha-tecnica-precio-hunt3.webp | https://moto-center.ch/wp-content/uploads/2025/05/BMW_R_1300_R_2025_Web_02-1200x900.jpg | Moto-Center Thun | desconocida |
+| /media/etwow-booster-plus-s-hunt1.webp | https://www.maxblinker.com/5937-panda_thickbox_default/e-twow-booster-plus-s-facelift-2020.jpg | Max Blinker | desconocida |
+| /media/etwow-booster-plus-s-hunt2.webp | https://scooter.guide/wp-content/uploads/2021/05/1593017130_1566891.jpg | scooter.guide | desconocida |
+| /media/etwow-booster-plus-s-hunt3.webp | https://media.cdnws.com/_i/21277/fb%7B630%7D-4230/2242/32/trottinette-electrique-e-twow-booster-s-plus-confort-2020.png | media.cdnws.com | desconocida |
