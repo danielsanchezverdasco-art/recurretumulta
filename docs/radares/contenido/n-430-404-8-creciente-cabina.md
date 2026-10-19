@@ -12,6 +12,15 @@
 
 Hablamos del **pk 404,8 de la N-430**, en la provincia de Ciudad Real. Controla el **sentido creciente** de la marcha: los puntos kilométricos crecientes. La DGT no difunde el destino asociado a este punto, así que el sentido se describe por la numeración kilométrica, no por localidades. El punto vigilado más cercano es el de la **A-4, pk 177,5** (sentido decreciente): queda a 37,4 km hacia el oeste. Le sigue en proximidad el de la **N-310, pk 126,4** (sentido creciente), situado a 44,1 km hacia el noreste. El tramo no presenta dificultades técnicas especiales; el desafío es mantener la disciplina de velocidad.
 
+<iframe title="Mapa: radar n-430-404-8-creciente-cabina" src="https://www.google.com/maps?q=38.91045,-2.95626&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-430-404-8-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.91045,-2.95626&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 Es la N-430, vía nacional convencional en la provincia de Ciudad Real. La carretera nacional registra movimiento durante toda la jornada, con perfiles distintos por franjas horarias. Este emplazamiento se eligió por ser un sector donde conviene recordar el máximo permitido. De los 3 controles que la DGT publica para la N-430 en la comunidad, este es el segundo por punto kilométrico. Siguiendo por la N-430, el próximo punto con vigilancia es el del pk 484,5 (sentido creciente), a 65,9 km hacia el este. En definitiva, un tramo donde la disciplina con el acelerador marca la diferencia. Quien la recorre con frecuencia aprende dónde están los puntos delicados; quien no, debería extremar la atención.
