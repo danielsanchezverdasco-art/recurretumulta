@@ -1678,7 +1678,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cosasdepatinetes",
     marca: "Cecotec",
     modelo: "Bongo Serie Doble Z75",
-    precioEur: 1329,
+    precioEur: 1199,
     potenciaNominalW: 1000,
     potenciaPicoW: 2200,
     autonomiaKm: 75,

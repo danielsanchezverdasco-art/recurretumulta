@@ -930,7 +930,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     modelo: "EK1",
     version: "EK1 2026",
     categoria: "Scooter",
-    precioDesde: 3300,
+    precioDesde: 3200,
     potenciaKw: 2.8,
     potenciaCv: 3.8,
     autonomiaKm: 69,

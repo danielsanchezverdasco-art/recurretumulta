@@ -1668,7 +1668,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
     version: "Eon 2026",
     cilindradaCc: null,
     categoria: "Maxiscooter",
-    precioDesde: 7490,
+    precioDesde: 6790,
     potenciaKw: 11,
     potenciaCv: 15,
     autonomiaKm: 290,
