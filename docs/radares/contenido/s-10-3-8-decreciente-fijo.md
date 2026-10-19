@@ -12,6 +12,15 @@
 
 El dispositivo se ubica en la **S-10, punto kilométrico 3,8**, en Cantabria, vigilando el **sentido decreciente**, que la DGT identifica en dirección **Santander**. Está a escasa distancia de su homólogo del sentido contrario, en el entorno de Maliaño: la DGT cubre así ambos sentidos de esta autovía distribuidora en el mismo sector. Quienes regresan a la capital desde el oeste de la bahía —o desde la A-67— atraviesan este punto en los últimos minutos del trayecto.
 
+<iframe title="Mapa: radar s-10-3-8-decreciente-fijo" src="https://www.google.com/maps?q=43.4206,-3.8376&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar s-10-3-8-decreciente-fijo" src="https://maps.google.com/maps?q=&layer=c&cbll=43.4206,-3.8376&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La S-10 canaliza el retorno hacia Santander con un perfil de vía rápida urbana: varios carriles, enlaces próximos y un tráfico que se comprime a medida que se acerca a la ciudad. En sentido decreciente, el flujo mezcla a quienes vuelven del trabajo con el tráfico del aeropuerto y de las zonas comerciales del entorno de la bahía. La proximidad entre salidas hace que muchos conductores cambien de carril varias veces en pocos kilómetros, una maniobra que con velocidad excesiva se vuelve peligrosa.
