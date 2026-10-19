@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 42.5813, -5.6735
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.5813,-5.6735)
 
+<iframe title="Mapa: radar ap-66-140-9-creciente-cabina" src="https://www.google.com/maps?q=42.5813,-5.6735&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar ap-66-140-9-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.5813,-5.6735&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** La DGT recoge este punto en su XML oficial de radares (DATEX II, portal NAP): vía AP-66, pk 140.879, sentido creciente y cinemómetro en cabina. El límite de 120 km/h es el genérico que el RGC (art. 48) fija para turismos y motos en autopistas y autovías, porque el registro le asigna la singularidad «AUTOPISTA / AUTOVÍA». El municipio —Valverde de la Virgen (León)— lo determina el geocodificador oficial CartoCiudad del IGN/CNIG.
 
 ## Punto de control
