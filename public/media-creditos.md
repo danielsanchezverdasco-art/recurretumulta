@@ -2960,3 +2960,18 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/roewe-rx5-2024-precio-ficha-tecnica-hunt1.webp | https://images.carexpert.com.au/app/uploads/2024/03/roewe_rx5_80.jpeg | CarExpert (portal del motor) | desconocida |
 | /media/roewe-rx5-2024-precio-ficha-tecnica-hunt2.webp | https://www.borderlesscar.com/product/roewe-rx5/ | BorderlessCar | desconocida |
 | /media/roewe-rx5-2024-precio-ficha-tecnica-hunt3.webp | https://target.westmotors.by/catalog-avto-china/roewe/rx5 | WestMotors (concesionario) | desconocida |
+| /media/beijing-bj40-2024-precio-ficha-tecnica-hunt1.webp | https://www.ixbt.com/img/n1/news/2024/3/1/BAIC%20BJ40%20Champion_2_large.jpg | ixbt.com (foto de prensa BAIC, edición Champion) | desconocida |
+| /media/beijing-bj40-2024-precio-ficha-tecnica-hunt2.webp | https://autera.pl/baic-web/bj40/g-ext-02.webp | BAIC Polonia / autera.pl | desconocida |
+| /media/beijing-bj40-2024-precio-ficha-tecnica-hunt3.webp | https://baic-auto.pl/bj-40 | BAIC Polonia / baic-auto.pl (importador) | desconocida |
+| /media/honda-cb125r-2025-ficha-tecnica-precio-hunt1.webp | https://www.motograndprix.gr/content.aspx?id=51017 | motograndprix.gr (foto de prensa Honda, modelo 2026, misma generación) | desconocida |
+| /media/honda-cb125r-2025-ficha-tecnica-precio-hunt2.webp | https://www.motoplanete.com/honda/millesimes/Honda-CB-125-R/2025_2.webp | motoplanete.com (foto de prensa Honda, modelo 2025) | desconocida |
+| /media/honda-cb125r-2025-ficha-tecnica-precio-hunt3.webp | https://motociclismoonline.com.br/wp-content/uploads/2024/03/472806_24YM_HONDA_CB125R.jpg.webp | motociclismoonline.com.br (foto de prensa Honda, 24YM) | desconocida |
+| /media/leapmotor-d19-2026-precio-ficha-tecnica-hunt1.webp | https://cnevpost.com/2026/03/30/leapmotor-to-launch-d19-apr-16/ | cnevpost.com (foto de prensa Leapmotor) | desconocida |
+| /media/leapmotor-d19-2026-precio-ficha-tecnica-hunt2.webp | https://e-drivers.com/leapmotor-d19-nieuwe-triple-motor/ | e-drivers.com (foto de prensa Leapmotor) | desconocida |
+| /media/leapmotor-d19-2026-precio-ficha-tecnica-hunt3.webp | https://cnevpost.com/2026/04/16/leapmotor-launches-d19-suv/ | cnevpost.com (foto de prensa Leapmotor) | desconocida |
+| /media/roewe-rx9-2024-precio-ficha-tecnica-hunt1.webp | https://images.carexpert.com.au/app/uploads/2024/06/roewe-rx9-2.jpeg | CarExpert / carexpert.com.au (foto de prensa SAIC) | desconocida |
+| /media/roewe-rx9-2024-precio-ficha-tecnica-hunt2.webp | https://images.carexpert.com.au/app/uploads/2024/06/roewe-rx9-4.jpg | CarExpert / carexpert.com.au (foto de prensa SAIC) | desconocida |
+| /media/roewe-rx9-2024-precio-ficha-tecnica-hunt3.webp | https://www.jndp.com/info/212193 | jndp.com (foto de prensa Roewe) | desconocida |
+| /media/dualtron-pop-hunt1.webp | https://cadjeemobility.re/products/trottinettes-electrique-dualtron-pop | cadjeemobility.re | desconocida |
+| /media/dualtron-pop-hunt2.webp | https://store.urban360.es | urban360.es | desconocida |
+| /media/dualtron-pop-hunt3.webp | https://sunwheelusa.com/products/dualtron-popular-electric-scooter | sunwheelusa.com | desconocida |
