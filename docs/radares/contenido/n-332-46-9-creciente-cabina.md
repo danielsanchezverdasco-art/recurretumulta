@@ -12,6 +12,14 @@
 
 Hablamos del **pk 46,9 de la N-332**, en la provincia de Alicante. Vigila el **sentido creciente**: los vehículos que circulan hacia puntos kilométricos crecientes. El municipio que corresponde a estas coordenadas es **Orihuela** (fuente: el geocodificador del IGN). El punto vigilado más cercano es el de la **CV-905, pk 7,0** (sentido decreciente): queda a 12,8 km hacia el norte.
 
+<iframe title="Mapa: radar n-332-46-9-creciente-cabina" src="https://www.google.com/maps?q=37.90893,-0.75239&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-332-46-9-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=37.90893,-0.75239&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 Hablamos de la N-332, una nacional de trazado convencional en Alicante. El carácter de la vía atrae tanto al transportista como al conductor ocasional. El escenario es el litoral alicantino, con su fisonomía propia.
