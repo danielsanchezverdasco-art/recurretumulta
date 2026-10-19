@@ -942,3 +942,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/livan-x3-pro-2025-precio-ficha-tecnica-hunt1.webp | https://livanauto.es/wp-content/uploads/2025/02/Diseno-exterior-1-1024x504.jpg | Livan Auto España (web oficial del importador) | desconocida (web oficial del importador) |
 | /media/livan-x3-pro-2025-precio-ficha-tecnica-hunt2.webp | https://legriscar.ru/assets/images/products/6186/webp/1200x900n-1.webp | LegriCar (anuncio de concesionario) | desconocida |
 | /media/livan-x3-pro-2025-precio-ficha-tecnica-hunt3.webp | https://www.masmotors.ru/resources/models/550/photo_exterior/LIVAN-X3PRO-ext-7_1280x960.webp | MasMotors (ficha del modelo en concesionario) | desconocida |
+| /media/aston-martin-dbx707-2024-precio-ficha-tecnica-hunt1.webp | https://torquecafe.com/best-of-2022-sports-cars/ | TorqueCafe (foto de prensa oficial Aston Martin) | desconocida |
+| /media/aston-martin-dbx707-2024-precio-ficha-tecnica-hunt2.webp | https://audio-obzor.ru/f6986.html | Autoua.net (foto de prensa oficial Aston Martin) | desconocida |
+| /media/aston-martin-dbx707-2024-precio-ficha-tecnica-hunt3.webp | https://www.dailyrevs.com/cars/2024-aston-martin-dbx707-amr24-edition | DailyRevs (foto de prensa oficial Aston Martin DBX707 AMR24 Edition) | desconocida |
+| /media/li-auto-l8-2026-precio-ficha-tecnica-hunt1.webp | https://uae.yallamotor.com/new-cars/li-auto/l8/2026/max | Yallamotor | desconocida |
+| /media/li-auto-l8-2026-precio-ficha-tecnica-hunt2.webp | https://www.zigwheels.ae/new-cars/li-auto/l8/max | Zigwheels | desconocida |
+| /media/li-auto-l8-2026-precio-ficha-tecnica-hunt3.webp | https://uae.yallamotor.com/new-cars/li-auto/l8/2026 | Yallamotor | desconocida |
+| /media/seat-leon-sportstourer-20-tdi-150-2026-precio-ficha-tecnica-hunt1.webp | https://content.presspage.com/uploads/1444/af8b2746-d9f2-420b-afc1-d219c31b9d03/800_seatleonsportstourer-2.jpg?10000 | SEAT (foto de prensa vía presspage.com / seat.nl) | desconocida (foto de prensa SEAT) |
+| /media/seat-leon-sportstourer-20-tdi-150-2026-precio-ficha-tecnica-hunt2.webp | https://i.iinfo.cz/images/175/Seat-Leon-Sportstourer-1.jpg | auto-mania.cz (iDNES) | desconocida |
+| /media/seat-leon-sportstourer-20-tdi-150-2026-precio-ficha-tecnica-hunt3.webp | https://static.android.com.pl/uploads/2025/03/test-seat-leon-sportstourer-fl-recenzja-opinia-523-1280x853.jpg | android.com.pl (prueba del León Sportstourer 2025) | desconocida |
+| /media/bmw-r-12-g-s-2025-ficha-tecnica-precio-hunt1.webp | https://mediapool.bmwgroup.com/cache/P9/202503/P90592166/P90592166-bmw-motorrad-presents-the-new-bmw-r-12-g-s-2666px.jpg | BMW Motorrad (press pool oficial BMW Group) | desconocida (foto de prensa oficial BMW) |
+| /media/bmw-r-12-g-s-2025-ficha-tecnica-precio-hunt2.webp | https://mediapool.bmwgroup.com/cache/P9/202506/P90603818/P90603818-nuova-bmw-r-12-g-s-06-2025-2250px.jpg | BMW Motorrad (press pool oficial BMW Group) | desconocida (foto de prensa oficial BMW) |
+| /media/bmw-r-12-g-s-2025-ficha-tecnica-precio-hunt3.webp | https://images5.1000ps.net/b-f_W3012480-bmw-r-12-g-s-2025-neue-scrambler-praesentiert-638785027919609850.jpg?mode=crop&width=1280&height=650 | 1000PS.at | desconocida |
+| /media/inokim-quick-4-hero-hunt1.webp | https://full-mobility.com/wp-content/uploads/2023/03/Quick-4.177-2048x1621.jpg | Full Mobility (ficha del producto Quick 4 Hero) | desconocida |
+| /media/inokim-quick-4-hero-hunt2.webp | https://full-mobility.com/wp-content/uploads/2023/03/Quick-4.2-scaled.jpg | Full Mobility (ficha del producto Quick 4 Hero) | desconocida |
+| /media/inokim-quick-4-hero-hunt3.webp | https://rapidscooter.co.uk/wp-content/uploads/2023/03/Quick4-6-scaled-1024x956.jpg | RapidScooter.co.uk (distribuidor Inokim) | desconocida |
+| /media/bmw-serie-3-320d-2026-precio-ficha-tecnica-hunt1.webp | https://www.bimmerfile.com/wp-content/uploads/2024/05/3Series_G20_30-978x652.jpg | BimmerFile | desconocida |
+| /media/bmw-serie-3-320d-2026-precio-ficha-tecnica-hunt2.webp | https://www.headlightmag.com/hlmwp/wp-content/uploads/2023/01/Bmw_320d_M_Sport_Lci_4.jpg | HeadLight Magazine | desconocida |
+| /media/bmw-serie-3-320d-2026-precio-ficha-tecnica-hunt3.webp | https://cdn.bimmertoday.de/wp-content/uploads/2026/05/BMW-3er-50-Jahre-Edition-M340i-G20-LCI-Interieur-03.jpg | BimmerToday | desconocida |
+| /media/bmw-serie-5-520d-2026-precio-ficha-tecnica-hunt1.webp | https://www.wabiti.com/anuncio/73092/bmw-serie-5-520d | wabiti.com (anuncio de particular/concesionario) | desconocida |
+| /media/bmw-serie-5-520d-2026-precio-ficha-tecnica-hunt2.webp | https://www.carplus.pt/veiculo/bmw-serie-5-520d-auto-48v-wba11fl0x0cs51801/?order=desc | carplus.pt (anuncio de vehículo) | desconocida |
+| /media/bmw-serie-5-520d-2026-precio-ficha-tecnica-hunt3.webp | https://www.bymycar.it/bmw-520d-48v-xdrive-msport-auto-occasion-2025-milano-mi-5647 | bymycar.it (anuncio BMW 520d 48V xDrive MSport) | desconocida |
+| /media/livan-9-2024-precio-ficha-tecnica-hunt1.webp | https://es.aicarglobal.com/livan-electric-automotive/ | AI Car Global (artículo de automoción eléctrica Livan) | desconocida |
+| /media/livan-9-2024-precio-ficha-tecnica-hunt2.webp | https://ev.motorwatt.com/ev-database/database-electric-cars/livan-9 | ev.motorwatt.com (ficha técnica Livan 9) | desconocida |
+| /media/livan-9-2024-precio-ficha-tecnica-hunt3.webp | https://ev.motorwatt.com/ev-database/database-electric-cars/livan-9 | ev.motorwatt.com (ficha técnica Livan 9) | desconocida |
