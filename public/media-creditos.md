@@ -1762,3 +1762,6 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/okai-neon-pro-hunt1.webp | https://www.maxblinker.fr/13738-panda_big_default/okai-neon-pro-es30.jpg | Maxblinker (foto de producto Okai Neon Pro ES30) | desconocida |
 | /media/okai-neon-pro-hunt2.webp | https://www.voltride.sk/img/cms/Produkty/Okai-neon-pro-es30/NeonProBlackBack.jpg | Voltride (foto de producto Okai Neon Pro ES30) | desconocida |
 | /media/okai-neon-pro-hunt3.webp | https://www.roverebike.ca/cdn/shop/files/NeonProBlackMain.png?v=1709155869&width=990 | Roverebike (foto de producto Okai Neon Pro ES30) | desconocida |
+| /media/tank-500-hi4-t-2025-precio-ficha-tecnica-hunt1.webp | https://global-img.bitauto.com/yhzx/20250723/333/325192833306475.jpg | bitauto (prensa del motor) | desconocida |
+| /media/tank-500-hi4-t-2025-precio-ficha-tecnica-hunt2.webp | https://www.car250.com/wp-content/uploads/2024/10/5959-17.webp | car250.com (blog del motor) | desconocida |
+| /media/tank-500-hi4-t-2025-precio-ficha-tecnica-hunt3.webp | https://www.zr.ru/d/story/25/971045/tank_500_hi4-t_sport.jpg | zr.ru (prensa del motor) | desconocida |
