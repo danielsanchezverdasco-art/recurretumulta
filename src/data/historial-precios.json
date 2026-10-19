@@ -2167,7 +2167,8 @@
       {"fecha": "2026-10-06", "precio": 16240, "moneda": "EUR", "fuente": "radar-precios (web oficial / km77 / carwow)"}
     ],
     "citroen-c3-aircross-gasolina-2026-precio-ficha-tecnica": [
-      {"fecha": "2026-10-14", "precio": 21000, "moneda": "EUR", "fuente": "ficha", "aprox": true}
+      {"fecha": "2026-10-14", "precio": 21000, "moneda": "EUR", "fuente": "ficha", "aprox": true},
+      {"fecha": "2026-10-19", "precio": 19290, "moneda": "EUR", "fuente": "verificación geo 2026-10-19: precio oficial citroen.es, Nuevo C3 Aircross Turbo 100 YOU 19.290 € https://www.citroen.es/vehiculos-citroen/c3-aircross.html"}
     ],
     "citroen-c3-aircross-hibrido-2026-precio-ficha-tecnica": [
       {"fecha": "2026-10-14", "precio": 26340, "moneda": "EUR", "fuente": "ficha"}
