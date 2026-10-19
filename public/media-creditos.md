@@ -281,3 +281,10 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/cupra-leon-vz-325-2025-precio-ficha-tecnica-oficial.webp | URL exacta no localizada | Foto de prensa CUPRA (distribución; licencia desconocida) | prensa |
 | /media/cupra-leon-vz-325-2025-precio-ficha-tecnica-interior.webp | URL exacta no localizada | Foto de prensa CUPRA (distribución; licencia desconocida) | prensa |
 | /media/cupra-leon-vz-325-2025-precio-ficha-tecnica-detalle.webp | URL exacta no localizada | Foto de prensa CUPRA; recorte de detalle propio de la foto oficial (distribución; licencia desconocida) | prensa |
+
+## VW California T7 2026 — blog posts (19/10/2026)
+- vw-california-beach-2026-precio-ficha-tecnica-oficial-1.webp: Volkswagen, biblioteca oficial de medios (media.volkswagen.com, California STC 2026).
+- vw-california-coast-2026-precio-ficha-tecnica-oficial-1.webp: Kit de prensa oficial VW Vehículos Comerciales, vía autonocion.com.
+- vw-california-coast-2026-precio-ficha-tecnica-interior-oficial-1.webp: Kit de prensa oficial VW, vía AutoExpress UK.
+- vw-california-ocean-2026-precio-ficha-tecnica-oficial-1.webp: Kit de prensa oficial VW, vía accamper.com.
+- vw-california-ocean-2026-precio-ficha-tecnica-interior-oficial-1.webp: Mismo interior que Coast (fuente: Motoring Research, vanreviewer.co.uk).
