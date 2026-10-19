@@ -4560,3 +4560,26 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/audi-a5-avant-2025-hunt1.webp | https://www.motortrend.com/files/6695855981e9d70008474e89/2025-audi-a5-avant-23.jpg?w=768&width=768&q=75&format=webp | MotorTrend | desconocida |
 | /media/audi-a5-avant-2025-hunt2.webp | https://www.completecar.ie/img/testdrives/13761_large.jpg | CompleteCar.ie | desconocida |
 | /media/audi-a5-avant-2025-hunt3.webp | https://supertopmotor.com.br/wp-content/uploads/2026/08/A5_Avant-2.png | SupertopMotor | desconocida |
+| /media/delage-d12-gt-2025-precio-ficha-tecnica-hunt1.webp | https://www.motortrend.com/uploads/sites/5/2021/05/Delage-D12-3.jpg | MotorTrend | desconocida |
+| /media/delage-d12-gt-2025-precio-ficha-tecnica-hunt2.webp | https://www.carscoops.com/wp-content/uploads/2022/05/Delage-D12-5-400x267.jpg | Carscoops | desconocida |
+| /media/qjmotor-srk-921rr-hunt1.webp | https://www.qj-motor.net/wp-content/uploads/2024/12/赛921-1187_SRK921RR_black_1890x1400px.png | QJMotor Deutschland (oficial) | desconocida |
+| /media/qjmotor-srk-921rr-hunt2.webp | https://qjmotor.com.pl/wp-content/uploads/2025/11/srk921rr-3.png | QJMotor Polska (oficial) | desconocida |
+| /media/qjmotor-srk-921rr-hunt3.webp | https://bikes.motobank.co.uk/storage/qjmotor/srk-921-rr-2054/h/srk-921-rr-2054-hero.jpg | MotoBank / Motogb | desconocida |
+| /media/volvo-xc90-b5-2025-precio-ficha-tecnica-hunt1.webp | https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2024/11/Volvo-XC90-scaled.jpg | CBT News | desconocida |
+| /media/volvo-xc90-b5-2025-precio-ficha-tecnica-hunt2.webp | https://www.autoblog.com/.image/MjA5MTkxNjY4MTg2MDk3MjY0/2025%20Volvo%20XC90.jpg?profile=w2560&ar=4-3&x=50&y=50 | Autoblog | desconocida |
+| /media/volvo-xc90-b5-2025-precio-ficha-tecnica-hunt3.webp | https://www.autoblog.com/.image/MjA5MTkxNjY4NDUzMDI1Mzky/2025%20Volvo%20XC90.jpg?profile=w2560&ar=4-3&x=50&y=50 | Autoblog | desconocida |
+| /media/denza-n8-ev-2026-precio-ficha-tecnica-hunt1.webp | https://electrek.co/wp-content/uploads/sites/3/2026/08/BYD-new-Denza-N8-EV-range.jpeg | Electrek | desconocida |
+| /media/denza-n8-ev-2026-precio-ficha-tecnica-hunt2.webp | https://www.carscoops.com/wp-content/uploads/webp/2026/07/Denza-N8-007-copy-1024x576.webp | Car Scoops | desconocida |
+| /media/denza-n8-ev-2026-precio-ficha-tecnica-hunt3.webp | https://www.techbox.sk/wp-content/uploads/2026/08/Denza-N8-976x549.jpg | Techbox.sk | desconocida |
+| /media/laika-ecovip-600-2026-precio-ficha-tecnica-hunt1.webp | https://www.camperonline.it/camper-nuovi-usati/Foto/169608800119.Laika-Ecovip-600---Furgonato-con.jpg | Camperonline.it | desconocida |
+| /media/laika-ecovip-600-2026-precio-ficha-tecnica-hunt2.webp | https://media.idylcar.fr/vehicles/TOU-2409-17919/gallery/ccd_1494_camping_car_e_camping-car-dumon-laika-ecovip-600-2.jpg.webp | Idylcar (Francia) | desconocida |
+| /media/laika-ecovip-600-2026-precio-ficha-tecnica-hunt3.webp | https://www.vrcamper.it/uploads/2023/03/1._laika_ecovip_600_-_furgonato_con_letto_sul_tetto.jpg | VR Camper (vrcamper.it) | desconocida |
+| /media/volkswagen-multivan-ehybrid-2026-hunt1.webp | https://cdn.caranddriving.com/f2/images/new/large/volkswagenmultivanehybrid0426.jpg | Car and Driving | desconocida |
+| /media/volkswagen-multivan-ehybrid-2026-hunt2.webp | https://wiveda-vehicle-images-production.s3.eu-central-1.amazonaws.com/vehicles/30117ddc-61cf-4dc4-bb5a-69288c165221/images/volkswagen-t7-multivan-2026-4-9dc5a087__w1024.webp | Wiveda / Volkswagen AG | desconocida |
+| /media/volkswagen-multivan-ehybrid-2026-hunt3.webp | https://www.garajehermetico.com/wp-content/uploads/2021/11/volkswagen_multivan_ehybrid_energetic_64-1.jpg | Garaje Hermético | desconocida |
+| /media/volvo-ex30-2025-precio-ficha-tecnica-hunt1.webp | https://parkers-images.bauersecure.com/wp-images/432164/801x534/volvo_ex30_310.jpeg | Parkers | desconocida |
+| /media/volvo-ex30-2025-precio-ficha-tecnica-hunt2.webp | https://www.motortrend.com/uploads/2023/06/01-2025-volvo-ex30-inteiror-dash.jpg | MotorTrend | desconocida |
+| /media/volvo-ex30-2025-precio-ficha-tecnica-hunt3.webp | https://i.bstr.es/highmotor/2023/10/Volvo-EX30-Front-880x600.jpg | Highmotor (i.bstr.es) | desconocida |
+| /media/zontes-e125-hunt1.webp | http://mujeresmoteras.com/wp-content/uploads/ZONTES-E125-2024_05-scaled.jpg | Mujeres Moteras | desconocida |
+| /media/zontes-e125-hunt2.webp | https://www.ramirezmoto.es/admin/pictures/zoom/zontes-e125-rojo-11.jpg | Ramírez Moto | desconocida |
+| /media/zontes-e125-hunt3.webp | https://mymotorss.com/wp-content/uploads/2024/02/BIKESREPUBLIC.COM-ZONTES-E125-ZONTES-E125-NG-7-KNKcVm.jpeg | BikesRepublic (vía MyMotorss) | desconocida |
