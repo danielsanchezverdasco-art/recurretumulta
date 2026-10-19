@@ -463,3 +463,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/egret-ey-3-hunt1.webp | https://www.technikdirekt.de/egret-ey-3-e-scooter-190929 | TechnikDirekt | desconocida |
 | /media/egret-ey-3-hunt2.webp | https://nexalia.de/Egret-Ey-3-E-Scooter | Nexalia | desconocida |
 | /media/egret-ey-3-hunt3.webp | https://www.expert-technomarkt.de/E-Scooter/Egret-Ey-3-18,6-kg-E-Scooter-7,65-Ah-Grau.13930002463.html | Expert Technomarkt | desconocida |
+| /media/bronco-xtreme-11-hunt1.webp | https://bronco-motors-co.myshopify.com/cdn/shop/files/X11_4_695x629.jpg?v=1701313266 | Bronco Motors (tienda oficial del fabricante) | desconocida |
+| /media/bronco-xtreme-11-hunt2.webp | https://vrooomin-media.b-cdn.net/banners/2023/january/bronco-motors-xtreme-11-.webp | Vrooomin | desconocida |
+| /media/bronco-xtreme-11-hunt3.webp | https://scooter.guide/wp-content/uploads/2021/04/bronco11-1080x675.png | Scooter Guide (review Bronco 11 Extreme) | desconocida |
+| /media/sym-symphony-st-125-2026-ficha-tecnica-precio-hunt1.webp | https://sym-italia.it/ | SYM Italia (oficial) | desconocida |
+| /media/sym-symphony-st-125-2026-ficha-tecnica-precio-hunt2.webp | http://www.namurabikes.es/sym-symphony-st-lc-125-2026/ | Namura Bikes | desconocida |
+| /media/sym-symphony-st-125-2026-ficha-tecnica-precio-hunt3.webp | http://www.namurabikes.es/sym-symphony-st-lc-125-2026/ | Namura Bikes | desconocida |
+| /media/aixam-city-pack-2025-precio-ficha-tecnica-hunt1.webp | https://motociclobarcelense.pt/wp-content/uploads/2025/06/aixam-city-pack.webp | Moto Ciclo Barcelense | desconocida |
+| /media/aixam-city-pack-2025-precio-ficha-tecnica-hunt2.webp | https://minicarsbcn.com/wp-content/uploads/2024/04/CITY_PACK-Gris_Argent-34AV-o-1-1-1024x576.jpg | Mini Cars BCN | desconocida |
+| /media/aixam-city-pack-2025-precio-ficha-tecnica-hunt3.webp | https://vsp-location.fr/wp-content/uploads/2025/11/AIXAM-City-Pack-Rouge-1.webp | VSP Location | desconocida |
+| /media/isinwheel-gt1-hunt1.webp | https://www.isinwheel.eu/cdn/shop/files/2_b2d936d7-68b5-4f42-bc15-6b07b90a7b7e_1800x1800.png?v=1760947372 | iSinwheel (web oficial UE) | desconocida |
+| /media/isinwheel-gt1-hunt2.webp | https://www.isinwheel.co.uk/cdn/shop/files/0.6_1800x1800.jpg?v=1728442606 | iSinwheel (web oficial UK) | desconocida |
+| /media/isinwheel-gt1-hunt3.webp | https://s13emagst.akamaized.net/products/103671/103670843/images/res_bd69ec4a3a1d088f7cbe0ed35617708c.jpg?width=720&height=720&hash=2E939EF19C892E9FED10B4F01DDFBEF7 | eMag | desconocida |
+| /media/jeep-renegade-4xe-190-2026-precio-ficha-tecnica-hunt1.webp | https://moparinsiders.com/wp-content/uploads/2020/07/Jeep-Renegade-S_4xe-46-2048x1154.jpg | Mopar Insiders (foto oficial Jeep) | desconocida |
+| /media/jeep-renegade-4xe-190-2026-precio-ficha-tecnica-hunt2.webp | https://back.prod.groupechopard.com/storage/media/2/0/4/9/5/7/conversions/jeep_renegade_4xe_1x1-cms_desktop.webp | Groupe Chopard | desconocida |
+| /media/jeep-renegade-4xe-190-2026-precio-ficha-tecnica-hunt3.webp | https://www.completecar.ie/img/galleries/10267/jeeprenegadeth_4xe_31_.jpg | CompleteCar.ie | desconocida |
+| /media/porsche-taycan-gts-2026-precio-ficha-tecnica-hunt1.webp | https://images.dailyrevs.com/0000/v3/Porsche/67343c6489ed6f019096c0dd/2025-taycan-gts-j1-2-porsche-6wrzw3lllll0f5x5spnbwbv.jpeg | DailyRevs (foto oficial Porsche) | desconocida |
+| /media/porsche-taycan-gts-2026-precio-ficha-tecnica-hunt2.webp | https://cimg0.ibsrv.net/ibimg/hgm/1919x1079-1/100/948/2025-porsche-taycan_100948740.jpg | Motor Authority (foto oficial Porsche) | desconocida |
+| /media/porsche-taycan-gts-2026-precio-ficha-tecnica-hunt3.webp | https://www.stuttcars.com/wp-content/uploads/2024/09/2025-Porsche-Taycan-GTS-2.jpg | StuttCars (foto oficial Porsche) | desconocida |
+| /media/zero-dsr-2025-ficha-tecnica-precio-hunt1.webp | https://www.xrmotos.es/wp-content/uploads/DSR_MY25_Profile-1500x936.png | XR Motos (foto oficial Zero Motorcycles) | desconocida |
+| /media/zero-dsr-2025-ficha-tecnica-precio-hunt2.webp | https://images.prismic.io/zero-cms-disco/ZxZLjIF3NbkBXxJJ_DSR_MY25_Fix_4.png?auto=format | Zero Motorcycles (web oficial) | desconocida |
+| /media/zero-dsr-2025-ficha-tecnica-precio-hunt3.webp | https://images5.1000ps.net/images_bikekat/2025/199-Zero/8395-DSR/036-638791960471095476-zero-dsr.jpg?mode=crop&width=450&height=300 | 1000PS | desconocida |
+| /media/turboant-r9-hunt1.webp | https://turboant.com/products/r9-all-terrain-electric-scooter | TurboAnt | desconocida |
+| /media/turboant-r9-hunt2.webp | https://turboant.com/products/refurbished-r9-e-scooter | TurboAnt | desconocida |
+| /media/turboant-r9-hunt3.webp | https://turboant.com/products/r9-all-terrain-electric-scooter | TurboAnt | desconocida |
