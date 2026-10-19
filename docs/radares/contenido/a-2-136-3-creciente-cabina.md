@@ -12,6 +12,15 @@
 
 La ficha oficial sitúa el control en la **A-2, pk 136,3**, provincia de Guadalajara. El cinemómetro apunta al **sentido creciente** (dirección de pk crecientes). La DGT no difunde el destino asociado a este punto, así que el sentido se describe por la numeración kilométrica, no por localidades. El punto vigilado más cercano es el de la **A-2, pk 122,0** (sentido decreciente): queda a 22,1 km hacia el suroeste. Le sigue en proximidad el de la **CM-1101, pk 12,5** (sentido decreciente), situado a 23,3 km hacia el oeste. Quien circula por aquí suele llevar ya muchos kilómetros encima: el cansancio también suma riesgo.
 
+<iframe title="Mapa: radar a-2-136-3-creciente-cabina" src="https://www.google.com/maps?q=41.04958,-2.44698&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-2-136-3-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=41.04958,-2.44698&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 El eje es la A-2, la Autovía del Nordeste, que une Madrid con Zaragoza y Barcelona. Por aquí discurre el tráfico interregional junto al de los desplazamientos cortos de la zona. Este punto figura en el dataset de radares fijos por ser proclive a las velocidades inadecuadas. La A-2 suma 4 puntos de control en Castilla-La Mancha; este ocupa el cuarto lugar por pk. En la misma A-2, el control más próximo es el del pk 122,0 (sentido decreciente): dista 22,1 km hacia el suroeste. En definitiva, un tramo donde la disciplina con el acelerador marca la diferencia. Quien la recorre con frecuencia aprende dónde están los puntos delicados; quien no, debería extremar la atención.
