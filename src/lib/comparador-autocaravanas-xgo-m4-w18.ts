@@ -82,7 +82,7 @@ Para qui√©n es: encaja con parejas que buscan su primer camper o un segundo veh√
       { src: "/media/xgo-x-van-102-2026-precio-ficha-tecnica-oficial.webp", alt: "XGO X-Van 102, vista exterior", ancho: 830, alto: 467 },
       { src: "/media/xgo-x-van-102-2026-precio-ficha-tecnica-interior1.webp", alt: "XGO X-Van 102, interior", ancho: 1000, alto: 667 },
       { src: "/media/xgo-x-van-102-2026-precio-ficha-tecnica-interior2.webp", alt: "XGO X-Van 102, interior", ancho: 1000, alto: 667 },
-      { src: "/media/xgo-x-van-102-2026-precio-ficha-tecnica-detalle.webp", alt: "XGO X-Van 102, detalle", ancho: 1000, alto: 563 },
+      { src: "/media/xgo-x-van-102-2026-precio-ficha-tecnica-detalle.webp", alt: "XGO X-Van 102, vista exterior", ancho: 1920, alto: 1080 },
     ],
     analisisSlug: "xgo-x-van-102-2026-analisis-opinion",
     planMantenimiento: {
