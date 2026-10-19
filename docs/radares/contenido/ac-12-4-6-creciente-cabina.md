@@ -12,6 +12,14 @@
 
 La AC-12 acoge esta cabina en su pk 4,6, término de Oleiros (A Coruña); coordenadas 43.332726, -8.378234. El control apunta al sentido creciente, el de los pks ascendentes, con destino San Pedro de Nós según el registro. El enlace de Street View de la cabecera muestra el punto exacto.
 
+<iframe title="Mapa: radar ac-12-4-6-creciente-cabina" src="https://www.google.com/maps?q=43.332726,-8.378234&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar ac-12-4-6-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=43.332726,-8.378234&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La AC-12 es una autovía autonómica de la Xunta de Galicia que da acceso a A Coruña. La DGT la registra con la singularidad «MEDIANA» y su denominación oficial la identifica como autovía: régimen de alta capacidad. Sin más datos del tramo, la ficha no le atribuye rasgos sin documentar.
