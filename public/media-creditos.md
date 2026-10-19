@@ -752,3 +752,26 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/renault-arkana-2024-tce-140-precio-ficha-tecnica-hunt1.webp | https://www.dailyrevs.com/cars/2024-renault-arkana | DailyRevs (fotos de prensa de Renault) | desconocida |
 | /media/renault-arkana-2024-tce-140-precio-ficha-tecnica-hunt2.webp | https://media.renault.ch/__/144293.aa6c1b01.jpg | Renault Suiza (prensa oficial) | desconocida |
 | /media/renault-arkana-2024-tce-140-precio-ficha-tecnica-hunt3.webp | https://gossipvehiculo.com/2023/07/12/presentacion-del-rediseno-del-renault-arkana-2024-con-el-nivel-de-acabado-superior-esprit-alpine/ | GossipVehiculo (fotos de prensa de Renault) | desconocida |
+| /media/aston-martin-valiant-2024-precio-ficha-tecnica-hunt1.webp | https://www.estadiodeportivo.com/motor/precio-del-nuevo-aston-martin-valiant-disenado-por-fernando-alonso-20240626-456376.html | Estadio Deportivo | desconocida |
+| /media/aston-martin-valiant-2024-precio-ficha-tecnica-hunt2.webp | https://www.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/aston_martin_valiant_interior.jpg | Autocar UK | desconocida |
+| /media/aston-martin-valiant-2024-precio-ficha-tecnica-hunt3.webp | https://www.magnetomagazine.com/articles/category/motor-sport/formula-1/page/6/ | Magneto | desconocida |
+| /media/renault-rafale-2024-e-tech-4x4-300-precio-ficha-tecnica-hunt1.webp | https://media.renault.ro/uploads/RENAULT/Rafale/Renault%20Rafale%204x4%20300%20CP.jpg | Renault (prensa oficial, media.renault.ro) | desconocida |
+| /media/renault-rafale-2024-e-tech-4x4-300-precio-ficha-tecnica-hunt2.webp | https://www.planetcarsz.com/img/carros/galeria/2024/11/renault-rafale-e-tech-4x4-300-cv-plug-in-hybrid-2025-067-20241114192925-1600x1067.jpg | PlanetCarsZ | desconocida |
+| /media/renault-rafale-2024-e-tech-4x4-300-precio-ficha-tecnica-hunt3.webp | https://www.automobile.at/magazine-content/Motor1_images/embed-630_420-1Z4Wxw-2024-renault-rafale-interior.jpg | Automobile.at (Motor1) | desconocida |
+| /media/lamborghini-temerario-2025-precio-ficha-tecnica-hunt1.webp | https://www.supercars.net/blog/2025-lamborghini-temerario-an-in-depth-look/ | Supercars.net (medio del motor) | desconocida |
+| /media/lamborghini-temerario-2025-precio-ficha-tecnica-hunt2.webp | https://www.lamborghinihouston.com/2025-lamborghini-temerario | Lamborghini Houston (concesionario oficial, asset de prensa) | desconocida |
+| /media/lamborghini-temerario-2025-precio-ficha-tecnica-hunt3.webp | https://news.dupontregistry.com/reviews/track-review-lamborghini-temerario-estoril/ | duPont Registry (medio del motor) | desconocida |
+| /media/beta-alp-4-0-2025-ficha-tecnica-precio-hunt1.webp | https://www.1000ps.com/fr-fr/modele/1369/beta-alp-4-0/2025 | 1000PS / Beta press | desconocida |
+| /media/beta-alp-4-0-2025-ficha-tecnica-precio-hunt2.webp | https://www.bachner-lunz.at/index.php/motorraeder/beta/304-beta-alp-4-0-und-alp-x-2025 | bachner-lunz.at / Beta press | desconocida |
+| /media/beta-alp-4-0-2025-ficha-tecnica-precio-hunt3.webp | https://adbmag.com.au/editorial/beta-australia-introduces-alp-4-0-alp-x/ | ADB Mag Australia / Beta press | desconocida |
+| /media/speedway-mini-4-pro-hunt1.webp | https://www.aurgi.com/market/speedway-mini-4-pro | aurgi.com | desconocida |
+| /media/speedway-mini-4-pro-hunt2.webp | https://www.aurgi.com/market/speedway-mini-4-pro | aurgi.com | desconocida |
+| /media/speedway-mini-4-pro-hunt3.webp | https://ewheelsthailand.com/p/dualtron-mini-4/ | ewheelsthailand.com | desconocida |
+| /media/kia-ev3-air-2025-precio-ficha-tecnica-hunt1.webp | https://www.kia.com/es/modelos/ev3/ | Kia (web oficial del producto) | desconocida |
+| /media/kia-ev3-air-2025-precio-ficha-tecnica-hunt2.webp | https://images.carexpert.com.au/app/uploads/2024/05/2025-kia-ev3-3.jpg | CarExpert | desconocida |
+| /media/kia-ev3-air-2025-precio-ficha-tecnica-hunt3.webp | https://www.ev-arab.com/blog/%D9%83%D9%8A%D8%A7-ev3 | ev-arab.com (foto prensa Kia) | desconocida |
+| /media/audi-a8-2025-precio-ficha-tecnica-hunt1.webp | https://emea-dam.audi.com/adobe/assets/urn:aaid:aem:b40a0dc7-dd8f-40df-9932-a583faa19750/as/Audi-A8.jpg | Audi (prensa oficial) | desconocida |
+| /media/audi-a8-2025-precio-ficha-tecnica-hunt2.webp | https://www.autoblog.com/cars/audi/a8/2025 | Autoblog | desconocida |
+| /media/renault-4-e-tech-40-kwh-2025-precio-ficha-tecnica-hunt1.webp | https://www.renaultplaisancedutouch.com/details-renault+4+e-tech-368 | Renault (concesionario, prensa) | desconocida |
+| /media/renault-4-e-tech-40-kwh-2025-precio-ficha-tecnica-hunt2.webp | https://www.carwow.es/renault/4-e-tech/interior | carwow | desconocida |
+| /media/renault-4-e-tech-40-kwh-2025-precio-ficha-tecnica-hunt3.webp | https://octopusev.com/cars/renault-4-e-tech-internal-use-only | Octopus EV | desconocida |
