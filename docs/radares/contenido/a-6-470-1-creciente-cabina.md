@@ -11,6 +11,14 @@
 ## Dónde está
 
 Esta cabina está en la A-6, pk 470,1, en Baralla (Lugo): 42.90851, -7.304217. Su campo de medida es el sentido creciente —tráfico hacia pks mayores—; el registro de la DGT le asigna como destino A Coruña. La vista de Street View lo sitúa sobre el terreno.
+
+<iframe title="Mapa: radar a-6-470-1-creciente-cabina" src="https://www.google.com/maps?q=42.90851,-7.304217&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-6-470-1-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.90851,-7.304217&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
 ## La carretera
 
 La A-6 es una autovía de titularidad estatal con calzadas independientes por sentido. La DGT la recoge con la singularidad «AUTOPISTA / AUTOVÍA». El documento oficial no caracteriza el pk 470,1.
