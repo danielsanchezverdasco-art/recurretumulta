@@ -1911,3 +1911,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/ford-fiesta-st-2023-hunt1.webp | https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_675,q_auto:eco,w_1200/v1/cms/uploads/xm2qmqociljfv4nvvrtm | Drive.com.au (prensa del motor) | desconocida |
 | /media/ford-fiesta-st-2023-hunt2.webp | https://car-images.stg.bauersecure.com/wp-images/12889/1752x1168/fiesta_st_080.jpg?mode=max&quality=90&scale=down | Bauer Media (prensa del motor) | desconocida |
 | /media/ford-fiesta-st-2023-hunt3.webp | https://www.lmc-cars.co.uk/cdn/img/9296/2?v=1786782262&w=1600 | LMC Cars (concesionario) | desconocida |
+| /media/jetour-x95-2024-precio-ficha-tecnica-hunt1.webp | https://www.liteauto.by/api/photos/5904/1?v=2 | liteauto.by (anuncio concesionario) | desconocida |
+| /media/jetour-x95-2024-precio-ficha-tecnica-hunt2.webp | https://www.liteauto.by/api/photos/5904/2?v=2 | liteauto.by (anuncio concesionario) | desconocida |
+| /media/jetour-x95-2024-precio-ficha-tecnica-hunt3.webp | https://ymimg1.b8cdn.com/resized/article/17628/pictures/13714022/listing_main_02.jpg | Yallamotor (prensa del motor) | desconocida |
+| /media/super-soco-tc-wanderer-2025-ficha-tecnica-precio-hunt1.webp | https://vmoto.co.za/wp-content/uploads/2023/04/1-tc-wanderer-electric-motorbike-vintage-green-1.jpg | Vmoto Soco (distribuidor oficial ZA) | desconocida |
+| /media/super-soco-tc-wanderer-2025-ficha-tecnica-precio-hunt2.webp | https://topauto.co.za/wp-content/uploads/2023/11/2023-VMoto-Super-Soco-TC-Wanderer.jpg | TopAuto (prensa del motor) | desconocida |
+| /media/super-soco-tc-wanderer-2025-ficha-tecnica-precio-hunt3.webp | https://horizonmicromobility.com/cdn/shop/files/vmoto-tc-wanderer-electric-bike-black-2_1800x1800.png?v=1732531796 | Horizon Micro Mobility (distribuidor) | desconocida |
+| /media/zwheel-zwolf-duo-hunt1.webp | https://electricalthingspain.com/wp-content/uploads/2026/02/Zwheel-Zwolf-duo-laterall-600x600.jpg | Electrical Thing Spain (distribuidor, pagina del producto ZWolf Duo) | desconocida |
+| /media/zwheel-zwolf-duo-hunt2.webp | https://www.ofertitastop.com/i/M1clCJiF6VrWx_0My6iKN4MZaEHR19G0lHqNKUUfXrJj-Z7KRqK6it4AMFbT57qmzZehXxWtSRD7sVadX9rT5DYVHXfF4R44rTM_pBsX3iAtPan-CLXK0ZCE.jpg | OfertitasTop (via El Corte Ingles) | desconocida |
+| /media/zwheel-zwolf-duo-hunt3.webp | https://dam.elcorteingles.es/producto/www-8436621651864-00.jpg?impolicy=Fill&width=440&height=440 | El Corte Ingles (foto de producto oficial Zwheel) | desconocida |
+| /media/aixam-minauto-access-2025-precio-ficha-tecnica-hunt1.webp | https://d2ftqzf4nsbvwq.cloudfront.net/wp-content/uploads/www.degraafmobiliteit.nl/2024/08/e-Minauto_blanc-34AV-6K-OMBRE-1-1600x1200.png | De Graaf Mobiliteit (concesionario oficial Aixam) | desconocida |
+| /media/aixam-minauto-access-2025-precio-ficha-tecnica-hunt2.webp | https://unimotor.es/wp-content/uploads/2025/10/aixam-minauto-access-2024-8.jpg | Unimotor | desconocida |
+| /media/aixam-minauto-access-2025-precio-ficha-tecnica-hunt3.webp | https://unimotor.es/wp-content/uploads/2025/10/aixam-minauto-access-2024-25.jpg | Unimotor | desconocida |
+| /media/ford-f-150-lightning-2025-hunt1.webp | https://storage.googleapis.com/writers/ford/vehicles/2025/2025%20Ford%20F-150%20Lightning/Jellybeans/Jellybean3.png | Ford Motor Company (imagen oficial de prensa, vía Haldeman Ford) | desconocida |
+| /media/ford-f-150-lightning-2025-hunt2.webp | https://vehi.b-cdn.net/models/2025/Ford/F-150%20Lightning/2025-lightning-flash.png | South Bay Ford | desconocida |
+| /media/ford-f-150-lightning-2025-hunt3.webp | https://minerva.leadboxhq.com/wp-content/uploads/2024/12/9-11-1024x512.png | IAG Canada (imagen oficial Ford) | desconocida |
+| /media/jetour-x90-plus-2024-precio-ficha-tecnica-hunt1.webp | https://global-img.bitauto.com/usercenter/autoalbum/20240816/364/w0_yichecar_379148936490853.jpg | Bitauto/Yiche (foto de prensa oficial Jetour) | desconocida |
+| /media/jetour-x90-plus-2024-precio-ficha-tecnica-hunt2.webp | https://firstautobroker.ru/wp-content/uploads/2024/11/jetour-x90-plus-1-1536x864-1.webp | First Auto Broker | desconocida |
+| /media/jetour-x90-plus-2024-precio-ficha-tecnica-hunt3.webp | https://www.autopediame.com/storage/images/Jetour/X90%20Plus/2024/Jetour%20X90%20Plus%202024%20Interior%20.jpg | Autopediame.com | desconocida |
+| /media/vmoto-stash-2025-ficha-tecnica-precio-hunt1.webp | https://vmoto.co.uk/app/uploads/2024/06/Red-Stash.png | VMoto (web oficial) | desconocida |
+| /media/vmoto-stash-2025-ficha-tecnica-precio-hunt2.webp | https://scoot-elec.com/uploads-webpc/uploads/2024/05/vmoto-stash-noir-4-scootelec.png.webp | Scoot-elec.com | desconocida |
+| /media/vmoto-stash-2025-ficha-tecnica-precio-hunt3.webp | https://cdn.prod.website-files.com/63610ed18f08834db3e3e4d9/67264bd75f710ed44c04a497_Side%20Blue.jpg | Flex Electric | desconocida |
+| /media/zwheel-e9t-hunt1.webp | https://www.lacasadeloutlet.es/wp-content/uploads/2021/10/Patinete-electrico-Zwheel-E9T-gris-3.jpg.webp | La Casa del Outlet | desconocida |
+| /media/zwheel-e9t-hunt2.webp | https://www.discoazul.com/uploads/media/images/patinete-electrico-zamelux-zwheel-e9t-confort-gris-161.jpg | DiscoAzul | desconocida |
+| /media/zwheel-e9t-hunt3.webp | http://lacasadeloutlet.es/wp-content/uploads/2020/11/E9T-standing-right-700x700-1.jpg | La Casa del Outlet | desconocida |
