@@ -12,6 +12,14 @@
 
 El emplazamiento del control es el **pk 55,9 de la CV-10** (provincia de Castellón, Comunitat Valenciana). Registra a los vehículos que marchan en **sentido creciente**, hacia pk crecientes. El geocodificador del IGN sitúa estas coordenadas en **Sierra Engarcerán** (Castellón). A 21,9 km hacia el sur está el control más próximo, el de la **CV-10, pk 26,9** (sentido decreciente).
 
+<iframe title="Mapa: radar cv-10-55-9-creciente-cabina" src="https://www.google.com/maps?q=40.2604,-0.07782&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cv-10-55-9-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.2604,-0.07782&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La carretera en cuestión es la CV-10, la Autovía de la Plana, en la provincia de Castellón. Es un eje con circulación heterogénea: pesados, turismos y motos comparten la calzada. El escenario es la costa de Castellón, con su fisonomía propia.
