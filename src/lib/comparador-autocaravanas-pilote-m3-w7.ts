@@ -7,7 +7,7 @@
 // P740FC y P740FGJ). Se sustituye por el Pilote P720FGJ Evidence, misma familia Pacific Evidence, mismo
 // esquema (salón face-face + camas gemelas sobre garaje) y ficha oficial completa.
 // Notas honestas: Pilote no publica PVP oficial en España (precioDesde = null); la carga útil del P720FGJ
-// Evidence (356 kg) sí la publica pilote.fr; la del V630J (555 kg) la publica pilote-motorhome.uk.
+// Evidence (391 kg) sí la publica pilote.fr; la del V630J (555 kg) la publica pilote-motorhome.uk.
 // Altura del V630J: 2,67 m según pilote-motorhome.uk.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
@@ -35,42 +35,42 @@ export const AUTOCARAVANAS_PILOTE_M3: Autocaravana[] = [
     imagenInteriorOficial: "/media/pilote-p720fgj-evidence-2026-precio-ficha-tecnica-interior1.webp",
     videoId: null,
     videoCanal: null,
-    largoMm: 7200, // pilote.fr (ficha técnica del modelo); la página de la gama indica 7,22 m
+    largoMm: 7220, // pilote.fr (página oficial del modelo, 19/10/2026: 7,22 m)
     anchoMm: 2300, // pilote.fr
     altoMm: 2850, // pilote.fr
     pesoKg: null,
     mmaKg: 3500, // châssis Fiat 3T5
     carnetNecesario: "B",
-    cargaUtilKg: 356, // pilote.fr la publica: "Charge utile, 356 kg"
+    cargaUtilKg: 391, // pilote.fr la publica: "Charge utile, 391 kg" (página oficial del modelo, 19/10/2026)
     consumo: null,
     consumoUnidad: null,
     plazas: 4, // pilote.fr: places assises 4
-    plazasDormir: 4, // pilote.fr: places couchages 4
+    plazasDormir: 2, // pilote.fr: "Places couchage, 2" de serie; 4 con la cama de cabina opcional
     parNm: null,
     traccion: null, // la marca no lo declara en la ficha del modelo
     emisionesCo2: null,
     aprox: [],
-    notas: "Datos de la ficha técnica oficial de pilote.fr (longitud 7,20 m, anchura 2,30 m, altura 2,85 m, 4/5/4 plazas, carga útil 356 kg, motor 2,2 L 140 CV con caja automática, chasis Fiat 3T5, depósito diésel 90 L) y de la página oficial de la gama Evidence (5 modelos, cabina negra, llantas de aleación de 16\", volante soft touch, cajón bajo de carrocería, ducha exterior en el garaje, autorradio Fiat de 7\" con DAB, Apple CarPlay/Android Auto y cámara de marcha atrás). Precio: Pilote no publica tarifa oficial en España (null). Tracción y consumos: la marca no los declara (null).",
+    notas: "Datos de la página oficial del modelo en pilote.fr (longitud 7,22 m, anchura 2,30 m, altura 2,85 m, 4 plazas de viaje, 5 de comedor, 2 para dormir de serie —4 con la cama de cabina opcional—, carga útil 391 kg, motor 2,2 L 140 CV con caja automática, chasis Fiat 3T5, depósito diésel 90 L) y de la página oficial de la gama Evidence (5 modelos, cabina negra, llantas de aleación de 16\", volante soft touch, cajón bajo de carrocería, ducha exterior en el garaje, autorradio Fiat de 7\" con DAB, Apple CarPlay/Android Auto y cámara de marcha atrás). Precio: Pilote no publica tarifa oficial en España (null). Tracción y consumos: la marca no los declara (null). Datos actualizados el 19/10/2026 por la tarde según la página oficial vigente del modelo (longitud 7,22 m, carga útil 391 kg y 2 plazas de noche de serie; valores anteriores 7,20 m / 356 kg / 4 plazas de la ficha técnica consultada por la mañana).",
     curiosidades: "La edición Evidence de Pilote es una serie especial de fábrica pensada como «llave en mano»: solo 5 implantaciones (P690D, P720FC, P720FGJ, P740FC y P740FGJ) que salen de la cadena con caja de cambios automática, cabina negra, llantas de aleación de 16 pulgadas y el pack multimedia Fiat de 7 pulgadas con Apple CarPlay y cámara de marcha atrás, sin necesidad de opciones. Fuente: https://www.pilote.fr/camping-cars/camping-car-evidence/",
-    descripcion: `El Pilote P720FGJ Evidence es una autocaravana perfilada de la gama Pacific que se ha convertido en una de las referencias francesas del segmento de los 7,20 metros: el formato que cabe en casi cualquier parcela, que se conduce con carnet B y que, gracias a su esquema de camas gemelas sobre garaje, resuelve para una pareja el eterno dilema entre dormir bien y llevar de todo. La edición Evidence no es un acabado más del catálogo, sino una serie especial de fábrica: Pilote selecciona cinco implantaciones de su gama —entre ellas este P720FGJ— y las equipa de serie con todo lo que normalmente habría que pedir como opción, con la idea de entregar un vehículo «listo para salir» sin pasar por la lista de extras.
+    descripcion: `El Pilote P720FGJ Evidence es una autocaravana perfilada de la gama Pacific que se ha convertido en una de las referencias francesas del segmento de los 7,22 metros: el formato que cabe en casi cualquier parcela, que se conduce con carnet B y que, gracias a su esquema de camas gemelas sobre garaje, resuelve para una pareja el eterno dilema entre dormir bien y llevar de todo. La edición Evidence no es un acabado más del catálogo, sino una serie especial de fábrica: Pilote selecciona cinco implantaciones de su gama —entre ellas este P720FGJ— y las equipa de serie con todo lo que normalmente habría que pedir como opción, con la idea de entregar un vehículo «listo para salir» sin pasar por la lista de extras.
 
-    En medidas, el P720FGJ Evidence declara 7,20 metros de longitud (7,22 m según la página de presentación de la gama, una diferencia de redondeo sin importancia práctica), 2,30 metros de anchura de célula y 2,85 metros de altura total. Son las dimensiones clásicas de una perfilada de gama media-alta sobre chasis Fiat: lo bastante contenida como para no sufrir en pueblos ni en parkings de supermercado, y lo bastante ancha como para que el salón delantero resulte habitable de verdad. La masa máxima autorizada es de 3.500 kg, por lo que se conduce con el carnet B de toda la vida, y la carga útil oficial que publica Pilote es de 356 kg, una cifra honesta para un vehículo que sale de fábrica ya muy equipado.
+    En medidas, el P720FGJ Evidence declara 7,22 metros de longitud según la ficha oficial del modelo, 2,30 metros de anchura de célula y 2,85 metros de altura total. Son las dimensiones clásicas de una perfilada de gama media-alta sobre chasis Fiat: lo bastante contenida como para no sufrir en pueblos ni en parkings de supermercado, y lo bastante ancha como para que el salón delantero resulte habitable de verdad. La masa máxima autorizada es de 3.500 kg, por lo que se conduce con el carnet B de toda la vida, y la carga útil oficial que publica Pilote es de 391 kg, una cifra honesta para un vehículo que sale de fábrica ya muy equipado.
 
-    La habitabilidad gira en torno a un salón face-face delantero para cinco comensales, con mesa plegable y banquetas enfrentadas que aprovechan la anchura completa de la célula. La cocina, en el lateral, es generosa para lo que se estila en 7,20 metros: plano de trabajo amplio, grandes cajoneras y frigorífico de compresión, con el plus de que la edición Evidence incluye detalles pensados para el día a día, como el cajón bajo de carrocería —ideal para calzas, mangueras o el calzado sucio— y una ducha exterior con agua caliente y fría instalada en el garaje, perfecta para aclarar bicicletas, al perro o las botas de montaña sin meter barro dentro. El cuarto de baño, de tipo transversal e independiente, separa con puertas la zona de día de la zona de noche y aporta la intimidad que en una perfilada de este tamaño no siempre se consigue.
+    La habitabilidad gira en torno a un salón face-face delantero para cinco comensales, con mesa plegable y banquetas enfrentadas que aprovechan la anchura completa de la célula. La cocina, en el lateral, es generosa para lo que se estila en 7,22 metros: plano de trabajo amplio, grandes cajoneras y frigorífico de compresión, con el plus de que la edición Evidence incluye detalles pensados para el día a día, como el cajón bajo de carrocería —ideal para calzas, mangueras o el calzado sucio— y una ducha exterior con agua caliente y fría instalada en el garaje, perfecta para aclarar bicicletas, al perro o las botas de montaña sin meter barro dentro. El cuarto de baño, de tipo transversal e independiente, separa con puertas la zona de día de la zona de noche y aporta la intimidad que en una perfilada de este tamaño no siempre se consigue.
 
-    Donde el P720FGJ Evidence marca la diferencia es en la zona de noche trasera: dos camas gemelas elevadas sobre un garaje de gran altura, con colchones confortables sobre somieres de lamas y la posibilidad de unirlas mediante la extensión central para formar una cama XXL. Debajo, el garaje pasante con doble portón lateral ofrece una altura excelente para transportar bicicletas, sillas o material voluminoso, y queda aislado térmicamente para no penalizar la calefacción. Con las dos camas gemelas más la cama de cabina, el vehículo homologa cuatro plazas para dormir, y de ahí que sea una de las perfiladas favoritas de las parejas que viajan con hijos o nietos de forma ocasional.
+    Donde el P720FGJ Evidence marca la diferencia es en la zona de noche trasera: dos camas gemelas elevadas sobre un garaje de gran altura, con colchones confortables sobre somieres de lamas y la posibilidad de unirlas mediante la extensión central para formar una cama XXL. Debajo, el garaje pasante con doble portón lateral ofrece una altura excelente para transportar bicicletas, sillas o material voluminoso, y queda aislado térmicamente para no penalizar la calefacción. Con las dos camas gemelas de serie (más la cama de cabina opcional, que eleva la capacidad a cuatro plazas), es una de las perfiladas favoritas de las parejas que viajan con hijos o nietos de forma ocasional.
 
     En mecánica, la ficha oficial es clara: motor Fiat de 2,2 litros y 140 CV asociado de serie a la caja de cambios automática sobre el chasis Fiat de 3,5 toneladas, con depósito de gasóleo de 90 litros. La dotación de seguridad de la cabina incluye ABS, ASR, ESP y el sistema Traction+ con control de descenso, además de airbags de conductor y acompañante, regulador y limitador de velocidad y climatización manual. La edición Evidence añade la cabina en negro —un guiño estético que la distingue a primera vista—, llantas de aleación de 16 pulgadas, volante «soft touch» y aireadores con acabado aluminio, además del pack multimedia completo: autorradio Fiat de 7 pulgadas con DAB, conectividad Apple CarPlay y Android Auto, cámara de marcha atrás y altavoces repartidos entre cabina y célula.
 
     En el capítulo de precios hay que ser honestos: Pilote no publica una tarifa oficial para España, de modo que el precio de partida queda en null en esta ficha. La marca trabaja con configurador y red de concesionarios, y el precio final depende del mercado, las opciones y las campañas. Como referencia orientativa —no oficial— los anuncios de unidades nuevas de la gama Evidence se mueven en el entorno de los 80.000 euros en Francia, pero cada comprador deberá pedir presupuesto a un distribuidor. En España, Pilote cuenta con una red de concesionarios repartida por las principales comunidades autónomas, y el servicio postventa lo prestan esos mismos puntos de venta con el respaldo de la fábrica francesa.
 
-    Cómo lo verificamos: los datos técnicos (7,20 m de longitud, 2,30 m de anchura, 2,85 m de altura, 4 plazas de viaje, 5 de comedor y 4 para dormir, carga útil de 356 kg, motor 2,2 L de 140 CV con cambio automático y chasis Fiat de 3,5 t) proceden de la ficha oficial del modelo en pilote.fr, consultada el 19/10/2026; la descripción de la edición Evidence (cinco modelos, cabina negra, llantas de 16", pack multimedia de 7" con CarPlay y cámara trasera, cajón bajo de carrocería y ducha exterior en el garaje) procede de la página oficial de la gama Evidence en pilote.fr. El modelo asignado originalmente, P726FGJ Evidence, ya no aparece en el catálogo oficial vigente (su página devuelve error), por lo que se ha sustituido por este P720FGJ Evidence, de la misma familia y con ficha oficial completa.
+    Cómo lo verificamos: los datos técnicos (7,22 m de longitud, 2,30 m de anchura, 2,85 m de altura, 4 plazas de viaje, 5 de comedor y 2 para dormir de serie —4 con la cama de cabina opcional—, carga útil de 391 kg, motor 2,2 L de 140 CV con cambio automático y chasis Fiat de 3,5 t) proceden de la página oficial del modelo en pilote.fr, consultada el 19/10/2026 (actualizados esa misma tarde; la ficha consultada por la mañana indicaba 7,20 m / 356 kg / 4 plazas); la descripción de la edición Evidence (cinco modelos, cabina negra, llantas de 16", pack multimedia de 7" con CarPlay y cámara trasera, cajón bajo de carrocería y ducha exterior en el garaje) procede de la página oficial de la gama Evidence en pilote.fr. El modelo asignado originalmente, P726FGJ Evidence, ya no aparece en el catálogo oficial vigente (su página devuelve error), por lo que se ha sustituido por este P720FGJ Evidence, de la misma familia y con ficha oficial completa.
 
-    Para quién es: encaja con parejas que quieren una perfilada manejable pero sin renunciar a dormir en camas separadas de verdad, y que valoran salir del concesionario sin pelearse con la lista de opciones. Es también una buena candidata para quien alquila su autocaravana o la usa con nietos, por sus cuatro plazas de noche. No encaja, en cambio, con quien busque una cama central isla (aquí las camas son gemelas), con quien necesite cinco plazas de viaje homologadas o con quien quiera el precio cerrado en web: en Pilote el precio se negocia en el concesionario.`,
+    Para quién es: encaja con parejas que quieren una perfilada manejable pero sin renunciar a dormir en camas separadas de verdad, y que valoran salir del concesionario sin pelearse con la lista de opciones. Es también una buena candidata para quien alquila su autocaravana o la usa con nietos, con dos plazas de noche de serie (cuatro con la cama de cabina opcional). No encaja, en cambio, con quien busque una cama central isla (aquí las camas son gemelas), con quien necesite cinco plazas de viaje homologadas o con quien quiera el precio cerrado en web: en Pilote el precio se negocia en el concesionario.`,
     pros: [
       "Edición Evidence «llave en mano»: cambio automático, cabina negra y pack multimedia de serie sin pasar por opciones",
-      "Camas gemelas traseras sobre garaje de gran altura, unibles en cama XXL, más cama de cabina: 4 plazas de noche",
-      "Carga útil oficial de 356 kg publicada por la marca, honesta para un vehículo tan equipado",
+      "Camas gemelas traseras sobre garaje de gran altura, unibles en cama XXL (2 plazas de serie, 4 con cama de cabina opcional)",
+      "Carga útil oficial de 391 kg publicada por la marca, honesta para un vehículo tan equipado",
       "Detalles prácticos de serie: cajón bajo de carrocería y ducha exterior con agua caliente en el garaje",
       "Motor Fiat 2,2 L de 140 CV con cambio automático y chasis de 3,5 t: se conduce con carnet B",
     ],
@@ -83,10 +83,10 @@ export const AUTOCARAVANAS_PILOTE_M3: Autocaravana[] = [
     ],
     opiniones: [],
     galeria: [
-      { src: "/media/pilote-p720fgj-evidence-2026-precio-ficha-tecnica-oficial.webp", alt: "Pilote P720FGJ Evidence, vista exterior", ancho: 1200, alto: 800 },
-      { src: "/media/pilote-p720fgj-evidence-2026-precio-ficha-tecnica-interior1.webp", alt: "Pilote P720FGJ Evidence, camas gemelas", ancho: 800, alto: 600 },
-      { src: "/media/pilote-p720fgj-evidence-2026-precio-ficha-tecnica-interior2.webp", alt: "Pilote P720FGJ Evidence, salón", ancho: 587, alto: 440 },
-      { src: "/media/pilote-p720fgj-evidence-2026-precio-ficha-tecnica-detalle.webp", alt: "Pilote P720FGJ Evidence, detalle exterior", ancho: 2016, alto: 1512 },
+      { src: "/media/pilote-p720fgj-evidence-2026-precio-ficha-tecnica-oficial.webp", alt: "Pilote P720FGJ Evidence, vista exterior", ancho: 2048, alto: 2048 },
+      { src: "/media/pilote-p720fgj-evidence-2026-precio-ficha-tecnica-interior1.webp", alt: "Pilote P720FGJ Evidence, camas gemelas", ancho: 730, alto: 512 },
+      { src: "/media/pilote-p720fgj-evidence-2026-precio-ficha-tecnica-interior2.webp", alt: "Pilote P720FGJ Evidence, salón", ancho: 768, alto: 512 },
+      { src: "/media/pilote-p720fgj-evidence-2026-precio-ficha-tecnica-detalle.webp", alt: "Pilote P720FGJ Evidence, detalle exterior", ancho: 768, alto: 512 },
     ],
     analisisSlug: "pilote-p720fgj-evidence-2026-analisis-opinion",
     planMantenimiento: {
@@ -168,10 +168,10 @@ export const AUTOCARAVANAS_PILOTE_M3: Autocaravana[] = [
     ],
     opiniones: [],
     galeria: [
-      { src: "/media/pilote-vega-v630j-2026-precio-ficha-tecnica-oficial.webp", alt: "Pilote Vega V630J, vista exterior", ancho: 630, alto: 420 },
+      { src: "/media/pilote-vega-v630j-2026-precio-ficha-tecnica-oficial.webp", alt: "Pilote Vega V630J, vista exterior", ancho: 1024, alto: 1024 },
       { src: "/media/pilote-vega-v630j-2026-precio-ficha-tecnica-interior1.webp", alt: "Pilote Vega V630J, salón", ancho: 750, alto: 500 },
-      { src: "/media/pilote-vega-v630j-2026-precio-ficha-tecnica-interior2.webp", alt: "Pilote Vega V630J, dormitorio", ancho: 750, alto: 500 },
-      { src: "/media/pilote-vega-v630j-2026-precio-ficha-tecnica-detalle.webp", alt: "Pilote Vega V630J, garaje trasero", ancho: 1280, alto: 960 },
+      { src: "/media/pilote-vega-v630j-2026-precio-ficha-tecnica-interior2.webp", alt: "Pilote Vega V630J, dormitorio", ancho: 774, alto: 512 },
+      { src: "/media/pilote-vega-v630j-2026-precio-ficha-tecnica-detalle.webp", alt: "Pilote Vega V630J, garaje trasero", ancho: 768, alto: 512 },
     ],
     analisisSlug: "pilote-vega-v630j-2026-analisis-opinion",
     planMantenimiento: {
