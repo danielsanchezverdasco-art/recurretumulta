@@ -85,6 +85,7 @@ const GlosarioMultaPage = lazy(() => import("./pages/GlosarioMulta.tsx"));
 const MetodologiaPage = lazy(() => import("./pages/Metodologia.tsx"));
 const PoliticaEditorialPage = lazy(() => import("./pages/PoliticaEditorial.tsx"));
 const GuiaRadaresPage = lazy(() => import("./pages/guias/radares.tsx"));
+const RadarPage = lazy(() => import("./pages/RadarPage.tsx"));
 const GuiaZbePage = lazy(() => import("./pages/guias/zbe.tsx"));
 const GuiaPrescripcionPage = lazy(() => import("./pages/guias/prescripcion.tsx"));
 const GuiaViciosFormaPage = lazy(() => import("./pages/guias/vicios-forma.tsx"));
@@ -190,6 +191,7 @@ function ContentRoutes() {
       <Route path="metodologia" element={<MetodologiaPage />} />
       <Route path="politica-editorial" element={<PoliticaEditorialPage />} />
       <Route path="guias/radares" element={<GuiaRadaresPage />} />
+      <Route path="radares/:id" element={<RadarPage />} />
       <Route path="guias/zbe" element={<GuiaZbePage />} />
       <Route path="guias/prescripcion" element={<GuiaPrescripcionPage />} />
       <Route path="guias/vicios-forma" element={<GuiaViciosFormaPage />} />
