@@ -12,6 +12,15 @@
 
 Esta cabina vigila la **A-30 en el punto kilométrico 49,2**, dentro de Albacete. Su ámbito es el **sentido creciente**: la dirección en que los hitos kilométricos van crecientes. El dataset no incluye el municipio de ningún punto: esta ficha indica la provincia (Albacete) y no inventa la localidad. El punto vigilado más cercano es el de la **A-31, pk 127,0** (sentido creciente): queda a 43,6 km hacia el noreste. El siguiente punto por cercanía es el de la **N-322, pk 327,3** (sentido decreciente), a 51,5 km hacia el noroeste. La afluencia varía mucho por franjas: tranquila entre semana a mediodía, intensa en fines de semana.
 
+<iframe title="Mapa: radar a-30-49-2-creciente-cabina" src="https://www.google.com/maps?q=38.59557,-1.67331&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-30-49-2-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.59557,-1.67331&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 Estamos en la A-30, la autovía que une Albacete con Murcia. En esta autovía, los ritmos son dispares: conviven la prisa del largo recorrido y la calma del trayecto local. La presencia de la cabina responde a que este es un punto donde los excesos son frecuentes. La A-30 cuenta con un único punto de control publicado en la comunidad: este. La A-30 cuenta con un único punto de control publicado en la comunidad: este. Es, en suma, una vía que premia la conducción serena y castiga las prisas. Quien la recorre con frecuencia aprende dónde están los puntos delicados; quien no, debería extremar la atención.
