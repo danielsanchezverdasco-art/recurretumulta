@@ -4,6 +4,7 @@
 // portada de la marca); eliminado el bloque `costeMensual`; `analisisSlug` nuevo;
 // añadidos `descripcion`, `plazasDormir` y `notas`.
 // Font Vendôme no publica PVP («À partir de -» en su web): precioDesde en null.
+// FOTO OFICIAL + curiosidad (agente F5, 19/10/2026): 1 ext oficial del folleto del fabricante.
 // Medidas oficiales verificadas: 599 x 205 x 289 cm; 4 plazas viaje / 4 couchages.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
@@ -26,9 +27,9 @@ export const AUTOCARAVANAS_FONTVENDOME_M1: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/font-vendome-mondea-2026-precio-ficha-tecnica-ext.webp",
+    imagen: "/media/font-vendome-mondea-2026-precio-ficha-tecnica-oficial.webp", // F5 19/10: portada oficial (folleto oficial Font Vendôme 2026)
     imagenOficial:
-      "/media/font-vendome-mondea-2026-precio-ficha-tecnica-ext.webp",
+      "/media/font-vendome-mondea-2026-precio-ficha-tecnica-oficial.webp", // F5 19/10: foto oficial del folleto del fabricante
     imagenInteriorOficial:
       "/media/font-vendome-mondea-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
@@ -65,6 +66,12 @@ export const AUTOCARAVANAS_FONTVENDOME_M1: Autocaravana[] = [
     opiniones: [],
     galeria: [
       {
+        src: "/media/font-vendome-mondea-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Font Vendôme Mondéa, vista exterior oficial del folleto 2026",
+        ancho: 1050,
+        alto: 465,
+      },
+      {
         src: "/media/font-vendome-mondea-2026-precio-ficha-tecnica-ext.webp",
         alt: "Font Vendôme Mondéa, vista lateral del camper",
         ancho: 1200,
@@ -89,6 +96,7 @@ export const AUTOCARAVANAS_FONTVENDOME_M1: Autocaravana[] = [
         alto: 800,
       },
     ],
+    curiosidades: "El propio folleto oficial 2026 del Mondéa lo vende con su rareza: «salle de bain avec douche séparée», un baño con ducha separada del WC en un furgón de 5,99 m, algo que casi ningún camper de su tamaño ofrece. Fuente: folleto oficial Font Vendôme Mondéa 2026, https://docs.campingcar-infos.com/docs/Font-Vendome%20(vans)/FontVendome%202026%20Mondea.pdf", // F5 19/10: curiosidad real con fuente
     analisisSlug: "font-vendome-mondea-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:

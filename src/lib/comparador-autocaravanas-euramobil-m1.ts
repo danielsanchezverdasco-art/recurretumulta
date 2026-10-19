@@ -8,6 +8,7 @@
 // NOTA DE NOMENCLATURA: el «726 EB» no existe en la gama Integra Line GT (el EB es de la Profila T);
 // el integral de camas gemelas oficial 2026 es el IL 726 EF, que es el que se ficha aquí.
 // Eura Mobil no publica PVP de fábrica: precioDesde en null, sin inventar.
+// FOTOS OFICIALES + curiosidades (agente F5, 19/10/2026): 1 ext + 2 int oficiales de prensa del fabricante.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
 export const AUTOCARAVANAS_EURAMOBIL_M1: Autocaravana[] = [
@@ -29,11 +30,11 @@ export const AUTOCARAVANAS_EURAMOBIL_M1: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica-ext.webp",
+    imagen: "/media/euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica-oficial.webp", // F5 19/10: portada oficial (prensa Eura Mobil)
     imagenOficial:
-      "/media/euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica-ext.webp",
+      "/media/euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica-oficial.webp", // F5 19/10: foto oficial de prensa del fabricante
     imagenInteriorOficial:
-      "/media/euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica-interior.webp",
+      "/media/euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica-oficial-interior.webp", // F5 19/10: interior oficial (prensa Eura Mobil)
     videoId: null,
     videoCanal: null,
     largoMm: 7471,
@@ -68,6 +69,24 @@ export const AUTOCARAVANAS_EURAMOBIL_M1: Autocaravana[] = [
     opiniones: [],
     galeria: [
       {
+        src: "/media/euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Eura Mobil Integra Line GT IL 726 EF, vista exterior oficial de prensa",
+        ancho: 1200,
+        alto: 686,
+      },
+      {
+        src: "/media/euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica-oficial-interior.webp",
+        alt: "Interior oficial de la Eura Mobil Integra Line GT IL 726 EF, salón cara a cara",
+        ancho: 1200,
+        alto: 801,
+      },
+      {
+        src: "/media/euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica-oficial-interior2.webp",
+        alt: "Interior oficial de la Eura Mobil Integra Line GT IL 726 EF, cocina y comedor",
+        ancho: 1200,
+        alto: 801,
+      },
+      {
         src: "/media/euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica-ext.webp",
         alt: "Eura Mobil Integra Line GT IL 726 EF, vista frontal integral",
         ancho: 1200,
@@ -92,6 +111,7 @@ export const AUTOCARAVANAS_EURAMOBIL_M1: Autocaravana[] = [
         alto: 800,
       },
     ],
+    curiosidades: "Eura Mobil no se llamó así desde el principio: nació en 1959 como Blessing KG fabricando caravanas y solo adoptó el nombre Eura Mobil en 1983, cuando empezó a producir autocaravanas; desde 2005 forma parte del grupo Trigano y fabrica en Sprendlingen (Alemania). Fuente: The Caravan and Motorhome Club, https://www.caravanclub.co.uk/whats-on/awards/motorhome-design-awards/eura-mobil/", // F5 19/10: curiosidad real con fuente
     analisisSlug: "euramobil-integra-line-gt-il-726-ef-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:

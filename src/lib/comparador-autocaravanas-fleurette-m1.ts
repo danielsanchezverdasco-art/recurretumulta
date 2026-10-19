@@ -6,6 +6,7 @@
 // NOTA DE TRANSPARENCIA: el modelo más próximo documentado por la marca es el Baxter
 // 68 LMC; las plazas de cama no están publicadas en el catálogo consultado.
 // Fleurette no publica PVP: precioDesde en null, sin inventar.
+// CURIOSIDAD (agente F5, 19/10/2026). PENDIENTE: sin foto oficial de exterior del 68LM en material del fabricante.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
 export const AUTOCARAVANAS_FLEURETTE_M1: Autocaravana[] = [
@@ -90,6 +91,7 @@ export const AUTOCARAVANAS_FLEURETTE_M1: Autocaravana[] = [
         alto: 800,
       },
     ],
+    curiosidades: "Aunque la ficha la titula «Fleurette», el Baxter es en realidad una gama de Florium, la marca hermana del mismo grupo: el catálogo oficial la rotula «Florium by Fleurette» y documenta el 68LM con cama central de matrimonio (Queensbett) y salón en L. Fuente: catálogo oficial Fleurette-Florium 2023, https://www.fleurette-florium.fr/wp-content/uploads/2022/08/catalogue-fleurette-florium-collection-2023-DE.pdf", // F5 19/10: curiosidad real con fuente
     analisisSlug: "fleurette-baxter-68-lmc-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
