@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 42.5739, -5.6571
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.5739,-5.6571)
 
+<iframe title="Mapa: radar n-120-312-3-creciente-cabina" src="https://www.google.com/maps?q=42.5739,-5.6571&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-120-312-3-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.5739,-5.6571&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** La DGT publica sus radares fijos en un XML (portal NAP, formato DATEX II); usamos la edición del 2026-10-19. De ahí salen carretera, pk, sentido y coordenadas. Lo que no detalla: el límite de cada punto ni el municipio. Los 90 km/h son el genérico del art. 48 del RGC para carreteras convencionales; Valverde de la Virgen se identificó con el geocodificador oficial CartoCiudad (IGN/CNIG).
 
 ## Una nacional con historia
