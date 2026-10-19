@@ -83,7 +83,7 @@ Para quién es: ideal para parejas o familias de cuatro que quieren una integral
     ],
     opiniones: [],
     galeria: [
-      { src: "/media/laika-kosmo-h-1319-2026-precio-ficha-tecnica-oficial.webp", alt: "Laika Kosmo H 1319, vista exterior delantera", ancho: 640, alto: 480 },
+      { src: "/media/laika-kosmo-h-1319-2026-precio-ficha-tecnica-oficial.webp", alt: "Laika Kosmo H 1319, vista exterior delantera", ancho: 1024, alto: 683 },
       { src: "/media/laika-kosmo-h-1319-2026-precio-ficha-tecnica-interior1.webp", alt: "Laika Kosmo H 1319, cocina", ancho: 640, alto: 853 },
       { src: "/media/laika-kosmo-h-1319-2026-precio-ficha-tecnica-interior2.webp", alt: "Laika Kosmo H 1319, salón y dormitorio", ancho: 728, alto: 552 },
       { src: "/media/laika-kosmo-h-1319-2026-precio-ficha-tecnica-detalle.webp", alt: "Laika Kosmo H 1319, vista trasera exterior", ancho: 1024, alto: 683 },
