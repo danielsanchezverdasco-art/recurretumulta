@@ -2800,3 +2800,9 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/chery-tiggo-9-2024-precio-ficha-tecnica-hunt1.webp | https://visor.ph/cars/auto-china-2024-chery-presents-tiggo-9-phev/ | Visor | desconocida |
 | /media/chery-tiggo-9-2024-precio-ficha-tecnica-hunt2.webp | https://www.zigwheels.my/new-cars/chery/tiggo-9 | Chery / ZigWheels | desconocida |
 | /media/chery-tiggo-9-2024-precio-ficha-tecnica-hunt3.webp | https://edit.drivencarguide.co.nz/reviews/chery-tiggo-9-review-the-top-tiggo-were-just-not-sure-if-its-the-best-tiggo/ | Driven Car Guide | desconocida |
+| /media/cfmoto-675sr-r-2025-ficha-tecnica-precio-hunt1.webp | https://www.motorrad-bilder.at/thumbs/995x/slideshows/291/024072/CFMOTO_675SR-R_static_001.jpg | 1000PS | desconocida |
+| /media/cfmoto-675sr-r-2025-ficha-tecnica-precio-hunt2.webp | https://www.motorrad-bilder.at/thumbs/995x/slideshows/291/024072/CFMOTO_675SR-R_static_091.jpg | 1000PS | desconocida |
+| /media/cfmoto-675sr-r-2025-ficha-tecnica-precio-hunt3.webp | https://images5.1000ps.net/images_bikekat/2025/177-CFMOTO/12901-675SR_R/009-638936146995368658-cfmoto-675sr-r.jpg | 1000PS | desconocida |
+| /media/morbidelli-t352x-hunt1.webp | https://soymotero.net/pruebas/prueba-morbidelli-t352x/ | SoyMotero | desconocida |
+| /media/morbidelli-t352x-hunt2.webp | https://www.inmoto.it/listino-nuovo/marche/mbp/t352x | InMoto / MBP Moto (prensa oficial) | desconocida |
+| /media/morbidelli-t352x-hunt3.webp | https://soymotero.net/pruebas/prueba-morbidelli-t352x/ | SoyMotero | desconocida |
