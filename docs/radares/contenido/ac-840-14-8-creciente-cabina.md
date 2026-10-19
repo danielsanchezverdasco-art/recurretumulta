@@ -12,6 +12,14 @@
 
 Oza-Cesuras (A Coruña) acoge esta cabina en el pk 14,8 de la AC-840; coordenadas 43.16689, -8.18328. Controla el sentido creciente —hacia pks mayores— y el registro anota como destino Curtis. El emplazamiento puede verse en el enlace de Street View de la cabecera.
 
+<iframe title="Mapa: radar ac-840-14-8-creciente-cabina" src="https://www.google.com/maps?q=43.16689,-8.18328&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar ac-840-14-8-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=43.16689,-8.18328&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La AC-840 es una carretera convencional de la Xunta de Galicia: titularidad autonómica, sin configuración de vía de alta capacidad. La DGT la registra con la singularidad «CARRETERA AUTONÓMICA». El fichero no detalla el tramo, así que la ficha evita asignarle rasgos que no constan.
