@@ -1071,3 +1071,28 @@ Rama `merlin-autocaravanas-lote-4` @ 5305c3d0 (50 fichas, sin force, nada en mai
 - **Jaccard**: máximo **0,27** (<0,30); w13 reescrito (Frankia Titan I 840 GD) para bajar de 0,302.
 - **Fotos**: 198 webp. Carthago liner-for-two I 53 L: 4 fotos con marca de agua sustituidas por prensa oficial Carthago. 28 sustituidas tras verificación visual (concesionario/campa, marcas de agua "CARAVAN CENTER BOCHOLT", modelo erróneo rimor-kilig-66→77 PLUS, dibujos/planos, collages, interiores de generación mezclada). Créditos con URL exacta en docs/fichas-autocaravanas/media-creditos-lote4.md.
 - **Caveats honestos**: laika-ecovip-h-4109 solo tiene 2 fotos (detalle+oficial; el manifest declara n_fotos=2). rimor-kilig-66-plus detalle: pequeño distintivo "LIBERTIUM" en el capó. etrusco-van-5-9-db detalle: instalaciones del vendedor al fondo (única fuente existente del modelo exacto). benimar-mileo-268 y notin-sevilla-jf: fotos de anuncios de vendedores, limpias de rótulos. Varias fotos <1200px (itineo 800×600, mooveo 637×391, mobilvetta 809×1080) conservadas sin reescalar.
+
+## @grok lote listo autocaravanas verif-lote34 — 19/10/2026 ~13:15 CEST
+
+Verificación exhaustiva 1x1 de las 100 fichas (lotes 3+4) completada por orden de Niky ("que esté todo comprobadísimo"). 20 verificadores en paralelo, todo pusheado sin force.
+
+**Lote 3** — rama `merlin-autocaravanas-lote-3` @ 6c57c882 (incluye fusión de créditos):
+- Fotos: **105/200 oficiales (52,5%)**. Decenas de sustituciones: no oficiales→oficiales donde existían; eliminadas violaciones (concesionario/campa/rótulos/marcas de agua/duplicadas/fotos de variante errónea, ej. Kronos 294 con decoración de gama anterior, Kosmo H 1319 con foto duplicada).
+- Datos: correcciones en dims de galería, anchos/altos (Mileo 268: 2300→2320), precios verificados contra tarifas oficiales, precios extranjeros marcados (UK/CHF/FR/DE), pesos no-carga-útil → null (orden Daniel), potencias/tracciones (T70 GE→140 CV, B-ML I 780→trasera).
+- Créditos: `docs/fichas-autocaravanas/media-creditos-lote3.md` fusionado con los 10 creditos.json (oficialidad honesta por foto; **corregido el D62 Select que figuraba como OFICIAL siendo de concesionario**).
+
+**Lote 4** — rama `merlin-autocaravanas-lote-4` @ 73f77cb6 (incluye fusión de créditos):
+- Fotos: **114/198 oficiales (57,6%)** (Ecovip H 4109 solo tiene 2 fotos). 38 fotos sustituidas; 4 etiquetas "OFICIAL" falsas corregidas a no-oficial honesto.
+- Datos: Sunlight I 68 (carnet C1→B, mma 3650→3500, precio 81.499 € DE marcado), Etrusco V 5.9 DB precio 54.100 € verificado en tarifa oficial 2022, doble coma `},,` corregida en Weinsberg, pesos MRO→null.
+- Créditos: `docs/fichas-autocaravanas/media-creditos-lote4.md` fusionado.
+
+**Caveats abiertos**: exterior del Globecar Summit 600 Plus muestra la variante B Plus (**pendiente de sustitución**, sin foto del 600 Plus disponible); oficiales no extraíbles documentados por ficha (Bürstner Mediacenter con login, Knaus CDN anti-bot, Laika galería JS, LMC configurador JS, Pössl web caída, Sunlight T 69 L fuera de gama); varias fotos <1200px documentadas; informes de V4-01 y V3-02 llegaron incompletos (reconstruidos de sus creditos.json).
+
+## @grok lote listo autocaravanas-lote-5 — 19/10/2026 ~13:15 CEST
+
+15 fichas NUEVAS en rama `merlin-autocaravanas-lote-5` @ d67b1283 (desde main @ 4f922af9). Marcas/gamas no cubiertas en lotes 1-4.
+
+- **15 slugs verificados libres en main** (404 vía API); 60 fotos webp (4/ficha, verificadas en rama); **26/60 oficiales (43,3%)**; textos 800+ palabras, Jaccard <0,30 en todos los pares; curiosidades con fuente real; precios oficiales donde existen (Hymer 142.500 €, Dethleffs 105.999 €, Bürstner 69.210 €, Challenger 69.990 € FR), resto null honestos con referencias extranjeras marcadas; `tsc --strict` limpio; 15 módulos `-m5` con exports únicos por marca.
+- Fichas: Hymer B-MC I 600 WhiteLine, Dethleffs Globebus Performance 4x4 T 46, Bürstner Lineo T 690 G, Carthago C2-tourer I 145 RB-LE, Adria Supersonic 780 SL, Pössl Summit Shine 600 R, Knaus Sky TI 650 MEG, Weinsberg CaraCompact 600 MEG, Chausson S514 First Line, Challenger 287, Pilote P740FC, Rapido 666F, Benimar Mileo 263, McLouis Mc4 Slim 337, Roller Team Kronos 285 TL.
+- **Caveats**: Pössl 600 R (el brief pedía 600 L; las fotos mostraban insignia 600 R) — slug re-verificado libre; Chausson S514: cambio de base Ford→Fiat en 2026 según distribuidores, catálogo oficial aún cita Ford — re-verificar; `autocaravanas-tipos.ts` añadido a la rama (faltaba desde main); fotos de N5-02 en `public/media/` plano en vez de subcarpeta de slug.
+- Manifiesto verificado: `~/workspace/goals/150k-usuarios-mensuales-en-6-meses/hidden_files/verif-lote34/manifest-lote5.json`.
