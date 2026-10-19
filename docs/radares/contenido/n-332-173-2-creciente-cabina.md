@@ -12,6 +12,14 @@
 
 La posición oficial del puesto es la **N-332, punto kilométrico 173,2** (Alicante). El control se ejerce sobre el **sentido creciente** de la circulación (hitos kilométricos crecientes). Geocodificación oficial del Instituto Geográfico Nacional: el radar está en **Benissa**, provincia de Alicante. El control fijo de la DGT más próximo es el de la **N-332, pk 171,6** (sentido decreciente), a 1,6 km hacia el sur.
 
+<iframe title="Mapa: radar n-332-173-2-creciente-cabina" src="https://www.google.com/maps?q=38.68718,0.04029&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-332-173-2-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.68718,0.04029&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 Nos encontramos en la N-332, carretera nacional que sirve a Alicante. El tráfico aquí mezcla el largo recorrido con los desplazamientos diarios de la zona. El paisaje de el corredor del Vinalopó y la costa enmarca este tramo.
