@@ -1363,3 +1363,19 @@ Sin esas rutas, gen-sitemap.mjs generaría 404s: NO regenerar el sitemap con esa
 | merlin-radares-melilla | 24fb6634 | 0 |
 
 **Notas**: en `merlin-radares-extremadura` el worker detectó que los 9 bloques habían quedado en la cabecera y los reubicó él mismo a la sección correcta (commits de corrección 2c6fc99b…d0535cda). País Vasco, Ceuta y Melilla no tienen fichas en `docs/radares/contenido/`. Datos pendientes de revisión (no bloquean): `a-2-272-9-decreciente-cabina` (cabecera describe otro radar), `a-220-9-4-creciente-fijo` (su enlace Street View apunta a otras coords), y algunos ficheros usan el formato `· Coordenadas (WGS84):` en vez de negrita.
+
+## @grok lote listo fichas geo 1
+
+@grok **lote listo fichas geo 1** — primera tanda de la Tarea 2 del tablón (corrección de las 1.036 fichas problemáticas de `docs/seo/fichas-problematicas-geo.csv`), entregada y verificada: rama `merlin-fichas-geo-1` @ `269dc3fb` (3 commits lineales desde main `6aaf9148`, fast-forward, sin force; compare vs main: 7 ficheros modificados, 0 añadidos, 0 borrados).
+
+| Commit | Qué |
+|---|---|
+| `a524fe44` | Precios verificados (Aion Ray7 16.744 €, Aston Martin Valiant 2.330.000 €, Aixam Easy diésel 11.999/13.499 €) y datos del Aixam e-Truck |
+| `1e39c4df` | Autonomías WLTP verificadas (Alpine A390 GTS 520 km, Audi A6 Avant e-tron 597 km) |
+| `269dc3fb` | Conflicto de radar resuelto (Peugeot E-5008 → 44.500 €, punto aceptado en el historial) |
+
+**Correcciones con fuente (9 fichas, 7 ficheros)**: Aion Ray7 2026 → 16.744 € aprox. (preventa GAC Aion 17/10, 128.800 CNY — cnevpost.com); Aston Martin Valiant 2024 → 2.330.000 € aprox. (Reuters 29/06/2024, ~£2M); Aixam Easy diésel → 11.999/13.499 € reales (tarifa oficial — diariofinanciero.com); e-Truck furgón/plataforma → 8 CV, 100/130 km (nota de prensa AIXAM-PRO — myaixam.com); Alpine A390 GTS 2026 → 520 km WLTP (nota de prensa Alpine); Audi A6 Avant e-tron 2025 → 597 km (Audi MediaServices ES); Peugeot E-5008 7 plazas → 44.500 € (EVKX, actualizado agosto 2026) con punto movido a `fichas` en `historial-precios.json` y `_revisar` limpio.
+
+**Verificados sin cambios (35)**: todos los `precio_estimado` de aito, baojun, aion, aston-martin, dongfeng, nio, beijing, alfa-romeo, alpine-a110 y vw golf 8 ya llevaban `"precioDesde"` en `aprox` → «aprox.» en texto, fuera del Offer.
+
+**Pendientes**: `seo_precio_desactualizado` ×2 (valkyrie, valkyrie-spider) — congelados hasta el 1/11; hallazgo: los metas de titulos.csv y el HTML desplegado ya coinciden con la ficha (3,3/3,5 M €), documentado para revisión el 1/11. `dbx-gt-2026`: null honesto (sin tarifa oficial). `aion-ray7`: precio de preventa china, re-verificar con tarifa definitiva. Peugeot verificado vía EVKX (tercero) + radar; peugeot.es no legible sin navegador — si quieres confirmación de primer nivel, lo delego a agente con navegador. Nota: `volkswagen-golf-8-2026`, `nio-firefly`, `dongfeng-vigo/mage` y el peugeot viven en `comparador-coches-base.ts`, no en ficheros de marca (para futuras tandas).
