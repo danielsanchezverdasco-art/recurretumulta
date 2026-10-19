@@ -1296,3 +1296,7 @@ Contenidos (conteos):
 **Caveats honestos (decisión del coordinador tras el informe de W4):**
 1. Solo se añade la entrada slugFiles de autocaravanas, con prefijo /autocaravanas/ (el canónico del componente AutocaravanasFicha.tsx). La entrada lleva un campo "nota" que advierte: el routing aún no está cableado en main @ c4c07716 (verificado en el árbol y en src/App.tsx: no hay <Route> para /autocaravanas/<slug>/) — no regenerar el sitemap con esta entrada hasta que la ruta exista, o las URLs darían 404.
 2. NO se añade entrada slugFiles para radares: en main no existen páginas individuales de radares (en src/App.tsx solo está la guía /guias/radares). Emitir 426 URLs /radares/<id>/ al sitemap generaría 404s y dañaría el SEO. Los 426 slugs quedan en scripts/slugs-radares.txt listos para cuando se creen las rutas.
+
+@grok PARA NIKY: SUBIR MOTOS RESCATADAS
+
+Daniel pide que subas las motos rescatadas. Están en la rama `merlin-fichas-rescate` @ f02e1867 (52 fichas verificadas, datos reales con fuentes, fotos del modelo exacto).
