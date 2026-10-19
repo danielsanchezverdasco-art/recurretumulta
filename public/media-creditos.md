@@ -4335,21 +4335,6 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/toyota-gr-supra-2025-precio-ficha-tecnica-hunt1.webp | https://image.carnews.com/2025/01/2412_-Supra_Final_Edition_05.jpg | Toyota (prensa oficial Final Edition, vía CarNews / Storm Media) | desconocida (foto de prensa del fabricante) |
 | /media/toyota-gr-supra-2025-precio-ficha-tecnica-hunt2.webp | https://motorbugs.com/wp-content/uploads/GR-Supra-Track-Edition-4-1-1030x693.jpg | MotorBugs | desconocida |
 | /media/toyota-gr-supra-2025-precio-ficha-tecnica-hunt3.webp | https://images.carexpert.com.au/resize/1920/-/cms/v1/media/2025-08-2025-250811toyota-gr-supra-track-editionstill-46.jpg | CarExpert Australia | desconocida |
-| /media/citroen-c4-hibrido-2026-precio-ficha-tecnica-hunt4.webp | https://www.autocar.jp/post/1126779 | Autocar Japan | desconocida |
-| /media/citroen-c4-hibrido-2026-precio-ficha-tecnica-hunt5.webp | https://www.autocar.jp/photo/1250947 | Autocar Japan | desconocida |
-| /media/citroen-c4-hibrido-2026-precio-ficha-tecnica-hunt6.webp | https://www.dailyrevs.com/cars/2025-citroen-c4-hybrid-max | DailyRevs | desconocida |
-| /media/honda-gt-2026-precio-ficha-tecnica-hunt4.webp | https://en.actualidadmotor.com/nuevo-honda-gt-berlina-electrica/ | Actualidad Motor | desconocida |
-| /media/honda-gt-2026-precio-ficha-tecnica-hunt5.webp | https://www.carexpert.com.au/car-news/honda-gt-could-be-brands-first-rear-wheel-drive-fastback | CarExpert | desconocida |
-| /media/honda-gt-2026-precio-ficha-tecnica-hunt6.webp | https://www.carexpert.com.au/ | CarExpert | desconocida |
-| /media/razor-e200-hunt4.webp | https://foldingbikes.netlify.app/electric-scooter-razor-walmart | Walmart | desconocida |
-| /media/razor-e200-hunt5.webp | https://oriontarabanpsyd.com/Razor-E200-Battery-Kit-373286.html | StockCalifornia | desconocida |
-| /media/razor-e200-hunt6.webp | https://brickseek.com/p/9407046 | Walmart | desconocida |
-| /media/rieju-ray-7-7-2025-ficha-tecnica-precio-hunt4.webp | https://www.sg-motos.fr/produit/rieju-ray-7-7/ | SG Motos | desconocida |
-| /media/rieju-ray-7-7-2025-ficha-tecnica-precio-hunt5.webp | http://www.moto-point.at/de/motorrad-modell-rieju-ray-7-7-13133-2026 | 1000PS / Moto-Point | desconocida |
-| /media/rieju-ray-7-7-2025-ficha-tecnica-precio-hunt6.webp | http://rieju.gr/product/ray-7-7/ | Rieju Grecia (distribuidor) | desconocida |
-| /media/toyota-urban-cruiser-2025-precio-ficha-tecnica-hunt4.webp | https://media.toyota.co.uk/the-all-new-toyota-urban-cruiser-uk-sales-launch/ | Toyota UK | desconocida |
-| /media/toyota-urban-cruiser-2025-precio-ficha-tecnica-hunt5.webp | https://newsroom.toyota.eu/the-all-new-toyota-urban-cruiser-a-prime-contender-in-the-electric-b-suv-market | Toyota Europa | desconocida |
-| /media/toyota-urban-cruiser-2025-precio-ficha-tecnica-hunt6.webp | https://media.toyota.fr/nouveau-toyota-urban-cruiser--un-concurrent-de-premier-plan-sur-le-marche-des-b-suv-electriques/ | Toyota Francia | desconocida |
 | /media/ajp-pr3-240-2026-ficha-tecnica-precio-hunt1.webp | https://img1.stcrm.it/images/17789086/HOR_STD/1000x/ajp-pr3-enduro-pro-240-2019-03.jpg | Imagen de prensa AJP (vía anunciante) | desconocida |
 | /media/ajp-pr3-240-2026-ficha-tecnica-precio-hunt2.webp | https://img1.stcrm.it/images/17789043/HOR_STD/1000x/ajp-pr3-enduro-240-2019-15.jpg | Imagen de prensa AJP (vía anunciante) | desconocida |
 | /media/ajp-pr3-240-2026-ficha-tecnica-precio-hunt3.webp | https://cdn.shopify.com/s/files/1/0478/0461/2773/files/PR3_enduropro_240_right.jpg | AJP (foto de catálogo, vía tienda online) | desconocida |
