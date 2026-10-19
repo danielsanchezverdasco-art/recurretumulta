@@ -3011,3 +3011,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/yamaha-tenere-700-2025-ficha-tecnica-precio-hunt1.webp | https://yamahamotorsports.com/models.php?product=344&action=productPage | Yamaha Motor / yamahamotorsports.com | desconocida |
 | /media/yamaha-tenere-700-2025-ficha-tecnica-precio-hunt2.webp | https://www.biketraveladventures.com/2025-yamaha-tenere-700-tenere-700-rally/ | biketraveladventures.com | desconocida |
 | /media/yamaha-tenere-700-2025-ficha-tecnica-precio-hunt3.webp | https://revistamoto.com/wp_rm/2025/02/yamaha-presenta-la-renovada-tenere-700-con-mas-electronica-y-nuevo-diseno/ | revistamoto.com | desconocida |
+| /media/dualtron-aminia-long-hunt1.webp | https://www.maxblinker.com/en/electric-scooters/dualtron-ami | Maxblinker | desconocida |
+| /media/dualtron-aminia-long-hunt2.webp | https://solorueda.com/wp-content/uploads/2025/03/Dualtron-Aminia-2.jpg | SoloRueda | desconocida |
+| /media/dualtron-aminia-long-hunt3.webp | https://mecatronice.com/produit/dualtron-aminia/ | Mecatronice | desconocida |
+| /media/yamaha-mt-125-2025-ficha-tecnica-precio-hunt1.webp | https://rafonsocanarias.com/yamaha-las-palmas/mt-125-2025/ | Rafonso Canarias (Yamaha) | desconocida |
+| /media/yamaha-mt-125-2025-ficha-tecnica-precio-hunt2.webp | https://young-machine.com/yamaha-machine/2024/11/05/592683/ | Young Machine (Yamaha) | desconocida |
+| /media/yamaha-mt-125-2025-ficha-tecnica-precio-hunt3.webp | https://centralbikes.co.uk/products/yamaha-2025-mt-125-tech- | Central Bikes (Yamaha) | desconocida |
+| /media/bentley-continental-gt-2026-precio-ficha-tecnica-hunt1.webp | https://mmx.prnewswire.com/media/MS1960568/Bentley_Continental_GT_PR_o.jpg?id=OA2799859&p=facebook | media kit Bentley Motors (PR Newswire) | desconocida |
+| /media/bentley-continental-gt-2026-precio-ficha-tecnica-hunt2.webp | https://trendycars.cz/novinky/8-nejlepsich-grand-toureru-2026-auta-co-polykaji-kilometry-a-ego-zaroven/ | Bentley Motors (foto oficial de lanzamiento) | desconocida |
+| /media/bentley-continental-gt-2026-precio-ficha-tecnica-hunt3.webp | https://www.postoakmotors.com/sold/2025/Bentley/Continental-GT/SCBCR2ZG7SC018157/ | Post Oak Motors (concesionario, ejemplar real 2025) | desconocida |
+| /media/dualtron-raptor-2-hunt1.webp | https://dualtroneurope.com/en/dualtron/43-dualtron-raptor-2.html | Dualtron Europe (distribuidor oficial) | desconocida |
+| /media/dualtron-raptor-2-hunt2.webp | https://sunwheelusa.com/products/dualtron-raptor-2-electric-scooter | SunWheel USA / Dualtron (foto oficial) | desconocida |
+| /media/dualtron-raptor-2-hunt3.webp | https://onestopboardshop.com/products/dualtron-raptor-2-electric-scooter | One Stop Board Shop / Dualtron (foto oficial) | desconocida |
+| /media/lexus-ux-300e-2024-precio-ficha-tecnica-hunt1.webp | https://global.toyota/pages/news/images/2019/11/22/1140/20191122_01_17_s.jpg | Toyota / Lexus (nota de prensa oficial global) | desconocida |
+| /media/lexus-ux-300e-2024-precio-ficha-tecnica-hunt2.webp | https://www.club-events.fr/plus-de-portee-la-voiture-electrique-lexus-ux300e-2023-augmente-de-prix-mais-aussi- | Club Events / Lexus (prensa) | desconocida |
+| /media/lexus-ux-300e-2024-precio-ficha-tecnica-hunt3.webp | https://www.dsf.my/2019/11/lexus-unveils-its-first-battery-ev-the-ux300e/ | Drive Safe and Fast / Lexus (prensa) | desconocida |
+| /media/rolls-royce-ghost-2026-precio-ficha-tecnica-hunt1.webp | https://luxurylaunches.com/transport/rolls-royce-ghost-series-ii-10102024.php | Luxury Launches / Rolls-Royce (prensa oficial) | desconocida |
+| /media/rolls-royce-ghost-2026-precio-ficha-tecnica-hunt2.webp | https://www.limitedspec.com/blog/2025-rolls-royce-ghost-interior/ | LimitedSpec / Rolls-Royce (prensa oficial) | desconocida |
+| /media/rolls-royce-ghost-2026-precio-ficha-tecnica-hunt3.webp | https://nebune.com.tr/2025/05/yeni-rolls-royce-ghost-series-ii-turkiyede-satisa-sunuldu/ | Nebune / Rolls-Royce (prensa oficial) | desconocida |
+| /media/yamaha-tracer-9-2025-ficha-tecnica-precio-hunt1.webp | https://centralbikes.co.uk/products/yamaha-2025-tracer-9 | CentralBikes / Yamaha (prensa oficial) | desconocida |
+| /media/yamaha-tracer-9-2025-ficha-tecnica-precio-hunt2.webp | https://ultimatemotorcycling.com/2025/03/13/2025-yamaha-tracer-9-first-look-a-dozen-fast-facts/ | Ultimate Motorcycling / Yamaha (prensa oficial) | desconocida |
+| /media/yamaha-tracer-9-2025-ficha-tecnica-precio-hunt3.webp | https://www.totalmotorcycle.com/motorcycles/2025/2025-yamaha-tracer-9 | TotalMotorcycle / Yamaha (prensa oficial) | desconocida |
+| /media/dualtron-compact-hunt1.webp | https://scooter.guide/dualtron-compact-review/ | scooter.guide (review) | desconocida |
+| /media/dualtron-compact-hunt2.webp | https://dualtron.rs/dualtron-3/ | dualtron.rs (distribuidor oficial Dualtron) | desconocida |
+| /media/dualtron-compact-hunt3.webp | https://www.wellbots.com/es/collections/electric-scooters-bikes?page=4 | wellbots.com | desconocida |
