@@ -3323,3 +3323,28 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/honda-gt-2026-precio-ficha-tecnica-hunt1.webp | https://en.actualidadmotor.com/nuevo-honda-gt-berlina-electrica/ | Actualidad Motor | desconocida |
 | /media/honda-gt-2026-precio-ficha-tecnica-hunt2.webp | https://www.carexpert.com.au/car-news/honda-gt-could-be-brands-first-rear-wheel-drive-fastback | CarExpert | desconocida |
 | /media/honda-gt-2026-precio-ficha-tecnica-hunt3.webp | https://www.carexpert.com.au/ | CarExpert | desconocida |
+| /media/razor-e200-hunt1.webp | https://foldingbikes.netlify.app/electric-scooter-razor-walmart | Walmart | desconocida |
+| /media/razor-e200-hunt2.webp | https://oriontarabanpsyd.com/Razor-E200-Battery-Kit-373286.html | StockCalifornia | desconocida |
+| /media/razor-e200-hunt3.webp | https://brickseek.com/p/9407046 | Walmart | desconocida |
+| /media/rieju-ray-7-7-2025-ficha-tecnica-precio-hunt1.webp | https://www.sg-motos.fr/produit/rieju-ray-7-7/ | SG Motos | desconocida |
+| /media/rieju-ray-7-7-2025-ficha-tecnica-precio-hunt2.webp | http://www.moto-point.at/de/motorrad-modell-rieju-ray-7-7-13133-2026 | 1000PS / Moto-Point | desconocida |
+| /media/rieju-ray-7-7-2025-ficha-tecnica-precio-hunt3.webp | http://rieju.gr/product/ray-7-7/ | Rieju Grecia (distribuidor) | desconocida |
+| /media/toyota-urban-cruiser-2025-precio-ficha-tecnica-hunt1.webp | https://media.toyota.co.uk/the-all-new-toyota-urban-cruiser-uk-sales-launch/ | Toyota UK | desconocida |
+| /media/toyota-urban-cruiser-2025-precio-ficha-tecnica-hunt2.webp | https://newsroom.toyota.eu/the-all-new-toyota-urban-cruiser-a-prime-contender-in-the-electric-b-suv-market | Toyota Europa | desconocida |
+| /media/toyota-urban-cruiser-2025-precio-ficha-tecnica-hunt3.webp | https://media.toyota.fr/nouveau-toyota-urban-cruiser--un-concurrent-de-premier-plan-sur-le-marche-des-b-suv-electriques/ | Toyota Francia | desconocida |
+| /media/razor-e500-hunt1.webp | https://electricscooterparts.com/images/razor/Razor-E500S-Electric-Scooter.jpg | Razor (foto oficial de producto) vía Electric Scooter Parts | desconocida |
+| /media/rieju-xplora-557-2025-ficha-tecnica-precio-hunt1.webp | https://www.motornet.com.br/noticia/lancamento-da-rieju-xplora-557-2025 | Rieju (prensa oficial) vía Motornet | desconocida |
+| /media/rieju-xplora-557-2025-ficha-tecnica-precio-hunt2.webp | https://www.inmoto.it/listino-nuovo/marche/rieju/xplora-557 | Rieju (foto de catálogo oficial) vía Inmoto | desconocida |
+| /media/rieju-xplora-557-2025-ficha-tecnica-precio-hunt3.webp | https://www.inmoto.it/listino-nuovo/marche/rieju/xplora-557 | Rieju (foto de catálogo oficial) vía Inmoto | desconocida |
+| /media/adria-matrix-supreme-670-sl-2026-precio-ficha-tecnica-hunt1.webp | https://www.adriakaravany.cz/skladovy-vuz/matrix-supreme-mb-670-sl-6212/ | adriakaravany.cz (concesionario Adria) | desconocida |
+| /media/adria-matrix-supreme-670-sl-2026-precio-ficha-tecnica-hunt2.webp | http://www.caravaningk2.es/listings/adria-matrix-supreme-mb-670-sl/ | caravaningk2.es | desconocida |
+| /media/adria-matrix-supreme-670-sl-2026-precio-ficha-tecnica-hunt3.webp | https://www.autoscout24.ch/fr/d/adria-mercedes-benz-matrix-supreme-670-sl-20701051 | autoscout24.ch (anuncio Matrix Supreme 670 SL) | desconocida |
+| /media/rieju-aventura-rally-307-r-2026-ficha-tecnica-precio-hunt1.webp | https://soymotero.net/pruebas/prueba-rieju-aventura-307-rallyr/ | soymotero.net (prueba Rieju Aventura 307 Rally/R) | desconocida |
+| /media/rieju-aventura-rally-307-r-2026-ficha-tecnica-precio-hunt2.webp | https://www.1000ps.com/it-it/modello/12999/rieju-aventura-rally-307 | 1000ps.net | desconocida |
+| /media/rieju-aventura-rally-307-r-2026-ficha-tecnica-precio-hunt3.webp | https://soymotero.net/pruebas/prueba-rieju-aventura-307-rallyr/ | soymotero.net (prueba Rieju Aventura 307 Rally/R) | desconocida |
+| /media/toyota-corolla-cross-2025-precio-ficha-tecnica-hunt1.webp | https://toyota.bhassa.com.ar/corolla-cross-hybrid/ | Toyota Bhassa (concesionario oficial Argentina) | desconocida |
+| /media/toyota-corolla-cross-2025-precio-ficha-tecnica-hunt2.webp | https://www.pcauto.com/my/cars/toyota/corolla-cross/year-2025 | pcauto.com | desconocida |
+| /media/toyota-corolla-cross-2025-precio-ficha-tecnica-hunt3.webp | http://daltontoyota.com.mx/modelo/corolla-cross/ | Dalton Toyota (concesionario oficial México) | desconocida |
+| /media/citroen-berlingo-2026-precio-ficha-tecnica-hunt1.webp | https://visuel3d-secure.citroen.com/V3DImage.ashx?client=CFGAP3D&mkt=IT&env=PROD&version=1CK9AFSP6KB0A0B2&ratio=1&format=jpg&quality=90&width=1280&view=001&color=0MM00NM6&trim=0POF0RFT&opt1=DZJN&back=0 | Citroën (configurador oficial) | desconocida |
+| /media/citroen-berlingo-2026-precio-ficha-tecnica-hunt2.webp | https://images.ctfassets.net/c9t6u0qhbv9e/2RwcbUcSpz3a6omcfNqPqz/c9afef5b28d949cbcf254b515b1eee57/Citroen-E-Berlingo-2024-Interior-E-Berlingo_UK_2024_EXT19.jpg | Citroën UK (foto de prensa, vía CarGurus) | desconocida |
+| /media/citroen-berlingo-2026-precio-ficha-tecnica-hunt3.webp | https://www.luxauto.lu/en/car/citroen-berlingo-diesel-2026-1810448 | Luxauto (anuncio de concesionario) | desconocida |
