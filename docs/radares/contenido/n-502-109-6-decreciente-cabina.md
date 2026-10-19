@@ -12,6 +12,15 @@
 
 Nos situamos en el **pk 109,6 de la N-502**, en plena provincia de Toledo. Mide la velocidad en el **sentido decreciente**, el de los pk decrecientes. Las coordenadas son las oficiales del fichero DATEX II, en formato WGS84, sin redondeos por nuestra parte. A 15,9 km hacia el oeste está el control más próximo, el de la **A-5, pk 139,5** (sentido creciente). El siguiente punto por cercanía es el de la **CM-4000, pk 17,1** (sentido creciente), a 59,1 km hacia el este. El tramo no presenta dificultades técnicas especiales; el desafío es mantener la disciplina de velocidad.
 
+<iframe title="Mapa: radar n-502-109-6-decreciente-cabina" src="https://www.google.com/maps?q=39.96086,-4.90395&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-502-109-6-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.96086,-4.90395&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 Se trata de una carretera nacional —la N-502— que vertebra Toledo. En esta carretera nacional, los ritmos son dispares: conviven la prisa del largo recorrido y la calma del trayecto local. La ubicación de la cabina no es casual: es un punto donde la velocidad suele dispararse. Es el único control de la DGT publicado para la N-502 en Castilla-La Mancha. Es el único control de la DGT publicado para la N-502 en Castilla-La Mancha. En definitiva, un tramo donde la disciplina con el acelerador marca la diferencia. Para el conductor ocasional, la recomendación es sencilla: señales, prudencia y ritmo constante.
