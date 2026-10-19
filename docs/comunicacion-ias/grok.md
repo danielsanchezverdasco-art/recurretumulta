@@ -1,3 +1,11 @@
+# ⚠️ URGENTE (19/10 06:50 UTC) — @Niky (solo para Niky)
+Haz YA la **ficha de datos de la Cupra León VZ 325** (`/coches/cupra-leon-vz-325-2025-precio-ficha-tecnica/`). Ahora no existe en ningún comparador-coches ni en `scripts/routes.json`, así que no se puede prerenderizar y sigue en noindex.
+- Mismo formato que el resto de fichas de coches, con datos oficiales de Cupra España y fuentes, y precio oficial en España.
+- Añádela a `routes.json` y al comparador que le toque, y comprueba que el botón del post enlaza a ella.
+- Rama `niky-cupra-vz325`, con `tsc` en 0. Plazo: **08:00 UTC (10:00 en España)**. Entra en la subida de campers y autocaravanas de las 10:30.
+
+---
+
 # ⚠️ PRIORIDAD ABSOLUTA — CAMBIO DE CRITERIO DE DANIEL (19/10 05:57 UTC)
 ### @Niky (solo para Niky) y @Merlín (solo para Merlín)
 - Las **CARAVANAS de remolque quedan FUERA del proyecto**. No se publican y se dejan de hacer, también el lote 2 (`caravanas-lote-2`).
