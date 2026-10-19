@@ -3606,3 +3606,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/voyah-dream-9-phev-2026-precio-ficha-tecnica-hunt1.webp | https://www.topik.id/voyah-dream-9-mvp-mulai-pra-penjualan-5-september-tanpa-seremonial-peluncuran | Voyah (press) / Topik.id | desconocida |
 | /media/voyah-dream-9-phev-2026-precio-ficha-tecnica-hunt2.webp | https://autoreview.ru/news/voyah-dreamer-9-v-kitae-deshevle-chem-predpolagalos | Voyah (press) / Autoreview | desconocida |
 | /media/voyah-dream-9-phev-2026-precio-ficha-tecnica-hunt3.webp | https://paultan.org/page/3/ | Voyah (press) / Paultan | desconocida |
+| /media/honda-cb1000-hornet-sp-2026-ficha-tecnica-precio-hunt1.webp | https://www.zabikers.co.za/buyers-guide/item/honda-cb1000-hornet-sp/ | zabikers.co.za (blog del motor) | desconocida |
+| /media/honda-cb1000-hornet-sp-2026-ficha-tecnica-precio-hunt2.webp | https://www.hondabikes.fi/mallisto/street/cb1000-hornet-sp | Honda Finland (web oficial del producto) | desconocida |
+| /media/honda-cb1000-hornet-sp-2026-ficha-tecnica-precio-hunt3.webp | https://www.bikesales.com.au/editorial/details/honda-backs-cb1000-hornet-sp-owners-with-seven-year-warranty-152734/ | bikesales.com.au (blog del motor) | desconocida |
+| /media/yamaha-mt-09-2026-ficha-tecnica-precio-hunt1.webp | https://www.yamaha-motor.ca/en/road/motorcycle/hyper-naked/2026-mt-09/2026-MT09T | Yamaha Motor Canadá (prensa oficial del fabricante) | desconocida |
+| /media/yamaha-mt-09-2026-ficha-tecnica-precio-hunt2.webp | https://www.yamaha-motor.com.tw/motor/motor_MT09 | Yamaha Motor Taiwán (web oficial del producto) | desconocida |
+| /media/yamaha-mt-09-2026-ficha-tecnica-precio-hunt3.webp | https://www.yamaha-motor.com.tw/motor/motor_MT09 | Yamaha Motor Taiwán (web oficial del producto) | desconocida |
+| /media/exeed-lx-2025-precio-ficha-tecnica-hunt1.webp | https://www.ixbt.com/news/2025/01/28/exeed-lx-rx.html | iXBT.com | desconocida |
+| /media/exeed-lx-2025-precio-ficha-tecnica-hunt2.webp | https://ksa.motorguru.me/listing/exeed-lx-2025-1-5t-comfort/ | MotorGuru | desconocida |
+| /media/exeed-lx-2025-precio-ficha-tecnica-hunt3.webp | https://www.egyptautomotive.com/archives/1224253 | Egypt Automotive | desconocida |
+| /media/foton-tunland-v7-2025-precio-ficha-tecnica-hunt1.webp | https://cars4starters.com.au/foton-tunland/ | Cars4Starters | desconocida |
+| /media/foton-tunland-v7-2025-precio-ficha-tecnica-hunt2.webp | https://www.chasingcars.com.au/guides/chinese-car-brands-in-australia-from-byd-to-zeekr-the-new-cars-you-can-buy-right-now-and-whats-coming-soon/ | Chasing Cars | desconocida |
+| /media/foton-tunland-v7-2025-precio-ficha-tecnica-hunt3.webp | https://www.carsales.com.au/cars/details/2025-foton-tunland-v7-c-auto-4x4-my25-dual-cab/OAG-AD-25770981/ | Carsales | desconocida |
+| /media/triumph-scrambler-1200-xe-2026-ficha-tecnica-precio-hunt1.webp | https://www.1000ps.at/modellnews-id-3013147-triumph-scrambler-1200-xe-2026-vorgestellt | 1000PS | desconocida |
+| /media/triumph-scrambler-1200-xe-2026-ficha-tecnica-precio-hunt2.webp | https://www.totalmotorcycle.com/motorcycles/2026/2026-triumph-scrambler-1200xe | Total Motorcycle | desconocida |
+| /media/triumph-scrambler-1200-xe-2026-ficha-tecnica-precio-hunt3.webp | https://www.motosillimitees.com/en/new/motorcycle/triumph/scrambler-1200-xe/ | Moto Illimitées | desconocida |
+| /media/wiesmann-project-thunderball-2025-precio-ficha-tecnica-hunt1.webp | https://thecrite.com/marketl/Fleet-CRN-unveils-70m-Project-Thunderball-3744996.html | Hypebeast | desconocida |
+| /media/wiesmann-project-thunderball-2025-precio-ficha-tecnica-hunt2.webp | https://www.discoverev.co.uk/ev-news/weismann-project-thunderball-ev-roadster-available-to-order | DiscoverEV | desconocida |
+| /media/wiesmann-project-thunderball-2025-precio-ficha-tecnica-hunt3.webp | https://www.driver.bg/wiesmann-puska-elektricheski-roudstar-project-thunderball-premiera/ | Driver.bg | desconocida |
+| /media/royal-enfield-interceptor-650-2026-ficha-tecnica-precio-hunt1.webp | https://mazzante.it/2026-royal-enfield-interceptor-650-mark-2/ | Mazzante.it (concesionario Royal Enfield) | desconocida |
+| /media/royal-enfield-interceptor-650-2026-ficha-tecnica-precio-hunt2.webp | https://www.fasterwheeler.com/at/bikes/royal-enfield-interceptor-650-10623 | Bikedekho/Aeplcdn | desconocida |
+| /media/royal-enfield-interceptor-650-2026-ficha-tecnica-precio-hunt3.webp | https://fasterwheeler.com/at/bikes/royal-enfield-interceptor-650-10623 | Fasterwheeler | desconocida |
+| /media/aprilia-sr-gt-400-2026-ficha-tecnica-precio-hunt1.webp | https://wlassets.aprilia.com/wlassets/aprilia/master/Range/SRGT-400/2026/Hotspot/HOTSPOT-SRGT-400-Dusty-grey-DM-1500x1000/original/HOTSPOT-SRGT-400-Dusty-grey-DM-1500x1000.png?1781515673411 | Aprilia (imagen oficial) | desconocida |
+| /media/aprilia-sr-gt-400-2026-ficha-tecnica-precio-hunt2.webp | https://moto.motorionline.com/wp-content/uploads/2026/06/SR-GT-400_14-1024x683.jpg | Motorionline (prueba en carretera) | desconocida |
+| /media/aprilia-sr-gt-400-2026-ficha-tecnica-precio-hunt3.webp | https://moto.motorionline.com/wp-content/uploads/2026/06/SR-GT-400_12-1024x683.jpg | Motorionline (prueba en carretera) | desconocida |
