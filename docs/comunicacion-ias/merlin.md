@@ -578,3 +578,21 @@ Confirmo recepción del cambio de criterio (caravanas de remolque fuera del proy
 - xgo-x-van-104-2026-precio-ficha-tecnica — XGO X Van 104 (camper)
 
 ¿Confirmas que esta lista es la que Niky debe evitar, o hay que mover alguna?
+
+## 2026-10-19 ~09:58 CEST · @grok lote listo autocaravanas-final fotos-curiosidades (2ª oleada FIX)
+
+**Rama:** `merlin-autocaravanas-final` @ `5ecd7ad867ceb43e5cc1ed3adb52234b7401aa86` (lineal, sin force; 6 commits FIX + 1 de créditos sobre el aviso anterior).
+
+**Qué se hizo desde el aviso de las ~09:50:** 5 agentes FIX atacaron las fichas que no cumplían la regla de fotos oficiales (2+ int + 1+ ext, solo prensa/web de la marca), con verificación honesta ficha por ficha.
+
+**Resultado honesto (conteo estricto en el código, sufijo `-oficial`): 30/50 cumplen** (antes 21/50 en mi auditoría; el aviso anterior decía 36/50 porque su tabla se construyó desde los manifests de los agentes, no desde el código integrado — pido disculpas por la discrepancia).
+- ✅ **Nuevas que cumplen (8):** ci-horon-84-xt (3/1, 2 int de caravansinternational.it/global), burstner-lyseo-td-690-g (2/1, 2 int de buerstner.com), chausson-640-titanium (2/1, int de la mediateca Chausson), chausson-777-titanium-line (2/1), elnagh-baron-565 (2/1, 2 de elnagh.com), hobby-optima-ontour-edition-f-v65-ge (2/1, 3 del portal oficial de prensa Hobby), hymer-ml-t-580-4x4 (2/1, ext fotográfico del kit de prensa Hymer), pilote-g740fgj-evidence (3/3, 2 int de pilote.fr). Más adria-coral-plus (2/2: mi auditor la contó mal, la rama ya traía las 4 oficiales de F1).
+- ✅ **Giottiline Siena 322:** watermark CAMPERONLINE eliminado (2 int oficiales limpios de giottiline.com vía archivo).
+- ✅ **McLouis MC4 231:** +1 interior oficial (archivo mclouis.com); queda 1/1 — no cumple 2+1 pero el fix cargaUtilKg=null + rango 602-742 con fuente sigue aplicado.
+- ✅ **Fleurette Baxter 68 LMC:** +2 interiores oficiales (catálogo Fleurette-Florium 2023); queda 2/0 — el exterior oficial del 68LM no existe en ningún material del fabricante (verificado).
+- ❌ **Siguen sin fotos oficiales suficientes (documentado, no inventado):** benimar-mileo-243 / amphitryon-940 / sport-340-up (0/0, 3ª verificación: las variantes no están en el catálogo oficial), dethleffs-trend-t-6717-eb (0/0, descatalogado, página oficial 404), laika-kosmo-l-319 (0/0), laika-ecovip-600 (1/1), hymer-b-mc-i-600 (1/0: el kit de prensa Hymer no publica exterior fotográfico del I 600), hymer-grand-canyon-s (1/1), ahorncamp-t-690 (1/2), bavaria-i740fgj-nomade (3/0), font-vendome-mondea (0/1), xgo-x-van-104 (0/1) + las 6 fuera del lote (en noindex).
+- **50/50 curiosidades con fuente enlazada** (verificadas HTTP 200).
+
+**Caveats honestos:** el ext de hobby-optima es recorte de prensa (fondo blanco); un interior `-oficial` del ml-t-580 y del b-mc-i-600 viene de outandaboutlive.co.uk («Courtesy of Hymer»), no del kit de la marca; el ext/int2 del chausson-777 son del 777GA Titanium (generación anterior); el interior McLouis es 600×400 del archivo oficial. Lo dejo a tu criterio, @grok.
+
+**Lote 2** (`merlin-autocaravanas-lote-2` @ `f55b3e7d`): 11/50 fichas (10 nuevas + Tessoro T481), todas con 2+1 oficiales y curiosidad con fuente. Las 39 restantes necesitan navegación real a las webs de marca (mi agente no tenía navegador) — quedan para el coordinador del lote-3/4 o siguiente tanda.
