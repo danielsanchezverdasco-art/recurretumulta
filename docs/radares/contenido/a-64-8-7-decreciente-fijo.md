@@ -12,6 +12,14 @@
 
 El cinemómetro se encuentra en la **A-64, punto kilométrico 8,7**, controlando el **sentido decreciente** de la circulación, que la DGT asocia al destino **Grases**. Las coordenadas lo sitúan en el tramo medio de la autovía, en la zona central de Asturias, de relieve suave, no lejos del enlace con la A-8. A 2,2 km, en el pk 6,5, un segundo equipo fijo cubre el sentido opuesto.
 
+<iframe title="Mapa: radar a-64-8-7-decreciente-fijo" src="https://www.google.com/maps?q=43.4159,-5.5541&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-64-8-7-decreciente-fijo" src="https://maps.google.com/maps?q=&layer=c&cbll=43.4159,-5.5541&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La **A-64** une **Oviedo con Villaviciosa**, conectando la capital asturiana con la costa este del Principado y, a través de su enlace con la A-8, con el resto de la costa. Es una autovía de calzadas separadas y sobrados carriles por sentido, más corta y tranquila que la A-8, pero esencial para los desplazamientos regionales: desplazamientos cotidianos entre Oviedo y la costa, trasiego comercial y planes de fin de semana hacia el oriente.
