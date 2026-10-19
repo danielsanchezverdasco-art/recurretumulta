@@ -11,6 +11,14 @@
 ## Dónde está
 
 La N-120, pk 550,7, en Nogueira de Ramuín (Ourense), alberga la cabina: 42.441864, -7.7440057. Vigila el sentido creciente —vehículos hacia pks mayores—, con destino Ourense según la DGT. Street View permite ver el emplazamiento.
+
+<iframe title="Mapa: radar n-120-550-7-creciente-cabina" src="https://www.google.com/maps?q=42.441864,-7.7440057&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-120-550-7-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.441864,-7.7440057&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
 ## La carretera
 
 La N-120 es una nacional convencional del Estado que cruza el interior gallego hacia la costa atlántica. En el XML figura como «CARRETERA NACIONAL». El tramo del pk 550,7 no está descrito.
