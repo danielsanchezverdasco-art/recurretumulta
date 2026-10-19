@@ -12,6 +12,14 @@
 
 La cabina está instalada en la **CV-60, punto kilométrico 16,8**, dentro de la provincia de Valencia. Cubre el **sentido decreciente**, el de quienes se desplazan hacia pk decrecientes. Según el servicio oficial de geocodificación, el emplazamiento pertenece a **Castelló de Rugat**. El control fijo de la DGT más próximo es el de la **CV-60, pk 22,8** (sentido creciente), a 5,8 km hacia el noreste.
 
+<iframe title="Mapa: radar cv-60-16-8-decreciente-cabina" src="https://www.google.com/maps?q=38.87738,-0.39054&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cv-60-16-8-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.87738,-0.39054&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 Estamos ante una vía de la Generalitat: la CV-60 en Valencia. El tráfico aquí mezcla el largo recorrido con los desplazamientos diarios de la zona. La comarca de paso se identifica con las comarcas centrales valencianas.
