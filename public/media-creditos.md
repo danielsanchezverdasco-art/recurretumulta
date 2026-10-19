@@ -1086,3 +1086,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/bmw-m5-berlina-2026-precio-ficha-tecnica-hunt1.webp | https://individual.bmw-m.com/nl-NL/brochure/G90-81FK-S0R | BMW M GmbH (material de prensa oficial BMW M Individual) | desconocida (material de prensa del fabricante) |
 | /media/bmw-m5-berlina-2026-precio-ficha-tecnica-hunt2.webp | https://individual.bmw-m.com/nl-NL/brochure/G90-81FK-S0R | BMW M GmbH (material de prensa oficial BMW M Individual) | desconocida (material de prensa del fabricante) |
 | /media/bmw-m5-berlina-2026-precio-ficha-tecnica-hunt3.webp | https://www.vehiclesizes.com/cars/bmw/m5/m5-g90-sedan-2025/images/ | VehicleSizes.com (galería 2025 BMW M5 G90) | desconocida |
+| /media/bmw-ix3-40-2026-precio-ficha-tecnica-hunt1.webp | https://images.carexpert.com.au/resize/1920/-/cms/v1/media/bmw-ix3-exterior-colours-2-cropped-3x2.jpg | CarExpert Australia | desconocida |
+| /media/bmw-ix3-40-2026-precio-ficha-tecnica-hunt2.webp | https://www.motorbox.com/image/bmw-ix3/8/6/3/863469/863469-16x9-lg.jpg | Motorbox | desconocida |
+| /media/bmw-ix3-40-2026-precio-ficha-tecnica-hunt3.webp | https://i0.wp.com/leasingprive.lu/wp-content/uploads/2026/04/bmw_ix3_bev_83kwh_40_auto_media_1.png?fit=1200%2C675&ssl=1 | Leasing Privé Luxembourg | desconocida |
+| /media/bmw-i5-m60-xdrive-2026-precio-ficha-tecnica-hunt1.webp | https://mediapool.bmwgroup.com/cache/P9/202309/P90523140/P90523140-the-bmw-i5-m60-xdrive-still-shot-10-2023-2250px.jpg | BMW Group / press.bmwgroup.com | desconocida |
+| /media/bmw-i5-m60-xdrive-2026-precio-ficha-tecnica-hunt2.webp | https://mediapool.bmwgroup.com/cache/P9/202309/P90523105/P90523105-the-bmw-i5-m60-xdrive-interior-10-2023-2247px.jpg | BMW Group / press.bmwgroup.com | desconocida |
+| /media/bmw-i5-m60-xdrive-2026-precio-ficha-tecnica-hunt3.webp | https://mediapool.bmwgroup.com/cache/P9/202305/P90506458/P90506458-the-new-bmw-i5-m60-xdrive-at-the-villa-d-este-05-2023-2250px.jpg | BMW Group / press.bmwgroup.com | desconocida |
+| /media/byd-seal-6-dm-i-touring-2025-precio-ficha-tecnica-hunt1.webp | https://sgpetch.co.uk/cmsmedia/admin/content/vehicle_media/BYD/Seal_6_Touring_DM_i_model_image-402718.jpg | SG Petch / BYD (imagen oficial de prensa) | desconocida |
+| /media/byd-seal-6-dm-i-touring-2025-precio-ficha-tecnica-hunt2.webp | https://www.byd.com/pl/samochody-hybrydowe/seal-6-dm-i-touring | BYD (web oficial Polonia) | desconocida |
+| /media/byd-seal-6-dm-i-touring-2025-precio-ficha-tecnica-hunt3.webp | https://www.byd.com/material/byd-site/eu/hybrid-cars/seal-6-dmi/l/byd-seal-6-dmi-interior-01-l.webp | BYD (web oficial Europa) | desconocida |
+| /media/byd-song-l-dm-i-2025-precio-ficha-tecnica-hunt1.webp | https://www.tjygqc.com/2025-byd-song-l-dmi-112km-leading-model-product/ | Tianjin Yigang Automobile (exportador) | desconocida |
+| /media/byd-song-l-dm-i-2025-precio-ficha-tecnica-hunt2.webp | https://www.tjygqc.com/2025-byd-song-l-dmi-112km-leading-model-product/ | Tianjin Yigang Automobile (exportador) | desconocida |
+| /media/byd-song-l-dm-i-2025-precio-ficha-tecnica-hunt3.webp | https://borderlesscar.com/ar/product/byd-song-l-dm-i-2025/ | BorderlessCar | desconocida |
+| /media/smart-3-2026-precio-ficha-tecnica-hunt1.webp | https://images.carexpert.com.au/crop/1600/1067/app/uploads/2023/04/smart-3-2.jpg | CarExpert | desconocida |
+| /media/smart-3-2026-precio-ficha-tecnica-hunt2.webp | https://www.smartgreece.gr/ | smart Grecia (web oficial) | desconocida |
+| /media/smart-3-2026-precio-ficha-tecnica-hunt3.webp | https://ev.motorwatt.com/ev-database/database-electric-cars/smart-3 | MotorWatt | desconocida |
+| /media/byd-seal-2024-precio-ficha-tecnica-hunt1.webp | https://www.motortrend.com/uploads/2024/01/001-2024-byd-seal-rear-view.jpg | MotorTrend | desconocida |
+| /media/byd-seal-2024-precio-ficha-tecnica-hunt2.webp | https://www.nationwidevehiclecontracts.co.uk/media/qmye5ans/byd-seal-interior.jpg?m=20xi0qu | Nationwide Vehicle Contracts | desconocida |
+| /media/byd-seal-2024-precio-ficha-tecnica-hunt3.webp | https://images.carsguide.com.au/image/upload/c_fit,h_810,w_1215,f_auto,t_cg_base/v1/editorial/2024-BYD-Seal-1200x800-10.jpg | CarsGuide | desconocida |
+| /media/xpeng-p7-2025-nueva-generacion-precio-ficha-tecnica-hunt1.webp | https://evmagz.com/wp-content/uploads/2025/08/Xpeng-P7-1.jpg | EVmagz | desconocida |
+| /media/xpeng-p7-2025-nueva-generacion-precio-ficha-tecnica-hunt2.webp | https://www.evspecifications.com/images/news/8f45976/additional_0.jpg | EVspecifications | desconocida |
+| /media/xpeng-p7-2025-nueva-generacion-precio-ficha-tecnica-hunt3.webp | https://www.dsf.my/wp-content/uploads/2025/08/Xpeng-P7-new-generation-august-2025-preview-3-630x420.jpeg?v=1754497775 | DriveSafe & Fast (dsf.my) | desconocida |
+| /media/hongqi-hs3-phev-2025-precio-ficha-tecnica-hunt1.webp | https://ev1.ru/ | EV1.ru | desconocida |
+| /media/hongqi-hs3-phev-2025-precio-ficha-tecnica-hunt2.webp | https://www.hongqi-ae.com/ar/car/hs3 | Hongqi UAE / web oficial | desconocida |
+| /media/hongqi-hs3-phev-2025-precio-ficha-tecnica-hunt3.webp | https://www.borderlesscar.com/product/hongqi-hs3/ | Borderless Car | desconocida |
