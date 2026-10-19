@@ -2797,3 +2797,6 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/hiboy-s2r-hunt1.webp | https://www.edealinfo.com/d/00692628485743/Hiboy-S2R-Portable-Folding-Commuting-Electric-Scooter-with | Amazon (foto de producto Hiboy S2R) | desconocida |
 | /media/hiboy-s2r-hunt2.webp | https://scooter.guide/hiboy-s2r-electric-scooter-review/ | Scooter Guide (review Hiboy S2R) | desconocida |
 | /media/hiboy-s2r-hunt3.webp | https://www.womanlikes.com/product/hiboy-s2r-electric-scooter-upgraded-detachable-battery-19-mph-17-miles-range-foldable-commuting-electric-scooter-for-adults/ | Amazon (foto de producto Hiboy S2R) | desconocida |
+| /media/chery-tiggo-9-2024-precio-ficha-tecnica-hunt1.webp | https://visor.ph/cars/auto-china-2024-chery-presents-tiggo-9-phev/ | Visor | desconocida |
+| /media/chery-tiggo-9-2024-precio-ficha-tecnica-hunt2.webp | https://www.zigwheels.my/new-cars/chery/tiggo-9 | Chery / ZigWheels | desconocida |
+| /media/chery-tiggo-9-2024-precio-ficha-tecnica-hunt3.webp | https://edit.drivencarguide.co.nz/reviews/chery-tiggo-9-review-the-top-tiggo-were-just-not-sure-if-its-the-best-tiggo/ | Driven Car Guide | desconocida |
