@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 41.3504, -4.5329
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=41.3504,-4.5329)
 
+<iframe title="Mapa: radar cl-602-92-0-decreciente-cabina" src="https://www.google.com/maps?q=41.3504,-4.5329&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cl-602-92-0-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=41.3504,-4.5329&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** Partimos del XML de radares de la DGT (DATEX II, portal NAP), verificado el 2026-10-19: de ahí salen la CL-602, el pk 91,98, el sentido decreciente y las coordenadas. El límite y el municipio no los da el dataset: el primero es el genérico del RGC (art. 48) para convencionales —90 km/h, por ser autonómica—, y el segundo (Íscar) se obtuvo con CartoCiudad (IGN/CNIG).
 
 ## La carretera autonómica
