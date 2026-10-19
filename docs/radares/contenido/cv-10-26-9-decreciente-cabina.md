@@ -12,6 +12,14 @@
 
 La Dirección General de Tráfico ubica esta caja en la **CV-10 a la altura del pk 26,9**, en territorio de Castellón. Registra a los vehículos que marchan en **sentido decreciente**, hacia pk decrecientes. La ficha municipal del punto es **Borriol**: así lo determina CartoCiudad. El control fijo de la DGT más próximo es el de la **CV-149, pk 1,4** (sentido decreciente), a 6,0 km hacia el sur.
 
+<iframe title="Mapa: radar cv-10-26-9-decreciente-cabina" src="https://www.google.com/maps?q=40.06603,-0.03485&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cv-10-26-9-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.06603,-0.03485&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La vía es la CV-10: la Autovía de la Plana, en la provincia de Castellón. La intensidad varía por franjas: mañanas laborables densas, tardes más fluidas. El marco geográfico es la Plana de Castelló.
