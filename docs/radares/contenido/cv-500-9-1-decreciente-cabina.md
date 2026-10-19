@@ -12,6 +12,14 @@
 
 Esta caja vigila la **CV-500 en el punto kilométrico 9,1**, dentro de Valencia. Registra a los vehículos que marchan en **sentido decreciente**, hacia pk decrecientes. El municipio que corresponde a estas coordenadas es **València** (fuente: el geocodificador del IGN). El punto vigilado más cercano es el de la **CV-500, pk 14,6** (sentido creciente): queda a 5,4 km hacia el sureste.
 
+<iframe title="Mapa: radar cv-500-9-1-decreciente-cabina" src="https://www.google.com/maps?q=39.35371,-0.32483&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cv-500-9-1-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.35371,-0.32483&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 Estamos ante una vía de la Generalitat: la CV-500 en Valencia. Por este punto pasan tanto vehículos de paso como tráfico local de la comarca. El escenario es la huerta y el litoral valencianos, con su fisonomía propia.
