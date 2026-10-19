@@ -12,6 +12,15 @@
 
 El emplazamiento del radar es el **pk 95,7 de la A-4** (provincia de Toledo, Castilla-La Mancha). Actúa sobre el **sentido decreciente** de la vía, esto es, el de los puntos kilométricos decrecientes. Si conoces la zona, el pk 95,7 te orientará mejor que la propia cabina: los equipos rotan, la ubicación publicada no cambia. El control fijo de la DGT más próximo es el de la **CM-42, pk 39,8** (sentido decreciente), a 18,8 km hacia el suroeste. El siguiente punto por cercanía es el de la **A-4, pk 67,6** (sentido creciente), a 26,9 km hacia el norte. La zona combina el carácter rural del entorno con la intensidad propia de una vía de comunicación relevante.
 
+<iframe title="Mapa: radar a-4-95-7-decreciente-cabina" src="https://www.google.com/maps?q=39.66919,-3.51054&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-4-95-7-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.66919,-3.51054&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 Estamos en la A-4, la Autovía del Sur, que une Madrid con Andalucía. La autovía canaliza una afluencia variada: transporte, ocio y trabajo se reparten el asfalto. La presencia de la cabina responde a que este es un punto donde los excesos son frecuentes. La A-4 suma 8 puntos de control en Castilla-La Mancha; este ocupa el cuarto lugar por pk. Dentro de la propia A-4, el siguiente punto vigilado es el del pk 67,6 (sentido creciente), a 26,9 km hacia el norte. En esta vía, como en tantas, la velocidad adecuada es la que marcan las señales. La señalización de la vía es la guía principal: atenderla evita la mayoría de los problemas.
