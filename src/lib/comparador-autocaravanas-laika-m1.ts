@@ -250,7 +250,19 @@ export const AUTOCARAVANAS_LAIKA_M1: Autocaravana[] = [
   ancho: 1200,
   alto: 800,
   },
-  ],
+    {
+  src: "/media/laika-kosmo-l-319-2026-precio-ficha-tecnica-interior2.webp",
+  alt: "Interior del Laika Kosmo L 319: zona de descanso trasera y baño",
+  ancho: 1200,
+  alto: 803,
+  },
+  {
+  src: "/media/laika-kosmo-l-319-2026-precio-ficha-tecnica-interior3.webp",
+  alt: "Interior del Laika Kosmo L 319: camas gemelas traseras",
+  ancho: 1200,
+  alto: 803,
+  },
+],
   analisisSlug: "laika-kosmo-l-319-2026-analisis-opinion",
   planMantenimiento: {
   intervalo:

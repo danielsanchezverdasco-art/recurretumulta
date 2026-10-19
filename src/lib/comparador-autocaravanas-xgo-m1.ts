@@ -96,7 +96,25 @@ export const AUTOCARAVANAS_XGO_M1: Autocaravana[] = [
         ancho: 1200,
         alto: 800,
       },
-    ],
+      {
+  src: "/media/xgo-x-van-104-2026-precio-ficha-tecnica-ext2.webp",
+  alt: "XGO X-Van 104, vista lateral",
+  ancho: 1200,
+  alto: 814,
+  },
+  {
+  src: "/media/xgo-x-van-104-2026-precio-ficha-tecnica-interior2.webp",
+  alt: "Interior del XGO X-Van 104: salón-comedor y cocina",
+  ancho: 1200,
+  alto: 900,
+  },
+  {
+  src: "/media/xgo-x-van-104-2026-precio-ficha-tecnica-interior3.webp",
+  alt: "Interior del XGO X-Van 104: cocina y zona de estar",
+  ancho: 1200,
+  alto: 900,
+  },
+],
     analisisSlug: "xgo-x-van-104-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:

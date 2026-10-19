@@ -102,7 +102,13 @@ Perfil de comprador: la Mileo 243 encaja con parejas que buscan la perfilada má
         ancho: 1200,
         alto: 800,
       },
-    ],
+      {
+  src: "/media/benimar-mileo-243-2026-precio-ficha-tecnica-interior2.webp",
+  alt: "Interior de la Benimar Mileo 243, salón visto de delante hacia atrás",
+  ancho: 816,
+  alto: 460,
+  },
+],
     analisisSlug: "benimar-mileo-243-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
@@ -213,7 +219,19 @@ A quién va dirigida: la Amphitryon 940 es para familias de cinco que quieren un
   ancho: 1200,
   alto: 800,
   },
-  ],
+    {
+  src: "/media/benimar-amphitryon-940-2026-precio-ficha-tecnica-interior2.webp",
+  alt: "Interior de la Benimar Amphitryon 940, cama abatible de cabina",
+  ancho: 1200,
+  alto: 800,
+  },
+  {
+  src: "/media/benimar-amphitryon-940-2026-precio-ficha-tecnica-ext2.webp",
+  alt: "Benimar Amphitryon 940, vista tres cuartos delantera junto al mar (foto oficial)",
+  ancho: 1024,
+  alto: 682,
+  },
+],
   analisisSlug: "benimar-amphitryon-940-2026-analisis-opinion",
   planMantenimiento: {
   intervalo:
@@ -324,7 +342,19 @@ Comprador ideal: la Sport 340 UP está pensada para familias de cinco que se ini
   ancho: 1200,
   alto: 800,
   },
-  ],
+    {
+  src: "/media/benimar-sport-340-up-2026-precio-ficha-tecnica-interior2.webp",
+  alt: "Interior de la Benimar Sport 340 UP, salón comedor y cocina",
+  ancho: 1200,
+  alto: 800,
+  },
+  {
+  src: "/media/benimar-sport-340-up-2026-precio-ficha-tecnica-interior3.webp",
+  alt: "Interior de la Benimar Sport 340 UP, literas traseras",
+  ancho: 1200,
+  alto: 800,
+  },
+],
   analisisSlug: "benimar-sport-340-up-2026-analisis-opinion",
   planMantenimiento: {
   intervalo:
