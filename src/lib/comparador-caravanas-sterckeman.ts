@@ -6,6 +6,10 @@
 // Sin tarifa oficial en España → precioDesde: null en todos (regla del lote).
 // Fotos: prensa oficial del fabricante, verificadas visualmente una a una
 // (ver /tmp/creditos-sterckeman.md). Carga útil no publicada por la marca → null.
+// 19/10/2026 (noche): 12 fotos reales nuevas en /media/fotos-reales/<slug>/<slug>-N.webp
+// (N: 1=principal, 2-4=galería) — prensa oficial Sterckeman + fotos de distribuidor del
+// modelo exacto (caravans.nl para el 455CP, euroservice69.fr para el 496PE), verificadas
+// visualmente una a una; sin marcas de agua, sin TruckScout24.
 import type { CocheComparador } from "./comparador-coches-data.ts";
 
 export const CARAVANAS_STERCKEMAN: CocheComparador[] = [
@@ -27,9 +31,9 @@ export const CARAVANAS_STERCKEMAN: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/sterckeman-open-edition-540cp-2026-precio-ficha-tecnica.webp",
-    imagenOficial: "/media/sterckeman-open-edition-540cp-2026-precio-ficha-tecnica.webp",
-    imagenInteriorOficial: "/media/sterckeman-open-edition-540cp-2026-precio-ficha-tecnica-interior.webp",
+    imagen: "/media/fotos-reales/sterckeman-open-edition-540cp-2026-precio-ficha-tecnica/sterckeman-open-edition-540cp-2026-precio-ficha-tecnica-1.webp",
+    imagenOficial: "/media/fotos-reales/sterckeman-open-edition-540cp-2026-precio-ficha-tecnica/sterckeman-open-edition-540cp-2026-precio-ficha-tecnica-1.webp",
+    imagenInteriorOficial: "/media/fotos-reales/sterckeman-open-edition-540cp-2026-precio-ficha-tecnica/sterckeman-open-edition-540cp-2026-precio-ficha-tecnica-3.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 7410,
@@ -62,10 +66,10 @@ export const CARAVANAS_STERCKEMAN: CocheComparador[] = [
     ],
     opiniones: [],
     galeria: [
-      { src: "/media/sterckeman-open-edition-540cp-2026-precio-ficha-tecnica-2.webp", alt: "Sterckeman Open Edition 540CP, salón con techo panorámico", ancho: 1067, alto: 800 },
-      { src: "/media/sterckeman-open-edition-540cp-2026-precio-ficha-tecnica.webp", alt: "Sterckeman Open Edition 540CP, vista exterior", ancho: 1200, alto: 750 },
-      { src: "/media/sterckeman-open-edition-540cp-2026-precio-ficha-tecnica-interior.webp", alt: "Interior del Sterckeman Open Edition 540CP", ancho: 1067, alto: 800 },
-      { src: "/media/sterckeman-open-edition-540cp-2026-precio-ficha-tecnica-3.webp", alt: "Sterckeman Open Edition 540CP, detalle del techo panorámico", ancho: 600, alto: 800 },
+      { src: "/media/fotos-reales/sterckeman-open-edition-540cp-2026-precio-ficha-tecnica/sterckeman-open-edition-540cp-2026-precio-ficha-tecnica-2.webp", alt: "Sterckeman Open Edition 540CP, salón con techo panorámico", ancho: 1200, alto: 900 },
+      { src: "/media/fotos-reales/sterckeman-open-edition-540cp-2026-precio-ficha-tecnica/sterckeman-open-edition-540cp-2026-precio-ficha-tecnica-1.webp", alt: "Sterckeman Open Edition 540CP, vista exterior", ancho: 1600, alto: 1000 },
+      { src: "/media/fotos-reales/sterckeman-open-edition-540cp-2026-precio-ficha-tecnica/sterckeman-open-edition-540cp-2026-precio-ficha-tecnica-3.webp", alt: "Interior del Sterckeman Open Edition 540CP", ancho: 1200, alto: 900 },
+      { src: "/media/fotos-reales/sterckeman-open-edition-540cp-2026-precio-ficha-tecnica/sterckeman-open-edition-540cp-2026-precio-ficha-tecnica-4.webp", alt: "Sterckeman Open Edition 540CP, detalle del techo panorámico", ancho: 1200, alto: 1600 },
     ],
     analisisSlug: "sterckeman-open-edition-540cp-2026-analisis-opinion",
     planMantenimiento: {
@@ -173,9 +177,9 @@ export const CARAVANAS_STERCKEMAN: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/sterckeman-sport-edition-455cp-2026-precio-ficha-tecnica.webp",
-    imagenOficial: "/media/sterckeman-sport-edition-455cp-2026-precio-ficha-tecnica.webp",
-    imagenInteriorOficial: "/media/sterckeman-sport-edition-455cp-2026-precio-ficha-tecnica-interior.webp",
+    imagen: "/media/fotos-reales/sterckeman-sport-edition-455cp-2026-precio-ficha-tecnica/sterckeman-sport-edition-455cp-2026-precio-ficha-tecnica-1.webp",
+    imagenOficial: "/media/fotos-reales/sterckeman-sport-edition-455cp-2026-precio-ficha-tecnica/sterckeman-sport-edition-455cp-2026-precio-ficha-tecnica-1.webp",
+    imagenInteriorOficial: "/media/fotos-reales/sterckeman-sport-edition-455cp-2026-precio-ficha-tecnica/sterckeman-sport-edition-455cp-2026-precio-ficha-tecnica-3.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 6710,
@@ -208,10 +212,10 @@ export const CARAVANAS_STERCKEMAN: CocheComparador[] = [
     ],
     opiniones: [],
     galeria: [
-      { src: "/media/sterckeman-sport-edition-455cp-2026-precio-ficha-tecnica-2.webp", alt: "Sterckeman Sport Edition 455CP, vista exterior al atardecer", ancho: 873, alto: 800 },
-      { src: "/media/sterckeman-sport-edition-455cp-2026-precio-ficha-tecnica.webp", alt: "Sterckeman Sport Edition 455CP, vista lateral exterior", ancho: 800, alto: 800 },
-      { src: "/media/sterckeman-sport-edition-455cp-2026-precio-ficha-tecnica-interior.webp", alt: "Armario del Sterckeman Sport Edition 455CP", ancho: 600, alto: 800 },
-      { src: "/media/sterckeman-sport-edition-455cp-2026-precio-ficha-tecnica-3.webp", alt: "Sterckeman 455CP, exterior con rotulación del modelo", ancho: 900, alto: 488 },
+      { src: "/media/fotos-reales/sterckeman-sport-edition-455cp-2026-precio-ficha-tecnica/sterckeman-sport-edition-455cp-2026-precio-ficha-tecnica-2.webp", alt: "Sterckeman Sport Edition 455CP, vista exterior al atardecer", ancho: 1309, alto: 1200 },
+      { src: "/media/fotos-reales/sterckeman-sport-edition-455cp-2026-precio-ficha-tecnica/sterckeman-sport-edition-455cp-2026-precio-ficha-tecnica-1.webp", alt: "Sterckeman Sport Edition 455CP, vista lateral exterior", ancho: 1024, alto: 768 },
+      { src: "/media/fotos-reales/sterckeman-sport-edition-455cp-2026-precio-ficha-tecnica/sterckeman-sport-edition-455cp-2026-precio-ficha-tecnica-3.webp", alt: "Cocina del Sterckeman Sport Edition 455CP", ancho: 1024, alto: 768 },
+      { src: "/media/fotos-reales/sterckeman-sport-edition-455cp-2026-precio-ficha-tecnica/sterckeman-sport-edition-455cp-2026-precio-ficha-tecnica-4.webp", alt: "Sterckeman 455CP, exterior con rotulación del modelo", ancho: 1024, alto: 768 },
     ],
     analisisSlug: "sterckeman-sport-edition-455cp-2026-analisis-opinion",
     planMantenimiento: {
@@ -319,9 +323,9 @@ export const CARAVANAS_STERCKEMAN: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/sterckeman-sport-edition-496pe-2026-precio-ficha-tecnica.webp",
-    imagenOficial: "/media/sterckeman-sport-edition-496pe-2026-precio-ficha-tecnica.webp",
-    imagenInteriorOficial: "/media/sterckeman-sport-edition-496pe-2026-precio-ficha-tecnica-interior.webp",
+    imagen: "/media/fotos-reales/sterckeman-sport-edition-496pe-2026-precio-ficha-tecnica/sterckeman-sport-edition-496pe-2026-precio-ficha-tecnica-1.webp",
+    imagenOficial: "/media/fotos-reales/sterckeman-sport-edition-496pe-2026-precio-ficha-tecnica/sterckeman-sport-edition-496pe-2026-precio-ficha-tecnica-1.webp",
+    imagenInteriorOficial: "/media/fotos-reales/sterckeman-sport-edition-496pe-2026-precio-ficha-tecnica/sterckeman-sport-edition-496pe-2026-precio-ficha-tecnica-3.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 7010,
@@ -354,10 +358,10 @@ export const CARAVANAS_STERCKEMAN: CocheComparador[] = [
     ],
     opiniones: [],
     galeria: [
-      { src: "/media/sterckeman-sport-edition-496pe-2026-precio-ficha-tecnica-2.webp", alt: "Sterckeman Sport Edition 496PE, literas traseras", ancho: 534, alto: 800 },
-      { src: "/media/sterckeman-sport-edition-496pe-2026-precio-ficha-tecnica.webp", alt: "Sterckeman Sport Edition 496PE, dormitorio delantero", ancho: 1200, alto: 800 },
-      { src: "/media/sterckeman-sport-edition-496pe-2026-precio-ficha-tecnica-interior.webp", alt: "Cocina del Sterckeman Sport Edition 496PE", ancho: 801, alto: 800 },
-      { src: "/media/sterckeman-sport-edition-496pe-2026-precio-ficha-tecnica-3.webp", alt: "Sterckeman Sport Edition 496PE, baño con ducha", ancho: 600, alto: 800 },
+      { src: "/media/fotos-reales/sterckeman-sport-edition-496pe-2026-precio-ficha-tecnica/sterckeman-sport-edition-496pe-2026-precio-ficha-tecnica-2.webp", alt: "Sterckeman Sport Edition 496PE, literas traseras", ancho: 1600, alto: 1200 },
+      { src: "/media/fotos-reales/sterckeman-sport-edition-496pe-2026-precio-ficha-tecnica/sterckeman-sport-edition-496pe-2026-precio-ficha-tecnica-1.webp", alt: "Sterckeman Sport Edition 496PE, dormitorio delantero", ancho: 1200, alto: 800 },
+      { src: "/media/fotos-reales/sterckeman-sport-edition-496pe-2026-precio-ficha-tecnica/sterckeman-sport-edition-496pe-2026-precio-ficha-tecnica-3.webp", alt: "Armario del Sterckeman Sport Edition 496PE", ancho: 1200, alto: 1600 },
+      { src: "/media/fotos-reales/sterckeman-sport-edition-496pe-2026-precio-ficha-tecnica/sterckeman-sport-edition-496pe-2026-precio-ficha-tecnica-4.webp", alt: "Sterckeman Sport Edition 496PE, baño con ducha", ancho: 1200, alto: 1600 },
     ],
     analisisSlug: "sterckeman-sport-edition-496pe-2026-analisis-opinion",
     planMantenimiento: {
