@@ -1756,3 +1756,9 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/rolls-royce-spectre-2024-precio-ficha-tecnica-hunt1.webp | https://Carbuzz.com/cars/rolls-royce/spectre/2024/ | CarBuzz (fotos de prensa) | desconocida |
 | /media/rolls-royce-spectre-2024-precio-ficha-tecnica-hunt2.webp | https://Carbuzz.com/cars/rolls-royce/spectre/2024/ | CarBuzz (fotos de prensa) | desconocida |
 | /media/rolls-royce-spectre-2024-precio-ficha-tecnica-hunt3.webp | https://Carbuzz.com/cars/rolls-royce/spectre/2024/ | CarBuzz (fotos de prensa) | desconocida |
+| /media/kawasaki-vulcan-s-2025-ficha-tecnica-precio-hunt1.webp | https://hawaii.kawasaki.com/en-us/motorcycle/vulcan/sport-cruiser/vulcan-s/2025-vulcan-s-cafe-abs | Kawasaki Hawaii | desconocida |
+| /media/kawasaki-vulcan-s-2025-ficha-tecnica-precio-hunt2.webp | http://www.kawasaki-motors.com/ja-jp/motorcycle/vulcan/sport-cruiser/vulcan-s/2025-vulcan-s | Kawasaki Motors Japan | desconocida |
+| /media/kawasaki-vulcan-s-2025-ficha-tecnica-precio-hunt3.webp | https://www.seastarsuperbikes.co.uk/kawasaki/models/cruiser/vulcan-s-2025/ | Sea Star Superbikes | desconocida |
+| /media/okai-neon-pro-hunt1.webp | https://www.maxblinker.fr/13738-panda_big_default/okai-neon-pro-es30.jpg | Maxblinker (foto de producto Okai Neon Pro ES30) | desconocida |
+| /media/okai-neon-pro-hunt2.webp | https://www.voltride.sk/img/cms/Produkty/Okai-neon-pro-es30/NeonProBlackBack.jpg | Voltride (foto de producto Okai Neon Pro ES30) | desconocida |
+| /media/okai-neon-pro-hunt3.webp | https://www.roverebike.ca/cdn/shop/files/NeonProBlackMain.png?v=1709155869&width=990 | Roverebike (foto de producto Okai Neon Pro ES30) | desconocida |
