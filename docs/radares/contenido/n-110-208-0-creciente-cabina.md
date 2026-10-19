@@ -11,6 +11,14 @@
 ## Dónde está
 La cabina está en la N-110, pk 208,0, en el propio término de Segovia: 40.8578, -4.2454. El cinemómetro, dentro de la cabina, vigila el sentido creciente —pks ascendentes—, hacia Plasencia, destino que la DGT asigna al registro.
 
+<iframe title="Mapa: radar n-110-208-0-creciente-cabina" src="https://www.google.com/maps?q=40.8578,-4.2454&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-110-208-0-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.8578,-4.2454&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La nacional
 La N-110 es la nacional Plasencia–Segovia, convencional que cruza el Sistema Central. Calzada única en la mayor parte del recorrido, con curvas y travesías que exigen más atención que una autovía. El 90 genérico es aquí la referencia.
 
