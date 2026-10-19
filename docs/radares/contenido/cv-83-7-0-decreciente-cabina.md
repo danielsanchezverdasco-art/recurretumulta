@@ -12,6 +12,14 @@
 
 Tráfico sitúa el radar en la **CV-83, pk 7,0**, provincia de Alicante. Registra a los vehículos que marchan en **sentido decreciente**, hacia pk decrecientes. Según el servicio oficial de geocodificación, el emplazamiento pertenece a **Monòver/Monóvar**. A 21,7 km hacia el sureste está el control más próximo, el de la **A-7, pk 522,0** (sentido creciente).
 
+<iframe title="Mapa: radar cv-83-7-0-decreciente-cabina" src="https://www.google.com/maps?q=38.4394,-0.85649&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cv-83-7-0-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.4394,-0.85649&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 Es la CV-83, carretera autonómica que da servicio a Alicante. Por este punto pasan tanto vehículos de paso como tráfico local de la comarca. El escenario es el sureste valenciano, con su fisonomía propia.
