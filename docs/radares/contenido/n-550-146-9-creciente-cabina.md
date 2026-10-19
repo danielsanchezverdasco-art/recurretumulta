@@ -12,6 +12,14 @@
 
 El radar está situado en la N-550, pk 146,9, término municipal de Redondela (Pontevedra), en las coordenadas 42.244877, -8.596446. Apunta al sentido creciente, el de los vehículos que circulan hacia pks superiores, con destino TUI según el registro oficial. Desde el Street View enlazado se puede verificar el emplazamiento exacto.
 
+<iframe title="Mapa: radar n-550-146-9-creciente-cabina" src="https://www.google.com/maps?q=42.244877,-8.596446&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-550-146-9-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.244877,-8.596446&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La N-550 es una carretera nacional de la Red de Carreteras del Estado, de calzada convencional. La DGT la clasifica en su XML con la singularidad «CARRETERA NACIONAL» por la denominación oficial de la vía. Al no describir el documento este tramo, la ficha no le asigna características.
