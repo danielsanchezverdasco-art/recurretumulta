@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 41.4971, -5.0218
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=41.4971,-5.0218)
 
+<iframe title="Mapa: radar a-62-156-0-creciente-cabina" src="https://www.google.com/maps?q=41.4971,-5.0218&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-62-156-0-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=41.4971,-5.0218&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** Fuente primaria: XML oficial de radares fijos de la DGT, portal NAP, formato DATEX II, edición 2026-10-19. Aporta vía, pk, sentido, tipo y coordenadas. No aporta límite por punto ni municipio. El límite de la ficha (120 km/h) es el genérico del art. 48 del RGC para autovías. El municipio (Tordesillas) se obtuvo geocodificando las coordenadas con CartoCiudad, herramienta oficial del IGN/CNIG.
 
 ## Datos del punto
