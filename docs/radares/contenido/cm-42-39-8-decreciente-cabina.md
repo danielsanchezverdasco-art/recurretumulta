@@ -12,6 +12,15 @@
 
 Este punto de control se sitúa en el **pk 39,8 de la CM-42** (provincia de Toledo, Castilla-La Mancha). Registra a los vehículos que marchan en **sentido decreciente**, hacia pk decrecientes. El dataset no incluye el municipio de ningún punto: esta ficha indica la provincia (Toledo) y no inventa la localidad. A 13,4 km hacia el oeste está el control más próximo, el de la **N-401, pk 111,4** (sentido decreciente). Le sigue en proximidad el de la **A-4, pk 95,7** (sentido decreciente), situado a 18,8 km hacia el noreste. La zona combina el carácter rural del entorno con la intensidad propia de una vía de comunicación relevante.
 
+<iframe title="Mapa: radar cm-42-39-8-decreciente-cabina" src="https://www.google.com/maps?q=39.58009,-3.69655&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cm-42-39-8-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.58009,-3.69655&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 Estamos ante una vía de la Junta de Comunidades: la CM-42 en Toledo. La carretera autonómica canaliza una afluencia variada: transporte, ocio y trabajo se reparten el asfalto. La DGT vigila este tramo con un puesto estable por ser propenso a las velocidades elevadas. Es el único control de la DGT publicado para la CM-42 en Castilla-La Mancha. La CM-42 cuenta con un único punto de control publicado en la comunidad: este. La experiencia dice que aquí conviene llevar el límite siempre presente. No hay dos tramos iguales: este tiene sus particularidades y conviene conocerlas antes de pisar el acelerador.
