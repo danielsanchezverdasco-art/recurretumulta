@@ -12,6 +12,14 @@
 
 Nos situamos en el **pk 6,3 de la CV-81**, en plena provincia de Valencia. Mide la velocidad en el **sentido creciente**, el de los pk crecientes. El punto cae en el término municipal de **Ontinyent**, según el geocodificador oficial CartoCiudad (IGN/CNIG). El control fijo de la DGT más próximo es el de la **A-7, pk 407,8** (sentido decreciente), a 14,6 km hacia el norte.
 
+<iframe title="Mapa: radar cv-81-6-3-creciente-cabina" src="https://www.google.com/maps?q=38.80352,-0.6114&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cv-81-6-3-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.80352,-0.6114&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 Se trata de la CV-81, vía de titularidad autonómica en Valencia. Circula por aquí quien atraviesa la comunidad y quien se mueve entre municipios vecinos. La comarca de paso se identifica con la costa valenciana.
