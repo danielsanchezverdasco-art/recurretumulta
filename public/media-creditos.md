@@ -3035,3 +3035,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/dualtron-compact-hunt1.webp | https://scooter.guide/dualtron-compact-review/ | scooter.guide (review) | desconocida |
 | /media/dualtron-compact-hunt2.webp | https://dualtron.rs/dualtron-3/ | dualtron.rs (distribuidor oficial Dualtron) | desconocida |
 | /media/dualtron-compact-hunt3.webp | https://www.wellbots.com/es/collections/electric-scooters-bikes?page=4 | wellbots.com | desconocida |
+| /media/bentley-continental-gt-speed-2026-precio-ficha-tecnica-hunt1.webp | https://en.wheelz.me/wp-content/uploads/2024/06/NewContinentalGTSpeed-3.webp | Wheelz / en.wheelz.me | desconocida |
+| /media/bentley-continental-gt-speed-2026-precio-ficha-tecnica-hunt2.webp | https://images.dailyrevs.com/0000/v3/Bentley/667bb3098be8aa5f2f8b4584/2025-continental-gt-speed-bentley-vnqlasssst0h3nbenwip5v.jpeg | DailyRevs | desconocida |
+| /media/bentley-continental-gt-speed-2026-precio-ficha-tecnica-hunt3.webp | https://www.mensjournal.com/.image/w_2560,q_auto:good,c_limit/MjEwMzc0MjY0MDczNzU4Mjg2/2025-bentley-continental-gt-speed-interior.jpg?arena_f_auto | Men's Journal | desconocida |
+| /media/dualtron-eagle-pro-hunt1.webp | https://full-mobility.com/wp-content/uploads/2023/02/Dualtron_Eagle_1200x1600_3-1152x1536.jpg | Full Mobility (foto oficial Minimotors) | desconocida |
+| /media/dualtron-eagle-pro-hunt2.webp | https://borzo.com.ua/wp-content/uploads/2024/03/Dualtron_Eagle_Electric_Scooter_Front_View_2000x.webp | Borzo | desconocida |
+| /media/dualtron-eagle-pro-hunt3.webp | https://voltagerider.com/wp-content/uploads/2022/03/dualtron_eagle_pro_@voromotors.com_-1024x683.jpg | VoltageRider / VoroMotors | desconocida |
+| /media/lexus-nx-450h-2024-precio-ficha-tecnica-hunt1.webp | https://www.lexus.com.au/-/jssmedia/lexus/main-site/global/vehicles/suv/nx/nx-tc-2024/nx-phev/1305164f-97a3-4da9-a667-00e00dbdc60a.jpg | Lexus Australia (foto oficial) | desconocida |
+| /media/lexus-nx-450h-2024-precio-ficha-tecnica-hunt2.webp | https://scene7.toyota.eu/is/image/toyotaeurope/8nx450h-2 | Toyota Europe (foto oficial) | desconocida |
+| /media/lexus-nx-450h-2024-precio-ficha-tecnica-hunt3.webp | https://rpmweb.ca/medias/Lexus-NX-450h-2024-21.jpg | RPMWeb | desconocida |
+| /media/rolls-royce-cullinan-2026-precio-ficha-tecnica-hunt1.webp | https://headlight.news/wp-content/uploads/2024/05/2025-rolls-royce-cullinan-980x551.jpg | Headlight News (foto oficial Rolls-Royce) | desconocida |
+| /media/rolls-royce-cullinan-2026-precio-ficha-tecnica-hunt2.webp | https://www.completecar.ie/img/galleries/13280/rolls_royce_cullinan_2025_014.jpg | Complete Car (foto oficial Rolls-Royce) | desconocida |
+| /media/rolls-royce-cullinan-2026-precio-ficha-tecnica-hunt3.webp | https://www.motoringresearch.com/wp-content/uploads/2024/11/P90559341_highRes_rolls-royce-cullinan-1-1.jpg | Motoring Research (foto oficial Rolls-Royce) | desconocida |
+| /media/yamaha-xsr900-2025-ficha-tecnica-precio-hunt1.webp | https://yamahamotorsports.com/media/images_products/2025-25-xsr900/1920px/11-2025-XSR900SW-SW-US-12-YY-002.JPG.webp | Yamaha Motor (foto oficial) | desconocida |
+| /media/yamaha-xsr900-2025-ficha-tecnica-precio-hunt2.webp | https://www.yamahamotorsports.com/media/images_products/2026-26-xsr900/1200px/11-2025-XSR900SW-SW-US-12-YY-003.JPG.webp | Yamaha Motor (foto oficial) | desconocida |
+| /media/yamaha-xsr900-2025-ficha-tecnica-precio-hunt3.webp | https://ridermagazine.com/wp-content/uploads/2024/11/2025-Yamaha-XSR-900-2.jpg | Rider Magazine (foto oficial Yamaha) | desconocida |
+| /media/dualtron-victory-hunt1.webp | https://www.gtsshop.fr/en/electric-scooters/5665-dualtron-victor-luxury-2024.html | gtsshop.fr | desconocida |
+| /media/dualtron-victory-hunt2.webp | https://www.fatdaddy.dk/product/dualtron-victor-luxury/ | fatdaddy.dk | desconocida |
+| /media/dualtron-victory-hunt3.webp | https://electricalthingspain.com/comprar/patinete-electrico-dualtron-victor-luxury-60v-24ah-60v-30ah-lg/ | electricalthingspain.com | desconocida |
+| /media/dualtron-city-hunt1.webp | https://www.wee-bot.com/collections/trottinette-electrique | WeeBot (foto oficial de producto Dualtron) | desconocida |
+| /media/dualtron-city-hunt2.webp | https://www.ezwheel.ca/products/dualtron-new-city | Ezwheel (foto oficial de producto Dualtron) | desconocida |
+| /media/dualtron-city-hunt3.webp | https://borzo.com.ua/uk/product/dualtron-city/ | Borzo (foto oficial de producto Dualtron) | desconocida |
+| /media/yamaha-xsr700-2025-ficha-tecnica-precio-hunt1.webp | https://japan.webike.net/moto_news/latest-news/20250709-new-model-rev-up-your-style-explore-the-exciting-new-colors-of-the-2025-yamaha-xsr700-rz-same-price-fresh-look/ | Webike (foto de prensa Yamaha) | desconocida |
+| /media/yamaha-xsr700-2025-ficha-tecnica-precio-hunt2.webp | https://www.ontwowheels.com.au/Yamaha-My25-XSR700 | On Two Wheels (foto de prensa Yamaha) | desconocida |
+| /media/yamaha-xsr700-2025-ficha-tecnica-precio-hunt3.webp | http://global.yamaha-motor.com/jp/news/2025/0708/xsr700.html | Yamaha Motor (foto oficial de prensa) | desconocida |
