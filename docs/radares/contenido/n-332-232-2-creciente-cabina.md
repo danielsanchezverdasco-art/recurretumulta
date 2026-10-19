@@ -12,6 +12,14 @@
 
 La cabina está instalada en la **N-332, punto kilométrico 232,2**, dentro de la provincia de Valencia. Controla el **sentido creciente** de la marcha, el de los hitos kilométricos crecientes. El Instituto Geográfico Nacional ubica el punto dentro de **Xeraco**, en la provincia de Valencia. El punto vigilado más cercano es el de la **CV-50, pk 14,8** (sentido creciente): queda a 16,4 km hacia el noroeste.
 
+<iframe title="Mapa: radar n-332-232-2-creciente-cabina" src="https://www.google.com/maps?q=39.04105,-0.22277&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-332-232-2-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.04105,-0.22277&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La N-332 pertenece a la red de nacionales y discurre por Valencia. Circula por aquí quien atraviesa la comunidad y quien se mueve entre municipios vecinos. La zona responde al carácter de la costa valenciana.
