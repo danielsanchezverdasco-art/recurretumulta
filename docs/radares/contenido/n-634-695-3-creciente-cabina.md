@@ -12,6 +12,14 @@
 
 Esta cabina se localiza en la N-634, pk 695,3, término de O Pino (A Coruña); coordenadas 42.988712, -8.29037. El sentido vigilado es el creciente —vehículos hacia pks mayores— y el registro consigna como destino Santiago de Compostela. La vista del emplazamiento está en el enlace de Street View de la cabecera.
 
+<iframe title="Mapa: radar n-634-695-3-creciente-cabina" src="https://www.google.com/maps?q=42.988712,-8.29037&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-634-695-3-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.988712,-8.29037&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 Se trata de la N-634, carretera nacional estatal de trazado convencional. En el XML de la DGT figura con la singularidad «CARRETERA NACIONAL», fuera de las vías de alta capacidad. Sin más datos del tramo en el fichero, la ficha se limita a lo documentado.
