@@ -12,6 +12,15 @@
 
 La DGT ubica esta cabina en la **A-4 a la altura del pk 40,4**, en territorio de Toledo. Su ámbito es el **sentido decreciente**: la dirección en que los hitos kilométricos van decrecientes. La tripleta carretera–pk–sentido identifica este control sin ambigüedad dentro del dataset oficial. El punto vigilado más cercano es el de la **A-4, pk 41,4** (sentido creciente): queda a 1,4 km hacia el suroeste. El siguiente punto por cercanía es el de la **M-305, pk 0,7** (sentido creciente), a 2,4 km hacia el norte. Se trata de un sector de paso, más que de destino: la mayoría de los vehículos solo están de tránsito.
 
+<iframe title="Mapa: radar a-4-40-4-decreciente-cabina" src="https://www.google.com/maps?q=40.07973,-3.63786&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-4-40-4-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.07973,-3.63786&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 El eje es la A-4, la Autovía del Sur, que une Madrid con Andalucía. La autovía soporta a diario una corriente circulatoria heterogénea, con pesados y ligeros compartiendo calzada. La presencia de la cabina responde a que este es un punto donde los excesos son frecuentes. La A-4 suma 8 puntos de control en Castilla-La Mancha; este ocupa el primer lugar por pk. En la misma A-4, el control más próximo es el del pk 41,4 (sentido creciente): dista 1,4 km hacia el suroeste. Circular por ella exige adaptar la marcha a cada circunstancia, más allá del límite genérico. El conocimiento de la vía es un activo: los habituales saben dónde moderar la marcha sin necesidad de señales.
