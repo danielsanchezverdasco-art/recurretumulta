@@ -12,6 +12,15 @@
 
 Esta cabina vigila la **CM-4124 en el punto kilométrico 22,0**, dentro de Ciudad Real. El cinemómetro apunta al **sentido decreciente** (dirección de pk decrecientes). Puedes verificar la ubicación exacta con el enlace de Street View que acompaña a la ficha: las coordenadas son las de la DGT. El punto vigilado más cercano es el de la **CM-4124, pk 8,0** (sentido creciente): queda a 10,7 km hacia el oeste. El siguiente punto por cercanía es el de la **A-4, pk 177,5** (sentido decreciente), a 10,8 km hacia el este. La afluencia varía mucho por franjas: tranquila entre semana a mediodía, intensa en fines de semana.
 
+<iframe title="Mapa: radar cm-4124-22-0-decreciente-cabina" src="https://www.google.com/maps?q=38.96186,-3.50753&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cm-4124-22-0-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.96186,-3.50753&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 Se trata de la CM-4124, vía de titularidad de la Junta de Comunidades en Ciudad Real. Por esta carretera autonómica circula un tráfico muy mezclado: mercancías, viajes de largo recorrido y desplazamientos cotidianos. El radar fijo está aquí porque el tramo reúne las condiciones típicas de los excesos. De los 2 controles que la DGT publica para la CM-4124 en la comunidad, este es el segundo por punto kilométrico. Siguiendo por la CM-4124, el próximo punto con vigilancia es el del pk 8,0 (sentido creciente), a 10,7 km hacia el oeste. Todo apunta a que la moderación es la mejor compañera de viaje en este sector. Adaptarse a la vía significa también aceptar sus límites: los impuestos por la norma y los del sentido común.
