@@ -12,6 +12,14 @@
 
 La cabina está instalada en la A-52, pk 222,0, en San Cibrao das Viñas (Ourense); coordenadas 42.28743, -7.8751163. Mide la velocidad en sentido creciente —hacia pks mayores—, con destino PORRIÑO según el registro oficial. El Street View enlazado muestra el punto exacto de la calzada.
 
+<iframe title="Mapa: radar a-52-222-0-creciente-cabina" src="https://www.google.com/maps?q=42.28743,-7.8751163&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-52-222-0-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.28743,-7.8751163&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La A-52 es una autovía de titularidad estatal; en este sector de Ourense su destino oficial es PORRIÑO. La DGT le atribuye en su XML la singularidad «AUTOPISTA / AUTOVÍA» por su denominación oficial. El fichero no detalla el tramo, así que la ficha no lo describe.
