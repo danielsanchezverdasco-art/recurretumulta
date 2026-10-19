@@ -12,6 +12,15 @@
 
 El emplazamiento del radar es el **pk 111,4 de la N-401** (provincia de Toledo, Castilla-La Mancha). Registra a los vehículos que marchan en **sentido decreciente**, hacia pk decrecientes. La DGT no difunde el destino asociado a este punto, así que el sentido se describe por la numeración kilométrica, no por localidades. El punto vigilado más cercano es el de la **CM-42, pk 39,8** (sentido decreciente): queda a 13,4 km hacia el este. El siguiente punto por cercanía es el de la **A-4, pk 95,7** (sentido decreciente), a 30,5 km hacia el este. El tramo no presenta dificultades técnicas especiales; el desafío es mantener la disciplina de velocidad.
 
+<iframe title="Mapa: radar n-401-111-4-decreciente-cabina" src="https://www.google.com/maps?q=39.59234,-3.85209&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-401-111-4-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.59234,-3.85209&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La N-401 es una vía de la red estatal que recorre Toledo. La carretera nacional canaliza una afluencia variada: transporte, ocio y trabajo se reparten el asfalto. El control fijo en este punto pretende disciplinar la velocidad del flujo circulatorio. Entre los 4 radares publicados para la N-401 en la región, este es el primero en orden de pk. Dentro de la propia N-401, el siguiente punto vigilado es el del pk 148,0 (sentido creciente), a 34,8 km hacia el sur. En esta vía, como en tantas, la velocidad adecuada es la que marcan las señales. Cada tipo de vía tiene su lógica; la de esta pasa por adaptar la velocidad a su trazado y a su tráfico.
