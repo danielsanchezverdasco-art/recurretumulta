@@ -4212,3 +4212,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/byd-tang-l-2026-precio-ficha-tecnica-hunt2.webp | https://www.allcarz.ru/wp-content/uploads/2025/01/foto-tang-l_03.jpg | allcarz.ru | desconocida |
 | /media/byd-tang-l-2026-precio-ficha-tecnica-hunt3.webp | https://villanyautosok.hu/wp-content/uploads/2025/01/2025-01-18-byd-tang-l-01-1024x576.jpg | villanyautosok.hu (foto oficial BYD) | desconocida |
 | /media/levy-plus-hunt1.webp | https://scooter.guide/wp-content/uploads/2022/02/LevyPlusRed_BlackBackground-980x980.jpg | Levy (foto oficial de producto) vía Scooter Guide | desconocida (foto oficial distribuida por el fabricante) |
+| /media/emove-roadrunner-pro-hunt1.webp | https://www.voromotors.com/cdn/shop/files/DSC04892.jpg?v=1770663123&width=801 | VoroMotors (tienda oficial EMove) | desconocida |
+| /media/emove-roadrunner-pro-hunt2.webp | https://www.voromotors.com/cdn/shop/files/DSC04957.jpg?v=1493313296792151576&width=894 | VoroMotors (tienda oficial EMove) | desconocida |
+| /media/emove-roadrunner-pro-hunt3.webp | https://www.voromotors.com/cdn/shop/files/DSC00309.jpg?v=1759865319&width=410 | VoroMotors (tienda oficial EMove) | desconocida |
+| /media/mercedes-amg-g63-2025-precio-ficha-tecnica-hunt1.webp | https://en.wheelz.me/wp-content/uploads/2024/03/Mercedes-AMG-G63-2025-9.webp | wheelz.me (fotos oficiales Mercedes-Benz) | desconocida |
+| /media/mercedes-amg-g63-2025-precio-ficha-tecnica-hunt2.webp | https://en.wheelz.me/wp-content/uploads/2024/03/Mercedes-AMG-G63-2025-28.webp | wheelz.me (fotos oficiales Mercedes-Benz) | desconocida |
+| /media/mercedes-amg-g63-2025-precio-ficha-tecnica-hunt3.webp | https://en.wheelz.me/wp-content/uploads/2024/03/Mercedes-AMG-G63-2025-13.webp | wheelz.me (fotos oficiales Mercedes-Benz) | desconocida |
+| /media/tesla-model-3-performance-2025-precio-ficha-tecnica-hunt1.webp | https://car-images.bauersecure.com/wp-images/189979/02-tesla_model_3_performance_2.jpeg | Car Magazine UK (fotos oficiales Tesla) | desconocida |
+| /media/tesla-model-3-performance-2025-precio-ficha-tecnica-hunt2.webp | https://www.car-shooters.com/wp-content/uploads/2026/02/E6M2121-2560x768.jpg | Car-Shooters (fotos oficiales Tesla) | desconocida |
+| /media/tesla-model-3-performance-2025-precio-ficha-tecnica-hunt3.webp | https://www.motortrend.com/files/66280452c02745000855273a/2024teslamodel3performancehighland3.jpg | MotorTrend (fotos oficiales Tesla) | desconocida |
+| /media/zontes-703f-2025-ficha-tecnica-precio-hunt1.webp | https://zontesbenelux.com/wp-content/uploads/2025/06/ZONTES-BENELUX-703F-1.jpg | Zontes Benelux (importador oficial) | desconocida |
+| /media/zontes-703f-2025-ficha-tecnica-precio-hunt2.webp | https://crmotos.com/wp-content/uploads/2026/05/zontes-ZT703-F-26-6-768x480.webp | CRMotos (concesionario oficial Zontes España) | desconocida |
+| /media/zontes-703f-2025-ficha-tecnica-precio-hunt3.webp | https://paulsmotor.se/wp-content/uploads/2025/04/703F2-6.png | Pauls Motor (concesionario oficial Zontes) | desconocida |
+| /media/emove-roadster-hunt1.webp | https://www.voromotors.com/cdn/shop/files/Roadster_768x.webp?v=1759865884 | VoroMotors (web oficial) | desconocida |
+| /media/emove-roadster-hunt2.webp | https://www.voromotors.com/cdn/shop/files/Roadster_Studio_Photos-102121_1.jpg?v=1689791590 | VoroMotors (web oficial) | desconocida |
+| /media/emove-roadster-hunt3.webp | https://scooter.guide/wp-content/uploads/2024/07/EMOVE-Roadster-Electric-Scooter-from-VoroMotors-VORO-MOTORS-980x980.webp | scooter.guide | desconocida |
+| /media/mercedes-amg-one-2025-precio-ficha-tecnica-hunt1.webp | https://617digital.com/wp-content/uploads/2022/06/AMG_ONE_3_4_FRONT_RGB-scaled.jpg | 617 Digital / Mercedes-AMG (foto de prensa) | desconocida |
+| /media/mercedes-amg-one-2025-precio-ficha-tecnica-hunt2.webp | https://barchetta.mediacenter.plus/MCIMG_6383362_1409_940_2.jpg?v=2 | Keno Zache / RM Sotheby's | desconocida |
+| /media/mercedes-amg-one-2025-precio-ficha-tecnica-hunt3.webp | https://www.auto-data.net/images/f121/Mercedes-Benz-AMG-ONE.jpg | auto-data.net (foto de prensa Mercedes-AMG) | desconocida |
+| /media/nio-es9-2026-precio-ficha-tecnica-hunt1.webp | desconocida | desconocido (parece foto de prensa oficial NIO) | desconocida |
+| /media/nio-es9-2026-precio-ficha-tecnica-hunt2.webp | desconocida | desconocido (parece foto de prensa oficial NIO) | desconocida |
+| /media/nio-es9-2026-precio-ficha-tecnica-hunt3.webp | desconocida | desconocido (parece foto de prensa oficial NIO) | desconocida |
+| /media/tesla-model-3-gran-autonomia-traccion-trasera-2026-precio-ficha-tecnica-hunt1.webp | https://www.motortrend.com/files/67b6575d66bfb8000847395d/29-2025-tesla-model-3-front-view.jpg | MotorTrend / automobilemag.com | desconocida |
+| /media/tesla-model-3-gran-autonomia-traccion-trasera-2026-precio-ficha-tecnica-hunt2.webp | https://www.carbase.my/upload/74/521/822/exterior/s13-1715586686-1456-tesla-model-3.jpg | carbase.my | desconocida |
+| /media/tesla-model-3-gran-autonomia-traccion-trasera-2026-precio-ficha-tecnica-hunt3.webp | https://cleantechnica.com/wp-content/uploads/2024/02/2024.02-Tesla-model-3-updated-highland-KYLE-09-scaled.jpg | CleanTechnica (Kyle Field) | desconocida |
