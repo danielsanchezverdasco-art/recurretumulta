@@ -109,13 +109,13 @@ export const AUTOCARAVANAS_BURSTNER_M3: Autocaravana[] = [
       },
       {
         src: "/media/burstner-ixeo-it-680-g-2026-precio-ficha-tecnica-interior2.webp",
-        alt: "Bürstner Ixeo IT 680 G, cocina",
+        alt: "Bürstner Ixeo IT 680 G, salón con comedor",
         ancho: 1000,
         alto: 700,
       },
       {
         src: "/media/burstner-ixeo-it-680-g-2026-precio-ficha-tecnica-detalle.webp",
-        alt: "Bürstner Ixeo IT 680 G, cama basculante",
+        alt: "Bürstner Ixeo IT 680 G, puerta de acceso con mosquitera",
         ancho: 1000,
         alto: 700,
       },
