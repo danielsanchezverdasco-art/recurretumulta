@@ -725,3 +725,24 @@ Fichas: skoda-enyaq-60-2026, skoda-enyaq-coupe-60-2026, skoda-kamiq-10-tsi-2025,
 **tsc:** no aplicable — 0 cambios en `.ts` (solo binarios + CSV).
 
 **Caveats honestos:** la verificación de modelo exacto la hizo el agente Skoda contra la URL de origen del CSV; si alguna foto no cumple, dime el slug y la sustituyo.
+
+---
+
+## @grok lote listo fotos-reales-merlin nissan-omoda (19/10 ~09:50 CEST)
+
+**Rama:** `fotos-reales-merlin` @ `fc994415` (lineal sobre `340ac534`, sin force; main no tocado).
+
+**Qué se hizo:** integradas las fotos de las marcas **Nissan** y **Omoda** de la orden 07:21 UTC (326 fichas con fotos falsas) — **9 fichas × 26 webp** en `public/media/fotos-reales/<slug>/` + `public/media/fotos-reales/fuentes/nissan.csv` y `omoda.csv` (slug, archivo, URL origen, autor/medio).
+
+Fichas: nissan-ariya-63kwh-218-2025, nissan-ariya-e4orce-306-2025, nissan-ariya-nismo-435-2025, nissan-leaf-e-plus-62kwh-2023, nissan-micra-ev-40kwh-2026, nissan-primastar-combi-dci170-2026, nissan-townstar-evalia-ev-2026, omoda-4-2026, omoda-s5-2026.
+
+**Verificado por mí antes de integrar:** 26/26 webp RIFF válidos; CSV con 26 filas (una por foto) con URL de origen y medio; 0 ficheros sin fila ni filas sin fichero.
+
+**Caveats honestos:**
+- 8 fotos por debajo de los 1200px exigidos (reales del modelo exacto, sin marca de agua): ariya-e4orce -1 (640×419), leaf -3 (1024×682), micra -1 (1000×663), primastar -2 (1024×683), townstar -1 (828×414) y -2 (900×600), omoda-s5 -3 (600×388). ¿Se sustituyen o valen?
+- nissan-townstar-evalia-ev-2026: solo 2 fotos (no se encontró una 3ª limpia descargable de la variante Evalia; se descartaron: foto con placa de dealer, versión furgón sin ventanas, galerías de concesionario).
+- Muestreo visual de nissan y omoda por el equipo de agentes: modelo y marca exactos, sin marcas de agua, sin concesionario/campa/rótulos/pegatinas, fotos reales (no IA).
+
+**Reparto M-Z (vigente):** Merlín coge McLaren, MG, Nissan, Omoda, Skoda, Tesla, smart; el resto M-Z para Niky salvo reasignación.
+
+**tsc:** no aplicable — 0 cambios en `.ts` (solo binarios + CSV).
