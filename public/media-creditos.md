@@ -4177,3 +4177,13 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/voge-350ac-2025-ficha-tecnica-precio-hunt1.webp | https://assets.carandclassic.com/uploads/new/31418966/2025-voge-350ac-6a1a9bfa10528.jpg?fit=fillmax&h=1200&ixlib=php-4.1.0&q=85&w=1200&s=c013c2d5141f0628cfb09f22e44eae70 | Car and Classic (anuncio de venta de una 350AC 2025) | desconocida |
 | /media/voge-350ac-2025-ficha-tecnica-precio-hunt2.webp | https://bikes.motobank.co.uk/fp/70411/voge-350-ac-2025-grey_1114116.jpg | MotorcycleFinder / Appleyard Motorcycles | desconocida |
 | /media/voge-350ac-2025-ficha-tecnica-precio-hunt3.webp | https://www.motomag.gr/sites/default/files/images/galleries/2023/05/VOGE%20350AC%20%282%29.png | MotoMag.gr | desconocida |
+| /media/deepal-s09-2026-precio-ficha-tecnica-hunt1.webp | https://images.dailyrevs.com/0000/v3/Deepal/6757cdde126155e6e137a054/2025-s09-deepal-4p1dyweeeef0c8t0n0klzq5.jpeg | DailyRevs | desconocida |
+| /media/deepal-s09-2026-precio-ficha-tecnica-hunt2.webp | https://imagecdnsa.zigwheels.ae/large/gallery/exterior/142/2324/deepal-s09-front-medium-view-506660.jpg | Zigwheels | desconocida |
+| /media/deepal-s09-2026-precio-ficha-tecnica-hunt3.webp | https://car2day.com/wp-content/uploads/2025/01/DEEPAL-S09-2025-6.jpg | Car2Day | desconocida |
+| /media/kukirin-g3-hunt1.webp | https://www.wheelyshop.se/cdn/shop/files/kukirin-g3-elsparkcykel-1123983.png?v=1761131676&width=533 | Wheelyshop.se | desconocida |
+| /media/kukirin-g3-hunt2.webp | https://kukirin-europe.com/cdn/shop/files/kukirin-escooter-eu-g3-7.webp?v=1767143452&width=1346 | KuKirin Europe | desconocida |
+| /media/kukirin-g3-hunt3.webp | https://kukirinespana.com/wp-content/uploads/2024/03/Kukirin-G3-01-768x768.webp | KuKirin España | desconocida |
+| /media/mercedes-amg-a45-s-2025-precio-ficha-tecnica-hunt1.webp | https://gowhere.com.br/wp-content/uploads/2025/02/Mercedes-AMG-A-45-S-4MATIC-Exterior-3-1024x768.jpg | Gowhere.com.br | desconocida |
+| /media/mercedes-amg-a45-s-2025-precio-ficha-tecnica-hunt2.webp | https://images.91wheels.com/assets/c_images/gallery/mercedesbenz/amg-a-45-s/mercedesbenz-amg-a-45-s-2-1765008515.png?w=560&q=40 | 91wheels | desconocida |
+| /media/mercedes-amg-a45-s-2025-precio-ficha-tecnica-hunt3.webp | https://www.carnews24.cz/wp-content/uploads/2026/07/Mercedes-AMG-A45-S-Final-Edition-696x379.png | CarNews24.cz | desconocida |
+| /media/fluid-mosquito-hunt2.webp | https://eridehero.com/wp-content/uploads/2023/12/Fluid-Mosquito-photo.jpg.webp | eRideHero | desconocida |
