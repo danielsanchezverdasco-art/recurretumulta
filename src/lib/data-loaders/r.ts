@@ -138,6 +138,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "roewe-m7-dmh-2025-precio-ficha-tecnica": () => import("../blog-posts-roewe-a.ts"),
     "roewe-rx5-2024-precio-ficha-tecnica": () => import("../blog-posts-roewe-a.ts"),
     "roewe-rx9-2024-precio-ficha-tecnica": () => import("../blog-posts-roewe-a.ts"),
+    "roller-team-livingstone-5-2026-precio-ficha-tecnica-analisis-opinion": () => import("../blog-posts-campers-roller-otros.ts"),
     "roller-team-zefiro-696-2026-precio-autocaravana": () => import("../blog-posts-lote16.ts"),
     "rolls-royce-cullinan-2026-precio-ficha-tecnica": () => import("../blog-posts-rolls-royce-a.ts"),
     "rolls-royce-cullinan-black-badge-2026-precio-ficha-tecnica": () => import("../blog-posts-rolls-royce-a.ts"),
@@ -376,6 +377,10 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "razor-e500": () => import("../comparador-patinetes-prioridad-20261014.ts"),
     "ruptor-r3": () => import("../comparador-patinetes-exp-p6.ts"),
     "ruptor-r6": () => import("../comparador-patinetes-exp-p6.ts"),
+  },
+  camper: {
+    "renault-kangoo-camper-2026-precio-ficha-tecnica": () => import("../comparador-campers-niky.ts"),
+    "roller-team-livingstone-5-2026-precio-ficha-tecnica": () => import("../comparador-campers-roller-otros.ts"),
   },
   historia: {
     "radical-rxc-2025-precio-ficha-tecnica": () => import("../historia-modelos.ts"),

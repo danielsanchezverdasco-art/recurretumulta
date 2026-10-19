@@ -91,6 +91,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "nissan-micra-ev-40kwh-2026-precio-ficha-tecnica": () => import("../blog-posts-nissan-a.ts"),
     "nissan-micra-ev-52kwh-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp9.ts"),
     "nissan-murano-2025-precio-ficha": () => import("../blog-posts-lote13.ts"),
+    "nissan-nv200-camper-2026-analisis-opinion": () => import("../blog-posts-campers-japonesas.ts"),
     "nissan-patrol-2025-precio-v6": () => import("../blog-posts-lote13.ts"),
     "nissan-primastar-combi-dci-2026-precio-ficha-tecnica": () => import("../blog-posts-nissan-a.ts"),
     "nissan-primastar-combi-dci170-2026-precio-ficha-tecnica": () => import("../blog-posts-nissan-a.ts"),
@@ -305,6 +306,9 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "niu-kqi3-pro": () => import("../comparador-patinetes-base.ts"),
     "niu-kqi3-sport": () => import("../comparador-patinetes-exp-p7.ts"),
     "niu-kqi300x": () => import("../comparador-patinetes-base.ts"),
+  },
+  camper: {
+    "nissan-nv200-camper-2026-precio-ficha-tecnica": () => import("../comparador-campers-japonesas.ts"),
   },
   historia: {
     "neta-aya-2025-precio-ficha-tecnica": () => import("../historia-modelos.ts"),

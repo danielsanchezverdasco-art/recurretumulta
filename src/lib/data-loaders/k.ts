@@ -142,6 +142,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "kia-tasman-2025-precio-ficha": () => import("../blog-posts-lote13.ts"),
     "kia-xceed-15-mhev-2025-precio-ficha-tecnica": () => import("../blog-posts-kia-a.ts"),
     "kia-xceed-phev-2025-precio-ficha-tecnica": () => import("../blog-posts-kia-a.ts"),
+    "knaus-boxstar-600-street-2026-precio-ficha-tecnica-analisis-opinion": () => import("../blog-posts-campers-grupo4.ts"),
     "koenigsegg-gemera-2025-precio-ficha-tecnica": () => import("../blog-posts-lote4.ts"),
     "kove-450-rally-2026-ficha-tecnica-precio": () => import("../blog-posts-lote7.ts"),
     "kove-450rr-2024-precio": () => import("../blog-posts-motos-exp-m27.ts"),
@@ -520,6 +521,9 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "kukirin-m4-max": () => import("../comparador-patinetes-exp-p3.ts"),
     "kukirin-m5-pro": () => import("../comparador-patinetes-exp-p3.ts"),
     "kukirin-s1-max": () => import("../comparador-patinetes-exp-p3.ts"),
+  },
+  camper: {
+    "knaus-boxstar-600-street-2026-precio-ficha-tecnica": () => import("../comparador-campers-grupo4.ts"),
   },
   historia: {
     "kaiyi-e5-2024-precio-ficha-tecnica": () => import("../historia-lote2.ts"),

@@ -9,6 +9,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "acer-es-series-5-advance": () => import("../blog-posts-patinetes-exp-p10.ts"),
     "adelantar-ciclistas-nueva-norma-octubre": () => import("../blog-posts-db.ts"),
     "adria-matrix-supreme-2026-precio-autocaravana": () => import("../blog-posts-lote16.ts"),
+    "adria-twin-600-spb-2026-precio-ficha-tecnica-analisis-opinion": () => import("../blog-posts-campers-roller-otros.ts"),
     "aion-lx-plus-2024-precio-ficha-tecnica": () => import("../blog-posts-aion-a.ts"),
     "aion-ray7-2026-precio-ficha-tecnica": () => import("../blog-posts-aion-a.ts"),
     "aion-rt-2024-precio-ficha-tecnica": () => import("../blog-posts-aion-a.ts"),
@@ -542,6 +543,9 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "aprilia-esr2": () => import("../comparador-patinetes-base.ts"),
     "aprilia-esr2-evo": () => import("../comparador-patinetes-exp-p10.ts"),
     "aprilia-esrz": () => import("../comparador-patinetes-exp-p11.ts"),
+  },
+  camper: {
+    "adria-twin-600-spb-2026-precio-ficha-tecnica": () => import("../comparador-campers-roller-otros.ts"),
   },
   historia: {
     "abarth-500e-2025-precio-ficha-tecnica": () => import("../historia-exp10.ts"),

@@ -203,6 +203,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "subaru-uncharted-2026-precio-ficha-tecnica": () => import("../blog-posts-subaru-a.ts"),
     "subaru-uncharted-field-2026-precio-ficha-tecnica": () => import("../blog-posts-subaru-a.ts"),
     "subaru-uncharted-touring-2026-precio-ficha-tecnica": () => import("../blog-posts-subaru-a.ts"),
+    "sunlight-cliff-600-2026-precio-ficha-tecnica-analisis-opinion": () => import("../blog-posts-campers-laika-sunlight.ts"),
     "sunra-anger-125e-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m1.ts"),
     "sunra-hawk-49e-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m1.ts"),
     "sunra-miku-max-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m2.ts"),
@@ -705,6 +706,9 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "sxt-light-gt": () => import("../comparador-patinetes-exp-p11.ts"),
     "sxt-light-plus-v": () => import("../comparador-patinetes-exp-p6.ts"),
     "sxt-quick-4": () => import("../comparador-patinetes-exp-p11.ts"),
+  },
+  camper: {
+    "sunlight-cliff-600-2026-precio-ficha-tecnica": () => import("../comparador-campers-laika-sunlight.ts"),
   },
   historia: {
     "seat-arona-10-tsi": () => import("../historia-modelos.ts"),

@@ -523,6 +523,10 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "currus-nf11": () => import("../comparador-patinetes-exp-p11.ts"),
     "currus-panther": () => import("../comparador-patinetes-exp-p4.ts"),
   },
+  camper: {
+    "camperiz-dacia-dokker-2026-precio-ficha-tecnica": () => import("../comparador-campers-niky.ts"),
+    "camperiz-peugeot-rifter-2026-precio-ficha-tecnica": () => import("../comparador-campers-niky.ts"),
+  },
   historia: {
     "cadillac-celestiq-2025-precio-ficha-tecnica": () => import("../historia-lote4.ts"),
     "cadillac-escalade-iq-2025-precio-ficha-tecnica": () => import("../historia-lote4.ts"),

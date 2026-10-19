@@ -80,6 +80,8 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "volkswagen-golf-variant-20-tdi-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp7.ts"),
     "volkswagen-golf-variant-r-line-20-tsi-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp17.ts"),
     "volkswagen-grand-california-2026-precio-camper": () => import("../blog-posts-lote16.ts"),
+    "volkswagen-grand-california-600-2026-analisis-opinion": () => import("../blog-posts-campers-volkswagen.ts"),
+    "volkswagen-grand-california-680-2026-analisis-opinion": () => import("../blog-posts-campers-volkswagen.ts"),
     "volkswagen-id-3-neo-2026-precio-ficha-tecnica": () => import("../blog-posts-nuevos-c3.ts"),
     "volkswagen-id-4-2025-precio-electrico": () => import("../blog-posts-lote16.ts"),
     "volkswagen-id-7-tourer-pro-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp14.ts"),
@@ -197,6 +199,9 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "vsett-8-plus": () => import("../blog-posts-patinetes-exp-p2.ts"),
     "vsett-9": () => import("../blog-posts-patinetes-exp-p2.ts"),
     "vsett-9-apex": () => import("../blog-posts-patinetes-exp-p2.ts"),
+    "vw-california-beach-2026-analisis-opinion": () => import("../blog-posts-campers-vw.ts"),
+    "vw-california-coast-2026-analisis-opinion": () => import("../blog-posts-campers-vw.ts"),
+    "vw-california-ocean-2026-analisis-opinion": () => import("../blog-posts-campers-vw.ts"),
   },
   coche: {
     "venucia-d60-ev-2025-precio-ficha-tecnica": () => import("../comparador-coches-lote5.ts"),
@@ -442,6 +447,13 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "vsett-9-apex": () => import("../comparador-patinetes-exp-p2.ts"),
     "vsett-9-plus": () => import("../comparador-patinetes-base.ts"),
     "vsett-9-plus-r": () => import("../comparador-patinetes-base.ts"),
+  },
+  camper: {
+    "volkswagen-grand-california-600-2026-precio-ficha-tecnica": () => import("../comparador-campers-volkswagen.ts"),
+    "volkswagen-grand-california-680-2026-precio-ficha-tecnica": () => import("../comparador-campers-volkswagen.ts"),
+    "vw-california-beach-2026-precio-ficha-tecnica": () => import("../comparador-campers-vw.ts"),
+    "vw-california-coast-2026-precio-ficha-tecnica": () => import("../comparador-campers-vw.ts"),
+    "vw-california-ocean-2026-precio-ficha-tecnica": () => import("../comparador-campers-vw.ts"),
   },
   historia: {
     "vent-baja-125-2026-ficha-tecnica-precio": () => import("../historia-lote10.ts"),
