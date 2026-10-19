@@ -11,6 +11,14 @@
 ## Dónde está
 
 En la LU-541, pk 14,7, en Vilalba (Lugo), se ubica la cabina: 43.255394, -7.6698713. Apunta al sentido creciente (dirección de pks ascendentes), con destino Vilalba en el registro de la DGT. El punto puede verse en Street View.
+
+<iframe title="Mapa: radar lu-541-14-7-creciente-cabina" src="https://www.google.com/maps?q=43.255394,-7.6698713&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar lu-541-14-7-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=43.255394,-7.6698713&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
 ## La carretera
 
 La LU-541 es una convencional autonómica de la Xunta, de calzada única. La DGT la clasifica como «CARRETERA AUTONÓMICA»: régimen genérico de convencionales. El XML no detalla el tramo.
