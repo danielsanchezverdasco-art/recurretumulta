@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 42.071, -4.2175
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.071,-4.2175)
 
+<iframe title="Mapa: radar a-62-57-3-decreciente-cabina" src="https://www.google.com/maps?q=42.071,-4.2175&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-62-57-3-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.071,-4.2175&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** Todo sale del XML oficial de radares fijos de la DGT, en el portal NAP en formato DATEX II (edición del 2026-10-19): vía, pk, sentido y coordenadas. Lo que no trae: el límite de cada punto ni el municipio. El 120 km/h es el genérico del art. 48 del RGC para autovías; Herrera de Valdecañas salió de pasar las coordenadas por CartoCiudad, el geocodificador oficial del IGN/CNIG.
 
 ## Dónde vigila
