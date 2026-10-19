@@ -12,6 +12,14 @@
 
 El emplazamiento del control es el **pk 314,9 de la A-3** (provincia de Valencia, Comunitat Valenciana). Supervisa el **sentido creciente**, el del avance hacia puntos kilométricos crecientes. El punto cae en el término municipal de **Buñol**, según el geocodificador oficial CartoCiudad (IGN/CNIG). A 21,2 km hacia el oeste está el control más próximo, el de la **A-3, pk 292,1** (sentido creciente).
 
+<iframe title="Mapa: radar a-3-314-9-creciente-cabina-2" src="https://www.google.com/maps?q=39.43353,-0.82064&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-3-314-9-creciente-cabina-2" src="https://maps.google.com/maps?q=&layer=c&cbll=39.43353,-0.82064&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 Es la A-3: la Autovía del Este, que une Madrid con Valencia. La demanda se reparte entre el tránsito interurbano y los accesos a las poblaciones próximas. Por aquí domina el paisaje de las comarcas centrales valencianas.
