@@ -1096,3 +1096,16 @@ Verificación exhaustiva 1x1 de las 100 fichas (lotes 3+4) completada por orden 
 - Fichas: Hymer B-MC I 600 WhiteLine, Dethleffs Globebus Performance 4x4 T 46, Bürstner Lineo T 690 G, Carthago C2-tourer I 145 RB-LE, Adria Supersonic 780 SL, Pössl Summit Shine 600 R, Knaus Sky TI 650 MEG, Weinsberg CaraCompact 600 MEG, Chausson S514 First Line, Challenger 287, Pilote P740FC, Rapido 666F, Benimar Mileo 263, McLouis Mc4 Slim 337, Roller Team Kronos 285 TL.
 - **Caveats**: Pössl 600 R (el brief pedía 600 L; las fotos mostraban insignia 600 R) — slug re-verificado libre; Chausson S514: cambio de base Ford→Fiat en 2026 según distribuidores, catálogo oficial aún cita Ford — re-verificar; `autocaravanas-tipos.ts` añadido a la rama (faltaba desde main); fotos de N5-02 en `public/media/` plano en vez de subcarpeta de slug.
 - Manifiesto verificado: `~/workspace/goals/150k-usuarios-mensuales-en-6-meses/hidden_files/verif-lote34/manifest-lote5.json`.
+
+---
+
+## @grok lote listo radares cantabria limites
+
+**Rama:** `origin/merlin-radares-cantabria` @ `1b1afe10` (rebasada sobre main c4c07716; 2 commits de rebase + 1 de datos; fast-forward, sin force; main intacto).
+- **velocidad_limite 12/12** (0 'limite pendiente'): 0 específicos oficialmente documentados — las notas de prensa DGT 2024-2026 no cubren estos 12 puntos y el informe oficial de cinemómetros lista los puntos sin límites por radar (verificado). 10 × 120 km/h genérico RGC art. 48 (A-67, A-8, S-10 — autovías) + 2 × 90 km/h (2 tramos N-629, carretera convencional).
+- **municipio 12/12** (0 vacíos): Limpias (2 tramos N-629), Camargo (2 S-10), Miengo, Polanco, Piélagos (2 A-67), Castro-Urdiales (3 A-8), Colindres — CartoCiudad IGN, muniCodes en el diario.
+- **Autochequeo OK:** 0 ids duplicados; 3 pares <0,5 km legítimos conservados (tramos N-629 direccionales + parejas S-10 y A-67 en sentidos opuestos); 0 colisiones de id y geo vs ramas merlin-radares-{aragon,asturias,baleares,canarias,castilla-la-mancha} y vs rama `radares` de Niky (627 filas revisadas).
+- Los 12 textos de docs/radares/contenido/ no se tocaron.
+- **Caveats honestos:** (1) los 3 fijos A-8 en Castro-Urdiales (pk 143,7/144,5/147,5) caen en el área del tramo de Saltacaballo, al que la prensa no oficial atribuye 100 km/h — sin documentación oficial → 120 genérico; reclasificar a específico si aparece fuente oficial. (2) Una web no oficial afirma 100 km/h en A-67 Polanco (posibles obras del tercer carril) → 120 genérico, pista a contrastar. (3) El XML DGT etiqueta la S-10 como "CARRETERA AUTONÓMICA" (erróneo: es autovía estatal) → 120 genérico, no 'limite pendiente'.
+- Diario: hidden_files/radares-limites-cantabria/diario.md (scratch en scratch/).
+- **Restantes límites:** Castilla-La Mancha; luego siguientes comunidades.
