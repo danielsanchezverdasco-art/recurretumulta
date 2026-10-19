@@ -12,6 +12,15 @@
 
 Hablamos del **pk 148,0 de la N-401**, en la provincia de Toledo. Controla el **sentido creciente** de la marcha: los puntos kilométricos crecientes. Que el control sea en sentido creciente no implica que el contrario esté desatendido: la DGT publica puntos por sentido. El control fijo de la DGT más próximo es el de la **N-401, pk 150,2** (sentido creciente), a 1,8 km hacia el sur. El siguiente punto por cercanía es el de la **CM-420, pk 29,2** (sentido creciente), a 23,6 km hacia el este. La zona combina el carácter rural del entorno con la intensidad propia de una vía de comunicación relevante.
 
+<iframe title="Mapa: radar n-401-148-0-creciente-cabina" src="https://www.google.com/maps?q=39.28981,-3.74964&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-401-148-0-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.28981,-3.74964&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 Nos encontramos en la N-401, carretera nacional que sirve a Toledo. La carretera nacional registra movimiento durante toda la jornada, con perfiles distintos por franjas horarias. La presencia de la cabina responde a que este es un punto donde los excesos son frecuentes. De los 4 controles que la DGT publica para la N-401 en la comunidad, este es el segundo por punto kilométrico. En la misma N-401, el control más próximo es el del pk 150,2 (sentido creciente): dista 1,8 km hacia el sur. Es, en suma, una vía que premia la conducción serena y castiga las prisas. En resumen, una vía que exige lo esencial: atención, respeto a las señales y velocidad contenida.
