@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 40.683, -5.621
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.683,-5.621)
 
+<iframe title="Mapa: radar n-630-373-9-decreciente-cabina" src="https://www.google.com/maps?q=40.683,-5.621&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-630-373-9-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.683,-5.621&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** Directo al grano: N-630, pk 373,95, sentido decreciente y coordenadas 40.683, -5.621 vienen del XML oficial de radares fijos de la DGT (portal NAP, DATEX II, edición 2026-10-19). Ese XML no da el límite de cada radar ni el municipio. El 90 km/h es el genérico del art. 48 del RGC para convencionales; La Maya (Salamanca) salió de CartoCiudad, el geocodificador oficial del IGN/CNIG.
 
 ## Aviso: cabina en este punto
