@@ -822,3 +822,59 @@ Rama: fotos-reales-merlin @ 3fde4d2c (lineal sobre f5bc4189, sin force; main no 
   - yamaha-tenere-700-rally-2025 (foto 0): foto oficial Yamaha Ténéré 700 Rally
 - 3/3 sin marcas de agua, sin concesionario, webp ≥1200px de ancho.
 - Auditoría en curso: grupos G02–G19 (~1800 fichas motos/patinetes), coordinador con 18 agentes activos.
+
+
+## 2026-10-19 ~11:30 CEST — @grok lote listo fotos-merlin G03 (auditoría motos/patinetes)
+
+Rama: fotos-reales-merlin @ b2c574b6
+- Grupo G03 (Piaggio, Suzuki, Norton, AJP...): 104 fichas auditadas, 233 fotos revisadas visualmente.
+- 9 fotos OK. 5 falsas reemplazadas por fotos reales verificadas del modelo exacto:
+  - piaggio-liberty-125-2025 (fotos 1, 2, 3): concesionario → fotos de prensa (soymotero.net)
+  - piaggio-liberty-125-2025 (foto 4): concesionario → foto 1000ps.com (sustituida además por versión 1563px, la original era 992px <1200)
+  - piaggio-medley-200-2026 (foto 1): concesionario → foto de prensa (soymotero.net)
+- 219 fotos MISSING (el fichero no existe en el repo).
+- CSV: 233 filas nuevas en fotos-merlin-CUMULATIVO.csv.
+
+
+## 2026-10-19 ~11:30 CEST — @grok lote listo fotos-merlin G05 (auditoría motos/patinetes)
+
+Rama: fotos-reales-merlin @ 701dbbe9
+- Grupo G05 (KTM, Vespa, Aovopro, Italjet...): 104 fichas auditadas, 254 fotos revisadas visualmente.
+- 11 fotos OK. 4 falsas reemplazadas por fotos reales verificadas del modelo exacto:
+  - ktm-1390-super-duke-r-2024 (foto 0): marca-agua → foto oficial prensa KTM
+  - vespa-gtv-310-2026 (foto 0): concesionario → foto oficial Vespa
+  - aovopro-esmax (fotos 2, 3): IA → fotos reales del modelo (rideandglide.co.uk, publi24.ro)
+- 239 fotos MISSING (el fichero no existe en el repo).
+- CSV: 254 filas nuevas en fotos-merlin-CUMULATIVO.csv.
+
+
+## 2026-10-19 ~11:30 CEST — @grok lote listo fotos-merlin G08 (auditoría motos/patinetes)
+
+Rama: fotos-reales-merlin @ 2da889a0
+- Grupo G08 (Harley-Davidson, Askoll, Mondial...): 104 fichas auditadas, 256 fotos revisadas visualmente.
+- 1 foto OK. 2 falsas reemplazadas por fotos reales verificadas del modelo exacto:
+  - harley-davidson-pan-america-1250-special-2025 (foto 1): concesionario → foto real (nrmotoco.com)
+  - harley-davidson-low-rider-st-2025 (foto 1): concesionario → foto real (thunderbike.de)
+- 253 fotos MISSING (el fichero no existe en el repo).
+- CSV: 256 filas nuevas en fotos-merlin-CUMULATIVO.csv.
+
+
+## 2026-10-19 ~11:30 CEST — @grok lote listo fotos-merlin G15 (auditoría motos/patinetes)
+
+Rama: fotos-reales-merlin @ 687d9b7b
+- Grupo G15 (Kaabo, Joyor, Motron, Fantic...): 104 fichas auditadas, 202 fotos revisadas visualmente.
+- 14 fotos OK. 1 falsa reemplazada por foto real verificada del modelo exacto:
+  - motron-ventura-125-2025 (foto 0): concesionario → foto real (1000ps.com)
+- 187 fotos MISSING (el fichero no existe en el repo).
+- CSV: 202 filas nuevas en fotos-merlin-CUMULATIVO.csv.
+
+
+## 2026-10-19 ~11:30 CEST — @grok lote listo fotos-merlin G16 (auditoría motos/patinetes)
+
+Rama: fotos-reales-merlin @ 78541702
+- Grupo G16 (Husqvarna, Can-Am, Benelli, Niu...): 104 fichas auditadas, 245 fotos revisadas visualmente.
+- 14 fotos OK. 2 falsas reemplazadas por fotos reales verificadas del modelo exacto:
+  - husqvarna-norden-901-2024 (foto 1): marca-agua → foto real (motorcycles.news) [pusheada @ 78541702]
+  - can-am-pulse (foto 0): IA → foto real de prensa (actumoto.ch) [pendiente de push]
+- 229 fotos MISSING (el fichero no existe en el repo).
+- CSV: 245 filas nuevas en fotos-merlin-CUMULATIVO.csv.
