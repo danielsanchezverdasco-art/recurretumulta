@@ -16,6 +16,7 @@ import {
   Fuel,
   Gauge,
   IdCard,
+  Newspaper,
   Play,
   ShieldCheck,
   Users,
@@ -40,6 +41,8 @@ import EtiquetaDGT from "@/components/EtiquetaDGT.tsx";
 import DescargarFichaPDF from "@/components/DescargarFichaPDF.tsx";
 import CompartirBotones from "@/components/CompartirBotones.tsx";
 import { tituloFichaCoche } from "@/lib/seo-titulo-ficha.ts";
+// 19/10/2026 (agente enlaces 9/9): mapeo ficha -> blog para la sección "Review".
+import { FICHA_BLOG_LINKS, blogUrl } from "@/lib/blog-ficha-links.ts";
 import type { Autocaravana } from "@/lib/autocaravanas-tipos.ts";
 import { AUTOCARAVANAS } from "@/lib/autocaravanas";
 import {
@@ -131,6 +134,8 @@ const FILAS: Fila[] = [
 function Ficha({ auto }: { auto: Autocaravana }) {
   const nombre = `${auto.marca} ${auto.modelo}`;
   const slug = auto.id;
+  // 19/10/2026 (agente enlaces 9/9): blog de review si existe para esta ficha.
+  const review = FICHA_BLOG_LINKS[slug] ?? null;
   const urlFicha = `https://recurretumulta.online/campers/${slug}/`;
   const spotRef = useSpotlight<HTMLElement>();
 
@@ -557,6 +562,28 @@ function Ficha({ auto }: { auto: Autocaravana }) {
               </a>{" "}
               en YouTube
             </p>
+          </section>
+        )}
+
+        {/* 19/10/2026 (agente enlaces 9/9): review del blog, solo si la ficha tiene artículo. */}
+        {review && (
+          <section
+            className="rtm-card mt-8 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6"
+            aria-label={`Análisis de la ${nombre}`}
+          >
+            <h2 className="flex items-center gap-2 text-xl font-extrabold text-gray-900">
+              <Newspaper className="h-5 w-5 text-red-600" /> Review en vídeo / artículo
+            </h2>
+            <p className="mt-2 text-sm text-gray-600">
+              Hemos analizado la {nombre} a fondo: precio, rivales, lo bueno y lo mejorable.
+            </p>
+            <Link
+              to={blogUrl(review.blogSlug)}
+              className="mt-3 block rounded-2xl border border-gray-200 px-4 py-3 transition hover:border-red-300 hover:bg-red-50"
+            >
+              <span className="font-bold text-gray-900">{review.blogTitulo}</span>
+              <span className="mt-1 block text-sm font-medium text-red-600">Leer el análisis completo →</span>
+            </Link>
           </section>
         )}
 
