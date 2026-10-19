@@ -8,6 +8,10 @@
 // + 3 años de fabricante (páginas oficiales).
 // Fotos: renders oficiales de prensa Bailey + fotos reales del modelo exacto
 // (distribuidores/prensa), verificadas visualmente.
+// 19/10/2026 (noche): 2 fotos de interior nuevas en /media/fotos-reales/<slug>/<slug>-1.webp
+// — Messina: foto de prensa del modelo exacto (yorkshirecaravans.com, página del Pegasus Black
+// Messina); Cabrera: foto oficial del fabricante (baileyofbristol.co.uk,
+// 'Unicorn-Deluxe-Cabrera-through-shot.jpg'). Verificadas visualmente, sin marcas de agua.
 import type { CocheComparador } from "./comparador-coches-data.ts";
 
 export const CARAVANAS_BAILEY: CocheComparador[] = [
@@ -319,7 +323,7 @@ export const CARAVANAS_BAILEY: CocheComparador[] = [
     imagenOficial:
       "/media/bailey-pegasus-black-messina-2026-precio-ficha-tecnica.webp",
     imagenInteriorOficial:
-      "/media/bailey-pegasus-black-messina-2026-precio-ficha-tecnica-interior-oficial.webp",
+      "/media/fotos-reales/bailey-pegasus-black-messina-2026-precio-ficha-tecnica/bailey-pegasus-black-messina-2026-precio-ficha-tecnica-1.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 7905,
@@ -365,10 +369,10 @@ export const CARAVANAS_BAILEY: CocheComparador[] = [
         alto: 800,
       },
       {
-        src: "/media/bailey-pegasus-black-messina-2026-precio-ficha-tecnica-interior-oficial.webp",
+        src: "/media/fotos-reales/bailey-pegasus-black-messina-2026-precio-ficha-tecnica/bailey-pegasus-black-messina-2026-precio-ficha-tecnica-1.webp",
         alt: "Interior de la Bailey Pegasus Black Messina",
-        ancho: 1200,
-        alto: 800,
+        ancho: 900,
+        alto: 600,
       },
     ],
     analisisSlug: "bailey-pegasus-black-messina-2026-precio-ficha-tecnica-analisis-opinion",
@@ -414,7 +418,7 @@ export const CARAVANAS_BAILEY: CocheComparador[] = [
     imagenOficial:
       "/media/bailey-unicorn-deluxe-cabrera-2026-precio-ficha-tecnica.webp",
     imagenInteriorOficial:
-      "/media/bailey-unicorn-deluxe-cabrera-2026-precio-ficha-tecnica-interior-oficial.webp",
+      "/media/fotos-reales/bailey-unicorn-deluxe-cabrera-2026-precio-ficha-tecnica/bailey-unicorn-deluxe-cabrera-2026-precio-ficha-tecnica-1.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 7340,
@@ -460,10 +464,10 @@ export const CARAVANAS_BAILEY: CocheComparador[] = [
         alto: 800,
       },
       {
-        src: "/media/bailey-unicorn-deluxe-cabrera-2026-precio-ficha-tecnica-interior-oficial.webp",
+        src: "/media/fotos-reales/bailey-unicorn-deluxe-cabrera-2026-precio-ficha-tecnica/bailey-unicorn-deluxe-cabrera-2026-precio-ficha-tecnica-1.webp",
         alt: "Interior de la Bailey Unicorn Deluxe Cabrera",
-        ancho: 1200,
-        alto: 800,
+        ancho: 900,
+        alto: 600,
       },
     ],
     analisisSlug: "bailey-unicorn-deluxe-cabrera-2026-precio-ficha-tecnica-analisis-opinion",
