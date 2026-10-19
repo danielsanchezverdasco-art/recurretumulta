@@ -2843,3 +2843,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/lamborghini-revuelto-2024-precio-ficha-tecnica-hunt1.webp | https://media.lamborghini.com/english/models/revuelto | Lamborghini (via drivable.app) | desconocida |
 | /media/lamborghini-revuelto-2024-precio-ficha-tecnica-hunt2.webp | https://www.vicariousmag.com/first-look-2024-lamborghini-revuelto/ | Vicarious Magazine | desconocida |
 | /media/lamborghini-revuelto-2024-precio-ficha-tecnica-hunt3.webp | https://www.dailyrevs.com/cars/2024-lamborghini-revuelto | DailyRevs | desconocida |
+| /media/renault-megane-e-tech-2026-precio-autonomia-hunt1.webp | https://internationalfleetworld.com/new-look-renault-megane-e-tech-electric-gets-500km-range-and-google-gemini/ | International Fleet World (foto de prensa Renault) | desconocida |
+| /media/renault-megane-e-tech-2026-precio-autonomia-hunt2.webp | https://autoblog.md/video-premiera-noul-renault-megane-e-tech-electric-facelift/ | Autoblog.md | desconocida |
+| /media/renault-megane-e-tech-2026-precio-autonomia-hunt3.webp | https://periodismodelmotor.com/megane-e-tech-2026/424235/ | Periodismo del Motor | desconocida |
+| /media/scorpa-sc-250-factory-2025-ficha-tecnica-precio-hunt1.webp | https://www.scorpa-motorcycles.com/en/moto/250-sc-f-factory-2025 | Scorpa Motorcycles (oficial) | desconocida |
+| /media/scorpa-sc-250-factory-2025-ficha-tecnica-precio-hunt2.webp | https://trials.au/posts/2024-scorpa-factory-trial-19402 | Trials.au | desconocida |
+| /media/scorpa-sc-250-factory-2025-ficha-tecnica-precio-hunt3.webp | https://trials.au/posts/2024-scorpa-factory-trial-19402 | Trials.au | desconocida |
+| /media/navee-v25i-pro-hunt1.webp | https://naveetech.de | NAVEE Tech (tienda oficial del fabricante) | desconocida |
+| /media/navee-v25i-pro-hunt2.webp | https://www.janado.de/collections/e-scooter | Janado (distribuidor) | desconocida |
+| /media/navee-v25i-pro-hunt3.webp | https://www.hipercor.es/electronica/A50446387-patinete-electrico-navee-v25i-pro/ | Hipercor / El Corte Inglés (distribuidor) | desconocida |
+| /media/audi-q5-2025-precio-ficha-tecnica-hunt1.webp | https://www.carscoops.com/2024/09/2025-audi-q5-is-a-tech-forward-suv-that-actually-looks-good/ | Audi AG (prensa oficial, vía Carscoops) | desconocida |
+| /media/audi-q5-2025-precio-ficha-tecnica-hunt2.webp | https://www.completecar.ie/car-news/article/13565/New-2025-Audi-Q5-unveiled | Audi AG (prensa oficial, vía CompleteCar.ie) | desconocida |
+| /media/audi-q5-2025-precio-ficha-tecnica-hunt3.webp | https://rpmweb.ca/essais/premier-contact/audi-q5-tfsi-quattro-2025-prudence-et-technologie | RPMweb.ca | desconocida |
+| /media/lamborghini-urus-se-2024-precio-ficha-tecnica-hunt1.webp | https://www.lamborghini.com/fr-en/nouvelles/lamborghini-urus-se-the-first-plug-in-hybrid-super-suv | Lamborghini (prensa oficial) | desconocida |
+| /media/lamborghini-urus-se-2024-precio-ficha-tecnica-hunt2.webp | https://www.sedottuntas.com/2024-lamborghini-urus-se-ph-review | Paul Tan's Automotive News | desconocida |
+| /media/lamborghini-urus-se-2024-precio-ficha-tecnica-hunt3.webp | https://www.supercars.net/blog/the-lamborghini-urus-se-the-hybrid-super-suv/ | Supercars.net | desconocida |
+| /media/navee-v40-pro-hunt1.webp | https://www.tradeinn.com/techinn/pt/navee-scooter-eletrica-v40-pro-10/140485638/p | Tradeinn | desconocida |
+| /media/navee-v40-pro-hunt2.webp | https://celticook.ie/products/xiaomi-navee-scooter-v40-pro-600-watt-max-power-40km-max-range-15-max-incline-ipx5-waterproof | Celticook (Xiaomi Navee Scooter V40 Pro 600W) | desconocida |
+| /media/navee-v40-pro-hunt3.webp | https://sevastopol.bvdshop.ru/elektrosamokaty/ | bvdshop.ru (Navee V40 Pro) | desconocida |
+| /media/renault-kangoo-2024-tce-130-precio-ficha-tecnica-hunt1.webp | https://www.autoscout24.ch/de/d/renault-kangoo-13-tce-130-pf-techno-edc-20724989 | AutoScout24 (anuncio: Renault Kangoo 1.3 TCe 130 Techno) | desconocida |
+| /media/renault-kangoo-2024-tce-130-precio-ficha-tecnica-hunt2.webp | https://www.autouncle.at/es/d/13019400-nuevo-renault-kangoo-kangootechno-tce130 | AutoUncle (anuncio: nuevo Renault Kangoo Techno TCe 130) | desconocida |
+| /media/renault-kangoo-2024-tce-130-precio-ficha-tecnica-hunt3.webp | https://www.autouncle.de/de/d/206519314-neu-2025-renault-kangoo-techno-131-ps | AutoUncle (anuncio: 2025 Renault Kangoo Techno 131 PS) | desconocida |
+| /media/trs-one-r-300-2025-ficha-tecnica-precio-hunt1.webp | https://www.thehellteam.com/2025-trs-one-r-300cc | The Hell Team | desconocida |
+| /media/trs-one-r-300-2025-ficha-tecnica-precio-hunt2.webp | https://roadandtrials.co.uk/products/2025-trs-one-r-125cc-trials-bike | Road and Trials | desconocida |
+| /media/trs-one-r-300-2025-ficha-tecnica-precio-hunt3.webp | https://trs-motorcycles.com/ | TRS Motorcycles (oficial) | desconocida |
