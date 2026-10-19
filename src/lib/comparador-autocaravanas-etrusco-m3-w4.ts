@@ -9,9 +9,10 @@
 //   referencia con fuente. Las páginas de detalle de etrusco.com no cargaron el
 //   19/10/2026 (fallo reiterado del servicio de lectura), así que los datos técnicos de
 //   cada layout se verificaron con la prensa oficial de la marca y fichas de
-//   distribuidores; lo no confirmado queda en null. Fotos pendientes: el buscador de
-//   imágenes y la lectura de páginas fallaron de forma reiterada; el coordinador deberá
-//   aportarlas.
+//   distribuidores; lo no confirmado queda en null. Fotos verificadas el 19/10/2026
+//   (verificación visual 1x1, worker V3-05): CV 600 DB con 4 fotos reales del modelo
+//   exacto (1 oficial de la galería etrusco.com); I 7400 QBC con 4 fotos oficiales
+//   del PDF del expositor Etrusco en el NEC 2026.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
 export const AUTOCARAVANAS_ETRUSCO_M3: Autocaravana[] = [
@@ -33,9 +34,9 @@ export const AUTOCARAVANAS_ETRUSCO_M3: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "",
-    imagenOficial: "",
-    imagenInteriorOficial: "",
+    imagen: "/media/etrusco-cv-600-db-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial: "/media/etrusco-cv-600-db-2026-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial: "/media/etrusco-cv-600-db-2026-precio-ficha-tecnica-interior1.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 5990, // ficha de distribuidor (unidad 2026): 599 cm
@@ -59,7 +60,7 @@ export const AUTOCARAVANAS_ETRUSCO_M3: Autocaravana[] = [
       "La sigla DB identifica la cama doble transversal trasera («cozy transverse bed», nota de prensa oficial). " +
       "Gama oficial 2026 (etrusco.com, modeloverview): serie CV Fiat desde 55.799 € y serie CV Plus desde 58.999 € (PVP Alemania, solo referencia; no hay tarifa ES). " +
       "Precio null en España: la marca no publica tarifa ES. " +
-      "Sin fotos: el servicio de lectura web y el buscador de imágenes fallaron reiteradamente el 19/10/2026; queda pendiente que el coordinador las aporte.",
+      "Fotos verificadas visualmente el 19/10/2026 (worker V3-05): 4 fotos reales del modelo exacto, sin marcas de agua ni concesionario; el baño es foto oficial de la galería de etrusco.com.",
     curiosidades:
       "Para la temporada 2026 Etrusco amplía su gama camper con el nuevo CV 600 SB —el primer camper de 6 metros de la marca con dos camas individuales de hasta 191 cm— y mantiene el CV 600 DB con su cama doble transversal; la serie Campervan Plus, a la que pertenece, parte de 58.999 € en Alemania (fuente: nota de prensa oficial de Etrusco, 8/5/2025, https://www.etrusco.com/it/it/stampa/articolo-2025/cv-600-sb; y nota de prensa de la serie Plus https://www.etrusco.com/gb/en/press/article-2024/cv-plus).",
     descripcion: `El Etrusco CV 600 DB es el camper de 5,99 metros para quien quiere una cama doble de verdad sin subir a los 6,36 metros. Etrusco, la marca italiana del grupo Erwin Hymer, se ha hecho un hueco en Europa con una receta clara: diseño italiano, construcción con estándar alemán y precios contenidos. El CV 600 DB —donde DB significa Doppelbett, cama doble— aplica esa receta al formato más vendible del mercado: el furgón compacto con cama transversal trasera, cuatro plazas de viaje y todo lo necesario para escapadas largas sin depender de campings.
@@ -92,7 +93,12 @@ Para quién es: para parejas que buscan un camper compacto de verdad —5,99 m�
       "Carga útil a vigilar si se carga el Complete Selection más toldo, solar y batería extra.",
     ],
     opiniones: [],
-    galeria: [],
+    galeria: [
+      { src: "/media/etrusco-cv-600-db-2026-precio-ficha-tecnica-oficial.webp", alt: "Etrusco CV 600 DB, vista exterior", ancho: 1500, alto: 833 },
+      { src: "/media/etrusco-cv-600-db-2026-precio-ficha-tecnica-interior1.webp", alt: "Etrusco CV 600 DB, salón", ancho: 1600, alto: 1200 },
+      { src: "/media/etrusco-cv-600-db-2026-precio-ficha-tecnica-interior2.webp", alt: "Etrusco CV 600 DB, baño", ancho: 1600, alto: 2398 },
+      { src: "/media/etrusco-cv-600-db-2026-precio-ficha-tecnica-detalle.webp", alt: "Etrusco CV 600 DB, lateral con techo elevable", ancho: 1600, alto: 1200 },
+    ],
     analisisSlug: "etrusco-cv-600-db-analisis-opinion",
     planMantenimiento: {
       intervalo: "Base Fiat Ducato: revisión cada 2 años o 40.000 km (según plan del fabricante)",
@@ -120,9 +126,9 @@ Para quién es: para parejas que buscan un camper compacto de verdad —5,99 m�
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "",
-    imagenOficial: "",
-    imagenInteriorOficial: "",
+    imagen: "/media/etrusco-i-7400-qbc-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial: "/media/etrusco-i-7400-qbc-2026-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial: "/media/etrusco-i-7400-qbc-2026-precio-ficha-tecnica-interior1.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 7400, // fichas de distribuidor: 7.400 mm
@@ -146,7 +152,7 @@ Para quién es: para parejas que buscan un camper compacto de verdad —5,99 m�
       "La distribución QBC monta cama queen posterior y una gran cama abatible delantera junto a la zona de día; la red resalta el parabrisas panorámico y la decoración Emilia/type X. " +
       "En la web de la marca (etrusco.com) la serie I Fiat parte de 78.999 € en Alemania, cifra solo orientativa porque no existe tarifa ES. " +
       "En España: null, sin tarifa publicada. " +
-      "Fotos ausentes: tanto el lector web como el buscador de imágenes fallaron varias veces el 19/10/2026; las aportará el coordinador.",
+      "Fotos: 4 fotos oficiales del PDF del expositor Etrusco en el NEC 2026 (contenido del fabricante), verificadas visualmente el 19/10/2026 (worker V3-05).",
     curiosidades:
       "La ficha de expositor de Etrusco en la feria NEC de Birmingham recoge el I 7400 QBC como modelo 2026: integral de clase A sobre Fiat con 4 plazas de viaje, 4 camas y tarifa de salida en Reino Unido de 72.290 £ (origen: https://findmyleisurevehicle.co.uk/pdf/product/6527?signature=ddafc60dde5b001921aa9a749bba1693508385b8cf56123cd303acdafea1ea06, consultada el 19/10/2026).",
     descripcion: `La integral más asequible con pedigrí europeo se llama Etrusco I 7400 QBC. Con 7,40 m de largo y carrocería de clase A sobre Fiat Ducato, ofrece lo que muchas perfiladas prometen y no cumplen: 4 camas de adulto de verdad —una queen fija atrás y otra abatible delante— más el parabrisas panorámico que convierte el frontal en un mirador. Es la vía de acceso al formato integral para el que ve las perfiladas como un apaño y las alemanas premium como un imposible: estética de integral, factura de Etrusco.
@@ -181,7 +187,12 @@ Perfil de comprador: el que sueña con una integral auténtica —parabrisas pan
       "Con 4 ocupantes y el pack todo incluido, la MMA de 3.650 kg se vuelve recomendable.",
     ],
     opiniones: [],
-    galeria: [],
+    galeria: [
+      { src: "/media/etrusco-i-7400-qbc-2026-precio-ficha-tecnica-oficial.webp", alt: "Etrusco I 7400 QBC, vista exterior", ancho: 1000, alto: 639 },
+      { src: "/media/etrusco-i-7400-qbc-2026-precio-ficha-tecnica-interior1.webp", alt: "Etrusco I 7400 QBC, salón", ancho: 1000, alto: 667 },
+      { src: "/media/etrusco-i-7400-qbc-2026-precio-ficha-tecnica-interior2.webp", alt: "Etrusco I 7400 QBC, cocina", ancho: 1000, alto: 667 },
+      { src: "/media/etrusco-i-7400-qbc-2026-precio-ficha-tecnica-detalle.webp", alt: "Etrusco I 7400 QBC, dormitorio", ancho: 1000, alto: 667 },
+    ],
     analisisSlug: "etrusco-i-7400-qbc-analisis-opinion",
     planMantenimiento: {
       intervalo: "Base Fiat Ducato: revisión cada 2 años o 40.000 km (según plan del fabricante)",
