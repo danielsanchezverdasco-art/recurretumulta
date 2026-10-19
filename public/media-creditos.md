@@ -3178,3 +3178,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/kugoo-kirin-m3-hunt1.webp | https://www.oolactive.com/products/kugookirin-m3-electric-scooter | oolactive (página de producto Kugoo Kirin M3) | desconocida |
 | /media/kugoo-kirin-m3-hunt2.webp | https://skootterimaailma.fi/kauppa/kugoo-kirin-m3-sahkopotkulauta/ | Skootterimaailma (distribuidor Finlandia) | desconocida |
 | /media/kugoo-kirin-m3-hunt3.webp | https://berezovskiy.elektro-mall.ru/elektrosamokaty/ehlektrosamokat-kugoo-kirin-m3 | elektro-mall (tienda) | desconocida |
+| /media/skoda-octavia-15-tsi-2026-precio-ficha-tecnica-hunt1.webp | https://www.autozive.cz/dacia-zaspala-kia-utoci/ | AutoŽivě (artículo Skoda Octavia 2026) | desconocida |
+| /media/skoda-octavia-15-tsi-2026-precio-ficha-tecnica-hunt2.webp | https://www.wiondrive.com/photos/2025-skoda-octavia-photo-gallery-25108/ | WION Drive (galería 2025 Skoda Octavia) | desconocida |
+| /media/skoda-octavia-15-tsi-2026-precio-ficha-tecnica-hunt3.webp | https://car-images.stg.bauersecure.com/wp-images/3725/1752x1168/newoctavia_183.jpg | Bauer Secure (imagen newoctavia) | desconocida |
+| /media/inokim-quick-3-hunt1.webp | https://cdn.shopify.com/s/files/1/0908/0796/products/jg9mTXQ8uGTE0sKQFmDA_quick3-open_B10_6e7d855b-ec75-4979-ada8-bd82e1ca2b35.png?v=1517483260 | Inokim (foto de producto, tienda oficial) | desconocida |
+| /media/inokim-quick-3-hunt2.webp | https://electricrider.co.nz/wp-content/uploads/Inokim-Quick-3-Black-Side-Under.jpg | Electric Rider NZ | desconocida |
+| /media/inokim-quick-3-hunt3.webp | https://cdn.shopify.com/s/files/1/0041/8332/6833/products/Copy_of_quick3black-upright1_e83c7aad-030e-4027-be6d-058b4fd8518f.jpg | Kerux (foto de producto) | desconocida |
+| /media/ktm-125-enduro-r-2025-ficha-tecnica-precio-hunt1.webp | https://ktm.info/media/cache/resolve/large_default_img/uploads/app-_aliso-page-sectionvalue/files/417/pho-bike-90-li-dual-sport-ktm-2025-125-enduro-r-left-side-view-image-sall-aepi-v1.png | KTM (foto oficial, ktm.info) | desconocida |
+| /media/ktm-125-enduro-r-2025-ficha-tecnica-precio-hunt2.webp | https://azwecdnepstoragewebsiteuploads.azureedge.net/PHO_STAGE_Dual-sport-KTM-2025-125-enduro-r-orange-header-image_%23SALL_%23AEPI_%23V1.jpg | KTM (foto oficial, ktm.com) | desconocida |
+| /media/ktm-125-enduro-r-2025-ficha-tecnica-precio-hunt3.webp | https://azwecdnepstoragewebsiteuploads.azureedge.net/PHO_BIKE_DET_Dual-sport-KTM-2025-125-enduro-r-orange-action-image-3_%23SALL_%23AEPI_%23V1.jpg | KTM (foto oficial, ktm.com) | desconocida |
+| /media/skoda-octavia-combi-15-tsi-2026-precio-ficha-tecnica-hunt1.webp | https://www.autocolumn.com/wp-content/uploads/2026/03/image-26.png | Autocolumn (foto de prensa) | desconocida |
+| /media/skoda-octavia-combi-15-tsi-2026-precio-ficha-tecnica-hunt2.webp | https://autoseu.com/wp-content/uploads/2026/04/5299_dbfa9f42-3950-4170-9056-c97b8087dae1_2_1280x960-1024x483.webp | Autoseu | desconocida |
+| /media/skoda-octavia-combi-15-tsi-2026-precio-ficha-tecnica-hunt3.webp | https://www.wiondrive.com/wp-content/uploads/2024/05/102_skoda_octavia_interior_14756729-scaled.jpg | WionDrive | desconocida |
+| /media/ktm-1390-super-adventure-s-2025-ficha-tecnica-precio-hunt1.webp | https://www.ktm.com/en-th/models/adventure/2025-ktm-1390-superadventures.html | KTM (web oficial) | desconocida |
+| /media/ktm-1390-super-adventure-s-2025-ficha-tecnica-precio-hunt2.webp | https://www.ktm.com/en-th/models/adventure/2025-ktm-1390-superadventuresevo.html | KTM (web oficial) | desconocida |
+| /media/ktm-1390-super-adventure-s-2025-ficha-tecnica-precio-hunt3.webp | https://www.canariasenmoto.com/noticias/nueva-ktm-1390-super-adventure-s-2025-la-trail-asfaltica-premium-31155 | Canarias en Moto (blog del motor) | desconocida |
+| /media/skoda-superb-15-tsi-2026-precio-ficha-tecnica-hunt1.webp | https://groupcms-services-api.porsche-holding.com | Škoda Auto (medios oficiales, vía Porsche Holding) | desconocida |
+| /media/skoda-superb-15-tsi-2026-precio-ficha-tecnica-hunt2.webp | https://www.carexpert.com.au/car-news/2025-skoda-superb-price-and-specs | CarExpert | desconocida |
+| /media/skoda-superb-15-tsi-2026-precio-ficha-tecnica-hunt3.webp | https://opat.skoda-auto.cz/modely/novy-superb | Škoda Auto (web oficial de concesionarios) | desconocida |
+| /media/smartgyro-xtreme-hunt1.webp | https://habitium.com/ie/electric-scooters/481710-electric-scooter-blue-250-w-up-to-100-kg-smartgyro-xtreme.html | Habitium (ficha de producto) | desconocida |
+| /media/smartgyro-xtreme-hunt2.webp | https://www.pccomponentes.pt/smartgyro-xtreme-xd-scooter-eletrica-azul | PcComponentes (ficha de producto) | desconocida |
+| /media/smartgyro-xtreme-hunt3.webp | https://www.tiendaortopedia.es/segway-barcelona/ | Tienda Ortopedia (ficha de producto) | desconocida |
+| /media/emove-touring-hunt1.webp | https://ecomotion.com.au/collections/e-scooter-commuter/products/emove-touring-500w-48v-13ah-portable-electric-scooter | EcoMotion Australia | desconocida |
+| /media/emove-touring-hunt2.webp | https://www.smartwheel.ca/emove-touring-electric-scooter/ | SmartWheel | desconocida |
+| /media/emove-touring-hunt3.webp | https://www.inydy.com/product/emove-touring-electric-scooter-white/ | InYdy | desconocida |
