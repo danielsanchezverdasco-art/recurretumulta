@@ -6,14 +6,6 @@
 **Coordenadas (WGS84):** 39.999466, -6.5491147
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.999466,-6.5491147)
 
-<iframe title="Mapa: radar ex-108-90-8-decreciente-cabina" src="https://www.google.com/maps?q=39.999466,-6.5491147&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
-
-*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
-
-<iframe title="Street View: radar ex-108-90-8-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.999466,-6.5491147&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
-
-*Vista 3D (Street View) del entorno del radar.*
-
 > **Cómo lo verificamos:** Posición, vía, pk y sentido vienen del XML oficial de radares de la DGT (DATEX II, portal NAP), verificado el 2026-10-19. El dataset no difunde el límite de cada punto ni el municipio: el límite de la ficha es el genérico del RGC (art. 48, RD 1428/2003) por denominación oficial de la vía, y el municipio lo determina el geocodificador oficial CartoCiudad (IGN/CNIG).
 
 ## El límite: lo que sabemos y lo que no
@@ -27,6 +19,14 @@ La EX-108 es una carretera autonómica de la Junta de Extremadura, de trazado co
 ## Dónde está
 
 La cabina se ubica en la EX-108, pk 90,8, en el término municipal de Coria (Cáceres), coordenadas 39.999466, -6.5491147. Vigila el sentido decreciente, es decir, la circulación hacia puntos kilométricos descendentes. El enlace de Street View permite comprobar el lugar exacto.
+
+<iframe title="Mapa: radar ex-108-90-8-decreciente-cabina" src="https://www.google.com/maps?q=39.999466,-6.5491147&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar ex-108-90-8-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.999466,-6.5491147&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
 
 ## Cómo afrontar este tramo
 
