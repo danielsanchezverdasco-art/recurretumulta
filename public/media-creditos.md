@@ -2608,3 +2608,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/royal-enfield-bear-650-2025-ficha-tecnica-precio-hunt1.webp | http://ridermagazine.com/2025-royal-enfield-bear-650-review/ | ridermagazine.com | desconocida |
 | /media/royal-enfield-bear-650-2025-ficha-tecnica-precio-hunt2.webp | https://www.1000PS.com/it-it/articolo/3012064/nuova-royal-enfield-bear-650-2025 | 1000PS.com | desconocida |
 | /media/royal-enfield-bear-650-2025-ficha-tecnica-precio-hunt3.webp | https://www.theuth.co/royal-enfield-bear-650-2025/9564/ | theuth.co | desconocida |
+| /media/subaru-e-outback-2026-precio-ficha-tecnica-hunt1.webp | https://assets.adac.de/image/upload/ar_16:9,c_fill,f_auto,g_auto,q_auto:eco,w_1044/v1/ADAC-eV/KOR/Bilder/PR/marktueberblick-elektro-kombi-subaru-e-outback-2608_hskl5z | Subaru (foto de prensa, vía ADAC) | desconocida |
+| /media/subaru-e-outback-2026-precio-ficha-tecnica-hunt2.webp | https://topgear.tokyo/wp-content/uploads/2026/03/imgi_11_E-Outback-Blu-offroad-3.jpg | Subaru (foto de prensa, vía topgear.tokyo) | desconocida |
+| /media/subaru-e-outback-2026-precio-ficha-tecnica-hunt3.webp | https://electricvehicleweb.com/wp-content/uploads/2026/01/Subaru-e-Outback-interior-1024x768.jpg | Subaru (foto de prensa, vía electricvehicleweb.com) | desconocida |
+| /media/royal-enfield-bullet-350-2025-ficha-tecnica-precio-hunt1.webp | https://www.autocarindia.com/bikes/royal-enfield/2023-bullet-350/images/color-color | Autocar India | desconocida |
+| /media/royal-enfield-bullet-350-2025-ficha-tecnica-precio-hunt2.webp | https://www.autocarindia.com/bikes/royal-enfield/2023-bullet-350/images/color-color | Autocar India | desconocida |
+| /media/royal-enfield-bullet-350-2025-ficha-tecnica-precio-hunt3.webp | https://www.autocarindia.com/bikes/royal-enfield/2023-bullet-350/images/color-color | Autocar India | desconocida |
+| /media/gac-trumpchi-xiangwang-s9-2025-precio-ficha-tecnica-hunt1.webp | https://www.car250.com/gac-trumpchi-s9-suv-3.html |  | desconocida |
+| /media/gac-trumpchi-xiangwang-s9-2025-precio-ficha-tecnica-hunt2.webp | https://www.car250.com/gac-trumpchi-s9-suv-3.html |  | desconocida |
+| /media/gac-trumpchi-xiangwang-s9-2025-precio-ficha-tecnica-hunt3.webp | https://mail.yallachina.com/car-model.php?id=trumpchi-xiangwang-s9 |  | desconocida |
+| /media/subaru-uncharted-field-2026-precio-ficha-tecnica-hunt1.webp | https://carbuzz.com/2026-subaru-uncharted-reveal/ |  | desconocida |
+| /media/subaru-uncharted-field-2026-precio-ficha-tecnica-hunt2.webp | https://ecoloauto.com/palmares-les-vus-et-multisegments-electriques-les-plus-abordables-en-amerique-du-nord-en-2026/ |  | desconocida |
+| /media/subaru-uncharted-field-2026-precio-ficha-tecnica-hunt3.webp | https://www.drivespark.com/four-wheelers/2025/2026-subaru-uncharted-all-electric-crossover-performance-range-011-73717.html |  | desconocida |
