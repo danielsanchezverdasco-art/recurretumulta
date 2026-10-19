@@ -12,6 +12,15 @@
 
 Hablamos del **pk 7,5 de la CM-4111**, en la provincia de Ciudad Real. Su ámbito es el **sentido creciente**: la dirección en que los hitos kilométricos van crecientes. El punto kilométrico 7,5 es la referencia oficial; sobre el terreno la cabina puede estar unos metros antes o después. A 20,5 km hacia el norte está el control más próximo, el de la **N-401, pk 178,8** (sentido decreciente). El segundo control más cercano es el de la **CM-403, pk 89,0** (sentido creciente), a 22,8 km hacia el noroeste. La zona combina el carácter rural del entorno con la intensidad propia de una vía de comunicación relevante.
 
+<iframe title="Mapa: radar cm-4111-7-5-creciente-cabina" src="https://www.google.com/maps?q=38.88282,-3.89001&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cm-4111-7-5-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.88282,-3.89001&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La carretera es autonómica: la CM-4111, de la red regional castellanomanchega. Esta carretera autonómica da servicio tanto a quien cruza la región como a quien se mueve entre pueblos próximos. La presencia de la cabina responde a que este es un punto donde los excesos son frecuentes. Es el único control de la DGT publicado para la CM-4111 en Castilla-La Mancha. La CM-4111 cuenta con un único punto de control publicado en la comunidad: este. Como en toda la red, el respeto a la señalización es aquí la mejor garantía. La señalización de la vía es la guía principal: atenderla evita la mayoría de los problemas.
