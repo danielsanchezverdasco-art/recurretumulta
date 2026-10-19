@@ -606,7 +606,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
     categoria: "Fastback",
     precioDesde: 78000,
     potenciaCv: 470,
-    autonomiaKm: null,
+    autonomiaKm: 520,
     maleteroL: 532,
     ceroCien: 3.9,
     velocidadMax: 220,
@@ -637,7 +637,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
     parNm: 808,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["autonomiaKm"],
     imagen: "/media/alpine-a390-gts-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

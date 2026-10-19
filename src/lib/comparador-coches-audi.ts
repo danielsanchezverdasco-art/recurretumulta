@@ -505,7 +505,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     categoria: "Familiar",
     precioDesde: 70790,
     potenciaCv: 326,
-    autonomiaKm: null,
+    autonomiaKm: 597,
     maleteroL: 529,
     ceroCien: 6.1,
     velocidadMax: 210,
