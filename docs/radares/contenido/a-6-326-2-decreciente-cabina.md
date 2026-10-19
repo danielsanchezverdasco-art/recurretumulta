@@ -12,6 +12,14 @@
 
 El punto vigilado es el pk 326,173 de la A-6, Autovía del Noroeste (Madrid–A Coruña). La cabina controla el sentido decreciente —tráfico hacia pks cada vez menores—, con MADRID como destino de referencia en el registro. Está en Astorga (León): 42.4466, -6.0777 (WGS84). El Street View de la cabecera muestra el punto exacto.
 
+<iframe title="Mapa: radar a-6-326-2-decreciente-cabina" src="https://www.google.com/maps?q=42.4466,-6.0777&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-6-326-2-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.4466,-6.0777&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La autovía
 
 La A-6 vertebra el noroeste peninsular: nace en Madrid, cruza Castilla y León y termina en A Coruña. En autovía, el genérico de referencia para turismos y motos es 120 km/h salvo señal en contra.
