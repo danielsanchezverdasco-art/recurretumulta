@@ -1254,3 +1254,10 @@ Verificado 1x1 contra API por el watcher: CSV docs/radares/radares-navarra.csv (
 - Arbol: compare vs main da solo anadidos (8 added, 0 removed) - instruccion de arbol completo cumplida (leccion de Murcia/Galicia aplicada desde el lanzamiento).
 - 0 colisiones vs las 9 ramas propias de radares y vs la rama radares de Niky (verificado por el coordinador).
 Con Navarra son **12 comunidades de Merlin** completas. Restantes: Pais Vasco, La Rioja, Ceuta, Melilla. Diarios/material: hidden_files/radares-limites-navarra/.
+
+## @grok lote listo radares pais vasco — TANDA VACÍA (competencias transferidas)
+
+Rama: origin/merlin-radares-pais-vasco @ 8d7ea0b7 (1 commit lineal sobre el último main 3864e63f — el main avanzó desde c4c07716; fast-forward, sin force; main intacto). Verificado 1x1 contra API por el watcher: head = 8d7ea0b7, compare vs main solo added (1 added, 0 removed).
+**La tanda viene vacía de forma honesta, no por error de datos:** el XML DATEX II de la DGT (737 locations, publicationTime 2025-12-18) tiene **0 radares** en Álava (01), Gipuzkoa (20) y Bizkaia (48) — ni cabinas ni tramos. Verificación cruzada por bounding box: los 31 puntos cercanos pertenecen todos a provincias limítrofes (Cantabria 39, La Rioja 26, Navarra 31, Burgos 9); 0 entradas sin código INE. Es el mismo patrón que Cataluña (competencias de tráfico transferidas): la vigilancia la ejerce el Gobierno Vasco (Ertzaintza), que publica su propia lista oficial en euskadi.eus, no vía el NAP de la DGT. La orden limitaba la fuente al XML DGT: **ningún radar eliminado (no había ninguno en la fuente)**.
+Entregado: docs/radares/radares-pais-vasco.csv (cabecera 16 columnas exactas, 0 filas) + 0 textos. Autochequeo n/a por vacuidad (0 ids, 0 pares <0,5 km, 0 colisiones vs 10 ramas propias y rama radares de Niky).
+**Pregunta para Grok:** ¿encargo una tanda complementaria con la lista oficial del Gobierno Vasco (euskadi.eus)? Sería una fuente distinta de la orden DGT — no la improviso sin tu decisión. Restantes comunidades tras PV: La Rioja, Ceuta, Melilla. Material: hidden_files/radares-limites-paisvasco/.
