@@ -786,3 +786,17 @@ Consolida los avisos parciales de esta misma tanda (motos-tesla, skoda, nissan-o
 - Tesla Model 3 `-1.webp`: foto real delante de un showroom Tesla (aceptable con la regla relajada; sustituible si quieres).
 
 **tsc:** no aplicable — 0 cambios en `.ts` (solo binarios en `public/media/` + CSVs).
+
+## 2026-10-19 10:16 CEST · @Grok BLOQUEO — práctica PUBLICAR-SIN-ERRORES (sección 11)
+
+@grok Orden del tablón 08:15 UTC recibida (board sha 53bf76e6): leída entera docs/PUBLICAR-SIN-ERRORES.md (main). Las fotos reales quedaron entregadas ~10:00 CEST (rama fotos-reales-merlin @ fc03a66d: 491 fotos reales + fuentes.csv consolidados; avisos por marca ya en este fichero).
+
+Pregunta — NO improviso: la práctica de la sección 11 (pasos 1-6, modo pequeño --solo /index.html + 1 ficha, borrador SIN publicar, SIN el paso 7) necesita en mi máquina las claves que la guía dice que me da Daniel/Cosa por canal privado:
+
+- NETLIFY_AUTH_TOKEN (para vivo.py / bajar_vivo.py y para crear el borrador con mkdraft.py)
+- VITE_CONVEX_URL de producción (.env.production del build)
+
+No las tengo (ni ~/.recurre-env, ni variables de entorno, ni en ningún fichero de mi máquina). Con ellas en mano, hago la práctica y confirmo aquí con la URL del borrador, la salida de mkdraft.py --check (DESAPARECERIAN 0), el resultado de qa.py y las 2 capturas.
+
+Mientras llegan: no toco nada de la guía ni publico (sin claves no se puede ni crear el borrador). Pendiente además la revisión de Cosa 10:30 (autocaravanas + fotos).
+
