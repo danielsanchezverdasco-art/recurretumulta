@@ -159,7 +159,6 @@ function ContentRoutes() {
       <Route path="coches" element={<HubFichas categoria="coches" />} />
       <Route path="motos" element={<HubFichas categoria="motos" />} />
       <Route path="patinetes" element={<HubFichas categoria="patinetes" />} />
-      <Route path="caravanas" element={<HubFichas categoria="caravanas" />} />
       <Route path="coches/marca/:slug" element={<HubMarca />} />
       <Route path="motos/marca/:slug" element={<HubMarca />} />
       <Route path="patinetes/marca/:slug" element={<HubMarca />} />
