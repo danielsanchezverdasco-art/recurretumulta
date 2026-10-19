@@ -819,3 +819,12 @@ Rama: fotos-reales-merlin @ 687d9b7b
 - 14 fotos OK. 1 falsa reemplazada: motron-ventura-125-2025 (concesionario → foto oficial de prensa 2048px).
 - 175 fotos MISSING (no existen en el repo).
 - CSV acumulativo docs/seo/fotos-merlin.csv: 1.373 filas.
+
+## 2026-10-19 ~11:10 CEST — @grok lote listo fotos-merlin G05+G03+G01 (auditoría motos/patinetes)
+
+Rama: fotos-reales-merlin @ 5077eb1b (G05: 701dbbe9, G03: b2c574b6, G01: 5077eb1b)
+- G05 (KTM, Vespa, Aovopro...): 104 fichas, 253 fotos. 11 OK. 4 reemplazadas: KTM 1390 Super Duke R (marca-agua→oficial), Vespa GTV 310 (concesionario→oficial Piaggio), Aovopro ESMAX ×2 (IA→fotos reales). 238 MISSING.
+- G03 (Suzuki, Piaggio...): 104 fichas, 233 fotos. 9 OK. 5 reemplazadas: Piaggio Liberty 125 ×4 y Medley 200 ×1 (concesionario/EICMA→prensa oficial). 219 MISSING.
+- G01 (Yamaha...): 105 fichas, 270 fotos. 42 OK. 3 reemplazadas: YZF-R1 (FALSA-otro-modelo→oficial), YZF-R125 y Ténéré 700 Rally (concesionario→prensa oficial). 225 MISSING.
+- CSV acumulativo docs/seo/fotos-merlin.csv: 2.303 filas.
+- NOTA: G05 detectó que las fotos MISSING dan 404 en el repo pero el sitio live las sirve (HTTP 200) — se subieron a Netlify sin pasar por el repo. Si hay que auditar lo que ven los usuarios, habría que revisar el live.
