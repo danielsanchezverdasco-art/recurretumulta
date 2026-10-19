@@ -97,7 +97,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
       "Solo 175 kg con suspensiones KYB totalmente regulables y 200 mm de recorrido",
       "ABS trasero desconectable y control de tracción: trail A2 de verdad, no una scrambler disfrazada",
       "Depósito de 17,5 L con unos 350 km de autonomía",
-      "Llantas de radios sin cámara en 21\\\" y 18\\\", listas para el off-road",
+      "Llantas de radios sin cámara en 21\" y 18\", listas para el off-road",
     ],
     contras: [
       "42 CV se quedan justos en autopista con equipaje y pasajero",
@@ -222,7 +222,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
       "Motor tricilíndrico de 675 cc: el único chino del segmento, con sonido y carácter propios",
       "94 CV y 220 km/h de punta con 0-100 en 3,6 s: prestaciones de 600 japonesa",
       "Horquilla KYB de 41 mm totalmente regulable y frenos J.Juan",
-      "Quickshifter ascendente, control de tracción y pantalla TFT de 5\\\"",
+      "Quickshifter ascendente, control de tracción y pantalla TFT de 5\"",
       "7.995 €: 2.400 € menos que la Triumph Daytona 660 con prestaciones equivalentes",
     ],
     contras: [
@@ -283,7 +283,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     aprox: ["velocidadMax"],
     pros: [
       "15 CV al límite legal del A1, con motor DOHC de 4 válvulas y refrigeración líquida",
-      "Pantalla TFT de 5\\\" con navegación por Google Maps: tecnología de moto grande",
+      "Pantalla TFT de 5\" con navegación por Google Maps: tecnología de moto grande",
       "Control de tracción y ABS de doble canal de serie en una 125",
       "Horquilla invertida de 37 mm y freno delantero de 292 mm con pinza radial",
       "3.895 € (con promociones de 3.395 €): rompe el mercado de las 125",
@@ -345,7 +345,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["precioDesde"],
     pros: [
-      "Pantalla táctil TFT de 8\\\" con Apple CarPlay: la más grande del segmento",
+      "Pantalla táctil TFT de 8\" con Apple CarPlay: la más grande del segmento",
       "Radar trasero de ángulo muerto, ABS en curva y 6 modos de conducción",
       "Motor bicilíndrico de 799 cc derivado del KTM 790: probado y fiable",
       "Puños y asiento calefactables, control de crucero y quickshifter bidireccional",
@@ -423,7 +423,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     curiosidades: [
       "QJMotor es del grupo Geely (Volvo, Lotus): su red y garantía son de las más serias entre las chinas.",
       "Se vende con 6 años de garantía y el primer año de seguro gratis incluidos en el precio.",
-      "La pantalla TFT de 5\\\" con función mirroring es única en su rango de precio.",
+      "La pantalla TFT de 5\" con función mirroring es única en su rango de precio.",
     ],
     imagen: "/media/motos/qjmotor-srk600-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -772,7 +772,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     pros: [
       "47,6 CV al límite del A2",
       "Llantas de radios mixtas",
-      "TFT de 7\\\" con TPMS",
+      "TFT de 7\" con TPMS",
       "Kayaba delante",
       "5 años de garantía",
     ],
@@ -783,7 +783,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     ],
     curiosidades: [
       "Su motor de 494 cc es de uso exclusivo para Voge: no se suministra a otras marcas.",
-      "La TFT de 7\\\" avisa de despresurizaciones rápidas de los neumáticos.",
+      "La TFT de 7\" avisa de despresurizaciones rápidas de los neumáticos.",
       "Con 19 L de depósito es de las scrambler A2 con más autonomía.",
     ],
     imagen: "/media/motos/voge-525acx-2025-ficha-tecnica-precio-1.webp",
@@ -1153,7 +1153,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     curiosidades: [
       "Es la primera Zontes de más de 350 cc y estrena el tricilíndrico desarrollado por la propia marca.",
       "Su equipamiento incluye IMU de 6 ejes, cámaras HD y pantalla TFT inclinable: tecnología de motos premium.",
-      "Hay una versión con llanta delantera de 19\\\" y asiento a 830 mm para los que no llegan al suelo.",
+      "Hay una versión con llanta delantera de 19\" y asiento a 830 mm para los que no llegan al suelo.",
     ],
     imagen: "/media/motos/zontes-703f-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -1199,11 +1199,17 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
+      "Consumo real de 3,4 L/100 km (homologado); en prueba real no supera los 4,0 L/100 km (fuente: Motofichas)",
       "38,8 CV con 163 kg",
       "Modos y control de tracción",
-      "TFT de 6,75\\\" con mirroring",
+      "TFT de 6,75\" con mirroring",
       "Consumo de 3,5 L/100",
       "Precio contenido",
+      "Inyección electrónica Bosch y batería de litio de serie (Zontes España).",
+      "40 Nm de par: el más potente entre los scooters por debajo de 400 cc, según Zontes España.",
+      "Keyless de 3.ª generación, manetas ajustables y freno de estacionamiento de serie (Zontes España).",
+      "Doble toma USB (tipo A y tipo C) en la guantera delantera (Zontes España).",
+      "Altura de asiento de 760 mm: accesible para pilotos de baja estatura (Motosan).",
     ],
     contras: [
       "Depósito de 12 L: autonomía limitada en escapadas largas",
@@ -1211,6 +1217,8 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
       "Sin puños calefactables de serie",
       "Diseño muy agresivo: o te encanta o no te entra",
       "Red de talleres más pequeña que las japonesas",
+      "La versión 368M ETC 2026 ya está en el mercado con acelerador electrónico por 4.488 € (solo 296 € más), lo que resta atractivo a la 2025 (Motofichas).",
+      "Pantalla parabrisas testimonial: ofrece poca protección en carretera (Motofichas, prueba gama 368).",
     ],
     curiosidades: [
       "Con 163 kg en seco es el más ligero de la familia 368 de Zontes.",
@@ -1238,9 +1246,9 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
         alto: 292,
       },
     ],
-    videoId: null,
-    videoCanal: null,
-    fuenteNombre: "Zontes España",
+    videoId: "MvooZhRcPXY",
+    videoCanal: "Publimotos",
+    fuenteNombre: "Zontes España (web oficial)",
     fuenteUrl: "https://zontesmotos.es/modelo/368m/",
     analisisSlug: "zontes-368m-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
@@ -1651,6 +1659,8 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
       "TFT de 7\" con navegación",
       "Puños y asiento calefactables",
       "Quickshifter up & down",
+      "Existe una versión limitada a 35 kW al mismo precio, lo que la abre a los conductores con carnet A2 (soymotero.net).",
+      "Depósito metálico de 20 litros: con el consumo declarado de 5 l/100 km, la autonomía teórica llega a los 400 km.",
     ],
     contras: [
       "230 kg en seco",
@@ -1658,13 +1668,17 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
       "Sin llantas de radios",
       "Precio superior a la 702",
       "Consumo elevado",
+      "La versión Stradale es asfáltica pura: llantas de aleación de 17 pulgadas y neumáticos de carretera, sin una variante campera real (lamoto.com.ar).",
+      "Con el depósito lleno supera los 230 kg, por encima de la media de las crossover de 900 cc (directomotor.com).",
     ],
     curiosidades: [
       "Comparte plataforma con la TRK 902 Xplorer pero orientada a carretera",
       "Su radar ofrece asistencia al cambio de carril, inédita en su precio",
       "El depósito de 21 L da autonomía para grandes viajes",
+      "La ficha la cataloga como modelo 2025, pero en España la prensa la comercializa como modelo 2026: llegó a concesionarios en junio de 2026 (motosan.es).",
+      "Las primeras unidades programadas para julio y agosto de 2026 se agotaron en preventa, según Motosan.",
     ],
-    imagen: "/media/motos/benelli-trk-902-stradale-2025-ficha-tecnica-precio-1.webp",
+    imagen: "/media/benelli-trk-902-stradale-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
         src: "/media/motos/benelli-trk-902-stradale-2025-ficha-tecnica-precio-2.webp",
@@ -1681,9 +1695,9 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     ],
     videoId: null,
     videoCanal: null,
-    fuenteNombre: "Benelli",
-    fuenteUrl: "https://www.benelli.com",
-    analisisSlug: "benelli-trk-902-stradale-2025-ficha-tecnica-precio",
+    fuenteNombre: "SoyMotero (precio en España)",
+    fuenteUrl: "https://soymotero.net/motos/benelli/trk-902-stradale-2026/",
+    analisisSlug: "benelli-trk-902-stradale-2025-analisis-opinion",
     mantenimientoDIY: {
       cadenaPasos: [
         "Revisa y tensa la cadena cada 1.000 km: holgura de 25-35 mm en el punto medio.",
@@ -1865,6 +1879,8 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
       "Control de tracción de serie",
       "17 L de depósito",
       "Precio de 4.999 € con seguro gratis",
+      "Control de tracción desconectable y ABS de doble canal de serie: un equipamiento de seguridad poco habitual por debajo de los 5.000 € (motofichas.com).",
+      "Depósito de 17 litros, el más generoso del segmento: con el consumo homologado supera los 350 km de autonomía sin repostar (directomotor.com).",
     ],
     contras: [
       "185 kg para una custom media",
@@ -1872,13 +1888,17 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
       "Sin modos de conducción",
       "Neumáticos CST de serie",
       "Vibraciones a alto régimen",
+      "185 kg en orden de marcha para 42 CV: la relación peso/potencia es justa frente a rivales que apuran los 47 CV del A2 (motofichas.com).",
+      "La pantalla TFT cuesta de leer con el sol de cara, según las pruebas de presentación (mototaller.info).",
     ],
     curiosidades: [
       "Es la primera custom de Macbor para el carnet A2",
       "Su TFT redonda de 90 mm tiene 4 interfaces personalizables",
       "Con 4,3 L/100 km roza los 400 km de autonomía",
+      "Macbor desarrolla la Rockster 410 con Zongshen, uno de los mayores fabricantes de motores de China, adaptando la mecánica a Europa (motofichas.com).",
+      "Llegó al mercado con una promoción de lanzamiento que incluía seguro a terceros gratis el primer año (mototaller.info).",
     ],
-    imagen: "/media/motos/macbor-rockster-410-2025-ficha-tecnica-precio-1.webp",
+    imagen: "/media/macbor-rockster-410-2025-ficha-tecnica-precio.webp",
     galeria: [
       {
         src: "/media/motos/macbor-rockster-410-2025-ficha-tecnica-precio-2.webp",
@@ -1895,9 +1915,9 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     ],
     videoId: null,
     videoCanal: null,
-    fuenteNombre: "Macbor",
-    fuenteUrl: "https://www.macbor.es",
-    analisisSlug: "macbor-rockster-410-2025-ficha-tecnica-precio",
+    fuenteNombre: "motofichas.com (prueba de la Rockster 410: precio 4.999 € y ficha técnica)",
+    fuenteUrl: "https://www.motofichas.com/pruebas/6931-prueba-macbor-rockster-410",
+    analisisSlug: "macbor-rockster-410-2025-analisis-opinion",
     mantenimientoDIY: {
       cadenaPasos: [
         "Revisa y tensa la cadena cada 1.000 km: holgura de 25-35 mm en el punto medio.",
@@ -2634,18 +2654,25 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
       "Frenos Brembo y ABS de doble canal",
       "Cámaras delantera y trasera de serie",
       "TFT de 6,8 pulgadas con conectividad total",
+      "Frenos Brembo (discos de 300 y 240 mm), ABS de doble canal y control de tracción TCS de serie: equipamiento de moto grande en una equivalente a 125 (NIU).",
+      "Dos baterías extraíbles de 72 V y 23 kg cada una que se cargan en un enchufe doméstico (4 h una, 7 h las dos): sin punto de recarga ni instalación (NIU).",
     ],
     contras: [
       "100 km de autonomía, justa para más que ciudad",
       "Unidades limitadas en España",
       "Sin carga rápida",
+      "Vuelve a España en unidades limitadas hasta fin de existencias: la disponibilidad por color y concesionario es incierta (NIU).",
+      "Sin medición independiente de autonomía real publicada: de momento hay que fiarse de los 95–105 km declarados por la marca (NIU).",
+      "186 kg con las dos baterías montadas: no es ligera para ser una equivalente a 125 (NIU).",
     ],
     curiosidades: [
       "Sus cámaras graban en bucle y suben el clip a la nube si detectan un impacto.",
       "El par máximo es de 450 Nm desde parado.",
       "NIU la vende en España desde 3.999 euros con 5 años de garantía.",
+      "Entrega 450 Nm de par desde parado, una cifra superior a la de muchas motos de 600 cc de gasolina (NIU).",
+      "Lleva cámaras delantera y trasera de serie, TFT de 6,8' y actualizaciones OTA: se maneja casi como un gadget con ruedas (NIU / movilidadelectrica.com).",
     ],
-    imagen: "/media/motos/niu-rqi-sport-2025-ficha-tecnica-precio-1.webp",
+    imagen: "/media/niu-rqi-sport-2025-ficha-tecnica-precio.webp",
     galeria: [
       {
         src: "/media/motos/niu-rqi-sport-2025-ficha-tecnica-precio-2.webp",
@@ -2662,9 +2689,9 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     ],
     videoId: null,
     videoCanal: null,
-    fuenteNombre: "NIU",
-    fuenteUrl: "https://global.niu.com/es/product/rqi-sport",
-    analisisSlug: "niu-rqi-sport-2025-ficha-tecnica-precio",
+    fuenteNombre: "NIU (web oficial España — precio recomendado con IVA incluido)",
+    fuenteUrl: "https://global.niu.com/es/product/RQi-Sport",
+    analisisSlug: "niu-rqi-sport-2025-analisis-opinion",
     mantenimientoDIY: null,
   },
   {

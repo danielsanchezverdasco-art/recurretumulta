@@ -1,0 +1,37 @@
+# Créditos de fotos — rescate fichas motos (tandas 1-3)
+
+29 fotos verificadas del modelo exacto (sin marca de agua). Origen: foto oficial del fabricante o de medio de prensa (columna «Origen»).
+
+**PENDIENTE (para Grok): validar la licencia de cada foto de medio antes de publicar** (el agente FOTOS las propone como uso editorial/prensa).
+
+| Archivo en el repo | URL exacta de origen | Tipo | Licencia |
+|---|---|---|---|
+| /media/beta-evo-300-2024-ficha-tecnica-precio.webp | https://www.betatrueba.com/wp-content/uploads/2024/01/EVO-FACTORY-300-2T-3_web.jpg | Foto de medio/fabricante (ver evidencia) | uso editorial, licencia por validar |
+| /media/harley-davidson-sportster-s-2024-ficha-tecnica-precio.webp | https://news.webike.net/wp-content/uploads/2024/02/20240213_bolt_2024-sportster-s-m02b-motorcycle-01_resulte-1024x683.jpg | Foto de medio/fabricante (ver evidencia) | uso editorial, licencia por validar |
+| /media/kawasaki-vulcan-s-2024-ficha-tecnica-precio.webp | https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Vulcan_S__GY1_STU__1_.png | Foto de medio/fabricante (ver evidencia) | uso editorial, licencia por validar |
+| /media/kawasaki-z650rs-2024-ficha-tecnica-precio.webp | https://ridermagazine.com/wp-content/uploads/2023/10/2024-Kawasaki-Z650RS-2.jpg | Foto de medio/fabricante (ver evidencia) | uso editorial, licencia por validar |
+| /media/kawasaki-z900-2025-ficha-tecnica-precio.webp | https://www.cyclenews.com/wp-content/uploads/2024/10/2025-kawasaki-z900-abs-se-first-look-and-specs-3-730x486.jpeg | Foto de medio/fabricante (ver evidencia) | uso editorial, licencia por validar |
+| /media/maeving-rm1-2024-ficha-tecnica-precio.webp | https://cdn.hiconsumption.com/wp-content/uploads/2021/11/Maeving-RM1-EBike-1.jpg | Foto de medio/fabricante (ver evidencia) | uso editorial, licencia por validar |
+| /media/yamaha-tenere-700-2024-ficha-tecnica-precio.webp | https://images5.1000ps.net/images_bikekat/2024/4-Yamaha/9557-Tenere_700/002-638295148694375414-yamaha-tenere-700.jpg | Foto de medio/fabricante (ver evidencia) | uso editorial, licencia por validar |
+| /media/yamaha-xsr700-2024-ficha-tecnica-precio.webp | https://www.yamahamotorsports.com/media/images_products/2024-xsr700/1200px/24-YAM-XSR700NB-US-SMX-360-03-11.JPG.webp | Foto de medio/fabricante (ver evidencia) | uso editorial, licencia por validar |
+| /media/aprilia-tuono-660-2024-ficha-tecnica-precio.webp | https://wide.piaggiogroup.com/articles/products/aprilia-tuono-660-potente-come-un-tuono-leggera-come-una-nuvola/foto21.jpg | Foto de medio/fabricante (ver evidencia) | uso editorial, licencia por validar |
+| /media/bmw-r-1300-rt-2025-ficha-tecnica-precio.webp | https://www.bimmertoday.de/wp-content/uploads/2025/04/BMW-R-1300-RT-2025-Boxer-Motorrad-12.jpg | Foto de medio/fabricante (ver evidencia) | uso editorial, licencia por validar |
+| /media/sym-adx-300-2025-ficha-tecnica-precio-1.webp | https://www.canariasenmoto.com/images/varias/SYM-scooter-ADX-300-blanco-34-izquierdo.jpg | Foto de medio/fabricante (ver evidencia) | uso editorial, licencia por validar |
+| /media/benelli-trk-902-stradale-2025-ficha-tecnica-precio-1.webp | https://www.roadbookmag.it/wp-content/uploads/2026/07/prova-benelli-trk-902-stradale-bianca.jpg | Foto de medio/fabricante (ver evidencia) | uso editorial, licencia por validar |
+| /media/kawasaki-z125-2024-ficha-tecnica-precio.webp | https://kawasaki-global-admin.com/ContentStorage/CKM/Products/5367/2758c870-e5e3-4a28-b63c-db3d7465898e.jpg?w=640 | Foto de medio/fabricante (ver evidencia) | uso editorial, licencia por validar |
+| /media/gasgas-ec-250-2t-2025-ficha-tecnica-precio-1.webp | https://savagemotorcycles.com.au/wp-content/uploads/2025/01/PHO_BIKE_90_LI_GASGAS-EC-250-MY25-90-left_23SALL_23AEPI_23V1-2-600x411.jpg | Foto de medio/fabricante (ver evidencia) | uso editorial, licencia por validar |
+| /media/suzuki-hayabusa-2025-ficha-tecnica-precio-1.webp | https://ridermagazine.com/wp-content/uploads/2024/12/2025-Suzuki-Hayabusa-Metallic-Matte-Steel-Green.jpg | Foto de medio/fabricante (ver evidencia) | uso editorial, licencia por validar |
+| /media/ktm-890-adventure-2024-ficha-tecnica-precio.webp | https://azwecdnepstoragewebsiteuploads.azureedge.net/PHO_BIKE_90_LI_890-ADVENTURE-Orange-MY23-90-Left_%23SALL_%23AEPI_%23V1.png | Foto de medio/fabricante (ver evidencia) | uso editorial, licencia por validar |
+| /media/honda-gold-wing-2024-ficha-tecnica-precio.webp | https://ridermagazine.com/wp-content/uploads/2023/10/2024-Honda-Gold-Wing_Matte-Armor-Green-Metallic_RHP.jpg | Foto de medio/fabricante (ver evidencia) | uso editorial, licencia por validar |
+| /media/aprilia-rs-660-2024-ficha-tecnica-precio.webp | https://images5.1000ps.net/images_bikekat/2024/9-Aprilia/9956-RS_660/002-638411750378826205-aprilia-rs-660.jpg | Foto de medio/fabricante (ver evidencia) | uso editorial, licencia por validar |
+| /media/benelli-leoncino-800-2024-ficha-tecnica-precio.webp | https://cdn.keeway.com/benelli-3-0/media/7501/conversions/2560x2180-(2)-md.png | Foto de medio/fabricante (ver evidencia) | uso editorial, licencia por validar |
+| /media/bmw-r-12-ninet-2024-ficha-tecnica-precio.webp | https://cdn.hiconsumption.com/wp-content/uploads/2023/05/2024-BMW-R-12-nineT-0-Hero.jpg | Foto de medio/fabricante (ver evidencia) | uso editorial, licencia por validar |
+| /media/fantic-xe-125-2025-ficha-tecnica-precio.webp | https://www.bikeit.gr/images/stories/afieromata/2025/fantic_2025/xe125.jpg | Foto de medio/fabricante (ver evidencia) | uso editorial, licencia por validar |
+| /media/kymco-downtown-350-2024-ficha-tecnica-precio.webp | https://images5.1000ps.net/images_bikekat/2024/24-Kymco/9660-New_Downtown_350i_ABS/001-638373768825766094-kymco-new-downtown-350i-abs.jpg | Foto de medio/fabricante (ver evidencia) | uso editorial, licencia por validar |
+| /media/livewire-one-2024-ficha-tecnica-precio.webp | https://www.autoblog.com/.image/MjA5MTIyNzkzMDEzNjUxMzAw/LiveWire%20One.jpg?profile=w828&ar=4-3&x=50&y=50 | Foto de medio/fabricante (ver evidencia) | uso editorial, licencia por validar |
+| /media/macbor-rockster-410-2025-ficha-tecnica-precio.webp | https://www.LeRepaireDesMotards.com/img/actu/2025/nouveaute/bobber-macbor-rockster-410-statique_hd.jpg | Foto de medio/fabricante (ver evidencia) | uso editorial, licencia por validar |
+| /media/niu-rqi-sport-2025-ficha-tecnica-precio.webp | https://lv.e-scooter.co/i/ni/ur/niu-rqi-sport/full/niu-rqi-3-1200x675.jpg | Foto de medio/fabricante (ver evidencia) | uso editorial, licencia por validar |
+| /media/qjmotor-fort-125n-2026-ficha-tecnica-precio.webp | https://qjmotor.es/wp-content/uploads/2025/09/QJ-MOTOR-nuevo-scooter-GT-Fort-125N-moto-urbana-125-gris-lateral-der-1.png | Foto de medio/fabricante (ver evidencia) | uso editorial, licencia por validar |
+| /media/super-soco-cpx-ficha-tecnica-precio.webp | https://www.motosan.es/wp-content/uploads/2024/01/DVFGHJKJHGFDS.jpg | Foto de medio/fabricante (ver evidencia) | uso editorial, licencia por validar |
+| /media/triumph-tiger-900-gt-2024-ficha-tecnica-precio.webp | https://www.visordown.com/sites/default/files/Tiger-900_GT-Pro_MY24_11143_JP.jpg?width=1600 | Foto de medio/fabricante (ver evidencia) | uso editorial, licencia por validar |
+| /media/yamaha-neos-ficha-tecnica-precio.webp | https://images.1000ps.net/images_bikekat/2024/4-Yamaha/11126-NEO_s/016-638295148633437772-yamaha-neos.jpg | Foto de medio/fabricante (ver evidencia) | uso editorial, licencia por validar |

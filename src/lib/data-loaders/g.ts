@@ -22,6 +22,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "gac-trumpchi-xiangwang-s9-2025-precio-autonomia": () => import("../blog-posts-lote11.ts"),
     "gac-trumpchi-xiangwang-s9-2025-precio-ficha-tecnica": () => import("../blog-posts-batch2b-6.ts"),
     "gasgas-ec-125-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m6.ts"),
+    "gasgas-ec-250-2t-2025-analisis-opinion": () => import("../blog-posts-motos-rescate-m2.ts"),
     "gasgas-ec-250-2t-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m6.ts"),
     "gasgas-ec-250f-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m6.ts"),
     "gasgas-ec-300-2t-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m6.ts"),

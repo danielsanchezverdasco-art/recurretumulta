@@ -63,6 +63,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "piaggio-1-active-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m1.ts"),
     "piaggio-1-plus-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m5.ts"),
     "piaggio-beverly-310-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m4.ts"),
+    "piaggio-beverly-400-2024-analisis-opinion": () => import("../blog-posts-motos-rescate-m2.ts"),
     "piaggio-beverly-400-2024-ficha-tecnica-precio": () => import("../blog-posts-prio2-1.ts"),
     "piaggio-liberty-125-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m4.ts"),
     "piaggio-liberty-125-2026-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m3.ts"),

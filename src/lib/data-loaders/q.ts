@@ -3,6 +3,7 @@
 export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
   blog: {
     "qjmotor-atr-125-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m11.ts"),
+    "qjmotor-fort-125n-2026-analisis-opinion": () => import("../blog-posts-motos-rescate-m3.ts"),
     "qjmotor-fort-125n-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m11.ts"),
     "qjmotor-fort-250-2026-precio-ficha-tecnica": () => import("../blog-posts-lote10.ts"),
     "qjmotor-fort-350-evo-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m11.ts"),

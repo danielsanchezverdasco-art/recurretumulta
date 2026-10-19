@@ -14,6 +14,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "fantic-caballero-700-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m6.ts"),
     "fantic-caballero-700-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m13.ts"),
     "fantic-stealth-500-2026-ficha-tecnica-precio": () => import("../blog-posts-lote8.ts"),
+    "fantic-xe-125-2025-analisis-opinion": () => import("../blog-posts-motos-rescate-m3.ts"),
     "fantic-xe-125-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m6.ts"),
     "fantic-xe-300-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m13.ts"),
     "fantic-xef-250-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m6.ts"),
