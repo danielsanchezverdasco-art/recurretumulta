@@ -202,104 +202,54 @@ kilo cuenta.`,
     emisionesCo2: null,
     aprox: [],
     notas:
-      "Datos técnicos y precio oficiales para España publicados en carado.com/es/es " +
-      "(verificado el 19/10/2026), página del modelo V337: precio base 56.590 € IVA " +
-      "incluido (versión Citroën Jumper; 57.790 € la versión Fiat Ducato); chasis Citroën " +
-      "Jumper 2.2 de 103 kW (140 CV) con cambio manual de 6 marchas; medidas 666/214/271 " +
-      "cm; altura interior 195 cm; distancia entre ejes 380 cm; 4 plazas; masa en orden de " +
-      "marcha 2.648 kg (rango 2.516-2.780); MMA 3.500 kg; remolque 2.000/750 kg; camas " +
-      "traseras 200x70 / 195x80 (unibles hasta 200-195x194 en opción); frigorífico 78 l " +
-      "(11 l congelador); calefacción Combi 4 Gas; agua 116/20 l; grises 92 l; 4 enchufes " +
-      "230 V; 2 USB; gas 2x11 kg. En null: cargaUtilKg (la marca no la publica), consumo, " +
-      "par y emisiones (no publicados por la marca).",
+      "Precio y datos técnicos oficiales para España, tomados de carado.com/es/es el " +
+      "19/10/2026 en la página del V337: 56.590 € IVA incluido de base (versión " +
+      "Citroën Jumper; 57.790 € la Fiat Ducato); Citroën Jumper 2.2 de 103 kW " +
+      "(140 CV) con manual de seis velocidades; 666/214/271 cm de medidas; 195 cm de " +
+      "altura interior; 380 cm de batalla; 4 plazas; 2.648 kg de masa en orden de marcha " +
+      "(horquilla 2.516-2.780); MMA de 3.500 kg; capacidad de remolque de 2.000/750 kg; " +
+      "camas traseras de 200x70 / 195x80 (ampliables a 200-195x194 como opción); " +
+      "frigorífico de 78 l con 11 l de congelador; calefacción Combi 4 de gas; 116/20 l " +
+      "de agua; 92 l de grises; cuatro tomas de 230 V; dos USB; gas en 2x11 kg. " +
+      "Permanecen en null: cargaUtilKg (no publicada), consumo, par y emisiones (sin " +
+      "dato oficial).",
     curiosidades:
-      "El V 337 pertenece a la gama «Van» de Carado: perfiladas estrechas de solo 214 cm " +
-      "de ancho, 18 cm menos que las perfiladas T de la marca (232 cm). Esa es su razón de " +
-      "ser: ofrecer la habitabilidad de una perfilada con una conducción y un aparcamiento " +
-      "casi de furgoneta camper. Fuente: datos técnicos oficiales en carado.com/es/es " +
+      "El V 337 milita en la gama «Van» de Carado: perfiladas estrechas de tan solo " +
+      "214 cm de ancho, 18 cm menos que las perfiladas T de la marca (232 cm). Ahí está " +
+      "su sentido: brindar la vida a bordo de una perfilada con una conducción y un " +
+      "aparcamiento próximos a los de una furgoneta camper. Fuente: datos técnicos " +
+      "oficiales de carado.com/es/es " +
       "(https://carado.com/es/es/autocaravanas/vans/v337) y análisis de la gama en " +
-      "outandaboutlive.co.uk (https://www.outandaboutlive.co.uk/motorhomes/news/meet-carados-slim-motorhomes-dont-sacrifice-comfort-and-practicality).",
-    descripcion: `El Carado V 337 es la perfilada estrecha pensada para quienes miran una
-autocaravana y piensan «demasiado grande», pero miran una camper y piensan «demasiado
-pequeña». Pertenece a la gama Van de Carado —la marca de acceso del grupo Hymer— y su
-cifra mágica es 214: son los centímetros de ancho de la célula, 18 menos que una
-perfilada convencional. Con 6,66 metros de largo, camas gemelas traseras y un precio
-base oficial en España de 56.590 euros, es una de las formas más racionales de
-estrenar autocaravana nueva sin hipotecar las vacaciones de la próxima década.
+      "outandaboutlive.co.uk " +
+      "(https://www.outandaboutlive.co.uk/motorhomes/news/meet-carados-slim-motorhomes-dont-sacrifice-comfort-and-practicality).",
+    descripcion: `El Carado V 337 es la respuesta para quien encuentra las autocaravanas «demasiado grandes» y las campers «demasiado pequeñas»: una perfilada estrecha que ocupa el hueco entre ambos mundos. Forma parte de la gama Van de Carado —la enseña de acceso del grupo Hymer— y su número fetiche es el 214: los centímetros de anchura de la célula, 18 menos que una perfilada tradicional. Mide 6,66 metros, duerme en camas gemelas traseras y parte de 56.590 euros oficiales en España: una de las vías más sensatas de comprar una autocaravana nueva sin comprometer las vacaciones de los próximos años.
 
-En medidas y habitabilidad, el V 337 demuestra que estrecho no significa agobiante. La
-altura interior es de 195 cm y la distribución es la que mejor funciona en este
-formato: salón delantero con banqueta y asientos giratorios de cabina, cocina lateral
-con armario ropero alto que separa ambientes, baño compacto con ducha y, al fondo,
-las dos camas individuales longitudinales (200 x 70 y 195 x 80 cm) que con el
-suplemento opcional se convierten en una gran superficie de 200-195 x 194. Debajo de
-las camas hay garaje con trampillas a ambos lados para las bicis y los trastos. Los
-depósitos (116 litros de agua limpia, 92 de grises) y el frigorífico de 78 litros con
-congelador de 11 están dimensionados para una pareja que viaja una o dos semanas sin
-complicaciones. La anchura contenida se nota sobre todo en marcha: gira, aparca y se
-cuela por calles donde una perfilada de 2,32 metros ya va midiendo retrovisores.
+Estrecho no equivale a agobiante, y el V 337 lo demuestra. Con 195 cm de altura interior, reparte el espacio con el plano que mejor rinde en este formato: salón delantero de banqueta con los asientos de cabina giratorios, cocina lateral flanqueada por un armario ropero alto que separa ambientes, baño compacto con ducha y, en la parte trasera, las gemelas longitudinales (200 x 70 y 195 x 80 cm) que con el suplemento opcional se funden en una superficie de 200-195 x 194. El garaje bajo las camas, con trampillas por ambos costados, acoge bicicletas y bultos. Agua limpia de 116 litros, grises de 92 y frigorífico de 78 litros con congelador de 11 están calculados para una pareja que rueda una o dos semanas sin sobresaltos. La cintura estrecha se agradece al volante: vira, aparca y se infiltra por callejuelas donde una perfilada de 2,32 metros ya calcula retrovisores.
 
-En tecnología y equipamiento, el V 337 de base española monta el Citroën Jumper 2.2
-BlueHDi de 140 CV con cambio manual de 6 marchas, tracción delantera, Start&Stop con
-booster de carga, control de crucero, frenada automática con detección de peatones,
-mantenimiento de carril, reconocimiento de señales y aviso de fatiga: el paquete de
-seguridad moderno, sin letra pequeña. La célula lleva calefacción Truma Combi 4 de
-gas, claraboya panorámica de 70 x 50 sobre el salón, mosquitera en la puerta,
-preinstalación de TV y de placa solar, y tomas de 230 V y USB repartidas. La
-carrocería, con techo y trasera en fibra de vidrio reforzada, tiene 7 años de garantía
-de estanqueidad. Quien prefiera Fiat puede pedir la versión Ducato desde 57.790 euros.
-Un detalle que agradecen los que vienen de una camper: la posición de conducción es
-la de un furgón grande, con buena visibilidad y mandos a mano, y el salpicadero no
-queda a años luz como en algunas integrales.
+La versión española se apoya en el Citroën Jumper 2.2 BlueHDi de 140 CV con cambio manual de seis marchas y tracción delantera, y suma de serie Start&Stop con booster de carga, programador de velocidad, frenada de emergencia con detección de peatones, ayuda de mantenimiento de carril, lector de señales y alerta de fatiga: el arsenal de seguridad actual, sin asteriscos. En la célula, calefacción Truma Combi 4 de gas, claraboya panorámica de 70 x 50 sobre el salón, mosquitera en la puerta, preinstalaciones de televisión y de placa solar, y enchufes de 230 V y USB distribuidos. Techo y zaga en fibra de vidrio reforzada, con 7 años de garantía de estanqueidad. Existe alternativa Fiat Ducato desde 57.790 euros. Y un apunte para ex-camperistas: la postura al volante es la de un furgón grande, con visibilidad generosa y mandos cercanos, sin el salpicadero lejano de algunas integrales.
 
-En camas y plazas, son cuatro plazas de viaje y dos para dormir en las gemelas de
-serie. Es una autocaravana de parejas, sin matices: no hay cama abatible ni literas,
-así que si la familia crece habrá que mirar el V 347, el hermano mayor de 6,98 metros
-con cama abatible en el salón. A cambio, las dos camas son largas, el acceso es
-cómodo con escalones y el garaje inferior queda libre para todo el equipo.
+Cuatro plazas para circular y dos camas en las gemelas de serie: el V 337 es una autocaravana de parejas, sin ambigüedades. No hay abatible ni literas, de modo que si la familia aumenta habrá que mirar al V 347, su hermano de 6,98 metros con cama abatible en el salón. A cambio, las camas son largas, se accede a ellas con escalones cómodos y el garaje queda despejado para todo el equipo.
 
-En mecánica, el Jumper 2.2 de 140 CV es un viejo conocido: fiable, con repuestos en
-cualquier parte y un consumo razonable para 3,5 toneladas. La MMA es de 3.500 kilos
-con carnet B y la masa en orden de marcha oficial es de 2.648 kilos, así que quedan
-unos 850 kilos teóricos para pasajeros, extras y equipaje antes de llegar al límite:
-una de las mejores relaciones peso/precio del segmento, aunque la marca limita los
-opcionales a 511 kilos para proteger la carga útil mínima. Remolca hasta 2.000 kilos
-frenados.
+El Jumper 2.2 de 140 CV es un clásico conocido: fiable, con recambios en cualquier rincón y un apetito moderado para 3,5 toneladas. Con 3.500 kilos de MMA (carnet B) y 2.648 kilos oficiales en orden de marcha, quedan unos 850 kilos teóricos para ocupantes, opciones y equipaje antes del tope: de las mejores proporciones peso/precio del segmento, aunque la marca topa los opcionales en 511 kilos para salvaguardar la carga útil mínima. Arrastra hasta 2.000 kilos con freno.
 
-En precio y red comercial en España, el dato es oficial y redondo: desde 56.590 euros
-con IVA en la versión Citroën (57.790 en Fiat), publicado en la web española de
-Carado. A ese precio hay que sumar lo que cada uno necesite —toldo, portabicis,
-segunda batería—, pero el punto de partida es de los más bajos entre las perfiladas
-nuevas con camas gemelas. La red de concesionarios del grupo Hymer cubre toda España,
-con servicio oficial y garantía europea.
+En precio y red en España, la cifra es oficial y clara: 56.590 euros con IVA en la versión Citroën (57.790 en la Fiat), publicada en la web española de Carado. Habrá que añadir lo que cada viajero necesite —toldo, portabicicletas, segunda batería—, pero el punto de partida figura entre los más bajos de las perfiladas nuevas con camas gemelas. La red del grupo Hymer cubre todo el país con servicio oficial y garantía europea.
 
-Cómo lo verificamos: página oficial del modelo en carado.com/es/es
-(https://carado.com/es/es/autocaravanas/vans/v337), consultada el 19/10/2026, con
-precio base, ficha técnica y equipamiento de serie; y artículo «Meet Carado's Slim
-Motorhomes» de outandaboutlive.co.uk para el contexto de la gama Van estrecha. Los
-campos sin dato oficial (carga útil, consumos, par, emisiones) quedan en null y
-declarados en las notas.
+Cómo lo verificamos: página oficial del modelo en carado.com/es/es (https://carado.com/es/es/autocaravanas/vans/v337), consultada el 19/10/2026, con precio de base, ficha técnica y dotación de serie; y el artículo «Meet Carado's Slim Motorhomes» de outandaboutlive.co.uk como contexto de la gama Van estrecha. Los apartados sin cifra oficial (carga útil, consumos, par, emisiones) permanecen en null y figuran en las notas.
 
-Para quién es: para parejas que dan el salto desde la tienda de campaña o la furgoneta
-y quieren una autocaravana nueva, estrecha y fácil de llevar por menos de 57.000
-euros; para quien aparca en ciudad o viaja por carreteras de montaña y agradece cada
-centímetro de menos; para el que duerme en camas gemelas y viaja ligero. No es para
-familias (solo dos plazas para dormir y sin opción de abatible en este modelo), ni
-para quien necesite una ducha separada amplia: el baño es compacto y funcional, como
-corresponde a 6,66 metros.`,
+Para quién es: parejas que saltan de la tienda o la furgoneta a una autocaravana nueva, estrecha y manejable por menos de 57.000 euros; conductores que aparcan en ciudad o ruedan por puertos de montaña y agradecen cada centímetro de menos; durmientes de camas gemelas que viajan ligeros. No es para familias (dos camas y ninguna abatible disponible en este modelo) ni para quien exija una ducha separada generosa: el baño es compacto y resolutivo, lo que corresponde a 6,66 metros.`,,
     pros: [
-      "Solo 214 cm de ancho: se conduce y aparca casi como una furgoneta camper",
-      "Precio oficial ES desde 56.590 €: de las perfiladas nuevas más asequibles con camas gemelas",
-      "Masa en orden de marcha de 2.648 kg: buena carga útil teórica bajo 3.500 kg",
-      "Paquete de seguridad moderno de serie (frenada auto, carril, señales, fatiga)",
-      "Camas gemelas largas unibles en una gran doble de 200-195x194 en opción",
+      "214 cm de anchura: se maneja y aparca casi como una camper",
+      "56.590 € oficiales en España: de las perfiladas nuevas con gemelas más asequibles",
+      "2.648 kg en orden de marcha: holgada carga útil teórica bajo los 3.500 kg",
+      "Seguridad actual de serie (frenada automática, carril, señales, fatiga)",
+      "Gemelas largas que se unen en una gran cama de 200-195x194 como opción",
     ],
     contras: [
-      "Solo 2 plazas para dormir y sin cama abatible opcional en este modelo",
-      "Baño compacto: funcional pero sin la amplitud de sus hermanas mayores",
-      "Altura interior de 195 cm, algo justa para viajeros muy altos",
-      "Cambio manual de 6 marchas: no hay opción automática en la versión base ES",
-      "Acabados sencillos acordes al precio: es gama de acceso, y se nota en detalles",
+      "Dos camas y ninguna abatible disponible en este modelo",
+      "Baño compacto: resolutivo, pero lejos de la amplitud de sus hermanas",
+      "195 cm de altura interior, justos para los más altos",
+      "Solo manual de seis marchas: sin automática en la base española",
+      "Acabados modestos, coherentes con el precio: es gama de acceso y se percibe",
     ],
     opiniones: [],
     galeria: [
