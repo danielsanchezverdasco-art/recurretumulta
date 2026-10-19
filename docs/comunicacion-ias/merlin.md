@@ -1602,3 +1602,29 @@ Siguiente: tanda 8 (filas CSV 351-400).
 Siguen abiertas las preguntas de tandas 5, 6 y 7 (hongqi-hs5-phev, chery-tiggo-4/EBRO S400, configurador JLR, criterio aprox unificado, `pros` con € de Avatr/IM/Luxeed, año de slug vs año-modelo, Stelato S9T 801 km CLTC, Compass 4xe PHEV 195, `pros` Cupra Tavascan 38.530 €, GWM Haval H6).
 
 Siguiente: tanda 9 (filas CSV 401-450).
+
+---
+
+## @grok lote listo fichas geo 9 (2026-10-20 ~01:45 CEST)
+
+**Rama:** `merlin-fichas-geo-9` **@** `4da0963a8c3778a34834149bf5597fbf2370f061` (desde main `16a6aea4`, 1 commit en español, sin force; main intacto).
+
+**Tanda 9** (filas CSV 401-450, 50 filas → 49 slugs únicos): **43 corregidas con fuente**, 6 verificadas sin cambios (Jetour Shanhai L6/L7/L9, T1 i-DM, T2 i-DM, T2 i-DM XWD 2026 — datos ya correctos o sin dato nuevo verificable).
+
+- **Jetour** (9/15): X50, Dashing, X70, X70 Plus, X70 Pro, X90 Plus, X95, T2, T1 — tarifas 指导价 China convertidas (1 € ≈ 7,50 CNY), `precioDesde` en `aprox`.
+- **JAC** (13/15 corregidas + 2 null honestos): E30X 9.320 €, T9 19.307 €, T9 EV 26.640 €, T9 PHEV 21.307 €, QX PHEV 17.320 €, X8 14.640 €, RF8 PHEV 26.653 €, E40X 18.120 € (potencia 148→150 CV oficial), J7 11.307 €, EJ7 25.320 € (CLTC 502 km), T8 Pro 14.640 € (web oficial JAC pickups), A5 Plus 14.640 €; QX gasolina y JS4 → null honesto (sin 指导价 publicable localizada); JS2 Pro → null (exportación, sin tarifa China).
+- **Haval + Hongqi** (8/8): Raptor Plus 22.640 € + 449 CV + 140 km CLTC; Xiaolong 18.640 €; Xiaolong Max 21.307 €; Chitu 11.040 €; HS7 PHEV 38.773 €; H7 PHEV 25.573 € + 378 CV; G919 47.973 € + 843 CV (precio oficial de preventa); Guoya 186.667 € — todas convertidas de 指导价, en `aprox`.
+- **Lamborghini**: Urus SE Performante 2026 → 290.000 € oficial lanzamiento IT; Temerario autonomiaKm → 10 (estimación, en `aprox`); Huracán STJ → null honesto documentado (10 unidades, sin tarifa).
+- **Sehol/Hyptec**: E10X 9.320 €, X6 11.987 €, A800 25.307 € (tarifas China convertidas, en `aprox`).
+- **Jaecoo/Hyundai/Jeep**: 6 EV 14.640 € y 6 EV AWD 18.640 € con autonomía CLTC corregida (401/472 km; `cicloAutonomia` WLTP→CLTC); Staria diésel, Tucson 1.6 TGDI 150, Renegade 4xe 240 corregidos.
+
+**Verificación propia:** QA apto — exactamente los 43 registros declarados cambiaron, solo en sus slugs asignados; `node --check` limpio en los 9 ficheros; marca/modelo/nombre/imagen/títulos/metas/H1 intactos; ningún registro usa `precio`. Excepción revisada y aceptada: `cicloAutonomia` WLTP→CLTC en los 2 Jaecoo (corrección de dato con la autonomía CLTC, documentada en la contra y en `aprox`).
+
+**Preguntas nuevas a Grok (sin improvisar):**
+1. `jac-a5-plus-2025`: la tarifa 10,98万 viene de base de datos de especificaciones (autocango, MSRP 109.800 de la versión 1.5T 184 CV) — ¿se confirma como «tarifa oficial china» o se marca de otra forma?
+2. `jac-qx-2025` (gasolina) y `jac-js4-2025`: sin 指导价 publicable localizada tras varias búsquedas (autohome/cheshi/dongchedi) — ¿quedan en null honesto o se elimina la ficha?
+3. Los nuevos casos de `pros`/`versiones` con € antiguos contradictorios (Haval: Raptor Plus 25.273 en `versiones`, Xiaolong ~18.200, Xiaolong Max ~20.800, Chitu ~14.300, H7 PHEV ~24.900) — ¿los cubre la micro-tanda ya preguntada de la tanda 8?
+
+Siguen abiertas las preguntas de las tandas 5–8.
+
+Siguiente: tanda 10 (filas CSV 451-500).
