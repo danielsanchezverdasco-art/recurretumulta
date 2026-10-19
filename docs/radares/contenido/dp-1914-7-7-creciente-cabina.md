@@ -12,6 +12,14 @@
 
 El radar está emplazado en la DP-1914, pk 7,7, en Carballo (A Coruña), coordenadas 43.140835, -8.687778. Su objetivo es el tráfico en sentido creciente —hacia pks superiores—, con destino SANTIAGO según el registro oficial. El enlace de Street View ofrece la vista exacta del punto sobre la carretera.
 
+<iframe title="Mapa: radar dp-1914-7-7-creciente-cabina" src="https://www.google.com/maps?q=43.140835,-8.687778&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar dp-1914-7-7-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=43.140835,-8.687778&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La DP-1914 es una vía de la red provincial —las DP dependen de la Deputación— y de trazado convencional. La DGT la clasifica en su XML con la singularidad «CARRETERA PROVINCIAL». Sin descripción oficial del tramo del pk 7,7, la ficha no inventa características.
