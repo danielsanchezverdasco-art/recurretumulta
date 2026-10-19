@@ -600,3 +600,14 @@ Notas:
 ### Líneas pendientes de F3b/F7b (detectadas en verificación 19/10)
 | /media/chausson-640-titanium-2026-precio-ficha-tecnica-oficial.webp | https://www.motorhomes-chausson.co.uk/wp-content/uploads/Titanium_640_Benjamin-Celier-2018-13.jpg | Chausson | prensa oficial (fotógrafo Benjamin Celier, serie 2018) |
 | /media/laika-ecovip-600-2026-precio-ficha-tecnica-oficial-corte.webp | web oficial laika.it vía archivo (fichero original «24-Laika-Ecovip-600-Update_a-2130x1091.png»); la colección 2026 fue eliminada de laika.it | Laika | web oficial del fabricante (render 3D en corte) |
+### Fotos regla relajada 19/10 (no oficiales, modelo exacto verificado)
+| /media/benimar-amphitryon-940-2026-precio-ficha-tecnica-interior2.webp | https://www.campingcarlesite.com/achat-camping-car/73043-benimar-amphitryon-a940-vrai-camping-car-cinq-places-moins-de-sept-metres | Camping-Car Le Site (red de distribución francesa) | foto de prensa |
+| /media/benimar-amphitryon-940-2026-precio-ficha-tecnica-ext2.webp | https://www.benimar.es/wp-content/uploads/A7401799-Editar-1024x682.jpg | Benimar (web oficial, página del Amphitryon A940) | foto oficial del fabricante |
+| /media/benimar-mileo-243-2026-precio-ficha-tecnica-interior2.webp | https://www.traillite.co.nz/motorhomes/benimar/benimar-mileo/mileo-243/ | TrailLite Group (distribuidor oficial Benimar en Nueva Zelanda) | foto de prensa (816 px, sin versión mayor) |
+| /media/benimar-sport-340-up-2026-precio-ficha-tecnica-interior2.webp | https://www.kresalacaravan.com/eu/kaputxina-5-plaza | KresalaCaravan (foto de prensa del fabricante reutilizada en su galería) | foto de prensa |
+| /media/benimar-sport-340-up-2026-precio-ficha-tecnica-interior3.webp | https://www.kresalacaravan.com/eu/kaputxina-5-plaza | KresalaCaravan (foto de prensa del fabricante reutilizada en su galería) | foto de prensa |
+| /media/laika-kosmo-l-319-2026-precio-ficha-tecnica-interior2.webp | https://scrollcamper.com/uploads/campers/81/laika-kosmo-l-319-07.jpg | scrollcamper.com (anuncio «Laika Kosmo L 319 semintegrale 2020 usato») | foto del anuncio |
+| /media/laika-kosmo-l-319-2026-precio-ficha-tecnica-interior3.webp | https://scrollcamper.com/uploads/campers/81/laika-kosmo-l-319-14.jpg | scrollcamper.com (anuncio «Laika Kosmo L 319 semintegrale 2020 usato») | foto del anuncio |
+| /media/xgo-x-van-104-2026-precio-ficha-tecnica-ext2.webp | https://mx7.topdovca.cz/data/images/cars/5jw1y17qxehzwqsqgsvrj683s4ou33.jpg | Top Dovča (topdovca.cz) | — |
+| /media/xgo-x-van-104-2026-precio-ficha-tecnica-interior2.webp | https://travel-cars.ru/wp-content/uploads/2023/04/b.jpg | Travel-Cars.ru (foto de prensa oficial XGO, página dedicada al X-Van 104) | foto de prensa oficial |
+| /media/xgo-x-van-104-2026-precio-ficha-tecnica-interior3.webp | https://travel-cars.ru/wp-content/uploads/2023/04/zh.jpg | Travel-Cars.ru (foto de prensa oficial XGO, página dedicada al X-Van 104) | foto de prensa oficial |
