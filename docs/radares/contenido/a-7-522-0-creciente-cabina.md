@@ -12,6 +12,14 @@
 
 Nos situamos en el **pk 522,0 de la A-7**, en plena provincia de Alicante. Cubre el **sentido creciente**, el de quienes se desplazan hacia pk crecientes. La localidad asignada al punto exacto es **Elx/Elche**; la determinación es del servicio oficial, no una suposición nuestra. El punto vigilado más cercano es el de la **CV-86, pk 13,8** (sentido creciente): queda a 8,3 km hacia el este.
 
+<iframe title="Mapa: radar a-7-522-0-creciente-cabina" src="https://www.google.com/maps?q=38.26088,-0.75585&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-7-522-0-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.26088,-0.75585&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La A-7 es la Autovía del Mediterráneo, el gran corredor del litoral. La intensidad varía por franjas: mañanas laborables densas, tardes más fluidas. El entorno es el sureste valenciano, típico de esta parte de la provincia.
