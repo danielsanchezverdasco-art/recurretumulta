@@ -559,3 +559,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/porsche-cayenne-turbo-e-hybrid-2026-precio-ficha-tecnica-hunt1.webp | https://finder.porsche.com/us/en-US/details/porsche-cayenne-turbo-ehybrid-coupe-new-89RG4Q | Porsche Finder | desconocida |
 | /media/porsche-cayenne-turbo-e-hybrid-2026-precio-ficha-tecnica-hunt2.webp | https://finder.porsche.com/us/en-US/details/porsche-cayenne-turbo-ehybrid-coupe-new-DO7N6P | Porsche Finder | desconocida |
 | /media/porsche-cayenne-turbo-e-hybrid-2026-precio-ficha-tecnica-hunt3.webp | https://www.km77.com/coches/porsche/cayenne/2024/coupe/phev/cayenne-turbo-e-hybrid-coupe/datos | km77 | desconocida |
+| /media/isinwheel-s10max-hunt1.webp | https://www.isinwheel.com/products/isinwheel-s10max-1000w-high-end-commuting-electric-scooter | iSinwheel (web oficial) | desconocida |
+| /media/isinwheel-s10max-hunt2.webp | https://shop.bcescooter.com/products/isinwheel-s10max-high-end-commuting-electric-scooter | BCE Scooter | desconocida |
+| /media/isinwheel-s10max-hunt3.webp | https://streetrides.ca/products/isinwheel-s10max-1000w-high-end-commuting-electric-scooter-max-speed-45-kph-range-60-km | StreetRides | desconocida |
+| /media/walberg-egret-gt-hunt1.webp | https://ejunkie.de/egret-gt-e-scooter-komfort-mit-wechselakku-erleben/ | eJunkie.de | desconocida |
+| /media/walberg-egret-gt-hunt2.webp | https://ejunkie.de/egret-gt-e-scooter-komfort-mit-wechselakku-erleben/ | eJunkie.de | desconocida |
+| /media/walberg-egret-gt-hunt3.webp | https://zero-center.com/collections/roller | Zero Center | desconocida |
+| /media/sym-adx-300-2025-ficha-tecnica-precio-hunt1.webp | https://www.canariasenmoto.com/images/varias/SYM-scooter-ADX-300-blanco-34-izquierdo.jpg | Canariasenmoto | desconocida |
+| /media/sym-adx-300-2025-ficha-tecnica-precio-hunt2.webp | https://www.symmotos.ch/content/dam/moteo/sym/categories-and-models/Maxiscooter/adx300/m5/model-color-page/ADX300_BK-007U_M5_SYM.jpg | SYM Suiza (oficial) | desconocida |
+| /media/sym-adx-300-2025-ficha-tecnica-precio-hunt3.webp | https://www.2wo.gr//cache/com_dpfields/gallery/2/900x600/Market/2024/October/SYM-ADX-300/07_ADX300_360.jpg | 2wo.gr | desconocida |
+| /media/turboant-m10-lite-hunt1.webp | https://turboant.com/cdn/shop/files/M10-Lite-_1_2259e236-60ae-4486-bd7b-ff578ffa3211.jpg?crop=center&height=1680&v=1769933803&width=1680 | TurboAnt (oficial) | desconocida |
+| /media/turboant-m10-lite-hunt2.webp | https://cdn.shopify.com/s/files/1/0103/7054/7793/products/M10-Lite-_18_1680x1680.jpg?v=1671610502 | TurboAnt (oficial) | desconocida |
+| /media/turboant-m10-lite-hunt3.webp | https://deling-innovations.com/product/m10/1-3-M10-Lite-_20.webp | Deling Innovations | desconocida |
+| /media/soflow-so2-air-gen-3-hunt1.webp | https://www.starlink.qa/en/products/soflow-e-scooter-so2-air-3rd-gen | Starlink Qatar (tienda oficial) | desconocida |
+| /media/soflow-so2-air-gen-3-hunt2.webp | https://www.jumbo.ch/de/velo-mobilitaet/velo/e-scooter-e-roller/soflow-e-scooter-so2-air-gen3-gruen--350-w/p/7190052 | JUMBO (tienda, Suiza) | desconocida |
+| /media/soflow-so2-air-gen-3-hunt3.webp | https://efahrt.com/en/product/soflow-so2-air-gen-3 | Idealo / eFahrt | desconocida |
+| /media/sym-jet-x-125-2026-ficha-tecnica-precio-hunt1.webp | https://kawasaki.fahrzeuge-haupt.de/de/motorrad-modell-sym-jet-x-125-10607-2026 | 1000ps.net (BikeKat SYM Jet X 125 2026) | desconocida |
+| /media/sym-jet-x-125-2026-ficha-tecnica-precio-hunt2.webp | https://dealer.moto24.ro/scutere/sym-jet-x-2026/ | Dealer Moto24 (Romania) | desconocida |
+| /media/sym-jet-x-125-2026-ficha-tecnica-precio-hunt3.webp | https://www.motorradschmiede.de/motorrad-shop-online-kaufen/sym-jet-x-125i/ | Motorradschmiede | desconocida |
+| /media/gotrax-g6-hunt1.webp | https://gotrax.ca/cdn/shop/files/g6-electric-scooter-362830_900x_79920d17-3bcc-468b-a340-c93695c1fb7a.jpg?v=1774433397&width=800 | Gotrax (web oficial Canadá) | desconocida |
+| /media/gotrax-g6-hunt2.webp | https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6541/6541291_sd.jpg;canvasHeight=500;canvasWidth=500 | Best Buy (foto de producto) | desconocida |
+| /media/gotrax-g6-hunt3.webp | https://streetrides.ca/cdn/shop/files/gotrax-g6-electric-scooter-studio-view_1200x.png?v=1779180474 | Street Rides Canada (tienda) | desconocida |
+| /media/jeep-wrangler-4xe-380-2026-precio-ficha-tecnica-hunt1.webp | https://img.vinchain.io/2026/06/07/cb/04b7e2b78e5bd620_0492f3ba72c089.jpg | EpicVin (anuncio lote 2026 Jeep Wrangler) | desconocida |
+| /media/jeep-wrangler-4xe-380-2026-precio-ficha-tecnica-hunt2.webp | https://carup.se/wp-content/uploads/2026/01/Wrangler-4xe-1024x576.webp | Carup.se (blog del motor sueco) | desconocida |
+| /media/jeep-wrangler-4xe-380-2026-precio-ficha-tecnica-hunt3.webp | https://myjeepusa.com/wp-content/uploads/2025/09/2026-Jeep-Wrangler-4xe-Interior-768x559.jpg | MyJeepUSA | desconocida |
