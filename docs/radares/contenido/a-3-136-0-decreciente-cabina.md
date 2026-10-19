@@ -12,6 +12,15 @@
 
 La ficha oficial sitúa el control en la **A-3, pk 136,0**, provincia de Cuenca. Registra a los vehículos que marchan en **sentido decreciente**, hacia pk decrecientes. Si conoces la zona, el pk 136,0 te orientará mejor que la propia cabina: los equipos rotan, la ubicación publicada no cambia. A 18,8 km hacia el sureste está el control más próximo, el de la **A-3, pk 156,6** (sentido creciente). El siguiente punto por cercanía es el de la **A-40, pk 299,5** (sentido creciente), a 33,2 km hacia el noreste. A esta altura de la vía, el conductor ya ha adoptado un ritmo que conviene revisar antes del control.
 
+<iframe title="Mapa: radar a-3-136-0-decreciente-cabina" src="https://www.google.com/maps?q=39.81639,-2.46931&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-3-136-0-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.81639,-2.46931&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 Circulamos por la A-3, la Autovía del Este, que une Madrid con Valencia. Por aquí discurre el tráfico interregional junto al de los desplazamientos cortos de la zona. El control fijo en este punto pretende disciplinar la velocidad del flujo circulatorio. Entre los 3 radares publicados para la A-3 en la región, este es el segundo en orden de pk. En la misma A-3, el control más próximo es el del pk 156,6 (sentido creciente): dista 18,8 km hacia el sureste. El mensaje de fondo: adaptar la velocidad al tramo es aquí especialmente importante. En resumen, una vía que exige lo esencial: atención, respeto a las señales y velocidad contenida.
