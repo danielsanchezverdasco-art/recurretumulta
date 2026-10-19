@@ -4630,3 +4630,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/westfalia-columbus-600d-2026-precio-ficha-tecnica-hunt1.webp | https://www.kosi-busse.de/data/_processed_/2/6/csm_westfalia-columbus-600d-01_86f36f376d.jpg | Kosi Busse (foto oficial Westfalia) | desconocida |
 | /media/westfalia-columbus-600d-2026-precio-ficha-tecnica-hunt2.webp | https://westfalia-mobil.com/wp-content/uploads/2024/12/columbus-600d-1200x800-1-1024x683.jpg | Westfalia Mobil (prensa oficial) | desconocida |
 | /media/westfalia-columbus-600d-2026-precio-ficha-tecnica-hunt3.webp | https://www.campersales.co.uk/guides/westfalia/columbus-600d-2024-main-full.jpg | CamperSales (foto oficial Westfalia) | desconocida |
+| /media/baojun-enjoy-2025-precio-ficha-tecnica-hunt1.webp | https://www.hibridosyelectricos.com/uploads/s1/90/61/49/baojun-xiang-jing_17_2000x1126.jpeg | Híbridos y Eléctricos (foto de prensa oficial Baojun) | desconocida |
+| /media/baojun-enjoy-2025-precio-ficha-tecnica-hunt2.webp | https://s3.xchuxing.com/xchuxing/article/2025/04/08/202504080114549868.jpg | XinChuXing (新出行) | desconocida |
+| /media/baojun-enjoy-2025-precio-ficha-tecnica-hunt3.webp | https://wcevcar.com/static/upfiles/202507/68637d0fb5af8.webp | WanCheng EV Car | desconocida |
+| /media/dongfeng-nammi-06-2025-precio-ficha-tecnica-hunt1.webp | https://www.arthikpati.com/wp-content/uploads/2026/05/Dongfeng-Nammi-06-side.jpg.jpeg | Arthikpati (Nepal) | desconocida |
+| /media/dongfeng-nammi-06-2025-precio-ficha-tecnica-hunt2.webp | http://www.zeexauto.com/cdn/shop/articles/fcd46840c6424a9e88cbc12126a38bb8_2508x0_dd1a3a89-bc70-4cc6-9353-ee4469cce32c.webp?v=1766684046 | ZeexAuto (material de prensa Dongfeng Nammi) | desconocida |
+| /media/dongfeng-nammi-06-2025-precio-ficha-tecnica-hunt3.webp | https://image-oversea.guazistatic-global.com/ovp/product/prod/dongfeng-nammi-06-2025-yellow-interior-4-l8a8cxymmj.jpg | Guazi (foto de prensa) | desconocida |
+| /media/honda-cl500-2026-ficha-tecnica-precio-hunt1.webp | https://soymotero.net/wp-content/uploads/2025/09/Honda-CL500-2026-11.jpg.webp | SoyMotero (foto de prensa Honda) | desconocida |
+| /media/honda-cl500-2026-ficha-tecnica-precio-hunt2.webp | https://plus.webike.hk/wp-content/uploads/2025/08/2250822-cl500_003H_2025-08-22-14-34-45-1024x683.jpg | Webike (foto de prensa Honda Japón) | desconocida |
+| /media/honda-cl500-2026-ficha-tecnica-precio-hunt3.webp | https://images5.1000ps.net/images_bikekat/2026/2-Honda/11390-CL500/004-639003634304367282-honda-cl500.jpg?format=webp&quality=80&trim.threshold=80&trim.percentpadding=1&scale=both&width=1388&height=980&bgcolor=rgba_39_42_44_0&mode=pad | 1000PS (foto de catálogo Honda) | desconocida |
+| /media/wey-07-2024-precio-ficha-tecnica-hunt1.webp | https://cdn.autopapo.com.br/box/uploads/2024/08/08124822/gwm_wey_07.jpg | Autopapo (foto de prensa GWM Wey) | desconocida |
+| /media/wey-07-2024-precio-ficha-tecnica-hunt2.webp | https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUnahlRjbcKQJCLC7qCMU3dbKtH2LRmPgS4jzpymXK7SBJR-T6JltimoAO2s04MuXUZ6WdszAieM1aizWc7QJc85idr-s2Ou9hyN99WaaaFe9UGgHAPYaVC2ouoHeNLCIEJTiXQShPl5tzn2qDp6KpuC8G6PPymjt9RwHSEuoaS_x-qMaPZWilJsGJBcXv/s16000/Great-Wall-Motor-WEY-07-9.jpg | MooTr | desconocida |
+| /media/wey-07-2024-precio-ficha-tecnica-hunt3.webp | http://www.ixbt.com/img/r30/00/02/79/15/20241126091559.jpg | iXBT (foto real de prueba) | desconocida |
+| /media/dongfeng-aeolus-huge-2023-precio-ficha-tecnica-hunt1.webp | https://www.lautomobile.aci.it/attualita/dongfeng-huge-il-suv-cinese-debutta-in-italia-i-prezzi/ | lautombile.aci.it | desconocida |
+| /media/dongfeng-aeolus-huge-2023-precio-ficha-tecnica-hunt2.webp | https://www.iperauto.it/dongfeng | iperauto.it | desconocida |
+| /media/dongfeng-aeolus-huge-2023-precio-ficha-tecnica-hunt3.webp | https://tessdrive.com/dongfengs-offer-buy-2-cars-for-the-price-of-1/ | tessdrive.com | desconocida |
+| /media/ebro-s700-phev-2026-precio-ficha-tecnica-hunt1.webp | https://segundamano.motorgiga.com/ebro/s700/en-barcelona/3768224/se-vende-ebro-s700-15-tgdi-phev-premium-e-cvt-2026-34500-eur | motorgiga.com | desconocida |
+| /media/ebro-s700-phev-2026-precio-ficha-tecnica-hunt2.webp | https://carnovo.com/es/guias/mejores-suv-chinos/ | carnovo.com | desconocida |
+| /media/ebro-s700-phev-2026-precio-ficha-tecnica-hunt3.webp | https://carnovo.com/es/guias/ | carnovo.com | desconocida |
+| /media/kawasaki-ninja-500-se-2025-ficha-tecnica-precio-hunt1.webp | https://kawa-go.kawasaki.es/storage/images/models/ninja-500-se-sport-2025-2839-verde-1500.jpg | kawa-go.kawasaki.es (Kawasaki España) | desconocida |
+| /media/kawasaki-ninja-500-se-2025-ficha-tecnica-precio-hunt2.webp | https://cdn-listino.inmoto.it/2024/11/19/25_EX_500_J_242_GN_3_ARF_2_CD_A_58e66eac91.jpg | inmoto.it | desconocida |
+| /media/kawasaki-ninja-500-se-2025-ficha-tecnica-precio-hunt3.webp | https://cdn-listino.inmoto.it/2024/11/19/25_EX_500_J_242_GN_3_ALFB_2_CD_A_867f2a6e0f.jpg | inmoto.it | desconocida |
+| /media/wey-v8x-2026-precio-ficha-tecnica-hunt1.webp | https://img-ik.cars.co.za/news-site-za/images/2026/08/gwm-wey-v8x-dyna.jpg?tr=w-800 | cars.co.za | desconocida |
+| /media/wey-v8x-2026-precio-ficha-tecnica-hunt2.webp | https://newscentral.com.br/wp-content/uploads/2026/07/wey-v8x-1.jpg | newscentral.com.br | desconocida |
+| /media/wey-v8x-2026-precio-ficha-tecnica-hunt3.webp | https://evmagz.com/wp-content/uploads/2026/08/Wey-V8X-1024x576.jpg | evmagz.com | desconocida |
