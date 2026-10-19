@@ -61,9 +61,6 @@ function scanIds(pattern, exclude) {
 const COCHE_LOADERS = scanIds(/^comparador-coches-.*\.ts$/, /^comparador-coches-data\.ts$/);
 const MOTO_LOADERS = scanIds(/^comparador-motos-.*\.ts$/, /^comparador-motos-data\.ts$/);
 const PATINETE_LOADERS = scanIds(/^comparador-patinetes-.*\.ts$/, /^comparador-patinetes-data\.ts$/);
-// 19/10/2026 (campers): las fichas viven en comparador-campers-*.ts
-// con el mismo tipo CocheComparador (tipo "Camper").
-const CAMPER_LOADERS = scanIds(/^comparador-campers-.*\.ts$/, /^$/);
 
 // ── 3. Historia: id -> fichero ───────────────────────────────────────────
 const HISTORIA_LOADERS = new Map();
@@ -207,7 +204,6 @@ const DOMAINS = {
   coche: COCHE_LOADERS,
   moto: MOTO_LOADERS,
   patinete: PATINETE_LOADERS,
-  camper: CAMPER_LOADERS,
   historia: HISTORIA_LOADERS,
   euroncap: EURONCAP_LOADERS,
   galeria: GALERIA_LOADERS,
@@ -280,7 +276,6 @@ console.log("data-loaders:", {
   coches: COCHE_LOADERS.size,
   motos: MOTO_LOADERS.size,
   patinetes: PATINETE_LOADERS.size,
-  campers: CAMPER_LOADERS.size,
   historia: HISTORIA_LOADERS.size,
   euroncap: EURONCAP_LOADERS.size,
   galerias: GALERIA_LOADERS.size,
@@ -301,7 +296,6 @@ console.log("data-loaders:", {
     ["scripts/coches-slugs.txt", COCHE_LOADERS],
     ["scripts/motos-slugs.txt", MOTO_LOADERS],
     ["scripts/patinetes-slugs.txt", PATINETE_LOADERS],
-    ["scripts/campers-slugs.txt", CAMPER_LOADERS],
   ];
   let missing = 0;
   for (const [file, map] of checks) {
