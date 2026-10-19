@@ -2466,3 +2466,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/byd-seal-u-ev-design-87kwh-2026-precio-ficha-tecnica-hunt1.webp | https://media.byd.com/wp-content/uploads/2025/11/f50f7a0dd5280e32b242138754480f22-l.jpg.webp | BYD (prensa oficial) | desconocida |
 | /media/byd-seal-u-ev-design-87kwh-2026-precio-ficha-tecnica-hunt2.webp | https://st.arenaev.com/specs/byd/byd-seal-u-side-1.jpg | arenaev | desconocida |
 | /media/byd-seal-u-ev-design-87kwh-2026-precio-ficha-tecnica-hunt3.webp | https://www.log.com.tr/wp-content/uploads/2025/07/otv-dilimi-degisen-byd-seal-u-ev-765-bin-tl-zam-gordu.jpg | log.com.tr | desconocida |
+| /media/navee-v50i-pro-hunt1.webp | https://www.wellbots.com/products/navee-v50i-pro-e-scooter | Wellbots / retail (foto de producto) | desconocida |
+| /media/navee-v50i-pro-hunt2.webp | https://bottari.pl/hulajnogi-elektryczne/954-hulajnoga-elektryczna-navee-v50i-pro-6975293672460.html | Bottari.pl / retail (foto de producto) | desconocida |
+| /media/navee-v50i-pro-hunt3.webp | https://www.trendyol.com/navee/v50i-pro-elektrikli-scooter-50-km-menzil-25-km-hiz-700w-guc-katlanir-scooter-ipx5-doubleflip-p-923376953 | Trendyol / retail (foto de producto) | desconocida |
+| /media/yamaha-mt-09-2025-ficha-tecnica-precio-hunt1.webp | https://yamahamotorsports.com/models/25-mt-09 | Yamaha Motorsports USA (web oficial) | desconocida |
+| /media/yamaha-mt-09-2025-ficha-tecnica-precio-hunt2.webp | https://yamahamotorsports.com/models/25-mt-09 | Yamaha Motorsports USA (web oficial) | desconocida |
+| /media/yamaha-mt-09-2025-ficha-tecnica-precio-hunt3.webp | https://www.wokingyamaha.co.uk/yamaha-new-bikes/asset/2025-mt-09/ | wokingyamaha.co.uk | desconocida |
+| /media/arcfox-alfa-t5-2024-precio-ficha-tecnica-hunt1.webp | https://www.cevauto.com/arcfox-alpha-t5/ | CEVAUTO | desconocida |
+| /media/arcfox-alfa-t5-2024-precio-ficha-tecnica-hunt2.webp | https://getcarnews.com/ | GetCarNews | desconocida |
+| /media/arcfox-alfa-t5-2024-precio-ficha-tecnica-hunt3.webp | https://asiaexpressauto.ru/auto/arcfox_arcfox-alpha-t5_530976/ | AsiaExpressAuto | desconocida |
+| /media/kawasaki-ninja-1000sx-2025-ficha-tecnica-precio-hunt1.webp | https://www.kawasaki.ee/content/dam/products/pim/studio/nin/Resource_299984_24MY_Ninja_1000SX_Tourer_GN1_Front.jpg | Kawasaki (foto de prensa oficial) | desconocida |
+| /media/kawasaki-ninja-1000sx-2025-ficha-tecnica-precio-hunt2.webp | https://bumpygoat-uk.s3.us-east-005.backblazeb2.com/coches/2025-kawasaki-ninja-1000sx-id31929-pic3.webp | Bumpy Goat / York Motorbikes (foto de concesionario) | desconocida |
+| /media/kawasaki-ninja-1000sx-2025-ficha-tecnica-precio-hunt3.webp | https://www.kawasaki.eu/content/dam/products/pim/studio/nin/Resource_299968_24MY_Ninja_1000SX_Performance_BK1_Rear.jpg | Kawasaki (foto de prensa oficial) | desconocida |
+| /media/suzuki-address-125-2026-ficha-tecnica-precio-hunt1.webp | https://bikes.suzuki.co.uk/news/suzuki-releases-updated-address-125-scooter/ | Suzuki GB (web oficial) | desconocida |
+| /media/suzuki-address-125-2026-ficha-tecnica-precio-hunt2.webp | https://www.motogb.co.uk/model/2026-suzuki-address-125-137 | MotoGB (distribuidor Suzuki Reino Unido) | desconocida |
+| /media/suzuki-address-125-2026-ficha-tecnica-precio-hunt3.webp | https://www.1000ps.at/modellnews-id-3013676-suzuki-address-125-2026-technisch-aufgewertet-fuer-den-alltag | 1000PS | desconocida |
+| /media/skoda-enyaq-coupe-rs-2026-precio-ficha-tecnica-hunt1.webp | https://www.planetcarsz.com/noticias-de-carros/skoda-enyaq-rs-e-enyaq-coupe-rs-revelado-facelift-das-versoes-apimentadas-do-suv-checo | Planet Cars Z / Skoda | desconocida |
+| /media/skoda-enyaq-coupe-rs-2026-precio-ficha-tecnica-hunt2.webp | https://www.infomotive.be/skoda-enyaq-coupe-rs-facelift-test-elektrische-rs-met-340-pk/ | Infomotive | desconocida |
+| /media/skoda-enyaq-coupe-rs-2026-precio-ficha-tecnica-hunt3.webp | https://www.carandbike.com/news/skoda-enyaq-rs-enyaq-coupe-rs-facelift-debut-with-improved-range-faster-charging-3216981 | Car and Bike / Skoda | desconocida |
+| /media/ktm-390-smc-r-2025-ficha-tecnica-precio-hunt1.webp | https://ridermagazine.com/2025-ktm-390-smc-r/ | Rider Magazine | desconocida |
+| /media/ktm-390-smc-r-2025-ficha-tecnica-precio-hunt2.webp | https://www.motoplanete.us/ktm/11035/390-SMC-R-2025/contact.html | Motoplanète | desconocida |
+| /media/ktm-390-smc-r-2025-ficha-tecnica-precio-hunt3.webp | https://ridermagazine.com/2025-ktm-390-smc-r/ | Rider Magazine | desconocida |
+| /media/ktm-890-smt-2026-ficha-tecnica-precio-hunt1.webp | https://images.medialinksonline.com/imagestream/18510/9197299x918x629_FFFFFF_L_0.jpg | KTM London UK (foto oficial KTM) | desconocida |
+| /media/ktm-890-smt-2026-ficha-tecnica-precio-hunt2.webp | https://news.webike.net/wp-content/uploads/2023/05/890smt2023_0511KTM-890-SMT-2_result-1024x683.jpg | Webike (foto oficial KTM) | desconocida |
+| /media/ktm-890-smt-2026-ficha-tecnica-precio-hunt3.webp | https://live.staticflickr.com/65535/52878757546_804914e775.jpg | Motoplanete | desconocida |
