@@ -2806,3 +2806,12 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/morbidelli-t352x-hunt1.webp | https://soymotero.net/pruebas/prueba-morbidelli-t352x/ | SoyMotero | desconocida |
 | /media/morbidelli-t352x-hunt2.webp | https://www.inmoto.it/listino-nuovo/marche/mbp/t352x | InMoto / MBP Moto (prensa oficial) | desconocida |
 | /media/morbidelli-t352x-hunt3.webp | https://soymotero.net/pruebas/prueba-morbidelli-t352x/ | SoyMotero | desconocida |
+| /media/scorpa-sc-125-factory-2025-ficha-tecnica-precio-hunt1.webp | https://www.scorpa-motorcycles.com/fr/moto/125-sc-f-factory-2025 | Scorpa Motorcycles (prensa oficial del fabricante) | desconocida |
+| /media/scorpa-sc-125-factory-2025-ficha-tecnica-precio-hunt2.webp | https://www.scorpa-motorcycles.com/fr/moto/125-sc-f-factory-2025 | Scorpa Motorcycles (prensa oficial del fabricante) | desconocida |
+| /media/scorpa-sc-125-factory-2025-ficha-tecnica-precio-hunt3.webp | https://trialacademy.nl/trialmotor/scorpa-sc-factory-125cc-2025/ | Trial Academy NL (concesionario) | desconocida |
+| /media/roewe-d7-ev-2024-precio-ficha-tecnica-hunt1.webp | https://m.arenaev.com/roewe_d7_ev_announced_looking_a_lot_like_the_nio_et7-amp-2146.php | ArenaEV / fotos de prensa Roewe | desconocida |
+| /media/roewe-d7-ev-2024-precio-ficha-tecnica-hunt2.webp | https://ncars.com.ua/models/roewe/d7/ | NCars UA / fotos de prensa Roewe | desconocida |
+| /media/roewe-d7-ev-2024-precio-ficha-tecnica-hunt3.webp | https://chinamobil.ru/eng/roewe/d7/?view=compare&m2=1727 | Chinamobil.ru | desconocida |
+| /media/hiboy-nex3-hunt1.webp | https://www.bikes4sale.com/details/hiboy/nex-3/ | Hiboy / Bikes4Sale (render del fabricante; marca de agua recortada) | desconocida |
+| /media/hiboy-nex3-hunt2.webp | https://scooter.guide/hiboy-nex3-electric-scooter-review/ | Scooter Guide (análisis del NEX3) | desconocida |
+| /media/hiboy-nex3-hunt3.webp | https://www.algeria.ubuy.com/en/product/3ODHZZX3C-hiboy-nex3-electric-scooter-8-5-34-solid-tires-up-to-16-miles-long-range-amp-16-mph-portable-folding-commuting-electric-scooter-for | Hiboy (foto de producto, listados del NEX3) | desconocida |
