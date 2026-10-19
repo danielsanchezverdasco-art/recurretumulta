@@ -12,6 +12,14 @@
 
 El radar se encuentra en la A-6, pk 519,6, en la provincia de Lugo, coordenadas 43.174767, -7.713543. Controla el sentido creciente, hacia puntos kilométricos mayores, con destino ACORUÑA según el registro oficial. El geocodificador oficial CartoCiudad (IGN/CNIG) no devolvió municipio para el punto exacto, por lo que esta ficha no asigna ninguno. El Street View enlazado muestra el emplazamiento sobre la calzada.
 
+<iframe title="Mapa: radar a-6-519-6-creciente-cabina" src="https://www.google.com/maps?q=43.174767,-7.713543&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-6-519-6-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=43.174767,-7.713543&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 Autovía del Noroeste de titularidad estatal: la A-6 une en Galicia la zona de Lugo con A Coruña. La DGT le atribuye en su XML la singularidad «AUTOPISTA / AUTOVÍA» por denominación oficial. Sin descripción del tramo en el documento, la ficha no le adjudica características.
