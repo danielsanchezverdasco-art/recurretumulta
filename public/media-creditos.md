@@ -3276,3 +3276,26 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/kukirin-g2-hunt1.webp | https://kukirin.com.es/cdn/shop/files/kukirin-g2-main-image_24.webp | kukirin.com.es (tienda oficial KuKirin España) | desconocida |
 | /media/kukirin-g2-hunt2.webp | https://www.oolactive.com/cdn/shop/files/kukirin-g2-electric-scooter-2025-oolactive_10.jpg | oolactive.com (tienda) | desconocida |
 | /media/kukirin-g2-hunt3.webp | https://img-va.myshopline.com/image/store/1756720878978/6196bf928v88339f0130c1980a5643fa_720x.jfif | kukirinro.com (tienda oficial KuKirin) | desconocida |
+| /media/voge-sr4-max-2025-ficha-tecnica-precio-hunt1.webp | https://www.concessionnaire-voge.fr/wp-content/uploads/2025/06/SR4-MAX-SCOOTER.png | concessionnaire-voge.fr (concesionario oficial Voge Francia) | desconocida |
+| /media/voge-sr4-max-2025-ficha-tecnica-precio-hunt2.webp | https://omsmotoshop.com/wp-content/uploads/2025/03/SR4-Max-black-L-700x490.webp | omsmotoshop.com (concesionario) | desconocida |
+| /media/voge-sr4-max-2025-ficha-tecnica-precio-hunt3.webp | https://www.gmc-moto.ch/wp-content/uploads/2023/10/scooter-voge-sr4max-gal2-1.jpg | gmc-moto.ch (concesionario) | desconocida |
+| /media/emove-roadrunner-hunt1.webp | https://estarbikes.com/product/emove-roadrunner-v3-seated-electric-scooter/ | EstarBikes | desconocida |
+| /media/mercedes-amg-c63-s-2025-precio-ficha-tecnica-hunt1.webp | https://mercedes-world.com/c-class/mercedes-amg-c-63-s-e-performance-plenty-of-power-but-not-much-fun/comment-page-5 | Mercedes-Benz Worldwide / Mercedes-World | desconocida |
+| /media/mercedes-amg-c63-s-2025-precio-ficha-tecnica-hunt2.webp | https://www.dailyrevs.com/cars/2025-mercedes-benz-c63-s-e-performance-w206-uk-version | DailyRevs | desconocida |
+| /media/mercedes-amg-c63-s-2025-precio-ficha-tecnica-hunt3.webp | https://imboldn.com/2024-mercedes-amg-c-63-s-e-performance/ | IMBOLDN | desconocida |
+| /media/tank-700-lwb-hi4-z-2025-precio-ficha-tecnica-hunt1.webp | https://www.bitauto.com/sg/news/1001102819596.html | BitAuto | desconocida |
+| /media/tank-700-lwb-hi4-z-2025-precio-ficha-tecnica-hunt2.webp | https://www.bitauto.com/en-ae/news/100199925829.html | BitAuto | desconocida |
+| /media/tank-700-lwb-hi4-z-2025-precio-ficha-tecnica-hunt3.webp | https://carnewschina.com/2026/03/11/gwms-luxury-offensive-tank-700-hi4-z-cabin-revealed-with-lounge-style-rear/ | CarNewsChina | desconocida |
+| /media/benelli-tornado-550-2025-ficha-tecnica-precio-hunt1.webp | https://ridermagazine.com/2024/11/15/2025-benelli-motorcycles-preview/ | Rider Magazine (foto: albertocervetti.com) | desconocida |
+| /media/benelli-tornado-550-2025-ficha-tecnica-precio-hunt2.webp | https://ultimatemotorcycling.com/2025/04/18/2025-benelli-tornado-550-first-look-7-fully-faired-/ | Ultimate Motorcycling | desconocida |
+| /media/benelli-tornado-550-2025-ficha-tecnica-precio-hunt3.webp | https://www.mundomotero.com/motos/benelli/tornado-550 | Mundomotero | desconocida |
+| /media/fluid-mosquito-hunt1.webp | https://eridehero.com/fluid-mosquito-review/ | eRideHero | desconocida |
+| /media/jaguar-i-pace-2025-precio-ficha-tecnica-hunt1.webp | https://carcose.com/fi/cars/jaguar/i-pace/2025-i-pace-ev400 | Carcose | desconocida |
+| /media/jaguar-i-pace-2025-precio-ficha-tecnica-hunt2.webp | https://www.timesbull.com/jaguar-i-pace-2025-combination-of-luxury-and-power-futuristic-electric-suv-with-470km-range/ | CarExpert (vía Times Bull) | desconocida |
+| /media/jaguar-i-pace-2025-precio-ficha-tecnica-hunt3.webp | https://archive.jaguar.com/es-es/image-packs/jaguar-i-pace-interior-images | Jaguar (media newsroom) | desconocida |
+| /media/tesla-model-y-gran-autonomia-traccion-trasera-2026-precio-ficha-tecnica-hunt1.webp | https://auto-live.fr/tesla-model-y-juniper-2025-production-europe/ | Auto Live (auto-live.fr) | desconocida |
+| /media/tesla-model-y-gran-autonomia-traccion-trasera-2026-precio-ficha-tecnica-hunt2.webp | https://auto-live.fr/tesla-model-y-juniper-2025-prix-france/ | Auto Live (auto-live.fr) | desconocida |
+| /media/tesla-model-y-gran-autonomia-traccion-trasera-2026-precio-ficha-tecnica-hunt3.webp | https://auto-live.fr/tesla-model-y-juniper-2025-suv-electrique-restyle/ | Auto Live (auto-live.fr) | desconocida |
+| /media/benelli-leoncino-800-trail-2025-ficha-tecnica-precio-hunt1.webp | https://www.inmoto.it/listino-nuovo/marche/benelli/leoncino-800-trail | InMoto (listino Benelli) | desconocida |
+| /media/benelli-leoncino-800-trail-2025-ficha-tecnica-precio-hunt2.webp | https://www.inmoto.it/listino-nuovo/marche/benelli/leoncino-800-trail | InMoto (listino Benelli) | desconocida |
+| /media/benelli-leoncino-800-trail-2025-ficha-tecnica-precio-hunt3.webp | https://www.inmoto.it/listino-nuovo/marche/benelli/leoncino-800-trail | InMoto (listino Benelli) | desconocida |
