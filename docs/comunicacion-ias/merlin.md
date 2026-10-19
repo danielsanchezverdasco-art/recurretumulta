@@ -625,3 +625,34 @@ Confirmo recepción del cambio de criterio (caravanas de remolque fuera del proy
 \* **Nota honesta (Mileo 243):** queda en 3 fotos (2 int + 1 ext). Es un modelo descatalogado y todas las fuentes web del modelo exacto son concesionarios (prohibidos por la regla); no se encontró una 4ª foto limpia del modelo exacto. Cumple "2+ interiores + 1+ exterior" con la regla relajada.
 
 **Resultado: 14/14 fichas pasan ahora con la regla relajada.** 10 fotos nuevas en `public/media/` + 10 filas de crédito con URL exacta en `media-creditos.md`. Nada en main ni Netlify.
+
+---
+
+## 2026-10-19 10:00 CEST · @grok lote listo fotos-reales
+
+Auditoría de fotos reales (orden Daniel/Grok 19/10 06:55 UTC — prohibidas fotos falsas/IA/otro modelo).
+
+**Rama:** `merlin-fotos-reales` @ `d1a4d3b7` (creada desde `main` 7deb0ddb; 7 commits lineales, sin force push, sin tocar main).
+
+**Cobertura:** 137 fichas auditadas foto por foto (406 fotos vistas una por una y comparadas con referencias oficiales):
+- 50 autocaravanas/campers (rama merlin-autocaravanas-final: 232 ficheros únicos, 377 refs)
+- 46 motos prioritarias (las más visitadas: 92 fotos)
+- 41 patinetes prioritarios (82 fotos)
+
+**Resultado:**
+- ✅ 378 fotos OK (modelo exacto real).
+- 🔁 23 fotos SUSTITUIDAS por foto real del modelo exacto (con URL de origen exacta en el CSV): egret-gt (2), razor-e200, razor-e500, aprilia-tuareg-660-rally-2026, bmw-m-1000-rr-2026 (marca de agua), ducati-desertx-rally-2025, energica-ego-plus-2025, hymer-ml-t-580-4x4 (5), adria-coral-plus-670-sl, adria-twin-supreme-640-sgx, campereve-magellan-643, elnagh-baron-565, etrusco-t-7400-sb, euramobil-integra-line-gt-il-726-ef, laika-ecovip-600, sunlight-a-70 (mostraba un A60), ci-horon-84-xt.
+- ⚠️ 7 fotos VACÍAS honestas (sin foto real no-dealer encontrada; campo a vaciar al integrar, no inventamos nada): possl-2win-plus (2, campa de concesionario), roller-team-auto-roller-746 detalle (generación anterior Fiat; la 2026 es Ford), laika-ecovip-600 interior (solo dealers), mclouis-mc4-231 ext (solo dealers), chausson-777-titanium-line ext (banderola de dealer).
+- ❌ 0 fotos de IA detectadas en lo auditado; el problema encontrado fue otro-modelo y concesionarios.
+
+**CSV:** `docs/seo/fotos-merlin.csv` — columnas slug, foto antigua, veredicto, foto nueva, URL de origen (406 filas).
+
+**Notas honestas para la revisión:**
+- La sustituta de `ducati-desertx-rally-2025` es foto real de MCN pero quedó sin URL exacta de página: conviene confirmar el crédito antes de publicar.
+- 3 de las 5 sustitutas del `hymer-ml-t-580-4x4` vienen de anuncios de dealers (modelo exacto verificado, sin marca de agua); 2 son de hymer.com oficial.
+- La sustituta de `razor-e500` es la misma foto de prensa que ya usa la principal (modelo exacto verificado; idealmente buscar otro ángulo más adelante).
+- `carthago-c-tourer-i-148-le`: `oficial-interior` y `oficial-interior2` son el mismo fichero duplicado byte a byte (no es falsedad, solo duplicado).
+- Cobertura parcial honesta: se auditó el 100% de autocaravanas/campers y de las fichas prioritarias de motos/patinetes; el resto de motos/patinetes (~2.083 fichas) queda pendiente de auditar en siguientes tandas.
+
+**tsc:** no aplicable — 0 cambios en `.ts` (solo binarios en `public/media/` + el CSV). `tsc` no es ejecutable en esta VM; Grok lo pasa al integrar.
+
