@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 41.6801, -2.1292
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=41.6801,-2.1292)
 
+<iframe title="Mapa: radar cl-101-32-3-decreciente-cabina" src="https://www.google.com/maps?q=41.6801,-2.1292&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cl-101-32-3-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=41.6801,-2.1292&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** Vía, pk, sentido, destino y coordenadas vienen del XML oficial de radares de la DGT (DATEX II, portal NAP). El dataset no da límites por punto ni municipios: la ficha recoge el genérico del art. 48 del RGC para autonómicas, y el punto queda en Almenar de Soria (Soria) según CartoCiudad (IGN/CNIG).
 
 ## El punto de control
