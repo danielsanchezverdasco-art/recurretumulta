@@ -1750,3 +1750,6 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/genesis-gv60-magma-2026-hunt1.webp | https://www.genesis.com/content/dam/genesis-p2/worldwide/assets/support/download-center/wallpapers/page/magma/genesis-ww-download-wallpaper-magma-large-19.jpg | Genesis (prensa oficial, genesis.com) | desconocida |
 | /media/genesis-gv60-magma-2026-hunt2.webp | https://webp.ab.cdn.pxr.nl/news-content/2026/02/01/ab-genesis-gv60-magma-2026.jpg?width=1800 | Genesis (foto de prensa vía Autoblog.nl) | desconocida |
 | /media/genesis-gv60-magma-2026-hunt3.webp | https://topelectricsuv.com/wp-content/uploads/2026/06/Genesis-GV60-Magma-Variant-dashboard-1024x768.jpg | Top Electric SUV (topelectricsuv.com) | desconocida |
+| /media/rieju-mrt-50-2025-ficha-tecnica-precio-hunt1.webp | https://moto-stopfel.de/produkt/mrt-50/ | moto-stopfel.de (concesionario) | desconocida |
+| /media/rieju-mrt-50-2025-ficha-tecnica-precio-hunt2.webp | https://www.rameis-motorrad.at/marken/rieju/ | Rameis Motorrad (concesionario) | desconocida |
+| /media/rieju-mrt-50-2025-ficha-tecnica-precio-hunt3.webp | https://aprilia.motocitywest.at/de/motorrad-modell-rieju-mrt-50-10684-2024 | 1000ps.net (catálogo) | desconocida |
