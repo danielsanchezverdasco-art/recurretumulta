@@ -12,6 +12,14 @@
 
 El emplazamiento corresponde a la CG-2.2, pk 35,5, en O Incio (Lugo), con coordenadas 42.685314, -7.462608. El cinemómetro observa el sentido creciente —tráfico hacia puntos kilométricos superiores—, con destino MONFORTE según el registro oficial. La ubicación precisa puede comprobarse en la vista de Street View enlazada.
 
+<iframe title="Mapa: radar cg-2.2-35-5-creciente-cabina" src="https://www.google.com/maps?q=42.685314,-7.462608&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cg-2.2-35-5-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.685314,-7.462608&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La CG-2.2 es un corredor gallego de la Xunta de Galicia, clasificado como carretera convencional. El XML de la DGT le asigna la singularidad «CARRETERA AUTONÓMICA», atendiendo a su denominación oficial y a la propia singularidad del fichero. No hay datos oficiales del tramo, luego la ficha no lo describe.
