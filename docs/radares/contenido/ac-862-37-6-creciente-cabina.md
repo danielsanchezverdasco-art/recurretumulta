@@ -11,6 +11,14 @@
 ## Dónde está
 
 El emplazamiento es el pk 37,6 de la AC-862, en Ortigueira (A Coruña), coordenadas 43.640232, -7.928395. Mide el sentido creciente: vehículos hacia puntos kilométricos mayores, con destino Ortigueira según la DGT. El punto puede verse en Street View.
+
+<iframe title="Mapa: radar ac-862-37-6-creciente-cabina" src="https://www.google.com/maps?q=43.640232,-7.928395&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar ac-862-37-6-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=43.640232,-7.928395&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
 ## La carretera
 
 La AC-862, carretera de Castilla, es una vía convencional de la red autonómica de la Xunta. La DGT la encuadra como «CARRETERA AUTONÓMICA»: régimen genérico de convencionales. Sin datos del tramo en el XML.
