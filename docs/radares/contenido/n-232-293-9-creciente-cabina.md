@@ -6,6 +6,13 @@
 **Coordenadas (WGS84):** 41.8987, -1.41178
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=41.8987,-1.41178)
 
+<iframe title="Mapa: radar n-232-293-9-creciente-cabina" src="https://www.google.com/maps?q=41.8987,-1.41178&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-232-293-9-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=41.8987,-1.41178&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
 > **Cómo lo verificamos:** la posición, la carretera, el punto kilométrico y el sentido constan en el fichero oficial de radares fijos de la DGT (DATEX II), consultado el 2026-10-18. La DGT no publica el límite de velocidad ni el municipio de este emplazamiento; la ficha respeta ese silencio y no los inventa.
 
 ## Situación del punto de medición
