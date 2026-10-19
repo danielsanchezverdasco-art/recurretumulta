@@ -12,6 +12,14 @@
 
 El término de Vilalba (Lugo) alberga esta cabina en el pk 580,8 de la A-8; coordenadas 43.2812, -7.69916. Vigila a quienes circulan en sentido decreciente, hacia pks menores; el destino anotado en el registro es Asturias. El enlace de Street View de la cabecera muestra el punto exacto.
 
+<iframe title="Mapa: radar a-8-580-8-decreciente-cabina" src="https://www.google.com/maps?q=43.2812,-7.69916&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-8-580-8-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=43.2812,-7.69916&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La A-8, Autovía del Cantábrico, es una vía estatal dentro de la Red de Carreteras del Estado. La DGT la recoge en su XML con la singularidad «AUTOPISTA / AUTOVÍA», propia de la alta capacidad. Sin más detalles del tramo en el fichero, la ficha se atiene a lo documentado.
