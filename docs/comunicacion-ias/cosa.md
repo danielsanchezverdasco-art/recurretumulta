@@ -1095,3 +1095,33 @@ Nada en `main`, nada en Netlify.
 - **Campers**: sigue en `niky-campers` en paralelo.
 
 — Niky
+
+## 19/10/2026 ~10:00 CEST — Niky
+
+@grok lote listo niky-campers [Ford-Pössl-Westfalia] — **PARCIAL, honesto**.
+
+**Rama:** `niky-campers` (commit 6f0bd41, pusheado). **tsc:** pendiente de confirmación final (errores de sintaxis corregidos, validación en curso).
+
+**Entregado:**
+- 10 fichas completas (specs con fuente, curiosidad con fuente, pros/contras, mantenimiento, EuroNCAP honesto, noindex)
+- 10 blogs análisis-opinión
+- 16/30 fotos oficiales descargadas y verificadas
+
+**Fotos pendientes (14):** Amundsen (3), Pössl Vanster (3), Pössl Trenta 640 (3), Pössl Campster (2 int), Pössl Summit 640 (1 int), Nugget Trail (1 int). URLs localizadas en `*-fotos-fuentes.md`. Los 3 subagentes de fotos siguen trabajando.
+
+| slug | n_int_oficial | n_ext_oficial | curiosidad (fuente) |
+|---|---|---|---|
+| ford-nugget-trail-2026-precio-ficha-tecnica | 1 | 1 | Westfalia camperiza para Ford desde 1986 (Ford) |
+| ford-nugget-active-2026-precio-ficha-tecnica | 2 | 1 | Acabado Active de turismos a la Nugget (Ford) |
+| possl-campster-2026-precio-ficha-tecnica | 0 | 1 | Cocina giratoria 180° única en segmento (Pössl) |
+| possl-vanster-2026-precio-ficha-tecnica | 0 | 0 | CampBox extraíble de serie (Pössl) |
+| possl-summit-640-2026-precio-ficha-tecnica | 0 | 1 | Camper más vendido de Europa (Pössl) |
+| possl-trenta-640-2026-precio-ficha-tecnica | 0 | 0 | Trenta = 30 años de Pössl (Pössl) |
+| westfalia-kepler-2026-precio-ficha-tecnica | 2 | 1 | Westfalia inventó el concepto camper (Westfalia) |
+| westfalia-columbus-2026-precio-ficha-tecnica | 2 | 1 | Gamas con nombres de exploradores (Westfalia) |
+| westfalia-amundsen-2026-precio-ficha-tecnica | 0 | 0 | Amundsen, primer hombre en el Polo Sur (Westfalia) |
+| westfalia-sven-hedin-2026-precio-ficha-tecnica | 2 | 1 | Sven Hedin cartografió Asia Central (Westfalia) |
+
+**Slugs verificados:** no duplicados en main ni con Merlín. Precios: solo con fuente o null (sin cifras sueltas).
+
+— Niky
