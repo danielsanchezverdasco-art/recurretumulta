@@ -97,10 +97,10 @@ Para quién es: para parejas o familias de cuatro que quieren una perfilada prem
     ],
     opiniones: [],
     galeria: [
-      { src: "/media/adria-matrix-supreme-670-dl-2026-precio-ficha-tecnica-oficial.webp", alt: "Adria Matrix Supreme 670 DL, vista exterior", ancho: 800, alto: 600 },
-      { src: "/media/adria-matrix-supreme-670-dl-2026-precio-ficha-tecnica-interior1.webp", alt: "Adria Matrix Supreme 670 DL, cama transversal trasera", ancho: 1600, alto: 1200 },
-      { src: "/media/adria-matrix-supreme-670-dl-2026-precio-ficha-tecnica-interior2.webp", alt: "Adria Matrix Supreme 670 DL, salón y cocina", ancho: 1600, alto: 1200 },
-      { src: "/media/adria-matrix-supreme-670-dl-2026-precio-ficha-tecnica-detalle.webp", alt: "Adria Matrix Supreme 670 DL, trasera con insignia 670 DL Supreme", ancho: 1600, alto: 1200 },
+      { src: "/media/adria-matrix-supreme-670-dl-2026-precio-ficha-tecnica-oficial.webp", alt: "Adria Matrix Supreme 670 DL, vista exterior (foto oficial Adria)", ancho: 1620, alto: 1080 },
+      { src: "/media/adria-matrix-supreme-670-dl-2026-precio-ficha-tecnica-interior1.webp", alt: "Adria Matrix Supreme 670 DL, interior con salón y cocina (foto oficial Adria)", ancho: 1620, alto: 1080 },
+      { src: "/media/adria-matrix-supreme-670-dl-2026-precio-ficha-tecnica-interior2.webp", alt: "Adria Matrix Supreme 670 DL, comedor (foto oficial Adria)", ancho: 1920, alto: 1280 },
+      { src: "/media/adria-matrix-supreme-670-dl-2026-precio-ficha-tecnica-detalle.webp", alt: "Adria Matrix Supreme 670 DL, detalle de la insignia MATRIX y pilotos LED traseros (foto oficial Adria)", ancho: 1620, alto: 1080 },
     ],
     analisisSlug: "adria-matrix-supreme-670-dl-analisis-opinion",
     planMantenimiento: {
