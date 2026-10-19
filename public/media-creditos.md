@@ -3747,3 +3747,24 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/seat-leon-sportstourer-20-tdi-115-2026-precio-ficha-tecnica-hunt1.webp | https://i.iinfo.cz/images/175/Seat-Leon-Sportstourer-1.jpg | iinfo.cz | desconocida |
 | /media/seat-leon-sportstourer-20-tdi-115-2026-precio-ficha-tecnica-hunt2.webp | https://cdn.nwi-ms.com/media/at/S/comm/S20260581443/model/back.jpg?size=S&background=full | SEAT Austria (marktplatz.seat.at) | desconocida |
 | /media/seat-leon-sportstourer-20-tdi-115-2026-precio-ficha-tecnica-hunt3.webp | https://a.storyblok.com/f/311779/1920x1080/6a80656202/c2692bccccb144cdba6c6ae945c4edbe.jpg/m/1200x900 | Van Mossel (concesionario SEAT) | desconocida |
+| /media/bmw-r-1300-rs-2025-ficha-tecnica-precio-hunt1.webp | https://mediapool.bmwgroup.com/cache/P9/202504/P90596254/P90596254-the-new-bmw-r-1300-rs-04-2025-2666px.jpg | BMW Group (prensa oficial) | desconocida |
+| /media/bmw-r-1300-rs-2025-ficha-tecnica-precio-hunt2.webp | https://www.motoplus.nl/wp-content/uploads/2025/04/bmw_r1300rs_2025_4.jpg | MotoPlus | desconocida |
+| /media/bmw-r-1300-rs-2025-ficha-tecnica-precio-hunt3.webp | https://www.motortravel.it/uploads/2/7/9/1/27911427/my2025-bmw-r1300rs-14_1.jpg | MotoTravel.it | desconocida |
+| /media/bmw-serie-3-330e-2026-precio-ficha-tecnica-hunt1.webp | https://www.electrifying.com/files/P7ebbahep1PbwelG/P90601475_highRes_bmw-330e-sport-touri.jpg | BMW / Electrifying.com | desconocida |
+| /media/bmw-serie-3-330e-2026-precio-ficha-tecnica-hunt2.webp | https://www.electrifying.com/files/P7eba5hep1PbwelF/P90580560_highRes_the-bmw-330e-saloon-.jpg | BMW / Electrifying.com | desconocida |
+| /media/bmw-serie-3-330e-2026-precio-ficha-tecnica-hunt3.webp | https://www.completecar.ie/img/galleries/13779/bmw_330e_saloon_grey_2024_004.jpg | CompleteCar.ie | desconocida |
+| /media/etwow-s2-booster-plus-hunt1.webp | https://voltride.com/wp-content/uploads/2025/04/electric-scooter-e-twow-s2-booster-plus-green-main-product-image.jpg | Voltride | desconocida |
+| /media/etwow-s2-booster-plus-hunt2.webp | https://scooter.guide/wp-content/uploads/2021/05/1593017130_1566891.jpg | Scooter Guide | desconocida |
+| /media/etwow-s2-booster-plus-hunt3.webp | https://i.hinnavaatlus.ee/p/1200x630f/d6/1a/7735daeebd9c01cc568642779e-twows.jpg | Hinnavaatlus.ee | desconocida |
+| /media/livan-7-2024-precio-ficha-tecnica-hunt1.webp | https://fordreamauto.com/wp-content/uploads/2025/05/FuDuiAuto_Livan-7-2025_001.jpg | FuDui Auto / fordreamauto.com | desconocida |
+| /media/livan-7-2024-precio-ficha-tecnica-hunt2.webp | https://ev.motorwatt.com/media/djcatalog2/images/item/6/livan-7_f.jpg | MotorWatt | desconocida |
+| /media/livan-7-2024-precio-ficha-tecnica-hunt3.webp | https://www.vehiclesizes.com/img/144599-livan-7-digital-dashboard-large-touchscreen-interior.jpg | VehicleSizes.com | desconocida |
+| /media/seat-ateca-20-tdi-115-2026-precio-ficha-tecnica-hunt1.webp | https://www.autonocion.com/wp-content/uploads/2025/04/Prueba-SEAT-Ateca-1.5-TSI-150-CV-DSG-7-FR-Special-Edition-2025-20-1520x1013.jpg | Autonoción | desconocida |
+| /media/seat-ateca-20-tdi-115-2026-precio-ficha-tecnica-hunt2.webp | https://www.autonocion.com/wp-content/uploads/2025/04/Prueba-SEAT-Ateca-1.5-TSI-150-CV-DSG-7-FR-Special-Edition-2025-7.jpg | Autonoción | desconocida |
+| /media/seat-ateca-20-tdi-115-2026-precio-ficha-tecnica-hunt3.webp | https://www.seat.tn/content/dam/public/seat-website/carworlds/new-ateca/new-overview/overview/version-view/new-seat-ateca-fr-trim-red-colour.png | SEAT (web oficial) | desconocida |
+| /media/livan-maple-80v-2024-precio-ficha-tecnica-hunt1.webp | https://ev.motorwatt.com/media/djcatalog2/images/item/10/livan-maple-80v_f.jpg | Motorwatt (base de datos de vehículos eléctricos) | desconocida |
+| /media/livan-maple-80v-2024-precio-ficha-tecnica-hunt2.webp | https://ev.motorwatt.com/media/djcatalog2/images/item/10/livan-maple-80v.1_l.jpg | Motorwatt (base de datos de vehículos eléctricos) | desconocida |
+| /media/livan-maple-80v-2024-precio-ficha-tecnica-hunt3.webp | https://ev.motorwatt.com/media/djcatalog2/images/item/10/livan-maple-80v.5_l.jpg | Motorwatt (base de datos de vehículos eléctricos) | desconocida |
+| /media/skoda-enyaq-rs-2026-precio-ficha-tecnica-hunt1.webp | https://autorepublika.com/wp-content/uploads/2025/05/9TbM5eMiWq.jpg | Autorepublika (blog del motor) | desconocida |
+| /media/skoda-enyaq-rs-2026-precio-ficha-tecnica-hunt2.webp | https://electriccarsreport.com/wp-content/uploads/2025/05/Skoda-Enyaq-RS.jpg | Electric Cars Report (blog del motor) | desconocida |
+| /media/skoda-enyaq-rs-2026-precio-ficha-tecnica-hunt3.webp | https://img.myve.bg/f/news/b/64/9352f9c5d0ee319ff49e063a9daa2a55.jpeg | myve.bg (blog del motor) | desconocida |
