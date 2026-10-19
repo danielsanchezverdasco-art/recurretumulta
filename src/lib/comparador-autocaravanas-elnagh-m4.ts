@@ -64,8 +64,8 @@ export const AUTOCARAVANAS_ELNAGH_M4: Autocaravana[] = [
       "(ficha del modelo); la marca no los publica en su ficha. Precio: Elnagh no publica PVP " +
       "para España → precioDesde=null. En null: carga útil (no publicada), consumo, par, " +
       "tracción y emisiones (no publicados). Fotos: interiores y plano oficiales de elnagh.com; " +
-      "el exterior es de un anuncio real del modelo exacto en la plataforma oficial Elnagh In " +
-      "Showroom (foto en showroom de concesionario, sin marcas de agua ni rótulos).",
+      "el exterior es la foto de estudio oficial del modelo exacto en elnagh.com (fondo blanco, " +
+      "insignia «T-LOFT 532», sin marcas de agua ni rótulos).",
     curiosidades:
       "La calefacción de serie del T-Loft 532 no es de gas, sino una Truma Combi Diesel de 4 kW: " +
       "quema gasóleo del propio depósito del vehículo, lo que elimina la dependencia de las " +
@@ -149,7 +149,7 @@ export const AUTOCARAVANAS_ELNAGH_M4: Autocaravana[] = [
     ],
     opiniones: [],
     galeria: [
-      { src: "/media/elnagh-t-loft-532-2026-precio-ficha-tecnica-oficial.webp", alt: "Elnagh T-Loft 532, vista exterior", ancho: 1400, alto: 1050 },
+      { src: "/media/elnagh-t-loft-532-2026-precio-ficha-tecnica-oficial.webp", alt: "Elnagh T-Loft 532, vista exterior", ancho: 1536, alto: 1024 },
       { src: "/media/elnagh-t-loft-532-2026-precio-ficha-tecnica-interior1.webp", alt: "Elnagh T-Loft 532, salón face to face y cocina", ancho: 1536, alto: 1024 },
       { src: "/media/elnagh-t-loft-532-2026-precio-ficha-tecnica-interior2.webp", alt: "Elnagh T-Loft 532, cocina y salón", ancho: 1536, alto: 1024 },
       { src: "/media/elnagh-t-loft-532-2026-precio-ficha-tecnica-detalle.webp", alt: "Elnagh T-Loft 532, plano de distribución", ancho: 1024, alto: 374 },
@@ -297,7 +297,7 @@ export const AUTOCARAVANAS_ELNAGH_M4: Autocaravana[] = [
     ],
     opiniones: [],
     galeria: [
-      { src: "/media/elnagh-baron-573-2026-precio-ficha-tecnica-oficial.webp", alt: "Elnagh Baron 573, vista exterior", ancho: 1200, alto: 800 },
+      { src: "/media/elnagh-baron-573-2026-precio-ficha-tecnica-oficial.webp", alt: "Elnagh Baron 573, vista exterior", ancho: 1536, alto: 1024 },
       { src: "/media/elnagh-baron-573-2026-precio-ficha-tecnica-interior1.webp", alt: "Elnagh Baron 573, salón y cabina", ancho: 960, alto: 525 },
       { src: "/media/elnagh-baron-573-2026-precio-ficha-tecnica-interior2.webp", alt: "Elnagh Baron 573, camas gemelas", ancho: 1200, alto: 800 },
       { src: "/media/elnagh-baron-573-2026-precio-ficha-tecnica-detalle.webp", alt: "Elnagh Baron 573, detalle del salón", ancho: 960, alto: 525 },
