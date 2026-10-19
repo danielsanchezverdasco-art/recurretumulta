@@ -12,6 +12,15 @@
 
 El cinemómetro se encuentra en la **A-8, punto kilométrico 144,5**, en Cantabria, y controla el **sentido creciente**, que la DGT identifica en dirección **Galicia**. El punto está en el entorno de Castro Urdiales, en el extremo oriental de la comunidad, a pocos kilómetros del límite con el País Vasco. Es un tramo de la Autovía del Cantábrico con mucho tránsito de paso: quienes cruzan entre Euskadi y Cantabria circulan por aquí en ambas direcciones.
 
+<iframe title="Mapa: radar a-8-144-5-creciente-fijo" src="https://www.google.com/maps?q=43.3538,-3.2012&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-8-144-5-creciente-fijo" src="https://maps.google.com/maps?q=&layer=c&cbll=43.3538,-3.2012&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La A-8, la **Autovía del Cantábrico**, es el gran corredor este-oeste del norte de España: une el País Vasco con Galicia recorriendo toda la costa cantábrica. En este sector oriental cántabro la autovía discurre entre el mar y las estribaciones de la cordillera, con un trazado que alterna viaductos y desmontes. El tráfico es denso y heterogéneo —turismos de largo recorrido, camiones en ruta internacional y movimientos locales hacia Castro Urdiales—, y la orografía obliga a una conducción atenta pese a tratarse de una vía de alta capacidad.
