@@ -12,6 +12,14 @@
 
 La cabina está instalada en la **CV-610, punto kilométrico 1,4**, dentro de la provincia de Valencia. Registra a los vehículos que marchan en **sentido creciente**, hacia pk crecientes. La ficha municipal del punto es **Xàtiva**: así lo determina CartoCiudad. A 8,8 km hacia el oeste está el control más próximo, el de la **A-35, pk 43,3** (sentido creciente).
 
+<iframe title="Mapa: radar cv-610-1-4-creciente-cabina" src="https://www.google.com/maps?q=38.99116,-0.49455&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cv-610-1-4-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.99116,-0.49455&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La CV-610 es una vía de la Generalitat que atraviesa Valencia. La vía reparte su caudal entre transporte de mercancías, viajes y movilidad cotidiana. El marco geográfico es el interior de la provincia de Valencia.
