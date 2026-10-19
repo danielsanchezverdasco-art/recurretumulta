@@ -10,6 +10,14 @@
 **Coordenadas (WGS84):** 41.64744, -0.96506
 
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=41.64744,-0.96506)
+<iframe title="Mapa: radar a-2-313-7-decreciente-cabina" src="https://www.google.com/maps?q=41.64744,-0.96506&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-2-313-7-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=41.64744,-0.96506&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 
 
 > **Cómo lo verificamos:** esta ficha se construye únicamente con los campos del dataset oficial de la DGT (DATEX II): carretera, punto kilométrico, sentido y coordenadas. El límite de velocidad y el municipio no figuran en el fichero para este radar (verificado el 2026-10-18) y, por tanto, no aparecen aquí.
