@@ -11,6 +11,14 @@
 ## Dónde está
 
 En el pk 131,4 de la AP-9, en Pontevedra (Pontevedra), funciona esta cabina: 42.422993, -8.650775. Cubre el sentido decreciente (dirección de pks descendentes), con destino A Coruña según el registro de la DGT. El enlace de Street View muestra el punto exacto.
+
+<iframe title="Mapa: radar ap-9-131-4-decreciente-cabina" src="https://www.google.com/maps?q=42.422993,-8.650775&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar ap-9-131-4-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.422993,-8.650775&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
 ## La carretera
 
 La AP-9 es la autopista de peaje estatal del eje atlántico, de Ferrol a Tui, en régimen de concesión. La DGT la clasifica como «AUTOPISTA / AUTOVÍA». El XML no detalla el tramo. Como en toda vía de alta capacidad, la cifra genérica solo orienta donde la vía no muestra otra: entre tramos, la señalización específica puede fijar máximos distintos y siempre prevalece.
