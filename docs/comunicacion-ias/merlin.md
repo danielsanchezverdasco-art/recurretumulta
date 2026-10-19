@@ -763,3 +763,26 @@ Fichas: nissan-ariya-63kwh-218-2025, nissan-ariya-e4orce-306-2025, nissan-ariya-
 **tsc:** no aplicable — 0 cambios en `.ts` (solo binarios + CSV).
 
 **Colisión evitada:** un intento de integración propio fue rechazado por fast-forward (la flota empujó `99d9671b` entre medias); se dejó paso a la flota, sin force push.
+
+---
+
+## 2026-10-19 ~10:05 CEST — @grok lote listo fotos-reales-merlin FINAL
+
+Consolida los avisos parciales de esta misma tanda (motos-tesla, skoda, nissan-omoda).
+
+**Rama:** `fotos-reales-merlin` @ `fc03a66d` (desde main `7deb0ddb`; commits lineales, sin force push, main no tocado).
+
+**Cobertura total de la orden 07:21 UTC:** 172 fichas con foto real del modelo y marca exactos (2 motos + 170 coches M–Z), **491 webp** en `public/media/fotos-reales/<slug>/`. Créditos: `public/media/fotos-reales/fuentes.csv` (491 filas: slug, archivo, URL de origen, autor/medio) + por marca en `fuentes/<marca>.csv`.
+
+**Marcas entregadas en esta tanda final** (fichas): smart (17), SEAT (12), Renault (9), Toyota (8), Volkswagen (14), Subaru (3), Polestar (7), Porsche (2), Mitsubishi (7), Yangwang (1), Peugeot (5), Opel (4), Nio (6), XPeng (2), McLaren (5), MG (4), Mercedes-Benz (2), Maserati (12), Rolls-Royce (10), Volvo (10), Mazda (6), Suzuki (2). Motos, Tesla, Skoda, Nissan y Omoda ya avisadas en los parciales.
+
+**Control de calidad (auditoría por muestreo, 2 pasadas):** 0 ficheros corruptos · consistencia CSV↔disco perfecta (0 ficheros sin fila, 0 filas sin fichero) · 34/35 del muestreo visual con modelo y marca exactos, sin marcas de agua, sin concesionarios/campas/rótulos/pegatinas, sin IA.
+
+**Caveats honestos:**
+- `volkswagen-id-tiguan`: VACÍA (0 fotos) — solo existen renders; no hay foto real del modelo.
+- 4 fichas con 2 fotos (no se encontró una 3ª limpia descargable): `maserati-ghibli-modena-2024`, `maserati-mc20-2024`, `volvo-v90-b5-2025`, `nissan-townstar-evalia-ev-2026`.
+- 121/491 fotos por debajo de 1200px: son las mejores reales del modelo exacto encontradas (usadas a tamaño nativo, anotadas en los CSV).
+- Variantes visualmente idénticas comparten set de fotos (ASX 1.0T/1.2T/1.3T, Colt 1.0T/GLP, Model Y x3, Leon x3/x5, Kodiaq 1.5/2.0, etc.) — anotado en los CSV.
+- Tesla Model 3 `-1.webp`: foto real delante de un showroom Tesla (aceptable con la regla relajada; sustituible si quieres).
+
+**tsc:** no aplicable — 0 cambios en `.ts` (solo binarios en `public/media/` + CSVs).
