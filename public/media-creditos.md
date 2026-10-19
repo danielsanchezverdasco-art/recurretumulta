@@ -1304,3 +1304,28 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/roller-team-zefiro-696-2026-hunt1.webp | https://www.rollerteammotorhomes.co.uk/wp-content/uploads/sites/4/2024/10/Zefiro696_009_SB_2232-scaled-e1782219449460-1024x434.jpg | Roller Team UK (web oficial) | desconocida |
 | /media/roller-team-zefiro-696-2026-hunt2.webp | https://www.rollerteammotorhomes.co.uk/wp-content/uploads/sites/4/2024/05/Zefiro696_049_SB_2589-1536x1025.jpg | Roller Team UK (web oficial) | desconocida |
 | /media/roller-team-zefiro-696-2026-hunt3.webp | https://www.rollerteammotorhomes.co.uk/wp-content/uploads/sites/4/2024/05/Zefiro696_055_SB_2598-1536x1024.jpg | Roller Team UK (web oficial) | desconocida |
+| /media/rolls-royce-phantom-2026-precio-ficha-tecnica-hunt1.webp | https://moladin.com/wp-content/uploads/2026/01/01-B_049_001_001-exterior-scaled.webp | Moladin (foto de prensa Rolls-Royce) | desconocida |
+| /media/rolls-royce-phantom-2026-precio-ficha-tecnica-hunt2.webp | https://moladin.com/wp-content/uploads/2026/01/03-B_049_001_002-exterior.webp | Moladin (foto de prensa Rolls-Royce) | desconocida |
+| /media/rolls-royce-phantom-2026-precio-ficha-tecnica-hunt3.webp | https://www.kenganleyauto.com/inventoryphotos/16890/sca13he05tu235002/ip/35.jpg?timestamp=2026-06-12T00:55:11Z&bg-color=FFFFFF&width=800 | Ken Ganley Auto (concesionario) | desconocida |
+| /media/rolls-royce-droptail-2024-precio-ficha-tecnica-hunt1.webp | https://zephr.autocar.co.uk/car-news/new-cars/second-rolls-royce-drop-tail-celebration-gemstones | Autocar | desconocida |
+| /media/rolls-royce-droptail-2024-precio-ficha-tecnica-hunt2.webp | https://www.conceptcarz.com/view/photo/3269255,33039/2023-rolls-royce-amethyst_photo.aspx | Conceptcarz | desconocida |
+| /media/rolls-royce-droptail-2024-precio-ficha-tecnica-hunt3.webp | https://autoreview.ru/news/rodster-rolls-royce-droptail-eksklyuziv-na-chetveryh | Autoreview | desconocida |
+| /media/kaabo-mantis-10-pro-hunt1.webp | https://cdn.shoplightspeed.com/shops/653436/files/47669251/1652x2313x1/kaabo-kaabo-mantis-10-pro-electric-scooter.jpg | Noam / tienda Lightspeed | desconocida |
+| /media/kaabo-mantis-10-pro-hunt2.webp | https://cdn.shopify.com/s/files/1/0098/6736/2359/files/KaaboMantis10Pro-BeyondPEV.jpg | Beyond PEV (via Qidds) | desconocida |
+| /media/kaabo-mantis-10-pro-hunt3.webp | https://50cdn.gjirafamall.tech/images/038e084c-2660-4ac6-844b-07cf332860dd/038e084c-2660-4ac6-844b-07cf332860dd.jpeg | GjirafaMall | desconocida |
+| /media/kawasaki-z650rs-2025-ficha-tecnica-precio-hunt1.webp | https://images5.1000ps.net/images_bikekat/2025/6-Kawasaki/10834-Z650_RS/007-638596573276342724-kawasaki-z650-rs.jpg | 1000PS | desconocida |
+| /media/kawasaki-z650rs-2025-ficha-tecnica-precio-hunt2.webp | https://kawa-go.kawasaki.es/storage/images/models/z-650-rs-2025-2735-amarillo-1500.jpg | Kawasaki España (oficial) | desconocida |
+| /media/kawasaki-z650rs-2025-ficha-tecnica-precio-hunt3.webp | https://kawasaki-la-administration.com//ContentStorage/KLA/Products/8765/a0cf5f02-91f7-451d-a152-3b6c29e680e2.jpg | Kawasaki (oficial) | desconocida |
+| /media/lexus-lc-500h-2024-precio-ficha-tecnica-hunt1.webp | https://ftp.larevueautomobile.com/images/fiche-technique/2024/Lexus/LC/Lexus_LC_MD_1.webp | La Revue Automobile | desconocida |
+| /media/lexus-lc-500h-2024-precio-ficha-tecnica-hunt2.webp | https://img-ik.cars.co.za/news-site-za/images/2024/01/2024-lc-5.jpg | Cars.co.za | desconocida |
+| /media/lexus-lc-500h-2024-precio-ficha-tecnica-hunt3.webp | https://www.motorbiscuit.com/wp-content/uploads/2024/01/Lexus-LC-500h-2.jpg | MotorBiscuit | desconocida |
+| /media/rolls-royce-ghost-prism-2024-precio-ficha-tecnica-hunt1.webp | https://images.carandbike.com/cms/articles/2024/3/3212158/Rolls_Royce_Ghost_Prism_1_733a4e22d7.jpg | CarandBike | desconocida |
+| /media/rolls-royce-ghost-prism-2024-precio-ficha-tecnica-hunt2.webp | https://www.autosprint.ch/wp-content/uploads/2024/03/Rolls-Royce-Ghost-Prism_autosprint.ch_.jpg | AutoSprint.ch | desconocida |
+| /media/rolls-royce-ghost-prism-2024-precio-ficha-tecnica-hunt3.webp | https://daxstreet.com/wp-content/uploads/2024/03/The-Interior-Of-The-Rolls-Royce-120th-Anniversary-Ghost-Prism-Edition-Creidts-Rolls-Royce0.jpg | Rolls-Royce Motor Cars (via DaxStreet) | desconocida |
+| /media/bentley-bentayga-azure-2026-precio-ficha-tecnica-hunt1.webp | https://www.lamborghinilongisland.com/imagetag/4420/main/l/New-2026-Bentley-Bentayga-Azure-V8-1784325390.jpg | Bentley Motors (via Lamborghini Long Island) | desconocida |
+| /media/bentley-bentayga-azure-2026-precio-ficha-tecnica-hunt2.webp | https://www.lamborghinilongisland.com/imagetag/4420/5/l/New-2026-Bentley-Bentayga-Azure-V8-1784325402.jpg | Bentley Motors (via Lamborghini Long Island) | desconocida |
+| /media/bentley-bentayga-azure-2026-precio-ficha-tecnica-hunt3.webp | https://www.lamborghinilongisland.com/imagetag/4415/8/l/New-2026-Bentley-Bentayga-Azure-V8-1784235151.jpg | Bentley Motors (via Lamborghini Long Island) | desconocida |
+| /media/razor-e325-hunt1.webp | https://vminnovations.com/products/razor-e325-adult-ride-on-24v-high-torque-motor-electric-powered-scooter-silver | VMInnovations | desconocida |
+| /media/volkswagen-t-roc-15-etsi-2026-precio-ficha-tecnica-hunt1.webp | https://www.megautos.com/wp-content/uploads/2025/08/DB2025AU01032_large.jpg | Megautos | desconocida |
+| /media/volkswagen-t-roc-15-etsi-2026-precio-ficha-tecnica-hunt2.webp | https://cdn-xy.drivek.com/b787d585/uploads/sites/2/2025/09/img1.jpg | DriveK | desconocida |
+| /media/volkswagen-t-roc-15-etsi-2026-precio-ficha-tecnica-hunt3.webp | https://autogreeknews.gr/wp-content/uploads/2026/03/VW-T-Roc-2026-interior-1.jpg | Autogreeknews | desconocida |
