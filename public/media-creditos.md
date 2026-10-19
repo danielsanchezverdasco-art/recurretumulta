@@ -230,3 +230,50 @@
 | /media/buerstner-campeo-c-600-2026-precio-ficha-tecnica-2.webp | https://theroyalcamper.com/wp-content/uploads/2025/01/campeo_mj_2021-16-.webp | Bürstner (foto oficial del kit de prensa del Campeo; alojada en web de tercero) | prensa |
 | /media/buerstner-campeo-c-600-2026-precio-ficha-tecnica-interior.webp | https://theroyalcamper.com/wp-content/uploads/2025/01/campeo_mj_2021-10-1.webp | Bürstner (foto oficial del kit de prensa del Campeo; alojada en web de tercero) | prensa |
 | /media/buerstner-campeo-c-600-2026-precio-ficha-tecnica-interior-2.webp | https://theroyalcamper.com/wp-content/uploads/2025/01/campeoc_mj25_004.webp | Bürstner (foto oficial del kit de prensa del Campeo MJ25; alojada en web de tercero) | prensa |
+
+## Campers — lote niky-campers (19/10/2026)
+
+### Hymer Grand Canyon S 2026 (fotos oficiales Hymer)
+| /media/fichero | URL |
+|---|---|
+| /media/hymer-grand-canyon-s-2026-precio-ficha-tecnica.webp | https://www.hymer.com/es/ (kit de prensa oficial) |
+| /media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-2.webp | https://www.hymer.com/es/ (kit de prensa oficial) |
+| /media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-interior.webp | https://www.hymer.com/es/ (kit de prensa oficial) |
+| /media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-interior-2.webp | https://www.hymer.com/es/ (kit de prensa oficial) |
+
+### La Strada Regent S 2026 (fotos oficiales La Strada)
+| /media/fichero | URL |
+|---|---|
+| /media/la-strada-regent-s-2026-precio-ficha-tecnica.webp | https://www.la-strada.de/ (prensa oficial) |
+| /media/la-strada-regent-s-2026-precio-ficha-tecnica-2.webp | https://www.la-strada.de/ (prensa oficial) |
+| /media/la-strada-regent-s-2026-precio-ficha-tecnica-interior.webp | https://www.la-strada.de/ (prensa oficial) |
+| /media/la-strada-regent-s-2026-precio-ficha-tecnica-interior-2.webp | https://www.la-strada.de/ (prensa oficial) |
+
+### Nissan NV200 Camper (fotos oficiales prensa Nissan, 2018)
+| /media/fichero | URL |
+|---|---|
+| /media/nissan-nv200-camper-2026-precio-ficha-tecnica.webp | Nota de prensa oficial Nissan Europa 19/09/2018 (archivo EXIF «Camper», mayo 2018) |
+| /media/nissan-nv200-camper-2026-precio-ficha-tecnica-2.webp | Nota de prensa oficial Nissan Europa 19/09/2018 |
+| /media/nissan-nv200-camper-2026-precio-ficha-tecnica-interior.webp | Nota de prensa oficial Nissan Europa 19/09/2018 (mobiliario BRAM) |
+| /media/nissan-nv200-camper-2026-precio-ficha-tecnica-interior-2.webp | Nota de prensa oficial Nissan Europa 19/09/2018 (mobiliario BRAM) |
+
+### Volkswagen Grand California 600/680 2026 (fotos oficiales VW)
+| /media/fichero | URL |
+|---|---|
+| /media/volkswagen-grand-california-600-2026-precio-ficha-tecnica.webp | https://www.volkswagen-comerciales.es/ (kit de prensa oficial) |
+| /media/volkswagen-grand-california-600-2026-precio-ficha-tecnica-2.webp | https://www.volkswagen-comerciales.es/ (kit de prensa oficial) |
+| /media/volkswagen-grand-california-600-2026-precio-ficha-tecnica-interior.webp | https://www.volkswagen-comerciales.es/ (kit de prensa oficial) |
+| /media/volkswagen-grand-california-600-2026-precio-ficha-tecnica-interior-2.webp | https://www.volkswagen-comerciales.es/ (kit de prensa oficial) |
+| /media/volkswagen-grand-california-680-2026-precio-ficha-tecnica.webp | https://www.volkswagen-comerciales.es/ (kit de prensa oficial) |
+| /media/volkswagen-grand-california-680-2026-precio-ficha-tecnica-2.webp | https://www.volkswagen-comerciales.es/ (kit de prensa oficial) |
+| /media/volkswagen-grand-california-680-2026-precio-ficha-tecnica-interior.webp | https://www.volkswagen-comerciales.es/ (kit de prensa oficial) |
+| /media/volkswagen-grand-california-680-2026-precio-ficha-tecnica-interior-2.webp | https://www.volkswagen-comerciales.es/ (kit de prensa oficial) |
+
+### Westfalia Sven Hedin sobre MAN TGE 2026 (fotos oficiales Westfalia)
+Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exactas.
+| /media/fichero | URL |
+|---|---|
+| /media/westfalia-sven-hedin-man-tge-2026-precio-ficha-tecnica.webp | https://westfalia-mobil.com/en/motorhomes/sven-hedin/ (prensa oficial) |
+| /media/westfalia-sven-hedin-man-tge-2026-precio-ficha-tecnica-2.webp | https://westfalia-mobil.com/en/motorhomes/sven-hedin/ (prensa oficial) |
+| /media/westfalia-sven-hedin-man-tge-2026-precio-ficha-tecnica-interior.webp | https://westfalia-mobil.com/en/motorhomes/sven-hedin/ (prensa oficial) |
+| /media/westfalia-sven-hedin-man-tge-2026-precio-ficha-tecnica-interior-2.webp | https://westfalia-mobil.com/en/motorhomes/sven-hedin/ (prensa oficial) |
