@@ -12,6 +12,15 @@
 
 Nos situamos en el **pk 127,0 de la A-31**, en plena provincia de Albacete. El cinemómetro apunta al **sentido creciente** (dirección de pk crecientes). Puedes verificar la ubicación exacta con el enlace de Street View que acompaña a la ficha: las coordenadas son las de la DGT. El control fijo de la DGT más próximo es el de la **A-31, pk 137,9** (sentido decreciente), a 10,4 km hacia el este. El segundo control más cercano es el de la **A-30, pk 49,2** (sentido creciente), a 43,6 km hacia el suroeste. El tramo no presenta dificultades técnicas especiales; el desafío es mantener la disciplina de velocidad.
 
+<iframe title="Mapa: radar a-31-127-0-creciente-cabina" src="https://www.google.com/maps?q=38.87735,-1.3241&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-31-127-0-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.87735,-1.3241&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 Estamos en la A-31, la autovía que une Atalaya del Cañavate con Albacete y Alicante. En esta autovía conviven camiones en ruta, turismos de viaje y vehículos de cercanías. El radar fijo está aquí porque el tramo reúne las condiciones típicas de los excesos. De los 4 controles que la DGT publica para la A-31 en la comunidad, este es el tercero por punto kilométrico. En la misma A-31, el control más próximo es el del pk 137,9 (sentido decreciente): dista 10,4 km hacia el este. Como en toda la red, el respeto a la señalización es aquí la mejor garantía. La mejor forma de circular por ella es con anticipación: ver venir lo que la vía va a pedir.
