@@ -1,4 +1,5 @@
-// Autocaravanas Laika — lote Merlín 1 (18/10/2026), corrección Grok 22:15 (19/10/2026).
+// Autocaravanas Laika — lote Merlín 1 (18/10/2026), corrección Grok 22:15 (19/10/2026),
+// pase F7b 19/10/2026 (fotos oficiales + curiosidades, orden Grok 07:47).
 // Fuentes: listas oficiales de precios y fichas técnicas Laika en laika.it (PDF oficiales
 // por mercado; Laika publica tarifa por país y no hay lista para España) + manual de uso
 // y mantenimiento oficial Laika (baño Vario del Kosmo L 319) + alpacacamping.de
@@ -61,6 +62,8 @@ export const AUTOCARAVANAS_LAIKA_M1: Autocaravana[] = [
     aprox: ["precioDesde", "pesoKg"],
     notas:
       "Precio en «aprox» porque es precio de tarifa en Francia (lista oficial Laika 2026, 71.314 €): Laika publica tarifa por país y no hay lista para España, así que el PVP español puede diferir por impuestos y política del importador. El peso (2.862 kg) es la masa en orden de marcha de la lista oficial con tolerancia ±5 % y va en «aprox» porque varía según mercado y configuración (la lista alemana indica 2.838 kg). Dimensiones, motor, plazas y camas, de las fichas técnicas oficiales de laika.it. Laika no publica la carga útil por modelo: queda en null.",
+    curiosidades:
+      "Laika publicaba en su propia web el precio del Ecovip 600 desglosado por país —70.502 € en Italia, 68.768 € en Alemania, 71.314 € en Francia, 69.924 € en España, 87.573 € en Holanda…—, una transparencia tarifaria casi inédita entre los fabricantes europeos de autocaravanas, que suelen ocultar el precio tras el concesionario. Fuente: página oficial del modelo en laika.it (captura de 2025 en Wayback Machine): https://web.archive.org/web/2025/https://www.laika.it/en/product-range/ecovip/campervans/",
     descripcion: `Hay un gesto que dice mucho de una marca en el mundo de las campers: publicar el precio. Laika lo hace. Mientras la mayoría de fabricantes europeos esconden sus tarifas detrás del configurador del concesionario, Laika publica listas oficiales de precios por país, con cada modelo, cada opción y cada pack tarifado a la vista de todos. El Ecovip 600 de 2026 cuesta 71.314 euros según la lista oficial francesa, y esa cifra —con el asterisco de que es tarifa de Francia y no de España— permite hacer algo casi imposible en este sector: comparar con números reales antes de pisar un concesionario. Esa transparencia es el primer argumento del Ecovip 600, y no es casualidad: es la seña de identidad de una marca toscana que lleva décadas construyendo autocaravanas y que ha decidido competir también en honestidad comercial.
 
     El Ecovip 600 es la camper de 5,99 metros de Laika, sobre el Fiat Ducato 35 Light con el 2.2 Multijet de 140 CV, y su gran diferencia técnica frente a la competencia está bajo los pies: el doble suelo. No todas las campers lo tienen, y las que lo tienen no siempre lo tienen de verdad. El Ecovip monta un doble suelo delantero iluminado con almacenaje más un doble suelo trasero, con aislamiento de XPS y Alu-Ecofiber que recubre el vehículo por completo, incluido el techo y las puertas. En la práctica, el doble suelo hace dos cosas. La primera es térmica: crea una cámara de aire aislada entre el exterior y el habitáculo que mantiene el calor en invierno y el fresco en verano, y que protege las conducciones de agua de las heladas. La segunda es logística: ese espacio entre suelos es almacenaje protegido y accesible, ideal para lo que no quieres llevar a la vista pero tampoco en el garaje exterior. En una camper de 5,99 metros, cada litro de almacenaje interior cuenta, y el doble suelo es como ganar un armario invisible.
@@ -94,6 +97,12 @@ export const AUTOCARAVANAS_LAIKA_M1: Autocaravana[] = [
     ],
     opiniones: [],
     galeria: [
+      {
+        src: "/media/laika-ecovip-600-2026-precio-ficha-tecnica-oficial-corte.webp",
+        alt: "Laika Ecovip 600: vista oficial en corte 3D con la distribución interior (imagen oficial de Laika)",
+        ancho: 1200,
+        alto: 615,
+      },
       {
         src: "/media/laika-ecovip-600-2026-precio-ficha-tecnica-ext.webp",
         alt: "Laika Ecovip 600, vista lateral",
@@ -187,6 +196,8 @@ export const AUTOCARAVANAS_LAIKA_M1: Autocaravana[] = [
   aprox: ["precioDesde", "pesoKg"],
   notas:
   "Precio en «aprox» como «dato no oficial · en revisión»: 82.500 € orientativos en Alemania según el concesionario alpacacamping.de (fuente secundaria); Laika no publica PVP y en España puede diferir. El peso (2.913 kg) es la masa en orden de marcha de la lista oficial 2025 con su horquilla de tolerancia y va en «aprox» pendiente de confirmación en la lista 2026. Dimensiones, motor, plazas y camas, de las fichas técnicas oficiales de laika.it. Laika no publica la carga útil por modelo: queda en null.",
+  curiosidades:
+  "El nombre de la marca no es casual: Giovanbattista Moscardini fundó LAIKA en 1964 y la bautizó en honor a Laika, la perra que la URSS puso en órbita en 1957; según cuenta la propia compañía, le fascinaban la aventura espacial y los nuevos horizontes que se abrían. Fuente: comunicado oficial de prensa de Laika «The new generation of Kosmo: Born to be a Laika» (julio de 2023), laika.it (copia archivada; el original ya no está en línea): https://web.archive.org/web/20230928171335id_/https://www.laika.it/wp-content/uploads/2023/08/Comunicato-Stampa-Kosmo-New-Range_EN.pdf",
   descripcion: `El Kosmo es la puerta de entrada a Laika, y el L 319 es su perfilada más equilibrada: 6,95 metros, camas gemelas traseras y el diseño italiano que la marca confía al estudio GFG Style. La gama Kosmo existe para una misión muy concreta: ofrecer la construcción y el diseño de Laika a un precio de acceso, sin que se note el ahorro donde más duele. Y el L 319 lo consigue con una carta que sus rivales directas no tienen: camas de hasta 205 centímetros en una perfilada de menos de 7 metros, con elevación eléctrica para acceder al garaje.
 
   Empecemos por fuera, porque el diseño es lo primero que se ve y lo primero que Laika quiere que se vea. La carrocería la firma GFG Style —el estudio de Giorgetto Giugiaro—, con ventanas enrasadas de doble acristalamiento que le dan ese aspecto limpio y moderno que las perfiladas de acceso no suelen tener. No es solo estética: las ventanas enrasadas mejoran la aerodinámica y reducen los ruidos a velocidad de autopista, además de eliminar los marcos salientes donde se acumula la suciedad. En la gama de acceso de una marca premium italiana, el diseño no es un capricho: es la declaración de intenciones.
