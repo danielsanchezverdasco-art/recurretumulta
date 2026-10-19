@@ -3396,3 +3396,21 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/toyota-corolla-cross-200h-2025-precio-ficha-tecnica-hunt1.webp | https://motorsactu.com/wp-content/uploads/2025/05/Toyota-Corolla-Cross-GR-Sport-2025-1.jpg | MotorsActu | desconocida |
 | /media/toyota-corolla-cross-200h-2025-precio-ficha-tecnica-hunt2.webp | https://motorsactu.com/wp-content/uploads/2025/05/Toyota-Corolla-Cross-GR-Sport-2025-2.jpg | MotorsActu | desconocida |
 | /media/toyota-corolla-cross-200h-2025-precio-ficha-tecnica-hunt3.webp | https://www.autoblog.gr/wp-content/uploads/2025/05/2025-corollacrossgrsport-003.jpg | AutoBlog.gr | desconocida |
+| /media/benelli-302s-2026-ficha-tecnica-precio-hunt1.webp | https://cdpcdn.dx1app.com/products/USA/BN/2026/MC/SPORT/302S/50/GREEN/ | Benelli USA (CDN oficial DX1) | desconocida |
+| /media/benelli-302s-2026-ficha-tecnica-precio-hunt2.webp | https://cdpcdn.dx1app.com/products/USA/BN/2026/MC/SPORT/302S/50/WHITE/ | Benelli USA (CDN oficial DX1) | desconocida |
+| /media/benelli-302s-2026-ficha-tecnica-precio-hunt3.webp | https://www.yuhmak.com | Yuhmak (concesionario) | desconocida |
+| /media/ford-transit-custom-nugget-active-2026-precio-ficha-tecnica-hunt1.webp | https://www.ford-koegler.de/fahrzeugangebot/ford-nugget-active-170ps-aut-4x4-techno-p-95563/ | Autohaus Kögler (concesionario Ford) | desconocida |
+| /media/ford-transit-custom-nugget-active-2026-precio-ficha-tecnica-hunt2.webp | https://www.autoblog.nl/nieuws/ford-maakt-van-hun-transit-camper-een-topverkoper-6938885 | Autoblog.nl | desconocida |
+| /media/ford-transit-custom-nugget-active-2026-precio-ficha-tecnica-hunt3.webp | https://www.infomotori.com/auto/ford-presenta-il-nuovo-transit-custom-nugget/ | Infomotori | desconocida |
+| /media/volkswagen-id3-2026-precio-ficha-tecnica-hunt1.webp | https://evautos25.de/volkswagen-id-3/ | EVAutos25 | desconocida |
+| /media/volkswagen-id3-2026-precio-ficha-tecnica-hunt2.webp | https://www.wayke.se | Wayke.se (concesionario) | desconocida |
+| /media/volkswagen-id3-2026-precio-ficha-tecnica-hunt3.webp | https://www.hibridosyelectricos.com/coches/pruebas-coches/prueba-volkswagen-id3-2024_71047_102.html | Híbridos y Eléctricos | desconocida |
+| /media/camperiz-peugeot-rifter-2026-precio-ficha-tecnica-hunt1.webp | https://www.camperiz.com/wp-content/uploads/2022/06/camperizacion-peugeot-rifter-camperiz-03.jpeg | Camperiz (web oficial) | desconocida |
+| /media/camperiz-peugeot-rifter-2026-precio-ficha-tecnica-hunt2.webp | https://www.camperiz.com/wp-content/uploads/2022/06/camperizacion-peugeot-rifter-camperiz-02.jpeg | Camperiz (web oficial) | desconocida |
+| /media/camperiz-peugeot-rifter-2026-precio-ficha-tecnica-hunt3.webp | https://www.camperiz.com/wp-content/uploads/2022/06/camperizacion-peugeot-rifter-camperiz-07.jpeg | Camperiz (web oficial) | desconocida |
+| /media/ford-transit-custom-nugget-2025-hunt1.webp | https://fordauthority.com/wp-content/uploads/2025/01/2025-Ford-Transit-Custom-Nugget-Press-Photos-Exterior-003-front-three-quarters-1200x668.jpg | Ford Authority (fotos de prensa Ford) | desconocida |
+| /media/ford-transit-custom-nugget-2025-hunt2.webp | https://fordauthority.com/wp-content/uploads/2025/08/Ford-Transit-Custom-Nugget-High-Roof-Exterior-001-Front-Three-Quarters-1024x684.jpg | Ford Authority (fotos de prensa Ford) | desconocida |
+| /media/ford-transit-custom-nugget-2025-hunt3.webp | https://i.bstr.es/espaciofurgo/2025/07/Ford-Tansit-Custom-Nugget-9-1536x1026.jpg.webp | EspacioFurgo | desconocida |
+| /media/rieju-aventura-500-legend-2026-ficha-tecnica-precio-hunt1.webp | https://www.tecnimoto.com/22506-large_default/rieju-aventura-500-color-legen.jpg | Rieju / Tecnimoto | desconocida |
+| /media/rieju-aventura-500-legend-2026-ficha-tecnica-precio-hunt2.webp | https://motorcycles-lyon.store/wp-content/uploads/2023/02/rieju_aventura_500_legend-verte-600x479.jpg | Motorcycles Lyon | desconocida |
+| /media/rieju-aventura-500-legend-2026-ficha-tecnica-precio-hunt3.webp | https://www.enxuro.com/158226-thickbox_default/rieju-aventura-500i-euro5-legend-con-kit-3-maletas.jpg | Enxuro | desconocida |
