@@ -12,6 +12,14 @@
 
 Coordenadas 42.246887, -8.695972: punto de la AP-9V, pk 2,8, en Vigo (Pontevedra), donde está instalada la cabina. Controla el sentido creciente, el de los pks ascendentes, y el destino registrado es Vigo. El enlace de Street View de la cabecera permite ver el emplazamiento.
 
+<iframe title="Mapa: radar ap-9v-2-8-creciente-cabina" src="https://www.google.com/maps?q=42.246887,-8.695972&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar ap-9v-2-8-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.246887,-8.695972&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La AP-9V es una autopista de peaje de titularidad estatal, vinculada a la AP-9 en el entorno de Vigo. La DGT la clasifica en su XML con la singularidad «AUTOPISTA / AUTOVÍA», propia de la alta capacidad. Sin más datos del tramo en el fichero, la ficha se ciñe a lo documentado.
