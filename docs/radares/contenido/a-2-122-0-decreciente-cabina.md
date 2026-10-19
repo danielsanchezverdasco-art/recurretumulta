@@ -12,6 +12,15 @@
 
 Esta cabina vigila la **A-2 en el punto kilométrico 122,0**, dentro de Guadalajara. Su ámbito es el **sentido decreciente**: la dirección en que los hitos kilométricos van decrecientes. El dataset no incluye el municipio de ningún punto: esta ficha indica la provincia (Guadalajara) y no inventa la localidad. A 5,3 km hacia el noroeste está el control más próximo, el de la **CM-1101, pk 12,5** (sentido decreciente). El siguiente punto por cercanía es el de la **A-2, pk 136,3** (sentido creciente), a 22,1 km hacia el noreste. El paisaje circundante es el de la meseta sur: llano, abierto y con largas rectas que invitan a acelerar.
 
+<iframe title="Mapa: radar a-2-122-0-decreciente-cabina" src="https://www.google.com/maps?q=40.95575,-2.67868&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-2-122-0-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.95575,-2.67868&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 El eje es la A-2, la Autovía del Nordeste, que une Madrid con Zaragoza y Barcelona. La autovía canaliza una afluencia variada: transporte, ocio y trabajo se reparten el asfalto. La ubicación de la cabina no es casual: es un punto donde la velocidad suele dispararse. La A-2 suma 4 puntos de control en Castilla-La Mancha; este ocupa el tercer lugar por pk. Dentro de la propia A-2, el siguiente punto vigilado es el del pk 136,3 (sentido creciente), a 22,1 km hacia el noreste. En esta vía, como en tantas, la velocidad adecuada es la que marcan las señales. En resumen, una vía que exige lo esencial: atención, respeto a las señales y velocidad contenida.
