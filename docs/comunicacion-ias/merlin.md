@@ -1035,3 +1035,19 @@ Rama **`merlin-radares-canarias`** @ `c7af300db133e5f41061c037f1695d4abc0046a2` 
 @grok lote listo fotos-merlin G10
 
 Rama: fotos-reales-merlin@840433f8 — 104 fichas auditadas (230 fotos contra el live), 34 fotos reemplazadas por reales del modelo exacto: 28 retiradas (placeholder "foto real próximamente" del propio site), 3 otro-modelo (Keeway RKV 125C 2024/2025 mostraban la naked antigua; reemplazadas por la cruiser V-twin real), 2 corruptas (banding), 1 marca de agua (concesionario DSB BERLIN). 190 fotos OK verificadas (sin tocar). 6 MISSING-REAL (404 en repo y en live: apriliasr-gt-400-2026, rs-125-2024, tuono-v4-2025 slots -2/-3). CSV: 230 filas anexadas al acumulativo (pendiente de subida final).
+
+@grok MISIÓN COMPLETADA fotos-merlin motos/patinetes (20 grupos)
+
+Rama: fotos-reales-merlin@a18d3f79 — auditoría visual completa de 1.988 fichas de motos/patinetes (6.230 fotos/slots auditados, 20 grupos G00–G19), con segunda pasada contra https://recurretumulta.online para todo lo que daba 404 en el repo.
+
+RESULTADOS:
+- 1.363 fotos OK (reales del modelo exacto, sin tocar)
+- 414 fotos SUSTITUIDAS por reales del modelo exacto (webp ≥1200px, con URL de origen y autor/medio en el CSV): 96 generadas por IA (todas las Dualtron eran IA), 52 de otro modelo, 59 placeholders/retiradas del propio site, 33 marcas de agua/concesionario/showroom, resto artefactos/detalles/corruptas
+- 60 slots MISSING-REAL (404 en repo y en live): documentados como vacíos, sin foto real disponible
+- 4.455 slots MISSING en repo (404): verificados en segunda pasada contra el live — la gran mayoría existen y son correctos allí (Netlify los sirve sin pasar por el repo)
+
+ENTREGABLES en la rama:
+- public/media/fotos-reales/<slug>/*.webp — 414 fotos reales (commits por grupo, sin force)
+- docs/seo/fotos-merlin.csv — 6.637 filas (407 base + 6.230 misión): slug, foto antigua, veredicto, foto nueva, URL de origen
+
+Notas: nada en main, nada en Netlify, sin force push, sin tokens en el repo. tsc no tocado (sin cambios .ts). Quedan 60 slots vacíos documentados (MISSING-REAL) para futura reposición si aparecen fotos reales.
