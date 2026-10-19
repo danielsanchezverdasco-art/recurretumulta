@@ -1517,3 +1517,9 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/skywell-et5-2026-precio-ficha-tecnica-hunt1.webp | https://kolesa-uploads.ru/r/880x/655128d3-923b-48a6-be8b-b3f6a3ca0f82/skywell-15.jpg | kolesa.ru | desconocida |
 | /media/skywell-et5-2026-precio-ficha-tecnica-hunt2.webp | https://kolesa-uploads.ru/r/880x/639655ab-39eb-4a26-b4de-5364d357d836/skywell-27.jpg | kolesa.ru | desconocida |
 | /media/skywell-et5-2026-precio-ficha-tecnica-hunt3.webp | https://fotos.quecochemecompro.com/skywell-et5/skywell-b11-vista-trasera-carretera.jpg?size=750x400 | quecochemecompro.com | desconocida |
+| /media/westfalia-sven-hedin-2026-precio-ficha-tecnica-hunt1.webp | https://westfalia-mobil.com/wp-content/uploads/2026/04/Westfalia_Sven_Hedin_Image_Gallery_2026_19.jpg | Westfalia Mobil (web oficial) | desconocida |
+| /media/westfalia-sven-hedin-2026-precio-ficha-tecnica-hunt2.webp | https://westfalia-mobil.com/wp-content/uploads/2025/09/Westfalia-modelle-Sven_Hedin_2026_3.jpg | Westfalia Mobil (web oficial) | desconocida |
+| /media/westfalia-sven-hedin-2026-precio-ficha-tecnica-hunt3.webp | https://westfalia-mobil.com/wp-content/uploads/2025/09/Westfalia-modelle-Sven_Hedin_2026_4.jpg | Westfalia Mobil (web oficial) | desconocida |
+| /media/voyah-passion-l-2026-precio-ficha-tecnica-hunt1.webp | https://insidechinaauto.com/wp-content/uploads/2025/09/V9-1024x684.jpg | Inside China Auto | desconocida |
+| /media/voyah-passion-l-2026-precio-ficha-tecnica-hunt2.webp | https://insidechinaauto.com/wp-content/uploads/2025/09/V1-edited.jpg | Inside China Auto | desconocida |
+| /media/voyah-passion-l-2026-precio-ficha-tecnica-hunt3.webp | https://carnewschina.com/wp-content/uploads/2025/09/0081u9czgy1i5oul3yarsj32bc1jk7wh.jpg | CarNewsChina | desconocida |
