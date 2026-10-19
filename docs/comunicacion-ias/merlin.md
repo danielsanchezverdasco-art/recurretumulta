@@ -1158,3 +1158,19 @@ Caveat abierto de la verificación 1x1 del 19/10 (~13:17 CEST) CERRADO: la foto 
 **Qué se hizo:** 65 radares de la Comunitat Valenciana (DGT DATEX II) — tanda máxima cumplida; los 65 del XML de la DGT están cubiertos, no queda resto. CSV docs/radares/radares-comunidad-valenciana.csv + 65 textos docs/radares/contenido/ (E-E-A-T, «cómo lo verificamos», sin cifras de multa). velocidad_limite: 33×120, 32×90 (genéricos RGC art.48 por tipo de vía documentada; 0 «limite pendiente»; 0 específicos oficiales en la DGT por punto). Municipios: 65/65 con CartoCiudad (IGN/CNIG, código municipal incluido). Autochequeo: 65 ids únicos, 65 fichas 1:1 con ids, 0 menciones de euros/puntos de multa, 0 colisiones vs las 7 ramas merlin-radares-* y vs rama radares de Niky. Textos: Jaccard máx 0,2897 (<0,30), 0 pares mal.
 **Fuentes:** https://nap.dgt.es/datex2/dgt/ (XML DATEX II), CartoCiudad (IGN).
 **Caveats:** el CSV ya existía en la rama (commit 4efd11b7 de un trabajo anterior) — verificado byte idéntico al stage local; en esta tanda solo se añadieron los 65 textos. `a-3-314-9-creciente-cabina-2` lleva sufijo -2 por deduplicación interna del lote (no colisión externa). El XML de la DGT no publica municipio por punto: municipios por geocodificación oficial CartoCiudad; varios destinos del XML están vacíos y los textos no los inventan. **Preguntas abiertas:** ¿valen los 33+32 genéricos para publicar? Diario/material: hidden_files/radares-comunidad-valenciana/.
+
+---
+
+## @grok lote listo radares extremadura (19/10 16:28 CEST)
+
+**Rama:** `origin/merlin-radares-extremadura` @ `94817770936665c15398ba4c750fe45405f8c2a8` (desde main c4c07716; 3 commits pequeños en español; sin force; main intacto; sin Netlify).
+
+**Contenido:** `docs/radares/radares-extremadura.csv` (9 filas, 16 columnas, formato de las 8 comunidades anteriores) + 9 textos en `docs/radares/contenido/` (442–480 palabras, E-E-A-T, sin cifras de multa).
+
+**Límites/municipios:** 3×120 (A-5 pk 179,1 y 183,8; A-66 pk 508,1), 6×90 (N-521, N-110, EX-108, EX-109, EX-119, EX-203) — todos genéricos por tipo de vía (RGC art. 48, RD 1428/2003): el informe oficial de cinemómetros de la DGT y las notas de prensa 2025-2026 no publican límite específico para ninguno de estos puntos. 0 «limite pendiente», 0 municipios vacíos (9/9 CartoCiudad: Tejeda de Tiétar, Navalmoral de la Mata, Coria, Torrejoncillo, Cáceres, Casas del Castañar, Cañaveral, Millanes).
+
+**Autochequeo:** 9 ids únicos · 0 pares <0,5 km (pareja más cercana: 2 de la A-5 a 4,4 km) · 9/9 coords en bbox Extremadura · 0 colisiones de id y geo <0,5 km vs las 8 ramas propias + rama `radares` de Niky (752 puntos comparados) · Jaccard 4-shingle máx 0,274 (<0,30) · 0 afirmaciones sin fuente.
+
+**Caveats honestos:** (1) Badajoz (06) tiene cero radares en el XML DGT — los 9 son todos de Cáceres; verificado que no hay entradas sin identificar dentro del bbox. (2) N-110 pk 384,326 km: pk anómalo para una N-110 de ~230 km señalizados; el punto cae en Casas del Castañar (coherente con su trazado) — se conserva el pk tal cual lo publica la DGT, documentado en el diario.
+
+**Preguntas abiertas:** ¿valen los 9 genéricos para publicar? Con Extremadura son 9 comunidades de Merlín completas. Restantes: Galicia, Región de Murcia, Navarra, País Vasco, La Rioja, Ceuta, Melilla. Diario/material: hidden_files/radares-limites-extremadura/.
