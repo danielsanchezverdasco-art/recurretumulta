@@ -8,7 +8,7 @@ export const ANALISIS_COCHE_21: MapaAnalisis = {
     "parrafos": [
       "39.000 euros es el precio de acceso del Rox Motor 01, el SUV híbrido enchufable que la marca encuadra entre los SUV. Homologa 6 plazas. Rinde 476 caballos a tenor de los datos. Mide 5050 mm de largo, una cota típica entre los SUV.",
       "La documentación destaca autonomía total de 1.115 km (WLTC) gracias al extensor de 1.5 turbo, junto con interior de 6 o 7 plazas pensado para familias, con maletero de 545 litros. Su punto más discutible: sin datos EuroNCAP ni pruebas de seguridad independientes. Además, peso y tamaño (5,05 m) lo hacen poco manejable en ciudad europea. La hoja de datos fija su velocidad punta en 190 km/h. El 0 a 100 cae en 5,5 segundos; contundentes para su segmento.",
-      "Toda la fuerza va a las cuatro ruedas. Ofrece 545 litros de maletero con las plazas en uso. Monta 56 kWh de batería. Nada sustituye a una prueba: la ficha pone los datos y la carretera pone el resto. La alcance WLTP es de 235 km. Mide 5050 mm de largo, 1980 de ancho y 1869 de alto."
+      "Toda la fuerza va a las cuatro ruedas. Ofrece 545 litros de maletero con las plazas en uso. Monta 56 kWh de batería. Es de esos vehículos que se compran con la cabeza: el SUV híbrido enchufable, 476 caballos y datos claros. Nada sustituye a una prueba: la ficha pone los datos y la carretera pone el resto. La alcance WLTP es de 235 km. Mide 5050 mm de largo, 1980 de ancho y 1869 de alto."
     ],
     "veredicto": "Compra lógica si el espacio de carga pesan más que más equipamiento por este dinero en tu lista, con 39.000 € de partida."
   },
@@ -30,11 +30,11 @@ export const ANALISIS_COCHE_21: MapaAnalisis = {
   }
   "seat-arona-15-tsi-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "El ingeniero de motores lo explica: el 1.5 TSI de 150 CV es el propulsor que mejor le sienta al Arona, con 250 Nm desde abajo y una soltura que el 1.0 no ofrece. Son 150 de potencia con DSG de 7, 0 a 100 solvente y 212 km/h de techo, por 25.227 €.",
-      "Con 1268 kg en la báscula, la media es de 5,7 l/100 km, razonable para un gasolina de esta potencia. Las cotas no cambian (4164 mm de eslora, 1780 de manga, 1538 de puntal), el arcón sigue en 400 litros y el empuje va delante para cinco. La desconexión de cilindros ayuda a contener la media en uso tranquilo.",
-      "El lunar es administrativo: credencial C y el mild-hybrid con ECO que no llegará hasta 2027, mientras rivales híbridos ya disfrutan de ventajas. A 25.227 € convence por mecánica; la etiqueta es el peaje."
+      "El 1.5 TSI de 150 CV es el bloque que mejor casa con el Arona: 250 Nm de par motor desde la zona baja le otorgan una soltura que el 1.0 no brinda. Son 150 CV con transmisión automática de 7 marchas, un tándem que ventila el 0 a 100 con desparpajo y alcanza 212 km/h de techo sin que el tetracilíndrico parezca apurado.",
+      "La técnica rema a favor del uso cotidiano: con 1268 kg en la báscula, el registro de 5,7 l/100 km se contiene en una cifra cabal para un gasolina de esta energía. Las dimensiones no varían (4164 mm de extremo a extremo, 1780 de anchura y 1538 de altura), el vano continúa en 400 l y acoge a 5 viajeros con las ruedas delanteras motrices.",
+      "El debe es burocrático: exhibe la letra C y el microhíbrido del adhesivo verde no verá la luz hasta 2027, mientras diversos contrincantes ya ostentan el adhesivo verde con prebenda fiscal y en áreas de circulación restringida. A 25.227 € seduce por bloque y transmisión; la letra es el tributo para quien la requiera."
     ],
-    "veredicto": "Mecánica redonda por 25.227 €; la ECO, en el futuro."
+    "veredicto": "El mejor bloque del Arona por 25.227 € cuando se priorizan motor y registro; se queda corto cuando el adhesivo verde es innegociable."
   }
   "seat-arona-fr-10-tsi-115-2026-precio-ficha-tecnica": {
     "parrafos": [
@@ -46,11 +46,11 @@ export const ANALISIS_COCHE_21: MapaAnalisis = {
   }
   "seat-arona-fr-15-tsi-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "El veredicto del segmento es claro: el Arona FR 1.5 TSI entrega 150 de potencia y cambio DSG por 25.227 € con descuento oficial aplicado. Son 250 Nm y un 0 a 100 en 8,3 segundos, guarismos que la competencia solo sirve en sus variantes más costosas. La postura elevada y la dotación específica del acabado deportivo completan el cuadro.",
-      "La suspensión del FR peca de cierta dureza, y la certificación ambiental es la C con 129 g/km, sin ECO a la vista. El promedio de 5,7 l/100 km resulta contenido, la bodega de 400 litros se sitúa en el término medio y las dimensiones (4164 mm de largo, 1780 de ancho, 1538 de alto) no lastran en la urbe. Declara 1268 kg en la báscula.",
-      "Ante el 1.0 TSI 115, que baja de los 23.000 €: en el tráfico diario el pequeño cumple; en vía rápida los 150 se agradecen. Por 25.227 €, de lo más redondo con gasolina y brío del panorama actual."
+      "Ante los contrincantes del segmento B, el Arona FR 1.5 TSI despliega un argumento nítido: 150 CV y caja automática por 25.227 €, con rebaja de tarifa ya aplicada. Son 250 Nm y un 0 a 100 en 8,3 s, guarismos que la competencia reserva a sus variantes costosas. La postura alta y la dotación FR completan un planteamiento que planta cara a cualquiera.",
+      "En el debe también hay partidas: la suspensión FR peca de seca cuando se antepone la comodidad, y la calificación es la C con 129 g/km, sin ECO a la vista. El gasto de 5,7 l/100 km resulta comedido, el vano de 400 l se sitúa en la media y las medidas (4164 mm de punta a punta, 1780 de anchura y 1538 de altura) no lastran en el asfalto metropolitano. Registra 1268 kg.",
+      "¿Y ante el 1.0 TSI 115, que baja de los 23.000 €? La divergencia la marca el bloque: en el asfalto metropolitano el pequeño cumple; cuando se rueda por autovía con frecuencia, los 150 CV se agradecen a diario. Por 25.227 €, de lo más redondo con combustible tradicional y nervio."
     ],
-    "veredicto": "De lo más redondo por 25.227 €; la dureza de la suspensión, el tributo."
+    "veredicto": "De lo más redondo del segmento por 25.227 € con combustible tradicional y brío; pierde puntos cuando mandan la comodidad o el ECO."
   }
   "seat-ateca-15-tsi-2026-precio-ficha-tecnica": {
     "parrafos": [
@@ -62,11 +62,11 @@ export const ANALISIS_COCHE_21: MapaAnalisis = {
   }
   "seat-ateca-20-tdi-115-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "El gestor de flotas firma: 31.280 € por el Ateca diésel más barato, el 2.0 TDI 115 manual con 116 de potencia. Es una planta motriz contrastada, con red de recambios inmensa y costes conocidos al milímetro. Pesa 1468 kg y homologa cinco.",
-      "Los 300 Nm empujan con solvencia para viajar cargado, aunque el 0 a 100 en 10,9 segundos lo hace el Ateca menos prestacional. La media es de 4,8 l/100 km, el seno de 510 litros y las cotas de 4381 mm (1841 de anchura, 1615 de altura), con motricidad anterior y credencial C. El cambio manual mantiene el precio de acceso en 31.280 €.",
-      "Compra de cabeza para altos kilometrajes: con más de 20.000 km al año los números salen. Si buscas chispa o electrificación, este no es tu Ateca. Los 300 Nm garantizan empuje con el coche cargado."
+      "El Ateca de gasóleo más asequible se tarifa en 31.280 € y responde a las siglas 2.0 TDI 115: 116 CV, caja de cambios de accionamiento manual y un bloque 2.0 TDI de fiabilidad aquilatada, con repuestos al alcance en cualquier punto y todo taller preparado para intervenirlo. Declara 1468 kg y 5 asientos homologados en una silueta de 4381 mm de extremo a extremo (1841 de anchura, 1615 de altura).",
+      "Sus 300 Nm de par constituyen el dato que impera en esta variante: brío bastante para desplazarse con carga sin agobios, aunque el 0 a 100 en 10,9 s lo erige en el Ateca de menor nervio. A cambio, firma 4,8 l/100 km, el vano brinda 510 l y la motricidad corresponde al tren anterior.",
+      "Con la letra C en el cristal: transita hoy sin vetos, aunque sin los privilegios de las calificaciones superiores. Es una adquisición de razón, sin apasionamiento: quien opta por este TDI anhela un desembolso comedido por kilómetro y un bloque que resista años con conservación sensata. Cuando el cuentakilómetros suma sin tregua cada año, las cuentas cuadran; cuando se ansía garra o el adhesivo verde, este no es su Ateca."
     ],
-    "veredicto": "Flotas y kilometreros por 31.280 €; la chispa, en otro Ateca."
+    "veredicto": "Decisión acertada con 31.280 € para quien acumula kilómetros sin mirar el surtidor; se queda corta cuando se exigen nervio o el adhesivo verde."
   }
   "seat-ateca-20-tdi-2026-precio-ficha-tecnica": {
     "parrafos": [
@@ -78,11 +78,11 @@ export const ANALISIS_COCHE_21: MapaAnalisis = {
   }
   "seat-ateca-2024-precio-ficha-tecnica": {
     "parrafos": [
-      "El observador del mercado de segunda mano señala: el Ateca 1.0 TSI EVO de 115 de potencia arranca en 26.041 €, pero la casa centra su porvenir en su filial deportiva y el sucesor es una interrogante que castiga la cotización futura. A cambio, 510 litros de arcón —entre los mayores del segmento C—, cinco ocupantes y sello C.",
-      "El promedio es de 6,1 l/100 km con 200 Nm, registra 1345 kg y se extiende 4381 mm (1841 de ancho, 1615 de alto). La actualización data de 2020 y acusa el paso del tiempo ante rivales más recientes. Quien lo exprima una década apenas notará la desvalorización.",
-      "El planteamiento: si buscas 115 y un arcón inmenso por 26.041 € para exprimirlo durante años, la desvalorización escuece menos. Si estrenas automóvil con frecuencia o exiges ECO, la apuesta no sale a cuenta."
+      "El Ateca 1.0 TSI EVO de 115 CV arranca en 26.041 €, y ese importe lo erige en una de las vías de acceso más económicas al segmento C de los todocamino. A cambio brinda 510 l de vano —entre los más capaces de su clase—, cabina para 5, letra C y 6,1 l/100 km de media con 200 Nm de par. Registra 1345 kg y 4381 mm, con 1841 de anchura y 1615 de altura.",
+      "El interrogante que todo adquirente se plantea no es mecánico sino de estrategia: SEAT vuelca su porvenir en Cupra y la sucesión del Ateca permanece en el aire. Ello erosiona el valor residual venidero, aunque descorre una oportunidad: quien adquiera ahora un modelo con lavado de cara de 2020 lo hace con tarifa contenida, y el 1.0 TSI EVO es un bloque elemental y contrastado.",
+      "La táctica está diáfana: con 115 CV y un vano descomunal por 26.041 €, conservar el modelo una década deja la depreciación en segundo plano. Renovar montura cada trienio o aspirar al adhesivo verde, en cambio, tuerce la apuesta. Adquisición meditada, con los números sobre la mesa."
     ],
-    "veredicto": "Arcón inmenso por 26.041 € para años; la apuesta falla si estrenas a menudo."
+    "veredicto": "Tiene lógica por 26.041 € cuando se desea volumen económico y se conserva a largo plazo; fuera de planes cuando se rota montura con frecuencia o se aspira al adhesivo verde."
   }
   "seat-ateca-fr-20-tdi-2026-precio-ficha-tecnica": {
     "parrafos": [
@@ -94,19 +94,19 @@ export const ANALISIS_COCHE_21: MapaAnalisis = {
   }
   "seat-ibiza-10-tsi-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "Si hay un Ibiza que resume la idea de equilibrio, es este: 116 CV por 19.670 €, el punto medio exacto entre el acceso pelado y las versiones que se disparan de precio. El 1.0 TSI tricilíndrico empuja bien desde 2.200 rpm gracias a sus 200 Nm, gasta 5,1 l/100 km y emite 117 g/km. Formato urbano de 4059 mm con tracción delantera.",
-      "El 0 a 100 en 9,7 segundos es una cifra correcta para un gasolina de este tamaño, y las cotas (1780 mm de ancho, 1444 de alto) lo mantienen ágil en ciudad. Los peros son los de siempre en el segmento: plásticos duros en el salpicadero y un acabado FR con este motor que sube notablemente la factura.",
-      "La pregunta del millón: ¿compensa frente al 95 CV más barato o al 150 CV más caro? Para quien quiera un único coche urbano que también salga a carretera sin complejos, este 116 CV es el término medio sensato. Probarlo antes de decidir sigue siendo el mejor consejo."
+      "Cuando un Ibiza condensa la noción de ponderación, es este: 116 CV por 19.670 €, el fiel exacto entre el acceso espartano y las variantes que escalan de importe. El 1.0 TSI de tres cilindros tira con brío desde 2.200 rpm merced a sus 200 Nm, firma 5,1 l/100 km y declara 117 g/km. Formato metropolitano de 4059 mm con las ruedas delanteras motrices.",
+      "El 0 a 100 en 9,7 s es un guarismo apropiado para un gasolina de esta talla, y las medidas (1780 mm de anchura, 1444 de altura) lo conservan vivaz en el asfalto ciudadano. Los reparos son los habituales de la categoría: materiales de dureza mejorable en la plancha de a bordo y un nivel FR con este bloque que eleva la factura de forma notable.",
+      "La cuestión del millón: ¿compensa ante el 95 CV más económico o ante el 150 CV más costoso? Para quien desee un único automóvil metropolitano que también ruede por autovía sin complejos, este 116 CV es la vía intermedia cabal. Catarlo antes de decidir continúa siendo el mejor consejo."
     ],
-    "veredicto": "Convence por 19.670 € si buscas el término medio entre precio y prestaciones; menos si necesitas más maletero."
+    "veredicto": "Seduce por 19.670 € cuando se desea el fiel entre importe y brío; se queda corto ante la demanda de más vano."
   }
   "seat-ibiza-15-tsi-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "El editor de diseño aplaude el restyling 2026: frontal hexagonal, faros LED y bacquet en el FR para el Ibiza más actual. La novedad gorda es el 1.5 TSI de 150 caballos y 250 Nm, solo con DSG, por 23.142 € de etiqueta.",
-      "Las prestaciones son serias: 0 a 100 en 8,1 segundos y 220 km/h de máxima, con una media de 5,7 l/100 km. Mide 4059 mm (1780 de anchura, 1444 de altura), caben cinco y la motricidad es anterior, con 127 g/km. Los asientos bacquet del FR sujetan bien en los apoyos laterales.",
-      "Sin opción manual y con credencial C, sin ventajas en zonas restringidas frente a híbridos. Si eso no frena, por 23.142 € es el Ibiza más completo. Verlo en vivo ayuda: el restyling gana en persona. El frontal hexagonal le da un aire mucho más actual."
+      "El restyling de 2026 le sienta bien al Ibiza: frontal hexagonal, faros LED y, en el FR, asientos bacquet que le dan un aire mucho más actual. Y la novedad gorda está bajo el capó: el 1.5 TSI de 150 CV y 250 Nm, el Ibiza más potente de la gama, solo disponible con cambio DSG de serie. Tarifa de entrada: 23.142 €.",
+      "Las prestaciones son serias para un utilitario: 0 a 100 en 8,1 segundos y 220 km/h de punta, con un consumo homologado de 5,7 l/100 km que lo hace interesante para quien acumula kilómetros. Mide 4059 mm (1780 de ancho, 1444 de alto), caben cinco ocupantes y la tracción es delantera. Emite 127 g/km.",
+      "Dos matices: no hay opción manual para el 1.5 TSI, y la etiqueta es la C, sin ventajas en zonas de bajas emisiones frente a los híbridos. Si eso no te frena, por 23.142 € tienes el Ibiza más completo y vistoso de la gama. Verlo en vivo ayuda: el restyling gana mucho en persona."
     ],
-    "veredicto": "El Ibiza más actual por 23.142 €; sin manual ni ECO."
+    "veredicto": "Buena papeleta por 23.142 € si quieres el Ibiza más potente y actual; peor si buscas manual o ECO."
   }
   "seat-ibiza-2025-precio-ficha-tecnica": {
     "parrafos": [
@@ -134,27 +134,27 @@ export const ANALISIS_COCHE_21: MapaAnalisis = {
   }
   "seat-ibiza-fr-15-tsi-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "La escuela de conducción lo certifica: al volante, el Ibiza FR 1.5 TSI se transforma, con 150 de potencia que responden con contundencia, 0 a 100 en 8,1 segundos y un bastidor que invita en las curvas. Se tarifa en 23.806 €, registra 1231 kg y se extiende 4070 mm (1780 de ancho, 1447 de alto).",
-      "El 1.5 TSI no solo empuja: el promedio es de 5,7 l/100 km y los 127 g/km le otorgan la certificación C. La tracción va al tren anterior para cinco ocupantes, aunque el compartimento de 355 litros anda escaso. El tacto del tren de rodaje invita a enlazar curvas con confianza.",
-      "Ante el FR 1.0 TSI el debate es de filosofía: el menor resuelve en la urbe; este 150 está pensado para quien rueda por vía rápida. Por 23.806 €, escasos utilitarios brindan este tacto."
+      "En marcha, el Ibiza FR 1.5 TSI es harina de otro costal respecto a sus hermanos: 150 CV que tiran con brío, 0 a 100 en 8,1 s y un bastidor que secunda cuando la vía se retuerce. Se anuncia en 23.806 €, declara 1231 kg y 4070 mm con 1780 de anchura y 1447 de altura.",
+      "Es el urbano de la marca del martorellés para quien goza conduciendo. El 1.5 TSI no solo empuja: homologa 5,7 l/100 km en ciclo oficial, guarismo contenido para lo que brinda, y registra 127 g/km. Las ruedas delanteras son las motrices y acoge a 5 tripulantes, aunque el vano de 355 l anda escaso para su talla. La calificación es la C, sin alternativa ECO.",
+      "El dilema ante el FR 1.0 TSI atiende a la filosofía: el pequeño resulta más asequible y basta para el asfalto metropolitano; estos 150 CV son para quien rueda por autovía y desea respuesta al instante. Por 23.806 €, escasos urbanos brindan este tacto. Cuando se desea el Ibiza con los deberes hechos y garra auténtica, esta es la vía."
     ],
-    "veredicto": "Tacto de escuela por 23.806 €; el compartimento, escaso."
+    "veredicto": "Tiene lógica por 23.806 € cuando se desean 150 CV y gozo en marcha; se queda corto ante la exigencia ECO o de más vano."
   }
   "seat-leon-15-ehybrid-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "El sello Cero lo transforma todo para quien habita una gran urbe: el León 1.5 e-HYBRID accede a cualquier zona de bajas emisiones sin cortapisas y aparca con ventaja, algo que ningún León de combustible puede afirmar. Se tarifa en 34.440 €, entrega 204 CV y oficializa 133 km de alcance eléctrico, bastantes para el quehacer diario sin quemar una gota.",
-      "La clave reside en recargarlo: con el acumulador repuesto a diario, la media oficial es de 1,3 l/100 km y el commuting sale casi gratis. El 0 a 100 se liquida en 7,7 segundos y los 28 g/km permanecen contenidos. Toda la fuerza va al eje anterior y viajan cinco.",
-      "Los peros son de sobra conocidos: la bodega se reduce a 270 litros porque el acumulador absorbe 110 frente al resto de la gama, la báscula sube a 1657 kg y, sin recargar nunca, promedia más que un 1.5 TSI por el lastre adicional. Es un vehículo para quien dispone de toma de corriente y rueda en la urbe; sin toma, diluye su lógica."
+      "La etiqueta Cero lo cambia todo para quien vive en una gran ciudad: el León 1.5 e-HYBRID entra en cualquier zona de bajas emisiones sin restricciones y aparca con ventajas, algo que ningún León de gasolina puede decir. Cuesta 34.440 €, rinde 204 CV y homologa 133 km de autonomía eléctrica, suficiente para cubrir la rutina diaria sin quemar una gota.",
+      "El truco está en enchufarlo: con la batería cargada a diario, el consumo homologado es de 1,3 l/100 km y el commuting sale casi gratis. El 0 a 100 se resuelve en 7,7 segundos y las emisiones se quedan en 28 g/km. Toda la fuerza va al eje delantero y caben cinco ocupantes.",
+      "Los peros son conocidos: el maletero se queda en 270 litros porque la batería se come 110 respecto al resto de la gama, el peso sube a 1657 kg y, si no se enchufa nunca, gasta más que un 1.5 TSI por el lastre extra. Es un coche para quien tenga punto de carga y haga kilómetros urbanos; sin enchufe, pierde su sentido."
     ],
-    "veredicto": "Para quien dispone de toma y anhela el Cero por 34.440 €; descartable ante la necesidad de bodega amplia."
+    "veredicto": "Para quien tenga donde cargarlo y quiera el Cero por 34.440 €; descartable si necesitas maletero grande."
   }
   "seat-leon-15-etsi-115-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "La contabilidad urbana sale así: 25.490 € por el León 1.5 eTSI 115, el gasolina más frugal sin cable, con sello ECO, transmisión DSG de 7 relaciones y un promedio de 5,2 l/100 km. Son 115 de potencia, 220 Nm y 197 km/h de techo.",
-      "La silueta se extiende 4368 mm (1800 de ancho, 1456 de alto), el vano es de 380 litros y viajan cinco, con 121 g/km. El sistema de 48 voltios no admite rodar en eléctrico, pero alivia el gasto en las retenciones. El sello ECO facilita aparcar en zona regulada con descuento.",
-      "Las prestaciones son calmadas y supera en precio al 1.5 TSI de cambio convencional. Pero si el entorno metropolitano es tu hábitat y reniegas de enchufar, por 25.490 € este León resulta coherente; si anhelas brío, apunta más alto. Una propuesta coherente para el día a día metropolitano."
+      "Existe una vía para lograr el adhesivo ECO sin cables ni enredos, y responde al nombre de 1.5 eTSI 115: el León de combustible tradicional más frugal sin enchufe, por 25.490 €. Entrega 115 CV con microhibridación, transmisión automática de 7 marchas de serie y 5,2 l/100 km de media. La fuerza va al eje anterior y la cabina acoge a 5.",
+      "Su hábitat es el asfalto metropolitano: la caja automática evita el pedal izquierdo en los embotellamientos, los 220 Nm brindan brío bastante y los 197 km/h de techo sobran para cualquier ritmo permitido. Son 4368 mm de extremo a extremo con 1800 de anchura y 1456 de altura, 380 l de vano trasero y 121 g/km de CO2.",
+      "El tacto es pausado —concebido para la frugalidad, sin vocación racer— y su importe supera al del 1.5 TSI 115 de palanca tradicional. A cambio obsequia con la ECO y sus privilegios en áreas de tráfico restringido y estacionamiento. Cuando el asfalto metropolitano es el hábitat y no apetece depender de un cargador, este León tiene lógica."
     ],
-    "veredicto": "Frugalidad metropolitana por 25.490 €; el brío, en otro escalón."
+    "veredicto": "Tiene lógica por 25.490 € para quien desea la ECO sin cables y frugalidad metropolitana; pierde fuelle ante quien pida brío o terminación superior."
   }
   "seat-leon-15-etsi-150-2026-precio-ficha-tecnica": {
     "parrafos": [
@@ -190,11 +190,11 @@ export const ANALISIS_COCHE_21: MapaAnalisis = {
   }
   "seat-leon-20-tdi-115-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "25.230 €: el compacto de gasóleo más económico del Grupo VW se llama León 2.0 TDI 115. El 2.0 TDI es una mecánica veteranísima, con red de repuestos inmensa y costes de servicio conocidos al detalle. Son 115 de potencia, 1421 kg y 4368 mm de eslora con eje motor delantero.",
-      "El gasto es su razón de ser: 4,6 l/100 km en ciclo oficial y 119 g/km, con 380 litros de bodega y dimensiones de 1800 mm de anchura por 1456 de altura. El 0 a 100 en 10,5 s deja claro que no nació para correr, y resulta menos refinado y más sonoro que los TSI.",
-      "El sello C lo deja fuera de las zonas de bajas emisiones estrictas a medio plazo: el gasóleo tiene fecha de caducidad en la urbe. Pero cuando realizas 30.000 km anuales por vía rápida, escasos vehículos amortizan mejor cada euro. Por 25.230 €, es la calculadora hecha automóvil."
+      "25.230 €: es el diésel compacto más barato del Grupo VW, y se llama León 2.0 TDI 115. El 2.0 TDI es una mecánica probadísima, con una red de recambios enorme y costes de mantenimiento conocidos al milímetro. Son 115 CV, 1421 kg y 4368 mm de largo con tracción delantera.",
+      "El consumo es su razón de ser: 4,6 l/100 km en ciclo oficial y 119 g/km, con 380 litros de maletero y cotas de 1800 mm de ancho por 1456 de alto. El 0 a 100 en 10,5 segundos deja claro que no es una propuesta para correr, y es menos refinado y más ruidoso que los TSI.",
+      "La etiqueta C lo deja vetado en las zonas de bajas emisiones estrictas a medio plazo: el diésel tiene fecha de caducidad urbana. Pero si haces 30.000 km al año por carretera, pocos coches amortizan mejor cada euro. Por 25.230 €, es la calculadora hecha coche."
     ],
-    "veredicto": "Para quien devora km y anhela el gasóleo por 25.230 €; no cuando se exige ECO o refinamiento."
+    "veredicto": "Para ti si devoras kilómetros y buscas el diésel por 25.230 €; menos si necesitas ECO o refinamiento."
   }
   "seat-leon-20-tdi-2026-precio-ficha-tecnica": {
     "parrafos": [
@@ -208,7 +208,7 @@ export const ANALISIS_COCHE_21: MapaAnalisis = {
     "parrafos": [
       "A partir de 27.500 €, el Seat León 2025 ofrece 115 CV en carrocería compacto con mecánica híbrido ligero. 1330 kg: ese es el peso que figura en la ficha técnica. 4368 mm de largo: esas son sus cotas longitudinales si nos atenemos a la ficha. Las emisiones son de 123 g/km.",
       "Entre sus puntos fuertes, la ficha técnica presume de diseño español con carácter: el compacto más emocional del grupo VW; también, chasis deportivo de serie: divertido sin ser incómodo. En el debe, climatizador táctil: engorroso en marcha. A eso hay que añadir que el 1.5 eTSI de 115 CV, suficiente pero sin alegría. Entrega 220 Nm de par si nos atenemos a la ficha. En ciclo homologado firma 5,4 l/100 km, un registro contenido para el compacto de 115 CV.",
-      "Ofrece 380 litros de hueco para el equipaje con las plazas en uso. Mide 4368 mm de largo, 1799 de ancho y 1439 de alto. La tracción es delantera. Antes de firmar, merece verlo en vivo: los números orientan, la experiencia decide. Su caballería oficial es de 115 CV."
+      "Ofrece 380 litros de hueco para el equipaje con las plazas en uso. Mide 4368 mm de largo, 1799 de ancho y 1439 de alto. La tracción es delantera. Su tarifa de entrada de 27.500 € lo coloca en la lista de quien no firma sin comparar antes. Antes de firmar, merece verlo en vivo: los números orientan, la experiencia decide. Su caballería oficial es de 115 CV."
     ],
     "veredicto": "Para el conductor que pone la etiqueta ECO por delante de todo, con 27.500 € en la mano: acierto. En caso contrario, hay más equipamiento por este dinero en otro lado."
   },
@@ -222,11 +222,11 @@ export const ANALISIS_COCHE_21: MapaAnalisis = {
   }
   "seat-leon-sportstourer-15-etsi-115-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "Frugalidad de gasóleo sin ser gasóleo: el Sportstourer 1.5 eTSI 115 promedia 5,3 l/100 km con gasolina y microhibridación de 48 voltios, sin recortar un litro de bodega —permanece intacta en 620 litros. Se tarifa en 26.240 €, entrega 115 CV y la DGT otorga el sello ECO.",
-      "Los 220 Nm impulsan el conjunto ranchero con dignidad, el 0 a 100 se completa en 10,7 s y el techo es de 197 km/h. Registra 122 g/km, se extiende 4642 mm (1799 de anchura, 1450 de altura) y el eje motor delantero mueve el conjunto para 5 ocupantes.",
-      "Los matices: supera en importe al 1.5 TSI de cambio convencional y la microhibridación apenas ahorra en vía rápida. Pero para un ranchero de vida en la urbe y alrededores, la ECO franquea las zonas de bajas emisiones sin trabas. Por 26.240 €, el ranchero de 48 voltios con sentido práctico."
+      "Eficiencia de diésel sin ser diésel: el Sportstourer 1.5 eTSI 115 gasta 5,3 l/100 km con gasolina y hibridación ligera, y lo hace sin recortar un litro de carga —el maletero queda intacto en 620 litros pese a la hibridación. Cuesta 26.240 €, rinde 115 CV y la DGT le asigna el distintivo ECO.",
+      "Los 220 Nm mueven el conjunto familiar con dignidad, el 0 a 100 cae en 10,7 segundos y la punta es de 197 km/h. Emite 122 g/km, mide 4642 mm (1799 de ancho, 1450 de alto) y la tracción es delantera con cinco plazas.",
+      "Los matices: es más caro que el 1.5 TSI manual equivalente y la microhibridación apenas ahorra en autopista, donde brilla menos. Pero para un familiar que vive en ciudad y alrededores, la ECO abre las zonas de bajas emisiones sin fricciones. Por 26.240 €, el familiar híbrido ligero con sentido práctico."
     ],
-    "veredicto": "Acertado por 26.240 € cuando se anhela ranchero ECO con bodega intacta; no ante la exigencia de terminación superior."
+    "veredicto": "Acierta por 26.240 € si quieres familiar ECO con maletero intacto; menos si buscas acabado superior."
   }
   "seat-leon-sportstourer-15-etsi-150-2026-precio-ficha-tecnica": {
     "parrafos": [
@@ -246,27 +246,27 @@ export const ANALISIS_COCHE_21: MapaAnalisis = {
   }
   "seat-leon-sportstourer-15-tsi-2025-precio-ficha-tecnica": {
     "parrafos": [
-      "El analista de depreciación advierte: 23.213 € por el Sportstourer 1.5 TSI de 116 de potencia y 620 litros, pero SEAT apuesta por CUPRA y el relevo del León es una incógnita que puede lastrar la reventa. La motricidad es anterior y los 128 g/km dan la credencial C.",
-      "El 1.5 TSI es un propulsor probado del Grupo VW con amplia red de recambios, y el tacto iguala al León de 5 puertas sin penalización dinámica. Pesa 1392 kg, la media es de 5,7 l/100 km y el 0 a 100 se queda en 10,7 segundos, lo más modesto de la gama.",
-      "Las cotas son 4642 mm (1799 de anchura, 1450 de altura). Si buscas el ranchero de gasolina sin sorpresas para amortizarlo años, por 23.213 € la cuenta sale; si rotas de coche a menudo, el riesgo no compensa."
+      "23.213 € por un familiar de 620 litros con el 1.5 TSI probado del Grupo VW: la propuesta del Sportstourer de acceso es simple y efectiva. Son 116 CV, tracción delantera y el mismo tacto de conducción que el León de 5 puertas, sin penalización dinámica por la carrocería familiar. Pesa 1392 kg y mide 4642 mm (1799 de ancho, 1450 de alto).",
+      "Las prestaciones son las más modestas de la gama León —10,7 segundos en el 0 a 100—, pero el consumo de 5,7 l/100 km es razonable y las emisiones de 128 g/km le dan la etiqueta C. El 1.5 TSI cuenta con una amplia red de recambios y es una mecánica más que conocida.",
+      "La incógnita es estratégica: SEAT centra su futuro en CUPRA y el relevo del León es una incógnita, lo que puede afectar a la reventa. Si buscas el familiar de gasolina sin sorpresas y piensas amortizarlo a largo plazo, por 23.213 € la cuenta sale. Si rotas de coche cada poco, el riesgo no compensa."
     ],
-    "veredicto": "Ranchero amortizable por 23.213 €; riesgo si cambias a menudo."
+    "veredicto": "Compra con sentido por 23.213 € si priorizas espacio y lo amortizas años; no si cambias de coche a menudo."
   }
   "seat-leon-sportstourer-20-tdi-115-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "El coche de los representantes tiene nombre y apellidos: Sportstourer 2.0 TDI 115, 25.820 €, 300 Nm que empujan con solvencia pese a sus 115 CV y 4,6 l/100 km para devorar kilómetros. Pesa 1469 kg, mide 4642 mm (1799 de ancho, 1450 de alto) y ofrece 620 litros de maletero para el maletín, las muestras y la familia el fin de semana.",
-      "El 0 a 100 en 10,8 segundos es correcto para un familiar diésel, y las emisiones de 120 g/km le dan la etiqueta C. La tracción es delantera y caben cinco ocupantes. La sonoridad diésel en frío recuerda que no es un gasolina, pero en marcha el TDI es un rodador incansable.",
-      "La cuenta es clara: solo compensa con más de 20.000 km al año; por debajo, un gasolina sale más barato de comprar y mantener. Pero para altos kilometrajes, por 25.820 € pocos familiares ofrecen este coste por kilómetro. Ideal para quien vive en la carretera."
+      "El automóvil de los comerciales tiene nombre propio: Sportstourer 2.0 TDI 115, 25.820 €, 300 Nm que tiran con aplomo pese a sus 115 CV y 4,6 l/100 km para sumar kilómetros sin descanso. Anuncia 1469 kg, 4642 mm de extremo a extremo con 1799 de anchura y 1450 de altura, y brinda 620 l de vano para el maletín, las muestras y la prole el fin de semana.",
+      "El 0 a 100 en 10,8 s resulta correcto para un ranchero de gasóleo, y los 120 g/km de CO2 le valen la letra C. Las ruedas delanteras reciben el empuje y da cabida a 5 viajeros. La rumorosidad del gasóleo en frío recuerda que no es un gasolina, aunque en ruta el TDI es un devorador incansable de leguas.",
+      "Las cuentas están claras: solo renta por encima de los 20.000 km anuales; por debajo, un gasolina sale más económico de adquirir y de conservar. Pero para kilometrajes elevados, por 25.820 € escasos rancheros proponen este desembolso por kilómetro. Ideal para quien habita en la vía."
     ],
-    "veredicto": "Cuadra por 25.820 € si haces más de 20.000 km al año; no si buscas el máximo equipamiento."
+    "veredicto": "Tiene lógica por 25.820 € cuando se superan los 20.000 km anuales; se queda corto ante la exigencia del máximo nivel."
   }
   "seat-leon-sportstourer-20-tdi-150-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "Columna de vacaciones: 620 litros para los bultos, 150 CV diésel con DSG de 7 marchas y 4,8 l/100 km para que los viajes largos no duelan en el bolsillo. El Sportstourer 2.0 TDI 150 se presupuesta en 29.682 €, pesa 1504 kg y el 0 a 100 se ventila en 8,6 segundos.",
-      "Las cotas son las del ranchero (4642 mm de eslora, 1799 de manga, 1450 de puntal), el empuje va a las ruedas de delante y los 124 g/km le dan el visado C. Es el diésel sin sorpresas: lo anunciado es lo entregado.",
-      "El ocaso del diésel pesa en la reventa a la baja y la C tiene los días contados en las zonas restringidas. Si el espacio manda y asumes ese ocaso con 29.682 € de tope, este Sportstourer convence; si necesitas electrificación, sigue buscando."
+      "Las escapadas con niños sin jugar al tetris: 620 l de bodega, 150 CV de gasóleo con cambio automático de 7 relaciones de serie y 4,8 l/100 km para que los trayectos largos no castiguen el bolsillo. El Sportstourer 2.0 TDI 150 se tarifa en 29.682 €, registra 1504 kg y despacha el 0 a 100 en 8,6 s.",
+      "Sus medidas son las del ranchero (4642 mm de punta a punta, 1799 de anchura y 1450 de altura), la motricidad va al eje anterior y los 124 g/km de CO2 le valen la letra C. Es el gasóleo familiar sin letra pequeña: lo anunciado en el documento técnico se corresponde con la realidad.",
+      "El punto delicado es el ocaso del gasóleo: la reventa pierde fuelle y la letra C tiene fecha de caducidad en las áreas de tráfico restringido. Cuando eso deja indiferente y el volumen de carga encabeza las prioridades, por 29.682 € este Sportstourer resulta persuasivo. Cuando el ECO es imperativo, conviene continuar explorando."
     ],
-    "veredicto": "Vacaciones sin tetris por 29.682 €; el ocaso del diésel, asumido."
+    "veredicto": "Persuasivo por 29.682 € cuando el volumen encabeza las prioridades y se asume el ocaso del gasóleo; cuando el ECO es imperativo, mejor continuar explorando."
   }
   "sehol-e10x-2025-precio-ficha-tecnica": {
     "parrafos": [
@@ -320,7 +320,7 @@ export const ANALISIS_COCHE_21: MapaAnalisis = {
     "parrafos": [
       "El Seres M7 2025 aterriza como el SUV híbrido de autonomía extendida de 272 CV; el precio oficial está pendiente de confirmación. La longitud oficial es de 5020 mm. La pegatina de la DGT Cero figura en su parabrisas. Homologa la configuración habitual de cinco ocupantes.",
       "Donde más brilla es en la marca Aito (su nombre en China) llegará a España; además, 230 km en modo 100 % eléctrico (batería LFP de 38,5 kWh). El reverso de la moneda es que aún sin fecha de venta en España. 2,38 l/100 km es el gasto homologado que apunta la documentación oficial. 360 Nm de par: la cifra que apunta la documentación.",
-      "Las dimensiones oficiales: 5020 mm de longitud, 1945 de anchura y 1760 de altura. 230 km: ese es su autonomía homologado. La batería es de 38,5 kWh útiles. Los 230 km de autonomía eléctrica permiten cubrir la rutina diaria sin consumir combustible. 272 CV: esa es su rendimiento homologada. En la báscula apunta 2385 kg. La punta es de 190 km/h.  Toda la fuerza va al eje trasero."
+      "Las dimensiones oficiales: 5020 mm de longitud, 1945 de anchura y 1760 de altura. 230 km: ese es su autonomía homologado. La batería es de 38,5 kWh útiles. Los 230 km de autonomía eléctrica permiten cubrir la rutina diaria sin consumir combustible. En resumen: números claros y un planteamiento honesto, sin fuegos artificiales. 272 CV: esa es su rendimiento homologada. En la báscula apunta 2385 kg. La punta es de 190 km/h. Alcanza 190 km/h de velocidad máxima. Velocidad máxima declarada: 190 km/h. Toda la fuerza va al eje trasero."
     ],
     "veredicto": "Para ti si buscas el SUV híbrido de autonomía extendida con 272 CV y la pegatina de la DGT Cero, a falta de precio oficial; menos indicado si necesitas más equipamiento por este dinero."
   },
@@ -350,19 +350,19 @@ export const ANALISIS_COCHE_21: MapaAnalisis = {
   }
   "skoda-elroq-60-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "En un eléctrico, la velocidad de recarga decide los desplazamientos, y el Elroq 60 responde: del 10 al 80 % en 26 min, lo que reduce las paradas a un café. El importe es de 30.350 € —el todocamino eléctrico más asequible del consorcio alemán—, con 204 CV y 428 km de alcance gracias a su acumulador de 63 kWh.",
-      "La media de 15,8 kWh/100 km es moderada para sus 1978 kg, el 0 a 100 se completa en 8 s y la propulsión es posterior. Se extiende 4488 mm (1884 de anchura, 1625 de altura), el arcón brinda 470 litros y la DGT otorga el sello Cero.",
-      "El salto al Elroq 85 de 286 CV arranca en 35.250 €, y el habitáculo muestra materiales rígidos en algunas zonas. Pero por 30.350 €, con esta recarga veloz y 428 km, presenta la relación más favorable entre importe y propuesta para rutear. La última palabra la tiene una prueba en persona."
+      "En un eléctrico, la celeridad de recarga dicta la forma de viajar, y el Elroq 60 responde: del 10 al 80 % en 26 minutos, lo que reduce las detenciones a un café exprés. Se anuncia en 30.350 € —el todocamino eléctrico más asequible del consorcio VW—, rinde 204 CV y certifica 428 km de recorrido con su acumulador de 63 kWh aprovechables.",
+      "Los 15,8 kWh/100 km de media son contenidos para sus 1978 kg, el 0 a 100 se ventila en 8 s y toda la potencia fluye al tren posterior. Son 4488 mm de eslora con 1884 de anchura y 1625 de altura, el vano trasero cubica 470 l y la DGT le otorga el adhesivo azul.",
+      "El salto al Elroq 85 de 286 CV arranca en 35.250 €, y puertas adentro se aprecian materiales de dureza mejorable en ciertos rincones. Pero por 30.350 €, con esta toma veloz y 428 km, es el Elroq de cociente más favorable entre lo abonado y lo obtenido para rutear. La última palabra la dicta una prueba en condiciones reales."
     ],
-    "veredicto": "Acertado por 30.350 € cuando la recarga veloz y el alcance mandan; no ante la exigencia de dotación tope."
+    "veredicto": "Resulta acertado por 30.350 € cuando se valoran la toma veloz y el recorrido para rutear; se queda corto ante la demanda del máximo nivel."
   }
   "skoda-elroq-85-2025-precio-ficha-tecnica": {
     "parrafos": [
-      "La seguridad también se compra, y el Elroq 85 la trae certificada: 5 estrellas Euro NCAP en 2025 con un 90 % en protección de ocupante adulto. Son 286 CV por 35.250 €, con 470 litros de maletero en 4,49 metros de largo (4488 mm) y la pegatina Cero.",
-      "Las prestaciones son contundentes —0 a 100 en 6,6 segundos, 180 km/h de punta— y el consumo de 15,3 kWh/100 km es ajustado para sus 2129 kg. La batería de 77 kWh útiles alimenta un eje trasero que le da un tacto ágil.",
-      "El talón de Aquiles no es el coche sino la infraestructura: la red de carga pública sigue siendo el punto débil para viajar. Y el interior usa plásticos duros en zonas bajas. Pero si lo que ofrece por lo que cuesta es lo primero en tu lista y tu tope son 35.250 €, este Elroq 85 convence por seguridad, espacio y empuje."
+      "La protección también se adquiere, y el Elroq 85 la porta con sello oficial: 5 estrellas EuroNCAP en 2025 con un 90 % en protección de ocupante adulto. Son 286 CV por 35.250 €, con 470 l de bodega en 4,49 metros de longitud (4488 mm) y la credencial azul.",
+      "El brío es contundente —0 a 100 en 6,6 s y 180 km/h de techo— y los 15,3 kWh/100 km en promedio son ajustados para sus 2129 kg. La pila de 77 kWh utilizables alimenta el eje de atrás, que le confiere un tacto vivaz.",
+      "El punto flaco no es el aparato sino la red: la infraestructura de carga pública continúa siendo el eslabón débil para los desplazamientos. Y en el interior se perciben guarnecidos de tacto mejorable en las zonas bajas. Pero cuando lo que se recibe por lo pagado encabeza la lista y el tope son 35.250 €, este Elroq 85 seduce por resguardo, volumen y brío."
     ],
-    "veredicto": "Convence por 35.250 € si priorizas seguridad y prestaciones; menos si dependes de carga pública a diario."
+    "veredicto": "Seduce por 35.250 € cuando se priorizan resguardo y brío; resulta insuficiente cuando se depende de los postes públicos a diario."
   }
   "skoda-elroq-85-2026-precio-ficha-tecnica": {
     "parrafos": [
@@ -374,11 +374,11 @@ export const ANALISIS_COCHE_21: MapaAnalisis = {
   }
   "skoda-elroq-85x-2026": {
     "parrafos": [
-      "El especialista en 4x4 lo recomienda: el Elroq 85x reparte 299 de potencia entre los dos ejes y aporta confianza en nieve, lluvia o firme complicado, por 44.045 €. Pesa 2141 kg y monta 82 kWh de batería.",
-      "La recarga de 175 kW en continua acorta las paradas, la media es de 15,5 kWh/100 km y el techo de 180 km/h. Mide 4488 mm (1884 de anchura, 1625 de altura), el seno crece a 491 litros y circula con aval Cero. La batería se garantiza 8 años o 160.000 km. Los 491 litros del seno dan juego para el equipaje familiar.",
-      "El acabado Selection es espartano y lo atractivo cuesta extra, pero las 5 estrellas Euro NCAP 2025 avalan la protección. Para quien necesite motricidad total por 44.045 €, es la opción. La confianza en marcha es total con la motricidad integral."
+      "El reparto a las 4 ruedas transforma el temperamento del Elroq: el 85x distribuye sus 299 CV entre ambos trenes y suma aplomo para quien reclama aplomo en marcha, ya sea sobre nieve, bajo lluvia o en vías reviradas. Se tarifa en 44.045 €, anuncia 2141 kg y equipa 82 kWh de acumulador.",
+      "La toma ultrarrápida de 175 kW en corriente continua acorta las detenciones, los 15,5 kWh/100 km de media resultan templados y el techo se fija en 180 km/h. Son 4488 mm de extremo a extremo con 1884 de anchura y 1625 de altura, el vano trasero crece hasta los 491 l y luce el adhesivo azul. La cobertura del acumulador se extiende a 8 años o 160.000 km.",
+      "El lunar está en el nivel Selection, austero: lo apetecible supone desembolso adicional. Y las 5 estrellas EuroNCAP 2025, compartidas con su hermano mayor Enyaq, respaldan la protección. Lo avalamos para quien reclama el reparto integral y la frugalidad por 44.045 €; cuando se ambiciona el nivel más colmado de serie, mejor mirar hacia otro lado."
     ],
-    "veredicto": "Motricidad total por 44.045 €; el equipamiento goloso, aparte."
+    "veredicto": "Avalado por 44.045 € cuando el reparto integral y la frugalidad mandan; pierde interés ante la ambición de un nivel colmado de serie."
   }
   "skoda-elroq-electrico-precio-ficha-tecnica": {
     "parrafos": [
@@ -390,51 +390,51 @@ export const ANALISIS_COCHE_21: MapaAnalisis = {
   }
   "skoda-elroq-rs-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "Crónica de prestaciones: el Elroq RS no pide perdón, con 340 de potencia, dos motores de tracción total, 679 Nm y un 0 a 100 en 5,4 segundos, por 51.370 €. La batería de 79 kWh rinde 549 km y luce el aval Cero con chasis y estética RS.",
-      "La recarga admite 185 kW, el techo es de 180 km/h y la fuerza va a las cuatro ruedas para cinco. Más de 2,2 toneladas y unas llantas de 21 pulgadas que penalizan media y confort son los peajes. Las llantas de 21 pulgadas visten mucho pero penalizan el confort.",
-      "Es el Elroq para quien pone la Cero y las prestaciones por delante de todo con 51.370 €; si buscas racionalidad pura, las versiones normales dan casi todo por mucho menos. El 0 a 100 en 5,4 segundos impresiona a cualquiera."
+      "El RS es el Elroq sin complejos: 340 CV, doble propulsor con reparto integral, 679 Nm y un 0 a 100 en 5,4 s que lo instalan en terreno de deportivos. Se tarifa en 51.370 €, luce la pegatina Cero y añade bastidor y fisonomía deportivos RS. El acumulador de 79 kWh declara 549 km de recorrido.",
+      "La toma veloz tolera 185 kW y el techo se sitúa en 180 km/h, con el empuje repartido entre ambos trenes. Cabina para 5 con un enfoque diáfano: el todocamino eléctrico para quien no abdica de las emociones.",
+      "Los tributos del RS: más de 2,2 toneladas y unas llantas de 21 pulgadas que lastran gasto energético y comodidad. Es el Elroq para el automovilista que antepone el adhesivo azul y el brío a todo lo demás con 51.370 € disponibles; cuando se desea racionalidad pura, las variantes convencionales brindan casi todo por bastante menos."
     ],
-    "veredicto": "Prestaciones con Cero por 51.370 €; la racionalidad, más abajo."
+    "veredicto": "Tiene fundamento por 51.370 € cuando el adhesivo azul y el brío son la prioridad; en otro caso, mayor dotación por ese importe."
   }
   "skoda-enyaq-60-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "Análisis racional: 40.610 € por el Enyaq 60, con 204 de potencia, 310 Nm y propulsión trasera. La batería de 63 kWh rinde 433 km de alcance y la media es de 15,5 kWh/100 km, con aval Cero en el parabrisas.",
-      "La bodega de 585 litros está entre las más amplias, el 0 a 100 se cifra en 8,1 segundos y el techo en 160 km/h. Pesa 2002 kg, caben cinco y la garantía de la batería cubre 8 años o 160.000 km. La carga de 165 kW agiliza los viajes. Los 433 km permiten plantear viajes sin vivir pendiente del cargador.",
-      "Sin prisas ni brillo: es el eléctrico familiar para quien pone el gasto por kilómetro por delante de todo con 40.610 €. Quien busque equipamiento máximo o prestaciones, que siga mirando. El aval Cero elimina quebraderos en las grandes urbes."
+      "40.610 € por el Enyaq 60: la puerta de entrada sensata al todocamino eléctrico de gran formato de la marca checa. Rinde 204 CV y 310 Nm con el eje posterior como único motriz, 63 kWh de pila y 433 km de alcance, con 15,5 kWh/100 km de media que lo vuelven apetecible para quien controla el desembolso por kilómetro. El adhesivo azul de la DGT ya va colocado en el cristal.",
+      "El vano trasero ofrece 585 l, entre los más generosos de su clase, y da cabida a 5 viajeros, así que como vehículo para la prole cumple con nota. La recarga ultrarrápida de 165 kW invita a viajar sin esclavizarse al siguiente poste, y la cobertura de la pila se extiende a 8 años o 160.000 km.",
+      "La deportividad no es su campo: 8,1 s en el 0 a 100 y 160 km/h de techo, sin urgencias. Registra 2002 kg. Aun así, para el automovilista que coloca la frugalidad energética en primer término con 40.610 € disponibles, la propuesta tiene fundamento; quien aspire al fulgor o a la dotación más completa, que continúe explorando."
     ],
-    "veredicto": "Racionalidad eléctrica por 40.610 €; el brillo, en otro modelo."
+    "veredicto": "Tiene fundamento por 40.610 € cuando la frugalidad energética manda; pierde atractivo ante la demanda de fulgor o dotación máxima."
   }
   "skoda-enyaq-60-electrico-precio-ficha-tecnica": {
     "parrafos": [
-      "La cobertura legal, por escrito: el acumulador del Enyaq 60 queda cubierto 8 años o 160.000 km. Representan 40.610 € por 204 caballos, empuje posterior, 59 kWh útiles y 433 km de autonomía, con 2002 kg y sello Cero. Una alternativa tranquila dentro de la oferta actual.",
-      "El promedio de 15,5 kWh/100 km es moderado, el 0 a 100 en 8,1 segundos resulta correcto y el arcón de 585 litros figura entre los más generosos. Se extiende 4658 mm (1879 de ancho, 1622 de alto). Un planteamiento sereno para quien valora la cobertura por escrito.",
-      "La autonomía queda por debajo de rivales de última hornada y la aceleración no deslumbra. Pero como propuesta honesta con el acumulador respaldado documentalmente, por 40.610 € persuade al comprador cauteloso. La cobertura documental aporta serenidad al comprador meticuloso. Ideal para conductores de ritmo pausado."
+      "Comprar un eléctrico de 40.610 € es también comprar tranquilidad a largo plazo, y el Enyaq 60 la ofrece por escrito: la batería está garantizada 8 años o 160.000 km. Son 204 CV, tracción trasera, 59 kWh útiles y 433 km de autonomía, con 2002 kg en la báscula y la pegatina Cero.",
+      "El consumo de 15,5 kWh/100 km es contenido para su tamaño, el 0 a 100 en 8,1 segundos resulta solvente y el maletero de 585 litros está entre los más amplios del segmento. Mide 4658 mm (1879 de ancho, 1622 de alto), así que el espacio interior no es un problema.",
+      "La autonomía de 433 km se queda algo corta frente a rivales más modernos, y la aceleración no tiene brillo. Pero como planteamiento honesto —números claros, sin fuegos artificiales—, por 40.610 € convence a quien busque un SUV eléctrico familiar con la batería respaldada por escrito."
     ],
-    "veredicto": "Cobertura documental por 40.610 €; la autonomía puntera, en la competencia."
+    "veredicto": "Convence por 40.610 € si buscas tranquilidad con la batería garantizada; menos si necesitas más autonomía."
   }
   "skoda-enyaq-85-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "Frente al Tesla Model Y, el Enyaq 85 cede en red de recarga pero vence en otros frentes: 38.600 € por 286 CV y 545 Nm de entrega suave y silenciosa, 580 km de alcance efectivo y 585 litros de arcón. La recarga veloz de 175 kW en continua agiliza las etapas.",
-      "Son 2141 kg que en trazados virados se dejan sentir, y el techo es de 180 km/h. El acumulador de 77 kWh alimenta un conjunto de 4658 mm (1879 de anchura, 1622 de alto) con el sello Cero.",
-      "El Tesla brinda mejor ecosistema de recarga, innegable. Pero por 38.600 €, el Enyaq 85 entrega más todocamino familiar por euro: amplitud, alcance efectivo para escapar de la urbe sin agobios y un tacto más pulido. Para quien anhele el eléctrico de 286 CV sin el peaje Tesla, es una alternativa con fundamento."
+      "Medido con el Tesla Model Y, el Enyaq 85 cede en infraestructura de recarga aunque vence en otras lides: 38.600 € por 286 CV y 545 Nm de entrega dócil y silenciosa, 580 km de radio de acción y 585 l de vano.",
+      "La toma veloz de 175 kW en corriente continua mantiene los desplazamientos vivaces. Son 2141 kg que en vías reviradas se dejan notar, y el techo se establece en 180 km/h. El acumulador de 77 kWh aprovechables nutre un conjunto de 4658 mm con 1879 de anchura y 1622 de altura, con el marchamo ecológico.",
+      "El Tesla brinda un ecosistema de recarga superior, sin paliativos. Pero por 38.600 €, el Enyaq 85 entrega más automóvil ranchero por euro: volumen, recorrido efectivo para abandonar la metrópoli sin agobios y un tacto más depurado. Para quien ambiciona el eléctrico de 286 CV sin abonar el tributo Tesla, es una vía seria."
     ],
-    "veredicto": "Para quien anhele el eléctrico de 286 CV por 38.600 €; no cuando la red de recarga es lo primero."
+    "veredicto": "Vía seria cuando se ambiciona el eléctrico de 286 CV por 38.600 €; se queda corta cuando la infraestructura de recarga es lo prioritario."
   }
   "skoda-enyaq-85x-2025-precio-ficha-tecnica": {
     "parrafos": [
-      "El oficial de seguridad firma: 5 estrellas Euro NCAP en 2025 con 90 % en ocupante adulto para el Enyaq 85x, con 286 de potencia y 550 Nm a las cuatro ruedas por 41.300 €. El 0 a 100 cae en 6,7 segundos y el alcance WLTP es de 543 km con 77 kWh.",
-      "Son 2230 kg y una media de 15,7 kWh/100 km, razonable para lo ofrecido. Mide 4658 mm (1879 de anchura, 1620 de altura) y la DGT otorga el aval Cero. La motricidad total da un plus en mojado o nieve. El 90 % en ocupante adulto avala la protección en caso de impacto.",
-      "Sin bomba de calor de serie en el básico y 6.000 € más que el Elroq 85 equivalente. Pero si la protección certificada manda sin pasar de 41.300 €, este Enyaq es de lo más completo."
+      "La seguridad con tracción total tiene un precio: 41.300 € por el Enyaq 85x, con 5 estrellas Euro NCAP en 2025 (90 % en ocupante adulto), 286 CV y 550 Nm repartidos entre los dos ejes. El 0 a 100 cae en 6,7 segundos y el alcance WLTP es de 543 km con 77 kWh de capacidad.",
+      "Son 2230 kg y un consumo de 15,7 kWh/100 km, razonable para lo que ofrece. Mide 4658 mm (1879 de ancho, 1620 de alto) y la DGT le asigna el distintivo Cero. La tracción total aporta ese plus de confianza en mojado o nieve que la trasera no da.",
+      "Los peros: el acabado básico no trae bomba de calor de serie y cuesta 6.000 € más que el Elroq 85 equivalente. Pero si priorizas la seguridad certificada y la motricidad total sin pasar de 41.300 €, este Enyaq es de lo más completo. Números claros y planteamiento honesto."
     ],
-    "veredicto": "Protección certificada por 41.300 €; la bomba de calor, ausente en el básico."
+    "veredicto": "Ideal por 41.300 € si priorizas seguridad y tracción total; no si buscas el acabado más completo."
   }
   "skoda-enyaq-coupe-60-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "Crítica de estilo: el techo descendente le sienta bien al Enyaq, y el Coupé 60 conserva 570 litros de seno pese a la caída. Cuesta 42.890 € —2.280 € más que el normal—, con 204 caballos, tracción posterior y 63 kWh útiles para 442 km.",
-      "La recarga de 165 kW, la media de 15,1 kWh/100 km y los 310 Nm dibujan un perfil eficiente: 0 a 100 en 8,1 segundos y 160 km/h de máxima. Pesa 2006 kg, mide 4658 mm (1879 de anchura, 1623 de altura) y la batería se garantiza 8 años o 160.000 km. El techo descendente no penaliza la habitabilidad trasera.",
-      "¿Compensa el sobreprecio del coupé? Si el diseño te enamora, los 570 litros demuestran que no se renuncia a casi nada. Con aval Cero y 42.890 €, es el Enyaq para quien quiere estética sin sacrificar lo práctico."
+      "La silueta fastback le sienta de maravilla al Enyaq: el Coupé 60 suma empaque a cambio de ceder algo de practicidad, aunque retiene 570 l de vano pese a la zaga rebajada. Se anuncia en 42.890 € —2.280 € por encima del Enyaq 60 convencional—, con 204 CV, las ruedas de atrás como únicas motrices y 63 kWh aprovechables para 442 km de recorrido.",
+      "La toma rápida de 165 kW, los 15,1 kWh/100 km de media y los 310 Nm configuran un aparato eficiente y placentero: 0 a 100 en 8,1 s y 160 km/h de velocidad final. Declara 2006 kg y 4658 mm de largo, con 1879 de anchura y 1623 de altura, y la protección del acumulador se alarga a 8 años o 160.000 km.",
+      "¿Merece la pena el suplemento del coupé? Cuando el diseño enamora a primera vista, los 570 l evidencian que apenas se sacrifica utilidad. Con el marchamo ecológico y 42.890 € de inicio, es el Enyaq para quien desea moverse en eléctrico sin renunciar al empaque, con sitio de sobra para la tropa."
     ],
-    "veredicto": "Estética coupé por 42.890 €; el normal, 2.280 € menos, para pragmáticos."
+    "veredicto": "Para quien desea el eléctrico de silueta coupé por 42.890 €; pierde sentido cuando el suplemento no termina de convencer."
   }
   "skoda-enyaq-coupe-85-2026-precio-ficha-tecnica": {
     "parrafos": [
@@ -456,17 +456,17 @@ export const ANALISIS_COCHE_21: MapaAnalisis = {
     "parrafos": [
       "El catálogo de Skoda incluye el Enyaq Coupé RS desde 52.485 €: 340 caballos y mecánica eléctrico en formato SUV. La pegatina de la DGT Cero figura en su parabrisas. 2258 kg: ese es el peso que figura en la ficha técnica. Con 4660 mm de longitud se sitúa en la media del segmento.",
       "Destaca por tracción total con dos motores, con el añadido de el tope de gama eléctrica de Skoda. El reverso de la moneda es que competencia premium muy dura por este precio. En ciclo homologado firma 16,2 kWh/100 km, un registro razonable para el SUV de 340 caballos. Acelera de 0 a 100 en 5,4 segundos, cifra contundente para el SUV eléctrico.",
-      "La tracción es total. Monta 77 kWh de batería. El radio de acción oficial queda en 575 km. Antes de firmar, conviene verlo en vivo: los números orientan, la experiencia decide. Las dimensiones oficiales: 4660 mm de longitud, 1879 de anchura y 1607 de altura. Para el equipaje reserva 591 litros, cifra que indica la ficha técnica. La ficha técnica fija su velocidad punta en 180 km/h."
+      "La tracción es total. Monta 77 kWh de batería. El radio de acción oficial queda en 575 km. Con 575 km de radio de acción, permite plantear viajes sin vivir pendiente del próximo punto de carga. Antes de firmar, conviene verlo en vivo: los números orientan, la experiencia decide. Las dimensiones oficiales: 4660 mm de longitud, 1879 de anchura y 1607 de altura. Para el equipaje reserva 591 litros, cifra que indica la ficha técnica. La ficha técnica fija su velocidad punta en 180 km/h."
     ],
     "veredicto": "Compra lógica si la relación entre lo que cuesta y lo que ofrece pesan más que el máximo equipamiento por este precio en tu lista, con 52.485 € de partida."
   },
   "skoda-enyaq-rs-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "El escéptico del premium lo dice: el Enyaq RS da 340 caballos y 562 km de alcance por 49.920 €, sin pagar la prima de imagen alemana. Son 2236 kg a las cuatro ruedas, 185 kW de recarga y un 0 a 100 en 5,4 segundos.",
-      "La media de 15,8 kWh/100 km es razonable para 340 caballos, y los 585 litros de seno lo convierten en deportivo familiar: las vacaciones no requieren tetris. La batería es de 77 kWh útiles y mide 4660 mm de eslora. La insignia RS no exige pagar la prima de las marcas premium.",
-      "Los rivales premium presumen de mejor imagen, y el peso se nota. Pero para quien pone el alcance por delante de todo con 49.920 €, este RS es un acierto sin pagar insignias. El tacto es más refinado que el de muchos rivales directos."
+      "562 km de autonomía pese a los 340 CV: el Enyaq RS demuestra que potencia y alcance no están reñidos. Cuesta 49.920 €, pesa 2236 kg y reparte su fuerza entre las cuatro ruedas, con 185 kW de carga rápida en continua y un 0 a 100 en 5,4 segundos.",
+      "El consumo de 15,8 kWh/100 km es razonable para un SUV de 340 CV, y los 585 litros de maletero lo convierten en un deportivo familiar de verdad: las vacaciones no requieren tetris. La batería de 77 kWh útiles y los 4660 mm de largo completan el conjunto.",
+      "Los rivales premium presumen de mejor imagen de marca, y el peso en orden de marcha se nota. Pero para el conductor que pone el alcance homologado por delante de todo con 49.920 € en la mano, este RS es un acierto: prestaciones serias sin renunciar a la vida familiar."
     ],
-    "veredicto": "Alcance y potencia por 49.920 € sin prima premium."
+    "veredicto": "Acierto por 49.920 € si el alcance y las prestaciones mandan; en otro caso hay más equipamiento por ese precio."
   }
   "skoda-epiq-2026-precio-ficha-tecnica": {
     "parrafos": [
@@ -486,59 +486,59 @@ export const ANALISIS_COCHE_21: MapaAnalisis = {
   }
   "skoda-fabia-15-tsi-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "¡Diversión asequible! El Fabia 1.5 TSI planta 150 CV en 1234 kg y el resultado es un utilitario que hace el lanzamiento de 0 a 100 en 8 segundos y toca 222 km/h de techo, por 27.395 € de coste. La ingesta es de 5,3 l/100 km con 123 g/km de emisiones.",
-      "El compartimento de carga, con 380 litros, lidera entre los utilitarios, y la tracción al frente mueve 4108 mm (1780 de anchura, 1459 de altura) para cinco sitios. El acabado Plus peca de espartano por dentro y las plazas traseras quedan justas para adultos altos.",
-      "Para el entusiasta con presupuesto ajustado: corre, gasta poco y cuesta menos que nada con estas prestaciones. Con 27.395 € en la mano es un acierto si el gasto contenido manda; si necesitas más refinamiento o espacio interior para la familia, sube de segmento."
+      "Placer de conducción asequible: el Fabia 1.5 TSI despacha 150 CV por 27.395 €, con un 0 a 100 en 8 s y 222 km/h de velocidad final que ningún contrincante de su tarifa iguala. Anuncia 1234 kg y 4108 mm con 1780 de anchura y 1459 de altura, y firma 5,3 l/100 km de media con 123 g/km.",
+      "El compartimento de 380 l comanda entre los urbanos, así que la vertiente práctica no sufre. Aloja a 5 pasajeros, aunque las butacas posteriores quedan escasas para adultos de gran talla y el nivel Plus peca de sobrio puertas adentro.",
+      "Para el automovilista que sitúa el desembolso comedido en primer término con 27.395 € disponibles, este Fabia resulta redondo: empuja, bebe poco y sale por menos que cualquier contrincante de similar brío. Cuando se reclama más compartimento o más refinamiento, toca escalar de categoría."
     ],
-    "veredicto": "Puro disfrute barato por 27.395 €; el refinamiento, en otra liga."
+    "veredicto": "Resulta redondo por 27.395 € cuando se desea diversión económica; se queda corto ante la demanda de más compartimento o refinamiento."
   }
   "skoda-fabia-2026": {
     "parrafos": [
-      "Cazando chollos: 15.400 € en la web oficial (skoda.es) por el Fabia 1.0 MPI 80, aunque el pago está sujeto a financiación. Son 80 CV atmosféricos, 95 Nm y una economía de 5,1 l/100 km con 119 g/km, en 4108 mm (1780 de ancho, 1459 de alto) y 1133 kg de peso.",
-      "El cajón trasero, con 380 litros según km77, es el mayor del segmento, y el quinteto viaja con eje anterior motriz. La ficha suma 60 kWh de batería, 534 km de autonomía homologada y garantía de 8 años o 160.000 km, con la salida de 0 a 100 en un registro tranquilo.",
-      "Versión de acceso muy justa en prestaciones, pero imbatible en importe de entrada para quien compara cada euro. Tiene sentido si buscas el urbano de 15.400 € y valoras el espacio; pierde fuelle si necesitas brío o más capacidad."
+      "15.400 € en la web de la marca (skoda.es): el Fabia 1.0 MPI 80 es la entrada más económica al urbano checo, aunque el importe va ligado a financiación. Son 80 CV discretos, 95 Nm y 5,1 l/100 km de media con 119 g/km, en una silueta de 4108 mm con 1780 de anchura y 1459 de altura, y 1133 kg en la báscula.",
+      "El vano de 380 l es el más capaz de su clase según km77, y acoge a 5 viajeros con las ruedas delanteras motrices. El documento técnico suma además 60 kWh de acumulador con 534 km de recorrido homologado y cobertura de 8 años o 160.000 km.",
+      "Es el Fabia para quien coteja cada euro antes de rubricar: asequible de adquirir y de sostener, sin ínfulas. Tiene lógica cuando se desea el urbano de combustible tradicional de 15.400 € y se aprecia la amplitud; se queda corto cuando se exigen brío o un vano mayor."
     ],
-    "veredicto": "Chollo de acceso por 15.400 €; las prestaciones, en otro presupuesto."
+    "veredicto": "Tiene lógica por 15.400 € cuando el importe manda; se queda corto ante la exigencia de brío."
   }
   "skoda-fabia-monte-carlo-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "El diseño también puntúa, y el Fabia Monte Carlo lo sabe: 27.280 € según tarifa 03/2026 por el urbano más atractivo de la gama, con 116 caballos, 190 Nm y 202 km/h de velocidad punta. La voracidad es de 5,2 l/100 km con 118 g/km y marca C.",
-      "El cofre trasero ofrece 380 litros —justos si la prole viaja cargada—, la motricidad delantera mueve 1179 kg en 4108 mm (1780 de ancho, 1459 de alto) para un quinteto de plazas, y la arrancada de 0 a 100 se queda en un terreno comedido. Desde la óptica del diseño, pocos urbanos visten tan bien.",
-      "El matiz deportivo: el 1.5 TSI de 150 CV es el verdadero Fabia con chispa; este Monte Carlo vende imagen y estilo. Buena papeleta si la estética manda con 116 caballos; peor opción para quien busque el máximo equipamiento."
+      "El Fabia de mejor planta de la gama responde al nombre de Monte Carlo: 27.280 € según el listado 03/2026 por una fisonomía que lo singulariza entre los utilitarios, con 116 CV, 190 Nm y 202 km/h de velocidad tope. Registra 1179 kg y 4108 mm con 1780 de anchura y 1459 de altura.",
+      "El registro de 5,2 l/100 km resulta templado, los 118 g/km de CO2 le valen la letra C y el baúl de 380 l cumple, aunque se antoja escaso cuando la prole viaja con mucho bulto. Es de esos aparatos que se adquieren con la razón: el urbano de combustible tradicional con los números diáfanos.",
+      "El matiz: el 1.5 TSI de 150 CV es el auténtico Fabia con nervio; este Monte Carlo prima la fisonomía sobre la vivacidad. Papeleta interesante cuando se antepone lo que brinda por lo que se abona con 116 CV; peor alternativa cuando lo deseado es la dotación tope o la chispa definitiva."
     ],
-    "veredicto": "Diseño por 27.280 €; las prestaciones puras viven en el 1.5 TSI."
+    "veredicto": "Papeleta interesante por 27.280 € cuando la fisonomía Monte Carlo seduce; se queda corta ante la exigencia de vivacidad pura."
   }
   "skoda-kamiq-10-tsi-2025-precio-ficha-tecnica": {
     "parrafos": [
-      "29.600 € es la tarifa del Kamiq 1.0 TSI: 116 caballos, 1233 kg y una agilidad urbana notable, con el 0 a 100 en 9,7 segundos. El consumo de 5,4 l/100 km y los 121 g/km le otorgan la etiqueta C, y la velocidad punta es de 196 km/h.",
-      "El modelo mide 4241 mm (1793 de ancho, 1531 de alto), el hueco de carga cubica 400 litros y la tracción delantera mueve un conjunto homologado para cinco personas. Los plásticos duros delatan el ajuste de costes y la competencia aprieta en dotación tecnológica.",
-      "Como defensor del consumidor lo digo claro: es el SUV pequeño sensato para quien estrena coche con la cabeza y no con el corazón, pensando en el uso diario. Por 29.600 € cumple con nota; descartable únicamente si el distintivo ECO o Cero resulta obligatorio."
+      "29.600 € por el crossover compacto más cabal: el Kamiq 1.0 TSI reúne 116 CV y una viveza ciudadana destacable, con 9,7 s en el 0 a 100 y 5,4 l/100 km de media homologada. Anuncia 1233 kg y 4241 mm, con 1793 de anchura y 1531 de altura, y confía la motricidad a las ruedas delanteras.",
+      "El vano de carga ofrece 400 l y los 121 g/km de CO2 le valen la letra C: un planteamiento franco, el crossover térmico sin letra pequeña, ideado para quien estima la simplicidad técnica. La velocidad límite es de 196 km/h y su comportamiento resulta predecible y dócil.",
+      "Las objeciones ya se conocen: ajustes mejorables puertas adentro y una rivalidad que aprieta en tecnología. Aun así, para quien desee estrenar crossover por 29.600 € con la cabeza fría y sin enredos, este Kamiq satisface con holgura. Solo queda fuera quien exija la pegatina ECO."
     ],
-    "veredicto": "Sensatez por 29.600 €; solo descartable ante la exigencia de ECO o Cero."
+    "veredicto": "Para estrenar crossover por 29.600 € con la cabeza fría; descartado ante la exigencia ECO."
   }
   "skoda-kamiq-15-tsi-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "El desembolso de 28.395 € compra el Kamiq 1.5 TSI: 150 CV de mecánica probada, 5,7 l/100 km de gasto WLTP y un distintivo C con 129 g/km de emisiones. El paso de 0 a 100 necesita 8,3 segundos y la velocidad máxima alcanza 214 km/h, registros solventes para un SUV de planteamiento urbano.",
-      "La propuesta pesa 1276 kg, mide 4241 mm (1793 de anchura, 1531 de altura) y ofrece 400 litros de espacio de carga para cinco plazas, con propulsión delantera. Los acabados bajos pecan de sencillez interior, sin artificios ni pretensiones.",
-      "Es el Kamiq del coste por kilómetro: quien valore el gasto contenido por 28.395 € encontrará su coche ideal para el día a día; quien exija electrificación tendrá que mirar fuera de la gama. La propuesta cumple sin aspavientos ni sorpresas en el uso cotidiano."
+      "La economía de uso define al Kamiq 1.5 TSI: 5,7 l/100 km en ciclo WLTP con 150 CV, binomio que mantiene el desembolso diario a raya. Su importe es de 28.395 €, arroja 129 g/km y porta la letra C. El 0 a 100 se despacha en 8,3 s y la velocidad tope llega a 214 km/h.",
+      "Registra 1276 kg y 4241 mm, con 1793 de anchura y 1531 de altura: dimensiones comedidas para un todocamino ciudadano, manejable en el asfalto diario y suficiente para la rutina con niños. Motricidad en el tren delantero, cabina para 5 y 400 l de bodega. El habitáculo peca de simple en las terminaciones de acceso, tributo de un precio moderado.",
+      "Aconsejable para quien coloca el gasto frugal en primer lugar por 28.395 €; pierde brillo ante quien reclama el adhesivo ECO. Cuando la hoja de datos resulte convincente, lo prudente es rodarlo con detenimiento antes de la firma."
     ],
-    "veredicto": "El Kamiq racional por 28.395 €; fuera de su terreno si pides hibridación."
+    "veredicto": "Aconsejable por 28.395 € cuando el gasto manda; pierde puntos ante la exigencia del adhesivo ECO."
   }
   "skoda-kamiq-2024-precio-ficha-tecnica": {
     "parrafos": [
-      "El restyling de 2024 rejuveneció al Kamiq por fuera y por dentro, manteniendo su mejor virtud: una habitabilidad trasera muy buena para 4,24 metros de coche. El precio es de 25.595 € por el 1.0 TSI de 116 CV y 200 Nm, con categoría C y 122 g/km de emisiones.",
-      "El crono de 0 a 100 marca 9,7 segundos, la zona de carga ofrece 400 litros y el tren delantero motriz mueve 1233 kg en una carrocería de 4241 mm (1793 de ancho, 1531 de alto) para cinco asientos. El 1.0 TSI de 95 CV se queda corto en autovía con carga: este 116 CV es el punto justo.",
-      "Las calidades interiores son mejorables en los niveles básicos, pero el conjunto resulta honesto y sin trampas. Acierta para quien busque un SUV de gasolina con categoría C por 25.595 €; el máximo equipamiento vive en otro escalón de precio."
+      "El restyling de 2024 le sentó bien al Kamiq: imagen renovada, más equipamiento y la misma habitabilidad trasera muy buena para 4,24 m de coche. El 1.0 TSI de 116 CV cuesta 25.595 €, con 200 Nm, etiqueta C y 122 g/km.",
+      "El 0 a 100 en 9,7 segundos es correcto para un SUV de gasolina, el maletero ofrece 400 litros y las cotas (4241 mm, 1793 de ancho, 1531 de alto) lo mantienen manejable en ciudad y presentable en carretera. Pesa 1233 kg con tracción delantera y el 1.0 TSI es una mecánica probada.",
+      "El 1.0 TSI de 95 CV se queda corto en autovía con carga —este 116 CV es el término medio sensato— y las calidades interiores son mejorables en los acabados básicos. Acierta si quieres el SUV de gasolina con etiqueta C por 25.595 €; mejor mirar otra cosa si necesitas el máximo equipamiento."
     ],
-    "veredicto": "Honesto por 25.595 €; el equipamiento máximo vive más arriba."
+    "veredicto": "Acierta por 25.595 € si buscas SUV sensato con C; menos si pides máximo equipamiento."
   }
   "skoda-kamiq-monte-carlo-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "Determinados acabados se adquieren con la vista, y el Monte Carlo es uno: techo de cristal, inserciones negras y un porte que el Selection —2.000 € más económico con idéntico bloque— no brinda. El importe es de 30.255 € por el 1.5 TSI de 150 caballos y 250 Nm, con transmisión DSG de 7 velocidades y eje motor anterior.",
-      "El 0 a 100 se liquida en 8,3 segundos, el límite son 214 km/h y el promedio queda en 5,7 l/100 km, con 129 g/km que le valen la calcomanía C. Registra 1276 kg, se estira 4241 mm (1793 de ancho, 1531 de alto) y el vano traga 400 litros para sus ocupantes.",
-      "Sin variante con hibridación a la vista, este ejemplar lo fía todo a la imagen y al tacto del DSG. Si el Monte Carlo te seduce y el presupuesto llega a 30.255 €, el gasto se defiende; si priorizas la electrificación, el Selection aguarda con igual bloque."
+      "El acabado Monte Carlo viste al Kamiq con techo de cristal y molduras oscurecidas: la variante de apariencia deportiva del SUV urbano checo. Monta el 1.5 TSI con 150 CV y 250 Nm de par, asociado a transmisión automática de 7 marchas. La tarifa asciende a 30.255 €, el peso declarado es de 1276 kg y el 0 a 100 queda en 8,3 s, con una velocidad máxima de 214 km/h.",
+      "El gasto homologado es de 5,7 l/100 km, con 129 g/km de CO2 que lo dejan con la calificación C de la DGT. La zona de carga cubica 400 l, cifra correcta para el segmento. Sus proporciones (4241 mm de longitud, 1793 de anchura y 1531 de altura) lo mantienen ágil entre el tráfico, con el eje delantero como único motriz.",
+      "La comparación interna lo sitúa 2.000 € por encima del Selection con idéntico propulsor: el extra abona presencia y dotación, sin cambios en el grupo motopropulsor. Tampoco existe alternativa electrificada en la gama. Para el comprador que antepone el carácter a la racionalidad pura, con 30.255 € sobre la mesa, la propuesta resulta coherente; quien aspire al ECO deberá orientar la búsqueda hacia otra gama."
     ],
-    "veredicto": "Seducción Monte Carlo por 30.255 €; el Selection, la vía fría."
+    "veredicto": "Elección con carácter por 30.255 € para quien valora la presencia Monte Carlo; el ECO queda fuera de su alcance."
   }
   "skoda-karoq-20-tdi-150-2026-precio-ficha-tecnica": {
     "parrafos": [
@@ -550,11 +550,11 @@ export const ANALISIS_COCHE_21: MapaAnalisis = {
   }
   "skoda-karoq-2024-precio-ficha-tecnica": {
     "parrafos": [
-      "El corredor honesto lo resume: 28.815 € por el Karoq 1.0 TSI, la alternativa de gasolina de Skoda entre los SUV, con el restyling que renovó imagen y dotación. Mide 4389 mm (1841 de anchura, 1603 de altura), pesa 1339 kg y circula con credencial C. El 1.0 TSI de 116 es el término medio sensato de la gama.",
-      "El 1.0 TSI de 116 de potencia gasta 5,8 l/100 km, aunque en carretera va justo para los 1339 kg. El techo es de 193 km/h y la motricidad anterior mueve cinco plazas. La ficha recoge garantía de batería de 8 años o 160.000 km. El restyling de 2024 añadió dotación sin subir el precio de acceso.",
-      "Hay versiones diésel y 4x4 para quien viaje mucho. Tiene sentido si buscas el SUV de 28.815 € con gasto contenido; pierde fuelle si necesitas más dotación. La habitabilidad trasera sorprende para 4,39 metros."
+      "28.815 € por el Karoq 1.0 TSI: la alternativa de gasolina de Skoda entre los SUV compactos, con el restyling que renovó su imagen y añadió equipamiento. Mide 4389 mm (1841 de ancho, 1603 de alto), pesa 1339 kg y circula con el distintivo C.",
+      "El 1.0 TSI de 116 CV gasta 5,8 l/100 km, una cifra competitiva para quien acumula kilómetros, aunque en carretera va justo para mover los 1339 kg. La punta es de 193 km/h y la tracción es delantera. La ficha recoge una garantía de la batería de 8 años o 160.000 km.",
+      "Quien viaje mucho tiene además versiones diésel y 4x4 en el catálogo. Tiene sentido si buscas el SUV de gasolina de 28.815 € y valoras un gasto contenido; pierde fuelle si necesitas un acabado más completo o más empuje en carretera."
     ],
-    "veredicto": "Honesto por 28.815 €; la dotación extra cuesta más."
+    "veredicto": "Tiene sentido por 28.815 € si el gasto contenido manda; menos si buscas más acabado."
   }
   "skoda-karoq-2025-precio-ficha-tecnica": {
     "parrafos": [
@@ -600,7 +600,7 @@ export const ANALISIS_COCHE_21: MapaAnalisis = {
     "parrafos": [
       "La gama Skoda cuenta con el Kodiaq iV como opción híbrido enchufable: precio de arranque de 38.800 € y 204 CV. Toda la fuerza va al eje delantero. Rinde 204 CV según la ficha. En la báscula recoge 1964 kg.",
       "A tenor de los datos, lo mejor es 38.800 €: el 7 plazas enchufable más barato del mercado, seguido de 5 estrellas EuroNCAP (2024): 89 % en ocupante adulto. El pero que conviene asumir: la batería resta espacio frente al Kodiaq diésel. Asimismo, 1.964 kg en orden de marcha. El 0-100 cae en 8,4 segundos; solventes para su segmento. Gasta 0,5 l/100 km según la ficha; contenida teniendo en cuenta su planteamiento.",
-      "Las dimensiones oficiales: 4758 mm de longitud, 1864 de anchura y 1678 de altura. La batería es de 19,7 kWh útiles. Carga a 50 kW en continua. Si buscas el SUV híbrido enchufable con los deberes hechos, este Kodiaq iV entra en las quinielas. La capacidad de carga es de 910 litros, según la ficha. La garantía de la batería cubre 8 años o 160000 km."
+      "Las dimensiones oficiales: 4758 mm de longitud, 1864 de anchura y 1678 de altura. La batería es de 19,7 kWh útiles. Carga a 50 kW en continua. Si buscas el SUV híbrido enchufable con los deberes hechos, este Kodiaq iV entra en las quinielas. Con 910 litros de capacidad de carga, las vacaciones en familia no requieren tetris. La capacidad de carga es de 910 litros, según la ficha. Con 4758 mm de longitud se sitúa en la media del segmento. La garantía de la batería cubre 8 años o 160000 km."
     ],
     "veredicto": "Buena papeleta si priorizas la relación entre lo que cuesta y lo que ofrece con 204 CV; peor opción si lo tuyo es más equipamiento por este dinero."
   },
@@ -630,75 +630,75 @@ export const ANALISIS_COCHE_21: MapaAnalisis = {
   }
   "skoda-octavia-15-tsi-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "La berlina media de referencia cuesta 36.600 € de montante: el Octavia 1.5 TSI mHEV aúna 150 de potencia con microhibridación de 48 voltios, un registro de 8,5 segundos en el 0 a 100 y 229 km/h de techo. El par es de 250 Nm —el diésel tira más abajo— y la tasa de hambre queda en 4,9 l/100 km, con credencial ECO.",
-      "La bodega ofrece 600 litros, el empuje delantero mueve 1387 kg en 4698 mm (1829 de anchura, 1470 de altura) para plazas para cinco, y las emisiones de 111 g/km redondean un sedán muy equilibrado. El equilibrio entre montante, consumo y habitabilidad lo mantiene como la berlina a batir.",
-      "Si buscas 150 de potencia y 600 litros por 36.600 €, esta berlina cuadra; si pides más dotación por ese montante, mira más arriba. La última palabra la tiene una prueba real en carretera."
+      "36.600 € sitúan a este Octavia 1.5 TSI como la opción microhíbrida de la gama media checa: 150 CV apoyados por un sistema eléctrico de 48 V, 250 Nm de par y un 0 a 100 resuelto en 8,5 s, con 229 km/h de velocidad máxima. El TDI entrega más empuje a bajo régimen, aunque este declara 4,9 l/100 km y luce el adhesivo azul y verde de la DGT, válido para circular sin limitaciones por las ZBE.",
+      "Sus dimensiones son 4698 mm de largo, 1829 de anchura y 1470 de altura, con 1387 kg en la báscula y 600 l de capacidad de carga. La motricidad corre a cargo del eje delantero y el habitáculo da cabida a 5 ocupantes con homologación completa. Los 111 g/km de CO2 redondean una propuesta de coste por kilómetro ajustado y respuesta solvente.",
+      "Encaja con quien prioriza 150 CV y 600 l de carga en formato de tres volúmenes por 36.600 €; pierde puntos ante quien exija una dotación más generosa por ese importe. La decisión final, como siempre, debería pasar por una prueba en condiciones reales antes de firmar."
     ],
-    "veredicto": "Berlina de referencia por 36.600 €; la dotación extra vive más arriba."
+    "veredicto": "Compra razonable por 36.600 € para el conductor que valora la microhibridación eficiente; pierde atractivo ante dotaciones más ricas."
   }
   "skoda-octavia-15-tsi-mhev": {
     "parrafos": [
       "El Skoda Octavia 1.5 TSI mHEV llega al mercado con un precio de acceso de 35.200 €: coche híbrido en formato berlina. 1385 kg: ese es el peso que figura en la ficha técnica. La etiqueta ECO figura en su parabrisas. 116 caballos: esa es su potencia homologada.",
       "Entre sus puntos fuertes, la ficha técnica resalta etiqueta ECO con consumo de solo 5,0 l/100 km; de propina, maletero de 600 l, el más grande del segmento compacto. Hay que contar también con que dSG obligatorio en la versión mHEV, sin manual. A eso hay que añadir que 116 CV algo justos para su peso en carretera. Acelera de 0 a 100 en 10,6 segundos, cifra correcta para la berlina híbrido. La ficha técnica fija su velocidad punta en 203 km/h.",
-      "Para el equipaje reserva 600 litros, cifra que señala la ficha técnica. 5 l/100 km es el consumo homologado que señala la ficha técnica. Toda la fuerza va al eje delantero. El distintivo ECO elimina quebraderos con las ZBE en el uso cotidiano. La garantía de la batería cubre 8 años o 160000 km."
+      "Para el equipaje reserva 600 litros, cifra que señala la ficha técnica. 5 l/100 km es el consumo homologado que señala la ficha técnica. Toda la fuerza va al eje delantero. El distintivo ECO elimina quebraderos con las ZBE en el uso cotidiano. Conviene hacer una prueba en vivo antes de decidir: la ficha orienta, si bien el tacto diario sentencia. La garantía de la batería cubre 8 años o 160000 km."
     ],
     "veredicto": "Recomendable si valoras la relación entre lo que cuesta y lo que ofrece por 35.200 €; menos para quien exija el máximo equipamiento por este precio."
   },
   "skoda-octavia-20-tdi-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "Los diésel de verdad nunca mueren: el 2.0 TDI lleva décadas en las carreteras europeas y el Octavia es su hogar, con 150 de potencia por 35.950 €, una moderación de 4,5 l/100 km y una planta motriz que cualquier taller conoce. La DGT otorga el visado C con 117 g/km.",
-      "La anotación de 0 a 100 es de 8,5 segundos, el techo de 228 km/h y la bodega de 600 litros sirve a familias que viajan cargadas. Pesa 1465 kg, mide 4698 mm (1829 de ancho, 1470 de alto) y el empuje va al eje anterior para aforo para cinco. La red de talleres conoce esta planta motriz hasta el último tornillo.",
-      "El habitáculo es menos premium que el de los germanos, el peaje de su precio. Recomendable para quien priorice la moderación por 35.950 € con mecánica eterna; no para quien exija electrificación."
+      "El 2.0 TDI acumula décadas de rodaje por las vías europeas, y el Octavia es su territorio natural: 150 CV por 35.950 €, 4,5 l/100 km de media en uso mixto y un bloque que cualquier mecánico domina, con repuesto disponible en todas partes. La DGT le otorga la letra C y homologa 117 g/km.",
+      "Las cifras dinámicas resultan solventes —0 a 100 en 8,5 s y 228 km/h de techo—, y los 600 l tras el portón lo postulan para desplazamientos en familia con mucho bulto. Anuncia 1465 kg, 4698 mm de punta a punta con 1829 de anchura y 1470 de altura, y la fuerza va al eje anterior, con 5 asientos.",
+      "La presentación cede refinamiento frente a los germanos, contrapartida de ahorrarse su sobreprecio de imagen. Lo avalamos para quien antepone la frugalidad por 35.950 € con un bloque eterno y contrastado; queda fuera de la quiniela cuando la prioridad es el ECO."
     ],
-    "veredicto": "Diésel eterno por 35.950 €; la electrificación no es su guerra."
+    "veredicto": "Avalado por 35.950 € para el amante de los TDI de larga vida y uso irrisorio de carburante; fuera de la quiniela cuando el ECO resulta imprescindible."
   }
   "skoda-octavia-20-tsi-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "Cazando valor: una berlina 4x4 por 38.450 € de presupuesto, menos que un compacto premium básico. El Octavia 2.0 TSI entrega 204 caballos, 320 Nm y un portón trasero con 600 litros, el vano más práctico del segmento. El guarismo de 0 a 100 y la punta de 228 km/h acompañan.",
-      "El artefacto pesa 1537 kg, la glotonería es de 6,7 l/100 km con 153 g/km y las cotas son 4698 mm (1829 de ancho, 1470 de alto) para cinco butacas, con visado C. El acabado Selection resulta sobrio, sin lujos: aquí se abona mecánica y capacidad. El portón trasero facilita la carga de objetos voluminosos sin esfuerzo.",
-      "Para el comprador que compara cada euro, tracción total y 600 litros por 38.450 € son argumentos de peso. Compra con sentido si el vano de carga manda; deja de serlo ante la exigencia de un interior más lujoso."
+      "Una silueta clásica con las 4 ruedas motrices por lo que cuesta un compacto de postín: el Octavia 2.0 TSI brinda 204 CV por 38.450 €, con 600 l bajo el portón, la solución más versátil de su categoría.",
+      "Rinde 320 Nm, toca los 228 km/h y firma un registro de 6,7 l/100 km. Son 1537 kg, 153 g/km de CO2 y 4698 mm con 1829 de anchura y 1470 de altura, con 5 asientos y la letra C de la DGT.",
+      "El nivel Selection viste sobrio, sin fastos: aquí se retribuye propulsor, las 4 ruedas motrices y volumen, sin florituras ni emblemas. Con 38.450 € de inicio, interpela al que coteja cada euro antes de rubricar: cuatro ruedas motrices y 600 l por debajo de un compacto de postín básico. Decisión con criterio cuando el volumen de carga manda; pierde sentido ante la demanda de un ambiente más lujoso."
     ],
-    "veredicto": "Valor 4x4 por 38.450 €; el lujo interior se paga aparte."
+    "veredicto": "Decisión con criterio por 38.450 € para el que antepone las cuatro ruedas motrices y el volumen; pierde sentido ante la demanda de lujo."
   }
   "skoda-octavia-combi-15-tsi-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "La columna familiar de esta semana va para el Combi 1.5 TSI mHEV: 38.300 € por el ranchero definitivo, con 150 de potencia, credencial ECO y 640 litros de seno de carga. El 0 a 100 se despacha en 8,6 segundos y la frugalidad es de 5 l/100 km.",
-      "El carro pesa 1403 kg, emite 114 g/km y mide 4698 mm (1829 de ancho, 1468 de alto), con tracción simple delantera y cabina para cinco. El microhíbrido de 48 voltios hace los deberes sin enchufes. El punto dulce del segmento familiar sigue teniendo nombre checo.",
-      "El Superb Combi es mayor pero mucho más caro, así que este Octavia ocupa el punto dulce. Buena papeleta si la moderación con espacio familiar es la prioridad por 38.300 €; peor opción para quien ansíe más dotación. La credencial ECO abre puertas en las grandes urbes."
+      "El ranchero redondo por 38.300 €: el Octavia Combi 1.5 TSI microhíbrido aúna 150 CV, adhesivo ECO y 640 l de vano en una fórmula que no exige renuncias en ningún capítulo. El 0 a 100 en 8,6 s resulta solvente y los 5 l/100 km de media son templados para un ranchero de esta envergadura.",
+      "Registra 1403 kg, 114 g/km de CO2 y 4698 mm con 1829 de anchura y 1468 de altura, con tracción delantera y 5 asientos. Es el microhíbrido de 48 V con la lección aprendida y el adhesivo verde y azul en el cristal.",
+      "El Superb Combi ofrece más centímetros, aunque a cambio de un desembolso notablemente superior, así que este Octavia se instala en el punto óptimo de la clase. Papeleta ganadora cuando se antepone un gasto templado con 150 CV y volumen ranchero; peor carta cuando lo deseado es más dotación por ese importe."
     ],
-    "veredicto": "El ranchero sensato por 38.300 €; la dotación extra, en otro escalón."
+    "veredicto": "Papeleta ganadora por 38.300 € cuando se desea el ranchero equilibrado; se queda corta ante la demanda de más dotación."
   }
   "skoda-octavia-combi-20-tdi-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "Columna de grandes rutas: 900 km de alcance oficial para el Combi 2.0 TDI, el ranchero de devorar distancias sin mirar el depósito. La etiqueta de precio es de 39.300 € según tarifa 01/2026, con 150 de potencia, 360 Nm y una frugalidad de 4,6 l/100 km, más visado C con 120 g/km.",
-      "El receptáculo familiar cubica 640 litros —1.700 con respaldos abatidos—, la carrocería mide 4698 mm para aforo para cinco y la báscula marca 1480 kg. El techo es de 225 km/h. Los 1.700 litros con respaldos abatidos resuelven cualquier mudanza.",
-      "El Combi RS pide unos 8.000 € más a cambio de emociones; este TDI es la racionalidad rutera. Con 39.300 € y la moderación como prioridad, la compra tiene sentido; deja de serlo si la dotación máxima es innegociable. La tarifa 01/2026 lo sitúa bien frente a la competencia directa."
+      "900 km de alcance oficial: el Octavia Combi 2.0 TDI es el familiar para devorar distancias sin mirar el depósito ni planificar repostajes. Cuesta 39.300 € según la tarifa 01/2026, rinde 150 CV con 360 Nm de par y gasta 4,6 l/100 km, con la pegatina C y 120 g/km de CO2.",
+      "El maletero ofrece 640 litros —1.700 con los asientos abatidos— y la carrocería mide 4698 mm, con cinco plazas y 1480 kg en la báscula. La punta de 225 km/h sobra para cualquier uso legal.",
+      "El Combi RS cuesta unos 8.000 € más para quien busque emociones al volante, pero este TDI es la racionalidad hecha familiar. Con 39.300 € de presupuesto y el bajo consumo como prioridad, es una compra con sentido; deja de serlo si necesitas un acabado más completo."
     ],
-    "veredicto": "Rutero racional por 39.300 €; las emociones cuestan 8.000 € más."
+    "veredicto": "Compra con sentido por 39.300 € si viajas lejos y el consumo manda; menos si buscas más acabado."
   }
   "skoda-octavia-combi-20-tsi-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "Desde la óptica de la seguridad, el Combi 2.0 TSI convence: 5 estrellas Euro NCAP en 2022 con validez hasta 2028, 204 de potencia y motricidad a las cuatro ruedas por 48.100 € de inversión. El 0 a 100 se anota en 6,7 segundos y el par máximo es de 320 Nm.",
-      "El arcón familiar cubica 640 litros, el aparato pesa 1553 kg y el apetito es de 6,8 l/100 km con 155 g/km. Mide 4698 mm (1829 de ancho, 1468 de alto) y circula con aval C. La validez de las estrellas hasta 2028 aporta tranquilidad a largo plazo.",
-      "El Sportline 4x4 no es barato a 48.100 €, pero aúna prestaciones, protección certificada y capacidad. Compra con sentido si la inversión prioriza seguridad y brío; deja de serlo si necesitas electrificación. La motricidad integral aporta confianza extra en mojado."
+      "El Octavia ranchero con nervio: 204 CV, 320 Nm y motricidad integral para un 0 a 100 en 6,7 s. La tarifa de la variante de carrocería alargada 2.0 TSI Sportline de reparto a las 4 ruedas alcanza los 48.100 €, con un consumo declarado de 6,8 l/100 km y 155 g/km de CO2. La DGT lo clasifica con la letra C, lejos de los privilegios de los electrificados.",
+      "La seguridad viene avalada por 5 estrellas EuroNCAP en el ensayo de 2022, con vigencia hasta 2028. Sus 4698 mm de longitud, 1829 de anchura y 1468 de altura, 1553 kg de peso y 640 l de compartimento de carga lo convierten en aliado de los desplazamientos con equipaje abundante, sin renuncias.",
+      "El inconveniente es la factura: el Sportline de reparto integral se mueve lejos de las tarifas contenidas, con 48.100 € en el cartel. Aun así, la ecuación entre desembolso y lo recibido —nervio, protección certificada y amplitud— juega a su favor; pierde interés cuando el distintivo ambiental resulta innegociable."
     ],
-    "veredicto": "Seguridad y brío por 48.100 €; la electrificación, en otro modelo."
+    "veredicto": "Propuesta con lógica por 48.100 € para quien desea viajar rápido, protegido y con equipaje abundante; pierde interés cuando el distintivo ambiental resulta innegociable."
   }
   "skoda-octavia-combi-rs-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "Diez mil euros de diferencia con el Golf R Variant: el Octavia Combi RS pide 47.600 € por 265 de potencia, 370 Nm, un 0 a 100 en 6,5 segundos y 250 km/h de velocidad tope. El vano conserva 640 litros íntegros para la familia.",
-      "Las cotas son 4709 mm (1829 de ancho, 1455 de alto), el promedio es de 6,9 l/100 km con 158 g/km y la propulsión va al tren delantero, sin integral. El habitáculo no alcanza el refinamiento de un A4 Avant, el peaje de su importe ajustado.",
-      "Si la ecuación entre importe y propuesta manda con 47.600 € de tope, este Combi RS satisface como wagon musculoso y honesto; si exiges electrificación, continúa la búsqueda. El 0 a 100 en 6,5 segundos supera a rivales de mayor precio. Un wagon que no necesita apellidos premium para imponerse."
+      "10.000 € por debajo de un Golf R Variant: este Octavia Combi RS esgrime la baza del precio, con 265 CV y 370 Nm, 6,5 s en el 0 a 100 y 250 km/h como límite, todo por 47.600 € de partida.",
+      "Los 640 l tras el portón preservan la vertiente útil para el día a día con niños. Anuncia 4709 mm de extremo a extremo, 1829 de anchura y 1455 de altura, con 158 g/km de CO2 y 6,9 l/100 km de media. La fuerza va solo al eje anterior —sin reparto a las cuatro ruedas como el Golf— y la presentación queda por debajo de un A4 Avant, tributos de su importe moderado.",
+      "Cuando lo recibido por lo invertido manda en la decisión y el límite son 47.600 €, este RS de carrocería larga seduce como rutero con brío para el día a día; cuando el ECO es requisito, conviene explorar otras vías."
     ],
-    "veredicto": "Wagon musculoso y honesto por 47.600 €; 10.000 € por debajo del Golf R Variant."
+    "veredicto": "Seduce por 47.600 € a quien pide un rutero con brío a precio contenido; cuando el ECO es requisito, mejor explorar otras vías."
   }
   "skoda-octavia-rs-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "Crónica deportiva: el Octavia RS es la berlina con chispa de las generalistas, con 265 caballos, 250 km/h de techo y un chasis afilado que no renuncia al confort diario, por 46.900 € de etiqueta de precio. El 0 a 100 en 6,4 segundos es demoledor y los 370 Nm empujan en toda la gama de revoluciones.",
-      "El sedán pesa 1520 kg, mide 4709 mm (1829 de anchura, 1455 de altura) y el receptáculo de carga ofrece 600 litros: la practicidad sobrevive a las prestaciones. La sed es de 6,9 l/100 km con 156 g/km y la motricidad va al eje anterior, su único debe. El chasis afilado no castiga en el uso diario, virtud escasa.",
-      "Para quien busque la berlina de gasolina con 265 caballos y brío auténtico por 46.900 €, este RS responde; menos indicado ante la exigencia de tracción total o máximo lujo."
+      "La berlina deportiva de referencia entre las generalistas: el Octavia RS combina 265 CV, 250 km/h de punta y un chasis deportivo sin renunciar al confort diario, por 46.900 € de arranque. El 0 a 100 en 6,4 segundos es contundente y los 370 Nm empujan con decisión en cualquier marcha.",
+      "Pesa 1520 kg, mide 4709 mm (1829 de ancho, 1455 de alto) y el maletero ofrece 600 litros: la practicidad no se sacrifica en el altar de las prestaciones. Gasta 6,9 l/100 km, emite 156 g/km y la tracción es delantera, su único debe dinámico frente a rivales de tracción total.",
+      "Para ti si buscas la berlina de gasolina por 46.900 € con 265 CV y chispa de verdad; menos indicado si necesitas el máximo equipamiento o la motricidad total. Los 6,4 segundos responderán a quien quiera conducción con brío."
     ],
-    "veredicto": "Brío auténtico por 46.900 €; la tracción total vive en otro precio."
+    "veredicto": "Para ti si buscas berlina deportiva por 46.900 €; menos si necesitas más equipamiento."
   }
   "skoda-peaq-suv-electrico-7-plazas-precio": {
     "parrafos": [
@@ -710,11 +710,11 @@ export const ANALISIS_COCHE_21: MapaAnalisis = {
   }
   "skoda-scala-10-tsi-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "Desde la óptica de la ingeniería, el Scala 1.0 TSI es un ejercicio de contención: 1237 kg, 5,3 l/100 km de dispendio y caja DSG de 7 velocidades por 31.800 € de valor. Son 116 caballos y 200 Nm con rango C, y la métrica de 0 a 100 marca 10,1 segundos: el 115 CV va justo si se le exige.",
-      "La herramienta mide 4362 mm (1793 de anchura, 1471 de altura) y la velocidad punta es de 202 km/h, frente a rivales con más imagen como el Golf o el León. La transmisión delantera mueve una tripulación de cinco sin alardes ni complicaciones mecánicas de ningún tipo.",
-      "Compra lógica si la relación entre coste y oferta pesa más que el equipamiento máximo por 31.800 €. El dispendio por kilómetro queda bajo control: ingeniería honesta sin prima de imagen ni artificios."
+      "1237 kg y 5,3 l/100 km: el Scala 1.0 TSI es un ejercicio de eficiencia. Pesa poco, gasta poco y cuesta 31.800 € con el cambio DSG de 7 velocidades incluido. Son 116 CV y 200 Nm con etiqueta C y cinco plazas.",
+      "El 0 a 100 en 10,1 segundos deja claro que el 1.0 TSI de 115 CV va justo si se le pide brío, y rivales con más imagen como el Golf o el León juegan en otra liga de deseo. La punta es de 202 km/h y mide 4362 mm (1793 de ancho, 1471 de alto).",
+      "Pero el coste por kilómetro queda bajo control, y para quien busque un compacto racional sin pagar la prima de imagen, por 31.800 € la cuenta sale. Compra lógica si la relación entre lo que cuesta y lo que ofrece pesa más que el máximo equipamiento."
     ],
-    "veredicto": "Ingeniería honesta por 31.800 €; la imagen se paga aparte."
+    "veredicto": "Compra lógica por 31.800 € si la eficiencia manda; menos si buscas imagen o prestaciones."
   }
   "skoda-scala-15-tsi-2026-precio-ficha-tecnica": {
     "parrafos": [
@@ -726,19 +726,19 @@ export const ANALISIS_COCHE_21: MapaAnalisis = {
   }
   "skoda-scala-monte-carlo-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "29.150 € factura el Scala Monte Carlo 1.5 TSI: 150 CV, detalles negros y una estética que lo separa del resto de compactos de su precio. El bloque entrega 250 Nm, la aceleración de 0 a 100 firma 8,2 segundos y la sed se contiene en 5,6 l/100 km, con 127 g/km y clasificación C.",
-      "El vehículo pesa 1259 kg, mide 4362 mm (1793 de ancho, 1471 de alto) y el volumen de carga llega a 467 litros, con ruedas delanteras motrices y capacidad para cinco personas. El interior abusa del plástico duro, el peaje habitual de un importe ajustado.",
-      "La comparación interna duele: el Selection 1.5 TSI cuesta 5.000 € menos con el mismo motor, así que aquí se abona diseño y carácter. Recomendable para quien priorice estilo y bajo consumo por 29.150 €; descartado para quien considere la electrificación innegociable."
+      "29.150 € por el Scala Monte Carlo 1.5 TSI de 150 CV, con inserciones en negro que le dan el aire más juvenil de la gama. Declara 1259 kg, un 0 a 100 en 8,2 s y un consumo de 5,6 l/100 km, con 250 Nm de par máximo, letra C y las ruedas delanteras como receptoras de la fuerza.",
+      "El compartimento de carga ofrece 467 l y sus medidas (4362 mm, 1793 de anchura y 1471 de altura) lo mantienen funcional en el día a día, con 127 g/km de CO2 que no suponen castigo fiscal. Puertas adentro, los materiales rígidos del salpicadero recuerdan que el ahorro también se nota al tacto.",
+      "El cotejo interno resulta obligado: el Selection 1.5 TSI sale 5.000 € más barato con el mismo corazón, de modo que aquí se pagan presencia y guiños visuales, sin caballos adicionales. Encaja con quien prioriza la sed contenida y el aire deportivo por 29.150 €; quien busque la pegatina ECO deberá mirar hacia otro lado."
     ],
-    "veredicto": "Estilo y eficiencia por 29.150 €; el Selection, 5.000 € menos, para los pragmáticos."
+    "veredicto": "Opción con gancho por 29.150 € para quien aprecia el aire Monte Carlo; la pegatina ECO queda descartada."
   }
   "skoda-superb-15-tsi-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "4912 mm de porte y un bienestar a bordo de nivel superior: el Superb 1.5 TSI mHEV es el sedán de gran formato de Skoda por 47.000 €, con microhibridación de 48 voltios, 150 CV y sello ECO. La bodega de 645 litros figura entre las más generosas del segmento.",
-      "La media de 5,2 l/100 km es contenida para un sedán de este formato, y la ECO franquea las zonas de bajas emisiones sin trabas en el día a día. Viajan cinco con holgura en todas las plazas. La microhibridación de 48 voltios suaviza cada arranque en la urbe.",
-      "El 2.0 TDI resulta más indicado para quien acumula km por vía rápida, pero en uso mixto con urbe este mHEV se defiende. Para quien antepone la bodega y el bienestar con 47.000 €, es una elección difícil de rebatir."
+      "4912 mm de porte y una suavidad de rodadura de clase superior: el Superb 1.5 TSI microhíbrido es el buque insignia de Skoda por 47.000 €, con hibridación ligera de 48 V, 150 CV y el adhesivo verde y azul de la DGT.",
+      "El vano de 645 l figura entre los más holgados de su clase. Los 5,2 l/100 km de media son moderados para una berlina de esta envergadura, y el adhesivo verde y azul franquea las áreas de tráfico restringido sin fricciones en el día a día. Da cabida a 5 viajeros con holgura de sobra en todas las butacas.",
+      "El 2.0 TDI rinde mejor para quien acumula leguas por autovía, aunque para uso combinado con metrópoli, este microhíbrido tiene lógica. Para el automovilista que sitúa la capacidad del vano y la suavidad por encima de todo con 47.000 € disponibles, la propuesta resulta difícil de rebatir."
     ],
-    "veredicto": "Elección redonda por 47.000 € cuando el sedán amplio con ECO manda; no para rutear sin fin."
+    "veredicto": "Propuesta sólida por 47.000 € cuando se desea amplitud suave con el adhesivo verde y azul; se queda corta cuando los viajes devoran el cuentakilómetros."
   }
   "skoda-superb-15-tsi-mhev": {
     "parrafos": [
@@ -750,17 +750,17 @@ export const ANALISIS_COCHE_21: MapaAnalisis = {
   }
   "skoda-superb-20-tdi-2026-precio-ficha-tecnica": {
     "parrafos": [
-      "El chófer ejecutivo lo tiene claro: el Superb 2.0 TDI es confort de marcha de primer nivel por 50.000 € según tarifa 04/2026. Son 150 CV y 360 Nm de empuje, con un promedio de 4,8 l/100 km que lo hace imbatible en tiradas largas por autopista.",
-      "La cajuela ofrece 645 litros con las plazas en uso, las dimensiones son 4912 mm (1849 de anchura, 1481 de altura) y el 0 a 100 se completa en 9,2 segundos. Emite 127 g/km, pesa 1662 kg y la motricidad es delantera pura. El habitáculo, conservador y sin sorpresas, prioriza el descanso. El descanso a bordo está garantizado en cada desplazamiento largo.",
-      "La C limita el acceso en zonas de bajas emisiones restrictivas. Pero si la capacidad y el confort son lo primero con 50.000 € de tope, este Superb TDI convence; si necesitas electrificación, sigue buscando."
+      "El rutero diésel por excelencia: el Superb 2.0 TDI ofrece un confort de marcha de primer nivel por 50.000 € según la tarifa 04/2026. Son 150 CV y 360 Nm, con un consumo de 4,8 l/100 km que lo hace imbatible en tiradas largas. Pesa 1662 kg.",
+      "El maletero de 645 litros con las plazas en uso, las cotas de 4912 mm (1849 de ancho, 1481 de alto) y el 0 a 100 en 9,2 segundos dibujan la berlina diésel sin sorpresas: lo que promete la ficha es lo que hay. Emite 127 g/km y la tracción es delantera.",
+      "La etiqueta C limita el acceso en zonas de bajas emisiones restrictivas y el interior es conservador, sin sorpresas. Pero si la capacidad del maletero es lo primero en tu lista y tu tope son 50.000 €, este Superb TDI convence; si necesitas ECO o Cero, sigue buscando."
     ],
-    "veredicto": "Confort ejecutivo por 50.000 €; la C, su única frontera."
+    "veredicto": "Convence por 50.000 € si viajas mucho y el maletero manda; no si necesitas ECO o Cero."
   }
   "skoda-superb-20-tsi-2026-precio-ficha-tecnica": {
     "parrafos": [
       "El Superb 2.0 TSI de Skoda fija su tarifa de entrada en 55.005 €. Sobre el papel: la berlina de gasolina de 265 CV. Toda la fuerza va a las cuatro ruedas. La ficha técnica indica 265 CV. Homologa la configuración habitual de cinco ocupantes.",
       "Destaca por espacio trasero de limusina: el mejor de su clase, con el añadido de calidad de rodadura de nivel premium por 55.005 €. El reverso de la moneda es que etiqueta C: el iV enchufable tiene etiqueta Cero. El gasto homologado es de 7,4 l/100 km, una cifra elevada para la berlina de gasolina. Entre sus puntos fuertes, la ficha técnica saca pecho de espacio trasero de limusina: el mejor de su clase; también, calidad de rodadura de nivel premium por 55.005 €.",
-      "Para el equipaje reserva 645 litros, cifra que indica la ficha técnica. Apunta al conductor que necesita la berlina de gasolina sin sorpresas: lo que promete la ficha es lo que hay. Luce el distintivo ambiental C. La longitud oficial es de 4912 mm."
+      "Para el equipaje reserva 645 litros, cifra que indica la ficha técnica. Apunta al conductor que necesita la berlina de gasolina sin sorpresas: lo que promete la ficha es lo que hay. El desembolso de 55.005 € obliga a tener claro que este es el coche que se busca. Luce el distintivo ambiental C. La longitud oficial es de 4912 mm."
     ],
     "veredicto": "Con 55.005 € de presupuesto y la relación entre lo que cuesta y lo que ofrece como prioridad, es una compra con sentido; deja de serlo si necesitas una etiqueta ECO o Cero."
   }
