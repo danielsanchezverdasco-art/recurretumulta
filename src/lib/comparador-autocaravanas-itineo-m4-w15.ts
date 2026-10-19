@@ -143,10 +143,10 @@ numerosas la propia Itineo ofrece el SBD700 o el SB740 en la gama Famili de anch
     ],
     opiniones: [],
     galeria: [
-      { src: "/media/itineo-cj660-2026-precio-ficha-tecnica-oficial.webp", alt: "Itineo CJ660, vista exterior", ancho: 1200, alto: 800 },
-      { src: "/media/itineo-cj660-2026-precio-ficha-tecnica-interior1.webp", alt: "Itineo CJ660, salón interior", ancho: 1200, alto: 800 },
-      { src: "/media/itineo-cj660-2026-precio-ficha-tecnica-interior2.webp", alt: "Itineo CJ660, zona de camas", ancho: 1200, alto: 800 },
-      { src: "/media/itineo-cj660-2026-precio-ficha-tecnica-detalle.webp", alt: "Itineo CJ660, detalle", ancho: 1200, alto: 800 },
+      { src: "/media/itineo-cj660-2026-precio-ficha-tecnica-oficial.webp", alt: "Itineo CJ660, vista exterior", ancho: 800, alto: 600 },
+      { src: "/media/itineo-cj660-2026-precio-ficha-tecnica-interior1.webp", alt: "Itineo CJ660, salón y cocina (foto oficial Itineo)", ancho: 2000, alto: 1490 },
+      { src: "/media/itineo-cj660-2026-precio-ficha-tecnica-interior2.webp", alt: "Itineo CJ660, dormitorio (foto oficial Itineo)", ancho: 1572, alto: 2000 },
+      { src: "/media/itineo-cj660-2026-precio-ficha-tecnica-detalle.webp", alt: "Itineo CJ660, camas gemelas (foto oficial Itineo)", ancho: 2000, alto: 1334 },
     ],
     analisisSlug: "itineo-cj660-2026-analisis-opinion",
     planMantenimiento: {
