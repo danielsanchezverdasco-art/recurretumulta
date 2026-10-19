@@ -58,3 +58,12 @@ Si su destino es el sur, salga con tiempo: la **prisa** es el principal factor d
 - DGT · NAP — `PredefinedLocationsPublication/radares/content.xml` (https://nap.dgt.es/dataset/radares-fijos-dgt) — posición, carretera, pk y sentido. Consultado el 2026-10-18.
 
 - Límites genéricos: Reglamento General de Circulación, art. 48.
+
+
+<iframe title="Mapa: radar gc-1-42-2-creciente-cabina" src="https://www.google.com/maps?q=27.77500,-15.55030&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar gc-1-42-2-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=27.77500,-15.55030&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
