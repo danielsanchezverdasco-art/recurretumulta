@@ -12,6 +12,14 @@
 
 La Dirección General de Tráfico ubica esta caja en la **N-332 a la altura del pk 204,4**, en territorio de Alicante. El medidor apunta al **sentido decreciente** (dirección de pk decrecientes). El municipio que corresponde a estas coordenadas es **Dénia** (fuente: el geocodificador del IGN). El punto vigilado más cercano es el de la **CV-734, pk 6,0** (sentido creciente): queda a 18,0 km hacia el sureste.
 
+<iframe title="Mapa: radar n-332-204-4-decreciente-cabina" src="https://www.google.com/maps?q=38.8701,-0.02662&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-332-204-4-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.8701,-0.02662&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 Nos encontramos en la N-332, carretera nacional que sirve a Alicante. La demanda se reparte entre el tránsito interurbano y los accesos a las poblaciones próximas. Nos movemos en el ámbito de las comarcas del sur de la Comunitat Valenciana.
