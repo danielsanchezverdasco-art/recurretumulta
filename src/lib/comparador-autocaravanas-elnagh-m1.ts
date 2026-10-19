@@ -32,7 +32,7 @@ export const AUTOCARAVANAS_ELNAGH_M1: Autocaravana[] = [
     imagenOficial:
       "/media/elnagh-baron-565-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/elnagh-baron-565-2026-precio-ficha-tecnica-interior.webp",
+      "/media/elnagh-baron-565-2026-precio-ficha-tecnica-oficial-interior2.webp",
     curiosidades:
       "Elnagh no es una marca independiente: desde 2013 pertenece al grupo francés Trigano a través de SEA (Società Europea Autocaravan), con fábrica en Poggibonsi (Toscana), donde comparte líneas de producción con McLouis y Mobilvetta. (Fuente: historial oficial de Trigano: https://trigano.com/en/the-group/history/)",
     videoId: null,
@@ -105,16 +105,16 @@ Para quién es: la Elnagh Baron 565 es para la familia que quiere una perfilada 
         alto: 800,
       },
       {
-        src: "/media/elnagh-baron-565-2026-precio-ficha-tecnica-interior2.webp",
-        alt: "Salón del Elnagh Baron 565",
+        src: "/media/elnagh-baron-565-2026-precio-ficha-tecnica-oficial-interior2.webp",
+        alt: "Salón del Elnagh Baron 565 (foto oficial)",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/elnagh-baron-565-2026-precio-ficha-tecnica-detalle.webp",
-        alt: "Cocina del Elnagh Baron 565",
-        ancho: 1200,
-        alto: 800,
+        src: "/media/elnagh-baron-565-2026-precio-ficha-tecnica-oficial-interior3.webp",
+        alt: "Interior del Elnagh Baron 565, cocina (foto oficial)",
+        ancho: 800,
+        alto: 1200,
       },
     ],
     analisisSlug: "elnagh-baron-565-2026-analisis-opinion",

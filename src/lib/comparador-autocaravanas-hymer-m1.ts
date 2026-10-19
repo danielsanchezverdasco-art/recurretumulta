@@ -37,7 +37,7 @@ export const AUTOCARAVANAS_HYMER_M1: Autocaravana[] = [
     imagenOficial:
       "/media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-interior.webp",
+      "/media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-oficial-interior2.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 5930, // lista oficial: 593 cm (GCS 600)
@@ -101,8 +101,8 @@ Para quién es: la Hymer Grand Canyon S es para la pareja viajera que quiere una
         alto: 800,
       },
       {
-        src: "/media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-interior2.webp",
-        alt: "Ducha del Hymer Grand Canyon S",
+        src: "/media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-oficial-interior2.webp",
+        alt: "Ducha del Hymer Grand Canyon S (foto oficial de prensa Hymer)",
         ancho: 1200,
         alto: 800,
       },
@@ -299,9 +299,9 @@ Para quién es: la Hymer B-MC I 600 es para la pareja que quiere la integral pre
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/hymer-ml-t-580-4x4-2026-precio-ficha-tecnica-oficial.webp",
+    imagen: "/media/hymer-ml-t-580-4x4-2026-precio-ficha-tecnica-oficial-ext2.webp",
     imagenOficial:
-      "/media/hymer-ml-t-580-4x4-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/hymer-ml-t-580-4x4-2026-precio-ficha-tecnica-oficial-ext2.webp",
     imagenInteriorOficial:
       "/media/hymer-ml-t-580-4x4-2026-precio-ficha-tecnica-oficial-interior.webp",
     videoId: null,
@@ -354,6 +354,12 @@ Para quién es: la Hymer ML-T 580 4x4 CrossTrail es para el viajero que quiere u
     ],
     opiniones: [],
     galeria: [
+      {
+        src: "/media/hymer-ml-t-580-4x4-2026-precio-ficha-tecnica-oficial-ext2.webp",
+        alt: "Hymer ML-T 580 4x4 CrossTrail, vista lateral (foto oficial de prensa Hymer)",
+        ancho: 1200,
+        alto: 801,
+      },
       {
         src: "/media/hymer-ml-t-580-4x4-2026-precio-ficha-tecnica-oficial.webp",
         alt: "Hymer ML-T 580 4x4 CrossTrail, vista tres cuartos delantera (render oficial Hymer)",

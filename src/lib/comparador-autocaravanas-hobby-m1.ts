@@ -29,11 +29,11 @@ export const AUTOCARAVANAS_HOBBY_M1: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/hobby-optima-ontour-edition-f-v65-ge-2026-precio-ficha-tecnica-ext.webp",
+    imagen: "/media/hobby-optima-ontour-edition-f-v65-ge-2026-precio-ficha-tecnica-oficial.webp",
     imagenOficial:
-      "/media/hobby-optima-ontour-edition-f-v65-ge-2026-precio-ficha-tecnica-ext.webp",
+      "/media/hobby-optima-ontour-edition-f-v65-ge-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/hobby-optima-ontour-edition-f-v65-ge-2026-precio-ficha-tecnica-interior.webp",
+      "/media/hobby-optima-ontour-edition-f-v65-ge-2026-precio-ficha-tecnica-oficial-interior2.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 6780, // 6,78 m según fichas de la red oficial (año modelo 2026)
@@ -96,10 +96,10 @@ Para quién es: la Hobby Optima OnTour Edition F V65 GE es para la pareja que qu
     opiniones: [],
     galeria: [
       {
-        src: "/media/hobby-optima-ontour-edition-f-v65-ge-2026-precio-ficha-tecnica-ext.webp",
-        alt: "Hobby Optima OnTour Edition F V65 GE, vista lateral",
+        src: "/media/hobby-optima-ontour-edition-f-v65-ge-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Hobby Optima OnTour Edition F V65 GE, vista lateral (foto oficial de prensa Hobby)",
         ancho: 1200,
-        alto: 800,
+        alto: 675,
       },
       {
         src: "/media/hobby-optima-ontour-edition-f-v65-ge-2026-precio-ficha-tecnica-interior.webp",
@@ -108,16 +108,16 @@ Para quién es: la Hobby Optima OnTour Edition F V65 GE es para la pareja que qu
         alto: 800,
       },
       {
-        src: "/media/hobby-optima-ontour-edition-f-v65-ge-2026-precio-ficha-tecnica-interior2.webp",
-        alt: "Camas del Hobby Optima Ontour Edition F V65 GE",
+        src: "/media/hobby-optima-ontour-edition-f-v65-ge-2026-precio-ficha-tecnica-oficial-interior2.webp",
+        alt: "Camas del Hobby Optima Ontour Edition F V65 GE (foto oficial)",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/hobby-optima-ontour-edition-f-v65-ge-2026-precio-ficha-tecnica-detalle.webp",
-        alt: "Baño del Hobby Optima Ontour Edition F V65 GE",
-        ancho: 1200,
-        alto: 800,
+        src: "/media/hobby-optima-ontour-edition-f-v65-ge-2026-precio-ficha-tecnica-oficial-interior3.webp",
+        alt: "Baño del Hobby Optima Ontour Edition F V65 GE (foto oficial)",
+        ancho: 619,
+        alto: 1200,
       },
     ],
     analisisSlug: "hobby-optima-ontour-edition-f-v65-ge-2026-analisis-opinion",
