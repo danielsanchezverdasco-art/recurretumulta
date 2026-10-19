@@ -388,6 +388,30 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/porsche-911-targa-4-gts-2026-precio-ficha-tecnica-hunt2.webp | https://finder.porsche.com/us/en-US/details/porsche-911-targa-4-gts-new-364ON0 | Porsche Finder (Porsche River Oaks) | desconocida |
 | /media/porsche-911-targa-4-gts-2026-precio-ficha-tecnica-hunt3.webp | https://finder.porsche.com/ca/en-CA/details/porsche-911-targa-4-gts-new-OL6QZ3 | Porsche Finder (Porsche Centre Langley) | desconocida |
 | /media/aion-lx-plus-2024-precio-ficha-tecnica-hunt1.webp | https://images.carexpert.com.au/app/uploads/2022/01/2022-GAC-Aion-LX-Plus-8.png | CarExpert (carexpert.com.au) | desconocida |
-| /media/aion-lx-plus-2024-precio-ficha-tecnica-hunt2.webp | https://images.carexpert.com.au/resize/1920/-/app/uploads/2022/01/2022-GAC-Aion-LX-Plus-2.png | CarExpert (carexpert.com.au) | desconocida |
-| /media/aion-lx-plus-2024-precio-ficha-tecnica-hunt3.webp | https://images.carexpert.com.au/resize/960/-/cms/v1/media/2022-01-2022-gac-aion-lx-plus-11.png | CarExpert (carexpert.com.au) | desconocida |
-| /media/alfa-romeo-giulietta-2025-hunt1.webp | https://en.wikipedia.org/wiki/Alfa_Romeo_Giulietta_(2010) | Wikimedia Commons | CC (Wikimedia Commons) |
+
+## photo-hunt (19/10/2026) — uploader-2
+| /media/jac-a5-plus-2025-precio-ficha-tecnica-hunt1.webp | https://www.chinapev.com/wp-content/uploads/2023/06/JAC-A5-PLUS_4.jpg | ChinaPEV | desconocida |
+| /media/jac-a5-plus-2025-precio-ficha-tecnica-hunt2.webp | https://bilstoff.no/wp-content/uploads/2026/01/8.-JAC_A5_Plus_001.jpg | Bilstoff.no | desconocida |
+| /media/jac-a5-plus-2025-precio-ficha-tecnica-hunt3.webp | https://autoreview.ru/images/gallery/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/2023/June/23/jac-a5-plus-02.jpg | Autoreview.ru | desconocida |
+| /media/porsche-taycan-4s-2026-precio-ficha-tecnica-hunt1.webp | https://www.porschebeverlyhills.com/inventoryphotos/23377/wp0ab2y13tsa28524/ip/1.jpg | Porsche Beverly Hills | desconocida |
+| /media/porsche-taycan-4s-2026-precio-ficha-tecnica-hunt2.webp | https://vehicle-images.carscommerce.inc/1405-110006168/WP0AB2Y16TSA28033/thumbnails/large/92740b84c179a2f69564384958e388c2.webp | Porsche Ontario | desconocida |
+| /media/porsche-taycan-4s-2026-precio-ficha-tecnica-hunt3.webp | https://www.porschebeverlyhills.com/inventoryphotos/23377/wp0ab2y13tsa28524/ip/4.jpg | Porsche Beverly Hills | desconocida |
+| /media/royal-alloy-tg-125-2026-ficha-tecnica-precio-hunt1.webp | https://www.royal-alloy.co.uk/cdn/shop/files/TG125_LC_Grey_Ivory.png?v=1740049642&width=3000 | Royal Alloy (royal-alloy.co.uk) | desconocida |
+| /media/royal-alloy-tg-125-2026-ficha-tecnica-precio-hunt2.webp | https://www.royal-alloy.co.uk/cdn/shop/files/TG125LC--Natural-Metal_Carbon.png?v=1751978837&width=2835 | Royal Alloy (royal-alloy.co.uk) | desconocida |
+| /media/royal-alloy-tg-125-2026-ficha-tecnica-precio-hunt3.webp | https://autocdn.co.uk/images_vehicles/2021/10/12/raw/6165792bac94dtg-125-ac-cbs-e5-ultra-blue-ivory.jpg | Bill Smith Motors | desconocida |
+| /media/aion-ray7-2026-precio-ficha-tecnica-hunt1.webp | https://news.com.kg/avto/pokazan-molodyozhnyj-sedan-aion-ray-7-ot-gac/ | news.com.kg (foto de prensa GAC Aion) | desconocida |
+| /media/aion-ray7-2026-precio-ficha-tecnica-hunt2.webp | https://autotest.com.ar/noticias/el-nuevo-sedan-chino-con-241-cv-700-km-de-autonomia-y-tecnologia-de-primer-nivel/ | autotest.com.ar (foto de prensa GAC Aion) | desconocida |
+| /media/aion-ray7-2026-precio-ficha-tecnica-hunt3.webp | https://www.chooseauto.com.cn/news/991694.shtml | chooseauto.com.cn (foto de prensa GAC Aion) | desconocida |
+| /media/porsche-taycan-turbo-2026-precio-ficha-tecnica-hunt1.webp | https://carbuzz.com/cars/porsche/taycan-turbo/2026/ | CarBuzz | desconocida |
+| /media/porsche-taycan-turbo-2026-precio-ficha-tecnica-hunt2.webp | https://www.porschemarin.com/new-Mill+Valley-2026-Porsche-+-Taycan+Turbo+S-WP0AC2Y10TSA41079 | Porsche Marin (concesionario oficial, foto de stock del anuncio) | desconocida |
+| /media/porsche-taycan-turbo-2026-precio-ficha-tecnica-hunt3.webp | https://www.porschenorthhouston.com/new-Houston-2026-Porsche-Taycan-Turbo+S-WP0AC2Y1XTSA41039 | Porsche North Houston (concesionario oficial, foto de stock del anuncio) | desconocida |
+| /media/sehol-e10x-2025-precio-ficha-tecnica-hunt1.webp | https://commons.wikimedia.org/wiki/File:Sehol_E10X_003.jpg | Wikimedia Commons | CC (ver página del archivo) |
+| /media/sehol-e10x-2025-precio-ficha-tecnica-hunt2.webp | https://chinamobil.ru/eng/jac/sol/e10x/ | chinamobil.ru | desconocida |
+| /media/sehol-e10x-2025-precio-ficha-tecnica-hunt3.webp | https://autogeek.com.ua/u-kytayi-pochali-masovo-vyrobliati-natrij-ionnyh-akumulyatoriv-dlya-elektromobiliv/ | autogeek.com.ua | desconocida |
+| /media/sym-ttlbt-508-2026-ficha-tecnica-precio-hunt1.webp | https://www.1000ps.ch/de/bericht-id-3013371-sym-ttlbt-508-neuer-maxi-scooter-fuer-2026 | 1000PS (foto de prensa SYM) | desconocida |
+| /media/sym-ttlbt-508-2026-ficha-tecnica-precio-hunt2.webp | https://motox.pt/sym-ttlbt-tartaruga-tecnologica/ | motox.pt (foto de prensa SYM) | desconocida |
+| /media/sym-ttlbt-508-2026-ficha-tecnica-precio-hunt3.webp | https://twmedia.my/2025/05/tunggang-uji-ttlbt-508-touring-adventure-bergaya-besar-dari-sym/ | twmedia.my (foto de prensa SYM) | desconocida |
+| /media/turboant-x7-max-hunt1.webp | https://turboant.com/products/x7-max-folding-electric-scooter | TurboAnt (web oficial) | desconocida |
+| /media/turboant-x7-max-hunt2.webp | https://turboant.com/products/x7-max-folding-electric-scooter-google | TurboAnt (web oficial) | desconocida |
+| /media/turboant-x7-max-hunt3.webp | https://electricscooterguide.com/the-best-electric-scooters-of-2023/ | electricscooterguide.com (foto de prensa TurboAnt) | desconocida |
+| /media/alfa-romeo-mito-2025-hunt1.webp | https://alfaromeogiuliasuv.web.app/mito-alfa-romeo-2010.html | Matt Vosper / Autocar (foto de prensa Alfa Romeo) | desconocida |
