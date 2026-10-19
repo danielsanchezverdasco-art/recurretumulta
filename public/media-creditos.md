@@ -2620,3 +2620,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/subaru-uncharted-field-2026-precio-ficha-tecnica-hunt1.webp | https://carbuzz.com/2026-subaru-uncharted-reveal/ |  | desconocida |
 | /media/subaru-uncharted-field-2026-precio-ficha-tecnica-hunt2.webp | https://ecoloauto.com/palmares-les-vus-et-multisegments-electriques-les-plus-abordables-en-amerique-du-nord-en-2026/ |  | desconocida |
 | /media/subaru-uncharted-field-2026-precio-ficha-tecnica-hunt3.webp | https://www.drivespark.com/four-wheelers/2025/2026-subaru-uncharted-all-electric-crossover-performance-range-011-73717.html |  | desconocida |
+| /media/renault-megane-e-tech-40-kwh-2024-precio-ficha-tecnica-hunt1.webp | https://cdn.r-dam.renault.com/pm_5781_1643_1643855-ncdptcnycx-rlarge.jpg | Renault (prensa oficial) — licencia desconocida | desconocida |
+| /media/renault-megane-e-tech-40-kwh-2024-precio-ficha-tecnica-hunt2.webp | https://images.carexpert.com.au/resize/3000/-/app/uploads/2024/08/2024-Renault-Megane-E-Tech-MY24-Stills-25.jpg | Renault (prensa) vía CarExpert — licencia desconocida | desconocida |
+| /media/renault-megane-e-tech-40-kwh-2024-precio-ficha-tecnica-hunt3.webp | https://renault.autosphere-cars.be/wp-content/uploads/sites/80/2025/03/megane-bcb-my24-overview-002-desktop-1.jpg | Renault (prensa) vía Autosphere Cars — licencia desconocida | desconocida |
+| /media/yamaha-tmax-560-2025-ficha-tecnica-precio-hunt1.webp | https://www.yamaha-motor.co.jp/mc/lineup/tmax/ | Yamaha Motor Co., Ltd. (web oficial del producto) | desconocida |
+| /media/yamaha-tmax-560-2025-ficha-tecnica-precio-hunt2.webp | https://bcnmotorbikes.com/producto/tmax-560-performance-2025/ | BCN Motorbikes (concesionario oficial Yamaha) | desconocida |
+| /media/yamaha-tmax-560-2025-ficha-tecnica-precio-hunt3.webp | https://bcnmotorbikes.com/producto/tmax-560-performance-2025/ | BCN Motorbikes (concesionario oficial Yamaha) | desconocida |
+| /media/kaabo-skywalker-10-hunt1.webp | https://www.99bikes.co.nz/products/kaabo-skywalker-10h-escooter | Kaabo / 99Bikes (distribuidor) | desconocida |
+| /media/kaabo-skywalker-10-hunt2.webp | https://www.ecoscooter.ee/en/product/electric-scooter-kaabo-skywalker-10-15-6ah/ | Kaabo / EcoScooter (distribuidor) | desconocida |
+| /media/kaabo-skywalker-10-hunt3.webp | https://kaabomantis.fr/shop/kaabo-skywalker-10c-eco-800/ | Kaabo / Kaabo Mantis France (partner oficial) | desconocida |
+| /media/suzuki-katana-2025-ficha-tecnica-precio-hunt1.webp | https://www.globalsuzuki.com/motorcycle/smgs/products/360viewer/2025katana/img/data/grade1/color1/19.webp | Suzuki Motor Corporation (prensa oficial) | desconocida |
+| /media/suzuki-katana-2025-ficha-tecnica-precio-hunt2.webp | https://www.brm.co.nz/wp-content/uploads/2024/09/2025-suzuki-katana-pearl-vigor-blue.jpg | BRM / Suzuki NZ | desconocida |
+| /media/suzuki-katana-2025-ficha-tecnica-precio-hunt3.webp | https://www.totalmotorcycle.com/wp-content/uploads/2024/11/2025-Suzuki-Katana1-1200x978.jpg | Total Motorcycle | desconocida |
+| /media/byd-seal-excellence-2024-precio-ficha-tecnica-hunt1.webp | https://byd.com.uy/wp-content/uploads/2024/01/seal_ext5.webp | BYD Uruguay (prensa oficial) | desconocida |
+| /media/byd-seal-excellence-2024-precio-ficha-tecnica-hunt2.webp | https://finlaymotorgroup.ie/images/new-brands/byd/seal/seal-02.webp?v=1.001 | Finlay Motor Group | desconocida |
+| /media/byd-seal-excellence-2024-precio-ficha-tecnica-hunt3.webp | https://paultan.org/cn/image/2024/02/BYD-Seal-Official-Colour-Variant-9-1200x844.jpg | Paul Tan's Automotive News | desconocida |
+| /media/ktm-690-enduro-r-2026-ficha-tecnica-precio-hunt1.webp | https://www.cyclenews.com/wp-content/uploads/2025/08/2026-KTM-690-Enduro-R-static.jpg | Cycle News | desconocida |
+| /media/ktm-690-enduro-r-2026-ficha-tecnica-precio-hunt2.webp | https://www.cyclenews.com/wp-content/uploads/2025/08/2026-KTM-690-Enduro-R-jumping.jpg | Cycle News | desconocida |
+| /media/ktm-690-enduro-r-2026-ficha-tecnica-precio-hunt3.webp | https://azwecdnepstoragewebsiteuploads.azureedge.net/PHO_BIKE_DET_KTM-dual-sport-690-enduro-r-2026-action-4_%23SEN-US_%23AEPI_%23V1.jpg | KTM (prensa oficial) | desconocida |
+| /media/mg-4-urban-ev-2026-precio-ficha-tecnica-hunt1.webp | https://www.completecar.ie/img/galleries/14704/mg4_ev_blue_uk_2026_088.jpg | CompleteCar.ie | desconocida |
+| /media/mg-4-urban-ev-2026-precio-ficha-tecnica-hunt2.webp | https://www.leblogauto.com/wp-content/uploads/2026/06/I71A8582-1024x683.jpg | LeBlogAuto | desconocida |
+| /media/mg-4-urban-ev-2026-precio-ficha-tecnica-hunt3.webp | http://autotrader.co.nz/wp-content/uploads/2026/05/MG4EV-2.jpg | Autotrader NZ | desconocida |
+| /media/segway-ninebot-f30-hunt1.webp | https://more4motion.eu/cdn/shop/products/kick-scooter-segway-ninebot-kickscooter-f30-1_1200x.jpg?v=1702474381 | More4Motion | desconocida |
+| /media/segway-ninebot-f30-hunt2.webp | http://electrozone.store/wp-content/uploads/2024/01/Ninebot_segway_F30_electrozone-6.jpg | Electrozone | desconocida |
+| /media/segway-ninebot-f30-hunt3.webp | https://shop.panmi.com.au/cdn/shop/files/productpicture-01_bbaeacd1-cfb9-470e-bb2d-59084d34aeae.png?v=1691481117 | Panmi Australia | desconocida |
