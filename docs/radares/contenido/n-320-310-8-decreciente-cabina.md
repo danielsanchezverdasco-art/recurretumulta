@@ -12,6 +12,15 @@
 
 La cabina está instalada en la **N-320, punto kilométrico 310,8**, dentro de la provincia de Guadalajara. Vigila el **sentido decreciente**, es decir, a los vehículos que circulan hacia puntos kilométricos decrecientes. Si conoces la zona, el pk 310,8 te orientará mejor que la propia cabina: los equipos rotan, la ubicación publicada no cambia. El punto vigilado más cercano es el de la **N-320, pk 306,4** (sentido creciente): queda a 4,1 km hacia el sureste. Le sigue en proximidad el de la **N-320, pk 300,5** (sentido creciente), situado a 8,9 km hacia el sureste. El paisaje circundante es el de la meseta sur: llano, abierto y con largas rectas que invitan a acelerar.
 
+<iframe title="Mapa: radar n-320-310-8-decreciente-cabina" src="https://www.google.com/maps?q=40.68863,-3.39016&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-320-310-8-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.68863,-3.39016&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 Se trata de una carretera nacional —la N-320— que vertebra Guadalajara. La carretera nacional registra movimiento durante toda la jornada, con perfiles distintos por franjas horarias. La DGT vigila este tramo con un puesto estable por ser propenso a las velocidades elevadas. Entre los 7 radares publicados para la N-320 en la región, este es el séptimo en orden de pk. Dentro de la propia N-320, el siguiente punto vigilado es el del pk 306,4 (sentido creciente), a 4,1 km hacia el sureste. En definitiva, un tramo donde la disciplina con el acelerador marca la diferencia. Adaptarse a la vía significa también aceptar sus límites: los impuestos por la norma y los del sentido común.
