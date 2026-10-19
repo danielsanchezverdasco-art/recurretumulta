@@ -2442,3 +2442,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/bentley-batur-2024-precio-ficha-tecnica-hunt1.webp | https://cimg3.ibsrv.net/ibimg/hgm/880x495-1/100/852/bentley-batur-by-mulliner_100852211.jpg | Green Car Reports (Internet Brands) | desconocida |
 | /media/bentley-batur-2024-precio-ficha-tecnica-hunt2.webp | https://tailoreddriver.com/2022/08/ | Bentley (vía Tailored Driver) | desconocida |
 | /media/bentley-batur-2024-precio-ficha-tecnica-hunt3.webp | https://hiconsumption.com/motors/bentley-mulliner-batur-3d-printed-gold-interior/ | HiConsumption | desconocida |
+| /media/bestune-t77-2026-precio-ficha-tecnica-hunt1.webp | https://www.zigwheels.ae/car-news/bestune-t77-the-bold-chinese-contender-rewriting-the-compact-suv-rulebook-in-the-uae | Bestune / ZigWheels (material de prensa del fabricante) | desconocida |
+| /media/bestune-t77-2026-precio-ficha-tecnica-hunt2.webp | https://dailydriver.pl/nowosci/wydarzenia/bestune-t77-bedzie-do-wygrania-podczas-dni-otwartych-marki/ | Daily Driver (Exif: 'chiński Bestune T77') | desconocida |
+| /media/bestune-t77-2026-precio-ficha-tecnica-hunt3.webp | https://chinesecarbrands.net/ | Chinese Car Brands | desconocida |
+| /media/bestune-pony-2025-precio-ficha-tecnica-hunt1.webp | https://trafficnetworkph.com/wp-content/uploads/2025/04/2025-Apr-12-838-am-BESTUNE-PONY-4-LWTN.jpg | CarGuide.PH / Traffic Network PH | desconocida |
+| /media/bestune-pony-2025-precio-ficha-tecnica-hunt2.webp | https://e-drivers.com/wp-content/uploads/2024/12/Bestune-Pony-1.jpg | e-drivers.com | desconocida |
+| /media/bestune-pony-2025-precio-ficha-tecnica-hunt3.webp | https://img-1.carhao.market/guazi/831834/67dd7f87f1037.webp | Guazi / carhao.market | desconocida |
+| /media/ligier-js50-electrico-2026-precio-ficha-tecnica-hunt1.webp | https://www.quadricyclecars.com/sites/default/files/image-gallery/Ligier-JS50-2026-03-508.webp | QuadricycleCars.com (foto prensa) | desconocida |
+| /media/ligier-js50-electrico-2026-precio-ficha-tecnica-hunt2.webp | https://ligier2.2in1web.de/images/fahrzeuge/js50_2026/js50-back.jpg | Ligier dealer 2in1web.de | desconocida |
+| /media/ligier-js50-electrico-2026-precio-ficha-tecnica-hunt3.webp | https://www.miniautos.es/wp-content/uploads/2026/06/Ligier_Ultimate.webp | Miniautos.es (concesionario Ligier) | desconocida |
+| /media/bmw-serie-5-530e-2026-precio-ficha-tecnica-hunt1.webp | https://www.dailyrevs.com/cars/2024-bmw-530e-phev-g60 | BMW AG / DailyRevs | desconocida |
+| /media/bmw-serie-5-530e-2026-precio-ficha-tecnica-hunt2.webp | https://www.dailyrevs.com/cars/2024-bmw-530e-phev-g60 | BMW AG / DailyRevs | desconocida |
+| /media/bmw-serie-5-530e-2026-precio-ficha-tecnica-hunt3.webp | https://www.dailyrevs.com/cars/2024-bmw-530e-phev-g60 | BMW AG / DailyRevs | desconocida |
+| /media/bmw-ix2-xdrive30-2026-precio-ficha-tecnica-hunt1.webp | https://www.evspecifications.com/en/news/e34f867 | BMW / EVSpecifications | desconocida |
+| /media/bmw-ix2-xdrive30-2026-precio-ficha-tecnica-hunt2.webp | https://economiasustentable.com/noticias/lanzaron-la-bmw-x2-en-sus-dos-versiones-en-argentina-naftera-y-electrica/ | Economía Sustentable / BMW | desconocida |
+| /media/bmw-ix2-xdrive30-2026-precio-ficha-tecnica-hunt3.webp | https://www.autocar.co.uk/car-review/bmw/ix2 | Autocar | desconocida |
+| /media/bmw-ix-xdrive60-2026-precio-ficha-tecnica-hunt1.webp | https://www.autoexpress.co.uk/bmw/ix/365743/new-2025-bmw-ix-facelift-gets-more-power-and-glow-dark-kidney-grilles | BMW Group (prensa oficial) vía Auto Express | desconocida |
+| /media/bmw-ix-xdrive60-2026-precio-ficha-tecnica-hunt2.webp | https://www.bmwofsterling.com/used-Sterling-2026-BMW-iX-xDrive60-WB553CF04TCW03277 | BMW of Sterling (concesionario BMW) | desconocida |
+| /media/bmw-ix-xdrive60-2026-precio-ficha-tecnica-hunt3.webp | https://www.evo.co.uk/bmw/ix/207558/bmw-ix-gets-a-makeover-for-2025-more-range-and-up-to-650bhp-for-electric-suv | BMW Group (prensa oficial) vía Evo | desconocida |
+| /media/bmw-x7-xdrive40i-2026-precio-ficha-tecnica-hunt1.webp | https://www.autoblog.com/.image/NzowMDAwMDAwMDAxMTc0MjMz/2026-bmw-x7.png?profile=w2560&ar=1-1 | Foto de prensa BMW (vía Autoblog) | desconocida |
+| /media/bmw-x7-xdrive40i-2026-precio-ficha-tecnica-hunt2.webp | https://autosportsgroup.com.au/9z28710-1743594-bmw-x7-2025/ | Autosports Group (concesionario BMW, Australia) | desconocida |
+| /media/bmw-x7-xdrive40i-2026-precio-ficha-tecnica-hunt3.webp | https://www.dailyrevs.com/cars/2024-bmw-x7-signature-edition-g07 | BMW / DailyRevs | desconocida |
+| /media/byd-seal-u-ev-design-87kwh-2026-precio-ficha-tecnica-hunt1.webp | https://media.byd.com/wp-content/uploads/2025/11/f50f7a0dd5280e32b242138754480f22-l.jpg.webp | BYD (prensa oficial) | desconocida |
+| /media/byd-seal-u-ev-design-87kwh-2026-precio-ficha-tecnica-hunt2.webp | https://st.arenaev.com/specs/byd/byd-seal-u-side-1.jpg | arenaev | desconocida |
+| /media/byd-seal-u-ev-design-87kwh-2026-precio-ficha-tecnica-hunt3.webp | https://www.log.com.tr/wp-content/uploads/2025/07/otv-dilimi-degisen-byd-seal-u-ev-765-bin-tl-zam-gordu.jpg | log.com.tr | desconocida |
