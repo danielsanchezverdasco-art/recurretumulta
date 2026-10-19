@@ -2779,3 +2779,12 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/voyah-free-erev-2025-precio-ficha-tecnica-hunt1.webp | https://ymimg1.b8cdn.com/uploads/article/18784/pictures/13730862/voyah-free-exterior-01.jpg | YallaMotor (yallamotor.com) | desconocida |
 | /media/voyah-free-erev-2025-precio-ficha-tecnica-hunt2.webp | https://d2hucwwplm5rxi.cloudfront.net/wp-content/uploads/2025/08/03063301/voyah-free-cover1.jpg | Dubizzle Blog (dubizzle.com) | desconocida |
 | /media/voyah-free-erev-2025-precio-ficha-tecnica-hunt3.webp | https://xn----7sbbeeptbfadjdvm5ab9bqj.xn--p1ai/wp-content/uploads/2025/05/salon-old-voyah-free-1-768x432.webp | Autonews (web china) | desconocida |
+| /media/kaabo-wolf-warrior-x-pro-hunt1.webp | http://www.pedl.com.au/cdn/shop/products/kabo_1200x1200.png?v=1646646329 | Pedl / E-Scooters Australia (foto de distribuidor) | desconocida |
+| /media/kaabo-wolf-warrior-x-pro-hunt2.webp | https://www.maxblinker.de/16599-panda_thickbox_default/kaabo-wolf-warrior-x-pro.jpg | Maxblinker (foto de distribuidor) | desconocida |
+| /media/kaabo-wolf-warrior-x-pro-hunt3.webp | https://vmtehnika.com.ua/uploads/product_galleries/e0/4e/w530x2_ft53a052m_8c337614.webp | VM Tehnika (foto de distribuidor) | desconocida |
+| /media/volkswagen-polo-gti-2026-precio-ficha-tecnica-hunt1.webp | https://nieuws.volkswagen.nl/voor-de-snelle-beslissers-polo-gti-edition-25-limited-edition-nu-te-koop/ | Volkswagen (prensa oficial, via nieuws.volkswagen.nl) | desconocida |
+| /media/volkswagen-polo-gti-2026-precio-ficha-tecnica-hunt2.webp | https://www.evo.co.uk/volkswagen/polo-gti/206040/2023-volkswagen-polo-gti-edition-25-priced-from-ps31295-pictures | Volkswagen (prensa oficial, via evo.co.uk) | desconocida |
+| /media/volkswagen-polo-gti-2026-precio-ficha-tecnica-hunt3.webp | https://www.revistagente.com/autos-y-motos/vw-polo-gti-edition-25-diseno-elegante-rendimiento-excepcional-y-exclusividad/ | Volkswagen (prensa oficial, via Revista Gente) | desconocida |
+| /media/cyclone-battlo-hunt1.webp | https://www.motosan.es/wp-content/uploads/2025/01/sthaqtha.jpg | Motosan | desconocida |
+| /media/cyclone-battlo-hunt2.webp | https://cyclone-motor.eu/wp-content/uploads/2025/04/battlo-negro-360-8.webp | Cyclone Motor (web oficial) | desconocida |
+| /media/cyclone-battlo-hunt3.webp | https://cyclone-motor.eu/wp-content/uploads/2025/04/battlo-negro-360-3.webp | Cyclone Motor (web oficial) | desconocida |
