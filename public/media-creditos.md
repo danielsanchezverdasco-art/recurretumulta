@@ -2371,3 +2371,26 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/baojun-yep-2024-precio-ficha-tecnica-hunt1.webp | https://image.made-in-china.com/2f0j00wEOBepWgfubS/2024-Baojun-Yep-3-Door-4-Seater-Battery-Electric-Crossover-City-Car-New-Energy-Car.jpg | Made-in-China.com | desconocida |
 | /media/baojun-yep-2024-precio-ficha-tecnica-hunt2.webp | https://www.car250.com/wp-content/uploads/2023/05/Baojun-Yep-1-4-768x576.jpg | Car250.com | desconocida |
 | /media/baojun-yep-2024-precio-ficha-tecnica-hunt3.webp | https://www.car250.com/wp-content/uploads/2023/05/Baojun-Yep-4-3.jpg | Car250.com | desconocida |
+| /media/audi-rs3-sportback-2025-precio-ficha-tecnica-hunt1.webp | https://images.dailyrevs.com/0000/v3/Audi/66c56193e4b3e270e94a91f4/2025-rs-3-sportback-audi-20wtylllllm04suzld8oq3m.jpeg | DailyRevs | desconocida |
+| /media/audi-rs3-sportback-2025-precio-ficha-tecnica-hunt2.webp | https://paultan.org/image/2024/08/2025-Audi-RS3-Sportback-facelift-debut-6.jpg | Paultan.org | desconocida |
+| /media/baojun-kiwi-ev-2024-precio-ficha-tecnica-hunt1.webp | https://www.planetcarsz.com/carros/baojun-kiwi-ev-2022 | PlanetCarsZ | desconocida |
+| /media/baojun-kiwi-ev-2024-precio-ficha-tecnica-hunt2.webp | https://www.planetcarsz.com/carros/baojun-kiwi-ev-2022 | PlanetCarsZ | desconocida |
+| /media/baojun-kiwi-ev-2024-precio-ficha-tecnica-hunt3.webp | https://www.planetcarsz.com/carros/baojun-kiwi-ev-2022 | PlanetCarsZ | desconocida |
+| /media/baojun-yunhai-phev-2024-precio-ficha-tecnica-hunt1.webp | https://www.car250.com/wp-content/uploads/2024/09/Baojun-Yunhai-9.jpg | Car250 | desconocida |
+| /media/baojun-yunhai-phev-2024-precio-ficha-tecnica-hunt2.webp | https://images.dailyrevs.com/0000/v3/Baojun/6641dad8334000e9b1947620/2024-yunhai-baojun-htfoheeeeej04yz3uwe6av6_thumb.webp | DailyRevs | desconocida |
+| /media/baojun-yunhai-phev-2024-precio-ficha-tecnica-hunt3.webp | https://www.car250.com/wp-content/uploads/2024/09/Baojun-Yunhai-16.png | Car250 (foto oficial SGMW) | desconocida |
+| /media/baojun-xiangjing-ev-2025-precio-ficha-tecnica-hunt1.webp | https://gmauthority.com/blog/wp-content/uploads/2024/12/2025-Baojun-Xiang-Jing-EV-Sedan-China-Press-Photos-Exterior-006-Side-Front-Three-Quarters-Close-Up-1568x1045.jpg | GM Authority (fotos de prensa Baojun/SAIC-GM-Wuling) | desconocida |
+| /media/baojun-xiangjing-ev-2025-precio-ficha-tecnica-hunt2.webp | https://www.hibridosyelectricos.com/uploads/s1/90/61/49/baojun-xiang-jing_17_2000x1126.jpeg | Híbridos y Eléctricos | desconocida |
+| /media/baojun-xiangjing-ev-2025-precio-ficha-tecnica-hunt3.webp | https://www.car250.com/wp-content/uploads/2025/04/1400x1050_autohomecar__ChxoHmfBSZ-AIpekABG4Ui549JM663.jpg | car250.com (foto de prensa Baojun) | desconocida |
+| /media/beijing-bj60-2024-precio-ficha-tecnica-hunt1.webp | https://paultan.org/cn/image/2024/06/2024-BAIC-BJ60-14-1.jpg | Paul Tan / prensa | desconocida |
+| /media/beijing-bj60-2024-precio-ficha-tecnica-hunt2.webp | https://baic.sa/wp-content/uploads/2024/10/Baic-Bj60-1280x1536.png | BAIC Arabia Saudita (web oficial) | desconocida |
+| /media/beijing-bj60-2024-precio-ficha-tecnica-hunt3.webp | https://www.d1ev.com/carnews/xinche/228094 | d1ev.com | desconocida |
+| /media/leapmotor-b03-2026-precio-ficha-tecnica-hunt1.webp | https://www.somoselectricos.com/media/somoselectricos/images/2026/08/01/2026080107165980427.jpg | Somos Eléctricos | desconocida |
+| /media/leapmotor-b03-2026-precio-ficha-tecnica-hunt2.webp | https://www.hibridosyelectricos.com/uploads/s1/13/54/02/7/leapmotor-b03_5_659x371.jpeg | Híbridos y Eléctricos | desconocida |
+| /media/leapmotor-b03-2026-precio-ficha-tecnica-hunt3.webp | https://www.autoexpress.co.uk/leapmotor/370128/new-leapmotor-b03-pictures | Auto Express | desconocida |
+| /media/roewe-ei5-2024-precio-ficha-tecnica-hunt1.webp | https://ncars.com.ua/models/roewe/ei5/ | ncars.com.ua | desconocida |
+| /media/roewe-ei5-2024-precio-ficha-tecnica-hunt2.webp | https://ncars.com.ua/models/roewe/ei5/ | ncars.com.ua | desconocida |
+| /media/roewe-ei5-2024-precio-ficha-tecnica-hunt3.webp | https://ekb.grosta.ru/auto/roewe/ei5/ | wheel-size.com | desconocida |
+| /media/beijing-x7-2024-precio-ficha-tecnica-hunt1.webp | https://www.icartea.com/en/news/Review-of-the-2024-Baic-X7-6211 | icartea.com | desconocida |
+| /media/beijing-x7-2024-precio-ficha-tecnica-hunt2.webp | https://mungart.com/search/%D8%A8%DB%8C%D8%AC%DB%8C%D9%86%DA%AF%20X7%20%D8%AA%D9%88%D8%B1%D8%A8%D9%88 | gadgetnews.net | desconocida |
+| /media/beijing-x7-2024-precio-ficha-tecnica-hunt3.webp | https://www.masmotors.ru/car/baic/x-7 | masmotors.ru | desconocida |
