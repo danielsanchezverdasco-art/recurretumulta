@@ -442,3 +442,24 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/aito-m5-ultra-ev-2025-precio-ficha-tecnica-hunt2.webp | https://cnevpost.com/2025/03/20/aito-launches-m5-ultra/ | CnEVPost | desconocida |
 | /media/aito-m5-ultra-ev-2025-precio-ficha-tecnica-hunt3.webp | https://chinacarhub.com/2025-aito-family-updates-aito-m9-aito-m5-aito-m8/ | ChinaCarHub | desconocida |
 | /media/kia-carnival-2025-hunt1.webp | https://rpmweb.ca/imager/medias/8603634/Kia-Carnival-2025-6_550ccdc016b66ec25cd6ec310268ae53.webp | RPMWeb (foto de prensa Kia) | desconocida |
+| /media/bronco-xtreme-vnom-11-hunt1.webp | https://bronco-motors-co.myshopify.com/cdn/shop/files/X11_4_1287x1162.jpg?v=1701313266 | Bronco Motors (tienda oficial) | desconocida |
+| /media/bronco-xtreme-vnom-11-hunt2.webp | https://escondido.ebikesupershop.com/cdn/shop/files/1000000809.jpg?v=1763663129&width=1426 | eBike Super Shop (distribuidor, página del producto) | desconocida |
+| /media/bronco-xtreme-vnom-11-hunt3.webp | https://cdn.shopify.com/s/files/1/0549/2201/8981/files/1000000813.jpg?v=1697582654 | Bronco Motors (distribuidor) | desconocida |
+| /media/etwow-gt-se-hunt1.webp | https://www.motorverde.es/color/blanco/ | MotorVerde | desconocida |
+| /media/etwow-gt-se-hunt2.webp | https://www.orlaivis.lt/produktas/e-twow-gt-se-2025-waterproof-melynas/ | Orlaivis (distribuidor E-Twow) | desconocida |
+| /media/etwow-gt-se-hunt3.webp | https://www.tallersclaudi.com/botiga/e-twow-gt-se/ | Taller S. Claudi (ficha producto E-Twow GT SE) | desconocida |
+| /media/lambretta-j-125-2026-ficha-tecnica-precio-hunt1.webp | https://bikes.motobank.co.uk/fp/71759/lambretta-j125-2026-grey_1137533.jpg | MotoBank UK (concesionario) | desconocida |
+| /media/lambretta-j-125-2026-ficha-tecnica-precio-hunt2.webp | https://www.devittinsurance.com/wp-content/uploads/2026/08/IMG_9661-2048x1462.jpg | Devitt Insurance (medio) | desconocida |
+| /media/lambretta-j-125-2026-ficha-tecnica-precio-hunt3.webp | https://bikes.motobank.co.uk/fp/71759/lambretta-j125-2026-grey_1137535.jpg | MotoBank UK (concesionario) | desconocida |
+| /media/egret-ey-1-hunt1.webp | https://my-egret.com/de/e-scooter/egret-ey-1/konfigurator/ | Egret (web oficial del fabricante) | desconocida |
+| /media/egret-ey-1-hunt2.webp | https://escoomo.com/products/egret-ey-1 | Escoomo (distribuidor) | desconocida |
+| /media/egret-ey-1-hunt3.webp | http://www.scooterwerkstatt.de | Scooterwerkstatt (distribuidor) | desconocida |
+| /media/lambretta-v125-special-2025-ficha-tecnica-precio-hunt1.webp | https://www.1000ps.com/en-gb/model/9218/lambretta-v125-special | 1000PS (prensa oficial Lambretta) | desconocida |
+| /media/lambretta-v125-special-2025-ficha-tecnica-precio-hunt2.webp | https://www.1000ps.com/en-gb/model/9218/lambretta-v125-special | 1000PS (prensa oficial Lambretta) | desconocida |
+| /media/lambretta-v125-special-2025-ficha-tecnica-precio-hunt3.webp | https://www.mundomotero.com/motos/lambretta/v125-v50-special-flex | MundoMotero (prensa oficial Lambretta) | desconocida |
+| /media/royal-alloy-gp-300-s-2026-ficha-tecnica-precio-hunt1.webp | https://royalalloy.es/modelo/gp-300-s/ | Royal Alloy España (royalalloy.es) | desconocida |
+| /media/royal-alloy-gp-300-s-2026-ficha-tecnica-precio-hunt2.webp | https://royalalloy.com.au/gp300s/ | Royal Alloy Australia (royalalloy.com.au) | desconocida |
+| /media/royal-alloy-gp-300-s-2026-ficha-tecnica-precio-hunt3.webp | https://royalalloy.es/modelo/gp-300-s/ | Royal Alloy España (royalalloy.es) | desconocida |
+| /media/egret-ey-3-hunt1.webp | https://www.technikdirekt.de/egret-ey-3-e-scooter-190929 | TechnikDirekt | desconocida |
+| /media/egret-ey-3-hunt2.webp | https://nexalia.de/Egret-Ey-3-E-Scooter | Nexalia | desconocida |
+| /media/egret-ey-3-hunt3.webp | https://www.expert-technomarkt.de/E-Scooter/Egret-Ey-3-18,6-kg-E-Scooter-7,65-Ah-Grau.13930002463.html | Expert Technomarkt | desconocida |
