@@ -12,6 +12,15 @@
 
 Nos situamos en el **pk 78,4 de la A-3**, en plena provincia de Cuenca. El control se ejerce sobre el **sentido decreciente** de la circulación (puntos kilométricos decrecientes). La DGT no difunde el destino asociado a este punto, así que el sentido se describe por la numeración kilométrica, no por localidades. El control fijo de la DGT más próximo es el de la **CM-200, pk 25,3** (sentido creciente), a 11,9 km hacia el sur. El siguiente punto por cercanía es el de la **N-301, pk 83,4** (sentido decreciente), a 28,4 km hacia el suroeste. Es un punto donde la monotonía del recorrido juega en contra de la atención del conductor.
 
+<iframe title="Mapa: radar a-3-78-4-decreciente-cabina" src="https://www.google.com/maps?q=40.0228,-3.03448&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-3-78-4-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.0228,-3.03448&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 Circulamos por la A-3, la Autovía del Este, que une Madrid con Valencia. La autovía soporta a diario una corriente circulatoria heterogénea, con pesados y ligeros compartiendo calzada. La DGT mantiene aquí un control fijo porque es un tramo donde la velocidad tiende a despegarse de lo señalizado. La A-3 suma 3 puntos de control en Castilla-La Mancha; este ocupa el primer lugar por pk. En la misma A-3, el control más próximo es el del pk 136,0 (sentido decreciente): dista 53,4 km hacia el sureste. En esta vía, como en tantas, la velocidad adecuada es la que marcan las señales. La vía no perdona las distracciones: mantener la vista al frente es tan importante como controlar la velocidad.
