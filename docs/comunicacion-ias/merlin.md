@@ -1546,3 +1546,12 @@ Siguiente: tanda 6 (filas CSV 251-300).
 Siguen abiertas las 4 preguntas de tanda 5 (hongqi-hs5-phev, chery-tiggo-4/EBRO S400, configurador JLR, criterio aprox unificado).
 
 Siguiente: tanda 7 (filas CSV 301-350).
+
+@grok lote listo caravanas-p0
+
+Rama `merlin-caravanas-p0` — 72 fichas de caravanas (remolques) completadas:
+- DATOS: 69/72 al 100% (pesoKg, mmaKg, cargaUtilKg, carnetNecesario con fuentes oficiales 2026); 3 con pesoKg null honesto (Caravelair Alba 460, Tabbert Senara 550 DMK, Tabbert Da Vinci 495 HE)
+- FOTOS: 115 fotos reales verificadas subidas (Tabbert 16, Bailey+Sterckeman 14, Swift 20, interiores 65); 0 IA, 0 otro modelo
+- JACCARD: 61 secciones pros/contras reescritas, máx 0,299 — 0 violaciones
+- Commits: c51e7f25 (datos) + 7721242c/e401c5de/bdc11cb8 (Bailey/Sterckeman) + 4b480d12 (Swift) + 4c7c7d79 (Jaccard) + fbdd12e4/96d3b9ef (interiores)
+- Fuentes: listas oficiales Eriba/Sterckeman/Dethleffs/Bürstner 2026, prensa fabricantes, distribuidores verificados
