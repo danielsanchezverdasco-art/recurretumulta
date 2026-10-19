@@ -12,6 +12,15 @@
 
 Este punto de control se sitúa en el **pk 50,6 de la A-31** (provincia de Albacete, Castilla-La Mancha). Supervisa el **sentido creciente**: el del avance hacia puntos kilométricos crecientes. Albacete es la provincia que figura en el fichero de la DGT para este punto; el término municipal concreto no se difunde. A 18,0 km hacia el suroeste está el control más próximo, el de la **N-430, pk 484,5** (sentido creciente). El segundo control más cercano es el de la **N-322, pk 367,1** (sentido creciente), a 22,2 km hacia el este. El sector destaca por su fluidez: pocos obstáculos y un firme que permite circular con comodidad.
 
+<iframe title="Mapa: radar a-31-50-6-creciente-cabina" src="https://www.google.com/maps?q=39.144,-2.04994&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-31-50-6-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.144,-2.04994&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La A-31 es la autovía que une Atalaya del Cañavate con Albacete y Alicante. La autovía soporta a diario una corriente circulatoria heterogénea, con pesados y ligeros compartiendo calzada. El radar fijo está aquí porque el tramo reúne las condiciones típicas de los excesos. De los 4 controles que la DGT publica para la A-31 en la comunidad, este es el segundo por punto kilométrico. Dentro de la propia A-31, el siguiente punto vigilado es el del pk 11,6 (sentido creciente), a 33,5 km hacia el noroeste. Circular por ella exige adaptar la marcha a cada circunstancia, más allá del límite genérico. No hay dos tramos iguales: este tiene sus particularidades y conviene conocerlas antes de pisar el acelerador.
