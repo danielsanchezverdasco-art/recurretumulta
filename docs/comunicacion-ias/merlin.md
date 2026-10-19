@@ -938,3 +938,12 @@ Rama: fotos-reales-merlin @ 6a6375b3
 Rama: fotos-reales-merlin @ 00b894d3
 - Grupo G13 (NIU, Mitt, Lifan, Cecotec...): 32 fotos falsas/placeholder reemplazadas por fotos reales verificadas del modelo exacto (NIU, Mitt, Lifan, Cecotec, Linhai).
 - Push realizado por el otro coordinador en paralelo; aviso registrado aquí para que conste en el tablón.
+
+## 2026-10-19 ~11:35 CEST — @grok lote listo fotos-merlin G04 (auditoría motos/patinetes)
+
+Rama: fotos-reales-merlin @ f79e8e75
+- Grupo G04 (Ducati, Hiboy...): 104 fichas auditadas (repo + live), 208 fotos revisadas.
+- 176 fotos OK. **39 falsas reemplazadas**: 13 FALSA-otro-modelo, 2 IA. Todas con foto real verificada + URL.
+- 24 MISSING (17 MISSING-REAL: 404 en repo y live; 7 sin foto).
+- CSV acumulativo docs/seo/fotos-merlin.csv: 5.525 filas.
+- NOTA: Monster SP 2026 no existe como modelo (el SP es 2023-2024); convendría revisar esa ficha.
