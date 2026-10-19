@@ -2716,3 +2716,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/ktm-390-smc-r-2026-ficha-tecnica-precio-hunt1.webp | https://paultan.org/image/2026/05/KTM-390-SMC-R-2026-BM-8-850x850.png | Paultan.org | desconocida |
 | /media/ktm-390-smc-r-2026-ficha-tecnica-precio-hunt2.webp | https://www.teammoto.com.au/assets/webshop/cms/86/5186.webp?1773317085 | Teammoto (concesionario KTM) | desconocida |
 | /media/ktm-390-smc-r-2026-ficha-tecnica-precio-hunt3.webp | https://images5.1000ps.net/images_bikekat/2026/1-KTM/12891-390_SMC_R/001-638996749937518723-ktm-390-smc-r.jpg | 1000ps.net | desconocida |
+| /media/ktm-1390-super-adventure-s-2026-ficha-tecnica-precio-hunt1.webp | https://www.teammoto.com.au/showroom/ktm/2026-ktm-1390-super-adventure-s/ | TeamMoto (concesionario KTM) | desconocida |
+| /media/ktm-1390-super-adventure-s-2026-ficha-tecnica-precio-hunt2.webp | https://ktmlondonuk.co.uk/none/asset/2026-ktm-1390-super-adventure-s/ | KTM Centre (concesionario KTM) | desconocida |
+| /media/ktm-1390-super-adventure-s-2026-ficha-tecnica-precio-hunt3.webp | https://www.carfind.co.za/bikes-for-sale/listing/2026-KTM-1390-Super-Adventure-S/8240197 | CarFind (anuncio concesionario) | desconocida |
+| /media/xpeng-g6-awd-performance-2026-hunt1.webp | https://www.electrifying.com/files/PI_SYGNmR-RFP9m6/XPeng_G6_reveal_front_static.jpg | electrifying.com | desconocida |
+| /media/xpeng-g6-awd-performance-2026-hunt2.webp | https://evautos25.de/wp-content/uploads/2025/12/XPeng-G6-2026.jpg | evautos25.de | desconocida |
+| /media/xpeng-g6-awd-performance-2026-hunt3.webp | https://www.electrifying.com/files/PI_Sb0NmR-RFP9mA/XPeng_G6_reveal_rear34_dynamic.jpg | electrifying.com | desconocida |
+| /media/bmw-r-12-gs-2026-ficha-tecnica-precio-hunt1.webp | http://ridermagazine.com/2026-bmw-r-12-g-s-preview/ | BMW Motorrad (press) / Rider Magazine | desconocida |
+| /media/bmw-r-12-gs-2026-ficha-tecnica-precio-hunt2.webp | http://ridermagazine.com/2026-bmw-r-12-g-s-preview/ | BMW Motorrad (press) / Rider Magazine | desconocida |
+| /media/bmw-r-12-gs-2026-ficha-tecnica-precio-hunt3.webp | https://ultimatemotorcycling.com/2025/04/02/2026-bmw-r-12-g-s-first-look-10-fast-facts-for-retro-adventure/ | BMW Motorrad (press) / Ultimate Motorcycling | desconocida |
+| /media/wey-05-2024-precio-ficha-tecnica-hunt1.webp | https://www.carwow.de/wey/wey-05 | Carwow | desconocida |
+| /media/wey-05-2024-precio-ficha-tecnica-hunt2.webp | https://www.carwow.de/wey/wey-05 | Carwow | desconocida |
+| /media/wey-05-2024-precio-ficha-tecnica-hunt3.webp | https://www.carwow.de/wey/wey-05 | Carwow | desconocida |
+| /media/wuling-air-ev-2024-precio-ficha-tecnica-hunt1.webp | https://jakartawulingcenter.com/tbuilder-layout-part/new-air-ev/ | Jakarta Wuling Center (concesionario oficial) | desconocida |
+| /media/wuling-air-ev-2024-precio-ficha-tecnica-hunt2.webp | https://www.cardekho.com/hi/india-car-news/mg-air-ev-detailed-in-15-pictures-29889.htm | CarDekho | desconocida |
+| /media/wuling-air-ev-2024-precio-ficha-tecnica-hunt3.webp | https://sobatev.com/tag/air-ev/ | SobatEV | desconocida |
+| /media/wey-gaoshan-7-2025-precio-ficha-tecnica-hunt1.webp | https://cnevpost.com/2025/10/16/gwm-wey-launches-gaoshan-7-mpv/ | CnEVPost (foto de prensa del lanzamiento) | desconocida |
+| /media/wey-gaoshan-7-2025-precio-ficha-tecnica-hunt2.webp | https://evmagz.com/wey-begins-pre-sales-of-gaoshan-7-plug-in-hybrid-mpv/ | EvMagz (prensa del motor, foto oficial) | desconocida |
+| /media/wey-gaoshan-7-2025-precio-ficha-tecnica-hunt3.webp | https://www.9carthai.com/gwm-wey-gaoshan-7/ | 9CarThai (prensa del motor tailandesa, foto oficial) | desconocida |
+| /media/sym-cruisym-alpha-125-2025-ficha-tecnica-precio-hunt1.webp | https://www.sym.be/content/dam/moteo/sym/categories-and-models/125cc/cruisym-%CE%B1-125-cc/m4/colors/Cruisym_125_BK-532U_M5_SYM.png | SYM Bélgica (web oficial) | desconocida |
+| /media/sym-cruisym-alpha-125-2025-ficha-tecnica-precio-hunt2.webp | https://www.symscooters.nl/content/dam/moteo/sym/categories-and-models/125cc/cruisym-%CE%B1-125-cc/m4/colors/Cruisym_125_GY-009C_M5_SYM.png | SYM Holanda (web oficial) | desconocida |
+| /media/sym-cruisym-alpha-125-2025-ficha-tecnica-precio-hunt3.webp | https://fierromotor.com/fotos/motosnuevas/75/moto-sym-cruisym-alfa-euro5-125-blanco.jpg | Fierro Motor | desconocida |
+| /media/exeed-sterra-es-reev-2025-precio-ficha-tecnica-hunt1.webp | https://www.chinesecars.me/p63813.html | ChineseCars.me / Autohome | desconocida |
+| /media/exeed-sterra-es-reev-2025-precio-ficha-tecnica-hunt2.webp | https://www.chinesecars.me/p63813.html | ChineseCars.me / Autohome | desconocida |
+| /media/exeed-sterra-es-reev-2025-precio-ficha-tecnica-hunt3.webp | https://dubaiwheels.ae/new-car/Exeed/ES/REEV-Ultra | DubaiWheels | desconocida |
