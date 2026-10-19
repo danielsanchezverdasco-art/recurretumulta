@@ -1534,3 +1534,9 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/skoda-fabia-monte-carlo-2026-precio-ficha-tecnica-hunt1.webp | https://devstore.skoda.re/produit/fabia-monte-carlo-tsi-150-dsg-my24/ | Skoda Réunion (tienda oficial) | desconocida |
 | /media/skoda-fabia-monte-carlo-2026-precio-ficha-tecnica-hunt2.webp | https://devstore.skoda.re/produit/fabia-monte-carlo-tsi-150-dsg-my24/ | Skoda Réunion (tienda oficial) | desconocida |
 | /media/skoda-fabia-monte-carlo-2026-precio-ficha-tecnica-hunt3.webp | https://www.vertumotors.com/new/vertu/car/skoda/fabia/ | Vertu Motors (concesionario) | desconocida |
+| /media/baic-bj40-pro-2026-precio-ficha-tecnica-hunt1.webp | https://autotest.com.ar/lanzamientos/menos-de-55-000-dolares-el-suv-chino-que-se-actualizo-para-competir-contra-ford-bronco/ | Autotest (press) | desconocida |
+| /media/baic-bj40-pro-2026-precio-ficha-tecnica-hunt2.webp | https://ghanaevs.com/car/baic-bj40-pro-off-road-vehicle-2130kg-curb-weight-2760mm-wheelbase/ | GhanaEVs | desconocida |
+| /media/baic-bj40-pro-2026-precio-ficha-tecnica-hunt3.webp | https://www.acl.lu/club/fr/offres/autera-juin/ | ACL Club (press) | desconocida |
+| /media/kaiyi-x3-pro-2024-precio-ficha-tecnica-hunt1.webp | https://www.dubicars.com/images/c802bb/w_960x540/empire-motors-fzco/40454902-81c0-421c-b1c6-1204efd828f5.jpg | dubicars.com | desconocida |
+| /media/kaiyi-x3-pro-2024-precio-ficha-tecnica-hunt2.webp | https://avatars.mds.yandex.net/get-autoru-vos/5331577/c8ff1252b820df9d76a798959034cbf2/584x438 | auto.ru | desconocida |
+| /media/kaiyi-x3-pro-2024-precio-ficha-tecnica-hunt3.webp | https://avtoexperts.ru/wp-content/uploads/2024/01/Kaiyi-X3-Pro-2-567x330.jpg | avtoexperts.ru | desconocida |
