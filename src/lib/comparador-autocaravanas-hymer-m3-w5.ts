@@ -52,7 +52,7 @@ export const AUTOCARAVANAS_HYMER_M3: Autocaravana[] = [
     plazas: 4, // 4-5 según configuración; 4 de serie
     plazasDormir: 4, // 4-5 según configuración; 4 de serie
     parNm: null,
-    traccion: "delantera", // cabeza tractora Mercedes Sprinter de tracción delantera
+    traccion: "trasera", // Mercedes Sprinter: propulsión trasera de serie
     emisionesCo2: null,
     aprox: [],
     notas:
@@ -67,7 +67,7 @@ export const AUTOCARAVANAS_HYMER_M3: Autocaravana[] = [
 
     En tecnología y equipamiento, el MasterLine I 780 juega en otra liga. La cabina Mercedes aporta el sistema MBUX, faros full LED, climatizador Thermotronic, control de crucero adaptativo Distronic y el arsenal completo de asistentes del Sprinter. La célula suma la app Hymer Connect —que permite controlar y monitorizar el vehículo desde el móvil incluso a distancia por red móvil en 30 países europeos—, frigorífico de 153 litros, cocina con amplia superficie de trabajo, 4 enchufes de 230 V, 2 de 12 V y 6 USB, calefacción de agua caliente (el sistema más confortable y silencioso para este tamaño) y dos bombonas de gas de 13 kg. Los «mundos de estilo» premium del interior, con maderas nobles y tapicerías de alta gama, justifican visualmente cada euro del precio.
 
-    En mecánica, el Mercedes Sprinter 415 CDI de 150 CV (110 kW) Euro VI-E con tracción delantera es la motorización de serie, con el 417 CDI de 170 CV y el cambio automático 9G-Tronic como la opción que elige la mayoría de los compradores de este nivel. Con 3.501 kg en orden de marcha, el 150 CV mueve el conjunto con dignidad, pero el 170 CV automático es la combinación redonda para un vehículo que nace para devorar autopistas europeas. La distancia entre ejes de 4.500 mm y la suspensión independiente del SLC proporcionan una estabilidad notable para sus casi 3 metros de altura. El consumo no lo publica Hymer, pero nadie compra una integral de 4,4 toneladas esperando cifras de utilitario.
+    En mecánica, el Mercedes Sprinter 415 CDI de 150 CV (110 kW) Euro VI-E con tracción trasera es la motorización de serie, con el 417 CDI de 170 CV y el cambio automático 9G-Tronic como la opción que elige la mayoría de los compradores de este nivel. Con 3.501 kg en orden de marcha, el 150 CV mueve el conjunto con dignidad, pero el 170 CV automático es la combinación redonda para un vehículo que nace para devorar autopistas europeas. La distancia entre ejes de 4.500 mm y la suspensión independiente del SLC proporcionan una estabilidad notable para sus casi 3 metros de altura. El consumo no lo publica Hymer, pero nadie compra una integral de 4,4 toneladas esperando cifras de utilitario.
 
     En precio y red comercial en España, el PVP recomendado oficial en Alemania parte de 165.600 euros, y en Francia Hymer anuncia 161.870 euros; no existe una tarifa oficial publicada para España, por lo que el precio final se configura con el distribuidor. Hymer cuenta con una red de concesionarios oficiales en España donde se personaliza cada unidad —y la personalización aquí es seria: paquetes de chasis, de estilo, de autonomía con litio, toldos eléctricos—, de modo que el precio de una unidad equipada a gusto del comprador sube con facilidad por encima de los 200.000 euros. Es el segmento donde el descuento se negocia, no se anuncia.
 
