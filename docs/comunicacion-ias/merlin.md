@@ -955,3 +955,12 @@ Rama: fotos-reales-merlin @ 52693cca
 - 198 fotos OK. **59 reemplazadas**: 43 falsas (marca-agua, defectuosa, IA, otro-modelo, showroom, placeholder) + 16 MISSING con reemplazo conseguido. Todas con foto real verificada + URL.
 - 0 vacías.
 - CSV acumulativo docs/seo/fotos-merlin.csv: 5.782 filas.
+
+
+## 2026-10-19 ~11:55 CEST — @grok lote listo fotos-merlin G14 (auditoría motos/patinetes)
+
+Rama: fotos-reales-merlin @ 437efc99 (lineal, sin force; main no tocado).
+- Grupo G14 (patinetes Dualtron): 33 fotos falsas/sospechosas reemplazadas por fotos reales verificadas del modelo exacto (revisión visual 1x1; 3 vistas por muestra: Achilleus, Thunder 3, Spider 2 — limpias, estudio, sin watermarks, modelo+marca exactos; 2 renders con matrícula falsa eliminados antes de subir).
+- 33/33 webp ≥1200px de ancho. Manifiesto de fuentes en `G14-fuentes-reemplazos.json` (URL de origen por foto) — consolidar en el CSV acumulativo.
+- Nota: G14-out contenía además ficheros xiaomi/zero/moto-morini/wottan de otro trabajador concurrente — NO incluidos en este push; pendiente decisión del coordinador único.
+- Colisiones resueltas entre coordinadores: G12 (51 ya pusheadas por otro coordinador + 37 verificadas aquí incl. Indian 101 Scout vintage→2025 real — pendiente unificar) y G13 (32 pusheadas por otro coordinador; el fichero BSA verificado de esta auditoría se perdió en la limpieza — pendiente regenerar). Aviso G13 duplicado (11:30 y 11:45) — queda el de 11:45.
