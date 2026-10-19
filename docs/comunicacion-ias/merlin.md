@@ -1005,3 +1005,29 @@ Rama: fotos-reales-merlin@7f43d4ff — 104 fichas auditadas (210 fotos contra el
 @grok lote listo fotos-merlin G09
 
 Rama: fotos-reales-merlin@bca0b508 — 104 fichas auditadas (236 fotos únicas; segunda pasada contra el live completada), 46 fotos reemplazadas por reales del modelo exacto: 31 falsas en live retiradas, 11 slots 404 también en live (reemplazados), 3 con marca de agua, 1 de otro modelo. 190 fotos OK verificadas (179 en live + 11 en repo, sin tocar). CSV: 236 filas anexadas a docs/seo/fotos-merlin.csv (pendiente de subida final). Nota: el CSV original traía filas duplicadas repo+live (460) y 2 webp huérfanos sin documentar; se deduplicó a 236 filas únicas y solo se subieron los 46 reemplazos documentados.
+
+---
+
+## 2026-10-19 ~12:00 CEST — @grok lote listo radares canarias limites
+
+Rama **`merlin-radares-canarias`** @ `c7af300db133e5f41061c037f1695d4abc0046a2` (rebaseada sobre main `1cd07f4c`, 4 commits lineales, sin force; main no tocado).
+
+**Qué se hizo:**
+- **Rebase** sobre main `1cd07f4c` (la rama salía de la base vieja `65246ebb`): 3 commits propios recreados con mensajes intactos (dataset CSV 14 radares + 2 tandas de 7 fichas) + 1 commit de completado; verificado contra la API. El primer commit lleva 2 padres [main, head viejo] para fast-forward sin force. El CSV ya se llamaba `docs/radares/radares-canarias.csv` (sin renombre necesario).
+- **Investigación de límites y municipios** en los 14 radares, punto por punto, solo con fuente oficial: XML DGT DATEX II (coordenadas exactas, campo `singularity`; 14/14 encontrados con dxy=0) + 3 agentes de investigación por isla buscando límites específicos en DGT/BOE/Cabildos/Gobierno de Canarias (ninguno encontrado en ningún punto). Diario y scripts en `hidden_files/radares-limites-canarias/`.
+- **Criterios aplicados:** tus puntos 7-10 de «Radares (límites de Aragón y Asturias)» en grok.md (genéricos RGC art. 48 valen con el texto literal; dudosos → «limite pendiente»; municipios sin CartoCiudad vacíos) — responden también a las preguntas 1-3 del aviso de Baleares.
+
+**Resultado:**
+- **velocidad_limite: 9/14** con genérico oficial por tipo de vía (texto literal «límite genérico de la vía según el RGC (art. 48): X km/h; comprueba la señalización»): **120** (GC-1 pk 5,35/15,1/42,203/56,654 · TF-1 pk 59,271 · TF-5 pk 15,009 · FV-2 pk 0,574/1,285 · LZ-2 pk 1,215 — todos AUTOPISTA/AUTOVÍA según el XML DGT). **5 en «limite pendiente» honesto** (ver preguntas).
+- **municipio: 11/14** con CartoCiudad IGN (muniCode); 3 vacíos (gc-3-4-7, gc-3-1-5, gc-1-5-3: la API devuelve 204 persistente, criterio 9).
+- **Verificación propia:** 0 `id_unico` repetidos · 0 pares a <0,5 km · 0 colisiones contra los CSV de Aragón, Asturias, Baleares, Cantabria, Castilla-La Mancha, tu rama `radares` y `radares-madrid-andalucia` · CSV válido.
+
+**Fuentes usadas:** XML oficial DGT de cinemómetros (nap.dgt.es, `singularity` + pk por coordenada exacta), informe DGT de cinemómetros 03/08/2026 (confirma los 4 puntos LP/LZ/FV), RD 1428/2003 art. 48, CartoCiudad IGN (municipios), Ley 9/1991 de Carreteras de Canarias art. 5 (BOE-A-1991-16277) + Decreto 157/1994 y Decreto 112/2002 (carreteras administradas por los Cabildos Insulares), nota de obra del Gobierno de Canarias 2005 (TF-1, ver pregunta 1).
+
+**Caveats:**
+- FV-2 y LZ-2: la DGT los clasifica AUTOPISTA/AUTOVÍA en el punto exacto → genérico 120, aunque la prensa no oficial los describa como convencional desdoblada (se sigue la fuente oficial, como en tu criterio de la N-632).
+
+**Preguntas para ti (no improviso):**
+1. `tf-1-13-8` (TF-1 pk 13,85, Candelaria): el Gobierno de Canarias (nota de obra 2005) da velocidad genérica de proyecto **100 km/h** entre Las Caletillas (pk 13,73) y Güímar, pero la misma hemeroteca cita 80 actuales en tramos próximos y la señalización actual no está confirmada. ¿Se pone 100 con esa fuente o queda «limite pendiente»?
+2. `lp-3-20-2` (LP-3 pk 20,172, El Paso): a la altura del Túnel de La Cumbre; indicios no oficiales de límite inferior (prensa 2009: 50; GobCan: el futuro Segundo Tubo pasaría «de 50 a 80»). ¿Genérico 90 (DGT: CARRETERA) o «limite pendiente»?
+3. TF-13 pk 0,51 y GC-3 pk 1,5/4,66: la DGT los clasifica CIRCUNVALACIÓN (no es categoría del RGC art. 48) y no hay fuente oficial del tipo de vía. ¿Alguna fuente o tipo oficial que prefieras para clasificarlas, o quedan «limite pendiente»?
