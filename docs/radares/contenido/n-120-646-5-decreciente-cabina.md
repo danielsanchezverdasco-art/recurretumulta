@@ -12,6 +12,14 @@
 
 Esta cabina se halla en la N-120, pk 646,5, en Ponteareas (Pontevedra); coordenadas 42.178757, -8.531927. Supervisa el sentido decreciente —vehículos hacia puntos kilométricos menores—, con destino PONTEAREAS según el registro oficial. El punto exacto sobre la vía puede comprobarse en el Street View enlazado.
 
+<iframe title="Mapa: radar n-120-646-5-decreciente-cabina" src="https://www.google.com/maps?q=42.178757,-8.531927&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-120-646-5-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.178757,-8.531927&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La N-120, carretera nacional de la Red de Carreteras del Estado, presenta en este sector calzada convencional. En el XML de la DGT figura con la singularidad «CARRETERA NACIONAL» por denominación oficial de la vía. El fichero no detalla el tramo, así que la ficha se abstiene de describirlo.
