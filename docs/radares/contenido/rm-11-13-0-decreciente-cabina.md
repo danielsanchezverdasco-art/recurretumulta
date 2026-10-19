@@ -12,6 +12,15 @@
 
 El emplazamiento es la autovía RM-11, pk 13,0, en Lorca (Murcia), coordenadas 37.56638, -1.6505028. Cubre el sentido decreciente: el tráfico que circula hacia numeraciones kilométricas inferiores. El enlace de Street View sitúa la cabina en su contexto real.
 
+<iframe title="Mapa: radar rm-11-13-0-decreciente-cabina" src="https://www.google.com/maps?q=37.56638,-1.6505028&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar rm-11-13-0-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=37.56638,-1.6505028&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 Esta autovía autonómica de la Región de Murcia enlaza Lorca con Águilas, salida natural del Valle del Guadalentín hacia el litoral. Mezcla desplazamientos habituales entre ambas ciudades y viajes de ocio hacia la costa. El XML de la DGT no describe el tramo, así que la ficha no le atribuye características no documentadas.
