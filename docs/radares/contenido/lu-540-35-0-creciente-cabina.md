@@ -12,6 +12,14 @@
 
 Esta cabina está en la LU-540, pk 35,0, en Xermade (Lugo); coordenadas 43.430836, -7.756466. Controla el sentido creciente —vehículos hacia pks mayores—, con destino AG-64 según el registro. El enlace de Street View permite observar el emplazamiento sobre la carretera.
 
+<iframe title="Mapa: radar lu-540-35-0-creciente-cabina" src="https://www.google.com/maps?q=43.430836,-7.756466&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar lu-540-35-0-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=43.430836,-7.756466&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La LU-540 es una carretera convencional de la Xunta de Galicia: titularidad autonómica. En el XML de la DGT consta con la singularidad «CARRETERA AUTONÓMICA», fuera de las vías de alta capacidad. Sin detalle del tramo en el fichero, la ficha evita atribuirle características sin documentar.
