@@ -32,11 +32,13 @@ export const AUTOCARAVANAS_DREAMER_M1: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/dreamer-d55-fun-up-2026-precio-ficha-tecnica-ext.webp",
+    imagen: "/media/dreamer-d55-fun-up-2026-precio-ficha-tecnica-oficial.webp",
     imagenOficial:
-      "/media/dreamer-d55-fun-up-2026-precio-ficha-tecnica-ext.webp",
+      "/media/dreamer-d55-fun-up-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/dreamer-d55-fun-up-2026-precio-ficha-tecnica-interior.webp",
+      "/media/dreamer-d55-fun-up-2026-precio-ficha-tecnica-oficial-interior.webp",
+    curiosidades:
+      "Para su 20.º aniversario en 2026, Dreamer lanzó una edición especial del D55 con tapicería Celebration con el logotipo bordado y cambio automático de serie, tal como aparece en el propio catálogo oficial Colección 2026 de la marca. (Fuente: catálogo oficial Dreamer Colección 2026, PDF de exportación: https://www.reisemobile-staudt.de/wp-content/uploads/2025/08/DREAMER_CATA_2026_EXPORT_BD_ALL.pdf)",
     videoId: null,
     videoCanal: null,
     largoMm: 5990, // catálogo oficial 2026: 5,99 m
@@ -92,28 +94,34 @@ Para quién es: el Dreamer D55 UP es para la pareja que viaja con dos niños o c
     opiniones: [],
     galeria: [
       {
-        src: "/media/dreamer-d55-fun-up-2026-precio-ficha-tecnica-ext.webp",
-        alt: "Dreamer D55 UP, vista lateral",
+        src: "/media/dreamer-d55-fun-up-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Dreamer D55 UP, vista lateral exterior (foto oficial Dreamer)",
         ancho: 1200,
-        alto: 800,
+        alto: 740,
       },
       {
-        src: "/media/dreamer-d55-fun-up-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Dreamer D55 UP, cama transversal y techo elevable",
+        src: "/media/dreamer-d55-fun-up-2026-precio-ficha-tecnica-oficial-ext2.webp",
+        alt: "Dreamer D55 UP, trasera con los portones abiertos y la cama transversal (foto oficial Dreamer)",
         ancho: 1200,
-        alto: 800,
+        alto: 740,
       },
       {
-        src: "/media/dreamer-d55-fun-up-2026-precio-ficha-tecnica-interior2.webp",
-        alt: "Salón del Dreamer D55 Fun UP",
+        src: "/media/dreamer-d55-fun-up-2026-precio-ficha-tecnica-oficial-interior.webp",
+        alt: "Salón del Dreamer D55 UP con los asientos de cabina girados (foto oficial Dreamer)",
         ancho: 1200,
-        alto: 800,
+        alto: 740,
       },
       {
-        src: "/media/dreamer-d55-fun-up-2026-precio-ficha-tecnica-detalle.webp",
-        alt: "Baño del Dreamer D55 Fun UP",
+        src: "/media/dreamer-d55-fun-up-2026-precio-ficha-tecnica-oficial-interior2.webp",
+        alt: "Cama del techo elevable del Dreamer D55 UP, de 2000x1300 mm (foto oficial Dreamer)",
         ancho: 1200,
-        alto: 800,
+        alto: 740,
+      },
+      {
+        src: "/media/dreamer-d55-fun-up-2026-precio-ficha-tecnica-oficial-detalle.webp",
+        alt: "Baño Modul'Space del Dreamer D55 UP con armario pivotante (foto oficial Dreamer)",
+        ancho: 1200,
+        alto: 740,
       },
     ],
     analisisSlug: "dreamer-d55-fun-up-2026-analisis-opinion",
