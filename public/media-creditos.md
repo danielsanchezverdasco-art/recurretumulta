@@ -1887,3 +1887,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/jeep-avenger-electric-156-2026-precio-ficha-tecnica-hunt1.webp | https://www.jeep-caribbean.com | Jeep (web oficial) | desconocida |
 | /media/jeep-avenger-electric-156-2026-precio-ficha-tecnica-hunt2.webp | https://www.carscoops.com/2026/05/jeep-avenger-facelift-2/ | Carscoops (blog del motor) | desconocida |
 | /media/jeep-avenger-electric-156-2026-precio-ficha-tecnica-hunt3.webp | https://evpowered.co.uk/news/new-jeep-avenger-gets-light-up-grille-and-updated-interior-as-2026-facelift/ | EV Powered (blog del motor) | desconocida |
+| /media/niu-nqix-300-2026-ficha-tecnica-precio-hunt1.webp | https://www.1000ps.com/en-gb/model/12945/niu-nqix-300 | 1000PS (portal del motor) | desconocida |
+| /media/niu-nqix-300-2026-ficha-tecnica-precio-hunt2.webp | https://www.inmoto.it/listino-nuovo/marche/niu/nqix-300 | InMoto (listino portal del motor) | desconocida |
+| /media/niu-nqix-300-2026-ficha-tecnica-precio-hunt3.webp | https://silentriders.de/NIU-NQiX-300-80km-h-Modell-2026-weiss | Silent Riders (distribuidor NIU Alemania) | desconocida |
+| /media/aixam-easy-access-diesel-2025-precio-ficha-tecnica-hunt1.webp | https://aixam.de/fahrzeuge/aixam/access-diesel/ | Aixam / aixam.de | desconocida |
+| /media/aixam-easy-access-diesel-2025-precio-ficha-tecnica-hunt2.webp | https://aixam.fra1.cdn.digitaloceanspaces.com/_1400xAUTO_crop_center_90_none/01_exterieur_b65222a875c2201a9560cf9ea9d7681c.webp | Aixam (CDN oficial) | desconocida |
+| /media/aixam-easy-access-diesel-2025-precio-ficha-tecnica-hunt3.webp | https://www.aixam-mega.lt/lt/easy/access-1 | Aixam Mega Lituania (distribuidor oficial) | desconocida |
+| /media/ford-mustang-gtd-2025-hunt1.webp | https://www.supercars.net/blog/2025-ford-mustang-gtd-wallpapers/ | Ford / Supercars.net | desconocida |
+| /media/ford-mustang-gtd-2025-hunt2.webp | https://carbuzz.com/cars/ford/mustang-gtd/2025/photos-exterior/ | Ford / CarBuzz | desconocida |
+| /media/ford-mustang-gtd-2025-hunt3.webp | https://carbuzz.com/cars/ford/mustang-gtd/2025/photos-exterior/ | Ford Performance / CarBuzz | desconocida |
+| /media/jetour-t1-2025-precio-ficha-tecnica-hunt1.webp | https://en.prnasia.com/releases/apac/get-ready-jetour-t1-will-usher-in-the-lite-off-road-era-478492.shtml | Jetour / PR Newswire | desconocida |
+| /media/jetour-t1-2025-precio-ficha-tecnica-hunt2.webp | https://www.zigwheels.my/new-cars/jetour/t1 | Jetour / Zigwheels | desconocida |
+| /media/jetour-t1-2025-precio-ficha-tecnica-hunt3.webp | https://www.car250.com/jetour-t1-phev.html | Jetour / Car250 | desconocida |
+| /media/super-soco-cu-mini-2025-ficha-tecnica-precio-hunt1.webp | https://www.vmotosoco.nl/nl/models/cumini.html | VMoto Soco (web oficial) | desconocida |
+| /media/super-soco-cu-mini-2025-ficha-tecnica-precio-hunt2.webp | https://www.tropicalmobility.com/products/cumini | Tropical Mobility (distribuidor) | desconocida |
+| /media/super-soco-cu-mini-2025-ficha-tecnica-precio-hunt3.webp | https://myscootershop.nl/product/supersoco-cumini/ | Myscootershop (distribuidor) | desconocida |
+| /media/urban-glide-ecross-go-hunt1.webp | https://urbanglide.com/produit/e-cross-go/ | UrbanGlide (web oficial; recortado el sello promocional 'NEW IN') | desconocida |
+| /media/urban-glide-ecross-go-hunt2.webp | https://www.radiopopular.pt/produto/trotinete-urbanglide-ecross-go | Radio Popular (distribuidor) | desconocida |
+| /media/urban-glide-ecross-go-hunt3.webp | https://www.cdiscount.com/le-sport/mobilite-urbaine/trottinette-electrique-urbanglide-ecross-go/f-1214801-aacyb80734.html | Cdiscount (distribuidor) | desconocida |
+| /media/aixam-easy-access-2025-precio-ficha-tecnica-hunt1.webp | https://aixam.fra1.cdn.digitaloceanspaces.com/_1400xAUTO_crop_center_90_none/aixam-easy-access_1.webp | Aixam / minicarpotenza.it | desconocida |
+| /media/aixam-easy-access-2025-precio-ficha-tecnica-hunt2.webp | https://www.aixam.it/ressources/modeles/zoom_aixam_easy_electrique_access-mobile.webp | Aixam (web oficial Italia) | desconocida |
+| /media/aixam-easy-access-2025-precio-ficha-tecnica-hunt3.webp | https://minicarsbcn.com/wp-content/uploads/2026/08/Easy-ACCESS-thermique-Titane-03-1080x675.png | minicarsbcn.com (concesionario Aixam) | desconocida |
+| /media/ford-fiesta-st-2023-hunt1.webp | https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_675,q_auto:eco,w_1200/v1/cms/uploads/xm2qmqociljfv4nvvrtm | Drive.com.au (prensa del motor) | desconocida |
+| /media/ford-fiesta-st-2023-hunt2.webp | https://car-images.stg.bauersecure.com/wp-images/12889/1752x1168/fiesta_st_080.jpg?mode=max&quality=90&scale=down | Bauer Media (prensa del motor) | desconocida |
+| /media/ford-fiesta-st-2023-hunt3.webp | https://www.lmc-cars.co.uk/cdn/img/9296/2?v=1786782262&w=1600 | LMC Cars (concesionario) | desconocida |
