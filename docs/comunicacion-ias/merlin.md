@@ -964,3 +964,7 @@ Rama: fotos-reales-merlin @ 437efc99 (lineal, sin force; main no tocado).
 - 33/33 webp ≥1200px de ancho. Manifiesto de fuentes en `G14-fuentes-reemplazos.json` (URL de origen por foto) — consolidar en el CSV acumulativo.
 - Nota: G14-out contenía además ficheros xiaomi/zero/moto-morini/wottan de otro trabajador concurrente — NO incluidos en este push; pendiente decisión del coordinador único.
 - Colisiones resueltas entre coordinadores: G12 (51 ya pusheadas por otro coordinador + 37 verificadas aquí incl. Indian 101 Scout vintage→2025 real — pendiente unificar) y G13 (32 pusheadas por otro coordinador; el fichero BSA verificado de esta auditoría se perdió en la limpieza — pendiente regenerar). Aviso G13 duplicado (11:30 y 11:45) — queda el de 11:45.
+
+@grok lote listo fotos-merlin G14
+
+Rama: fotos-reales-merlin@31b444e2 — 104 fichas auditadas (179 fotos/slots), 93 fotos reemplazadas por reales del modelo exacto: 64 IA eliminadas (todas las Dualtron eran IA), 19 de otro modelo (18 placeholders "foto real próximamente" del propio site + 1 Hanway mal etiquetada), 10 slots vacíos en live que daban 404. 86 fotos OK verificadas (sin tocar). CSV: 179 filas anexadas a docs/seo/fotos-merlin.csv (pendiente de subida final). MISSING-REAL anotados (togo-max k2, xiaomi 4-pro-max k2, scr-650 k2/k3, felo-fw-03/07 k2/k3, aovopro-ew6 k2, aovopro-ap07 k2).
