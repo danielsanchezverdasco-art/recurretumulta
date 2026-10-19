@@ -2749,3 +2749,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/audi-q6-e-tron-2025-precio-ficha-tecnica-hunt4.webp | https://i.gaw.to/vehicles/photos/40/36/403696-2025-audi-q6-e-tron.jpg?1024x640 | Guideautoweb / Central Autos | desconocida |
 | /media/audi-q6-e-tron-2025-precio-ficha-tecnica-hunt5.webp | https://en.wheelz.me/wp-content/uploads/2024/03/Audi-Q6_e-tron_quattro-2025-17.webp | Wheelz.me | desconocida |
 | /media/audi-q6-e-tron-2025-precio-ficha-tecnica-hunt6.webp | https://www.hibridosyelectricos.com/uploads/s1/75/76/25/audi-q6-e-tron-trasera_5_659x371.jpeg | Híbridos y Eléctricos | desconocida |
+| /media/rolls-royce-spectre-series-ii-2026-precio-ficha-tecnica-hunt1.webp | https://imboldn.com/wp-content/uploads/2026/06/Rolls-Royce-Spectre-Series-II-main.jpg | Rolls-Royce / iMBOLDN | desconocida |
+| /media/rolls-royce-spectre-series-ii-2026-precio-ficha-tecnica-hunt2.webp | https://emptytank.ca/wp-content/uploads/2026/06/rolls-royce-spectre-ii-rear-seats.jpg | Rolls-Royce / EmptyTank | desconocida |
+| /media/rolls-royce-spectre-series-ii-2026-precio-ficha-tecnica-hunt3.webp | https://andreasicha.com/wp-content/uploads/2026/06/p90643679_highres_rolls-royce-spectre-.jpg | Rolls-Royce / Andreas Icha | desconocida |
+| /media/kawasaki-eliminator-500-2025-ficha-tecnica-precio-hunt1.webp | https://www.kawasaki.com.au/en-au/motorcycle/eliminator/street-cruiser/eliminator/2025-eliminator | Kawasaki Motors (oficial) | desconocida |
+| /media/kawasaki-eliminator-500-2025-ficha-tecnica-precio-hunt2.webp | https://young-machine.com/2024/08/05/567476/ | Young Machine (prensa motor) | desconocida |
+| /media/kawasaki-eliminator-500-2025-ficha-tecnica-precio-hunt3.webp | https://www.motosillimitees.com/en/new/motorcycle/inventory/2025-kawasaki-eliminator-500-for-sale-ins51391/ | Motos Illimitées (distribuidor) | desconocida |
+| /media/toyota-hilux-2025-precio-ficha-tecnica-hunt1.webp | https://www.cars.co.za/for-sale/new/2025-Toyota-Hilux-2.8-GD-6-RB-Legend-55-Auto-Double-Cab-Western-Cape-Table-View/10483773/ | Cars.co.za (anuncio concesionario) | desconocida |
+| /media/toyota-hilux-2025-precio-ficha-tecnica-hunt2.webp | https://www.car4you.in/news/toyota-hilux-2025-review | Toyota (prensa oficial) vía Car4you | desconocida |
+| /media/toyota-hilux-2025-precio-ficha-tecnica-hunt3.webp | https://www.automaistv.com.br/novidades/toyota-hilux-e-sw4-2025-ganham-atualizacoes-pontuais-confira/ | Toyota (prensa oficial) vía Automaistv | desconocida |
+| /media/toyota-yaris-130h-2025-precio-ficha-tecnica-hunt1.webp | https://toyotaourense.gal/wp-content/uploads/2025/12/8521x2934-1-jpg.jpg | Toyota Ourense | desconocida |
+| /media/toyota-yaris-130h-2025-precio-ficha-tecnica-hunt2.webp | https://www.grupocompostela.com/Archivos/Fotos/Coches/2025/8521x2934-2.jpg | Grupo Compostela / Toyota Ourense | desconocida |
+| /media/toyota-yaris-130h-2025-precio-ficha-tecnica-hunt3.webp | https://medias.auto-selection.com/toyota/yaris/yaris-hybride-130h-gr-sport/2025 | auto-selection.com | desconocida |
+| /media/volkswagen-tiguan-2024-precio-ficha-tecnica-hunt1.webp | https://www.volkswagen.co/dam/images/5779c2021321fdab1439e361d0e7764473d7f0c0/df4c5f02ef2a8c5866c86db91b4fb7ee/6b312382-6d70-4887-a4d3-ae425f5bcbe9/crop:SMART/resize:2048:1152/Placa-nacar | Volkswagen | desconocida (imagen oficial de prensa de Volkswagen) |
+| /media/volkswagen-tiguan-2024-precio-ficha-tecnica-hunt2.webp | https://www.challenge.ma/wp-content/uploads/2024/05/Volkswagen-Tiguan-2024-1600-4e-600-x-353.jpg | Challenge.ma | desconocida |
+| /media/volkswagen-tiguan-2024-precio-ficha-tecnica-hunt3.webp | https://www.megautos.com/wp-content/uploads/2023/09/Volkswagen-Tiguan-2024-trasera-1.jpg | MegAutos / Volkswagen (prensa oficial) | desconocida |
+| /media/dacia-sandero-eco-g-100-2026-precio-ficha-tecnica-hunt1.webp | https://daciavelserbeek.nl/zakelijk/ |  | desconocida |
+| /media/dacia-sandero-eco-g-100-2026-precio-ficha-tecnica-hunt2.webp | https://risbelmagazine.es/motor/mejores-coches-nuevos-baratos-2026/ |  | desconocida |
+| /media/dacia-sandero-eco-g-100-2026-precio-ficha-tecnica-hunt3.webp | https://www.auto10.com/actualidad/nuevo-dacia-sandero-2026-lider-de-ventas-mas-atractivo-y-con-un-interior-mejorado/23636 |  | desconocida |
+| /media/volkswagen-polo-10-tsi-2026-precio-ficha-tecnica-hunt1.webp | https://www.autocentribalduina.com/media/lp3dbuhv/vw-polo.jpg?format=webp | Auto Centri Balduina | desconocida |
+| /media/volkswagen-polo-10-tsi-2026-precio-ficha-tecnica-hunt2.webp | https://www.bymycar.fr/volkswagen-polo-1-0-tsi-95-s-s-dsg7-occasion-2026-la-garde-1969413 | ByMyCar | desconocida |
+| /media/volkswagen-polo-10-tsi-2026-precio-ficha-tecnica-hunt3.webp | https://assets.volkswagen.com/is/image/volkswagenag/Polo-03 | Volkswagen AG (prensa oficial) | desconocida |
+| /media/volvo-xc90-t8-2025-precio-ficha-tecnica-hunt1.webp | https://www.km77.com/images/medium/0/2/4/5/volvo-xc90-2025-lateral-posterior-.380245.jpg | km77 | desconocida |
+| /media/volvo-xc90-t8-2025-precio-ficha-tecnica-hunt2.webp | https://imagenes.km77.com/fotos/bbtcontent/clippingnew/KM7KPH20250923_0057/full-original.jpg | km77 | desconocida |
+| /media/volvo-xc90-t8-2025-precio-ficha-tecnica-hunt3.webp | https://v12magazine.com/wp-content/uploads/2024/09/Volvo_XC90_exterior-FRONTAL-LANZAMIENTO-MUNDIAL-VEHICULOS-HIBRIDOS-LATERAL.jpg.webp | Foto de prensa Volvo (vía V12 Magazine) | desconocida |
