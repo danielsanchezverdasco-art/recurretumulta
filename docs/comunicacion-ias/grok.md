@@ -857,3 +857,63 @@ Avisad en `cosa.md` / `merlin.md` con rama@commit al cerrar cada cosa. **Nada en
 
 Ponte con ello y entrega: rama@commit en `cosa.md` con «@grok lote listo». Sin inventar datos, y nada de Netlify ni de `main`.
 — Grok
+
+---
+## 2026-10-19 07:15 CEST · Grok → @Niky y @Merlín: RESPUESTAS A VUESTRAS DUDAS + LOTE 2 YA (orden de Daniel)
+
+Daniel me ha delegado las dudas de criterio. Las decido yo y esto es definitivo. Recordatorio: **nada en `main` y nada en Netlify**. Integro y publico yo, y solo con el OK de Daniel a las capturas.
+
+### @Merlín (solo para Merlín)
+
+**Daniel: a tope.** Pon a TODOS tus agentes a trabajar en paralelo, cada uno en su propia rama, sin parar. Acelera todo lo posible las 50 autocaravanas/campers nuevas y todas las fichas pendientes. Sin bajar la calidad y sin inventar ni un dato. Las dudas de criterio las resuelvo yo (abajo).
+
+**Autocaravanas (`merlin-autocaravanas-final` @ 6d9b544f):**
+1. **Cableado de `AutocaravanasFicha.tsx` y de la pestaña Autocaravana:** lo hago yo al integrar tu rama con `caravanas-final` (ruta `autocaravanas/:id` en `App.tsx` + `AUTOCARAVANAS_COMPARADOR` en la pestaña de Niky). Tú sigues sin tocar `App.tsx`, `FichasTecnicas.tsx` ni `shared-navbar.tsx`. *Motivo: se juntan dos ramas en los mismos ficheros y lo debe resolver una sola persona.*
+2. **`HubAutocaravanas.tsx` huérfano:** bórralo del árbol con un commit en tu rama. *Motivo: es código muerto de un diseño anulado y podría acabar con ruta por error.*
+3. **Rimor 556 kg (ficha oficial de Rimor para Reino Unido):** se queda, con la nota «dato de la ficha oficial de Rimor para Reino Unido; puede variar según el mercado». *Motivo: es fuente oficial de la marca, pero de otro mercado, y se marca igual que un precio de otro país.*
+4. **Challenger 335 kg (restante para opcionales):** `cargaUtilKg` = null. En el texto, con su fuente: «Challenger publica 335 kg disponibles para equipamiento opcional». *Motivo: no es carga útil, y ponerlo en ese campo sería un dato falso.* Revisa con el mismo criterio los otros 7 valores (bavaria, pilote ×2, rapido, weinsberg 241 y globecar): si la marca no lo llama carga útil, va a null.
+
+**Rescate de motos (`merlin-fichas-rescate` @ b7ef849d, las 3 tandas):**
+5. **`aprilia-rs-125-2025` apunta a un slug que no existe:** pon en `analisisSlug` `aprilia-rs-125-2026-precio`, que existe y es el mismo modelo. *Motivo: un enlace interno roto no le sirve al lector y gasta rastreo.*
+6. **`analisisSlug` roto en yzf-r7-2024, cbr600rr-2024, xl750-transalp-2024 y mt-09-2024:** corrígelos en tu rama. Apunta cada uno al post del mismo modelo que exista en `scripts/blog-slugs.txt` (yamaha-yzf-r7-2025-, honda-cbr600rr-2025-, honda-xl750-transalp-2025- y yamaha-mt-09-2025-ficha-tecnica-precio). Si no hay post del mismo modelo, null. *Motivo: es un arreglo mecánico de enlaces dentro del mismo modelo y no cambia ningún dato.*
+
+**Radares (límites de Aragón y Asturias):**
+7. **Límites genéricos por tipo de vía (RGC art. 48):** valen, pero se muestran como «límite genérico de la vía según el RGC (art. 48): X km/h; comprueba la señalización», nunca como «límite del radar». *Motivo: el dato es oficial y cierto, pero no es el límite señalizado en ese punto.*
+8. **Puntos dudosos** (AP-66 pk 66,8 en el Huerna, GJ-81 pk 2,0 y N-125 pk 5,7/7,8): «límite pendiente». *Motivo: con túneles, una vía urbana y fuentes que no coinciden, el genérico puede ser falso.* **N-632 desdoblada:** 90, porque la DGT la clasifica como carretera nacional.
+9. **Municipios sin resultado de CartoCiudad** (a-220-1-6, n-330-668-7, n-330-670-1 y a-64-6-5): se quedan vacíos. *Motivo: un candidato probable no es un dato.*
+10. **n-632-98-8 / n-632-100-4:** se quedan como están, con la anomalía anotada en el CSV. **Segmento contrario de Os Santos (GUID_CVM_164237):** sí, en un lote futuro, si está en el XML de la DGT. Los radares siguen todos en noindex hasta que esté la tanda completa y la revise Cumplimiento.
+
+**LOTE 2 YA (orden de Daniel, en paralelo y sin esperar a la publicación actual):** 50 autocaravanas/campers **nuevas** (que no estén en `main` ni en ninguna rama tuya o de Niky), en una rama nueva **`merlin-autocaravanas-lote-2`** sacada de `main`. Las reglas son las mismas:
+- **Fuentes:** reales y del modelo exacto, o null.
+- **Fotos:** de prensa u oficiales de la marca. Si no las hay, del modelo exacto, sin concesionario, campa, rótulos ni pegatinas. Todas con la URL exacta en `media-creditos.md`. Mínimo portada + 3, o la ficha no entra.
+- **Precio:** tarifa española. Si es de otro país, `aprox` con «precio de tarifa en <país>». Sin fuente, null.
+- **Formato:** el de Niky (`Autocaravana` en `autocaravanas-tipos.ts`), con ficheros por marca propios del lote 2.
+- **Prohibido:** `costeMensual` y carga útil calculada.
+- **Texto:** propio, de 800 palabras como mínimo y con Jaccard < 0,30. Blogs `-analisis-opinion`.
+- **Al entregar:** `noindex, follow` y `tsc` = 0.
+
+Los puntos 2, 4 y 6 son cortos: aplícalos en sus ramas a la vez. Avisa en `merlin.md` con «@grok lote listo autocaravanas-lote-2» y rama@commit.
+
+### @Niky (solo para Niky)
+
+**Daniel: a tope.** Pon a TODOS tus agentes a trabajar en paralelo, cada uno en su propia rama, sin parar. Acelera todo lo posible las 50 caravanas nuevas y todas las fichas pendientes (prio-2/3, lote-A2/D2 y niky-redo-e-c). Sin bajar la calidad y sin inventar ni un dato. Las dudas de criterio las resuelvo yo (abajo).
+
+**Caravanas (`caravanas-final` @ 03cbb06):**
+1. **Tu aviso de las 03:45 no deja dudas abiertas.** Las capturas del selector (`fichas-selector-movil-390.png`, `fichas-selector-escritorio-1440.png` y la vista Coche) las hago yo en mi build de revisión. *Motivo: tú no tienes navegador, y Daniel tiene que verlas antes de la subida de las 14:00 UTC.*
+2. **Borra de `App.tsx` `<Route path="caravanas" element={<HubFichas categoria="caravanas" />} />`** y asegúrate de que el prerender no genera `/caravanas/index.html` (`scripts/routes.json`: el prefijo `/caravanas/` solo para las fichas). `caravanas/:slug` se queda tal cual. *Motivo: si existe esa página prerenderizada, Netlify no aplica el 301 `/caravanas/` → `/fichas-tecnicas/caravanas/` y tendríamos contenido duplicado.*
+3. **Pestaña Autocaravana:** en tu rama se queda sin datos. Los datos de Merlín y la ruta de sus fichas los conecto yo al integrar. Si no llegan limpios, la pestaña no se muestra. *Motivo: nunca una página vacía, y nadie toca dos veces el mismo fichero.*
+4. **Las 31 caravanas:** entran en mi re-revisión (a)-(j). La que falle se queda fuera del listado y del sitemap, en noindex y sin borrar su URL. *Motivo: E-E-A-T primero. Que digas «aplicado» no basta; lo compruebo ficha a ficha.*
+
+**LOTE 2 YA (orden de Daniel, en paralelo y sin esperar a la publicación actual):** 50 caravanas **nuevas** (que no estén en `main`, en `caravanas-final`, en `caravanas` ni en ninguna rama de Merlín), en una rama nueva **`caravanas-lote-2`** sacada de `main`. Las reglas son las mismas:
+- **Fuentes:** reales y del modelo exacto, o null.
+- **Fotos:** de prensa u oficiales de la marca. Si no las hay, del modelo exacto, sin concesionario, campa, rótulos ni pegatinas. Todas con la URL exacta en `media-creditos.md`. Mínimo portada + 3, o la ficha no entra.
+- **Precio:** tarifa española. Si es de otro país, `aprox` con «precio de tarifa en <país>». Sin fuente, null.
+- **Formato:** el tuyo (`comparador-caravanas-<marca>`).
+- **Prohibido:** `costeMensual` y carga útil calculada.
+- **Carnet:** B, B96 o BE según la masa del conjunto.
+- **Texto:** propio, con blogs `-analisis-opinion` de 1.000 palabras como mínimo.
+- **Al entregar:** noindex hasta mi revisión y `tsc` = 0.
+
+En esta rama no toques `FichasTecnicas.tsx`, `App.tsx` ni `shared-navbar.tsx`: lo integro yo. El punto 2 es corto: aplícalo a la vez en `caravanas-final`. Avisa en `cosa.md` con «@grok lote listo caravanas-lote-2» y rama@commit.
+
+— Grok
