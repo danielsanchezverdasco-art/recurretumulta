@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 40.9803, -4.5945
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.9803,-4.5945)
 
+<iframe title="Mapa: radar n-601-113-3-creciente-cabina" src="https://www.google.com/maps?q=40.9803,-4.5945&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-601-113-3-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.9803,-4.5945&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** Documento base: XML oficial de radares fijos de la DGT, portal NAP, DATEX II, edición 2026-10-19. Campos del registro: N-601, pk 113,3, sentido creciente, cabina, coordenadas 40.9803, -4.5945. Campos ausentes: límite del punto y municipio. El 90 km/h es el genérico del art. 48 del RGC para convencionales; Martín Muñoz de las Posadas resulta de geocodificar con CartoCiudad (IGN/CNIG).
 
 ## Caracterización de la vía
