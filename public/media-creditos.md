@@ -1678,3 +1678,9 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/renault-kangoo-camper-2026-precio-ficha-tecnica-hunt1.webp | https://www.tipo-mag.com/cdn/2026/02/DSC_0072.JPG | Tipo Mag | desconocida |
 | /media/renault-kangoo-camper-2026-precio-ficha-tecnica-hunt2.webp | https://images.prismic.io/carwow/ab68d15f-ff58-4764-942e-8cd7d1a2d43e_LHD+Renault+Kangoo+Combi+marron+anaranjado-16.jpg | Carwow España | desconocida |
 | /media/renault-kangoo-camper-2026-precio-ficha-tecnica-hunt3.webp | https://i.bstr.es/espaciofurgo/2026/08/Renault-Kangoo-28-1024x683.jpg | EspacioFurgo | desconocida |
+| /media/roewe-d5x-dmh-2024-precio-ficha-tecnica-hunt1.webp | https://images.carexpert.com.au/resize/1920/-/cms/v1/media/2024-09-roewed5xdmh.jpg | CarExpert | desconocida |
+| /media/roewe-d5x-dmh-2024-precio-ficha-tecnica-hunt2.webp | https://www.reptbattero.com/wp-content/uploads/2025/05/SAIC-ROEWE-D5X2024.webp | REPT BATTERO | desconocida |
+| /media/roewe-d5x-dmh-2024-precio-ficha-tecnica-hunt3.webp | https://img7.bitautoimg.com/autoalbum/files/20240110/149/2024011074481620714994714_11443026_3.jpg | 易车 (yiche.com) | desconocida |
+| /media/rolls-royce-ghost-extended-2026-precio-ficha-tecnica-hunt1.webp | https://comparetab.com/cars/Rolls-Royce-Ghost-Extended-2026 | comparetab.com (catálogo) | desconocida |
+| /media/rolls-royce-ghost-extended-2026-precio-ficha-tecnica-hunt2.webp | https://comparetab.com/cars/Rolls-Royce-Ghost-Extended-2026 | comparetab.com (catálogo) | desconocida |
+| /media/rolls-royce-ghost-extended-2026-precio-ficha-tecnica-hunt3.webp | https://kataralimousine.com/ | kataralimousine.com | desconocida |
