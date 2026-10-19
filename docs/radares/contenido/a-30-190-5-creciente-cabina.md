@@ -12,6 +12,15 @@
 
 El punto más avanzado de esta serie en el eje Albacete–Cartagena: la cabina del pk 190,5 de la A-30, en el término municipal de Cartagena (Murcia). Coordenadas: 37.62027, -0.9488051. Su control se dirige al sentido creciente, a los vehículos que circulan hacia pk mayores. Desde el enlace de Street View se reconoce el lugar exacto del dispositivo.
 
+<iframe title="Mapa: radar a-30-190-5-creciente-cabina" src="https://www.google.com/maps?q=37.62027,-0.9488051&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-30-190-5-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=37.62027,-0.9488051&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La Autovía de Murcia (A-30) es una autovía estatal que enlaza Albacete con Cartagena y desemboca en su área metropolitana. En este tramo final se mezclan el tráfico interurbano con el de acceso a polígonos y barrios del entorno. En el XML de la DGT consta como autovía, sin información sobre el tramo: la ficha se atiene a la fuente oficial y no incorpora rasgos propios.
