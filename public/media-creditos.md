@@ -2584,3 +2584,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/kawasaki-ninja-h2-sx-2026-ficha-tecnica-precio-hunt1.webp | https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/26MY_Ninja%20H2%20SX%20Performance_BK1_Front.002.jpg | Kawasaki Motors Europe (oficial) | desconocida |
 | /media/kawasaki-ninja-h2-sx-2026-ficha-tecnica-precio-hunt2.webp | https://www.teammoto.com.au/assets/webshop/cms/11/11511.webp?1776640446 | Team Moto / Kawasaki (concesionario) | desconocida |
 | /media/kawasaki-ninja-h2-sx-2026-ficha-tecnica-precio-hunt3.webp | https://americansporttouring.com/wp-content/uploads/2025/10/Post-20251016-38-02-2026-ZX1002R.jpg | American Sport Touring / Kawasaki (prensa) | desconocida |
+| /media/suzuki-gsx-s125-2025-ficha-tecnica-precio-hunt1.webp | https://www.suzuki.at/motorrad/2025/Street/GSX-S125/52717/image-thumb__52717__image_text/GSX-S125RLXM4_BQJ_Diagonal~-~media--95b63659--query@2x.webp | Suzuki Austria (oficial) | desconocida |
+| /media/suzuki-gsx-s125-2025-ficha-tecnica-precio-hunt2.webp | https://www.totalmotorcycle.com/wp-content/uploads/2024/06/2025-Suzuki-GSX-S125d-1536x1016.jpg | Total Motorcycle | desconocida |
+| /media/suzuki-gsx-s125-2025-ficha-tecnica-precio-hunt3.webp | https://www.globalsuzuki.com/motorcycle/smgs/products/2025gsx-s125/img/modelyears_hp_2027.png | Suzuki (global oficial) | desconocida |
+| /media/seat-ibiza-15-tsi-2026-precio-ficha-tecnica-hunt1.webp | https://www.completecar.ie/img/galleries/14476/seat_ibiza_fr_red_ibiza_2025_029.jpg | CompleteCar.ie (foto de prensa SEAT) | desconocida |
+| /media/seat-ibiza-15-tsi-2026-precio-ficha-tecnica-hunt2.webp | https://www.completecar.ie/img/galleries/14476/seat_ibiza_fr_red_ibiza_2025_027.jpg | CompleteCar.ie (foto de prensa SEAT) | desconocida |
+| /media/seat-ibiza-15-tsi-2026-precio-ficha-tecnica-hunt3.webp | https://autopoppe.nl/sites/default/files/styles/pg_collage_wide/public/2026-01/Web%20Ready%20JPG-NEW_SEAT_IBIZA_FR_07_0.jpg.webp | Autopoppe (concesionario, kit de prensa SEAT) | desconocida |
+| /media/livan-s6-pro-2024-precio-ficha-tecnica-hunt1.webp | https://40b67021-f633-4164-8117-c1acd41031b6.selstorage.ru/cars-items/5706/1.jpg | RoomAuto | desconocida |
+| /media/livan-s6-pro-2024-precio-ficha-tecnica-hunt2.webp | https://newcars-stav.ru/storage/auto/cars/LiSQkeQXzBiOLKEioY11jFfPzgsiFQ0nY2RT2SvA.webp | newcars-stav.ru | desconocida |
+| /media/livan-s6-pro-2024-precio-ficha-tecnica-hunt3.webp | https://5koleso.ru/wp-content/uploads/2024/01/livan_s6pro_2023-56-1-768x509.jpg | 5koleso.ru | desconocida |
+| /media/skoda-elroq-85-2026-precio-ficha-tecnica-hunt1.webp | https://klicketstatic.b-cdn.net/Data/Thumb/obj/s/sko/skoda_elroq_85x_82kwh_286_hk_2026_2760926.klicket.se.45749712.1200.630.1.1.1.jpg?d=260320103100 |  | desconocida |
+| /media/skoda-elroq-85-2026-precio-ficha-tecnica-hunt2.webp | https://www.fleet.be/wp-content/uploads/2025/08/Elroq_dashboard-scaled.jpg |  | desconocida |
+| /media/skoda-elroq-85-2026-precio-ficha-tecnica-hunt3.webp | https://cdn.nwi-ms.com/media/at/C/comm/C20260570066/model/back.jpg?size=XL&background=full |  | desconocida |
+| /media/ducati-multistrada-v4-pikes-peak-2025-ficha-tecnica-precio-hunt1.webp | https://ridermagazine.com/wp-content/uploads/2024/09/2025-Ducati-Multistrada-V4-S-Pikes-Peak-Preview-7.jpg | Rider Magazine | desconocida |
+| /media/ducati-multistrada-v4-pikes-peak-2025-ficha-tecnica-precio-hunt2.webp | https://www.cyclenews.com/wp-content/uploads/2024/10/2025-Ducati-Multistrada-V4-Pikes-Peak-rear-1024x683.jpg | Cycle News | desconocida |
+| /media/ducati-multistrada-v4-pikes-peak-2025-ficha-tecnica-precio-hunt3.webp | https://www.visordown.com/sites/default/files/2024-09/04%20-%20MY25_DUCATI_MULTISTRADA_V4_PIKES_PEAK_UC692357_High.jpg?width=750&format=webp&aspect_ratio=16:9 | Visordown | desconocida |
+| /media/geely-ex2-2025-precio-ficha-tecnica-hunt1.webp | https://www.geely.com/en/news/2025/geely-auto-brazil-launch-geely-ex2 | Geely Auto (prensa oficial) | desconocida |
+| /media/geely-ex2-2025-precio-ficha-tecnica-hunt2.webp | https://carro.blog.br/carros/geely/byd-que-se-cuide-esse-novo-geely-de-r-120-mil-promete-mucho-mais-que-o-dolphin-mini.html | carro.blog.br | desconocida |
+| /media/geely-ex2-2025-precio-ficha-tecnica-hunt3.webp | https://drivingenthusiast.com.au/2025/12/geely-ex2-confirmed-for-australia-arrives-first-half-2026/ | Driving Enthusiast | desconocida |
+| /media/gotrax-xr-ultra-hunt1.webp | https://gotrax.ca/cdn/shop/files/XRULTRA.png?v=1775699613&width=910 | Gotrax (web oficial) | desconocida |
+| /media/gotrax-xr-ultra-hunt2.webp | https://gotrax.ca/cdn/shop/files/1_8ef6cb5d-5c5f-4f6c-8f59-639d5a881808.jpg?v=1772433008&width=910 | Gotrax (web oficial) | desconocida |
+| /media/gotrax-xr-ultra-hunt3.webp | https://hoverboard.com/cdn/shop/files/XRULTRAHNCB.jpg?v=1716953814&width=1080 | Hoverboard (distribuidor oficial) | desconocida |
+| /media/royal-enfield-bear-650-2025-ficha-tecnica-precio-hunt1.webp | http://ridermagazine.com/2025-royal-enfield-bear-650-review/ | ridermagazine.com | desconocida |
+| /media/royal-enfield-bear-650-2025-ficha-tecnica-precio-hunt2.webp | https://www.1000PS.com/it-it/articolo/3012064/nuova-royal-enfield-bear-650-2025 | 1000PS.com | desconocida |
+| /media/royal-enfield-bear-650-2025-ficha-tecnica-precio-hunt3.webp | https://www.theuth.co/royal-enfield-bear-650-2025/9564/ | theuth.co | desconocida |
