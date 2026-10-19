@@ -4515,3 +4515,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/cfmoto-250cl-x-hunt1.webp | https://www.motorbeam.com/wp-content/uploads/CFMoto-250-CL-X.jpg | CFMoto (prensa, vía MotorBeam) | desconocida |
 | /media/cfmoto-250cl-x-hunt2.webp | https://imgcdn.zigwheels.my/large/gallery/exterior/99/2435/cfmoto-250-cl-x-slant-front-view-full-image-804582.jpg | CFMoto (prensa, vía ZigWheels) | desconocida |
 | /media/cfmoto-250cl-x-hunt3.webp | https://www.cfmoto.com.tw/assets/img/portfolio/250CL-X-BLACK.jpg | CFMoto Taiwan (web oficial) | desconocida |
+| /media/husqvarna-fe-450-2025-ficha-tecnica-precio-hunt1.webp | https://upshiftonline.com/blogs/content/first-look-2025-husqvarna-dual-sport-off-road-models | UpShift | desconocida |
+| /media/husqvarna-fe-450-2025-ficha-tecnica-precio-hunt2.webp | https://www.srg-motorsports.com/collections/husqvarna-enduro/products/fe-450-2025 | SRG Motorsports | desconocida |
+| /media/husqvarna-fe-450-2025-ficha-tecnica-precio-hunt3.webp | https://mxzambrana.com/motos-de-enduro/husqvarna-enduro-4t-fe-450-2025.html | MX Zambrana | desconocida |
+| /media/dacia-logan-eco-g-100-2025-precio-ficha-tecnica-hunt1.webp | https://images.dailyrevs.com/0000/v3/Dacia/68e4fb80bbcdf5c0c8457081/2025-logan-dacia-fuwqci0b6d8dow1hfa.jpeg | DailyRevs (fotos oficiales de prensa Dacia) | desconocida |
+| /media/dacia-logan-eco-g-100-2025-precio-ficha-tecnica-hunt2.webp | https://images.dailyrevs.com/0000/v3/Dacia/68e4fb80bbcdf5c0c8457081/2025-logan-dacia-fuycup776vo0tdwc0odnovo.jpeg | DailyRevs (fotos oficiales de prensa Dacia) | desconocida |
+| /media/dacia-logan-eco-g-100-2025-precio-ficha-tecnica-hunt3.webp | https://images.dailyrevs.com/0000/v3/Dacia/68e4fb80bbcdf5c0c8457081/2025-logan-dacia-fur1b7776vo0jtk24gzsw8.jpeg | DailyRevs (fotos oficiales de prensa Dacia) | desconocida |
+| /media/euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica-hunt1.webp | https://karavantravel.cz/wp-content/uploads/2024/01/Eura_Mobil_Integra_Line_GT_726_EF_26v1_1-798x466.jpg | KaravanTravel.cz (concesionario; fotos del modelo exacto IL 726 EF) | desconocida |
+| /media/euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica-hunt2.webp | https://karavantravel.cz/wp-content/uploads/2025/07/Eura_Mobil_Integra_Line_GT_726_EF_25v3_3.jpg | KaravanTravel.cz (concesionario; fotos del modelo exacto IL 726 EF) | desconocida |
+| /media/euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica-hunt3.webp | https://karavantravel.cz/wp-content/uploads/2025/07/Eura_Mobil_Integra_Line_GT_726_EF_25v3_6-798x466.jpg | KaravanTravel.cz (concesionario; fotos del modelo exacto IL 726 EF) | desconocida |
+| /media/mini-countryman-e-2026-hunt1.webp | https://www.carscoops.com/wp-content/uploads/2023/10/2025-Mini-Countryman-SE-ALL4-1ab.jpg | MINI (kit de prensa, vía Carscoops) | desconocida |
+| /media/mini-countryman-e-2026-hunt2.webp | https://i0.wp.com/www.motoringfile.com/wp-content/uploads/2023/10/F60_Countryman_SE_238.jpg?resize=978%2C652&ssl=1 | MotoringFile | desconocida |
+| /media/mini-countryman-e-2026-hunt3.webp | https://i.gaw.to/content/photos/61/04/610473-mini-countryman-se-2025.jpeg | GuideAutoWeb | desconocida |
+| /media/volvo-ex60-cross-country-2026-precio-ficha-tecnica-hunt1.webp | https://images.contentstack.io/v3/assets/blt1bd0ccbd0b7d1870/bltb264cb6626bda4b1/69861b8bf2ce78002c24a44e/Volvo_EX60_Cross_Country_front.jpg?width=500&quality=100&crop=16%3A9&gravity=center | Volvo (prensa oficial, vía RAC) | desconocida |
+| /media/volvo-ex60-cross-country-2026-precio-ficha-tecnica-hunt2.webp | https://carwalk.de/wp-content/uploads/2026/02/Volvo-EX60CC-02.jpg | Volvo (prensa oficial, vía Carwalk) | desconocida |
+| /media/volvo-ex60-cross-country-2026-precio-ficha-tecnica-hunt3.webp | https://cdn.mos.cms.futurecdn.net/rrNYoqXGhPLxCES2DDC6vG.jpg | Volvo (prensa oficial, vía Future CDN) | desconocida |
+| /media/dacia-duster-blue-dci-115-2024-precio-ficha-tecnica-hunt1.webp | desconocida | Dacia (fotos de prensa) | desconocida |
+| /media/dacia-duster-blue-dci-115-2024-precio-ficha-tecnica-hunt2.webp | desconocida | Dacia (fotos de prensa) | desconocida |
+| /media/dacia-duster-blue-dci-115-2024-precio-ficha-tecnica-hunt3.webp | desconocida | Dacia (fotos de prensa) | desconocida |
+| /media/mercedes-glb-250-eq-2026-hunt1.webp | https://mbpassion.de/wp-cb4ef-content/uploads/2026/06/mbpassion.de-glb-250-mit-71-kwh-akku-bestellbar-1600-34-1024x683.jpeg | Mercedes-Benz / mbpassion.de | desconocida |
+| /media/mercedes-glb-250-eq-2026-hunt2.webp | https://images.carexpert.com.au/resize/960/-/cms/v1/media/2025-12-2026-mercedes-benz-glb-with-eq-technology-electric-reveal-9.jpg | Mercedes-Benz / CarExpert | desconocida |
+| /media/mercedes-glb-250-eq-2026-hunt3.webp | https://en.engear.tv/wp-content/uploads/2025/12/Mercedes-Benz-GLB-2026-10.jpg | Mercedes-Benz / ENGEAR | desconocida |
+| /media/voge-300acx-hunt1.webp | https://cdn-listino.inmoto.it/2023/1/12/300_ACX_studio360_02_48cd769905.JPG | Voge / InMoto.it | desconocida |
+| /media/voge-300acx-hunt2.webp | https://vogeitaly.it/wp-content/uploads/DSC1282-scaled.jpg | Voge / vogeitaly.it | desconocida |
+| /media/voge-300acx-hunt3.webp | https://d1hv7ee95zft1i.cloudfront.net/custom/motorcycle-model-photo/original/voge-300acx-6847af9e6eb2e.jpg | Voge / MotoDeal | desconocida |
