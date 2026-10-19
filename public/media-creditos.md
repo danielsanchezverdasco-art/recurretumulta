@@ -1628,3 +1628,23 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/voge-525r-hunt3.webp | https://listing-images.motoscout24.ch/880/12349880/280688765.jpg?w=1920&q=90 | motoscout24.ch (anuncio concesionario) | desconocida |
 | /media/audi-s5-avant-2025-hunt1.webp | https://uploads.audi-mediacenter.com/system/production/media/125133/images/b397781badc1f3d2d848a04718b8f1417aff9178/A243022_web_2880.jpg?1720776834 | Audi MediaCenter | desconocida |
 | /media/audi-s5-avant-2025-hunt2.webp | https://webp.vp.cdn.pxr.nl/tag/ab-Audi-S5-Avant-2.jpg?width=1800 | AutoBlog.nl | desconocida |
+| /media/bestune-yueyi-07-2025-precio-ficha-tecnica-hunt1.webp | https://avitqahu.ru/uploads/posts/2025-10/bestune-yueyi-07-brat-dostupnogo-v-rossii-bestune-t90-predlozhen-srazu-so-skidkami-faw-1.jpg | FAW / Bestune (foto de prensa, vía avitqahu.ru) | desconocida |
+| /media/bestune-yueyi-07-2025-precio-ficha-tecnica-hunt2.webp | https://kngloo.eu/wp-content/uploads/2026/03/bestune-joyee-07-galeria-5.jpg | FAW / Bestune (foto de prensa, vía kngloo.eu) | desconocida |
+| /media/bestune-yueyi-07-2025-precio-ficha-tecnica-hunt3.webp | https://kolesa-uploads.ru/r/880x/5276e4eb-1848-4142-b2db-593fdb0ad42f/bestune-yueyi-07-2.jpg | FAW / Bestune (foto de prensa, vía kolesa.ru) | desconocida |
+| /media/adria-matrix-supreme-2026-hunt1.webp | https://s1.cdn.autoevolution.com/images/news/gallery/when-luxury-is-a-must-the-2025-adria-matrix-supreme-motorhome-is-here-to-deliver_1.jpg | AutoEvolution / Adria Mobil | desconocida |
+| /media/adria-matrix-supreme-2026-hunt2.webp | https://www.pullingers.co.uk/media/iiegxay3/113-matrix-supreme-670sl-front-w_768.png?width=800 | Pullingers / Adria Mobil | desconocida |
+| /media/adria-matrix-supreme-2026-hunt3.webp | https://polskicaravaning.pl/img/kampery/adria_292623_3.jpg | polskicaravaning.pl | desconocida |
+| /media/voyah-free-2025-precio-ficha-tecnica-hunt1.webp | https://www.topspeed.sk/userfiles/articles/31-01/26237/gallery/crop_1280_706_Dongfeng%20Voyah%20Free%202025%2006.jpg | TopSpeed.sk | desconocida |
+| /media/voyah-free-2025-precio-ficha-tecnica-hunt2.webp | https://rentauto92.ru/wp-content/uploads/2025/03/Voyah_Free-off.webp | rentauto92.ru | desconocida |
+| /media/voyah-free-2025-precio-ficha-tecnica-hunt3.webp | https://www.automartinauto.pt/wp-content/uploads/2026/04/interior-voyah-free-650x650.jpg | Automartin (concesionario Voyah Portugal) | desconocida |
+| /media/baic-x75-2026-precio-ficha-tecnica-hunt1.webp | https://www.ccarprice.com/eg/baic-beijing-x75-2026-price-in-egypt-26269 | ccarprice.com | desconocida |
+| /media/baic-x75-2026-precio-ficha-tecnica-hunt2.webp | https://journal.carso.ru/articles/test-baic-x75-2025-26-obzor-flagmana-komfort-biznes-klassa-i-otsutstvie-polnogo-privoda | carso.ru (blog del motor) | desconocida |
+| /media/baic-x75-2026-precio-ficha-tecnica-hunt3.webp | https://segundamano.motorgiga.com/baic/x75/en-toledo/3702554/se-vende-baic-x75-x75-2026-34995-eur | MotorGiga (concesionario, Toledo) | desconocida |
+| /media/gac-empow-2024-precio-ficha-tecnica-hunt1.webp | https://astararetail.cl/gac | Astara Retail Chile | desconocida |
+| /media/gac-empow-2024-precio-ficha-tecnica-hunt2.webp | https://dez-avto.ru/amerika/shevrole-empao | ChineseCars.me | desconocida |
+| /media/gac-empow-2024-precio-ficha-tecnica-hunt3.webp | https://crqa.zigwheels.ae/new-cars/gac/empow/ge-at | ZigWheels.ae | desconocida |
+| /media/byd-e7-2025-precio-ficha-tecnica-hunt1.webp | https://cnevpost.com/2025/05/17/byd-launches-e7-sedan/ | CnEVPost (foto oficial de prensa BYD) | desconocida |
+| /media/byd-e7-2025-precio-ficha-tecnica-hunt2.webp | https://elektrowoz.pl/auta/byd-walczy-w-chinach-o-mniej-zamoznych-klientow-nowy-byd-e7-48-kwh-od-99-800-juanow-rownowartosci-52-600-zlotych/ | Elektrowoz.pl (prensa del motor, foto oficial BYD) | desconocida |
+| /media/byd-e7-2025-precio-ficha-tecnica-hunt3.webp | https://www.cqn.com.cn/auto/content/2025-05/14/content_9105196.htm | CQN.com.cn (prensa china, foto oficial BYD) | desconocida |
+| /media/piaggio-medley-200-2026-ficha-tecnica-precio-hunt1.webp | https://kropfitsch.at/de/motorrad-modell-piaggio-medley-200-s-13198-2026 | 1000ps.net | desconocida |
+| /media/piaggio-medley-200-2026-ficha-tecnica-precio-hunt2.webp | https://www.1000ps.com/tr-tr/karsilastirma/494056/honda-sh150i-2026-vs-piaggio-medley-200-2026 | 1000ps.com | desconocida |
