@@ -58,12 +58,12 @@ function scanIds(pattern, exclude) {
   }
   return map;
 }
+const CAMPER_LOADERS_TMP = scanIds(/^comparador-campers-.*\.ts$/, /^$/);
 const COCHE_LOADERS = scanIds(/^comparador-coches-.*\.ts$/, /^comparador-coches-data\.ts$/);
+for (const [k, v] of CAMPER_LOADERS_TMP) { if (!COCHE_LOADERS.has(k)) COCHE_LOADERS.set(k, v); }
 const MOTO_LOADERS = scanIds(/^comparador-motos-.*\.ts$/, /^comparador-motos-data\.ts$/);
 const PATINETE_LOADERS = scanIds(/^comparador-patinetes-.*\.ts$/, /^comparador-patinetes-data\.ts$/);
-// 19/10/2026 (campers): las fichas viven en comparador-campers-*.ts
-// con el mismo tipo CocheComparador (tipo "Camper").
-const CAMPER_LOADERS = scanIds(/^comparador-campers-.*\.ts$/, /^$/);
+const CAMPER_LOADERS = CAMPER_LOADERS_TMP; // alias para el reporte
 
 // ── 3. Historia: id -> fichero ───────────────────────────────────────────
 const HISTORIA_LOADERS = new Map();
