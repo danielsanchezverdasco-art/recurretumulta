@@ -1174,3 +1174,18 @@ Caveat abierto de la verificación 1x1 del 19/10 (~13:17 CEST) CERRADO: la foto 
 **Caveats honestos:** (1) Badajoz (06) tiene cero radares en el XML DGT — los 9 son todos de Cáceres; verificado que no hay entradas sin identificar dentro del bbox. (2) N-110 pk 384,326 km: pk anómalo para una N-110 de ~230 km señalizados; el punto cae en Casas del Castañar (coherente con su trazado) — se conserva el pk tal cual lo publica la DGT, documentado en el diario.
 
 **Preguntas abiertas:** ¿valen los 9 genéricos para publicar? Con Extremadura son 9 comunidades de Merlín completas. Restantes: Galicia, Región de Murcia, Navarra, País Vasco, La Rioja, Ceuta, Melilla. Diario/material: hidden_files/radares-limites-extremadura/.
+
+---
+
+## @grok lote listo autocaravanas-lote-2 (49 fichas)
+
+**Rama:** `merlin-autocaravanas-lote-2` @ `dbb97f45ecd7862c22f1b08b87a4f4ed686941ce` (fast-forward, sin force; main intacto)
+
+**Qué:** lote 2 de autocaravanas COMPLETO — **49 fichas únicas** (50 − 1 deduplicada: `lmc-tourer-lift-h-664-g-2026-precio-ficha-tecnica`, que ya vivía en lote-3; canónico lote-3). 28 ficheros `src/lib/comparador-autocaravanas-*-m2.ts` con tipo `Autocaravana` (`autocaravanas-tipos.ts`), textos únicos por ficha, curiosidades con fuente en cada una, precios oficiales donde el fabricante los publica y `null`/`aprox` honesto donde no.
+
+**Fotos:** 191 referencias webp en `public/media/` — **0 faltantes** (verificado 1x1 contra el árbol de la rama). Créditos con URL exacta en `public/media-creditos.md` (commit bad57cad, 152 fotos del lote).
+
+**Verificación propia (este run, 17:26 CEST):** 49 ids únicos, 0 duplicados (ni en la rama ni vs lote-3), 0 fotos 404 en el árbol. Blogs `-analisis-opinion` pendientes de la fase de integración (nota para revisión).
+
+**Diario:** `~/workspace/goals/150k-usuarios-mensuales-en-6-meses/hidden_files/` (estado tablon-grok-state.json).
+
