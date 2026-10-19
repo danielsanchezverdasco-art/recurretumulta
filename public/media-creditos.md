@@ -511,3 +511,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/walberg-egret-ey-6-hunt1.webp | https://www.galaxus.at/de/s3/product/egret-ey-6-e-scooter-20-kmh-55-km-450-w-e-scooter-47502040 | Galaxus (foto de producto oficial Egret) | desconocida |
 | /media/walberg-egret-ey-6-hunt2.webp | https://www.escooter.de/EGRET-Ey-6/16050 | escooter.de (tienda oficial Egret) | desconocida |
 | /media/walberg-egret-ey-6-hunt3.webp | https://justpick.ch/sale-sports/ | Conforama / JustPick (foto de producto oficial Egret) | desconocida |
+| /media/kymco-dtx-350-2025-ficha-tecnica-precio-hunt1.webp | https://www.kymco.com.tr/ | KYMCO Türkiye | desconocida |
+| /media/kymco-dtx-350-2025-ficha-tecnica-precio-hunt2.webp | https://turourban.com/ | Tu Roura Urban (KYMCO Barcelona) | desconocida |
+| /media/kymco-dtx-350-2025-ficha-tecnica-precio-hunt3.webp | https://kymcoyadeamalaga.com/ | KYMCO Yadea Málaga | desconocida |
+| /media/walberg-egret-ey-1-hunt1.webp | https://my-egret.com/ | my-egret.com (web oficial) | desconocida |
+| /media/walberg-egret-ey-1-hunt2.webp | https://scooterwerkstatt.de/ | ScooterWerkstatt | desconocida |
+| /media/walberg-egret-ey-1-hunt3.webp | https://www.voltride.cz/ | Voltride | desconocida |
+| /media/aion-v-plus-2024-precio-ficha-tecnica-hunt1.webp | https://hmong.in.th/wiki/Aion_V | Wikimedia Commons | desconocida |
+| /media/aion-v-plus-2024-precio-ficha-tecnica-hunt2.webp | https://www.dailyrevs.com/cars/2021-gac-aion-v-plus | DailyRevs | desconocida |
+| /media/aion-v-plus-2024-precio-ficha-tecnica-hunt3.webp | https://wetocar.ru/models/aion/v-plus | wetocar.ru | desconocida |
+| /media/egret-ey-6-hunt1.webp | https://www.galaxus.at/de/s3/product/egret-ey-6-e-scooter-20-kmh-55-km-450-w-e-scooter-47502040 | Galaxus | desconocida |
+| /media/egret-ey-6-hunt2.webp | https://www.escooter.de/EGRET-Ey-6/16050 | escooter.de | desconocida |
+| /media/egret-ey-6-hunt3.webp | https://my-egret.com/e-models/all-models/ | Egret (web oficial) | desconocida |
+| /media/jac-js2-pro-2024-precio-ficha-tecnica-hunt1.webp | https://www.zigwheels.ph/car-news/all-new-jac-js2-pro-enters-ph-priced-at-p895k | ZigWheels Philippines | desconocida |
+| /media/jac-js2-pro-2024-precio-ficha-tecnica-hunt2.webp | https://tuacar.cv/listagem/jac-js2-pro/ | TuaCar Cabo Verde | desconocida |
+| /media/jac-js2-pro-2024-precio-ficha-tecnica-hunt3.webp | https://jaccostarica.com/modelo-js2-pro/ | JAC Costa Rica (importador oficial) | desconocida |
+| /media/porsche-taycan-2026-precio-ficha-tecnica-hunt1.webp | https://carbuzz.com/cars/porsche/taycan/2025/ | CarBuzz | desconocida |
+| /media/porsche-taycan-2026-precio-ficha-tecnica-hunt2.webp | https://carbuzz.com/cars/porsche/taycan/2026/for-sale/ | CarBuzz | desconocida |
+| /media/porsche-taycan-2026-precio-ficha-tecnica-hunt3.webp | https://carbuzz.com/cars/porsche/taycan/2025/ | CarBuzz | desconocida |
+| /media/royal-alloy-gp-125-2026-ficha-tecnica-precio-hunt1.webp | http://www.royal-alloy.co.uk/products/gp-125-lc | Royal Alloy (web oficial) | desconocida |
+| /media/royal-alloy-gp-125-2026-ficha-tecnica-precio-hunt2.webp | https://scooters.co.uk/item/royal-alloy-gp-125-mt-2025/ | Scooters.co.uk | desconocida |
+| /media/royal-alloy-gp-125-2026-ficha-tecnica-precio-hunt3.webp | https://alexandermotorcycles.co.uk/Royal-Alloy-GP-125-MT | Alexander Motorcycles | desconocida |
+| /media/aixam-e-city-sport-2025-precio-ficha-tecnica-hunt1.webp | http://aixam.fra1.cdn.digitaloceanspaces.com/01_exterieur_7bf5afd48db56dc25491c8f1aa2cbb25.webp | Aixam (prensa oficial) | desconocida |
+| /media/aixam-e-city-sport-2025-precio-ficha-tecnica-hunt2.webp | http://tucochesincarnet.com/wp-content/uploads/2015/06/03_exterieur_b1ef7e97a9454f4f94a2d44ac1ac093a.webp | TuCocheSinCarnet (distribuidor oficial Aixam) | desconocida |
+| /media/aixam-e-city-sport-2025-precio-ficha-tecnica-hunt3.webp | http://www.aixam.nl/ressources/medias/slide_eaixam-city-sportlectrique-6a1967ac809e7.webp | Aixam.nl (web oficial) | desconocida |
