@@ -7,6 +7,10 @@
 // 68 LMC; las plazas de cama no están publicadas en el catálogo consultado.
 // Fleurette no publica PVP: precioDesde en null, sin inventar.
 // CURIOSIDAD (agente F5, 19/10/2026). PENDIENTE: sin foto oficial de exterior del 68LM en material del fabricante.
+// FIX-benimar 19/10/2026: integrados 2 interiores oficiales del catálogo oficial
+// (fleurette-florium.fr); el fabricante no publica exterior del 68LM exacto
+// (verificado en catálogos oficiales 2020/2023 DE/FR, web oficial y sala de prensa
+// Rapido): imagenOficial queda en "" (sin foto oficial) y la ficha sigue noindex.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
 export const AUTOCARAVANAS_FLEURETTE_M1: Autocaravana[] = [
@@ -29,10 +33,9 @@ export const AUTOCARAVANAS_FLEURETTE_M1: Autocaravana[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagen: "/media/fleurette-baxter-68-lmc-2026-precio-ficha-tecnica-ext.webp",
-    imagenOficial:
-      "/media/fleurette-baxter-68-lmc-2026-precio-ficha-tecnica-ext.webp",
+    imagenOficial: "", // FIX-benimar 19/10: sin foto oficial de exterior del 68LM exacto publicada por el fabricante
     imagenInteriorOficial:
-      "/media/fleurette-baxter-68-lmc-2026-precio-ficha-tecnica-interior.webp",
+      "/media/fleurette-baxter-68-lmc-2026-precio-ficha-tecnica-oficial-interior.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 6850,
@@ -66,6 +69,18 @@ export const AUTOCARAVANAS_FLEURETTE_M1: Autocaravana[] = [
     ],
     opiniones: [],
     galeria: [
+      {
+        src: "/media/fleurette-baxter-68-lmc-2026-precio-ficha-tecnica-oficial-interior.webp",
+        alt: "Salón del Baxter 68 LM (foto oficial del fabricante)",
+        ancho: 1875,
+        alto: 1241,
+      },
+      {
+        src: "/media/fleurette-baxter-68-lmc-2026-precio-ficha-tecnica-oficial-interior2.webp",
+        alt: "Dormitorio con cama central del Baxter 68 LM (foto oficial del fabricante)",
+        ancho: 1230,
+        alto: 992,
+      },
       {
         src: "/media/fleurette-baxter-68-lmc-2026-precio-ficha-tecnica-ext.webp",
         alt: "Fleurette Baxter 68 LMC, vista lateral",
