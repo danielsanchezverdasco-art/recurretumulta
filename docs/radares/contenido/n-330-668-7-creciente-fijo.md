@@ -6,6 +6,13 @@
 **Coordenadas (WGS84):** 42.7579, -0.52598
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.7579,-0.52598)
 
+<iframe title="Mapa: radar n-330-668-7-creciente-fijo" src="https://www.google.com/maps?q=42.7579,-0.52598&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-330-668-7-creciente-fijo" src="https://maps.google.com/maps?q=&layer=c&cbll=42.7579,-0.52598&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
 > **Cómo lo verificamos:** la posición, la carretera, el punto kilométrico y el sentido de este radar figuran en el fichero oficial de radares fijos de la DGT (formato DATEX II), verificado el 2026-10-18. La DGT no publica el límite de velocidad ni el municipio de este punto, y esta ficha no los inventa.
 
 ## El punto exacto de la medición
