@@ -58,3 +58,12 @@ La maniobra que salva este tramo se hace con la mente, no con el pie: al notar q
 - DGT · NAP — `PredefinedLocationsPublication/radares/content.xml` (https://nap.dgt.es/dataset/radares-fijos-dgt) — posición, carretera, pk y sentido. Consultado el 2026-10-18.
 
 - Límites genéricos: Reglamento General de Circulación, art. 48.
+
+
+<iframe title="Mapa: radar tf-1-59-3-creciente-cabina" src="https://www.google.com/maps?q=28.05800,-16.58330&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar tf-1-59-3-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=28.05800,-16.58330&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
