@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 41.9129, -5.5073
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=41.9129,-5.5073)
 
+<iframe title="Mapa: radar a-6-245-9-decreciente-cabina" src="https://www.google.com/maps?q=41.9129,-5.5073&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-6-245-9-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=41.9129,-5.5073&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** Vía, pk, sentido y coordenadas figuran en el XML oficial de radares de la DGT (DATEX II, portal NAP). El dataset no informa del límite de cada punto ni del municipio: aquí se recoge el genérico del art. 48 del RGC para autovías, y el municipio —Cerecinos de Campos (Zamora)— se obtuvo con CartoCiudad (IGN/CNIG).
 
 ## La A-6 por Zamora
