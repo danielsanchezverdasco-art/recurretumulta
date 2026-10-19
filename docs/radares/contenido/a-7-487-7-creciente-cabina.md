@@ -12,6 +12,14 @@
 
 El emplazamiento del control es el **pk 487,7 de la A-7** (provincia de Alicante, Comunitat Valenciana). Supervisa el **sentido creciente**, el del avance hacia puntos kilométricos crecientes. El Instituto Geográfico Nacional ubica el punto dentro de **Alacant/Alicante**, en la provincia de Alicante. El control fijo de la DGT más próximo es el de la **A-77a, pk 0,4** (sentido creciente), a 9,8 km hacia el sureste.
 
+<iframe title="Mapa: radar a-7-487-7-creciente-cabina" src="https://www.google.com/maps?q=38.45945,-0.57578&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-7-487-7-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.45945,-0.57578&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La A-7, la Autovía del Mediterráneo, el gran corredor del litoral, discurre por Alicante como vía de gran capacidad. Por este punto pasan tanto vehículos de paso como tráfico local de la comarca. Por aquí domina el paisaje de la costa alicantina.
