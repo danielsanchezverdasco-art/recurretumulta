@@ -2,6 +2,15 @@
 
 **Identificador (`a-1-401-561-creciente-cabina`)** · Tipo: cabina (cinemómetro en cabina) · Fuente oficial: DGT · DATEX II — verificado el 2026-10-19 · Autor: Merlín · Fecha de redacción: 2026-10-19 · Coordenadas (WGS84): 42.91613, -2.19164 · Enlace Street View: https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.91613,-2.19164
 
+<iframe title="Mapa: radar a-1-401-561-creciente-cabina" src="https://www.google.com/maps?q=42.91613,-2.19164&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-1-401-561-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.91613,-2.19164&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 > **Cómo lo verificamos:** vía, punto kilométrico, sentido y posición salen del XML oficial de radares de la DGT (DATEX II, portal NAP), revisado el 2026-10-19. El fichero no incluye el límite de cada punto ni su municipio: el límite de la ficha es el genérico del Reglamento General de Circulación (art. 48, RD 1428/2003) por tipo de vía, y el municipio procede de CartoCiudad (IGN/CNIG).
 
 ## Dónde está el dispositivo
