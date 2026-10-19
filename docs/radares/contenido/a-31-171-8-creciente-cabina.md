@@ -12,6 +12,14 @@
 
 Esta caja vigila la **A-31 en el punto kilométrico 171,8**, dentro de Alicante. Vigila el **sentido creciente**: los vehículos que circulan hacia puntos kilométricos crecientes. Según el servicio oficial de geocodificación, el emplazamiento pertenece a **Caudete**. El punto vigilado más cercano es el de la **CV-81, pk 6,3** (sentido creciente): queda a 29,4 km hacia el este.
 
+<iframe title="Mapa: radar a-31-171-8-creciente-cabina" src="https://www.google.com/maps?q=38.72248,-0.93436&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-31-171-8-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.72248,-0.93436&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La A-31, la autovía que une Alicante con Albacete y el interior, discurre por Alicante como vía de gran capacidad. Conviven en el asfalto los trayectos largos y los recorridos cortos del entorno. El paisaje de el interior de la provincia de Alicante enmarca este tramo.
