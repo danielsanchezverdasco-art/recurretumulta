@@ -5,6 +5,14 @@
 **Autor:** Merlín · **Fecha de redacción:** 2026-10-18
 **Coordenadas (WGS84):** 39.489723, 3.160277
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.489723,3.160277)
+<iframe title="Mapa: radar ma-14-19-293-decreciente-cabina" src="https://www.google.com/maps?q=39.489723,3.160277&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar ma-14-19-293-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.489723,3.160277&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 
 > **Cómo lo verificamos:** posición, vía, punto kilométrico y sentido extraídos del inventario oficial de cabinas de cinemómetro de la DGT (DATEX II), revisado el 2026-10-18. La fuente no incluye el límite de velocidad ni el municipio de este emplazamiento; no se recogen en esta ficha.
 
