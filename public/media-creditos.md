@@ -3582,3 +3582,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/weinsberg-carabus-grey-edition-fire-600-mq-2026-precio-ficha-tecnica-hunt1.webp | https://www.caraworld.at/frontend/virtual_host/cw2592714/fahrzeugdetailseite.php?frames=true&suche=true&fahrzeugart=1&id=24654291 | Caraworld (concesionario) | desconocida |
 | /media/weinsberg-carabus-grey-edition-fire-600-mq-2026-precio-ficha-tecnica-hunt2.webp | https://www.careiwo.de/fahrzeug/weinsberg-carabus-grey-600-mq-2026-jetzt-5000-reduziert-irf1hx/ | Careiwo (concesionario) | desconocida |
 | /media/weinsberg-carabus-grey-edition-fire-600-mq-2026-precio-ficha-tecnica-hunt3.webp | https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/weinsberg/camper-van/2026/347539/ | ADAC Autokatalog (base de datos) | desconocida |
+| /media/cadillac-escalade-2026-hunt1.webp | https://www.bottomlineinc.com/media/2024/08/Cad-Escalade-2026-600x600.jpg | Bottomline Inc. | desconocida |
+| /media/cadillac-escalade-2026-hunt2.webp | https://vehicle-images.carscommerce.inc/4343-110006892/1GYS9CKLXTR346249/11a7aa9372f7c4c5f4095cc18cca04b8.jpg | Pepe Cadillac (pepecadillac.com, VIN 1GYS9CKLXTR346249) | desconocida |
+| /media/cadillac-escalade-2026-hunt3.webp | https://content.homenetiol.com/b60e816548014c96891f4c2c07e89350.jpg | Cadillac of Dublin (buy.cadillacofdublin.com) | desconocida |
+| /media/dfsk-seres-5-4wd-2026-precio-ficha-tecnica-hunt1.webp | https://hashmaliot.co.il/wp-content/uploads/2025/12/SERES-5-4WD-5.jpg | Hashmaliot | desconocida |
+| /media/dfsk-seres-5-4wd-2026-precio-ficha-tecnica-hunt2.webp | https://imgcdn.zigwheels.ph/large/gallery/exterior/207/3281/seres-5-front-angle-low-view-474053.jpg | ZigWheels Philippines | desconocida |
+| /media/dfsk-seres-5-4wd-2026-precio-ficha-tecnica-hunt3.webp | https://ksa.motorguru.me/wp-content/uploads/2025/12/Seres-5-SF-2025-Premium-4WD-06.webp | Motorguru (ksa.motorguru.me) | desconocida |
+| /media/triumph-tiger-1200-gt-pro-2026-ficha-tecnica-precio-hunt1.webp | https://d12d6l12s3d372.cloudfront.net/2025_Triumph_Tiger_1200_571f47659c.jpeg | Mans World India (artículo 2026 Triumph Tiger 1200) | desconocida |
+| /media/triumph-tiger-1200-gt-pro-2026-ficha-tecnica-precio-hunt2.webp | https://brisans.imgix.net/2024-Models/Triumph/tiger-1200-gt-pro-my24-carnival-red-rhs.jpg | Brisans Motorcycles | desconocida |
+| /media/triumph-tiger-1200-gt-pro-2026-ficha-tecnica-precio-hunt3.webp | https://stevensmcshop.dk/media/ubace3di/oe_tiger1200gtpro_my24_cw4i0101_ge.jpg | Stevens MC Shop | desconocida |
+| /media/voyah-courage-109kwh-2025-precio-ficha-tecnica-hunt1.webp | https://voyah.fiaal.pt/wp-content/uploads/2025/05/card_courage.jpg | Voyah Portugal / Fiaal (voyah.fiaal.pt) | desconocida |
+| /media/voyah-courage-109kwh-2025-precio-ficha-tecnica-hunt2.webp | https://ev.motorwatt.com/media/djcatalog2/images/item/20/voyah-courage-2025.jpg | Motorwatt (ev.motorwatt.com) | desconocida |
+| /media/voyah-courage-109kwh-2025-precio-ficha-tecnica-hunt3.webp | https://imgcdn.sayaratbay.com/large/gallery/color/131/2338/voyah-courage-color-715680.jpg | SayaraBay | desconocida |
+| /media/xgo-x-van-104-2026-precio-ficha-tecnica-hunt1.webp | https://f004.backblazeb2.com/file/fc-img/939aa1fa-ba04-11ee-a7f7-18473da61cad | campingcars.net (Malz, alquiler) | desconocida |
+| /media/xgo-x-van-104-2026-precio-ficha-tecnica-hunt2.webp | https://listing-images.autoscout24.ch/98/20018098/622036046.jpg | AutoScout24 (anuncio de venta) | desconocida |
+| /media/xgo-x-van-104-2026-precio-ficha-tecnica-hunt3.webp | https://camperlife.it/sites/default/files/inline-images/xvan-104-_s3r6223_camperlife-2024.jpg | CamperLife.it | desconocida |
+| /media/triumph-tiger-sport-800-2026-ficha-tecnica-precio-hunt1.webp | https://ridermagazine.com/wp-content/uploads/2025/12/2026-Triumph-Tiger-Sport-800-Tour-Preview-2.jpg | Rider Magazine | desconocida |
+| /media/triumph-tiger-sport-800-2026-ficha-tecnica-precio-hunt2.webp | https://cdpcdn.dx1app.com/products/USA/TM/2026/MC/DUALPURP/TIGER_SPORT_800/50/COSMIC_YELLOW_-_SAPPHIRE_BLACK/2000000004.jpg | Sun and Fun Motorsports | desconocida |
+| /media/triumph-tiger-sport-800-2026-ficha-tecnica-precio-hunt3.webp | https://www.motorcycles.news/wp-content/uploads/2025/12/Triumph-Tiger-Sport-800-Tour-2026-3-1030x579.jpg | motorcycles.news | desconocida |
+| /media/voyah-taishan-2026-precio-ficha-tecnica-hunt1.webp | https://kolesa-uploads.ru/-/97321223-f4b8-4dc1-ade3-ae86a6b8f1c0/voyah-taishan-6.jpg | Kolesa.ru | desconocida |
+| /media/voyah-taishan-2026-precio-ficha-tecnica-hunt2.webp | https://autogoda.ru/archive/VOYAHaishan_5.jpg | autogoda.ru | desconocida |
+| /media/voyah-taishan-2026-precio-ficha-tecnica-hunt3.webp | https://azway.ru/images/landings/voyah-taishan/interior.webp | azway.ru | desconocida |
+| /media/voyah-dream-9-phev-2026-precio-ficha-tecnica-hunt1.webp | https://www.topik.id/voyah-dream-9-mvp-mulai-pra-penjualan-5-september-tanpa-seremonial-peluncuran | Voyah (press) / Topik.id | desconocida |
+| /media/voyah-dream-9-phev-2026-precio-ficha-tecnica-hunt2.webp | https://autoreview.ru/news/voyah-dreamer-9-v-kitae-deshevle-chem-predpolagalos | Voyah (press) / Autoreview | desconocida |
+| /media/voyah-dream-9-phev-2026-precio-ficha-tecnica-hunt3.webp | https://paultan.org/page/3/ | Voyah (press) / Paultan | desconocida |
