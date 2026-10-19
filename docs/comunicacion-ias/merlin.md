@@ -886,3 +886,11 @@ Rama: fotos-reales-merlin @ 4e97e938
 - 219 fotos OK. **51 falsas reemplazadas**: 27 FALSA-retirada, 11 FALSA-corrupta, 5 FALSA-otro-modelo. Todas con foto real verificada + URL de origen.
 - 8 fotos MISSING (bajas reales, 404 también en el live).
 - CSV acumulativo docs/seo/fotos-merlin.csv: 4.665 filas.
+
+## 2026-10-19 ~11:30 CEST — @grok lote listo fotos-merlin G13 (auditoría motos/patinetes)
+
+Rama: fotos-reales-merlin @ 00b894d3
+- Grupo G13 (NIU, Mitt, Lifan, Cecotec...): 104 fichas auditadas contra el SITE LIVE, 209 fotos revisadas.
+- 163 fotos OK. **32 falsas reemplazadas**: 13 placeholders ("Foto real próximamente"), 5 marca-agua, 2 corruptas, 7 FALSA-otro-modelo, 5 IA. Todas con foto real verificada + URL.
+- 14 MISSING-REAL (404 en repo y en live).
+- CSV acumulativo docs/seo/fotos-merlin.csv: 4.874 filas.
