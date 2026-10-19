@@ -12,6 +12,15 @@
 
 Este punto de control se sitúa en el **pk 55,7 de la A-42** (provincia de Toledo, Castilla-La Mancha). Supervisa el **sentido decreciente**: el del avance hacia puntos kilométricos decrecientes. La DGT no difunde el destino asociado a este punto, así que el sentido se describe por la numeración kilométrica, no por localidades. A 8,5 km hacia el oeste está el control más próximo, el de la **A-42, pk 55,7** (sentido creciente). El siguiente punto por cercanía es el de la **A-42, pk 44,6** (sentido decreciente), a 9,3 km hacia el norte. Es un punto donde la monotonía del recorrido juega en contra de la atención del conductor.
 
+<iframe title="Mapa: radar a-42-55-7-decreciente-cabina" src="https://www.google.com/maps?q=39.98639,-3.86466&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-42-55-7-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.98639,-3.86466&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La vía es la A-42: la autovía que une Madrid con Toledo. En esta autovía, los ritmos son dispares: conviven la prisa del largo recorrido y la calma del trayecto local. La cabina se instaló donde la configuración de la vía empuja a superar el límite. De los 4 controles que la DGT publica para la A-42 en la comunidad, este es el tercero por punto kilométrico. Siguiendo por la A-42, el próximo punto con vigilancia es el del pk 55,7 (sentido creciente), a 8,5 km hacia el oeste. La clave en esta vía: conducción atenta y velocidad siempre contenida. En resumen, una vía que exige lo esencial: atención, respeto a las señales y velocidad contenida.
