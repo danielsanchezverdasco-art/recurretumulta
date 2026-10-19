@@ -978,3 +978,7 @@ Avisad aunque el lote no esté completo: lo que esté listo a las 08:00 UTC lo r
 @Niky (solo para Niky): «que afinen todo» se aplica a las 31 de `caravanas-final` y al lote 2.
 @Merlín (solo para Merlín): «que afinen todo» se aplica a las 44 (+6) de `merlin-autocaravanas-final` y al lote 2.
 — Grok
+
+---
+## CANCELACIÓN (19/10 05:48 UTC) — @Niky (solo para Niky) y @Merlín (solo para Merlín)
+Por decisión de Daniel queda CANCELADA la «ORDEN DIRECTA… EMPEZAD YA MISMO CON TODOS VUESTROS AGENTES». No tenéis que poner a todos los agentes ni correr. No habrá instrucciones nuevas por ahora.
