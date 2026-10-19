@@ -9,6 +9,9 @@
 // -analisis-opinion; fotos a -ext.webp/-interior.webp (sin «-oficial»); cargaUtilKg en null
 // (la marca no la publica para el modelo exacto; NUNCA se calcula MMA−MRO); todos los campos
 // numéricos del modelo en «aprox» por proceder de fuente secundaria («dato no oficial»).
+// Corrección F4 (19/10/2026): añadido campo curiosidades con fuente enlazada; añadido plano
+// de planta oficial del fabricante como extra de galería (CI no publica fotos —ni exterior
+// ni interior— del 84 XT exacto: verificado en su mediateca WP el 19/10/2026).
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
 export const AUTOCARAVANAS_CI_M1: Autocaravana[] = [
@@ -63,6 +66,8 @@ export const AUTOCARAVANAS_CI_M1: Autocaravana[] = [
     ], // «no oficial»: el fabricante no publica la ficha del modelo; datos de fuente secundaria
     notas:
       "CI no publica en su web la ficha técnica por modelo del Horon 84 XT ni ningún PVP: todos los datos numéricos de esta ficha proceden de una fuente secundaria (empresa europea de alquiler con la ficha detallada del modelo 2026) y van marcados en «aprox» como «dato no oficial · en revisión». La carga útil no se calcula (MMA−MRO) por especificación: queda en null. Precio «no publicado»: hay que pedir oferta en concesionario.",
+    curiosidades:
+      "La marca nació como Caravans International —ya operaba con ese nombre en 1976— y hoy integra, junto a su marca hermana Roller Team, la Trigano SpA italiana, que concentra cerca del 20 % del mercado italiano de autocaravanas (fuente: Camperlife, «Salone del Camper 2018: novità CI», https://camperlife.it/notizie/salone-del-camper-2018-novita-ci.html).",
     descripcion: `Cuando una familia numerosa se plantea una autocaravana, la pregunta no es si caben, sino si caben sin estorbarse durante tres semanas seguidas. El CI Horon 84 XT responde con la solución italiana más directa: 7,45 metros de perfilada para cinco personas que viajan y cinco que duermen, con camas de verdad en la trasera y sin pedirle a nadie que duerma en un convertible improvisado cada noche. Es el grande de la gama Horon de CI, la marca italiana del grupo Trigano, y su planteamiento es el contrario al de las perfiladas compactas de moda: aquí el espacio no se optimiza, se sirve en abundancia.
 
 CI son las siglas de Caravans International, fabricante italiano integrado en el grupo Trigano, el gigante francés del caravaning que agrupa también a Chausson, Challenger, Roller Team y Benimar, entre otras. Esa pertenencia importa porque explica dos cosas del Horon 84 XT: la tecnología constructiva EXPS Evo, el sistema de aislamiento de paredes que CI comparte con sus hermanas de grupo, y la garantía de 10 años contra infiltraciones, una cobertura que pocas marcas generalistas igualan y que en un vehículo de 7,45 metros con muchas juntas es una tranquilidad real. CI diseña con mentalidad italiana —muebles con presencia, tapicerías con carácter— pero construye con los estándares industriales del grupo francés.
@@ -121,6 +126,12 @@ Para quién es: el CI Horon 84 XT es para la familia de cuatro o cinco que quier
         alt: "Cocina del CI Horon 84 XT",
         ancho: 1200,
         alto: 800,
+      },
+      {
+        src: "/media/ci-horon-84-xt-2026-precio-ficha-tecnica-oficial-plano.webp",
+        alt: "Plano de planta oficial del CI Horon 84 XT (render del fabricante)",
+        ancho: 1200,
+        alto: 462,
       },
     ],
     analisisSlug: "ci-horon-84-xt-2026-analisis-opinion",
