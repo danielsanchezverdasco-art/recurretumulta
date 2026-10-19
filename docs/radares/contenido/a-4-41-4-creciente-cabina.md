@@ -12,6 +12,15 @@
 
 La ficha oficial sitúa el control en la **A-4, pk 41,4**, provincia de Toledo. Vigila el **sentido creciente**, es decir, a los vehículos que circulan hacia puntos kilométricos crecientes. Puedes verificar la ubicación exacta con el enlace de Street View que acompaña a la ficha: las coordenadas son las de la DGT. El control fijo de la DGT más próximo es el de la **A-4, pk 40,4** (sentido decreciente), a 1,4 km hacia el noreste. El siguiente punto por cercanía es el de la **M-305, pk 0,7** (sentido creciente), a 3,7 km hacia el norte. La zona combina el carácter rural del entorno con la intensidad propia de una vía de comunicación relevante.
 
+<iframe title="Mapa: radar a-4-41-4-creciente-cabina" src="https://www.google.com/maps?q=40.06861,-3.64472&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-4-41-4-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.06861,-3.64472&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 El eje es la A-4, la Autovía del Sur, que une Madrid con Andalucía. La autovía combina el tránsito de paso con la movilidad diaria de la comarca. Este punto figura en el dataset de radares fijos por ser proclive a las velocidades inadecuadas. Entre los 8 radares publicados para la A-4 en la región, este es el segundo en orden de pk. En la misma A-4, el control más próximo es el del pk 40,4 (sentido decreciente): dista 1,4 km hacia el noreste. La experiencia dice que aquí conviene llevar el límite siempre presente. Para el conductor ocasional, la recomendación es sencilla: señales, prudencia y ritmo constante.
