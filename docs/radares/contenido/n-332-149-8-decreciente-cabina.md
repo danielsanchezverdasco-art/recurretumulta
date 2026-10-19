@@ -12,6 +12,14 @@
 
 Tráfico sitúa el radar en la **N-332, pk 149,8**, provincia de Alicante. Mide la velocidad en el **sentido decreciente**, el de los pk decrecientes. El geocodificador del IGN sitúa estas coordenadas en **Benidorm** (Alicante). El control fijo de la DGT más próximo es el de la **N-332, pk 151,7** (sentido creciente), a 1,9 km hacia el este.
 
+<iframe title="Mapa: radar n-332-149-8-decreciente-cabina" src="https://www.google.com/maps?q=38.56061,-0.11747&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-332-149-8-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.56061,-0.11747&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La N-332 es una vía de la red estatal que recorre Alicante. La intensidad varía por franjas: mañanas laborables densas, tardes más fluidas. Nos movemos en el ámbito de la costa alicantina.
