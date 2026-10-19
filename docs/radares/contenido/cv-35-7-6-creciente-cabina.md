@@ -12,6 +12,14 @@
 
 La posición oficial del puesto es la **CV-35, punto kilométrico 7,6** (Valencia). Supervisa el **sentido creciente**, el del avance hacia puntos kilométricos crecientes. Estas coordenadas pertenecen a **Paterna** según el geocodificador del IGN. El punto vigilado más cercano es el de la **A-7, pk 326,4** (sentido creciente): queda a 2,3 km hacia el oeste.
 
+<iframe title="Mapa: radar cv-35-7-6-creciente-cabina" src="https://www.google.com/maps?q=39.53,-0.44386&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cv-35-7-6-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.53,-0.44386&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 Circulamos por la CV-35, la autovía Pista de Ademuz, entre Valencia y Ademuz. La demanda se reparte entre el tránsito interurbano y los accesos a las poblaciones próximas. El territorio por el que discurre la vía es la huerta y el litoral valencianos.
