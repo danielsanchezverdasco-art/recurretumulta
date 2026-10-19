@@ -173,10 +173,10 @@ Para quién es: perfecto para parejas que quieren una perfilada ágil y estrecha
     ],
     opiniones: [],
     galeria: [
-      { src: "/media/knaus-van-ti-640-meg-vansation-2026-precio-ficha-tecnica-oficial.webp", alt: "Knaus Van TI 640 MEG Vansation, vista lateral exterior", ancho: 1600, alto: 1200 },
-      { src: "/media/knaus-van-ti-640-meg-vansation-2026-precio-ficha-tecnica-interior1.webp", alt: "Knaus Van TI 640 MEG Vansation, salón y cocina", ancho: 640, alto: 360 },
+      { src: "/media/knaus-van-ti-640-meg-vansation-2026-precio-ficha-tecnica-oficial.webp", alt: "Knaus Van TI 640 MEG Vansation, vista lateral exterior", ancho: 950, alto: 671 },
+      { src: "/media/knaus-van-ti-640-meg-vansation-2026-precio-ficha-tecnica-interior1.webp", alt: "Knaus Van TI 640 MEG Vansation, salón y cocina", ancho: 1200, alto: 1600 },
       { src: "/media/knaus-van-ti-640-meg-vansation-2026-precio-ficha-tecnica-interior2.webp", alt: "Knaus Van TI 640 MEG Vansation, camas gemelas traseras", ancho: 1024, alto: 683 },
-      { src: "/media/knaus-van-ti-640-meg-vansation-2026-precio-ficha-tecnica-detalle.webp", alt: "Knaus Van TI 640 MEG Vansation, vista trasera exterior", ancho: 1600, alto: 1200 },
+      { src: "/media/knaus-van-ti-640-meg-vansation-2026-precio-ficha-tecnica-detalle.webp", alt: "Knaus Van TI 640 MEG Vansation, vista trasera exterior", ancho: 1500, alto: 1125 },
     ],
     analisisSlug: "knaus-van-ti-640-meg-vansation-analisis-opinion",
     planMantenimiento: {
