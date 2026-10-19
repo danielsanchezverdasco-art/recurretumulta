@@ -1983,3 +1983,28 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/jetour-t1-i-dm-2025-precio-ficha-tecnica-hunt1.webp | https://www.webmotors.com.br/wm1/noticias/suvs-jetour-no-brasil-s06-t1-t2 | Webmotors | desconocida |
 | /media/jetour-t1-i-dm-2025-precio-ficha-tecnica-hunt2.webp | https://geekandlife.com.mx/2025/10/22/jetour-t1-i-dm-2026-llega-a-mexico-con-tecnologia-hibrida-enchufable-tech-autos/ | Geek and Life | desconocida |
 | /media/jetour-t1-i-dm-2025-precio-ficha-tecnica-hunt3.webp | https://visor.ph/media/photos-the-jetour-t1-i-dm-phev-compact-crossover-suv/ | Visor | desconocida |
+| /media/urban-glide-all-road-6-2x2-hunt1.webp | https://techolic.gr/products/urbanglide-all-road-6-2x2-hlektriko-patini | Techolic | desconocida |
+| /media/urban-glide-all-road-6-2x2-hunt2.webp | https://techolic.gr/products/urbanglide-all-road-6-2x2-hlektriko-patini | Techolic | desconocida |
+| /media/urban-glide-all-road-6-2x2-hunt3.webp | https://cdn.auchan.fr/media/53e519a1-ca8a-486f-8015-c073629a466e_2048x2048/B2CD/ | Auchan (ficha de producto) | desconocida |
+| /media/yadea-c1s-pro-2025-ficha-tecnica-precio-hunt1.webp | https://www.inmoto.it/listino-nuovo/marche/yadea/c1s-pro | InMoto | desconocida |
+| /media/yadea-c1s-pro-2025-ficha-tecnica-precio-hunt2.webp | https://frisonscooter.com/catalogue/yadea-c1s-pro/ | Frison Scooter | desconocida |
+| /media/yadea-c1s-pro-2025-ficha-tecnica-precio-hunt3.webp | https://www.go2roues.com/shop/yadea-c1s-pro/ | Go2Roues | desconocida |
+| /media/alfa-romeo-tonale-hibrida-160-precio-ficha-tecnica-hunt1.webp | https://images.carexpert.com.au/crop/1600/1067/app/uploads/2023/06/2023-Alfa-Romeo-Tonale-Hybrid-Veloce-002.jpg | Carexpert / Alfa Romeo | desconocida |
+| /media/alfa-romeo-tonale-hibrida-160-precio-ficha-tecnica-hunt2.webp | https://www.autojournal.cz/wp-content/uploads/2022/11/2022-Alfa_Romeo_Tonale_Plug-In_Hybrid_Q4-4.jpg | Autojournal.cz | desconocida |
+| /media/alfa-romeo-tonale-hibrida-160-precio-ficha-tecnica-hunt3.webp | https://www.actualidadmotor.com/wp-content/uploads/2024/03/prueba-alfa-romeo-tonale-tributo-italiano-10.jpg | Actualidad Motor | desconocida |
+| /media/genesis-g80-2025-hunt1.webp | https://prodvimg.blob.core.windows.net/processedphotos/assets/stock/Expanded/White/1280/2025GSC01_1280/2025GSC011999034_1280_06_background_upscaled.jpg?timestamp=0001-01-01T00:00:00&bg-color=FFFFFF&width=800 | Concesionario Genesis (DealerOn) | desconocida |
+| /media/jetour-shanhai-l6-2024-precio-ficha-tecnica-hunt1.webp | https://aicarglobal.com/wp-content/uploads/2024/11/Jetour-ShanHai-L6.jpg | AI Car Global | desconocida |
+| /media/jetour-shanhai-l6-2024-precio-ficha-tecnica-hunt2.webp | https://kolesa-uploads.ru/r/880x/de900e1f-c8a9-4f48-9876-d3ee95899b6c/jetour-shanhai-l6-3.jpg | Kolesa.ru | desconocida |
+| /media/jetour-shanhai-l6-2024-precio-ficha-tecnica-hunt3.webp | https://www.euncars.com/wp-content/uploads/2025/10/Jetour-Shanhai-L69-1024x671.jpg | Euncars | desconocida |
+| /media/torrot-muvi-executive-l3-2025-ficha-tecnica-precio-hunt1.webp | https://torrot.com/uploads/_CGSmartImage/img-1bffc4c3e77dc5bef4d08ccd22487666-Muvi-White-3-4.jpg | Torrot (web oficial) | desconocida |
+| /media/torrot-muvi-executive-l3-2025-ficha-tecnica-precio-hunt2.webp | https://www.motocentrumhk.cz/wp-content/uploads/2025/12/img-6bb9b4d00abe772503a66fde58fe5465-muvi-grey-60a523bf47556-1-5.webp | Motocentrum HK | desconocida |
+| /media/torrot-muvi-executive-l3-2025-ficha-tecnica-precio-hunt3.webp | https://www.babiliq.com/wp-content/uploads/2025/09/170620_torrot_muvi_raw_0179-5ba3fa8806f87-scaled.jpg | Babiliq | desconocida |
+| /media/alfa-romeo-junior-elettrica-veloce-280-precio-ficha-tecnica-hunt1.webp | https://www.dailyrevs.com/cars/2025-alfa-romeo-junior-veloce | DailyRevs | desconocida |
+| /media/alfa-romeo-junior-elettrica-veloce-280-precio-ficha-tecnica-hunt2.webp | https://www.dailyrevs.com/cars/2025-alfa-romeo-junior-veloce | DailyRevs | desconocida |
+| /media/alfa-romeo-junior-elettrica-veloce-280-precio-ficha-tecnica-hunt3.webp | https://cars4starters.com.au/the-alfa-junior-for-grownups/ | Cars4Starters | desconocida |
+| /media/jetour-t2-i-dm-xwd-2026-precio-ficha-tecnica-hunt1.webp | https://jetourglobal.com/T2iDM | Jetour Global (foto oficial de prensa) | desconocida |
+| /media/jetour-t2-i-dm-xwd-2026-precio-ficha-tecnica-hunt2.webp | https://jetourglobal.com/T2iDM | Jetour (configurador oficial Jetour Iraq) | desconocida |
+| /media/jetour-t2-i-dm-xwd-2026-precio-ficha-tecnica-hunt3.webp | https://www.autocarindia.com/auto-images/jetour-t2-i-dm-image-gallery-439994 | Autocar India | desconocida |
+| /media/torrot-muvi-city-2025-ficha-tecnica-precio-hunt1.webp | https://torrot.com/en/muvi | Torrot (web oficial del producto) | desconocida |
+| /media/torrot-muvi-city-2025-ficha-tecnica-precio-hunt2.webp | https://www.torrot.ae/ | Torrot (distribuidor oficial torrot.ae) | desconocida |
+| /media/torrot-muvi-city-2025-ficha-tecnica-precio-hunt3.webp | https://www.babiliq.com/ | Babiliq | desconocida |
