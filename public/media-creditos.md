@@ -846,3 +846,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/honda-msx125-grom-2025-ficha-tecnica-precio-hunt1.webp | https://moto.honda.fr/motorcycles/range/125cc/msx125/overview.html | Honda France (moto.honda.fr) | desconocida |
 | /media/honda-msx125-grom-2025-ficha-tecnica-precio-hunt2.webp | https://nimes.honda-motos.com/moto-neuve/125-cm3/msx125-2025 | Honda Nimes (concesionario oficial) | desconocida |
 | /media/honda-msx125-grom-2025-ficha-tecnica-precio-hunt3.webp | http://nieuwsmotor.nl/nieuws/persberichten/honda-presenteert-2025-msx-125-grom/ | Nieuwsmotor.nl | desconocida |
+| /media/pure-escape-pro-plus-hunt1.webp | https://pureelectric.com.br/products/escape-pro-suspension | Pure Electric (web oficial) | desconocida |
+| /media/pure-escape-pro-plus-hunt2.webp | https://www.pureelectric.com/products/escape-pro-suspension | Pure Electric (web oficial) | desconocida |
+| /media/pure-escape-pro-plus-hunt3.webp | https://greenride.dk/maerker/pure/ | Greenride | desconocida |
+| /media/lepas-l4-ev-2026-precio-ficha-tecnica-hunt1.webp | https://topauto.co.za/new-models/162408/23-new-cars-announced-at-this-years-festival-of-motoring-in-south-africa/ | topauto.co.za | desconocida |
+| /media/lepas-l4-ev-2026-precio-ficha-tecnica-hunt2.webp | https://paultan.org/bm/ | paultan.org | desconocida |
+| /media/lepas-l4-ev-2026-precio-ficha-tecnica-hunt3.webp | https://www.vehiclesizes.com/cars/lepas/l4/l4-suv-2026/images/152540-sleek-modern-crossover-aerodynamic-distinctive-wheels | vehiclesizes.com | desconocida |
+| /media/arcfox-kaola-2024-precio-ficha-tecnica-hunt1.webp | https://www.planetcarsz.com/img/carros/galeria/2024/01/arcfox-kaola-2024-26-20240122135623-1280x925.jpg | PlanetCarSz | desconocida |
+| /media/arcfox-kaola-2024-precio-ficha-tecnica-hunt2.webp | https://www.planetcarsz.com/img/carros/galeria/2024/01/arcfox-kaola-2024-29-20240122135623-1280x925.jpg | PlanetCarSz | desconocida |
+| /media/arcfox-kaola-2024-precio-ficha-tecnica-hunt3.webp | https://dgmotorscar.com/wp-content/uploads/2025/10/ARCFOX-Kaola-S-2024-PRO-Profile-Shot.jpg | DG Motors Car | desconocida |
+| /media/yamaha-xmax-300-2025-ficha-tecnica-precio-hunt1.webp | https://www.motorrad-bilder.at/thumbs/992x661xfarx272a2c00/slideshows/291/023955/2025_YAM_XMAX300A_EU_MBL2_STA_001_03.jpg | Yamaha (vía 1000PS) | desconocida |
+| /media/yamaha-xmax-300-2025-ficha-tecnica-precio-hunt2.webp | https://www.motorrad-bilder.at/thumbs/992x661xfarx272a2c00/slideshows/291/023955/2025_YAM_XMAX300A_EU_MBL2_STA_002_03.jpg | Yamaha (vía 1000PS) | desconocida |
+| /media/yamaha-xmax-300-2025-ficha-tecnica-precio-hunt3.webp | https://www.motorrad-bilder.at/thumbs/992x661xfarx272a2c00/slideshows/291/023955/2025_YAM_XMAX300A_EU_MBL2_STA_007_03.jpg | Yamaha (vía 1000PS) | desconocida |
+| /media/levc-vn5-2024-precio-ficha-tecnica-hunt1.webp | https://parkers-images.stg.bauersecure.com/wp-images/18548/696x464/071-levc-vn5.jpg | Parkers | desconocida |
+| /media/levc-vn5-2024-precio-ficha-tecnica-hunt2.webp | https://parkers-images.stg.bauersecure.com/wp-images/18548/801x534/070-levc-vn5.jpg | Parkers | desconocida |
+| /media/levc-vn5-2024-precio-ficha-tecnica-hunt3.webp | https://media.drivingelectric.com/image/private/s--xqN2_JiM--/f_auto,t_content-image-full-desktop@1/v1597802587/drivingelectric/2020-07/levc_vn5_007_0.jpg | DrivingElectric | desconocida |
+| /media/bentley-continental-gt-azure-2026-precio-ficha-tecnica-hunt1.webp | https://www.holmanmotorcars.com/inventory/new-2026-bentley-continental-gt-azure-all-wheel-drive-coupe-scbcp2zg2tc027016/ | Holman Motorcars (fotos de inventario oficial del concesionario) | desconocida |
+| /media/bentley-continental-gt-azure-2026-precio-ficha-tecnica-hunt2.webp | https://avadge.com/catalog/bentley/continental-gt-azure-v8-hybrid-2026-1077-680-4-black/ | avadge.com (catálogo) | desconocida |
+| /media/bentley-continental-gt-azure-2026-precio-ficha-tecnica-hunt3.webp | https://www.hdcarwallpapers.com/2026_bentley_continental_gt_azure_interior-wallpapers | hdcarwallpapers.com | desconocida |
+| /media/lexus-nx-350h-2024-precio-ficha-tecnica-hunt1.webp | https://www.overstockedcars.com/car/2024-lexus-nx-350h/2T2GKCEZ2RC029936 | CarMax (via overstockedcars.com) | desconocida |
+| /media/lexus-nx-350h-2024-precio-ficha-tecnica-hunt2.webp | https://www.regencylexus.com/en/new-catalog/lexus/2024-lexus-nx-hybrid-350h-id24590 | Regency Lexus (catálogo oficial del producto) | desconocida |
+| /media/lexus-nx-350h-2024-precio-ficha-tecnica-hunt3.webp | https://www.luminfolsommitsubishi.com/used-Folsom-2024-Lexus-NX-350h+Premium-JTJGKCEZ2R2024994 | Lumin Folsom Mitsubishi (foto de inventario) | desconocida |
+| /media/bentley-continental-gtc-2026-precio-ficha-tecnica-hunt1.webp | https://carbookmagazine.com/2026/05/bentley-gtc-speed-goes-hybrid/ | CarBook Magazine (foto de prensa Bentley) | desconocida |
+| /media/bentley-continental-gtc-2026-precio-ficha-tecnica-hunt2.webp | https://www.bramanbentley.net/new/Bentley/2026-Bentley-Continental-GTC-d4a239d3ac18437cdf4a076db4d04db7.htm | Braman Bentley Miami | desconocida |
+| /media/bentley-continental-gtc-2026-precio-ficha-tecnica-hunt3.webp | https://www.postoakmotors.com/2026/Bentley/Continental-GTC/SCBDP4ZG8TC024928/ | Post Oak Motor Cars | desconocida |
