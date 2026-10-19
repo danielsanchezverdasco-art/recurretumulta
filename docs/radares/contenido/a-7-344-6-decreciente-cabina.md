@@ -12,6 +12,14 @@
 
 La Dirección General de Tráfico ubica esta caja en la **A-7 a la altura del pk 344,6**, en territorio de Valencia. El control se ejerce sobre el **sentido decreciente** de la circulación (hitos kilométricos decrecientes). El término municipal es **Torrent**, asignado por geocodificación oficial sobre las coordenadas exactas. El control fijo de la DGT más próximo es el de la **A-7, pk 349,7** (sentido creciente), a 5,1 km hacia el sureste.
 
+<iframe title="Mapa: radar a-7-344-6-decreciente-cabina" src="https://www.google.com/maps?q=39.41256,-0.50157&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-7-344-6-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.41256,-0.50157&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 Es la A-7: la Autovía del Mediterráneo, el gran corredor del litoral. El carácter de la vía atrae tanto al transportista como al conductor ocasional. El escenario es la llanura litoral valenciana, con su fisonomía propia.
