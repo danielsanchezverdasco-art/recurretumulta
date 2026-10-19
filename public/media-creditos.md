@@ -4583,3 +4583,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/zontes-e125-hunt1.webp | http://mujeresmoteras.com/wp-content/uploads/ZONTES-E125-2024_05-scaled.jpg | Mujeres Moteras | desconocida |
 | /media/zontes-e125-hunt2.webp | https://www.ramirezmoto.es/admin/pictures/zoom/zontes-e125-rojo-11.jpg | Ramírez Moto | desconocida |
 | /media/zontes-e125-hunt3.webp | https://mymotorss.com/wp-content/uploads/2024/02/BIKESREPUBLIC.COM-ZONTES-E125-ZONTES-E125-NG-7-KNKcVm.jpeg | BikesRepublic (vía MyMotorss) | desconocida |
+| /media/denza-n8l-ev-2026-precio-ficha-tecnica-hunt1.webp | https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/denza-n8l-front-quarter-tracking.jpg | Autocar | desconocida |
+| /media/denza-n8l-ev-2026-precio-ficha-tecnica-hunt2.webp | https://cnevpost.com/wp-content/uploads/2025/10/2025102814034525.jpg | CnEVPost | desconocida |
+| /media/denza-n8l-ev-2026-precio-ficha-tecnica-hunt3.webp | https://www.auto-in-china.com/wp-content/uploads/2025/10/2025-Denza-N8L-space-for-whole-familiy.webp | Auto in China | desconocida |
+| /media/keeway-k-light-250v-hunt1.webp | https://stage-images.carandbike.com/bike-images/colors/keeway/k-light-250v/keeway-k-light-250v-matte-black.jpg?v=1751957305 | CarAndBike | desconocida |
+| /media/keeway-k-light-250v-hunt2.webp | https://images.drivespark.com/kn/img/2025/07/keewayk-light250v-1200x675-1751874462.jpeg | DriveSpark | desconocida |
+| /media/keeway-k-light-250v-hunt3.webp | https://motoringworld.in/wp-content/uploads/2022/07/keeway-k-light-250V.jpg | Motoring World | desconocida |
+| /media/volkswagen-e-caravelle-2026-hunt1.webp | https://www.completecar.ie/img/galleries/13908/volkswagen_e_caravelle_blue_2025_026.jpg | CompleteCar.ie | desconocida |
+| /media/volkswagen-e-caravelle-2026-hunt2.webp | https://www.completecar.ie/img/galleries/13908/volkswagen_e_caravelle_blue_2025_037.jpg | CompleteCar.ie | desconocida |
+| /media/volkswagen-e-caravelle-2026-hunt3.webp | https://www.completecar.ie/img/galleries/13908/volkswagen_e_caravelle_blue_2025_013.jpg | CompleteCar.ie | desconocida |
+| /media/denza-z-coupe-2026-precio-ficha-tecnica-hunt1.webp | https://media.autoexpress.co.uk/image/private/s--QgOdOl42--/f_auto,t_content-image-full-desktop@1/v1783592614/autoexpress/2026/07/Denza%20Z.jpg | Denza / Auto Express | desconocida |
+| /media/denza-z-coupe-2026-precio-ficha-tecnica-hunt2.webp | https://www.autoblog.gr/wp-content/photos/2026/denza-z-coupe/denza-z-3.jpg | Denza / Autoblog.gr | desconocida |
+| /media/denza-z-coupe-2026-precio-ficha-tecnica-hunt3.webp | https://www.autoblog.gr/wp-content/photos/2026/denza-z-coupe/denza-z-4.jpg | Denza / Autoblog.gr | desconocida |
+| /media/ducati-multistrada-v4-2026-ficha-tecnica-precio-hunt1.webp | https://cdn-fastly.motorcycle.com/media/2026/02/15/020234/media.jpg?size=1200x628 | Ducati / Motorcycle.com | desconocida |
+| /media/ducati-multistrada-v4-2026-ficha-tecnica-precio-hunt2.webp | https://www.motortravel.it/uploads/2/7/9/1/27911427/my25-ducati-multistrada-v4s-08_1.jpg | Ducati / MotoTravel.it | desconocida |
+| /media/ducati-multistrada-v4-2026-ficha-tecnica-precio-hunt3.webp | https://bikereview.com.au/wp-content/uploads/2026/06/Bikereview_2026_Ducati_Multistrada_V4_S-5-2.jpg | Ducati / BikeReview.com.au | desconocida |
+| /media/toyota-corolla-cross-2026-hunt1.webp | https://gaadiwaadi.com/wp-content/uploads/2025/05/Toyota_2026_Corolla-Cross_XLE_001-1.jpg | Toyota / GaadiWaadi | desconocida |
+| /media/toyota-corolla-cross-2026-hunt2.webp | https://images.drivespark.com/img/2025/05/toyota-corolla-cross-1746721885196-1200x675_temp.jpg | Toyota / DriveSpark | desconocida |
+| /media/toyota-corolla-cross-2026-hunt3.webp | https://www.conceptcarz.com/images/Toyota/2026_toyota-corolla-cross-i1-1680.jpg | Toyota / ConceptCarz | desconocida |
+| /media/volvo-v60-cross-country-2025-precio-ficha-tecnica-hunt1.webp | https://www.motordonkey.com/images/volvo/v60-cross-country/2025/16x9/2025-volvo-v60-cross-country-driving-front-view-1280.jpg | Volvo / MotorDonkey | desconocida |
+| /media/volvo-v60-cross-country-2025-precio-ficha-tecnica-hunt2.webp | https://images.dealer.com/ddc/vehicles/2025/Volvo/V60%20Cross%20Country/Wagon/trim_B5_Ultra_e446ee/perspective/side-left/2025_76.png | Volvo (imagen oficial del concesionario) | desconocida |
+| /media/volvo-v60-cross-country-2025-precio-ficha-tecnica-hunt3.webp | https://www.gearpatrol.com/wp-content/uploads/sites/2/2025/12/2025-Volvo-V60-Cross-Country-LEAD.webp | Volvo / Gear Patrol | desconocida |
+| /media/dongfeng-box-2025-precio-ficha-tecnica-hunt1.webp | https://dongfeng.mk/wp-content/uploads/2025/04/b4ee29ea-3781-419c-a277-fe09093c79a4.png | Dongfeng Macedonia (importador oficial) | desconocida |
+| /media/dongfeng-box-2025-precio-ficha-tecnica-hunt2.webp | https://dongfeng.sg/wp-content/uploads/2025/11/BOX-Blue.png | Dongfeng Singapur (importador oficial) | desconocida |
+| /media/dongfeng-box-2025-precio-ficha-tecnica-hunt3.webp | https://fleetnews.gr/wp-content/uploads/2025/03/Dongfeng-BOX-03-696x522.jpg | Fleetnews.gr | desconocida |
