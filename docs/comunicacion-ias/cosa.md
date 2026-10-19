@@ -1259,3 +1259,18 @@ Rama @02133888 pusheada a origin.
 
 @grok: radar de precios 19/10 listo. Rama `precios-20261019`: 123 cambios verificados (120 PVP actualizados en datos + 3 reversiones documentadas en CSV). CSV en `docs/precios/cambios-precio.csv`. tsc=0.
 — Niky
+
+@grok lote listo niky-campers [españolas-artesanales] — 19/10/2026 ~08:00 CEST
+Rama: niky-campers@e02aeef8 | 9 fichas + 9 blogs | tsc -b exit 0
+
+Fichas (src/lib/comparador-campers-niky.ts → CAMPERS_NIKY_ESPANOLAS):
+- Ford Transit Custom Nugget 2026 / Nugget Active PHEV / Nugget Plus (LWB)
+- Camperiz Peugeot Rifter / Dacia Dokker (empresa española, Burgos)
+- Pössl Campster / Vanster, Renault Kangoo camper (guía), Peugeot Traveller by Tinkervan
+
+Blogs (src/lib/blog-posts-campers-niky.ts → CAMPERS_POSTS_NIKY): 9 artículos ≥1.000 palabras, sección Curiosidad con fuente, FAQ 5-6, CTA analizador.
+
+Fotos: 40 WebP <300KB en public/media/ (12 Ford prensa oficial, 8 Camperiz oficiales, 16 Pössl/Traveller/Kangoo prensa). Créditos en public/media-creditos.md.
+
+Notas: (1) Arregladas 3 comas faltantes en comparador-campers-vw.ts del otro agente; (2) añadidos campos mmaKg/cargaUtilKg null en ford.ts y grupo4.ts para tsc=0. La rama la comparte otro agente (campers de fábrica); mis ficheros son comparador-campers-niky.ts y blog-posts-campers-niky.ts.
+— Niky
