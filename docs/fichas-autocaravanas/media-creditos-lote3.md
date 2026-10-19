@@ -93,6 +93,10 @@ Pausa temporal 19/10/2026: 50 fichas de autocaravanas. Fotos con modelo+marca ex
 - `public/media/dethleffs-just-go-t-7055-dbl-2026-precio-ficha-tecnica-detalle.webp` — OFICIAL — Web oficial Dethleffs, gama Just Go 2026: baño (1400 px). — fuente: https://www.dethleffs.de/dethleffs/01_DE/01_bilddaten_2024-25/02_wohnmobile/05_just_go/04_highlights/03_bad/image-thumb__82142__wls-special-equipment/just_go_bad_1.jpg
 
 ## dreamer-d62-select-2026-precio-ficha-tecnica
+- `public/media/dreamer-d62-select-2026-precio-ficha-tecnica-oficial.webp` — OFICIAL — Foto de prensa oficial del importador alemán Dreamer (dreamer-wohnmobile.de): exterior 3/4 del D62 Select 2026, insignias 'D62' y 'Dreamer' visibles — fuente: https://dreamer-wohnmobile.de/wp-content/uploads/2025/11/d62_select_ext.webp
+- `public/media/dreamer-d62-select-2026-precio-ficha-tecnica-detalle.webp` — no oficial — Exterior real del Dreamer D62 Select (foto de prensa, revista alemana Reisemobil International, prueba del D62 Select) — fuente: https://reisemobil-international.de/wp-content/uploads/2019/11/Dreamer-D62-Select-Limited1.jpg
+- `public/media/dreamer-d62-select-2026-precio-ficha-tecnica-interior1.webp` — no oficial — Interior: salón del Dreamer D62 Select (foto de prensa, revista alemana Reisemobil International, prueba del D62 Select) — fuente: https://reisemobil-international.de/wp-content/uploads/2019/11/Dreamer-D62-Select-Limited2.jpg
+- `public/media/dreamer-d62-select-2026-precio-ficha-tecnica-interior2.webp` — no oficial — Interior: cama a la francesa del Dreamer D62 Select (foto de prensa, revista alemana Reisemobil International, prueba del D62 Select) — fuente: https://reisemobil-international.de/wp-content/uploads/2019/11/Dreamer-D62-Select-Limited4.jpg
 
 
 ## dreamer-d68-up-2026-precio-ficha-tecnica
