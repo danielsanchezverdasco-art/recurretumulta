@@ -11,6 +11,14 @@
 ## Dónde está el radar
 La cabina vigila la A-1 en el pk 125,49, término de Fresno de la Fuente (Segovia): 41.4027, -3.6512. El enlace de Street View de la cabecera muestra el punto exacto. Controla el sentido decreciente —pks descendentes—, que aquí va hacia Madrid, destino que la DGT asigna al punto.
 
+<iframe title="Mapa: radar a-1-125-5-decreciente-cabina" src="https://www.google.com/maps?q=41.4027,-3.6512&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-1-125-5-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=41.4027,-3.6512&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## Qué límite cuenta
 La DGT no publica el límite de cada radar. La ficha recoge el genérico del art. 48 del Reglamento General de Circulación para autopistas y autovías —120 km/h en turismos y motos—, porque el XML clasifica la vía como «AUTOPISTA / AUTOVÍA». Es una referencia por tipo de vía, no del tramo: solo la señalización obliga, y prevalece siempre.
 
