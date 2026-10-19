@@ -12,6 +12,14 @@
 
 La AG-11, a su paso por Boiro (A Coruña), alberga esta cabina en el pk 20,0; coordenadas 42.6752, -8.842166. Vigila el sentido decreciente —vehículos hacia pks menores—, con destino Padrón según el registro. Street View ofrece una vista del lugar desde la autovía.
 
+<iframe title="Mapa: radar ag-11-20-0-decreciente-cabina" src="https://www.google.com/maps?q=42.6752,-8.842166&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar ag-11-20-0-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.6752,-8.842166&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La AG-11 es una autovía autonómica gallega, titularidad de la Xunta de Galicia. La DGT la clasifica en su XML como «AUTOPISTA / AUTOVÍA», categoría de las vías de alta capacidad. El fichero no describe la vía con más detalle y esta ficha no inventa ninguno.
