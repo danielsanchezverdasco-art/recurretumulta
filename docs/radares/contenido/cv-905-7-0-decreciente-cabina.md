@@ -12,6 +12,14 @@
 
 Esta caja vigila la **CV-905 en el punto kilométrico 7,0**, dentro de Alicante. Supervisa el **sentido decreciente**, el del avance hacia puntos kilométricos decrecientes. El término municipal es **Torrevieja**, asignado por geocodificación oficial sobre las coordenadas exactas. A 9,0 km hacia el norte está el control más próximo, el de la **CV-91, pk 18,9** (sentido decreciente).
 
+<iframe title="Mapa: radar cv-905-7-0-decreciente-cabina" src="https://www.google.com/maps?q=38.01639,-0.69917&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cv-905-7-0-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.01639,-0.69917&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 Se trata de la CV-905, vía de titularidad autonómica en Alicante. El flujo combina puntas horarias laborales con movimientos de ocio de fin de semana. Nos movemos en el ámbito de las comarcas del sur de la Comunitat Valenciana.
