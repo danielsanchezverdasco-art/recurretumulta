@@ -1158,3 +1158,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/byd-dolphin-g-dmi-boost-2026-precio-ficha-tecnica-hunt1.webp | https://www.autonocion.com/prueba-byd-dolphin-g-dm-i/ | Autonoción | desconocida |
 | /media/byd-dolphin-g-dmi-boost-2026-precio-ficha-tecnica-hunt2.webp | https://www.autonocion.com/prueba-byd-dolphin-g-dm-i/ | Autonoción | desconocida |
 | /media/byd-dolphin-g-dmi-boost-2026-precio-ficha-tecnica-hunt3.webp | https://www.autonocion.com/prueba-byd-dolphin-g-dm-i/ | Autonoción | desconocida |
+| /media/triumph-bonneville-t100-2025-ficha-tecnica-precio-hunt1.webp | https://images5.1000ps.net/images_bikekat/2025/37-Triumph/1555-Bonneville_T100/001-638658097080036714-triumph-bonneville-t100.jpg | 1000PS (foto oficial Triumph) | desconocida |
+| /media/triumph-bonneville-t100-2025-ficha-tecnica-precio-hunt2.webp | https://images5.1000ps.net/images_bikekat/2025/37-Triumph/1555-Bonneville_T100/020-638658097099286898-triumph-bonneville-t100.jpg | 1000PS (foto oficial Triumph) | desconocida |
+| /media/triumph-bonneville-t100-2025-ficha-tecnica-precio-hunt3.webp | https://images5.1000ps.net/images_bikekat/2025/37-Triumph/1555-Bonneville_T100/009-638658097087544168-triumph-bonneville-t100.jpg | 1000PS (foto oficial Triumph) | desconocida |
+| /media/gac-trumpchi-gs4-max-2026-precio-ficha-tecnica-hunt1.webp | https://noticias.autocosmos.cl/2026/10/08/gac-gs4-max-en-chile-un-suv-mediano-que-apuesta-por-la-eficiencia-y-la-seguridad | Autocosmos (fotos de prensa) | desconocida |
+| /media/gac-trumpchi-gs4-max-2026-precio-ficha-tecnica-hunt2.webp | https://noticias.autocosmos.cl/2026/10/08/gac-gs4-max-en-chile-un-suv-mediano-que-apuesta-por-la-eficiencia-y-la-seguridad | Autocosmos (fotos de prensa) | desconocida |
+| /media/gac-trumpchi-gs4-max-2026-precio-ficha-tecnica-hunt3.webp | https://noticias.autocosmos.cl/2026/10/08/gac-gs4-max-en-chile-un-suv-mediano-que-apuesta-por-la-eficiencia-y-la-seguridad | Autocosmos (fotos de prensa) | desconocida |
+| /media/subaru-solterra-2026-precio-ficha-tecnica-hunt1.webp | https://www.autonocion.com/subaru-solterra-2026/ | Autonoción | desconocida |
+| /media/subaru-solterra-2026-precio-ficha-tecnica-hunt2.webp | https://www.autonocion.com/subaru-solterra-2026/ | Autonoción | desconocida |
+| /media/subaru-solterra-2026-precio-ficha-tecnica-hunt3.webp | https://www.autonocion.com/subaru-solterra-2026/ | Autonoción | desconocida |
+| /media/aprilia-tuono-660-factory-2025-ficha-tecnica-precio-hunt1.webp | https://www.motofichas.com/marcas/aprilia/tuono-660-factory | Motofichas (fotos oficiales Aprilia) | desconocida |
+| /media/aprilia-tuono-660-factory-2025-ficha-tecnica-precio-hunt2.webp | https://www.motofichas.com/marcas/aprilia/tuono-660-factory | Motofichas (fotos oficiales Aprilia) | desconocida |
+| /media/aprilia-tuono-660-factory-2025-ficha-tecnica-precio-hunt3.webp | https://www.motofichas.com/marcas/aprilia/tuono-660-factory | Motofichas (fotos oficiales Aprilia) | desconocida |
+| /media/chery-tiggo-4-csh-2026-precio-ficha-tecnica-hunt1.webp | https://www.officialchery.com/file/tiggocrosscsh-01.jpg | Chery (prensa oficial, officialchery.com) | desconocida |
+| /media/chery-tiggo-4-csh-2026-precio-ficha-tecnica-hunt2.webp | https://www.officialchery.com/file/tiggocrosscsh-02.jpg | Chery (prensa oficial, officialchery.com) | desconocida |
+| /media/chery-tiggo-4-csh-2026-precio-ficha-tecnica-hunt3.webp | https://news-it.gr/wp-content/uploads/2026/05/Chery-Tiggo4-interior.jpg | news-it.gr (foto de prensa de Chery) | desconocida |
+| /media/chery-tiggo-7-csh-2026-precio-ficha-tecnica-hunt1.webp | https://www.zigwheels.my/new-cars/chery/tiggo-7-phev/images | ZigWheels Malaysia | desconocida |
+| /media/chery-tiggo-7-csh-2026-precio-ficha-tecnica-hunt2.webp | https://www.zigwheels.my/new-cars/chery/tiggo-7-phev/images | ZigWheels Malaysia | desconocida |
+| /media/chery-tiggo-7-csh-2026-precio-ficha-tecnica-hunt3.webp | https://www.zigwheels.my/new-cars/chery/tiggo-7-phev/images | ZigWheels Malaysia | desconocida |
+| /media/gac-trumpchi-gs3-emzoom-2025-precio-ficha-tecnica-hunt1.webp | https://www.zigwheels.ph/new-cars/gac/gs3-emzoom/images | ZigWheels Philippines | desconocida |
+| /media/gac-trumpchi-gs3-emzoom-2025-precio-ficha-tecnica-hunt2.webp | https://www.zigwheels.ph/new-cars/gac/gs3-emzoom/images | ZigWheels Philippines | desconocida |
+| /media/gac-trumpchi-gs3-emzoom-2025-precio-ficha-tecnica-hunt3.webp | https://www.zigwheels.ph/new-cars/gac/gs3-emzoom/images | ZigWheels Philippines | desconocida |
+| /media/chery-tiggo-8-csh-2025-precio-ficha-tecnica-hunt1.webp | https://www.cherycar.co.uk/models/tiggo-8-csh | desconocida |  |
+| /media/chery-tiggo-8-csh-2025-precio-ficha-tecnica-hunt2.webp | https://www.cherycar.co.uk/motability | desconocida |  |
+| /media/chery-tiggo-8-csh-2025-precio-ficha-tecnica-hunt3.webp | https://www.chery.com.ec/tiggo-8-phev-csh-chery-ecuador | desconocida |  |
