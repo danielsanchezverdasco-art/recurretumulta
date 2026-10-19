@@ -12,6 +12,14 @@
 
 Hablamos del **pk 5,1 de la N-225**, en la provincia de Castellón. Su ámbito es el **sentido creciente**: la dirección en que los hitos kilométricos van crecientes. Estas coordenadas pertenecen a **Alfara de la Baronia** según el geocodificador del IGN. El control fijo de la DGT más próximo es el de la **A-23, pk 19,8** (sentido creciente), a 5,7 km hacia el noroeste.
 
+<iframe title="Mapa: radar n-225-5-1-creciente-cabina" src="https://www.google.com/maps?q=39.76966,-0.34046&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-225-5-1-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.76966,-0.34046&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La vía es una nacional de la red estatal: la N-225 en Castellón. Conviven en el asfalto los trayectos largos y los recorridos cortos del entorno. Por aquí domina el paisaje de la costa de Castellón.
