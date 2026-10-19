@@ -26,11 +26,13 @@ export const AUTOCARAVANAS_ADRIA_M1: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/adria-twin-supreme-640-sgx-2026-precio-ficha-tecnica-ext.webp",
+    imagen: "/media/adria-twin-supreme-640-sgx-2026-precio-ficha-tecnica-oficial.webp",
     imagenOficial:
-      "/media/adria-twin-supreme-640-sgx-2026-precio-ficha-tecnica-ext.webp",
+      "/media/adria-twin-supreme-640-sgx-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/adria-twin-supreme-640-sgx-2026-precio-ficha-tecnica-interior.webp",
+      "/media/adria-twin-supreme-640-sgx-2026-precio-ficha-tecnica-oficial-interior.webp",
+    curiosidades:
+      "Curiosidad: el SGX es la única distribución de la gama Adria Twin que puede equipar la plataforma deslizante opcional para cargar bicicletas y material deportivo en el garaje sin esfuerzo, según la web oficial de la marca (fuente: https://www.adria-mobil.com/vans/twin).",
     videoId: null,
     videoCanal: null,
     largoMm: 6363, // catálogo oficial Campervans 26/27
@@ -79,6 +81,30 @@ Para quién es: la Twin Supreme 640 SGX es para parejas que quieren una camper p
     ],
     opiniones: [],
     galeria: [
+      {
+        src: "/media/adria-twin-supreme-640-sgx-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Adria Twin Supreme 640 SGX, exterior en ruta",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/adria-twin-supreme-640-sgx-2026-precio-ficha-tecnica-oficial-ext2.webp",
+        alt: "Adria Twin Supreme 640 SGX 2026, vista delantera (imagen oficial)",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/adria-twin-supreme-640-sgx-2026-precio-ficha-tecnica-oficial-interior.webp",
+        alt: "Interior de la Adria Twin Supreme 640 SGX: cama trasera elevable eléctrica con garaje",
+        ancho: 720,
+        alto: 1080,
+      },
+      {
+        src: "/media/adria-twin-supreme-640-sgx-2026-precio-ficha-tecnica-oficial-interior2.webp",
+        alt: "Interior de la Adria Twin Supreme 640 SGX: cocina y zona de estar",
+        ancho: 1200,
+        alto: 800,
+      },
       {
         src: "/media/adria-twin-supreme-640-sgx-2026-precio-ficha-tecnica-ext.webp",
         alt: "Adria Twin Supreme 640 SGX, vista lateral",
@@ -135,11 +161,13 @@ Para quién es: la Twin Supreme 640 SGX es para parejas que quieren una camper p
   garantiaBateriaAnos: null,
   garantiaBateriaKm: null,
   garantiaBateriaDegradacionPct: null,
-  imagen: "/media/adria-coral-plus-670-sl-2026-precio-ficha-tecnica-ext.webp",
+  imagen: "/media/adria-coral-plus-670-sl-2026-precio-ficha-tecnica-oficial.webp",
   imagenOficial:
-  "/media/adria-coral-plus-670-sl-2026-precio-ficha-tecnica-ext.webp",
+  "/media/adria-coral-plus-670-sl-2026-precio-ficha-tecnica-oficial.webp",
   imagenInteriorOficial:
-  "/media/adria-coral-plus-670-sl-2026-precio-ficha-tecnica-interior.webp",
+  "/media/adria-coral-plus-670-sl-2026-precio-ficha-tecnica-oficial-interior.webp",
+  curiosidades:
+    "Curiosidad: la Coral equipa de serie un doble techo panorámico practicable (Skyroof): dos grandes cristales abatibles sobre el salón que inundan de luz cenital una perfilada de 7,49 m, la seña de identidad más reconocible de la gama (fuente: https://www.adria-mobil.com/motorhomes/coral).",
   videoId: null,
   videoCanal: null,
   largoMm: 7495, // catálogo oficial Motorhomes 26/27 (7.495 mm)
@@ -190,6 +218,30 @@ Para quién es: la Coral Plus 670 SL es para parejas viajeras que quieren una pe
   ],
   opiniones: [],
   galeria: [
+  {
+  src: "/media/adria-coral-plus-670-sl-2026-precio-ficha-tecnica-oficial.webp",
+  alt: "Adria Coral Plus 670 SL, vista exterior tres cuartos",
+  ancho: 1200,
+  alto: 675,
+  },
+  {
+  src: "/media/adria-coral-plus-670-sl-2026-precio-ficha-tecnica-oficial-ext2.webp",
+  alt: "Adria Coral 670 SL, cabina y puerta de acceso",
+  ancho: 1200,
+  alto: 800,
+  },
+  {
+  src: "/media/adria-coral-plus-670-sl-2026-precio-ficha-tecnica-oficial-interior.webp",
+  alt: "Interior de la Adria Coral 670 SL: salón con Skyroof panorámico",
+  ancho: 1200,
+  alto: 800,
+  },
+  {
+  src: "/media/adria-coral-plus-670-sl-2026-precio-ficha-tecnica-oficial-interior2.webp",
+  alt: "Interior de la Adria Coral 670 SL: salón y cabina con techo panorámico",
+  ancho: 1200,
+  alto: 800,
+  },
   {
   src: "/media/adria-coral-plus-670-sl-2026-precio-ficha-tecnica-ext.webp",
   alt: "Adria Coral Plus 670 SL, vista tres cuartos delantera",
