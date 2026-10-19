@@ -2891,3 +2891,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/rieju-aventura-125-2024-ficha-tecnica-precio-hunt1.webp | https://cdn-listino.inmoto.it/2023/2/28/AVT_00916_b439249bf4.jpg | Rieju (prensa) vía Inmoto — licencia desconocida | desconocida |
 | /media/rieju-aventura-125-2024-ficha-tecnica-precio-hunt2.webp | https://www.motofichas.com/images/phocagallery/Rieju/aventura-125-2023/01-rieju-aventura-125-2023-estudio-rojo.jpg | Rieju (prensa) vía Motofichas — licencia desconocida | desconocida |
 | /media/rieju-aventura-125-2024-ficha-tecnica-precio-hunt3.webp | https://cdn-listino.inmoto.it/2023/2/28/AVT_01631_2ceefa2eae.jpg | Rieju (prensa) vía Inmoto — licencia desconocida | desconocida |
+| /media/aston-martin-dbx-gt-2026-precio-ficha-tecnica-hunt1.webp | no rastreada (descargada por hunter anterior) | Desconocido | desconocida |
+| /media/aston-martin-dbx-gt-2026-precio-ficha-tecnica-hunt2.webp | no rastreada (descargada por hunter anterior) | Desconocido | desconocida |
+| /media/aston-martin-dbx-gt-2026-precio-ficha-tecnica-hunt3.webp | no rastreada (descargada por hunter anterior) | Desconocido | desconocida |
+| /media/kia-sorento-phev-2025-precio-ficha-tecnica-hunt1.webp | no rastreada (descargada por hunter anterior) | Desconocido | desconocida |
+| /media/kia-sorento-phev-2025-precio-ficha-tecnica-hunt2.webp | no rastreada (descargada por hunter anterior) | Desconocido | desconocida |
+| /media/kia-sorento-phev-2025-precio-ficha-tecnica-hunt3.webp | no rastreada (descargada por hunter anterior) | Desconocido | desconocida |
+| /media/kia-stinger-2024-hunt1.webp |  | Prensa oficial Kia (fuente exacta por confirmar) | desconocida |
+| /media/kia-stinger-2024-hunt2.webp |  | Prensa oficial Kia (fuente exacta por confirmar) | desconocida |
+| /media/kia-stinger-2024-hunt3.webp | https://pistonheads.com/regulars/ph-korean-cars/kia-details-365hp-stinger-gts-facelift/43564 | Kia (foto de prensa, vía PistonHeads) | desconocida |
+| /media/sherco-300-sef-factory-2026-ficha-tecnica-precio-hunt1.webp | https://www.sherco.com/fr/moto/300-sef-factory-2026 | Sherco (web oficial) | desconocida |
+| /media/sherco-300-sef-factory-2026-ficha-tecnica-precio-hunt2.webp | https://enduro24.gr/dokimi-enduro-sherco-300-sef-factory-2026-ola-isioma/ | Enduro24 (prueba real del modelo) | desconocida |
+| /media/sherco-300-sef-factory-2026-ficha-tecnica-precio-hunt3.webp | https://enduro24.gr/dokimi-enduro-sherco-300-sef-factory-2026-ola-isioma/ | Enduro24 (prueba real del modelo) | desconocida |
+| /media/smartgyro-raptor-dual-evo-hunt1.webp |  | Foto oficial del producto (fuente exacta por confirmar) | desconocida |
+| /media/smartgyro-raptor-dual-evo-hunt2.webp |  | Foto oficial del producto (fuente exacta por confirmar) | desconocida |
+| /media/smartgyro-raptor-dual-evo-hunt3.webp | https://www.rinconfriki.es/2025/03/el-smartgyro-raptor-dual-evo-representa-una-revolucion-en-el-mundo-de-la-movilidad-electrica-con-su-sistema-dual-motor-que-ofrece-mayor-potencia-y-control-adaptandose-a-las-necesidades-de-los-riders-mas-exigentes-el-patinete-incorpora-innovaciones-como-luces-fullline-y-frenada-hidraulica-regenerativa-ademas-de-opciones-de-bateria-que-permiten-recorrer-largas-distancias-con-un-rendimiento-optimo.html | Smartgyro (foto de estudio oficial, vía Rincón Friki) | desconocida |
+| /media/honda-xl750-transalp-2025-ficha-tecnica-precio-hunt1.webp | https://soymotero.net/motos/honda/xl750-transalp-2025/ | SoyMotero / fotos de prensa Honda | desconocida |
+| /media/honda-xl750-transalp-2025-ficha-tecnica-precio-hunt2.webp | https://soymotero.net/motos/honda/xl750-transalp-2025/ | SoyMotero / fotos de prensa Honda | desconocida |
+| /media/honda-xl750-transalp-2025-ficha-tecnica-precio-hunt3.webp | https://www.1000ps.com/en-gb/article/3012288/honda-xl750-transalp-2025-the-first-test | 1000PS / fotos de prensa Honda | desconocida |
+| /media/pure-advance-plus-hunt1.webp | https://www.pureelectric.com/pages/scooter-selector | Pure Electric / web oficial | desconocida |
+| /media/pure-advance-plus-hunt2.webp | https://ateliersverts.com/products/pure-advance-plus-electric-scooter | Ateliers Verts / fotos de prensa Pure | desconocida |
+| /media/pure-advance-plus-hunt3.webp | https://pureelectric-scooters.com.au | Pure Electric Scooters AU / fotos de prensa Pure | desconocida |
+| /media/honda-cb750-hornet-2025-ficha-tecnica-precio-hunt1.webp | https://soymotero.net/wp-content/uploads/2024/11/505058_25YM_Honda_CB750_Hornet.jpg | Soymotero.net (foto de prensa Honda) | desconocida |
+| /media/honda-cb750-hornet-2025-ficha-tecnica-precio-hunt2.webp | https://ultimatemotorcycling.com/wp-content/uploads/2025/03/2025-honda-cb750-hornet-first-look-7.webp | UltimateMotorcycling.com | desconocida |
+| /media/honda-cb750-hornet-2025-ficha-tecnica-precio-hunt3.webp | https://storage.googleapis.com/superbike_news/2024/11/2025-Honda-CB750-Hornet-09.jpg | Superbike News (foto de prensa Honda) | desconocida |
