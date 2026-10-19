@@ -10,6 +10,15 @@
 
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=41.72924,-1.04825)
 
+<iframe title="Mapa: radar a-68-255-7-creciente-fijo" src="https://www.google.com/maps?q=41.72924,-1.04825&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-68-255-7-creciente-fijo" src="https://maps.google.com/maps?q=&layer=c&cbll=41.72924,-1.04825&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 > **Cómo lo verificamos:** posición, carretera, punto kilométrico y sentido extraídos del fichero oficial de radares fijos de la DGT (DATEX II), comprobado el 2026-10-18. La DGT no difunde ni el límite de velocidad de este emplazamiento ni el municipio: esta página no los incluye porque no constan en la fuente.
 
 ## Ubicación exacta del control
