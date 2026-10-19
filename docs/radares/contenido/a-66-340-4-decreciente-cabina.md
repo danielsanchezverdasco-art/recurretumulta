@@ -17,6 +17,14 @@ La A-66, Autovía Ruta de la Plata, une Gijón con Sevilla. Junto a la ciudad de
 ## Dónde está
 El pk 340,425 cae en el término municipal de Salamanca (Salamanca). La cabina vigila el sentido decreciente —tráfico hacia pks más bajos—, con destino a Asturias.
 
+<iframe title="Mapa: radar a-66-340-4-decreciente-cabina" src="https://www.google.com/maps?q=40.9499,-5.7086&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-66-340-4-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.9499,-5.7086&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## Cuándo puede multar
 Las cabinas fijas operan sin horario publicado: pueden estar registrando velocidades en cualquier momento del día o de la noche. El cinemómetro mide la velocidad de paso y la compara con el límite aplicable; si se supera, la sanción se notifica con posterioridad por el cauce administrativo habitual.
 
