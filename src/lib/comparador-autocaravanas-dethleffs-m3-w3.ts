@@ -64,7 +64,9 @@ export const AUTOCARAVANAS_DETHLEFFS_M3: Autocaravana[] = [
       "7017 EB (la célula no cambia entre la versión T semi-integral y la I integral). " +
       "Precio orientativo no oficial: 88.999 € para el I 7017 EB según accio.com " +
       "(agregador, sin valor de tarifa). Fotografías oficiales de la marca " +
-      "(dethleffs.de, gama Trend). En null: precioDesde (sin PVP oficial), altura, " +
+      "(dethleffs.de, gama Trend): la marca no publica fotos por variante individual, " +
+      "así que son imágenes de la gama; la foto del dormitorio muestra la versión con cama doble, " +
+      "mientras que el 7017 EB monta camas gemelas (Einzelbetten). En null: precioDesde (sin PVP oficial), altura, " +
       "peso en vacío, consumo, par, tracción y emisiones.",
     curiosidades:
       "En los integrales de la gama Trend la cama abatible eléctrica sobre la cabina " +
