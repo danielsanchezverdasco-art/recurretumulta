@@ -3972,3 +3972,17 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/voge-sr1-125-2025-ficha-tecnica-precio-hunt1.webp | https://images5.1000ps.net/images_bikekat/2026/617-Voge/13058-SR1_125_ABS_TCS/003-639039952734662941-voge-sr1-125-abs-tcs.jpg?width=1920&height=1080&mode=crop&scale=both&format=webp | 1000PS | desconocida |
 | /media/voge-sr1-125-2025-ficha-tecnica-precio-hunt2.webp | https://www.voge.bg/storage/backend/product/187233/main_images/voge-sr1-alb-01-jpg_fjiwx_1736509542.webp | Voge Bulgaria (concesionario oficial) | desconocida |
 | /media/voge-sr1-125-2025-ficha-tecnica-precio-hunt3.webp | https://www.2wo.gr//cache/com_dpfields/gallery/2/900x600/TestDrives/2025/July/VOGE_SR1/VOGE_SR1_2wo_99.jpg | 2wo.gr | desconocida |
+| /media/benelli-502c-2024-ficha-tecnica-precio-hunt1.webp | https://hugobikes.com/2024/11/11/benelli-moto/ | Benelli / HugoBikes | desconocida |
+| /media/benelli-502c-2024-ficha-tecnica-precio-hunt2.webp | https://moto-avilon.ru/benelli/benelli-502c/ | Moto Avilon | desconocida |
+| /media/benelli-502c-2024-ficha-tecnica-precio-hunt3.webp | https://www.rallypoint.it/catalogo/gamma-benelli/naked/benelli-502c/ | Benelli / Rally Point | desconocida |
+| /media/citroen-e-jumper-2026-precio-ficha-tecnica-hunt1.webp | https://www.espaciofurgo.com/cae-de-stellantis-la-ayuda-silenciosa-que-da-hasta-1-000-e-por-tu-nueva-furgoneta-electrica/ | Citroën / EspacioFurgo | desconocida |
+| /media/citroen-e-jumper-2026-precio-ficha-tecnica-hunt2.webp | https://traficmedia.ro/innoire-simultana-stellantis-pro-one-prezinta-noile-game-de-utilitare-peugeot-citroen-opel-si-fiat/ | Stellantis Pro One / TraficMedia | desconocida |
+| /media/citroen-e-jumper-2026-precio-ficha-tecnica-hunt3.webp | https://www.espaciofurgo.com/ficha/citroen-e-jumper/ | EspacioFurgo | desconocida |
+| /media/honda-prologue-2025-precio-ficha-tecnica-hunt1.webp | https://www.richmondhillhonda.com/tire-centre/ | Honda / Richmond Hill Honda | desconocida |
+| /media/honda-prologue-2025-precio-ficha-tecnica-hunt2.webp | https://www.battisonhonda.com/vehicle-details/new-2025-honda-prologue-elite-oklahoma-city-ok-id-62413715 | Battison Honda | desconocida |
+| /media/honda-prologue-2025-precio-ficha-tecnica-hunt3.webp | https://autotest.com.ar/noticias/honda-prologue-2024-primer-suv-electrico/ | Honda / Autotest | desconocida |
+| /media/toyota-proace-city-verso-electric-2025-precio-ficha-tecnica-hunt1.webp | https://kobemotor.es/vehiculos-nuevos/proace-city-verso-ev/toyota-proace-city-verso-electric-family-active-l1-ev-50kwh/ | Toyota Kobe Motor | desconocida |
+| /media/toyota-proace-city-verso-electric-2025-precio-ficha-tecnica-hunt2.webp | https://kobemotor.es/vehiculos-nuevos/proace-city-verso-ev/toyota-proace-city-verso-electric-family-active-l1-ev-50kwh/ | Toyota Kobe Motor | desconocida |
+| /media/toyota-proace-city-verso-electric-2025-precio-ficha-tecnica-hunt3.webp | https://www.vertumotors.com/toyota/proace-city-verso/ | Vertu Motors | desconocida |
+| /media/westfalia-sven-hedin-man-tge-2026-precio-ficha-tecnica-hunt1.webp | https://www.caravans.nl/westfalia/westfalia-sven-hedin-man-tge-slideout-1050081.html | Caravans.nl | desconocida |
+| /media/westfalia-sven-hedin-man-tge-2026-precio-ficha-tecnica-hunt2.webp | https://www.caravans.nl/westfalia/westfalia-sven-hedin-man-tge-slideout-1050081.html | Caravans.nl | desconocida |
