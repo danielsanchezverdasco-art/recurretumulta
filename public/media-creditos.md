@@ -2394,3 +2394,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/beijing-x7-2024-precio-ficha-tecnica-hunt1.webp | https://www.icartea.com/en/news/Review-of-the-2024-Baic-X7-6211 | icartea.com | desconocida |
 | /media/beijing-x7-2024-precio-ficha-tecnica-hunt2.webp | https://mungart.com/search/%D8%A8%DB%8C%D8%AC%DB%8C%D9%86%DA%AF%20X7%20%D8%AA%D9%88%D8%B1%D8%A8%D9%88 | gadgetnews.net | desconocida |
 | /media/beijing-x7-2024-precio-ficha-tecnica-hunt3.webp | https://www.masmotors.ru/car/baic/x-7 | masmotors.ru | desconocida |
+| /media/beijing-bj30-hev-2025-precio-ficha-tecnica-hunt1.webp | https://ymimg1.b8cdn.com/uploads/article/9660/pictures/13609552/baic-bj30-04.webp | YallaMotor | desconocida |
+| /media/beijing-bj30-hev-2025-precio-ficha-tecnica-hunt2.webp | https://d3jvxfsgjxj1vz.cloudfront.net/news/wp-content/uploads/2024/12/06201049/baic-bj30-launched-in-uae-3.jpg | DubiCars | desconocida |
+| /media/beijing-bj30-hev-2025-precio-ficha-tecnica-hunt3.webp | https://img.motonews.pl/ncars-new/baic-bj30-2025_5.jpg | MotoNews | desconocida |
+| /media/arcfox-kaola-s-2024-precio-ficha-tecnica-hunt1.webp | https://www.car250.com/arcfox-kaola-s-mpv-2024-08.html | Car250 | desconocida |
+| /media/arcfox-kaola-s-2024-precio-ficha-tecnica-hunt2.webp | https://www.dailyrevs.com/cars/2024-arcfox-kaola-s | Dailyrevs | desconocida |
+| /media/arcfox-kaola-s-2024-precio-ficha-tecnica-hunt3.webp | https://aicarglobal.com/product/arcfox-kaola-s/ | Aicar Global | desconocida |
+| /media/bentley-continental-gt-mulliner-2026-precio-ficha-tecnica-hunt1.webp | https://intensive911.com/english-car-brand/bentley/346920 | intensive911.com (imagen de prensa Bentley) | desconocida |
+| /media/bentley-continental-gt-mulliner-2026-precio-ficha-tecnica-hunt2.webp | https://www.mph.com/autos/listing/2026/bentley/continental-gt%20mulliner-87/369222 | mph.com (anuncio 2026 Bentley Continental GT Mulliner) | desconocida |
+| /media/bentley-continental-gt-mulliner-2026-precio-ficha-tecnica-hunt3.webp | https://bentley-neuwagen.com/produkt/bentley-new-continental-gt-mulliner-my26/ | bentley-neuwagen.com | desconocida |
+| /media/lexus-rx-350h-2024-precio-ficha-tecnica-hunt1.webp | https://pressroom.lexus.com/album/2024-lexus-rx-350h/ | Lexus Press Room | desconocida |
+| /media/lexus-rx-350h-2024-precio-ficha-tecnica-hunt2.webp | https://pressroom.lexus.com/album/2024-lexus-rx-350h/ | Lexus Press Room | desconocida |
+| /media/lexus-rx-350h-2024-precio-ficha-tecnica-hunt3.webp | https://pressroom.lexus.com/album/2024-lexus-rx-350h/ | Lexus Press Room | desconocida |
+| /media/rolls-royce-cullinan-series-ii-2026-precio-ficha-tecnica-hunt1.webp | https://tailoreddriver.com/color-check-rolls-royce-cullinan-series-ii-in-salamanca-blue/ | tailoreddriver.com (foto de prensa Rolls-Royce) | desconocida |
+| /media/rolls-royce-cullinan-series-ii-2026-precio-ficha-tecnica-hunt2.webp | https://tailoreddriver.com/color-check-rolls-royce-cullinan-series-ii-in-monteverde/ | tailoreddriver.com (foto de prensa Rolls-Royce) | desconocida |
+| /media/rolls-royce-cullinan-series-ii-2026-precio-ficha-tecnica-hunt3.webp | https://blog.bramanrolls-roycepalmbeach.com/2026-rolls-royce-cullinan-refined-luxury-suv/ | blog.bramanrolls-roycepalmbeach.com | desconocida |
+| /media/bentley-continental-gtc-mulliner-2026-precio-ficha-tecnica-hunt1.webp | https://www.headlightmag.com/hlmwp/wp-content/uploads/2024/10/Continental-GTC-Mulliner-5.jpg | Headlight Magazine (foto oficial de prensa de Bentley) | desconocida |
+| /media/bentley-continental-gtc-mulliner-2026-precio-ficha-tecnica-hunt2.webp | https://bentley-neuwagen.com/produkt/bentley-new-continental-gtc-mulliner-my26/ | Bentley Neuwagen / Fotostudio Purkart | desconocida |
+| /media/bentley-continental-gtc-mulliner-2026-precio-ficha-tecnica-hunt3.webp | https://bentley-neuwagen.com/produkt/bentley-new-continental-gtc-mulliner-my26/ | Bentley Neuwagen / Fotostudio Purkart | desconocida |
+| /media/bentley-continental-gtc-azure-2026-precio-ficha-tecnica-hunt1.webp | https://www.lus.so/images/vehicles/2026-bentley-continental-gtc-azure-go0078-01.webp | Bentley Stuttgart (lus.so) | desconocida |
+| /media/bentley-continental-gtc-azure-2026-precio-ficha-tecnica-hunt2.webp | https://www.bentleynaples.com/inventoryphotos/903/scbdp4zg6tc030307/ip/10.jpg | Bentley Naples | desconocida |
+| /media/bentley-continental-gtc-azure-2026-precio-ficha-tecnica-hunt3.webp | https://www.exclusiveautomotivegroup.com/imagetag/4579/3/l/New-2026-BENTLEY-Continental-GTC-Azure-1776698426.jpg | Exclusive Automotive Group | desconocida |
+| /media/bentley-continental-gtc-speed-2026-precio-ficha-tecnica-hunt1.webp | https://carbuzz.com/cars/bentley/continental-gt-speed-convertible/2026/ | CarBuzz | desconocida |
+| /media/bentley-continental-gtc-speed-2026-precio-ficha-tecnica-hunt2.webp | https://www.carexpert.com.au/car-reviews/2026-bentley-continental-gtc-speed-review | CarExpert | desconocida |
+| /media/bentley-continental-gtc-speed-2026-precio-ficha-tecnica-hunt3.webp | https://www.carexpert.com.au/car-reviews/2026-bentley-continental-gtc-speed-review | CarExpert | desconocida |
