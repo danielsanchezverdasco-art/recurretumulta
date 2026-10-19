@@ -12,6 +12,14 @@
 
 El emplazamiento del control es el **pk 141,0 de la N-332** (provincia de Alicante, Comunitat Valenciana). Controla el **sentido creciente** de la marcha, el de los hitos kilométricos crecientes. Geocodificación oficial del Instituto Geográfico Nacional: el radar está en **la Vila Joiosa/Villajoyosa**, provincia de Alicante. El punto vigilado más cercano es el de la **N-332, pk 149,8** (sentido decreciente): queda a 8,2 km hacia el noreste.
 
+<iframe title="Mapa: radar n-332-141-0-creciente-cabina" src="https://www.google.com/maps?q=38.52721,-0.20158&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-332-141-0-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.52721,-0.20158&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 Estamos ante la N-332, nacional de calzada única a su paso por Alicante. La vía reparte su caudal entre transporte de mercancías, viajes y movilidad cotidiana. El territorio por el que discurre la vía es el litoral alicantino.
