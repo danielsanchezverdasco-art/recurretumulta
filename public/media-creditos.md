@@ -2669,3 +2669,26 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/toyota-bz4x-touring-2026-precio-ficha-tecnica-hunt1.webp | https://evpowered.co.uk/news/toyota-bz4x-touring-debuts-as-376bhp-awd-estate-sibling-to-subaru-trailseeker-ev/ | EV Powered (foto de prensa Toyota) | desconocida |
 | /media/toyota-bz4x-touring-2026-precio-ficha-tecnica-hunt2.webp | https://www.fleetnews.co.uk/electric-fleet/electric-car-and-van-data/toyota/bz4x-touring-3401 | Fleet News (foto de prensa Toyota) | desconocida |
 | /media/toyota-bz4x-touring-2026-precio-ficha-tecnica-hunt3.webp | https://motorjobs.dk/ledige-stillinger/salgschef-soeges-til-djarlo-automobiler-as-nordsjaelland-24140/ | motorjobs.dk (foto de prensa Toyota) | desconocida |
+| /media/toyota-aygo-x-hybrid-2025-precio-ficha-tecnica-hunt1.webp | https://content.presspage.com/uploads/1523/f76868a4-ba93-4de4-b5e4-4047e724a7a2/1920_2025aygoxhighgrade-001.jpg?10000 | Toyota Europe (prensa oficial) | desconocida |
+| /media/toyota-aygo-x-hybrid-2025-precio-ficha-tecnica-hunt2.webp | https://mag.toyota.co.uk/wp-content/uploads/sites/2/2025/06/Intro-Aygo-X-Hybrid-10-900x563.jpg | Toyota UK Magazine | desconocida |
+| /media/toyota-aygo-x-hybrid-2025-precio-ficha-tecnica-hunt3.webp | https://www.autobics.com/wp-content/uploads/2025/06/2025-Toyota-Aygo-X-Hybrid-Front-Top-View.jpg | AutoBics (fotos oficiales Toyota) | desconocida |
+| /media/qjmotor-fort-4-0-2025-ficha-tecnica-precio-hunt1.webp | https://www.qj-motor.net/wp-content/uploads/2024/11/Fort4.0.png | QJ Motor Alemania (web oficial) | desconocida |
+| /media/qjmotor-fort-4-0-2025-ficha-tecnica-precio-hunt2.webp | https://qjmotor.es/wp-content/uploads/2024/04/QJ06CB1.png | QJMotor España (web oficial) | desconocida |
+| /media/qjmotor-fort-4-0-2025-ficha-tecnica-precio-hunt3.webp | https://hm-motos.com/wp-content/uploads/2025/07/QJ-MOTOR-scooters-fort-4-0-34-gris.png | HM Motos (concesionario) | desconocida |
+| /media/toyota-hilux-mhev-2025-precio-ficha-tecnica-hunt1.webp | https://www.planetcarsz.com/carros/toyota-hilux-hybrid-48v-2025 | PlanetCarsZ (foto prensa Toyota) | desconocida |
+| /media/toyota-hilux-mhev-2025-precio-ficha-tecnica-hunt2.webp | https://www.topspeed.com/toyota-hilux-evloves-with-new-48-volt-hybrid-model/ | TopSpeed (foto prensa Toyota) | desconocida |
+| /media/toyota-hilux-mhev-2025-precio-ficha-tecnica-hunt3.webp | https://luxury-magazin.hu/toyota‑lexus-elektromos-offenziva/ | Luxury Magazin (foto prensa Toyota) | desconocida |
+| /media/dacia-duster-eco-g-100-2025-precio-ficha-tecnica-hunt1.webp | https://www.km77.com/coches/dacia/duster/2024/estandar/estandar/duster-extreme-eco-g-100/datos | km77.com | desconocida |
+| /media/dacia-duster-eco-g-100-2025-precio-ficha-tecnica-hunt2.webp | https://www.patentati.it | patentati.it | desconocida |
+| /media/dacia-duster-eco-g-100-2025-precio-ficha-tecnica-hunt3.webp | https://autotelefon-podcast.de/2026/01/neu-auf-der-strasse-dacia-duster-hybrid/ | autotelefon-podcast.de | desconocida |
+| /media/hero-vida-v1-2026-ficha-tecnica-precio-hunt1.webp | https://www.autocarpro.in/News/hero-relaunches-vida-v1-plus-at-rs-97800-119459 | autocarpro.in | desconocida |
+| /media/hero-vida-v1-2026-ficha-tecnica-precio-hunt2.webp | https://malayalam.drivespark.com/off-beat/hero-vida-v1-electric-scooter-reasons-to-buy-and-some-reasons-to-skip-027522.html | drivespark.com | desconocida |
+| /media/hero-vida-v1-2026-ficha-tecnica-precio-hunt3.webp | https://imgd.aeplcdn.com/1280x720/n/cw/ec/132397/v1-right-side-view-16.jpeg | CarWale | desconocida |
+| /media/mclouis-menfys-2026-hunt1.webp | https://www.fourgonlesite.com/fourgon-neuf/mclouis-menfys-25-edition-un-fourgon-ultra-equipe-disponible-exclusivement-au-svdl/ | fourgonlesite.com | desconocida |
+| /media/mclouis-menfys-2026-hunt2.webp | https://vanvango.es/gijon | vanvango.es | desconocida |
+| /media/mclouis-menfys-2026-hunt3.webp | https://mundovan.com/productos/venta/furgonetas-camper/furgonetas-camper-nuevas/camper-mclouis-menfys-4-maxi-s-line-pop-up/ | mundovan.com | desconocida |
+| /media/volkswagen-golf-gte-2026-precio-ficha-tecnica-hunt1.webp | https://media.volkswagen.com | Volkswagen (prensa oficial) | desconocida |
+| /media/volkswagen-golf-gte-2026-precio-ficha-tecnica-hunt2.webp | https://texbijl.nl/auto/volkswagen-golf-gte-15-ehybrid-dsg-hybride-2026-4a5c453c | texbijl.nl | desconocida |
+| /media/volkswagen-golf-variant-15-etsi-2026-precio-ficha-tecnica-hunt1.webp | https://cdn.nwi-ms.com/media/si/V/comm/V20250827370/model/06.jpg?num=0&size=S&background=full | Volkswagen Eslovenia (configurador oficial) | desconocida |
+| /media/volkswagen-golf-variant-15-etsi-2026-precio-ficha-tecnica-hunt2.webp | https://cdn.nwi-ms.com/media/si/V/comm/V20250829486/model/back_right.jpg?size=XL&background=full | Volkswagen Eslovenia (configurador oficial) | desconocida |
+| /media/volkswagen-golf-variant-15-etsi-2026-precio-ficha-tecnica-hunt3.webp | https://imgix.cosmicjs.com/75ada270-3970-11f1-9581-23cfe40a1d73-VW-Golf-Variant_Interieur.png | Finn.com / Volkswagen | desconocida |
