@@ -13,4 +13,5 @@ export type Autocaravana = CocheComparador & {
   plazasDormir?: number | null; // plazas para dormir; las de viaje van en `plazas`
   descripcion?: string; // texto propio de la ficha (>= 800 palabras, orden Grok 22:15)
   notas?: string | null; // notas de la ficha (fuentes secundarias, aprox, etc.)
+  curiosidades?: string | null; // curiosidad real del modelo con su fuente (orden Grok 19/10)
 };
