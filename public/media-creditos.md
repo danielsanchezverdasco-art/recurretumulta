@@ -3986,3 +3986,28 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/toyota-proace-city-verso-electric-2025-precio-ficha-tecnica-hunt3.webp | https://www.vertumotors.com/toyota/proace-city-verso/ | Vertu Motors | desconocida |
 | /media/westfalia-sven-hedin-man-tge-2026-precio-ficha-tecnica-hunt1.webp | https://www.caravans.nl/westfalia/westfalia-sven-hedin-man-tge-slideout-1050081.html | Caravans.nl | desconocida |
 | /media/westfalia-sven-hedin-man-tge-2026-precio-ficha-tecnica-hunt2.webp | https://www.caravans.nl/westfalia/westfalia-sven-hedin-man-tge-slideout-1050081.html | Caravans.nl | desconocida |
+| /media/apollo-air-pro-hunt2.webp | https://cdn.shopify.com/s/files/1/0030/8183/0512/files/which-will-fit-you-03_2x_6292b4d3-f70c-4221-b614-1cc7ea1af407_1024x1024.jpg?v=1640094221 | Apollo Scooters (web oficial) | desconocida |
+| /media/chery-tiggo-9-csh-2026-precio-ficha-tecnica-hunt4.webp | https://girlracer.co.uk/wp-content/uploads/2025/10/24102025cherry2.jpg | CHERY UK (nota de prensa oficial, vía Girlracer) | desconocida |
+| /media/chery-tiggo-9-csh-2026-precio-ficha-tecnica-hunt5.webp | https://girlracer.co.uk/wp-content/uploads/2025/10/24102025cherry3.jpg | CHERY UK (nota de prensa oficial, vía Girlracer) | desconocida |
+| /media/chery-tiggo-9-csh-2026-precio-ficha-tecnica-hunt6.webp | https://girlracer.co.uk/wp-content/uploads/2025/10/24102025cherry4.jpg | CHERY UK (nota de prensa oficial, vía Girlracer) | desconocida |
+| /media/haval-h6l-2025-precio-ficha-tecnica-hunt4.webp | https://carnewschina.com/wp-content/uploads/2025/11/e59bbee78987-139-e1763468350913.png | GWM (foto oficial, vía CarNewsChina) | desconocida |
+| /media/haval-h6l-2025-precio-ficha-tecnica-hunt5.webp | https://carnewschina.com/wp-content/uploads/2025/11/e59bbee78987-140.png | Sohu (vía CarNewsChina) | desconocida |
+| /media/haval-h6l-2025-precio-ficha-tecnica-hunt6.webp | https://carnewschina.com/wp-content/uploads/2025/11/e59bbee78987-142.png | CarNewsChina | desconocida |
+| /media/husqvarna-701-enduro-2025-ficha-tecnica-precio-hunt4.webp | https://www.manuals.co.uk/thumbs/products/l/1861011-husqvarna-701-enduro-2024.webp | Husqvarna Mobility (imagen oficial del manual, vía manuals.co.uk) | desconocida |
+| /media/husqvarna-701-enduro-2025-ficha-tecnica-precio-hunt5.webp | https://www.husqvarna-motorcycles.com/en-gb/models/travel/701-enduro-2024.html | Husqvarna Mobility (web oficial) | desconocida |
+| /media/husqvarna-701-enduro-2025-ficha-tecnica-precio-hunt6.webp | https://www.husqvarna-motorcycles.com/en-gb/models/travel/701-enduro-2024.html | Husqvarna Mobility (web oficial) | desconocida |
+| /media/subaru-uncharted-touring-2026-precio-ficha-tecnica-hunt4.webp | https://topelectricsuv.com/wp-content/uploads/2025/12/Subaru-Uncharted-side.jpg | TopElectricSUV | desconocida |
+| /media/subaru-uncharted-touring-2026-precio-ficha-tecnica-hunt5.webp | https://topelectricsuv.com/wp-content/uploads/2025/12/Subaru-Uncharted-interior.jpg | TopElectricSUV | desconocida |
+| /media/subaru-uncharted-touring-2026-precio-ficha-tecnica-hunt6.webp | https://topelectricsuv.com/wp-content/uploads/2025/12/Subaru-Uncharted-front.jpg | TopElectricSUV | desconocida |
+| /media/apollo-explore-hunt1.webp | https://cdn.shopify.com/s/files/1/0706/1205/8418/products/apollo-explore-electric-scooter-3.jpg?v=1678127194&width=1946 | Shopify dealer (foto oficial de producto) | desconocida |
+| /media/apollo-explore-hunt2.webp | https://cdn.shopify.com/s/files/1/0030/8183/0512/products/ApolloExplore_1_640x.png?v=1635501334 | Apollo Scooters (oficial) | desconocida |
+| /media/apollo-explore-hunt3.webp | https://electrek.co/wp-content/uploads/sites/3/2020/06/apollo_explore_electric_scooter_2.jpg | Electrek.co | desconocida |
+| /media/byd-song-pro-dm-i-2025-precio-ficha-tecnica-hunt1.webp | https://carnewschina.com/wp-content/uploads/2026/04/byd_song_pro_dm-i_flying_edition-800x450.jpg | CarNewsChina | desconocida |
+| /media/byd-song-pro-dm-i-2025-precio-ficha-tecnica-hunt2.webp | https://www.autoo.com.br/fotos/2025/7/1280_960/byd8-2_09072025_84750_1280_960.jpg | Autoo.com.br | desconocida |
+| /media/byd-song-pro-dm-i-2025-precio-ficha-tecnica-hunt3.webp | https://www.superbikemag.com/wp-content/uploads/2026/02/BYD-Song-Pro-DM-i-2026-1.webp | SuperBikeMag | desconocida |
+| /media/husqvarna-te-300-2025-ficha-tecnica-precio-hunt1.webp | https://azwecdnepstoragewebsiteuploads.azureedge.net/PHO_BIKE_DET_bodywork-TE-300-2025_%23SALL_%23AEPI_%23V1.jpg | Husqvarna Motorcycles (prensa oficial) | desconocida |
+| /media/husqvarna-te-300-2025-ficha-tecnica-precio-hunt2.webp | https://fasterwheeler.com/product_images/jpeg/Husqvarna-TE-300-2025.jpg | FasterWheeler | desconocida |
+| /media/husqvarna-te-300-2025-ficha-tecnica-precio-hunt3.webp | https://azwecdnepstoragewebsiteuploads.azureedge.net/PHO_STAGE_TE-300-header-MY25-enduro_%23SALL_%23AEPI_%23V1.jpg | Husqvarna Motorcycles (prensa oficial) | desconocida |
+| /media/suzuki-s-cross-mild-hybrid-2025-precio-ficha-tecnica-hunt1.webp | https://drivemagazine.ro/site/assets/files/30467/origin.1024x540-srcset.webp | DriveMagazine.ro | desconocida |
+| /media/suzuki-s-cross-mild-hybrid-2025-precio-ficha-tecnica-hunt2.webp | https://resource.digitaldealer.com.au/image/1338791116685b3edb4ed11388341602_0_0.png | Darwin Suzuki (Australia) | desconocida |
+| /media/suzuki-s-cross-mild-hybrid-2025-precio-ficha-tecnica-hunt3.webp | https://vidi.ua/uploads/media/dc_car_gallery/0020/27/thumb_1926938_dc_car_gallery_slider.webp | VIDI (concesionario Suzuki Ucrania) | desconocida |
