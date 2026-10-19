@@ -2081,3 +2081,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/hyundai-kona-n-2023-hunt1.webp | https://www.hyundai-n.com/images/en/n-zine/versatile-sports-16.jpg | Hyundai N (web oficial) | desconocida |
 | /media/hyundai-kona-n-2023-hunt2.webp | https://vehicle-images.carscommerce.inc/7556-110005403/KM8KH3AC8PU007868/c4cc58001601c1e9cb54bf150d402275.jpg | Ron Tonkin Hyundai (concesionario, foto de stock) | desconocida |
 | /media/hyundai-kona-n-2023-hunt3.webp | https://www.motortrend.com/uploads/2023/01/2023-Hyundai-Kona-N-19-scaled.jpg | MotorTrend / HotRod | desconocida |
+| /media/kgm-musso-diesel-2026-precio-ficha-tecnica-hunt1.webp | https://media.autoexpress.co.uk/image/private/s--gMeSbRm---/f_auto,t_content-image-full-desktop@1/v1783337913/autoexpress/2026/07/KGM%20Musso%20Rhino%20-%20dynamic%20front%203_4_lreuqp.jpg | Auto Express | desconocida |
+| /media/kgm-musso-diesel-2026-precio-ficha-tecnica-hunt2.webp | https://kgm.co.il/wp-content/uploads/2026/07/musso_diesel_5_1920X1080.jpg | KGM Motors Israel (web oficial del importador) | desconocida |
+| /media/kgm-musso-diesel-2026-precio-ficha-tecnica-hunt3.webp | https://edge.dealerstudio.com.au/photo/39713510/photo/medium-c8c76ecb23782bf6d25f5d4b569856e3.jpg | Wayne Phillis KGM (concesionario, foto de stock) | desconocida |
+| /media/alfa-romeo-33-stradale-v6-620-precio-ficha-tecnica-hunt1.webp | https://www.supercars.net/blog/wp-content/uploads/2023/08/Alfa-Romeo-33-Stradale-05.jpg | SuperCars.net | desconocida |
+| /media/alfa-romeo-33-stradale-v6-620-precio-ficha-tecnica-hunt2.webp | https://www.alfaromeo.cn/content/dam/alfa/cross/33-stradale/gallery-interior/3/mobile.jpg | Alfa Romeo (prensa oficial) | desconocida |
+| /media/alfa-romeo-33-stradale-v6-620-precio-ficha-tecnica-hunt3.webp | https://www.motortrend.com/uploads/2023/08/Alfa-Romeo-33-Stradale-sports-car-2.jpg | MotorTrend | desconocida |
+| /media/honda-nsx-2022-hunt1.webp | https://www.honda.co.jp/auto-archive/nsx/2022/image/pic_styling_bodycolor_07.png | Honda (prensa oficial) | desconocida |
+| /media/honda-nsx-2022-hunt2.webp | https://www.honda.co.jp/auto-archive/nsx/2022/webcatalog/styling/design/image/pic_styling_visual_01_sp.jpg | Honda (prensa oficial) | desconocida |
+| /media/honda-nsx-2022-hunt3.webp | https://www.honda.co.jp/auto-archive/nsx/2022/webcatalog/interior/design/image/pic_interior_color_seat_05.jpg | Honda (prensa oficial) | desconocida |
+| /media/kgm-torres-hev-hibrido-2026-precio-ficha-tecnica-hunt1.webp | http://kgm.pt/wp-content/uploads/2026/08/HEV-20260821100512078_NWp4t0_1.png | KGM Portugal (web oficial) | desconocida |
+| /media/kgm-torres-hev-hibrido-2026-precio-ficha-tecnica-hunt2.webp | https://images.carexpert.com.au/crop/1200/630/cms/v1/media/2025-12-2025kgm-torres-hev-6.jpg | CarExpert | desconocida |
+| /media/kgm-torres-hev-hibrido-2026-precio-ficha-tecnica-hunt3.webp | https://www.autoliveris.gr/w/wp-content/uploads/2026/02/TORRES3-1024x683.jpg | AutoLiveris | desconocida |
+| /media/maeving-rm1s-2025-ficha-tecnica-precio-hunt1.webp | https://mcn-images.bauersecure.com/wp-images/377739/999x0/maeving_rm1s.1.jpg | Motor Cycle News | desconocida |
+| /media/maeving-rm1s-2025-ficha-tecnica-precio-hunt2.webp | https://drivewithdave.com/wp-content/uploads/2024/07/5-RM1S_Gilbert_Profile-1-large.jpg | Drive with Dave | desconocida |
+| /media/maeving-rm1s-2025-ficha-tecnica-precio-hunt3.webp | https://mcn-images.bauersecure.com/wp-images/208359/822x548/maeving-rm1-s-3.jpg | Motor Cycle News | desconocida |
+| /media/urban-glide-e-cross-pro-boost-2-hunt1.webp | https://urbanglide.com/wp-content/uploads/2024/08/E-CROSSPRO-BOOST-2-pliee.webp | Urban Glide (web oficial) | desconocida |
+| /media/urban-glide-e-cross-pro-boost-2-hunt2.webp | https://contents.mediadecathlon.com/m19237937/k$cd2b5ce4ed2fce43eed802e96341a299/sq/trottinette-electrique-urbanglide-ecross-pro-boost-2.jpg?format=auto&f=800x0 | Decathlon | desconocida |
+| /media/urban-glide-e-cross-pro-boost-2-hunt3.webp | https://assets.kotsovolos.gr/product/313151-17-b.jpg | Kotsovolos | desconocida |
+| /media/alpine-a110-r-ultime-2026-precio-ficha-tecnica-hunt1.webp | https://www.autocar.jp/wp-content/uploads/2025/06/acj_r250612_ALPINE-A110-R-ULTIME_00007.jpg | Autocar Japan | desconocida |
+| /media/alpine-a110-r-ultime-2026-precio-ficha-tecnica-hunt2.webp | https://carwow-uk-wp-1.imgix.net/2025-Alpine-A110-R-Ultime-front-quarter-static.png?auto=format&cs=tinysrgb&fit=crop&h=&ixlib=rb-1.1.0&q=60&w=1600 | Alpine Cars / Carwow | desconocida |
+| /media/alpine-a110-r-ultime-2026-precio-ficha-tecnica-hunt3.webp | https://www.conceptcarz.com/images/Alpine/alpine-a110-r-70_i14-1024.jpg | Conceptcarz | desconocida |
+| /media/gasgas-ec-250-2t-2025-ficha-tecnica-precio-hunt1.webp | https://azwecdnepstoragewebsiteuploads.azureedge.net/PHO_BIKE_DET_Enduro-EC-250-2025-bodywork_%23SEN-US_%23AEPI_%23V1.jpg | GASGAS (prensa oficial) | desconocida |
+| /media/gasgas-ec-250-2t-2025-ficha-tecnica-precio-hunt2.webp | https://savagemotorcycles.com.au/wp-content/uploads/2025/01/PHO_BIKE_90_LI_GASGAS-EC-250-MY25-90-left_23SALL_23AEPI_23V1-2-600x411.jpg | GASGAS (prensa oficial, vía Savage Motorcycles) | desconocida |
+| /media/gasgas-ec-250-2t-2025-ficha-tecnica-precio-hunt3.webp | https://www.motomegane.com/wp-content/uploads/2025/07/gasgas_ec_250_main.jpg.webp | GASGAS (prensa oficial, vía Motomegane) | desconocida |
