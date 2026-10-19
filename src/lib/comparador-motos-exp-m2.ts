@@ -939,7 +939,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     version: "2024",
     cilindradaCc: 1158,
     categoria: "Custom",
-    precioDesde: 28990,
+    precioDesde: 32190,
     potenciaKw: 124,
     potenciaCv: 168,
     autonomiaKm: null,

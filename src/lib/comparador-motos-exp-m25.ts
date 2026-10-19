@@ -3252,7 +3252,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2026",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: 4490,
+    precioDesde: 4700,
     potenciaKw: 4.2,
     potenciaCv: 5.7,
     autonomiaKm: 90,

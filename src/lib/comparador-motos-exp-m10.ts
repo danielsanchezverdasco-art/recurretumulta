@@ -148,7 +148,7 @@ export const MOTOS_EXP_M10: MotoComparador[] = [
     version: "Multistrada V4 RS 2026",
     cilindradaCc: 1103,
     categoria: "Trail",
-    precioDesde: 43790,
+    precioDesde: 44790,
     potenciaKw: 132.4,
     potenciaCv: 180,
     autonomiaKm: null,

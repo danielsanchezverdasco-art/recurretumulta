@@ -640,7 +640,7 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     version: "Fort 350 EVO 2025",
     cilindradaCc: 330,
     categoria: "Scooter",
-    precioDesde: null,
+    precioDesde: 4999,
     potenciaKw: 22.1,
     potenciaCv: 30,
     autonomiaKm: null,
