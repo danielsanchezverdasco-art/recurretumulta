@@ -33,11 +33,11 @@ export const AUTOCARAVANAS_KNAUS_M1: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/knaus-boxlife-600-mq-2026-precio-ficha-tecnica-ext.webp",
+    imagen: "/media/knaus-boxlife-600-mq-2026-precio-ficha-tecnica-oficial.webp",
     imagenOficial:
-      "/media/knaus-boxlife-600-mq-2026-precio-ficha-tecnica-ext.webp",
+      "/media/knaus-boxlife-600-mq-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/knaus-boxlife-600-mq-2026-precio-ficha-tecnica-interior.webp",
+      "/media/knaus-boxlife-600-mq-2026-precio-ficha-tecnica-oficial-interior.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 5990, // knaus.com
@@ -57,6 +57,8 @@ export const AUTOCARAVANAS_KNAUS_M1: Autocaravana[] = [
     aprox: ["pesoKg"],
     notas:
       "Dimensiones, motor y equipamiento, de la página oficial del modelo en knaus.com. El peso (2.967 kg) procede de fichas de catálogo 2026 reproducidas por la red oficial de concesionarios —fuente secundaria— y va en «aprox» porque knaus.com no lo publica en su web. Knaus no publica PVP «desde» del 600 MQ ni su carga útil por modelo, por lo que ambos campos quedan en null sin inventar cifras.",
+    curiosidades:
+      "La puerta corredera lateral del BoxLife equipa cierre eléctrico Soft-Close: se cierra sola con un leve empujón, un detalle de automóvil premium poco habitual en una camper. Fuente: página oficial del modelo en knaus.com (https://www.knaus.com/es-es/camper-vans-campers/boxlife-platinum-selection).",
     descripcion: `La Knaus BoxLife 600 MQ Platinum Selection es la camper de 5,99 metros con la que el fabricante alemán convierte una furgoneta en un pequeño laboratorio de ideas. Pertenece a la gama BoxLife en su acabado Platinum Selection, es decir, la versión más equipada de la camper de Knaus para el año modelo 2026, y su planteamiento es radicalmente distinto al de una camper convencional: aquí casi todo se mueve, se gira o se pliega. La trasera es Vario, el baño tiene una pared giratoria y la cama posterior puede ser basculante y regulable en altura. Es la furgoneta pensada para quien no se conforma con el esquema clásico de cama fija y baño mínimo, y prefiere un interior que se reconfigura según la hora del día.
 
     Empecemos por lo que más sorprende al entrar: la zona trasera. La BoxLife 600 MQ monta de serie una cama transversal doble de 184 por 139 centímetros —que se estrecha a 134 en la zona de los pies—, y sobre ella se puede pedir la cama basculante trasera opcional, regulable en altura. La gracia del sistema es que no hay que desmontar nada para transformar el dormitorio en un garaje de gran volumen: la cama sube y el hueco queda libre para bicicletas, tablas de surf o la compra semanal. Es la solución que Knaus resume como «situaciones traseras flexibles», y en la práctica significa que la misma furgoneta sirve para una escapada en pareja y, al día siguiente, para transportar material voluminoso sin convertir el interior en un caos. Con la cama basculante pedida, las plazas para dormir suben de dos a cuatro, porque la propia Knaus contempla esa configuración en su documentación.
@@ -90,6 +92,30 @@ export const AUTOCARAVANAS_KNAUS_M1: Autocaravana[] = [
     ],
     opiniones: [],
     galeria: [
+      {
+        src: "/media/knaus-boxlife-600-mq-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Knaus BoxLife 600 MQ Platinum Selection, vista tres cuartos delantera (foto oficial Knaus)",
+        ancho: 1200,
+        alto: 1104,
+      },
+      {
+        src: "/media/knaus-boxlife-600-mq-2026-precio-ficha-tecnica-oficial-ext2.webp",
+        alt: "Knaus BoxLife 600 MQ, vista lateral de estudio (foto oficial Knaus)",
+        ancho: 1200,
+        alto: 873,
+      },
+      {
+        src: "/media/knaus-boxlife-600-mq-2026-precio-ficha-tecnica-oficial-interior.webp",
+        alt: "Interior del Knaus BoxLife 600 MQ: claraboya panorámica Midi-Heki (foto oficial Knaus)",
+        ancho: 1200,
+        alto: 900,
+      },
+      {
+        src: "/media/knaus-boxlife-600-mq-2026-precio-ficha-tecnica-oficial-interior2.webp",
+        alt: "Baño del Knaus BoxLife 600 MQ con pared giratoria (foto oficial Knaus)",
+        ancho: 750,
+        alto: 750,
+      },
       {
         src: "/media/knaus-boxlife-600-mq-2026-precio-ficha-tecnica-ext.webp",
         alt: "Knaus BoxLife 600 MQ, vista lateral",
@@ -159,11 +185,11 @@ export const AUTOCARAVANAS_KNAUS_M1: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/knaus-sky-ti-650-meg-2026-precio-ficha-tecnica-ext.webp",
+    imagen: "/media/knaus-sky-ti-650-meg-2026-precio-ficha-tecnica-oficial.webp",
     imagenOficial:
-      "/media/knaus-sky-ti-650-meg-2026-precio-ficha-tecnica-ext.webp",
+      "/media/knaus-sky-ti-650-meg-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/knaus-sky-ti-650-meg-2026-precio-ficha-tecnica-interior.webp",
+      "/media/knaus-sky-ti-650-meg-2026-precio-ficha-tecnica-oficial-interior.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 6960,
@@ -183,6 +209,8 @@ export const AUTOCARAVANAS_KNAUS_M1: Autocaravana[] = [
     aprox: ["pesoKg"],
     notas:
       "Dimensiones, motor y equipamiento, de la página oficial del modelo en knaus.com. El peso (2.990 kg) procede de fichas de catálogo 2026 reproducidas por la red oficial de concesionarios —fuente secundaria— y va en «aprox». Knaus no publica PVP «desde» del Sky TI 650 MEG ni su carga útil por modelo: ambos campos quedan en null. La ficha corresponde al año modelo 2026 sobre Fiat Ducato; la generación siguiente cambia de chasis.",
+    curiosidades:
+      "El 650 MEG sobrevivirá al cambio de chasis: en 2027 el Sky TI pasa a base Volkswagen Crafter y el 650 MEG será una de las tres únicas distribuciones de la nueva gama, junto al 700 DEG y al 700 DX con cama isla. Fuente: Out and About Live, guía 2027 de autocaravanas Knaus (https://www.outandaboutlive.co.uk/motorhomes/news/buying-advice/knaus-motorhomes-and-campervans-2027-essential-guide).",
     descripcion: `Comprar un Knaus Sky TI 650 MEG del año modelo 2026 es comprar la última unidad de una era: es la despedida del Sky TI sobre el Fiat Ducato, porque la generación siguiente cambia de chasis. Y eso, lejos de ser un problema, es precisamente su argumento más sólido. El Ducato 2.2 Multijet de 140 CV es una mecánica con millones de kilómetros acumulados en toda Europa, con recambios en cualquier taller y con todos sus vicios conocidos y documentados. Quien compra el 650 MEG de 2026 no está comprando la plataforma saliente por descarte: está comprando la plataforma probada, la que ya no da sorpresas. La novedad, en este caso, la pagará otro.
 
     El Sky TI 650 MEG es una perfilada de 6,96 metros con camas gemelas traseras, el esquema favorito de las parejas que viajan mucho: cada uno tiene su cama, nadie molesta al otro al levantarse de noche y entre ambas queda un pasillo central que se usa como vestidor. Las dos camas se pueden unir para formar una superficie doble continua, así que el dormitorio se adapta lo mismo a la pareja que quiere dormir junta que a dos amigos que prefieren su espacio. De serie son dos plazas para dormir; con la cama delantera opcional —el salón convertible o la cama abatible— se llega a cuatro. Las plazas de circulación son cuatro con cinturón, de modo que es una perfilada familiar sin necesidad de saltar a los siete metros y medio.
@@ -216,6 +244,30 @@ export const AUTOCARAVANAS_KNAUS_M1: Autocaravana[] = [
     ],
     opiniones: [],
     galeria: [
+      {
+        src: "/media/knaus-sky-ti-650-meg-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Knaus Sky TI 650 MEG IC-Line, vista tres cuartos delantera (foto oficial de prensa Knaus)",
+        ancho: 1200,
+        alto: 545,
+      },
+      {
+        src: "/media/knaus-sky-ti-650-meg-2026-precio-ficha-tecnica-oficial-ext2.webp",
+        alt: "Knaus Sky TI sobre Fiat Ducato, vista lateral de estudio (foto oficial de prensa Knaus)",
+        ancho: 1200,
+        alto: 798,
+      },
+      {
+        src: "/media/knaus-sky-ti-650-meg-2026-precio-ficha-tecnica-oficial-interior.webp",
+        alt: "Camas gemelas traseras del Knaus Sky TI 650 MEG (foto oficial de prensa Knaus)",
+        ancho: 1200,
+        alto: 900,
+      },
+      {
+        src: "/media/knaus-sky-ti-650-meg-2026-precio-ficha-tecnica-oficial-interior2.webp",
+        alt: "Cocina en L del Knaus Sky TI IC-Line (foto oficial de prensa Knaus)",
+        ancho: 1200,
+        alto: 900,
+      },
       {
         src: "/media/knaus-sky-ti-650-meg-2026-precio-ficha-tecnica-ext.webp",
         alt: "Knaus Sky TI 650 MEG, vista tres cuartos delantera",
