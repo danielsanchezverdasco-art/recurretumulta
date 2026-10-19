@@ -11,6 +11,14 @@
 ## Dónde está
 
 Esta cabina se ubica en la AC-12, pk 8,3, en Oleiros (A Coruña): 43.32336, -8.341174. Controla el sentido decreciente —tráfico hacia pks menores—, con destino A Coruña en el registro de la DGT. Street View permite ver el emplazamiento.
+
+<iframe title="Mapa: radar ac-12-8-3-decreciente-cabina" src="https://www.google.com/maps?q=43.32336,-8.341174&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar ac-12-8-3-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=43.32336,-8.341174&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
 ## La carretera
 
 Vía autonómica gallega de acceso a A Coruña, la AC-12 figura en el XML de la DGT como «AUTOPISTA / AUTOVÍA». Se le aplica el régimen de alta capacidad. El documento no detalla el tramo del pk 8,3.
