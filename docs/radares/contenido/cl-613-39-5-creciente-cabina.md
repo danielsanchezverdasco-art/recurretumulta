@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 42.240463, -4.928208
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.240463,-4.928208)
 
+<iframe title="Mapa: radar cl-613-39-5-creciente-cabina" src="https://www.google.com/maps?q=42.240463,-4.928208&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cl-613-39-5-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.240463,-4.928208&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** El XML oficial de la DGT (DATEX II, portal NAP) publica este punto con su vía, pk, sentido y tipo de equipo. El dataset no recoge el límite de cada radar ni su municipio. El límite de 90 km/h es el genérico del RGC (art. 48) para turismos y motos en carreteras convencionales —el registro marca la singularidad «CARRETERA LOCAL»—, y Villada (Palencia) se obtiene del geocodificador oficial CartoCiudad del IGN/CNIG.
 
 ## El punto
