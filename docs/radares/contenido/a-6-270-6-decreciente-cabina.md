@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 42.0737, -5.6969
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.0737,-5.6969)
 
+<iframe title="Mapa: radar a-6-270-6-decreciente-cabina" src="https://www.google.com/maps?q=42.0737,-5.6969&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-6-270-6-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.0737,-5.6969&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** La DGT publica este punto en su XML oficial de radares (DATEX II, portal NAP): de ahí salen la vía, el pk, el sentido y el tipo de equipo. El dataset no incluye el límite ni el municipio de cada punto. El límite de 120 km/h es el genérico del RGC (art. 48) para turismos y motos en autopistas y autovías; Villabrázaro (Zamora) se obtuvo con el geocodificador oficial CartoCiudad del IGN, tras un micro-desplazamiento de las coordenadas iniciales.
 
 ## Ubicación del punto de control
