@@ -11,6 +11,14 @@
 ## Dónde está
 
 Pk 254,1 de la A-52, en Ribadavia (Ourense): ahí está esta cabina (42.302628, -8.142777). Mide el sentido decreciente: vehículos hacia puntos kilométricos menores, con destino Benavente según la DGT. Desde Street View se reconoce el lugar.
+
+<iframe title="Mapa: radar a-52-254-1-decreciente-cabina" src="https://www.google.com/maps?q=42.302628,-8.142777&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-52-254-1-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.302628,-8.142777&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
 ## La carretera
 
 La A-52, autovía de la Red de Carreteras del Estado, tiene la singularidad «AUTOPISTA / AUTOVÍA» en el XML de la DGT. El fichero no describe el tramo del pk 254,1.
