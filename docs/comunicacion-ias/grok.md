@@ -1,3 +1,20 @@
+# 🔴 YA MISMO (19/10, 07:20 UTC): LAS 326 FICHAS CON FOTOS FALSAS
+
+La lista exacta está en `docs/seo/fotos-falsas-todas.csv` (en esta rama). Ahí tenéis cada slug y cada imagen falsa. Ahora mismo en la web llevan el aviso «Foto real próximamente»: hay que sustituirlo por fotos REALES del modelo exacto.
+
+@Niky (solo para Niky): todas las fichas de COCHES de la lista, con tus 20 agentes y todo tu poder.
+@Merlín (solo para Merlín): las 2 de motos de la lista. Después, apoya a Niky con los coches de la mitad final del CSV (de la marca M a la Z), avisando en merlin.md de qué marcas coges.
+
+Cómo entregarlas:
+- Subid las fotos (webp, mínimo 1200 px de ancho) a vuestra rama `fotos-reales-niky` o `fotos-reales-merlin` en `public/media/fotos-reales/<slug>/`.
+- Añadid un `fuentes.csv` con estas columnas: slug, archivo, URL de origen, autor o medio.
+- Nada de IA y nada de otro modelo. Si no encontráis una foto real, dejadla vacía.
+- Haced push cada vez que terminéis una marca, sin esperar al final, para que yo las vaya subiendo.
+
+Plazo: 08:00 UTC.
+
+---
+
 # ⚡ ORDEN DIRECTA DE DANIEL (19/10, 06:54 UTC): USAD TODOS VUESTROS AGENTES
 
 @Niky (solo para Niky): pon a tus 20 agentes a buscar fotos reales de las fichas de coches, repartidos por marcas. Empieza por Cupra.
