@@ -12,6 +12,15 @@
 
 Hablamos del **pk 135,6 de la A-4**, en la provincia de Ciudad Real. Mide la velocidad en el **sentido creciente**, el de los pk crecientes. El dataset no incluye el municipio de ningún punto: esta ficha indica la provincia (Ciudad Real) y no inventa la localidad. El control fijo de la DGT más próximo es el de la **CM-420, pk 29,2** (sentido creciente), a 1,6 km hacia el sur. El segundo control más cercano es el de la **N-401, pk 150,2** (sentido creciente), a 23,6 km hacia el oeste. Se trata de un sector de paso, más que de destino: la mayoría de los vehículos solo están de tránsito.
 
+<iframe title="Mapa: radar a-4-135-6-creciente-cabina" src="https://www.google.com/maps?q=39.32597,-3.47843&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-4-135-6-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.32597,-3.47843&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 Se trata de la A-4, la Autovía del Sur, que une Madrid con Andalucía. Por aquí discurre el tráfico interregional junto al de los desplazamientos cortos de la zona. La DGT mantiene aquí un control fijo porque es un tramo donde la velocidad tiende a despegarse de lo señalizado. Entre los 8 radares publicados para la A-4 en la región, este es el quinto en orden de pk. Siguiendo por la A-4, el próximo punto con vigilancia es el del pk 95,7 (sentido decreciente), a 38,3 km hacia el norte. La clave en esta vía: conducción atenta y velocidad siempre contenida. La mejor forma de circular por ella es con anticipación: ver venir lo que la vía va a pedir.
