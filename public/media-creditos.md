@@ -202,3 +202,42 @@
 | /media/mercedes-amg-gt-suv-precio-ficha-tecnica-oficial.webp | https://media.mercedes-benz.com/en/article/7d4d77de-1aad-4c4c-8a89-a3e140109495 | Mercedes-Benz Group AG (prensa oficial, Mercedes-Benz Media) | prensa |
 | /media/mercedes-amg-gt-suv-precio-ficha-tecnica-frontal.webp | https://media.mercedes-benz.com/en/article/7d4d77de-1aad-4c4c-8a89-a3e140109495 | Mercedes-Benz Group AG (prensa oficial, Mercedes-Benz Media) | prensa |
 | /media/mercedes-amg-gt-suv-filtrado-trasera.webp | https://www.thesupercarblog.com/leaked-here-is-our-first-look-at-the-all-electric-mercedes-amg-gt-suv/ | Mercedes-Benz Group AG (prensa) / The Supercar Blog (distribución; licencia desconocida) | prensa |
+
+## Fotos oficiales de prensa — lote 2 autocaravanas (19/10/2026, Merlín)
+
+| Archivo | Fuente | Autor | Licencia |
+|---|---|---|---|
+| /media/dethleffs-alpa-i-7820-2-2026-precio-ficha-tecnica-detalle.webp | https://www.denysmotorhomes.be/Uploads/2026/alpa/alpa-kochen-2.jpg | Dethleffs (vía Denys Motorhomes, BE) | prensa oficial / web de marca |
+| /media/dethleffs-alpa-i-7820-2-2026-precio-ficha-tecnica-ext.webp | https://www.denysmotorhomes.be/Uploads/2026/alpa/witte-achtergrond-A-I.jpg | Dethleffs (vía Denys Motorhomes, BE) | prensa oficial / web de marca |
+| /media/dethleffs-alpa-i-7820-2-2026-precio-ficha-tecnica-interior.webp | https://www.denysmotorhomes.be/Uploads/2026/alpa/alpa-wohnen-4.jpg | Dethleffs (vía Denys Motorhomes, BE) | prensa oficial / web de marca |
+| /media/dethleffs-alpa-i-7820-2-2026-precio-ficha-tecnica-interior2.webp | https://www.denysmotorhomes.be/Uploads/2026/alpa/alpa-bad-2.jpg | Dethleffs (vía Denys Motorhomes, BE) | prensa oficial / web de marca |
+| /media/dethleffs-globetrail-600-dr-performance-2026-precio-ficha-tecnica-detalle.webp | https://cdn.prod.website-files.com/664c6c6999c083cc5ccfdb1f/6709122ba4c7564aec97a53a_globetrail_performance_freisteller_seite_1~-~media--40a00488--query.avif | Dethleffs (prensa oficial, CDN webflow) | prensa oficial / web de marca |
+| /media/dethleffs-globetrail-600-dr-performance-2026-precio-ficha-tecnica-ext.webp | https://cdn.prod.website-files.com/664c6c6999c083cc5ccfdb1f/6709122d793130378bf22717_globetrail_performance_freisteller_seite_3~-~media--40a00488--query.avif | Dethleffs (prensa oficial, CDN webflow) | prensa oficial / web de marca |
+| /media/dethleffs-globetrail-600-dr-performance-2026-precio-ficha-tecnica-interior.webp | http://camperstyle.de/wp-content/uploads/2024/02/Dethleffs-Globetrail-600-DR-Interieur-4471.jpg | camperstyle.de (prensa) | prensa oficial / web de marca |
+| /media/dethleffs-globetrail-600-dr-performance-2026-precio-ficha-tecnica-interior2.webp | https://espritcampingcar.com/wp-content/uploads/2023/11/Dethleffs-Globetrail-600DR-Performance-18-1030x687.jpg | espritcampingcar.com (prensa) | prensa oficial / web de marca |
+| /media/hymer-b-class-masterline-i-780-2026-precio-ficha-tecnica-ext.webp | https://spec.dlrwebservice.com/3/rv/2026-Hymer-B-Class-MasterLine-I-780-main.jpg | Hymer (vía rvusa.com, foto oficial de catálogo) | prensa oficial / web de marca |
+| /media/hymer-b-class-masterline-i-780-2026-precio-ficha-tecnica-interior.webp | https://www.outandaboutlive.co.uk/sites/default/files/images/archived_article/530204/bc9ad601a52a35ba7211cb22c3de0c52.jpg | Hymer (crédito foto: Hymer, vía Out and About Live) | prensa oficial / web de marca |
+| /media/hymer-b-class-masterline-i-780-2026-precio-ficha-tecnica-interior2.webp | https://www.outandaboutlive.co.uk/sites/default/files/images/archived_article/530204/ce6edde5e7163600b32d73376aaf842e.jpg | Hymer (crédito foto: Hymer, vía Out and About Live) | prensa oficial / web de marca |
+| /media/lmc-tourer-lift-h-664-g-2026-precio-ficha-tecnica-ext.webp | (no preservada) | Prensa oficial LMC (vía rijmaran) | prensa oficial / web de marca |
+| /media/lmc-tourer-lift-h-664-g-2026-precio-ficha-tecnica-interior.webp | (no preservada) | camperstyle.de (foto editorial ©Stefan Blanz) | prensa oficial / web de marca |
+| /media/lmc-tourer-lift-h-664-g-2026-precio-ficha-tecnica-interior2.webp | (no preservada) | camperstyle.de (foto editorial ©Stefan Blanz) | prensa oficial / web de marca |
+| /media/mclouis-menfys-van-3-maxi-s-line-2026-precio-ficha-tecnica-detalle.webp | https://www.mclouis.com/wp-content/uploads/2024/06/McL-Menfys-3-MAXI-1-1536x1025.jpg | McLouis (oficial) | prensa oficial / web de marca |
+| /media/mclouis-menfys-van-3-maxi-s-line-2026-precio-ficha-tecnica-interior.webp | https://www.mclouis.com/wp-content/uploads/2024/06/Mclouis-Menfys-S-Line-3-Max-003-1536x1024.jpg | McLouis (oficial) | prensa oficial / web de marca |
+| /media/mclouis-menfys-van-3-maxi-s-line-2026-precio-ficha-tecnica-interior2.webp | https://www.mclouis.com/francia/wp-content/uploads/sites/3/2025/04/McL-Menfys-3-MAXI-48-1536x1025.jpg | McLouis (oficial) | prensa oficial / web de marca |
+| /media/mobilvetta-kea-p-86-2026-precio-ficha-tecnica-detalle.webp | (no preservada) | Mobilvetta (vía web oficial) | prensa oficial / web de marca |
+| /media/mobilvetta-kea-p-86-2026-precio-ficha-tecnica-ext.webp | (no preservada) | Prensa oficial Mobilvetta (mobilvetta.it) | prensa oficial / web de marca |
+| /media/mobilvetta-kea-p-86-2026-precio-ficha-tecnica-interior.webp | (no preservada) | Prensa oficial Mobilvetta (mobilvetta.it) | prensa oficial / web de marca |
+| /media/mobilvetta-kea-p-86-2026-precio-ficha-tecnica-interior2.webp | (no preservada) | Prensa oficial Mobilvetta (mobilvetta.it) | prensa oficial / web de marca |
+| /media/pilote-v630j-2026-precio-ficha-tecnica-ext.webp | https://www.fourgonlesite.com/wp-content/uploads/2025/06/PILOTE_V630J_01.jpg | fourgonlesite.com (prensa) | prensa oficial / web de marca |
+| /media/pilote-v630j-2026-precio-ficha-tecnica-interior.webp | https://www.pilote.fr/app/uploads/2025/07/fourgon-amenage-pilote-salon-V630J.jpg | Pilote (prensa oficial, pilote.fr) | prensa oficial / web de marca |
+| /media/pilote-v630j-2026-precio-ficha-tecnica-interior2.webp | https://www.fourgonlesite.com/wp-content/uploads/2025/12/2026_PILOTE_V630J_CHAMBRE.jpeg | fourgonlesite.com (prensa) | prensa oficial / web de marca |
+| /media/possl-summit-600-plus-2026-precio-ficha-tecnica-ext.webp | https://poessl-center-marktbreit.de/wp-content/uploads/2022/07/summit600plus_2022_02-seite-1024x683.png | Pössl Center Marktbreit (concesionario oficial) | prensa oficial / web de marca |
+| /media/possl-summit-600-plus-2026-precio-ficha-tecnica-interior.webp | https://img.classistatic.de/api/v1/mo-prod/images/ff/ff063e6d-6a25-4e8c-80e4-fe6eb21f1492?rule=mo-1600 | Mobile.de (anuncio Summit 600 Plus) | prensa oficial / web de marca |
+| /media/possl-summit-600-plus-2026-precio-ficha-tecnica-interior2.webp | https://cdn.prod.website-files.com/664c6c6999c083cc5ccfdb1f/66689f0ac57acd7a5fcd117c_poessl_summit600_kueche%402x.webp | Wagoncat (alquiler) | prensa oficial / web de marca |
+| /media/rapido-v62-2026-precio-ficha-tecnica-detalle.webp | https://img4.autodeclics.com//photos/12/344293/zoom-rapido-v62---les-photos-officielles-du-van-fran%C3%A7ais.jpg | Autodéclics/Autonews (fotos oficiales Rapido) | prensa oficial / web de marca |
+| /media/rapido-v62-2026-precio-ficha-tecnica-ext.webp | https://www.campersite.nl/cms/wp-content/uploads/2025/10/rapido-v62-extt-cps.jpg | Campersite (prensa) | prensa oficial / web de marca |
+| /media/rapido-v62-2026-precio-ficha-tecnica-interior.webp | https://www.fourgonlesite.com/wp-content/uploads/2025/07/2026_RAPIDO_V62_65ANS_08.jpg | Fourgonlesite (prensa) | prensa oficial / web de marca |
+| /media/westfalia-james-cook-2026-precio-ficha-tecnica-detalle.webp | https://westfaliacampers.nl/wp-content/uploads/2026/02/James-Cook-51.jpg.webp | Westfalia Campers NL (importador oficial) | prensa oficial / web de marca |
+| /media/westfalia-james-cook-2026-precio-ficha-tecnica-ext.webp | https://westfalia-mobil.com/wp-content/uploads/2024/12/Westfalia-modele-james-cook-16.jpg | Westfalia-Mobil (oficial) | prensa oficial / web de marca |
+| /media/westfalia-james-cook-2026-precio-ficha-tecnica-interior.webp | https://westfalia-mobil.com/wp-content/uploads/2024/12/JamesCook_Classic_10.jpg | Westfalia-Mobil (oficial) | prensa oficial / web de marca |
+| /media/westfalia-james-cook-2026-precio-ficha-tecnica-interior2.webp | https://westfalia-mobil.com/wp-content/uploads/2026/06/Westfalia_James_Cook_2026_16-460x295.jpg | Westfalia-Mobil (oficial, galería 2026) | prensa oficial / web de marca |
