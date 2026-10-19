@@ -289,3 +289,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 - vw-california-ocean-2026-precio-ficha-tecnica-oficial-1.webp: Kit de prensa oficial VW, vía accamper.com.
 - vw-california-ocean-2026-precio-ficha-tecnica-interior-oficial-1.webp: Mismo interior que Coast (fuente: Motoring Research, vanreviewer.co.uk).
 - vw-california-beach-2026-precio-ficha-tecnica-interior-oficial-1.webp: Kit de prensa oficial VW, vía espaciofurgo.com (módulo cocina extraíble Beach).
+| /media/aion-v-2025-precio-ficha-tecnica-hunt4.webp | https://eu-www-resouce-cdn.gacgroup.com/static/EU/tenant/cms/common/202506/1750830352745-4-LongRange.webp | GAC (web oficial) | desconocida |
+| /media/aion-v-2025-precio-ficha-tecnica-hunt5.webp | https://www.gzdcars.com/wp-content/uploads/2025/10/AION-V-2025-2.jpg | GZD Cars | desconocida |
+| /media/aion-v-2025-precio-ficha-tecnica-hunt6.webp | https://images.carexpert.com.au/resize/960/-/cms/v1/media/2025-10-gac-aion-v-interior.jpg | CarExpert | desconocida |
+| /media/jac-x8-2025-precio-ficha-tecnica-hunt4.webp | https://www.kuaich.com/jac_activity/cdcz/images/car/sh_X8/02.jpeg | JAC (web oficial, vía kuaich.com) | desconocida |
+| /media/jac-x8-2025-precio-ficha-tecnica-hunt5.webp | https://cdn.hugeauto.com/mod_img/JAC-X8.webp | HugeAuto | desconocida |
+| /media/jac-x8-2025-precio-ficha-tecnica-hunt6.webp | https://www.chinamobil.ru/photo/JacX8Plus/folder1/full/jac-x8-plus-int01.jpg | ChinaMobil | desconocida |
+| /media/porsche-911-carrera-t-2026-precio-ficha-tecnica-hunt4.webp | https://machineswithsouls.com/wp-content/uploads/2026/04/2026-porsche-911-t-21.jpg | Machines With Souls | desconocida |
+| /media/porsche-911-carrera-t-2026-precio-ficha-tecnica-hunt5.webp | https://machineswithsouls.com/wp-content/uploads/2026/04/2026-porsche-911-t-1.jpg | Machines With Souls | desconocida |
+| /media/porsche-911-carrera-t-2026-precio-ficha-tecnica-hunt6.webp | https://cdn-ds.com/blogs-media/sites/721/2026/06/16193325/WHITE_911_CARRERA_T_031__SIM1051.jpg | Champion Porsche (blog oficial del concesionario) | desconocida |
+| /media/aion-ut-2025-precio-ficha-tecnica-hunt4.webp | https://www.car250.com/wp-content/uploads/2025/03/AION_UT_Front_45_Left_Emerald_Green.jpg | GAC Aion (kit de prensa, vía Car250) | desconocida |
+| /media/aion-ut-2025-precio-ficha-tecnica-hunt5.webp | https://www.car250.com/wp-content/uploads/2025/03/AION_UT_Back_45_Rococo_White.jpg | GAC Aion (kit de prensa, vía Car250) | desconocida |
+| /media/aion-ut-2025-precio-ficha-tecnica-hunt6.webp | https://www.autoo.com.br/fotos/2025/3/1280_960/gac14_03032025_82790_1280_960.jpg | Autoo / GAC Aion | desconocida |
+| /media/jac-rf8-phev-2026-precio-ficha-tecnica-hunt4.webp | https://jacnigeria.com/wp-content/uploads/2026/03/RF8-PHEV-EX-012-scaled.jpg | JAC Motors (importador oficial, vía JAC Nigeria) | desconocida |
+| /media/jac-rf8-phev-2026-precio-ficha-tecnica-hunt5.webp | https://jacnigeria.com/wp-content/uploads/2026/03/RF8-PHEV-EX-002-scaled.jpg | JAC Motors (importador oficial, vía JAC Nigeria) | desconocida |
+| /media/jac-rf8-phev-2026-precio-ficha-tecnica-hunt6.webp | https://jac-schweiz.ch/wp-content/uploads/2026/04/RF8-PHEV-IN-006_Innen-scaled.jpg | JAC Motors (importador oficial, vía JAC Suiza) | desconocida |
+| /media/porsche-911-carrera-s-2026-precio-ficha-tecnica-hunt4.webp | https://www.stuttcars.com/wp-content/uploads/2025/09/Porsche-911-Carrera-S-Coupe-992.2-24.jpg | Porsche (kit de prensa, vía Stuttcars) | desconocida |
+| /media/porsche-911-carrera-s-2026-precio-ficha-tecnica-hunt5.webp | https://www.stuttcars.com/wp-content/uploads/2025/09/Porsche-911-Carrera-S-Coupe-992.2-22.jpg | Porsche (kit de prensa, vía Stuttcars) | desconocida |
+| /media/porsche-911-carrera-s-2026-precio-ficha-tecnica-hunt6.webp | https://www.stuttcars.com/wp-content/uploads/2025/09/Porsche-911-Carrera-S-Coupe-992.2-12.jpg | Porsche (kit de prensa, vía Stuttcars) | desconocida |
+| /media/aion-rt-2024-precio-ficha-tecnica-hunt4.webp | https://ev.com/news/gac-aion-officially-launches-aion-rt-with-starting-price-at-rmb-119800 | EV.com / prensa GAC Aion | desconocida |
+| /media/aion-rt-2024-precio-ficha-tecnica-hunt5.webp | https://carnewschina.com/2024/09/27/gac-aion-rt-opened-pre-sales-starting-at-17100-usd/ | CarNewsChina | desconocida |
+| /media/aion-rt-2024-precio-ficha-tecnica-hunt6.webp | https://Overclockers.ru/news/lenta/29-09-2024 | Overclockers.ru | desconocida |
+| /media/jac-e40x-2025-precio-ficha-tecnica-hunt4.webp | https://jacelectricos.com.co/automovil/e40x/ | JAC Eléctricos Colombia | desconocida |
+| /media/jac-e40x-2025-precio-ficha-tecnica-hunt5.webp | https://jacelectricos.com.co/automovil/e40x/ | JAC Eléctricos Colombia | desconocida |
+| /media/jac-e40x-2025-precio-ficha-tecnica-hunt6.webp | https://jacelectricos.com.co/automovil/e40x/ | JAC Eléctricos Colombia | desconocida |
