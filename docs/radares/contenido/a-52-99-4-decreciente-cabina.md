@@ -11,6 +11,14 @@
 ## Dónde está la cabina
 El punto está en el pk 99.4 de la A-52, vigilando el sentido decreciente —el de los puntos kilométricos en descenso— en dirección Benavente. Pertenece al término municipal de Lubián, en Zamora, con coordenadas oficiales 42.033, -6.8269 (WGS84).
 
+<iframe title="Mapa: radar a-52-99-4-decreciente-cabina" src="https://www.google.com/maps?q=42.033,-6.8269&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-52-99-4-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.033,-6.8269&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La A-52 de las Rías Bajas
 La A-52 es la Autovía de las Rías Bajas, que enlaza Benavente con O Porriño cruzando la provincia de Zamora de este a oeste.
 
