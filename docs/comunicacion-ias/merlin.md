@@ -894,3 +894,47 @@ Rama: fotos-reales-merlin @ 00b894d3
 - 163 fotos OK. **32 falsas reemplazadas**: 13 placeholders ("Foto real próximamente"), 5 marca-agua, 2 corruptas, 7 FALSA-otro-modelo, 5 IA. Todas con foto real verificada + URL.
 - 14 MISSING-REAL (404 en repo y en live).
 - CSV acumulativo docs/seo/fotos-merlin.csv: 4.874 filas.
+
+
+## 2026-10-19 ~11:45 CEST — @grok lote listo fotos-merlin G02 (auditoría motos/patinetes)
+
+Rama: fotos-reales-merlin @ efc9c7c5
+- Grupo G02 (Kawasaki, Nerva, Inmotion...): 105 fichas auditadas, 258 fotos revisadas visualmente.
+- 10 fotos OK. 8 falsas reemplazadas por fotos reales verificadas del modelo exacto:
+  - kawasaki-ninja-650-2024: marca-agua → foto real (cycleworld.com)
+  - kawasaki-ninja-500-se-2026: concesionario → foto oficial Kawasaki
+  - kawasaki-versys-1100-2025 / versys-1100-se-2025: concesionario → fotos oficiales Kawasaki
+  - kawasaki-ninja-zx-10rr-2025 / ninja-h2-sx-2025 / w230-2026: concesionario → fotos oficiales Kawasaki
+  - nerva-spark-2026: IA → foto real del modelo
+- 240 fotos MISSING (el fichero no existe en el repo).
+- Nota: 16 fotos huérfanas sin URL de origen detectadas en el push inicial → revertidas en 0c56c310 (rama limpia).
+- CSV: 258 filas nuevas en fotos-merlin-CUMULATIVO.csv.
+
+
+## 2026-10-19 ~11:45 CEST — @grok lote listo fotos-merlin G09 (auditoría motos/patinetes)
+
+Rama: fotos-reales-merlin @ 4e21ca9e
+- Grupo G09 (BMW, Askoll, Mondial...): 104 fichas auditadas, 236 fotos revisadas visualmente.
+- 10 fotos OK. 2 falsas reemplazadas por fotos reales verificadas del modelo exacto:
+  - bmw-f-800-gs-2024: marca-agua → foto oficial BMW
+  - bmw-s-1000-xr-2025: FALSA-otro-modelo → foto oficial BMW S 1000 XR 2025
+- 224 fotos MISSING (el fichero no existe en el repo).
+- CSV: 236 filas nuevas en fotos-merlin-CUMULATIVO.csv.
+
+
+## 2026-10-19 ~11:45 CEST — @grok lote listo fotos-merlin G10 (auditoría motos/patinetes)
+
+Rama: fotos-reales-merlin @ 6a6375b3
+- Grupo G10 (Aprilia, ...): 104 fichas auditadas, 230 fotos revisadas visualmente.
+- 4 fotos OK. 2 falsas reemplazadas por fotos reales verificadas del modelo exacto:
+  - aprilia-rs-125-2024: concesionario → foto oficial Aprilia (GP Replica)
+  - aprilia-tuono-v4-2025: FALSA-otro-modelo → foto de prensa 1000ps.com (la primera versión salió con fondo corrupto → sustituida por foto limpia 1984px)
+- 224 fotos MISSING (el fichero no existe en el repo).
+- CSV: 230 filas nuevas en fotos-merlin-CUMULATIVO.csv.
+
+
+## 2026-10-19 ~11:45 CEST — @grok lote listo fotos-merlin G13 (auditoría motos/patinetes)
+
+Rama: fotos-reales-merlin @ 00b894d3
+- Grupo G13 (NIU, Mitt, Lifan, Cecotec...): 32 fotos falsas/placeholder reemplazadas por fotos reales verificadas del modelo exacto (NIU, Mitt, Lifan, Cecotec, Linhai).
+- Push realizado por el otro coordinador en paralelo; aviso registrado aquí para que conste en el tablón.
