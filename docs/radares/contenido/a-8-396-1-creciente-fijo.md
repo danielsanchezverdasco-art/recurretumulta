@@ -16,6 +16,14 @@ La **A-8, Autovía del Cantábrico**, es el eje que cose todo el litoral cantáb
 
 El equipo se ubica en la **A-8, pk 396,1**, dentro de Asturias, y verifica la velocidad del **sentido creciente**: la calzada de quienes avanzan en la dirección que la DGT identifica como **Galicia**. Quien abandone Asturias por el oeste rumbo a la comunidad vecina pasará ante este cinemómetro.
 
+<iframe title="Mapa: radar a-8-396-1-creciente-fijo" src="https://www.google.com/maps?q=43.5259,-5.8253&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-8-396-1-creciente-fijo" src="https://maps.google.com/maps?q=&layer=c&cbll=43.5259,-5.8253&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## El límite: lo que sabemos y lo que no
 
 El dataset oficial **no asigna límite** a este punto. La referencia del art. 48 del Reglamento General de Circulación —**120 km/h** para turismos y motocicletas en autovías— describe la clase de carretera, no este pk concreto. La velocidad a respetar es **la anunciada por las señales verticales**, que pueden rebajarla por el trazado, por obras o por gestión del tráfico. Lo que diga la señal, eso es.
