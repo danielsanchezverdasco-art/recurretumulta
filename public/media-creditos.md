@@ -3804,3 +3804,6 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/tank-800-2026-precio-ficha-tecnica-hunt1.webp | https://images.carexpert.com.au/resize/960/-/cms/v1/media/2021-07-tank-800-concept-2.jpg | CarExpert | desconocida |
 | /media/tank-800-2026-precio-ficha-tecnica-hunt2.webp | https://d62-a.sdn.cz/d_62/c_img_QI_d/33VBN/tank-800-1.jpeg?fl=cro,0,0,1921,1280%7Cres,1280,,1%7Cjpg,80,,1 | desconocido (foto de prensa republicada) | desconocida |
 | /media/tank-800-2026-precio-ficha-tecnica-hunt3.webp | https://www.goauto.com.au/assets/contents/de39be0f29b4a4b8923f0b0d487212aac1116cc9.jpg | GoAuto | desconocida |
+| /media/bmw-m235-xdrive-gran-coupe-2026-precio-ficha-tecnica-hunt1.webp | https://images.dailyrevs.com/0000/v3/BMW/67bec264c115ed5556867d95/2025-m235-xdrive-gran-coupe-miami-blue-f74-bmw-aft71weeegk0uou2z8ct44.jpeg | DailyRevs (foto de prensa BMW) | desconocida |
+| /media/bmw-m235-xdrive-gran-coupe-2026-precio-ficha-tecnica-hunt2.webp | https://www.completecar.ie/img/galleries/13931/bmw_m235_gran_coupe_blue_2025_040.jpg | CompleteCar.ie (foto de prensa BMW) | desconocida |
+| /media/bmw-m235-xdrive-gran-coupe-2026-precio-ficha-tecnica-hunt3.webp | https://gadget.ro/wp-content/uploads/2025/10/BMW-M235-xDrive-Gran-Coupe-2025-review-29.jpg | Gadget.ro (foto de prensa BMW) | desconocida |
