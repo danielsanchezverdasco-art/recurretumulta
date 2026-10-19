@@ -2936,3 +2936,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/honda-adv350-2025-ficha-tecnica-precio-hunt1.webp | https://www.superbikemag.com/2025-honda-adv350/ | Honda (fotos de prensa 2025, vía SuperBikeMag) | desconocida |
 | /media/honda-adv350-2025-ficha-tecnica-precio-hunt2.webp | https://moto919.lt/ | Honda (fotos de prensa 2025, vía Moto919) | desconocida |
 | /media/honda-adv350-2025-ficha-tecnica-precio-hunt3.webp | https://www.1000ps.com/it-it/articolo/3012059/aggiornamento-2025-per-lhonda-adv350 | Honda (fotos de prensa 2025, vía 1000PS) | desconocida |
+| /media/leapmotor-c11-erev-2026-precio-ficha-tecnica-hunt1.webp | https://www.headlightmag.com/news-leapmotor-c11-my-2026-launched-2/ | Leapmotor (fotos de prensa, vía HeadLight Magazine) | desconocida |
+| /media/leapmotor-c11-erev-2026-precio-ficha-tecnica-hunt2.webp | https://www.headlightmag.com/news-leapmotor-c11-my-2026-launched-2/ | Leapmotor (fotos de prensa, vía HeadLight Magazine) | desconocida |
+| /media/leapmotor-c11-erev-2026-precio-ficha-tecnica-hunt3.webp | https://ev.motorwatt.com/ev-database/database-electric-cars/leapmotor-c11-2026 | MotorWatt (fotos de prensa Leapmotor) | desconocida |
+| /media/pure-air-4-pro-hunt1.webp | https://www.redzac.at/ | RED ZAC (foto de producto Pure) | desconocida |
+| /media/pure-air-4-pro-hunt2.webp | https://pureelectric.be/products/air4-pro-electric-scooter | Pure Electric (fotos oficiales de producto) | desconocida |
+| /media/pure-air-4-pro-hunt3.webp | https://www.electriclife.co.uk/electric-scooters-c62/pure-air4-pro-colour-electric-scooter-p1330 | ElectricLife (foto de producto Pure) | desconocida |
+| /media/roewe-d6-2025-precio-ficha-tecnica-hunt1.webp | https://www.borderlesscar.com/product/roewe-d6/ | BorderlessCar (fotos de prensa Roewe) | desconocida |
+| /media/roewe-d6-2025-precio-ficha-tecnica-hunt2.webp | https://www.car250.com/roewe-d6-2025-1.html | Car250 (fotos de prensa Roewe) | desconocida |
+| /media/roewe-d6-2025-precio-ficha-tecnica-hunt3.webp | https://www.car250.com/roewe-d6-2025-1.html | Car250 (fotos de prensa Autohome) | desconocida |
+| /media/pure-air-6-hunt1.webp | https://www.pureelectric.com/ | Pure Electric (web oficial) | desconocida |
+| /media/pure-air-6-hunt2.webp | https://www.haidaway.de/E-Scooter-Reifen-10x2125 | Haidaway | desconocida |
+| /media/pure-air-6-hunt3.webp | https://www.netonnet.no/art/hjem-fritid/elektriske-kjoretoy/elsparkecykkel/pure-air6-beast-nor/1060259.13497/ | NetOnNet | desconocida |
+| /media/beijing-x55-2025-precio-ficha-tecnica-hunt1.webp | https://www.group1baic.co.za/baic-x55/ | Group1 BAIC (concesionario oficial) | desconocida |
+| /media/beijing-x55-2025-precio-ficha-tecnica-hunt2.webp | https://www.group1baic.co.za/baic-x55/ | Group1 BAIC (concesionario oficial) | desconocida |
+| /media/beijing-x55-2025-precio-ficha-tecnica-hunt3.webp | https://auto-ellmann.de/baic | Auto Ellmann (concesionario BAIC) | desconocida |
+| /media/leapmotor-c16-erev-2026-precio-ficha-tecnica-hunt1.webp | https://www.motorshow.in.th/news/leapmotor-c16/ | Motorshow (portal del motor) | desconocida |
+| /media/leapmotor-c16-erev-2026-precio-ficha-tecnica-hunt2.webp | https://chinacarhub.com/mid-to-large-suv-leapmotor-c16-launched/ | ChinaCarHub | desconocida |
+| /media/leapmotor-c16-erev-2026-precio-ficha-tecnica-hunt3.webp | https://www.icartea.com/en/news/leapmotor-launches-the-updated-2026-c16-with-competitive-prices-and-new-seating-options | iCarTea | desconocida |
+| /media/pure-air-6-pro-plus-hunt1.webp | https://www.pureelectric.com/products/air-6-pro-suspension | Pure Electric (web oficial del fabricante) | desconocida |
+| /media/pure-air-6-pro-plus-hunt2.webp | https://www.halfords.com/scooters/electric-scooters/pure-air6-proplus-suspension-electric-scooter-490347.html | Halfords (distribuidor) | desconocida |
+| /media/pure-air-6-pro-plus-hunt3.webp | https://pureelectric.nl/collections/air | Pure Electric NL (web oficial) | desconocida |
+| /media/roewe-rx5-2024-precio-ficha-tecnica-hunt1.webp | https://images.carexpert.com.au/app/uploads/2024/03/roewe_rx5_80.jpeg | CarExpert (portal del motor) | desconocida |
+| /media/roewe-rx5-2024-precio-ficha-tecnica-hunt2.webp | https://www.borderlesscar.com/product/roewe-rx5/ | BorderlessCar | desconocida |
+| /media/roewe-rx5-2024-precio-ficha-tecnica-hunt3.webp | https://target.westmotors.by/catalog-avto-china/roewe/rx5 | WestMotors (concesionario) | desconocida |
