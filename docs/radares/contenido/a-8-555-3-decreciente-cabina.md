@@ -11,6 +11,14 @@
 ## Dónde está
 
 El punto de control está en la A-8, pk 555,3, en Abadín (Lugo), coordenadas 43.3615, -7.4551. Su objetivo es el sentido decreciente: vehículos hacia puntos kilométricos menores, con destino Asturias según el registro de la DGT. El enlace de Street View muestra el punto exacto.
+
+<iframe title="Mapa: radar a-8-555-3-decreciente-cabina" src="https://www.google.com/maps?q=43.3615,-7.4551&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-8-555-3-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=43.3615,-7.4551&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
 ## La carretera
 
 Autovía estatal de la Red de Carreteras del Estado, la A-8 figura como «AUTOPISTA / AUTOVÍA» en el XML de la DGT. No hay descripción del tramo del pk 555,3 en el documento.
