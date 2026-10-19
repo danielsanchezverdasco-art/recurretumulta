@@ -12,6 +12,14 @@
 
 El cinemómetro se encuentra en la **A-77a, pk 0,4**, provincia de Alicante. El medidor apunta al **sentido creciente** (dirección de pk crecientes). Geocodificación del Instituto Geográfico Nacional: **Sant Vicent del Raspeig/San Vicente del Raspeig**, con micro-desplazamiento documentado en la sección de Fuentes. El control fijo de la DGT más próximo es el de la **A-70, pk 22,5** (sentido decreciente), a 6,2 km hacia el suroeste.
 
+<iframe title="Mapa: radar a-77a-0-4-creciente-cabina" src="https://www.google.com/maps?q=38.38317,-0.51898&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-77a-0-4-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.38317,-0.51898&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 El eje es la A-77a, el antiguo acceso noroeste a Alicante. Es un eje con circulación heterogénea: pesados, turismos y motos comparten la calzada. El territorio por el que discurre la vía es las comarcas del sur de la Comunitat Valenciana.
