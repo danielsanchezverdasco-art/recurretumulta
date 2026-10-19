@@ -4422,3 +4422,26 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/volkswagen-grand-california-600-2026-precio-ficha-tecnica-hunt1.webp | https://www.carscoops.com/wp-content/uploads/webp/2025/03/VW-Grand-California-600-1-2048x1152.webp | Carscoops / Volkswagen Vehiculos Comerciales | desconocida |
 | /media/volkswagen-grand-california-600-2026-precio-ficha-tecnica-hunt2.webp | https://cdn.homecrux.com/wp-content/uploads/2025/03/Volkswagen-2025-Grand-California-With-Updated-Interior-and-App-Connectivity-5454.jpg | Homecrux / Volkswagen Vehiculos Comerciales | desconocida |
 | /media/volkswagen-grand-california-600-2026-precio-ficha-tecnica-hunt3.webp | https://static.autoweb.cz/img/large/a22cad16c384d56ccb89b485a1df6c0d.volkswagen-grand-california-600.20250224231343.webp | Autoweb.cz / Volkswagen Vehiculos Comerciales | desconocida |
+| /media/adria-coral-plus-670-sl-2026-precio-ficha-tecnica-hunt1.webp | https://www.camp-to-go.nl/aanbod/details/kampeerauto/1033807-adria-coral-plus-670-sl-enkele-bedden-automaat.html/ | Camp-to-Go | desconocida |
+| /media/adria-coral-plus-670-sl-2026-precio-ficha-tecnica-hunt2.webp | https://www.rintajouppi.fi/vaihtoautot/Adria/Coral%20Plus%20670%20SL/MYS-605/ | Rinta-Jouppi | desconocida |
+| /media/adria-coral-plus-670-sl-2026-precio-ficha-tecnica-hunt3.webp | https://www.campersite.nl/camper-kopen/1046631-adria-coral-plus-670-sl.html/ | Campersite | desconocida |
+| /media/dacia-jogger-eco-g-120-2026-precio-ficha-tecnica-hunt1.webp | https://www.km77.com/coches/dacia/jogger/2026/estandar/estandar/jogger-extreme-eco-g-120-7-plazas/datos | km77.com | desconocida |
+| /media/dacia-jogger-eco-g-120-2026-precio-ficha-tecnica-hunt2.webp | https://www.km77.com/coches/dacia/jogger/2026/estandar/informacion | km77.com | desconocida |
+| /media/dacia-jogger-eco-g-120-2026-precio-ficha-tecnica-hunt3.webp | https://www.km77.com/coches/dacia/jogger/2026/estandar/informacion | km77.com | desconocida |
+| /media/hobby-vantana-2026-hunt1.webp | https://www.lacampadelcaravaning.com/campers-nuevas/campers-hobby-nuevas/ | La Campa del Caravaning | desconocida |
+| /media/hobby-vantana-2026-hunt2.webp | https://www.cap-passion.fr/detailannonce-camping-car-374870.html | Cap Passion | desconocida |
+| /media/hobby-vantana-2026-hunt3.webp | https://www.dicar.be/mobilhome/nieuw/hobby-vantana-nero-edition/ | Dicar | desconocida |
+| /media/malaguti-rst-125-2026-ficha-tecnica-precio-hunt1.webp | https://www.1000ps.com/hr-hr/model/9755/malaguti-rst-125 | 1000ps.com | desconocida |
+| /media/malaguti-rst-125-2026-ficha-tecnica-precio-hunt2.webp | https://www.1000ps.com/hr-hr/model/9755/malaguti-rst-125 | 1000ps.com | desconocida |
+| /media/malaguti-rst-125-2026-ficha-tecnica-precio-hunt3.webp | https://www.1000ps.com/hr-hr/model/9755/malaguti-rst-125 | 1000ps.com | desconocida |
+| /media/volkswagen-taigo-2026-precio-ficha-tecnica-hunt1.webp | https://avolo.net/volkswagen/ | Avolo | desconocida |
+| /media/volkswagen-taigo-2026-precio-ficha-tecnica-hunt2.webp | https://texbijl.nl/auto/volkswagen-taigo-10-tsi-dsg-pro-benzine-2026-ced0cf79 | Texbijl | desconocida |
+| /media/volkswagen-taigo-2026-precio-ficha-tecnica-hunt3.webp | https://www.k-auto.fi/auto/volkswagen-taigo-2026-bensiini-5557374/ | K-Auto | desconocida |
+| /media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-hunt1.webp | http://mundovan.com/wp-content/uploads/2024/02/Autocaravana-Burstner-Lyseo-TD-690-G-Privilege.jpg | Mundovan (concesionario) | desconocida |
+| /media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-hunt2.webp | https://www.vrcamper.it/uploads/2021/02/1_burstner_lyseo_td_690_g_-_privilege_camper_semintegrale_nuovo_con_letti_gemelli_e_bascuante,_dinette_trasformabile_in_letto,_garage._su_fiat_ducato_160_cv.jfif | VR Camper (concesionario) | desconocida |
+| /media/fiat-panda-pandina-2025-hunt1.webp | https://auto-online-magazin.de/wp-content/uploads/2025/10/Pandina_01.jpg | Auto Online Magazin | desconocida |
+| /media/fiat-panda-pandina-2025-hunt2.webp | https://www.autonocion.com/wp-content/uploads/2024/02/Fiat-Pandina1.jpg | Autonoción | desconocida |
+| /media/fiat-panda-pandina-2025-hunt3.webp | https://www.datocms-assets.com/46890/1758880982-fiat_pandina_int.jpg | Intergea Nordest (concesionario Fiat) | desconocida |
+| /media/mecatecno-t8-2026-ficha-tecnica-precio-hunt1.webp | https://www.thomatrial.de/images/Mecatecno/T8/T8-2020.jpg | Thomatrial | desconocida |
+| /media/mecatecno-t8-2026-ficha-tecnica-precio-hunt2.webp | https://images.tapatalk-cdn.com/15/08/21/7aeb78b312b38dd4c10325c6322a68e7.jpg | 2y4t (foro, foto de usuario) | desconocida |
+| /media/mecatecno-t8-2026-ficha-tecnica-precio-hunt3.webp | https://media.nonstopbikes.com/product/mecatecno-t8-800x800.jpg?width=520 | Nonstop Bikes | desconocida |
