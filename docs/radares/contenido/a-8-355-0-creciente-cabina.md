@@ -12,6 +12,14 @@
 
 La cabina ocupa la **A-8, punto kilométrico 355,0**, y supervisa el **sentido creciente**, al que la DGT asigna el destino **Galicia**. Sus coordenadas la sitúan en la costa este de Asturias, en el tramo de la A-8 que mira al mar. Atención a su pareja: a tan solo 1,1 km, en el pk 355,9, hay instalada una cabina adicional de la DGT en dirección contraria. Vigilar cada sentido a tan corta distancia mutua revela un tramo de notable intensidad circulatoria.
 
+<iframe title="Mapa: radar a-8-355-0-creciente-cabina" src="https://www.google.com/maps?q=43.4879,-5.4304&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-8-355-0-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=43.4879,-5.4304&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La **A-8** surca la fachada septentrional pegada a la costa, enlazando la cornisa cantábrica con Galicia. En Asturias avanza paralela al mar, con la vía desdoblada, y da salida a tráficos bien diversos: camiones de ruta, visitantes de temporada y movimientos diarios entre concejos.
