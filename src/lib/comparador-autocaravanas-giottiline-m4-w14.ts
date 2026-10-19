@@ -37,7 +37,7 @@ export const AUTOCARAVANAS_GIOTTILINE_M4: Autocaravana[] = [
     videoId: null,
     videoCanal: null,
     largoMm: 6990, // catálogo oficial Giottiline 2019 (699 cm) y camperonline.it
-    anchoMm: null, // no publicado en el material oficial consultado
+    anchoMm: 2320, // 232 cm en el diagrama de planta del catálogo oficial Giottiline 2019 (página del Therry T34)
     altoMm: null, // no publicado en el material oficial consultado
     pesoKg: null,
     mmaKg: null, // la marca no publica la MMA del T34 en el material consultado
@@ -57,7 +57,11 @@ export const AUTOCARAVANAS_GIOTTILINE_M4: Autocaravana[] = [
       "(anteprime 2020, texto italiano: 'letto posteriore centrale', 'zona toilette realizzata in ambienti indipendenti', 'cucina a L'). " +
       "Cama central de 1,88x1,50 m y motor Peugeot Boxer 130 CV (160 CV opcional): review outandaboutlive.co.uk 'Giottiline Therry T34 motorhome'. " +
       "Plazas 4 (5 en opción): catálogo oficial 2019 ('4 (5 OPT)'). Pack Therry 2022/23 (ESP, Traction+, aire cabina, Truma CP Plus, cámara trasera 7''): " +
-      "lalbacaravaning.com 'PACK THERRY 2022/23'. En null: precio (Giottiline no publica tarifa ES), MMA, anchura, altura, peso, consumo y tracción (sin fuente oficial).",
+      "lalbacaravaning.com 'PACK THERRY 2022/23'. En null: precio (Giottiline no publica tarifa ES), MMA, altura, peso, consumo y tracción (sin fuente oficial). " +
+      "Fotos (verificación 19/10/2026): 3 fotos OFICIALES del catálogo oficial Giottiline 2019 (https://www.camperonline.it/magazine/cataloghi/2019-giottiline.pdf, " +
+      "página del Therry T34): salón comedor, cama central posterior y baño. La foto exterior es real del modelo exacto (anuncio de concesionario, sin rótulos " +
+      "ni marcas de agua): el catálogo oficial solo incluye un render ilustrado del exterior, no una foto, así que se mantiene la mejor foto real disponible. " +
+      "Anchura 232 cm tomada del diagrama de planta del catálogo oficial 2019.",
     curiosidades:
       "El T34 estrenó en la temporada 2020 una distribución inédita en la gama Therry: cama central posterior en solo 6,99 metros, con la zona de baño " +
       "resuelta en dos ambientes independientes (lavabo con WC por un lado y box de ducha separado por otro) en lugar del baño compacto habitual de las " +
@@ -93,9 +97,9 @@ Para quién es. La Therry T34 encaja con parejas viajeras que quieren cama centr
     opiniones: [],
     galeria: [
       { src: "/media/giottiline-therry-34-2026-precio-ficha-tecnica-oficial.webp", alt: "Giottiline Therry T34, vista exterior", ancho: 1024, alto: 768 },
-      { src: "/media/giottiline-therry-34-2026-precio-ficha-tecnica-interior1.webp", alt: "Giottiline Therry T34, salón interior", ancho: 1024, alto: 768 },
-      { src: "/media/giottiline-therry-34-2026-precio-ficha-tecnica-interior2.webp", alt: "Giottiline Therry T34, comedor y cabina", ancho: 950, alto: 713 },
-      { src: "/media/giottiline-therry-34-2026-precio-ficha-tecnica-detalle.webp", alt: "Giottiline Therry T34, detalle del salón y la cama posterior", ancho: 950, alto: 713 },
+      { src: "/media/giottiline-therry-34-2026-precio-ficha-tecnica-interior1.webp", alt: "Giottiline Therry T34, salón comedor (foto oficial del catálogo Giottiline 2019)", ancho: 572, alto: 502 },
+      { src: "/media/giottiline-therry-34-2026-precio-ficha-tecnica-interior2.webp", alt: "Giottiline Therry T34, cama central posterior (foto oficial del catálogo Giottiline 2019)", ancho: 454, alto: 399 },
+      { src: "/media/giottiline-therry-34-2026-precio-ficha-tecnica-detalle.webp", alt: "Giottiline Therry T34, baño (foto oficial del catálogo Giottiline 2019)", ancho: 334, alto: 253 },
     ],
     analisisSlug: "giottiline-therry-34-2026-analisis-opinion",
     planMantenimiento: {
@@ -151,7 +155,10 @@ Para quién es. La Therry T34 encaja con parejas viajeras que quieren cama centr
       "(opcional conversión del salón 200x76 cm), frigorífico 142 l, agua limpia 100 l, grises 100 l, WC 18 l, paredes/techo/suelo 33/30/63 mm, " +
       "calefacción Truma Combi 4000 a gas con boiler de 10 l y mando CP Plus. " +
       "4 plazas homologadas, PTAC 3.500 kg y dimensiones 5,99x2,35x2,89 m: anuncio AZUR 72 en annonces-caravaning.com (unidad 2023). " +
-      "En null: precio (sin tarifa oficial ES), peso en orden de marcha, consumo y par (sin fuente oficial).",
+      "En null: precio (sin tarifa oficial ES), peso en orden de marcha, consumo y par (sin fuente oficial). " +
+      "Fotos (verificación 19/10/2026): 4 fotos de prensa del modelo exacto (se lee '330' en la trasera), sin marcas de agua ni rótulos; no se localizaron " +
+      "fotos oficiales del fabricante para el Siena 330 (el catálogo oficial Giottiline 2019 es anterior al modelo y el catálogo 2020 no está publicado en " +
+      "línea; la web actual de Giottiline ya no incluye el 330 en la gama), así que se mantienen las mejores fotos de prensa disponibles.",
     curiosidades:
       "El Siena 330 fue la apuesta de Giottiline para demostrar que una perfilada de menos de 6 metros podía ofrecer cama matrimonial LONGITUDINAL " +
       "de 196x136 cm y box de ducha separado sin pasar de los 5,99 m de largo: la prensa italiana lo presentó en 2020 como el semintegrale con mejor " +
