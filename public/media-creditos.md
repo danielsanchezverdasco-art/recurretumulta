@@ -4701,3 +4701,26 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/wuling-bingo-plus-2024-precio-ficha-tecnica-hunt1.webp | https://wuling.com.lb/wp-content/uploads/2025/06/Front-View-scaled.jpg | Wuling (web oficial Líbano) / prensa oficial | desconocida |
 | /media/wuling-bingo-plus-2024-precio-ficha-tecnica-hunt2.webp | https://carnewschina.com/wp-content/uploads/2024/01/2-21-800x483.jpg | CarNewsChina / imágenes oficiales de Wuling | desconocida |
 | /media/wuling-bingo-plus-2024-precio-ficha-tecnica-hunt3.webp | https://www.cevauto.com/wp-content/uploads/2024/06/WULING-BINGO-PLUS-1.png | CEVAUTO / prensa oficial Wuling | desconocida |
+| /media/exeed-vx-2025-precio-ficha-tecnica-hunt1.webp | https://global-img.bitauto.com/yhzx/20250210/320/916969932033116.jpeg | BitAuto / EXEED (foto de prensa) | desconocida |
+| /media/exeed-vx-2025-precio-ficha-tecnica-hunt2.webp | https://exeedksa.com/wp-content/uploads/2025/05/image-4.png | EXEED Arabia Saudí (web oficial) | desconocida |
+| /media/exeed-vx-2025-precio-ficha-tecnica-hunt3.webp | https://autosalon.by/wp-content/uploads/2025/02/exeedvx4.jpg | autosalon.by (concesionario EXEED) | desconocida |
+| /media/gac-m8-2026-precio-ficha-tecnica-hunt1.webp | https://drivingenthusiast.com.au/wp-content/uploads/2025/12/2026-GAC-M8-white-800x485.jpg | Driving Enthusiast | desconocida |
+| /media/gac-m8-2026-precio-ficha-tecnica-hunt2.webp | https://drivingenthusiast.com.au/wp-content/uploads/2025/12/2026-GAC-M8-Australia.jpg | Driving Enthusiast | desconocida |
+| /media/gac-m8-2026-precio-ficha-tecnica-hunt3.webp | https://imgcdn.zigwheels.my/large/gallery/exterior/114/2565/gac-m8-phev-70782.jpg | ZigWheels Malasia | desconocida |
+| /media/vespa-gtv-310-2026-ficha-tecnica-precio-hunt1.webp | https://wlassets.vespa.com/wlassets/vespa/master/range/gtv/models-page/2026/Officina-8/GTV-310/Tab/TAB-GTV-Officina-8-310-900x675-A/original/TAB-GTV-Officina-8-310-900x675-A.jpg?1778592019314 | Vespa (web oficial) | desconocida |
+| /media/vespa-gtv-310-2026-ficha-tecnica-precio-hunt2.webp | https://vespaoficial.com.ar/2025/wp-content/uploads/2026/07/Vespa-GTV-Cover.jpg | Vespa Oficial Argentina | desconocida |
+| /media/vespa-gtv-310-2026-ficha-tecnica-precio-hunt3.webp | https://storage.googleapis.com/mhimg/p/6125/12616125/696c_l.jpg | MotoHunt (anuncio concesionario) | desconocida |
+| /media/wuling-bingo-2024-precio-ficha-tecnica-hunt1.webp | https://indonesiaautoshow.com/wp-content/uploads/2024/01/Wuling-Binguo-EV-2.jpeg | Indonesia International Motor Show | desconocida |
+| /media/wuling-bingo-2024-precio-ficha-tecnica-hunt2.webp | https://www.cevauto.com/wp-content/uploads/2024/05/WULING-BINGO-1.png | CEVAUTO | desconocida |
+| /media/wuling-bingo-2024-precio-ficha-tecnica-hunt3.webp | https://global-img.bitauto.com/yhzx/20240911/966/603292196610190.png | BitAuto | desconocida |
+| /media/exeed-sterra-es-2025-precio-ficha-tecnica-hunt1.webp | https://images.carexpert.com.au/app/uploads/2024/03/exeed_sterra_es.jpeg | CarExpert (Australia), foto de prensa del fabricante | desconocida |
+| /media/exeed-sterra-es-2025-precio-ficha-tecnica-hunt2.webp | https://wetocar.ru/media/models/23817150/3_4_behind.webp | WeToCar | desconocida |
+| /media/exeed-sterra-es-2025-precio-ficha-tecnica-hunt3.webp | https://uploads.automaistv.com.br/2023/12/exeed_sterra_es_6_edited.jpg | Automaistv (Brasil), foto de prensa del fabricante | desconocida |
+| /media/kymco-dtx-360-2025-ficha-tecnica-precio-hunt1.webp | https://kymco.com.mx/wp-content/uploads/2025/09/DTX-360_01.webp | Kymco México (web oficial del producto) | desconocida |
+| /media/kymco-dtx-360-2025-ficha-tecnica-precio-hunt2.webp | https://kymco.com.mx/wp-content/uploads/2025/09/DTX-360_04.webp | Kymco México (web oficial del producto) | desconocida |
+| /media/kymco-dtx-360-2025-ficha-tecnica-precio-hunt3.webp | https://www.2wo.gr//cache/com_dpfields/gallery/2/900x600/News/2025/July/KYMCO_DTX_360_2025/KYMCO_DTX_360_2025_2.jpg | 2wo.gr (fotos de prensa de Kymco) | desconocida |
+| /media/nevo-c390-2025-precio-ficha-tecnica-hunt1.webp | https://cnevpost.com/wp-content/uploads/2025/05/2025051309423915.jpg | CnEVPost (imágenes oficiales de teaser de Changan) | desconocida |
+| /media/nevo-c390-2025-precio-ficha-tecnica-hunt2.webp | https://cnevpost.com/wp-content/uploads/2025/05/2025051309424223.jpg | CnEVPost (imágenes oficiales de teaser de Changan) | desconocida |
+| /media/nevo-c390-2025-precio-ficha-tecnica-hunt3.webp | https://global-img.bitauto.com/yhzx/20250513/950/713130295058410.jpg | BitAuto (imágenes oficiales de Changan NEVO) | desconocida |
+| /media/wuling-starlight-s-ev-2024-precio-ficha-tecnica-hunt1.webp | https://www.exp-byd.com/wp-content/uploads/2024/08/WULING-STARLIGHT-S-12.webp | exp-byd.com | desconocida |
+| /media/wuling-starlight-s-ev-2024-precio-ficha-tecnica-hunt2.webp | https://www.exp-byd.com/wp-content/uploads/2024/08/WULING-STARLIGHT-S-14.webp | exp-byd.com | desconocida |
