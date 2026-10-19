@@ -772,7 +772,7 @@ export const COCHES_EXP15: CocheComparador[] = [
     categoria: "SUV",
     precioDesde: 61900,
     potenciaCv: 381,
-    autonomiaKm: null,
+    autonomiaKm: 500,
     maleteroL: 522,
     ceroCien: null,
     velocidadMax: null,
@@ -787,7 +787,7 @@ export const COCHES_EXP15: CocheComparador[] = [
       "5 estrellas Euro NCAP (2023): 87 % en protección de adultos",
     ],
     contras: [
-      "Autonomía oficial sin publicar para esta versión",
+      "500 km WLTP con llantas de 18\": con llantas de 20\" la autonomía baja a 283 millas (~455 km)",
       "El 350e de 224 CV ofrece más autonomía por 10.000 € menos",
       "Maletero de 522 litros, justo para un SUV de 4,8 m",
       "Peso elevado: la agilidad no es su fuerte",
