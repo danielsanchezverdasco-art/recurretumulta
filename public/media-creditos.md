@@ -1448,3 +1448,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/dongfeng-epi-007-2025-precio-ficha-tecnica-hunt1.webp | https://chinacarnews.com/uploads/images/202505/image_870x580_682e53f7c4f90.webp | ChinaCarNews (foto de prensa) | desconocida |
 | /media/dongfeng-epi-007-2025-precio-ficha-tecnica-hunt2.webp | https://movilidadelectrica.com/wp-content/uploads/2025/11/Dongfeng-parte-trasera.png | MovilidadEléctrica (movilidadelectrica.com) | desconocida |
 | /media/dongfeng-epi-007-2025-precio-ficha-tecnica-hunt3.webp | https://dongfeng.by/wp-content/uploads/2024/09/ep007-int-2.jpg | Dongfeng (distribuidor oficial Bielorrusia, dongfeng.by) | desconocida |
+| /media/kia-ev3-gt-line-2025-precio-ficha-tecnica-hunt1.webp | https://www.dailyrevs.com/cars/2025-kia-ev3-gt-line-european-version | DailyRevs | desconocida |
+| /media/kia-ev3-gt-line-2025-precio-ficha-tecnica-hunt2.webp | https://www.completecar.ie/car-reviews/article/Kia/EV3/EV3_GT-Line_Long_Range_(2025)/2450/13727//2024-Kia-EV3-GT-Line-Long-Range-(2025)-review.html | CompleteCar | desconocida |
+| /media/kia-ev3-gt-line-2025-precio-ficha-tecnica-hunt3.webp | https://evda.it/con-la-ev3-kia-semplifica-la-mobilita-sostenibile-amplificando-laccessibilita-alle-ev/ | EVDA | desconocida |
+| /media/baic-eu5-2025-precio-ficha-tecnica-hunt1.webp | https://imgcdn.sayaratbay.com/large/gallery/exterior/103/2299/baic-eu5-side-view-200776.jpg | Sayaratbay / BAIC press | desconocida |
+| /media/baic-eu5-2025-precio-ficha-tecnica-hunt2.webp | https://imgcdn.sayaratbay.com/large/gallery/exterior/103/2299/baic-eu5-rear-medium-view-387161.jpg | Sayaratbay / BAIC press | desconocida |
+| /media/baic-eu5-2025-precio-ficha-tecnica-hunt3.webp | https://global-img.bitauto.com/usercenter/autoalbum/20250409/116/w0_m5_yichecar_418345311691793.jpg.webp | BitAuto (crédito en esquina) | desconocida |
+| /media/wey-03-2024-precio-ficha-tecnica-hunt1.webp | https://www.greatwall.bg/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fx9estgcn%2Fproduction%2Fe27bb5f20c2efcaa9d313ad17bfd0eac7ef8c70a-1920x960.png&w=1920&q=100 | Great Wall Motor (greatwall.bg, distribuidor oficial) | desconocida |
+| /media/wey-03-2024-precio-ficha-tecnica-hunt2.webp | https://images.prismic.io/carwow/5596a458-5076-4bf4-a213-51e01c80d6da_LHD+GWM+WEY+03+2024+Exterior+15.jpg?auto=format&cs=tinysrgb&fit=max&q=60 | Carwow Alemania | desconocida |
+| /media/wey-03-2024-precio-ficha-tecnica-hunt3.webp | https://images.prismic.io/carwow/f965036a-5354-4ad5-a57b-54b5a5f4c5a6_LHD+GWM+WEY+03+2024+Interior+2.jpg?auto=format&cs=tinysrgb&fit=clip&ixlib=rb-1.1.0&q=60&w=1366 | Carwow Alemania | desconocida |
+| /media/dongfeng-huge-hev-2025-precio-ficha-tecnica-hunt1.webp | https://evmotors.com/inventory/ | EV Motors (press) | desconocida |
+| /media/dongfeng-huge-hev-2025-precio-ficha-tecnica-hunt2.webp | https://www.zigwheels.ae/new-cars/dongfeng/huge | ZigWheels.ae | desconocida |
+| /media/dongfeng-huge-hev-2025-precio-ficha-tecnica-hunt3.webp | https://www.sayarabay.com/new-cars/dongfeng/huge | SayaraBay | desconocida |
+| /media/dongfeng-epi-008-2025-precio-ficha-tecnica-hunt1.webp | https://ncars.com.ua/ru/models/dongfeng/e-008/ | NCars (blog) | desconocida |
+| /media/dongfeng-epi-008-2025-precio-ficha-tecnica-hunt2.webp | https://ru.ev.wiki/ru/catalog_all/991 | ev.wiki | desconocida |
+| /media/dongfeng-epi-008-2025-precio-ficha-tecnica-hunt3.webp | https://ncars.com.ua/ru/models/dongfeng/e-008/ | NCars (blog) | desconocida |
+| /media/exeed-txl-2025-precio-ficha-tecnica-hunt1.webp | https://www.zigwheels.ae/car-news/new-2025-exeed-txl-arrives-in-the-uae | ZigWheels.ae | desconocida |
+| /media/exeed-txl-2025-precio-ficha-tecnica-hunt2.webp | https://blog.zonesso.com/exeed-txl-2025-price-and-performance/ | Zonesso | desconocida |
+| /media/exeed-txl-2025-precio-ficha-tecnica-hunt3.webp | https://www.exeedoman.com/models/txl/index.html | Exeed Oman (web oficial del distribuidor) | desconocida |
+| /media/exeed-lx-c-dm-2024-precio-ficha-tecnica-hunt1.webp | https://carnewschina.com/2024/02/02/the-updated-exeed-lx-c-dm-suv-hits-the-market/ | CarNewsChina | desconocida |
+| /media/exeed-lx-c-dm-2024-precio-ficha-tecnica-hunt2.webp | https://wcevcar.com/en/car/chery-exeed-lx-c-dm-2024 | Wancheng EV Car | desconocida |
+| /media/exeed-lx-c-dm-2024-precio-ficha-tecnica-hunt3.webp | https://wcevcar.com/en/car/chery-exeed-lx-c-dm-2024 | Wancheng EV Car | desconocida |
+| /media/gac-aion-rt-2025-precio-ficha-tecnica-hunt1.webp | https://www.gzdcars.com/car/aion-rt/ | GZDCars | desconocida |
+| /media/gac-aion-rt-2025-precio-ficha-tecnica-hunt2.webp | https://www.gzdcars.com/car/aion-rt-2/ | GZDCars | desconocida |
+| /media/gac-aion-rt-2025-precio-ficha-tecnica-hunt3.webp | https://ev.com/news/gac-aion-officially-launches-aion-rt-with-starting-price-at-rmb-119800 | EV.com | desconocida |
