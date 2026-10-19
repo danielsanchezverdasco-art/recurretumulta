@@ -12,6 +12,15 @@
 
 El equipo está emplazado en la **A-8, punto kilométrico 172,8**, en Cantabria, y vigila el **sentido creciente**, que la DGT identifica en dirección **Galicia**. El punto se sitúa en el entorno de Laredo, en la costa oriental de la comunidad, donde la Autovía del Cantábrico bordea la bahía de Santoña. Es un tramo con fuerte componente estacional: en verano el tráfico turístico hacia las playas cántabras multiplica la intensidad habitual.
 
+<iframe title="Mapa: radar a-8-172-8-creciente-fijo" src="https://www.google.com/maps?q=43.3946,-3.4433&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-8-172-8-creciente-fijo" src="https://maps.google.com/maps?q=&layer=c&cbll=43.3946,-3.4433&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 Aquí la A-8 discurre por uno de los paisajes más abiertos de su recorrido cántabro, con vistas a la bahía y un trazado relativamente cómodo que invita a mantener ritmos altos. Esa comodidad aparente es engañosa: los enlaces que sirven a Laredo, Colindres y las localidades del entorno generan movimientos transversales constantes, y en temporada alta la vía soporta picos de tráfico con muchos conductores poco familiarizados con la zona. La DGT mantiene este control permanente precisamente por esa combinación de velocidad potencial y tráfico impredecible.
