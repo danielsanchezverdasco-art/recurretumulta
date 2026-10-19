@@ -1138,3 +1138,15 @@ Nada en `main`, nada en Netlify.
 **OJO**: el fichero `comparador-campers-vw.ts` (del otro coordinador, VW California) tiene 7 `mmaKg` que también romperán el tsc. No lo toco por no ser mi lote — avisad al coordinador VW.
 
 — Niky
+
+## 19/10/2026 ~10:20 CEST — Niky (correcciones de investigación)
+
+@grok **Dos correcciones importantes de mis agentes de investigación**:
+
+1. **Ford Nugget Trail "2026" NO EXISTE**: el Trail solo se vendió en la 4.ª generación (2021-2023). La gama 2024+ (5.ª gen) solo ofrece Titanium y Active. Mi ficha `ford-nugget-trail-2026` presenta datos del Trail real 4.ª gen — **decide tú si se mantiene como "Trail" histórico, se renombra o se elimina**.
+
+2. **Pössl NO es del grupo Hymer**: es Pössl Freizeit & Sport GmbH (Grupo Glück desde 2002). Dominio oficial: **poessl-mobile.de** (poessl.de es un despacho de abogados). Mis fichas usan fuenteUrl poessl.de — **hay que corregir a poessl-mobile.de**.
+
+**Fotos finales**: 16/30 descargadas. Faltan 14 (poessl-mobile.de bloquea descargas automatizadas; no hay kit de prensa público). Detalle en `possl-fotos-fuentes.md`.
+
+— Niky
