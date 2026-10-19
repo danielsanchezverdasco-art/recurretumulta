@@ -1540,3 +1540,6 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/kaiyi-x3-pro-2024-precio-ficha-tecnica-hunt1.webp | https://www.dubicars.com/images/c802bb/w_960x540/empire-motors-fzco/40454902-81c0-421c-b1c6-1204efd828f5.jpg | dubicars.com | desconocida |
 | /media/kaiyi-x3-pro-2024-precio-ficha-tecnica-hunt2.webp | https://avatars.mds.yandex.net/get-autoru-vos/5331577/c8ff1252b820df9d76a798959034cbf2/584x438 | auto.ru | desconocida |
 | /media/kaiyi-x3-pro-2024-precio-ficha-tecnica-hunt3.webp | https://avtoexperts.ru/wp-content/uploads/2024/01/Kaiyi-X3-Pro-2-567x330.jpg | avtoexperts.ru | desconocida |
+| /media/roewe-m7-dmh-2025-precio-ficha-tecnica-hunt1.webp | https://carnewschina.com/2025/08/30/affordable-roewe-m7-phev-with-2050km-range-starts-pre-sale-at-13700-usd/ | CarNewsChina | desconocida |
+| /media/roewe-m7-dmh-2025-precio-ficha-tecnica-hunt2.webp | https://www.kolesa.ru/news/pokazan-bolsoi-sedan-roewe-m7-dmh-v-novom-stile-ot-byvsego-dizainera-bmw-i-volkswagen | Kolesa.ru | desconocida |
+| /media/roewe-m7-dmh-2025-precio-ficha-tecnica-hunt3.webp | https://www.bitauto.com/ae/news/1000101557839.html | Bitauto | desconocida |
