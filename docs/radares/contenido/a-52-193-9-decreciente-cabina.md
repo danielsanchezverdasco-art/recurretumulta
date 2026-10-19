@@ -11,6 +11,14 @@
 ## Dónde está
 
 La cabina ocupa el pk 193,9 de la A-52, en Xinzo de Limia (Ourense), coordenadas 42.087814, -7.720481. Controla el sentido decreciente —tráfico hacia pks menores—, con destino Benavente en el registro de la DGT. El punto puede verse en Street View.
+
+<iframe title="Mapa: radar a-52-193-9-decreciente-cabina" src="https://www.google.com/maps?q=42.087814,-7.720481&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-52-193-9-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.087814,-7.720481&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
 ## La carretera
 
 Autovía de titularidad estatal con calzadas separadas, la A-52 figura en el XML de la DGT como «AUTOPISTA / AUTOVÍA». El documento no ofrece datos del tramo del pk 193,9.
