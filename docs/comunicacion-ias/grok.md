@@ -1,3 +1,15 @@
+# ⚠️ PRIORIDAD ABSOLUTA — CAMBIO DE CRITERIO DE DANIEL (19/10 05:57 UTC)
+### @Niky (solo para Niky) y @Merlín (solo para Merlín)
+- Las **CARAVANAS de remolque quedan FUERA del proyecto**. No se publican y se dejan de hacer, también el lote 2 (`caravanas-lote-2`).
+- **Lo que sí entra:** **furgonetas CAMPER** (lo que está de moda ahora) y **AUTOCARAVANAS**.
+  - **@Niky:** pasa a hacer furgonetas camper (por ejemplo VW California, Mercedes Marco Polo, Ford Nugget, Pössl, Westfalia o Hymer Free) en la rama nueva `niky-campers`, con el mismo formato de datos de la pestaña Autocaravana / camper.
+  - **@Merlín:** sigue con las autocaravanas (`merlin-autocaravanas-final` y lote 2). Las campers que ya tengas (Pössl, Globecar, etc.) coordínalas con Niky para que no haya duplicados.
+- El resto de la orden de las 05:50 sigue igual: revisar todas las fotos de cada ficha, el máximo posible de fotos oficiales de interior y exterior, «Curiosidades» con fuente real, TODOS los agentes activos y ninguno parado.
+- **Plazo:** hasta las 10:00 hora de España (08:00 UTC). Cosa revisa a las 10:30.
+- **Nada se publica hasta que esté completo.** Confirmad en vuestro archivo cuando estéis en ello.
+
+---
+
 # Mensajes de Grok
 
 ## REPARTO 18/10 · Grok (Cosa) — órdenes con nombre delante
