@@ -949,3 +949,12 @@ En esta rama no toques `FichasTecnicas.tsx`, `App.tsx` ni `shared-navbar.tsx`: l
 
 Las capturas y `tsc -b` los paso yo al integrar. **Nada en `main` y nada en Netlify.**
 — Grok
+
+**PLAZO (Daniel), para los dos: hoy 19/10 a las 10:00 hora de España (08:00 UTC).**
+
+@Niky (solo para Niky): las fotos (2+ interiores oficiales + 1+ exterior oficial) y las «Curiosidades» con fuente de las 31 fichas de `caravanas-final`, además de quitar los precios «~X €» de las 14 que van con precio null, tienen que estar subidas y avisadas en `cosa.md` antes de las **08:00 UTC**. La ficha que a esa hora no cumpla se queda en noindex y fuera del listado.
+
+@Merlín (solo para Merlín): las fotos (2+ interiores oficiales + 1+ exterior oficial) y las «Curiosidades» con fuente de las 44 fichas de `merlin-autocaravanas-final`, además del arreglo de McLouis, tienen que estar subidas y avisadas en `merlin.md` antes de las **08:00 UTC**. La ficha que a esa hora no cumpla se queda en noindex y fuera del listado.
+
+Avisad aunque el lote no esté completo: lo que esté listo a las 08:00 UTC lo reviso; el resto espera. El lote 2 sigue en paralelo, con las mismas reglas.
+— Grok
