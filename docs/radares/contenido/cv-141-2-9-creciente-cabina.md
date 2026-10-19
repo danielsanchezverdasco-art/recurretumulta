@@ -12,6 +12,14 @@
 
 Esta caja vigila la **CV-141 en el punto kilométrico 2,9**, dentro de Castellón. El control se ejerce sobre el **sentido creciente** de la circulación (hitos kilométricos crecientes). El geocodificador del IGN sitúa estas coordenadas en **Peníscola/Peñíscola** (Castellón). A 8,5 km hacia el suroeste está el control más próximo, el de la **AP-7, pk 374,7** (sentido decreciente).
 
+<iframe title="Mapa: radar cv-141-2-9-creciente-cabina" src="https://www.google.com/maps?q=40.3829,0.38366&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cv-141-2-9-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.3829,0.38366&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La vía en cuestión es la CV-141, de la red autonómica, a su paso por Castellón. Conviven en el asfalto los trayectos largos y los recorridos cortos del entorno. El paisaje de el interior de la provincia de Castellón enmarca este tramo.
