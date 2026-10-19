@@ -39,7 +39,7 @@ export const AUTOCARAVANAS_NIESMANNBISCHOFF_M3: Autocaravana[] = [
     largoMm: 9060, // ficha de distribuidor y prensa (generación actual sobre Mercedes Sprinter)
     anchoMm: 2400,
     altoMm: 3030,
-    pesoKg: 4500, // aprox. en orden de marcha, según prensa especializada (tourstory.de: «rund 4,5 Tonnen»)
+    pesoKg: null, // ~4.500 kg en orden de marcha según prensa especializada (tourstory.de), no dato oficial
     mmaKg: 5000, // ampliable a 5.500 kg de fábrica
     carnetNecesario: "C1", // MMA de 5.000 kg
     cargaUtilKg: null, // no publicada por la marca
@@ -86,10 +86,10 @@ Para quién es: para viajeros con carnet C1 y presupuesto de liner que quieren u
     ],
     opiniones: [],
     galeria: [
-      { src: "/media/niesmann-bischoff-arto-88-lf-2026-precio-ficha-tecnica-oficial.webp", alt: "Niesmann+Bischoff Arto 88 LF, vista exterior delantera", ancho: 828, alto: 621 },
+      { src: "/media/niesmann-bischoff-arto-88-lf-2026-precio-ficha-tecnica-oficial.webp", alt: "Niesmann+Bischoff Arto 88 LF, vista exterior delantera", ancho: 1536, alto: 864 },
       { src: "/media/niesmann-bischoff-arto-88-lf-2026-precio-ficha-tecnica-interior1.webp", alt: "Niesmann+Bischoff Arto 88 LF, dormitorio (foto oficial)", ancho: 1024, alto: 819 },
       { src: "/media/niesmann-bischoff-arto-88-lf-2026-precio-ficha-tecnica-interior2.webp", alt: "Niesmann+Bischoff Arto 88 LF, dormitorio acabado claro (foto oficial)", ancho: 1280, alto: 1024 },
-      { src: "/media/niesmann-bischoff-arto-88-lf-2026-precio-ficha-tecnica-detalle.webp", alt: "Niesmann+Bischoff Arto 88 LF, vista lateral exterior", ancho: 1024, alto: 768 },
+      { src: "/media/niesmann-bischoff-arto-88-lf-2026-precio-ficha-tecnica-detalle.webp", alt: "Niesmann+Bischoff Arto 88 LF, cocina (foto oficial de prensa)", ancho: 1400, alto: 875 },
     ],
     analisisSlug: "niesmann-bischoff-arto-88-lf-analisis-opinion",
     planMantenimiento: {
