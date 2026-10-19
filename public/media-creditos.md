@@ -1863,3 +1863,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/aixam-d-truck-furgon-van-2025-precio-ficha-tecnica-hunt1.webp | https://aixam.fra1.cdn.digitaloceanspaces.com/_1400xAUTO_crop_center_90_none/6975/aixam-d-truck-fourgon.webp | Aixam Pro / concesionario Aixam (minicarsulmona.it) | desconocida |
 | /media/aixam-d-truck-furgon-van-2025-precio-ficha-tecnica-hunt2.webp | https://www.aixam-pro.com/ressources/modeles/min_aixam-d-truck-fourgon.png | Aixam Pro (web oficial aixam-pro.com) | desconocida |
 | /media/aixam-d-truck-furgon-van-2025-precio-ficha-tecnica-hunt3.webp | https://cdn-ic.caraffinity.it/big/00071699.JPG | carAffinity.it (configurador Aixam D-Truck 400 Furgone) | desconocida |
+| /media/citroen-c4-cactus-2025-hunt1.webp | https://webdev.trustmotors.ro/wp-content/uploads/C4-Cactus-Design.jpg | Trust Motors (concesionario, trustmotors.ro) | desconocida |
+| /media/citroen-c4-cactus-2025-hunt2.webp | https://www.autodato.com/wp-content/uploads/2020/03/Citroen-C4-Cactus-C-Series-1248x780.jpeg.webp | Autodato (autodato.com) | desconocida |
+| /media/citroen-c4-cactus-2025-hunt3.webp | https://img.autocarpro.in/autocarpro/IMG/272/61272/citeron.jpg?w=735&h=490&q=80 | Autocar Professional (autocarpro.in) | desconocida |
+| /media/jetour-x50-2025-precio-ficha-tecnica-hunt1.webp | https://jetour.md/wp-content/uploads/2024/08/X50-main-menu-2.png | Jetour Moldavia (concesionario oficial jetour.md) | desconocida |
+| /media/jetour-x50-2025-precio-ficha-tecnica-hunt2.webp | https://data.favorit-motors.ru/upload/iblock/46a/46a151d3bf3e60479d82a0b5da9ae6e2.png | Favorit Motors (concesionario oficial Rusia, favorit-motors.ru) | desconocida |
+| /media/jetour-x50-2025-precio-ficha-tecnica-hunt3.webp | https://www.auto-mgn.ru/resources/images/upload/00077922162bc6012071_990x0_I.png | Auto-Magnitogorsk (concesionario auto-mgn.ru) | desconocida |
+| /media/razor-c25-hunt1.webp | https://www.pinca.ae/cdn/shop/files/Yourparagraphtext_6.jpg?v=1754140627&width=550 | Pinca (concesionario, pinca.ae) | desconocida |
+| /media/razor-c25-hunt2.webp | https://cdn.ae1stcry.com/brainbees/images/products/zoom/b090bae28cf25a.webp | FirstCry (firstcry.ae) | desconocida |
+| /media/razor-c25-hunt3.webp | https://wp.jomla.ae/wp-content/uploads/2022/10/Razor-C25-25KmH-36V-Electric-Scooter-GreyRazor-C25-25KmH-36V-Electric-Scooter-GreyRazor-C25-25KmH-36V-Electric-Scooter-GreyRazor-C25-25KmH-36V-Electric-Scooter-Grey.png | Jomla (jomla.ae) | desconocida |
+| /media/silence-s03-2025-ficha-tecnica-precio-hunt1.webp | https://www.lovesharing.com/cms/uploads/Silence_S03_1.jpg | LoveSharing (lovesharing.com) | desconocida |
+| /media/silence-s03-2025-ficha-tecnica-precio-hunt2.webp | https://hu.e-scooter.co/i/si/le/silence-s03/full/s03_1.jpg | e-scooter.co (portal europeo de scooters eléctricos) | desconocida |
+| /media/silence-s03-2025-ficha-tecnica-precio-hunt3.webp | https://automotoelettriche.it/wp-content/uploads/2019/11/SILENCE-S03.jpg | automotoelettriche.it | desconocida |
+| /media/aixam-crossline-pack-2025-precio-ficha-tecnica-hunt1.webp | https://aixam.de/fahrzeuge/aixam/crossover-pack/ | Aixam Alemania (web oficial / concesionario oficial) | desconocida |
+| /media/aixam-crossline-pack-2025-precio-ficha-tecnica-hunt2.webp | https://vsp-location.fr | VSP Location (concesionario francés Aixam) | desconocida |
+| /media/aixam-crossline-pack-2025-precio-ficha-tecnica-hunt3.webp | https://www.motociclobarcelense.pt/ | Motociclobarcelense (concesionario Aixam Portugal) | desconocida |
+| /media/audi-rs4-avant-2025-hunt1.webp | https://www.audi.de | Audi (media service oficial) | desconocida |
+| /media/audi-rs4-avant-2025-hunt2.webp | https://torquecafe.com/we-drive-audis-departing-icon/ | TorqueCafe (blog del motor) | desconocida |
+| /media/audi-rs4-avant-2025-hunt3.webp | https://www.carwow.co.uk/audi/rs4-avant/news/7675/new-audi-rs4-avant-25-years-price-specs | Carwow UK (blog del motor) | desconocida |
+| /media/gotrax-g3-plus-hunt1.webp | https://www.walmart.com/ip/GOTRAX-G3-Plus-Adult-Electric-Scooter-300W-10-Tires-Max-18-mile-Foldable-Escooter-for-Adult-Gray/501533764 | Walmart (ficha de producto) | desconocida |
+| /media/gotrax-g3-plus-hunt2.webp | https://www.marjuns.com/products/g3-plus-electric-scooter | Marjuns (tienda online) | desconocida |
+| /media/gotrax-g3-plus-hunt3.webp | https://riderguide.com/reviews/gotrax-g3-plus/ | RiderGuide (blog de reseñas) | desconocida |
+| /media/jeep-avenger-electric-156-2026-precio-ficha-tecnica-hunt1.webp | https://www.jeep-caribbean.com | Jeep (web oficial) | desconocida |
+| /media/jeep-avenger-electric-156-2026-precio-ficha-tecnica-hunt2.webp | https://www.carscoops.com/2026/05/jeep-avenger-facelift-2/ | Carscoops (blog del motor) | desconocida |
+| /media/jeep-avenger-electric-156-2026-precio-ficha-tecnica-hunt3.webp | https://evpowered.co.uk/news/new-jeep-avenger-gets-light-up-grille-and-updated-interior-as-2026-facelift/ | EV Powered (blog del motor) | desconocida |
