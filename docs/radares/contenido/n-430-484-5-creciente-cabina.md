@@ -12,6 +12,15 @@
 
 El emplazamiento del radar es el **pk 484,5 de la N-430** (provincia de Albacete, Castilla-La Mancha). Cubre el **sentido creciente** —los conductores que se desplazan hacia pk crecientes—. Que el control sea en sentido creciente no implica que el contrario esté desatendido: la DGT publica puntos por sentido. El punto vigilado más cercano es el de la **A-31, pk 50,6** (sentido creciente): queda a 18,0 km hacia el noreste. Le sigue en proximidad el de la **N-322, pk 327,3** (sentido decreciente), situado a 19,1 km hacia el sur. La afluencia varía mucho por franjas: tranquila entre semana a mediodía, intensa en fines de semana.
 
+<iframe title="Mapa: radar n-430-484-5-creciente-cabina" src="https://www.google.com/maps?q=39.04394,-2.21318&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-430-484-5-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.04394,-2.21318&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 Estamos ante la N-430, nacional de calzada única a su paso por Albacete. Por aquí discurre el tráfico interregional junto al de los desplazamientos cortos de la zona. El radar fijo está aquí porque el tramo reúne las condiciones típicas de los excesos. De los 3 controles que la DGT publica para la N-430 en la comunidad, este es el tercero por punto kilométrico. Dentro de la propia N-430, el siguiente punto vigilado es el del pk 404,8 (sentido creciente), a 65,9 km hacia el oeste. En conjunto, una vía donde la prudencia con la velocidad nunca está de más. La mejor forma de circular por ella es con anticipación: ver venir lo que la vía va a pedir.
