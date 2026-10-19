@@ -131,7 +131,7 @@ Para quién es. El Summit 600 Plus encaja con quien quiere un camper de 6 metros
     largoMm: 6360, // 6.360 mm en las fichas de mercado (mobile.de); 6.358 mm en el catálogo oficial Globecar 2011
     anchoMm: 2050, // 2.050 mm (catálogo oficial Globecar 2011)
     altoMm: 2650, // 2.650 mm (catálogo oficial Globecar 2011); un exposé declara 2.720 mm
-    pesoKg: 2995, // masa en orden de marcha (catálogo oficial Globecar 2011)
+    pesoKg: null, // 2.995 kg es la masa EN ORDEN DE MARCHA (catálogo oficial Globecar 2011), no la carga útil; la marca no publica la carga útil
     mmaKg: 3500, // 3.500 kg (catálogo oficial y fichas de mercado)
     carnetNecesario: "B",
     cargaUtilKg: null, // no la publica la marca; prohibido calcularla
@@ -150,7 +150,11 @@ Para quién es. El Summit 600 Plus encaja con quien quiere un camper de 6 metros
       "Longitud 6.360-6.363 mm y MMA 3.500 kg en unidades de mercado: mobile.de (p. ej. 'Globecar Campscout B Navi, Busbiker Einzelbetten', CBRW Syke) " +
       "y exposé caraworld.de ('Globecar Campscout/Einzelbetten', 636x205x272 cm, 4 cinturones, Fiat Ducato). " +
       "En null: precio oficial ES, potencia (el catálogo 2011 citaba 2.2/2.3 de 120 CV y 3.0 de 157 CV, motores descatalogados; las unidades " +
-      "actuales montan Fiat/Citroën 2.2 de 140-165 CV según mercado), consumo y carga útil.",
+      "actuales montan Fiat/Citroën 2.2 de 140-165 CV según mercado), consumo y carga útil. " +
+      "Verificación 19/10/2026: los 2.995 kg del catálogo oficial son la MASA EN ORDEN DE MARCHA, no la carga útil; la marca no publica la carga útil, " +
+      "así que pesoKg queda en null (prohibido calcularla). Fotos: las 4 son del modelo exacto (camas gemelas), 2 de prensa y 2 de anuncios de concesionario " +
+      "sin rótulos ni marcas de agua; el catálogo oficial Globecar 2011 (https://www.camperonline.it/magazine/cataloghi/globecar-2011.pdf) solo contiene " +
+      "miniaturas de ~180 px de los interiores, inutilizables, y una ilustración del exterior, así que se mantienen las mejores fotos reales disponibles.",
     curiosidades:
       "El CampScout B es la versión 'de camas gemelas' del Campscout, y su truco está en el catálogo: las dos camas individuales traseras " +
       "(2000x800 y 1900x800 mm) pueden unirse para formar una única cama doble de hasta 190 cm de ancho, de modo que la misma célula sirve " +
