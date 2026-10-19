@@ -12,6 +12,15 @@
 
 Coordenadas 38.023544, -1.1647367: ahí, en la A-30 a la altura del pk 136,0, se ubica esta cabina, dentro del municipio de Murcia. Vigila el sentido decreciente: los vehículos que viajan hacia pk menores, con destino Albacete. La panorámica de Street View permite localizar el dispositivo.
 
+<iframe title="Mapa: radar a-30-136-0-decreciente-cabina" src="https://www.google.com/maps?q=38.023544,-1.1647367&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-30-136-0-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.023544,-1.1647367&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La A-30 es la Autovía de Murcia, autovía estatal que une Albacete con Cartagena. Nota singular: en el XML de la DGT, este punto trae «NINGUNA» en el campo de singularidad, único caso entre los 14 puntos murcianos de la serie. Esa marca no altera la clasificación: por su denominación oficial es una autovía estatal, con su régimen genérico. El fichero oficial no describe el tramo: la ficha no le asigna rasgos que la fuente no respalde.
