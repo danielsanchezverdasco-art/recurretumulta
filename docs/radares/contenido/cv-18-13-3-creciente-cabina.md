@@ -12,6 +12,14 @@
 
 Nos situamos en el **pk 13,3 de la CV-18**, en plena provincia de Castellón. Cubre el **sentido creciente**, el de quienes se desplazan hacia pk crecientes. El municipio que corresponde a estas coordenadas es **Borriana/Burriana** (fuente: el geocodificador del IGN). A 9,0 km hacia el norte está el control más próximo, el de la **AP-7, pk 438,3** (sentido creciente).
 
+<iframe title="Mapa: radar cv-18-13-3-creciente-cabina" src="https://www.google.com/maps?q=39.87049,-0.12389&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cv-18-13-3-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.87049,-0.12389&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La CV-18 es una vía de la Generalitat que atraviesa Castellón. La demanda se reparte entre el tránsito interurbano y los accesos a las poblaciones próximas. Por aquí domina el paisaje de la Plana de Castelló.
