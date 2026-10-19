@@ -12,6 +12,14 @@
 
 Las coordenadas 43.18502, -7.828699 marcan el lugar de esta cabina: A-6, pk 529,6, municipio de Guitiriz (Lugo). El sentido controlado es el decreciente, en dirección a pks menores, y el destino consignado en el registro es Lugo. Street View ofrece la imagen del emplazamiento desde la autovía.
 
+<iframe title="Mapa: radar a-6-529-6-decreciente-cabina" src="https://www.google.com/maps?q=43.18502,-7.828699&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-6-529-6-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=43.18502,-7.828699&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 De titularidad estatal, la A-6 —Autovía del Noroeste— se integra en la red estatal de carreteras. El XML de la DGT le asigna la singularidad «AUTOPISTA / AUTOVÍA», propia de la alta capacidad. Como el fichero no describe el tramo, la ficha no le atribuye rasgos sin constancia documental.
