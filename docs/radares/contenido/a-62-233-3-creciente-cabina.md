@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 41.003, -5.6121
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=41.003,-5.6121)
 
+<iframe title="Mapa: radar a-62-233-3-creciente-cabina" src="https://www.google.com/maps?q=41.003,-5.6121&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-62-233-3-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=41.003,-5.6121&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** Los cuatro datos que sitúan el radar —carretera, punto kilométrico, sentido y coordenadas— figuran en el XML oficial de la DGT (DATEX II, portal NAP), verificado el 2026-10-19. A partir de ahí hay dos cosas que el dataset no dice: el límite, que esta ficha fija en el genérico del RGC art. 48 para autopistas/autovías, y el municipio, que es Castellanos de Moriscos según el geocodificador oficial CartoCiudad (IGN/CNIG).
 
 ## La autovía en este punto
