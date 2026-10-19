@@ -12,6 +12,14 @@
 
 Hablamos del **pk 390,7 de la AP-7**, en la provincia de Castellón. Supervisa el **sentido creciente**, el del avance hacia puntos kilométricos crecientes. El término municipal es **Torreblanca**, asignado por geocodificación oficial sobre las coordenadas exactas. El punto vigilado más cercano es el de la **AP-7, pk 374,7** (sentido decreciente): queda a 14,5 km hacia el noreste.
 
+<iframe title="Mapa: radar ap-7-390-7-creciente-cabina" src="https://www.google.com/maps?q=40.23375,0.21268&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar ap-7-390-7-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.23375,0.21268&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La carretera en cuestión es la AP-7, la Autopista del Mediterráneo. Circula por aquí quien atraviesa la comunidad y quien se mueve entre municipios vecinos. El paisaje circundante es el de la costa de Castellón.
