@@ -12,6 +12,14 @@
 
 Desde el enlace de Street View de la cabecera se aprecia el punto exacto: pk 87,4 de la N-547, en O Pino (A Coruña), coordenadas 42.90827, -8.403362. El control se ejerce sobre el sentido creciente, el de los pks ascendentes; el destino anotado en el registro es Santiago de Compostela.
 
+<iframe title="Mapa: radar n-547-87-4-creciente-cabina" src="https://www.google.com/maps?q=42.90827,-8.403362&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-547-87-4-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.90827,-8.403362&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La N-547 es una carretera nacional de titularidad estatal y carácter convencional, sin configuración de vía de alta capacidad. La DGT la clasifica en su XML con la singularidad «CARRETERA NACIONAL». Sin detalles del tramo en el fichero, la ficha no le supone rasgos que no consten.
