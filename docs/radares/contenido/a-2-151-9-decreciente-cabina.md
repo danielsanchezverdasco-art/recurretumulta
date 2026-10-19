@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 41.1733, -2.4109
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=41.1733,-2.4109)
 
+<iframe title="Mapa: radar a-2-151-9-decreciente-cabina" src="https://www.google.com/maps?q=41.1733,-2.4109&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-2-151-9-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=41.1733,-2.4109&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** Base de la ficha: XML oficial de radares fijos de la DGT, portal NAP, formato DATEX II, edición 2026-10-19. Recoge vía, pk, sentido y coordenadas de cada equipo, pero no el límite ni el municipio. El 120 km/h es el genérico del art. 48 del RGC para autovías; Medinaceli se determinó con el geocodificador oficial CartoCiudad (IGN/CNIG).
 
 ## Localización del radar
