@@ -26,11 +26,11 @@ export const AUTOCARAVANAS_CHALLENGER_M1: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/challenger-v114-start-edition-2026-precio-ficha-tecnica-ext.webp",
+    imagen: "/media/challenger-v114-start-edition-2026-precio-ficha-tecnica-oficial.webp",
     imagenOficial:
-      "/media/challenger-v114-start-edition-2026-precio-ficha-tecnica-ext.webp",
+      "/media/challenger-v114-start-edition-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/challenger-v114-start-edition-2026-precio-ficha-tecnica-interior.webp",
+      "/media/challenger-v114-start-edition-2026-precio-ficha-tecnica-oficial-interior.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 5990, // ficha oficial 2026: 5,99 m
@@ -82,6 +82,30 @@ Para quién es: la V114 Start Edition es para quien quiere estrenar camper nueva
     opiniones: [],
     galeria: [
       {
+        src: "/media/challenger-v114-start-edition-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Challenger V114, vista exterior tres cuartos (foto oficial del fabricante)",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/challenger-v114-start-edition-2026-precio-ficha-tecnica-oficial-interior.webp",
+        alt: "Interior del Challenger V114, vista general hacia la cama trasera (foto oficial)",
+        ancho: 1200,
+        alto: 667,
+      },
+      {
+        src: "/media/challenger-v114-start-edition-2026-precio-ficha-tecnica-oficial-interior2.webp",
+        alt: "Salón del Challenger V114 con banqueta y cama trasera (foto oficial)",
+        ancho: 1200,
+        alto: 667,
+      },
+      {
+        src: "/media/challenger-v114-start-edition-2026-precio-ficha-tecnica-oficial-interior3.webp",
+        alt: "Cocina del Challenger V114 (foto oficial)",
+        ancho: 1200,
+        alto: 667,
+      },
+      {
         src: "/media/challenger-v114-start-edition-2026-precio-ficha-tecnica-ext.webp",
         alt: "Challenger V114 Start Edition, vista lateral",
         ancho: 1200,
@@ -106,6 +130,8 @@ Para quién es: la V114 Start Edition es para quien quiere estrenar camper nueva
         alto: 800,
       },
     ],
+    curiosidades:
+      "El V114 es uno de los cuatro únicos modelos de la gama Challenger que puede equipar la ventanilla lateral trasera Skyview: el fabricante la reserva a los V594, V114, V697 y V210. Fuente: página oficial del modelo V114, https://www.challenger-motorhomes.com/model/v114/. Las fotos oficiales de esta ficha proceden de la web del fabricante (colección 2027 del V114: ediciones Road, Break y Sport).",
     analisisSlug: "challenger-v114-start-edition-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:

@@ -26,11 +26,11 @@ export const AUTOCARAVANAS_CARTHAGO_M1: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-ext.webp",
+    imagen: "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-oficial.webp",
     imagenOficial:
-      "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-ext.webp",
+      "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-interior.webp",
+      "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-oficial-interior.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 7390, // «no oficial»: 739 cm versión Fiat Ducato según exposé de concesionario (752 cm = versión Mercedes)
@@ -80,6 +80,24 @@ Para quién es: la C-Tourer I 148 LE es para quien busca una integral premium al
     opiniones: [],
     galeria: [
       {
+        src: "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Carthago C-Tourer I integral, vista exterior tres cuartos (foto oficial del fabricante)",
+        ancho: 1200,
+        alto: 600,
+      },
+      {
+        src: "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-oficial-interior.webp",
+        alt: "Camas gemelas de la distribución LE del Carthago C-Tourer I (foto oficial)",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-oficial-interior2.webp",
+        alt: "Dormitorio con camas gemelas del Carthago C-Tourer I, distribución LE (foto oficial)",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
         src: "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-ext.webp",
         alt: "Carthago C-Tourer I 148 LE, vista frontal integral",
         ancho: 1200,
@@ -104,6 +122,8 @@ Para quién es: la C-Tourer I 148 LE es para quien busca una integral premium al
         alto: 800,
       },
     ],
+    curiosidades:
+      "Las camas gemelas del 148 LE miden 190/200 cm de largo por 85 cm de ancho y se unen en una superficie king-size, sobre un garaje con 1.200 mm de altura interior útil: el dormitorio de hotel con bodega para el equipaje debajo. Fuente: exposé del concesionario autorizado Carthago Dandis, https://camprest.com/en/vehicles/55366. Fotos oficiales: prensa de Carthago de la gama C-Tourer I integral (la marca retiró el kit específico del 148 LE al descatalogarlo en 2024).",
     analisisSlug: "carthago-c-tourer-i-148-le-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
