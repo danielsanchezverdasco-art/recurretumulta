@@ -12,6 +12,15 @@
 
 La ficha oficial sitúa el control en la **CM-4008, pk 2,8**, provincia de Toledo. Cubre el **sentido creciente** —los conductores que se desplazan hacia pk crecientes—. Puedes verificar la ubicación exacta con el enlace de Street View que acompaña a la ficha: las coordenadas son las de la DGT. A 11,3 km hacia el sur está el control más próximo, el de la **A-42, pk 44,6** (sentido decreciente). Le sigue en proximidad el de la **A-42, pk 55,7** (sentido decreciente), situado a 20,2 km hacia el sur. El tramo no presenta dificultades técnicas especiales; el desafío es mantener la disciplina de velocidad.
 
+<iframe title="Mapa: radar cm-4008-2-8-creciente-cabina" src="https://www.google.com/maps?q=40.16705,-3.8903&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cm-4008-2-8-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.16705,-3.8903&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 Nos encontramos en la CM-4008, carretera de la red de la Junta en Toledo. El uso de la carretera autonómica reparte su intensidad entre las puntas laborales y los flujos de fin de semana. La DGT vigila este tramo con un puesto estable por ser propenso a las velocidades elevadas. Es el único control de la DGT publicado para la CM-4008 en Castilla-La Mancha. La CM-4008 cuenta con un único punto de control publicado en la comunidad: este. En conjunto, una vía donde la prudencia con la velocidad nunca está de más. En resumen, una vía que exige lo esencial: atención, respeto a las señales y velocidad contenida.
