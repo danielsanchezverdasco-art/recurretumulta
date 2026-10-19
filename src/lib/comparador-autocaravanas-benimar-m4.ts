@@ -200,8 +200,8 @@ Para quién es: para familias de cinco o seis que necesitan dormir todos en cama
     opiniones: [],
     galeria: [
       { src: "/media/benimar-sport-363-2026-precio-ficha-tecnica-oficial.webp", alt: "Benimar Sport 363, vista lateral (foto oficial Benimar)", ancho: 1024, alto: 682 },
-      { src: "/media/benimar-sport-363-2026-precio-ficha-tecnica-interior1.webp", alt: "Benimar Sport 363, cama capuchina", ancho: 1200, alto: 800 },
-      { src: "/media/benimar-sport-363-2026-precio-ficha-tecnica-interior2.webp", alt: "Benimar Sport 363, camas gemelas traseras", ancho: 600, alto: 800 },
+      { src: "/media/benimar-sport-363-2026-precio-ficha-tecnica-interior1.webp", alt: "Benimar Sport 363, salón comedor (foto oficial Benimar)", ancho: 1920, alto: 1284 },
+      { src: "/media/benimar-sport-363-2026-precio-ficha-tecnica-interior2.webp", alt: "Benimar Sport 363, camas gemelas traseras (foto oficial Benimar)", ancho: 1920, alto: 1285 },
       { src: "/media/benimar-sport-363-2026-precio-ficha-tecnica-detalle.webp", alt: "Benimar Sport 363, vista frontal (foto oficial Benimar)", ancho: 1024, alto: 515 },
     ],
     analisisSlug: "benimar-sport-363-analisis-opinion",
@@ -238,7 +238,7 @@ Para quién es: para familias de cinco o seis que necesitan dormir todos en cama
     videoId: null,
     videoCanal: null,
     largoMm: 7390, // caravaningplaza.com: 739 cm
-    anchoMm: 2300, // caravaningplaza.com: 230 cm
+    anchoMm: 2320, // página oficial Benimar M268: 232 cm (corrige los 230 cm del distribuidor)
     altoMm: 2890, // caravaningplaza.com: 289 cm
     pesoKg: null, // masa en orden de marcha no publicada
     mmaKg: 3500, // caravaningplaza.com; carnet B
@@ -253,12 +253,12 @@ Para quién es: para familias de cinco o seis que necesitan dormir todos en cama
     emisionesCo2: null,
     aprox: [],
     notas:
-      "Modelo sustituido: el «Benimar Mileo 201» asignado no existe en la gama actual (el 201 fue un modelo de ~2015; el catálogo oficial 2026/2027 solo lista M263/M268/M298); se documenta el Mileo 268 (M268) real y vigente. Cotas (739/230/289 cm), motor Fiat Ducato 2.2 de 140 CV manual Euro 6, 4 plazas (4-5 opcional), MMA 3.500 kg y garaje con capacidad de 225 kg: ficha del distribuidor caravaningplaza.com (verificada 19/10/2026). Benimar no publica PVP oficial (precioDesde = null). Fotos no oficiales (distribuidor, sin marcas de agua). Carga útil, consumo, par, emisiones y MRO: no publicados; quedan en null.",
+      "Modelo sustituido: el «Benimar Mileo 201» asignado no existe en la gama actual (el 201 fue un modelo de ~2015; el catálogo oficial 2026/2027 solo lista M263/M268/M298); se documenta el Mileo 268 (M268) real y vigente. Cotas oficiales (739/232/289 cm), motor Fiat Ducato 2.2 de 140 CV manual Euro 6, 4 plazas (4-5 opcional), MMA 3.500 kg: página oficial del modelo benimar.es/mileo/m268/ (verificada 19/10/2026). Garaje con capacidad de 225 kg: ficha del distribuidor caravaningplaza.com. Benimar no publica PVP oficial (precioDesde = null). Fotos oficiales de benimar.es (galería del modelo M268). Carga útil, consumo, par, emisiones y MRO: no publicados; quedan en null.",
     curiosidades:
       "El Mileo 268 se fabrica íntegramente en Peñíscola (Castellón), en la planta de Benimar: la marca española, con más de cuatro décadas de trayectoria, exporta actualmente sus autocaravanas a más de 25 países y es uno de los principales fabricantes europeos del sector. Fuente: AC-Llar, distribuidor oficial Benimar (https://ac-llar.com//ac-llar-llevara-las-novedades-de-benimar-y-roller-team-con-descuentos-a-la-i-feria-del-caravaning-de-valencia/).",
     descripcion: `El Benimar Mileo 268 es la perfilada española que demuestra que no hace falta cruzar los Pirineos para encontrar una autocaravana bien pensada: se diseña y fabrica íntegramente en Peñíscola, en la planta de una marca que lleva más de cuatro décadas construyendo autocaravanas y que hoy exporta a más de 25 países. Dentro de la gama Mileo —la familia de perfiladas de Benimar—, el 268 ocupa el punto dulce: 7,39 metros de eslora con una distribución para cuatro personas que no renuncia a nada esencial, sobre la base más popular del caravaning europeo, el Fiat Ducato.
 
-    En medidas y habitabilidad, el Mileo 268 ofrece 739 cm de largo, 230 cm de ancho y 289 cm de alto, con una MMA de 3.500 kg que lo mantiene en el terreno del carnet B. Son las cotas clásicas de la perfilada familiar europea: lo bastante larga para una distribución completa con camas separadas de la zona de día, lo bastante contenida para no convertirse en un problema en cada rotonda. La anchura de 2,30 m permite un salón y una cocina de dimensiones reales, no de maqueta, y la altura de 2,89 m deja una altura interior cómoda para personas altas. El garaje trasero, con una capacidad de carga declarada de 225 kg, es uno de los argumentos de venta del modelo: bicicletas, sillas, mesa de camping y todo el material de la vida al aire libre viajan abajo sin invadir la célula.
+    En medidas y habitabilidad, el Mileo 268 ofrece 739 cm de largo, 232 cm de ancho y 289 cm de alto, con una MMA de 3.500 kg que lo mantiene en el terreno del carnet B. Son las cotas clásicas de la perfilada familiar europea: lo bastante larga para una distribución completa con camas separadas de la zona de día, lo bastante contenida para no convertirse en un problema en cada rotonda. La anchura de 2,32 m permite un salón y una cocina de dimensiones reales, no de maqueta, y la altura de 2,89 m deja una altura interior cómoda para personas altas. El garaje trasero, con una capacidad de carga declarada de 225 kg, es uno de los argumentos de venta del modelo: bicicletas, sillas, mesa de camping y todo el material de la vida al aire libre viajan abajo sin invadir la célula.
 
     En tecnología y equipamiento, Benimar aplica su filosofía de «mucho equipamiento de serie por un precio ajustado», la fórmula que la ha convertido en líder del mercado español. El Mileo 268 equipa la base Fiat Ducato con el motor 2.2 de 140 CV y cambio manual Euro 6, una mecánica sobradamente probada en el sector y con una red de servicio inmensa en toda Europa —una ventaja práctica que se agradece cuando se viaja lejos de casa—. La célula apuesta por un salón face-to-face, la distribución que más gusta a quienes viajan en pareja o en familia y pasan tiempo dentro del vehículo: dos bancos enfrentados que crean un auténtico salón para comer, jugar a las cartas o trabajar con el portátil. La cocina, equipada para cocinar de verdad, y el baño completo con ducha separada cierran una dotación pensada para el uso intensivo, no para el folleto.
 
@@ -268,7 +268,7 @@ Para quién es: para familias de cinco o seis que necesitan dormir todos en cama
 
     En precio y red comercial en España, Benimar no publica una tarifa oficial de PVP —la marca trabaja con precios de distribuidor—, por lo que el precio final se configura en el concesionario. Lo que sí es público es el posicionamiento: Benimar compite con una de las mejores relaciones equipamiento/precio del mercado europeo, y el Mileo 268 se sitúa en la franja media de las perfiladas familiares. La red comercial es otro de sus puntos fuertes: como fabricante español líder del mercado nacional, Benimar cuenta con una densa red de distribuidores y servicio posventa en toda España, con la fábrica de Peñíscola a un salto para recambios y garantías. Comprar español, en este caso, tiene ventajas logísticas reales.
 
-    Cómo lo verificamos: la sustitución del modelo (el «Mileo 201» no existe en el catálogo 2026/2027, que solo lista M263/M268/M298) se comprobó en el catálogo oficial de benimar.es. Las cotas (739 x 230 x 289 cm), el motor Fiat Ducato 2.2 de 140 CV manual Euro 6, las plazas (4, ampliables a 5), la MMA de 3.500 kg y la capacidad del garaje (225 kg) proceden de la ficha técnica publicada por el distribuidor caravaningplaza.com, verificada el 19 de octubre de 2026. La fabricación en Peñíscola y la exportación a más de 25 países proceden de AC-Llar, distribuidor oficial. Los datos no publicados por la marca (PVP, carga útil, consumo, par, emisiones, MRO) quedan en null y se declaran como tales.
+    Cómo lo verificamos: la sustitución del modelo (el «Mileo 201» no existe en el catálogo 2026/2027, que solo lista M263/M268/M298) se comprobó en el catálogo oficial de benimar.es. Las cotas oficiales (739 x 232 x 289 cm), el motor Fiat Ducato 2.2 de 140 CV manual Euro 6, las plazas (4, ampliables a 5) y la MMA de 3.500 kg proceden de la página oficial del modelo benimar.es/mileo/m268/ (verificada el 19 de octubre de 2026); la capacidad del garaje (225 kg), de la ficha técnica publicada por el distribuidor caravaningplaza.com. La fabricación en Peñíscola y la exportación a más de 25 países proceden de AC-Llar, distribuidor oficial. Los datos no publicados por la marca (PVP, carga útil, consumo, par, emisiones, MRO) quedan en null y se declaran como tales.
 
     Para quién es: el Mileo 268 encaja con familias españolas que buscan su primera —o su segunda— perfilada sin complicaciones: cuatro plazas reales, garaje tragón, mecánica Fiat probada y una red de servicio nacional que responde. Es ideal para vacaciones largas en familia, fines de semana con niños y para quien valora comprar a un fabricante nacional. No es para quien necesite cinco camas de forma permanente (hay distribuciones más grandes), para quien busque acabados premium de gama alta, ni para quien priorice la compacidad extrema: 7,39 metros piden un conductor que ya se sienta cómodo con un vehículo grande.`,
     pros: [
@@ -287,10 +287,10 @@ Para quién es: para familias de cinco o seis que necesitan dormir todos en cama
     ],
     opiniones: [],
     galeria: [
-      { src: "/media/benimar-mileo-268-2026-precio-ficha-tecnica-oficial.webp", alt: "Benimar Mileo 268, vista exterior lateral", ancho: 1600, alto: 2399 },
-      { src: "/media/benimar-mileo-268-2026-precio-ficha-tecnica-interior1.webp", alt: "Benimar Mileo 268, salón face-to-face", ancho: 1600, alto: 1066 },
-      { src: "/media/benimar-mileo-268-2026-precio-ficha-tecnica-interior2.webp", alt: "Benimar Mileo 268, cocina", ancho: 1600, alto: 1066 },
-      { src: "/media/benimar-mileo-268-2026-precio-ficha-tecnica-detalle.webp", alt: "Benimar Mileo 268, baño", ancho: 1600, alto: 2399 },
+      { src: "/media/benimar-mileo-268-2026-precio-ficha-tecnica-oficial.webp", alt: "Benimar Mileo 268, vista exterior (foto oficial Benimar)", ancho: 1920, alto: 1279 },
+      { src: "/media/benimar-mileo-268-2026-precio-ficha-tecnica-interior1.webp", alt: "Benimar Mileo 268, salón face-to-face (foto oficial Benimar)", ancho: 1920, alto: 1279 },
+      { src: "/media/benimar-mileo-268-2026-precio-ficha-tecnica-interior2.webp", alt: "Benimar Mileo 268, cocina (foto oficial Benimar)", ancho: 1920, alto: 1281 },
+      { src: "/media/benimar-mileo-268-2026-precio-ficha-tecnica-detalle.webp", alt: "Benimar Mileo 268, ducha (foto oficial Benimar)", ancho: 999, alto: 1500 },
     ],
     analisisSlug: "benimar-mileo-268-2026-analisis-opinion",
     planMantenimiento: {
