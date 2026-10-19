@@ -10,6 +10,14 @@
 **Coordenadas (WGS84):** 28.95780, -13.57850
 
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=28.95780,-13.57850)
+<iframe title="Mapa: radar lz-2-1-2-decreciente-cabina" src="https://www.google.com/maps?q=28.95780,-13.57850&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar lz-2-1-2-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=28.95780,-13.57850&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 
 
 > **Cómo lo verificamos:** la carretera, el punto kilométrico, el sentido y las coordenadas de esta ficha salen del fichero oficial de radares fijos de la DGT (formato DATEX II). La DGT no publica para este emplazamiento ni la velocidad límite ni el municipio —comprobado el 2026-10-18—, así que la ficha no incluye ninguno de los dos.
@@ -58,12 +66,3 @@ La norma que todo conductor debe llevar grabada en Lanzarote: al adelantar a cic
 - DGT · NAP — `PredefinedLocationsPublication/radares/content.xml` (https://nap.dgt.es/dataset/radares-fijos-dgt) — posición, carretera, pk y sentido. Consultado el 2026-10-18.
 
 - Límites genéricos: Reglamento General de Circulación, art. 48.
-
-
-<iframe title="Mapa: radar lz-2-1-2-decreciente-cabina" src="https://www.google.com/maps?q=28.95780,-13.57850&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
-
-*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
-
-<iframe title="Street View: radar lz-2-1-2-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=28.95780,-13.57850&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
-
-*Vista 3D (Street View) del entorno del radar.*
