@@ -11,6 +11,14 @@
 ## Dónde está el equipo
 El cinemómetro está en el pk 56.608 de la AP-6, en sentido creciente —la dirección en la que aumentan los puntos kilométricos—. El registro de la DGT lo clasifica con la singularidad «TÚNEL»: se encuentra en la zona de los túneles de Guadarrama, en término de El Espinar (Segovia), con coordenadas 40.716175, -4.164247 (WGS84).
 
+<iframe title="Mapa: radar ap-6-56-6-creciente-cabina" src="https://www.google.com/maps?q=40.716175,-4.164247&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar ap-6-56-6-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.716175,-4.164247&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La vía: AP-6
 La AP-6 es la Autopista del Noroeste, de peaje, que une Villalba con Adanero atravesando la sierra por los túneles de Guadarrama.
 
