@@ -487,3 +487,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/turboant-r9-hunt1.webp | https://turboant.com/products/r9-all-terrain-electric-scooter | TurboAnt | desconocida |
 | /media/turboant-r9-hunt2.webp | https://turboant.com/products/refurbished-r9-e-scooter | TurboAnt | desconocida |
 | /media/turboant-r9-hunt3.webp | https://turboant.com/products/r9-all-terrain-electric-scooter | TurboAnt | desconocida |
+| /media/kymco-xciting-vs-400-2026-ficha-tecnica-precio-hunt1.webp | https://soymotero.net/wp-content/uploads/2025/09/2025-xciting-vs-400-azul-baja3-1024x689-1.jpg | SoyMotero (foto de prensa Kymco) | desconocida |
+| /media/kymco-xciting-vs-400-2026-ficha-tecnica-precio-hunt2.webp | https://en.engear.tv/wp-content/uploads/2026/08/Kymco-Xciting-VS-400-2026-03.jpg | Engear (foto de prensa Kymco) | desconocida |
+| /media/kymco-xciting-vs-400-2026-ficha-tecnica-precio-hunt3.webp | https://kymco.com.mx/wp-content/uploads/2025/09/XCITING-VS-400_06.webp | Kymco México (web oficial) | desconocida |
+| /media/porsche-911-targa-4-gts-2026-precio-ficha-tecnica-hunt1.webp | https://www.ebay.com/itm/366671196231 | eBay (anunciante) | desconocida |
+| /media/porsche-911-targa-4-gts-2026-precio-ficha-tecnica-hunt2.webp | https://finder.porsche.com/us/en-US/details/porsche-911-targa-4-gts-new-364ON0 | Porsche Finder (Porsche River Oaks) | desconocida |
+| /media/porsche-911-targa-4-gts-2026-precio-ficha-tecnica-hunt3.webp | https://finder.porsche.com/ca/en-CA/details/porsche-911-targa-4-gts-new-OL6QZ3 | Porsche Finder (Porsche Centre Langley) | desconocida |
+| /media/royal-alloy-tg-300-s-2026-ficha-tecnica-precio-hunt1.webp | https://www.billsmithmotors.co.uk/royal-alloy/scooters/tg-300-s-lc-abs-e5 | Bill Smith Motors (concesionario) | desconocida |
+| /media/royal-alloy-tg-300-s-2026-ficha-tecnica-precio-hunt2.webp | https://www.billsmithmotors.co.uk/royal-alloy/scooters/tg-300-s-lc-abs-e5 | Bill Smith Motors (concesionario) | desconocida |
+| /media/royal-alloy-tg-300-s-2026-ficha-tecnica-precio-hunt3.webp | https://royalalloymalaysia.com/product-category/tg-series/ | Royal Alloy Malaysia (web oficial del producto) | desconocida |
+| /media/aito-m7-ev-2025-precio-ficha-tecnica-hunt1.webp | https://carnewschina.com/2025/07/28/all-new-aito-m7-from-huawei-seres-officially-revealed-in-china/ | CarNewsChina (imágenes oficiales del nuevo Aito M7 Huawei-Seres) | desconocida |
+| /media/aito-m7-ev-2025-precio-ficha-tecnica-hunt2.webp | https://cnevpost.com/2025/08/12/aito-to-launch-updated-m7-suv-sept/ | CnEVPost (imágenes oficiales Aito) | desconocida |
+| /media/aito-m7-ev-2025-precio-ficha-tecnica-hunt3.webp | https://www.car250.com/aito-m7-erev-bev-2025-10.html | Car250.com / AutoHome | desconocida |
+| /media/jeep-avenger-e-hybrid-110-2026-precio-ficha-tecnica-hunt1.webp | https://loscochesmasvendidos.com/page/58/ | LosCochesMásVendidos | desconocida |
+| /media/jeep-avenger-e-hybrid-110-2026-precio-ficha-tecnica-hunt2.webp | http://www.testdrive360.com/jeep-avenger-summit-mhev-100-cv-prueba/ | TestDrive360 | desconocida |
+| /media/jeep-avenger-e-hybrid-110-2026-precio-ficha-tecnica-hunt3.webp | https://www.dailyrevs.com/cars/2024-jeep-avenger-e-hybrid-uk-version | DailyRevs | desconocida |
+| /media/kymco-super-dink-gt-350-2025-ficha-tecnica-precio-hunt1.webp | https://www.motosan.es/motos/la-nueva-kymco-super-dink-gt-350-vuelve-con-mas-potencia-seguridad-y-estilo/ | Motosan | desconocida |
+| /media/kymco-super-dink-gt-350-2025-ficha-tecnica-precio-hunt2.webp | https://www.motorpasionmoto.com/zona-de-pruebas/prueba-kymco-super-dink-gt-350-2025 | Motorpasión Moto | desconocida |
+| /media/kymco-super-dink-gt-350-2025-ficha-tecnica-precio-hunt3.webp | https://www.kymco.es/scooters/super-dink-gt-350 | Kymco España (web oficial) | desconocida |
+| /media/porsche-cayenne-e-hybrid-2026-precio-ficha-tecnica-hunt1.webp | https://finder.porsche.com/us/en-US/details/porsche-cayenne-ehybrid-new-KKE7LN | Porsche Finder (fotos oficiales de la unidad) | desconocida |
+| /media/porsche-cayenne-e-hybrid-2026-precio-ficha-tecnica-hunt2.webp | https://finder.porsche.com/us/en-US/details/porsche-cayenne-ehybrid-new-08V2P2 | Porsche Finder (fotos oficiales de la unidad) | desconocida |
+| /media/porsche-cayenne-e-hybrid-2026-precio-ficha-tecnica-hunt3.webp | https://newsroom.porsche.com/en/press-kits/cayenne/interieur.html | Porsche Newsroom (prensa oficial Porsche) | desconocida |
+| /media/walberg-egret-ey-6-hunt1.webp | https://www.galaxus.at/de/s3/product/egret-ey-6-e-scooter-20-kmh-55-km-450-w-e-scooter-47502040 | Galaxus (foto de producto oficial Egret) | desconocida |
+| /media/walberg-egret-ey-6-hunt2.webp | https://www.escooter.de/EGRET-Ey-6/16050 | escooter.de (tienda oficial Egret) | desconocida |
+| /media/walberg-egret-ey-6-hunt3.webp | https://justpick.ch/sale-sports/ | Conforama / JustPick (foto de producto oficial Egret) | desconocida |
