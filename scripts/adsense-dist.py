@@ -22,7 +22,9 @@ if FASE in("blog","todo"):
   INF["blog_301"]=len(reglas); INF["blog_sin_ficha"]=sin
 if FASE in("noindex","todo"):
   marcar=["/juego-monos/","/juego-monos/bases/"]; fichas=[]  # juego en pausa (14/10, decisión final Daniel)
-  for c in ("coches","motos","patinetes"):
+  # 19/10: sin patinetes. La heurística de <dd> vacíos ponía noindex en 142 patinetes que Daniel devolvió a index
+  # (14:00 18/10); los patinetes se gobiernan solo con noindex.generated.json y noindex-calidad-p2.txt.
+  for c in ("coches","motos"):
     for f in glob.glob(f"{D}/{c}/*/index.html"):
       h=open(f,encoding="utf8",errors="ignore").read()
       m=re.search(r'La nota de Cosa</h2><p[^>]*>([\d]+,[\d])',h)
