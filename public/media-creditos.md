@@ -775,3 +775,26 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/renault-4-e-tech-40-kwh-2025-precio-ficha-tecnica-hunt1.webp | https://www.renaultplaisancedutouch.com/details-renault+4+e-tech-368 | Renault (concesionario, prensa) | desconocida |
 | /media/renault-4-e-tech-40-kwh-2025-precio-ficha-tecnica-hunt2.webp | https://www.carwow.es/renault/4-e-tech/interior | carwow | desconocida |
 | /media/renault-4-e-tech-40-kwh-2025-precio-ficha-tecnica-hunt3.webp | https://octopusev.com/cars/renault-4-e-tech-internal-use-only | Octopus EV | desconocida |
+| /media/lamborghini-huracan-evo-rwd-2024-precio-ficha-tecnica-hunt1.webp | https://previeweu.thenewsmarket.com/Previews/NonAssetImages/MR_792/Custom/281fe248-bc3c-4f39-9841-75d1278aeae9.jpg | Lamborghini (prensa oficial) | desconocida |
+| /media/lamborghini-huracan-evo-rwd-2024-precio-ficha-tecnica-hunt2.webp | https://www.motortrend.com/news/lamborghini-huracan-evo-review-first-drive | MotorTrend | desconocida |
+| /media/lamborghini-huracan-evo-rwd-2024-precio-ficha-tecnica-hunt3.webp | https://www.highline-autos.com/vehicles/2024-lamborghini-huracan/ | Highline Autos | desconocida |
+| /media/lamborghini-urus-se-performante-2026-precio-ficha-tecnica-hunt1.webp | https://www.motorbeam.com/wp-content/uploads/Lamborghini-Urus-SE-Performante.jpg | MotorBeam | desconocida |
+| /media/lamborghini-urus-se-performante-2026-precio-ficha-tecnica-hunt2.webp | https://www.motorbeam.com/wp-content/uploads/Lamborghini-Urus-SE-Performante-Interior.jpg | MotorBeam | desconocida |
+| /media/lamborghini-urus-se-performante-2026-precio-ficha-tecnica-hunt3.webp | https://www.motorbeam.com/wp-content/uploads/Lamborghini-Urus-SE-Performante-Rear.jpg | MotorBeam | desconocida |
+| /media/lamborghini-huracan-stj-2024-precio-ficha-tecnica-hunt1.webp | https://www.supercars.net/blog/lamborghini-says-farewell-to-the-huracan-with-one-last-limited-editio | Supercars.net | desconocida |
+| /media/lamborghini-huracan-stj-2024-precio-ficha-tecnica-hunt2.webp | https://motorsactu.com/lamborghini-huracan-stj-une-edition-limitee-a-dix-exemplaires-qui-celebre-la- | Motors Actu | desconocida |
+| /media/lamborghini-huracan-stj-2024-precio-ficha-tecnica-hunt3.webp | https://motor-fan.jp/article/227538/ | Motor Fan (Japón) | desconocida |
+| /media/lamborghini-huracan-sterrato-2024-precio-ficha-tecnica-hunt1.webp | https://hiconsumption.com/motors/2024-lamborghini-huracan-sterrato-off-road-supercar/ | HiConsumption | desconocida |
+| /media/lamborghini-huracan-sterrato-2024-precio-ficha-tecnica-hunt2.webp | https://www.planetcarsz.com/noticias-de-carros/lamborghini-huracan-sterrato-uma-proposta-off-road-de-610-cv | PlanetCarsZ | desconocida |
+| /media/lamborghini-huracan-sterrato-2024-precio-ficha-tecnica-hunt3.webp | https://www.classic.com/veh/2024-lamborghini-huracan-sterrato-zhwug7zf0rla2662-nmvk8AW/ | Classic.com / Lamborghini Miami | desconocida |
+| /media/renault-kangoo-blue-dci-95-2024-precio-ficha-tecnica-hunt1.webp | https://www.renault.cota-automocion.com/noticias/renault-kangoo-combi-2022 | Renault Cota Automoción (prensa oficial del concesionario) | desconocida |
+| /media/renault-kangoo-blue-dci-95-2024-precio-ficha-tecnica-hunt2.webp | https://www.quecochemecompro.com/comparativa/mercedes-viano-vs-renault-kangoo/ | QueCocheMeCompro | desconocida |
+| /media/renault-kangoo-blue-dci-95-2024-precio-ficha-tecnica-hunt3.webp | https://www.autoscout24.de/auto/renault/renault-kangoo/ | AutoScout24 | desconocida |
+| /media/lamborghini-countach-lpi-800-4-2024-precio-ficha-tecnica-hunt1.webp | https://media.lamborghini.com/english/models/one-off-and-show-cars/countach-lpi-800-4 | Lamborghini (prensa oficial) | desconocida |
+| /media/lamborghini-countach-lpi-800-4-2024-precio-ficha-tecnica-hunt2.webp | https://paultan.org/2024/04/05/bangkok-2024-lamborghini-countach-lpi-800-4-jaw-dropping-modern-reincarnation-of-the-icon-1-of-112/ | Paultan.org | desconocida |
+| /media/lamborghini-countach-lpi-800-4-2024-precio-ficha-tecnica-hunt3.webp | https://autoxarg.com.ar/2021/08/23/countach-el-lamborghini-de-los-80-regreso-como-edicion-limitada-y-con-motor-hibrido/ | Autoxarg.com.ar | desconocida |
+| /media/renault-clio-vi-tce-115-2025-precio-ficha-tecnica-hunt1.webp | https://bleker-gruppe.de/Renault-Clio-VI-Techno-TCe-115/188607 | Bleker-Gruppe (concesionario Renault) | desconocida |
+| /media/renault-clio-vi-tce-115-2025-precio-ficha-tecnica-hunt2.webp | https://beta.autouncle.de/es/enlace-externo/autohaus-tabor-de/224475111/383915698 | Autohaus Tabor | desconocida |
+| /media/renault-clio-vi-tce-115-2025-precio-ficha-tecnica-hunt3.webp | https://suchen.mobile.de/fahrzeuge/printView.html?id=460718235 | mobile.de (anuncio concesionario) | desconocida |
+| /media/audi-s6-avant-e-tron-2025-precio-ficha-tecnica-hunt1.webp | https://www.audi.es/es/modelos/a6-e-tron/s6-avant-e-tron/ | Audi (prensa oficial, configurador audi.es) | desconocida |
+| /media/audi-s6-avant-e-tron-2025-precio-ficha-tecnica-hunt2.webp | https://www.audi.fr/fr/nouvelles-voitures/details/:/2025-audi-s6-avant-e-tron-370.00-kw/idRlJBMDQ0OTA4Njk2NTQ= | Audi (prensa oficial, audi.fr) | desconocida |
