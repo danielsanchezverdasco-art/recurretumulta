@@ -48,7 +48,7 @@ export const AUTOCARAVANAS_KABE_M4: Autocaravana[] = [
     parNm: null,
     traccion: null, // la marca no lo declara en la ficha técnica
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"], // tarifa oficial belga (kabe.se); en España la marca no publica PVP
     notas:
       "Modelo i880 LGB (LGB = camas individuales longitudinales traseras; existe la variante LQB con cama queen). Largo 8.822 mm, 4 plazas fijas, MMA desde 5.500 kg y precio desde 257.400 € de la web oficial kabe.se (tarifa belga; en España no hay PVP publicado). Ancho 2.330 mm, alto 3.070 mm, 5 plazas con cinturón, Alde Compact 3030, agua 150 l, grises 90 l y batería de 130 Ah de la ficha de distribuidor caraworld.de. Base Mercedes-Benz (visible en la foto oficial de Kabe; la gama Travel Master Imperial se anuncia sobre Mercedes). Potencia, masa, carga útil, consumo, etiqueta DGT y tracción: no publicados (null).",
     curiosidades:
