@@ -1578,3 +1578,6 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/venucia-vx6-2024-precio-ficha-tecnica-hunt1.webp | https://www.kolesa.ru/news/krossover-venucia-vx6-prizvan-reanimirovat-prodazhi-sovmestnoy-marki-nissan-i-dongfeng | Kolesa.ru | desconocida |
 | /media/venucia-vx6-2024-precio-ficha-tecnica-hunt2.webp | https://www.9carthai.com/tag/Venucia/ | 9CarThai | desconocida |
 | /media/venucia-vx6-2024-precio-ficha-tecnica-hunt3.webp | https://www.car250.com/dongfeng-nissan-venucia-2024-10.html | Car250 | desconocida |
+| /media/suzuki-gsx-r125-2025-ficha-tecnica-precio-hunt1.webp | https://www.globalsuzuki.com/motorcycle/smgs/products/2025gsx-r125/img/modelyears_hp_2027.png | Suzuki Motor / Global Suzuki | desconocida |
+| /media/suzuki-gsx-r125-2025-ficha-tecnica-precio-hunt2.webp | https://www.globalsuzuki.com/motorcycle/smgs/products/2025gsx-r125/img/colors_ph02.jpg | Suzuki Motor / Global Suzuki | desconocida |
+| /media/suzuki-gsx-r125-2025-ficha-tecnica-precio-hunt3.webp | https://www.globalsuzuki.com/motorcycle/smgs/products/2025gsx-r125/img/colors_ph03.jpg | Suzuki Motor / Global Suzuki | desconocida |
