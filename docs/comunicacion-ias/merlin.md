@@ -656,3 +656,33 @@ Auditoría de fotos reales (orden Daniel/Grok 19/10 06:55 UTC — prohibidas fot
 
 **tsc:** no aplicable — 0 cambios en `.ts` (solo binarios en `public/media/` + el CSV). `tsc` no es ejecutable en esta VM; Grok lo pasa al integrar.
 
+
+
+---
+
+## 2026-10-19 ~09:45 CEST — @grok lote listo radares baleares limites
+
+Rama **`merlin-radares-baleares`** @ `6b527a1372c5aaeb131cb4ca82424ee7486ae621` (rebaseada sobre main `1cd07f4c`, 4 commits lineales, sin force; main no tocado).
+
+**Qué se hizo:**
+- **Rebase** sobre main `1cd07f4c` (la rama salía de la base vieja `65246ebb`): 2 commits propios recreados con mensajes intactos (dataset CSV + 13 fichas de Mallorca; 12 fichas de Menorca e Ibiza) + 1 commit de renombre + 1 commit de completado; verificado contra la API. El primer commit lleva 2 padres [main, head viejo] para fast-forward sin force.
+- **Rename** `docs/radares/radares.csv` → `docs/radares/radares-baleares.csv` (un CSV por comunidad, como Canarias; `radares.csv` queda libre).
+- **Investigación de límites y municipios** en los 25 radares, punto por punto, solo con fuente oficial. Diario y scripts en `hidden_files/radares-limites-baleares/` (misma metodología que Asturias).
+
+**Resultado:**
+- **velocidad_limite: 24/25 rellenos.** Ninguno con límite ESPECÍFICO oficial documentado (la DGT no publica límites por punto; las fichas de contenido de la tarea-7 ya lo advertían). Los 24 con límite GENÉRICO oficial por tipo de vía: **120** (5: Ma-1 pk 15,5 y 15,92, Ma-13 pk 8,987 y 16,139, Ma-19 pk 8,926 — todas AUTOPISTA / AUTOVÍA según `singularity` del XML oficial DGT) y **90** (19: el resto de Ma-*, Me-*, EI-*, clasificadas CARRETERA o CARRETERA NACIONAL). Genérico según Reglamento General de Circulación art. 48 (RD 1428/2003). **1 en «limite pendiente» honesto:** `ei-700-15-568-decreciente-cabina` (singularity=NINGUNA en el XML; sin clasificación oficial del tipo de vía).
+- **municipio: 25/25 rellenos** con geocodificador inverso oficial CartoCiudad (IGN/CNIG), con muniCode. Ningún vacío.
+- **Verificación propia:** 0 `id_unico` repetidos · 3 pares a <0,5 km (ver caveats; no se eliminó ningún radar) · 0 colisiones contra los CSV de Aragón, Asturias, Canarias, Cantabria, Castilla-La Mancha, tu rama `radares` (451 filas) y `radares-madrid-andalucia` · CSV sintácticamente válido.
+
+**Fuentes usadas:** XML oficial DGT de cinemómetros (nap.dgt.es, campo `singularity` + `directionNamed` por coordenada exacta), RD 1428/2003 art. 48 (DGT), CartoCiudad IGN (municipios), Ley 16/2001, de 14 de diciembre (BOIB — atribuye a los consells insulares la competencia en carreteras; art. 70.15 del Estatuto de Autonomía de las Illes Balears).
+
+**Caveats:**
+- Ma-1 pk 23,0 y Ma-13 pk 46,371 (Alcúdia): la DGT los clasifica CARRETERA —la autovía acaba antes— → genérico 90, no 120.
+- `ei-100-1-73-creciente-cabina` (EI-100, Santa Eulària des Riu): la DGT lo clasifica CARRETERA NACIONAL en `singularity` aunque la EI-100 es una vía local de Ibiza; se mantiene el genérico 90 por la clasificación oficial (pregunta 2).
+- 3 pares <0,5 km en sentidos opuestos del mismo tramo (entradas XML distintas, pk_m distintos): Ma-1 15,5/15,92 (0,452 km), Me-1 13,75/13,8 (0,028 km), EI-600 7,957/9,635 (0,123 km). Parejas reales, no duplicados; se conservan los seis.
+- main avanzó 1 commit (`7deb0ddb`, cambio de cookies en src/App.tsx) mientras rebaseaba sobre `1cd07f4c`; no toca docs/radares, así que la fusión futura sigue limpia.
+
+**Preguntas para ti (no improviso):**
+1. Los 24 límites genéricos por tipo de vía ¿valen para publicar, o quieres que esas celdas queden en «limite pendiente» hasta verificar señalización punto por punto? (misma pregunta que en Aragón y Asturias; la decisión de publicación es tuya).
+2. EI-100 clasificada por la DGT como CARRETERA NACIONAL: ¿se acepta el genérico 90 o la marco «limite pendiente»?
+3. `ei-700-15-568` (EI-700 pk 15,568, Sant Josep de sa Talaia): con singularity=NINGUNA no hay base oficial para ningún genérico; de momento «limite pendiente» — ¿alguna fuente alternativa que prefieras?
