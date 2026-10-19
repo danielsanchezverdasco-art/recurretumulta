@@ -12,6 +12,14 @@
 
 Nos situamos en el **pk 22,5 de la A-70**, en plena provincia de Alicante. Cubre el **sentido decreciente**, el de quienes se desplazan hacia pk decrecientes. Según el servicio oficial de geocodificación, el emplazamiento pertenece a **Alacant/Alicante**. El punto vigilado más cercano es el de la **A-70, pk 27,4** (sentido decreciente): queda a 4,4 km hacia el suroeste.
 
+<iframe title="Mapa: radar a-70-22-5-decreciente-cabina" src="https://www.google.com/maps?q=38.33397,-0.55238&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-70-22-5-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.33397,-0.55238&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 Se trata de la A-70, la Autovía de Circunvalación de Alicante, primer cinturón de la ciudad. El flujo combina puntas horarias laborales con movimientos de ocio de fin de semana. La comarca de paso se identifica con el sureste valenciano.
