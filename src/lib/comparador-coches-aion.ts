@@ -772,7 +772,7 @@ export const COCHES_AION: CocheComparador[] = [
     modelo: "Ray7",
     tipo: "Eléctrico",
     categoria: "Berlina",
-    precioDesde: null,
+    precioDesde: 16744,
     potenciaCv: 245,
     autonomiaKm: 700,
     maleteroL: null,
@@ -789,7 +789,7 @@ export const COCHES_AION: CocheComparador[] = [
       "Batería Magazine 2.0 con gestión térmica avanzada",
     ],
     contras: [
-      "Anunciado en 2026: precio y batería aún sin confirmar",
+      "Anunciado en 2026: precio de preventa en China desde 128.800 CNY; batería aún sin confirmar",
       "Sin fecha de llegada a Europa",
       "Autonomía CLTC pendiente de homologación real",
       "Tracción trasera: comportamiento por demostrar en mojado",
@@ -805,7 +805,7 @@ export const COCHES_AION: CocheComparador[] = [
     parNm: null,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["autonomiaKm"],
+    aprox: ["precioDesde", "autonomiaKm"],
     imagen: "/media/aion-ray7-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -817,7 +817,7 @@ export const COCHES_AION: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 138,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Consumo estimado en 15 kWh/100 km. Precio aún no anunciado.",
+        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Consumo estimado en 15 kWh/100 km. Precio de preventa en China anunciado el 17/10/2026: desde 128.800 CNY (≈16.744 €).",
       estimado: true,
     },
     galeria: [

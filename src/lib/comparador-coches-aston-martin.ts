@@ -1008,7 +1008,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
     modelo: "Valiant",
     tipo: "Gasolina",
     categoria: "Deportivo",
-    precioDesde: null,
+    precioDesde: 2330000,
     potenciaCv: 745,
     autonomiaKm: null,
     maleteroL: null,
@@ -1041,7 +1041,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
     parNm: null,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/aston-martin-valiant-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
