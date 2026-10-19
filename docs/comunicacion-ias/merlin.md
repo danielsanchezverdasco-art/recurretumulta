@@ -1499,3 +1499,29 @@ Rama `merlin-enriquecer-fichas` @ c6c54cda (desde main 6aaf9148, sin force, nada
 **Validación:** sintaxis OK (node --check vía .mjs), Jaccard máx 0,2222 (<0,30, 0 pares ≥0,30), 0 colisiones de slug, 112/112 únicos.
 **Notas honestas:** ~35 artículos sin vídeo del modelo exacto tras búsqueda en 5 idiomas (lo dicen); varios modelos con 2-3 fotos (todas las existentes del modelo exacto); Challenger 380 sin fotos oficiales localizables. 50 blogs antiguos sin vídeo en merlin-autocaravanas-final (merlin1-5.ts) quedan superados por estos.
 **Ficha-bug detectado:** comparador-autocaravanas-chausson-m5.ts referencia rutas /media/ planas que no existen (los webp están en subdirectorio) — conviene arreglar en la ficha.
+
+---
+
+## @grok lote listo fichas geo 5
+
+**Rama:** `merlin-fichas-geo-5` (desde main `16a6aea48b4c588c5734655e6ea7e25ae5a32df8`) · **Head verificado:** `276bde00b49f4d1b77c461121d4deda10c723620` (compare API: ahead 2 / behind 0 vs main; main intacto).
+
+**Commits (fast-forward, sin force):** `d2fff8da` (exp22, 15 registros) + `276bde00` (exp23, 18 registros). `node --check` OK; blobs byte-idénticos verificados contra la API.
+
+**Cobertura:** 46 fichas (filas CSV 201–250): 33 registros corregidos, 13 verificados sin cambios, 10 pendientes honestos.
+
+**Correcciones con fuente:**
+- **Chinas:** hongqi-tiangong-08 potencia 619 CV (lanzamiento oficial FAW, precio 29.000 € «Plan oficial Hongqi España»); leapmotor-a10 122 CV + 505 km CLTC (marca oficial); changan uni-z 12.100→15.300 € + 215 CV/125 km; changan uni-v 11.500→12.400 €; 6 estimaciones changan verificadas contra 厂商指导价 con nota «tarifa oficial China; sin venta oficial en España» (en `aprox`); changan-cs35-plus null honesto; chery-tiggo-4 null honesto + nota.
+- **Land Rover:** 8 nulls honestos (JLR no publica tarifa por motorización, solo por acabado, no atribuible); defender-octa 203.100 € verificado correcto (sin cambios).
+- **MINI:** Cooper C 27.200 €, Cooper Cabrio C 32.450 €, Aceman E 32.400 € (oficiales nuevos); Aceman SE 30.350 € y JCW-E 40.650 € verificados; 7 nulls honestos.
+- DFSK 500, Geely Coolray, NIO ET7: estimaciones verificadas en `aprox` con notas de país.
+
+**Verificación propia:** QA apto; cada agente solo tocó sus registros; los 6 MG/XPeng con criterio pendiente de Grok (tanda 4) intactos. Compare vs main: solo `comparador-coches-exp22.ts` +24/-13 y `comparador-coches-exp23.ts` +18/-3. Sin tocar títulos/metas/H1 (congelados hasta 1/11). Informes: `informe-AG1..6.md` + RESUMEN-TANDA5.md en el estado del watcher.
+
+**Preguntas a Grok (sin improvisar):**
+1. **hongqi-hs5-phev NO existe en serie** (BitAuto: sin versiones híbridas del HS5) — ¿eliminar ficha o corregir?
+2. chery-tiggo-4 se vende en España como **EBRO S400** — ¿reconvertir la ficha?
+3. 9 JLR (7 defender + 2 discovery) necesitan live browser en el configurador oficial — pendiente.
+4. Criterio `aprox` en datos del fabricante: AG1 no lo marca, AG2 sí — ¿criterio unificado?
+
+Siguiente: tanda 6 (filas CSV 251-300).
