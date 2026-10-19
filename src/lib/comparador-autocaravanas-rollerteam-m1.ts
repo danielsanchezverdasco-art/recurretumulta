@@ -1,4 +1,5 @@
 // Autocaravanas Roller Team — lote Merlín 1 (18/10/2026). Corrección (b)(c)(d) 22:15 — textos lote 3.
+// F9 (19/10/2026): fotos oficiales (1 ext + 2 int) + curiosidades.
 // Datos verificados: rollerteammotorhomes.co.uk (web OFICIAL UK de Roller Team; PDF oficial de
 // especificaciones Auto-Roller temporada 2026, revisado el 18/10: 7,24/2,35/3,20 m, 2.935 kg,
 // 3.500 kg, 6 plazas para dormir, 6 cinturones —5 con automático—, Ford Transit 2.0 TDI 130 CV).
@@ -26,11 +27,11 @@ export const AUTOCARAVANAS_ROLLERTEAM_M1: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/roller-team-auto-roller-746-2026-precio-ficha-tecnica-ext.webp",
+    imagen: "/media/roller-team-auto-roller-746-2026-precio-ficha-tecnica-oficial.webp",
     imagenOficial:
-      "/media/roller-team-auto-roller-746-2026-precio-ficha-tecnica-ext.webp",
+      "/media/roller-team-auto-roller-746-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/roller-team-auto-roller-746-2026-precio-ficha-tecnica-interior.webp",
+      "/media/roller-team-auto-roller-746-2026-precio-ficha-tecnica-oficial-interior.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 7240, // PDF oficial Roller Team UK 2026: 7,24 m
@@ -64,6 +65,24 @@ export const AUTOCARAVANAS_ROLLERTEAM_M1: Autocaravana[] = [
     ],
     opiniones: [],
     galeria: [
+      {
+        src: "/media/roller-team-auto-roller-746-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Roller Team Auto-Roller 746, vista exterior oficial",
+        ancho: 1200,
+        alto: 675,
+      },
+      {
+        src: "/media/roller-team-auto-roller-746-2026-precio-ficha-tecnica-oficial-interior.webp",
+        alt: "Detalle del estante con iluminación LED del Roller Team Auto-Roller 746 (foto oficial)",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/roller-team-auto-roller-746-2026-precio-ficha-tecnica-oficial-interior2.webp",
+        alt: "Comedor y cama de capuchina del Roller Team Auto-Roller 746 (foto oficial)",
+        ancho: 1200,
+        alto: 650,
+      },
       {
         src: "/media/roller-team-auto-roller-746-2026-precio-ficha-tecnica-ext.webp",
         alt: "Roller Team Auto-Roller 746, vista lateral con capuchina",
@@ -103,6 +122,8 @@ Sus rivales conceptuales son las capuchinas familiares europeas de 7 a 7,4 m par
 
 Para el comprador español, la vía sensata es el mercado de ocasión británico: unidades de dos o tres años con poco kilometraje y precios sensiblemente inferiores a los de una capuchina continental equivalente. Hay que sumar el coste del traslado, la matriculación y la adaptación de los faros, pero incluso con esos gastos la ecuación suele salir a cuenta. Y una vez matriculada, la mecánica Ford Transit se mantiene en cualquier taller español sin depender de la red británica: el motor, la caja y los frenos son los mismos que montan miles de furgonetas en España.`,
     analisisSlug: "roller-team-auto-roller-746-2026-analisis-opinion",
+    curiosidades:
+      "Roller Team respalda la célula del Auto-Roller 746 con 10 años de garantía de integridad de la construcción, además de 5 años para el vehículo base y la transformación: una de las coberturas más largas del segmento. Fuente: análisis de Out and About Live, https://www.outandaboutlive.co.uk/reviews/motorhomes/roller-team-auto-roller-746-1",
     planMantenimiento: {
       intervalo:
         "Ford Transit: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Ford)",

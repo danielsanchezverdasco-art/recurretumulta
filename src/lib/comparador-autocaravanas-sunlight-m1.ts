@@ -1,4 +1,6 @@
 // Autocaravanas Sunlight — lote Merlín 1 (18/10/2026). Corrección (b)(c)(d) 22:15 — textos lote 3.
+// F9 (19/10/2026): fotos oficiales (T 68: 1 ext + 2 int; A 70: 1 ext + 2 int; Cliff 640: 1 ext + 2 int) + curiosidades.
+// T 68: datos actualizados a la página oficial vigente (masa 3.007 kg, horquilla 2.857-3.157; «Schlafplätze 2 + 3»).
 // Datos verificados: sunlight.de (web oficial). T 68: 741/232/293 cm, Fiat Ducato 2.2 140 CV,
 // masa en orden de marcha oficial 2.992 kg (horquilla 2.842-3.142); la marca no publica en la
 // página accesible las plazas para dormir: plazasDormir en null.
@@ -40,14 +42,14 @@ export const AUTOCARAVANAS_SUNLIGHT_M1: Autocaravana[] = [
     largoMm: 7410,
     anchoMm: 2320,
     altoMm: 2930,
-    pesoKg: 2992, // masa en orden de marcha según sunlight.de (horquilla oficial 2.842-3.142)
+    pesoKg: 3007, // masa en orden de marcha según sunlight.de (horquilla oficial 2.857-3.157, modelo 2026)
     mmaKg: 3500,
     carnetNecesario: "B",
     cargaUtilKg: null, // la marca no publica la carga útil del modelo
     consumo: null,
     consumoUnidad: null,
     plazas: 5,
-    plazasDormir: null, // la marca no publica las plazas para dormir en la página oficial accesible
+    plazasDormir: 5, // oficial sunlight.de («Schlafplätze 2 + 3»)
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
@@ -70,29 +72,37 @@ export const AUTOCARAVANAS_SUNLIGHT_M1: Autocaravana[] = [
     galeria: [
       {
         src: "/media/sunlight-t-68-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Sunlight T 68, vista lateral",
+        alt: "Sunlight T 68 Adventure, vista exterior oficial",
+        ancho: 1200,
+        alto: 1200,
+      },
+      {
+        src: "/media/sunlight-t-68-2026-precio-ficha-tecnica-oficial-interior.webp",
+        alt: "Interior del Sunlight T 68 Adventure, salón visto de delante hacia atrás (foto oficial)",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/sunlight-t-68-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior de la Sunlight T 68, camas gemelas",
-        ancho: 1200,
-        alto: 800,
+        src: "/media/sunlight-t-68-2026-precio-ficha-tecnica-oficial-interior2.webp",
+        alt: "Detalle del armario bajo la cama del Sunlight T 68 Adventure (foto oficial)",
+        ancho: 1000,
+        alto: 1500,
       },
     ],
     descripcion: `La Sunlight T 68 Adventure es la perfilada con la que la marca joven del grupo Hymer se presenta a los que compran su primera autocaravana grande sin querer un vehículo con estética de jubilado: llantas de aleación, detalles en negro, tapicerías con carácter y 7,41 metros de perfilada familiar con camas gemelas traseras. Sunlight viste de Adventure Edition lo que en otras marcas sería una perfilada generalista más, y la fórmula funciona: la T 68 es una de las perfiladas de 7,4 metros más reconocibles del segmento de acceso. No compite por lujo interior ni por equipamiento extremo; compite por imagen, distribución y precio contenido dentro del paraguas Hymer.
 
-Los datos proceden de la página oficial del modelo en sunlight.de, revisada el 18/10/2026. La T 68 mide 7,41 m de largo, 2,32 m de ancho y 2,93 m de alto, con una MMA de 3.500 kg que permite conducirla con el carnet B. La base es el Fiat Ducato 2.2 de 140 CV con cambio manual y tracción delantera, la mecánica que montan la mayoría de las perfiladas europeas de este tamaño. La masa en orden de marcha oficial es de 2.992 kg, dentro de una horquilla de 2.842 a 3.142 kg según equipamiento —Sunlight pesa cada unidad al final de la línea e informa del resultado—, y la marca no publica la carga útil como tal, así que la ficha muestra las cifras oficiales sin calcular nada. Las plazas para dormir tampoco están publicadas en la página del modelo, por eso ese campo va en null.
+Los datos proceden de la página oficial del modelo en sunlight.de, revisada el 18/10/2026. La T 68 mide 7,41 m de largo, 2,32 m de ancho y 2,93 m de alto, con una MMA de 3.500 kg que permite conducirla con el carnet B. La base es el Fiat Ducato 2.2 de 140 CV con cambio manual y tracción delantera, la mecánica que montan la mayoría de las perfiladas europeas de este tamaño. La masa en orden de marcha oficial es de 3.007 kg, dentro de una horquilla de 2.857 a 3.157 kg según equipamiento —Sunlight pesa cada unidad al final de la línea e informa del resultado al concesionario—, y la marca no publica la carga útil como tal, así que la ficha muestra las cifras oficiales sin calcular nada. Las plazas para dormir oficiales son 5 («Schlafplätze 2 + 3»).
 
 El dormitorio trasero es el punto fuerte: camas gemelas sobre un garaje pasante de gran altura, el esquema que permite a cada ocupante tener su cama, su mesilla y su acceso individual sin molestar al otro, con todo el material deportivo debajo sin invadir el salón. Sobre el salón, la cama basculante eléctrica de 195 × 140 cm suma plazas dignas para invitados o niños mayores, que de día desaparece y deja un salón diáfano. La cocina juega en la liga de las integrales, con horno y frigorífico grande con congelador separado, un punto que las familias agradecen en viajes de dos semanas. La ducha es independiente, aunque el WC queda al otro lado del pasillo y de noche toca cruzar: son los compromisos de una distribución familiar en 7,4 metros.
 
 La Adventure Edition es más que una pegatina: llantas de aleación, gráficos específicos, tapicería propia y detalles en negro por fuera y por dentro. Pero conviene decirlo claro: los materiales interiores son los más sencillos del grupo Hymer y el aislamiento está pensado para tres estaciones; en invierno serio se echa en falta más calefacción, así que quien planee esquiar debería mirar otras gamas. Con 7,41 metros, en carretera se mueve con soltura, pero en campings de parcela pequeña y en pueblos con encanto conviene asumir que no es un vehículo ágil: la longitud se nota al aparcar y al girar.
 
-En precio, Sunlight no publica tarifa para España y el importe final depende de cada punto de venta: no hay PVP oficial que dar. Sus rivales son las perfiladas familiares de 7,2 a 7,5 metros de las generalistas europeas, frente a las que la T 68 compite con estética joven y camas gemelas, no con refinamiento interior. Es para parejas jóvenes o familias que se inician, que quieren una perfilada grande con imagen actual y dormitorio práctico, y que priorizan el precio contenido dentro del grupo Hymer. No es para quien viaja en invierno de verdad ni para quien busca materiales nobles: es una autocaravana honesta de gama de acceso con mucha imagen. Cómo lo verificamos: las medidas (7,41 × 2,32 × 2,93 m), el motor Fiat Ducato 2.2 de 140 CV, la MMA de 3.500 kg, la masa en orden de marcha de 2.992 kg con su horquilla oficial, las camas gemelas traseras y la cama basculante de 195 × 140 cm proceden de la página oficial del modelo en sunlight.de, revisada el 18/10/2026; la marca no publica las plazas para dormir ni la carga útil del modelo, por eso esos campos van en null; Sunlight no publica tarifa para España, por eso no hay precio. El veredicto es que es la perfilada de imagen joven más redonda del segmento de acceso: distribución familiar bien resuelta y estética Adventure que la distingue, a cambio de materiales sencillos y un aislamiento de tres estaciones que hay que asumir con realismo.
+En precio, Sunlight no publica tarifa para España y el importe final depende de cada punto de venta: no hay PVP oficial que dar. Sus rivales son las perfiladas familiares de 7,2 a 7,5 metros de las generalistas europeas, frente a las que la T 68 compite con estética joven y camas gemelas, no con refinamiento interior. Es para parejas jóvenes o familias que se inician, que quieren una perfilada grande con imagen actual y dormitorio práctico, y que priorizan el precio contenido dentro del grupo Hymer. No es para quien viaja en invierno de verdad ni para quien busca materiales nobles: es una autocaravana honesta de gama de acceso con mucha imagen. Cómo lo verificamos: las medidas (7,41 × 2,32 × 2,93 m), el motor Fiat Ducato 2.2 de 140 CV, la MMA de 3.500 kg, la masa en orden de marcha de 3.007 kg con su horquilla oficial, las 5 plazas para dormir («2 + 3»), las camas gemelas traseras y la cama basculante de 195 × 140 cm proceden de la página oficial del modelo en sunlight.de, revisada el 19/10/2026; la marca no publica la carga útil del modelo, por eso ese campo va en null; Sunlight no publica tarifa para España, por eso no hay precio. El veredicto es que es la perfilada de imagen joven más redonda del segmento de acceso: distribución familiar bien resuelta y estética Adventure que la distingue, a cambio de materiales sencillos y un aislamiento de tres estaciones que hay que asumir con realismo.
 
 Un detalle que distingue a la T 68 dentro de su franja es la coherencia del conjunto: no intenta ser lo que no es. No hay pantallas táctiles gigantes ni domótica de relumbrón; hay una célula bien distribuida, una mecánica probada y una estética que envejece bien. Para el comprador primerizo, esa honestidad es una virtud: menos sistemas complejos significan menos averías y un mantenimiento más barato a lo largo de los años. Y para el que viene de una camper, el salto a 7,41 metros con garaje pasante se nota desde el primer viaje largo.`,
     analisisSlug: "sunlight-t-68-2026-analisis-opinion",
+    curiosidades:
+      "Sunlight pesa cada T 68 al salir de la línea de producción y comunica el peso real al concesionario, dentro de una horquilla oficial de 2.857 a 3.157 kg: en esta marca el peso declarado no es una estimación, es una medición por unidad. Fuente: https://www.sunlight.de/en-int/models/motorhomes/low-profile-motorhomes-adventure/t-68-adventure/",
     planMantenimiento: {
       intervalo:
         "Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Fiat)",
@@ -115,7 +125,7 @@ Un detalle que distingue a la T 68 dentro de su franja es la coherencia del conj
     },
     euroncap: null,
     notas:
-      "La marca no publica las plazas para dormir ni la carga útil del T 68: esos campos van en null. La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante: dato no oficial · en revisión.",
+      "Plazas para dormir: 5 oficiales («Schlafplätze 2 + 3» en sunlight.de). La marca no publica la carga útil del T 68: ese campo va en null. La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante: dato no oficial · en revisión.",
     fuenteNombre: "Sunlight (web oficial)",
     fuenteUrl:
       "https://www.sunlight.de/en-int/models/motorhomes/low-profile-motorhomes-adventure/t-68-adventure/",
@@ -177,15 +187,21 @@ Un detalle que distingue a la T 68 dentro de su franja es la coherencia del conj
     galeria: [
       {
         src: "/media/sunlight-a-70-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Sunlight A 70, vista frontal con capuchina",
+        alt: "Sunlight A 70, vista exterior oficial con capuchina",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/sunlight-a-70-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Sunlight A 70, salón familiar",
+        src: "/media/sunlight-a-70-2026-precio-ficha-tecnica-oficial-interior.webp",
+        alt: "Interior del Sunlight A 70, salón visto de delante hacia atrás (foto oficial)",
         ancho: 1200,
         alto: 800,
+      },
+      {
+        src: "/media/sunlight-a-70-2026-precio-ficha-tecnica-oficial-interior2.webp",
+        alt: "Vista panorámica 360° del interior del Sunlight A 70: cocina, baño y cama (foto oficial)",
+        ancho: 1200,
+        alto: 600,
       },
     ],
     descripcion: `Seis camas por el precio de una perfilada media: el Sunlight A 70 no disimula su propuesta, la pone en el escaparate. La capuchina es el formato que más plazas de noche da por euro en el caravaning europeo, y este A 70 la lleva a su expresión más económica dentro de las marcas generalistas: 7,26 metros, seis plazas oficiales para dormir y un precio publicado en Alemania que parte de 65.299 €. Sunlight, la marca joven del grupo Hymer, lo plantea sin complejos como lo que es: la herramienta para que una familia numerosa duerma junta sin hipotecarse. Quien busque refinamiento o discreción aerodinámica que mire a otro lado; aquí el argumento es la capacidad por euro.
@@ -200,6 +216,8 @@ Sus rivales son las capuchinas familiares de las generalistas europeas, frente a
 
 Un aspecto práctico que conviene valorar es la red: al pertenecer al grupo Hymer, la A 70 se beneficia de una de las redes de servicio más densas de Europa, con concesionarios en casi todos los países y recambios garantizados durante años. Para una familia que viaja con niños, saber que cualquier avería en ruta tiene un taller cercano no es un detalle menor. Y en reventa, las capuchinas familiares de seis camas mantienen bien su valor porque la demanda de familias numerosas es constante y la oferta de este formato, limitada.`,
     analisisSlug: "sunlight-a-70-2026-analisis-opinion",
+    curiosidades:
+      "El A 70 incluye de serie 7 años de garantía de estanqueidad, una cobertura por encima de la media de las capuchinas generalistas y una de las bazas silenciosas de Sunlight dentro del grupo Hymer. Fuente: https://www.sunlight.de/modelle/reisemobile/alkoven/a-70/",
     planMantenimiento: {
       intervalo:
         "Citroën Jumper: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Citroën)",
@@ -284,15 +302,21 @@ Un aspecto práctico que conviene valorar es la red: al pertenecer al grupo Hyme
     galeria: [
       {
         src: "/media/sunlight-cliff-640-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Sunlight Cliff 640 Adventure, vista lateral",
+        alt: "Sunlight Cliff 640 Adventure, vista exterior oficial",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/sunlight-cliff-640-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Sunlight Cliff 640 Adventure, camas gemelas",
+        src: "/media/sunlight-cliff-640-2026-precio-ficha-tecnica-oficial-interior.webp",
+        alt: "Interior del Sunlight Cliff 640 Adventure, salón visto de delante hacia atrás (foto oficial)",
         ancho: 1200,
         alto: 800,
+      },
+      {
+        src: "/media/sunlight-cliff-640-2026-precio-ficha-tecnica-oficial-interior2.webp",
+        alt: "Detalle de la cocina del Sunlight Cliff 640 Adventure (foto oficial)",
+        ancho: 1200,
+        alto: 1798,
       },
     ],
     descripcion: `Hay un mérito del Sunlight Cliff 640 Adventure que no tiene que ver con cómo duerme ni con cómo anda: publica su precio en España. 60.990 €, negro sobre blanco en la web oficial española de la marca, una transparencia que en este sector es casi una excentricidad y que permite empezar el análisis por donde hay que empezarlo, por lo que cuesta. A partir de ahí, lo que se encuentra es un camper alemán de 6,36 metros sobre Fiat Ducato 2.2 de 140 CV, con cuatro plazas de viaje y dos camas de serie, dentro de la gama Adventure de Sunlight, la marca joven del grupo Hymer. Su baza no es el lujo: es la combinación de camas gemelas traseras y precio publicado.
@@ -307,6 +331,8 @@ En precio y rivales, los 60.990 € oficiales para España lo sitúan entre las 
 
 Otro punto a favor del Cliff es la red del grupo Hymer detrás: concesionarios en toda Europa, recambios garantizados y un valor de reventa que los campers alemanes conservan mejor que la mayoría de sus rivales. Para quien compra su primer camper, esa tranquilidad tiene un precio difícil de cuantificar pero fácil de agradecer cuando surge una avería lejos de casa. Y la opción de la MMA a 4.250 kg, aunque exija el C1, convierte al Cliff en un camper con recorrido: se compra con el B y, si la familia crece o el equipaje aumenta, se amplía sin cambiar de vehículo.`,
     analisisSlug: "sunlight-cliff-640-2026-analisis-opinion",
+    curiosidades:
+      "Sunlight publica el PVP del Cliff 640 Adventure para España (60.990 €) en su web oficial: una transparencia casi única en el sector, donde lo habitual es remitir al concesionario sin dar cifras. Fuente: https://www.sunlight.de/es/modelos/camper-vans/cliff-adventure/cliff-640-adventure/",
     planMantenimiento: {
       intervalo:
         "Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Fiat)",
