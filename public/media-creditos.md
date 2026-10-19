@@ -367,3 +367,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/porsche-911-gt3-2026-precio-ficha-tecnica-hunt2.webp | http://carbuzz.com/cars/porsche/911-gt3/2026/photos-exterior/ | CarBuzz (fotos oficiales de prensa Porsche) | desconocida |
 | /media/porsche-911-gt3-2026-precio-ficha-tecnica-hunt3.webp | http://carbuzz.com/cars/porsche/911-gt3/2026/photos-exterior/ | CarBuzz (fotos oficiales de prensa Porsche) | desconocida |
 | /media/dacia-lodgy-2025-hunt1.webp | https://autotest.com.ar/wp-content/uploads/2020/12/RENAULT-LODGY-1024x631.jpg | autotest.com.ar (prensa del motor) | desconocida |
+
+## photo-hunt (19/10/2026) — uploader-2
+| /media/aion-y-plus-2024-precio-ficha-tecnica-hunt1.webp | https://www.salazarisrael.cl/marcas/gac-motor/nuevo/gac-motor-aion-y | GAC Motor / Salazar Israel | desconocida |
+| /media/aion-y-plus-2024-precio-ficha-tecnica-hunt2.webp | https://gacgroup.com/pt-br/suv/aion-y | GAC Group | desconocida |
+| /media/aion-y-plus-2024-precio-ficha-tecnica-hunt3.webp | https://www.car250.com/gac-aion-y-plus-2000.html | car250.com | desconocida |
+| /media/jac-ej7-2025-precio-ficha-tecnica-hunt1.webp | https://www.jacmotors.com.br/carros/e-j7/ | JAC Motors Brasil | desconocida |
+| /media/jac-ej7-2025-precio-ficha-tecnica-hunt2.webp | https://www.jacmotors.com.br/carros/e-j7/ | JAC Motors Brasil | desconocida |
+| /media/jac-ej7-2025-precio-ficha-tecnica-hunt3.webp | https://jacen.jac.com.cn/models/e-j7/ | JAC Motors (jacen.jac.com.cn) | desconocida |
+| /media/porsche-911-gt3-rs-2025-precio-ficha-tecnica-hunt1.webp | https://en.wheelz.me/2025-porsche-911-gt3-rs/ | wheelz.me | desconocida |
+| /media/porsche-911-gt3-rs-2025-precio-ficha-tecnica-hunt2.webp | https://finder.porsche.com/us/en-US/details/porsche-911-gt3-rs-new-7WKEXL | Porsche Finder (finder.porsche.com) | desconocida |
+| /media/porsche-911-gt3-rs-2025-precio-ficha-tecnica-hunt3.webp | https://www.elferspot.com/it/auto/porsche-992-gt3-rs-2025-4662080/ | elferspot.com | desconocida |
+| /media/aion-y-2024-precio-ficha-tecnica-hunt1.webp | https://www.zigwheels.ae/new-cars/gac/aion-y | ZigWheels | desconocida |
+| /media/aion-y-2024-precio-ficha-tecnica-hunt2.webp | https://www.car250.com/gac-aion-2024-50000-th.html | Car250 | desconocida |
+| /media/aion-y-2024-precio-ficha-tecnica-hunt3.webp | https://www.gacgroup.com/en/suv/aion-y | GAC Group (prensa oficial) | desconocida |
+| /media/jac-t8-pro-2024-precio-ficha-tecnica-hunt1.webp | https://www.bitauto.com/by/jac/t8pro/image-1491-s1032-g6-a1-p1/ | BitAuto | desconocida |
+| /media/jac-t8-pro-2024-precio-ficha-tecnica-hunt2.webp | https://www.autoindustriya.com/auto-industry-news/astara-relaunching-jac-motors-with-five-car-lineup-for-mias-2024.html | AutoIndustriya | desconocida |
+| /media/jac-t8-pro-2024-precio-ficha-tecnica-hunt3.webp | https://www.tester.pe/jac-amplia/ | Tester.pe | desconocida |
+| /media/porsche-911-targa-4-gts-2026-precio-ficha-tecnica-hunt1.webp | https://www.ebay.com/itm/366671196231 | eBay (anunciante) | desconocida |
+| /media/porsche-911-targa-4-gts-2026-precio-ficha-tecnica-hunt2.webp | https://finder.porsche.com/us/en-US/details/porsche-911-targa-4-gts-new-364ON0 | Porsche Finder (Porsche River Oaks) | desconocida |
+| /media/porsche-911-targa-4-gts-2026-precio-ficha-tecnica-hunt3.webp | https://finder.porsche.com/ca/en-CA/details/porsche-911-targa-4-gts-new-OL6QZ3 | Porsche Finder (Porsche Centre Langley) | desconocida |
+| /media/aion-lx-plus-2024-precio-ficha-tecnica-hunt1.webp | https://images.carexpert.com.au/app/uploads/2022/01/2022-GAC-Aion-LX-Plus-8.png | CarExpert (carexpert.com.au) | desconocida |
+| /media/aion-lx-plus-2024-precio-ficha-tecnica-hunt2.webp | https://images.carexpert.com.au/resize/1920/-/app/uploads/2022/01/2022-GAC-Aion-LX-Plus-2.png | CarExpert (carexpert.com.au) | desconocida |
+| /media/aion-lx-plus-2024-precio-ficha-tecnica-hunt3.webp | https://images.carexpert.com.au/resize/960/-/cms/v1/media/2022-01-2022-gac-aion-lx-plus-11.png | CarExpert (carexpert.com.au) | desconocida |
+| /media/alfa-romeo-giulietta-2025-hunt1.webp | https://en.wikipedia.org/wiki/Alfa_Romeo_Giulietta_(2010) | Wikimedia Commons | CC (Wikimedia Commons) |
