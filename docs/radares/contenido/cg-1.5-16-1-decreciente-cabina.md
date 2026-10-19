@@ -11,6 +11,14 @@
 ## Dónde está
 
 La CG-1.5, pk 16,1, en Rois (A Coruña), alberga esta cabina (42.834892, -8.737821). Cubre el sentido decreciente (dirección de pks descendentes), con destino Santiago según el registro de la DGT. La vista de Street View lo sitúa sobre el terreno.
+
+<iframe title="Mapa: radar cg-1.5-16-1-decreciente-cabina" src="https://www.google.com/maps?q=42.834892,-8.737821&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cg-1.5-16-1-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.834892,-8.737821&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
 ## La carretera
 
 La CG-1.5 es un corredor autonómico convencional de la Xunta hacia Santiago. En el XML de la DGT consta como «CARRETERA AUTONÓMICA», con el régimen genérico de las convencionales. El tramo no está descrito.
