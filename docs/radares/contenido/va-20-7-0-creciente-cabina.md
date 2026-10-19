@@ -16,6 +16,14 @@ El XML tipifica este punto como CIRCUNVALACIÓN, una etiqueta que no aclara si e
 
 La cabina está en el pk 7,0 de la VA-20 y vigila el sentido creciente —tráfico hacia pks ascendentes—, con VALLADOLID como destino de referencia en el registro. El punto cae en Valladolid capital: 41.6371, -4.7024 (WGS84); el Street View de la cabecera muestra el lugar exacto.
 
+<iframe title="Mapa: radar va-20-7-0-creciente-cabina" src="https://www.google.com/maps?q=41.6371,-4.7024&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar va-20-7-0-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=41.6371,-4.7024&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La ronda exterior
 
 La VA-20 es la ronda exterior de Valladolid, de titularidad provincial. Las rondas pueden ser autovía en unos tramos y convencional en otros, y la etiqueta CIRCUNVALACIÓN no permite distinguirlo: de ahí que no se asigne ningún genérico.
