@@ -66,7 +66,61 @@ export const AUTOCARAVANAS_FRANKIA_M4: Autocaravana[] = [
       "autocaravanas: así lo indica el pie del folleto oficial del Titan. Fuente: " +
       "folleto «Experience the Frankia Titan» " +
       "(https://www.readkong.com/page/experience-the-frankia-titan-6316875).",
-    descripcion: `El Frankia Titan I 840 GD es un integral alemán de 8,46 metros que
+    descripcion: `El Frankia Titan I 840 GD es la llave de acceso al universo de los integrales
+      grandes de la casa alemana de Marktschorgast: 8,46 metros de integral con camas gemelas
+      en la trasera, salón en forma de herradura, cocina modular MaxiFlex y un cuarto de baño
+      de dimensiones holgadas. Se apoya en el chasis Fiat Ducato y su masa máxima autorizada
+      de 5 toneladas obliga a contar con el carnet C1. Dentro de la oferta de la marca, la
+      serie Titan ocupa el escalón de los integrales espaciosos con un posicionamiento
+      económico más contenido que el Platin, aunque mantiene señas de la casa como el doble
+      suelo con calefacción y la construcción Thermo Guard.
+
+      Las medidas oficiales son 8.460 mm de longitud, 2.300 mm de anchura y 3.180 mm de
+      altura, con 5.000 kg de MMA de serie y 5.500 kg como opción. Bajo el capó trabaja el
+      Fiat Ducato 2.2 Multijet de 180 CV asociado a un cambio manual de seis relaciones:
+      suficiente para mover las cinco toneladas con soltura y con un coste de mantenimiento
+      razonable gracias a que el Ducato está presente en talleres de toda Europa. El
+      depósito de gasóleo es de 90 litros; los de agua, 150 litros de limpia y 130 de
+      grises, pensados para varios días de autonomía. Homologa cuatro o cinco plazas según
+      la configuración elegida, y las plazas para dormir oscilan entre dos y seis: las dos
+      gemelas de la trasera vienen de serie y la basculante sobre el salón es opcional.
+
+      El layout GD —las gemelas— es el preferido de las parejas que descansan mejor cada
+      uno en su lecho y de quienes aprovechan el pasillo central entre ambas como vestidor.
+      En el Titan, estas camas montan colchones multizona de serie en la gama y admiten una
+      extensión opcional que las une en una gran superficie doble. Hacia delante, el salón
+      en herradura con mesa de tamaño variable recibe con comodidad a cinco comensales, y la
+      cocina MaxiFlex —el concepto modular de Frankia— combina una encimera de HPL de alta
+      gama que se amplía, un bloque de cocción completo y la torre TecTower con el
+      frigorífico accesible desde los dos lados. El baño, con ducha independiente de buen
+      tamaño, y el doble suelo calefactado, con 126/348 mm de altura útil, redondean un
+      interior en el que se percibe la experiencia de una marca que fabrica en la misma
+      planta desde hace más de 60 años.
+
+      En dotación, el Titan trae de serie toldo Thule de 5,5 metros, televisor de 24
+      pulgadas, claraboya con ventilador, escalón eléctrico de acceso, preinstalación para
+      la cámara de marcha atrás y calefacción por aire caliente; la calefacción hidrónica
+      Alde queda como opción para quien ruede en invierno. La carrocería une paredes
+      Thermo Guard Plus con acabado de gelcoat resistente al granizo y una garantía de
+      estanqueidad de once años, un punto fuerte en un vehículo de este nivel de
+      inversión.
+
+      Cómo lo verificamos: la existencia del modelo y su planteamiento general se
+      comprobaron en el folleto oficial Frankia Titan, consultado el 19/10/2026 en su
+      copia de readkong.com; las cotas exactas, la MMA, el motor de 180 CV, las plazas y
+      las capacidades de agua salen de los exposés de caraworld.de y alpacacamping.de
+      correspondientes a unidades del I 840 GD. La denominación «I 8400 GD» sin apellido
+      pertenece a generaciones anteriores de la marca, así que se reemplazó por el Titan I
+      840 GD vigente, tal como figura en el manifest. El precio queda en null porque
+      Frankia no publica tarifa oficial en España.
+
+      Para quién es: el Titan I 840 GD cuadra con parejas o familias que buscan un integral
+      grande con camas gemelas, doble suelo y 5 toneladas de MMA sin llegar al precio del
+      Platin, y que ya tienen el C1. Es una compra pensada para viajeros de larga estancia
+      que priorizan autonomía y metros interiores. No es para quien solo disponga del
+      carnet B —aquí el C1 es imprescindible—, ni para quien priorice la agilidad: 8,46 m
+      de largo y 3,18 m de alto obligan a planificar itinerarios, aparcamientos y áreas
+      por adelantado.`,46 metros que
       representa la puerta de entrada al mundo de los grandes integrales de la marca
       de Marktschorgast: camas gemelas traseras, salón en herradura, cocina MaxiFlex
       y un baño de generosas dimensiones, todo sobre chasis Fiat Ducato con una MMA
@@ -123,18 +177,18 @@ export const AUTOCARAVANAS_FRANKIA_M4: Autocaravana[] = [
       ni para quien busque agilidad: 8,46 m y 3,18 m de alto exigen planificar
       rutas, parkings y áreas con antelación.`,
     pros: [
-      "Camas gemelas traseras con opción de unirlas en gran cama doble",
-      "Doble suelo calefactado y construcción Thermo Guard con 11 años de garantía de estanqueidad",
-      "Cocina MaxiFlex modular con encimera ampliable y TecTower de doble acceso",
-      "MMA de 5.000 kg (5.500 en opción): margen de carga generoso para viajes largos",
-      "Motor Fiat Ducato 180 CV con red de servicio en toda Europa",
+      "Camas gemelas en la trasera, unibles en una gran doble con la extensión opcional",
+      "Doble suelo con calefacción y construcción Thermo Guard: 11 años de garantía de estanqueidad",
+      "Cocina MaxiFlex modular: encimera ampliable de HPL y TecTower con doble acceso",
+      "5.000 kg de MMA (5.500 en opción): margen de carga amplio para rutas largas",
+      "Ducato 2.2 de 180 CV: potencia suficiente con red de talleres en toda Europa",
     ],
     contras: [
-      "Carnet C1 obligatorio: no vale el B",
-      "Precio sin publicar en España: presupuesto a medida por concesionario",
-      "8,46 m de largo y 3,18 m de alto: exige planificar rutas y áreas",
-      "Cama basculante opcional: las 4-6 plazas de noche dependen de opciones",
-      "Consumo y mantenimiento de un 5 toneladas: peajes y combustible de categoría superior",
+      "Exige carnet C1: el carnet B no sirve",
+      "Sin precio publicado en España: cada unidad se presupuesta en concesionario",
+      "8,46 m de largo y 3,18 m de alto: hay que planificar rutas, parkings y áreas",
+      "La basculante es opcional: las 4-6 plazas nocturnas dependen de ella",
+      "Costes de un 5 toneladas: peajes y combustible en otra liga",
     ],
     opiniones: [],
     galeria: [
