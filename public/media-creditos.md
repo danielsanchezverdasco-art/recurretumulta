@@ -4539,3 +4539,24 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/voge-300acx-hunt1.webp | https://cdn-listino.inmoto.it/2023/1/12/300_ACX_studio360_02_48cd769905.JPG | Voge / InMoto.it | desconocida |
 | /media/voge-300acx-hunt2.webp | https://vogeitaly.it/wp-content/uploads/DSC1282-scaled.jpg | Voge / vogeitaly.it | desconocida |
 | /media/voge-300acx-hunt3.webp | https://d1hv7ee95zft1i.cloudfront.net/custom/motorcycle-model-photo/original/voge-300acx-6847af9e6eb2e.jpg | Voge / MotoDeal | desconocida |
+| /media/volvo-ex30-cross-country-2025-precio-ficha-tecnica-hunt1.webp | https://motorsactu.com/wp-content/uploads/2025/02/Volvo-EX30-Cross-Country-2025-19-1.webp | Volvo / Motors Actu | desconocida |
+| /media/volvo-ex30-cross-country-2025-precio-ficha-tecnica-hunt2.webp | https://car2day.com/wp-content/uploads/2025/07/MY26_EX30CC_0827.jpg | Volvo / car2day.com | desconocida |
+| /media/volvo-ex30-cross-country-2025-precio-ficha-tecnica-hunt3.webp | https://cms-assets.autoscout24.com/uaddx06iwzdz/16lXB2qIDNj2NMepJk0rEQ/ac410ceeec0d5bd17033d7588e3ef0d5/Volvo_EX30_Cross_Country_3.jpg?w=768 | Volvo / AutoScout24 | desconocida |
+| /media/dacia-striker-hybrid-155-2026-precio-ficha-tecnica-hunt1.webp | https://www.motorone.gr/wp-content/uploads/2026/07/Dacia-Striker-Hybrid-155-15.jpg | motorone.gr | desconocida |
+| /media/dacia-striker-hybrid-155-2026-precio-ficha-tecnica-hunt2.webp | https://cdn.autopapo.com.br/box/uploads/2026/07/08123940/dacia-striker-hybrid-155-copia-2.jpg | autopapo.com.br | desconocida |
+| /media/dacia-striker-hybrid-155-2026-precio-ficha-tecnica-hunt3.webp | https://autotest.com.ar/wp-content/uploads/2026/07/Dacia-Striker-Extreme-Hybrid-SUV.jpg | autotest.com.ar | desconocida |
+| /media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-hunt1.webp | https://cdn.smcmotorhomes.co.uk/wp-content/uploads/2025/10/IMG_7112.jpg | SMC Motorhomes (concesionario) | desconocida |
+| /media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-hunt2.webp | https://cdn.smcmotorhomes.co.uk/wp-content/uploads/2025/10/IMG_7115.jpg | SMC Motorhomes (concesionario) | desconocida |
+| /media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-hunt3.webp | https://cdn.smcmotorhomes.co.uk/wp-content/uploads/2025/10/IMG_7130.jpg | SMC Motorhomes (concesionario) | desconocida |
+| /media/mercedes-glb-350-eq-2026-hunt1.webp | https://www.autobics.com/wp-content/uploads/2026/04/2026-Mercedes-Benz-GLB-Electric-Aqua-Mint.jpg | autobics.com | desconocida |
+| /media/mercedes-glb-350-eq-2026-hunt2.webp | https://www.carscoops.com/wp-content/uploads/2025/12/2026-Mercedes-Benz-GLB-EQ-55-768x512.jpg | carscoops.com | desconocida |
+| /media/mercedes-glb-350-eq-2026-hunt3.webp | https://gagadget.com/media/post_big/006151000154.webp | gagadget.com | desconocida |
+| /media/voge-625r-hunt1.webp | https://vogespain.es/wp-content/uploads/Voge-625R-lateral.png | vogespain.es (web oficial Voge España) | desconocida |
+| /media/voge-625r-hunt2.webp | https://1f9889eaed.clvaw-cdnwnd.com/7cffd3bd0aa10fc6a296afa56f5b35a2/200020697-2a2fd2a2ff/700/Voge-R625-1%20%281%29.webp?ph=1f9889eaed | putsescooters.be (concesionario) | desconocida |
+| /media/voge-625r-hunt3.webp | http://motodeseo.com/wp-content/uploads/Voge-625R-lateral.png | motodeseo.com | desconocida |
+| /media/volvo-ec40-2024-precio-ficha-tecnica-hunt1.webp | https://autogala.volvocars-partner.pl/img-proxy.php?src=https%3A%2F%2Fmain.volvocars-partner.pl%2Fapp%2Fuploads%2F2024%2F06%2Fexterior-studio-three-quarters-rear-left-9.jpg&w=1920&h=1080&fit=fit | autogala.volvocars-partner.pl (concesionario Volvo) | desconocida |
+| /media/volvo-ec40-2024-precio-ficha-tecnica-hunt2.webp | https://www.holdengroup.co.uk/wp-content/uploads/2024/11/EC40-exterior-location-three-quarters-front-left.jpg | Holden Group (concesionario Volvo) | desconocida |
+| /media/volvo-ec40-2024-precio-ficha-tecnica-hunt3.webp | http://autotijd.be/images/volvo/2024/ec40/facelift/volvo-ec40-2024-03.jpg | autotijd.be | desconocida |
+| /media/audi-a5-avant-2025-hunt1.webp | https://www.motortrend.com/files/6695855981e9d70008474e89/2025-audi-a5-avant-23.jpg?w=768&width=768&q=75&format=webp | MotorTrend | desconocida |
+| /media/audi-a5-avant-2025-hunt2.webp | https://www.completecar.ie/img/testdrives/13761_large.jpg | CompleteCar.ie | desconocida |
+| /media/audi-a5-avant-2025-hunt3.webp | https://supertopmotor.com.br/wp-content/uploads/2026/08/A5_Avant-2.png | SupertopMotor | desconocida |
