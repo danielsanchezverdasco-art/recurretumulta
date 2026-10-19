@@ -1,60 +1,68 @@
-# Radar A-220, pk 9,4 (sentido creciente) — Zaragoza, Aragón
+# Radar A-23, pk 355,2 (sentido creciente) — Huesca, Aragón
 
 
-**Identificador:** `a-220-9-4-creciente-fijo` · **Tipo:** fijo (cinemómetro fijo en emplazamiento permanente)
+**Identificador:** `a-23-355-2-creciente-cabina` · **Tipo:** cabina (cinemómetro fijo)
 
 **Fuente oficial:** DGT · DATEX II — verificado el 2026-10-18
 
 **Autor:** Merlín · **Fecha de redacción:** 2026-10-18
 
-**Coordenadas (WGS84):** 41.41137, -1.3042
+**Coordenadas (WGS84):** 42.1115, -0.44932
 
-**Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=41.41137,-1.3042)
+**Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.1115,-0.44932)
 
+<iframe title="Mapa: radar a-220-9-4-creciente-fijo" src="https://www.google.com/maps?q=41.41137,-1.3042&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
 
-> **Cómo lo verificamos:** carretera, punto kilométrico, sentido y coordenadas tomados del fichero oficial de radares fijos de la DGT (DATEX II). La DGT no publica para este punto ni el límite de velocidad ni el municipio —verificado el 2026-10-18—, por lo que esta ficha no contiene esos datos.
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
 
+<iframe title="Street View: radar a-220-9-4-creciente-fijo" src="https://maps.google.com/maps?q=&layer=c&cbll=41.41137,-1.3042&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
 
-## El enclave exacto
-
-
-Ocho kilómetros más allá de la cabina del pk 1,6, la A-220 acoge un segundo control en su **pk 9,4**, provincia de Zaragoza. Supervisa el **sentido creciente**: la dirección que la DGT identifica como **Cariñena**, hacia el sur por la red secundaria. El **fichero** lo registra en un **itinerario** ya plenamente rural.
-
-
-## Carretera de comarca
+*Vista 3D (Street View) del entorno del radar.*
 
 
-La A-220 es de **titularidad regional** y perfil **secundario**: calzada única, un carril por sentido y arcenes estrechos. Conecta el corredor de la A-2 con las comarcas del sur zaragozano y mueve un tráfico escaso pero heterogéneo: turismos de la zona, furgonetas de reparto y maquinaria agrícola en temporada. Sin mediana, el despiste o el exceso disponen aquí de menos margen que en una **vía desdoblada**; de ahí que la DGT mantenga puestos fijos en ella.
+> **Cómo lo verificamos:** los cuatro datos identificativos —carretera, punto kilométrico, sentido y coordenadas— vienen del fichero oficial de radares fijos de la DGT (DATEX II). La DGT no publica para este emplazamiento ni la velocidad límite ni el municipio (comprobado el 2026-10-18): la ficha respeta ese vacío y no lo rellena.
 
 
-## Máxima autorizada desconocida
+## El punto vigilado
 
 
-El **máximo permitido** en este punto no figura en el dataset de la DGT, así que la ficha no lo incluye. Con carácter general, **la norma general —artículo 48 del Reglamento—** fija **90 km/h** para turismos y motocicletas en carreteras convencionales. Pero ese marco convive con la señalización del **itinerario**, que en vías como esta siembra recortes en curvas, rasantes e intersecciones. Ningún genérico sustituye a la señal: lo que rija aquí lo dicen las señales.
+En el tramo final de la Mudéjar, antes de la frontera, la A-23 sitúa una cabina en su **pk 355,2**, provincia de **Huesca**. Apunta al **sentido creciente**: la DGT consigna esta dirección como **Francia**. Es el radar más septentrional de la tanda, en un **lugar** donde el tráfico transfronterizo hacia el paso fronterizo pesa más que el regional.
 
 
-## Un control sin relevo
+## Autovía de montaña suave
 
 
-Este control, a diferencia de las cabinas, es **continuado**: el cinemómetro vive instalado en el punto y **no se traslada** a otros emplazamientos. Realiza la **toma de velocidad** en ese lugar del **itinerario** de forma permanente, con la **minoración técnica** que la DGT aplica antes de **iniciar el procedimiento sancionador**. Su continuidad no deja resquicio a la duda: exceder el máximo señalizado acarrea **la sanción que prevé la tabla oficial: importe económico y pérdida de puntos**.
+En su tramo oscense la A-23 deja la llanura y se convierte en una **vía rápida** de montaña suave: curvas más cerradas, desniveles encadenados y una meteorología capaz de transformarse en pocos kilómetros. Constituye la salida natural hacia Francia tanto para **el transporte pesado** que cruza la península como para los turismos en desplazamientos transfronterizos. El firme conserva categoría de autovía, pero el **trazado** perdona menos que el de la meseta: la **marcha de viaje** la deciden a medias las señales y la orografía.
 
 
-## Claves para no despistarse
+## Límite aplicable: lo que falta
 
 
-En una vía como la A-220 la consigna es **templar el ritmo y leer la carretera**: curvas ciegas y cambios de rasante exigen una marcha adaptada, no el máximo legal. Ni quien conozca el **itinerario** debería confiarse: los vehículos lentos aparecen en cualquier momento. De noche, sin arcenes generosos ni alumbrado, la prudencia redobla el cuidado y obliga a bajar a cortas ante el tráfico de frente.
+La DGT no ha comunicado la velocidad tope de este punto en su **fichero DATEX**, así que la ficha no la recoge. Como referencia genérica, **lo dispuesto en el artículo 48 del Reglamento General de Circulación** establece **120 km/h** para turismos y motocicletas en autovía. En un **trazado** prepirenaico como este, las señales suelen matizar ese valor —recortes en curvas, limitaciones por meteorología— y los paneles variables pueden moverlo en tiempo real. Solo obliga lo que indiquen las señales al pasar.
+
+
+## Dentro de la cabina
+
+
+La cabina puede integrar un **cinemómetro** que practica una **medida** puntual: capta la velocidad de cada vehículo al cruzar ese punto exacto. La DGT aplica el **descuento técnico** antes de **proponer la sanción**, pero exceder el tope señalizado es infracción desde el primer kilómetro de más y se castiga con **multa acompañada de pérdida de puntos, tal como fija el cuadro de sanciones oficial**. **Los equipos se intercambian entre emplazamientos** de la red estatal: una cabina desierta no garantiza nada. Hay que darla por plenamente operativa en todo momento.
+
+
+## Recomendaciones para el trayecto
+
+
+En un **trazado** de aproximación a la frontera **es recomendable** revisar papeles y estado del coche antes de continuar, aprovechando para descansar: la montaña reclama más atención que la llanura. Ante lluvia, niebla o riesgo de hielo —posibles en este sector durante buena parte del año—, **resulta prudente** reducir la velocidad de forma preventiva y ampliar la distancia con el precedente. Con remolque o carga, la cautela exige aún más margen en las bajadas: los frenos lo agradecen.
 
 
 ## Radares cercanos (misma fuente oficial)
 
 
-- **A-220, pk 1,6** (sentido creciente, cabina) — a 8,0 km
+- **A-132, pk 2,6** (sentido decreciente, cabina) — a 4,9 km
 
-- **A-2, pk 272,9** (sentido decreciente, cabina) — a 10,0 km
+- **N-240, pk 204,9** (sentido decreciente, cabina) — a 8,0 km
 
-- **N-330, pk 456,4** (sentido decreciente, cabina) — a 10,6 km
+- **N-240, pk 204,3** (sentido creciente, cabina) — a 8,6 km
 
-- **A-2, pk 297,8** (sentido creciente, cabina) — a 24,4 km
+- **N-240, pk 202,0** (sentido creciente, cabina) — a 10,6 km
 
 
 ## Fuentes
