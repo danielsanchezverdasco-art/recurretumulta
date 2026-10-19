@@ -12,6 +12,15 @@
 
 El radar se encuentra en la **N-322, pk 316,0**, provincia de Albacete. El cinemómetro apunta al **sentido creciente** (dirección de pk crecientes). El punto kilométrico 316,0 es la referencia oficial; sobre el terreno la cabina puede estar unos metros antes o después. A 8,8 km hacia el noreste está el control más próximo, el de la **N-322, pk 327,3** (sentido decreciente). Le sigue en proximidad el de la **N-430, pk 484,5** (sentido creciente), situado a 22,1 km hacia el norte. Quien circula por aquí suele llevar ya muchos kilómetros encima: el cansancio también suma riesgo.
 
+<iframe title="Mapa: radar n-322-316-0-creciente-cabina" src="https://www.google.com/maps?q=38.84579,-2.23002&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-322-316-0-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.84579,-2.23002&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 Hablamos de la N-322, una nacional de trazado convencional en Albacete. La carretera nacional soporta a diario una corriente circulatoria heterogénea, con pesados y ligeros compartiendo calzada. La vigilancia permanente en este sector busca contener los excesos en un tramo que invita a correr. La N-322 suma 3 puntos de control en Castilla-La Mancha; este ocupa el primer lugar por pk. Siguiendo por la N-322, el próximo punto con vigilancia es el del pk 327,3 (sentido decreciente), a 8,8 km hacia el noreste. El mensaje de fondo: adaptar la velocidad al tramo es aquí especialmente importante. Cada tipo de vía tiene su lógica; la de esta pasa por adaptar la velocidad a su trazado y a su tráfico.
