@@ -2740,3 +2740,12 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/exeed-sterra-es-reev-2025-precio-ficha-tecnica-hunt1.webp | https://www.chinesecars.me/p63813.html | ChineseCars.me / Autohome | desconocida |
 | /media/exeed-sterra-es-reev-2025-precio-ficha-tecnica-hunt2.webp | https://www.chinesecars.me/p63813.html | ChineseCars.me / Autohome | desconocida |
 | /media/exeed-sterra-es-reev-2025-precio-ficha-tecnica-hunt3.webp | https://dubaiwheels.ae/new-car/Exeed/ES/REEV-Ultra | DubaiWheels | desconocida |
+| /media/sehol-x8-2022-precio-ficha-tecnica-hunt1.webp | https://eautofromchina.ru/vehicle/sehol-x8-china-2020-r1015815/ | eautofromchina.ru | desconocida |
+| /media/sehol-x8-2022-precio-ficha-tecnica-hunt2.webp | https://hugeauto.com/china-car/photo/2021-sehol-x8-300t-dct-flagship-icv-5-seats | HugeAuto.com | desconocida |
+| /media/sehol-x8-2022-precio-ficha-tecnica-hunt3.webp | https://wetocar.ru/models/jac/sehol-x8 | WeToCar.ru | desconocida |
+| /media/wuling-starlight-730-ev-2025-precio-ficha-tecnica-hunt1.webp | https://ev.motorwatt.com/media/djcatalog2/images/item/19/wuling-starlight-730-xingguang-730-ev_l.jpg | ev.motorwatt.com (base de datos EV) | desconocida |
+| /media/wuling-starlight-730-ev-2025-precio-ficha-tecnica-hunt2.webp | https://cncarsexport.com/cdn/shop/files/45_7_260730db-7097-4d28-813e-b6d903be9e90.jpg?v=1765332480&width=1426 | cncarsexport.com | desconocida |
+| /media/wuling-starlight-730-ev-2025-precio-ficha-tecnica-hunt3.webp | https://img4.pcauto.com.cn/pcauto/images/auto_hj/20260208/46728270.jpg | pcauto.com.cn | desconocida |
+| /media/audi-q6-e-tron-2025-precio-ficha-tecnica-hunt4.webp | https://i.gaw.to/vehicles/photos/40/36/403696-2025-audi-q6-e-tron.jpg?1024x640 | Guideautoweb / Central Autos | desconocida |
+| /media/audi-q6-e-tron-2025-precio-ficha-tecnica-hunt5.webp | https://en.wheelz.me/wp-content/uploads/2024/03/Audi-Q6_e-tron_quattro-2025-17.webp | Wheelz.me | desconocida |
+| /media/audi-q6-e-tron-2025-precio-ficha-tecnica-hunt6.webp | https://www.hibridosyelectricos.com/uploads/s1/75/76/25/audi-q6-e-tron-trasera_5_659x371.jpeg | Híbridos y Eléctricos | desconocida |
