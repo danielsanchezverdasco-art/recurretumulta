@@ -4747,3 +4747,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/xiaomi-su7-2026-precio-ficha-tecnica-hunt1.webp | https://www.gizmochina.com/wp-content/uploads/2026/03/image_1773941157786.jpg?x23692 | GizmoChina | desconocida |
 | /media/xiaomi-su7-2026-precio-ficha-tecnica-hunt2.webp | https://www.gizmochina.com/wp-content/uploads/2026/03/image_1773941172325.jpg?x23692 | GizmoChina | desconocida |
 | /media/xiaomi-su7-2026-precio-ficha-tecnica-hunt3.webp | https://autochinacar.com/wp-content/uploads/2026/07/7-31.jpg | AutoChinaCar | desconocida |
+| /media/mg-zs-2025-precio-ficha-tecnica-hunt1.webp | https://images.dailyrevs.com/0000/v3/MG/66cfefb3fd8ba4fe77b6740f/2025-zs-hybrid-mg-1osah3llllm0mg3dhp6ma.jpeg | DailyRevs (foto de prensa MG) | desconocida |
+| /media/mg-zs-2025-precio-ficha-tecnica-hunt2.webp | https://images.dailyrevs.com/0000/v3/MG/66cfefb3fd8ba4fe77b6740f/2025-zs-hybrid-mg-1oo5m060awq36c7m.jpeg | DailyRevs (foto de prensa MG) | desconocida |
+| /media/mg-zs-2025-precio-ficha-tecnica-hunt3.webp | https://images.prismic.io/carwow/ZxkSrYF3NbkBX8M6_LHDMGZSHybrid%2B2025Interior-1.jpg?auto=format&cs=tinysrgb&fit=clip&ixlib=rb-1.1.0&q=60&w=1125 | Carwow (foto de prensa MG) | desconocida |
+| /media/ds-9-e-tense-2026-precio-ficha-tecnica-hunt1.webp | https://www.f1latam.com/autos/img/prin/ds_ds9_01.jpg | DS Automobiles (via F1Latam) | desconocida |
+| /media/ds-9-e-tense-2026-precio-ficha-tecnica-hunt2.webp | https://media.autoexpress.co.uk/image/private/s--u_4_WxRX--/v1662124319/autoexpress/2022/09/DS%209%20E-Tense%20250%20UK%202022-16.jpg | Auto Express | desconocida |
+| /media/ds-9-e-tense-2026-precio-ficha-tecnica-hunt3.webp | https://media.autoexpress.co.uk/image/private/s--z0ZRAQkb--/f_auto,t_content-image-full-desktop@1/v1645693867/autoexpress/2022/02/DS%209%204x4%202022%20review.jpg | Auto Express | desconocida |
+| /media/morgan-plus-six-2025-precio-ficha-tecnica-hunt1.webp | https://robbreportmonaco.com/wp-content/uploads/2025/02/Morgan-Plus-Six-rear-34-scaled.jpg | Robb Report Monaco | desconocida |
+| /media/morgan-plus-six-2025-precio-ficha-tecnica-hunt2.webp | https://robbreportmonaco.com/wp-content/uploads/2025/02/Morgan-Plus-Six-interior-03-1024x682.jpg | Robb Report Monaco | desconocida |
+| /media/morgan-plus-six-2025-precio-ficha-tecnica-hunt3.webp | https://ymimg1.b8cdn.com/resized/article/18239/pictures/13724009/listing_main_Morgan_Plus-Six_Exterior_05.jpg | YallaMotor | desconocida |
+| /media/niu-nqi-sport-2026-ficha-tecnica-precio-hunt1.webp | https://images5.1000ps.net/images_bikekat/2026/545-NIU/13499-NQi_Sport_Standard_Range/013-639052749628621724-niu-nqi-sport-standard-range.jpg?width=1920&height=1080&mode=crop&scale=both&format=webp | 1000PS | desconocida |
+| /media/niu-nqi-sport-2026-ficha-tecnica-precio-hunt2.webp | https://images5.1000ps.net/images_bikekat/2026/545-NIU/13499-NQi_Sport_Standard_Range/003-639052749404107281-niu-nqi-sport-standard-range.jpg?width=1200&height=675&mode=crop&scale=both&format=webp | 1000PS | desconocida |
+| /media/niu-nqi-sport-2026-ficha-tecnica-precio-hunt3.webp | https://images5.1000ps.net/images_bikekat/2026/545-NIU/13499-NQi_Sport_Standard_Range/005-639052749448000584-niu-nqi-sport-standard-range.jpg?width=1200&height=675&mode=crop&scale=both&format=webp | 1000PS | desconocida |
+| /media/xiaomi-su7-max-2026-precio-ficha-tecnica-hunt1.webp | https://cnevpost.com/wp-content/uploads/2026/01/2026010702291652.jpg | CnEVPost | desconocida |
+| /media/xiaomi-su7-max-2026-precio-ficha-tecnica-hunt2.webp | https://www.auto-data.net/images/f53/Xiaomi-SU7-facelift-2026_1.jpg | auto-data.net | desconocida |
+| /media/xiaomi-su7-max-2026-precio-ficha-tecnica-hunt3.webp | https://intensive911.com/wp-content/uploads/2026/03/Xiaomi-SU7-Interior-980x613.jpg | Intensive911 | desconocida |
+| /media/honda-wn7-2026-ficha-tecnica-precio-hunt1.webp | https://electriccarsreport.com/wp-content/uploads/2025/11/Honda-WN7_1.jpg | Electric Cars Report | desconocida |
+| /media/honda-wn7-2026-ficha-tecnica-precio-hunt2.webp | https://paultan.org/image/2025/09/2026-Honda-WN7-electric-motorcycle-2-e1758270565675-1200x777.jpg | Paul Tan | desconocida |
+| /media/honda-wn7-2026-ficha-tecnica-precio-hunt3.webp | https://ultimatemotorcycling.com/wp-content/uploads/2025/09/2026-honda-wn7-first-look-electric-motorcycle-10.webp | Ultimate Motorcycling | desconocida |
+| /media/morgan-plus-four-2025-precio-ficha-tecnica-hunt1.webp | https://uncrate.com/p/2024/11/morgan-plus-four-2.jpg | Uncrate | desconocida |
+| /media/morgan-plus-four-2025-precio-ficha-tecnica-hunt2.webp | https://en.wheelz.me/wp-content/uploads/2024/04/New_Morgan_Plus_Four_Location_Blue_10.webp | Wheelz.me | desconocida |
+| /media/morgan-plus-four-2025-precio-ficha-tecnica-hunt3.webp | https://en.wheelz.me/wp-content/uploads/2024/04/New_Morgan_Plus_Four_Dynamic_Blue_09.webp | Wheelz.me | desconocida |
+| /media/xev-yoyo-pro-2026-precio-ficha-tecnica-hunt1.webp | https://www.autoweb.com.ar/wp-content/uploads/2025/07/yoyo-pro-e-qui-1720111071.jpg | AutoWeb Argentina | desconocida |
+| /media/xev-yoyo-pro-2026-precio-ficha-tecnica-hunt2.webp | https://whowhatwhy.sitetherapy.co/wp-content/uploads/2023/10/XEV_Yoyo_Pro_Munich_3x2.jpg-900x600.jpg | WhoWhatWhy | desconocida |
+| /media/xev-yoyo-pro-2026-precio-ficha-tecnica-hunt3.webp | https://resource02.ulifestyle.com.hk/ulcms/content/article/thumbnail/1280x720/ez/3605000/3607518/2309047xev01.jpg | eZone (Hong Kong Economic Times) | desconocida |
