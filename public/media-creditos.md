@@ -4771,3 +4771,26 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/xev-yoyo-pro-2026-precio-ficha-tecnica-hunt1.webp | https://www.autoweb.com.ar/wp-content/uploads/2025/07/yoyo-pro-e-qui-1720111071.jpg | AutoWeb Argentina | desconocida |
 | /media/xev-yoyo-pro-2026-precio-ficha-tecnica-hunt2.webp | https://whowhatwhy.sitetherapy.co/wp-content/uploads/2023/10/XEV_Yoyo_Pro_Munich_3x2.jpg-900x600.jpg | WhoWhatWhy | desconocida |
 | /media/xev-yoyo-pro-2026-precio-ficha-tecnica-hunt3.webp | https://resource02.ulifestyle.com.hk/ulcms/content/article/thumbnail/1280x720/ez/3605000/3607518/2309047xev01.jpg | eZone (Hong Kong Economic Times) | desconocida |
+| /media/xiaomi-su7-pro-2026-precio-ficha-tecnica-hunt1.webp | https://carnewschina.com/wp-content/uploads/2025/03/xiaomi_su7_pro.jpg | CarNewsChina | desconocida |
+| /media/xiaomi-su7-pro-2026-precio-ficha-tecnica-hunt2.webp | https://media.evkx.net/multimedia/models/xiaomi/su7/su7_pro/exterior_3_st.webp | evKX (galería de prensa) | desconocida |
+| /media/xiaomi-su7-pro-2026-precio-ficha-tecnica-hunt3.webp | https://phandroid.com/wp-content/uploads/2026/03/xiaomi-su7-2026-6-800x400.png | Phandroid | desconocida |
+| /media/felo-fw-03-ficha-tecnica-precio-hunt1.webp | https://www.etrix.ch/media/2025/04/felo-fw-03-elektroroller-etrix-red-blue-front-min.jpg | Etrix (distribuidor) | desconocida |
+| /media/felo-fw-03-ficha-tecnica-precio-hunt2.webp | https://felomoto.es/wp-content/uploads/2024/08/20231116fw03.1094-1024x639.png | Felo Moto España (web oficial) | desconocida |
+| /media/morgan-super-3-2025-precio-ficha-tecnica-hunt1.webp | https://autotrader.co.nz/wp-content/uploads/2025/10/Morgan-Super-3.jpg | NZ Autocar / Autotrader NZ | desconocida |
+| /media/morgan-super-3-2025-precio-ficha-tecnica-hunt2.webp | https://www.autocar.co.nz/wp-content/uploads/2025/10/Morgan-Super-3-front.jpg | Autocar NZ | desconocida |
+| /media/morgan-super-3-2025-precio-ficha-tecnica-hunt3.webp | https://nzautocar.co.nz/wp-content/uploads/2025/10/Morgan-Super-3-rear-1024x683.jpg | NZ Autocar / Autotrader NZ | desconocida |
+| /media/volkswagen-id-cross-2026-precio-ficha-tecnica-hunt1.webp | https://cdn.autopapo.com.br/box/uploads/2026/07/15120725/volkswagen-id.-cross-4.jpg | Autopapo (foto de prensa: Volkswagen AG) | desconocida |
+| /media/volkswagen-id-cross-2026-precio-ficha-tecnica-hunt2.webp | https://ev-database.org/img/auto/Volkswagen_IDCross_2026/Volkswagen_IDCross_2026-05@2x.jpg | EV-Database (foto de prensa) | desconocida |
+| /media/volkswagen-id-cross-2026-precio-ficha-tecnica-hunt3.webp | https://travelanddrive.com/wp-content/uploads/2026/07/14_ID.webp | Travel and Drive (foto de prensa) | desconocida |
+| /media/xiaomi-su7-ultra-2025-precio-ficha-tecnica-hunt1.webp | https://images.dailyrevs.com/0000/v3/Xiaomi/67358702126155e6e1131a96/2025-su7-ultra-xiaomi-35cww7777a30yw7twr024q.jpeg | DailyRevs (foto de prensa) | desconocida |
+| /media/xiaomi-su7-ultra-2025-precio-ficha-tecnica-hunt2.webp | https://archive.torquecafe.com/wp-content/uploads/2025/05/xiaomi-su7-ultra-1.jpg | TorqueCafe | desconocida |
+| /media/xiaomi-su7-ultra-2025-precio-ficha-tecnica-hunt3.webp | https://www.motoqar.com/wp-content/uploads/2024/10/Xiaomi-SU7-Ultra_7-1068x632.png | Motoqar (foto de prensa) | desconocida |
+| /media/bmw-i3-neue-klasse-2026-precio-ficha-tecnica-hunt1.webp | https://mediapool.bmwgroup.com/cache/P9/202603/P90632229/P90632229-the-new-bmw-i3-50-xdrive-03-26-2248px.jpg | BMW Group (prensa oficial) | desconocida |
+| /media/bmw-i3-neue-klasse-2026-precio-ficha-tecnica-hunt2.webp | https://topelectricsuv.com/wp-content/uploads/2026/03/All-new-BMW-i3-NA0-dashboard-side-view-1024x682.jpg | TopElectricSUV | desconocida |
+| /media/bmw-i3-neue-klasse-2026-precio-ficha-tecnica-hunt3.webp | https://www.headlightmag.com/hlmwp/wp-content/uploads/2026/03/BMW-i3-Neue-Klasse-debut_16.jpg | Headlight Magazine | desconocida |
+| /media/caterham-seven-170-2025-precio-ficha-tecnica-hunt1.webp | https://caterhamcars.com/media/yootheme/cache/30/170-EU-model-page-hero-307201e3.webp | Caterham Cars (web oficial) | desconocida |
+| /media/caterham-seven-170-2025-precio-ficha-tecnica-hunt2.webp | https://caterhamcars.com/media/yootheme/cache/70/1-170R-EU-f3q-70ac0f0f.webp | Caterham Cars (web oficial) | desconocida |
+| /media/caterham-seven-170-2025-precio-ficha-tecnica-hunt3.webp | https://images.carexpert.com.au/resize/1920/-/cms/v1/media/2021-09-2022-caterham-seven-170-7.png | CarExpert | desconocida |
+| /media/felo-fw-07-ficha-tecnica-precio-hunt1.webp | https://felomoto.es/wp-content/uploads/2024/11/fw-07%E9%BB%91-1.png | Felo Moto (web oficial) | desconocida |
+| /media/felo-fw-07-ficha-tecnica-precio-hunt2.webp | https://felomoto.es/wp-content/uploads/2024/11/fw-07%E9%BB%91-2.png | Felo Moto (web oficial) | desconocida |
+| /media/felo-fw-07-ficha-tecnica-precio-hunt3.webp | https://www.energekoveicolielettrici.it/wp-content/uploads/2024/04/scooter-elettrico-felo-fw-07.jpg | Energeko Veicoli Elettrici | desconocida |
