@@ -32,14 +32,14 @@ export const AUTOCARAVANAS_DREAMER_M3: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "",
-    imagenOficial: "",
-    imagenInteriorOficial: "",
+    imagen: "/media/dreamer-d62-select-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial: "/media/dreamer-d62-select-2026-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial: "/media/dreamer-d62-select-2026-precio-ficha-tecnica-interior1.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 6360, // Vanomobil (ficha 2026) y comparativa CamperOnLine: 636 cm
     anchoMm: 2050,
-    altoMm: 2650, // Vanomobil 2026: 2,65 m (2,63 m según CamperOnLine 2020)
+    altoMm: 2590, // catálogo oficial Dreamer Colección 2026: 2,59 m de serie (+45 mm con chasis HEAVY o llantas 16" = 2.635 m; Vanomobil indica 2,65 m)
     pesoKg: null, // peso en orden de marcha no publicado por la marca para 2026
     mmaKg: 3500,
     carnetNecesario: "B",
@@ -54,21 +54,23 @@ export const AUTOCARAVANAS_DREAMER_M3: Autocaravana[] = [
     aprox: [],
     notas:
       "Sustituye al «D62 UP» asignado, que no existe en la gama oficial Dreamer (verificado en dreamer-van.es el 19/10/2026). " +
-      "Dimensiones 6360x2050x2650 mm: Vanomobil Bélgica (ficha D62 2026) y CamperOnLine (comparativa Select D62 2020: 636x205x263 cm). " +
+      "Dimensiones 6360x2050x2590 mm: catálogo oficial Dreamer Colección 2026 (2,59 m de serie; +45 mm con chasis HEAVY). " +
       "Motor base Fiat Ducato 2.2 MultiJet 140 CV: CamperOnLine 2020 (opcionales 160/180 CV entonces). " +
       "Nevera 146 L, agua 110 L, grises 85 L, Truma Combi 4: catálogo oficial Dreamer Colección 2026. " +
       "Plazas 4 y camas 2+1: catálogo 2026 y CamperOnLine. " +
       "Precio null: Dreamer no publica tarifa oficial en España; como contexto, la tarifa italiana 2020 partía de 55.300 € (CamperOnLine) y Vanomobil anuncia «desde 70.369 €» (distribuidor belga, 2026). " +
-      "Sin fotos: el servicio de lectura web y el buscador de imágenes fallaron reiteradamente el 19/10/2026; queda pendiente que el coordinador las aporte.",
+      "Fotos: la marca no publica galería oficial del D62 Select en su web (solo el catálogo oficial, con imágenes de baja resolución); " +
+      "el exterior procede del concesionario oficial alemán (dreamer-wohnmobile.de) y los 3 interiores son fotos de prensa reales del D62 Select " +
+      "de la prueba de Reisemobil International (2019), del modelo exacto, sin marcas de agua.",
     curiosidades:
       "En 2026 Dreamer celebra su 20.º aniversario y lanza la edición especial «Select 20 Jahre»: el D62 Select puede pedirse en esa versión conmemorativa, con tapicería a elegir y el logo del aniversario como firma en la carrocería (fuente: catálogo oficial Dreamer Colección 2026, https://www.reisemobile-staudt.de/wp-content/uploads/2025/08/DREAMER_CATA_2026_EXPORT_BD_ALL.pdf; y ficha Vanomobil https://ct.vanomobil.be/api/products/181/pdf/en?start=&end=).",
     descripcion: `El Dreamer D62 Select es la propuesta más refinada de la marca francesa para viajar en pareja sin renunciar a la sensación de espacio de una autocaravana grande. Dreamer, marca del grupo Rapido fabricada en Mayenne (Francia), lleva desde 2006 —celebra su vigésimo aniversario en 2026— reinterpretando el furgón camper con soluciones que no se ven en la competencia generalista, y el D62 Select es probablemente el mejor ejemplo de esa filosofía: un 6,36 metros con cama a la francesa, baño trasero de generosas dimensiones y un techo panorámico Skyview que inunda de luz la zona de día.
 
-En medidas, el D62 Select declara 6.360 mm de largo, 2.050 mm de ancho y 2.650 mm de alto según la ficha del distribuidor Vanomobil para la colección 2026 (la comparativa de CamperOnLine de 2020 anotaba 6.360 x 2.050 x 2.630 mm, una diferencia de dos centímetros atribuible a llantas o chasis). Son las cotas clásicas del Ducato L4H2, el formato que mejor equilibra maniobrabilidad y habitabilidad: cabe en la mayoría de áreas de autocaravanas, no sufre en carreteras secundarias y aun así ofrece una célula con pasillo real y baño separado. La masa máxima autorizada es de 3.500 kg, de modo que basta el carnet B.
+En medidas, el D62 Select declara 6.360 mm de largo, 2.050 mm de ancho y 2.590 mm de alto según el catálogo oficial Dreamer Colección 2026 (2,65 m con chasis HEAVY o llantas de 16", según la ficha del distribuidor Vanomobil). Son las cotas clásicas del Ducato L4H2, el formato que mejor equilibra maniobrabilidad y habitabilidad: cabe en la mayoría de áreas de autocaravanas, no sufre en carreteras secundarias y aun así ofrece una célula con pasillo real y baño separado. La masa máxima autorizada es de 3.500 kg, de modo que basta el carnet B.
 
 La distribución es la que ha convertido al D62 en un superventas silencioso: salón delantero con banqueta lateral y asientos de cabina giratorios, cocina central bien iluminada, y en la parte trasera una cama a la francesa —es decir, colocada en diagonal/esquinada contra la pared— que deja libre un cuarto de baño completo al fondo, con ducha separada y espacio para vestirse con comodidad. Es la implantación favorita de las parejas que viajan mucho porque la cama queda siempre hecha y el baño no es un apaño. El catálogo oficial de la colección 2026 describe además armarios roperos de gran capacidad y un mueble de TV integrado que optimiza el almacenaje, además del techo Skyview que aporta la sensación de amplitud que la prensa italiana destacó en su prueba («parece un semintegral compacto por dentro»). Las plazas homologadas son cuatro y las plazas para dormir tres (2+1): la cama francesa más la cama que se forma en el salón.
 
-En tecnología y equipamiento, el acabado Select es el escalón alto de Dreamer: el catálogo 2026 contempla cinco conceptos de interior, tres acabados de mobiliario y varias tapicerías, además de paquetes de opciones. De serie en la colección 2026 figuran la calefacción Truma Combi 4 con panel CP, nevera de 146 litros, depósito de aguas limpias de 110 litros y de grises de 85 litros. El «Complete Selection» no es de Dreamer —no confundir—, aquí los packs se llaman Fun Plus, Assist o similares según mercado, e incluyen ayudas a la conducción, llantas de aleación y multimedia. Todo el mobiliario se fabrica en la planta de Mayenne, donde trabajan unos 80 empleados dedicados solo a Dreamer.
+En tecnología y equipamiento, el acabado Select es el escalón alto de Dreamer: el catálogo 2026 contempla cinco conceptos de interior, tres acabados de mobiliario y varias tapicerías, además de paquetes de opciones oficiales (Komfort+, Smart, Vision+, LED Assist y Lounge, según mercado). De serie en la colección 2026 figuran la calefacción Truma Combi 4 con panel CP, nevera de 146 litros, depósito de aguas limpias de 110 litros y de grises de 85 litros. Todo el mobiliario se fabrica en la planta de Mayenne (Francia), sede de la marca.
 
 En camas y plazas, el punto fuerte es la cama a la francesa trasera, de generosas dimensiones para dos adultos, con somier de láminas y acceso por ambos lados gracias a su posición esquinada. La tercera plaza se obtiene del salón, válida para un niño o un adulto de estatura media en escapadas. Los cuatro asientos con cinturón permiten llevar a los nietos o a otra pareja de forma legal y segura.
 
@@ -94,7 +96,12 @@ Para quién es: para parejas viajeras que quieren un furgón con verdadero baño
       "Carga útil justa si se viaja a cuatro con mucho equipaje: vigilar el peso en báscula antes de cargar la bodega.",
     ],
     opiniones: [],
-    galeria: [],
+    galeria: [
+      { src: "/media/dreamer-d62-select-2026-precio-ficha-tecnica-oficial.webp", alt: "Dreamer D62 Select, vista exterior 3/4", ancho: 1200, alto: 840 },
+      { src: "/media/dreamer-d62-select-2026-precio-ficha-tecnica-interior1.webp", alt: "Dreamer D62 Select, salón", ancho: 1200, alto: 800 },
+      { src: "/media/dreamer-d62-select-2026-precio-ficha-tecnica-interior2.webp", alt: "Dreamer D62 Select, cama a la francesa", ancho: 1200, alto: 1800 },
+      { src: "/media/dreamer-d62-select-2026-precio-ficha-tecnica-detalle.webp", alt: "Dreamer D62 Select, exterior frontal", ancho: 1200, alto: 800 },
+    ],
     analisisSlug: "dreamer-d62-select-analisis-opinion",
     planMantenimiento: {
       intervalo: "Base Fiat Ducato: revisión cada 2 años o 40.000 km (según plan del fabricante)",
