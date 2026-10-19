@@ -12,6 +12,15 @@
 
 Esta cabina vigila la **A-31 en el punto kilométrico 137,9**, dentro de Albacete. Cubre el **sentido decreciente** —los conductores que se desplazan hacia pk decrecientes—. Que el control sea en sentido decreciente no implica que el contrario esté desatendido: la DGT publica puntos por sentido. El control fijo de la DGT más próximo es el de la **A-31, pk 127,0** (sentido creciente), a 10,4 km hacia el oeste. Le sigue en proximidad el de la **A-30, pk 49,2** (sentido creciente), situado a 51,5 km hacia el suroeste. La zona combina el carácter rural del entorno con la intensidad propia de una vía de comunicación relevante.
 
+<iframe title="Mapa: radar a-31-137-9-decreciente-cabina" src="https://www.google.com/maps?q=38.87976,-1.20406&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-31-137-9-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.87976,-1.20406&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 Es la A-31: la autovía que une Atalaya del Cañavate con Albacete y Alicante. En esta autovía, los ritmos son dispares: conviven la prisa del largo recorrido y la calma del trayecto local. La cabina se instaló donde la configuración de la vía empuja a superar el límite. De los 4 controles que la DGT publica para la A-31 en la comunidad, este es el cuarto por punto kilométrico. Siguiendo por la A-31, el próximo punto con vigilancia es el del pk 127,0 (sentido creciente), a 10,4 km hacia el oeste. Es, en suma, una vía que premia la conducción serena y castiga las prisas. Para el conductor ocasional, la recomendación es sencilla: señales, prudencia y ritmo constante.
