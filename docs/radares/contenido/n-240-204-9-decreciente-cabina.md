@@ -6,6 +6,13 @@
 **Coordenadas (WGS84):** 42.14157, -0.36122
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.14157,-0.36122)
 
+<iframe title="Mapa: radar n-240-204-9-decreciente-cabina" src="https://www.google.com/maps?q=42.14157,-0.36122&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-240-204-9-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.14157,-0.36122&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
 > **Cómo lo verificamos:** la posición, la carretera, el punto kilométrico y el sentido figuran en el fichero oficial de radares fijos de la DGT en formato DATEX II, verificado el 2026-10-18. La DGT no publica el límite de velocidad ni el municipio de este punto; esta ficha no los añade por su cuenta.
 
 ## El emplazamiento del sentido contrario
