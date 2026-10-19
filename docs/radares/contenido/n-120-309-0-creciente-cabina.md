@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 42.5881, -5.6229
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.5881,-5.6229)
 
+<iframe title="Mapa: radar n-120-309-0-creciente-cabina" src="https://www.google.com/maps?q=42.5881,-5.6229&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-120-309-0-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.5881,-5.6229&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** Del XML oficial de radares de la DGT (DATEX II, portal NAP) salen la vía, el pk, el sentido y el tipo de equipo de este punto. El dataset no publica el límite de cada radar ni su municipio. El límite de 90 km/h es el genérico que el RGC (art. 48) establece para turismos y motos en carreteras convencionales, conforme a la singularidad «CARRETERA NACIONAL» del registro; San Andrés del Rabanedo (León) lo fija el geocodificador oficial CartoCiudad del IGN.
 
 ## Situación del radar
