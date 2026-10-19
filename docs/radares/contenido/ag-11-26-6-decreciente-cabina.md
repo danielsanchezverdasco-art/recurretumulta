@@ -11,6 +11,14 @@
 ## Dónde está
 
 En el pk 26,6 de la AG-11, término de Boiro (A Coruña), opera esta cabina: 42.651413, -8.901907. Su objetivo es el sentido decreciente: vehículos hacia puntos kilométricos menores, con destino Padrón en el registro de la DGT. Desde Street View se reconoce el lugar.
+
+<iframe title="Mapa: radar ag-11-26-6-decreciente-cabina" src="https://www.google.com/maps?q=42.651413,-8.901907&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar ag-11-26-6-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.651413,-8.901907&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
 ## La carretera
 
 Autovía autonómica de la Xunta de Galicia entre Padrón y Ribeira (Barbanza), la AG-11 aparece como «AUTOPISTA / AUTOVÍA» en el XML de la DGT. Alta capacidad, por tanto. El fichero no describe el pk 26,6.
