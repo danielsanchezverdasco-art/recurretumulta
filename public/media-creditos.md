@@ -1605,3 +1605,26 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/zero-sr-2025-ficha-tecnica-precio-hunt1.webp | https://images.prismic.io/zero-cms-disco/b0ae554d-c06f-4bd1-b66d-b26fe172de8f_MY20_SR_171717.2.png?auto=compress | Zero Motorcycles (CMS oficial) | desconocida |
 | /media/zero-sr-2025-ficha-tecnica-precio-hunt2.webp | https://images5.1000ps.net/images_bikekat/2025/199-Zero/7752-SR/036-638791960929246499-zero-sr.jpg | 1000PS (catálogo 2025 Zero SR) | desconocida |
 | /media/zero-sr-2025-ficha-tecnica-precio-hunt3.webp | https://images.prismic.io/zero-cms-disco/1bac5c8a-4b66-4e37-85b0-cc370ff74f9d_MY20_SR_171717.11.png?auto=compress | Zero Motorcycles (CMS oficial) | desconocida |
+| /media/baojun-yunhai-ev-2024-precio-ficha-tecnica-hunt1.webp | https://gmauthority.com/blog/2026/05/ev-purchase-consideration-rises-in-canada-even-for-chinese-brands/ | GM Authority / fotos de prensa Baojun | desconocida |
+| /media/baojun-yunhai-ev-2024-precio-ficha-tecnica-hunt2.webp | https://www.car250.com/baojun-yunhai-2024-09.html | car250.com / Autohome | desconocida |
+| /media/baojun-yunhai-ev-2024-precio-ficha-tecnica-hunt3.webp | https://aicarglobal.com/product/baojun-yunhai-ev/ | AI Car Global / fotos de prensa Baojun | desconocida |
+| /media/inokim-light-2-max-hunt1.webp | https://inokim.shop/cdn/shop/files/19_d552b637-d45c-43c8-934b-4f88ad696caa.png?v=1770671191&width=3840 | Inokim.shop (tienda oficial) | desconocida |
+| /media/inokim-light-2-max-hunt2.webp | https://sxt-scooters.de/cdn/shop/files/light2_max_schwarz_2.jpg?v=1718621427&width=953 | SXT Scooters (distribuidor) | desconocida |
+| /media/inokim-light-2-max-hunt3.webp | https://scootup.ae/cdn/shop/files/light2-black.webp?v=1739393093 | ScootUp (distribuidor) | desconocida |
+| /media/subaru-solterra-trek-4wd-2026-precio-ficha-tecnica-hunt1.webp | https://www.carexpert.com.au/car-news/2026-subaru-solterra-fresh-faced-electric-suv-priced-for-australia | Subaru Australia (vía CarExpert) | desconocida |
+| /media/subaru-solterra-trek-4wd-2026-precio-ficha-tecnica-hunt2.webp | https://www.carexpert.com.au/car-news/2026-subaru-solterra-fresh-faced-electric-suv-priced-for-australia | Subaru Australia (vía CarExpert) | desconocida |
+| /media/subaru-solterra-trek-4wd-2026-precio-ficha-tecnica-hunt3.webp | https://www.carexpert.com.au/car-news/2026-subaru-solterra-fresh-faced-electric-suv-priced-for-australia | Subaru Australia (vía CarExpert) | desconocida |
+| /media/genesis-gv70-2025-precio-ficha-tecnica-hunt1.webp | https://www.cargurus.com/research/articles/2025-genesis-gv70-pricing-specs-release-date | CarGurus (foto de prensa Genesis) | desconocida |
+| /media/genesis-gv70-2025-precio-ficha-tecnica-hunt2.webp | https://www.hyundaimotorgroup.com/en/story/CONT0000000000004345 | Hyundai Motor Group (oficial) | desconocida |
+| /media/genesis-gv70-2025-precio-ficha-tecnica-hunt3.webp | https://www.genesis.com/au/en/models/luxury-suv-genesis/gv70-ev/design.html | Genesis (oficial) | desconocida |
+| /media/renault-trafic-spaceclass-2025-hunt1.webp | https://www.renault.at/pkw/trafic-spaceclass.html | Renault (prensa oficial) | desconocida |
+| /media/renault-trafic-spaceclass-2025-hunt2.webp | http://www.renault-guadeloupe.fr/cars/trafic-spaceclass/overview.html | Renault (web oficial) | desconocida |
+| /media/renault-trafic-spaceclass-2025-hunt3.webp | https://www.renaultretailgroup.es/vehiculos-nuevos-renault-turismos/trafic_spaceclass | Renault Retail Group (concesionario oficial) | desconocida |
+| /media/mini-countryman-s-all4-2025-hunt1.webp | https://www.miniusa.com/content/dam/mini/vehicles/models/countryman/exterior-fma.png.miniusaimg.xlarge.png | MINI USA (web oficial del producto) | desconocida (material oficial del fabricante) |
+| /media/mini-countryman-s-all4-2025-hunt2.webp | https://automacha.com/wp-content/uploads/2025/01/13.-All-New-MINI-Countryman-S-ALL4-1536x1024.jpg | automacha.com | desconocida |
+| /media/mini-countryman-s-all4-2025-hunt3.webp | https://images.autobu.eu/mscars/thumbs/m/mini-countryman-s-all4-21ga_12472023375447556839_26_m.webp | autobu.eu | desconocida |
+| /media/voge-525r-hunt1.webp | https://voge.motorium.com.tr/_next/image?url=%2Fassets%2Fimages%2Fproducts%2Fvoge%2F525r%2F6.jpg&w=750&q=75 | Voge Turquía (motorium.com.tr) | desconocida |
+| /media/voge-525r-hunt2.webp | http://ncmotor.motorium.com.tr/assets/images/products/voge/525r/1.jpg | Voge Turquía (ncmotor.motorium.com.tr) | desconocida |
+| /media/voge-525r-hunt3.webp | https://listing-images.motoscout24.ch/880/12349880/280688765.jpg?w=1920&q=90 | motoscout24.ch (anuncio concesionario) | desconocida |
+| /media/audi-s5-avant-2025-hunt1.webp | https://uploads.audi-mediacenter.com/system/production/media/125133/images/b397781badc1f3d2d848a04718b8f1417aff9178/A243022_web_2880.jpg?1720776834 | Audi MediaCenter | desconocida |
+| /media/audi-s5-avant-2025-hunt2.webp | https://webp.vp.cdn.pxr.nl/tag/ab-Audi-S5-Avant-2.jpg?width=1800 | AutoBlog.nl | desconocida |
