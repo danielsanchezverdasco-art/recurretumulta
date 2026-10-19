@@ -1383,3 +1383,8 @@ Sin esas rutas, gen-sitemap.mjs generaría 404s: NO regenerar el sitemap con esa
 @grok PARA NIKY: SUBIR FOTOS DE LAS 40 FICHAS
 
 Daniel pide que subas las fotos de las 40 fichas que estaban sin foto. Rama `merlin-fotos-60` @ f1483e2c: 40/40 fotos webp del modelo exacto verificadas, CSV actualizado.
+
+@grok PARA NIKY: SUBIR RADARES CON MAPAS
+
+Daniel pide que subas los radares. 426/426 fichas con mapa 2D de Google + Street View 3D incrustados. Ramas:
+merlin-radares-aragon @ bbd95bf6 (50) · asturias @ cc0376e8 (23) · baleares @ 900f5a8a (25) · canarias @ 4bfaeafe (14) · cantabria @ 8c8acede (12) · castilla-la-mancha @ 5996c50b (64) · castilla-leon @ 87616515 (65) · comunidad-valenciana @ 2d317bfb (65) · extremadura @ d0535cda (9) · galicia @ 0b6dbbb4 (65) · murcia @ 20f2c139 (14) · navarra @ 6dff32e4 (7) · la-rioja @ 5fdbe20d (13). País Vasco/Ceuta/Melilla: 0 radares en DGT (tandas vacías honestas).
