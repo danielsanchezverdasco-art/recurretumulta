@@ -16,6 +16,14 @@ El XML lo codifica como CARRETERA NACIONAL, pero su denominación oficial es A-6
 
 En el pk 146,63 de la A-66, vigilando el sentido creciente —tráfico hacia pks ascendentes—, con LEÓN como destino de referencia en el registro. El punto cae en Santovenia de la Valdoncina (León): 42.5482, -5.6217 (WGS84); el Street View de la cabecera lo muestra.
 
+<iframe title="Mapa: radar a-66-146-6-creciente-cabina" src="https://www.google.com/maps?q=42.5482,-5.6217&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-66-146-6-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.5482,-5.6217&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## El límite: 120, y por qué
 
 Aclarada la codificación, el genérico es el del RGC art. 48 para autopistas y autovías: 120 km/h para turismos y motos. Es orientativo; obliga la señalización, que puede imponer menos velocidad.
