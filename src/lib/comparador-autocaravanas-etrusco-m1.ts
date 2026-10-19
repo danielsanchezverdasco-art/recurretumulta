@@ -117,5 +117,7 @@ En precio, la transparencia es parcial: Etrusco publica £72.799 como PVP recome
     fuenteUrl: "https://www.etrusco.com/gb/en/models/semi-integrated-fiat",
     notas:
       "Carga útil eliminada: era calculada (3.500 − 2.801), no publicada por Etrusco. Medidas, MMA y masa marcadas con ≈: proceden de fichas de unidades 2026 de la red oficial, no de etrusco.com. Plazas para dormir: 2–5 según configuración (etrusco.com), sin cifra única. Ficha completada en verificación 18/10/2026 (descripcion ≥800w añadida; antes fuera del primer lote, Grok 22:15).",
+    curiosidades:
+      "El nombre Etrusco viene del pueblo etrusco de la Italia prerromana, famoso por su arte elegante y duradero; los vehículos se fabrican en la Toscana, cerca de Florencia, en una de las plantas más modernas del grupo Erwin Hymer. Fuente: https://www.firmenpresse.de/pressrelease689729/etrusco-brand-portrait-motorhomes-for-those-italian-moments-in-life.html",
   },
 ];

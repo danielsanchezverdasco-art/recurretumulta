@@ -112,6 +112,8 @@ De tarifa oficial no hay nada que difundir: Rapido no publica PVP por modelo y c
     euroncap: null,
     notas:
       "«dato no oficial · en revisión»: todos los valores numéricos proceden de fichas coincidentes de concesionarios franceses del modelo exacto; la web oficial de Rapido solo confirma la pertenencia a la serie especial OPTIMUM LINE y el sistema patentado MODUL'SPACE®, sin publicar ficha técnica del V55. La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante.",
+    curiosidades:
+      "El V55 monta el MODUL'SPACE®, un sistema patentado por el grupo Rapido: un armario que pivota sobre su eje y convierte el aseo en una ducha privada e independiente dentro de un van de menos de 6 metros. Fuente: https://www.rapido-camping-car.fr/inc/rapido_nouveautes_les-fourgons_camping-car-serie-vans.phtml",
     fuenteNombre:
       "Rapido (web oficial: OPTIMUM LINE y MODUL'SPACE®) + fichas de concesionarios FR («no oficial»: la web oficial no publica la ficha técnica del V55)",
     fuenteUrl:
@@ -139,7 +141,7 @@ De tarifa oficial no hay nada que difundir: Rapido no publica PVP por modelo y c
     imagenOficial:
       "/media/rapido-606f-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/rapido-606f-2026-precio-ficha-tecnica-interior.webp",
+      "/media/rapido-606f-2026-precio-ficha-tecnica-oficial-interior.webp", // foto oficial Rapido (visita virtual 360 del fabricante)
     videoId: null,
     videoCanal: null,
     largoMm: 6690,
@@ -175,13 +177,19 @@ De tarifa oficial no hay nada que difundir: Rapido no publica PVP por modelo y c
     galeria: [
       {
         src: "/media/rapido-606f-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Rapido 606F, vista tres cuartos delantera",
+        alt: "Rapido 606F, vista exterior tres cuartos (imagen oficial Rapido)",
+        ancho: 1199,
+        alto: 754,
+      },
+      {
+        src: "/media/rapido-606f-2026-precio-ficha-tecnica-oficial-interior.webp",
+        alt: "Interior del Rapido 606F, salón cara a cara (imagen oficial Rapido)",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/rapido-606f-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Rapido 606F, salón cara a cara y cama de techo",
+        src: "/media/rapido-606f-2026-precio-ficha-tecnica-oficial-interior2.webp",
+        alt: "Cocina del Rapido 606F (imagen oficial Rapido)",
         ancho: 1200,
         alto: 800,
       },
@@ -212,6 +220,8 @@ De tarifa oficial no hay nada que difundir: Rapido no publica PVP por modelo y c
     euroncap: null,
     notas:
       "606F: la etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato publicado por el fabricante: dato no oficial · en revisión. V55: «dato no oficial · en revisión» en todos los valores numéricos (fichas coincidentes de concesionarios franceses del modelo exacto; la web oficial no publica ficha técnica del V55).",
+    curiosidades:
+      "La prensa francesa lo recibió con nota alta: Esprit Camping-Car le dio un 8,5/10 y auguró que podía convertirse en «un véritable best-seller» del constructor de Mayenne, destacando una relación calidad-precio impropia de una marca premium. Fuente: https://espritcampingcar.com/rapido-606f-raffinement-et-elegance/",
     fuenteNombre:
       "Rapido (ficha oficial del modelo + guide technique colección 2026)",
     fuenteUrl:

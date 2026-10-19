@@ -50,6 +50,8 @@ export const AUTOCARAVANAS_CAMPEREVE_M1: Autocaravana[] = [
     aprox: ["potenciaCv", "largoMm", "anchoMm", "altoMm", "mmaKg", "plazas", "carnetNecesario"],
     notas:
       "El fabricante no publica la ficha técnica completa del Magellan 643. Todos los datos numéricos proceden de prensa especializada y fichas de concesionarios: «dato no oficial · en revisión». Ficha excluida del primer lote publicado.",
+    curiosidades:
+      "Campérêve nació en 1978 como especialista francés en furgones camper y el grupo Rapido la adquirió en 2008: es la marca «van» del grupo galo. Fuente: https://en.wikipedia.org/wiki/Rapido_Group",
     pros: [
       "Sistema Modul'Space patentado: el armario pivota y crea una ducha privada independiente",
       "Lit transversal trasero de 192×132 cm: cama fija de matrimonio en solo 6 metros",
