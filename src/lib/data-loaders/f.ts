@@ -111,6 +111,8 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "ford-mustang-mach-e-extended-2025-precio-ficha-tecnica": () => import("../blog-posts-ford-a.ts"),
     "ford-mustang-mach-e-gt-2025-precio-ficha-tecnica": () => import("../blog-posts-ford-a.ts"),
     "ford-mustang-mach-e-rally-2025-precio-ficha-tecnica": () => import("../blog-posts-ford-a.ts"),
+    "ford-nugget-active-2026-analisis-opinion": () => import("../blog-posts-campers-niky.ts"),
+    "ford-nugget-trail-2026-analisis-opinion": () => import("../blog-posts-campers-niky.ts"),
     "ford-puma-gen-e-2025-precio-ficha-tecnica": () => import("../blog-posts-ford-a.ts"),
     "ford-puma-gen-e-baja-precio-octubre-2026": () => import("../blog-posts-flash-2026.ts"),
     "ford-puma-mhev-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp9.ts"),
@@ -293,6 +295,13 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "fiat-500-iride": () => import("../comparador-patinetes-exp-p10.ts"),
     "fluid-horizon": () => import("../comparador-patinetes-prioridad-20261014.ts"),
     "fluid-mosquito": () => import("../comparador-patinetes-prioridad-20261014.ts"),
+  },
+  camper: {
+    "ford-nugget-active-2026-precio-ficha-tecnica": () => import("../comparador-campers-ford.ts"),
+    "ford-nugget-trail-2026-precio-ficha-tecnica": () => import("../comparador-campers-ford.ts"),
+    "ford-transit-custom-nugget-2026-precio-ficha-tecnica": () => import("../comparador-campers-niky.ts"),
+    "ford-transit-custom-nugget-active-2026-precio-ficha-tecnica": () => import("../comparador-campers-niky.ts"),
+    "ford-transit-custom-nugget-plus-2026-precio-ficha-tecnica": () => import("../comparador-campers-niky.ts"),
   },
   historia: {
     "fangchengbao-tai-3-2025-precio-ficha-tecnica": () => import("../historia-lote2.ts"),

@@ -2,6 +2,8 @@
 // Loaders de import() dinámico para slugs que empiezan por "l".
 export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
   blog: {
+    "la-strada-regent-s-2026-analisis-opinion": () => import("../blog-posts-campers-sprinter.ts"),
+    "laika-ecovip-performance-600-2026-precio-ficha-tecnica-analisis-opinion": () => import("../blog-posts-campers-laika-sunlight.ts"),
     "lamborghini-countach-lpi-800-4-2024-precio-ficha-tecnica": () => import("../blog-posts-lamborghini-a.ts"),
     "lamborghini-fenomeno-2025-precio-ficha-tecnica": () => import("../blog-posts-lamborghini-a.ts"),
     "lamborghini-fenomeno-roadster-2026-precio-ficha-tecnica": () => import("../blog-posts-lamborghini-a.ts"),
@@ -412,6 +414,10 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "lamborghini-al1": () => import("../comparador-patinetes-exp-p11.ts"),
     "levy-plus": () => import("../comparador-patinetes-prioridad-20261014.ts"),
     "levy-pro": () => import("../comparador-patinetes-prioridad-20261014.ts"),
+  },
+  camper: {
+    "la-strada-regent-s-2026-precio-ficha-tecnica": () => import("../comparador-campers-sprinter.ts"),
+    "laika-ecovip-performance-600-2026-precio-ficha-tecnica": () => import("../comparador-campers-laika-sunlight.ts"),
   },
   historia: {
     "lamborghini-countach-lpi-800-4-2024-precio-ficha-tecnica": () => import("../historia-modelos.ts"),

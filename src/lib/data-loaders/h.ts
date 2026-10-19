@@ -203,6 +203,10 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "husqvarna-vitpilen-125-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m2.ts"),
     "husqvarna-vitpilen-401-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m2.ts"),
     "husqvarna-vitpilen-801-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m2.ts"),
+    "hymer-free-540-2026-precio-ficha-tecnica-analisis-opinion": () => import("../blog-posts-campers-hymer.ts"),
+    "hymer-free-600-2026-precio-ficha-tecnica-analisis-opinion": () => import("../blog-posts-campers-hymer.ts"),
+    "hymer-free-s-600-2026-precio-ficha-tecnica-analisis-opinion": () => import("../blog-posts-campers-hymer.ts"),
+    "hymer-grand-canyon-s-2026-analisis-opinion": () => import("../blog-posts-campers-sprinter.ts"),
     "hyptec-a800-2026-precio-ficha-tecnica": () => import("../blog-posts-hyptec-a.ts"),
     "hyptec-gt-2024-precio-ficha-tecnica": () => import("../blog-posts-hyptec-a.ts"),
     "hyptec-hl-erev-2025-precio-ficha-tecnica": () => import("../blog-posts-hyptec-a.ts"),
@@ -607,6 +611,12 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "hiley-tiger-evo-gtr": () => import("../comparador-patinetes-exp-p12.ts"),
     "hiley-tiger-king-rs": () => import("../comparador-patinetes-exp-p12.ts"),
     "hiley-tiger-supra-pro": () => import("../comparador-patinetes-exp-p6.ts"),
+  },
+  camper: {
+    "hymer-free-540-2026-precio-ficha-tecnica": () => import("../comparador-campers-hymer.ts"),
+    "hymer-free-600-2026-precio-ficha-tecnica": () => import("../comparador-campers-hymer.ts"),
+    "hymer-free-s-600-2026-precio-ficha-tecnica": () => import("../comparador-campers-hymer.ts"),
+    "hymer-grand-canyon-s-2026-precio-ficha-tecnica": () => import("../comparador-campers-sprinter.ts"),
   },
   historia: {
     "haima-7x-2026-precio-ficha-tecnica": () => import("../historia-lote6.ts"),

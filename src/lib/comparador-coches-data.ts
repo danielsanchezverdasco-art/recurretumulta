@@ -183,6 +183,9 @@ export interface CocheComparador {
   anchoMm: number | null;
   altoMm: number | null;
   pesoKg: number | null;
+  mmaKg?: number | null;               // masa máxima autorizada (19/10/2026 campers: obligatoria si hay fuente)
+  carnetNecesario?: "B" | "B96" | "BE" | null; // carnet requerido según MMA (19/10/2026)
+  cargaUtilKg?: number | null;         // carga útil: SOLO con fuente, nunca calculada (19/10/2026)
   consumo: number | null;            // WLTP
   consumoUnidad: string | null;      // "kWh/100 km" | "l/100 km"
   plazas: number | null;
@@ -236,6 +239,12 @@ export interface CocheComparador {
   confianza?: "alta" | "media" | "baja";
   fuenteNombre?: string | null;
   fuenteUrl?: string | null;
+  /** 19/10/2026: curiosidad verificable del modelo (orden Grok). */
+  curiosidad?: {
+    texto: string;
+    fuenteNombre?: string | null;
+    fuenteUrl: string;
+  } | null;
   deCache?: boolean;
   /** 18/10/2026: versiones reales con precio (tabla en la ficha). Sin dato = no se muestra. Nunca inventar. */
   /** 18/10/2026: ciclo de homologación de autonomiaKm si no es WLTP (p. ej. modelos solo vendidos en China). */
@@ -243,6 +252,8 @@ export interface CocheComparador {
   /** 18/10/2026: si la foto de interior no es de prensa, crédito real (autor y licencia). Sin esto se rotula como oficial. */
   creditoInteriorFoto?: string;
   versiones?: { nombre: string; precio: number | null; potenciaCv?: number | null; autonomiaKm?: number | null; aprox?: boolean }[] | null;
+  /** 19/10/2026: curiosidad verificable del modelo con su fuente (orden Grok). */
+  curiosidad?: { texto: string; fuente: string; fuenteUrl?: string } | null;
 }
 
 /** Normaliza texto para comparar marcas/modelos: minúsculas, sin tildes. */
