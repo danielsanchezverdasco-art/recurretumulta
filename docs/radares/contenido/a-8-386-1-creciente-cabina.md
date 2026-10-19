@@ -12,6 +12,14 @@
 
 La cabina del **pk 386,1 de la A-8** vigila, en territorio asturiano, el **sentido creciente** de la autovía, aquel que la DGT rotula con destino **GALICIA**. Dicho de otro modo: fotografía a quienes viajan hacia el oeste, camino de la frontera gallega. El punto se localiza en la costa central del Principado, entre las aglomeraciones de Gijón y Avilés, con el Cantábrico discurriendo paralelo a la calzada.
 
+<iframe title="Mapa: radar a-8-386-1-creciente-cabina" src="https://www.google.com/maps?q=43.5153,-5.7298&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-8-386-1-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=43.5153,-5.7298&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 Aclaración de vocabulario oficial: «creciente» no apunta a un punto cardinal, sino al avance de la numeración kilométrica, que en la A-8 aumenta hacia el oeste; el sentido creciente equivale a la calzada de dirección Galicia.
 
 ## La carretera
