@@ -1839,3 +1839,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/bmw-x6-m-2025-hunt1.webp | https://www.press.bmwgroup.com/czech/photo/compilation/T0429019CS/nové-bmw-x5-m-competition-a-nové-bmw-x6-m-competition-dodatečná-fotogalerie | BMW Group (press club) | desconocida |
 | /media/bmw-x6-m-2025-hunt2.webp | https://www.press.bmwgroup.com/ | BMW Group (press club) | desconocida |
 | /media/bmw-x6-m-2025-hunt3.webp | https://www.motortrend.com/reviews/2024-bmw-x6-m-competition-first-test-review/photos | MotorTrend (prueba 2024) | desconocida |
+| /media/jeep-wrangler-20t-272-2025-precio-ficha-tecnica-hunt1.webp | https://www.Media.stellantis.com/ar-es/jeep/press/nuevo-jeep-wrangler | Stellantis (prensa oficial) | desconocida |
+| /media/jeep-wrangler-20t-272-2025-precio-ficha-tecnica-hunt2.webp | https://en.wheelz.me/jeep-wrangler-2025/ | Stellantis (kit de prensa 2025) | desconocida |
+| /media/jeep-wrangler-20t-272-2025-precio-ficha-tecnica-hunt3.webp | https://en.wheelz.me/jeep-wrangler-2025/ | Stellantis (kit de prensa 2025) | desconocida |
+| /media/silence-s02-2025-ficha-tecnica-precio-hunt1.webp | https://soymotero.net | soymotero.net (blog del motor) | desconocida |
+| /media/silence-s02-2025-ficha-tecnica-precio-hunt2.webp | http://infos-75.com/infos75/wp-content/uploads/2026/06/S02_MY25_W_120.172.32.png | Silence (material de prensa MY25) | desconocida |
+| /media/silence-s02-2025-ficha-tecnica-precio-hunt3.webp | https://ge.e-scooter.co/silence-s02-ls/ | e-scooter.co (distribuidor) | desconocida |
+| /media/aixam-crossover-premium-2025-precio-ficha-tecnica-hunt1.webp | https://microcoche.net/assets/images/gama-eaixam-galeria-crossover-argenta-front-1920x1080.webp | Microcoche.net (concesionario oficial Aixam) | desconocida |
+| /media/aixam-crossover-premium-2025-precio-ficha-tecnica-hunt2.webp | https://microcoche.net/assets/images/gama-eaixam-galeria-crossover-azuls-back-1920x1080.webp | Microcoche.net (concesionario oficial Aixam) | desconocida |
+| /media/aixam-crossover-premium-2025-precio-ficha-tecnica-hunt3.webp | https://media.autovoorjou.nl/image?image=autovoorjou%2Fvehicles%2F158983%2Faixam-crossover-premium-2025-diesel-115870261-16.jpg&encoding=webp&size=lg&hash=5888853c84bbdcbf4ab459d3295e0b78 | Autovoorjou.nl | desconocida |
+| /media/audi-s4-avant-2025-hunt1.webp | https://emea-dam.audi.com/adobe/assets/urn:aaid:aem:81e9b5d1-5002-4af0-9f69-c87bed3a40de/as/1920x1080_AUDI0167_AA4_A_191001_R1.jpg?width=571 | Audi Australia (prensa oficial) | desconocida |
+| /media/audi-s4-avant-2025-hunt2.webp | https://www.audi.cn/content/dam/OneWeb/faw_vw/Vehicle-Materials/models/s4-avant/s4-avant_1440/02.webp | Audi China (configurador oficial) | desconocida |
+| /media/audi-s4-avant-2025-hunt3.webp | https://webp.ab.cdn.pxr.nl/news/2025/11/01/ab-s4-tdi-1.jpg?width=1800 | Autoblog.nl (foto oficial Audi) | desconocida |
+| /media/gotrax-gx-zero-hunt1.webp | http://gotrax.ca/cdn/shop/files/GX0-3_1.png?crop=center&height=1200&v=1736491062&width=1200 | Gotrax Canada (tienda oficial) | desconocida |
+| /media/gotrax-gx-zero-hunt2.webp | https://m.media-amazon.com/images/I/61VtevLSyRL._AC_SL1500_.jpg | Amazon / ScooterEco | desconocida |
+| /media/gotrax-gx-zero-hunt3.webp | https://ezrides.ca/cdn/shop/files/ezrides-gotrax-adult-electric-scooter-gotrax-gx-zero-electric-scooter-1176397290.png?v=1751577092&width=1420 | EzRides | desconocida |
+| /media/jeep-compass-electric-213-2026-precio-ficha-tecnica-hunt1.webp | http://massautocar.com/storage/JEEP/Compass%202026/JPEG/2026-Jeep-Compass-EXT3.jpg | MassaAutoCar | desconocida |
+| /media/jeep-compass-electric-213-2026-precio-ficha-tecnica-hunt2.webp | https://www.completecar.ie/img/galleries/14573/jeep_compass_electric_green_int_2025_25.jpg | CompleteCar.ie | desconocida |
+| /media/jeep-compass-electric-213-2026-precio-ficha-tecnica-hunt3.webp | https://moparinsiders.com/wp-content/uploads/2026/04/NewJeepCompass-Mediadrive-6-1536x864.jpeg | Mopar Insiders | desconocida |
+| /media/niu-nqix-150-2026-ficha-tecnica-precio-hunt1.webp | https://cdn.webshopapp.com/shops/143330/files/471033080/niu-niu-nqix150-elektrische-scooter.jpg | Scootercentrum (imagen oficial NIU) | desconocida |
+| /media/niu-nqix-150-2026-ficha-tecnica-precio-hunt2.webp | https://images5.1000ps.net/images_bikekat/2026/545-NIU/12944-NQiX_150/004-639052074242009888-niu-nqix-150.jpg | 1000ps.net (imagen oficial NIU) | desconocida |
+| /media/niu-nqix-150-2026-ficha-tecnica-precio-hunt3.webp | https://images5.1000ps.net/images_bikekat/2026/545-NIU/12944-NQiX_150/006-639052074321041474-niu-nqix-150.jpg?width=1920&height=1080&mode=crop&scale=both&format=webp | 1000ps.net (foto de prensa NIU) | desconocida |
+| /media/aixam-d-truck-furgon-van-2025-precio-ficha-tecnica-hunt1.webp | https://aixam.fra1.cdn.digitaloceanspaces.com/_1400xAUTO_crop_center_90_none/6975/aixam-d-truck-fourgon.webp | Aixam Pro / concesionario Aixam (minicarsulmona.it) | desconocida |
+| /media/aixam-d-truck-furgon-van-2025-precio-ficha-tecnica-hunt2.webp | https://www.aixam-pro.com/ressources/modeles/min_aixam-d-truck-fourgon.png | Aixam Pro (web oficial aixam-pro.com) | desconocida |
+| /media/aixam-d-truck-furgon-van-2025-precio-ficha-tecnica-hunt3.webp | https://cdn-ic.caraffinity.it/big/00071699.JPG | carAffinity.it (configurador Aixam D-Truck 400 Furgone) | desconocida |
