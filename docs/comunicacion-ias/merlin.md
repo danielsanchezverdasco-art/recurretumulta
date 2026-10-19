@@ -1051,3 +1051,23 @@ ENTREGABLES en la rama:
 - docs/seo/fotos-merlin.csv — 6.637 filas (407 base + 6.230 misión): slug, foto antigua, veredicto, foto nueva, URL de origen
 
 Notas: nada en main, nada en Netlify, sin force push, sin tokens en el repo. tsc no tocado (sin cambios .ts). Quedan 60 slots vacíos documentados (MISSING-REAL) para futura reposición si aparecen fotos reales.
+
+## 19/10/2026 ~12:35 CEST — @grok lote listo autocaravanas-lote-3
+
+Rama `merlin-autocaravanas-lote-3` @ a2be9886 (50 fichas, sin force, nada en main/Netlify).
+
+- **50/50 slugs únicos** verificados (manifest-lote3.json, sin colisión con los 69 existentes ni entre lotes).
+- **Merges**: 5 ficheros canónicos (1 export por marca), node --check OK en los 11 canónicos de ambos lotes: benimar-m3 (3 modelos), challenger-m3 (2), euramobil-m3 (2), rapido-m3 (2), lmc-m3 (2). Verificación del coordinador: export+slugs corresponden a la marca en los 11.
+- **Jaccard**: máximo **0,2998** (<0,30) en corpus completo de 50 (metodología: tokens alfanuméricos minúsculas sobre descripcion+notas+curiosidades+pros+contras). 9 pares que superaban el umbral fueron reescritos (8 modelos).
+- **Fotos**: 200 webp (50×4). 16 nuevas de los 4 modelos que estaban sin foto (dreamer-d62-select, etrusco-cv-600-db, etrusco-i-7400-qbc, euramobil-profila-t-726-ef). 30 sustituidas tras verificación visual (marcas de agua, concesionario/campa, modelo erróneo, generación antigua, dibujos). Créditos con URL exacta en docs/fichas-autocaravanas/media-creditos-lote3.md (58 líneas actualizadas con "(foto sustituida 19/10/2026)").
+- **Caveats honestos**: benimar-mileo-286 (fotos versión UK, volante a la derecha); hymer-free-600-campus (foto de usuario 800×600); hobby-vantana interior2 (folleto pequeño sobre la mesa, no es pegatina de precio); bavaria no aplica aquí. Tres fotos <1200px conservadas sin reescalar (knaus-van-ti oficial 950×671, pilote-p720 detalle 800×535, rapido-c55 oficial 600×354). Rimor no aplica aquí.
+
+## 19/10/2026 ~12:35 CEST — @grok lote listo autocaravanas-lote-4
+
+Rama `merlin-autocaravanas-lote-4` @ 5305c3d0 (50 fichas, sin force, nada en main/Netlify).
+
+- **50/50 slugs únicos** verificados (manifest-lote4.json, sin colisión con los 69 existentes ni entre lotes).
+- **Merges**: 6 ficheros canónicos (1 export por marca), node --check OK: benimar-m4 (3), burstner-m4 (2), elnagh-m4 (2), laika-m4 (2), weinsberg-m4 (2), hymer-m4 (3).
+- **Jaccard**: máximo **0,27** (<0,30); w13 reescrito (Frankia Titan I 840 GD) para bajar de 0,302.
+- **Fotos**: 198 webp. Carthago liner-for-two I 53 L: 4 fotos con marca de agua sustituidas por prensa oficial Carthago. 28 sustituidas tras verificación visual (concesionario/campa, marcas de agua "CARAVAN CENTER BOCHOLT", modelo erróneo rimor-kilig-66→77 PLUS, dibujos/planos, collages, interiores de generación mezclada). Créditos con URL exacta en docs/fichas-autocaravanas/media-creditos-lote4.md.
+- **Caveats honestos**: laika-ecovip-h-4109 solo tiene 2 fotos (detalle+oficial; el manifest declara n_fotos=2). rimor-kilig-66-plus detalle: pequeño distintivo "LIBERTIUM" en el capó. etrusco-van-5-9-db detalle: instalaciones del vendedor al fondo (única fuente existente del modelo exacto). benimar-mileo-268 y notin-sevilla-jf: fotos de anuncios de vendedores, limpias de rótulos. Varias fotos <1200px (itineo 800×600, mooveo 637×391, mobilvetta 809×1080) conservadas sin reescalar.
