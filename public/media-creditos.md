@@ -4654,3 +4654,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/wey-v8x-2026-precio-ficha-tecnica-hunt1.webp | https://img-ik.cars.co.za/news-site-za/images/2026/08/gwm-wey-v8x-dyna.jpg?tr=w-800 | cars.co.za | desconocida |
 | /media/wey-v8x-2026-precio-ficha-tecnica-hunt2.webp | https://newscentral.com.br/wp-content/uploads/2026/07/wey-v8x-1.jpg | newscentral.com.br | desconocida |
 | /media/wey-v8x-2026-precio-ficha-tecnica-hunt3.webp | https://evmagz.com/wp-content/uploads/2026/08/Wey-V8X-1024x576.jpg | evmagz.com | desconocida |
+| /media/byd-han-l-2025-precio-ficha-tecnica-hunt1.webp | https://global-img.bitauto.com/yhzx/20250116/132/703166613241227.jpg | BitAuto (fotos oficiales de prensa de BYD) | desconocida |
+| /media/byd-han-l-2025-precio-ficha-tecnica-hunt2.webp | https://www.ixbt.com/img//x780/n1/news/2025/0/5/byd_han_L_official_large.jpg | iXBT (foto oficial de prensa de BYD) | desconocida |
+| /media/byd-han-l-2025-precio-ficha-tecnica-hunt3.webp | https://carnewschina.com/wp-content/uploads/2025/04/1000017526-800x645.jpg | CarNewsChina | desconocida |
+| /media/dongfeng-shine-gs-2025-precio-ficha-tecnica-hunt1.webp | https://www.dongfeng.ci/wp-content/uploads/2026/02/Galerie-shine-gs-1.jpg | Dongfeng Costa de Marfil (distribuidor oficial) | desconocida |
+| /media/dongfeng-shine-gs-2025-precio-ficha-tecnica-hunt2.webp | https://www.topspeed.sk/userfiles/articles/30-11/27618/normal_727_477_1764527819-dongfeng.shine.gs.06.jpg | TopSpeed.sk | desconocida |
+| /media/dongfeng-shine-gs-2025-precio-ficha-tecnica-hunt3.webp | https://dongfeng.by/wp-content/uploads/2026/03/1-10-1.jpg | Dongfeng Bielorrusia (distribuidor oficial) | desconocida |
+| /media/wey-gaoshan-8-2025-precio-ficha-tecnica-hunt1.webp | https://img6.bitautoimg.com/usercenter/mapi/news/2025/05/18/w800_m1_yichecar_a9bd2da6a7724918a77cf1125b62b1a0.jpeg.webp | Yiche (易车, fotos de prensa de Wey) | desconocida |
+| /media/wey-gaoshan-8-2025-precio-ficha-tecnica-hunt2.webp | https://global-img.bitauto.com/yhzx/20260816/513/685791851393292.jpg | BitAuto (fotos oficiales de prensa de Wey) | desconocida |
+| /media/wey-gaoshan-8-2025-precio-ficha-tecnica-hunt3.webp | https://global-img.bitauto.com/usercenter/autoalbum/20251014/269/w0_yichecar_043041926934271.jpg.webp | BitAuto (fotos oficiales de prensa de Wey) | desconocida |
+| /media/yamaha-tenere-700-rally-2026-ficha-tecnica-precio-hunt1.webp | https://ysr.dk/wp-content/webp-express/webp-images/uploads/2025/12/large-mcimgs-1600_c79_281295_5915638_1735925146.jpg.webp | YSR.dk (concesionario oficial; fotos oficiales de prensa de Yamaha) | desconocida |
+| /media/yamaha-tenere-700-rally-2026-ficha-tecnica-precio-hunt2.webp | https://ysr.dk/wp-content/uploads/2025/12/large-mcimgs-1600_c11_281295_5915644_1735925146.jpg | YSR.dk (concesionario oficial; fotos oficiales de prensa de Yamaha) | desconocida |
+| /media/yamaha-tenere-700-rally-2026-ficha-tecnica-precio-hunt3.webp | https://ysr.dk/wp-content/uploads/2025/12/large-mcimgs-1600_c21_281295_5915619_1735925146.jpg | YSR.dk (concesionario oficial; fotos oficiales de prensa de Yamaha) | desconocida |
+| /media/chery-qq-ice-cream-2025-precio-ficha-tecnica-hunt1.webp | https://ncars.com.ua/images/ZGF0YS9Nb2RlbG5peSByeWFkL0NoZXJ5L0NoZXJ5IFFRIEljZSBDcmVhbS_QkdCw0L3QtdGALzE2LmpwZ3wxMjAwfDgwMHxhfDA=.webp%22 | ncars.com.ua | desconocida |
+| /media/chery-qq-ice-cream-2025-precio-ficha-tecnica-hunt2.webp | https://thzpihfbglhksxsimprj.supabase.co/storage/v1/object/public/model-images/1762432465728-h5607azox4e.png | China EV Pro | desconocida |
+| /media/chery-qq-ice-cream-2025-precio-ficha-tecnica-hunt3.webp | https://img.hainaauto.com/vehicle/col_4323b527869c2d12.webp | hainaauto | desconocida |
+| /media/ebro-s700-hibrido-2026-precio-ficha-tecnica-hunt1.webp | https://fotos.quecochemecompro.com/ebro-s700-hibrido/42624584.jpg?size=750x400 | QueCocheMeCompro | desconocida |
+| /media/ebro-s700-hibrido-2026-precio-ficha-tecnica-hunt2.webp | https://gruponieto.es/wp-content/uploads/2026/04/EBRO_s700_HEV.webp | Grupo Nieto (concesionario Ebro) | desconocida |
+| /media/ebro-s700-hibrido-2026-precio-ficha-tecnica-hunt3.webp | https://www.motormundial.es/wp-content/uploads/2026/02/EBRO-s700-HEV_02.jpg | MotorMundial | desconocida |
+| /media/kawasaki-z900-se-2026-ficha-tecnica-precio-hunt1.webp | https://kawasaki-la-administration.com//ContentStorage/KLA/Products/8902/342baa46-d732-4e8b-bba9-0439fdda63fe.png?w=675 | Kawasaki Latinoamérica (oficial) | desconocida |
+| /media/kawasaki-z900-se-2026-ficha-tecnica-precio-hunt2.webp | https://images.medialinksonline.com/imagestream/8412/8185960x1600x1200_FFFFFF_L_0.jpg | Drayton Croft (concesionario) | desconocida |
+| /media/kawasaki-z900-se-2026-ficha-tecnica-precio-hunt3.webp | https://immagini.insella.it/sites/default/files/styles/620w/public/alberomoto/immagine/z900-se-allestimento.png.webp | insella.it | desconocida |
+| /media/wey-gaoshan-9-2025-precio-ficha-tecnica-hunt1.webp | https://ghanaevs.com/wp-content/uploads/2026/07/imgi_21_2025-Great-Wall-Motors-Gwm-Wey-Gaoshan-9-MPV-New-Energy-Car-2-1024x1024.webp | egypt-ev.com (imagen ghanaevs.com) | desconocida |
+| /media/wey-gaoshan-9-2025-precio-ficha-tecnica-hunt2.webp | https://autobuzz.my/wp-content/uploads/2026/04/2025-GWM-Wey-G9-Drive-37-696x392.jpg | Autobuzz | desconocida |
+| /media/wey-gaoshan-9-2025-precio-ficha-tecnica-hunt3.webp | https://gwmc.ru/content/images/2025/06/WEY-Gaoshan-9--WEY-80-.jpg | gwmc.ru | desconocida |
