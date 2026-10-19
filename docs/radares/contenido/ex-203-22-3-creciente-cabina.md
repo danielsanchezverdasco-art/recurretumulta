@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 40.02536, -5.848693
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.02536,-5.848693)
 
+<iframe title="Mapa: radar ex-203-22-3-creciente-cabina" src="https://www.google.com/maps?q=40.02536,-5.848693&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar ex-203-22-3-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.02536,-5.848693&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** Vía, punto kilométrico, sentido y posición salen del XML oficial de radares de la DGT (DATEX II, portal NAP), revisado el 2026-10-19. Ese fichero no incluye el límite de cada punto ni su municipio: el límite de la ficha es el genérico del RGC (art. 48, RD 1428/2003) por tipo de vía, y el municipio procede del geocodificador oficial CartoCiudad (IGN/CNIG).
 
 ## Dónde está
