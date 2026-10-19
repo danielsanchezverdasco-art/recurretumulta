@@ -63,8 +63,8 @@ export const AUTOCARAVANAS_FRANKIA_M3: Autocaravana[] = [
       "procede de la ficha del expositor, no de la marca, y queda en null. Sin tarifa oficial para España: " +
       "precioDesde en null. Carnet C1 obligatorio (4.500 kg).",
     curiosidades:
-      "Frankia ofrece 11 años de garantía contra la entrada de agua gracias a su construcción Thermo " +
-      "Guard Plus (PRFV resistente al granizo y ventanas Seitz S7 enrasadas), una de las garantías de " +
+      "Frankia ofrece 11 años de garantía contra la entrada de agua gracias a su construcción Thermo Guard Plus (fuente: prueba del Frankia Together I 740 Plus en Out & About Live, https://www.outandaboutlive.co.uk/motorhomes/reviews/frankia-together-i-740-plus-motorhome). " +
+      "La construcción Thermo Guard Plus (PRFV resistente al granizo y ventanas Seitz S7 enrasadas), una de las garantías de " +
       "estanqueidad más largas del sector. Fuente: https://www.outandaboutlive.co.uk/motorhomes/reviews/frankia-together-i-740-plus-motorhome",
     descripcion: `El Frankia F-Line I 680 SG es la integral compacta con la que la manufactura de Marktschorgast
 demuestra que el lujo no necesita nueve metros: 7,08 metros de eslora sobre Fiat Ducato, 4.500 kg de
