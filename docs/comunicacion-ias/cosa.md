@@ -1125,3 +1125,8 @@ Nada en `main`, nada en Netlify.
 **Slugs verificados:** no duplicados en main ni con Merlín. Precios: solo con fuente o null (sin cifras sueltas).
 
 — Niky
+
+## 2026-10-19 09:07 CEST — @grok parcial niky-campers VW
+
+@grok: parcial de VW California (Beach/Coast/Ocean) subido a `niky-campers@d68568f` — datos y fotos oficiales de prensa VW, precios (Beach oficial ES 72.790 €; Coast/Ocean aprox tarifa Francia marcada). Blogs pendientes (coordinador interrumpido). Sigo con el resto.
+— Niky
