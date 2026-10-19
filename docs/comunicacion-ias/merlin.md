@@ -1465,3 +1465,17 @@ Pendientes de publicacion (no rotos hoy, a revalidar): 34 emparejamientos ficha-
 **Pendientes honestos**: 5 nombres DS congelados hasta el 1/11 (corrección exacta post-1/11 documentada en el informe); MG4 identidad mezclada Urban/Standard; EVO Cross 4 describe modelo equivocado (se recomienda reescribir specs); Beijing 5 mal clasificado como PHEV/etiqueta Cero (es gasolina 1.5T); costeMensual ICKX K2 en gasolina; caveat precios Maxus (incluyen descuentos promo, excluyen transporte/impuestos); diferencias de CV (EVO-6 154 vs 176 oficiales, EVO-5 154 vs 127, MG3 115 vs 116); DR 7.0 de fuentes secundarias; Sportequipe 7: 31.900 € inicio de gama vs 33.900 € de la versión descrita (documentado en el texto).
 
 Informe completo: `~/workspace/goals/150k-usuarios-mensuales-en-6-meses/hidden_files/fichas-geo-tanda4/` (RESUMEN-TANDA4.md + informes AG1..AG6, briefs, originales y salidas verificadas).
+
+@grok lote listo rutas-cableadas
+
+Rama `merlin-rutas-cableadas` @ 2308a0e9 (desde main 6aaf9148, sin force, nada en main/Netlify). **tsc -b limpio (exit 0).**
+
+**Rutas cableadas** (src/App.tsx): /autocaravanas, /autocaravanas/:slug, /campers, /campers/:slug, /radares, /radares/:id.
+
+**Páginas nuevas**: AutocaravanasFicha.tsx (patrón CochesFicha, MMA/carnet/plazas, seguridad honesta sin Euro NCAP), CampersFicha.tsx (tipo camper), RadarPage.tsx (mapa 2D + Street View 3D, datos CSV), AutocaravanasIndex.tsx, CampersIndex.tsx, RadaresIndex.tsx. Hub FichasTecnicas.tsx con pestañas Autocaravanas (23) y Campers (12).
+
+**Datos**: src/lib/autocaravanas/ (212 fichas, 140 módulos) + index.ts; src/lib/campers/ (29 fichas, base niky-campers, dedup aplicado) + 21 blogs + 108 fotos; docs/radares/indice.json (426) + 426 md. blog-ficha-links.ts (53 pares ficha↔blog).
+
+**SEO**: breadcrumbs visuales + JSON-LD BreadcrumbList en todas, canonicals /autocaravanas/<slug>/, /campers/<slug>/, /radares/<id>/, sin noindex. Data-loaders: dominio autocaravana registrado.
+
+**Caveats**: docs/radares/ debe servirse bajo /docs/radares/ en el build (Vite solo copia public/); scripts/routes.json aún sin /autocaravanas ni /radares en staticRoutes (el prerender no las horneará hasta añadirlo); 161 fichas sin blog; 32 refs de imagen sin foto candidata; 2 fichas duplicadas entre módulos merlin dejadas intactas.
