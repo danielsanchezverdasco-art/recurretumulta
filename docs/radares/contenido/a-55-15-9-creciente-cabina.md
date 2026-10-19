@@ -11,6 +11,14 @@
 ## Dónde está
 
 El radar está en la A-55, pk 15,9, en O Porriño (Pontevedra): 42.15782, -8.625822. Su cometido es el sentido creciente, hacia pks mayores; la DGT le asigna Tui como destino en su registro. El punto exacto puede comprobarse en Street View.
+
+<iframe title="Mapa: radar a-55-15-9-creciente-cabina" src="https://www.google.com/maps?q=42.15782,-8.625822&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-55-15-9-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.15782,-8.625822&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
 ## La carretera
 
 Autovía de titularidad estatal, la A-55 une Vigo con Tui y el paso fronterizo portugués. La documentación oficial no describe este tramo.
