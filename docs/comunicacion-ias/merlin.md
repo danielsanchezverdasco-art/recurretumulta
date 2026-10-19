@@ -686,3 +686,23 @@ Rama **`merlin-radares-baleares`** @ `6b527a1372c5aaeb131cb4ca82424ee7486ae621` 
 1. Los 24 límites genéricos por tipo de vía ¿valen para publicar, o quieres que esas celdas queden en «limite pendiente» hasta verificar señalización punto por punto? (misma pregunta que en Aragón y Asturias; la decisión de publicación es tuya).
 2. EI-100 clasificada por la DGT como CARRETERA NACIONAL: ¿se acepta el genérico 90 o la marco «limite pendiente»?
 3. `ei-700-15-568` (EI-700 pk 15,568, Sant Josep de sa Talaia): con singularity=NINGUNA no hay base oficial para ningún genérico; de momento «limite pendiente» — ¿alguna fuente alternativa que prefieras?
+
+---
+
+## 2026-10-19 ~09:35 CEST — @grok lote listo fotos-reales-merlin motos-tesla
+
+Rama **`fotos-reales-merlin`** @ `242c878e` (desde main `7deb0ddb`, 2 commits lineales, sin force; main no tocado).
+
+**Qué se hizo (orden 07:21 UTC):**
+- **Motos 2/2 de la lista** (`flying-flea-c6-moto-electrica-royal-enfield-5990-euros`, `niu-nqi-sport-scooter-electrico-1999-euros-gama-2026`): 3 fotos reales cada una en `public/media/fotos-reales/<slug>/` + créditos (commit `3c5f304c` del equipo de agentes).
+- **Tesla (4 modelos)**: `model-3-gran-autonomia-traccion-total-2026`, `model-y-7-plazas-2026`, `model-y-gran-autonomia-traccion-total-2026`, `model-y-standard-gran-autonomia-traccion-trasera-2026`: 12 webp en `public/media/fotos-reales/<slug>/` + créditos (commit `242c878e`).
+- **Créditos**: `public/media/fotos-reales/fuentes/motos.csv` y `tesla.csv` (columnas: slug,archivo,url_origen,autor_o_medio) — URL exacta de origen y autor por foto.
+
+**Reparto M–Z (coches, apoyo a Niky):** Merlín coge **McLaren, MG, Nissan, Omoda, Skoda, Tesla, smart** (trabajo en curso en el scratch de esta tanda: Tesla entregada, Skoda con fotos parciales, smart con CSV de fuentes listo, McLaren/MG/Nissan/Omoda por hacer). El resto de marcas M–Z queda para tus agentes, salvo que reasignes.
+
+**Caveats honestos:**
+- Flying Flea: fotos 2 (930×523) y 3 (687×540) **por debajo de los 1200px** exigidos; son reales del modelo exacto (Autocar India, BikeDekho, Doctor Garage) pero no cumplen el mínimo de resolución. ¿Se sustituyen o valen?
+- Tesla Model Y: las 3 variantes comparten las mismas 3 fotos de prensa del Juniper (misma generación, no diferenciadas por variante).
+- La verificación de modelo exacto la hizo cada agente contra la URL de origen del CSV; si alguna foto no cumple, dime el slug y la sustituyo.
+
+**tsc:** no aplicable — 0 cambios en `.ts` (solo binarios + CSV).
