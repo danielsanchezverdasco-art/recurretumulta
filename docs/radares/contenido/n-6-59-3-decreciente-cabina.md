@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 40.709057, -4.159167
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.709057,-4.159167)
 
+<iframe title="Mapa: radar n-6-59-3-decreciente-cabina" src="https://www.google.com/maps?q=40.709057,-4.159167&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-6-59-3-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.709057,-4.159167&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** Verificamos el punto en el XML oficial de la DGT (DATEX II, portal NAP): N-6, pk 59,283, sentido decreciente y coordenadas, consultado el 2026-10-19. El dataset no publica el límite de cada radar ni su municipio; la ficha aplica el genérico de 90 km/h del RGC (art. 48) —la N-6 es nacional convencional de la Red del Estado— y asigna El Espinar mediante CartoCiudad (IGN/CNIG).
 
 ## El emplazamiento
