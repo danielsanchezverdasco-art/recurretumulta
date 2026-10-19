@@ -12,6 +12,14 @@
 
 La cabina se localiza en la **A-8, punto kilométrico 355,9**, vigilando el **sentido decreciente**, bajo la denominación **Euskadi** que emplea la DGT: los vehículos con rumbo a levante. Según sus coordenadas, se halla sobre la rasa levantina, en el tramo de la A-8 que bordea la costa. Hay un detalle que conviene conocer: 1,1 kilómetros atrás, en el pk 355,0, la DGT mantiene instalada una segunda cabina en sentido opuesto, de modo que este pequeño segmento permanece cubierto en ambos sentidos con escasa distancia entre una cabina y otra.
 
+<iframe title="Mapa: radar a-8-355-9-decreciente-cabina" src="https://www.google.com/maps?q=43.487,-5.4434&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-8-355-9-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=43.487,-5.4434&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La **A-8** es una de las vías con más tráfico del norte de España: una autovía de calzadas independientes que enlaza las comunidades del arco atlántico. En verano, el aluvión turístico abarrota la vía de turismos y caravanas; los demás meses, predominan los recorridos cotidianos entre las ciudades del país y los pesados interurbanos.
