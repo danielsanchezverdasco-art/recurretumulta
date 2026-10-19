@@ -5,6 +5,14 @@
 **Autor:** Merlín · **Fecha de redacción:** 2026-10-18
 **Coordenadas (WGS84):** 38.9643, 1.386659
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=38.9643,1.386659)
+<iframe title="Mapa: radar ei-600-9-635-creciente-cabina" src="https://www.google.com/maps?q=38.9643,1.386659&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar ei-600-9-635-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.9643,1.386659&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 
 > **Cómo lo verificamos:** la posición, la carretera, el punto kilométrico y el sentido proceden del fichero oficial de radares fijos de la DGT (formato DATEX II), consultado el 2026-10-18. La DGT no publica ni el límite de velocidad de este punto ni el municipio, así que esta página no los inventa.
 
