@@ -2,6 +2,9 @@
 // Fuentes: web oficial hymer.com (verificada 19/10/2026), lista oficial de precios y
 // datos técnicos Hymer MY2026 (documento oficial del Caravan Salon 2026) y notas de
 // prensa oficiales de Hymer (nuevo B-MC y ML-T 580 CrossTrail, sep. 2025).
+// F6 (19/10/2026, orden Grok): fotos oficiales -oficial*.webp (portada ext oficial +
+// interiores oficiales) y campo curiosidades con fuente en las 3 fichas; galerías con
+// oficiales primero y no-oficiales como extra después.
 // Correcciones aplicadas: eliminado el bloque costeMensual; añadidos descripcion
 // (>=800 palabras por ficha, con ángulos y estructuras diferentes), notas y
 // plazasDormir; analisisSlug actualizado a -analisis-opinion; fotos renombradas a
@@ -30,9 +33,9 @@ export const AUTOCARAVANAS_HYMER_M1: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-ext.webp",
+    imagen: "/media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-oficial.webp",
     imagenOficial:
-      "/media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-ext.webp",
+      "/media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
       "/media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
@@ -54,6 +57,8 @@ export const AUTOCARAVANAS_HYMER_M1: Autocaravana[] = [
     aprox: ["precioDesde"],
     notas:
       "Precio de tarifa en Alemania (PVP recomendado con IVA alemán, web oficial Hymer, octubre de 2026); en España puede diferir por impuestos, transporte y política del importador. El documento oficial de precios y datos técnicos Hymer MY2026 lista la GCS 600 a 96.900 € en origen; la web oficial muestra actualmente 98.200 €. Datos técnicos (dimensiones, MMA, plazas, camas 2-4, motor 315 CDI de 150 CV, tracción trasera o total) de la lista oficial MY2026.",
+    curiosidades:
+      "La Grand Canyon S es una de las campers más premiadas de Europa: ganó el iF Design Award 2024 —elegida por un jurado de 132 expertos entre casi 11.000 candidaturas— y fue votada «Autocaravana del año» 2024 y 2025 por los lectores de promobil en la categoría de campers con baño de más de 60.000 €. Fuente: página oficial de premios de Hymer (https://www.hymer.com/es/es/premios).",
     descripcion: `La Hymer Grand Canyon S es la camper de Hymer que ha convertido la furgoneta grande en objeto de deseo: 5,93 metros sobre chasis Mercedes Sprinter, dos camas gemelas atrás que se enrollan para liberar maletero y la posibilidad de pedirla con tracción total para salir del asfalto sin pedir permiso. Es la puerta de entrada al universo Hymer para quien viene del mundo camper y no quiere una autocaravana al uso, sino una furgoneta habitable con el acabado y la ingeniería de la marca premium alemana por excelencia. Su éxito se entiende en cuanto se mira el segmento: hay muchas campers de menos de seis metros, pero pocas combinan la base Sprinter, un sistema eléctrico de litio de serie y una red europea de servicio como la de Hymer.
 
 El punto de partida es el chasis, y aquí Hymer no hace concesiones. La Grand Canyon S nace sobre el Mercedes Sprinter 315 CDI de 150 CV con tracción trasera, con la opción de tracción total para quien planee pistas de tierra, nieve o accesos complicados a spots de pernocta. La lista oficial de datos técnicos del año modelo 2026 detalla unas dimensiones de 593 centímetros de largo, 206 de ancho y 276 de alto, con una MMA de 3.500 kilos que permite conducirla con el carnet B. La masa en orden de marcha declarada es de 2.857 kilos, lo que deja un margen teórico razonable para cuatro ocupantes y equipaje, aunque —como en toda camper de este tamaño— conviene vigilar la báscula cuando se suman el 4x4, el techo elevable y los packs de equipamiento. El depósito de gasóleo rinde para etapas largas y el consumo real, en torno a los nueve litros a los cien en uso mixto según la experiencia de los propietarios, la mantiene en la zona eficiente del segmento.
@@ -84,10 +89,10 @@ Para quién es: la Hymer Grand Canyon S es para la pareja viajera que quiere una
     opiniones: [],
     galeria: [
       {
-        src: "/media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-ext.webp",
-        alt: "Hymer Grand Canyon S, vista tres cuartos delantera",
+        src: "/media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Hymer Grand Canyon S, vista lateral (foto oficial de prensa Hymer)",
         ancho: 1200,
-        alto: 800,
+        alto: 675,
       },
       {
         src: "/media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-interior.webp",
@@ -98,6 +103,12 @@ Para quién es: la Hymer Grand Canyon S es para la pareja viajera que quiere una
       {
         src: "/media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-interior2.webp",
         alt: "Ducha del Hymer Grand Canyon S",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-ext.webp",
+        alt: "Hymer Grand Canyon S, vista tres cuartos delantera",
         ancho: 1200,
         alto: 800,
       },
@@ -151,10 +162,11 @@ Para quién es: la Hymer Grand Canyon S es para la pareja viajera que quiere una
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/hymer-b-mc-i-600-2026-precio-ficha-tecnica-ext.webp",
-    imagenOficial: "/media/hymer-b-mc-i-600-2026-precio-ficha-tecnica-ext.webp",
+    imagen: "/media/hymer-b-mc-i-600-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial:
+      "/media/hymer-b-mc-i-600-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/hymer-b-mc-i-600-2026-precio-ficha-tecnica-interior.webp",
+      "/media/hymer-b-mc-i-600-2026-precio-ficha-tecnica-oficial-interior.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 7190, // lista oficial: 719 cm
@@ -174,6 +186,8 @@ Para quién es: la Hymer Grand Canyon S es para la pareja viajera que quiere una
     aprox: ["precioDesde"],
     notas:
       "Precio de tarifa en Alemania: 141.000 € es el «desde» oficial de la gama B-MC I integrada según la nota de prensa de Hymer (septiembre de 2025); no es un PVP específico del I 600 y en España puede diferir. Datos técnicos (dimensiones 719/229/298 cm, MMA 3.500 kg, plazas 3-5, camas 4-5, motor 315 CDI de 150 CV, tracción delantera, depósitos 180/150 l, frigorífico 150 l, calefacción a gas de 6 kW) de la lista oficial de precios y datos técnicos Hymer MY2026.",
+    curiosidades:
+      "La gama B-MC fue la primera del mercado en montar en serie la variante chasis-cabina del nuevo Mercedes Sprinter, y con ella Hymer fue el primer fabricante en años en bajar de los 2.900 kg en vacío con una integral de casi 7 metros manteniendo la MMA en 3.500 kg. Fuente: nota de prensa oficial de Hymer (https://www.hymer.com/de/en/home/hymermobil-b-class-moderncomfort/p/40926).",
     descripcion: `La Hymer B-MC I 600 es la integral de acceso a la nueva familia B-MC ModernComfort, la gama con la que Hymer ha redefinido su concepto de confort para la segunda mitad de la década: 7,19 metros de carrocería integral sobre chasis SLC de Mercedes, parabrisas panorámico y un interior que se controla desde el móvil. Si la Grand Canyon S es la camper aventurera de la marca, la B-MC I 600 es su opuesto complementario: una casa rodante de verdad, pensada para parejas que hacen etapas largas y quieren llegar al destino descansados, con la cama hecha y la calefacción ya templando el interior. Es la integral que demuestra que se puede tener el formato más habitable sin saltar a los 7,5 metros ni al carnet C1.
 
 Lo primero que se nota al acercarse es la ausencia de cabina de furgoneta. Al ser una integral pura, el frontal es un gran parabrisas panorámico que inunda de luz el salón y ofrece una visibilidad en carretera que ninguna perfilada puede igualar. El salón delantero, con su banqueta en L y los asientos de cabina integrados, es el corazón social del vehículo: se come, se lee, se trabaja y se contempla el paisaje con una luminosidad que justifica por sí sola el sobreprecio frente a una perfilada equivalente. La cocina, de 93 por 98 centímetros de encimera, monta tres fuegos y un frigorífico de 150 litros con congelador de 17, cifras que permiten cocinar de verdad durante un viaje largo sin depender del restaurante de cada pueblo. El baño, de 125 por 85, separa la ducha del inodoro con una mampara que lo hace utilizable a diario sin convertirlo en una sauna.
@@ -206,14 +220,26 @@ Para quién es: la Hymer B-MC I 600 es para la pareja que quiere la integral pre
     opiniones: [],
     galeria: [
       {
-        src: "/media/hymer-b-mc-i-600-2026-precio-ficha-tecnica-ext.webp",
-        alt: "Hymer B-MC I 600, vista frontal integral",
+        src: "/media/hymer-b-mc-i-600-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Hymer B-MC I 600, vista tres cuartos delantera (render oficial Hymer)",
         ancho: 1200,
-        alto: 800,
+        alto: 676,
+      },
+      {
+        src: "/media/hymer-b-mc-i-600-2026-precio-ficha-tecnica-oficial-interior.webp",
+        alt: "Baño del Hymer B-MC I 600 con grifería negra (foto oficial de prensa Hymer)",
+        ancho: 1200,
+        alto: 802,
       },
       {
         src: "/media/hymer-b-mc-i-600-2026-precio-ficha-tecnica-interior.webp",
         alt: "Interior de la Hymer B-MC I 600, salón en L",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/hymer-b-mc-i-600-2026-precio-ficha-tecnica-ext.webp",
+        alt: "Hymer B-MC I 600, vista frontal integral",
         ancho: 1200,
         alto: 800,
       },
@@ -273,11 +299,11 @@ Para quién es: la Hymer B-MC I 600 es para la pareja que quiere la integral pre
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/hymer-ml-t-580-4x4-2026-precio-ficha-tecnica-ext.webp",
+    imagen: "/media/hymer-ml-t-580-4x4-2026-precio-ficha-tecnica-oficial.webp",
     imagenOficial:
-      "/media/hymer-ml-t-580-4x4-2026-precio-ficha-tecnica-ext.webp",
+      "/media/hymer-ml-t-580-4x4-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/hymer-ml-t-580-4x4-2026-precio-ficha-tecnica-interior.webp",
+      "/media/hymer-ml-t-580-4x4-2026-precio-ficha-tecnica-oficial-interior.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 6980, // longitud de carrocería: 698 cm (713 cm con escalera trasera, según datos oficiales)
@@ -297,6 +323,8 @@ Para quién es: la Hymer B-MC I 600 es para la pareja que quiere la integral pre
     aprox: ["precioDesde"],
     notas:
       "Precio de tarifa en Alemania: 165.900 € es el PVP base oficial de la edición especial ML-T 580 CrossTrail (MY2026) según la nota de prensa de Hymer (septiembre de 2025); es el único PVP oficial publicado por Hymer para el ML-T 580 4x4 y en España puede diferir. Datos técnicos (Sprinter 419 CDI de 190 CV, tracción total, 698/222/305 cm, MMA 4.100 kg, 4 plazas, 3 camas, masa en orden de marcha 3.470 kg) de la ficha técnica oficial publicada por Mercedes-Benz Vans para el Sprinter Hymer ML-T 580 CrossTrail. La variante de 4.100 kg exige carnet C1 en España.",
+    curiosidades:
+      "La familia ML-T acumula varios de los galardones más prestigiosos del caravaning europeo: Red Dot Design Award y German Design Award 2024 por su diseño, European Innovation Award 2024 al mejor concepto global de autocaravana —otorgado por un jurado de 17 directores de revistas de 15 países— y el «Golden Motorhome 2024» de los lectores de AUTO BILD REISEMOBIL. Fuente: página oficial de premios de Hymer (https://www.hymer.com/es/es/premios).",
     descripcion: `Hay autocaravanas que te llevan a los sitios y autocaravanas que te sacan de ellos. La Hymer ML-T 580 4x4, en su edición especial CrossTrail para el año modelo 2026, pertenece a la segunda categoría: una perfilada de 6,98 metros con tracción total permanente, 190 CV y un equipamiento de autosuficiencia que la convierte en una base de expedición con todas las comodidades de una Hymer. No es una camper disfrazada de todoterreno ni una 4x4 de mentira con un diferencial cosmético: es la ML-T, la perfilada ligera más vendida de la marca alemana, elevada a su expresión más capaz con la receta que Hymer ya probó en la Venture S.
 
 El corazón del asunto está bajo la carrocería. El chasis es el Mercedes Sprinter 419 CDI de 190 CV con cambio automático 9G-Tronic y tracción total Torque-on-Demand, el sistema que reparte el par entre ejes según la adherencia sin intervención del conductor, complementado con control de descenso para las bajadas empinadas. La altura libre al suelo está elevada, los bajos del motor y del depósito de agua llevan protección específica y los neumáticos son All-Terrain, primero en 16 pulgadas y con opción de llantas Delta de 18 con tacos para quien vaya en serio. La ficha técnica oficial habla de 6,98 metros de carrocería, 2,22 de ancho y 3,05 de alto con la baca y la escalera trasera de la edición CrossTrail, y —dato crucial— de una MMA de 4.100 kilos: la tracción total y todo su equipamiento pesan, y Hymer resuelve la ecuación con la variante de peso de 4,1 toneladas de serie. Eso tiene una consecuencia administrativa innegociable en España: con más de 3.500 kilos hace falta el carnet C1, así que esta versión no es para quien solo tenga el B.
@@ -326,6 +354,24 @@ Para quién es: la Hymer ML-T 580 4x4 CrossTrail es para el viajero que quiere u
     ],
     opiniones: [],
     galeria: [
+      {
+        src: "/media/hymer-ml-t-580-4x4-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Hymer ML-T 580 4x4 CrossTrail, vista tres cuartos delantera (render oficial Hymer)",
+        ancho: 1200,
+        alto: 676,
+      },
+      {
+        src: "/media/hymer-ml-t-580-4x4-2026-precio-ficha-tecnica-oficial-interior.webp",
+        alt: "Salón del Hymer ML-T 580 4x4 CrossTrail (foto oficial de prensa Hymer)",
+        ancho: 1200,
+        alto: 802,
+      },
+      {
+        src: "/media/hymer-ml-t-580-4x4-2026-precio-ficha-tecnica-oficial-interior2.webp",
+        alt: "Dormitorio con camas gemelas del Hymer ML-T 580 4x4 CrossTrail (foto oficial de prensa Hymer)",
+        ancho: 1200,
+        alto: 802,
+      },
       {
         src: "/media/hymer-ml-t-580-4x4-2026-precio-ficha-tecnica-ext.webp",
         alt: "Hymer ML-T 580 4x4, vista tres cuartos delantera",
