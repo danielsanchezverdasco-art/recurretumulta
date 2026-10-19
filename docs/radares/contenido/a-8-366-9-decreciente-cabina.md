@@ -12,6 +12,14 @@
 
 El punto de control está en la **A-8, kilómetro 366,9**, y vigila el **sentido decreciente**: los vehículos que avanzan hacia el destino que la DGT llama **Euskadi**, o sea, el tránsito con rumbo este hacia Cantabria y el País Vasco. Se encuentra al este de Gijón, en la franja costera en dirección a Villaviciosa, una zona donde el ir y venir entre el centro de Asturias y los destinos del oriente mantiene la vía animada buena parte del año.
 
+<iframe title="Mapa: radar a-8-366-9-decreciente-cabina" src="https://www.google.com/maps?q=43.4952,-5.5332&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-8-366-9-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=43.4952,-5.5332&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La A-8 vertebra el **litoral norte de punta a punta**: arranca en Irún y llega hasta Galicia siguiendo la costa, y absorbe el grueso de los desplazamientos pesados y del turismo que atraviesan Asturias. Es una autovía de calzadas separadas con arcenes amplios, pero su paso por el Principado no es monótono: el terreno impone ondulaciones continuas y el clima atlántico mantiene el asfalto húmedo durante buena parte del año, con la adherencia cambiando de una jornada a otra.
