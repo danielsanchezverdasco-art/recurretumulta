@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 42.5478, -5.6207
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.5478,-5.6207)
 
+<iframe title="Mapa: radar a-66-146-7-decreciente-cabina" src="https://www.google.com/maps?q=42.5478,-5.6207&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-66-146-7-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.5478,-5.6207&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** ¿De dónde sale cada dato? Vía, pk, sentido y coordenadas vienen del XML oficial de radares fijos de la DGT (portal NAP, DATEX II, edición 2026-10-19). ¿El límite? El dataset no lo publica: la ficha aplica el genérico del art. 48 del RGC para autovías (120 km/h). ¿El municipio? Santovenia de la Valdoncina, determinado con el geocodificador oficial CartoCiudad (IGN/CNIG).
 
 ## ¿Dónde está exactamente?
