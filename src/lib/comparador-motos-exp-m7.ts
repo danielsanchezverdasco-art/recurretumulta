@@ -1978,7 +1978,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     videoCanal: null,
     fuenteNombre: "motofichas.com",
     fuenteUrl: "https://www.motofichas.com/marcas/kawasaki/z500-se-2025",
-    analisisSlug: "kawasaki-z500-2025-ficha-tecnica-precio",
+    analisisSlug: "kawasaki-z500-2025-analisis-opinion",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
       aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
@@ -2079,13 +2079,17 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A2 (limitable)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: [
+    ],
     pros: [
+      "Consumo real de 5,1 L/100 km (dato declarado por Kawasaki; sin medición real publicada en pruebas) (fuente: Kawasaki (ficha técnica, vía Directomotor))",
       "La única tetracilíndrica de 400: 77 CV que suben a 16.000 rpm",
       "Sonido y tacto de superbike en formato A2",
       "Limitable a 35 kW para el carnet A2",
       "Electrónica completa: KTRC, quickshifter, modos",
       "La ZX-4RR (10.300 €) añade suspensiones Showa",
+      "Con Ram Air, la potencia declarada sube a 80 CV a 14.500 rpm (SoyMotero.net).",
+      "Depósito de 15 litros, generoso para una 400 deportiva (ficha técnica Kawasaki).",
     ],
     contras: [
       "9.500 €: cara para una 400",
@@ -2093,11 +2097,14 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       "188 kg: pesada para su cilindrada",
       "El seguro de una tetracilíndrica es caro",
       "Postura deportiva: incómoda en ciudad",
+      "El calor del motor tetracilíndrico se hace notar en entornos urbanos (Directomotor).",
     ],
     curiosidades: [
       "Recupera el espíritu de las 400 japonesas de los 90",
       "Su motor gira hasta las 16.000 rpm",
       "Es la única 400 tetracilíndrica del mercado actual",
+      "Con el sistema Ram Air activo a alta velocidad, la potencia declarada sube de 77 a 80 CV (SoyMotero.net).",
+      "Existe una versión oficial limitada para el carnet A2 (48 CV), con kit de limitación de unos 600 € sobre el PVP (SoyMotero.net).",
     ],
     imagen: "/media/motos/kawasaki-ninja-zx-4r-2026-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -2110,8 +2117,8 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     ],
     videoId: null,
     videoCanal: null,
-    fuenteNombre: "motofichas.com",
-    fuenteUrl: "https://www.motofichas.com/marcas/kawasaki",
+    fuenteNombre: "Motofichas (precio España 2026)",
+    fuenteUrl: "https://www.motofichas.com/marcas/kawasaki/ninja-zx-4r",
     analisisSlug: "kawasaki-ninja-zx-4r-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",

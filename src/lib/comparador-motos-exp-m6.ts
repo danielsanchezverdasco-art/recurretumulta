@@ -90,7 +90,11 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Chasis de doble cuna en acero 25CrMo4 actualizado para 2025",
       "Suspensiones WP con 300 mm de recorrido delante y detrás",
       "Homologada Euro5+: matriculable y usable a diario",
-      "Precio 9.955 €: la 250 2T austriaca más asequible del trío KTM/Husky/GasGas"
+      "Precio 9.955 €: la 250 2T austriaca más asequible del trío KTM/Husky/GasGas",
+      "Sin premezcla: la bomba de aceite electrónica dosifica la mezcla (media 60:1) y el cuadro avisa con un testigo cuando el nivel baja (dato oficial GasGas).",
+      "Inyección TBI en el cuerpo de aceleración: la centralita ajusta la mezcla según temperatura, presión y régimen, con una entrega limpia a cualquier altitud.",
+      "Chasis 2025 revisado para un paso por curva más preciso, manteniendo el eje de balance que reduce vibraciones y fatiga en las salidas largas.",
+      "Depósito transparente de 9 litros: el nivel de gasolina se comprueba de un vistazo sin abrir el tapón.",
     ],
     contras: [
       "Hay que hacer la mezcla de gasolina sin plomo 98 y aceite 2T",
@@ -98,24 +102,31 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Depósito de 9 litros: hay que planificar los repostajes",
       "Asiento a 956 mm de altura: no es para todos los públicos",
       "El 2T exige más atención al mantenimiento que un 4T",
-      "Sonoridad y humo del 2T, aunque cumple Euro5+"
+      "Sonoridad y humo del 2T, aunque cumple Euro5+",
+      "GasGas no declara la potencia: su ficha oficial no incluye cifra de CV al tratarse de una moto de competición, así que no se puede comparar en papel con rivales que sí la publican.",
+      "Depende totalmente de la batería (2 Ah) para la inyección y el arranque eléctrico: no hay patada de emergencia como en las 2T clásicas de carburador (MP Racing).",
+      "Hay que repostar aceite 2T aparte de la gasolina: la bomba electrónica evita la premezcla, pero hay que vigilar el nivel del depósito de aceite en cada salida (el cuadro avisa con un testigo).",
     ],
     curiosidades: [
       "Su diámetro por carrera es de 72 x 66,4 mm, cotas típicas de las 250 2T de competición",
       "El embrague es multidisco DS en baño de aceite con accionamiento hidráulico Braktec",
       "Monta cadena con junta en X de paso 520, pensada para durar en el barro",
-      "Comparte la base técnica con la KTM 250 EXC del mismo año"
+      "Comparte la base técnica con la KTM 250 EXC del mismo año",
+      "Su diámetro por carrera real es de 66,4 x 72 mm (dato de MP Racing): cotas de carrera larga, típicas de las 250 2T de enduro.",
+      "La mezcla media es de 60:1 gracias a la bomba electrónica: según GasGas, un depósito de aceite da para 'horas y horas' de pilotaje.",
+      "Para 2025 GasGas revisó toda la gama de enduro (con el regreso de la EC 125): la EC 250 recibió un chasis actualizado para mejorar el paso por curva (nota de prensa oficial GASGAS España).",
+      "El depósito es de polietileno transparente: el nivel de gasolina se ve sin quitar el tapón.",
     ],
-    imagen: "/media/motos/gasgas-ec-250-2t-2025-ficha-tecnica-precio-1.webp",
+    imagen: "/media/gasgas-ec-250-2t-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       { src: "/media/motos/gasgas-ec-250-2t-2025-ficha-tecnica-precio-2.webp", alt: "Detalle del chasis y suspensiones WP de la GasGas EC 250 2025", ancho: 1200, alto: 800 },
       { src: "/media/motos/gasgas-ec-250-2t-2025-ficha-tecnica-precio-3.webp", alt: "GasGas EC 250 2025 rodando por una pista forestal", ancho: 1200, alto: 800 }
     ],
     videoId: null,
     videoCanal: null,
-    fuenteNombre: "MP Racing (concesionario GasGas)",
-    fuenteUrl: "https://mpracing.es/gasgas-motos/100672-moto-gas-gas-ec-250-2t-2025.html",
-    analisisSlug: "gasgas-ec-250-2t-2025-ficha-tecnica-precio",
+    fuenteNombre: "GASGAS España (web oficial)",
+    fuenteUrl: "https://www.gasgas.com/es-es/models/enduro/2-tiempos/ec-250-2025.html",
+    analisisSlug: "gasgas-ec-250-2t-2025-analisis-opinion",
     mantenimientoDIY: {
       trucos: ["Sin premezcla: la bomba electrónica dosifica el aceite 2T (media 60:1); el testigo del cuadro avisa cuando el nivel baja (dato oficial GasGas)"]
     },
@@ -312,14 +323,18 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: [
+    ],
     pros: [
+      "Consumo real de ≈5 L/100 km (fuente: Revista Moto)",
       "Monocilíndrico de 692,7 cc con 74 CV: el supermotard grande por excelencia",
       "Parte ciclo de supermoto real: llantas 17\", frenos potentes y geometría agresiva",
       "Electrónica completa: modos de conducción, control de tracción y ABS en curva",
       "Matriculable y usable a diario con etiqueta C",
       "Base KTM 690 SMC R con el toque rojo GasGas y precio 11.449 €",
-      "Diversión máxima en carreteras de curvas y puertos de montaña"
+      "Diversión máxima en carreteras de curvas y puertos de montaña",
+      "Quickshifter de doble sentido de serie (Motosan)",
+      "Intervalos de mantenimiento cada 10.000 km, de los más largos de su segmento (GasGas)",
     ],
     contras: [
       "146 kg y 74 CV: exige respeto, no es una 125 con esteroides",
@@ -327,13 +342,17 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Postura y asiento pensados para atacar, no para viajar",
       "Neumáticos deportivos de 17\" caros y de corta duración",
       "El depósito limita la autonomía en ruta",
-      "Seguro a todo riesgo elevado por potencia y perfil"
+      "Seguro a todo riesgo elevado por potencia y perfil",
+      "A partir de 100 km/h la imagen de los retrovisores se vuelve borrosa por las vibraciones (Revista Moto)",
     ],
     curiosidades: [
       "Comparte motor y base con la KTM 690 SMC R, la reina de las supermotard",
       "Su nombre ES viene de 'Enduro Supermoto', la familia asfáltica de GasGas",
       "Es una de las pocas supermotard grandes homologadas Euro5 del mercado",
-      "El monocilíndrico de 692,7 cc es uno de los más grandes en producción"
+      "El monocilíndrico de 692,7 cc es uno de los más grandes en producción",
+      "El depósito de 13,5 L va integrado en el subchasis trasero autoportante de poliamida, que pesa solo 5,2 kg (GasGas)",
+      "Laia Sanz rodó con la ES 700 en una prueba de unos 1.600 km por el centro de España (Revista Moto)",
+      "Existe un mapa de motor específico A2 que la limita a 30 kW (gasgas.com)",
     ],
     imagen: "/media/motos/gasgas-es-700-2024-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -410,7 +429,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2T 2025",
     cilindradaCc: 125,
     categoria: "Enduro",
-    precioDesde: 9908,
+    precioDesde: null,
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -430,7 +449,9 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Horquilla KYB de 48 mm, la referencia japonesa en suspensiones",
       "Motor 2T con carácter racing heredado de la competición",
       "Estética italiana muy cuidada, distinta a las austriacas",
-      "Precio contenido (~9.908 €) para una 125 de este nivel"
+      "Precio de referencia de 9.990 € (modelo 2026; el PVP de la 2025 no es verificable)",
+      "Tres títulos mundiales Youth consecutivos (2021, 2022 y 2023) avalan la plataforma de la XE 125 (enduromagazine.com).",
+      "Bastidor 100 % de aluminio y suspensiones Kayaba SSS de 48 mm de cartucho cerrado: componentes de nivel racing de serie (enduromagazine.com).",
     ],
     contras: [
       "125 2T: hay que llevarla siempre en la zona buena del cuentavueltas",
@@ -438,24 +459,28 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Red de concesionarios Fantic más pequeña que la de KTM o Yamaha",
       "Autonomía justa para rutas largas",
       "Asiento alto y postura de competición",
-      "El 2T pequeño castiga el embrague en trialeras lentas"
+      "El 2T pequeño castiga el embrague en trialeras lentas",
+      "El motor 2T exige llevarla alta de vueltas y tirar del embrague en zonas lentas; el embrague es por cable y se nota algo rígido (enduromagazine.com).",
+      "El arranque es solo por pedal: no hay arranque eléctrico (enduromagazine.com).",
     ],
     curiosidades: [
       "Fantic es una marca italiana histórica resucitada que hoy compite en Moto2 y en enduro",
       "La XE 125 comparte filosofía con las 125 de competición del Italiano de Enduro",
       "KYB es el mismo proveedor de suspensiones de Yamaha",
-      "Su precio la sitúa como alternativa italiana a las 125 austriacas"
+      "Su precio la sitúa como alternativa italiana a las 125 austriacas",
+      "La base del motor es Yamaha, readaptada por los técnicos de Fantic para convertirla en una enduro 125 de competición (enduromagazine.com).",
+      "Para la MY25 estrenó radiadores más largos que mejoran la extracción de calor un 35 %, clave en trialeras de baja velocidad (enduromagazine.com).",
     ],
-    imagen: "/media/motos/fantic-xe-125-2025-ficha-tecnica-precio-1.webp",
+    imagen: "/media/fantic-xe-125-2025-ficha-tecnica-precio.webp",
     galeria: [
       { src: "/media/motos/fantic-xe-125-2025-ficha-tecnica-precio-2.webp", alt: "Detalle de la horquilla KYB de la Fantic XE 125 2025", ancho: 1200, alto: 800 },
       { src: "/media/motos/fantic-xe-125-2025-ficha-tecnica-precio-3.webp", alt: "Fantic XE 125 2025 en un tramo de enduro", ancho: 1200, alto: 800 }
     ],
-    videoId: "fV5GKTJdjlo",
-    videoCanal: "𝐁𝐀𝐓𝐓.",
-    fuenteNombre: "Fantic Motor España",
-    fuenteUrl: null,
-    analisisSlug: "fantic-xe-125-2025-ficha-tecnica-precio"
+    videoId: null,
+    videoCanal: null,
+    fuenteNombre: "enduromagazine.com (prueba de la gama Enduro 2025; PVP de referencia 9.990 € del modelo 2026 en su cobertura de la gama 2027)",
+    fuenteUrl: "https://enduromagazine.com/probamos-las-nuevas-fantic-xe-y-xe-f-enduro-2025/",
+    analisisSlug: "fantic-xe-125-2025-analisis-opinion"
   },
   {
     id: "fantic-xef-250-2025-ficha-tecnica-precio",
