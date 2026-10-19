@@ -3414,3 +3414,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/rieju-aventura-500-legend-2026-ficha-tecnica-precio-hunt1.webp | https://www.tecnimoto.com/22506-large_default/rieju-aventura-500-color-legen.jpg | Rieju / Tecnimoto | desconocida |
 | /media/rieju-aventura-500-legend-2026-ficha-tecnica-precio-hunt2.webp | https://motorcycles-lyon.store/wp-content/uploads/2023/02/rieju_aventura_500_legend-verte-600x479.jpg | Motorcycles Lyon | desconocida |
 | /media/rieju-aventura-500-legend-2026-ficha-tecnica-precio-hunt3.webp | https://www.enxuro.com/158226-thickbox_default/rieju-aventura-500i-euro5-legend-con-kit-3-maletas.jpg | Enxuro | desconocida |
+| /media/volkswagen-id7-tourer-2026-precio-ficha-tecnica-hunt1.webp | https://assets.volkswagen.com/is/image/volkswagenag/ID-7-Tourer-front?Zml0PWNyb3AsMSZmbXQ9d2VicCZxbHQ9Nzkmd2lkPTE5MjAmYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmNzgwOQ== | Volkswagen AG (media oficial) | desconocida |
+| /media/volkswagen-id7-tourer-2026-precio-ficha-tecnica-hunt2.webp | https://www.electrifying.com/files/OiVDimfEkF_GWRo7/VW%20ID7%2012.jpg | Electrifying.com | desconocida |
+| /media/volkswagen-id7-tourer-2026-precio-ficha-tecnica-hunt3.webp | https://www.vibilagare.se/public/styles/hidpi_800w/public/2026-06/vw-web.jpg?itok=OtCHi4R9 | Vi Bilägare | desconocida |
+| /media/camperiz-dacia-dokker-2026-precio-ficha-tecnica-hunt1.webp | https://www.camperiz.com/wp-content/uploads/2021/02/camperizacion-dacia-dokker-4-camperiz_14-1024x682.jpg | Camperiz (web oficial) | desconocida (imagen oficial del camperizador) |
+| /media/camperiz-dacia-dokker-2026-precio-ficha-tecnica-hunt2.webp | https://www.camperiz.com/wp-content/uploads/2021/02/camperizacion-dacia-dokker-4-camperiz_12.jpg | Camperiz (web oficial) | desconocida (imagen oficial del camperizador) |
+| /media/camperiz-dacia-dokker-2026-precio-ficha-tecnica-hunt3.webp | https://auto-mania.cz/wp-content/uploads/2021/07/dacia_dokker-camperiz-obytny_vuz-12.jpg | Auto-mania.cz / Camperiz | desconocida |
+| /media/macbor-xr1-125-2026-ficha-tecnica-precio-hunt1.webp | https://www.macbor.es/pics_fotoscarousel/24/macbor-montana-xr1-125-evo-nuevo-modelo-trail-2025-negro-1.png | Macbor (web oficial) | desconocida (imagen oficial de producto del fabricante) |
+| /media/macbor-xr1-125-2026-ficha-tecnica-precio-hunt2.webp | https://revistamotos.pt/wp-content/uploads/2025/04/MACBOR-Montana-XR1-125-EVO-vista-3-4-derecho-azul.png | Revista Motos PT | desconocida |
+| /media/macbor-xr1-125-2026-ficha-tecnica-precio-hunt3.webp | https://www.elmotero.es/media/elmotero/images/2025/05/05/2025050512452941259.jpg | ElMotero.es | desconocida |
+| /media/cupra-leon-vz-325-2025-precio-ficha-tecnica-hunt1.webp | https://www.cupra.com/en/brand/news/cars/cupra-introduces-leon-vz-limited-edition | Cupra (prensa oficial) | desconocida |
+| /media/cupra-leon-vz-325-2025-precio-ficha-tecnica-hunt2.webp | https://www.carwow.de/cupra/cupra-leon | Carwow | desconocida |
+| /media/cupra-leon-vz-325-2025-precio-ficha-tecnica-hunt3.webp | https://www.veloce.it/guida/cupra-leon-vz-lelettricita-giusto-per-le-candele-88256 | Veloce.it | desconocida |
+| /media/mercedes-sprinter-2025-hunt1.webp | https://www.omahamercedes.com/inventory/new-2025-mercedes-benz-sprinter-cargo-van-rear-wheel-drive-van-w1y5nbhyxst221194/ | Omaha Mercedes (concesionario) | desconocida |
+| /media/mercedes-sprinter-2025-hunt2.webp | https://www.autoweb.com/mercedes-benz/sprinter-passenger-van/2025 | Autobytel (imagen stock 2025) | desconocida |
+| /media/mercedes-sprinter-2025-hunt3.webp | https://www.mbofsantarosa.com/inventory/new-2025-mercedes-benz-sprinter-2500-cargo-144-wb-4matic%c2%ae-3d-cargo-van-w1w4nbvy8st228265/ | Mercedes-Benz of Santa Rosa (concesionario) | desconocida |
+| /media/mutt-mastiff-125-2026-ficha-tecnica-precio-hunt1.webp | https://www.stg.motorcyclenews.com/news/new-bikes/mutt-mastiff-125/ | MCN / Motor Cycle News | desconocida |
+| /media/mutt-mastiff-125-2026-ficha-tecnica-precio-hunt2.webp | https://www.mc-concept.fr/component/virtuemart/mutt-125-cc/mastiff-125-detail.html | MC Concept (distribuidor Mutt) | desconocida |
+| /media/mutt-mastiff-125-2026-ficha-tecnica-precio-hunt3.webp | https://muttmoto.ee/mastiff/ | Mutt Motorcycles (vía MuttMoto Estonia) | desconocida |
+| /media/pilote-v630j-2026-precio-ficha-tecnica-hunt1.webp | https://sales.ihmotorhomes.com/products/pilote-v630j-evidence-2026-model | IH Motorhomes | desconocida |
+| /media/pilote-v630j-2026-precio-ficha-tecnica-hunt2.webp | https://sales.ihmotorhomes.com/products/pilote-v630j-evidence-2026-model | IH Motorhomes | desconocida |
+| /media/pilote-v630j-2026-precio-ficha-tecnica-hunt3.webp | https://www.itransports.fr/tag/pilote-v630j/ | iTransports.fr | desconocida |
+| /media/volkswagen-caravelle-t7-2026-precio-ficha-tecnica-hunt1.webp | https://with-cars.com/tag/mpv/page/8/ | With Cars / Volkswagen (imagen de prensa New Caravelle) | desconocida |
+| /media/volkswagen-caravelle-t7-2026-precio-ficha-tecnica-hunt2.webp | https://autosverschueren.be/NL/te-koop/detail/Volkswagen/T7-Caravelle/7208 | Autos Verschueren (concesionario) | desconocida |
+| /media/volkswagen-caravelle-t7-2026-precio-ficha-tecnica-hunt3.webp | https://marktplatz.volkswagen.at/search/car/L-2026-0554724-AT/extra-equipment/1T9 | Volkswagen (configurador oficial) | desconocida |
