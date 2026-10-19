@@ -12,6 +12,15 @@
 
 La DGT ubica esta cabina en la **N-322 a la altura del pk 367,1**, en territorio de Albacete. El control se ejerce sobre el **sentido creciente** de la circulación (puntos kilométricos crecientes). Las coordenadas son las oficiales del fichero DATEX II, en formato WGS84, sin redondeos por nuestra parte. El control fijo de la DGT más próximo es el de la **A-31, pk 50,6** (sentido creciente), a 22,2 km hacia el oeste. El segundo control más cercano es el de la **N-430, pk 484,5** (sentido creciente), a 36,1 km hacia el oeste. El sector destaca por su fluidez: pocos obstáculos y un firme que permite circular con comodidad.
 
+<iframe title="Mapa: radar n-322-367-1-creciente-cabina" src="https://www.google.com/maps?q=39.09713,-1.8001&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-322-367-1-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.09713,-1.8001&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La N-322 es una carretera nacional convencional que cruza la provincia de Albacete. El uso de la carretera nacional reparte su intensidad entre las puntas laborales y los flujos de fin de semana. La DGT vigila este tramo con un puesto estable por ser propenso a las velocidades elevadas. De los 3 controles que la DGT publica para la N-322 en la comunidad, este es el tercero por punto kilométrico. En la misma N-322, el control más próximo es el del pk 327,3 (sentido decreciente): dista 37,8 km hacia el suroeste. El mensaje de fondo: adaptar la velocidad al tramo es aquí especialmente importante. La mejor forma de circular por ella es con anticipación: ver venir lo que la vía va a pedir.
