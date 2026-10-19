@@ -921,6 +921,8 @@ En esta rama no toques `FichasTecnicas.tsx`, `App.tsx` ni `shared-navbar.tsx`: l
 ---
 ## 2026-10-19 07:50 CEST · Grok → @Niky y @Merlín: FOTOS (INTERIOR + EXTERIOR) Y «CURIOSIDADES» EN TODAS LAS FICHAS (orden de Daniel)
 
+**ORDEN DIRECTA DE DANIEL: EMPEZAD YA MISMO, CON TODOS VUESTROS AGENTES A LA VEZ, SIN EXCEPCIÓN.**
+
 > **IMPORTANTE (Daniel): poned a TODOS vuestros agentes disponibles con las fichas de caravanas y autocaravanas. Ningún agente parado.** Que busquen fotos oficiales de interior y exterior, escriban las curiosidades y revisen y completen las fichas. Cada agente en su propia rama, con las mismas reglas de calidad. Sin inventar nada.
 
 **Lista de control:** `docs/seo/caravanas-fotos-interiores.csv`, en esta rama (columnas `slug, autor, n_ext, n_int, n_ext_oficial, n_int_oficial, cumple`). **Hoy solo pasan 2 de 75:** burstner-premio-life-480-ts y hobby-optima-ontour-edition-f-v65-ge. **La regla para pasar es tener al menos 2 fotos oficiales de interior y al menos 1 oficial de exterior** (prensa o web de la marca), y en total como mínimo portada + 3. La lista la iré actualizando. **Toda ficha que la incumpla se queda en noindex y fuera del listado hasta que se arregle.**
@@ -931,6 +933,8 @@ En esta rama no toques `FichasTecnicas.tsx`, `App.tsx` ni `shared-navbar.tsx`: l
 
 ### @Niky (solo para Niky)
 
+**ORDEN DIRECTA DE DANIEL: EMPEZAD YA MISMO, CON TODOS VUESTROS AGENTES A LA VEZ, SIN EXCEPCIÓN.**
+
 **IMPORTANTE (Daniel): TODOS tus agentes con esto, ninguno parado, cada uno en su rama.**
 1. **Lote actual, en `caravanas-final`:** tus 31 fichas del CSV. Hoy cumple 1 (premio-life-480-ts); 30 no. A cada una, hasta 2+ fotos oficiales de interior + 1+ oficial de exterior (portada + 3 como mínimo), en la máxima calidad, con su crédito. *Motivo: E-E-A-T, y el usuario de caravanas decide por el interior.*
 2. **«Curiosidades» en las 31**, con su fuente, según la regla de arriba.
@@ -939,6 +943,8 @@ En esta rama no toques `FichasTecnicas.tsx`, `App.tsx` ni `shared-navbar.tsx`: l
 5. Avisa en `cosa.md` con «@grok lote listo caravanas-final fotos-curiosidades» y rama@commit, con una tabla `slug | n_int_oficial | n_ext_oficial | curiosidad (fuente)`.
 
 ### @Merlín (solo para Merlín)
+
+**ORDEN DIRECTA DE DANIEL: EMPEZAD YA MISMO, CON TODOS VUESTROS AGENTES A LA VEZ, SIN EXCEPCIÓN.**
 
 **IMPORTANTE (Daniel): TODOS tus agentes con esto, ninguno parado, cada uno en su rama.**
 1. **Lote actual, en `merlin-autocaravanas-final`:** tus 44 fichas del CSV. Hoy cumple 1 (hobby-optima-ontour-edition-f-v65-ge); 43 no. A cada una, hasta 2+ fotos oficiales de interior + 1+ oficial de exterior (portada + 3 como mínimo), en la máxima calidad, con su crédito. *Motivo: E-E-A-T. «Sin concesionario» no basta: Daniel quiere fotos oficiales.*
@@ -957,4 +963,18 @@ Las capturas y `tsc -b` los paso yo al integrar. **Nada en `main` y nada en Netl
 @Merlín (solo para Merlín): las fotos (2+ interiores oficiales + 1+ exterior oficial) y las «Curiosidades» con fuente de las 44 fichas de `merlin-autocaravanas-final`, además del arreglo de McLouis, tienen que estar subidas y avisadas en `merlin.md` antes de las **08:00 UTC**. La ficha que a esa hora no cumpla se queda en noindex y fuera del listado.
 
 Avisad aunque el lote no esté completo: lo que esté listo a las 08:00 UTC lo reviso; el resto espera. El lote 2 sigue en paralelo, con las mismas reglas.
+— Grok
+
+**«QUE AFINEN TODO» (Daniel), para los dos, antes de las 08:00 UTC:** repasad cada detalle de cada ficha de caravana y autocaravana:
+- datos técnicos correctos y con fuente;
+- precios con `aprox` y país, o `null`, y ninguna cifra suelta en los textos;
+- galerías completas, con los créditos;
+- la curiosidad con su fuente;
+- textos en buen español y sin relleno;
+- unidades y formato iguales en todas (mm, kg, €, «≈» en lo aproximado);
+- 0 enlaces o imágenes rotos;
+- `tsc` = 0.
+
+@Niky (solo para Niky): «que afinen todo» se aplica a las 31 de `caravanas-final` y al lote 2.
+@Merlín (solo para Merlín): «que afinen todo» se aplica a las 44 (+6) de `merlin-autocaravanas-final` y al lote 2.
 — Grok
