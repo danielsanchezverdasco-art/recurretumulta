@@ -1062,3 +1062,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/ducati-diavel-v4-rs-2026-ficha-tecnica-precio-hunt1.webp | https://www.seastarsuperbikes.co.uk/wp-content/uploads/2025/09/MY26_DIAVELV4_RS_STUDIO-_4__UC843595_Mid-1200x800.jpg | Ducati (prensa oficial, vía Seastar Superbikes) | desconocida |
 | /media/ducati-diavel-v4-rs-2026-ficha-tecnica-precio-hunt2.webp | https://www.autopubli.ch/webkit/dis/inhalte/Ducati/modellimages/gruppenbilder/04%20-%20MY26_DIAVELV4_RS_STUDIO%20_6__UC843884_High.jpg | Ducati (prensa oficial, vía Autopubli) | desconocida |
 | /media/ducati-diavel-v4-rs-2026-ficha-tecnica-precio-hunt3.webp | https://paultan.org/image/2025/09/2026-Ducati-Diavel-V4-RS-14.jpg | Paul Tan's Automotive News | desconocida |
+| /media/seat-leon-sportstourer-15-tsi-2025-precio-ficha-tecnica-hunt1.webp | https://fleetpeople.es/wp-content/uploads/2025/02/SEAT-LEON-ST-FAMILIAR-2024-F-ARUS-9.jpg | Fleet People (foto de prensa SEAT) | desconocida |
+| /media/seat-leon-sportstourer-15-tsi-2025-precio-ficha-tecnica-hunt2.webp | https://fleetpeople.es/wp-content/uploads/2025/02/SEAT-LEON-ST-FAMILIAR-2024-F-ARUS-23.jpg | Fleet People (foto de prensa SEAT) | desconocida |
+| /media/seat-leon-sportstourer-15-tsi-2025-precio-ficha-tecnica-hunt3.webp | https://www.autodraft.cz/images/details/1920_15367-img-6408-jpg-9TSCkE.jpg | Auto Draft (foto de concesionario) | desconocida |
+| /media/evercross-a1-hunt1.webp | https://ebike-online.it/image/cache/catalog/ebike-store/prodotti/monopattini%20elettrici/EVERCROSS/-A1/ROSSO/A1-EVERCROSS-BLU-5%20copia-800x800.jpg | eBike-online.it (producto oficial Evercross) | desconocida |
+| /media/evercross-a1-hunt2.webp | https://gymstreet.fr/wp-content/uploads/2026/01/featured-test-de-la-trottinette-electrique-evercross-a1-puissance-et-autonomie-au-top.jpg | Gymstreet | desconocida |
+| /media/evercross-a1-hunt3.webp | https://contents.mediadecathlon.com/m17226610/k$b7e5a848dbd5303c54def2fd78fc4921/sq/trottinette-electrique-adulte-pliable-a1-rouge.jpg | Decathlon | desconocida |
+| /media/bmw-x2-sdrive20i-2026-precio-ficha-tecnica-hunt1.webp | https://uae.yallamotor.com/new-cars/bmw/x2/sdrive20i | YallaMotor / material de prensa BMW | desconocida |
+| /media/bmw-x2-sdrive20i-2026-precio-ficha-tecnica-hunt2.webp | https://www.viabovag.nl/auto/aanbod/bmw-x2-sdrive20i-vw3rg5w | ViaBovag.nl / anuncio de concesionario | desconocida |
+| /media/bmw-x2-sdrive20i-2026-precio-ficha-tecnica-hunt3.webp | https://www.autoaubaine.com/BMW-X2-c14188673.html | AutoAubaine / anuncio BMW X2 2026 | desconocida |
+| /media/bmw-xm-50e-2026-precio-ficha-tecnica-hunt1.webp | https://www.automobile.at/magazin/805580 | BMW (prensa oficial) / automobile.at | desconocida |
+| /media/bmw-xm-50e-2026-precio-ficha-tecnica-hunt2.webp | https://www.cargurus.com/research/articles/2026-bmw-xm-pricing-specs-release-date | BMW (prensa oficial) / CarGurus | desconocida |
+| /media/bmw-xm-50e-2026-precio-ficha-tecnica-hunt3.webp | https://www.conceptcarz.com | BMW (prensa oficial) / Conceptcarz | desconocida |
+| /media/gac-emkoo-2025-precio-ficha-tecnica-hunt1.webp | https://gacgroup.pl/modele/emkoo | GAC (web oficial Polonia) | desconocida |
+| /media/gac-emkoo-2025-precio-ficha-tecnica-hunt2.webp | https://autoxarg.com.ar/2025/11/18/los-vehiculos-hibridos-de-gac-motor-tienen-un-sistema-parecido-al-de-honda-el-primero-en-llegar-con-esta-motorizacion-es-el-gs4-emkoo/ | Autoxarg (blog del motor) | desconocida |
+| /media/gac-emkoo-2025-precio-ficha-tecnica-hunt3.webp | https://gacmotor.com.my/product/gac-emkoo/ | GAC Motor Malasia (web oficial del producto) | desconocida |
+| /media/byd-dolphin-2025-precio-ficha-tecnica-hunt1.webp | https://autotech.news/byd-launches-2025-dolphin-with-same-prices-and-longer-range/ | AutoTech News (autotech.news) | desconocida |
+| /media/byd-dolphin-2025-precio-ficha-tecnica-hunt2.webp | https://duitmap.my/kereta-ev/byd/dolphin/extended | Duimap (duitmap.my) | desconocida |
+| /media/byd-dolphin-2025-precio-ficha-tecnica-hunt3.webp | https://www.motoragora.com.br/byd-dolphin-2025/ | Motor Agora (motoragora.com.br) | desconocida |
+| /media/bmw-x5-xdrive50e-2026-precio-ficha-tecnica-hunt1.webp | https://www.asshop.pro/cars/2025-bmw-x5-xdrive50e-m-sport-pro/ | Asshop (concesionario) | desconocida |
+| /media/bmw-x5-xdrive50e-2026-precio-ficha-tecnica-hunt2.webp | https://www.cartecgroup.eu/bmw-x5-xdrive50e-6442/ | Cartec Group (concesionario) | desconocida |
+| /media/bmw-x5-xdrive50e-2026-precio-ficha-tecnica-hunt3.webp | https://proyecto-nova.autodeal.mx/anuncio/95428/bmw-x5-5p-xdrive-50e-phev-l630t-aut-2025-bmw-momentum-tlalnepantla-de-baz-estado-de-mexico-compra-de-autos-seminuevos | AutoDeal México (anuncio de ocasión) | desconocida |
+| /media/bmw-m5-berlina-2026-precio-ficha-tecnica-hunt1.webp | https://individual.bmw-m.com/nl-NL/brochure/G90-81FK-S0R | BMW M GmbH (material de prensa oficial BMW M Individual) | desconocida (material de prensa del fabricante) |
+| /media/bmw-m5-berlina-2026-precio-ficha-tecnica-hunt2.webp | https://individual.bmw-m.com/nl-NL/brochure/G90-81FK-S0R | BMW M GmbH (material de prensa oficial BMW M Individual) | desconocida (material de prensa del fabricante) |
+| /media/bmw-m5-berlina-2026-precio-ficha-tecnica-hunt3.webp | https://www.vehiclesizes.com/cars/bmw/m5/m5-g90-sedan-2025/images/ | VehicleSizes.com (galería 2025 BMW M5 G90) | desconocida |
