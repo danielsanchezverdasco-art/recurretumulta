@@ -20,9 +20,9 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
     modelo: "Galaxy E8",
     tipo: "Eléctrico",
     categoria: "Berlina",
-    precioDesde: 21550,
-    potenciaCv: 272,
-    autonomiaKm: 460, // WLTP confirmado por Geely para la versión Standard Range (km77)
+    precioDesde: 22107, // 16.58万 CNY (2024款 550km 后驱龙腾版, 指导价 autohome) / 7,5
+    potenciaCv: 272, // 200 kW (versión 2024款)
+    autonomiaKm: 550, // CLTC oficial (2024款, batería 62 kWh); Geely no publica cifra WLTP oficial
     maleteroL: 465,
     ceroCien: 6.0,
     velocidadMax: 190,
@@ -50,7 +50,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
       "Pantalla panorámica de 45 pulgadas y LiDAR opcional con arquitectura 800 V",
     ],
     contras: [
-      "No se vende en Europa (de momento): solo mercado chino",
+      "No se vende oficialmente en España: precio estimado desde tarifa oficial china (16.58万 yuan ≈ 22.107 €); sin garantía ni red de servicio",
       "La versión Performance de 360 kW de carga aún no está disponible en China",
       "Maletero de 465 L, justo para sus 5,01 m de largo",
       "Pantalla panorámica de 45 pulgadas de serie solo en versiones altas",
@@ -100,7 +100,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
     modelo: "Galaxy L6 EM-i",
     tipo: "Híbrido enchufable",
     categoria: "Berlina",
-    precioDesde: 11700,
+    precioDesde: 10640, // 7.98万 CNY (2025款 EM-i 60km 启航版, 指导价 autohome) / 7,5
     potenciaCv: 218, // 160 kW del motor eléctrico
     autonomiaKm: 140, // km eléctricos CLTC (versión 19,09 kWh)
     maleteroL: 570,
@@ -122,7 +122,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
     parNm: 262,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precioDesde", "ceroCien", "pesoKg", "cargaRapidaKw", "garantiaBateriaKm", "maleteroL"],
+    aprox: ["precioDesde", "autonomiaKm", "ceroCien", "pesoKg", "cargaRapidaKw", "garantiaBateriaKm", "maleteroL"],
     pros: [
       "Autonomía total declarada de hasta 2.000 km (CLTC): gasolina + eléctrico",
       "Versión de 140 km eléctricos CLTC con batería LFP de 19,09 kWh",
@@ -130,7 +130,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
       "Nuevo sistema híbrido NordThor EM-i con 1.5 atmosférico de alta eficiencia",
     ],
     contras: [
-      "Solo se vende en China: sin planes europeos confirmados",
+      "No se vende oficialmente en España: precio estimado desde tarifa oficial china (7.98万 yuan ≈ 10.640 €); sin garantía ni red de servicio",
       "0-100 km/h estimado de 7,7 s, sin cifras oficiales publicadas",
       "Carga rápida DC limitada (~22 kW)",
       "Interior más modesto que sus hermanos mayores (Starshine 8, E8)",
@@ -172,7 +172,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
     modelo: "Galaxy L7 EM-i",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: 15000,
+    precioDesde: 15440, // 11.58万 CNY (2025款 EM-i 115km 远航版, 指导价 autohome) / 7,5
     potenciaCv: 218, // 160 kW del motor eléctrico
     autonomiaKm: 115, // km eléctricos CLTC
     maleteroL: 528,
@@ -194,7 +194,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
     parNm: 262,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precioDesde", "ceroCien", "pesoKg", "cargaRapidaKw", "garantiaBateriaKm", "maleteroL", "consumo"],
+    aprox: ["precioDesde", "autonomiaKm", "ceroCien", "pesoKg", "cargaRapidaKw", "garantiaBateriaKm", "maleteroL", "consumo"],
     pros: [
       "115 km eléctricos CLTC y 1.240 km de autonomía total",
       "SUV familiar desde ~15.000 € en China con el nuevo NordThor EM-i",
@@ -202,7 +202,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
       "Interior espacioso con batalla de 2.785 mm y maletero de 528 L",
     ],
     contras: [
-      "Solo se vende en China: sin fecha de llegada a Europa",
+      "No se vende oficialmente en España: precio estimado desde tarifa oficial china (11.58万 yuan ≈ 15.440 €); sin garantía ni red de servicio",
       "Prestaciones modestas: 0-100 estimado de 8,2 s",
       "Carga rápida DC limitada (~22 kW)",
       "Diseño continuista, apenas cambia respecto al L7 original de 2023",
@@ -244,7 +244,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
     modelo: "Galaxy Xingyuan",
     tipo: "Eléctrico",
     categoria: "Urbano",
-    precioDesde: 9100,
+    precioDesde: 9307, // 6.98万 CNY (lanzamiento 10/2024, 指导价 autohome) / 7,5
     potenciaCv: 116, // versión 85 kW / 150 Nm
     autonomiaKm: 410, // CLTC (versión 40,16 kWh)
     maleteroL: 375,
@@ -266,7 +266,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
     parNm: 150,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["precioDesde", "ceroCien", "consumo", "pesoKg", "garantiaBateriaKm", "cargaRapidaKw"],
+    aprox: ["precioDesde", "autonomiaKm", "ceroCien", "consumo", "pesoKg", "garantiaBateriaKm", "cargaRapidaKw"],
     pros: [
       "El eléctrico más vendido de China en 2025: más de 465.000 unidades",
       "Desde ~9.100 € con batería CATL LFP de 40,16 kWh: precio imbatible",
@@ -274,7 +274,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
       "Maletero de 375 L + maletero delantero de 70 L, excepcional para su tamaño",
     ],
     contras: [
-      "En Europa se vende como Geely EX2, con disponibilidad aún limitada",
+      "No se vende oficialmente en España como Galaxy Xingyuan (en Europa se comercializa como Geely EX2): precio estimado desde tarifa oficial china (6.98万 yuan ≈ 9.307 €); sin garantía ni red de servicio",
       "Velocidad máxima de 135 km/h: solo para ciudad y carretera secundaria",
       "Prestaciones discretas: 116 CV y 0-100 estimado de 9,5 s",
       "Sin cifras WLTP publicadas: la autonomía de 410 km es CLTC (optimista)",
@@ -324,8 +324,8 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
     modelo: "Galaxy Starshine 8",
     tipo: "Híbrido enchufable",
     categoria: "Berlina",
-    precioDesde: 16350,
-    potenciaCv: 375, // versión EM-P: 120 kW (motor) + 160 kW (eléctrico) = 375 CV combinados
+    precioDesde: 16773, // 12.58万 CNY (2025款 60km EM-i 豪享版, 指导价 autohome) / 7,5
+    potenciaCv: 381, // versión EM-P: 280 kW combinados (1.5T 120 kW + motor 160 kW)
     autonomiaKm: 130, // km eléctricos CLTC (versión 18,4 kWh)
     maleteroL: 405,
     ceroCien: 6.49,
@@ -346,7 +346,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
     parNm: 605,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precioDesde", "pesoKg", "cargaRapidaKw", "garantiaBateriaKm", "velocidadMax", "consumo"],
+    aprox: ["precioDesde", "autonomiaKm", "pesoKg", "cargaRapidaKw", "garantiaBateriaKm", "velocidadMax", "consumo"],
     pros: [
       "Versión EM-P con 375 CV, 605 Nm y 0-100 en 6,49 s: la berlina PHEV más rápida de su precio",
       "Hasta 1.600 km de autonomía total con la batería de 18,4 kWh",
@@ -354,7 +354,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
       "Desde ~16.350 € en China: 57.741 ventas en 2025",
     ],
     contras: [
-      "Solo se vende en China: sin planes europeos confirmados",
+      "No se vende oficialmente en España: precio estimado desde tarifa oficial china (12.58万 yuan ≈ 16.773 €); sin garantía ni red de servicio",
       "Consumo en modo descarga (~4 l/100 km) por encima del EM-i puro",
       "Maletero de 405 L, justo para una berlina de 5 metros",
       "Pantalla táctil de 15,4 pulgadas como único mando: casi sin botones físicos",
@@ -404,8 +404,8 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
     modelo: "Galaxy A7 EM-i",
     tipo: "Híbrido enchufable",
     categoria: "Berlina",
-    precioDesde: 10250,
-    potenciaCv: 235, // 175 kW del motor eléctrico
+    precioDesde: 11973, // 8.98万 CNY (2025款 70km 豪享版, 指导价 autohome) / 7,5
+    potenciaCv: 238, // 175 kW del motor eléctrico
     autonomiaKm: 150, // km eléctricos CLTC (versión 18,4 kWh)
     maleteroL: 535,
     ceroCien: 7.1,
@@ -426,7 +426,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
     parNm: 262,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precioDesde", "cargaRapidaKw", "garantiaBateriaKm", "consumo"],
+    aprox: ["precioDesde", "autonomiaKm", "cargaRapidaKw", "garantiaBateriaKm", "consumo"],
     pros: [
       "Autonomía total declarada de 2.100 km (CLTC): la mayor de su segmento",
       "Desde ~10.250 € en China: berlina media por precio de utilitario",
@@ -434,7 +434,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
       "0-100 en 7,1 s y maletero de 535 L: equilibrio prestaciones/espacio",
     ],
     contras: [
-      "Solo se vende en China: sin fecha de llegada a Europa",
+      "No se vende oficialmente en España: precio estimado desde tarifa oficial china (8.98万 yuan ≈ 11.973 €); sin garantía ni red de servicio",
       "Carga rápida DC limitada (~36 kW)",
       "Motor 1.5 atmosférico de 82 kW: depende del apoyo eléctrico para brillar",
       "Acabados interiores más sencillos que el Starshine 8",
@@ -484,8 +484,8 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
     modelo: "Galaxy M9",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: 23900,
-    potenciaCv: 858, // 640 kW combinados en la versión tope
+    precioDesde: 24507, // 18.38万 CNY (2025款 100km 两驱启航版, 指导价 cheshi/autohome) / 7,5
+    potenciaCv: 870, // 640 kW combinados en la versión tope (870 PS)
     autonomiaKm: 210, // km eléctricos CLTC (versión 41,46 kWh)
     maleteroL: 328,
     ceroCien: 4.5,
@@ -506,7 +506,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
     parNm: 1165,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["precioDesde", "velocidadMax", "consumo", "garantiaBateriaKm", "cargaRapidaKw", "pesoKg"],
+    aprox: ["precioDesde", "autonomiaKm", "velocidadMax", "consumo", "garantiaBateriaKm", "cargaRapidaKw", "pesoKg"],
     pros: [
       "858 CV y 1.165 Nm en la versión tope: 0-100 en 4,5 s con 2,5 toneladas",
       "210 km eléctricos CLTC (172 km WLTP en Europa) con batería de 41,46 kWh",
@@ -514,7 +514,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
       "Probado por Edmunds en EE. UU.: 0-60 mph medidos en 4,2 s",
     ],
     contras: [
-      "Aún no se vende en Europa: lanzamiento global en curso desde septiembre de 2025",
+      "No se vende oficialmente en España: precio estimado desde tarifa oficial china (18.38万 yuan ≈ 24.507 €); sin garantía ni red de servicio",
       "Peso de hasta 2.530 kg: consumo en modo descarga elevado",
       "Precio de ~23.900 € (China): llegaría a Europa sensiblemente más caro",
       "Anchura de casi 2 m: complicado en ciudades europeas",
@@ -564,9 +564,9 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
     modelo: "Galaxy Zhanjian 700",
     tipo: "Híbrido enchufable",
     categoria: "Todoterreno",
-    precioDesde: 26000,
-    potenciaCv: 1113, // 830 kW combinados
-    autonomiaKm: 305, // km eléctricos CLTC
+    precioDesde: 25307, // 18.98万 CNY (指导价 oficial, lanzamiento 10/10/2026, rango 18.98万–37.98万) / 7,5
+    potenciaCv: 1129, // 2.0T 顶峰版: 1129 CV combinados (tres motores)
+    autonomiaKm: 305, // km eléctricos CLTC (versión 1.5T dos ruedas motrices, 47,14 kWh)
     maleteroL: null,
     ceroCien: 3.95,
     velocidadMax: null,
@@ -586,7 +586,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["precioDesde", "garantiaBateriaKm", "altoMm", "pesoKg"],
+    aprox: ["precioDesde", "autonomiaKm", "garantiaBateriaKm", "altoMm", "pesoKg"],
     pros: [
       "1.113 CV (830 kW) con tres motores eléctricos: el todoterreno híbrido más potente del mundo",
       "305 km eléctricos CLTC con batería CATL LFP de 47,14 kWh y arquitectura 800 V",
@@ -594,10 +594,10 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
       "43.900 reservas en la primera hora de preventa en China",
     ],
     contras: [
-      "En preventa en China desde septiembre de 2026: precios definitivos aún por anunciar (10/10/2026)",
-      "Solo mercado chino de momento: se estudia su llegada a Europa como 'Battleship 700'",
+      "No se vende oficialmente en España: precio estimado desde tarifa oficial china (18.98万 yuan ≈ 25.307 €); sin garantía ni red de servicio",
+      "Lanzado en China el 10/10/2026 (指导价 18.98万–37.98万 yuan): se estudia su llegada a Europa como 'Battleship 700'",
       "Casi 2,9 toneladas: peso que penaliza fuera del asfalto",
-      "Sin datos oficiales de consumo ni de carga rápida DC publicados",
+      "Sin cifra oficial de consumo publicada; carga rápida de pico 6C sin kW detallados",
     ],
     imagen: "/media/geely-galaxy-zhanjian-700-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/geely-galaxy-zhanjian-700-2026-precio-ficha-tecnica-oficial.webp",
