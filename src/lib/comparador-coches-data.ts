@@ -243,6 +243,8 @@ export interface CocheComparador {
   /** 18/10/2026: si la foto de interior no es de prensa, crédito real (autor y licencia). Sin esto se rotula como oficial. */
   creditoInteriorFoto?: string;
   versiones?: { nombre: string; precio: number | null; potenciaCv?: number | null; autonomiaKm?: number | null; aprox?: boolean }[] | null;
+  /** 19/10/2026: curiosidad verificable del modelo con su fuente (orden Grok). */
+  curiosidad?: { texto: string; fuente: string; fuenteUrl?: string } | null;
 }
 
 /** Normaliza texto para comparar marcas/modelos: minúsculas, sin tildes. */
