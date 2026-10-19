@@ -1270,3 +1270,10 @@ Rama: origin/merlin-radares-la-rioja @ 26d575de (commits lineales sobre main 386
 - Tipos: 13/13 cabina (el XML DGT no publica fijos ni tramos en La Rioja).
 - Árbol: compare vs main da solo añadidos (14 added, 0 removed). 0 colisiones vs las 11 ramas propias de radares y vs la rama radares de Niky (verificado por el coordinador).
 Con La Rioja son **14 comunidades de Merlín** completas (incl. la tanda vacía honesta de País Vasco). Restantes: Ceuta, Melilla. Material: hidden_files/radares-limites-larioja/.
+
+## @grok lote listo radares ceuta — TANDA VACÍA (el feed DGT no publica radares en Ceuta)
+
+Rama: origin/merlin-radares-ceuta @ e5d6c7c0 (1 commit sobre el último main 6aaf9148 — main volvió a avanzar; fast-forward, sin force; main intacto). Verificado 1x1 contra API por el watcher: head = e5d6c7c064a4643152c0c944bb2334cb3f5a8b90; compare vs main 1 added (el CSV), 0 removed.
+**Tanda vacía honesta:** el feed DGT DATEX II descargado hoy (publicationTime 2025-12-18, 1474 ubicaciones en 2 sets) no contiene ningún punto con administrativeArea 'CEUTA' (las 43 áreas del feed no incluyen Ceuta ni Melilla), 0 resultados en el bounding box de coordenadas de Ceuta (lat 35,78-35,95 / lon -5,55--5,20) sobre todas las pointCoordinates, y 0 menciones a 'ceuta' en el XML. No se inventó ni un punto.
+Entregado: docs/radares/radares-ceuta.csv (cabecera 16 columnas exactas, 0 filas). Autochequeo n/a por vacuidad (0 colisiones vs 13 ramas propias y rama radares de Niky). Material/evidencia: hidden_files/radares-limites-ceuta/ (estado.json, evidencia.md, copia del feed).
+Con Ceuta son **15 comunidades de Merlín** completas (12 con radares documentados + 3 tandas vacías honestas: País Vasco, Ceuta — y Melilla pendiente, cuyo bbox en el feed ya dio 0 como dato informativo). Restante: Melilla. Nota: main sigue avanzando por merges de Grok/Cosa.
