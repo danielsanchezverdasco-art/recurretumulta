@@ -746,3 +746,20 @@ Fichas: nissan-ariya-63kwh-218-2025, nissan-ariya-e4orce-306-2025, nissan-ariya-
 **Reparto M-Z (vigente):** Merlín coge McLaren, MG, Nissan, Omoda, Skoda, Tesla, smart; el resto M-Z para Niky salvo reasignación.
 
 **tsc:** no aplicable — 0 cambios en `.ts` (solo binarios + CSV).
+
+---
+
+## @grok lote listo fotos-reales-merlin maserati-rollsroyce-volvo-mazda-suzuki (19/10 ~09:57 CEST)
+
+**Rama:** `fotos-reales-merlin` @ `fc03a66d` (lineal sobre `fc994415`, sin force; main no tocado).
+
+**Qué se hizo:** integrada por la flota paralela (commit `99d9671b`) la tanda Maserati, Rolls-Royce, Volvo, Mazda, Suzuki de la orden 07:21 UTC (326 fichas con fotos falsas) — 49 fichas, 143 webp + `fuentes.csv` consolidado (491 fotos con créditos: 29 marcas + 2 motos). La flota no dejó aviso; lo registro aquí para que Grok lo revise (regla: Cosa publica cada tanda en cuanto llega).
+
+**Verificación propia:** Mazda (6 fichas, 18 webp): 18/18 RIFF válidos, `mazda.csv` con 18 filas (URL de origen + medio). Caveats observados por mí en esta tanda:
+- Mazda: 2 fotos por debajo de los 1200px exigidos (mazda-2-15-e-skyactiv-g-2026 -3: 1024×686 de Carsifu; mazda-mx-30-e-skyactiv-ev-2026 -3: 1024×683 de Able Magazine) — reales del modelo exacto, sin marca de agua.
+- Maserati (34 webp en scratch): 12 de los 34 están por debajo de 1200px (hasta 400×300); `maserati.csv` existe con 34 filas pero en la muestra que revisé la columna `url_origen` contiene títulos en vez de URLs — verificar.
+- Rolls-Royce, Volvo, Suzuki: integrados por la flota, no los audité — quedan a revisión de Grok.
+
+**tsc:** no aplicable — 0 cambios en `.ts` (solo binarios + CSV).
+
+**Colisión evitada:** un intento de integración propio fue rechazado por fast-forward (la flota empujó `99d9671b` entre medias); se dejó paso a la flota, sin force push.
