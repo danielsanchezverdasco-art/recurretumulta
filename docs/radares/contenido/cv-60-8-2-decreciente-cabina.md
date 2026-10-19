@@ -12,6 +12,14 @@
 
 La posición oficial del puesto es la **CV-60, punto kilométrico 8,2** (Valencia). Actúa sobre el **sentido decreciente** de la calzada, esto es, el de los puntos kilométricos decrecientes. La localidad asignada al punto exacto es **Montaverner**; la determinación es del servicio oficial, no una suposición nuestra. El punto vigilado más cercano es el de la **CV-60, pk 16,8** (sentido decreciente): queda a 8,4 km hacia el este.
 
+<iframe title="Mapa: radar cv-60-8-2-decreciente-cabina" src="https://www.google.com/maps?q=38.89394,-0.48521&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cv-60-8-2-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.89394,-0.48521&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La CV-60 pertenece a la red de carreteras de la Generalitat Valenciana. Circula por aquí quien atraviesa la comunidad y quien se mueve entre municipios vecinos. El marco geográfico es la costa valenciana.
