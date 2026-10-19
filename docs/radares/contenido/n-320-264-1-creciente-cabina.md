@@ -12,6 +12,15 @@
 
 Nos situamos en el **pk 264,1 de la N-320**, en plena provincia de Guadalajara. Mide la velocidad en el **sentido creciente**, el de los pk crecientes. La provincia —Guadalajara— es la que la DGT asigna al punto en su campo administrativeArea; el municipio no se publica. El control fijo de la DGT más próximo es el de la **N-320, pk 262,1** (sentido decreciente), a 2,0 km hacia el este. Le sigue en proximidad el de la **N-320, pk 259,2** (sentido decreciente), situado a 2,9 km hacia el este. La afluencia varía mucho por franjas: tranquila entre semana a mediodía, intensa en fines de semana.
 
+<iframe title="Mapa: radar n-320-264-1-creciente-cabina" src="https://www.google.com/maps?q=40.58212,-3.0855&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-320-264-1-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.58212,-3.0855&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La N-320 es una vía de la red estatal que recorre Guadalajara. El uso de la carretera nacional reparte su intensidad entre las puntas laborales y los flujos de fin de semana. Este punto figura en el dataset de radares fijos por ser proclive a las velocidades inadecuadas. De los 7 controles que la DGT publica para la N-320 en la comunidad, este es el tercero por punto kilométrico. En la misma N-320, el control más próximo es el del pk 262,1 (sentido decreciente): dista 2,0 km hacia el este. Circular por ella exige adaptar la marcha a cada circunstancia, más allá del límite genérico. La señalización de la vía es la guía principal: atenderla evita la mayoría de los problemas.
