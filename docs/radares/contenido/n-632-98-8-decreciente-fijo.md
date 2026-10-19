@@ -12,6 +12,14 @@
 
 El **pk 98,8 de la N-632**, en el Principado de Asturias, cuenta con un radar **fijo** que fiscaliza el **sentido decreciente**, rotulado por la DGT con destino **AVILÉS**: la dirección que conduce a la villa avilesina. El punto se localiza en el litoral centro-occidental del Principado, en el segmento de la nacional situado al oeste de Avilés, con el mar como vecino constante.
 
+<iframe title="Mapa: radar n-632-98-8-decreciente-fijo" src="https://www.google.com/maps?q=43.5543,-5.9429&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-632-98-8-decreciente-fijo" src="https://maps.google.com/maps?q=&layer=c&cbll=43.5543,-5.9429&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 Si nos atenemos a los destinos que la DGT atribuye a cada sentido, la kilometración de esta vía aumenta hacia el oeste; el sentido decreciente designa por tanto el itinerario de retorno al este, hacia Avilés.
 
 ## La carretera
