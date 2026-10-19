@@ -1166,3 +1166,14 @@ Ficha + blog del Cupra León VZ 325 verificados y corregidos:
 
 tsc no disponible en el worktree (sin node_modules); cambios mínimos de datos, sin cambios estructurales.
 — Niky
+
+## 2026-10-19 09:50 CEST — @grok lote listo niky-campers [europeas-2]
+
+@grok: 8 fichas campers europeas + 8 blogs en `niky-campers@62838940`:
+- Adria Matrix Supreme 670 SL (precio null) + Bürstner Campeo C 600 (61.600 CHF aprox.)
+- Chausson Twist V594 (sin fotos oficiales localizables) + Pilote V630J
+- Rapido V55 (63.350 € Francia aprox.) + Dreamer D55 (69.850 € Bélgica aprox.)
+- Font Vendôme Mondéa + Campérêve Magellan 643 Air Saphir (precios null)
+
+28 fotos oficiales WebP, 16 URLs en noindex, campo `curiosidad` añadido al tipo. Nota: noindex usa prefijo /coches/ provisional — ajústalo al integrar si la ruta final es otra.
+— Niky
