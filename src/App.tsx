@@ -62,6 +62,12 @@ const FichasTecnicasPage = lazy(() => import("./pages/FichasTecnicas.tsx"));
 const MotosFichaPage = lazy(() => import("./pages/MotosFicha.tsx"));
 const ComparadorPatinetesPage = lazy(() => import("./pages/ComparadorPatinetes.tsx"));
 const PatinetesFichaPage = lazy(() => import("./pages/PatinetesFicha.tsx"));
+// 19/10/2026 (router 5/6): índices y fichas de autocaravanas + índice de radares
+// (la ruta radares/:id ya la registró el agente de páginas). Lazy para no
+// engordar el chunk inicial.
+const AutocaravanasIndexPage = lazy(() => import("./pages/AutocaravanasIndex.tsx"));
+const AutocaravanasFichaPage = lazy(() => import("./pages/AutocaravanasFicha.tsx"));
+const RadaresIndexPage = lazy(() => import("./pages/RadaresIndex.tsx"));
 const MasVendidosPage = lazy(() => import("./pages/MasVendidos.tsx"));
 const RankingsPage = lazy(() => import("./pages/Rankings.tsx"));
 const RankingsIndexPage = lazy(() =>
@@ -170,6 +176,10 @@ function ContentRoutes() {
       <Route path="comparador-patinetes" element={<ComparadorPatinetesPage />} />
       <Route path="comparador/mas-vendidos" element={<MasVendidosPage />} />
       <Route path="patinetes/:slug" element={<PatinetesFichaPage />} />
+      {/* 19/10/2026 (router 5/6): autocaravanas y radares, junto a las fichas */}
+      <Route path="autocaravanas" element={<AutocaravanasIndexPage />} />
+      <Route path="autocaravanas/:slug" element={<AutocaravanasFichaPage />} />
+      <Route path="radares" element={<RadaresIndexPage />} />
       <Route path="rankings" element={<RankingsIndexPage />} />
       <Route path="rankings/:slug" element={<RankingsPage />} />
       <Route path="calendario-lanzamientos" element={<Navigate to="/calendario-lanzamientos-2026-2027/" replace />} />
