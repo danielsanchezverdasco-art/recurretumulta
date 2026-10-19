@@ -70192,6 +70192,25 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 8
   },
   {
+    "slug": "geely-record-ventas-2026-almussafes",
+    "title": "Geely vende 3 millones de coches en 2026 y mira a Almussafes",
+    "excerpt": "Geely supera los 3 millones de coches vendidos en 2026: récord con 1,79 millones electrificados y exportaciones +169 %. La mirada, en Ford Almussafes.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "locale": "es",
+    "heroSrc": "/media/geely-record-ventas-2026-hero.webp",
+    "heroAlt": "Geely Galaxy E5 eléctrico plateado, vista tres cuartos delantera en estudio",
+    "keywords": [
+      "geely ventas 2026",
+      "geely récord ventas",
+      "geely 3 millones coches",
+      "geely ford almussafes",
+      "geely exportaciones 2026",
+      "coches chinos ventas 2026"
+    ],
+    "readTime": 5
+  },
+  {
     "slug": "radical-sr1-xxr-2025-precio-ficha-tecnica",
     "title": "Radical SR1 XXR: 188 CV y 510 kg por 76.600 €",
     "excerpt": "Precio y ficha técnica del Radical SR1 XXR: 188 CV, 510 kg, motor RPE Gen5 de 1.340 cc y 0-100 en 3,0 s. El coche de carreras de entrada, desde 76.600 €.",

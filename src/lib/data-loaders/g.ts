@@ -56,6 +56,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "geely-monjaro-2025-precio-ficha-tecnica": () => import("../blog-posts-nuevos-c1.ts"),
     "geely-panda-mini-2026-precio-ficha-tecnica": () => import("../blog-posts-lote6.ts"),
     "geely-preface-2025-precio-ficha-tecnica": () => import("../blog-posts-nuevos-c1.ts"),
+    "geely-record-ventas-2026-almussafes": () => import("../blog-posts-radar-20261018.ts"),
     "geely-starray-em-i-2026-precio-ficha-tecnica": () => import("../blog-posts-geely-a.ts"),
     "genesis-g70-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "genesis-g80-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
