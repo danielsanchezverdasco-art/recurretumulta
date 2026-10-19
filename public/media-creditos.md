@@ -1472,3 +1472,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/gac-aion-rt-2025-precio-ficha-tecnica-hunt1.webp | https://www.gzdcars.com/car/aion-rt/ | GZDCars | desconocida |
 | /media/gac-aion-rt-2025-precio-ficha-tecnica-hunt2.webp | https://www.gzdcars.com/car/aion-rt-2/ | GZDCars | desconocida |
 | /media/gac-aion-rt-2025-precio-ficha-tecnica-hunt3.webp | https://ev.com/news/gac-aion-officially-launches-aion-rt-with-starting-price-at-rmb-119800 | EV.com | desconocida |
+| /media/tesla-model-y-7-plazas-2026-precio-ficha-tecnica-hunt1.webp | https://www.autoblog.gr/2025/06/11/i-tesla-epanaferei-tin-7thesia-epilogi-sto-model-y/ | Autoblog.gr (foto oficial Tesla) | desconocida |
+| /media/tesla-model-y-7-plazas-2026-precio-ficha-tecnica-hunt2.webp | https://www.whichev.net/2026/04/03/tesla-expands-model-y-line-up-with-new-seven-seat-configuration-for-uk-buyers/ | WhichEV | desconocida |
+| /media/tesla-model-y-7-plazas-2026-precio-ficha-tecnica-hunt3.webp | https://auto-live.fr/tesla-model-y-juniper-2025-production-europe/ | Auto-Live.fr | desconocida |
+| /media/ram-1500-ramcharger-2026-precio-ficha-tecnica-hunt1.webp | https://www.motortrend.com/news/2026-ram-ramcharger-tech-deep-dive/photos | MotorTrend (foto prensa Stellantis) | desconocida |
+| /media/ram-1500-ramcharger-2026-precio-ficha-tecnica-hunt2.webp | https://rpmweb.ca/actualites-et-chroniques/actualites/nouvelles/ram-confirme-certaines-donnees-du-ram-1500-ramcharger | RPM (foto prensa Stellantis) | desconocida |
+| /media/ram-1500-ramcharger-2026-precio-ficha-tecnica-hunt3.webp | https://rpmweb.ca/actualites-et-chroniques/actualites/nouvelles/ram-confirme-certaines-donnees-du-ram-1500-ramcharger | RPM (foto prensa Stellantis) | desconocida |
+| /media/wuling-hongguang-mini-ev-2025-precio-ficha-tecnica-hunt1.webp | https://wcevcar.com/en/car/wuling-hongguang-miniev-2025-new | Wancheng EV Car | desconocida |
+| /media/wuling-hongguang-mini-ev-2025-precio-ficha-tecnica-hunt2.webp | https://car2day.com/10-best-selling-nev-may-china/ | Car2Day | desconocida |
+| /media/wuling-hongguang-mini-ev-2025-precio-ficha-tecnica-hunt3.webp | https://www.carz.com.my/2026/01/geely-xingyuan-crowns-as-chinas-best-selling-nev-in-2025 | Carz Automedia Malaysia | desconocida |
+| /media/dongfeng-shine-2025-precio-ficha-tecnica-hunt1.webp | https://dongfengmotor.com.pl/modele/shine | Distribuidor oficial Dongfeng Polonia (prensa de marca) | desconocida |
+| /media/dongfeng-shine-2025-precio-ficha-tecnica-hunt2.webp | https://dev.dongfengmotor.ee/dongfeng/shine/ | Distribuidor oficial Dongfeng Estonia (prensa de marca) | desconocida |
+| /media/dongfeng-shine-2025-precio-ficha-tecnica-hunt3.webp | https://www.topspeed.sk/novinky/dongfeng-shine-ma-slovensku-cenu-firma-slubuje-auto-velkosti-octavie-s-cenovkou-dacie/23951/galeria/14946/8/ | TopSpeed.sk (prensa del motor, Eslovaquia) | desconocida |
+| /media/exeed-rx-c-dm-2025-precio-ficha-tecnica-hunt1.webp | https://chinaevpro.com/models/exeed-rx-c-dm | China EV Pro | desconocida |
+| /media/exeed-rx-c-dm-2025-precio-ficha-tecnica-hunt2.webp | https://www.bitauto.com/global/news/1001103716036.html | BitAuto Global (fotos oficiales) | desconocida |
+| /media/exeed-rx-c-dm-2025-precio-ficha-tecnica-hunt3.webp | https://www.bitauto.com/global/news/1001103716036.html | BitAuto Global (fotos oficiales) | desconocida |
+| /media/kaiyi-e5-2024-precio-ficha-tecnica-hunt1.webp | https://gdeichto.ru/auto/129257-kaiyi-e5 | gdeichto.ru | desconocida |
+| /media/kaiyi-e5-2024-precio-ficha-tecnica-hunt2.webp | https://www.carshop-164.ru/catalog/kaiyi/kaiyi_e5 | carshop-164.ru | desconocida |
+| /media/kaiyi-e5-2024-precio-ficha-tecnica-hunt3.webp | https://vta-auto.ru/upload/iblock/4e3/p1o42wj8lt046rj4ol3kh4sn6im9zfvz.png | vta-auto.ru | desconocida |
+| /media/wuling-starlight-2024-precio-ficha-tecnica-hunt1.webp | https://www.cevauto.com/wuling-starlight/ | cevauto.com | desconocida |
+| /media/wuling-starlight-2024-precio-ficha-tecnica-hunt2.webp | https://www.dailyrevs.com/cars/2024-wuling-starlight-advance-edition | DailyRevs | desconocida |
+| /media/wuling-starlight-2024-precio-ficha-tecnica-hunt3.webp | https://www.car250.com/wuling-starlight-phev-2024-50.html | car250.com | desconocida |
+| /media/exeed-rx-2025-precio-ficha-tecnica-hunt1.webp | https://www.ixbt.com/img//x780/n1/news/2025/5/0/91c13a19-f6d5-425d-adb9-761da30fce63_large.jpg | iXBT / PCNEWS.RU | desconocida |
+| /media/exeed-rx-2025-precio-ficha-tecnica-hunt2.webp | https://ymimg1.b8cdn.com/uploads/article/17261/pictures/13708756/1.webp | YallaMotor | desconocida |
+| /media/exeed-rx-2025-precio-ficha-tecnica-hunt3.webp | https://photobank.maximum.expert/photo/fotobankN/6a82dcb2e4a809001d59dbb4.jpg | Maximum Expert (fotobanco concesionario) | desconocida |
