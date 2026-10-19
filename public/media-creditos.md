@@ -1377,3 +1377,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/audi-a6-avant-2025-hunt1.webp | https://cdn.hiconsumption.com/wp-content/uploads/2025/03/2025-Audi-A6-Avant-0-Hero.jpg | hiconsumption.com | desconocida |
 | /media/audi-a6-avant-2025-hunt2.webp | https://digital.staff-capital.com/wp-content/uploads/audi-a6-avant-2025-02.webp | Staff Communities (staff-capital.com) | desconocida |
 | /media/audi-a6-avant-2025-hunt3.webp | https://cdn.hiconsumption.com/wp-content/uploads/2025/03/2025-Audi-A6-Avant-3-1000x667.jpg | hiconsumption.com | desconocida |
+| /media/volvo-xc60-b5-2025-precio-ficha-tecnica-hunt1.webp | https://preview.gitlab.fuel-digital.de/globalFiles/default/pdp/equipment_tabs/xc60.jpg | fuel-digital.de (Volvo dealer preview) | desconocida |
+| /media/volvo-xc60-b5-2025-precio-ficha-tecnica-hunt2.webp | https://images.autox.com/uploads/2022/10/Volvo-XC60-Platinum-Grey.jpg | autox.com | desconocida |
+| /media/volvo-xc60-b5-2025-precio-ficha-tecnica-hunt3.webp | https://www.newsauto.it/wp-content/uploads/2025/02/Volvo-XC60-2025-20-1024x683.jpg | newsauto.it | desconocida |
+| /media/deepal-s05-phev-2026-precio-ficha-tecnica-hunt1.webp | https://carselectric.gr/wp-content/uploads/2026/05/Deepal-S05-PHEV-exterior-silver-2-1920x1060.jpg | CarsElectric.gr | desconocida |
+| /media/deepal-s05-phev-2026-precio-ficha-tecnica-hunt2.webp | https://carselectric.gr/wp-content/uploads/2026/05/Deepal-S05-PHEV-interior-1920x1052.jpg | CarsElectric.gr | desconocida |
+| /media/deepal-s05-phev-2026-precio-ficha-tecnica-hunt3.webp | https://www.patentati.it/blog/foto-hd/deepal-s05-ultra-hybrid---posteriore.jpg?no-cache=1782130086 | Patentati.it | desconocida |
+| /media/denza-d9-dm-i-2026-precio-ficha-tecnica-hunt1.webp | https://www.motorbox.com/image/denza-d9-super-hybrid-dm-i/8/6/6/866726/866726-16x9-md.jpg | Motorbox | desconocida |
+| /media/denza-d9-dm-i-2026-precio-ficha-tecnica-hunt2.webp | https://autobuzz.my/wp-content/uploads/2026/03/2026-Denza-D9-Update-China-1.jpg | AutoBuzz | desconocida |
+| /media/denza-d9-dm-i-2026-precio-ficha-tecnica-hunt3.webp | https://vezess2.p3k.hu/app/uploads/2026/04/3-700x467.jpg | Vezess | desconocida |
+| /media/denza-n7-2024-precio-ficha-tecnica-hunt1.webp | https://cyber-motors.com.ua/image/catalog/cars/denza/denza n7/denza-n7-ext.jpg | Cyber Motors | desconocida |
+| /media/denza-n7-2024-precio-ficha-tecnica-hunt2.webp | https://taja.or.th/wp-content/uploads/2023/12/Denza-N7-02.jpeg | Taja | desconocida |
+| /media/denza-n7-2024-precio-ficha-tecnica-hunt3.webp | https://cyber-motors.com.ua/image/catalog/cars/denza/denza n7/denza-n7-int.jpg | Cyber Motors | desconocida |
+| /media/denza-d9-ev-2025-precio-ficha-tecnica-hunt1.webp | https://www.automaistv.com.br/novidades/byd-denza-z9-gt-d9-brasil-flash-charging/ | AutoMaisTV | desconocida |
+| /media/denza-d9-ev-2025-precio-ficha-tecnica-hunt2.webp | https://evautos25.de/denza-d9/ | evautos25.de | desconocida |
+| /media/denza-d9-ev-2025-precio-ficha-tecnica-hunt3.webp | https://top10visit22.blogspot.com/2026/03/denza-d9-luxury-electric-people-mover.html | CarExpert | desconocida |
+| /media/volkswagen-id-buzz-cargo-2025-hunt1.webp | https://www.volkswagenzentrumbari.it/v/n79242-volkswagen-id-buzz-id-buzz-cargopc-210-84post | Volkswagen Zentrum Bari (concesionario oficial) | desconocida |
+| /media/volkswagen-id-buzz-cargo-2025-hunt2.webp | https://www.autoo.com.br/galeria/kombi-eletrica-vw-idbuzz-e-revelada-com-versoes-de-passageiro-e-carga/ | Autoo.com.br | desconocida |
+| /media/volkswagen-id-buzz-cargo-2025-hunt3.webp | https://evtrader.com/nl-nl/occasions/volkswagen-id-buzz-cargo-808638568 | EVTrader | desconocida |
+| /media/denza-n8-dm-p-2024-precio-ficha-tecnica-hunt1.webp | https://st.arenaev.com/news/23/04/denza-n8-photos-and-specs-revealed-in-miit-filing/-828x414/arenaev_001.jpg | ArenaEV (foto MIIT) | desconocida |
+| /media/denza-n8-dm-p-2024-precio-ficha-tecnica-hunt2.webp | https://cdn-fs.d1ev.com/d/file/custom/256679/file/202303/1680141702297562.jpg!w1080 | D1EV (foto oficial de prensa) | desconocida |
+| /media/denza-n8-dm-p-2024-precio-ficha-tecnica-hunt3.webp | https://st.arenaev.com/news/23/05/byd-teases-first-interior-images-of-denza-n8-suv/inline/-1200/arenaev_003.jpg | ArenaEV (foto oficial BYD/Denza) | desconocida |
+| /media/denza-n8l-dm-2025-precio-ficha-tecnica-hunt1.webp | https://aicarglobal.com/product/denza-n8l/ | Aicar Global | desconocida |
+| /media/denza-n8l-dm-2025-precio-ficha-tecnica-hunt2.webp | https://www.headlightmag.com/2026-04-29-new-cars-worldwide-denza-n8l-flash-charging-edition/ | HeadlightMag | desconocida |
+| /media/denza-n8l-dm-2025-precio-ficha-tecnica-hunt3.webp | https://auto.ria.com/uk/newauto/auto-denza-n8l-2044781.html | AUTO.RIA / ECODRIVE AUTO | desconocida |
