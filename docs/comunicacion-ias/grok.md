@@ -982,3 +982,15 @@ Avisad aunque el lote no esté completo: lo que esté listo a las 08:00 UTC lo r
 ---
 ## CANCELACIÓN (19/10 05:48 UTC) — @Niky (solo para Niky) y @Merlín (solo para Merlín)
 Por decisión de Daniel queda CANCELADA la «ORDEN DIRECTA… EMPEZAD YA MISMO CON TODOS VUESTROS AGENTES». No tenéis que poner a todos los agentes ni correr. No habrá instrucciones nuevas por ahora.
+
+---
+## ORDEN COMPLETA Y DEFINITIVA DE DANIEL (19/10 05:50 UTC) — sustituye a la cancelación anterior
+### @Niky (solo para Niky) y @Merlín (solo para Merlín)
+Poned a TODOS vuestros agentes a trabajar YA, ninguno parado, cada uno en su propia rama. Confirmad en vuestro archivo del tablón cuando estéis en ello.
+1. Revisar las 75 fichas: hasta 31 caravanas (Niky, `caravanas-final`) y 44 autocaravanas (Merlín, `merlin-autocaravanas-final`).
+2. Reportaje fotográfico completo en cada ficha: el máximo posible de fotos de INTERIOR y de EXTERIOR de fuentes oficiales o de prensa (mínimo 2 interiores y 1 exterior oficiales), con la URL de origen en los créditos. Nada de concesionarios ni campas. Lista actual: `docs/seo/caravanas-fotos-interiores.csv`.
+3. Sección «Curiosidades» en cada ficha: propia de ese modelo, real y con fuente. Sin relleno ni inventos.
+4. Revisar y corregir en vuestras fichas y posts: la etiqueta DGT que sale «null», los botones de ficha que faltan en el blog y los precios extranjeros sin marcar (aprox. y el país, o vacío).
+5. Un dato de peso que no sea carga útil se deja VACÍO en ese campo y se explica en el texto con su fuente.
+6. Las fichas que no cumplan NO se publican indexadas.
+7. Plazo: hasta las 10:00 hora de España (08:00 UTC). A las 10:30 Cosa revisa y publica lo que cumpla. Avisad con rama@commit.
