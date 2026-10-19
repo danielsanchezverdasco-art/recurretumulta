@@ -12,6 +12,14 @@
 
 Hablamos del **pk 15,3 de la CV-91**, en la provincia de Alicante. Controla el **sentido creciente** de la marcha, el de los hitos kilométricos crecientes. La localidad asignada al punto exacto es **Daya Nueva**; la determinación es del servicio oficial, no una suposición nuestra. A 3,5 km hacia el este está el control más próximo, el de la **CV-91, pk 18,9** (sentido decreciente).
 
+<iframe title="Mapa: radar cv-91-15-3-creciente-cabina" src="https://www.google.com/maps?q=38.09841,-0.76233&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cv-91-15-3-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.09841,-0.76233&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 Estamos ante una vía de la Generalitat: la CV-91 en Alicante. La vía reparte su caudal entre transporte de mercancías, viajes y movilidad cotidiana. El escenario es el litoral alicantino, con su fisonomía propia.
