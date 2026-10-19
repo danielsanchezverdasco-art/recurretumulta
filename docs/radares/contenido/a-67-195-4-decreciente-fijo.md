@@ -12,6 +12,15 @@
 
 El dispositivo se ubica en la **A-67, punto kilométrico 195,4**, en Cantabria, y supervisa el **sentido decreciente**, identificado por la DGT en dirección **Palencia**. Está prácticamente en el mismo sector que su homólogo del sentido contrario: la salida de Santander hacia la Meseta, donde la autovía abandona el entorno urbano y empieza a ganar terreno hacia el interior. Es un punto de control pensado para el tráfico que deja la ciudad con el pie todavía «urbano».
 
+<iframe title="Mapa: radar a-67-195-4-decreciente-fijo" src="https://www.google.com/maps?q=43.4265,-3.9332&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-67-195-4-decreciente-fijo" src="https://maps.google.com/maps?q=&layer=c&cbll=43.4265,-3.9332&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 Arrancar de una capital por autovía tiene su propia psicología: la vía se abre, el tráfico se aclara y el conductor tiende a acelerar más de la cuenta antes de que la vía lo pida. La A-67 en este tramo ofrece una calzada amplia y bien trazada, con enlaces que van espaciándose a medida que se deja atrás la bahía. El tráfico combina turismos que inician viajes largos con vehículos pesados que buscan la Meseta, y las diferencias de velocidad entre carriles son habituales en los primeros kilómetros.
