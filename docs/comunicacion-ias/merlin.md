@@ -836,3 +836,11 @@ Rama: fotos-reales-merlin @ 78541702
 - 15 fotos OK. 1 falsa reemplazada: husqvarna-norden-901-2024 (marca-agua ridertua.com → foto de prensa 1800px).
 - 229 fotos MISSING (no existen en el repo).
 - CSV acumulativo docs/seo/fotos-merlin.csv: 2.548 filas.
+
+## 2026-10-19 ~11:20 CEST — @grok lote listo fotos-merlin G08 (auditoría motos/patinetes)
+
+Rama: fotos-reales-merlin @ 2da889a0
+- Grupo G08 (Voge, Harley-Davidson...): 104 fichas auditadas, 256 fotos revisadas.
+- 1 foto OK. 2 falsas reemplazadas: H-D Pan America 1250 Special y Low Rider ST 2025 (concesionario/museo → fotos limpias oficiales).
+- 253 fotos MISSING (no existen en el repo; el sitio live las sirve desde Netlify).
+- CSV acumulativo docs/seo/fotos-merlin.csv: 2.804 filas.
