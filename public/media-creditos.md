@@ -1496,3 +1496,24 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/exeed-rx-2025-precio-ficha-tecnica-hunt1.webp | https://www.ixbt.com/img//x780/n1/news/2025/5/0/91c13a19-f6d5-425d-adb9-761da30fce63_large.jpg | iXBT / PCNEWS.RU | desconocida |
 | /media/exeed-rx-2025-precio-ficha-tecnica-hunt2.webp | https://ymimg1.b8cdn.com/uploads/article/17261/pictures/13708756/1.webp | YallaMotor | desconocida |
 | /media/exeed-rx-2025-precio-ficha-tecnica-hunt3.webp | https://photobank.maximum.expert/photo/fotobankN/6a82dcb2e4a809001d59dbb4.jpg | Maximum Expert (fotobanco concesionario) | desconocida |
+| /media/renault-austral-mild-hybrid-160-2024-precio-ficha-tecnica-hunt1.webp | https://topelectricsuv.com/news/renault/2022-renault-kadjar-hybrid-e-tech | TopElectricSUV / prensa | desconocida |
+| /media/renault-austral-mild-hybrid-160-2024-precio-ficha-tecnica-hunt2.webp | https://www.autoo.com.br/galeria/renault-austral-chega-para-ser-o-rival-tecnologico-do-compass-na-europa/ | Autoo.com.br / prensa | desconocida |
+| /media/renault-austral-mild-hybrid-160-2024-precio-ficha-tecnica-hunt3.webp | https://gocar.be/nl/autonieuws/auto-test/test-renault-austral-e-tech-hybrid-trapje-hoger | Gocar.be / prensa | desconocida |
+| /media/audi-q5-sportback-2025-hunt1.webp | https://editorial.pxcrush.net/carsales/general/editorial/audi-q5-sportback-2.jpg | Carsales.com.au (foto de prensa Audi) | desconocida |
+| /media/audi-q5-sportback-2025-hunt2.webp | https://www.vicariousmag.com/wp-content/uploads/2025/04/2025-Audi-Q5-Sportback-front-cockpit.jpg | VicariousMag | desconocida |
+| /media/audi-q5-sportback-2025-hunt3.webp | https://editorial.pxcrush.net/carsales/general/editorial/audi-q5-sportback-7-tia4.jpg?width=1024&height=682 | Carsales.com.au (foto de prensa Audi) | desconocida |
+| /media/bmw-f-900-gs-2026-ficha-tecnica-precio-hunt1.webp | https://www.totalmotorcycle.com/wp-content/uploads/2025/07/2026-BMW-F900GS3-1200x800.jpg | Total Motorcycle (fotos de prensa BMW Motorrad) | desconocida |
+| /media/bmw-f-900-gs-2026-ficha-tecnica-precio-hunt2.webp | https://www.totalmotorcycle.com/wp-content/uploads/2025/07/2026-BMW-F900GS5-1200x800.jpg | Total Motorcycle (fotos de prensa BMW Motorrad) | desconocida |
+| /media/bmw-f-900-gs-2026-ficha-tecnica-precio-hunt3.webp | https://www.totalmotorcycle.com/wp-content/uploads/2025/07/2026-BMW-F900GS6-1200x800.jpg | Total Motorcycle (fotos de prensa BMW Motorrad) | desconocida |
+| /media/jmev-yi-2025-precio-ficha-tecnica-hunt1.webp | https://cleantechnica.com/wp-content/uploads/2024/04/Renault-Jangling-Yi-Exterior-Press-Image-800x484.jpeg | CleanTechnica (imagen de prensa) | desconocida |
+| /media/jmev-yi-2025-precio-ficha-tecnica-hunt2.webp | https://jmev.bg/wp-content/uploads/2025/03/car-4.png | JMEV Bulgaria (distribuidor oficial) | desconocida |
+| /media/jmev-yi-2025-precio-ficha-tecnica-hunt3.webp | https://xn--e1aoebbbhfghfrp.xn--p1ai/images/53/b3/53b37e7af83b813fd4c4823763154bcc_back.webp | Catálogo distribuidor RU (fotobanco) | desconocida |
+| /media/exeed-sterra-et-2025-precio-ficha-tecnica-hunt1.webp | https://aicarglobal.com/wp-content/uploads/slider/cache/036e54d43a28602fa28480e322e2c3ad/Exeed-Sterra-ET-Details-2.jpg | aicarglobal.com | desconocida |
+| /media/exeed-sterra-et-2025-precio-ficha-tecnica-hunt2.webp | https://www.car250.com/wp-content/uploads/2024/04/EXEED-STERRA-ET-SUV-25-888x500.jpg | car250.com | desconocida |
+| /media/exeed-sterra-et-2025-precio-ficha-tecnica-hunt3.webp | https://acnews.blob.core.windows.net/imgnews/paragraph/NPAZ_1e52373c64bf472e9368cfe605c419c9.webp | Autocosmos Chile | desconocida |
+| /media/exeed-et5-2026-precio-ficha-tecnica-hunt1.webp | https://rucars.ru/upload/image/mag/Exeed/ET5/Exeed-ET5-official-right-side.jpg | Exeed (prensa oficial) / rucars.ru | desconocida |
+| /media/exeed-et5-2026-precio-ficha-tecnica-hunt2.webp | https://allautoinfo.org/uploads/posts/2025-11/thumbs/bbc21dae8f_exeed-et5-2.webp | allautoinfo.org | desconocida |
+| /media/exeed-et5-2026-precio-ficha-tecnica-hunt3.webp | https://aicarglobal.com/wp-content/uploads/slider/cache/c16e01112fb7ec937c8c234c28e53869/Exeed-ET5-Details-12.jpg | aicarglobal.com | desconocida |
+| /media/skywell-et5-2026-precio-ficha-tecnica-hunt1.webp | https://kolesa-uploads.ru/r/880x/655128d3-923b-48a6-be8b-b3f6a3ca0f82/skywell-15.jpg | kolesa.ru | desconocida |
+| /media/skywell-et5-2026-precio-ficha-tecnica-hunt2.webp | https://kolesa-uploads.ru/r/880x/639655ab-39eb-4a26-b4de-5364d357d836/skywell-27.jpg | kolesa.ru | desconocida |
+| /media/skywell-et5-2026-precio-ficha-tecnica-hunt3.webp | https://fotos.quecochemecompro.com/skywell-et5/skywell-b11-vista-trasera-carretera.jpg?size=750x400 | quecochemecompro.com | desconocida |
