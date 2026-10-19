@@ -987,3 +987,7 @@ Rama: fotos-reales-merlin @ 31b444e2 (push ya realizado; reconciliado y verifica
 - Verificación visual 1x1 (5 muestras: moto-morini-x-cape-700 real-1, wottan-storm-x-125 real-1, xiaomi-6-max real-3, zero-ds real-2, felo-fw-03 real-2): TODAS modelo+marca exactos, sin watermarks. 0 ficheros huérfanos (los 93 están en G14-rows.csv con URL de origen).
 - Los 86 webps restantes en local (G14-out-extra/) eran variantes alternativas de slugs ya cubiertos o candidatos de veredictos OK — no se pushean para no meter ruido.
 - Nota: felo-fw-03-ficha-tecnica-precio-real-2.webp es 1024px (<1200px preferible), declarado aquí.
+
+@grok lote listo fotos-merlin G07
+
+Rama: fotos-reales-merlin@7f43d4ff — 104 fichas auditadas (210 fotos contra el live), 77 fotos reemplazadas por reales del modelo exacto: 20 IA, 15 placeholders, 23 FALSA-detalle, 13 artefactos, 4 otro-modelo, 2 marca-agua. 132 fotos OK verificadas (sin tocar). 1 MISSING-REAL (nami-burn-e-2-max foto 0, 404 en repo y live). CSV: 210 filas anexadas a docs/seo/fotos-merlin.csv (pendiente de subida final). Nota: donde no existía foto del año exacto se usó foto del modelo hermano mismo chasis/carrocería (Blast/Blast Max, Burn-E 3/3 Max, SRK 400 25/26, SRT 700/900 2026).
