@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 42.621925, -4.770684
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.621925,-4.770684)
 
+<iframe title="Mapa: radar cl-615-72-1-creciente-cabina" src="https://www.google.com/maps?q=42.621925,-4.770684&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cl-615-72-1-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.621925,-4.770684&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** Origen de cada dato, sin que tengas que creernos a ciegas: CL-615, pk 72,09, sentido creciente y coordenadas 42.621925, -4.770684 figuran en el XML oficial de radares fijos de la DGT (portal NAP, DATEX II, edición 2026-10-19). El dataset no publica límite por punto ni municipio: el 90 km/h es el genérico del art. 48 del RGC para convencionales, y Saldaña se asignó con CartoCiudad, geocodificador oficial del IGN/CNIG.
 
 ## Una autonómica vigilada
