@@ -12,6 +12,15 @@
 
 El aparato de medición se halla en la **A-67, punto kilométrico 195,7**, dentro de Cantabria, y registra la velocidad del **sentido creciente**, el que la DGT denomina dirección **Santander**. Es el tramo de aproximación final a la capital cántabra: la autovía ya huele a ciudad y el paisaje combina naves logísticas, barrios periféricos y los primeros desvíos hacia el centro. Quien circula por aquí suele llevar horas de viaje o volver del trabajo; en ambos casos, la atención tiende a decaer justo en estos últimos kilómetros.
 
+<iframe title="Mapa: radar a-67-195-7-creciente-fijo" src="https://www.google.com/maps?q=43.4285,-3.9306&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-67-195-7-creciente-fijo" src="https://maps.google.com/maps?q=&layer=c&cbll=43.4285,-3.9306&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 En este punto la A-67 funciona como una vía rápida periurbana: la calzada se ensancha, las salidas se multiplican y el tráfico se vuelve nervioso por los continuos cambios de carril. Por aquí pasa de todo —turismos que terminan viajes largos, furgonetas de reparto, autobuses y camiones que buscan el puerto para embarcar hacia el Reino Unido—. La mezcla de ritmos es el principal factor de riesgo: conviven conductores que conocen cada salida con otros que van mirando los carteles por primera vez.
