@@ -8,11 +8,21 @@
 //   4.400 kg, Fiat Ducato 2.2 180 CV automático); la tabla técnica oficial de
 //   buerstner.com documenta la gama Lyseo I con valores idénticos para el 736 G.
 //   Bürstner no publica PVP para España (precioDesde=null).
+// Verif V4-02 (19/10/2026): las 4 fotos del Lyseo I 726 G revisadas visualmente 1x1
+// (modelo exacto según anuncio api.caravana.de, sin IA, sin marcas de agua, sin
+// rótulos ni pegatinas; la placa «Lyseo I 726 G» es de exposición del concesionario).
+// Oficiales del fabricante solo en galería JS/Mediacenter (no extraíbles sin sesión
+// interactiva); se mantienen las fotos actuales.
 // Fuentes: buerstner.com (páginas oficiales FR/NL/CH del Campeo TD), anuncios de concesionario
 // para la motorización. Verificado el 19/10/2026.
 // Notas honestas: Bürstner no publica PVP oficial para España → precioDesde=null. La marca no
 // publica carga útil → cargaUtilKg=null. Las fotos son de una unidad real del modelo exacto
 // (galería de concesionario en caraworld.de, sin marcas de agua), no fotos oficiales de prensa.
+// Verif V4-02 (19/10/2026): fotos revisadas 1x1 visualmente (modelo exacto, sin IA,
+// sin marcas de agua, sin rótulos de concesionario ni pegatinas de precio). Fotos oficiales
+// del fabricante existen (galería JS de buerstner.com y Mediacenter de prensa con acceso
+// de invitado) pero no son extraíbles sin sesión interactiva; se mantienen las fotos
+// actuales, limpias y del modelo exacto.
 
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
