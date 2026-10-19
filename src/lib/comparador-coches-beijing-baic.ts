@@ -324,7 +324,7 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 229,
       notas:
-        "Estimación con 15.000 km/año, uso mayoritario en modo eléctrico y todo riesgo. Precio convertido desde yuanes.",
+        "Estimación con 15.000 km/año, uso mayoritario en modo eléctrico y todo riesgo. Precio convertido desde yuanes (204.800 ¥ ≈ 26.624 €, edición Yuanjing Zhixing lanzada el 13/11/2025, CarNewsChina).",
       estimado: true,
     },
     galeria: [
@@ -490,7 +490,7 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 220,
       notas:
-        "Estimación con 15.000 km/año, consumo estimado de 7,5 l/100 km y todo riesgo. Precio convertido desde yuanes.",
+        "Estimación con 15.000 km/año, consumo estimado de 7,5 l/100 km y todo riesgo. Precio convertido desde yuanes (104.900 ¥ ≈ 13.637 €, precio base en China, Wikipedia).",
       estimado: true,
     },
     galeria: [
@@ -528,12 +528,12 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
     modelo: "X5",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: 10200,
+    precioDesde: 9984,
     potenciaCv: 150,
     autonomiaKm: null,
     versiones: [
-      { nombre: "1.5T 150 CV base (China) · 76.800 ¥", precio: 10200, aprox: true },
-      { nombre: "1.5T 150 CV tope de gama (China) · 119.800 ¥", precio: 15900, aprox: true },
+      { nombre: "1.5T 150 CV base (China) · 76.800 ¥", precio: 9984, aprox: true },
+      { nombre: "1.5T 150 CV tope de gama (China) · 119.800 ¥", precio: 15574, aprox: true },
     ],
     maleteroL: null,
     ceroCien: null,
@@ -542,7 +542,7 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "Uno de los SUV más baratos de su tamaño: desde unos 10.200 € en China",
+      "Uno de los SUV más baratos de su tamaño: desde unos 10.000 € en China",
       "Motor 1.5 turbo de 150 CV y 210 Nm con cambio manual de 6 marchas o CVT",
       "Formato compacto de 4,48 metros, fácil de aparcar",
       "Mecánica sencilla y barata de mantener (motor Mitsubishi 4A91)",
@@ -577,7 +577,7 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
       mantenimientoAnual: 260,
       costeMensualTotal: 205,
       notas:
-        "Estimación con 15.000 km/año, consumo estimado de 7 l/100 km y todo riesgo. Precio convertido desde yuanes (76.800 ¥ ≈ 10.200 €).",
+        "Estimación con 15.000 km/año, consumo estimado de 7 l/100 km y todo riesgo. Precio convertido desde yuanes (76.800 ¥ ≈ 9.984 €).",
       estimado: true,
     },
     galeria: [
@@ -669,7 +669,7 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 130,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio convertido desde yuanes.",
+        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio convertido desde yuanes (155.800 ¥ ≈ 20.254 €, precio de lanzamiento en China, CarNewsChina).",
       estimado: true,
     },
     galeria: [
@@ -752,7 +752,7 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
       mantenimientoAnual: 260,
       costeMensualTotal: 136,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio convertido desde yuanes.",
+        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio convertido desde yuanes (176.800 ¥ ≈ 22.984 €, precio de lanzamiento en China, CarNewsChina).",
       estimado: true,
     },
     galeria: [
@@ -835,7 +835,7 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
       mantenimientoAnual: 240,
       costeMensualTotal: 122,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio convertido desde yuanes.",
+        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio convertido desde yuanes (131.800 ¥ ≈ 17.134 €, MSRP en China).",
       estimado: true,
     },
     galeria: [
@@ -918,7 +918,7 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
       mantenimientoAnual: 240,
       costeMensualTotal: 119,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio convertido desde yuanes.",
+        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio convertido desde yuanes (109.800 ¥ ≈ 14.274 €, MSRP en China).",
       estimado: true,
     },
     galeria: [

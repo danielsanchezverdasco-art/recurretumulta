@@ -40,7 +40,7 @@ export const COCHES_DELAGE: CocheComparador[] = [
       "Declarada como la experiencia más cercana a un F1 de calle",
     ],
     contras: [
-      "Precio de 2,18 millones de euros, al alcance de muy pocos",
+      "Precio aproximado de 2,18 millones de euros (2,3 M$ según SoyMotor), al alcance de muy pocos",
       "Solo 30 unidades previstas: disponibilidad prácticamente nula",
       "Consumo y emisiones de un V12 atmosférico de 7,6 litros",
       "Sin red comercial ni de servicio convencional",
@@ -124,7 +124,7 @@ export const COCHES_DELAGE: CocheComparador[] = [
     ],
     contras: [
       "90 CV menos que el GT (1.010 frente a 1.100 CV)",
-      "Mismo precio astronómico: 2,18 millones de euros",
+      "Mismo precio astronómico: aprox. 2,18 millones de euros (2,3 M$ según SoyMotor)",
       "Enfoque de circuito: menos polivalente que el GT en carretera",
       "Marca sin red comercial ni de servicio convencional",
       "Disponibilidad casi nula por la producción limitadísima",
