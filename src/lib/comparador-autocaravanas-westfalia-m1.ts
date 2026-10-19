@@ -26,9 +26,9 @@ export const AUTOCARAVANAS_WESTFALIA_M1: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/westfalia-columbus-600d-2026-precio-ficha-tecnica-oficial.webp",
+    imagen: "/media/westfalia-columbus-600d-2026-precio-ficha-tecnica-ext.webp",
     imagenOficial:
-      "/media/westfalia-columbus-600d-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/westfalia-columbus-600d-2026-precio-ficha-tecnica-ext.webp",
     imagenInteriorOficial:
       "/media/westfalia-columbus-600d-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
@@ -65,7 +65,7 @@ export const AUTOCARAVANAS_WESTFALIA_M1: Autocaravana[] = [
     opiniones: [],
     galeria: [
       {
-        src: "/media/westfalia-columbus-600d-2026-precio-ficha-tecnica-oficial.webp",
+        src: "/media/westfalia-columbus-600d-2026-precio-ficha-tecnica-ext.webp",
         alt: "Westfalia Columbus 600 D, vista lateral",
         ancho: 1200,
         alto: 800,
@@ -73,6 +73,18 @@ export const AUTOCARAVANAS_WESTFALIA_M1: Autocaravana[] = [
       {
         src: "/media/westfalia-columbus-600d-2026-precio-ficha-tecnica-interior.webp",
         alt: "Interior del Westfalia Columbus 600 D, cama transversal",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/westfalia-columbus-600d-2026-precio-ficha-tecnica-interior2.webp",
+        alt: "Interior del Westfalia Columbus 600D, segunda vista",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/westfalia-columbus-600d-2026-precio-ficha-tecnica-detalle.webp",
+        alt: "Cama trasera del Westfalia Columbus 600D",
         ancho: 1200,
         alto: 800,
       },

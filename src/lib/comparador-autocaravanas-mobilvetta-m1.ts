@@ -24,9 +24,9 @@ export const AUTOCARAVANAS_MOBILVETTA_M1: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/mobilvetta-k-yacht-tekno-line-86-2026-precio-ficha-tecnica-oficial.webp",
+    imagen: "/media/mobilvetta-k-yacht-tekno-line-86-2026-precio-ficha-tecnica-ext.webp",
     imagenOficial:
-      "/media/mobilvetta-k-yacht-tekno-line-86-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/mobilvetta-k-yacht-tekno-line-86-2026-precio-ficha-tecnica-ext.webp",
     imagenInteriorOficial:
       "/media/mobilvetta-k-yacht-tekno-line-86-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
@@ -63,7 +63,7 @@ export const AUTOCARAVANAS_MOBILVETTA_M1: Autocaravana[] = [
     opiniones: [],
     galeria: [
       {
-        src: "/media/mobilvetta-k-yacht-tekno-line-86-2026-precio-ficha-tecnica-oficial.webp",
+        src: "/media/mobilvetta-k-yacht-tekno-line-86-2026-precio-ficha-tecnica-ext.webp",
         alt: "Mobilvetta K-Yacht Tekno Line 86, vista frontal integral",
         ancho: 1200,
         alto: 800,
@@ -71,6 +71,18 @@ export const AUTOCARAVANAS_MOBILVETTA_M1: Autocaravana[] = [
       {
         src: "/media/mobilvetta-k-yacht-tekno-line-86-2026-precio-ficha-tecnica-interior.webp",
         alt: "Interior de la Mobilvetta K-Yacht Tekno Line 86, salón face-to-face",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/mobilvetta-k-yacht-tekno-line-86-2026-precio-ficha-tecnica-interior2.webp",
+        alt: "Interior del Mobilvetta K-Yacht Tekno Line 86, segunda vista",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/mobilvetta-k-yacht-tekno-line-86-2026-precio-ficha-tecnica-detalle.webp",
+        alt: "Interior del Mobilvetta K-Yacht Tekno Line 86",
         ancho: 1200,
         alto: 800,
       },

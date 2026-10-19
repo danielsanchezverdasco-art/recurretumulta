@@ -26,9 +26,9 @@ export const AUTOCARAVANAS_FONTVENDOME_M1: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/font-vendome-mondea-2026-precio-ficha-tecnica-oficial.webp",
+    imagen: "/media/font-vendome-mondea-2026-precio-ficha-tecnica-ext.webp",
     imagenOficial:
-      "/media/font-vendome-mondea-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/font-vendome-mondea-2026-precio-ficha-tecnica-ext.webp",
     imagenInteriorOficial:
       "/media/font-vendome-mondea-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
@@ -65,7 +65,7 @@ export const AUTOCARAVANAS_FONTVENDOME_M1: Autocaravana[] = [
     opiniones: [],
     galeria: [
       {
-        src: "/media/font-vendome-mondea-2026-precio-ficha-tecnica-oficial.webp",
+        src: "/media/font-vendome-mondea-2026-precio-ficha-tecnica-ext.webp",
         alt: "Font Vendôme Mondéa, vista lateral del camper",
         ancho: 1200,
         alto: 800,
@@ -73,6 +73,18 @@ export const AUTOCARAVANAS_FONTVENDOME_M1: Autocaravana[] = [
       {
         src: "/media/font-vendome-mondea-2026-precio-ficha-tecnica-interior.webp",
         alt: "Interior del Font Vendôme Mondéa, salón y cama",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/font-vendome-mondea-2026-precio-ficha-tecnica-interior2.webp",
+        alt: "Cama de techo del Font Vendome Mondéa",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/font-vendome-mondea-2026-precio-ficha-tecnica-detalle.webp",
+        alt: "Cama del Font Vendome Mondéa",
         ancho: 1200,
         alto: 800,
       },

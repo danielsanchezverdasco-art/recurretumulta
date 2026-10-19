@@ -28,9 +28,9 @@ export const AUTOCARAVANAS_GIOTTILINE_M1: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/giottiline-siena-322-2026-precio-ficha-tecnica-oficial.webp",
+    imagen: "/media/giottiline-siena-322-2026-precio-ficha-tecnica-ext.webp",
     imagenOficial:
-      "/media/giottiline-siena-322-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/giottiline-siena-322-2026-precio-ficha-tecnica-ext.webp",
     imagenInteriorOficial:
       "/media/giottiline-siena-322-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
@@ -67,7 +67,7 @@ export const AUTOCARAVANAS_GIOTTILINE_M1: Autocaravana[] = [
     opiniones: [],
     galeria: [
       {
-        src: "/media/giottiline-siena-322-2026-precio-ficha-tecnica-oficial.webp",
+        src: "/media/giottiline-siena-322-2026-precio-ficha-tecnica-ext.webp",
         alt: "Giottiline Siena 322, vista lateral de la perfilada",
         ancho: 1200,
         alto: 800,
@@ -75,6 +75,18 @@ export const AUTOCARAVANAS_GIOTTILINE_M1: Autocaravana[] = [
       {
         src: "/media/giottiline-siena-322-2026-precio-ficha-tecnica-interior.webp",
         alt: "Interior del Giottiline Siena 322, salón y dormitorio",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/giottiline-siena-322-2026-precio-ficha-tecnica-interior2.webp",
+        alt: "Interior del Giottiline Siena 322",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/giottiline-siena-322-2026-precio-ficha-tecnica-detalle.webp",
+        alt: "Detalle interior del Giottiline Siena 322",
         ancho: 1200,
         alto: 800,
       },

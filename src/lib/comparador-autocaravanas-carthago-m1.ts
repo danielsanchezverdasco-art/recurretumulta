@@ -26,9 +26,9 @@ export const AUTOCARAVANAS_CARTHAGO_M1: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-oficial.webp",
+    imagen: "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-ext.webp",
     imagenOficial:
-      "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-ext.webp",
     imagenInteriorOficial:
       "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
@@ -80,7 +80,7 @@ Para quién es: la C-Tourer I 148 LE es para quien busca una integral premium al
     opiniones: [],
     galeria: [
       {
-        src: "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-oficial.webp",
+        src: "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-ext.webp",
         alt: "Carthago C-Tourer I 148 LE, vista frontal integral",
         ancho: 1200,
         alto: 800,
@@ -88,6 +88,18 @@ Para quién es: la C-Tourer I 148 LE es para quien busca una integral premium al
       {
         src: "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-interior.webp",
         alt: "Interior del Carthago C-Tourer I 148 LE, camas gemelas",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-interior2.webp",
+        alt: "Salón del Carthago C-Tourer I 148 LE, vista cenital",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-detalle.webp",
+        alt: "Cocina del Carthago C-Tourer I 148 LE",
         ancho: 1200,
         alto: 800,
       },

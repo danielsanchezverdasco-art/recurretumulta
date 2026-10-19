@@ -26,9 +26,9 @@ export const AUTOCARAVANAS_ROLLERTEAM_M1: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/roller-team-auto-roller-746-2026-precio-ficha-tecnica-oficial.webp",
+    imagen: "/media/roller-team-auto-roller-746-2026-precio-ficha-tecnica-ext.webp",
     imagenOficial:
-      "/media/roller-team-auto-roller-746-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/roller-team-auto-roller-746-2026-precio-ficha-tecnica-ext.webp",
     imagenInteriorOficial:
       "/media/roller-team-auto-roller-746-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
@@ -65,7 +65,7 @@ export const AUTOCARAVANAS_ROLLERTEAM_M1: Autocaravana[] = [
     opiniones: [],
     galeria: [
       {
-        src: "/media/roller-team-auto-roller-746-2026-precio-ficha-tecnica-oficial.webp",
+        src: "/media/roller-team-auto-roller-746-2026-precio-ficha-tecnica-ext.webp",
         alt: "Roller Team Auto-Roller 746, vista lateral con capuchina",
         ancho: 1200,
         alto: 800,
@@ -73,6 +73,18 @@ export const AUTOCARAVANAS_ROLLERTEAM_M1: Autocaravana[] = [
       {
         src: "/media/roller-team-auto-roller-746-2026-precio-ficha-tecnica-interior.webp",
         alt: "Interior del Roller Team Auto-Roller 746, salón trasero en U",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/roller-team-auto-roller-746-2026-precio-ficha-tecnica-interior2.webp",
+        alt: "Interior del Roller Team Auto Roller 746",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/roller-team-auto-roller-746-2026-precio-ficha-tecnica-detalle.webp",
+        alt: "Detalle del Roller Team Auto Roller 746",
         ancho: 1200,
         alto: 800,
       },

@@ -26,9 +26,9 @@ export const AUTOCARAVANAS_FRANKIA_M1: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-oficial.webp",
+    imagen: "/media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-ext.webp",
     imagenOficial:
-      "/media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-ext.webp",
     imagenInteriorOficial:
       "/media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
@@ -65,7 +65,7 @@ export const AUTOCARAVANAS_FRANKIA_M1: Autocaravana[] = [
     opiniones: [],
     galeria: [
       {
-        src: "/media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-oficial.webp",
+        src: "/media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-ext.webp",
         alt: "Frankia NEO I 7 GDK, vista frontal de la integral",
         ancho: 1200,
         alto: 800,
@@ -73,6 +73,18 @@ export const AUTOCARAVANAS_FRANKIA_M1: Autocaravana[] = [
       {
         src: "/media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-interior.webp",
         alt: "Interior del Frankia NEO I 7 GDK, salón y dormitorio",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-interior2.webp",
+        alt: "Salón del Frankia Neo I 7 GDK",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/frankia-neo-i-7-gdk-2026-precio-ficha-tecnica-detalle.webp",
+        alt: "Dormitorio del Frankia Neo I 7 GDK",
         ancho: 1200,
         alto: 800,
       },

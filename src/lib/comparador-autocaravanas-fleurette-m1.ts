@@ -27,9 +27,9 @@ export const AUTOCARAVANAS_FLEURETTE_M1: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/fleurette-baxter-68-lmc-2026-precio-ficha-tecnica-oficial.webp",
+    imagen: "/media/fleurette-baxter-68-lmc-2026-precio-ficha-tecnica-ext.webp",
     imagenOficial:
-      "/media/fleurette-baxter-68-lmc-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/fleurette-baxter-68-lmc-2026-precio-ficha-tecnica-ext.webp",
     imagenInteriorOficial:
       "/media/fleurette-baxter-68-lmc-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
@@ -66,7 +66,7 @@ export const AUTOCARAVANAS_FLEURETTE_M1: Autocaravana[] = [
     opiniones: [],
     galeria: [
       {
-        src: "/media/fleurette-baxter-68-lmc-2026-precio-ficha-tecnica-oficial.webp",
+        src: "/media/fleurette-baxter-68-lmc-2026-precio-ficha-tecnica-ext.webp",
         alt: "Fleurette Baxter 68 LMC, vista lateral",
         ancho: 1200,
         alto: 800,
@@ -74,6 +74,18 @@ export const AUTOCARAVANAS_FLEURETTE_M1: Autocaravana[] = [
       {
         src: "/media/fleurette-baxter-68-lmc-2026-precio-ficha-tecnica-interior.webp",
         alt: "Interior de la Fleurette Baxter 68 LMC, cama central",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/fleurette-baxter-68-lmc-2026-precio-ficha-tecnica-interior2.webp",
+        alt: "Salón del Florium Baxter 68 LMC",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/fleurette-baxter-68-lmc-2026-precio-ficha-tecnica-detalle.webp",
+        alt: "Cocina del Florium Baxter 68 LMC",
         ancho: 1200,
         alto: 800,
       },

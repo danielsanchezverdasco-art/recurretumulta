@@ -29,9 +29,9 @@ export const AUTOCARAVANAS_EURAMOBIL_M1: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica-oficial.webp",
+    imagen: "/media/euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica-ext.webp",
     imagenOficial:
-      "/media/euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica-ext.webp",
     imagenInteriorOficial:
       "/media/euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
@@ -68,7 +68,7 @@ export const AUTOCARAVANAS_EURAMOBIL_M1: Autocaravana[] = [
     opiniones: [],
     galeria: [
       {
-        src: "/media/euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica-oficial.webp",
+        src: "/media/euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica-ext.webp",
         alt: "Eura Mobil Integra Line GT IL 726 EF, vista frontal integral",
         ancho: 1200,
         alto: 800,
@@ -76,6 +76,18 @@ export const AUTOCARAVANAS_EURAMOBIL_M1: Autocaravana[] = [
       {
         src: "/media/euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica-interior.webp",
         alt: "Interior de la Eura Mobil Integra Line GT IL 726 EF, salón cara a cara",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica-interior2.webp",
+        alt: "Salón del Eura Mobil Integra Line GT IL 726 EF",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica-detalle.webp",
+        alt: "Dormitorio del Eura Mobil Integra Line GT IL 726 EF",
         ancho: 1200,
         alto: 800,
       },

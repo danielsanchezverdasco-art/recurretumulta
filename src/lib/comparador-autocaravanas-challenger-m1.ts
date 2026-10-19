@@ -25,9 +25,9 @@ export const AUTOCARAVANAS_CHALLENGER_M1: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/challenger-v114-start-edition-2026-precio-ficha-tecnica-oficial.webp",
+    imagen: "/media/challenger-v114-start-edition-2026-precio-ficha-tecnica-ext.webp",
     imagenOficial:
-      "/media/challenger-v114-start-edition-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/challenger-v114-start-edition-2026-precio-ficha-tecnica-ext.webp",
     imagenInteriorOficial:
       "/media/challenger-v114-start-edition-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
@@ -81,7 +81,7 @@ Para quién es: la V114 Start Edition es para quien quiere estrenar camper nueva
     opiniones: [],
     galeria: [
       {
-        src: "/media/challenger-v114-start-edition-2026-precio-ficha-tecnica-oficial.webp",
+        src: "/media/challenger-v114-start-edition-2026-precio-ficha-tecnica-ext.webp",
         alt: "Challenger V114 Start Edition, vista lateral",
         ancho: 1200,
         alto: 800,
@@ -89,6 +89,18 @@ Para quién es: la V114 Start Edition es para quien quiere estrenar camper nueva
       {
         src: "/media/challenger-v114-start-edition-2026-precio-ficha-tecnica-interior.webp",
         alt: "Interior de la Challenger V114 Start Edition, salón delantero",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/challenger-v114-start-edition-2026-precio-ficha-tecnica-interior2.webp",
+        alt: "Cama trasera del Challenger V114 Start Edition",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/challenger-v114-start-edition-2026-precio-ficha-tecnica-detalle.webp",
+        alt: "Cabina del Challenger V114 Start Edition",
         ancho: 1200,
         alto: 800,
       },
