@@ -34,4 +34,4 @@ El norte de Navarra exige atención: niebla en los valles, lluvia frecuente y fi
 
 - XML oficial de radares de la DGT (DATEX II, portal NAP): https://nap.dgt.es/datex2/dgt/PredefinedLocationsPublication/radares/content.xml — verificado el 2026-10-19; aporta vía, pk, sentido y coordenadas.
 - Reglamento General de Circulación, artículo 48 (Real Decreto 1428/2003): límite genérico de 90 km/h por tratarse de carretera nacional convencional; manda la señalización de la vía.
-- CartoCiudad (IGN/CNIG): municipio, Baztán (Navarra), código INE pendiente de confirmación.
+- CartoCiudad (IGN/CNIG): municipio Baztán (Navarra), código INE 31050.
