@@ -3768,3 +3768,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/skoda-enyaq-rs-2026-precio-ficha-tecnica-hunt1.webp | https://autorepublika.com/wp-content/uploads/2025/05/9TbM5eMiWq.jpg | Autorepublika (blog del motor) | desconocida |
 | /media/skoda-enyaq-rs-2026-precio-ficha-tecnica-hunt2.webp | https://electriccarsreport.com/wp-content/uploads/2025/05/Skoda-Enyaq-RS.jpg | Electric Cars Report (blog del motor) | desconocida |
 | /media/skoda-enyaq-rs-2026-precio-ficha-tecnica-hunt3.webp | https://img.myve.bg/f/news/b/64/9352f9c5d0ee319ff49e063a9daa2a55.jpeg | myve.bg (blog del motor) | desconocida |
+| /media/bmw-f-900-xr-2025-ficha-tecnica-precio-hunt1.webp | https://ridermagazine.com/wp-content/uploads/2024/11/2025-BMW-F-900-XR-Preview-5.jpg | Rider Magazine (blog del motor) | desconocida |
+| /media/bmw-f-900-xr-2025-ficha-tecnica-precio-hunt2.webp | https://www.visordown.com/sites/default/files/2024-11/P90579153_highRes_the-new-bmw-f-900-xr.jpg?width=1600 | BMW Motorrad (foto de prensa, vía Visordown) | desconocida |
+| /media/bmw-f-900-xr-2025-ficha-tecnica-precio-hunt3.webp | https://www.motortravel.it/uploads/2/7/9/1/27911427/my2025-bmw-f900xr-17_1.jpg | Motortravel.it (blog del motor) | desconocida |
+| /media/turboant-m10-hunt1.webp | https://cdn.shopify.com/s/files/1/0103/7054/7793/products/M10_01_1cfa1c89-ae75-4ab8-85de-033b1c172943_1680x1680.jpg?v=1669276941 | TurboAnt (foto oficial de producto) | desconocida |
+| /media/turboant-m10-hunt2.webp | https://cdn.shopify.com/s/files/1/0103/7054/7793/products/M10_1_fa2aac94-9de0-4d7e-a599-ff72804f7764_1680x1680.jpg?v=1678439488 | TurboAnt (foto oficial de producto) | desconocida |
+| /media/turboant-m10-hunt3.webp | https://scooter.guide/wp-content/uploads/2023/10/0e75c073-d877-4e4b-9687-d17c6369c99b.png | Scooter Guide (blog de patinetes) | desconocida |
+| /media/bmw-c-400-gt-2025-ficha-tecnica-precio-hunt1.webp | https://2wo.gr/images/News/2024/October/BMW-scooters-2025/BMW-C400GT-2025_4.jpg | 2wo.gr (foto oficial BMW Motorrad) | desconocida |
+| /media/bmw-c-400-gt-2025-ficha-tecnica-precio-hunt2.webp | https://www.thrustzone.com/wp-content/uploads/2024/10/2025-BMW-C-400-GT-And-X-Get-Subtle-Updates-And-Accessories-1-scaled.jpg | ThrustZone (foto oficial BMW Motorrad) | desconocida |
+| /media/bmw-c-400-gt-2025-ficha-tecnica-precio-hunt3.webp | https://2wo.gr/images/News/2024/October/BMW-scooters-2025/BMW-C400GT-2025_7.jpg | 2wo.gr (foto oficial BMW Motorrad) | desconocida |
+| /media/bmw-ix1-xdrive30-2026-precio-ficha-tecnica-hunt1.webp | https://www.cartecgroup.dev/app/uploads/2026/04/1775044055VEHICLE-VIEW-030-BMW-iX1-xDrive30-1775043868312-1024x614.png | Cartec Group | desconocida |
+| /media/bmw-ix1-xdrive30-2026-precio-ficha-tecnica-hunt2.webp | https://www.fleet.be/wp-content/uploads/2025/09/P90479839_highRes_bmw-ix1-xdrive30-09--1536x1012.jpg | BMW (foto de prensa) vía Fleet.be | desconocida |
+| /media/bmw-ix1-xdrive30-2026-precio-ficha-tecnica-hunt3.webp | https://www.autoblog.nl/files/2023/03/BMW-iX1-xDrive30-19-1600x1200.jpg | Autoblog.nl | desconocida |
+| /media/lancia-gamma-2026-precio-ficha-tecnica-hunt1.webp | https://cloudfront-us-east-1.images.arcpublishing.com/crain/3KLR2ZF6SVCSNGV7KHG2BKNKQM.png | Automotive News Europe | desconocida |
+| /media/lancia-gamma-2026-precio-ficha-tecnica-hunt2.webp | https://www.motorisumotori.live/wp-content/uploads/2026/06/lancia-gamma-2026--768x512.jpg | MotoriSumotori | desconocida |
+| /media/lancia-gamma-2026-precio-ficha-tecnica-hunt3.webp | https://www.actu-automobile.com/wp-content/uploads/2026/05/Lancia-Gamma-2026_-1.webp | Actu-Automobile | desconocida |
+| /media/skoda-enyaq-coupe-85-2026-precio-ficha-tecnica-hunt1.webp | https://images.carexpert.com.au/resize/960/-/cms/v1/media/2025-09-2026-skoda-enyaq-coupe-85-sportline-7.jpg | CarExpert | desconocida |
+| /media/skoda-enyaq-coupe-85-2026-precio-ficha-tecnica-hunt2.webp | https://images.carexpert.com.au/resize/960/-/cms/v1/media/2025-09-2026-skoda-enyaq-coupe-85-sportline-2.jpg | CarExpert | desconocida |
+| /media/skoda-enyaq-coupe-85-2026-precio-ficha-tecnica-hunt3.webp | https://images.carexpert.com.au/resize/1920/-/app/uploads/2025/09/2026-Skoda-Enyaq-Coupe-85-Sportline-17.jpg | CarExpert | desconocida |
+| /media/turboant-x7-hunt1.webp | https://www.bikefolded.com/wp-content/uploads/2020/02/turboant-x7-scooter-2.jpeg | BikeFolded | desconocida |
+| /media/turboant-x7-hunt2.webp | https://es.gizmodo.com/app/uploads/2020/05/vckzb8wclu9o68039psj.jpg | Gizmodo en Español | desconocida |
+| /media/turboant-x7-hunt3.webp | https://scooter.guide/wp-content/uploads/2024/08/turboant-x7-maz.webp | Scooter.Guide | desconocida |
+| /media/bmw-i4-m50-xdrive-2026-precio-ficha-tecnica-hunt1.webp | https://images.dailyrevs.com/0000/v3/BMW/662a1c6e094c1f5f385cff64/2025-i4-m50-xdrive-g26-bmw-9yxnsp7777a0wql8o778hfp.jpeg | BMW (foto de prensa oficial) vía DailyRevs | desconocida |
+| /media/bmw-i4-m50-xdrive-2026-precio-ficha-tecnica-hunt2.webp | https://images.dailyrevs.com/0000/v3/BMW/662a1c6e094c1f5f385cff64/2025-i4-m50-xdrive-g26-bmw-9yyptp7777a0hyzrrvwm7x7.jpeg | BMW (foto de prensa oficial) vía DailyRevs | desconocida |
+| /media/bmw-i4-m50-xdrive-2026-precio-ficha-tecnica-hunt3.webp | https://images.dailyrevs.com/0000/v3/BMW/662a1c6e094c1f5f385cff64/2025-i4-m50-xdrive-g26-bmw-9yjn9i0w3p7pcbl7d.jpeg | BMW (foto de prensa oficial) vía DailyRevs | desconocida |
