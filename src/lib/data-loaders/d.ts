@@ -96,7 +96,6 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "denza-z9s-2026-precio-ficha-tecnica": () => import("../blog-posts-denza-a.ts"),
     "descubre-las-nuevas-medidas-de-la-dgt-para-octubre-uso-obligatorio-de-guantes-y-calzado-para-motoristas-fin-de-exenciones-del-cinturon-y-como-recurrir-multas": () => import("../blog-posts-db.ts"),
     "detector-radar-vs-avisador-legal-multa": () => import("../blog-posts-octubre-2026.ts"),
-    "dethleffs-globetrail-600-ds-2026-precio-ficha-tecnica-analisis-opinion": () => import("../blog-posts-campers-grupo4.ts"),
     "dfsk-500-2025-precio-ficha-tecnica": () => import("../blog-posts-batch2b-1.ts"),
     "dfsk-600-2026-precio-ficha-tecnica": () => import("../blog-posts-dfsk-a.ts"),
     "dfsk-e5-hibrido-enchufable-precio-ficha-tecnica": () => import("../blog-posts-motor-nuevos-f.ts"),
@@ -141,6 +140,8 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "dr-ickx-k2-2025-precio-ficha-tecnica": () => import("../blog-posts-batch2b-1.ts"),
     "dr-sportequipe-7-2025-precio-ficha-tecnica": () => import("../blog-posts-batch2b-1.ts"),
     "dr-sportequipe-8-2025-precio-ficha-tecnica": () => import("../blog-posts-batch2b-1.ts"),
+    "dreamer-d55-2026-precio-ficha-tecnica-analisis-opinion": () => import("../blog-posts-campers-eu2-c.ts"),
+    "dreamer-d55-fun-up-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin2.ts"),
     "ds-3-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp10.ts"),
     "ds-3-e-tense-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp20.ts"),
     "ds-4-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp10.ts"),
@@ -355,6 +356,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "dr-ickx-k2-2025-precio-ficha-tecnica": () => import("../comparador-coches-exp22.ts"),
     "dr-sportequipe-7-2025-precio-ficha-tecnica": () => import("../comparador-coches-exp22.ts"),
     "dr-sportequipe-8-2025-precio-ficha-tecnica": () => import("../comparador-coches-exp22.ts"),
+    "dreamer-d55-2026-precio-ficha-tecnica": () => import("../comparador-campers-dreamer.ts"),
     "ds-3-2025-precio-ficha-tecnica": () => import("../comparador-coches-exp10.ts"),
     "ds-3-e-tense-2026-precio-ficha-tecnica": () => import("../comparador-coches-exp20.ts"),
     "ds-4-2025-precio-ficha-tecnica": () => import("../comparador-coches-exp10.ts"),
@@ -477,7 +479,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "ducati-pro-iii": () => import("../comparador-patinetes-exp-p11.ts"),
   },
   camper: {
-    "dethleffs-globetrail-600-ds-2026-precio-ficha-tecnica": () => import("../comparador-campers-grupo4.ts"),
+    "dreamer-d55-2026-precio-ficha-tecnica": () => import("../comparador-campers-dreamer.ts"),
   },
   historia: {
     "dacia-bigster-2025-precio-ficha-tecnica": () => import("../historia-modelos.ts"),

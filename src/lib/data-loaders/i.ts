@@ -81,6 +81,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "italjet-dragster-700-twin-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m4.ts"),
     "italjet-roadster-400-founders-edition-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m12.ts"),
     "italjet-speedster-125-2025-ficha-tecnica-precio": () => import("../blog-posts-lote8.ts"),
+    "itineo-pf600-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin4.ts"),
     "itv-cada-cuanto-me-toca-tabla-por-anos-multas-por-circular-sin-ella-y-que-pasa-si-llevo-reformas-en-el-coche": () => import("../blog-posts-db.ts"),
     "iveco-daily-2025-precio-furgon": () => import("../blog-posts-lote16.ts"),
   },
