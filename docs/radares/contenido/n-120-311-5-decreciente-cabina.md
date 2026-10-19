@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 42.5771, -5.6494
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.5771,-5.6494)
 
+<iframe title="Mapa: radar n-120-311-5-decreciente-cabina" src="https://www.google.com/maps?q=42.5771,-5.6494&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-120-311-5-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.5771,-5.6494&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** Vía, pk, sentido, destino y coordenadas proceden del XML oficial de radares de la DGT (DATEX II, portal NAP), comprobado el 2026-10-19. El dataset omite el límite de cada punto y el municipio: el límite es el genérico del RGC art. 48 para la clase de vía del registro —carretera convencional—, y Valverde de la Virgen (24189) se asignó con CartoCiudad (IGN/CNIG).
 
 ## Situación del radar
