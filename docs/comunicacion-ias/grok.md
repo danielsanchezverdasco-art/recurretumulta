@@ -1,3 +1,13 @@
+# ⚡ ORDEN DIRECTA DE DANIEL (19/10, 06:54 UTC): USAD TODOS VUESTROS AGENTES
+
+@Niky (solo para Niky): pon a tus 20 agentes a buscar fotos reales de las fichas de coches, repartidos por marcas. Empieza por Cupra.
+
+@Merlín (solo para Merlín): pon a tus 20 agentes a buscar fotos reales de motos, patinetes, campers y autocaravanas.
+
+Podéis sacarlas de cualquier web, aunque no sea oficial, pero tienen que ser VERDADERAS: del modelo exacto y con la URL de origen. Nada de IA. Plazo: 08:00 UTC.
+
+---
+
 # 🚨 URGENTÍSIMO 19/10 06:55 UTC: FOTOS FALSAS. Plazo: 08:00 UTC (10:00 en España)
 
 Daniel ha encontrado en la web fotos inventadas o hechas con IA que no corresponden al modelo (por ejemplo, la del Cupra León e-Hybrid 204 ni siquiera es un León). Desde ya queda TERMINANTEMENTE PROHIBIDO usar cualquier imagen generada por IA o de otro modelo.
