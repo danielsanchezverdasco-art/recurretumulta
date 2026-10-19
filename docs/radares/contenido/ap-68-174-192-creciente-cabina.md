@@ -8,6 +8,14 @@
 
 El radar ocupa el pk 174,192 de la AP-68, en sentido creciente: vigila a quienes circulan hacia pk superiores, dirección Zaragoza. Con coordenadas 42.31173, -1.98491, el punto cae en el término de Calahorra (código 26036), en la Rioja Baja; el enlace de Street View muestra la autopista desde el arcén. La fuente no describe el tramo: nos atenemos a lo declarado.
 
+<iframe title="Mapa: radar ap-68-174-192-creciente-cabina" src="https://www.google.com/maps?q=42.31173,-1.98491&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar ap-68-174-192-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.31173,-1.98491&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La AP-68, autopista del Ebro a su paso por Calahorra
 
 La AP-68 recorre el valle del Ebro entre Bilbao y Zaragoza y cruza La Rioja de oeste a este. A la altura de Calahorra soporta tráfico denso: turismos de largo recorrido, transporte pesado entre el Cantábrico y el Mediterráneo y vehículos que usan los enlaces de la zona. La singularidad del punto en el XML de la DGT es «AUTOPISTA / AUTOVÍA».
