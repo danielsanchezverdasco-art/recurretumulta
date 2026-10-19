@@ -3651,3 +3651,51 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/sym-joymax-z-300-2026-ficha-tecnica-precio-hunt1.webp | https://sym-srbija.rs/wp-content/uploads/2026/02/joyma-1.png | SYM Srbija (distribuidor oficial) | desconocida |
 | /media/sym-joymax-z-300-2026-ficha-tecnica-precio-hunt2.webp | https://sym-srbija.rs/wp-content/uploads/2026/02/JOYMAXZ_BK-007U.png | SYM Srbija (distribuidor oficial) | desconocida |
 | /media/sym-joymax-z-300-2026-ficha-tecnica-precio-hunt3.webp | https://sym-srbija.rs/wp-content/uploads/2026/02/joyma-6.png | SYM Srbija (distribuidor oficial) | desconocida |
+| /media/bentley-bentayga-speed-2026-precio-ficha-tecnica-hunt1.webp | https://uncrate.com/p/2025/06/2026-bentley-bentayga-speed-1.jpg | Uncrate (foto de prensa Bentley Motors) | desconocida |
+| /media/bentley-bentayga-speed-2026-precio-ficha-tecnica-hunt2.webp | https://www.actualidadmotor.com/wp-content/uploads/2025/06/Nuevo-Bentley-Bentayga-Speed_5.jpeg | Actualidad Motor (foto de prensa Bentley Motors) | desconocida |
+| /media/bentley-bentayga-speed-2026-precio-ficha-tecnica-hunt3.webp | https://www.motoringresearch.com/wp-content/uploads/2026/05/Orange-Flame-35-1-1.jpg | Motoring Research | desconocida |
+| /media/kaabo-mantis-8-pro-hunt1.webp | https://top-wheel.com/cdn/shop/files/184524-_8.png?v=1724845091&width=1946 | Top-Wheel (tienda oficial) | desconocida |
+| /media/kaabo-mantis-8-pro-hunt2.webp | https://kaabomantis.com/wp-content/uploads/2021/10/Kaabo-Mantis-8-Pro-silver-dual-motor-1600W-8x3.0-inches-wheel-EU-warehouse-fast-delivery-kaabomanstis.com-buy-now-escooter.webp | KaaboMantis.com (distribuidor oficial Kaabo) | desconocida |
+| /media/kaabo-mantis-8-pro-hunt3.webp | https://cdn.shopify.com/s/files/1/0532/1572/3704/products/kaabomantis8.jpg?v=1643774991 | The Watson Law Firm (reseña Kaabo Mantis 8 Pro) | desconocida |
+| /media/kawasaki-z125-2026-ficha-tecnica-precio-hunt1.webp | https://www.seastarsuperbikes.co.uk/wp-content/uploads/2025/11/Z125-2026-Grey-RHS.png | Seastar Superbikes (concesionario Kawasaki) | desconocida |
+| /media/kawasaki-z125-2026-ficha-tecnica-precio-hunt2.webp | https://www.totalmotorcycle.com/wp-content/uploads/2025/09/2026-Kawasaki-Z125a-1200x840.jpg | Total Motorcycle (foto de prensa Kawasaki) | desconocida |
+| /media/kawasaki-z125-2026-ficha-tecnica-precio-hunt3.webp | https://images5.1000ps.net/images_bikekat/2026/6-Kawasaki/9483-Z125/006-638936943026744624-kawasaki-z125.jpg | 1000PS (foto de prensa Kawasaki) | desconocida |
+| /media/li-auto-l7-2025-precio-ficha-tecnica-hunt1.webp | https://arawheels.com/wp-content/uploads/2025/12/2025-Li-Auto-L7-2.jpg | Arawheels | desconocida |
+| /media/li-auto-l7-2025-precio-ficha-tecnica-hunt2.webp | https://ruautoshop.com/auto/images/Lixiang-L7-4.jpg | RuAutoshop | desconocida |
+| /media/li-auto-l7-2025-precio-ficha-tecnica-hunt3.webp | https://zhytauto.com/wp-content/uploads/2026/03/10003-3.webp | Zhytauto | desconocida |
+| /media/rolls-royce-phantom-series-ii-2026-precio-ficha-tecnica-hunt1.webp | https://daxstreet.com/wp-content/uploads/2026/06/2026-rolls-royce-phantom-pr-123-690cd211484fb.jpg | DAX Street (foto de prensa Rolls-Royce) | desconocida |
+| /media/rolls-royce-phantom-series-ii-2026-precio-ficha-tecnica-hunt2.webp | https://africars24.com/wp-content/uploads/2026/01/404342-2026-rolls-royce-phantom-1-edited.webp | Africars24 | desconocida |
+| /media/rolls-royce-phantom-series-ii-2026-precio-ficha-tecnica-hunt3.webp | https://imgcdn.zigwheels.ph/large/gallery/interior/115/1640/rolls-royce-phantom-passenger-seat-988203.jpg | ZigWheels Filipinas | desconocida |
+| /media/bentley-batur-convertible-2024-precio-ficha-tecnica-hunt1.webp | desconocida | desconocido | desconocida |
+| /media/bentley-batur-convertible-2024-precio-ficha-tecnica-hunt2.webp | desconocida | desconocido | desconocida |
+| /media/bentley-batur-convertible-2024-precio-ficha-tecnica-hunt3.webp | desconocida | desconocido | desconocida |
+| /media/kaabo-skywalker-8-hunt1.webp | https://www.pedl.com.au/cdn/shop/files/2_869x869_92d712d4-d7b2-4f1f-9133-26b30af45798_1024x1024@2x.webp?v=1736841765 | PEDL (tienda de patinetes) | desconocida |
+| /media/kaabo-skywalker-8-hunt2.webp | http://konto.focus.pl/wp-content/uploads/2024/04/Kaabo-Skywalker-8H.png | Focus (distribuidor) | desconocida |
+| /media/kaabo-skywalker-8-hunt3.webp | https://i0.wp.com/www.kaaboitaly.com/wp-content/uploads/2020/06/Skywalker-8H-fold.jpg?resize=600%2C400 | Kaabo Italy (distribuidor oficial) | desconocida |
+| /media/li-auto-i9-2026-precio-ficha-tecnica-hunt1.webp | desconocida | desconocido | desconocida |
+| /media/li-auto-i9-2026-precio-ficha-tecnica-hunt2.webp | desconocida | desconocido | desconocida |
+| /media/li-auto-i9-2026-precio-ficha-tecnica-hunt3.webp | https://www.avtovzglyad.ru/upload/entities/2026/09/17/11/articles/detailPicture/e7/a1/e6/73/f996880248e174e2bf5fd5dc3cfc3ef3.jpg | Avtovzglyad.ru | desconocida |
+| /media/bentley-bentayga-speed-2026-precio-ficha-tecnica-hunt4.webp | https://uncrate.com/p/2025/06/2026-bentley-bentayga-speed-1.jpg | Uncrate (foto de prensa Bentley Motors) | desconocida |
+| /media/bentley-bentayga-speed-2026-precio-ficha-tecnica-hunt5.webp | https://www.actualidadmotor.com/wp-content/uploads/2025/06/Nuevo-Bentley-Bentayga-Speed_5.jpeg | Actualidad Motor (foto de prensa Bentley Motors) | desconocida |
+| /media/bentley-bentayga-speed-2026-precio-ficha-tecnica-hunt6.webp | https://www.motoringresearch.com/wp-content/uploads/2026/05/Orange-Flame-35-1-1.jpg | Motoring Research | desconocida |
+| /media/kaabo-mantis-8-pro-hunt4.webp | https://top-wheel.com/cdn/shop/files/184524-_8.png?v=1724845091&width=1946 | Top-Wheel (tienda oficial) | desconocida |
+| /media/kaabo-mantis-8-pro-hunt5.webp | https://kaabomantis.com/wp-content/uploads/2021/10/Kaabo-Mantis-8-Pro-silver-dual-motor-1600W-8x3.0-inches-wheel-EU-warehouse-fast-delivery-kaabomanstis.com-buy-now-escooter.webp | KaaboMantis.com (distribuidor oficial Kaabo) | desconocida |
+| /media/kaabo-mantis-8-pro-hunt6.webp | https://cdn.shopify.com/s/files/1/0532/1572/3704/products/kaabomantis8.jpg?v=1643774991 | The Watson Law Firm (reseña Kaabo Mantis 8 Pro) | desconocida |
+| /media/kawasaki-z125-2026-ficha-tecnica-precio-hunt4.webp | https://www.seastarsuperbikes.co.uk/wp-content/uploads/2025/11/Z125-2026-Grey-RHS.png | Seastar Superbikes (concesionario Kawasaki) | desconocida |
+| /media/kawasaki-z125-2026-ficha-tecnica-precio-hunt5.webp | https://www.totalmotorcycle.com/wp-content/uploads/2025/09/2026-Kawasaki-Z125a-1200x840.jpg | Total Motorcycle (foto de prensa Kawasaki) | desconocida |
+| /media/kawasaki-z125-2026-ficha-tecnica-precio-hunt6.webp | https://images5.1000ps.net/images_bikekat/2026/6-Kawasaki/9483-Z125/006-638936943026744624-kawasaki-z125.jpg | 1000PS (foto de prensa Kawasaki) | desconocida |
+| /media/li-auto-l7-2025-precio-ficha-tecnica-hunt4.webp | https://arawheels.com/wp-content/uploads/2025/12/2025-Li-Auto-L7-2.jpg | Arawheels | desconocida |
+| /media/li-auto-l7-2025-precio-ficha-tecnica-hunt5.webp | https://ruautoshop.com/auto/images/Lixiang-L7-4.jpg | RuAutoshop | desconocida |
+| /media/li-auto-l7-2025-precio-ficha-tecnica-hunt6.webp | https://zhytauto.com/wp-content/uploads/2026/03/10003-3.webp | Zhytauto | desconocida |
+| /media/rolls-royce-phantom-series-ii-2026-precio-ficha-tecnica-hunt4.webp | https://daxstreet.com/wp-content/uploads/2026/06/2026-rolls-royce-phantom-pr-123-690cd211484fb.jpg | DAX Street (foto de prensa Rolls-Royce) | desconocida |
+| /media/rolls-royce-phantom-series-ii-2026-precio-ficha-tecnica-hunt5.webp | https://africars24.com/wp-content/uploads/2026/01/404342-2026-rolls-royce-phantom-1-edited.webp | Africars24 | desconocida |
+| /media/rolls-royce-phantom-series-ii-2026-precio-ficha-tecnica-hunt6.webp | https://imgcdn.zigwheels.ph/large/gallery/interior/115/1640/rolls-royce-phantom-passenger-seat-988203.jpg | ZigWheels Filipinas | desconocida |
+| /media/bentley-batur-convertible-2024-precio-ficha-tecnica-hunt4.webp | desconocida | desconocido | desconocida |
+| /media/bentley-batur-convertible-2024-precio-ficha-tecnica-hunt5.webp | desconocida | desconocido | desconocida |
+| /media/bentley-batur-convertible-2024-precio-ficha-tecnica-hunt6.webp | desconocida | desconocido | desconocida |
+| /media/kaabo-skywalker-8-hunt4.webp | https://www.pedl.com.au/cdn/shop/files/2_869x869_92d712d4-d7b2-4f1f-9133-26b30af45798_1024x1024@2x.webp?v=1736841765 | PEDL (tienda de patinetes) | desconocida |
+| /media/kaabo-skywalker-8-hunt5.webp | http://konto.focus.pl/wp-content/uploads/2024/04/Kaabo-Skywalker-8H.png | Focus (distribuidor) | desconocida |
+| /media/kaabo-skywalker-8-hunt6.webp | https://i0.wp.com/www.kaaboitaly.com/wp-content/uploads/2020/06/Skywalker-8H-fold.jpg?resize=600%2C400 | Kaabo Italy (distribuidor oficial) | desconocida |
+| /media/li-auto-i9-2026-precio-ficha-tecnica-hunt4.webp | desconocida | desconocido | desconocida |
+| /media/li-auto-i9-2026-precio-ficha-tecnica-hunt5.webp | desconocida | desconocido | desconocida |
+| /media/li-auto-i9-2026-precio-ficha-tecnica-hunt6.webp | https://www.avtovzglyad.ru/upload/entities/2026/09/17/11/articles/detailPicture/e7/a1/e6/73/f996880248e174e2bf5fd5dc3cfc3ef3.jpg | Avtovzglyad.ru | desconocida |
