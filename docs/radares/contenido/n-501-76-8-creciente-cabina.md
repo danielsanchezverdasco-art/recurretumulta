@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 40.932, -5.4631
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.932,-5.4631)
 
+<iframe title="Mapa: radar n-501-76-8-creciente-cabina" src="https://www.google.com/maps?q=40.932,-5.4631&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-501-76-8-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.932,-5.4631&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** Vía, pk, sentido, destino y coordenadas vienen del XML oficial de radares de la DGT (DATEX II, portal NAP), verificado el 2026-10-19. El dataset no publica el límite de cada radar ni el municipio: el límite es el genérico del RGC art. 48 para la clase de vía del registro, y Encinas de Abajo (37121) se fijó con CartoCiudad (IGN/CNIG).
 
 ## El tramo vigilado
