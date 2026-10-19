@@ -1,4 +1,8 @@
 // Autocaravanas Bürstner — lote Merlín 1 (18/10/2026), corrección b/c/d (22:15).
+// Lote F2b (19/10/2026): 1 foto oficial exterior (estudio Bürstner, buerstner.com; 960x600 nativo, la mayor
+// variante indexada del asset oficial), 3 fotos extra no oficiales del modelo exacto (sin marcas de agua ni
+// concesionario) tras las oficiales; añadida curiosidad Vario-Seat con fuente; galería anterior enlazaba a
+// ficheros inexistentes en el repo (404) y se sustituye.
 // Fuente: página oficial del modelo en buerstner.com (verificada el 18/10/2026) con
 // tabla técnica oficial: 699 cm, 230 cm, 295 cm, 3.500 kg, MRO 2.990 kg ±5 %,
 // 160 kg de masa para equipamiento opcional, 4-5 plazas, 2-5 camas, 82.530 CHF.
@@ -26,10 +30,9 @@ export const AUTOCARAVANAS_BURSTNER_M1: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-ext.webp",
-    imagenOficial: "/media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-ext.webp",
-    imagenInteriorOficial:
-      "/media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-interior.webp",
+    imagen: "/media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial: "/media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial: "", // sin interior oficial del 690 G en buerstner.com/prensa (15 búsquedas el 19/10/2026)
     videoId: null,
     videoCanal: null,
     largoMm: 6990, // página oficial: 699 cm
@@ -49,6 +52,13 @@ export const AUTOCARAVANAS_BURSTNER_M1: Autocaravana[] = [
     aprox: ["precioDesde", "potenciaCv"],
     notas:
       "Precio de tarifa en Suiza (82.530 CHF, PVP publicado en buerstner.com); puede diferir en España. Medidas, masas y plazas, de la tabla técnica oficial del modelo. Los 160 kg publicados son masa para equipamiento opcional, no carga útil: el campo cargaUtilKg va en null. Potencia: «dato no oficial · en revisión».",
+    curiosidades:
+      "El Lyseo TD 690 G fue uno de los pocos modelos elegidos por Bürstner para estrenar el asiento "
+      + "Vario-Seat, un invento concebido a mediados de la década de 2010 que convierte el asiento lateral del "
+      + "salón —inutilizable en marcha por su orientación— en una quinta plaza de viaje homologada con cinturón: "
+      + "una autocaravana de cuatro plazas se transforma así en una de cinco en menos de cinco minutos. "
+      + "Fuente: Motorhomesforsale.co.nz, «Bürstner Motorhomes Top Five Innovations» "
+      + "(https://www.motorhomesforsale.co.nz/resources/blog/the-top-five-innovations-of-b%C3%BCrstner-motorhomes).",
     descripcion: `La Bürstner Lyseo TD 690 G es una autocaravana perfilada de 6,99 metros que ocupa un lugar especial en el catálogo de la marca alemana: la gama Lyseo TD es la perfilada con cama basculante sobre el salón, el formato que permite dormir hasta cinco personas en menos de 7 metros sin recurrir a la capuchina. La «G» de la denominación identifica la distribución con camas gemelas traseras, la más demandada por las parejas que quieren dormir cada noche en camas hechas. Es una perfilada pensada para viajar todo el año, con el aislamiento «winterproof» y el suelo Thermofloor que Bürstner ofrece de serie y que pocas generalistas incluyen sin pasar por caja.
 
 Los datos oficiales, publicados por Bürstner en la página del modelo, son completos y permiten comprar con la calculadora en la mano: 699 cm de largo, 230 cm de ancho y 295 cm de alto, con una MMA de 3.500 kg que permite conducirla con el carnet B. La masa en orden de marcha es de 2.990 kg con una tolerancia de ±5 % (rango real entre 2.841 y 3.140 kg según la configuración), y la marca publica además la masa reservada para equipamiento opcional: 160 kg. Ojo: esos 160 kg son la masa máxima para opcionales, un concepto distinto de la carga útil, así que la ficha no calcula ni publica carga útil y ese campo va en null. Con 160 kg de margen para extras hay que elegir el equipamiento con la calculadora en la mano, porque entre el toldo, la batería auxiliar, el portabicicletas y el aire acondicionado el margen se agota deprisa. Las plazas homologadas son de 4 a 5 para viajar y de 2 a 5 para dormir: de serie duermen dos en las camas gemelas traseras, y con la cama basculante sobre el salón y la quinta plaza opcionales se llega a cinco.
@@ -79,16 +89,28 @@ Para quién es: la Lyseo TD 690 G es para parejas —o familias que acepten la c
     opiniones: [],
     galeria: [
       {
-        src: "/media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-ext.webp",
-        alt: "Bürstner Lyseo TD 690 G, vista tres cuartos delantera",
+        src: "/media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Bürstner Lyseo TD 690 G Harmony Line, vista tres cuartos delantera (foto oficial de estudio)",
+        ancho: 960,
+        alto: 600,
+      },
+      {
+        src: "/media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-ext2.webp",
+        alt: "Bürstner Lyseo TD 690 G B66, vista lateral delantera en exteriores",
         ancho: 1200,
         alto: 800,
       },
       {
         src: "/media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior de la Bürstner Lyseo TD 690 G, salón y dormitorio",
+        alt: "Cocina y salón comedor de la Bürstner Lyseo TD 690 G",
         ancho: 1200,
-        alto: 800,
+        alto: 900,
+      },
+      {
+        src: "/media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-interior2.webp",
+        alt: "Salón y zona de camas gemelas de la Bürstner Lyseo TD 690 G",
+        ancho: 728,
+        alto: 546,
       },
     ],
     analisisSlug: "burstner-lyseo-td-690-g-2026-analisis-opinion",
