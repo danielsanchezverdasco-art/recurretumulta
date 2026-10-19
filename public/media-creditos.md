@@ -3372,3 +3372,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/nissan-nv200-camper-2026-precio-ficha-tecnica-hunt1.webp | https://cdn-image.as-web.jp/2025/12/27210829/NISSAN-NV200_MYROOM-20251219-3.jpg | Nissan Japan (prensa oficial) / as-web.jp | desconocida |
 | /media/nissan-nv200-camper-2026-precio-ficha-tecnica-hunt2.webp | https://hertfordcampers.co.uk/wp-content/uploads/2022/11/NV200-interior-56-scaled.webp | Hertford Campers (empresa de camperizaciones, no oficial Nissan) | desconocida |
 | /media/nissan-nv200-camper-2026-precio-ficha-tecnica-hunt3.webp | https://hertfordcampers.co.uk/wp-content/uploads/2022/11/NV200-interior-42-scaled.webp | Hertford Campers (empresa de camperizaciones, no oficial Nissan) | desconocida |
+| /media/voge-625dsx-2025-ficha-tecnica-precio-hunt1.webp | https://images5.1000ps.net/images_bikekat/2025/617-Voge/13010-DS625X/010-638785948614947700-voge-ds625x.jpg?format=webp&quality=80&scale=both&width=1984&height=1116&bgcolor=rgba_39_42_44_0&mode=pad | 1000PS | desconocida |
+| /media/voge-625dsx-2025-ficha-tecnica-precio-hunt2.webp | https://motosmarin.com/wp-content/uploads/2025/02/voge-625dsx-desert.png | Motos Marin (concesionario Voge) | desconocida |
+| /media/voge-625dsx-2025-ficha-tecnica-precio-hunt3.webp | https://www.2wo.gr/images/Market/2025/May/VOGE_DS625X_EURO5/VOGE_DS625X_MY2025_15.jpg | 2wo.gr (nota de prensa Voge) | desconocida |
+| /media/sunlight-cliff-600-2026-precio-ficha-tecnica-hunt1.webp | https://fahrzeug.camping-neuss.de/fahrzeuge/sunlight-600-307662-1810 | Camping Neuss (concesionario, foto no oficial) | desconocida |
+| /media/sunlight-cliff-600-2026-precio-ficha-tecnica-hunt2.webp | https://www.continentalcaravans.co.uk/vehicle/new-2026-sunlight-cliff-600-rt-campervan-su5315 | Continental Caravans (concesionario, foto no oficial) | desconocida |
+| /media/sunlight-cliff-600-2026-precio-ficha-tecnica-hunt3.webp | https://www.continentalcaravans.co.uk/vehicle/new-2026-sunlight-cliff-600-rt-campervan-su5315 | Continental Caravans (concesionario, foto no oficial) | desconocida |
+| /media/voge-sr1-adv-125-2025-ficha-tecnica-precio-hunt1.webp | https://www.vogeglobal.com/voge-sr125-adv-making-every-outing-easier | Voge Global (web oficial) | desconocida |
+| /media/voge-sr1-adv-125-2025-ficha-tecnica-precio-hunt2.webp | https://www.voge-germany.de/service/news/voge-news/voge-praesentiert-den-neuen-premium-crossover-scooter-sr1-adv-125-motorrad-berichtet | Voge Germany (web oficial) | desconocida |
+| /media/voge-sr1-adv-125-2025-ficha-tecnica-precio-hunt3.webp | https://www.mundomotero.com/motos/voge/sr1-adv-125 | MundoMotero | desconocida |
+| /media/chevrolet-silverado-ev-2025-precio-ficha-tecnica-hunt1.webp | https://i.bstr.es/highmotor/2024/10/Chevrolet-Silverado-EV-2025-00001-880x600.jpeg | Highmotor | desconocida |
+| /media/chevrolet-silverado-ev-2025-precio-ficha-tecnica-hunt2.webp | https://www.salvadorechevy.com/2025-chevrolet-silverado-ev | Salvadore Chevrolet | desconocida |
+| /media/chevrolet-silverado-ev-2025-precio-ficha-tecnica-hunt3.webp | https://pricedriven.ca/fr/products/chevrolet-silverado-ev-2025 | PriceDriven | desconocida |
+| /media/citroen-c3-aircross-gasolina-2026-precio-ficha-tecnica-hunt1.webp | https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/citroen-c3-airocross-review-2025-01-front-cornering.jpg | Autocar | desconocida |
+| /media/citroen-c3-aircross-gasolina-2026-precio-ficha-tecnica-hunt2.webp | https://car-images.bauersecure.com/wp-images/159694/058-citroen-c3-aircross.jpg | Car Magazine | desconocida |
+| /media/citroen-c3-aircross-gasolina-2026-precio-ficha-tecnica-hunt3.webp | https://www.motorpoint.co.uk/car-reviews/citroen/e-c3-aircross | Motorpoint | desconocida |
+| /media/ford-transit-custom-nugget-2026-precio-ficha-tecnica-hunt1.webp | https://fordauthority.com/wp-content/uploads/2025/09/Ford-Transit-Custom-Nugget-High-Roof-Exterior-002-Front-Three-Quarters.jpg | Ford Authority | desconocida |
+| /media/ford-transit-custom-nugget-2026-precio-ficha-tecnica-hunt2.webp | https://www.egear.be/ford-transit-custom-nugget-phev-foto/ | eGear.be | desconocida |
+| /media/ford-transit-custom-nugget-2026-precio-ficha-tecnica-hunt3.webp | https://fordhalmai.hu/wp-content/uploads/2026/08/nugget-galeria-kulso-03.jpg | Ford Halmai (concesionario oficial) | desconocida |
+| /media/qjmotor-fort-250-2026-ficha-tecnica-precio-hunt1.webp | https://qjmotor.co.id/wp-content/uploads/2025/08/3d-fort250-1.png | QJMotor (web oficial Indonesia) | desconocida |
+| /media/qjmotor-fort-250-2026-ficha-tecnica-precio-hunt2.webp | https://imgcdn.oto.com/large/gallery/color/201/3189/qj-motor-fort-250-color-678796.jpg | Oto.com / ZigWheels | desconocida |
+| /media/qjmotor-fort-250-2026-ficha-tecnica-precio-hunt3.webp | https://imgcdn.oto.com/large/gallery/exterior/201/3189/qj-motor-fort-250-back-side-view-389586.jpg | Oto.com / ZigWheels | desconocida |
+| /media/toyota-corolla-cross-200h-2025-precio-ficha-tecnica-hunt1.webp | https://motorsactu.com/wp-content/uploads/2025/05/Toyota-Corolla-Cross-GR-Sport-2025-1.jpg | MotorsActu | desconocida |
+| /media/toyota-corolla-cross-200h-2025-precio-ficha-tecnica-hunt2.webp | https://motorsactu.com/wp-content/uploads/2025/05/Toyota-Corolla-Cross-GR-Sport-2025-2.jpg | MotorsActu | desconocida |
+| /media/toyota-corolla-cross-200h-2025-precio-ficha-tecnica-hunt3.webp | https://www.autoblog.gr/wp-content/uploads/2025/05/2025-corollacrossgrsport-003.jpg | AutoBlog.gr | desconocida |
