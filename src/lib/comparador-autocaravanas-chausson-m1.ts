@@ -10,6 +10,7 @@
 // -analisis-opinion; fotos a -ext.webp/-interior.webp (sin «-oficial»); cargaUtilKg en null
 // (la marca no la publica para el modelo exacto); MMA/dimensiones/plazas del 640 en «aprox»
 // (fuentes de concesionario); potencia del 640 corregida a 130 CV de serie (170 era erróneo).
+// F3b (19/10/2026): fotos oficiales añadidas (640: ext prensa Celier 2018 + interior lit pavillon; 777: interior lits jumeaux) con sufijo -oficial; curiosidades con fuente enlazada en ambas fichas. Pendiente: 2ª interior oficial del 640 y exterior oficial del 777.
 // Nomenclatura: el 777 Titanium Line es el modelo oficial vigente más próximo de la colección
 // 2027 (perfilada de camas gemelas, 7,19 m sobre Ford Transit o 7,16 m sobre Fiat).
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
@@ -33,10 +34,10 @@ export const AUTOCARAVANAS_CHAUSSON_M1: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/chausson-640-titanium-2026-precio-ficha-tecnica-ext.webp",
-    imagenOficial: "/media/chausson-640-titanium-2026-precio-ficha-tecnica-ext.webp",
+    imagen: "/media/chausson-640-titanium-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial: "/media/chausson-640-titanium-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/chausson-640-titanium-2026-precio-ficha-tecnica-interior.webp",
+      "/media/chausson-640-titanium-2026-precio-ficha-tecnica-oficial-interior.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 6990,
@@ -56,6 +57,8 @@ export const AUTOCARAVANAS_CHAUSSON_M1: Autocaravana[] = [
     aprox: ["precioDesde", "pesoKg", "mmaKg", "plazas", "plazasDormir"], // «no oficial»: datos de concesionarios, no publicados por el fabricante
     notas:
       "Precio de tarifa en Francia (69.490 € de lista en concesionario para la colección 2026, sin packs ni matriculación); en España el PVP lo fija cada importador. Dimensiones, MMA, peso en vacío, plazas y camas, de anuncios de concesionarios franceses e italianos de unidades M26 (el fabricante no publica la ficha técnica detallada del 640 en su web). Potencia de serie de 130 CV según la ficha oficial de la gama Titanium Line; el 165 CV con cambio automático de 8 marchas es opcional.",
+    curiosidades:
+      "El 640 fue la primera autocaravana del mercado en combinar un maxi-salón cara a cara con una cama basculante de 160 cm de anchura: presentado en el verano de 2017, su éxito fue inmediato y es el único modelo en la historia de Chausson que ha sido superventas en TODOS los países europeos, además de ganar el European Innovation Award en enero de 2019. Fuente: historial oficial de Chausson — https://www.chausson-motorhomes.com/universe-chausson/background/",
     descripcion: `La Chausson 640 Titanium es la perfilada que ha convertido a Chausson en una de las marcas más vendidas de Europa, y el motivo es una fórmula que el fabricante francés repite desde hace años con éxito: mucho equipamiento de serie, un precio de lista contenido y una distribución pensada para que cuatro personas vivan a bordo sin pisarse. Con 6,99 metros de largo, la 640 Titanium pertenece a la colección 2026 de la serie Titanium Line, la gama sobre chasis Ford Transit que concentra los modelos más populares de la marca. Es el best-seller de la casa, y eso se nota en el mercado de ocasión: las 640 Titanium de segunda mano se venden rápido y mantienen bien el valor, algo que el comprador de una unidad nueva debería tener en cuenta como parte del coste total de propiedad.
 
 El punto de partida técnico es el Ford Transit con el motor 2.0 turbodiésel. De serie, la gama Titanium Line monta la versión de 130 CV con cambio manual, una mecánica sobrada para una perfilada de 3,5 toneladas que se conduce con el carnet B. Quien prefiera más músculo o el confort del automático puede optar al 2.0 de 165 CV con el cambio automático de 8 relaciones, que en la lista francesa de la colección 2026 aparece como opción por unos 2.000 euros el motor y 3.000 el cambio. Las unidades M26 que anuncian los concesionarios franceses e italianos suelen llevar ya esa combinación de 165 CV y automático, que es la que la mayoría de compradores elige. La norma de emisiones es Euro 6e, de modo que en España le corresponde la etiqueta C de la DGT.
@@ -90,20 +93,20 @@ Para quién es: la Chausson 640 Titanium es para la pareja o la familia pequeña
     opiniones: [],
     galeria: [
       {
-        src: "/media/chausson-640-titanium-2026-precio-ficha-tecnica-ext.webp",
-        alt: "Chausson 640 Titanium, vista tres cuartos delantera",
+        src: "/media/chausson-640-titanium-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Chausson 640 Titanium, vista tres cuartos delantera (foto oficial de prensa)",
         ancho: 1200,
-        alto: 800,
+        alto: 801,
+      },
+      {
+        src: "/media/chausson-640-titanium-2026-precio-ficha-tecnica-oficial-interior.webp",
+        alt: "Cama basculante de 160 cm del Chausson 640 Titanium (foto oficial)",
+        ancho: 1200,
+        alto: 805,
       },
       {
         src: "/media/chausson-640-titanium-2026-precio-ficha-tecnica-interior.webp",
         alt: "Interior de la Chausson 640 Titanium, SmartLounge",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/chausson-640-titanium-2026-precio-ficha-tecnica-interior2.webp",
-        alt: "Salón con dinette del Chausson 640 Titanium",
         ancho: 1200,
         alto: 800,
       },
@@ -161,7 +164,7 @@ Para quién es: la Chausson 640 Titanium es para la pareja o la familia pequeña
     imagenOficial:
       "/media/chausson-777-titanium-line-2026-precio-ficha-tecnica-ext.webp",
     imagenInteriorOficial:
-      "/media/chausson-777-titanium-line-2026-precio-ficha-tecnica-interior.webp",
+      "/media/chausson-777-titanium-line-2026-precio-ficha-tecnica-oficial-interior.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 7190, // ficha oficial del modelo: 7,19 m sobre Ford Transit; 7,16 m sobre Fiat
@@ -181,6 +184,8 @@ Para quién es: la Chausson 640 Titanium es para la pareja o la familia pequeña
     aprox: ["carnetNecesario", "plazas", "plazasDormir"], // «no oficial»: la ficha oficial no publica MMA, plazas ni camas del 777
     notas:
       "Dimensiones, chasis y motorizaciones de serie, de la página oficial del modelo en el sitio de exportación de Chausson (colección 2027). El fabricante no publica MMA, peso, plazas, camas ni ningún PVP en esa ficha: esos campos van en «aprox» o en null con nota «dato no oficial · en revisión», con cifras de concesionarios británicos y franceses (4 plazas, 4 camas, 3.500 kg). Chausson no publica precios: se negocian en su red de concesionarios.",
+    curiosidades:
+      "El 777 es la gran novedad de la colección 2027 de la gama Titanium Line y la propia Chausson lo presenta como «el perfilado de camas gemelas que marca las tendencias del mercado»: combina unas camas gemelas traseras con extensión king-size y un baño central de doble puerta que divide el vehículo en tres zonas independientes. Fuente: web oficial de exportación de Chausson — https://www.motorhomes-chausson.co.uk/line/low-profiles/ y ficha oficial del modelo — https://www.motorhomes-chausson.co.uk/infos/8/797/en",
     descripcion: `Hay modelos que se explican con una cifra, y el Chausson 777 Titanium Line es uno de ellos: siete metros con diecinueve centímetros de perfilada francesa para dormir como en un hotel. Es la novedad grande de la colección 2027 de la serie Titanium Line, la gama de Chausson que concentra sus superventas sobre chasis Ford Transit, y llega con una idea de distribución que lo separa de sus hermanos de gama: en lugar de concentrar la noche en una cama basculante sobre el salón, el 777 reparte el descanso en unas camas gemelas traseras de verdad y un baño central que divide el vehículo en tres zonas independientes. Los alemanes del sector ya lo han bautizado como el «Triple 7».
 
 La clave del 777 está en su planta. La parte delantera la ocupa un salón cara a cara con mesa central regulable en altura, extensible y desplazable en todas direcciones: el mismo espacio sirve para desayunar dos, para comer seis y para trabajar con el portátil sin montar un campamento. Bajo las banquetas del salón se esconden dos asientos extraíbles con Isofix para viajar, una solución que permite homologar plazas infantiles sin sacrificar el salón cuando no se usan. La parte trasera pertenece al dormitorio: dos camas gemelas de 90 centímetros de ancho cada una —más anchas que las gemelas habituales del segmento—, con acceso sin escalera, somieres de lamas con muelles de gas que dejan al descubierto un enorme espacio de almacenamiento, barra para la ropa, cuatro armarios altos de distintos tamaños y dos luces de lectura con puertos USB y USB-C. Entre ambas camas, un tablero extraíble las une en una superficie continua king-size para quien prefiera dormir junto. Debajo de las camas, un garaje calefactado e iluminado, accesible también desde el exterior, resuelve el almacenamiento del equipamiento voluminoso.
@@ -216,6 +221,12 @@ Para quién es: el Chausson 777 Titanium Line es para la familia o la pareja que
     ],
     opiniones: [],
     galeria: [
+      {
+        src: "/media/chausson-777-titanium-line-2026-precio-ficha-tecnica-oficial-interior.webp",
+        alt: "Camas gemelas del Chausson 777 Titanium Line (foto oficial)",
+        ancho: 1200,
+        alto: 917,
+      },
       {
         src: "/media/chausson-777-titanium-line-2026-precio-ficha-tecnica-ext.webp",
         alt: "Chausson 777 Titanium Line, vista tres cuartos delantera",
