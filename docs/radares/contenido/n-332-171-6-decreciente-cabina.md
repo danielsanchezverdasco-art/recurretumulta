@@ -12,6 +12,14 @@
 
 La posición oficial del puesto es la **N-332, punto kilométrico 171,6** (Alicante). El medidor apunta al **sentido decreciente** (dirección de pk decrecientes). El punto cae en el término municipal de **Calp**, según el geocodificador oficial CartoCiudad (IGN/CNIG). A 1,6 km hacia el norte está el control más próximo, el de la **N-332, pk 173,2** (sentido creciente).
 
+<iframe title="Mapa: radar n-332-171-6-decreciente-cabina" src="https://www.google.com/maps?q=38.67331,0.0385&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-332-171-6-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.67331,0.0385&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 Se trata de una carretera nacional —la N-332— que vertebra Alicante. La demanda se reparte entre el tránsito interurbano y los accesos a las poblaciones próximas. La comarca de paso se identifica con el interior de la provincia de Alicante.
