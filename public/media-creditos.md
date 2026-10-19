@@ -1723,3 +1723,12 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/tesla-model-y-l-2026-precio-ficha-tecnica-hunt1.webp | https://images.carexpert.com.au/resize/960/-/cms/v1/media/2025-07-2026-tesla-model-yl-brightened.jpg | CarExpert / Tesla | desconocida |
 | /media/tesla-model-y-l-2026-precio-ficha-tecnica-hunt2.webp | https://autoprove.net/wp-content/uploads/2026/04/1-Model-Y-L-Toggle-Desktop-RHD.jpg | AutoProve | desconocida |
 | /media/tesla-model-y-l-2026-precio-ficha-tecnica-hunt3.webp | https://img.seemyphone.com/img1/c4a7c41ga7b2b29e/226817683385308245301283.jpg | seemyphone.com | desconocida |
+| /media/suzuki-gsx-s1000-2025-ficha-tecnica-precio-hunt1.webp | https://suzukicycles.com/street/2025/gsx-s1000 | Suzuki (web oficial) / suzukicycles.com | desconocida |
+| /media/suzuki-gsx-s1000-2025-ficha-tecnica-precio-hunt2.webp | https://ridermagazine.com/returning-2025-suzuki-motorcycles-final-wave/ | Suzuki (prensa) / Rider Magazine | desconocida |
+| /media/suzuki-gsx-s1000-2025-ficha-tecnica-precio-hunt3.webp | https://ridermagazine.com/returning-2025-suzuki-motorcycles-final-wave/ | Suzuki (prensa) / Rider Magazine | desconocida |
+| /media/volkswagen-id7-gtx-tourer-2026-hunt1.webp | https://www.carscoops.com/wp-content/uploads/webp/2024/03/VW-ID7-GTX-2--2048x1330.webp | Carscoops | desconocida |
+| /media/volkswagen-id7-gtx-tourer-2026-hunt2.webp | https://media.drivingelectric.com/image/private/s--FZy0sIu7--/f_auto,t_primary-image-desktop@1/v1710354829/drivingelectric/2024-03/VW%20ID7%20GTX%201_bknbao.jpg | DrivingElectric | desconocida |
+| /media/volkswagen-id7-gtx-tourer-2026-hunt3.webp | https://editorial.pxcrush.net/carsales/general/editorial/volkswagen-id7-gtx-tourer-0329.jpg?width=1024&height=682 | Carsales | desconocida |
+| /media/wuling-starlight-ev-2025-precio-ficha-tecnica-hunt1.webp | https://www.borderlesscar.com/wp-content/uploads/2025/09/Wuling-Starlight-EV-5.jpg | Borderless Car | desconocida |
+| /media/wuling-starlight-ev-2025-precio-ficha-tecnica-hunt2.webp | https://imgcdn.zigwheels.ph/large/gallery/exterior/196/3719/wuling-starlight-front-angle-low-view-186497.jpg | zigwheels.ph | desconocida |
+| /media/wuling-starlight-ev-2025-precio-ficha-tecnica-hunt3.webp | https://www.borderlesscar.com/wp-content/uploads/2025/09/Wuling-Starlight-EV-1.jpg | Borderless Car | desconocida |
