@@ -16,6 +16,14 @@ Bajando de Galicia a Madrid, este punto cae en un paraje espectacular y exigente
 
 Pk 426,677, sentido decreciente —pks que disminuyen hacia Madrid—; coordenadas 42.687656, -6.98945, en Vega de Valcarce (León). El Street View de la cabecera muestra el lugar.
 
+<iframe title="Mapa: radar a-6-426-7-decreciente-cabina" src="https://www.google.com/maps?q=42.687656,-6.98945&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-6-426-7-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.687656,-6.98945&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La A-6 en este sector
 
 La Autovía del Noroeste (Madrid–A Coruña) se adapta aquí a un relieve montañoso de pendientes y curvas, con calzadas separadas. Genérico: 120 km/h (art. 48 del RGC); en montaña, la señalización del tramo manda.
