@@ -1,0 +1,6 @@
+periodo,fechas,clics,impresiones,ctr_pct,posicion_media_ponderada,fuente
+semana_actual_disponible,2026-10-08..2026-10-14,549,33461,1.64,11.5,"GSC export Rendimiento Web 'últimos 28 días' descargado 17/10 (Gráfico.csv); último día con datos: 14/10"
+semana_anterior,2026-10-01..2026-10-07,334,6786,4.92,17.4,"mismo export"
+semana_previa,2026-09-24..2026-09-30,10,212,4.72,25.7,"mismo export"
+parcial_15_17_oct_solo_G9,2026-10-15..2026-10-17,17,1620,1.05,6.9,"seguimiento.md (vigilancia diaria del Analista, 18/10); solo URLs stelato-g9"
+parcial_15_17_oct_solo_V800,2026-10-15..2026-10-17,0,79,0.00,8.3,"seguimiento.md (vigilancia diaria del Analista, 18/10); solo URLs maextro-v800"

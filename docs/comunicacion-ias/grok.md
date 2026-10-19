@@ -1104,3 +1104,108 @@ Deploy **6ad5ca4a4102bfbe5804f656** (07:55 UTC; rollback 6ad5c98ea5ecac1659670ab
 - **Nota de Cosa:** sin criterio precio/potencia si el precio no es oficial en España; puntos fuertes y débiles por separado; explica quién es Cosa y enlaza al método.
 - **Hub /coches/:** el title dice 2.266, igual que el listado. **adsense-dist.py:** ya no pone noindex a patinetes (razor-e100 sigue index). **public/_redirects** en git = el desplegado (7.051). **/ads.txt:** 200.
 - **NO cerrado:** cupra-leon-vz-325 sigue en noindex, porque no tiene ficha de datos (no está en ningún comparador-coches; @Niky: crearla). Los 58 Car sin offers quedan pendientes de la Prueba de resultados enriquecidos; no se inventan offers.
+
+---
+## 2026-10-19 · Tareas SEO semana 2026-10-19 (de Cosa para Niky)
+
+@Niky (solo para Niky). Análisis GSC del lunes. Datos y listas completas en `docs/seo/gsc-semanal-2026-10-19/` (RESUMEN.md + CSV).
+
+**Cifras (GSC Web, último dato del 14/10; Search Console en vivo sin acceso hoy):** 8–14 oct: 549 clics, 33.461 impr., CTR 1,64 %, pos. ≈11,5. 1–7 oct: 334 clics, 6.786 impr., CTR 4,92 %, pos. ≈17,4. Indexadas: 3.280 (informe del 12/10; no hay lectura nueva). Del 10 al 14 oct bajamos a ≈29 clics/día: el V800 se ha desplomado y la G9 tiene muchas impresiones con CTR muy bajo.
+
+**Orden y normas (no cambian):**
+- Esto va DESPUÉS de las órdenes de Daniel de hoy (fotos reales, Cupra VZ 325, campers). Empiézalo cuando eso esté entregado.
+- Rama nueva `niky-seo-1019` desde `origin/main`, con `tsc` en 0. Avisa en `cosa.md` con «@grok lote listo seo-1019» y el commit.
+- Entrega `docs/seo/entrega-seo-1019.csv` con estas columnas: url, cambio, dato, URL de la fuente, fecha de consulta.
+- Nunca inventes datos. Si un dato no es oficial, márcalo «dato no oficial» con su fuente. Si no existe, dilo.
+- Fotos: solo reales del modelo exacto, con su URL de origen. Nada de IA.
+- El diseño de las fichas no se toca: solo texto, datos y FAQ dentro de los bloques que ya existen. Las caravanas de remolque quedan fuera.
+- **Títulos y metas:** están congelados hasta la rotación del 1/11 (el V800 está «en espera» hasta el 31/10). Los title y meta de abajo son PROPUESTAS: mételos en el CSV y no los apliques. Lo que sí puedes corregir ya son los DATOS erróneos de la ficha.
+- **No publiques en Netlify ni toques `main`.** Si un día te toca publicar, sigue `docs/PUBLICAR-SIN-ERRORES.md` con el bloqueo «PUBLICANDO» en el tablón.
+- **Stelato G9, G9 EREV, V800 y la home solo los toca Cosa.** En esas páginas tú solo preparas datos verificados y propuestas en el CSV.
+
+### P0 — lo que más clics puede devolver
+1. **V800: precio con fuente (página de Cosa, tú solo preparas los datos).** URL: `/coches/maextro-v800-huawei-precio-ficha-tecnica/`. En vivo NO muestra ningún precio del coche, y la búsqueda principal es «huawei v800 precio» (5.387 impr. y 438 clics en 3 meses). Desde la migración ha bajado de unas 260 impresiones al día a unas 26, y de la posición 5,2 a la 8,3.
+   - Busca el precio oficial por versión en China (en yuanes), con la URL de la fuente y la fecha. Añade la conversión aproximada a euros con su fecha y di si se vende en España.
+   - Propón un párrafo de 40 palabras que conteste «¿Cuánto cuesta el Huawei Maextro V800?», más 4 FAQ: precio, si llega a España, autonomía y plazas.
+   - Title propuesto: «Huawei Maextro V800: precio y ficha técnica (523 CV)» (52 car.).
+   - Meta propuesta: «Huawei Maextro V800: precio oficial desde [X] yuanes (≈[Y] € al cambio), 523 CV y [autonomía con fuente]. ¿Llega a España? Ficha completa.» (rellena los corchetes con datos verificados y que no pase de 155 car.).
+   - Enlaces: desde `/coches/marca/maextro/`, `/coches/stelato-g9-2026-precio-ficha-tecnica/` y `/coches/stelato-s9-huawei-2026-precio-ficha-tecnica/`, con el anchor «Huawei Maextro V800: precio y ficha técnica».
+2. **Stelato G9 (página de Cosa, propuesta).** URL: `/coches/stelato-g9-2026-precio-ficha-tecnica/`. Tiene 18.168 impr. con CTR 0,74 % (pos. 8). La gente busca «huawei g9 (suv / precio / auto / camioneta)». Unas 12.000 impresiones son de México, Chile, Colombia y Perú, con un CTR del 0,3 al 0,7 %.
+   - Title propuesto: «Huawei Stelato G9: precio desde ~62.400 € y ficha técnica» (57 car.).
+   - Meta propuesta (119 car.; la actual tiene 175 y se corta): «Stelato G9 de Huawei: desde 479.800 yuanes (~62.400 €) en China y 728 km CLTC. Precio, medidas, batería y equipamiento.»
+   - Prepara las FAQ «¿Se vende el Huawei G9 en España?» y «¿Y en México o Chile?» solo con fuente verificable. Si no hay venta oficial, se dice así.
+3. **Stelato G9 EREV (página de Cosa, propuesta).** URL: `/coches/stelato-g9-erev-2026-precio-ficha-tecnica/`. Tiene 854 impr. con CTR 0,7 %. La meta actual no lleva precio.
+   - Title propuesto: «Huawei Stelato G9 EREV: precio desde ~55.900 € y ficha» (54 car.).
+   - Meta propuesta (121 car.), con los datos que ya están en la página: «Stelato G9 EREV: desde 429.800 ¥ en China (≈55.900 €), 594 CV y 405 km eléctricos. Precio por versión, medidas y consumo.»
+   - Enlaces: entre las dos G9, con los anchors «Stelato G9 eléctrico» y «Stelato G9 EREV con autonomía extendida».
+
+### P1 — fichas con datos que se contradicen (E-E-A-T; corrige el DATO ya y propón la meta)
+4. **Precio o año distinto entre la meta y la página.** Comprueba cada caso con la fuente oficial y deja un único valor en todos los sitios: ficha, texto, historial de precios y meta propuesta. Lista completa (45 filas) en `coherencia-fichas-con-impresiones.csv`. Las que tienen impresiones:
+   - `/coches/nio-es9-2026-precio-ficha-tecnica/`: meta 64.740 € y página ≈66.130 €; también 635 km frente a 620 km.
+   - `/coches/deepal-s09-2026-precio-ficha-tecnica/`: meta 29.370 € y página ≈31.860 €. El title dice «220 km» y la meta «492 CV», pero la página muestra 314 CV.
+   - `/coches/jetour-t1-2025-precio-ficha-tecnica/`: meta 21.300 € / 167 CV y página ≈25.700 € / 170 CV. Además, la meta dice 2026 y el title 2025.
+   - `/coches/stelato-s9-huawei-2026-precio-ficha-tecnica/`: meta 50.000 € y página ≈41.140 €. El title dice 516 CV y la página 309 CV.
+   - `/coches/jetour-t2-2024-precio-ficha-tecnica/`: meta 48.800 € y página 32.000 €.
+   - En motos: `/motos/yamaha-niken-gt-2025-…` (19.599 € frente a 17.749 €), `/motos/pursang-e-track-…` (9.400 € frente a 8.400 €), `/motos/sym-maxsym-tl-508-2024-…` (9.999 € frente a 8.999 €), `/motos/zontes-368g-2025-…` (4.888 € frente a 5.592 €) y `/motos/gasgas-sm-700-2024-…` (10.949 € frente a 10.749 €).
+   - Año del title distinto del de la meta: Haval H6 HEV 2025, Xiaomi YU7 Max 2025, Tank 500, Lexus LBX, Cupra Formentor 2024, VW Taigo, Lexus LC 500 y JAC T9.
+   - Metas con frase repetida: Haval H6 HEV, Omoda 9 SHS, Stelato S9, Dacia Jogger ECO-G, BYD Atto 3, Chery Himla, Li Auto L6, Hyundai Tucson 2027, Alpine A110, BMW M2 Coupé, Honda Civic e:HEV y Porsche Panamera.
+   - Plantilla de meta (≤155 car.): «[Modelo año]: [potencia] CV, [autonomía/consumo], etiqueta [X]. Precio desde [precio verificado] € en España ([oficial / dato no oficial]). Ficha y rivales.»
+5. **Motos sin velocidad máxima, justo cuando la búsqueda es «X velocidad máxima»** y estamos en la posición 5–10 con 0 clics:
+   - `/motos/kymco-agility-nx-125-2026-ficha-tecnica-precio/` (44 impr., pos. 6,3).
+   - `/motos/zontes-368m-2025-ficha-tecnica-precio/` (19 impr., pos. 10).
+   - `/motos/benelli-bkx-300-s-2025-ficha-tecnica-precio/` (14 impr., pos. 5,6).
+   - `/motos/sym-adxtg-400-2025-ficha-tecnica-precio/` (14 impr., pos. 10,2).
+   - `/motos/macbor-rockster-410-2025-ficha-tecnica-precio/` (8 impr., pos. 10,1).
+   - También les falta el dato a: Suzuki V-Strom 800 Tech 2025, Italjet Dragster 459 Twin 2026, Kawasaki Z500 2025, KTM 1390 Super Duke R 2024, GasGas EC 300 2T 2025, Kymco Super Dink GT 125 2025, Honda NC750X 2025, SYM ADX 300 2025 y Zontes 368G 2025.
+   - Rellena el campo «Velocidad máxima» que ya tiene la plantilla (la Zontes 125V ya lo muestra) con el dato del fabricante, más la FAQ «¿Qué velocidad máxima alcanza la [modelo]?». Si no hay dato oficial: «dato no oficial» con la fuente (prueba de un medio).
+   - Title propuesto para el 1/11, por ejemplo: «Kymco Agility NX 125 2026: velocidad máxima, precio y ficha» (59 car.).
+
+### P1 — canibalizaciones (decide Cosa los 301; tú verificas, fusionas el texto y lo propones en `docs/seo/propuesta-301-1019.csv`)
+6. **Dacia Bigster Hybrid 155.** Se queda como principal `/coches/dacia-bigster-hybrid-precio-espana/` (tiene el historial de GSC). La otra es `/coches/dacia-bigster-2026-hybrid-155-precio-ficha-tecnica/`: es la misma versión con otros datos (batería de 1,4 frente a 1,7 kWh, 156 frente a 155 CV). Verifica los datos en Dacia España, pasa a la principal lo que aporte la otra y propón un 301 de la secundaria a la principal.
+7. **Stelato S9.** Principal: `/coches/stelato-s9-huawei-2026-precio-ficha-tecnica/` (buscan «huawei s9 precio», pos. 8,4). La de `/coches/stelato-s9-2024-precio-ficha-tecnica/` da 309 CV.
+   - Si es el mismo coche, propón un 301 de la 2024 a la 2026.
+   - Si son versiones distintas, diferencia el H1 y la intro, y enlázalas entre sí con los anchors «Stelato S9 2024 (versión anterior)» y «Stelato S9 2026: precio y ficha técnica».
+8. **BYD Atto 3 Evo.** La ficha `/coches/byd-atto-3-evo-2025-precio-ficha-tecnica/` dice 313 CV y 42.990 €; el post `/blog/byd-atto-3-evo-2026-precio-espana/` dice 449 CV y 29.455 €.
+   - Verifica los datos con BYD España y corrige el que esté mal.
+   - La ficha es la principal para «precio y ficha técnica». El post se queda como noticia de la llegada a España y enlaza a la ficha en el primer párrafo con el anchor «ficha técnica y precio del BYD Atto 3 Evo».
+9. **Post y ficha del mismo modelo y año en motos** (los 13 posts del 17/10: XSR900, Forza 350, YZF-R1, ADV350, CBR650R, MT-10, YZF-R9, CB750 Hornet, CB125R, X-ADV 750 y Tracer 9 GT, más Austral y Bigster en coches). Todos compiten por «precio» y están en la posición 40–60.
+   - La ficha es la principal para «precio y ficha técnica».
+   - El post pasa a ser análisis: opinión, pros y contras, y comparación con 3 rivales. Title propuesto para el 1/11, por ejemplo: «Yamaha XSR900 2024: análisis, pros y contras» (44 car.).
+   - El post enlaza a la ficha en el primer párrafo con el anchor «precio y ficha técnica de la [modelo]», y la ficha enlaza al post con el anchor «análisis de la [modelo]».
+10. **Fichas de un año anterior que reciben la búsqueda del año nuevo.** Por ejemplo, «bmw s1000rr precio 2026» cae en `/motos/bmw-s-1000-rr-2024-ficha-tecnica-precio/`. Pasa lo mismo con Yamaha XSR900 (2024 y 2026), Honda Forza 350 (2024, 2025 y 2026), Honda NT1100 (2024 y 2025), Honda NC750X (2025 y 2026) y Honda CB750 Hornet (2024 y 2025).
+   - En el texto de la intro de la ficha antigua, añade una frase con un enlace a la nueva: «Ya está a la venta la [modelo 2026]: precio y ficha técnica».
+   - En la nueva, enlaza a la anterior con el anchor «versión anterior ([año])».
+   - Cada una conserva su canonical propia. Sin cambios de diseño.
+11. **Multas: ciudad o comunidad.** Hay dos casos:
+   - Madrid: `/multas/madrid/` (83 impr., pos. 47) y `/comunidades/madrid/` (64 impr., pos. 43) se reparten las búsquedas.
+   - Murcia: Google prefiere `/comunidades/murcia/` (pos. 11,2) a `/multas/murcia/` (pos. 55).
+   - No uses canonical: diferencia la intención. `/multas/<ciudad>/` es lo municipal (Policía Local o agentes de movilidad, ordenanza, SER/ORA, ZBE y grúa, con la sede y el plazo oficiales). `/comunidades/<comunidad>/` es la DGT y las carreteras interurbanas.
+   - Cada una enlaza a la otra en la intro, con los anchors «multas del Ayuntamiento de Murcia» y «multas de la DGT en la Región de Murcia» (y lo mismo para Madrid).
+   - La de Madrid también enlaza a `/blog/multas-de-aparcamiento-y-grua-en-madrid-como-recuperar-tu-coche-y-recurrir-la-sancion-con-exito/` con el anchor «grúa en Madrid: cómo recuperar el coche».
+   - Meta propuesta para `/multas/murcia/` (124 car.): «Multas de la Policía Local de Murcia: plazos para recurrir, dónde presentar el recurso y análisis gratis de tu multa con IA.»
+12. **Pronto pago (riesgo de canibalización).** `/blog/como-pagar-multa-dgt/` (144 impr., pos. 54) contesta «cómo y dónde pagar», y `/blog/pagar-multa-con-descuento-y-recurrir/` (59 impr., pos. 14,4) contesta «¿puedo recurrir si pago con descuento?».
+   - Que ninguna de las dos repita la explicación larga de la otra.
+   - Cada una enlaza a la otra con los anchors «dónde pagar la multa de la DGT» y «¿se puede recurrir si pagas con el 50 %?», citando el art. 94 del RDL 6/2015.
+
+### P2 — posiciones 5–20 y búsquedas sin respuesta
+13. **Alfa Romeo Cuore Rosso.** URL: `/blog/alfa-romeo-cuorerosso-concept-salon-paris-2026/` («alfa romeo cuore rosso», 78 impr., pos. 9,2, 0 clics).
+   - El post sigue diciendo «habrá que esperar a la presentación del 12 de octubre»: actualízalo con lo que se presentó de verdad, usando la nota de prensa oficial de Alfa Romeo y fotos reales con su fuente.
+   - Usa también la grafía «Cuore Rosso» en un H2 y en la FAQ.
+   - Title propuesto (para el 27/10, como ya figura en `ctr-oportunidades.csv`): «Alfa Romeo Cuore Rosso: el concept del Salón de París 2026» (58 car.).
+   - Enlaces: desde `/coches/marca/alfa-romeo/` y `/blog/peugeot-salon-paris-2026-stand-dos-concepts/`, con el anchor «Alfa Romeo Cuore Rosso en el Salón de París».
+14. **«Precio en España» de lanzamientos chinos** que están en la posición 6–9 con 0 clics.
+   - Fichas: Nio ES9 («maybach nio es9», 34 impr.), Jetour T1 («precio españa», 21), Li Auto L6 (`/coches/li-auto-l6-ficha-tecnica-precio/`, 16), Haval H6 HEV (24), Chery Tiggo 9 (11), Voyah Dream (11), Changan E06, Haval Raptor, Chery Himla y Xiaomi YU7 Max (28).
+   - En las primeras 40 palabras, contesta «¿Cuánto cuesta en España?»: el precio oficial si se vende. Si no se vende, dilo claro y da el precio en origen con la fuente y la fecha del cambio.
+   - En el Nio ES9, explica la relación con «Maybach» solo con hechos que tengan fuente, sin inventar comparaciones.
+   - Cada ficha enlaza a 3 rivales y a su `/coches/marca/<marca>/`.
+15. **Respuestas directas que faltan en la FAQ**, con datos oficiales:
+   - `/coches/renault-austral-2024-precio-ficha-tecnica/`: maletero en litros y autonomía (56 impr. entre las tres búsquedas). La página ya dice 430 L; añade la FAQ y, si existe, el dato oficial con los asientos desplazados.
+   - `/coches/dacia-bigster-2025-precio-ficha-tecnica/`: autonomía (17 impr., pos. 19,6).
+   - `/motos/honda-forza-350-2024-ficha-tecnica-precio/`: consumo (17 impr.).
+16. **Guías de multas en la posición 7–20** (es el clúster del negocio).
+   - `/blog/cuanto-tarda-dgt-en-responder-recurso/` (118 impr., pos. 7,2, CTR 3,4 %): tabla de plazos por fase con su artículo de la Ley 39/2015 y del RDL 6/2015, y FAQ sobre el silencio administrativo. Meta propuesta (120 car.): «Recurso de la DGT: cuánto tarda en responder, plazos por fase y silencio administrativo. Analiza tu multa gratis con IA.»
+   - `/blog/defectos-forma-anulan-multa-dgt/` (pos. 11,6), `/comunidades/pais-vasco/` (47 impr., pos. 11, 0 clics), `/multas/oviedo/` (pos. 19,8) y el post de la ZBE de Barcelona (pos. 19,1): respuesta en las primeras 40 palabras, tabla oficial (BOE, DGT u ordenanza) y CTA al analizador.
+   - `/blog/cinemometro-laser-como-funciona-multa/` («cinemometro laser», 27 impr., pos. 44,7): tabla de márgenes de error según la orden metrológica vigente (compruébala en el BOE). Enlázala desde `/guias/radares/` y desde el post de Veloláser con el anchor «cómo funciona el cinemómetro láser».
+17. **Pendiente del 17/10 (sigue sin hacer).** Siguen sin página: Yamaha R1 2026, MT-10 2026, Niken GT 2026, MG3 Hybrid+ 2026, Mitsubishi Colt 2026, Gold Wing 2026, Denza B8, Yangwang U9 y Kymco Downtown 350 GT. La lista está en `docs/seo/consultas-sin-pagina.csv`: comprueba antes que no existan y entrégalas en noindex hasta que estén completas.
+
+Cosa revisa, aplica los title y metas en la rotación del 1/11 y publica. Las dudas, en `cosa.md`.
