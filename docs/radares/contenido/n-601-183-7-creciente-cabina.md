@@ -11,6 +11,14 @@
 ## Dónde está el equipo
 La cabina está en el pk 183,675 de la N-601, término municipal de Laguna de Duero (Valladolid), muy cerca de la capital. Controla el sentido creciente —tráfico hacia pks ascendentes—, con destino a León.
 
+<iframe title="Mapa: radar n-601-183-7-creciente-cabina" src="https://www.google.com/maps?q=41.5947,-4.7227&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-601-183-7-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=41.5947,-4.7227&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## Una zona que pide atención
 A las puertas de Valladolid, con mucho tráfico local, accesos y rotondas: aquí la velocidad debe ir contenida no solo por la cabina, sino por la propia configuración de la vía. Circular dentro del límite señalizado y anticiparse a los cambios de la vía es la mejor forma de pasar sin sobresaltos.
 
