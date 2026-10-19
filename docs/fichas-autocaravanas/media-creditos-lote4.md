@@ -39,10 +39,10 @@ Pausa temporal 19/10/2026: 50 fichas de autocaravanas. Fotos con modelo+marca ex
 - `public/media/burstner-campeo-td-690-g-2026-precio-ficha-tecnica-detalle.webp` — no oficial —  — fuente: https://www.caraworld.de/wohnmobile/buerstner/campeo/26057034/buerstner-campeo-td-690-g.html (galería del anuncio 26057034, imagen 26057017)
 
 ## carthago-liner-for-two-i-53-l-2026-precio-ficha-tecnica
-- `public/media/carthago-liner-for-two-i-53-l-2026-precio-ficha-tecnica-oficial.webp` — no oficial —  — fuente: https://cdn.caraworld.com/bilder/i/028/000/431/28000431-3-1600-0.webp (galería del anuncio 23583890 en caraworld.de)
-- `public/media/carthago-liner-for-two-i-53-l-2026-precio-ficha-tecnica-interior1.webp` — no oficial —  — fuente: https://cdn.caraworld.com/bilder/i/028/000/437/28000437-3-1600-0.webp (galería del anuncio 23583890 en caraworld.de)
-- `public/media/carthago-liner-for-two-i-53-l-2026-precio-ficha-tecnica-interior2.webp` — no oficial —  — fuente: https://cdn.caraworld.com/bilder/i/028/000/435/28000435-3-1600-0.webp (galería del anuncio 23583890 en caraworld.de)
-- `public/media/carthago-liner-for-two-i-53-l-2026-precio-ficha-tecnica-detalle.webp` — no oficial —  — fuente: https://cdn.caraworld.com/bilder/i/028/000/439/28000439-3-1600-0.webp (galería del anuncio 23583890 en caraworld.de)
+- `public/media/carthago-liner-for-two-i-53-l-2026-precio-ficha-tecnica-oficial.webp` — OFICIAL —  — fuente: https://www.carthago.com/wp-content/uploads/2026/07/Freisteller-Fiat-Ducato-liner-for-two_I_53-scaled-e1785161168225.webp (exterior de estudio I 53 en carthago.com)
+- `public/media/carthago-liner-for-two-i-53-l-2026-precio-ficha-tecnica-interior1.webp` — no oficial —  — fuente: https://www.niesmann.de/fileadmin/data_niesmann/Bilder/wohnmobile/marken/carthago/liner-for-two/carthago-lliner-for-two-interieur-01.jpg (interior Liner-for-two en niesmann.de)
+- `public/media/carthago-liner-for-two-i-53-l-2026-precio-ficha-tecnica-interior2.webp` — OFICIAL —  — fuente: https://www.carthago.com/wp-content/uploads/2026/07/TV-Schlafbereich-liner-for-two_I_53-1600x1067.webp (zona de descanso con TV en carthago.com)
+- `public/media/carthago-liner-for-two-i-53-l-2026-precio-ficha-tecnica-detalle.webp` — OFICIAL —  — fuente: https://www.carthago.com/wp-content/uploads/2026/07/Freisteller-Iveco-Daily-liner-for-two_I_53_L-e1785161110401.webp (exterior de estudio I 53 L Iveco en carthago.com)
 
 ## dethleffs-esprit-i-7150-dbl-2026-precio-ficha-tecnica
 - `public/media/dethleffs-esprit-i-7150-dbl-2026-precio-ficha-tecnica-oficial.webp` — OFICIAL —  — fuente: https://www.dethleffs.co.uk/dethleffs/01_DE/01_bilddaten_2024-25/02_wohnmobile/07_esprit/02_freisteller/image-thumb__98644__wls-det-dimensions/esprit_25_freisteller_seite.png (mediateca oficial Dethleffs)
