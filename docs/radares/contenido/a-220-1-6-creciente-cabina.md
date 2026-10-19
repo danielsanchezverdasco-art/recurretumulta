@@ -11,6 +11,14 @@
 
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=41.46667,-1.36487)
 
+<iframe title="Mapa: radar a-220-1-6-creciente-cabina" src="https://www.google.com/maps?q=41.46667,-1.36487&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-220-1-6-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=41.46667,-1.36487&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 
 > **Cómo lo verificamos:** los datos de esta página —carretera, pk, sentido y coordenadas— proceden del fichero oficial de radares fijos de la DGT en formato DATEX II. Para este punto, la DGT no publica la velocidad límite ni el municipio (comprobado el 2026-10-18); la ficha, por tanto, no los incluye.
 
