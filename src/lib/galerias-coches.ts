@@ -619,9 +619,10 @@ export const GALERIAS_COCHES: Record<string, FotoCarrusel[]> = {
     { src: "/media/cupra-leon-vz-300-2025-precio-ficha-tecnica-hero.webp", alt: "Cupra León VZ 300 en un puerto de montaña", credito: "Imagen ilustrativa generada por IA" },
   ],
   "cupra-leon-vz-325-2025-precio-ficha-tecnica": [
-    { src: "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-oficial.webp", alt: "Cupra León VZ 325, trasera tres cuartos en marcha (foto oficial de prensa)", credito: "CUPRA, sala de prensa oficial (SEAT-CUPRA Media Center)" },
-    { src: "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Cupra León VZ 325 con asientos CUPBucket", credito: "CUPRA, sala de prensa oficial (SEAT-CUPRA Media Center)" },
-    { src: "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-hero.webp", alt: "Cupra León VZ 325, tres cuartos delantero (foto oficial de prensa)", credito: "CUPRA, sala de prensa oficial (SEAT-CUPRA Media Center)" },
+    { src: "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-oficial.webp", alt: "Cupra León VZ 325, trasera tres cuartos en marcha", credito: "Foto de prensa CUPRA vía dailydriver.pl" },
+    { src: "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Cupra León VZ 325 con asientos CUPBucket", credito: "Auto Express" },
+    { src: "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-hero.webp", alt: "Cupra León VZ 325, tres cuartos delantero", credito: "Foto de prensa CUPRA vía infomotori.com" },
+    { src: "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-detalle.webp", alt: "Detalle trasero del Cupra León VZ 325: escapes en cobre y difusor", credito: "Foto de prensa CUPRA vía dailydriver.pl (recorte de detalle)" },
   ],
   "cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica": [
     { src: "/media/cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica-oficial.webp", alt: "Cupra León Sportstourer e-Hybrid, familiar híbrido enchufable", credito: "Imagen ilustrativa generada por IA" },

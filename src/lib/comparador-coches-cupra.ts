@@ -596,14 +596,14 @@ export const COCHES_CUPRA: CocheComparador[] = [
     largoMm: 4398,
     anchoMm: 1799,
     altoMm: 1444,
-    pesoKg: 1500,
+    pesoKg: 1507,
     consumo: 7.9,
     consumoUnidad: "l/100 km",
     plazas: 5,
     parNm: 420,
     traccion: "Delantera",
     emisionesCo2: 172,
-    aprox: ["pesoKg", "consumo", "emisionesCo2"],
+    aprox: ["consumo", "emisionesCo2"],
     pros: [
       "325 CV y 420 Nm con tracción delantera y diferencial autoblocante mecánico: el León más potente de la historia",
       "49.514 € (km77): producción limitada a 1.500 unidades para todo el mundo",
@@ -638,13 +638,13 @@ export const COCHES_CUPRA: CocheComparador[] = [
     galeria: [
       {
         src: "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Cupra León VZ 325, tres cuartos delantero (foto oficial de prensa)",
+        alt: "Cupra León VZ 325, tres cuartos delantero",
         ancho: 1280,
         alto: 853
       },
       {
         src: "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Cupra León VZ 325, trasera tres cuartos en marcha (foto oficial de prensa)",
+        alt: "Cupra León VZ 325, trasera tres cuartos en marcha",
         ancho: 960,
         alto: 540
       },
@@ -653,11 +653,17 @@ export const COCHES_CUPRA: CocheComparador[] = [
         alt: "Interior del Cupra León VZ 325 con asientos CUPBucket",
         ancho: 1260,
         alto: 710
+      },
+      {
+        src: "/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-detalle.webp",
+        alt: "Detalle trasero del Cupra León VZ 325: escapes en cobre y difusor",
+        ancho: 400,
+        alto: 360
       }
     ],
     analisisSlug: "cupra-leon-vz-325-2025-precio-ficha-tecnica",
     fuenteNombre: "km77.com",
-    fuenteUrl: "https://www.km77.com/coches/cupra/leon/informacion",
+    fuenteUrl: "https://www.km77.com/coches/cupra/leon/2024/5-puertas/estandar/leon-5p-vz-20-tsi-239-kw-325-cv-dsg/datos",
     euroncap: {
       estrellas: 5,
       ano: 2025,

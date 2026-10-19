@@ -633,7 +633,7 @@ Enfréntalos en <a href=/comparador-coches/>el comparador</a>.
 
 <img src=/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-interior.webp alt=Interior del Cupra León VZ 325 con asientos CUPBucket>
 
-<img src=/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-3.webp alt=Interior del Cupra León VZ 325>
+<img src=/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-detalle.webp alt=Detalle trasero del Cupra León VZ 325: escapes en cobre y difusor>
 
 | ✅ Pros | ❌ Contras |
 |---|---|
