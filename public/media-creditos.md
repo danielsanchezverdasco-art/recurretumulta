@@ -2511,3 +2511,28 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/ducati-scrambler-icon-800-2026-ficha-tecnica-precio-hunt1.webp | https://images5.1000ps.net/images_bikekat/2026/5-Ducati/7929-Scrambler_Icon/001-639002030567119019-ducati-scrambler-icon.jpg?height=450&width=730&mode=crop | 1000ps / moto-point.at | desconocida |
 | /media/ducati-scrambler-icon-800-2026-ficha-tecnica-precio-hunt2.webp | https://www.mototoursjapan.com/dcms_media/image/Scrambler_icon_dark26.webp | Mototours Japan | desconocida |
 | /media/ducati-scrambler-icon-800-2026-ficha-tecnica-precio-hunt3.webp | https://cdn-fastly.motorcycle.com/media/2025/12/21/020540/media.jpg?size=1200x628 | Motorcycle.com | desconocida |
+| /media/aixam-e-truck-plataforma-aluminio-2025-precio-ficha-tecnica-hunt1.webp | no registrada en la caza previa | Aixam — prensa oficial del fabricante (atribución probable) | desconocida |
+| /media/aixam-e-truck-plataforma-aluminio-2025-precio-ficha-tecnica-hunt2.webp | no registrada en la caza previa | Concesionario / anuncio de venta (origen concreto no registrado) | desconocida |
+| /media/aixam-e-truck-plataforma-aluminio-2025-precio-ficha-tecnica-hunt3.webp | no registrada en la caza previa | Concesionario / anuncio de venta (origen concreto no registrado) | desconocida |
+| /media/daihatsu-copen-2025-hunt1.webp | no registrada en la caza previa | Daihatsu — prensa oficial del fabricante (atribución probable) | desconocida |
+| /media/denver-sel-10810fdb-hunt1.webp | no registrada en la caza previa | Denver Electronics — foto de producto (atribución probable) | desconocida |
+| /media/denver-sel-10810fdb-hunt2.webp | no registrada en la caza previa | Denver Electronics — foto de producto (atribución probable) | desconocida |
+| /media/denver-sel-10810fdb-hunt3.webp | no registrada en la caza previa | Denver Electronics — foto de producto (atribución probable) | desconocida |
+| /media/horwin-sk3-2025-ficha-tecnica-precio-hunt1.webp | no registrada en la caza previa | Horwin — prensa oficial del fabricante (atribución probable) | desconocida |
+| /media/horwin-sk3-2025-ficha-tecnica-precio-hunt2.webp | no registrada en la caza previa | Horwin — prensa oficial del fabricante (atribución probable) | desconocida |
+| /media/horwin-sk3-2025-ficha-tecnica-precio-hunt3.webp | no registrada en la caza previa | Horwin — prensa oficial del fabricante (atribución probable) | desconocida |
+| /media/jetour-x70-2024-precio-ficha-tecnica-hunt1.webp | no registrada en la caza previa | DailyRevs.com (marca de agua pequeña visible en esquinas, no prominente) | desconocida |
+| /media/jetour-x70-2024-precio-ficha-tecnica-hunt2.webp | no registrada en la caza previa | DailyRevs.com (marca de agua pequeña visible en esquinas, no prominente) | desconocida |
+| /media/jetour-x70-2024-precio-ficha-tecnica-hunt3.webp | no registrada en la caza previa | 汽车之家 Autohome (texto visible en la matrícula de la imagen) | desconocida |
+| /media/kia-ev3-gt-2026-hunt1.webp | https://images.carexpert.com.au/resize/1000/-/cms/v1/media/2026-01-kia-ev3-gt-1.jpg | CarExpert (foto de prensa oficial Kia EV3 GT) | desconocida |
+| /media/kia-ev3-gt-2026-hunt2.webp | https://autogear.pt/?p=118080 | Autogear.pt (foto de prensa oficial Kia EV3 GT) | desconocida |
+| /media/kia-ev3-gt-2026-hunt3.webp | https://www.topspeed.sk/novinky/kia-v-bruseli-naraz-predstavila-hned-tri-nove-sportove-modely-gt-vsetky-so-4x4/27797/galeria/17499/4/ | TopSpeed.sk (foto de prensa oficial Kia EV3 GT, presentación Bruselas) | desconocida |
+| /media/radical-sr1-xxr-2025-precio-ficha-tecnica-hunt1.webp | https://www.pistonheads.com/news/ph-britishcars/xxr-upgrade-announced-for-radical-sr1/47132 | PistonHeads | desconocida |
+| /media/radical-sr1-xxr-2025-precio-ficha-tecnica-hunt2.webp | https://www.radicalsweden.nu/radical-sr1-xxr/ | Radical Sweden (concesionario oficial) | desconocida |
+| /media/radical-sr1-xxr-2025-precio-ficha-tecnica-hunt3.webp | https://www.autonocion.com/radical-sr1-xxr/ | AutoNocion | desconocida |
+| /media/cecotec-bongo-serie-x65-connected-hunt1.webp | https://media.cecotec.cloud/07118/bongo-serie-x65-it-connected-de_gjdkvz_2.png:md | Cecotec (CDN oficial, tienda Cecotec) | desconocida |
+| /media/cecotec-bongo-serie-x65-connected-hunt2.webp | https://www.tradeinn.com/f/14086/140860794/cecotec-patinete-electrico-bongo-serie-x65-connected.webp | Tradeinn (foto de producto oficial) | desconocida |
+| /media/cecotec-bongo-serie-x65-connected-hunt3.webp | https://resize.sprintercdn.com/o/products/7f9226d76418402699d2baf114eca4ba/trotinete-eletrica-cecotec-bongo-x65-connected_7f9226d76418402699d2baf114eca4ba_754379696.jpg | Sprinter (foto de producto oficial) | desconocida |
+| /media/cecotec-bongo-d30-xl-connected-hunt1.webp | https://www.ahorradoras.com/wp-content/uploads/2023/11/bongo-d30-xl-on4iil-2.webp | Ahorradoras | desconocida |
+| /media/cecotec-bongo-d30-xl-connected-hunt2.webp | https://m.media-amazon.com/images/I/41+8HVqYrvL._AC_SL1000_.jpg | Amazon / e-patinetes | desconocida |
+| /media/cecotec-bongo-d30-xl-connected-hunt3.webp | https://www.eldisser.com/img/imgproductos/266/881/266881.jpg | Eldisser | desconocida |
