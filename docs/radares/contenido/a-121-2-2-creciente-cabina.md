@@ -12,6 +12,13 @@
 
 La cabina se encuentra en la **A-121, punto kilométrico 2,2**, en la provincia de Zaragoza, y controla el **sentido creciente** de la circulación, es decir, a los vehículos que avanzan en la dirección que la DGT identifica como **La Almunia**. Las coordenadas la sitúan en el oeste de la provincia, en una zona de llanura agrícola atravesada por carreteras comarcales.
 
+<iframe title="Mapa: radar a-121-2-2-creciente-cabina" src="https://www.google.com/maps?q=41.81333,-1.47057&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-121-2-2-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=41.81333,-1.47057&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
 ## La carretera
 
 La A-121 pertenece a la **red autonómica de carreteras de Aragón** (las vías con numeración A- de tres dígitos son de titularidad autonómica). Es una carretera convencional de un carril por sentido que articula el tráfico comarcal de la zona: movimientos entre pueblos, tráfico agrícola y conexiones con los grandes ejes (la A-68 y la N-232 pasan a pocos kilómetros). En este tipo de vías el tráfico es menos denso que en una autovía, pero la siniestralidad por salida de vía y colisión frontal hace que la DGT mantenga puntos de control fijos.
