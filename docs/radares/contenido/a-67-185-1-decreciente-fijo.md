@@ -12,6 +12,15 @@
 
 El equipo se encuentra en la **A-67, punto kilométrico 185,1**, en Cantabria, y vigila el **sentido decreciente**, es decir, el flujo que la DGT identifica en dirección **Palencia**. El punto queda a la altura del entorno de Torrelavega, la segunda ciudad de la comunidad, justo donde la autovía deja atrás el área urbana y encara la subida hacia el interior. Es un sector de transición: el tráfico metropolitano se diluye y empieza el recorrido de media distancia hacia la Meseta.
 
+<iframe title="Mapa: radar a-67-185-1-decreciente-fijo" src="https://www.google.com/maps?q=43.3781,-4.0367&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-67-185-1-decreciente-fijo" src="https://maps.google.com/maps?q=&layer=c&cbll=43.3781,-4.0367&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La A-67 enlaza Santander con la Meseta norte y soporta una mezcla muy variada de usuarios: camiones que conectan el puerto con la península, turismos de paso hacia Castilla y León y vecinos que se mueven entre Torrelavega y los polígonos de su entorno. En este tramo la autovía combina rectas generosas con curvas de radio amplio, y la presencia de nudos hacia las zonas industriales hace que convivan velocidades muy distintas en carriles contiguos. Esa heterogeneidad es precisamente lo que justifica un control permanente.
