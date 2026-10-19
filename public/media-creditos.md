@@ -1935,3 +1935,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/zwheel-e9t-hunt1.webp | https://www.lacasadeloutlet.es/wp-content/uploads/2021/10/Patinete-electrico-Zwheel-E9T-gris-3.jpg.webp | La Casa del Outlet | desconocida |
 | /media/zwheel-e9t-hunt2.webp | https://www.discoazul.com/uploads/media/images/patinete-electrico-zamelux-zwheel-e9t-confort-gris-161.jpg | DiscoAzul | desconocida |
 | /media/zwheel-e9t-hunt3.webp | http://lacasadeloutlet.es/wp-content/uploads/2020/11/E9T-standing-right-700x700-1.jpg | La Casa del Outlet | desconocida |
+| /media/aixam-easy-chic-2025-precio-ficha-tecnica-hunt1.webp | https://www.mobile-sanspermis.fr/wp-content/uploads/2026/05/Aixam-EasyChic-VertJade-Elec.png | Mobile Sans Permis | desconocida |
+| /media/aixam-easy-chic-2025-precio-ficha-tecnica-hunt2.webp | https://aixam-sachsenring.de/wp-content/uploads/aixam-easy-chic-elektro.png | Aixam Sachsenring (concesionario) | desconocida |
+| /media/aixam-easy-chic-2025-precio-ficha-tecnica-hunt3.webp | https://www.aixam.at/ressources/modeles/zoom_aixam_easy_chic.webp | Aixam Austria (web oficial) | desconocida |
+| /media/ford-maverick-2025-hunt1.webp | https://rpmweb.ca/imager/medias/11104721/Ford-Maverick-2025-3_a987f97de5260cdb3b7b762675c83861.webp | RPM Web (medio canadiense) | desconocida |
+| /media/ford-maverick-2025-hunt2.webp | https://www.planetcarsz.com/img/carros/galeria/2024/07/ford-maverick-2025-004-20240731173457-1280x925.jpg | Planeta Cars Z | desconocida |
+| /media/ford-maverick-2025-hunt3.webp | http://www.elmerhareford.com/static/brand-ford/Custom_Pages/maverick/2025/vehicles/Ford_Maverick_2025_100A_PYZ_889_89W_64Z_FWD_993_XL_DEFAULT_EXT_4_001.png | Elmer Hare Ford (concesionario) | desconocida |
+| /media/jetour-t2-2024-precio-ficha-tecnica-hunt1.webp | https://mobile-review.com/all/wp-content/uploads/2024/01/jetour-t2_exterior-1600x1237.jpg | Mobile Review | desconocida |
+| /media/jetour-t2-2024-precio-ficha-tecnica-hunt2.webp | https://blog.dubizzle.com.eg/wp-content/uploads/2024/05/1703575674Jetour-68-768x432.jpg | Dubizzle Egypt | desconocida |
+| /media/jetour-t2-2024-precio-ficha-tecnica-hunt3.webp | https://japlantpoolgh.com/wp-content/uploads/2024/04/J.A-PLANT-POOL-JETOUR-T2-BACK.jpg | J.A Plant Pool Ghana (distribuidor Jetour) | desconocida |
+| /media/super-soco-ts-hunter-2025-ficha-tecnica-precio-hunt1.webp | https://cdn-listino.inmoto.it/2023/5/23/Ts_model_large_transparent_copia_4baed438f4.jpg | InMoto (listino italiano) | desconocida |
+| /media/super-soco-ts-hunter-2025-ficha-tecnica-precio-hunt2.webp | https://motoselectricasbuzz.com/wp-content/uploads/2023/07/supersoco-ts-street-hunter-gris.jpg | Motos Eléctricas Buzz | desconocida |
+| /media/super-soco-ts-hunter-2025-ficha-tecnica-precio-hunt3.webp | https://vmotosoco.md/wp-content/uploads/2016/05/TS-Hunter.png | VMoto Soco Moldavia | desconocida |
+| /media/urban-glide-e-cross-pro-2-hunt1.webp | https://fixwheel.fr/cdn/shop/files/URBANGLIDE_Ecross_pro_2_-_5_54fd7126-f105-4836-9490-0297ed98eed4.jpg?v=1747929496&width=1080 | Fixwheel (tienda) | desconocida |
+| /media/urban-glide-e-cross-pro-2-hunt2.webp | https://res.plaisio.gr/c_limit,f_auto,w_2048,q_75/d_Shared:NotFound:product-notfound.jpg/Shared/Product/Images/4634675.jpg | Plaisio (retail) | desconocida |
+| /media/urban-glide-e-cross-pro-2-hunt3.webp | https://urbanglide.com/wp-content/uploads/2024/08/E-CROSS-PRO2-BANNIERE-MOBILE-PLIE.webp | Urban Glide (web oficial) | desconocida |
+| /media/aixam-e-minauto-access-2025-precio-ficha-tecnica-hunt1.webp | https://motociclobarcelense.pt/veiculo/aixam-minauto-access/ | Motociclo Barcelense | desconocida |
+| /media/aixam-e-minauto-access-2025-precio-ficha-tecnica-hunt2.webp | https://motociclobarcelense.pt/veiculo/aixam-minauto-access/ | Motociclo Barcelense | desconocida |
+| /media/aixam-e-minauto-access-2025-precio-ficha-tecnica-hunt3.webp | https://www.lautomobile.aci.it/guidate/aixam-e-miniauto-access-prezzo-autonomia/ | L'Automobile (ACI) | desconocida |
+| /media/fiat-tipo-sw-2025-hunt1.webp | https://www.vivacar.fr/ | Vivacar (foto de prensa Fiat) | desconocida |
+| /media/fiat-tipo-sw-2025-hunt2.webp | https://www.ayvens.com/it-it/blog/modelli-auto/auto-familiari-5-modelli-da-scegliere/ | Ayvens (foto de prensa Fiat) | desconocida |
+| /media/fiat-tipo-sw-2025-hunt3.webp | https://autogomignano.com/veicolo/fiat-tipo-sw-1-0cc-firefly-life-plus-100cv/ | Auto Gomignano (concesionario) | desconocida |
+| /media/horwin-ht5-2025-ficha-tecnica-precio-hunt1.webp | https://www.horwin.eu/ | Horwin (foto oficial) | desconocida |
+| /media/horwin-ht5-2025-ficha-tecnica-precio-hunt2.webp | https://www.horwin.eu/ | Horwin (foto oficial) | desconocida |
+| /media/horwin-ht5-2025-ficha-tecnica-precio-hunt3.webp | https://onlyscooter.com/tiendas/motos-electricas/horwin/horwin-ht5/ | OnlyScooter (concesionario) | desconocida |
