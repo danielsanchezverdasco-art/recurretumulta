@@ -2490,3 +2490,24 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/ktm-890-smt-2026-ficha-tecnica-precio-hunt1.webp | https://images.medialinksonline.com/imagestream/18510/9197299x918x629_FFFFFF_L_0.jpg | KTM London UK (foto oficial KTM) | desconocida |
 | /media/ktm-890-smt-2026-ficha-tecnica-precio-hunt2.webp | https://news.webike.net/wp-content/uploads/2023/05/890smt2023_0511KTM-890-SMT-2_result-1024x683.jpg | Webike (foto oficial KTM) | desconocida |
 | /media/ktm-890-smt-2026-ficha-tecnica-precio-hunt3.webp | https://live.staticflickr.com/65535/52878757546_804914e775.jpg | Motoplanete | desconocida |
+| /media/turboant-thunder-t1-hunt1.webp | https://www.bikeride.com/turboant-thunder-t1/ | bikeride.com (foto oficial TurboAnt) | desconocida |
+| /media/turboant-thunder-t1-hunt2.webp | https://www.electricridelab.com/best-electric-bikes-for-heavy-riders/ | electricridelab.com | desconocida |
+| /media/turboant-thunder-t1-hunt3.webp | https://www.the-gadgeteer.com/2021/11/06/turboant-thunder-t1-fat-tire-electric-bike-review-its-phenomenal/ | The Gadgeteer | desconocida |
+| /media/nio-ep9-2024-precio-ficha-tecnica-hunt1.webp | https://www.supercars.net/blog/2019-nio-ep9-wallpapers/ | SuperCars.net | desconocida |
+| /media/nio-ep9-2024-precio-ficha-tecnica-hunt2.webp | https://www.supercars.net/blog/2019-nio-ep9-wallpapers/ | SuperCars.net | desconocida |
+| /media/nio-ep9-2024-precio-ficha-tecnica-hunt3.webp | https://www.nio.com/ep9 | NIO | desconocida |
+| /media/xiaomi-electric-scooter-4-pro-plus-hunt1.webp | https://www.mundoxiaomi.com/noticias/nuevo-xiaomi-electric-scooter-4-pro-plus-caracteristicas-precio-ficha-tecnica | Mundo Xiaomi (foto oficial Xiaomi) | desconocida |
+| /media/xiaomi-electric-scooter-4-pro-plus-hunt2.webp | https://www.mundoxiaomi.com/noticias/nuevo-xiaomi-electric-scooter-4-pro-plus-caracteristicas-precio-ficha-tecnica | Mundo Xiaomi (foto oficial Xiaomi) | desconocida |
+| /media/xiaomi-electric-scooter-4-pro-plus-hunt3.webp | https://www.mundoxiaomi.com/noticias/nuevo-xiaomi-electric-scooter-4-pro-plus-caracteristicas-precio-ficha-tecnica | Mundo Xiaomi (foto oficial Xiaomi) | desconocida |
+| /media/chery-fulwin-a8l-2024-precio-ficha-tecnica-hunt1.webp | https://www.car250.com/chery-a8l-2025-03.html | Car250 | desconocida |
+| /media/chery-fulwin-a8l-2024-precio-ficha-tecnica-hunt2.webp | http://fulwin.chery.cn/vehicles/a8l/ | Chery (web oficial del producto) | desconocida |
+| /media/chery-fulwin-a8l-2024-precio-ficha-tecnica-hunt3.webp | https://dealer.yiche.com/100236746/price_detail/177580.html | 易车 (Yiche) | desconocida |
+| /media/glion-balto-hunt1.webp | https://scooter.guide/es/revision-de-glion-balto-x1/ | Scooter Guide | desconocida |
+| /media/glion-balto-hunt2.webp | https://cdn.shopify.com/s/files/1/0273/7691/0433/files/glion-balto-36v-10-5ah-500w-folding-electric-scooter-28531785433285_1400x.jpg?v=1673511143 | Tienda Shopify (vendedor) | desconocida |
+| /media/glion-balto-hunt3.webp | https://scooter.guide/es/revision-de-glion-balto-x1/ | Scooter Guide | desconocida |
+| /media/suzuki-fronx-2025-precio-ficha-tecnica-hunt1.webp | https://www.car250.com/suzuki-fronx-th-2026.html | car250.com | desconocida |
+| /media/suzuki-fronx-2025-precio-ficha-tecnica-hunt2.webp | http://suzuki-anviet.com/2025/10/23/cong-nghe-va-tien-nghi-tren-suzuki-fronx-nang-tam-trai-nghiem-lai/ | Suzuki An Viet (concesionario oficial) | desconocida |
+| /media/suzuki-fronx-2025-precio-ficha-tecnica-hunt3.webp | https://havemoree.com/exploring-the-fronx-car-interior-a-blend-of-comfort-innovation-and-style/ | havemoree.com | desconocida |
+| /media/ducati-scrambler-icon-800-2026-ficha-tecnica-precio-hunt1.webp | https://images5.1000ps.net/images_bikekat/2026/5-Ducati/7929-Scrambler_Icon/001-639002030567119019-ducati-scrambler-icon.jpg?height=450&width=730&mode=crop | 1000ps / moto-point.at | desconocida |
+| /media/ducati-scrambler-icon-800-2026-ficha-tecnica-precio-hunt2.webp | https://www.mototoursjapan.com/dcms_media/image/Scrambler_icon_dark26.webp | Mototours Japan | desconocida |
+| /media/ducati-scrambler-icon-800-2026-ficha-tecnica-precio-hunt3.webp | https://cdn-fastly.motorcycle.com/media/2025/12/21/020540/media.jpg?size=1200x628 | Motorcycle.com | desconocida |
