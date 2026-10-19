@@ -12,6 +12,14 @@
 
 La Dirección General de Tráfico ubica esta caja en la **A-7 a la altura del pk 349,7**, en territorio de Valencia. Cubre el **sentido creciente**, el de quienes se desplazan hacia pk crecientes. El municipio que corresponde a estas coordenadas es **Picassent** (fuente: el geocodificador del IGN). El punto vigilado más cercano es el de la **A-7, pk 352,0** (sentido decreciente): queda a 2,2 km hacia el sureste.
 
+<iframe title="Mapa: radar a-7-349-7-creciente-cabina" src="https://www.google.com/maps?q=39.37685,-0.46414&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-7-349-7-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.37685,-0.46414&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La A-7 es la Autovía del Mediterráneo, el gran corredor del litoral. Circula por aquí quien atraviesa la comunidad y quien se mueve entre municipios vecinos. El marco geográfico es la costa valenciana.
