@@ -3083,3 +3083,26 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/bentley-flying-spur-mulliner-2026-precio-ficha-tecnica-hunt1.webp | https://www.lus.so/en/dealer/semler-premium/ | lus.so / Semler Premium | desconocida |
 | /media/bentley-flying-spur-mulliner-2026-precio-ficha-tecnica-hunt2.webp | https://schmohl.ch/en/brands-models/bentley/flying-spur | Schmohl / Bentley Motors (foto oficial) | desconocida |
 | /media/bentley-flying-spur-mulliner-2026-precio-ficha-tecnica-hunt3.webp | https://www.alexhowe.com | Bentley Motors (foto oficial de prensa) | desconocida |
+| /media/kaabo-wolf-warrior-11-plus-hunt1.webp | https://www.voltride.cz/cs/elektricke-kolobezky/kaabo-wolf-warrior-11-plus | VoltRide | desconocida |
+| /media/kaabo-wolf-warrior-11-plus-hunt2.webp | https://www.maxblinker.ch/de/e-scooter/kaabo-wolf-warrior-11-plus | MaxBlinker | desconocida |
+| /media/kaabo-wolf-warrior-11-plus-hunt3.webp | https://www.feedcast.shopping/en/products/categories/trottinette-kaabo-wolf-warrior-11-plus-5746562 | Feedcast / Kaabo | desconocida |
+| /media/kawasaki-ninja-zx-4r-2026-ficha-tecnica-precio-hunt1.webp | https://www.kawasaki-motors.com/ja-jp/motorcycle/ninja/supersport/ninja-zx-4r/2025-ninja-zx-4r-se | Kawasaki Motors (oficial) | desconocida |
+| /media/kawasaki-ninja-zx-4r-2026-ficha-tecnica-precio-hunt2.webp | https://www.seastarsuperbikes.co.uk/kawasaki/models/supersports/ninja-zx-4r/ | Kawasaki Motors (foto oficial) vía Seastar Superbikes | desconocida |
+| /media/kawasaki-ninja-zx-4r-2026-ficha-tecnica-precio-hunt3.webp | https://bikeprice-bd.com/us/bikes | Kawasaki Motors (foto oficial) vía BikePrice-BD | desconocida |
+| /media/lexus-ls-500h-2024-precio-ficha-tecnica-hunt1.webp | https://www.cars24.com/new-cars/lexus/ls/images/ | Cars24 / Lexus (foto oficial de prensa) | desconocida |
+| /media/lexus-ls-500h-2024-precio-ficha-tecnica-hunt2.webp | https://www.blackxperience.com/blackauto/autonews/lexus-ls-hadir-dengan-update-model-2024-punya-fitur-baru | Lexus (foto oficial de prensa) vía BlackXperience | desconocida |
+| /media/lexus-ls-500h-2024-precio-ficha-tecnica-hunt3.webp | https://www.sslexus.com/lexus-reviews/2024-ls.htm | Lexus (foto oficial de prensa) vía South Shore Lexus | desconocida |
+| /media/rolls-royce-spectre-black-badge-2026-precio-ficha-tecnica-hunt1.webp | https://www.dailyrevs.com/cars/2026-rolls-royce-spectre-black-badge | Rolls-Royce (foto oficial de prensa) vía DailyRevs | desconocida |
+| /media/rolls-royce-spectre-black-badge-2026-precio-ficha-tecnica-hunt2.webp | https://xmotors.me/car-listing/rolls-royce-spectre/ | XMOTORS | desconocida |
+| /media/rolls-royce-spectre-black-badge-2026-precio-ficha-tecnica-hunt3.webp | https://www.dubicars.com/2026-rolls-royce-spectre-black-badge-959198.html | DubiCars (anuncio 2026 Black Badge) | desconocida |
+| /media/kaabo-skywalker-10s-hunt1.webp | https://scooter.guide/kaabo-skywalker-10s-electric-scooter-review/ | Scooter.guide (prensa motor) | desconocida |
+| /media/kaabo-skywalker-10s-hunt2.webp | https://citycoco.hr/elektricni-romobil-kaabo-skywalker-10s-1/ | Citycoco (distribuidor) | desconocida |
+| /media/kaabo-skywalker-10s-hunt3.webp | https://zhukovskij.electrostreet.ru/ehlektrosamokat-kaabo-skywalker-10s-2000w/ | Electrostreet (distribuidor) | desconocida |
+| /media/kaabo-wolf-warrior-2-hunt1.webp | https://freshlycharged.com/storage/651/Kaabo-Wolf-Warrior.jpg | Freshly Charged / Kaabo (prensa) | desconocida |
+| /media/kaabo-wolf-warrior-2-hunt2.webp | https://www.inydy.com/wp-content/uploads/thumbs_dir/wolfwarriorside-1xyfcqi2rne5puaulgudy1d1317a5lcb2373c4xw93z8.jpg | INYDY / Kaabo (tienda) | desconocida |
+| /media/kaabo-wolf-warrior-2-hunt3.webp | https://www.electrickicks.com.au/cdn/shop/products/kaabo-wolf-warrior-11_-electric-scooter.jpg | Electric Kicks / Kaabo (tienda) | desconocida |
+| /media/apollo-city-2-hunt1.webp | https://apolloscooters.co/cdn/shop/files/BEST_E-SCOOTERS_OF_2026_1.png?v=1776450086&width=800 | Apollo Scooters / oficial | desconocida |
+| /media/apollo-city-2-hunt2.webp | https://apolloscooters.co/cdn/shop/files/ApolloCity_LG9__Regularshots_1.png?v=1765830139&width=1600 | Apollo Scooters / oficial (gama 2026) | desconocida |
+| /media/apollo-city-stellar-hunt1.webp | https://apolloscooters.co/pages/compare-scooters | Apollo Scooters (web oficial) | desconocida |
+| /media/apollo-city-stellar-hunt2.webp | https://apolloscooters.co/search?page=4&q=pro&type=product | Apollo Scooters (web oficial) | desconocida |
+| /media/apollo-city-stellar-hunt3.webp | https://apolloscooters.co/products/apollo-city-stellar | Apollo Scooters (web oficial) | desconocida |
