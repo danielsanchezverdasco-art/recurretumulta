@@ -11,6 +11,14 @@
 ## Dónde está
 
 Mos (Pontevedra): esta cabina vigila la A-55 a la altura del pk 9,2 (42.198895, -8.656586). Tiene a su cargo el sentido creciente: el de los vehículos hacia puntos kilométricos ascendentes; el registro de la DGT indica Tui como destino. Street View lo sitúa.
+
+<iframe title="Mapa: radar a-55-9-2-creciente-cabina" src="https://www.google.com/maps?q=42.198895,-8.656586&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-55-9-2-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.198895,-8.656586&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
 ## La carretera
 
 La A-55 es una autovía estatal entre Vigo y la frontera portuguesa, pasando por Tui. La DGT no documenta el pk 9,2.
