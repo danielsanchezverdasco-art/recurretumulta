@@ -114,7 +114,7 @@ Para quién es. La Exsis-i 580 Pure encaja con parejas viajeras que quieren una 
     ],
     opiniones: [],
     galeria: [
-      { src: "/media/hymer-exsis-i-580-pure-2026-precio-ficha-tecnica-oficial.webp", alt: "Hymer Exsis-i 580 Pure, vista exterior", ancho: 1600, alto: 1200 },
+      { src: "/media/hymer-exsis-i-580-pure-2026-precio-ficha-tecnica-oficial.webp", alt: "Hymer Exsis-i 580 Pure, vista exterior", ancho: 1920, alto: 1080 },
       { src: "/media/hymer-exsis-i-580-pure-2026-precio-ficha-tecnica-interior1.webp", alt: "Hymer Exsis-i 580 Pure, dormitorio con camas gemelas", ancho: 1600, alto: 1067 },
       { src: "/media/hymer-exsis-i-580-pure-2026-precio-ficha-tecnica-interior2.webp", alt: "Hymer Exsis-i 580 Pure, camas gemelas traseras", ancho: 1600, alto: 1067 },
       { src: "/media/hymer-exsis-i-580-pure-2026-precio-ficha-tecnica-detalle.webp", alt: "Hymer Exsis-i 580 Pure, detalle de las camas gemelas", ancho: 1000, alto: 674 },
@@ -254,10 +254,10 @@ límite, y quien busque tracción total deberá mirar a la versión CrossOver en
     ],
     opiniones: [],
     galeria: [
-      { src: "/media/hymer-ml-t-570-xperience-2026-precio-ficha-tecnica-oficial.webp", alt: "Hymer ML-T 570 Xperience, vista exterior", ancho: 1200, alto: 800 },
-      { src: "/media/hymer-ml-t-570-xperience-2026-precio-ficha-tecnica-interior1.webp", alt: "Hymer ML-T 570 Xperience, salón interior", ancho: 1200, alto: 800 },
-      { src: "/media/hymer-ml-t-570-xperience-2026-precio-ficha-tecnica-interior2.webp", alt: "Hymer ML-T 570 Xperience, zona de camas", ancho: 1200, alto: 800 },
-      { src: "/media/hymer-ml-t-570-xperience-2026-precio-ficha-tecnica-detalle.webp", alt: "Hymer ML-T 570 Xperience, detalle", ancho: 1200, alto: 800 },
+      { src: "/media/hymer-ml-t-570-xperience-2026-precio-ficha-tecnica-oficial.webp", alt: "Hymer ML-T 570 Xperience, vista exterior", ancho: 1024, alto: 683 },
+      { src: "/media/hymer-ml-t-570-xperience-2026-precio-ficha-tecnica-interior1.webp", alt: "Hymer ML-T 570, salón comedor (foto oficial Hymer)", ancho: 1750, alto: 2621 },
+      { src: "/media/hymer-ml-t-570-xperience-2026-precio-ficha-tecnica-interior2.webp", alt: "Hymer ML-T 570, camas gemelas (foto oficial Hymer)", ancho: 2768, alto: 1848 },
+      { src: "/media/hymer-ml-t-570-xperience-2026-precio-ficha-tecnica-detalle.webp", alt: "Hymer ML-T 570, cocina (foto oficial Hymer)", ancho: 4240, alto: 2832 },
     ],
     analisisSlug: "hymer-ml-t-570-xperience-2026-analisis-opinion",
     planMantenimiento: {
