@@ -12,6 +12,14 @@
 
 El **pk 35,3 de la A-66** acoge, en el Principado de Asturias, una cabina que fiscaliza el **sentido decreciente**, rotulado por la DGT con destino **SERÍN**. Vigila a quienes circulan hacia el norte, en dirección al área gijonesa. El punto se halla al sur de Oviedo, en el sector de la Ruta de la Plata que desciende del interior hacia la zona centro.
 
+<iframe title="Mapa: radar a-66-35-3-decreciente-cabina" src="https://www.google.com/maps?q=43.3226,-5.872&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-66-35-3-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=43.3226,-5.872&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 En la A-66 la kilometración aumenta hacia el sur, hacia León; el sentido decreciente designa así a la calzada norte, la del retorno a la costa.
 
 ## La carretera
