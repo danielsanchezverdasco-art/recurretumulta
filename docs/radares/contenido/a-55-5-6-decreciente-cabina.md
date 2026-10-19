@@ -12,6 +12,14 @@
 
 La cabina figura en Vigo (Pontevedra), en el pk 5,6 de la autovía A-55; coordenadas 42.21744, -8.684554. El sentido bajo control es el decreciente, el de la circulación en dirección a pks inferiores; el registro oficial señala VIGO como destino. El punto se aprecia en la vista panorámica enlazada.
 
+<iframe title="Mapa: radar a-55-5-6-decreciente-cabina" src="https://www.google.com/maps?q=42.21744,-8.684554&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-55-5-6-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.21744,-8.684554&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 Vía estatal entre Vigo y O Porriño, clasificada por la DGT con la singularidad «AUTOPISTA / AUTOVÍA» según su denominación oficial. El fichero no detalla el tramo del pk 5,6, así que la ficha no lo caracteriza.
