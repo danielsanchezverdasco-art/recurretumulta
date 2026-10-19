@@ -1555,3 +1555,25 @@ Rama `merlin-caravanas-p0` — 72 fichas de caravanas (remolques) completadas:
 - JACCARD: 61 secciones pros/contras reescritas, máx 0,299 — 0 violaciones
 - Commits: c51e7f25 (datos) + 7721242c/e401c5de/bdc11cb8 (Bailey/Sterckeman) + 4b480d12 (Swift) + 4c7c7d79 (Jaccard) + fbdd12e4/96d3b9ef (interiores)
 - Fuentes: listas oficiales Eriba/Sterckeman/Dethleffs/Bürstner 2026, prensa fabricantes, distribuidores verificados
+
+---
+
+## @grok lote listo fichas geo 7
+
+**Rama:** `merlin-fichas-geo-7` @ `f702f132` (verificado contra API: head = f702f132, ahead 3 / behind 0 vs main; 3 commits en español, fast-forward sin force; main/Netlify intactos). Ficheros: `src/lib/comparador-coches-exp7.ts`, `exp8.ts`, `exp24.ts`, `exp25.ts`, `exp26.ts` (blobs byte-idénticos a lo verificado; `node --check` OK). Sin tocar títulos/metas/H1 (congelados hasta 1/11).
+
+**Balance (49 slugs únicos, filas CSV 301–350):**
+- **44 cifras corregidas con fuente oficial:** chinos con 官方指导价 en `aprox` + nota honesta de país (Voyah Free Plus 29.320 €, Dream Plus 41.320 €, Courage 27.053 €, Dongfeng Epi 008 EV 25.147 €; iCAR 03 14.640 € + autonomiaKm 501 CLTC; Zeekr 001 autonomiaKm 710 CLTC; Jetour Dashing i-DM 20.000 €, X70L 15.500 €, Shanhai L7 Plus 16.000 €; BYD Sealion 05 15.700 €; Jaecoo J6 14.600 € — ninguno de los dos se vende oficialmente en España, verificado en byd.com/es y jaecoo.es); Peugeot (208 1.2 PureTech 100: 17.330 €; e-3008 Dual Motor 53.880 € y e-5008 57.010 € verificados; potenciaCv e-5008 322→325 — peugeot.es); Fiat (600 1.2 Turbo 100: 18.950 €; 500e Cabrio 118: 34.950 €; Tipo: contra de descatalogación — Stellantis confirmó el cese de producción en junio 2026); Jeep (Compass 4xe PHEV 195: 46.710 €; Compass 4xe 240: 51.400 €; Renegade: contras de descatalogación — jeep.es); Renault Trafic E-Tech: 47.049 € verificado exacto; Cupra Tavascan 190: autonomiaKm 441 WLTP (lista de precios CUPRA).
+- **5 verificados sin cambios** (descatalogadas ya declaradas en contras).
+- **Nulls honestos documentados:** GWM Haval H6 en `aprox` (gwm.es no verificable); Fiat Professional solo publica «desde» de gama sin IVA sin desglose por motorización; 9 Citroën/Opel descatalogadas o «no disponible aún en España» (Stellantis, 29/05/2026); comerciales sin tarifa abierta por motorización.
+
+**Verificación propia:** QA apto — exactamente los 44 registros declarados cambiaron, solo en campos tocables (contras, precioDesde, potenciaCv, autonomiaKm, aprox); marca/modelo/nombre/imagen/títulos/metas/H1 intactos; ningún registro usa `precio`. Incidencia de proceso: commit duplicado (6071745f/140b0dc7, contenido idéntico — no revertible sin force; el árbol final es correcto byte a byte). Informes: `informe-AG1..6.md` + RESUMEN-TANDA7.md en el estado del watcher.
+
+**Preguntas nuevas a Grok (sin improvisar):**
+1. Jeep Compass 4xe PHEV 195: la ficha describe 195 CV / 50 km / 4xe, pero jeep.es lista el modelo real como 225 CV / 95 km WLTP / delantera — ¿corregir marca/modelo/potencia o mantener la ficha?
+2. `pros` con cifra € antigua (campo no tocable por AG): `cupra-tavascan-190-2026` («38.530 €, el Tavascan más barato») — ¿actualizar o congelar?
+3. GWM Haval H6: si GWM España publica tarifa oficial, ¿sacar `precioDesde` de `aprox`?
+
+Siguen abiertas las preguntas de tandas 5 y 6 (hongqi-hs5-phev, chery-tiggo-4/EBRO S400, configurador JLR, criterio aprox unificado, `pros` con € de Avatr/IM/Luxeed, año de slug vs año-modelo real, Stelato S9T 801 km CLTC por re-verificar).
+
+Siguiente: tanda 8 (filas CSV 351-400).
