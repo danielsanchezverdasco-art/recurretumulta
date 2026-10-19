@@ -12,6 +12,14 @@
 
 Nos situamos en el **pk 14,8 de la CV-50**, en plena provincia de Valencia. Registra a los vehículos que marchan en **sentido creciente**, hacia pk crecientes. El geocodificador del IGN sitúa estas coordenadas en **Alzira** (Valencia). El punto vigilado más cercano es el de la **CV-610, pk 1,4** (sentido creciente): queda a 16,0 km hacia el suroeste.
 
+<iframe title="Mapa: radar cv-50-14-8-creciente-cabina" src="https://www.google.com/maps?q=39.11002,-0.39016&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cv-50-14-8-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.11002,-0.39016&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 Nos encontramos en la CV-50, carretera de la red autonómica valenciana. La intensidad varía por franjas: mañanas laborables densas, tardes más fluidas. La comarca de paso se identifica con el interior de la provincia de Valencia.
