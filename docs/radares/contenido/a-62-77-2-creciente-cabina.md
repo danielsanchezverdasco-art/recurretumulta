@@ -17,6 +17,14 @@ La DGT no publica el límite de cada radar: la ficha recoge el genérico del art
 ## Dónde está la cabina
 La cabina está en el pk 77,205, Magaz de Pisuerga (Palencia): 41.9882, -4.4238. El cinemómetro, dentro de la cabina, controla el sentido creciente —pks ascendentes—, hacia Salamanca, destino que figura en el registro de la DGT.
 
+<iframe title="Mapa: radar a-62-77-2-creciente-cabina" src="https://www.google.com/maps?q=41.9882,-4.4238&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-62-77-2-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=41.9882,-4.4238&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## Consejos para este tramo
 En la meseta palentina, la monotonía invita a acelerar sin notarlo. Marca una velocidad legal y no la toques al ver la cabina: los frenazos no sirven y son un riesgo. Revisa la señalización, que puede cambiar por obras o viento lateral.
 
