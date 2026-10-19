@@ -12,6 +12,15 @@
 
 Este punto de control se sitúa en el **pk 92,4 de la CM-220** (provincia de Cuenca, Castilla-La Mancha). Actúa sobre el **sentido decreciente** de la vía, esto es, el de los puntos kilométricos decrecientes. Que el control sea en sentido decreciente no implica que el contrario esté desatendido: la DGT publica puntos por sentido. A 33,9 km hacia el sur está el control más próximo, el de la **N-310, pk 191,4** (sentido decreciente). Le sigue en proximidad el de la **A-3, pk 156,6** (sentido creciente), situado a 40,6 km hacia el oeste. Se trata de un sector de paso, más que de destino: la mayoría de los vehículos solo están de tránsito.
 
+<iframe title="Mapa: radar cm-220-92-4-decreciente-cabina" src="https://www.google.com/maps?q=39.73455,-1.90795&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cm-220-92-4-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.73455,-1.90795&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La carretera es autonómica: la CM-220, de la red regional castellanomanchega. La carretera autonómica combina el tránsito de paso con la movilidad diaria de la comarca. La presencia de la cabina responde a que este es un punto donde los excesos son frecuentes. Es el único control de la DGT publicado para la CM-220 en Castilla-La Mancha. Es el único control de la DGT publicado para la CM-220 en Castilla-La Mancha. En conjunto, una vía donde la prudencia con la velocidad nunca está de más. La vía no perdona las distracciones: mantener la vista al frente es tan importante como controlar la velocidad.
