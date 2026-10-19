@@ -12,6 +12,15 @@
 
 El emplazamiento del radar es el **pk 53,6 de la A-2** (provincia de Guadalajara, Castilla-La Mancha). Controla el **sentido decreciente** de la marcha: los puntos kilométricos decrecientes. Si conoces la zona, el pk 53,6 te orientará mejor que la propia cabina: los equipos rotan, la ubicación publicada no cambia. El control fijo de la DGT más próximo es el de la **A-2, pk 50,0** (sentido creciente), a 3,0 km hacia el suroeste. El siguiente punto por cercanía es el de la **CM-101, pk 4,8** (sentido decreciente), a 6,6 km hacia el norte. Es un punto donde la monotonía del recorrido juega en contra de la atención del conductor.
 
+<iframe title="Mapa: radar a-2-53-6-decreciente-cabina" src="https://www.google.com/maps?q=40.62708,-3.1772&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-2-53-6-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.62708,-3.1772&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La carretera en cuestión es la A-2, la Autovía del Nordeste, que une Madrid con Zaragoza y Barcelona. El uso de la autovía reparte su intensidad entre las puntas laborales y los flujos de fin de semana. Este emplazamiento se eligió por ser un sector donde conviene recordar el máximo permitido. Entre los 4 radares publicados para la A-2 en la región, este es el segundo en orden de pk. Dentro de la propia A-2, el siguiente punto vigilado es el del pk 50,0 (sentido creciente), a 3,0 km hacia el suroeste. Como en toda la red, el respeto a la señalización es aquí la mejor garantía. En resumen, una vía que exige lo esencial: atención, respeto a las señales y velocidad contenida.
