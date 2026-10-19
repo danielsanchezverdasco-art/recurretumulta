@@ -490,9 +490,6 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/kymco-xciting-vs-400-2026-ficha-tecnica-precio-hunt1.webp | https://soymotero.net/wp-content/uploads/2025/09/2025-xciting-vs-400-azul-baja3-1024x689-1.jpg | SoyMotero (foto de prensa Kymco) | desconocida |
 | /media/kymco-xciting-vs-400-2026-ficha-tecnica-precio-hunt2.webp | https://en.engear.tv/wp-content/uploads/2026/08/Kymco-Xciting-VS-400-2026-03.jpg | Engear (foto de prensa Kymco) | desconocida |
 | /media/kymco-xciting-vs-400-2026-ficha-tecnica-precio-hunt3.webp | https://kymco.com.mx/wp-content/uploads/2025/09/XCITING-VS-400_06.webp | Kymco México (web oficial) | desconocida |
-| /media/porsche-911-targa-4-gts-2026-precio-ficha-tecnica-hunt1.webp | https://www.ebay.com/itm/366671196231 | eBay (anunciante) | desconocida |
-| /media/porsche-911-targa-4-gts-2026-precio-ficha-tecnica-hunt2.webp | https://finder.porsche.com/us/en-US/details/porsche-911-targa-4-gts-new-364ON0 | Porsche Finder (Porsche River Oaks) | desconocida |
-| /media/porsche-911-targa-4-gts-2026-precio-ficha-tecnica-hunt3.webp | https://finder.porsche.com/ca/en-CA/details/porsche-911-targa-4-gts-new-OL6QZ3 | Porsche Finder (Porsche Centre Langley) | desconocida |
 | /media/royal-alloy-tg-300-s-2026-ficha-tecnica-precio-hunt1.webp | https://www.billsmithmotors.co.uk/royal-alloy/scooters/tg-300-s-lc-abs-e5 | Bill Smith Motors (concesionario) | desconocida |
 | /media/royal-alloy-tg-300-s-2026-ficha-tecnica-precio-hunt2.webp | https://www.billsmithmotors.co.uk/royal-alloy/scooters/tg-300-s-lc-abs-e5 | Bill Smith Motors (concesionario) | desconocida |
 | /media/royal-alloy-tg-300-s-2026-ficha-tecnica-precio-hunt3.webp | https://royalalloymalaysia.com/product-category/tg-series/ | Royal Alloy Malaysia (web oficial del producto) | desconocida |
@@ -1818,3 +1815,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/dfsk-f5-2026-precio-ficha-tecnica-hunt1.webp | https://idoneo.es/renting/dfsk/f5 | Idoneo | desconocida |
 | /media/dfsk-f5-2026-precio-ficha-tecnica-hunt2.webp | https://rentacar.canarias.com/cars | Canarias.com Rent a Car | desconocida |
 | /media/dfsk-f5-2026-precio-ficha-tecnica-hunt3.webp | https://im.integralmotion.es/coches-nuevos/vehiculo/dfsk-f5-petrol-gasolina-automatico-otros-2025-madrid_3041296 | Integral Motion | desconocida |
+| /media/niu-fqix-300-2026-ficha-tecnica-precio-hunt1.webp | https://www.1000ps.at/dettaglio-immagini-moto-niu-fqix-scooter-elettrico-2026-25431 | 1000ps / Motorrad-Bilder | desconocida |
+| /media/niu-fqix-300-2026-ficha-tecnica-precio-hunt2.webp | https://www.chinaelektro.de/niu/niu-fqix-300/ | ChinaElektro.de | desconocida |
+| /media/niu-fqix-300-2026-ficha-tecnica-precio-hunt3.webp | https://global.niu.com/de/product/FQiX-300 | NIU (web oficial) | desconocida |
+| /media/aixam-e-coupe-gti-2025-precio-ficha-tecnica-hunt1.webp | https://motorider.lt/en/products/aixam-mini-automobiliai/aixam-ecoupe-gti-elektrinis-mini-miesto-automobilis | Motorider.lt / tucochesincarnet.com (material de prensa Aixam) | desconocida |
+| /media/aixam-e-coupe-gti-2025-precio-ficha-tecnica-hunt2.webp | https://www.tucochesincarnet.com/catalogo/nuevos/aixam-e-coupe-gti/ | tucochesincarnet.com (material de prensa Aixam) | desconocida |
+| /media/aixam-e-coupe-gti-2025-precio-ficha-tecnica-hunt3.webp | https://www.tucochesincarnet.com/catalogo/nuevos/aixam-e-coupe-gti/ | tucochesincarnet.com (material de prensa Aixam) | desconocida |
+| /media/audi-a4-avant-2025-hunt1.webp | https://nieuws.audi.nl/terug-van-weggeweest-de-audi-a4-en-a5-s-edition-competition/ | Audi Netherlands (prensa oficial) | desconocida |
+| /media/audi-a4-avant-2025-hunt2.webp | https://isporuka-odmah.audi.hr/search?mg=A4+Avant | Audi (configurador oficial) | desconocida |
+| /media/audi-a4-avant-2025-hunt3.webp | https://autvex.com/audi/a4/2025-audi-a4/ | Autvex (material de prensa Audi) | desconocida |
+| /media/jeep-grand-cherokee-4xe-380-2026-precio-ficha-tecnica-hunt1.webp | https://www.touche-motors.com.mx/showroom/jeep/grand-cherokee-4xe/2025/ | Touché Motors / Jeep México (material de prensa) | desconocida |
+| /media/jeep-grand-cherokee-4xe-380-2026-precio-ficha-tecnica-hunt2.webp | http://www.big4motors.com/2025-jeep-grand-cherokee-4xe/ | Big 4 Motors / Jeep (material de prensa) | desconocida |
+| /media/jeep-grand-cherokee-4xe-380-2026-precio-ficha-tecnica-hunt3.webp | https://rpmweb.ca/actualites-et-chroniques/actualites/rappels/rappel-important-chez-jeep-du-sable-dans-lengrenage | RPMweb / Jeep (material de prensa) | desconocida |
+| /media/niu-nqix-500-2026-ficha-tecnica-precio-hunt1.webp | https://global.niu.com/es/product/NQiX-500 | NIU (web oficial) | desconocida |
+| /media/niu-nqix-500-2026-ficha-tecnica-precio-hunt2.webp | https://www.1000ps.de/gebrauchtes-motorrad-3276875-niu-nqix-500 | 1000ps.de (ficha del modelo) | desconocida |
+| /media/niu-nqix-500-2026-ficha-tecnica-precio-hunt3.webp | https://www.1000ps.de/gebrauchtes-motorrad-3276875-niu-nqix-500 | 1000ps.de (ficha del modelo) | desconocida |
+| /media/aixam-e-scouty-evo-2025-precio-ficha-tecnica-hunt1.webp | https://www.aixam-mega.com/es/e-scouty/e-scouty-evo | Aixam-Mega (prensa oficial) | desconocida |
+| /media/aixam-e-scouty-evo-2025-precio-ficha-tecnica-hunt2.webp | https://www.aixam-mega.com/es/e-scouty/e-scouty-evo | Aixam-Mega (prensa oficial) | desconocida |
+| /media/aixam-e-scouty-evo-2025-precio-ficha-tecnica-hunt3.webp | https://www.aixam.it/it/e-scouty/evo | Aixam-Mega (prensa oficial) | desconocida |
+| /media/apollo-go-hunt1.webp | https://centrecom.click/products/apollo-go-dual-motor-electric-scooter | Centrecom (distribuidor, fotos oficiales de producto) | desconocida |
+| /media/apollo-go-hunt2.webp | http://eridehero.com/apollo-go-review/ | ERideHero (review Apollo Go) | desconocida |
+| /media/apollo-go-hunt3.webp | https://www.tomsguide.com/home/electric-scooters/apollo-go-scooter-review | Tom's Guide (review Apollo Go) | desconocida |
+| /media/bmw-x6-m-2025-hunt1.webp | https://www.press.bmwgroup.com/czech/photo/compilation/T0429019CS/nové-bmw-x5-m-competition-a-nové-bmw-x6-m-competition-dodatečná-fotogalerie | BMW Group (press club) | desconocida |
+| /media/bmw-x6-m-2025-hunt2.webp | https://www.press.bmwgroup.com/ | BMW Group (press club) | desconocida |
+| /media/bmw-x6-m-2025-hunt3.webp | https://www.motortrend.com/reviews/2024-bmw-x6-m-competition-first-test-review/photos | MotorTrend (prueba 2024) | desconocida |
