@@ -3894,3 +3894,6 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/segway-ninebot-f40e-hunt4.webp | https://nr1elektrischestep.nl/cdn/shop/products/ninebot-f40e-elektrische-step-segway-ninebot-651716_798x798.jpg?v=1630685901 | Nr1ElektrischeStep (foto de producto Ninebot) | desconocida |
 | /media/segway-ninebot-f40e-hunt5.webp | https://old.beyondthebeach.com/wp-content/uploads/2022/06/Ninebot-KickScooter-F40E_1.jpg | Beyond The Beach (foto de producto Ninebot) | desconocida |
 | /media/segway-ninebot-f40e-hunt6.webp | https://octopusmovilidad.com/wp-content/uploads/2022/06/SEGWAY-F40E2.jpg | Octopus Movilidad (foto de producto Ninebot) | desconocida |
+| /media/chery-tiggo-9l-2026-precio-ficha-tecnica-hunt1.webp | https://thanhnienviet.mediacdn.vn/thumb_w/1200/2025/04/29/0MQViQLm/chery-tiggo-9l-11-c70e.webp | Thanh Niên Việt | desconocida |
+| /media/chery-tiggo-9l-2026-precio-ficha-tecnica-hunt2.webp | https://awsimages.detik.net.id/community/media/visual/2025/05/02/mobil-suv-konsep-chery-tiggo-9l-1746154043789.jpeg?w=700&q=90 | Detik.com | desconocida |
+| /media/chery-tiggo-9l-2026-precio-ficha-tecnica-hunt3.webp | https://www.tuningblog.eu/wp-content/uploads/2025/04/2025-Chery-Tiggo-9L-E-SUV-2.jpg | TuningBlog | desconocida |
