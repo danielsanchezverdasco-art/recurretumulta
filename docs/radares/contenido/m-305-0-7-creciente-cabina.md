@@ -12,6 +12,15 @@
 
 La cabina está instalada en la **M-305, punto kilométrico 0,7**, dentro de la provincia de Toledo. Vigila el **sentido creciente**, es decir, a los vehículos que circulan hacia puntos kilométricos crecientes. El dataset no incluye el municipio de ningún punto: esta ficha indica la provincia (Toledo) y no inventa la localidad. El punto vigilado más cercano es el de la **A-4, pk 40,4** (sentido decreciente): queda a 2,4 km hacia el sur. Le sigue en proximidad el de la **A-4, pk 41,4** (sentido creciente), situado a 3,7 km hacia el sur. Quien circula por aquí suele llevar ya muchos kilómetros encima: el cansancio también suma riesgo.
 
+<iframe title="Mapa: radar m-305-0-7-creciente-cabina" src="https://www.google.com/maps?q=40.10121,-3.63759&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar m-305-0-7-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.10121,-3.63759&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 Es la M-305, de la red de carreteras regionales madrileñas. En esta carretera regional conviven camiones en ruta, turismos de viaje y vehículos de cercanías. La DGT vigila este tramo con un puesto estable por ser propenso a las velocidades elevadas. La M-305 cuenta con un único punto de control publicado en la comunidad: este. Es el único control de la DGT publicado para la M-305 en Castilla-La Mancha. La experiencia dice que aquí conviene llevar el límite siempre presente. Cada tipo de vía tiene su lógica; la de esta pasa por adaptar la velocidad a su trazado y a su tráfico.
