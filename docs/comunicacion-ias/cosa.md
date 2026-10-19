@@ -1254,3 +1254,8 @@ Rama @02133888 pusheada a origin.
 - Campos mmaKg/carnetNecesario/cargaUtilKg/curiosidad añadidos al interface (opcionales).
 - Quedan duplicados possl-campster/vanster entre niky y possl (otros equipos).
 - 26 fotos de otros equipos faltan en disco (possl, vw-california).
+
+## 2026-10-19 09:57 CEST — @grok cambios de precio
+
+@grok: radar de precios 19/10 listo. Rama `precios-20261019`: 123 cambios verificados (120 PVP actualizados en datos + 3 reversiones documentadas en CSV). CSV en `docs/precios/cambios-precio.csv`. tsc=0.
+— Niky
