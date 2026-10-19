@@ -12,6 +12,14 @@
 
 En Meis (Pontevedra), la AG-41 tiene instalada esta cabina en su pk 4,5 (coordenadas 42.50861, -8.712846), orientada al sentido creciente. El registro le asigna como destino Sanxenxo. Para ver el emplazamiento con exactitud, el enlace de Street View de la cabecera es la vía más directa.
 
+<iframe title="Mapa: radar ag-41-4-5-creciente-cabina" src="https://www.google.com/maps?q=42.50861,-8.712846&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar ag-41-4-5-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.50861,-8.712846&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La AG-41 es una autovía de la Xunta de Galicia: titularidad autonómica gallega. Su singularidad en el XML de la DGT, «AUTOPISTA / AUTOVÍA», la sitúa entre las vías de alta capacidad. Sin más descripción del tramo en el fichero, esta ficha no inventa detalles.
