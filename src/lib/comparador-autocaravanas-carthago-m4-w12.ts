@@ -2,9 +2,9 @@
 // Fuentes: carthago.com (gama liner-for-two, precios «desde»), anuncio y PDF exposé de
 // caraworld.de (unidad 2026 del modelo exacto, listing 23583890). Verificado el 19/10/2026.
 // Notas honestas: Carthago no publica PVP oficial para España → precioDesde=null. La marca no
-// publica carga útil → cargaUtilKg=null. Fotos de la unidad real del anuncio (galería del
-// concesionario P-Concept en caraworld.de, con pequeña marca de agua de esquina); no son
-// fotos oficiales de prensa.
+// publica carga útil → cargaUtilKg=null. Fotos oficiales de prensa Carthago (carthago.com):
+// freisteller exterior del liner-for-two I 53 L (Iveco Daily), exterior real (Flugplatz),
+// salón con TV y zona de descanso con TV.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
 export const AUTOCARAVANAS_CARTHAGO_M4: Autocaravana[] = [
@@ -55,9 +55,12 @@ export const AUTOCARAVANAS_CARTHAGO_M4: Autocaravana[] = [
       "tiene un precio de lista en Alemania de 317.310 € (PDF del concesionario); Carthago " +
       "publica en carthago.com un «desde» de 198.300 € para la gama liner-for-two, pero no hay " +
       "PVP oficial para España → precioDesde=null. En null: carga útil (no publicada), consumo, " +
-      "par, tracción y emisiones (no publicados). Fotos: unidad real del anuncio (galería del " +
-      "concesionario en caraworld.de, imágenes 28000431/28000435/28000437/28000439 en 1600 px, " +
-      "con pequeña marca de agua de esquina del concesionario); no son fotos oficiales de prensa.",
+      "par, tracción y emisiones (no publicados). Fotos: las 4 son oficiales de prensa Carthago " +
+      "(carthago.com, verificadas 19/10/2026): freisteller exterior del liner-for-two I 53 L " +
+      "sobre Iveco Daily, exterior real (Flugplatz), salón con TV y zona de descanso con TV. " +
+      "El 19/10/2026 se sustituyeron la cama abatible del concesionario niesmann.de, el " +
+      "freisteller Fiat I 53 de la imagen principal y la foto de detalle por imágenes " +
+      "oficiales del modelo.",
     curiosidades:
       "El I 53 L no usa la omnipresente Fiat Ducato: monta un Iveco Daily 3.0 de 207 CV con cambio " +
       "automático de 8 velocidades, y su garaje trasero admite 450 kg de carga, cifra propia de " +
@@ -118,9 +121,9 @@ export const AUTOCARAVANAS_CARTHAGO_M4: Autocaravana[] = [
       CÓMO LO VERIFICAMOS. Los datos técnicos proceden del anuncio de caraworld.de (listing
       23583890, año modelo 2026, primera matriculación 16.03.2026) y de su PDF exposé descargado el
       19/10/2026, cruzados con la web oficial carthago.com para la gama liner-for-two y su precio
-      «desde». Las fotografías son de la unidad real anunciada (galería del concesionario en
-      caraworld.de, imágenes en 1600 px), con pequeña marca de agua de esquina del concesionario;
-      no son imágenes oficiales de prensa. No existe PVP oficial para España.
+      «desde». Las 4 fotografías son oficiales de prensa Carthago (carthago.com): freisteller
+      exterior del liner-for-two I 53 L sobre Iveco Daily, exterior real, salón con TV y zona de
+      descanso con TV. No existe PVP oficial para España.
 
       PARA QUIÉN ES. Es la autocaravana para parejas con alto poder adquisitivo que quieren viajar
       meses por Europa con el máximo confort: calefacción Alde, 210 litros de agua, garaje de
