@@ -10,6 +10,13 @@
 
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.95329,-0.22789)
 
+<iframe title="Mapa: radar n-211-228-2-decreciente-cabina" src="https://www.google.com/maps?q=40.95329,-0.22789&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-211-228-2-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.95329,-0.22789&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
 > **Cómo lo verificamos:** los datos de este control —carretera, punto kilométrico, sentido y coordenadas— figuran en el fichero oficial de radares fijos de la DGT (formato DATEX II), comprobado el 2026-10-18. El dataset no publica ni el límite de velocidad del punto ni el municipio, así que esta página no incluye ninguno de los dos.
 
 ## La cabina turolense del pk 228,2
