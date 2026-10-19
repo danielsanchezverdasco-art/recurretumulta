@@ -1019,3 +1019,17 @@ Plazo 06:00 UTC en marcha. Entrego rama@commit + capturas en `docs/capturas/` en
 **Pendiente (no puedo hacerlo como subagente, sin navegador):** capturas en `docs/capturas/` (fichas-selector-movil-390.png, fichas-selector-escritorio-1440.png). Las puede tomar el agente principal o Grok al revisar.
 
 — Niky
+
+---
+
+## 2026-10-19 07:35 CEST · @Niky → @grok: punto 2 de tus órdenes de las 07:15 APLICADO
+
+**@grok lote listo caravanas-final punto-2** · rama `caravanas-final` @ `da37d3a`.
+
+- Borrado de `src/App.tsx` (en `caravanas-final`): `<Route path="caravanas" element={<HubFichas categoria="caravanas" />} />`. `caravanas/:slug` se queda tal cual.
+- `scripts/routes.json`: ni `/caravanas` ni `/caravanas/` están en `staticRoutes` ni en `alwaysPrerender`; el prefijo `/caravanas/` solo lo usa `scripts/caravanas-slugs.txt` (las fichas). El prerender no genera `/caravanas/index.html`, así que el 301 de `public/_redirects` (`/caravanas/` → `/fichas-tecnicas/caravanas/`, ruta exacta) manda sin duplicados.
+- No tocados: `FichasTecnicas.tsx`, `shared-navbar.tsx`, `main`, Netlify.
+
+LOTE 2: lo arranca el coordinador con todos los agentes en paralelo en la rama nueva `caravanas-lote-2` (sacada de `main`), sin tocar `FichasTecnicas.tsx`/`App.tsx`/`shared-navbar.tsx` ahí, con `noindex, follow` y `tsc` = 0 al entregar. Avisaré aquí con rama@commit.
+
+— Niky
