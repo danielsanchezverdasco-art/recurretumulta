@@ -4107,3 +4107,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/cfmoto-450nk-2025-ficha-tecnica-precio-hunt1.webp | https://rider2stg.wpenginepowered.com/wp-content/uploads/2024/08/2025-CFMOTO-450NK-2025-CFMOTO-Motorcycles-1.jpg | Rider Magazine (ridermagazine.com) | desconocida |
 | /media/cfmoto-450nk-2025-ficha-tecnica-precio-hunt2.webp | https://motorcycleitch.com/storage/motorcycles-media/2025/2025_CFMOTO_450NK.webp | Motorcycle Itch (motorcycleitch.com) | desconocida |
 | /media/cfmoto-450nk-2025-ficha-tecnica-precio-hunt3.webp | https://cdn.images.stock.i-motor.net.au/vehicles/large/2d0809a1-9212-463e-9d46-cc66f2f4380c-0-450nk-black.jpg | PowerForce Aus (powerforceaus.com.au) | desconocida |
+| /media/chery-arrizo-5-plus-2025-precio-ficha-tecnica-hunt1.webp | https://www.bulcars.bg/wp-content/uploads/2025/04/Chery-Arrizo-5-Plus.jpg | bulcars.bg | desconocida |
+| /media/chery-arrizo-5-plus-2025-precio-ficha-tecnica-hunt2.webp | https://elmaouid.dz/wp-content/uploads/2023/04/1-15-1.jpg | Elmaouid (elmaouid.dz) | desconocida |
+| /media/chery-arrizo-5-plus-2025-precio-ficha-tecnica-hunt3.webp | https://www.car250.com/wp-content/uploads/2023/06/Chery-Arrizo-5-PLUS-16-2048x1365.webp | car250.com | desconocida |
+| /media/dualtron-ultra-2-hunt1.webp | https://e-scooterider.com/wp-content/uploads/2024/06/dualtron-ultra-2-new-edition-1024x1024.webp | e-scooterider.com | desconocida |
+| /media/dualtron-ultra-2-hunt2.webp | https://liftyelectric.com/cdn/shop/files/dualtron-ultra-2-new-edition.jpg?v=1713786025&width=900 | liftyelectric.com | desconocida |
+| /media/dualtron-ultra-2-hunt3.webp | https://getscuti.com/wp-content/uploads/2026/08/Dualtron-Ultra-2-Upgrade-Profile-600x600.jpg | getscuti.com | desconocida |
+| /media/suzuki-e-vitara-2025-precio-ficha-tecnica-hunt1.webp | https://images.ctfassets.net/8nclzaiq1nmu/4GLcWeLL3Mhk081vWcgw0q/2ed7f2be50e768d7055eb7ac989e2a76/Suzuki_e_VITARA__3_.jpeg?fm=webp&w=1200&q=75 | Suzuki (vía blog.bilbasen.dk) | desconocida |
+| /media/suzuki-e-vitara-2025-precio-ficha-tecnica-hunt2.webp | https://carro.blog.br/wp-content/uploads/2026/01/Suzuki-e-Vitara-2026-3-1800x965.webp | carro.blog.br | desconocida |
+| /media/suzuki-e-vitara-2025-precio-ficha-tecnica-hunt3.webp | https://www.hibridosyelectricos.com/uploads/s1/84/91/75/suzuki-e-vitara-2025-electrico-interior_5_659x371.jpeg | Híbridos y Eléctricos (hibridosyelectricos.com) | desconocida |
+| /media/volkswagen-id5-2025-precio-ficha-tecnica-hunt1.webp | https://media.volkswagen.com/Vilma/V/E39/2025/Front_Left/d034068a1ce410416249b9999bcaf1e040bc805c0ba2b7cf31c33a8344049d49.png?width=1920 | Volkswagen (prensa oficial) | desconocida |
+| /media/volkswagen-id5-2025-precio-ficha-tecnica-hunt2.webp | https://media.volkswagen.com/Vilma/V/E39/2025/Back_Left/073fe85316331b91ab366609d1fddb3916f2ab9e238ccece59348772f7f5ee4d.png?width=1920 | Volkswagen (prensa oficial) | desconocida |
+| /media/volkswagen-id5-2025-precio-ficha-tecnica-hunt3.webp | https://images.carexpert.com.au/resize/1920/-/app/uploads/2025/04/Volkswagen-ID.5-Pro.jpg | CarExpert (carexpert.com.au) | desconocida |
+| /media/bmw-serie-1-2025-precio-ficha-tecnica-hunt1.webp | https://mediapool.bmwgroup.com/cache/P9/202411/P90578086/P90578086-the-new-bmw-1-series-photo-shooting-in-athens-11-2024-2250px.jpg | BMW Group (prensa oficial del fabricante) | desconocida |
+| /media/bmw-serie-1-2025-precio-ficha-tecnica-hunt2.webp | https://media.drive.com.au/obj/tx_q:70,rs:auto:720:405:1/driveau/upload/vehicles/used/bmw/1-series/2025/bf947322-7456-5bb5-b2b9-0b5b2de50000 | Drive.com.au | desconocida |
+| /media/bmw-serie-1-2025-precio-ficha-tecnica-hunt3.webp | https://ftp.larevueautomobile.com/images/fiche-technique/2025/Bmw/Serie-1/Bmw_Serie-1_MD_5.webp | La Revue Automobile | desconocida |
+| /media/chery-fulwin-t9-2024-precio-ficha-tecnica-hunt1.webp | https://material.chery.cn/media/lrgp54oj/t9%E9%95%BF%E7%BB%AD%E8%88%AA-nav-pic02-2x.png | Chery Fulwin (web oficial del fabricante) | desconocida |
+| /media/chery-fulwin-t9-2024-precio-ficha-tecnica-hunt2.webp | https://mail.optimusautotrading.com/upload/6927ca3f15abb-Chery-Fulwin-T9-2024-appearance-1.webp | Optimus Auto Trading | desconocida |
+| /media/chery-fulwin-t9-2024-precio-ficha-tecnica-hunt3.webp | https://chinesecar.global/wp-content/uploads/2025/11/imgi_7_Chery-Fulwin-T9-2024-interior-1.webp | ChineseCar Global | desconocida |
+| /media/hiboy-max-v2-hunt1.webp | https://scooter.guide/wp-content/uploads/2021/07/98498498-1024x1024.png | Scooter Guide | desconocida |
+| /media/hiboy-max-v2-hunt2.webp | https://escooternerds.com/wp-content/uploads/hiboy_max.jpg | eScooterNerds | desconocida |
+| /media/hiboy-max-v2-hunt3.webp | https://www.electricscooterinsider.com/wp-content/uploads/2021/01/hiboy-max-v2-frame.jpg | Electric Scooter Insider | desconocida |
+| /media/qjmotor-srk600-2025-ficha-tecnica-precio-hunt1.webp | https://qjmotor-benelux.com/wp-content/uploads/2025/01/SRK600-G5912-768x512.jpg | QJMotor Benelux (importador oficial) | desconocida |
+| /media/qjmotor-srk600-2025-ficha-tecnica-precio-hunt2.webp | https://qjmotor-benelux.com/wp-content/uploads/2025/01/SRK600-V5918-768x512.jpg | QJMotor Benelux (importador oficial) | desconocida |
+| /media/qjmotor-srk600-2025-ficha-tecnica-precio-hunt3.webp | https://www.motoplanete.com/Qianjiang/millesimes/srk_600_2025/2025_1_bleu.webp | Motoplanete | desconocida |
