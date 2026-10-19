@@ -6,14 +6,6 @@
 **Coordenadas (WGS84):** 39.887016, -5.524129
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.887016,-5.524129)
 
-<iframe title="Mapa: radar a-5-179-1-decreciente-cabina" src="https://www.google.com/maps?q=39.887016,-5.524129&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
-
-*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
-
-<iframe title="Street View: radar a-5-179-1-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.887016,-5.524129&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
-
-*Vista 3D (Street View) del entorno del radar.*
-
 > **Cómo lo verificamos:** Tomamos vía, punto kilométrico, sentido y coordenadas del XML oficial de radares de la DGT (DATEX II, portal NAP), consultado el 2026-10-19. El dataset no difunde el límite de cada punto ni el municipio: el límite que recoge la ficha es el genérico del RGC (art. 48, RD 1428/2003) por tipo de vía, y el municipio procede del geocodificador oficial CartoCiudad (IGN/CNIG).
 
 ## El límite: lo que sabemos y lo que no
@@ -27,6 +19,14 @@ El cinemómetro mide la velocidad en sentido decreciente y sanciona a quien reba
 ## Dónde está
 
 La cabina está en la A-5, pk 179,1, en Navalmoral de la Mata (Cáceres), coordenadas 39.887016, -5.524129. Vigila el sentido decreciente: tráfico hacia puntos kilométricos menores. El enlace de Street View muestra el punto exacto.
+
+<iframe title="Mapa: radar a-5-179-1-decreciente-cabina" src="https://www.google.com/maps?q=39.887016,-5.524129&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-5-179-1-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.887016,-5.524129&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
 
 ## La carretera
 
