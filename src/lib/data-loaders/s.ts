@@ -713,6 +713,11 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
   camper: {
     "sunlight-cliff-600-2026-precio-ficha-tecnica": () => import("../comparador-campers-laika-sunlight.ts"),
   },
+  autocaravana: {
+    "sunlight-a-70-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-sunlight-m1.ts"),
+    "sunlight-cliff-640-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-sunlight-m1.ts"),
+    "sunlight-t-68-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-sunlight-m1.ts"),
+  },
   historia: {
     "seat-arona-10-tsi": () => import("../historia-modelos.ts"),
     "seat-arona-10-tsi-95-2026-precio-ficha-tecnica": () => import("../historia-modelos.ts"),

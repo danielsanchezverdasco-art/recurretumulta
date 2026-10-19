@@ -102,6 +102,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "chatgpt-vs-analizador-multas": () => import("../blog-posts-longtail-1.ts"),
     "chausson-640-2026-precio-autocaravana": () => import("../blog-posts-lote16.ts"),
     "chausson-640-titanium-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin1.ts"),
+    "chausson-777-titanium-line-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin5.ts"),
     "chausson-twist-v594-2026-precio-ficha-tecnica-analisis-opinion": () => import("../blog-posts-campers-eu2-b.ts"),
     "chery-arrizo-5-2025-precio-ficha-tecnica": () => import("../blog-posts-chery-a.ts"),
     "chery-arrizo-5-gt-2026-precio-ficha-tecnica": () => import("../blog-posts-lote6.ts"),
@@ -143,6 +144,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "chevrolet-equinox-ev-2025-precio-ficha-tecnica": () => import("../blog-posts-lote5.ts"),
     "chevrolet-silverado-ev-2025-precio-autonomia": () => import("../blog-posts-lote13.ts"),
     "chevrolet-spark-euv-2026-precio-autonomia": () => import("../blog-posts-lote13.ts"),
+    "ci-horon-84-xt-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin4.ts"),
     "cinemometro-laser-como-funciona-multa": () => import("../blog-posts-longtail-1.ts"),
     "cinturon-seguridad-repartidores-pierden-exencion-octubre-2026": () => import("../blog-posts-octubre-2026.ts"),
     "citroen-2cv-electrico-2026-paris": () => import("../blog-posts-octubre-2026.ts"),
@@ -539,6 +541,12 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "campereve-magellan-643-air-saphir-2026-precio-ficha-tecnica": () => import("../comparador-campers-campereve.ts"),
     "camperiz-dacia-dokker-2026-precio-ficha-tecnica": () => import("../comparador-campers-niky.ts"),
     "camperiz-peugeot-rifter-2026-precio-ficha-tecnica": () => import("../comparador-campers-niky.ts"),
+  },
+  autocaravana: {
+    "campereve-magellan-643-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-campereve-m1.ts"),
+    "carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-carthago-m1.ts"),
+    "challenger-v114-start-edition-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-challenger-m1.ts"),
+    "chausson-640-titanium-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-chausson-m1.ts"),
   },
   historia: {
     "cadillac-celestiq-2025-precio-ficha-tecnica": () => import("../historia-lote4.ts"),

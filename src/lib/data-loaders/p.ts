@@ -313,6 +313,11 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "pilote-v630j-2026-precio-ficha-tecnica": () => import("../comparador-campers-pilote.ts"),
     "possl-summit-600-2026-precio-ficha-tecnica": () => import("../comparador-campers-grupo4.ts"),
   },
+  autocaravana: {
+    "pilote-g740fgj-evidence-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-pilote-m1.ts"),
+    "pilote-v600g-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-pilote-m1.ts"),
+    "possl-2win-plus-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-possl-m1.ts"),
+  },
   historia: {
     "pagani-utopia-roadster-2026-precio-ficha-tecnica": () => import("../historia-lote4.ts"),
     "peugeot-2008-12-puretech-100-2026-precio-ficha-tecnica": () => import("../historia-exp20.ts"),

@@ -21,6 +21,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "baojun-yunduo-2024-precio-ficha-tecnica": () => import("../blog-posts-baojun-a.ts"),
     "baojun-yunhai-ev-2024-precio-ficha-tecnica": () => import("../blog-posts-baojun-a.ts"),
     "baojun-yunhai-phev-2024-precio-ficha-tecnica": () => import("../blog-posts-baojun-a.ts"),
+    "bavaria-i740fgj-nomade-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin4.ts"),
     "baw-212-t01-2026-precio-ficha-tecnica": () => import("../blog-posts-lote6.ts"),
     "beijing-bj30-hev-2025-precio-ficha-tecnica": () => import("../blog-posts-beijing-baic-a.ts"),
     "beijing-bj40-2024-precio-ficha-tecnica": () => import("../blog-posts-beijing-baic-a.ts"),
@@ -57,7 +58,10 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "benelli-trk-702x-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m3.ts"),
     "benelli-trk-902-stradale-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m9.ts"),
     "benelli-trk-902-xplorer-2026-ficha-tecnica-precio": () => import("../blog-posts-lote7.ts"),
+    "benimar-amphitryon-940-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin5.ts"),
+    "benimar-mileo-243-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin1.ts"),
     "benimar-mileo-286-2026-precio-autocaravana": () => import("../blog-posts-lote16.ts"),
+    "benimar-sport-340-up-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin5.ts"),
     "bentley-batur-2024-precio-ficha-tecnica": () => import("../blog-posts-bentley-a.ts"),
     "bentley-batur-convertible-2024-precio-ficha-tecnica": () => import("../blog-posts-bentley-a.ts"),
     "bentley-bentayga-2026-precio-ficha-tecnica": () => import("../blog-posts-bentley-a.ts"),
@@ -669,6 +673,9 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
   },
   camper: {
     "buerstner-campeo-c-600-2026-precio-ficha-tecnica": () => import("../comparador-campers-buerstner.ts"),
+  },
+  autocaravana: {
+    "burstner-lyseo-td-690-g-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-burstner-m1.ts"),
   },
   historia: {
     "baic-bj40-pro-2026-precio-ficha-tecnica": () => import("../historia-lote2.ts"),

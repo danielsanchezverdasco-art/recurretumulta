@@ -199,6 +199,9 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "isinwheel-s9max": () => import("../comparador-patinetes-base.ts"),
     "isinwheel-s9pro": () => import("../comparador-patinetes-exp-p5.ts"),
   },
+  autocaravana: {
+    "itineo-pf600-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-itineo-m1.ts"),
+  },
   historia: {
     "icaur-03t-2026-precio-ficha-tecnica": () => import("../historia-lote1.ts"),
     "icaur-v25-2026-precio-ficha-tecnica": () => import("../historia-lote1.ts"),

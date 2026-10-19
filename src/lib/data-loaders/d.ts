@@ -96,6 +96,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "denza-z9s-2026-precio-ficha-tecnica": () => import("../blog-posts-denza-a.ts"),
     "descubre-las-nuevas-medidas-de-la-dgt-para-octubre-uso-obligatorio-de-guantes-y-calzado-para-motoristas-fin-de-exenciones-del-cinturon-y-como-recurrir-multas": () => import("../blog-posts-db.ts"),
     "detector-radar-vs-avisador-legal-multa": () => import("../blog-posts-octubre-2026.ts"),
+    "dethleffs-trend-t-6717-eb-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin1.ts"),
     "dfsk-500-2025-precio-ficha-tecnica": () => import("../blog-posts-batch2b-1.ts"),
     "dfsk-600-2026-precio-ficha-tecnica": () => import("../blog-posts-dfsk-a.ts"),
     "dfsk-e5-hibrido-enchufable-precio-ficha-tecnica": () => import("../blog-posts-motor-nuevos-f.ts"),
@@ -480,6 +481,9 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
   },
   camper: {
     "dreamer-d55-2026-precio-ficha-tecnica": () => import("../comparador-campers-dreamer.ts"),
+  },
+  autocaravana: {
+    "dreamer-d55-fun-up-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-dreamer-m1.ts"),
   },
   historia: {
     "dacia-bigster-2025-precio-ficha-tecnica": () => import("../historia-modelos.ts"),

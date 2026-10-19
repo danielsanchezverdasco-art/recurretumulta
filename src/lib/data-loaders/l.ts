@@ -3,6 +3,7 @@
 export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
   blog: {
     "laika-ecovip-600-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin2.ts"),
+    "laika-kosmo-l-319-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin5.ts"),
     "lamborghini-countach-lpi-800-4-2024-precio-ficha-tecnica": () => import("../blog-posts-lamborghini-a.ts"),
     "lamborghini-fenomeno-2025-precio-ficha-tecnica": () => import("../blog-posts-lamborghini-a.ts"),
     "lamborghini-fenomeno-roadster-2026-precio-ficha-tecnica": () => import("../blog-posts-lamborghini-a.ts"),
@@ -419,6 +420,9 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
   camper: {
     "la-strada-regent-s-2026-precio-ficha-tecnica": () => import("../comparador-campers-sprinter.ts"),
     "laika-ecovip-performance-600-2026-precio-ficha-tecnica": () => import("../comparador-campers-laika-sunlight.ts"),
+  },
+  autocaravana: {
+    "laika-ecovip-600-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-laika-m1.ts"),
   },
   historia: {
     "lamborghini-countach-lpi-800-4-2024-precio-ficha-tecnica": () => import("../historia-modelos.ts"),

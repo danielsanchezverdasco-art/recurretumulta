@@ -553,6 +553,11 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "adria-matrix-supreme-670-sl-2026-precio-ficha-tecnica": () => import("../comparador-campers-adria.ts"),
     "adria-twin-600-spb-2026-precio-ficha-tecnica": () => import("../comparador-campers-roller-otros.ts"),
   },
+  autocaravana: {
+    "adria-coral-plus-670-sl-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-adria-m1.ts"),
+    "adria-twin-supreme-640-sgx-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-adria-m1.ts"),
+    "ahorncamp-t-690-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-ahorncamp-m1.ts"),
+  },
   historia: {
     "abarth-500e-2025-precio-ficha-tecnica": () => import("../historia-exp10.ts"),
     "abarth-600e-2025-precio-ficha-tecnica": () => import("../historia-exp10.ts"),

@@ -130,5 +130,508 @@ export const AUTOCARAVANAS_POSTS_MERLIN5: BlogPost[] = [
       "perfilada 7,4 m 4 plazas",
     ],
     "content": "<img src=/media/etrusco-t-7400-sb-2026-precio-ficha-tecnica-oficial.webp alt=\"Etrusco T 7400 SB 2026, autocaravana perfilada de 7,40 metros\">\n\n**Lo esencial, sin rodeos:** <a href=/autocaravanas/etrusco-t-7400-sb-2026-precio-ficha-tecnica/>ficha técnica del Etrusco T 7400 SB 2026</a> — dimensiones, camas y galería. <a href=/comparador-coches/>Enfréntalo a sus rivales en el comparador</a>.\n\nEtrusco es la marca de acceso del **grupo Hymer**: la puerta de entrada al universo del gigante alemán sin pagar el escudo premium. El **T 7400 SB** es su perfilada grande —**7,40 metros** (743 cm según el catálogo oficial)— con un argumento demoledor en su precio: **camas gemelas traseras de 217×80 cm que se unen en una doble gigante**, **ducha separada e independiente** y un **gran garaje trasero**. La perfilada de 7,4 m más asequible del grupo, con una relación tamaño-precio difícil de igualar.\n\nSobre **Fiat Ducato 2.2 Multijet de 140 CV (103 kW) Euro 6** —manual de serie, **automático opcional**—, el T 7400 SB homologa **4 plazas con cinturón** y entre **2 y 5 plazas para dormir** según configuración (dato de etrusco.com).\n\nLa honestidad numérica primero: las dimensiones exactas, las masas y la carga útil son **«no oficiales»** —de fichas de unidades 2026 de la red oficial, no de etrusco.com—: 7.400 mm de largo, 2.320 mm de ancho, 2.950 mm de alto, 2.801 kg de masa y **699 kg de carga útil teórica** (3.500 − 2.801). La MMA es de **3.500 kg con carnet B** —con **opcional a 3.650 kg** y **3.850 kg en el catálogo oficial**—. Y en precios: **Etrusco no publica PVP en euros**; la web oficial británica marca **£72,799**.\n\n## Ficha técnica resumida\n\n| Dato | Valor |\n|---|---|\n| **Tipo** | Autocaravana perfilada (grupo Hymer) |\n| **Chasis / motor** | Fiat Ducato 2.2 Multijet, 140 CV Euro 6 (automático opcional) |\n| **Longitud / anchura / altura** | 7,40 m / 2,32 m / 2,95 m («no oficial»: catálogo 743 cm) |\n| **MMA** | 3.500 kg, carnet B («no oficial»; opcional 3.650 kg; 3.850 kg en catálogo) |\n| **Masa** | 2.801 kg («no oficial»: ficha de unidad 2026 de la red) |\n| **Carga útil** | 699 kg teórica («no oficial»: 3.500 − 2.801) |\n| **Plazas circular / dormir** | 4 / 2-5 según configuración |\n| **Distribución** | Gemelas 217×80 cm + ducha separada + gran garaje |\n| **Etiqueta DGT** | C |\n| **Precio** | Sin PVP en EUR (UK oficial: £72,799) |\n\n<a href=/autocaravanas/etrusco-t-7400-sb-2026-precio-ficha-tecnica/>Ver la ficha del T 7400 SB 2026 con galería</a>\n\n## Gemelas de 217×80: el dormitorio más flexible de su precio\n\nLas **camas gemelas traseras de 217×80 cm** son largas —217 cm dan para dormir sin encogerse— y **se unen en una doble gigante**: el dormitorio más flexible de su precio. Separadas para la independencia nocturna, unidas para la cama de matrimonio XXL, sin mecanismos ni transformaciones.\n\nDebajo, el **gran garaje trasero con portones exteriores** guarda las bicis y los muebles de camping **sin desmontar el dormitorio**: se carga por fuera y se duerme por dentro, cada cosa en su sitio. En una 7,4 m de acceso, esta combinación —dormitorio flexible más garaje serio— es su mejor argumento comercial.\n\n## Ducha separada e independiente: ducharse sin plegar nada\n\nEl baño del T 7400 SB tiene la **ducha separada e independiente al otro lado del pasillo**: ducharse **sin plegar ni reconfigurar nada** —sin girar lavabos, sin cortinillas, sin mojar el váter—. Entras, te duchas, sales.\n\nEn el segmento de acceso, donde el baño suele ser el espacio sacrificado, una ducha independiente de verdad es un lujo cotidiano: a partir de la segunda semana de viaje, es lo que más se agradece. El peaje es el de siempre en 7,4 m: el baño ocupa metros que no van al salón, pero el intercambio compensa.\n\n## 699 kg de carga útil teórica: viajar sin ir justo de peso\n\nCon **2.801 kg de masa** («no oficial») y 3.500 kg de MMA, la **carga útil teórica de 699 kg** es de las más generosas de esta tanda: **se conduce con el carnet B sin ir justo de peso**. Cuatro adultos, agua, comida y equipaje caben con margen —el lujo de no hacer cuentas en cada viaje—.\n\nY si aun así necesitas más, la MMA admite **opcional a 3.650 kg** —y el catálogo oficial contempla **3.850 kg**—: consulta con el concesionario qué supone cada salto en carnet, ITV y peajes antes de elegir, porque rebasar los 3.500 kg tiene consecuencias administrativas.\n\n<img src=/media/etrusco-t-7400-sb-2026-precio-ficha-tecnica-interior.webp alt=\"Interior del Etrusco T 7400 SB, salón y dormitorio con camas gemelas\">\n\n## Truma Combi 6 de gas: el invierno con bombonas\n\nLa calefacción es la **Truma Combi 6 de gas**: en invierno **dependes de las bombonas**, sin versión diésel de serie. Es el planteamiento clásico y funciona —la Combi 6 es una calefacción probadísima—, pero obliga a la logística del gas: saber dónde rellenar en cada país, llevar adaptadores y vigilar el nivel.\n\nPara quien viaja sobre todo en primavera-verano y hace escapadas de invierno ocasionales, el gas es perfectamente válido. Para el invernista serio, la ausencia de opción diésel de serie es el punto que más pesa frente a rivales con Truma diésel —y conviene valorarlo antes de firmar, no en enero—.\n\n## La más asequible del grupo Hymer: qué se ajusta para el precio\n\nEl T 7400 SB es **la perfilada de 7,4 m más asequible del grupo Hymer**, y el precio se consigue ajustando donde menos duele en el día a día: **mobiliario y acabados de acceso** —correctos y funcionales, sin el refinamiento de una Hymer—, equipamiento contenido de serie y opcionales para quien quiera más.\n\nNo esperes las tapicerías, los herrajes ni los detalles de las premium alemanas: esperas **tamaño, distribución y carga útil** a precio imbatible. Es una compra racional —euros por metro y por kilo— antes que una compra de pasión. Y el respaldo del grupo Hymer en estructura y red juega a su favor frente a marcas independientes del mismo precio.\n\nEl matiz de las plazas: de serie **duermen 2** —las gemelas— y las **plazas 3.ª a 5.ª llegan con la cama abatible delantera opcional**. Para la pareja es perfecto tal cual; para la familia, la abatible es obligatoria y hay que presupuestarla.\n\n## ¿Para quién es el T 7400 SB?\n\nPara quien quiere **los metros más baratos del grupo Hymer**: 7,4 m, gemelas gigantes y ducha separada al precio más ajustado. Para la **pareja rutera** que valora los 699 kg de carga útil para viajar sin cuentas. Y para el comprador racional que prefiere **tamaño y distribución** antes que acabados premium.\n\nNo es para el invernista serio —Truma de gas sin versión diésel de serie—, ni para quien busque refinamiento interior alemán —acabados de acceso—. Y hay que asumir los datos «no oficiales» y el precio en libras: **pide presupuesto en euros** a la red española y confirma cada cifra en la unidad concreta.\n\n## Lo bueno y lo mejorable\n\n**Nos encanta:** las gemelas de 217×80 cm unibles en doble gigante —el dormitorio más flexible de su precio—; la ducha separada e independiente sin reconfigurar nada; el gran garaje trasero con portones exteriores; los 699 kg de carga útil teórica con carnet B; y ser la 7,4 m más asequible del grupo Hymer.\n\n**Mejoraría:** sin PVP en euros —hay que pedir presupuesto y comparar—; motor de 140 CV con manual de serie —el automático se paga aparte—; mobiliario y acabados de acceso, sin el refinamiento Hymer; Truma Combi 6 de gas —en invierno dependes de las bombonas—; y la abatible delantera es opcional —de serie duermen 2—.\n\n## Preguntas frecuentes\n\n### ¿Cuánto cuesta el Etrusco T 7400 SB 2026?\n\n**Etrusco no publica PVP en euros**. La web oficial británica marca **£72,799**: pide presupuesto en euros a la red española y compara.\n\n### ¿Cuántas personas duermen en el T 7400 SB?\n\n**De 2 a 5 según configuración**: 2 en las gemelas de serie; hasta 5 con la **cama abatible delantera opcional**. Viajan 4 con cinturón.\n\n### ¿La ducha es separada?\n\nSí: **ducha separada e independiente al otro lado del pasillo** —ducharse sin plegar ni reconfigurar nada—.\n\n### ¿La calefacción es de gas o diésel?\n\n**Gas**: monta la **Truma Combi 6 de gas**, sin versión diésel de serie. En invierno dependes de las bombonas.\n\n### ¿Qué carga útil tiene?\n\n**699 kg teóricos** («no oficial»: 3.500 − 2.801): de las más generosas de la tanda, con carnet B.\n\n### ¿Se puede ampliar la MMA?\n\nSí: **opcional a 3.650 kg**, y el catálogo oficial contempla **3.850 kg**. Consulta carnet, ITV y peajes con el concesionario.\n\n### ¿Qué motor lleva?\n\nEl **Fiat Ducato 2.2 Multijet de 140 CV (103 kW) Euro 6**, con manual de serie y **automático opcional**.\n\n*Fuentes: <a href=https://www.etrusco.com/gb/en/models/semi-integrated-fiat>Etrusco (web oficial)</a> + catálogo oficial + fichas 2026 de la red oficial («no oficial»: dimensiones, masas y carga útil).*\n\n## Cómo lo verificamos\n\nArtículo redactado por el equipo editorial de recurretumulta.online el 18/10/2026 a partir de la **web oficial de Etrusco** (etrusco.com, gama T sobre Fiat): motorización Ducato de 140 CV Euro 6, plazas (4 con cinturón, 2-5 para dormir), distribución con gemelas de 217×80 cm, ducha separada, garaje y Truma Combi 6 de gas; más el **catálogo oficial** (743 cm, MMA hasta 3.850 kg) y las **fichas 2026 de la red oficial** para dimensiones, masas y carga útil. **Transparencia**: esas cifras son «no oficiales» y así se marcan; Etrusco no publica PVP en euros —el precio en libras es de su web oficial UK—. Confirma cada dato en la unidad concreta con tu concesionario.\n\n**¿Te llegó una notificación de sanción?** <a href=https://recurretumulta.online/#analizador>Revísala con nuestra IA sin coste</a> antes de decidir si pagas o recurres.",
+  },,
+  {
+    "title": "Benimar Amphitryon 940 2026: precio, ficha técnica y 5 plazas",
+    "slug": "benimar-amphitryon-940-2026-precio-ficha-tecnica",
+    "excerpt": "Precio y ficha del Benimar Amphitryon 940 2026: integral española de 6,99 m con 5 plazas reales, triple sistema de camas, calefacción a gasóleo de 4.000 W, garaje de altura regulable y Fiat Ducato 140 CV.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "readTime": 8,
+    "locale": "all",
+    "keywords": [
+      "Benimar Amphitryon 940 2026",
+      "Benimar Amphitryon precio",
+      "Amphitryon 940 ficha técnica",
+      "Benimar integral 5 plazas",
+      "Amphitryon 940 opiniones",
+      "integral 6,99 m familiar",
+    ],
+    "content": "<img src=/media/benimar-amphitryon-940-2026-precio-ficha-tecnica-oficial.webp alt=\"Benimar Amphitryon 940 2026, autocaravana integral de 6,99 metros\">
+
+**Todos los números, sin paja:** <a href=/autocaravanas/benimar-amphitryon-940-2026-precio-ficha-tecnica/>ficha del Benimar Amphitryon 940 2026</a> con medidas, camas, MMA y fotos. <a href=/comparador-coches/>Y el comparador para cruzarlo con sus rivales</a>.
+
+La «clase A» —la integral sin cabina de turismo— suele rimar con 7,5 metros y presupuestos holgados. El **Benimar Amphitryon 940** rompe el molde: **6,99 metros** fabricados en **Benicarló** con **5 plazas reales para viajar y dormir**. La clase A familiar más compacta del mercado español, y eso transforma la ecuación de aparcar, maniobrar y pagar peajes.
+
+Sobre **Fiat Ducato 2.2 de 140 CV** —**180 CV en opción** para quien la cargue hasta arriba—, el Amphitryon homologa una MMA de **3.500 kg con carnet B**, una masa en orden de marcha de **3.085 kg (±5 % según ficha oficial)** y una carga útil calculada de **415 kg**.
+
+Fiel a la casa, **Benimar no publica PVP oficial**: cada concesionario pone su precio y las ofertas bailan miles de euros entre provincias. Comparar es obligatorio.
+
+## Ficha técnica resumida
+
+| Dato | Valor |
+|---|---|
+| **Tipo** | Autocaravana integral (clase A) |
+| **Chasis / motor** | Fiat Ducato 2.2, 140 CV (180 CV opcional) |
+| **Longitud / anchura / altura** | 6,99 m / 2,37 m / 2,95 m |
+| **MMA** | 3.500 kg (carnet B) |
+| **Masa en orden de marcha** | 3.085 kg ±5 % (ficha oficial) |
+| **Carga útil** | 415 kg (calculada: 3.500 − 3.085) |
+| **Plazas circular / dormir** | 5 / 5 (triple sistema de camas) |
+| **Calefacción** | A gasóleo, 4.000 W |
+| **Etiqueta DGT** | C |
+| **Precio** | No publicado oficialmente |
+
+<a href=/autocaravanas/benimar-amphitryon-940-2026-precio-ficha-tecnica/>Ver la ficha del Amphitryon 940 2026 con galería</a>
+
+## Triple sistema de camas: cinco que duermen sin convertir el salón
+
+El dormitorio exprime la vertical: **transversal trasera regulable en altura**, **basculante eléctrica de techo** y **basculante de cabina**. Tres camas, cinco plazas y el salón libre por la noche.
+
+La transversal trasera regulable en altura es la cama «de matrimonio» principal; la basculante de techo baja eléctricamente para la segunda pareja o los niños mayores; y la de cabina —**140×190 cm**— aprovecha el hueco sobre los asientos delanteros. Matiz honesto: la de cabina es **justa para dos adultos altos** y la de techo es **de una sola plaza**, así que la quinta plaza es más cómoda para un niño que para un adulto grande. Para la familia típica —dos adultos y tres niños—, el reparto es perfecto.
+
+## Integral en 6,99 m: aparcar casi como una perfilada
+
+Ahí está su gracia: **6,99 m de integral** que se aparcan casi como una perfilada grande pero se habitan como una clase A —parabrisas panorámico, salón diáfano, aire de loft sobre ruedas—. Frente a las integrales de 7,5 m, cada medio metro menos se agradece en pueblos, áreas y peajes.
+
+El peaje del formato: **2,95 m de alto y 2,37 m de ancho** —peajes más caros y más sensibilidad al viento lateral que una perfilada equivalente—. Es la física de las integrales: más volumen interior a cambio de más superficie expuesta al viento.
+
+## Calefacción a gasóleo de 4.000 W: el invierno sin botellas
+
+Calienta con **gasóleo del depósito (4.000 W)**: fin de la caza de bombonas por media Europa. Para una familiar que estira la temporada —puentes otoñales, escapadas invernales—, eso es autonomía de verdad: calor ligado al depósito y repostaje en cualquier gasolinera.
+
+Con 4 kW para una célula de 6,99 m, el dimensionado es correcto para el invierno español y la media estación europea; para frío serio y prolongado conviene confirmar el aislamiento con el concesionario. Y el deber de siempre: motor y calefacción beben del mismo depósito, así que en invierno se vigila el nivel con un ojo extra.
+
+<img src=/media/benimar-amphitryon-940-2026-precio-ficha-tecnica-interior.webp alt=\"Interior del Benimar Amphitryon 940, salón integral y camas\">
+
+## Garaje de altura regulable: de las bicis a la moto pequeña
+
+El **garaje de altura regulable (67 a 120 cm) con doble portón XL** está entre lo más versátil del segmento: cama alta y caben las bicis —hasta una moto pequeña—; cama baja y se accede cómodamente. **De las bicis a la moto sin renunciar a dormir**: así se resume.
+
+Es el tipo de solución que solo aprecia quien viaja con material voluminoso: el garaje deja de ser un hueco fijo para convertirse en un espacio que se adapta a cada viaje.
+
+## Fabricada en Benicarló: la integral española con servicio cercano
+
+Sale de **Benicarló (Castellón)**, y eso pesa en la compra: la **red Benimar en España** es de las más densas, con recambios y talleres que conocen la célula de primera mano. Para un vehículo de quince años, tener fábrica y servicio en casa da tranquilidad.
+
+La célula es de **poliéster ISB sin madera en paredes y techo**: construcción sin materiales orgánicos donde más duele la humedad —las infiltraciones no pudren lo que no es madera—. Es la respuesta española al eterno enemigo de las autocaravanas con años.
+
+## Los 415 kg con cinco a bordo: la cuenta honesta
+
+Con **3.085 kg en orden de marcha** y 3.500 kg de MMA, quedan **415 kg teóricos** —menos con opcionales—. Cinco ocupantes rondan los 375 kg vestidos: restan **unos 40 kg** para agua, comida y equipaje si son cinco adultos. La lectura es clara: 5 plazas para **familias con niños** —menos kilos por cabeza— o para **cuatro-cinco que viajan ligeros**.
+
+Del motor: los **140 CV base** van bien en llano, pero con 3,5 toneladas cargadas **los puertos piden el 180 CV opcional**. Si tu ruta es de montaña, ese salto se paga en tranquilidad.
+
+## El comprador ideal del Amphitryon 940
+
+Para la **familia que sueña con una integral sin llegar a los 7,5 metros**: 5 plazas reales en 6,99 m que se aparcan casi como una perfilada. Para quien prima el **servicio próximo** —hecha en Benicarló, red tupida en España—. Y para el rutero de media estación e invierno que prefiere **calentar con gasóleo**.
+
+No es para cinco adultos siempre a tope de carga —mandan los 415 kg—, ni para quien quiera el PVP en un catálogo: **sin precio oficial**, hay que negociar entre concesionarios. Y ojo: 2,95 m de alto se notan en peajes y con viento lateral más que en una perfilada.
+
+## Balance: lo mejor y lo mejorable
+
+**Lo mejor:** la integral familiar más compacta del mercado español —5 plazas reales en 6,99 m—; el triple sistema de camas que deja el salón intacto; la calefacción a gasóleo de 4.000 W sin depender de botellas; el garaje de altura regulable (67-120 cm) con doble portón XL; y la fabricación en Benicarló con célula de poliéster ISB sin madera y servicio cercano.
+
+**A mejorar:** 415 kg teóricos —con cinco ocupantes el margen es mínimo—; los 140 CV base van justos en puertos con carga —el 180 CV opcional compensa—; la cama de cabina (140×190 cm) es justa para altos y la de techo es individual; sin PVP oficial los precios bailan miles de euros por provincias; y los 2,95 m de alto castigan en peajes y con viento lateral.
+
+## Preguntas frecuentes
+
+### ¿Qué precio tiene el Benimar Amphitryon 940 2026?
+
+**Benimar no publica PVP oficial**: cada concesionario fija su precio. Pide oferta en varios —las diferencias entre provincias son de miles de euros— y compara.
+
+### ¿Cuántos duermen en el Amphitryon 940?
+
+**Cinco**: transversal trasera regulable + basculante eléctrica de techo + basculante de cabina (140×190 cm). Cabina y techo rinden mejor con niños que con adultos grandes.
+
+### ¿Qué diferencia a una integral de una perfilada?
+
+La integral no lleva cabina de turismo: **parabrisas panorámico y célula de una pieza**. Más volumen y aire de loft que una perfilada, a cambio de más altura y más sensibilidad al viento.
+
+### ¿La calefacción va con gas o con gasóleo?
+
+**Gasóleo**: 4.000 W desde el depósito del motor. Adiós a cazar bombonas en invierno.
+
+### ¿Aguanta la carga útil con cinco ocupantes?
+
+**415 kg teóricos** (3.500 − 3.085): vale para familias con niños o para viajar ligero. Calcula con tu configuración real.
+
+### ¿Dónde fabrican el Amphitryon 940?
+
+En **Benicarló (Castellón)**: célula de **poliéster ISB sin madera** en paredes y techo, y red de servicio tupida en España.
+
+### ¿Vale el carnet B para conducirla?
+
+Sí: la MMA es de **3.500 kg**, así que basta el **carnet B**.
+
+*Fuentes: <a href=https://www.benimar.es>Benimar (ficha técnica oficial)</a>.*
+
+## Cómo lo verificamos
+
+Contenido elaborado por la redacción de recurretumulta.online el 18/10/2026 a partir de la **ficha técnica oficial de Benimar** (benimar.es, modelo Amphitryon 940): dimensiones, motor Ducato de 140 CV (180 CV opcional), masa en orden de marcha de 3.085 kg ±5 %, MMA de 3.500 kg, triple sistema de camas, calefacción a gasóleo de 4.000 W, garaje de altura regulable y construcción en poliéster ISB. Benimar no publica PVP: no incluimos precio. La carga útil es calculada (MMA menos masa en orden de marcha): verifícala en la unidad concreta con tu concesionario.
+
+**¿Multa inesperada?** <a href=https://recurretumulta.online/#analizador>Analízala gratis antes de pagar</a>: la IA de recurretumulta detecta si se puede recurrir.",
   },
+  {
+    "title": "Benimar Sport 340 UP 2026: precio, ficha técnica y 5 plazas",
+    "slug": "benimar-sport-340-up-2026-precio-ficha-tecnica",
+    "excerpt": "Precio y ficha del Benimar Sport 340 UP 2026: capuchina familiar de 6,76 m para 5 personas, cama capuchina de 155×210 cm, calefacción a gasóleo de 4.000 W, ISOFIX de serie y base Ford Transit.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "readTime": 8,
+    "locale": "all",
+    "keywords": [
+      "Benimar Sport 340 UP 2026",
+      "Benimar Sport 340 precio",
+      "Sport 340 UP ficha técnica",
+      "Benimar capuchina 5 plazas",
+      "capuchina familiar 6,76 m",
+      "Benimar Sport opiniones",
+    ],
+    "content": "<img src=/media/benimar-sport-340-up-2026-precio-ficha-tecnica-oficial.webp alt=\"Benimar Sport 340 UP 2026, autocaravana capuchina de 6,76 metros\">
+
+**Directo a lo importante:** <a href=/autocaravanas/benimar-sport-340-up-2026-precio-ficha-tecnica/>ficha técnica del Benimar Sport 340 UP 2026</a> — datos, medidas y fotos. <a href=/comparador-coches/>Mídela contra sus rivales aquí</a>.
+
+La capuchina —la de la «joroba» sobre la cabina— es el formato familiar por excelencia: la cama más grande de la casa está siempre hecha sobre la cabina, y el resto del vehículo queda libre para vivir. El **Benimar Sport 340 UP** lleva esa fórmula a **6,76 metros** para **5 personas**, con una cama capuchina de **155×210 cm** que está entre las más grandes del segmento: sobre la cabina duermen dos adultos de verdad, no dos niños encajados.
+
+La base es **Ford Transit** —**130 CV de serie**, con **160/165 CV y cambio automático de 9 velocidades en opción**—, la MMA es de **3.500 kg con carnet B** y las dimensiones son 6,76 m de largo, 2,30 m de ancho y **3,08 m de alto** —la capuchina se paga en centímetros verticales—.
+
+Honestidad de entrada: **Benimar no publica la masa en orden de marcha** del Sport 340 UP en una cifra oficial única —la referencia de **2.900 kg** es «no oficial», de ficha de concesionario— y **tampoco publica PVP**: negociar con el concesionario es obligatorio.
+
+## Ficha técnica resumida
+
+| Dato | Valor |
+|---|---|
+| **Tipo** | Autocaravana capuchina |
+| **Chasis / motor** | Ford Transit, 130 CV (160/165 CV y automático 9v opcionales) |
+| **Longitud / anchura / altura** | 6,76 m / 2,30 m / 3,08 m |
+| **MMA** | 3.500 kg (carnet B) |
+| **Masa en orden de marcha** | ~2.900 kg («no oficial»: ficha de concesionario) |
+| **Plazas circular / dormir** | 5 / 5 (capuchina 155×210 cm + trasera + salón) |
+| **Calefacción** | A gasóleo, 4.000 W |
+| **Etiqueta DGT** | C |
+| **Precio** | No publicado oficialmente |
+
+<a href=/autocaravanas/benimar-sport-340-up-2026-precio-ficha-tecnica/>Ver la ficha del Sport 340 UP 2026 con galería</a>
+
+## La cama capuchina de 155×210: el dormitorio que no se monta
+
+La **cama capuchina de 155×210 cm** es la razón de ser de este formato: una cama de matrimonio grande —210 cm de largo dan para dormir sin encogerse— que **está siempre hecha** y no roba ni un centímetro a la zona de día. Mientras los niños duermen arriba, los padres siguen en el salón sin susurros ni horarios.
+
+Es, además, **de las más grandes del segmento**: muchas capuchinas se quedan en 140-150 cm de ancho, y esos centímetros se notan. El acceso —por escalera— pide agilidad, así que la capuchina suele ser el reino de los niños o de la pareja joven; los abuelos la miran con más respeto.
+
+## 5 plazas pensadas para niños: ISOFIX y garaje modulable
+
+El Sport 340 UP delata a su público objetivo en los detalles: **ISOFIX de serie en el comedor** para las sillas infantiles —no todas las autocaravanas lo traen— y un **garaje modulable** que se adapta al material familiar: carrito, bicis pequeñas, patinetes.
+
+La **cama trasera regulable en altura** completa el dormitorio familiar, pero con su dilema honesto: **obliga a elegir entre garaje grande o cama baja** —no hay término medio por la noche—. Si el garaje va siempre lleno, la cama queda alta; si se prioriza el acceso cómodo, el garaje se encoge. Es el intercambio clásico de las traseras regulables y conviene asumirlo antes de comprar.
+
+## Calefacción a gasóleo y Transit con automático: la rutera sin complicaciones
+
+La **calefacción a gasóleo de 4.000 W** independiza los viajes fríos de las bombonas: tira del depósito del Transit y se reposta en cualquier gasolinera. Para una familiar que sale en puentes de otoño e invierno, es la diferencia entre planificar el gas y no pensar en él.
+
+Y el **Ford Transit con cambio automático de 9 velocidades disponible** es la capuchina sin palanca para quien viene del turismo: en atascos, en maniobras de área y en etapas largas, el automático descansa. El motor base de **130 CV** es suficiente en llano, pero **con 5 ocupantes y la célula cargada en puertos va justo** —el salto a 160/165 CV se nota y se amortiza en tranquilidad—.
+
+<img src=/media/benimar-sport-340-up-2026-precio-ficha-tecnica-interior.webp alt=\"Interior del Benimar Sport 340 UP, salón familiar y cama capuchina\">
+
+## 3,08 m de alto: el peaje de la capuchina
+
+Toda ventaja tiene su precio y el de la capuchina se mide en vertical: **3,08 m de alto**. Las consecuencias son concretas: **más consumo** que una perfilada equivalente, **peor comportamiento con viento lateral** y adiós a parkings con límite de altura. A cambio, la cama más grande de la casa sin sacrificar la zona de día.
+
+¿Compensa? Para la familia que duerme cinco, rotundamente sí: ninguna perfilada de 6,76 m ofrece una cama de 155×210 siempre hecha más el resto de plazas. Para la pareja sin niños, la capuchina es altura pagada sin uso —una perfilada les dará lo mismo con menos viento—.
+
+La **nevera de 150 litros para 5 personas** es el otro punto a vigilar: en verano y en viajes largos se queda corta sin una nevera auxiliar. Presupuesta el extra si viajáis cinco en agosto.
+
+## ¿Para quién es el Sport 340 UP?
+
+Para la **familia con niños pequeños** que necesita 5 plazas con ISOFIX, cama grande siempre hecha y garaje para el material infantil. Para quien viene del turismo y quiere el **automático de 9 velocidades** sin pelearse con el embrague. Y para el comprador que prefiere la **red Benimar en España** antes que marcas con menos servicio.
+
+No es para parejas sin niños —la capuchina es altura sin uso para ellos—, ni para quien quiera saber la masa exacta antes de firmar —la cifra es «no oficial»—. Y hay que asumir la negociación: **sin PVP oficial**, los precios varían mucho entre concesionarios.
+
+## Lo bueno y lo mejorable
+
+**Puntos fuertes:** la capuchina de 6,76 m para 5 personas que maniobra casi como una perfilada grande; la cama capuchina de 155×210 cm, de las más grandes del segmento; la calefacción a gasóleo de 4.000 W sin depender de botellas; el ISOFIX de serie y el garaje modulable pensados para niños; y el Transit con automático de 9 velocidades disponible.
+
+**A mejorar:** 3,08 m de alto penalizan consumo y viento lateral; la cama trasera regulable obliga a elegir entre garaje grande o cama baja; el motor base de 130 CV va justo en puertos con cinco y carga; la nevera de 150 l se queda corta para cinco en verano; y sin PVP oficial ni masa oficial, todo pasa por el concesionario.
+
+## Preguntas frecuentes
+
+### ¿Cuánto cuesta el Benimar Sport 340 UP 2026?
+
+**Benimar no publica PVP oficial**. Negociar con el concesionario es obligatorio y los precios varían mucho entre provincias: pide varias ofertas.
+
+### ¿Cuántas personas duermen en el Sport 340 UP?
+
+**Cinco**: cama capuchina de **155×210 cm** + cama trasera regulable en altura + plazas del salón.
+
+### ¿Qué es una autocaravana capuchina?
+
+La que lleva la **«joroba» con la cama sobre la cabina**: la cama más grande siempre hecha, a cambio de más altura (3,08 m) y más viento lateral que una perfilada.
+
+### ¿Qué motor lleva?
+
+**Ford Transit**: **130 CV de serie**, con **160/165 CV y cambio automático de 9 velocidades en opción**.
+
+### ¿La calefacción es de gas o gasóleo?
+
+**Gasóleo**: 4.000 W del depósito del Transit, sin depender de bombonas.
+
+### ¿Tiene ISOFIX?
+
+Sí: **ISOFIX de serie en el comedor**, pensado para familias con niños pequeños.
+
+### ¿Qué carnet se necesita?
+
+El **carnet B** (MMA de 3.500 kg).
+
+*Fuentes: <a href=https://www.benimar.es>Benimar (web oficial)</a>; masa «no oficial» de ficha de concesionario.*
+
+## Cómo lo verificamos
+
+Artículo elaborado por la redacción de recurretumulta.online el 18/10/2026 a partir de la **web oficial de Benimar** (benimar.es, modelo Sport 340 UP): dimensiones, base Ford Transit con potencias disponibles, 5 plazas, cama capuchina de 155×210 cm, calefacción a gasóleo de 4.000 W, ISOFIX de serie y garaje modulable. **Transparencia**: Benimar no publica ni PVP ni una cifra oficial única de masa en orden de marcha —la masa citada (2.900 kg) es «no oficial», de ficha de concesionario—. Confirma precio y masa de la unidad concreta antes de firmar.
+
+**¿Te han puesto una multa?** <a href=https://recurretumulta.online/#analizador>Pásala por nuestro analizador gratuito</a> antes de pagarla o recurrirla.",
+  },
+  {
+    "title": "Chausson 777 Titanium Line 2026: precio, ficha técnica y 4 plazas",
+    "slug": "chausson-777-titanium-line-2026-precio-ficha-tecnica",
+    "excerpt": "Precio y ficha del Chausson 777 Titanium Line 2026: perfilada de 7,19 m con camas gemelas de 90 cm, estructura IRP con 7 años de garantía de estanqueidad, calefacción con el carburante del vehículo y 4 plazas.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "readTime": 8,
+    "locale": "all",
+    "keywords": [
+      "Chausson 777 2026",
+      "Chausson 777 Titanium precio",
+      "Chausson 777 ficha técnica",
+      "Chausson Titanium Line",
+      "777 Titanium Line opiniones",
+      "perfilada 7,19 m 4 plazas",
+    ],
+    "content": "<img src=/media/chausson-777-titanium-line-2026-precio-ficha-tecnica-oficial.webp alt=\"Chausson 777 Titanium Line 2026, autocaravana perfilada de 7,19 metros\">
+
+**Directo al grano:** <a href=/autocaravanas/chausson-777-titanium-line-2026-precio-ficha-tecnica/>ficha técnica del Chausson 777 Titanium Line 2026</a> — lo que publica el fabricante y lo que no. <a href=/comparador-coches/>Míralo frente a sus rivales aquí</a>.
+
+Empezamos con una honestidad poco habitual pero necesaria: **Chausson publica muy pocos datos técnicos del 777 Titanium Line** en su web oficial. La longitud —**7.190 mm sobre Ford Transit, 7.160 mm sobre Fiat**— sí es oficial; la potencia, la MMA, la carga útil y las dimensiones exactas **no aparecen en el sitio del fabricante** y las conocemos por **fichas de concesionarios** («no oficiales»): unos 130 CV de serie con 165 CV opcional, 2.350 mm de ancho, 2.920 mm de alto y 3.500 kg de MMA. Si buscas certezas absolutas de catálogo, este modelo te obligará a sentarte con el concesionario; si buscas una perfilada grande bien construida a precio francés, sigue leyendo.
+
+El 777 es la perfilada grande de la **gama Titanium Line**: **4 plazas** para viajar, **camas gemelas traseras de 90 cm** —más anchas que las gemelas habituales— y una construcción **IRP** (techo, suelo y paredes de poliéster) con **7 años de garantía de estanqueidad**. Chausson juega en la liga del precio ajustado sin renunciar a lo estructural, y eso se nota en esta ficha.
+
+## Ficha técnica resumida
+
+| Dato | Valor |
+|---|---|
+| **Tipo** | Autocaravana perfilada (Titanium Line) |
+| **Chasis / motor** | Ford Transit o Fiat («no oficial»: 130 CV serie, 165 CV opcional) |
+| **Longitud** | 7.190 mm (Ford) / 7.160 mm (Fiat) — dato oficial |
+| **Anchura / altura** | 2.350 / 2.920 mm («no oficial»: concesionarios) |
+| **MMA** | 3.500 kg («no oficial»); carnet B a confirmar |
+| **Carga útil** | No publicada |
+| **Plazas circular / dormir** | 4 / 3 de serie (+1 con cama basculante opcional) |
+| **Distribución** | Gemelas traseras de 90 cm + gran garaje |
+| **Etiqueta DGT** | C |
+| **Precio** | No publicado («les justes prix»: se negocia en red) |
+
+<a href=/autocaravanas/chausson-777-titanium-line-2026-precio-ficha-tecnica/>Ver la ficha del 777 Titanium Line 2026 con galería</a>
+
+## La ficha que falta: qué es oficial y qué no
+
+Merece la pena detenerse en este punto porque condiciona la compra. De la web oficial de Chausson (gama 2027) solo extraemos con certeza la **longitud según chasis** y la pertenencia a la Titanium Line; el resto de cifras que circulan —potencia, MMA, anchura, altura— vienen de **fichas de concesionarios** y las marcamos como «no oficiales» en este artículo y en la tabla.
+
+Pide al concesionario la **ficha técnica de la unidad concreta** —MMA, masa y potencia— y **confirma por escrito el carnet**: el B es lo esperable, pero sin MMA oficial no lo damos por hecho.
+
+## Estructura IRP y 7 años de estanqueidad: lo que sí publica Chausson
+
+Donde Chausson sí habla claro es en la construcción: estructura **IRP** con **techo, suelo y paredes de poliéster** y un **suelo de 64 mm**, más **7 años de garantía de estanqueidad** con revisión anual. El poliéster en las tres caras de la célula es la construcción seria del segmento medio: resiste el granizo mejor que el aluminio, no se abolla con las ramas y envejece sin picaduras.
+
+Los 7 años de garantía de estanqueidad —con su **revisión anual obligatoria**— son una red de seguridad real: las infiltraciones son la avería más cara de una autocaravana con años, y siete años de cobertura dicen mucho de la confianza del fabricante en sus juntas. Eso sí: la revisión anual hay que hacerla en servicio oficial y guardarse los sellos, porque sin ellos la garantía se evapora.
+
+## Calefacción con el carburante: invierno sin bombonas
+
+El 777 monta una **calefacción que usa el carburante del vehículo y funciona circulando**. Traducido: en lugar de depender de las bombonas de gas —buscar dónde rellenarlas en cada país—, el calor sale del depósito del propio chasis, y además **sigue calentando en marcha**, así que se llega al destino con la célula ya templada.
+
+Para quien viaja en invierno o alarga la temporada, esto simplifica la logística una barbaridad: un solo combustible, repostaje en cualquier gasolinera y autonomía de calefacción ligada a la del depósito. El deber asociado: vigilar el nivel con un ojo extra en los viajes fríos.
+
+<img src=/media/chausson-777-titanium-line-2026-precio-ficha-tecnica-interior.webp alt=\"Interior del Chausson 777 Titanium Line, salón Smart Lounge\">
+
+## Gemelas de 90 cm: dormir ancho sobre un garaje grande
+
+Las **camas gemelas traseras de 90 cm de ancho cada una** son más generosas que las gemelas habituales del segmento —que suelen quedarse en 80 cm—: diez centímetros por cama que se notan noche tras noche. Debajo, un **gran garaje calefactado e iluminado con doble portón de acceso**: las bicis entran sin desmontar y el material se carga por el lado que convenga.
+
+El matiz de las plazas: de serie el 777 ofrece **3 plazas de dormir** —las gemelas más una— y la **cuarta cama (basculante sobre el salón) es opcional**. Para la pareja es perfecto tal cual; para la familia de cuatro, la basculante es obligatoria y conviene presupuestarla desde el principio.
+
+Quien prefiera **cama isla central o transversal** no tiene esa opción en este modelo: las gemelas fijas ocupan toda la trasera. Es una decisión de distribución, no un defecto: las gemelas dan el garaje más grande y el acceso individual a la cama, a cambio de renunciar a la cama «de matrimonio».
+
+## Smart Lounge y Pack Connect: el salón que se adapta
+
+El salón **Smart Lounge cara a cara** monta una **mesa central regulable en altura y longitud**: el mismo salón sirve para comer los cuatro, para leer a solas o para recibir visita sin que nadie se quede sin sitio. Es el tipo de mueble que se usa cada día y que separa los salones pensados de los salones «de catálogo».
+
+El **Pack Connect** y la **preinstalación de cámara de marcha atrás y panel solar** dejan la base preparada para viajar bien equipado: la cámara es casi obligatoria en 7,19 m —aparcar sin ver la trasera es un acto de fe— y el solar preinstalado abarata la futura ampliación de autonomía.
+
+## ¿Para quién es el 777 Titanium Line?
+
+Para la **pareja que quiere una perfilada grande bien construida** sin pagar el sobreprecio alemán: 7,19 m, gemelas anchas y garaje grande con la garantía estructural de Chausson. Para quien **viaja en invierno** y valora la calefacción a carburante. Y para el comprador que prefiere **negociar el precio** en la red de 165 concesionarios antes que pagar un PVP fijo.
+
+No es para la familia de cuatro que necesite cuatro camas sin pagar extras —la basculante es opcional—, ni para quien exija la ficha técnica completa publicada por el fabricante: aquí toca pedirla al concesionario. Y con 7,19 m, aparcar en pueblos y áreas pequeñas exige más oficio que con una perfilada de 6 m.
+
+## Lo bueno y lo mejorable
+
+**Nos gusta:** las gemelas de 90 cm —más anchas de lo habitual— sobre un gran garaje calefactado e iluminado; la estructura IRP de poliéster con 7 años de garantía de estanqueidad; la calefacción a carburante que funciona circulando; el Smart Lounge con mesa regulable; y la preinstalación de cámara y solar.
+
+**Mejorable:** solo 3 plazas de dormir de serie —la cuarta se paga—; Chausson no publica potencia, MMA, carga útil ni dimensiones exactas: la ficha completa solo la tiene el concesionario; sin PVP oficial («les justes prix» se negocian); 7,19 m exigen oficio al aparcar; y las gemelas fijas no dejan opción a cama isla o transversal.
+
+## Preguntas frecuentes
+
+### ¿Cuánto cuesta el Chausson 777 Titanium Line 2026?
+
+**Chausson no publica precios oficiales**: practica los «les justes prix», que se negocian en su red de 165 concesionarios europeos. Pide oferta y compara.
+
+### ¿Los datos técnicos son oficiales?
+
+**Solo la longitud** (7.190 mm sobre Ford, 7.160 mm sobre Fiat). Potencia, MMA, carga útil y resto de dimensiones son **«no oficiales»** (fichas de concesionarios): confírmalos en la unidad concreta.
+
+### ¿Cuántas personas duermen en el 777?
+
+**Tres de serie** (gemelas de 90 cm + una) y **cuatro con la cama basculante opcional** sobre el salón.
+
+### ¿Qué carnet se necesita?
+
+Lo esperable es el **carnet B** (clase de 3,5 T típica de la gama), pero la **MMA oficial no está publicada**: confírmala por escrito con el concesionario.
+
+### ¿Cuántos años de garantía de estanqueidad tiene?
+
+**7 años**, con revisión anual obligatoria en servicio oficial.
+
+### ¿Qué diferencia hay entre la versión Ford y la Fiat?
+
+La **longitud**: 7.190 mm sobre **Ford Transit** y 7.160 mm sobre **Fiat**. El resto del planteamiento es el mismo.
+
+### ¿La calefacción usa gas?
+
+**No**: funciona con el **carburante del vehículo** y sigue calentando **en marcha**, sin depender de bombonas.
+
+*Fuentes: <a href=https://www.chausson-motorhomes.com/line/low-profiles/>Chausson (sitio oficial de exportación, gama 2027 + catálogo oficial 2019)</a>; datos «no oficiales» de fichas de concesionarios.*
+
+## Cómo lo verificamos
+
+Artículo elaborado por la redacción de recurretumulta.online el 18/10/2026 a partir del **sitio oficial de exportación de Chausson** (gama 2027) y su catálogo oficial: longitud según chasis, estructura IRP, garantía de estanqueidad de 7 años, calefacción a carburante, distribución con gemelas de 90 cm y equipamiento Smart Lounge / Pack Connect. **Transparencia**: el fabricante no publica potencia, MMA, carga útil ni dimensiones exactas del 777 —esos valores son «no oficiales» de concesionarios y así se marcan—. Recomendamos confirmar cada dato en la ficha de la unidad concreta antes de comprar.
+
+**¿Te han multado?** <a href=https://recurretumulta.online/#analizador>Analiza la sanción gratis con nuestra IA</a> antes de pagar o recurrir.",
+  },
+  {
+    "title": "Laika Kosmo L 319 2026: precio, ficha técnica y 4 plazas",
+    "slug": "laika-kosmo-l-319-2026-precio-ficha-tecnica",
+    "excerpt": "Precio y ficha del Laika Kosmo L 319 2026: perfilada italiana de 6,95 m con camas gemelas de hasta 205 cm con elevación eléctrica, baño Vario de nueva generación, garaje calefactado y Fiat Ducato 140 CV.",
+    "category": "Novedades Motor",
+    "date": "2026-10-18",
+    "readTime": 8,
+    "locale": "all",
+    "keywords": [
+      "Laika Kosmo L 319 2026",
+      "Laika Kosmo L 319 precio",
+      "Kosmo L 319 ficha técnica",
+      "Laika Kosmo perfilada",
+      "baño Vario Laika",
+      "perfilada 6,95 m 4 plazas",
+    ],
+    "content": "<img src=/media/laika-kosmo-l-319-2026-precio-ficha-tecnica-oficial.webp alt=\"Laika Kosmo L 319 2026, autocaravana perfilada italiana de 6,95 metros\">
+
+**Lo importante primero:** <a href=/autocaravanas/laika-kosmo-l-319-2026-precio-ficha-tecnica/>ficha técnica del Laika Kosmo L 319 2026</a> — dimensiones, camas y galería. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+
+Laika es la marca toscana del grupo Hymer, y su gama **Kosmo** es la puerta de entrada al universo italiano de la marca: diseño cuidado sin el precio de las gamas altas. El **Kosmo L 319** es su perfilada de **6,95 metros** con una carta de presentación poco común en el acceso de gama: **camas gemelas traseras de hasta 205 cm con elevación eléctrica** —de las camas más largas del segmento— y un **baño Vario de nueva generación** que reinventa la ducha en formato compacto.
+
+Sobre **Fiat Ducato 2.2 MultiJet de 140 CV** —cambio manual de serie, **automático opcional**—, el L 319 homologa **4 plazas** y una MMA de **3.500 kg con carnet B**, con 2,32 m de ancho y 2,95 m de alto.
+
+Dos honestidades antes de seguir: **Laika no publica la masa en orden de marcha** del L 319 en su web oficial —la carga útil real hay que calcularla unidad a unidad con el concesionario— y **tampoco publica PVP**: el precio orientativo de **82.500 €** que citamos es «no oficial», de un concesionario alemán, y en España puede diferir.
+
+## Ficha técnica resumida
+
+| Dato | Valor |
+|---|---|
+| **Tipo** | Autocaravana perfilada (gama Kosmo) |
+| **Chasis / motor** | Fiat Ducato 2.2 MultiJet, 140 CV (automático opcional) |
+| **Longitud / anchura / altura** | 6,95 m / 2,32 m / 2,95 m |
+| **MMA** | 3.500 kg (carnet B) |
+| **Masa en orden de marcha** | No publicada por el fabricante |
+| **Carga útil** | A calcular con el concesionario |
+| **Plazas circular / dormir** | 4 / 4 (gemelas + salón) |
+| **Distribución** | Gemelas de hasta 205 cm + baño Vario |
+| **Etiqueta DGT** | C |
+| **Precio** | Sin PVP oficial (~82.500 € orientativo DE, «no oficial») |
+
+<a href=/autocaravanas/laika-kosmo-l-319-2026-precio-ficha-tecnica/>Todos los datos del Kosmo L 319 2026, con fotos y galería</a>
+
+## Gemelas de 205 cm con elevación eléctrica: dormir largo en 6,95 m
+
+Las **camas gemelas traseras de hasta 205 cm** son el argumento más físico del L 319: en un segmento donde las gemelas suelen quedarse en 190-195 cm, esos centímetros extra se notan cada noche si pasas del 1,85 m. Y la **elevación eléctrica** permite regular la altura de las camas —más garaje debajo o acceso más cómodo, a elegir—.
+
+Dormir largo en menos de 7 metros sin recurrir a una cama transversal —donde uno de los dos duerme «encajado» contra la pared— es un lujo cotidiano: cada miembro de la pareja entra y sale de su cama sin despertar al otro. Para parejas altas, esta es probablemente la razón número uno para mirar el L 319 antes que a sus rivales.
+
+## Baño Vario: giras el lavabo y nace la ducha
+
+El **baño Vario de nueva generación** es la segunda gran idea del L 319: **giras la pared del lavabo y creas una ducha amplia**, sin cortinillas improvisadas ni mamparas que haya que montar. Cerrado, es un aseo compacto y funcional; girado, es una ducha de tamaño serio.
+
+La genialidad está en no pedir metros extra: el mismo espacio sirve para las dos cosas según el momento del día. El peaje, honesto: **cada ducha implica reconfigurar el aseo** —girar el lavabo, y volverlo a su sitio después—. Para quien se ducha a diario en ruta es un ritual de un minuto; para quien prefiere no tocar nada, una ducha separada fija —como la de rivales más caros— sigue siendo más cómoda.
+
+<img src=/media/laika-kosmo-l-319-2026-precio-ficha-tecnica-interior.webp alt=\"Interior del Laika Kosmo L 319, dormitorio con camas gemelas y baño Vario\">
+
+## Garaje calefactado con rieles: el equipaje viaja en primera
+
+Bajo las gemelas, el **garaje iluminado, calefactado y con rieles de amarre** trata el equipaje como se merece: protegido del frío —la electrónica y los líquidos no sufren las heladas—, visible con la iluminación interior y **bien fijado con los rieles** para que nada baile en las curvas.
+
+En una perfilada de 6,95 m, un garaje de verdad con estas tres cualidades no es lo habitual en el acceso de gama: muchas rivales ofrecen un «garaje» que es un hueco oscuro donde todo va suelto. Aquí se nota la herencia del grupo Hymer en los detalles que no salen en las fotos del catálogo.
+
+## Diseño GFG Style: la italiana que entra por los ojos
+
+El **diseño exterior de GFG Style** —el estudio de Giorgetto Giugiaro— con **ventanas enrasadas de doble acristalamiento** da al Kosmo L 319 una estética premium impropia de una gama de acceso: líneas limpias, cristales al ras de la carrocería y una presencia que en el área se distingue de las perfiladas «caja blanca».
+
+Las ventanas enrasadas de doble acristalamiento no son solo estética: aíslan mejor térmica y acústicamente que las ventanas convencionales con marco, y se limpian de una pasada. Es el tipo de detalle que se paga cada día del viaje, no solo el día de la compra.
+
+## El precio y la masa: lo que Laika no publica
+
+Volvamos a las dos honestidades, porque condicionan la compra. El precio orientativo de **82.500 €** —«no oficial», de un concesionario alemán— sitúa al L 319 como **la perfilada italiana de 6,95 m más asequible dentro del catálogo Laika**, pero en España la cifra puede diferir: pide oferta en la red nacional y compara.
+
+Y la **masa en orden de marcha no publicada** obliga a un deber extra: antes de firmar, pide al concesionario la **ficha de la unidad concreta con su masa real** y calcula la carga útil disponible con tu configuración —toldo, solar, portabicis—. Sin ese número, cualquier plan de carga es un acto de fe. Es un minuto de conversación que evita sustos en la báscula.
+
+Detalles a presupuestar: el **cambio manual es de serie** —el automático se paga aparte—, el depósito de gasóleo es de **90 litros** —menos autonomía entre repostajes que rivales con 120 l— y la **nevera de 136 litros** va justa para cuatro en viajes largos frente a las de 150 l o más de la competencia.
+
+## ¿Para quién es el Kosmo L 319?
+
+Para la **pareja alta** que necesita camas de verdad: las gemelas de 205 cm son su argumento imbatible. Para quien quiere **diseño italiano** sin saltar a las gamas altas de Laika. Y para el viajero que aprecia los detalles bien resueltos —baño Vario, garaje calefactado con rieles, ventanas enrasadas— por encima de la ficha más larga.
+
+No es para quien necesite saber la carga útil antes de enamorarse —Laika no publica la masa y toca calcularla—, ni para cuatro que viajen siempre cargados con nevera llena —136 l van justos—. Y hay que asumir la **red pequeña en España**: localiza tu servicio oficial antes de comprar.
+
+## Lo bueno y lo mejorable
+
+**Nos encanta:** las gemelas de hasta 205 cm con elevación eléctrica —de las camas más largas del segmento—; el baño Vario que crea una ducha amplia girando el lavabo; el garaje iluminado, calefactado y con rieles de amarre; el diseño GFG Style con ventanas enrasadas de doble acristalamiento; y el precio de entrada más asequible del catálogo Laika en 6,95 m.
+
+**Mejoraría:** Laika no publica la masa en orden de marcha —la carga útil hay que calcularla unidad a unidad—; sin PVP oficial, el precio orientativo alemán puede diferir en España; cambio manual de serie y depósito de 90 l; nevera de 136 l justa para cuatro; el baño Vario exige reconfigurar el aseo en cada ducha; y la red pequeña en España.
+
+## Preguntas frecuentes
+
+### ¿Cuánto cuesta el Laika Kosmo L 319 2026?
+
+**Laika no publica PVP**. El orientativo es de **82.500 €** («no oficial», concesionario alemán): en España puede diferir. Pide oferta y compara.
+
+### ¿Cuánto miden las camas?
+
+Las **gemelas traseras llegan hasta los 205 cm**, con **elevación eléctrica**: de las camas más largas del segmento en 6,95 m.
+
+### ¿Qué es el baño Vario?
+
+El baño de nueva generación del L 319: **giras la pared del lavabo y creas una ducha amplia**, sin cortinillas ni mamparas que montar.
+
+### ¿Qué carga útil tiene?
+
+**Laika no publica la masa en orden de marcha**, así que la carga útil real **hay que calcularla con el concesionario** en la unidad concreta.
+
+### ¿Qué motor lleva?
+
+El **Fiat Ducato 2.2 MultiJet de 140 CV**, con cambio manual de serie y **automático opcional**.
+
+### ¿El garaje es calefactado?
+
+Sí: **iluminado, calefactado y con rieles de amarre** para fijar el equipaje.
+
+### ¿Qué carnet se necesita?
+
+El **carnet B** (MMA de 3.500 kg).
+
+*Fuentes: <a href=https://www.laika.it/>Laika (laika.it, web oficial)</a>; precio orientativo «no oficial» de concesionario alemán.*
+
+## Cómo lo verificamos
+
+Artículo redactado por el equipo editorial de recurretumulta.online el 18/10/2026 a partir de la **web oficial de Laika** (laika.it, gama Kosmo): dimensiones, motor Ducato de 140 CV, camas gemelas de hasta 205 cm con elevación eléctrica, baño Vario de nueva generación, garaje calefactado con rieles y diseño GFG Style. **Transparencia**: Laika no publica ni la masa en orden de marcha ni el PVP —el precio citado es «no oficial» de un concesionario alemán y así se indica—. Calcula la carga útil de tu unidad con el concesionario antes de firmar.
+
+**¿Te llegó una sanción?** <a href=https://recurretumulta.online/#analizador>Analízala gratis con la IA de recurretumulta</a> antes de decidir si la pagas o la recurres.",
+  }
 ];

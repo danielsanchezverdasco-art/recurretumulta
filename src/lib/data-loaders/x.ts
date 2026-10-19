@@ -109,6 +109,9 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "xiaomi-essential": () => import("../comparador-patinetes-base.ts"),
     "xiaomi-pro-2": () => import("../comparador-patinetes-base.ts"),
   },
+  autocaravana: {
+    "xgo-x-van-104-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-xgo-m1.ts"),
+  },
   historia: {
     "xev-yoyo-pro-2026-precio-ficha-tecnica": () => import("../historia-lote2.ts"),
     "xiaomi-skynomad-n70-max-2026-precio-ficha-tecnica": () => import("../historia-modelos.ts"),

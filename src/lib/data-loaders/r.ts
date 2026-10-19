@@ -391,6 +391,12 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "renault-kangoo-camper-2026-precio-ficha-tecnica": () => import("../comparador-campers-niky.ts"),
     "roller-team-livingstone-5-2026-precio-ficha-tecnica": () => import("../comparador-campers-roller-otros.ts"),
   },
+  autocaravana: {
+    "rapido-606f-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-rapido-m1.ts"),
+    "rapido-v55-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-rapido-m1.ts"),
+    "rimor-superbrig-687-tc-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-rimor-m1.ts"),
+    "roller-team-auto-roller-746-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-rollerteam-m1.ts"),
+  },
   historia: {
     "radical-rxc-2025-precio-ficha-tecnica": () => import("../historia-modelos.ts"),
     "radical-rxc-spyder-2025-precio-ficha-tecnica": () => import("../historia-modelos.ts"),

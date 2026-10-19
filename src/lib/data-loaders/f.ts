@@ -80,6 +80,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "fiat-tipo-sw-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "fiat-topolino-2024-precio-ficha-tecnica": () => import("../blog-posts-fiat-a.ts"),
     "fiat-ulysse-20-bluehdi-180-2025-precio-ficha-tecnica": () => import("../blog-posts-fiat-a.ts"),
+    "fleurette-baxter-68-lmc-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin4.ts"),
     "fluid-horizon-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "fluid-mosquito-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "flying-flea-c6-moto-electrica-royal-enfield-5990-euros": () => import("../blog-posts-motor-2026-g.ts"),
@@ -313,6 +314,10 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "ford-transit-custom-nugget-2026-precio-ficha-tecnica": () => import("../comparador-campers-niky.ts"),
     "ford-transit-custom-nugget-active-2026-precio-ficha-tecnica": () => import("../comparador-campers-niky.ts"),
     "ford-transit-custom-nugget-plus-2026-precio-ficha-tecnica": () => import("../comparador-campers-niky.ts"),
+  },
+  autocaravana: {
+    "font-vendome-mondea-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-fontvendome-m1.ts"),
+    "frankia-neo-i-7-gdk-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-frankia-m1.ts"),
   },
   historia: {
     "fangchengbao-tai-3-2025-precio-ficha-tecnica": () => import("../historia-lote2.ts"),
