@@ -1,9 +1,18 @@
+#!/usr/bin/env python3
+"""Arreglos del Analista SEO (deploy prioritario 19/10/2026) que NO están en el código fuente:
+enlaces internos que pasan por un 301 -> destino final, /analizador -> /#analizador, hrefs falsos 'Web',
+JSON-LD con URLs absolutas y fechas con zona, breadcrumbs con barra final, nodos JSON-LD duplicados
+fusionados y <style> duplicados fuera. HAY QUE RE-APLICARLO DESPUÉS DE CADA BUILD + POSTPROCESO
+(si no, el deploy deshace los arreglos). Idempotente.
+Uso:  python3 scripts/postproceso-seo-20261019.py dist
+Requiere un dist COMPLETO (todas las HTML: build + bajar_vivo.py --rellenar)."""
 import json,re,os,shutil,collections
 import glob
-D='/workspace/d0800/wt/dist'
+import sys
+D=sys.argv[1] if len(sys.argv)>1 else 'dist'
 m={'/'+os.path.relpath(f,D):f for f in glob.glob(D+'/**/*.html',recursive=True)}
 m['/_redirects']=D+'/_redirects'
-LV=json.load(open('/workspace/d0800/mirror2.json'))
+LV={}
 BAD=set()
 UP=D
 O='https://recurretumulta.online'
@@ -127,7 +136,6 @@ for p,f in m.items():
     # T4/T5 JSON-LD
     h=re.sub(r'(<script type="application/ld\+json"[^>]*>)(.*?)(</script>)',lambda x:x.group(1)+bcslash(ldfix(x.group(2)))+x.group(3),h,flags=re.S)
     h,k=ldpage(h);st['lddup']+=k
-    if p=='/coches/index.html': h=h.replace('2.319','2.266');st['coches2266']+=1
     # T6 duplicate styles
     seen=set()
     def sd(x):

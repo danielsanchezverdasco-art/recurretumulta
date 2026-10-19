@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-# Páginas de marca /{cat}/marca/{slug}/ (13/10/2026) desde /workspace/seo/hubs-propuestos.csv + intros-marca.csv.
+# Páginas de marca /{cat}/marca/{slug}/ (13/10/2026) desde scripts/datos-seo/hubs-propuestos.csv + intros-marca.csv (o $SEO_DATA).
 # - Fichas de la marca: slug que empieza por "{prefijo}-" (sin las marcas más largas con el mismo prefijo).
 # - Intro: se quitan las frases de empresa (país, fundación, grupo: no verificadas) y la lista de modelos;
 #   el recuento de fichas sale de dist. Marcas fusionadas (MG, Mercedes-Benz): solo recuento.
 # - Inyecta BreadcrumbList en hubs y marcas, enlaces de marca en los hubs, noindex de fichas-pobres y sitemap.
 # Uso: python3 scripts/gen-marcas.py dist   (después de seo-dist.py)
 import os,re,sys,csv,json,html
-D=sys.argv[1] if len(sys.argv)>1 else "dist"; O="https://recurretumulta.online"; S="/workspace/seo"; e=html.escape
+D=sys.argv[1] if len(sys.argv)>1 else "dist"; O="https://recurretumulta.online"; S=os.environ.get("SEO_DATA") or os.path.join(os.path.dirname(os.path.abspath(__file__)),"datos-seo"); e=html.escape
 CAT={"coches":"Coches","motos":"Motos","patinetes":"Patinetes"}
 CATN={"coches":"coches","motos":"motos","patinetes":"patinetes eléctricos"}
 FUERA={("coches","nuevo")}

@@ -1,5 +1,7 @@
 # Cómo publicar (resumen actualizado)
 
+> **Guía vigente (19/10/2026): [docs/PUBLICAR-SIN-ERRORES.md](docs/PUBLICAR-SIN-ERRORES.md).** Lo de abajo es histórico. No uses `--allow-removals` ni `deploy_api.py` con borrador vacío.
+
 La web YA SE PUEDE publicar desde este repo. El aviso antiguo del README («ahora no se publica desde aquí») está obsoleto.
 
 1. `npm install`

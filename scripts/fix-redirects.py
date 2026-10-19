@@ -3,7 +3,7 @@ import csv,os,re
 D="dist"
 PRES="/blog/prescripcion-y-caducidad-de-las-multas-de-trafico-cuando-expira-una-sancion-de-la-dgt-plazos-legales-mitos-y-como-anular-expedientes-fuera-de-plazo/"
 reglas={}; dudosas=[]
-for x in csv.DictReader(open('/workspace/seo/errores-indexacion.csv')):
+for x in csv.DictReader(open(os.path.join(os.environ.get('SEO_DATA') or os.path.join(os.path.dirname(os.path.abspath(__file__)),'datos-seo'),'errores-indexacion.csv'))):
     u=x['url'].replace('https://recurretumulta.online','')
     m=re.match(r'^/(en|fr|pt)(/.*)?$',u)
     if not m: continue
