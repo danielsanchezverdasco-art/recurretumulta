@@ -1843,7 +1843,7 @@ export const COCHES_BASE: CocheComparador[] = [
     modelo: "E-5008",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 44380,
+    precioDesde: 44500, // verificado 2026-10-19 (AG8): EVKX.net indica España 44.500 € (actualizado agosto 2026); coincide con el punto del radar del 2026-10-03
     potenciaCv: 213,
     autonomiaKm: 499,
     maleteroL: 748,
