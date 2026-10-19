@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 41.6338, -5.798
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=41.6338,-5.798)
 
+<iframe title="Mapa: radar n-630-261-9-decreciente-cabina" src="https://www.google.com/maps?q=41.6338,-5.798&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-630-261-9-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=41.6338,-5.798&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** La vía, el pk, el sentido y el tipo de equipo de este radar constan en el XML oficial de la DGT (DATEX II, portal NAP). Ese dataset no publica ni el límite ni el municipio de cada punto. El límite de 90 km/h es el genérico del RGC (art. 48) para turismos y motos en carreteras convencionales, conforme a la singularidad «CARRETERA NACIONAL» del registro; Montamarta (Zamora) lo asigna el geocodificador oficial CartoCiudad del IGN.
 
 ## Ubicación
