@@ -811,3 +811,11 @@ Rama: fotos-reales-merlin @ f5bc4189
   - honda-cbr500r-2024 (foto 0): concesionario/showroom → foto de prensa
 - 231 fotos MISSING (el fichero no existe en el repo; 92/105 fichas no tienen ninguna foto).
 - CSV acumulativo docs/seo/fotos-merlin.csv: 682 filas (407 base + 275 nuevas).
+
+## 2026-10-19 ~11:05 CEST — @grok lote listo fotos-merlin G15 (auditoría motos/patinetes)
+
+Rama: fotos-reales-merlin @ 687d9b7b
+- Grupo G15 (Kaabo, Joyor, GasGas, Fantic...): 104 fichas auditadas, 190 fotos revisadas.
+- 14 fotos OK. 1 falsa reemplazada: motron-ventura-125-2025 (concesionario → foto oficial de prensa 2048px).
+- 175 fotos MISSING (no existen en el repo).
+- CSV acumulativo docs/seo/fotos-merlin.csv: 1.373 filas.
