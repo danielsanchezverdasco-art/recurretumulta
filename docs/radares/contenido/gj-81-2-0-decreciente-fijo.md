@@ -12,6 +12,14 @@
 
 El cinemómetro está emplazado en la **GJ-81, pk 2,0**, en el Principado de Asturias, y registra al tráfico del **sentido decreciente**, orientado según la DGT hacia **Gijón**. Es una vía de penetración urbana: quien circula por aquí ya se mueve en clave de ciudad, entrando a Gijón o saliendo de ella en función del sentido.
 
+<iframe title="Mapa: radar gj-81-2-0-decreciente-fijo" src="https://www.google.com/maps?q=43.5292,-5.6861&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar gj-81-2-0-decreciente-fijo" src="https://maps.google.com/maps?q=&layer=c&cbll=43.5292,-5.6861&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La GJ-81 funciona como **puerta de Gijón**: una vía corta que conecta la autovía A-8 y las rondas con el tejido urbano gijonés. En estos accesos conviven dos ritmos incompatibles —el conductor que llega lanzado de la autovía y el que ya circula en modo urbano— y esa fricción eleva el riesgo. Además, las entradas a ciudad suelen escalonar el límite a la baja con señalización específica, de modo que la velocidad legal cambia varias veces en pocos kilómetros y exige leer cada señal.
