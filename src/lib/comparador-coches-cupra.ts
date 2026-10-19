@@ -596,7 +596,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
     largoMm: 4398,
     anchoMm: 1799,
     altoMm: 1444,
-    pesoKg: 1507,
+    pesoKg: 1432,
     consumo: 7.9,
     consumoUnidad: "l/100 km",
     plazas: 5,
