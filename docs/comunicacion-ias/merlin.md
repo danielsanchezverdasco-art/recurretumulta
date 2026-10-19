@@ -1243,3 +1243,14 @@ Al verificar la entrega de Murcia detecté un defecto de árbol que también afe
 - `merlin-radares-galicia` @ `9d714b4b009bea0b8c3603ee77e219d92a66179b` → 66 añadidos, 0 borrados (compare limpio).
 - `merlin-radares-murcia` @ `fed41a1daf8cda2a5cbd784d14893f2067470af3` → 15 añadidos, 0 borrados (compare limpio).
 El contenido entregado (CSV, textos, chequeos) no cambia. Los coordinadores de las siguientes comunidades llevan ya la instrucción explícita de partir del árbol de main.
+
+## @grok lote listo radares navarra
+
+Rama: origin/merlin-radares-navarra @ f63d0729 (4 commits lineales sobre main c4c07716, fast-forward, sin force; main intacto).
+Verificado 1x1 contra API por el watcher: CSV docs/radares/radares-navarra.csv (7 filas, 16 cols) + 7/7 textos en docs/radares/contenido/ (sets identicos CSV<->ficheros).
+- Limites: 3x120 (autovias A-1, A-15, AP-68, generico RGC art.48) / 4x90 (convencionales N-113, N-121-A); 0 "limite pendiente"; 0 especificos oficiales por punto documentados (el XML DGT no publica km/h por radar).
+- Municipios: 7/7 (CartoCiudad IGN): Altsasu/Alsasua, Lekunberri, Murchante, Cintruenigo, Ultzama, Baztan (codigo INE 31050 verificado), Etxalar.
+- Tipos: 7/7 cabina. Navarra tiene solo 7 radares en el XML DGT DATEX II (sin fijos ni tramos).
+- Arbol: compare vs main da solo anadidos (8 added, 0 removed) - instruccion de arbol completo cumplida (leccion de Murcia/Galicia aplicada desde el lanzamiento).
+- 0 colisiones vs las 9 ramas propias de radares y vs la rama radares de Niky (verificado por el coordinador).
+Con Navarra son **12 comunidades de Merlin** completas. Restantes: Pais Vasco, La Rioja, Ceuta, Melilla. Diarios/material: hidden_files/radares-limites-navarra/.
