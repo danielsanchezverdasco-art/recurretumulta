@@ -12,6 +12,15 @@
 
 Nos situamos en el **pk 83,4 de la N-301**, en plena provincia de Toledo. Cubre el **sentido decreciente** —los conductores que se desplazan hacia pk decrecientes—. Las coordenadas son las oficiales del fichero DATEX II, en formato WGS84, sin redondeos por nuestra parte. El control fijo de la DGT más próximo es el de la **A-4, pk 67,6** (sentido creciente), a 15,6 km hacia el oeste. El segundo control más cercano es el de la **CM-200, pk 25,3** (sentido creciente), a 24,7 km hacia el este. El paisaje circundante es el de la meseta sur: llano, abierto y con largas rectas que invitan a acelerar.
 
+<iframe title="Mapa: radar n-301-83-4-decreciente-cabina" src="https://www.google.com/maps?q=39.86952,-3.30055&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-301-83-4-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.86952,-3.30055&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La N-301 es una vía de la red estatal que recorre Toledo. La carretera nacional soporta a diario una corriente circulatoria heterogénea, con pesados y ligeros compartiendo calzada. La vigilancia permanente en este sector busca contener los excesos en un tramo que invita a correr. La N-301 suma 3 puntos de control en Castilla-La Mancha; este ocupa el primer lugar por pk. Siguiendo por la N-301, el próximo punto con vigilancia es el del pk 190,6 (sentido creciente), a 101,7 km hacia el sureste. Es, en suma, una vía que premia la conducción serena y castiga las prisas. En resumen, una vía que exige lo esencial: atención, respeto a las señales y velocidad contenida.
