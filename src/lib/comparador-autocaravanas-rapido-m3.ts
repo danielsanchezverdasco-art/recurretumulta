@@ -188,15 +188,15 @@ Para quién es: para parejas que viajan mucho a dúo y quieren una perfilada com
       },
       {
         src: "/media/rapido-c55-2026-precio-ficha-tecnica-interior1.webp",
-        alt: "Rapido C55, salón en L con asientos de cabina giratorios",
-        ancho: 800,
-        alto: 600,
+        alt: "Rapido C55, salón con mesa y cocina vista (foto oficial Rapido)",
+        ancho: 1600,
+        alto: 896,
       },
       {
         src: "/media/rapido-c55-2026-precio-ficha-tecnica-interior2.webp",
-        alt: "Rapido C55, pasillo interior hacia la cocina",
-        ancho: 1200,
-        alto: 1600,
+        alt: "Rapido C55, asiento de cabina giratorio (foto oficial Rapido)",
+        ancho: 1600,
+        alto: 896,
       },
       {
         src: "/media/rapido-c55-2026-precio-ficha-tecnica-detalle.webp",
