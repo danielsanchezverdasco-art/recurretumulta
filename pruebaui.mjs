@@ -1,0 +1,13 @@
+import { chromium, devices } from 'playwright';
+const B=process.argv[2], dev=process.argv[3];
+const b=await chromium.launch();const ctx=await b.newContext(dev==='mobile'?{...devices['Pixel 7']}:{viewport:{width:1366,height:900}});
+const pg=await ctx.newPage();await pg.goto(B+'/',{waitUntil:'networkidle'});
+await pg.locator('input[type=file][accept*="pdf"]').first().setInputFiles('/workspace/analizador/real/multa-daniel.pdf');
+await pg.locator('[data-testid=pruebas-input]').setInputFiles('/workspace/analizador/t2/ticket.jpg');
+await pg.waitForTimeout(800);
+const listed=await pg.evaluate(()=>document.body.innerText.includes('ticket.jpg'));
+await pg.getByRole('button',{name:/Analizar multa con IA gratis/}).click();
+await pg.waitForFunction(()=>/RESULTADO DEL ANÁLISIS IA|Resultado del análisis IA|No hemos podido leer el documento|Las pruebas ocupan/.test(document.body.innerText),null,{timeout:240000}).catch(()=>{});
+await pg.waitForTimeout(1500);const txt=await pg.evaluate(()=>document.body.innerText);
+console.log(dev,'pruebaListada',listed,'resultado',/Resultado del análisis IA/.test(txt),'anexo',txt.includes('ANEXO: PRUEBAS APORTADAS'),'ticketTranscrito',txt.includes('004512'),'aviso',/No hemos podido leer/.test(txt));
+await b.close();

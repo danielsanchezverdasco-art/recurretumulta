@@ -1,0 +1,10 @@
+autonomia-extendida-erev
+bomba-de-calor
+carga-rapida-dc
+cltc
+etiqueta-dgt
+hibrido-enchufable-phev
+kwh
+par-motor
+v2l
+wltp

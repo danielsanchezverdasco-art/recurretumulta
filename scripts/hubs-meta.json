@@ -1,0 +1,20 @@
+{
+ "coches": {
+  "nombre": "Coches",
+  "h1": "Fichas técnicas de coches",
+  "title": "Fichas técnicas de coches por marca y modelo",
+  "description": "Índice de todas las fichas técnicas de coches: eléctricos, híbridos y de combustión, ordenadas por marca y modelo con precio, potencia y autonomía."
+ },
+ "motos": {
+  "nombre": "Motos",
+  "h1": "Fichas técnicas de motos",
+  "title": "Fichas técnicas de motos por marca y modelo",
+  "description": "Índice de todas las fichas técnicas de motos y scooters, ordenadas por marca y modelo con cilindrada, potencia y precio."
+ },
+ "patinetes": {
+  "nombre": "Patinetes",
+  "h1": "Fichas técnicas de patinetes eléctricos",
+  "title": "Fichas técnicas de patinetes eléctricos por marca",
+  "description": "Índice de todas las fichas técnicas de patinetes eléctricos, ordenadas por marca y modelo con autonomía, velocidad y precio."
+ }
+}
