@@ -12,6 +12,14 @@
 
 El cinemómetro se encuentra en la **A-3, pk 292,1**, provincia de Valencia. Vigila el **sentido creciente**: los vehículos que circulan hacia puntos kilométricos crecientes. El término municipal es **Requena**, asignado por geocodificación oficial sobre las coordenadas exactas. El punto vigilado más cercano es el de la **A-3, pk 314,9** (sentido creciente): queda a 21,2 km hacia el este.
 
+<iframe title="Mapa: radar a-3-292-1-creciente-cabina" src="https://www.google.com/maps?q=39.48231,-1.05928&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-3-292-1-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.48231,-1.05928&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La A-3, la Autovía del Este, que une Madrid con Valencia, discurre por Valencia como vía de gran capacidad. La demanda se reparte entre el tránsito interurbano y los accesos a las poblaciones próximas. Nos movemos en el ámbito de el corredor central valenciano.
