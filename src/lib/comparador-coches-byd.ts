@@ -831,6 +831,7 @@ export const COCHES_BYD: CocheComparador[] = [
   },
   {
     id: "byd-atto-3-evo-2025-precio-ficha-tecnica",
+    analisisSlug: "byd-atto-3-evo-2026-precio-espana",
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 250000,
     garantiaBateriaDegradacionPct: null,

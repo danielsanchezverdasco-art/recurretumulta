@@ -344,7 +344,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
   {
     title: "BYD Atto 3 Evo: 449 CV desde 29.455 €",
     slug: "byd-atto-3-evo-2026-precio-espana",
-    excerpt: "El BYD Atto 3 Evo ya está en España: 800 V, batería Blade de 74,8 kWh, hasta 449 CV y 510 km de autonomía desde 29.455 €. Ficha, precios y rivales.",
+    excerpt: "El BYD Atto 3 Evo ya está en España: 800 V, batería Blade de 74,8 kWh, 313 CV y 510 km de autonomía desde 29.455 € (versión Design). Ficha, precios y rivales.",
     category: "Novedades Motor",
     date: "2026-10-03",
     readTime: 8,
@@ -358,9 +358,9 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     content: `<img src=/media/byd-atto-3-evo-2026-precio-espana-hero.webp alt=\"SUV familiar eléctrico blanco circulando por una carretera de montaña española entre pinares al atardecer\">
 
-**¿Buscas solo los datos?** <a href=/comparador-coches/>Compara el Atto 3 Evo con sus rivales</a> o <a href=/mejor-coche-por-presupuesto/>descubre el mejor coche por tu presupuesto</a>.
+**¿Buscas solo los datos?** <a href=/coches/byd-atto-3-evo-2025-precio-ficha-tecnica/>ficha técnica y precio del BYD Atto 3 Evo</a>, <a href=/comparador-coches/>compáralo con sus rivales</a> o <a href=/mejor-coche-por-presupuesto/>descubre el mejor coche por tu presupuesto</a>.
 
-El líder no se duerme. El **BYD Atto 3** fue el C-SUV eléctrico más vendido de España en 2025 (12,8 % de cuota) y su evolución, el **Atto 3 Evo**, sube la apuesta a lo grande: **arquitectura de 800 voltios**, batería Blade de **74,8 kWh**, **tracción trasera o total**, hasta **449 CV** y **510 km de autonomía**. Y el precio de ataque, con todo aplicado, se queda en **29.455 euros**. Parece el mismo coche. No lo es.
+El líder no se duerme. El **BYD Atto 3** fue el C-SUV eléctrico más vendido de España en 2025 (12,8 % de cuota) y su evolución, el **Atto 3 Evo**, sube la apuesta a lo grande: **arquitectura de 800 voltios**, batería Blade de **74,8 kWh**, **tracción trasera o total**, la versión **Design** ofrece **313 CV** y **510 km de autonomía** desde **29.455 euros** con todo aplicado (la Excellence sube a **449 CV**). Parece el mismo coche. No lo es.
 
 ## La noticia
 

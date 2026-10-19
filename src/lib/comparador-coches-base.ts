@@ -1233,6 +1233,7 @@ export const COCHES_BASE: CocheComparador[] = [
   },
   {
     id: "dacia-bigster-hybrid-precio-espana",
+    analisisSlug: "dacia-bigster-2026-hybrid-155-precio-ficha-tecnica",
     mantenimientoDIY: {
         resetAceiteTitulo: "Resetear aviso de cambio de aceite",
         resetAceitePasos: ["Da el contacto sin arrancar el motor.", "Con el botón del ordenador de a bordo (en la palanca derecha o en los mandos del volante), navega por el menú hasta la pantalla de 'intervalo de revisión' / 'autonomía de revisión'.", "Mantén pulsado el botón OK durante unos 10 segundos, hasta que la indicación parpadee y quede fija con el nuevo intervalo.", "Quita el contacto y vuelve a darlo para comprobar que el aviso ha desaparecido."],
@@ -1256,7 +1257,7 @@ export const COCHES_BASE: CocheComparador[] = [
     tipo: "Híbrido",
     categoria: "SUV",
     precioDesde: 29420,
-    potenciaCv: 156,
+    potenciaCv: 155,
     autonomiaKm: null,
     maleteroL: 546,
     ceroCien: 9.7,
@@ -1272,7 +1273,7 @@ export const COCHES_BASE: CocheComparador[] = [
       "Gama completa: gasolina, GLP, híbrido y 4x4 Tribrid",
     ],
     contras: [
-      "156 CV y 9,7 s de 0-100: prestaciones justas",
+      "155 CV y 9,7 s de 0-100: prestaciones justas",
       "Etiqueta ECO, no CERO: pagará en las ZBE más estrictas",
       "Interior espartano: plásticos duros en los acabados de acceso",
       "Solo 5 plazas: sin opción de 7 como otros C-SUV",

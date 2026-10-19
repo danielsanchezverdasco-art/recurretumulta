@@ -206,6 +206,16 @@ export default function ComunidadPage() {
               {c.descripcion}
             </p>
           </div>
+          {c.slug === "madrid" && (
+            <p className="mt-2 text-sm text-gray-700 leading-relaxed">
+              Si tu multa es urbana (SER, ZBE, aparcamiento), la tramita el Ayuntamiento: consulta las <Link to="/multas/madrid/" className="font-medium text-red-700 underline">multas del Ayuntamiento de Madrid</Link>.
+            </p>
+          )}
+          {c.slug === "murcia" && (
+            <p className="mt-2 text-sm text-gray-700 leading-relaxed">
+              Si tu multa es urbana (ORA, aparcamiento), la tramita el Ayuntamiento: consulta las <Link to="/multas/murcia/" className="font-medium text-red-700 underline">multas del Ayuntamiento de Murcia</Link>.
+            </p>
+          )}
 
           {/* Particularidades de la CCAA */}
           <div className="space-y-3">

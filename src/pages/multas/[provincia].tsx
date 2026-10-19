@@ -269,6 +269,16 @@ export default function MultaProvinciaPage() {
               {p.descripcionLocal}
             </p>
           </div>
+          {slug === "madrid" && (
+            <p className="mt-2 text-sm text-gray-700 leading-relaxed">
+              Si tu multa es de carretera (A-1, A-2, A-6, M-40), la tramita la DGT: consulta las <Link to="/comunidades/madrid/" className="font-medium text-red-700 underline">multas de la DGT en la Comunidad de Madrid</Link>. ¿Te ha retirado el coche la grúa? <Link to="/blog/multas-de-aparcamiento-y-grua-en-madrid-como-recuperar-tu-coche-y-recurrir-la-sancion-con-exito/" className="font-medium text-red-700 underline">grúa en Madrid: cómo recuperar el coche</Link>.
+            </p>
+          )}
+          {slug === "murcia" && (
+            <p className="mt-2 text-sm text-gray-700 leading-relaxed">
+              Si tu multa es de carretera (A-7, A-30), la tramita la DGT: consulta las <Link to="/comunidades/murcia/" className="font-medium text-red-700 underline">multas de la DGT en la Región de Murcia</Link>.
+            </p>
+          )}
 
           <div className="grid md:grid-cols-2 gap-4">
             <Card className="border border-gray-200">

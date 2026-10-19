@@ -984,7 +984,7 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/stelato-s9-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/stelato-s9-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/stelato-s9-2024-precio-ficha-tecnica-interior.webp",
-    analisisSlug: null,
+    analisisSlug: "stelato-s9-2024-precio-ficha-tecnica",
     videoId: "SgnsOY_aFHw",
     videoCanal: "Solkuno",
     opiniones: [],
