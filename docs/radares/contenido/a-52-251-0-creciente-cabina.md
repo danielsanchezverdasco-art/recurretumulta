@@ -12,6 +12,14 @@
 
 Coordenadas 42.308296, -8.108015: punto de la A-52, pk 251,0, en Ribadavia (Ourense), donde está instalada la cabina. Controla el sentido creciente, el de los pks ascendentes, y el destino registrado es Porriño. El enlace de Street View de la cabecera permite ver el emplazamiento.
 
+<iframe title="Mapa: radar a-52-251-0-creciente-cabina" src="https://www.google.com/maps?q=42.308296,-8.108015&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-52-251-0-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.308296,-8.108015&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 Titularidad estatal para la A-52, la Autovía Rías Baixas, integrada en la red estatal de carreteras. Su singularidad en el XML de la DGT es «AUTOPISTA / AUTOVÍA», propia de la alta capacidad. El fichero no detalla el tramo y esta ficha respeta ese límite informativo.
