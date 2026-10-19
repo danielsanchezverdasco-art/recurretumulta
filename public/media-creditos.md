@@ -2788,3 +2788,12 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/cyclone-battlo-hunt1.webp | https://www.motosan.es/wp-content/uploads/2025/01/sthaqtha.jpg | Motosan | desconocida |
 | /media/cyclone-battlo-hunt2.webp | https://cyclone-motor.eu/wp-content/uploads/2025/04/battlo-negro-360-8.webp | Cyclone Motor (web oficial) | desconocida |
 | /media/cyclone-battlo-hunt3.webp | https://cyclone-motor.eu/wp-content/uploads/2025/04/battlo-negro-360-3.webp | Cyclone Motor (web oficial) | desconocida |
+| /media/navee-gt3-pro-hunt1.webp | https://naveetech.fr/cdn/shop/files/GT3_pro_1_2.jpg?v=1749455254&width=600 | Navee (tienda oficial Francia) | desconocida |
+| /media/navee-gt3-pro-hunt2.webp | http://www.wellbots.com/cdn/shop/files/GT3_First.webp?v=1749729833 | Wellbots | desconocida |
+| /media/navee-gt3-pro-hunt3.webp | https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_172800242/fee_786_587_png | MediaMarkt | desconocida |
+| /media/apollo-city-pro-hunt1.webp | https://apolloscooters.co/cdn/shop/files/CityPro-new2024.png?v=1722454101&width=700 | Apollo Scooters (web oficial) | desconocida |
+| /media/apollo-city-pro-hunt2.webp | https://deal.town/scooter-hut/ends-tonight-shop-final-hours-of-the-eofy-sale-F3CEW5RYG2U | Scooter Hut (distribuidor) | desconocida |
+| /media/apollo-city-pro-hunt3.webp | https://fleets.levyelectric.com/vehicles/apollo-city-pro-2024 | Levy Electric (catálogo de flota) | desconocida |
+| /media/hiboy-s2r-hunt1.webp | https://www.edealinfo.com/d/00692628485743/Hiboy-S2R-Portable-Folding-Commuting-Electric-Scooter-with | Amazon (foto de producto Hiboy S2R) | desconocida |
+| /media/hiboy-s2r-hunt2.webp | https://scooter.guide/hiboy-s2r-electric-scooter-review/ | Scooter Guide (review Hiboy S2R) | desconocida |
+| /media/hiboy-s2r-hunt3.webp | https://www.womanlikes.com/product/hiboy-s2r-electric-scooter-upgraded-detachable-battery-19-mph-17-miles-range-foldable-commuting-electric-scooter-for-adults/ | Amazon (foto de producto Hiboy S2R) | desconocida |
