@@ -4187,3 +4187,28 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/mercedes-amg-a45-s-2025-precio-ficha-tecnica-hunt2.webp | https://images.91wheels.com/assets/c_images/gallery/mercedesbenz/amg-a-45-s/mercedesbenz-amg-a-45-s-2-1765008515.png?w=560&q=40 | 91wheels | desconocida |
 | /media/mercedes-amg-a45-s-2025-precio-ficha-tecnica-hunt3.webp | https://www.carnews24.cz/wp-content/uploads/2026/07/Mercedes-AMG-A45-S-Final-Edition-696x379.png | CarNews24.cz | desconocida |
 | /media/fluid-mosquito-hunt2.webp | https://eridehero.com/wp-content/uploads/2023/12/Fluid-Mosquito-photo.jpg.webp | eRideHero | desconocida |
+| /media/tank-500-hi4-z-2025-precio-ficha-tecnica-hunt1.webp | https://test01cnc.carnewschina.com/wp-content/uploads/2025/01/ce634f6e-7628-4d24-9ff9-9229958f8808.png | CarNewsChina | desconocida |
+| /media/tank-500-hi4-z-2025-precio-ficha-tecnica-hunt2.webp | https://carnewschina.com/wp-content/uploads/2024/12/18a5304a5bcf4480b8cdb5035d239f3b.png | CarNewsChina | desconocida |
+| /media/tank-500-hi4-z-2025-precio-ficha-tecnica-hunt3.webp | https://carnewschina.com/wp-content/uploads/2024/12/800x0_q87_autohomecar__Chtk2WdIB2yAeRtgAD38lJHSVVY370.jpg | CarNewsChina / Autohome | desconocida |
+| /media/voge-300ac-2025-ficha-tecnica-precio-hunt1.webp | https://cdn.riastatic.com/photosnewr/auto/newauto_photos/voge-300ac__1084388-620x415x72.jpg | Auto.RIA | desconocida |
+| /media/voge-300ac-2025-ficha-tecnica-precio-hunt2.webp | https://images5.1000ps.net/images_bikekat/2024/617-Voge/10236-300AC/001-638410842503638366-voge-300ac.jpg?format=webp&quality=80&width=380&height=250&bgcolor=rgba_39_42_44_0&mode=pad | 1000PS | desconocida |
+| /media/voge-300ac-2025-ficha-tecnica-precio-hunt3.webp | https://images5.1000ps.net/images_bikekat/2024/617-Voge/10236-300AC/006-638410842507901030-voge-300ac.jpg?format=webp&quality=80&scale=both&width=992&height=558&bgcolor=rgba_39_42_44_0&mode=pad | 1000PS | desconocida |
+| /media/im-ls9-2026-precio-ficha-tecnica-hunt1.webp | https://massautocar.com/storage/content/image--1776877111.jpg | MassAutoCar | desconocida |
+| /media/im-ls9-2026-precio-ficha-tecnica-hunt2.webp | https://www.car250.com/wp-content/uploads/2026/01/LS9-12.webp | Car250 | desconocida |
+| /media/im-ls9-2026-precio-ficha-tecnica-hunt3.webp | https://evmagz.com/wp-content/uploads/2025/07/IM-LS9-1.jpg | EV Magz / IM Motors (prensa) | desconocida |
+| /media/kukirin-g4-max-hunt1.webp | https://www.kugooscooter.com/cdn/shop/files/11010844.png?v=1754727605&width=550 | KugooScooter (tienda oficial) | desconocida |
+| /media/kukirin-g4-max-hunt2.webp | https://x-tronik.eu/cdn/shop/files/11010808_c4b5d4f1-6768-4ac1-89a4-56eaeee45eca.jpg?v=1744114684&width=1680 | X-Tronik (tienda) | desconocida |
+| /media/kukirin-g4-max-hunt3.webp | https://www.voltride.cz/17697-panda_thickbox_default/kukirin-g4-max.jpg | Voltride (tienda) | desconocida |
+| /media/mercedes-amg-c43-2025-precio-ficha-tecnica-hunt1.webp | https://www.motordonkey.com/images/mercedes-benz/c-class/2025/16x9/2025-mercedes-benz-c43-amg-driving-side-view-wide-1280.jpg | Mercedes-Benz (foto de prensa) vía MotorDonkey | desconocida |
+| /media/mercedes-amg-c43-2025-precio-ficha-tecnica-hunt2.webp | https://media.whichcar.com.au/uploads/2026/04/260407-Mercedes-Benz-C43-R-7085-2-768x512.jpg | WhichCar | desconocida |
+| /media/mercedes-amg-c43-2025-precio-ficha-tecnica-hunt3.webp | http://listings-prod.tcimg.net/listings/122640/22/69/W1KAF8HB7TR336922/001_2026062208.jpg | CarBuzz | desconocida |
+| /media/tank-700-hi4-t-2024-precio-ficha-tecnica-hunt1.webp | https://images.dailyrevs.com/0000/v3/WEY/65e2f39806554c488f309b40/2024-tank-700-hi4-t-limited-edition-wey-ebs7llllllh05cxz1wzhxrq.jpeg | DailyRevs (fotos de prensa Tank) | desconocida |
+| /media/tank-700-hi4-t-2024-precio-ficha-tecnica-hunt2.webp | https://images.dailyrevs.com/0000/v3/WEY/65e2f39806554c488f309b40/2024-tank-700-hi4-t-limited-edition-wey-ebo923llllh0905blxocfxd.jpeg | DailyRevs (fotos de prensa Tank) | desconocida |
+| /media/tank-700-hi4-t-2024-precio-ficha-tecnica-hunt3.webp | https://images.dailyrevs.com/0000/v3/WEY/65e2f39806554c488f309b40/2024-tank-700-hi4-t-limited-edition-wey-ebz1rp777760m03s0nxy7so.jpeg | DailyRevs (fotos de prensa Tank) | desconocida |
+| /media/zontes-350d-2025-ficha-tecnica-precio-hunt1.webp | https://zontes.hr/wp-content/uploads/2025/06/350D-siva-1.png | Zontes Croacia (distribuidor oficial) | desconocida |
+| /media/zontes-350d-2025-ficha-tecnica-precio-hunt2.webp | https://www.visordown.com/sites/default/files/ZONTES-D350-NEGRO-3.jpg?width=1920&format=webp&aspect_ratio=16:9 | Visordown | desconocida |
+| /media/zontes-350d-2025-ficha-tecnica-precio-hunt3.webp | https://actionbikes.gr/wp-content/uploads/2025/03/ZONTES_D350_DARK_BLUE-1030x686-1.jpg | ActionBikes (concesionario) | desconocida |
+| /media/byd-tang-l-2026-precio-ficha-tecnica-hunt1.webp | https://dubicar.com/wp-content/uploads/2026/02/fa3e120cd5ae-1024x683.jpg | mohamedhakim.com (foto de prensa BYD) | desconocida |
+| /media/byd-tang-l-2026-precio-ficha-tecnica-hunt2.webp | https://www.allcarz.ru/wp-content/uploads/2025/01/foto-tang-l_03.jpg | allcarz.ru | desconocida |
+| /media/byd-tang-l-2026-precio-ficha-tecnica-hunt3.webp | https://villanyautosok.hu/wp-content/uploads/2025/01/2025-01-18-byd-tang-l-01-1024x576.jpg | villanyautosok.hu (foto oficial BYD) | desconocida |
+| /media/levy-plus-hunt1.webp | https://scooter.guide/wp-content/uploads/2022/02/LevyPlusRed_BlackBackground-980x980.jpg | Levy (foto oficial de producto) vía Scooter Guide | desconocida (foto oficial distribuida por el fabricante) |
