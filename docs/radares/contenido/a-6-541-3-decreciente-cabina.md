@@ -12,6 +12,14 @@
 
 El emplazamiento se sitúa en la A-6, pk 541,3, en Aranga (A Coruña), coordenadas 43.192368, -7.968867. El equipo apunta al sentido decreciente —vehículos hacia pks inferiores—, con destino LUGO según el registro oficial. La vista de Street View enlazada muestra el punto exacto sobre la calzada.
 
+<iframe title="Mapa: radar a-6-541-3-decreciente-cabina" src="https://www.google.com/maps?q=43.192368,-7.968867&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-6-541-3-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=43.192368,-7.968867&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La A-6, Autovía del Noroeste, es una vía de titularidad estatal. El XML de la DGT le atribuye la singularidad «AUTOPISTA / AUTOVÍA», propia de las vías de alta capacidad. El documento no describe este tramo, así que la ficha no le asigna rasgos particulares.
