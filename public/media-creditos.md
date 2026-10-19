@@ -3130,3 +3130,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/etwow-booster-plus-s-hunt1.webp | https://www.maxblinker.com/5937-panda_thickbox_default/e-twow-booster-plus-s-facelift-2020.jpg | Max Blinker | desconocida |
 | /media/etwow-booster-plus-s-hunt2.webp | https://scooter.guide/wp-content/uploads/2021/05/1593017130_1566891.jpg | scooter.guide | desconocida |
 | /media/etwow-booster-plus-s-hunt3.webp | https://media.cdnws.com/_i/21277/fb%7B630%7D-4230/2242/32/trottinette-electrique-e-twow-booster-s-plus-confort-2020.png | media.cdnws.com | desconocida |
+| /media/seat-leon-sportstourer-15-ehybrid-2026-precio-ficha-tecnica-hunt1.webp | https://www.seat.co.uk/content/dam/countries/gb/seat-website/event/spring-savings/two-cols-50-50/leon-estate/seat-leon-estate-fr-5050-XL-2560x1320.jpg | SEAT UK (web oficial) | desconocida |
+| /media/seat-leon-sportstourer-15-ehybrid-2026-precio-ficha-tecnica-hunt2.webp | https://i.iinfo.cz/images/175/Seat-Leon-Sportstourer-1.jpg | iinfo.cz | desconocida |
+| /media/seat-leon-sportstourer-15-ehybrid-2026-precio-ficha-tecnica-hunt3.webp | https://cdn.autowereld.nl/I741526348/1280x0/seat-leon-sportstourer-1-5-tsi-e-hybrid-204pk-fr-business-panoramadak-apple-carplay-android-auto-matrix-led.jpg | Autowereld | desconocida |
+| /media/bmw-m-1000-rr-2025-ficha-tecnica-precio-hunt1.webp | https://www.cyclenews.com/wp-content/uploads/2025/07/2025-BMW-M-1000-RR-right-side.jpg |  | desconocida |
+| /media/bmw-m-1000-rr-2025-ficha-tecnica-precio-hunt2.webp | https://www.motosan.es/wp-content/uploads/2024/11/0P41_K66_StandPersp_Re_YN3H_P029.jpg |  | desconocida |
+| /media/bmw-m-1000-rr-2025-ficha-tecnica-precio-hunt3.webp | https://www.cyclenews.com/wp-content/uploads/2024/10/2025-bmw-m-1000rr-first-look-and-specs-4-730x487.jpg |  | desconocida |
+| /media/etwow-booster-sport-hunt1.webp | https://scooter.guide/wp-content/uploads/2021/05/uscooters-booster-sport-electric-scooter-main-image.jpg |  | desconocida |
+| /media/etwow-booster-sport-hunt2.webp | https://uscooters.com/cdn/shop/products/Render__0000s_0000_Layer-558.jpg?v=1616601573 |  | desconocida |
+| /media/etwow-booster-sport-hunt3.webp | https://compare.riderguide.com/_next/image?url=%2Frides%2Fuscooters_booster_sport-1.png&w=2048&q=75 |  | desconocida |
+| /media/bmw-r-18-transcontinental-2025-ficha-tecnica-precio-hunt1.webp | https://www.press.bmwgroup.com/deutschland/photo/detail/P90569059/bmw-r-18-roctane-r-18-b-r-18-transcontinental-model-year-2025 | BMW Motorrad (prensa oficial) | desconocida |
+| /media/bmw-r-18-transcontinental-2025-ficha-tecnica-precio-hunt2.webp | https://www.press.bmwgroup.com/belux/photo/detail/P90569044/BMW-R-18-Roctane-R-18-B-R-18-Transcontinental-Modelljahr-2025 | BMW Motorrad (prensa oficial) | desconocida |
+| /media/bmw-r-18-transcontinental-2025-ficha-tecnica-precio-hunt3.webp | https://www.press.bmwgroup.com/belux/photo/detail/P90569041/BMW-R-18-Roctane-R-18-B-R-18-Transcontinental-Modelljahr-2025 | BMW Motorrad (prensa oficial) | desconocida |
+| /media/razor-e-prime-hunt1.webp | https://www.dronesdirect.co.uk | Drones Direct / Razor | desconocida |
+| /media/razor-e-prime-hunt2.webp | https://www.walmart.com | Walmart / Razor | desconocida |
+| /media/razor-e-prime-hunt3.webp | https://www.ebay.co.uk/p/26038138340 | eBay | desconocida |
+| /media/iscooter-i10-pro-hunt1.webp | https://resize.sprintercdn.com/b/384x576/products/a0f7f1b46d924e0a9a6b4e77eeefacc5/iscooter-i10-pro-10-patinete-electrico-plegable-bateria-de-48-v-y-15-ah_a0f7f1b46d924e0a9a6b4e77eeefacc5_2382341824.jpg?w=384&q=75 | Sprinter Sports | desconocida |
+| /media/iscooter-i10-pro-hunt2.webp | https://files.refurbed.com/ii/iscooter-i10pro-187570-1782139543194521874.jpg?t=fitdesign&h=600&w=800 | Refurbed | desconocida |
+| /media/iscooter-i10-pro-hunt3.webp | https://monsterscooterparts.com/cdn/shop/collections/iScooter_i10_Pro.jpg?v=1732660381&width=1296 | MonsterScooterParts | desconocida |
+| /media/kugoo-kirin-s1-pro-hunt1.webp | https://hp2.pigugroup.eu/colours/204/952/204952/elektriline-toukeratas-kugoo-kirin-s1-pro-483b8-soodsam_reference.jpg | Hansapost / Pigugroup | desconocida |
+| /media/kugoo-kirin-s1-pro-hunt2.webp | https://electroscooter.ru/wp-content/uploads/2024/04/1-8.png | ElectroScooter.ru | desconocida |
+| /media/kugoo-kirin-s1-pro-hunt3.webp | https://img.staticdj.com/9b36b4cd67e8bfcff80286a93b829bf8_1080x.jpeg | KugooKirin Ireland | desconocida |
+| /media/ducati-streetfighter-v2-s-2025-ficha-tecnica-precio-hunt1.webp | https://www.motorcyclesrus.com.au/ | Ducati (distribuidor motorcyclesrus) | desconocida |
+| /media/ducati-streetfighter-v2-s-2025-ficha-tecnica-precio-hunt2.webp | https://www.visordown.com/models/streetfighter | Ducati / visordown.com | desconocida |
+| /media/ducati-streetfighter-v2-s-2025-ficha-tecnica-precio-hunt3.webp | https://www.mundomotero.com/pruebas-motos/prueba-ducati-streetfighter-v2-s-2025-la-luchadora-domesticada | mundomotero.com | desconocida |
