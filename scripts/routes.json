@@ -162,6 +162,10 @@
     {
       "file": "scripts/glosario-slugs.txt",
       "prefix": "/glosario/"
+    },
+    {
+      "file": "scripts/campers-slugs.txt",
+      "prefix": "/coches/"
     }
   ],
   "sitemapExclude": [
