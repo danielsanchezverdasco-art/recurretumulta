@@ -1660,3 +1660,21 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/dfsk-e5-plus-2026-precio-ficha-tecnica-hunt1.webp | https://www.motorbox.com/image/dfsk-e5-plus/8/7/0/870686/870686-16x9-md.webp | Motorbox | desconocida |
 | /media/dfsk-e5-plus-2026-precio-ficha-tecnica-hunt2.webp | https://www.motorbox.com/image/dfsk-e5-plus/8/7/0/870680/870680-16x9-lg.jpg | Motorbox | desconocida |
 | /media/dfsk-e5-plus-2026-precio-ficha-tecnica-hunt3.webp | https://www.car250.com/wp-content/uploads/2024/10/Landian-E5-PLUS-45.webp | car250.com | desconocida |
+| /media/skoda-kylaq-2025-precio-ficha-tecnica-hunt1.webp | https://stimg.cardekho.com/images/carexteriorimages/930x620/Skoda/Kylaq/11528/1775034823247/front-left-side-47.jpg?imwidth=890&impolicy=resize | CarDekho | desconocida |
+| /media/skoda-kylaq-2025-precio-ficha-tecnica-hunt2.webp | https://blog.gaadikey.com/wp-content/uploads/2024/12/Skoda-Kylaq_1-1024x576.jpg | GaadiKey | desconocida |
+| /media/skoda-kylaq-2025-precio-ficha-tecnica-hunt3.webp | https://media.zigcdn.com/media/model/2026/Apr/front-left-quarter-view-123234213_930x620.jpg | ZigWheels | desconocida |
+| /media/mercedes-vito-2025-hunt1.webp | https://www.motorshow.me/uploadImages/ExtImages/images1/23C0249_1001-638261474129397656.jpg | motorshow.me | desconocida |
+| /media/mercedes-vito-2025-hunt2.webp | https://www.mercedes-benz-kenya.com/media/gamme/modeles/images/60eb655e0d36429dab8fed1d3c13c97d.jpg | Mercedes-Benz / web oficial (mercedes-benz-kenya.com) | desconocida |
+| /media/mercedes-vito-2025-hunt3.webp | https://www.megautos.com/wp-content/uploads/2025/06/Vito-12-768x432.jpg | MegAutos | desconocida |
+| /media/volkswagen-touareg-2024-precio-ficha-tecnica-hunt1.webp | https://images.dailyrevs.com/0000/v3/Volkswagen/653cd819fe5dde35e47fdac8/2024-touareg-black-edition-volkswagen-fincs0ywol0814hcc.jpeg | DailyRevs | desconocida |
+| /media/volkswagen-touareg-2024-precio-ficha-tecnica-hunt2.webp | https://images.dailyrevs.com/0000/v3/Volkswagen/653cdeddfe5dde35e4805369/2024-touareg-elegance-uk-version-volkswagen-g2l9c018y2i6c9qsh.jpeg | DailyRevs | desconocida |
+| /media/volkswagen-touareg-2024-precio-ficha-tecnica-hunt3.webp | https://www.wiondrive.com/wp-content/uploads/2023/10/Volkswagen-Touareg_R_eHybrid-2024-1600-2f.jpg | wiondrive.com | desconocida |
+| /media/wottan-storm-s-300-2026-ficha-tecnica-precio-hunt1.webp | https://irp.cdn-website.com/0ba4035d/dms3rep/multi/opt/STORM-S-WHITE-1920w.jpg | Wottan / wottanmotorpisana.com | desconocida |
+| /media/wottan-storm-s-300-2026-ficha-tecnica-precio-hunt2.webp | https://irp.cdn-website.com/0ba4035d/dms3rep/multi/opt/STORM-S-SILVER-1920w.jpg | Wottan / wottanmotorpisana.com | desconocida |
+| /media/wottan-storm-s-300-2026-ficha-tecnica-precio-hunt3.webp | https://irp.cdn-website.com/0ba4035d/dms3rep/multi/opt/STORM-S-MATE-1920w.jpg | Wottan / wottanmotorpisana.com | desconocida |
+| /media/cupra-leon-sportstourer-2025-precio-ficha-tecnica-hunt1.webp | https://www.cupraofficial.sk/dam/images/129b0ce3073aed1a7b11e1af6dc543b083fc82c5/1ebbc6412dda895e6bb565063be60fad/2dc957b9-1746-45b1-8241-06569fea3a28/crop:83:79:CENTER:8.82591093117405:11.079136690647493/resize:2048:1152/new-cupra-leon-sportstourer-2024-front-dark-grey | Cupra / prensa oficial (cupraofficial.sk) | desconocida |
+| /media/cupra-leon-sportstourer-2025-precio-ficha-tecnica-hunt2.webp | https://traction.gr/wp-content/uploads/2024/06/CUPRA_Leon_INT_03-1068x601.jpg | Cupra (prensa oficial) / Traction.gr | desconocida |
+| /media/cupra-leon-sportstourer-2025-precio-ficha-tecnica-hunt3.webp | https://ww4.cupradanmark.dk/media/a5ojmegv/cupra-leon-sportstourer-stage-2.webp?width=1436&height=0&v=1dc20bc87ac51b0 | Cupra / web oficial (cupradanmark.dk) | desconocida |
+| /media/renault-kangoo-camper-2026-precio-ficha-tecnica-hunt1.webp | https://www.tipo-mag.com/cdn/2026/02/DSC_0072.JPG | Tipo Mag | desconocida |
+| /media/renault-kangoo-camper-2026-precio-ficha-tecnica-hunt2.webp | https://images.prismic.io/carwow/ab68d15f-ff58-4764-942e-8cd7d1a2d43e_LHD+Renault+Kangoo+Combi+marron+anaranjado-16.jpg | Carwow España | desconocida |
+| /media/renault-kangoo-camper-2026-precio-ficha-tecnica-hunt3.webp | https://i.bstr.es/espaciofurgo/2026/08/Renault-Kangoo-28-1024x683.jpg | EspacioFurgo | desconocida |
