@@ -12,6 +12,14 @@
 
 El **pk 14,3 de la A-66**, en Asturias, está dotado de un radar **fijo** que controla el **sentido creciente**, el que la DGT identifica con destino **CAMPOMANES**. Atiende a la calzada sur, la que penetra en el interior con rumbo a León. El punto se enclava en el corredor Gijón–Oviedo, a escasa distancia del nudo de enlace con la A-8.
 
+<iframe title="Mapa: radar a-66-14-3-creciente-fijo" src="https://www.google.com/maps?q=43.4782,-5.7902&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-66-14-3-creciente-fijo" src="https://maps.google.com/maps?q=&layer=c&cbll=43.4782,-5.7902&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 Dado que los pk de la A-66 aumentan hacia el sur, el sentido creciente coincide con la salida de la costa hacia el interior.
 
 ## La carretera
