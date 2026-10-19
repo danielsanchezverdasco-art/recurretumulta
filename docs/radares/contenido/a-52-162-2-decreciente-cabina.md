@@ -12,6 +12,14 @@
 
 El punto de control se localiza en la A-52, pk 162,2, término de Verín (Ourense), en las coordenadas 41.91996, -7.457119. El cinemómetro enfoca el sentido decreciente, el de la circulación que regresa hacia el origen de la vía en pks menores, con destino Benavente según el registro. Street View permite inspeccionar el emplazamiento exacto.
 
+<iframe title="Mapa: radar a-52-162-2-decreciente-cabina" src="https://www.google.com/maps?q=41.91996,-7.457119&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-52-162-2-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=41.91996,-7.457119&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La A-52 es una autovía de titularidad estatal. El XML de la DGT la recoge con la singularidad «AUTOPISTA / AUTOVÍA» por su denominación oficial. Al no describir el fichero este tramo, la ficha se abstiene de caracterizarlo.
