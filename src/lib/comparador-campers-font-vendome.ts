@@ -96,7 +96,6 @@ export const CAMPERS_FONT_VENDOME: CocheComparador[] = [
       fuenteNombre: "Font Vendôme (catálogo oficial 2026)",
       fuenteUrl: "https://docs.campingcar-infos.com/docs/Font-Vendome%20(vans)/FontVendome%202026%20Mondea.pdf",
     },
-    fuenteNombre: "Font Vendôme (catálogo oficial 2026)",
     fuenteUrl: "https://docs.campingcar-infos.com/docs/Font-Vendome%20(vans)/FontVendome%202026%20Mondea.pdf",
   },
 ];

@@ -69,7 +69,6 @@ export const CAMPERS_BUERSTNER: CocheComparador[] = [
     },
     euroncap: null,
     curiosidad: { texto: "El Campeo C 600 trae de serie anclajes Isofix para dos sillas infantiles y una cama trasera transversal de 197 × 157 cm con somier extraíble para convertir la zona en espacio de carga.", fuenteNombre: "Bürstner (web oficial)", fuenteUrl: "http://www.buerstner.com/ch/de/wohnvans/wohnvans/campeo-c" },
-    fuenteNombre: "Bürstner (web oficial)",
     fuenteUrl: "http://www.buerstner.com/ch/de/wohnvans/wohnvans/campeo-c",
   },
 ];

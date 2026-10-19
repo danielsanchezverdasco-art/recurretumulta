@@ -55,7 +55,6 @@ export const CAMPERS_CHAUSSON: CocheComparador[] = [
     },
     euroncap: null,
     curiosidad: { texto: "Chausson diseña y monta cada camper en Tournon-sur-Rhône (Ardèche, Francia) desde 1980 y garantiza la estanqueidad durante 7 años.", fuenteNombre: "Chausson (web oficial)", fuenteUrl: "https://chausson-camping-cars.fr/" },
-    fuenteNombre: "Chausson (web oficial)",
     fuenteUrl: "https://chausson-camping-cars.fr/",
   },
 ];

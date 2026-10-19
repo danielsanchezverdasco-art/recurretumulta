@@ -57,7 +57,6 @@ export const CAMPERS_RAPIDO: CocheComparador[] = [
     },
     euroncap: null,
     curiosidad: { texto: "El V55 esconde una innovación patentada por Rapido: el armario MODUL'SPACE pivota 180° y se escamotea sobre la cama para liberar una ducha separada en un furgón de menos de 6 metros.", fuenteNombre: "Rapido (web oficial)", fuenteUrl: "https://www.rapido-camping-car.fr/inc/rapido_nouveautes_les-fourgons_camping-car-serie-vans.phtml" },
-    fuenteNombre: "Rapido (web oficial)",
     fuenteUrl: "https://www.rapido-camping-car.fr/inc/rapido_nouveautes_les-fourgons_camping-car-serie-vans.phtml",
   },
 ];

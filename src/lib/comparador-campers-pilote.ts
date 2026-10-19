@@ -58,7 +58,6 @@ export const CAMPERS_PILOTE: CocheComparador[] = [
     },
     euroncap: null,
     curiosidad: { texto: "La gama Vega de Pilote se prueba en cámara fría: pasa de −15° a +20° en menos de 4 horas según la norma EN-1646-1, con calefacción TRUMA 4.", fuenteNombre: "Pilote (web oficial)", fuenteUrl: "https://www.pilote.fr/panelvans/" },
-    fuenteNombre: "Pilote (web oficial)",
     fuenteUrl: "https://www.pilote.fr/fourgon/v630j-pilote/",
   },
 ];

@@ -57,7 +57,6 @@ export const CAMPERS_DREAMER: CocheComparador[] = [
     },
     euroncap: null,
     curiosidad: { texto: "En 2026 Dreamer celebra su 20.º aniversario y lo festeja con una edición limitada de jubileo: la marca nació como la gama de acceso del grupo Rapido y hoy ofrece 14 implantaciones entre 5,40 y 6,40 m.", fuenteNombre: "Vanomobil (distribuidor oficial Dreamer)", fuenteUrl: "https://ct.vanomobil.be/api/products/178/pdf/en" },
-    fuenteNombre: "Dreamer (web oficial)",
     fuenteUrl: "https://www.dreamer-van.be/fr/fourgon-dreamer-d55.php",
   },
 ];

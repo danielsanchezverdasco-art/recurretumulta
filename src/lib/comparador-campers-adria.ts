@@ -69,7 +69,6 @@ export const CAMPERS_ADRIA: CocheComparador[] = [
     },
     euroncap: null,
     curiosidad: { texto: "Su hermano de gama, el Matrix Supreme MB 670 DL, ganó el premio a la mejor autocaravana perfilada de más de 7 metros en los Caravan and Motorhome Club Design Awards 2024.", fuenteNombre: "Adria (Reino Unido, web oficial)", fuenteUrl: "https://www.adria.co.uk/news/adria-receive-3-very-prestigious-industry-awards" },
-    fuenteNombre: "Adria (web oficial)",
     fuenteUrl: "https://www.adria-mobil.com/motorhomes/matrix",
   },
 ];

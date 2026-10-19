@@ -94,12 +94,11 @@ export const CAMPERS_POSSL: CocheComparador[] = [
       url: null,
       nota: "Sin datos EuroNCAP: el Campster no ha sido probado de forma independiente.",
     },
-    fuenteNombre: "Pössl (lista oficial Alemania)",
     fuenteUrl: "https://www.poessl.de/",
     curiosidad: {
       texto:
         "La cocina giratoria del Campster 2026, heredada del CampSTAR, permite cocinar dentro o fuera girando el bloque 180 grados: es única en su segmento.",
-      fuente: "Pössl",
+      fuenteNombre: "Pössl",
       fuenteUrl: "https://www.poessl.de/",
     },
   },
@@ -193,12 +192,11 @@ export const CAMPERS_POSSL: CocheComparador[] = [
       url: null,
       nota: "Sin datos EuroNCAP: la Vanster no ha sido probada de forma independiente.",
     },
-    fuenteNombre: "Pössl (web oficial)",
     fuenteUrl: "https://www.poessl.de/",
     curiosidad: {
       texto:
         "La Vanster incluye de serie la CampBox, un módulo extraíble con cocina que convierte la furgoneta en camper en minutos sin instalación fija.",
-      fuente: "Pössl",
+      fuenteNombre: "Pössl",
       fuenteUrl: "https://www.poessl.de/",
     },
   },
@@ -292,12 +290,11 @@ export const CAMPERS_POSSL: CocheComparador[] = [
       url: null,
       nota: "Sin datos EuroNCAP: la Summit 640 no ha sido probada de forma independiente.",
     },
-    fuenteNombre: "Pössl (web oficial)",
     fuenteUrl: "https://www.poessl.de/",
     curiosidad: {
       texto:
         "La Summit es el camper más vendido de Europa desde hace años: Pössl fabrica miles de unidades al año en su planta de Isny (Alemania).",
-      fuente: "Pössl",
+      fuenteNombre: "Pössl",
       fuenteUrl: "https://www.poessl.de/",
     },
   },
@@ -391,12 +388,11 @@ export const CAMPERS_POSSL: CocheComparador[] = [
       url: null,
       nota: "Sin datos EuroNCAP: la Trenta 640 no ha sido probada de forma independiente.",
     },
-    fuenteNombre: "Pössl (web oficial)",
     fuenteUrl: "https://www.poessl.de/",
     curiosidad: {
       texto:
         "Trenta significa 'treinta' en italiano: la gama conmemora las más de tres décadas de Pössl como especialista en campers compactos.",
-      fuente: "Pössl",
+      fuenteNombre: "Pössl",
       fuenteUrl: "https://www.poessl.de/",
     },
   },

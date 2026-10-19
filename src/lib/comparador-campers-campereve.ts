@@ -95,7 +95,6 @@ export const CAMPERS_CAMPEREVE: CocheComparador[] = [
       fuenteNombre: "Campérêve (web oficial)",
       fuenteUrl: "https://www.campereve.fr/fourgon_gamme-magellan_magellan-643-air-saphir.phtml",
     },
-    fuenteNombre: "Campérêve (web oficial)",
     fuenteUrl: "https://www.campereve.fr/fourgon_gamme-magellan_magellan-643-air-saphir.phtml",
   },
 ];
