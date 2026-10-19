@@ -12,6 +12,14 @@
 
 La cabina está instalada en la **A-70, punto kilométrico 6,5**, dentro de la provincia de Alicante. Controla el **sentido decreciente** de la marcha, el de los hitos kilométricos decrecientes. Según el servicio oficial de geocodificación, el emplazamiento pertenece a **Mutxamel**. A 1,4 km hacia el sur está el control más próximo, el de la **A-70, pk 8,6** (sentido decreciente).
 
+<iframe title="Mapa: radar a-70-6-5-decreciente-cabina" src="https://www.google.com/maps?q=38.41502,-0.4489&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-70-6-5-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.41502,-0.4489&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La A-70 es la Autovía de Circunvalación de Alicante, primer cinturón de la ciudad. El carácter de la vía atrae tanto al transportista como al conductor ocasional. Nos movemos en el ámbito de el sureste valenciano.
