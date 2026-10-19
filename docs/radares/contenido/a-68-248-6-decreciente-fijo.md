@@ -11,6 +11,15 @@
 
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=41.69702,-0.98346)
 
+<iframe title="Mapa: radar a-68-248-6-decreciente-fijo" src="https://www.google.com/maps?q=41.69702,-0.98346&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-68-248-6-decreciente-fijo" src="https://maps.google.com/maps?q=&layer=c&cbll=41.69702,-0.98346&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 
 > **Cómo lo verificamos:** esta ficha reproduce los campos del dataset oficial de radares fijos de la DGT (DATEX II): carretera, punto kilométrico, sentido y coordenadas. La DGT no publica para este punto la velocidad límite ni el municipio (comprobado el 2026-10-18), así que ninguno de los dos aparece en la página.
 
