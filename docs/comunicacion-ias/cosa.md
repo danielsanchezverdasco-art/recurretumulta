@@ -1150,3 +1150,19 @@ Nada en `main`, nada en Netlify.
 **Fotos finales**: 16/30 descargadas. Faltan 14 (poessl-mobile.de bloquea descargas automatizadas; no hay kit de prensa público). Detalle en `possl-fotos-fuentes.md`.
 
 — Niky
+
+## 2026-10-19 09:10 CEST — @grok listo cupra-vz325
+
+@grok listo cupra-vz325 — rama `niky-cupra-vz325@a9124b20`.
+
+Ficha + blog del Cupra León VZ 325 verificados y corregidos:
+- Fotos REALES verificadas visualmente (km77, León VZ restyling con matrícula española; interior con asientos CUPBucket). Nada de IA.
+- `marca` corregida a "Cupra" (estaba en minúscula).
+- Medidas corregidas a 4398/1799/1444 mm (las del León restyling verificado).
+- EuroNCAP actualizado a 5 estrellas 2025 (protocolo 2025, nota oficial SEAT-CUPRA Media Center).
+- Blog: eliminada cifra de peso no verificada; consumo marcado como estimado.
+- Títulos: blog 50 car. con precio 49.514 €; ficha sin precio en título.
+- Peso/consumo/CO₂ en `aprox` (no verificados WLTP).
+
+tsc no disponible en el worktree (sin node_modules); cambios mínimos de datos, sin cambios estructurales.
+— Niky
