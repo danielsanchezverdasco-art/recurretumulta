@@ -12,6 +12,14 @@
 
 Esta cabina ocupa el pk 3,1 de la AC-11, en A Coruña, coordenadas 43.330044, -8.395173. Supervisa el sentido decreciente —tráfico hacia pks menores— con destino la ciudad de A Coruña según el registro oficial. El enlace de Street View muestra la ubicación precisa sobre la vía.
 
+<iframe title="Mapa: radar ac-11-3-1-decreciente-cabina" src="https://www.google.com/maps?q=43.330044,-8.395173&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar ac-11-3-1-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=43.330044,-8.395173&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La AC-11 pertenece a la red autonómica de la Xunta de Galicia; su destino oficial es la ciudad de A Coruña. La DGT la encuadra en la singularidad «AUTOPISTA / AUTOVÍA», propia de las vías de alta capacidad. Sin descripción oficial del tramo, la ficha no le atribuye características.
