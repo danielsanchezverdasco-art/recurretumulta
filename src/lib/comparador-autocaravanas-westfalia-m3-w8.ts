@@ -43,8 +43,8 @@ export const AUTOCARAVANAS_WESTFALIA_M3: Autocaravana[] = [
     anchoMm: 2050, // 2.050 mm (catálogo oficial 2026)
     altoMm: 2920, // 292 cm según exposé técnico de la variante AD 190 (caraworld.com)
     pesoKg: 2930, // masa en orden de marcha, versión Premium (catálogo oficial 2026)
-    mmaKg: 4100, // MTPLM versión Premium (catálogo oficial 2026)
-    carnetNecesario: "C1", // 4.100 kg > 3.500 kg
+    mmaKg: 4100, // MTPLM versión Premium con 4x4 (el Premium 190 CV incluye 4x4 y automática; catálogo oficial James Cook 2026: 4,1 t con tracción total)
+    carnetNecesario: "C1", // 4.100 kg > 3.500 kg (el Premium 190 CV incluye el 4x4)
     cargaUtilKg: null, // la marca no la publica; prohibido calcularla
     consumo: null,
     consumoUnidad: null,
@@ -55,7 +55,7 @@ export const AUTOCARAVANAS_WESTFALIA_M3: Autocaravana[] = [
     emisionesCo2: null,
     aprox: [],
     notas:
-      "Medidas 5.932 x 2.050 mm, motor 2.0 de 110 kW (150 CV, versión Classic, manual 6v) o 140 kW (190 CV, versión Premium, automática 9G con 4x4 opcional), masa en orden de marcha 3.075 kg (Classic) / 2.930 kg (Premium), MTPLM 3.500 kg (Classic) / 4.100 kg (Premium): catálogo oficial Westfalia James Cook 2026 (westfalia-mobil.com). AD = Aufstelldach (techo elevable): spaceroofs.co.uk; la variante AD 190 combina el techo elevable con el motor de 190 CV. Exposé técnico de la variante AD 190 (caraworld.com, modelo 2024): 593 cm de largo, 205 cm de ancho, 292 cm de alto, 3.609 kg en orden de marcha con equipamiento offroad, 4.100 kg MTPLM, 4 cinturones, 4 camas (doble de 170/142x207 cm + techo elevable de 115x210 cm), batalla de 367 cm, calefacción diésel de agua caliente, frigorífico de 90 l, agua 100 l, residuales 78 l, batería de 95 Ah. Cocina con frigorífico compresor de 90 l (catálogo 2021, readkong.com). Precio: Westfalia no publica PVP; en Alemania las unidades AD nuevas de 2026 se anuncian entre ~99.990 y ~149.900 € según equipamiento (mobile.de), precios de mercado, no oficiales. En null: precioDesde, cargaUtilKg (no publicada; prohibido calcularla), consumo, par, emisiones.",
+      "Medidas 5.932 x 2.050 mm, motor 2.0 de 110 kW (150 CV, versión Classic, manual 6v) o 140 kW (190 CV, versión Premium, automática 9G con 4x4 opcional), masa en orden de marcha 3.075 kg (Classic) / 2.930 kg (Premium), MTPLM 3.500 kg (Classic) / 4.100 kg (Premium con 4x4 incluido de serie en el 190 CV): catálogo oficial Westfalia James Cook 2026 (westfalia-mobil.com) y lista oficial de precios Suecia 2026 (el Premium 190 CV incluye All-Wheel Drive y cambio automático). AD = Aufstelldach (techo elevable): spaceroofs.co.uk; la variante AD 190 combina el techo elevable con el motor de 190 CV. Exposé técnico de la variante AD 190 (caraworld.com, modelo 2024): 593 cm de largo, 205 cm de ancho, 292 cm de alto, 3.609 kg en orden de marcha con equipamiento offroad, 4.100 kg MTPLM, 4 cinturones, 4 camas (doble de 170/142x207 cm + techo elevable de 115x210 cm), batalla de 367 cm, calefacción diésel de agua caliente, frigorífico de 90 l, agua 100 l, residuales 78 l, batería de 95 Ah. Cocina con frigorífico compresor de 90 l (catálogo 2021, readkong.com). Precio: Westfalia no publica PVP; en Alemania las unidades AD nuevas de 2026 se anuncian entre ~99.990 y ~149.900 € según equipamiento (mobile.de), precios de mercado, no oficiales. En null: precioDesde, cargaUtilKg (no publicada; prohibido calcularla), consumo, par, emisiones.",
     curiosidades:
       "Las camas de la zaga del James Cook alcanzan sus 2 metros de largo gracias a un ingenioso slide-out: toda la parte trasera es una carrocería de fibra de vidrio cuya mitad superior se desliza hacia fuera, alargando el dormitorio sin alargar el vehículo. Fuente: https://www.outandaboutlive.co.uk/motorhomes/news/westfalia-releases-details-of-all-new-james-cook-campervan",
     descripcion: `El Westfalia James Cook AD 190 es la versión con techo elevable y motor grande del camper más legendario de Europa sobre base Mercedes Sprinter. Las siglas lo dicen todo: AD significa Aufstelldach, techo elevable en alemán, y 190 son los caballos del 2.0 diésel de 140 kW con cambio automático de 9 velocidades. Es el James Cook para quien quiere las prestaciones del Premium —190 CV, automática, tracción 4x4 opcional— y, además, cuatro camas gracias a la cama del techo elevable, todo ello en 5,93 metros de largo que se aparcan casi como un turismo grande. Westfalia lleva más de 60 años perfeccionando este concepto y se nota en cada detalle.
@@ -157,10 +157,10 @@ Para quién es: para quien quiere el mejor camper de 5,93 metros con cuatro cama
       "/media/westfalia-columbus-640-e-2026-precio-ficha-tecnica-interior1.webp",
     videoId: null,
     videoCanal: null,
-    largoMm: 6400, // 6,40 m (alpacacamping.de, datos técnicos)
+    largoMm: 6363, // 6,363 m (catálogo oficial Westfalia Columbus 2026)
     anchoMm: 2050, // 2,05 m (alpacacamping.de)
     altoMm: 2600, // 2,60 m (alpacacamping.de)
-    pesoKg: 3000, // masa en orden de marcha (alpacacamping.de)
+    pesoKg: 3030, // masa en orden de marcha 3.030 kg / MTPLM 3.500 kg (catálogo oficial Westfalia Columbus 2026)
     mmaKg: 3500, // MTPLM 3.500 kg
     carnetNecesario: "B",
     cargaUtilKg: null, // la marca no la publica; prohibido calcularla
@@ -173,7 +173,7 @@ Para quién es: para quien quiere el mejor camper de 5,93 metros con cuatro cama
     emisionesCo2: null,
     aprox: [],
     notas:
-      "SUSTITUCIÓN: el modelo asignado 'Columbus 641 E' no existe en la gama oficial 2026 (la denominación 641 E es de 2015); se sustituye por el 'Columbus 640 E', el equivalente actual con camas gemelas, el más largo de la gama (gama oficial 2026: 540 D / 600 D / 600 E / 640 E, westfalia-mobil.com). Dimensiones 6,40 x 2,05 x 2,60 m, batalla 4,05 m, masa en orden de marcha 3.000 kg (alpacacamping.de, datos técnicos). Motor Fiat Ducato 2.2 MultiJet3 de 88 kW / 120 CV de serie con manual de 6 velocidades; automática de 9 velocidades opcional (westfalia-mobil.com); 140 CV según alpacacamping.de. Camas gemelas traseras de 1,96/1,80 x 1,95 m; cama de banco patentada de 1,80x0,90 m opcional; cama de techo elevable de 200x135 cm opcional (oficial). Frigorífico compresor Dometic de 90 l con doble puerta; calefacción combinada diésel Eberspächer de 5 kW con doble zona; unidad de control Westfalia/Dometic de 4,3''; baño con ducha, inodoro extraíble y ventana (oficial). Agua limpia 100 l / residuales 100 l; bombona de 6-8 kg (oficial). En null: precioDesde (sin PVP oficial), cargaUtilKg (no publicada; prohibido calcularla), consumo, par, tracción.",
+      "SUSTITUCIÓN: el modelo asignado 'Columbus 641 E' no existe en la gama oficial 2026 (la denominación 641 E es de 2015); se sustituye por el 'Columbus 640 E', el equivalente actual con camas gemelas, el más largo de la gama (gama oficial 2026: 540 D / 600 D / 600 E / 640 E, westfalia-mobil.com). Dimensiones 6,40 x 2,05 x 2,60 m, batalla 4,05 m, masa en orden de marcha 3.000 kg (alpacacamping.de, datos técnicos). Motor Fiat Ducato 2.2 MultiJet3 de 88 kW / 120 CV de serie con manual de 6 velocidades; automática de 9 velocidades opcional (westfalia-mobil.com); 140 CV según alpacacamping.de. Camas gemelas traseras de 1,96/1,80 x 1,95 m; cama de banco patentada de 1,80x0,90 m opcional; cama de techo elevable de 200x135 cm opcional (oficial). Frigorífico compresor Dometic de 90 l con doble puerta; calefacción combinada diésel Eberspächer de 5 kW con doble zona; unidad de control Westfalia/Dometic de 4,3''; baño con ducha, inodoro extraíble y ventana (oficial). Agua limpia 100 l / residuales 100 l; bombona de 6-8 kg (oficial). En null: precioDesde (sin PVP oficial), cargaUtilKg (no publicada; prohibido calcularla), consumo, par, tracción. Precio: la web oficial de Westfalia muestra el 640 E "desde 69.690 €" (mercado europeo, sin tarifa oficial publicada para España; precioDesde en null).",
     curiosidades:
       "El banco trasero del Columbus, con su función lounge patentada por Westfalia, se despliega en una cama de 1,80 x 0,90 metros en dos segundos, sin piezas sueltas ni montajes: un gesto y listo. Fuente: https://westfalia-mobil.com/en/motorhomes/columbus-600-e/ (página oficial de la gama Columbus)",
     descripcion: `El Westfalia Columbus 640 E es el mayor de los campers de la gama Columbus: 6,40 metros de furgón Fiat Ducato con camas gemelas traseras, baño con ducha separada de verdad y la ingeniería de detalle que ha hecho famosa a la marca alemana. La "E" indica su distribución —camas gemelas longitudinales atrás— y el "640", su longitud: es el buque insignia de una gama que empieza en el compacto 540 D y que en 2026 se ofrece en cuatro versiones (540 D, 600 D, 600 E y 640 E). Si el 600 E es el equilibrado, el 640 E es el que elige quien quiere el máximo espacio interior sin salir del formato furgón ni del carnet B.
@@ -215,21 +215,21 @@ Para quién es: para parejas que quieren el camper más espacioso sin salir del 
       },
       {
         src: "/media/westfalia-columbus-640-e-2026-precio-ficha-tecnica-interior1.webp",
-        alt: "Westfalia Columbus 640 E, salón con mesa y camas gemelas al fondo",
-        ancho: 800,
-        alto: 533,
+        alt: "Westfalia Columbus 640 E, salón y cocina (foto oficial Westfalia)",
+        ancho: 1600,
+        alto: 1066,
       },
       {
         src: "/media/westfalia-columbus-640-e-2026-precio-ficha-tecnica-interior2.webp",
-        alt: "Westfalia Columbus 640 E, camas gemelas traseras",
-        ancho: 1280,
-        alto: 720,
+        alt: "Westfalia Columbus 640 E, camas gemelas traseras (foto oficial Westfalia)",
+        ancho: 1600,
+        alto: 1066,
       },
       {
         src: "/media/westfalia-columbus-640-e-2026-precio-ficha-tecnica-detalle.webp",
-        alt: "Westfalia Columbus 640 E, cocina y salón",
-        ancho: 1280,
-        alto: 720,
+        alt: "Westfalia Columbus 640 E, cocina con frigorífico abierto (foto oficial Westfalia)",
+        ancho: 1080,
+        alto: 1620,
       },
     ],
     analisisSlug: "westfalia-columbus-640-e-2026-analisis-opinion",
