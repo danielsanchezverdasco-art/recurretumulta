@@ -3251,3 +3251,28 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/haval-h6l-2025-precio-ficha-tecnica-hunt1.webp | https://carnewschina.com/2025/11/18/gwms-haval-h6l-mid-size-suv-to-with-2-0t-engine-launched-starting-from-16500-usd/ | GWM (foto oficial, vía CarNewsChina) | desconocida |
 | /media/haval-h6l-2025-precio-ficha-tecnica-hunt2.webp | https://carnewschina.com/2025/11/18/gwms-haval-h6l-mid-size-suv-to-with-2-0t-engine-launched-starting-from-16500-usd/ | Sohu (vía CarNewsChina) | desconocida |
 | /media/haval-h6l-2025-precio-ficha-tecnica-hunt3.webp | https://carnewschina.com/2025/11/18/gwms-haval-h6l-mid-size-suv-to-with-2-0t-engine-launched-starting-from-16500-usd/ | CarNewsChina | desconocida |
+| /media/husqvarna-701-enduro-2025-ficha-tecnica-precio-hunt1.webp | https://www.manuals.co.uk/husqvarna/701-enduro-2024/manual?p=35 | Husqvarna Mobility (imagen oficial del manual, vía manuals.co.uk) | desconocida |
+| /media/husqvarna-701-enduro-2025-ficha-tecnica-precio-hunt2.webp | https://www.husqvarna-motorcycles.com/en-gb/models/travel/701-enduro-2024.html | Husqvarna Mobility (web oficial) | desconocida |
+| /media/husqvarna-701-enduro-2025-ficha-tecnica-precio-hunt3.webp | https://www.husqvarna-motorcycles.com/en-gb/models/travel/701-enduro-2024.html | Husqvarna Mobility (web oficial) | desconocida |
+| /media/subaru-uncharted-touring-2026-precio-ficha-tecnica-hunt1.webp | https://topelectricsuv.com/news/subaru/subaru-uncharted-habanero-orange/ | TopElectricSUV | desconocida |
+| /media/subaru-uncharted-touring-2026-precio-ficha-tecnica-hunt2.webp | https://topelectricsuv.com/news/subaru/subaru-uncharted-habanero-orange/ | TopElectricSUV | desconocida |
+| /media/subaru-uncharted-touring-2026-precio-ficha-tecnica-hunt3.webp | https://topelectricsuv.com/news/subaru/subaru-uncharted-habanero-orange/ | TopElectricSUV | desconocida |
+| /media/apollo-city-hunt1.webp | https://www.rcwilley.com/Outdoor/Outdoor-Entertaining/Scooters/120002241/Apollo-City-2024-Scooter-View | RC Willey | desconocida |
+| /media/apollo-city-hunt2.webp | https://www.electrazoom.co.uk/products/apollo-city-electric-scooter-1 | ElectraZoom | desconocida |
+| /media/apollo-city-hunt3.webp | https://www.electricscooterinsider.com/electric-scooters/reviews/apollo-city-2022-review/ | Electric Scooter Insider | desconocida |
+| /media/egret-gt-hunt1.webp | https://my-egret.com/de/e-modelle/egret-gt | my-egret.com (foto oficial del fabricante) | desconocida |
+| /media/egret-gt-hunt2.webp | https://zero-center.com/collections/roller | zero-center.com (foto oficial del modelo) | desconocida |
+| /media/egret-gt-hunt3.webp | https://ejunkie.de/egret-gt-e-scooter-komfort-mit-wechselakku-erleben/ | ejunkie.de (foto oficial del modelo) | desconocida |
+| /media/cfmoto-800mt-explore-2025-ficha-tecnica-precio-hunt1.webp | https://cfmotobenelux.com/en/model/800mt-explore-gt/ | CFMOTO Benelux (importador oficial) | desconocida |
+| /media/cfmoto-800mt-explore-2025-ficha-tecnica-precio-hunt2.webp | https://cfmotobenelux.com/en/model/800mt-explore-gt/ | CFMOTO Benelux (importador oficial) | desconocida |
+| /media/cfmoto-800mt-explore-2025-ficha-tecnica-precio-hunt3.webp | https://cfmotobenelux.com/fr/model/800mt-explore/ | CFMOTO Benelux (importador oficial) | desconocida |
+| /media/emove-cruiser-s-hunt1.webp | https://vrooomin-media.b-cdn.net/banners/2023/march/emove-cruiser/emove-cruiser-s-electric-scooter-folded.webp | Vrooomin / VoroMotors | desconocida |
+| /media/tank-300-diesel-2025-precio-ficha-tecnica-hunt1.webp | https://www.carsales.com.au/editorial/details/gwm-tank-300-diesel-2025-review-148977/ | carsales.com.au | desconocida |
+| /media/tank-300-diesel-2025-precio-ficha-tecnica-hunt2.webp | https://www.carexpert.com.au/car-reviews/2025-gwm-tank-300-diesel-review | CarExpert | desconocida |
+| /media/tank-300-diesel-2025-precio-ficha-tecnica-hunt3.webp | https://www.carexpert.com.au/car-reviews/2025-gwm-tank-300-diesel-review | CarExpert | desconocida |
+| /media/volkswagen-touran-2025-precio-ficha-tecnica-hunt1.webp | https://www.autoflotte.de/mediathek/vw-touran-2024-3354884 | autoflotte.de (foto de prensa VW) | desconocida |
+| /media/volkswagen-touran-2025-precio-ficha-tecnica-hunt2.webp | https://www.autoflotte.de/mediathek/vw-touran-2024-3354884 | autoflotte.de (foto de prensa VW) | desconocida |
+| /media/volkswagen-touran-2025-precio-ficha-tecnica-hunt3.webp | https://www.autoflotte.de/mediathek/vw-touran-2024-3354884 | autoflotte.de (foto de prensa VW) | desconocida |
+| /media/kukirin-g2-hunt1.webp | https://kukirin.com.es/cdn/shop/files/kukirin-g2-main-image_24.webp | kukirin.com.es (tienda oficial KuKirin España) | desconocida |
+| /media/kukirin-g2-hunt2.webp | https://www.oolactive.com/cdn/shop/files/kukirin-g2-electric-scooter-2025-oolactive_10.jpg | oolactive.com (tienda) | desconocida |
+| /media/kukirin-g2-hunt3.webp | https://img-va.myshopline.com/image/store/1756720878978/6196bf928v88339f0130c1980a5643fa_720x.jfif | kukirinro.com (tienda oficial KuKirin) | desconocida |
