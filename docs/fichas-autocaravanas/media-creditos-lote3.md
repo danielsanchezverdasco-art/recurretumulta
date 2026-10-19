@@ -33,25 +33,25 @@ Pausa temporal 19/10/2026: 50 fichas de autocaravanas. Fotos con modelo+marca ex
 - `public/media/benimar-tessoro-440-up-2026-precio-ficha-tecnica-detalle.webp` — OFICIAL — Foto oficial Benimar (web benimar.es): T440 UP con toldo extendido — fuente: https://www.benimar.es/wp-content/uploads/A7404603-Editar-1024x682.jpg
 
 ## benimar-mileo-286-2026-precio-ficha-tecnica
-- `public/media/benimar-mileo-286-2026-precio-ficha-tecnica-oficial.webp` — no oficial —  — fuente: https://img.gumtree.com/ePR8PyKf84wPHx7_RYmEag/ae248b20b47e412581_d0b723eabad1/86
-- `public/media/benimar-mileo-286-2026-precio-ficha-tecnica-interior1.webp` — no oficial —  — fuente: https://img.gumtree.com/ePR8PyKf84wPHx7_RYmEag/01837ce922d7467b84_0434d1d1aa89/86
-- `public/media/benimar-mileo-286-2026-precio-ficha-tecnica-interior2.webp` — no oficial —  — fuente: https://img.gumtree.com/ePR8PyKf84wPHx7_RYmEag/4510136963a4400e9e_802fdc4b0f2f/86
-- `public/media/benimar-mileo-286-2026-precio-ficha-tecnica-detalle.webp` — no oficial —  — fuente: https://img.gumtree.com/ePR8PyKf84wPHx7_RYmEag/0e903f2d9416448d8d_69b525bd99fb/86
+- `public/media/benimar-mileo-286-2026-precio-ficha-tecnica-oficial.webp` — no oficial — (foto sustituida 19/10/2026) —  — fuente: https://www.outandaboutlive.co.uk/sites/default/files/styles/details/public/2026-06/benimar-mileo-286-20260518_142948-970-660.webp?itok=r2nvLd9V
+- `public/media/benimar-mileo-286-2026-precio-ficha-tecnica-interior1.webp` — no oficial — (foto sustituida 19/10/2026) —  — fuente: https://www.outandaboutlive.co.uk/sites/default/files/styles/details/public/2026-06/benimar-mileo-286-20260519_093046-970-660.webp?itok=Q-vYfK10
+- `public/media/benimar-mileo-286-2026-precio-ficha-tecnica-interior2.webp` — no oficial — (foto sustituida 19/10/2026) —  — fuente: https://www.outandaboutlive.co.uk/sites/default/files/styles/details/public/2026-06/benimar-mileo-286-20260519_093932-970-660.webp?itok=OsMGElfa
+- `public/media/benimar-mileo-286-2026-precio-ficha-tecnica-detalle.webp` — no oficial — (foto sustituida 19/10/2026) —  — fuente: https://www.outandaboutlive.co.uk/sites/default/files/styles/details/public/2026-06/benimar-mileo-286-20260519_101346-970-660.webp?itok=sMkjegWp
 
 ## burstner-ixeo-it-680-g-2026-precio-ficha-tecnica
-- `public/media/burstner-ixeo-it-680-g-2026-precio-ficha-tecnica-oficial.webp` — OFICIAL —  — fuente: https://www.outandaboutlive.co.uk/sites/default/files/styles/details/public/images/review/57089/7b2f53ce-63d0-4b22-89bb-fe52125cd0bb.jpg.webp
-- `public/media/burstner-ixeo-it-680-g-2026-precio-ficha-tecnica-interior1.webp` — OFICIAL —  — fuente: https://www.outandaboutlive.co.uk/sites/default/files/styles/details/public/images/review/57089/f1f73917-d920-4dfb-a5c8-ca668c9e013e.jpg.webp
-- `public/media/burstner-ixeo-it-680-g-2026-precio-ficha-tecnica-interior2.webp` — OFICIAL —  — fuente: https://www.outandaboutlive.co.uk/sites/default/files/styles/details/public/images/review/57089/5b2ca0b2-e9b3-4916-a5e3-e3323cc17675.jpg.webp
-- `public/media/burstner-ixeo-it-680-g-2026-precio-ficha-tecnica-detalle.webp` — OFICIAL —  — fuente: https://www.outandaboutlive.co.uk/sites/default/files/styles/details/public/images/review/57089/5a184322-a17f-40e4-b97e-72a9f2f05118.jpg.webp
+- `public/media/burstner-ixeo-it-680-g-2026-precio-ficha-tecnica-oficial.webp` — no oficial — (foto sustituida 19/10/2026) —  — fuente: https://cdn.tibe.app/image/motor/storage/caravans/19052/gallery/img-9913jpeg-20260714090040.jpeg?w=1000&h=700&fit=crop&auto=compress%2Cenhance%2Cformat
+- `public/media/burstner-ixeo-it-680-g-2026-precio-ficha-tecnica-interior1.webp` — no oficial — (foto sustituida 19/10/2026) —  — fuente: https://cdn.tibe.app/image/motor/storage/caravans/19052/gallery/img-9919jpeg-20260714090046.jpeg?w=1000&h=700&fit=crop&auto=compress%2Cenhance%2Cformat
+- `public/media/burstner-ixeo-it-680-g-2026-precio-ficha-tecnica-interior2.webp` — no oficial — (foto sustituida 19/10/2026) —  — fuente: https://cdn.tibe.app/image/motor/storage/caravans/19052/gallery/img-9920jpeg-20260714090058.jpeg?w=1000&h=700&fit=crop&auto=compress%2Cenhance%2Cformat
+- `public/media/burstner-ixeo-it-680-g-2026-precio-ficha-tecnica-detalle.webp` — no oficial — (foto sustituida 19/10/2026) —  — fuente: https://cdn.tibe.app/image/motor/storage/caravans/19052/gallery/img-9918jpeg-20260714090045.jpeg?w=1000&h=700&fit=crop&auto=compress%2Cenhance%2Cformat
 
 ## burstner-elegance-i-920-g-2026-precio-ficha-tecnica
-- `public/media/burstner-elegance-i-920-g-2026-precio-ficha-tecnica-oficial.webp` — no oficial —  — fuente: https://www.motorhomedepot.com/media/size/product_zoom/18851-1f4b6ca7b1.jpeg
+- `public/media/burstner-elegance-i-920-g-2026-precio-ficha-tecnica-oficial.webp` — no oficial — (foto sustituida 19/10/2026) —  — fuente: https://www.outandaboutlive.co.uk/sites/default/files/styles/details/public/images/listing/70356/70356-CCOL-CLUEJB-118c23a-02-2024-burstner-elegance920g-w1vhk0hz2pn253486.jpeg.jpg.webp?itok=L7U6jKeD
 - `public/media/burstner-elegance-i-920-g-2026-precio-ficha-tecnica-interior1.webp` — no oficial —  — fuente: https://www.motorhomedepot.com/media/size/product_zoom/18851-ffdcfcd093.jpeg
 - `public/media/burstner-elegance-i-920-g-2026-precio-ficha-tecnica-interior2.webp` — no oficial —  — fuente: https://www.motorhomedepot.com/media/size/product_zoom/18851-42d6ea15db.jpeg
 - `public/media/burstner-elegance-i-920-g-2026-precio-ficha-tecnica-detalle.webp` — no oficial —  — fuente: https://www.motorhomedepot.com/media/size/product_zoom/18851-6a760b4ba9.jpeg
 
 ## carthago-chic-c-line-i-59-xl-le-2026-precio-ficha-tecnica
-- `public/media/carthago-chic-c-line-i-59-xl-le-2026-precio-ficha-tecnica-oficial.webp` — no oficial —  — fuente: https://www.camperis.com/media/cws/2026/03/18/17738296618810.jpeg
+- `public/media/carthago-chic-c-line-i-59-xl-le-2026-precio-ficha-tecnica-oficial.webp` — OFICIAL — (foto sustituida 19/10/2026) —  — fuente: https://www.carthago.com/wp-content/uploads/2026/03/fokuspoints-exterieur-c-line-I-5-9-xl-le-mercedes-weiss-fahraufnahme.webp
 - `public/media/carthago-chic-c-line-i-59-xl-le-2026-precio-ficha-tecnica-interior1.webp` — no oficial —  — fuente: https://www.camperis.com/media/cws/2026/03/18/17738296687955.jpeg
 - `public/media/carthago-chic-c-line-i-59-xl-le-2026-precio-ficha-tecnica-interior2.webp` — no oficial —  — fuente: https://www.camperis.com/media/cws/2026/03/18/177382966879611.jpeg
 - `public/media/carthago-chic-c-line-i-59-xl-le-2026-precio-ficha-tecnica-detalle.webp` — no oficial —  — fuente: https://www.camperis.com/media/cws/2026/03/18/17738296687956.jpeg
@@ -121,25 +121,25 @@ Pausa temporal 19/10/2026: 50 fichas de autocaravanas. Fotos con modelo+marca ex
 - `public/media/euramobil-contura-766-eb-2026-precio-ficha-tecnica-detalle.webp` — no oficial —  — fuente: https://www.braun-auto.de/fahrzeugangebot/eura-mobil/contura-766-eb-2026/messepreis-jkdr6k
 
 ## hobby-optima-de-luxe-t70-ge-2026-precio-ficha-tecnica
-- `public/media/hobby-optima-de-luxe-t70-ge-2026-precio-ficha-tecnica-oficial.webp` — no oficial — Unidad real Optima De Luxe T70 GE; verificada visualmente sin marcas de agua ni rótulos — fuente: https://www.caraworld.de/wohnmobile/hobby/optima-de-luxe/19771584/hobby-optima-de-luxe-t70
+- `public/media/hobby-optima-de-luxe-t70-ge-2026-precio-ficha-tecnica-oficial.webp` — no oficial — (foto sustituida 19/10/2026) — Unidad real Optima De Luxe T70 GE; verificada visualmente sin marcas de agua ni rótulos — fuente: https://www.caraworld.de/wohnmobile/hobby/optima-de-luxe/22216096/hobby-optima-de-luxe-t70-ge-automatik.html
 - `public/media/hobby-optima-de-luxe-t70-ge-2026-precio-ficha-tecnica-interior1.webp` — no oficial — Camas individuales del T70 GE; verificada visualmente — fuente: https://www.caravans.nl/hobby/hobby-optima-de-luxe-70-ge-9-super-compleet-1051210.html
 - `public/media/hobby-optima-de-luxe-t70-ge-2026-precio-ficha-tecnica-interior2.webp` — no oficial —  — fuente: https://www.caravan24.ch/chfr/campingcars/hobby/hobby-optima-t70-ge-de-luxe/detail/58095/
-- `public/media/hobby-optima-de-luxe-t70-ge-2026-precio-ficha-tecnica-detalle.webp` — no oficial —  — fuente: https://www.caraworld.de/wohnmobile/hobby/optima-de-luxe/19771584/hobby-optima-de-luxe-t70
+- `public/media/hobby-optima-de-luxe-t70-ge-2026-precio-ficha-tecnica-detalle.webp` — no oficial — (foto sustituida 19/10/2026) —  — fuente: https://www.truck1.lu/img/xxl/15971/Hobby-Optima-De-Luxe-T70-GE-Automatik-Allemagne_15971_9021732311966.jpg
 
 ## hobby-vantana-k60-ft-2026-precio-ficha-tecnica
-- `public/media/hobby-vantana-k60-ft-2026-precio-ficha-tecnica-oficial.webp` — no oficial —  — fuente: https://www.hunyvers.com/vehicule/camping-car-hobby-k60-ft-vantana-de-luxe-2024-33086
+- `public/media/hobby-vantana-k60-ft-2026-precio-ficha-tecnica-oficial.webp` — no oficial — (foto sustituida 19/10/2026) —  — fuente: https://www.truck1.li/wohnmobile/camper-vans/hobby-vantana-de-luxe-k60-ft-markise-navi-rfk-klima-a10245382.html
 - `public/media/hobby-vantana-k60-ft-2026-precio-ficha-tecnica-interior1.webp` — no oficial —  — fuente: https://www.hunyvers.com/vehicule/camping-car-hobby-k60-ft-vantana-de-luxe-2024-33086
-- `public/media/hobby-vantana-k60-ft-2026-precio-ficha-tecnica-interior2.webp` — no oficial —  — fuente: https://www.autoscout24.ch/de/d/hobby-vantana-k60-ft-de-luxe-automat-12031873
-- `public/media/hobby-vantana-k60-ft-2026-precio-ficha-tecnica-detalle.webp` — no oficial —  — fuente: https://www.lainvoima.com/kohde/236119
+- `public/media/hobby-vantana-k60-ft-2026-precio-ficha-tecnica-interior2.webp` — no oficial — (foto sustituida 19/10/2026) —  — fuente: https://www.passioncampingcar.fr/v%C3%A9hicules/hobby-vantana-de-luxe-k60ft
+- `public/media/hobby-vantana-k60-ft-2026-precio-ficha-tecnica-detalle.webp` — no oficial — (foto sustituida 19/10/2026) —  — fuente: https://suchen.mobile.de/fahrzeuge/details.html?id=456318453
 
 ## hymer-b-klasse-ml-i-780-2026-precio-ficha-tecnica
 - `public/media/hymer-b-klasse-ml-i-780-2026-precio-ficha-tecnica-oficial.webp` — OFICIAL — Foto de prensa oficial de Hymer del B-ML I 780 (material 'Lifestyle' de la marca) — fuente: https://www.campingcarlesite.com/essai-camping-car/62867-hymer-masterline-i-780-un-camping
 - `public/media/hymer-b-klasse-ml-i-780-2026-precio-ficha-tecnica-interior1.webp` — no oficial —  — fuente: https://www.schaffer-mobil.de/wohnmobile/marken/hymer/b-klasse-masterline/
 - `public/media/hymer-b-klasse-ml-i-780-2026-precio-ficha-tecnica-interior2.webp` — no oficial —  — fuente: https://www.motorhomes.co.uk/hymer/new/hymer-b-class-masterline-bml-i/hymer-b-class-m
-- `public/media/hymer-b-klasse-ml-i-780-2026-precio-ficha-tecnica-detalle.webp` — no oficial —  — fuente: https://www.hinshoj.dk/db/produkt/autocamper/brugt/hymer-masterline-bml--i780/180033
+- `public/media/hymer-b-klasse-ml-i-780-2026-precio-ficha-tecnica-detalle.webp` — no oficial — (foto sustituida 19/10/2026) —  — fuente: https://caravanmetropol.cz/produkt/hymer-b-ml-i-780-blackline
 
 ## hymer-free-600-campus-2026-precio-ficha-tecnica
-- `public/media/hymer-free-600-campus-2026-precio-ficha-tecnica-oficial.webp` — no oficial —  — fuente: https://www.braultloisirs.com/detailannonce-camping-car-345026.html
+- `public/media/hymer-free-600-campus-2026-precio-ficha-tecnica-oficial.webp` — no oficial — (foto sustituida 19/10/2026) —  — fuente: https://mycamper.ch/fahrzeuge/28707
 - `public/media/hymer-free-600-campus-2026-precio-ficha-tecnica-interior1.webp` — no oficial —  — fuente: https://nomadaslife.es/listings/hymer-free-600-con-techo-elevable/
 - `public/media/hymer-free-600-campus-2026-precio-ficha-tecnica-interior2.webp` — no oficial —  — fuente: https://www.caraworld.de/wohnmobile/hymer/free/21036182/hymer-free-campus-600-sie-spa
 - `public/media/hymer-free-600-campus-2026-precio-ficha-tecnica-detalle.webp` — no oficial —  — fuente: https://api.caravana.de/media/vehicles/hymer/hymer-free-600-campus-0e26ed/
@@ -151,34 +151,34 @@ Pausa temporal 19/10/2026: 50 fichas de autocaravanas. Fotos con modelo+marca ex
 - `public/media/knaus-sky-ti-700-meg-2026-precio-ficha-tecnica-detalle.webp` — no oficial — vista trasera 3/4, foto de prensa del fabricante — fuente: https://cdn.be.rentandtravel.de/medium-7353bc71-f989-4fb2-ad04-10235e238fb3.png
 
 ## knaus-van-ti-640-meg-vansation-2026-precio-ficha-tecnica
-- `public/media/knaus-van-ti-640-meg-vansation-2026-precio-ficha-tecnica-oficial.webp` — no oficial — vista lateral, unidad 640 MEG Vansation (mobile.de) — fuente: https://img.classistatic.de/api/v1/mo-prod/images/29/29c3fea3-8194-4487-8222-d2d3d63ca30e?rule=mo-1600
-- `public/media/knaus-van-ti-640-meg-vansation-2026-precio-ficha-tecnica-interior1.webp` — no oficial — salón y cocina — fuente: https://dg8campingcar.com/wp-content/uploads/2025/08/1_65767_7.jpg
+- `public/media/knaus-van-ti-640-meg-vansation-2026-precio-ficha-tecnica-oficial.webp` — no oficial — (foto sustituida 19/10/2026) — vista lateral, unidad 640 MEG Vansation (mobile.de) — fuente: https://www.france-vdl.fr/annonces/images/cote_830_campingcar_e_IMG_1532.jpeg
+- `public/media/knaus-van-ti-640-meg-vansation-2026-precio-ficha-tecnica-interior1.webp` — no oficial — (foto sustituida 19/10/2026) — salón y cocina — fuente: https://api.caravana.de/media/vehicles/knaus/knaus-van-ti-vw-vansation-640-meg-a5fb71/wohnmobil-knaus-van-ti-vw-vansation-640-meg-2026-2-schlafplaetze-neuwagen-8.jpg
 - `public/media/knaus-van-ti-640-meg-vansation-2026-precio-ficha-tecnica-interior2.webp` — no oficial — camas gemelas traseras (foto de prueba de la revista) — fuente: https://reisemobil-international.de/wp-content/uploads/2022/07/Knaus-Van-Ti-640-MEG-Vansation-Auswahl-39.jpg
-- `public/media/knaus-van-ti-640-meg-vansation-2026-precio-ficha-tecnica-detalle.webp` — no oficial — vista trasera 3/4 con portabicicletas (mobile.de) — fuente: https://img.classistatic.de/api/v1/mo-prod/images/f4/f45d09c6-0d41-44fc-a952-ae57769719a7?rule=mo-1600
+- `public/media/knaus-van-ti-640-meg-vansation-2026-precio-ficha-tecnica-detalle.webp` — no oficial — (foto sustituida 19/10/2026) — vista trasera 3/4 con portabicicletas (mobile.de) — fuente: https://api.caravana.de/media/vehicles/knaus/knaus-van-ti-vw-vansation-640-meg-fecbcf/wohnmobil-knaus-van-ti-vw-vansation-640-meg-2024-2-schlafplaetze-gebraucht-12.jpg
 
 ## laika-kosmo-h-1319-2026-precio-ficha-tecnica
-- `public/media/laika-kosmo-h-1319-2026-precio-ficha-tecnica-oficial.webp` — no oficial — vista delantera 3/4, unidad H 1319 nueva — fuente: https://www.campersoimex.it/wp-content/uploads/2025/12/23103924_E_u41grftis27oj.jpg
+- `public/media/laika-kosmo-h-1319-2026-precio-ficha-tecnica-oficial.webp` — no oficial — (foto sustituida 19/10/2026) — vista delantera 3/4, unidad H 1319 nueva — fuente: https://reisemobil-international.de/wp-content/uploads/2024/03/Probefahrt-Laika-Kosmo-H-1319-9.jpg
 - `public/media/laika-kosmo-h-1319-2026-precio-ficha-tecnica-interior1.webp` — no oficial — cocina, unidad H 1319 nueva — fuente: https://www.campersoimex.it/wp-content/uploads/2025/12/23103924_E_74rs59fmtvqu0.jpg
 - `public/media/laika-kosmo-h-1319-2026-precio-ficha-tecnica-interior2.webp` — no oficial — salón y camas traseras, unidad H 1319 (caraworld) — fuente: https://cdn.caraworld.com/bilder/i/020/289/339/20289339-3-728-0.webp
 - `public/media/laika-kosmo-h-1319-2026-precio-ficha-tecnica-detalle.webp` — no oficial — vista trasera 3/4 (foto de prueba de la revista) — fuente: https://reisemobil-international.de/wp-content/uploads/2024/03/Probefahrt-Laika-Kosmo-H-1319-9.jpg
 
 ## laika-kreos-h-5109-2026-precio-ficha-tecnica
-- `public/media/laika-kreos-h-5109-2026-precio-ficha-tecnica-oficial.webp` — no oficial — vista delantera 3/4 en salón de exposición — fuente: https://images.campersite.nl/ed43c5b283407c21d263ba669fb6b04c4124f8fedc72a6fc72a25ded3b90aa64.jpg/xlarge/normalfitcanvas/blank/jpg
+- `public/media/laika-kreos-h-5109-2026-precio-ficha-tecnica-oficial.webp` — OFICIAL — (foto sustituida 19/10/2026) — vista delantera 3/4 en salón de exposición — fuente: https://camperlife.it/sites/default/files/inline-images/camperlife-motorhome-laika-kreos-h-5109_009.jpeg
 - `public/media/laika-kreos-h-5109-2026-precio-ficha-tecnica-interior1.webp` — no oficial — salón comedor (motorhomes.co.uk) — fuente: https://mercury-auto.fra1.digitaloceanspaces.com/erwin_hymer_motorhomes_ZA5h5k/2026-Mar/800x533/La/Laik/laika-kmh5109-0025-custom-jpg1772452976.webp
 - `public/media/laika-kreos-h-5109-2026-precio-ficha-tecnica-interior2.webp` — no oficial — cocina con muebles de nogal (mobile.de) — fuente: https://img.classistatic.de/api/v1/mo-prod/images/ff/ff69b02e-b307-48d0-a71b-73623994b5af?rule=mo-1600
 - `public/media/laika-kreos-h-5109-2026-precio-ficha-tecnica-detalle.webp` — no oficial — vista trasera en feria (camperstyle.fr) — fuente: https://camperstyle.fr/wp-content/uploads/2023/09/laika-kreos-h-5109-von-hinten-1280x854.jpg
 
 ## niesmann-bischoff-arto-88-lf-2026-precio-ficha-tecnica
-- `public/media/niesmann-bischoff-arto-88-lf-2026-precio-ficha-tecnica-oficial.webp` — no oficial — vista delantera 3/4, unidad Arto 88 nueva (generación Sprinter) — fuente: https://www.caravana.de/_next/image?url=http%3A%2F%2Fapi.caravana.de%2Fmedia%2Fvehicles%2Fniesmann-bischoff%2Fniesmann-bischoff-arto-88-ff07a1%2Fwohnmobil-niesmann-bischoff-arto-88-2025-2-schlafplaetze-neuwagen-1.jpg&w=828&q=75
+- `public/media/niesmann-bischoff-arto-88-lf-2026-precio-ficha-tecnica-oficial.webp` — OFICIAL — (foto sustituida 19/10/2026) — vista delantera 3/4, unidad Arto 88 nueva (generación Sprinter) — fuente: https://www.niesmann-bischoff.com/wp-content/uploads/2026/09/NiesmannBischoff-Arto-88-1536x864.jpg
 - `public/media/niesmann-bischoff-arto-88-lf-2026-precio-ficha-tecnica-interior1.webp` — OFICIAL — foto oficial de prensa del fabricante (dormitorio, acabado oliva) — fuente: https://www.niesmann-bischoff.com/wp-content/uploads/2024/07/NIESMANNBISCHOFF-Arto-88-Heckwand-in-Olive-1024x819.jpg
 - `public/media/niesmann-bischoff-arto-88-lf-2026-precio-ficha-tecnica-interior2.webp` — OFICIAL — foto oficial de prensa del fabricante (dormitorio, acabado claro) — fuente: https://www.niesmann-bischoff.com/wp-content/uploads/2024/07/NIESMANNBISCHOFF-Arto-88-Heckwand-in-weiss.jpg
-- `public/media/niesmann-bischoff-arto-88-lf-2026-precio-ficha-tecnica-detalle.webp` — no oficial — vista lateral 3/4 (campersite.nl) — fuente: https://images.campersite.nl/d177ba1fa0e53777ef0bf5a5e0a7dc957dd6e9f109a2e14ddf029f76060b55e9.jpg/xlarge/normalfitcanvas/blank/webp
+- `public/media/niesmann-bischoff-arto-88-lf-2026-precio-ficha-tecnica-detalle.webp` — no oficial — (foto sustituida 19/10/2026) — vista lateral 3/4 (campersite.nl) — fuente: https://abobil.no/wp-content/uploads/2026/01/NIESMANNBISCHOFF-Arto-88-Kueche-mit-ausreichend-Stauraum-Screen-1024x683.jpg
 
 ## pilote-p720fgj-evidence-2026-precio-ficha-tecnica
-- `public/media/pilote-p720fgj-evidence-2026-precio-ficha-tecnica-oficial.webp` — no oficial —  — fuente: https://www.tpl.fr/storage/17731/conversions/32876_19-large.webp
+- `public/media/pilote-p720fgj-evidence-2026-precio-ficha-tecnica-oficial.webp` — OFICIAL — (foto sustituida 19/10/2026) —  — fuente: https://www.pilote.fr/app/uploads/2026/08/camping-car-profile-evidence-exterieur-carre-2048px-1024x1024.webp
 - `public/media/pilote-p720fgj-evidence-2026-precio-ficha-tecnica-interior1.webp` — no oficial —  — fuente: https://www.ypocamp.fr/sites/default/files/styles/vehicule_detail/public/node/annonce/images/PILOTE%20P%20720%20FGJ%20SELECTION%20%28vn%2059%202026%29_Camping-car%20%20PILOTE%20P%20720%20FGJ%20SELECTION%20-S%C3%A9rie%20PRINTEMPS-%20Neuf_img_7.jpg?itok=UGIgbKq2
 - `public/media/pilote-p720fgj-evidence-2026-precio-ficha-tecnica-interior2.webp` — no oficial —  — fuente: https://api-v3.wikicampers.fr/medias/cache/photo_gallery_thumb/uploads//media/vehicule/0056/89/a9b0fd17f082f4052590943bb0990d9e139f0d86.jpeg
-- `public/media/pilote-p720fgj-evidence-2026-precio-ficha-tecnica-detalle.webp` — no oficial —  — fuente: https://os-static.empori.se/onlineshowroom/38702b93-4599-4cd1-8926-7d24280cc8dc/dmVoaWNsZTo5NDMx/Photo_09-10-2025__12_34_38.jpg?v=638956082960000000
+- `public/media/pilote-p720fgj-evidence-2026-precio-ficha-tecnica-detalle.webp` — no oficial — (foto sustituida 19/10/2026) —  — fuente: https://m3caravaning.com/wp-content/uploads/2026/03/autocaravana_nueva_pilote_p720_fgj_evidence-22-800x600-1-800x535.jpg
 
 ## pilote-vega-v630j-2026-precio-ficha-tecnica
 - `public/media/pilote-vega-v630j-2026-precio-ficha-tecnica-oficial.webp` — OFICIAL —  — fuente: https://www.camperonline.it/ckfinder/userfiles/images/DSC_9883.JPG
@@ -187,16 +187,16 @@ Pausa temporal 19/10/2026: 50 fichas de autocaravanas. Fotos con modelo+marca ex
 - `public/media/pilote-vega-v630j-2026-precio-ficha-tecnica-detalle.webp` — no oficial —  — fuente: https://media.idylcar.fr/vehicles/LAO-2606-28954/gallery/fb02c360-ed81-4f85-9ae5-092b8e151ca3-IMG_4103.jpeg.webp
 
 ## possl-summit-540-2026-precio-ficha-tecnica
-- `public/media/possl-summit-540-2026-precio-ficha-tecnica-oficial.webp` — no oficial —  — fuente: https://api.caravana.de/media/vehicles/poessl/poessl-summit-shine-540-citroen-140-ps-1e47fb/wohnmobil-poessl-summit-shine-540-citroen-140-ps-2026-2-schlafplaetze-neuwagen-1.jpg
+- `public/media/possl-summit-540-2026-precio-ficha-tecnica-oficial.webp` — no oficial — (foto sustituida 19/10/2026) —  — fuente: https://storage.mycamper.com/assets/27674/NFlEhhIPjj1bPyYJPSJNRW1MUgjafTlQsj8fEcCv.jpg
 - `public/media/possl-summit-540-2026-precio-ficha-tecnica-interior1.webp` — no oficial —  — fuente: https://cdn.caraworld.com/bilder/i/024/672/537/24672537-3-728-0.webp
 - `public/media/possl-summit-540-2026-precio-ficha-tecnica-interior2.webp` — no oficial —  — fuente: https://cdn.caraworld.com/bilder/i/024/672/536/24672536-3-728-0.webp
 - `public/media/possl-summit-540-2026-precio-ficha-tecnica-detalle.webp` — OFICIAL —  — fuente: https://www.caravan-wendt.de/images/konfigurator/2026/poessl-summit-540_w540.jpg
 
 ## possl-trenta-600-r-2026-precio-ficha-tecnica
-- `public/media/possl-trenta-600-r-2026-precio-ficha-tecnica-oficial.webp` — no oficial —  — fuente: https://img.classistatic.de/api/v1/mo-prod/images/e1/e1324b57-0c6c-4963-a196-56ff53cc0d2b?rule=mo-1600
+- `public/media/possl-trenta-600-r-2026-precio-ficha-tecnica-oficial.webp` — no oficial — (foto sustituida 19/10/2026) —  — fuente: https://img.classistatic.de/api/v1/mo-prod/images/ad/add6ae02-5996-44e0-8d44-dd9f306619ab?rule=mo-1600
 - `public/media/possl-trenta-600-r-2026-precio-ficha-tecnica-interior1.webp` — no oficial —  — fuente: https://www.womo-liste.de/images/media/30/280/600r_22_06.jpg
 - `public/media/possl-trenta-600-r-2026-precio-ficha-tecnica-interior2.webp` — no oficial —  — fuente: https://nomadaslife.es/wp-content/uploads/2023/11/IMG-20231108-WA0046-1536x1152.jpg
-- `public/media/possl-trenta-600-r-2026-precio-ficha-tecnica-detalle.webp` — no oficial —  — fuente: https://api.caravana.de/media/vehicles/poessl/poessl-trenta-600-r-b4cf5e/wohnmobil-poessl-trenta-600-r-2024-3-schlafplaetze-neuwagen-4.jpg
+- `public/media/possl-trenta-600-r-2026-precio-ficha-tecnica-detalle.webp` — no oficial — (foto sustituida 19/10/2026) —  — fuente: https://img.classistatic.de/api/v1/mo-prod/images/f9/f9bfbf2a-7b3a-4005-9a95-99172cab9d00?rule=mo-1600
 
 ## rapido-896f-2026-precio-ficha-tecnica
 - `public/media/rapido-896f-2026-precio-ficha-tecnica-oficial.webp` — OFICIAL —  — fuente: https://shapi.camperparkemporda.com/wp-content/uploads/Rapido-896F-1.webp
@@ -205,7 +205,7 @@ Pausa temporal 19/10/2026: 50 fichas de autocaravanas. Fotos con modelo+marca ex
 - `public/media/rapido-896f-2026-precio-ficha-tecnica-detalle.webp` — no oficial —  — fuente: https://cdn.yakartautocaravanas.com/s/c/vehiculos/images/1452/zoom/23578.jpg
 
 ## rapido-c55-2026-precio-ficha-tecnica
-- `public/media/rapido-c55-2026-precio-ficha-tecnica-oficial.webp` — OFICIAL — Render oficial Rapido Suecia (web oficial de la marca). 600x354 px. — fuente: https://www.rapido-husbil.se/dist/images/fiche-produit/profils/600-338/c55.png
+- `public/media/rapido-c55-2026-precio-ficha-tecnica-oficial.webp` — OFICIAL — (foto sustituida 19/10/2026) — Render oficial Rapido Suecia (web oficial de la marca). 600x354 px. — fuente: https://www.rapido-motorhome.be/nl/dist/images/fiche-produit/profils/600-338/c55.png
 - `public/media/rapido-c55-2026-precio-ficha-tecnica-interior1.webp` — no oficial — Salón en L de un C55 Night Edition 2025 (perfilado, modelo exacto). Sin marcas de agua. — fuente: https://www.cocv.ypocamp.fr/sites/default/files/styles/vehicule_detail/public/node/annonce/images/RAPIDO%20C%2055%20NIGHT%20EDITION%20-%202025%20-%20VF3YGF8A6R2Z73891_Camping-car%20%20RAPIDO%20C%2055%20NIGHT%20EDITION%20Neuf_img_3.jpg?itok=0zb2iC6y
 - `public/media/rapido-c55-2026-precio-ficha-tecnica-interior2.webp` — no oficial — Pasillo/cocina de un C55 (modelo exacto). Sin marcas de agua. — fuente: https://www.tederent.pt/wp-content/uploads/2025/06/PHOTO-2025-07-24-09-56-11_3.jpg
 - `public/media/rapido-c55-2026-precio-ficha-tecnica-detalle.webp` — OFICIAL — Baño Duo'Space oficial Rapido Bélgica (web oficial de la marca). — fuente: https://www.rapido-motorhome.be/nl/dist/images/fiche-produit/photos/1600-896-bd/c55-2-camping-car.jpg
