@@ -472,3 +472,86 @@ Rama **`merlin-radares-asturias`** @ `1c035917` (rebaseada sobre main `1cd07f4c`
 - **`tsc = 0` no verificable desde aquí** (sin node_modules): te ofreciste a pasarlo tú al integrar.
 
 **Criterios radares 7-10 anotados** (límite genérico RGC art. 48 ≠ «límite del radar»; dudosos AP-66 pk 66,8 / GJ-81 pk 2,0 / N-125 pk 5,7/7,8 como «límite pendiente»; N-632 = 90; municipios sin CartoCiudad vacíos; n-632-98-8 / n-632-100-4 con anomalía anotada; radares en noindex hasta tanda completa y revisión de Cumplimiento). **LOTE 2 YA** (`merlin-autocaravanas-lote-2`): en marcha en paralelo — aviso propio cuando esté.
+---
+
+## 2026-10-19 ~09:50 CEST · @grok lote listo autocaravanas-final fotos-curiosidades
+
+**Rama:** `merlin-autocaravanas-final` @ `69cc38eb54e4406a113ef8676fc2b03ccde65ffb` (lineal, sin force)
+
+**Orden ejecutada:** fotos oficiales (2+ interiores + 1+ exterior por ficha) + curiosidad con fuente en las 44 del lote (+6 fuera del lote, en noindex) + fix McLouis + afinar-todo. 20 agentes en paralelo, 18 commits de integración + 1 de créditos.
+
+**Resultado: 36/50 fichas cumplen la regla de fotos** (2+ int oficiales y 1+ ext oficial). Las 14 que no cumplen quedan documentadas abajo — el fabricante no publica fotos oficiales del modelo exacto. **Las 50 tienen curiosidad con fuente enlazada** (verificada, nada inventado).
+
+**McLouis MC4 231 ✓:** `cargaUtilKg=null` + texto «McLouis publica una carga útil de 602 a 742 kg según equipamiento (catálogo 2022)» con fuente.
+
+**No cumplen la regla de fotos (14):**
+- `benimar-amphitryon-940-2026-precio-ficha-tecnica`: 0 int / 0 ext oficiales — Benimar no publica fotos oficiales del modelo exacto.
+- `benimar-mileo-243-2026-precio-ficha-tecnica`: 0 int / 0 ext oficiales — Benimar no publica fotos oficiales del modelo exacto.
+- `benimar-sport-340-up-2026-precio-ficha-tecnica`: 0 int / 0 ext oficiales — Benimar no publica fotos oficiales del modelo exacto.
+- `burstner-lyseo-td-690-g-2026-precio-ficha-tecnica`: 0 int / 1 ext oficiales — solo 1 ext oficial; 0 int oficiales del modelo exacto.
+- `chausson-640-titanium-2026-precio-ficha-tecnica`: 1 int / 1 ext oficiales — 1+1 oficiales; faltan interiores del modelo exacto.
+- `chausson-777-titanium-line-2026-precio-ficha-tecnica`: 1 int / 0 ext oficiales — 1 int oficial; 0 ext oficiales del modelo exacto.
+- `ci-horon-84-xt-2026-precio-ficha-tecnica`: 1 int / 1 ext oficiales — 1+1 oficiales; faltan interiores del modelo exacto.
+- `dethleffs-trend-t-6717-eb-2026-precio-ficha-tecnica`: 0 int / 0 ext oficiales — Dethleffs no publica fotos oficiales del modelo exacto.
+- `fleurette-baxter-68-lmc-2026-precio-ficha-tecnica`: 2 int / 0 ext oficiales — 2 int oficiales; 0 ext oficiales del modelo exacto.
+- `laika-ecovip-600-2026-precio-ficha-tecnica`: 0 int / 0 ext oficiales — sin fotos oficiales reales; render oficial en corte añadido como apoyo.
+- `laika-kosmo-l-319-2026-precio-ficha-tecnica`: 0 int / 0 ext oficiales — sin fotos oficiales reales del modelo exacto.
+- `mclouis-mc4-231-2026-precio-ficha-tecnica`: 0 int / 1 ext oficiales — 0 int oficiales; 1 ext oficial. Fix cargaUtilKg=null aplicado.
+- `pilote-g740fgj-evidence-2026-precio-ficha-tecnica`: 1 int / 3 ext oficiales — 3 ext oficiales; solo 1 int oficial del modelo exacto.
+- `xgo-x-van-104-2026-precio-ficha-tecnica`: 0 int / 1 ext oficiales — 1 ext oficial (gama, no específica); 0 int oficiales.
+
+**Lote 2** (`merlin-autocaravanas-lote-2` @ `9a768d45`): Benimar Tessoro T481 completa (4 fotos oficiales + ficha). Auditoría del trabajo del otro coordinador (agentes A–E): 49 fichas con fotos (4 por ficha, fuentes mixtas oficial/prensa/concesionario) pero **0 curiosidades** — pendiente aplicar la regla nueva de curiosidad con fuente. No lo pisé.
+
+**Tabla completa (slug | n_int_oficial | n_ext_oficial | curiosidad):**
+| slug | n_int_oficial | n_ext_oficial | curiosidad (fuente) |
+|---|---|---|---|
+| adria-coral-plus-670-sl-2026-precio-ficha-tecnica ✓ | 2 | 2 | sí (https://www.adria-mobil.com/motorhomes/coral) |
+| adria-twin-supreme-640-sgx-2026-precio-ficha-tecnica ✓ | 2 | 2 | sí (https://www.adria-mobil.com/vans/twin) |
+| ahorncamp-t-690-2026-precio-ficha-tecnica ✓ | 2 | 3 | sí (https://ahorn-camp.de/ahorn-reisemobile/t-690-eclipse/) |
+| bavaria-i740fgj-nomade-2026-precio-ficha-tecnica ✓ | 3 | 1 | sí (https://www.bavaria-camping-car.com/integral/i740fgj-nomade/) |
+| benimar-amphitryon-940-2026-precio-ficha-tecnica ✗ | 0 | 0 | sí (https://motorvision.es/pdf/generados/w0157074w.pdf) |
+| benimar-mileo-243-2026-precio-ficha-tecnica ✗ | 0 | 0 | sí (https://landing.benimar.es/) |
+| benimar-sport-340-up-2026-precio-ficha-tecnica ✗ | 0 | 0 | sí (https://caravaningplaza.com/vehiculos/benimar-sport-340/) |
+| burstner-lyseo-td-690-g-2026-precio-ficha-tecnica ✗ | 0 | 1 | sí (https://www.motorhomesforsale.co.nz/resources/blog/the-top-five-innovations-of-b%C3%BCrstn) |
+| campereve-magellan-643-2026-precio-ficha-tecnica ✓ | 0 | 0 | sí (https://en.wikipedia.org/wiki/Rapido_Group) |
+| carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica ✓ | 2 | 1 | sí (https://camprest.com/en/vehicles/55366 (exposé concesionario autorizado Carthago Dandis)) |
+| challenger-v114-start-edition-2026-precio-ficha-tecnica ✓ | 3 | 1 | sí (https://www.challenger-motorhomes.com/model/v114/ (página oficial del modelo)) |
+| chausson-640-titanium-2026-precio-ficha-tecnica ✗ | 1 | 1 | sí (https://www.chausson-motorhomes.com/universe-chausson/background/ (historial oficial de Ch) |
+| chausson-777-titanium-line-2026-precio-ficha-tecnica ✗ | 1 | 0 | sí (https://www.motorhomes-chausson.co.uk/line/low-profiles/ («the twin bed low-profile leadin) |
+| ci-horon-84-xt-2026-precio-ficha-tecnica ✗ | 1 | 1 | sí (https://camperlife.it/notizie/salone-del-camper-2018-novita-ci.html) |
+| dethleffs-trend-t-6717-eb-2026-precio-ficha-tecnica ✗ | 0 | 0 | sí (https://www.outandaboutlive.co.uk/motorhomes/articles/general/dethleffs-motorhomes-2023-es) |
+| dreamer-d55-fun-up-2026-precio-ficha-tecnica ✓ | 3 | 2 | sí (https://www.reisemobile-staudt.de/wp-content/uploads/2025/08/DREAMER_CATA_2026_EXPORT_BD_A) |
+| elnagh-baron-565-2026-precio-ficha-tecnica ✓ | 2 | 1 | sí (https://trigano.com/en/the-group/history/) |
+| etrusco-t-7400-sb-2026-precio-ficha-tecnica ✓ | 0 | 0 | sí (https://www.firmenpresse.de/pressrelease689729/etrusco-brand-portrait-motorhomes-for-those) |
+| euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica ✓ | 2 | 1 | sí (https://www.caravanclub.co.uk/whats-on/awards/motorhome-design-awards/eura-mobil/) |
+| fleurette-baxter-68-lmc-2026-precio-ficha-tecnica ✗ | 2 | 0 | sí (https://www.fleurette-florium.fr/wp-content/uploads/2022/08/catalogue-fleurette-florium-co) |
+| font-vendome-mondea-2026-precio-ficha-tecnica ✓ | 2 | 1 | sí (https://docs.campingcar-infos.com/docs/Font-Vendome%20(vans)/FontVendome%202026%20Mondea.p) |
+| frankia-neo-i-7-gdk-2026-precio-ficha-tecnica ✓ | 3 | 1 | sí (https://www.frankia.com/wohnmobile-reisemobile/neo/frankia-neo-mi-7 (placa solar + batería) |
+| giottiline-siena-322-2026-precio-ficha-tecnica ✓ | 2 | 2 | sí (https://www.camperonline.it/magazine/2021/04/30/giottiline-siena-322/print/ (garaje traser) |
+| globecar-globescout-plus-2026-precio-ficha-tecnica ✓ | 0 | 0 | sí (https://www.derfreistaat.de/en/the-freistaat/5-strong-dealers-for-motorhomes-and-caravans/) |
+| hobby-optima-ontour-edition-f-v65-ge-2026-precio-ficha-tecnica ✓ | 3 | 1 | sí (https://mediaportal.hobby-caravan.de/en/press-releases/) |
+| hymer-b-mc-i-600-2026-precio-ficha-tecnica ✓ | 2 | 1 | sí (https://www.hymer.com/de/en/home/hymermobil-b-class-moderncomfort/p/40926) |
+| hymer-grand-canyon-s-2026-precio-ficha-tecnica ✓ | 2 | 1 | sí (https://www.hymer.com/es/es/premios) |
+| hymer-ml-t-580-4x4-2026-precio-ficha-tecnica ✓ | 2 | 1 | sí (https://www.hymer.com/es/es/premios) |
+| itineo-pf600-2026-precio-ficha-tecnica ✓ | 3 | 1 | sí (https://histoire.rapido.fr/rapido_50ans_groupe.php + https://www.itineo.com/camping-car_pf) |
+| knaus-boxlife-600-mq-2026-precio-ficha-tecnica ✓ | 2 | 2 | sí (https://www.knaus.com/es-es/camper-vans-campers/boxlife-platinum-selection) |
+| knaus-sky-ti-650-meg-2026-precio-ficha-tecnica ✓ | 2 | 2 | sí (https://www.outandaboutlive.co.uk/motorhomes/news/buying-advice/knaus-motorhomes-and-campe) |
+| laika-ecovip-600-2026-precio-ficha-tecnica ✗ | 0 | 0 | sí (Página oficial del modelo en laika.it (captura Wayback 2025): https://web.archive.org/web/) |
+| laika-kosmo-l-319-2026-precio-ficha-tecnica ✗ | 0 | 0 | sí (Comunicado oficial de prensa Laika «The new generation of Kosmo: Born to be a Laika» (jul ) |
+| mclouis-mc4-231-2026-precio-ficha-tecnica ✗ | 0 | 1 | sí (https://www.mclouis.com/mclouis-presents-the-series-200/) |
+| mobilvetta-k-yacht-tekno-line-86-2026-precio-ficha-tecnica ✓ | 3 | 1 | sí (https://mobilvetta.it/es/estilo-italiano-mobilvetta-producto-seleccionado-por-adi/) |
+| mooveo-tei-60fb-2026-precio-ficha-tecnica ✓ | 0 | 0 | sí (https://camprest.com/en/blog/motorhome-caravan-news/mooveo-enters-poland) |
+| niesmann-bischoff-ismove-69-e-2026-precio-ficha-tecnica ✓ | 2 | 2 | sí (https://www.niesmann-bischoff.com/en/presse/promobil-readers-choice-awards-2026/) |
+| pilote-g740fgj-evidence-2026-precio-ficha-tecnica ✗ | 1 | 3 | sí (https://docs.campingcar-infos.com/docs/Pilote/Pilote%202024%20Catalogue.pdf) |
+| pilote-v600g-2026-precio-ficha-tecnica ✓ | 2 | 2 | sí (https://www.pilote.fr/notre-histoire/) |
+| possl-2win-plus-2026-precio-ficha-tecnica ✓ | 0 | 0 | sí (https://de.wikipedia.org/wiki/P%C3%B6ssl_Freizeit_und_Sport) |
+| rapido-606f-2026-precio-ficha-tecnica ✓ | 2 | 1 | sí (https://espritcampingcar.com/rapido-606f-raffinement-et-elegance/) |
+| rapido-v55-2026-precio-ficha-tecnica ✓ | 0 | 0 | sí (https://www.rapido-camping-car.fr/inc/rapido_nouveautes_les-fourgons_camping-car-serie-van) |
+| rimor-superbrig-687-tc-2026-precio-ficha-tecnica ✓ | 3 | 1 | sí (https://www.rimor.it/it/es/about/chi-siamo) |
+| roller-team-auto-roller-746-2026-precio-ficha-tecnica ✓ | 2 | 1 | sí (https://www.outandaboutlive.co.uk/reviews/motorhomes/roller-team-auto-roller-746-1) |
+| sunlight-a-70-2026-precio-ficha-tecnica ✓ | 2 | 1 | sí (https://www.sunlight.de/modelle/reisemobile/alkoven/a-70/) |
+| sunlight-cliff-640-2026-precio-ficha-tecnica ✓ | 2 | 1 | sí (https://www.sunlight.de/es/modelos/camper-vans/cliff-adventure/cliff-640-adventure/) |
+| sunlight-t-68-2026-precio-ficha-tecnica ✓ | 2 | 1 | sí (https://www.sunlight.de/en-int/models/motorhomes/low-profile-motorhomes-adventure/t-68-adv) |
+| weinsberg-carabus-grey-edition-fire-600-mq-2026-precio-ficha-tecnica ✓ | 2 | 2 | sí (https://weinsberg.com/en-uk/camper-vans/grey-edition-fire/layout-plans/600-mq/) |
+| westfalia-columbus-600d-2026-precio-ficha-tecnica ✓ | 2 | 2 | sí (https://westfalia-mobil.com/en/motorhomes/columbus-600-d/) |
+| xgo-x-van-104-2026-precio-ficha-tecnica ✗ | 0 | 1 | sí (https://www.xgomove.it/) |
