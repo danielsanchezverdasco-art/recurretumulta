@@ -12,6 +12,15 @@
 
 Hablamos del **pk 299,5 de la A-40**, en la provincia de Cuenca. El cinemómetro apunta al **sentido creciente** (dirección de pk crecientes). La provincia —Cuenca— es la que la DGT asigna al punto en su campo administrativeArea; el municipio no se publica. El control fijo de la DGT más próximo es el de la **A-3, pk 136,0** (sentido decreciente), a 33,2 km hacia el suroeste. El segundo control más cercano es el de la **A-3, pk 156,6** (sentido creciente), a 46,3 km hacia el sur. El paisaje circundante es el de la meseta sur: llano, abierto y con largas rectas que invitan a acelerar.
 
+<iframe title="Mapa: radar a-40-299-5-creciente-cabina" src="https://www.google.com/maps?q=40.07263,-2.26914&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-40-299-5-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.07263,-2.26914&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La vía es la A-40: la Autovía de Castilla-La Mancha, eje este-oeste que conecta la A-5 con la A-3. Esta autovía da servicio tanto a quien cruza la región como a quien se mueve entre pueblos próximos. Este punto figura en el dataset de radares fijos por ser proclive a las velocidades inadecuadas. Es el único control de la DGT publicado para la A-40 en Castilla-La Mancha. Es el único control de la DGT publicado para la A-40 en Castilla-La Mancha. En definitiva, un tramo donde la disciplina con el acelerador marca la diferencia. La vía no perdona las distracciones: mantener la vista al frente es tan importante como controlar la velocidad.
