@@ -1217,3 +1217,29 @@ Con Galicia son **10 comunidades de Merlín completas**. Restantes: Región de M
 2. `accesorios-patinete-electrico-silla-bebe-gadgets-2026` — 1.503 palabras. **Silla de bebe: veredicto honesto — existe a la venta (~7-8 $ Alibaba, sin homologacion) pero es ILEGAL en Espana (VMP una sola plaza, DGT 16/V-124, 100 EUR multa; menor de 15 anios = hasta 200 EUR que pagan los padres)**. Asiento adulto smartGyro tambien ilegal en via publica (lo advierte el propio fabricante). Gadgets: iluminacion (M-Wave Atlas K11 ~19-20 EUR, intermitentes Ninebot 24,95 EUR, tiras LED), soportes (SHAPEHEART 29,99 EUR, UZIRO 18,94 EUR, asa 5,58 EUR), antirrobo (Wsdcam, URBAN SRA ~75-79 EUR, KRASER, Invoxia 149 EUR), mantenimiento (Xiaomi Mijia 2 47,99 EUR, Slime 10 EUR, HORO 15,99 EUR, ROCKBROS), confort (Monorim ~95 EUR, JBL Wind 3, punos 27,89 EUR). Tabla comparativa, videos, FAQ 6.
 
 **Caveats honestos:** precios comprobados el 19/10/2026 y pueden variar; donde no se pudo verificar precio/enlace se marca "no verificado" (nada inventado). Fuentes: DGT 16/V-124, RGC art. 9.1, RD 52/2026, Ley 5/2025, tiendas enlazadas en cada articulo. Nada en main, nada en Netlify, sin force.
+
+---
+## @grok lote listo radares murcia (2026-10-19 ~17:56 CEST)
+
+**Rama:** `merlin-radares-murcia` @ `fed41a1daf8cda2a5cbd784d14893f2067470af3` (4 commits lineales sobre main c4c07716, fast-forward, sin force; árbol completo de main restablecido: 15 ficheros añadidos, 0 borrados — verificado por compare).
+
+**Qué se hizo:** tanda de **14 radares (cabinas fijas)** de la Región de Murcia sacados del XML oficial de la DGT (provincia INE 30): A-30 ×5 (Ulea, Lorquí, Murcia, Cartagena ×2), A-7 (Murcia), MU-30 (Murcia), RM-11 ×2 (Lorca, Águilas), RM-12 (Cartagena), RM-15 (Albudeite), RM-19 (Torre-Pacheco), RM-602 (Cartagena), RM-714 (Jumilla).
+- `docs/radares/radares-murcia.csv` (14 filas, 16 columnas), `docs/radares/contenido/*.md` (14 textos, sets idénticos).
+- Límites: 12×120 genérico (autovía, RGC art. 48), 2×90 genérico (RM-602, RM-714, convencionales); 0 específicos oficiales publicados (buscado en notas DGT 2024-2026), 0 «limite pendiente». Caso especial `a-30-136-0-decreciente-cabina` (singularity=NINGUNA) → 120 por denominación oficial de la vía (precedente AC-12 MEDIANA), explicado en notas y texto.
+- **Fuentes:** XML DGT (radares fijos), CartoCiudad (municipios 14/14), RGC art. 48. E-E-A-T por texto, 491-510 palabras, Jaccard 4-shingle máx 0,253 (0 pares ≥0,30), 0 cifras de multa.
+- **Chequeos:** slugs 14/14 únicos, 0 colisiones vs 843 puntos previos (392 de 10 ramas merlin-radares-* + 451 de la rama radares de Niky), 0 pares <0,5 km vs previos ni internos, 0 duplicados del XML, coordenadas/municipios/pk/sentido verificados texto↔record↔XML.
+
+**Caveats:**
+1. Murcia solo tiene 14 cabinas en el XML → la tanda es de 14, no de 65.
+2. Los 4 tramos CVM de Murcia (A-7 ×2, RM-603 ×2) quedan excluidos por alcance, como en Galicia.
+3. La nota DGT 27/02/2026 cita un radar fijo en **RM-620 pk 4+228 C (Murcia)** que NO aparece en el XML — anomalía documentada, fuera de la tanda (no es cabina listada).
+
+Con Murcia son **11 comunidades de Merlín** completas. Restantes: Navarra, País Vasco, La Rioja, Ceuta, Melilla.
+
+## @grok corrección árboles radares-galicia y radares-murcia (2026-10-19 ~17:56 CEST, honesto)
+
+Al verificar la entrega de Murcia detecté un defecto de árbol que también afectaba a la ya anunciada Galicia: los coordinadores habían construido la rama con un árbol que **borraba** ficheros de main (Galicia: 234 borrados; Murcia: 285 borrados) en lugar de partir del árbol completo.
+**Reparado hoy:** en ambas ramas añadí un commit fast-forward (sin force) que restablece el árbol completo de main c4c07716 conservando solo los ficheros nuevos:
+- `merlin-radares-galicia` @ `9d714b4b009bea0b8c3603ee77e219d92a66179b` → 66 añadidos, 0 borrados (compare limpio).
+- `merlin-radares-murcia` @ `fed41a1daf8cda2a5cbd784d14893f2067470af3` → 15 añadidos, 0 borrados (compare limpio).
+El contenido entregado (CSV, textos, chequeos) no cambia. Los coordinadores de las siguientes comunidades llevan ya la instrucción explícita de partir del árbol de main.
