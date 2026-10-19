@@ -2299,3 +2299,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/audi-a6-avant-e-tron-2025-precio-ficha-tecnica-hunt1.webp | https://www.regeljelease.nl/voertuig/audi-a6-avant-e-tron-2025-elektrisch-826521 | regeljelease.nl | desconocida |
 | /media/audi-a6-avant-e-tron-2025-precio-ficha-tecnica-hunt2.webp | https://www.carscoops.com/2024/07/this-is-the-new-audi-a6-e-tron-sedan-and-avant/ | Carscoops | desconocida |
 | /media/audi-a6-avant-e-tron-2025-precio-ficha-tecnica-hunt3.webp | https://motork.com/audi-a6-avant-e-tron-performance-2025 | Motork.com | desconocida |
+| /media/audi-q3-2025-precio-ficha-tecnica-hunt1.webp | https://www.autobics.com/2025/06/2025-audi-q3-compact-suv-price-images-specs-details/ | Autobics (blog del motor) | desconocida |
+| /media/audi-q3-2025-precio-ficha-tecnica-hunt2.webp | https://www.carthrottle.com/reviews/audi/2025-audi-q3-review | Car Throttle (medio del motor) | desconocida |
+| /media/audi-q3-2025-precio-ficha-tecnica-hunt3.webp | https://somoslarevistausa.com/2026-audi-q3-s-line-quattro-lujo-y-rendimiento-por-un-precio-mode | Somos la Revista USA (blog del motor) | desconocida |
+| /media/aston-martin-vantage-roadster-2025-precio-ficha-tecnica-hunt1.webp | https://svetdizajnu.com/technika-s/aston-martin-vantage-roadster/ | svetdizajnu / Aston Martin press | desconocida |
+| /media/aston-martin-vantage-roadster-2025-precio-ficha-tecnica-hunt2.webp | https://hiconsumption.com/motors/2025-aston-martin-vantage-roadster/ | HiConsumption / Aston Martin press | desconocida |
+| /media/aston-martin-vantage-roadster-2025-precio-ficha-tecnica-hunt3.webp | https://www.completecar.ie/car-reviews/article/Aston_Martin/Vantage/Vantage_Roadster_(2025)/2545/14094/2025-Aston-Martin-Vantage-Roadster-(2025)-review.html | CompleteCar.ie / Aston Martin press | desconocida |
+| /media/kia-sportage-diesel-2025-precio-ficha-tecnica-hunt1.webp | https://www.carsales.com.au/editorial/details/2025-kia-sportage-the-last-diesel-medium-suv-149581/ | carsales.com.au | desconocida |
+| /media/kia-sportage-diesel-2025-precio-ficha-tecnica-hunt2.webp | https://auto-complex.pl/nowa-kia-sportage-w-leasingu-od-880-zl-netto/ | auto-complex.pl / Kia press | desconocida |
+| /media/kia-sportage-diesel-2025-precio-ficha-tecnica-hunt3.webp | https://www.dailyrevs.com/cars/2025-kia-sportage | DailyRevs / Kia press | desconocida |
+| /media/renault-symbioz-2024-e-tech-145-precio-ficha-tecnica-hunt1.webp | https://www.carwow.de/renault/symbioz | carwow.de / Renault press | desconocida |
+| /media/renault-symbioz-2024-e-tech-145-precio-ficha-tecnica-hunt2.webp | https://www.motorbox.com/auto/magazine/auto-novita/tutto-su-renault-symbioz-hybrid-2024-dimensioni-uscita-prezzo | Motorbox / Renault press | desconocida |
+| /media/renault-symbioz-2024-e-tech-145-precio-ficha-tecnica-hunt3.webp | https://www.automaistv.com.br/novidades/symbioz-grand-captur-compass-da-renault-e-apresentado/ | automaistv.com.br / Renault press | desconocida |
+| /media/audi-a6-e-tron-2025-precio-ficha-tecnica-hunt1.webp | https://avemo-group.de/de/fahrzeug/suche/audi-a6-sportback-e-tron/8854696 | avemo-group.de (anuncio concesionario) | desconocida |
+| /media/audi-a6-e-tron-2025-precio-ficha-tecnica-hunt2.webp | https://www.carexpert.com.au/car-reviews/2025-audi-a6-e-tron-review | CarExpert | desconocida |
+| /media/audi-a6-e-tron-2025-precio-ficha-tecnica-hunt3.webp | https://auto-info.be/test-audi-a6-sportback-e-tron-helemaal-bijgebeend-bij-het-peloton/ | auto-info.be (foto prensa Audi) | desconocida |
+| /media/audi-q6-e-tron-2025-precio-ficha-tecnica-hunt1.webp | https://www.evspecifications.com/images/news/df238d3/additional_6.jpg | AUDI AG (foto de prensa) | desconocida |
+| /media/audi-q6-e-tron-2025-precio-ficha-tecnica-hunt2.webp | https://preview-assets-eu-01.kc-usercontent.com/3b3d460e-c5ae-0195-6b86-3ac7fb9d52db/2f3c75ab-ed9b-46e2-89af-7a6fbea75cd1/Audi%20Q6%20e-tron%20%284%29.jpg | Audi / heycar.com | desconocida |
+| /media/audi-q6-e-tron-2025-precio-ficha-tecnica-hunt3.webp | https://static2.3birdsmarketing.com/Clients/AUDIBRANDASSETS/Audi_q6_e-tron_2025_Lifestyle_v9.jpg | Audi (material de prensa) | desconocida |
+| /media/audi-q7-2025-precio-ficha-tecnica-hunt1.webp | https://www.thetorquereport.com/wp-content/uploads/2024/03/12419-A240553large.jpeg | The Torque Report | desconocida |
+| /media/audi-q7-2025-precio-ficha-tecnica-hunt2.webp | https://www.autoblog.com/.image/MjA5NDEwODQ2MjY5NDQ5ODc4/2025%20Audi%20Q7%20interior..jpg?profile=w2560&x=50&y=50 | Autoblog | desconocida |
+| /media/audi-q7-2025-precio-ficha-tecnica-hunt3.webp | https://images.dailyrevs.com/0000/v3/Audi/6763e5e160e3e8e9443d1f90/2025-q7-us-version-audi-elxkiassssu0h7tu77hv9ju.jpeg | DailyRevs | desconocida |
+| /media/lamborghini-urus-s-2024-precio-ficha-tecnica-hunt1.webp | https://static0.carbuzzimages.com/wordpress/wp-content/uploads/gallery-images/original/1043000/500/1043594.jpg | Lamborghini (foto de prensa, vía CarBuzz) | desconocida |
+| /media/lamborghini-urus-s-2024-precio-ficha-tecnica-hunt2.webp | https://static0.carbuzzimages.com/wordpress/wp-content/uploads/gallery-images/original/1043000/600/1043601.jpg | Lamborghini (foto de prensa, vía CarBuzz) | desconocida |
+| /media/lamborghini-urus-s-2024-precio-ficha-tecnica-hunt3.webp | https://static0.carbuzzimages.com/wordpress/wp-content/uploads/gallery-images/original/1105000/500/1105573.jpg | Lamborghini (foto de prensa, vía CarBuzz) | desconocida |
