@@ -6,6 +6,9 @@
 // tarifa del fabricante (no hay PVP oficial ES enlazable en la web de la marca);
 // el consumo y la etiqueta DGT no los publica la marca (null). El «51» del modelo
 // alude al frigorífico de 51 litros.
+// Verificación 19/10/2026 (V4-02): exterior e interior1 sustituidos por fotos
+// oficiales de campereve.fr (página del modelo Cap Land); el resto, del catálogo
+// oficial 2025.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
 export const AUTOCARAVANAS_CAMPEREVE_M4: Autocaravana[] = [
@@ -84,10 +87,10 @@ Para quién es: encaja con parejas activas y familias con uno o dos niños que b
     ],
     opiniones: [],
     galeria: [
-      { src: "/media/campereve-cap-land-51-2026-precio-ficha-tecnica-oficial.webp", alt: "Campérêve Cap Land, vista exterior", ancho: 1200, alto: 800 },
-      { src: "/media/campereve-cap-land-51-2026-precio-ficha-tecnica-interior1.webp", alt: "Campérêve Cap Land, salón interior", ancho: 1200, alto: 800 },
-      { src: "/media/campereve-cap-land-51-2026-precio-ficha-tecnica-interior2.webp", alt: "Campérêve Cap Land, cama baja", ancho: 1200, alto: 800 },
-      { src: "/media/campereve-cap-land-51-2026-precio-ficha-tecnica-detalle.webp", alt: "Campérêve Cap Land, detalle de cocina", ancho: 1200, alto: 800 },
+      { src: "/media/campereve-cap-land-51-2026-precio-ficha-tecnica-oficial.webp", alt: "Campérêve Cap Land, vista exterior (foto oficial Campérêve)", ancho: 1024, alto: 703 },
+      { src: "/media/campereve-cap-land-51-2026-precio-ficha-tecnica-interior1.webp", alt: "Campérêve Cap Land, salón con techo elevable (foto oficial Campérêve)", ancho: 1280, alto: 883 },
+      { src: "/media/campereve-cap-land-51-2026-precio-ficha-tecnica-interior2.webp", alt: "Campérêve Cap Land, cama baja (foto oficial Campérêve)", ancho: 1200, alto: 800 },
+      { src: "/media/campereve-cap-land-51-2026-precio-ficha-tecnica-detalle.webp", alt: "Campérêve Cap Land, detalle de cocina (foto oficial Campérêve)", ancho: 1200, alto: 800 },
     ],
     analisisSlug: "campereve-cap-land-51-2026-analisis-opinion",
     planMantenimiento: {
