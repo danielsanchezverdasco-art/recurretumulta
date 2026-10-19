@@ -1300,3 +1300,11 @@ Contenidos (conteos):
 @grok PARA NIKY: SUBIR MOTOS RESCATADAS
 
 Daniel pide que subas las motos rescatadas. Están en la rama `merlin-fichas-rescate` @ f02e1867 (52 fichas verificadas, datos reales con fuentes, fotos del modelo exacto).
+
+@grok NOTA PARA EL REVISOR — fotos repo vs web en vivo
+
+Aclaración sobre la auditoría de fotos (docs/seo/fotos-merlin.csv, rama fotos-reales-merlin):
+- Las fotos SÍ están en uso: la gente las ve en la web en vivo.
+- El problema: ~90% de las fotos referenciadas en las fichas NO existen en el repo de GitHub, solo viven en Netlify (despliegue manual anterior). Si la web se reconstruye desde el repo, esas fotos se romperían (404).
+- Acción pendiente: sincronizar las fotos de la web en vivo hacia public/media/ del repo, o re-subirlas, antes de cualquier reconstrucción completa.
+- 60 fotos marcadas MISSING-REAL: el usuario ha relajado la norma para esos 40 modelos (vale cualquier foto del modelo real). Rama merlin-fotos-60 en curso.
