@@ -93,9 +93,9 @@ export const AUTOCARAVANAS_RAPIDO_M3: Autocaravana[] = [
     opiniones: [],
     galeria: [
       { src: "/media/rapido-896f-2026-precio-ficha-tecnica-oficial.webp", alt: "Rapido 896F, vista exterior", ancho: 2272, alto: 1096 },
-      { src: "/media/rapido-896f-2026-precio-ficha-tecnica-interior1.webp", alt: "Rapido 896F, cama central", ancho: 800, alto: 600 },
-      { src: "/media/rapido-896f-2026-precio-ficha-tecnica-interior2.webp", alt: "Rapido 896F, salón", ancho: 1600, alto: 1200 },
-      { src: "/media/rapido-896f-2026-precio-ficha-tecnica-detalle.webp", alt: "Rapido 896F, detalle exterior", ancho: 1024, alto: 768 },
+      { src: "/media/rapido-896f-2026-precio-ficha-tecnica-interior1.webp", alt: "Rapido 896F, cama central", ancho: 1600, alto: 896 },
+      { src: "/media/rapido-896f-2026-precio-ficha-tecnica-interior2.webp", alt: "Rapido 896F, salón", ancho: 1600, alto: 896 },
+      { src: "/media/rapido-896f-2026-precio-ficha-tecnica-detalle.webp", alt: "Rapido 896F, cuarto de baño", ancho: 1600, alto: 896 },
     ],
     analisisSlug: "rapido-896f-2026-analisis-opinion",
     planMantenimiento: {
