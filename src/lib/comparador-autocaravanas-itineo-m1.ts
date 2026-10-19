@@ -1,4 +1,7 @@
-// Autocaravanas Itineo — lote Merlín 1 (19/10/2026), corrección b/c/d/e/f/g/h/i (especificación Grok 22:15).
+// Autocaravanas Itineo — lote Merlín 1 (19/10/2026), corrección b/c/d/e/f/g/h/i (especificación Grok 22:15)
+// + orden Grok 19/10 07:47 (agente F6b): añadidas 4 fotos OFICIALES de itineo.com
+// (sufijo -oficial: 1 ext + 3 int, verificadas visualmente, 1200px webp),
+// corregidas las dims reales de la galería antigua y añadido curiosidades.
 // Fuentes: página oficial del modelo en itineo.com (camping-car_pf_600.php,
 // verificada el 19/10/2026) + prensa especializada (CamperLife, Out & About Live)
 // y fichas de concesionarios para motor, MMA y tracción.
@@ -29,10 +32,10 @@ export const AUTOCARAVANAS_ITINEO_M1: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/itineo-pf600-2026-precio-ficha-tecnica-ext.webp",
-    imagenOficial: "/media/itineo-pf600-2026-precio-ficha-tecnica-ext.webp",
+    imagen: "/media/itineo-pf600-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial: "/media/itineo-pf600-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/itineo-pf600-2026-precio-ficha-tecnica-interior.webp",
+      "/media/itineo-pf600-2026-precio-ficha-tecnica-oficial-interior.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 5990, // página oficial: 5,99 m
@@ -52,6 +55,8 @@ export const AUTOCARAVANAS_ITINEO_M1: Autocaravana[] = [
     aprox: ["potenciaCv", "mmaKg", "carnetNecesario", "traccion"],
     notas:
       "Datos oficiales de la página del modelo en itineo.com (5,99/2,32/2,88 m, 4 plazas de ruta, 2+1+1 plazas de cama, cama francesa de 136x196 cm de serie, lit pavillon eléctrico y dinette convertible en opción, frigorífico de compresor de 138 l, agua 20/100 l + 100 l grises, chasis Peugeot o Fiat, ISOFIX). Itineo no publica PVP (precioDesde en null; la web oficial indica textualmente que el precio exacto lo da el concesionario) ni MMA ni potencia por modelo en la web: esos campos van en «aprox» según fichas de concesionarios (PTAC 3.500 kg, 2.2 de 140 CV) y prensa especializada.",
+    curiosidades:
+      "El PF600 se vende en el año en que Itineo cumple 20 años: el grupo francés Rapido creó la marca en 2006 como su apuesta joven —«un nuevo tipo de autocaravana muy contemporánea con una excelente relación calidad-precio», según la historia oficial del grupo—, y la propia web de la marca lo celebra con el lema «L'envie d'évasion, transmise depuis 20 ans». Fuentes: historia oficial del grupo Rapido (https://histoire.rapido.fr/rapido_50ans_groupe.php) y página oficial del modelo (https://www.itineo.com/camping-car_pf_600.php).",
     descripcion: `El Itineo PF600 es la demostración de que una autocaravana de menos de seis metros puede dormir a cuatro personas sin que nadie duerma en el suelo del salón ni haya que hacer malabarismos cada noche. Mide 5,99 metros —un centímetro por debajo de la barrera psicológica y práctica de los seis metros— y pertenece a la gama Cozi de Itineo, la marca joven del grupo francés Rapido que nació en 2006 con una misión muy concreta: hacer accesibles las autocaravanas integrales y perfiladas de diseño cuidado sin el sobreprecio de las marcas históricas. El PF600 es su perfilada compacta, y su argumento es la inteligencia del plano: cama francesa trasera siempre hecha, dos camas opcionales que aparecen y desaparecen, y un formato que cabe en casi cualquier parte.
 
 Lo primero que hay que entender es la filosofía de las camas, porque aquí está la gracia del modelo. De serie, el PF600 duerme a dos personas en la cama a la francesa trasera de 136 por 196 centímetros, una cama de esquina amplia con somier de lamas, armarios altos alrededor y un armario ropero a los pies. Hasta aquí, una perfilada compacta normal para parejas. La diferencia la marcan las dos opciones: el lit pavillon eléctrico, una cama individual de 96/78 por 196 que desciende sobre el salón por la noche y se esconde en el techo durante el día, y la dinette convertible en una cama individual de 80 por 202. Con las dos opciones marcadas, el PF600 homologa cuatro plazas para dormir sin que el salón pierda su función durante el día y sin montar una cama en el suelo. Es un esquema modular que funciona especialmente bien para la pareja que viaja con un hijo y un invitado ocasional, o con dos niños: cada uno tiene su cama y nadie molesta a nadie al levantarse al baño.
@@ -83,29 +88,55 @@ Para quién es: el Itineo PF600 es para quien quiere una perfilada de menos de s
     ],
     opiniones: [],
     galeria: [
+      // Oficiales (web del fabricante, verificadas visualmente): primero el exterior y luego los interiores
       {
-        src: "/media/itineo-pf600-2026-precio-ficha-tecnica-ext.webp",
-        alt: "Itineo PF600, vista lateral",
+        src: "/media/itineo-pf600-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Itineo PF600, vista exterior tres cuartos delantera (foto oficial de la marca)",
+        ancho: 1200,
+        alto: 877,
+      },
+      {
+        src: "/media/itineo-pf600-2026-precio-ficha-tecnica-oficial-interior.webp",
+        alt: "Salón delantero del Itineo PF600 con banqueta cara a la carretera (foto oficial de la marca)",
         ancho: 1200,
         alto: 800,
       },
       {
+        src: "/media/itineo-pf600-2026-precio-ficha-tecnica-oficial-interior2.webp",
+        alt: "Cama a la francesa trasera del Itineo PF600 (foto oficial de la marca)",
+        ancho: 1200,
+        alto: 999,
+      },
+      {
+        src: "/media/itineo-pf600-2026-precio-ficha-tecnica-oficial-interior3.webp",
+        alt: "Cocina del Itineo PF600 con dos fuegos y fregadero de acero (foto oficial de la marca)",
+        ancho: 1200,
+        alto: 1799,
+      },
+      // No oficiales (dims reales corregidas el 19/10/2026)
+      {
+        src: "/media/itineo-pf600-2026-precio-ficha-tecnica-ext.webp",
+        alt: "Itineo PF600, vista lateral",
+        ancho: 600,
+        alto: 400,
+      },
+      {
         src: "/media/itineo-pf600-2026-precio-ficha-tecnica-interior.webp",
         alt: "Interior del Itineo PF600, salón delantero",
-        ancho: 1200,
+        ancho: 1076,
         alto: 800,
       },
       {
         src: "/media/itineo-pf600-2026-precio-ficha-tecnica-interior2.webp",
         alt: "Interior del Itineo PF600, segunda vista",
-        ancho: 1200,
-        alto: 800,
+        ancho: 800,
+        alto: 600,
       },
       {
         src: "/media/itineo-pf600-2026-precio-ficha-tecnica-detalle.webp",
         alt: "Detalle del Itineo PF600",
-        ancho: 1200,
-        alto: 800,
+        ancho: 800,
+        alto: 568,
       },
     ],
     analisisSlug: "itineo-pf600-2026-analisis-opinion",
