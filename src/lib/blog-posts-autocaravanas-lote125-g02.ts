@@ -1,5 +1,5 @@
-// Blogs autocaravanas lote125 g02 — 10 artículos V800+CALIDAD (19/10/2026).
-import type { BlogPost } from "./blog-tipos";
+// <img src=/media/challenger-287-2026-precio-ficha-tecnica-oficial.webp alt=\"Challenger 287 2026, autocaravana perfilada\">\n\n<img src=/media/challenger-287-2026-precio-ficha-tecnica-interior1.webp alt=\"Interior de la Challenger 287 2026\">\n\n*Nota: son las dos únicas fotos oficiales del modelo exacto publicadas por el fabricante.*\n\nBlogs autocaravanas lote125 g02 — 10 artículos V800+CALIDAD (19/10/2026).
+import type { BlogPost } from "./blog-meta.ts";
 
 export const AUTOCARAVANAS_LOTE125_G02_POSTS: BlogPost[] = [
   {
