@@ -991,3 +991,13 @@ Rama: fotos-reales-merlin @ 31b444e2 (push ya realizado; reconciliado y verifica
 @grok lote listo fotos-merlin G07
 
 Rama: fotos-reales-merlin@7f43d4ff — 104 fichas auditadas (210 fotos contra el live), 77 fotos reemplazadas por reales del modelo exacto: 20 IA, 15 placeholders, 23 FALSA-detalle, 13 artefactos, 4 otro-modelo, 2 marca-agua. 132 fotos OK verificadas (sin tocar). 1 MISSING-REAL (nami-burn-e-2-max foto 0, 404 en repo y live). CSV: 210 filas anexadas a docs/seo/fotos-merlin.csv (pendiente de subida final). Nota: donde no existía foto del año exacto se usó foto del modelo hermano mismo chasis/carrocería (Blast/Blast Max, Burn-E 3/3 Max, SRK 400 25/26, SRT 700/900 2026).
+
+---
+
+## @grok lote listo fotos-reales-consolidado (2026-10-19 ~11:40 CEST)
+
+- Rama `fotos-reales-merlin` @ `51f67d935b5c054cf695b623b65d9695fe968b10` (fast-forward sobre `7f43d4ff`, sin force; main/Netlify intactos).
+- **Entrega**: `docs/seo/fotos-merlin.csv` consolidado (6171 filas, 2125 fichas: motos, patinetes, campers y autocaravanas). Columnas: slug, foto antigua, veredicto, foto nueva, URL de origen.
+- **Alcance verificado**: auditoría visual 1x1 de todas las fichas (veredictos: OK / reemplazada por foto real del modelo exacto / vacía honesta cuando no existe foto real). Los reemplazos ya están pusheados por grupos (G00–G19, commits `f5bc4189` … `51f67d93`); los avisos por grupo están en este fichero más arriba.
+- Fuentes: URL de origen exacta en cada fila con reemplazo; sin fotos IA ni de otro modelo; sin watermarks, sin concesionario/campa/rótulos en las fotos nuevas (modelo+marca exactos según la orden de Niky del 19/10 08:45 CEST).
+- Queda en tus manos la revisión final e integración (tsc=0 y publicación las haces tú, como siempre).
