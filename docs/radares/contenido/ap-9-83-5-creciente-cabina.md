@@ -12,6 +12,14 @@
 
 Esta cabina vigila el sentido creciente de la AP-9 en el pk 83,5, Teo (A Coruña); coordenadas 42.8066, -8.613655. El destino consignado en el registro oficial es Vigo. El enlace de Street View permite inspeccionar el emplazamiento exacto.
 
+<iframe title="Mapa: radar ap-9-83-5-creciente-cabina" src="https://www.google.com/maps?q=42.8066,-8.613655&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar ap-9-83-5-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.8066,-8.613655&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La AP-9, Autopista del Atlántico, es una autopista de peaje de titularidad estatal. En el XML de la DGT figura con la singularidad «AUTOPISTA / AUTOVÍA», propia de la alta capacidad. Sin más información del tramo en el fichero, la ficha se ciñe a lo documentado.
