@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 40.9419, -5.6607
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.9419,-5.6607)
 
+<iframe title="Mapa: radar sa-20-93-5-decreciente-cabina" src="https://www.google.com/maps?q=40.9419,-5.6607&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar sa-20-93-5-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.9419,-5.6607&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** La vía, el pk, el sentido y el tipo de equipo vienen del XML oficial de la DGT (DATEX II, portal NAP). El dataset no publica el límite de cada radar ni su municipio. El límite queda «pendiente» porque el registro clasifica el punto con la singularidad «CIRCUNVALACIÓN», que no permite saber si el tramo es de autovía o de carretera convencional; ante esa duda, el criterio es no asignar ningún valor. Salamanca (Salamanca) lo determina el geocodificador oficial CartoCiudad del IGN.
 
 ## Localización del equipo
