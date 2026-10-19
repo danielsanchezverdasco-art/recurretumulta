@@ -415,5 +415,5 @@ export const CARAVANAS_BURSTNER: CocheComparador[] = [
     euroncap: null,
     fuenteNombre: "Bürstner (web oficial, lista Países Bajos)",
     fuenteUrl: "https://www.buerstner.com/be/nl/caravans/premio/premio-life",
-  },
+  }
 ];
