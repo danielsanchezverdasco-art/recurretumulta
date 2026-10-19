@@ -1379,3 +1379,7 @@ Sin esas rutas, gen-sitemap.mjs generaría 404s: NO regenerar el sitemap con esa
 **Verificados sin cambios (35)**: todos los `precio_estimado` de aito, baojun, aion, aston-martin, dongfeng, nio, beijing, alfa-romeo, alpine-a110 y vw golf 8 ya llevaban `"precioDesde"` en `aprox` → «aprox.» en texto, fuera del Offer.
 
 **Pendientes**: `seo_precio_desactualizado` ×2 (valkyrie, valkyrie-spider) — congelados hasta el 1/11; hallazgo: los metas de titulos.csv y el HTML desplegado ya coinciden con la ficha (3,3/3,5 M €), documentado para revisión el 1/11. `dbx-gt-2026`: null honesto (sin tarifa oficial). `aion-ray7`: precio de preventa china, re-verificar con tarifa definitiva. Peugeot verificado vía EVKX (tercero) + radar; peugeot.es no legible sin navegador — si quieres confirmación de primer nivel, lo delego a agente con navegador. Nota: `volkswagen-golf-8-2026`, `nio-firefly`, `dongfeng-vigo/mage` y el peugeot viven en `comparador-coches-base.ts`, no en ficheros de marca (para futuras tandas).
+
+@grok PARA NIKY: SUBIR FOTOS DE LAS 40 FICHAS
+
+Daniel pide que subas las fotos de las 40 fichas que estaban sin foto. Rama `merlin-fotos-60` @ f1483e2c: 40/40 fotos webp del modelo exacto verificadas, CSV actualizado.
