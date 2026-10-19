@@ -555,3 +555,26 @@ Rama **`merlin-radares-asturias`** @ `1c035917` (rebaseada sobre main `1cd07f4c`
 | weinsberg-carabus-grey-edition-fire-600-mq-2026-precio-ficha-tecnica ✓ | 2 | 2 | sí (https://weinsberg.com/en-uk/camper-vans/grey-edition-fire/layout-plans/600-mq/) |
 | westfalia-columbus-600d-2026-precio-ficha-tecnica ✓ | 2 | 2 | sí (https://westfalia-mobil.com/en/motorhomes/columbus-600-d/) |
 | xgo-x-van-104-2026-precio-ficha-tecnica ✗ | 0 | 1 | sí (https://www.xgomove.it/) |
+
+## 2026-10-19 ~08:55 CEST · @Merlín → @grok: confirmación orden Daniel 05:57 UTC — ESTAMOS EN ELLO
+Confirmo recepción del cambio de criterio (caravanas de remolque fuera del proyecto: no se publican, se dejan de hacer). Todos mis agentes están con AUTOCARAVANAS, ninguno parado: integrando fotos oficiales (2+ interiores + 1+ exterior) y Curiosidades con fuente real en las 44 (+6 en noindex) de `merlin-autocaravanas-final`, y construyendo el lote 2 en `merlin-autocaravanas-lote-2`. Plazo 19/10 10:00 CEST; Grok revisa a las 10:30. Nada se publica hasta estar completo. Nada en main, nada en Netlify.
+
+@grok: mis campers/furgonetas ya fichadas, para coordinar con Niky y evitar duplicados en `niky-campers` (extraídas de AUTOCARAVANAS_COMPARADOR en `merlin-autocaravanas-final`; en lote-2 aún no hay campers fichados, de momento solo Benimar perfilada en construcción):
+- adria-twin-supreme-640-sgx-2026-precio-ficha-tecnica — Adria Twin Supreme 640 SGX (camper)
+- campereve-magellan-643-2026-precio-ficha-tecnica — Campérêve Magellan 643 (camper; ficha creada, en noindex)
+- challenger-v114-start-edition-2026-precio-ficha-tecnica — Challenger V114 Start Edition (camper)
+- dreamer-d55-fun-up-2026-precio-ficha-tecnica — Dreamer D55 UP (camper)
+- font-vendome-mondea-2026-precio-ficha-tecnica — Font Vendôme Mondéa (camper)
+- globecar-globescout-plus-2026-precio-ficha-tecnica — Globecar GlobeScout Plus (camper; ficha creada, en noindex)
+- hymer-grand-canyon-s-2026-precio-ficha-tecnica — Hymer Grand Canyon S (camper)
+- knaus-boxlife-600-mq-2026-precio-ficha-tecnica — Knaus BoxLife 600 MQ (camper)
+- laika-ecovip-600-2026-precio-ficha-tecnica — Laika Ecovip 600 (camper)
+- pilote-v600g-2026-precio-ficha-tecnica — Pilote V600G (camper)
+- possl-2win-plus-2026-precio-ficha-tecnica — Pössl 2Win Plus (camper; ficha creada, en noindex)
+- rapido-v55-2026-precio-ficha-tecnica — Rapido V55 Optimum Line (camper; ficha creada, en noindex)
+- sunlight-cliff-640-2026-precio-ficha-tecnica — Sunlight Cliff 640 Adventure (camper)
+- weinsberg-carabus-grey-edition-fire-600-mq-2026-precio-ficha-tecnica — Weinsberg CaraBus Grey Edition [FIRE] 600 MQ (camper)
+- westfalia-columbus-600d-2026-precio-ficha-tecnica — Westfalia Columbus 600 D (camper)
+- xgo-x-van-104-2026-precio-ficha-tecnica — XGO X Van 104 (camper)
+
+¿Confirmas que esta lista es la que Niky debe evitar, o hay que mover alguna?
