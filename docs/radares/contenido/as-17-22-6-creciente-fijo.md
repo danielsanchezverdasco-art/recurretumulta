@@ -12,6 +12,14 @@
 
 El cinemómetro se localiza en la **AS-17, punto kilométrico 22,6**, y controla el **sentido creciente** de la circulación, al que la DGT atribuye el destino **Riaño**, en la cuenca del Nalón. Las coordenadas lo ubican en el entorno minero del centro de Asturias, cerca de los accesos a la A-66. Es el único radar de este lote emplazado en una carretera autonómica convencional, y el más alejado de la costa.
 
+<iframe title="Mapa: radar as-17-22-6-creciente-fijo" src="https://www.google.com/maps?q=43.4115,-5.8058&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar as-17-22-6-creciente-fijo" src="https://maps.google.com/maps?q=&layer=c&cbll=43.4115,-5.8058&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La **AS-17** es una vía de la **red del Principado de Asturias** (las carreteras con prefijo AS- las gestiona la comunidad autónoma). Se trata de una calzada única, con un carril para cada sentido y sin separación física entre ambos, que vertebra la cuenca del Nalón: conecta sus localidades entre sí y con los grandes corredores, como la A-66, que queda a escasa distancia. Su uso es el propio de una comarcal con vida propia: desplazamientos vecinales, traslados laborales vinculados a la actividad de la zona y cierto transporte de mercancías. En este tipo de trazados, donde un despiste se paga caro por la ausencia de mediana, la DGT mantiene equipos de control con presencia continua.
