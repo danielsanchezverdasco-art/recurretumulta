@@ -12,6 +12,14 @@
 
 La cabina está en la A-55, pk 11,8, en el municipio de Mos (Pontevedra), coordenadas 42.186913, -8.637469. Vigila el sentido creciente: los vehículos hacia puntos kilométricos mayores, con destino Tui según el registro de la DGT.
 
+<iframe title="Mapa: radar a-55-11-8-creciente-cabina" src="https://www.google.com/maps?q=42.186913,-8.637469&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-55-11-8-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.186913,-8.637469&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La A-55 es una autovía estatal del Ministerio de Transportes y Movilidad Sostenible. Conecta Vigo con Tui y la frontera portuguesa; su siniestralidad ha motivado actuaciones recientes sobre los límites. El XML de la DGT no detalla este tramo, así que la ficha no lo describe.
