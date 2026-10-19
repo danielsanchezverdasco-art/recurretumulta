@@ -14,6 +14,14 @@ Una recomendación práctica: en la A-52 los kilómetros pasan volando y la velo
 ## Dónde está la cabina
 Pk 58,45 de la A-52, término de Mombuey (Zamora). Controla el sentido decreciente —tráfico hacia pks descendentes—, con destino a Benavente.
 
+<iframe title="Mapa: radar a-52-58-5-decreciente-cabina" src="https://www.google.com/maps?q=42.0209,-6.3579&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-52-58-5-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.0209,-6.3579&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La autovía
 La A-52, Autovía de las Rías Bajas, comunica Benavente con O Porriño. Por Zamora el trazado cruza la comarca de Sanabria hacia el este. El equipo es una cabina fija; el medidor de velocidad va instalado en su interior.
 
