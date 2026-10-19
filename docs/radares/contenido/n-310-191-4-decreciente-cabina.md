@@ -12,6 +12,15 @@
 
 La posición oficial de este control es la **N-310, punto kilométrico 191,4** (Cuenca). Registra a los vehículos que marchan en **sentido decreciente**, hacia pk decrecientes. Si conoces la zona, el pk 191,4 te orientará mejor que la propia cabina: los equipos rotan, la ubicación publicada no cambia. El punto vigilado más cercano es el de la **A-31, pk 11,6** (sentido creciente): queda a 16,2 km hacia el oeste. Le sigue en proximidad el de la **A-31, pk 50,6** (sentido creciente), situado a 33,4 km hacia el sur. A esta altura de la vía, el conductor ya ha adoptado un ritmo que conviene revisar antes del control.
 
+<iframe title="Mapa: radar n-310-191-4-decreciente-cabina" src="https://www.google.com/maps?q=39.44349,-2.02439&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-310-191-4-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.44349,-2.02439&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La N-310 es una vía de la red estatal que recorre Cuenca. Esta carretera nacional da servicio tanto a quien cruza la región como a quien se mueve entre pueblos próximos. La cabina se instaló donde la configuración de la vía empuja a superar el límite. Entre los 2 radares publicados para la N-310 en la región, este es el segundo en orden de pk. En la misma N-310, el control más próximo es el del pk 126,4 (sentido creciente): dista 59,4 km hacia el suroeste. La clave en esta vía: conducción atenta y velocidad siempre contenida. En resumen, una vía que exige lo esencial: atención, respeto a las señales y velocidad contenida.
