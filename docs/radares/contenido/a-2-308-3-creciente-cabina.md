@@ -12,6 +12,14 @@
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=41.62328,-1.01669)
 
 
+<iframe title="Mapa: radar a-2-308-3-creciente-cabina" src="https://www.google.com/maps?q=41.62328,-1.01669&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-2-308-3-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=41.62328,-1.01669&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** posición, vía, punto kilométrico y sentido publicados en el fichero oficial de radares fijos de la DGT (DATEX II), verificado el 2026-10-18. La DGT no difunde ni el límite de velocidad ni el municipio de este emplazamiento, de modo que esta página no los recoge.
 
 
