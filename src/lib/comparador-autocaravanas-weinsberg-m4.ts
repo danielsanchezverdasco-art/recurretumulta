@@ -52,7 +52,7 @@ export const AUTOCARAVANAS_WEINSBERG_M4: Autocaravana[] = [
     largoMm: 6990, // configurador oficial Weinsberg (PDF 05/12/2025)
     anchoMm: 2320, // 2.180 mm interior
     altoMm: 2790, // 2.000 mm interior
-    pesoKg: 2928, // masa en orden de marcha según configurador (rango con tolerancia: 2.781–3.074 kg)
+    pesoKg: null, // masa en orden de marcha oficial 2.928 kg (rango 2.781-3.074 kg, configurador Weinsberg); no es carga útil -> campo vacío
     mmaKg: 3500, // aumento a 3.650 kg posible
     carnetNecesario: "B",
     cargaUtilKg: null, // la marca no la publica; prohibido calcularla
@@ -105,25 +105,25 @@ Para quién es: la CaraCore 650 MEG encaja con parejas que quieren estrenarse en
         src: "/media/weinsberg-caracore-650-meg-2026-precio-ficha-tecnica-oficial.webp",
         alt: "Weinsberg CaraCore 650 MEG, vista exterior de la integral",
         ancho: 1200,
-        alto: 800,
+        alto: 675,
       },
       {
         src: "/media/weinsberg-caracore-650-meg-2026-precio-ficha-tecnica-interior1.webp",
         alt: "Weinsberg CaraCore 650 MEG, salón delantero",
         ancho: 1200,
-        alto: 800,
+        alto: 900,
       },
       {
         src: "/media/weinsberg-caracore-650-meg-2026-precio-ficha-tecnica-interior2.webp",
         alt: "Weinsberg CaraCore 650 MEG, camas gemelas traseras",
         ancho: 1200,
-        alto: 800,
+        alto: 900,
       },
       {
         src: "/media/weinsberg-caracore-650-meg-2026-precio-ficha-tecnica-detalle.webp",
         alt: "Weinsberg CaraCore 650 MEG, detalle del habitáculo",
-        ancho: 1200,
-        alto: 800,
+        ancho: 1024,
+        alto: 683,
       },
     ],
     analisisSlug: "weinsberg-caracore-650-meg-analisis-opinion",
@@ -145,7 +145,7 @@ Para quién es: la CaraCore 650 MEG encaja con parejas que quieren estrenarse en
         },
       ],
     },
-  },,
+  },
   {
     id: "weinsberg-x-cursion-500-lt-2026-precio-ficha-tecnica",
     marca: "Weinsberg",
@@ -172,7 +172,7 @@ Para quién es: la CaraCore 650 MEG encaja con parejas que quieren estrenarse en
     largoMm: 5880, // documento técnico oficial Weinsberg: 588 cm
     anchoMm: 2160, // documento técnico oficial Weinsberg: 216 cm
     altoMm: 2840, // documento técnico oficial Weinsberg: 284 cm
-    pesoKg: 2595, // masa en orden de marcha, modelo básico (documento técnico oficial)
+    pesoKg: null, // masa en orden de marcha oficial 2.595 kg (documento técnico Weinsberg); no es carga útil -> campo vacío
     mmaKg: 3200, // MMA técnica; 3.500 kg opcional (documento técnico oficial)
     carnetNecesario: "B", // mmaKg <= 3500
     cargaUtilKg: null, // la marca no publica una carga útil única; prohibido calcular MMA-MRO
@@ -219,9 +219,9 @@ Para quién es: encaja con parejas o familias de hasta cuatro miembros que viene
     ],
     opiniones: [],
     galeria: [
-      { src: "/media/weinsberg-x-cursion-500-lt-2026-precio-ficha-tecnica-oficial.webp", alt: "Weinsberg X-Cursion 500 LT, vista exterior", ancho: 1200, alto: 1600 },
+      { src: "/media/weinsberg-x-cursion-500-lt-2026-precio-ficha-tecnica-oficial.webp", alt: "Weinsberg X-Cursion 500 LT, vista exterior", ancho: 1024, alto: 768 },
       { src: "/media/weinsberg-x-cursion-500-lt-2026-precio-ficha-tecnica-interior1.webp", alt: "Weinsberg X-Cursion 500 LT, interior", ancho: 1200, alto: 800 },
-      { src: "/media/weinsberg-x-cursion-500-lt-2026-precio-ficha-tecnica-interior2.webp", alt: "Weinsberg X-Cursion 500 LT, interior", ancho: 1536, alto: 1025 },
+      { src: "/media/weinsberg-x-cursion-500-lt-2026-precio-ficha-tecnica-interior2.webp", alt: "Weinsberg X-Cursion 500 LT, interior zona delantera", ancho: 1600, alto: 900 },
       { src: "/media/weinsberg-x-cursion-500-lt-2026-precio-ficha-tecnica-detalle.webp", alt: "Weinsberg X-Cursion 500 LT, detalle", ancho: 427, alto: 639 },
     ],
     analisisSlug: "weinsberg-x-cursion-500-lt-2026-analisis-opinion",
