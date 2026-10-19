@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 41.5936, -4.5219
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=41.5936,-4.5219)
 
+<iframe title="Mapa: radar n-122-342-2-decreciente-cabina" src="https://www.google.com/maps?q=41.5936,-4.5219&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-122-342-2-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=41.5936,-4.5219&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** Este punto —vía N-122, pk 342.25, sentido decreciente, equipo en cabina— está publicado en el XML oficial de la DGT (DATEX II, portal NAP). El dataset no incluye el límite de cada radar ni su municipio. El límite de 90 km/h es el genérico del RGC (art. 48) para turismos y motos en carreteras convencionales, ya que el registro lo clasifica con la singularidad «CARRETERA NACIONAL»; Traspinedo (Valladolid) se determina con el geocodificador oficial CartoCiudad del IGN/CNIG.
 
 ## El límite según la ficha
