@@ -28,7 +28,7 @@ export const AUTOCARAVANAS_RIMOR_M1: Autocaravana[] = [
     imagen: "/media/rimor-superbrig-687-tc-2026-precio-ficha-tecnica-oficial.webp",
     imagenOficial: "/media/rimor-superbrig-687-tc-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/rimor-superbrig-687-tc-2026-precio-ficha-tecnica-interior.webp",
+      "/media/rimor-superbrig-687-tc-2026-precio-ficha-tecnica-oficial-interior.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 6968,
@@ -64,15 +64,27 @@ export const AUTOCARAVANAS_RIMOR_M1: Autocaravana[] = [
     galeria: [
       {
         src: "/media/rimor-superbrig-687-tc-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Rimor SuperBrig 687 TC, vista tres cuartos con capuchina",
-        ancho: 1200,
-        alto: 800,
+        alt: "Rimor SuperBrig 687 TC, vista frontal (foto del catálogo oficial 2026-27)",
+        ancho: 938,
+        alto: 1218,
       },
       {
-        src: "/media/rimor-superbrig-687-tc-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior de la Rimor SuperBrig 687 TC, salón y cocina en L",
-        ancho: 1200,
-        alto: 800,
+        src: "/media/rimor-superbrig-687-tc-2026-precio-ficha-tecnica-oficial-interior.webp",
+        alt: "Salón del Rimor SuperBrig (foto del catálogo oficial 2026-27)",
+        ancho: 761,
+        alto: 691,
+      },
+      {
+        src: "/media/rimor-superbrig-687-tc-2026-precio-ficha-tecnica-oficial-interior2.webp",
+        alt: "Cocina del Rimor SuperBrig (foto del catálogo oficial 2026-27)",
+        ancho: 472,
+        alto: 691,
+      },
+      {
+        src: "/media/rimor-superbrig-687-tc-2026-precio-ficha-tecnica-oficial-interior3.webp",
+        alt: "Cocina y salón del Rimor SuperBrig (foto del catálogo oficial 2026-27)",
+        ancho: 761,
+        alto: 691,
       },
     ],
     descripcion: `La capuchina es el formato familiar por excelencia de la autocaravana europea, y la Rimor SuperBrig 687 TC es una de sus representantes más honestas: 6,97 metros, cuatro camas siempre hechas y un precio oficial publicado de 70.840 € que pocas marcas se atreven a poner por escrito. Rimor, constructor italiano integrado en el grupo Luano Camp junto a XGO, juega en la liga de las marcas que compiten por relación equipamiento-precio, y la SuperBrig es su gama de capuchinas para familias que quieren dormir cuatro sin transformar el salón cada noche.
@@ -112,6 +124,8 @@ La red de Rimor en España, a través del importador del grupo, cubre las princi
     euroncap: null,
     notas:
       "«precio de tarifa en Alemania»: el PVP de 70.840 € procede de la lista oficial de precios Rimor 2026-2027 (Alemania, IVA incluido, franco fábrica); en España el precio lo fija el importador. La carga útil de 556 kg (manual) / 541 kg (automática) es la publicada por Rimor en su ficha oficial de datos para Reino Unido, no un cálculo: «dato de la ficha oficial de Rimor para Reino Unido; puede variar según el mercado». La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante: dato no oficial · en revisión.",
+    curiosidades:
+      "Rimor fue fundada oficialmente el 17 de enero de 1978 por Luano Niccolai, con el entusiasmo de un pionero; más de 45 años después forma parte del grupo francés Trigano, uno de los líderes europeos del caravaning. Fuente: Rimor (web oficial, «Chi siamo»): https://www.rimor.it/it/es/about/chi-siamo",
     fuenteNombre: "Rimor (web oficial + lista oficial de precios 2026-2027)",
     fuenteUrl: "https://www.rimor.it/at/de/gamma/super-brig/modello/687-tc",
   },
