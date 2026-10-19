@@ -12,6 +12,14 @@
 
 Esta caja vigila la **A-7 en el punto kilométrico 407,8**, dentro de Valencia. Controla el **sentido decreciente** de la marcha, el de los hitos kilométricos decrecientes. El municipio que corresponde a estas coordenadas es **Canals** (fuente: el geocodificador del IGN). A 6,3 km hacia el norte está el control más próximo, el de la **A-35, pk 43,3** (sentido creciente).
 
+<iframe title="Mapa: radar a-7-407-8-decreciente-cabina" src="https://www.google.com/maps?q=38.93108,-0.57345&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-7-407-8-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.93108,-0.57345&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La A-7 —la Autovía del Mediterráneo, el gran corredor del litoral— es uno de los ejes principales de la red estatal. La intensidad varía por franjas: mañanas laborables densas, tardes más fluidas. La zona responde al carácter de la huerta y el litoral valencianos.
