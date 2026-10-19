@@ -12,6 +12,14 @@
 
 El pk 170,0 de la A-52, en Monterrei (Ourense), es donde se ubica esta cabina; coordenadas 41.96079, -7.51548. Vigila el sentido decreciente, hacia pks menores, con destino Benavente según el registro. El punto exacto puede inspeccionarse en el enlace de Street View de la cabecera.
 
+<iframe title="Mapa: radar a-52-170-0-decreciente-cabina" src="https://www.google.com/maps?q=41.96079,-7.51548&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-52-170-0-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=41.96079,-7.51548&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La A-52, Autovía Rías Baixas, pertenece a la Red de Carreteras del Estado: titularidad estatal. La DGT la encuadra como «AUTOPISTA / AUTOVÍA» en su XML, categoría de la alta capacidad. Sin más detalle del tramo en el fichero, la ficha no añade características sin documentar.
