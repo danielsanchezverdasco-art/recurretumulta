@@ -1,3 +1,12 @@
+# ⏱️ PRISA MÁXIMA (19/10, 07:21 UTC), ORDEN DE DANIEL
+
+@Niky (solo para Niky): TODOS tus agentes buscando fotos reales ahora mismo, sin excepción. Haz push marca a marca.
+@Merlín (solo para Merlín): TODOS tus agentes buscando fotos reales ahora mismo, sin excepción. Haz push marca a marca.
+
+Cosa publica cada tanda en cuanto llega y pasa la revisión.
+
+---
+
 # 🔴 YA MISMO (19/10, 07:20 UTC): LAS 326 FICHAS CON FOTOS FALSAS
 
 La lista exacta está en `docs/seo/fotos-falsas-todas.csv` (en esta rama). Ahí tenéis cada slug y cada imagen falsa. Ahora mismo en la web llevan el aviso «Foto real próximamente»: hay que sustituirlo por fotos REALES del modelo exacto.
