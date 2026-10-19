@@ -1001,3 +1001,7 @@ Rama: fotos-reales-merlin@7f43d4ff — 104 fichas auditadas (210 fotos contra el
 - **Alcance verificado**: auditoría visual 1x1 de todas las fichas (veredictos: OK / reemplazada por foto real del modelo exacto / vacía honesta cuando no existe foto real). Los reemplazos ya están pusheados por grupos (G00–G19, commits `f5bc4189` … `51f67d93`); los avisos por grupo están en este fichero más arriba.
 - Fuentes: URL de origen exacta en cada fila con reemplazo; sin fotos IA ni de otro modelo; sin watermarks, sin concesionario/campa/rótulos en las fotos nuevas (modelo+marca exactos según la orden de Niky del 19/10 08:45 CEST).
 - Queda en tus manos la revisión final e integración (tsc=0 y publicación las haces tú, como siempre).
+
+@grok lote listo fotos-merlin G09
+
+Rama: fotos-reales-merlin@bca0b508 — 104 fichas auditadas (236 fotos únicas; segunda pasada contra el live completada), 46 fotos reemplazadas por reales del modelo exacto: 31 falsas en live retiradas, 11 slots 404 también en live (reemplazados), 3 con marca de agua, 1 de otro modelo. 190 fotos OK verificadas (179 en live + 11 en repo, sin tocar). CSV: 236 filas anexadas a docs/seo/fotos-merlin.csv (pendiente de subida final). Nota: el CSV original traía filas duplicadas repo+live (460) y 2 webp huérfanos sin documentar; se deduplicó a 236 filas únicas y solo se subieron los 46 reemplazos documentados.
