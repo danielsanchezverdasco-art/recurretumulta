@@ -3438,3 +3438,26 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/volkswagen-caravelle-t7-2026-precio-ficha-tecnica-hunt1.webp | https://with-cars.com/tag/mpv/page/8/ | With Cars / Volkswagen (imagen de prensa New Caravelle) | desconocida |
 | /media/volkswagen-caravelle-t7-2026-precio-ficha-tecnica-hunt2.webp | https://autosverschueren.be/NL/te-koop/detail/Volkswagen/T7-Caravelle/7208 | Autos Verschueren (concesionario) | desconocida |
 | /media/volkswagen-caravelle-t7-2026-precio-ficha-tecnica-hunt3.webp | https://marktplatz.volkswagen.at/search/car/L-2026-0554724-AT/extra-equipment/1T9 | Volkswagen (configurador oficial) | desconocida |
+| /media/bluroc-legend-125-2026-ficha-tecnica-precio-hunt1.webp | https://blurocmotorcycles.com/en/shop/ |  | desconocida |
+| /media/bluroc-legend-125-2026-ficha-tecnica-precio-hunt2.webp | https://www.lerepairedesmotards.com/actualites/2022/moto-bluroc-legend-125.php |  | desconocida |
+| /media/bluroc-legend-125-2026-ficha-tecnica-precio-hunt3.webp | https://hdmtrading.co.uk/bluroc-legend-125-parts/ |  | desconocida |
+| /media/iveco-daily-2025-hunt1.webp | https://www.otomoto.pl/news/iveco-daily-to-pracownik-ktory-ciezko-pracuje-oml |  | desconocida |
+| /media/iveco-daily-2025-hunt2.webp | https://www.otomoto.pl/news/iveco-daily-to-pracownik-ktory-ciezko-pracuje-oml |  | desconocida |
+| /media/iveco-daily-2025-hunt3.webp | https://www.otomoto.pl/news/iveco-daily-to-pracownik-ktory-ciezko-pracuje-oml |  | desconocida |
+| /media/roller-team-livingstone-5-2026-precio-ficha-tecnica-hunt1.webp | https://www.caravanasvendrell.com/ROLLER-TEAM-LIVINGSTONE-5-SPORT-2026-AUTOMATICA-05919 |  | desconocida |
+| /media/roller-team-livingstone-5-2026-precio-ficha-tecnica-hunt2.webp | https://autocaravanascostadamorte.com/es/venta/roller-team-livingstone-5-sport/ |  | desconocida |
+| /media/roller-team-livingstone-5-2026-precio-ficha-tecnica-hunt3.webp | https://www.masquecamper.com/venta/livingstone-5-sport-ano-2024-blanca/ |  | desconocida |
+| /media/volkswagen-caddy-2026-precio-ficha-tecnica-hunt1.webp | https://rk-autowelt.de/2026/06/17/der-neue-vw-caddy-und-multivan/ |  | desconocida |
+| /media/volkswagen-caddy-2026-precio-ficha-tecnica-hunt2.webp | https://www.vansdirect.co.uk/blognews/first-glimpse-of-2026-volkswagen-caddy-cargo-id.buzz-long-confirmed/ |  | desconocida |
+| /media/volkswagen-caddy-2026-precio-ficha-tecnica-hunt3.webp | https://skladove-vozidla.vw.sk/d-08199/search/car/L-2026-0527199-SK/extra-equipment/QC1 |  | desconocida |
+| /media/dacia-sandero-stepway-tce-90-2026-precio-ficha-tecnica-hunt1.webp | https://www.completecar.ie/img/galleries/14689/dacia_sandero_stepway_yellow_2026_france_019.jpg | Complete Car (completecar.ie) | desconocida |
+| /media/dacia-sandero-stepway-tce-90-2026-precio-ficha-tecnica-hunt2.webp | https://www.completecar.ie/img/galleries/14689/dacia_sandero_stepway_yellow_2026_france_011.jpg | Complete Car (completecar.ie) | desconocida |
+| /media/dacia-sandero-stepway-tce-90-2026-precio-ficha-tecnica-hunt3.webp | https://autotheme.info/wp-content/uploads/2026/02/Dacia-Sandero-Stepway-2026-salon-768x496.png | AutoTheme (autotheme.info) | desconocida |
+| /media/fb-mondial-imola-125-2026-ficha-tecnica-precio-hunt1.webp | https://www.canariasenmoto.com/noticias/images/galerias/25868/FB-Mondial_Imola125.jpg | Canarias en Moto | desconocida |
+| /media/fb-mondial-imola-125-2026-ficha-tecnica-precio-hunt2.webp | https://www.motosan.es/wp-content/uploads/2021/12/fb_mondial_imola_125_cab_mov-2.jpg | Motosan (motosan.es) | desconocida |
+| /media/fb-mondial-imola-125-2026-ficha-tecnica-precio-hunt3.webp | https://www.automovilesplaycar.com/slir/w900/files/93815/93815_mon_imola125_cherryred_m2_prof.jpg | Indalmar Motor / Playcar | desconocida |
+| /media/opel-zafira-life-2025-hunt1.webp | https://www.log.com.tr/wp-content/uploads/2025/12/Opel-Zafira-2-660x371.jpg | LOG (log.com.tr) | desconocida |
+| /media/opel-zafira-life-2025-hunt2.webp | https://www.beev.co/wp-content/uploads/2023/09/opel_zafira-e_life-1.png | Beev (beev.co) | desconocida |
+| /media/opel-zafira-life-2025-hunt3.webp | https://www.opel.com.mt/cars/zafira-life/zafira-electric/overview/_jcr_content/pageContent/grid_builder_v2_1253/col1/tiled_gallery/item_1700146235929.coreimg.jpeg/1770120295088/opel-zafira-life-my2023-bev-interior-tg-02-16x9.jpeg | Opel Malta (web oficial Opel) | desconocida |
+| /media/volkswagen-golf-r-2026-precio-ficha-tecnica-hunt1.webp | https://cylindersi.pl/wp-content/uploads/2026/03/Volkswagen-Golf-R-wnetrze.jpg | Cylindersi.pl | desconocida |
+| /media/volkswagen-golf-r-2026-precio-ficha-tecnica-hunt2.webp | https://autotest.com.ar/wp-content/uploads/2024/06/Nuevo-Volkswagen-Golf-R-trasera.jpg | Autotest (autotest.com.ar) | desconocida |
