@@ -6,10 +6,13 @@
 // Notas honestas: el precio de 60.990 € es el PVP oficial para Francia (no hay tarifa oficial
 // publicada para España). La motorización listada en el configurador oficial es la Ford de
 // 165 CV con cambio automático de 8 velocidades (la «supérieure» figura como opcional; la base
-// no se detalla en la web). Las fotos no son oficiales: proceden del anuncio del concesionario
-// francés Plein Air Normandie (matrícula blanqueada, sin marcas de agua ni rótulos); se usan
-// bajo la regla relajada de 19/10/2026 (modelo y marca exactos). La marca no publica la carga
-// útil como cifra (cargaUtilKg = null; prohibido calcularla). Consumo, par y emisiones: no publicados.
+// no se detalla en la web). Fotos (verif. 19/10/2026): 2 oficiales de la web de la marca
+// (cama «papillon» y garaje, challenger-camping-cars.fr/modele/s194/); la marca NO publica
+// exterior oficial del S194, así que el exterior y el salón proceden del anuncio del
+// concesionario francés Plein Air Normandie (modelo exacto, matrícula blanqueada, sin marcas
+// de agua ni rótulos); se usan bajo la regla relajada de 19/10/2026 (modelo y marca exactos).
+// La marca no publica la carga útil como cifra (cargaUtilKg = null; prohibido calcularla).
+// Consumo, par y emisiones: no publicados.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
 export const AUTOCARAVANAS_CHALLENGER_M4: Autocaravana[] = [
@@ -52,7 +55,11 @@ export const AUTOCARAVANAS_CHALLENGER_M4: Autocaravana[] = [
     emisionesCo2: null,
     aprox: ["precioDesde"], // precio oficial Francia; en España puede diferir
     notas:
-      "Cotas (599/210/275 cm), MMA 3.500 kg, MRO 2.573 kg, 4 plazas, 2-3 camas, cama fija 132 x 189 cm, dinette convertible 90 x 185 cm, frigorífico de compresión 84 l, agua limpia 105 l, grises 100 l y calefacción Eberspächer diésel 4.000 W: configurador oficial de challenger-camping-cars.fr (verificado 19/10/2026). Precio 60.990 €: PVP oficial Francia (JSON-LD de la página); sin tarifa oficial para España. Motor Ford 165 CV con automático de 8 velocidades listado en el configurador; la motorización base no se detalla. Fotos no oficiales (concesionario Plein Air Normandie, matrícula blanqueada). Carga útil, consumo, par y emisiones: no publicados; quedan en null.",
+      "Cotas (599/210/275 cm), MMA 3.500 kg, MRO 2.573 kg, 4 plazas, 2-3 camas, cama fija 132 x 189 cm, dinette convertible 90 x 185 cm, frigorífico de compresión 84 l, agua limpia 105 l, grises 100 l y calefacción Eberspächer diésel 4.000 W: configurador oficial de challenger-camping-cars.fr (verificado 19/10/2026). Precio 60.990 €: PVP oficial Francia (JSON-LD de la página); sin tarifa oficial para España. Motor Ford 165 CV con automático de 8 velocidades listado en el configurador; la motorización base no se detalla. Fotos (verif. 19/10/2026): 2 oficiales de la web de " +
+      "la marca —la cama «papillon» y el garaje (challenger-camping-cars.fr/modele/s194/)—; la " +
+      "marca no publica exterior oficial del S194, así que el exterior y el salón son del " +
+      "concesionario francés Plein Air Normandie (modelo exacto, matrícula blanqueada, sin " +
+      "marcas de agua ni rótulos). Carga útil, consumo, par y emisiones: no publicados; quedan en null.\",
     curiosidades:
       "La S del S194 significa «slim»: pertenece a la gama «Profilés Slims» de Challenger, perfilados de solo 2,10 m de ancho —20 cm menos que una perfilada convencional— pensados para moverse casi como una furgoneta. Y aun así, con menos de 6 metros de largo, esconde un garaje trasero de verdad: su cama fija «papillon» (mariposa) se articula para agrandar el maletero cuando hace falta cargar material voluminoso. Fuente: página oficial del modelo (https://www.challenger-camping-cars.fr/modele/s194/), descripción oficial del «lit papillon» y dimensiones del configurador.",
     descripcion: `El Challenger S194 es la prueba de que una perfilada no tiene por qué ser un mastodonte: con 5,99 metros de largo y solo 2,10 metros de ancho, este modelo de la gama «Profilés Slims» de Challenger se sitúa a medio camino entre una furgoneta camper y una perfilada convencional, y lo hace sin renunciar a lo que de verdad importa en una autocaravana: una cama fija de verdad, un baño completo y un garaje aprovechable. Es la apuesta francesa por el perfilado compacto, un segmento que crece cada año a medida que los compradores descubren que el tamaño sí importa… pero al revés.
