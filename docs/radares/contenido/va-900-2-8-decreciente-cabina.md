@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 41.6815, -4.7437
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=41.6815,-4.7437)
 
+<iframe title="Mapa: radar va-900-2-8-decreciente-cabina" src="https://www.google.com/maps?q=41.6815,-4.7437&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar va-900-2-8-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=41.6815,-4.7437&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** VA-900, pk 2,82, sentido decreciente y coordenadas 41.6815, -4.7437 proceden del XML oficial de radares fijos de la DGT (portal NAP, DATEX II, edición 2026-10-19). El fichero no publica límite por punto ni municipio: el 90 km/h es el genérico del art. 48 del RGC para convencionales, y Valladolid se determinó con el geocodificador oficial CartoCiudad (IGN/CNIG).
 
 ## Un radar a las puertas de la ciudad
