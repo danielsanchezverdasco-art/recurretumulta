@@ -12,6 +12,14 @@
 
 La Dirección General de Tráfico ubica esta caja en la **CV-91 a la altura del pk 18,9**, en territorio de Alicante. Actúa sobre el **sentido decreciente** de la calzada, esto es, el de los puntos kilométricos decrecientes. El municipio que corresponde a estas coordenadas es **Rojales** (fuente: el geocodificador del IGN). El control fijo de la DGT más próximo es el de la **CV-91, pk 15,3** (sentido creciente), a 3,5 km hacia el oeste.
 
+<iframe title="Mapa: radar cv-91-18-9-decreciente-cabina" src="https://www.google.com/maps?q=38.09497,-0.72217&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cv-91-18-9-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.09497,-0.72217&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La CV-91 pertenece a la red de carreteras de la Generalitat Valenciana. La intensidad varía por franjas: mañanas laborables densas, tardes más fluidas. El territorio por el que discurre la vía es el corredor del Vinalopó y la costa.
