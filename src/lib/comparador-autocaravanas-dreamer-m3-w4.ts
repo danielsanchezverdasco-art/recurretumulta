@@ -143,43 +143,43 @@ Para quién es: para parejas viajeras que quieren un furgón con verdadero baño
     emisionesCo2: null,
     aprox: [],
     notas:
-      "Modelo verificado en la web oficial dreamer-van.es (ficha D68 UP, gama 2027, consultada el 19/10/2026). " +
-      "Dimensiones oficiales: 6,36 m de largo, 2,05 m de ancho y 2,76 m de alto; 4 plazas de viaje y 2+2 plazas para dormir. " +
-      "Nevera 84 L accesible desde dentro y fuera, calefacción Webasto diésel 4 kW, agua 110 L y grises 85 L: ficha oficial. " +
-      "Camas gemelas traseras + 2 plazas extra en el techo elevable (2.000 x 1.300 mm): ficha oficial. " +
-      "Motor Fiat Ducato 2.2 MultiJet 140 CV: documentado por el distribuidor en unidades D68 UP (103 kW/140 CV, cambio automático disponible). " +
-      "Precio null: Dreamer no publica tarifa oficial en España. " +
-      "Las 4 fotos son oficiales de dreamer-van.es (galería del modelo).",
+      "Modelo contrastado en la web oficial dreamer-van.es (ficha del D68 UP, gama 2027, consultada el 19/10/2026). " +
+      "Medidas oficiales: 6,36 m de largo, 2,05 m de ancho y 2,76 m de alto; 4 plazas de viaje y 2+2 para dormir. " +
+      "Según la ficha oficial: nevera de 84 L con acceso interior y exterior, calefacción Webasto diésel de 4 kW, depósitos de 110 L de limpias y 85 L de grises. " +
+      "Camas gemelas atrás y dos plazas más en el techo elevable (2.000 x 1.300 mm): ficha oficial. " +
+      "El distribuidor documenta el D68 UP con el Fiat Ducato 2.2 MultiJet de 103 kW/140 CV, con automática disponible. " +
+      "Precio en null: Dreamer no publica tarifa oficial en España. " +
+      "Las 4 imágenes son oficiales de dreamer-van.es (galería del modelo).",
     curiosidades:
-      "El D68 UP es una de las novedades de la gama Dreamer 2027: es un furgón familiar de 6,36 m con camas gemelas traseras y techo elevable de serie que añade una cama doble de 2.000 x 1.300 mm, de modo que duermen cuatro con camas siempre hechas (fuente: web oficial https://www.dreamer-van.es/fourgon-dreamer-d68-up.php, verificada el 19/10/2026).",
-    descripcion: `El Dreamer D68 UP es la respuesta francesa a la pregunta que se hacen muchas familias: ¿cómo dormir cuatro personas con camas de verdad en un furgón de 6,36 metros sin montar y desmontar la dinette cada noche? La solución de Dreamer se resume en dos letras: UP, techo elevable. Sobre la base del D68 de camas gemelas, la marca del grupo Rapido añade un techo de fuelle con una cama doble de 2.000 x 1.300 mm, y el resultado es un camper familiar donde los padres duermen abajo en camas gemelas y los niños arriba, cada uno en su espacio. Es novedad de la gama 2027 y una de las implantaciones más inteligentes del momento en el segmento.
+      "El D68 UP llega con la gama Dreamer 2027: un furgón familiar de 6,36 m con camas gemelas y techo elevable de serie cuya cama doble mide 2.000 x 1.300 mm, así que cuatro personas duermen con las camas siempre hechas (fuente: web oficial https://www.dreamer-van.es/fourgon-dreamer-d68-up.php, verificada el 19/10/2026).",
+    descripcion: `Hay una pregunta que se repite entre las familias camperistas: cómo dormir cuatro con camas de verdad en 6,36 metros sin montar la dinette cada noche. Dreamer, la marca francesa del grupo Rapido, responde con dos letras: UP. El D68 UP parte del D68 de camas gemelas y le suma un techo de fuelle con cama doble de 2.000 x 1.300 mm: los padres abajo en las gemelas, los niños arriba, cada uno en su rincón. Novedad de la gama 2027 y una de las implantaciones con más sentido del momento.
 
-En medidas y habitabilidad, el D68 UP declara 6.360 mm de largo, 2.050 mm de ancho y 2.760 mm de alto según la ficha oficial de dreamer-van.es. La altura, superior a la de un furgón de techo alto convencional, se explica por el cofre del techo elevable cerrado. Con 3.500 kg de MMA basta el carnet B, y la distribución está pensada para la vida en familia: salón delantero con banqueta y asientos giratorios, cocina central completa, y en la parte trasera dos camas gemelas longitudinales con un garaje transversal debajo —la propia marca destaca el «garaje transversal para llevar todo su equipo» y el «espacio de almacenamiento optimizado con dos armarios roperos»—. Es una distribución que en origen viene del mundo de las perfiladas grandes, trasladada al formato furgón.
+El techo que lo cambia todo. La cama superior, de 2.000 x 1.300 mm, es generosa de verdad: caben dos adultos sin estrecheces. Se despliega con un gesto y, plegado, el vehículo conserva una altura contenida para circular. Frente al furgón clásico de transversal más dinette convertible, aquí las cuatro plazas son camas auténticas, sin «camas de compromiso». Eso sí: con el fuelle abierto la altura interior arriba es limitada, así que quien sea muy alto debería probarla antes de firmar; no es un dormitorio para claustrofóbicos.
 
-En tecnología y equipamiento, el D68 UP se ofrece en los acabados Fun y Fun+ de Dreamer. La ficha oficial destaca la nevera de 84 litros accesible desde el interior y desde el exterior —un detalle muy práctico para el día a día, porque permite coger bebidas sin entrar al vehículo—, la calefacción Webasto diésel de 4 kW (funciona con el propio gasóleo del depósito, sin depender de bombonas de gas) y los depósitos de 110 litros de aguas limpias y 85 litros de grises. Como en toda la gama Dreamer, los packs de opciones (Assist, confort, multimedia) añaden ayudas a la conducción, llanta de aleación, climatizador automático de cabina y pantalla multimedia. El mobiliario se fabrica en Mayenne (Francia), en la planta que el grupo Rapido dedica en exclusiva a Dreamer.
+Medidas de furgón grande. La ficha oficial de dreamer-van.es declara 6.360 mm de largo, 2.050 mm de ancho y 2.760 mm de alto. Esa altura, por encima de un techo alto convencional, la explica el cofre del elevable cerrado. La MMA es de 3.500 kg: vale el carnet B. La planta interior —salón delantero con banqueta y asientos giratorios, cocina central completa y, al fondo, dos camas gemelas longitudinales con garaje transversal debajo— viene directamente del mundo de las perfiladas grandes, adaptada al formato furgón. La propia marca presume del «garaje transversal para llevar todo su equipo» y del «almacenaje optimizado con dos armarios roperos».
 
-En camas y plazas está su razón de ser: cuatro plazas de viaje homologadas y cuatro plazas para dormir reales, repartidas en 2+2. Abajo, las camas gemelas traseras —«un espacio independiente dedicado para una mayor intimidad», dice la marca— con colchones de buen grosor y somieres; arriba, la cama del techo elevable de 2.000 x 1.300 mm, una medida generosa que admite a dos adultos sin agobios. El techo se abre con un gesto y, cerrado, el vehículo mantiene una altura contenida para circular. Frente a un furgón con cama transversal y dinette convertible, aquí nadie duerme en una cama «de compromiso»: las cuatro plazas son camas de verdad.
+Equipamiento: lo útil, de serie. El D68 UP se vende en los acabados Fun y Fun+ de Dreamer. La ficha oficial subraya la nevera de 84 litros accesible por dentro y por fuera —coger una bebida sin entrar al vehículo se agradece cada día—, la calefacción Webasto diésel de 4 kW, que tira del gasóleo del depósito y libera de las bombonas de gas, y los depósitos de 110 litros de aguas limpias y 85 de grises. Los packs de la casa (Assist, confort, multimedia) completan ayudas a la conducción, llanta de aleación, climatizador automático de cabina y pantalla multimedia. El mobiliario sale de Mayenne (Francia), de la planta que el grupo Rapido reserva en exclusiva para Dreamer.
 
-En mecánica, la base es el Fiat Ducato 2.2 MultiJet con 140 CV, la motorización que los distribuidores documentan en las unidades D68 UP (103 kW/140 CV, con cambio automático disponible como opción). Es el motor estándar de la gama Fun: suficiente para mover con soltura los 3.500 kg, contenido en consumo y con mantenimiento sencillo en cualquier servicio Fiat. La tracción es delantera y el chasis es el Light de Fiat, el habitual en este segmento.
+Motor. La base es el Fiat Ducato 2.2 MultiJet de 140 CV —103 kW según documentan los distribuidores en las unidades D68 UP—, con cambio automático en opción. Es la motorización estándar de la gama Fun: mueve con soltura los 3.500 kg, gasta contenido y se mantiene en cualquier servicio Fiat. Tracción delantera y chasis Light, lo habitual en el segmento.
 
-En precio y red comercial en España, Dreamer no publica tarifa oficial, así que el precio de esta ficha queda en null y deberá pedirse presupuesto al distribuidor. Como referencia, los D68 UP que anuncian los distribuidores europeos se mueven en la franja alta de los furgones familiares de 6,36 m, por encima de un camper básico y por debajo de una perfilada equivalente. En España la marca opera a través de la red del grupo Rapido; conviene comparar al menos dos ofertas porque el acabado Fun+ y los packs mueven el precio final varios miles de euros, y preguntar por unidades en stock frente a pedido a fábrica.
+Precio. Dreamer no publica tarifa oficial en España: null en la ficha y presupuesto a pedir al distribuidor. Como orientación, los D68 UP que anuncian los distribuidores europeos se sitúan en la franja alta de los furgones familiares de 6,36 m —por encima de un camper básico, por debajo de una perfilada equivalente—. En España la marca se vende en la red del grupo Rapido; merece la pena comparar al menos dos ofertas, porque el acabado Fun+ y los packs mueven el precio varios miles de euros, y preguntar por unidades en stock frente a pedido a fábrica.
 
-Cómo lo verificamos: ficha oficial del modelo en dreamer-van.es (https://www.dreamer-van.es/fourgon-dreamer-d68-up.php, consultada el 19/10/2026), de donde salen dimensiones, plazas, equipamiento y la galería de fotos oficiales; anuncios de distribuidores europeos con la motorización 103 kW/140 CV y caja automática; y catálogo oficial Dreamer Colección 2026 para el contexto de gama. Nada está inventado: lo que la marca no publica queda en null y declarado en las notas.
+Cómo lo verificamos: ficha oficial del modelo en dreamer-van.es (https://www.dreamer-van.es/fourgon-dreamer-d68-up.php, consultada el 19/10/2026), origen de medidas, plazas, equipamiento y de las fotos oficiales de la galería; anuncios de distribuidores europeos con la motorización de 103 kW/140 CV y la automática; y el catálogo oficial Dreamer Colección 2026 para el marco de gama. Nada inventado: lo que la marca no publica queda en null y así se declara en las notas.
 
-Para quién es: para familias de cuatro que quieren un furgón —no una perfilada— con cuatro camas reales y garaje para bicis, tablas o sillas, que valoran la maniobrabilidad del 6,36 m y el techo elevable como segunda planta. Encaja también con parejas que viajan con nietos o amigos de forma ocasional. No es para quien busque el furgón más barato ni para quien necesite más de cuatro plazas de viaje; y quien mida mucho debería probar la cama del techo antes de firmar, porque el fuelle limita la altura interior arriba.`,
+Para quién: familias de cuatro que quieren furgón —no perfilada— con cuatro camas reales y garaje para bicis, tablas o sillas; que aprovechan la agilidad del 6,36 m y ven el techo como una segunda planta. También sirve a parejas que viajan con nietos o amigos de vez en cuando. No es el furgón más barato del mercado ni admite una quinta plaza de viaje; y, como se dijo, las personas muy altas deben probar la cama del techo antes de decidir.`,
     pros: [
-      "Cuatro camas reales (gemelas + techo elevable de 2.000 x 1.300 mm): nadie duerme en la dinette.",
-      "Garaje transversal bajo las camas gemelas: cabe el equipo deportivo de toda la familia.",
-      "Nevera de 84 L accesible desde dentro y desde fuera: detalle práctico muy bien resuelto.",
-      "Calefacción Webasto diésel de 4 kW: funciona con el gasóleo del depósito, sin bombonas.",
-      "Con 3.500 kg basta el carnet B pese a ser un familiar de 6,36 m.",
+      "Cuatro camas de verdad —gemelas abajo y elevable de 2.000 x 1.300 mm arriba—: la dinette no se toca.",
+      "Garaje transversal bajo las gemelas: el material deportivo de toda la familia cabe dentro.",
+      "Nevera de 84 L con acceso doble, interior y exterior: un acierto de uso diario.",
+      "Webasto diésel de 4 kW: calefacción con el gasóleo del depósito, adiós bombonas.",
+      "Familiar de 6,36 m con 3.500 kg de MMA: carnet B suficiente.",
     ],
     contras: [
-      "La marca no publica PVP oficial: hay que pedir presupuesto y negociar sin referencia.",
-      "El techo elevable suma altura (2,76 m), peso y un elemento textil más que mantener.",
-      "La cama del techo tiene altura limitada con el fuelle abierto: no es para claustrofóbicos.",
-      "Si se viaja a cuatro con el garaje lleno, la carga útil puede quedarse justa: pesar el conjunto.",
-      "Como novedad 2027, al principio habrá pocas unidades de ocasión y repuestos específicos del techo.",
+      "Sin PVP oficial publicado: toca pedir presupuesto y negociar a ciegas.",
+      "El elevable añade altura (2,76 m), kilos y una lona que mantener.",
+      "La cama del techo, con el fuelle abierto, queda justa de altura libre.",
+      "A cuatro ocupantes y con el garaje lleno, la carga útil puede ir justa: conviene pesar el conjunto.",
+      "Al ser novedad 2027, al principio escasearán las unidades de ocasión y los repuestos del techo.",
     ],
     opiniones: [],
     galeria: [
