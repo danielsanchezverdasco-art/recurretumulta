@@ -30,7 +30,7 @@ export const COCHES_CHANGAN: CocheComparador[] = [
     modelo: "E06",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: null, // sin precio oficial publicado (estimaciones no oficiales ~30.000 €)
+    precioDesde: null, // sin precio oficial publicado
     potenciaCv: 274, // 200 kW / 274 PS oficiales
     autonomiaKm: 450, // WLTP oficial
     maleteroL: 545,

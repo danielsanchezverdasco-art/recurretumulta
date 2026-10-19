@@ -941,7 +941,7 @@ export const COCHES_BYD: CocheComparador[] = [
       "Carga rápida de 140 kW (10-80 % en ~43 min)",
     ],
     contras: [
-      "Desde ~46.990 €: precio de tarifa elevado",
+      "Desde aprox. 47.290 €: precio de tarifa elevado",
       "9,3 s de 0-100 km/h: no es un SUV deportivo",
       "Maletero de 425 litros, mejorable para 4,79 m",
       "Asistentes a la conducción algo intrusivos",
@@ -1181,7 +1181,7 @@ export const COCHES_BYD: CocheComparador[] = [
       "204 CV y 7,5 s de 0-100 km/h: el más rápido de su clase",
       "Autonomía total de más de 1.000 km",
       "Etiqueta Cero de la DGT con 22 g/km de CO2",
-      "Desde 27.780 €: precio rompedor para un PHEV",
+      "Desde aprox. 28.200 €: precio rompedor para un PHEV",
     ],
     contras: [
       "Sin carga rápida en continua",

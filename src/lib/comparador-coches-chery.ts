@@ -1655,7 +1655,7 @@ export const COCHES_CHERY: CocheComparador[] = [
     tipo: "Híbrido enchufable",
     categoria: "SUV",
     precioDesde: 15700,
-    potenciaCv: null,
+    potenciaCv: 360,
     autonomiaKm: 1300,
     maleteroL: null,
     ceroCien: null,
@@ -1672,7 +1672,7 @@ export const COCHES_CHERY: CocheComparador[] = [
     ],
     contras: [
       "Solo a la venta en China",
-      "Sin cifras oficiales de potencia combinada publicadas",
+      "Sin ficha técnica oficial europea: la potencia combinada (360 CV aprox.) es la publicada en las especificaciones de China",
       "Sin red de servicio en Europa",
       "Peso elevado por la doble mecánica",
       "Sin calificación Euro NCAP",
@@ -1687,7 +1687,7 @@ export const COCHES_CHERY: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["precio", "cargaRapidaKw"],
+    aprox: ["precio", "cargaRapidaKw", "potenciaCv"],
     imagen: "/media/chery-explorer-06-c-dm-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1852,7 +1852,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       "900 km de autonomía combinada WLTP: el EREV que elimina la ansiedad por la carga",
       "145 km eléctricos WLTP: etiqueta Cero y el día a día sin gastar una gota",
       "449 CV con tracción total: prestaciones de todoterreno serio",
-      "Precio europeo de lanzamiento de 54.900 €: agresivo para un 4x4 de 4,9 metros",
+      "Precio europeo de lanzamiento de aprox. 54.900 €: agresivo para un 4x4 de 4,9 metros",
       "Chery ya es la segunda marca china en Europa: red comercial en expansión",
     ],
     contras: [
