@@ -12,6 +12,15 @@
 
 La cabina se sitúa en la carretera RM-602, pk 5,1, en Cartagena (Murcia), coordenadas 37.706135, -1.0820472. El sentido controlado es el decreciente: el de los vehículos que circulan hacia puntos kilométricos más bajos. El enlace de Street View muestra el tramo como lo verá el conductor, con la cabina a la vista.
 
+<iframe title="Mapa: radar rm-602-5-1-decreciente-cabina" src="https://www.google.com/maps?q=37.706135,-1.0820472&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar rm-602-5-1-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=37.706135,-1.0820472&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La RM-602 es una carretera convencional autonómica de la Región de Murcia, en el término de Cartagena: calzada única, un carril por sentido, con el régimen de las convencionales, más restrictivo que el de las autovías. La ficha no añade más datos del tramo.
