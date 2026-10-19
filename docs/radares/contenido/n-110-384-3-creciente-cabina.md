@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 40.12725, -5.9125433
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.12725,-5.9125433)
 
+<iframe title="Mapa: radar n-110-384-3-creciente-cabina" src="https://www.google.com/maps?q=40.12725,-5.9125433&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-110-384-3-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.12725,-5.9125433&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** La información de vía, punto kilométrico, sentido y posición se obtiene del XML oficial de radares de la DGT (DATEX II, portal NAP), consultado el 2026-10-19. Ese dataset no publica el límite de velocidad de cada punto ni el municipio: el límite de la ficha es el genérico del RGC (art. 48, RD 1428/2003) por tipo de vía, y el municipio viene del geocodificador oficial CartoCiudad (IGN/CNIG).
 
 ## La carretera
