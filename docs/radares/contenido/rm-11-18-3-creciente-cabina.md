@@ -12,6 +12,15 @@
 
 La cabina está en la autovía RM-11, pk 18,3, en Águilas (Murcia), coordenadas 37.529324, -1.6284083. Enfoca el sentido creciente, el de los puntos kilométricos en aumento. El enlace de Street View ofrece la vista del conductor en la aproximación.
 
+<iframe title="Mapa: radar rm-11-18-3-creciente-cabina" src="https://www.google.com/maps?q=37.529324,-1.6284083&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar rm-11-18-3-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=37.529324,-1.6284083&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La RM-11 es una autovía autonómica de la Región de Murcia que comunica Lorca con Águilas y remata su recorrido muy cerca del mar. En este pk ya se respira ambiente de acceso a la costa: en verano el tráfico se dispara respecto al invierno y abundan los conductores que la recorren por primera vez. El XML de la DGT no añade más datos del tramo.
