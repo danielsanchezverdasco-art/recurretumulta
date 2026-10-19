@@ -12,6 +12,14 @@
 
 El punto controlado está en la AP-9V, pk 1,7, en Vigo (Pontevedra), con coordenadas 42.253056, -8.684468. El cinemómetro se orienta al sentido decreciente, hacia pks inferiores, con destino TEIS según el registro oficial. El enlace de Street View muestra la posición exacta sobre la calzada.
 
+<iframe title="Mapa: radar ap-9v-1-7-decreciente-cabina" src="https://www.google.com/maps?q=42.253056,-8.684468&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar ap-9v-1-7-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.253056,-8.684468&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La AP-9V es una vía de titularidad estatal en el entorno de Vigo, con denominación vinculada a la AP-9. La DGT le asigna en su XML la singularidad «AUTOPISTA / AUTOVÍA» por su denominación oficial. El documento no describe el tramo, por lo que la ficha no lo caracteriza.
