@@ -2536,3 +2536,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/cecotec-bongo-d30-xl-connected-hunt1.webp | https://www.ahorradoras.com/wp-content/uploads/2023/11/bongo-d30-xl-on4iil-2.webp | Ahorradoras | desconocida |
 | /media/cecotec-bongo-d30-xl-connected-hunt2.webp | https://m.media-amazon.com/images/I/41+8HVqYrvL._AC_SL1000_.jpg | Amazon / e-patinetes | desconocida |
 | /media/cecotec-bongo-d30-xl-connected-hunt3.webp | https://www.eldisser.com/img/imgproductos/266/881/266881.jpg | Eldisser | desconocida |
+| /media/segway-superscooter-gt3-pro-hunt1.webp | https://aleksandrov.elektro-mall.ru/elektrosamokaty/elektrosamokat-segway-ninebot-superscooter-gt3-pro-1 | Elektro-Mall (fotos oficiales del producto) | desconocida |
+| /media/segway-superscooter-gt3-pro-hunt2.webp | https://aleksandrov.elektro-mall.ru/elektrosamokaty/elektrosamokat-segway-ninebot-superscooter-gt3-pro-1 | Elektro-Mall (fotos oficiales del producto) | desconocida |
+| /media/segway-superscooter-gt3-pro-hunt3.webp | https://www.mediamarkt.be/fr/product/_segway-segway-superscooter-gt3-pro-2175494.html | MediaMarkt Bélgica (foto de catálogo) | desconocida |
+| /media/navee-v40i-hunt1.webp | https://fr-data.manualslib.com/product-images/336/1079552/navee-v40i-scooters.jpg | ManualsLib | desconocida |
+| /media/navee-v40i-hunt2.webp | https://naveetech.us/cdn/shop/files/navee-electric-scooter-v40i-1082662977.png?v=1751973257&width=800 | Navee Tech (web oficial, naveetech.us) | desconocida |
+| /media/navee-v40i-hunt3.webp | https://i5.walmartimages.com/seo/Navee-V40i-Foldable-Electric-Scooter-700W-20MPH-25Miles-Turning-Light-Black_364fd62a-1631-4725-a924-6f926b16a1f3.d32adfa2a195f6c6cbcb4e5c9ce9422a.png | Walmart | desconocida |
+| /media/stark-future-varg-mx-1-2-2025-ficha-tecnica-precio-hunt1.webp | https://starkfuture.com/parts-and-accessories/spare-parts | Stark Future (web oficial) | desconocida |
+| /media/stark-future-varg-mx-1-2-2025-ficha-tecnica-precio-hunt2.webp | https://www.cyclenews.com/2025/08/article/new-2026-stark-varg-mx-1-2-specs-and-price/ | Cycle News | desconocida |
+| /media/stark-future-varg-mx-1-2-2025-ficha-tecnica-precio-hunt3.webp | https://www.dirthub.co.uk/stark-future-unveils-the-varg-mx-1-2/ | Dirt Hub | desconocida |
+| /media/audi-q4-e-tron-2025-precio-ficha-tecnica-hunt1.webp | https://emea-dam.audi.com/adobe/assets/urn:aaid:aem:e54ca1a5-6126-45a9-a141-60b93b8ec0e1/original/as/Q4-SUV-e-tron-Vorsprung-1-1.webp?preferwebp=true&width=300 | Audi (prensa oficial) | desconocida |
+| /media/audi-q4-e-tron-2025-precio-ficha-tecnica-hunt2.webp | https://static0.carbuzzimages.com/wordpress/wp-content/uploads/gallery-images/original/1059000/400/1059406.jpg?w=1200&h=675&fit=crop | CarBuzz | desconocida |
+| /media/audi-q4-e-tron-2025-precio-ficha-tecnica-hunt3.webp | https://en.wheelz.me/wp-content/uploads/2024/07/A243601_medium.webp | Wheelz.me | desconocida |
+| /media/leapmotor-c10-reev-2025-precio-ficha-tecnica-hunt1.webp | https://motorsactu.com/wp-content/uploads/2025/03/Leapmotor-C10-REEV-2025-1.jpg | MotorsActu | desconocida |
+| /media/leapmotor-c10-reev-2025-precio-ficha-tecnica-hunt2.webp | https://motorsactu.com/wp-content/uploads/2025/03/Leapmotor-C10-REEV-2025-12.jpg | MotorsActu | desconocida |
+| /media/leapmotor-c10-reev-2025-precio-ficha-tecnica-hunt3.webp | https://editorial.pxcrush.net/carsales/general/editorial/leapmotor-c10-reev-2025-review_o2a2102.jpg?width=1024&height=682 | CarSales | desconocida |
+| /media/navee-v40-hunt1.webp | https://www.notebookcheck.com/fileadmin/Notebooks/News/_nc3/Navee-V40.jpg | Notebookcheck | desconocida |
+| /media/navee-v40-hunt2.webp | https://naveetech.us/cdn/shop/files/navee-electric-scooter-v40-1087398246.png?v=1751968430&width=3375 | Navee (web oficial) | desconocida |
+| /media/navee-v40-hunt3.webp | https://cdn.wasserman.eu/generated/images/s960/2893565/navee-v40-electric-scooter-300-w-25-km-h-10-black | Wasserman | desconocida |
+| /media/riddara-rd6-2025-precio-ficha-tecnica-hunt1.webp | https://www.ridebuster.com/wp-content/uploads/2025/08/Riddara-RD6-3-576x384.jpg | Ridebuster | desconocida |
+| /media/riddara-rd6-2025-precio-ficha-tecnica-hunt2.webp | https://img-ik.cars.co.za/news-site-za/images/2025/03/2025-riddara-rd6-studio-1.jpg?tr=h-347,w-617,q-80,f-auto | cars.co.za | desconocida |
+| /media/riddara-rd6-2025-precio-ficha-tecnica-hunt3.webp | https://riddara.com.uy/wp-content/uploads/2025/08/rd6_econ_final_2155x1086px.webp | Riddara (concesionario oficial Uruguay) | desconocida |
+| /media/rieju-mr-racing-300-2024-ficha-tecnica-precio-hunt1.webp | https://cdn-listino.inmoto.it/2024/1/12/MR_RACING_0439_e05aa9871d.jpg | inMoto (Italia) | desconocida |
+| /media/rieju-mr-racing-300-2024-ficha-tecnica-precio-hunt2.webp | https://cdn-listino.inmoto.it/2025/8/18/img_87f7fdc976b0f91ab361cb0b26116d6b_3056379679.jpg | inMoto (Italia) | desconocida |
+| /media/rieju-mr-racing-300-2024-ficha-tecnica-precio-hunt3.webp | https://images.squarespace-cdn.com/content/v1/5dfa683e65498c1743f10ed0/1636387131656-IQRMU5AEYI3JUH61TNBP/Rieju-MR-300-Racing-2.jpeg?format=1000w | CMS Exeter (concesionario Rieju) | desconocida |
