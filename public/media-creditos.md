@@ -4131,3 +4131,28 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/qjmotor-srk600-2025-ficha-tecnica-precio-hunt1.webp | https://qjmotor-benelux.com/wp-content/uploads/2025/01/SRK600-G5912-768x512.jpg | QJMotor Benelux (importador oficial) | desconocida |
 | /media/qjmotor-srk600-2025-ficha-tecnica-precio-hunt2.webp | https://qjmotor-benelux.com/wp-content/uploads/2025/01/SRK600-V5918-768x512.jpg | QJMotor Benelux (importador oficial) | desconocida |
 | /media/qjmotor-srk600-2025-ficha-tecnica-precio-hunt3.webp | https://www.motoplanete.com/Qianjiang/millesimes/srk_600_2025/2025_1_bleu.webp | Motoplanete | desconocida |
+| /media/tank-300-hi4-t-2025-precio-ficha-tecnica-hunt1.webp | https://media.whichcar.com.au/uploads/2025/12/GWM-Tank-300-PHEV_02-1920x1281.jpeg | WhichCar (Australia) | desconocida |
+| /media/tank-300-hi4-t-2025-precio-ficha-tecnica-hunt2.webp | http://iw.aicarglobal.com/wp-content/uploads/2025/02/10001-4-scaled.jpg | AICarGlobal | desconocida |
+| /media/tank-300-hi4-t-2025-precio-ficha-tecnica-hunt3.webp | https://erscglobal2.autoimg.cn/escimg/auto/g34/M03/3C/9F/1400x0_c42_autohomecar__ChxpV2qROvWAOko1AAp1J8Wc4H0774.jpg.webp | Autohome / Westmotors | desconocida |
+| /media/bmw-serie-2-gran-coupe-2025-precio-ficha-tecnica-hunt1.webp | https://www.thetorquereport.com/wp-content/uploads/2024/10/P90572410_highRes-1024x683.jpeg | Foto de prensa BMW, republicada por The Torque Report | desconocida |
+| /media/bmw-serie-2-gran-coupe-2025-precio-ficha-tecnica-hunt2.webp | https://bimmerlife.com/wp-content/uploads/2024/10/P90572287_highRes-scaled.jpg | Foto de prensa BMW, republicada por BimmerLife | desconocida |
+| /media/bmw-serie-2-gran-coupe-2025-precio-ficha-tecnica-hunt3.webp | https://digital.staff-capital.com/wp-content/uploads/bmw-2-gran-coupe-2025-02.webp | Foto de prensa BMW, republicada por Staff-Capital | desconocida |
+| /media/chery-fulwin-t10-2024-precio-ficha-tecnica-hunt1.webp | https://carnewschina.com/wp-content/uploads/2024/03/8d1333cbd4fe38ecbce1bd844be667bd@159927-800x565.jpg | CarNewsChina | desconocida |
+| /media/chery-fulwin-t10-2024-precio-ficha-tecnica-hunt2.webp | https://carnewschina.com/wp-content/uploads/2024/06/1-96-800x537.jpg | CarNewsChina | desconocida |
+| /media/chery-fulwin-t10-2024-precio-ficha-tecnica-hunt3.webp | https://acnews.blob.core.windows.net/imgnews/paragraph/NPAZ_09f14384f12048449f834e4efed7264c.webp | Autocosmos Chile (fuente original: Autohome/汽车之家) | desconocida |
+| /media/inmotion-rs-hunt1.webp | http://trotinetesportugal.com/wp-content/uploads/2023/09/inmotion-rs-01.jpg | Trotinetes Portugal (foto oficial de producto) | desconocida |
+| /media/qjmotor-srk400-2025-ficha-tecnica-precio-hunt1.webp | https://immagini.insella.it/sites/default/files/styles/1240w/public/2025/12/qj_motor_srk400_2025_6.jpg.webp | InSella (prueba real SRK 400 2025) | desconocida |
+| /media/qjmotor-srk400-2025-ficha-tecnica-precio-hunt2.webp | https://immagini.insella.it/sites/default/files/styles/1240w_fallback/public/2025/12/qj_motor_srk400_2025_7.jpg | InSella (prueba real SRK 400 2025) | desconocida |
+| /media/qjmotor-srk400-2025-ficha-tecnica-precio-hunt3.webp | https://cdpcdn.dx1app.com/products/USA/QJMOTOR/2025/MC/SPORT/SRK400/50/BLACK/2000000006.jpg | QJMotor (catálogo oficial EE. UU.) | desconocida |
+| /media/tank-300-hev-2024-precio-ficha-tecnica-hunt1.webp | https://www.gwm.com.my/content/dam/gwm/pages/my/en/models/tank-300-hev/exterior/4-4.webp | GWM (página oficial) | desconocida |
+| /media/tank-300-hev-2024-precio-ficha-tecnica-hunt2.webp | https://images.carexpert.com.au/crop/1600/1067/app/uploads/2023/12/GWM-Tank-300-Hybrid-HEV-MARKETING-20.jpg | CarExpert (foto de marketing GWM) | desconocida |
+| /media/tank-300-hev-2024-precio-ficha-tecnica-hunt3.webp | https://www.car250.com/wp-content/uploads/2023/08/TN201239-768x512.jpg | Car250 | desconocida |
+| /media/bmw-serie-3-2025-precio-ficha-tecnica-hunt1.webp | https://images.dailyrevs.com/0000/v3/BMW/6656f6718be8aa5f2f3ee690/2025-3-series-sedan-g20-bmw-de4y00daobzvgvn7o.jpeg | BMW / Dailyrevs | desconocida |
+| /media/bmw-serie-3-2025-precio-ficha-tecnica-hunt2.webp | https://images.dailyrevs.com/0000/v3/BMW/6656f6718be8aa5f2f3ee690/2025-3-series-sedan-g20-bmw-de0y8i0h3y0l9rq72r.jpeg | BMW / Dailyrevs | desconocida |
+| /media/bmw-serie-3-2025-precio-ficha-tecnica-hunt3.webp | https://images.dailyrevs.com/0000/v3/BMW/6656f6718be8aa5f2f3ee690/2025-3-series-sedan-g20-bmw-dea2iassssm0ai6oqyajna.jpeg | BMW / Dailyrevs | desconocida |
+| /media/chery-eq1-2024-precio-ficha-tecnica-hunt1.webp | https://autokucaalfa.com/wp-content/uploads/2024/12/EQ1-2.jpg | Auto Kuća Alfa | desconocida |
+| /media/chery-eq1-2024-precio-ficha-tecnica-hunt2.webp | https://www.autolooks.net/uploads/6/4/5/5/6455546/2024-chery-eq1-1_orig.jpg | Autolooks.net | desconocida |
+| /media/chery-eq1-2024-precio-ficha-tecnica-hunt3.webp | https://ev.motorwatt.com/media/djcatalog2/images/item/17/chery-eq1-2024.6.jpg | MotorWatt EV Database | desconocida |
+| /media/inokim-ox-hunt1.webp | https://inokim.com.au/image/ox.png | Inokim (web oficial, Australia) | desconocida |
+| /media/inokim-ox-hunt2.webp | http://inokim.shop/cdn/shop/files/3_ab846cbb-2213-4d43-8ad3-b4edb1f93097.png?v=1770671290 | Inokim Shop | desconocida |
+| /media/inokim-ox-hunt3.webp | https://motoped.com/wp-content/uploads/INOKIM-Ox-Electric-Scooter.jpg | Motoped | desconocida |
