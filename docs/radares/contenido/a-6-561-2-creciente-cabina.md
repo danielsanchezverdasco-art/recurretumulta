@@ -12,6 +12,14 @@
 
 Las coordenadas 43.24344, -8.171427 sitúan esta cabina en la A-6, término de Coirós (A Coruña), a la altura del pk 561,2. Vigila el sentido creciente —dirección a pks mayores—; el registro consigna como destino A Coruña. El enlace de Street View de la cabecera muestra el emplazamiento desde la autovía.
 
+<iframe title="Mapa: radar a-6-561-2-creciente-cabina" src="https://www.google.com/maps?q=43.24344,-8.171427&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-6-561-2-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=43.24344,-8.171427&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La A-6, Autovía del Noroeste, es de titularidad estatal y pertenece a la Red de Carreteras del Estado. La DGT la clasifica como «AUTOPISTA / AUTOVÍA», categoría de las vías de alta capacidad. El fichero no detalla el tramo, así que la ficha se ciñe a lo documentado.
