@@ -1753,3 +1753,6 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/rieju-mrt-50-2025-ficha-tecnica-precio-hunt1.webp | https://moto-stopfel.de/produkt/mrt-50/ | moto-stopfel.de (concesionario) | desconocida |
 | /media/rieju-mrt-50-2025-ficha-tecnica-precio-hunt2.webp | https://www.rameis-motorrad.at/marken/rieju/ | Rameis Motorrad (concesionario) | desconocida |
 | /media/rieju-mrt-50-2025-ficha-tecnica-precio-hunt3.webp | https://aprilia.motocitywest.at/de/motorrad-modell-rieju-mrt-50-10684-2024 | 1000ps.net (catálogo) | desconocida |
+| /media/rolls-royce-spectre-2024-precio-ficha-tecnica-hunt1.webp | https://Carbuzz.com/cars/rolls-royce/spectre/2024/ | CarBuzz (fotos de prensa) | desconocida |
+| /media/rolls-royce-spectre-2024-precio-ficha-tecnica-hunt2.webp | https://Carbuzz.com/cars/rolls-royce/spectre/2024/ | CarBuzz (fotos de prensa) | desconocida |
+| /media/rolls-royce-spectre-2024-precio-ficha-tecnica-hunt3.webp | https://Carbuzz.com/cars/rolls-royce/spectre/2024/ | CarBuzz (fotos de prensa) | desconocida |
