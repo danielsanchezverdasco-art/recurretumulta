@@ -12,6 +12,14 @@
 
 La cabina se sitúa en la OU-525, pk 230,7, en el municipio de San Cibrao das Viñas (Ourense), coordenadas 42.28441, -7.858057. Mide el sentido decreciente, el de los vehículos hacia puntos kilométricos menores, con destino Benavente según el registro de la DGT. El enlace de Street View muestra el punto exacto sobre la calzada.
 
+<iframe title="Mapa: radar ou-525-230-7-decreciente-cabina" src="https://www.google.com/maps?q=42.28441,-7.858057&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar ou-525-230-7-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.28441,-7.858057&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La OU-525 es una carretera autonómica de la Xunta de Galicia, de trazado convencional. Como vía no desdoblada, queda sujeta al régimen genérico de las carreteras convencionales. El fichero oficial de la DGT no describe este tramo, por lo que la ficha no añade ninguna característica.
