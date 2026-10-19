@@ -415,3 +415,30 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/turboant-x7-max-hunt2.webp | https://turboant.com/products/x7-max-folding-electric-scooter-google | TurboAnt (web oficial) | desconocida |
 | /media/turboant-x7-max-hunt3.webp | https://electricscooterguide.com/the-best-electric-scooters-of-2023/ | electricscooterguide.com (foto de prensa TurboAnt) | desconocida |
 | /media/alfa-romeo-mito-2025-hunt1.webp | https://alfaromeogiuliasuv.web.app/mito-alfa-romeo-2010.html | Matt Vosper / Autocar (foto de prensa Alfa Romeo) | desconocida |
+
+## photo-hunt (19/10/2026) — uploader-2
+| /media/aito-m5-2024-precio-ficha-tecnica-hunt1.webp | https://carnewschina.com/2024/04/17/new-aito-m5-suv-pre-sales-started-in-china/ | CarNewsChina | desconocida |
+| /media/aito-m5-2024-precio-ficha-tecnica-hunt2.webp | https://www.cevauto.com/aito-m5/ | CEVAUTO | desconocida |
+| /media/aito-m5-2024-precio-ficha-tecnica-hunt3.webp | https://www.cieauto.com/products/2024-aito-m5-max-rs-4wd | Cieauto | desconocida |
+| /media/porsche-taycan-turbo-gt-2026-precio-ficha-tecnica-hunt1.webp | https://www.stuttcars.com/2025-porsche-taycan-turbo-gt-pictures-gallery/ | Porsche Press / StuttCars | desconocida |
+| /media/porsche-taycan-turbo-gt-2026-precio-ficha-tecnica-hunt2.webp | https://www.stuttcars.com/2025-porsche-taycan-turbo-gt-pictures-gallery/ | Porsche Press / StuttCars | desconocida |
+| /media/porsche-taycan-turbo-gt-2026-precio-ficha-tecnica-hunt3.webp | https://www.stuttcars.com/2025-porsche-taycan-turbo-gt-pictures-gallery/ | Porsche Press / StuttCars | desconocida |
+| /media/sehol-x6-2024-precio-ficha-tecnica-hunt1.webp | https://img.pcauto.com.cn/images/ttauto/2022/08/15/7131716229710250510/ccc6810eee1546b4b275738a3ebf3b22.png | PCauto | desconocida |
+| /media/sehol-x6-2024-precio-ficha-tecnica-hunt2.webp | https://img.pcauto.com.cn/images/ttauto/2023/05/17/7233727695598109243/b22fc0af36b1467da8dd89338b5c59d3.png | PCauto | desconocida |
+| /media/sehol-x6-2024-precio-ficha-tecnica-hunt3.webp | http://www.jncarw.com/daogouxinwen/455600.html | jncarw | desconocida |
+| /media/sym-joymax-z-plus-300-2026-ficha-tecnica-precio-hunt1.webp | https://sym-motor.de/joymax-z-300/ | SYM Germany | desconocida |
+| /media/sym-joymax-z-plus-300-2026-ficha-tecnica-precio-hunt2.webp | https://sym-motor.de/joymax-z-300/ | SYM Germany | desconocida |
+| /media/sym-joymax-z-plus-300-2026-ficha-tecnica-precio-hunt3.webp | https://www.1000ps.com/hr-hr/usporedba/438067/zontes-350-e-2025-vs-sym-joymax-z-300i-2025 | 1000PS | desconocida |
+| /media/aito-m5-ultra-2025-precio-ficha-tecnica-hunt1.webp | http://electrive.com/media/2025/03/aito-m5-ultra-huawei-2025.jpg | Electrive | desconocida |
+| /media/aito-m5-ultra-2025-precio-ficha-tecnica-hunt2.webp | https://global-img.bitauto.com/yhzx/20250320/432/247897943257162.jpg | BitAuto | desconocida |
+| /media/aito-m5-ultra-2025-precio-ficha-tecnica-hunt3.webp | https://cnevpost.com/wp-content/uploads/2025/03/2025032010043699.jpg | CnEVPost | desconocida |
+| /media/jaecoo-7-gasolina-2026-precio-ficha-tecnica-hunt1.webp | https://jaecoo-autograd.ru/img/cars/j7-limited/lifestyle/4.jpg | Jaecoo Autograd | desconocida |
+| /media/jaecoo-7-gasolina-2026-precio-ficha-tecnica-hunt2.webp | https://m.atcdn.co.uk/ect/media/w1224/25da1357f9504d7695afc56a3e1c2a49.jpg | Autotrader UK | desconocida |
+| /media/jaecoo-7-gasolina-2026-precio-ficha-tecnica-hunt3.webp | https://img.pcauto.com/model/images/cms/2025/07/29515828_org.jpg | PCAuto | desconocida |
+| /media/porsche-taycan-4-cross-turismo-2026-precio-ficha-tecnica-hunt1.webp | https://images.dailyrevs.com/0000/v3/Porsche/6788d4bd1fa01d617a778ab8/2025-taycan-4s-cross-turismo-shade-green-porsche-f3tzo3llllh0rmgpcdrb1o.jpeg | DailyRevs | desconocida |
+| /media/porsche-taycan-4-cross-turismo-2026-precio-ficha-tecnica-hunt2.webp | https://ecoloauto.com/wp-content/uploads/2025-Porsche-Taycan-Cross-Turismo-4S-2.jpg | EcoloAuto | desconocida |
+| /media/porsche-taycan-4-cross-turismo-2026-precio-ficha-tecnica-hunt3.webp | https://uploads.automaistv.com.br/2025/04/porsche-taycan-cross-turismo-12.webp | AutoMais TV | desconocida |
+| /media/aito-m5-ultra-ev-2025-precio-ficha-tecnica-hunt1.webp | https://cnevpost.com/2025/03/20/aito-launches-m5-ultra/ | CnEVPost | desconocida |
+| /media/aito-m5-ultra-ev-2025-precio-ficha-tecnica-hunt2.webp | https://cnevpost.com/2025/03/20/aito-launches-m5-ultra/ | CnEVPost | desconocida |
+| /media/aito-m5-ultra-ev-2025-precio-ficha-tecnica-hunt3.webp | https://chinacarhub.com/2025-aito-family-updates-aito-m9-aito-m5-aito-m8/ | ChinaCarHub | desconocida |
+| /media/kia-carnival-2025-hunt1.webp | https://rpmweb.ca/imager/medias/8603634/Kia-Carnival-2025-6_550ccdc016b66ec25cd6ec310268ae53.webp | RPMWeb (foto de prensa Kia) | desconocida |
