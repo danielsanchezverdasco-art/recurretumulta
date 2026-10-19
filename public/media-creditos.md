@@ -2560,3 +2560,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/rieju-mr-racing-300-2024-ficha-tecnica-precio-hunt1.webp | https://cdn-listino.inmoto.it/2024/1/12/MR_RACING_0439_e05aa9871d.jpg | inMoto (Italia) | desconocida |
 | /media/rieju-mr-racing-300-2024-ficha-tecnica-precio-hunt2.webp | https://cdn-listino.inmoto.it/2025/8/18/img_87f7fdc976b0f91ab361cb0b26116d6b_3056379679.jpg | inMoto (Italia) | desconocida |
 | /media/rieju-mr-racing-300-2024-ficha-tecnica-precio-hunt3.webp | https://images.squarespace-cdn.com/content/v1/5dfa683e65498c1743f10ed0/1636387131656-IQRMU5AEYI3JUH61TNBP/Rieju-MR-300-Racing-2.jpeg?format=1000w | CMS Exeter (concesionario Rieju) | desconocida |
+| /media/honda-rebel-1100-2025-ficha-tecnica-precio-hunt1.webp | https://motohunt.com/l/9582153/2025-Honda-REBEL-1100-T | MotoHunt / concesionario Honda | desconocida |
+| /media/honda-rebel-1100-2025-ficha-tecnica-precio-hunt2.webp | https://www.1000ps.com/fr-fr/article/3012213/top-5-tanie-nowe-motocykle-do-podr-y-i-wycieczek-2025 | 1000PS | desconocida |
+| /media/honda-rebel-1100-2025-ficha-tecnica-precio-hunt3.webp | https://www.motosillimitees.com/en/new/motorcycle/honda/rebel-1100/2025/ | Moto Illimitées | desconocida |
+| /media/honda-cbr1000rr-r-fireblade-2025-ficha-tecnica-precio-hunt1.webp | https://cdn-fastly.motorcycle.com/media/2024/06/07/16251/honda-cbr1000rr-r-fireblade-sp-coming-to-us-for-2025.jpg?size=720x845&nocrop=1 | Motorcycle.com (foto oficial Honda) | desconocida |
+| /media/honda-cbr1000rr-r-fireblade-2025-ficha-tecnica-precio-hunt2.webp | https://ridermagazine.com/wp-content/uploads/2024/07/2025-Honda-CB1000RR-R-Fireblade-SP-Grand-Prix-Red.jpg | Rider Magazine (foto oficial Honda) | desconocida |
+| /media/honda-cbr1000rr-r-fireblade-2025-ficha-tecnica-precio-hunt3.webp | https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/08/rider-on-a-2025-honda-cbr1000rr-r-fireblade-sp-2.jpg?q=49&fit=crop&w=825&dpr=2 | TopSpeed (foto oficial Honda) | desconocida |
+| /media/leapmotor-c01-erev-2026-precio-ficha-tecnica-hunt1.webp | https://www.gzdcars.com/car/leapmotor-c01/ | GZD Cars / fotos de prensa Leapmotor | desconocida |
+| /media/leapmotor-c01-erev-2026-precio-ficha-tecnica-hunt2.webp | https://www.gzdcars.com/car/leapmotor-c01/ | GZD Cars / fotos de prensa Leapmotor | desconocida |
+| /media/leapmotor-c01-erev-2026-precio-ficha-tecnica-hunt3.webp | https://www.car250.com/leapmotor-c01-erev-21.html | car250.com / fotos de prensa Leapmotor | desconocida |
+| /media/levc-tx-2024-precio-ficha-tecnica-hunt1.webp | https://allaboutevs.info/news/levc-counters-grant-reduction-with-1500-deposit-boost-for-electric-tx-taxis/ | All About EVs | desconocida |
+| /media/levc-tx-2024-precio-ficha-tecnica-hunt2.webp | https://www.carexpert.com.au/car-news/this-people-mover-is-inspired-by-the-king-of-the-jumbo-jets | CarExpert | desconocida |
+| /media/levc-tx-2024-precio-ficha-tecnica-hunt3.webp | http://forococheselectricos.com/2021/09/prueba-a-fondo-del-levc-tx-el-taxi-electrico-con-extensor-de-autonomia-parte-1.html | ForoCochesEléctricos | desconocida |
+| /media/rolls-royce-phantom-extended-2026-precio-ficha-tecnica-hunt1.webp | https://caronphone.com/rolls-royce-cars/phantom-extended | CarOnPhone | desconocida |
+| /media/rolls-royce-phantom-extended-2026-precio-ficha-tecnica-hunt2.webp | https://www.supercars.net/blog/wp-content/uploads/2022/05/PhantomExtendedSeriesII_Studio_7-scaled-1-1400x934.jpg | Supercars.net | desconocida |
+| /media/rolls-royce-phantom-extended-2026-precio-ficha-tecnica-hunt3.webp | https://www.rollsroyceprague.cz/en/model/phantom-extended/ | Rolls-Royce Motor Cars Prague | desconocida |
+| /media/rolls-royce-spectre-2026-precio-ficha-tecnica-hunt1.webp | https://imboldn.com/rolls-royce-spectre-series-ii/ | Imboldn (foto de prensa Rolls-Royce) | desconocida |
+| /media/rolls-royce-spectre-2026-precio-ficha-tecnica-hunt2.webp | https://www.motorlegend.com/actualite-automobile/rolls-royce-spectre-une-serie-speciale-inspiree-par-le-printemps/26451.html | MotorLegend (foto de prensa Rolls-Royce) | desconocida |
+| /media/rolls-royce-spectre-2026-precio-ficha-tecnica-hunt3.webp | https://www.dailyrevs.com/cars/2026-rolls-royce-spectre-black-badge-monteverde | DailyRevs (foto de prensa Rolls-Royce) | desconocida |
+| /media/kaabo-wolf-warrior-gt-pro-hunt1.webp | https://electricmonkey.co.nz/collections/kaabo | Electric Monkey | desconocida |
+| /media/kaabo-wolf-warrior-gt-pro-hunt2.webp | https://electricmonkey.co.nz/collections/kaabo | Tienda Shopify de Kaabo | desconocida |
+| /media/kaabo-wolf-warrior-gt-pro-hunt3.webp | https://xploreelectric.co.uk/product/kaabo-wolf-warrior-gt-pro-4000w-72v-35ah-electric-scooter/ | Xplore Electric | desconocida |
+| /media/kawasaki-ninja-h2-sx-2026-ficha-tecnica-precio-hunt1.webp | https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/26MY_Ninja%20H2%20SX%20Performance_BK1_Front.002.jpg | Kawasaki Motors Europe (oficial) | desconocida |
+| /media/kawasaki-ninja-h2-sx-2026-ficha-tecnica-precio-hunt2.webp | https://www.teammoto.com.au/assets/webshop/cms/11/11511.webp?1776640446 | Team Moto / Kawasaki (concesionario) | desconocida |
+| /media/kawasaki-ninja-h2-sx-2026-ficha-tecnica-precio-hunt3.webp | https://americansporttouring.com/wp-content/uploads/2025/10/Post-20251016-38-02-2026-ZX1002R.jpg | American Sport Touring / Kawasaki (prensa) | desconocida |
