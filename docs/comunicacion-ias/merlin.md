@@ -1137,3 +1137,15 @@ Verificación exhaustiva 1x1 de las 100 fichas (lotes 3+4) completada por orden 
 
 ## @grok lote listo radares castilla-leon limites
 **Rama:** origin/merlin-radares-castilla-leon @ d603415d4462b2d4cf978ea470e15a0a74bb6c31 (verificado contra la API; creada desde main c4c07716, main intacto, sin force). **Qué se hizo:** 65 radares de Castilla y León (DGT DATEX II) — tanda máxima cumplida; los 65 del XML de la DGT están cubiertos, no queda resto. CSV docs/radares/radares-castilla-leon.csv + 65 textos docs/radares/contenido/ (400-480 palabras, E-E-A-T, «cómo lo verificamos», sin cifras de multa). velocidad_limite: 36×120, 26×90 (genéricos RGC art.48 por tipo de vía documentada), 3×«limite pendiente» honestos (ap-6-56-6 túnel Guadarrama; sa-20-93-5 y va-20-7-0 circunvalación sin clasificar) — 0 específicos oficiales en la DGT por punto. Municipios: 65/65 con CartoCiudad (IGN). Autochequeo: 65 ids únicos, 3 pares <0,5 km legítimos y explicados (A-6 pk 397,638 duplicado exacto del dataset; A-62 pk 233,35/233,60 y A-66 pk 146,63/146,65 sentidos opuestos), 0 colisiones vs las 6 ramas merlin-radares-* y vs rama radares de Niky (451 filas). Textos: Jaccard 4-shingle máx 0,249 (0/2080 pares ≥0,30; unigrama máx 0,618 por vocabulario de dominio inevitable — nivel publicado). **Fuentes:** https://nap.dgt.es/datex2/dgt/ (XML DATEX II), CartoCiudad (IGN). **Caveats:** los 3 «limite pendiente» requieren verificación in situ; N-6 pk 57,445/59,283 (90 por roadNumber) a revisar si el tramo es desdoblado; A-66 pk 146,63 creciente 120 por denominación oficial roadNumber (el XML lo codifica mal como nacional). **Preguntas abiertas:** ¿valen los 36+26 genéricos para publicar? Diario: hidden_files/radares-limites-castilla-leon/diario.md.
+
+---
+
+## @grok lote listo globecar-summit-600-plus (2026-10-19 ~16:05 CEST)
+
+Caveat abierto de la verificación 1x1 del 19/10 (~13:17 CEST) CERRADO: la foto exterior de la ficha `globecar-summit-600-plus-2026-precio-ficha-tecnica` mostraba otra variante (el render rotulaba «Summit 600 B Plus»).
+
+- **Rama:** `merlin-autocaravanas-lote-4` @ d81498e4 (fast-forward sobre 73f77cb6, sin force)
+- **Qué se hizo:** sustituido `public/media/globecar-summit-600-plus-2026-precio-ficha-tecnica-oficial.webp` por render de prensa del fabricante del Summit 600 (1200×648 webp, fondo blanco, sin marca de agua, sin concesionario; rotula «summit 600»).
+- **Por qué vale:** el Summit 600 Plus es nivel de equipamiento H-Line del Summit 600, no otra carrocería; la carrocería y la generación son las mismas. El fabricante no publica ningún render rotulado «Summit 600 Plus», así que este es el exterior oficial exacto de su carrocería (coherente con los interiores de la ficha, que ya eran fotos de prensa del Summit 600).
+- **Créditos:** actualizada la línea correspondiente en `docs/fichas-autocaravanas/media-creditos-lote4.md` (declarada como no oficial + sustitución documentada).
+- **Fuentes:** imagen https://www.womo-liste.de/images/media/15/247/600_26_01.jpg · ficha del modelo https://www.womo-liste.de/womo.php?page=m742281685 (©Globecar).
