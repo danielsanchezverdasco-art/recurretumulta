@@ -253,7 +253,7 @@ export const COCHES_EXP9: CocheComparador[] = [
     parNm: 250,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: ["precioDesde", "largoMm", "anchoMm", "altoMm"],
+    aprox: [],
     imagen: "/media/toyota-gr86-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: null,
@@ -1029,7 +1029,7 @@ export const COCHES_EXP9: CocheComparador[] = [
       "Confort de marcha de berlina grande",
     ],
     contras: [
-      "Precio en España aún sin confirmar oficialmente",
+      "El nuevo Camry no se comercializa en España: desapareció del catálogo español en 2025 sin sucesor",
       "Solo con carrocería berlina, sin familiar",
       "El maletero pierde capacidad frente a rivales diésel",
       "Diseño continuista respecto a la generación anterior",
@@ -2382,7 +2382,7 @@ export const COCHES_EXP9: CocheComparador[] = [
     modelo: "GLA 250 e 218 CV",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 56014,
     potenciaCv: 218,
     autonomiaKm: 74,
     maleteroL: 385,
@@ -2399,7 +2399,7 @@ export const COCHES_EXP9: CocheComparador[] = [
       "Posición de conducción elevada y buen acceso",
     ],
     contras: [
-      "Precio en España sin confirmar por la marca",
+      "Es la generación anterior (H247): la gama GLA actual ya es 100% eléctrica",
       "El maletero pierde capacidad frente al GLA térmico",
       "Peso extra del sistema híbrido enchufable",
       "Carga en corriente alterna, sin carga rápida DC",
@@ -2895,7 +2895,7 @@ export const COCHES_EXP9: CocheComparador[] = [
       "El referente sueco en confort y seguridad",
     ],
     contras: [
-      "Precio en España sin confirmar por la marca",
+      "Descatalogado: Volvo detuvo la producción del S90 en 2024",
       "Solo tracción delantera en el B5 gasolina",
       "El T8 Recharge enchufable tiene etiqueta CERO",
       "Consumo NEDC de 5,9 l/100 km, optimista",
@@ -2961,7 +2961,7 @@ export const COCHES_EXP9: CocheComparador[] = [
       "Calidad de materiales premium escandinava",
     ],
     contras: [
-      "Precio en España sin confirmar por la marca",
+      "Descatalogado: Volvo España ya no admite pedidos del S60",
       "El S60 deja paso al eléctrico ES60",
       "Velocidad limitada a 180 km/h",
       "Maletero justo para la categoría",
