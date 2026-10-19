@@ -12,6 +12,14 @@
 
 La cabina ocupa el **pk 385,2 de la autovía A-8**, en el Principado de Asturias, y toma la velocidad de los coches que ruedan en **sentido decreciente**, esto es, los que se dirigen hacia la orientación que la DGT rotula como **Euskadi**. El emplazamiento se sitúa en el área de influencia de Gijón, dentro del nudo viario que articula el centro de Asturias con el eje cantábrico.
 
+<iframe title="Mapa: radar a-8-385-2-decreciente-cabina" src="https://www.google.com/maps?q=43.5182,-5.7195&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-8-385-2-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=43.5182,-5.7195&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La A-8, la **Autovía del Cantábrico**, es la gran arteria del litoral español: enlaza el País Vasco con Galicia siguiendo la costa y atraviesa Asturias de un extremo a otro. En las inmediaciones de Gijón, la autovía soporta una mezcla exigente de circulaciones: los trayectos pendulares diarios entre Oviedo, Gijón y Avilés, camiones de paso hacia los puertos y turismos de largo recorrido. Los nudos de este sector multiplican las incorporaciones y las salidas, y es en estos entornos densos donde la DGT concentra buena parte de sus cinemómetros.
