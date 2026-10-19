@@ -1,5 +1,6 @@
 // Autocaravanas Laika — lote Merlín 1 (18/10/2026), corrección Grok 22:15 (19/10/2026),
 // pase F7b 19/10/2026 (fotos oficiales + curiosidades, orden Grok 07:47).
+// pase FIX-chausson 19/10/2026: Ecovip 600 — exterior oficial añadido (Ecovip-Performance-Hero-Image-1, kit de prensa oficial Laika 2026, colección 2026) y portada/imagenOficial actualizadas a la foto oficial; interiores oficiales del 600 no localizados (el kit de prensa 2026 no incluye interiores del 600 y las fotos reales archivadas no son del modelo exacto). Kosmo L 319 — sin fotos oficiales localizadas: la colección 2024 fue eliminada de laika.it y Wayback no archivó las fotos del modelo (solo PDFs de prensa con imágenes en miniatura); se mantiene la galería existente. Curiosidades verificadas (fuentes enlazadas, HTTP 200).
 // Fuentes: listas oficiales de precios y fichas técnicas Laika en laika.it (PDF oficiales
 // por mercado; Laika publica tarifa por país y no hay lista para España) + manual de uso
 // y mantenimiento oficial Laika (baño Vario del Kosmo L 319) + alpacacamping.de
@@ -38,9 +39,9 @@ export const AUTOCARAVANAS_LAIKA_M1: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/laika-ecovip-600-2026-precio-ficha-tecnica-ext.webp",
+    imagen: "/media/laika-ecovip-600-2026-precio-ficha-tecnica-oficial.webp",
     imagenOficial:
-      "/media/laika-ecovip-600-2026-precio-ficha-tecnica-ext.webp",
+      "/media/laika-ecovip-600-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
       "/media/laika-ecovip-600-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
@@ -97,6 +98,12 @@ export const AUTOCARAVANAS_LAIKA_M1: Autocaravana[] = [
     ],
     opiniones: [],
     galeria: [
+      {
+        src: "/media/laika-ecovip-600-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Laika Ecovip Performance 600, vista tres cuartos delantera (imagen oficial de prensa de Laika, colección 2026)",
+        ancho: 1200,
+        alto: 675,
+      },
       {
         src: "/media/laika-ecovip-600-2026-precio-ficha-tecnica-oficial-corte.webp",
         alt: "Laika Ecovip 600: vista oficial en corte 3D con la distribución interior (imagen oficial de Laika)",

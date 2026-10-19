@@ -10,7 +10,7 @@
 // -analisis-opinion; fotos a -ext.webp/-interior.webp (sin «-oficial»); cargaUtilKg en null
 // (la marca no la publica para el modelo exacto); MMA/dimensiones/plazas del 640 en «aprox»
 // (fuentes de concesionario); potencia del 640 corregida a 130 CV de serie (170 era erróneo).
-// F3b (19/10/2026): fotos oficiales añadidas (640: ext prensa Celier 2018 + interior lit pavillon; 777: interior lits jumeaux) con sufijo -oficial; curiosidades con fuente enlazada en ambas fichas. Pendiente: 2ª interior oficial del 640 y exterior oficial del 777.
+// FIX-chausson (19/10/2026): completadas las fotos oficiales pendientes — 640: 2ª interior oficial (640-titanium-gde-int, salón SmartLounge, web oficial Chausson); 777: exterior oficial (777GA-Titanium-VIP-Exterieur) + 2ª interior oficial (777GA-Titanium-VIP, salón), de la web oficial de exportación (motorhomes-chausson.co.uk). Portada del 777 pasa a la foto oficial de exterior. Curiosidades verificadas (fuentes enlazadas, HTTP 200).
 // Nomenclatura: el 777 Titanium Line es el modelo oficial vigente más próximo de la colección
 // 2027 (perfilada de camas gemelas, 7,19 m sobre Ford Transit o 7,16 m sobre Fiat).
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
@@ -105,6 +105,12 @@ Para quién es: la Chausson 640 Titanium es para la pareja o la familia pequeña
         alto: 805,
       },
       {
+        src: "/media/chausson-640-titanium-2026-precio-ficha-tecnica-oficial-interior2.webp",
+        alt: "Salón SmartLounge del Chausson 640 Titanium (foto oficial)",
+        ancho: 1200,
+        alto: 805,
+      },
+      {
         src: "/media/chausson-640-titanium-2026-precio-ficha-tecnica-interior.webp",
         alt: "Interior de la Chausson 640 Titanium, SmartLounge",
         ancho: 1200,
@@ -160,9 +166,9 @@ Para quién es: la Chausson 640 Titanium es para la pareja o la familia pequeña
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/chausson-777-titanium-line-2026-precio-ficha-tecnica-ext.webp",
+    imagen: "/media/chausson-777-titanium-line-2026-precio-ficha-tecnica-oficial-ext.webp",
     imagenOficial:
-      "/media/chausson-777-titanium-line-2026-precio-ficha-tecnica-ext.webp",
+      "/media/chausson-777-titanium-line-2026-precio-ficha-tecnica-oficial-ext.webp",
     imagenInteriorOficial:
       "/media/chausson-777-titanium-line-2026-precio-ficha-tecnica-oficial-interior.webp",
     videoId: null,
@@ -222,10 +228,22 @@ Para quién es: el Chausson 777 Titanium Line es para la familia o la pareja que
     opiniones: [],
     galeria: [
       {
+        src: "/media/chausson-777-titanium-line-2026-precio-ficha-tecnica-oficial-ext.webp",
+        alt: "Chausson 777GA Titanium, vista tres cuartos delantera (foto oficial de prensa)",
+        ancho: 721,
+        alto: 1080,
+      },
+      {
         src: "/media/chausson-777-titanium-line-2026-precio-ficha-tecnica-oficial-interior.webp",
         alt: "Camas gemelas del Chausson 777 Titanium Line (foto oficial)",
         ancho: 1200,
         alto: 917,
+      },
+      {
+        src: "/media/chausson-777-titanium-line-2026-precio-ficha-tecnica-oficial-interior2.webp",
+        alt: "Salón del Chausson 777GA Titanium (foto oficial)",
+        ancho: 1200,
+        alto: 809,
       },
       {
         src: "/media/chausson-777-titanium-line-2026-precio-ficha-tecnica-ext.webp",
