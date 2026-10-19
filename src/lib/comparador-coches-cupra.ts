@@ -577,7 +577,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
   },
   {
     "id": "cupra-leon-vz-325-2025-precio-ficha-tecnica",
-    "marca": "cupra",
+    "marca": "Cupra",
     "modelo": "León VZ 325",
     "tipo": "Gasolina",
     "categoria": "Compacto",
@@ -593,9 +593,9 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "garantiaBateriaAnos": null,
     "garantiaBateriaKm": null,
     "garantiaBateriaDegradacionPct": null,
-    "largoMm": 4368,
+    "largoMm": 4398,
     "anchoMm": 1799,
-    "altoMm": 1467,
+    "altoMm": 1444,
     "pesoKg": 1500,
     "consumo": 7.9,
     "consumoUnidad": "l/100 km",
@@ -660,8 +660,8 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "fuenteUrl": "https://www.km77.com/coches/cupra/leon/informacion",
     "euroncap": {
       "estrellas": 5,
-      "ano": 2020,
-      "url": "https://www.euroncap.com/it/results/cupra/leon/43180",
+      "ano": 2025,
+      "url": "https://www.seat-cupra-mediacenter.es/CUPRA-Brand/noticias/2025/cupra-leon-formentor-born-obtienen-calificacion-5-estrellas-euro-ncap-bajo-estrictas-normas-2025",
     },
     "planMantenimiento": {
       "intervalo": "15.000 km o 12 meses (lo que ocurra antes)",
