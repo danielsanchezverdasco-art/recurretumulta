@@ -631,3 +631,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/jeep-compass-e-hybrid-145-2026-precio-ficha-tecnica-hunt1.webp | https://www.actualidadmotor.com/wp-content/uploads/2026/01/jeep-compass-1-1-1024x614.jpg.webp | Actualidad Motor (actualidadmotor.com) | desconocida |
 | /media/jeep-compass-e-hybrid-145-2026-precio-ficha-tecnica-hunt2.webp | https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/2026-jeep-compass-exterior-2.jpg | CarBuzz (carbuzz.com) | desconocida |
 | /media/jeep-compass-e-hybrid-145-2026-precio-ficha-tecnica-hunt3.webp | https://www.carscoops.com/wp-content/uploads/webp/2026/08/2026-Jeep-Compass-Interior-CarScoops-3-2048x1152.webp | CarScoops (carscoops.com) | desconocida |
+| /media/porsche-718-cayman-gt4-rs-2025-precio-ficha-tecnica-hunt1.webp | https://images.pistonheads.com/nimg/45467/S22_0698_a3_rgb.jpg | PistonHeads (pistonheads.com) | desconocida |
+| /media/porsche-718-cayman-gt4-rs-2025-precio-ficha-tecnica-hunt2.webp | https://www.completecar.ie/img/galleries/11297/porsche_718_cayman_gt4_rs_2022_004.jpg | CompleteCar (completecar.ie) | desconocida |
+| /media/porsche-718-cayman-gt4-rs-2025-precio-ficha-tecnica-hunt3.webp | https://www.carscoops.com/wp-content/uploads/2021/11/2022-Porsche-718-Cayman-GT4-RS-10.jpg | CarScoops (carscoops.com) | desconocida |
+| /media/zero-fx-2025-ficha-tecnica-precio-hunt1.webp | https://images5.1000ps.net/images_bikekat/2025/199-Zero/8518-FX/030-638791960450732854-zero-fx.jpg?format=webp&quality=80&scale=both&width=992&height=558&bgcolor=rgba_39_42_44_0&mode=pad | 1000PS (1000ps.com) | desconocida |
+| /media/zero-fx-2025-ficha-tecnica-precio-hunt2.webp | https://www.magnetmotos.co.uk/image/cache/catalog/magnet-motos/zero/zero-fx-2024/Zero-FX-19-600x315w.png | Magnet Motos (magnet-motos.co.uk) | desconocida |
+| /media/zero-fx-2025-ficha-tecnica-precio-hunt3.webp | https://i0.wp.com/s3.amazonaws.com/images.gearjunkie.com/uploads/2025/04/zero-fx-front-lights.jpg?resize=1200%2C800&ssl=1 | GearJunkie (gearjunkie.com) | desconocida |
+| /media/aixam-e-truck-furgon-van-2025-precio-ficha-tecnica-hunt1.webp | https://www.myutilitaire.com/wp-content/uploads/2024/11/e-truck-fourgon.webp | Aixam (via myutilitaire.com) | desconocida |
+| /media/aixam-e-truck-furgon-van-2025-precio-ficha-tecnica-hunt2.webp | https://ev.motorwatt.com/media/djcatalog2/images/item/4/aixam-e-truck-van.1_l.jpg | ev.motorwatt.com (base de datos de VE) | desconocida |
+| /media/aixam-e-truck-furgon-van-2025-precio-ficha-tecnica-hunt3.webp | https://www.brommobielcenterbrabant.nl/wp-content/uploads/sites/2/2023/05/eAixam-e-Truck-Van-Marine-Blauw.png | Aixam (via brommobielcenterbrabant.nl) | desconocida |
+| /media/denver-sel-10800f-hunt1.webp | https://www.proshop.de/Images/915x900/3163857_5017d5b07014.jpg | proshop.de (tienda) | desconocida |
+| /media/denver-sel-10800f-hunt2.webp | https://www.somashome.nl/wp-content/uploads/2024/10/denver-sel-10800f-elektrische-step-denver-763821.webp | somashome.nl (tienda) | desconocida |
+| /media/denver-sel-10800f-hunt3.webp | https://www.manuales.com.co/thumbs/products/l/2080787-denver-sel-10800f.webp | manuales.com.co | desconocida |
+| /media/horwin-ek1-2025-ficha-tecnica-precio-hunt1.webp | https://cyclesdevos.be/wp-content/uploads/2022/11/Horwin_EK1-Orange.jpg | Horwin (via cyclesdevos.be) | desconocida |
+| /media/horwin-ek1-2025-ficha-tecnica-precio-hunt2.webp | https://www.autoing.pt/img/cache/horwin/ek1-(1)_w1920.jpg?20251004114949 | Horwin (via autoing.pt) | desconocida |
+| /media/horwin-ek1-2025-ficha-tecnica-precio-hunt3.webp | https://cdn-listino.inmoto.it/2023/3/10/EK_1_black_9842d0fcdc.jpg | Horwin (via inmoto.it) | desconocida |
+| /media/aixam-e-crossover-premium-2025-precio-ficha-tecnica-hunt1.webp | https://www.microcoche.net/aixam-e-crossover-premium.html | Microcoche.net | desconocida |
+| /media/aixam-e-crossover-premium-2025-precio-ficha-tecnica-hunt2.webp | https://microcoche.net/aixam-e-crossover-premium.html | Microcoche.net | desconocida |
+| /media/aixam-e-crossover-premium-2025-precio-ficha-tecnica-hunt3.webp | https://microcoche.net/aixam-e-crossover-premium.html | Microcoche.net | desconocida |
+| /media/gotrax-gx3-hunt1.webp | https://gotrax.ca/products/gx3-high-performance-electric-scooter-10-32kph-64km-range | GOTRAX (web oficial) | desconocida |
+| /media/gotrax-gx3-hunt2.webp | https://gotrax.ca/products/gx3-high-performance-electric-scooter-10-32kph-64km-range | GOTRAX (web oficial) | desconocida |
+| /media/gotrax-gx3-hunt3.webp | https://www.bestbuy.com/site/gotrax-gx3-electric-scooter-w-55-mi-max-operating-range-40-mph-max-speed-blue/6560190.p?skuId=6560190 | Best Buy | desconocida |
+| /media/jeep-renegade-4xe-240-2025-precio-ficha-tecnica-hunt1.webp | https://www.completecar.ie/car-news/article/10267/Renegade-4xe-is-the-first-plug-in-hybrid-Jeep | CompleteCar.ie | desconocida |
+| /media/jeep-renegade-4xe-240-2025-precio-ficha-tecnica-hunt2.webp | https://otopark.com/2021/09/28/sarj-edilebilir-hibrit-jeep-renegade-turkiyede/ | Otopark.com | desconocida |
+| /media/jeep-renegade-4xe-240-2025-precio-ficha-tecnica-hunt3.webp | https://www.groupechopard.com/offres/leasing-jeep | Groupe Chopard | desconocida |
