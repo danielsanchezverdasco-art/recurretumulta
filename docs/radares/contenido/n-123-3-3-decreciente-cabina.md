@@ -10,6 +10,13 @@
 
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.04629,0.15391)
 
+<iframe title="Mapa: radar n-123-3-3-decreciente-cabina" src="https://www.google.com/maps?q=42.04629,0.15391&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-123-3-3-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.04629,0.15391&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
 > **Cómo lo verificamos:** carretera, punto kilométrico, sentido y coordenadas tomados del fichero oficial de radares fijos de la DGT (formato DATEX II), revisado el 2026-10-18. La DGT no publica el límite de velocidad de este punto ni el municipio; al no constar en la fuente, esta ficha no los proporciona.
 
 ## La cabina del pk 3,3 de la N-123
