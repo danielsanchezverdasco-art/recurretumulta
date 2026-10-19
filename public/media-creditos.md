@@ -3226,3 +3226,28 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/smartgyro-dual-max-2-hunt1.webp | https://360scooters.com/es/producto/patinete-electrico-smartgyro-crossover-dual- | 360scooters.com | desconocida |
 | /media/smartgyro-dual-max-2-hunt2.webp | https://www.pascualmarti.es/patinete-electrico-smartgyro-dual-max-2-lr-20993071/ | pascualmarti.es | desconocida |
 | /media/smartgyro-dual-max-2-hunt3.webp | https://360scooters.com/es/producto/patinete-electrico-smartgyro-crossover-dual- | 360scooters.com | desconocida |
+| /media/subaru-outback-2025-precio-ficha-tecnica-hunt1.webp | https://m.subaru.ca/WebPage.aspx?WebSiteID=284&WebPageID=25519&Range=Outback&ModelYear=2025 | Subaru Canadá | desconocida |
+| /media/subaru-outback-2025-precio-ficha-tecnica-hunt2.webp | https://www.subaruoflondon.com/en/new-catalog/SUBARU/2025-SUBARU-OUTBACK-id28575 | Dilawri / Subaru of London | desconocida |
+| /media/subaru-outback-2025-precio-ficha-tecnica-hunt3.webp | https://m.subaru.ca/WebPage.aspx?WebSiteID=282&WebPageID=25500&Range=Outback&ModelYear=2025 | Subaru Canadá | desconocida |
+| /media/royal-enfield-classic-650-2025-ficha-tecnica-precio-hunt1.webp | https://www.motorrad-bilder.at/thumbs/992x661xfarx272a2c00/slideshows/291/023796/002_royal_enfield_classic_650_2025.jpg | Royal Enfield (foto de prensa, vía 1000ps.com) | desconocida |
+| /media/royal-enfield-classic-650-2025-ficha-tecnica-precio-hunt2.webp | https://www.motorrad-bilder.at/thumbs/992x661xfarx272a2c00/slideshows/291/023796/019_royal_enfield_classic_650_2025.jpg | Royal Enfield (foto de prensa, vía 1000ps.com) | desconocida |
+| /media/royal-enfield-classic-650-2025-ficha-tecnica-precio-hunt3.webp | https://www.motorrad-bilder.at/thumbs/992x661xfarx272a2c00/slideshows/291/023796/047_royal_enfield_classic_650_2025.jpg | Royal Enfield (foto de prensa, vía 1000ps.com) | desconocida |
+| /media/segway-ninebot-e25e-hunt1.webp | https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_77773775/fee_786_587_png | Segway/Ninebot (imagen oficial de producto, vía MediaMarkt) | desconocida |
+| /media/segway-ninebot-e25e-hunt2.webp | https://www.ezoomed.com/wp-content/uploads/2020/07/E25E_360-view-11.jpg | Segway/Ninebot (imagen oficial de producto, vía ezoomed.com) | desconocida |
+| /media/segway-ninebot-e25e-hunt3.webp | https://static01.galaxus.com/productimages/5/1/8/0/8/7/5/8/4/6/9/2/0/1/9/8/9/8/0/ec2c34ca-b214-463a-af43-1e02de1e68e0_cropped.png_sea.jpeg | Segway/Ninebot (imagen oficial de producto, vía digitec.ch) | desconocida |
+| /media/okai-neon-hunt1.webp | https://manuals.plus/asin/B09M6L46QH | OKAI (vía Amazon) | desconocida |
+| /media/okai-neon-hunt2.webp | https://manuals.plus/asin/B09M6L46QH | OKAI (vía Amazon) | desconocida |
+| /media/okai-neon-hunt3.webp | https://manuals.plus/asin/B09M6L46QH | OKAI (vía Amazon) | desconocida |
+| /media/apollo-air-hunt1.webp | https://apolloscooters.co/blogs/news/high-performance-scooters-what-sets-them-apart |  | desconocida |
+| /media/apollo-air-hunt2.webp | https://www.rideandglide.co.uk/product/apollo-air-v2/ |  | desconocida |
+| /media/apollo-air-hunt3.webp | https://shop.bcescooter.com/products/apollo-air-2024 |  | desconocida |
+| /media/royal-enfield-shotgun-650-2025-ficha-tecnica-precio-hunt1.webp | https://www.1000ps.com/de-ch/modell/12309/royal-enfield-shotgun-650/2025 |  | desconocida |
+| /media/royal-enfield-shotgun-650-2025-ficha-tecnica-precio-hunt2.webp | https://www.123mc.dk/brugt/mc/royal-enfield/shotgun-650/sheet-metal-grey-bobber/297322 |  | desconocida |
+| /media/royal-enfield-shotgun-650-2025-ficha-tecnica-precio-hunt3.webp | https://www.123mc.dk/brugt/mc/royal-enfield/shotgun-650/sheet-metal-grey-bobber/297322 |  | desconocida |
+| /media/apollo-air-pro-hunt1.webp | https://apolloscooters.co/blogs/news/which-apollo-electric-scooter-is-right-for-you | Apollo Scooters (web oficial) | desconocida |
+| /media/chery-tiggo-9-csh-2026-precio-ficha-tecnica-hunt1.webp | https://girlracer.co.uk/2025/10/24/flagship-chery-tiggo-9-launched/ | CHERY UK (nota de prensa oficial, vía Girlracer) | desconocida |
+| /media/chery-tiggo-9-csh-2026-precio-ficha-tecnica-hunt2.webp | https://girlracer.co.uk/2025/10/24/flagship-chery-tiggo-9-launched/ | CHERY UK (nota de prensa oficial, vía Girlracer) | desconocida |
+| /media/chery-tiggo-9-csh-2026-precio-ficha-tecnica-hunt3.webp | https://girlracer.co.uk/2025/10/24/flagship-chery-tiggo-9-launched/ | CHERY UK (nota de prensa oficial, vía Girlracer) | desconocida |
+| /media/haval-h6l-2025-precio-ficha-tecnica-hunt1.webp | https://carnewschina.com/2025/11/18/gwms-haval-h6l-mid-size-suv-to-with-2-0t-engine-launched-starting-from-16500-usd/ | GWM (foto oficial, vía CarNewsChina) | desconocida |
+| /media/haval-h6l-2025-precio-ficha-tecnica-hunt2.webp | https://carnewschina.com/2025/11/18/gwms-haval-h6l-mid-size-suv-to-with-2-0t-engine-launched-starting-from-16500-usd/ | Sohu (vía CarNewsChina) | desconocida |
+| /media/haval-h6l-2025-precio-ficha-tecnica-hunt3.webp | https://carnewschina.com/2025/11/18/gwms-haval-h6l-mid-size-suv-to-with-2-0t-engine-launched-starting-from-16500-usd/ | CarNewsChina | desconocida |
