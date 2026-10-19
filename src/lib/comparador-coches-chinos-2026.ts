@@ -577,7 +577,7 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
     modelo: "S9",
     tipo: "Eléctrico",
     categoria: "Berlina",
-    precioDesde: 41140,
+    precioDesde: 42540,
     potenciaCv: 309,
     autonomiaKm: 816,
     cicloAutonomia: "CLTC",

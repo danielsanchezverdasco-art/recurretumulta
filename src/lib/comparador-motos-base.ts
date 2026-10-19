@@ -7969,7 +7969,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     version: "Niken GT 2025",
     cilindradaCc: 890,
     categoria: "Turismo",
-    precioDesde: 17749,
+    precioDesde: 19599,
     potenciaKw: 85,
     potenciaCv: 115,
     autonomiaKm: 300,
@@ -7992,7 +7992,7 @@ export const MOTOS_BASE: MotoComparador[] = [
       "Control de tracción, quickshifter y modos de conducción",
     ],
     contras: [
-      "Precio de 17.749 €: casi el doble que una MT-09 con el mismo motor",
+      "Precio de 19.599 €: casi el doble que una MT-09 con el mismo motor",
       "267 kg llena: se nota al maniobrar en parado",
       "Concepto de nicho con mercado de segunda mano muy limitado",
       "Consumo y mantenimiento de moto grande sin la agilidad de una naked",
@@ -8026,8 +8026,8 @@ export const MOTOS_BASE: MotoComparador[] = [
     ],
     videoId: "Jjy8KKvv0V0",
     videoCanal: "Canariasenmoto",
-    fuenteNombre: "canariasenmoto.com",
-    fuenteUrl: "https://www.canariasenmoto.com/noticias/prueba-yamaha-niken-gt-sensaciones-fuera-de-serie-30770.html",
+    fuenteNombre: "Red oficial Yamaha (oct-2026)",
+    fuenteUrl: "https://malagamotocenter.com/motocicletas/carretera/sport-touring/yamaha-niken-gt/",
     analisisSlug: "yamaha-niken-gt-2025-ficha-tecnica-precio",
   },
   {
