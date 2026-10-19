@@ -3558,3 +3558,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/denza-z-spider-2026-precio-ficha-tecnica-hunt1.webp | https://paultan.org/2026/05/07/denza-z-spider-concept-in-beijing-supercar-drops-top-gains-more-production-ready-interior-july-launch/ | Paul Tan's Automotive News | desconocida |
 | /media/denza-z-spider-2026-precio-ficha-tecnica-hunt2.webp | https://www.chinesecars.me/p98549.html | ChineseCars.me | desconocida |
 | /media/denza-z-spider-2026-precio-ficha-tecnica-hunt3.webp | https://carselectric.gr/gennimeno-gia-epidoseis-schediasmeno-gia-nikes-i-denza-parousiazei-to-z-supercar/ | CarsElectric.gr | desconocida |
+| /media/mazda-6e-2027-hunt1.webp | https://www.goauto.com.au/news/mazda/6e/2026-06-29/99637.html | GoAuto | desconocida |
+| /media/mazda-6e-2027-hunt2.webp | https://www.electrifying.com/reviews/mazda-reviews/6e/review | Electrifying | desconocida |
+| /media/mazda-6e-2027-hunt3.webp | https://en.wheelz.me/the-2026-mazda6e-welcomes-you-before-you-even-step-inside/ | Wheelz.me | desconocida |
+| /media/rapido-606f-2026-precio-ficha-tecnica-hunt1.webp | https://www.sachsencaravan.de/fahrzeuge/rapido/konfigurator | Rapido (configurador oficial, vía Sachencaravan) | desconocida |
+| /media/rapido-606f-2026-precio-ficha-tecnica-hunt2.webp | https://campinghouse.bg/rapido-606f-профил/ | CampingHouse.bg (foto oficial del modelo) | desconocida |
+| /media/rapido-606f-2026-precio-ficha-tecnica-hunt3.webp | https://mundovan.com/comprar-autocaravanas/barcelona/ | Mundovan | desconocida |
+| /media/volvo-v90-b5-2025-precio-ficha-tecnica-hunt1.webp | https://carsbat.com/en/volvo/v90/ | CarsBat | desconocida |
+| /media/volvo-v90-b5-2025-precio-ficha-tecnica-hunt2.webp | https://carmine.pt/en/carros-usados/volvo-v90 | Carmine.pt | desconocida |
+| /media/volvo-v90-b5-2025-precio-ficha-tecnica-hunt3.webp | https://fr.getaround.com/location-voiture/villedieu-les-poeles-rouffigny/volvo-v90-1305222 | Getaround | desconocida |
+| /media/moto-guzzi-v85-tt-2026-ficha-tecnica-precio-hunt1.webp | https://images.piaggio.com/motoguzzi/vehicles/gu3228500ebt00/gu3228500ebt02/gu3228500ebt02-01-m.png | Moto Guzzi (prensa oficial, motoguzzi.com) | desconocida |
+| /media/moto-guzzi-v85-tt-2026-ficha-tecnica-precio-hunt2.webp | https://storage.googleapis.com/mhimg/p/0392/12840392/8b20_l.jpg | MotoHunt (motohunt.com, anuncio de una V85 TT 2026) | desconocida |
+| /media/moto-guzzi-v85-tt-2026-ficha-tecnica-precio-hunt3.webp | https://www.motors-avenue.com/content/uploads/v85-tt-travel-1.webp | Motors Avenue (motors-avenue.com) | desconocida |
+| /media/mv-agusta-enduro-veloce-2026-ficha-tecnica-precio-hunt1.webp | https://www.1000ps.com/de-ch/vergleich/497840/mv-agusta-enduro-veloce-2026-vs-bmw-r-1300-gs-adventure-2025 | 1000ps / MV Agusta | desconocida |
+| /media/mv-agusta-enduro-veloce-2026-ficha-tecnica-precio-hunt2.webp | https://motorsactu.com/mv-agusta-enduro-veloce-2026-precision-puissance-et-style-pour-laventure-pure/ | Motorsactu.com / MV Agusta | desconocida |
+| /media/mv-agusta-enduro-veloce-2026-ficha-tecnica-precio-hunt3.webp | http://www.2ri.de/Bikes/MV-Agusta/2026/Enduro-Veloce | 2ri.de | desconocida |
+| /media/sunlight-t-68-2026-precio-ficha-tecnica-hunt1.webp | https://www.yakartautocaravanas.com/venta/2222/autocaravana-perfilada-sunlight-sunlight-t68-modelo-2026-nueva-en-venta | Yakart Autocaravanas | desconocida |
+| /media/sunlight-t-68-2026-precio-ficha-tecnica-hunt2.webp | https://kenmorecaravans.co.uk/caravans/sunlight-t68-adventure-2026/ | Kenmore Caravans | desconocida |
+| /media/sunlight-t-68-2026-precio-ficha-tecnica-hunt3.webp | https://www.noorderzon-campers.nl/verhuur/e18-sunlight-t68/ | Noorderzon Campers | desconocida |
+| /media/sunlight-a-70-2026-precio-ficha-tecnica-hunt1.webp | https://cdn.caraworld.com/bilder/i/025/951/247/25951247-3-728-0.webp | ADAC Wohnmobilmarkt (caraworld) | desconocida |
+| /media/sunlight-a-70-2026-precio-ficha-tecnica-hunt2.webp | https://bookingcaravaning.com/wp-content/uploads/2026/03/Sunlight-A70-3-768x576.jpeg | Booking Caravaning | desconocida |
+| /media/sunlight-a-70-2026-precio-ficha-tecnica-hunt3.webp | https://cdn.yakartautocaravanas.com/s/c/vehiculos/images/1665/30594.jpg | Yakart Autocaravanas | desconocida |
+| /media/weinsberg-carabus-grey-edition-fire-600-mq-2026-precio-ficha-tecnica-hunt1.webp | https://www.caraworld.at/frontend/virtual_host/cw2592714/fahrzeugdetailseite.php?frames=true&suche=true&fahrzeugart=1&id=24654291 | Caraworld (concesionario) | desconocida |
+| /media/weinsberg-carabus-grey-edition-fire-600-mq-2026-precio-ficha-tecnica-hunt2.webp | https://www.careiwo.de/fahrzeug/weinsberg-carabus-grey-600-mq-2026-jetzt-5000-reduziert-irf1hx/ | Careiwo (concesionario) | desconocida |
+| /media/weinsberg-carabus-grey-edition-fire-600-mq-2026-precio-ficha-tecnica-hunt3.webp | https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/weinsberg/camper-van/2026/347539/ | ADAC Autokatalog (base de datos) | desconocida |
