@@ -12,6 +12,14 @@
 
 El cinemómetro se encuentra en la **A-7, pk 305,1**, provincia de Valencia. Actúa sobre el **sentido creciente** de la calzada, esto es, el de los puntos kilométricos crecientes. La ficha municipal del punto es **Sagunt/Sagunto**: así lo determina CartoCiudad. El punto vigilado más cercano es el de la **CV-310, pk 13,1** (sentido creciente): queda a 12,0 km hacia el oeste.
 
+<iframe title="Mapa: radar a-7-305-1-creciente-cabina" src="https://www.google.com/maps?q=39.64948,-0.30113&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-7-305-1-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.64948,-0.30113&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La carretera en cuestión es la A-7, la Autovía del Mediterráneo, el gran corredor del litoral. Circula por aquí quien atraviesa la comunidad y quien se mueve entre municipios vecinos. El paisaje circundante es el de el interior de la provincia de Valencia.
