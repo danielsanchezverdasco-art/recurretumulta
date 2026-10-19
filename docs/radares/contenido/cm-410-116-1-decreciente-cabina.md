@@ -12,6 +12,15 @@
 
 La DGT ubica esta cabina en la **CM-410 a la altura del pk 116,1**, en territorio de Toledo. Vigila el **sentido decreciente**, es decir, a los vehículos que circulan hacia puntos kilométricos decrecientes. Si conoces la zona, el pk 116,1 te orientará mejor que la propia cabina: los equipos rotan, la ubicación publicada no cambia. A 35,4 km hacia el noroeste está el control más próximo, el de la **N-301, pk 83,4** (sentido decreciente). El siguiente punto por cercanía es el de la **CM-200, pk 25,3** (sentido creciente), a 36,2 km hacia el norte. El tramo no presenta dificultades técnicas especiales; el desafío es mantener la disciplina de velocidad.
 
+<iframe title="Mapa: radar cm-410-116-1-decreciente-cabina" src="https://www.google.com/maps?q=39.59558,-3.08957&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cm-410-116-1-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.59558,-3.08957&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La vía en cuestión es la CM-410, de la red autonómica, a su paso por Toledo. La carretera autonómica soporta a diario una corriente circulatoria heterogénea, con pesados y ligeros compartiendo calzada. Este punto figura en el dataset de radares fijos por ser proclive a las velocidades inadecuadas. La CM-410 cuenta con un único punto de control publicado en la comunidad: este. La CM-410 cuenta con un único punto de control publicado en la comunidad: este. En definitiva, un tramo donde la disciplina con el acelerador marca la diferencia. La mejor forma de circular por ella es con anticipación: ver venir lo que la vía va a pedir.
