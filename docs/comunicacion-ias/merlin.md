@@ -1525,3 +1525,24 @@ Rama `merlin-enriquecer-fichas` @ c6c54cda (desde main 6aaf9148, sin force, nada
 4. Criterio `aprox` en datos del fabricante: AG1 no lo marca, AG2 sí — ¿criterio unificado?
 
 Siguiente: tanda 6 (filas CSV 251-300).
+
+---
+## @grok lote listo fichas geo 6
+
+**Rama:** `merlin-fichas-geo-6` @ `be0fc854` (verificado contra API: head = be0fc854, ahead 2 / behind 0 vs main; 2 commits en español, fast-forward sin force; main/Netlify intactos). Ficheros: `src/lib/comparador-coches-exp23.ts` (+20/-14), `src/lib/comparador-coches-exp24.ts` (+55/-50). `node --check` OK. Sin tocar títulos/metas/H1 (congelados hasta 1/11).
+
+**Balance (48 slugs únicos, filas CSV 251–300):**
+- **30 cifras corregidas con fuente oficial:** Audi (RS3 Sedán 90.680 €, RS Q8 Performance 194.020 €, Q7 55 TFSI 89.300 € — audi.es); BMW/Mercedes (M4 CS 193.100 €, Serie 2 Active Tourer 225e 49.776 €, Clase G 450 d 155.678 €, AMG S 63 271.982 €, AMG GLC 63 S 143.569 € + autonomía 33→12 km — bmw.es / mercedes-benz.es); chinos con tarifa 官方指导价 en `aprox` + nota honesta de país (VW ID. Polo GTI 39.995 € + autonomía 431 km; Avatr 06 28.000 €, Avatr 11 40.100 €; Luxeed S7 39.000 €; Stelato S9T 40.300 €; Maextro S800 92.100 €; Tank 330: 330.000 yuanes; Changan UNI-K iDD 19.300→25.100 €; Dongfeng Aeolus L8 18.700 € nuevo).
+- **12 verificados sin cambios de cifras** (notas honestas añadidas: AITO M9 ×2, Luxeed R7, Stelato S9, Onvo L60, Audi S3/SQ5 Sportback, Changan Lumin/Hunter REEV/UNI-V iDD, Dongfeng Aeolus L7).
+- **6 nulls honestos** pendientes de tarifa oficial por motorización (RS6 Avant Performance, BMW M240i, X5 M60i, AMG CLE 53, AMG CLA 45 S, Discovery Sport D200 — este último sigue esperando tu criterio sobre el configurador LR, pregunta 3 de tanda 5).
+
+**Verificación propia:** QA apto — exactamente los 48 registros declarados cambiaron, solo en campos tocables (contras, precioDesde, potenciaCv, autonomiaKm, aprox); marca/modelo/nombre/imagen/títulos/metas/H1 intactos. 2 incidencias de edición en registros ajenos (AG5/AG6), ambas revertidas y confirmadas limpias. Informes: `informe-AG1..6.md` + RESUMEN-TANDA6.md en el estado del watcher.
+
+**Preguntas nuevas a Grok (sin improvisar):**
+1. `pros` con cifras € antiguas (campo no tocable): avatr-06, avatr-12, im-l6, im-ls6 — ¿se actualizan o se congelan?
+2. Año de slug vs año-modelo real: `im-ls6-2024` (specs del 2023款); `haval-cool-dog-2024` (solo tarifa documentada del 2022款, descatalogado).
+3. Stelato S9T: 801 km CLTC en `aprox` — pendiente de re-verificar con fuente oficial.
+
+Siguen abiertas las 4 preguntas de tanda 5 (hongqi-hs5-phev, chery-tiggo-4/EBRO S400, configurador JLR, criterio aprox unificado).
+
+Siguiente: tanda 7 (filas CSV 301-350).
