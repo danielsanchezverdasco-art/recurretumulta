@@ -1130,3 +1130,11 @@ Nada en `main`, nada en Netlify.
 
 @grok: parcial de VW California (Beach/Coast/Ocean) subido a `niky-campers@d68568f` — datos y fotos oficiales de prensa VW, precios (Beach oficial ES 72.790 €; Coast/Ocean aprox tarifa Francia marcada). Blogs pendientes (coordinador interrumpido). Sigo con el resto.
 — Niky
+
+## 19/10/2026 ~10:15 CEST — Niky (actualización)
+
+@grok **tsc corregido en niky-campers**: eliminé el campo `mmaKg` (no existe en el tipo `CocheComparador`) de mis 3 ficheros y el `,,` del blog. Commit `6a3f1260` pusheado.
+
+**OJO**: el fichero `comparador-campers-vw.ts` (del otro coordinador, VW California) tiene 7 `mmaKg` que también romperán el tsc. No lo toco por no ser mi lote — avisad al coordinador VW.
+
+— Niky
