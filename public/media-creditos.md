@@ -583,3 +583,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/jeep-wrangler-4xe-380-2026-precio-ficha-tecnica-hunt1.webp | https://img.vinchain.io/2026/06/07/cb/04b7e2b78e5bd620_0492f3ba72c089.jpg | EpicVin (anuncio lote 2026 Jeep Wrangler) | desconocida |
 | /media/jeep-wrangler-4xe-380-2026-precio-ficha-tecnica-hunt2.webp | https://carup.se/wp-content/uploads/2026/01/Wrangler-4xe-1024x576.webp | Carup.se (blog del motor sueco) | desconocida |
 | /media/jeep-wrangler-4xe-380-2026-precio-ficha-tecnica-hunt3.webp | https://myjeepusa.com/wp-content/uploads/2025/09/2026-Jeep-Wrangler-4xe-Interior-768x559.jpg | MyJeepUSA | desconocida |
+| /media/niu-nqi-gts-2026-ficha-tecnica-precio-hunt1.webp | https://www.go2roues.com/wp-content/uploads/2026/05/NIU-NQi-GTS-MY-26-Black-arriere-droit.png | GO2 Roues (distribuidor NIU) | desconocida |
+| /media/niu-nqi-gts-2026-ficha-tecnica-precio-hunt2.webp | https://silentriders.de/media/image/product/1027/lg/niu-nqi-gts-80km-h-modell-2026~3.webp | Silent Riders (tienda NIU Alemania) | desconocida |
+| /media/niu-nqi-gts-2026-ficha-tecnica-precio-hunt3.webp | https://images5.1000ps.net/images_bikekat/2026/545-NIU/13498-NQi_GTS_Standard_Range/003-639052751865464024-niu-nqi-gts-standard-range.jpg?width=1920&height=1080&mode=crop&scale=both&format=webp | 1000PS (motor-blog) | desconocida |
+| /media/aixam-city-eclipse-2025-precio-ficha-tecnica-hunt1.webp | https://www.lucasautomobiles.com/aixam-city-eclipse-2026-edition-limitee/ | Lucas Automobiles | desconocida |
+| /media/aixam-city-eclipse-2025-precio-ficha-tecnica-hunt2.webp | https://www.lebreton-sans-permis.fr/stock-vehicules-neufs/surequipee-aixam-city-eclipse-2025-seulement-300-ex-disponible-chez-lebreton-voiture-sans-permis/ | Le Breton Sans Permis | desconocida |
+| /media/aixam-city-eclipse-2025-precio-ficha-tecnica-hunt3.webp | https://minicarsbcn.com/producto/aixam-city-4/ | Minicars BCN | desconocida |
+| /media/gotrax-gx1-hunt1.webp | https://riderguide.com/reviews/gotrax-gx1-review/ | Rider Guide | desconocida |
+| /media/gotrax-gx1-hunt2.webp | https://www.alphaproscooters.com/products/gx1-electric-scooter | Alpha Pro Scooters | desconocida |
+| /media/gotrax-gx1-hunt3.webp | https://gotrax.com/products/gx1-electric-scooter | Gotrax (web oficial) | desconocida |
+| /media/jeep-compass-electrico-231-long-range-2026-precio-ficha-tecnica-hunt1.webp | https://moparinsiders.com/jeep-compass-j4u-4xe-makes-debut-with-up-to-375-horsepower/ | Mopar Insiders | desconocida |
+| /media/jeep-compass-electrico-231-long-range-2026-precio-ficha-tecnica-hunt2.webp | https://moparinsiders.com/2026-jeep-compass-first-edition-debuts-in-the-uk-with-hybrid-and-ev-options/ | Mopar Insiders | desconocida |
+| /media/jeep-compass-electrico-231-long-range-2026-precio-ficha-tecnica-hunt3.webp | https://e-drivers.com/test-jeep-compass-2026-stoer-ingetogen-en-in-balans/ | E-Drivers | desconocida |
+| /media/zero-xb-2026-ficha-tecnica-precio-hunt1.webp | https://www.totalmotorcycle.com/motorcycles/2026/2026-zero-xb | Total Motorcycle | desconocida |
+| /media/zero-xb-2026-ficha-tecnica-precio-hunt2.webp | https://www.totalmotorcycle.com/motorcycles/2026/2026-zero-xb | Total Motorcycle | desconocida |
+| /media/zero-xb-2026-ficha-tecnica-precio-hunt3.webp | https://www.cyclenews.com/2025/11/article/2026-zero-xe-and-xb-review/ | Cycle News | desconocida |
+| /media/aixam-coupe-sport-2025-precio-ficha-tecnica-hunt1.webp | https://www.peugeot-azurautos.com/services/page/6/ | Azur Autos (concesionario, foto de catálogo Aixam) | desconocida |
+| /media/aixam-coupe-sport-2025-precio-ficha-tecnica-hunt2.webp | https://www.autoscout24.de/auto/aixam/aixam-gti/ | Autoscout24 (foto de catálogo Aixam) | desconocida |
+| /media/aixam-coupe-sport-2025-precio-ficha-tecnica-hunt3.webp | https://eg-autos.de/aixam-leichtkraftfahrzeug-45km/aixam-coupe-gti.html | EG Autos (concesionario, foto de catálogo Aixam) | desconocida |
+| /media/gotrax-gx2-hunt1.webp | https://estarbikes.com/product/gotrax-gx2-dual-motor-electric-scooter/ | EstarBikes (foto de producto Gotrax) | desconocida |
+| /media/gotrax-gx2-hunt2.webp | https://www.gotrax.shop/product/gx2 | Gotrax oficial (gotrax.shop) | desconocida |
+| /media/gotrax-gx2-hunt3.webp | https://www.kohls.com/product/prd-7029844/gotrax-gx2-electric-scooter.jsp?prdPV=36 | Kohl's (foto de producto Gotrax) | desconocida |
+| /media/jeep-compass-4xe-electrico-375-2026-precio-ficha-tecnica-hunt1.webp | https://www.autoscout24.at/informieren/news/jeep-compass-2025-jetzt-endlich-cool-genug/ | Foto de prensa Jeep / Autoscout24 | desconocida |
+| /media/jeep-compass-4xe-electrico-375-2026-precio-ficha-tecnica-hunt2.webp | https://autoentusiastas.com.br/2025/07/novo-jeep-compass-4xe/ | AutoEntusiastas (foto de prensa Jeep) | desconocida |
+| /media/jeep-compass-4xe-electrico-375-2026-precio-ficha-tecnica-hunt3.webp | https://www.carsales.com.au/editorial/details/2026-jeep-compass-outed-149285/ | Carsales (foto de prensa Jeep) | desconocida |
