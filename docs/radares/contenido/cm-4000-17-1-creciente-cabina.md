@@ -12,6 +12,15 @@
 
 La DGT ubica esta cabina en la **CM-4000 a la altura del pk 17,1**, en territorio de Toledo. Mide la velocidad en el **sentido creciente**, el de los pk crecientes. Puedes verificar la ubicación exacta con el enlace de Street View que acompaña a la ficha: las coordenadas son las de la DGT. El punto vigilado más cercano es el de la **A-42, pk 71,4** (sentido creciente): queda a 18,6 km hacia el este. El segundo control más cercano es el de la **A-42, pk 55,7** (sentido creciente), a 25,0 km hacia el noreste. A esta altura de la vía, el conductor ya ha adoptado un ritmo que conviene revisar antes del control.
 
+<iframe title="Mapa: radar cm-4000-17-1-creciente-cabina" src="https://www.google.com/maps?q=39.87685,-4.22011&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cm-4000-17-1-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.87685,-4.22011&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La vía en cuestión es la CM-4000, de la red autonómica, a su paso por Toledo. El uso de la carretera autonómica reparte su intensidad entre las puntas laborales y los flujos de fin de semana. El control fijo en este punto pretende disciplinar la velocidad del flujo circulatorio. La CM-4000 cuenta con un único punto de control publicado en la comunidad: este. La CM-4000 cuenta con un único punto de control publicado en la comunidad: este. En definitiva, un tramo donde la disciplina con el acelerador marca la diferencia. Adaptarse a la vía significa también aceptar sus límites: los impuestos por la norma y los del sentido común.
