@@ -11,6 +11,14 @@
 ## Dónde está
 
 El radar vigila la N-550 en el pk 76,9, en Padrón (A Coruña): 42.788548, -8.649507. Apunta al sentido creciente (dirección de pks ascendentes), con destino Tui en el registro de la DGT. El enlace de Street View muestra el punto exacto.
+
+<iframe title="Mapa: radar n-550-76-9-creciente-cabina" src="https://www.google.com/maps?q=42.788548,-8.649507&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-550-76-9-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.788548,-8.649507&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
 ## La carretera
 
 La N-550 es una nacional convencional de la Red de Carreteras del Estado entre A Coruña y Tui. El XML de la DGT la marca como «CARRETERA NACIONAL»: régimen genérico de convencionales. Sin detalle del tramo.
