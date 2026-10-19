@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 41.0018, -5.6146
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=41.0018,-5.6146)
 
+<iframe title="Mapa: radar a-62-233-6-decreciente-cabina" src="https://www.google.com/maps?q=41.0018,-5.6146&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-62-233-6-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=41.0018,-5.6146&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** Este radar aparece en el XML oficial de la DGT (DATEX II, portal NAP) con vía, pk, sentido y tipo de equipo. Ni el límite ni el municipio vienen en ese dataset: el límite de 120 km/h es el genérico del RGC (art. 48) para turismos y motos en autopistas y autovías, acorde con la singularidad «AUTOPISTA / AUTOVÍA» del registro, y Castellanos de Moriscos (Salamanca) lo asigna el geocodificador oficial CartoCiudad del IGN.
 
 ## El lugar
