@@ -4491,3 +4491,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/volkswagen-tiguan-ehybrid-2026-precio-ficha-tecnica-hunt3.webp | https://www.evshift.com/wp-content/uploads/2026/05/MY26-VOLKSWAGEN-TIGUAN-eHYBRID-002.jpg | EVSHIFT | desconocida |
 | /media/bmw-m340i-xdrive-touring-2025-hunt1.webp | https://framerusercontent.com/images/fGX9wVpvPqwRYUY0s9z8IBq50.webp?width=1744&height=1080 | Garage Brys (concesionario BMW, Bélgica) | desconocida |
 | /media/bmw-m340i-xdrive-touring-2025-hunt2.webp | https://images.dailyrevs.com/0000/v3/BMW/6657052b8be8aa5f2f42416a/2025-3-series-touring-g21-bmw-fh8f87777760aet2c144mc9.jpeg | DailyRevs | desconocida |
+| /media/cyclone-rx1-hunt1.webp | https://images.ctfassets.net/8zlbnewncp6f/64xpNZUG1zDRyLe7di4cDW/9baf8596e9e68ae8acb6767cf0dedce4/Zongshen-RX1-1.jpg | Galgo (Chile) | desconocida |
+| /media/cyclone-rx1-hunt2.webp | https://www.bikesport.cl/cdn/shop/products/MotoZongshen-RX1_1.png?v=1625186705&width=596 | Bikesport Chile (distribuidor Zongshen) | desconocida |
+| /media/cyclone-rx1-hunt3.webp | https://cache1.pakwheels.com/system/bike_model_pictures/1176/original/TB2pbFdprRkpuFjSspmXXc.9XXa_!!174240417.jpg?1563454346 | PakWheels | desconocida |
+| /media/dacia-bigster-hybrid-155-2025-precio-ficha-tecnica-hunt1.webp | https://carnovo.com/wp-content/uploads/2025/12/dacia-bigster.jpg | Carnovo | desconocida |
+| /media/dacia-bigster-hybrid-155-2025-precio-ficha-tecnica-hunt2.webp | https://www.autobics.com/wp-content/uploads/2024/10/Dacia-Bigster-HYBRID-155-Interior.jpg | Autobics | desconocida |
+| /media/dacia-bigster-hybrid-155-2025-precio-ficha-tecnica-hunt3.webp | https://cdnwp.dealerk.com/bb1cd92f/uploads/sites/112/2025/06/dacia-bigster-2.jpg | NetCarShow (vía Centrocar Cazzaro, concesionario oficial Dacia) | desconocida |
+| /media/bmw-i5-m60-xdrive-touring-2025-hunt1.webp | https://drivingenthusiast.com.au/wp-content/uploads/2024/02/2025-BMW-i5-Touring.jpeg | Driving Enthusiast (foto de prensa BMW) | desconocida |
+| /media/bmw-i5-m60-xdrive-touring-2025-hunt2.webp | https://images.carexpert.com.au/crop/466/310/app/uploads/2024/02/2025-bmw-i5-m60-xdrive-touring-1.jpg | CarExpert | desconocida |
+| /media/bmw-i5-m60-xdrive-touring-2025-hunt3.webp | https://ftp.larevueautomobile.com/images/fiche-technique/2025/Bmw/i5-touring/M60-xDrive/Bmw_i5-touring_MD_3.webp | La Revue Automobile (foto de prensa BMW) | desconocida |
+| /media/cyclone-ra2-hunt1.webp | https://cyclone-motor.eu/wp-content/uploads/2025/06/RA2-gris-portada.webp | Cyclone Motor (foto oficial) | desconocida |
+| /media/cyclone-ra2-hunt2.webp | https://cyclone-motor.eu/wp-content/uploads/2025/06/ra2-negro-360-5.webp | Cyclone Motor (foto oficial) | desconocida |
+| /media/cyclone-ra2-hunt3.webp | https://danaramotor.com/media/ab38eba987a337f7ea412f0f611e866f6d3b0113f788ec5cf80eeed93be198fe/1600/cyclone-ra2-grey.webp | Danara Motor | desconocida |
+| /media/dacia-bigster-eco-g-140-2025-precio-ficha-tecnica-hunt1.webp | https://carwalk.de/wp-content/uploads/2024/10/Dacia-Bigster-01.jpg | Carwalk.de | desconocida |
+| /media/dacia-bigster-eco-g-140-2025-precio-ficha-tecnica-hunt2.webp | https://carnovo.com/wp-content/uploads/2025/12/dacia-bigster.jpg | Carnovo | desconocida |
+| /media/dacia-bigster-eco-g-140-2025-precio-ficha-tecnica-hunt3.webp | https://www.autobics.com/wp-content/uploads/2024/10/Dacia-Bigster-HYBRID-155-Interior.jpg | AutoBics | desconocida |
+| /media/dreamer-d55-fun-up-2026-precio-ficha-tecnica-hunt1.webp | https://opale-evasion.com/wp-content/uploads/2026/02/IMG_6185-1024x768.jpg | Opale Évasion | desconocida |
+| /media/dreamer-d55-fun-up-2026-precio-ficha-tecnica-hunt2.webp | https://opale-evasion.com/wp-content/uploads/2026/02/IMG_6201-scaled.jpg?x68665 | Opale Évasion | desconocida |
+| /media/dreamer-d55-fun-up-2026-precio-ficha-tecnica-hunt3.webp | https://www.comercialcaravaning.com/wp-content/uploads/2022/03/WhatsApp-Image-2022-10-14-at-5.34.04-PM-5.jpeg | Comercial Caravaning | desconocida |
+| /media/volvo-ex90-2025-precio-ficha-tecnica-hunt1.webp | https://m.netinfo.bg/media/images/50277/50277070/1600-ratio-volvo-ex90.jpg | CarMarket.bg (foto de prensa Volvo) | desconocida |
+| /media/volvo-ex90-2025-precio-ficha-tecnica-hunt2.webp | https://D2046fb22nsf40.cloudfront.net/JCpWZARM-2025-Volvo-EX90-5-770x513.jpg | Cars4Starters (foto de prensa Volvo) | desconocida |
+| /media/volvo-ex90-2025-precio-ficha-tecnica-hunt3.webp | https://evmagz.com/wp-content/uploads/2022/11/volvo-ex90-29.jpg | EVMagz (foto de prensa Volvo) | desconocida |
+| /media/cfmoto-250cl-x-hunt1.webp | https://www.motorbeam.com/wp-content/uploads/CFMoto-250-CL-X.jpg | CFMoto (prensa, vía MotorBeam) | desconocida |
+| /media/cfmoto-250cl-x-hunt2.webp | https://imgcdn.zigwheels.my/large/gallery/exterior/99/2435/cfmoto-250-cl-x-slant-front-view-full-image-804582.jpg | CFMoto (prensa, vía ZigWheels) | desconocida |
+| /media/cfmoto-250cl-x-hunt3.webp | https://www.cfmoto.com.tw/assets/img/portfolio/250CL-X-BLACK.jpg | CFMoto Taiwan (web oficial) | desconocida |
