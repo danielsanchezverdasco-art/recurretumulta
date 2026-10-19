@@ -12,6 +12,15 @@
 
 La DGT ubica esta cabina en la **N-430 a la altura del pk 274,0**, en territorio de Ciudad Real. Cubre el **sentido decreciente** —los conductores que se desplazan hacia pk decrecientes—. El dataset no incluye el municipio de ningún punto: esta ficha indica la provincia (Ciudad Real) y no inventa la localidad. A 16,7 km hacia el este está el control más próximo, el de la **CM-403, pk 89,0** (sentido creciente). Le sigue en proximidad el de la **N-401, pk 178,8** (sentido decreciente), situado a 28,1 km hacia el este. El tramo no presenta dificultades técnicas especiales; el desafío es mantener la disciplina de velocidad.
 
+<iframe title="Mapa: radar n-430-274-0-decreciente-cabina" src="https://www.google.com/maps?q=38.99749,-4.23353&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-430-274-0-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.99749,-4.23353&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La N-430 es una carretera nacional convencional que cruza la provincia de Ciudad Real. La carretera nacional canaliza una afluencia variada: transporte, ocio y trabajo se reparten el asfalto. Este punto figura en el dataset de radares fijos por ser proclive a las velocidades inadecuadas. De los 3 controles que la DGT publica para la N-430 en la comunidad, este es el primero por punto kilométrico. En la misma N-430, el control más próximo es el del pk 404,8 (sentido creciente): dista 110,9 km hacia el este. En definitiva, un tramo donde la disciplina con el acelerador marca la diferencia. Quien la recorre con frecuencia aprende dónde están los puntos delicados; quien no, debería extremar la atención.
