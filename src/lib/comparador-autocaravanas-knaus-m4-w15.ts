@@ -21,7 +21,7 @@ export const AUTOCARAVANAS_KNAUS_M4: Autocaravana[] = [
     tipo: "camper",
     categoria: "Autocaravana",
     precioDesde: null, // Knaus no publica PVP oficial ES; ref. configurador knaus.com: £80.768 GBP (2025)
-    potenciaCv: 163,
+    potenciaCv: 163, // configurador oficial Knaus 2025: MAN TGE 2.0 TDI 120 kW/163 CV con cambio automático de 8 vel.
     autonomiaKm: null,
     maleteroL: null,
     ceroCien: null,
@@ -39,7 +39,7 @@ export const AUTOCARAVANAS_KNAUS_M4: Autocaravana[] = [
     videoCanal: null,
     largoMm: 5986,
     anchoMm: 2040,
-    altoMm: 3200, // algunas fichas de la red indican 2.971-3.090 mm según configuración
+    altoMm: 3200, // configurador oficial Knaus 2025: 3.090 mm; fichas de la red varían entre 2.971 y 3.200 mm según configuración
     pesoKg: null, // la tara varía según equipamiento; la marca no publica una cifra única
     mmaKg: 3500,
     carnetNecesario: "B",
@@ -165,7 +165,7 @@ autocaravanas con garaje pasante.`,
     tipo: "integral",
     categoria: "Autocaravana",
     precioDesde: null, // Knaus no publica PVP oficial ES; ref. lista DE 2026: 114.753 € con extras
-    potenciaCv: 180,
+    potenciaCv: 180, // fichas de catálogo de la red: Fiat Ducato de 180 CV en la variante alta
     autonomiaKm: null,
     maleteroL: null,
     ceroCien: null,
