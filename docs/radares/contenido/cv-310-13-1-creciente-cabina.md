@@ -12,6 +12,14 @@
 
 La Dirección General de Tráfico ubica esta caja en la **CV-310 a la altura del pk 13,1**, en territorio de Valencia. Actúa sobre el **sentido creciente** de la calzada, esto es, el de los puntos kilométricos crecientes. El término municipal es **Bétera**, asignado por geocodificación oficial sobre las coordenadas exactas. A 8,7 km hacia el suroeste está el control más próximo, el de la **CV-35, pk 12,9** (sentido decreciente).
 
+<iframe title="Mapa: radar cv-310-13-1-creciente-cabina" src="https://www.google.com/maps?q=39.6236,-0.43748&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cv-310-13-1-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.6236,-0.43748&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 Hablamos de una carretera autonómica —la CV-310— en Valencia. El flujo combina puntas horarias laborales con movimientos de ocio de fin de semana. El paisaje de la costa valenciana enmarca este tramo.
