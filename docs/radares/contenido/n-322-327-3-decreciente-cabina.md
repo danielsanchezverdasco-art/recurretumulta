@@ -12,6 +12,15 @@
 
 Este punto de control se sitúa en el **pk 327,3 de la N-322** (provincia de Albacete, Castilla-La Mancha). Controla el **sentido decreciente** de la marcha: los puntos kilométricos decrecientes. La tripleta carretera–pk–sentido identifica este control sin ambigüedad dentro del dataset oficial. El punto vigilado más cercano es el de la **N-322, pk 316,0** (sentido creciente): queda a 8,8 km hacia el suroeste. El segundo control más cercano es el de la **N-430, pk 484,5** (sentido creciente), a 19,1 km hacia el norte. La afluencia varía mucho por franjas: tranquila entre semana a mediodía, intensa en fines de semana.
 
+<iframe title="Mapa: radar n-322-327-3-decreciente-cabina" src="https://www.google.com/maps?q=38.8822,-2.13941&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-322-327-3-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.8822,-2.13941&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La N-322 es una carretera nacional convencional que cruza la provincia de Albacete. En esta carretera nacional, los ritmos son dispares: conviven la prisa del largo recorrido y la calma del trayecto local. La vigilancia permanente en este sector busca contener los excesos en un tramo que invita a correr. De los 3 controles que la DGT publica para la N-322 en la comunidad, este es el segundo por punto kilométrico. Siguiendo por la N-322, el próximo punto con vigilancia es el del pk 316,0 (sentido creciente), a 8,8 km hacia el suroeste. En definitiva, un tramo donde la disciplina con el acelerador marca la diferencia. No hay dos tramos iguales: este tiene sus particularidades y conviene conocerlas antes de pisar el acelerador.
