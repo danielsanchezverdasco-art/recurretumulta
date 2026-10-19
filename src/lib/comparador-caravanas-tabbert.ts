@@ -59,17 +59,17 @@ export const CARAVANAS_TABBERT: CocheComparador[] = [
     largoMm: 7480,
     anchoMm: 2320,
     altoMm: 2600,
-    pesoKg: null,
+    pesoKg: 1412,
     mmaKg: 2000,
     carnetNecesario: "B96",
-    cargaUtilKg: null,
+    cargaUtilKg: 588,
     consumo: null,
     consumoUnidad: null,
     plazas: 2,
     parNm: null,
     traccion: null,
     emisionesCo2: null,
-    aprox: ["precioDesde"],
+    aprox: ["precioDesde", "pesoKg", "cargaUtilKg"],
     pros: [
       "La Pantiga es la gama de acceso renovada de Tabbert: diseño actual sin precio premium",
       "MMA de 2.000 kg en la unidad Finest Edition: margen de carga generoso",
@@ -122,9 +122,8 @@ export const CARAVANAS_TABBERT: CocheComparador[] = [
       fuente: "Recomendaciones Tabbert + red de distribuidores",
     },
     euroncap: null,
-    fuenteNombre:
-      "Tabbert (gama Pantiga 2026; precio de unidad 2026 Finest Edition en distribuidor de Alemania)",
-    fuenteUrl: "https://suchen.mobile.de/wohnwagen/tabbert-pantiga-490-e.html",
+    fuenteNombre: "Tabbert (gama Pantiga 2026; precio de unidad 2026 Finest Edition en distribuidor de Alemania) | Pesos: Caraworld (expose Pantiga 490 E 2026: MRO 1.412 kg, MMA 2.000 kg)",
+    fuenteUrl: "https://www.caraworld.de/print/cw27191576-de-DE1-expose.pdf",
   },
   {
     id: "tabbert-cazadora-460-e-2026-precio-ficha-tecnica",
@@ -155,17 +154,17 @@ export const CARAVANAS_TABBERT: CocheComparador[] = [
     largoMm: 6970,
     anchoMm: 2320,
     altoMm: 2600,
-    pesoKg: null,
+    pesoKg: 1236,
     mmaKg: 1400,
     carnetNecesario: "B",
-    cargaUtilKg: null,
+    cargaUtilKg: 164,
     consumo: null,
     consumoUnidad: null,
     plazas: 4,
     parNm: null,
     traccion: null,
     emisionesCo2: null,
-    aprox: ["precioDesde"],
+    aprox: ["precioDesde", "pesoKg", "cargaUtilKg"],
     pros: [
       "La Tabbert más asequible de la gama 2026: 27.365 € según tarifa alemana",
       "4 plazas en 6,97 m: cama de matrimonio y salón convertible",
@@ -218,10 +217,8 @@ export const CARAVANAS_TABBERT: CocheComparador[] = [
       fuente: "Recomendaciones Tabbert + red de distribuidores",
     },
     euroncap: null,
-    fuenteNombre:
-      "Tabbert (tarifa oficial Alemania 2026, vía prensa especializada)",
-    fuenteUrl:
-      "https://vanlifemag.de/tabbert-cazadora-neuer-wohnwagen-fuer-komfortables-vanlife/",
+    fuenteNombre: "Tabbert (tarifa oficial Alemania 2026, vía prensa especializada) | Pesos: Caraworld (expose Cazadora 460 E 2026: MRO 1.236 kg, MMA 1.400 kg)",
+    fuenteUrl: "https://caraworld.hst.edition-software.de/print/cw23656011-de-DE1-expose.pdf",
   },
   {
     id: "tabbert-senara-550-dmk-2026-precio-ficha-tecnica",
@@ -254,7 +251,7 @@ export const CARAVANAS_TABBERT: CocheComparador[] = [
     altoMm: 2600,
     pesoKg: null,
     mmaKg: 1700,
-    carnetNecesario: "B",
+    carnetNecesario: "B96",
     cargaUtilKg: null,
     consumo: null,
     consumoUnidad: null,
@@ -315,8 +312,7 @@ export const CARAVANAS_TABBERT: CocheComparador[] = [
       fuente: "Recomendaciones Tabbert + red de distribuidores",
     },
     euroncap: null,
-    fuenteNombre:
-      "Tabbert (tarifa oficial Alemania, vía prensa especializada)",
+    fuenteNombre: "Tabbert (tarifa oficial Alemania, vía prensa especializada) | Pesos: Tabbert (MMA 1.700 kg; peso en vacio no publicado en fuentes consultadas)",
     fuenteUrl:
       "https://camperstyle.de/tabbert-senara-550-dmk-caravan-familie-274644/",
   },
@@ -351,7 +347,7 @@ export const CARAVANAS_TABBERT: CocheComparador[] = [
     altoMm: 2650,
     pesoKg: null,
     mmaKg: 1700,
-    carnetNecesario: "B",
+    carnetNecesario: "B96",
     cargaUtilKg: null,
     consumo: null,
     consumoUnidad: null,
@@ -412,8 +408,7 @@ export const CARAVANAS_TABBERT: CocheComparador[] = [
       fuente: "Recomendaciones Tabbert + red de distribuidores",
     },
     euroncap: null,
-    fuenteNombre:
-      "Tabbert (UPE oficial Alemania 2026, vía distribuidor; 7.300 mm, hasta 1.700 kg)",
+    fuenteNombre: "Tabbert (UPE oficial Alemania 2026, vía distribuidor; 7.300 mm, hasta 1.700 kg) | Pesos: Tabbert (MMA 1.700 kg; peso en vacio no publicado en fuentes consultadas)",
     fuenteUrl: "https://suchen.mobile.de/wohnwagen/tabbert-560-e.html?lang=en",
   },
   {
@@ -518,7 +513,7 @@ export const CARAVANAS_TABBERT: CocheComparador[] = [
       fuente: "Recomendaciones Tabbert + red de distribuidores",
     },
     euroncap: null,
-    fuenteNombre: "Tabbert (web oficial) + red de distribuidores oficiales",
+    fuenteNombre: "Tabbert (web oficial) + red de distribuidores oficiales | Pesos: Tabbert (datos existentes: MRO 1.333 kg, MMA 1.700 kg)",
     fuenteUrl: "https://www.tabbert.com/en/",
   }
 ];
