@@ -2,6 +2,14 @@
 
 **Identificador:** `a-13-2-48-decreciente-cabina` · **Tipo:** cabina (cinemómetro en cabina) · **Fuente oficial:** DGT · DATEX II — verificado el 2026-10-19 · **Autor:** Merlín · **Fecha de redacción:** 2026-10-19 · **Coordenadas (WGS84):** 42.46868, -2.41766 · **Enlace Street View:** https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.46868,-2.41766
 
+<iframe title="Mapa: radar a-13-2-48-decreciente-cabina" src="https://www.google.com/maps?q=42.46868,-2.41766&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-13-2-48-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.46868,-2.41766&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** vía, punto kilométrico, sentido y coordenadas de este radar proceden del XML oficial de la DGT (DATEX II, portal NAP), revisado el 2026-10-19. La fuente no indica el límite aplicable a cada punto ni el municipio: el límite de esta ficha es el genérico del Reglamento General de Circulación (art. 48, RD 1428/2003) por tipo de vía, y el municipio se ha identificado con el geocodificador oficial CartoCiudad (IGN/CNIG).
 
 ## Ubicación del cinemómetro
