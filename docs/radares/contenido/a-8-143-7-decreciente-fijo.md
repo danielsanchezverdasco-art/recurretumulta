@@ -12,6 +12,15 @@
 
 El equipo está situado en la **A-8, punto kilométrico 143,7**, en Cantabria, vigilando el **sentido decreciente**, identificado por la DGT en dirección **Euskadi**. Se halla en las inmediaciones de Castro Urdiales, muy cerca ya del límite autonómico con el País Vasco, en el tramo de la Autovía del Cantábrico que discurre pegado a la costa oriental cántabra. Quienes viajan hacia Bilbao o el interior vasco pasan por este punto en los últimos kilómetros de Cantabria.
 
+<iframe title="Mapa: radar a-8-143-7-decreciente-fijo" src="https://www.google.com/maps?q=43.3593,-3.1947&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-8-143-7-decreciente-fijo" src="https://maps.google.com/maps?q=&layer=c&cbll=43.3593,-3.1947&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 Este sector de la A-8 es uno de los más transitados de la cornisa: canaliza el flujo entre Cantabria y Bizkaia, con un volumen importante de tráfico pesado vinculado a los puertos y a la industria del Gran Bilbao. La autovía aquí presenta un perfil exigente, con cambios de rasante y curvas que la señalización gestiona con límites específicos en algunos subtramos. La combinación de densidad de camiones, meteorología atlántica y trazado movido hace que la velocidad deba ajustarse con criterio, más allá de lo que indique el velocímetro.
