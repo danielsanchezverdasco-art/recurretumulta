@@ -184,7 +184,7 @@ Para quién es: viajeros exigentes con carnet C1 que buscan una integral de lujo
     ],
     opiniones: [],
     galeria: [
-      { src: "/media/laika-kreos-h-5109-2026-precio-ficha-tecnica-oficial.webp", alt: "Laika Kreos H 5109, vista exterior delantera", ancho: 1024, alto: 768 },
+      { src: "/media/laika-kreos-h-5109-2026-precio-ficha-tecnica-oficial.webp", alt: "Laika Kreos H 5109, vista exterior delantera", ancho: 1000, alto: 666 },
       { src: "/media/laika-kreos-h-5109-2026-precio-ficha-tecnica-interior1.webp", alt: "Laika Kreos H 5109, salón comedor", ancho: 800, alto: 533 },
       { src: "/media/laika-kreos-h-5109-2026-precio-ficha-tecnica-interior2.webp", alt: "Laika Kreos H 5109, cocina", ancho: 1600, alto: 1200 },
       { src: "/media/laika-kreos-h-5109-2026-precio-ficha-tecnica-detalle.webp", alt: "Laika Kreos H 5109, vista trasera exterior", ancho: 1279, alto: 854 },
