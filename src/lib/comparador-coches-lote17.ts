@@ -886,7 +886,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     modelo: "Q5 Sportback",
     tipo: "Gasolina MHEV",
     categoria: "SUV",
-    precioDesde: 65320,
+    precioDesde: 65370,
     potenciaCv: 204,
     autonomiaKm: null,
     maleteroL: 515,

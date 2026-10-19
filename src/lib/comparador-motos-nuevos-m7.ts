@@ -2166,7 +2166,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     modelo: "Deer",
     version: "Deer",
     categoria: "Scooter",
-    precioDesde: 5990,
+    precioDesde: 4290,
     potenciaKw: 7,
     potenciaCv: 9.5,
     cilindradaCc: null,

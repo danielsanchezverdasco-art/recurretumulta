@@ -1499,7 +1499,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     modelo: "Road Glide",
     version: "Road Glide 2025",
     categoria: "Naked",
-    precioDesde: 36700,
+    precioDesde: 37000,
     potenciaKw: 78.7,
     potenciaCv: 107,
     cilindradaCc: 1923,

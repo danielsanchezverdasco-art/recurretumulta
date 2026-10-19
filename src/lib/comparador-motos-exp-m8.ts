@@ -347,7 +347,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
     modelo: "M 1000 RR",
     version: "2025",
     categoria: "Deportiva",
-    precioDesde: 41580,
+    precioDesde: 42410.05,
     potenciaKw: 160,
     potenciaCv: 218,
     autonomiaKm: null,

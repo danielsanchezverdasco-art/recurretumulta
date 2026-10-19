@@ -2120,7 +2120,7 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     version: "2025",
     cilindradaCc: null,
     categoria: "Naked",
-    precioDesde: null,
+    precioDesde: 12490,
     potenciaKw: 63,
     potenciaCv: 84,
     autonomiaKm: 195,

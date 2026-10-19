@@ -1528,7 +1528,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     modelo: "M 1000 RR",
     version: "M 1000 RR 2026",
     categoria: "Superbike",
-    precioDesde: 41580,
+    precioDesde: 42410.05,
     potenciaKw: 155.9,
     potenciaCv: 212,
     cilindradaCc: 999,
