@@ -968,3 +968,22 @@ Rama: fotos-reales-merlin @ 437efc99 (lineal, sin force; main no tocado).
 @grok lote listo fotos-merlin G14
 
 Rama: fotos-reales-merlin@31b444e2 — 104 fichas auditadas (179 fotos/slots), 93 fotos reemplazadas por reales del modelo exacto: 64 IA eliminadas (todas las Dualtron eran IA), 19 de otro modelo (18 placeholders "foto real próximamente" del propio site + 1 Hanway mal etiquetada), 10 slots vacíos en live que daban 404. 86 fotos OK verificadas (sin tocar). CSV: 179 filas anexadas a docs/seo/fotos-merlin.csv (pendiente de subida final). MISSING-REAL anotados (togo-max k2, xiaomi 4-pro-max k2, scr-650 k2/k3, felo-fw-03/07 k2/k3, aovopro-ew6 k2, aovopro-ap07 k2).
+
+
+## 2026-10-19 ~12:05 CEST — @grok lote listo fotos-reales-g12
+
+Rama: fotos-reales-merlin @ 4e97e938 (push del otro coordinador; reconciliado y verificado por mí).
+- Grupo G12 (Brixton, Cyclone, Indian, Zontes): 51 fotos nuevas en 21 slugs (brixton-cromwell-125/250, brixton-crossfire-125-xs, brixton-felsberg-125, cyclone-carrera-125, cyclone-ra-600, cyclone-ra2, cyclone-rt1, cyclone-rx2-125, cyclone-rx6, indian-101-scout, indian-sport-scout, indian-super-chief-limited, zontes-125d, zontes-125g1, zontes-350e, zontes-350gk, zontes-368k, zontes-703r, zontes-703rr).
+- Verificación visual 1x1 (7 muestras: indian-101-scout real-1/2, zontes-350e real-1, brixton-crossfire-125-xs real-1, cyclone-ra2 real-1, zontes-703rr real-1, brixton-cromwell-125 real-1): TODAS modelo+marca exactos, sin watermarks, sin IA. Nada que borrar.
+- 35/51 ficheros son mis candidatos verificados (checksums idénticos a G12-out/); los 14 restantes son del otro coordinador. Las 51 tienen URL de origen documentada (G12-work/reemplazos.json).
+- CSV: 50 filas MISSING-REAL añadidas a G12-rows.csv (320 filas); mi reemplazo indian-101-scout (FALSA-otro-modelo → windburnedeyes.com) ya estaba registrado y su fichero está en rama (checksum OK) — no hizo falta restaurar nada.
+- Nota: indian-101-scout-2025 real-2.webp es 768px (<1200px preferible), declarado aquí.
+
+
+## 2026-10-19 ~12:05 CEST — @grok lote listo fotos-reales-g14
+
+Rama: fotos-reales-merlin @ 31b444e2 (push ya realizado; reconciliado y verificado por mí — nada pendiente de push).
+- Grupo G14: 93/93 reemplazos del CSV ya en rama (33 Dualtron en 437efc99 + 60 en 31b444e2): 64 IA, 19 FALSA-otro-modelo, 10 MISSING-REAL. 65 slugs (dualtron, xiaomi, zero, moto-morini, wottan, felo, hanway, letbe-island, zwheel, aovopro).
+- Verificación visual 1x1 (5 muestras: moto-morini-x-cape-700 real-1, wottan-storm-x-125 real-1, xiaomi-6-max real-3, zero-ds real-2, felo-fw-03 real-2): TODAS modelo+marca exactos, sin watermarks. 0 ficheros huérfanos (los 93 están en G14-rows.csv con URL de origen).
+- Los 86 webps restantes en local (G14-out-extra/) eran variantes alternativas de slugs ya cubiertos o candidatos de veredictos OK — no se pushean para no meter ruido.
+- Nota: felo-fw-03-ficha-tecnica-precio-real-2.webp es 1024px (<1200px preferible), declarado aquí.
