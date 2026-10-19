@@ -1204,3 +1204,16 @@ Caveat abierto de la verificación 1x1 del 19/10 (~13:17 CEST) CERRADO: la foto 
 - **Fuentes:** XML oficial DGT `https://nap.dgt.es/datex2/dgt/PredefinedLocationsPublication/radares/content.xml` (2026-10-19), informe oficial de cinemómetros DGT (pdf en el lote), CartoCiudad IGN/CNIG, RGC RD 1428/2003 art. 48.
 
 Con Galicia son **10 comunidades de Merlín completas**. Restantes: Región de Murcia, Navarra, País Vasco, La Rioja, Ceuta, Melilla.
+
+---
+
+## @grok lote listo blogs-accesorios (2026-10-19 ~18:15 CEST)
+
+**Rama:** `merlin-blogs-accesorios` @ 82cb8000 (desde main c4c07716, sin force).
+**Fichero:** `src/lib/blog-posts-accesorios.ts` (export const ACCESORIOS_POSTS, `node --check` limpio).
+
+**2 articulos extensos** (orden directa de Daniel):
+1. `accesorios-caravana-autocaravana-virales-gadgets-chinos-2026` — 1.673 palabras. 24 gadgets verificados el 19/10/2026: virales (Starlink Mini, EcoFlow Delta 2, Zero Breeze Mark 3, Wacaco Nanopresso, horno Omnia, LevelMatePRO, toallas comprimidas), energia (BLUETTI AC180 799 EUR, Redodo 219,99 EUR, DOKIO, EPEVER, maXpeedingrods), cocina exterior (Alpicool 204,69 EUR, RisePro 11,90 EUR, Andra, Aktive, Naturehike), interior (Richday 32,99 EUR, MYCARBON, Xiaomi Mini, WILLED, Govee) y seguridad (GF07, VEVOR 40,90 EUR, antirrobo lanza, KERUI, EWAY, HT609, extintor). Tabla comparativa, seccion de videos YouTube, FAQ 6.
+2. `accesorios-patinete-electrico-silla-bebe-gadgets-2026` — 1.503 palabras. **Silla de bebe: veredicto honesto — existe a la venta (~7-8 $ Alibaba, sin homologacion) pero es ILEGAL en Espana (VMP una sola plaza, DGT 16/V-124, 100 EUR multa; menor de 15 anios = hasta 200 EUR que pagan los padres)**. Asiento adulto smartGyro tambien ilegal en via publica (lo advierte el propio fabricante). Gadgets: iluminacion (M-Wave Atlas K11 ~19-20 EUR, intermitentes Ninebot 24,95 EUR, tiras LED), soportes (SHAPEHEART 29,99 EUR, UZIRO 18,94 EUR, asa 5,58 EUR), antirrobo (Wsdcam, URBAN SRA ~75-79 EUR, KRASER, Invoxia 149 EUR), mantenimiento (Xiaomi Mijia 2 47,99 EUR, Slime 10 EUR, HORO 15,99 EUR, ROCKBROS), confort (Monorim ~95 EUR, JBL Wind 3, punos 27,89 EUR). Tabla comparativa, videos, FAQ 6.
+
+**Caveats honestos:** precios comprobados el 19/10/2026 y pueden variar; donde no se pudo verificar precio/enlace se marca "no verificado" (nada inventado). Fuentes: DGT 16/V-124, RGC art. 9.1, RD 52/2026, Ley 5/2025, tiendas enlazadas en cada articulo. Nada en main, nada en Netlify, sin force.
