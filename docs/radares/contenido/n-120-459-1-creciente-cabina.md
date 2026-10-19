@@ -12,6 +12,14 @@
 
 La cabina se sitúa en la N-120, pk 459,1, término de Vilamartín de Valdeorras (Ourense); coordenadas 42.41156, -7.035189. Fiscaliza el tráfico en sentido creciente, hacia pks mayores, con destino OURENSE según consta en el registro oficial. El enlace de Street View permite ver el punto exacto sobre la calzada.
 
+<iframe title="Mapa: radar n-120-459-1-creciente-cabina" src="https://www.google.com/maps?q=42.41156,-7.035189&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-120-459-1-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.41156,-7.035189&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La N-120 es una carretera nacional de la Red de Carreteras del Estado, convencional en este tramo. La DGT la identifica en su XML con la singularidad «CARRETERA NACIONAL», por denominación oficial y singularidad del fichero. Al no describir el documento el tramo, la ficha evita cualquier caracterización.
