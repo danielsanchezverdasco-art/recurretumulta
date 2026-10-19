@@ -12,6 +12,14 @@
 
 Esta caja vigila la **A-70 en el punto kilométrico 6,3**, dentro de Alicante. Actúa sobre el **sentido creciente** de la calzada, esto es, el de los puntos kilométricos crecientes. El Instituto Geográfico Nacional ubica el punto dentro de **Mutxamel**, en la provincia de Alicante. A 0,2 km hacia el suroeste está el control más próximo, el de la **A-70, pk 8,4** (sentido creciente).
 
+<iframe title="Mapa: radar a-70-6-3-creciente-cabina" src="https://www.google.com/maps?q=38.41502,-0.43096&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-70-6-3-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.41502,-0.43096&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 Circulamos por la A-70, la Autovía de Circunvalación de Alicante, primer cinturón de la ciudad. La demanda se reparte entre el tránsito interurbano y los accesos a las poblaciones próximas. El entorno es la costa alicantina, típico de esta parte de la provincia.
