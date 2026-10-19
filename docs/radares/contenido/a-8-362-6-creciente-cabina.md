@@ -12,6 +12,14 @@
 
 Esta cabina se ubica en la **A-8, punto kilométrico 362,6**, y su objetivo es el **sentido creciente** de la marcha, que la DGT rotula como **Galicia**. Las coordenadas la ubican en el tramo costero de la autovía, en el sector que la vía recorre antes de internarse tierra adentro.
 
+<iframe title="Mapa: radar a-8-362-6-creciente-cabina" src="https://www.google.com/maps?q=43.4629,-5.5104&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-8-362-6-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=43.4629,-5.5104&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La **A-8** es la espina dorsal viaria del norte peninsular junto a la costa: doble calzada independiente con varios carriles por sentido para absorber una circulación muy intensa. Por tierras asturianas, su trazado se adapta a una orografía complicada, con puentes sobre los valles y desmontes entre lomas. Pero su rasgo más traicionero es meteorológico: la niebla costera se cierra de golpe en las primeras horas del día y reduce la visibilidad a unas decenas de metros justo cuando arranca el movimiento matinal.
