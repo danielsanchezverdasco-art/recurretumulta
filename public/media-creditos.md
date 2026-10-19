@@ -990,3 +990,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/bmw-ix3-50-xdrive-2026-precio-ficha-tecnica-hunt1.webp | https://quintamarcha.com/index.php/la-revolucion-de-bmw-llega-con-el-ix3-el-amanecer-de-la-neue-klasse | BMW / QuintaMarcha | desconocida |
 | /media/bmw-ix3-50-xdrive-2026-precio-ficha-tecnica-hunt2.webp | https://www.planetcarsz.com/noticias-de-carros/bmw-ix3-2026-neue-klasse-o-futuro-eletrizante-da-mobilidade-premium | PlanetCarsz | desconocida |
 | /media/bmw-ix3-50-xdrive-2026-precio-ficha-tecnica-hunt3.webp | https://www.planetcarsz.com/noticias-de-carros/bmw-ix3-2026-neue-klasse-o-futuro-eletrizante-da-mobilidade-premium | PlanetCarsz | desconocida |
+| /media/lexus-rx-450h-2024-precio-ficha-tecnica-hunt1.webp | http://carbuzz.com/cars/lexus/rx/2024-lexus-rx-450h-luxury-awd/ | CarBuzz (foto de prensa Lexus) | desconocida |
+| /media/lexus-rx-450h-2024-precio-ficha-tecnica-hunt2.webp | https://ie.nda.news/lexus-rx-st_403920/news/test-drive-2024-lexus-rx-450h-half-steps-into-future-sn_5620722/ | NDA News Ireland (prueba 2024 Lexus RX 450h+) | desconocida |
+| /media/lexus-rx-450h-2024-precio-ficha-tecnica-hunt3.webp | https://www.thecarexpert.co.uk/lexus-rx-test-drive-2024/ | The Car Expert (prueba Lexus RX 2024) | desconocida |
+| /media/arcfox-t1-2025-precio-ficha-tecnica-hunt1.webp | https://insidechinaauto.com/2025/08/23/arcfox-t1-electric-hatchback-begins-pre-sales-from-7100/ | Inside China Auto | desconocida |
+| /media/arcfox-t1-2025-precio-ficha-tecnica-hunt2.webp | https://www.exp-byd.com/arcfox-alpha-t1/ | EXP-BYD | desconocida |
+| /media/arcfox-t1-2025-precio-ficha-tecnica-hunt3.webp | https://www.bitauto.com/global/news/1001102291662.html | Bitauto | desconocida |
+| /media/skoda-octavia-rs-2026-precio-ficha-tecnica-hunt1.webp | https://carbhumi.com/first-drive-2026-skoda-octavia-rs-performance-returns-with-purpose/ | Autocar India / Carbhumi | desconocida |
+| /media/skoda-octavia-rs-2026-precio-ficha-tecnica-hunt2.webp | https://carbhumi.com/first-drive-2026-skoda-octavia-rs-performance-returns-with-purpose/ | Autocar India / Carbhumi | desconocida |
+| /media/skoda-octavia-rs-2026-precio-ficha-tecnica-hunt3.webp | https://carbhumi.com/first-drive-2026-skoda-octavia-rs-performance-returns-with-purpose/ | Autocar India / Carbhumi | desconocida |
+| /media/ducati-desertx-discovery-2025-ficha-tecnica-precio-hunt1.webp | https://powersportsbusiness.com/top-stories/2024/07/02/ducati-unveils-the-desertx-discovery/ | Ducati (foto oficial de prensa, UC652632) | desconocida |
+| /media/ducati-desertx-discovery-2025-ficha-tecnica-precio-hunt2.webp | https://www.ducati-czech.cz/motocykly/kopie-desertx_130/ | Ducati (foto oficial de prensa, UC652589) | desconocida |
+| /media/ducati-desertx-discovery-2025-ficha-tecnica-precio-hunt3.webp | https://www.ducati.com/us/en/bikes/desertx/desertx-937 | Ducati (web oficial) | desconocida |
+| /media/razor-e-prime-air-hunt1.webp | https://monsterscooterparts.com/collections/eprimeair | Monster Scooter Parts (foto de producto) | desconocida |
+| /media/razor-e-prime-air-hunt2.webp | https://cdn.webshopapp.com/shops/354731/files/473407042/razor-razor-e-prime-air-electric-scooter-with-350.jpg | Webshop (foto de producto) | desconocida |
+| /media/razor-e-prime-air-hunt3.webp | https://www.galaxus.com | Galaxus (foto de producto) | desconocida |
+| /media/isuzu-d-max-ev-2026-precio-ficha-tecnica-hunt1.webp | https://careta.my/categories/berita-global | Careta / Isuzu | desconocida |
+| /media/isuzu-d-max-ev-2026-precio-ficha-tecnica-hunt2.webp | https://motors.mega.mu/news/isuzu-d-max-pick-up-goes-electric-with-full-time-4wd-20250430.html | Autocar | desconocida |
+| /media/isuzu-d-max-ev-2026-precio-ficha-tecnica-hunt3.webp | https://autolifethailand.tv/official-price-isuzu-d-max-ev-thailand/ | Autolife Thailand / Isuzu | desconocida |
+| /media/bmw-x1-sdrive20i-2026-precio-ficha-tecnica-hunt1.webp | https://arabak.net/wp-content/uploads/2026/05/w800_BMW-U11-X1-22.jpg | arabak.net | desconocida |
+| /media/bmw-x1-sdrive20i-2026-precio-ficha-tecnica-hunt2.webp | https://carro.blog.br/wp-content/uploads/2025/10/BMW-X1-sDrive20i-GP-2.0-2026-8.webp | Carro.Blog.Br | desconocida |
+| /media/bmw-x1-sdrive20i-2026-precio-ficha-tecnica-hunt3.webp | https://img0.icarros.com/dbimg/galeriaimgmodelo/0/148829_1.jpg | iCarros | desconocida |
+| /media/gac-trumpchi-es9-2024-precio-ficha-tecnica-hunt1.webp | https://thanhnienviet.mediacdn.vn/resize/1000x-/2023/10/02/95ywCUPr/tinxe-22-2d08.jpg | Thanh Niên Việt | desconocida |
+| /media/gac-trumpchi-es9-2024-precio-ficha-tecnica-hunt2.webp | https://image.made-in-china.com/2f0j00CKJqNETBMzbn/GAC-Trumpchi-Plug-in-Hybrid-Electric-Car-SUV-Es9-6-7-Seats-Max-Version-Design-2024.jpg | Made-in-China.com | desconocida |
+| /media/gac-trumpchi-es9-2024-precio-ficha-tecnica-hunt3.webp | http://euncars.com/wp-content/uploads/2025/10/ES9-9.jpg | Euncars.com | desconocida |
