@@ -12,6 +12,15 @@
 
 Este radar fijo está en la autovía RM-15, pk 13,0, en Albudeite (Murcia), coordenadas 38.01558, -1.3796028. Mide el sentido creciente, el de los vehículos hacia puntos kilométricos superiores. Street View permite echar un vistazo al punto con antelación.
 
+<iframe title="Mapa: radar rm-15-13-0-creciente-cabina" src="https://www.google.com/maps?q=38.01558,-1.3796028&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar rm-15-13-0-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.01558,-1.3796028&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La RM-15, la Autovía del Noroeste, es una autovía autonómica de la Red de Primer Nivel de la Región de Murcia que une Murcia con la comarca del Noroeste (Campos del Río, Albudeite, Mula, Bullas, Cehegín y Caravaca de la Cruz). Vertebra el interior regional, usada a diario por miles de conductores. El XML de la DGT no describe el tramo con más detalle, y la ficha no se extiende en características no documentadas.
