@@ -12,6 +12,14 @@
 
 Nos situamos en el **pk 27,4 de la A-70**, en plena provincia de Alicante. Mide la velocidad en el **sentido decreciente**, el de los pk decrecientes. Estas coordenadas pertenecen a **Elx/Elche** según el geocodificador del IGN. El punto vigilado más cercano es el de la **A-70, pk 22,5** (sentido decreciente): queda a 4,4 km hacia el noreste.
 
+<iframe title="Mapa: radar a-70-27-4-decreciente-cabina" src="https://www.google.com/maps?q=38.30612,-0.58833&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-70-27-4-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.30612,-0.58833&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 Es la A-70: la Autovía de Circunvalación de Alicante, primer cinturón de la ciudad. Es un eje con circulación heterogénea: pesados, turismos y motos comparten la calzada. El paisaje de el sureste valenciano enmarca este tramo.
