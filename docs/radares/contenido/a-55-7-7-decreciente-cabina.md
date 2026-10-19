@@ -11,6 +11,14 @@
 ## Dónde está
 
 Vigo (Pontevedra) alberga en su término esta cabina del pk 7,7 (A-55); coordenadas 42.21152, -8.662396. El control se aplica al sentido decreciente, el de los pks en descenso; Vigo figura como destino en el registro. La ubicación exacta se aprecia en el visor de Street View citado en la cabecera.
+
+<iframe title="Mapa: radar a-55-7-7-decreciente-cabina" src="https://www.google.com/maps?q=42.21152,-8.662396&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-55-7-7-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.21152,-8.662396&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
 ## La carretera
 
 Es una vía estatal, la A-55, clasificada por el fichero de la DGT como «AUTOPISTA / AUTOVÍA», categoría propia de la alta capacidad. El fichero no describe el tramo y esta ficha no especula sobre él.
