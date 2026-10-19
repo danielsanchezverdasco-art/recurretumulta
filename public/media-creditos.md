@@ -1705,3 +1705,12 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/volkswagen-caddy-ehybrid-2025-hunt1.webp | https://en-marcha.com/cms/uploads/VW_CADDY_2025-1400-sxydr5.jpg | En Marcha (foto de prensa Volkswagen) | desconocida |
 | /media/volkswagen-caddy-ehybrid-2025-hunt2.webp | https://img.teknolojioku.com/rcman/Cw800h595q95gc/storage/files/images/2025/03/22/volkswagen-caddy-ici-71ws.jpg | Teknolojioku | desconocida |
 | /media/volkswagen-caddy-ehybrid-2025-hunt3.webp | https://www.kaaratv.com/content/images/size/w1200/2025/06/20250527_120153-2-1.jpg | KaaraTV | desconocida |
+| /media/byd-sealion-8-2026-precio-ficha-tecnica-hunt1.webp | https://www.chasingcars.com.au/reviews/large-suvs/byd-sealion-8-2026-review/ | Chasing Cars | desconocida |
+| /media/byd-sealion-8-2026-precio-ficha-tecnica-hunt2.webp | https://www.carsguide.com.au/car-reviews/byd-sealion-8-100787 | CarsGuide | desconocida |
+| /media/byd-sealion-8-2026-precio-ficha-tecnica-hunt3.webp | https://bydautomotive.com.au/sealion-8 | BYD Australia (web oficial) | desconocida |
+| /media/suzuki-jimny-pro-2026-precio-ficha-tecnica-hunt1.webp | https://www.carlist.my/new-cars/2025-suzuki-jimny-1-5-allgrip-pro-5-door-suv/18275060 | carlist.my (foto del modelo, variante AllGrip Pro 5 puertas) | desconocida |
+| /media/suzuki-jimny-pro-2026-precio-ficha-tecnica-hunt2.webp | https://www.trade-verse.app/en/listings/cmskvodxcECQsa-XMr3d4RfFD | karousell.com (foto del modelo) | desconocida |
+| /media/suzuki-jimny-pro-2026-precio-ficha-tecnica-hunt3.webp | https://www.carlist.my/zh/new-cars/new-car-2025-suzuki-jimny-1-5-allgrip-pro-suv/17900652 | carlist.my (foto del modelo, variante AllGrip Pro) | desconocida |
+| /media/wuling-cloud-ev-2024-precio-ficha-tecnica-hunt1.webp | https://www3.wuling.id/wp-content/uploads/2024/12/Eksterior-Cloud-EV-terinspirasi-dari-lekukan-dan-bentuk-awan-yang-memancarkan-nuansa-futuristik-dan-modern.-2048x1365.jpg | Wuling Indonesia (nota de prensa oficial) | desconocida |
+| /media/wuling-cloud-ev-2024-precio-ficha-tecnica-hunt2.webp | https://www3.wuling.id/wp-content/uploads/2024/05/Cloud-EV-yang-Diperkenalkan-Pada-Februari-Lalu-Kini-Sudah-Dapat-Dipesan-Oleh-Para-Konsumen-1536x1152.jpg | Wuling Indonesia (nota de prensa oficial) | desconocida |
+| /media/wuling-cloud-ev-2024-precio-ficha-tecnica-hunt3.webp | https://teropongmedia.id/wp-content/uploads/2024/02/interior-cloud-ev.webp | Teropong Media | desconocida |
