@@ -12,6 +12,14 @@
 
 La cabina figura en la AG-11, pk 10,9, en Rianxo (A Coruña); coordenadas 42.684093, -8.744259. Controla el sentido de kilometraje ascendente —vehículos hacia pks mayores—, con destino RIBEIRA según el registro de la DGT. El punto exacto puede verificarse en la vista panorámica de Street View enlazada.
 
+<iframe title="Mapa: radar ag-11-10-9-creciente-cabina" src="https://www.google.com/maps?q=42.684093,-8.744259&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar ag-11-10-9-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.684093,-8.744259&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La AG-11 es una autovía de la Xunta de Galicia; su destino oficial es RIBEIRA. El fichero de la DGT le atribuye la singularidad «AUTOPISTA / AUTOVÍA». Como el documento no detalla el tramo del pk 10,9, la ficha no formula apreciaciones sobre él.
