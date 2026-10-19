@@ -798,3 +798,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/renault-clio-vi-tce-115-2025-precio-ficha-tecnica-hunt3.webp | https://suchen.mobile.de/fahrzeuge/printView.html?id=460718235 | mobile.de (anuncio concesionario) | desconocida |
 | /media/audi-s6-avant-e-tron-2025-precio-ficha-tecnica-hunt1.webp | https://www.audi.es/es/modelos/a6-e-tron/s6-avant-e-tron/ | Audi (prensa oficial, configurador audi.es) | desconocida |
 | /media/audi-s6-avant-e-tron-2025-precio-ficha-tecnica-hunt2.webp | https://www.audi.fr/fr/nouvelles-voitures/details/:/2025-audi-s6-avant-e-tron-370.00-kw/idRlJBMDQ0OTA4Njk2NTQ= | Audi (prensa oficial, audi.fr) | desconocida |
+| /media/lamborghini-fenomeno-roadster-2026-precio-ficha-tecnica-hunt1.webp | https://robbreport.ph/cars/lamborghinis-new-fenomeno-roadster-is-the-marques-most-powerful-open-top-supercar-yet/ | Robb Report / prensa | desconocida |
+| /media/lamborghini-fenomeno-roadster-2026-precio-ficha-tecnica-hunt2.webp | https://www.motoqar.com/2026/135852/lamborghini-fenomeno-roadster.html | Motoqar / prensa | desconocida |
+| /media/lamborghini-fenomeno-roadster-2026-precio-ficha-tecnica-hunt3.webp | https://luxurylaunches.com/transport/lamborghini-fenomeno-roadster-05112026.php | Luxurylaunches / prensa | desconocida |
+| /media/honda-nt1100-2025-ficha-tecnica-precio-hunt1.webp | https://www.visordown.com/news/2025-honda-nt1100-preview-tourer-gains- | Visordown (foto oficial de prensa Honda, color MAT WARM ASH METALLIC) | desconocida |
+| /media/honda-nt1100-2025-ficha-tecnica-precio-hunt2.webp | https://japan.webike.net/moto_news/latest-news/20241129-scoop-the-2025 | Webike (fotos oficiales de prensa Honda, modelo 2025) | desconocida |
+| /media/honda-nt1100-2025-ficha-tecnica-precio-hunt3.webp | https://www.hondamc.se/products/touring/nt1100-dct-25/ | Honda MC Suecia (foto oficial Honda, NT1100 DCT 2025) | desconocida |
+| /media/baojun-yep-plus-2024-precio-ficha-tecnica-hunt1.webp | https://www.car250.com/baojun-yep-plus-2025-2.html | car250.com (fotos oficiales de prensa Baojun) | desconocida |
+| /media/baojun-yep-plus-2024-precio-ficha-tecnica-hunt2.webp | https://www.car250.com/baojun-yep-plus-2025-2.html | car250.com (fotos oficiales de prensa Baojun) | desconocida |
+| /media/baojun-yep-plus-2024-precio-ficha-tecnica-hunt3.webp | https://gmauthority.com/blog/2024/04/gms-all-new-baojun-yep-plus-inter | GM Authority (fotos oficiales de prensa Baojun) | desconocida |
+| /media/leapmotor-b03x-2026-precio-ficha-tecnica-hunt1.webp | https://www.motorbox.com/auto/magazine/novita-leapmotor-2026-b03x-ev-b | Motorbox (fotos oficiales de prensa Leapmotor) | desconocida |
+| /media/leapmotor-b03x-2026-precio-ficha-tecnica-hunt2.webp | https://evonline.nl/leapmotor-zet-europese-groeiversnelling-in/ | evonline.nl (fotos oficiales de prensa Leapmotor) | desconocida |
+| /media/leapmotor-b03x-2026-precio-ficha-tecnica-hunt3.webp | https://www.techbox.sk/leapmotor-b03x-male-elektricke-a-lacne-auto-z-c | techbox.sk (fotos oficiales de prensa Leapmotor) | desconocida |
+| /media/rising-f7-2025-precio-ficha-tecnica-hunt1.webp | https://th.sdfs-auto.com/new-energy-vehicles/rising-new-energy-vehicle | sdfs-auto.com (fotos oficiales de prensa Rising) | desconocida |
+| /media/rising-f7-2025-precio-ficha-tecnica-hunt2.webp | https://www.txspapp.net/english/products/photos/index.shtml | txspapp.net (fotos oficiales de prensa Rising) | desconocida |
+| /media/rising-f7-2025-precio-ficha-tecnica-hunt3.webp | https://krasivyeavto.org/27607-rising-f7.html | krasivyeavto.org (fotos oficiales de prensa Rising) | desconocida |
+| /media/pure-advance-hunt1.webp | https://se.pureelectric.com/products/pure-advance-plus-electric-scoote | Pure Electric (web oficial, Pure Advance gris) | desconocida |
+| /media/pure-advance-hunt2.webp | https://www.electrickicks.com.au/products/pure-advance-plus-electric-s | electrickicks.com.au (foto oficial de producto Pure Advance) | desconocida |
+| /media/pure-advance-hunt3.webp | https://www.digitec.ch/en/s1/product/pure-electric-advance-20-kmh-40-k | digitec.ch (foto oficial de producto Pure Advance) | desconocida |
+| /media/leapmotor-b05-2026-precio-ficha-tecnica-hunt1.webp | https://www.newsauto.it/wp-content/uploads/2026/04/Leapmotor-B05-1-768x432.jpg | NewsAuto.it | desconocida |
+| /media/leapmotor-b05-2026-precio-ficha-tecnica-hunt2.webp | https://www.electrifying.com/files/PXkdgNIgwH4eu0GJ/Leapmotor_B05_international_static_rear34.jpg | Electrifying.com | desconocida |
+| /media/leapmotor-b05-2026-precio-ficha-tecnica-hunt3.webp | https://www.notebookcheck.org/fileadmin/Notebooks/News/_nc5/LeapmotorB05Innen.jpg | Carmine Arrichiello / Notebookcheck | desconocida |
+| /media/baojun-yunduo-2024-precio-ficha-tecnica-hunt1.webp | https://www.car250.com/wp-content/uploads/2023/05/Baojun-Yunduo-10.jpg | Car250.com | desconocida |
+| /media/baojun-yunduo-2024-precio-ficha-tecnica-hunt2.webp | https://www.car250.com/wp-content/uploads/2023/05/Baojun-Yunduo-11.webp | Car250.com | desconocida |
+| /media/baojun-yunduo-2024-precio-ficha-tecnica-hunt3.webp | https://img.hainaauto.com/vehicle/col_d2343949cabdf629.webp | Hainaauto | desconocida |
