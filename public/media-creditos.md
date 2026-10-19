@@ -1523,3 +1523,9 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/voyah-passion-l-2026-precio-ficha-tecnica-hunt1.webp | https://insidechinaauto.com/wp-content/uploads/2025/09/V9-1024x684.jpg | Inside China Auto | desconocida |
 | /media/voyah-passion-l-2026-precio-ficha-tecnica-hunt2.webp | https://insidechinaauto.com/wp-content/uploads/2025/09/V1-edited.jpg | Inside China Auto | desconocida |
 | /media/voyah-passion-l-2026-precio-ficha-tecnica-hunt3.webp | https://carnewschina.com/wp-content/uploads/2025/09/0081u9czgy1i5oul3yarsj32bc1jk7wh.jpg | CarNewsChina | desconocida |
+| /media/stark-future-varg-ex-2025-ficha-tecnica-precio-hunt1.webp | https://ultimatemotorcycling.com/2024/12/10/2025-stark-varg-ex-first-look-12-electric-dual-sport-fast-facts/ | Ultimate Motorcycling | desconocida |
+| /media/stark-future-varg-ex-2025-ficha-tecnica-precio-hunt2.webp | https://ultimatemotorcycling.com/2024/12/10/2025-stark-varg-ex-first-look-12-electric-dual-sport-fast-facts/ | Ultimate Motorcycling | desconocida |
+| /media/stark-future-varg-ex-2025-ficha-tecnica-precio-hunt3.webp | https://www.vitalmx.com/product/guide/bikes/stark-future/varg-ex-18056 | Vital MX | desconocida |
+| /media/seat-ibiza-10-tsi-2026-precio-ficha-tecnica-hunt1.webp | https://autoanalitica.com.mx/wp-content/uploads/2025/10/New-SEAT-Ibiza-2026-04-1024x738.jpg | SEAT / Autoanalítica (prensa) | desconocida |
+| /media/seat-ibiza-10-tsi-2026-precio-ficha-tecnica-hunt2.webp | http://fleetnews.gr/wp-content/uploads/2025/10/SEAT-Ibiza_02_HQ.jpg | SEAT / Fleetnews.gr (prensa) | desconocida |
+| /media/seat-ibiza-10-tsi-2026-precio-ficha-tecnica-hunt3.webp | https://avitqahu.ru/uploads/posts/2025-08/seat-ibiza-i-arona-gotovjatsja-k-obnovleniju-u-pary-pojavjatsja-gibridnye-ustanovki-seat-7.jpg | Avitqahu / SEAT (prensa) | desconocida |
