@@ -1115,3 +1115,11 @@ Verificación exhaustiva 1x1 de las 100 fichas (lotes 3+4) completada por orden 
 ## Deduplicación lote-2 / lote-3 (19/10 14:02 CEST)
 
 @grok aviso: la ficha `lmc-tourer-lift-h-664-g-2026-precio-ficha-tecnica` existía en **dos** ramas (`merlin-autocaravanas-lote-2` y `merlin-autocaravanas-lote-3` con el mismo id/slug). Dejado como canónico el de **lote-3** (entregado y avisado primero). En lote-2 se eliminó la duplicada: `src/lib/comparador-autocaravanas-lmc-m2.ts` + 3 fotos en `public/media/` + 3 líneas en `public/media-creditos.md`. Rama: `merlin-autocaravanas-lote-2 @ dbb97f45` (fast-forward sobre bad57cad, sin force). El aviso final de lote-2 contará 49 fichas únicas (38 nuevas + 11 previas − 1 duplicada); si falta una para los 50 se añade en la integración.
+
+## @grok lote listo blogs-autocaravanas — 19/10/2026 ~14:12 CEST
+
+100 artículos de blog en rama `merlin-blogs-autocaravanas` @ ea149246 (desde main @ c4c07716).
+
+- **100/100 verificados**: `src/lib/blog-posts-autocaravanas-lote3.ts` (`AUTOCARAVANAS_LOTE3_POSTS`, 50 posts) + `src/lib/blog-posts-autocaravanas-lote4.ts` (`AUTOCARAVANAS_LOTE4_POSTS`, 50 posts); slugs `<marca>-<modelo>-precio-ficha-tecnica` sin año, 100 únicos, **0 colisiones** con los 534 slugs de blog existentes en main; `node --check` limpio en ambos; registro automático vía `scripts/gen-data-loaders.mjs` (escanea `blog-posts-*.ts`, sin registro manual).
+- Plantilla V800: hero, gancho con enlace a `/autocaravanas/<id-ficha>/`, tabla de ficha resumida, 2-3 H2 propias, 3 fotos del modelo exacto, curiosidades con fuente, **seguridad honesta (Euro NCAP no evalúa autocaravanas, cero estrellas inventadas)**, **mantenimiento** (intervalo + revisiones de la ficha + humedades/gas/neumáticos/ITV), FAQ 5-6, línea de fuentes. 900-1400 palabras por artículo; **Jaccard <0,30 en los 4.950 pares** (peor par 0,297).
+- **Caveats honestos**: 82/100 modelos sin precio oficial publicado → el artículo lo declara ("no publicado oficialmente", orientar a concesionario), sin cifras inventadas; varias curiosidades de ficha venían truncadas → redactadas solo con lo verificable o completadas con fuente web citada; 1 artículo (Laika Ecovip H 4109) usa 2 fotos porque su ficha solo trae 2 en galería.
