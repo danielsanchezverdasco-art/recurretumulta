@@ -389,6 +389,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica": () => import("../comparador-coches-cupra.ts"),
     "cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica": () => import("../comparador-coches-cupra.ts"),
     "cupra-leon-vz-300-2025-precio-ficha-tecnica": () => import("../comparador-coches-cupra.ts"),
+    "cupra-leon-vz-325-2025-precio-ficha-tecnica": () => import("../comparador-coches-cupra.ts"),
     "cupra-raval-2026-precio-ficha-tecnica": () => import("../comparador-coches-cupra.ts"),
     "cupra-raval-endurance-2026-precio-ficha-tecnica": () => import("../comparador-coches-cupra.ts"),
     "cupra-raval-plus-2026-precio-ficha-tecnica": () => import("../comparador-coches-cupra.ts"),

@@ -598,7 +598,7 @@ Si te ha llegado una multa, <a href=https://recurretumulta.online/#analizador>an
 
 El **Cupra León VZ 325** es el León de serie más potente jamás fabricado: **49.514 €**, con el **2.0 TSI de 325 CV** y 420 Nm enviados al **tren delantero** a través de un **diferencial autoblocante mecánico**. Solo se fabrican **1.500 unidades** para todo el mundo.
 
-325 CV, 420 Nm, 0-100 en 5,4 segundos. Pesa 1.432 kg, apenas 11 más que el VZ 300. La receta es la misma (delantera + autoblocante), pero con 25 CV extra que se notan en aceleración y recuperaciones.
+325 CV, 420 Nm, 0-100 en 5,4 segundos. La receta es la misma del VZ 300 (delantera + autoblocante), pero con 25 CV extra que se notan en aceleración y recuperaciones.
 
 | Dato | Valor |
 |---|---|
@@ -609,7 +609,7 @@ El **Cupra León VZ 325** es el León de serie más potente jamás fabricado: **
 | **0-100 km/h** | 5,4 s |
 | **Velocidad máxima** | 270 km/h |
 | **Maletero** | 380 L |
-| **Consumo WLTP** | 7,9 l/100 km |
+| **Consumo** | ≈7,9 l/100 km (estimado) |
 | **Etiqueta DGT** | C |
 
 El VZ 325 existe para quien duda entre el 300 y el 333: quiere más potencia que el 300, pero prefiere la agilidad y el precio de la tracción delantera frente al 4x4 del 333. Los 325 CV lo ponen al nivel de los GTI más potentes del mercado.
@@ -633,7 +633,7 @@ Enfréntalos en <a href=/comparador-coches/>el comparador</a>.
 
 <img src=/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-interior.webp alt=Interior del Cupra León VZ 325 con asientos CUPBucket>
 
-<img src=/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-3.webp alt=Interior del Cupra León VZ 325>
+<img src=/media/cupra-leon-vz-325-2025-precio-ficha-tecnica-detalle.webp alt=Detalle trasero del Cupra León VZ 325: escapes en cobre y difusor>
 
 | ✅ Pros | ❌ Contras |
 |---|---|

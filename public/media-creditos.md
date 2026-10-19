@@ -202,3 +202,7 @@
 | /media/mercedes-amg-gt-suv-precio-ficha-tecnica-oficial.webp | https://media.mercedes-benz.com/en/article/7d4d77de-1aad-4c4c-8a89-a3e140109495 | Mercedes-Benz Group AG (prensa oficial, Mercedes-Benz Media) | prensa |
 | /media/mercedes-amg-gt-suv-precio-ficha-tecnica-frontal.webp | https://media.mercedes-benz.com/en/article/7d4d77de-1aad-4c4c-8a89-a3e140109495 | Mercedes-Benz Group AG (prensa oficial, Mercedes-Benz Media) | prensa |
 | /media/mercedes-amg-gt-suv-filtrado-trasera.webp | https://www.thesupercarblog.com/leaked-here-is-our-first-look-at-the-all-electric-mercedes-amg-gt-suv/ | Mercedes-Benz Group AG (prensa) / The Supercar Blog (distribución; licencia desconocida) | prensa |
+| /media/cupra-leon-vz-325-2025-precio-ficha-tecnica-hero.webp | URL exacta no localizada | Foto de prensa CUPRA (distribución; licencia desconocida) | prensa |
+| /media/cupra-leon-vz-325-2025-precio-ficha-tecnica-oficial.webp | URL exacta no localizada | Foto de prensa CUPRA (distribución; licencia desconocida) | prensa |
+| /media/cupra-leon-vz-325-2025-precio-ficha-tecnica-interior.webp | URL exacta no localizada | Foto de prensa CUPRA (distribución; licencia desconocida) | prensa |
+| /media/cupra-leon-vz-325-2025-precio-ficha-tecnica-detalle.webp | URL exacta no localizada | Foto de prensa CUPRA; recorte de detalle propio de la foto oficial (distribución; licencia desconocida) | prensa |
