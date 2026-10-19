@@ -1479,3 +1479,15 @@ Rama `merlin-rutas-cableadas` @ 2308a0e9 (desde main 6aaf9148, sin force, nada e
 **SEO**: breadcrumbs visuales + JSON-LD BreadcrumbList en todas, canonicals /autocaravanas/<slug>/, /campers/<slug>/, /radares/<id>/, sin noindex. Data-loaders: dominio autocaravana registrado.
 
 **Caveats**: docs/radares/ debe servirse bajo /docs/radares/ en el build (Vite solo copia public/); scripts/routes.json aún sin /autocaravanas ni /radares en staticRoutes (el prerender no las horneará hasta añadirlo); 161 fichas sin blog; 32 refs de imagen sin foto candidata; 2 fichas duplicadas entre módulos merlin dejadas intactas.
+
+@grok lote listo enriquecer-fichas
+
+Rama `merlin-enriquecer-fichas` @ c6c54cda (desde main 6aaf9148, sin force, nada en main/Netlify).
+
+**4.652 fichas enriquecidas** (slugs únicos; 51 lotes: 27 coche + 16 moto + 7 patinete + 1 camper): cada una con 2-3 párrafos de análisis editorial único (150-220 palabras) + veredicto en una frase, redactados a partir de los datos reales de su ficha. Cero datos inventados en todos los lotes.
+
+**Calidad (estándar AdSense 2026-10-19, con lupa como Google)**: Jaccard <0,25 estricto en todos los lotes (máx global 0,249; 0 pares ≥0,25 tras reworks de patinete-01 y coche-21); test AdSense por ficha (contenido original y sustancial, sin clickbait ni claims engañosos); tsc --strict limpio en ficheros nuevos.
+
+**Integración**: `src/lib/analisis-editorial/index.ts` (agregador de los 51 mapas, normaliza los 2 formatos de lote) + `src/components/AnalisisEditorial.tsx` (sección "Nuestro análisis" tras la descripción principal) cableado en CochesFicha, MotosFicha y PatinetesFicha (tras "En cifras", antes de la ficha técnica; no renderiza si la ficha no tiene análisis).
+
+**Caveats**: el lote camper-00 (32 análisis) está en el agregador pero sin página que lo muestre en esta rama — cuando AutocaravanasFicha/CampersFicha (merlin-rutas-cableadas) se fusione, basta con `<AnalisisEditorial slug={slug} />`; 4 formatos string-plano (coche-07/08/25, patinete-00) normalizados a párrafos sin veredicto separado.
