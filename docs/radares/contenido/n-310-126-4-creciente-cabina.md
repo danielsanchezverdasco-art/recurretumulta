@@ -12,6 +12,15 @@
 
 Esta cabina vigila la **N-310 en el punto kilométrico 126,4**, dentro de Albacete. Registra a los vehículos que marchan en **sentido creciente**, hacia pk crecientes. El punto kilométrico 126,4 es la referencia oficial; sobre el terreno la cabina puede estar unos metros antes o después. El control fijo de la DGT más próximo es el de la **N-301, pk 190,6** (sentido creciente), a 25,3 km hacia el este. El siguiente punto por cercanía es el de la **N-301, pk 191,2** (sentido decreciente), a 25,7 km hacia el este. La zona combina el carácter rural del entorno con la intensidad propia de una vía de comunicación relevante.
 
+<iframe title="Mapa: radar n-310-126-4-creciente-cabina" src="https://www.google.com/maps?q=39.2333,-2.65941&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-310-126-4-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.2333,-2.65941&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La N-310 pertenece a la red de nacionales y discurre por Albacete. La carretera nacional registra movimiento durante toda la jornada, con perfiles distintos por franjas horarias. El radar fijo está aquí porque el tramo reúne las condiciones típicas de los excesos. Entre los 2 radares publicados para la N-310 en la región, este es el primero en orden de pk. Dentro de la propia N-310, el siguiente punto vigilado es el del pk 191,4 (sentido decreciente), a 59,4 km hacia el noreste. La clave en esta vía: conducción atenta y velocidad siempre contenida. La vía no perdona las distracciones: mantener la vista al frente es tan importante como controlar la velocidad.
