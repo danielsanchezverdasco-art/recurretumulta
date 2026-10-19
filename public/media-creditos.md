@@ -607,3 +607,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/jeep-compass-4xe-electrico-375-2026-precio-ficha-tecnica-hunt1.webp | https://www.autoscout24.at/informieren/news/jeep-compass-2025-jetzt-endlich-cool-genug/ | Foto de prensa Jeep / Autoscout24 | desconocida |
 | /media/jeep-compass-4xe-electrico-375-2026-precio-ficha-tecnica-hunt2.webp | https://autoentusiastas.com.br/2025/07/novo-jeep-compass-4xe/ | AutoEntusiastas (foto de prensa Jeep) | desconocida |
 | /media/jeep-compass-4xe-electrico-375-2026-precio-ficha-tecnica-hunt3.webp | https://www.carsales.com.au/editorial/details/2026-jeep-compass-outed-149285/ | Carsales (foto de prensa Jeep) | desconocida |
+| /media/zero-ls1-2026-ficha-tecnica-precio-hunt1.webp | https://www.go2roues.com/shop/zero-motorcycles-zero-ls1/ | Go2Roues (foto de producto Zero Motorcycles) | desconocida |
+| /media/zero-ls1-2026-ficha-tecnica-precio-hunt2.webp | https://www.visordown.com/reviews/zero-ls1-review-finally-time-ditch-petrol | Visordown (foto de prueba real, Jon Urry) | desconocida |
+| /media/zero-ls1-2026-ficha-tecnica-precio-hunt3.webp | https://arevista.com.br/mercados/zero-ls1-surpreende-com-autonomia-acima-de-100-km-e-desempenho-de-moto-eletrica/ | A Revista (foto real, EXIF Sony ILCE-7M4) | desconocida |
+| /media/aixam-city-gto-2025-precio-ficha-tecnica-hunt1.webp | http://aixam.fra1.cdn.digitaloceanspaces.com/01_exterieur_7bf5afd48db56dc25491c8f1aa2cbb25.webp | Aixam / distribuidor oficial | desconocida |
+| /media/aixam-city-gto-2025-precio-ficha-tecnica-hunt2.webp | https://aixamwelt.de/wp-content/uploads/2025/10/CITGTO_34AR_RED_PNG-1280x720.png | Aixam Welt (concesionario oficial) | desconocida |
+| /media/aixam-city-gto-2025-precio-ficha-tecnica-hunt3.webp | https://www.micromad.es/assets/images/gama-ambition-galeria-city-gto-interior-1920x1080.webp | Micromad (distribuidor oficial Aixam España) | desconocida |
+| /media/fangchengbao-ti-9-2026-hunt1.webp | https://evautos25.de/wp-content/uploads/2026/08/Fang-Cheng-Bao-Ti-9.jpg | EV Autos 25 (foto de prensa BYD/Fangchengbao) | desconocida |
+| /media/fangchengbao-ti-9-2026-hunt2.webp | https://365news.biz/wp-content/uploads/2026/08/v-chendu-predstavili-krossover-fangchengbao-ti9-on-smozhet-proezzhat-do-1600-km-aa28753.webp | 365 News | desconocida |
+| /media/fangchengbao-ti-9-2026-hunt3.webp | https://saurivehicle.com/wp-content/uploads/2026/08/fangchengbao-tai-9-rear.jpg | Sauri Vehicle | desconocida |
+| /media/isinwheel-s10plus-hunt1.webp | https://cdn.shopify.com/s/files/1/0157/4967/7104/files/7_141a9956-e222-4a01-adda-82eb737e40f3.jpg?v=1738471186 | iSinwheel (distribuidor HuntBest) | desconocida |
+| /media/isinwheel-s10plus-hunt2.webp | https://m.media-amazon.com/images/I/6141lwlbskL._AC_US1000_.jpg | iSinwheel | desconocida |
+| /media/isinwheel-s10plus-hunt3.webp | https://static.fnac-static.com/multimedia/Images/PT/MC/17/a2/96/26649111/1507-1.jpg | Fnac Marketplace | desconocida |
+| /media/jeep-compass-e-hybrid-plug-in-225-2026-precio-ficha-tecnica-hunt1.webp | https://autoentusiastas.com.br/ae/wp-content/uploads/2025/07/Jeep-Compass-2026-Autoentusiastas-07-1140x639.webp | Autoentusiastas (foto de prensa Stellantis) | desconocida |
+| /media/jeep-compass-e-hybrid-plug-in-225-2026-precio-ficha-tecnica-hunt2.webp | https://rpmweb.ca/imager/medias/11184569/Jeep_Compass_2026_03_a987f97de5260cdb3b7b762675c83861.jpg | RPM Web (foto de prensa Stellantis) | desconocida |
+| /media/jeep-compass-e-hybrid-plug-in-225-2026-precio-ficha-tecnica-hunt3.webp | https://rpmweb.ca/imager/medias/11184574/Jeep_Compass_2026_08_c0def0772657c94abb55f6fb5cdcc5e9.jpg | RPM Web (foto de prensa Stellantis) | desconocida |
+| /media/zero-xe-2026-ficha-tecnica-precio-hunt1.webp | https://www.totalmotorcycle.com/wp-content/uploads/2025/05/2026-Zero-XE1.jpg | Total Motorcycle (foto de prensa Zero Motorcycles) | desconocida |
+| /media/zero-xe-2026-ficha-tecnica-precio-hunt2.webp | https://onyxmoto.com/wp-content/uploads/2025/08/4462-8.jpg | Onyx Moto | desconocida |
+| /media/zero-xe-2026-ficha-tecnica-precio-hunt3.webp | https://onyxmoto.com/wp-content/uploads/2025/08/4462-2.jpg | Onyx Moto | desconocida |
+| /media/aixam-city-sport-2025-precio-ficha-tecnica-hunt1.webp | http://aixam.fra1.cdn.digitaloceanspaces.com/MinicarTrapani/city_sport_gris_titane_front.jpg | Aixam / MinicarTrapani (concesionario oficial Aixam) | desconocida |
+| /media/aixam-city-sport-2025-precio-ficha-tecnica-hunt2.webp | https://microcoche.net/assets/images/gama-ambition-galeria-city-sport-rojo-back-1920x1080.webp | microcoche.net (concesionario Aixam) | desconocida |
+| /media/aixam-city-sport-2025-precio-ficha-tecnica-hunt3.webp | https://unimotor.es/wp-content/uploads/2026/06/IMG_8261-1024x576.jpeg | Unimotor (concesionario, unimotor.es) | desconocida |
+| /media/jeep-compass-e-hybrid-145-2026-precio-ficha-tecnica-hunt1.webp | https://www.actualidadmotor.com/wp-content/uploads/2026/01/jeep-compass-1-1-1024x614.jpg.webp | Actualidad Motor (actualidadmotor.com) | desconocida |
+| /media/jeep-compass-e-hybrid-145-2026-precio-ficha-tecnica-hunt2.webp | https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/07/2026-jeep-compass-exterior-2.jpg | CarBuzz (carbuzz.com) | desconocida |
+| /media/jeep-compass-e-hybrid-145-2026-precio-ficha-tecnica-hunt3.webp | https://www.carscoops.com/wp-content/uploads/webp/2026/08/2026-Jeep-Compass-Interior-CarScoops-3-2048x1152.webp | CarScoops (carscoops.com) | desconocida |
