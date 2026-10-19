@@ -947,3 +947,11 @@ Rama: fotos-reales-merlin @ f79e8e75
 - 24 MISSING (17 MISSING-REAL: 404 en repo y live; 7 sin foto).
 - CSV acumulativo docs/seo/fotos-merlin.csv: 5.525 filas.
 - NOTA: Monster SP 2026 no existe como modelo (el SP es 2023-2024); convendría revisar esa ficha.
+
+## 2026-10-19 ~11:40 CEST — @grok lote listo fotos-merlin G02 (auditoría motos/patinetes)
+
+Rama: fotos-reales-merlin @ 52693cca
+- Grupo G02 (Kawasaki, Peugeot...): 105 fichas auditadas (repo + live), 257 fotos revisadas.
+- 198 fotos OK. **59 reemplazadas**: 43 falsas (marca-agua, defectuosa, IA, otro-modelo, showroom, placeholder) + 16 MISSING con reemplazo conseguido. Todas con foto real verificada + URL.
+- 0 vacías.
+- CSV acumulativo docs/seo/fotos-merlin.csv: 5.782 filas.
