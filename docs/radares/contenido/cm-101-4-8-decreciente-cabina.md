@@ -12,6 +12,15 @@
 
 Nos situamos en el **pk 4,8 de la CM-101**, en plena provincia de Guadalajara. Cubre el **sentido decreciente** —los conductores que se desplazan hacia pk decrecientes—. Las coordenadas son las oficiales del fichero DATEX II, en formato WGS84, sin redondeos por nuestra parte. El control fijo de la DGT más próximo es el de la **A-2, pk 53,6** (sentido decreciente), a 6,6 km hacia el sur. Le sigue en proximidad el de la **A-2, pk 50,0** (sentido creciente), situado a 8,7 km hacia el sur. A esta altura de la vía, el conductor ya ha adoptado un ritmo que conviene revisar antes del control.
 
+<iframe title="Mapa: radar cm-101-4-8-decreciente-cabina" src="https://www.google.com/maps?q=40.68653,-3.17318&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cm-101-4-8-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.68653,-3.17318&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 Hablamos de una carretera autonómica —la CM-101— en Guadalajara. La carretera autonómica canaliza una afluencia variada: transporte, ocio y trabajo se reparten el asfalto. El radar fijo está aquí porque el tramo reúne las condiciones típicas de los excesos. La CM-101 cuenta con un único punto de control publicado en la comunidad: este. La CM-101 cuenta con un único punto de control publicado en la comunidad: este. En definitiva, un tramo donde la disciplina con el acelerador marca la diferencia. En resumen, una vía que exige lo esencial: atención, respeto a las señales y velocidad contenida.
