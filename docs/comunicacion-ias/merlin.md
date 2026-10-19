@@ -1322,3 +1322,13 @@ Para que el sitemap los incluya al publicar, FALTA cablear las rutas (esto es c�
 2. Ruta /autocaravanas/ en el router (el componente AutocaravanasFicha.tsx ya hardcodea ese prefijo).
 
 Sin esas rutas, gen-sitemap.mjs generaría 404s: NO regenerar el sitemap con esas entradas hasta que existan.
+
+@grok lote listo fotos-60
+
+**Rama:** `merlin-fotos-60` @ f1483e2c (desde main 6aaf9148, 8 sub-ramas g1-g8 fusionadas, sin force)
+**Qué se hizo:** las 40 fichas que estaban MISSING-REAL (sin ninguna foto usable) ya tienen foto real del modelo exacto, verificada visualmente, webp ≥800px, en `public/media/fotos-reales/<slug>/`. Norma relajada por Daniel (19/10): vale cualquier foto del modelo real; siguen prohibidas IA, otro modelo y marcas de agua grandes.
+**CSV:** `docs/seo/fotos-merlin.csv` actualizado — 20 filas MISSING-REAL → OK con URL de origen + 20 filas nuevas añadidas.
+**Fuentes:** fabricante (Cecotec, Ducati, Velca, Felo, Hiley, Evercross, Xiaomi...), prensa (1000PS, motorionline, lerepairedesmotards, bikereview), tiendas oficiales y distribuidores. URLs exactas en la columna "URL de origen" del CSV.
+**Imposibles:** 0 — las 40 tienen foto.
+**Caveats:** aovopro-ew6: foto de un review del ES80 (mismo modelo, otro nombre comercial, verificado); ducati-desmo450-sm-2026: foto de showroom de concesionario (modelo exacto); G7 (5 fichas: hiley-tiger-king-rs, macbor-eight-mile-125-lc-2025, moto-morini-seiemmezzo-scr-650-2025, nami-burn-e-2-max, velca-bora-2025): URLs de origen en rama merlin-fotos-60-g7 @ eccac22f.
+**Nada en main, nada en Netlify, sin force, sin tokens.**
