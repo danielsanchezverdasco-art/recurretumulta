@@ -1765,3 +1765,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/tank-500-hi4-t-2025-precio-ficha-tecnica-hunt1.webp | https://global-img.bitauto.com/yhzx/20250723/333/325192833306475.jpg | bitauto (prensa del motor) | desconocida |
 | /media/tank-500-hi4-t-2025-precio-ficha-tecnica-hunt2.webp | https://www.car250.com/wp-content/uploads/2024/10/5959-17.webp | car250.com (blog del motor) | desconocida |
 | /media/tank-500-hi4-t-2025-precio-ficha-tecnica-hunt3.webp | https://www.zr.ru/d/story/25/971045/tank_500_hi4-t_sport.jpg | zr.ru (prensa del motor) | desconocida |
+| /media/navee-v25i-pro-ii-hunt1.webp | https://www.naveetech.com/navee-v25i-pro-ii/ | Navee (web oficial) | desconocida |
+| /media/navee-v25i-pro-ii-hunt2.webp | https://www.24hshop.no/kjoretoy/navee-v25i-pro-ii-elektrisk-scooter | 24hshop.no | desconocida |
+| /media/navee-v25i-pro-ii-hunt3.webp | https://top4mobile.de/Katalogwaren/576/elektroroller/127160/elektroroller-navee-v25i-pro-ii-elektroroller | Top4Mobile | desconocida |
+| /media/gmc-sierra-ev-2025-precio-ficha-tecnica-hunt1.webp | https://di-uploads-pod46.dealerinspire.com/ewingbuickgmc/uploads/2025/07/2025-gmc-sierra-ev-denali-005-1536x1024.jpg | Ewing Buick GMC (foto oficial GM) | desconocida |
+| /media/gmc-sierra-ev-2025-precio-ficha-tecnica-hunt2.webp | https://i.gaw.to/vehicles/photos/40/38/403834-2025-gmc-sierra-ev.jpg | Guideautoweb | desconocida |
+| /media/gmc-sierra-ev-2025-precio-ficha-tecnica-hunt3.webp | https://cdn.jdpower.com/ArticleImages/JDP_2025%20GMC%20Sierra%20EV%20Denali%20Interior%20Dashboard.jpg | JDPower | desconocida |
+| /media/volvo-xc40-b3-2025-precio-ficha-tecnica-hunt1.webp | https://static0.carbuzzimages.com/wordpress/wp-content/uploads/gallery-images/original/1186000/400/1186451.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2 | CarBuzz | desconocida |
+| /media/volvo-xc40-b3-2025-precio-ficha-tecnica-hunt2.webp | https://i2.wp.com/www.volvo-papadopoulos.gr/wp-content/uploads/2025/06/02-xc40-colors-02.jpg?fit=1070%2C602&ssl=1 | Volvo Papadopoulos (concesionario oficial Volvo) | desconocida |
+| /media/volvo-xc40-b3-2025-precio-ficha-tecnica-hunt3.webp | https://static0.carbuzzimages.com/wordpress/wp-content/uploads/gallery-images/original/1186000/400/1186450.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2 | CarBuzz | desconocida |
+| /media/volvo-v60-b4-2024-precio-ficha-tecnica-hunt1.webp | https://www.autowereld.nl/volvo/v60/b4-essential-edition-adaptive-cruise-blis-18-inch-lm-pdc-v-a-stoel-stuurwielverw-42974643/details.html | Hedin / AutoWereld.nl | desconocida |
+| /media/volvo-v60-b4-2024-precio-ficha-tecnica-hunt2.webp | https://autoforum-prokop.de/gebrauchtwagen/volvo/v60/volvo-v60-b4-benzin-dkg-plus-darkfshzg360accahk-vo600-rs-mr-fw-js-ahk/ | Autohaus Prokop | desconocida |
+| /media/volvo-v60-b4-2024-precio-ficha-tecnica-hunt3.webp | https://www.garajecentrobilbao.com/vehiculos-ocasion/vehiculos-ocasion-venta/volvo-v60-20-b4-d-momentum-auto | Garaje Centro Bilbao | desconocida |
