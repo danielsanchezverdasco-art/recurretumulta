@@ -12,6 +12,14 @@
 
 La posición oficial del puesto es la **A-7, punto kilométrico 337,4** (Valencia). Supervisa el **sentido creciente**, el del avance hacia puntos kilométricos crecientes. El municipio asignado es **Quart de Poblet** (IGN/CNIG); el micro-desplazamiento aplicado queda registrado en Fuentes. El punto vigilado más cercano es el de la **A-7, pk 337,4** (sentido decreciente): queda a 0,1 km hacia el sur.
 
+<iframe title="Mapa: radar a-7-337-4-creciente-cabina" src="https://www.google.com/maps?q=39.46109,-0.55268&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-7-337-4-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.46109,-0.55268&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 El eje es la A-7, la Autovía del Mediterráneo, el gran corredor del litoral. La intensidad varía por franjas: mañanas laborables densas, tardes más fluidas. La comarca de paso se identifica con el corredor central valenciano.
