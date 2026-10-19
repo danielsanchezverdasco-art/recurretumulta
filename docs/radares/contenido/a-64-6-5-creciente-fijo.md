@@ -12,6 +12,14 @@
 
 El dispositivo está emplazado en la **A-64, punto kilométrico 6,5**, y su campo de medición es el **sentido creciente**, que la DGT identifica con el destino **Oviedo**: quienes viajan a la capital. Por sus coordenadas, queda en el tramo central de la autovía, entre el nudo con la A-8 y Oviedo. Su gemelo del pk 8,7 vigila la dirección contraria.
 
+<iframe title="Mapa: radar a-64-6-5-creciente-fijo" src="https://www.google.com/maps?q=43.4326,-5.5388&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-64-6-5-creciente-fijo" src="https://maps.google.com/maps?q=&layer=c&cbll=43.4326,-5.5388&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La **A-64** comunica **Oviedo con Villaviciosa** y, mediante su conexión con la A-8, conecta la capital con la costa oriental y con el resto del litoral norte. Se trata de una autovía de doble calzada y más de un carril por sentido que cruza el interior asturiano. El uso de esta vía es sobre todo pendular: trabajadores que van y vienen a diario entre Oviedo y la costa, furgonetas de reparto y salidas de ocio. En las horas punta, la vía se carga de vehículos rumbo a la capital y el discurrir del tráfico se vuelve irregular.
