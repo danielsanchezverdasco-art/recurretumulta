@@ -143,8 +143,8 @@ export const AUTOCARAVANAS_FONTVENDOME_M4: Autocaravana[] = [
     galeria: [
       { src: "/media/font-vendome-randocamp-2026-precio-ficha-tecnica-oficial.webp", alt: "Font Vendôme RandoCamp, vista exterior", ancho: 1620, alto: 1080 },
       { src: "/media/font-vendome-randocamp-2026-precio-ficha-tecnica-interior1.webp", alt: "Font Vendôme RandoCamp, cama transversal", ancho: 1620, alto: 1080 },
-      { src: "/media/font-vendome-randocamp-2026-precio-ficha-tecnica-interior2.webp", alt: "Font Vendôme RandoCamp, salón (foto de prensa)", ancho: 465, alto: 310 },
-      { src: "/media/font-vendome-randocamp-2026-precio-ficha-tecnica-detalle.webp", alt: "Font Vendôme RandoCamp, cocina (foto de prensa)", ancho: 450, alto: 300 },
+      { src: "/media/font-vendome-randocamp-2026-precio-ficha-tecnica-interior2.webp", alt: "Font Vendôme RandoCamp, salón con asientos de cabina", ancho: 1620, alto: 1080 },
+      { src: "/media/font-vendome-randocamp-2026-precio-ficha-tecnica-detalle.webp", alt: "Font Vendôme RandoCamp, cocina y salón", ancho: 1620, alto: 1080 },
     ],
     analisisSlug: "font-vendome-randocamp-2026-analisis-opinion",
     planMantenimiento: {
