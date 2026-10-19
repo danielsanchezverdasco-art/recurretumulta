@@ -12,6 +12,15 @@
 
 La ficha oficial sitúa el control en la **A-4, pk 67,6**, provincia de Toledo. Su ámbito es el **sentido creciente**: la dirección en que los hitos kilométricos van crecientes. La provincia —Toledo— es la que la DGT asigna al punto en su campo administrativeArea; el municipio no se publica. A 15,6 km hacia el este está el control más próximo, el de la **N-301, pk 83,4** (sentido decreciente). Le sigue en proximidad el de la **A-4, pk 41,4** (sentido creciente), situado a 22,8 km hacia el noroeste. El entorno es el típico del interior peninsular: amplios horizontes y un tráfico que no entiende de pausas.
 
+<iframe title="Mapa: radar a-4-67-6-creciente-cabina" src="https://www.google.com/maps?q=39.91003,-3.47579&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-4-67-6-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.91003,-3.47579&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La vía es la A-4: la Autovía del Sur, que une Madrid con Andalucía. La autovía registra movimiento durante toda la jornada, con perfiles distintos por franjas horarias. La DGT mantiene aquí un control fijo porque es un tramo donde la velocidad tiende a despegarse de lo señalizado. La A-4 suma 8 puntos de control en Castilla-La Mancha; este ocupa el tercer lugar por pk. En la misma A-4, el control más próximo es el del pk 41,4 (sentido creciente): dista 22,8 km hacia el noroeste. Circular por ella exige adaptar la marcha a cada circunstancia, más allá del límite genérico. Quien la recorre con frecuencia aprende dónde están los puntos delicados; quien no, debería extremar la atención.
