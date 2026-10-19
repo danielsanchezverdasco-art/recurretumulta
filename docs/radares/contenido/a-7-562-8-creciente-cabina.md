@@ -12,6 +12,15 @@
 
 La cabina se halla en la A-7, pk 562,8, término municipal de Murcia (Murcia); coordenadas 38.053963, -1.1177311. Controla el sentido creciente, el de los vehículos que avanzan hacia pk mayores. Con el enlace de Street View se sitúa el dispositivo sobre el terreno desde casa.
 
+<iframe title="Mapa: radar a-7-562-8-creciente-cabina" src="https://www.google.com/maps?q=38.053963,-1.1177311&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-7-562-8-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.053963,-1.1177311&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La A-7, Autovía del Mediterráneo, es una autovía estatal y uno de los corredores con mayor intensidad de tráfico de España. A la altura de Murcia confluyen el tráfico de paso hacia Andalucía y la Comunidad Valenciana con el movimiento metropolitano de la capital. La DGT la cataloga como autovía en su XML sin entrar en detalles del tramo: la ficha no incorpora rasgos que la fuente no avale.
