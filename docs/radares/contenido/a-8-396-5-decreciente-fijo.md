@@ -12,6 +12,14 @@
 
 En el **pk 396,5 de la A-8**, también en Asturias, opera un radar de tipo **fijo** que cubre el **sentido decreciente**, el que la DGT denomina destino **EUSKADI**. Es la calzada de quienes viajan al este, hacia el País Vasco. El emplazamiento queda al oeste de Gijón, en el segmento costero procedente de Avilés, dentro del área metropolitana central.
 
+<iframe title="Mapa: radar a-8-396-5-decreciente-fijo" src="https://www.google.com/maps?q=43.5286,-5.8289&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-8-396-5-decreciente-fijo" src="https://maps.google.com/maps?q=&layer=c&cbll=43.5286,-5.8289&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 La numeración ayuda a orientarse: en la A-8 los pk descienden hacia el este, luego el sentido decreciente corresponde a la calzada oriental, la de Santander, Bilbao e Irún.
 
 ## La carretera
