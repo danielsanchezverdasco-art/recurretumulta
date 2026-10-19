@@ -2915,3 +2915,24 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/honda-cb750-hornet-2025-ficha-tecnica-precio-hunt1.webp | https://soymotero.net/wp-content/uploads/2024/11/505058_25YM_Honda_CB750_Hornet.jpg | Soymotero.net (foto de prensa Honda) | desconocida |
 | /media/honda-cb750-hornet-2025-ficha-tecnica-precio-hunt2.webp | https://ultimatemotorcycling.com/wp-content/uploads/2025/03/2025-honda-cb750-hornet-first-look-7.webp | UltimateMotorcycling.com | desconocida |
 | /media/honda-cb750-hornet-2025-ficha-tecnica-precio-hunt3.webp | https://storage.googleapis.com/superbike_news/2024/11/2025-Honda-CB750-Hornet-09.jpg | Superbike News (foto de prensa Honda) | desconocida |
+| /media/navee-n65i-hunt1.webp | https://www.latiendaencasa.es/deportes/A50446382-patinete-electrico-navee-n65i/ | El Corte Inglés | desconocida |
+| /media/navee-n65i-hunt2.webp | https://mobile-review.com/all/reviews/gadgets/obzor-navee-n65i-elektrosamokat-s-shipovannoj-rezinoj/ | Mobile-Review.com | desconocida |
+| /media/navee-n65i-hunt3.webp | https://factorypure.com/products/navee-n65i-electric-scooter-offroad-25-mph-40-mile-max-range-1000w-new | FactoryPure | desconocida |
+| /media/leapmotor-c01-4wd-2026-precio-ficha-tecnica-hunt1.webp | https://www.gzdcars.com/wp-content/uploads/2025/05/leapmotor-c01-2.jpg | GZdCars | desconocida |
+| /media/leapmotor-c01-4wd-2026-precio-ficha-tecnica-hunt2.webp | https://carnewschina.com/wp-content/uploads/2022/05/leapmotor-c01-range-cltc-1.jpg | CarNewsChina | desconocida |
+| /media/leapmotor-c01-4wd-2026-precio-ficha-tecnica-hunt3.webp | https://www.car250.com/wp-content/uploads/2023/09/Leapmotor-C01-21-768x576.jpg | Car250 | desconocida |
+| /media/pure-x-mclaren-hunt1.webp | https://cdn.shopify.com/s/files/1/0034/7504/6445/files/Pure_x_McLaren_4.jpg?v=1719805168 | Pure Electric (prensa oficial) | desconocida |
+| /media/pure-x-mclaren-hunt2.webp | https://cdn.auchan.fr/media/11428170-e37d-4d89-9ead-72362c9d7d68_2048x2048/B2CD/?width=1200&height=1200 | Auchan (foto oficial Pure Electric) | desconocida |
+| /media/pure-x-mclaren-hunt3.webp | https://scooterhut.com.au/cdn/shop/files/pure-mclaren-carousel-features-slimline.jpg?format=webp&v=1755142485&width=3200 | Scooter Hut (foto oficial Pure Electric) | desconocida |
+| /media/roewe-d7-dmh-2024-precio-ficha-tecnica-hunt1.webp | https://autogaleria.pl/content/uploads/2024/10/roewe-d7-1-1024x768.webp | AutoGaleria.pl | desconocida |
+| /media/roewe-d7-dmh-2024-precio-ficha-tecnica-hunt2.webp | https://www.ixbt.com/img//x780/n1/news/2024/9/1/Roewe-D7-World-Record-2_large.png | iXBT (foto prensa SAIC) | desconocida |
+| /media/roewe-d7-dmh-2024-precio-ficha-tecnica-hunt3.webp | https://www.ixbt.com/img/n1/news/2023/10/4/Slide-16_9-121-2023-11-08T185536.570_large.jpg | iXBT (foto prensa SAIC) | desconocida |
+| /media/pure-air-4-hunt1.webp | https://www.pureelectric.com/cdn/shop/files/pure-scooter-black-air-1166903970.jpg?v=1747273073&width=576 | Pure Electric (web oficial del producto) | desconocida |
+| /media/pure-air-4-hunt2.webp | https://escootershop.com/images/detailed/66/01-AIR4-BK.webp | eScooterShop | desconocida |
+| /media/pure-air-4-hunt3.webp | https://www.electriclife.co.uk/images/pure-air4-electric-scooter-p1093-13006_medium.jpg | Electric Life | desconocida |
+| /media/baojun-xiangjing-phev-2025-precio-ficha-tecnica-hunt1.webp | https://www.chinapev.com/sgmw/baojun/baojun-xiangjing-official-images-released-a-mid-to-large-sedan-with-plug-in-hybrid-and-all-electric-options/ | ChinaPEV | desconocida |
+| /media/baojun-xiangjing-phev-2025-precio-ficha-tecnica-hunt2.webp | https://www.car250.com/baojun-xiangjing-reev-2025-1.html | Car250 (foto de prensa Autohome) | desconocida |
+| /media/baojun-xiangjing-phev-2025-precio-ficha-tecnica-hunt3.webp | https://www.car250.com/baojun-xiangjing-reev-2025-1.html | Car250 (foto de prensa Autohome, recortada para eliminar placa del medio) | desconocida |
+| /media/honda-adv350-2025-ficha-tecnica-precio-hunt1.webp | https://www.superbikemag.com/2025-honda-adv350/ | Honda (fotos de prensa 2025, vía SuperBikeMag) | desconocida |
+| /media/honda-adv350-2025-ficha-tecnica-precio-hunt2.webp | https://moto919.lt/ | Honda (fotos de prensa 2025, vía Moto919) | desconocida |
+| /media/honda-adv350-2025-ficha-tecnica-precio-hunt3.webp | https://www.1000ps.com/it-it/articolo/3012059/aggiornamento-2025-per-lhonda-adv350 | Honda (fotos de prensa 2025, vía 1000PS) | desconocida |
