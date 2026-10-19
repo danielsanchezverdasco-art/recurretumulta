@@ -1139,7 +1139,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     videoCanal: "MotorbikeMag",
     fuenteNombre: "moteo.es",
     fuenteUrl: "https://moteo.es/honda-cbr600rr-2024-precio-ficha-tecnica-y-fotos/",
-    analisisSlug: "honda-cbr600rr-2024-ficha-tecnica-precio",
+    analisisSlug: "honda-cbr600rr-2025-ficha-tecnica-precio",
   },
   {
     id: "yamaha-yzf-r9-2025-ficha-tecnica-precio",
@@ -1889,7 +1889,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     videoCanal: null,
     fuenteNombre: "motofichas.com",
     fuenteUrl: "https://www.motofichas.com/marcas/aprilia/rs-125",
-    analisisSlug: "aprilia-rs-125-2025-ficha-tecnica-precio",
+    analisisSlug: "aprilia-rs-125-2026-precio",
   },
   {
     id: "yamaha-yzf-r125-ficha-tecnica-precio",
@@ -2557,7 +2557,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     videoCanal: "MotorbikeMag",
     fuenteNombre: "Moteo",
     fuenteUrl: "http://moteo.es/honda-xl750-transalp-2024-ficha-tecnica-y-fotos/",
-    analisisSlug: "honda-xl750-transalp-2024-ficha-tecnica-precio",
+    analisisSlug: "honda-xl750-transalp-2025-ficha-tecnica-precio",
   },
   {
     id: "suzuki-v-strom-800de-2024-ficha-tecnica-precio",
@@ -3333,7 +3333,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     videoCanal: "Ray Bowden",
     fuenteNombre: "Yamaha Motor",
     fuenteUrl: "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/YZF700R7/Factsheets/2024-YZF700R7_es-ES.pdf",
-    analisisSlug: "yamaha-yzf-r7-2024-ficha-tecnica-precio",
+    analisisSlug: "yamaha-yzf-r7-2025-ficha-tecnica-precio",
   },
   {
     id: "honda-cbr650r-2024-ficha-tecnica-precio",
@@ -5953,7 +5953,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     videoCanal: "MotorbikeMag",
     fuenteNombre: "Moteo",
     fuenteUrl: "http://moteo.es/yamaha-mt-09-2024-precio-ficha-tecnica/",
-    analisisSlug: "yamaha-mt-09-2024-ficha-tecnica-precio",
+    analisisSlug: "yamaha-mt-09-2025-ficha-tecnica-precio",
   },
   {
     id: "triumph-street-triple-765-2024-ficha-tecnica-precio",
