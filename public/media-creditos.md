@@ -2815,3 +2815,8 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/hiboy-nex3-hunt1.webp | https://www.bikes4sale.com/details/hiboy/nex-3/ | Hiboy / Bikes4Sale (render del fabricante; marca de agua recortada) | desconocida |
 | /media/hiboy-nex3-hunt2.webp | https://scooter.guide/hiboy-nex3-electric-scooter-review/ | Scooter Guide (análisis del NEX3) | desconocida |
 | /media/hiboy-nex3-hunt3.webp | https://www.algeria.ubuy.com/en/product/3ODHZZX3C-hiboy-nex3-electric-scooter-8-5-34-solid-tires-up-to-16-miles-long-range-amp-16-mph-portable-folding-commuting-electric-scooter-for | Hiboy (foto de producto, listados del NEX3) | desconocida |
+| /media/gotrax-gxl-v2-hunt1.webp | https://gotrax.ca/products/gxl-v2-electric-commuter-scooter | Gotrax (tienda oficial) | desconocida |
+| /media/zwheel-e12-hunt1.webp | https://www.zwheel.com/products | Zwheel (foto oficial) | desconocida |
+| /media/fantic-caballero-700-2025-ficha-tecnica-precio-hunt1.webp | https://www.inmoto.it/listino-nuovo/marche/fantic-motor/caballero-700-scrambler | InMoto.it (foto de prensa oficial Fantic Caballero 700) | desconocida |
+| /media/hiley-tiger-10-lite-hunt1.webp | https://electrotraveller.com/hiley/ | ElectroTraveller (foto oficial Hiley Tiger 10 Lite) | desconocida |
+| /media/cecotec-bongo-serie-z-off-road-hunt1.webp | https://www.pccomponentes.com/cecotec-bongo-serie-z-off-road-dark-green-patinete-electrico | PcComponentes | desconocida |
