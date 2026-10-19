@@ -1801,3 +1801,6 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/benelli-trk-902-stradale-2025-ficha-tecnica-precio-hunt1.webp | https://www.benelli.com/pt-pt/products/trk-902-stradale | Benelli (foto oficial, cdn.keeway.com) | desconocida |
 | /media/benelli-trk-902-stradale-2025-ficha-tecnica-precio-hunt2.webp | https://benelli-moto.gr/motosikletes/trk/trk-902-stradale | Benelli Moto Grecia (distribuidor oficial) | desconocida |
 | /media/benelli-trk-902-stradale-2025-ficha-tecnica-precio-hunt3.webp | https://soymotero.net/motos/benelli/trk-902-stradale-2026/ | SoyMotero.net | desconocida |
+| /media/suzuki-swift-sport-2024-precio-ficha-tecnica-hunt1.webp | https://editorial.pxcrush.net/carsales/general/editorial/2024-suzuki-swift-sport-28.jpg | Carsales | desconocida |
+| /media/suzuki-swift-sport-2024-precio-ficha-tecnica-hunt2.webp | https://cdn.galleries.smcloud.net/t/galleries/gf-uQfC-fmRV-YKjW_suzuki-swift-sport-1280x960.jpg | Suzuki (prensa oficial) | desconocida |
+| /media/suzuki-swift-sport-2024-precio-ficha-tecnica-hunt3.webp | https://www.suzukichihuahua.com.mx/autos/swift_sport/cp2.jpg | Suzuki Chihuahua (concesionario oficial) | desconocida |
