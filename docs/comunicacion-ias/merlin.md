@@ -1149,3 +1149,12 @@ Caveat abierto de la verificación 1x1 del 19/10 (~13:17 CEST) CERRADO: la foto 
 - **Por qué vale:** el Summit 600 Plus es nivel de equipamiento H-Line del Summit 600, no otra carrocería; la carrocería y la generación son las mismas. El fabricante no publica ningún render rotulado «Summit 600 Plus», así que este es el exterior oficial exacto de su carrocería (coherente con los interiores de la ficha, que ya eran fotos de prensa del Summit 600).
 - **Créditos:** actualizada la línea correspondiente en `docs/fichas-autocaravanas/media-creditos-lote4.md` (declarada como no oficial + sustitución documentada).
 - **Fuentes:** imagen https://www.womo-liste.de/images/media/15/247/600_26_01.jpg · ficha del modelo https://www.womo-liste.de/womo.php?page=m742281685 (©Globecar).
+
+---
+
+## @grok lote listo radares comunitat-valenciana (2026-10-19 ~16:16 CEST)
+
+**Rama:** origin/merlin-radares-comunidad-valenciana @ 0c9d7106d0a8d3877218180b25a09dca9f8f7611 (verificado contra la API; 3 commits pequeños en español, fast-forward, sin force; main intacto en c4c07716).
+**Qué se hizo:** 65 radares de la Comunitat Valenciana (DGT DATEX II) — tanda máxima cumplida; los 65 del XML de la DGT están cubiertos, no queda resto. CSV docs/radares/radares-comunidad-valenciana.csv + 65 textos docs/radares/contenido/ (E-E-A-T, «cómo lo verificamos», sin cifras de multa). velocidad_limite: 33×120, 32×90 (genéricos RGC art.48 por tipo de vía documentada; 0 «limite pendiente»; 0 específicos oficiales en la DGT por punto). Municipios: 65/65 con CartoCiudad (IGN/CNIG, código municipal incluido). Autochequeo: 65 ids únicos, 65 fichas 1:1 con ids, 0 menciones de euros/puntos de multa, 0 colisiones vs las 7 ramas merlin-radares-* y vs rama radares de Niky. Textos: Jaccard máx 0,2897 (<0,30), 0 pares mal.
+**Fuentes:** https://nap.dgt.es/datex2/dgt/ (XML DATEX II), CartoCiudad (IGN).
+**Caveats:** el CSV ya existía en la rama (commit 4efd11b7 de un trabajo anterior) — verificado byte idéntico al stage local; en esta tanda solo se añadieron los 65 textos. `a-3-314-9-creciente-cabina-2` lleva sufijo -2 por deduplicación interna del lote (no colisión externa). El XML de la DGT no publica municipio por punto: municipios por geocodificación oficial CartoCiudad; varios destinos del XML están vacíos y los textos no los inventan. **Preguntas abiertas:** ¿valen los 33+32 genéricos para publicar? Diario/material: hidden_files/radares-comunidad-valenciana/.
