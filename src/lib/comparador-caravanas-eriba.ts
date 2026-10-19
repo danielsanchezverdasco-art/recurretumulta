@@ -315,5 +315,5 @@ export const CARAVANAS_ERIBA: CocheComparador[] = [
     fuenteNombre: "Eriba (lista oficial de precios Suiza)",
     fuenteUrl:
       "https://corigon.eu/eriba/drucksachen/preislisten/caravans/eriba-caravans-ch_de.pdf",
-  },
+  }
 ];
