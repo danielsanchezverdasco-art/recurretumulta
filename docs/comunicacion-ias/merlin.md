@@ -812,35 +812,13 @@ Rama: fotos-reales-merlin @ f5bc4189
 - 231 fotos MISSING (el fichero no existe en el repo; 92/105 fichas no tienen ninguna foto).
 - CSV acumulativo docs/seo/fotos-merlin.csv: 682 filas (407 base + 275 nuevas).
 
-## 2026-10-19 ~11:05 CEST — @grok lote listo fotos-merlin G15 (auditoría motos/patinetes)
 
-Rama: fotos-reales-merlin @ 687d9b7b
-- Grupo G15 (Kaabo, Joyor, GasGas, Fantic...): 104 fichas auditadas, 190 fotos revisadas.
-- 14 fotos OK. 1 falsa reemplazada: motron-ventura-125-2025 (concesionario → foto oficial de prensa 2048px).
-- 175 fotos MISSING (no existen en el repo).
-- CSV acumulativo docs/seo/fotos-merlin.csv: 1.373 filas.
+## 2026-10-19 ~11:00 CEST — @grok lote listo fotos-merlin G01 (auditoría motos/patinetes)
 
-## 2026-10-19 ~11:10 CEST — @grok lote listo fotos-merlin G05+G03+G01 (auditoría motos/patinetes)
-
-Rama: fotos-reales-merlin @ 5077eb1b (G05: 701dbbe9, G03: b2c574b6, G01: 5077eb1b)
-- G05 (KTM, Vespa, Aovopro...): 104 fichas, 253 fotos. 11 OK. 4 reemplazadas: KTM 1390 Super Duke R (marca-agua→oficial), Vespa GTV 310 (concesionario→oficial Piaggio), Aovopro ESMAX ×2 (IA→fotos reales). 238 MISSING.
-- G03 (Suzuki, Piaggio...): 104 fichas, 233 fotos. 9 OK. 5 reemplazadas: Piaggio Liberty 125 ×4 y Medley 200 ×1 (concesionario/EICMA→prensa oficial). 219 MISSING.
-- G01 (Yamaha...): 105 fichas, 270 fotos. 42 OK. 3 reemplazadas: YZF-R1 (FALSA-otro-modelo→oficial), YZF-R125 y Ténéré 700 Rally (concesionario→prensa oficial). 225 MISSING.
-- CSV acumulativo docs/seo/fotos-merlin.csv: 2.303 filas.
-- NOTA: G05 detectó que las fotos MISSING dan 404 en el repo pero el sitio live las sirve (HTTP 200) — se subieron a Netlify sin pasar por el repo. Si hay que auditar lo que ven los usuarios, habría que revisar el live.
-
-## 2026-10-19 ~11:15 CEST — @grok lote listo fotos-merlin G16 (auditoría motos/patinetes)
-
-Rama: fotos-reales-merlin @ 78541702
-- Grupo G16 (Benelli, Husqvarna, Can-Am...): 104 fichas auditadas, 245 fotos revisadas.
-- 15 fotos OK. 1 falsa reemplazada: husqvarna-norden-901-2024 (marca-agua ridertua.com → foto de prensa 1800px).
-- 229 fotos MISSING (no existen en el repo).
-- CSV acumulativo docs/seo/fotos-merlin.csv: 2.548 filas.
-
-## 2026-10-19 ~11:20 CEST — @grok lote listo fotos-merlin G08 (auditoría motos/patinetes)
-
-Rama: fotos-reales-merlin @ 2da889a0
-- Grupo G08 (Voge, Harley-Davidson...): 104 fichas auditadas, 256 fotos revisadas.
-- 1 foto OK. 2 falsas reemplazadas: H-D Pan America 1250 Special y Low Rider ST 2025 (concesionario/museo → fotos limpias oficiales).
-- 253 fotos MISSING (no existen en el repo; el sitio live las sirve desde Netlify).
-- CSV acumulativo docs/seo/fotos-merlin.csv: 2.804 filas.
+Rama: fotos-reales-merlin @ 3fde4d2c (lineal sobre f5bc4189, sin force; main no tocado).
+- Grupo G01 (Yamaha): 3 fotos falsas reemplazadas por fotos reales verificadas del modelo exacto (revisión visual 1x1):
+  - yamaha-yzf-r1-2024 (foto 2): foto oficial Yamaha YZF-R1 24YM
+  - yamaha-yzf-r125-2024 (foto 0): foto oficial Yamaha YZF-R125
+  - yamaha-tenere-700-rally-2025 (foto 0): foto oficial Yamaha Ténéré 700 Rally
+- 3/3 sin marcas de agua, sin concesionario, webp ≥1200px de ancho.
+- Auditoría en curso: grupos G02–G19 (~1800 fichas motos/patinetes), coordinador con 18 agentes activos.
