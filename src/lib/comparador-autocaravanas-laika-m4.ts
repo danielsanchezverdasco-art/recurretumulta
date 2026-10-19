@@ -33,7 +33,7 @@ export const AUTOCARAVANAS_LAIKA_M4: Autocaravana[] = [
     largoMm: 7400, // exposé caraworld.de
     anchoMm: 2250, // exposé caraworld.de
     altoMm: 2960, // exposé caraworld.de (altura interior 205 cm)
-    pesoKg: 3344, // masa en orden de marcha según exposé caraworld.de
+    pesoKg: null, // masa en orden de marcha 3.344 kg según exposé caraworld.de; no es carga útil y la marca no publica carga útil de catálogo
     mmaKg: 4400, // exposé caraworld.de (existe variante de 3.500 kg)
     carnetNecesario: "C1", // MMA 4.400 kg
     cargaUtilKg: null, // la marca no publica carga útil
@@ -42,7 +42,7 @@ export const AUTOCARAVANAS_LAIKA_M4: Autocaravana[] = [
     plazas: 4, // 4 cinturones (exposé caraworld.de)
     plazasDormir: 4, // camas individuales + abatible (exposé caraworld.de)
     parNm: null,
-    traccion: null,
+    traccion: "delantera", // base Fiat Ducato de tracción delantera (ficha de distribuidor alfacaravan.it del H4109)
     emisionesCo2: null,
     aprox: [],
     notas:
