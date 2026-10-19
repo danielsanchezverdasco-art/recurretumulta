@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 40.705055, -4.145694
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.705055,-4.145694)
 
+<iframe title="Mapa: radar n-6-57-4-creciente-cabina" src="https://www.google.com/maps?q=40.705055,-4.145694&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-6-57-4-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.705055,-4.145694&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** Vía, pk, sentido y coordenadas salen del XML oficial de radares de la DGT (DATEX II, portal NAP). El dataset no publica límites por punto ni municipios: la ficha recoge el genérico de 90 del art. 48 del RGC —la N-6 es nacional convencional según su denominación oficial en el XML— y el punto queda situado en El Espinar (Segovia) con CartoCiudad (IGN/CNIG).
 
 ## El límite y por qué 90
