@@ -12,6 +12,14 @@
 
 El emplazamiento del control es el **pk 46,9 de la N-332** (provincia de Alicante, Comunitat Valenciana). Supervisa el **sentido decreciente**, el del avance hacia puntos kilométricos decrecientes. El término municipal es **Orihuela**, asignado por geocodificación oficial sobre las coordenadas exactas. El punto vigilado más cercano es el de la **CV-905, pk 7,0** (sentido decreciente): queda a 12,9 km hacia el norte.
 
+<iframe title="Mapa: radar n-332-46-9-decreciente-cabina" src="https://www.google.com/maps?q=37.90874,-0.75267&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-332-46-9-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=37.90874,-0.75267&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 Nos encontramos en la N-332, carretera nacional que sirve a Alicante. Es un eje con circulación heterogénea: pesados, turismos y motos comparten la calzada. Por aquí domina el paisaje de la costa alicantina.
