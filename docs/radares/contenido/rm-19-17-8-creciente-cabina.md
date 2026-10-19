@@ -12,6 +12,15 @@
 
 El punto controlado está en la autovía RM-19, pk 17,8, en Torre-Pacheco (Murcia), coordenadas 37.815662, -0.9375236. La cabina mira al sentido creciente, el del tráfico hacia puntos kilométricos mayores. Street View permite localizar la cabina antes de llegar.
 
+<iframe title="Mapa: radar rm-19-17-8-creciente-cabina" src="https://www.google.com/maps?q=37.815662,-0.9375236&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar rm-19-17-8-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=37.815662,-0.9375236&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La RM-19, autovía autonómica murciana, conecta Puerto de la Cadena con San Javier cruzando el Campo de Cartagena. Da servicio a los movimientos entre la capital y el Mar Menor, con tráfico que crece con fuerza en verano y en los puentes. El XML de la DGT no ofrece más información del tramo.
