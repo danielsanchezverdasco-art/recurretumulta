@@ -12,6 +12,15 @@
 
 La posición oficial de este control es la **A-3, punto kilométrico 156,6** (Cuenca). Controla el **sentido creciente** de la marcha: los puntos kilométricos crecientes. Las coordenadas son las oficiales del fichero DATEX II, en formato WGS84, sin redondeos por nuestra parte. El control fijo de la DGT más próximo es el de la **A-3, pk 136,0** (sentido decreciente), a 18,8 km hacia el noroeste. El segundo control más cercano es el de la **A-31, pk 11,6** (sentido creciente), a 30,7 km hacia el sureste. Se trata de un sector de paso, más que de destino: la mayoría de los vehículos solo están de tránsito.
 
+<iframe title="Mapa: radar a-3-156-6-creciente-cabina" src="https://www.google.com/maps?q=39.66443,-2.37396&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-3-156-6-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.66443,-2.37396&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La A-3 —la Autovía del Este, que une Madrid con Valencia— es uno de los ejes principales de la red estatal. La autovía soporta a diario una corriente circulatoria heterogénea, con pesados y ligeros compartiendo calzada. La ubicación de la cabina no es casual: es un punto donde la velocidad suele dispararse. La A-3 suma 3 puntos de control en Castilla-La Mancha; este ocupa el tercer lugar por pk. En la misma A-3, el control más próximo es el del pk 136,0 (sentido decreciente): dista 18,8 km hacia el noroeste. En definitiva, un tramo donde la disciplina con el acelerador marca la diferencia. La señalización de la vía es la guía principal: atenderla evita la mayoría de los problemas.
