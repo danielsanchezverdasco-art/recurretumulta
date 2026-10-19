@@ -12,6 +12,15 @@
 
 El cinemómetro se localiza en la **A-8, punto kilométrico 147,5**, en Cantabria, controlando el **sentido decreciente** en dirección **Euskadi** según la identificación de la DGT. Está en el entorno de Castro Urdiales, en el tramo costero oriental de la Autovía del Cantábrico, donde la autovía se ciñe al litoral entre acantilados y zonas urbanizadas. Es el tercero de los puntos de control que la DGT mantiene en pocos kilómetros en esta franja, lo que da idea de la intensidad de vigilancia del corredor.
 
+<iframe title="Mapa: radar a-8-147-5-decreciente-fijo" src="https://www.google.com/maps?q=43.3651,-3.2191&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-8-147-5-decreciente-fijo" src="https://maps.google.com/maps?q=&layer=c&cbll=43.3651,-3.2191&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La A-8 en la costa oriental cántabra es una autovía de alta intensidad con un entorno complicado: el mar a un lado, la montaña al otro y núcleos de población que generan un tráfico local superpuesto al de largo recorrido. Los enlaces se suceden a corta distancia y las incorporaciones de vehículos que acceden desde las localidades costeras obligan a una conducción preventiva. En días de temporal, el viento lateral y la lluvia pueden complicar la marcha incluso a velocidades moderadas.
