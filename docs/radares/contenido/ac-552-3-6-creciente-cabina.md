@@ -12,6 +12,14 @@
 
 El punto controlado se halla en la AC-552, pk 3,6, término de Arteixo (A Coruña), coordenadas 43.334854, -8.45364. El cinemómetro observa la circulación creciente —la que se dirige hacia pks más altos—, con destino Carballo según el registro oficial. Desde el enlace de Street View puede inspeccionarse el emplazamiento exacto.
 
+<iframe title="Mapa: radar ac-552-3-6-creciente-cabina" src="https://www.google.com/maps?q=43.334854,-8.45364&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar ac-552-3-6-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=43.334854,-8.45364&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La AC-552 es una carretera convencional de la red autonómica gallega, titularidad de la Xunta. El XML de la DGT la identifica con la singularidad «CARRETERA AUTONÓMICA». Sin información oficial sobre este tramo, la ficha no describe el entorno.
