@@ -393,3 +393,24 @@ Rama **`merlin-fichas-rescate`** @ `b7ef849d` (fast-forward desde main `1cd07f4c
 - `/media/motos/...` sigue existiendo en fichas viejas fuera del rescate (ajp-pr5, rs-457, etc., preexistentes en main): no las toqué, quedan para ti.
 - Pregunta: `aprilia-rs-125-2025` — su ficha apunta `analisisSlug: "aprilia-rs-125-2025-ficha-tecnica-precio"` pero ese slug no existe en main (solo hay variantes 2026). ¿A qué slug apunto la ficha?
 - Pregunta: yzf-r7-2024, cbr600rr-2024, xl750-transalp-2024, mt-09-2024 tienen `analisisSlug` a slugs que no existen en main (preexistente, fuera del rescate). ¿Los corrijo o los dejo?
+
+## 2026-10-19 ~05:35 CEST — @grok lote listo radares aragon limites
+
+Rama **`merlin-radares-aragon`** @ `a5883e08` (rebaseada sobre main `1cd07f4c`, 17 commits lineales, sin force).
+
+**Qué se hizo:**
+- **Rebase** sobre main `1cd07f4c` (la rama salía de la base vieja `c4794c0`): 15 commits propios recreados con mensajes intactos, verificado contra la API (51 ficheros bajo `docs/radares/` intactos).
+- **Rename** `docs/radares/radares.csv` → `docs/radares/radares-aragon.csv` (un CSV por comunidad, como pediste; `radares.csv` queda libre para la rama `radares` de Niky).
+- **Investigación de límites y municipios** en los 50 radares, punto por punto, solo con fuente oficial. Diario por radar en `hidden_files/radares-limites-aragon/` (lote-N-diario.md + lote-N-resultados.csv).
+
+**Resultado:**
+- **velocidad_limite: 50/50 rellenos.** 4 con límite ESPECÍFICO oficial: los 4 fijos del túnel de Somport (N-330 pk 667–672) → **80 km/h** por RD 635/2006 anexo III 2.14.4 + Resolución DGT 24/01/2024 (BOE-A-2024-1773). Los otros 46 con límite GENÉRICO oficial por tipo de vía: **120** (17, autovías A-2/A-23/A-68 + 2 puntos N-330 en tramo de autovía) y **90** (29, convencionales). Tipo de vía verificado en el campo `singularity` del propio XML oficial de cinemómetros de la DGT (AUTOPISTA/AUTOVÍA, CARRETERA NACIONAL, CARRETERA AUTONÓMICA, TÚNEL); genérico según Reglamento General de Circulación art. 48 (RD 1428/2003). **Ningún punto tiene «limite pendiente».**
+- **municipio: 47/50 rellenos** con geocodificador inverso oficial CartoCiudad (IGN/CNIG), con muniCode. 3 vacíos honestos: `a-220-1-6` y `n-330-668-7` / `n-330-670-1` (CartoCiudad devuelve 204 sin resultado; no se inventó nada; candidatos probables anotados en los diarios).
+- **Verificación propia:** 0 `id_unico` repetidos · 0 pares a <0,5 km · 0 colisiones contra tu CSV de la rama `radares` (451 filas) · CSV sintácticamente válido.
+
+**Fuentes usadas:** XML oficial DGT de cinemómetros (nap.dgt.es, campo `singularity`), RD 1428/2003 art. 48 (DGT), RD 635/2006 + BOE-A-2024-1773 (túnel Somport), CartoCiudad IGN (municipios). La DGT no publica límites por punto en ninguna de sus publicaciones oficiales (verificado en el informe de cinemómetros).
+
+**Preguntas para ti (no improviso):**
+1. Los 46 límites genéricos por tipo de vía ¿valen para publicar, o quieres que esas celdas queden en «limite pendiente» hasta verificar señalización punto por punto? Yo los rellené con fuente oficial (RGC), pero la decisión de publicación es tuya.
+2. Los 3 municipios vacíos: ¿los dejo vacíos o aceptas los candidatos probables del diario (La Almunia de Doña Godina para a-220-1-6; zona Somport para los otros dos)?
+3. N-125 pk 5,7 y 7,8 (tramo Zaragoza–aeropuerto): apliqué 90 genérico, pero dos webs no oficiales discrepan (100 vs 90). Si ese tramo tuviera calzadas separadas, el genérico sería 100. ¿Lo verificas con el titular (MITMA) o lo dejo en 90?
