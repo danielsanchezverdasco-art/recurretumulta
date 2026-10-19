@@ -2975,3 +2975,18 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/dualtron-pop-hunt1.webp | https://cadjeemobility.re/products/trottinettes-electrique-dualtron-pop | cadjeemobility.re | desconocida |
 | /media/dualtron-pop-hunt2.webp | https://store.urban360.es | urban360.es | desconocida |
 | /media/dualtron-pop-hunt3.webp | https://sunwheelusa.com/products/dualtron-popular-electric-scooter | sunwheelusa.com | desconocida |
+| /media/pure-air-6-ultra-max-hunt1.webp | https://www.pureelectric.com/products/air-6-ultra-max-suspension | Pure Electric (foto oficial de producto) | desconocida |
+| /media/pure-air-6-ultra-max-hunt2.webp | https://se.pureelectric.com/products/pure-air6-ultra-max-suspension | Pure Electric (foto oficial de producto) | desconocida |
+| /media/pure-air-6-ultra-max-hunt3.webp | https://www.pureelectric.com/products/air-6-ultra-max-suspension | Pure Electric (foto oficial de producto) | desconocida |
+| /media/dualtron-pop-dual-hunt1.webp | https://cadjeemobility.re/cdn/shop/files/DUALTRON_POP_1-1.jpg?v=1715845988&width=1100 | Cadjee Mobility | desconocida |
+| /media/dualtron-pop-dual-hunt2.webp | https://fixwheel.fr/cdn/shop/files/MINIMOTORS_Dualtron_Pop_52V_14AH_-_1_ba9aeafe-589b-4616-8d0d-9dd6632cd267.jpg?v=1718980947&width=720 | FixWheel | desconocida |
+| /media/dualtron-pop-dual-hunt3.webp | https://dualtroneurope.com/2730-home_default_2x/dualtron-poppopular-dual-motor.jpg | Dualtron Europe | desconocida |
+| /media/lepas-l6-ev-2026-precio-ficha-tecnica-hunt1.webp | https://www.chasingcars.com.au/wp-content/uploads/2026/06/Lepas-L6-2026-2.jpg | Chasing Cars | desconocida |
+| /media/lepas-l6-ev-2026-precio-ficha-tecnica-hunt2.webp | https://www.automachi.com/wp-content/uploads/2026/07/LEPAS-L6-EV-9-768x512.jpg | Automachi | desconocida |
+| /media/lepas-l6-ev-2026-precio-ficha-tecnica-hunt3.webp | https://da4dkroembtou.cloudfront.net/wp-content/uploads/2026/08/LEPAS-L6-EV-Interior-Cabin-Custom.jpg | CarSifu | desconocida |
+| /media/roewe-imax8-dmh-2024-precio-ficha-tecnica-hunt1.webp | https://s3.xchuxing.com/xchuxing/car-attachment/2024/11/06/17a15202411061102236610.png | 新出行 xchuxing.com | desconocida |
+| /media/roewe-imax8-dmh-2024-precio-ficha-tecnica-hunt2.webp | https://s3.xchuxing.com/xchuxing/article/2024/10/30/af57d202410302013499937.jpg | 新出行 xchuxing.com | desconocida |
+| /media/roewe-imax8-dmh-2024-precio-ficha-tecnica-hunt3.webp | https://s3.xchuxing.com/xchuxing/article/2024/11/08/a08d9202411081919371859.jpeg | 新出行 xchuxing.com | desconocida |
+| /media/yamaha-mt-10-2025-ficha-tecnica-precio-hunt1.webp | https://images.squarespace-cdn.com/content/v1/63e07fb94b92520cb2cf1826/f7ac247a-cad4-4efc-b1a8-f7b9d2250d1c/2025_MT10_MLNM4_AUS_STU_003.jpg?format=750w | Yamaha Motor (foto de prensa) | desconocida |
+| /media/yamaha-mt-10-2025-ficha-tecnica-precio-hunt2.webp | https://www.yamaha-motor.co.jp/mc/lineup/mt-10/img/mt-10_index_gallery_2025_006.jpg | Yamaha Motor Co., Ltd. (foto oficial) | desconocida |
+| /media/yamaha-mt-10-2025-ficha-tecnica-precio-hunt3.webp | https://ridermagazine.com/wp-content/uploads/2024/11/2025-Yamaha-MT-10-SP-1.jpg | Rider Magazine | desconocida |
