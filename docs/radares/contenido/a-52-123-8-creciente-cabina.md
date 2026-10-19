@@ -11,6 +11,14 @@
 ## Dónde está
 
 En la A-52, pk 123,8, término de A Gudiña (Ourense), se encuentra la cabina: 42.05526, -7.10273. Vigila el sentido creciente —vehículos hacia pks mayores—, con destino Porriño según la DGT. Street View permite ver el emplazamiento.
+
+<iframe title="Mapa: radar a-52-123-8-creciente-cabina" src="https://www.google.com/maps?q=42.05526,-7.10273&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-52-123-8-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.05526,-7.10273&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
 ## La carretera
 
 La A-52 es una autovía estatal de doble calzada y accesos controlados. La DGT le asigna la singularidad «AUTOPISTA / AUTOVÍA». El XML no detalla el tramo del pk 123,8.
