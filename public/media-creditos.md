@@ -2644,3 +2644,28 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/segway-ninebot-f30-hunt1.webp | https://more4motion.eu/cdn/shop/products/kick-scooter-segway-ninebot-kickscooter-f30-1_1200x.jpg?v=1702474381 | More4Motion | desconocida |
 | /media/segway-ninebot-f30-hunt2.webp | http://electrozone.store/wp-content/uploads/2024/01/Ninebot_segway_F30_electrozone-6.jpg | Electrozone | desconocida |
 | /media/segway-ninebot-f30-hunt3.webp | https://shop.panmi.com.au/cdn/shop/files/productpicture-01_bbaeacd1-cfb9-470e-bb2d-59084d34aeae.png?v=1691481117 | Panmi Australia | desconocida |
+| /media/skoda-enyaq-60-2026-precio-ficha-tecnica-hunt1.webp | https://images.carexpert.com.au/resize/1920/-/app/uploads/2025/09/2026-Skoda-Enyaq-60-Select-renders-2.jpeg | CarExpert | desconocida |
+| /media/skoda-enyaq-60-2026-precio-ficha-tecnica-hunt2.webp | https://www.carscoops.com/wp-content/uploads/2026/05/Skoda-Enyaq-60-Review-04-1024x682.jpg | Carscoops | desconocida |
+| /media/skoda-enyaq-60-2026-precio-ficha-tecnica-hunt3.webp | https://www.chasingcars.com.au/wp-content/uploads/2025/09/Skoda_Enyaq_wagon.png | Chasing Cars | desconocida |
+| /media/stelato-s9t-erev-2026-precio-ficha-tecnica-hunt1.webp | https://auto-dealer-online.ru/electric-cars/stelato-s9t/ | Auto Dealer Online | desconocida |
+| /media/stelato-s9t-erev-2026-precio-ficha-tecnica-hunt2.webp | https://www.electrive.com/2025/09/04/stelato-launches-pre-sales-for-the-s9t-in-china/ | Electrive | desconocida |
+| /media/stelato-s9t-erev-2026-precio-ficha-tecnica-hunt3.webp | https://www.headlightmag.com/news-stelato-s9t-previewed-2/ | Headlight Magazine | desconocida |
+| /media/cfmoto-125nk-2025-ficha-tecnica-precio-hunt1.webp | https://www.1000ps.com/de-at/modell/12900/cfmoto-125nk/2025 | 1000ps.com (foto oficial del modelo) | desconocida |
+| /media/cfmoto-125nk-2025-ficha-tecnica-precio-hunt2.webp | https://cfmoto.al/automjete/125nk/ | CFMOTO Albania (concesionario oficial) | desconocida |
+| /media/cfmoto-125nk-2025-ficha-tecnica-precio-hunt3.webp | https://www.motorbiten.com/ | motorbiten.com (foto del modelo) | desconocida |
+| /media/audi-r8-2025-precio-ficha-tecnica-hunt1.webp | https://www.audi-mediacenter.com/en/audi-r8-coupe-v10-performance-until-2024-14429 | Audi AG | Prensa oficial (desconocida) |
+| /media/audi-r8-2025-precio-ficha-tecnica-hunt2.webp | https://www.audi-mediacenter.com/en/audi-r8-coupe-v10-performance-until-2024-14429 | Audi AG | Prensa oficial (desconocida) |
+| /media/audi-r8-2025-precio-ficha-tecnica-hunt3.webp | https://www.zastavki.com/rus/756/ | Zastavki.com (foto de prensa Audi) | desconocida |
+| /media/kaabo-wolf-king-hunt1.webp | https://freshlycharged.com/articles/112/kaabo-wolf-warrior-11-vs-the-new-kaabo-wolf-king | Freshly Charged | desconocida |
+| /media/voge-525acx-2025-ficha-tecnica-precio-hunt1.webp | https://www.canariasenmoto.com/index.php?pagina=galeria&ver=imagen&idn=&id=70749 | Canarias en Moto | desconocida |
+| /media/voge-525acx-2025-ficha-tecnica-precio-hunt2.webp | https://www.canariasenmoto.com/index.php?pagina=galeria&ver=imagen&idn=28072&id=70750 | Canarias en Moto | desconocida |
+| /media/voge-525acx-2025-ficha-tecnica-precio-hunt3.webp | https://vogemotorcycles.com/model/2024-voge-525-acx-1346/pmw-scooters-bikes-54 | PMW Scooters & Bikes | desconocida |
+| /media/citroen-c3-aircross-hibrido-2026-precio-ficha-tecnica-hunt1.webp | https://www.carmagazine.co.uk/car-reviews/citroen/c3-aircross | Car Magazine (Bauer Media) | desconocida |
+| /media/citroen-c3-aircross-hibrido-2026-precio-ficha-tecnica-hunt2.webp | https://www.carmagazine.co.uk/car-reviews/citroen/c3-aircross | Car Magazine (Bauer Media) | desconocida |
+| /media/citroen-c3-aircross-hibrido-2026-precio-ficha-tecnica-hunt3.webp | https://www.carexpert.com.au/car-news/2025-citroen | CarExpert | desconocida |
+| /media/toyota-bz7-2026-precio-ficha-tecnica-hunt1.webp | https://carnewschina.com/2026/03/05/toyotas-bz7-with-huawei- | CarNewsChina | desconocida |
+| /media/toyota-bz7-2026-precio-ficha-tecnica-hunt2.webp | https://carnewschina.com/2025/12/07/toyota-bz7-arrives-in-ch | CarNewsChina | desconocida |
+| /media/toyota-bz7-2026-precio-ficha-tecnica-hunt3.webp | https://car2day.com/toyota-bz7-with-huawei-harmonyos-in | car2day | desconocida |
+| /media/toyota-bz4x-touring-2026-precio-ficha-tecnica-hunt1.webp | https://evpowered.co.uk/news/toyota-bz4x-touring-debuts-as-376bhp-awd-estate-sibling-to-subaru-trailseeker-ev/ | EV Powered (foto de prensa Toyota) | desconocida |
+| /media/toyota-bz4x-touring-2026-precio-ficha-tecnica-hunt2.webp | https://www.fleetnews.co.uk/electric-fleet/electric-car-and-van-data/toyota/bz4x-touring-3401 | Fleet News (foto de prensa Toyota) | desconocida |
+| /media/toyota-bz4x-touring-2026-precio-ficha-tecnica-hunt3.webp | https://motorjobs.dk/ledige-stillinger/salgschef-soeges-til-djarlo-automobiler-as-nordsjaelland-24140/ | motorjobs.dk (foto de prensa Toyota) | desconocida |
