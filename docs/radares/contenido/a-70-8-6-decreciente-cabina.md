@@ -12,6 +12,14 @@
 
 El emplazamiento del control es el **pk 8,6 de la A-70** (provincia de Alicante, Comunitat Valenciana). Supervisa el **sentido decreciente**, el del avance hacia puntos kilométricos decrecientes. El geocodificador del IGN sitúa estas coordenadas en **Sant Joan d'Alacant** (Alicante). El control fijo de la DGT más próximo es el de la **A-70, pk 6,5** (sentido decreciente), a 1,4 km hacia el norte.
 
+<iframe title="Mapa: radar a-70-8-6-decreciente-cabina" src="https://www.google.com/maps?q=38.40273,-0.44863&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-70-8-6-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.40273,-0.44863&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 Circulamos por la A-70, la Autovía de Circunvalación de Alicante, primer cinturón de la ciudad. Por este punto pasan tanto vehículos de paso como tráfico local de la comarca. El marco geográfico es el corredor del Vinalopó y la costa.
