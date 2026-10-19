@@ -12,6 +12,15 @@
 
 Nos situamos en el **pk 11,6 de la A-31**, en plena provincia de Cuenca. Mide la velocidad en el **sentido creciente**, el de los pk crecientes. Cuenca es la provincia que figura en el fichero de la DGT para este punto; el término municipal concreto no se difunde. A 16,2 km hacia el este está el control más próximo, el de la **N-310, pk 191,4** (sentido decreciente). El segundo control más cercano es el de la **N-301, pk 191,2** (sentido decreciente), a 19,7 km hacia el suroeste. Quien circula por aquí suele llevar ya muchos kilómetros encima: el cansancio también suma riesgo.
 
+<iframe title="Mapa: radar a-31-11-6-creciente-cabina" src="https://www.google.com/maps?q=39.41867,-2.2099&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-31-11-6-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.41867,-2.2099&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La carretera en cuestión es la A-31, la autovía que une Atalaya del Cañavate con Albacete y Alicante. El uso de la autovía reparte su intensidad entre las puntas laborales y los flujos de fin de semana. La DGT mantiene aquí un control fijo porque es un tramo donde la velocidad tiende a despegarse de lo señalizado. La A-31 suma 4 puntos de control en Castilla-La Mancha; este ocupa el primer lugar por pk. Dentro de la propia A-31, el siguiente punto vigilado es el del pk 50,6 (sentido creciente), a 33,5 km hacia el sureste. La experiencia dice que aquí conviene llevar el límite siempre presente. No hay dos tramos iguales: este tiene sus particularidades y conviene conocerlas antes de pisar el acelerador.
