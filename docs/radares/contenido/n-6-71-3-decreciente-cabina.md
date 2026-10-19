@@ -11,6 +11,14 @@
 ## Dónde está el radar
 El punto vigilado está en el pk 71.26 de la N-6, en término de El Espinar (Segovia), y controla el sentido decreciente —hacia Madrid, el de los puntos kilométricos en descenso—, con coordenadas 40.7468, -4.2813 (WGS84). El enlace de Street View de la cabecera muestra la vista exacta del lugar.
 
+<iframe title="Mapa: radar n-6-71-3-decreciente-cabina" src="https://www.google.com/maps?q=40.7468,-4.2813&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-6-71-3-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.7468,-4.2813&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La N-6
 La N-6 es la carretera nacional que une Madrid con A Coruña por vía convencional.
 
