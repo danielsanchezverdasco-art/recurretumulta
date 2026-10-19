@@ -1798,3 +1798,6 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/lynk-co-10-em-p-2025-precio-ficha-tecnica-hunt1.webp | https://insidechinaauto.com/2025/08/17/lynk-co-10-em-p-pre-sales-begin-in-china/ | insidechinaauto.com | desconocida |
 | /media/lynk-co-10-em-p-2025-precio-ficha-tecnica-hunt2.webp | https://insidechinaauto.com/2025/07/05/lynk-co-10-em-p-debuts-as-tech-packed-plug-in-hybrid-sedan/ | Lynk & Co / insidechinaauto.com | desconocida |
 | /media/lynk-co-10-em-p-2025-precio-ficha-tecnica-hunt3.webp | https://wcevcar.com/en/car/lynk-co-10-em-p-2025 | wcevcar.com | desconocida |
+| /media/benelli-trk-902-stradale-2025-ficha-tecnica-precio-hunt1.webp | https://www.benelli.com/pt-pt/products/trk-902-stradale | Benelli (foto oficial, cdn.keeway.com) | desconocida |
+| /media/benelli-trk-902-stradale-2025-ficha-tecnica-precio-hunt2.webp | https://benelli-moto.gr/motosikletes/trk/trk-902-stradale | Benelli Moto Grecia (distribuidor oficial) | desconocida |
+| /media/benelli-trk-902-stradale-2025-ficha-tecnica-precio-hunt3.webp | https://soymotero.net/motos/benelli/trk-902-stradale-2026/ | SoyMotero.net | desconocida |
