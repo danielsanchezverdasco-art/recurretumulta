@@ -1182,3 +1182,28 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/chery-tiggo-8-csh-2025-precio-ficha-tecnica-hunt1.webp | https://www.cherycar.co.uk/models/tiggo-8-csh | desconocida |  |
 | /media/chery-tiggo-8-csh-2025-precio-ficha-tecnica-hunt2.webp | https://www.cherycar.co.uk/motability | desconocida |  |
 | /media/chery-tiggo-8-csh-2025-precio-ficha-tecnica-hunt3.webp | https://www.chery.com.ec/tiggo-8-phev-csh-chery-ecuador | desconocida |  |
+| /media/volvo-em90-2024-precio-ficha-tecnica-hunt1.webp | https://images.carexpert.com.au/app/uploads/2023/11/2024-Volvo-EM90-03.jpg | CarExpert | desconocida |
+| /media/volvo-em90-2024-precio-ficha-tecnica-hunt2.webp | https://www.dailyrevs.com/cars/2024-volvo-em90 | DailyRevs | desconocida |
+| /media/volvo-em90-2024-precio-ficha-tecnica-hunt3.webp | https://www.sgcarmart.com/articles/news/the-volvo-em90-is-a-living-room-on-wheels-34097 | Sgcarmart / Volvo | desconocida |
+| /media/chery-arrizo-8-csh-2026-precio-ficha-tecnica-hunt1.webp | https://www.cheryinternational.com/pc/models/arrizo/arrizo8/index.shtml | Chery International (foto oficial del fabricante) | desconocida |
+| /media/chery-arrizo-8-csh-2026-precio-ficha-tecnica-hunt2.webp | https://www.zigwheels.ae/new-cars/chery/arrizo-8/colors | Zigwheels (foto del modelo) | desconocida |
+| /media/chery-arrizo-8-csh-2026-precio-ficha-tecnica-hunt3.webp | https://www.log.com.tr/chery-ilk-ceyrekte-satislarini-yuzde-171-artirdi/ | log.com.tr (foto oficial Chery) | desconocida |
+| /media/volkswagen-arteon-2025-precio-ficha-tecnica-hunt1.webp | https://www.gosee.de/images/preview/fc/1260x-bigjsc-vw-arteon03.jpg | gosee.de (foto del modelo) | desconocida |
+| /media/volkswagen-arteon-2025-precio-ficha-tecnica-hunt2.webp | https://carbuzz.com/cars/volkswagen/arteon/2024-volkswagen-arteon-sel-premium-r-line-4motion/ | carbuzz.com (foto del modelo) | desconocida |
+| /media/volkswagen-arteon-2025-precio-ficha-tecnica-hunt3.webp | https://www.actualidadmotor.com/renovacion-volkswagen-arteon-llegara-eeuu-ano/ | actualidadmotor.com (foto del modelo) | desconocida |
+| /media/volkswagen-id7-gtx-2025-precio-ficha-tecnica-hunt1.webp | https://media.volkswagen.com/Vilma/V/ED2/2025/Side_Right/c18c0427dfa378d882fd284c8e770f7f40c66ae090112c54cf8d661f959df62b.png?width=1920 | Volkswagen (prensa oficial) | desconocida |
+| /media/volkswagen-id7-gtx-2025-precio-ficha-tecnica-hunt2.webp | https://assets.volkswagen.com/is/image/volkswagenag/IC1053_ID7_GTX-3 | Volkswagen (prensa oficial) | desconocida |
+| /media/volkswagen-id7-gtx-2025-precio-ficha-tecnica-hunt3.webp | https://www.carthrottle.com/sites/default/files/uploads/2025-05/Original-38675-id7-gtx-05%202.jpg | CarThrottle | desconocida |
+| /media/joyor-f5s-hunt1.webp | https://electricalthingspain.com/comprar/patinete-electrico-joyor-f5s/ | Electrical Things Spain | desconocida |
+| /media/qjmotor-srv-600v-2025-ficha-tecnica-precio-hunt1.webp | https://qjmotor.es/Moto/srv-600v/ | QJMotor España / qjmotor.es | desconocida |
+| /media/qjmotor-srv-600v-2025-ficha-tecnica-precio-hunt2.webp | https://mgp.gr/content.aspx?id=50697 | QJMotor / MotoGrandPrix.gr | desconocida |
+| /media/qjmotor-srv-600v-2025-ficha-tecnica-precio-hunt3.webp | https://www.motocykle-krakow.pl/qjmotor/qjmotor-srv-600v/ | QJMotor Polska / motocykle-krakow.pl | desconocida |
+| /media/bmw-x4-2025-precio-ficha-tecnica-hunt1.webp | https://www.autoblog.com/cars/bmw/x4/2025 | BMW / Autoblog | desconocida |
+| /media/bmw-x4-2025-precio-ficha-tecnica-hunt2.webp | https://www.hotrod.com/cars/bmw/x4/2025/photos | BMW / MotorTrend | desconocida |
+| /media/bmw-x4-2025-precio-ficha-tecnica-hunt3.webp | https://www.guideautoweb.com/constructeurs/bmw/x4/2025/specifications/m-competition/ | BMW / GuideAutoWeb | desconocida |
+| /media/chery-explorer-06-2024-precio-ficha-tecnica-hunt1.webp | https://www.dailyrevs.com/cars/2024-chery-automobiles-explore-06-c-dm | Chery / Dailyrevs | desconocida |
+| /media/chery-explorer-06-2024-precio-ficha-tecnica-hunt2.webp | https://used-china.com/listings/chery-explore-06-c-dm/ | Chery / Used-China.com | desconocida |
+| /media/chery-explorer-06-2024-precio-ficha-tecnica-hunt3.webp | https://lv.auto-007.net/chery/chery-petrol-car/chery-explore-06-petrol-car.html | Chery / auto-007.net | desconocida |
+| /media/tank-400-hi4-t-2025-precio-ficha-tecnica-hunt1.webp | https://chinavehicles.en.made-in-china.com/product/YADplUnHBRcT/China-Gwm-Automotive-Tank-400-Hi4-T-New-Energy-Hybrid-SUV-Electric-Car.html | GWM Tank / Made-in-China (China Vehicles) | desconocida |
+| /media/tank-400-hi4-t-2025-precio-ficha-tecnica-hunt2.webp | https://evmagz.com/tank-unveils-the-tank-400-hi4-t-expanding-its-hybrid-lineup-in-china/ | GWM Tank / EVMagz | desconocida |
+| /media/tank-400-hi4-t-2025-precio-ficha-tecnica-hunt3.webp | https://www.ixbt.com/news/2025/07/17/tank-400-hi4-t-2025-5-2-5.html | iXBT.com | desconocida |
