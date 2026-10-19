@@ -611,4 +611,137 @@ export const ANALISIS_COCHE_20: MapaAnalisis = {
     ],
     veredicto: "Para transporte colectivo, hoteles o familias muy numerosas que necesitan 8 plazas reales; no para uso urbano diario.",
   },
+  "renault-5-turbo-3e-2026-precio-ficha-tecnica": {
+    parrafos: [
+      "Cuarenta años después del R5 Turbo que enloqueció los rallies, Renault devuelve el golpe con el coche más radical de su historia: 540 CV, dos motores integrados en las ruedas traseras y 4.800 Nm que catapultan este biplaza de 0 a 100 en 3,5 segundos hasta los 270 km/h. La carrocería de carbono deja el peso en 1.450 kg y la arquitectura de 800 voltios admite cargas de 350 kW, del 15 al 80 % en 15 minutos. Sobre el papel, un superdeportivo con acento francés y etiqueta Cero.",
+      "Pero el 5 Turbo 3E no se compra con la calculadora: cuesta 155.000 €, solo existirán 1.980 unidades numeradas y las entregas no empiezan hasta 2027. La autonomía de 400 km se evapora si se explota su potencial, el maletero es testimonial y el seguro será de superdeportivo. Es un objeto de colección rodante, el capricho definitivo para quien vivió la era de los Grupo B o para quien intuya que, dentro de veinte años, valdrá más que hoy.",
+    ],
+    veredicto: "Para coleccionistas y nostálgicos del R5 Turbo original con 155.000 € para un juguete de 540 CV; no para quien busque un eléctrico utilizable a diario.",
+  },
+  "renault-arkana-2026-e-tech-145-precio-ficha-tecnica": {
+    parrafos: [
+      "El Arkana E-Tech 145 de 2026 llega con una paradoja: cuesta 33.010 €, más de 5.000 € por encima de lo que pedía en 2024, por el mismo SUV coupé híbrido de 145 CV. La fórmula no ha cambiado, 4,7 l/100 km, 105 g/km, etiqueta ECO y más de 1.000 km por depósito, pero el mercado sí: el Austral, más moderno, acecha por poco más, y los rivales chinos aprietan por debajo.",
+      "¿Sigue teniendo sentido? En nuestra opinión, sí para un perfil concreto: quien hace mucha ciudad y quiere un híbrido completo probado, con una mecánica que los talleres conocen al dedillo y un maletero de 480 litros digno pese a la batería. El 0-100 en 10,8 segundos y la caja multimodo siguen pidiendo calma, y la caída del techo castiga la visibilidad trasera y la plaza central. No es el Arkana de 2024 a precio de saldo: es el mismo coche, más caro, que se defiende por fiabilidad demostrada y consumo imbatible sin enchufe.",
+    ],
+    veredicto: "Para quien busca un híbrido completo probado y eficiente para mucha ciudad; no para quien espere gangas de fin de serie ni prestaciones.",
+  },
+  "renault-arkana-2026-tce-140-precio-ficha-tecnica": {
+    parrafos: [
+      "El Arkana TCe 140 de 2026 se vende casi como un secreto a voces: es el Arkana más barato del catálogo, 30.735 €, y esconde el 1.3 turbo de 140 CV con microhibridación de 48 voltios y etiqueta ECO. Su cambio EDC de doble embrague y 7 marchas ofrece un tacto convencional que la caja multimodo del E-Tech no tiene, y los 260 Nm le dan un 0-100 en 9,8 segundos, mejor registro que el del híbrido completo.",
+      "El maletero de 513 litros es el más generoso de la gama, porque aquí no hay batería que robe espacio, y el diseño coupé sigue diferenciándose en 2026. El reverso: 5,8 l/100 km y 132 g/km, casi un litro más que el E-Tech, y unas plazas traseras con altura justa por la caída del techo. En nuestra opinión, es el Arkana para quien disfruta conduciendo y hace mucha carretera; el urbanita puro seguirá prefiriendo el full hybrid.",
+    ],
+    veredicto: "Para conductores de carretera que valoran un cambio convencional y el maletero más grande; no para urbanitas intensivos, que amortizarán el E-Tech.",
+  },
+  "renault-austral-2026-e-tech-200-precio-ficha-tecnica": {
+    parrafos: [
+      "Hay un dato del Austral que no aparece en la ficha pero pesa en la compra: se fabrica en Palencia. El SUV medio de Renault llega a 2026 con un restyling que estrena frontal y el acabado esprit Alpine, manteniendo la receta que lo hizo fuerte: 200 CV híbridos, 4,7 l/100 km, 107 g/km y etiqueta ECO desde 36.909 €. Los 410 Nm de par del sistema explican el 0-100 en 8,4 segundos, y el maletero alcanza 555 litros con la banqueta trasera deslizante.",
+      "Frente al modelo anterior, el salto es estético y de equipamiento más que mecánico, pero llega en buen momento: con hasta 1.100 km de autonomía por depósito, es el C-SUV híbrido que menos visita la gasolinera. La caja multimodo sigue pidiendo paciencia en maniobras lentas, y no hay tracción total ni etiqueta Cero. A cambio, es apostar por la industria nacional con una de las mecánicas más eficientes del segmento.",
+    ],
+    veredicto: "Para familias que quieren el SUV medio híbrido más eficiente con fabricación española; no para quien necesite tracción total o etiqueta Cero.",
+  },
+  "renault-captur-2026-e-tech-160-precio-ficha-tecnica": {
+    parrafos: [
+      "El Captur estrena corazón en 2026: un 1.8 híbrido de 160 CV que lo convierte en el Captur híbrido más rápido hasta la fecha, con un 0-100 en 8,9 segundos. El consumo queda en 4,4 l/100 km con solo 99 g/km de CO₂, cifras que le otorgan la etiqueta ECO desde 27.110 €. La caja multimodo sin embrague brilla en ciudad, donde circula en modo eléctrico gran parte del tiempo con una suavidad notable.",
+      "El reverso es conocido: el maletero se queda en 326 litros, el tricilíndrico se hace oír cuando se le exige y no existe versión enchufable. Con 99 g/km, la fiscalidad es amable y la etiqueta ECO abre las zonas de bajas emisiones sin restricciones. Pero en nuestra opinión, este 160 CV resuelve la principal pega del Captur híbrido anterior, la falta de empuje, sin penalizar el consumo. Para el conductor urbano que quiere un B-SUV con chispa y etiqueta ECO, es la versión más redonda de la gama.",
+    ],
+    veredicto: "Para urbanitas que quieren el Captur híbrido con más empuje y etiqueta ECO; no para familias que necesiten un maletero grande.",
+  },
+  "renault-captur-2026-tce-90-precio-ficha-tecnica": {
+    parrafos: [
+      "El Captur TCe 90 es el último mohicano de una especie en extinción: un SUV de gasolina pura, sencilla y barata de mantener, con 90 CV en plena era de la hibridación obligatoria. Acelera de 0 a 100 en 14 segundos, no nos engañemos, es lento, pero a cambio ofrece el maletero más generoso de la gama Captur, 422 litros con banqueta deslizante, y una mecánica 1.0 de mantenimiento irrisorio en un tamaño urbano ideal para el día a día.",
+      "Con 5,8 l/100 km y etiqueta C, no es la compra racional para quien haga muchos kilómetros: el E-Tech 160 gasta menos y luce la ECO. Pero para el segundo coche familiar, el conductor novel o quien ruede 8.000 km al año por ciudad, pagar la hibridación no se amortiza jamás. En nuestra opinión, este TCe 90 es la compra más honesta de la gama: no finge lo que no es y hace exactamente lo que promete con el menor desembolso.",
+    ],
+    veredicto: "Para quien hace pocos kilómetros y quiere el Captur más sencillo y barato de mantener; no para grandes rodadores, que deben mirar al E-Tech.",
+  },
+  "renault-espace-2025-e-tech-200-precio-ficha-tecnica": {
+    parrafos: [
+      "Espace es el nombre con más historia de Renault: inventó el monovolumen europeo en los ochenta y hoy sobrevive como SUV de hasta siete plazas. La versión 2025 E-Tech 200 es la puerta de entrada al gran híbrido de la marca: 199 CV, 4,8 l/100 km y etiqueta ECO desde 40.284 €, el SUV grande híbrido más asequible del mercado. El maletero de 581 litros en configuración de cinco plazas está entre los mejores del segmento.",
+      "Con siete plazas el maletero baja a 477 litros y la tercera fila solo sirve para niños o trayectos cortos, los peajes habituales del formato. El 0-100 en 8,8 segundos confirma que esto va de viajar tranquilo, no de correr, y los 1.662 kg en orden de marcha son contenidos para un SUV de 4,75 metros. Frente al Espace 2026, este 2025 es la opción del comprador avispado: la misma mecánica híbrida por menos dinero, a cambio de renunciar al último restyling.",
+    ],
+    veredicto: "Para familias numerosas que quieren el gran SUV híbrido más barato; no para quien necesite la última actualización o una tercera fila amplia.",
+  },
+  "renault-espace-2026-e-tech-200-precio-ficha-tecnica": {
+    parrafos: [
+      "El Espace 2026 afina al buque insignia familiar de Renault sin tocar lo esencial: 200 CV híbridos, 4,8 l/100 km, 108 g/km y etiqueta ECO, ahora desde 41.914 € en acabado Techno. La novedad está en el chasis 4Control Advanced del acabado esprit Alpine, con las ruedas traseras directrices que recortan el radio de giro de este gigante de 4,72 metros, y en un interior que sube el listón de materiales y presentación.",
+      "Sigue sin versión enchufable ni etiqueta Cero, y con siete plazas el maletero se queda en 520 litros: a familia completa, el equipaje viaja justo. Pero los 1.100 km de autonomía con el depósito de 55 litros lo convierten en un devorakilómetros familiar, y abatiendo asientos el maletero crece hasta 2.054 litros. La banqueta trasera deslizante permite repartir el espacio entre piernas y carga según la necesidad del día. Es el Espace más completo jamás fabricado, aunque el acabado Iconic de siete plazas roce los 49.000 €.",
+    ],
+    veredicto: "Para familias grandes que quieren el Espace más refinado con chasis 4Control; no para quien busque etiqueta Cero o el precio más bajo, donde manda el 2025.",
+  },
+  "renault-grand-kangoo-e-tech-2026-precio-ficha-tecnica": {
+    parrafos: [
+      "El Grand Kangoo E-Tech ocupa un nicho casi vacío: es el único monovolumen eléctrico de siete plazas reales por 38.080 €. Con 4,91 metros, puertas correderas y asientos traseros extraíbles, resuelve la logística de la familia numerosa, sillas infantiles, abuelos y compra semanal, con un coste por kilómetro mínimo y etiqueta Cero. Los 122 CV y 245 Nm bastan para el uso previsto, y la posición elevada regala una visibilidad excelente.",
+      "La honestidad obliga: 285 km de autonomía WLTP con la batería de 45 kWh lo confinan al uso local, y la carga rápida de 80 kW no invita a viajar. Es un coche para cargar en casa cada noche y moverse en un radio de cien kilómetros. La altura de 1,82 metros facilita el acceso de los niños y la carga de objetos voluminosos. Para la familia numerosa urbana que vive así cada día, no existe alternativa eléctrica equivalente; para la que viaja a menudo, el diésel sigue mandando.",
+    ],
+    veredicto: "Para familias numerosas urbanas con carga en casa que quieren siete plazas eléctricas; no para viajeras, a las que 285 km se les quedarán cortos.",
+  },
+  "renault-kangoo-camper-2026-precio-ficha-tecnica": {
+    parrafos: [
+      "La Kangoo Camper no es una autocaravana: es una filosofía. Parte de la furgoneta compacta de 4,49 metros con el diésel de 115 CV y 270 Nm, y propone camperizar sin obras: kits de cama que no exigen homologación, un maletero diáfano para todo el equipo y cinco plazas para el día a día. Entre semana lleva a los niños al colegio y el fin de semana duerme a dos personas junto a la playa.",
+      "Los límites están claros: sin techo elevable de serie no se puede estar de pie dentro, no hay cocina ni baño fijos, y la reforma integral exige pasar por la ITV. La etiqueta C cierra las zonas de bajas emisiones más estrictas. Pero en nuestra opinión, esa es su virtud: cuesta una fracción de una camper de verdad, aparca en cualquier sitio, la red de talleres Renault cubre toda España para el mantenimiento en ruta y evita mantener un segundo vehículo. El camping sin ataduras ni hipotecas.",
+    ],
+    veredicto: "Para parejas aventureras que quieren dormir fuera sin comprar una autocaravana; no para quien necesite estar de pie, cocinar o ducharse dentro.",
+  },
+  "renault-master-23-dci-180-2026-precio-ficha-tecnica": {
+    parrafos: [
+      "El Master dCi 180 no se compra por gusto: se compra porque hay que mover hasta 2.396 kg de carga útil. El 2.3 diésel de 180 CV y 400 Nm es la mecánica más capaz del furgón grande de Renault, pensada para las rutas más exigentes, para transformaciones de todo tipo, de ambulancia a taller móvil, y para jornadas que no admiten paradas a recargar. La autonomía del diésel sigue siendo su gran argumento profesional.",
+      "El peaje es ambiental y económico: etiqueta C en plena era de zonas de bajas emisiones, consumo elevado con carga y el mantenimiento propio de un furgón pesado. Frente al Master E-Tech, es más barato de adquirir y más capaz cargando, pero cada vez más limitado en la ciudad. En nuestra opinión, sigue siendo la herramienta correcta para el reparto interurbano y las transformaciones pesadas; para la última milla urbana, el eléctrico ya le ha comido el terreno.",
+    ],
+    veredicto: "Para profesionales del transporte interurbano y transformaciones que necesitan la máxima carga útil; no para reparto urbano en zonas de bajas emisiones.",
+  },
+  "renault-master-e-tech-2026-precio-ficha-tecnica": {
+    parrafos: [
+      "El Master E-Tech demuestra que el furgón eléctrico ya no es un experimento: batería de 87 kWh, hasta 460 km de autonomía WLTP y carga rápida de 130 kW. El secreto está en el concepto Aerovan, que recorta un 20 % la resistencia aerodinámica, crucial cuando la carrocería es un muro de 5,68 metros. Con 140 CV, 300 Nm y 10,8 m³ de volumen, mueve la mercancía de una jornada urbana sin emisiones y con etiqueta Cero, desde 27.332 €.",
+      "La batería pasa factura: la carga útil baja a 1.625 kg frente a los 2.396 del diésel, y el precio es muy superior al de su hermano de gasóleo. La autonomía real con carga completa quedará por debajo de los 460 km homologados. Pero para la logística urbana con base y cargador propio, el coste por kilómetro hunde al diésel. Existe además una versión de 40 kWh con unos 200 km, solo apta para repartos muy locales.",
+    ],
+    veredicto: "Para flotas urbanas con carga en base que quieren cero emisiones y coste por kilómetro mínimo; no para rutas largas o la máxima carga útil.",
+  },
+  "renault-megane-e-tech-2026-lfp-67-kwh-precio-ficha-tecnica": {
+    parrafos: [
+      "El Mégane E-Tech 2026 esconde su gran novedad donde no se ve: la batería. La nueva química LFP de 67 kWh promete 500 km de autonomía WLTP y, sobre todo, una durabilidad superior a la de las NMC tradicionales, con más ciclos, menos degradación y menos cobalto. Son 220 CV con un 0-100 en 7,6 segundos, el compacto eléctrico europeo más rápido por este precio, y carga de 165 kW que recupera del 15 al 80 % en 24 minutos.",
+      "Hay matices: la tarifa es de 37.685 €, aunque con financiación, promociones y ayudas Auto+ baja a 28.670 €; la gama se simplifica a una sola batería y dos acabados; y la LFP rinde menos con frío intenso. Pero el Mégane se fabrica en Douai con motor de Cléon: industria europea de verdad. En nuestra opinión, esta versión LFP es para quien compra el eléctrico pensando en conservarlo diez años, porque su batería aguantará el paso del tiempo mejor que la de casi cualquier rival.",
+    ],
+    veredicto: "Para quien busca un compacto eléctrico europeo duradero con batería LFP; no para quien necesite el precio más bajo sin financiar.",
+  },
+  "renault-rafale-e-tech-200-2026-precio-ficha-tecnica": {
+    parrafos: [
+      "Pocos coches definen a una marca como el Rafale define a la Renault de hoy: 4,71 metros de carrocería coupé, calandra iluminada y el chasis 4Control con ruedas traseras directrices que le dan una agilidad impropia de su tamaño. La variante E-Tech 200 combina 200 CV híbridos con 4,8 l/100 km y etiqueta ECO desde 44.225 €, la forma más racional de llevarse el flagship a casa sin pagar el sobreprecio del enchufable de 300 CV.",
+      "El maletero de 532 litros es un milagro de packaging para un coupé, y el techo panorámico Solarbay con 32 asistentes de conducción completa un interior que mira de tú a tú al premium alemán. Los 8,9 segundos en el 0-100 confirman su carácter: un gran viajero con estilo, no una máquina de aceleración. La competencia aprieta con mejores valores de reventa, pero ninguna firma generalista ofrece este nivel de diseño por este precio.",
+    ],
+    veredicto: "Para quien quiere el diseño más ambicioso de Renault con eficiencia híbrida; no para quien busque prestaciones puras o reventa premium.",
+  },
+  "renault-scenic-e-tech-60-kwh-2026-precio-ficha-tecnica": {
+    parrafos: [
+      "Hay un dato que resume al Scenic E-Tech: fue Coche del Año en Europa 2024, y la versión de acceso de 2026 mantiene intactos sus argumentos por 35.644 €. Son 170 CV, batería de 60 kWh y 430 km de autonomía, con cinco estrellas Euro NCAP y etiqueta Cero. El interior prioriza la vida familiar: 440 litros de maletero, plazas traseras amplias y carga rápida de 130 kW con 22 kW en alterna de serie para recuperar energía en cualquier parte.",
+      "Frente al modelo 2025, la propuesta no cambia en lo esencial: sigue siendo el SUV eléctrico familiar racional, no el más emocionante. Los 1.822 kg pesan en las curvas, la velocidad máxima se limita a 150 km/h y quien viaje mucho seguirá mirando a la batería de 87 kWh, con 620 km por unos 6.600 € más. En nuestra opinión, esta versión de 60 kWh es para la familia con carga en casa que quiere el formato probado y premiado sin pagar de más.",
+    ],
+    veredicto: "Para familias con carga en casa que quieren el eléctrico familiar premiado al mejor precio; no para viajeras frecuentes, que necesitan la batería grande.",
+  },
+  "renault-symbioz-2026-e-tech-145-precio-ficha-tecnica": {
+    parrafos: [
+      "El Symbioz 2026 juega una carta que pocos híbridos pueden permitirse: olvidarse de la gasolinera. Con 4,6 l/100 km y un depósito de 48 litros, supera los 1.000 km de autonomía, mientras su maletero de 548 litros, 624 con la banqueta desplazada, supera a SUV de un segmento superior. Todo por 30.860 € con etiqueta ECO y 104 g/km. Es el familiar compacto que hace kilómetros sin pedir nada a cambio.",
+      "El precio de esa eficiencia es el ritmo: 10,6 segundos en el 0-100 lo convierten en el menos prestacional de los híbridos Renault, y sus 4,41 metros lo dejan a medio camino entre el Captur y el Austral. Pero en nuestra opinión, ahí está su acierto: cabe donde el Austral no cabe y carga lo que el Captur no carga, con el techo Solarbay opcional inundando de luz el interior. Para la familia que aparca en ciudad y viaja los fines de semana, es la medida exacta.",
+    ],
+    veredicto: "Para familias que quieren maletero grande y 1.000 km de autonomía en formato aparcable; no para quien busque prestaciones.",
+  },
+  "renault-trafic-20-dci-170-2026-precio-ficha-tecnica": {
+    parrafos: [
+      "El Trafic dCi 170 es el furgón medio que las flotas europeas conocen de memoria: 2.0 diésel de 170 CV y 380 Nm, 7,2 l/100 km y una mecánica probada en cientos de miles de unidades. Desde 41.643 € ofrece 5,8 m³ de carga, versiones Combi y SpaceClass para pasajeros y la tranquilidad de un vehículo que cualquier taller sabe reparar. Para rutas largas sin repostar, sigue sin rival dentro de la casa.",
+      "Pero el calendario juega en su contra: etiqueta C, AdBlue, mantenimientos caros y un futuro cada vez más restringido en las zonas de bajas emisiones. La nueva Trafic eléctrica de 800 voltios lo supera en tecnología. En nuestra opinión, este dCi 170 es la compra del profesional que hace mucha carretera: los 380 Nm desde bajo régimen mueven con soltura la carga completa y los 180 km/h de máxima permiten viajar con el ritmo del tráfico. Para el reparto urbano, el E-Tech ya es la opción sensata.",
+    ],
+    veredicto: "Para profesionales de ruta larga que amortizan el diésel por kilómetros; no para reparto urbano en zonas de bajas emisiones.",
+  },
+  "renault-trafic-e-tech-2026-precio-ficha-tecnica": {
+    parrafos: [
+      "El Trafic E-Tech es una calculadora con ruedas: 122 CV, 297 km de autonomía y 8,9 m³ de carga por 47.049 €, con etiqueta Cero para entrar en cualquier zona de bajas emisiones y de carga y descarga. En reparto urbano, el coste por kilómetro hunde al diésel: la electricidad nocturna y el mantenimiento mínimo convierten cada ruta en ahorro. Los 245 Nm del motor eléctrico dan una respuesta inmediata en el tráfico, y la carga en alterna de 22 kW de serie permite recuperar energía en el almacén entre turnos.",
+      "Los límites son claros: 297 km que no dan para el interurbano, 110 km/h de máxima y una carga rápida en continua limitada y opcional. El precio es muy superior al del diésel, pero se amortiza a base de kilómetros urbanos y exenciones. Y la nueva Trafic de 800 voltios lo dejará desfasado tecnológicamente. Para la mensajería y el reparto local con base propia, hoy es la herramienta eléctrica más racional del catálogo Renault.",
+    ],
+    veredicto: "Para empresas de reparto urbano con base y cargador que buscan coste por kilómetro mínimo; no para rutas interurbanas.",
+  },
+  "renault-twingo-e-tech-2026-precio-ficha-tecnica": {
+    parrafos: [
+      "El Twingo E-Tech logra lo que ningún eléctrico europeo había conseguido: bajar de los 18.000 €. Desde 17.463 €, el icono de los noventa renace como urbano eléctrico con 263 km de autonomía, etiqueta Cero y un equipamiento que sonroja a coches mucho más caros: Google integrado, V2L para enchufar aparatos externos y hasta 24 ayudas a la conducción. El interior modular ofrece hasta 1.000 litros con los asientos abatidos, y el consumo real de 12,6 kWh/100 km en prueba independiente es bajísimo.",
+      "Los 82 CV y 130 km/h de máxima lo confinan a la ciudad y alrededores, y la carga rápida de 50 kW es opcional en un pack de 490 €. Pero en nuestra opinión, ese es exactamente su público: el segundo coche familiar, el conductor novel, el urbanita que aparca en la calle. Se fabrica en Eslovenia, conviene saberlo, y es el eléctrico que por fin democratiza la etiqueta Cero.",
+    ],
+    veredicto: "Para urbanitas y segundos coches que quieren el eléctrico europeo más barato con etiqueta Cero; no para quien salga de la ciudad a menudo.",
+  },
 };
