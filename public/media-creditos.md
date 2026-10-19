@@ -1543,3 +1543,18 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/roewe-m7-dmh-2025-precio-ficha-tecnica-hunt1.webp | https://carnewschina.com/2025/08/30/affordable-roewe-m7-phev-with-2050km-range-starts-pre-sale-at-13700-usd/ | CarNewsChina | desconocida |
 | /media/roewe-m7-dmh-2025-precio-ficha-tecnica-hunt2.webp | https://www.kolesa.ru/news/pokazan-bolsoi-sedan-roewe-m7-dmh-v-novom-stile-ot-byvsego-dizainera-bmw-i-volkswagen | Kolesa.ru | desconocida |
 | /media/roewe-m7-dmh-2025-precio-ficha-tecnica-hunt3.webp | https://www.bitauto.com/ae/news/1000101557839.html | Bitauto | desconocida |
+| /media/ford-e-tourneo-courier-2025-hunt1.webp | https://www.evanshalshaw.com/ford/new-cars/tourneo-courier/ | Evans Halshaw | desconocida |
+| /media/ford-e-tourneo-courier-2025-hunt2.webp | https://ford.johngrose.co.uk/car/tourneo-courier/stock/titanium/44200/F0072/ | Ford (via John Grose) | desconocida |
+| /media/ford-e-tourneo-courier-2025-hunt3.webp | https://autorepublika.com/wp-content/uploads/2026/03/Ford-E-Tourneo-Courier-2026-Cockpit.jpg | Autorepublika.com | desconocida |
+| /media/baic-eu5-2025-precio-ficha-tecnica-hunt4.webp | https://imgcdn.sayaratbay.com/large/gallery/exterior/103/2299/baic-eu5-side-view-200776.jpg | Sayaratbay / BAIC press | desconocida |
+| /media/baic-eu5-2025-precio-ficha-tecnica-hunt5.webp | https://imgcdn.sayaratbay.com/large/gallery/exterior/103/2299/baic-eu5-rear-medium-view-387161.jpg | Sayaratbay / BAIC press | desconocida |
+| /media/baic-eu5-2025-precio-ficha-tecnica-hunt6.webp | https://global-img.bitauto.com/usercenter/autoalbum/20250409/116/w0_m5_yichecar_418345311691793.jpg.webp | BitAuto (crédito en esquina) | desconocida |
+| /media/bmw-f-900-gs-2026-ficha-tecnica-precio-hunt4.webp | https://www.totalmotorcycle.com/wp-content/uploads/2025/07/2026-BMW-F900GS3-1200x800.jpg | Total Motorcycle (fotos de prensa BMW Motorrad) | desconocida |
+| /media/bmw-f-900-gs-2026-ficha-tecnica-precio-hunt5.webp | https://www.totalmotorcycle.com/wp-content/uploads/2025/07/2026-BMW-F900GS5-1200x800.jpg | Total Motorcycle (fotos de prensa BMW Motorrad) | desconocida |
+| /media/bmw-f-900-gs-2026-ficha-tecnica-precio-hunt6.webp | https://www.totalmotorcycle.com/wp-content/uploads/2025/07/2026-BMW-F900GS6-1200x800.jpg | Total Motorcycle (fotos de prensa BMW Motorrad) | desconocida |
+| /media/dongfeng-epi-007-2025-precio-ficha-tecnica-hunt4.webp | https://chinacarnews.com/uploads/images/202505/image_870x580_682e53f7c4f90.webp | ChinaCarNews (foto de prensa) | desconocida |
+| /media/dongfeng-epi-007-2025-precio-ficha-tecnica-hunt5.webp | https://movilidadelectrica.com/wp-content/uploads/2025/11/Dongfeng-parte-trasera.png | MovilidadEléctrica (movilidadelectrica.com) | desconocida |
+| /media/dongfeng-epi-007-2025-precio-ficha-tecnica-hunt6.webp | https://dongfeng.by/wp-content/uploads/2024/09/ep007-int-2.jpg | Dongfeng (distribuidor oficial Bielorrusia, dongfeng.by) | desconocida |
+| /media/wey-03-2024-precio-ficha-tecnica-hunt4.webp | https://www.greatwall.bg/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fx9estgcn%2Fproduction%2Fe27bb5f20c2efcaa9d313ad17bfd0eac7ef8c70a-1920x960.png&w=1920&q=100 | Great Wall Motor (greatwall.bg, distribuidor oficial) | desconocida |
+| /media/wey-03-2024-precio-ficha-tecnica-hunt5.webp | https://images.prismic.io/carwow/5596a458-5076-4bf4-a213-51e01c80d6da_LHD+GWM+WEY+03+2024+Exterior+15.jpg?auto=format&cs=tinysrgb&fit=max&q=60 | Carwow Alemania | desconocida |
+| /media/wey-03-2024-precio-ficha-tecnica-hunt6.webp | https://images.prismic.io/carwow/f965036a-5354-4ad5-a57b-54b5a5f4c5a6_LHD+GWM+WEY+03+2024+Interior+2.jpg?auto=format&cs=tinysrgb&fit=clip&ixlib=rb-1.1.0&q=60&w=1366 | Carwow Alemania | desconocida |
