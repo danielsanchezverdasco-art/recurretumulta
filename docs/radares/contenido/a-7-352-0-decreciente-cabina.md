@@ -12,6 +12,14 @@
 
 El puesto de control se sitúa en el **pk 352,0 de la A-7** (provincia de Valencia, Comunitat Valenciana). Registra a los vehículos que marchan en **sentido decreciente**, hacia pk decrecientes. El término municipal es **Picassent**, asignado por geocodificación oficial sobre las coordenadas exactas. El punto vigilado más cercano es el de la **A-7, pk 349,7** (sentido creciente): queda a 2,2 km hacia el noroeste.
 
+<iframe title="Mapa: radar a-7-352-0-decreciente-cabina" src="https://www.google.com/maps?q=39.36227,-0.44644&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-7-352-0-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.36227,-0.44644&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La A-7, la Autovía del Mediterráneo, el gran corredor del litoral, discurre por Valencia como vía de gran capacidad. Es un eje con circulación heterogénea: pesados, turismos y motos comparten la calzada. El paisaje de las comarcas centrales valencianas enmarca este tramo.
