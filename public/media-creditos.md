@@ -918,3 +918,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/bestune-t55-2025-precio-ficha-tecnica-hunt1.webp | https://www.masmotors.ru/resources/models/483/photo_exterior/FAW-Bestune-T55-ext-3_1280x960.webp | MASMOTORS (concesionario) | desconocida |
 | /media/bestune-t55-2025-precio-ficha-tecnica-hunt2.webp | https://data.favorit-motors.ru/upload/iblock/620/62093abc7ead7ae822fe6cc2e96b05d4.jpg | Favorit Motors (concesionario) | desconocida |
 | /media/bestune-t55-2025-precio-ficha-tecnica-hunt3.webp | https://www.masmotors.ru/resources/models/483/photo_interior/FAW-Bestune-T55-int-3_1280x960.webp | MASMOTORS (concesionario) | desconocida |
+| /media/bentley-flying-spur-azure-2026-precio-ficha-tecnica-hunt1.webp | https://www.dailyrevs.com/cars/2025-bentley-flying-spur-azure | desconocida |  |
+| /media/bentley-flying-spur-azure-2026-precio-ficha-tecnica-hunt2.webp | https://www.dailyrevs.com/cars/2025-bentley-flying-spur-azure | desconocida |  |
+| /media/bentley-flying-spur-azure-2026-precio-ficha-tecnica-hunt3.webp | https://www.motortradenews.com/news/bentley-plugs-in-a-second-hybrid-power-option/ | desconocida |  |
+| /media/bestune-t99-2025-precio-ficha-tecnica-hunt1.webp | https://www.bestune-qatar.com/assets/t99/media/ext/1%20(5).jpg | Bestune Qatar / Bestune (prensa oficial) | desconocida |
+| /media/bestune-t99-2025-precio-ficha-tecnica-hunt2.webp | https://aicarglobal.com/wp-content/uploads/slider/cache/6b00b90b131b6d0d112272424e057776/Bestune-T99-Details-8.jpg | AICarGlobal | desconocida |
+| /media/bestune-t99-2025-precio-ficha-tecnica-hunt3.webp | https://www.bestune-qatar.com/assets/t99/media/ext/1%20(2).jpg | Bestune Qatar / Bestune (prensa oficial) | desconocida |
+| /media/bestune-b70s-2025-precio-ficha-tecnica-hunt1.webp | https://www.bestune.com.ly/wp-content/uploads/2026/06/b70s-2048x1326.png | Bestune Libia / prensa oficial | desconocida |
+| /media/bestune-b70s-2025-precio-ficha-tecnica-hunt2.webp | https://www.bestune-oman.com/storage/variants-img/24043Tt1bxAKEC0vIrRdgC3HuQdnVCMr6cew8Gn6nEnAE.png | Bestune Omán / prensa oficial | desconocida |
+| /media/bestune-b70s-2025-precio-ficha-tecnica-hunt3.webp | https://brochureshub.com/wp-content/uploads/2026/07/Bestune-B70S_xl_1.jpg | BrochuresHub | desconocida |
+| /media/seat-ateca-20-tdi-2026-precio-ficha-tecnica-hunt1.webp | https://d1gl66oyi6i593.cloudfront.net/wp-content/uploads/2026/02/seat-ateca-fr-2026.jpg | Periodismo del Motor / prensa SEAT | desconocida |
+| /media/seat-ateca-20-tdi-2026-precio-ficha-tecnica-hunt2.webp | https://static.prd.luxauto.lu/pictures/occasions/r/1867206_2.jpg | Luxauto / concesionario SEAT | desconocida |
+| /media/seat-ateca-20-tdi-2026-precio-ficha-tecnica-hunt3.webp | https://d1gl66oyi6i593.cloudfront.net/wp-content/uploads/2026/02/seat-ateca-fr-2026-5.jpg | Periodismo del Motor / prensa SEAT | desconocida |
+| /media/bestune-m9-2025-precio-ficha-tecnica-hunt1.webp | https://wetocar.ru/media/models/23750668/side.webp | Wetocar.ru (catálogo de modelos) | desconocida |
+| /media/bestune-m9-2025-precio-ficha-tecnica-hunt2.webp | https://wetocar.ru/media/models/23750668/3_4_behind.webp | Wetocar.ru (catálogo de modelos) | desconocida |
+| /media/bestune-m9-2025-precio-ficha-tecnica-hunt3.webp | https://wetocar.ru/media/models/23750668/saloon-front.webp | Wetocar.ru (catálogo de modelos) | desconocida |
+| /media/seat-leon-sportstourer-15-etsi-150-2026-precio-ficha-tecnica-hunt1.webp | https://cdn.nwi-ms.com/media/at/S/comm/S20250406990/model/side.jpg | SEAT (stock oficial seat.at) | desconocida |
+| /media/seat-leon-sportstourer-15-etsi-150-2026-precio-ficha-tecnica-hunt2.webp | https://plath24.de/fahrzeuge/wp-content/uploads/sites/2/2026/07/seat-leon-sportstourer-1-5-etsi-dsg-fr-led-navi-kamer-6a5590318a970.jpg | Plath24 (concesionario) | desconocida |
+| /media/seat-leon-sportstourer-15-etsi-150-2026-precio-ficha-tecnica-hunt3.webp | https://img.autrado.de/955/89607_1024.jpg | Grumbach Autocenter (concesionario) | desconocida |
+| /media/bmw-serie-1-120-2026-precio-ficha-tecnica-hunt1.webp | https://www.angurten.de/Bilder/fotosets/800/bmw-1er-f70-2025-neu-003.jpg | BMW (© BMW, vía angurten.de) | desconocida (foto de prensa oficial BMW) |
+| /media/bmw-serie-1-120-2026-precio-ficha-tecnica-hunt2.webp | https://www.angurten.de/Bilder/fotosets/800/bmw-1er-f70-2025-neu-005.jpg | BMW (© BMW, vía angurten.de) | desconocida (foto de prensa oficial BMW) |
+| /media/bmw-serie-1-120-2026-precio-ficha-tecnica-hunt3.webp | https://www.angurten.de/Bilder/fotosets/800/bmw-1er-f70-2025-neu-004.jpg | BMW (© BMW, vía angurten.de) | desconocida (foto de prensa oficial BMW) |
+| /media/livan-x3-pro-2025-precio-ficha-tecnica-hunt1.webp | https://livanauto.es/wp-content/uploads/2025/02/Diseno-exterior-1-1024x504.jpg | Livan Auto España (web oficial del importador) | desconocida (web oficial del importador) |
+| /media/livan-x3-pro-2025-precio-ficha-tecnica-hunt2.webp | https://legriscar.ru/assets/images/products/6186/webp/1200x900n-1.webp | LegriCar (anuncio de concesionario) | desconocida |
+| /media/livan-x3-pro-2025-precio-ficha-tecnica-hunt3.webp | https://www.masmotors.ru/resources/models/550/photo_exterior/LIVAN-X3PRO-ext-7_1280x960.webp | MasMotors (ficha del modelo en concesionario) | desconocida |
