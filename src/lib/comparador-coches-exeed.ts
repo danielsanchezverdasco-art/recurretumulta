@@ -108,7 +108,7 @@ export const COCHES_EXEED: CocheComparador[] = [
     modelo: "LX C-DM",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 16870,
     potenciaCv: 326,
     autonomiaKm: 105,
     maleteroL: 300,
@@ -127,7 +127,7 @@ export const COCHES_EXEED: CocheComparador[] = [
     contras: [
       "Batería de solo 19,3 kWh, sin carga rápida en CC confirmada",
       "Maletero de 300 litros",
-      "No disponible en Europa; sin precio oficial confirmado",
+      "No disponible en Europa; el precio en euros es la conversión del PVP oficial en China (129.800 yuanes)",
       "Solo tracción delantera",
       "1.656 kg: el sistema híbrido penaliza el peso",
     ],
@@ -141,7 +141,7 @@ export const COCHES_EXEED: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["autonomiaKm"],
+    aprox: ["precioDesde", "autonomiaKm"],
     imagen: "/media/exeed-lx-c-dm-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -153,7 +153,7 @@ export const COCHES_EXEED: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 140,
       notas:
-        "Estimación con 15.000 km/año cargando a diario en casa (0,18 €/kWh). Precio del coche no confirmado oficialmente.",
+        "Estimación con 15.000 km/año cargando a diario en casa (0,18 €/kWh). Precio convertido del PVP oficial en China (129.800 yuanes).",
       estimado: true,
     },
     galeria: [
@@ -855,7 +855,7 @@ export const COCHES_EXEED: CocheComparador[] = [
     modelo: "Sterra ES REEV",
     tipo: "Híbrido de autonomía extendida",
     categoria: "Berlina",
-    precioDesde: null,
+    precioDesde: 19860,
     potenciaCv: 265,
     autonomiaKm: 255,
     maleteroL: null,
@@ -872,7 +872,7 @@ export const COCHES_EXEED: CocheComparador[] = [
       "Berlina grande con 3 metros de batalla",
     ],
     contras: [
-      "Precio oficial no confirmado públicamente",
+      "Sin precio europeo: los 19.860 € son la conversión del PVP oficial en China (152.800 yuanes)",
       "Aún no se vende en España",
       "Sistema de extensor complejo frente a un eléctrico puro",
       "Peso elevado por la doble mecánica",
@@ -888,7 +888,7 @@ export const COCHES_EXEED: CocheComparador[] = [
     parNm: 324,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: ["autonomiaKm"],
+    aprox: ["precioDesde", "autonomiaKm"],
     imagen: "/media/exeed-sterra-es-reev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -900,7 +900,7 @@ export const COCHES_EXEED: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 125,
       notas:
-        "Estimación con 15.000 km/año en uso mixto, cargando en casa. Precio del coche no confirmado.",
+        "Estimación con 15.000 km/año en uso mixto, cargando en casa. Precio convertido del PVP oficial en China (152.800 yuanes).",
       estimado: true,
     },
     galeria: [
