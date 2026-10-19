@@ -3630,3 +3630,24 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/aprilia-sr-gt-400-2026-ficha-tecnica-precio-hunt1.webp | https://wlassets.aprilia.com/wlassets/aprilia/master/Range/SRGT-400/2026/Hotspot/HOTSPOT-SRGT-400-Dusty-grey-DM-1500x1000/original/HOTSPOT-SRGT-400-Dusty-grey-DM-1500x1000.png?1781515673411 | Aprilia (imagen oficial) | desconocida |
 | /media/aprilia-sr-gt-400-2026-ficha-tecnica-precio-hunt2.webp | https://moto.motorionline.com/wp-content/uploads/2026/06/SR-GT-400_14-1024x683.jpg | Motorionline (prueba en carretera) | desconocida |
 | /media/aprilia-sr-gt-400-2026-ficha-tecnica-precio-hunt3.webp | https://moto.motorionline.com/wp-content/uploads/2026/06/SR-GT-400_12-1024x683.jpg | Motorionline (prueba en carretera) | desconocida |
+| /media/exeed-sterra-et-reev-2024-precio-ficha-tecnica-hunt1.webp | https://www.automaistv.com.br/segredos/caoa-desiste-da-exeed-no-brasil-e-desacredita-nos-eletricos/ | AutoMais TV (blog brasileño) | desconocida |
+| /media/exeed-sterra-et-reev-2024-precio-ficha-tecnica-hunt2.webp | https://tr.aicarglobal.com/product/exeed-sterra-et/ | AiCarGlobal | desconocida |
+| /media/exeed-sterra-et-reev-2024-precio-ficha-tecnica-hunt3.webp | https://www.car250.com/?p=326947 | Car250 | desconocida |
+| /media/m-hero-917-2024-precio-ficha-tecnica-hunt1.webp | http://qichangv.com/news/95465.html | Qichangv (prensa China) | desconocida |
+| /media/m-hero-917-2024-precio-ficha-tecnica-hunt2.webp | https://www.yankodesign.com/2024/03/01/the-m-hero-917-is-a-military-inspired-suv-with-a-1000hp-engine-steer-by-wire-and-a-companion-drone/ | Yanko Design | desconocida |
+| /media/m-hero-917-2024-precio-ficha-tecnica-hunt3.webp | https://www.yankodesign.com/2024/03/01/the-m-hero-917-is-a-military-inspired-suv-with-a-1000hp-engine-steer-by-wire-and-a-companion-drone/ | Yanko Design | desconocida |
+| /media/sym-symphony-sr-125-abs-2026-ficha-tecnica-precio-hunt1.webp | https://www.motorbox.com/moto/sym-symphony-sr-125-2026-il-restyling-debutta-a-eicma-2025 | Motorbox (material oficial SYM) | desconocida |
+| /media/sym-symphony-sr-125-abs-2026-ficha-tecnica-precio-hunt2.webp | https://revistacar.es/sym-symphony-sr-125-2026-precio-novedades-scooter-rueda-alta/ | Revista CAR (material oficial SYM) | desconocida |
+| /media/sym-symphony-sr-125-abs-2026-ficha-tecnica-precio-hunt3.webp | https://expomotogranada.es/moto/symphony-sr-125-2 | ExpoMoto Granada (concesionario oficial SYM) | desconocida |
+| /media/wuling-starlight-s-2024-precio-ficha-tecnica-hunt1.webp | https://www.exp-byd.com/wuling-starlight-s/ | EXP-BYD (importador europeo) | desconocida |
+| /media/wuling-starlight-s-2024-precio-ficha-tecnica-hunt2.webp | https://www.exp-byd.com/wuling-starlight-s/ | EXP-BYD (importador europeo) | desconocida |
+| /media/wuling-starlight-s-2024-precio-ficha-tecnica-hunt3.webp | https://car2day.com/wuling-starlight-s-electric-suv-will-launch-in-august-china/ | Car2Day | desconocida |
+| /media/sym-cruisym-400-2026-ficha-tecnica-precio-hunt1.webp | https://www.visordown.com/news/sym-cruisym-400-specs-details-and-features | Visordown (foto oficial SYM) | desconocida |
+| /media/sym-cruisym-400-2026-ficha-tecnica-precio-hunt2.webp | https://sym-srbija.rs/proizvod/cruisym-400/ | SYM Serbia (distribuidor oficial) | desconocida |
+| /media/sym-cruisym-400-2026-ficha-tecnica-precio-hunt3.webp | https://sym.co.me/model/cruisym-400/ | SYM Montenegro (distribuidor oficial) | desconocida |
+| /media/wuling-starlight-730-2025-precio-ficha-tecnica-hunt1.webp | https://gmauthority.com/blog/ | GMAuthority (fotos de prensa) | desconocida |
+| /media/wuling-starlight-730-2025-precio-ficha-tecnica-hunt2.webp | https://mpcauto.pcvideo.com.cn/hj/article/3152389.html | PCAuto / Autohome | desconocida |
+| /media/wuling-starlight-730-2025-precio-ficha-tecnica-hunt3.webp | https://hiluckev.com/wuling-starlight-730-mpv-presale-family-travel/ | HiLuckEV / Autohome | desconocida |
+| /media/sym-joymax-z-300-2026-ficha-tecnica-precio-hunt1.webp | https://sym-srbija.rs/wp-content/uploads/2026/02/joyma-1.png | SYM Srbija (distribuidor oficial) | desconocida |
+| /media/sym-joymax-z-300-2026-ficha-tecnica-precio-hunt2.webp | https://sym-srbija.rs/wp-content/uploads/2026/02/JOYMAXZ_BK-007U.png | SYM Srbija (distribuidor oficial) | desconocida |
+| /media/sym-joymax-z-300-2026-ficha-tecnica-precio-hunt3.webp | https://sym-srbija.rs/wp-content/uploads/2026/02/joyma-6.png | SYM Srbija (distribuidor oficial) | desconocida |
