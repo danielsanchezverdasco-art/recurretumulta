@@ -12,6 +12,14 @@
 
 El cinemómetro se encuentra en la **A-35, pk 43,3**, provincia de Valencia. Su ámbito es el **sentido creciente**: la dirección en que los hitos kilométricos van crecientes. Geocodificación oficial del Instituto Geográfico Nacional: el radar está en **Canals**, provincia de Valencia. A 6,3 km hacia el sur está el control más próximo, el de la **A-7, pk 407,8** (sentido decreciente).
 
+<iframe title="Mapa: radar a-35-43-3-creciente-cabina" src="https://www.google.com/maps?q=38.98455,-0.59613&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-35-43-3-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.98455,-0.59613&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La vía es la A-35: la autovía Almansa–Xàtiva, eje hacia Valencia. Conviven en el asfalto los trayectos largos y los recorridos cortos del entorno. La comarca de paso se identifica con la llanura litoral valenciana.
