@@ -3534,3 +3534,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/zontes-125c-hunt1.webp | https://zontesvalencia.es/backend-images/product/360/xl/d50ecb23e328c319952d5bc337afd83f9f799961f4151c38f09e3088ab4cb7ba/zontes-125c-white.webp | Zontes Valencia (concesionario oficial) | desconocida |
 | /media/zontes-125c-hunt2.webp | https://motospeedbike.com/uploads/cms/zontes-c-125-envio-a-toda-espana-2.jpg | MotoSpeedBike | desconocida |
 | /media/zontes-125c-hunt3.webp | https://blaneszontes.com/wp-content/uploads/2026/07/Zontes-125C2-ladeada-768x752.png | Blanes Zontes (concesionario) | desconocida |
+| /media/mclouis-mc4-231-2026-precio-ficha-tecnica-hunt1.webp | https://www.wikicampers.fr/occasion/camping-car-mc-louis-mc4-231-2022-hericourt-70-bourgogne-franche-comte/ | Propietario (foto vía Wikicampers) | desconocida |
+| /media/mclouis-mc4-231-2026-precio-ficha-tecnica-hunt2.webp | https://www.caravanmarket.com/image/cache/catalog/CAMPER%20USATI/2023-2024/MCLOUIS%20MC4%20231%20-%202023/ | Caravan Market / Beltrani (foto de concesionario) | desconocida |
+| /media/mclouis-mc4-231-2026-precio-ficha-tecnica-hunt3.webp | https://www.caravanmarket.com/archivio-venduto/mc-louis-mc4-231-4 | Caravan Market / Beltrani (foto de concesionario) | desconocida |
+| /media/volvo-ex30-twin-motor-2025-precio-ficha-tecnica-hunt1.webp | https://rpmweb.ca/vehicules/volvo/ex30/2026/twin-motor-performance-ultra | RPM / Volvo (foto oficial del modelo) | desconocida |
+| /media/volvo-ex30-twin-motor-2025-precio-ficha-tecnica-hunt2.webp | https://www.theautochannel.com/news/2025/07/22/1556289-2025-volvo-ex30-twin-motor-performance-ultra-review-by-david.html | The Auto Channel | desconocida |
+| /media/volvo-ex30-twin-motor-2025-precio-ficha-tecnica-hunt3.webp | https://www.motortrend.com/news/2025-volvo-ex30-price-msrp/photos | MotorTrend | desconocida |
+| /media/zontes-368e-hunt1.webp | https://zontes.eu/it-it/scooter/368e/ | Zontes Europe (web oficial) | desconocida |
+| /media/zontes-368e-hunt2.webp | https://zontes.eu/it-it/scooter/368e/ | Zontes Europe (web oficial) | desconocida |
+| /media/zontes-368e-hunt3.webp | https://zontes.eu/it-it/scooter/368e/ | Zontes Europe (web oficial) | desconocida |
+| /media/motron-x-nord-125-hunt1.webp | https://ksr-group.com/news/moto-republic-2021/ | KSR Group (prensa oficial) | desconocida |
+| /media/motron-x-nord-125-hunt2.webp | https://clubdelmotorista.com/motron-x-nord-125/ | Club del Motorista | desconocida |
+| /media/motron-x-nord-125-hunt3.webp | https://revistamotos.pt/tag/ksr/ | Revista Motos (Portugal) | desconocida |
+| /media/niesmann-bischoff-ismove-69-e-2026-precio-ficha-tecnica-hunt1.webp | https://www.niesmann-bischoff.com/no/bilder/ | Niesmann+Bischoff (galería oficial de prensa) | desconocida |
+| /media/niesmann-bischoff-ismove-69-e-2026-precio-ficha-tecnica-hunt2.webp | https://www.krokenandalsnes.no/bobil/niesmann-bischoff-i-smove/11547 | Marketingmaster (concesionario N&B Noruega) | desconocida |
+| /media/niesmann-bischoff-ismove-69-e-2026-precio-ficha-tecnica-hunt3.webp | https://reisemobil-international.de/wohnmobil-tests/profitest/niesmannbischoff-ismove-6-9-e/ | Reisemobil International (prueba iSmove 6.9 E) | desconocida |
+| /media/fb-mondial-piega-125-hunt1.webp | https://www.motosan.es/motos/fb-mondial-piega-125-regreso-al-futuro/ | Motosan | desconocida |
+| /media/fb-mondial-piega-125-hunt2.webp | https://dude-bikes.com/collections/street/products/fb-mondial-piega-125cc-abs-new-2022 | Dude Bikes | desconocida |
+| /media/fb-mondial-piega-125-hunt3.webp | https://dude-bikes.com/collections/motorcycles/products/fb-mondial-piega-125cc-abs-anthracite | Dude Bikes | desconocida |
+| /media/aprilia-rs-457-2026-ficha-tecnica-precio-hunt1.webp | https://motoclubla.com/showroom/2026-aprilia-rs-457/ | Moto Club LA | desconocida |
+| /media/aprilia-rs-457-2026-ficha-tecnica-precio-hunt2.webp | http://wide.piaggiogroup.com/en/articles/products/aprilia-rs-457-a-new-chapter-in-the-aprilia-rs-saga/index.html | Grupo Piaggio / Aprilia (prensa oficial) | desconocida |
+| /media/aprilia-rs-457-2026-ficha-tecnica-precio-hunt3.webp | http://wide.piaggiogroup.com/en/articles/products/aprilia-rs-457-a-new-chapter-in-the-aprilia-rs-saga/index.html | Grupo Piaggio / Aprilia (prensa oficial) | desconocida |
+| /media/denza-z-spider-2026-precio-ficha-tecnica-hunt1.webp | https://paultan.org/2026/05/07/denza-z-spider-concept-in-beijing-supercar-drops-top-gains-more-production-ready-interior-july-launch/ | Paul Tan's Automotive News | desconocida |
+| /media/denza-z-spider-2026-precio-ficha-tecnica-hunt2.webp | https://www.chinesecars.me/p98549.html | ChineseCars.me | desconocida |
+| /media/denza-z-spider-2026-precio-ficha-tecnica-hunt3.webp | https://carselectric.gr/gennimeno-gia-epidoseis-schediasmeno-gia-nikes-i-denza-parousiazei-to-z-supercar/ | CarsElectric.gr | desconocida |
