@@ -11,6 +11,14 @@
 ## Dónde está
 Pk 1,6 de la P-900, en el término municipal de Palencia (provincia de Palencia). La cabina controla el sentido creciente —tráfico hacia pks ascendentes—, con destino a Villamuriel de Cerrato. El enlace de Street View de la cabecera muestra el punto exacto.
 
+<iframe title="Mapa: radar p-900-1-6-creciente-cabina" src="https://www.google.com/maps?q=41.9815,-4.5314&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar p-900-1-6-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=41.9815,-4.5314&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La vía
 La P-900 es una carretera provincial de Palencia, de trazado convencional. En este tramo inicial sirve de salida hacia el sur de la capital. El equipo es una cabina fija con el cinemómetro montado en su interior.
 
