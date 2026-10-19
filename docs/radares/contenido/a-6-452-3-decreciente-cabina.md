@@ -12,6 +12,14 @@
 
 En Becerreá (Lugo), sobre la A-6 a la altura del pk 452,3, se encuentra esta cabina; coordenadas 42.86265, -7.151007. Su cometido es el sentido decreciente —tráfico hacia pks menores—, con destino Madrid según el registro. El punto exacto puede verse en el enlace de Street View de la cabecera.
 
+<iframe title="Mapa: radar a-6-452-3-decreciente-cabina" src="https://www.google.com/maps?q=42.86265,-7.151007&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-6-452-3-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.86265,-7.151007&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La A-6 es la Autovía del Noroeste y depende del Estado: forma parte de la Red de Carreteras del Estado. La DGT la clasifica en su XML como «AUTOPISTA / AUTOVÍA», categoría de la alta capacidad. Sin más descripción del tramo en la fuente oficial, la ficha no especula.
