@@ -1014,3 +1014,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/gac-trumpchi-es9-2024-precio-ficha-tecnica-hunt1.webp | https://thanhnienviet.mediacdn.vn/resize/1000x-/2023/10/02/95ywCUPr/tinxe-22-2d08.jpg | Thanh Niên Việt | desconocida |
 | /media/gac-trumpchi-es9-2024-precio-ficha-tecnica-hunt2.webp | https://image.made-in-china.com/2f0j00CKJqNETBMzbn/GAC-Trumpchi-Plug-in-Hybrid-Electric-Car-SUV-Es9-6-7-Seats-Max-Version-Design-2024.jpg | Made-in-China.com | desconocida |
 | /media/gac-trumpchi-es9-2024-precio-ficha-tecnica-hunt3.webp | http://euncars.com/wp-content/uploads/2025/10/ES9-9.jpg | Euncars.com | desconocida |
+| /media/levc-l380-2024-precio-ficha-tecnica-hunt1.webp | https://www.grandprix.co.th/levc-l380-2/ | Grand Prix Online | desconocida |
+| /media/levc-l380-2024-precio-ficha-tecnica-hunt2.webp | https://www.careta.my/node/58317 | Careta | desconocida |
+| /media/levc-l380-2024-precio-ficha-tecnica-hunt3.webp | https://autoblog.md/video-premiera-noul-levc-l380-poate-lua-la-bord-mi | Autoblog.md | desconocida |
+| /media/bentley-bentayga-s-black-edition-2024-precio-ficha-tecnica-hunt1.webp | https://img.goodfon.com/original/2880x900/8/8f/bentley-bentayga-s-black-edition-2024-bentley-bentayga-7.jpg | goodfon | desconocida |
+| /media/bentley-bentayga-s-black-edition-2024-precio-ficha-tecnica-hunt2.webp | https://a.storyblok.com/f/126135/1920x1080/44970d1cf3/design-hr-gallery-rear-profile.jpg | Sytner Bentley | desconocida |
+| /media/bentley-bentayga-s-black-edition-2024-precio-ficha-tecnica-hunt3.webp | https://www.zastavki.com/pictures/640x960/2024/Auto___Bentley_Interior_of_the_2024_Bentley_Bentayga_S_Black_Edition_173245_30.jpg | zastavki | desconocida |
+| /media/ligier-myli-diesel-2025-precio-ficha-tecnica-hunt1.webp | https://revistacar.es/wp-content/uploads/images-old/mily%20ligier%20(3).jpg | RevistaCar | desconocida |
+| /media/ligier-myli-diesel-2025-precio-ficha-tecnica-hunt2.webp | https://concessionari.ligier.it/wp-content/uploads/2026/01/front-1.png | Ligier Cento Motori | desconocida |
+| /media/ligier-myli-diesel-2025-precio-ficha-tecnica-hunt3.webp | https://www.ligier.be/wp-content/uploads/sites/86/2025/01/nouvelle-myli-1100px-600x393.png | Ligier Belgique | desconocida |
+| /media/seat-leon-15-ehybrid-2026-precio-ficha-tecnica-hunt1.webp | https://soloauto.net/wp-content/uploads/2026/04/SEAT-Leon-e-HYBRID-PORTADA-e1776066174568.jpg | SoloAuto | desconocida |
+| /media/seat-leon-15-ehybrid-2026-precio-ficha-tecnica-hunt2.webp | https://soloauto.net/wp-content/uploads/2026/04/SEAT-Leon-e-HYBRID-STYLE-16-edited.jpg | SoloAuto | desconocida |
+| /media/seat-leon-15-ehybrid-2026-precio-ficha-tecnica-hunt3.webp | https://www.electrifying.com/files/OLraSXOFUkaHsLah/New-SEAT-Leon-e-HYBRID_04_HQ.jpg | Electrifying.com | desconocida |
+| /media/suzuki-v-strom-800de-2025-ficha-tecnica-precio-hunt1.webp | https://www.globalsuzuki.com/motorcycle/smgs/products/2025v-strom800de/img/modelyears_hp_2026.png | Suzuki Motor Corporation | desconocida |
+| /media/suzuki-v-strom-800de-2025-ficha-tecnica-precio-hunt2.webp | https://ridermagazine.com/wp-content/uploads/2024/12/2025-Suzuki-V-Strom-800DE-Adventure-Pearl-Tech-White.jpg | Rider Magazine | desconocida |
+| /media/suzuki-v-strom-800de-2025-ficha-tecnica-precio-hunt3.webp | https://images5.1000ps.net/images_bikekat/2025/3-Suzuki/11392-V_Strom_800DE/010-638718476810699656-suzuki-v-strom-800de.jpg | 1000PS | desconocida |
+| /media/apollo-phantom-2-hunt1.webp | http://apolloscooters.au/cdn/shop/files/A11_Black_springs_update_20250604_2.png | Apollo Scooters | desconocida |
+| /media/apollo-phantom-2-hunt2.webp | https://apolloscooters.ca/cdn/shop/files/A11_Mkt_01102024_16_1.png | Apollo Scooters | desconocida |
+| /media/apollo-phantom-2-hunt3.webp | https://apolloscooters.ca/cdn/shop/files/A11_Mkt_01102024_25_1.png | Apollo Scooters | desconocida |
+| /media/icaur-v25-2026-precio-ficha-tecnica-hunt1.webp | https://paultan.org/cn/2026/07/14/icaur-v25-revealed-in-china-reev-suv-with-up-to-150-km-wltc-ev-range/ | iCar/Chery (prensa oficial) vía Paul Tan | desconocida |
+| /media/icaur-v25-2026-precio-ficha-tecnica-hunt2.webp | https://www.4x4australia.com.au/news/icaur-confirms-v25-for-australia | iCar/Chery (prensa oficial) vía 4x4 Australia | desconocida |
+| /media/icaur-v25-2026-precio-ficha-tecnica-hunt3.webp | https://torquecafe.com/chinese-giant-adds-another-suv-to-australia-through-start-up-brand/ | iCar/Chery (prensa oficial) vía Torque Cafe | desconocida |
+| /media/bmw-i7-xdrive60-2026-precio-ficha-tecnica-hunt1.webp | https://autoimage.capitalone.com/dealer/2026-BMW-i7-xDrive60-WBY53EJ07TCY18657-AutoNationFeed_WBY53EJ07TCY18657_2695-80dd109d919696ab82f99d516309110726b1fc70ec931a68b3945858bf5283b2.jpg?width=1214&height | AutoNation (inventario 2026 BMW i7 xDrive60, VIN WBY53EJ07TCY18657, via Capital One autoimage) | desconocida |
+| /media/bmw-i7-xdrive60-2026-precio-ficha-tecnica-hunt2.webp | https://thecorneaimpression.com/wp-content/uploads/2026/04/P90636176_lowRes_bmw-i7-60-xdrive-04--1620x1080.jpg | BMW Group (foto de prensa P90636176, via The Cornea Impression) | desconocida |
+| /media/bmw-i7-xdrive60-2026-precio-ficha-tecnica-hunt3.webp | https://www.miniofmontgomerycounty.com/inventoryphotos/1069/wby53ej06tcx54112/ip/30.jpg?timestamp=2026-07-22T23:57:24Z&bg-color=FFFFFF&width=1200 | MINI of Montgomery County (foto de inventario, VIN WBY53EJ06TCX54112) | desconocida |
