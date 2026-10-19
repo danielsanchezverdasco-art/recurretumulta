@@ -1353,3 +1353,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/bmw-m3-cs-touring-2025-hunt1.webp | https://www.emanualonline.com/blog/2025-bmw-m3-cs-touring | BMW (foto oficial del press kit, vía eManualOnline) | desconocida |
 | /media/bmw-m3-cs-touring-2025-hunt2.webp | https://www.dailyrevs.com/cars/2025-bmw-m3-cs-touring-g81 | DailyRevs | desconocida |
 | /media/bmw-m3-cs-touring-2025-hunt3.webp | https://motorsactu.com/bmw-m3-cs-touring-la-fusion-parfaite-entre-performance-et-polyvalence/ | MotorsActu | desconocida |
+| /media/renault-kangoo-e-tech-combi-2024-precio-autonomia-hunt1.webp | https://www.espaciofurgo.com/hr/renault-kangoo-e-tech-285-km-dometa-za-elektri%C4%8Cni-combi-10 | Espacio Furgo (blog del motor) | desconocida |
+| /media/renault-kangoo-e-tech-combi-2024-precio-autonomia-hunt2.webp | https://www.mojelektromobil.sk/test-renault-kangoo-e-tech-techno/ | Moj Elektromobil (medio del motor) | desconocida |
+| /media/renault-kangoo-e-tech-combi-2024-precio-autonomia-hunt3.webp | https://www.formulapassion.it/auto/auto-news/novita-renault-kangoo-combi-e-tech-senza-segreti | Formula Passion (blog del motor) | desconocida |
+| /media/triumph-scrambler-1200-xe-2025-ficha-tecnica-precio-hunt1.webp | https://www.triumphmotorcycles.com/motorcycles/prior-model-year/2024/scrambler-1200-xe | Triumph Motorcycles (imagen oficial de prensa, MY24, misma generación) | desconocida |
+| /media/triumph-scrambler-1200-xe-2025-ficha-tecnica-precio-hunt2.webp | https://ridermagazine.com/2025-triumph-icon-editions-preview/ | Rider Magazine | desconocida |
+| /media/triumph-scrambler-1200-xe-2025-ficha-tecnica-precio-hunt3.webp | https://www.motoplanete.com/triumph/11109/1200-Scrambler-XE-2025/contact.html | Motoplanete | desconocida |
+| /media/elnagh-baron-565-2026-precio-ficha-tecnica-hunt1.webp | https://www.elnagh.com/tipologia/semintegrali/baron-565/ | Elnagh (foto oficial) | desconocida |
+| /media/elnagh-baron-565-2026-precio-ficha-tecnica-hunt2.webp | https://www.elnagh.com/tipologia/semintegrali/baron-565/ | Elnagh (foto oficial) | desconocida |
+| /media/elnagh-baron-565-2026-precio-ficha-tecnica-hunt3.webp | https://www.urbano.be/elnagh-baron-565 | Urbano (distribuidor) | desconocida |
+| /media/volvo-es90-2025-precio-ficha-tecnica-hunt1.webp | https://htxt.co.za/2025/09/fully-electric-volvo-es90-goes-into-production-expected-in-sa-next-year/ | Volvo Cars (foto oficial de prensa, vía htxt.co.za) | desconocida |
+| /media/volvo-es90-2025-precio-ficha-tecnica-hunt2.webp | https://electrek.co/2025/03/05/volvo-es90-revealed-800v-beauty-is-midway-between-suv-sedan-and-fastback/ | Volvo Cars (foto oficial de prensa, vía Electrek) | desconocida |
+| /media/volvo-es90-2025-precio-ficha-tecnica-hunt3.webp | https://www.scandia.be/la-volvo-es90-arrive-a-liege/ | Volvo Scandia (concesionario oficial) | desconocida |
+| /media/dacia-jogger-hybrid-140-7-plazas-2025-precio-ficha-tecnica-hunt1.webp | https://assets.renaultgroup.com/uploads/2024/12/Dacia-Jogger-HYBRID-140_resized.jpg?format=webp&width=1920 | Renault Group (prensa oficial) | desconocida (material de prensa del fabricante) |
+| /media/dacia-jogger-hybrid-140-7-plazas-2025-precio-ficha-tecnica-hunt2.webp | https://www.pruebatucoche.es/wp-content/uploads/2022/10/Dacia_Jogger_salpicadero-768x576.jpg | pruebatucoche.es | desconocida |
+| /media/dacia-jogger-hybrid-140-7-plazas-2025-precio-ficha-tecnica-hunt3.webp | https://medias.auto-selection.com/dacia/jogger/jogger-hybrid-140-7-places-gsr2-extreme-5p/2025?width=1024&quality=85 | auto-selection.com | desconocida |
+| /media/delage-d12-club-2025-precio-ficha-tecnica-hunt1.webp | https://histoiresroyales.fr/wp-content/uploads/2020/09/supercar-d12-delage.jpg | Foto de prensa Delage (vía Histoires Royales) | desconocida |
+| /media/delage-d12-club-2025-precio-ficha-tecnica-hunt2.webp | https://cdn-s3.autocarindia.com/legacy/cdni/ExtraImages/20200820045624_Delage-d12-1.jpg | Foto de prensa Delage (vía Autocar India) | desconocida |
+| /media/delage-d12-club-2025-precio-ficha-tecnica-hunt3.webp | https://doubleapex.co.za/wp-content/uploads/delage_d12_007-scaled-768x461.webp | Foto de prensa Delage (vía Double Apex) | desconocida |
+| /media/deepal-s05-awd-2026-precio-ficha-tecnica-hunt1.webp | https://www.domkrat.by/upload/resize_cache/img_catalog/s05/870_544_2/Deepal_S05_01.jpg | domkrat.by (concesionario Deepal Bielorrusia) | desconocida |
+| /media/deepal-s05-awd-2026-precio-ficha-tecnica-hunt2.webp | https://www.domkrat.by/upload/resize_cache/img_catalog/s05/870_544_2/Deepal_S05_03.jpg | domkrat.by (concesionario Deepal Bielorrusia) | desconocida |
+| /media/deepal-s05-awd-2026-precio-ficha-tecnica-hunt3.webp | https://carselectric.gr/wp-content/uploads/2026/05/Deepal-S05-PHEV-interior-1920x1052.jpg | carselectric.gr | desconocida |
+| /media/audi-a6-avant-2025-hunt1.webp | https://cdn.hiconsumption.com/wp-content/uploads/2025/03/2025-Audi-A6-Avant-0-Hero.jpg | hiconsumption.com | desconocida |
+| /media/audi-a6-avant-2025-hunt2.webp | https://digital.staff-capital.com/wp-content/uploads/audi-a6-avant-2025-02.webp | Staff Communities (staff-capital.com) | desconocida |
+| /media/audi-a6-avant-2025-hunt3.webp | https://cdn.hiconsumption.com/wp-content/uploads/2025/03/2025-Audi-A6-Avant-3-1000x667.jpg | hiconsumption.com | desconocida |
