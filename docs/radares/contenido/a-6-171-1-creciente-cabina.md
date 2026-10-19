@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 41.4108, -4.9639
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=41.4108,-4.9639)
 
+<iframe title="Mapa: radar a-6-171-1-creciente-cabina" src="https://www.google.com/maps?q=41.4108,-4.9639&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-6-171-1-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=41.4108,-4.9639&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** Vía, punto kilométrico, sentido y coordenadas proceden del XML oficial de radares fijos de la DGT (portal NAP, DATEX II, edición 2026-10-19). El dataset no asigna límite ni municipio a cada punto: los 120 km/h son el genérico del art. 48 del RGC para autovías, y Rueda se determinó con el geocodificador oficial CartoCiudad (IGN/CNIG).
 
 ## El punto exacto
