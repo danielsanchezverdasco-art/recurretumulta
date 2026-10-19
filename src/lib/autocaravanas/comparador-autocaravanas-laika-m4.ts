@@ -91,7 +91,7 @@ export const AUTOCARAVANAS_LAIKA_M4: Autocaravana[] = [
         { nombre: "Revisión célula Laika (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },
       ],
     },
-  },,
+  },
   {
     id: "laika-kosmo-509-2026-precio-ficha-tecnica",
     marca: "Laika",

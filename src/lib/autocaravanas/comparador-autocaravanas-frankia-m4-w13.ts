@@ -120,7 +120,7 @@ export const AUTOCARAVANAS_FRANKIA_M4: Autocaravana[] = [
       que priorizan autonomía y metros interiores. No es para quien solo disponga del
       carnet B —aquí el C1 es imprescindible—, ni para quien priorice la agilidad: 8,46 m
       de largo y 3,18 m de alto obligan a planificar itinerarios, aparcamientos y áreas
-      por adelantado.`,46 metros que
+      por adelantado. 8,46 metros que
       representa la puerta de entrada al mundo de los grandes integrales de la marca
       de Marktschorgast: camas gemelas traseras, salón en herradura, cocina MaxiFlex
       y un baño de generosas dimensiones, todo sobre chasis Fiat Ducato con una MMA

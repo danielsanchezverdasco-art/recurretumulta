@@ -99,7 +99,7 @@ export const CAMPERS_WESTFALIA: CocheComparador[] = [
     curiosidad: {
       texto:
         "Westfalia lleva camperizando furgonetas desde 1844 como carrocero y desde los años 50 con Volkswagen: inventó el concepto de camper que hoy copian todos.",
-      fuente: "Westfalia",
+      fuenteNombre: "Westfalia",
       fuenteUrl: "https://www.westfalia-mobil.com/",
     },
   },
@@ -198,7 +198,7 @@ export const CAMPERS_WESTFALIA: CocheComparador[] = [
     curiosidad: {
       texto:
         "La Columbus se llama así por Cristóbal Colón: Westfalia bautiza sus gamas con nombres de exploradores (Kepler, Amundsen, Sven Hedin).",
-      fuente: "Westfalia",
+      fuenteNombre: "Westfalia",
       fuenteUrl: "https://www.westfalia-mobil.com/",
     },
   },
@@ -297,7 +297,7 @@ export const CAMPERS_WESTFALIA: CocheComparador[] = [
     curiosidad: {
       texto:
         "Roald Amundsen fue el primer hombre en llegar al Polo Sur (1911): Westfalia reserva su nombre para la camper más aventurera sobre base Ford.",
-      fuente: "Westfalia",
+      fuenteNombre: "Westfalia",
       fuenteUrl: "https://www.westfalia-mobil.com/",
     },
   },
@@ -396,7 +396,7 @@ export const CAMPERS_WESTFALIA: CocheComparador[] = [
     curiosidad: {
       texto:
         "Sven Hedin fue el explorador sueco que cartografió Asia Central: su nombre va en la Westfalia más grande, pensada para grandes viajes.",
-      fuente: "Westfalia",
+      fuenteNombre: "Westfalia",
       fuenteUrl: "https://www.westfalia-mobil.com/",
     },
   },

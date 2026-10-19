@@ -162,7 +162,7 @@ export const AUTOCARAVANAS_ELNAGH_M4: Autocaravana[] = [
         { nombre: "Revisión célula Elnagh (anual recomendada)", queSeCambia: "Estanqueidad, gas/diésel, electricidad, humedades", costeAproxEur: 250 },
       ],
     },
-  },,
+  },
   {
     id: "elnagh-baron-573-2026-precio-ficha-tecnica",
     marca: "Elnagh",

@@ -27,7 +27,6 @@
 import type { Autocaravana } from "./tipos.ts";
 
 export const AUTOCARAVANAS_BURSTNER_M4: Autocaravana[] = [
-] = [
   {
     id: "burstner-lyseo-i-726-g-2026-precio-ficha-tecnica",
     marca: "Bürstner",
@@ -129,8 +128,7 @@ Para quién es: para quienes quieren una integral de verdad —conducción panor
         { nombre: "Revisión célula Bürstner (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },
       ],
     },
-  },,
-] = [
+  },
   {
     id: "burstner-campeo-td-690-g-2026-precio-ficha-tecnica",
     marca: "Bürstner",

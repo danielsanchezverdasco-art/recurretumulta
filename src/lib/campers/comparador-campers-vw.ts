@@ -138,7 +138,7 @@ Un último consejo práctico: como toda camper de techo elevable, el Beach agrad
     curiosidad: {
       texto:
               "El restyling 2026 de los Multivan y California toma como referencia rasgos de diseño del Volkswagen T1, el Bulli original de 1950: los nuevos faros LED y el frontal reinterpretan al icono que empezó la leyenda camper.",
-      fuente: "Fuente oficial / prensa especializada",
+      fuenteNombre: "Fuente oficial / prensa especializada",
       fuenteUrl:
         "https://www.coches.net/noticias/nuevos-volkswagen-multivan-california-actualizacion-2026",
     },
@@ -267,7 +267,7 @@ Y un apunte para quien dude entre el Coast y una camperización a medida: la Cal
     curiosidad: {
       texto:
               "La nueva California T7 es la primera camper de la historia en llevar de serie dos puertas laterales deslizantes (izquierda y derecha): puedes acceder a la nevera, ventilar o cargar desde el lado que prefieras.",
-      fuente: "Fuente oficial / prensa especializada",
+      fuenteNombre: "Fuente oficial / prensa especializada",
       fuenteUrl:
         "https://paultan.org/2024/05/08/2024-volkswagen-california-debuts/",
     },
@@ -396,7 +396,7 @@ Para sacarle todo el partido, merece la pena pedir en el concesionario la explic
     curiosidad: {
       texto:
               "El VW Multivan T7, la base sobre la que se construye la California, obtuvo 5 estrellas Euro NCAP en 2022, con un 90 % en protección de adultos y un 89 % en protección infantil: la camper parte de una de las furgonetas más seguras probadas.",
-      fuente: "Fuente oficial / prensa especializada",
+      fuenteNombre: "Fuente oficial / prensa especializada",
       fuenteUrl:
         "https://www.PARKERS.CO.UK/volkswagen/multivan/mpv-2022/15-tsi-life-5dr-lwb-dsg/specs/",
     },

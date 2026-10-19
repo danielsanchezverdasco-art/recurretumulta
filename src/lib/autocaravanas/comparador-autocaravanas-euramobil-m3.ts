@@ -106,7 +106,7 @@ Para quién es: para parejas viajeras de alto kilometraje que quieren una perfil
         { nombre: "Revisión célula Eura Mobil (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades, circuito Alde", costeAproxEur: 300 },
       ],
     },
-  },,
+  },
 {
     id: "euramobil-contura-766-eb-2026-precio-ficha-tecnica",
     marca: "Eura Mobil",

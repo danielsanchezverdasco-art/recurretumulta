@@ -100,7 +100,7 @@ export const CAMPERS_NIKY_ESPANOLAS: CocheComparador[] = [
     curiosidad: {
       texto:
         "La Nugget nació en 1986 de la colaboración entre Ford y el carrocero alemán Westfalia, y en 2026 celebra su 40 aniversario como una de las campers compactas más veteranas de Europa.",
-      fuente: "Auto Express / Ford",
+      fuenteNombre: "Auto Express / Ford",
       fuenteUrl:
         "https://www.autoexpress.co.uk/ford/transit-custom/105746/slow-selling-ford-transit-nugget-camper-axed-uk",
     },
@@ -203,7 +203,7 @@ export const CAMPERS_NIKY_ESPANOLAS: CocheComparador[] = [
     curiosidad: {
       texto:
         "El sistema híbrido enchufable de la Nugget Active deriva del Ford Kuga Plug-in Hybrid, que fue el PHEV más vendido de Europa entre 2021 y 2023 según datos de JATO Dynamics.",
-      fuente: "Ford — comunicado oficial 22/08/2024",
+      fuenteNombre: "Ford — comunicado oficial 22/08/2024",
       fuenteUrl:
         "https://ford-czech-republic.mynewsdesk.com/blog_posts/ford-rozsiri-radu-obytnych-vozu-nugget-nove-generace-o-stupen-vybavy-active-a-varianty-s-delsim-rozvorem-119541",
     },
@@ -306,7 +306,7 @@ export const CAMPERS_NIKY_ESPANOLAS: CocheComparador[] = [
     curiosidad: {
       texto:
         "La Nugget Plus fue la primera camper compacta de Ford en ofrecer aseo integrado de serie como opción, adelantándose a la Volkswagen California en este equipamiento.",
-      fuente: "New Atlas",
+      fuenteNombre: "New Atlas",
       fuenteUrl: "https://newatlas.com/campervans/ford-nugget-40-year-camper-van/",
     },
     fuenteNombre: "Ford Europa — comunicado oficial 22/08/2024",
@@ -409,7 +409,7 @@ export const CAMPERS_NIKY_ESPANOLAS: CocheComparador[] = [
     curiosidad: {
       texto:
         "La camperización de Camperiz se homologa manteniendo la clasificación del vehículo como turismo: no se convierte en vehículo vivienda y pasa la ITV como un coche normal.",
-      fuente: "Camperiz",
+      fuenteNombre: "Camperiz",
       fuenteUrl: "https://www.camperiz.com/peugeot-rifter/",
     },
     fuenteNombre: "Camperiz",
@@ -511,7 +511,7 @@ export const CAMPERS_NIKY_ESPANOLAS: CocheComparador[] = [
     curiosidad: {
       texto:
         "Camperiz define a su Dacia Dokker como «el vehículo camper más accesible del mercado»: nació como la camper low-cost de referencia en España.",
-      fuente: "Camperiz",
+      fuenteNombre: "Camperiz",
       fuenteUrl: "https://www.camperiz.com/dacia-dokker-camperiz/",
     },
     fuenteNombre: "Camperiz",
@@ -590,7 +590,7 @@ export const CAMPERS_NIKY_ESPANOLAS: CocheComparador[] = [
     creditoInteriorFoto: "Actualidad Motor – foto de prueba (no oficial)",
     curiosidad: {
       texto: "Renault explica en su blog oficial que un mueble cama-cocina básico para camperizar cuesta entre 600 y 800 euros, y una camperización integral puede llegar a los 20.000 euros.",
-      fuente: "Renault España",
+      fuenteNombre: "Renault España",
       fuenteUrl: "https://www.renault.es/blog/actualidad/camperizacion-viajes-furgonetas.html",
     },
     versiones: null,
@@ -667,7 +667,7 @@ export const CAMPERS_NIKY_ESPANOLAS: CocheComparador[] = [
     cargaUtilKg: null,
     curiosidad: {
       texto: "Tinkervan es carrocero oficial de Peugeot y colabora con la marca desde 2013, cuando camperizó la versión Teppee del Expert.",
-      fuente: "Finanzas.com",
+      fuenteNombre: "Finanzas.com",
       fuenteUrl: "https://www.finanzas.com/empresas/peugeot-estrena-gama-camper-con-versiones-del-traveller-y-del-rifter_13940608_102.html",
     },
     versiones: null,

@@ -244,7 +244,7 @@ export default function RadarPage() {
   useSeo({
     title: titulo,
     description: descripcion,
-    canonical: idUnico ? `/radares/${idUnico}` : "/radares",
+    canonical: idUnico ? `/radares/${idUnico}/` : "/radares",
     schema,
     datePublished: radar ? fechaVerificacion(mdCrudo) : null,
     dateModified: radar ? fechaVerificacion(mdCrudo) : null,

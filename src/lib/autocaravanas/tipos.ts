@@ -8,7 +8,7 @@ import type { CocheComparador } from "../comparador-coches-data.ts";
 
 export type Autocaravana = CocheComparador & {
   mmaKg: number | null;
-  carnetNecesario: string | null; // "B" | "B96" | "BE" | "C1"; null = sin dato fiable
+  carnetNecesario: string | null; // "B" | "B96" | "BE" | "C1" | "C"; null = sin dato fiable
   cargaUtilKg?: number | null; // SOLO si la publica la marca (nunca calculada)
   plazasDormir?: number | null; // plazas para dormir; las de viaje van en `plazas`
   descripcion?: string; // texto propio de la ficha (>= 800 palabras, orden Grok 22:15)

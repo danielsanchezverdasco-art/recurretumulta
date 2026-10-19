@@ -71,7 +71,7 @@ export const CAMPERS_GRUPO4: CocheComparador[] = [
         cargaUtilKg: null,
     curiosidad: {
       texto: "El Globetrail 600 DS se ofrece sobre Fiat Ducato con el motor 2.2 MultiJet de 140 CV y cambio manual de 6 marchas, con opción de cambio automático de 8 velocidades.",
-      fuente: "Dethleffs – ficha oficial del Globetrail 600 DS",
+      fuenteNombre: "Dethleffs – ficha oficial del Globetrail 600 DS",
       fuenteUrl: "https://www.dethleffs.de/camper-vans/globetrail/600-ds-fiat",
     },
   },
@@ -139,7 +139,7 @@ export const CAMPERS_GRUPO4: CocheComparador[] = [
         cargaUtilKg: null,
     curiosidad: {
       texto: "Pössl presentó para 2026 el Summit 600 L, hermano del Summit 600 con camas longitudinales en vez de transversal, como nuevo modelo de acceso a la gama desde 53.999 € en Alemania.",
-      fuente: "CamperVans Magazin",
+      fuenteNombre: "CamperVans Magazin",
       fuenteUrl: "https://www.campervans.de/news-termine/neuheiten/laengsbett-poessl-summit-600-l/",
     },
   },
@@ -207,7 +207,7 @@ export const CAMPERS_GRUPO4: CocheComparador[] = [
         cargaUtilKg: null,
     curiosidad: {
       texto: "Knaus forma parte del grupo Knaus Tabbert, uno de los mayores fabricantes europeos de vehículos de ocio, con marcas como Weinsberg, Tabbert y Morelo bajo el mismo paraguas.",
-      fuente: "Knaus Tabbert AG – Wikipedia",
+      fuenteNombre: "Knaus Tabbert AG – Wikipedia",
       fuenteUrl: "https://de.wikipedia.org/wiki/Knaus_Tabbert",
     },
   },
@@ -274,7 +274,7 @@ export const CAMPERS_GRUPO4: CocheComparador[] = [
         cargaUtilKg: null,
     curiosidad: {
       texto: "El CaraBus 600 MQ EDITION [FIRE] fue destacado en los Motorhome Design Awards del Caravan and Motorhome Club británico, con precio de partida de £60.445 en Reino Unido.",
-      fuente: "Caravan and Motorhome Club – Motorhome Design Awards",
+      fuenteNombre: "Caravan and Motorhome Club – Motorhome Design Awards",
       fuenteUrl: "https://www.caravanclub.co.uk/whats-on/awards/motorhome-design-awards/weinsberg/",
     },
   },

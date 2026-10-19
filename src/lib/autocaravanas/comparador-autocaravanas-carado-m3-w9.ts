@@ -236,7 +236,7 @@ En precio y red en España, la cifra es oficial y clara: 56.590 euros con IVA en
 
 Cómo lo verificamos: página oficial del modelo en carado.com/es/es (https://carado.com/es/es/autocaravanas/vans/v337), consultada el 19/10/2026, con precio de base, ficha técnica y dotación de serie; y el artículo «Meet Carado's Slim Motorhomes» de outandaboutlive.co.uk como contexto de la gama Van estrecha. Los apartados sin cifra oficial (carga útil, consumos, par, emisiones) permanecen en null y figuran en las notas.
 
-Para quién es: parejas que saltan de la tienda o la furgoneta a una autocaravana nueva, estrecha y manejable por menos de 57.000 euros; conductores que aparcan en ciudad o ruedan por puertos de montaña y agradecen cada centímetro de menos; durmientes de camas gemelas que viajan ligeros. No es para familias (dos camas y ninguna abatible disponible en este modelo) ni para quien exija una ducha separada generosa: el baño es compacto y resolutivo, lo que corresponde a 6,66 metros.`,,
+Para quién es: parejas que saltan de la tienda o la furgoneta a una autocaravana nueva, estrecha y manejable por menos de 57.000 euros; conductores que aparcan en ciudad o ruedan por puertos de montaña y agradecen cada centímetro de menos; durmientes de camas gemelas que viajan ligeros. No es para familias (dos camas y ninguna abatible disponible en este modelo) ni para quien exija una ducha separada generosa: el baño es compacto y resolutivo, lo que corresponde a 6,66 metros.`,
     pros: [
       "214 cm de anchura: se maneja y aparca casi como una camper",
       "56.590 € oficiales en España: de las perfiladas nuevas con gemelas más asequibles",

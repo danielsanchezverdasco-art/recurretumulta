@@ -15,7 +15,6 @@
 import type { Autocaravana } from "./tipos.ts";
 
 export const AUTOCARAVANAS_BENIMAR_M4: Autocaravana[] = [
-] = [
   {
     id: "benimar-benivan-120-up-2026-precio-ficha-tecnica",
     marca: "Benimar",
@@ -213,7 +212,6 @@ Para quién es: para familias de cinco o seis que necesitan dormir todos en cama
       ],
     },
   },
-] = [
   {
     id: "benimar-mileo-268-2026-precio-ficha-tecnica",
     marca: "Benimar",
