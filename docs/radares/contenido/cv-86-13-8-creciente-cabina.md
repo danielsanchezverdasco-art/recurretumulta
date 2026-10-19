@@ -12,6 +12,14 @@
 
 El puesto de control se sitúa en el **pk 13,8 de la CV-86** (provincia de Alicante, Comunitat Valenciana). Registra a los vehículos que marchan en **sentido creciente**, hacia pk crecientes. Geocodificación oficial del Instituto Geográfico Nacional: el radar está en **Elx/Elche**, provincia de Alicante. El punto vigilado más cercano es el de la **A-70, pk 27,4** (sentido decreciente): queda a 7,2 km hacia el este.
 
+<iframe title="Mapa: radar cv-86-13-8-creciente-cabina" src="https://www.google.com/maps?q=38.28626,-0.66651&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cv-86-13-8-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.28626,-0.66651&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La vía en cuestión es la CV-86, de la red autonómica, a su paso por Alicante. Es un eje con circulación heterogénea: pesados, turismos y motos comparten la calzada. El entorno es el corredor del Vinalopó y la costa, típico de esta parte de la provincia.
