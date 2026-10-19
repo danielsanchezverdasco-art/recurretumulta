@@ -2820,3 +2820,26 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/fantic-caballero-700-2025-ficha-tecnica-precio-hunt1.webp | https://www.inmoto.it/listino-nuovo/marche/fantic-motor/caballero-700-scrambler | InMoto.it (foto de prensa oficial Fantic Caballero 700) | desconocida |
 | /media/hiley-tiger-10-lite-hunt1.webp | https://electrotraveller.com/hiley/ | ElectroTraveller (foto oficial Hiley Tiger 10 Lite) | desconocida |
 | /media/cecotec-bongo-serie-z-off-road-hunt1.webp | https://www.pccomponentes.com/cecotec-bongo-serie-z-off-road-dark-green-patinete-electrico | PcComponentes | desconocida |
+| /media/montesa-cota-4ride-2026-ficha-tecnica-precio-hunt1.webp | https://bikes.honda.lt/modeliai/montesa-cota-4ride/prezentacija | Honda (bikes.honda.lt) | desconocida |
+| /media/montesa-cota-4ride-2026-ficha-tecnica-precio-hunt2.webp | https://www.ferrer-racing.fr/2026/02/02/montesa-cota-4ride-2026/ | Ferrer Racing | desconocida |
+| /media/montesa-cota-4ride-2026-ficha-tecnica-precio-hunt3.webp | https://www.doble.co.uk/montesa/trials/cota-4ride | Doble UK (concesionario) | desconocida |
+| /media/beta-alp-x-2025-ficha-tecnica-precio-hunt1.webp | https://images5.1000ps.net/images_bikekat/2025/57-Beta/12227-Alp_X/002-638720171899281052-beta-alp-x.jpg | Beta (foto oficial de catálogo, vía 1000PS) | desconocida |
+| /media/beta-alp-x-2025-ficha-tecnica-precio-hunt2.webp | https://www.naturet.fr/wp-content/uploads/2025/01/ALP-X-2.png | Nature T (distribuidor Beta Francia) | desconocida |
+| /media/beta-alp-x-2025-ficha-tecnica-precio-hunt3.webp | https://ultimatemotorcycling.com/wp-content/uploads/2025/04/2026-beta-alp-x-review-urban-adventure-motorcycle-14-1068x712.webp | Ultimate Motorcycling (prueba real del modelo) | desconocida |
+| /media/renault-arkana-2024-e-tech-145-precio-ficha-tecnica-hunt1.webp | https://images.dailyrevs.com/0000/v3/Renault/64af85ae1ba071aaf72dee09/2024-arkana-renault-27yaw0xtaiasyu4s.jpeg | Renault (foto oficial de prensa, vía DailyRevs) | desconocida |
+| /media/renault-arkana-2024-e-tech-145-precio-ficha-tecnica-hunt2.webp | https://medias.auto-selection.com/renault/arkana/arkana-e-tech-145-23/2024 | Auto Sélection (anuncio de vehículo) | desconocida |
+| /media/renault-arkana-2024-e-tech-145-precio-ficha-tecnica-hunt3.webp | https://dcms.renault.jp/car_lineup/arkana/renewal2024/img/common/modal/grade_img_01_in.jpg | Renault Japón (web oficial del producto) | desconocida |
+| /media/sxt-light-plus-v-hunt1.webp | https://www.voltride.sk/650-panda_thickbox_default/sxt-light-plus-v-ekfv.jpg | Voltride.sk (tienda de e-movilidad) | desconocida |
+| /media/sxt-light-plus-v-hunt2.webp | https://superscooterbros.de/wp-content/uploads/2020/04/ESCLGHTV-E.1_SXT_light_plus_V_eKFV_Vorderansicht_1.jpg | Super Scooter Bros (distribuidor SXT Alemania) | desconocida |
+| /media/sxt-light-plus-v-hunt3.webp | https://e-scooter-reifen.com/cdn/shop/files/sxt-light-plus-v-leichter-e-scooter-mit-strassenzulassung-506568.jpg | E-Scooter-Reifen.com (tienda especializada) | desconocida |
+| /media/navee-v50i-hunt1.webp | https://www.ezbike.ca/cdn/shop/files/NaveeV50i_2.png?v=1747234050&width=2048 | ezbike.ca (tienda, foto producto Navee V50i) | desconocida |
+| /media/navee-v50i-hunt2.webp | https://www.marketworld.hu/Navee-V50I-elektromos-roller | marketworld.hu (tienda, foto producto Navee V50I) | desconocida |
+| /media/renault-rafale-2025-atelier-alpine-precio-ficha-tecnica-hunt1.webp | https://auto.pub/proovisoit-renault-rafale-4x4/ | auto.pub (fotos prensa Renault) | desconocida |
+| /media/renault-rafale-2025-atelier-alpine-precio-ficha-tecnica-hunt2.webp | https://auto.pub/proovisoit-renault-rafale-4x4/ | auto.pub (fotos prensa Renault) | desconocida |
+| /media/renault-rafale-2025-atelier-alpine-precio-ficha-tecnica-hunt3.webp | https://auto.pub/proovisoit-renault-rafale-4x4/ | auto.pub (fotos prensa Renault) | desconocida |
+| /media/scorpa-sc-300-factory-2025-ficha-tecnica-precio-hunt1.webp | https://www.scorpa-motorcycles.com/fr/moto/300-sc-f-factory-2025 | Scorpa Motorcycles (web oficial del producto) | desconocida |
+| /media/scorpa-sc-300-factory-2025-ficha-tecnica-precio-hunt2.webp | https://www.scorpa-motorcycles.com/fr/moto/300-sc-f-factory-2025 | Scorpa Motorcycles (web oficial del producto) | desconocida |
+| /media/scorpa-sc-300-factory-2025-ficha-tecnica-precio-hunt3.webp | https://www.scorpa-motorcycles.com/en/moto/300-sc-f-factory-2026 | Scorpa Motorcycles (web oficial del producto) | desconocida |
+| /media/lamborghini-revuelto-2024-precio-ficha-tecnica-hunt1.webp | https://media.lamborghini.com/english/models/revuelto | Lamborghini (via drivable.app) | desconocida |
+| /media/lamborghini-revuelto-2024-precio-ficha-tecnica-hunt2.webp | https://www.vicariousmag.com/first-look-2024-lamborghini-revuelto/ | Vicarious Magazine | desconocida |
+| /media/lamborghini-revuelto-2024-precio-ficha-tecnica-hunt3.webp | https://www.dailyrevs.com/cars/2024-lamborghini-revuelto | DailyRevs | desconocida |
