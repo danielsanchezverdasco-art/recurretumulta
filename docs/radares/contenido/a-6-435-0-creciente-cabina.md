@@ -12,6 +12,14 @@
 
 En la A-6, pk 435,0, municipio de As Nogais (Lugo), se halla este radar; coordenadas 42.743664, -7.052079. Su campo de acción es el sentido creciente, el de los vehículos que avanzan hacia pks superiores, con destino ACORUÑA según el registro oficial. La vista enlazada de Street View permite situar el punto con precisión.
 
+<iframe title="Mapa: radar a-6-435-0-creciente-cabina" src="https://www.google.com/maps?q=42.743664,-7.052079&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-6-435-0-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.743664,-7.052079&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La A-6, la Autovía del Noroeste, es de titularidad estatal. El XML oficial le reconoce la singularidad «AUTOPISTA / AUTOVÍA» por su denominación. El documento no pormenoriza el tramo, luego la ficha no añade atributos.
