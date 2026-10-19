@@ -248,6 +248,9 @@ function CookieBanner() {
   // 13/10/2026 (PageSpeed): barra compacta que aparece cuando el navegador está ocioso,
   // fija abajo y sin ocupar espacio (no es el LCP ni mueve la maquetación). Misma lógica de consentimiento.
   useEffect(() => {
+    // 19/10/2026: nunca durante el prerender. Si no, el aviso queda "horneado" en el HTML
+    // estático: al entrar se ve un aviso sin JS que no responde a Aceptar (y sale aunque ya aceptaras).
+    if ((window as unknown as { __PRERENDER__?: boolean }).__PRERENDER__) return;
     let c = null; try { c = localStorage.getItem("rtm-cookie-consent"); } catch (e) { /* Sin acceso a localStorage; se muestra el aviso */ }
     if (c) return;
     const w = window as unknown as { requestIdleCallback?: (cb: () => void, o?: { timeout: number }) => number; cancelIdleCallback?: (id: number) => void };
