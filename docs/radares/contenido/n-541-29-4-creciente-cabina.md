@@ -12,6 +12,14 @@
 
 El emplazamiento está en la N-541, pk 29,4, en O Carballiño (Ourense), punto 42.425446, -8.104748. La cabina enfoca el sentido creciente, el de los vehículos hacia kilómetros más altos, con destino Vigo en el registro de la DGT. El enlace de Street View permite situar visualmente el radar en la carretera.
 
+<iframe title="Mapa: radar n-541-29-4-creciente-cabina" src="https://www.google.com/maps?q=42.425446,-8.104748&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-541-29-4-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.425446,-8.104748&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La N-541 es una carretera nacional convencional de la Red de Carreteras del Estado, titularidad del Ministerio de Transportes y Movilidad Sostenible. Comunica Ourense con Pontevedra por el interior gallego. El XML oficial no ofrece datos del tramo donde está la cabina, así que esta ficha no describe su trazado.
