@@ -6,6 +6,13 @@
 **Coordenadas (WGS84):** 42.14442, -0.32866
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.14442,-0.32866)
 
+<iframe title="Mapa: radar n-240-202-0-creciente-cabina" src="https://www.google.com/maps?q=42.14442,-0.32866&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-240-202-0-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.14442,-0.32866&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
 > **Cómo lo verificamos:** posición, carretera, punto kilométrico y sentido extraídos del fichero oficial de radares fijos de la DGT en formato DATEX II, revisado el 2026-10-18. La DGT no difunde el límite de velocidad ni el municipio de este emplazamiento, así que la ficha no los contiene.
 
 ## El punto exacto de vigilancia
