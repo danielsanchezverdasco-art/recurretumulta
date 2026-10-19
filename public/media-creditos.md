@@ -1329,3 +1329,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/volkswagen-t-roc-15-etsi-2026-precio-ficha-tecnica-hunt1.webp | https://www.megautos.com/wp-content/uploads/2025/08/DB2025AU01032_large.jpg | Megautos | desconocida |
 | /media/volkswagen-t-roc-15-etsi-2026-precio-ficha-tecnica-hunt2.webp | https://cdn-xy.drivek.com/b787d585/uploads/sites/2/2025/09/img1.jpg | DriveK | desconocida |
 | /media/volkswagen-t-roc-15-etsi-2026-precio-ficha-tecnica-hunt3.webp | https://autogreeknews.gr/wp-content/uploads/2026/03/VW-T-Roc-2026-interior-1.jpg | Autogreeknews | desconocida |
+| /media/tvs-iqube-2026-ficha-tecnica-precio-hunt1.webp | https://cdn.bikedekho.com/upload/userfiles/images/682c2aeb4fc7c.jpg?tr=w-930 | BikeDekho | desconocida |
+| /media/tvs-iqube-2026-ficha-tecnica-precio-hunt2.webp | https://images.financialexpressdigital.com/2025/05/2025-tvs-iqube_20250511073249.jpg?quality=100&w=1024 | Financial Express | desconocida |
+| /media/tvs-iqube-2026-ficha-tecnica-precio-hunt3.webp | https://gaadiwaadi.com/wp-content/uploads/2025/05/2025-TVS-iQube-ST-1-1068x610.jpg | GaadiWaadi | desconocida |
+| /media/dacia-duster-tce-130-4x4-2025-precio-ficha-tecnica-hunt1.webp | https://seo-cms.autoscout24.ch/wp-content/uploads/2025/02/618486B-1024x683.jpg | AutoScout24 | desconocida |
+| /media/dacia-duster-tce-130-4x4-2025-precio-ficha-tecnica-hunt2.webp | https://en.wheelz.me/wp-content/uploads/2023/11/All-NewDaciaDusterWithRoofRack5.webp | Wheelz.me | desconocida |
+| /media/dacia-duster-tce-130-4x4-2025-precio-ficha-tecnica-hunt3.webp | https://alamalsayarat.com/wp-content/uploads/Dacia-Duster-III-Interior-6.webp | alamalsayarat.com | desconocida |
+| /media/dacia-bigster-tce-140-2025-precio-ficha-tecnica-hunt1.webp | https://carnovo.com/wp-content/uploads/2025/12/dacia-bigster.jpg | carnovo.com | desconocida |
+| /media/dacia-bigster-tce-140-2025-precio-ficha-tecnica-hunt2.webp | https://www.actualidadmotor.com/wp-content/uploads/2024/10/dacia-bigster-1.jpg | ActualidadMotor | desconocida |
+| /media/dacia-bigster-tce-140-2025-precio-ficha-tecnica-hunt3.webp | https://www.autobics.com/wp-content/uploads/2024/10/Dacia-Bigster-HYBRID-155-Interior.jpg | autobics.com | desconocida |
+| /media/dacia-jogger-tce-110-7-plazas-2026-precio-ficha-tecnica-hunt1.webp | https://www.completecar.ie/car-reviews/article/Dacia/Jogger/Jogger_(2026)/2665/14695/2026-Dacia-Jogger-(2026)-review.html | CompleteCar.ie | desconocida |
+| /media/dacia-jogger-tce-110-7-plazas-2026-precio-ficha-tecnica-hunt2.webp | https://carnovo.com/es/guias/dacia-jogger-2026/ | Carnovo | desconocida |
+| /media/dacia-jogger-tce-110-7-plazas-2026-precio-ficha-tecnica-hunt3.webp | https://www.completecar.ie/car-reviews/article/Dacia/Jogger/Jogger_(2026)/2665/14695/2026-Dacia-Jogger-(2026)-review.html | CompleteCar.ie | desconocida |
+| /media/carado-t-447-2026-hunt1.webp | https://es.camperscaravans.nl/marca/carado-t-447 | CampersCaravans.nl | desconocida |
+| /media/carado-t-447-2026-hunt2.webp | https://www.abcmobile.be/mobilhomes/carado-t447-pro-9251096010/ | ABC Mobile | desconocida |
+| /media/carado-t-447-2026-hunt3.webp | https://www.fritidssentret.no/bobiler/carado-t447-clever-edition/17798 | Fritidssentret.no | desconocida |
+| /media/qjmotor-srk-400rs-hunt1.webp | https://qjmotor.co.jp/model/new-srk-400-rs/ | QJMotor (foto oficial) | desconocida |
+| /media/qjmotor-srk-400rs-hunt2.webp | https://www.motomegane.com/news-release/news/info_qjmotor-srk400rs_20260406 | Motomegane (nota de prensa) | desconocida |
+| /media/qjmotor-srk-400rs-hunt3.webp | https://www.motoo.com.br/fotos/2026/2/1280_960/srk-400rs-3_20022026_68847_1280_960.jpg | Motoo | desconocida |
+| /media/dacia-jogger-hybrid-140-2025-precio-ficha-tecnica-hunt1.webp | https://www.autoscout24.it/informare/prove/dacia/ | AutoScout24 (review editorial) | desconocida |
+| /media/dacia-jogger-hybrid-140-2025-precio-ficha-tecnica-hunt2.webp | https://WWW.parkers.co.UK/dacia/jogger/suv/review/ | Parkers (review editorial) | desconocida |
+| /media/dacia-jogger-hybrid-140-2025-precio-ficha-tecnica-hunt3.webp | https://www.automaistv.com.br/novidades/chevrolet-spin-da-dacia-ganha-sistema-hibrido-e-autonomia-de-1-480-km/ | Automaistv | desconocida |
+| /media/bmw-m3-cs-touring-2025-hunt1.webp | https://www.emanualonline.com/blog/2025-bmw-m3-cs-touring | BMW (foto oficial del press kit, vía eManualOnline) | desconocida |
+| /media/bmw-m3-cs-touring-2025-hunt2.webp | https://www.dailyrevs.com/cars/2025-bmw-m3-cs-touring-g81 | DailyRevs | desconocida |
+| /media/bmw-m3-cs-touring-2025-hunt3.webp | https://motorsactu.com/bmw-m3-cs-touring-la-fusion-parfaite-entre-performance-et-polyvalence/ | MotorsActu | desconocida |
