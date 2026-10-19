@@ -2008,3 +2008,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/torrot-muvi-city-2025-ficha-tecnica-precio-hunt1.webp | https://torrot.com/en/muvi | Torrot (web oficial del producto) | desconocida |
 | /media/torrot-muvi-city-2025-ficha-tecnica-precio-hunt2.webp | https://www.torrot.ae/ | Torrot (distribuidor oficial torrot.ae) | desconocida |
 | /media/torrot-muvi-city-2025-ficha-tecnica-precio-hunt3.webp | https://www.babiliq.com/ | Babiliq | desconocida |
+| /media/urban-glide-ride-100-max-hunt1.webp | https://www.discoazul.it/patinete-electrico-urban-glide-ride-100-max-negro.html | DiscoAzul | desconocida |
+| /media/urban-glide-ride-100-max-hunt2.webp | https://www.patineteelectricohomologado.es/urban-glide/ | Patinete Eléctrico Homologado | desconocida |
+| /media/urban-glide-ride-100-max-hunt3.webp | https://cdn.1bgs.sbs/products/36392001 | Vendedor oficial (foto de producto) | desconocida |
+| /media/alfa-romeo-junior-elettrica-156-precio-ficha-tecnica-hunt1.webp | https://www.km77.com/coches/alfa-romeo/junior/2025/estandar/electrico/junior-elettrica-54-kwh-115-kw-156-cv/datos/equipamiento | km77.com | desconocida |
+| /media/alfa-romeo-junior-elettrica-156-precio-ficha-tecnica-hunt2.webp | https://www.motorone.gr/epikairotita/ellada/140391/dokimazoume-3-ilektrika-suv-me-timi-eos-25-000-e/ | motorone.gr (prueba Elettrica Speciale 156HP) | desconocida |
+| /media/alfa-romeo-junior-elettrica-156-precio-ficha-tecnica-hunt3.webp | https://www.autoscout24.de/informieren/testberichte/alfa-romeo/junior/test-alfa-romeo-junior-elettrica-la-passione-unter-strom/ | autoscout24.de (prueba Junior Elettrica) | desconocida |
+| /media/jetour-t2-i-dm-2024-precio-ficha-tecnica-hunt1.webp | https://jetourglobal.com/T2iDM | Jetour Global (página oficial del modelo) | desconocida |
+| /media/jetour-t2-i-dm-2024-precio-ficha-tecnica-hunt2.webp | https://www.jetouruae.com/en/new-models/jetour-t2-idm/ | Jetour UAE (página oficial del modelo) | desconocida |
+| /media/jetour-t2-i-dm-2024-precio-ficha-tecnica-hunt3.webp | https://derechadiario.com.ar/negocios-finanzas/jetour-lanzo-t2-hibrido-enchufable-argentina-como-es-suv-chino-cuanto-cuesta | derechadiario.com.ar (Jetour T2 híbrido enchufable) | desconocida |
+| /media/urban-glide-ride-100-pro-2-hunt1.webp | https://www.decathlon.fr/p/mp/urbanglide/urbanglide-ride-100-pro-2-trottinette-electrique-350w-autonomie-30-km/_/R-p-74efa110-d742-47c5-aa7a-7c4ad397dfea | Decathlon (ficha de producto) | desconocida |
+| /media/urban-glide-ride-100-pro-2-hunt2.webp | https://www.carrefour.fr/p/trottinette-electrique-urbanglide-ride-100-pro-2-36v-350w-7-5ah-3700092669853 | Carrefour (ficha de producto) | desconocida |
+| /media/urban-glide-ride-100-pro-2-hunt3.webp | https://www.mediamarkt.es/es/product/_patinete-electrico-urbanglide-ride-100-pro-2-pot-max-350-w-carga-max-120-kg-negro-165211513.html | MediaMarkt (ficha de producto) | desconocida |
+| /media/yadea-g5-s-2025-ficha-tecnica-precio-hunt1.webp | https://www.katnoim.com/brands/yadea | katnoim.com | desconocida |
+| /media/yadea-g5-s-2025-ficha-tecnica-precio-hunt2.webp | https://www.inmoto.it/listino-nuovo/marche/yadea/g5-s | inmoto.it | desconocida |
+| /media/yadea-g5-s-2025-ficha-tecnica-precio-hunt3.webp | https://moto.motorionline.com/de/Fotos/Yadea-G5s-Foto/103/ | moto.motorionline.com | desconocida |
+| /media/alfa-romeo-tonale-phev-q4-280-precio-ficha-tecnica-hunt1.webp | https://static0.carbuzzimages.com/wordpress/wp-content/uploads/gallery-images/original/953000/200/953252.jpg?q=50&fit=contain&w=3000&h=1936&dpr=1.5 | CarBuzz | desconocida |
+| /media/alfa-romeo-tonale-phev-q4-280-precio-ficha-tecnica-hunt2.webp | https://static0.carbuzzimages.com/wordpress/wp-content/uploads/gallery-images/original/953000/200/953237.jpg?q=50&fit=contain&w=3000&h=1997&dpr=1.5 | CarBuzz | desconocida |
+| /media/alfa-romeo-tonale-phev-q4-280-precio-ficha-tecnica-hunt3.webp | https://www.motortrend.com/uploads/2023/01/2024-Alfa-Romeo-Tonale-PHEV-Hybrid-SUV-CUV-Crossover-24.jpg | MotorTrend / Stellantis (foto de prensa) | desconocida |
+| /media/genesis-gv80-2025-hunt1.webp | https://static0.carbuzzimages.com/wordpress/wp-content/uploads/gallery-images/original/1183000/800/1183897.jpg?q=50&fit=contain&w=2272&h=1515&dpr=1.5 | CarBuzz | desconocida |
+| /media/genesis-gv80-2025-hunt2.webp | https://www.carexplore.com.au/content/images/size/w1200/2024/09/genesis-2025-gv80-my25_jx_0720_16-9.webp | CarExplore | desconocida |
+| /media/genesis-gv80-2025-hunt3.webp | https://static0.carbuzzimages.com/wordpress/wp-content/uploads/gallery-images/original/1183000/800/1183890.jpg?q=50&fit=contain&w=1920&h=1280&dpr=1.5 | CarBuzz | desconocida |
+| /media/jetour-shanhai-l7-2024-precio-ficha-tecnica-hunt1.webp | https://wcevcar.com/static/upfiles/202504/6802072ddc34d.webp | wcevcar.com | desconocida |
+| /media/jetour-shanhai-l7-2024-precio-ficha-tecnica-hunt2.webp | https://image.made-in-china.com/2f0j00fcjvphwqZaoL/Best-Selling-Series-Jetour-Shanhai-L7-Left-Hand-Drive-1-5t-Plug-in-Hybrid-180km-H-5-Door-7-Seater-Medium-Sized-SUV-Electric-Car-Electric-Vehicle.jpg | Made-in-China.com / Kiwiauto (foto comercial del anunciante) | desconocida |
+| /media/jetour-shanhai-l7-2024-precio-ficha-tecnica-hunt3.webp | https://media.ixbt.com/fit-in/1076x600/https://www.ixbt.com/img/n1/news/2024/8/1/image-172_large.png | iXBT.com | desconocida |
