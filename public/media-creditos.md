@@ -1110,3 +1110,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/hongqi-hs3-phev-2025-precio-ficha-tecnica-hunt1.webp | https://ev1.ru/ | EV1.ru | desconocida |
 | /media/hongqi-hs3-phev-2025-precio-ficha-tecnica-hunt2.webp | https://www.hongqi-ae.com/ar/car/hs3 | Hongqi UAE / web oficial | desconocida |
 | /media/hongqi-hs3-phev-2025-precio-ficha-tecnica-hunt3.webp | https://www.borderlesscar.com/product/hongqi-hs3/ | Borderless Car | desconocida |
+| /media/urban-glide-1000gt-2x2-hunt1.webp | https://urbanglide.com/wp-content/uploads/2025/01/1000GT2x2.png | Urban Glide (web oficial) | desconocida |
+| /media/urban-glide-1000gt-2x2-hunt2.webp | https://urbanglide.com/wp-content/uploads/2025/02/1000GT-pliee.webp | Urban Glide (web oficial) | desconocida |
+| /media/urban-glide-1000gt-2x2-hunt3.webp | https://techolic.gr/images/products/Urban%20Glide/1000GT%202x2-2.jpg | Techolic.gr | desconocida |
+| /media/byd-dolphin-active-95-2026-precio-ficha-tecnica-hunt1.webp | https://prod.byd.com/es-es/coches-electricos/dolphin | BYD España / prensa oficial | desconocida |
+| /media/byd-dolphin-active-95-2026-precio-ficha-tecnica-hunt2.webp | https://www.carwow.co.uk/byd/dolphin | Carwow UK | desconocida |
+| /media/byd-dolphin-active-95-2026-precio-ficha-tecnica-hunt3.webp | https://oto365.net/hang-xe-khuyen-mai-thang-3-co-hoi-vang-cho-khach-hang-viet-27357 | Oto365 / prensa | desconocida |
+| /media/aprilia-tuono-v4-factory-2025-ficha-tecnica-precio-hunt1.webp | http://ridermagazine.com/2025-aprilia-tuono-v4-tuono-v4-factory-and-tuono-660-factory-preview/ | Rider Magazine | desconocida |
+| /media/aprilia-tuono-v4-factory-2025-ficha-tecnica-precio-hunt2.webp | https://ultimatemotorcycling.com/2024/11/06/2025-aprilia-tuono-v4-lineup-first-look-9-fast-facts-2-models/ | Ultimate Motorcycling | desconocida |
+| /media/aprilia-tuono-v4-factory-2025-ficha-tecnica-precio-hunt3.webp | https://www.1000ps.com/de-de/modell/8008/aprilia-tuono-v4-1100-factory/2025 | 1000PS | desconocida |
+| /media/subaru-forester-2025-precio-ficha-tecnica-hunt1.webp | https://www.subaru.es/vehiculos/forester | Subaru España / web oficial | desconocida |
+| /media/subaru-forester-2025-precio-ficha-tecnica-hunt2.webp | https://maynardsgarage.com/author/maynardsgarage/page/7/ | Maynards Garage | desconocida |
+| /media/subaru-forester-2025-precio-ficha-tecnica-hunt3.webp | https://www.subaru.es/vehiculos/forester | Subaru España / web oficial | desconocida |
+| /media/gotrax-g3-hunt1.webp | https://motoplus.md/produs/trotineta-electrica-gotrax-g3-450-w/ | Motoplus.md | desconocida |
+| /media/gotrax-g3-hunt2.webp | https://www.walmart.com/ip/GOTRAX-G3-Electric-Scooter-8-5-Pneumatic-Tires-Max-18mile-Range-and-15-5Mph-Power-by-350W-Motor-Foldable-Escooter-for-Adult-Unisex-Black/559990984 | Walmart | desconocida |
+| /media/gotrax-g3-hunt3.webp | https://txpowersports.com/gotrax-g3-electric-scooter/ | TX Powersports | desconocida |
+| /media/byd-tang-2024-precio-ficha-tecnica-hunt1.webp | https://www.dailyrevs.com/cars/2024-byd-tang-european-version | DailyRevs | desconocida |
+| /media/byd-tang-2024-precio-ficha-tecnica-hunt2.webp | https://www.autoreview.nl/nieuws/id/33987/byd-tang-2024-elektrische-suv-7-personen-batterij-108-kwh | Autoreview.nl | desconocida |
+| /media/byd-tang-2024-precio-ficha-tecnica-hunt3.webp | https://www.dailyrevs.com/cars/2024-byd-tang-european-version | DailyRevs | desconocida |
+| /media/byd-han-2024-precio-ficha-tecnica-hunt1.webp | https://www.byd.com/material/byd-site/mx/han/_Han.jpg | BYD México — web oficial | desconocida |
+| /media/byd-han-2024-precio-ficha-tecnica-hunt2.webp | https://dolubatarya.com/uploads/2024/12/byd-han-1507-750.jpg | Licarco (licarco.com) | desconocida |
+| /media/byd-han-2024-precio-ficha-tecnica-hunt3.webp | https://carnewschina.com/wp-content/uploads/2024/02/hanEVinterior-800x584.jpg | CarNewsChina | desconocida |
+| /media/byd-qin-l-ev-2025-precio-ficha-tecnica-hunt1.webp | https://www.exp-byd.com/wp-content/uploads/2025/11/ef03046d7665459b8836002f5c7f32c32508x0-2048x1365.webp | exp-byd.com (página BYD Qin L EV) | desconocida |
+| /media/byd-qin-l-ev-2025-precio-ficha-tecnica-hunt2.webp | https://topictree.co.kr/wp-content/uploads/2025/02/BYD-Qin-L-EV-unveiled-6-768x512.jpg | Topictree (topictree.co.kr) | desconocida |
+| /media/byd-qin-l-ev-2025-precio-ficha-tecnica-hunt3.webp | http://automedia.ir/wp-content/uploads/2025/12/BYD-Qin-L-2.webp | Automedia.ir | desconocida |
