@@ -1804,3 +1804,17 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/suzuki-swift-sport-2024-precio-ficha-tecnica-hunt1.webp | https://editorial.pxcrush.net/carsales/general/editorial/2024-suzuki-swift-sport-28.jpg | Carsales | desconocida |
 | /media/suzuki-swift-sport-2024-precio-ficha-tecnica-hunt2.webp | https://cdn.galleries.smcloud.net/t/galleries/gf-uQfC-fmRV-YKjW_suzuki-swift-sport-1280x960.jpg | Suzuki (prensa oficial) | desconocida |
 | /media/suzuki-swift-sport-2024-precio-ficha-tecnica-hunt3.webp | https://www.suzukichihuahua.com.mx/autos/swift_sport/cp2.jpg | Suzuki Chihuahua (concesionario oficial) | desconocida |
+| /media/toyota-proace-max-2025-precio-ficha-tecnica-hunt1.webp | https://www.quecochemecompro.com/comparativa/ford-transit-connect-vs-toyota-proace-max/ | Toyota (foto de prensa, vía quecochemecompro.com) | desconocida |
+| /media/toyota-proace-max-2025-precio-ficha-tecnica-hunt2.webp | https://bilweb.se/uppsala-lan/toyota-proace-max-electric-l3h2-comfort-110kwh-4-25t-fabriksny-kampanjpris-2026-transportbil-skap-332853 | Toyota / bilweb.se | desconocida |
+| /media/toyota-proace-max-2025-precio-ficha-tecnica-hunt3.webp | https://www.autozine.nl/toyota/proace-max/nieuws/toyota-maakt-prijzen-proace-max-bekend/foto//0 | Toyota (foto de prensa, vía autozine.nl) | desconocida |
+| /media/volvo-xc60-t8-2026-precio-ficha-tecnica-hunt1.webp | https://cdn.prod.website-files.com/5ec85520c4dfff034b036be2/69e69a0956d9ecbc624133c7_2026-Volvo-XC60-T8-three-quarter-front-view.webp | GreenCars.com | desconocida |
+| /media/volvo-xc60-t8-2026-precio-ficha-tecnica-hunt2.webp | https://images.dailyrevs.com/0000/v3/Volvo/67b54aebc115ed55566e6296/2026-xc60-volvo-14moni00l4dna69zdfd.jpeg | DailyRevs (foto de prensa Volvo) | desconocida |
+| /media/volvo-xc60-t8-2026-precio-ficha-tecnica-hunt3.webp | https://cdn-fastly.autoguide.com/media/2025/10/24/090248/s-2026-volvo-xc60-all-the-details.jpg?size=650x832&nocrop=1 | AutoGuide.com | desconocida |
+| /media/ktm-1390-super-duke-r-evo-2026-ficha-tecnica-precio-hunt1.webp | http://www.ktm-bvz.de/motorrad-modell-ktm-1390-super-duke-r-evo-12259-2026 | KTM-BVZ / 1000PS | desconocida |
+| /media/ktm-1390-super-duke-r-evo-2026-ficha-tecnica-precio-hunt2.webp | https://www.spmotorcycles.co.uk/asset/2026-ktm-1390-super-duke-r-evo/ | SP Motorcycles | desconocida |
+| /media/ktm-1390-super-duke-r-evo-2026-ficha-tecnica-precio-hunt3.webp | https://www.spmotorcycles.co.uk/asset/2026-ktm-1390-super-duke-r-evo/ | SP Motorcycles | desconocida |
+| /media/chevrolet-corvette-e-ray-2025-hunt1.webp | https://www.graueinc.com/2025-chevrolet-corvette-e-ray | Graue Inc. | desconocida |
+| /media/chevrolet-corvette-e-ray-2025-hunt2.webp | https://www.completecar.ie/car-reviews/article/Chevrolet/Corvette/Corvette_E-Ray_(2025)/2602/14408/2025-Chevrolet-Corvette-E-Ray-(2025)-review.html | Complete Car Ireland / Chevrolet | desconocida |
+| /media/dfsk-f5-2026-precio-ficha-tecnica-hunt1.webp | https://idoneo.es/renting/dfsk/f5 | Idoneo | desconocida |
+| /media/dfsk-f5-2026-precio-ficha-tecnica-hunt2.webp | https://rentacar.canarias.com/cars | Canarias.com Rent a Car | desconocida |
+| /media/dfsk-f5-2026-precio-ficha-tecnica-hunt3.webp | https://im.integralmotion.es/coches-nuevos/vehiculo/dfsk-f5-petrol-gasolina-automatico-otros-2025-madrid_3041296 | Integral Motion | desconocida |
