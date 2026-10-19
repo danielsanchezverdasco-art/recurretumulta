@@ -2347,3 +2347,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/audi-rs-q8-2025-precio-ficha-tecnica-hunt1.webp | http://www.carenthusiast.com/news/article/13688/-/2025-Audi-Q8/Audi+unveils+2025+RS+Q8.html | Car Enthusiast | desconocida |
 | /media/audi-rs-q8-2025-precio-ficha-tecnica-hunt2.webp | https://www.dailyrevs.com/cars/2025-audi-rs-q8 | DailyRevs.com | desconocida |
 | /media/audi-rs-q8-2025-precio-ficha-tecnica-hunt3.webp | https://rpmweb.ca/essais/premier-contact/audi-rs-q8-performance-2025-juste-un-peu-plus-puissant | RPM Web | desconocida |
+| /media/lamborghini-huracan-evo-rwd-spyder-2024-precio-ficha-tecnica-hunt1.webp | https://carbuzz.com/cars/lamborghini/huracan-evo-spyder/2024/ | CarBuzz | desconocida |
+| /media/lamborghini-huracan-evo-rwd-spyder-2024-precio-ficha-tecnica-hunt2.webp | https://carbuzz.com/cars/lamborghini/huracan-evo-spyder/2024/ | CarBuzz | desconocida |
+| /media/lamborghini-huracan-evo-rwd-spyder-2024-precio-ficha-tecnica-hunt3.webp | https://carbuzz.com/cars/lamborghini/huracan-evo-spyder/2024/ | CarBuzz | desconocida |
+| /media/renault-scenic-e-tech-87-kwh-2025-precio-ficha-tecnica-hunt1.webp | https://www.planetcarsz.com/carros/renault-scenic-e-tech-electric-2025 | PlanetCarsZ (fotos oficiales Renault) | desconocida |
+| /media/renault-scenic-e-tech-87-kwh-2025-precio-ficha-tecnica-hunt2.webp | https://www.planetcarsz.com/carros/renault-scenic-e-tech-electric-2025 | PlanetCarsZ (fotos oficiales Renault) | desconocida |
+| /media/renault-scenic-e-tech-87-kwh-2025-precio-ficha-tecnica-hunt3.webp | https://www.planetcarsz.com/carros/renault-scenic-e-tech-electric-2025 | PlanetCarsZ (fotos oficiales Renault) | desconocida |
+| /media/audi-e-tron-gt-2025-precio-ficha-tecnica-hunt1.webp | https://www.netcarshow.com/audi/2025-s_e-tron_gt/ | NetCarShow (foto de prensa) | desconocida |
+| /media/audi-e-tron-gt-2025-precio-ficha-tecnica-hunt2.webp | https://www.motordonkey.com/images/audi/e-tron-gt/2025/4x3/2025-audi-e-tron-gt-front-interior-dashboard-960.webp | MotorDonkey | desconocida |
+| /media/audi-e-tron-gt-2025-precio-ficha-tecnica-hunt3.webp | https://www.hibridosyelectricos.com/uploads/s1/79/90/53/audi-rs-e-tron-gt-performance-port_4_1000x563.jpeg | Híbridos y Eléctricos | desconocida |
+| /media/lamborghini-huracan-evo-spyder-2024-precio-ficha-tecnica-hunt1.webp | https://media.lamborghini.com/english/models/huracan/huracan-evo-spyder | Lamborghini (foto de prensa oficial) | desconocida |
+| /media/lamborghini-huracan-evo-spyder-2024-precio-ficha-tecnica-hunt2.webp | https://carbuzz.com/cars/lamborghini/huracan-evo-spyder/2024/ | Carbuzz | desconocida |
+| /media/lamborghini-huracan-evo-spyder-2024-precio-ficha-tecnica-hunt3.webp | https://exoticcars.ae/Lamborghini-Huracan-EVO-Spyder/4120 | Exotic Cars Dubai | desconocida |
+| /media/audi-q2-2025-precio-ficha-tecnica-hunt1.webp | https://www.bymycar.fr/audi-q2-35-tfsi-150-s-tronic-7-neuf-villefranche-sur-saone-2025150 | ByMyCar | desconocida |
+| /media/audi-q2-2025-precio-ficha-tecnica-hunt2.webp | https://thebeep.com.au/cars/audi/q2 | The Beep | desconocida |
+| /media/audi-q2-2025-precio-ficha-tecnica-hunt3.webp | https://www.justcars.com.au/4x4s-for-sale/2025-audi-q2-ga-my25-35-tfsi-s-line-7-sp-auto-s-tronic-4d-wagon/JAFD5381361 | Just Cars | desconocida |
+| /media/audi-rs5-avant-2025-precio-ficha-tecnica-hunt1.webp | https://www.audi.at/dam/images/727851fbcfb901525491189add4c680432f26894/89632faaa60ccf26902a5255eb69beb6/06061cd0-e203-4a75-9896-ee7b159f8fe5/crop:SMART/resize:1920:1080/RS5_Avant_MJ26_DSS_Alpha_A_2_000_B1B1-S | Audi (prensa oficial) | desconocida |
+| /media/audi-rs5-avant-2025-precio-ficha-tecnica-hunt2.webp | https://fischer-auto.de/fahrzeuge/verkaufsaktionen/audi-rs5-avant | Fischer Auto (concesionario oficial Audi) | desconocida |
+| /media/audi-rs5-avant-2025-precio-ficha-tecnica-hunt3.webp | https://www.evo.co.uk/audi/rs5/208539/audi-rs5-review-ingolstadts-super-estate-eyes-the-bmw-m3-touring | evo.co.uk | desconocida |
+| /media/audi-sq6-e-tron-2025-precio-ficha-tecnica-hunt1.webp | https://www.MOTORTREND.com/news/2025-audi-q6-e-tron-first-look-review/photos | MotorTrend (foto oficial AUDI AG) | desconocida |
+| /media/audi-sq6-e-tron-2025-precio-ficha-tecnica-hunt2.webp | https://www.motorscout.com.au/car-advice/review-2025-audi-sq6 | Motor Scout Australia | desconocida |
+| /media/audi-sq6-e-tron-2025-precio-ficha-tecnica-hunt3.webp | https://www.MotorTrend.com/reviews/2025-audi-q6-sq6-e-tron-first-drive-review/photos | MotorTrend | desconocida |
+| /media/baojun-yep-2024-precio-ficha-tecnica-hunt1.webp | https://image.made-in-china.com/2f0j00wEOBepWgfubS/2024-Baojun-Yep-3-Door-4-Seater-Battery-Electric-Crossover-City-Car-New-Energy-Car.jpg | Made-in-China.com | desconocida |
+| /media/baojun-yep-2024-precio-ficha-tecnica-hunt2.webp | https://www.car250.com/wp-content/uploads/2023/05/Baojun-Yep-1-4-768x576.jpg | Car250.com | desconocida |
+| /media/baojun-yep-2024-precio-ficha-tecnica-hunt3.webp | https://www.car250.com/wp-content/uploads/2023/05/Baojun-Yep-4-3.jpg | Car250.com | desconocida |
