@@ -12,6 +12,15 @@
 
 La cabina ocupa el pk 17,5 de la autovía RM-12, en Cartagena (Murcia), coordenadas 37.626434, -0.72285557. Su objetivo es el sentido creciente, el del tráfico hacia numeraciones kilométricas mayores. Street View ayuda a reconocer el entorno de una vía que muchos solo usan en vacaciones.
 
+<iframe title="Mapa: radar rm-12-17-5-creciente-cabina" src="https://www.google.com/maps?q=37.626434,-0.72285557&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar rm-12-17-5-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=37.626434,-0.72285557&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La RM-12 es la autovía autonómica de La Manga, de la Región de Murcia: parte de la AP-7 y termina en el extremo de La Manga. Es la puerta de entrada a una de las zonas turísticas con más tirón de la región, con tráfico estacional y muchos foráneos. La ficha no añade más rasgos del tramo.
