@@ -12,6 +12,14 @@
 
 El cinemómetro se encuentra en la **CV-35, pk 12,9**, provincia de Valencia. Actúa sobre el **sentido decreciente** de la calzada, esto es, el de los puntos kilométricos decrecientes. El municipio que corresponde a estas coordenadas es **San Antonio de Benagéber** (fuente: el geocodificador del IGN). A 4,1 km hacia el sureste está el control más próximo, el de la **A-7, pk 326,4** (sentido creciente).
 
+<iframe title="Mapa: radar cv-35-12-9-decreciente-cabina" src="https://www.google.com/maps?q=39.55758,-0.49229&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cv-35-12-9-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.55758,-0.49229&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La carretera en cuestión es la CV-35, la autovía Pista de Ademuz, entre Valencia y Ademuz. La demanda se reparte entre el tránsito interurbano y los accesos a las poblaciones próximas. El paisaje de la huerta y el litoral valencianos enmarca este tramo.
