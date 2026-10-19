@@ -12,6 +12,14 @@
 
 Este radar ocupa el pk 282,6 de la A-52, en As Neves (Pontevedra), coordenadas 42.166744, -8.383896. Controla el sentido de kilometraje ascendente, el de los vehículos que se dirigen a pks superiores, con destino PORRIÑO según el registro oficial. Street View ofrece la vista exacta del punto sobre la vía.
 
+<iframe title="Mapa: radar a-52-282-6-creciente-cabina" src="https://www.google.com/maps?q=42.166744,-8.383896&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-52-282-6-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.166744,-8.383896&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La A-52 es una autovía de titularidad estatal. En el XML de la DGT consta con la singularidad «AUTOPISTA / AUTOVÍA» por la denominación oficial de la vía. El documento no pormenoriza el tramo, de modo que la ficha no le atribuye rasgos.
