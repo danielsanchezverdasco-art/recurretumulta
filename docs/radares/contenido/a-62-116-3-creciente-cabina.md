@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 41.7166, -4.6978
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=41.7166,-4.6978)
 
+<iframe title="Mapa: radar a-62-116-3-creciente-cabina" src="https://www.google.com/maps?q=41.7166,-4.6978&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-62-116-3-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=41.7166,-4.6978&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** La localización completa —vía A-62, pk 116.347, sentido creciente y equipo en cabina— figura en el XML oficial de la DGT (DATEX II, portal NAP). El dataset no publica ni el límite ni el municipio de cada radar. El límite de 120 km/h es el genérico del RGC (art. 48) para turismos y motos en autopistas y autovías, según la singularidad «AUTOPISTA / AUTOVÍA» del registro; Fuensaldaña (Valladolid) se asigna con el geocodificador oficial CartoCiudad del IGN/CNIG.
 
 ## Velocidad máxima de la ficha
