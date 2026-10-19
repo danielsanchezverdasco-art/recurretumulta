@@ -12,6 +12,14 @@
 
 El puesto de control se sitúa en el **pk 8,4 de la A-70** (provincia de Alicante, Comunitat Valenciana). El control se ejerce sobre el **sentido creciente** de la circulación (hitos kilométricos crecientes). Estas coordenadas pertenecen a **Sant Joan d'Alacant** según el geocodificador del IGN. El punto vigilado más cercano es el de la **A-70, pk 6,3** (sentido creciente): queda a 0,2 km hacia el noreste.
 
+<iframe title="Mapa: radar a-70-8-4-creciente-cabina" src="https://www.google.com/maps?q=38.41391,-0.43267&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-70-8-4-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.41391,-0.43267&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La vía es la A-70: la Autovía de Circunvalación de Alicante, primer cinturón de la ciudad. La vía reparte su caudal entre transporte de mercancías, viajes y movilidad cotidiana. La zona responde al carácter de las comarcas del sur de la Comunitat Valenciana.
