@@ -12,6 +12,14 @@
 
 En Valga (Pontevedra), la N-550 alberga esta cabina a la altura del pk 90,7; coordenadas 42.66848, -8.63594. El control se dirige al sentido creciente, hacia pks mayores, y el registro anota como destino Tui. La imagen del emplazamiento puede consultarse en Street View, cuyo enlace figura en la cabecera.
 
+<iframe title="Mapa: radar n-550-90-7-creciente-cabina" src="https://www.google.com/maps?q=42.66848,-8.63594&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-550-90-7-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.66848,-8.63594&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 De titularidad estatal, la N-550 es una carretera nacional de carácter convencional. El XML de la DGT le asigna la singularidad «CARRETERA NACIONAL». Como el fichero no describe el tramo, la ficha no le atribuye rasgos sin constancia documental.
