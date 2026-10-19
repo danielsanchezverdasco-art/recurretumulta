@@ -3485,3 +3485,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/kymco-ionex-s7-2026-ficha-tecnica-precio-hunt1.webp | https://motociclismoonline.com.br/noticias/ionex-s7-abs-o-novo-scooter-eletrico-da-kymco/ | Motociclismo Online / Kymco prensa | desconocida |
 | /media/kymco-ionex-s7-2026-ficha-tecnica-precio-hunt2.webp | https://motociclismoonline.com.br/noticias/ionex-s7-abs-o-novo-scooter-eletrico-da-kymco/ | Motociclismo Online / Kymco prensa | desconocida |
 | /media/kymco-ionex-s7-2026-ficha-tecnica-precio-hunt3.webp | https://www.otobandung.com/tag/skuter-listrik-s7/ | otobandung.com / Kymco prensa | desconocida |
+| /media/possl-summit-600-2026-hunt1.webp | https://config.syscara.com/ | Pössl configurador oficial / syscara | desconocida |
+| /media/possl-summit-600-2026-hunt2.webp | https://www.womo-liste.de/womo.php?page=m851430425 | WoMo-Liste / Pössl | desconocida |
+| /media/possl-summit-600-2026-hunt3.webp | https://www.fourgonlesite.com/actualite-fourgon/offre-speciale-possl-des-fourgons-neufs-a-prix-canon-a-saisir-au-plus-vite/ | Fourgon Le Site / Pössl prensa | desconocida |
+| /media/volkswagen-t-cross-2026-precio-ficha-tecnica-hunt1.webp | https://www.volkswagen-newsroom.com/en/t-cross-17435 | Volkswagen Newsroom (DB2023AU00628) | desconocida |
+| /media/volkswagen-t-cross-2026-precio-ficha-tecnica-hunt2.webp | https://www.ADAC.DE/rund-ums-fahrzeug/autokatalog/marken-modelle/vw/vw-t-cross/ | ADAC / Volkswagen prensa | desconocida |
+| /media/volkswagen-t-cross-2026-precio-ficha-tecnica-hunt3.webp | https://www.noblevolkswagen.com.au/news/volkswagen-reveals-new-t-cross-major-update-for-the-successful-compact-suv/ | Carwow / Volkswagen prensa | desconocida |
+| /media/bultaco-brinco-2026-ficha-tecnica-precio-hunt1.webp | https://assets.newatlas.com/dims4/default/f8d20c8/2147483647/strip/false/crop/1620x1080+0+0/resize/1440x960!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Farchive%2F1027930_001_Brinco_2015_RD_3_4delante_c.jpg | New Atlas (foto de prensa Bultaco Motors) | desconocida |
+| /media/bultaco-brinco-2026-ficha-tecnica-precio-hunt2.webp | https://motork.com/br | Motork | desconocida |
+| /media/bultaco-brinco-2026-ficha-tecnica-precio-hunt3.webp | https://loversofmoto.com/bultaco-brinco-s-2017/ | LoversOfMoto | desconocida |
+| /media/cfmoto-250sr-hunt1.webp | https://cfimages.cfmoto.com/cfmoto/2026_1_8sr250srsmf_edb3d1027c.png | CFMoto (web oficial del producto) | desconocida (material oficial del fabricante) |
+| /media/cfmoto-250sr-hunt2.webp | https://test1.cfmoto.tokyo/wp-content/uploads/2024/08/MY2025_250SR-S_Nebula-White_International_Right.jpg | CFMoto Japón (showroom oficial) | desconocida |
+| /media/cfmoto-250sr-hunt3.webp | https://azxs.jp/wp-content/uploads/2025/10/250SR-Sネビュラブラック.png | CFMoto Japón / azxs.jp | desconocida |
+| /media/etrusco-t-7400-sb-2026-precio-ficha-tecnica-hunt1.webp | https://www.comercialcaravaning.com/wp-content/uploads/2023/06/Imagen-de-WhatsApp-2023-09-07-a-las-18.40.16.jpg | comercialcaravaning.com (foto de concesionario, no oficial) | desconocida |
+| /media/etrusco-t-7400-sb-2026-precio-ficha-tecnica-hunt2.webp | https://www.caraworld.de/images/jit/25605643/3/728/bild.webp | caraworld.de (foto de concesionario, no oficial) | desconocida |
+| /media/etrusco-t-7400-sb-2026-precio-ficha-tecnica-hunt3.webp | http://esas.cz/wp-content/uploads/2021/08/Etrusco_2021_int_T7400SB-835_low_HEADER.jpg | esas.cz (material oficial) | desconocida |
+| /media/cfmoto-150nk-hunt1.webp | https://pandulaju.com.my/wp-content/uploads/2022/05/CFMOTO-150-NK-2023-1.jpeg | Pandu Laju (foto oficial del modelo) | desconocida |
+| /media/cfmoto-150nk-hunt2.webp | https://images.drivespark.com/kn/img/2022/05/cfmoto-150nk-front-view-1653402013.jpg | DriveSpark (foto oficial del modelo) | desconocida |
+| /media/cfmoto-150nk-hunt3.webp | https://autopress.vn/uploads/userfiles/images/news_1653299096/BikeReview-2022-CFMOTO-150NK-2.jpg | AutoPress Vietnam / BikeReview (foto oficial del modelo) | desconocida |
+| /media/deepal-s05-2026-precio-ficha-tecnica-hunt1.webp | https://i0.wp.com/www.carandmotor.gr/sites/default/files/styles/horizontal_rectangle/public/2026-05/Deepal%20S05%20PHEV%20exterior%20silver%202.jpg?itok=yuCxFWTx&ssl=1 | Car and Motor (foto de prensa del fabricante) | desconocida |
+| /media/deepal-s05-2026-precio-ficha-tecnica-hunt2.webp | https://autopress.gr/wp-content/uploads/2026/06/Deepal-S05-PHEV-exterior-blue-2048x1246.jpg | Autopress (foto de prensa del fabricante) | desconocida |
+| /media/deepal-s05-2026-precio-ficha-tecnica-hunt3.webp | https://carselectric.gr/wp-content/uploads/2026/05/Deepal-S05-PHEV-interior-1920x1052.jpg | Cars Electric (foto de prensa del fabricante) | desconocida |
+| /media/giottiline-siena-322-2026-precio-ficha-tecnica-hunt1.webp | https://usercontent.one/wp/moosecamper.se/wp-content/uploads/2025/01/322-1-1536x614.png | Moose Camper (concesionario, foto oficial del modelo) | desconocida |
+| /media/giottiline-siena-322-2026-precio-ficha-tecnica-hunt2.webp | http://moosecamper.se/wp-content/uploads/2025/01/322-5.png | Moose Camper (concesionario, foto oficial del modelo) | desconocida |
+| /media/giottiline-siena-322-2026-precio-ficha-tecnica-hunt3.webp | https://m3caravaning.com/wp-content/uploads/2025/09/autocaravana_giottiline_siena_322-11-min-scaled.jpeg | M3 Caravaning (concesionario, foto del anuncio de la Siena 322) | desconocida |
