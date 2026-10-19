@@ -1401,3 +1401,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/denza-n8l-dm-2025-precio-ficha-tecnica-hunt1.webp | https://aicarglobal.com/product/denza-n8l/ | Aicar Global | desconocida |
 | /media/denza-n8l-dm-2025-precio-ficha-tecnica-hunt2.webp | https://www.headlightmag.com/2026-04-29-new-cars-worldwide-denza-n8l-flash-charging-edition/ | HeadlightMag | desconocida |
 | /media/denza-n8l-dm-2025-precio-ficha-tecnica-hunt3.webp | https://auto.ria.com/uk/newauto/auto-denza-n8l-2044781.html | AUTO.RIA / ECODRIVE AUTO | desconocida |
+| /media/roewe-imax8-2024-precio-ficha-tecnica-hunt1.webp | https://carnewschina.com/2024/11/09/saics-roewe-imax8-dmh-plug-in-hybrid-mpv-with-1536-km-range-launched-price-starts-at-27800-usd/ | carnewschina.com | desconocida |
+| /media/roewe-imax8-2024-precio-ficha-tecnica-hunt2.webp | https://www.roewe.com.cn/vehicles/roeweimax8/ | roewe.com.cn (web oficial) | desconocida |
+| /media/roewe-imax8-2024-precio-ficha-tecnica-hunt3.webp | https://ev.motorwatt.com/ev-database/electric-buses/roewe-imax8-ev | ev.motorwatt.com | desconocida |
+| /media/denza-z9-ev-2024-precio-ficha-tecnica-hunt1.webp | https://chinacarhub.com/2024-guangzhou-auto-show-denza-z9/ | ChinaCarHub (Salón de Guangzhou 2024) | desconocida |
+| /media/denza-z9-ev-2024-precio-ficha-tecnica-hunt2.webp | https://wcevcar.com/en/car/denza-z9-ev-2024 | wcevcar.com | desconocida |
+| /media/denza-z9-ev-2024-precio-ficha-tecnica-hunt3.webp | https://ar.aicarglobal.com/product/denza-z9-ev/ | AiCarGlobal | desconocida |
+| /media/skoda-enyaq-coupe-85x-2026-hunt1.webp | https://elbilradar.com/ev_model/br/2250_skoda_enyaq_coupe_85x_my26/ | ElBilRadar | desconocida |
+| /media/skoda-enyaq-coupe-85x-2026-hunt2.webp | https://worldtrader24.de/vehicles/skoda-enyaq-coupe-85-2026-7d6f3d39 | WorldTrader24 | desconocida |
+| /media/skoda-enyaq-coupe-85x-2026-hunt3.webp | https://www.autonord.cz/vozy/skoda/enyaq-coupe/enyaq-coupe-84-kwh-250-kw-250kw-2026-id-58a524fdccb8479caccc9d8c77123ce7 | Škoda Auto Nord (concesionario oficial) | desconocida |
+| /media/denza-z9gt-dm-2026-precio-ficha-tecnica-hunt1.webp | https://autopapo.com/noticia/salao-automovel-denza-byd/?url=/ | AutoPapo | desconocida |
+| /media/denza-z9gt-dm-2026-precio-ficha-tecnica-hunt2.webp | https://www.carscoops.com/2026/04/denza-europe-launch/ | Carscoops | desconocida |
+| /media/denza-z9gt-dm-2026-precio-ficha-tecnica-hunt3.webp | https://www.completecar.ie/car-reviews/article/Denza/Z9GT/Z9GT_DM-i_PHEV_(2025_Chinese-market_model)/2539/14036//2025-Denza-Z9GT-DM-i-PHEV-(2025-Chinese-market-model)-review.html | CompleteCar.ie | desconocida |
+| /media/cupra-leon-20-tdi-2026-hunt1.webp | https://web1.goauto.com.au/new-models/cupra/leon/sportstourer-joins-upgraded-cupra-leon-range/2025-09-03/97307.html | GoAuto | desconocida |
+| /media/cupra-leon-20-tdi-2026-hunt2.webp | https://marktplatz.cupraofficial.at/d-05648/search/car/S-2025-0482369-AT | CUPRA Official (marketplace.cupraofficial.at) | desconocida |
+| /media/cupra-leon-20-tdi-2026-hunt3.webp | https://marktplatz.cupraofficial.at/d-05648/search/car/S-2025-0482369-AT | CUPRA Official (marketplace.cupraofficial.at) | desconocida |
+| /media/denza-bao-8-2026-precio-ficha-tecnica-hunt1.webp | https://paultan.org/cn/image/2026/04/DENZA-B8-e1775463830550-768x428.jpg | Paultan.org | desconocida |
+| /media/denza-bao-8-2026-precio-ficha-tecnica-hunt2.webp | https://www.chasingcars.com.au/wp-content/uploads/2026/02/2026-BYD-Denza-B8-29.jpg | Chasing Cars | desconocida |
+| /media/denza-bao-8-2026-precio-ficha-tecnica-hunt3.webp | https://denza.cimex.com.np/denza-b8 | Denza Nepal (Cimex, importador oficial) | desconocida |
+| /media/denza-bao-5-2026-precio-ficha-tecnica-hunt1.webp | https://www.denza.com/material/__EU/denza-overseas/eu/home-page/header/tabs/bao5-01-pc.webp | Denza / BYD (prensa oficial, denza.com) | desconocida |
+| /media/denza-bao-5-2026-precio-ficha-tecnica-hunt2.webp | https://denza.motoreast.sg/wp-content/uploads/2026/03/B5-clift.jpg | Denza Motoreast (concesionario oficial, Singapur) | desconocida |
+| /media/denza-bao-5-2026-precio-ficha-tecnica-hunt3.webp | http://electricvehicleweb.com/wp-content/uploads/2026/07/Denza-Bao-5-interior.jpg | Electric Vehicle Web (electricvehicleweb.com) | desconocida |
+| /media/dfsk-600-2026-precio-ficha-tecnica-hunt1.webp | https://www.km77.com/media/fotos/dfsk_600_2024_9112_1.jpg | km77.com | desconocida |
+| /media/dfsk-600-2026-precio-ficha-tecnica-hunt2.webp | https://a0.cdnfan.com/images/M/1/5/8/2/dfsk-600_hd_162669.jpg | auto10.com | desconocida |
+| /media/dfsk-600-2026-precio-ficha-tecnica-hunt3.webp | https://www.autonocion.com/wp-content/uploads/2025/01/Prueba-DFSK-600-2025-22.jpg | autonocion.com | desconocida |
