@@ -12,6 +12,15 @@
 
 La posición oficial de este control es la **CM-403, punto kilométrico 89,0** (Ciudad Real). Vigila el **sentido creciente**, es decir, a los vehículos que circulan hacia puntos kilométricos crecientes. La DGT no difunde el destino asociado a este punto, así que el sentido se describe por la numeración kilométrica, no por localidades. A 11,4 km hacia el este está el control más próximo, el de la **N-401, pk 178,8** (sentido decreciente). El siguiente punto por cercanía es el de la **N-430, pk 274,0** (sentido decreciente), a 16,7 km hacia el oeste. El entorno es el típico del interior peninsular: amplios horizontes y un tráfico que no entiende de pausas.
 
+<iframe title="Mapa: radar cm-403-89-0-creciente-cabina" src="https://www.google.com/maps?q=39.04548,-4.04977&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cm-403-89-0-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.04548,-4.04977&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La CM-403 pertenece a la red de carreteras autonómicas de la región. En esta carretera autonómica, los ritmos son dispares: conviven la prisa del largo recorrido y la calma del trayecto local. Este punto figura en el dataset de radares fijos por ser proclive a las velocidades inadecuadas. Es el único control de la DGT publicado para la CM-403 en Castilla-La Mancha. La CM-403 cuenta con un único punto de control publicado en la comunidad: este. En conjunto, una vía donde la prudencia con la velocidad nunca está de más. La mejor forma de circular por ella es con anticipación: ver venir lo que la vía va a pedir.
