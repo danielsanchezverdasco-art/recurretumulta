@@ -535,3 +535,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/aixam-e-city-sport-2025-precio-ficha-tecnica-hunt1.webp | http://aixam.fra1.cdn.digitaloceanspaces.com/01_exterieur_7bf5afd48db56dc25491c8f1aa2cbb25.webp | Aixam (prensa oficial) | desconocida |
 | /media/aixam-e-city-sport-2025-precio-ficha-tecnica-hunt2.webp | http://tucochesincarnet.com/wp-content/uploads/2015/06/03_exterieur_b1ef7e97a9454f4f94a2d44ac1ac093a.webp | TuCocheSinCarnet (distribuidor oficial Aixam) | desconocida |
 | /media/aixam-e-city-sport-2025-precio-ficha-tecnica-hunt3.webp | http://www.aixam.nl/ressources/medias/slide_eaixam-city-sportlectrique-6a1967ac809e7.webp | Aixam.nl (web oficial) | desconocida |
+| /media/jeep-renegade-e-hybrid-130-2026-precio-ficha-tecnica-hunt1.webp | https://images.autouncle.com/it/car_images/0fb22266-0f00-401c-af05-dd8f1c83c330_jeep-renegade-renegade1-5-turbo-t4-e-hybrid-130cv-fwd.jpg | AutoUncle (anuncio concesionario) | desconocida |
+| /media/jeep-renegade-e-hybrid-130-2026-precio-ficha-tecnica-hunt2.webp | https://moparinsiders.com/wp-content/uploads/2022/03/04_Jeep%C2%AE-Renegade-e-hybrid-S-scaled.jpg | MoparInsiders (foto de prensa Jeep/Stellantis) | desconocida |
+| /media/jeep-renegade-e-hybrid-130-2026-precio-ficha-tecnica-hunt3.webp | https://web.imgstore.it/c2ff314554444518b11084be58d1ed09.jpg | Grupo Ghedini (concesionario, vía AutoUncle) | desconocida |
+| /media/porsche-718-spyder-rs-2025-precio-ficha-tecnica-hunt1.webp | https://images.finder.porsche.com/d455f618-9482-434b-ac2a-a0089d3765d8/960 | Porsche Finder (red oficial Porsche) | desconocida |
+| /media/porsche-718-spyder-rs-2025-precio-ficha-tecnica-hunt2.webp | https://cdn.elferspot.com/wp-content/uploads/2025/06/16/506067421_18231529147293028_3065087538450676278_n.jpg | Elferspot (mercado Porsche) | desconocida |
+| /media/porsche-718-spyder-rs-2025-precio-ficha-tecnica-hunt3.webp | https://www.supervettura.com/blobs/Cars/287/40b4e4b7-ba55-42d5-b8ed-7474d1a53c4c.jpg?width=1920&height=1080&mode=crop | SuperVettura | desconocida |
+| /media/zero-ds-2026-ficha-tecnica-precio-hunt1.webp | https://images5.1000ps.net/images_bikekat/2025/199-Zero/7749-DS/042-638791952915149746-zero-ds.jpg?format=webp&quality=80&trim.threshold=80&trim.percentpadding=1&scale=both&width=1168&height=664&bgcolor=rgba_39_42_44_0&mode=pad | 1000PS (galería del modelo) | desconocida |
+| /media/zero-ds-2026-ficha-tecnica-precio-hunt2.webp | https://images5.1000ps.net/images_bikekat/2025/199-Zero/7749-DS/030-638791952828256072-zero-ds.jpg?format=webp&quality=80&scale=both&width=992&height=558&bgcolor=rgba_39_42_44_0&mode=pad | 1000PS (galería del modelo) | desconocida |
+| /media/zero-ds-2026-ficha-tecnica-precio-hunt3.webp | https://images5.1000ps.net/images_bikekat/2025/199-Zero/7749-DS/022-638791952770784548-zero-ds.jpg?format=webp&quality=80&scale=both&width=992&height=558&bgcolor=rgba_39_42_44_0&mode=pad | 1000PS (galería del modelo) | desconocida |
+| /media/egret-ey-7-hunt1.webp | https://cdn.my-egret.com/production/media/bd/78/e5/1748258943/egret%20ey%207%20folded.webp?width=3000 | Egret (my-egret.com, web oficial) | desconocida |
+| /media/egret-ey-7-hunt2.webp | https://www.technowelt24.de/media/66/0d/78/1749633879/Ey%21%207.png | Technowelt24 | desconocida |
+| /media/egret-ey-7-hunt3.webp | https://www.technowelt24.de/media/da/f8/ba/1749633879/Ey%21%2071.png | Technowelt24 | desconocida |
+| /media/egret-ey-2-hunt1.webp | https://www.maxblinker.com/en/electric-scooters/egret-ey-2-de-street-legal | maxblinker.com | desconocida |
+| /media/egret-ey-2-hunt2.webp | https://www.expert.de/schweinfurt/aktionen/escooter | expert.de | desconocida |
+| /media/egret-ey-2-hunt3.webp | https://www.quelle.de/p/egret-e-scooter-egret-ey-2-set-6-tlg-ladegeraet-montagewerkzeug-ventilverlaengerung-schrauben-abe-schlauchlos/AKLBB1875457159 | quelle.de | desconocida |
+| /media/jeep-avenger-4xe-145-2026-precio-ficha-tecnica-hunt1.webp | https://evpowered.co.uk/news/new-jeep-avenger-gets-light-up-grille-and-updated-interior-as-2026-facelift/ | EvPowered | desconocida |
+| /media/jeep-avenger-4xe-145-2026-precio-ficha-tecnica-hunt2.webp | https://www.carscoops.com/2026/05/jeep-avenger-facelift-2/ | Carscoops | desconocida |
+| /media/jeep-avenger-4xe-145-2026-precio-ficha-tecnica-hunt3.webp | https://www.moniteurautomobile.be/actu-auto/facelifts/jeep-avenger-2026.html | Moniteur Automobile | desconocida |
+| /media/kymco-dtx-125-2025-ficha-tecnica-precio-hunt1.webp | https://www.kymco.es/scooters/dtx-125 | Kymco España | desconocida |
+| /media/kymco-dtx-125-2025-ficha-tecnica-precio-hunt2.webp | https://soymotero.net/noticia/los-mejores-scooter-crossover-125-en-2025/ | SoyMotero | desconocida |
+| /media/kymco-dtx-125-2025-ficha-tecnica-precio-hunt3.webp | https://www.motosan.es/motos/kymco-espana-presenta-el-nuevo-crossover-adventure-dtx-125/ | Motosan | desconocida |
+| /media/porsche-cayenne-turbo-e-hybrid-2026-precio-ficha-tecnica-hunt1.webp | https://finder.porsche.com/us/en-US/details/porsche-cayenne-turbo-ehybrid-coupe-new-89RG4Q | Porsche Finder | desconocida |
+| /media/porsche-cayenne-turbo-e-hybrid-2026-precio-ficha-tecnica-hunt2.webp | https://finder.porsche.com/us/en-US/details/porsche-cayenne-turbo-ehybrid-coupe-new-DO7N6P | Porsche Finder | desconocida |
+| /media/porsche-cayenne-turbo-e-hybrid-2026-precio-ficha-tecnica-hunt3.webp | https://www.km77.com/coches/porsche/cayenne/2024/coupe/phev/cayenne-turbo-e-hybrid-coupe/datos | km77 | desconocida |
