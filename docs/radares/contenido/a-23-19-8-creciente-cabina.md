@@ -12,6 +12,14 @@
 
 El emplazamiento del control es el **pk 19,8 de la A-23** (provincia de Castellón, Comunitat Valenciana). Supervisa el **sentido creciente**, el del avance hacia puntos kilométricos crecientes. Estas coordenadas pertenecen a **Sot de Ferrer** según el geocodificador del IGN. El punto vigilado más cercano es el de la **N-225, pk 5,1** (sentido creciente): queda a 5,7 km hacia el sureste.
 
+<iframe title="Mapa: radar a-23-19-8-creciente-cabina" src="https://www.google.com/maps?q=39.79193,-0.40003&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-23-19-8-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.79193,-0.40003&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La carretera en cuestión es la A-23, la Autovía Mudéjar, que une Sagunt con Somport. La demanda se reparte entre el tránsito interurbano y los accesos a las poblaciones próximas. El entorno es el interior de la provincia de Castellón, típico de esta parte de la provincia.
