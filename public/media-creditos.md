@@ -1651,3 +1651,12 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/seat-leon-15-tsi-115-2026-precio-ficha-tecnica-hunt1.webp | https://www.seat-cupra-mediacenter.com/content/dam/seat-media-center/models-all-brands/seat-models/seat-leon/New-SEAT-Leon-e-HYBRID_27_HQ.jpg/_jcr_content/renditions/noretina.jpeg | SEAT (prensa oficial) | desconocida |
 | /media/seat-leon-15-tsi-115-2026-precio-ficha-tecnica-hunt2.webp | https://www.grupocompostela.com/Archivos/Fotos/Coches/2026/seat-leon-2026-nuevo-marineda-060826_233-17860308304259_t40233-17860308304259.jpg | Grupo Compostela (concesionario SEAT) | desconocida |
 | /media/seat-leon-15-tsi-115-2026-precio-ficha-tecnica-hunt3.webp | https://media.autoexpress.co.uk/image/private/s--cORuBaUF--/f_auto,t_content-image-full-desktop@1/v1762953724/autoexpress/2025/11/DSC_1213_lhik9m.jpg | Auto Express | desconocida |
+| /media/dualtron-achilleus-hunt1.webp | https://derandmotorsports.com/products/dualtron-new-achilleus | desconocida |  |
+| /media/dualtron-achilleus-hunt2.webp | https://fixmytrott.com/products/dualtron-achilleus-60v-35ah | desconocida |  |
+| /media/dualtron-achilleus-hunt3.webp | https://scooter.guide/dualtron-achilleus-electric-scooter-review/ | desconocida |  |
+| /media/ligier-myli-max-2026-precio-ficha-tecnica-hunt1.webp | https://s3.ligier.fr/ligier-prod/uploads/2026/05/myli-max-L7e-header-1920px.webp | Ligier (prensa oficial) | desconocida |
+| /media/ligier-myli-max-2026-precio-ficha-tecnica-hunt2.webp | https://concessionari.ligier.it/wp-content/uploads/2026/01/myli-max-herobanner-768px.jpg | Ligier Italia (concesionario oficial) | desconocida |
+| /media/ligier-myli-max-2026-precio-ficha-tecnica-hunt3.webp | https://www.ligiergroup.ee/assets/img/myli/MAX/09_Myli_MAX_GraphiteDashboard.jpg | Ligier Group Estonia (distribuidor oficial) | desconocida |
+| /media/dfsk-e5-plus-2026-precio-ficha-tecnica-hunt1.webp | https://www.motorbox.com/image/dfsk-e5-plus/8/7/0/870686/870686-16x9-md.webp | Motorbox | desconocida |
+| /media/dfsk-e5-plus-2026-precio-ficha-tecnica-hunt2.webp | https://www.motorbox.com/image/dfsk-e5-plus/8/7/0/870680/870680-16x9-lg.jpg | Motorbox | desconocida |
+| /media/dfsk-e5-plus-2026-precio-ficha-tecnica-hunt3.webp | https://www.car250.com/wp-content/uploads/2024/10/Landian-E5-PLUS-45.webp | car250.com | desconocida |
