@@ -16,15 +16,15 @@ export const ANALISIS_PATINETE_01: MapaAnalisis = {
     parrafos: [
       "Por 1.179 €, el Mini Special Dual Motor Long Body se presenta como el urbano legal más capaz de Dualtron para quien prioriza la potencia con los papeles en regla: certificado DGT verificado, 25 km/h y doble motor de 1.000 W nominales con 2.900 W de pico, capaces de afrontar cuestas de hasta el 37 % según la ficha. La pack de 624 Wh anuncia 65 km de autonomía, con alrededor de 43 km efectivos estimados, y el conjunto pesa 27 kg con 120 kg de límite de carga admitida.",
       "El equipamiento acompaña a la ambición: frenos de tambor delante y detrás con ABS electrónico, de mantenimiento mínimo, neumáticos extra anchos de 9 pulgadas con cámara y la app de Minimotors con bloqueo antirrobo. El peaje del conjunto aparece en los contras: casi 28 kg que se notan al subirlo a un piso o al transporte público, unas 6-8 horas de carga con el cargador estándar y un PVP elevado frente a la competencia urbana monomotor. Es la compra del que quiere dual motor legal y acepta pagarlo en euros y en kilos.",
-      "Son 27 kg y 6-8 horas de carga cada noche: la logística de un dual motor. Con garaje o ascensor, perfecto.",
+      "Logística de dual motor: 27 kg y 6-8 horas de carga cada noche. Con garaje o ascensor, perfecto.",
     ],
-    veredicto: "Para el urbanita que quiere potencia dual con certificado DGT; no para quien suba el patinete a pulso a un tercero sin ascensor.",
+    veredicto: "Para el urbanita que quiere potencia dual con certificado DGT; no para subirlo a pulso sin ascensor.",
   },
   "dualtron-new-storm-limited": {
     parrafos: [
       "El New Storm Limited juega en otra liga: 11.500 W de potencia máxima lo colocan entre los Dualtron más potentes jamás catalogados, alimentados por una batería de 84 V y 45 Ah que suma 3.780 vatios-hora, una capacidad de gran turismo impropia de un patinete. La pantalla EY4 con app para telemetría y la plataforma Storm, probada durante años, completan una edición Limited con componentes de tope de gama. La propia ficha advierte de que los datos son parciales: ni coste, ni alcance, ni peso, ni frenos publicados.",
       "Y la advertencia importante: no es un VMP legal en España, así que su uso queda restringido al circuito privado. Con 84 V y 45 Ah, el peso será necesariamente muy elevado, y los repuestos y el mantenimiento pertenecen al mundo de la gama extrema. Es un objeto de deseo para coleccionistas y entusiastas del circuito, no una opción de compra racional: la ficha remite al Thunder 3 para quien busque datos completos antes de decidir.",
-      "Como pieza de colección para circuito tiene sentido; como medio de transporte, ninguno. El comprador de un Limited no compara alcances: busca la exclusividad de una serie corta con la plataforma Storm más extrema.",
+      "Como pieza de colección para circuito tiene sentido; como transporte, ninguno.",
     ],
     veredicto: "Para el entusiasta de circuito que colecciona ediciones limitadas; no para circular por vía pública ni para quien necesite precio y ficha completa.",
   },
@@ -32,17 +32,17 @@ export const ANALISIS_PATINETE_01: MapaAnalisis = {
     parrafos: [
       "La novedad 2025 de Dualtron no se anda con medias tintas: el New Storm LTD monta una batería Samsung de 84 V y 45 Ah, es decir, 3.780 Wh, que anuncia 180 km de alcance con en torno a 115 km efectivos calculados, la cifra más alta del catálogo. Los 5.000 W nominales se combinan con amortiguador de dirección de serie, frenos hidráulicos con discos de 160 mm más ABS y EBS, y cubiertas autorreparables de 11″. La velocidad punta de ficha es de 25 km/h, limitado de fábrica.",
       "El reverso de tanta batería son 55,6 kg de peso y 150 kg de tope de carga: un aparato que solo se traslada en furgoneta o remolque y vive en el garaje, no en el trastero. Al ser edición limitada, la disponibilidad y los repuestos son limitados, y el etiqueta oficial en España no está publicado. Es el Dualtron definitivo para quien mide la alcance en cientos de kilómetros y acepta que su patinete pese como una moto pequeña.",
-      "El comprador del Storm LTD no busca un patinete, busca una declaración: 180 km declarados para rutas que casi nadie hace, con la logística de una moto pequeña. Si la alcance es la obsesión, no hay rival; si se busca practicidad, hay docenas.",
+      "El comprador del Storm LTD no busca un patinete, busca una declaración: 180 km para rutas que casi nadie hace.",
     ],
     veredicto: "Para el rutero extremo que prioriza autonomía sobre todo; no para quien necesite transportarlo o guardarlo en casa.",
   },
   "dualtron-pop": {
     parrafos: [
-      "El Pop monomotor es la puerta de entrada a Dualtron para el uso urbano puro: 450 vatios nominales, 45 kilómetros declarados con unos 30 kilómetros reales, 25 km/h y 29,6 kilos de peso, de los Dualtron más ligeros del catálogo. La batería de 1.040 vatios-hora alimenta un conjunto pensado para la ciudad llana, con 120 kilos de carga admitida y una dotación de seguridad inusual en este peso: doble freno de tambor con ABS y EBS, intermitentes delanteros y traseros, y doble faro.",
-      "La suspensión también es seria para su segmento: horquilla delantera de muelle neumático y muelle trasero, con ruedas de 9″, delantero tubeless y trasero con cámara. Los límites están claros en la ficha: 450 vatios justos en cuestas pronunciadas, alcance real contenida y ni tiempo de carga ni etiqueta oficial publicados en España. Es el Dualtron para moverse por ciudad sin complicaciones; quien necesite más alcance o tracción total tiene el Pop Dual en la misma familia.",
-      "Es el Dualtron para quien empieza: ciudad llana, trayectos cortos y ganas de entrar en la marca sin hipotecarse. Cuando el cuerpo pida más, la propia gama ofrece el camino con el Pop Dual y sus dos motores.",
+      "Hay un Dualtron para cada bolsillo, y el Pop monomotor abre la lista: 450 W nominales, 25 km/h y 29,6 kilos, entre los más ligeros de la marca. Su batería de 1.040 Wh declara 45 km de alcance —unos 30 km en ciudad— y el chasis admite 120 kilos de piloto, con la urbe llana y los desplazamientos cortos como escenario ideal.",
+      "Lo que lo distingue en su etiqueta es la dotación de seguridad: doble freno de tambor con ABS y EBS, intermitentes en ambos ejes y doble faro delantero, un equipamiento raro en este peso. La parte ciclo tampoco desmerece: horquilla delantera con muelle neumático, amortiguador trasero y ruedas de 9 pulgadas —la delantera sin cámara, la trasera con cámara—. Sus límites son los de su potencia: las cuestas exigentes se le atragantan, y ni el tiempo de recarga ni el etiqueta oficial en España aparecen en la ficha.",
+      "Es el modelo para descubrir la marca sin grandes compromisos; cuando el usuario pida más empuje, la propia familia ofrece el Pop Dual de dos motores como evolución natural.",
     ],
-    veredicto: "Para el urbano que quiere entrar en Dualtron con equipo completo y peso contenido; no para cuestas duras ni para grandes distancias.",
+    veredicto: "Para el conductor urbano que estrena marca con equipo completo; no para pendientes duras ni grandes kilometrajes.",
   },
   "dualtron-pop-dual": {
     parrafos: [
@@ -79,7 +79,7 @@ export const ANALISIS_PATINETE_01: MapaAnalisis = {
     parrafos: [
       "El Spider II, también listado como Spider Limited, presume de ser el compacto más equilibrado entre potencia y peso de Dualtron: doble motor de 2x600 W con 3.000 W de pico en 26,2 kilos, batería LG de 60 V y 24,5 Ah con 1.470 vatios-hora y entre 70 y 90 kilómetros de rango anunciada, en torno a 54 kilómetros reales calculados. La parte ciclo es de gama alta: suspensión hidráulica delantera y trasera regulable en 15 niveles, frenos de disco delante y detrás con ABS, ruedas tubeless de 10x2,25 pulgadas, chasis de aleación aeroespacial y manillar de fibra de carbono. Cuesta 2.499 €.",
       "El matiz decisivo está en la homologación: la ficha indica explícitamente que no está homologado por la DGT, así que solo circularía como no certificado hasta el 22/01/2027, y deslimitado alcanza 60-80 km/h cuando en vía pública solo es legal a 25 km/h. La carga con el cargador estándar tarda 13-17 horas, 3 horas solo con la carga rápida opcional, y la disponibilidad es muy limitada. Potencia y refinamiento de primera, pero con fecha de caducidad legal en España.",
-      "La fecha del 22/01/2027 pesa más que los 2.499 €: comprarlo sabiendo que su encaje legal caduca exige quererlo mucho.",
+      "El 22/01/2027 pesa más que los 2.499 €: su encaje legal caduca.",
     ],
     veredicto: "Para el purista que acepta su situación legal a cambio del mejor equilibrio peso-potencia; no para quien exija certificado DGT.",
   },
@@ -119,7 +119,7 @@ export const ANALISIS_PATINETE_01: MapaAnalisis = {
     parrafos: [
       "El Thunder 2 es la leyenda bruta de Dualtron llevada al extremo: 10.080 vatios de pico, batería LG de 72 V y 40 Ah con 2.880 Wh, y hasta 170 kilómetros de rango declarada con en torno a 115 kilómetros reales aproximados. Los frenos de disco hidráulicos NUTT de 160 mm, las ruedas ultra-anchas de 11″ tubeless y la pantalla EY4 con app de Minimotors y modos personalizables completan un conjunto de 47,3 kg con 150 kg de peso máximo admitido. En tiendas españolas ronda los 3.600 €, entre 3.369 y 3.999 € según la ficha.",
       "La ficha lo lista con certificado DGT y limitado a 25 km/h de fábrica, pero sus propios contras advierten de la otra cara: deslimitado alcanza 100 km/h y entonces solo tiene cabida en circuito o terreno privado, y la carga completa va de 5 a 21 horas según el cargador. Es una moto con manillar de patinete: espectacular, pero para un uso muy delimitado.",
-      "Diez mil vatios de pico no se razonan: se sienten. El Thunder 2 es la experiencia más bruta que Dualtron vende con papeles, para quien entienda que 47 kg y 170 kilómetros declarados son un juguete de circuito, no un vehículo.",
+      "Diez mil vatios no se razonan: se sienten. El Thunder 2 es un juguete de circuito, no un vehículo de diario.",
     ],
     veredicto: "Para el coleccionista de potencia con acceso a circuito privado; no para el día a día ni para quien tema a la báscula.",
   },
@@ -127,7 +127,7 @@ export const ANALISIS_PATINETE_01: MapaAnalisis = {
     parrafos: [
       "El Thunder 3 es la bestia de Dualtron para 2025: doble motor de 2.500 W con 10.800 W de pico y una aceleración que la ficha califica de brutal, alimentados por 2.880 Wh de batería Samsung o LG de 72 V y 40 Ah. Declara 125 kilómetros de alcance con en torno a 85 kilómetros reales aproximados, y su velocidad punta de 100 km/h lo deja fuera de la vía pública. Los frenos hidráulicos NUTT de 160 mm con ABS, los cubiertas runflat de 11 pulgadas sin pinchazos, la pantalla EY4 con Bluetooth y la protección IPX5 redondean un conjunto de 51,2 kg con 150 kg de tope de carga.",
       "El PVP en EE. UU. es de 3.299 dólares y en Europa supera los 3.000 €, con un tiempo de carga aún no publicado que, con 2.880 Wh, apunta a muy largo. El mantenimiento es de gama alta: cubiertas y pastillas caros. No es para la calle, pero como máquina de circuito no tiene rival dentro de su marca.",
-      "El Thunder 3 es la respuesta de 2025 a quien pedía más: más pico, más batería, más de todo. La escalada no tiene fin, pero este es, hoy, el techo práctico de la marca para circuito.",
+      "El Thunder 3 es la respuesta de 2025 a quien pedía más: el techo práctico de la marca para circuito.",
     ],
     veredicto: "Para el piloto de circuito que quiere lo máximo de 2025; no para la vía pública ni para bolsillos ajustados.",
   },
@@ -135,7 +135,7 @@ export const ANALISIS_PATINETE_01: MapaAnalisis = {
     parrafos: [
       "El TOGO es el Dualtron pensado para la calle desde el primer trazo: 420 W nominales, 25 km/h y doble freno de tambor con ABS y EBS, una frenada segura y sin mantenimiento ideal para el uso diario. Su particularidad es la batería a elegir: tres capacidades de 7,8, 12 o 15 Ah que se traducen en 20, 30 o 40 kilómetros anunciados, con la versión base de 281 vatios-hora y alrededor de 14 kilómetros reales aproximados. Rueda sobre cubiertas de 9 pulgadas, ágiles en ciudad, con la calidad de construcción de la marca a etiqueta de acceso.",
       "Los límites son los de un urbano honesto: la versión base se queda corta con 20 kilómetros anunciados, los 420 W van justos en cuestas con rider pesado, no hay suspensión anunciada y el etiqueta en España no está publicado. La propia ficha lo dice claro: el TOGO Plus de 48 V lo supera en todo por 799 €. Es el Dualtron legal y sencillo para moverse por ciudad; quien necesite más, que mire un escalón más arriba.",
-      "Tres baterías a elegir es un detalle inteligente: cada uno compra la rango que necesita sin pagar de más. La base de 7,8 Ah es para el barrio; la de 15 Ah, para la ciudad entera.",
+      "Tres baterías a elegir: la base de 7,8 Ah para el barrio; la de 15 Ah, para la ciudad entera.",
     ],
     veredicto: "Para el urbano que quiere un Dualtron legal y simple; no para grandes distancias ni para cuestas exigentes.",
   },
@@ -151,16 +151,17 @@ export const ANALISIS_PATINETE_01: MapaAnalisis = {
     parrafos: [
       "El TOGO Plus es el Dualtron con sentido para España: homologado DGT verificado según el BOE-A-2022-987, con 600 W nominales y 800 W de pico alimentados por una batería Samsung de 48 V y 15 Ah que suma 720 vatios-hora. Declara 50 kilómetros de rango, el doble que el TOGO base, con unos 34 kilómetros reales aproximados, y rueda a 25 km/h sobre neumáticos de 9 pulgadas. La pantalla EY2, la protección IP55 y la suspensión delantera y trasera de muelle completan un conjunto de 24,5 kilos con 100 kilos de carga admitida, por 799 € en tienda española.",
       "Los frenos de doble tambor con ABS y EBS priorizan la fiabilidad sin mantenimiento, aunque frenan menos que un disco en mojado, y las ruedas de 9 pulgadas son menos cómodas que las de 10. El tiempo de carga no está publicado y el diseño es funcional, sin florituras. No es el más emocionante de la gama, pero es el que se puede usar cada día sin pensar en la ley.",
-      "El TOGO Plus es el Dualtron que se recomienda sin matices a quien pregunta por un patinete legal para el día a día: homologado, con 50 kilómetros homologados y 799 €. Aburrido sobre el papel, perfecto en la práctica.",
+      "El TOGO Plus se recomienda sin matices para el día a día: homologado, 50 km y 799 €. Aburrido en papel, perfecto en la práctica.",
     ],
     veredicto: "Para el commuter que quiere legalidad total y autonomía real; no para quien busque emociones fuertes o ruedas grandes.",
   },
   "dualtron-ultra-2": {
     parrafos: [
-      "El Ultra 2 es el Dualtron rutero con alma campera: 6.640 vatios de pico y una pack de 2.520 Wh que anuncian 140 km de alcance, unos 91 km efectivos aproximados, la cifra más ambiciosa del catálogo. Los cubiertas todoterreno de 11″, los frenos de disco delantero y trasero con ABS y la suspensión de goma ajustable en 5 pasos lo orientan al uso mixto con ganas de ruta, y los 150 kg de tope de carga lo hacen apto para riders corpulentos.",
-      "Sus 43,5 kg y sus 88 km/h de punta lo dejan fuera del marco español: no es un VMP y su terreno es el circuito privado. El precio en dólares no es oficial y el tiempo de recarga está por confirmar. Como máquina de ruta privada, casi no tiene rival; como urbano, ninguno de sus números encaja. Los 2.520 Wh con cubiertas todoterreno de 11 pulgadas y discos con ABS dibujan un rutero mixto serio, y los 150 kg de carga máxima lo abren a riders corpulentos. Pesa 43,5 kg: traslados en furgoneta, no al hombro.",
+      "La ficha del Ultra 2 se lee como la de un vehículo de expedición: 2.520 vatios-hora de batería y 6.640 vatios de pico para recorrer, sobre el papel, 140 km —unos 91 km en la práctica—. El chasis acompaña la ambición con gomas todoterreno de 11 pulgadas, discos de freno en ambas ruedas con ABS y una suspensión de elastómero con cinco niveles de dureza, pensada para alternar asfalto y pista. La estructura admite hasta 150 kilos de piloto.",
+      "En España, sin embargo, sus 88 km/h de velocidad máxima y sus 43,5 kilos lo dejan fuera de la categoría VMP: su único escenario legal es el circuito privado. El importe que figura en la ficha está en dólares y carece de carácter oficial, y el tiempo de recarga sigue sin publicarse. Trasladarlo exige furgoneta; ni se plantea cargarlo al hombro.",
+      "Como máquina para rutas largas en recinto cerrado, la competencia escasea; como opción de movilidad urbana, ninguno de sus parámetros tiene sentido. Quien lo valore deberá resolver antes las incógnitas de etiqueta y carga con el importador.",
     ],
-    veredicto: "Para el que rueda fuera del asfalto y mide en cientos de kilómetros; no para la ciudad ni para la legalidad española.",
+    veredicto: "Para el aficionado a las rutas largas en circuito privado; no para la ciudad ni para la normativa española.",
   },
   "dualtron-ultra-2-upgrade": {
     parrafos: [
@@ -174,17 +175,17 @@ export const ANALISIS_PATINETE_01: MapaAnalisis = {
     parrafos: [
       "El Victor es el Dualtron civilizado: doble motor de 1.200 vatios con 2.400 vatios nominales y 4.000 vatios de pico, hasta 100 kilómetros de alcance en la versión de 60 V y 30 Ah LG con en torno a 65 kilómetros efectivos estimados, y certificado DGT, el número B1066 en la versión Luxury. Limitado a 25 km/h de fábrica, combina frenos hidráulicos ZOOM con freno eléctrico y ABS, ruedas extra-anchas de 10x3,0 pulgadas con cámara muy estables, suspensión ajustable con cartuchos intercambiables y pantalla EY4 con app móvil. En distribuidores españoles se mueve entre 1.795 y 2.295 €, con la ficha marcando 1.899 €.",
       "Los 33 kilos lo sacan de la categoría portable, y la carga es lenta: 15 horas con el cargador estándar, 7,5 con dos o 5 con el rápido. Deslimitado alcanza 80 km/h, así que su legalidad vive en el modo limitado, y el mantenimiento es de gama alta. Es la puerta de entrada seria a los Dualtron sin salirse de la legalidad: doble motor y gran alcance con papeles en regla.",
-      "El Victor es el Dualtron que un padre recomendaría a su hijo: potente pero legal, con frenos serios y papeles en regla. La gama tiene bestias más emocionantes, pero pocas tan sensatas.",
+      "El Victor es potente pero legal, con frenos serios y papeles en regla: pocas bestias de la gama tan sensatas.",
     ],
     veredicto: "Para el rider exigente que quiere doble motor legal; no para quien necesite ligereza o carga rápida.",
   },
   "dualtron-victor-60v": {
     parrafos: [
-      "La versión 60V del Victor es la bestia homologada de Dualtron: certificado DGT B1058 verificado en la lista oficial, 1.000 vatios nominales con 4.000 vatios de pico y una pack de 1.440 vatios-hora, 60 V y 24 Ah, que promete hasta 80 km de alcance con en torno a 54 km efectivos estimados. Los frenos hidráulicos ZOOM con freno eléctrico y ABS, la suspensión regulable en 9 posiciones, las ruedas extra-anchas de 10x3,0″ y la pantalla EY4 con app y modos de conducción conforman una construcción premium de Minimotors limitada a 25 km/h. Cuesta 1.799 €.",
-      "El peaje son 33,5 kilos imposibles de subir a pulso por escaleras, 13 horas de carga con el cargador estándar y un tamaño que complica guardarlo en casa. Para un uso puramente urbano va sobredimensionado. Es para riders exigentes que quieren lo máximo dentro de la legalidad y tienen garaje donde dejarlo.",
-      "Mil setecientos noventa y nueve euros por la bestia homologada no es poco, pero es el etiqueta de ir legal con 1.440 vatios-hora. Quien lo pague sabrá que no hay otro Dualtron con certificado que dé tanto.",
+      "El código B1058 es la carta de presentación de este Victor 60V: figura en el listado oficial de la DGT, así que sus 1.000 vatios nominales y 4.000 de pico circulan capados a 25 km/h dentro de la ley. La batería de 1.440 vatios-hora (60 V y 24 Ah) promete hasta 80 km de alcance —unos 54 km en uso normal— y la parte ciclo justifica los 1.799 €: frenada hidráulica ZOOM combinada con freno eléctrico y ABS, suspensión con nueve posiciones de ajuste, cubiertas extra-anchas de 10x3,0 pulgadas y la consola EY4 con aplicación y modos de conducción.",
+      "El peaje físico: 33,5 kilos imposibles de subir a pulso por unas escaleras, 13 horas enchufado con el cargador de serie y un volumen que exige garaje en lugar de trastero. Para trayectos cortos de ciudad va claramente sobredimensionado; su escenario natural es el conductor que quiere el máximo rendimiento posible dentro del marco legal y dispone de un hueco donde guardarlo.",
+      "Pocos Dualtron con certificado ofrecen tanto dentro de la normativa española.",
     ],
-    veredicto: "Para el exigente con garaje que quiere el tope legal; no para pisos sin ascensor ni para trayectos cortos de ciudad.",
+    veredicto: "Para el conductor con garaje que busca el tope de la gama legal; no para pisos sin ascensor ni desplazamientos cortos.",
   },
   "dualtron-victor-limited": {
     parrafos: [
@@ -238,7 +239,7 @@ export const ANALISIS_PATINETE_01: MapaAnalisis = {
     parrafos: [
       "El Pro-III, en esta variante de la ficha, es el patinete más tecnológico de la gama Urban e-Mobility de Ducati: desbloqueo por NFC con tarjeta física que actúa como llave, sin depender del móvil, chasis de magnesio de solo 17,5 kilos que absorbe mejor las vibraciones y app Ducati Urban desarrollada por Italdesign con asistencia técnica por WhatsApp. Monta 350 vatios nominales con 515 vatios de pico, batería de 468 Wh con 50 kilómetros declarados y en torno a 34 kilómetros reales calculados, y frenos de disco en ambas ruedas con regeneración KERS sobre cubiertas tubeless antipinchazos de 10″.",
       "Cuesta 799 €, en la franja alta para 350 vatios nominales, y la carga completa tarda 9 horas, de los más largos de su categoría. El certificado DGT no está verificado en las fuentes consultadas, el carenado frontal estilo moto puede encarecer reparaciones de plásticos y los 350 vatios van justos en cuestas pronunciadas. Tecnología y materiales de primera para el urbanita conectado; la alcance y el etiqueta piden pensarlo dos veces.",
-      "El NFC con tarjeta física es el detalle que más dice de su planteamiento: un patinete que se toma en serio la seguridad sin depender del móvil. Para el urbanita que aparca en la calle, eso vale más que unos vatios extra.",
+      "El NFC con tarjeta física dice mucho de su planteamiento: seguridad sin depender del móvil, ideal para quien aparca en la calle.",
     ],
     veredicto: "Para el tecnófilo urbano que valora el NFC y el chasis de magnesio; no para quien necesite carga rápida o certificado DGT.",
   },
@@ -333,7 +334,7 @@ export const ANALISIS_PATINETE_01: MapaAnalisis = {
     parrafos: [
       "El Egret Pro es ingeniería alemana seria: batería Samsung de 840 vatios-hora que anuncia hasta 80 kilómetros de alcance, con alrededor de 54 kilómetros efectivos aproximados, frenos de disco hidráulicos de 120 mm delante y detrás con frenada de nivel bicicleta, y acabados premium con cableado interno, display LED a color y manillar ajustable en altura. La batería con resistencia IPX7 no teme a la lluvia, el inmovilizador electrónico con PIN y la bocina eléctrica añaden seguridad, y la homologación alemana StVZO lo pensó para circular legalmente en su país. Pesa 23,9 kilos, admite 120 kilos y carga en 5,5 horas.",
       "El problema es geográfico: sin certificado DGT español no puede circular legalmente como VMP en España, y sus 500 vatios nominales están por encima del límite español. Sin venta oficial en España, el precio solo aparece en tiendas alemanas y suizas, por 1.299 €, y la versión alemana va limitada a 20 km/h. Solo recomendable para quien viva entre Alemania y España o lo use donde la norma lo ampare.",
-      "El Pro es el Egret que los alemanes compran sin dudar: StVZO, acabados y 840 vatios-hora para su normativa. En España es un extranjero sin papeles; una lástima, porque la máquina es excelente.",
+      "En Alemania se compra sin dudar: StVZO, acabados y 840 vatios-hora. En España es un extranjero sin papeles; una lástima, porque la máquina es excelente.",
     ],
     veredicto: "Para quien circule en Alemania o lo importe a conciencia; no para el uso diario en España sin certificado.",
   },
@@ -413,9 +414,9 @@ export const ANALISIS_PATINETE_01: MapaAnalisis = {
     parrafos: [
       "El Booster S es para quien prioriza el peso por encima de todo: 10,8 kilos que se llevan en la mano como una maleta, con un motor de 500 W en un chasis minúsculo que da una relación peso-potencia excelente. La batería de 36 V y 8,7 Ah suma 313 Wh con celdas de calidad, el plegado se hace en 3 segundos, el más rápido de guardar de su clase, y la tecnología KERS recupera energía al frenar. Los frenos son regenerativo delantero más emergencia trasero, sobre ruedas macizas airless de 8 pulgadas, con 25 km/h de máxima, 100 kilos de carga y 3 horas de carga. Cuesta 799 €.",
       "La rango no la anuncia el fabricante y con 313 Wh no hay que esperar grandes rutas; las ruedas de 8 pulgadas macizas son duras en adoquines, la plataforma es estrecha y el certificado DGT no se ha podido verificar en la lista oficial. La marca tiene centros oficiales en Barcelona y Madrid. Si se sube a trenes, oficinas y pisos sin ascensor, no hay rival; si se quiere rango, la propia ficha remite al GT SL.",
-      "Diez coma ocho kilos con 500 W es una cifra que casi nadie iguala: la ingeniería rumana brilla en la relación peso-potencia. Para el multimodal extremo, no hay color.",
+      "10,8 kilos con 500 W: casi nadie iguala esa relación peso-potencia.",
     ],
-    veredicto: "Para el multimodal que lo carga a pulso cada día; no para quien necesite autonomía o confort en firme roto.",
+    veredicto: "Para el multimodal que lo carga a pulso; no para quien necesite alcance o confort.",
   },
   "etwow-booster-sport": {
     parrafos: [
@@ -492,9 +493,9 @@ export const ANALISIS_PATINETE_01: MapaAnalisis = {
     parrafos: [
       "El C3 es la demostración de lo que Evercross ofrece por 479,99 €: motor de 800 vatios nominales con 1.100 vatios de pico, de lo más potente por debajo de 500 €, pack de 48 V y 15,6 Ah que suma 749 Wh con 55-60 km declarados y unos 40 km reales en uso mixto, y neumáticos tubeless autorreparables de gel de 10 pulgadas que sellan solos los pinchazos pequeños. La triple frenada, discos delante y detrás más freno electrónico, la doble suspensión, los intermitentes, el desbloqueo NFC y la app propia son equipamiento de gama superior, con velocidad ajustable hasta 45 km/h para uso en vías privadas.",
       "El aviso legal es serio: sin certificado DGT publicado, solo certificación CE, y los 45 km/h solo son legales en recinto privado, en vía pública española el límite son 25 km/h. El fabricante no publica peso, tope de peso útil ni tiempo de carga, la red de servicio en España es limitada y en el momento de la consulta estaba agotado en la tienda oficial europea. Mucho equipo por poco dinero, con deberes legales y logísticos.",
-      "Ochocientos vatios por 479,99 € con NFC e intermitentes es una ficha que parece un error de imprenta. El truco está en lo que no trae: certificado DGT y red de servicio.",
+      "800 W por 479,99 € con NFC e intermitentes; el truco está en lo que no trae: certificado DGT y servicio.",
     ],
-    veredicto: "Para el cazador de chollos que lo limite a 25 km/h; no para quien exija certificado DGT o servicio local.",
+    veredicto: "Para quien lo limite a 25 km/h; no para quien exija certificado DGT.",
   },
   "evercross-ev08e": {
     parrafos: [
@@ -538,11 +539,11 @@ export const ANALISIS_PATINETE_01: MapaAnalisis = {
   },
   "evercross-h7": {
     parrafos: [
-      "El H7 es el Evercross con sillín más serio: 800 vatios con 720 vatios-hora, 48 V y 15 Ah, que anuncian 45 km con unos 30 efectivos. La suspensión delantera de cuatro muelles más trasera traga baches de verdad, el sillín desmontable lleva amortiguación propia y la app registra crucero, bloqueo y estadísticas de cada viaje. Doble disco sobre ruedas macizas todoterreno de 10 pulgadas, 150 kg de admisión y certificación UL2272. Cuesta 550 €.",
-      "Sus 45 km/h obligan a limitarlo a 25 para ser legal en España, y sus 25 kg son un trasto para subir escaleras. Las ruedas macizas agarran menos en mojado y el soporte, según reseñas de Amazon, es dispar. El más equilibrado de la serie H para quien acepta el peso.",
-      "La UL2272 certifica la seguridad eléctrica de sus 720 vatios-hora, un sello que pocos rivales de 550 € ofrecen. Con 150 kg de admisión y app con estadísticas de viaje, es el H más completo para quien acepta sus 25 kg.",
+      "Por 550 €, el H7 es el Evercross de la serie H que más se parece a una minimoto de barrio: 25 kilos en la báscula y un asiento extraíble con amortiguación propia para rodar sentado. El dato que lo distingue no es la potencia —800 vatios—, sino el sello UL2272, la certificación de seguridad eléctrica que ampara sus 720 vatios-hora (48 V y 15 Ah), con 45 km anunciados y unos 30 km de uso normal.",
+      "En marcha, cuatro muelles delante y amortiguador trasero absorben adoquines y badenes sin dramas, y el doble disco muerde sobre cubiertas macizas de 10 pulgadas pensadas para firmes irregulares. La aplicación del fabricante añade modo de velocidad constante, inmovilización a distancia y registro de cada trayecto, mientras el chasis admite hasta 150 kilos de jinete.",
+      "El matiz legal es ineludible: la ficha marca 45 km/h, así que en España hay que caparlo a 25 para circular como VMP. Las gomas macizas pierden agarre con el asfalto mojado y, según las opiniones de Amazon, la atención postventa es irregular. Quien lo compre debe asumir que 25 kilos se notan escaleras arriba.",
     ],
-    veredicto: "Para el que quiere sillín con todas las letras; no para escaleras.",
+    veredicto: "Para quien prioriza la seguridad eléctrica certificada y rodar con asiento; no para quien busque ligereza ni postventa impecable.",
   },
   "evercross-h9": {
     parrafos: [
@@ -595,9 +596,9 @@ export const ANALISIS_PATINETE_01: MapaAnalisis = {
     parrafos: [
       "El Apex es el Gotrax de entrada: 250 W nominales con 300 W de pico, dentro del límite legal de potencia para VMP, 25 km/h de máxima que cumple el tope legal español y 14,4 kilos fáciles de plegar y llevar. La batería de 216 vatios-hora promete 24 km con alrededor de 16 km reales aproximados, los frenos combinan electromagnético delantero con disco trasero, rueda sobre neumáticos de 8,5″ que absorben bien los baches urbanos y suma certificación UL 2272 de seguridad eléctrica. En EE. UU. ronda los 300 dólares, de los más baratos con pantalla LED grande, y la ficha marca 399 €.",
       "El problema es España: sin certificado DGT, aquí solo pueden circular VMP certificados, y sin venta ni servicio oficial en nuestro país, importar desde EE. UU. sale caro y sin garantía local. La alcance es escasa, la batería pequeña se queda corta para trayectos largos, no tiene suspensión y la carga admitida de 100 kilos es justa. Encaja en potencia y velocidad con la normativa, pero le falta lo esencial para ser una opción de compra real aquí.",
-      "La certificación UL 2272 y los 300 dólares lo explican todo: el Apex está pensado para el estudiante americano, no para el commuter europeo. Cada mercado tiene su patinete.",
+      "UL 2272 y 300 dólares lo explican todo: pensado para el estudiante americano, no para el commuter europeo.",
     ],
-    veredicto: "Para el mercado americano que busca lo más barato con pantalla grande; no para comprar en España sin certificado ni red local.",
+    veredicto: "Para el americano que busca lo más barato; no para España sin certificado ni red local.",
   },
   "gotrax-eclipse": {
     parrafos: [
@@ -702,11 +703,11 @@ export const ANALISIS_PATINETE_01: MapaAnalisis = {
   },
   "gotrax-gx3": {
     parrafos: [
-      "El GX3 es el buque insignia de Gotrax: dos motores de 1.000 vatios que suman 2.000 vatios, el conjunto más potente de la marca, con 97 km anunciados y en torno a 65 km efectivos calculados, el mayor alcance de todo su catálogo. Las ruedas todoterreno de 11″, el doble disco delantero y trasero, los 2 años de garantía y los 136 kilos de peso máximo admitido hablan de una máquina pensada a lo grande, por 1.649 dólares.",
-      "La máxima de ficha es de 25 km/h, pero con ese potencial capado por ley en España, donde además no hay distribución oficial y el peso sin publicar será muy elevado. Es más una moto ligera que un VMP urbano: impresiona en la ficha, pero su hábitat es el mercado americano.",
-      "Quien lo importe sabiendo lo que hace tendrá la bestia de Gotrax; quien busque un uso racional en Europa debería mirar gamas con red de servicio local.",
+      "El GX3 es la apuesta de Gotrax por el segmento americano de los doble motor grandes: dos propulsores de 1.000 vatios que suman 2.000 vatios combinados, la cifra más alta jamás publicada por la marca. La autonomía acompaña con 97 km declarados —en torno a 65 km de uso real—, también récord del catálogo, sobre ruedas todoterreno de 11 pulgadas y doble disco en ambos ejes. La marca lo respalda con dos años de garantía y una carga máxima de 136 kilos, por 1.649 dólares.",
+      "El problema es geográfico: en España la velocidad de ficha es de 25 km/h, el potencial queda recortado por la normativa y no existe red oficial de distribución ni servicio técnico. El peso, sin publicar, será forzosamente muy alto a juzgar por la batería que exigen esos 97 km. Importarlo es posible, pero con los ojos abiertos y asumiendo la postventa por cuenta propia.",
+      "Su hábitat natural es el mercado estadounidense, donde la potencia y la alcance mandan sobre cualquier otra consideración. En Europa solo encaja como capricho para quien ya conozca el mundo de la importación y sus costes ocultos.",
     ],
-    veredicto: "Para el americano que quiere el máximo de Gotrax; no para Europa ni para la discreción.",
+    veredicto: "Para el comprador estadounidense que busca el tope de Gotrax; no para Europa ni para quien necesite servicio local.",
   },
   "gotrax-gxl-v2": {
     parrafos: [
