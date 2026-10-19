@@ -116,7 +116,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     categoria: "Deportivo",
     precioDesde: 350782,
     potenciaCv: 920,
-    autonomiaKm: null,
+    autonomiaKm: 10,
     maleteroL: 112,
     ceroCien: 2.7,
     velocidadMax: 343,
@@ -147,7 +147,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     parNm: 730,
     traccion: "Total",
     emisionesCo2: 272,
-    aprox: [],
+    aprox: ["autonomiaKm"],
     imagen: "/media/lamborghini-temerario-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [
       {
@@ -966,7 +966,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     modelo: "Urus SE Performante",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 290000,
     potenciaCv: 812,
     autonomiaKm: 60,
     maleteroL: null,
@@ -983,7 +983,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
       "Performante + PHEV: circuito y ciudad en un coche",
     ],
     contras: [
-      "Precio aún no anunciado por la marca",
+      "Precio de lanzamiento confirmado por Lamborghini: ~290.000 € en Italia, antes de opciones e impuestos",
       "2.473 kg: el peso penaliza en curva",
       "Presentado en julio de 2026: entregas por llegar",
       "Maletero y consumos WLTP aún sin publicar",
@@ -999,7 +999,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     parNm: 1000,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["autonomiaKm"],
+    aprox: [],
     imagen: "/media/lamborghini-urus-se-performante-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1069,6 +1069,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
       "Enfoque circuito: incómodo en ciudad",
       "Etiqueta C: vetado de futuras ZBE",
       "Mantenimiento de superdeportivo de producción limitada",
+      "Lamborghini no publicó tarifa oficial del STJ (10 unidades vendidas a clientes seleccionados): la ficha queda sin precio",
     ],
     largoMm: null,
     anchoMm: null,

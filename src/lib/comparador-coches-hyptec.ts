@@ -429,7 +429,7 @@ export const COCHES_HYPTEC: CocheComparador[] = [
     modelo: "A800",
     tipo: "Híbrido de autonomía extendida (EREV)",
     categoria: "Berlina",
-    precioDesde: 23000,
+    precioDesde: 25307,
     potenciaCv: 340,
     autonomiaKm: 178,
     maleteroL: null,
@@ -451,7 +451,7 @@ export const COCHES_HYPTEC: CocheComparador[] = [
     parNm: null,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: ["autonomia", "precioDesde"],
+    aprox: ["autonomiaKm", "precioDesde"],
     pros: [
       "178 km de autonomía eléctrica WLTC con batería de 35,03 kWh",
       "Más de 1.200 km de autonomía total con el extensor de autonomía 1.5T",
@@ -460,7 +460,7 @@ export const COCHES_HYPTEC: CocheComparador[] = [
       "Asientos traseros transformables: de berlina ejecutiva de 4 a 5 plazas",
     ],
     contras: [
-      "A la venta desde marzo de 2026: precio oficial aún no publicado",
+      "Sin venta oficial en España: precio orientativo convertido de la tarifa oficial china (18,98万 yuan)",
       "No se vende oficialmente en Europa ni en España",
       "Solo EREV: no hay versión 100 % eléctrica",
       "La autonomía WLTP europea no está publicada",
