@@ -71,6 +71,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "delage-d12-gt-2025-precio-ficha-tecnica": () => import("../blog-posts-delage-a.ts"),
     "denver-sel-10800f": () => import("../blog-posts-patinetes-exp-p5.ts"),
     "denver-sel-10810fdb": () => import("../blog-posts-patinetes-exp-p5.ts"),
+    "denza-b8-2026-precio-ficha-tecnica": () => import("../blog-posts-p17-20261019.ts"),
     "denza-bao-5-2026-precio-ficha-tecnica": () => import("../blog-posts-denza-a.ts"),
     "denza-bao-8-2026-precio-ficha-tecnica": () => import("../blog-posts-denza-a.ts"),
     "denza-d9-dm-i-2025-precio-ficha-tecnica": () => import("../blog-posts-nuevos-c2.ts"),

@@ -206,6 +206,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "kymco-agility-nx-125-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m4.ts"),
     "kymco-agility-s-125-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m12.ts"),
     "kymco-agility-s-125-2026-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m3.ts"),
+    "kymco-downtown-350-gt-2024-precio-ficha-tecnica": () => import("../blog-posts-p17-20261019.ts"),
     "kymco-dtx-125-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m4.ts"),
     "kymco-dtx-350-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m4.ts"),
     "kymco-ionex-s7-2026-precio-ficha-tecnica": () => import("../blog-posts-lote10.ts"),

@@ -256,6 +256,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "mitsubishi-asx-130t-mhev-2025-precio-ficha-tecnica": () => import("../blog-posts-mitsubishi-a.ts"),
     "mitsubishi-colt-100t-2025-precio-ficha-tecnica": () => import("../blog-posts-mitsubishi-a.ts"),
     "mitsubishi-colt-100t-glp-2025-precio-ficha-tecnica": () => import("../blog-posts-mitsubishi-a.ts"),
+    "mitsubishi-colt-2026-precio-ficha-tecnica": () => import("../blog-posts-p17-20261019.ts"),
     "mitsubishi-colt-hev-2025-precio-ficha-tecnica": () => import("../blog-posts-mitsubishi-a.ts"),
     "mitsubishi-eclipse-cross-electrico-2025-precio-ficha-tecnica": () => import("../blog-posts-mitsubishi-a.ts"),
     "mitsubishi-eclipse-cross-ev-lfp-2026-precio-ficha-tecnica": () => import("../blog-posts-mitsubishi-a.ts"),

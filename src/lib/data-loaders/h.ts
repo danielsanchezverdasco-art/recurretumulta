@@ -115,6 +115,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "honda-forza-750-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m1.ts"),
     "honda-gb350s-2025-ficha-tecnica-precio": () => import("../blog-posts-prio2-3.ts"),
     "honda-gold-wing-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m7.ts"),
+    "honda-gold-wing-2026-precio-ficha-tecnica": () => import("../blog-posts-p17-20261019.ts"),
     "honda-grom-125-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m19.ts"),
     "honda-gt-2026-precio-autonomia": () => import("../blog-posts-lote13.ts"),
     "honda-hr-v-ehev-2024-precio-ficha-tecnica": () => import("../blog-posts-coches-exp16.ts"),

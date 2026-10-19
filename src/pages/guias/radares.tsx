@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import { useSeo } from "@/hooks/use-seo.ts";
 import { DriveInImage } from "@/components/motion.tsx";
 import { motion } from "motion/react";
@@ -119,6 +120,7 @@ export default function GuiaRadaresPage() {
         </table>
         </div>
         <p className="text-slate-600 mb-4">Si la denuncia no descuenta ese margen, la medición puede ser recurrible.</p>
+        <p className="text-slate-600 mb-4">Los radares láser portátiles (Veloláser) se usan en estático: te explicamos <Link to="/blog/cinemometro-laser-como-funciona-multa/" className="font-semibold text-red-700 underline">cómo funciona el cinemómetro láser</Link>, con sus márgenes de error oficiales según la orden metrológica vigente.</p>
 
                 <figure className="mb-8">
           <video src="/media/guia-radares.mp4" className="w-full rounded-3xl border border-slate-200" muted autoPlay loop playsInline preload="metadata" aria-label="Vídeo: circulación por una autopista española al atardecer" />

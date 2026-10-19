@@ -591,7 +591,7 @@ export const PROVINCIAS: Provincia[] = [
     telefonoDgt: "985 297 700",
     direccionDgt: "C/ Peña Santa de Enol, 7, 33012 Oviedo",
     codigoPostal: "33001",
-    descripcionLocal: "Asturias vigila la A-66 (autovía de la Plata) y la A-8. En Oviedo, la zona azul y los accesos al centro histórico generan sanciones urbanas frecuentes.",
+    descripcionLocal: "¿Multa en Oviedo o Asturias? Las de carretera (A-8, A-66) las tramita la DGT: tienes 20 días naturales para alegar o pagar con el 50 % de descuento. Las urbanas (zona azul, centro histórico) las pone el Ayuntamiento de Oviedo. Analiza tu multa gratis antes de pagar.",
     multas: {
       tiposMasFrecuentes: ["Velocidad A-8", "Zona azul Oviedo", "Autopista Gijón"],
       radares: ["A-8 Oviedo-Gijón", "A-66 Gijón-Benavente", "AS-II ronda"],

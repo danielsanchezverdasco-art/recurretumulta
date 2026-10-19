@@ -338,7 +338,7 @@ export const COMUNIDADES: Comunidad[] = [
     provincias: ["bilbao", "san-sebastian", "vitoria"],
     capital: "Vitoria-Gasteiz",
     foto: "/media/pilar-radares.webp",
-    descripcion: "El País Vasco tiene competencia propia en tráfico: la Ertzaintza denuncia en las vías vascas y el Gobierno Vasco tramita las sanciones con procedimiento propio. Bilbao, Donostia y Vitoria aplican zonas de bajas emisiones. La AP-8 y la A-1 son los ejes con más controles.",
+    descripcion: "¿Multa en el País Vasco? En las vías vascas denuncia la Ertzaintza y las sanciones las tramita el Gobierno Vasco (no la DGT): tienes 20 días naturales para presentar alegaciones o pagar con el 50 % de descuento. Bilbao, Donostia y Vitoria aplican ZBE; la AP-8 y la A-1 concentran los radares.",
     particularidades: ["La Ertzaintza es la policía de tráfico en Euskadi; la DGT no tramita multas en vías vascas.", "Los recursos se presentan ante el Gobierno Vasco (Departamento de Seguridad).", "Bilbao tiene ZBE; Donostia y Vitoria restringen accesos al centro.", "La AP-8 (peaje) concentra radares entre Bilbao e Irun."],
     zbe: ["Bilbao", "Donostia-San Sebastián (centro)", "Vitoria-Gasteiz (centro)"],
     keywords: ["multas de tráfico en el País Vasco", "cómo recurrir una multa en Euskadi", "recurso Ertzaintza multa", "multa Gobierno Vasco recurrir", "dónde recurrir multa País Vasco 2026"],

@@ -156,7 +156,9 @@ Sí. En tus alegaciones puedes pedir que se aporte el certificado de verificaci�
       "multa matricula erronea anular",
       "multa trafico derecho defensa audiencia",
     ],
-    content: `## ¿Qué es un vicio de forma en una multa de tráfico?
+    content: `**Respuesta rápida:** sí, tu multa puede ser **nula** por un defecto de forma: los errores graves del procedimiento provocan la nulidad de pleno derecho (art. 47, Ley 39/2015) y los demás la anulabilidad (art. 48), aunque la infracción sea real. Estos son los 12 vicios más frecuentes que anulan multas de la DGT.
+
+## ¿Qué es un vicio de forma en una multa de tráfico?
 
 Un **vicio de forma** es un error procedimental en el expediente sancionador que vulnera tus derechos como ciudadano. A diferencia de los argumentos de fondo (discutir si cometiste o no la infracción), los vicios de forma atacan la validez del **procedimiento** seguido por la administración.
 
