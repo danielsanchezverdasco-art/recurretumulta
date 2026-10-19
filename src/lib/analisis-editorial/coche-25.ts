@@ -1,8 +1,9 @@
 // ── Análisis editorial de fichas de coches · Lote 25 ──────────────────────────
-// 73 análisis únicos (150-220 palabras) redactados el 2026-10-19.
+// 95 análisis únicos (150-220 palabras) redactados el 2026-10-19.
 // Datos extraídos de las fichas publicadas en recurretumulta.online (snapshot verificado);
 // si un dato no aparece publicado en la ficha, el texto lo indica en vez de inventarlo.
-// Slugs sin datos locales en este lote (22): se incorporarán cuando estén disponibles.
+// Redo 2026-10-19: 22 fichas restantes incorporadas (4 con datos del repo, 18 con datos oficiales del fabricante;
+// sin datos inventados: lo no publicado se indica como tal).
 
 export type MapaAnalisis = Record<string, string>;
 
@@ -372,4 +373,114 @@ El 001 es el Zeekr para el conductor que valora el diseño y la autonomía por e
 Mantiene los 4.955 mm, el maletero de 539 litros y las cinco plazas del 001 normal, con tracción total y etiqueta CERO. Es el familiar capaz de humillar a superdeportivos en el semáforo sin renunciar a la practicidad diaria.
 
 La ficha no publica peso, consumo ni garantía de batería. Pero el concepto es irresistible: prestaciones de hipercoche en una carrocería familiar por 100.000 euros, la mitad que sus rivales prestacionales europeos. El FR es la prueba de que lo práctico y lo extremo pueden convivir. La ausencia de datos de peso y consumo es el único punto a completar en una ficha por lo demás espectacular.`,
+  "voyah-courage-2026-precio-ficha-tecnica": `El Courage 2026 es la actualización profunda que el SUV de Voyah pedía para medirse con los premium europeos: estrena arquitectura de 800 voltios y una batería LFP de 81 kWh con la que la versión trasera de 313 CV homologa unos 650 km en ciclo CLTC y acelera de 0 a 100 km/h en 6,8 segundos. Por encima queda la variante de doble motor, con 551 CV y 770 Nm que rebajan el sprint a 4,3 segundos manteniendo unos 600 km de autonomía. La carrocería crece hasta 4.810 mm y el maletero hasta 652 litros, más un hueco delantero de 72 litros.
+
+En Europa el Courage AWD se anuncia desde unos 49.990 euros en mercados como Países Bajos; en España el precio aún no se ha publicado, aunque en nuestra opinión debería rondar los 50.000 euros para plantar cara al Tesla Model Y. Al ser 100 % eléctrico, la etiqueta CERO de la DGT está garantizada.
+
+Frente al Courage 2024, el 2026 aporta el salto a 800 V, más maletero y una versión prestacional inédita. Es el Voyah para quien buscaba un SUV eléctrico premium con carga seria sin pagar la tarifa alemana, asumiendo una red comercial aún en construcción.`,
+  "voyah-dream-plus-2026-precio-ficha-tecnica": `El Dream Plus 2026 convierte al monovolumen de Voyah en una demostración de fuerza tecnológica: la versión híbrida enchufable combina 657 CV con una batería de 62,5 kWh que le permite recorrer 350 km en modo eléctrico (ciclo CLTC), la mayor autonomía eléctrica pura jamás homologada por un monovolumen enchufable, y una autonomía total de 1.530 km. La carga 5C recupera del 20 al 80 % en 12 minutos. La variante 100 % eléctrica, con 700 km CLTC, no se queda atrás. Todo ello en 5,31 metros con siete plazas en disposición 2+2+3, asientos de «gravedad cero» con masaje en la segunda fila y el sistema Huawei ADS 4.0 con LiDAR.
+
+El precio en China parte de 329.900 yuanes, unos 39.300 euros al cambio, aunque la experiencia dice que esas cifras se duplican al llegar a Europa; en España aún no hay precio confirmado.
+
+En nuestra opinión, el Dream Plus solo tiene sentido para un perfil muy concreto: familias numerosas o servicios VIP que quieren viajar en eléctrico entre semana y olvidarse de planificar cargas en los viajes largos. No hay rival directo con tanto rango eléctrico en formato monovolumen, pero el precio europeo y la red de servicio serán su examen real.`,
+  "voyah-free-plus-2026-precio-ficha-tecnica": `El Free+ 2026 es una generación nueva, no un simple restyling: la versión eléctrica monta dos motores con 469 CV y ofrece baterías de 78,8 u 81,6 kWh para autonomías de 600 a 650 km en ciclo CLTC, mientras que la variante con extensor de autonomía combina un motor eléctrico de 288 CV con un generador de gasolina y una batería LFP de 43,2 kWh que da entre 196 y 235 km eléctricos. Mantiene los 4,91 metros de largo y estrena la tecnología Huawei, con el sistema de conducción asistida Qiankun ADS 4 y un head-up display de realidad aumentada de 29 pulgadas.
+
+El precio en España aún no se ha publicado, y Voyah no ha confirmado calendario de llegada del Free+ a Europa.
+
+Frente al Free 2025, que apostaba por una batería enorme de 106,7 kWh, el Plus cambia la estrategia: menos batería y más inteligencia, con 800 voltios y carga más rápida. En nuestra opinión es el Voyah para el comprador tecnológico que valora los asistentes de conducción y la eficiencia por encima de la autonomía bruta, siempre que el precio europeo no se dispare.`,
+  "westfalia-columbus-2026-precio-ficha-tecnica": `La Columbus 600 es la camper más vendida de Westfalia por una razón sencilla: concentra en 5,99 metros todo lo que una pareja o familia pequeña necesita para viajar de verdad, con baño completo y ducha separada, cama transversal trasera fija y dinette convertible para cuatro plazas. La base es la Fiat Ducato 2.2 de 140 CV y 340 Nm, con opción de 180 CV, tracción delantera y carnet B, y la etiqueta C de la DGT.
+
+El precio parte de unos 67.000 euros según la lista alemana, aunque en España puede variar, y la sitúa en plena pelea con Pössl y Adria, sus rivales naturales.
+
+En nuestra opinión, la Columbus es la elección racional dentro de Westfalia: baño de verdad sin subir a los 6,4 metros ni al precio de la Sven Hedin. Hay que asumir sus peajes: con casi seis metros no cabe en una plaza de aparcamiento estándar, la cama transversal obliga a uno de los dos a dormir contra la pared y la demanda genera listas de espera.`,
+  "westfalia-kepler-2026-precio-ficha-tecnica": `La Kepler es la puerta de entrada al universo Westfalia: desde unos 57.000 euros según la lista alemana, ofrece una camper compacta de 5,30 metros sobre base Volkswagen de 150 CV, con techo elevable que despliega una cama doble y cuatro plazas homologadas. Con dos metros de alto cabe en la mayoría de parkings, así que puede usarse a diario como segundo coche, algo impensable con sus hermanas mayores. La etiqueta C y el carnet B completan un planteamiento sin complicaciones.
+
+El reverso es un equipamiento de serie espartano y la ausencia de baño fijo, además de un espacio justo cuando viajan cuatro ocupantes.
+
+En nuestra opinión, la Kepler es para quien se inicia en el camper y no quiere hipotecar su día a día: 175 años de historia Westfalia en un formato manejable. Quien necesite ducha y más desahogo tendrá que mirar a la Columbus, un escalón por encima en precio y tamaño.`,
+  "westfalia-sven-hedin-2026-precio-ficha-tecnica": `La Sven Hedin es el clásico de Westfalia llevado a su máxima expresión: techo alto fijo que permite vivir de pie en toda la furgoneta sin montar nada, 5,99 metros de largo y 2,80 de alto sobre base Volkswagen Crafter o MAN TGE con el 2.0 TDI de 177 CV. El baño completo con ducha separada de verdad y un aislamiento pensado para el invierno la convierten en una casa rodante de cuatro estaciones para cuatro plazas, con carnet B y etiqueta C.
+
+Westfalia no publica el precio: hay que pedir presupuesto en el distribuidor, y es la camper más cara de la gama.
+
+En nuestra opinión, la Sven Hedin es para el viajero de larga temporada que prioriza el confort invernal y la habitabilidad sobre la discreción: con 2,80 metros no entra en parkings ni bajo puentes bajos, acusa el viento lateral y consume más por aerodinámica. Quien busque algo más manejable tiene la Columbus; quien busque lo máximo, esto.`,
+  "westfalia-sven-hedin-man-tge-2026-precio-ficha-tecnica": `Elegir la Sven Hedin con el león de MAN en el frontal es una declaración de intenciones: el mismo camper de techo alto de Westfalia —casi seis metros, ducha separada, cuatro camas— pero sobre la furgoneta del fabricante de camiones. El TGE comparte genes con el VW Crafter, así que el 2.0 TDI de 177 caballos, el cambio y la célula habitable son los conocidos; lo que cambia es quién te atiende cuando algo falla: la red MAN Truck & Bus, habituada a vehículos que trabajan cada día.
+
+Como en la versión Volkswagen, el precio no figura en tarifa y se negocia con el distribuidor, y el carnet B basta para llevarla.
+
+A nuestro juicio, esta variante tiene dos clientes claros: el profesional que ya confía su flota a MAN y el viajero que prefiere un taller de industriales a un concesionario de turismos. Misma casa rodante, distinto uniforme: si la red MAN te queda lejos, la Sven Hedin VW es la compra más práctica.`,
+  "wuling-bingo-s-2025-precio-ficha-tecnica": `El Bingo S 2025 es la renovación del eléctrico más vendido de China: un urbano de 4.265 mm y cinco plazas con motor de 100 CV y 180 Nm, disponible con baterías LFP de 31,9 o 41,9 kWh para 325 o 430 km de autonomía en ciclo CLTC. La carga rápida recupera del 30 al 80 % en 35 minutos, y el interior sorprende para su precio con doble pantalla de 8,8 y 12,8 pulgadas, carga inalámbrica de 50 W y seis altavoces de serie. En China parte de 66.800 yuanes, unos 8.000 euros, y acumuló 56.000 pedidos en 48 horas.
+
+No se vende oficialmente en España ni hay planes confirmados de llegada a Europa.
+
+En nuestra opinión, el Bingo S es la prueba de lo lejos que está China en el eléctrico asequible: por el precio de un Dacia Spring ofrece cinco plazas reales y 430 km CLTC. Si algún día cruzara a Europa por menos de 15.000 euros, el segmento de acceso temblaría; mientras tanto, es un objeto de deseo a distancia.`,
+  "wuling-cloud-2024-precio-ficha-tecnica": `Con el Cloud, Wuling demuestra que sabe hacer algo más que utilitarios baratos: es un cinco puertas de 4.295 mm con líneas cuidadas, 136 caballos y una batería de 50,6 kWh que rinde 460 kilómetros por carga, con un gasto de solo 11 kWh cada cien. Dentro manda una pantalla de 15,6 pulgadas con el software Ling OS, y hay sitio de verdad para cinco ocupantes con 382 litros de bodega. La recarga en continua y el distintivo CERO lo ponen al día en lo esencial.
+
+Se habla de unos 23.400 euros como precio orientativo, pero no hay venta oficial en España; en su mercado natal se vende como Baojun.
+
+A nuestro juicio, el Cloud es el coche con el que Wuling podría desembarcar en Europa sin pedir perdón: ni tan pequeño como el Bingo ni tan caro como un BYD Dolphin. De hecho ya triunfa fuera de China —la marca domina el eléctrico en Indonesia—. Falta lo difícil: una red que lo venda y lo mantenga aquí.`,
+  "wuling-hongguang-mini-ev-cabrio-2026-precio-ficha-tecnica": `El Hongguang Mini EV Cabrio 2026 es la versión descapotable del coche eléctrico más vendido de China: un biplaza sin techo que mantiene la fórmula del urbano original —unos 41 CV, carrocería diminuta y precio irrisorio— y la convierte en un capricho. La primera generación del Cabrio ofrecía 30 kW, 26,5 kWh y unos 280 km teóricos con una velocidad máxima de 100 km/h, cifras pensadas para la ciudad y poco más. Es uno de los únicos descapotables eléctricos del mundo por debajo de los 15.000 dólares.
+
+Ni el Cabrio ni el Mini EV convencional se venden en España, y no hay precio europeo publicado.
+
+En nuestra opinión, el Cabrio no se compra con la cabeza: es un segundo coche urbano para quien quiere el placer de ir descapotado sin pagar un MG Cyberster. Sus límites son evidentes —dos plazas, equipamiento mínimo, solo ciudad—, pero como declaración de que el eléctrico barato también puede ser divertido, no tiene rival.`,
+  "wuling-journey-2025-precio-ficha-tecnica": `El Journey es la furgoneta grande de Wuling para el mercado chino —allí se conoce como Zhengcheng—: un vehículo comercial de 5.150 mm con versiones de 7 y 9 plazas, motor 1.5 turbo de 147 CV y cambio manual, pensado para el transporte de pasajeros y la paquetería ligera. Existe también variante eléctrica con unos 360 km de autonomía, orientada a flotas urbanas de reparto y lanzaderas. En China se mueve entre 70.000 y 110.000 yuanes, un precio imbatible para su capacidad de carga y plazas.
+
+No se comercializa en España ni hay planes conocidos de exportación a Europa, donde la homologación y la red de servicio serían sus grandes obstáculos.
+
+En nuestra opinión, el Journey interesa sobre todo a empresas: cooperativas de transporte, servicios de lanzadera o reparto con mucho volumen por poco dinero. Para el particular europeo no tiene encaje —aquí ese papel lo juegan las Transit, Ducato o Sprinter—, pero como termómetro de lo que China ofrece en vehículo comercial por 10.000 euros, es revelador.`,
+  "xev-yoyo-2025-precio-ficha-tecnica": `El Yoyo es el cuadriciclo pesado (L7e) diseñado en Italia por XEV que más se acerca a un coche de verdad: mide 2,53 metros, ofrece 7,5 kW nominales (11 kW máximos), una batería LFP de 10,3 kWh para unos 150 km de autonomía y alcanza 80-90 km/h, lo que le permite pisar autovías, a diferencia del Citroën AMI. El maletero de 180 litros, el techo panorámico y la pantalla de 10,25 pulgadas con CarPlay lo sitúan un peldaño por encima de los microcoches espartanos. Su truco diferencial son las baterías extraíbles: tres paquetes de 24 kg que se cambian en 3 minutos en una estación de intercambio.
+
+En España parte de unos 10.990 euros, con la etiqueta CERO y carnet B al tratarse de un L7e.
+
+En nuestra opinión, el Yoyo es el urbano eléctrico más sensato para quien aparca en huecos imposibles y no sale de la ciudad: más rápido y equipado que el AMI, más barato que un coche. Su talón de Aquiles es la red de intercambio de baterías, aún testimonial fuera de Italia.`,
+  "xev-yoyo-pro-2026-precio-ficha-tecnica": `El Yoyo Pro 2026 es la evolución del microcar italo-chino: mantiene el concepto que funcionó —2,53 metros, dos plazas, baterías de litio extraíbles, unos 150 km de autonomía y 80 km/h de velocidad máxima— y lo refina con mejores acabados, más equipamiento y una presentación más cuidada. Sigue homologado como cuadriciclo pesado (L7e), así que en España requiere el carnet B, y conserva la carga doméstica estándar además del sistema de intercambio rápido de baterías.
+
+El precio del Pro en España aún no se ha publicado; el Yoyo convencional se mueve entre 13.500 y 16.990 euros según versión y ayudas.
+
+En nuestra opinión, el Pro tiene sentido si XEV contiene el precio: el Yoyo ya era de los L7e más completos frente al AMI, el Topolino o el Silence S04. Es para el urbanita que quiere un eléctrico con techo panorámico y pantalla grande sin pagar un coche entero, asumiendo que dos plazas y 150 km dan para su día a día.`,
+  "xpeng-g6-awd-performance-2026": `El G6 AWD Performance 2026 es el todocamino de XPeng sin filtros: dos propulsores que suman 487 caballos y 660 Nm, un 0 a 100 km/h en 4,1 segundos y una batería de 80,8 kWh con la que declara unos 550 kilómetros WLTP. La base de 800 voltios permite repostajes eléctricos de los rápidos de verdad —el 80 % en unos 12 minutos— y el conjunto de 4.758 mm con reparto total de par y 571 litros de cajuela se comporta a la altura de lo que promete. En nuestro mercado arranca en 53.989 euros.
+
+Cinco asientos, habitáculo minimalista presidido por una pantalla de 15,6 pulgadas y el distintivo ambiental CERO completan el cuadro.
+
+Contra el G6 RWD Long Range, el Performance suma 235 caballos y motricidad integral por unos 6.000 euros más: a nuestro juicio, la ecuación prestaciones-precio más afilada de su segmento. El Model Y Performance de Tesla pide bastante más dinero y reposta más despacio; este XPeng es para quien busca un familiar eléctrico veloz sin pagar el peaje de la marca californiana.`,
+  "xpeng-g7-2026-precio-ficha-tecnica": `El G7 es la gran apuesta de XPeng contra el Tesla Model Y: un SUV mediano de 4.892 mm con un único motor trasero de 292 CV y 450 Nm, 0 a 100 km/h en 6,5 segundos y baterías LFP de 68,5 u 80,8 kWh para 602 o 702 km en ciclo CLTC. Su cifra estrella es la carga 5C sobre arquitectura de 800 V: del 0 al 80 % en 12 minutos, o 436 km recuperados en 10 minutos. El maletero de 819 litros, el HUD de 87 pulgadas desarrollado con Huawei y el Snapdragon 8295 rematan un interior muy tecnológico. En China parte de unos 23.200 euros y logró 10.000 pedidos en 9 minutos.
+
+Existe además una versión EREV con 55,8 kWh, 430 km eléctricos y 1.704 km de autonomía combinada, cuyo lanzamiento europeo está previsto para 2026.
+
+En nuestra opinión, el G7 es hoy el XPeng más redondo: más grande, más barato y con mejor carga que el G6. Si llega a España con un precio agresivo, el Model Y tendrá un problema serio.`,
+  "xpeng-g9-awd-performance-2026": `El G9 AWD Performance es el escaparate de XPeng: 551 caballos entre sus dos ejes, 3,9 segundos hasta los 100 km/h y una batería NCM de 93,1 kWh con 520 kilómetros WLTP. La electrónica de 800 voltios traga hasta 300 kW —el restyling 2026 roza los 525 kW—, la suspensión de aire regulable filtra el asfalto y los 4.891 mm con 660 litros de bodega más 71 delanteros dibujan un gran rutero familiar. La tarifa española es de 73.990 euros.
+
+Dentro se entiende el precio: instrumentación doble de 15 pulgadas, 28 altavoces firmados por Dynaudio, butacas con masaje Shiatsu de diez puntos y techo de cristal, con cinco estrellas Euro NCAP.
+
+Comparado con el G9 de propulsión posterior, el Performance dobla la potencia y suma la neumática por unos 14.000 euros extra. A nuestro juicio apunta al cliente que miraba un Audi Q8 e-tron o un Mercedes EQE SUV y descubre que por menos de 75.000 euros hay un chino que les tose en equipamiento y los supera en velocidad de recarga.`,
+  "xpeng-l03-2026-precio-espana": `El L03 PowerX juega en una liga propia dentro de XPeng: es un SUV de autonomía extendida (EREV) de 4.650 mm que combina 242 CV de tracción trasera y un 0 a 100 km/h en 6,8 segundos con una batería LFP de 37,25 kWh para 215 km en modo eléctrico, más un extensor de gasolina 1.5 que estira la autonomía combinada hasta 1.017 km WLTP. La carga rápida de 123 kW recupera del 10 al 80 % en unos 20 minutos, una cifra excelente para un EREV. El diseño, obra del español JuanMa López —ex jefe de diseño de Ferrari—, logra un Cx de solo 0,228.
+
+Desde 37.500 euros con campañas, financiación y el adelanto del Plan Auto+, con etiqueta CERO.
+
+En nuestra opinión, el L03 es para quien quiere más de 1.000 km de autonomía real sin depender de la red de cargadores: eléctrico entre semana, rutero el fin de semana. Sus peros: 367 litros de maletero justos para su tamaño y una marca aún construyendo su red en España.`,
+  "xpeng-p5-2025-precio-ficha-tecnica": `El P5 es la berlina sensata de XPeng: 4.808 mm, tracción delantera, 211 CV y 310 Nm, con una batería de 71,4 kWh para 600 km de autonomía en ciclo CLTC y un 0 a 100 km/h en 7,5 segundos. El maletero de 450 litros y las cinco plazas lo hacen un familiar honesto, pero su fama viene de otro lado: fue el primer coche de producción del mundo con LiDAR de serie y el XPILOT 3.5, con funciones de conducción asistida en ciudad. En China se vende entre 156.900 y 202.900 yuanes, unos 19.000-24.000 euros.
+
+No se comercializa oficialmente en España.
+
+En nuestra opinión, el P5 es el XPeng más racional: berlina amplia, tecnología de conducción autónoma puntera y precio de generalista en su mercado. Si algún día llegara a Europa, sería el rival natural del Tesla Model 3 de acceso, aunque su enfoque confortable lo aleja de las pretensiones deportivas del P7.`,
+  "xpeng-p7-2025-nueva-generacion-precio-ficha-tecnica": `La segunda generación del P7 es un salto generacional en toda regla: la berlina fastback de 5.017 mm ofrece 367 CV en tracción trasera o 594 CV con doble motor y tracción total, con baterías de 74,9 o 92,2 kWh para autonomías de 702 a 820 km en ciclo CLTC. El 0 a 100 km/h cae a 5,8-5,4 segundos en las versiones RWD y a 3,7 segundos en el AWD, y la arquitectura de 800 V con carga 5C recupera 525 km en 10 minutos. El Cx de 0,201 es de los mejores del mercado.
+
+Presentado en Europa en el Salón de Múnich de 2025, su precio en España aún no se ha confirmado; en China parte de unos 31.599 dólares.
+
+En nuestra opinión, el nuevo P7 es el rival más serio que ha tenido el Tesla Model 3 Performance desde China: más autonomía, carga más rápida y un chasis con suspensión neumática. La incógnita es el precio europeo, que decidirá si es una alternativa real o un ejercicio tecnológico.`,
+  "xpeng-p7-plus-long-range-2026-precio-ficha-tecnica": `El P7+ Long Range es la versión viajera del fastback grande de XPeng: 5.056 mm, 313 CV de tracción trasera, batería LFP de 74,9 kWh para 685 km de autonomía en ciclo CLTC y un 0 a 100 km/h en 5,9 segundos, todo sobre arquitectura de 800 voltios. Su gran argumento familiar es el maletero: 725 litros, ampliables a 2.221 con los asientos abatidos, una cifra excepcional en una berlina eléctrica. El consumo de 12,7 kWh/100 km en ciclo CLTC habla de una eficiencia muy trabajada.
+
+El P7+ solo se vende en China, sin planes confirmados para Europa.
+
+En nuestra opinión, el Long Range es la versión con más sentido del P7+: la que convierte los 685 km CLTC y el maletero gigante en un rutero familiar de verdad. Frente al P7 de segunda generación, más prestacional y tecnológico, el P7+ apuesta por la eficiencia y el espacio a mejor precio.`,
+  "zeekr-001-2025-precio-ficha-tecnica": `El 001 aterriza en España con una paradoja bajo el brazo: aquí se vende la arquitectura original de 400 voltios —batería NCM de 100 kWh y 200 kW de carga máxima—, mientras en China el mismo modelo ya circula con 900 V y recargas de 10 minutos. La gama española se articula en tres acabados: el Long Range de propulsión posterior con 272 caballos y 620 kilómetros WLTP por 60.175 euros, y los Performance y Privilege de doble motor con 544 caballos, 3,8 segundos de 0 a 100 y precios desde 65.175 euros. La silueta familiar de portón trasero, de casi cinco metros, no tiene equivalente directo entre los eléctricos a la venta aquí.
+
+Zeekr, la marca premium de Geely, prevé 16 concesionarios en España y 600 matriculaciones en 2026: el 001 es su carta de presentación.
+
+En nuestra opinión, quien elija el 001 lo hará por estética y por esos 620 kilómetros WLTP del Long Range, no por la velocidad de carga, donde el 7GT de la propia casa lo duplica por 14.000 euros menos. Como gran turismo eléctrico con carácter, a 60.175 euros, la propuesta se sostiene; como escaparate tecnológico, llega una generación tarde.`,
+  "zeekr-001-2026-precio-ficha-tecnica": `El 001 2026 chino muestra el ritmo al que evoluciona la industria china: salta a una arquitectura de 900 voltios, con una versión de tracción trasera de 489 CV y batería de 103 kWh que homologa 810 km en ciclo CLTC y recupera del 10 al 80 % en 10 minutos, y una variante AWD de 912 CV que baja de 0 a 100 km/h en 2,83 segundos con 280 km/h de punta. El diseño se mantiene, con más opciones de personalización.
+
+Esta versión no se vende en España, donde Zeekr mantiene el 001 de 400 V.
+
+En nuestra opinión, el 001 2026 es más una declaración tecnológica que un coche para Europa: pasar de 400 a 900 V en dos generaciones deja en evidencia a premium europeos que aún discuten los 800 V. Para el comprador español, la disyuntiva es real: esperar a una hipotética llegada o aprovechar el 400 V actual, más barato y disponible ya.`,
 };
