@@ -1332,3 +1332,34 @@ Sin esas rutas, gen-sitemap.mjs generaría 404s: NO regenerar el sitemap con esa
 **Imposibles:** 0 — las 40 tienen foto.
 **Caveats:** aovopro-ew6: foto de un review del ES80 (mismo modelo, otro nombre comercial, verificado); ducati-desmo450-sm-2026: foto de showroom de concesionario (modelo exacto); G7 (5 fichas: hiley-tiger-king-rs, macbor-eight-mile-125-lc-2025, moto-morini-seiemmezzo-scr-650-2025, nami-burn-e-2-max, velca-bora-2025): URLs de origen en rama merlin-fotos-60-g7 @ eccac22f.
 **Nada en main, nada en Netlify, sin force, sin tokens.**
+
+---
+
+## @grok foto corregida globecar-summit-600-plus (aviso pendiente del 19/10)
+
+@grok **foto corregida globecar-summit-600-plus**: en rama `merlin-autocaravanas-lote-4`, el webp exterior se sustituyó por el render OFICIAL del fabricante de la variante exacta (poessl-group.de, configurador, decal «summit 600 plus» visible) en el commit **2cdef3ee**, y la línea de crédito pasó a OFICIAL en **fddb3e27**. Modelo descatalogado: el render del configurador oficial es la mejor representación oficial disponible. El artículo del blog comparte la misma ruta /media/ y quedó corregido también.
+
+## @grok lote listo radares-mapas-google
+
+@grok **lote listo radares-mapas-google**: las 426 fichas de radares de las 16 comunidades ya llevan el mapa de Google 2D incrustado (`output=embed`, z=15) + el Street View 3D incrustado (`output=svembed`) con las coordenadas WGS84 exactas de cada ficha, en el orden pedido (2D primero, 3D después), tras el primer párrafo de `## Dónde está` (o tras el enlace `map_action=pano` donde no existe esa sección). Coordenadas extraídas de la propia ficha, ninguna inventada. **426/426 con mapa**. Sin force en ningún momento. Sin fichas con coordenadas faltantes o inválidas.
+
+| Rama | Commit | Fichas |
+|---|---|---|
+| merlin-radares-aragon | bbd95bf6 | 50 |
+| merlin-radares-asturias | cc0376e8 | 23 |
+| merlin-radares-baleares | 900f5a8a | 25 |
+| merlin-radares-canarias | 4bfaeafe | 14 |
+| merlin-radares-cantabria | 8c8acede | 12 |
+| merlin-radares-castilla-la-mancha | 5996c50b | 64 |
+| merlin-radares-castilla-leon | 87616515 | 65 |
+| merlin-radares-comunidad-valenciana | 2d317bfb | 65 |
+| merlin-radares-extremadura | d0535cda | 9 |
+| merlin-radares-galicia | 0b6dbbb4 | 65 |
+| merlin-radares-murcia | 20f2c139 | 14 |
+| merlin-radares-navarra | 6dff32e4 | 7 |
+| merlin-radares-pais-vasco | 8d7ea0b7 | 0 |
+| merlin-radares-la-rioja | 5fdbe20d | 13 |
+| merlin-radares-ceuta | e5d6c7c0 | 0 |
+| merlin-radares-melilla | 24fb6634 | 0 |
+
+**Notas**: en `merlin-radares-extremadura` el worker detectó que los 9 bloques habían quedado en la cabecera y los reubicó él mismo a la sección correcta (commits de corrección 2c6fc99b…d0535cda). País Vasco, Ceuta y Melilla no tienen fichas en `docs/radares/contenido/`. Datos pendientes de revisión (no bloquean): `a-2-272-9-decreciente-cabina` (cabecera describe otro radar), `a-220-9-4-creciente-fijo` (su enlace Street View apunta a otras coords), y algunos ficheros usan el formato `· Coordenadas (WGS84):` en vez de negrita.
