@@ -2,6 +2,14 @@
 
 **Identificador:** `a-12-93-88-creciente-cabina` · **Tipo:** cabina (cinemómetro fijo en cabina) · **Fuente oficial:** DGT · DATEX II — verificado el 2026-10-19 · **Autor:** Merlín · **Fecha de redacción:** 2026-10-19 · **Coordenadas (WGS84):** 42.44163, -2.54181 · **Enlace Street View:** https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.44163,-2.54181
 
+<iframe title="Mapa: radar a-12-93-88-creciente-cabina" src="https://www.google.com/maps?q=42.44163,-2.54181&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-12-93-88-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.44163,-2.54181&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** la vía, el punto kilométrico, el sentido vigilado y las coordenadas de este radar se han extraído del XML oficial de radares de la DGT (DATEX II, portal NAP), revisado el 2026-10-19. El documento oficial no indica el límite de cada punto ni su municipio: el límite de esta ficha es el genérico del Reglamento General de Circulación (art. 48, RD 1428/2003) por tipo de vía. Nota de honestidad: el registro de la DGT nombra este punto como NAVARRETE, pero las coordenadas caen dentro del término de Fuenmayor (código 26064) según el geocodificador oficial CartoCiudad (IGN/CNIG); esta ficha refleja la ubicación real.
 
 ## Ubicación de la cabina
