@@ -90,7 +90,7 @@ Para quién es: encaja con quienes se inician en el caravaning y quieren una cam
       { src: "/media/etrusco-van-5-9-db-2026-precio-ficha-tecnica-oficial.webp", alt: "Etrusco V 5.9 DB, vista exterior", ancho: 1200, alto: 800 },
       { src: "/media/etrusco-van-5-9-db-2026-precio-ficha-tecnica-interior1.webp", alt: "Etrusco V 5.9 DB, salón interior", ancho: 1200, alto: 800 },
       { src: "/media/etrusco-van-5-9-db-2026-precio-ficha-tecnica-interior2.webp", alt: "Etrusco V 5.9 DB, cocina y cama", ancho: 1200, alto: 800 },
-      { src: "/media/etrusco-van-5-9-db-2026-precio-ficha-tecnica-detalle.webp", alt: "Etrusco V 5.9 DB, detalle de cocina", ancho: 1200, alto: 800 },
+      { src: "/media/etrusco-van-5-9-db-2026-precio-ficha-tecnica-detalle.webp", alt: "Etrusco V 5.9 DB, detalle de cocina", ancho: 640, alto: 800 },
     ],
     analisisSlug: "etrusco-van-5-9-db-2026-analisis-opinion",
     planMantenimiento: {
