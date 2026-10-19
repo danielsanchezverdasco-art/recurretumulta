@@ -12,6 +12,14 @@
 
 Hablamos del **pk 326,4 de la A-7**, en la provincia de Valencia. Controla el **sentido creciente** de la marcha, el de los hitos kilométricos crecientes. Geocodificación oficial del Instituto Geográfico Nacional: el radar está en **Paterna**, provincia de Valencia. A 2,3 km hacia el este está el control más próximo, el de la **CV-35, pk 7,6** (sentido creciente).
 
+<iframe title="Mapa: radar a-7-326-4-creciente-cabina" src="https://www.google.com/maps?q=39.52511,-0.47042&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-7-326-4-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.52511,-0.47042&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La A-7 —la Autovía del Mediterráneo, el gran corredor del litoral— es uno de los ejes principales de la red estatal. Por este punto pasan tanto vehículos de paso como tráfico local de la comarca. El paisaje circundante es el de las comarcas centrales valencianas.
