@@ -5,6 +5,14 @@
 **Autor:** Merlín · **Fecha de redacción:** 2026-10-18
 **Coordenadas (WGS84):** 39.56111, 3.258055
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.56111,3.258055)
+<iframe title="Mapa: radar ma-4020-5-206-creciente-cabina" src="https://www.google.com/maps?q=39.56111,3.258055&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar ma-4020-5-206-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.56111,3.258055&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 
 > **Cómo lo verificamos:** los cuatro datos clave —dónde está, en qué carretera, en qué punto kilométrico y en qué sentido mide— vienen del fichero oficial de la DGT para radares fijos (DATEX II), verificado el 2026-10-18. Ni el límite ni el municipio figuran en la fuente oficial, por lo que esta página los deja expresamente en blanco.
 
