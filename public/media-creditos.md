@@ -2990,3 +2990,24 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/yamaha-mt-10-2025-ficha-tecnica-precio-hunt1.webp | https://images.squarespace-cdn.com/content/v1/63e07fb94b92520cb2cf1826/f7ac247a-cad4-4efc-b1a8-f7b9d2250d1c/2025_MT10_MLNM4_AUS_STU_003.jpg?format=750w | Yamaha Motor (foto de prensa) | desconocida |
 | /media/yamaha-mt-10-2025-ficha-tecnica-precio-hunt2.webp | https://www.yamaha-motor.co.jp/mc/lineup/mt-10/img/mt-10_index_gallery_2025_006.jpg | Yamaha Motor Co., Ltd. (foto oficial) | desconocida |
 | /media/yamaha-mt-10-2025-ficha-tecnica-precio-hunt3.webp | https://ridermagazine.com/wp-content/uploads/2024/11/2025-Yamaha-MT-10-SP-1.jpg | Rider Magazine | desconocida |
+| /media/dualtron-mini-special-hunt1.webp | https://www.voltride.sk/sk/elektricke-kolobezky/dualtron-mini-special-long-body-dual-motor | Voltride | desconocida |
+| /media/dualtron-mini-special-hunt2.webp | https://www.maxblinker.fr/fr/trottinettes-electriques/dualtron-mini-special-long-body-dual-motor | MaxBlinker | desconocida |
+| /media/dualtron-mini-special-hunt3.webp | http://liftyelectric.com/ | Lifty Electric | desconocida |
+| /media/roewe-i6-2026-precio-ficha-tecnica-hunt1.webp | https://www.roewe.com.cn/vehicles/i6/ | Roewe oficial | desconocida |
+| /media/roewe-i6-2026-precio-ficha-tecnica-hunt2.webp | https://www.planetcarsz.com/carros/roewe-i6-2026 | PlanetCarsZ | desconocida |
+| /media/roewe-i6-2026-precio-ficha-tecnica-hunt3.webp | https://www.planetcarsz.com/carros/roewe-i6-2026 | PlanetCarsZ | desconocida |
+| /media/yamaha-yzf-r7-2025-ficha-tecnica-precio-hunt1.webp | https://yamahamotorsports.com/models/25-yzf-r7/specs | Yamaha Motorsports USA | desconocida |
+| /media/yamaha-yzf-r7-2025-ficha-tecnica-precio-hunt2.webp | https://yamaha.co.za/ | Yamaha Sudafrica | desconocida |
+| /media/yamaha-yzf-r7-2025-ficha-tecnica-precio-hunt3.webp | https://yamahamotorsports.com/models/25-yzf-r7/gallery | Yamaha Motorsports USA | desconocida |
+| /media/arcfox-alfa-s5-2024-precio-ficha-tecnica-hunt1.webp | https://ar.semautomobile.com/new-energy-vehicles/baic-new-energy-vehicles/arcfox-alpha-s5-electric-sedan.html | Semautomobile | desconocida |
+| /media/arcfox-alfa-s5-2024-precio-ficha-tecnica-hunt2.webp | https://www.bitauto.com/news/100095657283.html | BitAuto | desconocida |
+| /media/arcfox-alfa-s5-2024-precio-ficha-tecnica-hunt3.webp | https://aicarglobal.com/product/arcfox-alpha-s5%ce%b1s5/ | AiCarGlobal | desconocida |
+| /media/dualtron-mini-special-dual-hunt1.webp | https://www.voltride.sk/sk/elektricke-kolobezky/dualtron-mini-special-long-body-dual-motor | voltride.sk | desconocida |
+| /media/dualtron-mini-special-dual-hunt2.webp | http://trotinetesportugal.com/product/dualtron-mini-special-long-body-dual-motor/ | trotinetesportugal.com | desconocida |
+| /media/dualtron-mini-special-dual-hunt3.webp | https://www.maxblinker.fr/fr/trottinettes-electriques/dualtron-mini-special-long-body-dual-motor | maxblinker.fr | desconocida |
+| /media/levc-tx-shuttle-2024-precio-ficha-tecnica-hunt1.webp | https://www.greengear.de/thema/7-sitzer/ | GreenGear.de | desconocida |
+| /media/levc-tx-shuttle-2024-precio-ficha-tecnica-hunt2.webp | https://www.autocar.co.uk/car-review/levc/tx | Autocar UK | desconocida |
+| /media/levc-tx-shuttle-2024-precio-ficha-tecnica-hunt3.webp | https://www.autocar.co.uk/car-review/levc/tx | Autocar UK | desconocida |
+| /media/yamaha-tenere-700-2025-ficha-tecnica-precio-hunt1.webp | https://yamahamotorsports.com/models.php?product=344&action=productPage | Yamaha Motor / yamahamotorsports.com | desconocida |
+| /media/yamaha-tenere-700-2025-ficha-tecnica-precio-hunt2.webp | https://www.biketraveladventures.com/2025-yamaha-tenere-700-tenere-700-rally/ | biketraveladventures.com | desconocida |
+| /media/yamaha-tenere-700-2025-ficha-tecnica-precio-hunt3.webp | https://revistamoto.com/wp_rm/2025/02/yamaha-presenta-la-renovada-tenere-700-con-mas-electronica-y-nuevo-diseno/ | revistamoto.com | desconocida |
