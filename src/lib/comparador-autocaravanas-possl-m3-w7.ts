@@ -81,7 +81,7 @@ export const AUTOCARAVANAS_POSSL_M3: Autocaravana[] = [
     ],
     opiniones: [],
     galeria: [
-      { src: "/media/possl-summit-540-2026-precio-ficha-tecnica-oficial.webp", alt: "Pössl Summit 540, vista exterior", ancho: 1500, alto: 985 },
+      { src: "/media/possl-summit-540-2026-precio-ficha-tecnica-oficial.webp", alt: "Pössl Summit 540, vista exterior", ancho: 1000, alto: 667 },
       { src: "/media/possl-summit-540-2026-precio-ficha-tecnica-interior1.webp", alt: "Pössl Summit 540, cocina", ancho: 728, alto: 548 },
       { src: "/media/possl-summit-540-2026-precio-ficha-tecnica-interior2.webp", alt: "Pössl Summit 540, interior", ancho: 728, alto: 548 },
       { src: "/media/possl-summit-540-2026-precio-ficha-tecnica-detalle.webp", alt: "Pössl Summit 540, detalle exterior", ancho: 540, alto: 291 },
@@ -166,10 +166,10 @@ export const AUTOCARAVANAS_POSSL_M3: Autocaravana[] = [
     ],
     opiniones: [],
     galeria: [
-      { src: "/media/possl-trenta-600-r-2026-precio-ficha-tecnica-oficial.webp", alt: "Pössl Trenta 600 R, vista exterior", ancho: 1600, alto: 1200 },
+      { src: "/media/possl-trenta-600-r-2026-precio-ficha-tecnica-oficial.webp", alt: "Pössl Trenta 600 R, vista exterior", ancho: 2073, alto: 1382 },
       { src: "/media/possl-trenta-600-r-2026-precio-ficha-tecnica-interior1.webp", alt: "Pössl Trenta 600 R, dormitorio", ancho: 1200, alto: 800 },
-      { src: "/media/possl-trenta-600-r-2026-precio-ficha-tecnica-interior2.webp", alt: "Pössl Trenta 600 R, cocina y salón", ancho: 1536, alto: 1152 },
-      { src: "/media/possl-trenta-600-r-2026-precio-ficha-tecnica-detalle.webp", alt: "Pössl Trenta 600 R, detalle trasero", ancho: 1500, alto: 1125 },
+      { src: "/media/possl-trenta-600-r-2026-precio-ficha-tecnica-interior2.webp", alt: "Pössl Trenta 600 R, cama trasera", ancho: 2073, alto: 1382 },
+      { src: "/media/possl-trenta-600-r-2026-precio-ficha-tecnica-detalle.webp", alt: "Pössl Trenta 600 R, cuarto de baño", ancho: 1382, alto: 2073 },
     ],
     analisisSlug: "possl-trenta-600-r-2026-analisis-opinion",
     planMantenimiento: {
