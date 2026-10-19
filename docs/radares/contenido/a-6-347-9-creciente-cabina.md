@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 42.5798, -6.2152
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.5798,-6.2152)
 
+<iframe title="Mapa: radar a-6-347-9-creciente-cabina" src="https://www.google.com/maps?q=42.5798,-6.2152&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-6-347-9-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.5798,-6.2152&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** Vía, pk, sentido y coordenadas están tomados del XML oficial de radares de la DGT (DATEX II, portal NAP). Ni el límite de cada punto ni el municipio aparecen en el dataset: la ficha usa el genérico del art. 48 del RGC para autovías y localiza el punto en Villagatón (León) con CartoCiudad (IGN/CNIG).
 
 ## El punto
