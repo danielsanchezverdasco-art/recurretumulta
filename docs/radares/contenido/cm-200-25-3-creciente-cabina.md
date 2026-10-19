@@ -12,6 +12,15 @@
 
 La cabina está instalada en la **CM-200, punto kilométrico 25,3**, dentro de la provincia de Cuenca. Actúa sobre el **sentido creciente** de la vía, esto es, el de los puntos kilométricos crecientes. Cuenca es la provincia que figura en el fichero de la DGT para este punto; el término municipal concreto no se difunde. El punto vigilado más cercano es el de la **A-3, pk 78,4** (sentido decreciente): queda a 11,9 km hacia el norte. El siguiente punto por cercanía es el de la **N-301, pk 83,4** (sentido decreciente), a 24,7 km hacia el oeste. El paisaje circundante es el de la meseta sur: llano, abierto y con largas rectas que invitan a acelerar.
 
+<iframe title="Mapa: radar cm-200-25-3-creciente-cabina" src="https://www.google.com/maps?q=39.91663,-3.01773&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cm-200-25-3-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.91663,-3.01773&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La CM-200 es una vía regional castellanomanchega que atraviesa Cuenca. Esta carretera autonómica da servicio tanto a quien cruza la región como a quien se mueve entre pueblos próximos. La vigilancia permanente en este sector busca contener los excesos en un tramo que invita a correr. La CM-200 cuenta con un único punto de control publicado en la comunidad: este. La CM-200 cuenta con un único punto de control publicado en la comunidad: este. Como en toda la red, el respeto a la señalización es aquí la mejor garantía. Cada tipo de vía tiene su lógica; la de esta pasa por adaptar la velocidad a su trazado y a su tráfico.
