@@ -12,6 +12,14 @@
 
 La cabina está en la FE-14, pk 4,2, en Fene (A Coruña), coordenadas 43.475742, -8.17314. Vigila el sentido creciente —vehículos hacia pks mayores—, con destino Fene según el registro oficial. El enlace de Street View muestra el emplazamiento en este tramo urbano.
 
+<iframe title="Mapa: radar fe-14-4-2-creciente-cabina" src="https://www.google.com/maps?q=43.475742,-8.17314&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar fe-14-4-2-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=43.475742,-8.17314&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La FE-14 es el acceso sur a Ferrol, una vía de titularidad estatal. La DGT registra este punto con la singularidad «TRAVESIA»: un tramo de carácter urbano. El XML no detalla más el punto, así que esta ficha no añade otras características.
