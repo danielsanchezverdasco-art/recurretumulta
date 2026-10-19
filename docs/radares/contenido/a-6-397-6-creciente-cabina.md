@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 42.57533, -6.71141
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.57533,-6.71141)
 
+<iframe title="Mapa: radar a-6-397-6-creciente-cabina" src="https://www.google.com/maps?q=42.57533,-6.71141&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-6-397-6-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.57533,-6.71141&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** Vía, pk, sentido y tipo de equipo vienen del XML oficial de la DGT (DATEX II, portal NAP). El dataset guarda silencio sobre el límite de cada punto y su municipio. El límite de 120 km/h es el genérico del RGC (art. 48) para turismos y motos en autovías; Carracedelo (León) lo identifica el geocodificador oficial CartoCiudad del IGN.
 
 ## El punto exacto
