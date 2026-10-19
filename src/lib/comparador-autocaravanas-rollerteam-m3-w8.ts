@@ -44,17 +44,17 @@ export const AUTOCARAVANAS_ROLLERTEAM_M3: Autocaravana[] = [
     pesoKg: 2935, // MiRO con cambio manual; 2.992 kg con automático (tabla oficial UK)
     mmaKg: 3500,
     carnetNecesario: "B",
-    cargaUtilKg: null, // la marca no la publica; prohibido calcularla
+    cargaUtilKg: 565, // payload oficial 2026 UK: 565 kg (508 kg con cambio automático), tabla oficial Roller Team UK vía findmyleisurevehicle.co.uk
     consumo: null,
     consumoUnidad: null,
     plazas: 6, // 6 cinturones (oficial UK)
-    plazasDormir: 6, // capuchina + literas + dinette (oficial UK)
+    plazasDormir: 8, // 8 berths: tabla oficial de especificaciones 2026 de Roller Team UK (vía findmyleisurevehicle.co.uk, PDF del expositor oficial)
     parNm: null,
     traccion: null, // no declarada por la marca en la documentación consultada
     emisionesCo2: null,
     aprox: [],
     notas:
-      "Medidas 6,99 x 2,35 x 3,20 m, MiRO 2.935 kg (manual) / 2.992 kg (automático), MTPLM 3.500 kg, 6 plazas y 6 camas: tabla oficial de especificaciones 2026 de rollerteammotorhomes.co.uk (reproducida por findmyleisurevehicle.co.uk). Motor Ford Transit 2.0 EcoBlue de 130 CV, con 165 CV opcional (misma fuente). Camas: capuchina de 209x160 cm, literas traseras de 215x128 y 210x110 cm, dinette convertible de 125x186 cm (tabla oficial vía camplify.co.uk). Frigorífico de 140 l (caravanclub.co.uk, datos del fabricante para los Design Awards). Agua limpia 100 l / residuales 120 l (tabla oficial vía camplify.co.uk). Calefacción Truma Combi 6 de gas+eléctrica, 6 kW (mckinneycompetitions.com, equipamiento de serie). Precio: en UK desde £64.995 (caravanclub.co.uk) / £65.050 (findmyleisurevehicle.co.uk); sin tarifa oficial para España, precioDesde en null. En null: cargaUtilKg (no publicada; prohibido calcularla), consumo, par, tracción.",
+      "Medidas 6,99 x 2,35 x 3,20 m, MiRO 2.935 kg (manual) / 2.992 kg (automático), MTPLM 3.500 kg, payload oficial 565 kg (508 kg con automático), 6 plazas y 8 camas: tabla oficial de especificaciones 2026 de Roller Team UK (PDF del expositor oficial, reproducido por findmyleisurevehicle.co.uk). Tipos de cama oficiales: Make Up Beds, Fixed Bed, Fixed Bunks y Transverse Bed. Motor Ford Transit 2.0 EcoBlue de 130 CV, con 165 CV opcional (misma fuente). Camas: capuchina de 209x160 cm, literas traseras de 215x128 y 210x110 cm, dinette convertible de 125x186 cm (tabla oficial vía camplify.co.uk). Frigorífico de 140 l (caravanclub.co.uk, datos del fabricante para los Design Awards). Agua limpia 100 l / residuales 120 l (tabla oficial vía camplify.co.uk). Calefacción Truma Combi 6 de gas+eléctrica, 6 kW (mckinneycompetitions.com, equipamiento de serie). Precio: en UK desde £64.995 (caravanclub.co.uk) / £65.050 (findmyleisurevehicle.co.uk); sin tarifa oficial para España, precioDesde en null. En null: cargaUtilKg (no publicada; prohibido calcularla), consumo, par, tracción.",
     curiosidades:
       "El garaje trasero del Zefiro 675 esconde una ducha exterior: una toma con alcachofa dentro del propio garaje, pensada para aclarar bicicletas, botas de barro, tablas o al perro antes de entrar en la célula. Fuente: https://mckinneycompetitions.com/competition/rollerteam-zefiro-675-or-45-000 (lista de equipamiento del modelo)",
     descripcion: `El Roller Team Zefiro 675 es la capuchina familiar por excelencia de la gama británica de Roller Team: seis plazas de viaje, seis camas reales y un planteamiento que prima el espacio para dormir sin renunciar a un salón donde quepa toda la familia. Con 6,99 metros de largo, 2,35 de ancho y 3,20 de alto, no es una autocaravana discreta, pero es exactamente lo que buscan las familias numerosas o los grupos que viajan con niños y necesitan que cada uno tenga su cama sin montar y desmontar el salón cada noche. La marca italiana, integrada en el grupo Trigano, diseña esta gama sobre base Ford Transit específicamente para el mercado británico, donde las capuchinas siguen teniendo una legión de seguidores.
@@ -71,7 +71,7 @@ Cómo lo verificamos: las medidas, pesos, plazas, camas y motorización proceden
 
 Para quién es: para familias de cuatro a seis miembros que necesitan seis camas reales sin montajes diarios, que viajan con mucho material y valoran el garaje grande con su ducha exterior, y que no se asustan ante 6,99 metros de capuchina. Para quién no es: para parejas que viajan solas (es mucho vehículo para dos), para quien busque discreción o bajo consumo —una capuchina de 3,20 m de alto no es aerodinámica— ni para quien quiera comprar nuevo en un concesionario español, porque esta gama no se comercializa oficialmente en España.`,
     pros: [
-      "6 camas reales sin montar el salón: capuchina de 209x160 cm + literas fijas + dinette convertible",
+      "8 camas según la tabla oficial 2026: capuchina de 209x160 cm + literas fijas + camas convertibles del salón",
       "Literas traseras fijas sobre garaje con dos portones: los niños tienen su zona y el material su sitio",
       "Ducha exterior dentro del garaje: para aclarar bicis, botas o mascotas antes de entrar",
       "Ford Transit 2.0 EcoBlue de 130 CV (165 opcional): mecánica probada con servicio en toda Europa",
@@ -216,15 +216,15 @@ Para quién es: para familias de cuatro o cinco que quieren una perfilada compac
       },
       {
         src: "/media/roller-team-kronos-294-tl-2026-precio-ficha-tecnica-interior2.webp",
-        alt: "Roller Team Kronos 294 TL, cama doble transversal trasera",
-        ancho: 1024,
-        alto: 768,
+        alt: "Roller Team Kronos 294 TL, cama doble transversal trasera (foto oficial Roller Team)",
+        ancho: 1600,
+        alto: 1067,
       },
       {
         src: "/media/roller-team-kronos-294-tl-2026-precio-ficha-tecnica-detalle.webp",
-        alt: "Roller Team Kronos 294 TL, trasera con portabicicletas",
-        ancho: 627,
-        alto: 485,
+        alt: "Roller Team Kronos 294 TL, garaje trasero (foto oficial Roller Team)",
+        ancho: 1025,
+        alto: 1536,
       },
     ],
     analisisSlug: "roller-team-kronos-294-tl-2026-analisis-opinion",
