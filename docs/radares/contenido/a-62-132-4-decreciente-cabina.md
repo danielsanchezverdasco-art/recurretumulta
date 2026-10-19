@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 41.6058, -4.8084
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=41.6058,-4.8084)
 
+<iframe title="Mapa: radar a-62-132-4-decreciente-cabina" src="https://www.google.com/maps?q=41.6058,-4.8084&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-62-132-4-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=41.6058,-4.8084&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** Esta ficha se elaboró con el XML oficial de radares de la DGT (DATEX II, portal NAP), verificado el 2026-10-19, que aporta vía, pk, sentido, destino y coordenadas. Ni el límite ni el municipio figuran en el dataset: el límite es el genérico del RGC art. 48 para la clase de vía del registro, y Simancas (47161) se asignó con CartoCiudad (IGN/CNIG).
 
 ## Primero, el límite
