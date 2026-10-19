@@ -12,6 +12,15 @@
 
 El cinemómetro está instalado en la **S-10, punto kilométrico 3,4**, en Cantabria, controlando el **sentido creciente**, identificado por la DGT en dirección **San Salvador de las Heras**. El punto se encuentra en el entorno de Maliaño, en el área metropolitana de la bahía de Santander, en una vía que funciona como distribuidor entre la A-67, el aeropuerto y la zona portuaria. Es tráfico eminentemente urbano y metropolitano, con puntas muy marcadas a primera hora de la mañana y a última de la tarde.
 
+<iframe title="Mapa: radar s-10-3-4-creciente-fijo" src="https://www.google.com/maps?q=43.4242,-3.835&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar s-10-3-4-creciente-fijo" src="https://maps.google.com/maps?q=&layer=c&cbll=43.4242,-3.835&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La S-10 es una autovía corta de carácter distribuidor: conecta los grandes ejes con los accesos a Santander y soporta un tráfico intenso de corta distancia —trabajadores, reparto, accesos al aeropuerto y al puerto—. En este tipo de vías la velocidad media real suele estar por debajo de la de una autovía interurbana por la proximidad de los enlaces, pero la tentación de acelerar en los tramos despejados entre nudos es constante. Los cambios de carril son la maniobra más frecuente y la que más conflictos genera.
