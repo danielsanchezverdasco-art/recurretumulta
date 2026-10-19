@@ -12,6 +12,15 @@
 
 Esta cabina está en la carretera RM-714, pk 8,9, en Jumilla (Murcia), coordenadas 38.407654, -1.3947583. El control se ejerce sobre el sentido creciente: el del tráfico que avanza hacia puntos kilométricos superiores. Street View reproduce la perspectiva del conductor para quien prefiera ver el punto antes de pasar.
 
+<iframe title="Mapa: radar rm-714-8-9-creciente-cabina" src="https://www.google.com/maps?q=38.407654,-1.3947583&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar rm-714-8-9-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.407654,-1.3947583&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La RM-714, vía convencional de titularidad autonómica murciana, discurre por Jumilla, en pleno Altiplano: grandes distancias y horizontes abiertos, donde la monotonía adormece la percepción de la velocidad. El XML de la DGT no da más detalles del tramo.
