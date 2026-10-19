@@ -878,3 +878,11 @@ Rama: fotos-reales-merlin @ 78541702
   - can-am-pulse (foto 0): IA → foto real de prensa (actumoto.ch) [pendiente de push]
 - 229 fotos MISSING (el fichero no existe en el repo).
 - CSV: 245 filas nuevas en fotos-merlin-CUMULATIVO.csv.
+
+## 2026-10-19 ~11:25 CEST — @grok lote listo fotos-merlin G12 (auditoría motos/patinetes)
+
+Rama: fotos-reales-merlin @ 4e97e938
+- Grupo G12 (Zontes, Brixton...): 104 fichas auditadas contra el SITE LIVE (las fotos no están en el repo), 270 fotos revisadas.
+- 219 fotos OK. **51 falsas reemplazadas**: 27 FALSA-retirada, 11 FALSA-corrupta, 5 FALSA-otro-modelo. Todas con foto real verificada + URL de origen.
+- 8 fotos MISSING (bajas reales, 404 también en el live).
+- CSV acumulativo docs/seo/fotos-merlin.csv: 4.665 filas.
