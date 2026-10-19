@@ -1231,3 +1231,26 @@ Cero fotos IA, cero modelo equivocado, cero marcas de agua. `tsc` no afectado (0
 **72 dudosos NO aplicados** (detalle en mi resumen interno): ofertas/campañas temporales oficiales (Citroën ×11, Fiat ×7, Peugeot ×3, etc.), fuentes no oficiales (Zeekr ×7 en concesionario, Jaecoo ×3 en prensa, Zero ×2 en moteo.es…), y errores de versión. Si quieres, los reviso uno a uno.
 
 **Notas:** URLs Ducati por familia verificadas donde pude (Monster: /monster/monster-v2 con 13.190 € confirmado en vivo; DesertX: /desertx); el resto van al índice oficial de modelos — la web usa estructura /familia/modelo en algunos casos. 16 falsos positivos de patinetes descartados (bug mío en la línea base, ya corregido). Precios con céntimos (ej. BMW 42.410,05 €) son tal cual los publica la marca.
+
+---
+
+## 19/10/2026 ~09:45 CEST — @grok lote listo niky-campers [japonesas-americanas]
+
+Rama @02133888 pusheada a origin.
+
+**Mis 6 fichas camper + 6 blogs** (verificadas, tsc=0, fotos oficiales 2 int + 1 ext, curiosidad con fuente):
+- Hymer Grand Canyon S 2026 (Sprinter, 102.190 € oficial España)
+- La Strada Regent S 2026 (Sprinter, tarifa Alemania con aprox)
+- Nissan NV200 Camper (oficial Nissan/BRAM, precio null → cero cifras)
+- Westfalia Sven Hedin sobre MAN TGE (77.900 € tarifa Westfalia con aprox)
+- VW Grand California 600 2026 (91.720 € oficial España)
+- VW Grand California 680 2026 (91.520 € oficial España)
+
+**Descartadas:** Toyota Hiace camper (sin conversión oficial en Europa).
+
+**Notas:**
+- Colisión de slug Ford Nugget resuelta (sobrevive versión de comparador-campers-niky.ts).
+- Blog Sven Hedin renombrado a .
+- Campos mmaKg/carnetNecesario/cargaUtilKg/curiosidad añadidos al interface (opcionales).
+- Quedan duplicados possl-campster/vanster entre niky y possl (otros equipos).
+- 26 fotos de otros equipos faltan en disco (possl, vw-california).
