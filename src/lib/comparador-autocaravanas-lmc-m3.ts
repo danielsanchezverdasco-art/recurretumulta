@@ -63,117 +63,57 @@ export const AUTOCARAVANAS_LMC_M3: Autocaravana[] = [
     emisionesCo2: null,
     aprox: [],
     notas:
-      "Datos de la prueba en profundidad del LMC Tourer Lift Ford H 664 G publicada en " +
-      "camperstyle.de (Stefan Blanz, 2024, con vehículo cedido por LMC) y de la ficha de " +
-      "la serie Tourer Lift Ford en alpacacamping.de, contrastados con anuncios de unidades " +
-      "del modelo exacto en truckscout24 y camprest.com. Medidas: 706/232/283 cm, altura " +
-      "interior 198 cm, distancia entre ejes 395,4 cm; 4 plazas; MMA 3.500 kg; base Ford " +
-      "Transit 2.0 EcoBlue de 130 CV de serie (170 CV con cambio manual o automático " +
-      "opcionales); camas: abatible delantera 213x110-55, individuales centrales 200x88 y " +
-      "traseras 185x88/200x88 según configuración; agua 100 l; grises 90 l; batería 95 Ah; " +
-      "calefacción Truma Combi de gas. En null: precioDesde (LMC no publica PVP para España; " +
-      "la prensa alemana cita 83.500 € de partida en Alemania), cargaUtilKg, par, tracción " +
-      "y emisiones (la marca no los publica). La masa en orden de marcha difiere según " +
-      "fuente: 3.035 kg (camperstyle) frente a 3.048 kg (alpacacamping). Fotos: prueba de " +
-      "prensa de camperstyle.de sobre la unidad exacta (no oficiales de fábrica), sin " +
-      "marcas de agua ni concesionario.",
+      "Fuentes empleadas: análisis a fondo del LMC Tourer Lift Ford H 664 G en " +
+      "camperstyle.de (Stefan Blanz, 2024, con la autocaravana cedida por la propia LMC), " +
+      "página de la gama Tourer Lift Ford en alpacacamping.de y anuncios de ejemplares " +
+      "idénticos al modelo en truckscout24 y camprest.com. Dimensiones 706/232/283 cm, " +
+      "198 cm de altura interior, 395,4 cm de batalla, 4 plazas y MMA de 3.500 kg; " +
+      "motorización Ford Transit 2.0 EcoBlue de 130 CV de serie con el 170 CV opcional " +
+      "(manual o automático); camas: abatible delantera de 213x110-55, individuales " +
+      "centrales de 200x88 y traseras de 185x88/200x88 según la configuración; depósitos " +
+      "de 100 l de agua y 90 l de grises, batería de 95 Ah y calefacción Truma Combi de " +
+      "gas. Quedan en null precioDesde (la marca no publica PVP para España; la prensa " +
+      "alemana habla de 83.500 € de base en Alemania), cargaUtilKg, par, tracción y " +
+      "emisiones. La masa en orden de marcha varía entre fuentes: 3.035 kg según " +
+      "camperstyle y 3.048 kg según alpacacamping. Imágenes de la prueba de prensa de " +
+      "camperstyle.de con la unidad exacta (no son fotos oficiales de fábrica), sin " +
+      "marcas de agua ni imágenes de concesionario.",
     curiosidades:
-      "El «Lift» del nombre es literal: el Tourer Lift H 664 G lleva una cama abatible " +
-      "eléctrica sobre el salón que baja con solo pulsar un botón. LMC presentó esta " +
-      "versión sobre Ford Transit en el Caravan Salon de Düsseldorf como «First Edition» " +
-      "del año de modelo 2024, con el Transit de 170 CV, cambio automático y un " +
-      "equipamiento de serie muy completo para su precio. Fuente: prueba «LMC Tourer Lift " +
-      "Ford H 664 G» en camperstyle.de " +
+      "El «Lift» de su denominación se toma al pie de la letra: una cama abatible " +
+      "eléctrica sobre el salón desciende hasta su posición con una simple pulsación. " +
+      "LMC desveló esta versión sobre Ford Transit en el Caravan Salon de Düsseldorf " +
+      "como «First Edition» del año de modelo 2024, con el Transit de 170 CV, caja " +
+      "automática y una dotación de serie amplísima en relación con su precio. Fuente: " +
+      "prueba «LMC Tourer Lift Ford H 664 G» en camperstyle.de " +
       "(https://camperstyle.de/lmc-tourer-lift-ford-h-664-g-wohnmobil-test-erfahrung-272322/).",
-    descripcion: `El LMC Tourer Lift H 664 G es la perfilada familiar con la que la marca
-alemana —del grupo Hymer y con 70 años de historia a sus espaldas— se estrenó sobre el
-Ford Transit. La letra H indica la base Ford (los Tourer Lift con T son los Fiat), el
-664 la longitud aproximada y la G el garaje trasero bajo las camas individuales. Y el
-«Lift» no es marketing: es la cama abatible eléctrica sobre el salón, el truco que
-convierte una perfilada de 7,06 metros en un cuatro plazas para dormir sin renunciar
-al salón ni al garaje. Se presentó en el Caravan Salon de Düsseldorf como First
-Edition del año de modelo 2024, con el Transit de 170 caballos y un equipamiento de
-serie pensado para que la relación precio-equipamiento fuese su mejor argumento.
+    descripcion: `El LMC Tourer Lift H 664 G nació con una misión clara: demostrar que una perfilada familiar puede ofrecer cuatro camas de verdad sin sacrificar ni el salón ni el garaje. Es la primera incursión de la marca alemana —integrada en el grupo Hymer y con siete décadas de trayectoria— sobre el Ford Transit. La nomenclatura lo cuenta todo: la H delata la base Ford (las T son las Fiat), el 664 redondea la longitud, la G promete garaje bajo las camas gemelas y el «Lift» describe la cama abatible eléctrica del salón, el ingenio que multiplica las plazas de noche. Debutó en el Caravan Salon de Düsseldorf como First Edition del año de modelo 2024, con el Transit de 170 caballos y una dotación de serie cuyo mejor argumento era la relación entre precio y equipamiento.
 
-En medidas y habitabilidad, el H 664 G es una perfilada de tamaño medio con ideas de
-grande. Los 7,06 metros de largo y 2,32 de ancho son el estándar del segmento, pero la
-altura interior de 198 cm y la puerta de acceso XXL de 70 cm de ancho —una de las más
-generosas que se ven— hacen que entrar y moverse se sienta más desahogado de lo que
-dicen las cifras. La distribución es la clásica familiar: salón en L delante con los
-asientos giratorios de cabina, cocina en L en el centro con frigorífico de compresor
-de 141 litros, baño con ducha separada enfrente y, al fondo, las dos camas individuales
-longitudinales sobre el garaje. La cama abatible baja eléctricamente sobre el salón y
-deja una superficie de unos 213 x 110 cm en su punto más ancho. Los armarios altos,
-los cajones con cierre suave y la iluminación LED indirecta en cocina y dormitorio le
-dan un aire moderno sin estridencias, y la prueba de camperstyle destacó lo bien
-resueltos que están los detalles cotidianos: la mesa extensible, los enchufes donde
-hacen falta y el puesto de conducción del Transit con pantalla Zenec, Apple CarPlay y
-Android Auto.
+En medidas y espacio, el H 664 G se mueve en 7,06 metros de largo por 2,32 de ancho, cifras de manual del segmento medio. Lo que la distingue está en los detalles de acceso y altura: 198 cm de altura interior y una puerta de entrada XXL de 70 cm, de las más amplias del mercado, que hacen que moverse dentro resulte más holgado de lo que sugieren las cotas. El plano es el clásico de las familiares: salón en L al frente con asientos de cabina giratorios, cocina en L en la zona central con frigorífico de compresor de 141 litros, baño con ducha independiente justo enfrente y, en la zaga, las dos camas gemelas longitudinales sobre el garaje. La abatible eléctrica desciende sobre el salón y despliega unos 213 x 110 cm en su zona más ancha. Armarios altos, cajones de cierre amortiguado e iluminación LED indirecta en cocina y dormitorio componen un ambiente contemporáneo y discreto; la prueba de camperstyle subrayó lo bien pensados que están los gestos diarios: mesa ampliable, enchufes colocados donde se necesitan y el puesto de mando del Transit con pantalla Zenec, Apple CarPlay y Android Auto.
 
-En tecnología y equipamiento, la First Edition salió de fábrica muy completa: el
-paquete Tourer (puerta con mosquitera, preinstalación de satélite y solar, aire
-acondicionado con refuerzo de techo, claraboya panorámica sobre el salón, ventana
-panorámica sobre la cabina, oscurecimiento de cabina e iluminación indirecta),
-llantas de aluminio negras de 16 pulgadas, faros bixenón, sensores de aparcamiento,
-asistente de carril y de fatiga, y calefacción Truma Combi 6 de gas con depósito de
-grises aislado y calefactado para viajar en invierno. La construcción sigue la
-filosofía LLT de LMC (Long Life Technologie): 12 años de garantía de estanqueidad,
-suelo con espuma XPS y estructura sin madera en zonas sensibles. Es el equipamiento
-de una autocaravana pensada para usarse todo el año, no solo en agosto.
+La First Edition salió del concesionario con un equipamiento notable: paquete Tourer (puerta con mosquitera, preinstalación de satélite y de placa solar, climatizador con refuerzo de techo, claraboya panorámica sobre el salón, ventana panorámica sobre la cabina, oscurecimiento de cabina y luz indirecta), llantas negras de aluminio de 16 pulgadas, faros bixenón, sensores de aparcamiento, asistentes de carril y de cansancio, y calefacción Truma Combi 6 de gas con el depósito de grises aislado y calefactado para rodar en invierno. La célula sigue la filosofía LLT de LMC (Long Life Technologie): 12 años de garantía contra filtraciones, suelo de espuma XPS y ausencia de madera en las zonas delicadas. Una autocaravana concebida para circular los doce meses, no solo en agosto.
 
-En camas y plazas, la dotación es de cuatro plazas de viaje con ISOFIX en la
-banqueta y cuatro para dormir: las dos individuales traseras (200 x 88 cm, unibles en
-una gran doble con el suplemento central) y la abatible eléctrica delantera. Es el
-esquema ideal para una familia de cuatro o para parejas que viajan con invitados, con
-la ventaja de que la abatible se recoge en el techo y deja el salón libre durante el
-día. Debajo de las camas traseras queda un garaje amplio, accesible por ambos lados,
-para bicis y equipo.
+Dormir y viajar: cuatro plazas homologadas con ISOFIX en la banqueta y cuatro camas: las gemelas traseras de 200 x 88 cm, convertibles en una gran cama doble con el colchón central adicional, más la abatible eléctrica delantera. El planteamiento ideal para una familia de cuatro o para parejas que reciben visitas: de día, la abatible se esconde en el techo y el salón queda despejado. Bajo las camas de la zaga se abre un garaje generoso, con acceso por los dos laterales, para bicicletas y material.
 
-En mecánica, la base es el Ford Transit 2.0 EcoBlue, de 130 CV de serie con cambio
-manual de 6 marchas y con la opción del 170 CV —manual o automático— que llevaba la
-unidad de la prueba y que es la elección sensata para mover 3,5 toneladas con
-alegría. La MMA es de 3.500 kilos (carnet B) y la masa en orden de marcha ronda los
-3.035 kilos según la prueba de camperstyle, así que la carga útil hay que vigilarla
-si se llena la lista de extras. En la prueba, el consumo medio real se quedó en 9,6
-litros a los cien, una cifra muy razonable para una 7 metros. Puede remolcar y monta
-neumáticos de 16 pulgadas.
+En mecánica, el Ford Transit 2.0 EcoBlue de 130 CV con caja manual de seis velocidades es la motorización de serie; el 170 CV —manual o automático—, que montaba la unidad probada, es la opción sensata para mover 3,5 toneladas con desahogo. La MMA se queda en 3.500 kilos (carnet B) y la masa en orden de marcha se sitúa en torno a los 3.035 kilos según la prueba de camperstyle, de modo que conviene dosificar la lista de extras para no apurar la carga útil. En el ensayo, el consumo medio real fue de 9,6 litros cada cien kilómetros, una marca muy contenida para una 7 metros. Admite remolque y calza neumáticos de 16 pulgadas.
 
-En precio y red comercial en España, LMC no publica tarifa oficial para nuestro
-mercado y el precio queda en «no publicado». Como referencia —alemana, no oficial
-para España—, la prensa especializada cita un precio de partida de 83.500 euros en
-Alemania para la First Edition. LMC se vende en España a través de concesionarios
-multimarca y de la red del grupo Hymer; conviene pedir oferta cerrada porque el
-salto del 130 al 170 CV, el automático y los paquetes cambian bastante la factura
-final.
+En precio y red comercial en España, LMC no publica tarifa oficial para nuestro país, así que el precio figura como «no publicado». Como orientación —alemana, sin validez oficial para España—, la prensa especializada menciona un precio de salida de 83.500 euros en Alemania para la First Edition. En España la marca se comercializa a través de concesionarios multimarca y de la red del grupo Hymer; merece la pena pedir presupuesto cerrado, porque el paso del 130 al 170 CV, la caja automática y los paquetes modifican sensiblemente la factura final.
 
-Cómo lo verificamos: prueba en profundidad «LMC Tourer Lift Ford H 664 G» de Stefan
-Blanz en camperstyle.de (consultada el 19/10/2026), con datos técnicos medidos y
-vehículo cedido por LMC; ficha de la serie Tourer Lift Ford en alpacacamping.de para
-contraste de medidas, pesos y depósitos; y anuncios de unidades del modelo exacto en
-truckscout24 y camprest.com para confirmar motorizaciones y plazas. Lo no publicado
-por la marca (precio en España, carga útil, par, emisiones) queda en null y
-declarado en las notas.
+Cómo lo verificamos: prueba exhaustiva «LMC Tourer Lift Ford H 664 G» de Stefan Blanz en camperstyle.de (consultada el 19/10/2026), con mediciones técnicas propias y vehículo facilitado por LMC; ficha de la serie Tourer Lift Ford en alpacacamping.de para cotejar medidas, pesos y depósitos; y anuncios de unidades del modelo exacto en truckscout24 y camprest.com para confirmar motores y plazas. Lo que la marca no publica (precio en España, carga útil, par, emisiones) permanece en null y queda declarado en las notas.
 
-Para quién es: para familias de cuatro que buscan una perfilada con camas gemelas y
-abatible eléctrica por un precio de partida razonable; para quien valora el Ford
-Transit moderno con sus ayudas a la conducción; para el que viaja todo el año y
-aprecia la calefacción Truma, el depósito de grises calefactado y los 12 años de
-garantía de estanqueidad. No es para quien necesite cinco plazas (no las hay), ni
-para conductores que quieran una automática sin pasar por caja: el cambio automático
-solo llega con el motor de 170 CV y como opcional.`,
+Para quién es: familias de cuatro que buscan una perfilada con camas gemelas y abatible eléctrica a un precio de partida contenido; conductores que aprecian el Ford Transit actual con sus asistentes de conducción; viajeros de todo el año que valoran la calefacción Truma, el depósito de grises calefactado y los 12 años de garantía de estanqueidad. No encaja con quien necesite cinco plazas (no existen en este modelo) ni con quien desee una automática sin pagarla: el cambio automático solo se combina con el motor de 170 CV y siempre como opción.`,,
     pros: [
-      "Cama abatible eléctrica sobre el salón: 4 plazas para dormir sin perder salón ni garaje",
-      "Puerta de acceso XXL de 70 cm y altura interior de 198 cm: sensación de amplitud",
-      "First Edition muy equipada (Zenec con CarPlay, bixenón, llantas 16\", asistentes Ford)",
-      "12 años de garantía de estanqueidad y construcción LLT pensada para durar",
-      "Consumo medio medido de 9,6 l/100 km en prueba real: eficiente para 7 metros",
+      "Cama abatible eléctrica sobre el salón: dormir cuatro sin renunciar al salón ni al garaje",
+      "Acceso XXL de 70 cm y 198 cm de altura interior: sensación de desahogo",
+      "First Edition generosa (pantalla Zenec con CarPlay, bixenón, llantas de 16, asistentes del Transit)",
+      "Garantía de estanqueidad de 12 años y construcción LLT orientada a durar",
+      "9,6 l/100 km medidos en prueba real: consumo contenido para 7 metros",
     ],
     contras: [
-      "Sin PVP oficial para España: el precio real solo se conoce en el concesionario",
-      "El motor de 130 CV de serie se queda justo; el 170 CV y el automático son opcionales",
-      "Masa en orden de marcha de ~3.035 kg: la carga útil exige moderar los extras",
-      "La abatible delantera tapa la puerta de acceso cuando está bajada (típico del esquema)",
-      "Red de concesionarios LMC más pequeña en España que la de otras marcas del grupo",
+      "Sin tarifa oficial para España: el precio real solo aparece en el concesionario",
+      "El 130 CV de serie va justo de potencia; el 170 CV y el automático son opciones",
+      "Unos 3.035 kg en orden de marcha: la carga útil obliga a moderar los extras",
+      "La abatible delantera cubre la puerta de entrada al bajarla (habitual en este esquema)",
+      "La red de LMC en España es más reducida que la de otras marcas del grupo",
     ],
     opiniones: [],
     galeria: [
