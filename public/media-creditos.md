@@ -2226,3 +2226,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/aston-martin-vanquish-2025-precio-ficha-tecnica-hunt1.webp | https://images.hgmsites.net/hug/2025-aston-martin-vanquish_100941042_h.webp | Motor Authority | desconocida |
 | /media/aston-martin-vanquish-2025-precio-ficha-tecnica-hunt2.webp | https://images.dailyrevs.com/0000/v3/Aston%20Martin/66d68068fd8ba4fe77a0e2c2/2025-vanquish-aston-martin-rtkgp77777m052v0zb4kuo.jpeg | DailyRevs | desconocida |
 | /media/aston-martin-vanquish-2025-precio-ficha-tecnica-hunt3.webp | https://images.dailyrevs.com/0000/v3/Aston%20Martin/66d68068fd8ba4fe77a0e2c2/2025-vanquish-aston-martin-riyhssssstf0jcf284xb25p.jpeg | DailyRevs | desconocida |
+| /media/kia-ceed-sw-2025-precio-ficha-tecnica-hunt1.webp | https://images.prismic.io/carwow/26db2a04-4c64-4f8f-abed-1f6cc6ba2d7a_Kia_Ceed_SW_Front_%C2%BE_static.jpg?auto=format | Carwow | desconocida |
+| /media/kia-ceed-sw-2025-precio-ficha-tecnica-hunt2.webp | https://media.carnovo.com/images/stock/2af0e437-1bed-4b0f-ae04-964b27b1f4b2/cb9e923bdc42eb4572a6984d61a1d226.jpg | Carnovo | desconocida |
+| /media/kia-ceed-sw-2025-precio-ficha-tecnica-hunt3.webp | https://www.kia.com/content/dam/kwcms/tw/zh/images/showroom/ceed/2024SVP/gallery/W1920x1200.jpg | Kia (kia.com) | desconocida |
+| /media/lexus-gx-550-hunt1.webp | https://www.autoblog.com/.image/MjEyNDQwNjQ1MzE3NTY4MDA5/2024-lexus-gx-550.jpg?profile=share16-9 | Autoblog | desconocida |
+| /media/lexus-gx-550-hunt2.webp | https://www.motortrend.com/uploads/2024/03/012-2024-Lexus-GX550-Premium-rear-three-quarters-view.jpg | MotorTrend | desconocida |
+| /media/lexus-gx-550-hunt3.webp | https://www.jalopnik.com/jalopnik/images/7ef49b4bb1e646fb9eaed985bd520583.webp | Jalopnik | desconocida |
+| /media/aston-martin-valkyrie-spider-2024-precio-ficha-tecnica-hunt1.webp | https://paultan.org/2021/08/13/aston-martin-valkyrie-spider-1155-ps-v12-hybrid-vmax-over-350-km-h-85-unit-limited-run-from-2h-2022/ | Aston Martin / Paul Tan | desconocida |
+| /media/aston-martin-valkyrie-spider-2024-precio-ficha-tecnica-hunt2.webp | https://www.thespeedjournal.com/aston-martin-valkyrie-spider/ | Aston Martin / The Speed Journal | desconocida |
+| /media/aston-martin-valkyrie-spider-2024-precio-ficha-tecnica-hunt3.webp | https://astonmartinsandiego.com/aston-martin-supercars | Aston Martin San Diego (fotos oficiales del fabricante) | desconocida |
+| /media/beta-rr-x-pro-350-4t-2026-ficha-tecnica-precio-hunt1.webp | https://www.betamotor.com/en/enduro-range/rr-x-pro/ | Beta Motor (foto oficial del fabricante) | desconocida |
+| /media/beta-rr-x-pro-350-4t-2026-ficha-tecnica-precio-hunt2.webp | https://www.motofichas.com/marcas/beta/rr-x-pro-4t-350 | Beta Motor / MotoFichas | desconocida |
+| /media/beta-rr-x-pro-350-4t-2026-ficha-tecnica-precio-hunt3.webp | https://www.dirtaction.com.au/2026-beta-rr-x-pro-range-first-look/ | Beta Motor / Dirt Action | desconocida |
+| /media/cecotec-bongo-serie-x45-sport-connected-hunt1.webp | https://cecotec.pt/pt/trotinetes-eletricas/bongo-serie-x45-sport-connected | Cecotec (foto oficial del fabricante) | desconocida |
+| /media/cecotec-bongo-serie-x45-sport-connected-hunt2.webp | https://media.cecotec.cloud/07108/bongo-serie-x45-sport-connected_tlunkz_1.png | Cecotec (foto oficial del fabricante) | desconocida |
+| /media/cecotec-bongo-serie-x45-sport-connected-hunt3.webp | https://media.cecotec.cloud/07108/patinete-electrico-bongo-serie-x45-sport-connected_xqk93p_3.png | Cecotec (foto oficial del fabricante) | desconocida |
+| /media/kia-xceed-phev-2025-precio-ficha-tecnica-hunt1.webp | https://www.becast.it/ | Kia / BeCast | desconocida |
+| /media/kia-xceed-phev-2025-precio-ficha-tecnica-hunt2.webp | https://www.auto10.com/reportajes/los-kia-xceed-y-ceed-tourer-estrenaran-versiones-hibridas-enchufables-en-2020/17595 | Kia / Auto10 | desconocida |
+| /media/kia-xceed-phev-2025-precio-ficha-tecnica-hunt3.webp | http://www.tukas.cz/modely/xceed-cd | Kia / TUKAS (concesionario oficial) | desconocida |
+| /media/radical-sr10-xxr-2025-precio-ficha-tecnica-hunt1.webp | https://cdn.radicalmotorsport.com/2025_Radical_SR10_XXR__Green_1large.jpg | Radical Motorsport | desconocida |
+| /media/radical-sr10-xxr-2025-precio-ficha-tecnica-hunt2.webp | https://www.evo.co.uk/radical/205647/radical-sr10-xxr-revealed-as-574bhpton-track-weapon-pictures | Radical Motorsport / EVO | desconocida |
+| /media/radical-sr10-xxr-2025-precio-ficha-tecnica-hunt3.webp | https://racer.com/2023/02/01/radical-motorsport-introduces-the-sr10-xx | Radical Motorsport / RACER | desconocida |
+| /media/aston-martin-db12-goldfinger-2025-precio-ficha-tecnica-hunt1.webp | https://wsupercars.studio84design.com.au/car-wallpaper-download/?title=2025%20Aston%20Martin%20DB12%20Goldfinger%20Edition&res=2560%20x%201080&pic=https://www.wsupercars.com/wallpapers-wide/Aston-Martin/2025-Aston-Martin-DB12-Goldfinger-Edition-003-1080w.jpg | Dominic Fraser / wsupercars | desconocida |
+| /media/aston-martin-db12-goldfinger-2025-precio-ficha-tecnica-hunt2.webp | https://www.parkplaceltd.com/used-Bellevue-2026-Aston+Martin-DB12-Goldfinger+Edition-SCFRMFFW2TGL16703 | Park Place Ltd / parkplaceltd.com | desconocida |
+| /media/aston-martin-db12-goldfinger-2025-precio-ficha-tecnica-hunt3.webp | https://www.magnetomagazine.com/articles/aston-martin-db12-goldfinger-007-edition-up-for-sale-for-charity-in-christies-auction/ | Dominic Fraser / Magneto Magazine | desconocida |
