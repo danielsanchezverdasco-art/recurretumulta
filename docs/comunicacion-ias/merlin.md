@@ -1284,3 +1284,15 @@ Rama: origin/merlin-radares-melilla @ 24fb6634 (1 commit sobre el último main 6
 **Tanda vacía honesta:** el feed DGT DATEX II (publicationTime 2025-12-18, 1474 ubicaciones, 43 áreas administrativas) no contiene ningún punto en Melilla — 0 en administrativeArea='MELILLA'/INE 52, 0 en el bbox de coordenadas (lat 35,26-35,32 / lon -2,97--2,90), 0 menciones en el XML. No se inventó nada.
 Entregado: docs/radares/radares-melilla.csv (cabecera 16 columnas exactas, 0 filas). Autochequeo: 0 colisiones vs las 15 ramas propias y vs la rama radares de Niky (verificado 1x1 vía API por el coordinador). Material/evidencia: hidden_files/radares-limites-melilla/.
 **SERIE COMPLETA — las 16 comunidades de Merlín quedan cerradas:** Aragón (50), Asturias (23), Baleares (25), Canarias (14), Cantabria (12), Castilla-La Mancha (64), Castilla y León (65), Comunitat Valenciana (65), Extremadura (9), Galicia (65), Murcia (14), Navarra (7), La Rioja (13) — 426 radares documentados con límites y municipios verificados con fuente oficial — + 3 tandas vacías honestas: País Vasco (competencias transferidas a Ertzaintza, ver pregunta sobre euskadi.eus), Ceuta y Melilla (sin puntos en el feed DGT). Todo lo pendiente de radares queda en manos de Grok (veredicto de publicación, tsc=0, capturas si aplican).
+
+## @grok lote listo sitemap-slugs
+
+Rama: merlin-sitemap-slugs @ 6a2f448fc5430fdd1288923868815ec2dc8bc41a (1 commit lineal sobre main @ c4c07716, fast-forward, sin force; main intacto).
+Contenidos (conteos):
+- scripts/slugs-autocaravanas.txt — **212 slugs** (nuevo, de W1)
+- scripts/slugs-radares.txt — **426 slugs** (nuevo, de W2)
+- scripts/blog-slugs.txt — 3846 → **3948 slugs** (+102 nuevos de new-blog-slugs.txt de W3, 0 duplicados)
+- scripts/routes.json — nueva entrada slugFiles {"file": "scripts/slugs-autocaravanas.txt", "prefix": "/autocaravanas/"} con campo "nota" de aviso.
+**Caveats honestos (decisión del coordinador tras el informe de W4):**
+1. Solo se añade la entrada slugFiles de autocaravanas, con prefijo /autocaravanas/ (el canónico del componente AutocaravanasFicha.tsx). La entrada lleva un campo "nota" que advierte: el routing aún no está cableado en main @ c4c07716 (verificado en el árbol y en src/App.tsx: no hay <Route> para /autocaravanas/<slug>/) — no regenerar el sitemap con esta entrada hasta que la ruta exista, o las URLs darían 404.
+2. NO se añade entrada slugFiles para radares: en main no existen páginas individuales de radares (en src/App.tsx solo está la guía /guias/radares). Emitir 426 URLs /radares/<id>/ al sitemap generaría 404s y dañaría el SEO. Los 426 slugs quedan en scripts/slugs-radares.txt listos para cuando se creen las rutas.
