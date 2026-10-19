@@ -2773,3 +2773,9 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/volvo-xc90-t8-2025-precio-ficha-tecnica-hunt1.webp | https://www.km77.com/images/medium/0/2/4/5/volvo-xc90-2025-lateral-posterior-.380245.jpg | km77 | desconocida |
 | /media/volvo-xc90-t8-2025-precio-ficha-tecnica-hunt2.webp | https://imagenes.km77.com/fotos/bbtcontent/clippingnew/KM7KPH20250923_0057/full-original.jpg | km77 | desconocida |
 | /media/volvo-xc90-t8-2025-precio-ficha-tecnica-hunt3.webp | https://v12magazine.com/wp-content/uploads/2024/09/Volvo_XC90_exterior-FRONTAL-LANZAMIENTO-MUNDIAL-VEHICULOS-HIBRIDOS-LATERAL.jpg.webp | Foto de prensa Volvo (vía V12 Magazine) | desconocida |
+| /media/lifan-kpf-150-hunt1.webp | https://cdn.shopify.com/s/files/1/0583/9018/4112/files/lifan-KPF150_verde.png?v=1729217935 | Tienda online Lifan (Shopify) | desconocida |
+| /media/lifan-kpf-150-hunt2.webp | https://lamoto.com.ar/wp-content/uploads/2021/03/LIFAN-KPF-150-1024x804-2.jpg | LaMoto.com.ar | desconocida |
+| /media/lifan-kpf-150-hunt3.webp | https://images.ctfassets.net/8zlbnewncp6f/2D1AXte7i2L7RpBouj1ykC/ac9b23e75c2360de5a660ae60de63f1a/Lifan-KPF-150-LifeStyle-3.jpg?w=500&fm=webp&q=100 | Galgo.com | desconocida |
+| /media/voyah-free-erev-2025-precio-ficha-tecnica-hunt1.webp | https://ymimg1.b8cdn.com/uploads/article/18784/pictures/13730862/voyah-free-exterior-01.jpg | YallaMotor (yallamotor.com) | desconocida |
+| /media/voyah-free-erev-2025-precio-ficha-tecnica-hunt2.webp | https://d2hucwwplm5rxi.cloudfront.net/wp-content/uploads/2025/08/03063301/voyah-free-cover1.jpg | Dubizzle Blog (dubizzle.com) | desconocida |
+| /media/voyah-free-erev-2025-precio-ficha-tecnica-hunt3.webp | https://xn----7sbbeeptbfadjdvm5ab9bqj.xn--p1ai/wp-content/uploads/2025/05/salon-old-voyah-free-1-768x432.webp | Autonews (web china) | desconocida |
