@@ -10,6 +10,7 @@
 // / «-interior.webp»; (l) dimensiones y potencia de la ficha oficial 25/26, verificadas
 // con fichas de concesionarios coincidentes.
 // NOTA: la tracción queda en null porque XGO no la publica para este modelo.
+// F9b (19/10/2026): 1 foto oficial ext (trigano.com, gama X-Van) + curiosidades; int oficiales pendientes.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
 export const AUTOCARAVANAS_XGO_M1: Autocaravana[] = [
@@ -31,11 +32,10 @@ export const AUTOCARAVANAS_XGO_M1: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/xgo-x-van-104-2026-precio-ficha-tecnica-ext.webp",
+    imagen: "/media/xgo-x-van-104-2026-precio-ficha-tecnica-oficial.webp",
     imagenOficial:
-      "/media/xgo-x-van-104-2026-precio-ficha-tecnica-ext.webp",
-    imagenInteriorOficial:
-      "/media/xgo-x-van-104-2026-precio-ficha-tecnica-interior.webp",
+      "/media/xgo-x-van-104-2026-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial: "", // sin foto oficial de interior localizada; "" = sin foto oficial (estándar del tipo)
     videoId: null,
     videoCanal: null,
     largoMm: 6363, // catálogo oficial 25/26
@@ -54,7 +54,9 @@ export const AUTOCARAVANAS_XGO_M1: Autocaravana[] = [
     emisionesCo2: null,
     aprox: [],
     notas:
-      "Dimensiones (6.363/2.050/2.659 mm), MMA (3.500 kg), motor (Fiat Ducato 2.2 de 140 CV), 4 plazas homologadas y sistema energético MEB-300, del catálogo oficial XGO 25/26 y la página oficial XVAN de xgomove.it, verificados con fichas coincidentes de concesionarios europeos. XGO no publica en su web ni el PVP, ni la masa en orden de marcha, ni la carga útil, ni la tracción: esos campos quedan en null sin inventar cifras («no publicado»). Las 3 plazas para dormir son 2 camas fijas traseras más una tercera componible en el salón.",
+      "Dimensiones (6.363/2.050/2.659 mm), MMA (3.500 kg), motor (Fiat Ducato 2.2 de 140 CV), 4 plazas homologadas y sistema energético MEB-300, del catálogo oficial XGO 25/26 y la página oficial XVAN de xgomove.it, verificados con fichas coincidentes de concesionarios europeos. XGO no publica en su web ni el PVP, ni la masa en orden de marcha, ni la carga útil, ni la tracción: esos campos quedan en null sin inventar cifras («no publicado»). Las 3 plazas para dormir son 2 camas fijas traseras más una tercera componible en el salón. Fotos: solo se ha localizado 1 exterior oficial (trigano.com, imagen de la gama X-Van); faltan 1+ exterior específico del 104 y 2 interiores oficiales: en revisión.",
+    curiosidades:
+      "El X-Van 104 lleva de serie el sistema MEB-300, la gestión energética de a bordo que se controla desde una aplicación del móvil para supervisar la batería y los consumos sin levantarse del asiento. Fuente: página oficial de la gama XVAN en xgomove.it (https://www.xgomove.it/).",
     descripcion: `XGO es la marca italiana que ha hecho de la gama de acceso su territorio: campers y autocaravanas de precio contenido, catálogo claro y sin laberintos de opciones imposibles. No pretende competir con las premium alemanas ni con el diseño de las toscanas; su promesa es más terrenal y, para mucha gente, más útil: una furgoneta camper bien equipada por menos dinero que la competencia, con un catálogo de cuatro furgonetas donde es fácil comparar sin perderse. El X-Van 104 es el grande de esa familia camper, con 6,36 metros que lo sitúan justo en el punto dulce entre la camper compacta de 6 metros y los grandes volúmenes que ya piden otro tipo de conducción.
 
     Esos 36 centímetros extra respecto a una camper de 5,99 metros se notan más de lo que parece. El X-Van 104 mide 6.363 milímetros de largo, 2.050 de ancho y 2.659 de alto, y ese palmo y medio adicional va directo al interior habitable: más desahogo en el salón, una cocina menos encajada y un baño donde no hay que pedir perdón a las paredes. Sigue siendo una furgoneta —aparca en línea, entra en la mayoría de áreas y se conduce con el carnet B gracias a sus 3.500 kilos de MMA—, pero la vida a bordo se acerca más a la de una perfilada pequeña que a la de una camper justa. Para una familia de cuatro que viaja con equipaje, esa diferencia entre 5,99 y 6,36 metros es la que separa el viaje cómodo del viaje en modo Tetris.
@@ -89,26 +91,8 @@ export const AUTOCARAVANAS_XGO_M1: Autocaravana[] = [
     opiniones: [],
     galeria: [
       {
-        src: "/media/xgo-x-van-104-2026-precio-ficha-tecnica-ext.webp",
-        alt: "XGO X Van 104, vista lateral",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/xgo-x-van-104-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del XGO X Van 104, salón delantero",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/xgo-x-van-104-2026-precio-ficha-tecnica-interior2.webp",
-        alt: "Interior del XGO X-Van 104, segunda vista",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/xgo-x-van-104-2026-precio-ficha-tecnica-detalle.webp",
-        alt: "Detalle del XGO X-Van 104",
+        src: "/media/xgo-x-van-104-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "XGO X-Van (gama), vista exterior",
         ancho: 1200,
         alto: 800,
       },

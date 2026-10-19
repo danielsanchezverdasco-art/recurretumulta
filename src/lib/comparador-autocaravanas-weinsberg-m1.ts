@@ -4,6 +4,7 @@
 // MMA 3.500 kg, «Maximum payload» 241 kg publicado por la marca con nota al pie, garantía de
 // estanqueidad de 10 años, frigorífico de compresor de 95 l, Truma Combi 4, agua 102/90 l).
 // Weinsberg no publica PVP: precioDesde en null (remite al configurador/concesionario).
+// F9b (19/10/2026): 4 fotos oficiales (2 ext + 2 int, web oficial weinsberg.com) + curiosidades.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
 export const AUTOCARAVANAS_WEINSBERG_M1: Autocaravana[] = [
@@ -29,7 +30,7 @@ export const AUTOCARAVANAS_WEINSBERG_M1: Autocaravana[] = [
     imagenOficial:
       "/media/weinsberg-carabus-grey-edition-fire-600-mq-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/weinsberg-carabus-grey-edition-fire-600-mq-2026-precio-ficha-tecnica-interior.webp",
+      "/media/weinsberg-carabus-grey-edition-fire-600-mq-2026-precio-ficha-tecnica-oficial-interior.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 5990,
@@ -65,15 +66,27 @@ export const AUTOCARAVANAS_WEINSBERG_M1: Autocaravana[] = [
     galeria: [
       {
         src: "/media/weinsberg-carabus-grey-edition-fire-600-mq-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Weinsberg CaraBus Grey Edition [FIRE] 600 MQ, vista tres cuartos",
+        alt: "Weinsberg CaraBus Grey Edition [FIRE] 600 MQ, vista exterior tres cuartos",
         ancho: 1200,
-        alto: 800,
+        alto: 515,
       },
       {
-        src: "/media/weinsberg-carabus-grey-edition-fire-600-mq-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior de la Weinsberg CaraBus Grey Edition [FIRE] 600 MQ, zona de descanso",
+        src: "/media/weinsberg-carabus-grey-edition-fire-600-mq-2026-precio-ficha-tecnica-oficial-ext2.webp",
+        alt: "Weinsberg CaraBus Grey Edition [FIRE] 600 MQ, vista frontal exterior",
         ancho: 1200,
-        alto: 800,
+        alto: 630,
+      },
+      {
+        src: "/media/weinsberg-carabus-grey-edition-fire-600-mq-2026-precio-ficha-tecnica-oficial-interior.webp",
+        alt: "Interior del Weinsberg CaraBus Grey Edition [FIRE] 600 MQ, salón con tapicería bordada [FIRE]",
+        ancho: 1200,
+        alto: 833,
+      },
+      {
+        src: "/media/weinsberg-carabus-grey-edition-fire-600-mq-2026-precio-ficha-tecnica-oficial-interior2.webp",
+        alt: "Interior del Weinsberg CaraBus Grey Edition [FIRE] 600 MQ, cocina y cama trasera",
+        ancho: 1200,
+        alto: 833,
       },
     ],
     descripcion: `El Weinsberg CaraBus Grey Edition [FIRE] 600 MQ se resume en una frase: una edición especial que viene llena de serie. Weinsberg, la marca de acceso del grupo Knaus Tabbert, ha cogido su furgón de 5,99 metros y le ha colgado el apellido FIRE para cargarlo de equipamiento sin pasar por la lista de opcionales: llantas de aleación, climatizador manual de cabina, puerta mosquitera, escalón eléctrico de 70 cm, neumáticos all-season, cámara trasera y centro multimedia de 7 pulgadas con Apple CarPlay y Android Auto. Es la estrategia de las ediciones especiales bien hechas: pagar una vez y no volver a pensar en extras.
@@ -111,6 +124,8 @@ La red del grupo Knaus Tabbert es otro argumento silencioso: concesionarios por 
     euroncap: null,
     notas:
       "El «Maximum payload» de 241 kg es el publicado por Weinsberg para el 600 MQ, con nota al pie y definición particular de la marca en su ficha oficial; no es un cálculo. Plazas para dormir: 3 de serie (4 máx. con cama de invitada opcional). La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante: dato no oficial · en revisión.",
+    curiosidades:
+      "Hasta la tapicería lleva el apellido de la edición: la Grey Edition [FIRE] incluye de serie la tapicería especial «FUSION GREY» con el bordado [FIRE] en los respaldos, además de los gráficos exteriores específicos «EDITION [FIRE]». Fuente: ficha oficial del modelo 600 MQ en weinsberg.com (https://weinsberg.com/en-uk/camper-vans/grey-edition-fire/layout-plans/600-mq/).",
     fuenteNombre: "Weinsberg (web oficial)",
     fuenteUrl: "https://weinsberg.com/en-uk/camper-vans/grey-edition-fire/layout-plans/600-mq/",
   },

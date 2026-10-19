@@ -3,6 +3,7 @@
 // revisada el 18/10: «Starting from 67.650 €», Fiat Ducato 2.2 120 CV, 5,99 × 2,05 × 2,60 m,
 // 4 plazas de viaje, 2 camas + 2 + 1 opcionales —hasta 5—, cama transversal 140 × 197 cm,
 // calefacción diésel Eberspächer 5 kW de doble zona, nevera de compresor 90 l, agua 100/100 l).
+// F9b (19/10/2026): 4 fotos oficiales (2 ext + 2 int, web oficial westfalia-mobil.com) + curiosidades.
 // Precio "desde" publicado en la web oficial (mercado alemán), marcado en "aprox"; en España
 // puede diferir. Carga útil calculada (565 kg) → null (prohibido calcular).
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
@@ -26,11 +27,11 @@ export const AUTOCARAVANAS_WESTFALIA_M1: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/westfalia-columbus-600d-2026-precio-ficha-tecnica-ext.webp",
+    imagen: "/media/westfalia-columbus-600d-2026-precio-ficha-tecnica-oficial.webp",
     imagenOficial:
-      "/media/westfalia-columbus-600d-2026-precio-ficha-tecnica-ext.webp",
+      "/media/westfalia-columbus-600d-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/westfalia-columbus-600d-2026-precio-ficha-tecnica-interior.webp",
+      "/media/westfalia-columbus-600d-2026-precio-ficha-tecnica-oficial-interior.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 5998,
@@ -65,26 +66,26 @@ export const AUTOCARAVANAS_WESTFALIA_M1: Autocaravana[] = [
     opiniones: [],
     galeria: [
       {
-        src: "/media/westfalia-columbus-600d-2026-precio-ficha-tecnica-ext.webp",
-        alt: "Westfalia Columbus 600 D, vista lateral",
+        src: "/media/westfalia-columbus-600d-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Westfalia Columbus 600 D, vista lateral exterior",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/westfalia-columbus-600d-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Westfalia Columbus 600 D, cama transversal",
+        src: "/media/westfalia-columbus-600d-2026-precio-ficha-tecnica-oficial-ext2.webp",
+        alt: "Westfalia Columbus 600 D Premium Edition, vista exterior",
+        ancho: 1200,
+        alto: 720,
+      },
+      {
+        src: "/media/westfalia-columbus-600d-2026-precio-ficha-tecnica-oficial-interior.webp",
+        alt: "Interior del Westfalia Columbus 600 D, salón",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/westfalia-columbus-600d-2026-precio-ficha-tecnica-interior2.webp",
-        alt: "Interior del Westfalia Columbus 600D, segunda vista",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/westfalia-columbus-600d-2026-precio-ficha-tecnica-detalle.webp",
-        alt: "Cama trasera del Westfalia Columbus 600D",
+        src: "/media/westfalia-columbus-600d-2026-precio-ficha-tecnica-oficial-interior2.webp",
+        alt: "Interior del Westfalia Columbus 600 D, cama transversal trasera",
         ancho: 1200,
         alto: 800,
       },
@@ -126,6 +127,8 @@ La red Westfalia, aunque más pequeña que la de los gigantes generalistas, es u
     euroncap: null,
     notas:
       "«precio de tarifa en Alemania»: 67.650 € es el precio de partida publicado por Westfalia en su web oficial (mercado alemán); en España el importe final lo fija la red. La carga útil calculada (565 kg = 3.500 − 2.935) se ha eliminado: está prohibido calcular y la marca no la publica. Plazas para dormir: 2 de serie (hasta 5 con cama de banqueta y techo elevable opcionales). La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante: dato no oficial · en revisión.",
+    curiosidades:
+      "La banqueta del Columbus es una cama patentada por Westfalia que se despliega en dos segundos: 180 × 90 cm que convierten el salón en una plaza extra sin montar nada. Fuente: página oficial del Columbus 600 D en westfalia-mobil.com (https://westfalia-mobil.com/en/motorhomes/columbus-600-d/).",
     fuenteNombre: "Westfalia (web oficial + catálogo 2026)",
     fuenteUrl: "https://westfalia-mobil.com/en/motorhomes/columbus-600-d/",
   },
