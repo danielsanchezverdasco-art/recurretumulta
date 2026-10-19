@@ -12,6 +12,14 @@
 
 El aparato se halla en la **carretera AS-16, pk 9,5**, en Asturias, y vigila el **sentido creciente**: la circulación que progresa hacia el rumbo que la DGT denomina **Cornellana**. Las coordenadas lo colocan en la mitad oeste del Principado, en territorio de interior, donde las vías autonómicas vertebran los concejos y los comunican con los grandes ejes.
 
+<iframe title="Mapa: radar as-16-9-5-creciente-fijo" src="https://www.google.com/maps?q=43.4723,-6.1112&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar as-16-9-5-creciente-fijo" src="https://maps.google.com/maps?q=&layer=c&cbll=43.4723,-6.1112&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La AS-16 forma parte de la **red autonómica asturiana**: carreteras convencionales, de una calzada con un carril por sentido, que cosen el Principado allí donde no llegan las autovías. Su clientela habitual es el tráfico de proximidad —vecinos que se desplazan entre concejos, reparto de mercancías, maquinaria agrícola— más los conductores que buscan atajos fuera de los ejes principales. En las convencionales, los accidentes graves suelen venir de salidas de vía y choques frontales, y los cinemómetros fijos de la DGT se instalan precisamente en los tramos que los historiales de siniestralidad señalan.
