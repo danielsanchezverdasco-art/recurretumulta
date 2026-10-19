@@ -1425,3 +1425,26 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/dfsk-600-2026-precio-ficha-tecnica-hunt1.webp | https://www.km77.com/media/fotos/dfsk_600_2024_9112_1.jpg | km77.com | desconocida |
 | /media/dfsk-600-2026-precio-ficha-tecnica-hunt2.webp | https://a0.cdnfan.com/images/M/1/5/8/2/dfsk-600_hd_162669.jpg | auto10.com | desconocida |
 | /media/dfsk-600-2026-precio-ficha-tecnica-hunt3.webp | https://www.autonocion.com/wp-content/uploads/2025/01/Prueba-DFSK-600-2025-22.jpg | autonocion.com | desconocida |
+| /media/beta-xtrainer-300-2026-ficha-tecnica-precio-hunt1.webp | https://motoex.ca/wp-content/uploads/2026/01/2026-XTRAINER-2-1024x726.jpg | Motoex | desconocida |
+| /media/beta-xtrainer-300-2026-ficha-tecnica-precio-hunt2.webp | https://enduro24.gr/wp-content/uploads/2025/06/XTrainer-My26-1-1024x683.jpg | Enduro24 | desconocida |
+| /media/beta-xtrainer-300-2026-ficha-tecnica-precio-hunt3.webp | https://www.betatrueba.com/wp-content/uploads/2025/06/XTRAINER-My2026-black-2-768x505.jpg | Betatrueba | desconocida |
+| /media/chevrolet-corvette-z06-2025-hunt1.webp | http://www.jamesmartindetroit.com/static/dealer-19667/Custom_Specials_Banners/2025-z06-gallery-ext-01.jpg | James Martin Detroit (concesionario Chevrolet) | desconocida |
+| /media/chevrolet-corvette-z06-2025-hunt2.webp | https://di-uploads-pod24.dealerinspire.com/twinfallschevrolet/uploads/2025/01/2025-chevrolet-corvette-z06-convertible-1lz-1440x811.webp | Twin Falls Chevrolet | desconocida |
+| /media/chevrolet-corvette-z06-2025-hunt3.webp | https://www.carscoops.com/wp-content/uploads/2023/07/Corvette-Z06a-1536x864.jpg | Carscoops | desconocida |
+| /media/denza-z-racing-2026-precio-ficha-tecnica-hunt1.webp | https://da4dkroembtou.cloudfront.net/wp-content/uploads/2026/04/DENZA-Z-3-dfg56-Custom.jpg | carsifu.my | desconocida |
+| /media/denza-z-racing-2026-precio-ficha-tecnica-hunt2.webp | https://www.caroto.gr/static/media/2026/07/DENZA-Z-Coupe-2026-6-1.jpg | caroto.gr | desconocida |
+| /media/denza-z-racing-2026-precio-ficha-tecnica-hunt3.webp | https://www.denza.com/material/__CN/denza-site/denza-brazil/denza-z/1-pc%20(7).webp | Denza (web oficial) | desconocida |
+| /media/genesis-electrified-g80-2026-hunt1.webp | https://p-www-2.genesis.com/content/dam/genesis-p2/worldwide/assets/models/electrified-g80/teaser/genesis-ww-Electrified%20G80-gallery2-1600x1200.jpg | Genesis (prensa oficial) | desconocida |
+| /media/genesis-electrified-g80-2026-hunt2.webp | https://www.motoringresearch.com/wp-content/uploads/2026/03/010-2026-Genesis-Electrified-G80-Review.jpg | MotoringResearch | desconocida |
+| /media/dfsk-seres-3-2026-precio-ficha-tecnica-hunt1.webp | https://www.dfsk.cl/pasajeros/vehiculo/seres-3/ | DFSK Chile (web oficial) | desconocida |
+| /media/dfsk-seres-3-2026-precio-ficha-tecnica-hunt2.webp | https://movilidadelectrica.com/seres-3-descuento/ | Movilidad Eléctrica (blog del motor) | desconocida |
+| /media/dfsk-seres-3-2026-precio-ficha-tecnica-hunt3.webp | https://autolifethailand.tv/official-price-dfsk-seres3-ev-bev-thailand/ | Autolife Thailand (prensa del motor) | desconocida |
+| /media/ford-f-150-raptor-2025-hunt1.webp | https://motorlider.com.uy/blog/lanzamientos-ford-f-150-y-f-150-raptor-470 | MotorLider (blog del motor) | desconocida |
+| /media/ford-f-150-raptor-2025-hunt2.webp | https://motor283.com/en/cars-news/5-key-features-of-the-2025-f-150-raptor | Motor283 (prensa del motor) | desconocida |
+| /media/ford-f-150-raptor-2025-hunt3.webp | https://x.grupadealer.pl/open/media/images/bc1da72e-8a97-4e39-a3d9-467b88d1ed8b | Grupo Dealer (concesionario) | desconocida |
+| /media/voyah-courage-2024-precio-ficha-tecnica-hunt1.webp | https://www.voyah.pt/garantia | Voyah Portugal (web oficial) | desconocida |
+| /media/voyah-courage-2024-precio-ficha-tecnica-hunt2.webp | https://forococheselectricos.com/2024/09/dongfeng-voyah-courage-autonomia-precio-suv-electrico.html | ForoCochesEléctricos (blog del motor) | desconocida |
+| /media/voyah-courage-2024-precio-ficha-tecnica-hunt3.webp | https://voyah.fiaal.pt/ | Fiaal Voyah (concesionario oficial) | desconocida |
+| /media/dongfeng-epi-007-2025-precio-ficha-tecnica-hunt1.webp | https://chinacarnews.com/uploads/images/202505/image_870x580_682e53f7c4f90.webp | ChinaCarNews (foto de prensa) | desconocida |
+| /media/dongfeng-epi-007-2025-precio-ficha-tecnica-hunt2.webp | https://movilidadelectrica.com/wp-content/uploads/2025/11/Dongfeng-parte-trasera.png | MovilidadEléctrica (movilidadelectrica.com) | desconocida |
+| /media/dongfeng-epi-007-2025-precio-ficha-tecnica-hunt3.webp | https://dongfeng.by/wp-content/uploads/2024/09/ep007-int-2.jpg | Dongfeng (distribuidor oficial Bielorrusia, dongfeng.by) | desconocida |
