@@ -1926,7 +1926,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     autonomiaKm: null,
     autonomiaCiclo: null,
     bateriaKwh: null,
-    velocidadMax: null,
+    velocidadMax: 170,
     ceroCincuenta: null,
     pesoKg: 168,
     plazas: 2,

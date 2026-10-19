@@ -137,7 +137,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     autonomiaKm: null,
     autonomiaCiclo: null,
     bateriaKwh: null,
-    velocidadMax: null,
+    velocidadMax: 285,
     ceroCincuenta: null,
     pesoKg: 200,
     plazas: 2,
