@@ -12,6 +12,14 @@
 
 La cabina está en la N-550, pk 55,8, en Santiago de Compostela (A Coruña), coordenadas 42.91916, -8.491937. Vigila el sentido decreciente —vehículos hacia pks menores—, con destino A Coruña según el registro oficial. El enlace de Street View muestra el emplazamiento sobre la nacional.
 
+<iframe title="Mapa: radar n-550-55-8-decreciente-cabina" src="https://www.google.com/maps?q=42.91916,-8.491937&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-550-55-8-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.91916,-8.491937&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La N-550 es una carretera nacional de titularidad estatal y trazado convencional que une A Coruña con Tui por el interior gallego. La DGT la registra como «CARRETERA NACIONAL»: rige el régimen genérico de las convencionales. El documento no detalla el tramo, así que esta ficha no añade características.
