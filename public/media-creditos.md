@@ -1959,3 +1959,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/horwin-ht5-2025-ficha-tecnica-precio-hunt1.webp | https://www.horwin.eu/ | Horwin (foto oficial) | desconocida |
 | /media/horwin-ht5-2025-ficha-tecnica-precio-hunt2.webp | https://www.horwin.eu/ | Horwin (foto oficial) | desconocida |
 | /media/horwin-ht5-2025-ficha-tecnica-precio-hunt3.webp | https://onlyscooter.com/tiendas/motos-electricas/horwin/horwin-ht5/ | OnlyScooter (concesionario) | desconocida |
+| /media/jetour-x70-plus-2024-precio-ficha-tecnica-hunt1.webp | https://www.dailyrevs.com/cars/2024-jetour-x70-plus | DailyRevs (fotos de prensa Jetour) | desconocida |
+| /media/jetour-x70-plus-2024-precio-ficha-tecnica-hunt2.webp | https://www.dailyrevs.com/cars/2024-jetour-x70-plus | DailyRevs (fotos de prensa Jetour) | desconocida |
+| /media/jetour-x70-plus-2024-precio-ficha-tecnica-hunt3.webp | https://www.dailyrevs.com/cars/2024-jetour-x70-plus | DailyRevs (fotos de prensa Jetour) | desconocida |
+| /media/aixam-e-minauto-chic-2025-precio-ficha-tecnica-hunt1.webp | https://www.aixam.nl/nl/e-minauto/chic | Aixam / aixam.nl | desconocida |
+| /media/aixam-e-minauto-chic-2025-precio-ficha-tecnica-hunt2.webp | https://www.aixam.com/ms/minauto/ | Aixam / aixam.com | desconocida |
+| /media/aixam-e-minauto-chic-2025-precio-ficha-tecnica-hunt3.webp | https://www.aixam.it/ms/minauto/ | Aixam / aixam.it | desconocida |
+| /media/ford-explorer-phev-2023-hunt1.webp | https://1204.hu.dealer-preview.co/hirek/reszletek/1259/megerkezett-a-ford-explorer-plug-in-hybrid | Ford / web oficial de concesionario | desconocida |
+| /media/horwin-cr6-pro-2025-ficha-tecnica-precio-hunt1.webp | https://www.go2roues.com/shop/horwin-cr6-pro/ | Go2Roues (distribuidor Horwin) | desconocida |
+| /media/horwin-cr6-pro-2025-ficha-tecnica-precio-hunt2.webp | https://crmotos.com/nuevas/ | CR Motos | desconocida |
+| /media/horwin-cr6-pro-2025-ficha-tecnica-precio-hunt3.webp | https://si.adac.de/rund-ums-fahrzeug/zweirad/motorrad-roller/motorradkatalog/marken/horwin/horwin-cr6-pro-9495/ | ADAC (catálogo de motos) | desconocida |
+| /media/jetour-x70-pro-2024-precio-ficha-tecnica-hunt1.webp | https://target.westmotors.by/catalog-avto-china/jetour/x70-pro | Autohome (China) | desconocida |
+| /media/jetour-x70-pro-2024-precio-ficha-tecnica-hunt2.webp | https://www.elcarrocolombiano.com/tag/suv-siete-asientos/ | El Carro Colombiano / prensa | desconocida |
+| /media/jetour-x70-pro-2024-precio-ficha-tecnica-hunt3.webp | https://realcarimport.ru/catalog/tproduct/778862488762-jetour-x70-pro | Real Car Import / prensa | desconocida |
+| /media/zwheel-e9d-hunt1.webp | https://www.discoazul.it/patinete-electrico-zamelux-zwheel-e9d.html | DiscoAzul (tienda oficial) | desconocida |
+| /media/zwheel-e9d-hunt2.webp | https://www.aurgi.com/market/patinete-electrico-zwheel-e9d-max-400w-brushless-45km-autonomia-foco-led-alta-potencia | Aurgi | desconocida |
+| /media/zwheel-e9d-hunt3.webp | https://www.backmarket.ie/en-ie/p/zwheel-e9-d-zlion-x-electric-scooter/ccdece41-03ed-495a-a2ad-2af3d6a18ade | Back Market | desconocida |
+| /media/aixam-easy-chic-diesel-2025-precio-ficha-tecnica-hunt1.webp | https://www.rentago.it/blog/mondo-motori/microcar-e-minicar/ | Rentago.it | desconocida |
+| /media/aixam-easy-chic-diesel-2025-precio-ficha-tecnica-hunt2.webp | https://unimotor.es/vehiculo/aixam-city-pack-4/ | Unimotor | desconocida |
+| /media/aixam-easy-chic-diesel-2025-precio-ficha-tecnica-hunt3.webp | https://automoto.com.lv/lv/lietoti-auto/lietuva/aixam/2025 | Automoto.com.lv | desconocida |
+| /media/ford-ranger-ms-rt-2025-hunt1.webp | https://www.cars.co.za/motoring-news/will-ford-ranger-ms-rt-one-day-be-sold-in-sa/287585/ | Cars.co.za | desconocida |
+| /media/ford-ranger-ms-rt-2025-hunt2.webp | https://www.torquethailand.com/%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%B7%E0%B8%A7-%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%B1%E0%B8%9A-ford-ranger-ms-rt-at-bira-circuit-2025/ | Torque Thailand | desconocida |
+| /media/jetour-t1-i-dm-2025-precio-ficha-tecnica-hunt1.webp | https://www.webmotors.com.br/wm1/noticias/suvs-jetour-no-brasil-s06-t1-t2 | Webmotors | desconocida |
+| /media/jetour-t1-i-dm-2025-precio-ficha-tecnica-hunt2.webp | https://geekandlife.com.mx/2025/10/22/jetour-t1-i-dm-2026-llega-a-mexico-con-tecnologia-hibrida-enchufable-tech-autos/ | Geek and Life | desconocida |
+| /media/jetour-t1-i-dm-2025-precio-ficha-tecnica-hunt3.webp | https://visor.ph/media/photos-the-jetour-t1-i-dm-phev-compact-crossover-suv/ | Visor | desconocida |
