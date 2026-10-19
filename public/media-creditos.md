@@ -3299,3 +3299,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/benelli-leoncino-800-trail-2025-ficha-tecnica-precio-hunt1.webp | https://www.inmoto.it/listino-nuovo/marche/benelli/leoncino-800-trail | InMoto (listino Benelli) | desconocida |
 | /media/benelli-leoncino-800-trail-2025-ficha-tecnica-precio-hunt2.webp | https://www.inmoto.it/listino-nuovo/marche/benelli/leoncino-800-trail | InMoto (listino Benelli) | desconocida |
 | /media/benelli-leoncino-800-trail-2025-ficha-tecnica-precio-hunt3.webp | https://www.inmoto.it/listino-nuovo/marche/benelli/leoncino-800-trail | InMoto (listino Benelli) | desconocida |
+| /media/gotrax-g2-hunt1.webp | https://electrek.co/ (foto del artículo GOTRAX G2) | Electrek | desconocida |
+| /media/gotrax-g2-hunt2.webp | https://www.alphaproscooters.com/collections/kids-electric-scooters/products/g2-plus | Alpha Pro Scooters | desconocida |
+| /media/gotrax-g2-hunt3.webp | https://www.dealmoon.com/product/gotrax-gotrax-g2-commuting-electric-scooter/3925973 | DealMoon | desconocida |
+| /media/tesla-model-y-gran-autonomia-traccion-total-2026-precio-ficha-tecnica-hunt1.webp | https://www.worldautoevolution.com/ | World Auto Evolution | desconocida |
+| /media/tesla-model-y-gran-autonomia-traccion-total-2026-precio-ficha-tecnica-hunt2.webp | https://auto-live.fr/tesla-model-y-juniper-2025-production-europe/ | Auto-Live | desconocida |
+| /media/tesla-model-y-gran-autonomia-traccion-total-2026-precio-ficha-tecnica-hunt3.webp | https://www.yankodesign.com/2025/01/13/tesla-2025-model-y-juniper-a-design-evolution-that-bridges-futurism-with-familiarity/ | Yanko Design | desconocida |
+| /media/yangwang-byd-berlina-260000-euros-rolls-royce-hunt1.webp | https://paultan.org/2026/09/28/yangwang-teases-new-luxury-sedan-byds-rolls-royce-rival-to-feature-suicide-doors-solid-state-battery/ | Paul Tan's Automotive News (foto oficial Yangwang) | desconocida |
+| /media/yangwang-byd-berlina-260000-euros-rolls-royce-hunt2.webp | https://paultan.org/2026/09/28/yangwang-teases-new-luxury-sedan-byds-rolls-royce-rival-to-feature-suicide-doors-solid-state-battery/ | Paul Tan's Automotive News (foto oficial Yangwang) | desconocida |
+| /media/yangwang-byd-berlina-260000-euros-rolls-royce-hunt3.webp | https://paultan.org/2026/09/28/yangwang-teases-new-luxury-sedan-byds-rolls-royce-rival-to-feature-suicide-doors-solid-state-battery/ | Paul Tan's Automotive News (foto oficial Yangwang) | desconocida |
+| /media/razor-e100-hunt1.webp | https://Www.gearhungry.com/best-electric-scooters-for-k | GearHungry | desconocida |
+| /media/razor-e100-hunt2.webp | https://www.tienda24hs.com/Electric-scooter-Razor-E100- | tienda24hs | desconocida |
+| /media/razor-e100-hunt3.webp | https://www.groupon.com/deals/gg-mp-razor-13111231-e100 | Groupon | desconocida |
+| /media/rieju-e-tango-2025-ficha-tecnica-precio-hunt1.webp | https://www.xrmotos.es/inicio/2025-rieju-etango/ | XRMotos | desconocida |
+| /media/rieju-e-tango-2025-ficha-tecnica-precio-hunt2.webp | https://hoj.se/etango/ | Hoj (hoj.se) | desconocida |
+| /media/rieju-e-tango-2025-ficha-tecnica-precio-hunt3.webp | https://www.xrmotos.es/inicio/2025-rieju-etango/ | XRMotos | desconocida |
+| /media/toyota-highlander-2025-precio-ficha-tecnica-hunt1.webp | https://toyota.od.ua/models/highlander | Toyota Ucrania (toyota.od.ua) | desconocida |
+| /media/toyota-highlander-2025-precio-ficha-tecnica-hunt2.webp | https://www.Autoguide.com/auto/s-2025-toyota-highlander | AutoGuide | desconocida |
+| /media/toyota-highlander-2025-precio-ficha-tecnica-hunt3.webp | https://www.motordonkey.com/toyota/highlander | MotorDonkey | desconocida |
+| /media/citroen-c4-hibrido-2026-precio-ficha-tecnica-hunt1.webp | https://www.autocar.jp/post/1126779 | Autocar Japan | desconocida |
+| /media/citroen-c4-hibrido-2026-precio-ficha-tecnica-hunt2.webp | https://www.autocar.jp/photo/1250947 | Autocar Japan | desconocida |
+| /media/citroen-c4-hibrido-2026-precio-ficha-tecnica-hunt3.webp | https://www.dailyrevs.com/cars/2025-citroen-c4-hybrid-max | DailyRevs | desconocida |
+| /media/honda-gt-2026-precio-ficha-tecnica-hunt1.webp | https://en.actualidadmotor.com/nuevo-honda-gt-berlina-electrica/ | Actualidad Motor | desconocida |
+| /media/honda-gt-2026-precio-ficha-tecnica-hunt2.webp | https://www.carexpert.com.au/car-news/honda-gt-could-be-brands-first-rear-wheel-drive-fastback | CarExpert | desconocida |
+| /media/honda-gt-2026-precio-ficha-tecnica-hunt3.webp | https://www.carexpert.com.au/ | CarExpert | desconocida |
