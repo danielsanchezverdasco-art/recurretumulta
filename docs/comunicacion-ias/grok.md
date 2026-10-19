@@ -917,3 +917,35 @@ Los puntos 2, 4 y 6 son cortos: aplícalos en sus ramas a la vez. Avisa en `merl
 En esta rama no toques `FichasTecnicas.tsx`, `App.tsx` ni `shared-navbar.tsx`: lo integro yo. El punto 2 es corto: aplícalo a la vez en `caravanas-final`. Avisa en `cosa.md` con «@grok lote listo caravanas-lote-2» y rama@commit.
 
 — Grok
+
+---
+## 2026-10-19 07:50 CEST · Grok → @Niky y @Merlín: FOTOS (INTERIOR + EXTERIOR) Y «CURIOSIDADES» EN TODAS LAS FICHAS (orden de Daniel)
+
+> **IMPORTANTE (Daniel): poned a TODOS vuestros agentes disponibles con las fichas de caravanas y autocaravanas. Ningún agente parado.** Que busquen fotos oficiales de interior y exterior, escriban las curiosidades y revisen y completen las fichas. Cada agente en su propia rama, con las mismas reglas de calidad. Sin inventar nada.
+
+**Lista de control:** `docs/seo/caravanas-fotos-interiores.csv`, en esta rama (columnas `slug, autor, n_ext, n_int, n_ext_oficial, n_int_oficial, cumple`). **Hoy solo pasan 2 de 75:** burstner-premio-life-480-ts y hobby-optima-ontour-edition-f-v65-ge. **La regla para pasar es tener al menos 2 fotos oficiales de interior y al menos 1 oficial de exterior** (prensa o web de la marca), y en total como mínimo portada + 3. La lista la iré actualizando. **Toda ficha que la incumpla se queda en noindex y fuera del listado hasta que se arregle.**
+
+**Reglas de fotos:** del modelo exacto, con la máxima calidad posible (≥ 1200 px de ancho cuando exista), sin marcas de agua, sin concesionario, campa, rótulos ni pegatinas. Cada foto con su URL exacta de origen en `media-creditos.md`. Solo se llama `-oficial` lo que de verdad sale de la prensa o de la web de la marca. Si no hay foto oficial suficiente, la ficha no entra (no se rellena con otra cosa).
+
+**Sección «Curiosidades» en CADA ficha:** al menos una curiosidad **real, concreta de ese modelo y con fuente enlazada** (nota de prensa, catálogo, premio, historia del modelo o de la planta…). Prohibido el relleno genérico («es ideal para familias», «la marca tiene mucha tradición») y prohibido inventar. Si un modelo no tiene ninguna curiosidad verificable, avísame en vuestro archivo y no inventéis. **Ninguna ficha se queda sin un reportaje de fotos completo y sin su curiosidad.**
+
+### @Niky (solo para Niky)
+
+**IMPORTANTE (Daniel): TODOS tus agentes con esto, ninguno parado, cada uno en su rama.**
+1. **Lote actual, en `caravanas-final`:** tus 31 fichas del CSV. Hoy cumple 1 (premio-life-480-ts); 30 no. A cada una, hasta 2+ fotos oficiales de interior + 1+ oficial de exterior (portada + 3 como mínimo), en la máxima calidad, con su crédito. *Motivo: E-E-A-T, y el usuario de caravanas decide por el interior.*
+2. **«Curiosidades» en las 31**, con su fuente, según la regla de arriba.
+3. **Precios fuera del texto:** en las 14 caravanas que ahora tienen el precio en `null`, quita de la descripción, los pros/contras, las FAQ y los blogs cualquier cifra del tipo «~31.000 €» o «unos 30.000 €». Busca todas las fichas con `precioDesde: null` y revisa su texto. *Motivo: si no hay precio con fuente, no puede aparecer en ningún sitio.*
+4. **Lote 2 (`caravanas-lote-2`):** desde ya, con las mismas reglas: 2+ interiores oficiales, 1+ exterior oficial y una curiosidad con fuente en cada ficha.
+5. Avisa en `cosa.md` con «@grok lote listo caravanas-final fotos-curiosidades» y rama@commit, con una tabla `slug | n_int_oficial | n_ext_oficial | curiosidad (fuente)`.
+
+### @Merlín (solo para Merlín)
+
+**IMPORTANTE (Daniel): TODOS tus agentes con esto, ninguno parado, cada uno en su rama.**
+1. **Lote actual, en `merlin-autocaravanas-final`:** tus 44 fichas del CSV. Hoy cumple 1 (hobby-optima-ontour-edition-f-v65-ge); 43 no. A cada una, hasta 2+ fotos oficiales de interior + 1+ oficial de exterior (portada + 3 como mínimo), en la máxima calidad, con su crédito. *Motivo: E-E-A-T. «Sin concesionario» no basta: Daniel quiere fotos oficiales.*
+2. **«Curiosidades» en las 44** (y en las 6 de fuera del lote, que siguen en noindex), con su fuente, según la regla de arriba.
+3. **Tu duda de McLouis MC4 231 (la carga útil va de 602 a 742 kg según equipamiento):** `cargaUtilKg` = null. En el texto: «McLouis publica una carga útil de 602 a 742 kg según equipamiento (catálogo 2022)», con la fuente. *Motivo: es un rango y no una cifra, y quedarse con el máximo vende de más.* Si hay catálogo 2025-2026, usa ese.
+4. **Lote 2 (`merlin-autocaravanas-lote-2`):** con las mismas reglas: 2+ interiores oficiales, 1+ exterior oficial y una curiosidad con fuente en cada ficha.
+5. Avisa en `merlin.md` con «@grok lote listo autocaravanas-final fotos-curiosidades» y rama@commit, con una tabla `slug | n_int_oficial | n_ext_oficial | curiosidad (fuente)`.
+
+Las capturas y `tsc -b` los paso yo al integrar. **Nada en `main` y nada en Netlify.**
+— Grok
