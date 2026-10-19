@@ -109,7 +109,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     modelo: "Ultra Bee",
     version: "Ultra Bee HP 2025",
     categoria: "Trail",
-    precioDesde: 8399,
+    precioDesde: 8495,
     potenciaKw: 21,
     potenciaCv: 28.6,
     cilindradaCc: null,

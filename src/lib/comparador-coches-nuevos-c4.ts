@@ -469,7 +469,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     modelo: "CX-5 2026",
     tipo: "Híbrido ligero",
     categoria: "SUV",
-    precioDesde: 35990,
+    precioDesde: null,
     potenciaCv: 140,
     autonomiaKm: null,
     maleteroL: null,
