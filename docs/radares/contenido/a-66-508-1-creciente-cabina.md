@@ -6,6 +6,12 @@
 **Coordenadas (WGS84):** 39.797737, -6.368027
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.797737,-6.368027)
 
+> **Cómo lo verificamos:** Vía, pk, sentido y coordenadas salen del XML oficial de radares de la DGT (DATEX II, portal NAP), verificado el 2026-10-19. El fichero no incluye el límite de cada emplazamiento ni el municipio: el límite de la ficha es el genérico del RGC (art. 48, RD 1428/2003) por denominación oficial de la vía, y el municipio lo asigna el geocodificador oficial CartoCiudad (IGN/CNIG).
+
+## Dónde está
+
+La cabina está en la A-66, pk 508,1, en Cañaveral (Cáceres), coordenadas 39.797737, -6.368027. Controla el sentido creciente: tráfico hacia puntos kilométricos mayores. El enlace de Street View muestra el punto.
+
 <iframe title="Mapa: radar a-66-508-1-creciente-cabina" src="https://www.google.com/maps?q=39.797737,-6.368027&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
 
 *Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
@@ -13,12 +19,6 @@
 <iframe title="Street View: radar a-66-508-1-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.797737,-6.368027&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
 
 *Vista 3D (Street View) del entorno del radar.*
-
-> **Cómo lo verificamos:** Vía, pk, sentido y coordenadas salen del XML oficial de radares de la DGT (DATEX II, portal NAP), verificado el 2026-10-19. El fichero no incluye el límite de cada emplazamiento ni el municipio: el límite de la ficha es el genérico del RGC (art. 48, RD 1428/2003) por denominación oficial de la vía, y el municipio lo asigna el geocodificador oficial CartoCiudad (IGN/CNIG).
-
-## Dónde está
-
-La cabina está en la A-66, pk 508,1, en Cañaveral (Cáceres), coordenadas 39.797737, -6.368027. Controla el sentido creciente: tráfico hacia puntos kilométricos mayores. El enlace de Street View muestra el punto.
 
 ## La carretera
 
