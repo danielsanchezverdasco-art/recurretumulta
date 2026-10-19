@@ -1134,3 +1134,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/byd-qin-l-ev-2025-precio-ficha-tecnica-hunt1.webp | https://www.exp-byd.com/wp-content/uploads/2025/11/ef03046d7665459b8836002f5c7f32c32508x0-2048x1365.webp | exp-byd.com (página BYD Qin L EV) | desconocida |
 | /media/byd-qin-l-ev-2025-precio-ficha-tecnica-hunt2.webp | https://topictree.co.kr/wp-content/uploads/2025/02/BYD-Qin-L-EV-unveiled-6-768x512.jpg | Topictree (topictree.co.kr) | desconocida |
 | /media/byd-qin-l-ev-2025-precio-ficha-tecnica-hunt3.webp | http://automedia.ir/wp-content/uploads/2025/12/BYD-Qin-L-2.webp | Automedia.ir | desconocida |
+| /media/stelato-s9t-2026-precio-ficha-tecnica-hunt1.webp | https://i0.wp.com/evmagz.com/wp-content/uploads/2025/08/Stelato-S9T.jpg?resize=1024%2C577&ssl=1 | EVMagz (evmagz.com) | desconocida |
+| /media/stelato-s9t-2026-precio-ficha-tecnica-hunt2.webp | https://www.electrive.com/media/2025/09/stelato-s9t-2025.jpg | Electrive (electrive.com) | desconocida |
+| /media/stelato-s9t-2026-precio-ficha-tecnica-hunt3.webp | https://cnevpost.com/wp-content/uploads/2025/08/2025080409174373.jpg | CnEVPost | desconocida |
+| /media/byd-dolphin-g-dmi-active-2026-precio-ficha-tecnica-hunt1.webp | https://bydkarlik.pl/modele/dolphin-g-dm-i/ | BYD Karlik (concesionario oficial BYD, Polonia) | desconocida |
+| /media/byd-dolphin-g-dmi-active-2026-precio-ficha-tecnica-hunt2.webp | https://wrc.net.pl/mh-byd-dolphin-g-technologia-i-cena-nokautuja-rywali/ | wrc.net.pl (foto oficial BYD) | desconocida |
+| /media/byd-dolphin-g-dmi-active-2026-precio-ficha-tecnica-hunt3.webp | https://www.autohaus.de/mediathek/byd-dolphin-g-dm-i-2026-3807927 | Autohaus (foto oficial BYD) | desconocida |
+| /media/chery-fulwin-a9l-2025-precio-ficha-tecnica-hunt1.webp | https://carnewschina.com/2025/11/15/chery-launches-four-seater-fulwin-a9l-awd-boasting-over-2500-km-combined-range/ | CarNewsChina | desconocida |
+| /media/chery-fulwin-a9l-2025-precio-ficha-tecnica-hunt2.webp | https://carnewschina.com/2025/11/15/chery-launches-four-seater-fulwin-a9l-awd-boasting-over-2500-km-combined-range/ | CarNewsChina | desconocida |
+| /media/chery-fulwin-a9l-2025-precio-ficha-tecnica-hunt3.webp | https://wcevcar.com/en/car/chery-fulwin-a9l-2025 | wcevcar.com | desconocida |
+| /media/subaru-crosstrek-2025-precio-ficha-tecnica-hunt1.webp | https://news.herbgordonsubaru.com/article/2025-subaru-crosstrek-review | Subaru (foto oficial de marca) | desconocida |
+| /media/subaru-crosstrek-2025-precio-ficha-tecnica-hunt2.webp | https://news.herbgordonsubaru.com/article/2025-subaru-crosstrek-review | Subaru (foto oficial de marca) | desconocida |
+| /media/subaru-crosstrek-2025-precio-ficha-tecnica-hunt3.webp | https://rpmweb.ca/essais/essais-routiers/subaru-crosstrek-limited-2024-ce-que-quebec-veut | rpmweb.ca | desconocida |
+| /media/changan-e06-2026-precio-ficha-tecnica-hunt1.webp | https://electricvehicleweb.com/changan-e06/ | electricvehicleweb.com | desconocida |
+| /media/changan-e06-2026-precio-ficha-tecnica-hunt2.webp | https://moto.co.pl/nowy-colt-z-gazem-26796822.html | moto.co.pl | desconocida |
+| /media/changan-e06-2026-precio-ficha-tecnica-hunt3.webp | https://www.caroto.gr/2025/11/25/changan-e06-%CE%AD%CE%BD%CE%B1-%CE%BD%CE%AD%CE%BF-%CE%B7%CE%BB%CE%B5%CE%BA%CF%84%CF%81%CE%B9%CE%BA%CF%8C-suv-%CE%B3%CE%B9%CE%B1-%CF%84%CE%B7%CE%BD-%CE%B5%CF%85%CF%81%CF%8E%CF%80%CE%B7/ | caroto.gr | desconocida |
+| /media/changan-x5-plus-2025-precio-ficha-tecnica-hunt1.webp | https://www.dubicars.com/2025-changan-x5-plus-brand-new-changan-x5plus-2026-08l- | dubicars.com | desconocida |
+| /media/changan-x5-plus-2025-precio-ficha-tecnica-hunt2.webp | https://www.dubicars.com/2025-changan-x5-plus-964882.html | dubicars.com | desconocida |
+| /media/changan-x5-plus-2025-precio-ficha-tecnica-hunt3.webp | https://uae.icartea.com/en/car-prices/changan/changan-x5-plus/changan-x5-plus-20 | icartea.com | desconocida |
+| /media/byd-great-tang-2026-precio-ficha-tecnica-hunt1.webp | https://ev.motorwatt.com/ev-database/database-electric-cars/byd-great-tang | BYD / MotorWatt | desconocida |
+| /media/byd-great-tang-2026-precio-ficha-tecnica-hunt2.webp | https://cnevpost.com/2026/06/17/byd-launches-da-tang-ev/ | BYD / CnEVPost | desconocida |
+| /media/byd-great-tang-2026-precio-ficha-tecnica-hunt3.webp | https://cnevpost.com/2026/06/17/byd-launches-da-tang-ev/ | BYD / CnEVPost | desconocida |
+| /media/byd-dolphin-g-dmi-boost-2026-precio-ficha-tecnica-hunt1.webp | https://www.autonocion.com/prueba-byd-dolphin-g-dm-i/ | Autonoción | desconocida |
+| /media/byd-dolphin-g-dmi-boost-2026-precio-ficha-tecnica-hunt2.webp | https://www.autonocion.com/prueba-byd-dolphin-g-dm-i/ | Autonoción | desconocida |
+| /media/byd-dolphin-g-dmi-boost-2026-precio-ficha-tecnica-hunt3.webp | https://www.autonocion.com/prueba-byd-dolphin-g-dm-i/ | Autonoción | desconocida |
