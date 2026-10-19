@@ -12,6 +12,15 @@
 
 Este punto de control se sitúa en el **pk 190,6 de la N-301** (provincia de Cuenca, Castilla-La Mancha). Registra a los vehículos que marchan en **sentido creciente**, hacia pk crecientes. Cuenca es la provincia que figura en el fichero de la DGT para este punto; el término municipal concreto no se difunde. A 0,5 km hacia el sureste está el control más próximo, el de la **N-301, pk 191,2** (sentido decreciente). Le sigue en proximidad el de la **A-31, pk 11,6** (sentido creciente), situado a 19,9 km hacia el noreste. El entorno es el típico del interior peninsular: amplios horizontes y un tráfico que no entiende de pausas.
 
+<iframe title="Mapa: radar n-301-190-6-creciente-cabina" src="https://www.google.com/maps?q=39.29542,-2.37695&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-301-190-6-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.29542,-2.37695&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La vía es una nacional de la red estatal: la N-301 en Cuenca. Por esta carretera nacional circula un tráfico muy mezclado: mercancías, viajes de largo recorrido y desplazamientos cotidianos. La ubicación de la cabina no es casual: es un punto donde la velocidad suele dispararse. Entre los 3 radares publicados para la N-301 en la región, este es el segundo en orden de pk. Siguiendo por la N-301, el próximo punto con vigilancia es el del pk 191,2 (sentido decreciente), a 0,5 km hacia el sureste. La clave en esta vía: conducción atenta y velocidad siempre contenida. En resumen, una vía que exige lo esencial: atención, respeto a las señales y velocidad contenida.
