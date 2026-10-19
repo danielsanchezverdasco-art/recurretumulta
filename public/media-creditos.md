@@ -870,3 +870,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/bentley-continental-gtc-2026-precio-ficha-tecnica-hunt1.webp | https://carbookmagazine.com/2026/05/bentley-gtc-speed-goes-hybrid/ | CarBook Magazine (foto de prensa Bentley) | desconocida |
 | /media/bentley-continental-gtc-2026-precio-ficha-tecnica-hunt2.webp | https://www.bramanbentley.net/new/Bentley/2026-Bentley-Continental-GTC-d4a239d3ac18437cdf4a076db4d04db7.htm | Braman Bentley Miami | desconocida |
 | /media/bentley-continental-gtc-2026-precio-ficha-tecnica-hunt3.webp | https://www.postoakmotors.com/2026/Bentley/Continental-GTC/SCBDP4ZG8TC024928/ | Post Oak Motor Cars | desconocida |
+| /media/urban-glide-ride-100xs-hunt1.webp | https://urbanglide.com/wp-content/uploads/2022/10/RIDE-100XS.png | Urban Glide (web oficial) | desconocida |
+| /media/urban-glide-ride-100xs-hunt2.webp | https://urbanglide.com/wp-content/uploads/2022/06/RIDE-100XS-PLIAGE-1.png | Urban Glide (web oficial) | desconocida |
+| /media/urban-glide-ride-100xs-hunt3.webp | https://urbanglide.com/wp-content/uploads/2023/07/RIDE100XS_-1.png | Urban Glide (web oficial) | desconocida |
+| /media/lexus-lc-500-2024-precio-ficha-tecnica-hunt1.webp | https://sellatease.com/public-blog/lexus-unveils-the-2024-lexus-lc-500-inspiration-series-thats-limited-to-125-units/ | Sellatease | desconocida |
+| /media/lexus-lc-500-2024-precio-ficha-tecnica-hunt2.webp | https://www.topspeed.com/lexus/lc/2024/ | TopSpeed | desconocida |
+| /media/lexus-lc-500-2024-precio-ficha-tecnica-hunt3.webp | https://www.theautopian.com/2024-lexus-lc-500/ | The Autopian | desconocida |
+| /media/rolls-royce-cullinan-black-badge-2026-precio-ficha-tecnica-hunt1.webp | https://www.dailyrevs.com/cars/2025-rolls-royce-cullinan-black-badge-series-ii-gunmetal | desconocida |  |
+| /media/rolls-royce-cullinan-black-badge-2026-precio-ficha-tecnica-hunt2.webp | https://www.dailyrevs.com/cars/2025-rolls-royce-cullinan-black-badge-series-ii-gunmetal | desconocida |  |
+| /media/rolls-royce-cullinan-black-badge-2026-precio-ficha-tecnica-hunt3.webp | https://www.dailyrevs.com/cars/2025-rolls-royce-cullinan-black-badge-series-ii-gunmetal | desconocida |  |
+| /media/li-auto-mega-2026-precio-ficha-tecnica-hunt1.webp | https://paultan.org/image/2026/08/li-mega-9.jpg | Paul Tan / prensa | desconocida |
+| /media/li-auto-mega-2026-precio-ficha-tecnica-hunt2.webp | https://www.motortrend.com/files/67f85ccd98e2fe000897bc3c/068-2025-li-auto-mega.jpg | MotorTrend / prensa | desconocida |
+| /media/li-auto-mega-2026-precio-ficha-tecnica-hunt3.webp | https://kolesa-uploads.ru/r/880x/0534b03b-760f-4087-b268-ebebbb122af3/4-1.jpg | Kolesa.ru / prensa | desconocida |
+| /media/li-auto-l9-2026-precio-ficha-tecnica-hunt1.webp | https://ymimg1.b8cdn.com/uploads/article/17728/pictures/13715107/Li_Auto-2024-L9-Exterior-1.jpg | b8cdn / Comigo | desconocida |
+| /media/li-auto-l9-2026-precio-ficha-tecnica-hunt2.webp | https://carnewschina.com/wp-content/uploads/2026/05/e59bbee78987-55-e1778836967641_webhook_1500x900_q85_1778837665.jpg | CarNewsChina | desconocida |
+| /media/li-auto-l9-2026-precio-ficha-tecnica-hunt3.webp | https://img.hainaauto.com/vehicle/col_e4d835da1b9885d6.webp | XiaoTu Auto (Haina Auto) | desconocida |
+| /media/ligier-myli-2025-precio-ficha-tecnica-hunt1.webp | https://www.ligier.lt/product/naujos-myli/ | Ligier (prensa) / ligier.lt | desconocida |
+| /media/ligier-myli-2025-precio-ficha-tecnica-hunt2.webp | https://www.ligiergroup.ee/ | Ligier (prensa) / ligiergroup.ee | desconocida |
+| /media/ligier-myli-2025-precio-ficha-tecnica-hunt3.webp | https://www.autoscout24.com/ | Ligier (prensa) / AutoScout24 | desconocida |
+| /media/seat-leon-20-tdi-2026-precio-ficha-tecnica-hunt1.webp | https://www.seat.co.uk/about-seat/news-events/cars/all-new-seat-leon | SEAT (prensa oficial) / seat.co.uk | desconocida |
+| /media/seat-leon-20-tdi-2026-precio-ficha-tecnica-hunt2.webp | https://www.seat.co.uk/about-seat/news-events/cars/all-new-seat-leon | SEAT (prensa oficial) / seat.co.uk | desconocida |
+| /media/seat-leon-20-tdi-2026-precio-ficha-tecnica-hunt3.webp | https://www.seat.ch/ | SEAT (prensa oficial) / seat.ch | desconocida |
+| /media/seat-ateca-15-tsi-2026-precio-ficha-tecnica-hunt1.webp | https://motoryviajes.com/wp-content/uploads/2026/06/Seat_Ateca_1.5-TSI-150-cv_FR_junio_2026_01.jpg | Motor y Viajes (prueba SEAT Ateca FR 2026 1.5 TSI DSG) | desconocida |
+| /media/seat-ateca-15-tsi-2026-precio-ficha-tecnica-hunt2.webp | https://www.coches.net/km-0/seat/ateca/vizcaya/nuevo-15-tsi-110kw-150cv-stsp-fr-2026-gasolina-71366801-nuvn.aspx | coches.net (anuncio de concesionario, Ateca 2026 1.5 TSI) | desconocida |
+| /media/seat-ateca-15-tsi-2026-precio-ficha-tecnica-hunt3.webp | https://www.actualidadmotor.com/wp-content/uploads/2026/02/Seat-Ateca-FR-2026_2.jpeg | Actualidad Motor (prensa del motor) | desconocida |
