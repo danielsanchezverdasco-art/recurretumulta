@@ -12,6 +12,14 @@
 
 La cabina del **pk 29,0 de la A-66** opera en el Principado de Asturias sobre el **sentido decreciente**, que la DGT nombra como destino **SERÍN**: la calzada orientada al norte, hacia el entorno gijonés. Sus coordenadas la emplazan en las inmediaciones de Oviedo, por su costado occidental, allí donde la autovía organiza los accesos a la capital.
 
+<iframe title="Mapa: radar a-66-29-0-decreciente-cabina" src="https://www.google.com/maps?q=43.3555,-5.8283&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-66-29-0-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=43.3555,-5.8283&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 En la A-66 la kilometración progresa hacia el sur, hacia León; el sentido decreciente identifica, en consecuencia, el itinerario de regreso a la costa.
 
 ## La carretera
