@@ -11,6 +11,14 @@
 ## Dónde está
 
 La AG-53, pk 71,1, en San Cristovo de Cea (Ourense), cuenta con esta cabina: 42.471092, -8.027691. Vigila el sentido creciente —vehículos hacia pks mayores—, con destino Ourense según la DGT. Street View permite ver el emplazamiento.
+
+<iframe title="Mapa: radar ag-53-71-1-creciente-cabina" src="https://www.google.com/maps?q=42.471092,-8.027691&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar ag-53-71-1-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.471092,-8.027691&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
 ## La carretera
 
 La AG-53 es una autovía autonómica de la Xunta de Galicia. El XML de la DGT le asigna la singularidad «AUTOPISTA / AUTOVÍA», propia de la alta capacidad. El tramo del pk 71,1 no está detallado.
