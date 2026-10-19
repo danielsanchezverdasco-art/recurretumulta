@@ -166,6 +166,11 @@
     {
       "file": "scripts/campers-slugs.txt",
       "prefix": "/coches/"
+    },
+    {
+      "file": "scripts/slugs-autocaravanas.txt",
+      "prefix": "/autocaravanas/",
+      "nota": "Prefijo canonico hardcodeado por el componente AutocaravanasFicha.tsx; el routing aun no esta cableado en main @ c4c07716 (no hay <Route> para /autocaravanas/<slug>/ en src/App.tsx) — no regenerar el sitemap con esta entrada hasta que la ruta exista o las URLs darian 404."
     }
   ],
   "sitemapExclude": [
