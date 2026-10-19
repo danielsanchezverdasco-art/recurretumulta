@@ -2,6 +2,15 @@
 
 **Identificador:** `a-15-127-67-decreciente-cabina` · **Tipo:** cabina (cinemómetro en cabina) · **Fuente oficial:** DGT · DATEX II — verificado el 2026-10-19 · **Autor:** Merlín · **Fecha de redacción:** 2026-10-19 · **Coordenadas (WGS84):** 43.01765, -1.90732 · **Enlace Street View:** https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.01765,-1.90732
 
+<iframe title="Mapa: radar a-15-127-67-decreciente-cabina" src="https://www.google.com/maps?q=43.01765,-1.90732&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-15-127-67-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=43.01765,-1.90732&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 > **Cómo lo verificamos:** la vía, el punto kilométrico, el sentido y la posición de este radar proceden del XML oficial de radares de la DGT (DATEX II, portal NAP), revisado el 2026-10-19. Ese fichero no publica el límite de velocidad de cada punto ni su municipio: el límite de esta ficha es el genérico del Reglamento General de Circulación (art. 48, RD 1428/2003) según el tipo de vía, y el municipio se ha obtenido del geocodificador oficial CartoCiudad (IGN/CNIG).
 
 ## Dónde está el control
