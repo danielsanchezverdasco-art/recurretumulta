@@ -1,212 +1,28 @@
-// Autocaravanas Benimar — lote Merlín 3 (19/10/2026). Fusión de w1 + w2.
-// Autocaravanas Benimar — lote Merlín 3 (19/10/2026).
-// Fuentes: web oficial benimar.es (gama Tessoro 2027), catálogo oficial Benimar (PDF, agosto 2026),
-// Instagram oficial de Benimar (vía autoyas.com), ficha de concesionario Mundovan (Mileo 297),
-// ficha TruckScout24 (Mileo 297: dimensiones y mecánica), PDF motorvision.es (cama isla Mileo 297),
-// anuncio de concesionario roulot (referencia de precio Tessoro 440 UP). Verificado el 19/10/2026.
-// Notas honestas: Benimar no publica PVP en su web española; los precios quedan en null y
-// solo se citan referencias de concesionario en el texto con su fuente. La carga útil no se
-// publica para estos modelos y queda en null (prohibido calcularla).
-// Autocaravanas Benimar — lote Merlín 3 (19/10/2026).
-// Fuentes: review de Caravan Club con cifras de la literatura del fabricante
-// (https://www.caravanclub.co.uk/blog/product-and-outfit-reviews/motorhome-reviews/benimar-mileo-286/),
-// ficha de unidad 2016 en Gumtree (https://www.gumtree.com/p/campervans-motorhomes/2016-benimar-mileo-286-4-berth-4-belt-habcheck-inverter/1801632439),
-// web oficial de Benimar — gama Mileo (https://www.benimar.es/en/low-profile-motorhomes/),
-// CaravanTimes sobre la gama Mileo 2017 (https://www.caravantimes.co.uk/save%20for%20laters-brand/newsletter-the-all-new-benimar-mileo-from-marquis-leisure/).
-// Verificado el 19/10/2026.
-// NOTAS HONESTAS: el modelo asignado (benimar-first-332) no existe —sin resultados en
-// catálogos ni prensa— y se sustituye por el Benimar Mileo 286, modelo real y documentado.
-// Benimar no publica tarifa oficial para España: precioDesde queda en null. La potencia de
-// 180 CV y la caja automática de 9 velocidades corresponden a la variante 2.2 Multijet
-// (literatura del fabricante); las primeras unidades (2016) montaban el 2.3 de 150 CV manual
-// con MMA de 3.650 kg. La carga útil de 1.269 kg es la publicada por el fabricante en su
-// literatura (vía Caravan Club), no un cálculo. Fotos de anuncio de unidad real 2016
-// (modelo exacto, sin marcas de agua); resolución 768 px, la disponible.
+// Autocaravanas Euramobil — lote Merlín 3 (19/10/2026). Fusión de
+// comparador-autocaravanas-euramobil-m3-w4.ts y
+// comparador-autocaravanas-euramobil-m3-w5.ts.
+// Fuentes w4: guía de prensa 2027 de Eura Mobil (outandaboutlive.co.uk, con imágenes
+//   ©Eura Mobil), anuncios de distribuidores oficiales alemanes para unidades Profila T
+//   726 EF 2026 (dimensiones, motor, MMA, equipamiento y precios de distribuidor).
+// Fuentes w5: ficha técnica oficial Eura Mobil 2025 reproducida por Motorhomes & Caravans Ltd
+//   (motorhomesandcaravansltd.co.uk/product/contura-ct-766-eb-2025/), nota de prensa oficial
+//   Eura Mobil «European Innovation Award für den Contura» (euramobil.de/category/2021/),
+//   exposé de concesionario con datos técnicos (caraworld.de, ID cw26296545), anuncios de
+//   mobile.de para contraste. Verificado el 19/10/2026.
+// Notas honestas: Eura Mobil no publica PVP oficial en España: precioDesde queda en
+//   null y los precios de distribuidor alemán se citan solo como referencia con fuente.
+
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
-export const AUTOCARAVANAS_BENIMAR_M3: Autocaravana[] = [
+export const AUTOCARAVANAS_EURAMOBIL_M3: Autocaravana[] = [
   {
-    id: "benimar-mileo-297-2026-precio-ficha-tecnica",
-    marca: "Benimar",
-    modelo: "Mileo 297",
+    id: "euramobil-profila-t-726-ef-2026-precio-ficha-tecnica",
+    marca: "Euramobil",
+    modelo: "Profila T 726 EF",
     tipo: "perfilada",
     categoria: "Autocaravana",
-    precioDesde: null, // Benimar no publica PVP en España; null = «no publicado»
-    potenciaCv: 140,
-    autonomiaKm: null,
-    maleteroL: null,
-    ceroCien: null,
-    velocidadMax: null,
-    bateriaKwh: null,
-    cargaRapidaKw: null,
-    etiquetaDgt: "C",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
-    garantiaBateriaDegradacionPct: null,
-    imagen: "/media/benimar-mileo-297-2026-precio-ficha-tecnica-oficial.webp",
-    imagenOficial: "/media/benimar-mileo-297-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/benimar-mileo-297-2026-precio-ficha-tecnica-interior1.webp",
-    videoId: null,
-    videoCanal: null,
-    largoMm: 7390, // TruckScout24, ficha de unidad 2026
-    anchoMm: 2300, // TruckScout24, ficha de unidad 2026
-    altoMm: 2890, // TruckScout24, ficha de unidad 2026
-    pesoKg: null,
-    mmaKg: 3500, // TruckScout24, ficha de unidad 2026
-    carnetNecesario: "B",
-    cargaUtilKg: null, // la marca no la publica en la documentación consultada
-    consumo: null,
-    consumoUnidad: null,
-    plazas: 4,
-    plazasDormir: 4,
-    parNm: null,
-    traccion: "delantera", // Fiat Ducato, declarada por el fabricante base
-    emisionesCo2: null,
-    aprox: [],
-    notas:
-      "Dimensiones 7390 x 2300 x 2890 mm y MMA 3500 kg de la ficha de una unidad 2026 en TruckScout24 (Fiat Ducato 2.2 de 140 CV, cambio manual o automático). Cama isla de 150 cm de ancho regulable en altura (PDF motorvision.es) y cama de techo eléctrica de 2 plazas (TruckScout24). Modelo verificado en la gama 2026: publicación oficial de Benimar en Instagram (vía autoyas.com) y ficha de concesionario Mundovan. Precio: null (Benimar no publica tarifa ES); Mundovan anuncia una unidad en 87.723 € como referencia de concesionario. Carga útil y consumo: null (sin dato oficial).",
-    curiosidades:
-      "La cama isla trasera del Mileo 297 mide 150 cm de ancho —como una cama de matrimonio— y se regula en altura manualmente para dejar más o menos garaje debajo según lo que se lleve en cada viaje. Fuente: http://m.motorvision.es/pdf/generados/w0157658w.pdf",
-    descripcion: `La Benimar Mileo 297 es la perfilada española que mejor resume lo que pide el mercado nacional en 2026: cama isla de verdad, cuatro plazas de viaje y cuatro de noche, y unas medidas contenidas de 7,39 metros que no asustan a quien aparca en el pueblo. Benimar, que fabrica en Peñíscola (Castellón), juega en casa con este modelo, y se nota en una distribución pensada para el uso real de las familias españolas más que para el folleto.
-
-    Con 7.390 mm de largo, 2.300 mm de ancho y 2.890 mm de alto según la ficha de una unidad 2026 publicada en TruckScout24, la 297 se sitúa justo por debajo de la barrera psicológica de los siete metros y medio. La masa máxima autorizada es de 3.500 kg, así que basta el carnet B, y la base es el Fiat Ducato 2.2 de 140 CV, disponible con cambio manual o automático, con tracción delantera. Es la mecánica más extendida del sector en Europa: cualquier taller de furgones la conoce, los repuestos son baratos y la reventa no sufre.
-
-    El corazón de la ficha es el dormitorio: una cama isla de 150 cm de ancho —la medida de una cama de matrimonio— que se regula en altura manualmente. Ese detalle cambia la vida a bordo más de lo que parece: si el viaje es de playa, se sube la cama y el garaje traga tablas, sillas y la nevera de exterior; si es de invierno, se baja y se gana comodidad para entrar y salir de la cama. La segunda cama es la del techo, eléctrica y de dos plazas, que se despliega sobre el salón sin robar ni un centímetro de día. Entre las dos suman cuatro plazas de noche honestas, y las cuatro plazas de viaje hacen el resto para una familia con dos niños.
-
-    El salón delantero, con los asientos de cabina giratorios, da juego para comer, jugar a las cartas o teletrabajar una mañana de lluvia, y la cocina viene dimensionada para cocinar de verdad, no solo para calentar. El baño completo con ducha separada evita el apaño de la ducha sobre el WC que todavía se ve en campers baratos. En conjunto, es una célula luminosa y bien ventilada, con la claraboya delantera aportando la luz que las perfiladas necesitan para no parecer un pasillo.
-
-    Del precio, la honestidad que exige el brief: Benimar no publica PVP en su web española, así que el campo queda en null. Como referencia de mercado, el concesionario Mundovan anuncia una unidad del Mileo 297 en 87.723 euros; es el precio de un concesionario concreto con su equipamiento concreto, no una tarifa oficial, y sirve como orden de magnitud. Lo sensato es pedir presupuesto cerrado en dos o tres concesionarios Benimar —la marca tiene red en toda España— con el pack de chasis, el toldo, la placa solar y la batería auxiliar desglosados, porque ahí es donde se gana o se pierde dinero.
-
-    En el uso cotidiano, la Mileo 297 se defiende con argumentos que solo se aprecian viviéndola: la cama isla permite levantarse sin pasar por encima de la pareja, la cocina con sus fuegos y su horno —según equipamiento— invita a cocinar en ruta en lugar de tirar de bocadillos, y el baño con ducha separada convierte una semana de viaje en algo sostenible y no en un campamento. Los armarios altos y el garaje bajo la cama absorben la ropa de cuatro sin que la célula parezca un trastero, y la regulación en altura de la cama isla se convierte en el ajuste que se hace en cada viaje según lo que se cargue debajo.
-
-    ¿Para quién es? Para la familia española de cuatro que quiere su primera autocaravana «de verdad» sin irse a ocho metros ni a presupuestos alemanes; para la pareja que viaja mucho y valora la cama isla regulable y el servicio postventa nacional; y para quien compra pensando en la reventa, porque Benimar es la marca española más líquida en ocasión. No es para quien necesita cinco plazas de viaje, ni para quien busca una integral con su parabrisas panorámico, ni para quien hace mucha montaña en invierno y prefiere calefacción de gasóleo (aquí manda el gas, como en la mayoría del segmento).
-
-    Cómo lo verificamos: la existencia del Mileo 297 en la gama 2026 se comprobó en la publicación oficial de Benimar en Instagram (recogida por autoyas.com) y en la ficha del concesionario Mundovan. Las dimensiones, la MMA y la mecánica proceden de la ficha de una unidad 2026 en TruckScout24. La cama isla de 150 cm regulable en altura consta en el PDF de motorvision.es. El precio español queda en null porque Benimar no lo publica; la referencia de Mundovan se cita como precio de concesionario con su fuente. Datos verificados el 19/10/2026.`,
-    pros: [
-      "Cama isla de 150 cm regulable en altura: dormitorio de matrimonio y garaje a la carta",
-      "7,39 metros y 3.500 kg: carnet B y maniobrabilidad de perfilada contenida",
-      "Fiat Ducato 2.2 de 140 CV manual o automático: la mecánica más común y barata de mantener",
-      "Cama de techo eléctrica de 2 plazas: 4 plazas de noche sin tocar el salón de día",
-      "Fabricada en España por Benimar: red nacional de concesionarios y buena liquidez en ocasión",
-    ],
-    contras: [
-      "Benimar no publica precio oficial: el PVP depende del concesionario y su equipamiento",
-      "140 CV para 3,5 toneladas: suficiente, pero sin alegrías en puertos con carga completa",
-      "La cama de techo eléctrica resta altura libre en el salón cuando está desplegada",
-      "Calefacción a gas como la mayoría del segmento: quien inverna mucho echará en falta el gasóleo",
-      "7,39 metros se notan en pueblos con calles estrechas frente a un camper de 6 metros",
-    ],
-    opiniones: [],
-    galeria: [
-      { src: "/media/benimar-mileo-297-2026-precio-ficha-tecnica-oficial.webp", alt: "Benimar Mileo 297, vista exterior", ancho: 1536, alto: 818 },
-      { src: "/media/benimar-mileo-297-2026-precio-ficha-tecnica-interior1.webp", alt: "Benimar Mileo 297, interior", ancho: 600, alto: 800 },
-      { src: "/media/benimar-mileo-297-2026-precio-ficha-tecnica-interior2.webp", alt: "Benimar Mileo 297, interior", ancho: 600, alto: 800 },
-      { src: "/media/benimar-mileo-297-2026-precio-ficha-tecnica-detalle.webp", alt: "Benimar Mileo 297, detalle", ancho: 600, alto: 800 },
-    ],
-    analisisSlug: "benimar-mileo-297-2026-analisis-opinion",
-    planMantenimiento: {
-      intervalo: "Base Fiat Ducato: revisión cada 2 años o 40.000 km (según plan del fabricante)",
-      revisiones: [
-        { nombre: "Revisión base (Ducato)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
-        { nombre: "Revisión célula Benimar (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },
-      ],
-    },
-  },
-  {
-    id: "benimar-tessoro-440-up-2026-precio-ficha-tecnica",
-    marca: "Benimar",
-    modelo: "Tessoro 440 UP",
-    tipo: "perfilada",
-    categoria: "Autocaravana",
-    precioDesde: null, // Benimar no publica PVP en España; null = «no publicado»
-    potenciaCv: 165,
-    autonomiaKm: null,
-    maleteroL: null,
-    ceroCien: null,
-    velocidadMax: null,
-    bateriaKwh: null,
-    cargaRapidaKw: null,
-    etiquetaDgt: "C",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
-    garantiaBateriaDegradacionPct: null,
-    imagen: "/media/benimar-tessoro-440-up-2026-precio-ficha-tecnica-oficial.webp",
-    imagenOficial: "/media/benimar-tessoro-440-up-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/benimar-tessoro-440-up-2026-precio-ficha-tecnica-interior1.webp",
-    videoId: null,
-    videoCanal: null,
-    largoMm: 6340, // catálogo oficial Benimar (T440 UP, 6,34 m)
-    anchoMm: 2320, // catálogo oficial Benimar
-    altoMm: 2890, // catálogo oficial Benimar
-    pesoKg: null,
-    mmaKg: 3500,
-    carnetNecesario: "B",
-    cargaUtilKg: null, // la marca no la publica en la documentación consultada
-    consumo: null,
-    consumoUnidad: null,
-    plazas: 4,
-    plazasDormir: 4,
-    parNm: null,
-    traccion: "delantera", // Ford Transit, declarada por el fabricante base
-    emisionesCo2: null,
-    aprox: [],
-    notas:
-      "Dimensiones 6340 x 2320 x 2890 mm del catálogo oficial Benimar (agosto 2026): la T440 UP es una «perfilada de 6,34 m». MMA 3500 kg. Motor Ford Transit 2.0 de 165 CV, 4 plazas de viaje y 4 de noche, cama eléctrica basculante, ducha independiente y frigorífico de 150 l (publicación oficial de Benimar en Instagram). Modelo verificado en la gama oficial benimar.es 2027 (T440UP). Precio: null (Benimar no publica tarifa ES); el concesionario roulot anuncia una unidad en 75.595 € como referencia. Carga útil y consumo: null (sin dato oficial).",
-    curiosidades:
-      "Con sus 6,34 metros, la Tessoro 440 UP es la más corta de la gama UP, la familia de Benimar caracterizada por la cama basculante eléctrica sobre el salón y el garaje trasero de volumen regulable. Fuente: catálogo oficial Benimar (agosto 2026) y web oficial benimar.es.",
-    descripcion: `La Benimar Tessoro 440 UP es la prueba de que una perfilada no necesita siete metros para dormir a cuatro personas con dignidad. Con 6,34 metros de largo según el catálogo oficial Benimar de agosto de 2026, es la más corta de la gama UP —la familia de la marca definida por la cama basculante eléctrica—, y su truco es tan simple como eficaz: de día es un salón amplio con garaje trasero, de noche la cama eléctrica baja del techo y el dormitorio aparece sin mover un solo cojín.
-
-    Las medidas oficiales son 6.340 mm de largo, 2.320 mm de ancho y 2.890 mm de alto, con una MMA de 3.500 kg que permite conducirla con el carnet B. Son cifras que la colocan en el territorio de los campers grandes más que en el de las perfiladas clásicas, y esa es precisamente su gracia: maniobra, aparca y consume como un vehículo de 6,3 metros, pero por dentro vive como una autocaravana de verdad, con baño con ducha independiente y cocina completa. El garaje trasero, de volumen regulable, traga las bicicletas y el material de playa sin invadir la célula.
-
-    La base es el Ford Transit 2.0 de 165 CV, la opción más potente de esta ficha y una de las mecánicas más agradecidas del segmento: empuja con solvencia los 3.500 kg, recupera bien en carretera y la red de Ford atiende furgones en cualquier provincia. La tracción es delantera, como en casi todo el segmento. El equipamiento de la serie UP incluye la cama basculante eléctrica de dos plazas sobre el salón, cuatro plazas de viaje y cuatro de noche, ducha independiente del WC y un frigorífico de 150 litros, la capacidad que marca la diferencia entre hacer la compra cada día o cada tres.
-
-    La cama basculante merece un párrafo propio porque es el corazón del concepto UP: durante el día descansa pegada al techo y el salón respira con toda su altura libre; por la noche baja con un botón y se convierte en una cama doble de verdad, sin transformar el comedor ni pelearse con cojines. Para una pareja es el dormitorio principal sin renuncias; para una familia, la plaza de los niños mientras los padres usan la cama trasera. El único peaje es mecánico: como todo sistema eléctrico, conviene revisarlo en la puesta a punto anual y no forzarlo nunca a mano.
-
-    Del precio, lo mismo que en toda la gama Benimar: la marca no publica PVP en su web española y el campo queda en null. Como referencia de mercado, el concesionario roulot anuncia una unidad de la Tessoro 440 UP en 75.595 euros; es un precio de concesionario con su equipamiento, no una tarifa oficial, pero sitúa el modelo claramente por debajo de las perfiladas de siete metros y medio. La recomendación es pedir presupuesto cerrado en varios concesionarios de la red Benimar con los packs desglosados —toldo, placa solar, batería auxiliar, cámara trasera—, porque en este escalón de precio los opcionales deciden la factura final.
-
-    En la práctica, los 6,34 metros se traducen en una autocaravana que entra en parkings de supermercado con paciencia, que no obliga a reservar parcela grande en los campings y que en carretera secundaria se comporta casi como un furgón grande. El consumo, sin dato oficial que citar, se beneficia de la aerodinámica contenida y del peso ajustado de la gama Tessoro, y los 165 CV del Transit hacen que los puertos se suban sin reducir a tercera ni ver cómo te adelantan los camiones. Es el formato ideal para escapadas de fin de semana improvisadas: se carga en una tarde y se aparca en la puerta de casa sin pedir permiso al barrio.
-
-    ¿Para quién es? Para la pareja que quiere una autocaravana completa sin cargar con siete metros y medio; para la familia con dos niños que duermen en la basculante mientras los padres disfrutan de la cama trasera; y para quien aparca en ciudad o en parcelas pequeñas y cada metro cuenta. No es para quien exige cama isla fija (aquí la cama principal es la basculante), ni para quien necesita cinco plazas de viaje, ni para quien desconfía de los mecanismos eléctricos y prefiere la simplicidad de una cama fija.
-
-    Cómo lo verificamos: la existencia de la T440 UP en la gama oficial se comprobó en benimar.es (gama Tessoro 2027) y en el catálogo oficial Benimar de agosto de 2026, que la describe como «perfilada de 6,34 m». Las dimensiones proceden de ese catálogo. El motor Ford de 165 CV, las 4 plazas, la cama eléctrica basculante, la ducha independiente y el frigorífico de 150 l constan en la publicación oficial de Benimar en Instagram. El precio español queda en null porque Benimar no lo publica; la referencia de roulot se cita como precio de concesionario con su fuente. Datos verificados el 19/10/2026.`,
-    pros: [
-      "6,34 metros: la perfilada completa más corta de su gama, fácil de aparcar y maniobrar",
-      "Cama basculante eléctrica: dormitorio doble sin transformar el salón ni mover cojines",
-      "Ford Transit 2.0 de 165 CV: la mecánica más potente de la ficha, con red de talleres en toda España",
-      "Baño con ducha independiente y frigo de 150 l: equipamiento de autocaravana grande en formato compacto",
-      "Garaje trasero de volumen regulable para bicis y material deportivo",
-    ],
-    contras: [
-      "Benimar no publica precio oficial: el PVP lo pone cada concesionario",
-      "Sin cama isla ni camas gemelas fijas: la cama principal es la basculante eléctrica",
-      "El mecanismo de la cama eléctrica exige mantenimiento y no admite forzarla a mano",
-      "Con la cama bajada, la altura libre del salón se reduce: madrugadores, avisados",
-      "165 CV invitan a correr, pero con 3.500 kg y 2,89 m de alto la prudencia sigue mandando",
-    ],
-    opiniones: [],
-    galeria: [
-      { src: "/media/benimar-tessoro-440-up-2026-precio-ficha-tecnica-oficial.webp", alt: "Benimar Tessoro 440 UP, vista exterior", ancho: 1920, alto: 1279 },
-      { src: "/media/benimar-tessoro-440-up-2026-precio-ficha-tecnica-interior1.webp", alt: "Benimar Tessoro 440 UP, interior", ancho: 1920, alto: 1440 },
-      { src: "/media/benimar-tessoro-440-up-2026-precio-ficha-tecnica-interior2.webp", alt: "Benimar Tessoro 440 UP, interior", ancho: 1024, alto: 576 },
-      { src: "/media/benimar-tessoro-440-up-2026-precio-ficha-tecnica-detalle.webp", alt: "Benimar Tessoro 440 UP, detalle", ancho: 1024, alto: 682 },
-    ],
-    analisisSlug: "benimar-tessoro-440-up-2026-analisis-opinion",
-    planMantenimiento: {
-      intervalo: "Base Ford Transit: revisión cada 2 años o 40.000 km (según plan del fabricante)",
-      revisiones: [
-        { nombre: "Revisión base (Transit)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
-        { nombre: "Revisión célula Benimar (anual recomendada)", queSeCambia: "Estanqueidad, gas, cama basculante, humedades", costeAproxEur: 250 },
-      ],
-    },
-  },
-  {
-    id: "benimar-mileo-286-2026-precio-ficha-tecnica",
-    marca: "Benimar",
-    modelo: "Mileo 286",
-    tipo: "perfilada",
-    categoria: "Autocaravana",
-    precioDesde: null, // Benimar no publica tarifa oficial para España
-    potenciaCv: 180, // 2.2 Multijet 180 CV (variante 2021+); las 2016 llevaban el 2.3 de 150 CV
+    precioDesde: null, // Eura Mobil no publica PVP oficial en España
+    potenciaCv: 170, // Mercedes Sprinter 2.0 de 125 kW (fichas de distribuidor)
     autonomiaKm: null,
     maleteroL: null,
     ceroCien: null,
@@ -217,101 +33,159 @@ export const AUTOCARAVANAS_BENIMAR_M3: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/benimar-mileo-286-2026-precio-ficha-tecnica-oficial.webp",
-    imagenOficial: "/media/benimar-mileo-286-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/benimar-mileo-286-2026-precio-ficha-tecnica-interior1.webp",
+    imagen: "",
+    imagenOficial: "",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
-    largoMm: 6950, // 6,95 m según literatura del fabricante (vía Caravan Club)
-    anchoMm: 2300,
-    altoMm: 2890, // 2,89 m; Benimar anuncia perfiladas de 289 cm de altura
-    pesoKg: 3131, // MRO según literatura del fabricante
-    mmaKg: 4400, // MTPLM; las unidades 2016 se matriculaban en 3.650 kg
-    carnetNecesario: "C1", // mmaKg > 3500
-    cargaUtilKg: 1269, // «user payload» publicado por el fabricante en su literatura (vía Caravan Club)
+    largoMm: 7441, // mobile.de (unidad 2026): 7.441 mm; el distribuidor anota 7.450 mm
+    anchoMm: 2330, // fichas de distribuidor: 2.330 mm
+    altoMm: 2920, // fichas de distribuidor: 2.920 mm
+    pesoKg: null,
+    mmaKg: 4500, // fichas de distribuidor: 4.500 kg
+    carnetNecesario: "C1", // MMA 4500 kg > 3500 kg
+    cargaUtilKg: null, // la marca no la publica; prohibido calcularla
     consumo: null,
     consumoUnidad: null,
-    plazas: 4,
-    plazasDormir: 4, // cama basculante eléctrica doble + salón convertible
-    parNm: 450, // 450 Nm entre 1.500 y 1.750 rpm (2.2 Multijet 180 CV)
-    traccion: "delantera",
+    plazas: 4, // salón cara a cara con 4 plazas de viaje (prensa especializada)
+    plazasDormir: 4, // camas individuales traseras + plazas complementarias (distribuidor: 4 camas)
+    parNm: null,
+    traccion: null, // la marca no lo declara en las fuentes consultadas
     emisionesCo2: null,
     aprox: [],
     notas:
-      "Motor 2.2 Multijet de 180 CV con cambio automático de 9 velocidades y 450 Nm según la literatura del fabricante recogida por Caravan Club (MRO 3.131 kg, MTPLM 4.400 kg, 6,95 x 2,30 x 2,89 m, depósito de 90 l). Las primeras unidades del modelo (2016) se vendían con el 2.3 Multijet de 150 CV manual y MMA de 3.650 kg, según ficha de distribuidor. La carga útil de 1.269 kg es la cifra de «user payload» publicada por el fabricante, no un cálculo. Quedan en null: precio oficial en España (Benimar no publica tarifa), consumo, emisiones de CO2 y autonomía.",
+      "Modelo 2026 verificado en anuncios de distribuidores oficiales alemanes (Reisemobile Dülmen, MS-Reisemobile Münster): Mercedes Sprinter 2.0 de 125 kW (170 CV), cambio automático 9G-Tronic, 7.441 mm de largo, 2.330 mm de ancho, 2.920 mm de alto y MMA de 4.500 kg. " +
+      "Distribución EF: camas individuales traseras de más de 2 m, salón cara a cara y baño con zona de vestidor (guía de prensa Eura Mobil 2027, outandaboutlive.co.uk). " +
+      "Construcción: doble suelo calefactado, paneles GRP sin madera y calefacción de agua caliente Alde (prensa). " +
+      "Precio null en España: Eura Mobil no publica tarifa ES; como referencia, los distribuidores alemanes anuncian unidades 2026 Comfort Level Edition en torno a 129.850-129.950 €. " +
+      "Discrepancia menor: un anuncio (modix) anota 3 plazas para dormir frente a 4 en la mayoría de fichas; se adopta 4 y se declara aquí. " +
+      "Sin fotos: el servicio de lectura web y el buscador de imágenes fallaron reiteradamente el 19/10/2026; queda pendiente que el coordinador las aporte.",
     curiosidades:
-      "Desde la temporada 2017, toda la gama Mileo se fabrica con construcción completamente sin madera («wood free»), una decisión de Benimar para proteger mejor la célula de la humedad y las filtraciones. Fuente: CaravanTimes, «The all new Benimar Mileo» (https://www.caravantimes.co.uk/save%20for%20laters-brand/newsletter-the-all-new-benimar-mileo-from-marquis-leisure/).",
-    descripcion: `La Benimar Mileo 286 es una autocaravana perfilada de 6,95 metros que resume muy bien por qué la marca de Peñíscola se ha ganado fama de ofrecer la mejor relación calidad-precio del mercado europeo. Pertenece a la gama Mileo, la familia de perfiladas sobre chasis Fiat Ducato con la que Benimar ataca el segmento medio: ni la más barata ni la más lujosa, pero con un equipamiento de serie tan completo que en otros fabricantes habría que pagarlo como un largo listado de extras. La 286 es, dentro de esa gama, la versión pensada para parejas que quieren viajar con desahogo y recibir invitados de vez en cuando sin renunciar a una cama siempre hecha.
+      "La gama Profila T existe también en versión «Freestyle»: el mismo concepto Mercedes pero aligerado hasta 3.500 kg de MMA sobre chasis Al-Ko optimizado, de modo que puede conducirse con el carnet B sin renunciar a las camas individuales traseras (fuente: guía de prensa Eura Mobil 2027, https://www.outandaboutlive.co.uk/motorhomes/news/buying-advice/eura-mobil-motorhomes-and-campervans-2027-essential-guide, consultada el 19/10/2026).",
+    descripcion: `El Euramobil Profila T 726 EF es la perfilada alemana para quien no quiere oír hablar de compromisos: chasis Mercedes Sprinter, 170 CV con cambio automático de 9 velocidades, 4.500 kg de MMA y una célula construida como las grandes —doble suelo calefactado, paneles sin madera y calefacción de agua caliente Alde—. Eura Mobil lleva décadas en el segmento medio-alto alemán y la Profila T es su superventas: la perfilada de los que viajan mucho, en cualquier estación, y quieren que el vehículo aguante el ritmo durante años.
 
-    En medidas, la 286 se mueve en el punto dulce de las perfiladas familiares: 6,95 metros de largo, 2,30 de ancho y 2,89 de alto. Son cotas que permiten aparcarla y maniobrar con ella sin el respeto que imponen las integrales de ocho metros, pero con un interior que no se siente estrecho. La altura de 289 centímetros —la que Benimar anuncia para sus perfiladas— deja una sensación de amplitud notable en el salón y permite una cama basculante de techo con recorrido generoso. El peso también está bien resuelto: la masa en orden de marcha declarada por el fabricante es de 3.131 kg y la masa máxima autorizada de 4.400 kg, lo que deja una carga útil teórica de 1.269 kg, una cifra muy holgada para llevar bicicletas, toldo, menaje completo y depósitos llenos sin ir justo. Ojo, eso sí: con 4.400 kg de MMA hace falta el carnet C1; las primeras unidades de 2016 se matriculaban en 3.650 kg (también C1 en la práctica británica, pero rebajables a 3.500 kg), así que conviene comprobar la ficha técnica de cada unidad concreta antes de comprar de ocasión.
+En medidas y habitabilidad, las fichas de los distribuidores para unidades 2026 anotan 7.441 mm de largo, 2.330 mm de ancho y 2.920 mm de alto, con una MMA de 4.500 kg que exige el carnet C1. Son cotas de perfilada grande, y se notan para bien dentro: la distribución EF combina un salón cara a cara —dos banquetas enfrentadas que la prensa destaca por su sensación de amplitud— con camas individuales traseras de poco más de dos metros de largo, un gran garaje bajo ellas y un baño que puede cerrarse para formar una zona de vestidor independiente. Es la implantación clásica centroeuropea para parejas exigentes: cada uno tiene su cama, su armario y su lado, sin tener que deshacer nada por la mañana, y el salón cara a cara invita a las sobremesas largas que en una dinette lateral no caben.
 
-    La distribución es el gran argumento de la 286. Delante, un salón amplísimo con sofá doble en L, otro sofá doble lateral y los dos asientos de cabina giratorios, con mesa exenta que se monta en el centro: caben cuatro adultos a comer con comodidad real, no de mentirijilla. Detrás del salón, la cocina está sorprendentemente equipada para una perfilada de este precio: horno, grill, dos fuegos de gas más una placa eléctrica, microondas, frigorífico grande con congelador independiente y hasta cajón botellero. El baño, con ducha separada, cumple sin agobios, y al fondo hay un garaje de buen tamaño, algo que no todas las perfiladas de menos de siete metros pueden decir. La cama principal es una gran cama doble basculante eléctrica situada en el centro del vehículo: baja con solo pulsar un botón y no hay que hacerla ni deshacerla cada día, que es justo lo que buscan las parejas viajeras. Las otras dos plazas salen del salón convertible.
+En tecnología y equipamiento, la Profila T 726 EF juega en otra liga respecto a las perfiladas de entrada. La construcción incluye doble suelo aislado y calefactado de 30 cm —el secreto para viajar en invierno sin que los pies se congelen—, paneles de carrocería en GRP sin madera (no hay madera que se pudra si entra humedad) y calefacción de agua caliente Alde, el sistema por radiadores que los caravanistas del norte consideran el mejor para el frío serio. El paquete Mondial para Mercedes añade los asientos Captain Chair de Aguti, la integración de smartphone con carga inalámbrica, el climatizador de cabina, el techo panorámico practicable Sun Roof, la claraboya Heki y la preinstalación solar, entre otros. Las unidades 2026 Comfort Level Edition que anuncian los distribuidores suman además batería de litio, toldo, cámara trasera y estabilizadores, configurando un vehículo listo para salir sin pasar por el taller de accesorios.
 
-    En tecnología y equipamiento, la 286 de las últimas series viene con un nivel de dotación que explica su éxito en Reino Unido, donde se vendió mucho: faros y limpiaparabrisas automáticos, navegador, cámara trasera, llantas de aleación, ESP, Traction+, control de descenso, panel solar, punto de barbacoa exterior y hasta sistema de seguimiento. La calefacción es de gas con 6 kW, suficiente para alargar la temporada. Y un detalle constructivo que merece mención: desde 2017 Benimar fabrica la gama Mileo completamente sin madera en su estructura, buscando una mejor protección contra la humedad y las filtraciones, el enemigo número uno de cualquier autocaravana con años.
+En camas y plazas, la ficha es de cuatro y cuatro: cuatro plazas de viaje en el salón cara a cara y cuatro para dormir. Las camas individuales traseras, de más de dos metros, son la cama principal —firme, siempre hecha, con colchones independientes—; las dos plazas restantes se obtienen del salón o de la cama abatible según configuración, válidas para nietos o invitados ocasionales. El garaje trasero, de generosa altura gracias a las camas elevadas, traga bicicletas, sillas y todo el equipo de invierno sin desmontar nada.
 
-    Mecánicamente, la unidad de referencia monta el Fiat Ducato 2.2 Multijet de 180 CV con cambio automático de nueve velocidades y tracción delantera, que entrega 450 Nm entre 1.500 y 1.750 rpm: empuje de sobra para mover los 4.400 kg con soltura en autopista y puertos. Las unidades de 2016, las más abundantes en el mercado de ocasión, llevan el anterior 2.3 Multijet de 150 CV con cambio manual de seis velocidades, un motor reputadísimo por su fiabilidad aunque menos refinado. El depósito de combustible es de 90 litros.
+En mecánica no hay discusión: Mercedes Sprinter 2.0 diésel de 125 kW (170 CV) con el cambio automático 9G-Tronic. Es el conjunto que ha convertido a las perfiladas Mercedes en las favoritas de los grandes viajeros: empuje de sobra para los 4.500 kg incluso en puertos, cambio suave que no cansa en atascos y una red de servicio Mercedes en toda Europa. El chasis es el Al-Ko rebajado específico para autocaravanas, que baja el centro de gravedad y el escalón de acceso. El depósito de 92 litros y el consumo contenido del 2.0 le dan una autonomía digna para cruzar Europa sin repostar cada día.
 
-    En precio, Benimar no publica tarifa oficial para España, así que no hay cifra de catálogo que dar: el precio lo pone cada concesionario según equipamiento y promociones. Como referencia, en Reino Unido la versión 180 CV automática se anunciaba en torno a las 88.000 libras. En España, la red de distribuidores Benimar es amplia —la fábrica está en Peñíscola (Castellón) y la marca pertenece al grupo Trigano—, por lo que pedir presupuesto y probar la 286 (o su equivalente actual en la gama) es sencillo en casi cualquier provincia. En el mercado de ocasión, las 286 de 2016-2019 con el 2.3 de 150 CV son una de las compras más razonables del segmento: mecánica probada, célula sin madera y un precio contenido.
+En precio y red comercial en España, Eura Mobil no publica tarifa oficial española y el precio de esta ficha queda en null. Como referencia con fuente: los distribuidores alemanes anuncian unidades 2026 Comfort Level Edition entre 129.850 y 129.950 €. En España la marca tiene distribuidores oficiales —conviene localizar el más cercano porque el servicio postventa de una perfilada de este nivel importa tanto como el precio— y el presupuesto final variará mucho según los paquetes (Mondial, Mondial Plus, S) y el nivel Comfort. Quien venga de una perfilada de 3.500 kg debe tener claro el salto: aquí hace falta el C1 y el presupuesto de compra y mantenimiento es superior, pero a cambio se obtiene una autocaravana sin los límites de peso que asfixian a las de 3,5 toneladas.
 
-    Cómo lo verificamos: las dimensiones, pesos, motor y par proceden de la literatura del fabricante recogida en la prueba de Caravan Club; los datos de la variante 2016 (2.3 de 150 CV, MMA de 3.650 kg, distribución detallada) de la ficha de un distribuidor británico; la descripción de la gama Mileo (chasis Fiat, perfiladas de 289 cm) de la web oficial benimar.es; y el dato de la construcción sin madera desde 2017 de CaravanTimes. Todo verificado el 19/10/2026. Quedan en null el precio oficial español, el consumo y las emisiones, que el fabricante no publica.
+Cómo lo verificamos: guía de prensa 2027 de Eura Mobil publicada por outandaboutlive.co.uk (con imágenes ©Eura Mobil, consultada el 19/10/2026), de donde salen la distribución, las medidas de las camas, el doble suelo, los paneles GRP y la calefacción Alde; y anuncios de distribuidores oficiales alemanes (Reisemobile Dülmen, MS-Reisemobile Münster) para unidades 2026, con motor, cambio, dimensiones, MMA, tapicería, decoración y precios. Las páginas de euramobil.de no cargaron el 19/10/2026 por un fallo reiterado del servicio de lectura; cada dato lleva su fuente y lo no confirmado queda en null.
 
-    Para quién es: la Mileo 286 encaja con parejas viajeras que quieren una cama siempre hecha, un salón de verdad para cuatro y un garaje sin subir a los siete metros y medio. También con quien busca una ocasión fiable y bien equipada sin pagar el sobreprecio de las marcas premium alemanas. No es para quien solo tenga el carnet B y no quiera sacarse el C1 (necesario con sus 4.400 kg de MMA), ni para quien necesite cinco o seis plazas: aquí hay cuatro, y punto.`,
+Para quién es: para parejas viajeras de alto kilometraje que quieren una perfilada Mercedes para todo el año —incluido invierno serio—, con camas individuales de verdad, gran garaje y sin agobios de peso gracias a los 4.500 kg; y que ya tienen (o van a sacarse) el carnet C1. No es para quien solo tenga el carnet B —entonces la opción es la Profila T Freestyle de 3.500 kg—, ni para quien busque la perfilada más barata: esto es gama media-alta alemana y se paga. Tampoco para uso urbano: 7,44 m y 4,5 toneladas piden carretera abierta.`,
     pros: [
-      "Cama doble basculante eléctrica que no hay que hacer ni deshacer a diario",
-      "Salón delantero amplísimo con capacidad real para cuatro comensales",
-      "Carga útil teórica de 1.269 kg, muy holgada para su segmento",
-      "Construcción sin madera desde 2017, mejor defensa contra la humedad",
-      "Equipamiento de serie muy completo (solar, cámara, navegador, Traction+)",
+      "Mercedes Sprinter 170 CV + 9G-Tronic: la mecánica favorita de los grandes viajeros europeos.",
+      "Doble suelo calefactado, paneles GRP sin madera y Alde: construida para el invierno de verdad.",
+      "Camas individuales traseras de más de 2 m + salón cara a cara: la distribución centroeuropea perfecta para parejas.",
+      "4.500 kg de MMA: se acabaron los agobios de peso de las perfiladas de 3,5 t.",
+      "Paquetes Mondial muy completos: sale del concesionario lista para viajar sin taller de accesorios.",
     ],
     contras: [
-      "Con 4.400 kg de MMA exige carnet C1, no vale el B",
-      "Benimar no publica tarifa oficial en España: el precio depende del concesionario",
-      "Las unidades de 2016 con el 2.3 de 150 CV manual son menos refinadas que la 180 CV automática",
-      "Marca española con gran red, pero valor de reventa inferior al de las premium alemanas",
-      "Solo cuatro plazas: no sirve para familias numerosas",
+      "Exige carnet C1: quien solo tenga el B no puede conducirla (existe la Freestyle de 3.500 kg).",
+      "La marca no publica PVP en España: el precio se negocia con el distribuidor.",
+      "7,44 m y 4,5 t: ni ciudad ni pistas; pide carretera y áreas amplias.",
+      "Precio de distribuidor alemán en torno a 130.000 €: gama media-alta, no apta para todos los bolsillos.",
+      "El mantenimiento Mercedes y los repuestos específicos cuestan más que en una Fiat.",
+    ],
+    opiniones: [],
+    galeria: [],
+    analisisSlug: "euramobil-profila-t-726-ef-analisis-opinion",
+    planMantenimiento: {
+      intervalo: "Base Mercedes Sprinter: revisión según indicador del vehículo (aprox. cada 2 años o 40.000 km)",
+      revisiones: [
+        { nombre: "Revisión base (Mercedes Sprinter 2.0)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 450 },
+        { nombre: "Revisión célula Eura Mobil (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades, circuito Alde", costeAproxEur: 300 },
+      ],
+    },
+  },,
+{
+    id: "euramobil-contura-766-eb-2026-precio-ficha-tecnica",
+    marca: "Eura Mobil",
+    modelo: "Contura 766 EB",
+    tipo: "perfilada",
+    categoria: "Autocaravana",
+    precioDesde: null, // Eura Mobil no publica PVP oficial para España
+    potenciaCv: 170, // Mercedes-Benz Sprinter 2.0 (125 kW), cambio 9G-Tronic, según exposé técnico
+    autonomiaKm: null,
+    maleteroL: null,
+    ceroCien: null,
+    velocidadMax: null,
+    bateriaKwh: null,
+    cargaRapidaKw: null,
+    etiquetaDgt: "C", // diésel Euro 6 sobre Mercedes Sprinter
+    garantiaBateriaAnos: null,
+    garantiaBateriaKm: null,
+    garantiaBateriaDegradacionPct: null,
+    imagen: "/media/euramobil-contura-766-eb-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial: "/media/euramobil-contura-766-eb-2026-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial: "/media/euramobil-contura-766-eb-2026-precio-ficha-tecnica-interior1.webp",
+    videoId: null,
+    videoCanal: null,
+    largoMm: 7844, // ficha técnica oficial Eura Mobil 2025
+    anchoMm: 2322, // ficha técnica oficial Eura Mobil 2025
+    altoMm: 2920, // ficha técnica oficial Eura Mobil 2025
+    pesoKg: 3430, // masa en orden de marcha, ficha técnica oficial 2025
+    mmaKg: 4500, // ficha técnica oficial Eura Mobil 2025
+    carnetNecesario: "C1", // mmaKg > 3500 y <= 7500
+    cargaUtilKg: null, // la marca no publica una cifra de carga útil; prohibido calcularla
+    consumo: null,
+    consumoUnidad: null,
+    plazas: 4,
+    plazasDormir: 4, // camas individuales traseras + transformación del salón
+    parNm: null,
+    traccion: null, // la ficha oficial no declara el tipo de tracción
+    emisionesCo2: null,
+    aprox: [],
+    notas:
+      "Datos de la ficha técnica oficial Eura Mobil 2025 (modelo Contura CT/T 766 EB), reproducida en motorhomesandcaravansltd.co.uk. Potencia 170 CV (125 kW) del Mercedes Sprinter 2.0 con cambio automático 9G-Tronic según exposé técnico de concesionario (caraworld.de). Precio: Eura Mobil no publica PVP oficial para España; queda en null. Carga útil: la marca no publica una cifra única; queda en null. Consumo, autonomía, par motor, emisiones de CO2 y capacidad de maletero: no publicados por el fabricante; quedan en null. Tracción: no declarada en la ficha oficial; queda en null. La garantía de 10 años de estanqueidad y 3 años de construcción de muebles procede de la nota de prensa oficial de Eura Mobil.",
+    curiosidades:
+      "El Eura Mobil Contura sobre chasis Mercedes Sprinter ganó en 2021 el European Innovation Award en la categoría «Gesamtkonzept Reisemobil» (mejor concepto global de autocaravana): un jurado de 17 revistas especializadas de 15 países europeos lo eligió como el vehículo más innovador de su clase nada más presentarse. Fuente: nota de prensa oficial de Eura Mobil (https://www.euramobil.de/category/2021/).",
+    descripcion: `El Eura Mobil Contura 766 EB es una perfilada de gama alta construida sobre la base del Mercedes-Benz Sprinter con chasis AL-KO, y representa la apuesta de Eura Mobil por llevar el lujo de sus integrales a un formato semi-integrado más aerodinámico y manejable. Con 7.844 mm de longitud, 2.322 mm de anchura y 2.920 mm de altura, se sitúa en el segmento superior del mercado: no es una autocaravana para quien busque discreción en un pueblo medieval, sino un salón rodante pensado para viajar largo y tendido por autopista con el confort de un pequeño apartamento. Su masa máxima autorizada de 4.500 kg la coloca irremediablemente en el terreno del carnet C1, un dato que conviene tener clarísimo antes de enamorarse de ella: con el carnet B no se puede conducir.
+
+    En medidas y habitabilidad, el 766 EB juega sus cartas con inteligencia. La altura interior de 1.975 mm permite moverse con holgura incluso a personas altas, y el doble suelo continuo y calefactado —una seña de identidad de Eura Mobil— no solo aísla del frío, sino que aloja todas las instalaciones técnicas en un «sótano» protegido contra heladas, además de ofrecer huecos de almacenamiento accesibles desde el interior. La distribución EB apuesta por dos camas individuales traseras de 1.950 x 800 mm y 2.000 x 800 mm, la configuración favorita de las parejas que duermen a horas distintas o que simplemente valoran no tener que trepar por encima del otro a las tres de la mañana. Bajo esas camas, el garaje trasero de generosa altura admite bicicletas y todo el equipaje voluminoso de un viaje largo. El salón delantero, con su grupo de asientos de 1.150 x 1.050 mm, se transforma en una cama adicional de 1.900 x 1.000 mm, lo que eleva la capacidad nocturna a cuatro plazas y las diurnas con cinturón a cuatro.
+
+    En tecnología y equipamiento, el Contura presume de un nivel impropio de su época de lanzamiento. La cabina Mercedes aporta el sistema multimedia MBUX de 10 pulgadas con navegación y cámara de marcha atrás de doble óptica, freno de estacionamiento eléctrico, climatizador automático Climatronic, control de distancia activo Distronic, asistente de mantenimiento de carril, asistente de señales de tráfico y faros LED de alto rendimiento. El paquete Luminary CT suma detalles como llantas de aleación de 17 pulgadas, retrovisores eléctricos, parrilla cromada, depósito de diésel de 92 litros, cristales aislantes con filtro de banda, la cúpula panorámica Starlight-Dome, ventilador de techo eléctrico, puerta de la célula con cierre centralizado en dos puntos y mosquitera, preinstalación solar y campana extractora. La calefacción es de agua caliente a gas, el sistema que mejor reparte el calor en vehículos de este tamaño, y el depósito de agua limpia es de 140 litros (100 litros en posición de marcha) con 88 litros de aguas grises.
+
+    La cocina y el baño siguen la misma filosofía de «apartamento compacto». El baño cuenta con ventana propia, columna de ducha retroiluminada y puerta con inserción de caña, un guiño de diseño que Eura Mobil destaca en sus comunicados. Los armarios altos con formas cóncavas hacia el centro del vehículo y el revestimiento de la pared trasera del dormitorio con elementos cromados e iluminación indirecta crean un ambiente nocturno cuidado, muy lejos del plástico blanco funcional de las gamas de acceso. Los muebles, con refuerzos de perfiles de aluminio y construcción sin madera en paredes (tecnología de encolado de la «Sealed Structure»), explican la garantía de 10 años de estanqueidad de la célula y 3 años en la construcción del mobiliario, cifras que pocos fabricantes se atreven a firmar.
+
+    En mecánica, el Mercedes Sprinter 2.0 de 170 CV asociado al cambio automático 9G-Tronic de nueve relaciones mueve con solvencia los 3.430 kg de masa en orden de marcha. No es un vehículo para correr —tampoco lo pretende—, pero el par del diésel Mercedes y la suavidad del convertidor de par hacen que los 4.500 kg de MMA se gestionen sin dramatismo en puertos y adelantamientos. La distancia entre ejes de 4.450 mm y los neumáticos 225/75 R16C contribuyen a una pisada estable, algo que se agradece cuando el viento lateral pega en una mole de 2,92 metros de alto. El consumo no lo publica el fabricante, pero con este peso y frontal conviene presupuestar cifras de dos dígitos por cada cien kilómetros.
+
+    En precio y red comercial en España, hay que ser honestos: Eura Mobil no publica una tarifa oficial para el mercado español, por lo que no ofrecemos una cifra de partida. Como referencia, los concesionarios alemanes anuncian unidades nuevas del Contura 766 EB entre aproximadamente 119.800 y 153.579 euros según equipamiento y paquetes (precios de exposición y feria consultados en octubre de 2026, sin validez contractual para España). Eura Mobil cuenta con red de distribuidores oficiales en España, donde se puede configurar el vehículo con los paquetes Luminary, Luminary Plus y de asistentes a la conducción. Dado el posicionamiento premium y el precio, negociar la configuración exacta —tapicerías, toldo, batería de litio, aire acondicionado de techo— forma parte del proceso de compra.
+
+    Cómo lo verificamos: las dimensiones, pesos, capacidades y distribución proceden de la ficha técnica oficial de Eura Mobil para el modelo 2025 (Contura CT/T 766 EB), contrastada con exposés técnicos de concesionarios alemanes que reproducen los datos de fábrica (motor 125 kW/170 CV, cambio 9G-Tronic, depósito de 92 litros, agua limpia de 140 litros). La información sobre el premio, la garantía y el concepto de construcción procede de notas de prensa oficiales de Eura Mobil. Todo verificado el 19 de octubre de 2026. Donde el fabricante no publica un dato (precio oficial en España, carga útil como cifra única, consumo, par motor, emisiones), lo hemos dejado en null y lo declaramos aquí en lugar de estimarlo.
+
+    Para quién es: el Contura 766 EB encaja con parejas viajeras de poder adquisitivo alto que quieren una perfilada premium con camas gemelas, doble suelo calefactado y toda la tecnología de asistencia del Sprinter, y que ya tienen (o van a sacarse) el carnet C1. Es ideal para el «gran viaje» —una vuelta a Europa de meses, inviernos en el sur— donde el confort térmico y el espacio de almacenamiento marcan la diferencia. No es para quien busque una primera autocaravana económica, para quien solo tenga el carnet B, ni para quien priorice la agilidad en carreteras secundarias estrechas: 7,84 metros y 4,5 toneladas piden autopista y áreas amplias.`,
+    pros: [
+      "Camas individuales traseras de hasta 2.000 x 800 mm con gran garaje debajo: la distribución favorita de las parejas viajeras.",
+      "Doble suelo continuo y calefactado con instalaciones protegidas contra heladas: confort térmico real en invierno.",
+      "Base Mercedes Sprinter con MBUX, cambio 9G-Tronic y paquete completo de asistentes (Distronic, mantenimiento de carril).",
+      "Garantía de 10 años de estanqueidad de la célula y 3 años en muebles, muy por encima de la media del sector.",
+      "Galardonado con el European Innovation Award 2021 al mejor concepto global de autocaravana.",
+    ],
+    contras: [
+      "MMA de 4.500 kg: exige carnet C1; queda descartada para conductores solo con el B.",
+      "Eura Mobil no publica PVP oficial para España: el precio real solo se conoce configurando en concesionario.",
+      "7,84 m de longitud y 2,92 m de altura: maniobrar y aparcar fuera de áreas preparadas exige experiencia.",
+      "El consumo no está publicado y con este peso será elevado: hay que presupuestarlo en viajes largos.",
+      "Los paquetes que la hacen brillar (Luminary Plus, asistentes, litio) encarecen notablemente la factura final.",
     ],
     opiniones: [],
     galeria: [
-      {
-        src: "/media/benimar-mileo-286-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Benimar Mileo 286, vista exterior",
-        ancho: 768,
-        alto: 608,
-      },
-      {
-        src: "/media/benimar-mileo-286-2026-precio-ficha-tecnica-interior1.webp",
-        alt: "Benimar Mileo 286, salón interior",
-        ancho: 768,
-        alto: 576,
-      },
-      {
-        src: "/media/benimar-mileo-286-2026-precio-ficha-tecnica-interior2.webp",
-        alt: "Benimar Mileo 286, cuarto de baño",
-        ancho: 768,
-        alto: 576,
-      },
-      {
-        src: "/media/benimar-mileo-286-2026-precio-ficha-tecnica-detalle.webp",
-        alt: "Benimar Mileo 286, detalle de la cocina",
-        ancho: 768,
-        alto: 576,
-      },
+      { src: "/media/euramobil-contura-766-eb-2026-precio-ficha-tecnica-oficial.webp", alt: "Eura Mobil Contura 766 EB, vista exterior", ancho: 1024, alto: 684 },
+      { src: "/media/euramobil-contura-766-eb-2026-precio-ficha-tecnica-interior1.webp", alt: "Eura Mobil Contura 766 EB, interior", ancho: 800, alto: 600 },
+      { src: "/media/euramobil-contura-766-eb-2026-precio-ficha-tecnica-interior2.webp", alt: "Eura Mobil Contura 766 EB, interior", ancho: 800, alto: 600 },
+      { src: "/media/euramobil-contura-766-eb-2026-precio-ficha-tecnica-detalle.webp", alt: "Eura Mobil Contura 766 EB, detalle", ancho: 800, alto: 600 },
     ],
-    analisisSlug: "benimar-mileo-286-2026-analisis-opinion",
+    analisisSlug: "euramobil-contura-766-eb-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo:
-        "Base Fiat Ducato: revisión cada 2 años o 48.000 km (lo que antes ocurra, según plan Fiat)",
+      intervalo: "Base Mercedes Sprinter: revisión cada 2 años o 40.000 km (según plan del fabricante)",
       revisiones: [
-        {
-          nombre: "Revisión base (Fiat Ducato)",
-          queSeCambia: "Aceite + filtros + inspección general",
-          costeAproxEur: 350,
-        },
-        {
-          nombre: "Revisión célula Benimar (anual recomendada)",
-          queSeCambia: "Estanqueidad, gas, electricidad, humedades",
-          costeAproxEur: 250,
-        },
+        { nombre: "Revisión base (Mercedes Sprinter)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 450 },
+        { nombre: "Revisión célula Eura Mobil (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 280 },
       ],
     },
   },
