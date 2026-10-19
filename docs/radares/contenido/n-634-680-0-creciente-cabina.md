@@ -12,6 +12,14 @@
 
 Esta cabina se ubica en la N-634, pk 680,0, en Mesía (A Coruña); coordenadas 43.091114, -8.181534. Fiscaliza el sentido creciente —vehículos hacia pks más elevados—, con destino Santiago de Compostela según el registro oficial. La posición exacta sobre la calzada puede comprobarse en el Street View enlazado.
 
+<iframe title="Mapa: radar n-634-680-0-creciente-cabina" src="https://www.google.com/maps?q=43.091114,-8.181534&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-634-680-0-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=43.091114,-8.181534&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La N-634 es una carretera nacional de la Red de Carreteras del Estado, de calzada convencional. En el XML de la DGT figura con la singularidad «CARRETERA NACIONAL». El documento no describe el tramo del pk 680,0, así que esta ficha no le atribuye rasgos.
