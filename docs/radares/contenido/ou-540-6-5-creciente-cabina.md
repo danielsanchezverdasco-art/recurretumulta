@@ -12,6 +12,14 @@
 
 El radar está en la OU-540, pk 6,5, término municipal de Barbadás (Ourense), en 42.287437, -7.896729. Controla el sentido creciente, el de quienes se mueven hacia puntos kilométricos mayores, con destino Celanova en el registro de la DGT. El enlace de Street View permite reconocer el lugar exacto de la calzada.
 
+<iframe title="Mapa: radar ou-540-6-5-creciente-cabina" src="https://www.google.com/maps?q=42.287437,-7.896729&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar ou-540-6-5-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.287437,-7.896729&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La OU-540 es una carretera autonómica de la Xunta de Galicia, convencional en su trazado. Por ser vía no desdoblada se le aplica el régimen genérico de las carreteras convencionales. La DGT no publica en su XML características del tramo, de modo que esta ficha no las inventa ni las presupone.
