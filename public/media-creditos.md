@@ -2692,3 +2692,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/volkswagen-golf-variant-15-etsi-2026-precio-ficha-tecnica-hunt1.webp | https://cdn.nwi-ms.com/media/si/V/comm/V20250827370/model/06.jpg?num=0&size=S&background=full | Volkswagen Eslovenia (configurador oficial) | desconocida |
 | /media/volkswagen-golf-variant-15-etsi-2026-precio-ficha-tecnica-hunt2.webp | https://cdn.nwi-ms.com/media/si/V/comm/V20250829486/model/back_right.jpg?size=XL&background=full | Volkswagen Eslovenia (configurador oficial) | desconocida |
 | /media/volkswagen-golf-variant-15-etsi-2026-precio-ficha-tecnica-hunt3.webp | https://imgix.cosmicjs.com/75ada270-3970-11f1-9581-23cfe40a1d73-VW-Golf-Variant_Interieur.png | Finn.com / Volkswagen | desconocida |
+| /media/volkswagen-id3-gtx-2026-precio-ficha-tecnica-hunt1.webp | https://www.volkswagen.at/id3/id3-gtx | Volkswagen Austria | desconocida |
+| /media/volkswagen-id3-gtx-2026-precio-ficha-tecnica-hunt2.webp | https://www.volkswagen.at/id3/id3-gtx | Volkswagen Austria | desconocida |
+| /media/volkswagen-id3-gtx-2026-precio-ficha-tecnica-hunt3.webp | https://volkswagen-danmark.mynewsdesk.com/pressreleases/elektrisk-koereglaede-i-kompakt-format-id-punktum-3-gtx-er-startklar-til-priser-fra-369-punktum-995-kr-3337092 | Volkswagen Dinamarca (Mynewsdesk) | desconocida |
+| /media/volvo-ex60-2026-precio-ficha-tecnica-hunt1.webp | https://motorsactu.com/wp-content/uploads/2026/01/Volvo-EX60-2026-2.webp | motorsactu.com (material oficial del fabricante) | desconocida |
+| /media/volvo-ex60-2026-precio-ficha-tecnica-hunt2.webp | https://media.moveelectric.com/sites/default/files/styles/slideshow_slide/public/cloned-files/6%20Volvo%20EX60%20cabin_11.jpg?itok=b4lTbEfg | moveelectric.com | desconocida |
+| /media/volvo-ex60-2026-precio-ficha-tecnica-hunt3.webp | https://www.mojelektromobil.sk/wp-content/uploads/2026/01/volvo-ex60-weltpremiere-2026-16-1400x933-1.jpg | mojelektromobil.sk | desconocida |
+| /media/globecar-globescout-plus-2026-precio-ficha-tecnica-hunt1.webp | https://cdn.womoo.de/caravans/205/images/width-1000/globecar-globescout-600-plus-fiat-kastenwagen-2021-aussenansicht.png | womoo.de | desconocida |
+| /media/globecar-globescout-plus-2026-precio-ficha-tecnica-hunt2.webp | https://cdn.smcmotorhomes.co.uk/wp-content/uploads/2025/02/IMG_6771.jpg | SMC Motorhomes (smcmotorhomes.co.uk) | desconocida |
+| /media/globecar-globescout-plus-2026-precio-ficha-tecnica-hunt3.webp | https://cdn.womoo.de/caravans/205/images/width-1000/globecar-globescout-600-plus-fiat-kastenwagen-2021-innenraum.png | womoo.de | desconocida |
+| /media/volvo-v90-t6-2025-precio-ficha-tecnica-hunt1.webp | https://www.thetorquereport.com/wp-content/uploads/2024/12/2025-Volvo-V90-Review-02-scaled-e1737941284506-1024x585.jpeg | The Torque Report | desconocida |
+| /media/volvo-v90-t6-2025-precio-ficha-tecnica-hunt2.webp | https://carwow-uk-wp-3.imgix.net/273664_Updated_Volvo_V90.jpg?auto=format&cs=tinysrgb&fit=clip&ixlib=rb-1.1.0&q=60&w=1600 | Carwow UK | desconocida |
+| /media/volvo-v90-t6-2025-precio-ficha-tecnica-hunt3.webp | https://static0.carbuzzimages.com/wordpress/wp-content/uploads/gallery-images/original/1087000/800/1087899.jpg?w=1200&h=675&fit=crop | CarBuzz (foto de prensa Volvo) | desconocida |
+| /media/volvo-xc60-t6-2025-precio-ficha-tecnica-hunt1.webp | https://dailycarblog.com/2025/02/volvo-xc60-receives-minor-updates-for-2025-model-year/ | DailyCarBlog | desconocida |
+| /media/volvo-xc60-t6-2025-precio-ficha-tecnica-hunt2.webp | https://epicvin.com/cars/lot-2026-volvo-xc60-yv4m12rm0t1484196 | EpicVIN (foto de lote) | desconocida |
+| /media/volvo-xc60-t6-2025-precio-ficha-tecnica-hunt3.webp | https://www.motorbox.com/auto/auto-viste-e-provate/volvo-xc60-t6-awd-autonomia-ricarica-e-consumi-alla-prova-del-nov-e | Motorbox (prueba XC60 T6 AWD 2025) | desconocida |
+| /media/volvo-v60-b5-2025-precio-ficha-tecnica-hunt1.webp | https://www.volvocars.com/us/media/models/v60/2025/images/ | Volvo Cars (prensa oficial) | desconocida |
+| /media/volvo-v60-b5-2025-precio-ficha-tecnica-hunt2.webp | https://www.bedrijfswagens-leasen.nl/voorraad/volvo/v60/01M0HKXSE7MNSXTNV8MDED5N40/afbeeldingen | Bedrijfswagens Leasen | desconocida |
+| /media/volvo-v60-b5-2025-precio-ficha-tecnica-hunt3.webp | https://volvocarkarlik.pl/kampanie/volvo-v60-za-995-zl-mies-z-pakietem-serwisowym-w-prezencie/ | Volvo Karlik (concesionario oficial) | desconocida |
+| /media/voyah-passion-2024-precio-ficha-tecnica-hunt1.webp | https://www.cevauto.com/voyah-passion-ev-phev/ | Voyah / cevauto.com | desconocida |
+| /media/voyah-passion-2024-precio-ficha-tecnica-hunt2.webp | https://hvilkenbil.dk/dansk-messe-viser-de-nye-elbiler/voyah-passion/ | hvilkenbil.dk | desconocida |
+| /media/voyah-passion-2024-precio-ficha-tecnica-hunt3.webp | https://nymotors.ru/new-auto/voyah/passion/ | nymotors.ru / avto-leon.ru | desconocida |
+| /media/ktm-390-smc-r-2026-ficha-tecnica-precio-hunt1.webp | https://paultan.org/image/2026/05/KTM-390-SMC-R-2026-BM-8-850x850.png | Paultan.org | desconocida |
+| /media/ktm-390-smc-r-2026-ficha-tecnica-precio-hunt2.webp | https://www.teammoto.com.au/assets/webshop/cms/86/5186.webp?1773317085 | Teammoto (concesionario KTM) | desconocida |
+| /media/ktm-390-smc-r-2026-ficha-tecnica-precio-hunt3.webp | https://images5.1000ps.net/images_bikekat/2026/1-KTM/12891-390_SMC_R/001-638996749937518723-ktm-390-smc-r.jpg | 1000ps.net | desconocida |
