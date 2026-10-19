@@ -12,6 +12,14 @@
 
 Esta cabina está plantada en la **autovía A-8, pk 372,6**, en Asturias, y supervisa el **sentido decreciente**: la calzada por la que avanzan los vehículos en la dirección que la DGT rotula como **Euskadi**. Se sitúa al este de Gijón, en el tramo oriental de la Autovía del Cantábrico a su paso por el Principado, a muy corta distancia de la cabina que vigila el sentido opuesto.
 
+<iframe title="Mapa: radar a-8-372-6-decreciente-cabina" src="https://www.google.com/maps?q=43.5038,-5.5909&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-8-372-6-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=43.5038,-5.5909&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La A-8 discurre en este sector paralela al litoral, encajada entre el mar y las estribaciones de la sierra, y funciona como vía de comunicación del oriente asturiano con Gijón y con toda la cornisa cantábrica. El trazado presenta enlaces muy seguidos hacia las villas marineras y los valles del interior, lo que obliga a continuos cambios de carril y produce el clásico efecto acordeón: el tráfico se comprime y se estira, con frenadas y aceleraciones encadenadas que desbaratan cualquier ritmo de crucero y facilitan los despistes con el velocímetro.
