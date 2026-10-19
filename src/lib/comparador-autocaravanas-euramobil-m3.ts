@@ -33,9 +33,9 @@ export const AUTOCARAVANAS_EURAMOBIL_M3: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "",
-    imagenOficial: "",
-    imagenInteriorOficial: "",
+    imagen: "/media/euramobil-profila-t-726-ef-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial: "/media/euramobil-profila-t-726-ef-2026-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial: "/media/euramobil-profila-t-726-ef-2026-precio-ficha-tecnica-interior1.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 7441, // mobile.de (unidad 2026): 7.441 mm; el distribuidor anota 7.450 mm
@@ -59,7 +59,7 @@ export const AUTOCARAVANAS_EURAMOBIL_M3: Autocaravana[] = [
       "Construcción: doble suelo calefactado, paneles GRP sin madera y calefacción de agua caliente Alde (prensa). " +
       "Precio null en España: Eura Mobil no publica tarifa ES; como referencia, los distribuidores alemanes anuncian unidades 2026 Comfort Level Edition en torno a 129.850-129.950 €. " +
       "Discrepancia menor: un anuncio (modix) anota 3 plazas para dormir frente a 4 en la mayoría de fichas; se adopta 4 y se declara aquí. " +
-      "Sin fotos: el servicio de lectura web y el buscador de imágenes fallaron reiteradamente el 19/10/2026; queda pendiente que el coordinador las aporte.",
+      "Fotos verificadas visualmente el 19/10/2026 (worker V3-05): 3 fotos oficiales de prensa de Eura Mobil; la 4ª (trasera) es foto limpia del modelo exacto sin marcas.",
     curiosidades:
       "La gama Profila T existe también en versión «Freestyle»: el mismo concepto Mercedes pero aligerado hasta 3.500 kg de MMA sobre chasis Al-Ko optimizado, de modo que puede conducirse con el carnet B sin renunciar a las camas individuales traseras (fuente: guía de prensa Eura Mobil 2027, https://www.outandaboutlive.co.uk/motorhomes/news/buying-advice/eura-mobil-motorhomes-and-campervans-2027-essential-guide, consultada el 19/10/2026).",
     descripcion: `El Euramobil Profila T 726 EF es la perfilada alemana para quien no quiere oír hablar de compromisos: chasis Mercedes Sprinter, 170 CV con cambio automático de 9 velocidades, 4.500 kg de MMA y una célula construida como las grandes —doble suelo calefactado, paneles sin madera y calefacción de agua caliente Alde—. Eura Mobil lleva décadas en el segmento medio-alto alemán y la Profila T es su superventas: la perfilada de los que viajan mucho, en cualquier estación, y quieren que el vehículo aguante el ritmo durante años.
@@ -92,7 +92,12 @@ Para quién es: para parejas viajeras de alto kilometraje que quieren una perfil
       "El mantenimiento Mercedes y los repuestos específicos cuestan más que en una Fiat.",
     ],
     opiniones: [],
-    galeria: [],
+    galeria: [
+      { src: "/media/euramobil-profila-t-726-ef-2026-precio-ficha-tecnica-oficial.webp", alt: "Eura Mobil Profila T 726 EF, vista exterior", ancho: 1800, alto: 1200 },
+      { src: "/media/euramobil-profila-t-726-ef-2026-precio-ficha-tecnica-interior1.webp", alt: "Eura Mobil Profila T 726 EF, salón", ancho: 1400, alto: 934 },
+      { src: "/media/euramobil-profila-t-726-ef-2026-precio-ficha-tecnica-interior2.webp", alt: "Eura Mobil Profila T 726 EF, baño", ancho: 1400, alto: 934 },
+      { src: "/media/euramobil-profila-t-726-ef-2026-precio-ficha-tecnica-detalle.webp", alt: "Eura Mobil Profila T 726 EF, vista trasera", ancho: 728, alto: 546 },
+    ],
     analisisSlug: "euramobil-profila-t-726-ef-analisis-opinion",
     planMantenimiento: {
       intervalo: "Base Mercedes Sprinter: revisión según indicador del vehículo (aprox. cada 2 años o 40.000 km)",
