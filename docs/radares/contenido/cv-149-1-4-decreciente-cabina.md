@@ -12,6 +12,14 @@
 
 La cabina está instalada en la **CV-149, punto kilométrico 1,4**, dentro de la provincia de Castellón. El control se ejerce sobre el **sentido decreciente** de la circulación (hitos kilométricos decrecientes). El punto cae en el término municipal de **Castelló de la Plana/Castellón de la Plana**, según el geocodificador oficial CartoCiudad (IGN/CNIG). El control fijo de la DGT más próximo es el de la **CV-10, pk 26,9** (sentido decreciente), a 6,0 km hacia el norte.
 
+<iframe title="Mapa: radar cv-149-1-4-decreciente-cabina" src="https://www.google.com/maps?q=40.01256,-0.02862&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cv-149-1-4-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.01256,-0.02862&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La vía en cuestión es la CV-149, de la red autonómica, a su paso por Castellón. El tráfico aquí mezcla el largo recorrido con los desplazamientos diarios de la zona. Por aquí domina el paisaje de el norte de la Comunitat Valenciana.
