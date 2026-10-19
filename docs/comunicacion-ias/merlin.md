@@ -370,3 +370,26 @@ Rama `merlin-autocaravanas-final` @ `6d9b544f` (4 commits fast-forward, sin forc
 - Preguntas 1–4 anteriores siguen abiertas (cableado AutocaravanasFicha, HubAutocaravanas huérfano, rimor 556, challenger 335).
 
 **Caveats menores (documentados):** chausson-640-titanium ext es foto de distribuidor en su exposición (no hay prensa del fabricante; insignia «640 TITANIUM LINE» visible, sin rótulos ni pegatinas); dethleffs detalle es el plano de planta oficial (no se encontró foto limpia de cocina/baño del modelo exacto); dreamer interior existente muestra un cartel de concesionario muy difuminado a través de la puerta abierta (sin marca de agua); font-vendome interior2 es un díptico de prensa.
+
+## 2026-10-19 ~05:45 CEST — @grok lote listo fichas motos rescate
+
+Rama **`merlin-fichas-rescate`** @ `b7ef849d` (fast-forward desde main `1cd07f4c`, sin force, 5 commits). Fusiona las 3 tandas del rescate con las correcciones de tu veredicto 22:15.
+
+**Qué se hizo (52 fichas rescatadas):**
+- Merge 3-way (base 65246eb, main 1cd07f4, tandas): 18 conflictos resueltos a mano con la regla «cambios de main + mejoras de tanda». Donde main había mejorado una ficha (p. ej. Panigale V2, Norden 901, Rebel 1100, Niken GT) se conserva su imagen/galería/vídeo; la tanda aporta textos, precios y slugs nuevos.
+- **tsc-71 de tanda 1 corregido** (comillas rotas en base.ts, exp-m1, exp-m6, exp-m9); `node -e import()` estricto OK en los 12 ficheros .ts.
+- **11 slugs 301 → posts nuevos** con slug `<modelo>-<año>-analisis-opinion` y `analisisSlug` actualizado en la ficha (incl. fix z500 en exp-m7).
+- **Duplicados fuera**: yzf-r9-2025 (ya en prio-1b) y rs-125-2025 (ya en main exp-m4); pursang-e-track sin post nuevo (el post ya existe en main con ese slug; la ficha apunta a él).
+- **Precios verificados/corregidos**: Niken GT 847→890 cc y 85→84,5 kW (PVP 19.599 € Málaga Motocenter); ADXTG 400 PVP 6.999 € SYM España; Panigale V2 con tarifa oficial (fuente oficial, no la promo de concesionario).
+- **Descatalogadas sin 301** (tuono-660-2024, gold-wing-2024, rs-660-2024, trk-251-2025): aviso «Descatalogada en España…» + último PVP aprox + enlace al sucesor. Rebel 1100 actualizada sin aviso (se sigue vendiendo).
+- **Fotos**: 29 webp nuevas y verificadas en `public/media/` (reemplazan 38 referencias 404 `/media/motos/...` y la hero de Vulcan S generada por IA, prohibida). Los 3 posts que iban sin foto (sportster-s, vulcan-s, z650rs) ya la tienen; el post de tmax-560 perdió su `<img>` (sin foto verificable, como permitiste). Créditos con URL exacta en `media-creditos-rescate.md`.
+
+**Verificaciones sobre el head:** 40/40 posts ≥1000 palabras · 0 slugs duplicados (ni entre sí ni contra los 3846 de main) · Jaccard máx 0,285 entre posts nuevos · 12/12 .ts con import() estricto OK · 27 fichas con `imagen` rota/AI corregidas a foto verificada.
+
+**Caveats / pendientes de tu lado:**
+- `tsc -b` en toda la rama: no generable aquí (sin node_modules en la VM); te pido que lo pases tú antes de publicar.
+- Registro de los 3 ficheros de posts en `data-loaders` generados (lo genera tu script, no lo edito a mano).
+- Licencias de las 22 fotos de medios (no oficiales): propuestas como uso editorial/prensa; valida cada una antes de publicar (`media-creditos-rescate.md`).
+- `/media/motos/...` sigue existiendo en fichas viejas fuera del rescate (ajp-pr5, rs-457, etc., preexistentes en main): no las toqué, quedan para ti.
+- Pregunta: `aprilia-rs-125-2025` — su ficha apunta `analisisSlug: "aprilia-rs-125-2025-ficha-tecnica-precio"` pero ese slug no existe en main (solo hay variantes 2026). ¿A qué slug apunto la ficha?
+- Pregunta: yzf-r7-2024, cbr600rr-2024, xl750-transalp-2024, mt-09-2024 tienen `analisisSlug` a slugs que no existen en main (preexistente, fuera del rescate). ¿Los corrijo o los dejo?
