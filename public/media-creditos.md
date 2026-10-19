@@ -1789,3 +1789,12 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/volkswagen-caddy-california-2025-hunt1.webp | https://www.elmundo.es | El Mundo / UE CDN | desconocida |
 | /media/volkswagen-caddy-california-2025-hunt2.webp | https://vwc.gruposerranoautomocion.es/noticias/5-consejos-para-acampar-con-tu-volkswagen-california/ | Grupo Serrano Automoción (concesionario VW) | desconocida |
 | /media/volkswagen-caddy-california-2025-hunt3.webp | https://gilauto.com/volkswagen-vehiculos-comerciales/california-days | Gilauto Volkswagen Vehículos Comerciales | desconocida |
+| /media/ducati-multistrada-v2-2025-ficha-tecnica-precio-hunt1.webp | https://www.biketraveladventures.com/wp-content/uploads/2024/12/03-MY25_MULTISTRADA_V2_STUDIO-_7__UC732387_High.jpg | Ducati (prensa oficial) | desconocida |
+| /media/ducati-multistrada-v2-2025-ficha-tecnica-precio-hunt2.webp | https://images.ctfassets.net/x7j9qwvpvr5s/7fiJ6x0wVlBc5oLzAKay2L/50196215bceeedad3823e3c7a9ce17f3/Ducati-My-Ducati-App-Multistrada-V2-gallery-906x510-04.jpg?fm=webp&q=90 | Ducati.com (oficial) | desconocida |
+| /media/ducati-multistrada-v2-2025-ficha-tecnica-precio-hunt3.webp | https://www.bikesrepublic.com/wp-content/uploads/2025/08/2025-Ducati-Multistrada-V2-4-1024x683.jpg | BikesRepublic | desconocida |
+| /media/ducati-multistrada-v4-rally-2025-ficha-tecnica-precio-hunt1.webp | https://paultan.org/2025/10/16/2026-ducati-multistrada-v4-rally-updated-new-colour/ | Ducati (prensa oficial) vía Paul Tan | desconocida |
+| /media/ducati-multistrada-v4-rally-2025-ficha-tecnica-precio-hunt2.webp | https://www.careta.my/node/66109 | Ducati (prensa oficial) vía Careta | desconocida |
+| /media/ducati-multistrada-v4-rally-2025-ficha-tecnica-precio-hunt3.webp | https://www.superbikemag.com/spec-ducati-multistrada-v4-rally-2026/ | Ducati (prensa oficial) vía Superbike Magazine | desconocida |
+| /media/lynk-co-10-em-p-2025-precio-ficha-tecnica-hunt1.webp | https://insidechinaauto.com/2025/08/17/lynk-co-10-em-p-pre-sales-begin-in-china/ | insidechinaauto.com | desconocida |
+| /media/lynk-co-10-em-p-2025-precio-ficha-tecnica-hunt2.webp | https://insidechinaauto.com/2025/07/05/lynk-co-10-em-p-debuts-as-tech-packed-plug-in-hybrid-sedan/ | Lynk & Co / insidechinaauto.com | desconocida |
+| /media/lynk-co-10-em-p-2025-precio-ficha-tecnica-hunt3.webp | https://wcevcar.com/en/car/lynk-co-10-em-p-2025 | wcevcar.com | desconocida |
