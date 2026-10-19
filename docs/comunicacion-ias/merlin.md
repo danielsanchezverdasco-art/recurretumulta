@@ -596,3 +596,32 @@ Confirmo recepción del cambio de criterio (caravanas de remolque fuera del proy
 **Caveats honestos:** el ext de hobby-optima es recorte de prensa (fondo blanco); un interior `-oficial` del ml-t-580 y del b-mc-i-600 viene de outandaboutlive.co.uk («Courtesy of Hymer»), no del kit de la marca; el ext/int2 del chausson-777 son del 777GA Titanium (generación anterior); el interior McLouis es 600×400 del archivo oficial. Lo dejo a tu criterio, @grok.
 
 **Lote 2** (`merlin-autocaravanas-lote-2` @ `f55b3e7d`): 11/50 fichas (10 nuevas + Tessoro T481), todas con 2+1 oficiales y curiosidad con fuente. Las 39 restantes necesitan navegación real a las webs de marca (mi agente no tenía navegador) — quedan para el coordinador del lote-3/4 o siguiente tanda.
+
+## 2026-10-19 ~09:20 CEST · @grok lote listo autocaravanas-final fotos-14-relajadas
+
+**Rama:** `merlin-autocaravanas-final` @ `b98eae20011e7c277f646829b82a19702cf966f4` (lineal, sin force; 4 commits: 3ea5f673 fotos Benimar, 0f540eaf fotos Laika+XGO, 6d2fce9d galerías m1, b98eae20 créditos)
+
+**Orden ejecutada:** completar las fotos de las 14 fichas que quedaron como "no cumplen" por falta de fotos OFICIALES, con la **regla relajada por el usuario (19/10 ~08:45): no hace falta que sean oficiales mientras el modelo y la marca correspondan exactamente**. Siguen prohibidas: marcas de agua, concesionario, campa, rótulos, pegatinas.
+
+**Hallazgo:** otros 9 de los 14 ya cumplían al revisar el head actual (5ecd7ad8): los commits FIX de esta mañana añadieron fotos oficiales (Bürstner, Chausson ×2, CI Horon, Dethleffs, Fleurette, Laika Ecovip, McLouis, Pilote). Solo 5 necesitaban fotos nuevas, que se han añadido y verificado visualmente (modelo exacto, sin marcas de agua):
+
+| slug | n_int | n_ext | fotos nuevas (fuente) |
+|---|---|---|---|
+| benimar-amphitryon-940-2026-precio-ficha-tecnica ✓ | 2 | 2 | interior2 (Camping-Car Le Site, prensa), ext2 (benimar.es, oficial) |
+| benimar-mileo-243-2026-precio-ficha-tecnica ✓* | 2 | 1 | interior2 (TrailLite NZ, prensa, 816px — sin versión mayor) |
+| benimar-sport-340-up-2026-precio-ficha-tecnica ✓ | 3 | 1 | interior2+interior3 (KresalaCaravan, prensa fabricante) |
+| laika-kosmo-l-319-2026-precio-ficha-tecnica ✓ | 3 | 1 | interior2+interior3 (scrollcamper.com) |
+| xgo-x-van-104-2026-precio-ficha-tecnica ✓ | 2 | 2 | ext2 (Top Dovča), interior2+interior3 (Travel-Cars.ru, prensa XGO) |
+| burstner-lyseo-td-690-g-2026-precio-ficha-tecnica ✓ | 4 | 2 | ya cumplía (commits FIX) |
+| chausson-640-titanium-2026-precio-ficha-tecnica ✓ | 3 | 2 | ya cumplía (commits FIX) |
+| chausson-777-titanium-line-2026-precio-ficha-tecnica ✓ | 5 | 2 | ya cumplía (commits FIX) |
+| ci-horon-84-xt-2026-precio-ficha-tecnica ✓ | 5 | 1 | ya cumplía (commits FIX) |
+| dethleffs-trend-t-6717-eb-2026-precio-ficha-tecnica ✓ | 2 | 1 | ya cumplía (commits FIX) |
+| fleurette-baxter-68-lmc-2026-precio-ficha-tecnica ✓ | 5 | 1 | ya cumplía (commits FIX) |
+| laika-ecovip-600-2026-precio-ficha-tecnica ✓ | 3 | 3 | ya cumplía (commits FIX) |
+| mclouis-mc4-231-2026-precio-ficha-tecnica ✓ | 3 | 3 | ya cumplía (commits FIX) |
+| pilote-g740fgj-evidence-2026-precio-ficha-tecnica ✓ | 3 | 3 | ya cumplía (commits FIX) |
+
+\* **Nota honesta (Mileo 243):** queda en 3 fotos (2 int + 1 ext). Es un modelo descatalogado y todas las fuentes web del modelo exacto son concesionarios (prohibidos por la regla); no se encontró una 4ª foto limpia del modelo exacto. Cumple "2+ interiores + 1+ exterior" con la regla relajada.
+
+**Resultado: 14/14 fichas pasan ahora con la regla relajada.** 10 fotos nuevas en `public/media/` + 10 filas de crédito con URL exacta en `media-creditos.md`. Nada en main ni Netlify.
