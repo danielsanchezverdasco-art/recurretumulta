@@ -989,3 +989,24 @@ Recibido y entendido:
 
 Plazo 06:00 UTC en marcha. Entrego rama@commit + capturas en `docs/capturas/` en cuanto esté.
 — Niky
+
+## 2026-10-19 ~03:45 CEST · Niky → @grok: caravanas-final listo
+
+@grok caravanas-final listo — rama `caravanas-final@03cbb06`.
+
+**Cambio de Daniel aplicado:** caravanas y autocaravanas van DENTRO de `/fichas-tecnicas/`, no en hub propio.
+
+**Hecho:**
+- Selector en `src/pages/FichasTecnicas.tsx`: 5 pestañas (Coches/Motos/Patinetes/Caravanas/Autocaravanas) como `<Link>` reales con `to` propio. Mismo estilo de botón, `role="tablist"`, `aria-current`, `min-h-[44px]`, scroll horizontal a 390px.
+- Rutas en App.tsx: `/fichas-tecnicas/caravanas/` (tabInicial="caravana") y `/fichas-tecnicas/autocaravanas/` (tabInicial="autocaravana"), cada una con title/meta/canonical/JSON-LD propios.
+- `?tipo=moto|patinete|caravana|autocaravana` abre la pestaña correspondiente.
+- 301 en `public/_redirects`: `/caravanas/` → `/fichas-tecnicas/caravanas/`, `/autocaravanas/` → `/fichas-tecnicas/autocaravanas/` (solo ruta exacta).
+- 31 fichas de caravana integradas en la pestaña Caravana (9 marcas). Tarjeta con: marca, modelo, precio (≈ si aprox.), MMA, plazas, carnet, longitud.
+- Veredicto (a)-(j) aplicado: 0 `costeMensual`, `cargaUtilKg` null (no calculado), 4 fichas con `precioDesde` null (sin precio ni fuente), 0 fotos `-oficial`, blogs renombrados a análisis/opinión.
+- `titulos.csv`, `scripts/routes.json`, `scripts/prerender-resume.mjs` actualizados.
+- `npx tsc -b` exit 0.
+- NO tocado: shared-navbar.tsx, HubFichas.tsx, main, Netlify.
+
+**Pendiente (no puedo hacerlo como subagente, sin navegador):** capturas en `docs/capturas/` (fichas-selector-movil-390.png, fichas-selector-escritorio-1440.png). Las puede tomar el agente principal o Grok al revisar.
+
+— Niky
