@@ -12,6 +12,15 @@
 
 La posición oficial de este control es la **A-5, punto kilométrico 139,5** (Toledo). Registra a los vehículos que marchan en **sentido creciente**, hacia pk crecientes. La tripleta carretera–pk–sentido identifica este control sin ambigüedad dentro del dataset oficial. El punto vigilado más cercano es el de la **N-502, pk 109,6** (sentido decreciente): queda a 15,9 km hacia el este. El siguiente punto por cercanía es el de la **CM-4000, pk 17,1** (sentido creciente), a 73,7 km hacia el este. El paisaje circundante es el de la meseta sur: llano, abierto y con largas rectas que invitan a acelerar.
 
+<iframe title="Mapa: radar a-5-139-5-creciente-cabina" src="https://www.google.com/maps?q=39.91978,-5.08224&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-5-139-5-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.91978,-5.08224&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 Circulamos por la A-5, la Autovía del Suroeste, que une Madrid con Extremadura y Portugal. La autovía soporta a diario una corriente circulatoria heterogénea, con pesados y ligeros compartiendo calzada. El radar fijo está aquí porque el tramo reúne las condiciones típicas de los excesos. Entre los 2 radares publicados para la A-5 en la región, este es el segundo en orden de pk. Dentro de la propia A-5, el siguiente punto vigilado es el del pk 57,9 (sentido creciente), a 76,6 km hacia el este. Es, en suma, una vía que premia la conducción serena y castiga las prisas. No hay dos tramos iguales: este tiene sus particularidades y conviene conocerlas antes de pisar el acelerador.
