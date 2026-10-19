@@ -12,6 +12,14 @@
 
 La N-525, a su paso por Coles (Ourense), cuenta con esta cabina en el pk 244,8; coordenadas 42.38688, -7.851026. El sentido bajo control es el decreciente, el de los pks descendentes, con destino Ourense según el registro. El enlace de Street View de la cabecera deja ver el punto exacto.
 
+<iframe title="Mapa: radar n-525-244-8-decreciente-cabina" src="https://www.google.com/maps?q=42.38688,-7.851026&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-525-244-8-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.38688,-7.851026&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La N-525 es una carretera nacional convencional de titularidad estatal. En el XML de la DGT figura con la singularidad «CARRETERA NACIONAL». Sin detalle del tramo en el fichero, esta ficha no le atribuye rasgos que no consten.
