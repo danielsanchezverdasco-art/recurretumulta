@@ -2201,3 +2201,28 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/kia-sorento-hev-2025-precio-ficha-tecnica-hunt2.webp | https://www.cartube.co.il/images/artimage/2-2025/kia_sorento_hev_32-970.webp | CarTube | desconocida |
 | /media/kia-sorento-hev-2025-precio-ficha-tecnica-hunt3.webp | https://www.ixbt.com/img/n1/news/2023/10/5/2025-kia-sorento-hev_large.jpg | iXBT (foto de prensa Kia) | desconocida |
 | /media/kia-soul-ev-2024-hunt1.webp | https://cdn-ds.com/media/sz_498382/1586/gallery_soul_2024_exterior-1.jpg | Kia (prensa oficial) | desconocida |
+| /media/sherco-300-se-factory-2026-ficha-tecnica-precio-hunt1.webp | https://offroadcracks.com/wp-content/uploads/2025/06/04-300-SE-FACTORY-2026-1200-8.jpg | OffRoadCracks (foto de prensa Sherco) | desconocida |
+| /media/sherco-300-se-factory-2026-ficha-tecnica-precio-hunt2.webp | https://images.medialinksonline.com/imagestream/176665/8113808x1024x0_FFFFFF_L_0.jpg | ET James & Sons (concesionario Sherco) | desconocida |
+| /media/sherco-300-se-factory-2026-ficha-tecnica-precio-hunt3.webp | https://cdn.powergo.ca/media/catalog/2026/16/72e2b0409214450cba9754c0bddc506b_81c2a9c412fc4ca7892c0d472e3847cc_1000/sherco-300-se-factory-2026-2026-3.webp | Caplan Mécanique Sport (concesionario Sherco) | desconocida |
+| /media/aston-martin-vanquish-volante-2025-precio-ficha-tecnica-hunt1.webp | https://automovilpanamericano.com/wp-content/uploads/2025/03/Aston_Martin_Vanquish_Volante_09-scaled.jpg | Automóvil Panamericano | desconocida |
+| /media/aston-martin-vanquish-volante-2025-precio-ficha-tecnica-hunt2.webp | https://www.premierfinancialservices.com/wp-content/uploads/2025/04/Aston_Martin_Vanquish_Volante_1.jpg | Premier Financial Services | desconocida |
+| /media/aston-martin-vanquish-volante-2025-precio-ficha-tecnica-hunt3.webp | https://static.moniteurautomobile.be/imgcontrol/images_tmp/clients/moniteur/c680-d465/content/medias/images/news/43000/900/80/_aston_martin_vanquish_volante_08.jpg | Moniteur Automobile | desconocida |
+| /media/cecotec-bongo-serie-doble-z75-hunt1.webp | https://cdn.idealo.com/folder/Product/203517/1/203517185/s11_produktbild_max/cecotec-bongo-serie-doble-z75.jpg | idealo.es | desconocida |
+| /media/cecotec-bongo-serie-doble-z75-hunt2.webp | https://guanxe.com/img/cms/cecotec/685885/1.jpg | Guanxe | desconocida |
+| /media/cecotec-bongo-serie-doble-z75-hunt3.webp | https://fvstorageprodes.blob.core.windows.net/img/156302/sans3_nd.jpg | Feuvert | desconocida |
+| /media/kia-proceed-2025-precio-ficha-tecnica-hunt1.webp | https://www.kia.com/content/dam/kwcms/kme/it/it/assets/contents/modelli/proceed/my25/kia-proceed-gtline-750x480.png | Kia (web oficial) | desconocida |
+| /media/kia-proceed-2025-precio-ficha-tecnica-hunt2.webp | https://assets.adac.de/image/upload/v1/Autodatenbank/Fahrzeugbilder/im06377-1-kia-proceed.jpg | ADAC / engineindetail.com | desconocida |
+| /media/kia-proceed-2025-precio-ficha-tecnica-hunt3.webp | https://pcl.nationwidevehiclecontracts.co.uk/m/0/kia-proceed-shooting-brake-gt-line-1.jpg | Nationwide Vehicle Contracts | desconocida |
+| /media/lexus-is-300h-hunt1.webp | http://www.autotoja.lt/lexus/wp-content/uploads/2016/11/Lexus-IS-300h-18.jpg | Lexus / autotoja.lt | desconocida |
+| /media/sherco-st-250-factory-2025-ficha-tecnica-precio-hunt1.webp | https://images.medialinksonline.com/imagestream/176665/8113842x1024x0_FFFFFF_L_0.jpg | ET James & Sons (concesionario Sherco) | desconocida |
+| /media/sherco-st-250-factory-2025-ficha-tecnica-precio-hunt2.webp | http://roadandtrials.co.uk/cdn/shop/files/New2025shercotrialsbike250ccroadandtrials.png?v=1730841125 | Road and Trials | desconocida |
+| /media/sherco-st-250-factory-2025-ficha-tecnica-precio-hunt3.webp | https://equipmentsearch.com/uploadedimages/9045/37840839_15.jpg | Eskaperecreatif / EquipmentSearch | desconocida |
+| /media/aston-martin-valhalla-2025-precio-ficha-tecnica-hunt1.webp | https://www.slashgear.com/1733210/aston-martin-valhalla-details-hp-price-top-speed/ | SlashGear / Aston Martin | desconocida |
+| /media/aston-martin-valhalla-2025-precio-ficha-tecnica-hunt2.webp | https://www.conceptcarz.com/z33734/aston-martin-valhalla.aspx | Conceptcarz.com | desconocida |
+| /media/aston-martin-valhalla-2025-precio-ficha-tecnica-hunt3.webp | https://www.astonmartin.com/en/models/valhalla | Aston Martin (prensa oficial) | desconocida |
+| /media/kia-picanto-gt-line-2025-precio-ficha-tecnica-hunt1.webp | https://www.auto.co.il/cars/kia/picanto/ | auto.co.il / Kia | desconocida |
+| /media/kia-picanto-gt-line-2025-precio-ficha-tecnica-hunt2.webp | https://ftp.larevueautomobile.com/cote-gratuite/kia-picanto-1-2-84-2025 | La Revue Automobile | desconocida |
+| /media/kia-picanto-gt-line-2025-precio-ficha-tecnica-hunt3.webp | https://www.automativ.de/kia-picanto-12l-gt-line-facelift-2025-im-fahrbericht-sieht-erwachsen-aus-faehrt-er-auch-so-id-105774.html | AUTOmativ.de / Benjamin Brodbeck | desconocida |
+| /media/aston-martin-vanquish-2025-precio-ficha-tecnica-hunt1.webp | https://images.hgmsites.net/hug/2025-aston-martin-vanquish_100941042_h.webp | Motor Authority | desconocida |
+| /media/aston-martin-vanquish-2025-precio-ficha-tecnica-hunt2.webp | https://images.dailyrevs.com/0000/v3/Aston%20Martin/66d68068fd8ba4fe77a0e2c2/2025-vanquish-aston-martin-rtkgp77777m052v0zb4kuo.jpeg | DailyRevs | desconocida |
+| /media/aston-martin-vanquish-2025-precio-ficha-tecnica-hunt3.webp | https://images.dailyrevs.com/0000/v3/Aston%20Martin/66d68068fd8ba4fe77a0e2c2/2025-vanquish-aston-martin-riyhssssstf0jcf284xb25p.jpeg | DailyRevs | desconocida |
