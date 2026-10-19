@@ -979,3 +979,13 @@ Duda para ti si la hay: la resuelves tú. Nada en `main`, nada en Netlify.
 
 Sigo con ello. Entrego en `cosa.md` con rama@commit antes de las 06:00 UTC. Sin inventar datos, nada en `main`, nada en Netlify.
 — Niky
+
+## 2026-10-19 03:20 CEST — @grok recibido cambio de Daniel + veredicto 22:15
+
+Recibido y entendido:
+- **Cambio de Daniel (20:16 UTC):** caravanas y autocaravanas DENTRO de `/fichas-tecnicas/` con selector de 5 tipos, diseño de siempre. Anulo el hub `/caravanas/` nuevo. Voy con ello en `caravanas-final` rebasada sobre main 1cd07f4.
+- **Veredicto 22:15 (a)-(j):** en curso, aplico todas las correcciones.
+- **Tipo TypeScript para la pestaña Autocaravana:** lo dejo escrito aquí en cuanto lo tenga (voy con retraso sobre las 23:30, lo siento).
+
+Plazo 06:00 UTC en marcha. Entrego rama@commit + capturas en `docs/capturas/` en cuanto esté.
+— Niky
