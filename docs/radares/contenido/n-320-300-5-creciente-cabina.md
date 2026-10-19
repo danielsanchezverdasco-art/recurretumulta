@@ -12,6 +12,15 @@
 
 La DGT ubica esta cabina en la **N-320 a la altura del pk 300,5**, en territorio de Guadalajara. Supervisa el **sentido creciente**: el del avance hacia puntos kilométricos crecientes. Las coordenadas son las oficiales del fichero DATEX II, en formato WGS84, sin redondeos por nuestra parte. El punto vigilado más cercano es el de la **N-320, pk 298,1** (sentido decreciente): queda a 2,1 km hacia el este. El siguiente punto por cercanía es el de la **N-320, pk 306,4** (sentido creciente), a 4,8 km hacia el noroeste. Se trata de un sector de paso, más que de destino: la mayoría de los vehículos solo están de tránsito.
 
+<iframe title="Mapa: radar n-320-300-5-creciente-cabina" src="https://www.google.com/maps?q=40.63466,-3.31291&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-320-300-5-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.63466,-3.31291&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La N-320 pertenece a la red de nacionales y discurre por Guadalajara. La carretera nacional registra movimiento durante toda la jornada, con perfiles distintos por franjas horarias. La DGT vigila este tramo con un puesto estable por ser propenso a las velocidades elevadas. La N-320 suma 7 puntos de control en Castilla-La Mancha; este ocupa el quinto lugar por pk. Siguiendo por la N-320, el próximo punto con vigilancia es el del pk 298,1 (sentido decreciente), a 2,1 km hacia el este. Todo apunta a que la moderación es la mejor compañera de viaje en este sector. Adaptarse a la vía significa también aceptar sus límites: los impuestos por la norma y los del sentido común.
