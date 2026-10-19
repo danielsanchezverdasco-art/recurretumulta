@@ -12,6 +12,14 @@
 
 Nos situamos en el **pk 374,7 de la AP-7**, en plena provincia de Castellón. Registra a los vehículos que marchan en **sentido decreciente**, hacia pk decrecientes. Según el servicio oficial de geocodificación, el emplazamiento pertenece a **Santa Magdalena de Pulpis**. A 8,5 km hacia el noreste está el control más próximo, el de la **CV-141, pk 2,9** (sentido creciente).
 
+<iframe title="Mapa: radar ap-7-374-7-decreciente-cabina" src="https://www.google.com/maps?q=40.34874,0.29348&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar ap-7-374-7-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.34874,0.29348&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La AP-7, la Autopista del Mediterráneo, discurre por Castellón como vía de gran capacidad. La vía reparte su caudal entre transporte de mercancías, viajes y movilidad cotidiana. La zona responde al carácter de las comarcas del norte valenciano.
