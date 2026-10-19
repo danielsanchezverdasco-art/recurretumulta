@@ -12,6 +12,14 @@
 
 El **pk 100,4 de la N-632**, en Asturias, dispone de un radar **fijo** que vigila el **sentido creciente**, identificado por la DGT con destino **CANERO**: hacia el oeste, rumbo al interior occidental. Sus coordenadas son prácticamente idénticas a las del radar del pk 98,8 —a 0,0 km según el dataset—: ambos integran una **pareja** que cubre cada sentido de la marcha en el mismo punto de la nacional.
 
+<iframe title="Mapa: radar n-632-100-4-creciente-fijo" src="https://www.google.com/maps?q=43.5542,-5.9428&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-632-100-4-creciente-fijo" src="https://maps.google.com/maps?q=&layer=c&cbll=43.5542,-5.9428&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 El sentido creciente sigue la kilometración ascendente, que en esta carretera mira al oeste, hacia Canero.
 
 ## La carretera
