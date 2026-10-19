@@ -2056,3 +2056,28 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/stark-varg-ex-factory-edition-2026-ficha-tecnica-precio-hunt1.webp | https://enduro-mtb.com/wp-content/uploads/2026/04/Stark_Varg_EX_Test_Electric_Motocross_Enduro_WEB-3416.jpg | Enduro-MTB (Peter Walker) | desconocida |
 | /media/stark-varg-ex-factory-edition-2026-ficha-tecnica-precio-hunt2.webp | https://soymotero.net/wp-content/uploads/2024/12/Stark-Varg-EX-2025-22.jpg | SoyMotero.net | desconocida |
 | /media/stark-varg-ex-factory-edition-2026-ficha-tecnica-precio-hunt3.webp | https://wmr1.com/cdn/shop/files/stark-varg-ex-wmr-11.jpg?v=1734020789&width=1080 | WMR1 (distribuidor) | desconocida |
+| /media/alpine-a110-s-2026-precio-ficha-tecnica-hunt1.webp | https://assets.carandclassic.com/uploads/new/33649567/2026-alpine-a110-6a6a94cd75139.jpg | Car & Classic (foto de anuncio verificado) | desconocida |
+| /media/alpine-a110-s-2026-precio-ficha-tecnica-hunt2.webp | https://assets.adac.de/image/upload/ar_16:9,c_fill,f_auto,g_auto,q_auto:eco,w_1200/v1/Autodatenbank/Fahrzeugbilder/im04997-1-alpine-a110.jpg | ADAC (banco de datos de vehículos) | desconocida |
+| /media/alpine-a110-s-2026-precio-ficha-tecnica-hunt3.webp | https://media.motorbox.com/image/alpine-a110-color-edition-vista-34-posteriore/6/6/9/669476/669476-16x9-lg.jpg | Motorbox | desconocida |
+| /media/honda-s2000-2009-hunt1.webp | https://puromotor.com/wp-content/uploads/2020/02/02_honda_S2000-1260x840.jpg | PuroMotor | desconocida |
+| /media/kgm-actyon-gasolina-2025-precio-ficha-tecnica-hunt1.webp | https://www.motaauto.com/wp-content/uploads/2025/05/KGM-Actyon-2025-7.jpg | MotaAuto | desconocida |
+| /media/kgm-actyon-gasolina-2025-precio-ficha-tecnica-hunt2.webp | https://0aos100.pt/wp-content/uploads/2026/02/kgm_actyon_4.jpg | 0aos100.pt | desconocida |
+| /media/kgm-actyon-gasolina-2025-precio-ficha-tecnica-hunt3.webp | https://images.prismic.io/carwow/aMGDDGGNHVfTO_i5_LHDKGMActyon2025exterior1.jpg | Carwow | desconocida |
+| /media/livewire-s2-alpinista-2025-ficha-tecnica-precio-hunt1.webp | https://livewire.widen.net/content/wqifboyy8o/web/s2ap-bike-2.png?w=750&q=75 | LiveWire (banco oficial de medios) | desconocida |
+| /media/livewire-s2-alpinista-2025-ficha-tecnica-precio-hunt2.webp | https://www.gearpatrol.com/wp-content/uploads/sites/2/2025/01/livewire-s2-alpinista-motorcycle-jpg.webp?resize=1536,1536 | Gear Patrol | desconocida |
+| /media/livewire-s2-alpinista-2025-ficha-tecnica-precio-hunt3.webp | https://www.motoo.com.br/fotos/2025/1/1280_960/livewire_s2-alpinista_2025_4_16012025_62910_1280_960.jpg | Motoo.com.br | desconocida |
+| /media/urban-glide-500ct-hunt1.webp | https://urbanglide.com/wp-content/uploads/2023/11/RIDE-500CT-2.png | Urban Glide (web oficial) | desconocida |
+| /media/urban-glide-500ct-hunt2.webp | https://urbanglide.com/wp-content/uploads/2023/11/500CT-BANNIERE-MOBILE-PLIE.webp | Urban Glide (web oficial) | desconocida |
+| /media/urban-glide-500ct-hunt3.webp | https://pcdiga-prod.eu.saleor.cloud/media/thumbnails/products/P077354_1_4def1ab6_thumbnail_4096.jpg | PCDiga (tienda) | desconocida |
+| /media/alpine-a110-gts-2026-precio-ficha-tecnica-hunt1.webp | https://alexandersprestige.co.uk/media/app/uploads/2026/08/e23d052ac2964a25b4282e2f058acc6b.jpg | Alexanders Prestige | desconocida |
+| /media/alpine-a110-gts-2026-precio-ficha-tecnica-hunt2.webp | https://radical-mag.com/wp-content/uploads/2026/05/AlpineA110GTS-4-1920x1440.jpeg | radical-mag.com | desconocida |
+| /media/alpine-a110-gts-2026-precio-ficha-tecnica-hunt3.webp | https://www.passionandcar.fr/wp-content/uploads/2026/06/alpine-a110-gts-03.jpg.webp | passionandcar.fr | desconocida |
+| /media/kgm-korando-g15t-2025-precio-ficha-tecnica-hunt1.webp | https://www.euroteamlatina.it/media/utinqbs2/kgm-korando_iron-metal_2-tone.png | Euroteam Latina (concesionario KGM) | desconocida |
+| /media/kgm-korando-g15t-2025-precio-ficha-tecnica-hunt2.webp | https://dev-kgm-uk.euwest01.umbraco.io/new-cars/korando/technology/ | KGM UK (web oficial) | desconocida |
+| /media/kgm-korando-g15t-2025-precio-ficha-tecnica-hunt3.webp | https://drivingtorque.com/wp-content/uploads/2025/06/kgm-korando-2025-white-review-roadtest-rear-side.jpg | drivingtorque.com | desconocida |
+| /media/alpine-a290-gt-premium-2026-precio-ficha-tecnica-hunt1.webp | https://images.prismic.io/carwow/ah2aOgeQX7-eWfnu_01_AlpineA290_GT_Blue-GreyInterior_STATIC_3-4Front.jpg | Carwow | desconocida |
+| /media/alpine-a290-gt-premium-2026-precio-ficha-tecnica-hunt2.webp | https://cdn.grange.co.uk/assets/new-cars/alpine/a290/gt-+/a290-gt-ext_20260109105858614.webp | Grange (concesionario Alpine Reino Unido) | desconocida |
+| /media/alpine-a290-gt-premium-2026-precio-ficha-tecnica-hunt3.webp | https://media.autoexpress.co.uk/image/private/s--SW7Q1kNt--/f_auto,t_content-image-full-desktop@1/v1738773818/autoexpress/2025/02/Alpine%20A290%20GTS%202025-2.jpg | Auto Express | desconocida |
+| /media/hyundai-kona-n-2023-hunt1.webp | https://www.hyundai-n.com/images/en/n-zine/versatile-sports-16.jpg | Hyundai N (web oficial) | desconocida |
+| /media/hyundai-kona-n-2023-hunt2.webp | https://vehicle-images.carscommerce.inc/7556-110005403/KM8KH3AC8PU007868/c4cc58001601c1e9cb54bf150d402275.jpg | Ron Tonkin Hyundai (concesionario, foto de stock) | desconocida |
+| /media/hyundai-kona-n-2023-hunt3.webp | https://www.motortrend.com/uploads/2023/01/2023-Hyundai-Kona-N-19-scaled.jpg | MotorTrend / HotRod | desconocida |
