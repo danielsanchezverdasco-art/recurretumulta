@@ -12,6 +12,15 @@
 
 Hablamos del **pk 262,1 de la N-320**, en la provincia de Guadalajara. Controla el **sentido decreciente** de la marcha: los puntos kilométricos decrecientes. Si conoces la zona, el pk 262,1 te orientará mejor que la propia cabina: los equipos rotan, la ubicación publicada no cambia. A 1,6 km hacia el sureste está el control más próximo, el de la **N-320, pk 259,2** (sentido decreciente). El segundo control más cercano es el de la **N-320, pk 264,1** (sentido creciente), a 2,0 km hacia el oeste. El sector destaca por su fluidez: pocos obstáculos y un firme que permite circular con comodidad.
 
+<iframe title="Mapa: radar n-320-262-1-decreciente-cabina" src="https://www.google.com/maps?q=40.58535,-3.0628&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-320-262-1-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.58535,-3.0628&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La carretera es la N-320, nacional que atraviesa Guadalajara. En esta carretera nacional conviven camiones en ruta, turismos de viaje y vehículos de cercanías. La DGT vigila este tramo con un puesto estable por ser propenso a las velocidades elevadas. Entre los 7 radares publicados para la N-320 en la región, este es el segundo en orden de pk. En la misma N-320, el control más próximo es el del pk 259,2 (sentido decreciente): dista 1,6 km hacia el sureste. En conjunto, una vía donde la prudencia con la velocidad nunca está de más. La señalización de la vía es la guía principal: atenderla evita la mayoría de los problemas.
