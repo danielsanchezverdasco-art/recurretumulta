@@ -36,7 +36,7 @@ export const CARAVANAS_KNAUS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagen: "/media/knaus-sport-500-qdk-2026.webp",
     imagenOficial: "/media/knaus-sport-500-qdk-2026.webp",
-    imagenInteriorOficial: "",
+    imagenInteriorOficial: "/media/fotos-reales/knaus-sport-500-qdk-2026-precio-ficha-tecnica/knaus-sport-500-qdk-2026-precio-ficha-tecnica-int-1.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 7320,
@@ -94,6 +94,8 @@ export const CARAVANAS_KNAUS: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/knaus-sport-500-qdk-2026-precio-ficha-tecnica/knaus-sport-500-qdk-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la Knaus Sport 500 QDK, cocina y comedor", ancho: 768, alto: 1024 },
+      { src: "/media/fotos-reales/knaus-sport-500-qdk-2026-precio-ficha-tecnica/knaus-sport-500-qdk-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Knaus Sport 500 QDK, dormitorio, comedor y cocina", ancho: 1270, alto: 850 },
     ],
     analisisSlug: "knaus-sport-500-qdk-2026-precio-ficha-tecnica",
     planMantenimiento: {
@@ -200,6 +202,7 @@ export const CARAVANAS_KNAUS: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/knaus-sport-450-fu-2026-precio-ficha-tecnica/knaus-sport-450-fu-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Knaus Sport 450 FU, cocina y comedor", ancho: 1920, alto: 1440 },
     ],
     analisisSlug: "knaus-sport-450-fu-2026-precio-ficha-tecnica",
     planMantenimiento: {
@@ -306,6 +309,7 @@ export const CARAVANAS_KNAUS: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/knaus-suedwind-500-fu-2026-precio-ficha-tecnica/knaus-suedwind-500-fu-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Knaus Südwind 500 FU, cocina y comedor (Südwind 60 Years)", ancho: 1920, alto: 1440 },
     ],
     analisisSlug: "knaus-suedwind-500-fu-2026-precio-ficha-tecnica",
     planMantenimiento: {

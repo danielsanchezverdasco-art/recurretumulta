@@ -87,6 +87,7 @@ export const CARAVANAS_LMC: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/lmc-sassino-430-d-2026-precio-ficha-tecnica/lmc-sassino-430-d-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la LMC Sassino 430 D, dormitorio", ancho: 1920, alto: 1440 },
     ],
     analisisSlug: "lmc-sassino-430-d-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
@@ -182,6 +183,7 @@ export const CARAVANAS_LMC: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/lmc-sassino-470-k-2026-precio-ficha-tecnica/lmc-sassino-470-k-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la LMC Sassino 470 K, comedor y dormitorio (1280x853)", ancho: 1280, alto: 853 },
     ],
     analisisSlug: "lmc-sassino-470-k-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
@@ -277,6 +279,7 @@ export const CARAVANAS_LMC: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/lmc-style-450-d-2026-precio-ficha-tecnica/lmc-style-450-d-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la LMC Style 450 D, comedor y dormitorio", ancho: 1600, alto: 1200 },
     ],
     analisisSlug: "lmc-style-450-d-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
@@ -372,6 +375,7 @@ export const CARAVANAS_LMC: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/lmc-style-lift-500-k-2026-precio-ficha-tecnica/lmc-style-lift-500-k-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la LMC Style Lift 500 K, comedor con cama elevable (1024x768)", ancho: 1024, alto: 768 },
     ],
     analisisSlug: "lmc-style-lift-500-k-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {

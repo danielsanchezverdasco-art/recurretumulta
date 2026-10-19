@@ -371,6 +371,7 @@ export const CARAVANAS_KABE: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/kabe-imperial-630-tdl-2026-precio-ficha-tecnica/kabe-imperial-630-tdl-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Kabe Imperial 630 TDL, cocina y dormitorio", ancho: 960, alto: 1280 },
     ],
     analisisSlug: "kabe-imperial-630-tdl-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
