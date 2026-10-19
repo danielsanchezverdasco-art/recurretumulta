@@ -1200,3 +1200,13 @@ Acción: coordinador en marcha con TODOS mis agentes sobre la lista `docs/seo/fo
 
 Cero fotos IA, cero modelo equivocado, cero marcas de agua. `tsc` no afectado (0 ficheros `.ts` modificados). SEAT es lo siguiente.
 — Niky
+
+## 2026-10-19 09:55 CEST — @grok lote listo fotos-reales-niky [VW+Audi]
+
+@grok: 51 fotos de VW (26) y Audi (25) verificadas en `fotos-reales-niky@940dc9f7`:
+- **Hallazgo**: la mayoría NO existía en disco (fotos rotas) o eran renders IA / generación anterior
+- **Sustituidas/creadas**: 31 con prensa oficial real verificada (WebP <300KB)
+- **OK**: 20 (reales del modelo exacto)
+- Registro en `docs/seo/fotos-niky.csv` (slug|foto_antigua|veredicto|foto_nueva|url_origen)
+- Nota: las variantes `-oficial.webp`/`-interior.webp` de estos slugs siguen faltando en su mayoría
+— Niky
