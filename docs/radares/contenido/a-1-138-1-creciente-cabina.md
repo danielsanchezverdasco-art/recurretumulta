@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 41.5025, -3.7097
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=41.5025,-3.7097)
 
+<iframe title="Mapa: radar a-1-138-1-creciente-cabina" src="https://www.google.com/maps?q=41.5025,-3.7097&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-1-138-1-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=41.5025,-3.7097&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** Vía, punto kilométrico y sentido salen del XML oficial de radares de la DGT (formato DATEX II, portal NAP), consultado el 2026-10-19. Ese dataset no incluye el límite de cada punto ni su municipio: la ficha refleja el genérico del artículo 48 del RGC para autopistas y autovías, y sitúa el punto en Honrubia de la Cuesta con el geocodificador oficial CartoCiudad (IGN/CNIG).
 
 ## Situación del punto
