@@ -11,6 +11,14 @@
 ## Dónde está
 
 El emplazamiento está en la N-550, pk 108,9, en Barro (Pontevedra): 42.512653, -8.642779. La cabina enfoca el sentido creciente, el de los vehículos hacia puntos kilométricos mayores, con destino Tui en el registro oficial. Desde el enlace de Street View puede reconocerse el punto sobre la calzada.
+
+<iframe title="Mapa: radar n-550-108-9-creciente-cabina" src="https://www.google.com/maps?q=42.512653,-8.642779&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-550-108-9-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.512653,-8.642779&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
 ## La carretera
 
 Nacional convencional de la Red de Carreteras del Estado, la N-550 une A Coruña con Tui. La DGT la marca como «CARRETERA NACIONAL». El XML no detalla el tramo del pk 108,9. Las nacionales convencionales alternan travesías, intersecciones y tramos abiertos bajo un mismo genérico; cada señal instalada matiza ese valor punto por punto.
