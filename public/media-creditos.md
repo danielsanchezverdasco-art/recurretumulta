@@ -679,3 +679,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/urban-glide-eon-x-hunt1.webp | https://lojae-s3-prd-files.radiopopular.pt/files/static/images/products/133517_9.jpg | Radio Popular | desconocida |
 | /media/urban-glide-eon-x-hunt2.webp | https://www.worten.pt/i/5b000b2742d2cf74cadf23198446c39a4313afb4 | Worten | desconocida |
 | /media/urban-glide-eon-x-hunt3.webp | https://lojae-s3-prd-files.radiopopular.pt/files/static/images/products/133517_7.jpg | Radio Popular | desconocida |
+| /media/fantic-xe-125-2025-ficha-tecnica-precio-hunt1.webp | https://www.bikeit.gr/etairies-diafora/item/40266-afieroma-ta-nea-montela-fantic-motor-2025 | Bikeit.gr (ficha de la gama Fantic Motor 2025) | desconocida |
+| /media/fantic-xe-125-2025-ficha-tecnica-precio-hunt2.webp | https://www.bikeit.gr/nea-montela-2/item/38499-fantic-off-road-2025-gama-ennia-montelon-mx-kai-enduro | Bikeit.gr (gama off-road Fantic 2025) | desconocida |
+| /media/fantic-xe-125-2025-ficha-tecnica-precio-hunt3.webp | https://enduromagazine.com/suspension-delantera/horquilla-invertida-sss-kayaba-o-48-mm/ | Enduro Magazine (2024-06, ficha comparador MY25) | desconocida |
+| /media/gasgas-txt-gp-250-2025-ficha-tecnica-precio-hunt1.webp | https://masgasgas.es/wp-content/uploads/2023/01/PHO_BIKE_PERS_REHI_GASGAS-2025-txt-gp-250-left-right_SALL_AEPI_V1.jpg | Más GasGas / GASGAS España (foto oficial de prensa) | desconocida |
+| /media/gasgas-txt-gp-250-2025-ficha-tecnica-precio-hunt2.webp | https://azwecdnepstoragewebsiteuploads.azureedge.net/PHO_BIKE_DET_FactoryGraphics_%23SALL_%23AEPI_%23V2.jpg | GASGAS (web oficial) | desconocida |
+| /media/gasgas-txt-gp-250-2025-ficha-tecnica-precio-hunt3.webp | https://cdpcdn.dx1app.com/products/USA/GG/2025/MC/TRIALS/TXT_GP_250/50/RED/2000000033_480px.jpg | aeopowersports.com / CDP (foto oficial de prensa GASGAS EE. UU.) | desconocida |
+| /media/fantic-xef-310-2025-ficha-tecnica-precio-hunt1.webp | https://images.67degreescdn.co.uk/2-7PEpn8D2aUo0ORKFOXu7E14Gk=/1500x868/smart/649/6/e170b588fe0ab124e527_fantic-xef-310.jpg | Fantic / DART Motorsport | desconocida |
+| /media/fantic-xef-310-2025-ficha-tecnica-precio-hunt2.webp | https://67cdn.co.uk/649/1/d38231694e260a49c907_fantic-xef-310-dash-2048x1366.jpg?crop=auto | Fantic / DART Motorsport | desconocida |
+| /media/fantic-xef-310-2025-ficha-tecnica-precio-hunt3.webp | https://images.67degreescdn.co.uk/JAYS8d9_Y3zG471n7bic2mxkGl4=/973x547/smart/649/6/e170b588fe0ab124e527_fantic-xef-310.jpg | Fantic / DART Motorsport | desconocida |
+| /media/urban-glide-urbanride-85-city-hunt1.webp | https://urbanglide.com/en/produit/scooter-ride-85-city/ | Urban Glide (web oficial) | desconocida |
+| /media/urban-glide-urbanride-85-city-hunt2.webp | https://contents.mediadecathlon.com/m14514437/k$a8bdaf6b4564d3eb6a92e02ace419d31/sq/urbanglide-ride-85city-trottinette-electrique-legere-350w-15-km-dautonomie.jpg | Decathlon (tienda) | desconocida |
+| /media/urban-glide-urbanride-85-city-hunt3.webp | https://www.pccomponentes.it/monopattino-elettrico-urbanglide-ride-85city-350-w-8-5 | PcComponentes (tienda) | desconocida |
+| /media/gasgas-es-700-2024-ficha-tecnica-precio-hunt1.webp | https://www.gasgas.com/en-hu/models/travel/es-700-2024.html | GasGas (web oficial) | desconocida |
+| /media/gasgas-es-700-2024-ficha-tecnica-precio-hunt2.webp | https://www.gasgas.com/en-hu/models/travel/es-700-2024.html | GasGas (web oficial) | desconocida |
+| /media/gasgas-es-700-2024-ficha-tecnica-precio-hunt3.webp | https://www.gasgas.com/en-hu/models/travel/es-700-2024.html | GasGas (web oficial) | desconocida |
+| /media/alpine-a390-gts-2026-precio-ficha-tecnica-hunt1.webp | https://alpinepietrzak.pl/ | Alpine Pietrzak (concesionario oficial Alpine) | desconocida |
+| /media/alpine-a390-gts-2026-precio-ficha-tecnica-hunt2.webp | https://www.ev-market.fr/alpine/a390/gts-2026-03 | EV Database / EV-Market.fr | desconocida |
+| /media/alpine-a390-gts-2026-precio-ficha-tecnica-hunt3.webp | https://auto-info.be/test-alpine-a390-gts-of-hoe-plezant-nog-een-pak-plezanter-wordt/ | Auto-Info.be (foto de prensa oficial Alpine) | desconocida |
+| /media/kgm-tivoli-grand-g15t-2026-precio-ficha-tecnica-hunt1.webp | http://topictree.co.kr/wp-content/uploads/2026/06/2026-kgm-tivoli-v1-price-comparison7.webp | Topictree (blog del motor, Corea) | desconocida |
+| /media/kgm-tivoli-grand-g15t-2026-precio-ficha-tecnica-hunt2.webp | https://carandmore.co.kr/latest-news/article/56517/ | Car and More (prensa del motor, Corea) | desconocida |
+| /media/jaguar-xf-2024-hunt1.webp | https://www.quecochemecompro.com/precios/jaguar-xf | quecochemecompro.com (blog del motor) | desconocida |
+| /media/kia-ev9-2024-precio-ficha-tecnica-hunt1.webp | https://www.kia.com/content/dam/kwcms/kme/global/en/assets/360vr/ev9-gtline-lidar-my24/obmoceanblue/21_alloy_wheel/kia-ev9-mvgtlinemy24-obmoceanblue-21_0009.jpg | Kia Motors (web oficial) | desconocida |
+| /media/kia-ev9-2024-precio-ficha-tecnica-hunt2.webp | https://paultan.org/image/2024/05/2024-Kia-EV9-Malaysia-launch-official-19.jpg | Paul Tan's Automotive News (fotos oficiales de lanzamiento) | desconocida |
+| /media/kia-ev9-2024-precio-ficha-tecnica-hunt3.webp | https://www.biker.sk/wp-content/uploads/2024/03/KIA_EV9-GTLine-Interior-online_1920x1080_10.jpg | Biker.sk / Kia (fotos oficiales) | desconocida |
