@@ -12,6 +12,14 @@
 
 Esta caja vigila la **A-3 en el punto kilométrico 247,6**, dentro de Valencia. El control se ejerce sobre el **sentido decreciente** de la circulación (hitos kilométricos decrecientes). El punto se asignó a **Minglanilla** (IGN) con micro-desplazamiento; consta en Fuentes. El punto vigilado más cercano es el de la **A-3, pk 292,1** (sentido creciente): queda a 39,5 km hacia el este.
 
+<iframe title="Mapa: radar a-3-247-6-decreciente-cabina" src="https://www.google.com/maps?q=39.54811,-1.5117&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-3-247-6-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.54811,-1.5117&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 Es la A-3: la Autovía del Este, que une Madrid con Valencia. El flujo combina puntas horarias laborales con movimientos de ocio de fin de semana. El marco geográfico es el corredor central valenciano.
