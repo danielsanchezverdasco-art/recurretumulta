@@ -11,6 +11,14 @@
 ## Dónde está
 
 La cabina está en la AC-11, pk 3,1, en A Coruña (A Coruña), coordenadas 43.32987, -8.39528. Vigila el sentido creciente —vehículos hacia pks mayores—, con destino Ponte Pasaxe según la DGT. El enlace de Street View muestra el punto exacto.
+
+<iframe title="Mapa: radar ac-11-3-1-creciente-cabina" src="https://www.google.com/maps?q=43.32987,-8.39528&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar ac-11-3-1-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=43.32987,-8.39528&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
 ## La carretera
 
 La AC-11 es una vía autonómica de la Xunta de Galicia que da acceso a A Coruña. La DGT la clasifica como «AUTOPISTA / AUTOVÍA»: rige el régimen de alta capacidad. El XML no describe el tramo del pk 3,1.
