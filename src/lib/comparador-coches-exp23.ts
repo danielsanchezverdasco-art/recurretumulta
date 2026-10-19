@@ -2369,6 +2369,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       "Sin prueba EuroNCAP del modelo actual",
       "Las plazas 6 y 7 son testimoniales",
       "Interior funcional, poco premium",
+      "Precio sin publicar en tarifa abierta por motorización",
     ],
     imagen: "/media/land-rover-discovery-sport-d200-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/land-rover-discovery-sport-d200-2025-precio-ficha-tecnica-oficial.webp",
@@ -2410,7 +2411,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "RS3 Sedan",
     tipo: "Gasolina",
     categoria: "Berlina",
-    precioDesde: null,
+    precioDesde: 90680, // audi.es oficial 10/2026: RS 3 Sedan «desde 90.680,00 € IVA incluido»
     potenciaCv: 400,
     autonomiaKm: null,
     maleteroL: 321,
@@ -2485,7 +2486,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "RS6 Avant performance",
     tipo: "Gasolina",
     categoria: "Familiar",
-    precioDesde: null,
+    precioDesde: null, // sin tarifa abierta por motorización: audi.es muestra la versión sin «desde» (oct-2026)
     potenciaCv: 630,
     autonomiaKm: null,
     maleteroL: 565,
@@ -2518,6 +2519,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       "Etiqueta C y consumo de más de 14 l/100 km reales",
       "Precio de superdeportivo",
       "5 metros de largo para el día a día",
+      "Precio sin publicar en tarifa abierta por motorización",
       "Versión RS sin prueba EuroNCAP propia",
     ],
     imagen: "/media/audi-rs6-avant-performance-2025-precio-ficha-tecnica-hero.webp",
@@ -2560,7 +2562,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "S3 Sportback",
     tipo: "Gasolina",
     categoria: "Urbano",
-    precioDesde: 69390,
+    precioDesde: 69390, // audi.es oficial 10/2026 verificado: S3 Sportback «desde 69.390,00 € IVA incluido»
     potenciaCv: 333,
     autonomiaKm: null,
     maleteroL: 325,
@@ -2635,7 +2637,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "SQ5 Sportback",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: 100580,
+    precioDesde: 100580, // audi.es oficial 10/2026 verificado: SQ5 Sportback «desde 100.580,00 € IVA incluido»
     potenciaCv: 367,
     autonomiaKm: null,
     maleteroL: 470,
@@ -2860,7 +2862,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "RS Q8 performance",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 194020, // audi.es oficial 10/2026: RS Q8 SUV performance «desde 194.020,00 € IVA incl.»
     potenciaCv: 640,
     autonomiaKm: null,
     maleteroL: 605,
@@ -2935,7 +2937,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Q7 55 TFSI",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 89300, // prensa.audi.es oficial, lista precios Q7 SUV MY26 (dic-2025): 55 TFSI quattro 250 kW (340 CV) Advanced = 89.300 €
     potenciaCv: 340,
     autonomiaKm: null,
     maleteroL: 740,
@@ -3010,7 +3012,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "M4 CS",
     tipo: "Gasolina",
     categoria: "Deportivo",
-    precioDesde: null,
+    precioDesde: 193100, // BMW Group España 09/2024: M4 CS 193.100 € en España (press.bmwgroup.com/spain)
     potenciaCv: 550,
     autonomiaKm: null,
     maleteroL: 440,
@@ -3085,7 +3087,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Serie 2 Active Tourer 225e",
     tipo: "Híbrido enchufable",
     categoria: "Monovolumen",
-    precioDesde: null,
+    precioDesde: 49776, // bmw.es 10/2026: 225e xDrive 49.775,90 € venta al contado (transporte, descuento, mantenimiento 4 años/80.000 km e impuestos incl.)
     potenciaCv: 245,
     autonomiaKm: 84,
     maleteroL: 406,
@@ -3194,6 +3196,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       "Plazas traseras solo para niños",
       "El M2 ofrece mucho más por un salto asumible",
       "Versión sin prueba EuroNCAP propia",
+      "Precio sin publicar en tarifa abierta por motorización",
     ],
     imagen: "/media/bmw-m240i-xdrive-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/bmw-m240i-xdrive-2026-precio-ficha-tecnica-oficial.webp",
@@ -3269,6 +3272,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       "Precio muy alto",
       "2,5 toneladas: la física se nota en curva",
       "El X5 xDrive50e ofrece etiqueta Cero",
+      "Precio sin publicar en tarifa abierta por motorización",
     ],
     imagen: "/media/bmw-x5-m60i-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/bmw-x5-m60i-2026-precio-ficha-tecnica-oficial.webp",
@@ -3344,6 +3348,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       "Precio alto para no ser el tope de gama",
       "Plazas traseras justas",
       "Versión AMG sin prueba EuroNCAP propia",
+      "Precio sin publicar en tarifa abierta por motorización",
     ],
     imagen: "/media/mercedes-amg-cle-53-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mercedes-amg-cle-53-2025-precio-ficha-tecnica-oficial.webp",
@@ -3385,7 +3390,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Clase G 450 d",
     tipo: "Diésel",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 155678, // mercedes-benz.es 10/2026: G 450 d 155.678,47 € en tarifa abierta ("Financiación y precios")
     potenciaCv: 367,
     autonomiaKm: null,
     maleteroL: 640,
@@ -3460,7 +3465,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "AMG S 63 e-performance",
     tipo: "Híbrido enchufable",
     categoria: "Berlina",
-    precioDesde: null,
+    precioDesde: 271982, // mercedes-benz.es, tarifa oficial PDF Precios-Clase-S (actualizada 01/01/2026): AMG S 63 E PERFORMANCE Berlina larga 271.982,00 € PVP
     potenciaCv: 802,
     autonomiaKm: 33,
     maleteroL: 305,
@@ -3569,6 +3574,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       "4 cilindros con sonido artificial",
       "Suspensión muy dura para el día a día",
       "Precio alto para un compacto",
+      "Precio sin publicar en tarifa abierta por motorización",
     ],
     imagen: "/media/mercedes-amg-cla-45-s-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mercedes-amg-cla-45-s-2025-precio-ficha-tecnica-oficial.webp",
@@ -3610,9 +3616,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "AMG GLC 63 S e-performance",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 143569, // quadis.es (concesionario oficial Mercedes) 10/2026: GLC SUV 63 AMG S 680 E Performance 500 kW 143.569 €; coincide km77.com
     potenciaCv: 680,
-    autonomiaKm: 33,
+    autonomiaKm: 12, // corrección: 33 km era del AMG S 63; GLC 63 S E Performance homologa 12 km (km77.com; quadis.es)
     maleteroL: 390,
     ceroCien: 3.5,
     velocidadMax: 275,
@@ -3632,7 +3638,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 1020,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["autonomiaKm", "maleteroL", "consumo"],
+    aprox: ["maleteroL", "consumo"],
     pros: [
       "680 CV con etiqueta Cero: el SUV compacto más potente",
       "0-100 en 3,5 s con 1.020 Nm",
@@ -3640,7 +3646,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       "Práctico con 390 litros de maletero",
     ],
     contras: [
-      "33 km eléctricos: la etiqueta Cero es testimonial",
+      "12 km eléctricos: la etiqueta Cero es testimonial",
       "4 cilindros con sonido amplificado artificialmente",
       "2,3 toneladas y precio de superdeportivo",
       "Complejidad mecánica máxima",
