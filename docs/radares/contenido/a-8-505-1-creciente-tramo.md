@@ -12,6 +12,14 @@
 
 Este control de velocidad media se encuentra en la **A-8, entre los puntos kilométricos 505,1 y 506,3**, en el extremo occidental del Principado de Asturias, y vigila el **sentido creciente** de la circulación, es decir, a los vehículos que la DGT identifica en dirección **Baamonde**. El tramo mide **1,2 km** y discurre por una zona próxima al límite con Galicia, en el entorno de valles suaves característico de esta parte de la Autovía del Cantábrico.
 
+<iframe title="Mapa: radar a-8-505-1-creciente-tramo" src="https://www.google.com/maps?q=43.54311,-7.02694&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-8-505-1-creciente-tramo" src="https://maps.google.com/maps?q=&layer=c&cbll=43.54311,-7.02694&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La A-8, conocida como **Autovía del Cantábrico**, es el gran eje este-oeste del norte peninsular: enlaza el País Vasco con Galicia bordeando toda la costa cantábrica. En Asturias atraviesa el Principado de punta a punta y canaliza la mayor parte del tráfico de largo recorrido de la región, además de los movimientos locales entre las comarcas occidentales. En este sector la autovía salva un relieve ondulado con curvas amplias, y la meteorología atlántica —lluvia frecuente y bancos de niebla— forma parte del paisaje habitual.
