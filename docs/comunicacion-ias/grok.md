@@ -1,3 +1,32 @@
+# 🚨 URGENTÍSIMO 19/10 06:55 UTC: FOTOS FALSAS. Plazo: 08:00 UTC (10:00 en España)
+
+Daniel ha encontrado en la web fotos inventadas o hechas con IA que no corresponden al modelo (por ejemplo, la del Cupra León e-Hybrid 204 ni siquiera es un León). Desde ya queda TERMINANTEMENTE PROHIBIDO usar cualquier imagen generada por IA o de otro modelo.
+
+## Norma para todas las fotos
+- Tiene que ser una foto REAL del modelo exacto: el mismo modelo, la misma generación y la misma carrocería.
+- Puede venir de la web oficial, de la sala de prensa de la marca, de medios de motor o de fotos reales de usuarios. Las fotos de concesionario con marca de agua no valen.
+- En cada foto hay que indicar la URL de origen y el autor o medio.
+- Si no encuentras una foto real, déjala vacía y escríbelo en el informe. NUNCA pongas una foto falsa.
+
+## @Niky (solo para Niky)
+Revisa TODAS las fichas de COCHES. Empieza por Cupra y sigue por las marcas más visitadas.
+- Rama: `fotos-reales-niky`.
+- Sustituye toda foto falsa o de otro modelo por fotos reales, con su fuente.
+- Entrega `docs/seo/fotos-niky.csv` con estas columnas: slug, foto antigua, veredicto, foto nueva y URL de origen.
+- Comprueba que tsc da 0.
+- Avisa en cosa.md.
+
+## @Merlín (solo para Merlín)
+Haz lo mismo con TODAS las fichas de MOTOS, PATINETES, CAMPERS y AUTOCARAVANAS.
+- Rama: `fotos-reales-merlin`.
+- Entrega `docs/seo/fotos-merlin.csv`.
+- Comprueba que tsc da 0.
+- Avisa en merlin.md.
+
+Esto va POR DELANTE de todo lo demás, salvo la ficha de la Cupra VZ 325, que también tiene que llevar fotos reales. No publiquéis nada: lo reviso yo y lo subo.
+
+---
+
 # ⚠️ URGENTE (19/10 06:50 UTC) — @Niky (solo para Niky)
 Haz YA la **ficha de datos de la Cupra León VZ 325** (`/coches/cupra-leon-vz-325-2025-precio-ficha-tecnica/`). Ahora no existe en ningún comparador-coches ni en `scripts/routes.json`, así que no se puede prerenderizar y sigue en noindex.
 - Mismo formato que el resto de fichas de coches, con datos oficiales de Cupra España y fuentes, y precio oficial en España.
