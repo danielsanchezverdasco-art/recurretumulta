@@ -1207,3 +1207,28 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/tank-400-hi4-t-2025-precio-ficha-tecnica-hunt1.webp | https://chinavehicles.en.made-in-china.com/product/YADplUnHBRcT/China-Gwm-Automotive-Tank-400-Hi4-T-New-Energy-Hybrid-SUV-Electric-Car.html | GWM Tank / Made-in-China (China Vehicles) | desconocida |
 | /media/tank-400-hi4-t-2025-precio-ficha-tecnica-hunt2.webp | https://evmagz.com/tank-unveils-the-tank-400-hi4-t-expanding-its-hybrid-lineup-in-china/ | GWM Tank / EVMagz | desconocida |
 | /media/tank-400-hi4-t-2025-precio-ficha-tecnica-hunt3.webp | https://www.ixbt.com/news/2025/07/17/tank-400-hi4-t-2025-5-2-5.html | iXBT.com | desconocida |
+| /media/denza-n9-byd-2026-precio-ficha-tecnica-hunt1.webp | https://images.dailyrevs.com/0000/v3/Denza/67de8c4fff7ebf28f23d32d2/2025-n9-denza-fe2ne77777e0bl9ndpj47dl.jpeg | DailyRevs (blog del motor) | desconocida |
+| /media/denza-n9-byd-2026-precio-ficha-tecnica-hunt2.webp | https://sicily-evs.com/wp-content/uploads/2025/02/denza-n9-post-2-1-1024x768.webp | sicily-evs.com (blog del motor) | desconocida |
+| /media/denza-n9-byd-2026-precio-ficha-tecnica-hunt3.webp | https://auto-dealer-online.ru/wp-content/uploads/2026/07/denza-n9-2026-interior-2.webp | auto-dealer-online.ru (blog del motor) | desconocida |
+| /media/mercedes-amg-a35-2025-precio-ficha-tecnica-hunt1.webp | https://media.oneweb.mercedes-benz.com/images/dynamic/europe/SK/177051/807/iris.png | Mercedes-Benz (prensa oficial) | desconocida |
+| /media/mercedes-amg-a35-2025-precio-ficha-tecnica-hunt2.webp | https://www.mercedes-benz.ph/media/y3nlfwqz/ambient-lighting.png | Mercedes-Benz (web oficial) | desconocida |
+| /media/mercedes-amg-a35-2025-precio-ficha-tecnica-hunt3.webp | https://carbikeworld.com/_next/image?url=https%3A%2F%2Fcdn.carbikeworld.com%2Fstorage%2Fimages%2Fmercedes-benz%2Famg-a35%2FmDvAbjED6BH0Zkd4ihpdBagdb9eX4wDi8gDbWbDh.webp | CarBikeWorld (blog del motor) | desconocida |
+| /media/luxeed-r7-huawei-2026-precio-ficha-tecnica-hunt1.webp | https://m.arenaev.com/huawei_and_chery_launch_the_luxeed_r7_suv_to_rival_teslas_model_y-amp-3956.php | ArenaEV | desconocida |
+| /media/luxeed-r7-huawei-2026-precio-ficha-tecnica-hunt2.webp | https://www.electrive.com/es/2024/10/23/luxeed-lanza-la-venta-del-r7-en-china/ | Electrive | desconocida |
+| /media/luxeed-r7-huawei-2026-precio-ficha-tecnica-hunt3.webp | https://tl.aicarglobal.com/product-category/harmony-lntelligent-mobility-alliance/ | AI Car Global | desconocida |
+| /media/jaguar-f-pace-2025-precio-ficha-tecnica-hunt1.webp | https://carbuzz.com/cars/jaguar/f-pace/2025/specs-and-trims/ | CarBuzz | desconocida |
+| /media/jaguar-f-pace-2025-precio-ficha-tecnica-hunt2.webp | https://www.londonjaguar.ca/2025-jaguar-f-pace-trim-levels.html | London Jaguar | desconocida |
+| /media/jaguar-f-pace-2025-precio-ficha-tecnica-hunt3.webp | https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/jaguar/f-pace/x761-facelift/334334/ | ADAC | desconocida |
+| /media/inmotion-s1-hunt1.webp | https://www.edashmobility.com/collections/electric-road-scooters/products/inmotion-s1 | Edash Mobility | desconocida |
+| /media/ford-fiesta-2025-precio-ficha-tecnica-hunt1.webp | https://www.actualidadmotor.com/ford-fiesta-2022-restyling/ | Actualidad Motor | desconocida |
+| /media/ford-fiesta-2025-precio-ficha-tecnica-hunt2.webp | https://www.autonocion.com/noticias-motor/page/58/ | Autonoción | desconocida |
+| /media/ford-fiesta-2025-precio-ficha-tecnica-hunt3.webp | https://www.carwow.co.uk/ | Carwow UK | desconocida |
+| /media/citroen-c4-x-hibrido-2026-precio-ficha-tecnica-hunt1.webp | https://www.citroen.nl/aanschaf/onze-aanbiedingen/particulier/c4-x.html | Citroën / Stellantis (citroen.nl) | desconocida |
+| /media/citroen-c4-x-hibrido-2026-precio-ficha-tecnica-hunt2.webp | https://ftp.larevueautomobile.com/cote-gratuite/citroen-c4-x-hybrid-136-2026 | La Revue Automobile | desconocida |
+| /media/citroen-c4-x-hibrido-2026-precio-ficha-tecnica-hunt3.webp | https://ftp.larevueautomobile.com/cote-gratuite/citroen-c4-x-hybrid-136-2026 | La Revue Automobile | desconocida |
+| /media/nissan-patrol-2025-precio-ficha-tecnica-hunt1.webp | https://en.allnewpatrol.nissan-me.com/ | Nissan (prensa oficial) | desconocida |
+| /media/nissan-patrol-2025-precio-ficha-tecnica-hunt2.webp | https://www.carexpert.com.au/ | CarExpert | desconocida |
+| /media/nissan-patrol-2025-precio-ficha-tecnica-hunt3.webp | https://www.autoindustriya.com/new/car/Nissan/patrol.html | AutoIndustriya | desconocida |
+| /media/toyota-c-hr-plus-2026-precio-ficha-tecnica-hunt1.webp | https://www.dailyrevs.com/cars/2026-toyota-c-hr-plus-mineral | DailyRevs | desconocida |
+| /media/toyota-c-hr-plus-2026-precio-ficha-tecnica-hunt2.webp | https://www.autonews.com/toyota/an-toyota-chr-revival-0311/ | AutoNews | desconocida |
+| /media/toyota-c-hr-plus-2026-precio-ficha-tecnica-hunt3.webp | https://www.dmt-puls.de/news/rein-elektrisch-der-toyota-c-hr/ | DMT Puls | desconocida |
