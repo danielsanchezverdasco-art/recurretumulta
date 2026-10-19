@@ -12,6 +12,14 @@
 
 Esta cabina vigila el pk 579,2 de la A-8, en Vilalba (Lugo); coordenadas 43.2956, -7.6981. Su objetivo es la circulación en sentido creciente, hacia pks más altos, con destino BAAMONDE según el registro oficial. El punto exacto sobre la vía puede verse en el Street View enlazado.
 
+<iframe title="Mapa: radar a-8-579-2-creciente-cabina" src="https://www.google.com/maps?q=43.2956,-7.6981&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-8-579-2-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=43.2956,-7.6981&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La A-8, Autovía del Cantábrico, es una vía de titularidad estatal. El XML de la DGT la clasifica con la singularidad «AUTOPISTA / AUTOVÍA» por su denominación oficial. El fichero no describe este tramo concreto, así que la ficha no lo caracteriza.
