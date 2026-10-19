@@ -97,6 +97,7 @@ export const CAMPERS_FORD: CocheComparador[] = [
     },
     fuenteNombre: "Ford España (gama Nugget)",
     fuenteUrl: "https://www.ford.es/turismos/nugget",
+        mmaKg: null,
     curiosidad: {
       texto:
         "La Nugget la camperiza Westfalia en Alemania para Ford desde 1986: es una de las colaboraciones más longevas entre un fabricante y un camperizador.",
@@ -196,6 +197,7 @@ export const CAMPERS_FORD: CocheComparador[] = [
     },
     fuenteNombre: "Ford España (gama Nugget)",
     fuenteUrl: "https://www.ford.es/turismos/nugget",
+        mmaKg: null,
     curiosidad: {
       texto:
         "El acabado Active nació en los turismos Ford (Fiesta, Focus) y llegó a la Nugget para darle un aire más aventurero sin el sobrecoste de la versión Trail.",

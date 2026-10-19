@@ -7,16 +7,8 @@
 import type { CocheComparador } from "./comparador-coches-data.ts";
 
 export interface CamperVW extends CocheComparador {
-  /** MMA (kg) — masa máxima autorizada. Prioritario en campers. */
-  mmaKg: number | null;
-  /** Carnet necesario (normalmente "B"). */
-  carnetNecesario: string | null;
   /** Descripción larga propia (≥800 palabras). */
   descripcion: string;
-  /** Dato curioso verificable. */
-  curiosidad: string | null;
-  /** URL de la fuente de la curiosidad. */
-  curiosidadFuente: string | null;
 }
 
 export const CAMPERS_VW: CamperVW[] = [
@@ -143,10 +135,13 @@ Frente a sus hermanos, el Beach es el más barato y el más versátil como coche
 En resumen: el California Beach 2026 es **la forma más asequible de entrar en el mundo California** con la nueva generación T7, con precio oficial español confirmado de 72.790 €. Ideal para familias activas que quieren un coche para todo el año y una camper para las escapadas, sin renunciar a la garantía y la ingeniería de Volkswagen Vehículos Comerciales. Si tu plan es dormir dentro y cocinar fuera, no necesitas más.
 
 Un último consejo práctico: como toda camper de techo elevable, el Beach agradece un mantenimiento específico del fuelle del techo (limpieza y revisión de las cremalleras una vez al año) y vigilar la batería auxiliar si montas nevera eléctrica portátil. Son cuidados menores que alargan mucho la vida del módulo camper y que cualquier servicio oficial Volkswagen conoce bien.`,
-    curiosidad:
-      "El restyling 2026 de los Multivan y California toma como referencia rasgos de diseño del Volkswagen T1, el Bulli original de 1950: los nuevos faros LED y el frontal reinterpretan al icono que empezó la leyenda camper.",
-    curiosidadFuente:
-      "https://www.coches.net/noticias/nuevos-volkswagen-multivan-california-actualizacion-2026",
+    curiosidad: {
+      texto:
+              "El restyling 2026 de los Multivan y California toma como referencia rasgos de diseño del Volkswagen T1, el Bulli original de 1950: los nuevos faros LED y el frontal reinterpretan al icono que empezó la leyenda camper.",
+      fuente: "Fuente oficial / prensa especializada",
+      fuenteUrl:
+        "https://www.coches.net/noticias/nuevos-volkswagen-multivan-california-actualizacion-2026",
+    },
   },
   {
     id: "vw-california-coast-2026-precio-ficha-tecnica",
@@ -269,10 +264,13 @@ La actualización 2026 suma el frontal inspirado en el T1, la **pantalla de 12,9
 En resumen: el California Coast 2026 es **la camper completa sin lujos innecesarios**, con cocina interior de verdad, 4+4 plazas y toda la tecnología camper de la T7. A la espera de la tarifa española oficial, la referencia es la francesa (≈76.850 €): si el precio español se confirma en esa órbita, será la opción más racional de la gama para quien viaja en pareja y quiere autonomía real.
 
 Y un apunte para quien dude entre el Coast y una camperización a medida: la California de fábrica homologa todo el módulo camper con la carrocería, mantiene intacta la garantía oficial de 36 meses y conserva un valor de reventa que ninguna transformación artesanal iguala. En el mercado de ocasión, un Coast con historial oficial se vende en días; una camperizada, en semanas y con regateo. Si además equipas el toldo lateral y una segunda batería, el Coast se convierte en una base perfecta para escapadas largas sin depender de campings en absoluto.`,
-    curiosidad:
-      "La nueva California T7 es la primera camper de la historia en llevar de serie dos puertas laterales deslizantes (izquierda y derecha): puedes acceder a la nevera, ventilar o cargar desde el lado que prefieras.",
-    curiosidadFuente:
-      "https://paultan.org/2024/05/08/2024-volkswagen-california-debuts/",
+    curiosidad: {
+      texto:
+              "La nueva California T7 es la primera camper de la historia en llevar de serie dos puertas laterales deslizantes (izquierda y derecha): puedes acceder a la nevera, ventilar o cargar desde el lado que prefieras.",
+      fuente: "Fuente oficial / prensa especializada",
+      fuenteUrl:
+        "https://paultan.org/2024/05/08/2024-volkswagen-california-debuts/",
+    },
   },
   {
     id: "vw-california-ocean-2026-precio-ficha-tecnica",
@@ -395,9 +393,12 @@ La actualización 2026 le sienta especialmente bien al Ocean: el frontal inspira
 En resumen: el California Ocean 2026 es **la camper definitiva de Volkswagen**, el máximo confort y tecnología que la marca sabe meter en 5,17 metros. A la espera de la tarifa española oficial, la referencia francesa (≈84.000 €) lo sitúa como un capricho caro pero con una lógica aplastante para quien vive la furgoneta a diario y quiere hacerlo con todos los lujos.
 
 Para sacarle todo el partido, merece la pena pedir en el concesionario la explicación completa del sistema camper (pantalla del pilar C, app California y gestión de la calefacción auxiliar) el día de la entrega: son diez minutos que evitan muchas dudas en la primera escapada. Y si viajas en invierno, la combinación de calefacción auxiliar + buen aislamiento del techo elevable es lo que convierte al Ocean en una camper de cuatro estaciones de verdad.`,
-    curiosidad:
-      "El VW Multivan T7, la base sobre la que se construye la California, obtuvo 5 estrellas Euro NCAP en 2022, con un 90 % en protección de adultos y un 89 % en protección infantil: la camper parte de una de las furgonetas más seguras probadas.",
-    curiosidadFuente:
-      "https://www.PARKERS.CO.UK/volkswagen/multivan/mpv-2022/15-tsi-life-5dr-lwb-dsg/specs/",
+    curiosidad: {
+      texto:
+              "El VW Multivan T7, la base sobre la que se construye la California, obtuvo 5 estrellas Euro NCAP en 2022, con un 90 % en protección de adultos y un 89 % en protección infantil: la camper parte de una de las furgonetas más seguras probadas.",
+      fuente: "Fuente oficial / prensa especializada",
+      fuenteUrl:
+        "https://www.PARKERS.CO.UK/volkswagen/multivan/mpv-2022/15-tsi-life-5dr-lwb-dsg/specs/",
+    },
   },
 ];
