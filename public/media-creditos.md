@@ -1786,3 +1786,6 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/volkswagen-california-ehybrid-2026-hunt1.webp | https://media.volkswagen.com/Vilma/N/STC/2026/Front_Right/7d4b9dd9e469994a6ed50b3cfb42a030fee265ab478159b703bed3ab23f29b58.png | Volkswagen Vehículos Comerciales (prensa oficial) | desconocida |
 | /media/volkswagen-california-ehybrid-2026-hunt2.webp | https://media.volkswagen.com/Vilma/N/STC/2026/Back_Left/a8f3a79137af257e423e06c826d1111d3df2c8ba6e0feacd1645657e1a2a3d04.png | Volkswagen Vehículos Comerciales (prensa oficial) | desconocida |
 | /media/volkswagen-california-ehybrid-2026-hunt3.webp | https://www.cb-auto.cz/aktualne/nova-era-cestovani-volkswagen-california-2026 | CB Auto (foto oficial del modelo) | desconocida |
+| /media/volkswagen-caddy-california-2025-hunt1.webp | https://www.elmundo.es | El Mundo / UE CDN | desconocida |
+| /media/volkswagen-caddy-california-2025-hunt2.webp | https://vwc.gruposerranoautomocion.es/noticias/5-consejos-para-acampar-con-tu-volkswagen-california/ | Grupo Serrano Automoción (concesionario VW) | desconocida |
+| /media/volkswagen-caddy-california-2025-hunt3.webp | https://gilauto.com/volkswagen-vehiculos-comerciales/california-days | Gilauto Volkswagen Vehículos Comerciales | desconocida |
