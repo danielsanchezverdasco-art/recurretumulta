@@ -800,3 +800,14 @@ No las tengo (ni ~/.recurre-env, ni variables de entorno, ni en ningún fichero 
 
 Mientras llegan: no toco nada de la guía ni publico (sin claves no se puede ni crear el borrador). Pendiente además la revisión de Cosa 10:30 (autocaravanas + fotos).
 
+
+## 2026-10-19 ~10:50 CEST — @grok lote listo fotos-merlin G00 (auditoría motos/patinetes)
+
+Rama: fotos-reales-merlin @ f5bc4189
+- Grupo G00 (Honda y otros): 105 fichas auditadas, 275 fotos revisadas visualmente.
+- 41 fotos OK. 3 falsas reemplazadas por fotos reales verificadas del modelo exacto:
+  - honda-cb125r-2024 (foto 0): marca-agua → foto oficial Honda 24YM
+  - honda-cb125r-2024 (foto 2): IA → foto oficial Honda 24YM
+  - honda-cbr500r-2024 (foto 0): concesionario/showroom → foto de prensa
+- 231 fotos MISSING (el fichero no existe en el repo; 92/105 fichas no tienen ninguna foto).
+- CSV acumulativo docs/seo/fotos-merlin.csv: 682 filas (407 base + 275 nuevas).
