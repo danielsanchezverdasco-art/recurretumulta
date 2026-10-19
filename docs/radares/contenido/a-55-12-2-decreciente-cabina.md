@@ -11,6 +11,14 @@
 ## Dónde está
 
 En el pk 12,2 de la autovía A-55, término de Mos (Pontevedra), está emplazada esta cabina; coordenadas 42.18361, -8.633948, a unos dos kilómetros y medio de la cabina del pk 9,2. Su ámbito es el sentido decreciente, hacia pks menores, con Vigo como destino registrado. La cabecera enlaza su Street View.
+
+<iframe title="Mapa: radar a-55-12-2-decreciente-cabina" src="https://www.google.com/maps?q=42.18361,-8.633948&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-55-12-2-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.18361,-8.633948&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
 ## La carretera
 
 De titularidad estatal y conocida como Autovía del Atlántico, la A-55 figura en el XML de la DGT bajo «AUTOPISTA / AUTOVÍA»: régimen de vía de alta capacidad. Sobre el tramo, el fichero no ofrece otra caracterización oficial, así que no le añade rasgos sin documentar.
