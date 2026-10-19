@@ -12,6 +12,14 @@
 
 La cabina está instalada en la **CV-35, punto kilométrico 3,7**, dentro de la provincia de Valencia. Cubre el **sentido decreciente**, el de quienes se desplazan hacia pk decrecientes. El Instituto Geográfico Nacional ubica el punto dentro de **Burjassot**, en la provincia de Valencia. El control fijo de la DGT más próximo es el de la **CV-35, pk 7,6** (sentido creciente), a 3,8 km hacia el noroeste.
 
+<iframe title="Mapa: radar cv-35-3-7-decreciente-cabina" src="https://www.google.com/maps?q=39.50447,-0.41485&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cv-35-3-7-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.50447,-0.41485&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 El eje es la CV-35, la autovía Pista de Ademuz, entre Valencia y Ademuz. La demanda se reparte entre el tránsito interurbano y los accesos a las poblaciones próximas. Por aquí domina el paisaje de el corredor central valenciano.
