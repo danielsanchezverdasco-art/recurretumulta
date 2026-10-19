@@ -12,6 +12,15 @@
 
 La DGT ubica esta cabina en la **CM-1101 a la altura del pk 12,5**, en territorio de Guadalajara. Mide la velocidad en el **sentido decreciente**, el de los pk decrecientes. El punto kilométrico 12,5 es la referencia oficial; sobre el terreno la cabina puede estar unos metros antes o después. A 5,3 km hacia el sureste está el control más próximo, el de la **A-2, pk 122,0** (sentido decreciente). El siguiente punto por cercanía es el de la **A-2, pk 136,3** (sentido creciente), a 23,3 km hacia el este. El entorno es el típico del interior peninsular: amplios horizontes y un tráfico que no entiende de pausas.
 
+<iframe title="Mapa: radar cm-1101-12-5-decreciente-cabina" src="https://www.google.com/maps?q=40.99439,-2.71505&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cm-1101-12-5-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=40.99439,-2.71505&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 Estamos ante una vía de la Junta de Comunidades: la CM-1101 en Guadalajara. En esta carretera autonómica conviven camiones en ruta, turismos de viaje y vehículos de cercanías. El control fijo en este punto pretende disciplinar la velocidad del flujo circulatorio. La CM-1101 cuenta con un único punto de control publicado en la comunidad: este. La CM-1101 cuenta con un único punto de control publicado en la comunidad: este. La clave en esta vía: conducción atenta y velocidad siempre contenida. Quien la recorre con frecuencia aprende dónde están los puntos delicados; quien no, debería extremar la atención.
