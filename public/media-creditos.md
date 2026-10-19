@@ -426,3 +426,177 @@
 | /media/rapido-606f-2026-precio-ficha-tecnica-oficial.webp | https://www.rapido-motorhome.be/nl/dist/images/fiche-produit/profils/1200-675/606f.png | Rapido | prensa del fabricante |
 | /media/rapido-606f-2026-precio-ficha-tecnica-oficial-interior.webp | https://www.rapido-camping-car.fr/360-2027/606F/ (visita virtual 360 oficial: pano_salon, cara f) | Rapido | prensa del fabricante |
 | /media/rapido-606f-2026-precio-ficha-tecnica-oficial-interior2.webp | https://www.rapido-camping-car.fr/360-2027/606F/ (visita virtual 360 oficial: pano_salon, cara l) | Rapido | prensa del fabricante |
+
+
+---
+
+## Créditos FIX 19/10/2026 ~09:55 CEST (fotos oficiales añadidas por los agentes FIX)
+
+### FIX-benimar
+
+# Créditos de fotos oficiales — agente FIX-benimar (19/10/2026)
+# Formato: | /media/<f> | <URL exacta> | <marca/prensa> | prensa del fabricante |
+# Las 2 fotos salen del catálogo oficial Fleurette-Florium colección 2023 (DE),
+# publicado en el dominio del fabricante (fleurette-florium.fr).
+| /media/fleurette-baxter-68-lmc-2026-precio-ficha-tecnica-oficial-interior.webp | https://www.fleurette-florium.fr/wp-content/uploads/2022/08/catalogue-fleurette-florium-collection-2023-DE.pdf | Fleurette/Florium | prensa del fabricante |
+# ^ Imagen "Wohnraum 68LM - Polsterung Beige/Etna", pág. 6 del catálogo (1875x1241 nativos).
+| /media/fleurette-baxter-68-lmc-2026-precio-ficha-tecnica-oficial-interior2.webp | https://www.fleurette-florium.fr/wp-content/uploads/2022/08/catalogue-fleurette-florium-collection-2023-DE.pdf | Fleurette/Florium | prensa del fabricante |
+# ^ Imagen "4 / Schlafzimmer 68LM", pág. 10 del catálogo (1230x992 nativos). Ambas dedicadas al 68LM exacto, sin marca de agua.
+#
+# BENIMAR (mileo-243, amphitryon-940, sport-340-up): SIN FILAS. 3ª verificación 19/10/2026:
+# el catálogo oficial vigente en benimar.es (Catalogo-BENIMAR-ESPANOL.pdf) incluye las gamas
+# Mileo, Sport y Amphitryon pero ninguna variante 243 / 940 / 340 UP; no existe benimar.co.uk
+# oficial (Marquis Leisure es importador/concesionario, no fabricante); benimar.es no tiene
+# sala de prensa ni configurador con fotos de estas variantes. Sin material oficial del modelo exacto.
+#
+# FLEURETTE exterior: SIN FILA. Verificado 19/10/2026: ningún material oficial del fabricante
+# publica el exterior del Baxter 68LM exacto (catálogos oficiales 2020 UK, 2023 DE, 2023 FR y
+# planche bilingüe solo traen interiores "Wohnraum/Salon 68LM" y "Schlafzimmer/Chambre 68LM";
+# la web oficial ya no lista el 68LM —lo sustituye el 69LJG—; sin sala de prensa pública del
+# grupo Rapido). No se usa foto de otro modelo ni de salón para falsear el exterior.
+
+### FIX-cideth
+
+# FIX-cideth — Créditos de fotos oficiales (19/10/2026)
+# Formato: | /media/<fichero> | <URL exacta de origen> | <marca/prensa> | prensa del fabricante |
+# Solo las 4 fotos NUEVAS descargadas por FIX-cideth. Las fotos oficiales previas
+# (CI ext/int, Bürstner ext) conservan los créditos de F4/F2b.
+| /media/ci-horon-84-xt-2026-precio-ficha-tecnica-oficial-interior.webp | https://www.caravansinternational.it/global/wp-content/uploads/sites/3/2025/02/Ci-Horon-84-Spring-068-1536x1025.jpg | CI (Caravans International) | prensa del fabricante (galería oficial de la página del modelo Horon 84 XT: https://www.caravansinternational.it/global/es/tipologia/perfiladas/horon-84-xt/) |
+| /media/ci-horon-84-xt-2026-precio-ficha-tecnica-oficial-interior2.webp | https://www.caravansinternational.it/global/wp-content/uploads/sites/3/2025/02/Ci-Horon-84-Spring-022-1-1536x1025.jpg | CI (Caravans International) | prensa del fabricante (galería oficial de la página del modelo Horon 84 XT: https://www.caravansinternational.it/global/es/tipologia/perfiladas/horon-84-xt/) |
+| /media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-oficial-interior.webp | https://www.buerstner.com/buerstner/website-assets/1.2_produktseiten/mj_25/lyseo-td/image-thumb__89151__wls-buerstner-refresh-image-carousel-large/23-lyseotd_hl_690g_urospodlogar_mj25_0045-web.webp | Bürstner | prensa del fabricante (assets oficiales MJ25 del 690 G Harmony Line en la página del modelo: https://www.buerstner.com/nl/nl/campers/halfintegrale/lyseo-td) |
+| /media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-oficial-interior2.webp | https://www.buerstner.com/buerstner/website-assets/1.2_produktseiten/mj_25/lyseo-td/image-thumb__89150__wls-buerstner-refresh-image-carousel-large/23-lyseotd_hl_690g_urospodlogar_mj25_0032-web.webp | Bürstner | prensa del fabricante (assets oficiales MJ25 del 690 G Harmony Line en la página del modelo: https://www.buerstner.com/nl/nl/campers/halfintegrale/lyseo-td) |
+#
+# Dethleffs Trend T 6717 EB: SIN fotos oficiales nuevas. Intento dirigido FIX-cideth el
+# 19/10/2026: página oficial del modelo (dethleffs.de/.../trend/t-6717-eb/) = 404 (modelo
+# descatalogado, sustituido por el T 6617 EB); la página vigente del T 7057 EB no contiene
+# assets del 6717; portal de prensa Mediacenter (mediacenter.erwinhymergroup.com) exige login.
+# No se ha inventado ni etiquetado como oficial ninguna foto no oficial.
+
+### FIX-chausson
+
+CRÉDITOS DE FOTOS — Agente FIX-chausson (19/10/2026)
+Fichas: chausson-640-titanium-2026 / chausson-777-titanium-line-2026 / laika-ecovip-600-2026 / laika-kosmo-l-319-2026
+Todas las fotos "-oficial" nuevas proceden de la web del fabricante (prensa oficial).
+Ninguna lleva marca de agua ni muestra concesionario, campa ni rótulos.
+
+1. chausson-640-titanium-2026-precio-ficha-tecnica-oficial-interior2.webp (1200x805)
+   Salón SmartLounge del Chausson 640 Titanium (segunda foto oficial de interior).
+   Fuente: web oficial de Chausson (mediateca WordPress del fabricante):
+   https://www.chausson-motorhomes.com/wp-content/uploads/640-titanium-gde-int-1.jpg
+   (título en la mediateca: "640-titanium-gde-int")
+
+2. chausson-777-titanium-line-2026-precio-ficha-tecnica-oficial-ext.webp (721x1080)
+   Exterior 3/4 delantero del Chausson 777GA Titanium (foto oficial de prensa).
+   Fuente: web oficial de exportación de Chausson (mediateca WordPress):
+   https://www.motorhomes-chausson.co.uk/wp-content/uploads/777GA-Titanium-VIP-Exterieur.jpg
+   Nota: es el exterior oficial del 777GA Titanium; el 777 Titanium Line 2027 es su
+   evolución directa (misma carrocería 777 en acabado Titanium).
+
+3. chausson-777-titanium-line-2026-precio-ficha-tecnica-oficial-interior2.webp (1200x809)
+   Salón del Chausson 777GA Titanium (segunda foto oficial de interior).
+   Fuente: web oficial de exportación de Chausson (mediateca WordPress):
+   https://www.motorhomes-chausson.co.uk/wp-content/uploads/777GA-Titanium-VIP.jpg
+   Nota: misma procedencia que la anterior (777GA Titanium, generación anterior del 777).
+
+4. laika-ecovip-600-2026-precio-ficha-tecnica-oficial.webp (1200x675)
+   Vista tres cuartos delantera del Laika Ecovip Performance 600 (imagen oficial de
+   prensa de la colección 2026).
+   Fuente: kit de prensa oficial de Laika en laika.it (mediateca WordPress):
+   https://www.laika.it/wp-content/uploads/2026/07/Ecovip-Performance-Hero-Image-1-scaled.jpg
+   Nota: es la imagen "hero" oficial del kit de prensa 2026 del modelo exacto
+   (Ecovip Performance 600). El kit de prensa 2026 de Laika no incluye fotos de
+   interior del 600: no se ha encontrado ninguna foto oficial de interior del
+   modelo exacto (ver PENDIENTES).
+
+PENDIENTES (búsqueda seria completada, sin resultados para el modelo exacto):
+- laika-ecovip-600-2026: 2 fotos oficiales de INTERIOR. La colección 2026 fue
+  eliminada de laika.it; su mediateca actual solo contiene renders del kit de
+  prensa 2026 (sin interiores del 600). Wayback archivó fotos reales de la
+  colección 2024, pero ninguna es verificablemente del 600 (los nombres de
+  archivo no identifican el modelo) y el "24-Laika-Ecovip-600-Update_a" es un
+  render en corte, no una foto.
+- laika-kosmo-l-319-2026: 1 EXTERIOR + 2 INTERIORES oficiales. La colección 2024
+  (lanzamiento de la nueva generación Kosmo) fue eliminada de laika.it; Wayback
+  archivó las páginas pero NO las galerías de fotos (cargaban por JS) ni el
+  exterior oficial "24-Laika-Kosmo-L-319-Update_b-3". Los PDFs de prensa de 2023
+  solo contienen imágenes en miniatura. La mediateca actual de laika.it no tiene
+  ningún archivo del Kosmo L 319. Se mantienen las imágenes no oficiales
+  existentes sin etiquetarlas como oficiales.
+
+CURIOSIDADES (verificadas 19/10/2026, HTTP 200 en las 4):
+- 640: https://www.chausson-motorhomes.com/universe-chausson/background/
+- 777: https://www.motorhomes-chausson.co.uk/line/low-profiles/ y https://www.motorhomes-chausson.co.uk/infos/8/797/en
+- Ecovip 600: https://web.archive.org/web/2025/https://www.laika.it/en/product-range/ecovip/campervans/
+- Kosmo L 319: https://web.archive.org/web/20230928171335id_/https://www.laika.it/wp-content/uploads/2023/08/Comunicato-Stampa-Kosmo-New-Range_EN.pdf
+
+### FIX-rename
+
+# CRÉDITOS DE FOTOS — agente FIX-rename (19/10/2026)
+# Rama base: merlin-autocaravanas-final @ 7f0519d29bbc66fafbc40062b34c32775ff5e065
+# Regla aplicada: solo lleva "-oficial" lo que sale de la prensa / kit de prensa /
+# web oficial DE LA MARCA (no concesionario, no portal genérico), del modelo exacto
+# y sin marca de agua. Renders NO cuentan como foto.
+# Los 7 .webp de fotos/ son: 6 renombrados (bytes idénticos a los de public/media/
+# de la rama, solo cambia el nombre) + 1 nuevo (ML-T 580, descargado del kit de
+# prensa Hymer y convertido a webp 1200 px).
+
+## RENOMBRADOS (verificables como oficiales de la marca)
+
+# elnagh-baron-565-2026-precio-ficha-tecnica
+| /media/elnagh-baron-565-2026-precio-ficha-tecnica-oficial-interior2.webp | https://www.elnagh.com/wp-content/uploads/2025/02/Elnagh-Baron-565-013-1024x683.jpg | Elnagh (elnagh.com, galería oficial Baron 565) | prensa del fabricante, verificada | salón + cabina, foto |
+| /media/elnagh-baron-565-2026-precio-ficha-tecnica-oficial-interior3.webp | https://www.elnagh.com/wp-content/uploads/2025/02/Elnagh-Baron-565-027-1024x1536.jpg | Elnagh (elnagh.com, galería oficial Baron 565) | prensa del fabricante, verificada | cocina, foto (800x1200) |
+
+# hobby-optima-ontour-edition-f-v65-ge-2026-precio-ficha-tecnica
+| /media/hobby-optima-ontour-edition-f-v65-ge-2026-precio-ficha-tecnica-oficial.webp | https://mediaportal.hobby-caravan.de/fileadmin/user_upload/presse/Pressemitteilungen/2024/2024-01-12_Hobby_PM_Edition_F/Optima_Ontour_Edition_F_2024_Bug.png | Hobby (mediaportal.hobby-caravan.de, nota de prensa oficial Edition F) | prensa del fabricante, verificada | exterior Edition F, RECORTE DE PRENSA sobre fondo blanco (no foto de calle) |
+| /media/hobby-optima-ontour-edition-f-v65-ge-2026-precio-ficha-tecnica-oficial-interior2.webp | https://mediaportal.hobby-caravan.de/fileadmin/user_upload/presse/Pressemitteilungen/2024/2024-01-12_Hobby_PM_Edition_F/V65_GE_Edition_F_Interior_Betten.jpg | Hobby (mediaportal.hobby-caravan.de) | prensa del fabricante, verificada | camas, foto |
+| /media/hobby-optima-ontour-edition-f-v65-ge-2026-precio-ficha-tecnica-oficial-interior3.webp | https://mediaportal.hobby-caravan.de/fileadmin/user_upload/presse/Pressemitteilungen/2024/2024-01-12_Hobby_PM_Edition_F/V65_GE_Edition_F_Nasszelle.jpg | Hobby (mediaportal.hobby-caravan.de) | prensa del fabricante, verificada | baño, foto (619x1200) |
+
+# hymer-grand-canyon-s-2026-precio-ficha-tecnica
+| /media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-oficial-interior2.webp | https://www.hymer.com/hymer/website-assets/1.produktseiten/grand-canyon-s-fl/image-thumb__72701__wls-original-image/gran_canyon_s_grau_duschuss_vo_hi.webp | Hymer (hymer.com, CDN oficial) | web del fabricante, verificada | ducha, foto |
+
+## NUEVA (búsqueda en kit de prensa Hymer, tarea c)
+
+# hymer-ml-t-580-4x4-2026-precio-ficha-tecnica
+| /media/hymer-ml-t-580-4x4-2026-precio-ficha-tecnica-oficial-ext2.webp | https://www.hymer.com/hymer/pressematerial/modelljahr-2026/2025_08_built_for_the_rough_made_for_the_independent_hymer_ml-t-580-crosstrail/hymer_m-lt_580_crosstrail_exterieur-c-hymer-gmbh-co.-kg.jpg | Hymer (kit de prensa oficial, nota «Built for the rough. Made for the independent. Hymer ML-T 580 CrossTrail») | prensa del fabricante, verificada | exterior lateral fotográfico del ML-T 580 CrossTrail exacto, 3508x2343 → webp 1200x801 |
+
+## NO RENOMBRADAS (no verificablemente oficiales — documentado, tarea d)
+
+# adria-coral-plus-670-sl-2026: -ext.webp (henkpen.nl, concesionario, no verificada), -interior.webp (reisemobil-international.de, prensa especializada, no verificada). La rama YA integra 4 fotos -oficial de F1 (2 int + 2 ext, web-cdn.adria-mobil.com): no hace falta nada más.
+# ahorncamp-t-690-2026: -ext.webp (ahorn-camp.de, no verificada), -interior.webp (reisemobil-international.de, prensa especializada, no verificada). F1b no documenta URL. Nota: F1b documenta que las 3 -oficial nuevas son RENDERS oficiales del fabricante (T 690 Eclipse MY2026).
+# bavaria-i740fgj-nomade-2026: -ext.webp = portada (bavaria-camping-car.com, no verificada). Sin URL → no rename.
+# elnagh-baron-565-2026: -interior.webp (camperis.com, concesionario, no verificada) → no rename.
+# font-vendome-mondea-2026: -ext.webp (fourgonlesite.com, medio), -interior.webp (fourgonlesite.com, prensa especializada, no verificada), -interior2.webp (fourgonlesite.com, medio), -detalle.webp (hunyvers.com, distribuidor) → ninguna rename.
+# hymer-grand-canyon-s-2026: -interior.webp (hymer.com, no verificada), -ext.webp y -detalle.webp (sin URL documentada) → no rename.
+# hymer-b-mc-i-600-2026: -interior.webp (hymer.com, no verificada), -ext.webp/-interior2.webp/-detalle.webp (sin URL) → no rename. BÚSQUEDA EXT OFICIAL: el kit de prensa Hymer del nuevo B-MC (2025_08_der_neue_hymer_b_mc) solo publica foto de prensa del I 680 y renders; NO existe exterior fotográfico oficial del I 600 exacto. No se añade nada.
+# hymer-ml-t-580-4x4-2026: -ext.webp/-interior.webp (caravans.nl, concesionario, no verificada)/-interior2.webp/-detalle.webp (sin URL) → no rename.
+# hobby-optima-ontour-edition-f-v65-ge-2026: -interior.webp (origen ambiguo: mediaportal «existente, sustituida» vs suchen.mobile.de no verificada) → no rename.
+
+## AVISO (fuera del alcance de rename, pero relevante para la honestidad del conteo)
+# Las fotos -oficial-interior de hymer-b-mc-i-600 y hymer-ml-t-580-4x4 provienen de outandaboutlive.co.uk (portal genérico, «Courtesy of Hymer»), NO de la web/kit de prensa de la marca. Se mantienen con el sufijo que ya tenían en la rama; si se aplica la regla estricta a rajatabla, esos interiores tampoco serían «oficiales».
+
+### FIX-rimor
+
+# Créditos de fotos oficiales — agente FIX-rimor (19/10/2026)
+# Formato: | fichero /media | URL exacta de origen | marca | tipo de fuente |
+# Todas las imágenes fueron descargadas de la web/prensa del fabricante (o de su
+# archivo oficial en web.archive.org cuando la página original ya no existe) y
+# verificadas visualmente: modelo exacto, sin marcas de agua, sin concesionario.
+# Solo llevan el sufijo "-oficial" por ser de prensa o web de la marca.
+# Las imágenes de pilote.fr se sirven vía CDN temporal de Airtable; se descargaron
+# y archivaron en /media para no depender de URLs caducables.
+
+| /media/pilote-g740fgj-evidence-2026-precio-ficha-tecnica-oficial-interior2.webp | https://www.pilote.fr/integral/g740fgj-evidence/ (sección «Le salon», imagen oficial de la ficha del G740FGJ ÉVIDENCE) | Pilote | web del fabricante (ficha oficial del modelo) |
+| /media/pilote-g740fgj-evidence-2026-precio-ficha-tecnica-oficial-interior3.webp | https://www.pilote.fr/integral/g740fgj-evidence/ (sección «La chambre», imagen oficial de la ficha del G740FGJ ÉVIDENCE) | Pilote | web del fabricante (ficha oficial del modelo) |
+| /media/giottiline-siena-322-2026-precio-ficha-tecnica-oficial-interior.webp | https://www.giottiline.com/indi/_pics/2/7/322-giorno-4_bd1f8bbd9b315b5dae509ecd398f3e15_t.webp (galería oficial del Siena 322; la web actual ya no lista el 322, imagen recuperada del archivo oficial) — SUSTITUYE a la versión anterior con marca de agua «CAMPERONLINE» | Giottiline | web del fabricante (galería oficial del modelo, vía archivo) |
+| /media/giottiline-siena-322-2026-precio-ficha-tecnica-oficial-interior2.webp | https://www.giottiline.com/indi/_pics/1/3/siena-322--bed2066-5_45c1ae7e0a253b3827be4392b203db03_t.jpg (galería oficial del Siena 322; la web actual ya no lista el 322, imagen recuperada del archivo oficial) — SUSTITUYE a la versión anterior con marca de agua «CAMPERONLINE» | Giottiline | web del fabricante (galería oficial del modelo, vía archivo) |
+| /media/mclouis-mc4-231-2026-precio-ficha-tecnica-oficial-interior.webp | https://www.mclouis.com/Immagine/22902/McLouis-Mc4-231-012_c600x400.jpg (galería oficial del MC4 231 en mclouis.com; el modelo está descatalogado y la página original redirige, imagen recuperada del archivo oficial) | McLouis | web del fabricante (galería oficial del modelo, vía archivo) |
+
+Notas:
+- Pilote: las dos fotos nuevas (salón face-face y dormitorio de camas gemelas) son de la ficha oficial del G740FGJ ÉVIDENCE en pilote.fr. Se conserva además el interior oficial de la serie (G720FGJ, misma serie/acabado) ya existente, indicado en su alt.
+- Giottiline: los dos interiores anteriores (prensa CamperOnLine con marca de agua semi-transparente «CAMPERONLINE») se SUSTITUYEN por fotos oficiales limpias del modelo exacto. Los exteriores oficiales (renders del fabricante, sin marcas) se conservan sin cambios.
+- McLouis: el interior oficial es el salón-comedor de la galería oficial del MC4 231 (600x400 nativo, no reescalado). Es la única imagen oficial de interior localizable: la galería completa del modelo solo sobrevive parcialmente en el archivo.
+- XGO X-Van 104: sin cambios. Tras el intento de FIX-rimor (sitio oficial xgomove.it inaccesible sin JS, catálogos oficiales 2021-2024 bloqueados o truncados, Wayback sin las imágenes, image-search solo devuelve concesionarios), no se han localizado fotos oficiales del modelo exacto 104. Se mantiene la foto oficial de gama (trigano.com) y la nota de pendiente que ya documentó el agente F9b.
+
+### Líneas pendientes de F3b/F7b (detectadas en verificación 19/10)
+| /media/chausson-640-titanium-2026-precio-ficha-tecnica-oficial.webp | https://www.motorhomes-chausson.co.uk/wp-content/uploads/Titanium_640_Benjamin-Celier-2018-13.jpg | Chausson | prensa oficial (fotógrafo Benjamin Celier, serie 2018) |
+| /media/laika-ecovip-600-2026-precio-ficha-tecnica-oficial-corte.webp | web oficial laika.it vía archivo (fichero original «24-Laika-Ecovip-600-Update_a-2130x1091.png»); la colección 2026 fue eliminada de laika.it | Laika | web oficial del fabricante (render 3D en corte) |
