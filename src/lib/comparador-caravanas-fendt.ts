@@ -208,6 +208,7 @@ export const CARAVANAS_FENDT: CocheComparador[] = [
         alto: 800,
       },
       { src: "/media/fotos-reales/fendt-bianco-activ-560-skm-2026-precio-ficha-tecnica/fendt-bianco-activ-560-skm-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Fendt Bianco Activ 560 SKM, cocina y salón con literas", ancho: 1024, alto: 768 },
+      { src: "/media/fotos-reales/fendt-bianco-activ-560-skm-2026-precio-ficha-tecnica/fendt-bianco-activ-560-skm-2026-precio-ficha-tecnica-int-3.webp", alt: "Interior de la Bianco Activ 560 SKM, comedor, cocina y dormitorio", ancho: 1920, alto: 1440 },
     ],
     analisisSlug:
       "fendt-bianco-activ-560-skm-2026-precio-ficha-tecnica-analisis-opinion",
@@ -304,6 +305,7 @@ export const CARAVANAS_FENDT: CocheComparador[] = [
         alto: 800,
       },
       { src: "/media/fotos-reales/fendt-bianco-activ-465-sge-2026-precio-ficha-tecnica/fendt-bianco-activ-465-sge-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Fendt Bianco Activ 465 SGE, comedor (1024x768)", ancho: 1024, alto: 768 },
+      { src: "/media/fotos-reales/fendt-bianco-activ-465-sge-2026-precio-ficha-tecnica/fendt-bianco-activ-465-sge-2026-precio-ficha-tecnica-int-3.webp", alt: "Interior de la Bianco Activ 465 SGE, dormitorio y cocina", ancho: 1024, alto: 768 },
     ],
     analisisSlug:
       "fendt-bianco-activ-465-sge-2026-precio-ficha-tecnica-analisis-opinion",
@@ -400,6 +402,7 @@ export const CARAVANAS_FENDT: CocheComparador[] = [
         alto: 800,
       },
       { src: "/media/fotos-reales/fendt-tendenza-560-sfdw-2026-precio-ficha-tecnica/fendt-tendenza-560-sfdw-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Fendt Tendenza 560 SFDW, cocina y dormitorio", ancho: 1200, alto: 1600 },
+      { src: "/media/fotos-reales/fendt-tendenza-560-sfdw-2026-precio-ficha-tecnica/fendt-tendenza-560-sfdw-2026-precio-ficha-tecnica-int-3.webp", alt: "Interior de la Tendenza 560 SFDW, cocina y dormitorio", ancho: 1200, alto: 1600 },
     ],
     analisisSlug:
       "fendt-tendenza-560-sfdw-2026-precio-ficha-tecnica-analisis-opinion",
@@ -539,8 +542,7 @@ export const CARAVANAS_FENDT: CocheComparador[] = [
       "/media/fendt-bianco-selection-515-sg-2026-precio-ficha-tecnica-oficial.webp",
     imagenOficial:
       "/media/fendt-bianco-selection-515-sg-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial:
-      "/media/fendt-bianco-selection-515-sg-2026-precio-ficha-tecnica-oficial-2.webp",
+    imagenInteriorOficial: "/media/fotos-reales/fendt-bianco-selection-515-sg-2026-precio-ficha-tecnica/fendt-bianco-selection-515-sg-2026-precio-ficha-tecnica-int-1.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 7510,
@@ -603,6 +605,8 @@ export const CARAVANAS_FENDT: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/fendt-bianco-selection-515-sg-2026-precio-ficha-tecnica/fendt-bianco-selection-515-sg-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la Bianco Selection 515 SG, salón (oficial)", ancho: 1920, alto: 1276 },
+      { src: "/media/fotos-reales/fendt-bianco-selection-515-sg-2026-precio-ficha-tecnica/fendt-bianco-selection-515-sg-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Bianco Selection 515 SG, comedor", ancho: 1500, alto: 1125 },
     ],
     analisisSlug: "fendt-bianco-selection-515-sg-2026-precio-ficha-tecnica",
     planMantenimiento: {

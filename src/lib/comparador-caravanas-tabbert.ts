@@ -52,8 +52,7 @@ export const CARAVANAS_TABBERT: CocheComparador[] = [
       "/media/tabbert-pantiga-490-e-2026-precio-ficha-tecnica.webp",
     imagenOficial:
       "/media/tabbert-pantiga-490-e-2026-precio-ficha-tecnica.webp",
-    imagenInteriorOficial:
-      "/media/tabbert-pantiga-490-e-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "/media/fotos-reales/tabbert-pantiga-490-e-2026-precio-ficha-tecnica/tabbert-pantiga-490-e-2026-precio-ficha-tecnica-int-1.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 7480,
@@ -104,6 +103,8 @@ export const CARAVANAS_TABBERT: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/tabbert-pantiga-490-e-2026-precio-ficha-tecnica/tabbert-pantiga-490-e-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la Pantiga 490 E, cocina y comedor", ancho: 1600, alto: 1200 },
+      { src: "/media/fotos-reales/tabbert-pantiga-490-e-2026-precio-ficha-tecnica/tabbert-pantiga-490-e-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Pantiga 490 E, comedor", ancho: 1511, alto: 1920 },
     ],
     analisisSlug:
       "tabbert-pantiga-490-e-2026-precio-ficha-tecnica-analisis-opinion",
@@ -147,8 +148,7 @@ export const CARAVANAS_TABBERT: CocheComparador[] = [
       "/media/tabbert-cazadora-460-e-2026-precio-ficha-tecnica.webp",
     imagenOficial:
       "/media/tabbert-cazadora-460-e-2026-precio-ficha-tecnica.webp",
-    imagenInteriorOficial:
-      "/media/tabbert-cazadora-460-e-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "/media/fotos-reales/tabbert-cazadora-460-e-2026-precio-ficha-tecnica/tabbert-cazadora-460-e-2026-precio-ficha-tecnica-int-1.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 6970,
@@ -199,6 +199,8 @@ export const CARAVANAS_TABBERT: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/tabbert-cazadora-460-e-2026-precio-ficha-tecnica/tabbert-cazadora-460-e-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la Cazadora 460 E, dormitorio y cocina", ancho: 1600, alto: 1200 },
+      { src: "/media/fotos-reales/tabbert-cazadora-460-e-2026-precio-ficha-tecnica/tabbert-cazadora-460-e-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Cazadora 460 E, comedor", ancho: 913, alto: 685 },
     ],
     analisisSlug:
       "tabbert-cazadora-460-e-2026-precio-ficha-tecnica-analisis-opinion",
@@ -242,8 +244,7 @@ export const CARAVANAS_TABBERT: CocheComparador[] = [
       "/media/tabbert-senara-550-dmk-2026-precio-ficha-tecnica.webp",
     imagenOficial:
       "/media/tabbert-senara-550-dmk-2026-precio-ficha-tecnica.webp",
-    imagenInteriorOficial:
-      "/media/tabbert-senara-550-dmk-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "/media/fotos-reales/tabbert-senara-550-dmk-2026-precio-ficha-tecnica/tabbert-senara-550-dmk-2026-precio-ficha-tecnica-int-1.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 7750,
@@ -294,6 +295,8 @@ export const CARAVANAS_TABBERT: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/tabbert-senara-550-dmk-2026-precio-ficha-tecnica/tabbert-senara-550-dmk-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la Senara 550 DMK, cocina y comedor", ancho: 1024, alto: 768 },
+      { src: "/media/fotos-reales/tabbert-senara-550-dmk-2026-precio-ficha-tecnica/tabbert-senara-550-dmk-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Senara 550 DMK, pasillo y dormitorio", ancho: 1024, alto: 768 },
     ],
     analisisSlug:
       "tabbert-senara-550-dmk-2026-precio-ficha-tecnica-analisis-opinion",
@@ -338,8 +341,7 @@ export const CARAVANAS_TABBERT: CocheComparador[] = [
       "/media/tabbert-da-vinci-495-he-2026-precio-ficha-tecnica.webp",
     imagenOficial:
       "/media/tabbert-da-vinci-495-he-2026-precio-ficha-tecnica.webp",
-    imagenInteriorOficial:
-      "/media/tabbert-da-vinci-495-he-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "/media/fotos-reales/tabbert-da-vinci-495-he-2026-precio-ficha-tecnica/tabbert-da-vinci-495-he-2026-precio-ficha-tecnica-int-1.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 7300,
@@ -390,6 +392,8 @@ export const CARAVANAS_TABBERT: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/tabbert-da-vinci-495-he-2026-precio-ficha-tecnica/tabbert-da-vinci-495-he-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la Da Vinci 495 HE, comedor y cocina", ancho: 1024, alto: 768 },
+      { src: "/media/fotos-reales/tabbert-da-vinci-495-he-2026-precio-ficha-tecnica/tabbert-da-vinci-495-he-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Da Vinci 495 HE, cocina y comedor", ancho: 1280, alto: 960 },
     ],
     analisisSlug:
       "tabbert-da-vinci-495-he-2026-precio-ficha-tecnica-analisis-opinion",
@@ -433,7 +437,7 @@ export const CARAVANAS_TABBERT: CocheComparador[] = [
       "/media/tabbert-senara-490-td-2026-precio-ficha-tecnica.webp",
     imagenOficial:
       "/media/tabbert-senara-490-td-2026-precio-ficha-tecnica.webp",
-    imagenInteriorOficial: "",
+    imagenInteriorOficial: "/media/fotos-reales/tabbert-senara-490-td-2026-precio-ficha-tecnica/tabbert-senara-490-td-2026-precio-ficha-tecnica-int-1.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 7330,
@@ -496,6 +500,8 @@ export const CARAVANAS_TABBERT: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/tabbert-senara-490-td-2026-precio-ficha-tecnica/tabbert-senara-490-td-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la Senara 490 TD, dormitorio", ancho: 1024, alto: 768 },
+      { src: "/media/fotos-reales/tabbert-senara-490-td-2026-precio-ficha-tecnica/tabbert-senara-490-td-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Senara 490 TD, dormitorio y cocina", ancho: 1024, alto: 768 },
     ],
     analisisSlug: "tabbert-senara-490-td-2026-precio-ficha-tecnica",
     planMantenimiento: {

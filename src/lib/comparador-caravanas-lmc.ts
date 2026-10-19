@@ -88,6 +88,7 @@ export const CARAVANAS_LMC: CocheComparador[] = [
         alto: 800,
       },
       { src: "/media/fotos-reales/lmc-sassino-430-d-2026-precio-ficha-tecnica/lmc-sassino-430-d-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la LMC Sassino 430 D, dormitorio", ancho: 1920, alto: 1440 },
+      { src: "/media/fotos-reales/lmc-sassino-430-d-2026-precio-ficha-tecnica/lmc-sassino-430-d-2026-precio-ficha-tecnica-int-3.webp", alt: "Interior de la Sassino 430 D, cocina", ancho: 1200, alto: 900 },
     ],
     analisisSlug: "lmc-sassino-430-d-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
@@ -280,6 +281,7 @@ export const CARAVANAS_LMC: CocheComparador[] = [
         alto: 800,
       },
       { src: "/media/fotos-reales/lmc-style-450-d-2026-precio-ficha-tecnica/lmc-style-450-d-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la LMC Style 450 D, comedor y dormitorio", ancho: 1600, alto: 1200 },
+      { src: "/media/fotos-reales/lmc-style-450-d-2026-precio-ficha-tecnica/lmc-style-450-d-2026-precio-ficha-tecnica-int-3.webp", alt: "Interior de la Style 450 D, dormitorio", ancho: 1600, alto: 1200 },
     ],
     analisisSlug: "lmc-style-450-d-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
@@ -376,6 +378,7 @@ export const CARAVANAS_LMC: CocheComparador[] = [
         alto: 800,
       },
       { src: "/media/fotos-reales/lmc-style-lift-500-k-2026-precio-ficha-tecnica/lmc-style-lift-500-k-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la LMC Style Lift 500 K, comedor con cama elevable (1024x768)", ancho: 1024, alto: 768 },
+      { src: "/media/fotos-reales/lmc-style-lift-500-k-2026-precio-ficha-tecnica/lmc-style-lift-500-k-2026-precio-ficha-tecnica-int-3.webp", alt: "Interior de la Style Lift 500 K, cocina", ancho: 1600, alto: 1200 },
     ],
     analisisSlug: "lmc-style-lift-500-k-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
@@ -419,8 +422,7 @@ export const CARAVANAS_LMC: CocheComparador[] = [
       "/media/lmc-videro-580-d-2026-precio-ficha-tecnica.webp",
     imagenOficial:
       "/media/lmc-videro-580-d-2026-precio-ficha-tecnica.webp",
-    imagenInteriorOficial:
-      "/media/lmc-videro-580-d-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "/media/fotos-reales/lmc-videro-580-d-2026-precio-ficha-tecnica/lmc-videro-580-d-2026-precio-ficha-tecnica-int-1.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 7870,
@@ -471,6 +473,8 @@ export const CARAVANAS_LMC: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/lmc-videro-580-d-2026-precio-ficha-tecnica/lmc-videro-580-d-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la Videro 580 D, dormitorio y comedor", ancho: 1024, alto: 768 },
+      { src: "/media/fotos-reales/lmc-videro-580-d-2026-precio-ficha-tecnica/lmc-videro-580-d-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Videro 580 D, dormitorio (oficial)", ancho: 1920, alto: 823 },
     ],
     analisisSlug: "lmc-videro-580-d-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {

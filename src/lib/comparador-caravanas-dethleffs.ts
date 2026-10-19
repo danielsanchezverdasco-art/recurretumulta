@@ -831,6 +831,7 @@ export const CARAVANAS_DETHLEFFS: CocheComparador[] = [
         alto: 800,
       },
       { src: "/media/fotos-reales/dethleffs-nomad-520-elt-2026-precio-ficha-tecnica/dethleffs-nomad-520-elt-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Dethleffs Nomad 520 ELT, dormitorio camas individuales", ancho: 1024, alto: 768 },
+      { src: "/media/fotos-reales/dethleffs-nomad-520-elt-2026-precio-ficha-tecnica/dethleffs-nomad-520-elt-2026-precio-ficha-tecnica-int-3.webp", alt: "Interior de la Nomad 520 ELT, comedor y dormitorio", ancho: 1500, alto: 1125 },
     ],
     analisisSlug:
       "dethleffs-nomad-520-elt-2026-precio-ficha-tecnica-analisis-opinion",
@@ -927,6 +928,7 @@ export const CARAVANAS_DETHLEFFS: CocheComparador[] = [
         alto: 800,
       },
       { src: "/media/fotos-reales/dethleffs-beduin-scandinavia-690-bqt-2026-precio-ficha-tecnica/dethleffs-beduin-scandinavia-690-bqt-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Dethleffs Beduin Scandinavia 690 BQT, OFICIAL comedor y dormitorio", ancho: 1620, alto: 1080 },
+      { src: "/media/fotos-reales/dethleffs-beduin-scandinavia-690-bqt-2026-precio-ficha-tecnica/dethleffs-beduin-scandinavia-690-bqt-2026-precio-ficha-tecnica-int-3.webp", alt: "Interior de la Beduin Scandinavia 690 BQT, cocina y comedor", ancho: 1920, alto: 1280 },
     ],
     analisisSlug:
       "dethleffs-beduin-scandinavia-690-bqt-2026-precio-ficha-tecnica-analisis-opinion",

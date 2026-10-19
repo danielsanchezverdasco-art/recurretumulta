@@ -95,6 +95,7 @@ export const CARAVANAS_BURSTNER: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/burstner-premio-life-480-ts-2026-precio-ficha-tecnica/burstner-premio-life-480-ts-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la Premio Life 480 TS, dormitorio y comedor", ancho: 1024, alto: 768 },
     ],
     analisisSlug: "burstner-premio-life-480-ts-2026-precio-ficha-tecnica",
     planMantenimiento: {
@@ -201,6 +202,7 @@ export const CARAVANAS_BURSTNER: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/burstner-averso-535-tl-2026-precio-ficha-tecnica/burstner-averso-535-tl-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la Averso 535 TL, salón", ancho: 1920, alto: 1440 },
     ],
     analisisSlug: "burstner-averso-535-tl-2026-precio-ficha-tecnica",
     planMantenimiento: {
@@ -305,6 +307,7 @@ export const CARAVANAS_BURSTNER: CocheComparador[] = [
         ancho: 1200,
         alto: 900,
       },
+      { src: "/media/fotos-reales/burstner-premio-plus-510-tk-2026-precio-ficha-tecnica/burstner-premio-plus-510-tk-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la Premio Plus 510 TK, literas", ancho: 1024, alto: 768 },
     ],
     analisisSlug: "burstner-premio-plus-510-tk-2026-precio-ficha-tecnica",
     planMantenimiento: {
@@ -408,6 +411,7 @@ export const CARAVANAS_BURSTNER: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/burstner-premio-life-415-tk-2026-precio-ficha-tecnica/burstner-premio-life-415-tk-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la Premio Life 415 TK, comedor", ancho: 1920, alto: 1440 },
     ],
     analisisSlug: "burstner-premio-life-415-tk-2026-precio-ficha-tecnica",
     planMantenimiento: {

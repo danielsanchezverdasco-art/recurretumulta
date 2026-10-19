@@ -37,8 +37,7 @@ export const CARAVANAS_KABE: CocheComparador[] = [
       "/media/kabe-ametist-560-gle-2026-precio-ficha-tecnica.webp",
     imagenOficial:
       "/media/kabe-ametist-560-gle-2026-precio-ficha-tecnica.webp",
-    imagenInteriorOficial:
-      "/media/kabe-ametist-560-gle-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "/media/fotos-reales/kabe-ametist-560-gle-2026-precio-ficha-tecnica/kabe-ametist-560-gle-2026-precio-ficha-tecnica-int-1.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 7800,
@@ -89,6 +88,8 @@ export const CARAVANAS_KABE: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/kabe-ametist-560-gle-2026-precio-ficha-tecnica/kabe-ametist-560-gle-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la Ametist 560 GLE, salón", ancho: 1024, alto: 768 },
+      { src: "/media/fotos-reales/kabe-ametist-560-gle-2026-precio-ficha-tecnica/kabe-ametist-560-gle-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Ametist 560 GLE, cocina y comedor", ancho: 1024, alto: 768 },
     ],
     analisisSlug: "kabe-ametist-560-gle-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
@@ -131,8 +132,7 @@ export const CARAVANAS_KABE: CocheComparador[] = [
       "/media/kabe-royal-560-gle-2026-precio-ficha-tecnica.webp",
     imagenOficial:
       "/media/kabe-royal-560-gle-2026-precio-ficha-tecnica.webp",
-    imagenInteriorOficial:
-      "/media/kabe-royal-560-gle-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "/media/fotos-reales/kabe-royal-560-gle-2026-precio-ficha-tecnica/kabe-royal-560-gle-2026-precio-ficha-tecnica-int-1.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 7800,
@@ -183,6 +183,8 @@ export const CARAVANAS_KABE: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/kabe-royal-560-gle-2026-precio-ficha-tecnica/kabe-royal-560-gle-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la Royal 560 GLE, salón y cocina", ancho: 1024, alto: 768 },
+      { src: "/media/fotos-reales/kabe-royal-560-gle-2026-precio-ficha-tecnica/kabe-royal-560-gle-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Royal 560 GLE, dormitorio", ancho: 1024, alto: 768 },
     ],
     analisisSlug: "kabe-royal-560-gle-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
@@ -225,8 +227,7 @@ export const CARAVANAS_KABE: CocheComparador[] = [
       "/media/kabe-royal-600-cxl-2026-precio-ficha-tecnica.webp",
     imagenOficial:
       "/media/kabe-royal-600-cxl-2026-precio-ficha-tecnica.webp",
-    imagenInteriorOficial:
-      "/media/kabe-royal-600-cxl-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "/media/fotos-reales/kabe-royal-600-cxl-2026-precio-ficha-tecnica/kabe-royal-600-cxl-2026-precio-ficha-tecnica-int-1.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 8200,
@@ -277,6 +278,8 @@ export const CARAVANAS_KABE: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/kabe-royal-600-cxl-2026-precio-ficha-tecnica/kabe-royal-600-cxl-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la Royal 600 CXL, salón", ancho: 1024, alto: 768 },
+      { src: "/media/fotos-reales/kabe-royal-600-cxl-2026-precio-ficha-tecnica/kabe-royal-600-cxl-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Royal 600 CXL, salón", ancho: 1440, alto: 1920 },
     ],
     analisisSlug: "kabe-royal-600-cxl-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
@@ -466,6 +469,7 @@ export const CARAVANAS_KABE: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/kabe-imperial-780-tdl-2026-precio-ficha-tecnica/kabe-imperial-780-tdl-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la Imperial 780 TDL, cocina", ancho: 1024, alto: 768 },
     ],
     analisisSlug: "kabe-imperial-780-tdl-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {

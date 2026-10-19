@@ -100,6 +100,7 @@ export const CARAVANAS_ADRIA: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/adria-aviva-522-pt-2026-precio-ficha-tecnica/adria-aviva-522-pt-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la Aviva 522 PT, cocina y comedor", ancho: 1024, alto: 768 },
     ],
     analisisSlug: "adria-aviva-522-pt-2026-precio-ficha-tecnica",
     planMantenimiento: {
@@ -205,6 +206,7 @@ export const CARAVANAS_ADRIA: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/adria-action-361-lh-2026-precio-ficha-tecnica/adria-action-361-lh-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la Action 361 LH, comedor", ancho: 1024, alto: 768 },
     ],
     analisisSlug: "adria-action-361-lh-2026-precio-ficha-tecnica",
     planMantenimiento: {

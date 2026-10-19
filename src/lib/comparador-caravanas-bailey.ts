@@ -89,6 +89,7 @@ export const CARAVANAS_BAILEY: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/bailey-phoenix-black-420-2026-precio-ficha-tecnica/bailey-phoenix-black-420-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la Phoenix Black 420, salón", ancho: 1000, alto: 750 },
     ],
     analisisSlug: "bailey-phoenix-black-420-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
@@ -184,6 +185,7 @@ export const CARAVANAS_BAILEY: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/bailey-phoenix-black-644-2026-precio-ficha-tecnica/bailey-phoenix-black-644-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la Phoenix Black 644, salón", ancho: 1200, alto: 900 },
     ],
     analisisSlug: "bailey-phoenix-black-644-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
@@ -279,6 +281,7 @@ export const CARAVANAS_BAILEY: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/bailey-pegasus-black-brindisi-2026-precio-ficha-tecnica/bailey-pegasus-black-brindisi-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la Pegasus Black Brindisi, cocina y dormitorio", ancho: 1280, alto: 960 },
     ],
     analisisSlug: "bailey-pegasus-black-brindisi-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
@@ -374,6 +377,7 @@ export const CARAVANAS_BAILEY: CocheComparador[] = [
         ancho: 900,
         alto: 600,
       },
+      { src: "/media/fotos-reales/bailey-pegasus-black-messina-2026-precio-ficha-tecnica/bailey-pegasus-black-messina-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la Pegasus Black Messina, salón y comedor", ancho: 1280, alto: 960 },
     ],
     analisisSlug: "bailey-pegasus-black-messina-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
@@ -469,6 +473,7 @@ export const CARAVANAS_BAILEY: CocheComparador[] = [
         ancho: 900,
         alto: 600,
       },
+      { src: "/media/fotos-reales/bailey-unicorn-deluxe-cabrera-2026-precio-ficha-tecnica/bailey-unicorn-deluxe-cabrera-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la Unicorn Deluxe Cabrera, cocina y comedor", ancho: 1280, alto: 960 },
     ],
     analisisSlug: "bailey-unicorn-deluxe-cabrera-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {

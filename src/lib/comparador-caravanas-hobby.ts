@@ -321,6 +321,7 @@ export const CARAVANAS_HOBBY: CocheComparador[] = [
         alto: 800,
       },
       { src: "/media/fotos-reales/hobby-prestige-560-ul-2026-precio-ficha-tecnica/hobby-prestige-560-ul-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Hobby Prestige 560 UL, cocina y dormitorio", ancho: 1200, alto: 900 },
+      { src: "/media/fotos-reales/hobby-prestige-560-ul-2026-precio-ficha-tecnica/hobby-prestige-560-ul-2026-precio-ficha-tecnica-int-3.webp", alt: "Interior de la Prestige 560 UL, comedor y cocina", ancho: 1200, alto: 900 },
     ],
     analisisSlug: "hobby-prestige-560-ul-2026-precio-ficha-tecnica",
     planMantenimiento: {

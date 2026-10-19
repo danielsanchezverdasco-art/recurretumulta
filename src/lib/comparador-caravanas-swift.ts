@@ -86,6 +86,7 @@ export const CARAVANAS_SWIFT: CocheComparador[] = [
         ancho: 3925,
         alto: 2944,
       },
+      { src: "/media/fotos-reales/swift-sprite-alpine-4-db-2026-precio-ficha-tecnica/swift-sprite-alpine-4-db-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la Sprite Alpine 4 DB, salón y cocina", ancho: 1920, alto: 1440 },
     ],
     analisisSlug: "swift-sprite-alpine-4-db-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
@@ -180,6 +181,7 @@ export const CARAVANAS_SWIFT: CocheComparador[] = [
         ancho: 2560,
         alto: 1920,
       },
+      { src: "/media/fotos-reales/swift-sprite-major-4-eb-2026-precio-ficha-tecnica/swift-sprite-major-4-eb-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la Sprite Major 4 EB, salón y cocina", ancho: 1920, alto: 1440 },
     ],
     analisisSlug: "swift-sprite-major-4-eb-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
@@ -274,6 +276,7 @@ export const CARAVANAS_SWIFT: CocheComparador[] = [
         ancho: 1024,
         alto: 768,
       },
+      { src: "/media/fotos-reales/swift-challenger-390-2026-precio-ficha-tecnica/swift-challenger-390-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la Challenger 390, salón y cocina", ancho: 1920, alto: 1440 },
     ],
     analisisSlug: "swift-challenger-390-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
@@ -368,6 +371,7 @@ export const CARAVANAS_SWIFT: CocheComparador[] = [
         ancho: 2048,
         alto: 1536,
       },
+      { src: "/media/fotos-reales/swift-challenger-580-2026-precio-ficha-tecnica/swift-challenger-580-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la Challenger 580, salón", ancho: 1920, alto: 1440 },
     ],
     analisisSlug: "swift-challenger-580-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
@@ -462,6 +466,7 @@ export const CARAVANAS_SWIFT: CocheComparador[] = [
         ancho: 1024,
         alto: 768,
       },
+      { src: "/media/fotos-reales/swift-elegance-grande-860-2026-precio-ficha-tecnica/swift-elegance-grande-860-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la Elegance Grande 860, salón", ancho: 1024, alto: 768 },
     ],
     analisisSlug: "swift-elegance-grande-860-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {

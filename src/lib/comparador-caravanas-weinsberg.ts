@@ -28,8 +28,7 @@ export const CARAVANAS_WEINSBERG: CocheComparador[] = [
       "/media/weinsberg-caraone-550-qdk-2026-precio-ficha-tecnica-oficial.webp",
     imagenOficial:
       "/media/weinsberg-caraone-550-qdk-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial:
-      "/media/weinsberg-caraone-550-qdk-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "/media/fotos-reales/weinsberg-caraone-550-qdk-2026-precio-ficha-tecnica/weinsberg-caraone-550-qdk-2026-precio-ficha-tecnica-int-1.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 7590,
@@ -92,6 +91,8 @@ export const CARAVANAS_WEINSBERG: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/weinsberg-caraone-550-qdk-2026-precio-ficha-tecnica/weinsberg-caraone-550-qdk-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la CaraOne 550 QDK, comedor", ancho: 1440, alto: 1920 },
+      { src: "/media/fotos-reales/weinsberg-caraone-550-qdk-2026-precio-ficha-tecnica/weinsberg-caraone-550-qdk-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la CaraOne 550 QDK, comedor", ancho: 1200, alto: 761 },
     ],
     analisisSlug: "weinsberg-caraone-550-qdk-2026-precio-ficha-tecnica",
     planMantenimiento: {
@@ -195,6 +196,7 @@ export const CARAVANAS_WEINSBERG: CocheComparador[] = [
         ancho: 1200,
         alto: 675,
       },
+      { src: "/media/fotos-reales/weinsberg-caraone-390-qd-2026-precio-ficha-tecnica/weinsberg-caraone-390-qd-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la CaraOne 390 QD, cocina y dormitorio", ancho: 1920, alto: 1279 },
     ],
     analisisSlug: "weinsberg-caraone-390-qd-2026-precio-ficha-tecnica",
     planMantenimiento: {
@@ -299,6 +301,7 @@ export const CARAVANAS_WEINSBERG: CocheComparador[] = [
         ancho: 1200,
         alto: 799,
       },
+      { src: "/media/fotos-reales/weinsberg-caraone-400-lk-2026-precio-ficha-tecnica/weinsberg-caraone-400-lk-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la CaraOne 400 LK, comedor y cocina", ancho: 1920, alto: 1279 },
     ],
     analisisSlug: "weinsberg-caraone-400-lk-2026-precio-ficha-tecnica",
     planMantenimiento: {
@@ -402,6 +405,7 @@ export const CARAVANAS_WEINSBERG: CocheComparador[] = [
         ancho: 1200,
         alto: 900,
       },
+      { src: "/media/fotos-reales/weinsberg-caraone-450-fu-2026-precio-ficha-tecnica/weinsberg-caraone-450-fu-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la CaraOne 450 FU, comedor", ancho: 1920, alto: 1429 },
     ],
     analisisSlug: "weinsberg-caraone-450-fu-2026-precio-ficha-tecnica",
     planMantenimiento: {
@@ -505,6 +509,7 @@ export const CARAVANAS_WEINSBERG: CocheComparador[] = [
         ancho: 1200,
         alto: 900,
       },
+      { src: "/media/fotos-reales/weinsberg-caraone-480-eu-2026-precio-ficha-tecnica/weinsberg-caraone-480-eu-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la CaraOne 480 EU, cocina y dormitorio", ancho: 1500, alto: 1125 },
     ],
     analisisSlug: "weinsberg-caraone-480-eu-2026-precio-ficha-tecnica",
     planMantenimiento: {
