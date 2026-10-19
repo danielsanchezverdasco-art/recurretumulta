@@ -25,10 +25,10 @@ export const AUTOCARAVANAS_AHORNCAMP_M1: Autocaravana[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagen: "/media/ahorncamp-t-690-2026-precio-ficha-tecnica-ext.webp",
-    imagenOficial: "/media/ahorncamp-t-690-2026-precio-ficha-tecnica-ext.webp",
+    imagen: "/media/ahorncamp-t-690-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial: "/media/ahorncamp-t-690-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/ahorncamp-t-690-2026-precio-ficha-tecnica-interior.webp",
+      "/media/ahorncamp-t-690-2026-precio-ficha-tecnica-oficial-interior.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 6990, // lista oficial: 6,99 m
@@ -61,6 +61,7 @@ El precio es su gran argumento comercial: 61.900 euros de PVP recomendado en Ale
 Cómo lo verificamos: todos los datos de esta ficha proceden de la lista oficial de precios Ahorn Camp para el año modelo 2026 (documento PDF «Model Year 2026 · Semi-Integrated Motorhomes on Renault Master Chassis», estado agosto de 2025), descargada de ahorn-camp.de y verificada el 18 de octubre de 2026. La marca no publica la masa en orden de marcha en ese documento, así que no ofrecemos cifra de carga útil. Los acabados y la calidad de los materiales solo podrán juzgarse cuando haya unidades en circulación y opiniones de propietarios.
 
 Para quién es: la Ahorn Camp T 690 es para quien busca una perfilada de 7 metros nueva a precio ajustado, valora la transparencia de una tarifa pública y no le importa estrenar una gama sin historial a cambio de viajar sobre la última generación del Renault Master. No es para quien necesite una red de servicio densa en España ni para quien busque acabados premium. El veredicto es que es la opción racional del segmento por precio y equipamiento configurable, con la incógnita lógica de una gama recién nacida y una red comercial corta fuera de Alemania.`,
+    curiosidades: "Las camas gemelas traseras (199 × 80 cm y 207 × 80 cm) pueden unirse para formar una gran cama doble, y Ahorn Camp ofrece 7 años de garantía de estanqueidad en la célula. Fuente: página oficial del modelo T 690 Eclipse (https://ahorn-camp.de/ahorn-reisemobile/t-690-eclipse/).",
     pros: [
       "PVP oficial de 61.900 €: la perfilada de 7 m con precio de fábrica más bajo del lote",
       "Nueva generación sobre Renault Master de 4.ª generación con 2.0 Blue dCi: chasis moderno de 2026",
@@ -78,14 +79,32 @@ Para quién es: la Ahorn Camp T 690 es para quien busca una perfilada de 7 metro
     opiniones: [],
     galeria: [
       {
+        src: "/media/ahorncamp-t-690-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Ahorn Camp T 690 Eclipse, vista tres cuartos delantera (foto oficial)",
+        ancho: 1200,
+        alto: 675,
+      },
+      {
+        src: "/media/ahorncamp-t-690-2026-precio-ficha-tecnica-oficial-ext2.webp",
+        alt: "Ahorn Camp T 690 Eclipse, vista delantera (foto oficial)",
+        ancho: 1200,
+        alto: 591,
+      },
+      {
+        src: "/media/ahorncamp-t-690-2026-precio-ficha-tecnica-oficial-interior.webp",
+        alt: "Dormitorio del Ahorn Camp T 690 con camas gemelas traseras (foto oficial)",
+        ancho: 1200,
+        alto: 801,
+      },
+      {
         src: "/media/ahorncamp-t-690-2026-precio-ficha-tecnica-ext.webp",
-        alt: "Ahorn Camp T 690, vista tres cuartos delantera",
+        alt: "Ahorn Camp T 690, vista tres cuartos delantera (foto oficial)",
         ancho: 1200,
         alto: 800,
       },
       {
         src: "/media/ahorncamp-t-690-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Ahorn Camp T 690, salón y dormitorio",
+        alt: "Interior del Ahorn Camp T 690, salón y dormitorio (foto oficial)",
         ancho: 1200,
         alto: 800,
       },

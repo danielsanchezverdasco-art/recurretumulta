@@ -29,7 +29,7 @@ export const AUTOCARAVANAS_BAVARIA_M1: Autocaravana[] = [
     imagenOficial:
       "/media/bavaria-i740fgj-nomade-2026-precio-ficha-tecnica-ext.webp",
     imagenInteriorOficial:
-      "/media/bavaria-i740fgj-nomade-2026-precio-ficha-tecnica-interior.webp",
+      "/media/bavaria-i740fgj-nomade-2026-precio-ficha-tecnica-oficial-interior.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 7560, // página oficial: 7,56 m
@@ -62,6 +62,7 @@ Bavaria no publica PVP oficial, así que el precio solo se conoce pidiendo ofert
 Cómo lo verificamos: las medidas (7,56 × 2,30 × 2,85 m), las 4 plazas sentadas, las 4 plazas para dormir y la carga útil de 376 kg proceden de la página oficial del modelo en bavaria-camping-car.com, consultada el 18 de octubre de 2026. La marca no publica PVP, MMA detallada ni potencia en el extracto visible de la página, así que esos campos van marcados como «dato no oficial · en revisión» o en null. Bavaria forma parte del grupo Pilote y fabrica en Francia.
 
 Para quién es: la I740FGJ Nomade es para parejas o familias de cuatro que quieren una integral de verdad —con su parabrisas panorámico y su sensación de espacio— sin saltar a los precios de las premium alemanas, y que valoran el garaje grande y las camas gemelas convertibles. No es para quien busque una integral compacta de 7 metros ni para quien necesite cinco plazas homologadas. El veredicto es que es una integral honesta y bien equipada, con el respaldo industrial del grupo Pilote y una carga útil publicada que permite comprar con los números claros, lastrada solo por una red comercial más centrada en Francia y por un motor base justo para el peso en montaña.`,
+    curiosidades: "Las dos camas gemelas traseras se convierten en una cama doble king size gracias a una prolongación de serie, y también existe versión de «camas bajas» para subir sin escalera. Fuente: página oficial del modelo I740FGJ Nomade (https://www.bavaria-camping-car.com/integral/i740fgj-nomade/).",
     pros: [
       "Integral con camas gemelas sobre gran garaje: dos camas individuales que se unen en king size",
       "Caja automática disponible en la versión Nomade: conducir 7,56 m sin estrés",
@@ -80,15 +81,27 @@ Para quién es: la I740FGJ Nomade es para parejas o familias de cuatro que quier
     galeria: [
       {
         src: "/media/bavaria-i740fgj-nomade-2026-precio-ficha-tecnica-ext.webp",
-        alt: "Bavaria I740FGJ Nomade, vista lateral",
+        alt: "Bavaria I740FGJ Nomade, vista lateral (foto oficial)",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/bavaria-i740fgj-nomade-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Bavaria I740FGJ Nomade, salón delantero",
-        ancho: 1200,
-        alto: 800,
+        src: "/media/bavaria-i740fgj-nomade-2026-precio-ficha-tecnica-oficial-interior.webp",
+        alt: "Salón cara a cara del Bavaria I740FGJ Nomade (foto oficial)",
+        ancho: 763,
+        alto: 512,
+      },
+      {
+        src: "/media/bavaria-i740fgj-nomade-2026-precio-ficha-tecnica-oficial-interior2.webp",
+        alt: "Dormitorio con camas gemelas del Bavaria I740FGJ Nomade (foto oficial)",
+        ancho: 768,
+        alto: 512,
+      },
+      {
+        src: "/media/bavaria-i740fgj-nomade-2026-precio-ficha-tecnica-oficial-interior3.webp",
+        alt: "Cocina del Bavaria I740FGJ Nomade (foto oficial)",
+        ancho: 512,
+        alto: 880,
       },
     ],
     analisisSlug: "bavaria-i740fgj-nomade-2026-analisis-opinion",
