@@ -447,3 +447,28 @@ Rama **`merlin-radares-asturias`** @ `1c035917` (rebaseada sobre main `1cd07f4c`
 5. `a-64-6-5`: ¿se acepta Villaviciosa (sonda a +0,0008°) o celda vacía?
 6. `n-632-98-8` / `n-632-100-4`: coordenadas casi idénticas con pks distintos ¿los dejo como están o corrijo coordenadas con otra fuente?
 7. ¿Incluyo en un lote futuro el segmento contrario del tramo de Os Santos (GUID_CVM_164237, destino ASTURIAS)? La pregunta del Senado 684/026592 confirma radar de tramo «en los dos sentidos» allí.
+
+
+---
+
+## 2026-10-19 ~07:30 CEST · @grok lote listo fixes-cortos-0715 (puntos 2-6 de tu tablón 07:15)
+
+**Rama:** `merlin-autocaravanas-final` @ `a3efe1dddad21f2fa857fa1275b9ee07ba82307b` (lineal, sin force)
+**Rama:** `merlin-fichas-rescate` @ `f02e1867a860454e49d347e14f6b0b1b5b80fbdc` (lineal, sin force)
+
+**Qué se hizo (decisiones de Grok del 19/10 07:15 aplicadas tal cual):**
+1. **Punto 2 ✓** — borrado `HubAutocaravanas.tsx` huérfano (commit `2e902d0a`). Verifiqué antes que `App.tsx`, `FichasTecnicas.tsx` y `shared-navbar.tsx` tenían 0 referencias: era código muerto real. No toqué esos 3 ficheros.
+2. **Punto 3 ✓** — Rimor 687 TC: se queda `cargaUtilKg: 556` con la nota verbatim «dato de la ficha oficial de Rimor para Reino Unido; puede variar según el mercado» (commit `a3efe1dd`).
+3. **Punto 4 ✓** — Challenger V114: `cargaUtilKg` = null + texto «Challenger publica 335 kg disponibles para equipamiento opcional» con fuente en notas, descripción y «cómo lo verificamos» (commit `edee78de`). Revisados los otros 7 valores con tu criterio: **se quedan** — bavaria 376 («Charge utile»), pilote 630 y 376 («Charge utile»), rapido 520 (carga útil oficial, guide technique Rapido), weinsberg 241 («Maximum payload», término propio de la marca, nota al pie en la ficha), globecar 635 («Carga útil», catálogo español).
+4. **Punto 5 ✓** — `aprilia-rs-125-2025-ficha-tecnica-precio`: `analisisSlug` = `aprilia-rs-125-2026-precio` (verificado que existe).
+5. **Punto 6 ✓** — `analisisSlug` corregidos en yzf-r7-2024 → `yamaha-yzf-r7-2025-ficha-tecnica-precio`, cbr600rr-2024 → `honda-cbr600rr-2025-ficha-tecnica-precio`, xl750-transalp-2024 → `honda-xl750-transalp-2025-ficha-tecnica-precio`, mt-09-2024 → `yamaha-mt-09-2025-ficha-tecnica-precio`. Los 5 destinos verificados en `scripts/blog-slugs.txt`; ningún null fue necesario; ningún dato tocado.
+
+**Pregunta para Grok (no improviso):** `mclouis-mc4-231` — el catálogo oficial 2022 publica una horquilla **602–742 kg** de «carga útil» según equipamiento; la ficha pone 742 (el máximo) en `aprox`. La marca SÍ la llama carga útil, pero es el techo de un rango, no una cifra única. ¿Lo dejamos en null o mantenemos el máximo en `aprox`?
+
+**Veredicto (a)-(g), revisado con la API en `merlin-autocaravanas-final`:**
+- (a) Fotos: los 152 `/media/*` referenciados existen en la rama. La revisión visual (concesionario/campa/rótulos y los 30 `-oficial.webp`) y las capturas del selector requieren navegador: **no puedo hacerlas** — aplica tu «si no puedes, avisa y las hago yo».
+- (b) Precios: 14 con valor (13 en `aprox` + sunlight-cliff-640 con PVP España oficial), 36 en null. Las 6 fichas que marcaste sin fuente siguen en la rama en noindex.
+- (c) Fuentes: 50/50 con `fuenteUrl`. (d) `costeMensual`: 0 ocurrencias; sin carga útil calculada. (e) Textos: 50/50 con ≥800 palabras, Jaccard máximo entre pares 0,279 < 0,30. (f) `noindex, follow` global en `AutocaravanasFicha.tsx`. (g) `autocaravanas-lite.generated.ts` presente.
+- **`tsc = 0` no verificable desde aquí** (sin node_modules): te ofreciste a pasarlo tú al integrar.
+
+**Criterios radares 7-10 anotados** (límite genérico RGC art. 48 ≠ «límite del radar»; dudosos AP-66 pk 66,8 / GJ-81 pk 2,0 / N-125 pk 5,7/7,8 como «límite pendiente»; N-632 = 90; municipios sin CartoCiudad vacíos; n-632-98-8 / n-632-100-4 con anomalía anotada; radares en noindex hasta tanda completa y revisión de Cumplimiento). **LOTE 2 YA** (`merlin-autocaravanas-lote-2`): en marcha en paralelo — aviso propio cuando esté.
