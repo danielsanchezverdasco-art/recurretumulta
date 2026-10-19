@@ -10,13 +10,20 @@
 // anuncio de unidad 2026 en TruckScout24
 // (https://www.truckscout24.fr/main/search/index?search-word=challenger+p+328+etape+arctic+paket+%2F+solaranlage+%2F+4%2C1t),
 // ficha técnica de Groupe Jean (https://groupejean-auto.fr/fiche-technique-challenger-328/),
+// NOTA FOTOS 328 (verificación 19/10/2026): las 4 fotos actuales no son oficiales
+// (exterior: anuncio de concesionario caravanmarkt24.de de una unidad 328 Graphite
+// Premium; interiores: anuncio de alquiler Yescapa de un 328 Graphite Ultimate con
+// cama central 160x190 + cama abatible 140x190, distribución coincidente). La marca
+// publica galería oficial del 328 en su web, pero no se pudieron extraer las URLs
+// directas con las herramientas disponibles — pendiente pase con navegador.
 // artículo de Camprest sobre la gama (http://camprest.com/en/blog/motorhome-caravan-news/challenger-closer-than-you-think).
 // Verificado el 19/10/2026.
 // NOTAS HONESTAS: Challenger (grupo Trigano) no publica tarifa oficial para España:
 // precioDesde queda en null. La potencia indicada (130 CV) es la de la versión base Break
 // con cambio manual según la ficha oficial; la versión Etape monta el 2.0 de 165 CV con
-// automático de 8 velocidades. El depósito de aguas limpias figura en 150 l en la ficha
-// oficial, aunque distribuidores anuncian 105 l para unidades 2026 (discrepancia anotada).
+// automático de 8 velocidades. Aguas: la ficha PDF oficial indicaba 150 l de agua
+// limpia, pero la página oficial del modelo (octubre 2026) da 105 l de agua limpia y
+// 100 l de grises — se usa la cifra de la página oficial, discrepancia anotada.
 // La carga útil no la publica la marca: queda en null (prohibido calcularla). Fotos de
 // anuncios de unidades reales del modelo exacto (sin marcas de agua), ≥1600 px.
 
@@ -64,7 +71,7 @@ export const AUTOCARAVANAS_CHALLENGER_M3: Autocaravana[] = [
     largoMm: 7190, // 7,19 m según ficha oficial
     anchoMm: 2350,
     altoMm: 2920,
-    pesoKg: 3069, // masa en vacío según ficha oficial
+    pesoKg: 3069, // 3.069 kg según ficha PDF oficial; la página oficial del modelo indica 2.994 kg en orden de marcha (±5 %)
     mmaKg: 3500, // PTAC; ampliable a 4.100 kg en opción
     carnetNecesario: "B", // mmaKg <= 3500
     cargaUtilKg: null, // la marca no publica la carga útil
@@ -77,7 +84,7 @@ export const AUTOCARAVANAS_CHALLENGER_M3: Autocaravana[] = [
     emisionesCo2: null,
     aprox: [],
     notas:
-      "Perfilada sobre Ford Transit 2.0 (130 CV manual en versión Break, 165 CV automático de 8 velocidades en versión Etape), según ficha oficial de Challenger Suiza: 7,19 x 2,35 x 2,92 m, 3.069/3.500 kg, 4 plazas, cama central de 160x190 y cama abatible de 140x190, calefacción de 4.000 W (6.000 W diésel en opción), agua limpia de 150 l. Distribuidores anuncian 105 l de agua limpia y 100 l de grises para unidades 2026 (discrepancia anotada). Cocina con 2 fuegos y frigorífico de 141 l, ducha independiente y garaje, según ficha de distribuidor. Quedan en null: precio oficial en España, carga útil, par, consumo y emisiones, no publicados por la marca.",
+      "Perfilada sobre Ford Transit 2.0 (130 CV manual en versión Break, 165 CV automático de 8 velocidades en versión Etape), según ficha oficial de Challenger Suiza: 7,19 x 2,35 x 2,92 m, 3.069/3.500 kg, 4 plazas, cama central de 160x190 y cama abatible de 140x190 (opcional), calefacción Truma Combi de 4.000 W (6.000 W diésel en opción), agua limpia de 105 l y grises de 100 l según la página oficial del modelo (ch.challenger-motorhomes.com/modell/328/); la ficha PDF oficial indicaba 150 l de agua limpia (discrepancia entre fuentes oficiales, anotada). Cocina con 2 fuegos y frigorífico compresor de 140 l, ducha independiente y garaje, según ficha de distribuidor. Precio de referencia: 67.490 CHF en Suiza (web oficial, octubre 2026) — referencia extranjera; Challenger no publica tarifa oficial para España. Quedan en null: precio oficial en España, carga útil, par, consumo y emisiones, no publicados por la marca.",
     curiosidades:
       "Challenger bautiza sus perfiladas solo con números, y cada número identifica una distribución: el 328 es la variante con cama central trasera y cama abatible eléctrica en 7,19 metros. Fuente: Camprest, «Challenger - closer than you think» (http://camprest.com/en/blog/motorhome-caravan-news/challenger-closer-than-you-think).",
     descripcion: `La Challenger 328 es la perfilada francesa que mejor resume la filosofía de la marca del grupo Trigano: mucho espacio útil, mecánica Ford probada y un precio que pone las cosas difíciles a las alemanas. Con 7,19 metros de largo, es la variante con cama central trasera de la gama de perfiladas Challenger, un formato que muchos viajeros consideran el ideal cuando se viaja en pareja: cada uno se levanta sin pasar por encima del otro y la cama está siempre hecha.
