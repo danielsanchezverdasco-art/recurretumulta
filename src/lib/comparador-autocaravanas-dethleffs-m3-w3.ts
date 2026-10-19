@@ -54,55 +54,54 @@ export const AUTOCARAVANAS_DETHLEFFS_M3: Autocaravana[] = [
     emisionesCo2: null,
     aprox: [],
     notas:
-      "Procedencia de los datos: el I 7017 EB es la versión integral del floor " +
-      "plan 7017 EB de la gama Trend (2020–2025 aprox.); el configurador oficial " +
-      "2026 de dethleffs.de ya no lo lista (sucesor: I 7057 EB). Largo 7.410 mm, " +
-      "ancho 2.325 mm, MMA 3.499 kg, motor Fiat Ducato 2.3 Multijet de 140 CV " +
-      "(unidades 2020) / 2.2 MultiJet de 140 CV (últimas unidades), 4 plazas en " +
-      "circulación, camas gemelas de 195x80/75 cm, cama abatible eléctrica sobre " +
-      "cabina de serie en los integrales, agua limpia 125 L y grises 90 L " +
-      "proceden de exposés y anuncios de unidades del 7017 EB (la célula es " +
-      "idéntica entre la versión T semi-integral y la I integral). Precio de " +
-      "referencia no oficial: 88.999 € para el I 7017 EB según accio.com " +
-      "(agregador, no tarifa oficial). Las fotos son oficiales de la marca " +
-      "(dethleffs.de, gama Trend). En null: precioDesde (sin PVP oficial), " +
-      "altura, peso en vacío, consumo, par, tracción y emisiones.",
+      "Origen de la información: el I 7017 EB es la variante integral del plano 7017 EB " +
+      "de la gama Trend (aprox. 2020-2025); el configurador 2026 de dethleffs.de ya no " +
+      "lo ofrece (lo releva el I 7057 EB). Datos: 7.410 mm de largo, 2.325 mm de ancho, " +
+      "3.499 kg de MMA, Fiat Ducato 2.3 Multijet de 140 CV (unidades de 2020) o 2.2 " +
+      "MultiJet de 140 CV (últimas), 4 plazas para circular, gemelas de 195x80/75 cm, " +
+      "abatible eléctrica sobre cabina incluida de serie en los integrales, 125 L de " +
+      "agua limpia y 90 L de grises, todo ello de exposés y anuncios de unidades del " +
+      "7017 EB (la célula no cambia entre la versión T semi-integral y la I integral). " +
+      "Precio orientativo no oficial: 88.999 € para el I 7017 EB según accio.com " +
+      "(agregador, sin valor de tarifa). Fotografías oficiales de la marca " +
+      "(dethleffs.de, gama Trend). En null: precioDesde (sin PVP oficial), altura, " +
+      "peso en vacío, consumo, par, tracción y emisiones.",
     curiosidades:
-      "En los integrales de la gama Trend, la cama abatible eléctrica sobre la " +
-      "cabina viene de serie: no es un opcional, sino parte de la dotación base " +
-      "del modelo, lo que eleva la capacidad a 5 plazas para dormir sin pedir " +
-      "nada extra. Fuente: web oficial https://www.dethleffs.de/wohnmobile/trend " +
-      "(dotación de la gama Trend).",
-    descripcion: `La Dethleffs Trend I 7017 EB es una integral alemana de la vieja escuela: camas gemelas longitudinales, baño trasero completo, salón en L y, como manda la tradición de los integrales Dethleffs, una cama abatible eléctrica sobre la cabina que viene de serie. Pertenece a la gama Trend tal como se vendió entre 2020 y 2025 aproximadamente —el configurador oficial 2026 ya la ha sustituido por la I 7057 EB—, así que hoy es un modelo de ocasión y de stock, pero su planteamiento sigue siendo uno de los más racionales para parejas que quieren dormir separadas sin renunciar a la comodidad de una integral.
+      "En los integrales de la gama Trend la cama abatible eléctrica sobre la cabina " +
+      "forma parte de la dotación de serie: no se pide como extra, sino que viene " +
+      "incluida en el equipamiento base del modelo, lo que sube la capacidad a cinco " +
+      "camas sin añadir nada. Fuente: web oficial " +
+      "https://www.dethleffs.de/wohnmobile/trend (dotación de la gama Trend).",
+    descripcion: `La Dethleffs Trend I 7017 EB es una integral alemana de corte clásico: gemelas longitudinales, baño completo en la zaga, salón en L y, fiel a la costumbre de los integrales Dethleffs, cama abatible eléctrica sobre la cabina incluida de serie. Milita en la gama Trend tal como se comercializó entre 2020 y 2025 —el configurador oficial de 2026 la ha reemplazado por la I 7057 EB—, por lo que hoy se mueve en el mercado de ocasión y de stock; aun así, su planteamiento continúa entre los más lógicos para parejas que prefieren dormir por separado sin renunciar al confort de una integral.
 
-    Las medidas la sitúan en el corazón del segmento: 7,41 metros de largo y 2,325 de ancho, con un MMA de 3.499 kg que la mantiene en el carnet B. Es una integral contenida, sin los excesos de las grandes de ocho metros, lo que se agradece en carreteras de montaña y en áreas con parcelas justas. La altura de la versión integral no está publicada de forma verificable en las fuentes consultadas, así que la dejamos en null antes que copiar la de la semi-integral: la cabina integral añade centímetros y lo honesto es no mezclar. El peso en vacío tampoco está documentado de forma oficial para esta versión, de modo que el consejo habitual cobra más fuerza: pesar la unidad real, cargada como se viaja, antes de planificar grandes rutas.
+Por cotas se instala en el centro del segmento: 7,41 metros de largo y 2,325 de ancho, con 3.499 kg de MMA que la mantienen dentro del carnet B. Una integral comedida, lejos de los excesos de las de ocho metros, cualidad que se valora en puertos de montaña y en áreas de parcelas ajustadas. La altura de la variante integral no figura de forma verificable en las fuentes consultadas, así que permanece en null en lugar de copiar la de la semi-integral: la cabina integral suma centímetros y lo honesto es no mezclar versiones. Tampoco hay peso en vacío documentado oficialmente para esta variante, de modo que el consejo de siempre gana peso: pesar el ejemplar real, cargado como se va a viajar, antes de planear grandes travesías.
 
-    La habitabilidad es clásica Dethleffs y funciona. Detrás, las camas gemelas longitudinales de 195 x 80/75 cm con el pasillo central: cada uno tiene su cama, se accede sin molestar al otro y el hueco bajo las camas esconde un generoso espacio de almacenaje accesible desde el interior y desde el garaje. El baño trasero es completo, con WC de cassette y ducha separada con tarima de madera, una configuración que las parejas que viajan mucho agradecen cada día. El salón en L con mesa exenta y asientos de cabina giratorios crea una zona de estar cómoda para cuatro, y la cocina en ángulo equipa placa de tres fuegos, fregadero y un frigorífico Thetford de buen tamaño. Los muebles en decoración Topaz con tapicería coordinada y la iluminación LED le dan un ambiente cálido sin estridencias, muy en la línea de la marca.
+La vida a bordo es la Dethleffs de siempre y funciona. En la zaga, las gemelas longitudinales de 195 x 80/75 cm con pasillo central: cada ocupante dispone de su cama, se entra y se sale sin despertar al otro, y el volumen bajo las camas oculta un amplio almacenaje accesible desde dentro y desde el garaje. El baño trasero es completo, con inodoro de cassette y ducha separada con tarima de madera, una dotación que las parejas que viajan a menudo agradecen a diario. El salón en L con mesa exenta y butacas de cabina giratorias dibuja una estancia cómoda para cuatro, y la cocina en ángulo monta placa de tres fuegos, fregadero y frigorífico Thetford de generoso tamaño. Mobiliario en decoración Topaz con tapicería a juego e iluminación LED crean un ambiente acogedor y sobrio, muy de la casa.
 
-    En tecnología y equipamiento, la Trend I 7017 EB de las unidades documentadas viene con un nivel serio: chasis Fiat con pack de chasis, llantas de aleación de 16 pulgadas, ABS, ESP con ASR y asistente de arranque en pendiente, climatización, techo Heki y mini-Heki, oscurecedores y mosquiteras combinados en todas las ventanas, puerta de célula XL con ventana panorámica, calefacción Truma Combi 6 con agua caliente, y preinstalaciones para placa solar y cámara trasera. Muchas unidades de ocasión añaden antena parabólica automática con TV, placas solares y toldo Omnistor, así que el mercado de segunda mano ofrece ejemplares muy equipados. El depósito de agua limpia es de 125 litros y el de grises de 90 litros aislado, cifras correctas para viajar con autonomía de varios días.
+En dotación técnica, las unidades documentadas de la Trend I 7017 EB llegan bien servidas: chasis Fiat con pack específico, llantas de aleación de 16 pulgadas, ABS, ESP con ASR y ayuda al arranque en cuesta, climatizador, techos Heki y mini-Heki, combinados de oscurecedor y mosquitera en todas las ventanas, puerta de célula XL con ventana panorámica, calefacción Truma Combi 6 con agua caliente y preinstalaciones de placa solar y de cámara trasera. Muchos ejemplares de ocasión incorporan antena parabólica automática con televisor, placas solares y toldo Omnistor, así que el mercado de segunda mano ofrece unidades muy completas. Los depósitos —125 litros de agua limpia y 90 de grises aislado— dan para varios días de autonomía sin complicaciones.
 
-    Las camas y plazas definen su público: cuatro plazas en circulación con cinturón y cinco para dormir. Las dos gemelas traseras son las camas principales, siempre hechas y siempre accesibles; la tercera vía es la cama abatible eléctrica sobre la cabina, de serie en los integrales Trend, que baja con solo pulsar un botón y ofrece dos plazas más sin tocar el salón; y el salón en L puede transformarse en una quinta plaza ocasional. Es una configuración ideal para dos adultos que viajan solos la mayor parte del año y reciben nietos o invitados de vez en cuando: de día, una integral espaciosa para dos; de noche, capacidad para cinco sin dramas.
+Camas y plazas marcan su público: cuatro plazas con cinturón para circular y cinco para dormir. Las gemelas traseras son las camas principales, siempre preparadas y siempre accesibles; la tercera vía la aporta la abatible eléctrica sobre la cabina, de serie en los integrales Trend, que desciende pulsando un botón y suma dos plazas sin desmontar el salón; y el salón en L admite transformarse en una quinta cama esporádica. La fórmula perfecta para dos adultos que ruedan solos casi todo el año y acogen nietos o invitados de cuando en cuando: de día, una integral holgada para dos; de noche, cinco camas sin complicaciones.
 
-    La mecánica es el Fiat Ducato, el caballo de batalla del caravaning europeo. Las unidades de 2020 montan el 2.3 Multijet de 140 CV y las últimas el 2.2 MultiJet también de 140 CV (103 kW), ambos con cambio manual en las versiones documentadas. Son 140 CV honestos para 3.499 kg: suficientes para autopista y puertos sin prisas, con la ventaja de una red de servicio Fiat Professional enorme en toda Europa y recambios asequibles. El consumo no está publicado de forma verificable; en uso real, una integral de este tamaño con 140 CV se mueve en torno a los valores habituales del segmento cuando se viaja a ritmos legales.
+La mecánica corre a cargo del Fiat Ducato, el motor de referencia del caravaning europeo. Las unidades de 2020 equipan el 2.3 Multijet de 140 CV y las últimas el 2.2 MultiJet también de 140 CV (103 kW), ambas con cambio manual en las versiones documentadas. Son 140 CV sinceros para 3.499 kg: bastan para autopista y puertos sin agobios, con el plus de una red Fiat Professional vastísima en toda Europa y recambios económicos. El consumo no está publicado de forma verificable; en uso real, una integral de estas dimensiones con 140 CV ronda los registros habituales del segmento cuando se circula a ritmos legales.
 
-    Del precio hay que hablar con la misma honestidad que del resto: Dethleffs no publica PVP oficial del I 7017 EB porque ya no está en gama. Como referencia no oficial, el agregador accio.com situaba el I 7017 EB (integral) en 88.999 € frente a los 73.199 € del T 7017 EB (semi-integral) en 2023, lo que ilustra el sobrecoste típico de la cabina integral. Hoy el modelo solo se encuentra en ocasión y stock, donde el precio depende del año, los kilómetros y el equipamiento. En España, la red de concesionarios Dethleffs mantiene el servicio postventa de la célula y la base Fiat se atiende en cualquier servicio oficial. Si buscas una, prioriza unidades con historial de revisiones de estanqueidad: en una integral con años, el techo y las uniones de la cabina son los puntos a revisar con un profesional.
+El precio exige la misma franqueza que el resto del análisis: Dethleffs no publica PVP del I 7017 EB al estar fuera de gama. Como orientación no oficial, el agregador accio.com ubicaba el I 7017 EB (integral) en 88.999 € frente a los 73.199 € del T 7017 EB (semi-integral) en 2023, un contraste que ilustra el sobreprecio típico de la cabina integral. Hoy el modelo solo aparece en ocasión y stock, donde el precio depende del año, el kilometraje y la dotación. En España, la red de concesionarios Dethleffs sostiene la postventa de la célula y la base Fiat se atiende en cualquier taller oficial. Quien busque una, que priorice ejemplares con historial de revisiones de estanqueidad: en una integral con años a cuestas, el techo y las juntas de la cabina son los puntos que un profesional debe revisar.
 
-    Cómo lo verificamos (19/10/2026): la existencia del modelo y su posición en la gama (2020–2025, sucesor I 7057 EB en 2026) se comprobó en la web oficial dethleffs.de; las dimensiones de la célula (7.410 x 2.325 mm), el MMA de 3.499 kg, el motor Fiat Ducato de 140 CV, las 4 plazas en circulación, las camas gemelas de 195x80/75 cm, la cama abatible eléctrica de serie y las capacidades de agua (125/90 L) proceden de exposés y anuncios detallados de unidades del 7017 EB, cuya célula es idéntica entre las versiones T e I. Lo no publicado queda en null y así se declara.
+Cómo lo verificamos (19/10/2026): la existencia del modelo y su encaje en la gama (2020-2025, relevo por la I 7057 EB en 2026) se contrastó en la web oficial dethleffs.de; las cotas de la célula (7.410 x 2.325 mm), la MMA de 3.499 kg, el Ducato de 140 CV, las 4 plazas para circular, las gemelas de 195x80/75 cm, la abatible eléctrica de serie y las capacidades de agua (125/90 L) proceden de exposés y anuncios pormenorizados de unidades del 7017 EB, cuya célula es idéntica en las versiones T e I. Lo no publicado permanece en null y así se indica.
 
-    Para quién es: la Trend I 7017 EB encaja con parejas que quieren una integral con camas gemelas de verdad —dormir separados sin litera ni transformaciones— y una quinta plaza ocasional gracias a la cama abatible de serie. No es para familias de seis (se queda corta), ni para quien busca una integral nueva con garantía de fábrica, ni para conductores que exijan cambio automático: aquí todo es manual y mecánicamente sencillo. Si las gemelas te han conquistado, túmbate en ambas en el concesionario y comprueba el acceso al pasillo central: es el gesto que repetirás cada noche.`,
+Para quién es: la Trend I 7017 EB casa con parejas que desean una integral con gemelas auténticas —dormir separados sin literas ni transformaciones— y una quinta cama ocasional gracias a la abatible de serie. No es para familias de seis (se queda corta), ni para quien busque una integral nueva con garantía de fábrica, ni para conductores que pidan cambio automático: aquí todo es manual y mecánicamente simple. Si las gemelas te han seducido, túmbate en las dos en el concesionario y prueba el acceso al pasillo central: será el gesto que repitas cada noche.`,,
     pros: [
-      "Camas gemelas longitudinales de 195 cm: dormir separados con acceso independiente y gran almacenaje debajo",
-      "Cama abatible eléctrica sobre la cabina de serie: cinco plazas para dormir sin pagar opcionales",
-      "Baño trasero completo con ducha separada y tarima de madera, poco habitual en 7,41 m",
-      "Mecánica Fiat Ducato de 140 CV con red de servicio inmensa y recambios asequibles en toda Europa",
-      "Integral contenida (7,41 m, 3.499 kg, carnet B): más ágil que las grandes integrales de 8 metros",
+      "Gemelas longitudinales de 195 cm: dormir por separado con entrada independiente y gran hueco de carga debajo",
+      "Abatible eléctrica sobre la cabina incluida de serie: cinco camas sin pagar extras",
+      "Baño trasero completo con ducha separada y tarima de madera, raro en 7,41 m",
+      "Ducato de 140 CV con una red de talleres inmensa y recambios baratos en toda Europa",
+      "Integral comedida (7,41 m, 3.499 kg, carnet B): más manejable que las grandes de 8 metros",
     ],
     contras: [
-      "Modelo fuera de gama 2026 (sucesor: I 7057 EB): solo ocasión y stock, sin precio oficial",
-      "Solo 4 plazas en circulación: insuficiente para familias numerosas",
-      "Altura y peso en vacío de la versión integral no publicados de forma verificable: hay que pesar la unidad real",
-      "Cambio manual y 140 CV: mecánicamente sencillo, pero sin la soltura de las versiones de 160-180 CV",
-      "El sobrecoste de la cabina integral frente a la semi-integral se nota en el mercado de ocasión",
+      "Fuera de la gama 2026 (la releva la I 7057 EB): solo ocasión y stock, sin precio oficial",
+      "Cuatro plazas para circular: escasas para familias grandes",
+      "Altura y peso en vacío de la integral sin publicar de forma verificable: conviene pesar el ejemplar real",
+      "Manual y 140 CV: sencillez mecánica a cambio de menos brío que las de 160-180 CV",
+      "El sobreprecio de la cabina integral sobre la semi-integral se deja notar en la ocasión",
     ],
     opiniones: [],
     galeria: [
