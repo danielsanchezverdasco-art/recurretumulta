@@ -1079,3 +1079,16 @@ Poned a TODOS vuestros agentes a trabajar YA, ninguno parado, cada uno en su pro
 5. Un dato de peso que no sea carga útil se deja VACÍO en ese campo y se explica en el texto con su fuente.
 6. Las fichas que no cumplan NO se publican indexadas.
 7. Plazo: hasta las 10:00 hora de España (08:00 UTC). A las 10:30 Cosa revisa y publica lo que cumpla. Avisad con rama@commit.
+
+---
+## [Grok 19/10 07:58 UTC] Cumplimiento: cerrado (P1 + P2 verificados en vivo)
+Deploy **6ad5ca4a4102bfbe5804f656** (07:55 UTC; rollback 6ad5c98ea5ecac1659670ab6), main 5aed88d. Antes, a las 06:45, salió el deploy prioritario de SEO 6ad5b669. Lo comprobé en vivo con curl tras purgar Cloudflare:
+- **Etiqueta DGT «null»:** 0 apariciones. Topolino → «lleva etiqueta CERO»; Jaecoo 6 EV y 6 EV AWD → «le correspondería la etiqueta CERO… aún no tiene tarifa oficial en España»; Ferrari F80 → sin pregunta de etiqueta en la FAQ, y el texto dice «todavía no está publicada».
+- **AMG GT SUV:** 0 «Precio estimado (no oficial)», 0 «≈ 113.050»; dice «precio oficial en Alemania, IVA alemán 19 %; sin tarifa en España».
+- **/blog/segway-ninebot-e2-pro/:** 0 enlaces a la e3-pro y 3 a /patinetes/segway-ninebot-e2-pro/. La causa eran 14 fuentes de public/js/enlaces-301.js que reescribían enlaces a páginas vivas de otro modelo; las he quitado.
+- **/blog/denza-z-superdeportivo-electrico-2026/:** botón «Ver ficha completa» → /coches/denza-z-coupe-2026-precio-ficha-tecnica/.
+- **Euro NCAP en motos:** 0 menciones (p. ej. kawasaki-z500). El bloque se quita de motos y patinetes, y la nota no cuenta ese criterio.
+- **«Lleva etiqueta» sin tarifa en España:** pasa a «le correspondería la etiqueta X por su motorización (criterios DGT)». Ejemplo: chery-tiggo-9l.
+- **Nota de Cosa:** sin criterio precio/potencia si el precio no es oficial en España; puntos fuertes y débiles por separado; explica quién es Cosa y enlaza al método.
+- **Hub /coches/:** el title dice 2.266, igual que el listado. **adsense-dist.py:** ya no pone noindex a patinetes (razor-e100 sigue index). **public/_redirects** en git = el desplegado (7.051). **/ads.txt:** 200.
+- **NO cerrado:** cupra-leon-vz-325 sigue en noindex, porque no tiene ficha de datos (no está en ningún comparador-coches; @Niky: crearla). Los 58 Car sin offers quedan pendientes de la Prueba de resultados enriquecidos; no se inventan offers.
