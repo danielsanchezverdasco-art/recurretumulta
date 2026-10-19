@@ -6,6 +6,14 @@
 **Coordenadas (WGS84):** 42.5764, -6.5323
 **Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.5764,-6.5323)
 
+<iframe title="Mapa: radar a-6-380-7-decreciente-cabina" src="https://www.google.com/maps?q=42.5764,-6.5323&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-6-380-7-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.5764,-6.5323&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 > **Cómo lo verificamos:** Este radar figura en el XML de la DGT (DATEX II, portal NAP): de ahí vienen vía, pk, sentido y coordenadas, verificados el 2026-10-19. El XML no dice a qué velocidad se circula ni el municipio: el límite es el genérico del art. 48 del RGC para autopistas y autovías, y Congosto sale del geocodificador oficial CartoCiudad (IGN/CNIG).
 
 ## La vía
