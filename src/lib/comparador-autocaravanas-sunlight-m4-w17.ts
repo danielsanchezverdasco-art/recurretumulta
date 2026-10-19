@@ -3,13 +3,14 @@
 // configurador oficial) + anuncios coherentes de unidades nuevas 2026 en
 // TruckScout24 (distribuidor Freizeitcenter Adolph) + press.sunlight.de (sala de
 // prensa oficial). Verificado el 19/10/2026.
-// Notas honestas: la web oficial de Sunlight no pudo extraerse automáticamente
-// (bloqueo técnico del lector), así que las dimensiones y el equipamiento se
-// verifican con múltiples anuncios de unidades nuevas del año-modelo 2026,
-// todos coherentes entre sí; la existencia de los modelos en el catálogo oficial
-// 2026 está confirmada en sunlight.de. Sunlight no publica tarifa oficial para
-// España ni PVP base accesible: precioDesde queda en null. Carga útil, consumos,
-// emisiones y capacidades de depósitos no publicados por el fabricante → null.
+// Notas honestas (rev. 19/10/2026): la página oficial del I 68 Adventure en
+// sunlight.de se verificó manualmente: 7.430 x 2.320 x 2.930 mm, MMA 3.500 kg
+// de serie (3.650 kg opcional), masa en orden de marcha 3.066 kg, plazas 4+1/4+1
+// y precio «ab» de 81.499 € en Alemania. El resto de datos del I 68 y todos los
+// del T 69 L se verifican con anuncios coherentes de unidades nuevas 2026
+// (distribuidor Freizeitcenter Adolph). El T 69 L no figura en la página de gama
+// Teilintegrierte Adventure actual de sunlight.de (solo T 58, T 66 S, T 67, T 68).
+// Carga útil, consumos, emisiones y depósitos no publicados → null.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
 export const AUTOCARAVANAS_SUNLIGHT_M4: Autocaravana[] = [
@@ -54,7 +55,7 @@ export const AUTOCARAVANAS_SUNLIGHT_M4: Autocaravana[] = [
     emisionesCo2: null,
     aprox: [],
     notas:
-      "Modelo verificado en el catálogo oficial Sunlight 2026 (sunlight.de, página «T 69 LC Adventure»). Dimensiones (7.410 x 2.320 x 2.920 mm), MMA (3.499 kg), motor (Citroën Jumper 2.2 BlueHDi 140 CV Euro 6), 4 plazas de pernocta y equipamiento (frigorífico 156+29 l, Truma Combi 6, solar 100 W con MPPT, toldo 4,5 m, depósito de gasóleo 90 l, aguas grises aislado) verificados en anuncios de unidades nuevas del año-modelo 2026 del distribuidor Freizeitcenter Adolph, coherentes entre sí. La web oficial no publica PVP base ni tarifa para España: precioDesde en null. Carga útil, consumos, emisiones y depósitos de agua: no publicados.",
+      "Dimensiones (7.410 x 2.320 x 2.920 mm), MMA (3.499 kg), motor (Citroën Jumper 2.2 BlueHDi 140 CV Euro 6), 4 plazas de pernocta y equipamiento (frigorífico 156+29 l, Truma Combi 6, solar 100 W con MPPT, toldo 4,5 m, depósito de gasóleo 90 l, aguas grises aislado) verificados en anuncios de unidades nuevas del año-modelo 2026 del distribuidor Freizeitcenter Adolph, coherentes entre sí. Nota de verificación 19/10/2026: el T 69 L no figura en la página de gama Teilintegrierte Adventure actual de sunlight.de (solo T 58, T 66 S, T 67 y T 68), por lo que sus datos proceden íntegramente de documentación de distribuidor. La web oficial no publica PVP base ni tarifa para España: precioDesde en null. Carga útil, consumos, emisiones y depósitos de agua: no publicados.",
     curiosidades:
       "El T 69 L lleva el Bridge Light, la firma luminosa trasera de ancho completo que Sunlight introdujo en el rediseño de 2024: un piloto que recorre todo el ancho del vehículo y se ha convertido en su seña de identidad nocturna. Fuente: sala de prensa oficial de Sunlight (https://press.sunlight.de/sunlight-teilintegrierte-t-670s-t-680-und-t-690l-erstmals-auf-ford-basis/).",
     descripcion: `La Sunlight T 69 L es la perfilada familiar con cama queen de la gama Adventure de Sunlight para 2026, la marca de acceso del grupo Erwin Hymer que ha hecho de la relación equipamiento-precio su razón de ser. La «L» delata su formato largo —7,41 metros— y en el catálogo 2026 aparece como T 69 LC Adventure, donde la C identifica la base Citroën Jumper que monta el año-modelo actual, con el 2.2 BlueHDi de 140 CV. Es una perfilada pensada para familias que quieren cuatro camas reales, garaje grande y un equipamiento de salida muy completo sin entrar en presupuestos de gama media.
@@ -91,26 +92,26 @@ Para quién es: la T 69 L encaja con familias de cuatro que quieren cama queen, 
       {
         src: "/media/sunlight-t-69-l-2026-precio-ficha-tecnica-oficial.webp",
         alt: "Sunlight T 69 L, vista exterior de la perfilada",
-        ancho: 1200,
-        alto: 800,
+        ancho: 1600,
+        alto: 1066,
       },
       {
         src: "/media/sunlight-t-69-l-2026-precio-ficha-tecnica-interior1.webp",
-        alt: "Sunlight T 69 L, interior del salón",
-        ancho: 1200,
-        alto: 800,
+        alt: "Sunlight T 69 L, dormitorio trasero",
+        ancho: 971,
+        alto: 728,
       },
       {
         src: "/media/sunlight-t-69-l-2026-precio-ficha-tecnica-interior2.webp",
-        alt: "Sunlight T 69 L, cama queen trasera",
-        ancho: 1200,
-        alto: 800,
+        alt: "Sunlight T 69 L, cocina",
+        ancho: 1024,
+        alto: 768,
       },
       {
         src: "/media/sunlight-t-69-l-2026-precio-ficha-tecnica-detalle.webp",
-        alt: "Sunlight T 69 L, detalle del habitáculo",
-        ancho: 1200,
-        alto: 800,
+        alt: "Sunlight T 69 L, detalle de la cocina",
+        ancho: 728,
+        alto: 728,
       },
     ],
     analisisSlug: "sunlight-t-69-l-analisis-opinion",
@@ -139,7 +140,7 @@ Para quién es: la T 69 L encaja con familias de cuatro que quieren cama queen, 
     modelo: "I 68",
     tipo: "integral",
     categoria: "Autocaravana",
-    precioDesde: null, // Sunlight no publica tarifa oficial (ni ES ni base DE accesible)
+    precioDesde: 81499, // precio oficial «ab» en Alemania (sunlight.de, I 68 Adventure, verificado 19/10/2026); en España lo fija la red de distribuidores
     potenciaCv: 180, // Fiat Ducato 2.2 Multijet de 132 kW en la unidad 2026 Adventure documentada (automática de 8 v)
     autonomiaKm: null,
     maleteroL: null,
@@ -158,28 +159,28 @@ Para quién es: la T 69 L encaja con familias de cuatro que quieren cama queen, 
       "/media/sunlight-i-68-2026-precio-ficha-tecnica-interior1.webp",
     videoId: null,
     videoCanal: null,
-    largoMm: 7410, // anuncios de unidades nuevas 2026 Adventure (coherentes entre sí)
+    largoMm: 7430, // web oficial sunlight.de: 743 cm
     anchoMm: 2320,
     altoMm: 2930,
-    pesoKg: null, // no publicado por el fabricante
-    mmaKg: 3650, // 3.650 kg en la unidad 2026 Adventure documentada
-    carnetNecesario: "C1", // 3.650 kg supera los 3.500 kg del carnet B
+    pesoKg: null, // masa en orden de marcha oficial 3.066 kg (rango 2.913-3.219 kg, sunlight.de); no es carga útil -> campo vacío
+    mmaKg: 3500, // web oficial sunlight.de: 3.500 kg de serie; aumento opcional a 3.650 kg
+    carnetNecesario: "B", // 3.500 kg de serie; el aumento opcional a 3.650 kg exigiría C1
     cargaUtilKg: null, // la marca no la publica; prohibido calcularla
     consumo: null,
     consumoUnidad: null,
     plazas: 4, // 4 de serie; quinta plaza opcional en banco lateral según distribuidor
-    plazasDormir: 4, // camas gemelas traseras (convertibles en doble) + cama basculante
+    plazasDormir: 4, // camas gemelas traseras (convertibles en doble) + cama basculante; 5.ª plaza central opcional (210x65) según web oficial
     parNm: null,
     traccion: "delantera",
     emisionesCo2: null,
     aprox: [],
     notas:
-      "Integral verificada en el catálogo oficial Sunlight 2026 (sunlight.de). Dimensiones (7.410 x 2.320 x 2.930 mm), MMA (3.650 kg), motor (Fiat Ducato 180 CV con automática de 8 v), 4 plazas de pernocta y equipamiento (frigo 156+29 l, horno integrado, depósito de grises aislado, depósito de gasóleo 90 l, llantas de 16'' bicolor) verificados en anuncios de unidades nuevas 2026 Adventure del distribuidor Freizeitcenter Adolph, coherentes entre sí. La MMA de 3.650 kg exige carnet C1 en España. Sunlight no publica tarifa oficial: precioDesde en null. Carga útil, consumos, emisiones y depósitos: no publicados.",
+      "Integral verificada en el catálogo oficial Sunlight 2026 (sunlight.de, página del modelo I 68 Adventure, consultada el 19/10/2026). Datos oficiales: 7.430 x 2.320 x 2.930 mm, MMA 3.500 kg de serie (aumento opcional a 3.650 kg), masa en orden de marcha 3.066 kg (rango 2.913-3.219 kg), 4+1 plazas de viaje y 4+1 de pernocta, Fiat Ducato 2.2 de 103 kW/140 CV de serie. Precio oficial «ab» en Alemania: 81.499 € (sin tarifa oficial para España). Motor 180 CV con automática de 8 v, equipamiento Adventure (frigo 156+29 l, horno integrado, depósito de grises aislado, depósito de gasóleo 90 l, llantas de 16'' bicolor) y 4 plazas de pernocta verificados en anuncios de unidades nuevas 2026 Adventure del distribuidor Freizeitcenter Adolph, coherentes entre sí. Con la MMA de serie (3.500 kg) se conduce con carnet B en España. Carga útil, consumos, emisiones y depósitos: no publicados.",
     curiosidades:
       "La edición Adventure del I 68 calza de serie llantas de aleación bicolor de 16 pulgadas, ventanas con marco en lugar de las habituales de quita y pon, y una segunda trampilla exterior de acceso al garaje: tres detalles que delatan su acabado superior dentro de la gama Sunlight. Fuente: configurador oficial de Sunlight (https://configurator.sunlight.de/en/reisemobile/adventure-i/69l/?x=SXZ14S7&step=2) y ficha de distribuidor en TruckScout24.",
     descripcion: `La Sunlight I 68 es la integral de 7,41 metros de la gama Adventure de Sunlight, la apuesta de la marca alemana del grupo Erwin Hymer por llevar el formato integral —carrocería completamente carrozada, sin cabina original— a un precio donde tradicionalmente solo había perfiladas. Es el vehículo para quien quiere la estética y la habitabilidad de una integral, con su parabrisas panorámico y su salón diáfano, sin subir al presupuesto de las integrales premium alemanas.
 
-En medidas y habitabilidad, las fichas de las unidades nuevas 2026 anuncian 7.410 mm de largo, 2.320 mm de ancho y 2.930 mm de alto, con una masa máxima de 3.650 kg en la versión Adventure documentada. Ese dato es importante: al superar los 3.500 kg, en España exige el carnet C1, un peaje que conviene asumir con los ojos abiertos antes de enamorarse del vehículo. A cambio, esos 150 kilos extra sobre el límite del B dan un respiro de carga que las integrales de 3.500 kg no tienen. La distribución es la clásica de las integrales familiares: salón delantero panorámico con asientos giratorios, cocina lateral completa, baño central y dormitorio trasero con camas gemelas longitudinales que se convierten en una gran cama doble mediante el colchón central.
+En medidas y habitabilidad, la web oficial declara 7.430 mm de largo, 2.320 mm de ancho y 2.930 mm de alto, con una masa máxima de 3.500 kg de serie (aumento opcional a 3.650 kg). Con los 3.500 kg de serie se conduce con el carnet B en España; el aumento opcional a 3.650 kg sí exigiría el C1 y da un respiro de carga que las integrales de 3.500 kg no tienen. La distribución es la clásica de las integrales familiares: salón delantero panorámico con asientos giratorios, cocina lateral completa, baño central y dormitorio trasero con camas gemelas longitudinales que se convierten en una gran cama doble mediante el colchón central.
 
 En tecnología y equipamiento, la edición Adventure marca distancias con la Sunlight básica. De serie incluye las llantas de aleación bicolor de 16 pulgadas, la tapicería y la decoración específicas Adventure, ventanas con marco —más estancas y silenciosas que las de quita y pon—, el elemento de diseño trasero, una segunda trampilla exterior de acceso al garaje y el gran frigorífico de 156 litros con congelador independiente de 29 litros. El Pack One suma el toldo y el portabicicletas para tres bicis, y el Pack Basic aporta el Bridge Light, la mosquitera de una pieza, el espejo con perchas y la claraboya panorámica de 70 x 50 cm. La cocina de la unidad documentada incluye horno integrado en el bloque, un extra poco común en este precio, y el baño trae enrejado de madera en la ducha, depósito de aguas grises aislado y calefactado, y preinstalación de TV a 12 voltios con soporte de pantalla plana.
 
@@ -187,50 +188,50 @@ En camas y plazas, la I 68 ofrece cuatro plazas para dormir: las dos camas gemel
 
 Mecánicamente, la unidad 2026 Adventure documentada monta el Fiat Ducato 2.2 Multijet de 180 CV (132 kW) con cambio automático de 8 velocidades, la combinación más potente y cómoda del catálogo Ducato camper, con homologación Euro 6. Es el motor que mejor le sienta a una integral de 3.650 kg: empuja con autoridad en autopista, sube puertos sin despeinarse y el automático elimina el eterno debate del embrague en retenciones. El depósito de gasóleo es de 90 litros y el chasis incluye freno de estacionamiento eléctrico. La tracción es delantera, con todo el arsenal electrónico del Ducato moderno (ESP, asistente de arranque en pendiente, control de crucero adaptativo en opción).
 
-En precio y red comercial en España, Sunlight no publica tarifa oficial española ni PVP base accesible, así que el precio queda en null con honestidad. Como referencia, las integrales de acceso de 7,4 metros con 180 CV automático se mueven en el mercado europeo sensiblemente por encima de las perfiladas equivalentes; el precio final en España lo fija la red de distribuidores Sunlight del grupo Erwin Hymer, y conviene pedir oferta cerrada porque la edición Adventure, el automático y los packs pesan mucho en la factura. La garantía es la legal europea más la de estanqueidad de la célula.
+En precio, Sunlight publica en su web alemana un precio «ab» de 81.499 € para el I 68 Adventure (precio oficial en Alemania, no tarifa española): es la referencia de partida del fabricante. El precio final en España lo fija la red de distribuidores Sunlight del grupo Erwin Hymer, y conviene pedir oferta cerrada porque la edición Adventure, el automático y los packs pesan mucho en la factura. La garantía es la legal europea más la de estanqueidad de la célula.
 
-Cómo lo verificamos: la existencia del modelo en el catálogo 2026 está confirmada en sunlight.de (la extracción automática de la web oficial falló por bloqueo técnico el 19/10/2026, así que las cifras se contrastaron con anuncios de unidades nuevas del año-modelo 2026). Las dimensiones (7.410 x 2.320 x 2.930 mm), la MMA (3.650 kg), el motor (Fiat Ducato 180 CV automático), las 4 plazas de pernocta, las camas gemelas convertibles y todo el equipamiento Adventure citado proceden de anuncios coherentes entre sí del distribuidor Freizeitcenter Adolph en TruckScout24; el detalle de la dotación Adventure (llantas bicolor, ventanas con marco, segunda trampilla) se confirma además en el configurador oficial de Sunlight. Carga útil, consumos, emisiones y capacidades de agua: no publicados → null.
+Cómo lo verificamos: página oficial del modelo I 68 Adventure en sunlight.de (consultada el 19/10/2026): dimensiones (7.430 x 2.320 x 2.930 mm), MMA 3.500 kg de serie (3.650 kg opcional), masa en orden de marcha 3.066 kg (rango 2.913-3.219 kg), plazas 4+1/4+1, motor base Fiat Ducato 2.2 de 140 CV y precio «ab» de 81.499 € en Alemania. El motor 180 CV con automática de 8 v, las camas gemelas convertibles y todo el equipamiento Adventure citado proceden de anuncios coherentes entre sí de unidades nuevas 2026 Adventure del distribuidor Freizeitcenter Adolph en TruckScout24; el detalle de la dotación Adventure (llantas bicolor, ventanas con marco, segunda trampilla) se confirma además en el configurador oficial de Sunlight. Carga útil, consumos, emisiones y capacidades de agua: no publicados → null.
 
-Para quién es: la I 68 encaja con quien siempre soñó con una integral y no quiere —o no puede— pagar una premium alemana: el salón panorámico, la estética y el espacio interior son de verdad de integral. También con viajeros que hacen muchos kilómetros y valoran el 180 CV automático. No es para quien solo tenga el carnet B —los 3.650 kg exigen el C1, sin atajos—, ni para quien busque la máxima discreción: una integral blanca de 7,41 metros no pasa desapercibida en ningún pueblo. Y si el presupuesto manda, la T 69 L perfilada ofrece un planteamiento familiar parecido con carnet B y precio inferior.`,
+Para quién es: la I 68 encaja con quien siempre soñó con una integral y no quiere —o no puede— pagar una premium alemana: el salón panorámico, la estética y el espacio interior son de verdad de integral. También con viajeros que hacen muchos kilómetros y valoran el 180 CV automático. No es para quien quiera el aumento opcional a 3.650 kg sin tener el carnet C1 —con la MMA de serie (3.500 kg) basta el B—, ni para quien busque la máxima discreción: una integral blanca de 7,41 metros no pasa desapercibida en ningún pueblo. Y si el presupuesto manda, la T 69 L perfilada ofrece un planteamiento familiar parecido con carnet B y precio inferior.`,
     pros: [
       "Integral de verdad a precio de acceso: salón panorámico y estética integral sin presupuesto premium",
       "Fiat Ducato 180 CV con automática de 8 v: la mecánica más capaz y cómoda para 3.650 kg",
       "Edición Adventure con llantas bicolor, ventanas con marco y segunda trampilla: acabado superior",
       "Camas gemelas traseras convertibles en doble más basculante: cuatro camas flexibles según el viaje",
-      "MMA de 3.650 kg: 150 kg de margen extra sobre el límite del B para carga real",
+      "MMA de 3.500 kg de serie (3.650 kg opcional): carnet B sin atajos, con margen ampliable",
     ],
     contras: [
-      "Exige carnet C1: los 3.650 kg dejan fuera a quien solo tenga el B, sin excepción",
+      "El aumento opcional a 3.650 kg exige carnet C1: verificar la MMA de la unidad concreta",
       "Sin tarifa oficial publicada: el precio final depende del distribuidor y hay que negociarlo",
       "7,41 m de integral: presencia imponente que complica pueblos, parkings y ferris",
       "Carga útil, consumos y depósitos sin publicar: ficha técnica oficial con lagunas",
-      "El 180 CV automático es la versión documentada: la base de acceso será menos potente y equipada",
+      "El 180 CV automático es la versión documentada: la base de acceso es el 140 CV, menos potente y equipada",
     ],
     opiniones: [],
     galeria: [
       {
         src: "/media/sunlight-i-68-2026-precio-ficha-tecnica-oficial.webp",
         alt: "Sunlight I 68, vista exterior de la integral",
-        ancho: 1200,
-        alto: 800,
+        ancho: 1600,
+        alto: 751,
       },
       {
         src: "/media/sunlight-i-68-2026-precio-ficha-tecnica-interior1.webp",
         alt: "Sunlight I 68, salón panorámico delantero",
-        ancho: 1200,
-        alto: 800,
+        ancho: 1600,
+        alto: 751,
       },
       {
         src: "/media/sunlight-i-68-2026-precio-ficha-tecnica-interior2.webp",
         alt: "Sunlight I 68, camas gemelas traseras",
-        ancho: 1200,
-        alto: 800,
+        ancho: 1600,
+        alto: 751,
       },
       {
         src: "/media/sunlight-i-68-2026-precio-ficha-tecnica-detalle.webp",
         alt: "Sunlight I 68, detalle del habitáculo",
-        ancho: 1200,
-        alto: 800,
+        ancho: 1600,
+        alto: 751,
       },
     ],
     analisisSlug: "sunlight-i-68-analisis-opinion",
