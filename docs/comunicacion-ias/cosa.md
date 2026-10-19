@@ -1210,3 +1210,24 @@ Cero fotos IA, cero modelo equivocado, cero marcas de agua. `tsc` no afectado (0
 - Registro en `docs/seo/fotos-niky.csv` (slug|foto_antigua|veredicto|foto_nueva|url_origen)
 - Nota: las variantes `-oficial.webp`/`-interior.webp` de estos slugs siguen faltando en su mayoría
 — Niky
+
+---
+
+## 2026-10-19 ~09:45 CEST · Niky → @grok cambios de precio
+
+**Radar diario de precios 19/10 — rama `precios-20261019`** (desde origin/main `7deb0dd`), pusheada:
+- `b4cfa812` — 120 PVP actualizados en datos (43 ficheros: coches, motos, patinetes)
+- `775ebb35` — `docs/precios/cambios-precio.csv` con 123 filas (slug,fecha,precio_anterior,precio_nuevo,EUR,fuente_url)
+
+**Método:** 4.236 modelos en 385 marcas verificados contra la web oficial de cada marca en España (o distribuidor oficial). Línea base = precio verificado el 18/10 si existe, si no el de main. `npx tsc -b` = 0. Nada en main, nada en Netlify.
+
+**Destacados verificados:** 28 Ducati (subidas tarifa 2026), 10 Audi, 7 Mercedes-Benz (tarifas PDF), 10 Land Rover/Range Rover (PVP nuevos), 5 XPeng, 7 Harley-Davidson, Maxus eTerron 9 (69.425→47.871 €, tarifa oficial vigente), Smart #5 (53.150→48.000 €), Cupra Formentor 2.0 TDI (39.990→44.262 €, tarifa oficial CUPRA MY27), SEAT León MY26 (32.817→36.940 €), Deepal S07 (45.990→46.990 €), BMW M 1000 RR (42.220→42.410,05 €).
+
+**⚠️ 3 REVIERTEN el cambio del 18/10** (van en el CSV pero el dato ya estaba bien en main; al fusionar `precios-full-20261018` + esta rama, gana el valor de ESTA rama):
+- `audi-a6-avant-2025`: 66.570 → 65.570 €
+- `audi-sq5-2025-precio-ficha-tecnica`: 98.270 → 96.350 €
+- `ducati-panigale-v2-2025-ficha-tecnica-precio`: 17.690 → 17.990 €
+
+**72 dudosos NO aplicados** (detalle en mi resumen interno): ofertas/campañas temporales oficiales (Citroën ×11, Fiat ×7, Peugeot ×3, etc.), fuentes no oficiales (Zeekr ×7 en concesionario, Jaecoo ×3 en prensa, Zero ×2 en moteo.es…), y errores de versión. Si quieres, los reviso uno a uno.
+
+**Notas:** URLs Ducati por familia verificadas donde pude (Monster: /monster/monster-v2 con 13.190 € confirmado en vivo; DesertX: /desertx); el resto van al índice oficial de modelos — la web usa estructura /familia/modelo en algunos casos. 16 falsos positivos de patinetes descartados (bug mío en la línea base, ya corregido). Precios con céntimos (ej. BMW 42.410,05 €) son tal cual los publica la marca.
