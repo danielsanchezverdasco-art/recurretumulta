@@ -2867,3 +2867,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/trs-one-r-300-2025-ficha-tecnica-precio-hunt1.webp | https://www.thehellteam.com/2025-trs-one-r-300cc | The Hell Team | desconocida |
 | /media/trs-one-r-300-2025-ficha-tecnica-precio-hunt2.webp | https://roadandtrials.co.uk/products/2025-trs-one-r-125cc-trials-bike | Road and Trials | desconocida |
 | /media/trs-one-r-300-2025-ficha-tecnica-precio-hunt3.webp | https://trs-motorcycles.com/ | TRS Motorcycles (oficial) | desconocida |
+| /media/lamborghini-urus-s-2024-precio-ficha-tecnica-hunt4.webp | https://static0.carbuzzimages.com/wordpress/wp-content/uploads/gallery-images/original/1043000/500/1043594.jpg?q=50&fit= | CarBuzz | desconocida |
+| /media/lamborghini-urus-s-2024-precio-ficha-tecnica-hunt5.webp | https://www.lus.so/images/vehicles/2023-lamborghini-urus-s-sp0003-11.webp | Lusso Stock | desconocida |
+| /media/lamborghini-urus-s-2024-precio-ficha-tecnica-hunt6.webp | https://www.qonecta.com/documents/80345/239505/Nuevo_Lamborghini_Urus_S-04.jpg/f71798a8-e12c-4d3d-9c65-f7ce4331b3ec?t=16 | Quadis | desconocida |
+| /media/renault-5-e-tech-52-kwh-2025-precio-autonomia-hunt1.webp | https://carnovo.com/es/guias/renault-5/ | CarNovo | desconocida |
+| /media/renault-5-e-tech-52-kwh-2025-precio-autonomia-hunt2.webp | https://www.km77.com/coches/renault/5/2025/estandar/informacion/renault-5-e-tech-2024-impresiones-del-interior | km77 | desconocida |
+| /media/renault-5-e-tech-52-kwh-2025-precio-autonomia-hunt3.webp | https://www.autosrodando.com.mx/exito-inminente-el-renault-r5-e-tech-acumula-casi-100-000-reservas/ | Autos Rodando | desconocida |
+| /media/ruptor-r3-hunt1.webp | https://7way.es/143-vehiculos-electricos?resultsPerPage=24&order=product.name.desc&resultsPerPage=200 | 7way.es (distribuidor Ruptor) | desconocida |
+| /media/ruptor-r3-hunt2.webp | https://mediaexpert.pl/rowery/hulajnogi/hulajnogi-elektryczne | Media Expert (Polonia) | desconocida |
+| /media/ruptor-r3-hunt3.webp | https://www.decathlon.es/ | Decathlon | desconocida |
+| /media/trs-one-rr-300-2025-ficha-tecnica-precio-hunt1.webp | https://roadandtrials.co.uk/cdn/shop/files/2025TRSOneRRTrialsBike_3.png?v=1727269467 | Road and Trials (distribuidor TRS UK) | desconocida |
+| /media/trs-one-rr-300-2025-ficha-tecnica-precio-hunt2.webp | https://media.nonstopbikes.com/product/trs-one-rr-300-2024_4zo9p3U.jpg?width=1200 | Non Stop Bikes | desconocida |
+| /media/trs-one-rr-300-2025-ficha-tecnica-precio-hunt3.webp | https://todotrial.com/wp-content/uploads/2024/09/trrs-one-rr-2025-5.jpg | TodoTrial.com | desconocida |
+| /media/navee-v25-hunt1.webp | https://www.manualslib.es/manual/957428/Navee-V25.html | ManualsLib (manual oficial Navee V25) | desconocida |
+| /media/navee-v25-hunt2.webp | https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/70/7084450/NAVEE-V25-25km-250W-10-Czarny-skos.jpg | Media Expert (anuncio Navee V25 25km 250W) | desconocida |
+| /media/navee-v25-hunt3.webp | https://be.naveetech.com/ | Navee Tech (tienda oficial BE) | desconocida |
+| /media/navee-v40i-pro-hunt1.webp | https://www.fr.fnac.ch/NAVEE-trottinette-V40I-Pro-Noir/a21147929 | Fnac | desconocida |
+| /media/navee-v40i-pro-hunt2.webp | https://www.ifun.de/navee-bringt-neuen-e-scooter-v40i-pro-auf-den-markt-238248/ | iFun.de (nota de prensa) | desconocida |
+| /media/navee-v40i-pro-hunt3.webp | https://ladendirekt.de/elektronik/produkte/navee-v40i-pro-scooter-10-zoll-black-273cf9ae | ladendirekt.de | desconocida |
+| /media/navee-v40i-pro-ii-hunt1.webp | https://points-ecomobilite.fr/wp-content/uploads/2026/07/trottinette-electrique-navee-V40i-pro-II_1-760x585.jpg | Navee (producto) vía Points Écomobilité — licencia desconocida | desconocida |
+| /media/navee-v40i-pro-ii-hunt2.webp | https://www.kitm.re/wp-content/uploads/2026/03/39772_V40I-PRO_1.webp | Navee (producto) vía Kitm.re — licencia desconocida | desconocida |
+| /media/navee-v40i-pro-ii-hunt3.webp | https://www.urban-elec.com/wp-content/uploads/2026/03/NAVEE-V40i-Pro.jpg | Navee (producto) vía Urban-Elec — licencia desconocida | desconocida |
+| /media/rieju-aventura-125-2024-ficha-tecnica-precio-hunt1.webp | https://cdn-listino.inmoto.it/2023/2/28/AVT_00916_b439249bf4.jpg | Rieju (prensa) vía Inmoto — licencia desconocida | desconocida |
+| /media/rieju-aventura-125-2024-ficha-tecnica-precio-hunt2.webp | https://www.motofichas.com/images/phocagallery/Rieju/aventura-125-2023/01-rieju-aventura-125-2023-estudio-rojo.jpg | Rieju (prensa) vía Motofichas — licencia desconocida | desconocida |
+| /media/rieju-aventura-125-2024-ficha-tecnica-precio-hunt3.webp | https://cdn-listino.inmoto.it/2023/2/28/AVT_01631_2ceefa2eae.jpg | Rieju (prensa) vía Inmoto — licencia desconocida | desconocida |
