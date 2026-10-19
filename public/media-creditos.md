@@ -966,3 +966,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/livan-9-2024-precio-ficha-tecnica-hunt1.webp | https://es.aicarglobal.com/livan-electric-automotive/ | AI Car Global (artículo de automoción eléctrica Livan) | desconocida |
 | /media/livan-9-2024-precio-ficha-tecnica-hunt2.webp | https://ev.motorwatt.com/ev-database/database-electric-cars/livan-9 | ev.motorwatt.com (ficha técnica Livan 9) | desconocida |
 | /media/livan-9-2024-precio-ficha-tecnica-hunt3.webp | https://ev.motorwatt.com/ev-database/database-electric-cars/livan-9 | ev.motorwatt.com (ficha técnica Livan 9) | desconocida |
+| /media/renault-captur-e-tech-145-2024-precio-ficha-tecnica-hunt1.webp | https://fleetnews.gr/wp-content/uploads/2024/10/New-Renault-Captur-E-Tech-full-hybrid-145-Esprit-Alpine-Iron-Blue-4-1-768x512.jpg | FleetNews.gr (foto de prensa Renault) | desconocida |
+| /media/renault-captur-e-tech-145-2024-precio-ficha-tecnica-hunt2.webp | https://autofilter.sk/assets/files/images/captur/Renault-captur-2024-23-galeria_2025-04-10-195402_qzfl.jpg | Autofilter.sk (foto de prensa Renault) | desconocida |
+| /media/renault-captur-e-tech-145-2024-precio-ficha-tecnica-hunt3.webp | https://www.motorone.gr/wp-content/uploads/2024/06/New-Renault-Captur-E-Tech-full-hybrid-145-Esprit-Alpine-Iron-Blue-4-1920x760.jpg | MotorOne.gr (foto de prensa Renault) | desconocida |
+| /media/skoda-elroq-rs-2026-precio-ficha-tecnica-hunt1.webp | https://www.carexpert.com.au/car-news/2026-skoda-elroq-rs-revealed | CarExpert (noticia presentación Elroq RS 2026) | desconocida |
+| /media/skoda-elroq-rs-2026-precio-ficha-tecnica-hunt2.webp | https://www.carsguide.com.au/car-news/offbeat-go-fast-family-electric-suv-2026-skoda-elroq | CarsGuide (noticia Elroq RS MY26) | desconocida |
+| /media/skoda-elroq-rs-2026-precio-ficha-tecnica-hunt3.webp | https://www.dailyrevs.com/cars/2026-skoda-elroq-rs-hyper-green | DailyRevs (galería Elroq RS 2026 Hyper Green, EXIF: SKODA) | desconocida |
+| /media/bmw-f-450-gs-2026-ficha-tecnica-precio-hunt1.webp | https://offroadcracks.com/new-bmw-f-450-gs-2026-light-nimble-and-a-ideal-start-into-the-ad | offroadcracks.com (foto de prensa oficial BMW) | desconocida |
+| /media/bmw-f-450-gs-2026-ficha-tecnica-precio-hunt2.webp | https://www.insella.it/listino_moto/bmw-f_450_gs/2026 | inSella (foto oficial BMW, versión Exclusive) | desconocida |
+| /media/bmw-f-450-gs-2026-ficha-tecnica-precio-hunt3.webp | https://moto-center.ch/2025/11/bmw-f-450-gs-jetzt-vorbestellen/ | moto-center.ch (artículo BMW F 450 GS 2026) | desconocida |
+| /media/gotrax-rival-hunt1.webp | https://gearmoose.com/tag/electric-scooters/ | GearMoose (foto del análisis Gotrax Rival) | desconocida |
+| /media/gotrax-rival-hunt2.webp | https://gotrax-rival.autologr.com/ | autologr.com (página dedicada Gotrax Rival) | desconocida |
+| /media/gotrax-rival-hunt3.webp | https://gotrax.it.com/index.php/product/rival-electric-scooter/ | gotrax.it.com (ficha de producto Rival) | desconocida |
+| /media/bmw-i5-edrive40-2026-precio-ficha-tecnica-hunt1.webp | https://www.press.bmwgroup.com/france/photo/detail/P90529419/BMW-i5-eDrive40-10-2023 | BMW Group (prensa oficial) | desconocida |
+| /media/bmw-i5-edrive40-2026-precio-ficha-tecnica-hunt2.webp | https://www.press.bmwgroup.com/deutschland/photo/detail/P90523017/der-bmw-i5-edrive40-fahraufnahme-10/2023?language=de | BMW Group (prensa oficial) | desconocida |
+| /media/bmw-i5-edrive40-2026-precio-ficha-tecnica-hunt3.webp | https://www.press.bmwgroup.com/deutschland/photo/detail/P90523061/Der-BMW-i5-eDrive40-Interieur-10-2023 | BMW Group (prensa oficial) | desconocida |
+| /media/bmw-serie-4-420d-gran-coupe-2026-precio-ficha-tecnica-hunt1.webp | https://cdn-xy.drivek.com/eyJidWNrZXQiOiJkYXRhay1jZG4teHkiLCJrZXkiOiJjb25maWd1cmF0b3ItaW1ncy9jYXJzL2VzL29yaWdpbmFsL0JNVy9TRVJJRVMtNC80NDU5OF9CRVJMSU5BLTUtUFVFUlRBUy9ibXctc2VyaWU0LWdyYW5jb3VwZS1mcm9udC12aWV3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTAyNCwiaGVpZ2h0IjpudWxsLCJmaXQiOiJjb3ZlciJ9fX0= | desconocida |  |
+| /media/bmw-serie-4-420d-gran-coupe-2026-precio-ficha-tecnica-hunt2.webp | https://bmw.scene7.com/is/image/BMW/g26_ice_cockpit-dashboard:3to2?fmt=webp&wid=1493&fit=constrain%2C1 | desconocida |  |
+| /media/bmw-serie-4-420d-gran-coupe-2026-precio-ficha-tecnica-hunt3.webp | https://bmw.scene7.com/is/image/BMW/g26_ice_rear-lights:3to2?fmt=webp&wid=2560&fit=wrap%2C+1 | desconocida |  |
+| /media/livan-8-2025-precio-ficha-tecnica-hunt1.webp | https://www.vehiclesizes.com/img/144989-livan-8-smooth-front-fascia-led-headlights-mpv-electric.jpg | desconocida |  |
+| /media/livan-8-2025-precio-ficha-tecnica-hunt2.webp | https://bsg-i.nbxc.com/product/e3/0e/a4/4a473b272b43aac5489b9969bf.jpg@95Q.webp | desconocida |  |
+| /media/livan-8-2025-precio-ficha-tecnica-hunt3.webp | https://i.postimg.cc/VsGdhT1G/det1.jpg | desconocida |  |
+| /media/bmw-ix3-50-xdrive-2026-precio-ficha-tecnica-hunt1.webp | https://quintamarcha.com/index.php/la-revolucion-de-bmw-llega-con-el-ix3-el-amanecer-de-la-neue-klasse | BMW / QuintaMarcha | desconocida |
+| /media/bmw-ix3-50-xdrive-2026-precio-ficha-tecnica-hunt2.webp | https://www.planetcarsz.com/noticias-de-carros/bmw-ix3-2026-neue-klasse-o-futuro-eletrizante-da-mobilidade-premium | PlanetCarsz | desconocida |
+| /media/bmw-ix3-50-xdrive-2026-precio-ficha-tecnica-hunt3.webp | https://www.planetcarsz.com/noticias-de-carros/bmw-ix3-2026-neue-klasse-o-futuro-eletrizante-da-mobilidade-premium | PlanetCarsz | desconocida |
