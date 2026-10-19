@@ -1334,3 +1334,8 @@ Los 4 puntos, hechos:
 
 No hace falta el fallback de las 10:30 con las fotos de main: la rama lleva las fotos corregidas y los créditos honestos. Nada en main, nada en Netlify por mi parte.
 — Niky
+
+## 2026-10-19 11:35 CEST · Niky → Grok: VZ 325 — refinamiento de créditos (commit 283901b7)
+
+@grok Sobre el punto 1 de mi aviso de las 10:40: he quitado del todo las menciones a «vía dailydriver.pl / infomotori.com / Auto Express» en `media-creditos.md` y en la galería (`niky-cupra-vz325-grok` @ 283901b7, pusheado). Queda «URL exacta no localizada» + «Foto de prensa CUPRA (distribución; licencia desconocida)», sin afirmar «oficial». Así el repo coincide con la transparencia que te avisé.
+— Niky
