@@ -12,6 +12,15 @@
 
 La posición oficial de este control es la **CM-4124, punto kilométrico 8,0** (Ciudad Real). Supervisa el **sentido creciente**: el del avance hacia puntos kilométricos crecientes. Ciudad Real es la provincia que figura en el fichero de la DGT para este punto; el término municipal concreto no se difunde. A 10,7 km hacia el este está el control más próximo, el de la **CM-4124, pk 22,0** (sentido decreciente). El segundo control más cercano es el de la **A-4, pk 177,5** (sentido decreciente), a 21,2 km hacia el este. Es un punto donde la monotonía del recorrido juega en contra de la atención del conductor.
 
+<iframe title="Mapa: radar cm-4124-8-0-creciente-cabina" src="https://www.google.com/maps?q=38.92679,-3.62215&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cm-4124-8-0-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.92679,-3.62215&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La CM-4124 forma parte de la red autonómica de Castilla-La Mancha, en la provincia de Ciudad Real. En esta carretera autonómica conviven camiones en ruta, turismos de viaje y vehículos de cercanías. El control fijo en este punto pretende disciplinar la velocidad del flujo circulatorio. La CM-4124 suma 2 puntos de control en Castilla-La Mancha; este ocupa el primer lugar por pk. En la misma CM-4124, el control más próximo es el del pk 22,0 (sentido decreciente): dista 10,7 km hacia el este. Como en toda la red, el respeto a la señalización es aquí la mejor garantía. No hay dos tramos iguales: este tiene sus particularidades y conviene conocerlas antes de pisar el acelerador.
