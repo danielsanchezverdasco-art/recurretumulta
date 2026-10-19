@@ -4156,3 +4156,24 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/inokim-ox-hunt1.webp | https://inokim.com.au/image/ox.png | Inokim (web oficial, Australia) | desconocida |
 | /media/inokim-ox-hunt2.webp | http://inokim.shop/cdn/shop/files/3_ab846cbb-2213-4d43-8ad3-b4edb1f93097.png?v=1770671290 | Inokim Shop | desconocida |
 | /media/inokim-ox-hunt3.webp | https://motoped.com/wp-content/uploads/INOKIM-Ox-Electric-Scooter.jpg | Motoped | desconocida |
+| /media/qjmotor-srt-600sx-2025-ficha-tecnica-precio-hunt1.webp | https://qjmotor.fr/wp-content/uploads/2025/02/SRT-600-SX-Touring-1202x849-5-2504x1769-c-default.webp | QJMotor (web oficial) | desconocida |
+| /media/qjmotor-srt-600sx-2025-ficha-tecnica-precio-hunt2.webp | https://qjmotor.fr/wp-content/uploads/2025/02/SRT-600-SX-Touring-1202x849-5-1-1603x1132-c-default.webp | QJMotor (web oficial) | desconocida |
+| /media/qjmotor-srt-600sx-2025-ficha-tecnica-precio-hunt3.webp | https://www.bikeit.gr/images/stories/new_models/qj_motor/2025/SRT_600SX/SRT600SX_YELLOW.jpg | Bikeit.gr | desconocida |
+| /media/tank-300-2-0t-2024-precio-ficha-tecnica-hunt1.webp | https://www.chasingcars.com.au/wp-content/uploads/2025/03/gwm-tank-300-diesel-8.jpg | Chasing Cars | desconocida |
+| /media/tank-300-2-0t-2024-precio-ficha-tecnica-hunt2.webp | https://images.carexpert.com.au/app/uploads/2024/06/2024-GWM-Tank-300-Ultra-Hybrid-MY24-Stills-3.jpg | CarExpert | desconocida |
+| /media/tank-300-2-0t-2024-precio-ficha-tecnica-hunt3.webp | https://www.gwmjordan.com/sites/default/files/styles/16_9_xlarge/public/2022-11/Tank%20300%20-%20Interior%203.webp?itok=NJwytaZ1 | GWM (web oficial) | desconocida |
+| /media/audi-tt-2025-precio-ficha-tecnica-hunt1.webp | https://static0.carbuzzimages.com/wordpress/wp-content/uploads/gallery-images/original/1060000/700/1060752.jpg?q=50&fit=contain&w=3000&h=2000&dpr=1.5 | CarBuzz | desconocida |
+| /media/audi-tt-2025-precio-ficha-tecnica-hunt2.webp | https://static0.carbuzzimages.com/wordpress/wp-content/uploads/gallery-images/original/658000/0/658036.jpg?q=50&fit=contain&w=3000&h=2000&dpr=1.5 | CarBuzz | desconocida |
+| /media/audi-tt-2025-precio-ficha-tecnica-hunt3.webp | https://media.drive.com.au/obj/tx_q:50,rs:auto:1920:1080:1/driveau/upload/cms/uploads/v593yiebbjl2xum4vz6g | Drive.com.au | desconocida |
+| /media/chery-explorer-06-c-dm-2024-precio-ficha-tecnica-hunt1.webp | https://images.dailyrevs.com/0000/v3/Chery%20Automobiles/662b8778094c1f5f389a1139/2024-explore-06-c-dm-chery-automobiles-dk6nzassssu0td6f3xl0feq.jpeg | DailyRevs | desconocida |
+| /media/chery-explorer-06-c-dm-2024-precio-ficha-tecnica-hunt2.webp | https://images.carexpert.com.au/app/uploads/2024/09/chery-explore-06-rear.jpg | CarExpert | desconocida |
+| /media/chery-explorer-06-c-dm-2024-precio-ficha-tecnica-hunt3.webp | https://aicarglobal.com/wp-content/uploads/slider/cache/21babecf312eead611c6e29e6c90c0e5/Chery-Explore-06-C-DM-Details-6.jpg | AicarGlobal | desconocida |
+| /media/joyor-s8-hunt1.webp | https://wsg.izenecdn.com/media/wysiwyg/joyor-s8-electric-scooter-600w-48v-26ah-525821-1.jpg | Gshopper | desconocida |
+| /media/joyor-s8-hunt2.webp | https://img.joomcdn.net/6ac9a7556d24365f150950e6c6ecb726cd694ddf_original.jpeg | Joom | desconocida |
+| /media/joyor-s8-hunt3.webp | https://img.fantaskycdn.com/c43917cc09412256816a396809ed9a27_2056x.png | Joyor (tienda oficial) | desconocida |
+| /media/tank-400-hi4-z-2025-precio-ficha-tecnica-hunt1.webp | https://www.car250.com/wp-content/uploads/2025/09/TANK-400-NEW-1.jpg | Car250 | desconocida |
+| /media/tank-400-hi4-z-2025-precio-ficha-tecnica-hunt2.webp | https://www.car250.com/wp-content/uploads/2025/09/p1-3-3-1-1536x870.jpg | Car250 | desconocida |
+| /media/tank-400-hi4-z-2025-precio-ficha-tecnica-hunt3.webp | https://www.car250.com/wp-content/uploads/2025/09/p4-1-3-2048x1160.jpg | Car250 | desconocida |
+| /media/voge-350ac-2025-ficha-tecnica-precio-hunt1.webp | https://assets.carandclassic.com/uploads/new/31418966/2025-voge-350ac-6a1a9bfa10528.jpg?fit=fillmax&h=1200&ixlib=php-4.1.0&q=85&w=1200&s=c013c2d5141f0628cfb09f22e44eae70 | Car and Classic (anuncio de venta de una 350AC 2025) | desconocida |
+| /media/voge-350ac-2025-ficha-tecnica-precio-hunt2.webp | https://bikes.motobank.co.uk/fp/70411/voge-350-ac-2025-grey_1114116.jpg | MotorcycleFinder / Appleyard Motorcycles | desconocida |
+| /media/voge-350ac-2025-ficha-tecnica-precio-hunt3.webp | https://www.motomag.gr/sites/default/files/images/galleries/2023/05/VOGE%20350AC%20%282%29.png | MotoMag.gr | desconocida |
