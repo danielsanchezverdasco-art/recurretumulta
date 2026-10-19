@@ -239,6 +239,12 @@ export interface CocheComparador {
   confianza?: "alta" | "media" | "baja";
   fuenteNombre?: string | null;
   fuenteUrl?: string | null;
+  /** 19/10/2026: curiosidad verificable del modelo (orden Grok). */
+  curiosidad?: {
+    texto: string;
+    fuenteNombre?: string | null;
+    fuenteUrl: string;
+  } | null;
   deCache?: boolean;
   /** 18/10/2026: versiones reales con precio (tabla en la ficha). Sin dato = no se muestra. Nunca inventar. */
   /** 18/10/2026: ciclo de homologación de autonomiaKm si no es WLTP (p. ej. modelos solo vendidos en China). */
