@@ -12,6 +12,15 @@
 
 Este control de velocidad media se sitúa en la **N-629, entre los puntos kilométricos 81,7 y 83,4**, en el oriente cántabro, y supervisa el **sentido creciente**, identificado por la DGT en dirección **Limpias**. El tramo tiene **1,7 km** de longitud y cubre el mismo sector de la nacional que su homólogo del sentido contrario: la DGT controla la velocidad media en ambas direcciones en esta zona de los valles del Asón. Las coordenadas marcan el punto medio del tramo vigilado.
 
+<iframe title="Mapa: radar n-629-81-7-creciente-tramo" src="https://www.google.com/maps?q=43.3619,-3.4196&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-629-81-7-creciente-tramo" src="https://maps.google.com/maps?q=&layer=c&cbll=43.3619,-3.4196&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 La N-629 articula las comunicaciones del oriente interior de Cantabria: desde la costa, remonta hacia el interior por el valle del Asón pasando por localidades como Ampuero y Limpias. Es una carretera nacional convencional, con un carril por sentido y un trazado adaptado al relieve del valle: alterna rectas donde el tráfico tiende a ganar velocidad con curvas y travesías que exigen reducirla. El tráfico combina desplazamientos locales, transporte de mercancías hacia el interior y, en temporada, visitantes que se dirigen a la zona.
