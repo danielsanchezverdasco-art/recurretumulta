@@ -12,6 +12,15 @@
 
 En el término municipal de Cartagena (Murcia), la A-30 acoge esta cabina en su punto kilométrico 179,4 (coordenadas 37.69462, -1.0199884). Vigila el sentido creciente: el tráfico que se desplaza hacia pk superiores, en dirección a Cartagena. El enlace de Street View permite comprobar el emplazamiento desde la perspectiva de la calzada.
 
+<iframe title="Mapa: radar a-30-179-4-creciente-cabina" src="https://www.google.com/maps?q=37.69462,-1.0199884&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-30-179-4-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=37.69462,-1.0199884&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
+
 ## La carretera
 
 Estamos en el sector final de la A-30, la Autovía de Murcia: autovía de titularidad estatal entre Albacete y Cartagena. Por aquí discurren tanto los viajes de largo recorrido como los desplazamientos cotidianos hacia la ciudad portuaria. La DGT la registra como autovía sin más precisiones sobre el tramo, y esta ficha se ciñe a lo que la fuente oficial confirma, sin añadir características.
