@@ -655,3 +655,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/jeep-renegade-4xe-240-2025-precio-ficha-tecnica-hunt1.webp | https://www.completecar.ie/car-news/article/10267/Renegade-4xe-is-the-first-plug-in-hybrid-Jeep | CompleteCar.ie | desconocida |
 | /media/jeep-renegade-4xe-240-2025-precio-ficha-tecnica-hunt2.webp | https://otopark.com/2021/09/28/sarj-edilebilir-hibrit-jeep-renegade-turkiyede/ | Otopark.com | desconocida |
 | /media/jeep-renegade-4xe-240-2025-precio-ficha-tecnica-hunt3.webp | https://www.groupechopard.com/offres/leasing-jeep | Groupe Chopard | desconocida |
+| /media/soflow-so4-pro-gt-hunt1.webp | https://www.soflow.com/produkt/so4-pro-gt/ | SoFlow (oficial) | desconocida |
+| /media/soflow-so4-pro-gt-hunt2.webp | https://www.soflow.com/produkt/so4-pro-gt/ | SoFlow (oficial) | desconocida |
+| /media/soflow-so4-pro-gt-hunt3.webp | https://www.soflow.com/produkt/so4-pro-gt/ | SoFlow (oficial) | desconocida |
+| /media/isinwheel-s9pro-hunt1.webp | https://www.isinwheel.co.uk/cdn/shop/files/isinwheel_s9pro_bundle_2_1400x.jpg?v=1732762842 | iSinwheel (tienda oficial UK, isinwheel.co.uk) | desconocida |
+| /media/isinwheel-s9pro-hunt2.webp | https://imgaz1.staticbg.com/thumb/large//oaupload/banggood/images/DE/9C/e65bb898-c3e4-4d8d-b206-df9b784fdb09.jpg | Banggood (ficha oficial del producto) | desconocida |
+| /media/isinwheel-s9pro-hunt3.webp | https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_154995562/fee_786_587_png | MediaMarkt (ficha del producto ISINWHEEL S9 PRO) | desconocida |
+| /media/urban-glide-all-road-2-hunt1.webp | https://urbanglide.com/wp-content/uploads/2022/06/RIDE-AR2.png | Urban Glide (foto oficial) | desconocida |
+| /media/urban-glide-all-road-2-hunt2.webp | https://urbanglide.com/wp-content/uploads/2022/06/AR2-banniere-principale-new.webp | Urban Glide (foto oficial) | desconocida |
+| /media/urban-glide-all-road-2-hunt3.webp | https://urbanglide.com/wp-content/uploads/2022/06/AR2-PLIE.webp | Urban Glide (foto oficial) | desconocida |
+| /media/urban-glide-ecross-pro-xs-hunt1.webp | https://www.pixmania.com/fr/fr/trottinette-electrique-urbanglide-ecross-pro-lite-2-104ah-512994.html | Pixmania (ficha de producto) | desconocida |
+| /media/urban-glide-ecross-pro-xs-hunt2.webp | https://www.pixmania.com/fr/fr/trottinette-electrique-urbanglide-ecross-pro-lite-2-104ah-512994.html | Pixmania (ficha de producto) | desconocida |
+| /media/urban-glide-ecross-pro-xs-hunt3.webp | https://www.pixmania.com/fr/fr/trottinette-electrique-urbanglide-ecross-pro-lite-2-104ah-512994.html | Pixmania (ficha de producto) | desconocida |
+| /media/urban-glide-all-road-5-hunt1.webp | https://www.decathlon.fr/p/mp/urbanglide/all-road-5/ | Urban Glide (vía Decathlon) | desconocida |
+| /media/urban-glide-all-road-5-hunt2.webp | https://www.rueducommerce.fr/p/r24070037173.html | Urban Glide (vía Rue du Commerce) | desconocida |
+| /media/urban-glide-all-road-5-hunt3.webp | https://urbanglide.com/produit/trottinette-electrique-all-road-5-pro/ | Urban Glide (web oficial) | desconocida |
+| /media/hyundai-elantra-n-2024-hunt1.webp | https://carbuzz.com/cars/hyundai/elantra-n/2024/photos-exterior | Hyundai (prensa oficial, vía CarBuzz) | desconocida |
+| /media/hyundai-elantra-n-2024-hunt2.webp | https://www.carscoops.com/2023/04/2024-hyundai-elantra-n-reveals-its-new-face-wheels-and-interior/ | Hyundai (prensa oficial, vía Carscoops) | desconocida |
+| /media/hyundai-elantra-n-2024-hunt3.webp | https://www.carscoops.com/2024/02/2024-hyundai-elantra-n-is-gunning-for-the-civic-type-r-and-golf-gti/ | Hyundai (prensa oficial, vía Carscoops) | desconocida |
+| /media/livewire-s2-mulholland-2025-ficha-tecnica-precio-hunt1.webp | https://www.livewire.com/en-ch/s2-mulholland-electric-motorcycle | LiveWire (web oficial) | desconocida |
+| /media/livewire-s2-mulholland-2025-ficha-tecnica-precio-hunt2.webp | https://www.1000ps.at/motorrad-bilder-detail-livewire-s2-mulholland | LiveWire (prensa oficial, vía 1000PS) | desconocida |
+| /media/livewire-s2-mulholland-2025-ficha-tecnica-precio-hunt3.webp | https://www.visordown.com/news/17890-livewire-s2-mulholland-lands-uk-dealers | LiveWire (prensa oficial, vía Visordown) | desconocida |
+| /media/urban-glide-eon-x-hunt1.webp | https://lojae-s3-prd-files.radiopopular.pt/files/static/images/products/133517_9.jpg | Radio Popular | desconocida |
+| /media/urban-glide-eon-x-hunt2.webp | https://www.worten.pt/i/5b000b2742d2cf74cadf23198446c39a4313afb4 | Worten | desconocida |
+| /media/urban-glide-eon-x-hunt3.webp | https://lojae-s3-prd-files.radiopopular.pt/files/static/images/products/133517_7.jpg | Radio Popular | desconocida |
