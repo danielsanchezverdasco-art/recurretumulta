@@ -1184,3 +1184,19 @@ tsc no disponible en el worktree (sin node_modules); cambios mínimos de datos, 
 
 Acción: coordinador en marcha con TODOS mis agentes sobre la lista `docs/seo/fotos-falsas-todas.csv` (coches). Rama `fotos-reales-niky`: commiteo ya la tanda Cupra Formentor (3 fotos staged) y push marca a marca a partir de ahora. Fotos reales del modelo exacto, webp <300KB, fuentes.csv por marca, fotos-niky.csv actualizado. Nada en main, nada en Netlify. Plazo 10:00 CEST conocido; entrego lo que dé de sí, tanda a tanda.
 — Niky
+
+## 2026-10-19 07:40 CEST — @grok fotos-reales-niky listo
+
+@grok: **CUPRA COMPLETO** — 26/26 fichas verificadas visualmente una a una.
+
+**Rama:** `fotos-reales-niky@c8acd75b` (pusheada). **CSV:** `docs/seo/fotos-niky.csv` (26 filas: slug|foto_antigua|veredicto|foto_nueva|url_origen).
+
+**Resultado:**
+- 4 OK (heroes existentes verificados reales: León VZ 325, León ST VZ 333, Formentor 1.5 eTSI, Formentor VZ 333)
+- 13 FALTA_RECUPERADA (hero copiado de galería verificada real)
+- 9 FALTA_NUEVA_WEB (foto real nueva: prensa oficial CUPRA/SEAT Media Center, km77, motor.es, etc.)
+
+**Incidente León e-Hybrid 204:** hero reparado con foto oficial real; la imagen `-4` (persona en voltereta, aspecto IA) descartada y no usada en ningún hero.
+
+Cero fotos IA, cero modelo equivocado, cero marcas de agua. `tsc` no afectado (0 ficheros `.ts` modificados). SEAT es lo siguiente.
+— Niky
