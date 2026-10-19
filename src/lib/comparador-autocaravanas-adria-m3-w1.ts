@@ -89,7 +89,7 @@ export const AUTOCARAVANAS_ADRIA_M3: Autocaravana[] = [
     opiniones: [],
     galeria: [
       { src: "/media/adria-matrix-axess-670-sl-2026-precio-ficha-tecnica-oficial.webp", alt: "Adria Matrix Axess 670 SL, vista exterior", ancho: 1920, alto: 1080 },
-      { src: "/media/adria-matrix-axess-670-sl-2026-precio-ficha-tecnica-interior1.webp", alt: "Adria Matrix Axess 670 SL, interior", ancho: 792, alto: 466 },
+      { src: "/media/adria-matrix-axess-670-sl-2026-precio-ficha-tecnica-interior1.webp", alt: "Adria Matrix Axess 670 SL, interior", ancho: 1620, alto: 1080 },
       { src: "/media/adria-matrix-axess-670-sl-2026-precio-ficha-tecnica-interior2.webp", alt: "Adria Matrix Axess 670 SL, interior", ancho: 792, alto: 566 },
       { src: "/media/adria-matrix-axess-670-sl-2026-precio-ficha-tecnica-detalle.webp", alt: "Adria Matrix Axess 670 SL, detalle", ancho: 1024, alto: 768 },
     ],
@@ -180,7 +180,7 @@ Para quién: la pareja que busca la experiencia integral —visibilidad, luz, am
     opiniones: [],
     galeria: [
       { src: "/media/adria-sonic-700-sl-2026-precio-ficha-tecnica-oficial.webp", alt: "Adria Sonic 700 SL, vista exterior", ancho: 1024, alto: 558 },
-      { src: "/media/adria-sonic-700-sl-2026-precio-ficha-tecnica-interior1.webp", alt: "Adria Sonic 700 SL, interior", ancho: 1200, alto: 799 },
+      { src: "/media/adria-sonic-700-sl-2026-precio-ficha-tecnica-interior1.webp", alt: "Adria Sonic 700 SL, interior", ancho: 1920, alto: 1281 },
       { src: "/media/adria-sonic-700-sl-2026-precio-ficha-tecnica-interior2.webp", alt: "Adria Sonic 700 SL, interior", ancho: 1200, alto: 1600 },
       { src: "/media/adria-sonic-700-sl-2026-precio-ficha-tecnica-detalle.webp", alt: "Adria Sonic 700 SL, detalle", ancho: 1280, alto: 960 },
     ],
@@ -213,7 +213,7 @@ Para quién: la pareja que busca la experiencia integral —visibilidad, luz, am
     garantiaBateriaDegradacionPct: null,
     imagen: "/media/adria-twin-sports-640-sgx-2026-precio-ficha-tecnica-oficial.webp",
     imagenOficial: "/media/adria-twin-sports-640-sgx-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/adria-twin-sports-640-sgx-2026-precio-ficha-tecnica-interior1.webp",
+    imagenInteriorOficial: "/media/adria-twin-sports-640-sgx-2026-precio-ficha-tecnica-interior2.webp",
     videoId: null,
     videoCanal: null,
     largoMm: 6363, // 6,36 m, ficha técnica Adria (fourgonlesite)
@@ -266,9 +266,9 @@ Para quién: la pareja que busca la experiencia integral —visibilidad, luz, am
     ],
     opiniones: [],
     galeria: [
-      { src: "/media/adria-twin-sports-640-sgx-2026-precio-ficha-tecnica-oficial.webp", alt: "Adria Twin Sports 640 SGX, vista exterior", ancho: 1030, alto: 845 },
+      { src: "/media/adria-twin-sports-640-sgx-2026-precio-ficha-tecnica-oficial.webp", alt: "Adria Twin Sports 640 SGX, vista exterior", ancho: 1620, alto: 1080 },
       { src: "/media/adria-twin-sports-640-sgx-2026-precio-ficha-tecnica-interior1.webp", alt: "Adria Twin Sports 640 SGX, interior", ancho: 1024, alto: 768 },
-      { src: "/media/adria-twin-sports-640-sgx-2026-precio-ficha-tecnica-interior2.webp", alt: "Adria Twin Sports 640 SGX, interior", ancho: 576, alto: 768 },
+      { src: "/media/adria-twin-sports-640-sgx-2026-precio-ficha-tecnica-interior2.webp", alt: "Adria Twin Sports 640 SGX, interior", ancho: 720, alto: 1080 },
       { src: "/media/adria-twin-sports-640-sgx-2026-precio-ficha-tecnica-detalle.webp", alt: "Adria Twin Sports 640 SGX, detalle", ancho: 1600, alto: 1300 },
     ],
     analisisSlug: "adria-twin-sports-640-sgx-2026-analisis-opinion",
