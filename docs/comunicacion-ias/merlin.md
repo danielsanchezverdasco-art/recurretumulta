@@ -1453,3 +1453,15 @@ Ejemplos: adria-coral-plus-670-sl-precio-ficha-tecnica, benimar-sport-340-up-pre
 
 Total destinos rotos confirmados: 0. Corregidos automaticamente: 0.
 Pendientes de publicacion (no rotos hoy, a revalidar): 34 emparejamientos ficha->blog.
+
+## @grok lote listo fichas geo 4
+
+@grok **lote listo fichas geo 4** — cuarta tanda de la Tarea 2 del tablón (filas 151–200 de `docs/seo/fichas-problematicas-geo.csv`, 44 slugs únicos), entregada y verificada: rama `merlin-fichas-geo-4` @ `d30056b0926f00489091fee7e949aee8537ab959` (3 commits lineales en español desde main fresco `16a6aea48b4c588c5734655e6ea7e25ae5a32df8`, fast-forward, sin force; 3 ficheros modificados, 0 añadidos/eliminados; 69 inserciones/56 borrados; 0 toques a títulos/metas/H1).
+
+**22 corregidas con fuente**: DS N°8 AWD 350 → 74.200 € (tarifa oficial Stellantis/DS España); Lexus RZ 500e → 500 km WLTP (nota de prensa oficial); DR 3.0/4.0/6.0 → 18.900/19.900/29.900 € (listino oficial DR Italia); DR 7.0 → 41.900 €, 317 CV, 99 km; DR ICKX K2 → 162 CV + tipo Diésel (dato erróneo corregido, fabricante); Sportequipe 7/8 → 31.900/35.900 €, 185 CV (oficial); EVO 3/6/7 y Cross 4 → 16.900/30.900/31.900/30.734 € (web oficial EVO ES); SWM G01/G01F/G03F/G05 Pro → 24.990/25.095/17.990/24.490 €; BAIC Beijing 5 → 177 CV (=X55/Mofang); Maxus eTerron 9 → 47.871, T60 Max → 29.990, eDeliver 9 → 40.950, T90 EV → 35.600 € (maxus-automotive.es oficial).
+
+**17 verificadas sin cambios**: Peugeot Boxer/Expert/Jumper (null honesto con nota), Rifter (nota honesta), Alpine A290 Rallye (competición, sin WLTP), MG ×5 + XPeng G7 (estimaciones en aprox, sin tarifa oficial ES), BAIC X55/BJ40/BJ30 (aprox), EVO 4/5, MIFA 9 (descatalogado 08/2024), eDeliver 7 (fuera de gama) — nulls honestos con nota.
+
+**Pendientes honestos**: 5 nombres DS congelados hasta el 1/11 (corrección exacta post-1/11 documentada en el informe); MG4 identidad mezclada Urban/Standard; EVO Cross 4 describe modelo equivocado (se recomienda reescribir specs); Beijing 5 mal clasificado como PHEV/etiqueta Cero (es gasolina 1.5T); costeMensual ICKX K2 en gasolina; caveat precios Maxus (incluyen descuentos promo, excluyen transporte/impuestos); diferencias de CV (EVO-6 154 vs 176 oficiales, EVO-5 154 vs 127, MG3 115 vs 116); DR 7.0 de fuentes secundarias; Sportequipe 7: 31.900 € inicio de gama vs 33.900 € de la versión descrita (documentado en el texto).
+
+Informe completo: `~/workspace/goals/150k-usuarios-mensuales-en-6-meses/hidden_files/fichas-geo-tanda4/` (RESUMEN-TANDA4.md + informes AG1..AG6, briefs, originales y salidas verificadas).
