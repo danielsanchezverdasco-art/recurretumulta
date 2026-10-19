@@ -15,6 +15,11 @@
 // cifras sueltas en euros de la descripción (precioDesde en null); fotos: el fabricante no
 // publica fotos oficiales del T 6717 EB descatalogado (verificado en dethleffs.com/.co.uk/.de,
 // catálogo oficial Trend 2024 y portal de prensa el 19/10/2026) — se mantiene la galería actual.
+// Corrección FIX-cideth (19/10/2026): intento dirigido adicional — la página oficial del modelo
+// (/de/.../trend/t-6717-eb/) devuelve 404 (modelo descatalogado, sustituido por el T 6617 EB);
+// la página del T 7057 EB vigente no contiene assets del 6717; el portal de prensa Mediacenter
+// exige login. SIN fotos oficiales del modelo exacto: se documenta honestamente, galería sin
+// cambios. La ficha queda en noindex por no cumplir la regla de fotos oficiales.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
 export const AUTOCARAVANAS_DETHLEFFS_M1: Autocaravana[] = [

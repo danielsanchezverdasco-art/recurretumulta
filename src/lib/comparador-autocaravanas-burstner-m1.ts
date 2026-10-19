@@ -3,6 +3,9 @@
 // variante indexada del asset oficial), 3 fotos extra no oficiales del modelo exacto (sin marcas de agua ni
 // concesionario) tras las oficiales; añadida curiosidad Vario-Seat con fuente; galería anterior enlazaba a
 // ficheros inexistentes en el repo (404) y se sustituye.
+// Corrección FIX-cideth (19/10/2026): la página oficial del modelo (buerstner.com, sección MJ25 lyseo-td)
+// SÍ publica interiores oficiales del 690 G Harmony Line: añadidos 2 (1440x787), galería reordenada con
+// oficiales primero e imagenInteriorOficial actualizada. Con esto la ficha cumple 2+ int + 1+ ext oficiales.
 // Fuente: página oficial del modelo en buerstner.com (verificada el 18/10/2026) con
 // tabla técnica oficial: 699 cm, 230 cm, 295 cm, 3.500 kg, MRO 2.990 kg ±5 %,
 // 160 kg de masa para equipamiento opcional, 4-5 plazas, 2-5 camas, 82.530 CHF.
@@ -32,7 +35,7 @@ export const AUTOCARAVANAS_BURSTNER_M1: Autocaravana[] = [
     garantiaBateriaDegradacionPct: null,
     imagen: "/media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-oficial.webp",
     imagenOficial: "/media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "", // sin interior oficial del 690 G en buerstner.com/prensa (15 búsquedas el 19/10/2026)
+    imagenInteriorOficial: "/media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-oficial-interior.webp", // FIX-cideth 19/10/2026: interior oficial del 690 G Harmony Line MJ25 (buerstner.com)
     videoId: null,
     videoCanal: null,
     largoMm: 6990, // página oficial: 699 cm
@@ -93,6 +96,18 @@ Para quién es: la Lyseo TD 690 G es para parejas —o familias que acepten la c
         alt: "Bürstner Lyseo TD 690 G Harmony Line, vista tres cuartos delantera (foto oficial de estudio)",
         ancho: 960,
         alto: 600,
+      },
+      {
+        src: "/media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-oficial-interior.webp",
+        alt: "Salón y cocina del Bürstner Lyseo TD 690 G Harmony Line (foto oficial del fabricante)",
+        ancho: 1440,
+        alto: 787,
+      },
+      {
+        src: "/media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-oficial-interior2.webp",
+        alt: "Cocina del Bürstner Lyseo TD 690 G Harmony Line (foto oficial del fabricante)",
+        ancho: 1440,
+        alto: 787,
       },
       {
         src: "/media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-ext2.webp",

@@ -12,6 +12,10 @@
 // Corrección F4 (19/10/2026): añadido campo curiosidades con fuente enlazada; añadido plano
 // de planta oficial del fabricante como extra de galería (CI no publica fotos —ni exterior
 // ni interior— del 84 XT exacto: verificado en su mediateca WP el 19/10/2026).
+// Corrección FIX-cideth (19/10/2026): la página oficial del modelo en caravansinternational.it/global
+// SÍ publica fotos del 84 XT (galería «Ci-Horon-84-Spring»): añadidos 2 interiores oficiales
+// (camas gemelas 1536x1025 + salón 1536x1025), galería reordenada con oficiales primero e
+// imagenInteriorOficial actualizada. Con esto la ficha cumple 2+ int + 1+ ext oficiales.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
 export const AUTOCARAVANAS_CI_M1: Autocaravana[] = [
@@ -36,7 +40,7 @@ export const AUTOCARAVANAS_CI_M1: Autocaravana[] = [
     imagen: "/media/ci-horon-84-xt-2026-precio-ficha-tecnica-ext.webp",
     imagenOficial: "/media/ci-horon-84-xt-2026-precio-ficha-tecnica-ext.webp",
     imagenInteriorOficial:
-      "/media/ci-horon-84-xt-2026-precio-ficha-tecnica-interior.webp",
+      "/media/ci-horon-84-xt-2026-precio-ficha-tecnica-oficial-interior.webp", // FIX-cideth 19/10/2026: interior oficial del 84 XT (página oficial del modelo, caravansinternational.it/global)
     videoId: null,
     videoCanal: null,
     largoMm: 7450, // «no oficial»: 7,45 m según fuente secundaria
@@ -108,6 +112,18 @@ Para quién es: el CI Horon 84 XT es para la familia de cuatro o cinco que quier
         alt: "CI Horon 84 XT, vista lateral",
         ancho: 1200,
         alto: 800,
+      },
+      {
+        src: "/media/ci-horon-84-xt-2026-precio-ficha-tecnica-oficial-interior.webp",
+        alt: "Camas gemelas traseras del CI Horon 84 XT (foto oficial del fabricante)",
+        ancho: 1536,
+        alto: 1025,
+      },
+      {
+        src: "/media/ci-horon-84-xt-2026-precio-ficha-tecnica-oficial-interior2.webp",
+        alt: "Salón comedor del CI Horon 84 XT (foto oficial del fabricante)",
+        ancho: 1536,
+        alto: 1025,
       },
       {
         src: "/media/ci-horon-84-xt-2026-precio-ficha-tecnica-interior.webp",
