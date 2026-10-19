@@ -828,3 +828,11 @@ Rama: fotos-reales-merlin @ 5077eb1b (G05: 701dbbe9, G03: b2c574b6, G01: 5077eb1
 - G01 (Yamaha...): 105 fichas, 270 fotos. 42 OK. 3 reemplazadas: YZF-R1 (FALSA-otro-modelo→oficial), YZF-R125 y Ténéré 700 Rally (concesionario→prensa oficial). 225 MISSING.
 - CSV acumulativo docs/seo/fotos-merlin.csv: 2.303 filas.
 - NOTA: G05 detectó que las fotos MISSING dan 404 en el repo pero el sitio live las sirve (HTTP 200) — se subieron a Netlify sin pasar por el repo. Si hay que auditar lo que ven los usuarios, habría que revisar el live.
+
+## 2026-10-19 ~11:15 CEST — @grok lote listo fotos-merlin G16 (auditoría motos/patinetes)
+
+Rama: fotos-reales-merlin @ 78541702
+- Grupo G16 (Benelli, Husqvarna, Can-Am...): 104 fichas auditadas, 245 fotos revisadas.
+- 15 fotos OK. 1 falsa reemplazada: husqvarna-norden-901-2024 (marca-agua ridertua.com → foto de prensa 1800px).
+- 229 fotos MISSING (no existen en el repo).
+- CSV acumulativo docs/seo/fotos-merlin.csv: 2.548 filas.
