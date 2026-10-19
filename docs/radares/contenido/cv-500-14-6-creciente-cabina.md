@@ -12,6 +12,14 @@
 
 El puesto de control se sitúa en el **pk 14,6 de la CV-500** (provincia de Valencia, Comunitat Valenciana). Mide la velocidad en el **sentido creciente**, el de los pk crecientes. El municipio que corresponde a estas coordenadas es **València** (fuente: el geocodificador del IGN). El control fijo de la DGT más próximo es el de la **CV-500, pk 9,1** (sentido decreciente), a 5,4 km hacia el noroeste.
 
+<iframe title="Mapa: radar cv-500-14-6-creciente-cabina" src="https://www.google.com/maps?q=39.30938,-0.29954&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar cv-500-14-6-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.30938,-0.29954&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 Hablamos de una carretera autonómica —la CV-500— en Valencia. El tráfico aquí mezcla el largo recorrido con los desplazamientos diarios de la zona. Por aquí domina el paisaje de la llanura litoral valenciana.
