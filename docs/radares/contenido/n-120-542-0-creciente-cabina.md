@@ -12,6 +12,14 @@
 
 En el pk 542,0 de la N-120, municipio de Pantón (Lugo), se sitúa esta cabina; coordenadas 42.492306, -7.696417. Su objetivo es el tráfico en sentido creciente, con pks ascendentes; el destino registrado es Ourense. El enlace de Street View de la cabecera muestra el punto exacto.
 
+<iframe title="Mapa: radar n-120-542-0-creciente-cabina" src="https://www.google.com/maps?q=42.492306,-7.696417&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-120-542-0-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.492306,-7.696417&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La N-120 es una carretera nacional de titularidad estatal y carácter convencional. La DGT le asigna en su XML la singularidad «CARRETERA NACIONAL», propia de las convencionales de la red del Estado. Sin más datos del tramo en el fichero, la ficha no añade rasgos sin documentar.
