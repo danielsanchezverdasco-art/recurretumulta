@@ -235,6 +235,9 @@ export function elegirFicha<T extends FichaCandidata>(
   let mejorP = 0;
   for (const c of candidatas) {
     let p = puntuarFicha(post, c);
+    const esPreferida = !!preferida && preferida.tipo === c.tipo && preferida.id === c.id;
+    // 19/10: la ficha curada a mano en ficha-de-post vale aunque el nombre no case palabra a palabra (Denza Z -> Z Coupé).
+    if (p === 0 && esPreferida) p = 1;
     if (p === 0) continue;
     // La tabla post->ficha de 13/10 solo desempata (no impone una ficha que no casa).
     if (preferida && preferida.tipo === c.tipo && preferida.id === c.id) p += 2;

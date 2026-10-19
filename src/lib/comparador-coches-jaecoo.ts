@@ -507,7 +507,7 @@ export const COCHES_JAECOO: CocheComparador[] = [
     velocidadMax: 150,
     bateriaKwh: 65.69,
     cargaRapidaKw: 80,
-    etiquetaDgt: null,
+    etiquetaDgt: "Cero",
     pros: [
       "184 CV y 220 Nm: la versión trasera del SUV caja eléctrico",
       "400 km WLTP con la batería de 65,69 kWh (MotorGuide Sri Lanka)",
@@ -599,7 +599,7 @@ export const COCHES_JAECOO: CocheComparador[] = [
     velocidadMax: 150,
     bateriaKwh: 69.77,
     cargaRapidaKw: 80,
-    etiquetaDgt: null,
+    etiquetaDgt: "Cero",
     pros: [
       "279 CV y 385 Nm: 0-100 en 6,5 s con tracción total",
       "342 km WLTP con batería LFP de 69,77 kWh (Asphalt SG)",

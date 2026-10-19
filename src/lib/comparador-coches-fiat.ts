@@ -884,7 +884,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     velocidadMax: 45,
     bateriaKwh: 5.5,
     cargaRapidaKw: null,
-    etiquetaDgt: null,
+    etiquetaDgt: "Cero",
     pros: [
       "Se conduce desde los 15 años con permiso AM",
       "75 km de autonomía WMTC y 45 km/h: la ciudad sin emisiones",
