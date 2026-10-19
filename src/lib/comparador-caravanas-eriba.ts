@@ -92,6 +92,7 @@ export const CARAVANAS_ERIBA: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/eriba-touring-542-2026-precio-ficha-tecnica/eriba-touring-542-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Eriba Touring 542, cocina y dormitorio (logo pequeño esquina)", ancho: 1920, alto: 1280 },
     ],
     analisisSlug: "eriba-touring-542-2026-precio-ficha-tecnica",
     planMantenimiento: {
@@ -198,6 +199,7 @@ export const CARAVANAS_ERIBA: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/eriba-touring-530-2026-precio-ficha-tecnica/eriba-touring-530-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Eriba Touring 530, comedor", ancho: 1920, alto: 1440 },
     ],
     analisisSlug: "eriba-touring-530-2026-precio-ficha-tecnica",
     planMantenimiento: {
@@ -302,6 +304,7 @@ export const CARAVANAS_ERIBA: CocheComparador[] = [
         ancho: 1024,
         alto: 768,
       },
+      { src: "/media/fotos-reales/eriba-feeling-425-2026-precio-ficha-tecnica/eriba-feeling-425-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Eriba Feeling 425, cocina y comedor", ancho: 1200, alto: 900 },
     ],
     analisisSlug: "eriba-feeling-425-2026-precio-ficha-tecnica",
     planMantenimiento: {

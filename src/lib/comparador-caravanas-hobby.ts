@@ -104,6 +104,8 @@ export const CARAVANAS_HOBBY: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/hobby-de-luxe-540-ul-2026-precio-ficha-tecnica/hobby-de-luxe-540-ul-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la Hobby De Luxe 540 UL, cocina y dormitorio", ancho: 1200, alto: 800 },
+      { src: "/media/fotos-reales/hobby-de-luxe-540-ul-2026-precio-ficha-tecnica/hobby-de-luxe-540-ul-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Hobby De Luxe 540 UL, comedor y cocina", ancho: 1280, alto: 1707 },
     ],
     analisisSlug: "hobby-de-luxe-540-ul-2026-precio-ficha-tecnica",
     planMantenimiento: {
@@ -210,6 +212,7 @@ export const CARAVANAS_HOBBY: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/hobby-excellent-540-wlu-2026-precio-ficha-tecnica/hobby-excellent-540-wlu-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Hobby Excellent 540 WLU, comedor y cocina", ancho: 1600, alto: 1200 },
     ],
     analisisSlug: "hobby-excellent-540-wlu-2026-precio-ficha-tecnica",
     planMantenimiento: {
@@ -317,6 +320,7 @@ export const CARAVANAS_HOBBY: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/hobby-prestige-560-ul-2026-precio-ficha-tecnica/hobby-prestige-560-ul-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Hobby Prestige 560 UL, cocina y dormitorio", ancho: 1200, alto: 900 },
     ],
     analisisSlug: "hobby-prestige-560-ul-2026-precio-ficha-tecnica",
     planMantenimiento: {
@@ -422,6 +426,7 @@ export const CARAVANAS_HOBBY: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/hobby-ontour-390-sf-2026-precio-ficha-tecnica/hobby-ontour-390-sf-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Hobby OnTour 390 SF, OFICIAL comedor, cocina y dormitorio", ancho: 1600, alto: 1193 },
     ],
     analisisSlug: "hobby-ontour-390-sf-2026-precio-ficha-tecnica",
     planMantenimiento: {

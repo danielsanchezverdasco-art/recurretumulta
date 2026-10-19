@@ -102,6 +102,7 @@ export const CARAVANAS_DETHLEFFS: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/dethleffs-camper-560-fmk-2026-precio-ficha-tecnica/dethleffs-camper-560-fmk-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Dethleffs Camper 560 FMK, comedor y dormitorio", ancho: 1024, alto: 768 },
     ],
     analisisSlug: "dethleffs-camper-560-fmk-2026-precio-ficha-tecnica",
     planMantenimiento: {
@@ -208,6 +209,7 @@ export const CARAVANAS_DETHLEFFS: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/dethleffs-beduin-scandinavia-550-bet-2026-precio-ficha-tecnica/dethleffs-beduin-scandinavia-550-bet-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Dethleffs Beduin Scandinavia 550 BET, baño con ducha", ancho: 1439, alto: 1920 },
     ],
     analisisSlug: "dethleffs-beduin-scandinavia-550-bet-2026-precio-ficha-tecnica",
     planMantenimiento: {
@@ -314,6 +316,7 @@ export const CARAVANAS_DETHLEFFS: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/dethleffs-nomad-560-fmk-2026-precio-ficha-tecnica/dethleffs-nomad-560-fmk-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Dethleffs Nomad 560 FMK, cocina", ancho: 1500, alto: 1125 },
     ],
     analisisSlug: "dethleffs-nomad-560-fmk-2026-precio-ficha-tecnica",
     planMantenimiento: {
@@ -420,6 +423,7 @@ export const CARAVANAS_DETHLEFFS: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/dethleffs-cgo-495-qsk-2026-precio-ficha-tecnica/dethleffs-cgo-495-qsk-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Dethleffs c'go 495 QSK, cocina y comedor", ancho: 1920, alto: 1440 },
     ],
     analisisSlug: "dethleffs-cgo-495-qsk-2026-precio-ficha-tecnica",
     planMantenimiento: {
@@ -523,6 +527,7 @@ export const CARAVANAS_DETHLEFFS: CocheComparador[] = [
         ancho: 1024,
         alto: 768,
       },
+      { src: "/media/fotos-reales/dethleffs-cjoy-480-qlk-2026-precio-ficha-tecnica/dethleffs-cjoy-480-qlk-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Dethleffs c'joy 480 QLK, cocina, comedor y dormitorio (1024x768)", ancho: 1024, alto: 768 },
     ],
     analisisSlug: "dethleffs-cjoy-480-qlk-2026-precio-ficha-tecnica",
     planMantenimiento: {
@@ -626,6 +631,7 @@ export const CARAVANAS_DETHLEFFS: CocheComparador[] = [
         ancho: 1024,
         alto: 768,
       },
+      { src: "/media/fotos-reales/dethleffs-cjoy-420-qsh-2026-precio-ficha-tecnica/dethleffs-cjoy-420-qsh-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Dethleffs c'joy 420 QSH, comedor y cocina", ancho: 1350, alto: 1800 },
     ],
     analisisSlug: "dethleffs-cjoy-420-qsh-2026-precio-ficha-tecnica",
     planMantenimiento: {
@@ -729,6 +735,7 @@ export const CARAVANAS_DETHLEFFS: CocheComparador[] = [
         ancho: 728,
         alto: 546,
       },
+      { src: "/media/fotos-reales/dethleffs-cjoy-460-le-2026-precio-ficha-tecnica/dethleffs-cjoy-460-le-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Dethleffs c'joy 460 LE, dormitorio y cocina (1024x768)", ancho: 1024, alto: 768 },
     ],
     analisisSlug: "dethleffs-cjoy-460-le-2026-precio-ficha-tecnica",
     planMantenimiento: {
@@ -823,6 +830,7 @@ export const CARAVANAS_DETHLEFFS: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/dethleffs-nomad-520-elt-2026-precio-ficha-tecnica/dethleffs-nomad-520-elt-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Dethleffs Nomad 520 ELT, dormitorio camas individuales", ancho: 1024, alto: 768 },
     ],
     analisisSlug:
       "dethleffs-nomad-520-elt-2026-precio-ficha-tecnica-analisis-opinion",
@@ -918,6 +926,7 @@ export const CARAVANAS_DETHLEFFS: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/dethleffs-beduin-scandinavia-690-bqt-2026-precio-ficha-tecnica/dethleffs-beduin-scandinavia-690-bqt-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Dethleffs Beduin Scandinavia 690 BQT, OFICIAL comedor y dormitorio", ancho: 1620, alto: 1080 },
     ],
     analisisSlug:
       "dethleffs-beduin-scandinavia-690-bqt-2026-precio-ficha-tecnica-analisis-opinion",

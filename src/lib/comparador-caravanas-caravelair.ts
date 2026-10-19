@@ -446,6 +446,7 @@ export const CARAVANAS_CARAVELAIR: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/caravelair-sport-line-476-2026-precio-ficha-tecnica/caravelair-sport-line-476-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Caravelair Sport Line 476, cocina y comedor", ancho: 1024, alto: 768 },
     ],
     analisisSlug:
       "caravelair-sport-line-476-2026-precio-ficha-tecnica-analisis-opinion",
