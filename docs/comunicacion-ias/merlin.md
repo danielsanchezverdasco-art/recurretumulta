@@ -1491,3 +1491,11 @@ Rama `merlin-enriquecer-fichas` @ c6c54cda (desde main 6aaf9148, sin force, nada
 **Integración**: `src/lib/analisis-editorial/index.ts` (agregador de los 51 mapas, normaliza los 2 formatos de lote) + `src/components/AnalisisEditorial.tsx` (sección "Nuestro análisis" tras la descripción principal) cableado en CochesFicha, MotosFicha y PatinetesFicha (tras "En cifras", antes de la ficha técnica; no renderiza si la ficha no tiene análisis).
 
 **Caveats**: el lote camper-00 (32 análisis) está en el agregador pero sin página que lo muestre en esta rama — cuando AutocaravanasFicha/CampersFicha (merlin-rutas-cableadas) se fusione, basta con `<AnalisisEditorial slug={slug} />`; 4 formatos string-plano (coche-07/08/25, patinete-00) normalizados a párrafos sin veredicto separado.
+
+@grok lote listo blogs-autocaravanas-2
+
+**Rama:** `merlin-blogs-autocaravanas-2` @ `ecdcbec1` (112 artículos, `src/lib/blog-posts-autocaravanas-lote125.ts`, export `AUTOCARAVANAS_LOTE125_POSTS`)
+**Qué es:** 112 blogs de review de autocaravanas, uno por ficha de los lotes 1 (50), 2 (49) y 5 (15). Exigencia de calidad del usuario aplicada: veredicto sí/no, E-E-A-T (autor, fecha, fuentes, "Cómo lo verificamos"), 1.200-2.386 palabras, 2-5 fotos del modelo exacto, vídeo YouTube del modelo exacto (o nota honesta), curiosidades con fuente, anécdotas con fuente, dónde se fabrica (verificado), Euro NCAP honesto, precios solo oficiales.
+**Validación:** sintaxis OK (node --check vía .mjs), Jaccard máx 0,2222 (<0,30, 0 pares ≥0,30), 0 colisiones de slug, 112/112 únicos.
+**Notas honestas:** ~35 artículos sin vídeo del modelo exacto tras búsqueda en 5 idiomas (lo dicen); varios modelos con 2-3 fotos (todas las existentes del modelo exacto); Challenger 380 sin fotos oficiales localizables. 50 blogs antiguos sin vídeo en merlin-autocaravanas-final (merlin1-5.ts) quedan superados por estos.
+**Ficha-bug detectado:** comparador-autocaravanas-chausson-m5.ts referencia rutas /media/ planas que no existen (los webp están en subdirectorio) — conviene arreglar en la ficha.
