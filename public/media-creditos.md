@@ -4035,3 +4035,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/dualtron-storm-hunt1.webp | https://www.electricscooterguides.com/images/scooters/dualtron-storm-electric-scooter.jpg | Electric Scooter Guides | desconocida |
 | /media/dualtron-storm-hunt2.webp | https://cdn.shopify.com/s/files/1/2476/0976/products/D-Storm-FullBody-06_5000x_66146dba-578f-4aab-aeb3-bdacb0cddd4f_1200x.jpg | Saljofa (distribuidor) | desconocida |
 | /media/dualtron-storm-hunt3.webp | https://www.voltride.sk/img/cms/Produkty/Dualtron%20Storm/storm-2-2.jpg | Voltride (distribuidor) | desconocida |
+| /media/volvo-xc40-b5-2025-precio-ficha-tecnica-hunt1.webp | https://static0.carbuzzimages.com/wordpress/wp-content/uploads/gallery-images/original/1186000/400/1186451.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2 | CarBuzz | desconocida |
+| /media/volvo-xc40-b5-2025-precio-ficha-tecnica-hunt2.webp | https://cdn.jdpower.com/ChromeImageGallery/Expanded/Transparent/640/2025VOS05_640/2025VOS051970392_640_02.png | J.D. Power | desconocida |
+| /media/volvo-xc40-b5-2025-precio-ficha-tecnica-hunt3.webp | https://parkers-images.bauersecure.com/wp-images/335/interior-detail/675x450/076-volvo-xc40-interior.jpg | Parkers | desconocida |
+| /media/volvo-xc60-b6-2025-precio-ficha-tecnica-hunt1.webp | https://pandulaju.com.my/wp-content/uploads/2025/09/volvo-xc60-2025-facelift-4.jpg | PanduLaju (fotos oficiales Volvo) | desconocida |
+| /media/volvo-xc60-b6-2025-precio-ficha-tecnica-hunt2.webp | https://paultan.org/image/2025/02/2025-Volvo-XC60-facelift_exterior-6-e1757476698801-850x577.jpg | Paul Tan (fotos oficiales Volvo) | desconocida |
+| /media/volvo-xc60-b6-2025-precio-ficha-tecnica-hunt3.webp | https://img-ik.cars.co.za/news-site-za/images/2025/11/Volvo-XC60-facelift-1.jpg?tr=w-800 | Cars.co.za (fotos oficiales Volvo) | desconocida |
+| /media/volkswagen-golf-gti-edition-50-2026-hunt1.webp | https://www.completecar.ie/img/galleries/14672/vw_golf_gti_edition_50_green_spain_008.jpg | Volkswagen / CompleteCar.ie | desconocida |
+| /media/volkswagen-golf-gti-edition-50-2026-hunt2.webp | https://www.completecar.ie/img/galleries/14672/vw_golf_gti_edition_50_green_spain_015.jpg | Volkswagen / CompleteCar.ie | desconocida |
+| /media/volkswagen-golf-gti-edition-50-2026-hunt3.webp | https://www.completecar.ie/img/galleries/14672/vw_golf_gti_edition_50_green_spain_023.jpg | Volkswagen / CompleteCar.ie | desconocida |
+| /media/mooveo-tei-60fb-2026-precio-ficha-tecnica-hunt1.webp | https://cdn.caraworld.com/bilder/i/023/058/700/23058700-3-728-0.webp | Caraworld.de (anuncio del modelo exacto) | desconocida |
+| /media/mooveo-tei-60fb-2026-precio-ficha-tecnica-hunt2.webp | https://cdn.caraworld.com/bilder/i/023/058/701/23058701-3-728-0.webp | Caraworld.de (anuncio del modelo exacto) | desconocida |
+| /media/mooveo-tei-60fb-2026-precio-ficha-tecnica-hunt3.webp | https://cdn.womoo.de/media/hj/jz/tt/width-2000/aussenansicht-mooveo-tei-60fb.jpeg | Womoo.de | desconocida |
+| /media/keeway-v302c-hunt1.webp | https://www.nextmoto.it/wp-content/uploads/2025/02/keeway-v302c-25-02-2025-nextmoto.jpg | NextMoto (foto oficial Keeway) | desconocida |
+| /media/keeway-v302c-hunt2.webp | https://images.drivespark.com/hi/img/2022/08/keeway-v302c-front-profile-1661862891.jpg | DriveSpark (foto oficial Keeway) | desconocida |
+| /media/keeway-v302c-hunt3.webp | https://images.autox.com/uploads/2022/09/Keeway-V302C-Glossy-Grey.webp | autoX (foto oficial Keeway) | desconocida |
+| /media/denza-z9-dm-2024-precio-ficha-tecnica-hunt1.webp | http://static.gaztormoz.ru/china/107029/0.webp | Gaztormoz | desconocida |
+| /media/denza-z9-dm-2024-precio-ficha-tecnica-hunt2.webp | http://static.gaztormoz.ru/china/107029/1.webp | Gaztormoz | desconocida |
+| /media/denza-z9-dm-2024-precio-ficha-tecnica-hunt3.webp | http://static.gaztormoz.ru/china/107029/7.webp | Gaztormoz | desconocida |
+| /media/volvo-xc90-b6-2025-precio-ficha-tecnica-hunt1.webp | https://autotijd.be/en/dimensions/volvo/xc90/b6-awd-4881 | Autotijd.be (fotos de prensa) | desconocida |
+| /media/volvo-xc90-b6-2025-precio-ficha-tecnica-hunt2.webp | https://autotijd.be/en/dimensions/volvo/xc90/b6-awd-4881 | Autotijd.be (fotos de prensa) | desconocida |
+| /media/volvo-xc90-b6-2025-precio-ficha-tecnica-hunt3.webp | https://autotijd.be/en/dimensions/volvo/xc90/b6-awd-4881 | Autotijd.be (fotos de prensa) | desconocida |
+| /media/skoda-elroq-85x-2026-hunt1.webp | https://auto-live.fr/skoda-elroq-2025-suv-electrique-moins-30-000-arrive/ | Auto-Live.fr (fotos de prensa) | desconocida |
+| /media/skoda-elroq-85x-2026-hunt2.webp | https://www.carbuyer.co.uk/news/305998/new-skoda-elroq-revealed-as-electric-mid-size-suv-pictures | Carbuyer | desconocida |
+| /media/skoda-elroq-85x-2026-hunt3.webp | https://autoreview.nl/nieuws/id/35327/autos-van-2025-suvs-met-een-stekker | AutoReview.nl | desconocida |
