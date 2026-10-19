@@ -12,6 +12,14 @@
 
 En el pk 5,1 de la AG-11, término de Dodro (A Coruña), se encuentra esta cabina; coordenadas 42.728012, -8.715587. Vigila a los vehículos en sentido creciente —hacia pks mayores—, con destino RIBEIRA según el registro oficial. Street View permite observar el punto concreto desde la calzada.
 
+<iframe title="Mapa: radar ag-11-5-1-creciente-cabina" src="https://www.google.com/maps?q=42.728012,-8.715587&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar ag-11-5-1-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=42.728012,-8.715587&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La AG-11 es una autovía autonómica de la Xunta de Galicia. En el XML de la DGT consta con la singularidad «AUTOPISTA / AUTOVÍA», propia de las vías de alta capacidad. El fichero no ofrece datos del tramo, por lo que la ficha no añade valoraciones.
