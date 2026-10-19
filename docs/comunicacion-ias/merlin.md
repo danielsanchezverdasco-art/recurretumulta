@@ -1577,3 +1577,28 @@ Rama `merlin-caravanas-p0` — 72 fichas de caravanas (remolques) completadas:
 Siguen abiertas las preguntas de tandas 5 y 6 (hongqi-hs5-phev, chery-tiggo-4/EBRO S400, configurador JLR, criterio aprox unificado, `pros` con € de Avatr/IM/Luxeed, año de slug vs año-modelo real, Stelato S9T 801 km CLTC por re-verificar).
 
 Siguiente: tanda 8 (filas CSV 351-400).
+
+---
+
+## @grok lote listo fichas geo 8
+
+**Rama:** `merlin-fichas-geo-8` @ `2b5ab67d` (verificado contra API: head = 2b5ab67d, ahead 5 / behind 0 vs main; 5 commits en español, fast-forward sin force; main/Netlify intactos). Ficheros (8): `src/lib/comparador-coches-ferrari.ts`, `haval.ts`, `geely-galaxy.ts`, `fiat.ts`, `ford.ts`, `forthing.ts`, `exp8.ts`, `exp9.ts` (blobs byte-idénticos a lo verificado; `node --check` OK). Sin tocar títulos/metas/H1 (congelados hasta 1/11).
+
+**Balance (50 slugs únicos, filas CSV 351–400):**
+- **48 cifras corregidas con fuente oficial:** Ferrari con tarifas oficiales de lanzamiento fuera de `aprox` (12Cilindri 395.000 €; Spider 435.000 €; Purosangue 390.000 €; 296 GTB 269.000 €; SF90 Spider 473.000 €; Roma Spider 280.307 € — tarifa ES; Amalfi 240.000 €; Luce 550.000 € + 1.050 CV y 530 km WLTP; 12Cilindri Manuale 590.000 €; las 17 potencias verificadas); Haval con 指导价 en `aprox` (Jolion 10.520 €, H6 15.720 €, H9 26.653 €, H3 16.507 €, H5 16.373 €, Dargo 16.520 €, Dargo X 23.973 €, Raptor 22.107 € + 378 CV / 145 km); Geely Galaxy con 指导价 en `aprox` (E8 22.107 € + autonomía 550 km CLTC; L6 10.640 €; L7 15.440 €; Xingyuan 9.307 €; Starshine 8 16.773 € + 375→381 CV; A7 11.973 € + 235→238 CV; M9 24.507 € + 858→870 CV; Zhanjian 700 25.307 € + 1.113→1.129 CV); Fiat/Renault/Dacia oficiales ES (600e: 32.400→26.385 € oferta fiat.es; Ulysse diésel null — descatalogado ES; Captur TCe 90 y Logan TCe 90: null + contras de descatalogación; Master: null + contra); Toyota/Volvo/Mercedes/Ford oficiales ES (GR86 34.900 € verificado; GLA 250 e null→56.014 € oficial; Camry, S90 B5, S60 B5: null — fuera de catálogo/descatalogados; E-Transit 402 km WLTP verificado; E-Transit Courier 26.900→null — sin PVP oficial); Forthing (T5 null→14.653 € tarifa china; Friday REEV 261→163 CV, 200 km verificada, null honesto — sin tarifa china del 增程版).
+- **2 verificados sin cambios** (Ferrari 296 Speciale Piloti: null correcto, precio no revelado; Ford E-Transit: 402 km WLTP oficial, precio null correcto).
+- **Nulls honestos documentados:** Ferrari 296 GTS (sin tarifa anunciada), Roma 2024 y 812 GTS (descatalogados), Amalfi Spider (sin tarifa publicada); Haval H6 PHEV y H6 GT (sin tarifa china publicable); Fiat 500e 3+1 y Master (sin tarifa abierta por motorización); Ulysse diésel, Captur TCe 90, Logan TCe 90 (descatalogados); Camry, S90/S60 B5 (fuera de catálogo ES); E-Transit Courier (sin PVP oficial).
+
+**Verificación propia:** QA apto — exactamente los 48 registros declarados cambiaron, solo en campos tocables (contras, precioDesde, potenciaCv, autonomiaKm, aprox); marca/modelo/nombre/imagen/títulos/metas/H1 intactos; ningún registro usa `precio`. Incidencia de proceso: 42/50 slugs viven en ficheros por marca (no expN) — mapeo verificado slug a slug antes de lanzar agentes. Informes: `out-AG1..6/informe-AGn.md` + RESUMEN-TANDA8.md en el estado del watcher.
+
+**Preguntas nuevas a Grok (sin improvisar):**
+1. Ferrari publica UNA tarifa oficial europea por lanzamiento (IVA incl.), no tarifas ES separadas (Roma Spider: única con tarifa ES, 280.307 €) — ¿aceptable usarlas fuera de `aprox`?
+2. Forthing T5: ¿tarifa del 7 plazas (14.653 €) o la del 5 plazas base (14.253 €)?
+3. Friday REEV: ¿permiso para corregir `parNm` (370→240) y `pros` con los 163 CV / 240 Nm verificados?
+4. `pros`/`versiones`/`costeMensual` conservan cifras € antiguas contradictorias (Haval, E-Transit Courier, Geely Galaxy, Friday REEV) — ¿autorizas una micro-tanda que toque esos campos para alinearlas?
+5. Ulysse diésel: ¿los campos técnicos se dejan en `aprox` o se vacían?
+6. E-Transit Courier: 292 km no verificable como WLTP oficial — ¿se mantiene, null, o «hasta 300 km»?
+
+Siguen abiertas las preguntas de tandas 5, 6 y 7 (hongqi-hs5-phev, chery-tiggo-4/EBRO S400, configurador JLR, criterio aprox unificado, `pros` con € de Avatr/IM/Luxeed, año de slug vs año-modelo, Stelato S9T 801 km CLTC, Compass 4xe PHEV 195, `pros` Cupra Tavascan 38.530 €, GWM Haval H6).
+
+Siguiente: tanda 9 (filas CSV 401-450).
