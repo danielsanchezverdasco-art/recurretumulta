@@ -297,6 +297,7 @@ export const COCHES_EXP20: CocheComparador[] = [
       "Comportamiento menos ágil que un turismo",
       "La tercera fila resta maletero cuando va montada",
       "El acabado Allure sube mucho el precio",
+      "Precio sin publicar en tarifa abierta: Peugeot no ofrece tarifa por motorización en la web",
     ],
     largoMm: 4753,
     anchoMm: 1848,
@@ -727,7 +728,7 @@ export const COCHES_EXP20: CocheComparador[] = [
     modelo: "DS N°8 AWD Long Range 350",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 74200,
     potenciaCv: 350,
     autonomiaKm: 688,
     maleteroL: 620,
@@ -744,7 +745,7 @@ export const COCHES_EXP20: CocheComparador[] = [
       "Etiqueta Cero con prestaciones de deportivo",
     ],
     contras: [
-      "Precio en torno a 74.200 € en acabado Étoile",
+      "Precio desde 74.200 € en acabado Étoile (PVP España, tarifa oficial DS Automobiles)",
       "688 km frente a los 750 km del tracción delantera",
       "Peso y consumo superiores al FWD",
       "Sin prueba EuroNCAP publicada todavía",
@@ -763,5 +764,7 @@ export const COCHES_EXP20: CocheComparador[] = [
     aprox: [],
     imagen: "/media/ds-n8-awd-350-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
+    fuenteNombre: "DS Automobiles / Stellantis (sala de prensa)",
+    fuenteUrl: "https://www.media.stellantis.com/es-es/ds/press/ds-n08-un-suv-coupe-100-electrico-con-el-refinamiento-y-la-tecnologia-ds-automobiles",
   },
 ];
