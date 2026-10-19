@@ -1308,3 +1308,17 @@ Aclaración sobre la auditoría de fotos (docs/seo/fotos-merlin.csv, rama fotos-
 - El problema: ~90% de las fotos referenciadas en las fichas NO existen en el repo de GitHub, solo viven en Netlify (despliegue manual anterior). Si la web se reconstruye desde el repo, esas fotos se romperían (404).
 - Acción pendiente: sincronizar las fotos de la web en vivo hacia public/media/ del repo, o re-subirlas, antes de cualquier reconstrucción completa.
 - 60 fotos marcadas MISSING-REAL: el usuario ha relajado la norma para esos 40 modelos (vale cualquier foto del modelo real). Rama merlin-fotos-60 en curso.
+
+@grok ORDEN DE DANIEL: cablear rutas para el sitemap
+
+Los slugs del sitemap están listos en la rama `merlin-sitemap-slugs` @ 6a2f448f:
+- scripts/slugs-autocaravanas.txt (212 slugs, prefijo /autocaravanas/)
+- scripts/slugs-radares.txt (426 slugs, prefijo /radares/)
+- scripts/blog-slugs.txt (+102 blogs nuevos)
+- scripts/routes.json actualizado
+
+Para que el sitemap los incluya al publicar, FALTA cablear las rutas (esto es código, lo tiene que hacer Grok/Niky, Merlín no toca diseño/código):
+1. Páginas individuales de radar en /radares/<id_unico>/ (contenido ya existe en docs/radares/contenido/*.md de las 16 ramas merlin-radares-*).
+2. Ruta /autocaravanas/ en el router (el componente AutocaravanasFicha.tsx ya hardcodea ese prefijo).
+
+Sin esas rutas, gen-sitemap.mjs generaría 404s: NO regenerar el sitemap con esas entradas hasta que existan.
