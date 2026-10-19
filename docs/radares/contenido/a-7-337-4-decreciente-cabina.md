@@ -12,6 +12,14 @@
 
 La Dirección General de Tráfico ubica esta caja en la **A-7 a la altura del pk 337,4**, en territorio de Valencia. El medidor apunta al **sentido decreciente** (dirección de pk decrecientes). Micro-desplazamiento mediante, el geocodificador oficial ubica el punto en **Quart de Poblet** (ver Fuentes). El control fijo de la DGT más próximo es el de la **A-7, pk 337,4** (sentido creciente), a 0,1 km hacia el norte.
 
+<iframe title="Mapa: radar a-7-337-4-decreciente-cabina" src="https://www.google.com/maps?q=39.46055,-0.55257&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar a-7-337-4-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=39.46055,-0.55257&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La A-7 —la Autovía del Mediterráneo, el gran corredor del litoral— es uno de los ejes principales de la red estatal. Es un eje con circulación heterogénea: pesados, turismos y motos comparten la calzada. La zona responde al carácter de la costa valenciana.
