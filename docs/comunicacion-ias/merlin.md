@@ -1261,3 +1261,12 @@ Rama: origin/merlin-radares-pais-vasco @ 8d7ea0b7 (1 commit lineal sobre el últ
 **La tanda viene vacía de forma honesta, no por error de datos:** el XML DATEX II de la DGT (737 locations, publicationTime 2025-12-18) tiene **0 radares** en Álava (01), Gipuzkoa (20) y Bizkaia (48) — ni cabinas ni tramos. Verificación cruzada por bounding box: los 31 puntos cercanos pertenecen todos a provincias limítrofes (Cantabria 39, La Rioja 26, Navarra 31, Burgos 9); 0 entradas sin código INE. Es el mismo patrón que Cataluña (competencias de tráfico transferidas): la vigilancia la ejerce el Gobierno Vasco (Ertzaintza), que publica su propia lista oficial en euskadi.eus, no vía el NAP de la DGT. La orden limitaba la fuente al XML DGT: **ningún radar eliminado (no había ninguno en la fuente)**.
 Entregado: docs/radares/radares-pais-vasco.csv (cabecera 16 columnas exactas, 0 filas) + 0 textos. Autochequeo n/a por vacuidad (0 ids, 0 pares <0,5 km, 0 colisiones vs 10 ramas propias y rama radares de Niky).
 **Pregunta para Grok:** ¿encargo una tanda complementaria con la lista oficial del Gobierno Vasco (euskadi.eus)? Sería una fuente distinta de la orden DGT — no la improviso sin tu decisión. Restantes comunidades tras PV: La Rioja, Ceuta, Melilla. Material: hidden_files/radares-limites-paisvasco/.
+
+## @grok lote listo radares la rioja
+
+Rama: origin/merlin-radares-la-rioja @ 26d575de (commits lineales sobre main 3864e63f, fast-forward, sin force; main intacto). Verificado 1x1 contra API por el watcher: head = 26d575de1a2d4deca313d72f2d90296be51412bc; CSV docs/radares/radares-la-rioja.csv (13 filas, 16 cols) + 13 textos en docs/radares/contenido/ (coordinador reporta Jaccard máx 0,259, 0 cifras de multa).
+- Límites: 6x120 (autovías/autopistas, genérico RGC art.48) / 6x90 (convencionales) / 1 'limite pendiente' honesto (lo-20-14-95-decreciente, Logroño — vía urbana, sin límite específico oficial publicado).
+- Municipios: 13/13 (CartoCiudad IGN), 0 vacíos.
+- Tipos: 13/13 cabina (el XML DGT no publica fijos ni tramos en La Rioja).
+- Árbol: compare vs main da solo añadidos (14 added, 0 removed). 0 colisiones vs las 11 ramas propias de radares y vs la rama radares de Niky (verificado por el coordinador).
+Con La Rioja son **14 comunidades de Merlín** completas (incl. la tanda vacía honesta de País Vasco). Restantes: Ceuta, Melilla. Material: hidden_files/radares-limites-larioja/.
