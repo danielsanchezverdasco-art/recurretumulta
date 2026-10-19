@@ -1,39 +1,47 @@
-# Radar A-2, pk 272,9 (sentido decreciente) — Zaragoza, Aragón
+# Radar A-2, pk 232,2 (sentido creciente) — Zaragoza, Aragón
 
-**Identificador:** `a-2-272-9-decreciente-cabina` · **Tipo:** cabina (cinemómetro fijo)
+**Identificador:** `a-2-232-2-creciente-cabina` · **Tipo:** cabina (cinemómetro fijo)
 **Fuente oficial:** DGT · DATEX II — verificado el 2026-10-18
 **Autor:** Merlín · **Fecha de redacción:** 2026-10-18
-**Coordenadas (WGS84):** 41.48975, -1.36326
-**Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=41.48975,-1.36326)
+**Coordenadas (WGS84):** 41.33214, -1.65314
+**Street View:** [ver el punto exacto en Google Street View](https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=41.33214,-1.65314)
 
-> **Cómo lo verificamos:** posición, autovía, punto kilométrico y sentido publicados en el fichero oficial de radares fijos de la DGT (DATEX II), verificado el 2026-10-18. La DGT no difunde el límite de velocidad ni el municipio de este emplazamiento.
+<iframe title="Mapa: radar a-2-272-9-decreciente-cabina" src="https://www.google.com/maps?q=41.33214,-1.65314&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
 
-## El control del sentido Madrid, antes de Zaragoza
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
 
-Esta cabina está en la **A-2, pk 272,9**, y a diferencia de las dos anteriores del corredor, controla el **sentido decreciente**: los vehículos que viajan **hacia Madrid**, según el destino consignado por la DGT. Las coordenadas la sitúan en el tramo de la autovía previo a la capital aragonesa, en la zona donde la A-2 recoge el tráfico del entorno metropolitano de Zaragoza —incluida la conexión con la A-220— antes de enfilar hacia el oeste.
+<iframe title="Street View: radar a-2-272-9-decreciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=41.33214,-1.65314&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
 
-## Un punto de mezcla de tráficos
+*Vista 3D (Street View) del entorno del radar.*
 
-El pk 272,9 presenta una característica que lo hace especialmente vigilado: es un tramo donde **confluyen tráficos de distinta naturaleza**. Por un lado, el tráfico de largo recorrido Madrid–Barcelona que lleva cientos de kilómetros de autovía; por otro, el tráfico metropolitano de Zaragoza que se incorpora y abandona la vía en los nudos próximos, con cambios de carril, aceleraciones y deceleraciones constantes. Esa mezcla eleva el riesgo: los alcances y las colisiones laterales en zonas de trenzado son los accidentes típicos de estos tramos, y la velocidad inadecuada los agrava. La cabina actúa como moderador justo donde el corredor se complica.
+> **Cómo lo verificamos:** la ubicación, la vía, el punto kilométrico y el sentido constan en el fichero oficial de radares fijos de la DGT (DATEX II), consultado el 2026-10-18. Ni el límite de velocidad ni el municipio figuran en la fuente oficial.
 
-## El límite que aplica
+## Treinta kilómetros después: el segundo control del corredor
 
-Como en todos los puntos del dataset, la DGT **no publica la velocidad límite** de este emplazamiento. El genérico de autovía para turismos es **120 km/h**, pero en tramos metropolitanos la señalización fija o variable puede establecer límites inferiores (100 u 80) de forma permanente o temporal. En las proximidades de Zaragoza, además, los paneles de mensaje variable ajustan el límite por densidad de tráfico o meteorología: el radar hace cumplir el límite **que esté vigente** al pasar, no el que recuerdes de tu último viaje.
+Esta cabina —**A-2, pk 232,2**, sentido creciente, destino **Zaragoza**— se encuentra unos 30 km al este de la del pk 202,3, en el mismo corredor y el mismo sentido. No es casualidad: la DGT suele **encadenar controles** en los grandes ejes para que la moderación de la velocidad no sea puntual («freno ante el radar y acelero después») sino sostenida a lo largo del tramo. Quien recorra la A-2 hacia Zaragoza se encontrará, por tanto, con una vigilancia escalonada y no con un punto aislado.
 
-## Medición, margen y rotación de equipos
+## El tramo: la A-2 entre el oeste provincial y Zaragoza
 
-El cinemómetro de la cabina mide la velocidad instantánea en el punto. La DGT aplica un **margen técnico** a la medición antes de formular la denuncia, pero la infracción existe desde el momento en que se supera la velocidad máxima permitida. Las cabinas de la red estatal no tienen un equipo asignado de forma fija: los cinemómetros **rotan** entre emplazamientos, por lo que la cabina debe considerarse operativa en todo momento.
+A esta altura la autovía atraviesa el oeste de la provincia de Zaragoza en dirección a la capital, un tramo de llanura con largas rectas, tráfico pesado intenso y nudos de conexión con la red autonómica. Es un tramo donde la velocidad media real tiende a situarse por encima del límite: recta, buen firme, poco tráfico en horas valle… y de pronto, una retención o un alcance por no mantener la distancia. Los cinemómetros fijos aquí cumplen una doble función: **sancionadora y disuasoria**, recordando cada pocos kilómetros que el límite sigue vigente.
 
-## Cómo pasar este tramo
+## Velocidad máxima aplicable
 
-Si sales de Zaragoza hacia Madrid, no aceleres hasta la velocidad de crucero de golpe: los primeros kilómetros concentran incorporaciones y el tráfico aún no se ha estabilizado. Mantén la derecha salvo para adelantar —en este tramo el carril izquierdo se satura con facilidad— y respeta la distancia de seguridad: a 120 km/h necesitas unos 70 metros para detener el coche en condiciones normales, mucho más con lluvia. Si vienes de largo recorrido y llevas horas al volante, este es un buen punto para recordar la pausa: la fatiga mata más que el radar multa.
+El dataset de la DGT **no incluye el límite** de este punto. El marco de referencia en autovía para turismos es **120 km/h**, pero rige la **señalización del tramo**: en la A-2 son habituales las limitaciones temporales por obras y las reducciones por niebla densa, un fenómeno clásico del valle del Ebro en otoño e invierno. El radar sanciona conforme al límite vigente en el momento del paso.
 
-## Radares cercanos (misma fuente oficial)
+## Cómo mide y cuándo hay denuncia
 
-- **A-220, pk 1,6** (sentido creciente, cabina) — a 2,6 km
-- **A-220, pk 9,4** (sentido creciente, fijo) — a 10,0 km
-- **N-330, pk 456,4** (sentido decreciente, cabina) — a 18,9 km
-- **A-2, pk 297,8** (sentido creciente, cabina) — a 23,1 km
+La cabina registra la **velocidad instantánea** de cada vehículo en el pk 232,2. La DGT descuenta un margen técnico de la medición, pero la denuncia se formula por superar la velocidad máxima permitida. Un apunte específico de los corredores con controles encadenados: no sirve «compensar» frenando solo ante la cabina; además de ineficaz, el frenazo brusco ante un radar provoca alcances. La forma correcta de pasar un tramo con varios radares es una sola: **velocidad legal y constante**.
+
+## Recomendaciones prácticas
+
+Activa el limitador o el control de crucero al entrar en la A-2 y olvídate del velocímetro: en 30 km entre controles la velocidad se desliza hacia arriba sin darte cuenta. Si hay niebla —frecuente en este valle—, la velocidad segura puede estar muy por debajo del límite legal; con visibilidad reducida, las luces antiniebla y la distancia de seguridad importan más que el radar.
+
+## Radares próximos (fuente oficial DGT)
+
+- **A-2, pk 202,3** (sentido creciente, cabina) — a 24,6 km
+- **A-220, pk 1,6** (sentido creciente, cabina) — a 28,3 km
+- **A-2, pk 272,9** (sentido decreciente, cabina) — a 29,9 km
+- **A-220, pk 9,4** (sentido creciente, fijo) — a 30,4 km
 
 ## Fuentes
 
