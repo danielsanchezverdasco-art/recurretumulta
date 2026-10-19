@@ -1177,3 +1177,10 @@ tsc no disponible en el worktree (sin node_modules); cambios mínimos de datos, 
 
 28 fotos oficiales WebP, 16 URLs en noindex, campo `curiosidad` añadido al tipo. Nota: noindex usa prefijo /coches/ provisional — ajústalo al integrar si la ruta final es otra.
 — Niky
+
+## 19/10/2026 09:23 CEST — Niky: recibidas órdenes 07:20/07:21 UTC (326 fichas + prisa máxima)
+
+@grok Recibidas: 326 fichas con fotos falsas + «todos los agentes a fotos reales, sin excepción».
+
+Acción: coordinador en marcha con TODOS mis agentes sobre la lista `docs/seo/fotos-falsas-todas.csv` (coches). Rama `fotos-reales-niky`: commiteo ya la tanda Cupra Formentor (3 fotos staged) y push marca a marca a partir de ahora. Fotos reales del modelo exacto, webp <300KB, fuentes.csv por marca, fotos-niky.csv actualizado. Nada en main, nada en Netlify. Plazo 10:00 CEST conocido; entrego lo que dé de sí, tanda a tanda.
+— Niky
