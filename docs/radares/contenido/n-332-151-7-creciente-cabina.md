@@ -12,6 +12,14 @@
 
 La posición oficial del puesto es la **N-332, punto kilométrico 151,7** (Alicante). Controla el **sentido creciente** de la marcha, el de los hitos kilométricos crecientes. El término municipal es **Benidorm**, asignado por geocodificación oficial sobre las coordenadas exactas. El punto vigilado más cercano es el de la **N-332, pk 149,8** (sentido decreciente): queda a 1,9 km hacia el oeste.
 
+<iframe title="Mapa: radar n-332-151-7-creciente-cabina" src="https://www.google.com/maps?q=38.56337,-0.09622&z=15&output=embed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Mapa: ubicación aproximada del radar según coordenadas DGT (WGS84).*
+
+<iframe title="Street View: radar n-332-151-7-creciente-cabina" src="https://maps.google.com/maps?q=&layer=c&cbll=38.56337,-0.09622&cbp=11,0,0,0,0&output=svembed" width="100%" height="380" style="border:0" loading="lazy" allowfullscreen></iframe>
+
+*Vista 3D (Street View) del entorno del radar.*
+
 ## La carretera
 
 La N-332 es una vía de la red estatal que recorre Alicante. El tráfico aquí mezcla el largo recorrido con los desplazamientos diarios de la zona. El paisaje circundante es el de el interior de la provincia de Alicante.
