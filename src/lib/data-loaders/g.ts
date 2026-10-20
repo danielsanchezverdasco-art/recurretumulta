@@ -71,6 +71,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "globecar-globescout-plus-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin2.ts"),
     "gmc-hummer-ev-2025-precio-ficha-tecnica": () => import("../blog-posts-lote4.ts"),
     "gmc-sierra-ev-2025-precio-autonomia": () => import("../blog-posts-lote13.ts"),
+    "gmc-yukon-2025-precio-suv-americano-8-plazas": () => import("../blog-posts-lote4.ts"),
     "gogoro-2-plus-2025-ficha-tecnica-precio": () => import("../blog-posts-lote9.ts"),
     "gordon-murray-t33-2025-precio-ficha-tecnica": () => import("../blog-posts-lote4.ts"),
     "gordon-murray-t50-2025-precio-ficha-tecnica": () => import("../blog-posts-lote4.ts"),

@@ -3845,3 +3845,11 @@ can-am-pulse-ficha-tecnica-precio
 yamaha-niken-gt-2025-ficha-tecnica-precio
 peugeot-2008-2024-precio-ficha-tecnica
 geely-record-ventas-2026-almussafes
+ford-e-tourneo-courier-2025-precio-furgoneta-electrica-familiar
+ford-f-150-raptor-2025-precio-pick-up-americana
+chevrolet-corvette-z06-2025-precio-superdeportivo-americano
+chevrolet-corvette-e-ray-2025-precio-hibrido-americano
+gmc-yukon-2025-precio-suv-americano-8-plazas
+cadillac-escalade-2026-precio-suv-lujo-americano
+xpeng-g6-awd-performance-2026-precio-carga-451kw
+xpeng-g9-awd-performance-2026-precio-575cv

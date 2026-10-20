@@ -3,6 +3,7 @@
 export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
   blog: {
     "cadillac-celestiq-2025-precio-ficha-tecnica": () => import("../blog-posts-lote4.ts"),
+    "cadillac-escalade-2026-precio-suv-lujo-americano": () => import("../blog-posts-lote4.ts"),
     "cadillac-escalade-iq-2025-precio-ficha-tecnica": () => import("../blog-posts-lote4.ts"),
     "cadillac-optiq-2025-precio-ficha-tecnica": () => import("../blog-posts-lote5.ts"),
     "cadillac-vistiq-2026-precio-ficha-tecnica": () => import("../blog-posts-lote5.ts"),
@@ -138,6 +139,8 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "chery-tiggo-x-2027-precio-ficha-tecnica": () => import("../blog-posts-chery-a.ts"),
     "chevrolet-blazer-ev-2025-precio-autonomia": () => import("../blog-posts-lote13.ts"),
     "chevrolet-corvette-c8-2025-precio-ficha-tecnica": () => import("../blog-posts-batch2b-1.ts"),
+    "chevrolet-corvette-e-ray-2025-precio-hibrido-americano": () => import("../blog-posts-lote4.ts"),
+    "chevrolet-corvette-z06-2025-precio-superdeportivo-americano": () => import("../blog-posts-lote4.ts"),
     "chevrolet-corvette-zr1-2025-precio-ficha-tecnica": () => import("../blog-posts-lote4.ts"),
     "chevrolet-corvette-zr1x-2026-precio-ficha-tecnica": () => import("../blog-posts-lote4.ts"),
     "chevrolet-equinox-ev-2025-precio-ficha-tecnica": () => import("../blog-posts-lote5.ts"),
