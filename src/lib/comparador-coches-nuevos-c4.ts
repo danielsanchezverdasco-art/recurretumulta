@@ -9,6 +9,8 @@ import type { CocheComparador } from "./comparador-coches-data.ts";
 export const COCHES_NUEVOS_C4: CocheComparador[] = [
   {
     id: "toyota-yaris-cross-2026-precio-ficha-tecnica",
+    fuenteNombre: "Toyota España",
+    fuenteUrl: "https://www.toyota.es/coches/yaris-cross",
     marca: "Toyota",
     modelo: "Yaris Cross 130H 2026",
     tipo: "Híbrido",

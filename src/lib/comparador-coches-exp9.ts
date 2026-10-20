@@ -11,6 +11,31 @@ import type { CocheComparador } from "./comparador-coches-data.ts";
 export const COCHES_EXP9: CocheComparador[] = [
   {
     id: "toyota-yaris-cross-130h-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: null,
+      nota: null
+    },
+    planMantenimiento: {
+      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+      revisiones: [
+        {
+          nombre: "Revisión intermedia / 15.000 km",
+          queSeCambia: "Aceite del motor + filtro de aceite + inspección general + chequeo del sistema híbrido",
+          costeAproxEur: null
+        },
+        {
+          nombre: "Revisión principal / 30.000 km",
+          queSeCambia: "Aceite del motor + filtro de aceite + filtro de aire + filtro de polen + líquido de frenos (según plan) + chequeo del sistema híbrido",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento Toyota España (15.000 km o 12 meses)"
+    },
+    fuenteNombre: "Toyota España",
+    fuenteUrl: "https://www.toyota.es/coches/yaris-cross",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -77,6 +102,31 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "toyota-land-cruiser-2026-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP"
+    },
+    planMantenimiento: {
+      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+      revisiones: [
+        {
+          nombre: "Revisión intermedia / 15.000 km",
+          queSeCambia: "Aceite del motor + filtro de aceite + filtro de combustible (según plan) + inspección general",
+          costeAproxEur: null
+        },
+        {
+          nombre: "Revisión principal / 30.000 km",
+          queSeCambia: "Aceite del motor + filtro de aceite + filtro de aire + filtro de combustible + filtro de polen + líquido de frenos (según plan)",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento Toyota España (15.000 km o 12 meses)"
+    },
+    fuenteNombre: "Toyota España",
+    fuenteUrl: "https://www.toyota.es/coches/land-cruiser",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -143,6 +193,31 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "toyota-bz4x-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: "https://www.euroncap.com/en/results/toyota/bz4x/57986",
+      nota: null
+    },
+    planMantenimiento: {
+      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Inspección del sistema eléctrico y chequeo de salud de la batería de tracción + filtro de polen + inspección general (sin cambio de aceite: motor eléctrico)",
+          costeAproxEur: null
+        },
+        {
+          nombre: "Revisión / 30.000 km",
+          queSeCambia: "Inspección del sistema eléctrico y chequeo de salud de la batería de tracción + filtro de polen + líquido de frenos (según plan)",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento Toyota España para eléctricos (revisión anual o 15.000 km)"
+    },
+    fuenteNombre: "Toyota España",
+    fuenteUrl: "https://www.toyota.es/coches/bz4x",
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
@@ -341,6 +416,31 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "toyota-corolla-5p-140h-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2019,
+      url: null,
+      nota: null
+    },
+    planMantenimiento: {
+      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+      revisiones: [
+        {
+          nombre: "Revisión intermedia / 15.000 km",
+          queSeCambia: "Aceite del motor + filtro de aceite + inspección general + chequeo del sistema híbrido",
+          costeAproxEur: null
+        },
+        {
+          nombre: "Revisión principal / 30.000 km",
+          queSeCambia: "Aceite del motor + filtro de aceite + filtro de aire + filtro de polen + líquido de frenos (según plan) + chequeo del sistema híbrido",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento Toyota España (15.000 km o 12 meses)"
+    },
+    fuenteNombre: "Toyota España",
+    fuenteUrl: "https://www.toyota.es/coches/corolla",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1001,6 +1101,29 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "toyota-camry-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP"
+    },
+    planMantenimiento: {
+      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+      revisiones: [
+        {
+          nombre: "Revisión intermedia / 15.000 km",
+          queSeCambia: "Aceite del motor + filtro de aceite + inspección general + chequeo del sistema híbrido",
+          costeAproxEur: null
+        },
+        {
+          nombre: "Revisión principal / 30.000 km",
+          queSeCambia: "Aceite del motor + filtro de aceite + filtro de aire + filtro de polen + líquido de frenos (según plan) + chequeo del sistema híbrido",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento Toyota España (15.000 km o 12 meses)"
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,

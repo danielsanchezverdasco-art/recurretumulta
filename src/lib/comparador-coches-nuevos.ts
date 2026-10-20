@@ -3237,6 +3237,14 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   },
   {
     id: "toyota-corolla-140h",
+    euroncap: {
+      estrellas: 5,
+      ano: 2019,
+      url: null,
+      nota: null
+    },
+    fuenteNombre: "Toyota España",
+    fuenteUrl: "https://www.toyota.es/coches/corolla",
     mantenimientoDIY: {
         resetAceiteTitulo: "Resetear aviso de cambio de aceite",
         resetAceitePasos: ["Con la puerta cerrada y SIN pisar el freno, pulsa dos veces el botón de arranque hasta que el cuadro de instrumentos se encienda (modo ON).", "Con los botones de la parte derecha del volante, navega por la pantalla multifunción hasta el icono del engranaje (Ajustes).", "Entra en 'Vehicle Settings' manteniendo pulsado OK.", "Desplázate hasta 'Oil Maintenance' o 'Mantenimiento programado' y entra con OK.", "Selecciona 'Yes' / 'Sí' cuando pregunte si quieres reiniciar los datos y confirma con OK hasta que aparezca el mensaje de confirmación.", "Apaga el contacto. El aviso queda reiniciado."],
@@ -3314,6 +3322,14 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   },
   {
     id: "toyota-c-hr-140h",
+    euroncap: {
+      estrellas: 5,
+      ano: 2024,
+      url: "https://www.euroncap.com/en/results/toyota/c-hr+phev/51098",
+      nota: null
+    },
+    fuenteNombre: "Toyota España",
+    fuenteUrl: "https://www.toyota.es/coches/toyota-c-hr",
     mantenimientoDIY: {
         resetAceiteTitulo: "Resetear aviso de cambio de aceite",
         resetAceitePasos: ["Con la puerta cerrada y SIN pisar el freno, pulsa dos veces el botón de arranque hasta que el cuadro de instrumentos se encienda (modo ON).", "Con los botones de la parte derecha del volante, navega por la pantalla multifunción hasta el icono del engranaje (Ajustes).", "Entra en 'Vehicle Settings' manteniendo pulsado OK.", "Desplázate hasta 'Oil Maintenance' o 'Mantenimiento programado' y entra con OK.", "Selecciona 'Yes' / 'Sí' cuando pregunte si quieres reiniciar los datos y confirma con OK hasta que aparezca el mensaje de confirmación.", "Apaga el contacto. El aviso queda reiniciado."],
@@ -3418,6 +3434,14 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   },
   {
     id: "toyota-yaris-120h",
+    euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: null,
+      nota: null
+    },
+    fuenteNombre: "Toyota España",
+    fuenteUrl: "https://www.toyota.es/coches/yaris",
     mantenimientoDIY: {
         resetAceiteTitulo: "Resetear aviso de cambio de aceite",
         resetAceitePasos: ["Con la puerta cerrada y SIN pisar el freno, pulsa dos veces el botón de arranque hasta que el cuadro de instrumentos se encienda (modo ON).", "Con los botones de la parte derecha del volante, navega por la pantalla multifunción hasta el icono del engranaje (Ajustes).", "Entra en 'Vehicle Settings' manteniendo pulsado OK.", "Desplázate hasta 'Oil Maintenance' o 'Mantenimiento programado' y entra con OK.", "Selecciona 'Yes' / 'Sí' cuando pregunte si quieres reiniciar los datos y confirma con OK hasta que aparezca el mensaje de confirmación.", "Apaga el contacto. El aviso queda reiniciado."],
@@ -4999,6 +5023,14 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     },
   {
     id: "toyota-rav4-hybrid-2026",
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: la nueva generación del RAV4 (2026) aún no ha sido probada por Euro NCAP"
+    },
+    fuenteNombre: "Toyota España",
+    fuenteUrl: "https://www.toyota.es/coches/rav4",
     mantenimientoDIY: {
         resetAceiteTitulo: "Resetear aviso de cambio de aceite",
         resetAceitePasos: ["Con la puerta cerrada y SIN pisar el freno, pulsa dos veces el botón de arranque hasta que el cuadro de instrumentos se encienda (modo ON).", "Con los botones de la parte derecha del volante, navega por la pantalla multifunción hasta el icono del engranaje (Ajustes).", "Entra en 'Vehicle Settings' manteniendo pulsado OK.", "Desplázate hasta 'Oil Maintenance' o 'Mantenimiento programado' y entra con OK.", "Selecciona 'Yes' / 'Sí' cuando pregunte si quieres reiniciar los datos y confirma con OK hasta que aparezca el mensaje de confirmación.", "Apaga el contacto. El aviso queda reiniciado."],
@@ -6242,6 +6274,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     },
 {
     id: "toyota-yaris-cross-hybrid-2024-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: null,
+      nota: null
+    },
     mantenimientoDIY: {
         resetAceiteTitulo: "Resetear aviso de cambio de aceite",
         resetAceitePasos: ["Con la puerta cerrada y SIN pisar el freno, pulsa dos veces el botón de arranque hasta que el cuadro de instrumentos se encienda (modo ON).", "Con los botones de la parte derecha del volante, navega por la pantalla multifunción hasta el icono del engranaje (Ajustes).", "Entra en 'Vehicle Settings' manteniendo pulsado OK.", "Desplázate hasta 'Oil Maintenance' o 'Mantenimiento programado' y entra con OK.", "Selecciona 'Yes' / 'Sí' cuando pregunte si quieres reiniciar los datos y confirma con OK hasta que aparezca el mensaje de confirmación.", "Apaga el contacto. El aviso queda reiniciado."],
@@ -9808,6 +9846,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   },
   {
     id: "toyota-bz4x-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: "https://www.euroncap.com/en/results/toyota/bz4x/57986",
+      nota: null
+    },
     mantenimientoDIY: {
         resetAceiteTitulo: "Resetear aviso de revisión/servicio",
         resetAceitePasos: ["Con la puerta cerrada y SIN pisar el freno, pulsa dos veces el botón de arranque hasta que el cuadro de instrumentos se encienda (modo ON).", "Con los botones de la parte derecha del volante, navega por la pantalla multifunción hasta el icono del engranaje (Ajustes).", "Entra en 'Vehicle Settings' manteniendo pulsado OK.", "Desplázate hasta 'Scheduled Maintenance' o 'Mantenimiento programado' y entra con OK.", "Selecciona 'Yes' / 'Sí' cuando pregunte si quieres reiniciar los datos y confirma con OK hasta que aparezca el mensaje de confirmación.", "Apaga el contacto. El aviso de revisión queda reiniciado."],
