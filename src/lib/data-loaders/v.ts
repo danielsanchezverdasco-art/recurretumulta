@@ -21,6 +21,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "vespa-gts-125-2026-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m3.ts"),
     "vespa-gts-310-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m4.ts"),
     "vespa-gtv-310-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m4.ts"),
+    "vespa-gtv-310-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m38.ts"),
     "vespa-primavera-rst-125-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m4.ts"),
     "vespa-sprint-rst-125-s-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m4.ts"),
     "vinfast-vf-6-2026-precio-ficha": () => import("../blog-posts-lote3.ts"),
