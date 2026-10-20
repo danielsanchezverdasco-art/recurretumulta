@@ -996,7 +996,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
   },
   {
     id: "bmw-r-12-gs-2026-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "R 12 G/S",
     version: "2026",
     cilindradaCc: 1170,
@@ -1072,7 +1072,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
   },
   {
     id: "bmw-f-900-gs-2026-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "F 900 GS",
     version: "2026",
     cilindradaCc: 895,

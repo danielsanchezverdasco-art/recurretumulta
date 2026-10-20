@@ -1308,7 +1308,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
   // ── MITT (1) ────────────────────────────────────────────────────────────
   {
     id: "mitt-530-tt-2025-ficha-tecnica-precio",
-    marca: "Mitt",
+    marca: "MITT",
     modelo: "530 TT",
     version: "2025",
     cilindradaCc: 530,

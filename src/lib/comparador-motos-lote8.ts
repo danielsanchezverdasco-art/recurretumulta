@@ -1280,7 +1280,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
   },
   {
     id: "swm-varez-125-2023-ficha-tecnica-precio",
-    marca: "SWM",
+    marca: "SWM Motorcycles",
     modelo: "Varez 125",
     version: "Varez 125 ABS",
     cilindradaCc: 125,

@@ -2753,7 +2753,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
   // ── BMW MOTORRAD (5) ────────────────────────────────────────────────────
   {
     id: "bmw-r-1300-gs-2026-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "R 1300 GS",
     version: "2026",
     cilindradaCc: 1300,
@@ -2815,7 +2815,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
   },
   {
     id: "bmw-f-900-r-2026-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "F 900 R",
     version: "2026",
     cilindradaCc: 895,
@@ -2877,7 +2877,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
   },
   {
     id: "bmw-f-900-xr-2026-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "F 900 XR",
     version: "2026",
     cilindradaCc: 895,
@@ -2939,7 +2939,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
   },
   {
     id: "bmw-s-1000-rr-2026-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "S 1000 RR",
     version: "2026",
     cilindradaCc: 999,
@@ -3001,7 +3001,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
   },
   {
     id: "bmw-r-12-ninet-2026-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "R 12 nineT",
     version: "2026",
     cilindradaCc: 1170,

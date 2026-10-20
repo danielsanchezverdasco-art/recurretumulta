@@ -421,7 +421,7 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "bmw-ce-04-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "CE 04",
     version: "estándar",
     cilindradaCc: null,
@@ -487,7 +487,7 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "bmw-ce-02-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "CE 02",
     version: "CE 02 (11 kW)",
     cilindradaCc: null,
@@ -1756,7 +1756,7 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "bmw-r-12-ninet-2024-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "R 12 nineT",
     version: "R 12 nineT 2024",
     cilindradaCc: 1170,
@@ -2661,7 +2661,7 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "bmw-f-800-gs-2024-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "F 800 GS",
     version: "F 800 GS 2024",
     cilindradaCc: 895,
@@ -3057,7 +3057,7 @@ export const MOTOS_BASE: MotoComparador[] = [
   // ── 5. BMW S 1000 R 2024 ───────────────────────────────────────────
   {
     id: "bmw-s-1000-r-2024-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "S 1000 R",
     version: "S 1000 R 2024",
     cilindradaCc: 1000,
@@ -3791,7 +3791,7 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "bmw-c-400-gt-2024-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "C 400 GT",
     version: "C 400 GT 2024",
     cilindradaCc: 350,
@@ -3891,7 +3891,7 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
 {
     id: "zero-sr-f-2024-ficha-tecnica-precio",
-    marca: "Zero",
+    marca: "Zero Motorcycles",
     modelo: "SR/F",
     version: "SR/F 2024",
     cilindradaCc: null,
@@ -3939,7 +3939,7 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "zero-dsr-x-2024-ficha-tecnica-precio",
-    marca: "Zero",
+    marca: "Zero Motorcycles",
     modelo: "DSR/X",
     version: "DSR/X 2024",
     cilindradaCc: null,
@@ -4371,7 +4371,7 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
 {
     id: "indian-scout-sixty-2024-ficha-tecnica-precio",
-    marca: "Indian",
+    marca: "Indian Motorcycle",
     modelo: "Scout Sixty",
     version: "Scout Sixty 2024",
     cilindradaCc: 999,
@@ -5011,7 +5011,7 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "bmw-r-1300-gs-2024-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "R 1300 GS",
     version: "R 1300 GS 2024",
     cilindradaCc: 1300,
@@ -5521,7 +5521,7 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "bmw-r-1300-gs-adventure-2024-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "R 1300 GS Adventure",
     version: "R 1300 GS Adventure 2024",
     cilindradaCc: 1300,
@@ -6270,7 +6270,7 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "bmw-f-900-r-2024-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "F 900 R",
     version: "F 900 R 2024",
     cilindradaCc: 895,
@@ -6526,7 +6526,7 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "bmw-s-1000-rr-2024-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "S 1000 RR",
     version: "S 1000 RR 2024",
     cilindradaCc: 1000,
@@ -7344,7 +7344,7 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "zero-sr-s-2024-ficha-tecnica-precio",
-    marca: "Zero",
+    marca: "Zero Motorcycles",
     modelo: "SR/S",
     version: "SR/S 2024",
     cilindradaCc: null,
@@ -7993,7 +7993,7 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "indian-chief-2024-ficha-tecnica-precio",
-    marca: "Indian",
+    marca: "Indian Motorcycle",
     modelo: "Chief",
     version: "Chief 2024",
     cilindradaCc: 1890,
@@ -8131,7 +8131,7 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "bmw-r-1300-rt-2025-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "R 1300 RT",
     version: "R 1300 RT 2025",
     cilindradaCc: 1300,

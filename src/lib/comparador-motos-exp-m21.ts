@@ -495,7 +495,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
   },
   {
     id: "bmw-r-18-b-2025-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "R 18 B",
     version: "2025",
     cilindradaCc: 1802,
@@ -697,7 +697,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
   // ── BMW (10) ────────────────────────────────────────────────────────────
   {
     id: "bmw-r-1300-gs-2025-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "R 1300 GS",
     version: "2025",
     cilindradaCc: 1300,
@@ -762,7 +762,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
   },
   {
     id: "bmw-r-1300-gs-adventure-2025-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "R 1300 GS Adventure",
     version: "2025",
     cilindradaCc: 1300,
@@ -827,7 +827,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
   },
   {
     id: "bmw-f-900-gs-2025-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "F 900 GS",
     version: "2025",
     cilindradaCc: 895,
@@ -895,7 +895,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
   },
   {
     id: "bmw-f-800-gs-2025-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "F 800 GS",
     version: "2025",
     cilindradaCc: 895,
@@ -963,7 +963,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
   },
   {
     id: "bmw-r-12-ninet-2025-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "R 12 nineT",
     version: "2025",
     cilindradaCc: 1170,
@@ -1028,7 +1028,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
   },
   {
     id: "bmw-r-18-2025-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "R 18",
     version: "2025",
     cilindradaCc: 1802,
@@ -1093,7 +1093,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
   },
   {
     id: "bmw-f-900-r-2025-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "F 900 R",
     version: "2025",
     cilindradaCc: 895,
@@ -1161,7 +1161,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
   },
   {
     id: "bmw-s-1000-r-2025-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "S 1000 R",
     version: "2025",
     cilindradaCc: 999,
@@ -1229,7 +1229,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
   },
   {
     id: "bmw-r-12-2025-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "R 12",
     version: "2025",
     cilindradaCc: 1170,
@@ -1294,7 +1294,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
   },
   {
     id: "bmw-ce-04-2025-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "CE 04",
     version: "2025",
     cilindradaCc: null,

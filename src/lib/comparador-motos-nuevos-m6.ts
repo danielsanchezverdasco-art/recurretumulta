@@ -1659,7 +1659,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
   },
   {
     id: "indian-challenger-2025-ficha-tecnica-precio",
-    marca: "Indian",
+    marca: "Indian Motorcycle",
     modelo: "Challenger",
     version: "Challenger 2025",
     categoria: "Naked",

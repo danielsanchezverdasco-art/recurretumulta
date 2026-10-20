@@ -2755,7 +2755,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
   // ── MITT (3) ──────────────────────────────────────────────────────────
   {
     id: "mitt-tt-530-2024-ficha-tecnica-precio",
-    marca: "Mitt",
+    marca: "MITT",
     modelo: "TT 530",
     version: "TT 530 2024",
     cilindradaCc: 530,
@@ -2818,7 +2818,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
   },
   {
     id: "mitt-gp2-125-2024-ficha-tecnica-precio",
-    marca: "Mitt",
+    marca: "MITT",
     modelo: "GP2 125",
     version: "GP2 125 2024",
     cilindradaCc: 125,
@@ -2889,7 +2889,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
   },
   {
     id: "mitt-nk-125-2025-ficha-tecnica-precio",
-    marca: "Mitt",
+    marca: "MITT",
     modelo: "NK 125",
     version: "NK 125 2025",
     cilindradaCc: 125,

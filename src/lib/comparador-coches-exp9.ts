@@ -1846,7 +1846,7 @@ export const COCHES_EXP9: CocheComparador[] = [
     velocidadMax: 210,
     bateriaKwh: 85,
     cargaRapidaKw: 320,
-    etiquetaDgt: "CERO",
+    etiquetaDgt: "Cero",
     pros: [
       "Hasta 790 km de autonomía WLTP, la mejor de su segmento",
       "Carga ultrarrápida de 320 kW en arquitectura de 800 V",
@@ -1912,7 +1912,7 @@ export const COCHES_EXP9: CocheComparador[] = [
     velocidadMax: 210,
     bateriaKwh: 94,
     cargaRapidaKw: 330,
-    etiquetaDgt: "CERO",
+    etiquetaDgt: "Cero",
     pros: [
       "489 CV con tracción total 4MATIC y 800 Nm de par",
       "Hasta 673 km de autonomía WLTP con batería de 94 kWh",
@@ -1978,7 +1978,7 @@ export const COCHES_EXP9: CocheComparador[] = [
     velocidadMax: 210,
     bateriaKwh: 85,
     cargaRapidaKw: 320,
-    etiquetaDgt: "CERO",
+    etiquetaDgt: "Cero",
     pros: [
       "El familiar eléctrico con más autonomía: 766 km WLTP",
       "Maletero de 455 litros ampliable a 1.290 litros",
@@ -2390,7 +2390,7 @@ export const COCHES_EXP9: CocheComparador[] = [
     velocidadMax: 210,
     bateriaKwh: 15.6,
     cargaRapidaKw: null,
-    etiquetaDgt: "CERO",
+    etiquetaDgt: "Cero",
     pros: [
       "218 CV combinados con 74 km de autonomía eléctrica",
       "Etiqueta CERO para moverse por ZBE sin restricciones",
@@ -2473,7 +2473,7 @@ export const COCHES_EXP9: CocheComparador[] = [
     velocidadMax: 210,
     bateriaKwh: 31.2,
     cargaRapidaKw: null,
-    etiquetaDgt: "CERO",
+    etiquetaDgt: "Cero",
     pros: [
       "Nueva generación 2026 con 435 CV combinados",
       "Etiqueta CERO en un SUV de casi 5 metros",
@@ -2556,7 +2556,7 @@ export const COCHES_EXP9: CocheComparador[] = [
     velocidadMax: 180,
     bateriaKwh: 116,
     cargaRapidaKw: 200,
-    etiquetaDgt: "CERO",
+    etiquetaDgt: "Cero",
     pros: [
       "587 CV y 1.164 Nm con un motor por rueda",
       "Giro sobre sí mismo (G-Turn) y marcha lateral",
@@ -2622,7 +2622,7 @@ export const COCHES_EXP9: CocheComparador[] = [
     velocidadMax: 210,
     bateriaKwh: 107.8,
     cargaRapidaKw: 200,
-    etiquetaDgt: "CERO",
+    etiquetaDgt: "Cero",
     pros: [
       "544 CV y 858 Nm con tracción total 4MATIC",
       "651 km de autonomía WLTP",
@@ -2754,7 +2754,7 @@ export const COCHES_EXP9: CocheComparador[] = [
     velocidadMax: 140,
     bateriaKwh: 90,
     cargaRapidaKw: 110,
-    etiquetaDgt: "CERO",
+    etiquetaDgt: "Cero",
     pros: [
       "6 plazas reales con maletero de 1.030 litros",
       "365 km de autonomía WLTP con batería de 90 kWh",

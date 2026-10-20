@@ -3506,7 +3506,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
   },
   {
     id: "cfmoto-125nk-2026",
-    marca: "CFMOTO",
+    marca: "CFMoto",
     modelo: "125NK",
     version: "125NK 2026",
     categoria: "Naked",
@@ -4476,7 +4476,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
   },
   {
     id: "bmw-f-900-gs-adventure-2025-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "F 900 GS",
     version: "Adventure",
     categoria: "Trail",
@@ -4980,7 +4980,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
   },
   {
     id: "bmw-r-1300-gs-adventure-2026-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "R 1300 GS",
     version: "Adventure",
     categoria: "Trail",
@@ -5295,7 +5295,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
   },
   {
     id: "swm-superdual-650-2025-ficha-tecnica-precio",
-    marca: "SWM",
+    marca: "SWM Motorcycles",
     modelo: "Superdual 650",
     version: "X",
     categoria: "Trail",
@@ -5694,7 +5694,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
   },
   {
     id: "indian-chieftain-powerplus-dark-horse-2025-ficha-tecnica-precio",
-    marca: "Indian",
+    marca: "Indian Motorcycle",
     modelo: "Chieftain PowerPlus Dark Horse",
     version: "Chieftain PowerPlus Dark Horse 2025",
     categoria: "Touring",
@@ -5771,7 +5771,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
   },
   {
     id: "bmw-k-1600-gtl-2025-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "K 1600 GTL",
     version: "K 1600 GTL 2025",
     categoria: "Touring",

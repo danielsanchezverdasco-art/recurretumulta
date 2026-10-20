@@ -1192,7 +1192,7 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
   },
   {
     id: "vmoto-stash-2025-ficha-tecnica-precio",
-    marca: "VMoto",
+    marca: "Vmoto",
     modelo: "Stash",
     version: "2025",
     cilindradaCc: null,

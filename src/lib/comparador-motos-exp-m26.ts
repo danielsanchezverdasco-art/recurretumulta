@@ -3265,7 +3265,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
   },
   {
     id: "niu-mqi-gt-2025-ficha-tecnica-precio",
-    marca: "Niu",
+    marca: "NIU",
     modelo: "MQi GT",
     version: "MQi GT 100 2025",
     categoria: "Scooter",
@@ -3340,7 +3340,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
   },
   {
     id: "niu-xqi3-2025-ficha-tecnica-precio",
-    marca: "Niu",
+    marca: "NIU",
     modelo: "XQi3",
     version: "XQi3 Street 2025",
     categoria: "Trail",
@@ -3415,7 +3415,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
   },
   {
     id: "niu-nqi-cargo-2025-ficha-tecnica-precio",
-    marca: "Niu",
+    marca: "NIU",
     modelo: "NQi Cargo",
     version: "NQi Cargo 2025",
     categoria: "Scooter",

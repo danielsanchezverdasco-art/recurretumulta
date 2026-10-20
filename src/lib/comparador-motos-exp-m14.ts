@@ -145,7 +145,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
   // ── NIU ──
   {
     id: "niu-fqi-500-2025-ficha-tecnica-precio",
-    marca: "Niu",
+    marca: "NIU",
     modelo: "FQi 500",
     version: "FQi 500 2025",
     cilindradaCc: null,
@@ -208,7 +208,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
   },
   {
     id: "niu-mqi-gt-evo-2025-ficha-tecnica-precio",
-    marca: "Niu",
+    marca: "NIU",
     modelo: "MQi GT Evo",
     version: "MQi GT Evo 2025",
     cilindradaCc: null,
@@ -271,7 +271,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
   },
   {
     id: "niu-nqix-500-2025-ficha-tecnica-precio",
-    marca: "Niu",
+    marca: "NIU",
     modelo: "NQiX 500",
     version: "NQiX 500 2025",
     cilindradaCc: null,

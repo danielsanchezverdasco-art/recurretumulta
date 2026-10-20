@@ -2481,7 +2481,7 @@ export const COCHES_EXP22: CocheComparador[] = [
   },
   {
     id: "xpeng-g7-2026-precio-ficha-tecnica",
-    marca: "Xpeng",
+    marca: "XPeng",
     modelo: "G7",
     tipo: "Eléctrico",
     categoria: "SUV",
@@ -2781,7 +2781,7 @@ export const COCHES_EXP22: CocheComparador[] = [
   },
   {
     id: "nio-et7-2025-precio-ficha-tecnica",
-    marca: "Nio",
+    marca: "NIO",
     modelo: "ET7",
     tipo: "Eléctrico",
     categoria: "Berlina",

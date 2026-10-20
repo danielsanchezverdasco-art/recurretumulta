@@ -7,7 +7,7 @@ import type { MotoComparador } from "./comparador-motos-data.ts";
 export const MOTOS_NUEVOS_M1: MotoComparador[] = [
   {
     id: "seat-mo-50-2025-ficha-tecnica-precio",
-    marca: "Seat",
+    marca: "SEAT",
     modelo: "MÓ 50",
     version: "MÓ 50 2025",
     categoria: "Scooter",

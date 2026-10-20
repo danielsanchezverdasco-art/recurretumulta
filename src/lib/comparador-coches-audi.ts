@@ -592,7 +592,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     velocidadMax: 215,
     bateriaKwh: null,
     cargaRapidaKw: 50,
-    etiquetaDgt: "0 emisiones",
+    etiquetaDgt: "Cero",
     pros: [
       "120 km eléctricos WLTP: el PHEV compacto con más autonomía eléctrica",
       "272 CV combinados y 400 Nm: prestaciones de deportivo (0-100 en 6,8 s)",

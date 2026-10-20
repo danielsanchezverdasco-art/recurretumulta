@@ -11,7 +11,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
   // ── BMW MOTORRAD (5) ──────────────────────────────────────────────────
   {
     id: "bmw-m-1000-xr-2025-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "M 1000 XR",
     version: "2025",
     cilindradaCc: 999,
@@ -66,7 +66,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
   },
   {
     id: "bmw-m-1000-r-2025-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "M 1000 R",
     version: "2025",
     cilindradaCc: 999,
@@ -121,7 +121,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
   },
   {
     id: "bmw-g-310-r-2024-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "G 310 R",
     version: "2024",
     cilindradaCc: 313,
@@ -176,7 +176,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
   },
   {
     id: "bmw-r-18-roctane-2025-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "R 18 Roctane",
     version: "2025",
     cilindradaCc: 1802,
@@ -231,7 +231,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
   },
   {
     id: "bmw-k-1600-gt-2025-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "K 1600 GT",
     version: "2025",
     cilindradaCc: 1649,

@@ -173,7 +173,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
   },
   {
     id: "bmw-f-750-gs-2024-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "F 750 GS",
     version: "F 750 GS 2024",
     cilindradaCc: 853,
@@ -583,7 +583,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
   },
   {
     id: "cfmoto-450mt-2026-ficha-tecnica-precio",
-    marca: "CFMOTO",
+    marca: "CFMoto",
     modelo: "450MT",
     version: "450MT 2026",
     cilindradaCc: 450,

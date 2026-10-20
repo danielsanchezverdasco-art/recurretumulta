@@ -2846,7 +2846,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
   },
   {
     id: "mitt-nk-125-2026-ficha-tecnica-precio",
-    marca: "Mitt",
+    marca: "MITT",
     modelo: "NK 125",
     version: "2026",
     cilindradaCc: 125,
@@ -2926,7 +2926,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
   },
   {
     id: "mitt-530-tt-2026-ficha-tecnica-precio",
-    marca: "Mitt",
+    marca: "MITT",
     modelo: "530 TT",
     version: "2026",
     cilindradaCc: 530,
@@ -3566,7 +3566,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
   },
   {
     id: "bmw-ce-04-2026-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "CE 04",
     version: "2026",
     cilindradaCc: null,
@@ -3644,7 +3644,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
   },
   {
     id: "bmw-ce-02-2025-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "CE 02",
     version: "2025",
     cilindradaCc: null,
@@ -4363,7 +4363,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
   },
   {
     id: "niu-mqi-gt-evo-2026-ficha-tecnica-precio",
-    marca: "Niu",
+    marca: "NIU",
     modelo: "MQi GT Evo",
     version: "2026",
     cilindradaCc: null,
@@ -4442,7 +4442,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
   },
   {
     id: "niu-fqi-500-2026-ficha-tecnica-precio",
-    marca: "Niu",
+    marca: "NIU",
     modelo: "FQi 500",
     version: "2026",
     cilindradaCc: null,
@@ -5313,7 +5313,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
   },
   {
     id: "mitt-125-gt-max-2025-ficha-tecnica-precio",
-    marca: "Mitt",
+    marca: "MITT",
     modelo: "125 GT-Max",
     version: "2025",
     cilindradaCc: 125,
@@ -5859,7 +5859,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
   },
   {
     id: "swm-superdual-x-2025-ficha-tecnica-precio",
-    marca: "SWM",
+    marca: "SWM Motorcycles",
     modelo: "Superdual X",
     version: "2025",
     cilindradaCc: 600,

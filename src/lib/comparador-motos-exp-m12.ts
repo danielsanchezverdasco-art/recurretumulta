@@ -1354,7 +1354,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
   // ── INDIAN MOTORCYCLE ──
   {
     id: "indian-ftr-1200-sport-2025-ficha-tecnica-precio",
-    marca: "Indian",
+    marca: "Indian Motorcycle",
     modelo: "FTR 1200 Sport",
     version: "FTR 1200 Sport 2025",
     cilindradaCc: 1203,
@@ -1417,7 +1417,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
   },
   {
     id: "indian-sport-chief-rt-2025-ficha-tecnica-precio",
-    marca: "Indian",
+    marca: "Indian Motorcycle",
     modelo: "Sport Chief RT",
     version: "Sport Chief RT 2025",
     cilindradaCc: 1890,
@@ -1480,7 +1480,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
   },
   {
     id: "indian-pursuit-dark-horse-2025-ficha-tecnica-precio",
-    marca: "Indian",
+    marca: "Indian Motorcycle",
     modelo: "Pursuit Dark Horse",
     version: "Pursuit Dark Horse 2025",
     cilindradaCc: 1834,

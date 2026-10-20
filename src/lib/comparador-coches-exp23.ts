@@ -6,7 +6,7 @@ import type { CocheComparador } from "./comparador-coches-data.ts";
 export const COCHES_EXP23: CocheComparador[] = [
   {
     id: "mini-cooper-e-2024-precio-ficha-tecnica",
-    marca: "Mini",
+    marca: "MINI",
     modelo: "Cooper E",
     tipo: "Eléctrico",
     categoria: "Urbano",
@@ -81,7 +81,7 @@ export const COCHES_EXP23: CocheComparador[] = [
   },
   {
     id: "mini-cooper-se-2024-precio-ficha-tecnica",
-    marca: "Mini",
+    marca: "MINI",
     modelo: "Cooper SE",
     tipo: "Eléctrico",
     categoria: "Urbano",
@@ -156,7 +156,7 @@ export const COCHES_EXP23: CocheComparador[] = [
   },
   {
     id: "mini-cooper-c-2024-precio-ficha-tecnica",
-    marca: "Mini",
+    marca: "MINI",
     modelo: "Cooper C",
     tipo: "Gasolina",
     categoria: "Urbano",
@@ -231,7 +231,7 @@ export const COCHES_EXP23: CocheComparador[] = [
   },
   {
     id: "mini-cooper-s-2024-precio-ficha-tecnica",
-    marca: "Mini",
+    marca: "MINI",
     modelo: "Cooper S",
     tipo: "Gasolina",
     categoria: "Urbano",
@@ -306,7 +306,7 @@ export const COCHES_EXP23: CocheComparador[] = [
   },
   {
     id: "mini-cooper-jcw-e-2025-precio-ficha-tecnica",
-    marca: "Mini",
+    marca: "MINI",
     modelo: "Cooper JCW E",
     tipo: "Eléctrico",
     categoria: "Urbano",
@@ -381,7 +381,7 @@ export const COCHES_EXP23: CocheComparador[] = [
   },
   {
     id: "mini-cooper-jcw-2025-precio-ficha-tecnica",
-    marca: "Mini",
+    marca: "MINI",
     modelo: "Cooper JCW",
     tipo: "Gasolina",
     categoria: "Urbano",
@@ -456,7 +456,7 @@ export const COCHES_EXP23: CocheComparador[] = [
   },
   {
     id: "mini-cooper-cabrio-s-2025-precio-ficha-tecnica",
-    marca: "Mini",
+    marca: "MINI",
     modelo: "Cooper Cabrio S",
     tipo: "Gasolina",
     categoria: "Urbano",
@@ -531,7 +531,7 @@ export const COCHES_EXP23: CocheComparador[] = [
   },
   {
     id: "mini-cooper-cabrio-c-2025-precio-ficha-tecnica",
-    marca: "Mini",
+    marca: "MINI",
     modelo: "Cooper Cabrio C",
     tipo: "Gasolina",
     categoria: "Urbano",
@@ -606,7 +606,7 @@ export const COCHES_EXP23: CocheComparador[] = [
   },
   {
     id: "mini-aceman-e-2024-precio-ficha-tecnica",
-    marca: "Mini",
+    marca: "MINI",
     modelo: "Aceman E",
     tipo: "Eléctrico",
     categoria: "SUV",
@@ -681,7 +681,7 @@ export const COCHES_EXP23: CocheComparador[] = [
   },
   {
     id: "mini-aceman-se-2024-precio-ficha-tecnica",
-    marca: "Mini",
+    marca: "MINI",
     modelo: "Aceman SE",
     tipo: "Eléctrico",
     categoria: "SUV",
@@ -756,7 +756,7 @@ export const COCHES_EXP23: CocheComparador[] = [
   },
   {
     id: "mini-aceman-jcw-e-2025-precio-ficha-tecnica",
-    marca: "Mini",
+    marca: "MINI",
     modelo: "Aceman JCW E",
     tipo: "Eléctrico",
     categoria: "SUV",
@@ -831,7 +831,7 @@ export const COCHES_EXP23: CocheComparador[] = [
   },
   {
     id: "mini-countryman-se-all4-2024-precio-ficha-tecnica",
-    marca: "Mini",
+    marca: "MINI",
     modelo: "Countryman SE ALL4",
     tipo: "Eléctrico",
     categoria: "SUV",
@@ -906,7 +906,7 @@ export const COCHES_EXP23: CocheComparador[] = [
   },
   {
     id: "mini-countryman-jcw-all4-2024-precio-ficha-tecnica",
-    marca: "Mini",
+    marca: "MINI",
     modelo: "Countryman JCW ALL4",
     tipo: "Gasolina",
     categoria: "SUV",

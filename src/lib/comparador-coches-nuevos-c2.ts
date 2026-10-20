@@ -515,7 +515,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
   },
   {
     id: "xpeng-p7-plus-long-range-2026-precio-ficha-tecnica",
-    marca: "Xpeng",
+    marca: "XPeng",
     modelo: "P7+ Long Range",
     tipo: "Eléctrico",
     categoria: "Berlina",
@@ -851,7 +851,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
   },
   {
     id: "nio-ec6-2026-precio-ficha-tecnica",
-    marca: "Nio",
+    marca: "NIO",
     modelo: "EC6 2026",
     tipo: "Eléctrico",
     categoria: "SUV",
@@ -935,7 +935,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
   },
   {
     id: "nio-el8-2026-precio-ficha-tecnica",
-    marca: "Nio",
+    marca: "NIO",
     modelo: "EL8 2026",
     tipo: "Eléctrico",
     categoria: "SUV",

@@ -10,7 +10,7 @@ export const MOTOS_EXP_M15: MotoComparador[] = [
   // ── BMW ──
   {
     id: "bmw-f-450-r-2026-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "F 450 R",
     version: "2026",
     categoria: "Naked",

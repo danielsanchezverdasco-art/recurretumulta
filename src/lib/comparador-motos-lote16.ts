@@ -2494,7 +2494,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
   },
   {
     id: "cfmoto-450nk-2026-ficha-tecnica-precio",
-    marca: "CFMOTO",
+    marca: "CFMoto",
     modelo: "450NK",
     version: "2026",
     cilindradaCc: 449,
@@ -2863,7 +2863,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
   },
   {
     id: "bmw-r-12-gs-2025-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "R 12 GS",
     version: "2025",
     cilindradaCc: 1170,
@@ -3269,7 +3269,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
   },
   {
     id: "qjmotor-srt-900sx-2026-ficha-tecnica-precio",
-    marca: "QJMOTOR",
+    marca: "QJMotor",
     modelo: "SRT 900SX",
     version: "2026",
     cilindradaCc: 904,
@@ -3394,7 +3394,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
   },
   {
     id: "bmw-s-1000-xr-2025-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "S 1000 XR",
     version: "2025",
     cilindradaCc: 999,
@@ -4883,7 +4883,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
   },
   {
     id: "indian-scout-sixty-bobber-2025-ficha-tecnica-precio",
-    marca: "Indian",
+    marca: "Indian Motorcycle",
     modelo: "Scout Sixty Bobber",
     version: "2025",
     cilindradaCc: 999,
@@ -4945,7 +4945,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
   },
   {
     id: "indian-scout-sixty-classic-2025-ficha-tecnica-precio",
-    marca: "Indian",
+    marca: "Indian Motorcycle",
     modelo: "Scout Sixty Classic",
     version: "2025",
     cilindradaCc: 999,

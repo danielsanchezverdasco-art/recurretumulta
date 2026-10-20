@@ -130,7 +130,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     velocidadMax: 230,
     bateriaKwh: 81.2,
     cargaRapidaKw: 205,
-    etiquetaDgt: "0",
+    etiquetaDgt: "Cero",
     pros: [
       "601 CV y 795 Nm: el familiar eléctrico más potente de BMW, 0-100 en 3,9 s",
       "506 km de autonomía WLTP con batería de 81,2 kWh útiles: usable para viajar",
@@ -412,7 +412,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     velocidadMax: 170,
     bateriaKwh: 64.7,
     cargaRapidaKw: 130,
-    etiquetaDgt: "0",
+    etiquetaDgt: "Cero",
     pros: [
       "462 km de autonomía WLTP: la mayor de un MINI eléctrico hasta la fecha",
       "Batería de 64,7 kWh útiles con carga rápida de 130 kW: del 10 al 80 % en 29 minutos",
@@ -506,7 +506,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     velocidadMax: 210,
     bateriaKwh: 85,
     cargaRapidaKw: 320,
-    etiquetaDgt: "0",
+    etiquetaDgt: "Cero",
     pros: [
       "629 km de autonomía WLTP: récord entre los SUV eléctricos premium compactos",
       "Arquitectura de 800 V con carga de 320 kW: del 10 al 80 % en 22 minutos",
@@ -600,7 +600,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     velocidadMax: 210,
     bateriaKwh: 85,
     cargaRapidaKw: 320,
-    etiquetaDgt: "0",
+    etiquetaDgt: "Cero",
     pros: [
       "354 CV con tracción total 4MATIC: el GLB eléctrico más potente y equilibrado",
       "613 km de autonomía WLTP: apenas 16 km menos que el 250+ con 82 CV más",
@@ -1082,7 +1082,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     velocidadMax: 210,
     bateriaKwh: 25.7,
     cargaRapidaKw: 50,
-    etiquetaDgt: "0",
+    etiquetaDgt: "Cero",
     pros: [
       "272 CV combinados (1.5 TFSI + motor eléctrico): el Q3 más potente sin ser SQ3",
       "118 km de autonomía eléctrica WLTP: la mayor de un PHEV compacto premium",
@@ -2231,7 +2231,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     imagenInteriorOficial: "/media/cupra-leon-20-tdi-2026-3.webp",
     videoId: null,
     videoCanal: null,
-    marca: "CUPRA",
+    marca: "Cupra",
     modelo: "León 2.0 TDI",
     tipo: "Diésel",
     categoria: "Compacto",
@@ -2336,7 +2336,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
-    marca: "CUPRA",
+    marca: "Cupra",
     modelo: "Formentor VZ5",
     tipo: "Gasolina",
     categoria: "SUV",
