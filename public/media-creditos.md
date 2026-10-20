@@ -7970,3 +7970,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/yadea-y1s-2025-ficha-tecnica-precio-hunt1.webp | https://yadea.net.gr/wp-content/uploads/2022/06/DSC5732-scaled-1.jpg | Yadea Grecia (distribuidor oficial, foto real de estudio) | desconocida |
 | /media/yadea-y1s-2025-ficha-tecnica-precio-hunt2.webp | https://yadea.net.gr/wp-content/uploads/2022/09/Y1S_noutility.png | Yadea (imagen oficial del fabricante) | desconocida |
 | /media/yadea-y1s-2025-ficha-tecnica-precio-hunt3.webp | https://edrivecenter.de/media/image/gallery-tab/EC11671/yadea%20y1s%20gal009.jpg | Yadea (imagen oficial del fabricante, color gris) vía eDriveCenter | desconocida |
+| /media/audi-s3-sportback-2025-precio-ficha-tecnica-hunt1.webp | https://www.carenthusiast.com/audi/audi__s3__2025__001.jpg | Car Enthusiast / Dean Smith | desconocida |
+| /media/audi-s3-sportback-2025-precio-ficha-tecnica-hunt2.webp | https://www.completecar.ie/img/galleries/13211/audi_s3_sportback_grey_2024_014.jpg | CompleteCar.ie / prensa Audi | desconocida |
+| /media/audi-s3-sportback-2025-precio-ficha-tecnica-hunt3.webp | https://www.autojournal.cz/wp-content/uploads/2024/10/audi-s3-2024-8.jpg | AutoJournal.cz | desconocida |
+| /media/mg-zs-hybrid-plus-2026-precio-ficha-tecnica-hunt1.webp | https://images.dailyrevs.com/0000/v3/MG/66cfefb3fd8ba4fe77b6740f/2025-zs-hybrid-mg-1osah3llllm0mg3dhp6ma.jpeg | Prensa MG vía DailyRevs | desconocida |
+| /media/mg-zs-hybrid-plus-2026-precio-ficha-tecnica-hunt2.webp | https://images.dailyrevs.com/0000/v3/MG/66cfefb3fd8ba4fe77b6740f/2025-zs-hybrid-mg-1oj1wssssss0vbzjpfzwubq.jpeg | Prensa MG vía DailyRevs | desconocida |
+| /media/mg-zs-hybrid-plus-2026-precio-ficha-tecnica-hunt3.webp | https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/mg-zs-hybrid-review-2025-008-dash.jpg | Autocar | desconocida |
+| /media/bimota-kb4-2024-ficha-tecnica-precio-hunt1.webp | https://editorial.pxcrush.net/bikesales/general/editorial/bimota-kb4_studio-side-right.jpg?width=1024&height=682 | BikeSales / prensa Bimota | desconocida |
+| /media/bimota-kb4-2024-ficha-tecnica-precio-hunt2.webp | https://young-machine.com/main/wp-content/uploads/2021/12/KB4_DataPhoto-3.jpg?v=1639639034 | Young Machine | desconocida |
+| /media/bimota-kb4-2024-ficha-tecnica-precio-hunt3.webp | https://www.bimota.com/it/en/media_13107d10e99b860fb641b72dfa36339aa848a3548.jpg?width=1200&format=pjpg&optimize=medium | Bimota (web oficial) | desconocida |
+| /media/super-soco-tc125-2025-ficha-tecnica-precio-hunt1.webp | https://ecomotoltd.co.uk/wp-content/uploads/2020/10/Super-Soco-TC-Black.jpg | EcoMoto Ltd / Super Soco | desconocida |
+| /media/super-soco-tc125-2025-ficha-tecnica-precio-hunt2.webp | https://www.go2roues.com/wp-content/uploads/2021/04/super-soco-tc-wanderer-vert-cote-gauche.jpg | Go2Roues / Vmoto Super Soco | desconocida |
+| /media/super-soco-tc125-2025-ficha-tecnica-precio-hunt3.webp | https://topauto.co.za/wp-content/uploads/2023/11/2023-VMoto-Super-Soco-TC-Wanderer.jpg | TopAuto / Vmoto | desconocida |
