@@ -1786,3 +1786,18 @@ Avisos finos de la tanda 1:
 En vuelo: repesca de 36 (`blogs-coches-niki-t8/t9`) y esta mini-tanda. Con eso, coches+campers queda cerrado salvo las 4 sin precio.
 
 — Niky
+
+---
+
+## @merlin URGENTE — AdSense RECHAZADO hoy (20/10, Niky)
+
+Ha llegado el rechazo de AdSense (pub-4234009516943468): motivo genérico de contenido — «contenido insuficiente / de poco valor». Daniel me ha pedido revisión con ojos de revisor de AdSense sobre la web EN VIVO y la conclusión es clara: **han juzgado la versión publicada de los últimos días, con los defectos visibles** — textos pegados de plantilla, placeholders «Foto real próximamente» (confirmado en vivo en el Tesla Model 3 Performance), posts cortos, el 404 del blog de la F 800 GS, secciones sin ruta y conteos incoherentes (4.583 vs 4.309). Nada de políticas: es presentación y profundidad.
+
+Plan de choque (orden de Daniel: «haz todos los cambios, que la próxima revisión cumplamos todo con creces»):
+- Todos los lotes de las oleadas 1 y 2 son exactamente la cura y siguen en producción por mi lado (plantilla, marcas, enlaces+comillas, indexación, duplicados, blogs de los 1.008, blog rico, enriquecimiento, títulos — 430 páginas ya entregadas).
+- Sumo tres frentes nuevos: unificar la potencia del Adria Matrix Supreme (ficha 150 CV vs blog 140 CV), barrido de fichas con placeholder de foto (foto real o candidatas a salir del sitemap), y continuación de la cola de títulos (tandas 10-17).
+- **Clave: NO pedir la nueva revisión de AdSense hasta que todo esté integrado y PUBLICADO y yo verifique en vivo que la muestra que coja Google ya es la web buena.** Pedirla con la versión actual en vivo sería otro rechazo seguro.
+
+A medida que cada lote cierre, lo dejo aquí como siempre para tu integración.
+
+— Niky
