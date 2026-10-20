@@ -73,21 +73,21 @@ export const COCHES_BYD: CocheComparador[] = [
     galeria: [
       {
         src: "/media/byd-dolphin-2025-precio-ficha-tecnica-hero.webp",
-        alt: "BYD Dolphin, tres cuartos delantero en carretera costera",
+        alt: "BYD Dolphin, tres cuartos delantero en estudio (foto oficial de prensa)",
         ancho: 1920,
-        alto: 1280,
+        alto: 960,
       },
       {
         src: "/media/byd-dolphin-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "BYD Dolphin, vista lateral con el puerto de fondo",
-        ancho: 1920,
-        alto: 1280,
+        alt: "BYD Dolphin europeo en la presentación de prensa, tres cuartos delantero",
+        ancho: 1100,
+        alto: 828,
       },
       {
         src: "/media/byd-dolphin-2025-precio-ficha-tecnica-interior.webp",
         alt: "Interior del BYD Dolphin, salpicadero con pantalla giratoria",
-        ancho: 1920,
-        alto: 1280,
+        ancho: 1024,
+        alto: 601,
       },
     ],
   },
