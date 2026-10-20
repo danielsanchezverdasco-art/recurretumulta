@@ -5978,3 +5978,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/swm-varez-125-2023-ficha-tecnica-precio-hunt1.webp | https://www.motodream.ch/product/21874373/swm-varez-125 | MotoDream (foto de prensa SWM) | desconocida |
 | /media/swm-varez-125-2023-ficha-tecnica-precio-hunt2.webp | https://motociclismoonline.com.br/noticias/swm-varez-125-abs-2023-uma-naked-pensada-para-os-mais-jovens/ | Motociclismo Online | desconocida |
 | /media/swm-varez-125-2023-ficha-tecnica-precio-hunt3.webp | https://www.motomag.gr/news/epikairotita/swm-varez-125-me-meiosi-timis-500-eyro | MotoMag.gr | desconocida |
+| /media/hanway-furious-nk-125-2024-ficha-tecnica-precio-hunt1.webp | https://www.canariasenmoto.com/images/varias/9W7A8808.JPG | Hanway / CanariasEnMoto | desconocida |
+| /media/hanway-furious-nk-125-2024-ficha-tecnica-precio-hunt2.webp | https://clubdelmotorista.com/wp-content/uploads/2021/06/hanway-furious-nk-125-s-2021_3.jpg | Hanway / Club del Motorista | desconocida |
+| /media/hanway-furious-nk-125-2024-ficha-tecnica-precio-hunt3.webp | https://www.canariasenmoto.com/images/varias/9W7A8774.JPG | Hanway / CanariasEnMoto | desconocida |
+| /media/lexus-nx-overtrail-2025-precio-ficha-tecnica-hunt1.webp | https://images.dailyrevs.com/0000/v3/Lexus/67108e9de7b9d30e8f197250/2025-nx-overtrail-lexus-3bctfweeeef0he559rw6bfw.jpeg | Lexus / DailyRevs | desconocida |
+| /media/lexus-nx-overtrail-2025-precio-ficha-tecnica-hunt2.webp | https://images.dailyrevs.com/0000/v3/Lexus/67108e9de7b9d30e8f197250/2025-nx-overtrail-lexus-3b9g777777809bptpxl0ac.jpeg | Lexus / DailyRevs | desconocida |
+| /media/lexus-nx-overtrail-2025-precio-ficha-tecnica-hunt3.webp | https://images.dailyrevs.com/0000/v3/Lexus/67108e9de7b9d30e8f197250/2025-nx-overtrail-lexus-3bo0nweeeef0jjch365d0hm.jpeg | Lexus / DailyRevs | desconocida |
+| /media/lynk-co-08-phev-2025-precio-ficha-tecnica-hunt1.webp | https://carnewschina.com/wp-content/uploads/2025/02/lynk_co_08_eur-1-800x450.jpg | Lynk & Co / CarNewsChina | desconocida |
+| /media/lynk-co-08-phev-2025-precio-ficha-tecnica-hunt2.webp | https://carnewschina.com/wp-content/uploads/2025/02/lynk_co_08_eur-3-800x450.jpg | Lynk & Co / CarNewsChina | desconocida |
+| /media/lynk-co-08-phev-2025-precio-ficha-tecnica-hunt3.webp | https://carnewschina.com/wp-content/uploads/2025/02/lynk_co_08_eur-2-800x450.jpg | Lynk & Co / CarNewsChina | desconocida |
+| /media/moto-guzzi-v85-strada-2025-ficha-tecnica-precio-hunt1.webp | https://autoandroad.com/wp-content/uploads/2025/08/IMG_4765.jpg | AutoAndRoad | desconocida |
+| /media/moto-guzzi-v85-strada-2025-ficha-tecnica-precio-hunt2.webp | https://autoandroad.com/wp-content/uploads/2025/08/IMG_4544.jpg | AutoAndRoad | desconocida |
+| /media/moto-guzzi-v85-strada-2025-ficha-tecnica-precio-hunt3.webp | https://motoclubla.com/wp-content/uploads/2025/07/MG_V85_Strada_gallery__1920x1440_1.webp | Moto Guzzi / Moto Club LA | desconocida |
