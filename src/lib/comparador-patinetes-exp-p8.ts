@@ -611,7 +611,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Pop (monomotor)",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 450,
     potenciaPicoW: null,
     autonomiaKm: 45,
@@ -661,7 +661,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Pop Dual Motor",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 900,
     potenciaPicoW: null,
     autonomiaKm: 60,
@@ -709,7 +709,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Mini Special Long Body (monomotor)",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 450,
     potenciaPicoW: null,
     autonomiaKm: 65,
@@ -757,7 +757,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Mini Special Long Body Dual Motor",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 900,
     potenciaPicoW: 2900,
     autonomiaKm: 65,
@@ -805,7 +805,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Aminia Special",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 900,
     potenciaPicoW: null,
     autonomiaKm: 55,
@@ -853,7 +853,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Aminia Long Body (dual motor)",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 1800,
     potenciaPicoW: null,
     autonomiaKm: 65,
@@ -901,7 +901,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Raptor 2",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 1800,
     potenciaPicoW: null,
     autonomiaKm: 45,
@@ -950,7 +950,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Compact",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 2000,
     potenciaPicoW: null,
     autonomiaKm: 86,
@@ -998,7 +998,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Eagle Pro / LTD",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 2200,
     potenciaPicoW: null,
     autonomiaKm: 90,
@@ -1046,7 +1046,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Victory Luxury",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 2400,
     potenciaPicoW: null,
     autonomiaKm: 100,
@@ -1095,7 +1095,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "City",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 2400,
     potenciaPicoW: null,
     autonomiaKm: 90,
@@ -1144,7 +1144,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Sonic Model A",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 5000,
     potenciaPicoW: null,
     autonomiaKm: 125,
@@ -1193,7 +1193,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "New Storm LTD",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 5000,
     potenciaPicoW: null,
     autonomiaKm: 180,
@@ -1241,7 +1241,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Spider Max",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 2400,
     potenciaPicoW: null,
     autonomiaKm: 100,
@@ -1289,7 +1289,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Ultra 2 Upgrade",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 4000,
     potenciaPicoW: null,
     autonomiaKm: 100,
@@ -1338,7 +1338,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Achilleus",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 2800,
     potenciaPicoW: null,
     autonomiaKm: 120,
@@ -1386,7 +1386,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "X2 UP",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 5000,
     potenciaPicoW: null,
     autonomiaKm: 190,
@@ -1434,7 +1434,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kaabo",
     modelo: "Wolf Warrior 11 Plus",
-    precioEur: null,
+    precioEur: null, // Kaabo no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 2400,
     potenciaPicoW: 5400,
     autonomiaKm: 90,
@@ -1482,7 +1482,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kaabo",
     modelo: "Wolf Warrior GT Pro",
-    precioEur: null,
+    precioEur: null, // Kaabo no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 4000,
     potenciaPicoW: 8400,
     autonomiaKm: 180,
@@ -1530,7 +1530,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kaabo",
     modelo: "Mantis 10 Pro",
-    precioEur: null,
+    precioEur: null, // Kaabo no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 2000,
     potenciaPicoW: 3360,
     autonomiaKm: 80,
@@ -1625,7 +1625,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kaabo",
     modelo: "Skywalker 10S",
-    precioEur: null,
+    precioEur: null, // Kaabo no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 1200,
     potenciaPicoW: null,
     autonomiaKm: 90,
@@ -1673,7 +1673,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kaabo",
     modelo: "Wolf Warrior X Pro",
-    precioEur: null,
+    precioEur: null, // Kaabo no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 2200,
     potenciaPicoW: 4950,
     autonomiaKm: 100,
@@ -1768,7 +1768,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kaabo",
     modelo: "Wolf Warrior X",
-    precioEur: 2819.9,
+    precioEur: null, // Kaabo no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 2200,
     potenciaPicoW: null,
     autonomiaKm: 100,
@@ -1790,7 +1790,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "precioEur"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "2200 W nominales y 100 km declarados",
       "Disponible en tienda española (2819,90 €)",
@@ -1801,6 +1801,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       "Precio alto para su segmento",
       "Sin pico de potencia oficial publicado",
       "33,8 kg se notan en el día a día",
+      "Sin precio oficial en España: la marca no publica tarifa oficial para este modelo",
     ],
     veredicto:
       "El Wolf Warrior X es la versión equilibrada del lobo: 2200 W, 100 km declarados y venta en España. Potencia Kaabo sin llegar al GT Pro.",
@@ -1815,7 +1816,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kaabo",
     modelo: "Skywalker 8",
-    precioEur: null,
+    precioEur: null, // Kaabo no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: null,
     autonomiaKm: 30,
@@ -1863,7 +1864,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kaabo",
     modelo: "Skywalker 10",
-    precioEur: null,
+    precioEur: null, // Kaabo no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: null,
     autonomiaKm: 47,
@@ -1910,7 +1911,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Apollo",
     modelo: "Phantom 2.0",
-    precioEur: null,
+    precioEur: 2000, // 2.199 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 3000,
     potenciaPicoW: 3500,
     autonomiaKm: 80,
@@ -1932,7 +1933,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH", "precioEur"],
     pros: [
       "3000 W nominales (3500 W de pico) y 80 km declarados",
       "IP66: de los patinetes más resistentes al agua",
@@ -1942,7 +1943,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     contras: [
       "46 kg: pesado para el día a día",
       "12 horas de carga con cargador estándar",
-      "Precio en España no publicado",
+      "Precio estimado desde la tarifa oficial de EE. UU. (2.199 $): no se vende oficialmente en España",
     ],
     veredicto:
       "El Phantom 2.0 es la reinvención del icono de Apollo: 3000 W, IP66 y 80 km declarados. Un hyper-patinete con acabado de gama alta.",
@@ -1959,7 +1960,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Apollo",
     modelo: "Phantom Stellar",
-    precioEur: null,
+    precioEur: 2400, // 2.699 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 6000,
     potenciaPicoW: 6700,
     autonomiaKm: 90,
@@ -1981,7 +1982,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH", "precioEur"],
     pros: [
       "6000 W nominales y 6700 W de pico: el Apollo más potente",
       "Frenos hidráulicos de 4 pistones a la altura",
@@ -1991,7 +1992,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     contras: [
       "Potencia solo aprovechable en circuito",
       "8 horas de carga",
-      "Precio en España no publicado",
+      "Precio estimado desde la tarifa oficial de EE. UU. (2.699 $): no se vende oficialmente en España",
     ],
     veredicto:
       "El Phantom Stellar es la bestia de Apollo: 6000 W nominales y 6700 W de pico en 42 kg. El rival canadiense de los Dualtron Thunder.",
@@ -2007,7 +2008,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Apollo",
     modelo: "City 2.0 (2026)",
-    precioEur: null,
+    precioEur: 1200, // 1.399 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: null,
     potenciaPicoW: 1900,
     autonomiaKm: 65,
@@ -2029,7 +2030,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Novedad 2026: diseño renovado con IP66",
       "1900 W de pico y 65 km declarados",
@@ -2039,7 +2040,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     contras: [
       "Potencia nominal no publicada por Apollo",
       "33 kg: mejorable para un urbano",
-      "Precio en España no publicado",
+      "Precio estimado desde la tarifa oficial de EE. UU. (1.399 $): no se vende oficialmente en España",
     ],
     veredicto:
       "El City 2.0 es la renovación 2026 del urbano de Apollo: 1900 W de pico, IP66 y 65 km declarados. El commuter premium canadiense.",
@@ -2055,7 +2056,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Apollo",
     modelo: "City Stellar (2026)",
-    precioEur: null,
+    precioEur: 1500, // 2.299 $ CAD (tarifa oficial Canadá) ÷ 1,5798 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: null,
     potenciaPicoW: 2700,
     autonomiaKm: 60,
@@ -2077,7 +2078,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Novedad 2026: doble motor con 2700 W de pico",
       "El City más potente manteniendo el formato urbano",
@@ -2087,7 +2088,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     contras: [
       "Potencia nominal no publicada",
       "37,5 kg para un urbano",
-      "Precio en España no publicado",
+      "Precio estimado desde la tarifa oficial de Canadá (2.299 $ CAD): no se vende oficialmente en España",
     ],
     veredicto:
       "El City Stellar lleva el doble motor al formato City 2026: 2700 W de pico y 60 km declarados. El urbano premium con nervio.",
@@ -2103,7 +2104,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Apollo",
     modelo: "City Pro (2024)",
-    precioEur: null,
+    precioEur: null, // modelo descatalogado; Apollo ya no publica tarifa oficial (verificado 20/10/2026)
     potenciaNominalW: 1000,
     potenciaPicoW: 2000,
     autonomiaKm: 69,
@@ -2151,7 +2152,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Apollo",
     modelo: "Pro (2024)",
-    precioEur: null,
+    precioEur: null, // modelo descatalogado; Apollo ya no publica tarifa oficial (verificado 20/10/2026)
     potenciaNominalW: 2400,
     potenciaPicoW: 6000,
     autonomiaKm: 100,
@@ -2200,7 +2201,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Apollo",
     modelo: "Explore (2024)",
-    precioEur: null,
+    precioEur: null, // modelo descatalogado; Apollo ya no publica tarifa oficial (verificado 20/10/2026)
     potenciaNominalW: 1000,
     potenciaPicoW: 1400,
     autonomiaKm: 55,

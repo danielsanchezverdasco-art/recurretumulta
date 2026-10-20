@@ -12,7 +12,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "Gotrax",
     modelo: "Eclipse",
-    precioEur: null,
+    precioEur: null, // la marca no publica tarifa oficial en su tienda oficial (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: 650,
     autonomiaKm: 45,
@@ -64,7 +64,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "Smartgyro",
     modelo: "Raptor Black",
-    precioEur: null,
+    precioEur: null, // SmartGyro no publica tarifa oficial; solo precios de distribuidor (verificado 20/10/2026)
     potenciaNominalW: 1000,
     potenciaPicoW: 1300,
     autonomiaKm: 45,
@@ -116,7 +116,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "Smartgyro",
     modelo: "Z-One",
-    precioEur: null,
+    precioEur: null, // SmartGyro no publica tarifa oficial; solo precios de distribuidor (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: 400,
     autonomiaKm: 28,
@@ -190,7 +190,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     galeria: [
       { src: "/media/patinetes/inokim-light-2-max-2.webp", alt: "Inokim Light 2 Max plegado en una oficina", ancho: 1200, alto: 800 },
     ],
-    precioEur: null,
+    precioEur: 1100, // 1.195 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
 
     certificadoDgt: null,
     videoId: null,
@@ -198,7 +198,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
 
 
     autonomiaRealKm: 30,
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Menos de 14 kg: de los más ligeros con 461 Wh",
       "Doble freno de tambor, bajo mantenimiento",
@@ -208,6 +208,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
       "34 km/h: por encima del límite VMP",
       "Ruedas de 8,5\": menos confort en baches",
       "Precio premium",
+      "Precio estimado desde la tarifa oficial de EE. UU. (1.195 $): no se vende oficialmente en España",
     ],
     veredicto:
       "El Light 2 Max es el urbano ligero de Inokim: menos de 14 kg con 461 Wh y acabados premium. Ideal si lo subes a diario, aunque sus 34 km/h superan el límite VMP.",
@@ -243,7 +244,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     galeria: [
       { src: "/media/patinetes/inokim-quick-4-hero-2.webp", alt: "Inokim Quick 4 Hero en calle urbana", ancho: 1200, alto: 800 },
     ],
-    precioEur: null,
+    precioEur: null, // la marca no publica tarifa oficial en su tienda oficial (verificado 20/10/2026)
 
     certificadoDgt: null,
     videoId: null,
@@ -298,7 +299,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     galeria: [
       { src: "/media/patinetes/inokim-light-3-2.webp", alt: "Inokim Light 3 2026 con pantalla inteligente", ancho: 1200, alto: 800 },
     ],
-    precioEur: null,
+    precioEur: null, // Inokim no publica tarifa oficial para este modelo (verificado 20/10/2026)
 
     certificadoDgt: null,
     videoId: null,
@@ -314,7 +315,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     ],
     contras: [
       "Especificaciones técnicas aún no publicadas",
-      "Precio sin confirmar",
+      "Sin precio oficial: Inokim no publica tarifa para este modelo",
       "Sin certificado DGT verificado",
     ],
     veredicto:
@@ -351,7 +352,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     galeria: [
       { src: "/media/patinetes/etwow-booster-plus-s-2.webp", alt: "E-TWOW Booster Plus S plegado en el metro", ancho: 1200, alto: 800 },
     ],
-    precioEur: null,
+    precioEur: null, // E-TWOW no publica tarifa oficial en su tienda para este modelo (verificado 20/10/2026)
 
     certificadoDgt: null,
     videoId: null,
@@ -404,7 +405,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     galeria: [
       { src: "/media/patinetes/etwow-s2-booster-plus-2.webp", alt: "E-TWOW S2 Booster Plus en la calle", ancho: 1200, alto: 800 },
     ],
-    precioEur: null,
+    precioEur: null, // E-TWOW no publica tarifa oficial en su tienda para este modelo (verificado 20/10/2026)
 
     certificadoDgt: null,
     videoId: null,
@@ -457,7 +458,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     galeria: [
       { src: "/media/patinetes/etwow-booster-sport-2.webp", alt: "E-TWOW Booster Sport con pantalla LCD", ancho: 1200, alto: 800 },
     ],
-    precioEur: null,
+    precioEur: null, // E-TWOW no publica tarifa oficial en su tienda para este modelo (verificado 20/10/2026)
 
     certificadoDgt: null,
     videoId: null,
@@ -510,7 +511,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     galeria: [
       { src: "/media/patinetes/gotrax-rival-2.webp", alt: "Gotrax Rival plegado en una oficina", ancho: 1200, alto: 800 },
     ],
-    precioEur: null,
+    precioEur: null, // la marca no publica tarifa oficial en su tienda oficial (verificado 20/10/2026)
 
     certificadoDgt: null,
     videoId: null,
@@ -564,7 +565,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     galeria: [
       { src: "/media/patinetes/gotrax-g5-2.webp", alt: "Gotrax G5 con suspensión delantera", ancho: 1200, alto: 800 },
     ],
-    precioEur: null,
+    precioEur: 500, // 525 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
 
     certificadoDgt: null,
     videoId: null,
@@ -572,7 +573,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
 
 
     autonomiaRealKm: 30,
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "461 Wh con ~30 km reales",
       "Doble tambor + freno electromagnético",
@@ -582,6 +583,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
       "32 km/h: por encima del límite VMP",
       "20 kg de peso",
       "Sin app conectada",
+      "Precio estimado desde la tarifa oficial de EE. UU. (525 $): no se vende oficialmente en España",
     ],
     veredicto:
       "El G5 es el Gotrax equilibrado: 461 Wh, triple frenada y suspensión delantera. Sus 32 km/h lo dejan fuera del marco VMP, pero como rutero es sólido.",
@@ -617,7 +619,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     galeria: [
       { src: "/media/patinetes/turboant-m10-2.webp", alt: "TurboAnt M10 en un carril bici", ancho: 1200, alto: 800 },
     ],
-    precioEur: null,
+    precioEur: 400, // 449,98 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
 
     certificadoDgt: null,
     videoId: null,
@@ -625,7 +627,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
 
 
     autonomiaRealKm: 20,
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "13,5 kg con ruedas de 10\" de aire",
       "Motor trasero de 350 W",
@@ -635,6 +637,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
       "32 km/h: supera el límite VMP",
       "Autonomía real de ~20 km",
       "Sin suspensión",
+      "Precio estimado desde la tarifa oficial de EE. UU. (449,98 $): no se vende oficialmente en España",
     ],
     veredicto:
       "El M10 combina ligereza (13,5 kg) con ruedas de aire de 10\": confort sin suspensión. Sus 32 km/h superan el límite VMP, pero en comodidad gana a sus rivales.",
@@ -670,7 +673,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     galeria: [
       { src: "/media/patinetes/turboant-x7-2.webp", alt: "TurboAnt X7 con batería extraíble", ancho: 1200, alto: 800 },
     ],
-    precioEur: null,
+    precioEur: 400, // 449,99 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
 
     certificadoDgt: null,
     videoId: null,
@@ -678,7 +681,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
 
 
     autonomiaRealKm: 17,
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Batería extraíble de 230 Wh",
       "Soporta 125 kg de carga",
@@ -689,6 +692,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
       "Autonomía real de ~17 km",
       "30 km/h: por encima del límite VMP",
       "Batería pequeña",
+      "Precio estimado desde la tarifa oficial de EE. UU. (449,99 $): no se vende oficialmente en España",
     ],
     veredicto:
       "El X7 destaca por su batería extraíble y sus 125 kg de carga máxima. Autonomía justa (~17 km), pero la batería de repuesto duplica el alcance.",
@@ -724,7 +728,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     galeria: [
       { src: "/media/patinetes/razor-e-prime-2.webp", alt: "Razor E Prime plegado", ancho: 1200, alto: 800 },
     ],
-    precioEur: null,
+    precioEur: null, // Razor no publica tarifa oficial vigente para este modelo (verificado 20/10/2026)
 
     certificadoDgt: null,
     videoId: null,
@@ -778,7 +782,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     galeria: [
       { src: "/media/patinetes/razor-e-prime-air-2.webp", alt: "Razor E Prime Air en un parque", ancho: 1200, alto: 800 },
     ],
-    precioEur: null,
+    precioEur: null, // Razor no publica tarifa oficial vigente para este modelo (verificado 20/10/2026)
 
     certificadoDgt: null,
     videoId: null,
@@ -831,7 +835,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     galeria: [
       { src: "/media/patinetes/hiboy-nex3-2.webp", alt: "Hiboy NEX3 en la calle", ancho: 1200, alto: 800 },
     ],
-    precioEur: null,
+    precioEur: null, // Hiboy ya no comercializa este modelo en su tienda oficial (verificado 20/10/2026)
 
     certificadoDgt: null,
     videoId: null,
@@ -884,7 +888,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     galeria: [
       { src: "/media/patinetes/hiboy-nex5-2.webp", alt: "Hiboy NEX5 con doble batería", ancho: 1200, alto: 800 },
     ],
-    precioEur: null,
+    precioEur: null, // Hiboy ya no comercializa este modelo en su tienda oficial (verificado 20/10/2026)
 
     certificadoDgt: null,
     videoId: null,
