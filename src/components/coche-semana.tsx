@@ -6,10 +6,12 @@ import { ArrowRight, Car, GitCompareArrows, Newspaper } from "lucide-react";
 import { getCocheSemana } from "@/lib/coche-semana.ts";
 import { COCHES_CON_ANALISIS } from "@/lib/coches-con-analisis.generated";
 import { hrefDesdeBlog } from "@/lib/blog-redir.generated";
+import { fmtMiles } from "@/lib/formato.ts";
 
 function formatoPrecio(euros: number | null): string {
   if (euros == null) return "—";
-  return euros.toLocaleString("es-ES") + " €";
+  // 20/10/2026 (fix plantilla): fmtMiles agrupa siempre (toLocaleString no agrupaba 4 cifras).
+  return fmtMiles(euros) + " €";
 }
 
 export default function CocheSemana() {

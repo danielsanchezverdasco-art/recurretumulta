@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import { fmtMiles } from "@/lib/formato.ts";
 import { useMemo, useState } from "react";
 import {
   ArrowRight,
@@ -63,7 +64,8 @@ const ETIQUETA_STYLE: Record<CochePresupuesto["etiquetaDgt"], string> = {
 };
 
 function formatoEur(n: number): string {
-  return `${n.toLocaleString("es-ES")} €`;
+  // 20/10/2026 (fix plantilla): fmtMiles agrupa siempre (toLocaleString no agrupaba 4 cifras).
+  return `${fmtMiles(n)} €`;
 }
 
 function TarjetaCoche({ rec }: { rec: Recomendacion }) {

@@ -11,6 +11,7 @@ import DueloVS, { type FilaDuelo, type ItemDuelo } from "@/components/DueloVS.ts
 import { elegirCosaIndice, type NotaCosaInput } from "@/lib/cosa.ts";
 import CompartirBotones from "@/components/CompartirBotones.tsx";
 import EtiquetaDGT from "@/components/EtiquetaDGT.tsx";
+import { fmtMiles } from "@/lib/formato.ts";
 import {
   MOTOS_COMPARADOR,
   MOTOS_PUBLICADAS,
@@ -46,7 +47,8 @@ const FAQS = [
 
 /* ── Formato de cifras: null = "—", estimación = "≈" ── */
 const fmtPrecio = (v: number | null) =>
-  v == null ? "—" : v.toLocaleString("es-ES") + " €";
+  // 20/10/2026 (fix plantilla): fmtMiles agrupa siempre (toLocaleString no agrupaba 4 cifras).
+  v == null ? "—" : fmtMiles(v) + " €";
 const fmtKm = (v: number | null) => (v == null ? "—" : v + " km");
 const fmtS = (v: number | null) =>
   v == null ? "—" : String(v).replace(".", ",") + " s";
@@ -160,7 +162,7 @@ const jsonLd = {
       "@type": "BreadcrumbList",
       itemListElement: [
         { "@type": "ListItem", position: 1, name: "Inicio", item: "https://recurretumulta.online/" },
-        { "@type": "ListItem", position: 2, name: "Novedades Motor", item: "https://recurretumulta.online/blog" },
+        { "@type": "ListItem", position: 2, name: "Fichas Técnicas", item: "https://recurretumulta.online/fichas-tecnicas/" },
         { "@type": "ListItem", position: 3, name: "Comparador de motos eléctricas", item: "https://recurretumulta.online/comparador-motos/" },
       ],
     },

@@ -282,10 +282,11 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
         itemListElement: [
           { "@type": "ListItem", position: 1, name: "Inicio", item: "https://recurretumulta.online/" },
           {
+            // 20/10/2026 (fix plantilla): la miga de las fichas es el hub de Fichas Técnicas, no el comparador.
             "@type": "ListItem",
             position: 2,
-            name: esElectrica ? "Comparador de motos eléctricas" : "Comparador de motos",
-            item: "https://recurretumulta.online/comparador-motos/",
+            name: "Fichas Técnicas",
+            item: "https://recurretumulta.online/fichas-tecnicas/",
           },
           {
             "@type": "ListItem",
@@ -348,8 +349,8 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
             Inicio
           </Link>{" "}
           ·{" "}
-          <Link to="/comparador-motos/" className="hover:underline">
-            {esElectrica ? "Comparador de motos eléctricas" : "Comparador de motos"}
+          <Link to="/fichas-tecnicas/" className="hover:underline">
+            Fichas Técnicas
           </Link>{" "}
           · <span className="text-gray-700">{nombre}</span>
         </nav>

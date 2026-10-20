@@ -12,6 +12,7 @@ import MonoEscondido from "@/components/caza-monos/MonoEscondido.tsx";
 import { fijoId } from "@/components/caza-monos/CazaMonosContext.tsx";
 import CompartirBotones from "@/components/CompartirBotones.tsx";
 import EtiquetaDGT from "@/components/EtiquetaDGT.tsx";
+import { fmtMiles } from "@/lib/formato.ts";
 import {
   COCHES_COMPARADOR,
   type CocheComparador,
@@ -51,7 +52,8 @@ const COMPARATIVAS_POPULARES: Array<[string, string, string]> = [
 
 // ── Formato: null = "—", estimaciones con ≈ ──────────────────────────────────
 const fmtPrecio = (v: number | null) =>
-  v == null ? "—" : v.toLocaleString("es-ES") + " €";
+  // 20/10/2026 (fix plantilla): fmtMiles agrupa siempre (toLocaleString no agrupaba 4 cifras).
+  v == null ? "—" : fmtMiles(v) + " €";
 const fmtKm = (v: number | null) => (v == null ? "—" : v + " km");
 const fmtL = (v: number | null) => (v == null ? "—" : v + " L");
 const fmtS = (v: number | null) =>
@@ -102,7 +104,7 @@ const jsonLd = {
       "@type": "BreadcrumbList",
       itemListElement: [
         { "@type": "ListItem", position: 1, name: "Inicio", item: "https://recurretumulta.online/" },
-        { "@type": "ListItem", position: 2, name: "Novedades Motor", item: "https://recurretumulta.online/blog" },
+        { "@type": "ListItem", position: 2, name: "Fichas Técnicas", item: "https://recurretumulta.online/fichas-tecnicas/" },
         { "@type": "ListItem", position: 3, name: "Comparador de coches", item: "https://recurretumulta.online/comparador-coches/" },
       ],
     },

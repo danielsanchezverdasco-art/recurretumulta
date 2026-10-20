@@ -2,6 +2,10 @@
 // ANALISIS_*: ficha -> post del blog cuando el slug NO coincide con el id (si coincide, se usa el id).
 // FICHA_DE_POST: post del blog -> ruta de su ficha.
 export const ANALISIS_COCHES: Record<string, string> = {
+// 20/10/2026 (fix plantilla): puente manual — el post de la Adria Matrix Supreme existe
+// con slug distinto («-precio-autocaravana») y el mapa, generado el 13/10, no lo traía:
+// sin esta entrada su ficha no mostraba el botón al análisis pese a existir el artículo.
+"adria-matrix-supreme-2026": "adria-matrix-supreme-2026-precio-autocaravana",
 "alfa-romeo-junior-ibrida-145": "alfa-romeo-junior-ibrida-145-precio-ficha-tecnica",
 "citroen-c3-2026": "citroen-c3-2024-precio-ficha-tecnica",
 "dacia-bigster-2025-precio-ficha-tecnica": "dacia-bigster-2026-tce-140-precio-ficha-tecnica",

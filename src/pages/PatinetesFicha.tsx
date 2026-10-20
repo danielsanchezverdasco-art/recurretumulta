@@ -59,7 +59,7 @@ import { anioModelo, productoFicha } from "@/lib/schema-ficha.ts";
 // 07/10/2026 (rendimiento): below-the-fold en lazy para reducir el chunk inicial.
 // 17/10/2026: historial de precios (below-the-fold, lazy).
 const HistorialPreciosLazy = lazy(() => import("@/components/HistorialPrecios.tsx"));
-const SeguridadEuroNCAPLayz = lazy(() => import("@/components/SeguridadEuroNCAP.tsx"));
+
 // 12/10/2026: opiniones de propietarios con fotos (below-the-fold en lazy).
 const ResenasVehiculoLazy = lazy(() => import("@/components/ResenasVehiculo.tsx"));
 // 18/10/2026: audiencia (puntúa, ¿lo comprarías?, duelo, visitas). Solo cliente, tras la carga.
@@ -243,10 +243,11 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
         itemListElement: [
           { "@type": "ListItem", position: 1, name: "Inicio", item: "https://recurretumulta.online/" },
           {
+            // 20/10/2026 (fix plantilla): la miga de las fichas es el hub de Fichas Técnicas, no el comparador.
             "@type": "ListItem",
             position: 2,
-            name: "Comparador de patinetes",
-            item: "https://recurretumulta.online/comparador-patinetes/",
+            name: "Fichas Técnicas",
+            item: "https://recurretumulta.online/fichas-tecnicas/",
           },
           {
             "@type": "ListItem",
@@ -311,8 +312,8 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
             Inicio
           </Link>{" "}
           ·{" "}
-          <Link to="/comparador-patinetes/" className="hover:underline">
-            Comparador de patinetes
+          <Link to="/fichas-tecnicas/" className="hover:underline">
+            Fichas Técnicas
           </Link>{" "}
           · <span className="text-gray-700">{nombre}</span>
         </nav>
@@ -662,9 +663,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
           </section>
         )}
 
-        <Suspense fallback={null}>
-          <SeguridadEuroNCAPLayz fichaId={patinete.id} nombre={nombre} />
-        </Suspense>
+        {/* 20/10/2026 (fix plantilla): sin sección «Seguridad EuroNCAP» en patinetes — Euro NCAP no prueba patinetes. */}
 
         <RivalesCarrusel tipo="patinetes" id={patinete.id} nombre={nombre} rivales={extra.r} />
 

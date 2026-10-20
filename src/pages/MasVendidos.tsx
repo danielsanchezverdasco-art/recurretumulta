@@ -114,10 +114,11 @@ export default function MasVendidos() {
         itemListElement: [
           { "@type": "ListItem", position: 1, name: "Inicio", item: `${DOMAIN}/` },
           {
+            // 20/10/2026 (fix plantilla): la miga de los listados de fichas es el hub de Fichas Técnicas.
             "@type": "ListItem",
             position: 2,
-            name: "Comparador de coches",
-            item: `${DOMAIN}/comparador-coches/`,
+            name: "Fichas Técnicas",
+            item: `${DOMAIN}/fichas-tecnicas/`,
           },
           {
             "@type": "ListItem",
@@ -145,7 +146,7 @@ export default function MasVendidos() {
       <main className="mx-auto max-w-6xl px-4 pb-16 pt-8">
         <nav className="text-xs text-gray-500" aria-label="Migas de pan">
           <Link to="/" className="hover:underline">Inicio</Link> ·{" "}
-          <Link to="/comparador-coches/" className="hover:underline">Comparadores</Link> ·{" "}
+          <Link to="/fichas-tecnicas/" className="hover:underline">Fichas Técnicas</Link> ·{" "}
           <span className="text-gray-700">Más vendidos</span>
         </nav>
 

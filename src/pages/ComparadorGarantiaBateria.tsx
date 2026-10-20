@@ -116,7 +116,7 @@ export default function ComparadorGarantiaBateriaPage() {
       <main className="mx-auto max-w-6xl px-4 pb-16 pt-8">
         <nav className="text-xs text-gray-500" aria-label="Migas de pan">
           <Link to="/" className="hover:underline">Inicio</Link> ·{" "}
-          <Link to="/comparador-coches/" className="hover:underline">Comparador de coches</Link> ·{" "}
+          <Link to="/fichas-tecnicas/" className="hover:underline">Fichas Técnicas</Link> ·{" "}
           <span className="text-gray-700">Garantía de batería</span>
         </nav>
 

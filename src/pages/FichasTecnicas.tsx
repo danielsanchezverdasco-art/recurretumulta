@@ -7,6 +7,7 @@ import { Badge } from "@/components/ui/badge.tsx";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 import EtiquetaDGT from "@/components/EtiquetaDGT.tsx";
+import { fmtMiles } from "@/lib/formato.ts";
 import {
   COCHES_COMPARADOR,
   type CocheComparador,
@@ -46,8 +47,10 @@ type FichaCard = {
 
 const ES_ELECTRICO_COCHE = /eléctrico|enchufable|autonomía extendida/i;
 
+// 20/10/2026 (fix plantilla): fmtMiles agrupa siempre; toLocaleString no agrupaba
+// los precios de 4 cifras en las tarjetas («5800 €» en vez de «5.800 €»).
 const fmtPrecio = (v: number | null) =>
-  v == null ? "Precio no disponible" : v.toLocaleString("es-ES") + " €";
+  v == null ? "Precio no disponible" : fmtMiles(v) + " €";
 const fmtNum = (v: number | null, suf: string) =>
   v == null ? "—" : `${String(v).replace(".", ",")} ${suf}`;
 

@@ -294,6 +294,12 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
     ...(coche.galeria ?? []).map((f) => ({ src: f.src, alt: f.alt, ancho: f.ancho, alto: f.alto })),
   ].filter((f, i, a) => a.findIndex((g) => g.src === f.src) === i);
   const esPhevOEv = /eléctrico|enchufable|autonomía extendida/i.test(coche.tipo);
+  // 20/10/2026 (fix plantilla): supuestos del coste mensual según la energía del coche —
+  // la luz solo se cita si el coche se carga (eléctrico/enchufable/EREV) y la gasolina
+  // solo si quema combustible (un diésel o gasolina puro no paga luz a €/kWh).
+  const costeUsaLuz = esPhevOEv;
+  const costeUsaCombustible =
+    !/eléctrico/i.test(coche.tipo) || /enchufable|autonomía extendida|híbrido/i.test(coche.tipo);
   const datosClave: DatoClave[] = [
     coche.potenciaCv != null && { icono: <Zap className="h-5 w-5" />, valor: fmtCv(coche.potenciaCv), label: "Potencia" },
     coche.autonomiaKm != null && esPhevOEv
@@ -429,10 +435,11 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
         itemListElement: [
           { "@type": "ListItem", position: 1, name: "Inicio", item: "https://recurretumulta.online/" },
           {
+            // 20/10/2026 (fix plantilla): la miga de las fichas es el hub de Fichas Técnicas, no el comparador.
             "@type": "ListItem",
             position: 2,
-            name: "Comparador de coches",
-            item: "https://recurretumulta.online/comparador-coches/",
+            name: "Fichas Técnicas",
+            item: "https://recurretumulta.online/fichas-tecnicas/",
           },
           {
             "@type": "ListItem",
@@ -497,8 +504,8 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
             Inicio
           </Link>{" "}
           ·{" "}
-          <Link to="/comparador-coches/" className="hover:underline">
-            Comparador de coches
+          <Link to="/fichas-tecnicas/" className="hover:underline">
+            Fichas Técnicas
           </Link>{" "}
           · <span className="text-gray-700">{nombre}</span>
         </nav>
@@ -920,10 +927,17 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
               </tbody>
             </table>
             <p className="mt-3 text-xs text-gray-500">
-              Estimación orientativa (octubre 2026): supone 15.000 km al año, luz a{" "}
-              {String(coche.costeMensual.precioKwh).replace(".", ",")} €/kWh y gasolina 95 a{" "}
-              {String(coche.costeMensual.precioGasolinaL).replace(".", ",")} €/l.{" "}
-              {coche.costeMensual.notas} El coste real depende de tu uso, tu tarifa y tu
+              Estimación orientativa (octubre 2026): supone 15.000 km al año
+              {costeUsaLuz && (
+                <>, luz a {String(coche.costeMensual.precioKwh).replace(".", ",")} €/kWh</>
+              )}
+              {costeUsaCombustible && (
+                <>
+                  {costeUsaLuz ? " y" : ","} gasolina 95 a{" "}
+                  {String(coche.costeMensual.precioGasolinaL).replace(".", ",")} €/l
+                </>
+              )}
+              . {coche.costeMensual.notas} El coste real depende de tu uso, tu tarifa y tu
               aseguradora.
             </p>
           </section>
