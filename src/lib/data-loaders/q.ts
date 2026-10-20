@@ -3,6 +3,7 @@
 export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
   blog: {
     "qjmotor-atr-125-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m11.ts"),
+    "qjmotor-atr-125-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t8.ts"),
     "qjmotor-fort-125n-2026-analisis-opinion": () => import("../blog-posts-motos-rescate-m3.ts"),
     "qjmotor-fort-125n-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m11.ts"),
     "qjmotor-fort-250-2026-precio-ficha-tecnica": () => import("../blog-posts-lote10.ts"),
@@ -11,8 +12,10 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "qjmotor-sq-200-2026-ficha-tecnica-precio": () => import("../blog-posts-lote7.ts"),
     "qjmotor-srk-125j-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m9.ts"),
     "qjmotor-srk-125s-precio-garantia": () => import("../blog-posts-lote14.ts"),
+    "qjmotor-srk-400-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t8.ts"),
     "qjmotor-srk-400rs-4-cilindros-precio": () => import("../blog-posts-lote14.ts"),
     "qjmotor-srk-550-rs-2026-ficha-tecnica-precio": () => import("../blog-posts-lote7.ts"),
+    "qjmotor-srk-600-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t8.ts"),
     "qjmotor-srk-800-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m3.ts"),
     "qjmotor-srk-800rr-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m3.ts"),
     "qjmotor-srk-900-2026-ficha-tecnica-precio": () => import("../blog-posts-lote7.ts"),
@@ -21,6 +24,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "qjmotor-srk600-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m9.ts"),
     "qjmotor-srt-550-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m3.ts"),
     "qjmotor-srt-600sx-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m9.ts"),
+    "qjmotor-srt-700-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t8.ts"),
     "qjmotor-srt-700-on-road-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m3.ts"),
     "qjmotor-srt-800-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m23.ts"),
     "qjmotor-srt-800-sx-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m23.ts"),

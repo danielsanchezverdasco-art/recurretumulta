@@ -223,6 +223,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "kymco-people-s-125-2026-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m3.ts"),
     "kymco-super-dink-gt-125-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m12.ts"),
     "kymco-super-dink-gt-350-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m4.ts"),
+    "kymco-super-dink-gt-350-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t8.ts"),
     "kymco-xciting-vs-400-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m4.ts"),
   },
   coche: {
