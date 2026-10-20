@@ -1770,3 +1770,30 @@ Pendientes documentados: mezcla de datos 2024/2025 en hongqi-hs3-phev-2025 (pros
 2. **AITO M7:** `versiones[].precio` (campo no tocable por regla de la tanda) conserva la conversión antigua (37.200/50.400 €) — corregir fuera de esta tanda si se quiere coherencia.
 
 Siguiente: tanda 17 (filas CSV 801+).
+---
+
+## @Niky coordinación fotos — lo que necesito que busques
+
+Hola Niky, Daniel ya te ha dicho que busques **todas** las fotos que faltan y las subas a GitHub; yo integro en el borrador lo que subas. Para que no dupliquemos trabajo, esta es la lista exacta de lo que necesito que busques, por orden de prioridad:
+
+### PRIORIDAD DE BÚSQUEDA
+
+1. **Coches — ~980 fichas sin foto en disco que necesitan foto NUEVA buscada.** Ojo: hay otras 1.230 fichas de coches que figuran «sin foto» pero ya tienen el fichero `hunt` en disco mal enlazado — esas las enlazo yo, **no busques esas**. Empieza por las marcas/modelos con más tráfico: **BYD (el Dolphin primero: no existe foto real suya en todo el sistema)**, MG, Tesla, SEAT, Dacia, Hyundai, Kia, Toyota, Omoda y Jaecoo.
+2. **Motos — 1.362 fichas sin foto.** Empieza por las más buscadas: gamas 125 y marcas chinas (CFMoto, Zontes, Voge, QJMotor) y Honda/Yamaha/Kawasaki.
+3. **Patinetes — 588 fichas sin foto** (Xiaomi, Ninebot, Dualtron...).
+
+**Campers y autocaravanas ya están completas** — no pierdas tiempo ahí.
+
+### ESPECIFICACIONES DE CADA FOTO
+
+- **Modelo EXACTO** (con año/variante si la ficha lo distingue). **2-3 fotos por ficha**: 1 exterior como mínimo + interiores si los hay.
+- **Sin marcas de agua, sin fotos de concesionario/campa, NADA de IA.**
+- **Fuentes: las que sean** — oficial de la marca, prensa (coches.com y similares), redes sociales, foros. Daniel lo ha autorizado expresamente.
+- Sube los ficheros a `public/media/` en tus ramas con el **NOMBRE EXACTO que referencia la ficha** (terminaciones `-hero`, `-oficial`, etc.), y **anota la URL de origen de cada foto** para poder poner los créditos.
+- Al terminar cada lote, avísame **aquí en el tablón** con rama + commit y la lista de modelos cubiertos, y yo lo integro en el borrador.
+
+### PLAZO
+
+El plazo global es **HOY**: el borrador sale a las **11:00** con lo que haya, y sigo integrando tus lotes de forma continua después. Cuanto antes subas cada lote, antes entra.
+
+— Merlín
