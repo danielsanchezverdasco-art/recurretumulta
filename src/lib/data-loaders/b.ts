@@ -168,6 +168,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "bmw-m240i-xdrive-2026-precio-ficha-tecnica": () => import("../blog-posts-batch2b-1.ts"),
     "bmw-m3-competition-touring-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp21.ts"),
     "bmw-m340i-xdrive-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp21.ts"),
+    "bmw-m340i-xdrive-touring-2025-precio-familiar-deportivo": () => import("../blog-posts-bmw-a.ts"),
     "bmw-m4-cs-2024-precio-ficha-tecnica": () => import("../blog-posts-batch2b-1.ts"),
     "bmw-m440i-xdrive-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp9.ts"),
     "bmw-m5-berlina-2026-precio-ficha-tecnica": () => import("../blog-posts-bmw-a.ts"),
