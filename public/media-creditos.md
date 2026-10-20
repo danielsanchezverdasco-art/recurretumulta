@@ -6571,3 +6571,12 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/askoll-ngs2-2025-ficha-tecnica-precio-hunt1.webp | https://www.savitron.de/cdn/shop/files/ngs2-colori-azzurro-202206.png?v=1720087332&width=1946 | Savitron (distribuidor Askoll) | desconocida |
 | /media/askoll-ngs2-2025-ficha-tecnica-precio-hunt2.webp | https://www.savitron.de/cdn/shop/files/ngs2-gallery-10-zoom.jpg?v=1720087332&width=1946 | Savitron (distribuidor Askoll) | desconocida |
 | /media/askoll-ngs2-2025-ficha-tecnica-precio-hunt3.webp | https://melismotors.be/wp-content/uploads/2024/10/NGS2-Titanium-Matt.png | Melis Motors | desconocida |
+| /media/renault-megane-e-tech-2026-lfp-67-kwh-precio-ficha-tecnica-hunt1.webp | https://www.autotypos.gr/wp-content/uploads/2026/06/Renault-Megane-E-Tech-1.jpg | Renault / Autotypos | desconocida |
+| /media/renault-megane-e-tech-2026-lfp-67-kwh-precio-ficha-tecnica-hunt2.webp | https://autoblog.md/wp-content/uploads/2026/06/New-2026-Renault-Megane-E-Tech-electric_4.jpg | Renault / Autoblog.md | desconocida |
+| /media/renault-megane-e-tech-2026-lfp-67-kwh-precio-ficha-tecnica-hunt3.webp | https://autoblog.md/wp-content/uploads/2026/06/New-2026-Renault-Megane-E-Tech-electric_22.jpg | Renault / Autoblog.md | desconocida |
+| /media/zero-dsr-x-2025-ficha-tecnica-precio-hunt1.webp | https://images5.1000ps.net/images_bikekat/2026/199-Zero/11297-DSR_X/003-639038253034423567-zero-dsr-x.jpg?width=1200&height=740&mode=crop&format=jpg | Zero Motorcycles / 1000PS | desconocida |
+| /media/zero-dsr-x-2025-ficha-tecnica-precio-hunt2.webp | https://www.webbikeworld.com/wp-content/uploads/2023/07/2023_Zero_DSR_X_13-816x611.jpg | Zero Motorcycles / WebBikeWorld | desconocida |
+| /media/zero-dsr-x-2025-ficha-tecnica-precio-hunt3.webp | https://www.bike-ev.com/wp-content/uploads/2026/02/zero-dsrx-2026-1.jpg | Zero Motorcycles / Bike-EV | desconocida |
+| /media/askoll-es2-evo-2025-ficha-tecnica-precio-hunt1.webp | https://www.askollelectric.com/app/uploads/2026/04/Askoll_eS2-EVOlution-2.8_silver-satin-4_big-2-scaled.png | Askoll Electric (web oficial) | desconocida |
+| /media/askoll-es2-evo-2025-ficha-tecnica-precio-hunt2.webp | https://www.go2roues.com/wp-content/uploads/2022/05/askoll-es2-evolution-silver-satin-trois-quart-face-droit.jpg | Askoll / Go2roues | desconocida |
+| /media/askoll-es2-evo-2025-ficha-tecnica-precio-hunt3.webp | https://www.xrmotos.es/wp-content/uploads/eS2evo-1-705x531.jpg | Askoll / XR Motos | desconocida |
