@@ -189,6 +189,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "Más práctico para el día a día que sus hermanos mayores",
     ],
     contras: [
+      "Sin precio oficial: NAMI no publica una tarifa oficial verificable del Klima",
       "Precio en Europa sin confirmar de forma estable: varía mucho por importador",
       "38 kg siguen siendo muchos para cargarlo a diario",
       "No homologado como VMP para circular a su velocidad máxima en España",
@@ -351,6 +352,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "Ideal para quien quiere potencia sin subir al segmento Burn-e",
     ],
     contras: [
+      "Sin precio oficial: NAMI no publica una tarifa oficial verificable del Blast Max",
       "Precio en Europa no publicado de forma oficial",
       "45 kg: sigue sin ser portable",
       "No es un VMP legal a su velocidad máxima en España",
@@ -591,6 +593,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "Pantalla TFT con NFC",
     ],
     contras: [
+      "Sin precio oficial: Teverun no publica una tarifa oficial verificable del Blade GT II",
       "Precio en Europa variable según importador y versión de batería",
       "La versión de 26Ah se queda corta para el motor que lleva",
       "Sin homologación DGT: en España, limitado a 25 km/h",
@@ -723,6 +726,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "Buena opción como segundo patinete",
     ],
     contras: [
+      "Sin precio oficial: Teverun no publica una tarifa oficial verificable del Blade Q",
       "30 km declarados se quedan cortos para commuters largos",
       "Potencia del motor no publicada por la marca",
       "A 33 km/h no es legal en vía pública española sin limitar",
@@ -789,6 +793,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "Precio de acceso a la tracción total",
     ],
     contras: [
+      "Sin precio oficial: Teverun no publica una tarifa oficial verificable del Blade Q Pro",
       "La potencia pico no está publicada",
       "A 50 km/h no es un VMP legal en España",
       "La autonomía real con los dos motores cae rápido",
@@ -856,6 +861,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "Plegado en un clic, ideal para combinar con transporte público",
     ],
     contras: [
+      "Sin precio oficial: sin tarifa oficial verificable del Inmotion Air en Europa",
       "35 km declarados: justos si tu trayecto supera los 10 km",
       "Sin suspensión: los baches se notan",
       "El freno de tambor delantero exige más mantenimiento que el disco",
@@ -915,6 +921,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "Rueda trasera maciza: cero pinchazos atrás",
     ],
     contras: [
+      "Sin precio oficial: sin tarifa oficial verificable del Inmotion Air Pro en Europa",
       "8,5 horas de carga: hay que cargarlo toda la noche",
       "La rueda trasera maciza transmite más vibración",
       "A 35 km/h no es legal en vía pública española",
@@ -937,7 +944,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     videoCanal: "Scoota Gang",
     marca: "Inmotion",
     modelo: "RS Lite",
-    precioEur: null,
+    precioEur: 2492.63, // tarifa oficial Europa (tienda oficial Inmotion Francia) (verificado 20/10/2026),
     potenciaNominalW: 3000,
     potenciaPicoW: 6000,
     autonomiaKm: 120,
@@ -975,7 +982,6 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     ],
     contras: [
       "52,6 kg: un mueble con ruedas",
-      "Precio solo en dólares (~3.000 $): en Europa, a precio de importador",
       "Ilegal en vía pública española a su velocidad máxima",
       "El RS normal ofrece más por poco más",
       "Mantenimiento y recambios de nicho",
@@ -1002,7 +1008,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     videoCanal: "Ginger On Wheels",
     marca: "Inmotion",
     modelo: "RS Midnight",
-    precioEur: null,
+    precioEur: 3600, // 3.999 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena,
     potenciaNominalW: 4000,
     potenciaPicoW: 8400,
     autonomiaKm: 96,
@@ -1030,7 +1036,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["precioEur", "autonomiaRealKm"],
     pros: [
       "Doble motor de 2.000 W (8.400 W de pico): aceleración brutal",
       "Batería de 2.880 Wh (72V 40Ah)",
@@ -1039,7 +1045,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "Electrónica InMotion, de las más fiables del segmento",
     ],
     contras: [
-      "58 kg y ~4.000 $: una moto sin matrícula",
+      "El precio es una estimación: conversión de la tarifa oficial de EE. UU. (3.999 $); Inmotion no vende el RS Midnight oficialmente en España",
       "En España solo tiene sentido en circuito privado",
       "El seguro y la responsabilidad a 96 km/h son un problema real",
       "Cargar 2.880 Wh lleva una eternidad sin cargador rápido",
@@ -1165,6 +1171,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "Buena eficiencia: muchos km por cada carga",
     ],
     contras: [
+      "Sin precio oficial: Inmotion no publica una tarifa oficial vigente verificable del L9",
       "Precio en euros no publicado: solo referencia en dólares",
       "Estética conservadora",
       "Sin suspensión delantera de nivel",
@@ -1190,7 +1197,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     videoCanal: "Top Tech ChoiX",
     marca: "Hiboy",
     modelo: "S2 Lite",
-    precioEur: null,
+    precioEur: 200, // 269,99 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena,
     potenciaNominalW: 250,
     potenciaPicoW: 400,
     autonomiaKm: 17,
@@ -1218,7 +1225,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["precioEur", "autonomiaRealKm"],
     pros: [
       "9,9 kg: lo subes por escaleras sin enterarte",
       "Ideal como patinete de último kilómetro",
@@ -1227,6 +1234,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "Suficiente para trayectos cortos y llanos",
     ],
     contras: [
+      "El precio es una estimación: conversión de la tarifa oficial de EE. UU. (269,99 $); Hiboy no vende oficialmente en España",
       "17 km declarados: autonomía muy justa",
       "250 W: las cuestas se le atragantan",
       "Batería de 180 Wh: pequeña hasta para su segmento",
@@ -1254,7 +1262,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     videoCanal: "RK9 Rides",
     marca: "Hiboy",
     modelo: "Max Pro",
-    precioEur: null,
+    precioEur: 600, // 656,98 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena,
     potenciaNominalW: 500,
     potenciaPicoW: 650,
     autonomiaKm: 75,
@@ -1282,7 +1290,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["precioEur", "autonomiaRealKm"],
     pros: [
       "720 Wh (48V 15Ah): 75 km declarados",
       "500 W (650 W de pico): buen empuje urbano",
@@ -1291,6 +1299,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "Hiboy tiene buena disponibilidad de repuestos en EE. UU. y UE",
     ],
     contras: [
+      "El precio es una estimación: conversión de la tarifa oficial de EE. UU. (656,98 $); Hiboy no vende oficialmente en España",
       "A 35 km/h no es legal en vía pública española",
       "La autonomía real ronda los 50 km en uso mixto",
       "El asiento no está incluido de serie",
@@ -1355,6 +1364,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "Chasis robusto pensado para uso intensivo",
     ],
     contras: [
+      "Sin precio oficial: no se ha verificado tarifa oficial vigente de Hiboy para el Titan",
       "35 kg: pesado para moverlo a mano",
       "A 45 km/h no es un VMP legal en España",
       "Precio superior a la media de Hiboy",
@@ -1419,6 +1429,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "Concepto distinto: casi una mini-bici eléctrica",
     ],
     contras: [
+      "Sin precio oficial: Hiboy no publica una tarifa oficial verificable del Ecom 14",
       "26,5 kg con sillín: no es para subirlo a casa a diario",
       "350 W: justito con pasajero o cuestas fuertes",
       "A 35 km/h no es legal en vía pública española",
@@ -1488,6 +1499,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "Precio habitualmente agresivo",
     ],
     contras: [
+      "Sin precio oficial: no se ha verificado tarifa oficial vigente de Hiboy para el VE1 Pro nuevo",
       "A 37 km/h no es VMP legal en España",
       "Acabados básicos",
       "La autonomía real en modo rápido baja a 30 km",
@@ -1552,6 +1564,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "Buena opción para repartidores urbanos",
     ],
     contras: [
+      "Sin precio oficial: Hiboy no publica una tarifa oficial verificable del U2 Pro",
       "36,6 kg: un armario con ruedas",
       "A 40 km/h no es legal en vía pública española",
       "El sillín penaliza el plegado",
@@ -1616,6 +1629,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "IPX4: aguanta lluvia ligera",
     ],
     contras: [
+      "Sin precio oficial: no se ha verificado tarifa oficial vigente de Hiboy para el KS4",
       "27 km declarados: autonomía justa",
       "Las ruedas macizas transmiten todos los baches",
       "100 kg de carga máxima: justito para riders pesados",
@@ -1677,6 +1691,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "Plegado ultracompacto",
     ],
     contras: [
+      "Sin precio oficial: iScooter no publica una tarifa oficial verificable del i8",
       "20 km declarados: solo para trayectos muy cortos",
       "Batería de 187 Wh: se agota rápido",
       "A 30 km/h hay que limitarlo para España",
@@ -1748,6 +1763,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "Marca con distribución europea consolidada",
     ],
     contras: [
+      "Sin precio oficial: iScooter no publica una tarifa oficial verificable del i10 Plus",
       "La potencia pico no está publicada",
       "A 40 km/h no es VMP legal en España",
       "Los frenos de serie son mejorables según usuarios",
@@ -1819,6 +1835,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "Chasis reforzado",
     ],
     contras: [
+      "Sin precio oficial: iScooter no publica una tarifa oficial verificable del iX4",
       "Peso no publicado: se nota pesado en mano",
       "A 45 km/h no es legal en vía pública española",
       "La autonomía real off-road cae mucho",
@@ -1961,6 +1978,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "El doble motor más barato del catálogo europeo",
     ],
     contras: [
+      "Sin precio oficial: iScooter no publica una tarifa oficial verificable del iX7 Pro",
       "~30 kg: no es para llevarlo en brazos",
       "Batería de 48V 15-17,5Ah según versión: conviene confirmar cuál compras",
       "A 60 km/h, ilegal en vía pública española",
@@ -2189,7 +2207,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     videoCanal: "GSMaholic",
     marca: "Kukirin",
     modelo: "M4 Max",
-    precioEur: 524,
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
     potenciaNominalW: 800,
     potenciaPicoW: 1000,
     autonomiaKm: 64,
@@ -2217,7 +2235,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["precioEur", "autonomiaRealKm"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "800 W (1.000 W de pico) por ~524 €: difícil de batir",
       "874 Wh (48V 18,2Ah): 64 km declarados",
@@ -2226,6 +2244,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "Buena base para iniciarse en KuKirin",
     ],
     contras: [
+      "Sin precio oficial: KuKirin no publica un PVP oficial verificable del M4 Max en España",
       "A 45 km/h no es VMP legal en España",
       "Acabados de gama de entrada",
       "La suspensión es básica",
@@ -2257,7 +2276,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     videoCanal: "GSMaholic",
     marca: "Kukirin",
     modelo: "A1",
-    precioEur: 439,
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
     potenciaNominalW: 800,
     potenciaPicoW: null,
     autonomiaKm: 45,
@@ -2285,7 +2304,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["precioEur", "autonomiaRealKm"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "800 W por ~439 €: potencia barata",
       "624 Wh (48V 13Ah): 45 km declarados",
@@ -2294,6 +2313,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "Buena opción como primer patinete potente",
     ],
     contras: [
+      "Sin precio oficial: KuKirin no publica una tarifa oficial verificable del A1",
       "A 45 km/h no es legal en vía pública española",
       "45 km declarados se quedan cortos para commuters",
       "Componentes básicos",

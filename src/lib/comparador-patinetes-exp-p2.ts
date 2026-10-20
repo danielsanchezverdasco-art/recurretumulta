@@ -2562,7 +2562,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: "Ride Electric",
     marca: "Vsett",
     modelo: "11+ Super 72V",
-    precioEur: 4200,
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
     potenciaNominalW: 4000,
     potenciaPicoW: 6960,
     autonomiaKm: 90,
@@ -2590,7 +2590,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["precioEur", "potenciaNominalW", "autonomiaRealKm"],
+    aprox: ["potenciaNominalW", "autonomiaRealKm"],
     pros: [
       "Doble motor de 2000 W (6960 W de pico)",
       "Batería LG de 72 V y 35 Ah (2520 Wh): 90 km declarados",
@@ -2602,7 +2602,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     ],
     contras: [
       "Pesa 65 kg",
-      "4.199,90 €: precio de moto eléctrica",
+      "Sin precio oficial: VSETT no publica una tarifa oficial verificable del 11+ Super 72",
       "No es un VMP legal: solo circuito privado",
       "Velocidad máxima no publicada",
       "Tiempo de carga no publicado",
