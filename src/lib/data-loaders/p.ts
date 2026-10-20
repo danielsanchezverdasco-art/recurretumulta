@@ -60,6 +60,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "peugeot-salon-paris-2026-stand-dos-concepts": () => import("../blog-posts-octubre-2026.ts"),
     "peugeot-traveller-camper-2026-analisis-opinion": () => import("../blog-posts-campers-nuevos-7.ts"),
     "peugeot-tweet-125-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m3.ts"),
+    "piaggio-1-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t10.ts"),
     "piaggio-1-active-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m1.ts"),
     "piaggio-1-plus-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m5.ts"),
     "piaggio-beverly-310-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m4.ts"),

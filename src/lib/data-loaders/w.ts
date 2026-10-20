@@ -22,6 +22,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "wey-v9x-2026-precio-ficha-tecnica": () => import("../blog-posts-wey-a.ts"),
     "wiesmann-project-thunderball-2025-precio-ficha-tecnica": () => import("../blog-posts-wiesmann-a.ts"),
     "wottan-rebbe-401-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m3.ts"),
+    "wottan-sixteen-125-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t10.ts"),
     "wottan-storm-125-2025-precio": () => import("../blog-posts-motos-exp-m28.ts"),
     "wottan-storm-s-300-2026-precio-ficha-tecnica": () => import("../blog-posts-lote10.ts"),
     "wottan-storm-x-125-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m3.ts"),

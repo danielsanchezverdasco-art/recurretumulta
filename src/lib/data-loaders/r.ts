@@ -170,6 +170,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "royal-alloy-tg-125-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m4.ts"),
     "royal-alloy-tg-300-s-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m4.ts"),
     "royal-enfield-bear-650-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m8.ts"),
+    "royal-enfield-bear-650-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t10.ts"),
     "royal-enfield-bullet-350-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m8.ts"),
     "royal-enfield-bullet-650-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m12.ts"),
     "royal-enfield-classic-350-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m4.ts"),

@@ -39,6 +39,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "emove-touring": () => import("../blog-posts-patinetes-exp-p9.ts"),
     "energica-ego-plus-2025-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "energica-eva-esseesse9-plus-2025-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
+    "energica-eva-ribelle-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t10.ts"),
     "entornos-escolares-seguros-octubre": () => import("../blog-posts-db.ts"),
     "etrusco-t-7400-sb-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin5.ts"),
     "etwow-booster-plus-s": () => import("../blog-posts-patinetes-exp-p9.ts"),
