@@ -42,6 +42,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "opel-combo-electrico-2025-precio-ficha-tecnica": () => import("../blog-posts-opel-a.ts"),
     "opel-combo-xl-diesel-130-2025-precio-ficha-tecnica": () => import("../blog-posts-opel-a.ts"),
     "opel-corsa-12-100-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp13.ts"),
+    "opel-corsa-12-turbo": () => import("../blog-posts-coches-niki-t2.ts"),
     "opel-corsa-2026-precio-ficha-tecnica": () => import("../blog-posts-nuevos-c3.ts"),
     "opel-corsa-electrico-2025-precio-ficha-tecnica": () => import("../blog-posts-opel-a.ts"),
     "opel-corsa-gse-2026-precio-ficha-tecnica": () => import("../blog-posts-opel-a.ts"),

@@ -48,6 +48,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "jeep-avenger-4xe-145-2026-precio-ficha-tecnica": () => import("../blog-posts-jeep-a.ts"),
     "jeep-avenger-e-hybrid-110-2026-precio-ficha-tecnica": () => import("../blog-posts-jeep-a.ts"),
     "jeep-avenger-electric-156-2026-precio-ficha-tecnica": () => import("../blog-posts-jeep-a.ts"),
+    "jeep-avenger-electrico-156": () => import("../blog-posts-coches-niki-t2.ts"),
     "jeep-avenger-gasolina-100-2026-precio-ficha-tecnica": () => import("../blog-posts-jeep-a.ts"),
     "jeep-cherokee-2026-precio-ficha": () => import("../blog-posts-lote13.ts"),
     "jeep-compass-13-t-130-2024-precio-ficha-tecnica": () => import("../blog-posts-coches-exp8.ts"),

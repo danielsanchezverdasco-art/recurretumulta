@@ -117,6 +117,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "ford-mustang-mach-e-rally-2025-precio-ficha-tecnica": () => import("../blog-posts-ford-a.ts"),
     "ford-nugget-active-2026-analisis-opinion": () => import("../blog-posts-campers-niky.ts"),
     "ford-nugget-trail-2026-analisis-opinion": () => import("../blog-posts-campers-niky.ts"),
+    "ford-puma-10-ecoboost-mhev": () => import("../blog-posts-coches-niki-t2.ts"),
     "ford-puma-gen-e-2025-precio-ficha-tecnica": () => import("../blog-posts-ford-a.ts"),
     "ford-puma-gen-e-baja-precio-octubre-2026": () => import("../blog-posts-flash-2026.ts"),
     "ford-puma-mhev-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp9.ts"),

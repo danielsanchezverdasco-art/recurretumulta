@@ -11,6 +11,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "peugeot-2008-2025-precio-ficha-tecnica": () => import("../blog-posts-nuevos-c3.ts"),
     "peugeot-2008-hibrido-145-2026-precio-ficha-tecnica": () => import("../blog-posts-peugeot-a.ts"),
     "peugeot-208-12-puretech-100-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp8.ts"),
+    "peugeot-208-2026": () => import("../blog-posts-coches-niki-t2.ts"),
     "peugeot-208-hibrido-110-2026-precio-ficha-tecnica": () => import("../blog-posts-peugeot-a.ts"),
     "peugeot-3008-12-hybrid-136-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp8.ts"),
     "peugeot-3008-2025-precio-ficha-tecnica": () => import("../blog-posts-nuevos-c3.ts"),
