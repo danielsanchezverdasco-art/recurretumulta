@@ -6047,3 +6047,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/moto-morini-corsaro-750-sport-2025-ficha-tecnica-precio-hunt1.webp | https://motomorini.eu/wp-content/uploads/2024/10/corsaro-sport-profile-right-1-1920x1334.png | Moto Morini (web oficial) | desconocida |
 | /media/moto-morini-corsaro-750-sport-2025-ficha-tecnica-precio-hunt2.webp | https://www.revzilla.com/blog_content_image/image/92515/gallery/2025_moto_morini_corsaro_sport.jpg | RevZilla | desconocida |
 | /media/moto-morini-corsaro-750-sport-2025-ficha-tecnica-precio-hunt3.webp | https://nieuwsmotor.nl/wp-content/themes/yootheme/cache/70/Moto-Morini_Corsaro_Sport_2024-3-70153f88.jpeg | NieuwsMotor | desconocida |
+| /media/honda-hr-v-ehev-2024-precio-ficha-tecnica-hunt1.webp | https://en.wheelz.me/wp-content/uploads/2021/04/331856_Honda_HR-V_e_HEV_2021.jpg | Wheelz / Prensa Honda | desconocida |
+| /media/honda-hr-v-ehev-2024-precio-ficha-tecnica-hunt2.webp | https://img.icarcdn.com/autospinn/body/000000441383_a0810e36_a6e9_476c_b694_ec402ef68a8f.jpg | Autospinn / Prensa Honda | desconocida |
+| /media/honda-hr-v-ehev-2024-precio-ficha-tecnica-hunt3.webp | https://blogadmin.automart.ph/content/images/2021/11/si-04_2022_honda_hr-v_now_in_southeast_asia_is_philippines_next_automart_1200.jpg | Automart.ph / Prensa Honda | desconocida |
+| /media/lynk-co-07-emp-2025-precio-ficha-tecnica-hunt1.webp | https://carnewschina.com/wp-content/uploads/2025/07/008d7hsdgy1i3g0w02nexj34mo2p8x6s-scaled.jpg | CarNewsChina / Lynk & Co | desconocida |
+| /media/lynk-co-07-emp-2025-precio-ficha-tecnica-hunt2.webp | https://carnewschina.com/wp-content/uploads/2025/07/1000021964-800x655.jpg | CarNewsChina / Lynk & Co | desconocida |
+| /media/lynk-co-07-emp-2025-precio-ficha-tecnica-hunt3.webp | https://carnewschina.com/wp-content/uploads/2025/07/1000021966-800x751.jpg | CarNewsChina / Lynk & Co | desconocida |
+| /media/moto-morini-alltrhike-450-2026-ficha-tecnica-precio-hunt1.webp | https://en.engear.tv/wp-content/uploads/2026/03/Moto-Morini-Alltrhike-450-2026-06.jpg | enGear / Moto Morini | desconocida |
+| /media/moto-morini-alltrhike-450-2026-ficha-tecnica-precio-hunt2.webp | https://www.devittinsurance.com/wp-content/uploads/2026/02/Moto-Morini-Alltrhike-450-12-710x473.jpg | Devitt Insurance / Moto Morini | desconocida |
+| /media/moto-morini-alltrhike-450-2026-ficha-tecnica-precio-hunt3.webp | https://www.motoplanete.com/morini/zoom-700px/10968-450-Alltrhike-2026-1000px.webp | Motoplanete / Moto Morini | desconocida |
+| /media/sur-ron-light-bee-x-2025-ficha-tecnica-precio-hunt1.webp | https://voltxge.co.uk/cdn/shop/files/Sur-Ron_Light_Bee_X_2025.jpg?v=1771429655&width=1400 | Voltxge / Sur-Ron | desconocida |
+| /media/sur-ron-light-bee-x-2025-ficha-tecnica-precio-hunt2.webp | https://storage.googleapis.com/mhimg/p/4598/10314598/c30a_l.jpg | MotoHunt / Sur-Ron | desconocida |
+| /media/sur-ron-light-bee-x-2025-ficha-tecnica-precio-hunt3.webp | https://www.coolybikes.com/cdn/shop/files/sur-ron-light-bee-x-2025-5741599.webp?v=1770603714&width=460 | Coolybikes / Sur-Ron | desconocida |
