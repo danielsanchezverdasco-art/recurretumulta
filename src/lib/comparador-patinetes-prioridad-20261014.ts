@@ -617,7 +617,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     videoCanal: null,
     marca: "Inokim",
     modelo: "Inokim OX",
-    precioEur: null,
+    precioEur: 1800, // 1.995 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 800.0,
     potenciaPicoW: null,
     autonomiaKm: 34.0,
@@ -634,7 +634,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     galeria: [
       { alt: "Inokim OX, vista en detalle", alto: 625, ancho: 625, src: "/media/patinetes/inokim-ox-2.webp" },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "34 km de autonomía declarada, suficiente para el día a día",
       "Frenos de disco: frenada eficaz y fácil de mantener",
@@ -645,7 +645,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       "Alcanza 45 km/h: NO es un VMP legal en España; solo para circuito privado",
       "26,6 kg de peso: pesado para subir escaleras a diario",
       "Datos aún a verificar con la ficha oficial: tiempo de carga",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Precio estimado desde la tarifa oficial de EE. UU. (1.995 $): no se vende oficialmente en España",
     ],
     veredicto: "El Inokim OX es un patinete eléctrico de Inokim con motor de 800 W y 34 km de autonomía declarada. El precio recogido es 1.499 $ (no oficial; en España a verificar). Ojo: con 45 km/h de velocidad máxima no es un VMP legal en España; solo para circuito privado. Varios datos están aún a verificar con la ficha oficial.",
     fuenteNombre: "Levyelectric.com",
@@ -708,7 +708,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     videoCanal: null,
     marca: "Joyor",
     modelo: "Joyor F5S",
-    precioEur: null,
+    precioEur: null, // Joyor no publica tarifa oficial para este modelo (verificado 20/10/2026)
     potenciaNominalW: 500.0,
     potenciaPicoW: null,
     autonomiaKm: 27.0,
@@ -734,7 +734,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     contras: [
       "Datos aún a verificar con la ficha oficial: tiempo de carga",
       "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Sin precio oficial: Joyor no publica tarifa para este modelo",
     ],
     veredicto: "El Joyor F5S es un patinete eléctrico de Joyor con motor de 500 W y 27 km de autonomía declarada. El precio recogido es 699 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
     fuenteNombre: "Levyelectric.com",
@@ -797,7 +797,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kaabo",
     modelo: "Kaabo Wolf King",
-    precioEur: null,
+    precioEur: null, // Kaabo no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 3000.0,
     potenciaPicoW: null,
     autonomiaKm: 54.0,
@@ -828,7 +828,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       "Alcanza 95 km/h: NO es un VMP legal en España; solo para circuito privado",
       "Pesa 50 kg: no es para subirlo a mano ni meterlo en el transporte público",
       "Datos aún a verificar con la ficha oficial: tiempo de carga",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Sin precio oficial: Kaabo no publica tarifa de venta al público",
     ],
     veredicto: "El Kaabo Wolf King es un patinete eléctrico de Kaabo con motor de 3000 W y 54 km de autonomía declarada. El precio recogido es 2.999 $ (no oficial; en España a verificar). Ojo: con 95 km/h de velocidad máxima no es un VMP legal en España; solo para circuito privado. Varios datos están aún a verificar con la ficha oficial.",
     fuenteNombre: "Levyelectric.com",
@@ -1032,7 +1032,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     videoCanal: null,
     marca: "EMove",
     modelo: "EMove RoadRunner",
-    precioEur: null,
+    precioEur: 1200, // 1.395 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 500.0,
     potenciaPicoW: null,
     autonomiaKm: 80.0,
@@ -1049,7 +1049,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     galeria: [
       { alt: "EMove RoadRunner, vista en detalle", alto: 1000, ancho: 1000, src: "/media/patinetes/emove-roadrunner-2.webp" },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "80 km de autonomía declarada, cifra de récord en su segmento",
       "Batería de 1248 Wh, capacidad de gama alta",
@@ -1058,7 +1058,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       "25 kg de peso: pesado para subir escaleras a diario",
       "Datos aún a verificar con la ficha oficial: frenos, neumáticos, carga máxima, tiempo de carga",
       "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Precio estimado desde la tarifa oficial de EE. UU. (1.395 $): no se vende oficialmente en España",
     ],
     veredicto: "El EMove RoadRunner es un patinete eléctrico de EMove con motor de 500 W y 80 km de autonomía declarada. El precio recogido es 1.195 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
     fuenteNombre: "Fuente del borrador",
@@ -1076,7 +1076,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     videoCanal: null,
     marca: "EMove",
     modelo: "EMove RoadRunner Pro",
-    precioEur: null,
+    precioEur: null, // la versión actual a la venta (V2) es otro producto; sin tarifa oficial vigente del modelo original (verificado 20/10/2026)
     potenciaNominalW: 2000.0,
     potenciaPicoW: null,
     autonomiaKm: 80.0,
@@ -1103,7 +1103,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       "Pesa 40 kg: no es para subirlo a mano ni meterlo en el transporte público",
       "Datos aún a verificar con la ficha oficial: frenos, neumáticos, carga máxima, tiempo de carga",
       "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Sin precio oficial vigente: VoroMotors ya solo vende la versión V2, distinta de este modelo",
     ],
     veredicto: "El EMove RoadRunner Pro es un patinete eléctrico de EMove con motor de 2000 W y 80 km de autonomía declarada. El precio recogido es 2.295 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
     fuenteNombre: "Fuente del borrador",
@@ -1121,7 +1121,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     videoCanal: null,
     marca: "EMove",
     modelo: "EMove Roadster",
-    precioEur: null,
+    precioEur: 5200, // 5.795 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 3000.0,
     potenciaPicoW: null,
     autonomiaKm: 100.0,
@@ -1138,7 +1138,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     galeria: [
       { alt: "EMove Roadster, vista en detalle", alto: 1000, ancho: 1000, src: "/media/patinetes/emove-roadster-2.webp" },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "100 km de autonomía declarada, cifra de récord en su segmento",
       "Motor de 3000 W nominales: potencia de sobra para cuestas",
@@ -1147,7 +1147,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       "Pesa 45 kg: no es para subirlo a mano ni meterlo en el transporte público",
       "Datos aún a verificar con la ficha oficial: frenos, neumáticos, carga máxima, capacidad de la batería en Wh, tiempo de carga",
       "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Precio estimado desde la tarifa oficial de EE. UU. (5.795 $): no se vende oficialmente en España",
     ],
     veredicto: "El EMove Roadster es un patinete eléctrico de EMove con motor de 3000 W y 100 km de autonomía declarada. El precio recogido es 3.499 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
     fuenteNombre: "Fuente del borrador",
@@ -1165,7 +1165,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     videoCanal: null,
     marca: "Fluid",
     modelo: "Fluid Horizon",
-    precioEur: null,
+    precioEur: null, // la marca no publica tarifa oficial en su tienda oficial (verificado 20/10/2026)
     potenciaNominalW: 500.0,
     potenciaPicoW: null,
     autonomiaKm: 40.0,
@@ -1189,7 +1189,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     contras: [
       "Datos aún a verificar con la ficha oficial: frenos, neumáticos, carga máxima, tiempo de carga",
       "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Sin precio oficial verificable en la tienda oficial de FluidFreeRide para este modelo",
     ],
     veredicto: "El Fluid Horizon es un patinete eléctrico de Fluid con motor de 500 W y 40 km de autonomía declarada. El precio recogido es 1.299 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
     fuenteNombre: "Fuente del borrador",
@@ -1207,7 +1207,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     videoCanal: null,
     marca: "Fluid",
     modelo: "Fluid Mosquito",
-    precioEur: null,
+    precioEur: 900, // 999 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 500.0,
     potenciaPicoW: null,
     autonomiaKm: 30.0,
@@ -1224,7 +1224,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     galeria: [
       { alt: "Fluid Mosquito, vista en detalle", alto: 675, ancho: 1200, src: "/media/patinetes/fluid-mosquito-2.webp" },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "30 km de autonomía declarada, suficiente para el día a día",
       "Solo 13 kg: ligero y fácil de llevar a mano",
@@ -1232,7 +1232,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     contras: [
       "Datos aún a verificar con la ficha oficial: frenos, neumáticos, carga máxima, tiempo de carga",
       "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Precio estimado desde la tarifa oficial de EE. UU. (999 $): no se vende oficialmente en España",
     ],
     veredicto: "El Fluid Mosquito es un patinete eléctrico de Fluid con motor de 500 W y 30 km de autonomía declarada. El precio recogido es 999 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
     fuenteNombre: "Fuente del borrador",
@@ -1250,7 +1250,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     videoCanal: null,
     marca: "Glion",
     modelo: "Glion Balto",
-    precioEur: null,
+    precioEur: null, // Glion no publica tarifa oficial vigente para este modelo (verificado 20/10/2026)
     potenciaNominalW: 500.0,
     potenciaPicoW: null,
     autonomiaKm: 40.0,
@@ -1274,7 +1274,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     contras: [
       "Datos aún a verificar con la ficha oficial: frenos, neumáticos, carga máxima, tiempo de carga",
       "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Sin precio oficial: Glion no publica tarifa vigente para este modelo",
     ],
     veredicto: "El Glion Balto es un patinete eléctrico de Glion con motor de 500 W y 40 km de autonomía declarada. El precio recogido es 1.299 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
     fuenteNombre: "Fuente del borrador",
@@ -1292,7 +1292,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     videoCanal: null,
     marca: "Glion",
     modelo: "Glion Dolly",
-    precioEur: null,
+    precioEur: null, // Glion no publica tarifa oficial vigente para este modelo (verificado 20/10/2026)
     potenciaNominalW: 250.0,
     potenciaPicoW: null,
     autonomiaKm: 24.0,
@@ -1317,7 +1317,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       "Datos aún a verificar con la ficha oficial: frenos, neumáticos, carga máxima, tiempo de carga",
       "Autonomía declarada de solo 24 km: para trayectos cortos",
       "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Sin precio oficial: Glion no publica tarifa vigente para este modelo",
     ],
     veredicto: "El Glion Dolly es un patinete eléctrico de Glion con motor de 250 W y 24 km de autonomía declarada. El precio recogido es 899 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
     fuenteNombre: "Fuente del borrador",
@@ -1335,7 +1335,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     videoCanal: null,
     marca: "GoTrax",
     modelo: "GoTrax G2",
-    precioEur: null,
+    precioEur: null, // la marca no publica tarifa oficial en su tienda oficial (verificado 20/10/2026)
     potenciaNominalW: 450.0,
     potenciaPicoW: null,
     autonomiaKm: 35.0,
@@ -1360,7 +1360,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     contras: [
       "Datos aún a verificar con la ficha oficial: frenos, neumáticos, carga máxima, tiempo de carga",
       "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Sin precio oficial: Gotrax ya no lo vende en su tienda oficial",
     ],
     veredicto: "El GoTrax G2 es un patinete eléctrico de GoTrax con motor de 450 W y 35 km de autonomía declarada. El precio recogido es 449 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
     fuenteNombre: "Fuente del borrador",
@@ -1378,7 +1378,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     videoCanal: null,
     marca: "Inmotion",
     modelo: "Inmotion S1",
-    precioEur: null,
+    precioEur: null, // Inmotion no publica tarifa oficial para este modelo en su tienda (verificado 20/10/2026)
     potenciaNominalW: 500.0,
     potenciaPicoW: null,
     autonomiaKm: 95.0,
@@ -1402,7 +1402,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     contras: [
       "Datos aún a verificar con la ficha oficial: frenos, neumáticos, carga máxima, tiempo de carga",
       "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Sin precio oficial: Inmotion no publica tarifa para este modelo",
     ],
     veredicto: "El Inmotion S1 es un patinete eléctrico de Inmotion con motor de 500 W y 95 km de autonomía declarada. El precio recogido es 999 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
     fuenteNombre: "Fuente del borrador",
@@ -1420,7 +1420,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     videoCanal: null,
     marca: "Levy",
     modelo: "Levy Plus",
-    precioEur: null,
+    precioEur: 700, // 799 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 350.0,
     potenciaPicoW: null,
     autonomiaKm: 30.0,
@@ -1437,7 +1437,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     galeria: [
       { alt: "Levy Plus, vista en detalle", alto: 1000, ancho: 1000, src: "/media/patinetes/levy-plus-2.webp" },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "30 km de autonomía declarada, suficiente para el día a día",
       "Solo 13 kg: ligero y fácil de llevar a mano",
@@ -1445,7 +1445,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     contras: [
       "Datos aún a verificar con la ficha oficial: frenos, neumáticos, carga máxima, tiempo de carga",
       "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Precio estimado desde la tarifa oficial de EE. UU. (799 $): no se vende oficialmente en España",
     ],
     veredicto: "El Levy Plus es un patinete eléctrico de Levy con motor de 350 W y 30 km de autonomía declarada. El precio recogido es 599 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
     fuenteNombre: "Fuente del borrador",
@@ -1463,7 +1463,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     videoCanal: null,
     marca: "Levy",
     modelo: "Levy Pro",
-    precioEur: null,
+    precioEur: null, // Levy no publica tarifa oficial vigente para este modelo (verificado 20/10/2026)
     potenciaNominalW: 500.0,
     potenciaPicoW: null,
     autonomiaKm: 40.0,
@@ -1487,7 +1487,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     contras: [
       "Datos aún a verificar con la ficha oficial: frenos, neumáticos, carga máxima, capacidad de la batería en Wh, tiempo de carga",
       "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Sin precio oficial: Levy no publica tarifa vigente para este modelo",
     ],
     veredicto: "El Levy Pro es un patinete eléctrico de Levy con motor de 500 W y 40 km de autonomía declarada. El precio recogido es 799 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
     fuenteNombre: "Fuente del borrador",
@@ -1505,7 +1505,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     videoCanal: null,
     marca: "Okai",
     modelo: "Okai ES10",
-    precioEur: null,
+    precioEur: null, // OKAI no publica tarifa oficial de venta al público en su tienda (verificado 20/10/2026)
     potenciaNominalW: 350.0,
     potenciaPicoW: null,
     autonomiaKm: 30.0,
@@ -1530,7 +1530,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     contras: [
       "Datos aún a verificar con la ficha oficial: frenos, neumáticos, carga máxima, tiempo de carga",
       "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Sin precio oficial: OKAI no publica tarifa de venta al público",
     ],
     veredicto: "El Okai ES10 es un patinete eléctrico de Okai con motor de 350 W y 30 km de autonomía declarada. El precio recogido es 499 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
     fuenteNombre: "Fuente del borrador",
@@ -1548,7 +1548,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     videoCanal: null,
     marca: "Okai",
     modelo: "Okai ES30",
-    precioEur: null,
+    precioEur: null, // OKAI no publica tarifa oficial de venta al público en su tienda (verificado 20/10/2026)
     potenciaNominalW: 500.0,
     potenciaPicoW: null,
     autonomiaKm: 40.0,
@@ -1572,7 +1572,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     contras: [
       "Datos aún a verificar con la ficha oficial: frenos, neumáticos, carga máxima, tiempo de carga",
       "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Sin precio oficial: OKAI no publica tarifa de venta al público",
     ],
     veredicto: "El Okai ES30 es un patinete eléctrico de Okai con motor de 500 W y 40 km de autonomía declarada. El precio recogido es 699 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
     fuenteNombre: "Fuente del borrador",
@@ -1590,7 +1590,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     videoCanal: null,
     marca: "Razor",
     modelo: "Razor E100",
-    precioEur: null,
+    precioEur: null, // Razor no publica tarifa oficial vigente para este modelo (verificado 20/10/2026)
     potenciaNominalW: 100.0,
     potenciaPicoW: null,
     autonomiaKm: 16.0,
@@ -1615,7 +1615,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       "Datos aún a verificar con la ficha oficial: frenos, neumáticos, carga máxima, capacidad de la batería en Wh, tiempo de carga",
       "Autonomía declarada de solo 16 km: para trayectos cortos",
       "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Sin precio oficial: Razor no publica tarifa vigente para este modelo",
     ],
     veredicto: "El Razor E100 es un patinete eléctrico de Razor con motor de 100 W y 16 km de autonomía declarada. El precio recogido es 129 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
     fuenteNombre: "Fuente del borrador",
@@ -1633,7 +1633,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     videoCanal: null,
     marca: "Razor",
     modelo: "Razor E200",
-    precioEur: null,
+    precioEur: null, // Razor no publica tarifa oficial vigente para este modelo (verificado 20/10/2026)
     potenciaNominalW: 200.0,
     potenciaPicoW: null,
     autonomiaKm: 19.0,
@@ -1656,7 +1656,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       "Datos aún a verificar con la ficha oficial: frenos, neumáticos, carga máxima, capacidad de la batería en Wh, tiempo de carga",
       "Autonomía declarada de solo 19 km: para trayectos cortos",
       "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Sin precio oficial: Razor no publica tarifa vigente para este modelo",
     ],
     veredicto: "El Razor E200 es un patinete eléctrico de Razor con motor de 200 W y 19 km de autonomía declarada. El precio recogido es 199 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
     fuenteNombre: "Fuente del borrador",
@@ -1674,7 +1674,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     videoCanal: null,
     marca: "Razor",
     modelo: "Razor E325",
-    precioEur: null,
+    precioEur: null, // Razor no publica tarifa oficial vigente para este modelo (verificado 20/10/2026)
     potenciaNominalW: 250.0,
     potenciaPicoW: null,
     autonomiaKm: 24.0,
@@ -1697,7 +1697,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       "Datos aún a verificar con la ficha oficial: frenos, neumáticos, carga máxima, capacidad de la batería en Wh, tiempo de carga",
       "Autonomía declarada de solo 24 km: para trayectos cortos",
       "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Sin precio oficial: Razor no publica tarifa vigente para este modelo",
     ],
     veredicto: "El Razor E325 es un patinete eléctrico de Razor con motor de 250 W y 24 km de autonomía declarada. El precio recogido es 279 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
     fuenteNombre: "Fuente del borrador",
@@ -1715,7 +1715,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     videoCanal: null,
     marca: "Razor",
     modelo: "Razor E500",
-    precioEur: null,
+    precioEur: null, // Razor no publica tarifa oficial vigente para este modelo (verificado 20/10/2026)
     potenciaNominalW: 500.0,
     potenciaPicoW: null,
     autonomiaKm: 32.0,
@@ -1740,7 +1740,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       "27 kg de peso: pesado para subir escaleras a diario",
       "Datos aún a verificar con la ficha oficial: frenos, neumáticos, carga máxima, capacidad de la batería en Wh, tiempo de carga",
       "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Sin precio oficial: Razor no publica tarifa vigente para este modelo",
     ],
     veredicto: "El Razor E500 es un patinete eléctrico de Razor con motor de 500 W y 32 km de autonomía declarada. El precio recogido es 399 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
     fuenteNombre: "Fuente del borrador",
@@ -1758,7 +1758,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     videoCanal: null,
     marca: "Teverun",
     modelo: "Teverun Blade GT",
-    precioEur: null,
+    precioEur: null, // Teverun no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 5000.0,
     potenciaPicoW: null,
     autonomiaKm: 80.0,
@@ -1785,7 +1785,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       "Pesa 32 kg: no es para subirlo a mano ni meterlo en el transporte público",
       "Datos aún a verificar con la ficha oficial: frenos, neumáticos, carga máxima, tiempo de carga",
       "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Sin precio oficial: Teverun no publica tarifa de venta al público",
     ],
     veredicto: "El Teverun Blade GT es un patinete eléctrico de Teverun con motor de 5000 W y 80 km de autonomía declarada. El precio recogido es 2.299 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
     fuenteNombre: "Fuente del borrador",
@@ -1803,7 +1803,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     videoCanal: null,
     marca: "Teverun",
     modelo: "Teverun Blade Mini",
-    precioEur: null,
+    precioEur: null, // Teverun no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 1000.0,
     potenciaPicoW: null,
     autonomiaKm: 35.0,
@@ -1828,7 +1828,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     contras: [
       "Datos aún a verificar con la ficha oficial: frenos, neumáticos, carga máxima, tiempo de carga",
       "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Sin precio oficial: Teverun no publica tarifa de venta al público",
     ],
     veredicto: "El Teverun Blade Mini es un patinete eléctrico de Teverun con motor de 1000 W y 35 km de autonomía declarada. El precio recogido es 1.099 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
     fuenteNombre: "Fuente del borrador",
