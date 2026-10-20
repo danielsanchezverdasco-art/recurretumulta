@@ -5966,3 +5966,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/voge-500dsx-2021-ficha-tecnica-precio-hunt1.webp | https://soymotero.net/wp-content/uploads/2021/10/voge_500dsx_2021_09.jpg | SoyMotero.net (fotos de la prueba de la Voge 500DSX 2021) | desconocida |
 | /media/voge-500dsx-2021-ficha-tecnica-precio-hunt2.webp | https://bwmotors.be/wp-content/uploads/2021/08/500dsx-zijkant.jpg | BW Motors (foto de catálogo del concesionario) | desconocida |
 | /media/voge-500dsx-2021-ficha-tecnica-precio-hunt3.webp | https://www.motosan.es/wp-content/uploads/2021/08/500_DSX_roja_11-scaled.jpeg | MotoSan (prueba de la Voge 500DSX) | desconocida |
+| /media/lexus-rz-350e-2026-precio-ficha-tecnica-hunt1.webp | https://www.autoblog.com/carbuying/lexus-drops-extremely-affordable-lease-offer-on-rz-for-ca-residents | Lexus (foto de prensa) vía Autoblog | desconocida |
+| /media/lexus-rz-350e-2026-precio-ficha-tecnica-hunt2.webp | https://aut0o0d1sc0very.com/models/38878/pictures | VelocityJournal | desconocida |
+| /media/lexus-rz-350e-2026-precio-ficha-tecnica-hunt3.webp | https://carro.blog.br/ | Carro.blog.br | desconocida |
+| /media/lynk-co-01-phev-2025-precio-ficha-tecnica-hunt1.webp | https://lynkco.com.pa/modelos/lynkco-01-phev | Lynk & Co (web oficial) | desconocida |
+| /media/lynk-co-01-phev-2025-precio-ficha-tecnica-hunt2.webp | https://en.actualidadmotor.com/lynk-co-to-launch-01-high-end-plug-in-hybrid-suv-in-2025/ | Lynk & Co (foto de prensa) vía ActualidadMotor | desconocida |
+| /media/lynk-co-01-phev-2025-precio-ficha-tecnica-hunt3.webp | https://en.actualidadmotor.com/lynk-co-to-launch-01-high-end-plug-in-hybrid-suv-in-2025/ | Lynk & Co (foto de prensa) vía ActualidadMotor | desconocida |
+| /media/moto-guzzi-v7-sport-2025-ficha-tecnica-precio-hunt1.webp | https://www.motoguzzi.com/hk_EN/models/v7/v7-sport-850-v-twin-4s-2025/ | Moto Guzzi (web oficial) | desconocida |
+| /media/moto-guzzi-v7-sport-2025-ficha-tecnica-precio-hunt2.webp | http://ridermagazine.com/2025-moto-guzzi-v7-sport-preview/ | Rider Magazine | desconocida |
+| /media/moto-guzzi-v7-sport-2025-ficha-tecnica-precio-hunt3.webp | http://www.motorcyclenews.com/bike-reviews/moto-guzzi/v7-sport/2025/ | Motorcycle News (MCN) | desconocida |
+| /media/swm-varez-125-2023-ficha-tecnica-precio-hunt1.webp | https://www.motodream.ch/product/21874373/swm-varez-125 | MotoDream (foto de prensa SWM) | desconocida |
+| /media/swm-varez-125-2023-ficha-tecnica-precio-hunt2.webp | https://motociclismoonline.com.br/noticias/swm-varez-125-abs-2023-uma-naked-pensada-para-os-mais-jovens/ | Motociclismo Online | desconocida |
+| /media/swm-varez-125-2023-ficha-tecnica-precio-hunt3.webp | https://www.motomag.gr/news/epikairotita/swm-varez-125-me-meiosi-timis-500-eyro | MotoMag.gr | desconocida |
