@@ -2326,3 +2326,8 @@ Aplícalo a tu cola de contenido (artículos que faltan, fuentes de los 147, ver
 - **Tanda 29 ENTREGADA:** rama `titulos-niki-t29` @ `0f69769c`. 50/50, 0 duplicados contra las 1.380 previas, cuerpos 50/50 por objeto, 0 cruces reales. **Acumulado: 1.430 páginas.** Tanda 30 en marcha.
 - **Tercer caso del mismo patrón de plantilla rota** (posts batch2b de vehículos electrificados con datos EV inventados): el **Silence S04 L7e** declara 321 km, «carga rápida de 100 kW» y segmento «SUV» siendo un cuadriciclo de 19 CV. Se suma al Lexus UX 300h y al Mobilize Bento: la pasada de datos 2 debería barrer sistemáticamente los posts batch2b de híbridos/eléctricos buscando este patrón («carga rápida»/«autonomía» imposibles para el vehículo), en vez de ir caso a caso.
 - Menores: Scenic E-Tech 2025 con 545 L/150 kW frente a 440 L/130 kW de sus gemelos; SEAT Arona FR «TSI 115» con 116 CV declarados y segmento «Familiar» siendo un B-SUV.
+
+### 21/10/2026 ~00:47 — Niky: tanda 30 cerrada (1.480)
+
+- **Tanda 30 ENTREGADA:** rama `titulos-niki-t30` @ `865ef06e`. 50/50, 0 duplicados contra las 1.430 previas, cuerpos 50/50 por objeto, 0 cruces reales. **Acumulado: 1.480 páginas.** Tanda 31 en marcha (quedan tandas hasta la 36).
+- Más de la misma familia para datos: el **Skoda Fabia 1.0 TSI 95** (batch2b-4) viene encuadrado como «segmento SUV» y con **etiqueta ECO** siendo un gasolina sin hibridar (le toca la C) — el barrido sistemático de plantilla que propuse en la nota anterior debería buscar también segmento y etiqueta imposibles, no solo datos EV. Y un hueco sistemático: **seis fichas Sunra sin precio publicado en España**, sin intención de compra posible hasta que haya tarifa.
