@@ -6700,3 +6700,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/next-nx1-2025-ficha-tecnica-precio-hunt1.webp | https://www.motopoint.mt/wp-content/uploads/2024/04/NX1PerfilDerech.webp | MotoPoint Malta | desconocida |
 | /media/next-nx1-2025-ficha-tecnica-precio-hunt2.webp | http://zero-center.com/cdn/shop/files/NX13_4Derecho.png?v=1709109663&width=2048 | Zero Center | desconocida |
 | /media/next-nx1-2025-ficha-tecnica-precio-hunt3.webp | https://primary.jwwb.nl/public/x/r/x/temp-gpblybjptzxwpuxvoxin/nx1_11-high.jpg?enable-io=true&width=600 | MotoDream | desconocida |
+| /media/peugeot-partner-15-bluehdi-130-2026-precio-ficha-tecnica-hunt1.webp | https://images.carexpert.com.au/resize/960/-/cms/v1/media/2024-06-2025-peugeot-partner-colours-4.jpg | CarExpert | desconocida |
+| /media/peugeot-partner-15-bluehdi-130-2026-precio-ficha-tecnica-hunt2.webp | https://images.carexpert.com.au/resize/960/-/cms/v1/media/2024-06-2025-peugeot-partner-colours-3.jpg | CarExpert | desconocida |
+| /media/peugeot-partner-15-bluehdi-130-2026-precio-ficha-tecnica-hunt3.webp | https://images.carexpert.com.au/resize/960/-/cms/v1/media/2024-06-2025-peugeot-partner-colours-1.jpg | CarExpert | desconocida |
+| /media/mclaren-750s-mcl38-celebration-2025-precio-ficha-tecnica-hunt1.webp | https://cdn.carthrottle.com/uploads/2025-02/MCL38 Celebration Edition 6 750S.jpg?width=1600 | McLaren Automotive / CarThrottle | desconocida |
+| /media/mclaren-750s-mcl38-celebration-2025-precio-ficha-tecnica-hunt2.webp | https://www.revistagente.com/wp-content/uploads/2025/02/MCL38-Celebration-Edition-5-750S.jpg.webp | McLaren Automotive / Revista Gente | desconocida |
+| /media/mclaren-750s-mcl38-celebration-2025-precio-ficha-tecnica-hunt3.webp | https://topictree.co.kr/wp-content/uploads/2025/02/McLaren-MCL38-Celebration-Edition-2-768x512.jpg | McLaren Automotive / Topic Tree | desconocida |
+| /media/maeving-rm1-2025-ficha-tecnica-precio-hunt1.webp | https://cdn.hiconsumption.com/wp-content/uploads/2021/11/Maeving-RM1-EBike-1.jpg | Maeving / HiConsumption | desconocida |
+| /media/maeving-rm1-2025-ficha-tecnica-precio-hunt2.webp | https://www.visordown.com/sites/default/files/Meaving-RM1-electric-motorcycle-02.jpg?width=1600 | Maeving / Visordown | desconocida |
+| /media/maeving-rm1-2025-ficha-tecnica-precio-hunt3.webp | https://i.infocar.ua/i/6/146835/630x314.jpg | Maeving / InfoCar | desconocida |
+| /media/next-nxplus-2025-ficha-tecnica-precio-hunt1.webp | https://www.motofichas.com/images/phocagallery/next/nxplus-2025/10-next-nxplus-2025-estudio-blanco-01.jpg | We Are Next Motors / MotoFichas | desconocida |
+| /media/next-nxplus-2025-ficha-tecnica-precio-hunt2.webp | https://e-motobike.es/wp-content/uploads/2025/11/next-nxplus-ciclomotor-electrico-1-768x768.jpg | We Are Next Motors / E-MotoBike | desconocida |
+| /media/next-nxplus-2025-ficha-tecnica-precio-hunt3.webp | https://wearenextmotors.com/cdn/shop/files/Slider-1.jpg?v=1724925946&width=750 | We Are Next Motors (web oficial) | desconocida |
