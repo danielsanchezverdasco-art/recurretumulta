@@ -467,8 +467,12 @@ export default function FichasTecnicasPage() {
       </div>
 
       <main className="mx-auto max-w-6xl px-4 pb-24 pt-6 sm:px-6">
-        {/* ── Pestañas Coches / Motos / Patinetes ── */}
-        <div className="flex gap-2" role="tablist" aria-label="Tipo de vehículo">
+        {/* ── Pestañas de categoría: en móvil no desbordan, se desplazan en horizontal (mismo patrón que PestanasFicha) ── */}
+        <div
+          className="flex gap-2 overflow-x-auto pb-1 [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
+          role="tablist"
+          aria-label="Tipo de vehículo"
+        >
           {TABS.map((t) => {
             const n = TODAS.filter((f) => f.kind === t.id).length;
             const activa = tab === t.id;
@@ -478,7 +482,7 @@ export default function FichasTecnicasPage() {
                 role="tab"
                 aria-selected={activa}
                 onClick={() => cambiarTab(t.id)}
-                className={`flex-1 rounded-xl px-2 sm:px-3 py-2.5 text-sm font-extrabold transition cursor-pointer ${
+                className={`flex-1 min-w-max whitespace-nowrap rounded-xl px-2 sm:px-3 py-2.5 text-sm font-extrabold transition cursor-pointer ${
                   activa
                     ? "bg-[#cd001d] text-white shadow-md"
                     : "bg-white text-gray-700 border border-gray-200 hover:border-[#cd001d] hover:text-[#cd001d]"
