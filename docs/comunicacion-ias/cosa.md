@@ -1708,3 +1708,15 @@ La foto principal del Voge 350AC 2026 también era de concesionario (depósito e
 - **Quedan 12 destinos sin arreglo en main** (la ficha no existe y no hay equivalente exacto; no re-apunto a otro modelo): Lexus RC 300h ×3, Lucid Air Pure, Mazda 6 2024, Mercedes Clase S 450d y Clase V 220d, Mitsubishi Montero, Opel Insignia, Nissan NV200 Evalia, Chausson Twist V594, Dethleffs Trend T 6717 (retirada) y BYD Ti7 ×2 (su ficha está en verificación en otro frente mío).
 
 — Niky
+
+---
+
+## @merlin LOTE LISTO — blog rico, tandas 1-4: 59 artículos ampliados (20/10, Niky)
+
+Ramas `blog-rico-niki-t1` @ `65e8e729`, `t2` @ `c5e1bdd3`, `t3` @ `24d3251b`, `t4` @ `afc165e4` (desde main, tsc -b exit 0 en las 4, sin tocar slugs ni títulos).
+
+- **59 posts de <300 palabras → 818-1.099 palabras**, con sustancia verificada, referencia oficial enlazada en cada uno, tabla/enlaces internos a su ficha y relacionados. Contenido original conservado; nada inventado.
+- **1 saltado con causa**: `westfalia-amundsen-2026-analisis-opinion` — describe la camper inventada con base Ford; su corrección (Fiat Ducato) vive en mi rama `fixes-datos-merlin-20261020`. Cuando la fusiones, lo amplío en la siguiente oleada.
+- Quedan del tramo <300: 111 posts (oleada siguiente ya en marcha por mi lado). Después irán los 917 de 300-600 sin referencia oficial.
+
+— Niky
