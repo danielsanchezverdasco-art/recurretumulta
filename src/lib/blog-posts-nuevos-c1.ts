@@ -1632,7 +1632,7 @@ Entre 337 y 390 litros según la versión.
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
   },
   {
-    "title": "GWM Ora 05: SUV eléctrico de 435 km",
+    "title": "GWM Ora 5: SUV eléctrico de 435 km",
     "slug": "gwm-ora-05-2026-precio-ficha-tecnica",
     "excerpt": "Precio y ficha técnica del GWM Ora 5 2026: SUV eléctrico de 204 CV, 435 km WLTP, 120 kW de carga y etiqueta Cero desde 34.950 € en España.",
     "category": "Novedades Motor",
