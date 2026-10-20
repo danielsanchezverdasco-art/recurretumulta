@@ -375,6 +375,35 @@ Como eléctrico puro, le correspondería la etiqueta Cero.
 <p>Autos de Primera lo muestra en español:</p>
 <p><a href=https://www.youtube.com/watch?v=gYXONlxir-Y>Ver el Nevo Q05 en español en YouTube (Autos de Primera)</a></p>
 
+## Nevo (Qiyuan): la marca de volumen eléctrico de Changan
+
+Nevo, conocida en China como Qiyuan, es la línea de energía nueva con la que Changan ataca el segmento de volumen, por debajo de Deepal y Avatr en posicionamiento. El Q05 es su SUV compacto eléctrico y uno de los superventas de la casa, con más de 100.000 unidades vendidas en China según los datos del modelo. Su lanzamiento oficial fuera de China, recogido por la <a href=https://www.globalchangan.com/newsroom/CHANGAN-THAILAND-Officially-Launches-NEVO-Q05.html>web global de Changan</a>, lo presenta como un SUV familiar que combina cabina digital, carga rápida y un paquete completo de asistentes. La fórmula es clara: tecnología visible (pantalla grande, asistentes avanzados) a precio de utilitario europeo.
+
+## Técnica a fondo: batería CATL 3C y maletero de segmento superior
+
+| Concepto | Dato del Q05 405 Air |
+|---|---|
+| Motor | 120 kW (163 CV) / 190 Nm |
+| Batería | 40,29 kWh CATL (51,91 kWh en la versión larga) |
+| Autonomía CLTC | 405 km (506 km con 51,91 kWh) |
+| Carga rápida 3C | Del 30 al 80 % en 15 minutos |
+| Maletero | 540 litros (1.380 abatido) |
+| Medidas | 4.435 x 1.855 x 1.600 mm |
+
+El dato que manda es la carga 3C: en un coche de este precio, recuperar del 30 al 80 % en 15 minutos cambia el uso en viaje. La batería LFP de CATL admite además cargas habituales al 100 % sin la degradación acelerada de otras químicas. Los 405 km son ciclo CLTC chino, optimista frente al WLTP europeo: la autonomía real quedará por debajo, y la versión de 51,91 kWh y 506 km CLTC será la sensata para quien haga autovía. El maletero de 540 litros, en cambio, no necesita conversión: es enorme para un SUV de 4,44 metros.
+
+## Uso real: familia, ciudad y viajes con carga planificada
+
+El Q05 está pensado como coche familiar único en su mercado: batalla de 2.735 mm, suelo plano eléctrico y un maletero que traga cochecito y equipaje. En ciudad, su tamaño es el justo para aparcar sin sufrir; en viaje, la carga rápida compensa una batería contenida si la red de cargadores acompaña. Las limitaciones honestas son las de siempre en estos modelos: no se vende en España, no hay precios ni red europea, y las cifras CLTC y los precios al cambio (desde unos 10.400 €) no son trasladables a una hipotética versión europea con impuestos, homologación y equipamiento de seguridad adaptado.
+
+## Mantenimiento, costes y normativa si llegara a Europa
+
+Como eléctrico puro, el mantenimiento se reduce a frenos, neumáticos, líquidos y actualizaciones, con la batería LFP como componente longevo. Sin venta oficial en España no hay plan de mantenimiento ni garantía europea que citar: cualquier cifra sería inventada. Si se comercializara aquí, le correspondería la etiqueta Cero de la <a href=https://www.dgt.es>DGT</a>, ITV con la periodicidad de un turismo (primera a los cuatro años) y homologación europea previa, incluido el paquete de seguridad activa que exige el reglamento de la UE. En seguridad pasiva, el modelo no ha sido evaluado por Euro NCAP: sin datos, y no cabe heredar notas de otros Changan o Nevo.
+
+## Rivales y veredicto: ¿merece la pena?
+
+En la propia casa, el <a href=/coches/nevo-q07-2025-precio-ficha-tecnica/>Nevo Q07</a> juega en un tamaño superior y el <a href=/coches/changan-deepal-s07-my26-2026-precio-ficha-tecnica/>Changan Deepal S07</a> representa el escalón más aspiracional del grupo. Frente a los SUV eléctricos compactos que sí se venden en España, el Q05 gana en precio teórico y carga rápida, y pierde en todo lo demás: disponibilidad, red y garantía. **Veredicto:** merece la pena seguirlo de cerca como termómetro de hasta dónde puede bajar el precio de un SUV eléctrico bien equipado; como compra desde España hoy, no es una opción real. Para quien necesite coche ya, toca mirar el mercado europeo. Y mientras tanto, prueba nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Nevo Q05?
@@ -402,7 +431,9 @@ Como eléctrico puro, le correspondería la etiqueta Cero.
 - <a href=https://www.testcoches.es>Testcoches: los SUV eléctricos chinos más baratos</a>
 
 <p>Un SUV eléctrico con lidar por 10.400 €: <a href=/comparador-coches/>compáralo con los SUV eléctricos de España</a>. Y recuerda: <a href=https://recurretumulta.online/#analizador>analiza tu multa gratis con nuestra IA antes de recurrir</a>.</p>
-`,
+
+
+*Fuentes: <a href=https://www.globalchangan.com/newsroom/CHANGAN-THAILAND-Officially-Launches-NEVO-Q05.html>Changan (web oficial global, lanzamiento del NEVO Q05)</a> y <a href=https://www.dgt.es>DGT</a>.*`,
     locale: "all",
   },
   {

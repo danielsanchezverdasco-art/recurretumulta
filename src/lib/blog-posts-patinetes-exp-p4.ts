@@ -2666,6 +2666,36 @@ Sin certificado DGT español verificado; homologado en Alemania a **20 km/h**. E
 
 <img src=/media/patinetes/egret-ey-2-3.webp alt=Egret Ey! 2 en un carril bici>
 
+## Egret: diseño alemán de Hamburgo desde 2012
+
+Egret es la marca premium de Walberg Urban Electrics, empresa de Hamburgo que desarrolla sus patinetes en Alemania desde 2012 y que se ha posicionado en el extremo opuesto al patinete barato de plataforma: diseño cuidado, componentes propios y homologación alemana como seña de identidad. La familia Ey! es su línea accesible, y el Ey! 2 su propuesta de equilibrio: mantiene el triple freno y las ruedas autosellantes de la casa, con un motor de 500 W y 446 Wh por 899 €. En la <a href=https://my-egret.com/e-models/egret-gt/>web oficial de Egret</a> se aprecia la filosofía de la marca: autonomías medidas con protocolos declarados y garantía de batería con ciclos y capacidad residual definidos, algo poco habitual en el sector.
+
+## Técnica a fondo: seguridad por encima de prestaciones
+
+| Concepto | Dato del Ey! 2 |
+|---|---|
+| Motor | 500 W (1.188 W de pico), trasero |
+| Batería | 47,45 V y 9,4 Ah (446 Wh) |
+| Autonomía declarada / real | 45 km / unos 30 km |
+| Velocidad máxima | 20 km/h (versión alemana) |
+| Frenos | Tambor + disco + freno motor |
+| Ruedas | 10 pulgadas tubeless autosellantes |
+| Carga | 7-8 horas |
+
+El Ey! 2 no compite en cifras brutas: compite en cómo frena y en cómo envejece. El triple sistema de frenado (tambor, disco y freno motor regenerativo) es lo máximo que ofrece el segmento urbano, y los neumáticos tubeless con gel sellan solos la mayoría de pinchazos, el gran enemigo del usuario diario. El motor trasero empuja con silencio y la electrónica recupera energía en cada frenada. Sus límites están claros en la ficha: 20 km/h en la versión homologada en Alemania y una carga completa de 7-8 horas que obliga a planificar.
+
+## Uso real: el patinete de diario del usuario prudente
+
+Para commuting urbano de hasta unos 25-30 km diarios, el Ey! 2 cumple con margen y con una sensación de solidez que los patinetes de 400 € no dan. Es un producto pensado para durar y para un usuario que valora frenar bien y no pinchar más que llegar antes. A cambio, quien venga de patinetes de 25 km/h notará la versión alemana limitada a 20 km/h, y quien necesite cargar a mediodía para la vuelta encontrará larga la espera de 7-8 horas. Tampoco consta un peso oficial claro en su ficha, un dato a exigir al vendedor si vas a subirlo a pulso a diario.
+
+## Mantenimiento, costes y normativa VMP
+
+El mantenimiento es el de un eléctrico bien hecho: revisar pastillas y tambor, estado de los neumáticos autosellantes (el gel no es eterno), tornillería y batería, evitando descargas completas prolongadas. Al ser un producto europeo con importador, la disponibilidad de recambios y servicio es su ventaja frente a marcas de plataforma. En normativa: en Alemania se homologa a 20 km/h como vehículo eléctrico ligero; en España circula como VMP bajo las reglas de la <a href=https://www.dgt.es>DGT</a> (máximo 25 km/h, sin aceras y con certificado de circulación para los VMP comercializados aquí), y en su ficha consta sin certificado DGT español verificado, así que conviene pedir la documentación al vendedor antes de comprarlo.
+
+## Rivales y veredicto: ¿merece la pena?
+
+Dentro de la familia, el <a href=/patinetes/egret-ey-1/>Egret Ey! 1</a> ofrece más pico de potencia y rango por unos 400 € más, y el <a href=/patinetes/egret-pro/>Egret Pro</a> sube un escalón en prestaciones dentro de la misma filosofía. Fuera de casa, los rivales chinos de 25 km/h son más baratos y rápidos, pero no igualan el triple freno ni el enfoque de durabilidad. **Veredicto:** el Ey! 2 merece la pena para el usuario diario que prioriza seguridad, frenos y un producto europeo con servicio; no es la compra para quien busque la máxima velocidad o autonomía por euro. Si te sobra un rato entre trayectos, prueba nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Egret Ey! 2?
@@ -2688,7 +2718,7 @@ El Ey! 1 tiene más pico y rango; el Ey! 2 cuesta 400 € menos. Para ciudad, el
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://www.maxblinker.com/en/electric-scooters/egret-ey-2-de-street-legal>análisis del Ey! 2 en Maxblinker</a>.*`,
+*Fuentes: <a href=https://www.maxblinker.com/en/electric-scooters/egret-ey-2-de-street-legal>análisis del Ey! 2 en Maxblinker</a>. <a href=https://my-egret.com/e-models/egret-gt/>Egret (web oficial de Walberg Urban Electrics)</a> y <a href=https://www.dgt.es>DGT</a>*`,
   },
   {
     slug: "egret-ey-3",

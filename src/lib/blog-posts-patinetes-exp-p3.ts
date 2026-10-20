@@ -355,6 +355,35 @@ Frenos de disco de alta gama y neumáticos anchos, con la suspensión hidráulic
 
 <img src=/media/patinetes/nami-klima-max-3.webp alt=Nami Klima Max en uso urbano>
 
+## Nami Electric: potencia bruta con celdas de primera
+
+Nami Electric es un fabricante chino especializado en patinetes de altas prestaciones que se ha ganado su reputación fuera de los canales habituales: sin grandes campañas, su gama Burn-E y Klima se ha extendido por Europa a través de distribuidores especializados gracias a un argumento simple, montar componentes serios (celdas LG, frenos hidráulicos, suspensiones regulables) en chasis pensados para rodar rápido. El Klima Max es la evolución lógica del <a href=/patinetes/nami-klima/>Nami Klima</a>: misma plataforma de doble motor, pero con la batería grande de 30 Ah que muchos usuarios pedían para no quedarse cortos en rutas largas. Es, en la práctica, el Klima que la marca debería haber lanzado primero.
+
+## Técnica a fondo: 1.800 Wh y dos motores de 1.000 W
+
+| Concepto | Dato del Klima Max |
+|---|---|
+| Motores | 2 x 1.000 W (5.360 W de pico) |
+| Batería | 60 V 30 Ah LG (1.800 Wh) |
+| Autonomía declarada | 85-90 km |
+| Autonomía real estimada | Unos 59 km |
+| Velocidad máxima | 70 km/h (solo circuito privado) |
+| Peso | Unos 38 kg |
+
+La clave está en la batería: 1.800 Wh con celdas LG es una capacidad propia de patinetes mucho más caros, y las celdas de marca se degradan más despacio y entregan la potencia de forma más estable que las genéricas cuando el nivel de carga baja. Los dos motores suman en aceleración y en cuestas, pero también en consumo: por eso la autonomía real estimada (59 km) se aleja de la declarada, medida a ritmo suave. La suspensión hidráulica ajustable y los frenos de disco sobredimensionados no son un capricho: con 70 km/h de punta teórica, la parte ciclo tiene que estar a la altura.
+
+## Uso real: un patinete de rutas, no de maletero
+
+Hay que ser honesto con los 38 kg: el Klima Max no es el patinete que subes a un cuarto sin ascensor ni el que combinas a diario con metro y escaleras. Es un vehículo para salir de casa rodando y hacer trayectos largos, incluso interurbanos por vías permitidas, con margen de batería de sobra. En ciudad funciona, pero su tamaño y su peso penalizan en maniobras y al aparcarlo en espacios pequeños. Para trayectos cortos y última milla hay opciones mucho más ligeras y baratas; el Max cobra sentido cuando la autonomía real y la potencia son la prioridad.
+
+## Mantenimiento, costes y normativa VMP
+
+El mantenimiento se centra en frenos (pastillas y purgado del circuito hidráulico), presión y desgaste de neumáticos, tornillería del plegado y salud de la batería: evitar descargas completas prolongadas y no guardarlo meses al 100 % alarga la vida de las celdas LG. Sin cadena ni motor de combustión, el coste por kilómetro es muy bajo; el gasto serio sería una batería de sustitución fuera de garantía, otro motivo para comprar a un importador europeo con postventa real. En normativa, la <a href=https://www.dgt.es>DGT</a> regula los VMP con un límite de 25 km/h, prohibición de aceras y certificado de circulación para los modelos comercializados en España: el Klima Max consta sin homologación DGT, así que en vía pública solo puede circular limitado a 25 km/h y su velocidad máxima queda reservada a circuito privado.
+
+## Rivales y veredicto: ¿merece la pena?
+
+Dentro de casa, el <a href=/patinetes/nami-klima/>Klima estándar</a> ahorra dinero si no necesitas la batería grande; fuera, el <a href=/patinetes/dualtron-city/>Dualtron City</a> juega la carta de la marca coreana con red más asentada, a otro precio. **Veredicto:** el Klima Max merece la pena para quien hace rutas largas y quiere doble motor con celdas LG por 2.449 €, una combinación difícil de igualar; no es para quien busque un patinete ligero para combinar con transporte público ni para quien necesite homologación DGT plena. Y entre ruta y ruta, prueba nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Nami Klima Max?
@@ -374,7 +403,7 @@ Solo **limitado a 25 km/h** según normativa VMP.
 
 ¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: <a href=https://bikescootercity.com.au/products/nami-klima-electric-scooter>distribuidores europeos de Nami Electric</a>.*`,
+*Fuentes: <a href=https://bikescootercity.com.au/products/nami-klima-electric-scooter>distribuidores europeos de Nami Electric</a>. <a href=https://www.dgt.es>DGT (normativa VMP)</a>*`,
   },
   {
     slug: "nami-blast",
