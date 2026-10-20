@@ -1173,7 +1173,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     modelo: "Miku Max",
     version: "Miku Max 2026",
     categoria: "Scooter",
-    precioDesde: 2195,
+    precioDesde: null, // sin tarifa oficial localizada en España (verificado 20/10/2026)
     potenciaKw: 0.8,
     potenciaCv: 1.1,
     autonomiaKm: 60,
@@ -1186,7 +1186,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     carnet: "AM",
     carga: "Unas 4 h (batería extraíble de 9 kg)",
     etiquetaDgt: "Cero",
-    aprox: ["autonomiaKm", "precioDesde"],
+    aprox: ["autonomiaKm"],
     pros: [
       "2.195 €: de los ciclomotores eléctricos más baratos que se venden en España",
       "Motor Bosch de 800 W nominales: fiabilidad alemana en un ciclomotor chino",
@@ -1196,6 +1196,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
       "Control de crucero, USB y alarma de serie: equipamiento completo por 2.195 €",
     ],
     contras: [
+      "Sin precio oficial publicado en España",
       "Una sola plaza (máximo 100 kg): ni se plantea llevar pasajero",
       "60 km de autonomía declarada (con conductor de 70 kg): solo para uso urbano corto",
       "800 W nominales: en cuestas se queda muy justa",
@@ -1254,7 +1255,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     modelo: "S01+",
     version: "S01+ 2026",
     categoria: "Scooter",
-    precioDesde: 4990,
+    precioDesde: 5140, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 7,
     potenciaCv: 9.5,
     autonomiaKm: 133,
@@ -1267,7 +1268,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     carnet: "A1",
     carga: "7-9 h en Schuko (600 W); Battery Station en unos 30 s",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "133 km en ciclo WMTC: la mayor autonomía homologada entre los scooters eléctricos españoles",
       "Batería extraíble tipo trolley de 41 kg: se saca y se lleva rodando como una maleta",
@@ -1277,7 +1278,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
       "Hueco bajo el asiento para dos cascos integrales: el falso depósito es todo maletero",
     ],
     contras: [
-      "4.990 € sin batería: con la batería en propiedad supera los 7.500 €",
+      "5.140 € con suscripción de batería: con la batería en propiedad cuesta 6.140 €",
       "152 kg en orden de marcha: pesada para un scooter urbano, se nota en parado",
       "7-9 h de carga en un Schuko doméstico: sin Battery Station cerca, la carga es lenta",
       "95 km/h de máxima (100 con Push-To-Pass): justa para autovía",

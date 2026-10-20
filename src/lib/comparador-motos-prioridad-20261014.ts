@@ -9,7 +9,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     modelo: "RS 125",
     version: "RS 125 2026",
     categoria: "Deportiva",
-    precioDesde: 5750,
+    precioDesde: 5750, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 11.0,
     potenciaCv: 15,
     cilindradaCc: 124,
@@ -23,9 +23,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-      "precioDesde"
-    ],
+    aprox: [],
     pros: [
       "Motor de 124,2 cc con 15 CV (11 kW) y 12 Nm de par",
       "15 CV: el máximo legal para el carnet A1",
@@ -36,7 +34,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Precio aproximado desde 5.750 €"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
       "Garantía orientativa de modelos parecidos, no específica de esta versión",
       "Mantenimiento orientativo de un modelo similar de la misma marca",
       "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
@@ -81,7 +78,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     modelo: "RS 660 Factory",
     version: "RS 660 Factory 2026",
     categoria: "Deportiva",
-    precioDesde: 14650,
+    precioDesde: 14650, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 77.2,
     potenciaCv: 105,
     cilindradaCc: 660,
@@ -95,9 +92,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-      "precioDesde"
-    ],
+    aprox: [],
     pros: [
       "Motor de 660 cc con 105 CV (77,2 kW) y 67 Nm de par",
       "Peso declarado de 183 kg en orden de marcha",
@@ -107,7 +102,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Precio aproximado desde 14.650 €"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
       "Garantía orientativa de modelos parecidos, no específica de esta versión",
       "Mantenimiento orientativo de un modelo similar de la misma marca",
       "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
@@ -152,7 +146,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     modelo: "RSV4 Factory",
     version: "RSV4 Factory 2026",
     categoria: "Superbike",
-    precioDesde: 29150,
+    precioDesde: 29150, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 161.8,
     potenciaCv: 220,
     cilindradaCc: 1099,
@@ -166,9 +160,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-      "precioDesde"
-    ],
+    aprox: [],
     pros: [
       "Motor de 1099 cc con 220 CV (161,8 kW) y 125 Nm de par",
       "Peso declarado de 202 kg en orden de marcha",
@@ -178,7 +170,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Precio aproximado desde 29.150 €"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
       "Garantía orientativa de modelos parecidos, no específica de esta versión",
       "Mantenimiento orientativo de un modelo similar de la misma marca",
       "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
@@ -223,7 +214,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     modelo: "RX 125",
     version: "RX 125 2026",
     categoria: "Enduro 125",
-    precioDesde: 4500,
+    precioDesde: 4450, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 11.0,
     potenciaCv: 15,
     cilindradaCc: 125,
@@ -237,9 +228,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-      "precioDesde"
-    ],
+    aprox: [],
     pros: [
       "Motor de 125 cc con 15 CV (11 kW) y 11 Nm de par",
       "15 CV: el máximo legal para el carnet A1",
@@ -250,7 +239,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Precio aproximado desde 4.500 €"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
       "Garantía orientativa de modelos parecidos, no específica de esta versión",
       "Mantenimiento orientativo de un modelo similar de la misma marca",
       "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
@@ -297,7 +285,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     modelo: "SR GT 200",
     version: "SR GT 200 2026",
     categoria: "Scooter",
-    precioDesde: 4700,
+    precioDesde: 4650, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 13.2,
     potenciaCv: 18,
     cilindradaCc: 174,
@@ -311,9 +299,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-      "precioDesde"
-    ],
+    aprox: [],
     pros: [
       "Motor de 174 cc con 18 CV (13,2 kW) y 16 Nm de par",
       "Peso declarado de 144 kg en orden de marcha",
@@ -323,7 +309,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Precio aproximado desde 4.700 €"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
       "Garantía orientativa de modelos parecidos, no específica de esta versión",
       "Mantenimiento orientativo de un modelo similar de la misma marca",
       "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
@@ -368,7 +353,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     modelo: "SX 125",
     version: "SX 125 2026",
     categoria: "Supermotard 125",
-    precioDesde: 4600,
+    precioDesde: 4550, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 11.0,
     potenciaCv: 15,
     cilindradaCc: 125,
@@ -382,9 +367,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-      "precioDesde"
-    ],
+    aprox: [],
     pros: [
       "Motor de 125 cc con 15 CV (11 kW) y 11 Nm de par",
       "15 CV: el máximo legal para el carnet A1",
@@ -395,7 +378,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Precio aproximado desde 4.600 €"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
       "Garantía orientativa de modelos parecidos, no específica de esta versión",
       "Mantenimiento orientativo de un modelo similar de la misma marca",
       "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
@@ -442,7 +424,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     modelo: "Tuareg 660 Rally",
     version: "Tuareg 660 Rally 2026",
     categoria: "Trail",
-    precioDesde: 14050,
+    precioDesde: 14050, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 58.8,
     potenciaCv: 80,
     cilindradaCc: 659,
@@ -456,9 +438,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-      "precioDesde"
-    ],
+    aprox: [],
     pros: [
       "Motor de 659 cc con 80 CV (58,8 kW) y 70 Nm de par",
       "Peso declarado de 187 kg en orden de marcha",
@@ -468,7 +448,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Precio aproximado desde 14.050 €"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
       "Garantía orientativa de modelos parecidos, no específica de esta versión",
       "Mantenimiento orientativo de un modelo similar de la misma marca",
       "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
@@ -513,7 +492,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     modelo: "Tuono 660 Factory",
     version: "Tuono 660 Factory 2026",
     categoria: "Naked",
-    precioDesde: 13650,
+    precioDesde: 13650, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 77.2,
     potenciaCv: 105,
     cilindradaCc: 660,
@@ -527,9 +506,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-      "precioDesde"
-    ],
+    aprox: [],
     pros: [
       "Motor de 660 cc con 105 CV (77,2 kW) y 67 Nm de par",
       "Peso declarado de 183 kg en orden de marcha",
@@ -539,7 +516,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Precio aproximado desde 13.650 €"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
       "Garantía orientativa de modelos parecidos, no específica de esta versión",
       "Mantenimiento orientativo de un modelo similar de la misma marca",
       "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
@@ -584,7 +560,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     modelo: "Rock 300",
     version: "Rock 300 2026",
     categoria: "Cruiser",
-    precioDesde: 6290,
+    precioDesde: null, // Benda no comercializa la Rock 300 en España; sin tarifa oficial localizada (verificado 20/10/2026)
     potenciaKw: 22.1,
     potenciaCv: 30,
     cilindradaCc: 298,
@@ -598,9 +574,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-      "precioDesde"
-    ],
+    aprox: [],
     pros: [
       "Motor de 298 cc con 30 CV (22,1 kW) y 25 Nm de par",
       "Peso declarado de 170 kg en orden de marcha",
@@ -610,7 +584,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Precio aproximado desde 6.290 €"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
+      "Sin precio oficial en España: Benda no la comercializa aquí",
       "Garantía sin datos verificados del fabricante en las fuentes consultadas",
       "Mantenimiento sin intervalo verificado del fabricante",
       "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
@@ -644,7 +618,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     modelo: "Imperiale 400",
     version: "Imperiale 400 2026",
     categoria: "Custom",
-    precioDesde: 3990,
+    precioDesde: 4390, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 15.4,
     potenciaCv: 21,
     cilindradaCc: 374,
@@ -658,9 +632,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-      "precioDesde"
-    ],
+    aprox: [],
     pros: [
       "Motor de 374 cc con 21 CV (15,4 kW) y 29 Nm de par",
       "Peso declarado de 205 kg en orden de marcha",
@@ -670,7 +642,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Precio aproximado desde 3.990 €"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
       "Garantía sin datos verificados del fabricante en las fuentes consultadas",
       "Mantenimiento orientativo de un modelo similar de la misma marca",
       "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
@@ -715,7 +686,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     modelo: "Leoncino 800 Trail",
     version: "Leoncino 800 Trail 2026",
     categoria: "Scrambler",
-    precioDesde: 6990,
+    precioDesde: 7490, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 56.0,
     potenciaCv: 76,
     cilindradaCc: 754,
@@ -729,9 +700,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-      "precioDesde"
-    ],
+    aprox: [],
     pros: [
       "Motor de 754 cc con 76 CV (56 kW) y 67 Nm de par",
       "Peso declarado de 224 kg en orden de marcha",
@@ -741,7 +710,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Precio aproximado desde 6.990 €"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
       "Garantía orientativa de modelos parecidos, no específica de esta versión",
       "Mantenimiento orientativo de un modelo similar de la misma marca",
       "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
@@ -786,7 +754,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     modelo: "Tornado 500",
     version: "Tornado 500 2025",
     categoria: "Deportiva",
-    precioDesde: 6490,
+    precioDesde: 6490, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 35.3,
     potenciaCv: 48,
     cilindradaCc: 500,
@@ -800,9 +768,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-      "precioDesde"
-    ],
+    aprox: [],
     pros: [
       "Motor de 500 cc con 48 CV (35,3 kW) y 46 Nm de par",
       "Peso declarado de 186 kg en orden de marcha",
@@ -812,7 +778,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Precio aproximado desde 6.490 €"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
       "Garantía orientativa de modelos parecidos, no específica de esta versión",
       "Mantenimiento orientativo de un modelo similar de la misma marca",
       "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
@@ -857,7 +822,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     modelo: "TRK 502",
     version: "TRK 502 2026",
     categoria: "Trail",
-    precioDesde: 5990,
+    precioDesde: 5990, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 35.3,
     potenciaCv: 48,
     cilindradaCc: 500,
@@ -871,9 +836,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-      "precioDesde"
-    ],
+    aprox: [],
     pros: [
       "Motor de 500 cc con 48 CV (35,3 kW) y 46 Nm de par",
       "Peso declarado de 213 kg en orden de marcha",
@@ -883,7 +846,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Precio aproximado desde 5.990 €"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
       "Garantía orientativa de modelos parecidos, no específica de esta versión",
       "Mantenimiento orientativo de un modelo similar de la misma marca",
       "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
@@ -928,7 +890,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     modelo: "TRK 502 X",
     version: "TRK 502 X 2026",
     categoria: "Trail",
-    precioDesde: 6990,
+    precioDesde: 6990, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 35.3,
     potenciaCv: 48,
     cilindradaCc: 500,
@@ -942,9 +904,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-      "precioDesde"
-    ],
+    aprox: [],
     pros: [
       "Motor de 500 cc con 48 CV (35,3 kW) y 46 Nm de par",
       "Peso declarado de 213 kg en orden de marcha",
@@ -954,7 +914,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Precio aproximado desde 6.990 €"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
       "Garantía orientativa de modelos parecidos, no específica de esta versión",
       "Mantenimiento orientativo de un modelo similar de la misma marca",
       "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
@@ -999,7 +958,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     modelo: "TRK 702",
     version: "TRK 702 2026",
     categoria: "Trail",
-    precioDesde: 7490,
+    precioDesde: 6990, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 51.5,
     potenciaCv: 70,
     cilindradaCc: 698,
@@ -1013,9 +972,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-      "precioDesde"
-    ],
+    aprox: [],
     pros: [
       "Motor de 698 cc con 70 CV (51,5 kW) y 70 Nm de par",
       "Peso declarado de 235 kg en orden de marcha",
@@ -1025,7 +982,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Precio aproximado desde 7.490 €"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
       "Garantía orientativa de modelos parecidos, no específica de esta versión",
       "Mantenimiento orientativo de un modelo similar de la misma marca",
       "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
@@ -1070,7 +1026,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     modelo: "C 400 X",
     version: "C 400 X 2026",
     categoria: "Scooter",
-    precioDesde: 7690,
+    precioDesde: 7690, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 25.0,
     potenciaCv: 34,
     cilindradaCc: 350,
@@ -1084,9 +1040,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-      "precioDesde"
-    ],
+    aprox: [],
     pros: [
       "Motor de 350 cc con 34 CV (25 kW) y 35 Nm de par",
       "Peso declarado de 199 kg en orden de marcha",
@@ -1096,7 +1050,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Precio aproximado desde 7.690 €"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
       "Garantía orientativa de modelos parecidos, no específica de esta versión",
       "Mantenimiento orientativo de un modelo similar de la misma marca",
       "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
@@ -1146,7 +1099,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     modelo: "CE 02",
     version: "CE 02 2026",
     categoria: "Eléctrica urbana",
-    precioDesde: 8425,
+    precioDesde: 8425, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 11.0,
     potenciaCv: 15,
     cilindradaCc: null,
@@ -1160,9 +1113,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     carnet: "A1/A2",
     carga: null,
     etiquetaDgt: "Cero",
-    aprox: [
-      "precioDesde"
-    ],
+    aprox: [],
     pros: [
       "Motor eléctrico de 11 kW (15 CV) con 55 Nm de par",
       "15 CV: el máximo legal para el carnet A1",
@@ -1172,7 +1123,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Precio aproximado desde 8.425 €"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
       "Garantía orientativa de modelos parecidos, no específica de esta versión",
       "Mantenimiento orientativo de un modelo similar de la misma marca",
       "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
@@ -1222,7 +1172,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     modelo: "F 900 GS Adventure",
     version: "F 900 GS Adventure 2026",
     categoria: "Trail",
-    precioDesde: 15640,
+    precioDesde: 15640, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 77.2,
     potenciaCv: 105,
     cilindradaCc: 895,
@@ -1236,9 +1186,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-      "precioDesde"
-    ],
+    aprox: [],
     pros: [
       "Motor de 895 cc con 105 CV (77,2 kW) y 93 Nm de par",
       "Peso declarado de 246 kg en orden de marcha",
@@ -1248,7 +1196,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Precio aproximado desde 15.640 €"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
       "Garantía orientativa de modelos parecidos, no específica de esta versión",
       "Mantenimiento orientativo de un modelo similar de la misma marca",
       "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
@@ -1299,7 +1246,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     modelo: "F 900 R",
     version: "F 900 R 2026",
     categoria: "Naked",
-    precioDesde: 12950,
+    precioDesde: 9960, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 77.0,
     potenciaCv: 105,
     cilindradaCc: 895,
@@ -1313,9 +1260,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-      "precioDesde"
-    ],
+    aprox: [],
     pros: [
       "Motor de 895 cc con 105 CV (77 kW) y 92 Nm de par",
       "Peso declarado de 211 kg en orden de marcha",
@@ -1325,7 +1270,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Precio aproximado desde 12.950 €"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
       "Garantía orientativa de modelos parecidos, no específica de esta versión",
       "Mantenimiento orientativo de un modelo similar de la misma marca",
       "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
@@ -1375,7 +1319,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     modelo: "G 310 GS",
     version: "G 310 GS 2025",
     categoria: "Trail",
-    precioDesde: 6640,
+    precioDesde: 6640, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 25.0,
     potenciaCv: 34,
     cilindradaCc: 313,
@@ -1389,9 +1333,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-      "precioDesde"
-    ],
+    aprox: [],
     pros: [
       "Motor de 313 cc con 34 CV (25 kW) y 28 Nm de par",
       "Peso declarado de 175 kg en orden de marcha",
@@ -1401,7 +1343,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Precio aproximado desde 6.640 €"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
       "Garantía orientativa de modelos parecidos, no específica de esta versión",
       "Mantenimiento orientativo de un modelo similar de la misma marca",
       "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
@@ -1452,7 +1393,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     modelo: "G 310 R",
     version: "G 310 R 2025",
     categoria: "Naked",
-    precioDesde: 5810,
+    precioDesde: 5810, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 25.0,
     potenciaCv: 34,
     cilindradaCc: 313,
@@ -1466,9 +1407,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-      "precioDesde"
-    ],
+    aprox: [],
     pros: [
       "Motor de 313 cc con 34 CV (25 kW) y 28 Nm de par",
       "Peso declarado de 158 kg en orden de marcha",
@@ -1478,7 +1417,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Precio aproximado desde 5.810 €"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
       "Garantía orientativa de modelos parecidos, no específica de esta versión",
       "Mantenimiento orientativo de un modelo similar de la misma marca",
       "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",

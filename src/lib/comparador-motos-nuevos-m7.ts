@@ -2231,7 +2231,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     modelo: "ER10",
     version: "ER10",
     categoria: "Naked",
-    precioDesde: 3088,
+    precioDesde: null, // Voge ya no publica tarifa oficial de la ER10 (verificado 20/10/2026)
     potenciaKw: 6,
     potenciaCv: 12.1,
     cilindradaCc: null,
@@ -2245,9 +2245,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A1 (B)",
     carga: "Unas 4 horas; sin apurar la batería, en 2 horas está al 100 %",
     etiquetaDgt: "Cero",
-    aprox: [
-      "precioDesde",
-    ],
+    aprox: [],
     pros: [
       "Motor trifásico JWT con refrigeración líquida: 8,9 kW de pico y 41 Nm a la rueda",
       "Chasis perimetral de doble viga de aluminio: parte ciclo de moto de verdad",
@@ -2261,7 +2259,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
       "75 km de autonomía WMTC: solo ciudad (motos.net)",
       "90 km/h de punta: insuficiente para carreteras nacionales",
       "Batería no extraíble de 30 kg: dependes de enchufe en el aparcamiento",
-      "Su precio de lanzamiento fue 6.295 €: la oferta actual sugiere fin de stock",
+      "Sin precio oficial vigente: su lanzamiento fue a 6.295 € y hoy solo queda stock en liquidación",
       "Aceleración en modo Eco más contenida de lo esperado",
     ],
     curiosidades: [
@@ -2746,7 +2744,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     modelo: "Calima 50",
     version: "Calima 50",
     categoria: "Scooter",
-    precioDesde: 2790,
+    precioDesde: 2790, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 3,
     potenciaCv: 4.1,
     cilindradaCc: null,
@@ -2762,7 +2760,6 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: [
       "autonomiaKm",
-      "precioDesde",
     ],
     pros: [
       "Hasta 150 km con la segunda batería opcional",
@@ -6581,7 +6578,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     modelo: "CB1000GT",
     version: "CB1000GT 2026",
     categoria: "Touring",
-    precioDesde: 15000,
+    precioDesde: 15750, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 110.3,
     potenciaCv: 150,
     cilindradaCc: 1000,
@@ -6595,9 +6592,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-      "precioDesde",
-    ],
+    aprox: [],
     pros: [
       "Motor de 1.000 cc derivado de la CBR1000RR Fireblade de 2017, con 150 CV: fiabilidad probada y empuje deportivo",
       "Suspensiones electrónicas Showa EERA: se adaptan al modo de conducción y a la carga automáticamente",
@@ -6607,7 +6602,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
       "Puños calefactables y caballete central de serie: detalles ruteros que la competencia cobra aparte",
     ],
     contras: [
-      "Precio en torno a 15.000 €: entra en el territorio de la NT1100, su hermana más rutera",
+      "Precio de 15.750 €: entra en el territorio de la NT1100, su hermana más rutera",
       "229 kg: no es ligera para una sport-turismo, se nota en carreteras reviradas",
       "El motor Fireblade de 2017 no tiene la última electrónica de la CBR actual",
       "El carenado protege menos que el de una touring pura en autopista",
