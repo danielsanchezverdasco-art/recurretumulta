@@ -1382,7 +1382,7 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 124,
     categoria: "Scooter",
-    precioDesde: 3100,
+    precioDesde: 2999, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 8.1,
     potenciaCv: 11,
     autonomiaKm: 240,
@@ -2757,7 +2757,7 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 125,
     categoria: "Retro",
-    precioDesde: 3389,
+    precioDesde: 3595, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: 14.3,
     autonomiaKm: null,
@@ -2770,7 +2770,7 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "La Royal Alloy más barata: desde 3.389 €",
       "Motor de 124,2 cc con 14,3 CV: casi el máximo del A1",

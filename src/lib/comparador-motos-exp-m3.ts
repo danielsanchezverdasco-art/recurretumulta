@@ -1250,7 +1250,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     version: "350AC 2024",
     cilindradaCc: 350,
     categoria: "Naked",
-    precioDesde: 4789,
+    precioDesde: 4789, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 29.9,
     potenciaCv: 40.7,
     autonomiaKm: null,
@@ -1263,7 +1263,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Bicilíndrico de 321,8 cc y 40,7 CV por ~4.789 €",
       "165 kg: muy ligera, 33 kg menos que la 500AC",
@@ -1456,7 +1456,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     version: "TRK 502 2024",
     cilindradaCc: 502,
     categoria: "Trail",
-    precioDesde: 6400,
+    precioDesde: 5990, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 35,
     potenciaCv: 47.6,
     autonomiaKm: null,
@@ -1469,7 +1469,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "velocidadMax"],
+    aprox: ["velocidadMax"],
     pros: [
       "Bicilíndrico de 499,6 cc y 47,6 CV: el tope del A2",
       "Depósito de 20 L: autonomía de gran rutera",
@@ -1531,7 +1531,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     version: "TRK 502 X 2024",
     cilindradaCc: 502,
     categoria: "Trail",
-    precioDesde: 6290,
+    precioDesde: null, // la versión X ya no se comercializa en España y Benelli no publica tarifa oficial vigente para ella (verificado 20/10/2026)
     potenciaKw: 35,
     potenciaCv: 47.6,
     autonomiaKm: null,
@@ -1544,7 +1544,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "velocidadMax"],
+    aprox: ["velocidadMax"],
     pros: [
       "Versión X con rueda de 19 pulgadas y llantas de radios: más adventure",
       "Escape elevado y caballete central de serie",
@@ -1554,6 +1554,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
       "Buena protección aerodinámica",
     ],
     contras: [
+      "Sin precio oficial vigente: la TRK 502 X ya no se vende en España",
       "235 kg: pesadísima para hacer campo de verdad",
       "Las suspensiones tienen más recorrido pero siguen siendo básicas",
       "47,6 CV justos para su peso en autopista",
@@ -2760,7 +2761,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     version: "TT 530 2024",
     cilindradaCc: 530,
     categoria: "Trail",
-    precioDesde: 6495,
+    precioDesde: 6195, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 34.6,
     potenciaCv: 47,
     autonomiaKm: null,
@@ -2773,7 +2774,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Trail de 491 cc y 47 CV en el tope del A2",
       "Depósito de 18 L: gran autonomía",
@@ -3036,7 +3037,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     version: "Rebbe 401 2024",
     cilindradaCc: 398,
     categoria: "Naked",
-    precioDesde: 4490,
+    precioDesde: 4490, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 31.5,
     potenciaCv: 42.8,
     autonomiaKm: null,
@@ -3049,7 +3050,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Bicilíndrico de 401 cc y 42,8 CV: naked neo-retro A2",
       "Doble disco delantero de 300 mm con pinzas radiales",
@@ -3427,7 +3428,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     version: "HPS 125 ABS 2024",
     cilindradaCc: 125,
     categoria: "Naked",
-    precioDesde: 4449,
+    precioDesde: 3999, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 10.4,
     potenciaCv: 14.2,
     autonomiaKm: null,
@@ -3440,7 +3441,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "velocidadMax"],
+    aprox: ["velocidadMax"],
     pros: [
       "Naked retro con 14,2 CV: de las 125 más potentes",
       "133 kg: muy ligera",
@@ -3450,7 +3451,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
       "Versión ABS por 4.449 €",
     ],
     contras: [
-      "4.449 €: cara para una 125",
+      "3.999 €: cara para una 125",
       "El asiento a 795 mm es alto para algunos",
       "El pasajero va justo",
       "La marca es minoritaria en España",
@@ -3490,7 +3491,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     version: "Flat Track 125 2024",
     cilindradaCc: 125,
     categoria: "Scrambler",
-    precioDesde: 3795,
+    precioDesde: 3795, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 10,
     potenciaCv: 13.6,
     autonomiaKm: null,
@@ -3503,7 +3504,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Flat track 125 con estética de competición",
       "TFT personalizable de serie",

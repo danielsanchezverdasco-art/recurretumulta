@@ -2441,7 +2441,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     modelo: "KPM200",
     version: "KPM200 2025",
     categoria: "Naked",
-    precioDesde: null,
+    precioDesde: 4790, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 12.7,
     potenciaCv: 17,
     cilindradaCc: 198,
@@ -2510,7 +2510,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     modelo: "KPV150",
     version: "KPV150 ABS 2025",
     categoria: "Scooter",
-    precioDesde: null,
+    precioDesde: null, // Lifan no comercializa este modelo en Europa y no publica tarifa oficial para él (verificado 20/10/2026)
     potenciaKw: 9,
     potenciaCv: 12.1,
     cilindradaCc: 149,
@@ -2579,7 +2579,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     modelo: "KPR200",
     version: "KPR200 EFI 2025",
     categoria: "Deportiva",
-    precioDesde: null,
+    precioDesde: null, // Lifan no comercializa este modelo en Europa y no publica tarifa oficial para él (verificado 20/10/2026)
     potenciaKw: 12.7,
     potenciaCv: 17,
     cilindradaCc: 198,
@@ -2648,7 +2648,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     modelo: "KP Mini 150",
     version: "KP Mini 150 EFI 2025",
     categoria: "Naked",
-    precioDesde: null,
+    precioDesde: null, // Lifan no comercializa este modelo en Europa y no publica tarifa oficial para él (verificado 20/10/2026)
     potenciaKw: 9.1,
     potenciaCv: 12.2,
     cilindradaCc: 149,
@@ -2717,7 +2717,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     modelo: "KPX250",
     version: "KPX250 2025",
     categoria: "Trail",
-    precioDesde: null,
+    precioDesde: null, // Lifan no comercializa este modelo en Europa y no publica tarifa oficial para él (verificado 20/10/2026)
     potenciaKw: 14.9,
     potenciaCv: 20,
     cilindradaCc: 249,
@@ -2786,7 +2786,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     modelo: "KP200",
     version: "KP200 2025",
     categoria: "Naked",
-    precioDesde: null,
+    precioDesde: null, // Lifan no comercializa este modelo en Europa y no publica tarifa oficial para él (verificado 20/10/2026)
     potenciaKw: 12.7,
     potenciaCv: 17,
     cilindradaCc: 198,
@@ -2855,7 +2855,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     modelo: "X-Pect 200",
     version: "X-Pect 200 2025",
     categoria: "Trail",
-    precioDesde: null,
+    precioDesde: null, // Lifan no comercializa este modelo en Europa y no publica tarifa oficial para él (verificado 20/10/2026)
     potenciaKw: 10.4,
     potenciaCv: 14,
     cilindradaCc: 197,
@@ -2924,7 +2924,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     modelo: "KPS200",
     version: "KPS200 4V 2025",
     categoria: "Naked",
-    precioDesde: null,
+    precioDesde: null, // Lifan no comercializa este modelo en Europa y no publica tarifa oficial para él (verificado 20/10/2026)
     potenciaKw: 15,
     potenciaCv: 20.1,
     cilindradaCc: 198,
@@ -2993,7 +2993,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     modelo: "KP350",
     version: "KP350 (LF350-2) 2025",
     categoria: "Naked",
-    precioDesde: null,
+    precioDesde: null, // Lifan no comercializa este modelo en Europa y no publica tarifa oficial para él (verificado 20/10/2026)
     potenciaKw: 19.9,
     potenciaCv: 27,
     cilindradaCc: 350,
@@ -3062,7 +3062,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     modelo: "KPV350",
     version: "KPV350 2025",
     categoria: "Scooter",
-    precioDesde: null,
+    precioDesde: null, // Lifan no comercializa este modelo en Europa y no publica tarifa oficial para él (verificado 20/10/2026)
     potenciaKw: 25.5,
     potenciaCv: 34.2,
     cilindradaCc: 350,
@@ -3131,7 +3131,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     modelo: "KPT150",
     version: "KPT150 ABS 2025",
     categoria: "Trail",
-    precioDesde: null,
+    precioDesde: null, // Lifan no comercializa este modelo en Europa y no publica tarifa oficial para él (verificado 20/10/2026)
     potenciaKw: 12.5,
     potenciaCv: 16.8,
     cilindradaCc: 150,
@@ -3200,7 +3200,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     modelo: "KPT200",
     version: "KPT200 4V 2025",
     categoria: "Trail",
-    precioDesde: null,
+    precioDesde: null, // Lifan no comercializa este modelo en Europa y no publica tarifa oficial para él (verificado 20/10/2026)
     potenciaKw: 12.5,
     potenciaCv: 17,
     cilindradaCc: 198,
@@ -3269,7 +3269,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     modelo: "MQi GT",
     version: "MQi GT 100 2025",
     categoria: "Scooter",
-    precioDesde: null,
+    precioDesde: 4999, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 6.5,
     potenciaCv: 8.8,
     cilindradaCc: null,
@@ -3344,7 +3344,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     modelo: "XQi3",
     version: "XQi3 Street 2025",
     categoria: "Trail",
-    precioDesde: null,
+    precioDesde: 4499, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 8,
     potenciaCv: 10.9,
     cilindradaCc: null,
@@ -3494,7 +3494,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     modelo: "Senmenti 0",
     version: "Senmenti 0 2025",
     categoria: "Scooter",
-    precioDesde: null,
+    precioDesde: null, // Horwin no publica tarifa oficial para España de la Senmenti 0 (verificado 20/10/2026)
     potenciaKw: 74,
     potenciaCv: 100,
     cilindradaCc: null,
@@ -3517,6 +3517,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
       "Asientos y puños calefactados, parabrisas automático y marcha atrás",
     ],
     contras: [
+      "Sin precio oficial en España: solo preventa en EE. UU.",
       "16.800 USD en EE. UU.: precio de moto premium",
       "230 kg: muy pesado para un scooter",
       "Disponibilidad limitada; preventa con depósito",
@@ -3569,7 +3570,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     modelo: "VS1",
     version: "VS1 2025",
     categoria: "Scooter",
-    precioDesde: null,
+    precioDesde: null, // Vmoto no publica precio de venta a particulares en España para la VS1 (verificado 20/10/2026)
     potenciaKw: 5.4,
     potenciaCv: 7.3,
     cilindradaCc: null,
@@ -3644,7 +3645,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     modelo: "OFF-R",
     version: "OFF-R 2025",
     categoria: "Trail",
-    precioDesde: null,
+    precioDesde: null, // Vmoto no publica tarifa oficial en España para la OFF-R (verificado 20/10/2026)
     potenciaKw: 8,
     potenciaCv: 10.9,
     cilindradaCc: null,
@@ -3719,7 +3720,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     modelo: "CUx",
     version: "CUx 2025",
     categoria: "Scooter",
-    precioDesde: null,
+    precioDesde: null, // descatalogada en España; Vmoto/Super Soco no publica tarifa oficial vigente para la CUx (verificado 20/10/2026)
     potenciaKw: 2.8,
     potenciaCv: 3.8,
     cilindradaCc: null,
@@ -3742,6 +3743,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
       "App con GPS, diagnóstico remoto y cámara frontal",
     ],
     contras: [
+      "Sin precio oficial vigente: la CUx ya no se comercializa en España",
       "45 km/h limitados: solo ciudad",
       "75 km de autonomía que bajan con pasajero o cuestas",
       "6-7 h de carga completa",
@@ -3794,7 +3796,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     modelo: "CUx Pro",
     version: "CUx Pro 2025",
     categoria: "Scooter",
-    precioDesde: null,
+    precioDesde: null, // Vmoto/Super Soco no publica tarifa oficial vigente en España para la CUx Pro (verificado 20/10/2026)
     potenciaKw: 2.3,
     potenciaCv: 3.1,
     cilindradaCc: null,
@@ -3817,6 +3819,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
       "Tres colores y precio contenido: 1.590 libras en Reino Unido",
     ],
     contras: [
+      "Sin precio oficial vigente publicado por Vmoto para la CUx Pro",
       "45 km/h: ciclomotor puro, sin aspiraciones interurbanas",
       "4-5 h de carga",
       "Sin ABS",

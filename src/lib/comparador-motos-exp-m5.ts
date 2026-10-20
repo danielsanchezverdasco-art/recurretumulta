@@ -85,7 +85,7 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     version: "2025",
     cilindradaCc: null,
     categoria: "Trail",
-    precioDesde: 19725,
+    precioDesde: 19725, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 52,
     potenciaCv: 70,
     autonomiaKm: 249,
@@ -98,7 +98,7 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     carnet: "A2",
     carga: "Cargador integrado; carga completa en enchufe doméstico durante la noche",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "carga"],
+    aprox: ["carga"],
     pros: [
       "249 km de autonomía urbana: la mayor de la gama trail de Zero",
       "70 CV y 52 kW: la trail eléctrica más potente de la marca",
@@ -157,7 +157,7 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     version: "2025",
     cilindradaCc: null,
     categoria: "Trail",
-    precioDesde: null,
+    precioDesde: null, // Zero ya no comercializa la FX en Europa (sustituida por las XB y XE); sin tarifa oficial en España (verificado 20/10/2026)
     potenciaKw: 32,
     potenciaCv: 44,
     autonomiaKm: 161,
@@ -229,7 +229,7 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     version: "2026",
     cilindradaCc: null,
     categoria: "Trail",
-    precioDesde: 6715,
+    precioDesde: 6715, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 15.5,
     potenciaCv: 20.1,
     autonomiaKm: 104,
@@ -242,7 +242,7 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: "Batería extraíble de 4,3 kWh; carga en enchufe doméstico",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "autonomiaKm"],
+    aprox: ["autonomiaKm"],
     pros: [
       "6.715 €: la Zero nueva más barata del catálogo",
       "Solo 101 kg: ligera como una 125 de enduro de gasolina",
@@ -293,7 +293,7 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     version: "2026",
     cilindradaCc: null,
     categoria: "Trail",
-    precioDesde: 4475,
+    precioDesde: 4680, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 7.5,
     potenciaCv: 10,
     autonomiaKm: 75,
@@ -306,7 +306,7 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     carnet: "AM (válido con B)",
     carga: "Batería extraíble de 2,4 kWh; carga en enchufe doméstico",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "4.475 €: la moto Zero más barata jamás vendida",
       "Solo 63 kg: la levanta cualquiera, ideal para aprender off-road",
@@ -357,7 +357,7 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     version: "2026",
     cilindradaCc: null,
     categoria: "Urbana",
-    precioDesde: 5275,
+    precioDesde: 5275, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 8,
     potenciaCv: 11.4,
     autonomiaKm: 112,
@@ -370,7 +370,7 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: "Dos baterías extraíbles de 1,86 kWh; carga en enchufe doméstico",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "bateriaKwh"],
+    aprox: ["bateriaKwh"],
     pros: [
       "5.275 €: precio contenido para ser una Zero",
       "Doble batería extraíble: se cargan en casa o en la oficina",
@@ -789,7 +789,7 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     version: "HS 2025",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: null,
+    precioDesde: null, // Silence no publica tarifa oficial de venta al público para la S02 HS (verificado 20/10/2026)
     potenciaKw: 9,
     potenciaCv: 12,
     autonomiaKm: 120,
@@ -861,7 +861,7 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     version: "2025",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: null,
+    precioDesde: null, // venta directa a flotas bajo presupuesto; Silence no publica tarifa oficial (verificado 20/10/2026)
     potenciaKw: 8,
     potenciaCv: 11,
     autonomiaKm: 88,
@@ -925,7 +925,7 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     version: "2025",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: null,
+    precioDesde: 3200, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 2.1,
     potenciaCv: 2.9,
     autonomiaKm: 70,
@@ -1069,7 +1069,7 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     version: "R 2025",
     cilindradaCc: null,
     categoria: "Trail",
-    precioDesde: null,
+    precioDesde: 5300, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 8,
     potenciaCv: 10.9,
     autonomiaKm: 150,

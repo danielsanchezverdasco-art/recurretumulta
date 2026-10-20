@@ -15,7 +15,7 @@ export const MOTOS_EXP_M27: MotoComparador[] = [
     version: "450RR 2024",
     cilindradaCc: 443,
     categoria: "Deportiva",
-    precioDesde: 6297,
+    precioDesde: 6297, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 49,
     potenciaCv: 66.6,
     autonomiaKm: null,
@@ -28,7 +28,7 @@ export const MOTOS_EXP_M27: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Tetracilíndrico de 443 cc: una configuración casi única en la media cilindrada, con 66,6 CV a 13.250 rpm",
       "Solo 165 kg en orden de marcha: ligereza de 125 con prestaciones de media",
@@ -86,7 +86,7 @@ export const MOTOS_EXP_M27: MotoComparador[] = [
     version: "800X Pro 2025",
     cilindradaCc: 799,
     categoria: "Trail",
-    precioDesde: 9899,
+    precioDesde: 7999, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 69.5,
     potenciaCv: 94.5,
     autonomiaKm: null,
@@ -99,7 +99,7 @@ export const MOTOS_EXP_M27: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "velocidadMax"],
+    aprox: ["velocidadMax"],
     pros: [
       "94,5 CV con 190 kg en orden de marcha: la mejor relación peso/potencia de su segmento",
       "Suspensiones KYB de 240 mm de recorrido, totalmente regulables delante y detrás",
@@ -158,7 +158,7 @@ export const MOTOS_EXP_M27: MotoComparador[] = [
     version: "T502X 2025",
     cilindradaCc: 486,
     categoria: "Trail",
-    precioDesde: 5390,
+    precioDesde: 5390, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 35,
     potenciaCv: 47,
     autonomiaKm: 440,
@@ -171,7 +171,7 @@ export const MOTOS_EXP_M27: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "autonomiaKm", "velocidadMax"],
+    aprox: ["autonomiaKm", "velocidadMax"],
     pros: [
       "La A2 trail con mejor relación calidad-precio del mercado: 5.390 € con equipamiento de maxitrail",
       "Pantalla TFT vertical de 7 pulgadas con GPS y Morbidelli Connect, digna de motos mucho más caras",
@@ -230,7 +230,7 @@ export const MOTOS_EXP_M27: MotoComparador[] = [
     version: "C1002V 2025",
     cilindradaCc: 997,
     categoria: "Custom",
-    precioDesde: 9990,
+    precioDesde: 9990, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 65,
     potenciaCv: 88.4,
     autonomiaKm: null,
@@ -243,7 +243,7 @@ export const MOTOS_EXP_M27: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "velocidadMax", "pesoKg"],
+    aprox: ["velocidadMax", "pesoKg"],
     pros: [
       "V-twin a 80° de 997 cc con 89 Nm: empuje contundente desde muy abajo",
       "Imagen dragster con rueda trasera de 240 mm: presencia imposible de ignorar",
@@ -305,7 +305,7 @@ export const MOTOS_EXP_M27: MotoComparador[] = [
     version: "Montana XR5 2024",
     cilindradaCc: 471,
     categoria: "Trail",
-    precioDesde: 6999,
+    precioDesde: 7199, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 34.5,
     potenciaCv: 47,
     autonomiaKm: null,
@@ -318,7 +318,7 @@ export const MOTOS_EXP_M27: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "178 kg en seco: la más ligera de su categoría, con mucho aluminio en el conjunto",
       "Suspensiones KYB multirregulables en ambos trenes, algo raro en este precio",

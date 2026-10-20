@@ -84,7 +84,7 @@ export const MOTOS_EXP_M28: MotoComparador[] = [
     version: "SR150GT",
     cilindradaCc: 150,
     categoria: "Scooter",
-    precioDesde: null,
+    precioDesde: null, // no se comercializa en Europa; Voge no publica tarifa oficial para este mercado (verificado 20/10/2026)
     potenciaKw: 10.5,
     potenciaCv: 14.3,
     autonomiaKm: null,
@@ -154,7 +154,7 @@ export const MOTOS_EXP_M28: MotoComparador[] = [
     version: "SRT 800SX",
     cilindradaCc: 799,
     categoria: "Trail",
-    precioDesde: null,
+    precioDesde: null, // QJMOTOR no comercializa la SRT 800 SX en España ni publica tarifa oficial para Europa (verificado 20/10/2026)
     potenciaKw: 67.3,
     potenciaCv: 91.5,
     autonomiaKm: null,
@@ -224,7 +224,7 @@ export const MOTOS_EXP_M28: MotoComparador[] = [
     version: "SVT 650",
     cilindradaCc: 645,
     categoria: "Trail",
-    precioDesde: null,
+    precioDesde: null, // QJMOTOR no comercializa la SVT 650 en España ni publica tarifa oficial para Europa (verificado 20/10/2026)
     potenciaKw: 56,
     potenciaCv: 75,
     autonomiaKm: null,
@@ -247,6 +247,7 @@ export const MOTOS_EXP_M28: MotoComparador[] = [
       "Asiento bajo de 795 mm: accesible para pilotos de cualquier talla",
     ],
     contras: [
+      "Sin precio oficial en España: QJMOTOR no la comercializa en nuestro mercado",
       "236 kg en orden de marcha: más pesada que sus rivales directas",
       "Marca nueva en Europa: sin datos de fiabilidad, recambios ni valor de reventa",
       "Sin caballete central de serie",
