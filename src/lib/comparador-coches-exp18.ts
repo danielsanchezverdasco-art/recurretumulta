@@ -381,6 +381,26 @@ export const COCHES_EXP18: CocheComparador[] = [
   },
   {
     id: "kia-pv5-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: null,
+      nota: "Prueba del Kia PV5 Passenger, 2025 (4 estrellas de serie; 5 con el pack de seguridad opcional)"
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 24 meses (lo que ocurra antes, orientativo)",
+      revisiones: [
+        {
+          nombre: "Revisión bienal / 30.000 km",
+          queSeCambia: "Filtro de habitáculo, líquidos e inspección general",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kia España"
+    },
+    fuenteNombre: "Kia España",
+    fuenteUrl: "https://www.kia.com/es/pbv/vehiculos/pv5-passenger/descubrelo/",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -456,6 +476,26 @@ export const COCHES_EXP18: CocheComparador[] = [
   },
   {
     id: "kia-sportage-gt-line-mhev-2026-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: null,
+      nota: "Prueba del Kia Sportage, 2022"
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros e inspección general",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kia España"
+    },
+    fuenteNombre: "Kia España",
+    fuenteUrl: "https://www.kia.com/es/modelos/sportage/descubrelo/",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -606,6 +646,26 @@ export const COCHES_EXP18: CocheComparador[] = [
   },
   {
     id: "kia-ev4-gt-line-fastback-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: null,
+      nota: "Prueba del Kia EV4, 2025 (4 estrellas de serie; 5 con el DriveWise Safety Pack opcional)"
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 24 meses (lo que ocurra antes, orientativo)",
+      revisiones: [
+        {
+          nombre: "Revisión bienal / 30.000 km",
+          queSeCambia: "Filtro de habitáculo, líquidos e inspección general",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kia España"
+    },
+    fuenteNombre: "Kia España",
+    fuenteUrl: "https://www.kia.com/es/modelos/ev4/descubrelo/",
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -831,6 +891,26 @@ export const COCHES_EXP18: CocheComparador[] = [
   },
   {
     id: "kia-ceed-gt-line-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 4,
+      ano: 2019,
+      url: null,
+      nota: "Prueba del Kia Ceed, 2019 (4 estrellas de serie; 5 con el pack de seguridad opcional)"
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros e inspección general",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kia España"
+    },
+    fuenteNombre: "Kia España",
+    fuenteUrl: "https://www.kia.com/es/concesionarios/kmibretailmadrid/modelos/ceed/descubrelo/",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,

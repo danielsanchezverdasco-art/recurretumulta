@@ -259,6 +259,24 @@ export const COCHES_KIA: CocheComparador[] = [
   // 4. Kia EV6 GT 585 CV — deportivo eléctrico
   {
     id: "kia-ev6-gt-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: null,
+      nota: "Prueba del Kia EV6, 2022"
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 24 meses (lo que ocurra antes, orientativo)",
+      revisiones: [
+        {
+          nombre: "Revisión bienal / 30.000 km",
+          queSeCambia: "Filtro de habitáculo, líquidos e inspección general",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kia España"
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -427,6 +445,24 @@ export const COCHES_KIA: CocheComparador[] = [
   // 6. Kia Niro 1.6 GDi PHEV Concept — híbrido enchufable compacto
   {
     id: "kia-niro-phev-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 4,
+      ano: 2022,
+      url: null,
+      nota: "Prueba del Kia Niro, 2022"
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros, inspección general y chequeo del sistema híbrido",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kia España"
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -679,6 +715,24 @@ export const COCHES_KIA: CocheComparador[] = [
   // 9. Kia Sorento Drive 1.6 T-GDi PHEV 252 CV 4x4 — 7 plazas con etiqueta Cero
   {
     id: "kia-sorento-phev-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2020,
+      url: null,
+      nota: "Prueba del Kia Sorento, 2020"
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros, inspección general y chequeo del sistema híbrido",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kia España"
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -763,6 +817,24 @@ export const COCHES_KIA: CocheComparador[] = [
   // 10. Kia Ceed Tourer Concept 1.0 T-GDi 100 CV — familiar compacto
   {
     id: "kia-ceed-sw-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 4,
+      ano: 2019,
+      url: null,
+      nota: "Prueba del Kia Ceed, 2019 (4 estrellas de serie; 5 con el pack de seguridad opcional)"
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros e inspección general",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kia España"
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -847,6 +919,24 @@ export const COCHES_KIA: CocheComparador[] = [
   // 11. Kia ProCeed GT-Line 1.5 T-GDi MHEV 160 CV — shooting brake
   {
     id: "kia-proceed-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 4,
+      ano: 2019,
+      url: null,
+      nota: "Prueba del Kia Ceed, 2019 (4 estrellas de serie; 5 con el pack de seguridad opcional)"
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros e inspección general",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kia España"
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -931,6 +1021,24 @@ export const COCHES_KIA: CocheComparador[] = [
   // 12. Kia Picanto 1.2 DPI GT-line — urbano deportivo
   {
     id: "kia-picanto-gt-line-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 3,
+      ano: 2017,
+      url: null,
+      nota: "Prueba del Kia Picanto, 2017 (3 estrellas de serie; 5 con el pack de seguridad opcional)"
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros e inspección general",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kia España"
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1015,6 +1123,24 @@ export const COCHES_KIA: CocheComparador[] = [
   // 13. Kia EV3 GT-line Long Range 81,4 kWh — SUV eléctrico compacto deportivo
   {
     id: "kia-ev3-gt-line-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: null,
+      nota: "Prueba del Kia EV3, 2025 (4 estrellas de serie; 5 con el DriveWise Safety Pack opcional)"
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 24 meses (lo que ocurra antes, orientativo)",
+      revisiones: [
+        {
+          nombre: "Revisión bienal / 30.000 km",
+          queSeCambia: "Filtro de habitáculo, líquidos e inspección general",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kia España"
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1099,6 +1225,24 @@ export const COCHES_KIA: CocheComparador[] = [
   // 14. Kia Sportage Tech 1.6 T-GDi MHEV 160 CV — SUV híbrido ligero
   {
     id: "kia-sportage-mhev-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: null,
+      nota: "Prueba del Kia Sportage, 2022"
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros e inspección general",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kia España"
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1267,6 +1411,24 @@ export const COCHES_KIA: CocheComparador[] = [
   // 16. Kia Ceed 5p Tech 1.5 MHEV 140 CV DCT — compacto híbrido ligero
   {
     id: "kia-ceed-15-tgdi-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 4,
+      ano: 2019,
+      url: null,
+      nota: "Prueba del Kia Ceed, 2019 (4 estrellas de serie; 5 con el pack de seguridad opcional)"
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros e inspección general",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kia España"
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1351,6 +1513,24 @@ export const COCHES_KIA: CocheComparador[] = [
   // 17. Kia Sorento 2.2 CRDi Drive DCT — SUV diésel de 7 plazas
   {
     id: "kia-sorento-diesel-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2020,
+      url: null,
+      nota: "Prueba del Kia Sorento, 2020"
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros e inspección general",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kia España"
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1434,6 +1614,24 @@ export const COCHES_KIA: CocheComparador[] = [
   },
   {
     id: "kia-stonic-10-tgdi-2026-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 3,
+      ano: 2017,
+      url: null,
+      nota: "Prueba del Kia Stonic, 2017 (3 estrellas de serie; 5 con el pack de seguridad opcional)"
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros e inspección general",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kia España"
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1517,6 +1715,24 @@ export const COCHES_KIA: CocheComparador[] = [
   },
   {
     id: "kia-sportage-diesel-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: null,
+      nota: "Prueba del Kia Sportage, 2022"
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros e inspección general",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kia España"
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1600,6 +1816,24 @@ export const COCHES_KIA: CocheComparador[] = [
   },
   {
     id: "kia-ceed-sw-phev-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 4,
+      ano: 2019,
+      url: null,
+      nota: "Prueba del Kia Ceed, 2019 (4 estrellas de serie; 5 con el pack de seguridad opcional)"
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros, inspección general y chequeo del sistema híbrido",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kia España"
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1683,6 +1917,24 @@ export const COCHES_KIA: CocheComparador[] = [
   },
   {
     id: "kia-ev6-gt-line-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: null,
+      nota: "Prueba del Kia EV6, 2022"
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 24 meses (lo que ocurra antes, orientativo)",
+      revisiones: [
+        {
+          nombre: "Revisión bienal / 30.000 km",
+          queSeCambia: "Filtro de habitáculo, líquidos e inspección general",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kia España"
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1769,6 +2021,24 @@ export const COCHES_KIA: CocheComparador[] = [
   },
   {
     id: "kia-xceed-15-mhev-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 4,
+      ano: 2019,
+      url: null,
+      nota: "Prueba del Kia Ceed, 2019 (4 estrellas de serie; 5 con el pack de seguridad opcional)"
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros e inspección general",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kia España"
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1852,6 +2122,24 @@ export const COCHES_KIA: CocheComparador[] = [
   },
   {
     id: "kia-ev4-long-range-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: null,
+      nota: "Prueba del Kia EV4, 2025 (4 estrellas de serie; 5 con el DriveWise Safety Pack opcional)"
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 24 meses (lo que ocurra antes, orientativo)",
+      revisiones: [
+        {
+          nombre: "Revisión bienal / 30.000 km",
+          queSeCambia: "Filtro de habitáculo, líquidos e inspección general",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kia España"
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1935,6 +2223,24 @@ export const COCHES_KIA: CocheComparador[] = [
   },
   {
     id: "kia-ceed-10-tgdi-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 4,
+      ano: 2019,
+      url: null,
+      nota: "Prueba del Kia Ceed, 2019 (4 estrellas de serie; 5 con el pack de seguridad opcional)"
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros e inspección general",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kia España"
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -2021,6 +2327,24 @@ export const COCHES_KIA: CocheComparador[] = [
   },
   {
     id: "kia-ev3-air-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: null,
+      nota: "Prueba del Kia EV3, 2025 (4 estrellas de serie; 5 con el DriveWise Safety Pack opcional)"
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 24 meses (lo que ocurra antes, orientativo)",
+      revisiones: [
+        {
+          nombre: "Revisión bienal / 30.000 km",
+          queSeCambia: "Filtro de habitáculo, líquidos e inspección general",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kia España"
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,

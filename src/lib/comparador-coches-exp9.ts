@@ -605,6 +605,26 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "kia-sportage-hev-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: null,
+      nota: "Prueba del Kia Sportage, 2022"
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros, inspección general y chequeo del sistema híbrido",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kia España"
+    },
+    fuenteNombre: "Kia España",
+    fuenteUrl: "https://www.kia.com/es/modelos/sportage/descubrelo/",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -671,6 +691,26 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "kia-ev9-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2023,
+      url: null,
+      nota: "Prueba del Kia EV9, 2023"
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 24 meses (lo que ocurra antes, orientativo)",
+      revisiones: [
+        {
+          nombre: "Revisión bienal / 30.000 km",
+          queSeCambia: "Filtro de habitáculo, líquidos e inspección general",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kia España"
+    },
+    fuenteNombre: "Kia España",
+    fuenteUrl: "https://www.kia.com/es/modelos/ev9/descubrelo/",
     garantiaBateriaAnos: 7,
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
@@ -737,6 +777,26 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "kia-ev2-2026-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2026,
+      url: null,
+      nota: "Prueba del Kia EV2, 2026 (5 estrellas con los protocolos Euro NCAP 2026)"
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 24 meses (lo que ocurra antes, orientativo)",
+      revisiones: [
+        {
+          nombre: "Revisión bienal / 30.000 km",
+          queSeCambia: "Filtro de habitáculo, líquidos e inspección general",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kia España"
+    },
+    fuenteNombre: "Kia España",
+    fuenteUrl: "https://www.kia.com/es/modelos/ev2/descubrelo/",
     garantiaBateriaAnos: 7,
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
