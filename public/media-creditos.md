@@ -6664,3 +6664,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/sunra-miku-max-2025-ficha-tecnica-precio-hunt1.webp | https://www.go2roues.com/wp-content/uploads/2020/07/sunra-miku-max-orange-cote-droit.jpg | Sunra / Go2Roues | desconocida |
 | /media/sunra-miku-max-2025-ficha-tecnica-precio-hunt2.webp | https://gr.e-scooter.co/i/su/nr/sunra-miku-max/full/Miku_max_1.jpg | E-Scooter.gr | desconocida |
 | /media/sunra-miku-max-2025-ficha-tecnica-precio-hunt3.webp | https://scoot-e.nl/wp-content/uploads/2026/02/Sunra_MIKU_Max_zijkant.png | Scoot-e.nl | desconocida |
+| /media/dacia-bigster-2026-tce-140-precio-ficha-tecnica-hunt1.webp | https://masininoi.autovit.ro/dacia-bigster/ | MasiniNoi / Autovit | desconocida |
+| /media/dacia-bigster-2026-tce-140-precio-ficha-tecnica-hunt2.webp | https://suchen.mobile.de/fahrzeuge/details.html?id=41255248793760 | Mobile.de / Autohaus Schneider Gruppe | desconocida |
+| /media/dacia-bigster-2026-tce-140-precio-ficha-tecnica-hunt3.webp | https://www.trans-4x4.com/nos-vehicules/ | Trans-4x4 / Starterre | desconocida |
+| /media/mclaren-750s-le-mans-2025-precio-ficha-tecnica-hunt1.webp | https://www.bangkoksupercar.com/content/10562/mclaren-750s-le-mans-ตัวพิเศษเพียง-50-คันในโลก-ฉลองครบรอบ-30-ปี-ชัยชนะใน-le-mans | Bangkok SuperCar (foto: McLaren) | desconocida |
+| /media/mclaren-750s-le-mans-2025-precio-ficha-tecnica-hunt2.webp | https://moderncarcollector.com/mclaren-unveils-750s-le-mans/ | Modern Car Collector (foto: McLaren) | desconocida |
+| /media/mclaren-750s-le-mans-2025-precio-ficha-tecnica-hunt3.webp | https://ms.actualidadmotor.com/mclaren-750s-le-mans-tribute-le-mans-1995/ | Actualidad Motor (foto: McLaren) | desconocida |
+| /media/can-am-pulse-2025-ficha-tecnica-precio-hunt1.webp | https://www.koneliike.fi/moottoripyorat-roadsterit/can-am-25-pulse-std-11kw-bright-white/p/138811/ | Koneliike (imagen oficial Can-Am/BRP) | desconocida |
+| /media/can-am-pulse-2025-ficha-tecnica-precio-hunt2.webp | https://ultimatemotorcycling.com/2024/10/13/2025-can-am-pulse-review-12-fi | Ultimate Motorcycling | desconocida |
+| /media/can-am-pulse-2025-ficha-tecnica-precio-hunt3.webp | https://dev.lerepairedesmotards.com/actualites/2024/roadster-electrique-can-am-pulse.php | Le Repaire des Motards (imagen Can-Am) | desconocida |
+| /media/sunra-miku-super-125e-2025-ficha-tecnica-precio-hunt1.webp | https://www.pccomponentes.com/sunra-miku-super-125e-scooter-electrica-matriculable-3000w-roja | PcComponentes (imagen Sunra) | desconocida |
+| /media/sunra-miku-super-125e-2025-ficha-tecnica-precio-hunt2.webp | http://motoselectricas125.akrocard.com/product/sunra-miku-super-3000w-40ah-125e-doble-bateria/ | Akrocard (imagen Sunra) | desconocida |
+| /media/sunra-miku-super-125e-2025-ficha-tecnica-precio-hunt3.webp | https://electriktrotters.com/198-scooter-2-roues | Electrik Trotters (imagen Sunra) | desconocida |
