@@ -7710,6 +7710,29 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   },
   {
     id: "kia-xceed-2024-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 4,
+      ano: 2019,
+      url: null,
+      nota: "Test del Kia Ceed (2019), de la misma familia: 88% adultos, 85% infantil, 52% peatones, 68% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección general",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión 60.000 km",
+          queSeCambia: "Lo anterior + filtro de aire + líquido de frenos + bujías",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kia España",
+    },
     mantenimientoDIY: {
         resetAceiteTitulo: "Resetear aviso de cambio de aceite",
         resetAceitePasos: ["Con el contacto dado (botón Start sin pisar el freno), pulsa 'Setup' en la pantalla táctil central.", "Selecciona 'Vehículo' y, en el menú lateral, 'Convenience'.", "Entra en 'Intervalo de servicio' (Service Interval).", "Pulsa 'Reset' y confirma con 'Sí' cuando pregunte si se ha cambiado el aceite."],
@@ -7773,6 +7796,29 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   },
   {
     id: "kia-picanto-2024-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 3,
+      ano: 2017,
+      url: null,
+      nota: "Test del Kia Picanto (2017): 79% adultos, 64% infantil, 54% peatones, 25% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección general",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión 60.000 km",
+          queSeCambia: "Lo anterior + filtro de aire + líquido de frenos + bujías",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kia España",
+    },
     mantenimientoDIY: {
         resetAceiteTitulo: "Resetear aviso de cambio de aceite",
         resetAceitePasos: ["Con el contacto dado (botón Start sin pisar el freno), pulsa 'Setup' en la pantalla táctil central.", "Selecciona 'Vehículo' y, en el menú lateral, 'Convenience'.", "Entra en 'Intervalo de servicio' (Service Interval).", "Pulsa 'Reset' y confirma con 'Sí' cuando pregunte si se ha cambiado el aceite."],

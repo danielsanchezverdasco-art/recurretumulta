@@ -929,6 +929,8 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
   },
   {
     id: "kia-ev9-gt-2026-precio-ficha-tecnica",
+    fuenteNombre: "Kia España",
+    fuenteUrl: "https://www.kia.com/es/",
     marca: "Kia",
     modelo: "EV9 GT 2026",
     tipo: "Eléctrico",
@@ -1005,6 +1007,8 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
   },
   {
     id: "kia-stonic-hibrido-2026-precio-ficha-tecnica",
+    fuenteNombre: "Kia España",
+    fuenteUrl: "https://www.kia.com/es/",
     marca: "Kia",
     modelo: "Stonic 2026",
     tipo: "Híbrido ligero",
@@ -1066,7 +1070,12 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         alto: 1280,
       },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP verificados para esta versión" },
+    euroncap: {
+      estrellas: 3,
+      ano: 2017,
+      url: null,
+      nota: "Test del Kia Stonic (2017): 3 estrellas de serie; 5 estrellas con el pack opcional de asistencia a la conducción",
+    },
     planMantenimiento: {
       intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
@@ -1081,6 +1090,8 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
   },
   {
     id: "kia-pv5-2026-precio-ficha-tecnica",
+    fuenteNombre: "Kia España",
+    fuenteUrl: "https://www.kia.com/es/",
     marca: "Kia",
     modelo: "PV5 2026",
     tipo: "Eléctrico",
@@ -1142,7 +1153,12 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         alto: 1280,
       },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: null,
+      nota: "Test del Kia PV5 Passenger (2025): 83% adultos, 85% infantil, 64% peatones, 65% asistencias",
+    },
     planMantenimiento: {
       intervalo: "30.000 km o 24 meses (lo que ocurra antes, orientativo)",
       revisiones: [
@@ -1157,6 +1173,8 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
   },
   {
     id: "kia-ev5-gt-line-2026-precio-ficha-tecnica",
+    fuenteNombre: "Kia España",
+    fuenteUrl: "https://www.kia.com/es/",
     marca: "Kia",
     modelo: "EV5 GT-Line 2026",
     tipo: "Eléctrico",
@@ -1218,7 +1236,12 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         alto: 1280,
       },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP verificados" },
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: null,
+      nota: "Test del Kia EV5 (2025): 83% adultos, 85% infantil, 74% peatones, 80% asistencias",
+    },
     planMantenimiento: {
       intervalo: "30.000 km o 24 meses (lo que ocurra antes, orientativo)",
       revisiones: [
@@ -1233,6 +1256,8 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
   },
   {
     id: "kia-ev3-gt-line-2026-precio-ficha-tecnica",
+    fuenteNombre: "Kia España",
+    fuenteUrl: "https://www.kia.com/es/",
     marca: "Kia",
     modelo: "EV3 GT-Line 2026",
     tipo: "Eléctrico",
@@ -1294,7 +1319,12 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         alto: 1280,
       },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP verificados para esta versión" },
+    euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: null,
+      nota: "Test del Kia EV3 (2025): 83% adultos, 84% infantil, 77% peatones, 67% asistencias (5 estrellas con el pack de seguridad opcional)",
+    },
     planMantenimiento: {
       intervalo: "30.000 km o 24 meses (lo que ocurra antes, orientativo)",
       revisiones: [

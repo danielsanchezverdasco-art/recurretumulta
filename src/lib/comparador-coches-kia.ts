@@ -1183,6 +1183,29 @@ export const COCHES_KIA: CocheComparador[] = [
   // 15. Kia XCeed eDrive 1.6 PHEV 141 CV — crossover híbrido enchufable
   {
     id: "kia-xceed-phev-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 4,
+      ano: 2019,
+      url: null,
+      nota: "Test del Kia Ceed (2019), de la misma familia: 88% adultos, 85% infantil, 52% peatones, 68% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección general + inspección del sistema híbrido enchufable",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión 60.000 km",
+          queSeCambia: "Lo anterior + filtro de aire + líquido de frenos + bujías",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kia España",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,

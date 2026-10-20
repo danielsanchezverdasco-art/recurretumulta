@@ -883,6 +883,11 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "mutt-mastiff-125-2026-ficha-tecnica-precio": () => import("../historia-lote10.ts"),
     "mv-agusta-brutale-1000-rr-2025-ficha-tecnica-precio": () => import("../historia-m13.ts"),
     "mv-agusta-enduro-veloce-2025-ficha-tecnica-precio": () => import("../historia-m13.ts"),
+    "mg-3-2025-precio-ficha-tecnica": () => import("../historia-enriquecer-t6.ts"),
+    "mg-4-xpower-2025-precio-ficha-tecnica": () => import("../historia-enriquecer-t6.ts"),
+    "mg-5-ev-2025-precio-ficha-tecnica": () => import("../historia-enriquecer-t6.ts"),
+    "mg-4-urban-ev-2026-precio-ficha-tecnica": () => import("../historia-enriquecer-t6.ts"),
+    "mg5-2026-precio-ficha-tecnica": () => import("../historia-enriquecer-t6.ts"),
   },
   euroncap: {
     "mazda-2-hybrid-2025-precio-ficha-tecnica": () => import("../euroncap-exp16.ts"),
@@ -945,6 +950,9 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "mitsubishi-eclipse-cross-electrico-2025-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "mitsubishi-grandis-130t-mhev-2025-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "mitsubishi-grandis-hev-2025-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
+    "mg-3-2025-precio-ficha-tecnica": () => import("../euroncap-enriquecer-t6.ts"),
+    "mg-4-xpower-2025-precio-ficha-tecnica": () => import("../euroncap-enriquecer-t6.ts"),
+    "mg-4-urban-ev-2026-precio-ficha-tecnica": () => import("../euroncap-enriquecer-t6.ts"),
   },
   galeria: {
     "maserati-ghibli-gt-2024-precio-ficha-tecnica": () => import("../galerias-coches.ts"),

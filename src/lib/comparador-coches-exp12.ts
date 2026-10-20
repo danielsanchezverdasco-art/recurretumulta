@@ -544,6 +544,31 @@ export const COCHES_EXP12: CocheComparador[] = [
   },
   {
     id: "mg4-xpower-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: null,
+      nota: "Test del MG4 (2022): 83% adultos, 80% infantil, 75% peatones, 78% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Filtro de polen + inspección general + inspección de la batería de alto voltaje",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión 60.000 km",
+          queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Red oficial MG España",
+    },
+    fuenteNombre: "MG España",
+    fuenteUrl: "https://www.mgmotor.eu/es",
     garantiaBateriaAnos: 7,
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
@@ -610,6 +635,31 @@ export const COCHES_EXP12: CocheComparador[] = [
   },
   {
     id: "mg5-ev-long-range-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+    },
+    planMantenimiento: {
+      intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Filtro de polen + inspección general + inspección de la batería de alto voltaje",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión 60.000 km",
+          queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Red oficial MG España",
+    },
+    fuenteNombre: "MG España",
+    fuenteUrl: "https://www.mgmotor.eu/es",
     garantiaBateriaAnos: 7,
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
@@ -676,6 +726,31 @@ export const COCHES_EXP12: CocheComparador[] = [
   },
   {
     id: "mg3-hybrid-plus-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: null,
+      nota: "Test del MG3 (2025): 74% adultos, 73% infantil, 81% peatones, 69% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección general + inspección del sistema híbrido",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión 60.000 km",
+          queSeCambia: "Lo anterior + filtro de aire + líquido de frenos + bujías",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Red oficial MG España",
+    },
+    fuenteNombre: "MG España",
+    fuenteUrl: "https://www.mgmotor.eu/es",
     garantiaBateriaAnos: 7,
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,

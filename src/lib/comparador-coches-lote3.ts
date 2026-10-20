@@ -550,6 +550,8 @@ export const COCHES_LOTE3: CocheComparador[] = [
   },
   {
     id: "mg-u9-ev-2026-precio-ficha-tecnica",
+    fuenteNombre: "MG España",
+    fuenteUrl: "https://www.mgmotor.eu/es",
     marca: "MG",
     modelo: "U9 EV",
     tipo: "Eléctrico",
@@ -1078,6 +1080,8 @@ export const COCHES_LOTE3: CocheComparador[] = [
   },
   {
     id: "kia-k4-2026-precio-ficha-tecnica",
+    fuenteNombre: "Kia (web oficial)",
+    fuenteUrl: "https://www.kia.com/",
     marca: "Kia",
     modelo: "K4",
     tipo: "Híbrido ligero",

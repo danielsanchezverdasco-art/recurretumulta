@@ -2106,6 +2106,8 @@ export const COCHES_EXP22: CocheComparador[] = [
   },
   {
     id: "mg-3-2025-precio-ficha-tecnica",
+    fuenteNombre: "MG España",
+    fuenteUrl: "https://www.mgmotor.eu/es",
     marca: "MG",
     modelo: "3",
     tipo: "Gasolina",
@@ -2164,10 +2166,10 @@ export const COCHES_EXP22: CocheComparador[] = [
       estimado: true,
     },
     euroncap: {
-      estrellas: 3,
-      ano: 2024,
+      estrellas: 4,
+      ano: 2025,
       url: null,
-      nota: null,
+      nota: "Test del MG3 (2025): 74% adultos, 73% infantil, 81% peatones, 69% asistencias",
     },
     planMantenimiento: {
       intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
@@ -2331,6 +2333,8 @@ export const COCHES_EXP22: CocheComparador[] = [
   },
   {
     id: "mg-4-xpower-2025-precio-ficha-tecnica",
+    fuenteNombre: "MG España",
+    fuenteUrl: "https://www.mgmotor.eu/es",
     marca: "MG",
     modelo: "4 XPower",
     tipo: "Eléctrico",
@@ -2406,6 +2410,8 @@ export const COCHES_EXP22: CocheComparador[] = [
   },
   {
     id: "mg-5-ev-2025-precio-ficha-tecnica",
+    fuenteNombre: "MG España",
+    fuenteUrl: "https://www.mgmotor.eu/es",
     marca: "MG",
     modelo: "5 EV",
     tipo: "Eléctrico",

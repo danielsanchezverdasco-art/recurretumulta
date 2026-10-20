@@ -230,6 +230,8 @@ export const COCHES_LOTE11: CocheComparador[] = [
   },
   {
     id: "mg-4-urban-ev-2026-precio-ficha-tecnica",
+    fuenteNombre: "MG España",
+    fuenteUrl: "https://www.mgmotor.eu/es",
     garantiaBateriaAnos: 7,
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
@@ -311,10 +313,10 @@ export const COCHES_LOTE11: CocheComparador[] = [
     ],
     analisisSlug: "mg-4-urban-ev-2026-precio-autonomia",
     euroncap: {
-      estrellas: null,
-      ano: null,
+      estrellas: 5,
+      ano: 2025,
       url: null,
-      nota: "Sin datos EuroNCAP: la nueva generación aún no ha sido probada (el MG4 anterior obtuvo 5 estrellas en 2022).",
+      nota: "Test del MG4 EV Urban (2025): 87% adultos, 85% infantil, 85% peatones, 80% asistencias",
     },
     planMantenimiento: {
       intervalo: "Cada 24 meses o 25.000 km, lo que antes ocurra (plan oficial MG España para eléctricos)",
@@ -2466,6 +2468,8 @@ export const COCHES_LOTE11: CocheComparador[] = [
   },
   {
     id: "mg5-2026-precio-ficha-tecnica",
+    fuenteNombre: "MG España",
+    fuenteUrl: "https://www.mgmotor.eu/es",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,

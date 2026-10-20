@@ -1188,6 +1188,29 @@ export const COCHES_MG: CocheComparador[] = [
   },
   {
     id: "mg-cyberster-gt-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+    },
+    planMantenimiento: {
+      intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Filtro de polen + inspección general + inspección de la batería de alto voltaje",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión 60.000 km",
+          queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Red oficial MG España",
+    },
     garantiaBateriaAnos: 7,
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,

@@ -1222,6 +1222,8 @@ const COCHES_LOTE13_B: CocheComparador[] = [
   },
   {
     id: "kia-tasman-2025-precio-ficha-tecnica",
+    fuenteNombre: "Kia (web oficial)",
+    fuenteUrl: "https://www.kia.com/",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
