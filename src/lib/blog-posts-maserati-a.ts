@@ -588,6 +588,34 @@ Lleva etiqueta **C** (<a href=https://www.cupra.com/es-es/hibridos-y-electricos/
 | Más exclusivo que un Serie 5 | Producción finalizada |
 | Acabado completo | Consumos sin publicar |
 
+## El nombre Ghibli: de un cupé de 1967 a esta berlina
+
+«Ghibli» —el viento cálido del desierto libio— bautizó primero a un gran turismo **diseñado por Giorgetto Giugiaro en Ghia**, presentado en el Salón de Turín de 1966 y vendido desde 1967. Maserati recuperó el nombre en **2013** para su berlina deportiva, la tercera vida del modelo, y el Modena es una de sus últimas versiones antes del fin de la producción en 2024. Comprar un Modena hoy es comprar el cierre de una saga: ya no se fabrica, así que el mercado es el de ocasión y unidades de stock, con todo lo que eso implica de negociación y de necesidad de historial de mantenimiento demostrable.
+
+## Técnica oficial: ZF de 8 velocidades y modos de conducción
+
+Más allá del V6, la <a href=https://www.maserati.com/es/es/modelos/ghibli>página oficial del Ghibli en maserati.com</a> detalla el resto del conjunto: **transmisión automática ZF de 8 velocidades** con software autoadaptativo, **cuatro modos de conducción** que cambian el carácter del coche, asistentes de conducción **ADAS de nivel 2** con asistente de conducción activa que mantiene el coche centrado en el carril, y suspensiones **Skyhook** de amortiguación variable dentro de la gama. Es decir: el Modena no es solo sonido; su base electrónica es la de una berlina moderna, aunque el interior acuse el paso de los años frente a un Serie 5 actual.
+
+## Uso real y costes: la parte que el folleto no cuenta
+
+Maserati no publicó consumos oficiales para esta versión en España, y aquí no vamos a inventarlos: un V6 biturbo de 350 CV en una berlina de este tamaño gasta como lo que es, especialmente en ciudad. El mantenimiento debe hacerse en la red oficial o en especialistas de la marca si quieres conservar valor de reventa, y las piezas Maserati no son piezas de generalista. A cambio, la depreciación ya la ha sufrido el primer dueño: en ocasión, el Modena ofrece sensaciones de coche de seis cifras por una fracción.
+
+## Etiqueta C, ITV y vida en España
+
+Con **etiqueta C**, el Ghibli puede entrar en las zonas de bajas emisiones con las limitaciones que cada ciudad aplique a ese distintivo, pero sin ventajas de aparcamiento de las ECO o Cero. Puedes verificar el distintivo de cualquier matrícula en la <a href=https://sede.dgt.gob.es/es/vehiculos/distintivo-ambiental/>consulta oficial de la DGT</a>. Al ser ya un coche fuera de producción, la ITV periódica y un mantenimiento al día son tu única garantía: exige facturas, no promesas.
+
+## Modena entre el GT y el Trofeo
+
+| Versión | Motor | Potencia | Carácter |
+|---|---|---|---|
+| <a href=/coches/maserati-ghibli-gt-2024-precio-ficha-tecnica/>Ghibli GT</a> | 2.0 híbrido ligero | 330 CV | El eficiente |
+| **Ghibli Modena** | V6 3.0 biturbo | 350 CV | El equilibrado |
+| <a href=/coches/maserati-ghibli-trofeo-2024-precio-ficha-tecnica/>Ghibli Trofeo</a> | V8 biturbo | 580 CV | El radical |
+
+El GT es el racional, el Trofeo es el coleccionable… y el Modena es el que suena a Maserati clásico sin llegar a los extremos del V8. Si el precio te cuadra y el historial acompaña, es el Ghibli que recomendamos; y mientras esperas a que el taller te devuelva la llamada, prueba nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+**Veredicto:** el Modena es el Ghibli para puristas con cabeza: V6 de verdad, técnica oficial completa y la exclusividad de una saga cerrada, asumiendo costes de mantenimiento de marca premium.
+
 ## Preguntas frecuentes
 
 ### ¿Qué motor lleva el Ghibli Modena?
@@ -610,7 +638,7 @@ No: la producción terminó en 2024.
 
 Si te ha llegado una multa con tu Maserati, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: folleto oficial de Maserati.*`
+*Fuentes: folleto oficial de Maserati y <a href=https://www.maserati.com/es/es/modelos/ghibli>página oficial del Ghibli en maserati.com</a>*`
   },
   {
     "title": "Ghibli Trofeo: 580 CV, precio y ficha",
