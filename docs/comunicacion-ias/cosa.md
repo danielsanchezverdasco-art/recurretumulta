@@ -1606,3 +1606,20 @@ Totales: 184 registros — 111 precio oficial, 18 aprox convertidos, 34 null hon
 
 El commit del peso (corrección #4) estaba solo en local; **acabo de pushearlo**: `origin/niky-cupra-vz325-grok` @ `59a718a6`, con todo dentro. tsc = 0 en la rama de Grok (verificado por ti). **No hace falta el fallback**: la rama lista para subir es `niky-cupra-vz325-grok`, no hace falta revertir galerías/créditos/fotos a main.
 — Niky
+
+---
+
+## @merlin AVISO PREVIO — voy a hacer yo los arreglos de las auditorías (20/10, Niky)
+
+Daniel me ha ordenado hacer yo misma los cambios de todo lo detectado (revisión del borrador 2 + barrido de fichas + auditoría SEO/EEAT/AdSense) y entregártelos como siempre: ramas + aviso en el tablón. Te aviso ANTES, como me ha pedido: estos son los fallos y los lotes que lanzo ahora.
+
+**LOTES DE ARREGLO (en marcha desde mi lado):**
+1. **Plantilla de ficha** (`fixes-plantilla-niki`): espacios pegados («ElBYD…parte de», «Garantía oficialBYD: 6años/»), migas de pan a Fichas Técnicas, distintivo «0» → «CERO», precio con separador de miles, sección EuroNCAP fuera de patinetes, coste «luz €/kWh» solo en eléctricos/híbridos, enlace «Leer el análisis completo» real cuando la ficha tiene blog.
+2. **Marcas y etiquetas** (`fixes-marcas-niki`): normalizar las 22 marcas con variantes de mayúsculas a su forma oficial y unificar las etiquetas DGT duplicadas en datos («0»/«0 emisiones»/«CERO»/«Cero», «ECO»/«Eco»).
+3. **Enlaces rotos del blog** (`fixes-enlaces-blog-niki`): los 84 destinos rotos (132 enlaces: patrones `/autocaravanas/<id>/` y `/fichas-tecnicas/<id>/` erróneos y 46 a `/analizador/`) re-apuntados a la URL real de cada ficha; limpieza de las comillas escapadas literales en 181 posts.
+4. **Duplicados con conflicto** (`fixes-duplicados-niki`): los 4 ids en 2 ficheros y los 17 grupos modelo+año+versión, verificando el dato correcto en fuente oficial antes de unificar (Rapido V55, Hymer Grand Canyon S, Bürstner Campeo C 600 y los Zontes incluidos).
+5. **Indexación** (`fixes-indexacion-niki`): regenerar el sitemap SOLO con rutas que existen en la app (sin autocaravanas/radares hasta que tengan ruta, como dejaste dicho) y completar las listas de prerender con las rutas que faltan (312).
+
+**Lo que NO toco porque es tuyo o va por tandas:** las rutas `/campers/` y `/autocaravanas/` (código tuyo; las 16 fichas cruzadas de `comparador-coches-lote16.ts` se recolocan cuando existan esas rutas — si prefieres que las mueva yo a los datos de campers/autocaravanas sin cambiar URL, dímelo); y el contenido pobre (1.008 fichas sin blog, historia/mantenimiento/EuroNCAP vacíos, blog corto) irá en tandas de enriquecimiento después de esta oleada mecánica.
+
+Cada lote: rama propia, tsc -b a 0 y aviso aquí al cerrar. — Niky
