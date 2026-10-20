@@ -1326,6 +1326,39 @@ Sin certificado DGT verificado. Con modos de hasta 25 km/h cumple la normativa V
 
 <img src=/media/patinetes/evercross-ev85f-3.webp alt=Evercross EV85F junto al transporte público>
 
+## Contexto: el patinete de entrada de Evercross
+
+Evercross se ha hecho un hueco en el mercado europeo vendiendo patinetes eléctricos asequibles a través de grandes plataformas, con una gama escalonada que va del urbano básico al modelo de ruedas grandes. El EV85F es el primer escalón: la máquina sencilla y ligera pensada para quien quiere probar la movilidad eléctrica personal sin gastar lo que cuesta una bicicleta. Su propuesta, por unos **230 €**, es la del último kilómetro: plegarlo, subirlo al metro y desplegarlo al bajar, con la app **EVERCROSS PRO** para bloqueo y estadísticas como toque tecnológico.
+
+## Profundidad técnica: 281 Wh honestos y frenada doble
+
+El conjunto es deliberadamente simple: motor de **350 W**, batería de **36 V y 7,8 Ah (281 Wh)** y ruedas de **8,5 pulgadas** con doble amortiguación. La frenada combina **E-ABS electrónico y freno de disco**, una solución doble que en este rango de precio no todos ofrecen y que casa con sus tres modos de velocidad —12, 20 y 25 km/h— que lo mantienen dentro de la legalidad de serie, como ya detalla este artículo.
+
+| Dato | EV85F |
+|---|---|
+| Motor | 350 W |
+| Batería | 281 Wh |
+| Autonomía declarada / real | 30 km / ~20 km |
+| Peso | 15 kg |
+| Carga máxima | 120 kg |
+| Precio | ~230 € |
+
+Con 281 Wh, la física manda: los **18-20 km reales** que estima este análisis son la cifra con la que hay que planificar, y el peso del conductor y las cuestas recortan antes que la velocidad punta.
+
+## Normativa VMP: el punto que decide esta compra
+
+Aquí está la parte que de verdad importa en España. El EV85F **no tiene certificado DGT verificado**, según consta ya en este artículo. La <a href=https://www.dgt.es/nuestros-servicios/para-colaboradores-y-empresas/vehiculos-de-movilidad-personal-vmp/distribuidores/>DGT recuerda en su web oficial</a> que los VMP comercializados desde el 22 de enero de 2024 deben disponer de certificado de circulación, y que **a partir del 22 de enero de 2027 solo podrán circular los VMP que dispongan de dicho certificado**. Traducción práctica: un modelo sin certificado tiene fecha de caducidad legal en España, y a eso se suma el nuevo marco de registro y seguro obligatorio que está desplegándose para los VMP. Su circulación mientras tanto debe hacerse por carril bici o calzada, nunca por aceras, a un máximo de 25 km/h.
+
+## Uso real, mantenimiento y costes
+
+En el día a día cumple su promesa: 15 kg que se suben a un piso sin ascensor, plegado rápido y coste por kilómetro casi nulo cargando en casa. Es, en la práctica, un complemento del abono transporte: resuelve el tramo entre la estación y la oficina mejor que caminando y sin el coste de un patinete de gama media, siempre que el recorrido sea corto, llano y por vías permitidas, que es exactamente el uso para el que fue diseñado. El mantenimiento es el mínimo de un VMP de ruedas pequeñas: presión y desgaste de neumáticos, ajuste del freno de disco, tornillería del plegado y cuidado de la batería evitando descargas completas prolongadas. Sus límites son igual de claros: ruedas de 8,5 pulgadas justas ante bordillos y baches, sin intermitentes y un soporte de marca ligado a la plataforma de venta, sin red física en España.
+
+## Rivales y veredicto: ¿merece la pena?
+
+El rival está en casa: el <a href=/patinetes/evercross-ev10k-pro/>Evercross EV10K Pro</a> sube a 500 W, 410 Wh, 35 km declarados y unos 24 reales por unos 275 € según su ficha, añade intermitentes y soporta hasta 150 kg. Por unos 45 € más, es objetivamente más patinete y más seguro. El EV85F solo gana en precio y en un kilo menos de peso.
+
+**Veredicto:** merece la pena únicamente como patinete de último kilómetro con presupuesto mínimo y asumiendo su horizonte normativo: si no obtiene certificado, su vida legal en España termina en enero de 2027. Para un uso diario serio, el EV10K Pro es la compra recomendable de la gama. Y mientras decides, recorre unos metros virtuales en el <a href=/juego-monos/>juego caza-monos</a>.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Evercross EV85F?
@@ -1348,7 +1381,7 @@ Para trayectos cortos y presupuesto mínimo, es imbatible. Para más, el EV10K P
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://www.amazon.co.uk/dp/B0CXPL461V/ref=cm_sw_r_cso_cp_apin_dp_6Y6XXBE5AJNKQ5ZXM8JK>ficha del EV85F en Amazon UK</a>.*`,
+*Fuentes: <a href=https://www.amazon.co.uk/dp/B0CXPL461V/ref=cm_sw_r_cso_cp_apin_dp_6Y6XXBE5AJNKQ5ZXM8JK>ficha del EV85F en Amazon UK</a>. <a href=https://www.dgt.es/nuestros-servicios/para-colaboradores-y-empresas/vehiculos-de-movilidad-personal-vmp/distribuidores/>DGT — certificación de VMP (web oficial)</a>*`,
   },
   {
     slug: "evercross-ev08e",

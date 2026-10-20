@@ -325,6 +325,39 @@ Neumáticos, frenos y software: eso es todo. La garantía oficial de NIU es de <
 
 En Europa ronda los 4.500 €. Compite con el <a href=/motos/niu-mqi-gt-evo-ficha-tecnica-precio/>NIU MQi GT Evo</a>, el <a href=/motos/niu-nqix-300-2026-ficha-tecnica-precio/>NIU NQiX 300</a> y los scooters deportivos de 125 cc de gasolina.
 
+## Contexto: NIU y la evolución del NQi
+
+NIU se ha construido un nombre en la movilidad urbana eléctrica a base de scooters conectados, con baterías extraíbles y precios contenidos. El NQi fue su modelo de acceso más popular, y este NQiX 500 representa el salto ambicioso de la saga: más potencia, más velocidad punta y un equipamiento de seguridad impropio de un scooter de su clase. La marca documenta su gama y servicios en su <a href=https://www.niu.com>web oficial</a>, que es también la referencia para garantía y red de venta. Frente a los 125 de gasolina de toda la vida, su propuesta es clara: mismo carnet, menos mantenimiento y silencio.
+
+## Profundidad técnica: dos baterías y un Boost bien pensado
+
+El conjunto lo forman dos baterías de **72 V y 28 Ah** cada una —**4,03 kWh** en total— que alimentan un motor de **5 kW nominales** capaz de entregar **9 kW** en el modo Boost. Cada batería pesa solo **12,4 kg**, así que pueden extraerse y cargarse en casa o en la oficina, la solución práctica para quien no tiene garaje con enchufe. La autonomía declarada es de **95 km**, y la realista en ciudad ronda los 80 km según lo ya analizado en este artículo.
+
+| Dato técnico | NQiX 500 |
+|---|---|
+| Potencia nominal / máxima | 5 kW / 9 kW (Boost) |
+| Batería | 2 × 72 V 28 Ah (4,03 kWh) |
+| 0-50 km/h | 2,8 s |
+| Velocidad máxima | 100 km/h (120 con Boost) |
+| Peso | 128 kg |
+| Carnet | A1 o B con 3 años |
+
+El detalle diferencial es la seguridad activa: **ABS y control de tracción de serie**, algo todavía raro en scooters eléctricos de este precio, junto a una pantalla LCD de 5 pulgadas gestionada desde la corona NIU Link del manillar sin soltar el puño.
+
+## Uso real y carnet: quién puede llevarlo y para qué sirve
+
+Al homologarse como motocicleta ligera, se conduce con el **carnet A1** o con el **B de coche con al menos 3 años de antigüedad**, la vía por la que la mayoría de sus compradores llegará a él. Su terreno es la ciudad y las rondas: con 100 km/h de punta puede defenderse en vías rápidas urbanas, pero no es una moto de autopista ni de viajes largos, y la autonomía real marca el radio útil de acción. A cambio, el hueco bajo el asiento admite un casco integral pese a la doble batería, un detalle que muchos rivales eléctricos no resuelven.
+
+## Mantenimiento y costes de uso
+
+La ventaja estructural del eléctrico se nota en el bolsillo: no hay aceite, filtros de aire, bujías ni embrague que atender. El mantenimiento se concentra en neumáticos, frenos, transmisión y actualizaciones de software, además del cuidado básico de las baterías —evitar dejarlas descargadas durante semanas y cargarlas con su cargador—. Como ya recoge este artículo, la garantía oficial de NIU es de **2 años** y no constan precios cerrados públicos de revisiones en España, así que conviene confirmar el coste en el concesionario antes de comprar. Como motocicleta ligera, está sujeta a la ITV con la periodicidad general de las motocicletas.
+
+## Rivales y veredicto: ¿merece la pena?
+
+Dentro de la propia marca, el <a href=/motos/niu-mqi-gt-evo-ficha-tecnica-precio/>NIU MQi GT Evo</a> ofrece 5 kW, 100 km/h y unos 75 km de autonomía por 4.599 € según su ficha en este sitio: es la alternativa de corte más clásico. El <a href=/motos/niu-nqix-300-2026-ficha-tecnica-precio/>NQiX 300</a> queda como escalón inferior de la misma familia para quien no necesita tanta punta ni el Boost.
+
+**Veredicto:** el NQiX 500 merece la pena para el usuario urbano que quiere lo más completo de NIU: seguridad activa, baterías ligeras extraíbles y prestaciones sobradas para ciudad y rondas. No es para hacer autopista a diario ni para quien necesite más de 80 km reales entre cargas sin planificar. Y si te queda batería al llegar a casa, gasta la tuya un rato en el <a href=/juego-monos/>juego caza-monos</a>.
+
 ## Preguntas frecuentes
 
 ### ¿Qué es el modo Boost?

@@ -6013,6 +6013,38 @@ Mantenimiento: revisión anual o cada 15.000 km. Fuente: Lexus España (programa
 
 Garantía: 3 años o 100.000 km + Lexus Relax hasta 10 años / 160.000 km con mantenimiento en red oficial. Fuente: prensa Lexus España.
 
+## Contexto: una limusina con forma de monovolumen
+
+El LM nació en 2020 para Asia, donde el monovolumen de representación con chófer es un segmento en sí mismo, y llegó a Europa en 2023 con la versión 350h. Lexus lo planteó sin complejos: no es una furgoneta adaptada, sino «el lujo de una limusina en formato monovolumen», con la hospitalidad Omotenashi como argumento central. La <a href=https://prensa.lexusauto.es/lexus-presenta-gama-y-precios-para-espana-del-nuevo-lm/>nota oficial de Lexus España</a> fijó su lanzamiento en octubre de 2023 desde **125.000 €**, con acabado único Luxury y dos configuraciones: seis plazas o cuatro plazas, esta última a 150.000 € y con pantalla panorámica de 48 pulgadas y nevera.
+
+## Profundidad técnica: híbrido de 250 CV y tracción total
+
+El sistema híbrido combina un motor de gasolina de 2.5 litros con motores eléctricos para **250 CV**, tracción total AWD y cambio e-CVT. No persigue prestaciones —8,7 segundos en el 0-100 y 190 km/h de máxima— sino silencio y suavidad: el **consumo homologado de 7,2 l/100 km** es notable para un vehículo de 5.125 mm pensado para viajar cargado. La suspensión variable adaptativa trabaja para mantener la carrocería nivelada, porque aquí el confort de la segunda fila es la prestación que de verdad importa.
+
+| Clave | LM 350h |
+|---|---|
+| Potencia | 250 CV |
+| Consumo | 7,2 l/100 km |
+| Plazas | 4 / 6 / 7 según configuración |
+| Precio | Desde 125.000 € |
+| Euro NCAP | Sin datos (sin prueba publicada) |
+
+En seguridad se mantiene lo ya indicado en este análisis: **sin datos Euro NCAP**, porque el LM no ha sido evaluado por el organismo. Sí incorpora la última generación de asistentes Lexus Safety System+, pero eso no equivale a una nota de choque publicada, y no debe presentarse como tal.
+
+## Uso real: chófer, hotel o familia muy exigente
+
+El LM tiene sentido en tres escenarios: transporte de representación con conductor, traslados premium de hotel o empresa, y familias que quieren viajar como en primera clase sin pasar a un SUV. La versión de 4 plazas es un salón rodante; la de 6-7 plazas sacrifica parte de ese teatro a cambio de utilidad real. Sus límites honestos son el precio, unas dimensiones que complican el aparcamiento urbano y un maletero que varía mucho según configuración, de 110 a 1.191 litros.
+
+## Mantenimiento y garantía verificados
+
+Lo que ya consta en este artículo se apoya en fuentes de la marca: **revisión anual o cada 15.000 km** y garantía de **3 años o 100.000 km**, ampliable con el programa **Lexus Relax hasta 10 años o 160.000 km** manteniendo el coche en la red oficial. Es el esquema habitual de Lexus en España y uno de los argumentos racionales del modelo: el coste de propiedad es previsible si se cumple el plan de mantenimiento oficial. Como híbrido gasolina le corresponde etiqueta ECO de la DGT, con las ventajas parciales que ese distintivo da en las ZBE, y el calendario general de ITV de los turismos.
+
+## Rivales y veredicto: ¿merece la pena?
+
+Su rival natural, el <a href=/coches/mercedes-clase-v-220d/>Mercedes Clase V 220d</a>, juega la carta diésel, una gama más amplia y un precio de entrada muy inferior, pero sin el silencio híbrido ni el enfoque de salón del Lexus. El <a href=/coches/denza-d9-dm-i-2026-precio-ficha-tecnica/>Denza D9 DM-i</a>, con 353 CV enchufables desde 78.500 € según su ficha, es la amenaza china: más potencia y menos precio, a cambio de una red y un valor residual aún por demostrar en España.
+
+**Veredicto:** el LM 350h merece la pena para uso profesional de representación o para quien quiera el monovolumen más refinado a la venta, y asume su precio como parte del servicio. No es para presupuestos racionales ni para quien necesite un maletero enorme siempre disponible: ahí la Clase V sigue siendo la compra lógica. Y si el chófer te deja tiempo libre en la segunda fila, ya sabes: <a href=/juego-monos/>juego caza-monos</a>.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Lexus LM 350h?
@@ -6045,7 +6077,7 @@ Mantenimiento: revisión anual o cada 15.000 km. Fuente: Lexus España (programa
 - Misma marca: <a href=/coches/lexus-is-300h/>Lexus Is 300h</a>, <a href=/coches/lexus-gx-550/>Lexus Gx 550</a>, <a href=/coches/lexus-rc-300h/>Lexus Rc 300h</a>
 - Misma categoría (Monovolumen): <a href=/coches/mercedes-clase-v-220d/>Mercedes Clase V 220d</a>, <a href=/coches/nissan-nv200-evalia/>Nissan NV200 Evalia</a>
 
-*Fuentes: Ver fuentes. Verificar precio, EuroNCAP y mantenimiento contra fuentes oficiales antes de publicar.*
+*Fuentes: Ver fuentes. Verificar precio, EuroNCAP y mantenimiento contra fuentes oficiales antes de publicar. <a href=https://prensa.lexusauto.es/lexus-presenta-gama-y-precios-para-espana-del-nuevo-lm/>Lexus Prensa España — gama y precios del LM</a>*
 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
@@ -8229,6 +8261,37 @@ Mantenimiento según manual Energica Eva: revisiones a 1.000 / 10.000 / 20.000 k
 
 Vehículo 2 años; batería 3 años / 50.000 km (Energica UK).
 
+## Contexto: la naked clásica de la pionera de Módena
+
+Energica nació en Módena, en pleno Motor Valley italiano, y se hizo un nombre como la primera marca de motos eléctricas de altas prestaciones, llegando a ser proveedora única del mundial de MotoE en su etapa inicial. La Eva EsseEsse9 toma el nombre de la Via Emilia —la SS9, la histórica calzada romana que cruza la región— y lo aplica a su modelo de estética clásica: faro redondo, líneas retro y, debajo, la misma plataforma eléctrica de la deportiva Ego. La gama y la filosofía de la marca se recogen en la <a href=https://www.energicamotor.com/>web oficial de Energica Motor Company</a>. La versión «+» es la de batería grande, **21,5 kWh**, pensada para no vivir pendiente del enchufe.
+
+## Profundidad técnica: 109 CV y 200 Nm sin cambio ni embrague
+
+El motor eléctrico entrega **80 kW (109 CV) y 200 Nm** de par instantáneo, con transmisión por cadena y sin cambio manual: girar el puño y salir. El fabricante declara un 0-100 en el entorno de los **3,0 segundos** para esta versión y unas autonomías que este artículo ya desglosa con honestidad: **400 km en ciudad, 230 km en ciclo combinado y 180 km en extraurbano**, siempre según el fabricante y variables con velocidad, frío y carga. La carga rápida en corriente continua es su otra gran baza frente a naked eléctricas más modestas.
+
+| Dato | Eva EsseEsse9+ |
+|---|---|
+| Potencia / par | 109 CV / 200 Nm |
+| Batería | 21,5 kWh (máx.) |
+| Autonomía declarada | 400 ciudad / 230 combinada / 180 extraurbana |
+| Asiento | 810 mm |
+| Carnet | A |
+| Precio | 24.590 £ aprox. no oficial (sin PVP España) |
+
+## Uso real: músculo eléctrico con peso real
+
+Con el par disponible desde parado, su terreno favorito es la carretera de curvas a ritmo vivo y la ciudad silenciosa. Las limitaciones son las de su generación tecnológica: el peso —entre 260 y 280 kg según la fuente, como ya advierte la ficha de este artículo— se nota en maniobras en parado y en cambios de dirección rápidos, y la autonomía extraurbana de 180 km declarados marca el radio de las salidas de fin de semana. La postura naked y el asiento a 810 mm la hacen, eso sí, más amable a diario que su hermana carenada.
+
+## Mantenimiento, garantía y carnet
+
+El mantenimiento ya documentado en este artículo procede del manual de la propia Energica: **revisiones a los 1.000, 10.000 y 20.000 km** y controles cada 12 y 24 meses, sin aceite ni embrague que atender, aunque con cadena que engrasar y ajustar como en una moto convencional. La garantía que recoge este análisis es de **2 años para el vehículo y 3 años o 50.000 km para la batería** según Energica UK. Con 109 CV exige el **carnet A** sin atajos, la ITV sigue el calendario general de las motocicletas y, como recuerda la propia ficha, las motos no tienen prueba Euro NCAP: no hay nota que citar, ni a favor ni en contra.
+
+## Rivales y veredicto: ¿merece la pena?
+
+Con fichas de este sitio, la <a href=/motos/livewire-one-2024-ficha-tecnica-precio/>LiveWire One</a> ofrece 100 CV y 235 km de autonomía con 255 kg: es la rival americana, de planteamiento más urbano. La <a href=/motos/zero-sr-f-2024-ficha-tecnica-precio/>Zero SR/F</a> suma 110 CV y 283 km declarados con solo 227 kg, la opción ligera del trío. La Energica responde con la batería más grande y la carga rápida como argumentos de viaje.
+
+**Veredicto:** la EsseEsse9+ merece la pena para quien quiere una naked eléctrica con carácter clásico, batería seria y carga rápida, y acepta su peso y un precio sin PVP oficial en España —24.590 £ de referencia británica, no oficial—. No es para quien priorice agilidad en parado ni una red comercial amplia. Y cuando la dejes cargando, enchúfate tú también al <a href=/juego-monos/>juego caza-monos</a>.
+
 ## Preguntas frecuentes
 
 ### ¿Qué autonomía real tiene la Eva EsseEsse9+?
@@ -8260,7 +8323,9 @@ Mantenimiento según manual Energica Eva: revisiones a 1.000 / 10.000 / 20.000 k
 - <a href=/motos/energica-eva-ribelle-2024-ficha-tecnica-precio>Energica Eva Ribelle 2024</a>
 
 - <a href=/analizador/>Analizador de multas</a> — Antes de recurrir, analiza tu multa.
-`,
+
+
+*Fuentes: <a href=https://www.energicamotor.com/>Energica Motor Company — web oficial</a>*`,
   },
   {
     slug: "fantic-caballero-125-rally-2025-precio-ficha-tecnica",

@@ -1003,6 +1003,39 @@ El contrapeso: 2.473 kg. La prensa especializada (auto10, soymotor, autoscout24)
 | 1.000 Nm de par combinado | Datos WLTP sin publicar |
 | Circuito y ciudad en un coche | Mantenimiento híbrido más caro |
 
+## De dónde viene: el Urus que lo cambió todo en Sant'Agata
+
+El Urus original demostró que un SUV podía ser el Lamborghini más vendido sin dejar de ser un Lamborghini, y la familia ha ido escalando desde entonces: primero el Performante de gasolina, después el SE como primer híbrido enchufable de la casa y ahora este SE Performante, que combina ambas recetas. La propia marca lo presenta en su <a href=https://www.lamborghini.com/en-en/models/urus/urus-se-performante>página oficial del Urus SE Performante</a> como la cumbre del Super SUV enchufable, con **812 CV** y un trabajo específico de aerodinámica y dinámica. No es una edición cosmética: es la respuesta de Sant'Agata a quien pedía el tacto del Performante sin renunciar a la etiqueta Cero del SE.
+
+## Profundidad técnica: carbono, modo Rally y 1.000 Nm
+
+La base es conocida: V8 biturbo de 4.0 litros apoyado por un motor eléctrico y una batería de **25,9 kWh**, con tracción total y cambio automático. Sobre ella, la puesta a punto Performante añade elementos de fibra de carbono para contener la masa, una aerodinámica revisada y un modo de conducción Rally pensado para superficies deslizantes, además del escape Akrapovič que la web oficial destaca en su equipamiento. El resultado son **812 CV, 1.000 Nm, 3,3 segundos en el 0-100 y 312 km/h**, cifras de superdeportivo en un SUV de 2.473 kg.
+
+| Dato clave | Urus SE Performante |
+|---|---|
+| Potencia combinada | 812 CV |
+| Par máximo | 1.000 Nm |
+| Batería | 25,9 kWh |
+| Autonomía eléctrica | Más de 60 km (aprox.) |
+| 0-100 km/h | 3,3 s |
+| Etiqueta DGT | Cero |
+
+La autonomía eléctrica anunciada, superior a 60 km, es la que le abre la puerta de la etiqueta Cero: el criterio general de la DGT para los enchufables exige superar los 40 km en modo eléctrico, y este Urus lo cumple con margen pese a su enfoque prestacional.
+
+## Uso real: superdeportivo de diario, con matices
+
+En ciudad puede moverse en eléctrico y acceder a las ZBE sin restricciones, algo impensable en un Lamborghini de hace una década. En carretera abierta, el V8 y los 1.000 Nm lo convierten en un devorador de autopista con plaza trasera y maletero utilizables a diario. Las limitaciones honestas también están claras: el peso se nota en frenadas y cambios de apoyo, el consumo del V8 cuando la batería se agota no será contenido, y ni el precio —aún sin anunciar— ni el mantenimiento estarán al alcance de cualquiera. En seguridad, **sin datos Euro NCAP**: el Urus no consta evaluado por el organismo europeo, y no hay que dar por supuesta ninguna nota.
+
+## Mantenimiento, costes e ITV
+
+Un PHEV de este nivel exige red oficial y recambios específicos: al tren motriz térmico se suma el sistema de alta tensión, y elementos como frenos o neumáticos se dimensionan para 812 CV y casi dos toneladas y media. Sin un plan de precios públicos en España, lo prudente es presupuestar el mantenimiento en la parte alta del segmento y conservar el historial oficial de cara al valor residual. Como turismo, sigue el calendario general de ITV en España y, con etiqueta Cero, disfruta de las ventajas de acceso y aparcamiento que cada municipio otorgue a ese distintivo.
+
+## Rivales y veredicto: ¿merece la pena?
+
+Frente a él, el <a href=/coches/ferrari-purosangue-2025-precio-ficha-tecnica/>Ferrari Purosangue</a> juega la carta del V12 atmosférico de 725 CV y un precio de 495.000 € según su ficha en este sitio: es la opción emocional, pero sin enchufe ni etiqueta Cero. El <a href=/coches/porsche-cayenne-2026-precio-ficha-tecnica/>Porsche Cayenne</a> parte de 118.067 € con 354 CV en su versión de acceso: mucho más asequible y racional, pero en otra liga prestacional. El Urus SE Performante queda en un territorio propio: prestaciones de superdeportivo, uso eléctrico urbano y formato SUV familiar.
+
+**Veredicto:** merece la pena para quien quiere el SUV más completo y potente de Sant'Agata y valora circular en eléctrico por la ciudad sin renunciar al V8. No es para quien busque ligereza, discreción o un coste de uso sensato: para eso están el SE estándar o rivales más terrenales. Y entre curva y curva, recuerda que en esta web también puedes echar una partida al <a href=/juego-monos/>juego caza-monos</a>.
+
 ## Preguntas frecuentes
 
 ### ¿Cuántos caballos tiene el Urus SE Performante?
@@ -1025,7 +1058,7 @@ Añade la puesta a punto Performante (chasis, aerodinámica y estética más agr
 
 Si te ha llegado una multa con tu Urus, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: presentación cubierta por auto10, soymotor y autoscout24 (julio 2026).*`
+*Fuentes: presentación cubierta por auto10, soymotor y autoscout24 (julio 2026). <a href=https://www.lamborghini.com/en-en/models/urus/urus-se-performante>Lamborghini — Urus SE Performante (web oficial)</a>*`
   },
   {
     "title": "Huracán STJ: el último Huracán, 10 unidades",
