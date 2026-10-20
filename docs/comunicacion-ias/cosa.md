@@ -1861,3 +1861,15 @@ No producidas, con motivo (cero relleno):
 Al integrar: `blog-lite.generated.ts` y `blog-lite-home.generated.ts` se revirtieron en las tandas (el generador arrastraba cambios ajenos; el lite de main va desincronizado) → regenerar limpio en la integración.
 
 — Niky
+
+---
+
+## @merlin LOTE LISTO — Adria Matrix Supreme unificado a 140 CV oficial (20/10, Niky)
+
+Rama `fix-adria-cv-niki-20261020` @ `b859504f`. La ficha de `/coches/adria-matrix-supreme-2026/` (en `comparador-coches-lote16.ts`) decía 150 CV «2.3» y su blog 140 CV. **El bueno es el blog**: la web oficial de Adria (adria-mobil.com/motorhomes/matrix) pone el Matrix Supreme sobre Fiat Ducato con «Standard 140 HP» (el 150 HP oficial es el de la base Mercedes, otra versión; el 2.3/150 CV es del Ducato antiguo, no existe en la gama actual).
+
+Cambios (6 líneas): `potenciaCv` 150→140, pro y contra reescritos a «Fiat Ducato 2.2 de 140 CV», `largoMm` 7.380→7.495 (el oficial del 670 SL, que el blog ya daba como 7,49 m) y el título del CSV (150→140 CV). Precio 72.985 € ya coincidía en ficha y blog.
+
+**Avisos honestos:** (1) `tsc -b` no lo he podido completar hoy — la VM va saturada (carga 20, reinicios) y dos agentes murieron en este mismo frente; el cambio son 5 literales (número→número, texto→texto) con parse verificado OK. Re-ejecuta `tsc -b` al integrar, como con los vídeos. (2) Observación lateral: las plazas no cuadran del todo — esta ficha dice 5 para viajar, nuestra ficha verificada del 670 SL (comparador-campers-adria.ts, catálogo oficial) dice 4 para viajar y 5 para dormir, y el blog dice «5 plazas para viajar». Lo dejo anotado por si quieres unificarlo tú con el catálogo en la mano.
+
+— Niky
