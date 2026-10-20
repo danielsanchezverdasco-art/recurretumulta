@@ -7402,3 +7402,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/zeeho-ae6-plus-2025-ficha-tecnica-precio-hunt1.webp | https://www.go2roues.com/wp-content/uploads/2024/10/zeeho-ae6-s-plus-noir-jaune-cote-droit-1.png | Go2Roues (distribuidor Zeeho) | desconocida |
 | /media/zeeho-ae6-plus-2025-ficha-tecnica-precio-hunt2.webp | https://blog.meromoto.com/wp-content/uploads/2024/04/Zeeho-AE6-Plus-2-jpeg.webp | MeroMoto | desconocida |
 | /media/zeeho-ae6-plus-2025-ficha-tecnica-precio-hunt3.webp | https://blog.meromoto.com/wp-content/uploads/2024/04/Zeeho-AE6-Plus-1-1024x683.webp | MeroMoto | desconocida |
+| /media/mg-4-xpower-2025-precio-ficha-tecnica-hunt1.webp | https://images.netdirector.co.uk/gforces-auto/image/upload/w_1904,h_1071,q_auto,c_fill,f_auto,fl_lossy/auto-client/57953dd682cec28ba3fd09017a623809/mg4_ev_xpower_gallery_1.jpg | MG Motor (galería oficial de concesionario MG) | desconocida |
+| /media/mg-4-xpower-2025-precio-ficha-tecnica-hunt2.webp | https://news.mgmotor.eu/wp-content/uploads/2023/10/E12A9847-1-600x600.jpg | MG Motor Europe (prensa oficial) | desconocida |
+| /media/mg-4-xpower-2025-precio-ficha-tecnica-hunt3.webp | https://news.mgmotor.eu/wp-content/uploads/2023/07/MG4-X-Power-0042-800x450.jpg | MG Motor Europe (prensa oficial) | desconocida |
+| /media/neta-aya-2025-precio-ficha-tecnica-hunt1.webp | https://www.autoapp.sg/wp-content/uploads/2025/01/autoapp-singapore-neta-aya-12-of-19.jpg | AutoApp Singapore | desconocida |
+| /media/neta-aya-2025-precio-ficha-tecnica-hunt2.webp | https://www.9carthai.com/wp-content/uploads/2023/07/Neta-AYA-3.jpg | Hozon Auto / Neta (prensa oficial) | desconocida |
+| /media/neta-aya-2025-precio-ficha-tecnica-hunt3.webp | https://paultan.org/image/2023/08/2024-Neta-Aya-V-China-debut-10.jpg | Hozon Auto / Neta (prensa oficial, vía Paul Tan) | desconocida |
+| /media/honda-forza-750-2024-ficha-tecnica-precio-hunt1.webp | https://www.canariasenmoto.com/images/varias//443764_24YM_FORZA750.jpg | Honda (prensa oficial) | desconocida |
+| /media/honda-forza-750-2024-ficha-tecnica-precio-hunt2.webp | https://www.canariasenmoto.com/images/varias//443766_24YM_FORZA750.jpg | Honda (prensa oficial) | desconocida |
+| /media/honda-forza-750-2024-ficha-tecnica-precio-hunt3.webp | https://www.canariasenmoto.com/images/varias//443763_24YM_FORZA750.jpg | Honda (prensa oficial) | desconocida |
+| /media/seat-mo-125-performance-2025-ficha-tecnica-precio-hunt1.webp | https://cdn-listino.inmoto.it/2023/2/24/02_SEAT_MO_125_High_8ddf04c93f.jpg | SEAT (prensa oficial, vía InMoto) | desconocida |
+| /media/seat-mo-125-performance-2025-ficha-tecnica-precio-hunt2.webp | https://d1uzt6x5nm57qr.cloudfront.net/cms/DRESDEN%20HOLDING/LP%20M%C3%B3/SEAT%20MO%20125%20Performance/Galerie/Mo-125-Performance-Galerie-2.jpg | SEAT / Cupra Garage Dresden (concesionario oficial SEAT) | desconocida |
+| /media/seat-mo-125-performance-2025-ficha-tecnica-precio-hunt3.webp | https://www.autonocion.com/wp-content/uploads/2022/11/seat-mo-performance9.jpg | SEAT (prensa oficial, vía Autonoción) | desconocida |
