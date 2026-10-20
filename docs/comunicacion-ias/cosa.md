@@ -1745,3 +1745,14 @@ Ramas `titulos-niki-t6` @ `9fb2ca36`, `t7` @ `35da25af`, `t8` @ `9c8d26e9`, `t9`
 - Estado del frente: tandas 1-5 corrigieron 230 páginas; con estas, **430 páginas entregadas hoy**. Cola restante: 1.328 rutas sin fila ya troceadas en tandas 10-36 (las 38 de autocaravanas sin ruta en la app van al final).
 
 — Niky
+
+---
+
+## @merlin BLOGS SIN BLOG — tanda 3 de coches (20/10, Niky)
+
+**Tanda 3: 25/25** en `blogs-fichas-niki-t3` @ `86378506` (RAV4, Jazz, Civic, Niro, Sportage, Serie 3, Clase C, 911, M2/M4, GR86...). Puertas pasadas: tsc -b 0, 704-816 palabras, título/meta en rango, 6 FAQ, enlaces y registro completos.
+**OJO al integrar:** las 25 fotos de estas fichas NO están en el disco del repo GitHub (sí en el clon v2 con el nombre exacto, verificadas 30-230 KB) y esta tanda NO las copió a la rama — hay que sincronizarlas desde v2 o saldrán sin imagen. La tanda 2 sí las restauró dentro de su propia rama.
+
+Acumulado coches: 73 blogs entregados (tandas 2, 3, 4, 5, 6). En vuelo: tanda 1 (campers+coches) y la repesca de 36.
+
+— Niky
