@@ -6736,3 +6736,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/next-mojito-2025-ficha-tecnica-precio-hunt1.webp | https://motollopis.es/wp-content/uploads/2022/12/next-mojito-perfil-roja.jpg | Moto Llopis | desconocida |
 | /media/next-mojito-2025-ficha-tecnica-precio-hunt2.webp | https://electriccity.es/wp-content/uploads/2022/12/next-mojito.jpg | Electric City | desconocida |
 | /media/next-mojito-2025-ficha-tecnica-precio-hunt3.webp | http://www.zero-center.gr/cdn/shop/files/NEXTMOJITOROJATRASERA.png?v=1746538456&width=2000 | Zero Center | desconocida |
+| /media/peugeot-308-hibrido-145-2026-precio-ficha-tecnica-hunt1.webp | https://www.completecar.ie/img/galleries/14562/peugeot_308_hybrid_hatchback_lisbon_white_2025_005.jpg | Peugeot / CompleteCar | desconocida |
+| /media/peugeot-308-hibrido-145-2026-precio-ficha-tecnica-hunt2.webp | https://www.completecar.ie/img/galleries/14562/peugeot_308_hybrid_hatchback_lisbon_white_2025_010.jpg | Peugeot / CompleteCar | desconocida |
+| /media/peugeot-308-hibrido-145-2026-precio-ficha-tecnica-hunt3.webp | https://infos-75.com/infos75/wp-content/uploads/2026/03/IMG_9841-1024x768.jpeg | Infos75 | desconocida |
+| /media/mercedes-benz-cla-200-electrico-2025-precio-ficha-tecnica-hunt1.webp | https://tflcar.com/wp-content/uploads/2025/03/2026-Mercedes-Benz-CLA-debut-1-e1741891262640.webp | Mercedes-Benz / TFLcar | desconocida |
+| /media/mercedes-benz-cla-200-electrico-2025-precio-ficha-tecnica-hunt2.webp | https://mbpassion.de/wp-cb4ef-content/uploads/2026/02/mbpassion.de-mercedes-senkt-leasingrate-fuer-cla-hybrid-modell-mbpassion-com-cla-hybrid-16-scaled.jpg | Mercedes-Benz / MBpassion | desconocida |
+| /media/mercedes-benz-cla-200-electrico-2025-precio-ficha-tecnica-hunt3.webp | https://www.autoo.it/ufiles/medium/Mercedes%20CLA%202025%20-%20Plancia%202.jpg?t=20250320222448 | Mercedes-Benz / Autoo.it | desconocida |
+| /media/yadea-keeness-2025-ficha-tecnica-precio-hunt1.webp | https://crmotos.com/wp-content/uploads/2025/08/yadea-keeness-2025-7.webp | Yadea / CRMotos | desconocida |
+| /media/yadea-keeness-2025-ficha-tecnica-precio-hunt2.webp | https://yadeacr.com/cdn/shop/files/YD_Keeness_1b.jpg?v=1773860205&width=600 | Yadea Costa Rica | desconocida |
+| /media/yadea-keeness-2025-ficha-tecnica-precio-hunt3.webp | https://imgcdn.zigwheels.my/large/gallery/exterior/177/2458/yadea-keeness-85718.jpg | Yadea / ZigWheels | desconocida |
+| /media/next-nx2-2025-ficha-tecnica-precio-hunt1.webp | https://primary.jwwb.nl/public/x/r/x/temp-gpblybjptzxwpuxvoxin/nx2_04-high-6lcdrd.jpg | Next Electric Motors / MotoDream | desconocida |
+| /media/next-nx2-2025-ficha-tecnica-precio-hunt2.webp | https://becomove.com/wp-content/uploads/2024/03/next_nx2_negro_04-1-1024x1005.jpg | Next Electric Motors / Becomove | desconocida |
+| /media/next-nx2-2025-ficha-tecnica-precio-hunt3.webp | http://motoselectricasbuzz.com/wp-content/uploads/2023/07/next-nx2-negro.jpg | Next Electric Motors / Motos Eléctricas Buzz | desconocida |
