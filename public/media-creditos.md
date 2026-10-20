@@ -5192,3 +5192,14 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/seres-3-2025-precio-ficha-tecnica-hunt1.webp | https://ridertua.com/wp-content/uploads/2025/04/DFSK-Seres-3-1-768x420.webp | Ridertua.com | desconocida |
 | /media/seres-3-2025-precio-ficha-tecnica-hunt2.webp | https://equitynepal.com/wp-content/uploads/2025/05/Seres-3.jpg | EquityNepal | desconocida |
 | /media/seres-3-2025-precio-ficha-tecnica-hunt3.webp | https://nepalontheweb.com/wp-content/uploads/2025/06/Seres.png | NepalOnTheWeb | desconocida |
+| /media/benelli-trk-702x-2026-ficha-tecnica-precio-hunt1.webp | https://benellimoto.fi/p/benelli-trk-702-x | Benelli Finland (importador oficial, color Dune Sea) | desconocida |
+| /media/benelli-trk-702x-2026-ficha-tecnica-precio-hunt2.webp | https://www.peterpalko.com/termek/benelli-trk-702x-keszleten | Peter Palko (concesionario Benelli Hungría) | desconocida |
+| /media/honda-cl500-2024-ficha-tecnica-precio-hunt1.webp | https://powersports.honda.com/motorcycle/standard/scl500 | Honda oficial (SCL500 = CL500 en EE. UU., web powersports.honda.com) | desconocida |
+| /media/honda-cl500-2024-ficha-tecnica-precio-hunt2.webp | https://www.motoplus.nl/artikel/nieuwe-honda-cl500-street-scrambler/ | MotoPlus (artículo sobre la Honda CL500) | desconocida |
+| /media/honda-cl500-2024-ficha-tecnica-precio-hunt3.webp | https://www.honda-as.com/prodajni-program/motorji/naked/ | Honda Slovenija (concesionario oficial, web honda-as.com) | desconocida |
+| /media/maserati-mcxtrema-2025-precio-ficha-tecnica-hunt1.webp | https://www.tecnoandroid.it/tag/maserati/ | TecnoAndroid (foto de prensa Maserati) | desconocida |
+| /media/maserati-mcxtrema-2025-precio-ficha-tecnica-hunt2.webp | https://www.carexpert.com.au/car-news/maseratis-most-powerful-track-car-bound-for-australia | CarExpert (foto de prensa Maserati) | desconocida |
+| /media/maserati-mcxtrema-2025-precio-ficha-tecnica-hunt3.webp | https://www.9carthai.com/maserati-mcxtrema-2/ | 9carthai (foto de prensa Maserati) | desconocida |
+| /media/seres-5-2025-precio-ficha-tecnica-hunt1.webp | https://ksa.motorguru.me/listing/seres-5-sf-2025-premium-4wd/ | MotorGuru (imagen del anuncio Seres 5 SF 2025 Premium 4WD) | desconocida |
+| /media/seres-5-2025-precio-ficha-tecnica-hunt2.webp | https://ksa.motorguru.me/listing/seres-5-sf-2025-premium-4wd/ | MotorGuru (imagen del anuncio Seres 5 SF 2025 Premium 4WD) | desconocida |
+| /media/seres-5-2025-precio-ficha-tecnica-hunt3.webp | https://soloauto.net/pruebas-de-coches-seres-5-2wd-comerse-el-mundo/ | SoloAuto (prueba Seres 5 2WD) | desconocida |
