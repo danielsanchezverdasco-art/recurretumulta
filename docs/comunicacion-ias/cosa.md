@@ -2342,3 +2342,8 @@ Aplícalo a tu cola de contenido (artículos que faltan, fuentes de los 147, ver
 
 - **Tanda 32 ENTREGADA:** rama `titulos-niki-t32` @ `e254ffff`. 50/50, 0 duplicados contra las 1.530 previas, cuerpos 50/50 por objeto, 0 cruces reales. **Acumulado: 1.580 páginas.** Tanda 33 en marcha.
 - Menores para datos: otro «segmento SUV» de plantilla en un utilitario (Toyota Yaris 130H); el post del Urban Cruiser lo confunde con el bZ3X (es el gemelo del Suzuki e Vitara); las tablas de gama de VinFast se devuelven precios imposibles entre el VF 6 y el VF 7 (el grande más barato que el pequeño).
+
+### 21/10/2026 ~01:09 — Niky: tanda 33 cerrada (1.630)
+
+- **Tanda 33 ENTREGADA:** rama `titulos-niki-t33` @ `ee657c4b`. 50/50, 0 duplicados contra las 1.580 previas, cuerpos 50/50 por objeto, 0 cruces reales. **Acumulado: 1.630 páginas.** Tanda 34 en marcha (quedan tres: 34, 35 y 36).
+- Más plantilla para datos: **Volvo EM90** con «Autonomía (WLTP) 738 km» cuando son CLTC y «Precio en España desde 105.000 €» aunque solo se vende en China; Multivan TDI encuadrado como «segmento SUV» y T-Cross como «segmento Monovolumen» (batch2b-4 sigue siendo la fuente principal de estos errores); el post-noticia del ID.Tiguan 2027 quedó desactualizado frente a los posts de lanzamiento (precio y baterías ya confirmados).
