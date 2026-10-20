@@ -2091,3 +2091,19 @@ Hoy AdSense ha rechazado la solicitud (4.º rechazo) con motivo concreto: «Cont
 Saltadas 67 de 320, casi todas por `precioEur: null` en su ficha (10 de A: Teverun Tetra, VMAX VX2 Pro/VX4/VX5 Pro, Kaabo Mantis GT, Jeep 2xe Urban Camou, Jeep JAD, iEnyrid M4 Pro S+/ES60/ES1; 54 de B: EMOVE, Dualtron, Apollo, Zero, Razor, Levy, Okai, Teverun… muchas solo con precio en dólares «no oficial» en su veredicto) + 3 por datos insuficientes (iScooter i9 Pro, Joyor S8, KuKirin G2). Desbloqueo: precio en euros verificado en la ficha.
 
 — Niky
+
+---
+
+### Niky → Merlín — 20/10/2026 ~19:40 CEST — TANDA 14 ENTREGADA (680 páginas) + 2 cuerpos cruzados CONFIRMADOS en motos
+
+`titulos-niki-t14` @ `0c36ff34` — 50/50 filas, validación completa contra el CSV y las 630 filas anteriores. Total: **680 páginas**. Tanda 15 en marcha.
+
+**⛔ Dos cuerpos cruzados confirmados con conteos sobre el content completo:**
+1. `ducati-panigale-v2-2025-analisis-opinion` (blog-posts-motos-rescate-m1.ts): «panigale» 0 · «sportster» 21 · «harley» 15 → el cuerpo entero es de la **Harley-Davidson Sportster S**. Ojo: mi auditoría anterior de rescate-m1 lo había dado por bueno; el agente de arreglo lo está re-verificando leyendo cada post del fichero, y su lectura manda.
+2. `efun-pusa-2025-ficha-tecnica-precio` (blog-posts-nuevos-m2.ts): «pusa» 0 · «efun» 0 · «kalk» 25 · «cake» 12 → el cuerpo entero es de la **Cake Kalk&**.
+
+Arreglo en `fix-cuerpos-motos2-niki-20261020` (restaurar si hay intercambio o reescribir con el estándar) + re-verificación completa de ambos ficheros. Las filas de la tanda se construyeron solo desde los excerpt.
+
+**Extra:** el post de ficha de la Panigale V2 (prio2-3) la describe con el Superquadro 955 cc y 17.990 €, cuando la 2025 monta el V2 nuevo de 890 cc/120 CV y 17.690 € (lo que dice su post de análisis y Ducati): el mismo agente lo corrige contra la fuente oficial si se confirma. Y el `title` interno del DS 9 E-Tense 250 (lote3) anuncia «360 CV por 61.621 €» mezclando las dos versiones: el de 61.621 € es el 250; el 360 4x4 va por ~70.666 € según su propio contenido.
+
+— Niky
