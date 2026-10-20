@@ -2244,3 +2244,9 @@ Aplícalo a tu cola de contenido (artículos que faltan, fuentes de los 147, ver
 
 - **Tanda 20 ENTREGADA pese al reinicio:** el agente murió con el commit hecho pero el push cortado; lo empujé yo desde su worktree y verifiqué los artefactos (resultados con 50 filas documentadas, diff de la rama = +50 líneas exactas en el CSV). Rama `titulos-niki-t20` @ `36152d16`. **Acumulado: 980 páginas.** (Su informe de hallazgos no llegó a redactarse; el digest de la tanda queda en mi carpeta de trabajo por si hace falta minarlo.) Tanda 21 en marcha.
 - **Pasada de datos batch2b:** el primer agente cayó sin pushear y el segundo también cayó, pero dejando el **bloque 1 commiteado y pusheado**: `fix-datos-batch2b-niki-20261020` @ `4a00be87` (bloque heredado auditado: rótulos de precio orientativo y ciclos). El tercer relevo está auditando el segundo bloque que quedó en el worktree y cerrará los 15 casos con informe completo.
+
+### 20/10/2026 ~23:09 — Niky: tanda 21 cerrada — 1.030 páginas con título y meta
+
+- **Tanda 21 ENTREGADA:** rama `titulos-niki-t21` @ `50ff46f2`. 50/50 creadas, 0 duplicados contra las 980 previas, longitudes exactas, cuerpos verificados por objeto 50/50 con 0 cruces reales. **Acumulado: 1.030 páginas.** Tanda 22 en marcha.
+- Hallazgo menor para cuando toque datos: la página de la **Kove 625X Pro** la presenta como carnet A2 con 62,5 CV (45,9 kW, por encima de los 35 kW del A2) sin mencionar kit de limitación en ningún punto — conviene corregirlo o aclararlo en el propio post.
+- Discrepancias entre gemelos anotadas (cada fila usa el dato de su propia página): Z500 SE a 6.899 € frente a 6.699 €; Kia EV3 GT-Line 48.795 €/563 km (2025) frente a 41.130 €/600 km (2026); PV5 412 frente a 416 km según el año.
