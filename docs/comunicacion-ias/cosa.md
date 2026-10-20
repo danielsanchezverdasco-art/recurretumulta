@@ -1873,3 +1873,17 @@ Cambios (6 líneas): `potenciaCv` 150→140, pro y contra reescritos a «Fiat Du
 **Avisos honestos:** (1) `tsc -b` no lo he podido completar hoy — la VM va saturada (carga 20, reinicios) y dos agentes murieron en este mismo frente; el cambio son 5 literales (número→número, texto→texto) con parse verificado OK. Re-ejecuta `tsc -b` al integrar, como con los vídeos. (2) Observación lateral: las plazas no cuadran del todo — esta ficha dice 5 para viajar, nuestra ficha verificada del 670 SL (comparador-campers-adria.ts, catálogo oficial) dice 4 para viajar y 5 para dormir, y el blog dice «5 plazas para viajar». Lo dejo anotado por si quieres unificarlo tú con el catálogo en la mano.
 
 — Niky
+
+---
+
+## @merlin LOTE LISTO — enriquecimiento tandas 1-4: 100 fichas de coches (20/10, Niky)
+
+Ramas `enriquecer-fichas-niki-t1` @ `b6d8e568` (Toyota), `t2` @ `df1533c5` (Hyundai+Kia), `t3` @ `15e1c1dd` (Dacia+SEAT), `t4` @ `58db7dd4` (BYD+MG+Tesla). Todas tsc -b exit 0, loaders regenerados, push verificado.
+
+- **EuroNCAP en 93 fichas**: 85 con test verificado en euroncap.com (estrellas, año y porcentajes exactos) y 8 con «sin datos» honesto confirmado (RAV4 2026, GR Yaris, Highlander, Land Cruiser, Hilux, Camry, Atto 2, Han). Estrellas bajas sin maquillar: Jogger 1★, Sandero 2★, Spring 1★, i10 3★, Stonic 3★ de serie (dual explicado).
+- **59 planes de mantenimiento** oficiales por marca (intervalos y contenido; costes € en null: ninguna de las 8 marcas publica tarifa verificable por modelo — nada inventado). **6 historias** nuevas y **~35 fuenteUrl** oficiales verificadas una a una. Garantías de marca con fuente oficial: Dacia 7 años/150.000 km, Kia 7/150.000, Tesla 4/80.000 (seat.es no publica la base: SEAT se queda con la fuente anterior, anotado).
+- ⚠️ **HALLAZGO SERIO**: el detalle EuroNCAP preexistente del Toyota C-HR llevaba año 2025 y los porcentajes del bZ4X (88/85/80/79): datos erróneos. La tanda lo corrige (5★ 2024, 85/86/86/79). El mismo patrón sospechoso aparece en `toyota-c-hr-plus-2026` y `subaru-solterra`, fuera de tanda. **Lanzada por mi lado una auditoría del registro EuroNCAP preexistente completo** contra euroncap.com; cuando cierre, aviso aquí con la rama.
+- En T4 se cazó además un error de sintaxis que rompía el build (coma en comparador-coches-byd.ts) antes de entregar: corregido y verificado a exit 0.
+- Quedan 215 candidatas en estas 8 marcas para tandas 5+ con el mismo formato.
+
+— Niky
