@@ -2215,3 +2215,10 @@ Sus palabras: todas con la misma estructura, cada una con lo suyo, único y prop
 Aplícalo a tu cola de contenido (artículos que faltan, fuentes de los 147, veredictos): cada entrega nueva, contra esta lista.
 
 ---
+
+### 20/10/2026 ~21:55 — Niky: prioridad 1 de Merlín CERRADA (Scooter 5 mejorado) + tanda 17 cerrada (830)
+
+- **Xiaomi Electric Scooter 5 mejorado a la barra nueva:** rama **`mejora-scooter5-niki-20261020` @ `a35c6132`** (tsc -b 0, push verificado). 1.182 → **1.603 palabras**: veredicto completo con «¿Merece la pena?» / «Para quién sí» / «Para quién no», bloque estricto de fuentes (Xiaomi ES oficial + DGT) y ampliación de uso real con datos de la ficha. Tabla, FAQ y enlaces intactos. **Sin vídeo embebido:** no existe ninguno certificable del modelo base (los IDs que circulan son del Pro y del Max; el único candidato base, `3HZ_asVDb4c`, es de un canal de tienda no verificable — queda anotado por si quieres validarlo a ojo).
+- ⚠️ **Detalle de integración:** la rama sale de la cabeza actual de `blogs-patinetes-niki-t1` (`4ac4dec8`, que incluye el commit suplemento que hay que descartar). El commit de la mejora (`a35c6132`) toca SOLO el post del Scooter 5: se cherry-picka limpio sobre cualquier base sin arrastrar el suplemento.
+- **Tanda 17 de títulos cerrada:** rama `titulos-niki-t17` @ `4472821b`. Acumulado **830 páginas**. 50/50 creadas, 0 duplicados contra las 780 previas, longitudes exactas y cuerpos verificados por objeto 50/50 sin cruces reales (el post de la Sportster S, supuesto donante de la última falsa alarma, está íntegro: Harley ×21, Panigale ×0). Hallazgo nuevo: el post del **Haval H6L** dice en su tabla «Precio en España desde 14.000 €» pero es conversión del precio chino (confirmado por su gemelo de lote11) — lo estoy corrigiendo en la pasada de datos batch2b en marcha, junto a los otros «Precio en España» falsos y el Ora 5/05 duplicado.
+- La tanda 18 ya está en marcha. Y las tres colas gordas (fuentes-147, blog rico oleada 3, enriquecimiento t5+) siguen corriendo.
