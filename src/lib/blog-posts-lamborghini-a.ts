@@ -717,7 +717,7 @@ Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.onlin
       "huracan evo 639 cv",
       "lamborghini huracan 2024"
     ],
-    "content": `<img src=/media/lamborghini-huracan-evo-2024-precio-ficha-tecnica-hero.webp alt=Lamborghini Huracán EVO naranja en carretera de montaña>
+    "content": `<img src=/media/fotos-reales/lamborghini-huracan-evo-2024-precio-ficha-tecnica/lamborghini-huracan-evo-2024-precio-ficha-tecnica-hero.webp alt=Lamborghini Huracán EVO naranja en carretera de montaña>
 
 **¿Buscas solo los datos?** <a href=/coches/lamborghini-huracan-evo-2024-precio-ficha-tecnica/>Ver ficha técnica del Huracán EVO</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -806,7 +806,7 @@ Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.onlin
       "huracan traccion trasera ficha",
       "lamborghini huracan rwd 610 cv"
     ],
-    "content": `<img src=/media/lamborghini-huracan-evo-rwd-2024-precio-ficha-tecnica-hero.webp alt=Lamborghini Huracán EVO RWD azul en carretera secundaria>
+    "content": `<img src=/media/fotos-reales/lamborghini-huracan-evo-rwd-2024-precio-ficha-tecnica/lamborghini-huracan-evo-rwd-2024-precio-ficha-tecnica-interior-oficial.webp alt=Lamborghini Huracán EVO RWD azul en carretera secundaria>
 
 **¿Buscas solo los datos?** <a href=/coches/lamborghini-huracan-evo-rwd-2024-precio-ficha-tecnica/>Ver ficha técnica del Huracán EVO RWD</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -884,7 +884,7 @@ Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.onlin
       "huracan spyder traccion trasera",
       "lamborghini descapotable 2024"
     ],
-    "content": `<img src=/media/lamborghini-huracan-evo-rwd-spyder-2024-precio-ficha-tecnica-hero.webp alt=Lamborghini Huracán EVO RWD Spyder descapotado en costa>
+    "content": `<img src=/media/fotos-reales/lamborghini-huracan-evo-rwd-spyder-2024-precio-ficha-tecnica/lamborghini-huracan-evo-rwd-spyder-2024-precio-ficha-tecnica-hero.webp alt=Lamborghini Huracán EVO RWD Spyder descapotado en costa>
 
 **¿Buscas solo los datos?** <a href=/coches/lamborghini-huracan-evo-rwd-spyder-2024-precio-ficha-tecnica/>Ver ficha técnica del EVO RWD Spyder</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -962,7 +962,7 @@ Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.onlin
       "urus se performante ficha",
       "urus 812 cv"
     ],
-    "content": `<img src=/media/lamborghini-urus-se-performante-2026-precio-ficha-tecnica-hero.webp alt=Lamborghini Urus SE Performante en carretera de montaña>
+    "content": `<img src=/media/fotos-reales/lamborghini-urus-se-performante-2026-precio-ficha-tecnica/lamborghini-urus-se-performante-2026-precio-ficha-tecnica-hero.webp alt=Lamborghini Urus SE Performante en carretera de montaña>
 
 **¿Buscas solo los datos?** <a href=/coches/lamborghini-urus-se-performante-2026-precio-ficha-tecnica/>Ver ficha técnica del Urus SE Performante</a>: potencia, autonomía eléctrica y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -1116,7 +1116,7 @@ Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.onlin
       "lamborghini sterrato ficha",
       "huracan todoterreno 610 cv"
     ],
-    "content": `<img src=/media/lamborghini-huracan-sterrato-2024-precio-ficha-tecnica-hero.webp alt=Lamborghini Huracán Sterrato derrapando en pista de tierra>
+    "content": `<img src=/media/fotos-reales/lamborghini-huracan-sterrato-2024-precio-ficha-tecnica/lamborghini-huracan-sterrato-2024-precio-ficha-tecnica-hero.webp alt=Lamborghini Huracán Sterrato derrapando en pista de tierra>
 
 **¿Buscas solo los datos?** <a href=/coches/lamborghini-huracan-sterrato-2024-precio-ficha-tecnica/>Ver ficha técnica del Huracán Sterrato</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -1272,7 +1272,7 @@ Si te ha llegado una multa con tu Lamborghini, <a href=https://recurretumulta.on
       "fenomeno 1080 cv ficha",
       "lamborghini fenomeno 2025"
     ],
-    "content": `<img src=/media/lamborghini-fenomeno-2025-precio-ficha-tecnica-hero.webp alt=Lamborghini Fenomeno negro en circuito nocturno>
+    "content": `<img src=/media/fotos-reales/lamborghini-fenomeno-2025-precio-ficha-tecnica/lamborghini-fenomeno-2025-precio-ficha-tecnica-hero.webp alt=Lamborghini Fenomeno negro en circuito nocturno>
 
 **¿Buscas solo los datos?** <a href=/coches/lamborghini-fenomeno-2025-precio-ficha-tecnica/>Ver ficha técnica del Fenomeno</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 

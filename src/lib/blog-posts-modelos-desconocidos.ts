@@ -116,7 +116,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "Yangwang Europa 2027",
       "coche chino que flota"
     ],
-    "content": `<img src=/media/yangwang-desconocidos-hero.webp alt=SUV eléctrico de lujo chino de gran tamaño aparcado frente a rascacielos de cristal al anochecer>
+    "content": `<img src=/media/fotos-reales/yangwang-byd-u8-u9-europa-2027/yangwang-desconocidos-hero.webp alt=SUV eléctrico de lujo chino de gran tamaño aparcado frente a rascacielos de cristal al anochecer>
 
 **¿Buscas solo los datos?** <a href=/coches/yangwang-byd-u8-u9-europa-2027/>Ver ficha técnica del Yangwang U8</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -388,7 +388,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "rival Tesla Model Y chino",
       "SUV eléctrico chino 2026"
     ],
-    "content": `<img src=/media/im-motors-desconocidos-hero.webp alt=SUV coupé eléctrico chino azul oscuro circulando por el distrito financiero de Madrid al anochecer>
+    "content": `<img src=/media/fotos-reales/im-motors-ls6-nuevo-suv-electrico-model-y/im-motors-desconocidos-hero.webp alt=SUV coupé eléctrico chino azul oscuro circulando por el distrito financiero de Madrid al anochecer>
 
 **¿Buscas solo los datos?** <a href=/coches/im-motors-ls6-nuevo-suv-electrico-model-y/>Ver ficha técnica del IM LS6</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -582,7 +582,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "SUV eléctrico 6 plazas chino",
       "Li Auto i8 autonomía"
     ],
-    "content": `<img src=/media/li-auto-i8-hero.webp alt=SUV eléctrico familiar chino de gran tamaño con diseño aerodinámico>
+    "content": `<img src=/media/fotos-reales/li-auto-i8-suv-electrico-6-plazas-precio-2026/li-auto-i8-hero.webp alt=SUV eléctrico familiar chino de gran tamaño con diseño aerodinámico>
 
 **¿Buscas solo los datos?** <a href=/coches/li-auto-i8-suv-electrico-6-plazas-precio-2026/>Ver ficha técnica del Li Auto i8</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 

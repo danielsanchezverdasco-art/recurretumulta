@@ -239,7 +239,7 @@ export const MASERATI_POSTS: BlogPost[] = [
       "levante hibrido ficha tecnica",
       "maserati levante 330 cv"
     ],
-    "content": `<img src=/media/maserati-levante-gt-2024-precio-ficha-tecnica-hero.webp alt=Maserati Levante GT en carretera italiana>
+    "content": `<img src=/media/fotos-reales/maserati-levante-gt-2024-precio-ficha-tecnica/maserati-levante-gt-2024-precio-ficha-tecnica-hero.webp alt=Maserati Levante GT en carretera italiana>
 
 **¿Buscas solo los datos?** <a href=/coches/maserati-levante-gt-2024-precio-ficha-tecnica/>Ver ficha técnica del Levante GT</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -267,7 +267,7 @@ El **Maserati Levante GT** es la versión de acceso del SUV del tridente: un 2.0
 
 El GT es el Levante para quien quiere el tridente sin el V8: 580 litros de maletero, 5 plazas reales y un consumo contenido para lo que es. La hibridación ligera le da la etiqueta ECO (<a href=https://www.cupra.com/es-es/hibridos-y-electricos/etiquetas-dgt>criterios de la DGT</a>), útil en las ZBE.
 
-<img src=/media/maserati-levante-gt-2024-precio-ficha-tecnica-oficial.webp alt=Maserati Levante GT, vista lateral en estudio>
+<img src=/media/fotos-reales/maserati-levante-gt-2024-precio-ficha-tecnica/maserati-levante-gt-2024-precio-ficha-tecnica-oficial.webp alt=Maserati Levante GT, vista lateral en estudio>
 
 Por encima están el <a href=/coches/maserati-levante-modena-2024-precio-ficha-tecnica/>Levante Modena</a> (V6 350 CV) y el <a href=/coches/maserati-levante-trofeo-2024-precio-ficha-tecnica/>Levante Trofeo</a> (V8 580 CV). <a href=/mejor-coche-por-presupuesto/>Compara SUV premium por presupuesto</a>.
 
@@ -318,7 +318,7 @@ Si te ha llegado una multa con tu Maserati, <a href=https://recurretumulta.onlin
       "maserati levante v6 ficha",
       "levante modena 350 cv"
     ],
-    "content": `<img src=/media/maserati-levante-modena-2024-precio-ficha-tecnica-hero.webp alt=Maserati Levante Modena en puerto deportivo>
+    "content": `<img src=/media/fotos-reales/maserati-levante-modena-2024-precio-ficha-tecnica/maserati-levante-modena-2024-precio-ficha-tecnica-hero.webp alt=Maserati Levante Modena en puerto deportivo>
 
 **¿Buscas solo los datos?** <a href=/coches/maserati-levante-modena-2024-precio-ficha-tecnica/>Ver ficha técnica del Levante Modena</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -343,7 +343,7 @@ El **Maserati Levante Modena** es el punto medio de la gama: V6 3.0 biturbo de *
 
 El Modena suena como debe sonar un Maserati y cuesta sensiblemente menos que el Trofeo. Frente al <a href=/coches/maserati-levante-gt-2024-precio-ficha-tecnica/>Levante GT</a>, gana el V6 y 20 CV; frente al <a href=/coches/maserati-levante-trofeo-2024-precio-ficha-tecnica/>Trofeo</a>, pierde 230 CV pero también mucho consumo.
 
-<img src=/media/maserati-levante-modena-2024-precio-ficha-tecnica-oficial.webp alt=Maserati Levante Modena, vista lateral en estudio>
+<img src=/media/fotos-reales/maserati-levante-modena-2024-precio-ficha-tecnica/maserati-levante-modena-2024-precio-ficha-tecnica-oficial.webp alt=Maserati Levante Modena, vista lateral en estudio>
 
 Lleva etiqueta **C** (<a href=https://www.cupra.com/es-es/hibridos-y-electricos/etiquetas-dgt>criterios de la DGT</a>). <a href=/mejor-coche-por-presupuesto/>Compara SUV premium por presupuesto</a>.
 
@@ -394,7 +394,7 @@ Si te ha llegado una multa con tu Maserati, <a href=https://recurretumulta.onlin
       "maserati levante v8 ficha",
       "levante trofeo 580 cv"
     ],
-    "content": `<img src=/media/maserati-levante-trofeo-2024-precio-ficha-tecnica-hero.webp alt=Maserati Levante Trofeo negro en carretera>
+    "content": `<img src=/media/fotos-reales/maserati-levante-trofeo-2024-precio-ficha-tecnica/maserati-levante-trofeo-2024-precio-ficha-tecnica-hero.webp alt=Maserati Levante Trofeo negro en carretera>
 
 **¿Buscas solo los datos?** <a href=/coches/maserati-levante-trofeo-2024-precio-ficha-tecnica/>Ver ficha técnica del Levante Trofeo</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -420,7 +420,7 @@ El **Maserati Levante Trofeo** es la despedida del V8 en el SUV del tridente: **
 
 Con el fin de la producción del V8, el Trofeo es historia del automóvil: uno de los SUV más rápidos del mundo (302 km/h) con el bramido de ocho cilindros. Solo el <a href=/coches/lamborghini-urus-performante-2024-precio-ficha-tecnica/>Urus Performante</a> le discute el trono entre los SUV italianos.
 
-<img src=/media/maserati-levante-trofeo-2024-precio-ficha-tecnica-oficial.webp alt=Maserati Levante Trofeo, vista lateral en estudio>
+<img src=/media/fotos-reales/maserati-levante-trofeo-2024-precio-ficha-tecnica/maserati-levante-trofeo-2024-precio-ficha-tecnica-oficial.webp alt=Maserati Levante Trofeo, vista lateral en estudio>
 
 Lleva etiqueta **C** (<a href=https://www.cupra.com/es-es/hibridos-y-electricos/etiquetas-dgt>criterios de la DGT</a>). <a href=/mejor-coche-por-presupuesto/>Compara SUV deportivos por presupuesto</a>.
 
@@ -471,7 +471,7 @@ Si te ha llegado una multa con tu Maserati, <a href=https://recurretumulta.onlin
       "ghibli hibrido ficha tecnica",
       "maserati ghibli 2024"
     ],
-    "content": `<img src=/media/maserati-ghibli-gt-2024-precio-ficha-tecnica-hero.webp alt=Maserati Ghibli GT plateado en costa>
+    "content": `<img src=/media/fotos-reales/maserati-ghibli-gt-2024-precio-ficha-tecnica/maserati-ghibli-gt-2024-precio-ficha-tecnica-hero.webp alt=Maserati Ghibli GT plateado en costa>
 
 **¿Buscas solo los datos?** <a href=/coches/maserati-ghibli-gt-2024-precio-ficha-tecnica/>Ver ficha técnica del Ghibli GT</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -498,7 +498,7 @@ El **Maserati Ghibli GT** es la berlina de acceso al tridente: 2.0 turbo con hib
 
 El GT es el Ghibli racional: etiqueta ECO (<a href=https://www.cupra.com/es-es/hibridos-y-electricos/etiquetas-dgt>criterios de la DGT</a>), 500 litros de maletero y una elegancia que ningún alemán ofrece por ese precio. El peaje: el 4 cilindros no suena como un Maserati de los de antes.
 
-<img src=/media/maserati-ghibli-gt-2024-precio-ficha-tecnica-oficial.webp alt=Maserati Ghibli GT, vista lateral en estudio>
+<img src=/media/fotos-reales/maserati-ghibli-gt-2024-precio-ficha-tecnica/maserati-ghibli-gt-2024-precio-ficha-tecnica-oficial.webp alt=Maserati Ghibli GT, vista lateral en estudio>
 
 Por encima: <a href=/coches/maserati-ghibli-modena-2024-precio-ficha-tecnica/>Ghibli Modena</a> (V6 350 CV) y <a href=/coches/maserati-ghibli-trofeo-2024-precio-ficha-tecnica/>Ghibli Trofeo</a> (V8 580 CV). <a href=/mejor-coche-por-presupuesto/>Compara berlinas premium por presupuesto</a>.
 
@@ -549,7 +549,7 @@ Si te ha llegado una multa con tu Maserati, <a href=https://recurretumulta.onlin
       "maserati ghibli v6 ficha",
       "ghibli modena 350 cv"
     ],
-    "content": `<img src=/media/maserati-ghibli-modena-2024-precio-ficha-tecnica-hero.webp alt=Maserati Ghibli Modena rojo en Toscana>
+    "content": `<img src=/media/fotos-reales/maserati-ghibli-modena-2024-precio-ficha-tecnica/maserati-ghibli-modena-2024-precio-ficha-tecnica-hero.webp alt=Maserati Ghibli Modena rojo en Toscana>
 
 **¿Buscas solo los datos?** <a href=/coches/maserati-ghibli-modena-2024-precio-ficha-tecnica/>Ver ficha técnica del Ghibli Modena</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -574,7 +574,7 @@ El **Maserati Ghibli Modena** monta el V6 3.0 biturbo de **350 CV** y 500 Nm: el
 
 Frente al <a href=/coches/maserati-ghibli-gt-2024-precio-ficha-tecnica/>Ghibli GT</a> híbrido, el Modena recupera el tacto clásico: V6, tracción trasera y 267 km/h. Es la versión para quien compra un Maserati por cómo suena y cómo se siente.
 
-<img src=/media/maserati-ghibli-modena-2024-precio-ficha-tecnica-oficial.webp alt=Maserati Ghibli Modena, vista lateral en estudio>
+<img src=/media/fotos-reales/maserati-ghibli-modena-2024-precio-ficha-tecnica/maserati-ghibli-modena-2024-precio-ficha-tecnica-oficial.webp alt=Maserati Ghibli Modena, vista lateral en estudio>
 
 Lleva etiqueta **C** (<a href=https://www.cupra.com/es-es/hibridos-y-electricos/etiquetas-dgt>criterios de la DGT</a>). <a href=/mejor-coche-por-presupuesto/>Compara berlinas deportivas por presupuesto</a>.
 
@@ -625,7 +625,7 @@ Si te ha llegado una multa con tu Maserati, <a href=https://recurretumulta.onlin
       "maserati ghibli v8 ficha",
       "ghibli trofeo 580 cv"
     ],
-    "content": `<img src=/media/maserati-ghibli-trofeo-2024-precio-ficha-tecnica-hero.webp alt=Maserati Ghibli Trofeo negro en autobahn>
+    "content": `<img src=/media/fotos-reales/maserati-ghibli-trofeo-2024-precio-ficha-tecnica/maserati-ghibli-trofeo-2024-precio-ficha-tecnica-hero.webp alt=Maserati Ghibli Trofeo negro en autobahn>
 
 **¿Buscas solo los datos?** <a href=/coches/maserati-ghibli-trofeo-2024-precio-ficha-tecnica/>Ver ficha técnica del Ghibli Trofeo</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -652,7 +652,7 @@ El **Maserati Ghibli Trofeo** es la berlina más rápida de la historia de Maser
 
 El Trofeo es historia: el último V8 en una berlina Maserati, con 326 km/h que lo ponen por encima de cualquier M5 o E 63 de su época en velocidad punta. El 4,3 s con tracción trasera y 580 CV exige respeto en mojado.
 
-<img src=/media/maserati-ghibli-trofeo-2024-precio-ficha-tecnica-oficial.webp alt=Maserati Ghibli Trofeo, vista lateral en estudio>
+<img src=/media/fotos-reales/maserati-ghibli-trofeo-2024-precio-ficha-tecnica/maserati-ghibli-trofeo-2024-precio-ficha-tecnica-oficial.webp alt=Maserati Ghibli Trofeo, vista lateral en estudio>
 
 Con 12,4 l/100 km y 281 g/km, lleva etiqueta **C** (<a href=https://www.cupra.com/es-es/hibridos-y-electricos/etiquetas-dgt>criterios de la DGT</a>). <a href=/mejor-coche-por-presupuesto/>Compara berlinas deportivas por presupuesto</a>.
 
@@ -703,7 +703,7 @@ Si te ha llegado una multa con tu Maserati, <a href=https://recurretumulta.onlin
       "maserati quattroporte ficha",
       "quattroporte 2024"
     ],
-    "content": `<img src=/media/maserati-quattroporte-gt-2024-precio-ficha-tecnica-hero.webp alt=Maserati Quattroporte GT blanco en Roma>
+    "content": `<img src=/media/fotos-reales/maserati-quattroporte-gt-2024-precio-ficha-tecnica/maserati-quattroporte-gt-2024-precio-ficha-tecnica-hero.webp alt=Maserati Quattroporte GT blanco en Roma>
 
 **¿Buscas solo los datos?** <a href=/coches/maserati-quattroporte-gt-2024-precio-ficha-tecnica/>Ver ficha técnica del Quattroporte GT</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -730,7 +730,7 @@ El **Maserati Quattroporte GT** es la berlina insignia del tridente: **5,26 metr
 
 El Quattroporte es presencia pura: más carácter que un Clase S o un Serie 7, con el V6 cantando a 5.500 rpm. Por encima están el <a href=/coches/maserati-quattroporte-modena-q4-2024-precio-ficha-tecnica/>Modena Q4</a> (430 CV, total) y el <a href=/coches/maserati-quattroporte-trofeo-2024-precio-ficha-tecnica/>Trofeo</a> (V8 580 CV).
 
-<img src=/media/maserati-quattroporte-gt-2024-precio-ficha-tecnica-oficial.webp alt=Maserati Quattroporte GT, vista lateral en estudio>
+<img src=/media/fotos-reales/maserati-quattroporte-gt-2024-precio-ficha-tecnica/maserati-quattroporte-gt-2024-precio-ficha-tecnica-oficial.webp alt=Maserati Quattroporte GT, vista lateral en estudio>
 
 Lleva etiqueta **C** (<a href=https://www.cupra.com/es-es/hibridos-y-electricos/etiquetas-dgt>criterios de la DGT</a>). <a href=/mejor-coche-por-presupuesto/>Compara berlinas de lujo por presupuesto</a>.
 
@@ -882,7 +882,7 @@ Precio (172.300 €), potencia (430 CV), medidas (5.262 × 1.948 × 1.481 mm), c
       "maserati quattroporte v8",
       "quattroporte trofeo 580 cv"
     ],
-    "content": `<img src=/media/maserati-quattroporte-trofeo-2024-precio-ficha-tecnica-hero.webp alt=Maserati Quattroporte Trofeo en carretera alpina>
+    "content": `<img src=/media/fotos-reales/maserati-quattroporte-trofeo-2024-precio-ficha-tecnica/maserati-quattroporte-trofeo-2024-precio-ficha-tecnica-hero.webp alt=Maserati Quattroporte Trofeo en carretera alpina>
 
 **¿Buscas solo los datos?** <a href=/coches/maserati-quattroporte-trofeo-2024-precio-ficha-tecnica/>Ver ficha técnica del Quattroporte Trofeo</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -907,7 +907,7 @@ El **Maserati Quattroporte Trofeo** lleva el V8 3.8 biturbo de **580 CV** a la l
 
 326 km/h en una berlina de 5 plazas: el Trofeo es la berlina de lujo más rápida jamás hecha en Italia. El V8 ruge con el modo Corsa y los 2.000 kg se olvidan en autopista, aunque se notan en carreteras viradas.
 
-<img src=/media/maserati-quattroporte-trofeo-2024-precio-ficha-tecnica-oficial.webp alt=Maserati Quattroporte Trofeo, vista lateral en estudio>
+<img src=/media/fotos-reales/maserati-quattroporte-trofeo-2024-precio-ficha-tecnica/maserati-quattroporte-trofeo-2024-precio-ficha-tecnica-oficial.webp alt=Maserati Quattroporte Trofeo, vista lateral en estudio>
 
 Es el canto del cisne del V8 Maserati en una berlina. Lleva etiqueta **C** (<a href=https://www.cupra.com/es-es/hibridos-y-electricos/etiquetas-dgt>criterios de la DGT</a>). <a href=/mejor-coche-por-presupuesto/>Compara berlinas de lujo por presupuesto</a>.
 
@@ -959,7 +959,7 @@ Si te ha llegado una multa con tu Maserati, <a href=https://recurretumulta.onlin
       "maserati mc20 630 cv",
       "mc20 v6 nettuno"
     ],
-    "content": `<img src=/media/maserati-mc20-2024-precio-ficha-tecnica-hero.webp alt=Maserati MC20 azul en circuito>
+    "content": `<img src=/media/fotos-reales/maserati-mc20-2024-precio-ficha-tecnica/maserati-mc20-2024-precio-ficha-tecnica-hero.webp alt=Maserati MC20 azul en circuito>
 
 **¿Buscas solo los datos?** <a href=/coches/maserati-mc20-2024-precio-ficha-tecnica/>Ver ficha técnica del MC20</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -988,7 +988,7 @@ El **Maserati MC20** es el renacer del tridente: monocasco de carbono, motor **V
 
 El Nettuno usa doble bujía y precombustión como los F1: 630 CV con solo 3.0 litros. Con 1.475 kg, el MC20 hace el 0-100 en 2,9 s y llega a 325 km/h. La aerodinámica se desarrolló con Dallara, sin alerones.
 
-<img src=/media/maserati-mc20-2024-precio-ficha-tecnica-oficial.webp alt=Maserati MC20, vista lateral en estudio>
+<img src=/media/fotos-reales/maserati-mc20-2024-precio-ficha-tecnica/maserati-mc20-2024-precio-ficha-tecnica-oficial.webp alt=Maserati MC20, vista lateral en estudio>
 
 En vídeo: <a href=https://www.youtube.com/watch?v=0ACd4WFD0JU>prueba del MC20 en circuito y carretera</a>. También existe descapotable: <a href=/coches/maserati-mc20-cielo-2024-precio-ficha-tecnica/>ficha del MC20 Cielo</a>. Lleva etiqueta **C** (<a href=https://www.cupra.com/es-es/hibridos-y-electricos/etiquetas-dgt>criterios de la DGT</a>).
 
@@ -1049,7 +1049,7 @@ Si te ha llegado una multa con tu Maserati, <a href=https://recurretumulta.onlin
       "maserati mc20 descapotable",
       "mc20 cielo ficha tecnica"
     ],
-    "content": `<img src=/media/maserati-mc20-cielo-2024-precio-ficha-tecnica-hero.webp alt=Maserati MC20 Cielo descapotado en costa amalfitana>
+    "content": `<img src=/media/fotos-reales/maserati-mc20-cielo-2024-precio-ficha-tecnica/maserati-mc20-cielo-2024-precio-ficha-tecnica-hero.webp alt=Maserati MC20 Cielo descapotado en costa amalfitana>
 
 **¿Buscas solo los datos?** <a href=/coches/maserati-mc20-cielo-2024-precio-ficha-tecnica/>Ver ficha técnica del MC20 Cielo</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -1077,7 +1077,7 @@ El **Maserati MC20 Cielo** es la versión descapotable del MC20: mismo V6 Nettun
 
 El truco del Cielo es su techo de cristal conmutable: pasa de transparente a opaco en segundos. Solo pesa 85 kg más que el <a href=/coches/maserati-mc20-2024-precio-ficha-tecnica/>MC20 coupé</a> y mantiene el 0-100 en 3,0 s.
 
-<img src=/media/maserati-mc20-cielo-2024-precio-ficha-tecnica-oficial.webp alt=Maserati MC20 Cielo, vista lateral en estudio>
+<img src=/media/fotos-reales/maserati-mc20-cielo-2024-precio-ficha-tecnica/maserati-mc20-cielo-2024-precio-ficha-tecnica-oficial.webp alt=Maserati MC20 Cielo, vista lateral en estudio>
 
 Cuesta 35.000 € más que el coupé. Lleva etiqueta **C** (<a href=https://www.cupra.com/es-es/hibridos-y-electricos/etiquetas-dgt>criterios de la DGT</a>). <a href=/mejor-coche-por-presupuesto/>Compara descapotables por presupuesto</a>.
 
@@ -1128,7 +1128,7 @@ Si te ha llegado una multa con tu Maserati, <a href=https://recurretumulta.onlin
       "maserati mc20 notte edition",
       "mc20 50 unidades"
     ],
-    "content": `<img src=/media/maserati-mc20-notte-2024-precio-ficha-tecnica-hero.webp alt=Maserati MC20 Notte Edition negro mate de noche>
+    "content": `<img src=/media/fotos-reales/maserati-mc20-notte-2024-precio-ficha-tecnica/maserati-mc20-notte-2024-precio-ficha-tecnica-1.webp alt=Maserati MC20 Notte Edition negro mate de noche>
 
 **¿Buscas solo los datos?** <a href=/coches/maserati-mc20-notte-2024-precio-ficha-tecnica/>Ver ficha técnica del MC20 Notte</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
