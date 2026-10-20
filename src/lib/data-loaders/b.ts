@@ -44,6 +44,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "benelli-leoncino-800-trail-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m9.ts"),
     "benelli-leoncino-800-trail-2026": () => import("../blog-posts-prioridad-20261014.ts"),
     "benelli-tnt-125-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m3.ts"),
+    "benelli-tornado-500-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t19.ts"),
     "benelli-tornado-500-2025": () => import("../blog-posts-prioridad-20261014.ts"),
     "benelli-tornado-550-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m9.ts"),
     "benelli-tornado-naked-t-125-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m11.ts"),
