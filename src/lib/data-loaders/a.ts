@@ -131,6 +131,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "aprilia-rs-125-2026-precio": () => import("../blog-posts-nuevos-m4.ts"),
     "aprilia-rs-457-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m2.ts"),
     "aprilia-rs-457-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m30.ts"),
+    "aprilia-rs-457-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t17.ts"),
     "aprilia-rs-457-2026-precio-ficha": () => import("../blog-posts-lote15.ts"),
     "aprilia-rs-660-2024-analisis-opinion": () => import("../blog-posts-motos-rescate-m3.ts"),
     "aprilia-rs-660-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m22.ts"),

@@ -135,6 +135,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "li-auto-l8-2026-precio-ficha-tecnica": () => import("../blog-posts-liauto-a.ts"),
     "li-auto-l9-2026-precio-ficha-tecnica": () => import("../blog-posts-liauto-a.ts"),
     "li-auto-mega-2026-precio-ficha-tecnica": () => import("../blog-posts-liauto-a.ts"),
+    "lifan-kpf-150": () => import("../blog-posts-motos-niki-t17.ts"),
     "lifan-kpf-150-urbana-precio": () => import("../blog-posts-lote14.ts"),
     "lifan-kpt-400-trail-42-cv-precio": () => import("../blog-posts-lote14.ts"),
     "ligier-js50-electrico-2026-precio-ficha-tecnica": () => import("../blog-posts-ligier-a.ts"),
