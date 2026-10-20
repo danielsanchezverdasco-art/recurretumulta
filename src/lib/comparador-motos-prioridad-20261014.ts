@@ -1299,7 +1299,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     modelo: "F 900 R",
     version: "F 900 R 2026",
     categoria: "Naked",
-    precioDesde: 12950,
+    precioDesde: 9750, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 77.0,
     potenciaCv: 105,
     cilindradaCc: 895,
@@ -1313,9 +1313,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-      "precioDesde"
-    ],
+    aprox: [],
     pros: [
       "Motor de 895 cc con 105 CV (77 kW) y 92 Nm de par",
       "Peso declarado de 211 kg en orden de marcha",
@@ -1325,7 +1323,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Precio aproximado desde 12.950 €"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
+      "Precio oficial BMW desde 9.750 €: la lista de extras puede elevarlo mucho",
       "Garantía orientativa de modelos parecidos, no específica de esta versión",
       "Mantenimiento orientativo de un modelo similar de la misma marca",
       "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
