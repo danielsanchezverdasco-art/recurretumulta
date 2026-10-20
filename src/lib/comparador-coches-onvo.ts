@@ -18,7 +18,7 @@ export const COCHES_ONVO: CocheComparador[] = [
     modelo: "L60",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 25000,
+    precioDesde: 25700, // 192.800 CNY (tarifa oficial China) ÷ 7,50 (BCE 19/10/2026), redondeado a la centena
     potenciaCv: 326,
     autonomiaKm: 560,
     maleteroL: 763,

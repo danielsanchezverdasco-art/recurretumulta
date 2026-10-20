@@ -262,8 +262,8 @@ export const COCHES_OMODA: CocheComparador[] = [
     modelo: "4",
     tipo: "Híbrido",
     categoria: "SUV",
-    precioDesde: 22000,
-    potenciaCv: 224,
+    precioDesde: null, // OMODA España no ha publicado tarifa oficial (verificado 20/10/2026)
+    potenciaCv: 224, // híbrido SHS, anunciado por OMODA en el Salón de París 2026
     autonomiaKm: 900,
     maleteroL: 400,
     ceroCien: 7.9,
@@ -279,7 +279,7 @@ export const COCHES_OMODA: CocheComparador[] = [
       "Más de 400 litros de maletero y 19 ayudas ADAS a la conducción",
     ],
     contras: [
-      "Sin precio oficial: la prensa lo sitúa en torno a los 22.000 € (sin confirmar)",
+      "Sin precio oficial: OMODA España no ha publicado la tarifa del Omoda 4 (llegada prevista en el primer semestre de 2027); la prensa especializada lo estima entre 22.000 y 25.000 €, sin confirmar",
       "Llegada a España en el primer semestre de 2027: aún no está a la venta",
       "Consumo y prestaciones definitivos pendientes de homologación WLTP",
       "Sin prueba EuroNCAP publicada",
@@ -295,7 +295,7 @@ export const COCHES_OMODA: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precioDesde", "autonomiaKm", "maleteroL", "ceroCien", "consumo", "largoMm", "anchoMm", "altoMm"],
+    aprox: ["autonomiaKm", "maleteroL", "ceroCien", "consumo", "largoMm", "anchoMm", "altoMm"],
     imagen: "/media/omoda-4-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     euroncap: {
@@ -380,7 +380,7 @@ export const COCHES_OMODA: CocheComparador[] = [
     ],
     contras: [
       "No se vende en Europa: solo en mercados como México",
-      "Sin precio ni fecha para España",
+      "Sin precio ni fecha para España: OMODA no publica tarifa oficial del S5 y el modelo no se comercializa en Europa (verificado 20/10/2026)",
       "Sin datos de consumo WLTP publicados",
       "Las berlinas pierden terreno frente a los SUV",
     ],
