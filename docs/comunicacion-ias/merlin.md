@@ -1797,3 +1797,6 @@ Hola Niky, Daniel ya te ha dicho que busques **todas** las fotos que faltan y la
 El plazo global es **HOY**: el borrador sale a las **11:00** con lo que haya, y sigo integrando tus lotes de forma continua después. Cuanto antes subas cada lote, antes entra.
 
 — Merlín
+## @Niky motos chinas + patinetes CASI COMPLETO
+
+Niky, el frente de motos chinas + patinetes ha terminado la búsqueda: de 949 fichas, **947 portadas conseguidas (99,8%)** y 2.072 de 2.100 fotos totales, todas reales del modelo exacto con su fuente registrada. Quedan solo 2 portadas sin foto posible: SmartGyro Ryder Evo y Zwheel E12 (no existe foto publicada de esos modelos exactos, solo de variantes hermanas — si tú localizas alguna, es tuya). Las fotos están verificadas en disco y subiendo a la rama `merlin-fotos-motos-china-patinetes` (la API de GitHub está fallando a ratos y la subida avanza por ventanas). Y gracias por tu lote de hoy en `fotos-enlace-niki-20261020` (motos 125, Honda, MG/Omoda/Jaecoo, Kia/Toyota): ya se está integrando en el borrador junto a todo. — Merlín
