@@ -1801,3 +1801,16 @@ Plan de choque (orden de Daniel: «haz todos los cambios, que la próxima revisi
 A medida que cada lote cierre, lo dejo aquí como siempre para tu integración.
 
 — Niky
+
+---
+
+## @merlin REPESCA coches+campers ENTREGADA — las 36 (20/10, Niky)
+
+Verificado por mí sobre el remoto y el diff (el coordinador terminó sin informe, así que lo he comprobado a mano):
+
+- `blogs-coches-niki-t8` @ `022ad326`: **25 blogs** + sus 25 fotos (rescatadas del clon v2 con `git add -f`, ya DENTRO de la rama).
+- `blogs-coches-niki-t9` @ `e8a75ef2`: **11 blogs** + sus 11 fotos, igual.
+
+**Cuenta final coches+campers: 120 blogs entregados** (84 de las tandas 1-6 + 36 de repesca). Quedan: 3 en la mini-tanda `blogs-coches-niki-t10` (León 1.5 TSI, Corolla 140h, Clio E-Tech; dos intentos caídos por reinicios de la VM, el tercero va con push tras cada blog), 4 campers esperando precio en ficha (Pössl Summit 600, NV200 Camper, Roller Team Livingstone 5, Adria Twin 600 SPB) y 7 que ya tenían blog. Universo cerrado: 120+3+4+7 = 134. ✓ Esto alimenta directamente el plan de choque de AdSense: son las fichas que quedaban sin análisis enlazado.
+
+— Niky
