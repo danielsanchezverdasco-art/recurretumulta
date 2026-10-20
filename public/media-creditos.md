@@ -5038,3 +5038,26 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/zeekr-7x-2025-precio-ficha-tecnica-hunt1.webp | https://zeekr.com.ua/pages/7x/7x-second.webp | Zeekr (foto oficial, vía zeekr.com.ua) | desconocida |
 | /media/zeekr-7x-2025-precio-ficha-tecnica-hunt2.webp | https://media.whichcar.com.au/uploads/2024/11/a01a4f76-2025-zeekr-7x-4-1024x683.jpg | Zeekr (foto de prensa, vía WhichCar) | desconocida |
 | /media/zeekr-7x-2025-precio-ficha-tecnica-hunt3.webp | https://vezess2.p3k.hu/app/uploads/2024/08/zeekr-7x_exterior_17.jpg | Zeekr (foto de prensa, vía Vezess) | desconocida |
+| /media/de-tomaso-p72-2025-precio-ficha-tecnica-hunt1.webp | https://www.autodato.com/wp-content/uploads/2019/07/De-Tomaso-P72-2-1248x780.jpg | Autodato (fotos de prensa De Tomaso) | desconocida |
+| /media/de-tomaso-p72-2025-precio-ficha-tecnica-hunt2.webp | https://drivr.be/wp-content/uploads/2019/07/2019_detomaso_p72_15.jpg | DRIVR.be | desconocida |
+| /media/de-tomaso-p72-2025-precio-ficha-tecnica-hunt3.webp | https://api2.pedal.ir/media/wp-content-uploads-2023-12-De-tomaso-P72-2022-4-68616a62e3eb8e5af3d031db?w=1920&q=75 | Pedal.ir (fotos de prensa De Tomaso) | desconocida |
+| /media/deepal-l07-2025-precio-ficha-tecnica-hunt1.webp | https://www.headlightmag.com/hlmwp/wp-content/uploads/2024/09/Deepal-L07_Facelift_02.jpg | HeadlightMag (fotos de prensa Deepal) | desconocida |
+| /media/deepal-l07-2025-precio-ficha-tecnica-hunt2.webp | https://deepal-auto.by/wp-content/uploads/2025/08/l07-c2.jpg | Distribuidor oficial Deepal Bielorrusia (deepal-auto.by) | desconocida |
+| /media/deepal-l07-2025-precio-ficha-tecnica-hunt3.webp | https://www.headlightmag.com/hlmwp/wp-content/uploads/2024/09/Deepal-L07_Facelift_04.jpg | HeadlightMag (fotos de prensa Deepal) | desconocida |
+| /media/fb-mondial-piega-452-2025-ficha-tecnica-precio-hunt1.webp | https://www.fb-mondial.pt/content/dam/moteo/mondial/categories---models/motos/piega-452/m4/color-model-pagze/Mon_Piega452_grey_M4_Lprof.jpg | FB Mondial (web oficial, fb-mondial.pt) | desconocida |
+| /media/fb-mondial-piega-452-2025-ficha-tecnica-precio-hunt2.webp | https://soymotero.net/wp-content/uploads/2025/02/Mon_Piega452_black_M4-Rprof_14_11zon.jpg | Soymotero (foto oficial FB Mondial) | desconocida |
+| /media/zeekr-x-2024-precio-ficha-tecnica-hunt1.webp | https://static.auto.co.il/media/15fgn2jt/1691562-zeekr_x-2024.png | Auto.co.il | desconocida |
+| /media/zeekr-x-2024-precio-ficha-tecnica-hunt2.webp | https://www.car250.com/wp-content/uploads/2024/09/669788c9e4b05b052c4f075d.png | Car250 | desconocida |
+| /media/zeekr-x-2024-precio-ficha-tecnica-hunt3.webp | https://staging.goauto.com.au/assets/contents/89584ff9e145c64e3ac95766258c49cb3cf294e2.jpg | GoAuto (Australia) | desconocida |
+| /media/de-tomaso-p900-2025-precio-ficha-tecnica-hunt1.webp | https://cdn.hiconsumption.com/wp-content/uploads/2022/11/De-Tomaso-P900-Hypercar-0-Hero-1074x716.jpg | De Tomaso (kit de prensa) / HiConsumption | desconocida |
+| /media/de-tomaso-p900-2025-precio-ficha-tecnica-hunt2.webp | https://images.pistonheads.com/nimg/46542/P9006.jpg | De Tomaso (kit de prensa) / PistonHeads | desconocida |
+| /media/de-tomaso-p900-2025-precio-ficha-tecnica-hunt3.webp | https://www.supercars.net/blog/wp-content/uploads/2024/02/2023-De-Tomaso-P900-004-2160-1536x864.jpg | De Tomaso (kit de prensa) / supercars.net | desconocida |
+| /media/im-l6-2026-precio-ficha-tecnica-hunt1.webp | http://evcarnews.net/wp-content/uploads/2026/08/IM-L6-launched.jpg | evcarnews.net (foto de prensa IM) | desconocida |
+| /media/im-l6-2026-precio-ficha-tecnica-hunt2.webp | https://images.dailyrevs.com/0000/v3/Zhiji/6a892ddd4475800977576734/2026-l6-jimmy-choo-edition-zhiji-4r81a0glvw9arslz_thumb.webp | dailyrevs.com (foto de prensa Zhiji/IM) | desconocida |
+| /media/im-l6-2026-precio-ficha-tecnica-hunt3.webp | https://img.autohaina.com/news/2026/08/28/industry-news-cnevpost-f3f1ef77f01cb2c2/article_1_0d053ccdd996.jpg | evmagz.com (foto de prensa IM) | desconocida |
+| /media/ktm-rc-390-2026-ficha-tecnica-precio-hunt1.webp | https://mcn-images.bauersecure.com/wp-images/5056/600x400/ktm_rc390_02.jpg?mode=max& | MCN / Motor Cycle News | desconocida |
+| /media/ktm-rc-390-2026-ficha-tecnica-precio-hunt2.webp | https://azwecdnepstoragewebsiteuploads.azureedge.net/PHO_BIKE_DET_MY24-KTM-RC-390-performance_%23SALL_%23AEPI_%23V1.png | KTM (web oficial) | desconocida |
+| /media/ktm-rc-390-2026-ficha-tecnica-precio-hunt3.webp | https://motomotar.com/wp-content/uploads/2024/12/RC-390-1024x576.webp | motomotar.com | desconocida |
+| /media/zeekr-009-2026-precio-ficha-tecnica-hunt1.webp | https://www.chasingcars.com.au/wp-content/uploads/2024/11/Zeekr-009-696-crop.jpg | chasingcars.com.au (foto de prensa Zeekr) | desconocida |
+| /media/zeekr-009-2026-precio-ficha-tecnica-hunt2.webp | https://visor.ph/wp-content/uploads/2025/06/zeekr-009-main8.jpg | visor.ph (foto de prensa Zeekr, 'All New 009') | desconocida |
+| /media/zeekr-009-2026-precio-ficha-tecnica-hunt3.webp | https://www.datocms-assets.com/145936/1732186742-white-rhd-zeekr-009-right-45.jpg?auto=format | Zeekr Singapur (web oficial) / zeekrlife.com | desconocida |
