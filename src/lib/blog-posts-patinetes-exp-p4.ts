@@ -1230,6 +1230,36 @@ Sin certificado DGT verificado. Sus **~30 km/h** de punta piden **ajustarlo a 25
 
 <img src=/media/patinetes/evercross-ev10k-pro-3.webp alt=Evercross EV10K Pro en un carril bici>
 
+## Evercross: la marca de los patinetes completos a precio mínimo
+
+Evercross se ha hecho un hueco en Europa vendiendo patinetes eléctricos muy equipados a precios de derribo, casi siempre a través de grandes plataformas de venta online. Su gama EV juega precisamente a eso: más motor, más batería y más equipamiento del habitual en su franja de precio. Dentro de esa familia, el EV10K Pro ocupa el centro: no es el modelo de acceso ni el más extremo, sino el que equilibra potencia, autonomía y precio para el uso urbano diario. La propia marca lo presenta en su <a href=https://evercross.eu/blogs/news/evercross-ev10k-pro-electric-scooter-a-powerful-and-stylish-ride>web oficial de Evercross</a> como su propuesta para desplazamientos urbanos, aunque conviene contrastar siempre la ficha del vendedor concreto, porque las configuraciones pueden variar según el mercado.
+
+## Técnica a fondo: qué dan de sí 500 W y 410 Wh
+
+| Concepto | Dato del EV10K Pro |
+|---|---|
+| Motor | 500 W |
+| Batería | 36 V y 11,4 Ah (410 Wh) |
+| Autonomía declarada | 35 km |
+| Autonomía real estimada | 22-25 km |
+| Carga máxima | 150 kg |
+| Peso | 16 kg |
+| Ruedas | 10 pulgadas honeycomb |
+
+Los 500 W se notan sobre todo en las salidas desde parado y en las rampas urbanas moderadas, donde un motor de 350 W sufre mucho más, especialmente con conductores pesados: aquí la carga máxima declarada es de 150 kg, una cifra poco común en este precio. La batería de 410 Wh es la que manda en la autonomía: los 35 km declarados se miden en condiciones óptimas, y la estimación real de 22-25 km es la cifra con la que hay que planificar. Las ruedas honeycomb eliminan los pinchazos a cambio de menos filtrado, algo que la doble amortiguación compensa en parte.
+
+## Uso real: commuting diario sin complicaciones
+
+Para trayectos urbanos de ida y vuelta de hasta unos 20 km, el EV10K Pro cumple sin necesidad de cargar a diario. Los intermitentes delanteros y traseros son su rasgo más diferencial: en ciudad, señalizar los giros sin soltar el manillar es una ventaja de seguridad real que casi ningún rival de este precio ofrece. La app con bloqueo y control de crucero suma comodidad, y los 16 kg lo mantienen asumible para subirlo a un piso o meterlo en un maletero, aunque no es un patinete ligero para cargar a diario por muchas escaleras. Sus límites son honestos: la rueda maciza transmite más vibraciones en asfalto roto y el soporte posventa depende del vendedor, no de una red propia en España.
+
+## Mantenimiento y normativa VMP en España
+
+El mantenimiento es sencillo: presión y estado de las ruedas (aunque sean macizas, se desgastan), tornillería del plegado, freno de disco y su pastilla, y cuidar la batería evitando descargas completas prolongadas. En normativa, la <a href=https://www.dgt.es>DGT</a> es clara con los vehículos de movilidad personal: velocidad máxima de 25 km/h, prohibido circular por aceras y obligatoriedad de certificado de circulación para los VMP comercializados en España. El EV10K Pro declara unos 30 km/h de punta, así que hay que limitarlo a 25 km/h para circular legalmente, y en este análisis consta sin certificado DGT verificado: antes de comprarlo, exige al vendedor la documentación del certificado si lo vas a usar en vía pública.
+
+## Rivales y veredicto: ¿merece la pena?
+
+Frente a él, el <a href=/patinetes/xiaomi-electric-scooter-5-max/>Xiaomi Electric Scooter 5 Max</a> juega la carta de la marca global y el soporte, y el <a href=/patinetes/segway-ninebot-max-g3/>Segway Ninebot Max G3</a> la de la autonomía y la construcción, ambos a precios superiores. El Evercross responde con más carga máxima, intermitentes de serie y un precio de unos 275 € difícil de igualar. **Veredicto:** merece la pena para quien hace commuting urbano y valora potencia y equipamiento por euro; no es la mejor compra para quien priorice una red oficial de servicio en España o ruedas neumáticas confortables. Y si entre trayecto y trayecto te apetece un reto, prueba nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Evercross EV10K Pro?
@@ -1252,7 +1282,7 @@ Por ~45 € más tienes 500 W (frente a 350 W), más batería e intermitentes. S
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://www.testmarket.io/deals/amazon/electric-scooters/evercross-ev85fev10k-pro-electric-scooters-adults-8510-e-scooter-foldable-app-350w500w-motor-78ah114ah-battery-15kg16kg-weight-3-speed-modes-dual-shock-absorbers/1314334>ficha del EV10K Pro en Testmarket</a>.*`,
+*Fuentes: <a href=https://www.testmarket.io/deals/amazon/electric-scooters/evercross-ev85fev10k-pro-electric-scooters-adults-8510-e-scooter-foldable-app-350w500w-motor-78ah114ah-battery-15kg16kg-weight-3-speed-modes-dual-shock-absorbers/1314334>ficha del EV10K Pro en Testmarket</a>. <a href=https://evercross.eu/blogs/news/evercross-ev10k-pro-electric-scooter-a-powerful-and-stylish-ride>Evercross (web oficial)</a> y <a href=https://www.dgt.es>DGT</a>*`,
   },
   {
     slug: "evercross-ev85f",
@@ -2002,6 +2032,41 @@ Vídeo: <a href=https://www.youtube.com/watch?v=QCSvLqYurt4>Electrek</a> en YouT
 
 <img src=/media/patinetes/currus-nf-3.webp alt=Currus NF rodando por una vía rápida>
 
+## Currus: el pionero coreano de los patinetes extremos
+
+Cuando el mercado del patinete eléctrico era cosa de modelos urbanos de 350 W, la coreana Currus presentó el NF con una fórmula importada de las motos: doble motor, batería enorme, frenos hidráulicos y una construcción a base de placas de aluminio atornilladas que se convirtió en su firma visual. La prueba de <a href=https://electrek.co/2019/10/23/review-currus-nf-electric-scooter/>Electrek</a>, enlazada en las fuentes de este análisis, lo situó como referencia de su época. Su precio de lanzamiento fue de 2.799 dólares, y su hermano mayor, el Panther o NF11, empujó la fórmula aún más lejos con 2.100 Wh y 5.400 W de pico.
+
+## Técnica a fondo: cifras de otra categoría
+
+| Concepto | Dato |
+|---|---|
+| Motores | Doble motor, 3.600 W de pico |
+| Batería | 60 V y 28 Ah (1.680 Wh) |
+| Autonomía declarada | 100-120 km |
+| Autonomía real estimada | 70-80 km |
+| Velocidad máxima | 70 km/h |
+| Peso | 37 kg |
+| Carga máxima | 120 kg |
+| Frenos | Hidráulicos con ABS |
+
+La comparación con un patinete urbano convencional es casi injusta: 1.680 Wh triplican la batería de un modelo de commuting, y con conducción tranquila los 70-80 km reales estimados son factibles, una autonomía que pocos patinetes actuales igualan. Los frenos hidráulicos con ABS delante y detrás y los neumáticos de 10x3 pulgadas con suspensión hidráulica daban en 2019 una frenada y un confort de moto. La factura es el peso: 37 kg que hacen del NF un patinete para guardar en garaje, no para subir escaleras ni meter en un ascensor a diario.
+
+## Uso real hoy: pieza de colección funcional
+
+El NF ya no se vende nuevo: Currus nunca tuvo red oficial en España y el modelo está descatalogado, así que su mercado es el de segunda mano y para entusiastas. Comprándolo de ocasión, la revisión crítica es la batería: un pack de 60 V y 28 Ah con años y ciclos a cuestas puede haber perdido capacidad, y sustituirlo no es barato ni sencillo fuera de canales oficiales. También hay que revisar la tornillería del mástil de placas, los frenos hidráulicos y el estado de la plataforma. Si todo está sano, ofrece una experiencia que los patinetes urbanos actuales no dan; si la batería flaquea, es un pisapapeles de 37 kg muy bonito.
+
+## Normativa VMP: su gran límite en España
+
+La <a href=https://www.dgt.es>DGT</a> define los vehículos de movilidad personal con una velocidad máxima de 25 km/h, y el NF declara 70 km/h: tal cual sale de la caja no es un VMP legal en España. Para circular por vía pública debería ir limitado a 25 km/h, fuera de aceras y, según la normativa vigente, con el certificado de circulación que se exige a los VMP comercializados; este análisis lo recoge sin certificado DGT verificado. En la práctica, su habitat legal en España queda reducido a espacios privados y circuitos, o a un uso público limitado y documentado. Es el precio de comprar ingeniería extrema anterior a la regulación actual.
+
+## Rivales y veredicto: ¿merece la pena?
+
+Su rival más directo es su propio hermano, el <a href=/patinetes/currus-nf11/>Currus NF11 Panther</a>, aún más potente; y en el mercado actual, propuestas como el <a href=/patinetes/kaabo-mantis-10-lite/>Kaabo Mantis 10 Lite</a> representan la vía moderna y comprable a los patinetes prestacionales. **Veredicto:** como objeto de deseo y pieza histórica del movimiento eléctrico personal, el NF merece la pena si la batería está sana y el precio de ocasión es razonable; como transporte diario legal en España, no es la compra práctica que su ficha promete. Revisa siempre batería y documentación antes de pagar. Y para un subidón legal garantizado, prueba nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+## Un apunte final para coleccionistas
+
+Los patinetes extremos anteriores a la regulación actual empiezan a tener un valor de época: documentar el historial de la unidad, conservar su cargador original y mantener la batería con cargas parciales periódicas es lo que separará, dentro de unos años, una pieza cuidada de un simple trasto viejo.
+
 ## Preguntas frecuentes
 
 ### ¿Qué potencia tiene el Currus NF?
@@ -2024,7 +2089,7 @@ Si la batería está sana y el precio es razonable, es una pieza histórica. Rev
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://electrek.co/2019/10/23/review-currus-nf-electric-scooter/>prueba en Electrek</a>.*`,
+*Fuentes: <a href=https://electrek.co/2019/10/23/review-currus-nf-electric-scooter/>prueba en Electrek</a>. <a href=https://www.dgt.es>DGT</a>*`,
   },
   {
     slug: "currus-nf10-plus",

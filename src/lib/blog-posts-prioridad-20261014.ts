@@ -5921,6 +5921,37 @@ Mantenimiento: revisión anual o cada 15.000 km. Fuente: Lexus España (programa
 
 Garantía: 3 años o 100.000 km + Lexus Relax hasta 10 años / 160.000 km con mantenimiento en red oficial. Fuente: prensa Lexus España.
 
+## IS: la berlina con la que Lexus plantó cara a Alemania
+
+El IS nació en 1999 como la berlina compacta con la que Lexus, la marca premium de Toyota, quiso competir con las berlinas alemanas en su propio terreno: tracción trasera, tacto deportivo y la fiabilidad híbrida que luego sería seña de la casa. La generación de 2013 trajo el IS 300h, y con él una idea entonces casi exótica en el segmento: una berlina premium que renunciaba al diésel y apostaba todo al híbrido de gasolina. El modelo salió de la gama europea en 2021, así que hoy su mercado es el de ocasión, donde la <a href=https://www.lexus.es>web oficial de Lexus España</a> sigue respaldando a estos coches con programas como Lexus Relax para unidades mantenidas en la red oficial.
+
+## Técnica a fondo: híbrido de 223 CV con tracción trasera
+
+| Concepto | Dato |
+|---|---|
+| Potencia conjunta | 223 CV (164 kW) |
+| Consumo homologado | 5,7 l/100 km |
+| 0-100 km/h | 8,4 s |
+| Velocidad máxima | 200 km/h |
+| Cambio | e-CVT |
+| Tracción | Trasera |
+| Maletero | 450 litros |
+| Largo | 4.680 mm |
+
+El sistema combina un motor de gasolina con uno eléctrico gestionados por el cambio e-CVT típico de la casa: no es el cambio más emocionante del segmento, pero sí uno de los más suaves en ciudad y de los más fiables a largo plazo. Con 223 CV, el IS 300h acelera en 8,4 segundos y homologa 5,7 l/100 km, cifras que en su época lo convertían en la alternativa real al diésel alemán para quien hacía mucha ciudad. Sus 450 litros de maletero son correctos y su etiqueta ambiental, como híbrido, le ha permitido moverse con ventaja en entornos urbanos.
+
+## Seguridad y garantía: dos argumentos de peso
+
+La tabla de este análisis recoge 5 estrellas Euro NCAP en la prueba de 2013 del Lexus IS, consultables en la <a href=https://www.euroncap.com>web oficial de Euro NCAP</a>: fue un resultado excelente en su momento, con la salvedad honesta de que los protocolos actuales son más exigentes que los de 2013. En garantía, el esquema citado es de 3 años o 100.000 km ampliables mediante Lexus Relax hasta 10 años o 160.000 km manteniendo las revisiones en la red oficial, un programa que explica por qué tantos IS de ocasión se anuncian con historial completo en Lexus: ese historial es, en la práctica, parte del valor del coche.
+
+## Uso real y mantenimiento de ocasión
+
+Como coche de ocasión, el IS 300h brilla donde siempre brilló: confort, silencio en ciudad gracias a los arranques eléctricos y un mantenimiento pautado con revisión anual o cada 15.000 km, según la información de Lexus España recogida en este análisis. Sus puntos débiles comprando usado son los de cualquier híbrido con años: el estado de la batería híbrida —que la red oficial puede diagnosticar— y un interior que, aunque bien construido, se ha quedado tecnológicamente atrás frente a berlinas actuales. A cambio, su mecánica tiene fama de ser de las más duraderas del segmento premium, y eso, con precios de ocasión razonables, pesa mucho.
+
+## Rivales y veredicto: ¿merece la pena?
+
+En su día compitió con las berlinas alemanas diésel; hoy, quien busque esta fórmula en la gama actual de la marca debe mirar al <a href=/coches/lexus-es-300h-2026-precio-ficha-tecnica/>Lexus ES 300h</a>, más grande y moderno, o quedarse en el segmento con un <a href=/coches/bmw-serie-3-2025-precio-ficha-tecnica/>BMW Serie 3</a> nuevo si el presupuesto llega. **Veredicto:** como compra de ocasión con historial en red oficial, el IS 300h merece mucho la pena para quien priorice fiabilidad, confort y consumo contenido sobre tecnología punta; no la merece quien quiera la última pantalla o la máxima nota de seguridad con protocolos actuales. Y si te queda un hueco, prueba nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Lexus IS 300h?
@@ -5953,7 +5984,7 @@ Mantenimiento: revisión anual o cada 15.000 km. Fuente: Lexus España (programa
 - Misma marca: <a href=/coches/lexus-lm-350h/>Lexus Lm 350h</a>, <a href=/coches/lexus-gx-550/>Lexus Gx 550</a>, <a href=/coches/lexus-rc-300h/>Lexus Rc 300h</a>
 - Misma categoría (Berlina): <a href=/coches/mazda-6-2024/>Mazda 6 2024</a>, <a href=/coches/mercedes-clase-s-450d/>Mercedes Clase S 450d</a>, <a href=/coches/opel-insignia-grand-sport/>Opel Insignia Grand Sport</a>, <a href=/coches/lucid-air-pure/>Lucid Air Pure</a>
 
-*Fuentes: Ver fuentes. Verificar precio, EuroNCAP y mantenimiento contra fuentes oficiales antes de publicar.*
+*Fuentes: Ver fuentes. Verificar precio, EuroNCAP y mantenimiento contra fuentes oficiales antes de publicar. <a href=https://www.lexus.es>Lexus España (web oficial)</a> y <a href=https://www.euroncap.com>Euro NCAP</a>*
 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
