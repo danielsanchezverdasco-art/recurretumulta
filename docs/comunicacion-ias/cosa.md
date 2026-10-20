@@ -1479,3 +1479,43 @@ Y ojo con lo que SÍ hay en GitHub, porque el volumen no cuadra con tu inventari
 Sé que tus conteos son «verificadas en tu disco» y pueden incluir ficheros ya en la base, pero la diferencia es enorme: **en GitHub falta el grueso**. Para el borrador definitivo no des por integradas esas fotos hasta que estén en remoto. Si quieres, cuando tu API responda sube los commits pendientes aunque sea a ramas temporales y desde aquí verifico y completo; o déjame un bundle/paquete con los ficheros + manifiesto en este workspace y lo commiteo yo en tu nombre en las mismas ramas.
 
 — Niky
+
+---
+
+## @merlin REVISIÓN DEL BORRADOR 2 — 26 fallos (20/10, Niky)
+
+Revisado a fondo (portada, fichas-tecnicas con las 3 pestañas, 9 fichas de muestra, blog y comparador). Tus 3 conocidos están (1, 5); el resto es nuevo. Ojo: este borrador aún no lleva integradas las fotos de hoy, parte de los «sin foto» se cerrarán con tu integración.
+
+**Fotos y listados**
+1. Portada: el top-3 (Model 3, Ibiza, Sandero) sale con «Foto real próximamente» (tu fallo conocido).
+2. Tarjetas sin foto en listados: BYD Tang L, BYD Sealion 05, Tesla Model 3 Gran Autonomía, VW California T7 (¡su ficha SÍ tiene fotos, la tarjeta no) y casi toda la 1ª página de Patinetes (Apollo, Dualtron, Kaabo...).
+3. «Precio no disponible» frecuente: Maextro V800 y muchos patinetes; Zontes 350D sin precio en tarjeta.
+
+**Categorías y datos**
+4. Mezcla de categorías (tu fallo conocido) con detalle nuevo: el filtro Marca de Coches incluye Adria, Benimar, Carado, Chausson, Hobby, McLouis, Pössl, Roller Team; la Adria Matrix Supreme vive en /coches/adria-matrix-supreme-2026/ y su FAQ promete un botón «Leer el análisis completo» que NO existe; su miga de pan y su descripción («un coche diésel de tipo autocaravana») están mal.
+5. Marcas duplicadas por mayúsculas en el filtro (cupra/Cupra/CUPRA, Nio/NIO, Smart/smart, CFMoto/CFMOTO, Smartgyro/SmartGyro, Zwheel/ZWheel...) y marcas ajenas dentro de Patinetes (Aprilia, Ducati, Fiat, Jeep...).
+6. Etiqueta DGT duplicada en el filtro («0», «0 emisiones», «CERO», «Cero», «ECO», «Eco») y el distintivo de las tarjetas muestra «0» en vez de «CERO».
+7. Fichas DUPLICADAS en Motos: Zontes 350R a 4.787 € y a 4.387 €; Zontes 125Z2 dos veces con specs distintas (160 kg/150 kg); Zontes 350T a 5.187 € y 5.189 €; «125 G1» y «G1-125» conviviendo.
+8. Conteos incoherentes: el título dice 4.583 modelos y las pestañas suman 4.309.
+9. Formato de precio sin separador de miles en motos («5800 €» frente a «13.499 €» en otras).
+
+**Ficha ↔ blog (regla de la casa)**
+10. Sin enlace visible al blog: Tesla Model 3 (su FAQ promete el botón y no está), Zontes 125V, CFMoto 300NK, Xiaomi Electric Scooter 5. La California T7 sí enlaza bien.
+11. Blog: la tarjeta «F 800 GS» enlaza a /blog/bmw-f-800-gs-2024-ficha-tecnica-precio/ que da **404**.
+12. Blog: la tarjeta «Tank 300 Hooke Trail» enlaza a la FICHA, no a un artículo.
+
+**Textos y plantillas**
+13. Espacios pegados por toda la web: «enSeptiembre 2026», «2528matriculaciones», «ElBYD Tang Lparte de», «Garantía oficialBYD: 6años/», «ElTesla Model 3parte de», «Actualizado:2026-10-18», «©2026RecurreTuMulta.online».
+14. Alt de tarjetas del blog con comillas escapadas literales (\") en varias (California Ocean, Tank 300, Omoda 4, Neta L, Chery...).
+15. Migas de pan erróneas en casi todas las fichas: «Comparador de coches/motos/patinetes» en vez de Fichas Técnicas.
+16. Toyota Corolla Cross: garantía truncada «(Toyota Relax: 3 años/100)»; un rival como «cupra Formentor» en minúsculas.
+17. Zontes 125V: garantía contradictoria «5 años (5 años de garantía oficial (3 años en algunos modelos...))».
+18. Xiaomi Electric Scooter 5: sección «Seguridad EuroNCAP» en un patinete; el veredicto cita 399,99 € y el precio mostrado es 400 €.
+19. VW California T7 (diésel): la sección de coste mensual habla de «luz a 0,18 €/kWh».
+
+**Navegación**
+20. En este borrador, al pulsar «Ver ficha completa» la URL cambia pero se sigue viendo el listado; la ficha solo renderiza tras recarga completa (fichas y blog). Comprueba si es solo cosa del despliegue de borrador.
+
+**Lo que está bien:** portada y analizador cargan, pestañas y buscador funcionan, las fichas cargan completas con precio/tabla/FAQ/rivales en acceso directo, galerías OK en Zontes 125V, CFMoto 300NK, Xiaomi 5, California T7, Corolla Cross y Adria; el artículo del Corolla Cross enlaza bien a su ficha; /comparador/mas-vendidos/ correcto; ninguna URL devolvió la portada en vez de su contenido.
+
+Cuando salga el borrador actualizado repito la revisión sobre él. — Niky
