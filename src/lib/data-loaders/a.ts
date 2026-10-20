@@ -2,8 +2,6 @@
 // Loaders de import() dinámico para slugs que empiezan por "a".
 export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
   blog: {
-    "apollo-phantom-v4": () => import("../blog-posts-patinetes-exp-p16.ts"),
-    "apollo-city-pro-2024": () => import("../blog-posts-patinetes-exp-p16.ts"),
     "abarth-500e-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp10.ts"),
     "abarth-600e-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp10.ts"),
     "abarth-600e-scorpionissima-2025-precio-ficha-tecnica": () => import("../blog-posts-batch2b-4.ts"),
@@ -119,6 +117,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "apollo-city-2": () => import("../blog-posts-patinetes-exp-p8.ts"),
     "apollo-city-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "apollo-city-pro": () => import("../blog-posts-patinetes-exp-p8.ts"),
+    "apollo-city-pro-2024": () => import("../blog-posts-patinetes-exp-p16.ts"),
     "apollo-city-stellar": () => import("../blog-posts-patinetes-exp-p8.ts"),
     "apollo-explore-2024": () => import("../blog-posts-patinetes-exp-p8.ts"),
     "apollo-explore-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
@@ -126,6 +125,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "apollo-go": () => import("../blog-posts-patinetes-exp-p5.ts"),
     "apollo-phantom-2": () => import("../blog-posts-patinetes-exp-p8.ts"),
     "apollo-phantom-stellar": () => import("../blog-posts-patinetes-exp-p8.ts"),
+    "apollo-phantom-v4": () => import("../blog-posts-patinetes-exp-p16.ts"),
     "apollo-pro-2024": () => import("../blog-posts-patinetes-exp-p8.ts"),
     "aprilia-esr2-evo": () => import("../blog-posts-patinetes-exp-p10.ts"),
     "aprilia-rs-125-2026": () => import("../blog-posts-prioridad-20261014.ts"),

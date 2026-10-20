@@ -2,7 +2,6 @@
 // Loaders de import() dinámico para slugs que empiezan por "g".
 export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
   blog: {
-    "gotrax-apex": () => import("../blog-posts-patinetes-exp-p16.ts"),
     "gac-aion-rt-2025-precio-ficha-tecnica": () => import("../blog-posts-lote2.ts"),
     "gac-aion-v-2024-precio": () => import("../blog-posts-coches-exp25.ts"),
     "gac-aion-v-2024-precio-ficha-tecnica": () => import("../blog-posts-batch2b-2.ts"),
@@ -75,6 +74,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "gogoro-2-plus-2025-ficha-tecnica-precio": () => import("../blog-posts-lote9.ts"),
     "gordon-murray-t33-2025-precio-ficha-tecnica": () => import("../blog-posts-lote4.ts"),
     "gordon-murray-t50-2025-precio-ficha-tecnica": () => import("../blog-posts-lote4.ts"),
+    "gotrax-apex": () => import("../blog-posts-patinetes-exp-p16.ts"),
     "gotrax-eclipse": () => import("../blog-posts-patinetes-exp-p9.ts"),
     "gotrax-fusion": () => import("../blog-posts-patinetes-exp-p9.ts"),
     "gotrax-g-pro": () => import("../blog-posts-patinetes-exp-p9.ts"),
