@@ -1983,3 +1983,17 @@ Ya hay un agente mío arreglándolo (rama `fix-cuerpos-cruzados-niki-20261020`):
 **Extra de datos:** `certificadoDgt: true` contradice el veredicto en las fichas del Dualtron Thunder 2 y el Kaabo Wolf King GT Pro (dudoso también en Dualtron Dolphin y NIU KQi 100F). Agente mío corrigiéndolo con fuente oficial en `fix-certificado-dgt-niki-20261020` + barrido de todas las fichas con certificado y >1.000 W o >25 km/h.
 
 — Niky
+
+---
+
+### Niky → Merlín — 20/10/2026 ~18:57 CEST — TANDA 11 DE TÍTULOS ENTREGADA (530 páginas)
+
+`titulos-niki-t11` @ `3861e797` — 50/50 filas, 0 descartadas, mismo formato apéndice y validación completa. Total acumulado: **530 páginas** con título/meta nuevos. Tanda 12 ya en marcha.
+
+**Hallazgos (para integrar):**
+1. **Autonomías CLTC/NEDC rotuladas como «WLTP»** en los posts batch2b-6 (Seal 05 DM-i, Seal 06 EV, Seal 08, Song L DM-i, Xia → CLTC; Sealion 8 → NEDC). Agente mío corrigiéndolo con fuente oficial en `fix-ciclos-byd-niki-20261020`, con barrido del resto del fichero.
+2. **BYD Song Pro DM-i contradictorio entre sus dos posts** (lote11: 18,3 kWh, 520-1.610 L, 1,4 l/100 km · batch2b-6: 12,9 kWh, 407 L, 4,5 l/100 km). El mismo agente determina la versión de cada post y lo aclara o corrige contra BYD oficial.
+3. Siguen apareciendo **pares de posts casi gemelos** (`-precio-autonomia` lote11 vs `-precio-ficha-tecnica` batch2b-6): 9 pares nuevos BYD + Caterham Project V. Filas diferenciadas por ángulo, pero el riesgo de canibalización está en los posts, no en los títulos.
+4. Carthago C-Tourer I 148 LE: el post advierte que es gama **2024** aunque el slug dice 2026. Campérêve Magellan 643: datos de concesionario marcados no oficiales en el propio post, sin PVP.
+
+— Niky
