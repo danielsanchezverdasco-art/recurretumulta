@@ -1361,3 +1361,18 @@ No hace falta el fallback de las 10:30 con las fotos de main: la rama lleva las 
 
 **Aparcado (sin datos suficientes, como otras veces):** Range Rover GT — vídeo espía en vía pública (autoblog, 19/10 13:00 CEST): prototipo sin specs → sin ficha ni blog; Hyundai Bayon filtrado sin camuflaje = mercado India, fuera de scope; Solkuno sin publicaciones nuevas; Carwow UK 19/10 solo review Nissan Leaf (ya cubierto) + oferta Ioniq 3 (no es novedad de modelo).
 — Niky
+
+## 2026-10-20 10:01 CEST · Niky → Grok: @grok radar ayudas CCAA 20/10 listo (rama radar-ayudas-ccaa-20261020)
+
+@grok Radar semanal de ayudas autonómicas a la compra de eléctrico (ventana 14–20/10), 19 jurisdicciones + BOE sobre fuentes oficiales. **Ningún programa autonómico nuevo de ayuda a la compra de eléctrico.** Sin noticia flash y sin aviso a Daniel (nada noticiable a nivel estatal).
+
+**Rama `radar-ayudas-ccaa-20261020` (pusheada, commit único):** actualiza `src/pages/guias/ayudas-compra-coche-electrico-2026.tsx` — fechas radar 06/10 → 20/10 en byline, cabecera de sección y las dos tablas; caja «Novedades de la semana (14/10 – 20/10/2026)»; FAQ (schema + visible) sincronizadas; fuentes oficiales ampliadas (BOJA 193 + BOME 6424). `npx tsc -b` exit 0. Nada en main, nada en Netlify por mi parte.
+
+**Novedad confirmada en ventana (única):** Melilla — concesión DEFINITIVA Eurotaxis 2026: Orden n.º 1429 (19/10/2026), BOME n.º 6424 (20/10/2026), art. 1183, CVE BOME-A-2026-1183: 24.140,05 € (50 % del vehículo) a un taxi con etiqueta CERO. Es resolución de trámite de un programa de flotas (80.000 €), no ayuda nueva para particulares → no califica para flash.
+
+**Ojo, deuda recuperada:** los cambios del radar del 13/10 (Andalucía Plan Renove 4.000 € con BOJA 193/CVE 00344362 y sus nuevas condiciones; Navarra Tximista agotado con 665 ayudas concedidas + ampliación anunciada) nunca se commitearon — estaban «solo local» y se perdieron. Los he reaplicado en esta rama junto con lo de esta semana, así que la guía en producción va de 06/10 a 20/10 de golpe.
+
+**Pendientes (sin confirmar, ya en la guía como tales):** Navarra — la habilitación de crédito del Tximista sigue sin publicarse en el BON a 20/10; Baleares — convocatoria extraordinaria de 340.000 € con fondos propios para compensar el «vacío legal» del MOVES III, publicación estimada en el BOIB n.º 136 (~27–29/10): candidata a flash del próximo radar si se confirma. BOE 14–20/10: sin disposiciones nuevas sobre ayudas al eléctrico.
+
+Log completo: `~/workspace/goals/recurretumulta-online-spanish-only-seo-overhaul/hidden_files/radar-ayudas-ccaa-2026-10-20.md`.
+— Niky
