@@ -650,7 +650,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     version: "2026",
     cilindradaCc: null,
     categoria: "Urbana",
-    precioDesde: 15000,
+    precioDesde: 15000, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 50,
     potenciaCv: 67,
     autonomiaKm: 140,
@@ -663,7 +663,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A2",
     carga: "CCS2: 20-80% en 30 min; carga completa en enchufe doméstico ~4 h",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Primera moto eléctrica de Honda con carga rápida CCS2 (20-80% en 30 min)",
       "Potencia nominal de 18 kW: homologable para el carnet A2",
@@ -672,7 +672,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "Transmisión por correa: silenciosa y sin mantenimiento de cadena",
     ],
     contras: [
-      "Precio en torno a 15.000 €: muy superior a las 125 eléctricas",
+      "Precio de 15.000 €: muy superior a las 125 eléctricas",
       "Peso de 217 kg, elevado para una moto urbana",
       "Autonomía de 140 km, justa para el precio y el peso",
       "Red de carga rápida CCS2 para motos aún escasa en España",
@@ -833,7 +833,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     version: "2025",
     cilindradaCc: null,
     categoria: "Urbana",
-    precioDesde: 6290,
+    precioDesde: 6290, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 12,
     potenciaCv: 16.3,
     autonomiaKm: 130,
@@ -846,7 +846,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A1",
     carga: "Tipo 2: 100% en 4 h; 20-80% en 2 h",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "135 km/h de velocidad máxima: una de las eléctricas más rápidas de su segmento",
       "12 kW con potencia nominal de 6 kW: compatible con carnet A1",
@@ -1336,7 +1336,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     modelo: "Bora",
     version: "2025",
     categoria: "Scooter",
-    precioDesde: 1490,
+    precioDesde: 2190, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 2,
     potenciaCv: 2.7,
     autonomiaKm: 50,
@@ -1349,7 +1349,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "AM",
     carga: "Carga doméstica estándar",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Precio de 1.490 € con Plan Moves IV, de los más baratos del mercado",
       "Se conduce con carnet AM desde los 15 años",
@@ -1362,7 +1362,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "Autonomía de solo 50 km, limitada para más que recados urbanos",
       "Velocidad máxima de 45 km/h, no apta para vías rápidas",
       "Potencia de 2 kW, justa en cuestas pronunciadas",
-      "Equipamiento básico acorde al precio",
+      "Precio oficial de 2.190 €: el de 1.490 € es con el incentivo Velca Moves",
       "La batería no es extraíble en la versión estándar",
     ],
     curiosidades: [
@@ -1397,7 +1397,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     modelo: "Bora+",
     version: "2025",
     categoria: "Scooter",
-    precioDesde: 1800,
+    precioDesde: 2500, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 2,
     potenciaCv: 2.7,
     autonomiaKm: 75,
@@ -1410,7 +1410,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "AM",
     carga: "Carga doméstica estándar",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "autonomiaKm"],
+    aprox: ["autonomiaKm"],
     pros: [
       "Autonomía de 75 km (150 km con batería extra opcional), 50% más que la Bora",
       "Batería LG de mayor capacidad, marca coreana de prestigio",
@@ -1420,6 +1420,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "Ideal para repartidores urbanos por su autonomía extendida",
     ],
     contras: [
+      "Precio oficial de 2.500 €: el de 1.800 € era con el incentivo Velca Moves",
       "Velocidad limitada a 45 km/h como ciclomotor",
       "La segunda batería supone un coste adicional",
       "Más pesada que la Bora por la batería mayor",
@@ -1519,7 +1520,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     modelo: "Spark",
     version: "2026",
     categoria: "Scooter",
-    precioDesde: 2095,
+    precioDesde: 2095, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -1532,7 +1533,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "AM",
     carga: "Batería extraíble, carga en enchufe doméstico",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Batería BYD Blade LFP extraíble, tecnología de automoción probada",
       "Versión L1e desde 2.095 €, muy competitiva",
@@ -2573,7 +2574,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 1250,
     categoria: "Trail",
-    precioDesde: 22400,
+    precioDesde: 22400, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 110.3,
     potenciaCv: 150,
     autonomiaKm: null,
@@ -2586,7 +2587,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor Revolution Max 1250 de 150 CV: el bicilíndrico más potente que ha fabricado Harley-Davidson",
       "Altura de conducción adaptativa (Adaptive Ride Height): baja la moto al detenerse y sube en marcha",
@@ -2651,7 +2652,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 644,
     categoria: "Trail",
-    precioDesde: 5899,
+    precioDesde: 5899, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 28.9,
     potenciaCv: 39.3,
     autonomiaKm: null,
@@ -2664,7 +2665,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Monocilíndrico de 644 cc y 39,3 CV: apta para el carnet A2 sin limitación",
       "Solo 167 kg en orden de marcha: muy ligera y manejable",
@@ -2712,7 +2713,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 1200,
     categoria: "Trail",
-    precioDesde: 14695,
+    precioDesde: 14695, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 66.2,
     potenciaCv: 90,
     autonomiaKm: null,
@@ -2725,7 +2726,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Bicilíndrico Bonneville de 1.200 cc y 90 CV con un par lleno desde abajo",
       "La Scrambler 1200 más accesible: asiento más bajo que la XE (820 mm)",
@@ -2790,7 +2791,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 1037,
     categoria: "Trail",
-    precioDesde: 16999,
+    precioDesde: 16999, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 78.7,
     potenciaCv: 107,
     autonomiaKm: null,
@@ -2803,7 +2804,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Bicilíndrico en V a 90° de 1.037 cc y 107 CV: motor legendario por su fiabilidad",
       "Versión DE (Dual Explorer) con rueda delantera de 21\" y mayor recorrido de suspensión",
@@ -2868,7 +2869,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 1170,
     categoria: "Trail",
-    precioDesde: 17830,
+    precioDesde: 17830, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 80.2,
     potenciaCv: 109,
     autonomiaKm: null,
@@ -2881,7 +2882,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Bóxer de 1.170 cc refrigerado por aire/aceite y 109 CV: el motor más carismático de BMW",
       "Estética neo-retro que homenajea a la legendaria R 80 G/S de 1980",
@@ -3088,7 +3089,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 293,
     categoria: "Trail",
-    precioDesde: 4499,
+    precioDesde: 4499, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 24.6,
     potenciaCv: 33.5,
     autonomiaKm: null,
@@ -3101,7 +3102,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Solo 137 kg en seco: una pluma en campo frente a rivales de 180+ kg",
       "Depósito de 21 litros: autonomía para más de 500 km",
@@ -3274,7 +3275,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 904,
     categoria: "Trail",
-    precioDesde: 8699,
+    precioDesde: 8999, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 70,
     potenciaCv: 95,
     autonomiaKm: null,
@@ -3287,7 +3288,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax", "precioDesde"],
+    aprox: ["velocidadMax"],
     pros: [
       "Bicilíndrico de 904 cc con 95 CV y 90 Nm por menos de 10.000 €",
       "Suspensión Marzocchi totalmente regulable y frenos Brembo",
@@ -3298,6 +3299,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "Limitable para el carnet A2",
     ],
     contras: [
+      "Tarifa oficial de 8.999 €: los 8.699 € eran precio promocional",
       "Peso elevado, por encima de los 230 kg en orden de marcha",
       "Marca china con red de servicio aún en crecimiento",
       "El sistema de radar ARAS es mejorable",
