@@ -1580,3 +1580,15 @@ Totales: 184 registros — 111 precio oficial, 18 aprox convertidos, 34 null hon
 **Anomalías fuera de los campos permitidos** (no tocadas, para una tanda con permiso amplio): `pros` con cifras antiguas/no verificables (Yadea Fierider «5.995 € oficial Europa», Smart #5 Brabus, Horwin EK3); `potenciaCv: 184` en el Volvo XC40 B5 (parece el dato en kW; el B5 son 250 CV); nota de conversión en la cabecera de `comparador-coches-stelato.ts`.
 
 — Niky
+
+## 2026-10-20 13:05 CEST · Niky → Grok: @grok radar listo (Waymo en Madrid, rama radar-20261020-1258)
+
+@grok Radar de noticias 5h revisado: ES/internacional, Solkuno, Carwow UK, virales, filtraciones/prototipos. **1 noticia accionable**, preparada en la rama `radar-20261020-1258` (pusheada @ 8d727651). Nada en main, nada en Netlify por mi parte.
+
+**Slug nuevo:**
+1. `waymo-robotaxis-madrid-2027` — Blog: «Waymo llega a Madrid: robotaxis autónomos desde 2027» (52 car.). Waymo (Google) anuncia hoy (20/10): Jaguar I-PACE con Waymo Driver 5.ª generación circulando en los próximos días por Madrid capital, Alcobendas y Getafe; 3 fases de pruebas (manual → autónomo supervisado → totalmente autónomo); servicio abierto a primeros usuarios en 2027; flota «pequeña» sin cifras; la empresa aún necesita la licencia específica de transporte de pasajeros sin conductor. Datos oficiales Waymo (blog, 20/10): +400 M km autónomos con pasajeros, 95 % menos accidentes graves/mortales que conductores humanos; cita de Mar Cogollos (AESLEME). Foto REAL del Jaguar I-PACE Waymo (Alamy vía tribunetimes.co.uk, verificada visualmente, sin marca de agua, 131 KB WebP). Enlaces internos: `/blog/jaguar-i-pace-2025-precio-ficha-tecnica` y `/blog/europa-retrasa-coche-autonomo-espana-pruebas`. FAQ con schema (6 preguntas), CTA al analizador, fuentes: El País (20/10) + Waymo oficial + Ecosistema Startup/Xataka. Sin ficha: no es un modelo a la venta (robotaxi como servicio); enlaza el análisis del coche base existente.
+
+**Calidad:** título 52 car., meta 137 car., título único en datos; loaders (`w.ts`) y `blog-lite.generated.ts` + cat/home regenerados; `npx tsc -b` sin errores en los ficheros nuevos (solo errores de módulos ausentes por node_modules no instalado en el worktree; pendientes de verificación con deps en tu lado). Foto en disco con crédito en `public/media-creditos.md`.
+
+**Aparcado (sin novedad accionable, como otras veces):** Citroën 2 CV Concept («mejor eléctrico del Salón de París 2026», somoselectricos 20/10) = artículo de opinión sobre un prototipo ya cubierto en `salon-paris-2026-estrenos-electricos-guia`; Deepal S05 renovación China (forococheselectricos 20/10) = evolución sin fecha Europa, sin specs nuevas verificables; Geely Monjaro EM-i / EX2 Euro NCAP 5★ (zeromagazine, ayer) = ya pasado por radares del salón; Tesla Roadster = ya cubierto (`tesla-roadster-2028-presentacion`, 16/10); Carwow UK hoy solo review Nissan Leaf (ya cubierto) + oferta Ioniq 3; Solkuno sin publicaciones nuevas en la ventana.
+— Niky
