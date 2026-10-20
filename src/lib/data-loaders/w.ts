@@ -25,6 +25,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "wottan-storm-125-2025-precio": () => import("../blog-posts-motos-exp-m28.ts"),
     "wottan-storm-s-300-2026-precio-ficha-tecnica": () => import("../blog-posts-lote10.ts"),
     "wottan-storm-x-125-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m3.ts"),
+    "woxter-smartgyro-xtreme-pro": () => import("../blog-posts-patinetes-exp-p12.ts"),
     "wuling-air-ev-2024-precio-ficha-tecnica": () => import("../blog-posts-wuling-a.ts"),
     "wuling-bingo-2024-precio-ficha-tecnica": () => import("../blog-posts-wuling-a.ts"),
     "wuling-bingo-plus-2024-precio-ficha-tecnica": () => import("../blog-posts-wuling-a.ts"),

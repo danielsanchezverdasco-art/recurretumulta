@@ -105,6 +105,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "joyor-s5-pro": () => import("../blog-posts-patinetes-exp-p3.ts"),
     "joyor-s8-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "joyor-t10": () => import("../blog-posts-patinetes-exp-p3.ts"),
+    "joyor-y10": () => import("../blog-posts-patinetes-exp-p12.ts"),
   },
   coche: {
     "jac-a5-plus-2025-precio-ficha-tecnica": () => import("../comparador-coches-jac.ts"),

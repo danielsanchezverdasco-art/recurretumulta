@@ -147,6 +147,8 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "pure-air-6-pro-plus": () => import("../blog-posts-patinetes-exp-p8.ts"),
     "pure-air-6-ultra": () => import("../blog-posts-patinetes-exp-p8.ts"),
     "pure-air-6-ultra-max": () => import("../blog-posts-patinetes-exp-p8.ts"),
+    "pure-air-go": () => import("../blog-posts-patinetes-exp-p12.ts"),
+    "pure-air-pro": () => import("../blog-posts-patinetes-exp-p12.ts"),
     "pure-escape-pro-plus": () => import("../blog-posts-patinetes-exp-p8.ts"),
     "pure-escape-ultra-max": () => import("../blog-posts-patinetes-exp-p8.ts"),
     "pure-x-mclaren": () => import("../blog-posts-patinetes-exp-p8.ts"),

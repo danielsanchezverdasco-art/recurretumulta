@@ -69,6 +69,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "defectos-forma-anulan-multa-dgt": () => import("../blog-data.ts"),
     "delage-d12-club-2025-precio-ficha-tecnica": () => import("../blog-posts-delage-a.ts"),
     "delage-d12-gt-2025-precio-ficha-tecnica": () => import("../blog-posts-delage-a.ts"),
+    "denver-sel-1080": () => import("../blog-posts-patinetes-exp-p12.ts"),
     "denver-sel-10800f": () => import("../blog-posts-patinetes-exp-p5.ts"),
     "denver-sel-10810fdb": () => import("../blog-posts-patinetes-exp-p5.ts"),
     "denza-bao-5-2026-precio-ficha-tecnica": () => import("../blog-posts-denza-a.ts"),
