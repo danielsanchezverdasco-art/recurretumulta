@@ -256,6 +256,43 @@ Como eléctrico, el mantenimiento se limita a neumáticos, frenos y software. La
 
 Cuesta 4.999 €. Sus rivales en la casa son el <a href=/motos/niu-nqix-500-2026-ficha-tecnica-precio/>NIU NQiX 500</a> y el <a href=/motos/niu-rqi-sport-2025-ficha-tecnica-precio/>NIU RQi Sport</a>; fuera, los scooters de gasolina de 125 cc.
 
+## NIU y el MQi GT Evo: el rutero de la gama clásica
+
+NIU construyó su nombre con scooters eléctricos urbanos conectados, y su gama se consulta en la <a href=https://www.niu.com>web oficial de NIU</a>, ya citada en las fuentes de este análisis. El MQi GT Evo es el escalón alto de su gama clásica: no busca ser el más barato, sino el que sirve para dos y para salir de la ciudad. Su asiento un **30 % más largo** que el de la serie NQi y su velocidad máxima de **100 km/h** definen su papel: un equivalente a 125 pensado para el uso diario con pasajero, por **4.999 €**.
+
+## La técnica: Bosch, dos baterías y modo E-Save
+
+| Dato | NIU MQi GT Evo |
+|---|---|
+| Potencia | 6,5 kW (8,8 CV) |
+| Velocidad máxima | 100 km/h |
+| Batería | 2 x 72 V (3,74 kWh) |
+| Autonomía declarada | 75 km |
+| Peso | 128 kg |
+| Carga útil | 275 kg |
+| Carnet | A1 (o B con 3 años) |
+| Precio | 4.999 € |
+
+El motor Bosch de **6,5 kW** y las dos baterías de 72 V suman **3,74 kWh**. La autonomía declarada es de **75 km**, que el análisis original aterriza con honestidad en unos **60 km reales** en uso mixto: esa es la cifra con la que hay que planificar. El modo **E-Save**, que limita la velocidad a 45 km/h para estirar la batería, es un recurso útil para llegar a casa, no un modo de uso habitual. A cambio, no necesitas instalación: las baterías se extraen y se cargan en un enchufe doméstico en unas **5 horas**, según su FAQ.
+
+## Uso real: dos personas, rondas y la periferia cercana
+
+Con 100 km/h puede usar rondas y vías rápidas cortas sin ser un obstáculo, y con **275 kg de carga útil** lleva a dos adultos con compra. Su límite es el de su batería: 60 km reales marcan un radio de acción urbano y periurbano, no una moto de escapadas. Para el trayecto casa-trabajo con desvíos es exactamente su escenario. Compáralo con otros equivalentes a 125 en el <a href=/comparador-motos/>comparador de motos</a> y ameniza la carga con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+## Costes de uso: la ventaja eléctrica y la garantía de 2 años
+
+El propio análisis ya fija lo verificable: mantenimiento limitado a neumáticos, frenos y software, y **garantía oficial NIU de 2 años** en vehículo y componentes según la marca, sin precios públicos de revisiones en España. No añadimos tarifas inventadas. La partida a vigilar a largo plazo es la de cualquier scooter de baterías extraíbles: el estado de los dos packs de 72 V tras años de ciclos, porque de ellos depende que los 60 km reales se mantengan. Cargar en casa, eso sí, mantiene el coste por kilómetro muy por debajo del de un 125 de gasolina.
+
+## Normativa: A1, B con antigüedad y etiqueta Cero
+
+El MQi GT Evo es un equivalente a 125: se conduce con el **carnet A1** o con el **B con más de 3 años**, como recoge su FAQ. Como eléctrico lleva **etiqueta Cero** de la DGT, con las ventajas de acceso y aparcamiento que las ordenanzas reserven a los cero emisiones. Como motocicleta ligera matriculada pasará la ITV con la periodicidad de las motos. Y no, Euro NCAP no evalúa motocicletas: su seguridad se juzga por su equipamiento y su parte ciclo, no por estrellas.
+
+## Frente al FQi 500 y a la NQiX 500: veredicto
+
+Dentro de casa hay dos referencias claras con ficha. El <a href=/motos/niu-fqi-500-2025-ficha-tecnica-precio/>NIU FQi 500</a> cuesta menos —3.799 € según su ficha— y comparte filosofía de baterías extraíbles, con un enfoque más urbano. La <a href=/motos/niu-nqix-500-2026-ficha-tecnica-precio/>NIU NQiX 500</a> figura por 4.599 € con 100 km/h y un planteamiento naked, sin la postura de scooter del MQi. El Evo se justifica frente a ambos por su asiento para dos y su vocación rutera dentro de la ciudad extendida.
+
+**¿Merece la pena?** Por 4.999 € es el NIU clásico para quien viaja acompañado. **Para quién sí:** para parejas urbanas y usuarios de rondas sin garaje con enchufe. **Para quién no:** para quien haga menos de 30 km solo y sin pasajero: el FQi 500 cumple por menos.
+
 ## Preguntas frecuentes
 
 ### ¿Alcanza los 100 km/h reales?

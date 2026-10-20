@@ -281,6 +281,44 @@ Por encima están el <a href=/coches/maserati-levante-modena-2024-precio-ficha-t
 | Interior artesanal | Final de su vida comercial |
 | Tracción total Q4 | Reventa incierta |
 
+## El Levante: el SUV que salvó a Maserati y ya es historia
+
+El Levante fue el primer SUV de Maserati y el modelo que sostuvo a la marca durante años; su gama y la de sus sucesores se presenta en la <a href=https://www.maserati.com>web oficial de Maserati</a>. La versión GT es el escalón de acceso de sus últimos años: renuncia al V6 y al V8 a cambio de un **2.0 turbo con hibridación ligera de 48 V y 330 CV**. La gama Levante terminó su producción, como recoge su FAQ, así que hoy el GT se lee en clave de ocasión y stock: el tridente en formato SUV familiar, sin el precio de los grandes motores.
+
+## La técnica: 330 CV con etiqueta ECO, la paradoja útil
+
+| Dato | Maserati Levante GT |
+|---|---|
+| Motor | 2.0 turbo + 48 V (MHEV) |
+| Potencia | 330 CV · 450 Nm |
+| Tracción | Total Q4 |
+| 0-100 km/h | 6,0 s |
+| Velocidad máxima | 245 km/h |
+| Consumo WLTP | ~10,2 l/100 km (aprox.) |
+| Maletero | 580 l |
+| Peso | 2.090 kg |
+| Etiqueta DGT | ECO |
+
+El sistema de **48 V** no mueve el coche en eléctrico: ayuda al gasolina, suaviza el arranque y, sobre todo, le da la **etiqueta ECO** en un SUV de **2.090 kg y 5.005 mm**. Los **450 Nm** y la tracción total Q4 mueven el conjunto con dignidad: 6,0 s en el 0-100 no es territorio deportivo, pero sobra para su uso. Su cifra honesta está en el consumo: los ~10,2 l/100 km WLTP aproximados de la ficha serán más en uso real, como el propio análisis admite al listar «consumo real alto» entre sus contras.
+
+## Uso real: el Maserati de familia, no el de circuito
+
+El GT tiene sentido como SUV de diario con presencia: **580 litros** de maletero, 5 plazas reales y un interior artesanal que ningún generalista imita. No tiene sentido si se compra buscando el bramido de un Maserati clásico: un cuatro cilindros, por bueno que sea, no suena como el V6 del Modena ni como el V8 del Trofeo. Quien lo entienda como un SUV premium distinto, y no como un deportivo rebajado, acertará con él. Puedes cruzarlo con otros SUV premium en el <a href=/comparador-coches/>comparador de coches</a> y pasar el rato con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+## Mantenimiento y costes: sin precio publicado, con costes de marca
+
+La ficha es clara: Maserati **no publicó el precio en España** del GT, y tampoco publicamos tarifas de mantenimiento que la marca no haya hecho públicas. Lo verificable viene de su categoría: un SUV premium de más de dos toneladas, con tracción total y red oficial exclusiva, tendrá revisiones, frenos y neumáticos de coste acorde a su posicionamiento, no a su motor de 2 litros. En ocasión, el historial de mantenimiento en servicio oficial será el documento que más valor conserve, por encima de cualquier extra.
+
+## Normativa: ECO frente a las ZBE, y sin Euro NCAP específico
+
+La **etiqueta ECO** es su mejor argumento normativo: le da mejor acceso a las zonas de bajas emisiones que a un gasolina equivalente con etiqueta C. Como turismo seguirá el calendario ordinario de ITV. En seguridad no consta una nota Euro NCAP específica que atribuir a esta versión sin comprobarla por modelo y año en <a href=https://www.euroncap.com>Euro NCAP</a>; no inventamos estrellas para un coche de tirada limitada en un segmento donde los ensayos no siempre cubren cada variante.
+
+## Frente al Modena y al Trofeo: veredicto
+
+La comparación interna es la que manda. El <a href=/coches/maserati-levante-modena-2024-precio-ficha-tecnica/>Maserati Levante Modena</a> lleva un V6 3.0 de **350 CV**: apenas 20 CV más, pero con el sonido y el carácter que el GT no tiene. El <a href=/coches/maserati-levante-trofeo-2024-precio-ficha-tecnica/>Maserati Levante Trofeo</a> juega otra liga con su V8 de **580 CV**. El GT gana a ambos en etiqueta y en lógica de uso diario, y pierde en lo que históricamente se le compra a un Maserati: emoción mecánica.
+
+**¿Merece la pena?** Como ocasión racional dentro de lo irracional de la marca, sí. **Para quién sí:** para quien quiera el SUV del tridente para usarlo cada día con etiqueta ECO. **Para quién no:** para el purista del sonido Maserati: que ahorre para el Modena o el Trofeo.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Levante GT?
@@ -303,7 +341,7 @@ La gama Levante terminó su producción; solo quedan stock y ocasión.
 
 Si te ha llegado una multa con tu Maserati, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: folleto oficial de Maserati.*`
+*Fuentes: folleto oficial de Maserati. <a href=https://www.maserati.com>Maserati (web oficial)</a>, <a href=https://www.euroncap.com>Euro NCAP</a>*`
   },
   {
     "title": "Levante Modena: precio y ficha del V6 350 CV",

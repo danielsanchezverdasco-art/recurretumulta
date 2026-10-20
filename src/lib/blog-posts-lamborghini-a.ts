@@ -847,6 +847,43 @@ Con 3,3 s de 0-100 sigue siendo rapidísimo, y el V10 a 8.500 rpm suena igual de
 | Más ligero que el EVO | 13,8 l/100 km |
 | El más divertido de conducir | Relevado por el Temerario |
 
+## El último V10: por qué el EVO RWD ya es pieza de época
+
+El Huracán cerró una era en Lamborghini: la del **V10 atmosférico** sin electrificación, relevada por el Temerario según el propio análisis. La gama histórica y actual de la marca se presenta en la <a href=https://www.lamborghini.com>web oficial de Lamborghini</a>. Dentro de esa despedida, el EVO RWD era la versión purista y, a la vez, la más barata: **216.444 €** en España según km77. Su producción terminó en **2024**, así que hoy se valora como ocasión especial: el Huracán que eligió diversión trasera frente a eficacia total.
+
+## La técnica: 610 CV a un solo eje, con cabeza electrónica
+
+| Dato | Lamborghini Huracán EVO RWD |
+|---|---|
+| Motor | V10 5.2 atmosférico |
+| Potencia | 610 CV · 560 Nm |
+| Tracción | Trasera |
+| 0-100 km/h | 3,3 s |
+| Velocidad máxima | 325 km/h |
+| Consumo WLTP | 13,8 l/100 km |
+| Maletero | 100 l |
+| Precio en España | 216.444 € |
+
+Enviar **610 CV** solo atrás exige algo más que valentía: exige la electrónica de la familia EVO calibrada para permitir deslizamientos controlados, especialmente en modo Sport, como describe el análisis original. El resultado es un coche **más ligero** que el EVO de tracción total y **0,4 s más lento** en el 0-100 —3,3 frente a 2,9 s— por pura física de tracción en la salida. A **325 km/h** y con el V10 girando a **8.500 rpm**, la diferencia de décimas se olvida; la de carácter, no.
+
+## Uso real: se conduce los días buenos, se guarda los demás
+
+Su uso real es el de un superdeportivo de ocasión especial: salidas de fin de semana, rutas de curvas y eventos. Con **100 litros** de maletero, etiqueta C y un consumo de **13,8 l/100 km** homologado que en uso alegre será otro, no pretende ser otra cosa. En mojado exige las manos que su ficha reclama sin eufemismos. Quien lo compre como inversión emocional debe aceptar que su valor dependerá de kilómetros, historial y originalidad, no solo del escudo. Puedes cruzarlo con otros superdeportivos en el <a href=/comparador-coches/>comparador de coches</a> y pasar el rato con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+## Mantenimiento y costes: la red oficial es parte del precio
+
+Lamborghini no publica tarifas cerradas del Huracán que podamos citar, y no las inventamos. Lo verificable es el marco de un V10 atmosférico de 610 CV mantenido en la red oficial: revisiones especializadas, neumáticos traseros que digieren 560 Nm y frenos a la altura de 325 km/h. En un coche fuera de producción desde 2024, el historial completo en servicio oficial será el factor que separe una buena unidad de un problema caro, y debe exigirse documentado antes que cualquier rebaja.
+
+## Normativa: etiqueta C y seguridad sin ensayo Euro NCAP
+
+El EVO RWD lleva **etiqueta C**, como todo Huracán de gasolina según su FAQ, con las limitaciones crecientes de ese distintivo en las ZBE más estrictas. Seguirá el calendario ordinario de ITV. En seguridad no consta evaluación Euro NCAP de los superdeportivos de tirada limitada como este, y no le atribuimos estrellas: el organismo puede consultarse en <a href=https://www.euroncap.com>Euro NCAP</a>, pero la ausencia de ensayo es el dato, y en esta clase de coche es lo habitual, no una carencia escondida.
+
+## Frente al EVO de tracción total: veredicto
+
+Su único rival que importa es su hermano, el <a href=/coches/lamborghini-huracan-evo-2024-precio-ficha-tecnica/>Lamborghini Huracán EVO</a> de tracción total: 29 CV más según la FAQ del análisis, 2,9 s en el 0-100 y una eficacia en cualquier firme que el RWD no busca. El RWD respondía con menos peso, dirección más comunicativa y el precio más bajo de la gama final. En ocasión, esa pureza es precisamente lo que muchos compradores de V10 buscan ahora que ya no se fabrica ninguno.
+
+**¿Merece la pena?** Como superdeportivo para conducir, es el Huracán con más carácter por euro de su gama. **Para quién sí:** para el purista de la tracción trasera que usará el coche en seco y con cabeza. **Para quién no:** para quien quiera la máxima eficacia en cualquier clima: ese era el EVO integral.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto costaba el Huracán EVO RWD?
@@ -869,7 +906,7 @@ No: la producción terminó en 2024. Solo ocasión.
 
 Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: <a href=https://www.km77.com/coches/lamborghini/huracan/2019/datos?amp=1>precio y ficha en km77</a>.*`
+*Fuentes: <a href=https://www.km77.com/coches/lamborghini/huracan/2019/datos?amp=1>precio y ficha en km77</a>. <a href=https://www.lamborghini.com>Lamborghini (web oficial)</a>, <a href=https://www.euroncap.com>Euro NCAP</a>*`
   },
   {
     "title": "Huracán EVO RWD Spyder: precio, ficha y vídeo",
