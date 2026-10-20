@@ -6026,3 +6026,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/zontes-703t-etc-2026-ficha-tecnica-precio-hunt1.webp | https://www.superbikemag.com/wp-content/uploads/2026/01/New-Model-Zontes-703T-2026-Article-6.webp | SuperbikeMag | desconocida |
 | /media/zontes-703t-etc-2026-ficha-tecnica-precio-hunt2.webp | https://directomotor.com/wp-content/uploads/2026/04/aaa-zontes-1.jpeg | DirectoMotor | desconocida |
 | /media/zontes-703t-etc-2026-ficha-tecnica-precio-hunt3.webp | https://www.mundomotero.com/wp-content/uploads/2025/11/zontes-703t-mundomotero-com-3.jpg | MundoMotero | desconocida |
+| /media/lexus-es-300h-2025-precio-ficha-tecnica-hunt1.webp | https://www.lexusnews.eu/images/galleries/2025_ES_300h/esp1001.jpg | Lexus EU (prensa oficial) | desconocida |
+| /media/lexus-es-300h-2025-precio-ficha-tecnica-hunt2.webp | https://cdn.warp.la/wp-content/uploads/2025/11/ES300H-D-1024x525.jpeg | Lexus (vía warp.la) | desconocida |
+| /media/lexus-es-300h-2025-precio-ficha-tecnica-hunt3.webp | https://visor.ph/wp-content/uploads/2025/04/Red_NewLexusES_16.jpg | Lexus (vía visor.ph, presentación Auto Shanghai 2025) | desconocida |
+| /media/lynk-co-03-plus-2025-precio-ficha-tecnica-hunt1.webp | https://img-cdn-zw.zigwheelsksa.com/large/gallery/exterior/115/1944/lynkaco-03-plus-grille-view-902337.jpg | ZigWheels (galería 03+) | desconocida |
+| /media/lynk-co-03-plus-2025-precio-ficha-tecnica-hunt2.webp | https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2024/9/0/1488x0_1_autohomecar__ChxkPWcU8NuAO8dfAAMFP1twZdA217_large.jpg | Autohome (vía ixbt) | desconocida |
+| /media/lynk-co-03-plus-2025-precio-ficha-tecnica-hunt3.webp | https://img4.pcauto.com.cn/pcauto/images/auto_cms/20241017/22982828_org.png | Lynk & Co / PCauto | desconocida |
+| /media/moto-guzzi-v100-mandello-s-2025-ficha-tecnica-precio-hunt1.webp | https://www.motortravel.it/uploads/2/7/9/1/27911427/my2025-v100-mandello-s-05.jpg | Moto Guzzi / Motortravel.it | desconocida |
+| /media/moto-guzzi-v100-mandello-s-2025-ficha-tecnica-precio-hunt2.webp | https://www.motortravel.it/uploads/2/7/9/1/27911427/my2025-v100-mandello-s-02.jpg | Moto Guzzi / Motortravel.it | desconocida |
+| /media/moto-guzzi-v100-mandello-s-2025-ficha-tecnica-precio-hunt3.webp | https://www.motortravel.it/uploads/2/7/9/1/27911427/my2025-v100-mandello-s-04.jpg | Moto Guzzi / Motortravel.it | desconocida |
+| /media/benda-chinchilla-450-2024-ficha-tecnica-precio-hunt1.webp | https://amilillagroup.com/wp-content/uploads/2026/05/A07-scaled.jpg | Benda Motorcycle (vía Amillilla Group) | desconocida |
+| /media/benda-chinchilla-450-2024-ficha-tecnica-precio-hunt2.webp | https://chinamotorworld.com/wp-content/uploads/2023/06/BENDA-Chinchilla450-_chinese-motorcycle-news_MGEA-CHINAMOTOR.jpg | China Motor World / MEGA ChinaMotor | desconocida |
+| /media/benda-chinchilla-450-2024-ficha-tecnica-precio-hunt3.webp | http://ncmotor.motorium.com.tr/assets/images/products/benda/chinchilla/4.jpg | Benda (vía NC Motor / Motorium) | desconocida |
