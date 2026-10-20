@@ -9,7 +9,7 @@ export const AUTOCARAVANAS_DETHLEFFS_M2: Autocaravana[] = [
     modelo: "Alpa I 7820-2",
     tipo: "integral",
     categoria: "Autocaravana",
-    precioDesde: null, // Dethleffs no publica PVP oficial por modelo
+    precioDesde: 164299, // Preisliste oficial Dethleffs 2025 (Alemania), IVA incl.
     potenciaCv: 180, // Fiat Ducato Maxi 2.2 de 132 kW, según anuncios 2026
     autonomiaKm: null,
     maleteroL: null,
@@ -44,9 +44,9 @@ export const AUTOCARAVANAS_DETHLEFFS_M2: Autocaravana[] = [
     parNm: null,
     traccion: null,
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     notas:
-      "Sustituye al Niesmann+Bischoff Arto 77 E (ver CHECKS-E.md): ese modelo no figura en la Preisliste oficial Arto de enero 2026. El Alpa I 7820-2 es una integral Dethleffs verificada en anuncios de unidades nuevas 2026: 8,55 m, 5,4 t de MMA, 3 ejes, Fiat Ducato Maxi AL-KO de 180 CV (132 kW) con cambio automático de 8 velocidades, 4 plazas de viaje y 4 camas. Dethleffs no publica PVP oficial por modelo ni el MRO en su web, por lo que esos campos quedan en null. Los precios vistos en red para unidades nuevas 2026 se mueven entre 160.000 y 185.000 € según equipamiento, pero son precios de concesionario, no tarifa oficial.",
+      "Sustituye al Niesmann+Bischoff Arto 77 E (ver CHECKS-E.md): ese modelo no figura en la Preisliste oficial Arto de enero 2026. El Alpa I 7820-2 es una integral Dethleffs verificada en anuncios de unidades nuevas 2026: 8,55 m, 5,4 t de MMA, 3 ejes, Fiat Ducato Maxi AL-KO de 180 CV (132 kW) con cambio automático de 8 velocidades, 4 plazas de viaje y 4 camas. Dethleffs no publica el MRO por modelo en su web, por lo que ese campo queda en null (el PVP aplicado, 164.299 €, es el de su Preisliste oficial «Wohnmobile 2025»). Los precios vistos en red para unidades nuevas 2026 se mueven entre 160.000 y 185.000 € según equipamiento, pero son precios de concesionario, no tarifa oficial. Precio: precio con IVA de la Preisliste oficial de Dethleffs (Alemania), «Wohnmobile 2025» (válida desde 01/08/2024), Alpa I 7820-2: 164.299 €; no hay tarifa oficial para España.",
     descripcion: `Dethleffs es una de esas marcas que no necesitan gritar para que se las oiga: lleva construyendo autocaravanas desde 1931 y su nombre está ligado a la idea de la «autocaravana para toda la vida». La gama Alpa es su apuesta por el gran turismo en formato integral y capuchina, y el I 7820-2 representa la versión más ambiciosa de ese concepto: 8,55 metros, tres ejes y 5,4 toneladas de MMA. No es una integral para iniciarse; es una integral para quien ya sabe exactamente lo que quiere y lo quiere a lo grande.
 
     Los 8.550 milímetros de largo lo colocan en el territorio de los grandes integrales europeos, y los tres ejes no son un capricho estético: con 5,4 toneladas de MMA, el doble eje trasero reparte la carga, mejora la estabilidad en autopista y permite un reparto de pesos que un dos ejes no podría asumir con este volumen. La anchura de 2,32 metros y la altura de 3,04 mantienen unas proporciones equilibradas para su tamaño. Es un vehículo que impone en carretera y que exige un conductor con experiencia en grandes volúmenes; a cambio, ofrece un interior donde los 8,55 metros se aprovechan sin concesiones.
@@ -57,7 +57,7 @@ export const AUTOCARAVANAS_DETHLEFFS_M2: Autocaravana[] = [
 
     El Alpa I 7820-2 compite con el Hymer B-ML I 780, el Carthago chic c-line y, en su franja alta, con los liners de acceso. Su posicionamiento es el del «gran integral alemán sin precio de liner»: más barato que un Hymer equivalente, con tres ejes que ni el Hymer ni el Carthago ofrecen en este tamaño. La contrapartida es una imagen de marca menos premium que Hymer o Carthago, lo que se nota en el valor residual: un Alpa se deprecia algo más rápido que un B-ML, aunque menos que las marcas generalistas. Para quien compra para usarla 10 años, es irrelevante; para quien revende a los 4-5, conviene tenerlo en cuenta en el cálculo.
 
-    En precio, Dethleffs sigue la política habitual de las marcas alemanas del segmento: no publica PVP oficial por modelo en su web, y el precio se configura con el concesionario. Las unidades nuevas 2026 vistas en red se mueven entre los 160.000 y los 185.000 euros según equipamiento, una horquilla coherente con su posicionamiento —por debajo de los liners premium de Hymer o Niesmann+Bischoff, por encima de las integrales generalistas—. Como siempre, el consejo es pedir oferta cerrada con el equipamiento deseado y comparar entre concesionarios de distintos países, porque las diferencias pueden ser significativas.
+    En precio, Dethleffs sigue la política habitual de las marcas alemanas del segmento: publica su PVP en su Preisliste oficial (el Alpa I 7820-2 parte de 164.299 €), aunque no tarifa para España, y el precio final se configura con el concesionario. Las unidades nuevas 2026 vistas en red se mueven entre los 160.000 y los 185.000 euros según equipamiento, una horquilla coherente con su posicionamiento —por debajo de los liners premium de Hymer o Niesmann+Bischoff, por encima de las integrales generalistas—. Como siempre, el consejo es pedir oferta cerrada con el equipamiento deseado y comparar entre concesionarios de distintos países, porque las diferencias pueden ser significativas.
 
     Cómo lo verificamos: la existencia del modelo en 2026, las dimensiones (8,55 m), la MMA (5,4 t), los tres ejes, el motor Fiat Ducato Maxi AL-KO de 180 CV con automático de 8 velocidades y las 4+4 plazas proceden de anuncios coincidentes de concesionarios europeos con unidades nuevas 2026. Dethleffs no publica en su web ni el PVP por modelo ni el MRO, por lo que esos campos quedan en null sin inventar. La sustitución del Arto 77 E está documentada en CHECKS-E.md con la Preisliste oficial.
 
@@ -120,7 +120,7 @@ export const AUTOCARAVANAS_DETHLEFFS_M2: Autocaravana[] = [
     contras: [
       "MMA de 5.400 kg: exige carnet C1 y descarta al conductor novel",
       "8,55 metros: maniobrabilidad limitada fuera de autopista y grandes áreas",
-      "Dethleffs no publica PVP oficial ni MRO por modelo",
+      "Dethleffs no publica PVP oficial para España ni MRO por modelo",
       "Consumo y costes de mantenimiento acordes a 5,4 toneladas",
       "No es una opción si se busca una integral compacta o de primer acceso",
     ],

@@ -208,7 +208,7 @@ export const CAMPERS_WESTFALIA: CocheComparador[] = [
     modelo: "Amundsen",
     tipo: "Diésel",
     categoria: "Camper",
-    precioDesde: null,
+    precioDesde: null, // null documentado: el Westfalia Amundsen está descatalogado y no figura en la gama ni en las listas de precios oficiales vigentes de Westfalia Mobil (gama actual: Columbus, James Cook, Kepler y Jules Verne); sin tarifa oficial actual.
     potenciaCv: 170,
     autonomiaKm: null,
     maleteroL: null,
@@ -307,7 +307,7 @@ export const CAMPERS_WESTFALIA: CocheComparador[] = [
     modelo: "Sven Hedin",
     tipo: "Diésel",
     categoria: "Camper",
-    precioDesde: null,
+    precioDesde: null, // null documentado: el Westfalia Sven Hedin está descatalogado y no figura en la gama ni en las listas de precios oficiales vigentes de Westfalia Mobil (gama actual: Columbus, James Cook, Kepler y Jules Verne); sin tarifa oficial actual.
     potenciaCv: 177,
     autonomiaKm: null,
     maleteroL: null,

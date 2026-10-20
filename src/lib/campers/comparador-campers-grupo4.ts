@@ -81,7 +81,7 @@ export const CAMPERS_GRUPO4: CocheComparador[] = [
     modelo: "Summit 600",
     tipo: "Diésel",
     categoria: "Camper",
-    precioDesde: null,
+    precioDesde: null, // null documentado: el precio base de Pössl/Globecar (Pössl Group) solo se ofrece a través de su configurador oficial en línea y no existe una tarifa oficial abierta (PDF o web) verificable para este modelo fuera de España; la tarifa oficial española localizada cubre solo la gama VAN LINE (Vanster/Campster).
     aprox: [],
     potenciaCv: 140,
     velocidadMax: null,
@@ -149,7 +149,7 @@ export const CAMPERS_GRUPO4: CocheComparador[] = [
     modelo: "Boxstar 600 Street",
     tipo: "Diésel",
     categoria: "Camper",
-    precioDesde: null,
+    precioDesde: null, // null documentado: la gama BoxStar desapareció de las listas oficiales de Knaus (sustituida por BoxLife/BoxTime); solo constan precios de concesionario de unidades equipadas, no precio base oficial.
     aprox: [],
     potenciaCv: 140,
     velocidadMax: null,
@@ -217,7 +217,7 @@ export const CAMPERS_GRUPO4: CocheComparador[] = [
     modelo: "CaraBus 600 MQ",
     tipo: "Diésel",
     categoria: "Camper",
-    precioDesde: null,
+    precioDesde: null, // null documentado: la única tarifa oficial localizada de Weinsberg (Knaus Tabbert) es la lista de precios oficial de Weinsberg Suecia 2026, en coronas suecas (CaraBus [FIRE] Edition 600 MQ: 870.200 SEK); no se ha verificado tarifa oficial en euros y no se convierte sin fuente oficial.
     aprox: [],
     potenciaCv: 140,
     velocidadMax: null,

@@ -319,7 +319,7 @@ export const CAMPERS_NIKY_ESPANOLAS: CocheComparador[] = [
     modelo: "Peugeot Rifter Camperiz",
     tipo: "Diésel",
     categoria: "Camper",
-    precioDesde: null,
+    precioDesde: null, // null documentado: Camperiz es un taller conversor, no el fabricante: no publica PVP oficial abierto del vehículo completo camperizado sobre Peugeot Rifter; solo constan precios de anuncios y portales, que no se usan como oficiales.
     potenciaCv: null,
     autonomiaKm: null,
     maleteroL: null,
@@ -421,7 +421,7 @@ export const CAMPERS_NIKY_ESPANOLAS: CocheComparador[] = [
     modelo: "Dacia Dokker Camperiz",
     tipo: "Diésel",
     categoria: "Camper",
-    precioDesde: null,
+    precioDesde: null, // null documentado: el Dacia Dokker está descatalogado y Camperiz es un taller conversor, no el fabricante: no publica PVP oficial abierto del vehículo completo camperizado; solo constan precios de anuncios y portales, que no se usan como oficiales.
     potenciaCv: null,
     autonomiaKm: null,
     maleteroL: null,
@@ -523,7 +523,7 @@ export const CAMPERS_NIKY_ESPANOLAS: CocheComparador[] = [
     modelo: "Kangoo camper 2026",
     tipo: "Diésel",
     categoria: "Camper",
-    precioDesde: null,
+    precioDesde: null, // null documentado: Renault no comercializa ninguna versión camper de fábrica del Kangoo ni publica tarifa para ella: las Kangoo camper existentes son conversiones de terceros o vehículos de alquiler.
     potenciaCv: 115,
     autonomiaKm: null,
     maleteroL: null,
@@ -601,7 +601,7 @@ export const CAMPERS_NIKY_ESPANOLAS: CocheComparador[] = [
     modelo: "Traveller camper 2026",
     tipo: "Diésel",
     categoria: "Camper",
-    precioDesde: null,
+    precioDesde: null, // null documentado: el Traveller Camper era una camperización del preparador Tinkervan comercializada a través de Peugeot (programa ya discontinuado): el precio era un suplemento sobre el vehículo base según nivel de equipamiento, sin PVP oficial único del vehículo completo; Peugeot no publica tarifa de una versión camper de fábrica.
     potenciaCv: 180,
     autonomiaKm: null,
     maleteroL: null,

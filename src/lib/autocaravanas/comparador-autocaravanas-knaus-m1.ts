@@ -1,6 +1,7 @@
 // Autocaravanas Knaus — lote Merlín 1 (18/10/2026), corrección Grok 22:15 (19/10/2026).
 // Fuentes: knaus.com (páginas oficiales BOXLIFE PLATINUM SELECTION y SKY TI 650 MEG;
-// el fabricante no publica PVP «desde» para ninguno de los dos modelos) + fichas de
+// el fabricante publica sus precios en su Preisliste oficial: se aplicaron BoxLife 600 MQ
+// 66.590 € y Sky TI 650 MEG 82.930 €) + fichas de
 // catálogo 2026 reproducidas por la red oficial de concesionarios (fuente secundaria,
 // usada solo para el peso).
 // Correcciones aplicadas: (a) descripcion propia ≥800 palabras por ficha, con párrafos
@@ -9,7 +10,7 @@
 // cama opcional); (d) bloque costeMensual eliminado; (e) cargaUtilKg en null (Knaus no
 // publica la carga útil por modelo; el cálculo MMA−MRO queda prohibido); (f) analisisSlug
 // en formato «-analisis-opinion»; (g) fuenteNombre/fuenteUrl oficiales de knaus.com;
-// (h) precioDesde null (sin tarifa oficial española ni de otro país); (i) fotos en
+// (h) precioDesde = Preisliste oficial Knaus (EUR IVA 19% incl., «aprox»; sin tarifa para España); (i) fotos en
 // formato «-ext.webp» / «-interior.webp» (sin «-oficial.webp»); (l) pesoKg en «aprox»
 // por proceder de catálogo de red y no de knaus.com.
 import type { Autocaravana } from "./tipos.ts";
@@ -21,7 +22,7 @@ export const AUTOCARAVANAS_KNAUS_M1: Autocaravana[] = [
     modelo: "BoxLife 600 MQ",
     tipo: "camper",
     categoria: "Autocaravana",
-    precioDesde: null, // Knaus no publica PVP oficial «desde» para el 600 MQ
+    precioDesde: 66590, // Preisliste oficial Knaus MJ2027-1, EUR IVA 19% incl.
     potenciaCv: 140, // Fiat Ducato 2.2 Multijet, 103 kW; knaus.com
     autonomiaKm: null,
     maleteroL: null,
@@ -54,9 +55,9 @@ export const AUTOCARAVANAS_KNAUS_M1: Autocaravana[] = [
     parNm: null,
     traccion: "Delantera", // Fiat Ducato, tracción delantera; knaus.com
     emisionesCo2: null,
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     notas:
-      "Dimensiones, motor y equipamiento, de la página oficial del modelo en knaus.com. El peso (2.967 kg) procede de fichas de catálogo 2026 reproducidas por la red oficial de concesionarios —fuente secundaria— y va en «aprox» porque knaus.com no lo publica en su web. Knaus no publica PVP «desde» del 600 MQ ni su carga útil por modelo, por lo que ambos campos quedan en null sin inventar cifras.",
+      "Dimensiones, motor y equipamiento, de la página oficial del modelo en knaus.com. El peso (2.967 kg) procede de fichas de catálogo 2026 reproducidas por la red oficial de concesionarios —fuente secundaria— y va en «aprox» porque knaus.com no lo publica en su web. La carga útil por modelo no se publica y queda en null; el PVP «desde» del 600 MQ se ha localizado en la Preisliste oficial (ver la nota de precio al final de estas notas). Precio: Grundpreis de la Preisliste oficial de Knaus Tabbert, año modelo 2027-1 (válida desde 07/2026), BOXLIFE 600 MQ, en EUR con IVA alemán del 19% incluido; no hay tarifa oficial para España.",
     curiosidades:
       "La puerta corredera lateral del BoxLife equipa cierre eléctrico Soft-Close: se cierra sola con un leve empujón, un detalle de automóvil premium poco habitual en una camper. Fuente: página oficial del modelo en knaus.com (https://www.knaus.com/es-es/camper-vans-campers/boxlife-platinum-selection).",
     descripcion: `La Knaus BoxLife 600 MQ Platinum Selection es la camper de 5,99 metros con la que el fabricante alemán convierte una furgoneta en un pequeño laboratorio de ideas. Pertenece a la gama BoxLife en su acabado Platinum Selection, es decir, la versión más equipada de la camper de Knaus para el año modelo 2026, y su planteamiento es radicalmente distinto al de una camper convencional: aquí casi todo se mueve, se gira o se pliega. La trasera es Vario, el baño tiene una pared giratoria y la cama posterior puede ser basculante y regulable en altura. Es la furgoneta pensada para quien no se conforma con el esquema clásico de cama fija y baño mínimo, y prefiere un interior que se reconfigura según la hora del día.
@@ -71,9 +72,9 @@ export const AUTOCARAVANAS_KNAUS_M1: Autocaravana[] = [
 
     Y ahora la parte incómoda, que hay que contar porque la propia Knaus la advierte en su ficha oficial: el peso. La masa en orden de marcha ronda los 2.967 kilos según las fichas de catálogo de la red de concesionarios, y la propia documentación de Knaus avisa de que la carga útil restante puede caer hasta unos 61 kilos si se piden techo elevable, toldo y se viaja con cuatro ocupantes. Traducido: esta camper hay que configurarla con la calculadora en la mano. Cada extra pesa, y con 3.500 kilos de MMA el margen se evapora rápido. No es un defecto exclusivo de Knaus —les pasa a todas las campers equipadas hasta arriba—, pero aquí el fabricante tiene la honestidad de advertirlo por escrito.
 
-    El precio es la gran incógnita oficial: Knaus no publica PVP «desde» para el 600 MQ y trabaja con configurador por concesionario. Como referencia de mercado —no oficial—, las unidades 2026 en stock se anuncian entre 80.000 y 87.000 euros en concesionarios europeos, una tarifa claramente superior a la de campers equivalentes de marcas generalistas. Es el peaje de la ingeniería alemana y del acabado Platinum: se paga la innovación, no el precio por metro.
+    El precio de referencia es el de la Preisliste oficial de Knaus Tabbert: el BoxLife 600 MQ parte de 66.590 € en Alemania (IVA 19% incl.). Como referencia de mercado —no oficial—, las unidades 2026 en stock se anuncian entre 80.000 y 87.000 euros en concesionarios europeos, una tarifa claramente superior a la de campers equivalentes de marcas generalistas. Es el peaje de la ingeniería alemana y del acabado Platinum: se paga la innovación, no el precio por metro.
 
-    Cómo lo verificamos: las dimensiones (599/205/258 cm), la batalla de 403 cm, el motor Fiat Ducato 2.2 de 140 CV, la calefacción diésel Truma Combi 6 D de serie, el baño con pared giratoria y la cama basculante trasera opcional proceden de la página oficial del modelo en knaus.com, verificada el 19 de octubre de 2026. El peso de 2.967 kg y la advertencia sobre la carga útil restante proceden de fichas de catálogo 2026 reproducidas por la red oficial de concesionarios (fuente secundaria), porque knaus.com no publica la masa en su web. Knaus no publica PVP oficial ni carga útil por modelo para el 600 MQ, así que no ofrecemos ninguna de las dos cifras.
+    Cómo lo verificamos: las dimensiones (599/205/258 cm), la batalla de 403 cm, el motor Fiat Ducato 2.2 de 140 CV, la calefacción diésel Truma Combi 6 D de serie, el baño con pared giratoria y la cama basculante trasera opcional proceden de la página oficial del modelo en knaus.com, verificada el 19 de octubre de 2026. El peso de 2.967 kg y la advertencia sobre la carga útil restante proceden de fichas de catálogo 2026 reproducidas por la red oficial de concesionarios (fuente secundaria), porque knaus.com no publica la masa en su web. Knaus no publica la carga útil por modelo para el 600 MQ, así que no ofrecemos esa cifra (el PVP aplicado es el de su Preisliste oficial).
 
     Para quién es: la BoxLife 600 MQ es para la pareja —o la familia pequeña— que quiere una camper de menos de 6 metros capaz de transformarse cada día, que viaja también en invierno y valora la calefacción diésel y el baño ingenioso por encima del precio por metro cuadrado. No es para quien busque la camper más barata del segmento, ni para quien quiera cargar cuatro personas con todo el equipamiento sin mirar la báscula: el peso hay que gestionarlo. El veredicto es que es la camper más ingeniosa de su tamaño, con una factura acorde a esa ingeniería y una advertencia de peso que conviene tomarse en serio antes de firmar el configurador.`,
     pros: [
@@ -173,7 +174,7 @@ export const AUTOCARAVANAS_KNAUS_M1: Autocaravana[] = [
     modelo: "Sky TI 650 MEG",
     tipo: "perfilada",
     categoria: "Autocaravana",
-    precioDesde: null, // Knaus no publica PVP oficial (solo configurador por concesionario)
+    precioDesde: 82930, // Preisliste oficial Knaus MJ2026, EUR IVA 19% incl.
     potenciaCv: 140, // Fiat Ducato 2.2 Multijet (103 kW), Euro 6e; manual de 6v de serie, automático de 8v opcional
     autonomiaKm: null,
     maleteroL: null,
@@ -206,9 +207,9 @@ export const AUTOCARAVANAS_KNAUS_M1: Autocaravana[] = [
     parNm: null,
     traccion: "Delantera", // Fiat Ducato, tracción delantera
     emisionesCo2: null,
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     notas:
-      "Dimensiones, motor y equipamiento, de la página oficial del modelo en knaus.com. El peso (2.990 kg) procede de fichas de catálogo 2026 reproducidas por la red oficial de concesionarios —fuente secundaria— y va en «aprox». Knaus no publica PVP «desde» del Sky TI 650 MEG ni su carga útil por modelo: ambos campos quedan en null. La ficha corresponde al año modelo 2026 sobre Fiat Ducato; la generación siguiente cambia de chasis.",
+      "Dimensiones, motor y equipamiento, de la página oficial del modelo en knaus.com. El peso (2.990 kg) procede de fichas de catálogo 2026 reproducidas por la red oficial de concesionarios —fuente secundaria— y va en «aprox». La carga útil por modelo no se publica y queda en null; el PVP «desde» del Sky TI 650 MEG se ha localizado en la Preisliste oficial (ver la nota de precio al final de estas notas). La ficha corresponde al año modelo 2026 sobre Fiat Ducato; la generación siguiente cambia de chasis. Precio: Grundpreis ab Werk 2026 de la Preisliste oficial de Knaus, SKY TI 650 MEG (FIAT 3.500 kg, 140 CV), en EUR con IVA alemán del 19% incluido; no hay tarifa oficial para España.",
     curiosidades:
       "El 650 MEG sobrevivirá al cambio de chasis: en 2027 el Sky TI pasa a base Volkswagen Crafter y el 650 MEG será una de las tres únicas distribuciones de la nueva gama, junto al 700 DEG y al 700 DX con cama isla. Fuente: Out and About Live, guía 2027 de autocaravanas Knaus (https://www.outandaboutlive.co.uk/motorhomes/news/buying-advice/knaus-motorhomes-and-campervans-2027-essential-guide).",
     descripcion: `Comprar un Knaus Sky TI 650 MEG del año modelo 2026 es comprar la última unidad de una era: es la despedida del Sky TI sobre el Fiat Ducato, porque la generación siguiente cambia de chasis. Y eso, lejos de ser un problema, es precisamente su argumento más sólido. El Ducato 2.2 Multijet de 140 CV es una mecánica con millones de kilómetros acumulados en toda Europa, con recambios en cualquier taller y con todos sus vicios conocidos y documentados. Quien compra el 650 MEG de 2026 no está comprando la plataforma saliente por descarte: está comprando la plataforma probada, la que ya no da sorpresas. La novedad, en este caso, la pagará otro.
@@ -225,7 +226,7 @@ export const AUTOCARAVANAS_KNAUS_M1: Autocaravana[] = [
 
     Del precio, Knaus no dice nada oficial: trabaja con configurador y cada concesionario presupuesta. Como referencia de mercado —no oficial—, los portales de la red sitúan la entrada en torno a los 81.000 euros en Alemania para unidades básicas, y a partir de ahí cada pack suma. Es una tarifa de perfilada alemana de gama media-alta: por debajo de una integral, por encima de las perfiladas de acceso francesas e italianas. La ecuación solo cuadra si se valora la construcción y el equipamiento de serie; si el criterio es el precio por metro, hay opciones más baratas.
 
-    Cómo lo verificamos: las dimensiones (696/232/279 cm), el motor Fiat Ducato 2.2 Multijet de 140 CV con Euro 6e, las camas gemelas traseras, el sistema FoldXpand y el ServiceBox proceden de la página oficial del modelo en knaus.com, verificada el 19 de octubre de 2026. El peso de 2.990 kilos procede de fichas de catálogo 2026 reproducidas por la red oficial de concesionarios (fuente secundaria). Knaus no publica PVP oficial ni carga útil por modelo para el Sky TI 650 MEG, por lo que ambas cifras quedan en null. La ficha corresponde al año modelo 2026 sobre Fiat Ducato.
+    Cómo lo verificamos: las dimensiones (696/232/279 cm), el motor Fiat Ducato 2.2 Multijet de 140 CV con Euro 6e, las camas gemelas traseras, el sistema FoldXpand y el ServiceBox proceden de la página oficial del modelo en knaus.com, verificada el 19 de octubre de 2026. El peso de 2.990 kilos procede de fichas de catálogo 2026 reproducidas por la red oficial de concesionarios (fuente secundaria). Knaus no publica la carga útil por modelo para el Sky TI 650 MEG, por lo que esa cifra queda en null (el PVP aplicado, 82.930 €, es el de su folleto oficial de precios). La ficha corresponde al año modelo 2026 sobre Fiat Ducato.
 
     Para quién es: el Sky TI 650 MEG es para la pareja —o la familia de cuatro— que busca una perfilada de camas gemelas bien construida, con detalles de ingeniería que facilitan la vida a bordo, y que prefiere comprar la última generación de una mecánica probadísima antes que estrenar plataforma. No es para quien necesite la tarifa más baja del segmento ni para quien viaje siempre a plena carga con cuatro adultos: el margen de peso hay que vigilarlo. El veredicto es que es la compra racional dentro de las perfiladas alemanas de su tamaño: construcción seria, esquema de camas gemelas muy vivido y una mecánica sin misterios, a cambio de un precio de configurador y una carga útil que obliga a elegir bien los extras.`,
     pros: [

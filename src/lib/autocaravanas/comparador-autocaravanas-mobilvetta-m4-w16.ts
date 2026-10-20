@@ -1,7 +1,8 @@
 // Autocaravanas Mobilvetta — lote Merlín 4 (19/10/2026).
 // Fuentes: ficha oficial Mobilvetta (PDF Mobilvetta_Krosser_86_it), anuncio de truckscout24.de,
 // camperlife.it. Verificado el 19/10/2026.
-// Notas honestas: Mobilvetta no publica PVP oficial (precioDesde: null). La marca no publica
+// Notas honestas: Mobilvetta publica su PVP en el Listino oficial de Italia 2026 (el Krosser P86
+// parte de 92.220 €, «aprox»; sin tarifa para España). La marca no publica
 // carga útil (cargaUtilKg: null). Fotos: ninguna oficial disponible (mobilvetta.it no indexa
 // galería del P86); 4 fotos de concesionarios verificadas como Krosser P86 exacto; la portada
 // se recortó para eliminar el portaplacas del concesionario.
@@ -14,7 +15,7 @@ export const AUTOCARAVANAS_MOBILVETTA_M4: Autocaravana[] = [
     modelo: "Krosser P86",
     tipo: "perfilada",
     categoria: "Autocaravana",
-    precioDesde: null, // Mobilvetta no publica PVP oficial
+    precioDesde: 92220, // Listino oficial Mobilvetta Italia 2026, IVA incl.
     potenciaCv: 140, // 2.2 MultiJet 140 CV (ficha oficial; dealers ofrecen 180 CV)
     autonomiaKm: null,
     maleteroL: null,
@@ -45,9 +46,9 @@ export const AUTOCARAVANAS_MOBILVETTA_M4: Autocaravana[] = [
     parNm: null,
     traccion: null,
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     notas:
-      "Largo 7.450 mm, ancho 2.350 mm, alto 3.050/2.080 mm, motor 2.2 MultiJet 140 CV, 4 homologados, 3-4 plazas de cama (traseras 213×80–200×81 cm + abatible 190×128 cm), frigorífico de compresor 174 l, Truma Combi gas 6 kW, doble suelo técnico: ficha oficial https://mobilvetta.it/wp-content/uploads/2024/07/Mobilvetta_Krosser_86_it.pdf. Versiones de 180 CV con cambio automático y MMA de 4.400 kg ofrecidas por distribuidores: anuncio de truckscout24.de. Precio oficial: no publicado por Mobilvetta (null). Carga útil: la marca no la publica (null). Fotos: 4 de concesionarios verificadas como Krosser P86 exacto (insignia P86 visible); mobilvetta.it no publica galería oficial del modelo; la portada se recortó para eliminar el portaplacas del concesionario.",
+      "Largo 7.450 mm, ancho 2.350 mm, alto 3.050/2.080 mm, motor 2.2 MultiJet 140 CV, 4 homologados, 3-4 plazas de cama (traseras 213×80–200×81 cm + abatible 190×128 cm), frigorífico de compresor 174 l, Truma Combi gas 6 kW, doble suelo técnico: ficha oficial https://mobilvetta.it/wp-content/uploads/2024/07/Mobilvetta_Krosser_86_it.pdf. Versiones de 180 CV con cambio automático y MMA de 4.400 kg ofrecidas por distribuidores: anuncio de truckscout24.de. Precio oficial: no publicado por Mobilvetta (null). Carga útil: la marca no la publica (null). Fotos: 4 de concesionarios verificadas como Krosser P86 exacto (insignia P86 visible); mobilvetta.it no publica galería oficial del modelo; la portada se recortó para eliminar el portaplacas del concesionario. Precio: PVP de Italia del Listino oficial Mobilvetta Italia 2026 (precios recomendados, IVA 22% incl., válido desde 01/09/2025), Krosser P86 = 92.220 €; no hay tarifa oficial para España.",
     curiosidades:
       "Gracias a su sistema constructivo iTech 4.0, Mobilvetta ofrece en la gama Krosser 10 años de garantía contra infiltraciones de agua, una de las coberturas más largas del segmento (fuente: https://camperlife.it/notizie/semintegrale-mobilvetta-krosser-p90-il-test-valle-daosta.html).",
     descripcion: `La Mobilvetta Krosser P86 es la perfilada con la que la marca italiana —otra de las joyas del grupo Trigano— se presenta en el segmento familiar de los 7,45 metros. Mobilvetta lleva desde los años sesenta construyendo autocaravanas en la Toscana y su seña de identidad histórica es el diseño: líneas cuidadas, interiores con personalidad y una estética que se reconoce a primera vista. La gama Krosser traslada esa herencia a un formato racional y habitable, y el P86 es su propuesta con camas gemelas traseras, la distribución favorita de las parejas que viajan con espacio.
@@ -60,7 +61,7 @@ export const AUTOCARAVANAS_MOBILVETTA_M4: Autocaravana[] = [
 
     En mecánica, la ficha oficial declara el 2.2 MultiJet de 140 CV con MMA de 3.500 kg, lo que la mantiene en el carnet B. Pero el mercado ofrece más: distribuidores anuncian versiones del P86 con 180 CV, cambio automático y MMA de 4.400 kg. Esa variante cambia dos cosas importantes: el carnet necesario (C1) y el comportamiento con la célula cargada, porque 40 CV extra se notan en una perfilada de 7,45 metros. Conviene decidir antes de comprar qué homologación se quiere, porque condiciona el permiso y la carga útil.
 
-    En precio, Mobilvetta no publica tarifa oficial, así que el campo queda en null y no hay cifra de partida verificable. El precio real lo fija cada distribuidor según motorización, cambio, packs y promociones. La marca cuenta con red de concesionarios en España, donde se puede solicitar presupuesto cerrado; es recomendable pedirlo por escrito con el detalle de extras, porque en este segmento las diferencias entre una unidad básica y una equipada pueden ser de cinco cifras.
+    En precio, Mobilvetta no publica tarifa oficial para España: el precio aplicado es el del Listino oficial de Italia 2026 (92.220 €) y no hay cifra oficial española de partida. El precio real lo fija cada distribuidor según motorización, cambio, packs y promociones. La marca cuenta con red de concesionarios en España, donde se puede solicitar presupuesto cerrado; es recomendable pedirlo por escrito con el detalle de extras, porque en este segmento las diferencias entre una unidad básica y una equipada pueden ser de cinco cifras.
 
     En el día a día, el P86 se comporta como lo que es: una gran perfilada rutera. El puesto de conducción del Ducato es conocido y ergonómico, con todos los mandos a mano y una posición de conducción alta que domina la carretera. Los 2.080 mm de altura interior permiten moverse sin agacharse y el baño, con ducha separada según distribución, está dimensionado para un uso real y no testimonial. Son detalles que solo se aprecian viviendo a bordo, pero que marcan la diferencia entre una autocaravana para fines de semana y una para viajar de verdad.
 
@@ -75,7 +76,7 @@ export const AUTOCARAVANAS_MOBILVETTA_M4: Autocaravana[] = [
       "Versiones de 180 CV con automático disponibles en red de distribuidores para quien quiera más músculo",
     ],
     contras: [
-      "Sin PVP oficial publicado: el precio solo se conoce pidiendo presupuesto al concesionario",
+      "Sin PVP oficial para España: la referencia es el Listino oficial de Italia (92.220 €)",
       "3.050 mm de alto y 7,45 m de largo: volumen generoso que se paga en consumo y maniobrabilidad",
       "La versión de 180 CV con MMA de 4.400 kg exige carnet C1",
       "La marca no publica la carga útil de la versión base",

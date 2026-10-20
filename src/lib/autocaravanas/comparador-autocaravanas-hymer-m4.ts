@@ -14,8 +14,9 @@
 // (hymer.com), comunicado de novedades Caravan Salon Düsseldorf 2026 (outandaboutlive.co.uk),
 // fichas de concesionarios oficiales con datos de catálogo (TruckScout24, Schaffer-Mobil),
 // ficha técnica FindMyLeisureVehicle (PDF de catálogo). Verificado el 19/10/2026.
-// Notas honestas: Hymer no publica PVP oficial para España → precioDesde null (se cita como
-// referencia el precio UK £109.370 de catálogo). La tara exacta depende del equipamiento
+// Notas honestas: Hymer no publica PVP oficial para España → precioDesde = Listino oficial Hymer
+// Italia 2026 (111.900 €, marcado en «aprox»; se cita como referencia secundaria el precio UK
+// £109.370 de catálogo). La tara exacta depende del equipamiento
 // → pesoKg null; la carga útil publicada por la marca no se localizó → cargaUtilKg null.
 // Consumo, emisiones y par no publicados por la marca para este conjunto → null.
 
@@ -40,7 +41,7 @@ export const AUTOCARAVANAS_HYMER_M4: Autocaravana[] = [
     modelo: "Exsis-i 580 Pure",
     tipo: "integral",
     categoria: "Autocaravana",
-    precioDesde: null, // Hymer no publica tarifa oficial para España
+    precioDesde: 111900, // Listino oficial Hymer Italia 2026 (PDF del fabricante)
     potenciaCv: 140, // Fiat Ducato 2.2 MultiJet 140 CV de serie; 180 CV en opción (Hymer/kemperiai365.lt)
     autonomiaKm: null,
     maleteroL: null,
@@ -71,7 +72,7 @@ export const AUTOCARAVANAS_HYMER_M4: Autocaravana[] = [
     parNm: null,
     traccion: "delantera", // "Front-wheel drive" en la ficha de catálogo Hymer (kemperiai365.lt)
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     notas:
       "Medidas 699/222/283 cm, batalla 3.800 mm, masa en orden de marcha 3.065 kg (-/+5 %), MMA 3.500 kg, remolque máx. 2.000 kg, " +
       "Fiat Ducato 2.2 MultiJet 140 CV (180 CV opcional) Euro 6E, tracción delantera, 4 plazas, calefacción Truma 6 kW a gas, " +
@@ -79,7 +80,7 @@ export const AUTOCARAVANAS_HYMER_M4: Autocaravana[] = [
       "cama basculante 188x150 cm y puertas de garaje 85x109 / 75x85 cm: ficha de catálogo Hymer reproducida por el distribuidor kemperiai365.lt. " +
       "Review camperonline.it (04/01/2021): 699x222x277 cm, MMA 3.500 kg, 3.011 kg en orden de marcha, 4 plazas para viajar y 4 para dormir, " +
       "camas gemelas traseras, garaje pasante y precio base en Italia de 77.990 € con IVA (dato italiano, no válido como precio ES). " +
-      "Autoevolution.com confirma 6,99 m de largo, 2,22 m de ancho, 2,83 m de alto, motor 140 CV y MMA 3.500 kg. " +
+      "Autoevolution.com confirma 6,99 m de largo, 2,22 m de ancho, 2,83 m de alto, motor 140 CV y MMA 3.500 kg.  Precio: precio del Exsis-i 580 Pure en el listino oficial de Hymer 2026 para Italia (PDF de precios del fabricante, 111.900 €); no hay tarifa oficial para España y el modelo sale de la lista 2027." +
       "En null: precio oficial ES (Hymer no publica tarifa para España), consumo, par y carga útil.",
     curiosidades:
       "El apellido 'Pure' no es un acabado más: Hymer lanzó el Exsis-i 580 Pure como una serie especial 'todo equipado' con precio cerrado, " +
@@ -95,7 +96,7 @@ La base es el Fiat Ducato de chasis bajo para camping-car con batalla de 3.800 m
 
 En carretera, la Exsis-i se distingue de las integrales grandes desde el primer kilómetro: los 2,22 metros de ancho y la batalla de 3,8 metros la hacen dócil en rotondas y cambios de carril, y el parabrisas panorámico da una visibilidad que ninguna perfilada iguala. El Ducato de 140 CV mueve los 3.500 kg con solvencia en llano y se defiende en puertos; quien viaje siempre muy cargado o por alta montaña tiene la opción del 180 CV con cambio automático de nueve marchas. La altura de 2,83 metros exige atención en ramas bajas y parkings con gálibo, pero a cambio el interior respira con sus casi dos metros de altura libre. Es una autocaravana para hacer kilómetros sin cansarse, no para correr.
 
-Cómo lo verificamos. Las medidas (699/222/283 cm), la batalla (3.800 mm), la masa en orden de marcha (3.065 kg), la MMA (3.500 kg), el motor (Fiat Ducato 2.2 MultiJet 140 CV, 180 CV opcional), la tracción delantera, las 4 plazas, la calefacción Truma de 6 kW, los depósitos (120/90 l), el frigorífico (142 l), la batería (95 Ah AGM), el aislamiento (41/34/34 mm), la cama basculante (188x150 cm) y las puertas del garaje figuran en la ficha de catálogo Hymer reproducida por el distribuidor kemperiai365.lt. La review de camperonline.it (4 de enero de 2021) confirma 699x222x277 cm, MMA de 3.500 kg, 3.011 kg en orden de marcha, 4+4 plazas y camas gemelas con garaje, y autoevolution.com corrobora las cotas y la mecánica. Todo se contrastó el 19 de octubre de 2026. Hymer no publica tarifa oficial para España, así que el precio queda en null: los 77.990 € citados por camperonline.it son el precio base en Italia en 2021 y no son trasladables.
+Cómo lo verificamos. Las medidas (699/222/283 cm), la batalla (3.800 mm), la masa en orden de marcha (3.065 kg), la MMA (3.500 kg), el motor (Fiat Ducato 2.2 MultiJet 140 CV, 180 CV opcional), la tracción delantera, las 4 plazas, la calefacción Truma de 6 kW, los depósitos (120/90 l), el frigorífico (142 l), la batería (95 Ah AGM), el aislamiento (41/34/34 mm), la cama basculante (188x150 cm) y las puertas del garaje figuran en la ficha de catálogo Hymer reproducida por el distribuidor kemperiai365.lt. La review de camperonline.it (4 de enero de 2021) confirma 699x222x277 cm, MMA de 3.500 kg, 3.011 kg en orden de marcha, 4+4 plazas y camas gemelas con garaje, y autoevolution.com corrobora las cotas y la mecánica. Todo se contrastó el 19 de octubre de 2026. Hymer no publica tarifa oficial para España: el precio aplicado es el del Listino oficial Hymer Italia 2026 (111.900 €, «aprox»); los 77.990 € citados por camperonline.it son el precio base en Italia en 2021 y no son trasladables.
 
 Para quién es. La Exsis-i 580 Pure encaja con parejas viajeras que quieren una integral de verdad —parabrisas panorámico, garaje pasante, cocina seria— pero encuentran demasiado voluminosas las integrales de 2,35 m de ancho: esos 10-13 cm de menos se notan en pueblos, áreas y carreteras de montaña. La serie Pure, además, es para quien prefiere comprar equipada de fábrica antes que pelear con opcionales. Las camas gemelas traseras la hacen ideal para dormir cómodos dos adultos con independencia total. No es para familias de cuatro que viajen siempre juntas: la cama basculante es perfecta de forma ocasional, pero el día a día de cuatro con un solo baño compacto se hace largo. Tampoco para quien busque el precio más bajo del segmento: Hymer se paga, y la red oficial en España, aunque existente, es menos densa que la de las marcas francesas. Y como en toda integral de 3.500 kg tan equipada, la carga útil real de cada unidad hay que comprobarla en su ficha antes de firmar.`,
     pros: [
@@ -134,7 +135,7 @@ Para quién es. La Exsis-i 580 Pure encaja con parejas viajeras que quieren una 
     modelo: "ML-T 570 Xperience",
     tipo: "perfilada",
     categoria: "Autocaravana",
-    precioDesde: null, // Hymer no publica PVP oficial ES; ref. UK £109.370 (catálogo 2026)
+    precioDesde: 117490, // PVP oficial España (web y lista oficial Hymer España 2027)
     potenciaCv: 170,
     autonomiaKm: null,
     maleteroL: null,
@@ -172,7 +173,7 @@ Para quién es. La Exsis-i 580 Pure encaja con parejas viajeras que quieren una 
       "proceden de la nota de prensa oficial de Hymer y de las fichas de catálogo 2026 de concesionarios " +
       "(TruckScout24, Schaffer-Mobil). Camas gemelas traseras de 190 y 186 cm, nevera de compresor de 154 l, " +
       "agua limpia 120 l y grises 100 l, según ficha técnica de catálogo (FindMyLeisureVehicle). " +
-      "En null: precio ES (Hymer no publica tarifa oficial en España), tara exacta, carga útil, consumo, " +
+      "En null: precio ES (Hymer no publica tarifa oficial en España), tara exacta, carga útil, consumo,  Precio: PVP oficial España del ML-T 570: la web oficial de Hymer en España publica la gama ML-T «desde 117.490 €» (precio basado en los precios de venta españoles) y la lista oficial de precios Hymer España 2027 (válida desde 01/07/2026) incluye el ML-T 570; la edición Xperience suma su pack homónimo (10.170 € según esa misma lista)." +
       "emisiones de CO2 y par motor (la marca no los publica para este conjunto).",
     curiosidades:
       "La edición Xperience del ML-T 570 se presentó en el Caravan Salon de Düsseldorf 2026 con acabado " +

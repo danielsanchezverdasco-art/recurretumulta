@@ -6,8 +6,8 @@
 // Verificado el 19/10/2026.
 // Notas honestas: el «Frankia I 8400 GD» sin apellido Titan es denominación
 //   antigua (2007/2017); el integral de 8,4 m actual es el Titan I 840 GD →
-//   sustituido y anotado. precioDesde=null en ambos (Frankia no publica tarifa
-//   oficial ES). Ambos exigen carnet C1 (MMA 5.000/5.500 kg).
+//   sustituido y anotado. precioDesde = Preisliste oficial Frankia 2026 (208.900 € para el
+//   Platin I 8400 QD, «aprox»; sin tarifa oficial ES). Ambos exigen carnet C1 (MMA 5.000/5.500 kg).
 import type { Autocaravana } from "./tipos.ts";
 
 export const AUTOCARAVANAS_FRANKIA_M4: Autocaravana[] = [
@@ -59,7 +59,7 @@ export const AUTOCARAVANAS_FRANKIA_M4: Autocaravana[] = [
       "depósito diésel 90 L, agua limpia 150 L / residuales 130 L: exposés de " +
       "caraworld.de y alpacacamping.de de unidades del modelo. precioDesde=null: " +
       "Frankia no publica tarifa oficial en España. carnetNecesario=C1 por la MMA " +
-      "de 5.000 kg. cargaUtilKg=null: no publicada por la marca. Fotos: 4 oficiales " +
+      "de 5.000 kg. cargaUtilKg=null: no publicada por la marca. Fotos: 4 oficiales  Precio: se deja en null porque el Titan I 840 GD no figura como tal en la Preisliste oficial vigente de Frankia localizada (2026); sin tarifa oficial vigente verificable para esta designación." +
       "del folleto Frankia Titan 2023.",
     curiosidades:
       "Frankia es una empresa del grupo Pilote, el gigante francés de las " +
@@ -212,7 +212,7 @@ export const AUTOCARAVANAS_FRANKIA_M4: Autocaravana[] = [
     modelo: "Platin I 8400 QD",
     tipo: "integral",
     categoria: "Autocaravana",
-    precioDesde: null, // Frankia no publica PVP oficial en España
+    precioDesde: 208900, // Preisliste oficial Frankia 2026 (Alemania), IVA incl.
     potenciaCv: 190, // Mercedes-Benz Sprinter 190 CV, automático
     autonomiaKm: null,
     maleteroL: null,
@@ -243,7 +243,7 @@ export const AUTOCARAVANAS_FRANKIA_M4: Autocaravana[] = [
     parNm: null,
     traccion: null,
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     notas:
       "Dimensiones 8.620×2.300×3.230 mm, MMA 5.500 kg, motor Mercedes-Benz Sprinter " +
       "190 CV con cambio automático, 4 plazas homologadas y 4 de noche (cama queen " +
@@ -252,9 +252,9 @@ export const AUTOCARAVANAS_FRANKIA_M4: Autocaravana[] = [
       "2022 (https://www.camperonline.it/magazine/cataloghi/2022-Frankia-Platin.pdf) " +
       "y listados de unidades nuevas 2026 de Reisemobile Dülmen en truckscout24 " +
       "(exposé de caraworld.de: masa en orden de marcha 4.753 kg, 747 kg de carga). " +
-      "precioDesde=null: Frankia no publica tarifa oficial en España. " +
+      "precioDesde = Preisliste oficial Frankia 2026 (208.900 €, «aprox»): Frankia no publica tarifa oficial en España. " +
       "carnetNecesario=C1 por la MMA de 5.500 kg. cargaUtilKg=null: no publicada " +
-      "por la marca. Fotos: 4 oficiales del catálogo Frankia Platin 2022, incluidas " +
+      "por la marca. Fotos: 4 oficiales del catálogo Frankia Platin 2022, incluidas  Precio: PVP de Alemania de la Preisliste oficial de Frankia 2026 (Alemania) (precios base, IVA 19% incl.), I 8400 QD Platin = 208.900 €; no hay tarifa oficial para España." +
       "dos de la sección dedicada al I 8400 QD.",
     curiosidades:
       "Para el año modelo 2024, el Platin —el buque insignia de Frankia sobre " +
@@ -313,7 +313,7 @@ export const AUTOCARAVANAS_FRANKIA_M4: Autocaravana[] = [
       los listados de unidades nuevas 2026 de Reisemobile Dülmen en truckscout24,
       consultados el 19/10/2026; la masa en orden de marcha (4.753 kg) figura en el
       exposé de caraworld.de. La curiosidad sobre el logotipo propio de 2024 y el
-      precio de partida procede del artículo de freenet.de. El precio queda en null
+      precio de partida procede del artículo de freenet.de. El precio aplicado es el de la Preisliste oficial Frankia 2026 (208.900 €, «aprox»)
       porque Frankia no publica tarifa oficial en España.
 
       Para quién es: el Platin I 8400 QD encaja con viajeros de alto poder

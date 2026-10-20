@@ -60,7 +60,7 @@ export const AUTOCARAVANAS_GIOTTILINE_M4: Autocaravana[] = [
       "lalbacaravaning.com 'PACK THERRY 2022/23'. En null: precio (Giottiline no publica tarifa ES), MMA, altura, peso, consumo y tracción (sin fuente oficial). " +
       "Fotos (verificación 19/10/2026): 3 fotos OFICIALES del catálogo oficial Giottiline 2019 (https://www.camperonline.it/magazine/cataloghi/2019-giottiline.pdf, " +
       "página del Therry T34): salón comedor, cama central posterior y baño. La foto exterior es real del modelo exacto (anuncio de concesionario, sin rótulos " +
-      "ni marcas de agua): el catálogo oficial solo incluye un render ilustrado del exterior, no una foto, así que se mantiene la mejor foto real disponible. " +
+      "ni marcas de agua): el catálogo oficial solo incluye un render ilustrado del exterior, no una foto, así que se mantiene la mejor foto real disponible.  Precio: se deja en null porque el Therry 34 no figura en el listino oficial vigente de Giottiline (colección 2025/2026); sin tarifa oficial vigente verificable para este modelo." +
       "Anchura 232 cm tomada del diagrama de planta del catálogo oficial 2019.",
     curiosidades:
       "El T34 estrenó en la temporada 2020 una distribución inédita en la gama Therry: cama central posterior en solo 6,99 metros, con la zona de baño " +
@@ -116,7 +116,7 @@ Para quién es. La Therry T34 encaja con parejas viajeras que quieren cama centr
     modelo: "Siena 330",
     tipo: "perfilada",
     categoria: "Autocaravana",
-    precioDesde: null, // la marca no publica tarifa oficial para España
+    precioDesde: 58900, // Listino oficial Giottiline, IVA incl.
     potenciaCv: 140, // Citroën Jumper 2.2 BlueHDi 140 CV (camperlife.it); Fiat Ducato 2.3 140 CV en opción
     autonomiaKm: null,
     maleteroL: null,
@@ -147,7 +147,7 @@ Para quién es. La Therry T34 encaja con parejas viajeras que quieren cama centr
     parNm: null,
     traccion: "delantera", // "Trazione: anteriore" en la scheda tecnica (camperlife.it)
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     notas:
       "Medidas 599x232x292 cm y MMA 3.500 kg: exposé técnico caraworld.de de una unidad Siena 330 (cw24971274). " +
       "Scheda tecnica completa (camperlife.it, artículo 'Semintegrale Giottiline Siena 330'): Citroën Jumper 2.2 BlueHDi Euro 6d-temp de 140 CV, " +
@@ -157,7 +157,7 @@ Para quién es. La Therry T34 encaja con parejas viajeras que quieren cama centr
       "4 plazas homologadas, PTAC 3.500 kg y dimensiones 5,99x2,35x2,89 m: anuncio AZUR 72 en annonces-caravaning.com (unidad 2023). " +
       "En null: precio (sin tarifa oficial ES), peso en orden de marcha, consumo y par (sin fuente oficial). " +
       "Fotos (verificación 19/10/2026): 4 fotos de prensa del modelo exacto (se lee '330' en la trasera), sin marcas de agua ni rótulos; no se localizaron " +
-      "fotos oficiales del fabricante para el Siena 330 (el catálogo oficial Giottiline 2019 es anterior al modelo y el catálogo 2020 no está publicado en " +
+      "fotos oficiales del fabricante para el Siena 330 (el catálogo oficial Giottiline 2019 es anterior al modelo y el catálogo 2020 no está publicado en  Precio: PVP de Italia del Listino oficial Giottiline 2025/2026 (septiembre 2025) (precios en euros, IVA incl., franco fábrica), Siena 330 140 CV (acabado Standard) = 58.900 €; no hay tarifa oficial para España." +
       "línea; la web actual de Giottiline ya no incluye el 330 en la gama), así que se mantienen las mejores fotos de prensa disponibles.",
     curiosidades:
       "El Siena 330 fue la apuesta de Giottiline para demostrar que una perfilada de menos de 6 metros podía ofrecer cama matrimonial LONGITUDINAL " +
@@ -172,7 +172,7 @@ La mecánica de referencia es el Citroën Jumper 2.2 BlueHDi de 140 CV con norma
 
 Vivir a bordo del 330 tiene un ritmo propio. Por la mañana, la cama longitudinal permite levantarse sin molestar a quien sigue durmiendo, algo que las camas transversales no perdonan; el box de ducha separado evita el ritual de secar todo el baño después de cada ducha, un detalle que se agradece en viajes de dos semanas. La cocina de dos fuegos con el frigorífico de 142 litros da para cocinar de verdad —no solo calentar—, y el salón delantero con los asientos de cabina giratorios forma un comedor para cuatro sin agobios. Los 100 litros de agua limpia dan autonomía para un par de días sin repostar si se es comedido, y el depósito de grises calefactado del Pack Siena alarga la temporada hacia la primavera temprana y el otoño tardío sin miedo a las heladas nocturnas. En carretera, los 5,99 metros y la batalla de 3,45 metros lo hacen noble en curvas y fácil de aparcar; el Jumper de 140 CV mueve el conjunto con soltura en llano y se defiende en puertos si no se viaja con los depósitos llenos y el garaje a rebosar.
 
-Cómo lo verificamos. La scheda tecnica completa está publicada en camperlife.it ("Semintegrale Giottiline Siena 330, convenienza e molta dotazione di serie"), con mecánica, medidas de camas, capacidades y espesores. Las dimensiones exteriores (599x232x292 cm) y la MMA de 3.500 kg figuran en el exposé técnico de caraworld.de de una unidad Siena 330, y una ficha de concesionario francés (AZUR 72, annonces-caravaning.com) confirma 5,99 m de largo, 3.500 kg de PTAC, 4 plazas y motor 140 CV en una unidad de 2023. Todo se contrastó el 19 de octubre de 2026. Giottiline no publica tarifa oficial para España, así que el precio queda en null.
+Cómo lo verificamos. La scheda tecnica completa está publicada en camperlife.it ("Semintegrale Giottiline Siena 330, convenienza e molta dotazione di serie"), con mecánica, medidas de camas, capacidades y espesores. Las dimensiones exteriores (599x232x292 cm) y la MMA de 3.500 kg figuran en el exposé técnico de caraworld.de de una unidad Siena 330, y una ficha de concesionario francés (AZUR 72, annonces-caravaning.com) confirma 5,99 m de largo, 3.500 kg de PTAC, 4 plazas y motor 140 CV en una unidad de 2023. Todo se contrastó el 19 de octubre de 2026. Giottiline no publica tarifa oficial para España, así que se aplica el Listino oficial de Italia 2025/2026 (58.900 €).
 
 Para quién es. El Siena 330 encaja con parejas que hacen escapadas y vacaciones de una o dos semanas y quieren dormir en una cama longitudinal de verdad en una autocaravana que aparca casi como un furgón grande: menos de seis metros abren puertas en áreas de servicio, parkings y pueblos con calles estrechas. La tercera plaza basculante resuelve viajes con un nieto o un amigo sin penalizar el día a día de dos. No es para familias de cuatro que viajen siempre al completo: con tres plazas para dormir de serie y un salón de cuatro, el cuarto ocupante depende de la conversión opcional del salón. Tampoco para quien priorice la carga útil máxima: con 100+100 litros de agua y una dotación generosa, conviene viajar ligero y vigilar la báscula. Y como en toda la marca, conviene comprobar la red de servicio Giottiline cerca de casa antes de firmar.`,
     pros: [

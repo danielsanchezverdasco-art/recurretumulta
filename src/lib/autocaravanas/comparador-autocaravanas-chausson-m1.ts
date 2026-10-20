@@ -3,8 +3,9 @@
 // del 777 Titanium Line, colección 2027); PDF oficial Titanium (chausson-camping-cars.fr) para la
 // base de la gama; anuncios de concesionarios franceses e italianos para las unidades de la
 // colección 2026 (640 Titanium Line M26). Chausson no publica PVP: su política comercial es
-// negociar el precio en su red de concesionarios; el 640 lleva el precio en «aprox» con nota
-// «precio de tarifa en Francia» y el 777 queda en null.
+// anunciar los precios a través de su red de concesionarios; el 640 lleva el precio en «aprox» con nota
+// «precio de tarifa en Francia» y el 777 lleva el PVP publicado por su red oficial en Francia
+// (70.490 €, pendiente de validación).
 // Correcciones aplicadas: eliminado costeMensual; añadidos descripcion (>=800 palabras, con
 // «Cómo lo verificamos» y «Para quién es»), notas y plazasDormir; analisisSlug actualizado a
 // -analisis-opinion; fotos a -ext.webp/-interior.webp (sin «-oficial»); cargaUtilKg en null
@@ -154,7 +155,7 @@ Para quién es: la Chausson 640 Titanium es para la pareja o la familia pequeña
     modelo: "777 Titanium Line",
     tipo: "perfilada",
     categoria: "Autocaravana",
-    precioDesde: null, // Chausson no publica ningún PVP oficial; se negocia en concesionario
+    precioDesde: 70490, // PVP oficial Francia (red oficial Trigano, ypocamp.fr)
     potenciaCv: 130, // ficha oficial del modelo: chasis Ford 2.0 de 130 CV manual de serie; también disponible Fiat 2.2 de 140 CV (los concesionarios ofrecen 165 CV automático)
     autonomiaKm: null,
     maleteroL: null,
@@ -187,9 +188,9 @@ Para quién es: la Chausson 640 Titanium es para la pareja o la familia pequeña
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["carnetNecesario", "plazas", "plazasDormir"], // «no oficial»: la ficha oficial no publica MMA, plazas ni camas del 777
+    aprox: ["carnetNecesario", "plazas", "plazasDormir", "precioDesde"], // «no oficial»: la ficha oficial no publica MMA, plazas ni camas del 777
     notas:
-      "Dimensiones, chasis y motorizaciones de serie, de la página oficial del modelo en el sitio de exportación de Chausson (colección 2027). El fabricante no publica MMA, peso, plazas, camas ni ningún PVP en esa ficha: esos campos van en «aprox» o en null con nota «dato no oficial · en revisión», con cifras de concesionarios británicos y franceses (4 plazas, 4 camas, 3.500 kg). Chausson no publica precios: se negocian en su red de concesionarios.",
+      "Dimensiones, chasis y motorizaciones de serie, de la página oficial del modelo en el sitio de exportación de Chausson (colección 2027). El fabricante no publica MMA, peso, plazas, camas ni ningún PVP en esa ficha: esos campos van en «aprox» o en null con nota «dato no oficial · en revisión», con cifras de concesionarios británicos y franceses (4 plazas, 4 camas, 3.500 kg). Chausson no publica precios en su web oficial: el precio indicado es el PVP oficial de Francia de la red oficial de concesionarios. Precio: PVP oficial Francia del 777 Titanium Line según la ficha de modelo de la red oficial de concesionarios Trigano (ypocamp.fr), precio base de la tarifa del fabricante; la web oficial de Chausson no publica página del 777 con precio.",
     curiosidades:
       "El 777 es la gran novedad de la colección 2027 de la gama Titanium Line y la propia Chausson lo presenta como «el perfilado de camas gemelas que marca las tendencias del mercado»: combina unas camas gemelas traseras con extensión king-size y un baño central de doble puerta que divide el vehículo en tres zonas independientes. Fuente: web oficial de exportación de Chausson — https://www.motorhomes-chausson.co.uk/line/low-profiles/ y ficha oficial del modelo — https://www.motorhomes-chausson.co.uk/infos/8/797/en",
     descripcion: `Hay modelos que se explican con una cifra, y el Chausson 777 Titanium Line es uno de ellos: siete metros con diecinueve centímetros de perfilada francesa para dormir como en un hotel. Es la novedad grande de la colección 2027 de la serie Titanium Line, la gama de Chausson que concentra sus superventas sobre chasis Ford Transit, y llega con una idea de distribución que lo separa de sus hermanos de gama: en lugar de concentrar la noche en una cama basculante sobre el salón, el 777 reparte el descanso en unas camas gemelas traseras de verdad y un baño central que divide el vehículo en tres zonas independientes. Los alemanes del sector ya lo han bautizado como el «Triple 7».
@@ -202,7 +203,7 @@ El 777 Titanium Line se ofrece con dos chasis a elegir, algo poco común en la s
 
 En la cocina, el frigorífico es de 140 litros, y la calefacción puede pedirse en versión de 4.000 o de 6.000 vatios según el uso invernal previsto. Son detalles que confirman el planteamiento del modelo: una perfilada para viajar todo el año, con la calefacción a gasoil que no depende de las bombonas y el garaje calefactado para el material sensible al frío.
 
-Y llegamos al punto delicado: el precio. Chausson no publica PVP oficial de ningún modelo en ningún país; su política comercial de «justes prix» consiste en negociar cada unidad con su red de unos 165 concesionarios europeos. Para el 777, modelo nuevo de la colección 2027, ni siquiera hay todavía una referencia de lista de concesionario tan documentada como la del 640: el precio se conoce pidiendo oferta. Es una desventaja objetiva frente a marcas como Dethleffs o Ahorn Camp, que publican sus tarifas y permiten comparar sin moverse de casa. A cambio, quien negocie bien puede conseguir condiciones mejores que una tarifa rígida, aunque eso dependa del talento comercial de cada uno y del momento de la temporada.
+Y llegamos al punto delicado: el precio. Chausson no publica PVP oficial en su web: los precios se anuncian a través de su red de concesionarios europeos, y para el 777 la referencia localizada es el PVP publicado por su red oficial en Francia (70.490 €). Para el 777, modelo nuevo de la colección 2027, ni siquiera hay todavía una referencia de lista de concesionario tan documentada como la del 640: el precio se conoce pidiendo oferta. Es una desventaja objetiva frente a marcas como Dethleffs o Ahorn Camp, que publican sus tarifas y permiten comparar sin moverse de casa. A cambio, quien negocie bien puede conseguir condiciones mejores que una tarifa rígida, aunque eso dependa del talento comercial de cada uno y del momento de la temporada.
 
 Tampoco publica Chausson la MMA, el peso en vacío, el número exacto de plazas ni el de camas en la ficha oficial del 777: son los huecos informativos de esta ficha y hay que decirlo con claridad. Los concesionarios británicos anuncian el 777 Titanium Line 2027 como 4 plazas y 4 camas con 3.500 kg de MMA, cifras coherentes con la gama que hemos recogido como «no oficiales». Con 3.500 kg se conduciría con el carnet B, pero conviene confirmarlo en el concesionario antes de firmar, porque la MMA oficial no existe publicada.
 
@@ -220,7 +221,7 @@ Para quién es: el Chausson 777 Titanium Line es para la familia o la pareja que
     ],
     contras: [
       "El fabricante no publica MMA, pesos, plazas ni precio del 777: la ficha completa solo existe en el concesionario",
-      "Sin PVP oficial publicado: imposible comparar la tarifa base sin pedir oferta en varios concesionarios",
+      "Sin PVP oficial publicado en su web: el PVP de referencia (Francia, red oficial) es de 70.490 €; conviene pedir oferta en varios concesionarios",
       "7,19 m de longitud: aparcar y maniobrar exige más que con una perfilada de 6 metros",
       "La cuarta cama (basculante de 140x190) es opcional: sin ella, cuatro a bordo duermen incómodos",
       "Las camas gemelas fijas ocupan toda la trasera: no hay opción de cama isla central en este modelo",

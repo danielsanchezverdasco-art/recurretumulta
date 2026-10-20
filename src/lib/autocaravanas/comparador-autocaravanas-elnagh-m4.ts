@@ -5,7 +5,7 @@
 // w13: elnagh-baron-573. Fuentes: Marquis Leisure (gama Elnagh Baron 2026, importador oficial
 //   UK), elnagh.com/en/gamma/baron-en/, camperis.com (ficha del Baron 573).
 // Verificado el 19/10/2026.
-// Notas honestas w12: precioDesde=null (sin PVP oficial ES); MMA/MRO 3500/2785 kg según
+// Notas honestas w12: precioDesde = Listino oficial Elnagh Italia 2026 (74.490 €, «aprox»; sin PVP oficial ES); MMA/MRO 3500/2785 kg según
 //   concesionarios (la ficha oficial no los publica); cargaUtilKg=null (no publicada).
 // Notas honestas w13: precioDesde=null (sin tarifa oficial ES; en UK Marquis anuncia el
 //   Baron 573 desde £69.995 OTR); cargaUtilKg=550 (máxima publicada por Marquis para el
@@ -19,7 +19,7 @@ export const AUTOCARAVANAS_ELNAGH_M4: Autocaravana[] = [
     modelo: "T-Loft 532",
     tipo: "perfilada",
     categoria: "Autocaravana",
-    precioDesde: null, // Elnagh no publica PVP oficial para España
+    precioDesde: 74490, // Listino oficial Elnagh Italia 2026, IVA incl.
     potenciaCv: 140, // Fiat Ducato 2.2 MJ 140 CV (ficha técnica oficial elnagh.com)
     autonomiaKm: null,
     maleteroL: null,
@@ -50,7 +50,7 @@ export const AUTOCARAVANAS_ELNAGH_M4: Autocaravana[] = [
     parNm: null,
     traccion: null,
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     notas:
       "Modelo SUSTITUIDO: el asignado «elnagh-t-loft-530» es una versión descatalogada (gama " +
       "2013–2019); en la gama 2026 de Elnagh solo existen los T-Loft 529/532/582/591 (catálogo " +
@@ -62,9 +62,9 @@ export const AUTOCARAVANAS_ELNAGH_M4: Autocaravana[] = [
       "(20/120/90 L): ficha técnica oficial elnagh.com (PDF del modelo). MMA (3500 kg) y MRO " +
       "(2785 kg): concesionarios fricamping.dk (unidad 2026, 1.053.000 DKK) y camperis.com " +
       "(ficha del modelo); la marca no los publica en su ficha. Precio: Elnagh no publica PVP " +
-      "para España → precioDesde=null. En null: carga útil (no publicada), consumo, par, " +
+      "para España → se aplica el Listino oficial Elnagh Italia 2026 (74.490 €, «aprox»). En null: carga útil (no publicada), consumo, par, " +
       "tracción y emisiones (no publicados). Fotos: interiores y plano oficiales de elnagh.com; " +
-      "el exterior es la foto de estudio oficial del modelo exacto en elnagh.com (fondo blanco, " +
+      "el exterior es la foto de estudio oficial del modelo exacto en elnagh.com (fondo blanco,  Precio: PVP de Italia del Listino oficial Elnagh Italia 2026 (precios recomendados, IVA 22% incl., válido desde 10/09/2025), T-Loft 532 = 74.490 €; no hay tarifa oficial para España." +
       "insignia «T-LOFT 532», sin marcas de agua ni rótulos).",
     curiosidades:
       "La calefacción de serie del T-Loft 532 no es de gas, sino una Truma Combi Diesel de 4 kW: " +
@@ -169,7 +169,7 @@ export const AUTOCARAVANAS_ELNAGH_M4: Autocaravana[] = [
     modelo: "Baron 573",
     tipo: "perfilada",
     categoria: "Autocaravana",
-    precioDesde: null, // La marca no publica PVP en España; en UK: £69.995 OTR (Marquis)
+    precioDesde: 71380, // Listino oficial Elnagh Italia 2026, IVA incl.
     potenciaCv: 140, // Fiat Ducato 2.2 Multijet 140 CV, cambio manual
     autonomiaKm: null,
     maleteroL: null,
@@ -200,16 +200,16 @@ export const AUTOCARAVANAS_ELNAGH_M4: Autocaravana[] = [
     parNm: null,
     traccion: null,
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     notas:
       "Dimensiones, MMA, plazas, motor y carga útil: Marquis Leisure, gama Elnagh Baron 2026 " +
       "(https://www.marquisleisure.co.uk/elnagh-baron-2026-motorhome-range). Distribución " +
       "(camas gemelas 2×800×2000 mm, cama basculante doble 1230×1030×1900 mm, WC y ducha en " +
       "locales independientes): elnagh.com/en/gamma/baron-en/ y camperis.com. Depósitos " +
       "(agua limpia 100 L, residuales 90 L) y boca de garaje 1150×950 mm: Marquis Leisure. " +
-      "precioDesde=null: Elnagh no publica tarifa oficial en España; Marquis anuncia el " +
+      "precioDesde = Listino oficial Elnagh Italia 2026 (71.380 €, «aprox»): Elnagh no publica tarifa oficial en España; Marquis anuncia el " +
       "Baron 573 desde £69.995 OTR en Reino Unido. cargaUtilKg=550 corresponde al chasis " +
-      "de 3.500 kg con cambio manual (700 kg con el chasis opcional de 3.650 kg). Consumo, " +
+      "de 3.500 kg con cambio manual (700 kg con el chasis opcional de 3.650 kg). Consumo,  Precio: PVP de Italia del Listino oficial Elnagh Italia 2026 (precios recomendados, IVA 22% incl., válido desde 10/09/2025), Baron 573 = 71.380 €; no hay tarifa oficial para España." +
       "autonomía, par y peso en orden de marcha: no publicados por la marca → null.",
     curiosidades:
       "El Baron 573 combina camas gemelas traseras con un aseo articulado que separa el " +
@@ -271,7 +271,7 @@ export const AUTOCARAVANAS_ELNAGH_M4: Autocaravana[] = [
       independientes, cocina en L) se contrastó con elnagh.com/en/gamma/baron-en/ y
       con la ficha del Baron 573 en camperis.com; la curiosidad sobre el aseo
       articulado procede del artículo de CamperOnLine «Anteprime 2020: Elnagh rinnova
-      la gamma Baron» (2019). El precio queda en null porque Elnagh no publica tarifa
+      la gamma Baron» (2019). El precio aplicado es el del Listino oficial Elnagh Italia 2026 (71.380 €, «aprox»), porque Elnagh no publica tarifa
       oficial en España; la referencia de £69.995 OTR corresponde al mercado británico.
 
       Para quién es: el Baron 573 encaja con parejas que viajan con hijos o amigos y

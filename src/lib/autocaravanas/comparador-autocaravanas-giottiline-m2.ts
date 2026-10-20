@@ -11,7 +11,8 @@
 // Giottiline "Tehnicheskij pasport", vía Travel Cars) y del catálogo oficial
 // Giottiline "Collezione 2025" para el Compact C60/CX60 (vía Caravan Salon 2026).
 // Precio 69GC: tarifa oficial en Italia (desde 71.400 €), marcada en `aprox`;
-// Giottiline España no publica PVP. Compact CX60: sin tarifa oficial publicada.
+// Giottiline no publica PVP para España: el Listino oficial de Italia 2025/2026 fija el
+// Compact CX60 en 71.400 € (marcado en «aprox»).
 // 8 fotos webp (4 por ficha) de unidades reales/anuncios del modelo exacto,
 // inspeccionadas visualmente (sin marcas de agua, sin campa, sin rótulos).
 // Curiosidades con fuente en `curiosidades`. noindex lo gestiona Grok al integrar.
@@ -153,7 +154,7 @@ Perfil de comprador: el Toscan 69GC encaja con parejas que buscan su primera per
     modelo: "Compact CX60",
     tipo: "perfilada",
     categoria: "Autocaravana",
-    precioDesde: null, // Giottiline no publica PVP en España ni tarifa oficial para el Compact CX60
+    precioDesde: 71400, // Listino oficial Giottiline, IVA incl.
     potenciaCv: 140, // 2.2 de 140 CV (Citroën Jumper / Peugeot Boxer / Fiat Ducato, según mercado)
     autonomiaKm: null,
     maleteroL: null,
@@ -187,9 +188,9 @@ Perfil de comprador: el Toscan 69GC encaja con parejas que buscan su primera per
     parNm: 350, // 2.2 de 140 CV: 350 Nm (dato oficial Fiat para el Multijet 140)
     traccion: "Delantera", // bases Stellantis, tracción delantera
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     notas:
-      "Giottiline no publica PVP en España ni tarifa oficial para el Compact CX60: el precio final lo fija cada concesionario. En el Reino Unido, la prensa especializada sitúa una unidad equipada con extras y Pack Privilege por debajo de las 66.000 libras. Medidas, pesos, plazas y camas proceden del catálogo oficial Giottiline Collezione 2025 (modelo C60, renombrado CX60 en la gama 2026). La carga útil no está publicada: queda en null y no se calcula.",
+      "Giottiline no publica PVP en España: el precio aplicado es el del Listino oficial de Italia 2025/2026 (71.400 €); el precio final en España lo fija cada concesionario. En el Reino Unido, la prensa especializada sitúa una unidad equipada con extras y Pack Privilege por debajo de las 66.000 libras. Medidas, pesos, plazas y camas proceden del catálogo oficial Giottiline Collezione 2025 (modelo C60, renombrado CX60 en la gama 2026). La carga útil no está publicada: queda en null y no se calcula. Precio: PVP de Italia del Listino oficial Giottiline 2025/2026 (septiembre 2025) (precios en euros, IVA incl., franco fábrica), Compact CX60 140 CV (acabado Standard) = 71.400 €; no hay tarifa oficial para España.",
     descripcion: `El Giottiline Compact CX60 es la respuesta italiana a una pregunta que cada vez se hacen más camperistas: ¿y si una perfilada pudiera ser tan manejable como un furgón? Con 5,99 metros de largo y solo 2,15 metros de ancho, el CX60 es un híbrido entre un furgonato y una perfilada clásica del que toma lo mejor de cada mundo: la scocca de verdad —con su aislamiento y su confort térmico superiores a los de un van— y unas dimensiones que se acercan mucho a las de un furgón, con todo lo que eso supone en agilidad, aparcamiento y peajes. No es casualidad que en 2026 se haya llevado el premio a la mejor autocaravana compacta en los galardones británicos del sector: es, a día de hoy, una de las perfiladas con cama fija más pequeñas que se pueden comprar en Europa.
 
 La distribución es la que manda en este formato: cama doble transversal fija en la parte trasera, sobre un garaje de buen tamaño, y delante una media dinette con los asientos de cabina giratorios. Es el esquema que mejor aprovecha cada centímetro cuando no llegas a los seis metros: la cama siempre hecha, el garaje tragando bicis y sillas, y un salón suficiente para comer cuatro sin agobios. De serie duermen tres —dos en la cama trasera y uno en la dinette—, y la cama basculante eléctrica delantera opcional añade dos plazas más para quien viaje con niños o nietos. La cama de la dinette mide 185x100/65 cm según la ficha oficial.
@@ -202,7 +203,7 @@ Con 5,99 m de largo, 2,15 m de ancho y 2,80 m de alto, el CX60 juega en una liga
 
 Del precio en España no hay cifra oficial: Giottiline no publica PVP. Como referencia, en el Reino Unido una unidad de exposición con extras —cama basculante eléctrica, kit de dinette, horno, calefacción Truma diésel-eléctrica— y Pack Privilege se quedaba por debajo de las 66.000 libras, un precio que la prensa británica calificó de casi increíble para lo que ofrece. En España el precio lo fija cada concesionario.
 
-Verificación de fuentes: medidas (5,99 x 2,15 x 2,80 m), plazas (4 de viaje), camas (2 traseras + 1 en dinette de serie), pesos (2.554 kg en orden de marcha / 3.500 kg MMA), paneles de 52/33/30 mm en fibra de vidrio y bases disponibles (Jumper/Boxer/Ducato) proceden del catálogo oficial Giottiline Collezione 2025 para el C60, renombrado CX60 en la gama 2026 según la web oficial de la marca. El equipamiento detallado y el premio 2026 proceden de la prueba de la prensa británica especializada. Giottiline no publica PVP en España: el precio queda en null. La carga útil no está publicada para este modelo: queda en null y no se calcula. Las fotos corresponden a un Giottiline Compact C60 real (unidad Privilege).
+Verificación de fuentes: medidas (5,99 x 2,15 x 2,80 m), plazas (4 de viaje), camas (2 traseras + 1 en dinette de serie), pesos (2.554 kg en orden de marcha / 3.500 kg MMA), paneles de 52/33/30 mm en fibra de vidrio y bases disponibles (Jumper/Boxer/Ducato) proceden del catálogo oficial Giottiline Collezione 2025 para el C60, renombrado CX60 en la gama 2026 según la web oficial de la marca. El equipamiento detallado y el premio 2026 proceden de la prueba de la prensa británica especializada. Giottiline no publica PVP en España: el precio de referencia es el del Listino oficial de Italia (71.400 €). La carga útil no está publicada para este modelo: queda en null y no se calcula. Las fotos corresponden a un Giottiline Compact C60 real (unidad Privilege).
 
 Perfil de comprador: el Compact CX60 encaja con parejas que vienen del mundo furgoneta y quieren dar el salto a una célula de verdad sin perder manejabilidad, o con quienes aparcan en ciudad y hacen escapadas de fin de semana donde cada centímetro cuenta. No encaja con familias que necesiten cuatro camas fijas ni con quien busque un salón grande para invitar a amigos. Balance: la perfilada compacta más lógica del mercado europeo, premiada en 2026 y con un precio contenido, lastrada únicamente por la falta de tarifa oficial en España.`,
     pros: [

@@ -11,8 +11,8 @@
 // (precio base 69.750 €, Países Bajos).
 // Verificado el 19/10/2026.
 // Notas honestas: McLouis no publica tarifa oficial para España
-// (precioDesde = null; los precios francés y neerlandés citados son de
-// distribuidores extranjeros y no se usan como precio de partida). La
+// (precioDesde = Listino oficial McLouis Italia 2026, 64.750 €, marcado en «aprox»; los precios
+// francés y neerlandés citados son de distribuidores extranjeros y no se usan como precio de partida). La
 // galería oficial del modelo en mclouis.com no incluye foto exterior: la
 // imagen principal es una foto real de una unidad 337 exacta de un
 // distribuidor (sin marca de agua ni rótulos), documentada como no oficial;
@@ -27,7 +27,7 @@ export const AUTOCARAVANAS_MCLOUIS_M5: Autocaravana[] = [
     modelo: "Mc4 Slim 337",
     tipo: "perfilada",
     categoria: "Autocaravana",
-    precioDesde: null, // McLouis no publica tarifa oficial para España
+    precioDesde: 64750, // Listino oficial McLouis Italia 2026, IVA incl.
     potenciaCv: 130, // Ford Transit 2.0 TDI EcoBlue de 130 CV; 165 CV opcional
     autonomiaKm: null,
     maleteroL: null,
@@ -58,9 +58,9 @@ export const AUTOCARAVANAS_MCLOUIS_M5: Autocaravana[] = [
     parNm: null,
     traccion: "delantera", // Ford Transit, tracción delantera
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     notas:
-      "Cotas, plazas, camas, frigorífico y depósitos de la ficha técnica oficial McLouis 2026 del Mc4 Slim 337 (6.390/2.150 mm, 258/204 cm de altura ext./int., 4 plazas, 2(+2) camas, basculante de 190x142 cm, cama de dinette opcional de 201x104(97) cm, frigorífico trivalente automático de 137 l, aguas 20/120/100 l —20 l en marcha—, 2 fogones). Motor Ford Transit 2.0 TDI EcoBlue de 130 CV según la página oficial del modelo (165 CV opcional). MMA 3.500 kg, masa en orden de marcha 2.775 kg y carga útil 725 kg de la lista oficial de precios McLouis 2026 (CZ); la carga útil varía con los opcionales. Precio: McLouis no publica tarifa oficial para España; queda en null. Como referencia extranjera (no contractual): distribuidor francés desde 64.690 € (ypocamp.fr) y neerlandés desde 69.750 € (dicar.nl). Fotos: la galería oficial del modelo no incluye vista exterior; la imagen principal es una fotografía real de una unidad Mc4 Slim 337 de distribuidor (sin marca de agua ni rótulos), documentada como no oficial; interiores y plano de distribución son oficiales de mclouis.com.",
+      "Cotas, plazas, camas, frigorífico y depósitos de la ficha técnica oficial McLouis 2026 del Mc4 Slim 337 (6.390/2.150 mm, 258/204 cm de altura ext./int., 4 plazas, 2(+2) camas, basculante de 190x142 cm, cama de dinette opcional de 201x104(97) cm, frigorífico trivalente automático de 137 l, aguas 20/120/100 l —20 l en marcha—, 2 fogones). Motor Ford Transit 2.0 TDI EcoBlue de 130 CV según la página oficial del modelo (165 CV opcional). MMA 3.500 kg, masa en orden de marcha 2.775 kg y carga útil 725 kg de la lista oficial de precios McLouis 2026 (CZ); la carga útil varía con los opcionales. Precio: McLouis no publica tarifa oficial para España; el precio aplicado es el del Listino oficial McLouis Italia 2026 (64.750 €). Como referencia extranjera (no contractual): distribuidor francés desde 64.690 € (ypocamp.fr) y neerlandés desde 69.750 € (dicar.nl). Fotos: la galería oficial del modelo no incluye vista exterior; la imagen principal es una fotografía real de una unidad Mc4 Slim 337 de distribuidor (sin marca de agua ni rótulos), documentada como no oficial; interiores y plano de distribución son oficiales de mclouis.com. Precio: PVP de Italia del Listino oficial McLouis Italia 2026 (precios recomendados, IVA 22% incl., válido desde 01/09/2025), MC4 Slim 337 = 64.750 €; no hay tarifa oficial para España.",
     curiosidades:
       "McLouis respalda la construcción de sus autocaravanas con 10 años de garantía contra las infiltraciones, una de las más largas del segmento, condicionada al mantenimiento periódico en la red oficial. Fuente: página oficial del modelo Mc4 Slim 337 en mclouis.com (sección de garantía de la marca).",
     descripcion: `El McLouis Mc4 Slim 337 es la respuesta italiana a una pregunta muy española: ¿y si una perfilada de verdad cupiera por las calles de un pueblo? Con 6,39 metros de largo y solo 2,15 de ancho —veinte centímetros menos que una perfilada convencional—, el 337 es el miembro más urbano de la Serie 300 Slim, la familia con la que McLouis ha decidido que lo compacto no tiene por qué ser espartano. Sobre el Ford Transit 2.0 TDI EcoBlue de 130 CV, promete lo que su nombre anuncia: agilidad de furgoneta grande y vida a bordo de autocaravana de verdad.

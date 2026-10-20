@@ -7,7 +7,7 @@
 // Ficha 380: datos del concesionario oficial l'Alba Caravaning (Granollers,
 // Barcelona) para el 380 Break Edition 2025 sobre Ford Transit (7,19 m, 5+6
 // plazas), más exposés de concesionarios alemanes (medidas y pesos).
-// Precio 380: Challenger no publica tarifa oficial en España; precioDesde null.
+// Precio 380: Challenger no publica tarifa oficial en España; precioDesde = PVP oficial Francia (aprox).
 // Fotos: 4 webp por ficha inspeccionadas visualmente (sin marcas de agua).
 // Curiosidades con fuente en `curiosidades`. noindex lo gestiona Grok al integrar.
 import type { Autocaravana } from "./tipos.ts";
@@ -148,7 +148,7 @@ Perfil de comprador: el 270 encaja con parejas —con o sin hijos pequeños— q
     modelo: "380",
     tipo: "perfilada",
     categoria: "Autocaravana",
-    precioDesde: null, // Challenger no publica tarifa oficial en España; sin cifra de tarifa de otro país verificable
+    precioDesde: 69990, // PVP oficial Francia (challenger-camping-cars.fr, JSON-LD)
     potenciaCv: 130, // Ford Transit 2.0 diésel de 130 CV (de serie; 165 CV con automático, opcional)
     autonomiaKm: null,
     maleteroL: null,
@@ -182,9 +182,9 @@ Perfil de comprador: el 270 encaja con parejas —con o sin hijos pequeños— q
     parNm: 385, // Ford Transit 2.0 EcoBlue 130 CV: 385 Nm (dato oficial Ford)
     traccion: "Delantera", // Ford Transit, tracción delantera
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     notas:
-      "Challenger no publica una tarifa oficial única en España y no se ha localizado una tarifa oficial de otro país con cifra específica para el 380, así que precioDesde queda en null: cada concesionario fija su precio (como referencia no oficial, un concesionario alemán anunciaba una unidad nueva del 380 Break Edition 2025 por 63.990 €). Medidas (7,19 x 2,35 x 2,92 m), plazas (5 de viaje / 6 para dormir), motor Ford Transit 2.0 de 130 CV y equipamiento proceden del concesionario oficial l'Alba Caravaning (Granollers, Barcelona) y de exposés de concesionarios europeos del modelo 2025. La masa en orden de marcha y la carga útil de esta versión no están publicadas: quedan en null y no se calculan. Las fotos corresponden a un Challenger 380 Break Edition 2025 real en stock en España.",
+      "Challenger no publica tarifa oficial para España; el precio desde indicado es el PVP oficial de Francia publicado en la web oficial del modelo (ver la nota de precio al final de estas notas). Medidas (7,19 x 2,35 x 2,92 m), plazas (5 de viaje / 6 para dormir), motor Ford Transit 2.0 de 130 CV y equipamiento proceden del concesionario oficial l'Alba Caravaning (Granollers, Barcelona) y de exposés de concesionarios europeos del modelo 2025. La masa en orden de marcha y la carga útil de esta versión no están publicadas: quedan en null y no se calculan. Las fotos corresponden a un Challenger 380 Break Edition 2025 real en stock en España. Precio: PVP oficial Francia de la página oficial del modelo (challenger-camping-cars.fr, datos estructurados JSON-LD); no hay tarifa oficial para España.",
     descripcion: `La Challenger 380 es la respuesta de la marca francesa a una pregunta que muchas familias se hacen en el concesionario: ¿y si una perfilada pudiera dormir a seis sin convertirse en un autobús? Con 7,19 metros de largo, la 380 combina el salón XXL con banquetas enfrentadas que hizo famoso al superventas 260 con una zona de noche trasera de literas modulables, y lo remata con una cama basculante eléctrica sobre el salón. El resultado son cinco plazas de viaje homologadas y hasta seis para dormir, con dos ambientes de noche diferenciados: una combinación que, según la propia red comercial de la marca, no tiene equivalente en el mercado.
 
 El corazón de la 380 es su salón «face to face». Las banquetas enfrentadas crean una zona de día amplia y luminosa donde cinco personas viajan con cinturón y donde se come, se juega y se conversa sin estrecheces. De noche, ese mismo salón se transforma: la cama basculante desciende eléctricamente del techo y deja una superficie de unos 160 x 190 cm sin necesidad de desmontar ningún mueble. Es el sistema que Challenger lleva años perfeccionando y que aquí funciona como dormitorio principal para la pareja, mientras los niños o los invitados ocupan la parte trasera.

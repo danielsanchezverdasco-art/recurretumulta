@@ -7,7 +7,8 @@
 // NOTA DE SUSTITUCIÓN: el layout asignado "Charisma 890 M" pertenece a la generación anterior
 // (Charisma III) y no figura en la gama oficial actual (910 LI, 910 LSI, 915 LSI, 920 G...).
 // Se sustituye por el Concorde Charisma 910 LI, layout vigente y documentado oficialmente.
-// Notas honestas: Concorde no publica PVP (precio en null); la longitud exacta del 910 LI no se
+// Notas honestas: Concorde publica su tarifa en el Listino Prezzi oficial para Italia (el Charisma
+// 910 LI parte de 308.450 €); la longitud exacta del 910 LI no se
 // publica en concorde.eu (rango de gama 8,77–9,27 m); la altura total no está publicada.
 import type { Autocaravana } from "./tipos.ts";
 
@@ -18,7 +19,7 @@ export const AUTOCARAVANAS_CONCORDE_M3: Autocaravana[] = [
     modelo: "Charisma 910 LI",
     tipo: "integral",
     categoria: "Autocaravana",
-    precioDesde: null, // Concorde no publica PVP; solo listas de precios para concesionarios
+    precioDesde: 308450, // Listino oficial Concorde Italia 2026 (PDF del fabricante)
     potenciaCv: 207, // Iveco Daily C21: 152 kW, Euro VI E (listados técnicos oficiales de la gama)
     autonomiaKm: null,
     maleteroL: null,
@@ -49,7 +50,7 @@ export const AUTOCARAVANAS_CONCORDE_M3: Autocaravana[] = [
     parNm: 470, // Iveco Daily C21 3.0 (listados técnicos)
     traccion: "trasera", // Iveco Daily: propulsión trasera
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     notas:
       "Datos de la página oficial de la gama Charisma (concorde.eu), del concesionario oficial " +
       "Schaffer-Mobil y de las fichas técnicas del chasis publicadas en listados de la gama, verificados " +
@@ -57,8 +58,8 @@ export const AUTOCARAVANAS_CONCORDE_M3: Autocaravana[] = [
       "anterior (Charisma III) que ya no figura en la gama oficial actual (910 LI, 910 LSI, 915 LSI, 920 G); " +
       "se sustituye por el Charisma 910 LI, vigente y documentado. Chasis Iveco Daily 70C: motor C21 3.0 de " +
       "152 kW (207 CV) y 470 Nm, cambio automático ZF de 8 relaciones, MMA 7.490 kg. Concorde no publica " +
-      "precios (precioDesde en null); la longitud exacta del layout 910 LI no se publica en la web oficial " +
-      "(rango de la gama 8,77–9,27 m) y queda en null, igual que la altura, la carga útil, el consumo y las " +
+      "precios (el PVP aplicado, 308.450 €, es el del Listino Prezzi oficial Concorde 2026 para Italia); la longitud exacta del layout 910 LI no se publica en la web oficial " +
+      "(rango de la gama 8,77–9,27 m) y queda en null, igual que la altura, la carga útil, el consumo y las  Precio: precio del Charisma 910 LI en el Listino Prezzi oficial de Concorde 2026 para Italia (PDF del fabricante, válido desde 01/07/2025), 308.450 € con IVA italiana del 22% incluida; no hay tarifa oficial para España." +
       "emisiones. Carnet C1 obligatorio.",
     curiosidades:
       "El Charisma lleva de serie suelo radiante en dos zonas independientes: el salón y el baño se calientan " +
@@ -68,8 +69,8 @@ export const AUTOCARAVANAS_CONCORDE_M3: Autocaravana[] = [
 manufactura de Schlüsselfeld-Aschbach lleva décadas definiendo lo que significa viajar en una integral
 de lujo de verdad. El layout 910 LI —unos 9,1 metros sobre chasis Iveco Daily 70C— combina el salón
 delantero con camas gemelas traseras y el baño de ancho completo que es seña de identidad de la casa.
-Con 7.490 kg de MMA exige el carnet C1, y Concorde no publica precios oficiales: cada unidad se
-configura a medida y la tarifa solo existe en el concesionario, donde un Charisma equipado se mueve
+Con 7.490 kg de MMA exige el carnet C1, y Concorde publica su tarifa en el Listino Prezzi oficial para Italia (el Charisma 910 LI parte de 308.450 €): cada unidad se
+configura a medida y un Charisma equipado se mueve
 habitualmente muy por encima de los 400.000 euros.
 
 La base es el Iveco Daily 70C con el motor C21 de 3,0 litros, 152 kW (207 CV) y 470 Nm, unido al

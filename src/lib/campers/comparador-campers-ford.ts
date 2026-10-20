@@ -11,7 +11,7 @@ export const CAMPERS_FORD: CocheComparador[] = [
     modelo: "Nugget Trail",
     tipo: "Diésel",
     categoria: "Camper",
-    precioDesde: null,
+    precioDesde: null, // null documentado: el acabado Trail corresponde a la generación anterior del Ford Transit Custom Nugget, ya descatalogada: la gama oficial vigente (listino oficial Ford 2026) solo incluye los acabados Titanium y Active; sin tarifa oficial actual del Trail.
     potenciaCv: 170,
     autonomiaKm: null,
     maleteroL: null,
@@ -111,7 +111,7 @@ export const CAMPERS_FORD: CocheComparador[] = [
     modelo: "Nugget Active",
     tipo: "Diésel",
     categoria: "Camper",
-    precioDesde: null,
+    precioDesde: 71988, // precio «desde» oficial del acabado Active publicado por Ford en la página oficial del Transit Custom Nugget en ford.fr (71.988 €, Francia, octubre de 2026); Ford España no publica tarifa abierta del Nugget en su web.
     potenciaCv: 170,
     autonomiaKm: null,
     maleteroL: null,
@@ -140,7 +140,7 @@ export const CAMPERS_FORD: CocheComparador[] = [
     parNm: 405,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["largoMm", "anchoMm", "altoMm", "parNm"],
+    aprox: ["precioDesde", "largoMm", "anchoMm", "altoMm", "parNm"],
     pros: [
       "Acabado Active con detalles exclusivos: la Nugget más equipada de la gama",
       "Motor 2.0 EcoBlue de 170 CV: el más potente de la gama Nugget",

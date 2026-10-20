@@ -4,9 +4,9 @@
 // caraworld para el Kosmo H 1319 y para el Kreos H 5109: dimensiones, pesos, camas,
 // equipamiento), prensa especializada (campingcarlesite.com, artículo sobre el nuevo
 // Kreos H 5109 MB; alpacacamping.de, resumen de la gama). Verificado el 19/10/2026.
-// Notas honestas: Laika no publica tarifa oficial de precios para España;
-// precioDesde queda en null en ambos modelos (se citan como referencia los precios
-// publicados por prensa/distribuidores europeos, no oficiales ES). cargaUtilKg,
+// Notas honestas: Laika publica sus precios en su documento oficial de precios públicos 2026
+// (edición francesa; sin tarifa para España): precioDesde = precio oficial (marcado en «aprox»;
+// Kosmo H 1319 91.287 €, Kreos H 5109 181.667 €). cargaUtilKg,
 // consumos y emisiones no figuran en las fuentes consultadas y quedan en null.
 // La tracción no se declara expresamente en las fichas consultadas.
 import type { Autocaravana } from "./tipos.ts";
@@ -18,7 +18,7 @@ export const AUTOCARAVANAS_LAIKA_M3: Autocaravana[] = [
     modelo: "Kosmo H 1319",
     tipo: "integral",
     categoria: "Autocaravana",
-    precioDesde: null, // Laika no publica tarifa oficial en España
+    precioDesde: 91287, // Precios públicos oficiales Laika 2026 (ed. francesa).
     potenciaCv: 140, // Fiat Ducato 2.2 de 103 kW; opcional 180 CV
     autonomiaKm: null,
     maleteroL: null,
@@ -49,9 +49,9 @@ export const AUTOCARAVANAS_LAIKA_M3: Autocaravana[] = [
     parNm: null,
     traccion: null, // no declarada expresamente en la ficha consultada
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     notas:
-      "Modelo verificado en la gama oficial Kosmo de Laika (laika.it) y en ficha técnica detallada de distribuidor (caraworld): integral de 6.950x2.320x2.950 mm, Fiat Ducato 2.2 de 103 kW/140 CV con cambio manual (opcional 180 CV y automático), MMA de 3.500 kg (opcional 4.400 kg), 4 plazas de viaje y 4 camas (gemelas traseras + abatible de 193x150 cm), calefacción Truma Combi 6 E, frigorífico de 136 l y depósitos de 110/90 l. Quedan en null: precio oficial ES (Laika no publica tarifa), masa en orden de marcha, carga útil, consumo y emisiones.",
+      "Modelo verificado en la gama oficial Kosmo de Laika (laika.it) y en ficha técnica detallada de distribuidor (caraworld): integral de 6.950x2.320x2.950 mm, Fiat Ducato 2.2 de 103 kW/140 CV con cambio manual (opcional 180 CV y automático), MMA de 3.500 kg (opcional 4.400 kg), 4 plazas de viaje y 4 camas (gemelas traseras + abatible de 193x150 cm), calefacción Truma Combi 6 E, frigorífico de 136 l y depósitos de 110/90 l. Quedan en null: precio oficial ES (Laika no publica tarifa), masa en orden de marcha, carga útil, consumo y emisiones. Precio: precio público del documento oficial de precios públicos y datos técnicos de Laika 2026 (válido desde 01/08/2025), Kosmo H 1319 = 91.287 €; no hay tarifa oficial para España.",
     curiosidades:
       "Con solo 6,95 m de longitud, el Kosmo H 1319 homologa 4 plazas para dormir combinando las camas gemelas traseras (200x80 y 195x80 cm) con una cama abatible de 193x150 cm sobre el salón (fuente: ficha técnica de distribuidor, https://caraworld.hst.edition-software.de/fm/e/021/777/788/cw21777788-de-DE1-expose.pdf).",
     descripcion: `El Laika Kosmo H 1319 es la integral de acceso de la marca toscana, y probablemente la forma más asequible de entrar en el mundo de las integrales europeas con un producto serio. La letra H de su nombre indica lo esencial: es una integral pura, con el parabrisas panorámico y la cabina totalmente integrada en la célula, no una perfilada. Y el 1319 resume su propuesta: una integral de menos de siete metros capaz de dormir a cuatro personas sin renunciar a un dormitorio trasero de verdad. En un mercado donde las integrales suelen dispararse de precio y de tamaño, el Kosmo H juega la carta del equilibrio.
@@ -62,9 +62,9 @@ La distribución es el punto fuerte del 1319. Atrás, dos camas gemelas longitud
 
 En tecnología y equipamiento, el Kosmo H 1319 monta calefacción Truma Combi 6 E —la versión con resistencias eléctricas además del gas—, depósito de agua limpia de 110 litros y de grises de 90, preinstalación de TV a 12 V con soporte, 4 enchufes de 230 V, 4 USB y uno de 12 V. Los paquetes opcionales permiten escalar: el Pack Chassis Pro añade freno de estacionamiento eléctrico, TPMS, climatizador automático, carga inductiva para el móvil y cuadro digital de 7 pulgadas con faros Full LED; el Pack Multimedia suma el sistema de 9 pulgadas con DAB, Apple CarPlay, Android Auto y cámara trasera; y hay preinstalación solar de 120 W con regulador para quien busque autonomía. Todo ello con la construcción típica de Laika: paredes con aislamiento, muebles con herrajes pensados para durar y la prueba de estanqueidad que la marca aplica al 100% de sus vehículos.
 
-En precio y red comercial en España, la honestidad es obligada: Laika no publica tarifa oficial de precios, así que el precio queda en null. Como referencia de mercado —no oficial—, en Italia se anuncian unidades nuevas del año-modelo 2025-2026 en el entorno de los 80.000-90.000 € según equipamiento, y en España la marca se comercializa a través de su red de distribuidores oficiales, donde el presupuesto se cierra por configuración. Es, en cualquier caso, una de las integrales más accesibles del mercado europeo, claramente por debajo de las gamas Ecovip y Kreos de la propia marca.
+En precio y red comercial en España, la honestidad es obligada: Laika publica sus precios en su documento oficial de precios públicos 2026 (edición francesa): el Kosmo H 1319 parte de 91.287 €; no hay tarifa oficial para España. Como referencia de mercado —no oficial—, en Italia se anuncian unidades nuevas del año-modelo 2025-2026 en el entorno de los 80.000-90.000 € según equipamiento, y en España la marca se comercializa a través de su red de distribuidores oficiales, donde el presupuesto se cierra por configuración. Es, en cualquier caso, una de las integrales más accesibles del mercado europeo, claramente por debajo de las gamas Ecovip y Kreos de la propia marca.
 
-Cómo lo verificamos: la existencia del modelo y su encuadre en la gama Kosmo se verificó en la web oficial de Laika (laika.it); los datos técnicos —dimensiones, motor, pesos, camas, calefacción, frigorífico, depósitos y equipamiento de los paquetes— proceden de la ficha técnica detallada publicada por un distribuidor (documento de exposición caraworld del Kosmo H 1319), contrastada con anuncios de unidades nuevas del año-modelo 2025-2026. Todo verificado el 19/10/2026. Lo que la marca no publica —precio oficial, masa en orden de marcha exacta, carga útil— queda en null y así se declara.
+Cómo lo verificamos: la existencia del modelo y su encuadre en la gama Kosmo se verificó en la web oficial de Laika (laika.it); los datos técnicos —dimensiones, motor, pesos, camas, calefacción, frigorífico, depósitos y equipamiento de los paquetes— proceden de la ficha técnica detallada publicada por un distribuidor (documento de exposición caraworld del Kosmo H 1319), contrastada con anuncios de unidades nuevas del año-modelo 2025-2026. Todo verificado el 19/10/2026. Lo que la marca no publica —masa en orden de marcha exacta y carga útil— queda en null y así se declara; el precio aplicado es el de su documento oficial de precios públicos 2026.
 
 Para quién es: ideal para parejas o familias de cuatro que quieren una integral de verdad —parabrisas panorámico, presencia, habitabilidad— sin subir a los 7,5-8 metros ni a los precios de las gamas altas, y sin sacarse el carnet C1. También para quien valora la red de servicio del Fiat Ducato y un equipamiento opcional escalable. No es para quien necesite cinco o seis plazas, ni para quien busque el lujo de materiales de una Kreos, ni para viajeros que prioricen la carga útil máxima sin mirar la báscula: con 3.500 kg de MMA y cuatro ocupantes, el equipaje hay que calcularlo.`,
     pros: [
@@ -103,7 +103,7 @@ Para quién es: ideal para parejas o familias de cuatro que quieren una integral
     modelo: "Kreos H 5109",
     tipo: "integral",
     categoria: "Autocaravana",
-    precioDesde: null, // Laika no publica tarifa oficial en España
+    precioDesde: 181667, // Precios públicos oficiales Laika 2026 (ed. francesa).
     potenciaCv: 180, // Fiat Ducato 2.2 de 132 kW; existe versión H 5109 MB sobre Mercedes Sprinter de 170 CV
     autonomiaKm: null,
     maleteroL: null,
@@ -134,7 +134,7 @@ Para quién es: ideal para parejas o familias de cuatro que quieren una integral
     parNm: null,
     traccion: null, // no declarada expresamente en la ficha consultada
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     notas:
       "Modelo contrastado en la web oficial de Laika (laika.it, página del Kreos H 5109 " +
       "en la gama Kreos) y en la ficha técnica pormenorizada de un distribuidor " +
@@ -144,7 +144,7 @@ Para quién es: ideal para parejas o familias de cuatro que quieren una integral
       "de 195x140), calefacción de agua caliente, doble suelo calefactado, chasis " +
       "AL-KO AMC, frigorífico de 153 l y depósitos de 200/146 l. En julio de 2026 " +
       "Laika sumó además la variante H 5109 MB con Mercedes Sprinter de 170 CV. En " +
-      "null: precio oficial en España (Laika no publica tarifa), carga útil, consumo " +
+      "null: precio oficial en España (Laika no publica tarifa), carga útil, consumo  Precio: precio público del documento oficial de precios públicos y datos técnicos de Laika 2026 (válido desde 01/08/2025), Kreos H 5109 = 181.667 €; no hay tarifa oficial para España." +
       "y emisiones.",
     curiosidades:
       "En julio de 2026 Laika desveló el Kreos H 5109 MB, la primera variante de la " +

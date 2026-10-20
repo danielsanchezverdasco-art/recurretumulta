@@ -9,7 +9,7 @@ export const AUTOCARAVANAS_MOBILVETTA_M2: Autocaravana[] = [
     modelo: "Kea P 86",
     tipo: "perfilada",
     categoria: "Autocaravana",
-    precioDesde: null, // Mobilvetta no publica PVP oficial; no inventar («no publicado»)
+    precioDesde: 92220, // Listino oficial Mobilvetta Italia 2026, IVA incl.
     potenciaCv: 140, // 2.2 Multijet; ficha oficial mobilvetta.it
     autonomiaKm: null,
     maleteroL: null,
@@ -44,9 +44,9 @@ export const AUTOCARAVANAS_MOBILVETTA_M2: Autocaravana[] = [
     parNm: null,
     traccion: null, // no publicada por el fabricante
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     notas:
-      "Dimensiones (7.470/2.350/2.950 mm), motor (2.2 Multijet de 140 CV), 4 plazas homologadas, camas gemelas de 205×80 y 200,5×80 cm, cama basculante de 190×128(107) cm, cama componible opcional en la dinette de 216×98,6 cm, garaje de 117×87(72)/119,5 cm, frigorífico de absorción de 145 l y calefacción Combi a gas de 6 kW, de la ficha oficial de mobilvetta.it, verificados con fichas coincidentes de concesionarios. Mobilvetta no publica PVP, MMA ni masa en orden de marcha: esos campos quedan en null sin inventar cifras («no publicado»).",
+      "Dimensiones (7.470/2.350/2.950 mm), motor (2.2 Multijet de 140 CV), 4 plazas homologadas, camas gemelas de 205×80 y 200,5×80 cm, cama basculante de 190×128(107) cm, cama componible opcional en la dinette de 216×98,6 cm, garaje de 117×87(72)/119,5 cm, frigorífico de absorción de 145 l y calefacción Combi a gas de 6 kW, de la ficha oficial de mobilvetta.it, verificados con fichas coincidentes de concesionarios. Mobilvetta no publica PVP para España, MMA ni masa en orden de marcha: MMA y masa quedan en null sin inventar cifras («no publicado»). Precio: PVP de Italia del Listino oficial Mobilvetta Italia 2026 (precios recomendados, IVA 22% incl., válido desde 01/09/2025), Kea P86 = 92.220 €; no hay tarifa oficial para España.",
     descripcion: `Mobilvetta es una de las marcas históricas del caravaning italiano, con fábrica en la Toscana y una reputación construida a base de interiores elegantes y construcción sólida. La gama Kea es su propuesta más accesible, pensada para quienes quieren estrenar autocaravana italiana sin asaltar el banco, y el Kea P 86 es su perfilada de camas gemelas: 7,47 metros de eslora, cuatro plazas homologadas y una zona de noche trasera que es, sencillamente, una de las más cómodas de su categoría de precio.
 
     Las camas gemelas del P 86 merecen describirse con números porque ahí está la diferencia: 205×80 centímetros una y 200,5×80 la otra. Son camas de adulto de verdad, largas y anchas, separadas por el pasillo central que comunica con el baño trasero. Quien haya dormido en camas gemelas de perfilada sabe que hay dos mundos: el de las camas "de compromiso", donde los pies tocan el armario, y el de las camas donde se duerme como en casa. Las del Kea P 86 pertenecen al segundo. A eso se suma la cama basculante delantera de 190×128 (107) centímetros, que convierte el vehículo en un cuatro plazas dormitorio completo, y la posibilidad de componer una cama adicional en la dinette (216×98,6 cm) para esa quinta plaza ocasional que toda familia agradece tener en la recámara.
@@ -59,7 +59,7 @@ export const AUTOCARAVANAS_MOBILVETTA_M2: Autocaravana[] = [
 
     El punto delicado, como en otras italianas, es la información oficial: Mobilvetta no publica en su web el PVP, la MMA ni la masa en orden de marcha del Kea P 86. Eso obliga a la prudencia: no hay cifra de precio que trasladar a la ficha sin inventar, y la ficha queda con esos campos en null. En la práctica, el Kea se posiciona en la franja media del mercado de perfiladas nuevas, y el consejo es el de siempre con las marcas que no publican tarifa: pedir presupuesto cerrado a dos o tres concesionarios oficiales con la misma configuración y comparar el equipamiento incluido, porque ahí —en los packs, la basculante, los extras de cabina— es donde se juega el precio final.
 
-    Cómo lo verificamos: las dimensiones (7.470 × 2.350 × 2.950 mm), el motor 2.2 Multijet de 140 CV, las 4 plazas, las medidas de las camas gemelas (205×80 y 200,5×80 cm), la basculante (190×128(107) cm), la cama componible opcional de la dinette (216×98,6 cm), las medidas del garaje, el frigorífico de absorción de 145 l y la calefacción Combi a gas de 6 kW proceden de la ficha oficial del modelo en mobilvetta.it, verificados con fichas coincidentes de concesionarios europeos. Mobilvetta no publica PVP, MMA ni masa en orden de marcha: esos campos quedan en null sin inventar cifras.
+    Cómo lo verificamos: las dimensiones (7.470 × 2.350 × 2.950 mm), el motor 2.2 Multijet de 140 CV, las 4 plazas, las medidas de las camas gemelas (205×80 y 200,5×80 cm), la basculante (190×128(107) cm), la cama componible opcional de la dinette (216×98,6 cm), las medidas del garaje, el frigorífico de absorción de 145 l y la calefacción Combi a gas de 6 kW proceden de la ficha oficial del modelo en mobilvetta.it, verificados con fichas coincidentes de concesionarios europeos. Mobilvetta no publica MMA ni masa en orden de marcha: esos campos quedan en null sin inventar cifras.
 
     Para quién es: para la pareja o la familia pequeña que prioriza dormir bien —camas gemelas grandes de verdad— y cargar mucho —garaje generoso—; para quien quiere estrenar italiana con construcción toscana sin pagar la prima de las gamas altas; y para viajeros que valoran la autonomía del frigorífico de absorción y la sencillez fiable del 2.2 Multijet. No es la perfilada con más tecnología ni la más barata del mercado: es la de las camas grandes y el garaje honesto, y para mucha gente eso es exactamente lo que necesita una autocaravana.`,
     pros: [
@@ -70,7 +70,7 @@ export const AUTOCARAVANAS_MOBILVETTA_M2: Autocaravana[] = [
       "Basculante + dinette componible opcional: hasta 5 plazas de noche",
     ],
     contras: [
-      "Sin PVP oficial publicado: el precio depende de cada concesionario",
+      "Sin PVP oficial para España: el precio de referencia es el Listino oficial de Italia (92.220 €)",
       "MMA y masa en orden de marcha no publicadas por la marca",
       "La cama componible de la dinette es opcional",
       "140 CV sin alardes para los que viajan siempre a tope de carga",

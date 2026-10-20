@@ -4,9 +4,10 @@
 // TruckScout24/Caraworld con datos de fabricante), ficha técnica del L!VE I 700 MEG modelo 2026
 // (Caraworld, con datos de catálogo Knaus: 7.510 x 2.320 x 2.790 mm, Ducato 2.2 180 CV).
 // Verificado el 19/10/2026.
-// Notas honestas: Knaus no publica PVP oficial para España → precioDesde null en ambos (se citan
-// como referencia el precio de catálogo del configurador y los precios de lista de concesionarios
-// alemanes). La altura del Boxdrive varía entre 2.971 y 3.200 mm según configuración en las fichas
+// Notas honestas: Knaus publica su Preisliste oficial (MJ2027-1, EUR IVA 19% incl.; sin tarifa para
+// España): precioDesde del L!VE I 700 MEG = Grundpreis oficial (87.530 €, «aprox»); el BoxDrive 600 XL
+// queda en null (descatalogado). Se citan como referencia el precio de catálogo del configurador y
+// los precios de lista de concesionarios alemanes. La altura del Boxdrive varía entre 2.971 y 3.200 mm según configuración en las fichas
 // de la red; se adopta 3.200 mm (valor más repetido) con la variación declarada. La tara exacta
 // depende del equipamiento → pesoKg null; la carga útil no la publica la marca como cifra de
 // catálogo → cargaUtilKg null. Consumo y emisiones → null.
@@ -53,7 +54,7 @@ export const AUTOCARAVANAS_KNAUS_M4: Autocaravana[] = [
     emisionesCo2: null,
     aprox: [],
     notas:
-      "Procedencia de los datos: 5.986 x 2.040 x 3.200 mm, MMA 3.500 kg, base MAN TGE 35, motor 2.0 TDI " +
+      "Procedencia de los datos: 5.986 x 2.040 x 3.200 mm, MMA 3.500 kg, base MAN TGE 35, motor 2.0 TDI  Precio: se deja en null porque el BoxDrive (MAN TGE) está descatalogado y no consta Grundpreis EUR en la lista oficial vigente de Knaus (sustituido); la única referencia oficial localizada es el configurador Knaus UK en GBP, no convertible a tarifa EUR." +
       "de 120 kW/163 CV (opcional 130 kW/177 CV), cambio automático de 8 velocidades, 4 plazas de viaje " +
       "y 4 de noche según fichas de catálogo de la red de distribución (AlpaCamping, TruckScout24, " +
       "Caraworld) y ficha de configuración oficial del configurador de knaus.com (modelo 2025). Camas: " +
@@ -164,7 +165,7 @@ autocaravanas con garaje pasante.`,
     modelo: "Live I 700 MEG",
     tipo: "integral",
     categoria: "Autocaravana",
-    precioDesde: null, // Knaus no publica PVP oficial ES; ref. lista DE 2026: 114.753 € con extras
+    precioDesde: 87530, // Preisliste oficial Knaus MJ2027-1, EUR IVA 19% incl.
     potenciaCv: 180, // fichas de catálogo de la red: Fiat Ducato de 180 CV en la variante alta
     autonomiaKm: null,
     maleteroL: null,
@@ -195,9 +196,9 @@ autocaravanas con garaje pasante.`,
     parNm: null,
     traccion: "delantera", // base Fiat Ducato de tracción delantera (fichas de catálogo)
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     notas:
-      "Procedencia de los datos: 7.510 x 2.320 x 2.790 mm, altura interior 200 cm, batalla 403 cm, " +
+      "Procedencia de los datos: 7.510 x 2.320 x 2.790 mm, altura interior 200 cm, batalla 403 cm,  Precio: Grundpreis de la Preisliste oficial de Knaus Tabbert, año modelo 2027-1, L!VE I 700 MEG, en EUR con IVA alemán del 19% incluido; no hay tarifa oficial para España." +
       "MMA 4.000 kg (ampliable a 4.400 kg), base Fiat Ducato 2.2 l Multijet de 132 kW/180 CV Euro 6e " +
       "(también disponible 103 kW/140 CV), cambio automático de 8 velocidades con convertidor en " +
       "opción, 4 plazas de viaje y 4 de noche según fichas técnicas de catálogo 2026 de la red de " +

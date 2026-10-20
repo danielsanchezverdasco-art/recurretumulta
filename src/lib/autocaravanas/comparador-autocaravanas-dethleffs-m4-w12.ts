@@ -4,8 +4,8 @@
 // (1library.co), anuncios de concesionario. Verificado el 19/10/2026.
 // Fuentes Globebus I 6: página oficial dethleffs.es del Globebus Active I 6 (precio ES oficial
 // 86.690 € IVA incl.), anuncios de concesionario. Verificado el 19/10/2026.
-// Notas honestas: Dethleffs no publica PVP para España del Esprit (solo tarifa suiza en CHF)
-// → precioDesde=null en el DBL. La marca no publica carga útil → cargaUtilKg=null en ambos.
+// Notas honestas: Dethleffs no publica PVP para España del Esprit; precioDesde del DBL =
+// Preisliste oficial Dethleffs «Wohnmobile 2025» (133.299 €, marcada en «aprox»). La marca no publica carga útil → cargaUtilKg=null en ambos.
 // Las 8 fotos son oficiales de la marca (mediateca Dethleffs: freisteller, highlights y galería).
 import type { Autocaravana } from "./tipos.ts";
 
@@ -16,7 +16,7 @@ export const AUTOCARAVANAS_DETHLEFFS_M4: Autocaravana[] = [
     modelo: "Esprit I 7150-2 DBL",
     tipo: "integral",
     categoria: "Autocaravana",
-    precioDesde: null, // Dethleffs no publica PVP para España; tarifa oficial Suiza 2026: 129.990 CHF (IVA incl.)
+    precioDesde: 133299, // Preisliste oficial Dethleffs 2025 (Alemania), IVA incl.
     potenciaCv: 180, // Fiat Ducato Maxi AL-KO 180 MultiJet 3 Power, 132 kW (lista oficial CH 2026)
     autonomiaKm: null,
     maleteroL: null,
@@ -47,7 +47,7 @@ export const AUTOCARAVANAS_DETHLEFFS_M4: Autocaravana[] = [
     parNm: null,
     traccion: null,
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     notas:
       "Dimensiones (779/232/298 cm), altura interior (205 cm), batalla (4500 mm), remolque " +
       "(1750/750 kg), camas (abatible 200×150; isla trasera 200×160; transformación salón " +
@@ -57,9 +57,9 @@ export const AUTOCARAVANAS_DETHLEFFS_M4: Autocaravana[] = [
       "precio Suiza (129.990 CHF IVA incl.): lista oficial de precios Dethleffs Suiza 2026 (PDF " +
       "oficial del grupo Erwin Hymer). Distribución DBL (salón enfrentado + cama isla) y medidas " +
       "generales de la gama: nota de prensa oficial de Dethleffs. Precio: no hay PVP oficial para " +
-      "España → precioDesde=null (referencia: 129.990 CHF en Suiza; unidades nuevas en Alemania " +
-      "anunciadas en torno a 149.900 €). En null: carga útil (no publicada), consumo, par, " +
-      "tracción y emisiones (no publicados). Fotos: las 4 son oficiales de la marca (mediateca " +
+      "España (referencia: 129.990 CHF en Suiza; unidades nuevas en Alemania " +
+      "anunciadas en torno a 149.900 €); el precio aplicado es el de la Preisliste oficial «Wohnmobile 2025» de Dethleffs (133.299 €). En null: carga útil (no publicada), consumo, par, " +
+      "tracción y emisiones (no publicados). Fotos: las 4 son oficiales de la marca (mediateca  Precio: precio con IVA de la Preisliste oficial de Dethleffs (Alemania), «Wohnmobile 2025» (válida desde 01/08/2024), Esprit I 7150-2 DBL: 133.299 €; no hay tarifa oficial para España." +
       "Dethleffs: freisteller lateral y highlights de salón, cocina y dormitorio con cama isla).",
     curiosidades:
       "La lista oficial de precios suiza de la gama Esprit 2026 anuncia una garantía de " +

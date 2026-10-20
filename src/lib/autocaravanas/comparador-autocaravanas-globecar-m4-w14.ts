@@ -56,7 +56,7 @@ export const AUTOCARAVANAS_GLOBECAR_M4: Autocaravana[] = [
       "Camas: trasera transversal 196x160-147 cm y central 196x70 cm; 4 cinturones; calefacción Truma Combi 4; frigorífico 80 l + congelador 10 l; " +
       "agua limpia 105 l y grises 100 l; batería 95 Ah: exposé caraworld.de. " +
       "Baño pivotante ('salle de bain pivotante', seña de la gama Summit) y frigorífico de compresor grande al final de la cocina: CSL Reisemobile. " +
-      "En null: precio oficial ES (Globecar no publica tarifa para España; los concesionarios alemanes anuncian el Plus H-Line desde ~58.990 €, " +
+      "En null: precio oficial ES (Globecar no publica tarifa para España; los concesionarios alemanes anuncian el Plus H-Line desde ~58.990 €,  Precio: se deja en null porque el precio base de Pössl/Globecar (Pössl Group) solo se ofrece a través de su configurador oficial en línea y no existe una tarifa oficial abierta (PDF o web) verificable para este modelo fuera de España; la tarifa oficial española localizada cubre solo la gama VAN LINE (Vanster/Campster)." +
       "precio de mercado alemán, no tarifa de marca), peso, consumo y carga útil.",
     curiosidades:
       "La seña de identidad de la gama Summit de Globecar es su baño pivotante: en lugar de un cuarto de baño fijo que roba medio metro de pasillo, " +
@@ -153,7 +153,7 @@ Para quién es. El Summit 600 Plus encaja con quien quiere un camper de 6 metros
       "actuales montan Fiat/Citroën 2.2 de 140-165 CV según mercado), consumo y carga útil. " +
       "Verificación 19/10/2026: los 2.995 kg del catálogo oficial son la MASA EN ORDEN DE MARCHA, no la carga útil; la marca no publica la carga útil, " +
       "así que pesoKg queda en null (prohibido calcularla). Fotos: las 4 son del modelo exacto (camas gemelas), 2 de prensa y 2 de anuncios de concesionario " +
-      "sin rótulos ni marcas de agua; el catálogo oficial Globecar 2011 (https://www.camperonline.it/magazine/cataloghi/globecar-2011.pdf) solo contiene " +
+      "sin rótulos ni marcas de agua; el catálogo oficial Globecar 2011 (https://www.camperonline.it/magazine/cataloghi/globecar-2011.pdf) solo contiene  Precio: se deja en null porque el precio base de Pössl/Globecar (Pössl Group) solo se ofrece a través de su configurador oficial en línea y no existe una tarifa oficial abierta (PDF o web) verificable para este modelo fuera de España; la tarifa oficial española localizada cubre solo la gama VAN LINE (Vanster/Campster)." +
       "miniaturas de ~180 px de los interiores, inutilizables, y una ilustración del exterior, así que se mantienen las mejores fotos reales disponibles.",
     curiosidades:
       "El CampScout B es la versión 'de camas gemelas' del Campscout, y su truco está en el catálogo: las dos camas individuales traseras " +

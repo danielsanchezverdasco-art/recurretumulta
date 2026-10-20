@@ -109,7 +109,7 @@ export const CAMPERS_POSSL: CocheComparador[] = [
     modelo: "Vanster",
     tipo: "Diésel",
     categoria: "Camper",
-    precioDesde: null,
+    precioDesde: 52490, // PVP oficial España: tarifa de precios de Pössl España (possl.es), TARIFA PVP 2027 VAN LINE v. 7-2026, Vanster Citroën 150 CV, IVA 21% incl., IEDMT no incluido
     potenciaCv: 145,
     autonomiaKm: null,
     maleteroL: null,
@@ -208,7 +208,7 @@ export const CAMPERS_POSSL: CocheComparador[] = [
     modelo: "Summit 640",
     tipo: "Diésel",
     categoria: "Camper",
-    precioDesde: null,
+    precioDesde: null, // null documentado: el precio base de Pössl/Globecar (Pössl Group) solo se ofrece a través de su configurador oficial en línea y no existe una tarifa oficial abierta (PDF o web) verificable para este modelo fuera de España; la tarifa oficial española localizada cubre solo la gama VAN LINE (Vanster/Campster).
     potenciaCv: 140,
     autonomiaKm: null,
     maleteroL: null,
@@ -307,7 +307,7 @@ export const CAMPERS_POSSL: CocheComparador[] = [
     modelo: "Trenta 640",
     tipo: "Diésel",
     categoria: "Camper",
-    precioDesde: null,
+    precioDesde: null, // null documentado: el precio base de Pössl/Globecar (Pössl Group) solo se ofrece a través de su configurador oficial en línea y no existe una tarifa oficial abierta (PDF o web) verificable para este modelo fuera de España; la tarifa oficial española localizada cubre solo la gama VAN LINE (Vanster/Campster).
     potenciaCv: 140,
     autonomiaKm: null,
     maleteroL: null,

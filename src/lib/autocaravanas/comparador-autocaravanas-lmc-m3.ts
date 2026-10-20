@@ -76,7 +76,7 @@ export const AUTOCARAVANAS_LMC_M3: Autocaravana[] = [
       "alemana habla de 83.500 € de base en Alemania), cargaUtilKg, par, tracción y " +
       "emisiones. La masa en orden de marcha varía entre fuentes: 3.035 kg según " +
       "camperstyle y 3.048 kg según alpacacamping. Imágenes de la prueba de prensa de " +
-      "camperstyle.de con la unidad exacta (no son fotos oficiales de fábrica), sin " +
+      "camperstyle.de con la unidad exacta (no son fotos oficiales de fábrica), sin  Precio: se deja en null porque no se ha localizado lista de precios oficial abierta de LMC (Erwin Hymer Group): la marca no expone PVP por modelo en su web oficial y el precio base solo se obtiene en su configurador en línea; solo constan precios de concesionarios y portales, que no se usan como oficiales." +
       "marcas de agua ni imágenes de concesionario.",
     curiosidades:
       "El «Lift» de su denominación se toma al pie de la letra: una cama abatible " +

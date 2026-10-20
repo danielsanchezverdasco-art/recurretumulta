@@ -6,7 +6,7 @@
 // Notas honestas: el modelo asignado originalmente (Chausson 640 Road Line) NO EXISTE en el
 // catálogo 2026 —la denominación «Road Line» designa la gama de campers 2026 (V594S/V594M/V594Max)
 // y no existe ningún «640»—. Se sustituye por el Chausson V594 Road Line, modelo real y vigente.
-// Chausson no publica PVP oficial (precioDesde = null); el precio ~51.500 € visto en un
+// Chausson publica su PVP oficial en Francia (el V594 Road Line parte de 48.990 €); el precio ~51.500 € visto en un
 // concesionario italiano (camperonline.it) es orientativo y no oficial. La potencia de 140 CV
 // como opcional y las 3 plazas para dormir proceden de la documentación comercial del modelo;
 // la marca no publica la carga útil (cargaUtilKg = null; prohibido calcularla).
@@ -20,7 +20,7 @@ export const AUTOCARAVANAS_CHAUSSON_M4: Autocaravana[] = [
     modelo: "V594 Road Line",
     tipo: "camper",
     categoria: "Autocaravana",
-    precioDesde: null, // Chausson no publica PVP oficial; ~51.500 € vistos en concesionario italiano (camperonline.it), solo orientativo
+    precioDesde: 48990, // PVP oficial Francia (chausson-camping-cars.fr, V594)
     potenciaCv: 120, // Citroën Jumper 120 CV de serie en la gama Road (fourgonlesite.com); 140 CV opcional según documentación comercial
     autonomiaKm: null,
     maleteroL: null,
@@ -51,9 +51,9 @@ export const AUTOCARAVANAS_CHAUSSON_M4: Autocaravana[] = [
     parNm: null,
     traccion: "delantera", // base Citroën Jumper de tracción delantera
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     notas:
-      "Modelo sustituido: el «Chausson 640 Road Line» asignado no existe en el catálogo 2026 (la gama Road Line son los campers V594S/V594M/V594Max); se documenta el V594 Road Line real. Cotas (599/205/265 cm), motor Citroën Jumper 120 CV, 4 plazas, 3 camas, MMA 3.500 kg y cama transversal de 194 x 148 cm con somier elevable: fourgonlesite.com (artículo 2026 con fotos oficiales de prensa Chausson). Chausson no publica PVP oficial (precioDesde = null); los ~51.500 € de un concesionario italiano son orientativos. Carga útil, consumo, par motor, emisiones y masa en orden de marcha: no publicados; quedan en null.",
+      "Modelo sustituido: el «Chausson 640 Road Line» asignado no existe en el catálogo 2026 (la gama Road Line son los campers V594S/V594M/V594Max); se documenta el V594 Road Line real. Cotas (599/205/265 cm), motor Citroën Jumper 120 CV, 4 plazas, 3 camas, MMA 3.500 kg y cama transversal de 194 x 148 cm con somier elevable: fourgonlesite.com (artículo 2026 con fotos oficiales de prensa Chausson). Chausson no publica tarifa oficial para España: el precio indicado es el PVP oficial de Francia de la página oficial del modelo V594. Carga útil, consumo, par motor, emisiones y masa en orden de marcha: no publicados; quedan en null. Precio: PVP oficial Francia, página oficial del modelo V594 (chausson-camping-cars.fr), «a partir de 48 990 €».",
     curiosidades:
       "La gama Road Line nace directamente de la serie especial «Light» que Chausson lanzó la temporada anterior: una edición ultra competitiva sobre Citroën Jumper 120 CV que funcionó tan bien que la marca la ha convertido en gama permanente. Chausson la presenta como la oferta con las tarifas más accesibles de todo su catálogo, y su gemela en Challenger se llama «Road Edition». Fuente: fourgonlesite.com, «Chausson et Challenger diversifient leur offre de fourgons avec la nouvelle gamme Road» (https://www.fourgonlesite.com/fourgon-neuf/chausson-et-challenger-diversifient-leur-offre-de-fourgons-avec-la-nouvelle-gamme-road/).",
     descripcion: `El Chausson V594 Road Line es la respuesta de la marca francesa a una pregunta que cada vez se hacen más compradores: ¿cuánto cuesta realmente entrar en el mundo camper sin renunciar a una distribución de verdad? La respuesta, en el catálogo 2026 de Chausson, se llama Road Line: una gama de furgonetas camper que hereda el espíritu de la serie especial «Light» de la temporada anterior —una edición ultra competitiva sobre Citroën Jumper 120 CV que se vendió tan bien que la marca decidió convertirla en gama permanente— y que se presenta abiertamente como la oferta con las tarifas más accesibles de todo el catálogo Chausson. El V594 es su variante de 5,99 metros con cama transversal trasera, la distribución más demandada del segmento.
@@ -82,7 +82,7 @@ export const AUTOCARAVANAS_CHAUSSON_M4: Autocaravana[] = [
       "Motor de 120 CV justo si se viaja siempre a plena carga o por zonas de montaña exigentes",
       "Sin baño vario en las versiones Road: el aseo es funcional pero básico",
       "Solo 3 plazas para dormir: insuficiente para familias de cuatro",
-      "Chausson no publica PVP oficial: el precio final depende de cada concesionario",
+      "Chausson no publica PVP oficial para España: la referencia es el PVP oficial de Francia (48.990 €)",
       "Acabados sencillos acordes al precio: quien busque materiales premium debe mirar gamas superiores",
     ],
     opiniones: [],

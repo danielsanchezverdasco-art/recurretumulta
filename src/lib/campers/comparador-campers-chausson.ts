@@ -13,7 +13,7 @@ export const CAMPERS_CHAUSSON: CocheComparador[] = [
     modelo: "Twist V594",
     tipo: "Diésel",
     categoria: "Camper",
-    precioDesde: null,
+    precioDesde: 48990, // PVP oficial Francia: página oficial del modelo V594 (chausson-camping-cars.fr), «a partir de 48 990 €»; sin tarifa oficial para España
     potenciaCv: 120,
     autonomiaKm: null, maleteroL: null, ceroCien: null, velocidadMax: null,
     bateriaKwh: null, cargaRapidaKw: null,
@@ -27,7 +27,7 @@ export const CAMPERS_CHAUSSON: CocheComparador[] = [
     pesoKg: null,
     consumo: null, consumoUnidad: null,
     plazas: 4, parNm: null, traccion: "Delantera", emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Formato compacto de 5,99 m: fácil de aparcar y de maniobrar a diario",
       "Cama transversal de 149 × 186 cm siempre hecha, sin montajes",

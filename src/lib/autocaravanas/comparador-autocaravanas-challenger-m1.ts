@@ -4,7 +4,8 @@
 // 335 kg disponibles para equipamiento opcional, 2.2 L 120 CV. Correcciones: eliminado
 // costeMensual; cargaUtilKg = null («Challenger publica 335 kg disponibles para
 // equipamiento opcional»; no es carga útil); añadidos descripcion,
-// notas y plazasDormir; analisisSlug a -analisis-opinion. Challenger no publica PVP.
+// notas y plazasDormir; analisisSlug a -analisis-opinion. Challenger publica su PVP oficial en
+// Francia (el V114 base parte de 51.490 €); no hay tarifa oficial para España.
 import type { Autocaravana } from "./tipos.ts";
 
 export const AUTOCARAVANAS_CHALLENGER_M1: Autocaravana[] = [
@@ -14,7 +15,7 @@ export const AUTOCARAVANAS_CHALLENGER_M1: Autocaravana[] = [
     modelo: "V114 Start Edition",
     tipo: "camper",
     categoria: "Autocaravana",
-    precioDesde: null, // Challenger no publica PVP oficial; no inventar
+    precioDesde: 51490, // PVP oficial Francia del V114 (challenger-camping-cars.fr, JSON-LD)
     potenciaCv: 120, // ficha oficial 2026: 2.2 L 120 CV (Road Edition)
     autonomiaKm: null,
     maleteroL: null,
@@ -47,9 +48,9 @@ export const AUTOCARAVANAS_CHALLENGER_M1: Autocaravana[] = [
     parNm: null, // no publicado por el fabricante
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["mmaKg"],
+    aprox: ["mmaKg", "precioDesde"],
     notas:
-      "Challenger no publica PVP del V114 Start Edition. Medidas, plazas, plazas para dormir (2+1) y motor 120 CV, de la ficha técnica oficial 2026 del modelo. «Challenger publica 335 kg disponibles para equipamiento opcional» (no es carga útil: cargaUtilKg en null). MMA: «dato no oficial · en revisión».",
+      "Challenger no publica PVP de la edición Start: el precio desde indicado es el PVP oficial del V114 base (Francia). Medidas, plazas, plazas para dormir (2+1) y motor 120 CV, de la ficha técnica oficial 2026 del modelo. «Challenger publica 335 kg disponibles para equipamiento opcional» (no es carga útil: cargaUtilKg en null). MMA: «dato no oficial · en revisión». Precio: PVP oficial Francia del V114 base, página oficial del modelo (challenger-camping-cars.fr, datos estructurados JSON-LD); la edición Start ya no figura en el catálogo vigente.",
     descripcion: `La Challenger V114 Start Edition es una camper de 5,99 metros de la marca francesa Challenger, del grupo Trigano, y representa la puerta de entrada más asequible al mundo de las furgonetas camperizadas de gran volumen. La V114 es la camper corta de la gama Challenger sobre Fiat Ducato, y el apellido Start Edition la sitúa como la versión de acceso, con el equipamiento esencial y el motor más contenido, pensada para quien quiere estrenar camper nueva sin saltar a las gamas medias. Es la camper para aparcar en la ciudad entre semana y escapar el fin de semana.
 
 Los datos oficiales, publicados por Challenger en la ficha técnica 2026 del modelo, son transparentes: 5,99 m de largo, 2,05 m de ancho y 2,65 m de alto, con 4 plazas homologadas para viajar y 2+1 para dormir. Esa es la configuración clásica de las camper de menos de 6 metros: dos plazas fijas en la cama doble trasera amovible de 149 × 186 cm y una tercera ocasional en el salón convertible. La ficha oficial publica además 335 kg disponibles para equipamiento opcional («Challenger publica 335 kg disponibles para equipamiento opcional»), una cifra honesta que permite saber cuánto margen queda para toldo, paneles solares o portabicicletas sin superar la MMA. El motor es el 2.2 de 120 CV con cambio manual en la versión Road Edition, la mecánica básica del Ducato: suficiente para una camper de este peso, aunque sin alegrías en puertos largos con la célula cargada.
@@ -62,7 +63,7 @@ Mecánicamente, los 120 CV del Ducato mueven con dignidad los 3.500 kg de MMA, p
 
 Sus rivales naturales son las camper de acceso de menos de 6 metros: la Benimar Benivan, la McLouis Menfys, la Sunlight Cliff o la propia gama superior de Challenger, la V114 en acabado Sport Edition. Frente a ellas, la Start Edition juega la carta del precio de entrada y de la sencillez: menos equipamiento, menos peso, menos cosas que se pueden romper. Para el comprador que valora la garantía de vehículo nuevo y un mantenimiento sencillo, es un argumento de peso.
 
-Cómo lo verificamos: las medidas (5,99 × 2,05 × 2,65 m), las 4 plazas, las 2+1 camas y el motor 2.2 de 120 CV proceden de la ficha técnica oficial 2026 del modelo V114 publicada por Challenger (versión en francés), consultada el 18 de octubre de 2026; «Challenger publica 335 kg disponibles para equipamiento opcional» (no es carga útil, por eso no va en ese campo). Challenger no publica PVP oficial. La MMA de 3.500 kg es la clase estándar pero no aparece en el extracto visible de la ficha, así que va marcada como «dato no oficial · en revisión».
+Cómo lo verificamos: las medidas (5,99 × 2,05 × 2,65 m), las 4 plazas, las 2+1 camas y el motor 2.2 de 120 CV proceden de la ficha técnica oficial 2026 del modelo V114 publicada por Challenger (versión en francés), consultada el 18 de octubre de 2026; «Challenger publica 335 kg disponibles para equipamiento opcional» (no es carga útil, por eso no va en ese campo). Challenger no publica PVP oficial para España (el V114 base tiene PVP oficial en Francia). La MMA de 3.500 kg es la clase estándar pero no aparece en el extracto visible de la ficha, así que va marcada como «dato no oficial · en revisión».
 
 Para quién es: la V114 Start Edition es para quien quiere estrenar camper nueva con garantía al precio más bajo posible, viaja en pareja o en familia pequeña, y usa el vehículo a diario o casi: aparca en ciudad y escapa el fin de semana. No es para quien busque acabados cuidados, motor potente o cuatro plazas fijas de dormitorio. El veredicto es que es la camper de acceso más honesta del mercado francés: datos oficiales claros, 335 kg publicados para equipamiento opcional y un formato de 5,99 m imbatible en ciudad, a cambio de un equipamiento espartano y un motor justo que pide paciencia en la montaña.`,
     pros: [
@@ -77,7 +78,7 @@ Para quién es: la V114 Start Edition es para quien quiere estrenar camper nueva
       "Versión Start Edition espartana: acabados y equipamiento de acceso, muchos opcionales se pagan aparte",
       "Nevera de 84 l para 4 personas: justa más allá del fin de semana largo",
       "2+1 plazas para dormir: la tercera es ocasional en el salón convertible, no una cama fija",
-      "Sin PVP oficial publicado por Challenger: el precio final depende del concesionario",
+      "Sin PVP oficial para España: la referencia es el PVP oficial del V114 en Francia (51.490 €)",
     ],
     opiniones: [],
     galeria: [

@@ -13,7 +13,7 @@ export const CAMPERS_CAMPEREVE: CocheComparador[] = [
     modelo: "Magellan 643 Air Saphir",
     tipo: "Diésel",
     categoria: "Camper",
-    precioDesde: null,
+    precioDesde: null, // null documentado: Campérêve (Groupe Rapido) no publica PVP en su web oficial (los precios se obtienen en su red de concesionarios); sin tarifa oficial abierta verificable.
     potenciaCv: 140,
     autonomiaKm: null,
     maleteroL: null,

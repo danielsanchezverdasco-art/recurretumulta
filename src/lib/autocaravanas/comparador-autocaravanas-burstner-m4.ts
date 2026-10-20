@@ -7,7 +7,7 @@
 //   de concesionarios europeos de unidades 2025/2026 (7.360 × 2.320 × 2.910 mm,
 //   4.400 kg, Fiat Ducato 2.2 180 CV automático); la tabla técnica oficial de
 //   buerstner.com documenta la gama Lyseo I con valores idénticos para el 736 G.
-//   Bürstner no publica PVP para España (precioDesde=null).
+//   Bürstner no publica PVP para España (precioDesde = PVP recomendado oficial del país de la locale de buerstner.com, marcado en «aprox»).
 // Verif V4-02 (19/10/2026): las 4 fotos del Lyseo I 726 G revisadas visualmente 1x1
 // (modelo exacto según anuncio api.caravana.de, sin IA, sin marcas de agua, sin
 // rótulos ni pegatinas; la placa «Lyseo I 726 G» es de exposición del concesionario).
@@ -33,7 +33,7 @@ export const AUTOCARAVANAS_BURSTNER_M4: Autocaravana[] = [
     modelo: "Lyseo I 726 G",
     tipo: "integral",
     categoria: "Autocaravana",
-    precioDesde: null, // Bürstner no publica PVP oficial para España
+    precioDesde: 118990, // Precio recomendado oficial Bürstner Alemania (buerstner.com)
     potenciaCv: 180, // Fiat Ducato 2.2 Multijet 180 CV automático (anuncios)
     autonomiaKm: null,
     maleteroL: null,
@@ -64,7 +64,7 @@ export const AUTOCARAVANAS_BURSTNER_M4: Autocaravana[] = [
     parNm: null,
     traccion: "delantera", // Fiat Ducato
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     notas:
       "Modelo verificado en anuncios de concesionarios de Alemania, Francia, Países " +
       "Bajos y Suecia de unidades 2025/2026 ('BÜRSTNER Lyseo I 726 G'): 7.360 × " +
@@ -74,7 +74,7 @@ export const AUTOCARAVANAS_BURSTNER_M4: Autocaravana[] = [
       "de buerstner.com para la gama Lyseo I recoge valores idénticos (736/232/291 " +
       "cm, 4.400 kg, 4 plazas, 4-5 camas, frigorífico 142 l, agua 105 l, residuales " +
       "90 l). Precio: Bürstner no publica tarifa España → null. MRO: la tabla " +
-      "oficial da 3.315 kg para el 736 G, pero no se atribuye a la denominación " +
+      "oficial da 3.315 kg para el 736 G, pero no se atribuye a la denominación  Precio: precio recomendado oficial (no vinculante) publicado por Bürstner en su web oficial de Bürstner (buerstner.com), ficha técnica del Lyseo I 726 G, basado en los precios de venta de Alemania; no hay tarifa oficial para España." +
       "726 G → null. Consumo y carga útil: no publicados → null.",
     curiosidades:
       "La gama Lyseo I nació en 2023 como la integral 'media' de Bürstner sobre base " +
@@ -94,7 +94,7 @@ El acabado Harmony Line, con el que se anuncia la mayoría de las unidades, vist
 
 En carretera, la integral se comporta como lo que es: aplomo de autopista, visibilidad panorámica y una altura que obliga a vigilar ramas y parkings techados. El parabrisas enorme es una gozada conduciendo y un gasto cuando hay que cambiarlo: conviene llevarlo asegurado con franquicia baja. El consumo, como en todas las integrales de este peso, lo marca el pie derecho y la aerodinámica; la marca no publica cifras oficiales.
 
-Del precio, lo honesto: Bürstner no publica tarifa para España y la casilla queda en null. En Suiza la tabla oficial de la gama sitúa el 736 G —gemelo técnico— en 122.350 francos, pero no es trasladable. El precio real lo da el concesionario español según acabado Harmony Line y opcionales (paquete de invierno, Alde, horno, segunda TV...).
+Del precio, lo honesto: Bürstner no publica tarifa para España; el precio aplicado es su precio recomendado oficial publicado en buerstner.com para Alemania (118.990 €, «aprox»). En Suiza la tabla oficial de la gama sitúa el 736 G —gemelo técnico— en 122.350 francos, pero no es trasladable. El precio real lo da el concesionario español según acabado Harmony Line y opcionales (paquete de invierno, Alde, horno, segunda TV...).
 
 Cómo lo verificamos: la denominación Lyseo I 726 G y sus datos (7.360 × 2.320 × 2.910 mm, 4.400 kg, 180 CV automático, 4/4 plazas, salón en L, cama abatible + individuales) se comprobaron el 19/10/2026 en anuncios de concesionarios de cuatro países con unidades 2025/2026 (truckscout24.fr, truckscout24.nl, truckscout24.es, caravana.de, bytbil.com); la gama y sus datos técnicos oficiales (736/232/291 cm, 4.400 kg, 4 plazas, 4-5 camas, frigorífico 142 l, aguas 105/90 l), en la tabla técnica de buerstner.com para la Lyseo I; el lanzamiento de la gama en 2023 como integral media Fiat, en outandaboutlive.co.uk.
 
@@ -135,7 +135,7 @@ Para quién es: para quienes quieren una integral de verdad —conducción panor
     modelo: "Campeo TD 690 G",
     tipo: "perfilada",
     categoria: "Autocaravana",
-    precioDesde: null, // Bürstner no publica PVP oficial para España; en Francia parte de 75.290 € (buerstner.com FR)
+    precioDesde: 75290, // Precio recomendado oficial Bürstner Francia (buerstner.com)
     potenciaCv: 140, // Fiat Ducato 140 CV según anuncios de concesionario del modelo
     autonomiaKm: null,
     maleteroL: null,
@@ -166,16 +166,16 @@ Para quién es: para quienes quieren una integral de verdad —conducción panor
     parNm: null,
     traccion: null,
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     notas:
       "Dimensiones (699/230/295 cm), altura interior (205 cm), MMA (3500 kg), MRO (2915 kg con " +
       "horquilla 2769–3061), batalla (4035 mm), plazas (4–5), camas (gemelas 199–190×80; abatible " +
       "opcional 200×140–118), frigorífico (131,5 L + 15 L congelador), agua limpia (120 L) y " +
       "residuales (90 L): buerstner.com, páginas oficiales FR/NL/CH del Campeo TD. Motor Fiat " +
       "Ducato 140 CV: anuncios de concesionario del modelo exacto. Precio: Bürstner no publica " +
-      "PVP para España (precioDesde=null); en la web oficial francesa el Campeo TD parte de " +
+      "PVP para España; en la web oficial francesa el Campeo TD parte de " +
       "75.290 €. En null: carga útil (la marca no la publica), consumo, par, tracción y emisiones " +
-      "CO2 (no publicados). Fotos: unidad real del modelo exacto, galería de concesionario en " +
+      "CO2 (no publicados). Fotos: unidad real del modelo exacto, galería de concesionario en  Precio: precio recomendado oficial publicado por Bürstner en su web oficial de Bürstner (buerstner.com), ficha técnica del Campeo TD 690 G, basado en los precios de venta de Francia; no hay tarifa oficial para España." +
       "caraworld.de (anuncio 26057034), sin marcas de agua; no son fotos oficiales de prensa.",
     curiosidades:
       "La cama abatible opcional sobre el salón no es rectangular: mide 200×140–118 cm, es decir, " +
