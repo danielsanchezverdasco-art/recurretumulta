@@ -1612,7 +1612,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     modelo: "Prius Plug-in Hybrid",
     tipo: "Híbrido enchufable",
     categoria: "Compacto",
-    precioDesde: 44400,
+    precioDesde: 44400, // tarifa oficial Francia (verificado 20/10/2026); no se vende en España
     potenciaCv: 223,
     autonomiaKm: 86,
     cicloAutonomia: "WLTP",
@@ -1630,7 +1630,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
       "Etiqueta Cero"
     ],
     contras: [
-      "NO se vende en España (44.400 € en Francia, precio aprox.)",
+      "NO se vende en España: 44.400 € es la tarifa oficial de Francia",
       "Sin precio oficial en nuestro mercado",
       "Diseño polarizante",
       "Maletero reducido frente al Corolla",

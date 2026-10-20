@@ -17,7 +17,7 @@ export const COCHES_STELATO: CocheComparador[] = [
     modelo: "S9 EREV",
     tipo: "Híbrido de autonomía extendida",
     categoria: "Berlina",
-    precioDesde: 40300,
+    precioDesde: 41300, // 309.800 CNY (tarifa oficial China) ÷ 7,50 (BCE 19/10/2026), redondeado a la centena
     potenciaCv: 309,
     autonomiaKm: 372,
     maleteroL: null,
@@ -101,7 +101,7 @@ export const COCHES_STELATO: CocheComparador[] = [
     modelo: "S9T",
     tipo: "Eléctrico",
     categoria: "Familiar",
-    precioDesde: 41600,
+    precioDesde: 44000, // 329.800 CNY (tarifa oficial China) ÷ 7,50 (BCE 19/10/2026), redondeado a la centena
     potenciaCv: 516,
     autonomiaKm: 801,
     maleteroL: null,
@@ -185,7 +185,7 @@ export const COCHES_STELATO: CocheComparador[] = [
     modelo: "S9T EREV",
     tipo: "Híbrido de autonomía extendida",
     categoria: "Familiar",
-    precioDesde: 41600,
+    precioDesde: 41300, // 309.800 CNY (tarifa oficial China) ÷ 7,50 (BCE 19/10/2026), redondeado a la centena
     potenciaCv: 309,
     autonomiaKm: 354,
     maleteroL: null,
@@ -271,7 +271,7 @@ export const COCHES_STELATO: CocheComparador[] = [
     modelo: "G9",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 62400,
+    precioDesde: 64000, // 479.800 CNY (tarifa oficial China) ÷ 7,50 (BCE 19/10/2026), redondeado a la centena
     potenciaCv: 594,
     autonomiaKm: 728,
     maleteroL: 978,
@@ -378,7 +378,7 @@ export const COCHES_STELATO: CocheComparador[] = [
     modelo: "G9 EREV",
     tipo: "Híbrido de autonomía extendida",
     categoria: "SUV",
-    precioDesde: 55900,
+    precioDesde: 57300, // 429.800 CNY (tarifa oficial China) ÷ 7,50 (BCE 19/10/2026), redondeado a la centena
     potenciaCv: 594,
     autonomiaKm: 405,
     maleteroL: 978,

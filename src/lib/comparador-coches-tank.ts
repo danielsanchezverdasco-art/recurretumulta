@@ -190,7 +190,7 @@ export const COCHES_TANK: CocheComparador[] = [
     modelo: "300 HEV",
     tipo: "Híbrido",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 35500, // 56.990 AUD (tarifa oficial Australia) ÷ 1,6068 (BCE 19/10/2026), redondeado a la centena
     potenciaCv: 341,
     autonomiaKm: null,
     maleteroL: 400,
@@ -207,7 +207,7 @@ export const COCHES_TANK: CocheComparador[] = [
       "Consumo homologado de 8,4 l/100 km para 2,3 toneladas",
     ],
     contras: [
-      "Sin precio oficial en euros (se vende en Australia y Latinoamérica)",
+      "Precio convertido desde la tarifa oficial australiana (56.990 AUD): orientativo, sin tarifa europea",
       "Batería pequeña de 1,76 kWh: no hay modo eléctrico puro útil",
       "Peso de 2.313 kg",
       "No llega a Europa de momento",
@@ -223,7 +223,7 @@ export const COCHES_TANK: CocheComparador[] = [
     parNm: 647,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/tank-300-hev-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -356,7 +356,7 @@ export const COCHES_TANK: CocheComparador[] = [
     modelo: "300 Hooke Trail",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: 33200,
+    precioDesde: null, // sin tarifa oficial publicada (verificado 20/10/2026)
     potenciaCv: 231,
     autonomiaKm: null,
     versiones: [
@@ -377,6 +377,7 @@ export const COCHES_TANK: CocheComparador[] = [
       "Admite neumáticos de 35 pulgadas sin grandes modificaciones (hasta 40 con preparación)",
     ],
     contras: [
+      "Sin tarifa oficial publicada: GWM no ha anunciado el precio del Hooke Trail en China",
       "Solo para China de momento, sin planes para Europa",
       "El 3.0T de 265 kW solo figura en documentos del MIIT: no es la versión de lanzamiento",
       "Ejes rígidos: menos confort en carretera que el 300 normal",
@@ -392,7 +393,7 @@ export const COCHES_TANK: CocheComparador[] = [
     parNm: 400,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     imagen: "/media/tank-300-hooke-trail-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -450,7 +451,7 @@ export const COCHES_TANK: CocheComparador[] = [
     modelo: "400 Hi4-T",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 38100, // 285.800 CNY (tarifa oficial China) ÷ 7,50 (BCE 19/10/2026), redondeado a la centena
     potenciaCv: 422,
     autonomiaKm: 105,
     maleteroL: null,
@@ -467,7 +468,7 @@ export const COCHES_TANK: CocheComparador[] = [
       "Interior tecnológico con pantalla central de 16,2 pulgadas",
     ],
     contras: [
-      "Solo se vende en China; sin precio oficial verificado en euros",
+      "Solo se vende en China; precio convertido desde la tarifa oficial china (285.800 CNY), orientativo en euros",
       "2.770 kg en orden de marcha",
       "Diseño polarizante que no deja indiferente",
       "Sin red de servicio fuera de China",
@@ -483,7 +484,7 @@ export const COCHES_TANK: CocheComparador[] = [
     parNm: 750,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/tank-400-hi4-t-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -533,7 +534,7 @@ export const COCHES_TANK: CocheComparador[] = [
     modelo: "400 Hi4-Z",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 42600, // 319.800 CNY (tarifa oficial China) ÷ 7,50 (BCE 19/10/2026), redondeado a la centena
     potenciaCv: 864,
     autonomiaKm: 200,
     maleteroL: null,
@@ -550,7 +551,7 @@ export const COCHES_TANK: CocheComparador[] = [
       "Doble motor con bloqueo electrónico en ambos ejes",
     ],
     contras: [
-      "Solo China y sin precio oficial verificado",
+      "Solo se vende en China; precio convertido desde la tarifa oficial china (319.800 CNY), orientativo en euros",
       "2.950 kg: un peso de camión ligero",
       "Enfoque más prestacional que trialero puro",
       "Consumo eléctrico de 26,7 kWh/100 km",
@@ -566,7 +567,7 @@ export const COCHES_TANK: CocheComparador[] = [
     parNm: 1195,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/tank-400-hi4-z-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -701,7 +702,7 @@ aprox: ["precioDesde"],
     modelo: "500 HEV",
     tipo: "Híbrido",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 41400, // 66.490 AUD (tarifa oficial Australia) ÷ 1,6068 (BCE 19/10/2026), redondeado a la centena
     potenciaCv: 341,
     autonomiaKm: null,
     maleteroL: null,
@@ -718,7 +719,7 @@ aprox: ["precioDesde"],
       "Precio en Australia muy inferior al de un Prado equivalente",
     ],
     contras: [
-      "Sin precio oficial en euros (Australia, Colombia, Ecuador)",
+      "Precio convertido desde la tarifa oficial australiana (66.490 AUD): orientativo, sin tarifa europea",
       "Consumo real en torno a 10,8 l/100 km según pruebas",
       "Batería de solo 1,76 kWh",
       "No llega a Europa",
@@ -734,7 +735,7 @@ aprox: ["precioDesde"],
     parNm: 648,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["consumo"],
+    aprox: ["precioDesde", "consumo"],
     imagen: "/media/tank-500-hev-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

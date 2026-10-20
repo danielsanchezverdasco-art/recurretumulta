@@ -492,7 +492,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     version: "CE 02 (11 kW)",
     cilindradaCc: null,
     categoria: "Urbana",
-    precioDesde: 8400,
+    precioDesde: 8425, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 11,
     potenciaCv: 15,
     autonomiaKm: 95,
@@ -505,9 +505,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A1",
     carga: "Baterías extraíbles · 900 W de serie (1.500 W opcional) · 100 min del 20 al 80 % con cargador rápido",
     etiquetaDgt: "Cero",
-    aprox: [
-      "precioDesde",
-    ],
+    aprox: [],
     pros: [
       "Aceleración fulgurante en ciudad: 0-50 km/h en 3,0 s con 55 Nm instantáneos",
       "Muy ligera y manejable: 132 kg y asiento a 750 mm, control total para cualquier talla",
@@ -517,7 +515,7 @@ export const MOTOS_BASE: MotoComparador[] = [
       "Entrega de potencia muy bien dosificada, sin brusquedades (motorpasionmoto)",
     ],
     contras: [
-      "Precio elevado para sus prestaciones (versión 11 kW desde ~8.400€)",
+      "Precio elevado para sus prestaciones (versión 11 kW desde 8.425 €)",
       "Sin hueco bajo el asiento: capacidad de carga nula de serie",
       "ABS solo en la rueda delantera",
       "Autonomía limitada: 95 km WMTC, y el modo Flash la devora",
@@ -558,7 +556,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     version: "FXE 7.2 (2025)",
     cilindradaCc: null,
     categoria: "Urbana",
-    precioDesde: 14235,
+    precioDesde: 15440, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 11,
     potenciaCv: 15,
     autonomiaKm: 169,
@@ -571,7 +569,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A1",
     carga: "Enchufe doméstico · cargador integrado ~9,7 h (0-100 %) · Rapid Charge opcional",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "ceroCincuenta"],
+    aprox: ["ceroCincuenta"],
     pros: [
       "Aceleración brutal: 106 Nm y 0-100 km/h en ~5,5 s medidos por moto125.cc",
       "Parte ciclo seria: horquilla invertida Showa 41 mm totalmente regulable y Pirelli Diablo Rosso II",
@@ -683,7 +681,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     version: "EK3",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: 3890,
+    precioDesde: 4700, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 3.5,
     potenciaCv: 4.8,
     autonomiaKm: 76,
@@ -696,9 +694,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A1",
     carga: "Batería extraíble · ~4,5 h por batería en enchufe doméstico · admite 2.ª batería",
     etiquetaDgt: "Cero",
-    aprox: [
-      "precioDesde",
-    ],
+    aprox: [],
     pros: [
       "Precio muy competitivo para un 125 eléctrico (~3.900€)",
       "Batería extraíble y opción de segunda batería (hasta ~200 km teóricos)",

@@ -1233,7 +1233,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     modelo: "Golf GTE",
     tipo: "Híbrido enchufable",
     categoria: "Compacto",
-    precioDesde: 45900,
+    precioDesde: 46745, // tarifa oficial España (verificado 20/10/2026)
     potenciaCv: 272,
     autonomiaKm: 100,
     maleteroL: 345,
@@ -1250,7 +1250,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "0,4 l/100 km homologados y 9 g/km de CO2",
     ],
     contras: [
-      "Desde ~46.000 €: 8.500 € más que el GTI de gasolina",
+      "Desde 46.745 €: 8.500 € más que el GTI de gasolina",
       "Maletero de 345 L: la batería se come 36 litros",
       "1.668 kg: se nota el peso en tramo",
       "Sin ayudas Moves por superar el límite en algunas versiones",
@@ -1266,7 +1266,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 400,
     traccion: "Delantera",
     emisionesCo2: 9,
-    aprox: ["precioDesde", "autonomiaKm", "pesoKg"],
+    aprox: ["autonomiaKm", "pesoKg"],
     imagen: "/media/volkswagen-golf-gte-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1314,7 +1314,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     modelo: "Polo 1.0 TSI",
     tipo: "Gasolina",
     categoria: "Urbano",
-    precioDesde: 21990,
+    precioDesde: 23670, // tarifa oficial España (verificado 20/10/2026)
     potenciaCv: 115,
     autonomiaKm: null,
     maleteroL: 351,
@@ -1347,7 +1347,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 200,
     traccion: "Delantera",
     emisionesCo2: 122,
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     imagen: "/media/volkswagen-polo-10-tsi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1476,7 +1476,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     modelo: "T-Cross 1.0 TSI",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: 24500,
+    precioDesde: 25262, // tarifa oficial España (verificado 20/10/2026)
     potenciaCv: 115,
     autonomiaKm: null,
     maleteroL: 455,
@@ -1509,7 +1509,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 200,
     traccion: "Delantera",
     emisionesCo2: 129,
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     imagen: "/media/volkswagen-t-cross-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1557,7 +1557,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     modelo: "Taigo 1.0 TSI",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: 26000,
+    precioDesde: 24996, // tarifa oficial España (verificado 20/10/2026)
     potenciaCv: 115,
     autonomiaKm: null,
     maleteroL: 438,
@@ -1590,7 +1590,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 200,
     traccion: "Delantera",
     emisionesCo2: 131,
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     imagen: "/media/volkswagen-taigo-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1800,7 +1800,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     modelo: "ID.5 Pro",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 46500,
+    precioDesde: 44610, // tarifa oficial España (verificado 20/10/2026)
     potenciaCv: 286,
     autonomiaKm: 545,
     maleteroL: 549,
@@ -1833,7 +1833,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 545,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["precioDesde", "autonomiaKm", "pesoKg", "consumo"],
+    aprox: ["autonomiaKm", "pesoKg", "consumo"],
     imagen: "/media/volkswagen-id5-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1881,7 +1881,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     modelo: "Passat Variant 2.0 TDI",
     tipo: "Diésel",
     categoria: "Familiar",
-    precioDesde: 45000,
+    precioDesde: 48860, // tarifa oficial España (verificado 20/10/2026)
     potenciaCv: 150,
     autonomiaKm: null,
     maleteroL: 690,
@@ -1899,7 +1899,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     ],
     contras: [
       "Etiqueta C: vetado en futuras ZBE estrictas",
-      "Desde ~45.000 €: el familiar ya no es barato",
+      "Desde 48.860 €: el familiar ya no es barato",
       "4,92 m: solo para quien lo necesite de verdad",
       "El eHybrid enchufable cuesta bastante más",
       "Diseño continuista: no enamora",
@@ -1914,7 +1914,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 360,
     traccion: "Delantera",
     emisionesCo2: 137,
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     imagen: "/media/volkswagen-passat-variant-20-tdi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1962,7 +1962,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     modelo: "Tiguan eHybrid",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: 46000,
+    precioDesde: 48155, // tarifa oficial España (verificado 20/10/2026)
     potenciaCv: 204,
     autonomiaKm: 100,
     maleteroL: 490,
@@ -1979,7 +1979,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "0,4 l/100 km homologados",
     ],
     contras: [
-      "Desde ~46.000 €: 5.000 € más que el eTSI de 150 CV",
+      "Desde 48.155 €: 5.000 € más que el eTSI de 150 CV",
       "1.840 kg en orden de marcha",
       "Sin la batería, gasta como un gasolina de 1,8 toneladas",
       "El Tayron eHybrid ofrece más coche por poco más",
@@ -1995,7 +1995,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 350,
     traccion: "Delantera",
     emisionesCo2: 10,
-    aprox: ["precioDesde", "autonomiaKm", "pesoKg"],
+    aprox: ["autonomiaKm", "pesoKg"],
     imagen: "/media/volkswagen-tiguan-ehybrid-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

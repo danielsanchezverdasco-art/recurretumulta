@@ -276,7 +276,7 @@ export const COCHES_YANGWANG: CocheComparador[] = [
     modelo: "U9 Xtreme",
     tipo: "Eléctrico",
     categoria: "Deportivo",
-    precioDesde: 254100,
+    precioDesde: null, // sin tarifa oficial publicada: serie limitada de 30 unidades (verificado 20/10/2026)
     potenciaCv: 3019,
     autonomiaKm: null,
     maleteroL: null,
@@ -309,7 +309,7 @@ export const COCHES_YANGWANG: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["potenciaCv", "precioDesde"],
+    aprox: ["potenciaCv"],
     imagen: "/media/yangwang-u9-xtreme-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -442,7 +442,7 @@ export const COCHES_YANGWANG: CocheComparador[] = [
     modelo: "U7 PHEV",
     tipo: "Híbrido enchufable",
     categoria: "Berlina",
-    precioDesde: 76000,
+    precioDesde: 83700, // 628.000 CNY (tarifa oficial China) ÷ 7,50 (BCE 19/10/2026), redondeado a la centena
     potenciaCv: 1340,
     autonomiaKm: null,
     maleteroL: null,
@@ -459,7 +459,7 @@ export const COCHES_YANGWANG: CocheComparador[] = [
       "Presentado en Chengdu 2025, a la venta en 2026",
     ],
     contras: [
-      "Precio y autonomía eléctrica aún sin confirmar",
+      "Precio convertido desde la tarifa oficial china (628.000 CNY): orientativo en euros",
       "Lanzamiento limitado a China en 2026",
       "Más peso y complejidad que el U7 eléctrico",
       "El 2.0 turbo de 272 CV queda lejos de los eléctricos",

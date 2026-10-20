@@ -277,7 +277,7 @@ export const COCHES_SUBARU: CocheComparador[] = [
     modelo: "Outback",
     tipo: "Gasolina",
     categoria: "Familiar",
-    precioDesde: 39900,
+    precioDesde: 41400, // tarifa oficial España (verificado 20/10/2026)
     potenciaCv: 169,
     autonomiaKm: null,
     maleteroL: 522,
@@ -298,7 +298,7 @@ export const COCHES_SUBARU: CocheComparador[] = [
       "Consumo de 8,6 l/100 km y 193 g/km de CO2: de los más altos de su segmento",
       "Prestaciones justas: 10,2 s en el 0-100 para un coche de este precio",
       "Cambio CVT poco deportivo y dirección adormecida",
-      "Precio alto para un gasolina sin hibridación: desde 39.900 €",
+      "Precio alto para un gasolina sin hibridación: desde 41.400 €",
     ],
     largoMm: 4870,
     anchoMm: null,
@@ -310,7 +310,7 @@ export const COCHES_SUBARU: CocheComparador[] = [
     parNm: 252,
     traccion: "Total",
     emisionesCo2: 193,
-    aprox: ["precioDesde"],
+    aprox: [],
     imagen: "/media/subaru-outback-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -439,7 +439,7 @@ export const COCHES_SUBARU: CocheComparador[] = [
     modelo: "E-Outback",
     tipo: "Eléctrico",
     categoria: "Familiar",
-    precioDesde: 44000,
+    precioDesde: 44000, // tarifa oficial España (verificado 20/10/2026)
     potenciaCv: 376,
     autonomiaKm: 523,
     maleteroL: 633,
@@ -456,7 +456,7 @@ export const COCHES_SUBARU: CocheComparador[] = [
       "Etiqueta Cero para el gran familiar aventurero",
     ],
     contras: [
-      "Precio previsto desde 44.000 € (47.000 € el 4x4): aún sin tarifa oficial confirmada",
+      "Tarifa oficial desde 44.000 €; la versión 4x4 de 376 CV parte de 47.000 €",
       "Autonomía por confirmar: la prensa habla de 523 km, otras fuentes citan 450 km",
       "Llegada a España prevista para finales de 2026: aún no se puede comprar",
       "Gemelo del Toyota bZ4X Touring: la comparación de precios será inevitable",
@@ -472,7 +472,7 @@ export const COCHES_SUBARU: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["precioDesde", "potenciaCv", "autonomiaKm", "bateriaKwh", "ceroCien"],
+    aprox: ["potenciaCv", "autonomiaKm", "bateriaKwh", "ceroCien"],
     imagen: "/media/subaru-e-outback-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -601,7 +601,7 @@ export const COCHES_SUBARU: CocheComparador[] = [
     modelo: "Uncharted Field",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 37500,
+    precioDesde: 37500, // tarifa oficial España (verificado 20/10/2026)
     potenciaCv: 227,
     autonomiaKm: 588,
     maleteroL: 404,
@@ -622,7 +622,7 @@ export const COCHES_SUBARU: CocheComparador[] = [
       "227 CV: menos chispa que el Touring de 343 CV",
       "Maletero de 404 l: justo para su tamaño",
       "Marca con poca red comercial en España",
-      "Precios y gama en España aún por confirmar al 100 %",
+      "Tarifa oficial con campaña incluida (37.500 €): el precio final depende de las ayudas vigentes",
     ],
     largoMm: 4535,
     anchoMm: 1870,
@@ -634,7 +634,7 @@ export const COCHES_SUBARU: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["precioDesde", "potenciaCv"],
+    aprox: ["potenciaCv"],
     imagen: "/media/subaru-uncharted-field-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -682,7 +682,7 @@ export const COCHES_SUBARU: CocheComparador[] = [
     modelo: "Uncharted Touring",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 42500,
+    precioDesde: 42500, // tarifa oficial España (verificado 20/10/2026)
     potenciaCv: 343,
     autonomiaKm: 490,
     maleteroL: 404,
@@ -703,7 +703,7 @@ export const COCHES_SUBARU: CocheComparador[] = [
       "Maletero de 404 l: se queda corto frente a rivales",
       "La autonomía cae a 490 km con la tracción total",
       "Red de concesionarios Subaru reducida en España",
-      "Gama y precios en España aún por confirmar del todo",
+      "Tarifa oficial con campaña incluida (42.500 €): el precio final depende de las ayudas vigentes",
     ],
     largoMm: 4535,
     anchoMm: 1870,
@@ -715,7 +715,7 @@ export const COCHES_SUBARU: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["precioDesde", "potenciaCv"],
+    aprox: ["potenciaCv"],
     imagen: "/media/subaru-uncharted-touring-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

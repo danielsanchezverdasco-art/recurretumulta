@@ -1406,7 +1406,7 @@ export const COCHES_SMART: CocheComparador[] = [
     "modelo": "#5 Brabus",
     "tipo": "Eléctrico",
     "categoria": "SUV",
-    "precioDesde": 63660,
+    "precioDesde": 63850, // tarifa oficial España (verificado 20/10/2026)
     "potenciaCv": 646,
     "autonomiaKm": 540,
     "maleteroL": 630,
@@ -1429,7 +1429,6 @@ export const COCHES_SMART: CocheComparador[] = [
     "traccion": "Total",
     "emisionesCo2": 0,
     "aprox": [
-      "precioDesde",
       "autonomiaKm",
       "cargaRapidaKw"
     ],
@@ -1445,7 +1444,7 @@ export const COCHES_SMART: CocheComparador[] = [
       "Consumo real muy alto si se usa la potencia",
       "Batería NMC: mejor no cargarla al 100 % a diario",
       "4,71 m y más de 2,2 t estimadas: física implacable",
-      "Precio aproximado, pendiente de tarifa oficial"
+      "Precio de tarifa oficial en España (63.850 €): territorio premium para un smart"
     ],
     "imagen": "/media/smart-5-brabus-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/smart-5-brabus-2025-precio-ficha-tecnica-oficial.webp",
