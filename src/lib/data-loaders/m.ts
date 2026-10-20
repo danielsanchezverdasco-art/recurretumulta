@@ -288,6 +288,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "morgan-plus-six-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp10.ts"),
     "morgan-super-3-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp10.ts"),
     "morgan-supersport-2025-precio-ficha-tecnica": () => import("../blog-posts-batch2b-5.ts"),
+    "moto-guzzi-stelvio-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t23.ts"),
     "moto-guzzi-v100-mandello-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m2.ts"),
     "moto-guzzi-v100-mandello-s-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m12.ts"),
     "moto-guzzi-v7-special-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m2.ts"),

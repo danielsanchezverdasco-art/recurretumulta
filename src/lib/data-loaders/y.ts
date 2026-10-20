@@ -64,6 +64,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "yamaha-xsr125-2026-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m3.ts"),
     "yamaha-xsr700-2024-analisis-opinion": () => import("../blog-posts-motos-rescate-m1.ts"),
     "yamaha-xsr700-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m7.ts"),
+    "yamaha-xsr700-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t23.ts"),
     "yamaha-xsr700-legacy-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m19.ts"),
     "yamaha-xsr900-2024-ficha-tecnica-precio": () => import("../blog-posts-prio-1a.ts"),
     "yamaha-xsr900-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m7.ts"),
