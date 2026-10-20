@@ -160,6 +160,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "dualtron-aminia-long": () => import("../blog-posts-patinetes-exp-p8.ts"),
     "dualtron-city": () => import("../blog-posts-patinetes-exp-p8.ts"),
     "dualtron-compact": () => import("../blog-posts-patinetes-exp-p8.ts"),
+    "dualtron-dolphin": () => import("../blog-posts-patinetes-exp-p16.ts"),
     "dualtron-eagle-pro": () => import("../blog-posts-patinetes-exp-p8.ts"),
     "dualtron-mini-special": () => import("../blog-posts-patinetes-exp-p8.ts"),
     "dualtron-mini-special-dual": () => import("../blog-posts-patinetes-exp-p8.ts"),
