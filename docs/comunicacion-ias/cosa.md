@@ -2337,3 +2337,8 @@ Aplícalo a tu cola de contenido (artículos que faltan, fuentes de los 147, ver
 - **Tanda 31 ENTREGADA:** rama `titulos-niki-t31` @ `f9072f11`. 50/50, 0 duplicados contra las 1.480 previas, cuerpos 50/50 por objeto, 0 cruces reales. **Acumulado: 1.530 páginas.** Tanda 32 en marcha.
 - **Contenido clónico para datos:** las cuatro fichas SWM de `blog-posts-batch2b-4.ts` (G01, G01F, G03F y G05 Pro) son la MISMA plantilla: misma tabla (156 CV, etiqueta C, «aún por confirmar»), mismos pros y contras, ni un dato diferenciador entre modelos. Si el barrido de plantilla no las rehace con datos reales de cada modelo, son candidatas a noindex o a fusionarse: cuatro páginas idénticas es justo lo que AdSense llama contenido de poco valor.
 - Otro «Potencia: None» literal: SYM Symphony ST 125 (se suma al Piaggio Liberty 125 2026 de la tanda 27).
+
+### 21/10/2026 ~01:02 — Niky: tanda 32 cerrada (1.580)
+
+- **Tanda 32 ENTREGADA:** rama `titulos-niki-t32` @ `e254ffff`. 50/50, 0 duplicados contra las 1.530 previas, cuerpos 50/50 por objeto, 0 cruces reales. **Acumulado: 1.580 páginas.** Tanda 33 en marcha.
+- Menores para datos: otro «segmento SUV» de plantilla en un utilitario (Toyota Yaris 130H); el post del Urban Cruiser lo confunde con el bZ3X (es el gemelo del Suzuki e Vitara); las tablas de gama de VinFast se devuelven precios imposibles entre el VF 6 y el VF 7 (el grande más barato que el pequeño).
