@@ -8306,3 +8306,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/voge-r125-2026-hunt1.webp | https://bikes.motobank.co.uk/storage/voge/r125s-2144/i/photo-2144-23530.jpg | Voge Motorcycles / MotoGB (galería oficial del modelo R125S 2026) | desconocida |
 | /media/voge-r125-2026-hunt2.webp | https://bikes.motobank.co.uk/storage/voge/r125s-2144/i/photo-2144-23533.jpg | Voge Motorcycles / MotoGB (galería oficial del modelo R125S 2026) | desconocida |
 | /media/voge-r125-2026-hunt3.webp | https://bikes.motobank.co.uk/storage/voge/r125s-2144/i/photo-2144-23532.jpg | Voge Motorcycles / MotoGB (galería oficial del modelo R125S 2026) | desconocida |
+| /media/luxeed-s7-2024-precio-ficha-tecnica-hunt1.webp | https://tamil.drivespark.com/img/2024/04/luxeed-s7-front-view-cover-1711912001.jpg | DriveSpark / Luxeed (prensa) | desconocida |
+| /media/luxeed-s7-2024-precio-ficha-tecnica-hunt2.webp | https://dailycarblog.com/wp-content/uploads/2023/12/Luxeed-S7-Sedan-2023-Rear.jpg | DailyCarBlog / Luxeed | desconocida |
+| /media/luxeed-s7-2024-precio-ficha-tecnica-hunt3.webp | https://images.dailyrevs.com/0000/v3/Luxeed/660aa02bbfc9accfdd14ae77/2024-s7-luxeed-jcp7gassssu09o9hnuvistk.jpeg | DailyRevs / Luxeed (prensa oficial) | desconocida |
+| /media/zeekr-007-2026-precio-ficha-tecnica-hunt1.webp | https://cdn.newautopost.co.kr/newautopost/2025/01/16162945/3-Zeekr.jpg | NewAutoPost / Zeekr (prensa) | desconocida |
+| /media/zeekr-007-2026-precio-ficha-tecnica-hunt2.webp | https://images.carexpert.com.au/resize/1920/-/app/uploads/2023/11/Zeekr-007-1.jpeg | CarExpert / Zeekr (prensa) | desconocida |
+| /media/zeekr-007-2026-precio-ficha-tecnica-hunt3.webp | https://carup.se/wp-content/uploads/2024/01/zeekr_007_interior-1024x769.webp | Carup / Zeekr (prensa) | desconocida |
+| /media/ktm-1390-super-adventure-r-2025-ficha-tecnica-precio-hunt1.webp | https://www.motorrad-bilder.at/thumbs/995x/slideshows/291/023904/660843_MY25KTM1390SUPERADVENTURER_Stills_KTM1390SUPERADVENTURErange_02_STATIC.jpg | 1000PS / KTM (prensa oficial, Rudi Schedl) | desconocida |
+| /media/ktm-1390-super-adventure-r-2025-ficha-tecnica-precio-hunt2.webp | https://editorial.pxcrush.net/bikesales/general/editorial/2025-ktm-1390-super-adventure-r.jpg?width=1024&height=682 | Bikesales / KTM (prensa oficial) | desconocida |
+| /media/ktm-1390-super-adventure-r-2025-ficha-tecnica-precio-hunt3.webp | https://www.motorrad-bilder.at/thumbs/995x/slideshows/291/023904/660831_MY25KTM1390SUPERADVENTURER_Action_EUROPEGLOBAL_01_ACTION.jpg | 1000PS / KTM (prensa oficial) | desconocida |
+| /media/voge-300ac-2026-hunt1.webp | https://www.2wo.gr//cache/com_dpfields/gallery/2/900x600/TestDrives/2021/November/Voge-300AC-2021/Voge-300-AC-2021-static-2wo-1.jpg | 2wo.gr / prueba Voge 300AC | desconocida |
+| /media/voge-300ac-2026-hunt2.webp | https://vogeitaly.it/wp-content/uploads/300AC-45-FR-R-Black-B-768x559.jpg | Voge Italy (distribuidor oficial) | desconocida |
+| /media/voge-300ac-2026-hunt3.webp | http://autogazette.de/wp-content/uploads/2021/07/Voge_1.jpg | Autogazette / prueba Voge 300AC | desconocida |
