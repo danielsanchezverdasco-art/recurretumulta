@@ -13,6 +13,29 @@ import type { CocheComparador } from "./comparador-coches-data.ts";
 export const COCHES_MG: CocheComparador[] = [
   {
     id: "mg3-hybrid-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: null,
+      nota: "Test del MG3 (2025): 74% adultos, 73% infantil, 81% peatones, 69% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección general + inspección del sistema híbrido",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión 60.000 km",
+          queSeCambia: "Lo anterior + filtro de aire + líquido de frenos + bujías",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Red oficial MG España",
+    },
     garantiaBateriaAnos: 7,
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
@@ -96,6 +119,29 @@ export const COCHES_MG: CocheComparador[] = [
   },
   {
     id: "mg3-gasolina-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: null,
+      nota: "Test del MG3 (2025): 74% adultos, 73% infantil, 81% peatones, 69% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección general",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión 60.000 km",
+          queSeCambia: "Lo anterior + filtro de aire + líquido de frenos + bujías",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Red oficial MG España",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -345,6 +391,29 @@ export const COCHES_MG: CocheComparador[] = [
   },
   {
     id: "mg-hs-hybrid-plus-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2024,
+      url: null,
+      nota: "Test del MG HS (2024): 90% adultos, 85% infantil, 83% peatones, 74% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección general + inspección del sistema híbrido",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión 60.000 km",
+          queSeCambia: "Lo anterior + filtro de aire + líquido de frenos + bujías",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Red oficial MG España",
+    },
     garantiaBateriaAnos: 7,
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
@@ -428,6 +497,29 @@ export const COCHES_MG: CocheComparador[] = [
   },
   {
     id: "mg4-electric-standard-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: null,
+      nota: "Test del MG4 (2022): 83% adultos, 80% infantil, 75% peatones, 78% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Filtro de polen + inspección general + inspección de la batería de alto voltaje",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión 60.000 km",
+          queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Red oficial MG España",
+    },
     garantiaBateriaAnos: 7,
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
@@ -511,6 +603,29 @@ export const COCHES_MG: CocheComparador[] = [
   },
   {
     id: "mg4-electric-comfort-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: null,
+      nota: "Test del MG4 (2022): 83% adultos, 80% infantil, 75% peatones, 78% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Filtro de polen + inspección general + inspección de la batería de alto voltaje",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión 60.000 km",
+          queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Red oficial MG España",
+    },
     garantiaBateriaAnos: 7,
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
@@ -594,6 +709,29 @@ export const COCHES_MG: CocheComparador[] = [
   },
   {
     id: "mg4-electric-luxury-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: null,
+      nota: "Test del MG4 (2022): 83% adultos, 80% infantil, 75% peatones, 78% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Filtro de polen + inspección general + inspección de la batería de alto voltaje",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión 60.000 km",
+          queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Red oficial MG España",
+    },
     garantiaBateriaAnos: 7,
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
@@ -690,6 +828,29 @@ export const COCHES_MG: CocheComparador[] = [
   },
   {
     id: "mg4-electric-extended-range-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: null,
+      nota: "Test del MG4 (2022): 83% adultos, 80% infantil, 75% peatones, 78% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Filtro de polen + inspección general + inspección de la batería de alto voltaje",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión 60.000 km",
+          queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Red oficial MG España",
+    },
     garantiaBateriaAnos: 7,
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
@@ -773,6 +934,29 @@ export const COCHES_MG: CocheComparador[] = [
   },
   {
     id: "mg4-electric-xpower-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: null,
+      nota: "Test del MG4 (2022): 83% adultos, 80% infantil, 75% peatones, 78% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Filtro de polen + inspección general + inspección de la batería de alto voltaje",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión 60.000 km",
+          queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Red oficial MG España",
+    },
     garantiaBateriaAnos: 7,
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
@@ -856,6 +1040,29 @@ export const COCHES_MG: CocheComparador[] = [
   },
   {
     id: "mg4-urban-2026-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: null,
+      nota: "Test del MG4 EV Urban (2025): 87% adultos, 85% infantil, 85% peatones, 80% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Filtro de polen + inspección general + inspección de la batería de alto voltaje",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión 60.000 km",
+          queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Red oficial MG España",
+    },
     garantiaBateriaAnos: 7,
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: 70,
@@ -939,6 +1146,29 @@ export const COCHES_MG: CocheComparador[] = [
   },
   {
     id: "mg5-electric-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+    },
+    planMantenimiento: {
+      intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Filtro de polen + inspección general + inspección de la batería de alto voltaje",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión 60.000 km",
+          queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Red oficial MG España",
+    },
     garantiaBateriaAnos: 7,
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
@@ -1022,6 +1252,29 @@ export const COCHES_MG: CocheComparador[] = [
   },
   {
     id: "mg-marvel-r-2024-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 4,
+      ano: 2021,
+      url: null,
+      nota: "Test del MG Marvel R (2021): 80% adultos, 75% infantil, 55% peatones, 80% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Filtro de polen + inspección general + inspección de la batería de alto voltaje",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión 60.000 km",
+          queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Red oficial MG España",
+    },
     garantiaBateriaAnos: 7,
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
@@ -1105,6 +1358,29 @@ export const COCHES_MG: CocheComparador[] = [
   },
   {
     id: "mg-cyberster-trophy-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+    },
+    planMantenimiento: {
+      intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Filtro de polen + inspección general + inspección de la batería de alto voltaje",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión 60.000 km",
+          queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Red oficial MG España",
+    },
     garantiaBateriaAnos: 7,
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
@@ -1271,6 +1547,29 @@ export const COCHES_MG: CocheComparador[] = [
   },
   {
     id: "mg-s5-ev-standard-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: null,
+      nota: "Test del MG S5 EV (2025): 90% adultos, 82% infantil, 82% peatones, 78% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Filtro de polen + inspección general + inspección de la batería de alto voltaje",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión 60.000 km",
+          queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Red oficial MG España",
+    },
     garantiaBateriaAnos: 7,
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
@@ -1354,6 +1653,29 @@ export const COCHES_MG: CocheComparador[] = [
   },
   {
     id: "mg-s5-ev-long-range-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: null,
+      nota: "Test del MG S5 EV (2025): 90% adultos, 82% infantil, 82% peatones, 78% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Filtro de polen + inspección general + inspección de la batería de alto voltaje",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión 60.000 km",
+          queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Red oficial MG España",
+    },
     garantiaBateriaAnos: 7,
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
@@ -1437,6 +1759,29 @@ export const COCHES_MG: CocheComparador[] = [
   },
   {
     id: "mg-zs-ev-2024-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2019,
+      url: null,
+      nota: "Test del MG ZS EV (2019): 90% adultos, 85% infantil, 64% peatones, 70% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Filtro de polen + inspección general + inspección de la batería de alto voltaje",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión 60.000 km",
+          queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Red oficial MG España",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1520,6 +1865,29 @@ export const COCHES_MG: CocheComparador[] = [
   },
   {
     id: "mg-zs-ev-standard-2024-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2019,
+      url: null,
+      nota: "Test del MG ZS EV (2019): 90% adultos, 85% infantil, 64% peatones, 70% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Filtro de polen + inspección general + inspección de la batería de alto voltaje",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión 60.000 km",
+          queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Red oficial MG España",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1605,6 +1973,29 @@ export const COCHES_MG: CocheComparador[] = [
   },
   {
     id: "mg5-electric-standard-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+    },
+    planMantenimiento: {
+      intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Filtro de polen + inspección general + inspección de la batería de alto voltaje",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión 60.000 km",
+          queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Red oficial MG España",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1688,6 +2079,29 @@ export const COCHES_MG: CocheComparador[] = [
   },
   {
     id: "mg-marvel-r-performance-2024-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 4,
+      ano: 2021,
+      url: null,
+      nota: "Test del MG Marvel R (2021): 80% adultos, 75% infantil, 55% peatones, 80% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Filtro de polen + inspección general + inspección de la batería de alto voltaje",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión 60.000 km",
+          queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Red oficial MG España",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,

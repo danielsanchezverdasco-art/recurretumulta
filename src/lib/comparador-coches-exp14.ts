@@ -1469,6 +1469,26 @@ export const COCHES_EXP14: CocheComparador[] = [
   },
   {
     id: "hyundai-ioniq-9-long-range-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: null,
+      nota: "Test del Hyundai IONIQ 9 (2025): 84% adultos, 87% infantil, 77% peatones, 83% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "Cada 24 meses o 30.000 km (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión bienal / 30.000 km",
+          queSeCambia: "Inspección general, filtro de habitáculo y estado de la batería de alto voltaje",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Hyundai España (plan oficial para eléctricos)",
+    },
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es",
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,

@@ -396,6 +396,8 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
   // AUDIT 08/10/2026 (orden Daniel): nulls justificados — no publicado por la marca: anchoMm, altoMm, pesoKg, consumo — vídeo sin asignar (campo opcional).
   {
     id: "mg-s6-ev-2026-precio-ficha-tecnica",
+    fuenteNombre: "MG España",
+    fuenteUrl: "https://www.mgmotor.eu/es",
     marca: "MG",
     modelo: "S6 EV",
     tipo: "Eléctrico",
@@ -447,7 +449,12 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       { src: "/media/mg-s6-ev-2026-precio-ficha-tecnica-oficial.webp", alt: "MG S6 EV, vista tres cuartos delantera", ancho: 1600, alto: 900 },
       { src: "/media/mg-s6-ev-2026-precio-ficha-tecnica-interior.webp", alt: "Interior del MG S6 EV", ancho: 1600, alto: 900 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: null,
+      nota: "Test del MG S6 EV (2025): 92% adultos, 85% infantil, 84% peatones, 78% asistencias",
+    },
     planMantenimiento: {
       intervalo: "24 meses o 30.000 km (lo que antes ocurra)",
       revisiones: [
@@ -460,6 +467,8 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
   // AUDIT 08/10/2026 (orden Daniel): nulls justificados — N/A: autonomiaKm — no publicado por la marca: velocidadMax, cargaRapidaKw, garantiaBateriaDegradacionPct, anchoMm, altoMm, pesoKg, parNm, emisionesCo2 — vídeo sin asignar (campo opcional).
   {
     id: "mg-zs-hybrid-plus-2026-precio-ficha-tecnica",
+    fuenteNombre: "MG España",
+    fuenteUrl: "https://www.mgmotor.eu/es",
     marca: "MG",
     modelo: "ZS Hybrid+",
     tipo: "Híbrido",
@@ -511,7 +520,12 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       { src: "/media/mg-zs-hybrid-plus-2026-precio-ficha-tecnica-oficial.webp", alt: "MG ZS Hybrid+ rojo, vista lateral", ancho: 1600, alto: 900 },
       { src: "/media/mg-zs-hybrid-plus-2026-precio-ficha-tecnica-interior.webp", alt: "Interior del MG ZS Hybrid+", ancho: 1600, alto: 900 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: {
+      estrellas: 4,
+      ano: 2024,
+      url: null,
+      nota: "Test del MG ZS Hybrid+ (2024): 75% adultos, 82% infantil, 73% peatones, 76% asistencias",
+    },
     planMantenimiento: {
       intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
       revisiones: [
@@ -525,6 +539,8 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
   // AUDIT 08/10/2026 (orden Daniel): nulls justificados — N/A: autonomiaKm, bateriaKwh, cargaRapidaKw, garantiaBateriaAnos, garantiaBateriaKm, garantiaBateriaDegradacionPct — sin ES: precioDesde (no se vende en ES), etiquetaDgt (sin homologación ES) — no publicado por la marca: maleteroL, ceroCien, velocidadMax, anchoMm, altoMm, pesoKg, consumo, emisionesCo2 — vídeo sin asignar (campo opcional).
   {
     id: "mg7-2025-precio-ficha-tecnica",
+    fuenteNombre: "MG Motor Europa (modelo no comercializado en España)",
+    fuenteUrl: "https://www.mgmotor.eu",
     marca: "MG",
     modelo: "7",
     tipo: "Gasolina",
@@ -589,6 +605,8 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
   // AUDIT 08/10/2026 (orden Daniel): nulls justificados — no publicado por la marca: velocidadMax — vídeo sin asignar (campo opcional).
   {
     id: "mg-s5-ev-2026-precio-ficha-tecnica",
+    fuenteNombre: "MG España",
+    fuenteUrl: "https://www.mgmotor.eu/es",
     marca: "MG",
     modelo: "S5 EV",
     tipo: "Eléctrico",
@@ -640,7 +658,12 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       { src: "/media/mg-s5-ev-2026-precio-ficha-tecnica-oficial.webp", alt: "MG S5 EV, vista tres cuartos delantera", ancho: 1600, alto: 900 },
       { src: "/media/mg-s5-ev-2026-precio-ficha-tecnica-interior.webp", alt: "Interior del MG S5 EV", ancho: 1600, alto: 900 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: null,
+      nota: "Test del MG S5 EV (2025): 90% adultos, 82% infantil, 82% peatones, 78% asistencias",
+    },
     planMantenimiento: {
       intervalo: "24 meses o 30.000 km (lo que antes ocurra)",
       revisiones: [

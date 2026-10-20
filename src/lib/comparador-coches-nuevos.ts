@@ -8950,6 +8950,29 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   },
 {
     id: "mg4-urban-electric-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: null,
+      nota: "Test del MG4 EV Urban (2025): 87% adultos, 85% infantil, 85% peatones, 80% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Filtro de polen + inspección general + inspección de la batería de alto voltaje",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión 60.000 km",
+          queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Red oficial MG España",
+    },
     mantenimientoDIY: {
         resetAceiteTitulo: "Resetear aviso de revisión/servicio",
         resetAceitePasos: ["Con el coche apagado, pulsa el botón de arranque una vez sin pisar el freno para poner el contacto (ON) sin arrancar.", "Con los botones del lado derecho del volante, entra en el menú del cuadro de instrumentos.", "Selecciona 'Servicio' / 'Next Service' (próximo servicio): verás la distancia restante y la opción 'Reset'.", "Selecciona 'Reset' y mantén pulsado el botón OK / del ordenador de viaje unos segundos hasta que el aviso se reinicie.", "Apaga el contacto y vuelve a encender para comprobar que el aviso ha desaparecido."],
@@ -9116,6 +9139,29 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   },
   {
     id: "mg3-hybrid-2024-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: null,
+      nota: "Test del MG3 de la misma generación (2025): 74% adultos, 73% infantil, 81% peatones, 69% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección general + inspección del sistema híbrido",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión 60.000 km",
+          queSeCambia: "Lo anterior + filtro de aire + líquido de frenos + bujías",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Red oficial MG España",
+    },
     mantenimientoDIY: {
         resetAceiteTitulo: "Resetear aviso de revisión/servicio",
         resetAceitePasos: ["Con el coche apagado, pulsa el botón de arranque una vez sin pisar el freno para poner el contacto (ON) sin arrancar.", "Con los botones del lado derecho del volante, entra en el menú del cuadro de instrumentos.", "Selecciona 'Servicio' / 'Next Service' (próximo servicio): verás la distancia restante y la opción 'Reset'.", "Selecciona 'Reset' y mantén pulsado el botón OK / del ordenador de viaje unos segundos hasta que el aviso se reinicie.", "Apaga el contacto y vuelve a encender para comprobar que el aviso ha desaparecido."],
