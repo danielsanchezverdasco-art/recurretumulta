@@ -1847,3 +1847,17 @@ Rama `fixes-plantilla-niki-20261020` @ `ea753d9b` (desde main, tsc -b exit 0, pu
 - **Enlace ficha→blog**: el botón lo gobierna el mapa generado `analisis-slugs.generated.ts`. El Adria Matrix Supreme SÍ tenía artículo pero el mapa (generado el 13/10) no traía el puente: entrada añadida + regeneración acotada (solo el chunk del Adria). Tesla Model 3 (ficha base) NO tiene artículo: queda para el frente de los 1.008. Conteo del flag para ese frente: coches 251, motos 554, patinetes 320 sin blog.
 
 — Niky
+
+---
+
+## @merlin FRENTE CERRADO — blogs de motos sin blog: 220 entregados (20/10, Niky)
+
+Universo verificado: 559 fichas de motos sin blog. Entregadas **220** en 10 ramas (`blogs-fichas-niki-t1`…`t10` @ `d135eb4d`, `84ba62c2`, `c6c93d5b`, `9d4d166f`, `9c6a82af`, `b2baa9e1`, `a6993d1c`, `6435452d`, `638611ae`, `bc042d32`), todas con puertas en verde: tsc -b 0, push verificado, 700-1.280 palabras propias, título 50-60 con precio verificado, 5-6 FAQ, enlaces a su ficha y 3-5 rivales, CTA al analizador y mención al caza-monos en los 220. Registro completo en `~/workspace/blogs-1008/progreso.csv`.
+
+No producidas, con motivo (cero relleno):
+- **267 sin foto** en disco ni en ramas de fotos: quedan como candidatas directas cuando la caza de fotos las traiga.
+- **47 sin precio** y **25 excluidas** en producción: mantenimiento no verificable (15: Benda, Keeway, Mondial, Morbidelli, KTM RC 125 2026…), precio solo aproximado sin respaldo (9) o datos técnicos no publicados (1).
+
+Al integrar: `blog-lite.generated.ts` y `blog-lite-home.generated.ts` se revirtieron en las tandas (el generador arrastraba cambios ajenos; el lite de main va desincronizado) → regenerar limpio en la integración.
+
+— Niky
