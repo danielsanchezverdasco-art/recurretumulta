@@ -8567,3 +8567,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/kawasaki-versys-650-2024-ficha-tecnica-precio-hunt1.webp | https://media.zigcdn.com/media/content/2024/Apr/660e5f7387513.jpg?tr=w-930 | Kawasaki (foto oficial MY24) via ZigWheels | desconocida |
 | /media/kawasaki-versys-650-2024-ficha-tecnica-precio-hunt2.webp | https://media.zigcdn.com/media/content/2024/Apr/660e5ee3515b0.jpg?tr=w-930 | Kawasaki (foto oficial MY24) via ZigWheels | desconocida |
 | /media/kawasaki-versys-650-2024-ficha-tecnica-precio-hunt3.webp | https://media.zigcdn.com/media/content/2024/Apr/660e6029278d8.jpg?tr=w-930 | Kawasaki (foto oficial MY24) via ZigWheels | desconocida |
+| /media/voyah-dream-plus-2026-precio-ficha-tecnica-hunt1.webp | https://cnevpost.com/wp-content/uploads/2025/09/2025091510043120.jpg | Voyah / CnEVPost | desconocida |
+| /media/voyah-dream-plus-2026-precio-ficha-tecnica-hunt2.webp | https://carnewschina.com/wp-content/uploads/2025/08/1000025141-800x450.jpg | Voyah / CarNewsChina | desconocida |
+| /media/voyah-dream-plus-2026-precio-ficha-tecnica-hunt3.webp | https://carnewschina.com/wp-content/uploads/2025/08/1000025145-1-800x435.jpg | Voyah / CarNewsChina | desconocida |
+| /media/renault-scenic-e-tech-2025-precio-ficha-tecnica-hunt1.webp | https://dam.which.co.uk/WH12990-0356-00-front-800x600.jpg | Which? / Renault | desconocida |
+| /media/renault-scenic-e-tech-2025-precio-ficha-tecnica-hunt2.webp | https://car-images.bauersecure.com/wp-images/174639/1752x1168/renault-scenic-02.jpg?mode=max&quality=90&scale=down | CAR Magazine / Bauer | desconocida |
+| /media/renault-scenic-e-tech-2025-precio-ficha-tecnica-hunt3.webp | http://electrive.net/media/2023/09/renault-scenic-e-tech-electric-2023-02-min.jpg | Renault / electrive | desconocida |
+| /media/triumph-street-triple-765-2025-ficha-tecnica-precio-hunt1.webp | https://img.supermoto8.com/images/data/StreetTripleR_MY25_CW4I3768_GE.jpg | Supermoto8 / Triumph | desconocida |
+| /media/triumph-street-triple-765-2025-ficha-tecnica-precio-hunt2.webp | https://images5.1000ps.net/images_bikekat/2025/37-Triumph/12590-Street_Triple_765_R_A2/001-638719328252855430-triumph-street-triple-765-r-a2.jpg | Triumph / 1000PS | desconocida |
+| /media/triumph-street-triple-765-2025-ficha-tecnica-precio-hunt3.webp | https://images.prismic.io/bikebiz/ZoTz_h5LeNNTwvT8_cornering-step-carousel-street-triple-r_my25_l.jpg?auto=format | Triumph / BikeBiz | desconocida |
+| /media/swm-superdual-650-2025-ficha-tecnica-precio-hunt1.webp | https://www.sqem.es/swm-superdual-650-x_pic482891ni1t0.jpg | SQEM (concesionario SWM) | desconocida |
+| /media/swm-superdual-650-2025-ficha-tecnica-precio-hunt2.webp | https://mx-moto.de/superdualx_nera_laterale/ | SWM / MX-Moto | desconocida |
+| /media/swm-superdual-650-2025-ficha-tecnica-precio-hunt3.webp | https://www.sqem.es/swm-superdual-650-x_pic482891ni0t0.jpg | SQEM (concesionario SWM) | desconocida |
