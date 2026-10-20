@@ -5726,3 +5726,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/dongfeng-aeolus-ax7-2026-precio-ficha-tecnica-hunt1.webp | https://imagecdn.zigwheels.ae/large/gallery/exterior/123/2054/dongfeng-ax7-79973.jpg | ZigWheels (galería Dongfeng AX7) | desconocida |
 | /media/dongfeng-aeolus-ax7-2026-precio-ficha-tecnica-hunt2.webp | https://imagecdn.zigwheels.ae/large/gallery/exterior/123/2054/dongfeng-ax7-front-cross-side-view-851644.jpg | ZigWheels (galería Dongfeng AX7) | desconocida |
 | /media/dongfeng-aeolus-ax7-2026-precio-ficha-tecnica-hunt3.webp | https://imagecdn.zigwheels.ae/medium/gallery/interior/123/2054/dongfeng-ax7-dashboard-view-288457.jpg | ZigWheels (galería interior Dongfeng AX7) | desconocida |
+| /media/bmw-ix1-edrive20-2025-precio-ficha-tecnica-hunt1.webp | https://electriccarsreport.com/wp-content/uploads/2023/09/BMW-iX1-eDrive20.jpg | BMW (prensa oficial, vía Electric Cars Report) | desconocida |
+| /media/bmw-ix1-edrive20-2025-precio-ficha-tecnica-hunt2.webp | https://electriccarsreport.com/wp-content/uploads/2023/09/BMW-iX1-eDrive20_2.jpg | BMW (prensa oficial, vía Electric Cars Report) | desconocida |
+| /media/bmw-ix1-edrive20-2025-precio-ficha-tecnica-hunt3.webp | https://yellowradio.gr/wp-content/uploads/2023/09/iX1-eDrive20-091.jpg | BMW (prensa oficial, vía YellowRadio) | desconocida |
+| /media/cfmoto-700cl-x-heritage-2025-ficha-tecnica-precio-hunt1.webp | https://da28rauy2a860.cloudfront.net/roadrider/wp-content/uploads/2024/03/21110618/700CL-X-HERITAGE_Static_PR-678x381.jpg | CFMOTO (prensa oficial, vía Road Rider Magazine) | desconocida |
+| /media/cfmoto-700cl-x-heritage-2025-ficha-tecnica-precio-hunt2.webp | https://moto.motorionline.com/wp-content/gallery/cfmoto-700cl-x-heritage-foto/700CL-X-HERITAGE_Esterne_2.jpg | Moto MotoriOnline | desconocida |
+| /media/cfmoto-700cl-x-heritage-2025-ficha-tecnica-precio-hunt3.webp | https://lajumotor.com/wp-content/uploads/2023/01/cfmoto-700cl-x-heritage-2023-768x494.jpg | LaJuMotor | desconocida |
+| /media/cyclone-ra-600-2026-ficha-tecnica-precio-hunt1.webp | https://cyclone-motor.eu/wp-content/uploads/2026/01/ra600-negro-360-4-1024x768.webp | Cyclone Motor (oficial) | desconocida |
+| /media/cyclone-ra-600-2026-ficha-tecnica-precio-hunt2.webp | https://cyclone-motor.eu/wp-content/uploads/2026/01/ra600-verde-360-1.webp | Cyclone Motor (oficial) | desconocida |
+| /media/cyclone-ra-600-2026-ficha-tecnica-precio-hunt3.webp | https://cyclone-motor.eu/wp-content/uploads/2026/01/ra600-verde-360-4.webp | Cyclone Motor (oficial) | desconocida |
+| /media/kaiyi-kunlun-2026-precio-ficha-tecnica-hunt1.webp | https://www.auro-automobile.com/wp-content/uploads/2026/02/2-2.jpg | Auro Automobile | desconocida |
+| /media/kaiyi-kunlun-2026-precio-ficha-tecnica-hunt2.webp | https://www.auro-automobile.com/wp-content/uploads/2026/02/4-2-1024x768.jpg | Auro Automobile | desconocida |
+| /media/kaiyi-kunlun-2026-precio-ficha-tecnica-hunt3.webp | https://www.djyxrauto.com/Public/uploads/image/2026-04/20260420105259a849078c56757ea1.jpg | DjyxrAuto | desconocida |
