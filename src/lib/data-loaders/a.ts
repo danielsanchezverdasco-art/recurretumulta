@@ -111,6 +111,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "anfac-septiembre-2026-record-electrificacion-model-3-lider": () => import("../blog-posts-motor-2026-g.ts"),
     "aovopro-365-go": () => import("../blog-posts-patinetes-exp-p4.ts"),
     "aovopro-es60": () => import("../blog-posts-patinetes-exp-p4.ts"),
+    "aovopro-es80": () => import("../blog-posts-patinetes-exp-p15.ts"),
     "aovopro-esmax": () => import("../blog-posts-patinetes-exp-p4.ts"),
     "apollo-air-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "apollo-air-pro-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),

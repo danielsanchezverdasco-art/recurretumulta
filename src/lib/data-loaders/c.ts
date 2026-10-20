@@ -45,6 +45,8 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "cecotec-bongo-serie-x45-sport-connected": () => import("../blog-posts-patinetes-exp-p6.ts"),
     "cecotec-bongo-serie-x65-connected": () => import("../blog-posts-patinetes-exp-p6.ts"),
     "cecotec-bongo-serie-z-off-road": () => import("../blog-posts-patinetes-exp-p6.ts"),
+    "cecotec-bongo-y45": () => import("../blog-posts-patinetes-exp-p15.ts"),
+    "cecotec-bongo-y65": () => import("../blog-posts-patinetes-exp-p15.ts"),
     "cecotec-bongo-z-plus": () => import("../blog-posts-patinetes-exp-p2.ts"),
     "cfmoto-1000mt-x-2026-ficha-tecnica-precio": () => import("../blog-posts-lote7.ts"),
     "cfmoto-125nk-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m9.ts"),

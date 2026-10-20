@@ -178,6 +178,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "dualtron-togo-plus": () => import("../blog-posts-patinetes-exp-p2.ts"),
     "dualtron-ultra-2-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "dualtron-ultra-2-upgrade": () => import("../blog-posts-patinetes-exp-p8.ts"),
+    "dualtron-victor-60v": () => import("../blog-posts-patinetes-exp-p15.ts"),
     "dualtron-victor-limited": () => import("../blog-posts-patinetes-exp-p2.ts"),
     "dualtron-victory": () => import("../blog-posts-patinetes-exp-p8.ts"),
     "dualtron-x-limited": () => import("../blog-posts-patinetes-exp-p2.ts"),
