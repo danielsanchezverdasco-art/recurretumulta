@@ -12,7 +12,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "E-Cross Pro 2",
-    precioEur: null,
+    precioEur: 599.99, // tarifa oficial Europa (verificado 20/10/2026)
     potenciaNominalW: 600,
     potenciaPicoW: 800,
     autonomiaKm: 50,
@@ -74,7 +74,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "eCross Go",
-    precioEur: null,
+    precioEur: 499, // tarifa oficial Europa (verificado 20/10/2026)
     potenciaNominalW: null,
     potenciaPicoW: 1200,
     autonomiaKm: 50,
@@ -136,7 +136,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Tarumo",
     marca: "Urban Glide",
     modelo: "All Road 6 2x2",
-    precioEur: null,
+    precioEur: 849.99, // tarifa oficial Europa (verificado 20/10/2026)
     potenciaNominalW: 1600,
     potenciaPicoW: null,
     autonomiaKm: 80,
@@ -198,7 +198,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "Ride 100 Pro 2",
-    precioEur: null,
+    precioEur: null, // Urban Glide no publica PVP vigente de este modelo descatalogado (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: 800,
     autonomiaKm: 40,
@@ -232,6 +232,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Carga máxima no publicada",
       "Sin certificación DGT verificada",
       "Sin suspensiones específicas: en adoquines se nota",
+      "Sin precio oficial: la marca no publica PVP vigente de este modelo; solo aparecen precios de comparadores",
     ],
     veredicto:
       "El Ride 100 Pro 2 apuesta por la batería grande (624 Wh) en un formato urbano de 500 W. Buena opción si priorizas autonomía sobre peso; si lo vas a plegar y cargar a diario, mira antes alternativas de 15-17 kg.",
@@ -260,7 +261,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "Ride 100 Max",
-    precioEur: null,
+    precioEur: null, // Urban Glide no publica PVP vigente de este modelo descatalogado (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: null,
     autonomiaKm: 30,
@@ -294,6 +295,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Sin certificación DGT verificada",
       "Acabados básicos acordes a su precio",
       "Sin suspensión: las ruedas de 10\" ayudan, pero no hacen milagros",
+      "Sin precio oficial: la marca no publica PVP vigente de este modelo; solo aparecen precios de comparadores",
     ],
     veredicto:
       "El Ride 100 Max es el mechero de la gama: 15 kg y unos 240 € para moverte por ciudad. Perfecto como primer patinete o para el último kilómetro; insuficiente si necesitas autonomía o potencia para cuestas.",
@@ -322,7 +324,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "TaytechTV",
     marca: "Urban Glide",
     modelo: "1000GT 2x2",
-    precioEur: null,
+    precioEur: null, // Urban Glide no publica PVP vigente de este modelo descatalogado (verificado 20/10/2026)
     potenciaNominalW: 2000,
     potenciaPicoW: 2800,
     autonomiaKm: 100,
@@ -356,6 +358,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Sin certificación DGT: no apto para circular como VMP en España",
       "Precio elevado para la marca (gama alta de Urban Glide)",
       "El mantenimiento (hidráulicos, batería de 52 V) es más caro",
+      "Sin precio oficial: la marca no publica PVP vigente de este modelo; solo aparecen precios sueltos de tiendas",
     ],
     veredicto:
       "El 1000GT 2x2 es el pepino de Urban Glide: 2.800 W de pico y más de 1,2 kWh de batería. No es un patinete urbano, es una máquina de prestaciones para quien sabe lo que compra y dónde puede usarla legalmente.",
@@ -384,7 +387,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "All Road 2",
-    precioEur: null,
+    precioEur: 499.99, // tarifa oficial Europa (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: null,
     autonomiaKm: 40,
@@ -446,7 +449,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "E-Cross One",
-    precioEur: null,
+    precioEur: 549.99, // tarifa oficial Europa (verificado 20/10/2026)
     potenciaNominalW: 600,
     potenciaPicoW: 800,
     autonomiaKm: 50,
@@ -508,7 +511,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Sam Stéphane",
     marca: "Urban Glide",
     modelo: "Ride 85 Evo",
-    precioEur: null,
+    precioEur: 349.99, // tarifa oficial Europa (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: null,
     autonomiaKm: 20,
@@ -570,7 +573,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "E-Cross Pro Boost 2",
-    precioEur: 650,
+    precioEur: 649.99, // tarifa oficial Europa (verificado 20/10/2026)
     potenciaNominalW: 1200,
     potenciaPicoW: 1600,
     autonomiaKm: 60,
@@ -588,7 +591,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/urban-glide-e-cross-pro-boost-2-2.webp", alt: "Detalle de las seis suspensiones del Urban Glide E-Cross Pro Boost 2", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/urban-glide-e-cross-pro-boost-2-3.webp", alt: "Urban Glide E-Cross Pro Boost 2 en un sendero", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur", "autonomiaRealKm", "potenciaNominalW"],
+    aprox: ["autonomiaRealKm", "potenciaNominalW"],
     pros: [
       "Doble motor (2x800 W, 1.600 W de pico): tracción total real",
       "Seis suspensiones (4 delanteras + 2 traseras): comodidad máxima",
@@ -632,7 +635,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "500CT",
-    precioEur: null,
+    precioEur: null, // Urban Glide no publica PVP oficial de este modelo (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: null,
     autonomiaKm: 70,
@@ -666,6 +669,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Sin certificación DGT verificada",
       "Disponibilidad limitada fuera de Francia/Bélgica",
       "Diseño funcional, sin el equipamiento (intermitentes) de los eCross",
+      "Sin precio oficial publicado por la marca; lo que circula son precios de tiendas francesas y comparadores",
     ],
     veredicto:
       "El 500CT es el rutero de Urban Glide: 720 Wh y 70 km declarados para quien hace kilómetros de verdad. Si la autonomía es tu prioridad número uno y no te importa el peso, es difícil darle más por menos.",
@@ -694,7 +698,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "All Road 5",
-    precioEur: 510,
+    precioEur: 509.99, // precio en Boulanger, retailer oficial en Francia (verificado 20/10/2026)
     potenciaNominalW: 800,
     potenciaPicoW: null,
     autonomiaKm: 40,
@@ -712,7 +716,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/urban-glide-all-road-5-2.webp", alt: "Detalle de la suspensión trasera del Urban Glide All Road 5", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/urban-glide-all-road-5-3.webp", alt: "Urban Glide All Road 5 en un camino rural", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur", "autonomiaRealKm"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "800 W con 40 km de autonomía: equilibrio potencia/alcance",
       "Suspensión trasera y ruedas de 10\": cómodo en firmes rotos",
@@ -756,7 +760,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "eCross Pro XS",
-    precioEur: 550,
+    precioEur: 549.99, // precio en retailer oficial en Francia (verificado 20/10/2026)
     potenciaNominalW: 800,
     potenciaPicoW: null,
     autonomiaKm: 40,
@@ -774,7 +778,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/urban-glide-ecross-pro-xs-2.webp", alt: "Detalle del chasis del Urban Glide eCross Pro XS", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/urban-glide-ecross-pro-xs-3.webp", alt: "Urban Glide eCross Pro XS en ciudad", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur", "autonomiaRealKm"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "800 W en formato eCross compacto",
       "40 km declarados para el día a día",
@@ -818,7 +822,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "Ride 100 City",
-    precioEur: 240,
+    precioEur: null, // Urban Glide no publica PVP oficial de este modelo (verificado 20/10/2026)
     potenciaNominalW: 700,
     potenciaPicoW: null,
     autonomiaKm: 35,
@@ -836,7 +840,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/urban-glide-ride-100-city-2.webp", alt: "Detalle del manillar del Urban Glide Ride 100 City", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/urban-glide-ride-100-city-3.webp", alt: "Urban Glide Ride 100 City en el centro de la ciudad", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur", "autonomiaRealKm"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "700 W por unos 240 €: potencia de derribo en precio",
       "35 km declarados, de sobra para commuting",
@@ -852,6 +856,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Acabados básicos",
       "Sin datos de tiempo de carga",
       "Poca presencia en tiendas españolas",
+      "Sin precio oficial publicado por la marca; lo que circula son precios sueltos de comparadores",
     ],
     veredicto:
       "El Ride 100 City es carne de oferta: 700 W por 240 €. La ficha técnica que publica la marca es escasa, así que conviene verlo en persona antes de comprar. Como patinete barato para ciudad, la ecuación precio/potencia es imbatible.",
@@ -880,7 +885,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "100 Shark",
-    precioEur: 300,
+    precioEur: null, // Urban Glide no publica PVP oficial de este modelo (verificado 20/10/2026)
     potenciaNominalW: 700,
     potenciaPicoW: null,
     autonomiaKm: null,
@@ -898,7 +903,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/urban-glide-100-shark-2.webp", alt: "Detalle del Urban Glide 100 Shark", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/urban-glide-100-shark-3.webp", alt: "Urban Glide 100 Shark en una calle urbana", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur"],
+    aprox: [],
     pros: [
       "700 W y batería de 10 Ah por unos 300 € en Amazon Francia",
       "Formato compacto de la serie 100",
@@ -914,6 +919,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Sin certificación DGT verificada",
       "Solo disponible en marketplace francés",
       "Ficha técnica muy incompleta",
+      "Sin precio oficial publicado por la marca; solo se ve en marketplaces franceses",
     ],
     veredicto:
       "El 100 Shark se vende por su precio (300 €) y sus 700 W, pero Urban Glide no publica ni la autonomía. Solo para compradores que prioricen el precio por encima de todo y puedan probarlo antes.",
@@ -942,7 +948,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "EON X",
-    precioEur: 1480,
+    precioEur: null, // Urban Glide no publica PVP oficial de este modelo (verificado 20/10/2026)
     potenciaNominalW: 2200,
     potenciaPicoW: 4000,
     autonomiaKm: 140,
@@ -960,7 +966,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/urban-glide-eon-x-2.webp", alt: "Detalle de las ruedas de 12 pulgadas del Urban Glide EON X", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/urban-glide-eon-x-3.webp", alt: "Urban Glide EON X en una pista forestal", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur", "autonomiaRealKm"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "2.200 W nominales con picos de 4.000 W: lo más potente de Urban Glide",
       "Batería de 1.800 Wh (60 V 30 Ah): 140 km declarados",
@@ -970,7 +976,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Alternativa europea a los hyper-scooters chinos",
     ],
     contras: [
-      "Unos 1.480 €: el Urban Glide más caro con diferencia",
+      "Sin precio oficial publicado por la marca para el EON X; los precios de tiendas extranjeras varían mucho",
       "Peso no publicado, pero con 1,8 kWh será muy pesado",
       "Tiempo de carga no publicado; con 1.800 Wh, larguísimo",
       "Sistema de frenado no detallado para 4.000 W de pico",
@@ -1004,7 +1010,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "UrbanRide 85+",
-    precioEur: 240,
+    precioEur: 239.99, // precio en Boulanger vendido por UrbanGlide (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: null,
     autonomiaKm: 30,
@@ -1022,7 +1028,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/urban-glide-urbanride-85-plus-2.webp", alt: "Detalle de las suspensiones del Urban Glide UrbanRide 85+", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/urban-glide-urbanride-85-plus-3.webp", alt: "Urban Glide UrbanRide 85+ en un carril bici", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur", "autonomiaRealKm"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Suspensiones y buena señalización: lo destacan los usuarios",
       "30 km declarados, el doble que el 85 City",
@@ -1066,7 +1072,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "UrbanRide 85 City",
-    precioEur: 240,
+    precioEur: 239.99, // precio en Boulanger, retailer oficial en Francia (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: null,
     autonomiaKm: 15,
@@ -1084,7 +1090,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/urban-glide-urbanride-85-city-2.webp", alt: "Detalle del freno trasero del Urban Glide UrbanRide 85 City", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/urban-glide-urbanride-85-city-3.webp", alt: "Urban Glide UrbanRide 85 City en una zona peatonal", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur", "autonomiaRealKm"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Freno de disco trasero y potente luz LED: bien equipado en seguridad",
       "Carga en unas 4 horas",
@@ -1128,7 +1134,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "Ride 100XS",
-    precioEur: 240,
+    precioEur: 239.99, // precio en Boulanger vendido por UrbanGlide (verificado 20/10/2026)
     potenciaNominalW: null,
     potenciaPicoW: null,
     autonomiaKm: null,
@@ -1146,7 +1152,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/urban-glide-ride-100xs-2.webp", alt: "Detalle del Urban Glide Ride 100XS", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/urban-glide-ride-100xs-3.webp", alt: "Urban Glide Ride 100XS plegado junto a una puerta", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur"],
+    aprox: [],
     pros: [
       "Cuatro modos de velocidad adaptables al uso",
       "Formato compacto XS: el más portable de la gama Ride",
@@ -1190,7 +1196,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Hiley",
     modelo: "Tiger 10 GTR",
-    precioEur: null,
+    precioEur: null, // Hiley no publica PVP oficial de este modelo (verificado 20/10/2026)
     potenciaNominalW: 2800,
     potenciaPicoW: 3800,
     autonomiaKm: 110,
@@ -1219,7 +1225,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     ],
     contras: [
       "34,6 kg: imposible de cargar a mano",
-      "Precio elevado (gama alta de Hiley, unos 1.600-1.800 € en Europa)",
+      "Sin precio oficial en Europa: Hiley no publica PVP del Tiger 10 GTR",
       "Tiempo de carga no publicado; con 1,8 kWh será muy largo",
       "Sin certificación DGT verificada",
       "Excesivo para ciudad: es un hyper-scooter",
@@ -1243,7 +1249,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Trail Tested",
     marca: "Hiley",
     modelo: "Tiger Supra Pro",
-    precioEur: null,
+    precioEur: null, // Hiley no publica PVP oficial de este modelo (verificado 20/10/2026)
     potenciaNominalW: 3200,
     potenciaPicoW: 4600,
     autonomiaKm: 120,
@@ -1273,7 +1279,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     contras: [
       "No es un VMP: a 85 km/h no puede circular por ciudad en España",
       "Sin certificación DGT: solo circuito o vías privadas",
-      "38 kg y precio de gama alta (más de 2.000 €)",
+      "38 kg y sin precio oficial en Europa: Hiley no publica PVP del Supra Pro",
       "Tiempo de carga no publicado",
       "Seguro y mantenimiento de nivel moto",
       "Sobrepotenciado para cualquier uso urbano legal",
@@ -1296,7 +1302,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Hiley",
     modelo: "MaxSpeed X10",
-    precioEur: null,
+    precioEur: null, // Hiley no publica PVP oficial de este modelo (verificado 20/10/2026)
     potenciaNominalW: 600,
     potenciaPicoW: null,
     autonomiaKm: 50,
@@ -1328,7 +1334,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Sin certificación DGT",
       "Peso y carga máxima no publicados",
       "Sistema de frenado no detallado",
-      "Precio no publicado en España",
+      "Sin precio oficial en España: Hiley no publica PVP del MaxSpeed X10",
       "A 45 km/h exige casco y mucha prudencia",
     ],
     veredicto:
@@ -1349,7 +1355,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Hiley Mobility",
     marca: "Hiley",
     modelo: "MaxSpeed X8",
-    precioEur: null,
+    precioEur: null, // Hiley no publica PVP oficial de este modelo (verificado 20/10/2026)
     potenciaNominalW: 400,
     potenciaPicoW: null,
     autonomiaKm: 30,
@@ -1383,6 +1389,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "400 W justos en cuestas",
       "Frenos y carga máxima no detallados",
       "Autonomía real de unos 20 km",
+      "Sin precio oficial en España: Hiley no publica PVP del MaxSpeed X8",
     ],
     veredicto:
       "El MaxSpeed X8 es el peso pluma de Hiley: 14 kg y 33 km/h. Divertido y portable, pero sus 33 km/h lo sacan de la normativa VMP española. Para ciudad legal, mejor un 25 km/h certificado.",
@@ -1402,7 +1409,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Careless Kingdom",
     marca: "Hiley",
     modelo: "Tiger 10 Pro",
-    precioEur: null,
+    precioEur: null, // Hiley no publica PVP oficial de este modelo (verificado 20/10/2026)
     potenciaNominalW: 2400,
     potenciaPicoW: null,
     autonomiaKm: 60,
@@ -1434,7 +1441,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Peso no publicado; con doble motor será pesado",
       "Tiempo de carga no publicado",
       "Sin certificación DGT verificada",
-      "Precio elevado (gama alta)",
+      "Sin precio oficial en Europa: Hiley no publica PVP del Tiger 10 Pro",
       "Excesivo si solo vas a hacer ciudad tranquila",
     ],
     veredicto:
@@ -1455,7 +1462,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Hiley",
     modelo: "Tiger 10 Lite",
-    precioEur: null,
+    precioEur: null, // Hiley no publica PVP oficial de este modelo (verificado 20/10/2026)
     potenciaNominalW: 2000,
     potenciaPicoW: 3600,
     autonomiaKm: 100,
@@ -1489,6 +1496,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Tiempo de carga no publicado",
       "A 65 km/h el riesgo se multiplica: casco integral y protecciones",
       "Mantenimiento de gama alta",
+      "Sin precio oficial en Europa: Hiley no publica PVP del Tiger 10 Lite",
     ],
     veredicto:
       "El Tiger 10 Lite es el 'pequeño' de los Tiger gordos: 3.600 W de pico y 65 km/h por menos que el GTR. Una máquina seria para vías rápidas privadas; en la vía pública española, ilegal por velocidad.",
@@ -1508,7 +1516,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Never Wheel Up",
     marca: "Hiley",
     modelo: "Tiger 8 GT-R V4",
-    precioEur: null,
+    precioEur: null, // Hiley no publica PVP oficial de este modelo (verificado 20/10/2026)
     potenciaNominalW: 1200,
     potenciaPicoW: 2400,
     autonomiaKm: 60,
@@ -1542,6 +1550,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Frenos de tambor + eABS: justos para 2.400 W de pico",
       "7-9 horas de carga",
       "Disponibilidad limitada (Pixmania, reacondicionado)",
+      "Sin precio oficial en España: solo se ve en marketplaces y reacondicionado",
     ],
     veredicto:
       "El Tiger 8 GT-R V4 es el doble motor compacto: 2.400 W de pico en 26 kg con ruedas antipinchazo. Ideal para quien quiere tracción total sin cargar con 35 kg; lástima que sus 50 km/h lo dejen fuera de la ley VMP.",
@@ -1561,7 +1570,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "smartGyro",
     marca: "Smartgyro",
     modelo: "Raptor Dual Evo",
-    precioEur: 949,
+    precioEur: null, // sin PVP oficial verificable de Smartgyro para este modelo (verificado 20/10/2026)
     potenciaNominalW: 1000,
     potenciaPicoW: 2800,
     autonomiaKm: 60,
@@ -1579,7 +1588,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/smartgyro-raptor-dual-evo-2.webp", alt: "Detalle de los frenos hidráulicos del Smartgyro Raptor Dual Evo", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/smartgyro-raptor-dual-evo-3.webp", alt: "Smartgyro Raptor Dual Evo en una pista", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur", "autonomiaRealKm"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Doble motor de 48 V (1.000 W nominales, 2.800 W de pico): tracción total",
       "Certificado por la DGT: circula legal como VMP",
@@ -1591,7 +1600,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     contras: [
       "30,4 kg: muy pesado para moverlo a mano",
       "8 horas de carga completa",
-      "949 €: precio alto dentro de Smartgyro",
+      "Sin precio oficial verificable: Smartgyro no publica PVP del Raptor Dual Evo y el precio varía mucho entre tiendas",
       "La autonomía real con doble motor baja de los 60 km",
       "Voluminoso: ocupa mucho plegado",
       "El doble motor gasta más aunque vayas tranquilo",
@@ -1615,7 +1624,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cosasdepatinetes",
     marca: "Cecotec",
     modelo: "Bongo Doble Y85 2x2 XXL Connected",
-    precioEur: 999,
+    precioEur: 999, // tarifa oficial España (verificado 20/10/2026)
     potenciaNominalW: 1000,
     potenciaPicoW: 2100,
     autonomiaKm: 85,
@@ -1633,7 +1642,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/cecotec-bongo-doble-y85-2x2-xxl-connected-2.webp", alt: "Detalle del doble motor del Cecotec Bongo Doble Y85 2x2 XXL Connected", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/cecotec-bongo-doble-y85-2x2-xxl-connected-3.webp", alt: "Cecotec Bongo Doble Y85 2x2 XXL Connected en el campo", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur", "autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH"],
     pros: [
       "Doble motor de 500 W (2.100 W de pico): tracción total",
       "Batería de 874 Wh (48 V 18,2 Ah): 85 km declarados",
@@ -1678,7 +1687,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cosasdepatinetes",
     marca: "Cecotec",
     modelo: "Bongo Serie Doble Z75",
-    precioEur: 1199,
+    precioEur: 1329, // tarifa oficial España (verificado 20/10/2026)
     potenciaNominalW: 1000,
     potenciaPicoW: 2200,
     autonomiaKm: 75,
@@ -1696,7 +1705,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/cecotec-bongo-serie-doble-z75-2.webp", alt: "Detalle del Cecotec Bongo Serie Doble Z75", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/cecotec-bongo-serie-doble-z75-3.webp", alt: "Cecotec Bongo Serie Doble Z75 en carretera", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur", "autonomiaRealKm"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Doble motor con 2.200 W de pico: el Bongo más potente",
       "Batería de 960 Wh (60 V 16 Ah): 75 km declarados",
@@ -1706,7 +1715,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Tracción doble para cualquier pendiente",
     ],
     contras: [
-      "1.199 € en Amazon (1.329 € en Cecotec): precio alto",
+      "1.329 € en la tienda oficial de Cecotec: precio alto",
       "Certificación DGT no verificada en la lista oficial",
       "Peso no publicado; será elevado",
       "Tiempo de carga no publicado",
@@ -1741,7 +1750,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cosasdepatinetes",
     marca: "Cecotec",
     modelo: "Bongo Serie Doble Z85",
-    precioEur: null,
+    precioEur: 1299, // tarifa oficial España (verificado 20/10/2026)
     potenciaNominalW: null,
     potenciaPicoW: 2200,
     autonomiaKm: 85,
@@ -1769,7 +1778,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "El Bongo definitivo para rutas largas",
     ],
     contras: [
-      "Precio no publicado en España (en Amazon ronda los 1.200-1.300 €)",
+      "1.299 € en la tienda oficial de Cecotec (agotado): precio alto",
       "Certificación DGT no verificada",
       "Peso no publicado; con 1,2 kWh será muy pesado",
       "Tiempo de carga no publicado; será larguísimo",
@@ -1804,7 +1813,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cecotec",
     marca: "Cecotec",
     modelo: "Bongo Serie Z Off Road",
-    precioEur: null,
+    precioEur: null, // sin PVP vigente en la tienda oficial de Cecotec para este modelo (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: null,
     autonomiaKm: null,
@@ -1838,6 +1847,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Peso no publicado; será alto",
       "Sin certificación DGT verificada",
       "La batería extraíble grande pesa lo suyo al transportarla",
+      "Sin precio oficial vigente en Cecotec para este modelo; solo se ve en outlets",
     ],
     veredicto:
       "El Z Off Road es el Bongo más especial: ruedas de 12\", bambú y batería extraíble. Para amantes del campo y del diseño diferente; si buscas datos y potencia bruta, la serie Doble Z te espera.",

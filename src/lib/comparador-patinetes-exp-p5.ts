@@ -839,7 +839,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     videoCanal: "NNKH 2",
     marca: "Gotrax",
     modelo: "GX1",
-    precioEur: null,
+    precioEur: 900, // 999 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 1200,
     potenciaPicoW: null,
     autonomiaKm: 56,
@@ -878,7 +878,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     ],
     contras: [
       "En España debe circular limitado a 25 km/h: su potencial queda capado",
-      "Sin PVP oficial en Europa; es un modelo pensado para EE. UU.",
+      "Sin PVP oficial en Europa: el precio es la conversión de la tarifa oficial de EE. UU. (999 $)",
       "Peso no publicado, pero con doble motor y 720 Wh no será ligero",
       "Neumáticos todoterreno: más ruido y consumo en asfalto",
       "La red de servicio oficial está en EE. UU.",
@@ -901,7 +901,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     videoCanal: "Electric Scooter Guide",
     marca: "Gotrax",
     modelo: "GX2",
-    precioEur: null,
+    precioEur: 1100, // 1199 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 1600,
     potenciaPicoW: null,
     autonomiaKm: 64,
@@ -939,7 +939,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     ],
     contras: [
       "En España limitado a 25 km/h en vía pública",
-      "Sin PVP ni distribución oficial en Europa",
+      "Sin PVP ni distribución oficial en Europa: precio convertido de la tarifa oficial de EE. UU. (1.199 $)",
       "Peso y batería en Wh no publicados",
       "Es un modelo americano: recambios complicados aquí",
       "Para ciudad europea, potencia desaprovechada",
@@ -969,7 +969,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     videoCanal: null,
     marca: "Gotrax",
     modelo: "G6",
-    precioEur: null,
+    precioEur: 600, // 629 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 500,
     potenciaPicoW: null,
     autonomiaKm: 56,
@@ -1007,7 +1007,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       "Miles de reseñas positivas en Norteamérica",
     ],
     contras: [
-      "Sin PVP oficial en España",
+      "Sin PVP oficial en España: precio convertido de la tarifa oficial de EE. UU. (desde 629 $)",
       "20,4 kg: no es para subirlo a diario por escaleras",
       "La red de servicio oficial está en EE. UU. y Canadá",
       "Sin intermitentes",
@@ -1038,7 +1038,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     videoCanal: "Electric Revolution",
     marca: "Gotrax",
     modelo: "GXL V2",
-    precioEur: null,
+    precioEur: 300, // 284 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 250,
     potenciaPicoW: null,
     autonomiaKm: 20,
@@ -1079,7 +1079,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       "250 W sufren en cuestas",
       "Ruedas de 8,5\": menos estables que las de 10\"",
       "Sin suspensión",
-      "En Europa se consigue sobre todo de importación",
+      "En Europa se consigue de importación: precio convertido de la tarifa oficial de EE. UU. (desde 284 $)",
     ],
     veredicto:
       "El Gotrax barato y honesto: poco motor y poca batería, pero ligero y simple. Solo para trayectos cortos y llanos.",
@@ -1106,7 +1106,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     videoCanal: "Electric Scooter Guide",
     marca: "Gotrax",
     modelo: "G3 Plus",
-    precioEur: null,
+    precioEur: 300, // 329 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 300,
     potenciaPicoW: null,
     autonomiaKm: 29,
@@ -1145,7 +1145,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       "29 km declarados (~20 km reales)",
       "Carga máxima de 100 kg",
       "300 W justos en cuestas",
-      "Sin distribución oficial en España",
+      "Sin distribución oficial en España: precio convertido de la tarifa oficial de EE. UU. (329 $)",
       "Ruedas de 8,5\" y sin suspensión",
     ],
     veredicto:
@@ -1173,7 +1173,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     videoCanal: "Electric Scooter Guide",
     marca: "Gotrax",
     modelo: "GX Zero",
-    precioEur: null,
+    precioEur: 700, // 799 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 1000,
     potenciaPicoW: null,
     autonomiaKm: 51,
@@ -1210,7 +1210,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     ],
     contras: [
       "En España limitado a 25 km/h",
-      "Sin distribución oficial en Europa",
+      "Sin distribución oficial en Europa: precio convertido de la tarifa oficial de EE. UU. (799 $)",
       "Peso y batería no publicados",
       "Menos refinado que el GX1",
     ],
@@ -1239,7 +1239,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     videoCanal: "Electric Scooter Guide",
     marca: "Gotrax",
     modelo: "GX3",
-    precioEur: null,
+    precioEur: 1500, // 1699 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 2000,
     potenciaPicoW: null,
     autonomiaKm: 97,
@@ -1279,7 +1279,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       "En España solo legal limitado a 25 km/h: potencia totalmente capada",
       "Sin distribución oficial en Europa",
       "Peso no publicado; será muy pesado",
-      "Precio alto (1.649 $) para un uso capado",
+      "Precio alto (1.699 $ en EE. UU.) para un uso capado",
       "Es más una moto ligera que un VMP urbano",
     ],
     veredicto:
@@ -1307,7 +1307,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     videoCanal: "Electrek.co",
     marca: "Apollo Scooters",
     modelo: "Go (2024)",
-    precioEur: null,
+    precioEur: 700, // 749 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 700,
     potenciaPicoW: 750,
     autonomiaKm: 48,
@@ -1348,7 +1348,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       "La versión americana alcanza 45 km/h: en España debe limitarse a 25 km/h",
       "Sin distribución oficial en España; compra de importación",
       "Ruedas de 9\": menos estables que las de 10\"",
-      "Precio en EE. UU. de 1.199 $: no es barato",
+      "Precio oficial solo en Norteamérica (749 $ en EE. UU.): a España llega de importación",
       "Sin suspensión dedicada",
     ],
     veredicto:
@@ -1376,7 +1376,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     videoCanal: null,
     marca: "Razor",
     modelo: "C25",
-    precioEur: null,
+    precioEur: null, // sin tarifa oficial vigente en la tienda oficial de Razor (verificado 20/10/2026)
     potenciaNominalW: 250,
     potenciaPicoW: null,
     autonomiaKm: 29,
@@ -1404,7 +1404,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "pesoKg", "precioEur"],
+    aprox: ["autonomiaRealKm", "pesoKg"],
     pros: [
       "Diseño de ruedas descentradas: 12,5\" delante para superar baches con suavidad",
       "Motor trasero de 250 W: mejor tracción y dirección más fácil",
@@ -1417,7 +1417,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       "18 kg para 250 W: pesado para lo que ofrece",
       "Sin suspensión; el confort lo ponen las ruedas grandes",
       "250 W se quedan cortos en cuestas",
-      "PVP oficial en España no publicado",
+      "Sin precio oficial vigente: Razor no publica PVP del C25 en su tienda oficial",
     ],
     veredicto:
       "El Razor adulto clásico: rueda delantera grande y construcción a prueba de todo. No es el más eficiente, pero es duro y su diseño de ruedas descentradas se nota en baches.",
@@ -1438,7 +1438,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     videoCanal: null,
     marca: "Denver",
     modelo: "SEL-10800F",
-    precioEur: null,
+    precioEur: null, // Denver no publica PVP ni vende directamente (verificado 20/10/2026)
     potenciaNominalW: 450,
     potenciaPicoW: null,
     autonomiaKm: 30,
@@ -1466,7 +1466,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "precioEur"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "450 W y 360 Wh por poco dinero: la gama de acceso danesa",
       "Ruedas honeycomb de 10\": cero pinchazos",
@@ -1481,6 +1481,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       "450 W justos en cuestas con 120 kg",
       "Acabados básicos",
       "Sin app ni funciones conectadas",
+      "Sin precio oficial: Denver no publica PVP ni vende directamente; cada tienda fija el suyo",
     ],
     veredicto:
       "El danés barato y sin complicaciones: 450 W, ruedas antipinchazos y 16,6 kg. Para quien quiere un patinete simple que no pinche nunca.",
@@ -1501,7 +1502,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     videoCanal: null,
     marca: "Denver",
     modelo: "SEL-10810FDB",
-    precioEur: null,
+    precioEur: null, // Denver no publica PVP ni vende directamente (verificado 20/10/2026)
     potenciaNominalW: 450,
     potenciaPicoW: null,
     autonomiaKm: 30,
@@ -1529,7 +1530,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "precioEur"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Batería extraíble de 360 Wh con cerradura de llave: se carga en casa o la oficina",
       "450 W, ruedas honeycomb antipinchazos y 16,6 kg",
@@ -1543,6 +1544,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       "La batería extraíble añade un punto de desgaste en los contactos",
       "Sin app ni conectividad",
       "Acabados básicos",
+      "Sin precio oficial: Denver no publica PVP ni vende directamente; cada tienda fija el suyo",
     ],
     veredicto:
       "El SEL-10800F con batería extraíble: si no tienes enchufe donde aparcas, la llave y la batería de quita y pon justifican el modelo.",
@@ -1563,7 +1565,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     videoCanal: null,
     marca: "Zwheel",
     modelo: "E12",
-    precioEur: null,
+    precioEur: null, // Zwheel no publica PVP oficial de este modelo (verificado 20/10/2026)
     potenciaNominalW: null,
     potenciaPicoW: 800,
     autonomiaKm: 40,
@@ -1591,7 +1593,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "pesoKg", "precioEur"],
+    aprox: ["autonomiaRealKm", "pesoKg"],
     pros: [
       "800 W de pico con doble suspensión (goma delantera + muelle trasero)",
       "4 modos de conducción y app con bloqueo por Bluetooth",
@@ -1604,7 +1606,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       "40 km declarados se quedan en ~27 km reales",
       "22 kg: pesado para su tamaño",
       "Hasta 10 horas de carga según ficha de venta",
-      "PVP en España no verificado de forma estable",
+      "Sin precio oficial en España: Zwheel no publica PVP del E12",
     ],
     veredicto:
       "El Zwheel musculoso: 800 W de pico y doble suspensión en formato compacto. La batería de 370 Wh es su talón de Aquiles; para trayectos cortos con baches, cumple.",
@@ -1617,7 +1619,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     videoCanal: null,
     marca: "Zwheel",
     modelo: "E9D",
-    precioEur: null,
+    precioEur: 369, // tarifa oficial España (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: null,
     autonomiaKm: 30,
@@ -1645,7 +1647,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "precioEur"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "11 kg: el Zwheel más ligero, se lleva a pulso sin drama",
       "350 W con suspensión y ruedas de aire de 8,5\"",
@@ -1658,7 +1660,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       "Ruedas de 8,5\": menos estables que las de 10\"",
       "350 W justos en cuestas",
       "Batería en Wh no publicada",
-      "PVP en España no verificado de forma estable",
+      "Su PVP de lanzamiento en España fue 369 €; hoy se ve rebajado en tiendas",
     ],
     veredicto:
       "El Zwheel pluma: 11 kg con suspensión y crucero. Para el último kilómetro y el metro es perfecto; para rutas largas mira el ZFox Max o el ZWolf.",
@@ -1671,7 +1673,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     videoCanal: null,
     marca: "Zwheel",
     modelo: "E9T",
-    precioEur: null,
+    precioEur: null, // Zwheel no publica PVP oficial de este modelo (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: null,
     autonomiaKm: 36,
@@ -1699,7 +1701,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "precioEur"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Ruedas macizas de 8,5\": cero pinchazos para siempre",
       "36 km declarados, más que el E9D",
@@ -1712,7 +1714,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       "350 W justos en cuestas",
       "36 km declarados se quedan en ~24 km reales",
       "Batería en Wh no publicada",
-      "PVP en España no verificado de forma estable",
+      "Sin precio oficial en España: Zwheel no publica PVP del E9T",
     ],
     veredicto:
       "El E9D con ruedas macizas y más autonomía: si odias pinchar por encima de todo, el E9T es tu Zwheel.",
@@ -1725,7 +1727,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     videoCanal: "NanospeedGamer",
     marca: "Zwheel",
     modelo: "ZWolf Duo",
-    precioEur: null,
+    precioEur: 929, // tarifa oficial España (verificado 20/10/2026)
     potenciaNominalW: null,
     potenciaPicoW: null,
     autonomiaKm: null,
@@ -1753,7 +1755,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["precioEur"],
+    aprox: [],
     pros: [
       "Gama ZWolf 2025: la nueva generación de Zwheel, con la potencia del ZCougar y la suspensión del ZRino",
       "Certificado por la DGT como VMP: circula legal en España",
@@ -1764,7 +1766,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     ],
     contras: [
       "Ficha técnica completa no publicada por la marca: motor, batería y peso sin confirmar",
-      "PVP no verificado de forma estable",
+      "929 € en el canal oficial de Zwheel en España: no es barato",
       "Doble motor implica más peso y consumo que un monomotor",
       "Gama muy nueva (2025): pocas opiniones de largo plazo",
       "En vía pública, limitado a 25 km/h por normativa",
