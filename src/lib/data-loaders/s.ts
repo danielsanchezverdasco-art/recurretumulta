@@ -25,6 +25,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "seat-leon-15-etsi-115-2026-precio-ficha-tecnica": () => import("../blog-posts-seat-a.ts"),
     "seat-leon-15-etsi-150-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp7.ts"),
     "seat-leon-15-etsi-2026-precio-ficha-tecnica": () => import("../blog-posts-seat-a.ts"),
+    "seat-leon-15-tsi": () => import("../blog-posts-seat-a.ts"),
     "seat-leon-15-tsi-115-2026-precio-ficha-tecnica": () => import("../blog-posts-seat-a.ts"),
     "seat-leon-20-tdi-115-2026-precio-ficha-tecnica": () => import("../blog-posts-seat-a.ts"),
     "seat-leon-20-tdi-2026-precio-ficha-tecnica": () => import("../blog-posts-seat-a.ts"),
