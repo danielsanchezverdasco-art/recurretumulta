@@ -6071,3 +6071,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/sur-ron-ultra-bee-2025-ficha-tecnica-precio-hunt1.webp | https://sur-ronebikes.com/wp-content/uploads/2025/05/Surron-Ultra-Bee-HP-2025.webp | Sur-Ron Ebikes | desconocida |
 | /media/sur-ron-ultra-bee-2025-ficha-tecnica-precio-hunt2.webp | https://extramobility.store/wp-content/uploads/2025/11/2025-surron-ultra-bee-electric-bike.jpg | ExtraMobility | desconocida |
 | /media/sur-ron-ultra-bee-2025-ficha-tecnica-precio-hunt3.webp | https://mxrmotorsports.com.au/cdn/shop/files/Ultra_Bee_action_46.jpg?v=1757380824&width=3840 | MXR Motorsports | desconocida |
+| /media/honda-jazz-ehev-2024-precio-ficha-tecnica-hunt1.webp | https://www.honda-cars.gr/images/upload/Productsdetails248-8585162420165233357-s0.jpg | Honda Cars Greece | desconocida |
+| /media/honda-jazz-ehev-2024-precio-ficha-tecnica-hunt2.webp | https://www.honda-cars.gr/images/user/modelpictures/Jazz-eHEV/cache/grade85.webp | Honda Cars Greece | desconocida |
+| /media/honda-jazz-ehev-2024-precio-ficha-tecnica-hunt3.webp | https://cdn.autowereld.nl/I775893954/1280x0/honda-jazz-1-5-e-hev-elegance-1-5-e-hev-elegance.jpg | Autowereld | desconocida |
+| /media/lynk-co-900-emp-2025-precio-ficha-tecnica-hunt1.webp | https://global-img.bitauto.com/yhzx/20250630/26/128665402626336.jpg | Bitauto (foto de prensa) | desconocida |
+| /media/lynk-co-900-emp-2025-precio-ficha-tecnica-hunt2.webp | https://www.ddongauto.com/wp-content/uploads/2025/04/2pdzp0110.jpg | DDongAuto (foto de prensa Lynk & Co) | desconocida |
+| /media/lynk-co-900-emp-2025-precio-ficha-tecnica-hunt3.webp | https://www.carscoops.com/wp-content/uploads/webp/2025/01/Lynk-Co-900-27-2048x1536.webp | CarScoops (foto de prensa Lynk & Co) | desconocida |
+| /media/royal-enfield-flying-flea-c6-2026-ficha-tecnica-precio-hunt1.webp | https://cdn.bikedekho.com/processedimages/royal-enfield/royal-enfield-electric-bike/source/royal-enfield-electric-bike6981c82fe5485.jpg | BikeDekho | desconocida |
+| /media/royal-enfield-flying-flea-c6-2026-ficha-tecnica-precio-hunt2.webp | https://flyingflea.royalenfield.com/content/dam/flying-flea/ff-web/home-page/image/ffc6-banner-mweb.jpg | Royal Enfield (Flying Flea, web oficial) | desconocida |
+| /media/royal-enfield-flying-flea-c6-2026-ficha-tecnica-precio-hunt3.webp | https://www.gearpatrol.com/wp-content/uploads/sites/2/2024/11/royal-enfield-flying-flea-c6-electric-moto.webp?resize=650,650 | Gear Patrol | desconocida |
+| /media/sur-ron-storm-bee-2025-ficha-tecnica-precio-hunt1.webp | https://jkstoresltd.com/wp-content/uploads/2023/04/42-1024x1024.jpeg | JK Stores Ltd | desconocida |
+| /media/sur-ron-storm-bee-2025-ficha-tecnica-precio-hunt2.webp | https://www.whateverwheels.co.uk/smsimg/322/48057-0-full-stormbee-4-322.jpg | Whatever Wheels | desconocida |
+| /media/sur-ron-storm-bee-2025-ficha-tecnica-precio-hunt3.webp | https://www.segwaymaui.com/wp-content/uploads/2025/04/surron-storm-bee-5-1200x1200.jpg | Segway Maui (producto Sur-Ron) | desconocida |
