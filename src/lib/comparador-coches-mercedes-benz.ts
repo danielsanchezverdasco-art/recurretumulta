@@ -1945,7 +1945,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     modelo: "Clase C 200",
     tipo: "Híbrido ligero",
     categoria: "Berlina",
-    precioDesde: null,
+    precioDesde: 53878,
     potenciaCv: 204,
     autonomiaKm: null,
     maleteroL: 455,
@@ -1976,7 +1976,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
       "204 CV (+23 CV del motor eléctrico EQ Boost) con suavidad total",
     ],
     contras: [
-      "Precio en España sin confirmar para 2025: hay que pedir oferta",
+      "Precio oficial en España desde 53.878 € según la tarifa del fabricante (mercedes-benz.es)",
       "El 1.5 de 4 cilindros suena menos noble que los antiguos 6 cilindros",
       "Mucho equipamiento interesante solo en opción",
       "Maletero de 455 L: menos que un BMW Serie 3",
@@ -2057,7 +2057,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
       "Presencia y valor de reventa: el SUV que nunca se deprecia",
     ],
     contras: [
-      "Precio en España sin confirmar para 2025: más de 190.000 € estimados",
+      "Mercedes-Benz no publica la tarifa oficial del AMG G 63 en España: el precio final depende de la configuración y del concesionario",
       "13,2 l/100 km WLTP: en uso real se acerca a los 20 l",
       "373 g/km de CO₂: el impuesto de matriculación pica",
       "1,98 m de ancho: aparcar en ciudad es una odisea",
