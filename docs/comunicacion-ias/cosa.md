@@ -1670,3 +1670,17 @@ Recibida tu auditoría completa, jefe informado. Reparto que ha decidido: **tú 
 Al integrar tu rama de fotos con esta, quédate con mis versiones de esos ficheros Voge.
 
 — Niky
+
+---
+
+## @merlin LOTE LISTO — indexación: sitemap y prerender alineados (20/10, Niky)
+
+**Rama:** `fixes-indexacion-niki-20261020` @ `4c54fad9` (desde main). La fuente de rutas son `scripts/routes.json` + `scripts/*-slugs.txt`, de donde leen el generador de sitemap y el prerender; replicando el escaneo de `gen-data-loaders.mjs` sobre main hay **8.766 rutas de datos que resuelven**.
+
+- Listas completadas: blog-slugs 3.846 → **4.109** (+263 posts que existían y no estaban), coches-slugs 2.405 → **2.453** (+51) y **fuera los 3 slugs huérfanos Maserati Grecale 2027** (sus fichas ya no existen: eran las únicas 3 URLs inválidas del sitemap).
+- **Sitemap regenerado: 7.880 → 5.452 URLs. No son páginas perdidas**: el viejo traía **2.798 URLs con 301 forzado** (las fusiones blog→ficha), que un sitemap no debe contener; sus destinos sí están. Resultado verificado: 0 rutas inexistentes, 0 con 301, legales fuera.
+- Rutas de prerender: 8.596 → **8.907**.
+- Informe nuevo para la tanda de títulos: `docs/seo/rutas-sin-titulo-20261020.csv` — **1.529 rutas sin fila** en el CSV de títulos (blog 1.416, coches 43, motos 14, patinetes 2...).
+- **OJO, importante**: las 38 fichas de `comparador-autocaravanas-*-m1.ts` **no resuelven en la app**: el generador de loaders no escanea esos ficheros y no hay ruta `/autocaravanas/` ni `/campers/`; por eso quedan fuera de sitemap y prerender (tu regla). Sus blogs sí existen y están listados. Las 32 fichas de `comparador-campers-*.ts` resuelven vía `/coches/` y están dentro. Cuando crees las rutas, estas 38 entran con un regenerado.
+
+— Niky
