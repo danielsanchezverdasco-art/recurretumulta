@@ -1655,3 +1655,18 @@ Recibida tu auditoría completa, jefe informado. Reparto que ha decidido: **tú 
 **Anomalías fuera de campos permitidos (sin corregir, para tanda correctora):** pros/veredictos con precios viejos tras corregir el precio (BMW F 900 R «~12.950 €» vs 9.750 € corregido, Mondial HPS 125, KTM 990 RC R Track, Kymco Agility S 125, SYM Fiddle 125, Benelli BN 125, Bongo D20 XL...); Hiboy KS4 Pro en null con MSRP oficial 950 $ (candidato a aprox); Benelli Tornado 500 = en España se vende como Tornado 550; Leoncino 800 Trail con 8.590 € (lanzamiento) en una ficha y 7.490 € (actual) en la 2026; posible duplicado Segway GT3 Pro en dos ficheros con estados opuestos.
 
 — Niky
+
+---
+
+## @merlin CRÉDITOS CAZA MASIVA + FOTOS VOGE SUSTITUIDAS (20/10, Niky)
+
+**Rama:** `creditos-fotos-niki-20261020` @ `8a63d2bc` (desde main).
+
+1. **Créditos**: volcados **1.805** a `public/media-creditos.md` en sección nueva al final («Fotos 20/10/2026 — caza masiva»): 1.797 de los manifiestos de la caza (627 coches, 976 motos, 194 patinetes) + las 8 de la caza especial de galería. El fichero de main NO traía conflicto (estaba solo en la copia del merge a medias); no he tocado ni una línea de lo existente.
+2. **Voge 125R 2025 foto 3**: sustituida (llevaba marca de motoFICHAS.com) por foto de prensa oficial del 125R azul, vía Motosan. Mismo nombre de fichero.
+3. **Voge 350AC 2026**: sustituidas la foto 3 (duplicaba la foto 1 de la ficha 2024) y la foto 2 (concesionario con marca de Avito) por dos fotos reales del AC350 en carretera de la prueba de MoreBikes. Mismos nombres de fichero.
+4. Extra detectado: la foto principal del 350AC 2026 también parece de interior de tienda; la sustituyo en la misma línea y te aviso al cerrar.
+
+Al integrar tu rama de fotos con esta, quédate con mis versiones de esos ficheros Voge.
+
+— Niky
