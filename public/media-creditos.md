@@ -5786,3 +5786,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/voge-300rally-2025-ficha-tecnica-precio-hunt1.webp | https://www.motorrad-bilder.at/thumbs/992x558xfarx272a2c00/slideshows/291/021589/csm_VOGE_300_Rally_Fahraufnahme_11_5d3ea74f65.jpeg | 1000PS / motorrad-bilder.at, foto de prensa Voge (licencia desconocida) | desconocida |
 | /media/voge-300rally-2025-ficha-tecnica-precio-hunt2.webp | https://moto-avilon.ru/wp-content/uploads/2025/02/valico-300-rally_esterne_statiche_5-2048x1365.jpg | Moto Avilon (concesionario Voge Rusia), foto de prensa (licencia desconocida) | desconocida |
 | /media/voge-300rally-2025-ficha-tecnica-precio-hunt3.webp | https://moto-avilon.ru/wp-content/uploads/2025/02/valico-300-rally_esterne_statiche_18-scaled.jpg | Moto Avilon (concesionario Voge Rusia), foto de prensa (licencia desconocida) | desconocida |
+| /media/cyclone-re5-2026-ficha-tecnica-precio-hunt1.webp | https://zonsen-rus.ru/upload/resize_cache/iblock/b67/800_600_1/ts50q1wzrk9o6qhqac39xsdj1y0qzw0w.jpg | Zonsen Rusia (distribuidor oficial) | desconocida |
+| /media/cyclone-re5-2026-ficha-tecnica-precio-hunt2.webp | https://zonsen-rus.ru/upload/resize_cache/iblock/1b7/800_600_1/u5awmvodu6ao24y1k9qexlittq3eufa2.jpg | Zonsen Rusia (distribuidor oficial) | desconocida |
+| /media/cyclone-re5-2026-ficha-tecnica-precio-hunt3.webp | https://zonsen-rus.ru/upload/resize_cache/iblock/61c/800_600_1/kun3z34gudfipo5b3k6forvx3e2dacoy.jpg | Zonsen Rusia (distribuidor oficial) | desconocida |
+| /media/foton-general-g9-2026-precio-ficha-tecnica-hunt1.webp | https://image.made-in-china.com/2f0j00bNPloMIyEWGH/Foton-Grand-General-G9-Pickup-Truck-4WD.jpg | Made-in-China / Foton | desconocida |
+| /media/foton-general-g9-2026-precio-ficha-tecnica-hunt2.webp | https://campeones.com.ar/wp-content/uploads/2026/01/PrincipalFoton-g9-720x381.png | Campeones | desconocida |
+| /media/foton-general-g9-2026-precio-ficha-tecnica-hunt3.webp | https://www.rosselot.cl/wp-content/uploads/2024/08/600x450px-G9-Interior_0001_2.jpg | Rosselot (importador oficial Foton Chile) | desconocida |
+| /media/toyota-urban-cruiser-2026-precio-ficha-tecnica-hunt1.webp | https://www.car250.com/wp-content/uploads/2025/12/1920_2026_toyotaurbancruiser_liquidsilverawd_static_001.jpg | Car250 | desconocida |
+| /media/toyota-urban-cruiser-2026-precio-ficha-tecnica-hunt2.webp | https://en.wheelz.me/wp-content/uploads/2025/12/0551270512161225.webp | en.wheelz.me | desconocida |
+| /media/toyota-urban-cruiser-2026-precio-ficha-tecnica-hunt3.webp | https://www.nepaldrives.com/uploads/posts/toyota-urban-cruiser-ev-1-1767860131.jpg | Nepal Drives | desconocida |
+| /media/voge-cu625-2026-ficha-tecnica-precio-hunt1.webp | https://www.vogeglobal.com/wp-content/uploads/2025/07/CU625-black-l-1536x1074.webp | Voge Global (oficial) | desconocida |
+| /media/voge-cu625-2026-ficha-tecnica-precio-hunt2.webp | https://cdn.visordown.com/2025-11/voge-cu625-2026-3.jpeg?width=1600 | Visordown | desconocida |
+| /media/voge-cu625-2026-ficha-tecnica-precio-hunt3.webp | https://www.crazywheels.it/images/moto128/Voge%20CU625%202026.jpg | Crazywheels | desconocida |
