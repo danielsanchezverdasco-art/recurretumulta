@@ -5762,3 +5762,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/voge-500ac-2025-ficha-tecnica-precio-hunt1.webp | https://motoandbiketv.gr/wp-content/uploads/2022/01/VOGE-500AC-MY2022-1-953x635.jpg | MotoAndBikeTV / Voge (foto de prensa) | desconocida |
 | /media/voge-500ac-2025-ficha-tecnica-precio-hunt2.webp | https://directomotor.com/wp-content/uploads/2023/03/aaa-voge.jpg | DirectoMotor / Voge | desconocida |
 | /media/voge-500ac-2025-ficha-tecnica-precio-hunt3.webp | https://www.vogemorocco.com/_next/image?url=https%3A%2F%2Fupload.vogemorocco.com%2Fvogeimage%2Flesproductsvoge%2Fgammeclassic%2F500AC%2F2.png&w=1920&q=75 | Voge Morocco (distribuidor oficial) | desconocida |
+| /media/cyclone-rx6-2026-ficha-tecnica-precio-hunt1.webp | https://www.mundomotero.com/wp-content/uploads/2026/03/cyclone-rx6-6.jpg | Mundo Motero / Cyclone | desconocida |
+| /media/cyclone-rx6-2026-ficha-tecnica-precio-hunt2.webp | https://cyclone-motor.eu/wp-content/uploads/2025/08/rx6-rojo-360-1.webp | Cyclone Motor Europa | desconocida |
+| /media/cyclone-rx6-2026-ficha-tecnica-precio-hunt3.webp | https://www.2wo.gr/cache/com_dpfields/gallery/2/900x600/News/2025/August/Cyclone_RX6_Ispania/Cyclone_RX6_6.jpg | 2WO / Cyclone | desconocida |
+| /media/gwm-king-kong-poer-2026-precio-ficha-tecnica-hunt1.webp | https://gwm.com.hn/wp-content/uploads/2023/12/KINKONGPOER-02-2048x1339.jpg | Great Wall Motors Honduras | desconocida |
+| /media/gwm-king-kong-poer-2026-precio-ficha-tecnica-hunt2.webp | https://www.haval78-rent.ru/img/card/HAVAL_GWM_POER_KINGKONG/KingKong_34_Color_02.webp | Haval78 Rent | desconocida |
+| /media/gwm-king-kong-poer-2026-precio-ficha-tecnica-hunt3.webp | https://www.haval78-rent.ru/img/card/HAVAL_GWM_POER_KINGKONG/KingKong_34_Color_04.webp | Haval78 Rent | desconocida |
+| /media/mercedes-eqa-250-plus-2025-precio-ficha-tecnica-hunt1.webp | https://fotos.inventario.pro/coche/1838/3514699/f39d9c50-0d2a-4c74-b666-f7760bed421a/40543ad341c7ad9b85737cf1254c2d0f.jpg | Mobility Centro / Mercedes-Benz | desconocida |
+| /media/mercedes-eqa-250-plus-2025-precio-ficha-tecnica-hunt2.webp | https://quadis.s3.amazonaws.com/GestorQuadis/Vehiculos/Mercedes-Benz_EQA_EQA%20250%2B_497553/1.jpg | Mercedes Ocasión | desconocida |
+| /media/mercedes-eqa-250-plus-2025-precio-ficha-tecnica-hunt3.webp | https://cdn.autowereld.nl/I749404340/640x0/mercedes-benz-eqa-250-business-solution-amg-71-kwh-panoramaschuifdak-head-up-burmester-trekhaak.jpg | Autowereld | desconocida |
+| /media/voge-sr16-2025-ficha-tecnica-precio-hunt1.webp | https://www.vogeglobal.com/wp-content/uploads/2025/01/SR16-b.png | Voge / Loncin | desconocida |
+| /media/voge-sr16-2025-ficha-tecnica-precio-hunt2.webp | https://www.vogeglobal.com/wp-content/uploads/2025/01/SR16-1-1.png | Voge / Loncin | desconocida |
+| /media/voge-sr16-2025-ficha-tecnica-precio-hunt3.webp | https://www.motosan.es/wp-content/uploads/2025/01/sr16-gris-baul-02-1-1024x683.png | Motosan / Voge | desconocida |
