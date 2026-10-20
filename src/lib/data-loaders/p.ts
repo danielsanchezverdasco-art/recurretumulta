@@ -95,6 +95,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "porsche-718-spyder-rs-2025-precio-ficha-tecnica": () => import("../blog-posts-porsche-a.ts"),
     "porsche-911-carrera-2026-precio-ficha-tecnica": () => import("../blog-posts-porsche-a.ts"),
     "porsche-911-carrera-4-gts-2026-precio-ficha-tecnica": () => import("../blog-posts-batch2b-5.ts"),
+    "porsche-911-carrera-4s-precio-ficha-tecnica": () => import("../blog-posts-porsche-a.ts"),
     "porsche-911-carrera-cabriolet-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp7.ts"),
     "porsche-911-carrera-gts-2026-precio-ficha-tecnica": () => import("../blog-posts-porsche-a.ts"),
     "porsche-911-carrera-s-2026-precio-ficha-tecnica": () => import("../blog-posts-porsche-a.ts"),

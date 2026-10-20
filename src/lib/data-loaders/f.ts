@@ -107,6 +107,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "ford-maverick-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "ford-mustang-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp9.ts"),
     "ford-mustang-dark-horse-2025-precio-ficha-tecnica": () => import("../blog-posts-ford-a.ts"),
+    "ford-mustang-gt-convertible-precio-ficha-tecnica": () => import("../blog-posts-ford-a.ts"),
     "ford-mustang-gt-fastback-2025-precio-ficha-tecnica": () => import("../blog-posts-ford-a.ts"),
     "ford-mustang-gtd-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "ford-mustang-mach-e-2025-precio-ficha-tecnica": () => import("../blog-posts-ford-a.ts"),

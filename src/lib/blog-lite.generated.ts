@@ -1458,6 +1458,24 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 4
   },
   {
+    "slug": "alpine-a110-precio-ficha-tecnica",
+    "title": "Alpine A110: precio, 252 CV, 1.178 kg y motor central",
+    "excerpt": "El Alpine A110 pesa 1.178 kg y con 252 CV acelera en 4,5 s gastando 6,7 l/100 km desde 67.800 €. La lección francesa de ligereza, a fondo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/alpine-a110.webp",
+    "heroAlt": "Alpine A110 azul en una carretera de curvas",
+    "keywords": [
+      "alpine a110 precio españa",
+      "alpine a110 252 cv peso",
+      "a110 ficha técnica",
+      "deportivo ligero motor central",
+      "alpine a110 consumo"
+    ],
+    "readTime": 4
+  },
+  {
     "slug": "aston-martin-db12-2024-precio-ficha-tecnica",
     "title": "Aston Martin DB12: 680 CV desde 260.000 €",
     "excerpt": "El DB12 se vende en España desde 260.000 €: V8 biturbo de 680 CV, 0-100 en 3,6 s, 325 km/h y un interior por fin a la altura. Ficha, opiniones y rivales.",
@@ -10152,6 +10170,78 @@ export const BLOG_LITE: BlogLitePost[] = [
       "bmw i5 prueba"
     ],
     "readTime": 3
+  },
+  {
+    "slug": "bmw-serie-3-318-precio-ficha-tecnica",
+    "title": "BMW Serie 3 318: precio, 156 CV y tracción trasera",
+    "excerpt": "El BMW Serie 3 318 abre la gama de la berlina deportiva: 156 CV, tracción trasera y chasis de referencia desde 49.100 €. Ficha completa y análisis.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/bmw-serie-3-318.webp",
+    "heroAlt": "BMW Serie 3 318 en una carretera secundaria",
+    "keywords": [
+      "bmw serie 3 318 precio",
+      "bmw 318 156 cv ficha técnica",
+      "serie 3 tracción trasera",
+      "bmw 318 consumo",
+      "berlina premium acceso"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "bmw-m2-coupe-precio-ficha-tecnica",
+    "title": "BMW M2 Coupé: precio, 480 CV, 550 Nm y cambio manual",
+    "excerpt": "El BMW M2 Coupé reúne 480 CV, seis cilindros, tracción trasera y cambio manual opcional desde 98.500 €. El M más divertido de la gama, analizado.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/bmw-m2-coupe.webp",
+    "heroAlt": "BMW M2 Coupé en un circuito al atardecer",
+    "keywords": [
+      "bmw m2 coupé precio",
+      "bmw m2 480 cv ficha técnica",
+      "m2 cambio manual",
+      "bmw m2 consumo prestaciones",
+      "coupé deportivo seis cilindros"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "bmw-m4-competition-precio-ficha-tecnica",
+    "title": "BMW M4 Competition: precio, 510 CV, 650 Nm y 3,9 s",
+    "excerpt": "El BMW M4 Competition entrega 510 CV y 650 Nm con un 0-100 en 3,9 s desde 100.000 €. La referencia del coupé deportivo, a fondo en esta ficha-blog.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/bmw-m4-competition.webp",
+    "heroAlt": "BMW M4 Competition en una carretera de montaña",
+    "keywords": [
+      "bmw m4 competition precio",
+      "m4 competition 510 cv ficha técnica",
+      "bmw m4 0-100 3,9",
+      "m4 competition consumo",
+      "coupé deportivo 2026"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "bmw-z4-sdrive20i-precio-ficha-tecnica",
+    "title": "BMW Z4 sDrive20i: precio, 197 CV, 320 Nm y capota de lona",
+    "excerpt": "El BMW Z4 sDrive20i ofrece 197 CV, tracción trasera, el mejor maletero entre roadsters y 5 estrellas Euro NCAP desde 60.500 €. Análisis completo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/bmw-z4-sdrive20i.webp",
+    "heroAlt": "BMW Z4 sDrive20i descapotado en una carretera de curvas",
+    "keywords": [
+      "bmw z4 sdrive20i precio",
+      "z4 197 cv ficha técnica",
+      "bmw z4 roadster capota lona",
+      "z4 maletero 281",
+      "descapotable premium españa"
+    ],
+    "readTime": 4
   },
   {
     "slug": "byd-dolphin-2025-precio-ficha-tecnica",
@@ -19541,6 +19631,42 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 3
   },
   {
+    "slug": "dacia-duster-hybrid-2024-precio-y-opinion",
+    "title": "Dacia Duster Hybrid 140: precio, 140 CV, 5,0 l y ECO",
+    "excerpt": "El Dacia Duster Hybrid 140 es el SUV híbrido más barato de su tamaño: 140 CV, 5,0 l/100 km y etiqueta ECO desde 26.290 €. Análisis completo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/dacia-duster-hybrid-2024-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Dacia Duster Hybrid 140 en un camino de tierra",
+    "keywords": [
+      "dacia duster hybrid 140 precio",
+      "duster híbrido consumo 5,0",
+      "duster hybrid ficha técnica",
+      "suv híbrido barato españa",
+      "dacia duster 2024"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "dacia-jogger-hybrid-2024-precio-y-opinion",
+    "title": "Dacia Jogger Hybrid 140: precio, 7 plazas, 4,7 l y ECO",
+    "excerpt": "El Dacia Jogger Hybrid 140 ofrece 7 plazas híbridas, 4,7 l/100 km y 607 l de maletero desde 25.050 €. El familiar imbatible en precio, a fondo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/dacia-jogger-hybrid-2024-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Dacia Jogger Hybrid 140 familiar en carretera",
+    "keywords": [
+      "dacia jogger hybrid 140 precio",
+      "jogger 7 plazas híbrido",
+      "jogger hybrid consumo 4,7",
+      "jogger ficha técnica",
+      "familiar 7 plazas barato"
+    ],
+    "readTime": 4
+  },
+  {
     "slug": "tasa-unica-alcohol-02-reforma",
     "title": "Alcohol 0,2: la reforma que multa desde 0,10 mg",
     "excerpt": "El PSOE propone en el Congreso una tasa única de alcohol de 0,2 g/l: 200 € y 2 puntos desde 0,10 mg/l. Qué cambiaría y cuándo entraría en vigor.",
@@ -23794,6 +23920,24 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 3
   },
   {
+    "slug": "ford-mustang-gt-convertible-precio-ficha-tecnica",
+    "title": "Ford Mustang GT Convertible: precio y V8 de 446 CV",
+    "excerpt": "El Ford Mustang GT Convertible mantiene el V8 atmosférico de 446 CV y capota de lona desde 70.128 €. El último pony car descapotable, a fondo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/ford-mustang-gt-convertible.webp",
+    "heroAlt": "Ford Mustang GT Convertible descapotado en una carretera costera",
+    "keywords": [
+      "ford mustang gt convertible precio",
+      "mustang v8 446 cv ficha técnica",
+      "mustang convertible españa",
+      "mustang gt consumo",
+      "descapotable v8"
+    ],
+    "readTime": 4
+  },
+  {
     "slug": "forthing-t5-evo-2025-precio-ficha-tecnica",
     "title": "Forthing T5 EVO: 177 CV por 30.180 €",
     "excerpt": "Precio y ficha técnica del Forthing T5 EVO: SUV chino de 177 CV con motor Mitsubishi 1.5 turbo, cambio DCT y equipamiento premium desde 30.180 €.",
@@ -24588,6 +24732,42 @@ export const BLOG_LITE: BlogLitePost[] = [
       "prelude s+ shift",
       "coupé híbrido 2026",
       "prelude vs civic"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "honda-jazz-ehev-precio-ficha-tecnica",
+    "title": "Honda Jazz e:HEV: precio, 122 CV, 4,6 l y Magic Seats",
+    "excerpt": "El Honda Jazz e:HEV ofrece 122 CV híbridos, 4,6 l/100 km y los asientos Magic Seats más prácticos del segmento desde 24.600 € con etiqueta ECO.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/honda-jazz-e-hev.webp",
+    "heroAlt": "Honda Jazz e:HEV gris aparcado en ciudad",
+    "keywords": [
+      "honda jazz e:hev precio",
+      "jazz híbrido 122 cv consumo",
+      "honda jazz magic seats",
+      "jazz e:hev ficha técnica",
+      "urbano híbrido etiqueta eco"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "honda-civic-ehev-precio-ficha-tecnica",
+    "title": "Honda Civic e:HEV 2026: precio, 184 CV y 4,7 l/100 km",
+    "excerpt": "El Honda Civic e:HEV combina 184 CV y 315 Nm con un consumo de 4,7 l/100 km y 5 estrellas Euro NCAP desde 33.400 €. El híbrido rápido que no gasta.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/honda-civic-e-hev.webp",
+    "heroAlt": "Honda Civic e:HEV azul en carretera",
+    "keywords": [
+      "honda civic e:hev precio",
+      "civic híbrido 184 cv consumo",
+      "honda civic e:hev ficha técnica",
+      "civic e:hev euroncap",
+      "compacto híbrido 2026"
     ],
     "readTime": 4
   },
@@ -25496,6 +25676,24 @@ export const BLOG_LITE: BlogLitePost[] = [
       "tucson 2025 precio"
     ],
     "readTime": 3
+  },
+  {
+    "slug": "hyundai-kona-hybrid-138-precio-ficha-tecnica",
+    "title": "Hyundai Kona Hybrid 138: precio y 466 l de maletero",
+    "excerpt": "El Hyundai Kona Hybrid 138 CV lidera su clase en maletero (466 l) con 4,6 l/100 km y etiqueta ECO desde 34.290 €. Análisis completo y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/hyundai-kona-hybrid-138.webp",
+    "heroAlt": "Hyundai Kona Hybrid 138 en una calle de ciudad",
+    "keywords": [
+      "hyundai kona hybrid 138 precio",
+      "kona híbrido maletero 466",
+      "hyundai kona hybrid consumo",
+      "kona hybrid ficha técnica",
+      "b-suv híbrido etiqueta eco"
+    ],
+    "readTime": 4
   },
   {
     "slug": "im-l6-2025-precio-ficha-tecnica",
@@ -27197,6 +27395,42 @@ export const BLOG_LITE: BlogLitePost[] = [
       "suv electrico 36930"
     ],
     "readTime": 3
+  },
+  {
+    "slug": "kia-niro-hev-129-precio-ficha-tecnica",
+    "title": "Kia Niro HEV 129: precio, 4,4 l/100 km y maletero 451 l",
+    "excerpt": "El Kia Niro HEV 129 homologa 4,4 l/100 km, hasta 1.000 km de autonomía y 451 l de maletero desde 33.175 €. El SUV híbrido más racional de Kia.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/kia-niro-hev-129.webp",
+    "heroAlt": "Kia Niro HEV 129 blanco en un aparcamiento urbano",
+    "keywords": [
+      "kia niro hev 129 precio",
+      "niro híbrido consumo 4,4",
+      "kia niro hev ficha técnica",
+      "niro híbrido autonomía 1000 km",
+      "suv híbrido eficiente españa"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "kia-sportage-hev-239-precio-ficha-tecnica",
+    "title": "Kia Sportage HEV 239: precio, 239 CV y maletero de 587 l",
+    "excerpt": "El Kia Sportage HEV es el híbrido más potente de su segmento: 239 CV, 0-100 en 7,9 s y 587 l de maletero desde 35.131 € con 5 estrellas Euro NCAP.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/kia-sportage-hev-239.webp",
+    "heroAlt": "Kia Sportage HEV 239 en carretera abierta",
+    "keywords": [
+      "kia sportage hev 239 precio",
+      "sportage híbrido 239 cv",
+      "kia sportage hev ficha técnica",
+      "sportage híbrido maletero 587",
+      "suv híbrido potente españa"
+    ],
+    "readTime": 4
   },
   {
     "slug": "lamborghini-revuelto-2024-precio-ficha-tecnica",
@@ -37290,6 +37524,24 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 3
   },
   {
+    "slug": "mazda-3-sedan-e-skyactiv-g-precio-ficha-tecnica",
+    "title": "Mazda3 Sedán 2.5 e-SKYACTIV G: precio, 140 CV y ECO",
+    "excerpt": "El Mazda3 Sedán 2.5 e-SKYACTIV G apuesta por un atmosférico de 140 CV sin turbo, diseño premium y etiqueta ECO desde 26.765 €. Ficha y análisis.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/mazda-3-sedan-e-skyactiv-g.webp",
+    "heroAlt": "Mazda3 Sedán e-SKYACTIV G rojo Soul en carretera",
+    "keywords": [
+      "mazda3 sedán e-skyactiv g precio",
+      "mazda 3 2.5 140 cv",
+      "mazda3 sedán ficha técnica",
+      "mazda3 atmosférico etiqueta eco",
+      "berlina compacta premium"
+    ],
+    "readTime": 4
+  },
+  {
     "slug": "mclaren-750s-2025-precio-ficha-tecnica",
     "title": "McLaren 750S: 750 CV y 332 km/h por 322.400 €",
     "excerpt": "El McLaren 750S se vende en España por 322.400 €: V8 biturbo de 750 CV, 0-100 en 2,8 s y 332 km/h de punta. Ficha técnica, pros y contras.",
@@ -37972,6 +38224,24 @@ export const BLOG_LITE: BlogLitePost[] = [
       "mercedes g63 etiqueta eco"
     ],
     "readTime": 3
+  },
+  {
+    "slug": "mercedes-clase-c-200-precio-ficha-tecnica",
+    "title": "Mercedes Clase C 200: precio, 204 CV y etiqueta ECO",
+    "excerpt": "El Mercedes Clase C 200 ofrece 204 CV suaves, etiqueta ECO, interior de referencia y 5 estrellas Euro NCAP desde 53.878 €. Análisis y ficha completa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/mercedes-clase-c-200.webp",
+    "heroAlt": "Mercedes Clase C 200 plateado en ciudad al anochecer",
+    "keywords": [
+      "mercedes clase c 200 precio",
+      "clase c 200 204 cv ficha técnica",
+      "mercedes c200 eq boost etiqueta eco",
+      "clase c 200 consumo",
+      "berlina premium confort"
+    ],
+    "readTime": 4
   },
   {
     "slug": "mg3-hybrid-2025-precio-ficha-tecnica",
@@ -48434,7 +48704,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "hypernaked barata 152 cv",
       "honda cb1000 hornet 11190"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "honda-cb125f-2025-ficha-tecnica-precio",
@@ -48542,7 +48812,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "deportiva a2 47 cv",
       "cbr500r autonomia 480 km"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "honda-cbr500r-2026-ficha-tecnica-precio",
@@ -48578,7 +48848,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "supersport 600 japonesa",
       "cbr600rr 121 cv 11499"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "honda-crf1100l-africa-twin-2024-ficha-tecnica-precio",
@@ -48632,7 +48902,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "trail ligera a2 142 kg",
       "crf300l 6050 euros"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "honda-forza-125-2026-ficha-tecnica-precio",
@@ -48704,7 +48974,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "turismo honda maletas serie",
       "nt1100 dct autonomia"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "honda-rebel-1100-2026-ficha-tecnica-precio",
@@ -48740,7 +49010,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "custom a2 bobber",
       "rebel 500 asiento 690 mm"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "honda-x-adv-750-2026-ficha-tecnica-precio",
@@ -69314,6 +69584,24 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 4
   },
   {
+    "slug": "porsche-911-carrera-4s-precio-ficha-tecnica",
+    "title": "Porsche 911 Carrera 4S: precio, 480 CV, 4x4 y 308 km/h",
+    "excerpt": "El Porsche 911 Carrera 4S combina 480 CV, tracción total y un 0-100 en 3,5 s desde 189.745 €. El icono en su punto de equilibrio, analizado a fondo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/porsche-911-carrera-4s.webp",
+    "heroAlt": "Porsche 911 Carrera 4S en una carretera de costa",
+    "keywords": [
+      "porsche 911 carrera 4s precio",
+      "911 carrera 4s 480 cv ficha técnica",
+      "porsche 992 4s prestaciones",
+      "911 carrera 4s consumo",
+      "deportivo tracción total"
+    ],
+    "readTime": 4
+  },
+  {
     "slug": "yamaha-xsr900-2024-ficha-tecnica-precio",
     "title": "Yamaha XSR900 2024: 119 CV neo-retro desde 11.999 €",
     "excerpt": "Precio y ficha de la Yamaha XSR900 2024: 119 CV del tricilíndrico CP3, electrónica con IMU de 6 ejes, 193 kg y limitable al A2 por 11.999 €.",
@@ -74456,6 +74744,24 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 2
   },
   {
+    "slug": "seat-ateca-2024-precio-y-opinion",
+    "title": "SEAT Ateca 1.0 TSI: precio, 115 CV, 510 l y mecánica VW",
+    "excerpt": "El SEAT Ateca 1.0 TSI ofrece 510 l de maletero y mecánica VW probada desde 26.041 €. Su deuda: etiqueta C sin híbridos. Análisis completo y ficha.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/seat-ateca-2024-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "SEAT Ateca en una calle de barrio",
+    "keywords": [
+      "seat ateca 1.0 tsi precio",
+      "ateca maletero 510 litros",
+      "seat ateca ficha técnica",
+      "ateca consumo 6,1",
+      "suv familiar barato españa"
+    ],
+    "readTime": 4
+  },
+  {
     "slug": "skoda-elroq-85-2026-precio-ficha-tecnica",
     "title": "Skoda Elroq 85: 581 km por 35.250 €",
     "excerpt": "El Skoda Elroq 85 ya está en España desde 35.250 €: 286 CV, 581 km de autonomía WLTP y carga rápida de 175 kW. Precio, ficha y rivales.",
@@ -74920,6 +75226,42 @@ export const BLOG_LITE: BlogLitePost[] = [
       "suv coupe eléctrico familiar"
     ],
     "readTime": 3
+  },
+  {
+    "slug": "skoda-octavia-15-tsi-mhev-precio-ficha-tecnica",
+    "title": "Skoda Octavia 1.5 TSI mHEV: precio, 600 l y 5,0 l/100",
+    "excerpt": "El Skoda Octavia 1.5 TSI mHEV ofrece 600 l de maletero, 5,0 l/100 km, etiqueta ECO y 5 estrellas Euro NCAP desde 35.200 €. Análisis completo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/skoda-octavia-15-tsi-mhev.webp",
+    "heroAlt": "Skoda Octavia 1.5 TSI mHEV en autopista",
+    "keywords": [
+      "skoda octavia 1.5 tsi mhev precio",
+      "octavia mhev maletero 600",
+      "skoda octavia consumo 5,0",
+      "octavia ficha técnica 2026",
+      "berlina familiar etiqueta eco"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "skoda-superb-15-tsi-mhev-precio-ficha-tecnica",
+    "title": "Skoda Superb 1.5 TSI mHEV: precio, 150 CV, 645 l y ECO",
+    "excerpt": "El Skoda Superb 1.5 TSI mHEV ofrece 150 CV, 645 l de maletero, espacio de limusina y 5,2 l/100 km desde 47.000 €. La berlina grande sensata.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/skoda-superb-15-tsi-mhev.webp",
+    "heroAlt": "Skoda Superb 1.5 TSI mHEV gris en carretera",
+    "keywords": [
+      "skoda superb 1.5 tsi mhev precio",
+      "superb mhev maletero 645",
+      "skoda superb consumo 5,2",
+      "superb ficha técnica euroncap",
+      "berlina grande etiqueta eco"
+    ],
+    "readTime": 4
   },
   {
     "slug": "smart-2-2026-precio-autonomia-paris",
@@ -75697,6 +76039,24 @@ export const BLOG_LITE: BlogLitePost[] = [
       "subaru uncharted tope de gama"
     ],
     "readTime": 3
+  },
+  {
+    "slug": "subaru-brz-24-precio-ficha-tecnica",
+    "title": "Subaru BRZ 2.4: precio, 234 CV, manual y tracción trasera",
+    "excerpt": "El Subaru BRZ 2.4 ofrece bóxer atmosférico de 234 CV, cambio manual y 1.289 kg desde 39.500 €. El gemelo del GR86 en despedida, analizado a fondo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/subaru-brz-24.webp",
+    "heroAlt": "Subaru BRZ 2.4 azul en un puerto de montaña",
+    "keywords": [
+      "subaru brz precio españa",
+      "subaru brz 2.4 234 cv",
+      "brz ficha técnica",
+      "subaru brz tracción trasera",
+      "deportivo atmosférico manual"
+    ],
+    "readTime": 4
   },
   {
     "slug": "suzuki-vitara-strong-hybrid-2025-precio-ficha-tecnica",
@@ -76723,6 +77083,60 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 4
   },
   {
+    "slug": "toyota-rav4-hybrid-2026-precio-ficha-tecnica",
+    "title": "Toyota RAV4 Hybrid 2026: precio, 185 CV y 4,9 l/100 km",
+    "excerpt": "El Toyota RAV4 Hybrid 2026 estrena generación híbrida: 185 CV, 4,9 l/100 km, 1.120 km de autonomía y maletero de 580 l desde 43.500 € con etiqueta ECO.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/toyota-rav4-hybrid-2026.webp",
+    "heroAlt": "Toyota RAV4 Hybrid 2026 verde en carretera de montaña",
+    "keywords": [
+      "toyota rav4 hybrid 2026 precio",
+      "rav4 hybrid 185 cv consumo",
+      "toyota rav4 2026 ficha técnica",
+      "rav4 hybrid etiqueta eco",
+      "suv híbrido familiar precio"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "toyota-gr86-24-boxer-precio-ficha-tecnica",
+    "title": "Toyota GR86 2.4 Boxer: precio, 234 CV, manual y trasera",
+    "excerpt": "El Toyota GR86 2.4 Boxer ofrece 234 CV atmosféricos, cambio manual y tracción trasera con 1.289 kg desde 32.900 €. El deportivo puro que queda.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/toyota-gr86-24-boxer.webp",
+    "heroAlt": "Toyota GR86 2.4 Boxer en un puerto de montaña",
+    "keywords": [
+      "toyota gr86 precio españa",
+      "gr86 2.4 boxer 234 cv",
+      "toyota gr86 ficha técnica",
+      "gr86 manual tracción trasera",
+      "deportivo atmosférico barato"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "toyota-yaris-cross-hybrid-2024-precio-y-opinion",
+    "title": "Toyota Yaris Cross Hybrid 130: precio, 131 CV y ECO",
+    "excerpt": "El Toyota Yaris Cross Hybrid 130 consume 4,8 l/100 km, tiene etiqueta ECO y versión AWD-i desde 27.300 €. El B-SUV racional de Toyota, a fondo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/toyota-yaris-cross-hybrid-2024-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Toyota Yaris Cross Hybrid en ciudad",
+    "keywords": [
+      "toyota yaris cross hybrid 130 precio",
+      "yaris cross consumo 4,8",
+      "yaris cross hybrid ficha técnica",
+      "yaris cross awd-i",
+      "b-suv híbrido etiqueta eco"
+    ],
+    "readTime": 4
+  },
+  {
     "slug": "ue-china-freno-hibridos-enchufables",
     "title": "UE y China pactan freno a híbridos",
     "excerpt": "La UE y China han pactado moderar las exportaciones de híbridos e híbridos enchufables chinos a Europa, con un recorte de más de la mitad en 4 años. Qué significa para quien busque un PHEV chino en Es",
@@ -77271,6 +77685,42 @@ export const BLOG_LITE: BlogLitePost[] = [
       "suv híbrido enchufable"
     ],
     "readTime": 3
+  },
+  {
+    "slug": "volkswagen-passat-variant-15-etsi-precio-ficha-tecnica",
+    "title": "Volkswagen Passat Variant 1.5 eTSI: precio y 690 l",
+    "excerpt": "El Volkswagen Passat Variant 1.5 eTSI ofrece 690 l de maletero, 150 CV, 5,3 l/100 km y etiqueta ECO desde 46.330 €. El familiar de referencia.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/volkswagen-passat-variant-15-etsi.webp",
+    "heroAlt": "Volkswagen Passat Variant 1.5 eTSI en una carretera de viajes",
+    "keywords": [
+      "volkswagen passat variant 1.5 etsi precio",
+      "passat variant maletero 690",
+      "passat etsi consumo 5,3",
+      "passat variant ficha técnica",
+      "familiar grande etiqueta eco"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "volkswagen-t-roc-2024-precio-y-opinion",
+    "title": "Volkswagen T-Roc 1.0 TSI: precio, 116 CV y 445 litros",
+    "excerpt": "El Volkswagen T-Roc 1.0 TSI ofrece 116 CV, 445 l de maletero, 5 estrellas Euro NCAP y tacto de Golf desde 26.825 €. Sin híbrido: etiqueta C.",
+    "category": "Novedades Motor",
+    "date": "2026-10-20",
+    "locale": "all",
+    "heroSrc": "/media/volkswagen-t-roc-2024-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Volkswagen T-Roc en carretera",
+    "keywords": [
+      "volkswagen t-roc precio españa",
+      "t-roc 1.0 tsi 116 cv",
+      "t-roc ficha técnica maletero",
+      "t-roc consumo 5,8",
+      "suv compacto volkswagen"
+    ],
+    "readTime": 4
   },
   {
     "slug": "volkswagen-id-tiguan-2026-precio-ficha-tecnica",

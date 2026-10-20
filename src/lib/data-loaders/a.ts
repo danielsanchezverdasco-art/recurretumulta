@@ -92,6 +92,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "alfa-romeo-tonale-phev-q4-280-precio-ficha-tecnica": () => import("../blog-posts-alfa-romeo-a.ts"),
     "alpine-a110-252-2026-precio-ficha-tecnica": () => import("../blog-posts-alpine-a.ts"),
     "alpine-a110-gts-2026-precio-ficha-tecnica": () => import("../blog-posts-alpine-a.ts"),
+    "alpine-a110-precio-ficha-tecnica": () => import("../blog-posts-alpine-a.ts"),
     "alpine-a110-r-2026-precio-ficha-tecnica": () => import("../blog-posts-alpine-a.ts"),
     "alpine-a110-r-ultime-2026-precio-ficha-tecnica": () => import("../blog-posts-alpine-a.ts"),
     "alpine-a110-r70-2026-precio-ficha-tecnica": () => import("../blog-posts-alpine-a.ts"),
