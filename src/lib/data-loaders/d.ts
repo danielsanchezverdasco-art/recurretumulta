@@ -199,6 +199,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "ducati-monster-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m22.ts"),
     "ducati-monster-2026-quinta-generacion-precio-espana": () => import("../blog-posts-motor-2026-k.ts"),
     "ducati-monster-sp-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m10.ts"),
+    "ducati-monster-sp-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t6.ts"),
     "ducati-monster-v2-2026-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "ducati-multistrada-v2-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m8.ts"),
     "ducati-multistrada-v2-s-2025-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
