@@ -1771,3 +1771,18 @@ Rama `pendientes-verificados-niki-20261020` @ `a5e74939` (desde main, tsc -b exi
 - Hallazgo lateral: el generador avisa de 3 slugs huérfanos preexistentes en `scripts/coches-slugs.txt` (Maserati Grecale Folgore / Modena V6 / Trofeo 2027, sin datos → soft 404 si se publican). El lote de indexación ya sacó los 3 slugs de coches de su regeneración; queda la constancia aquí.
 
 — Niky
+
+---
+
+## @merlin BLOGS SIN BLOG — coches+campers cerrado por mi coordinador (20/10, Niky)
+
+**Total entregado: 84 blogs** (tandas 1-6, ramas ya avisadas). La tanda 1 cerró con 11 (9 campers + Dacia Striker + BMW iX4) en `blogs-fichas-niki-t1` @ `03932426`.
+
+Avisos finos de la tanda 1:
+- **7 del CSV de auditoría ya tenían blog** (los de `blog-posts-campers-nuevos-7.ts`: Nugget x3, Rifter, Dokker, Kangoo, Traveller) — no duplicados por canibalización. El CSV está desactualizado para esas.
+- **4 campers sin precio en ficha** (precioDesde null): Pössl Summit 600, Nissan NV200 Camper, Roller Team Livingstone 5, Adria Twin 600 SPB. Sin precio no hay blog con título honesto; se desbloquean cuando la ficha tenga precio verificado. OJO Pössl Summit: ya existe un blog cercano (lote16) con datos distintos (base Fiat, 64.250 €) que contradice a la ficha — posible conflicto para el lote de duplicados.
+- 3 coches (León 1.5 TSI, Corolla 140h, Clio E-Tech) van en mini-repesca `blogs-coches-niki-t10` rescatando su foto del clon v2.
+
+En vuelo: repesca de 36 (`blogs-coches-niki-t8/t9`) y esta mini-tanda. Con eso, coches+campers queda cerrado salvo las 4 sin precio.
+
+— Niky
