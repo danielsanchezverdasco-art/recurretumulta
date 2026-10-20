@@ -15,6 +15,8 @@ import type { CocheComparador } from "./comparador-coches-data.ts";
 export const COCHES_HYUNDAI: CocheComparador[] = [
   {
     id: "hyundai-kona-electrico-2026-precio-ficha-tecnica",
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es/es/modelos/kona-electrico/planenchufados.html",
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
@@ -35,6 +37,23 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     bateriaKwh: 65.4,
     cargaRapidaKw: 101,
     etiquetaDgt: "Cero",
+    euroncap: {
+      estrellas: 4,
+      ano: 2023,
+      url: null,
+      nota: "Prueba del Hyundai Kona (2ª generación), 2023",
+    },
+    planMantenimiento: {
+      intervalo: "Cada 1 año o 15.000 km (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual",
+          queSeCambia: "Inspección general, filtro de habitáculo y líquido de frenos según plan",
+          costeAproxEur: null,
+        },
+      ],
+      fuente: "Hyundai España (intervalo oficial en hyundai.com/es; costes no publicados)",
+    },
     pros: [
       "510 km de autonomía WLTP con 65,4 kWh: de lo mejor del segmento B-SUV eléctrico",
       "Carga rápida de 101 kW en DC con preacondicionamiento de batería de serie",
@@ -116,6 +135,23 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
+    euroncap: {
+      estrellas: 5,
+      ano: 2021,
+      url: null,
+      nota: "Prueba del Hyundai Tucson (NX4), 2021",
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros e inspección general",
+          costeAproxEur: null,
+        },
+      ],
+      fuente: "Hyundai España",
+    },
     pros: [
       "239 CV con 5,6 l/100 km: el híbrido más equilibrado del segmento C-SUV",
       "Etiqueta ECO: entra en las ZBE sin restricciones",
@@ -277,6 +313,8 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
   },
   {
     id: "hyundai-ioniq-5-n-2025-precio-ficha-tecnica",
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es/es/modelos/ioniq-5-n/prestaciones.html",
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
@@ -297,6 +335,23 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     bateriaKwh: 84,
     cargaRapidaKw: 350,
     etiquetaDgt: "Cero",
+    euroncap: {
+      estrellas: 5,
+      ano: 2021,
+      url: null,
+      nota: "Prueba del Hyundai IONIQ 5, 2021 (misma carrocería y estructura)",
+    },
+    planMantenimiento: {
+      intervalo: "Cada 24 meses o 30.000 km (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión bienal / 30.000 km",
+          queSeCambia: "Inspección general, filtro de habitáculo y estado de la batería de alto voltaje",
+          costeAproxEur: null,
+        },
+      ],
+      fuente: "Hyundai España (plan oficial para eléctricos)",
+    },
     pros: [
       "650 CV con N Grin Boost y 0-100 en 3,4 s: el Hyundai más rápido jamás fabricado",
       "Carga ultrarrápida de 350 kW (arquitectura 800 V): del 10 al 80 % en unos 18 minutos",
@@ -902,6 +957,23 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
+    euroncap: {
+      estrellas: 5,
+      ano: 2021,
+      url: null,
+      nota: "Prueba del Hyundai Tucson (NX4), 2021",
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros e inspección general",
+          costeAproxEur: null,
+        },
+      ],
+      fuente: "Hyundai España",
+    },
     pros: [
       "160 CV con microhibridación 48V y etiqueta ECO por 36.025 €",
       "El Tucson más barato con etiqueta ECO",
@@ -1577,6 +1649,23 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     bateriaKwh: 42,
     cargaRapidaKw: 74,
     etiquetaDgt: "Cero",
+    euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: null,
+      nota: "Prueba del Hyundai INSTER, 2025",
+    },
+    planMantenimiento: {
+      intervalo: "Cada 24 meses o 30.000 km (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión bienal / 30.000 km",
+          queSeCambia: "Inspección general, filtro de habitáculo y estado de la batería de alto voltaje",
+          costeAproxEur: null,
+        },
+      ],
+      fuente: "Hyundai España (plan oficial para eléctricos)",
+    },
     pros: [
       "24.989 €: el eléctrico urbano más barato de Hyundai",
       "327 km WLTP con solo 42 kWh: muy eficiente",

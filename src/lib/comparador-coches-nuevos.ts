@@ -1611,6 +1611,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     bateriaKwh: 58.3,
     cargaRapidaKw: 128,
     etiquetaDgt: "Cero",
+    euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: null,
+      nota: "Prueba del Kia EV3, 2025 (4 estrellas de serie; 5 con el pack de seguridad opcional)",
+    },
     pros: [
       "436 km WLTP (605 km la Air Long Range)",
       "Consumo de 14,9 kWh/100 km: muy eficiente",
@@ -1722,6 +1728,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     bateriaKwh: 42,
     cargaRapidaKw: 120,
     etiquetaDgt: "Cero",
+    euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: null,
+      nota: "Prueba del Hyundai INSTER, 2025",
+    },
     pros: [
       "327 km de autonomía por 25.140 €",
       "Garantía de batería de 8 años o 160.000 km",
@@ -3609,6 +3621,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
+    euroncap: {
+      estrellas: 3,
+      ano: 2020,
+      url: null,
+      nota: "Prueba del Hyundai i10, 2020",
+    },
     pros: [
       "PVP desde ≈17.800 €, de los citycar más baratos (topventascoches)",
       "Muy maniobrable para la ciudad",
@@ -3665,6 +3683,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
+    euroncap: {
+      estrellas: 3,
+      ano: 2017,
+      url: null,
+      nota: "Rating de serie 2017: 3 estrellas; 5 estrellas con el pack opcional de seguridad",
+    },
     pros: [
       "Desde 19.190 € con 7 años de garantía (carwow)",
       "Maletero amplio para el segmento: 352 L",
@@ -4252,6 +4276,8 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     },
   {
     id: "hyundai-ioniq-5-electrico-precio-ficha-tecnica",
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es/es/modelos/ioniq5.html",
     mantenimientoDIY: {
         resetAceiteTitulo: "Resetear aviso de revisión/servicio",
         resetAceitePasos: ["Con el contacto dado (botón Start sin pisar el freno), pulsa 'Setup' en la pantalla táctil central.", "Selecciona 'Vehículo' y, en el menú lateral, 'Convenience'.", "Entra en 'Intervalo de servicio' (Service Interval).", "Pulsa 'Reset' y confirma con 'Sí'. Desde aquí también puedes ajustar los km/meses del próximo aviso."],
@@ -4281,6 +4307,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     bateriaKwh: 63,
     cargaRapidaKw: 220,
     etiquetaDgt: "Cero",
+    euroncap: {
+      estrellas: 5,
+      ano: 2021,
+      url: null,
+      nota: "Prueba del Hyundai IONIQ 5, 2021",
+    },
     pros: [
       "Arquitectura de 800 V con carga ultrarrápida",
       "Diseño retrofuturista distintivo",
@@ -4337,6 +4369,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     bateriaKwh: 63,
     cargaRapidaKw: 235,
     etiquetaDgt: "Cero",
+    euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: null,
+      nota: "Prueba del Kia EV6, 2022",
+    },
     pros: [
       "Arquitectura de 800 V con carga ultrarrápida",
       "Diseño crossover deportivo",
@@ -5197,6 +5235,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     bateriaKwh: 1.3,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
+    euroncap: {
+      estrellas: 4,
+      ano: 2022,
+      url: null,
+      nota: "Prueba del Kia Niro, 2022",
+    },
     pros: [
       "Consumo homologado de 4,4 l/100 km",
       "Maletero de 451 litros",
@@ -5252,6 +5296,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     bateriaKwh: 1.3,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
+    euroncap: {
+      estrellas: 4,
+      ano: 2023,
+      url: null,
+      nota: "Prueba del Hyundai Kona (2ª generación), 2023",
+    },
     pros: [
       "Consumo homologado de 4,6 l/100 km",
       "Maletero de 466 litros",
@@ -5307,6 +5357,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     bateriaKwh: 1.5,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
+    euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: null,
+      nota: "Prueba del Kia Sportage, 2022",
+    },
     pros: [
       "239 CV, el híbrido más potente de su segmento",
       "Maletero de 587 litros",
@@ -7489,6 +7545,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     bateriaKwh: 63,
     cargaRapidaKw: 220,
     etiquetaDgt: "Cero",
+    euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: null,
+      nota: "Prueba del Hyundai IONIQ 6, 2022; 'Best in Class' 2022 en su categoría",
+    },
     pros: [
       "Eficiencia de referencia: 13,4 kWh/100 km homologados",
       "Arquitectura de 800 V: carga ultrarrápida en corriente continua",
@@ -7552,6 +7614,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
+    euroncap: {
+      estrellas: 4,
+      ano: 2021,
+      url: null,
+      nota: "Prueba del Hyundai Bayon, 2021",
+    },
     pros: [
       "Restyling 2024 con frontal renovado y más tecnología",
       "Etiqueta ECO en las versiones 48V: entra en las ZBE",
@@ -7615,6 +7683,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
+    euroncap: {
+      estrellas: 5,
+      ano: 2017,
+      url: null,
+      nota: "Prueba del Hyundai i30, 2017",
+    },
     pros: [
       "Restyling 2024: imagen actualizada y más equipamiento",
       "Versión familiar CW con maletero de 602 litros",
@@ -7678,6 +7752,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
+    euroncap: {
+      estrellas: 4,
+      ano: 2019,
+      url: null,
+      nota: "Prueba del Kia Ceed, 2019 (4 estrellas de serie; 5 con el pack de seguridad opcional)",
+    },
     pros: [
       "Gama con etiqueta ECO en los mild-hybrid y Cero en el PHEV",
       "Garantía Kia de 7 años o 150.000 km, de las mejores del mercado",
@@ -9776,6 +9856,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     bateriaKwh: 1.5,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
+    euroncap: {
+      estrellas: 4,
+      ano: 2024,
+      url: null,
+      nota: "Prueba del Hyundai Santa Fe, 2024",
+    },
     pros: [
       "7 plazas de verdad con maletero de 628 L: el familiar definitivo",
       "Diseño radicalmente nuevo: estilo 'boxy' único en el segmento",

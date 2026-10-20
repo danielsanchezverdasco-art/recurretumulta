@@ -27,6 +27,23 @@ export const COCHES_KIA: CocheComparador[] = [
     bateriaKwh: 58.3,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
+    euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: null,
+      nota: "Prueba del Kia EV4, 2025 (4 estrellas de serie; 5 con el DriveWise Safety Pack opcional)",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 24 meses (lo que ocurra antes, orientativo)",
+      revisiones: [
+        {
+          nombre: "Revisión bienal / 30.000 km",
+          queSeCambia: "Filtro de habitáculo, líquidos e inspección general",
+          costeAproxEur: null,
+        },
+      ],
+      fuente: "Kia España",
+    },
     pros: [
       "Precio de acceso de 35.972 €: la berlina eléctrica más asequible de Kia en España",
       "440 km de autonomía WLTP con la batería pequeña: suficiente para el uso real",
@@ -111,6 +128,23 @@ export const COCHES_KIA: CocheComparador[] = [
     bateriaKwh: 81.4,
     cargaRapidaKw: 150,
     etiquetaDgt: "Cero",
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: null,
+      nota: "Prueba del Kia EV5, 2025",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 24 meses (lo que ocurra antes, orientativo)",
+      revisiones: [
+        {
+          nombre: "Revisión bienal / 30.000 km",
+          queSeCambia: "Filtro de habitáculo, líquidos e inspección general",
+          costeAproxEur: null,
+        },
+      ],
+      fuente: "Kia España",
+    },
     pros: [
       "530 km de autonomía WLTP: de las mejores cifras entre los SUV eléctricos medios",
       "Maletero de 566 L: el más capaz de la familia eléctrica de Kia por tamaño",
@@ -195,6 +229,23 @@ export const COCHES_KIA: CocheComparador[] = [
     bateriaKwh: 99.8,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
+    euroncap: {
+      estrellas: 5,
+      ano: 2023,
+      url: null,
+      nota: "Prueba del Kia EV9, 2023",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 24 meses (lo que ocurra antes, orientativo)",
+      revisiones: [
+        {
+          nombre: "Revisión bienal / 30.000 km",
+          queSeCambia: "Filtro de habitáculo, líquidos e inspección general",
+          costeAproxEur: null,
+        },
+      ],
+      fuente: "Kia España",
+    },
     pros: [
       "385 CV y 700 Nm: acelera en 5,3 s pese a sus 2.664 kg",
       "7 plazas reales con 333 L de maletero incluso con todas ocupadas (828 L con 5)",
@@ -363,6 +414,23 @@ export const COCHES_KIA: CocheComparador[] = [
     bateriaKwh: 64.8,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
+    euroncap: {
+      estrellas: 4,
+      ano: 2022,
+      url: null,
+      nota: "Prueba del Kia Niro, 2022",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 24 meses (lo que ocurra antes, orientativo)",
+      revisiones: [
+        {
+          nombre: "Revisión bienal / 30.000 km",
+          queSeCambia: "Filtro de habitáculo, líquidos e inspección general",
+          costeAproxEur: null,
+        },
+      ],
+      fuente: "Kia España",
+    },
     pros: [
       "460 km de autonomía WLTP con 64,8 kWh: de los más eficientes del segmento",
       "Formato crossover compacto (4,42 m): ideal para ciudad y escapadas",
@@ -531,6 +599,23 @@ export const COCHES_KIA: CocheComparador[] = [
     bateriaKwh: 13.8,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
+    euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: null,
+      nota: "Prueba del Kia Sportage, 2022",
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros e inspección general",
+          costeAproxEur: null,
+        },
+      ],
+      fuente: "Kia España",
+    },
     pros: [
       "252 CV y 350 Nm con tracción total: el Sportage más potente y capaz",
       "66 km eléctricos WLTP: entra en la ZBE a diario sin emisiones",
@@ -615,6 +700,23 @@ export const COCHES_KIA: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
+    euroncap: {
+      estrellas: 5,
+      ano: 2020,
+      url: null,
+      nota: "Prueba del Kia Sorento, 2020 (rating europeo válido para las variantes europeas)",
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros e inspección general",
+          costeAproxEur: null,
+        },
+      ],
+      fuente: "Kia España",
+    },
     pros: [
       "7 plazas de verdad con 608 L de maletero (5 plazas): el familiar definitivo",
       "215 CV híbridos con etiqueta ECO y 6,6 l/100 km para 1.896 kg",
