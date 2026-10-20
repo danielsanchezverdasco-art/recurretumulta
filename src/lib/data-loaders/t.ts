@@ -72,6 +72,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "toyota-c-hr-plus-2026-precio-ficha-tecnica": () => import("../blog-posts-toyota-a.ts"),
     "toyota-c-hr-plus-230-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp14.ts"),
     "toyota-camry-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp9.ts"),
+    "toyota-corolla-140h": () => import("../blog-posts-toyota-a.ts"),
     "toyota-corolla-5p-140h-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp9.ts"),
     "toyota-corolla-5p-140h-2026-precio-ficha-tecnica": () => import("../blog-posts-batch2b-4.ts"),
     "toyota-corolla-baja-precio-octubre-2026": () => import("../blog-posts-flash-2026.ts"),

@@ -2683,6 +2683,7 @@ toyota-c-hr-plus-230-2025-precio-ficha-tecnica
 toyota-camry-2025-precio-ficha-tecnica
 toyota-corolla-5p-140h-2025-precio-ficha-tecnica
 toyota-corolla-baja-precio-octubre-2026
+toyota-corolla-140h
 toyota-corolla-berlina-2025-precio-ficha-tecnica
 toyota-corolla-cross-200h-2025-precio-ficha-tecnica
 toyota-corolla-cross-2025-precio-ficha-tecnica
