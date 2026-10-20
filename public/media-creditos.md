@@ -7414,3 +7414,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/seat-mo-125-performance-2025-ficha-tecnica-precio-hunt1.webp | https://cdn-listino.inmoto.it/2023/2/24/02_SEAT_MO_125_High_8ddf04c93f.jpg | SEAT (prensa oficial, vía InMoto) | desconocida |
 | /media/seat-mo-125-performance-2025-ficha-tecnica-precio-hunt2.webp | https://d1uzt6x5nm57qr.cloudfront.net/cms/DRESDEN%20HOLDING/LP%20M%C3%B3/SEAT%20MO%20125%20Performance/Galerie/Mo-125-Performance-Galerie-2.jpg | SEAT / Cupra Garage Dresden (concesionario oficial SEAT) | desconocida |
 | /media/seat-mo-125-performance-2025-ficha-tecnica-precio-hunt3.webp | https://www.autonocion.com/wp-content/uploads/2022/11/seat-mo-performance9.jpg | SEAT (prensa oficial, vía Autonoción) | desconocida |
+| /media/xpeng-g7-2026-precio-ficha-tecnica-hunt1.webp | https://www.carscoops.com/wp-content/uploads/2025/01/Xpeng-G7-4aa.jpg | XPeng (prensa oficial) vía Carscoops | desconocida |
+| /media/xpeng-g7-2026-precio-ficha-tecnica-hunt2.webp | http://cnevpost.com/wp-content/uploads/2025/01/2025011014363843.jpg | XPeng / registro MIIT vía CnEVPost | desconocida |
+| /media/xpeng-g7-2026-precio-ficha-tecnica-hunt3.webp | https://zhytauto.com/wp-content/uploads/2025/06/inner-grey-car-1200x582.jpg | XPeng (prensa oficial) vía ZhytAuto | desconocida |
+| /media/neta-s-2024-precio-ficha-tecnica-hunt1.webp | https://www.gneenev.com/d/images/image(462).png | Hozon Neta (prensa oficial) vía GNEENE V | desconocida |
+| /media/neta-s-2024-precio-ficha-tecnica-hunt2.webp | https://cdn.hugeauto.com/img02/325/6883/2024/173629/98586/appearance/12102557.jpg | HugeAuto / Yiche | desconocida |
+| /media/neta-s-2024-precio-ficha-tecnica-hunt3.webp | https://img.pcauto.com/model/images/modelPic/th/2024/03/434/413601167_1711119172346_600x400.jpg | PCauto Thailand | desconocida |
+| /media/yamaha-nmax-155-2025-ficha-tecnica-precio-hunt1.webp | https://www.yamaha-motor.com.tw/assets/images/motor/NMAX2025/kv1-1920x1080.jpg | Yamaha Motor Taiwan (oficial) | desconocida |
+| /media/yamaha-nmax-155-2025-ficha-tecnica-precio-hunt2.webp | https://monomax.jp/official/wp-content/uploads/2025/05/nmax155_gallery_001_2025_002.jpg | Yamaha Motor Co. (oficial) vía MonoMax | desconocida |
+| /media/yamaha-nmax-155-2025-ficha-tecnica-precio-hunt3.webp | https://www.yamaha-motor.co.jp/mc/lineup/nmax155/img/nmax155_feature_001_2025_001.jpg | Yamaha Motor Co. Japón (oficial) | desconocida |
+| /media/sym-jet-14-125-2025-ficha-tecnica-precio-hunt1.webp | https://solucionesmotorizadas.es/media/474cca2e25c6f467787646fe47b38b95528db89901fd8c68400a8c61e86f8afc/sym-jet14125-white.jpg | SYM (oficial) vía Soluciones Motorizadas | desconocida |
+| /media/sym-jet-14-125-2025-ficha-tecnica-precio-hunt2.webp | https://bikes.motobank.co.uk/storage/sym/jet-14-125-ac-663/i/photo-663-5925.jpg | SYM UK / MotoGB (RideWorx) | desconocida |
+| /media/sym-jet-14-125-2025-ficha-tecnica-precio-hunt3.webp | https://motomecanicajlopez.es/cdn/shop/files/moto-sym-jet-14-125-g2_1024x.webp?v=1712835381 | Moto Mecánica J. López (concesionario SYM) | desconocida |
