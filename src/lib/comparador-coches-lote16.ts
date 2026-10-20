@@ -933,6 +933,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       "Interior espartano frente a Sprinter o Crafter",
       "Red de concesionarios más pequeña que la de las generalistas",
       "El Hi-Matic encarece la factura frente al manual",
+      "Precio orientativo (~48.280 € con IVA): Iveco España no publica tarifa oficial pública; el PVP final lo fija el concesionario según carrocería y equipamiento",
     ],
     largoMm: 5530,
     anchoMm: 2010,
@@ -1017,7 +1018,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
     modelo: "eVito",
     tipo: "Eléctrico",
     categoria: "Furgoneta",
-    precioDesde: 67700,
+    precioDesde: 55700,
     potenciaCv: 120,
     autonomiaKm: 310,
     maleteroL: null,
@@ -1034,7 +1035,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       "Carga rápida de 50 kW: del 10 al 80 % en unos 35 minutos",
     ],
     contras: [
-      "~67.700 € orientativos: el doble que una Vito diésel equivalente",
+      "Tarifa oficial Mercedes-Benz Vans España: el furgón eVito parte de 55.700 € (versión 120 CV) sin incluir impuestos ni transporte",
       "120 CV en el furgón: justos con carga completa",
       "Autonomía real baja mucho en invierno y en autovía",
       "La infraestructura de carga para furgonetas aún es escasa",
@@ -1050,7 +1051,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
     parNm: 360,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["precioDesde", "largoMm", "anchoMm", "altoMm", "consumo", "parNm"],
+    aprox: ["largoMm", "anchoMm", "altoMm", "consumo", "parNm"],
     imagen: "/media/mercedes-e-vito-2025-1.webp",
     opiniones: [],
     costeMensual: {
@@ -1462,7 +1463,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       "Garantía de estanqueidad con revisiones anuales en la red",
     ],
     contras: [
-      "~79.900 € orientativos: precio alto para una perfilada",
+      "Precio alto para una perfilada (~79.900 € orientativos): Benimar no publica tarifa oficial en su web; el PVP final lo fija el concesionario según extras y campaña",
       "Etiqueta C del Fiat Ducato base",
       "7,4 m de largo: no entra en muchos parkings ni pueblos",
       "El 160 CV gasta más que el 140 CV en ruta",
@@ -1780,7 +1781,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       "Marca francesa del grupo Trigano con buena red en Europa",
     ],
     contras: [
-      "Precio orientativo: el PVP final depende del concesionario y los extras",
+      "Precio orientativo (~69.900 €): Chausson no publica tarifa oficial en España; el PVP final lo fija el concesionario con los extras",
       "Etiqueta C: sin ventajas en ZBE",
       "4 plazas: no vale para familias de 5",
       "Acabados sencillos en la línea de acceso",
