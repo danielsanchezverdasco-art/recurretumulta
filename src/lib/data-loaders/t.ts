@@ -27,6 +27,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "te-van-a-multar-por-llevar-los-cristales-delanteros-tintados-lo-que-la-dgt-no-te-cuenta-multas-de-infarto-y-por-que-te-tiran-en-la-itv": () => import("../blog-posts-db.ts"),
     "tesla-cybercab-2026-precio-ficha": () => import("../blog-posts-lote13.ts"),
     "tesla-cybertruck-2026-precio-ficha-tecnica": () => import("../blog-posts-nuevos-c4.ts"),
+    "tesla-model-3-electrico-precio-ficha-tecnica": () => import("../blog-posts-tesla-a.ts"),
     "tesla-model-3-gran-autonomia-traccion-total-2026-precio-ficha-tecnica": () => import("../blog-posts-tesla-a.ts"),
     "tesla-model-3-gran-autonomia-traccion-trasera-2026-precio-ficha-tecnica": () => import("../blog-posts-tesla-a.ts"),
     "tesla-model-3-performance-2025-precio-ficha-tecnica": () => import("../blog-posts-tesla-a.ts"),

@@ -2650,6 +2650,7 @@ tesla-cybertruck-2026-precio-ficha-tecnica
 tesla-model-3-gran-autonomia-traccion-total-2026-precio-ficha-tecnica
 tesla-model-3-gran-autonomia-traccion-trasera-2026-precio-ficha-tecnica
 tesla-model-3-performance-2025-precio-ficha-tecnica
+tesla-model-3-electrico-precio-ficha-tecnica
 tesla-model-s-plaid-2026-precio-ficha-tecnica
 tesla-model-x-plaid-2026-precio-ficha-tecnica
 tesla-model-y-7-plazas-2026-precio-ficha-tecnica
