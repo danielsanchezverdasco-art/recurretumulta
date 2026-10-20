@@ -6535,3 +6535,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/sunra-anger-125e-2025-ficha-tecnica-precio-hunt1.webp | https://img.pccomponentes.com/articles/45/453030/1700-sunra-anger-125e-scooter-electrica-matriculable-3000w-40ah-plata.jpg | Sunra (foto de producto) vía PcComponentes | desconocida |
 | /media/sunra-anger-125e-2025-ficha-tecnica-precio-hunt2.webp | https://thumb.pccomponentes.com/w-530-530/articles/45/453030/2690-sunra-anger-125e-scooter-electrica-matriculable-3000w-40ah-plata-comprar.jpg | Sunra (foto de producto) vía PcComponentes | desconocida |
 | /media/sunra-anger-125e-2025-ficha-tecnica-precio-hunt3.webp | https://storage.googleapis.com/anjana-images/abcli9precj6rv4zv328bb7v8mda | Sunra (foto de producto) vía Aurgi | desconocida |
+| /media/hyundai-kona-16-tgdi-180-n-line-2026-precio-ficha-tecnica-hunt1.webp | https://www.km77.com/images/medium/8/7/6/7/hyundai-kona-lateral-frontal.368767.jpg | km77.com | desconocida |
+| /media/hyundai-kona-16-tgdi-180-n-line-2026-precio-ficha-tecnica-hunt2.webp | https://www.km77.com/images/medium/8/7/6/9/hyundai-kona-lateral-posterior.368769.jpg | km77.com | desconocida |
+| /media/hyundai-kona-16-tgdi-180-n-line-2026-precio-ficha-tecnica-hunt3.webp | https://www.km77.com/images/medium/8/7/7/1/hyundai-kona-lateral.368771.jpg | km77.com | desconocida |
+| /media/mazda-cx-6e-2026-precio-ficha-tecnica-hunt1.webp | https://images.autoexpress.co.uk/autoexpress/2026/01/Mazda%20CX-6e%202026-15.jpg?w=1260&h=710&fit=crop&q=75&auto=format%2Ccompress | Mazda / Auto Express | desconocida |
+| /media/mazda-cx-6e-2026-precio-ficha-tecnica-hunt2.webp | https://images.autoexpress.co.uk/autoexpress/2026/01/Mazda%20CX-6e%202026-26.jpg?w=1260&h=710&fit=crop&q=75&auto=format%2Ccompress | Mazda / Auto Express | desconocida |
+| /media/mazda-cx-6e-2026-precio-ficha-tecnica-hunt3.webp | https://images.autoexpress.co.uk/autoexpress/2026/01/Mazda%20CX-6e%202026-20.jpg?w=1260&h=710&fit=crop&q=75&auto=format%2Ccompress | Mazda / Auto Express | desconocida |
+| /media/mv-agusta-enduro-veloce-2025-ficha-tecnica-precio-hunt1.webp | https://amcn.com.au/wp-content/uploads/2025/03/DSC_3155.jpg | Australian Motorcycle News (AMCN) | desconocida |
+| /media/mv-agusta-enduro-veloce-2025-ficha-tecnica-precio-hunt2.webp | https://amcn.com.au/wp-content/uploads/2025/03/DSC_3198.jpg | Australian Motorcycle News (AMCN) | desconocida |
+| /media/mv-agusta-enduro-veloce-2025-ficha-tecnica-precio-hunt3.webp | https://amcn.com.au/wp-content/uploads/2025/03/DSC_3404.jpg | Australian Motorcycle News (AMCN) | desconocida |
+| /media/efun-tiger-my25-2025-ficha-tecnica-precio-hunt1.webp | https://www.efunmotos.com/wp-content/uploads/2025/06/TIGER-2.jpg | Efun (efunmotos.com) | desconocida |
+| /media/efun-tiger-my25-2025-ficha-tecnica-precio-hunt2.webp | https://www.efunmotos.com/wp-content/uploads/2025/06/TIGER-1.jpg | Efun (efunmotos.com) | desconocida |
+| /media/efun-tiger-my25-2025-ficha-tecnica-precio-hunt3.webp | https://www.efunmotos.com/wp-content/uploads/2025/06/TIGER-3.jpg | Efun (efunmotos.com) | desconocida |
