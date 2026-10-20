@@ -78,8 +78,8 @@ export const CAMPERS_NIKY_ESPANOLAS: CocheComparador[] = [
     imagenOficial: "/media/ford-transit-custom-nugget-2026-precio-ficha-tecnica.webp",
     imagenInteriorOficial: "/media/ford-transit-custom-nugget-2026-precio-ficha-tecnica-interior.webp",
     analisisSlug: "ford-transit-custom-nugget-2026-precio-ficha-tecnica-analisis-opinion",
-    videoId: null,
-    videoCanal: null,
+    videoId: "rop8xLlwIHE",
+    videoCanal: "Ford Europe",
     planMantenimiento: {
       intervalo: "Según plan Ford",
       revisiones: [
