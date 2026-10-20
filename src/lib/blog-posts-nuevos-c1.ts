@@ -1768,6 +1768,43 @@ Compite con el **MG4** (más barato, menos carácter), el **BYD Dolphin** (más 
 
 <img src=/media/gwm-ora-03-gt-2025-precio-ficha-tecnica-oficial.webp alt=GWM Ora 03 GT vista lateral>
 
+## Ora: la marca eléctrica de GWM que apostó por el diseño
+
+Ora es la enseña de eléctricos de Great Wall Motor, cuya actividad global se recoge en la <a href=https://www.gwm.com>web oficial de GWM</a>. Donde otras marcas chinas compitieron a base de pantalla gigante y precio mínimo, Ora eligió el camino contrario: un compacto de diseño retro-futurista (el Ora 03, antes conocido como Funky Cat) que se reconoce de un vistazo. El GT es su versión de carácter: misma base, más potencia, kit aerodinámico y detalles deportivos. No pretende ser un hot hatch de circuito; pretende que tu eléctrico urbano no parezca un electrodoméstico con ruedas, y en eso acierta de pleno.
+
+## La técnica: 171 CV y 400 km en formato compacto
+
+| Dato | GWM Ora 03 GT |
+|---|---|
+| Potencia | 171 CV / 250 Nm |
+| Batería | 63 kWh |
+| Autonomía WLTP | 400 km |
+| 0-100 km/h | 8,2 s |
+| Velocidad máxima | 160 km/h |
+| Medidas | 4.254 x 1.848 x 1.603 mm |
+| Tracción | Delantera |
+| Etiqueta DGT | Cero |
+
+La subida de potencia frente al Ora 03 normal (171 CV frente a 143 CV) y el 0-100 en **8,2 s** sitúan al GT en el terreno de un compacto ágil, no de un deportivo: su terreno es la ciudad y la ronda, donde el par instantáneo de 250 Nm hace el trabajo. La batería de **63 kWh** con 400 km WLTP es la cifra que lo hace viable como coche único para mucha gente, siempre con la rebaja real habitual de los ciclos de homologación en autopista y frío. Añade un dato de seguridad relevante: el Ora 03 obtuvo **cinco estrellas en Euro NCAP**, el examen independiente que puede consultarse en <a href=https://www.euroncap.com>Euro NCAP</a>, un respaldo que muchos rivales de precio similar sí tienen y que conviene exigir a cualquier marca nueva.
+
+## Uso real: ciudad con personalidad, autovía con cabeza
+
+El Ora 03 GT es un coche de diario urbano y periurbano: tamaño contenido, respuesta inmediata y una autonomía que cubre la semana laboral media sin cargar a diario. Sus límites honestos son los del formato (plazas traseras y maletero de compacto corto) y los de la marca: la red comercial de GWM en España es joven frente a MG o BYD, y eso afecta a la prueba, a la entrega y a la reventa. A cambio, es difícil encontrar un eléctrico con más personalidad por sus registros de precio: la versión de 171 CV figura desde 31.990 € en registros españoles de 2025, como recoge la FAQ de este análisis. Compáralo en el <a href=/comparador-coches/>comparador de coches</a> y ameniza la carga con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+## Mantenimiento y costes: eléctrico sencillo, marca en construcción
+
+GWM no ha publicado en España una tabla de tarifas de mantenimiento del Ora 03 GT que podamos citar, y no la inventamos. Lo verificable es el patrón de los eléctricos de su clase: sin aceite ni distribución, el gasto ordinario se reduce a neumáticos, frenos (con menor desgaste por la regeneración), filtros y las revisiones programadas, con la batería de 63 kWh como componente crítico cubierto por la garantía del fabricante. Antes de comprar, la tarea pendiente es confirmar concesionario y servicio oficial cercanos: en una marca en despliegue, ese dato vale tanto como el descuento.
+
+## Normativa: etiqueta Cero y cinco estrellas Euro NCAP
+
+Como eléctrico puro, el Ora 03 GT lleva **distintivo Cero**, con libre acceso a las ZBE y las bonificaciones municipales habituales. Sus cinco estrellas Euro NCAP le dan el respaldo de seguridad que el comprador debe pedir a cualquier marca recién llegada, y su ITV seguirá el calendario de los turismos (primera a los 4 años). Normativamente es un ciudadano ejemplar: cero emisiones locales y seguridad auditada en Europa.
+
+## Frente a MG4 XPower y BYD Dolphin: veredicto
+
+Los dos rivales que cita el post tienen ficha en esta casa, y la comparación es instructiva: el <a href=/coches/mg4-electric-xpower-2025-precio-ficha-tecnica/>MG4 XPower</a> cuesta 42.190 € con 435 CV y un 0-100 en 3,8 s, otra liga de prestaciones; el <a href=/coches/byd-dolphin-2025-precio-ficha-tecnica/>BYD Dolphin</a> parte de 36.690 € con 204 CV, 427 km de autonomía y un enfoque práctico. El Ora GT no gana a ninguno en cifras puras: gana en diseño, en interior con encanto y en ser el eléctrico que la gente se gira a mirar.
+
+**¿Merece la pena?** Si el coche se elige solo con la hoja de cálculo, hay opciones más rápidas o más prácticas por el mismo dinero. **Para quién sí:** para quien quiera un eléctrico urbano con personalidad propia, seguridad de cinco estrellas y potencia suficiente, y tenga red GWM a mano. **Para quién no:** para quien priorice prestaciones (MG4), practicidad (Dolphin) o reventa consolidada.
+
 ## Preguntas frecuentes
 
 ### ¿Qué potencia tiene el Ora 03 GT?
@@ -1788,7 +1825,7 @@ Sí.
 ### ¿Cuánto cuesta el Ora 03 GT en España?
 GWM no publica un precio oficial específico del GT; la versión de 171 CV figura desde 31.990 € en registros españoles de 2025.
 
-*Fuentes: <a href=https://www.gwm.com>GWM oficial</a>, km77.com*
+*Fuentes: <a href=https://www.gwm.com>GWM oficial</a>, km77.com, <a href=https://www.euroncap.com>Euro NCAP (evaluación de seguridad)</a>*
 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
   },

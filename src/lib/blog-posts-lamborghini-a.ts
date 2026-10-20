@@ -924,6 +924,44 @@ En vídeo: <a href=https://www.youtube.com/watch?v=AqfMLZSAhzk>prueba del Hurac�
 | Tracción trasera: el más divertido | 13,9 l/100 km |
 | Luneta practicable con capota puesta | Más ruido aerodinámico con capota |
 
+## El último de una estirpe: adiós al V10 atmosférico
+
+El Huracán cerró su producción en 2024 tras una década como el Lamborghini de acceso, y el EVO RWD Spyder es una de sus versiones más especiales: la descapotable de tracción trasera, la que la propia marca orientó al disfrute por encima del cronómetro. Toda la gama puede repasarse en la <a href=https://www.lamborghini.com>web oficial de Lamborghini</a>, donde su sucesor ya ocupa el catálogo: el Temerario, con un V8 biturbo que sube a 10.000 rpm. Ese cambio de motor marca la frontera entre dos eras, y convierte a este Spyder en algo más que un coche usado caro: es uno de los últimos descapotables con un V10 atmosférico de gran cilindrada.
+
+## La técnica: 610 CV solo al eje trasero
+
+| Dato | Lamborghini Huracán EVO RWD Spyder |
+|---|---|
+| Motor | V10 5.2 atmosférico |
+| Potencia | 610 CV / 560 Nm |
+| Tracción | Trasera |
+| 0-100 km/h | 3,5 s |
+| Velocidad máxima | 324 km/h |
+| Consumo WLTP | 13,9 l/100 km |
+| Capota | Plegado en 17 s, en marcha hasta 50 km/h |
+| Precio en España | 238.700 € (km77) |
+| Etiqueta DGT | C |
+
+Que el RWD sea el Huracán más lento de la gama EVO (3,5 s en el 0-100) es casi una declaración de intenciones: renuncia a 30 CV y a la tracción total del EVO Spyder a cambio de un tren delantero más ligero y comunicativo y un eje trasero que acepta jugar. La capota de lona, que se pliega en **17 segundos** y puede accionarse en marcha hasta 50 km/h, y la luneta trasera practicable, que deja pasar el sonido del V10 incluso con el techo puesto, completan un coche pensado para la carretera de costa, no para el circuito. Sus 13,9 l/100 km homologados recuerdan que la eficiencia nunca fue el tema.
+
+## Uso real: el descapotable de los domingos perfectos
+
+El EVO RWD Spyder es un coche de ocasión especial: asfalto seco, carretera secundaria y techo abajo. Como coche de diario acumula los peajes de su especie (visibilidad con la capota puesta, maletero simbólico, atención permanente de miradas y móviles) y un consumo real que en uso alegre superará con holgura el homologado. Su valor, sin embargo, juega ya en otra liga: la producción ha terminado, no habrá más V10 nuevos de esta clase, y las unidades con tracción trasera y techo abierto son exactamente las que el coleccionismo premia. Puedes ver hacia dónde va la marca en la ficha del <a href=/coches/lamborghini-temerario-2025-precio-ficha-tecnica/>Lamborghini Temerario</a> y entretener la espera del buen tiempo con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+## Mantenimiento y costes: la factura de un V10
+
+Lamborghini no publica tarifas cerradas de mantenimiento del Huracán, y no las inventamos. Lo verificable es el nivel del coche: motor V10 de altas vueltas, cambio de doble embrague y una red oficial escasa en España implican revisiones y neumáticos en la franja alta del mercado, y cualquier comprador de ocasión debería exigir historial de mantenimiento oficial completo antes de mirar el precio. En un modelo ya fuera de producción, ese historial es además el principal argumento de valor futuro: un EVO RWD Spyder con sus revisiones selladas será siempre el que se venda primero.
+
+## Normativa: etiqueta C y un consumo de otra época
+
+El V10 atmosférico lleva **etiqueta C de la DGT**, que el post original ya señala: sin ventajas en las ZBE más restrictivas ni bonificaciones de los electrificados, y con el calendario de ITV ordinario de los turismos. Su homologación WLTP de 13,9 l/100 km lo sitúa en la franja alta del impuesto de matriculación en su día y en los tramos superiores del impuesto de circulación según el municipio. Es, normativamente, un coche de otra época, y parte de su encanto actual viene precisamente de ahí.
+
+## Frente al Temerario: el corazón contra la razón
+
+Su sucesor tiene ficha en esta casa: el <a href=/coches/lamborghini-temerario-2025-precio-ficha-tecnica/>Lamborghini Temerario</a> cuesta 350.782 €, rinde 920 CV, hace el 0-100 en 2,7 s y lleva etiqueta ECO de híbrido enchufable. Por cifras, el Temerario lo arrasa todo; por sonido, respuesta atmosférica y techo abierto con tracción trasera, el EVO RWD Spyder ofrece algo que el catálogo ya no vende. Enfréntalos en el <a href=/comparador-coches/>comparador de coches</a>.
+
+**¿Merece la pena?** Como compra nueva ya no existe; como ocasión, es de los Huracán con más personalidad y con un argumento de colección serio: último V10 atmosférico, descapotable y purista. **Para quién sí:** para quien busque sensaciones a cielo abierto y un activo con historia completa. **Para quién no:** para quien quiera lo último y lo más rápido con garantía de fábrica: eso hoy se llama Temerario.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto costaba el EVO RWD Spyder?
@@ -946,7 +984,7 @@ Sí: <a href=https://www.youtube.com/watch?v=AqfMLZSAhzk>prueba en vídeo de coc
 
 Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: <a href=https://www.km77.com/coches/lamborghini/huracan/2019/datos?amp=1>precio y ficha en km77</a>, <a href=https://www.youtube.com/watch?v=AqfMLZSAhzk>vídeo de coches.net</a>.*`
+*Fuentes: <a href=https://www.km77.com/coches/lamborghini/huracan/2019/datos?amp=1>precio y ficha en km77</a>, <a href=https://www.youtube.com/watch?v=AqfMLZSAhzk>vídeo de coches.net</a>., <a href=https://www.lamborghini.com>Lamborghini (web oficial)</a>*`
   },
   {
     "title": "Lamborghini Urus SE Performante: 812 CV PHEV",
@@ -1235,6 +1273,44 @@ Las 112 unidades (por el nombre interno LP 112 del proyecto original) se agotaro
 | 2,8 s de 0-100 | Visibilidad trasera casi nula |
 | Etiqueta ECO | Mantenimiento de serie mínima |
 
+## 1971-2021: medio siglo de la cuña que lo cambió todo
+
+El Countach original, diseñado por Marcello Gandini en Bertone, definió el superdeportivo moderno: cuña afilada, puertas de tijera y un V12 detrás de los asientos. Cincuenta años después, Lamborghini lo reinterpretó con el LPI 800-4, un homenaje de serie limitadísima construido sobre la base híbrida del Sián y presentado en el configurador y el archivo de la <a href=https://www.lamborghini.com>web oficial de Lamborghini</a>. Las **112 unidades** no son un capricho comercial: remiten al código interno LP 112 del proyecto original, y se agotaron antes de la presentación pública. No es un coche de producción; es una pieza de colección que casualmente se puede conducir.
+
+## La técnica: V12 atmosférico y un supercondensador en vez de batería
+
+| Dato | Lamborghini Countach LPI 800-4 |
+|---|---|
+| Motor | V12 6.5 atmosférico + motor eléctrico 48 V |
+| Potencia combinada | 814 CV / 720 Nm |
+| 0-100 km/h | 2,8 s |
+| Velocidad máxima | 355 km/h |
+| Peso | 1.595 kg |
+| Tracción | Total |
+| Maletero | 63 l |
+| Etiqueta DGT | ECO |
+| Unidades | 112 |
+
+La solución híbrida es la parte técnicamente interesante: en lugar de una batería pesada, un **supercondensador** de 48 V alimenta el motor eléctrico integrado en el cambio. Pesa muy poco, entrega la ayuda de forma instantánea y permite que el conjunto se quede en 1.595 kg, una cifra notable para un V12 moderno con tracción total. El resultado son 814 CV con respuesta de atmosférico y, de regalo, la **etiqueta ECO** que el post original destaca: este icono de los setenta reinterpretado puede entrar en las ZBE que vetan a superdeportivos mucho más modestos.
+
+## Uso real: no está pensado para usarse, y ahí está su gracia
+
+Seamos honestos: nadie compra un LPI 800-4 para ir a trabajar. Su habitáculo es estrecho, la visibilidad trasera es casi nula, el maletero de 63 l admite poco más que una bolsa blanda y cada kilómetro suma o resta valor según el mercado de colección. Su uso real es el de los eventos, las concentraciones y la contemplación en el garaje, y en ese uso es imbatible: ningún Lamborghini moderno concentra tanta historia por centímetro. Quien busque un V12 para viajar tiene en la gama actual opciones más racionales; quien busque el Countach, solo tiene este, y ya no se vende nuevo. Mientras tanto, nuestro <a href=/juego-monos/>juego caza-monos</a> es gratis y no se agota.
+
+## Mantenimiento y costes: territorio de servicio oficial
+
+Lamborghini no publica tarifas de mantenimiento del LPI 800-4, y sería temerario inventarlas. Lo verificable es el marco: un V12 de serie limitada con tecnología de supercondensador solo admite servicio en la red oficial de la marca, cualquier intervención mayor exige técnicos y piezas de Sant'Agata, y el seguro y el almacenamiento climatizado forman parte del coste real de propiedad de un coche de unos 2,4 millones. En este nivel, el mantenimiento no se presupuesta: se asume como parte del ritual de conservar una obra de arte con motor.
+
+## Normativa: serie limitada, etiqueta ECO y matrícula histórica en el futuro
+
+Aunque su motor es un V12 atmosférico, la hibridación ligera de 48 V le vale el **distintivo ECO**, con el acceso a zonas de bajas emisiones que ello implica. Como serie especial homologada por su fabricante, circula con matrícula ordinaria; con el paso de las décadas podrá optar a la consideración de vehículo histórico según la normativa española de cada momento, el destino natural de las 112 unidades supervivientes. Sus cifras de consumo y emisiones quedan fuera de cualquier lógica regulatoria: es, literalmente, una excepción con ruedas.
+
+## Frente al Revuelto: el presente contra el mito
+
+El heredero de la saga V12 tiene ficha en esta casa: el <a href=/coches/lamborghini-revuelto-2024-precio-ficha-tecnica/>Lamborghini Revuelto</a> cuesta 573.327 €, rinde 1.015 CV con tres motores eléctricos, hace el 0-100 en 2,5 s y mantiene la etiqueta ECO. Es más rápido, más moderno y cuesta una cuarta parte que un LPI 800-4, y sin embargo no es un Countach. Ahí se acaba la comparativa racional: el Revuelto (y el <a href=/coches/lamborghini-temerario-2025-precio-ficha-tecnica/>Temerario</a>, 920 CV) son coches; el LPI 800-4 es un monumento con 112 ejemplares.
+
+**¿Merece la pena?** La pregunta no aplica en términos de transporte: como inversión y como homenaje, su trayectoria en subasta por encima del precio original, que ya señala el post, habla sola. **Para quién sí:** para el coleccionista que quiera el V12 de homenaje definitivo con la silueta del Countach. **Para quién no:** para cualquiera que busque prestaciones por euro o un coche para usar a diario: por ese dinero hay cuatro Revuelto y sobra para el garaje.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Countach LPI 800-4?
@@ -1257,7 +1333,7 @@ Por el código interno **LP 112** del Countach original de los 70.
 
 Si te ha llegado una multa con tu Lamborghini, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: cobertura de italpassion, revistacar y auto10.*`
+*Fuentes: cobertura de italpassion, revistacar y auto10., <a href=https://www.lamborghini.com>Lamborghini (web oficial)</a>*`
   },
   {
     "title": "Lamborghini Fenomeno: 1.080 CV, precio y ficha",

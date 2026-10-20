@@ -1544,6 +1544,42 @@ Con 96 km/h, el Midnight **está fuera de cualquier categoría VMP** en España:
 
 <img src=/media/patinetes/inmotion-rs-midnight-3.webp alt=InMotion RS Midnight en recta de circuito>
 
+## InMotion: del monociclo eléctrico a los patinetes de 96 km/h
+
+InMotion es un fabricante chino especializado en vehículos eléctricos personales (monociclos, patinetes) cuya gama se presenta en su <a href=https://www.inmotionworld.com>web oficial</a>. La serie RS es su escaparate de prestaciones: patinetes de doble motor pensados para competir con los Teverun y los Nami en la liga de los hiperpatinetes. El RS Midnight es la edición especial oscura de esa familia, y su carta de presentación no admite medias tintas: **8.400 W de potencia de pico y 96 km/h** de velocidad máxima declarada. Todo lo demás en este análisis (legalidad, peso, sentido) cuelga de esas dos cifras.
+
+## La técnica: números de moto en formato patinete
+
+| Dato | InMotion RS Midnight |
+|---|---|
+| Motores | 2 x 2.000 W (8.400 W de pico) |
+| Batería | 72V 40Ah (2.880 Wh) |
+| Autonomía declarada | 96 km |
+| Autonomía real estimada | ~64 km |
+| Velocidad máxima | 96 km/h |
+| Peso | 58 kg |
+| Precio | ~3.999 $ |
+
+La batería de **2.880 Wh** es más grande que la de muchas motos eléctricas urbanas, y explica tanto la autonomía como los 58 kg: esto no es un patinete que se suba a un piso por las escaleras ni se meta en un maletero alegremente. La autonomía real estimada de unos 64 km que recoge el post es la lectura honesta de los 96 km declarados, medidos a ritmo suave. Y hay una verdad mecánica que el propio análisis subraya: a 96 km/h, los frenos y los neumáticos tienen que ser de nivel moto, porque la física no perdona el formato.
+
+## Uso real: un aparato de circuito, no de ciudad
+
+El RS Midnight tiene un uso legítimo y estrecho: rodar en **circuito privado** o en espacios cerrados donde su velocidad no sea un problema legal ni un peligro público. Como vehículo de transporte es un contrasentido: ilegal en vía pública española, imposible de asegurar para circular y demasiado pesado para la intermodalidad que da sentido a un patinete. Quien lo compre debe hacerlo con la misma mentalidad que quien compra una moto de cross sin matricular: el juguete es espectacular, el garaje y el remolque forman parte del presupuesto. Si buscas patinete para el día a día, la categoría legal está en el <a href=/comparador-patinetes/>comparador de patinetes</a>, y el rato de paddock lo ameniza nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+## Mantenimiento y costes: batería enorme, electrónica compleja
+
+InMotion no publica tarifas de mantenimiento aplicables en España, y no las inventamos. Lo verificable es el patrón de estos hiperpatinetes: doble motor, doble controlador y una batería de 2.880 Wh cuyo reemplazo sería el gasto mayor de su vida útil, además de neumáticos y frenos sometidos a esfuerzos de moto. El post original advierte además de que pocos talleres tocan estos aparatos: la posventa pasará por el importador y por la comunidad de usuarios, y conviene asumirlo antes de pagar unos 4.000 dólares.
+
+## Normativa: fuera de la categoría VMP, sin matices
+
+La normativa española de vehículos de movilidad personal, consultable en la <a href=https://www.dgt.es>DGT</a>, define los VMP con velocidades máximas de 25 km/h y exige certificación para circular. Un aparato de 96 km/h y 58 kg **no es un VMP** ni puede convertirse en uno limitándolo con un modo de la pantalla: en vía pública sería tratado como un vehículo sin autorización para circular, con las sanciones y la responsabilidad que ello implica en caso de accidente. El post original lo dice sin rodeos y este análisis lo repite: circuito privado o nada.
+
+## Frente a Nami Burn-e 3 Max y Teverun Blade GT II: veredicto
+
+Sus dos rivales naturales tienen ficha en esta casa: el <a href=/patinetes/nami-burn-e-3-max/>Nami Burn-e 3 Max</a> iguala los 8.400 W de pico y la batería de 2.880 Wh, declara 105 km/h y 135 km de autonomía (90 reales) y cuesta 4.449 € con 47,5 kg; el <a href=/patinetes/teverun-blade-gt-2/>Teverun Blade GT II</a> se queda en 5.000 W de pico y 85 km/h con 2.100 Wh. Los tres comparten la misma sentencia legal en España. El InMotion gana al Teverun en cifras y pierde con el Nami en velocidad punta declarada y peso.
+
+**¿Merece la pena?** Como máquina de circuito y objeto de colección de los hiperpatinetes, el RS Midnight es de lo más extremo que se vende. **Para quién sí:** para el aficionado con espacio privado donde rodarlo y presupuesto para mantenerlo. **Para quién no:** para absolutamente cualquiera que piense en usarlo en la calle: ahí no es caro o barato, es simplemente ilegal.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta?
@@ -1560,7 +1596,7 @@ Está entre los más rápidos de serie, junto al Teverun Supreme y el Nami Burn-
 
 ¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: <a href=https://www.voromotors.com/>VoroMotors</a> e InMotion.*`,
+*Fuentes: <a href=https://www.voromotors.com/>VoroMotors</a> e InMotion., <a href=https://www.inmotionworld.com>InMotion (web oficial)</a>, <a href=https://www.dgt.es>DGT (normativa VMP)</a>*`,
   },
   {
     slug: "inmotion-s1f",
