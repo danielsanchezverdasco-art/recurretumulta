@@ -8270,3 +8270,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/cfmoto-125nk-2026-hunt1.webp | https://cdn.inmoto.it/images/2025/05/26/093942932-d3708858-c7e7-4f5b-8572-26c3dc30741c.jpg | CFMOTO (foto de prensa) vía InMoto | desconocida |
 | /media/cfmoto-125nk-2026-hunt2.webp | https://bun.somosmoto.pe/images/models/gallery/cf-moto-125-nk-2025-gallery-a0c071.jpg | CFMOTO vía SomosMoto (galería oficial del modelo) | desconocida |
 | /media/cfmoto-125nk-2026-hunt3.webp | https://cfmoto.eu/wp-content/uploads/2025/08/125nk-my25-big-blue-600x408.jpg | CFMOTO Europa (cfmoto.eu, distribuidor oficial) | desconocida |
+| /media/aito-m9-2024-precio-ficha-tecnica-hunt1.webp | https://carnewschina.com/wp-content/uploads/2023/12/Slide-16_9-122-63-800x451.jpg | Autohome / Aito vía CarNewsChina | desconocida |
+| /media/aito-m9-2024-precio-ficha-tecnica-hunt2.webp | https://carnewschina.com/wp-content/uploads/2023/12/Slide-16_9-122-61-800x451.jpg | Autohome / Aito vía CarNewsChina | desconocida |
+| /media/aito-m9-2024-precio-ficha-tecnica-hunt3.webp | https://carnewschina.com/wp-content/uploads/2023/12/Slide-16_9-122-65-800x451.jpg | Autohome / Aito vía CarNewsChina | desconocida |
+| /media/zeekr-001-2026-precio-ficha-tecnica-hunt1.webp | https://cnevpost.com/wp-content/uploads/2025/10/2025101113260536.jpg | Zeekr (prensa oficial) vía CnEVPost | desconocida |
+| /media/zeekr-001-2026-precio-ficha-tecnica-hunt2.webp | https://cnevpost.com/wp-content/uploads/2025/10/2025101113260753.jpg | Zeekr (prensa oficial) vía CnEVPost | desconocida |
+| /media/zeekr-001-2026-precio-ficha-tecnica-hunt3.webp | https://cnevpost.com/wp-content/uploads/2025/10/2025101113260372.jpg | Zeekr (prensa oficial) vía CnEVPost — imagen oficial del fabricante | desconocida |
+| /media/ktm-390-adventure-x-2025-ficha-tecnica-precio-hunt1.webp | https://www.Revzilla.com/blog_content_image/image/96437/gallery/2025_ktm_390_adventure_x.jpg | KTM (foto de prensa oficial) vía RevZilla | desconocida |
+| /media/ktm-390-adventure-x-2025-ficha-tecnica-precio-hunt2.webp | https://ridermagazine.com/wp-content/uploads/2025/02/2025-KTM-390-Adventure-X-Preview-2.jpg | KTM (foto de prensa oficial) vía Rider Magazine | desconocida |
+| /media/ktm-390-adventure-x-2025-ficha-tecnica-precio-hunt3.webp | https://www.cyclenews.com/wp-content/uploads/2025/01/2025-KTM-390-Adventure-X-rear.jpg | KTM (foto de prensa oficial) vía Cycle News | desconocida |
+| /media/qjmotor-srk-125-s-2026-hunt1.webp | https://images5.1000ps.net/images_bikekat/2026/669-QJ_Motor/11759-SRK_125_S/003-638995727541828504-qj-motor-srk-125-s.jpg | QJMotor (catálogo oficial) vía 1000PS | desconocida |
+| /media/qjmotor-srk-125-s-2026-hunt2.webp | https://www.smrzmoto.cz/media/thumbs/shop/thumb_2000x1600__ae1_5270_edit.jpg?v=1718876665 | QJMotor (foto de prensa) vía Smrzmoto.cz | desconocida |
+| /media/qjmotor-srk-125-s-2026-hunt3.webp | https://images5.1000ps.net/images_bikekat/2026/669-QJ_Motor/11759-SRK_125_S/006-638995727554601532-qj-motor-srk-125-s.jpg | QJMotor (catálogo oficial) vía 1000PS | desconocida |
