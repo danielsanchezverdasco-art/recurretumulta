@@ -1,7 +1,8 @@
 // Campers Chausson — lote eu2 (19/10/2026).
 // Datos verificados: fichas de distribuidores oficiales del modelo exacto MJ2026 (múltiples anuncios coincidentes)
 // y web oficial de Chausson https://chausson-camping-cars.fr/ (garantía de estanqueidad 7 años).
-// Fotos: sin fotos oficiales de prensa del fabricante localizables para este modelo; se deja sin foto.
+// Fotos (20/10/2026): exterior, salón y baño de una unidad Twist V594 Sport Line 2026 real
+// (concesionario Ulrich, colección 2026): ulrich-campingcars.fr — modelo exacto verificado visualmente.
 // NOTA: "Chausson Twist 3 (2026)" no existe como modelo oficial 2026 (el "Twist 03" solo aparece en el catálogo Chausson 2011).
 // Se sustituye por el Chausson Twist V594, el fourgon Twist actual de 5,99 m (gama 2026: líneas Start y Exclusive).
 import type { CocheComparador } from "../comparador-coches-data.ts";
@@ -19,9 +20,9 @@ export const CAMPERS_CHAUSSON: CocheComparador[] = [
     bateriaKwh: null, cargaRapidaKw: null,
     etiquetaDgt: "C",
     garantiaBateriaAnos: null, garantiaBateriaKm: null, garantiaBateriaDegradacionPct: null,
-    imagen: "",
-    imagenOficial: "",
-    imagenInteriorOficial: "",
+    imagen: "/media/chausson-twist-v594-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial: "/media/chausson-twist-v594-2026-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial: "/media/chausson-twist-v594-2026-precio-ficha-tecnica-interior-oficial.webp",
     videoId: null, videoCanal: null,
     largoMm: 5990, anchoMm: 2050, altoMm: 2650,
     pesoKg: null,
@@ -45,7 +46,11 @@ export const CAMPERS_CHAUSSON: CocheComparador[] = [
       "Sin tarifa oficial de precios publicada en la web (consultar red de concesionarios)",
     ],
     opiniones: [],
-    galeria: [],
+    galeria: [
+      { src: "/media/chausson-twist-v594-2026-precio-ficha-tecnica-oficial.webp", alt: "Chausson Twist V594: exterior lateral del fourgon de 5,99 m", ancho: 1600, alto: 1200 },
+      { src: "/media/chausson-twist-v594-2026-precio-ficha-tecnica-interior-oficial.webp", alt: "Chausson Twist V594: salón con mesa y cama transversal trasera al fondo", ancho: 1200, alto: 1600 },
+      { src: "/media/chausson-twist-v594-2026-precio-ficha-tecnica-detalle.webp", alt: "Chausson Twist V594: baño con WC, lavabo y ducha separada", ancho: 1200, alto: 1600 },
+    ],
     analisisSlug: "chausson-twist-v594-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
       intervalo: "Revisión anual recomendada: motor según plan Fiat + estanqueidad célula",

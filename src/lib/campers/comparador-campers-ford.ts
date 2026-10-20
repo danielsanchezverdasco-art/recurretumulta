@@ -71,9 +71,9 @@ export const CAMPERS_FORD: CocheComparador[] = [
       },
       {
         src: "/media/ford-nugget-trail-2026-oficial-int2.webp",
-        alt: "Zona de descanso del Ford Nugget Trail",
-        ancho: 1200,
-        alto: 800,
+        alt: "Cocina en L del Ford Nugget Trail (foto de prensa Ford)",
+        ancho: 1500,
+        alto: 1125,
       },
     ],
     analisisSlug: "ford-nugget-trail-2026-analisis-opinion",
