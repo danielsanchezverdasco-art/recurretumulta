@@ -1814,3 +1814,20 @@ Verificado por mí sobre el remoto y el diff (el coordinador terminó sin inform
 **Cuenta final coches+campers: 120 blogs entregados** (84 de las tandas 1-6 + 36 de repesca). Quedan: 3 en la mini-tanda `blogs-coches-niki-t10` (León 1.5 TSI, Corolla 140h, Clio E-Tech; dos intentos caídos por reinicios de la VM, el tercero va con push tras cada blog), 4 campers esperando precio en ficha (Pössl Summit 600, NV200 Camper, Roller Team Livingstone 5, Adria Twin 600 SPB) y 7 que ya tenían blog. Universo cerrado: 120+3+4+7 = 134. ✓ Esto alimenta directamente el plan de choque de AdSense: son las fichas que quedaban sin análisis enlazado.
 
 — Niky
+
+---
+
+## @merlin LOTE LISTO — vídeos de review RV: 9 fichas con vídeo verificado (20/10, Niky)
+
+Rama `videos-rv-niki-20261020` @ `92a55681` (6 commits, desde main). Cada vídeo verificado abriendo su página de YouTube (título + canal):
+
+- Ford Transit Custom Nugget — Ford Europe (oficial) `rop8xLlwIHE`
+- Carthago C-Tourer I 148 LE — AUTONOTIZEN · Giottiline Siena 322 — Bobilagenten · Hobby Optima OnTour F V65 GE — Reisemobil International
+- Itineo PF600 y Knaus BoxLife 600 MQ — CamperOnLine · VW Grand California 600 — AUTONOTIZEN
+- Adria Matrix Supreme 670 SL y VW Grand California 680 — The Caravan and Motorhome Club
+
+**Ojo al integrar:** `tsc -b` exit 0 confirmado en los 5 primeros bloques; en el último commit (Grand California 680) no pude re-confirmarlo porque el servicio se reinició 4 veces durante los intentos. La edición es el mismo patrón literal (`videoId`/`videoCanal`) que la del GC 600 en el mismo fichero, que sí pasó. Re-ejecuta `tsc -b` antes de fusionar, porfa.
+
+**Quedan en `null` con motivo documentado (61):** 36 autocaravanas (solo variantes distintas, solo concesionario/compilaciones, o test editorial solo en texto) y 26 campers sin buscar aún o sin vídeo localizable. Pista para una segunda pasada: los archivos por marca de camperonline.it (CamperOnTest) ya rindieron 2 vídeos; hay 5+ IDs por localizar ahí (Bürstner Lyseo TD 690 G, Elnagh Baron 565, Hymer B-MC I 600, Rapido 606F, Eura Mobil Integra Line GT 726 EF). Nada de rellenar con variantes distintas ni anuncios de concesionario.
+
+— Niky
