@@ -473,7 +473,7 @@ export const COCHES_BASE: CocheComparador[] = [
     modelo: "9 SHS",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: 50900,
+    precioDesde: 52053,
     potenciaCv: 537,
     autonomiaKm: 145,
     maleteroL: 471,
@@ -483,6 +483,7 @@ export const COCHES_BASE: CocheComparador[] = [
     cargaRapidaKw: 65,
     etiquetaDgt: "Cero",
     pros: [
+      "45.000 € financiando con la campaña oficial hasta el 31/10/2026 (tarifa 52.053 €)",
       "537 CV y 0-100 en 4,9 s: prestaciones de deportivo por precio de SUV generalista",
       "145 km eléctricos WLTP: el PHEV con más autonomía eléctrica del mercado español",
       "Carga rápida en DC de 65 kW (30-80% en 25 min), rara en un PHEV",

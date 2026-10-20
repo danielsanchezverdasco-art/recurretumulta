@@ -687,7 +687,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     modelo: "X 2025",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 37137,
+    precioDesde: 37990,
     potenciaCv: 272,
     autonomiaKm: 330,
     maleteroL: 362,
@@ -712,7 +712,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     aprox: [],
     pros: [
       "5 estrellas Euro NCAP: el eléctrico más seguro de 2024",
-      "Desde 37.137 € en España",
+      "Desde 37.990 € de tarifa en España (31.910 € financiando con la campaña oficial hasta el 31/12/2026)",
       "Versión Privilege con 428 CV y tracción total",
       "Interior cuidado con sonido Yamaha",
       "Compacto de 4,43 m, ideal para ciudad",

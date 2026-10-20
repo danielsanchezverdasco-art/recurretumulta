@@ -9031,7 +9031,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     modelo: "Seal U",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: 34240,
+    precioDesde: 29990,
     potenciaCv: 218,
     autonomiaKm: 80,
     maleteroL: 425,
@@ -9045,7 +9045,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
       "80 km eléctricos WLTP: el día a día sin gastar gasolina",
       "Batería Blade LFP de BYD: de las más seguras del mercado",
       "Maletero de 425 L y 5 plazas amplias: SUV familiar de verdad",
-      "Equipamiento de serie muy completo por 34.240 €",
+      "Equipamiento de serie muy completo por 29.990 € financiando (campaña oficial hasta el 31/10/2026; 35.790 € al contado)",
     ],
     contras: [
       "Más de 2 toneladas de peso (2.015 kg en la versión Boost)",

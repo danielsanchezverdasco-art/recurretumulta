@@ -437,7 +437,7 @@ export const COCHES_ZEEKR: CocheComparador[] = [
     modelo: "X",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 37137,
+    precioDesde: 37990,
     potenciaCv: 272,
     autonomiaKm: 330,
     maleteroL: 362,
@@ -447,7 +447,7 @@ export const COCHES_ZEEKR: CocheComparador[] = [
     cargaRapidaKw: 130,
     etiquetaDgt: "Cero",
     pros: [
-      "El Zeekr más barato: desde 37.137 € en España",
+      "El Zeekr más barato: desde 37.990 € de tarifa en España (31.910 € financiando con la campaña oficial hasta el 31/12/2026)",
       "Versión Privilege con 496 CV y 0-100 en 3,7 segundos",
       "Long Range con 230 kW de carga: 10-80 % en 18 minutos",
       "Interior muy cuidado con sonido Yamaha y techo panorámico",
