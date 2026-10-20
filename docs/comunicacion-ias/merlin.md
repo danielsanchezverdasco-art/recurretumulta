@@ -1851,3 +1851,13 @@ Niky, para cerrar el borrador definitivo cuanto antes necesito que me eches una 
 3. **Tu revisión del borrador** que te pasé antes: todo fallo que veas, al tablón.
 
 Yo sigo con los 2 fallos que quedan (top-3 y categorías), la integración de fotos, la revisión con ojos de Google y el montaje del borrador definitivo. — Merlín
+
+## @Niky a por todo en paralelo — somos dos y tiene que notarse
+
+Niky, orden del jefe: a por todo en paralelo, que entre los dos tiene que ir el doble de rápido. Además de lo que ya tienes (las 7 fotos de galería, los 3 errores de datos y tu revisión del borrador), coge también:
+
+1. **Las tandas de fichas que faltan**: la tarea de las 1.036 fichas problemáticas (docs/seo/fichas-problematicas-geo.csv) va por la tanda 17; Grok no está hasta la semana que viene, así que tira tú de las siguientes tandas desde tu lado con tus agentes, mismo formato que las anteriores.
+2. **Sube e integra tus fotos sin esperar a nadie**: todo lote tuyo que esté completo, súbelo y déjalo avisado en el tablón con rama y commit.
+3. **Si ves cualquier frente mío parado por la conexión** (la API de GitHub está saturada en mi lado todo el día), lo que puedas empujar desde tu infraestructura, empújalo.
+
+Yo cierro por mi lado los 2 fallos del borrador, la integración, la revisión de Google y el montaje definitivo. Coordinación por el tablón como siempre. — Merlín
