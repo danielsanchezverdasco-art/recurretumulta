@@ -1167,6 +1167,37 @@ El negro mate exige cuidados especiales de limpieza. Lleva etiqueta **C** (<a hr
 | Valor de colección | Etiqueta C |
 | Presentado en 11/2023 | Sin cambios mecánicos |
 
+## El MC20 en contexto: el renacimiento de Maserati en Módena
+
+El MC20 marcó el regreso de Maserati a los superdeportivos de motor central con un coche desarrollado en casa, en Módena, alrededor de un monocasco de carbono y de un motor propio, el V6 Nettuno, que estrenó tecnología derivada de la Fórmula 1. Sobre esa base, la marca lanzó en noviembre de 2023 la edición Notte: 50 unidades para todo el mundo en negro mate Nero Essenza con detalles dorados. No es un MC20 más rápido, y no lo pretende: es un MC20 más raro. La información de la marca puede consultarse en <a href=https://www.maserati.com>maserati.com</a> y la ficha completa del modelo, en el enlace que abre este artículo.
+
+## La mecánica, sin cambios (y no le hacían falta)
+
+| Clave | Dato |
+|---|---|
+| **Motor** | V6 3.0 biturbo Nettuno |
+| **Potencia** | 630 CV (730 Nm) |
+| **0-100 km/h** | 2,9 s |
+| **Velocidad máxima** | 325 km/h |
+| **Chasis** | Monocasco de carbono (el MC20 pesa 1.475 kg) |
+| **Tracción** | Trasera |
+| **Unidades** | 50 |
+| **Etiqueta DGT** | C |
+
+El Nettuno es el corazón del proyecto: un V6 de 3 litros con precámara de combustión heredada de la Fórmula 1 que entrega 630 CV sin ayuda eléctrica. En un mercado que se electrifica, el Notte es deliberadamente analógico en lo mecánico y radical en lo estético. Las puertas de tijera y el trabajo aerodinámico desarrollado con Dallara, que su ficha destaca en el MC20 base, se mantienen tal cual en la edición.
+
+## Uso real: un coleccionable que también se conduce
+
+Con 100 litros de maletero según su ficha, el Notte no es un coche de diario ni de viajes: es un superdeportivo de fin de semana y, sobre todo, una pieza de colección cuya tirada de 50 unidades blinda su valor frente al MC20 normal. El negro mate exige cuidados específicos: nada de túneles de lavado con rodillos ni productos con cera estándar sobre la pintura mate, y cualquier reparación de chapa debe hacerla un especialista en este acabado. Es el peaje de la exclusividad.
+
+## Mantenimiento, etiqueta C e ITV: la cara práctica de un sueño
+
+Mantener un Maserati de este nivel significa revisiones en la red oficial y neumáticos y consumibles de superdeportivo: quien lo compre debe asumirlo como parte del precio. Su etiqueta es la C, la de un gasolina sin hibridación, con lo que eso implica para las futuras zonas de bajas emisiones según los criterios de la <a href=https://www.dgt.es>DGT</a>: un 630 CV no está pensado para el centro de la ciudad. La ITV sigue el calendario de los turismos: primera a los 4 años, bienal hasta los 10 y anual después.
+
+## Frente a sus rivales: veredicto
+
+Su rival conceptual es el <a href=/coches/mclaren-artura-2025-precio-ficha-tecnica/>McLaren Artura</a>, que con 700 CV híbridos y etiqueta ECO según su ficha juega la carta tecnológica desde 234.100 €, mientras el Maserati responde con pureza mecánica y rareza. En casa, el <a href=/coches/maserati-mc20-cielo-2024-precio-ficha-tecnica/>MC20 Cielo</a> ofrece la misma mecánica al aire libre y el <a href=/coches/maserati-mc20-2024-precio-ficha-tecnica/>MC20</a> base, desde 265.388 € según su ficha, es la vía racional de acceso. Veredicto: el Notte no se compra con la calculadora, se compra con la certeza de que solo hay 49 más en el mundo; como inversión emocional y de colección, su lógica es impecable. Compáralos en el <a href=/comparador-coches/>comparador de coches</a> y busca los monos de nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
 ## Preguntas frecuentes
 
 ### ¿Cuántas unidades del MC20 Notte existen?
