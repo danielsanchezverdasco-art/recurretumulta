@@ -531,6 +531,39 @@ Como eléctrico puro, le correspondería la etiqueta Cero.
 <p>Max AutoDvizh lo prueba en este vídeo:</p>
 <p><a href=https://www.youtube.com/watch?v=YO2ckd6gg-s>Ver la prueba del Nevo Q07 en YouTube (Max AutoDvizh)</a></p>
 
+## Nevo: la marca eléctrica e híbrida de Changan
+
+Nevo —Qiyuan en China— es la enseña que Changan creó para sus coches electrificados de nueva generación, y el Q07 es su SUV familiar de referencia: **4.837 mm** de largo, batalla de **2.905 mm** y un planteamiento híbrido enchufable pensado para hacer en eléctrico la semana y en gasolina los viajes. La <a href=https://changan.az/en/model/nevo-q07/>página oficial de Changan para el Q07</a> muestra el enfoque: pantalla central de **15,4 pulgadas**, carga rápida capaz de pasar del 30 al 80 % en unos 15 minutos en las versiones con batería de carga 3C, techo panorámico y un interior de corte tecnológico que en China compite por equipamiento, no por emblema.
+
+## El sistema BlueCore, con los datos del propio análisis
+
+El esquema que recoge la ficha combina un **1.5 de gasolina de 72 kW** con un **motor eléctrico de 165 kW (224 CV) y 330 Nm** en el eje delantero, con un consumo en modo híbrido de **3,9 l/100 km** y una autonomía total declarada de **más de 1.400 km** sumando batería y depósito. Son cifras de homologación china CLTC, sistemáticamente más optimistas que las WLTP europeas: los 145 km eléctricos CLTC de la versión de acceso equivaldrían a una cifra WLTP claramente inferior. El maletero de doble piso de **763 litros** es, eso sí, un dato de espacio difícil de encontrar en un SUV europeo de este precio en origen.
+
+| Dato clave del Q07 | Valor (ficha) |
+|---|---|
+| Longitud / batalla | 4.837 / 2.905 mm |
+| Motor eléctrico | 165 kW (224 CV) / 330 Nm |
+| Motor gasolina | 1.5 de 72 kW |
+| Autonomía eléctrica | 145 km CLTC (versión de acceso) |
+| Autonomía total | Más de 1.400 km declarados |
+| Maletero | 763 l |
+
+## Uso real: un familiar pensado para cargar a diario
+
+Como todo PHEV, el Q07 solo tiene sentido cargándolo: con enchufe en casa, la rutina semanal puede ser casi eléctrica y el 1.5 queda para los viajes; sin cargar, arrastras el peso del sistema y el consumo real sube. Su tamaño lo sitúa un escalón por encima de los SUV medios europeos, con plazas traseras amplias y un maletero pensado para familias que viajan cargadas. Las versiones con lidar y conducción avanzada que cita la ficha existen en el catálogo chino, pero su funcionamiento y legalidad en Europa serían otra historia: aquí no se vende y no hay homologación europea.
+
+## Mantenimiento y costes: la asignatura pendiente fuera de China
+
+Un PHEV exige mantener dos coches en uno: el motor de gasolina conserva sus cambios de aceite, filtros y bujías, y el sistema eléctrico añade batería, inversor y cargador. En China, Changan sostiene la gama con su red oficial; fuera, sin importador europeo de Nevo, el mantenimiento y los recambios de un Q07 importado por libre serían un problema real, no una anécdota. Es el mismo peaje de todos los modelos de este análisis que no se venden en Europa: el precio en origen es espectacular, pero el coste total incluye la ausencia de red.
+
+## Normativa y seguridad: sin Euro NCAP y con etiqueta solo teórica
+
+El Q07 **no ha sido evaluado por Euro NCAP**: su seguridad en Europa es, por ahora, «sin datos». Tampoco tiene homologación europea, así que la **etiqueta Cero** que le correspondería como enchufable de más de 40 km eléctricos es una equivalencia teórica que recoge su ficha, no un distintivo que hoy pueda lucir en España. Quien lo importe por su cuenta debería asumir además los trámites de homologación individual y la ITV correspondiente.
+
+## Rivales y veredicto: ¿merece la pena?
+
+En su propia casa, la berlina <a href=/coches/nevo-a07-2025-precio-ficha-tecnica/>Nevo A07</a> (218 CV y desde 14.400 € en nuestra ficha) comparte filosofía electrificada en formato sedán, y el <a href=/coches/changan-cs75-plus-2025-precio-ficha-tecnica/>Changan CS75 Plus</a> (185 CV y 14.800 €) es la alternativa de gasolina convencional del grupo. **Veredicto:** en China, el Q07 es una propuesta familiar difícil de igualar por precio, espacio y autonomía total declarada. En España merece la pena como termómetro de hacia dónde va el PHEV chino, no como compra: sin homologación, sin red y sin nota de seguridad europea, importarlo es un proyecto, no una adquisición racional. De momento, lo que sí puedes cazar aquí es el <a href=/juego-monos/>juego caza-monos</a>.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Nevo Q07?
@@ -558,7 +591,9 @@ Como híbrido enchufable con más de 40 km de autonomía eléctrica, le correspo
 - <a href=https://www.autonocion.com>Autonocion: la gama SUV de Nevo</a>
 
 <p>Un SUV familiar PHEV de 1.400 km por 16.900 €: <a href=/comparador-coches/>compáralo con los SUV híbridos de España</a>. Y antes de recurrir una multa, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a>.</p>
-`,
+
+
+*Fuentes: <a href=https://www.changan.com.cn>Changan — web oficial de la marca</a> y <a href=https://changan.az/en/model/nevo-q07/>Changan — página oficial del Nevo Q07</a>.*`,
     locale: "all",
   },
 ];

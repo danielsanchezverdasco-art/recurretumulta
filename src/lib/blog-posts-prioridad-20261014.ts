@@ -8403,6 +8403,39 @@ Mantenimiento orientativo (modelo similar Caballero 700, misma marca): control d
 
 2 años de garantía legal (normativa UE).
 
+## Fantic: la italiana de las motos de campo que volvió con la Caballero
+
+Fantic es una histórica italiana del enduro y el trial que renació como marca de motos de carretera con la familia Caballero: scramblers de estética setentera con mecánica moderna. La 500 Rally es la versión más campera de la gama 500, y en 2025 estrenó el motor **Minarelli de 463 cc** diseñado y ensamblado en Italia que recoge la ficha, en sustitución del propulsor anterior. Es, sobre el papel, la Caballero pensada para quien de verdad piensa salir a pistas, no solo para quien quiere la estética.
+
+## Técnica verificada: chasis, suspensiones y frenos de la Rally
+
+La ficha técnica con datos del fabricante recogida en la <a href=https://www.1000ps.com/en-us/article/3012810/fantic-caballero-500-rally-offroad-review>prueba de 1000PS</a> completa lo que el análisis resume: motor de **96 x 64 mm** con **44 CV a 8.000 rpm** y **42 Nm a 7.000 rpm**, horquilla invertida de **43 mm con 200 mm de recorrido** regulable en compresión, precarga y extensión, y monoamortiguador trasero también de **200 mm**. Los frenos son un disco de **320 mm** delante y **230 mm** detrás, los neumáticos mixtos miden **90/90-21 y 140/80-17** y la distancia entre ejes es de **1.455 mm**. El consumo homologado que acompaña a esos datos es de **4,2 l/100 km**, con 97 g/km de CO2 y norma **Euro 5+**.
+
+| Dato (fabricante, vía 1000PS) | Valor |
+|---|---|
+| Diámetro x carrera | 96 x 64 mm |
+| Potencia / par | 44 CV a 8.000 rpm / 42 Nm a 7.000 rpm |
+| Recorrido suspensiones | 200 / 200 mm |
+| Neumáticos | 90/90-21 y 140/80-17 |
+| Consumo homologado | 4,2 l/100 km |
+| Norma | Euro 5+ |
+
+## Uso real: ligereza de verdad fuera del asfalto
+
+Sus armas son los **150 kg en seco** y la rueda de 21 pulgadas: en pistas es una moto manejable que perdona, muy lejos de las trail A2 de 190 kg. El asiento a **860 mm** y los 12 litros de depósito marcan sus límites: pilotos bajos sufrirán en parado y la autonomía en ruta exige planificar repostajes, aunque el consumo contenido ayuda. En asfalto cumple como scrambler de diario, con dos modos de conducción y acelerador electrónico según la ficha del fabricante, pero su hábitat es el camino de tierra del fin de semana y los viajes cortos por secundarias.
+
+## Mantenimiento y costes: lo que ya documenta el propio análisis
+
+El artículo original incluye el mantenimiento orientativo tomado de la Caballero 700 de la misma marca: control del nivel de aceite cada 1.000 km, cambio de aceite anual y revisiones a los 1.000, 10.000, 20.000, 30.000 y 40.000 km, con el manual de taller enlazado en el propio post. Hay que leerlo como lo que es —una referencia de modelo similar marcada como tal, no el plan oficial de la 500 Rally— y confirmar los intervalos exactos con el concesionario antes de comprar. Los consumibles camperos (neumáticos mixtos, kit de cadena trabajando en polvo) serán el gasto recurrente si se usa en su terreno. La garantía es de **2 años**, la legal europea que recoge la ficha.
+
+## Carnet A2 y normativa
+
+Con 44 CV (32,4 kW) entra de lleno en el **carnet A2** sin limitación, y su homologación **Euro 5+** le da la etiqueta ambiental correspondiente a las motos de su norma en el sistema de la DGT. Como recuerda la propia ficha, las motos no tienen prueba Euro NCAP: no hay estrellas que citar ni que inventar. Para uso en pistas, la normativa que manda es la de circulación fuera de vía asfaltada de cada comunidad y la prohibición general de rodar campo a través en espacios protegidos.
+
+## Rivales y veredicto: ¿merece la pena?
+
+En casa, la <a href=/motos/fantic-caballero-500-2025-ficha-tecnica-precio/>Caballero 500</a> de carretera (40 CV y 7.090 € en nuestra ficha) es la misma idea sin la orientación rally, y el salto al A es la <a href=/motos/fantic-caballero-700-2025-ficha-tecnica-precio/>Caballero 700</a> (9.490 €). Fuera, la <a href=/motos/royal-enfield-himalayan-450-2024-ficha-tecnica-precio/>Himalayan 450</a> (40,2 CV y 5.887 €) es más viajera y barata, pero mucho más pesada. **Veredicto:** la Caballero 500 Rally merece la pena para el A2 que quiere una scrambler ligera con capacidad real en pistas y estética italiana, asumiendo un precio de referencia no oficial —7.590 € según Motofichas, como advierte el propio análisis— y una red más pequeña que la de las japonesas. Y si te pilla la vuelta a casa, tienes el <a href=/juego-monos/>juego caza-monos</a> en la web.
+
 ## Preguntas frecuentes
 
 ### ¿La Caballero 500 Rally es apta para carnet A2?
@@ -8434,7 +8467,9 @@ Mantenimiento orientativo (modelo similar Caballero 700, misma marca): control d
 - <a href=/motos/fantic-xef-450-2025-ficha-tecnica-precio>Fantic XEF 450 4T 2025</a>
 
 - <a href=/analizador/>Analizador de multas</a> — Antes de recurrir, analiza tu multa.
-`,
+
+
+*Fuentes: <a href=https://www.1000ps.com/en-us/article/3012810/fantic-caballero-500-rally-offroad-review>1000PS — prueba y ficha con los datos del fabricante de la Caballero 500 Rally 2025</a> y catálogo oficial Caballero de Fantic.*`,
   },
   {
     slug: "fb-mondial-hps-125-2025-precio-ficha-tecnica",
