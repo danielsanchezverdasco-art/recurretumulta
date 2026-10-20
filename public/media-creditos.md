@@ -6476,3 +6476,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/ebroh-veracruz-2025-ficha-tecnica-precio-hunt1.webp | https://www.tallersclaudi.com/uploads/2022/10/VERACRUZ_2-777x777.jpg.webp | Tallers Claudi (concesionario Ebroh) | desconocida |
 | /media/ebroh-veracruz-2025-ficha-tecnica-precio-hunt2.webp | https://becomove.com/wp-content/uploads/2022/06/veracruz-gle.png | Becomove (distribuidor Ebroh) | desconocida |
 | /media/ebroh-veracruz-2025-ficha-tecnica-precio-hunt3.webp | https://motoemocion.com/wp-content/uploads/2022/12/scooter-electrico-veracruz-gle2.png | MotoEmoción (concesionario Ebroh) | desconocida |
+| /media/kia-ceed-gt-line-2025-precio-ficha-tecnica-hunt1.webp | https://www.gocar.it/wp-content/uploads/2024/06/kia-ceed-gtl-my24-aa9newinfrared-17c_0005.jpg | Kia / Gocar | desconocida |
+| /media/kia-ceed-gt-line-2025-precio-ficha-tecnica-hunt2.webp | https://www.kia-meyer-tabarz.de/content/dam/kwcms/kme/global/en/assets/vehicles/cd-hb/discover/kia-ceed-gtl-my25-meet-range.png | Kia Meyer Tabarz (concesionario oficial Kia) | desconocida |
+| /media/kia-ceed-gt-line-2025-precio-ficha-tecnica-hunt3.webp | https://cdn.elperiodicodelaenergia.com/2022/10/255552.jpg | El Periodico de la Energia | desconocida |
+| /media/mazda-cx-80-25-e-skyactiv-phev-2026-precio-ficha-tecnica-hunt1.webp | https://cdn.invictamotors.co.uk/assets/new-cars/mazda/cx-80/cx-80-lead_20240424144703216.webp | Mazda / Invicta Motors | desconocida |
+| /media/mazda-cx-80-25-e-skyactiv-phev-2026-precio-ficha-tecnica-hunt2.webp | https://www.carscoops.com/wp-content/uploads/webp/2024/04/2024-Mazda-CX-80-22-2048x1366.webp | Mazda / Carscoops | desconocida |
+| /media/mazda-cx-80-25-e-skyactiv-phev-2026-precio-ficha-tecnica-hunt3.webp | https://www.autonocion.com/wp-content/uploads/2024/04/Mazda-CX-80-62.jpg | Mazda / Autonocion | desconocida |
+| /media/yamaha-wr450f-2025-ficha-tecnica-precio-hunt1.webp | https://www.yamahamotorsports.com/media/images_products/2025-wr450f-25/1200px/11-2025-WR450FS1-DPBSE-US-11-YY-27.JPG.webp | Yamaha Motor USA | desconocida |
+| /media/yamaha-wr450f-2025-ficha-tecnica-precio-hunt2.webp | https://yamaha.co.za/wp-content/uploads/2023/10/2025_Feb_01_Motor_web_images_WR450F-01-600x338.png.webp | Yamaha Motor Sudafrica | desconocida |
+| /media/yamaha-wr450f-2025-ficha-tecnica-precio-hunt3.webp | https://enduro24.gr/wp-content/uploads/2025/01/2025_YAM_WR450F_EU_DPBSE_STA_002_03_preview_scale_50_ppi_300-768x512.jpg | Yamaha Motor Europe / Enduro24 | desconocida |
+| /media/ebroh-bravo-cr-2025-ficha-tecnica-precio-hunt1.webp | https://www.go2roues.com/wp-content/uploads/2021/07/ebroh-bravo-cr-bleu-trois-quart-face-droit.jpg | Ebroh / Go2Roues | desconocida |
+| /media/ebroh-bravo-cr-2025-ficha-tecnica-precio-hunt2.webp | https://www.go2roues.com/wp-content/uploads/2021/07/ebroh-bravo-cr-rouge-cote-gauche-655x655.jpg.webp | Ebroh / Go2Roues | desconocida |
+| /media/ebroh-bravo-cr-2025-ficha-tecnica-precio-hunt3.webp | https://octopusmovilidad.com/wp-content/uploads/2022/07/Bravo-CR-Edicion-Especial6.jpg | Octopus Movilidad | desconocida |
