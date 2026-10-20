@@ -160,6 +160,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "livan-x3-pro-2025-precio-ficha-tecnica": () => import("../blog-posts-livan-a.ts"),
     "livan-x6-pro-2025-precio-ficha-tecnica": () => import("../blog-posts-livan-a.ts"),
     "livewire-one-2024-analisis-opinion": () => import("../blog-posts-motos-rescate-m3.ts"),
+    "livewire-one-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m35.ts"),
     "livewire-s2-alpinista-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m5.ts"),
     "livewire-s2-del-mar-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m14.ts"),
     "livewire-s2-mulholland-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m5.ts"),

@@ -133,6 +133,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "triumph-tiger-850-sport-2025-precio": () => import("../blog-posts-nuevos-m4.ts"),
     "triumph-tiger-900-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m22.ts"),
     "triumph-tiger-900-gt-2024-analisis-opinion": () => import("../blog-posts-motos-rescate-m3.ts"),
+    "triumph-tiger-900-gt-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m35.ts"),
     "triumph-tiger-900-rally-pro-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m8.ts"),
     "triumph-tiger-sport-660-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m2.ts"),
     "triumph-tiger-sport-800-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m8.ts"),
