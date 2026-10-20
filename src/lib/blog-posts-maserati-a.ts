@@ -434,6 +434,43 @@ Lleva etiqueta **C** (<a href=https://www.cupra.com/es-es/hibridos-y-electricos/
 | Sonido V8 con modo Corsa | Producción finalizada |
 | El último V8 en un SUV Maserati | Mantenimiento de V8 |
 
+## Contexto: el primer SUV de Maserati y su despedida con V8
+
+El Levante fue el modelo que llevó a Maserati al segmento de los SUV de lujo, un territorio donde la marca del tridente llegó cuando sus rivales alemanes ya llevaban años vendiendo todocaminos deportivos. La respuesta de Módena fue mantener la receta histórica de la casa: motores con carácter, un sonido inconfundible y un interior de gran turismo italiano. La gama, como recoge la propia <a href=https://www.maserati.com/es/es/modelos/levante>página oficial del Levante en Maserati</a>, cubrió desde versiones de acceso hasta este Trofeo, que corona la familia con el V8 biturbo de **580 CV**. Que la producción haya terminado con el fin del V8 convierte a esta versión en una pieza de cierre de época: después de él, la marca entra en una etapa distinta, y eso explica parte de su atractivo para coleccionistas.
+
+## Profundidad técnica: qué significan sus cifras en la práctica
+
+Los datos de la tabla de este artículo dibujan un SUV muy concreto: **580 CV y 730 Nm** para mover **2.170 kg**, tracción total Q4, 0-100 en **4,1 s** y una velocidad máxima de **302 km/h** que lo sitúa entre los SUV más rápidos del mundo. El modo Corsa citado en la ficha endurece la respuesta del conjunto para conducción deportiva, pero el uso sensato de esas cifras está en carretera abierta y en adelantamientos con margen enorme, no en buscar límites en vía pública. El maletero de **580 litros** recuerda que, pese al apellido Trofeo, sigue siendo un SUV utilizable a diario y en viajes largos con familia.
+
+| Lectura práctica | Dato del post |
+|---|---|
+| Potencia específica | 580 CV para 2.170 kg |
+| Prestación clave | 302 km/h de máxima |
+| Uso familiar | 580 litros de maletero |
+| Tracción | Total Q4 |
+
+## Uso real: deportivo de viaje, no SUV racional
+
+En el día a día, el Levante Trofeo es un coche de autopista y de puertos de montaña con buen firme: ahí el V8, la tracción total y el tamaño juegan a favor. En ciudad paga su peso, su anchura y unos consumos que la propia ficha ni siquiera publica, señal de que no son su argumento. Tampoco es la opción lógica para quien busca etiqueta ECO o Cero: lleva **etiqueta C**, con las restricciones que eso implica en las zonas de bajas emisiones, como recuerda la <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/distintivo-ambiental/>información oficial de la DGT sobre distintivos</a>.
+
+## Mantenimiento y costes de uso
+
+Maserati no publica una tabla pública de precios de mantenimiento para este modelo en España, y aquí no vamos a inventarla. Lo honesto es el planteamiento: un V8 biturbo de altas prestaciones se mantiene en la red oficial o en especialistas de la marca, con neumáticos, frenos y revisiones acordes a un SUV de 580 CV y más de dos toneladas. Antes de comprar una unidad de ocasión conviene exigir el historial completo de mantenimiento y comprobar el estado de los consumibles caros, porque en este segmento una revisión aplazada sale mucho más cara que en un SUV generalista.
+
+## Normativa: etiqueta C e ITV
+
+Como coche de gasolina de su generación, el Levante Trofeo lleva **etiqueta C**: puede circular y aparcar con las limitaciones que cada ciudad aplique a ese distintivo en episodios y zonas de bajas emisiones. Como cualquier turismo matriculado en España, está sujeto a la ITV periódica correspondiente a su antigüedad. No necesita ningún carnet especial más allá del permiso B, aunque sus prestaciones piden experiencia y cabeza fría.
+
+## Rivales y veredicto: ¿merece la pena?
+
+El propio artículo lo enfrenta al <a href=/coches/lamborghini-urus-performante-2024-precio-ficha-tecnica/>Lamborghini Urus Performante</a>, su rival italiano natural, y dentro de la casa la alternativa era el Levante Modena de V6. Puedes seguir comparando SUV deportivos en el <a href=/comparador-coches/>comparador de coches</a> y, entre lectura y lectura, echar una partida al <a href=/juego-monos/>juego caza-monos</a>.
+
+**Veredicto: ¿merece la pena?** Sí, para quien busca el último V8 de Maserati en formato SUV y valora el sonido y la exclusividad por encima de todo: es un coche de fin de era. No, para quien necesite etiqueta ECO, consumos contenidos o un precio de compra y mantenimiento racionales: para ese perfil hay SUV deportivos modernos mucho más sensatos.
+
+## Antes de decidir: compra de ocasión y qué comprobar
+
+Como la producción ya terminó, el Levante Trofeo se compra de ocasión o de stock, y ahí manda el historial: exige las revisiones selladas en la red oficial o en un especialista reconocido, comprueba el estado de neumáticos y frenos —consumibles caros en un SUV de este peso y estas prestaciones— y verifica que el modo Corsa y la tracción Q4 funcionen sin testigos ni ruidos. Una unidad con mantenimiento aplazado puede parecer barata y salir muy cara en la primera visita al taller. También conviene confirmar la procedencia y el número de propietarios: en este segmento, los coches de un solo dueño con facturas completas sostienen mejor su valor. Si el plan es usarlo a diario, prueba el coche en tu recorrido habitual antes de firmar: sus 302 km/h no se usan nunca, pero su tamaño, su consumo y su etiqueta C se notan todos los días.
+
 ## Preguntas frecuentes
 
 ### ¿Qué motor lleva el Levante Trofeo?
@@ -456,7 +493,7 @@ V8 de 580 CV frente a V6 de 350 CV, chasis específico y estética Trofeo.
 
 Si te ha llegado una multa con tu Maserati, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: folleto oficial de Maserati.*`
+*Fuentes: folleto oficial de Maserati., <a href=https://www.maserati.com/es/es/modelos/levante>Maserati España — Levante</a> y <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/distintivo-ambiental/>DGT — distintivo ambiental</a>*`
   },
   {
     "title": "Maserati Ghibli GT: precio y ficha técnica",
@@ -512,6 +549,43 @@ Por encima: <a href=/coches/maserati-ghibli-modena-2024-precio-ficha-tecnica/>Gh
 | Maletero de 500 l | Reventa débil |
 | Elegancia italiana | ECO, no Cero |
 
+## Contexto: la berlina que devolvió a Maserati al volumen
+
+El Ghibli recuperó un nombre histórico de la casa para convertirlo en la berlina de acceso de Maserati, el modelo con el que la marca del tridente buscó volumen frente a las berlinas premium alemanas. La propia marca lo mantuvo en su gama hasta el fin de su producción, como refleja la <a href=https://www.maserati.com/es/es/modelos/ghibli>página oficial del Ghibli</a>. Este GT es la versión más racional de esa despedida: en lugar del V6 o el V8 de sus hermanos, monta un **2.0 turbo con hibridación ligera de 48 V** y **330 CV**, suficiente para mover la berlina con soltura y, de paso, conseguir la **etiqueta ECO** que ningún otro Ghibli ofrecía.
+
+## Profundidad técnica: 330 CV con sistema de 48 voltios
+
+Los datos del artículo definen el compromiso: **330 CV y 450 Nm**, tracción trasera, 0-100 en **5,7 s**, velocidad máxima de **255 km/h** y **1.878 kg**. El sistema mild hybrid de 48 V no convierte al Ghibli en un híbrido al uso —no se mueve en eléctrico—, pero apoya al motor térmico en las fases de mayor demanda y es el responsable administrativo de la etiqueta ECO. El maletero de **500 litros** y sus **4.971 mm** de largo lo dejan como una berlina grande plenamente utilizable, más gran turismo que coche deportivo cerrado.
+
+| Dato | Valor del post |
+|---|---|
+| Motor | 2.0 turbo + 48 V |
+| Potencia | 330 CV (450 Nm) |
+| 0-100 km/h | 5,7 s |
+| Etiqueta | ECO |
+
+## Uso real: elegancia diaria con etiqueta ECO
+
+En el día a día, el Ghibli GT es el Maserati que se puede usar sin heroicidades: etiqueta **ECO** para moverse mejor por las ciudades con zonas de bajas emisiones, según los criterios que publica la <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/distintivo-ambiental/>DGT</a>, y unas prestaciones sobradas para viajar. Sus pegas también están en la ficha: la plataforma es veterana, el motor de cuatro cilindros no suena como un Maserati clásico y la reventa es débil. Es, en resumen, un coche que se compra con el corazón sabiendo exactamente qué se sacrifica.
+
+## Mantenimiento y costes de uso
+
+Maserati no publica una tabla oficial de precios de mantenimiento de este modelo para España, así que no reproducimos cifras sin respaldo. Lo que sí puede afirmarse es el contexto: berlina premium de marca de lujo con producción ya finalizada en **2024**, mantenimiento en red oficial o especialistas y consumibles acordes a sus casi 1.900 kg y 330 CV. En ocasión, un historial completo y documentado es la mejor garantía de no llevarse sorpresas.
+
+## Normativa: la ventaja de la etiqueta ECO
+
+El GT es el único Ghibli con **etiqueta ECO**, y eso tiene consecuencias prácticas crecientes: mejor acceso y condiciones en las zonas de bajas emisiones que el distintivo C de sus hermanos de gama. Por lo demás, sigue el régimen ordinario: ITV periódica según antigüedad y permiso B para conducirlo.
+
+## Rivales y veredicto: ¿merece la pena?
+
+Dentro de la gama, el artículo lo compara con el <a href=/coches/maserati-ghibli-modena-2024-precio-ficha-tecnica/>Ghibli Modena</a> de V6 y 350 CV y con el <a href=/coches/maserati-ghibli-trofeo-2024-precio-ficha-tecnica/>Ghibli Trofeo</a> de V8 y 580 CV. Frente a las berlinas alemanas de potencia similar, gana en imagen y pierde en modernidad. Revisa alternativas en el <a href=/comparador-coches/>comparador de coches</a> y haz una pausa con el <a href=/juego-monos/>juego caza-monos</a>.
+
+**Veredicto: ¿merece la pena?** Como Maserati de acceso con etiqueta ECO y por unos **82.700 €** cuando se vendía, el GT es para quien prioriza la marca, el diseño y el uso diario sin renunciar a 330 CV. Para quien busque el sonido y el carácter plenos del tridente, el Modena de V6 es el Ghibli auténtico, asumiendo su etiqueta C.
+
+## Antes de decidir: GT de ocasión, esto es lo que manda
+
+Con la producción terminada en 2024, el Ghibli GT es ya un coche de ocasión o de stock, y su compra se decide en los detalles: historial de mantenimiento completo y sellado, estado de neumáticos y frenos, y funcionamiento de todos los sistemas de confort de una berlina premium de este tamaño. Su etiqueta ECO seguirá siendo un argumento práctico durante años en las ciudades con zonas de bajas emisiones, algo que ni el Modena ni el Trofeo pueden ofrecer, y eso puede sostener su demanda entre quienes quieren un Maserati utilizable a diario. También conviene ponerle números al corazón: si lo que buscas es el sonido de un V6 o un V8 del tridente, el GT de cuatro cilindros, con sus 330 CV, acelera de sobra pero no emociona igual, y renegociar después sale más caro que elegir bien ahora. En cambio, si tu prioridad es entrar en la marca con la versión más racional, más barata de mantener en el día a día y con mejor etiqueta, el GT es exactamente el Ghibli que Maserati diseñó para ti.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto costaba el Ghibli GT?
@@ -534,7 +608,7 @@ No: la producción del Ghibli terminó en 2024.
 
 Si te ha llegado una multa con tu Maserati, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: folleto oficial de Maserati.*`
+*Fuentes: folleto oficial de Maserati., <a href=https://www.maserati.com/es/es/modelos/ghibli>Maserati España — Ghibli</a> y <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/distintivo-ambiental/>DGT — distintivo ambiental</a>*`
   },
   {
     "title": "Ghibli Modena: precio y ficha del V6",
@@ -744,6 +818,43 @@ Lleva etiqueta **C** (<a href=https://www.cupra.com/es-es/hibridos-y-electricos/
 | Interior de gran turismo | Consumos sin publicar |
 | Más carácter que un Clase S | Reventa débil |
 
+## Contexto: el nombre que inventó la berlina deportiva
+
+Quattroporte significa, literalmente, cuatro puertas, y el modelo original de los años sesenta demostró que una berlina de lujo podía tener alma de gran turismo. La generación de este artículo es la despedida de esa fórmula clásica en Maserati: **5,26 metros** de representación con motor delantero y tracción trasera, en un momento en el que la marca —visible en su <a href=https://www.maserati.com/es/es>web oficial</a>— ya orienta su futuro hacia otras propulsiones. El GT es la versión de acceso de esa gama final: por encima quedan el Modena Q4 y el Trofeo, como recoge el propio post, pero el GT conserva lo esencial del concepto: presencia, V6 y un interior pensado para viajar deprisa y con estilo.
+
+## Profundidad técnica: V6 de 350 CV y tracción trasera
+
+La tabla del artículo define el coche sin adornos: V6 3.0 biturbo de **350 CV y 500 Nm**, tracción trasera, 0-100 en **5,5 s**, velocidad máxima de **270 km/h** y **1.900 kg** de peso. Son cifras de gran turismo, no de berlina deportiva radical: el Quattroporte GT acelera con autoridad y sostiene cruceros altos con el motor relajado, pero su tamaño y su peso mandan en carreteras estrechas. El maletero de **530 litros** es, en cambio, plenamente utilizable, algo que no todas las berlinas de representación pueden decir.
+
+| Dato clave | Valor del post |
+|---|---|
+| Largo | 5.262 mm |
+| Motor | V6 3.0 biturbo, 350 CV |
+| Tracción | Trasera |
+| Maletero | 530 litros |
+
+## Uso real: representación con carácter, con peajes claros
+
+Donde más disfruta es en viajes largos por autovía y en el uso de representación: llegar con un Quattroporte sigue diciendo algo distinto a llegar con una berlina alemana. Los peajes también están en el artículo: plataforma veterana, reventa débil y una **etiqueta C** que limita su futuro en zonas de bajas emisiones según los criterios de la <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/distintivo-ambiental/>DGT</a>. En ciudad, sus 5,26 metros y su anchura exigen garajes generosos y paciencia al aparcar.
+
+## Mantenimiento y costes de uso
+
+No existe una tabla pública oficial de costes de mantenimiento de este modelo para España, y no vamos a inventarla. Lo verificable es el contexto: un V6 biturbo de una marca de lujo con producción limitada se mantiene en red oficial o en especialistas, y sus consumibles —neumáticos de gran diámetro, frenos acordes a 1.900 kg y 270 km/h— no son los de una berlina generalista. En el mercado de ocasión, el historial documentado de revisiones vale más que cualquier rebaja en el precio de compra.
+
+## Normativa: etiqueta C e ITV
+
+Con **etiqueta C**, el Quattroporte GT puede circular por toda España y acceder a las zonas de bajas emisiones con las restricciones que cada ordenanza aplique a ese distintivo, que son crecientes en las grandes ciudades. Está sujeto a la ITV periódica de cualquier turismo según su antigüedad, y se conduce con el permiso B ordinario.
+
+## Rivales y veredicto: ¿merece la pena?
+
+Dentro de la propia gama, el artículo lo compara con el <a href=/coches/maserati-quattroporte-modena-q4-2024-precio-ficha-tecnica/>Quattroporte Modena Q4</a> de 430 CV y tracción total y con el <a href=/coches/maserati-quattroporte-trofeo-2024-precio-ficha-tecnica/>Quattroporte Trofeo</a> de V8 y 580 CV. Frente a un Mercedes Clase S o un BMW Serie 7, su argumento no es la tecnología: es el carácter. Sigue explorando berlinas en el <a href=/comparador-coches/>comparador de coches</a> y tómate un respiro con el <a href=/juego-monos/>juego caza-monos</a>.
+
+**Veredicto: ¿merece la pena?** Para quien busca una limusina italiana con sonido, presencia y un V6 de verdad, y asume su edad de plataforma y su etiqueta C, el GT es la forma más accesible de entrar en ese mundo. Para quien priorice tecnología actual, eficiencia o valor de reventa, las berlinas alemanas equivalentes son la compra racional.
+
+## Antes de decidir: el coste de la exclusividad
+
+Comprar hoy un Quattroporte GT es comprar una berlina cuya producción clásica ya terminó, y eso tiene dos caras. La buena: es un coche escaso, con una presencia que no se confunde con ninguna berlina alemana y con un V6 biturbo de 350 CV que responde como un gran turismo. La menos buena: la oferta de unidades es limitada, los precios de ocasión dependen mucho del historial y la reventa seguirá siendo su punto débil, como recoge la propia tabla de contras. Antes de decidir, comprueba tres cosas en cualquier unidad: mantenimiento completo y documentado en red oficial o especialista, estado de los neumáticos y frenos acordes a sus 1.900 kg, y funcionamiento impecable de toda la electrónica de confort, porque en una limusina de esta edad y nivel es donde aparecen las facturas serias. Y haz la prueba en serio: un Quattroporte se elige por cómo te hace sentir al llegar y al conducirlo; si ese factor no te compensa sus compromisos, un Serie 7 o un Clase S de ocasión harán el mismo trabajo con menos carácter y más tecnología.
+
 ## Preguntas frecuentes
 
 ### ¿Qué motor lleva el Quattroporte GT?
@@ -766,7 +877,7 @@ La gama Quattroporte terminó su producción clásica.
 
 Si te ha llegado una multa con tu Maserati, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: folleto oficial de Maserati.*`
+*Fuentes: folleto oficial de Maserati., <a href=https://www.maserati.com/es/es>Maserati España — web oficial</a> y <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/distintivo-ambiental/>DGT — distintivo ambiental</a>*`
   },
   {
     "title": "Maserati Quattroporte Modena Q4: 430 CV por 172.300 €",

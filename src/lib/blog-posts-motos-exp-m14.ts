@@ -878,6 +878,44 @@ Correa, neumáticos, frenos y poco más. Vmoto/Super Soco ofrece <strong>2 años
 
 En Europa ronda los 4.500-5.000 €. Sus rivales son la <a href=/motos/super-soco-tc-wanderer-2025-ficha-tecnica-precio/>Super Soco TC Wanderer 2025</a>, la <a href=/motos/super-soco-ts-hunter-2025-ficha-tecnica-precio/>Super Soco TS Hunter 2025</a> y las 125 clásicas de gasolina.
 
+## Contexto: Super Soco y la café racer eléctrica de acceso
+
+Super Soco, hoy integrada en el grupo Vmoto, fue una de las primeras marcas en popularizar la moto eléctrica urbana con estética de moto de verdad. Su gama oficial se puede consultar en la <a href=https://www.vmoto.com>web de Vmoto Super Soco</a>, enlazada ya en las fuentes de este artículo. La TC Max es su café racer: faro redondo, depósito alargado y ruedas de radios sobre una mecánica eléctrica equivalente a una 125. Su propuesta es muy concreta: que el primer contacto con la moto eléctrica no obligue a renunciar a la imagen clásica que a muchos nos hizo moteros.
+
+## Profundidad técnica: correa, batería extraíble y 5,1 kW de pico
+
+La ficha da los datos esenciales: **3,9 kW nominales y 5,1 kW de pico**, velocidad máxima de **95 km/h**, batería de **72 V y 45 Ah (3,2 kWh) extraíble** y solo **101 kg** de peso. La transmisión por **correa dentada** elimina el engrase y el tensado de la cadena, y la frenada corre a cargo de pinzas Brembo con sistema combinado CBS, sin ABS, como el propio artículo advierte. La autonomía declarada es de **110 km**, que el post rebaja con honestidad a unos 70-80 km reales: es la cifra con la que hay que planificar.
+
+| Dato | Valor del post |
+|---|---|
+| Potencia pico | 5,1 kW |
+| Batería | 72 V 45 Ah extraíble (3,2 kWh) |
+| Velocidad máxima | 95 km/h |
+| Peso | 101 kg |
+| Autonomía declarada | 110 km |
+
+## Uso real: ciudad e interurbano corto, con enchufe en casa
+
+Su escenario es la ciudad y su periferia: trayectos diarios, recados y escapadas cortas donde 95 km/h y 70-80 km reales bastan. La batería extraíble es su gran baza práctica para quien vive en un piso: se sube a casa y se carga en un enchufe doméstico durante la noche, sin garaje con punto de carga. Sus límites son igual de claros: no es una moto para autovía sostenida ni para rutas largas, y la ausencia de marchas, que es una comodidad en ciudad, le quita parte del ritual a quien busca una 125 clásica de gasolina.
+
+## Mantenimiento y garantía
+
+El artículo ya lo resume: correa, neumáticos, frenos y poco más, sin aceite de motor, filtros ni embrague. La garantía citada es de **2 años en el vehículo y 3 años en la batería**, y no hay datos públicos de precios de revisiones en España, así que no los inventamos. Lo que sí conviene cuidar es la batería: es la pieza cara de cualquier eléctrica, y su estado manda en el valor de la moto de segunda mano.
+
+## Normativa: carnet A1 o B con tres años, etiqueta Cero
+
+La TC Max se conduce con **carnet A1**, y también con el **permiso B con tres años de antigüedad**, como recoge la ficha. Al ser eléctrica, le corresponde la **etiqueta Cero**, con acceso pleno a las zonas de bajas emisiones según la información de la <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/distintivo-ambiental/>DGT sobre distintivos ambientales</a>. Como motocicleta matriculada, pasa su ITV periódica en los plazos ordinarios de las motos.
+
+## Rivales y veredicto: ¿merece la pena?
+
+Sus rivales naturales están en la propia casa: la <a href=/motos/super-soco-tc-wanderer-2025-ficha-tecnica-precio/>TC Wanderer</a> y la <a href=/motos/super-soco-ts-hunter-2025-ficha-tecnica-precio/>TS Hunter</a>, además de las 125 de gasolina de estética clásica. Compáralas en el <a href=/comparador-motos/>comparador de motos</a> y tómate un descanso con el <a href=/juego-monos/>juego caza-monos</a>.
+
+**Veredicto: ¿merece la pena?** Por los 4.500-5.000 € que ronda en Europa, la TC Max merece la pena para uso urbano diario con posibilidad de cargar la batería en casa: estilo, silencio y mantenimiento mínimo. Para quien necesite salir a carretera abierta con frecuencia o valore la autonomía por encima de todo, una 125 de gasolina seguirá siendo más práctica.
+
+## Antes de decidir: la prueba de la batería manda
+
+En una eléctrica equivalente a 125, la decisión no la toma el motor: la toma tu rutina de carga. Si puedes extraer la batería de 72 V y cargarla en casa o en el trabajo, la TC Max encaja como un guante en el uso urbano diario, con sus 70-80 km reales por carga y un coste por kilómetro mínimo frente a una gasolina. Si dependes de cargar la moto entera en la calle, la experiencia se complica y conviene pensarlo dos veces. Prueba también la postura café racer: es parte de su encanto, pero en trayectos diarios largos hay quien prefiere la posición más erguida de su hermana Wanderer. Y valora la frenada combinada sin ABS con la cabeza fría: las pinzas Brembo y el CBS cumplen en ciudad, pero exigen la técnica de frenado que cualquier A1 debería tener interiorizada. Con esas tres comprobaciones hechas —carga, postura y frenada—, la TC Max deja de ser una moto bonita de catálogo y se convierte en una compra muy fácil de justificar para la ciudad.
+
 ## Preguntas frecuentes
 
 ### ¿La TC Max tiene marchas?
