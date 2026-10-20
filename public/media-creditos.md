@@ -7438,3 +7438,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/sym-cruisym-125-2025-ficha-tecnica-precio-hunt1.webp | https://www.motosan.es/wp-content/uploads/2026/09/sym-nuevo-scooter-125-cruisym-galeria-6.png | SYM (vía Motosan) | desconocida |
 | /media/sym-cruisym-125-2025-ficha-tecnica-precio-hunt2.webp | https://www.motosan.es/wp-content/uploads/2026/09/sym-nuevo-scooter-125-cruisym-galeria-5.png | SYM (vía Motosan) | desconocida |
 | /media/sym-cruisym-125-2025-ficha-tecnica-precio-hunt3.webp | https://www.motosan.es/wp-content/uploads/2026/09/sym-nuevo-scooter-125-cruisym-galeria-2.png | SYM (vía Motosan) | desconocida |
+| /media/dfsk-500-2025-precio-ficha-tecnica-hunt1.webp | https://traction.gr/wp-content/uploads/2024/10/DFSK-500-1068x601.jpg | Traction.gr / DFSK | desconocida |
+| /media/dfsk-500-2025-precio-ficha-tecnica-hunt2.webp | https://dfskcar.it/wp-content/uploads/Cover_DFSK_Glory_500.webp | DFSK Italia (dfskcar.it) | desconocida |
+| /media/dfsk-500-2025-precio-ficha-tecnica-hunt3.webp | https://traction.gr/wp-content/uploads/2024/04/DFSK-500-3-interior.jpg | Traction.gr / DFSK | desconocida |
+| /media/neta-gt-2024-precio-ficha-tecnica-hunt1.webp | https://paultan.org/cdn-img/?url=/image/2024/07/2024_Neta_GT_Malaysia-1_BM.jpg&w=630&h=331&fit=cover&gravity=auto&format=auto&q=85 | Paul Tan / paultan.org | desconocida |
+| /media/neta-gt-2024-precio-ficha-tecnica-hunt2.webp | https://nangluong.info.vn/upload/17159/20230921/grab1578cNeta_GT_5.jpg | Nangluong.info.vn / Neta | desconocida |
+| /media/neta-gt-2024-precio-ficha-tecnica-hunt3.webp | https://carro.blog.br/wp-content/uploads/2024/08/Neta-GT-1.webp | Carro.blog.br / Neta | desconocida |
+| /media/yamaha-tracer-7-gt-2025-ficha-tecnica-precio-hunt1.webp | https://rafonsocanarias.com/wp-content/uploads/2025/08/2025-Yamaha-Tracer7-GT-Rafonso-Canarias-galeria-17-1630x860.jpg | Rafonso Canarias / Yamaha | desconocida |
+| /media/yamaha-tracer-7-gt-2025-ficha-tecnica-precio-hunt2.webp | https://wp.centralbikes.co.uk/wp-content/uploads/2025/06/Yamaha-2025-Tracer-7-GT-Icon-Performance-Right-scaled.jpg | Central Bikes / Yamaha | desconocida |
+| /media/yamaha-tracer-7-gt-2025-ficha-tecnica-precio-hunt3.webp | https://wp.centralbikes.co.uk/wp-content/uploads/2025/06/Yamaha-2025-Tracer-7-GT-Midnight-Black-Right-scaled.jpg | Central Bikes / Yamaha | desconocida |
+| /media/kymco-agility-125-2025-ficha-tecnica-precio-hunt1.webp | https://soymotero.net/wp-content/uploads/2025/04/Agility-S-125-General-Marron-2.jpg | SoyMotero.net / Kymco | desconocida |
+| /media/kymco-agility-125-2025-ficha-tecnica-precio-hunt2.webp | https://soymotero.net/wp-content/uploads/2025/04/Agility-S-125-General-Blanco-1.jpg | SoyMotero.net / Kymco | desconocida |
+| /media/kymco-agility-125-2025-ficha-tecnica-precio-hunt3.webp | https://emmotos.com/wp-content/uploads/2024/11/galeria-agility_estudio_2400x1800_06-min.jpg | Em Motos / Kymco | desconocida |
