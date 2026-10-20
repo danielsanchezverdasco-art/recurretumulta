@@ -6014,3 +6014,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/benda-napoleon-450-2025-ficha-tecnica-precio-hunt1.webp | https://www.revistagente.com/wp-content/uploads/2023/06/Benda-Napoleon-5.jpg.webp | Revista Gente | desconocida |
 | /media/benda-napoleon-450-2025-ficha-tecnica-precio-hunt2.webp | https://www.revistagente.com/wp-content/uploads/2023/06/Benda-Napoleon-1.jpg | Revista Gente | desconocida |
 | /media/benda-napoleon-450-2025-ficha-tecnica-precio-hunt3.webp | https://img.bingfong.com/bingfeng/forum/202305/25/115947nkjtt77i296wnftz.jpeg | Bingfong (foro de motor) | desconocida |
+| /media/honda-cr-v-ehev-2025-precio-ficha-tecnica-hunt1.webp | https://www.car250.com/wp-content/uploads/2025/11/HONDA-NEW-1.jpg | car250 | desconocida |
+| /media/honda-cr-v-ehev-2025-precio-ficha-tecnica-hunt2.webp | https://www.car250.com/wp-content/uploads/2025/11/eHEV-RS_Exterior-15.jpg | car250 | desconocida |
+| /media/honda-cr-v-ehev-2025-precio-ficha-tecnica-hunt3.webp | https://www.incarsmagazine.com/wp-content/uploads/2025/11/eHEV-RS.png | inCars Magazine | desconocida |
+| /media/lynk-co-05-emp-2025-precio-ficha-tecnica-hunt1.webp | https://xe5s.vn/uploads/car/lynkco/lynk-co-05-dau-xe.jpg | xe5s.vn | desconocida |
+| /media/lynk-co-05-emp-2025-precio-ficha-tecnica-hunt2.webp | https://www.borderlesscar.com/wp-content/uploads/2023/07/10001-6.jpg | BorderlessCar | desconocida |
+| /media/lynk-co-05-emp-2025-precio-ficha-tecnica-hunt3.webp | http://iw.aicarglobal.com/wp-content/uploads/2025/01/LYNKCO-05-EM-P-3.jpg | AiCarGlobal | desconocida |
+| /media/moto-morini-x-cape-700-2025-ficha-tecnica-precio-hunt1.webp | https://media.motorbox.com/image/moto-morini-x-cape-700-2025-in-bianco/8/3/0/830847/830847-16x9-lg.jpg | MotorBox | desconocida |
+| /media/moto-morini-x-cape-700-2025-ficha-tecnica-precio-hunt2.webp | https://motomorini.com.ar/2025/wp-content/uploads/2025/04/X-Cape-700-right-profile_red-passion2.png.webp | Moto Morini Argentina (distribuidor oficial) | desconocida |
+| /media/moto-morini-x-cape-700-2025-ficha-tecnica-precio-hunt3.webp | https://mcn-images.bauersecure.com/wp-images/333575/820x0/moto-morini-x-cape-700-5.jpg | Motorcycle News (MCN) | desconocida |
+| /media/zontes-703t-etc-2026-ficha-tecnica-precio-hunt1.webp | https://www.superbikemag.com/wp-content/uploads/2026/01/New-Model-Zontes-703T-2026-Article-6.webp | SuperbikeMag | desconocida |
+| /media/zontes-703t-etc-2026-ficha-tecnica-precio-hunt2.webp | https://directomotor.com/wp-content/uploads/2026/04/aaa-zontes-1.jpeg | DirectoMotor | desconocida |
+| /media/zontes-703t-etc-2026-ficha-tecnica-precio-hunt3.webp | https://www.mundomotero.com/wp-content/uploads/2025/11/zontes-703t-mundomotero-com-3.jpg | MundoMotero | desconocida |
