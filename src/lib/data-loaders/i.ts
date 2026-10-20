@@ -39,6 +39,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "inmotion-air": () => import("../blog-posts-patinetes-exp-p3.ts"),
     "inmotion-air-pro": () => import("../blog-posts-patinetes-exp-p3.ts"),
     "inmotion-l9": () => import("../blog-posts-patinetes-exp-p3.ts"),
+    "inmotion-rs": () => import("../blog-posts-patinetes-niki-t12.ts"),
     "inmotion-rs-lite": () => import("../blog-posts-patinetes-exp-p3.ts"),
     "inmotion-rs-midnight": () => import("../blog-posts-patinetes-exp-p3.ts"),
     "inmotion-rs-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),

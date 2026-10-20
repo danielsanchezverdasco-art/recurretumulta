@@ -50,6 +50,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "teverun-fighter-11": () => import("../blog-posts-patinetes-exp-p3.ts"),
     "teverun-fighter-11-plus": () => import("../blog-posts-patinetes-exp-p3.ts"),
     "teverun-fighter-supreme": () => import("../blog-posts-patinetes-exp-p3.ts"),
+    "teverun-fighter-supreme-7260r": () => import("../blog-posts-patinetes-niki-t12.ts"),
     "tinbot-rs1-2025-ficha-tecnica-precio": () => import("../blog-posts-lote9.ts"),
     "tm-en-300-2026-precio-ficha-tecnica": () => import("../blog-posts-lote10.ts"),
     "togg-t10x-2026-precio-ficha": () => import("../blog-posts-lote3.ts"),

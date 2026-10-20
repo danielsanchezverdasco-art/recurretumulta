@@ -25,6 +25,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "egret-ey-3": () => import("../blog-posts-patinetes-exp-p4.ts"),
     "egret-ey-6": () => import("../blog-posts-patinetes-exp-p4.ts"),
     "egret-ey-7": () => import("../blog-posts-patinetes-exp-p4.ts"),
+    "egret-gt": () => import("../blog-posts-patinetes-niki-t12.ts"),
     "egret-gt-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "el-coche-te-vigila-obligatoriedad-del-sistema-addw-antidistracciones-camaras-de-control-de-mirada-y-multas-de-la-dgt": () => import("../blog-posts-db.ts"),
     "el-nuevo-carril-de-emergencia-obligatorio-en-retenciones-como-abrir-pasillo-a-ambulancias-y-bomberos-para-evitar-multas-de-la-dgt": () => import("../blog-posts-db.ts"),

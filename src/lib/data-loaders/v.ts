@@ -6,6 +6,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "velca-nude-eon-motos-electricas-espanolas": () => import("../blog-posts-motor-2026-j.ts"),
     "velca-tramontana-s-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m1.ts"),
     "velocidad-variable-ap7-ap2-limites-paneles": () => import("../blog-posts-octubre-2026.ts"),
+    "velocifero-mad-2000w": () => import("../blog-posts-patinetes-niki-t12.ts"),
     "vent-baja-125-2026-precio-ficha-tecnica": () => import("../blog-posts-lote10.ts"),
     "venucia-d60-ev-2025-precio-ficha-tecnica": () => import("../blog-posts-lote5.ts"),
     "venucia-star-2026-precio-ficha-tecnica": () => import("../blog-posts-lote6.ts"),
