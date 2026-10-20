@@ -6188,3 +6188,11 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/rgnt-no-1-2025-ficha-tecnica-precio-hunt1.webp | https://thepack.news/wp-content/uploads/2022/05/RGNT_No.1Classic-SE-Green-1024x683.png | ThePack.news (nota de prensa oficial de RGNT Motorcycles) | desconocida |
 | /media/rgnt-no-1-2025-ficha-tecnica-precio-hunt2.webp | https://ev.motorwatt.com/media/djcatalog2/images/item/5/rgnt-the-no-1-classic-se.2_l.jpg | RGNT / MotorWatt | desconocida |
 | /media/rgnt-no-1-2025-ficha-tecnica-precio-hunt3.webp | http://cdn.inmoto.it/images/2023/10/30/112824917-2c6d211f-bc5c-4a2a-8130-96126aca1198.jpg | InMoto | desconocida |
+| /media/volkswagen-amarok-2026-precio-ficha-tecnica-hunt1.webp | https://www.drivelife.co.nz/wp-content/uploads/2026/03/2026-vw-volkswagen-amarok-v6-style-nz-new-zealand-drivelife-02.jpg | DriveLife | desconocida |
+| /media/volkswagen-amarok-2026-precio-ficha-tecnica-hunt2.webp | https://images.carexpert.com.au/resize/960/-/cms/v1/media/2025-10-250922volkswagen-amarok-panamericanastill-30.jpg | CarExpert | desconocida |
+| /media/maserati-mcpura-2025-precio-ficha-tecnica-hunt1.webp | https://carchvst.com/wp-content/uploads/2025/07/Original-26561-01-maserati-mcpura-1024x768.jpg | CarChvst | desconocida |
+| /media/maserati-mcpura-2025-precio-ficha-tecnica-hunt2.webp | https://topspeed.gr/wp-content/uploads/2025/07/Original-26560-02-maserati-mcpura-600x600_c.jpg | TopSpeed.gr | desconocida |
+| /media/maserati-mcpura-2025-precio-ficha-tecnica-hunt3.webp | https://www.jetset.my/wp-content/uploads/2025/07/Maserati-MCPura-2026-rear.jpeg | JetSet.my | desconocida |
+| /media/zeeho-city-sport-2025-ficha-tecnica-precio-hunt1.webp | https://d1hv7ee95zft1i.cloudfront.net/custom/motorcycle-model-photo/original/zeeho-city-sport-6732e1438c59c.jpeg | Motodeal | desconocida |
+| /media/zeeho-city-sport-2025-ficha-tecnica-precio-hunt2.webp | https://www.go2roues.com/wp-content/uploads/2024/10/zeeho-city-sport-cote-droit-655x655.png | Go2Roues | desconocida |
+| /media/zeeho-city-sport-2025-ficha-tecnica-precio-hunt3.webp | https://img-va.myshopline.com/image/store/1710728105844/sport_1800x.jpg?w=800&h=800&q=80 | Declarisy | desconocida |
