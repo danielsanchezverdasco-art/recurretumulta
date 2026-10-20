@@ -22,7 +22,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 648,
     categoria: "Clásica",
-    precioDesde: 6987,
+    precioDesde: 6787, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 34.9,
     potenciaCv: 47,
     autonomiaKm: null,
@@ -35,7 +35,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Bicilíndrico de 648 cc con 47 CV: justo en el límite del A2, sin limitar",
       "Entrega de par llena desde abajo: 52,3 Nm a 5.150 rpm, empuja en cualquier marcha",
@@ -90,7 +90,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 648,
     categoria: "Clásica",
-    precioDesde: 7890,
+    precioDesde: 6987, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 34.9,
     potenciaCv: 47,
     autonomiaKm: null,
@@ -103,7 +103,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Café racer auténtica con el twin de 648 cc y 47 CV, apta para el A2",
       "Semimanillares y estriberas retrasadas: postura deportiva de verdad",
@@ -158,7 +158,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 648,
     categoria: "Clásica",
-    precioDesde: 7990,
+    precioDesde: 6887, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 34.6,
     potenciaCv: 47,
     autonomiaKm: null,
@@ -171,7 +171,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "La Classic definitiva: estética de los 50 con el twin de 648 cc y 47 CV",
       "Depósito de 14,8 l: la mayor autonomía de la gama 650",
@@ -226,7 +226,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 452,
     categoria: "Trail",
-    precioDesde: 6590,
+    precioDesde: 5887, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 29.4,
     potenciaCv: 40,
     autonomiaKm: null,
@@ -239,7 +239,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor Sherpa 450 con 40 CV: el primer monocilíndrico moderno de RE, con carácter",
       "Parte ciclo seria: horquilla invertida y 200 mm de recorrido de suspensión",
@@ -294,7 +294,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 648,
     categoria: "Cruiser",
-    precioDesde: 7990,
+    precioDesde: 7447, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 34.6,
     potenciaCv: 47,
     autonomiaKm: null,
@@ -307,7 +307,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Cruiser de verdad: asiento a 740 mm, estriberas adelantadas y manillar alto",
       "Twin de 648 cc con 47 CV y par de 52,3 Nm: empuja con suavidad",
@@ -363,7 +363,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 799,
     categoria: "Trail",
-    precioDesde: 9990,
+    precioDesde: 8590, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 67,
     potenciaCv: 91,
     autonomiaKm: null,
@@ -376,7 +376,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor KTM de 799 cc con 91 CV: empuje y fiabilidad probados",
       "Equipamiento de serie enorme: TFT de 7\", modos, control de crucero y presión de neumáticos",
@@ -431,7 +431,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 799,
     categoria: "Trail",
-    precioDesde: 10990,
+    precioDesde: 11995, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 67,
     potenciaCv: 91,
     autonomiaKm: null,
@@ -444,7 +444,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Quickshifter bidireccional de serie: la Sport no lo lleva",
       "Llantas de radios cruzados: más resistentes para pistas",
@@ -453,7 +453,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
       "Maletas y top case disponibles como accesorio oficial",
     ],
     contras: [
-      "Mil euros más que la Sport por un equipamiento que no todos usan",
+      "3.400 € más que la Sport por un equipamiento que no todos usan",
       "231 kg: sigue siendo pesada fuera del asfalto",
       "Sin suspensión electrónica (reservada a la Explore)",
       "Consumo realista de 5,5-6 l/100 km si se le aprieta",
@@ -499,7 +499,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 449,
     categoria: "Deportiva",
-    precioDesde: 6499,
+    precioDesde: null, // CFMOTO España no ha publicado tarifa oficial (verificado 20/10/2026)
     potenciaKw: 34.5,
     potenciaCv: 46.9,
     autonomiaKm: null,
@@ -512,7 +512,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Bicilíndrico de 449 cc con 46,9 CV: A2 sin limitar y con carácter",
       "Solo 168 kg: la más ligera de su categoría",
@@ -521,6 +521,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
       "Estética de superbike con doble faro LED y colín afilado",
     ],
     contras: [
+      "Sin tarifa oficial publicada en España: CFMOTO no ha hecho público su PVP",
       "Postura radical: incómoda para el día a día",
       "El motor vibra en la zona alta del tacómetro",
       "Protección aerodinámica limitada pese al carenado",
@@ -567,7 +568,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 693,
     categoria: "Naked",
-    precioDesde: 7999,
+    precioDesde: 7195, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 55,
     potenciaCv: 74,
     autonomiaKm: null,
@@ -580,7 +581,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Diseño neo-retro de Kiska (los de KTM): de las más bonitas del segmento",
       "Bicilíndrico de 693 cc con 74 CV: empuje lineal y lleno",
@@ -635,7 +636,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 799,
     categoria: "Naked",
-    precioDesde: 8499,
+    precioDesde: 7495, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 74,
     potenciaCv: 100.6,
     autonomiaKm: null,
@@ -648,7 +649,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "100,6 CV con solo 186 kg: la mejor relación peso/potencia china",
       "Motor KTM de 799 cc con respuesta fulgurante",
@@ -768,7 +769,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 349,
     categoria: "Scooter",
-    precioDesde: 4399,
+    precioDesde: 4587, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 27,
     potenciaCv: 36.7,
     autonomiaKm: null,
@@ -781,7 +782,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "El 350 más deportivo de Zontes: estética agresiva y chasis afilado",
       "Motor de 349 cc con 36,7 CV: de los más potentes del segmento",
@@ -832,7 +833,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 125,
     categoria: "Naked",
-    precioDesde: 3295,
+    precioDesde: 3287, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 11,
     potenciaCv: 14.8,
     autonomiaKm: null,
@@ -845,7 +846,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A1 (también con carnet B con 3 años de antigüedad)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Naked 125 con 14,8 CV: roza el límite legal del A1",
       "Equipamiento impropio de su precio: TFT, ABS y arranque sin llave",
@@ -901,7 +902,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 754,
     categoria: "Trail",
-    precioDesde: 8999,
+    precioDesde: 8833, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 55,
     potenciaCv: 75,
     autonomiaKm: null,
@@ -914,7 +915,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Trail rutera con 75 CV: suficiente para viajar a dúo cargado",
       "Parrilla, defensas y caballete central de serie",
@@ -969,7 +970,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 799,
     categoria: "Trail",
-    precioDesde: 9495,
+    precioDesde: null, // no se comercializa en España; sin tarifa oficial (verificado 20/10/2026)
     potenciaKw: 68,
     potenciaCv: 92,
     autonomiaKm: null,
@@ -982,7 +983,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "92 CV y 77 Nm: la trail china más potente de su precio",
       "Frenos Brembo radiales con doble disco de 320 mm",
@@ -991,6 +992,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
       "Rueda delantera de 19\": más aplomo que la SRT 800 base",
     ],
     contras: [
+      "Sin precio oficial en España: QJMOTOR no comercializa esta versión en nuestro mercado",
       "263 kg en orden de marcha: de las más pesadas del segmento",
       "Centro de gravedad alto con el depósito lleno",
       "Suspensión delantera sin regulación",
@@ -1038,7 +1040,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 494,
     categoria: "Trail",
-    precioDesde: 5392,
+    precioDesde: 5392, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 35,
     potenciaCv: 47.6,
     autonomiaKm: null,
@@ -1051,7 +1053,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "47,6 CV clavados en el límite del A2, con motor de 494 cc",
       "Horquilla KYB regulable y llantas de radios con neumáticos Metzeler",
@@ -1106,7 +1108,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 895,
     categoria: "Trail",
-    precioDesde: 9189,
+    precioDesde: 9192, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 70,
     potenciaCv: 95,
     autonomiaKm: null,
@@ -1119,7 +1121,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor de 895 cc con 95 CV de origen BMW: empuje de trail grande",
       "IMU de 6 ejes Bosch: ABS y tracción en curva",
@@ -1244,7 +1246,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 500,
     categoria: "Trail",
-    precioDesde: 6799,
+    precioDesde: 7799, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 34.6,
     potenciaCv: 47,
     autonomiaKm: null,
@@ -1257,7 +1259,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Trail A2 española con 47 CV y solo 190 kg",
       "Llantas de radios y neumáticos mixtos de serie",
@@ -1313,7 +1315,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 530,
     categoria: "Trail",
-    precioDesde: 6595,
+    precioDesde: 6195, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 34.6,
     potenciaCv: 47,
     autonomiaKm: null,
@@ -1326,7 +1328,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Trail A2 con estética scrambler muy conseguida",
       "Motor de 530 cc con 47 CV: lleno y sin necesidad de limitar",

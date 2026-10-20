@@ -395,7 +395,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 1000,
     categoria: "Deportiva",
-    precioDesde: 25500,
+    precioDesde: 25500, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 160,
     potenciaCv: 218,
     autonomiaKm: null,
@@ -408,7 +408,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor de 1.000 cc con 218 CV: el tetracilíndrico más potente que Honda ha homologado para calle",
       "Electrónica de MotoGP: IMU de 6 ejes, antiwheelie, control de tracción y freno motor configurables",
@@ -457,7 +457,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 471,
     categoria: "Custom",
-    precioDesde: 7299,
+    precioDesde: 6350, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 35,
     potenciaCv: 47,
     autonomiaKm: null,
@@ -470,7 +470,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Bicilíndrico de 471 cc con 47 CV: justo en el límite del A2, sin necesidad de limitar",
       "Asiento a 690 mm: la custom A2 más accesible para pilotos de cualquier talla",
@@ -519,7 +519,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 745,
     categoria: "Trail",
-    precioDesde: 8849,
+    precioDesde: 9150, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 43.1,
     potenciaCv: 58.6,
     autonomiaKm: null,
@@ -532,7 +532,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "El falso depósito es un cofre de 23 l: cabe un casco integral donde otras llevan gasolina",
       "Consumo real en torno a 3,5 l/100 km: de las trail más económicas del mercado",

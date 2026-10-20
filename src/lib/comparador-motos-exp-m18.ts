@@ -236,7 +236,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 1649,
     categoria: "Turismo",
-    precioDesde: 30620,
+    precioDesde: 30650, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 118,
     potenciaCv: 160,
     autonomiaKm: null,
@@ -249,7 +249,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Seis cilindros en línea de 1649 cc: suavidad y sonido únicos",
       "160 CV y 180 Nm para viajar cargado sin despeinarse",
@@ -258,7 +258,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
       "Velocidad máxima limitada a 200 km/h con total estabilidad",
     ],
     contras: [
-      "Precio desde 30.620 €: el turismo premium se paga",
+      "Precio desde 30.650 €: el turismo premium se paga",
       "343 kg que se notan en maniobras en parado",
       "Solo para carnet A",
       "Mantenimiento de un seis cilindros con coste acorde",
@@ -292,7 +292,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 890,
     categoria: "Naked",
-    precioDesde: 16590,
+    precioDesde: 16590, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 88,
     potenciaCv: 120,
     autonomiaKm: null,
@@ -305,7 +305,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Nuevo bicilíndrico en V de 890 cc con 120 CV a 10.750 rpm",
       "176 kg en seco: la Streetfighter más ligera de la historia",
@@ -347,7 +347,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 998,
     categoria: "Deportiva",
-    precioDesde: 44000,
+    precioDesde: 44000, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 160.3,
     potenciaCv: 218,
     autonomiaKm: null,
@@ -360,7 +360,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "218 CV (160,3 kW) a 15.750 rpm: la superbike de serie más extrema",
       "Base directa de la Ducati campeona del Mundial de Superbike",
@@ -402,7 +402,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 1158,
     categoria: "Trail",
-    precioDesde: 29990,
+    precioDesde: 29990, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 125,
     potenciaCv: 170,
     autonomiaKm: null,
@@ -415,7 +415,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Radar con control de crucero adaptativo y detector de ángulo muerto de serie",
       "Maletas laterales de 60 L y equipamiento touring completo de fábrica",
@@ -457,7 +457,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 803,
     categoria: "Scrambler",
-    precioDesde: 12990,
+    precioDesde: 12990, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 53.69,
     potenciaCv: 73,
     autonomiaKm: null,
@@ -470,7 +470,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "velocidadMax"],
+    aprox: ["velocidadMax"],
     pros: [
       "Estética flat track con escape Termignoni y portanúmeros laterales",
       "73 CV divertidos en un chasis de solo 176 kg",
@@ -512,7 +512,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 890,
     categoria: "Supermotard",
-    precioDesde: 16990,
+    precioDesde: 16990, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 88.5,
     potenciaCv: 120.4,
     autonomiaKm: null,
@@ -525,7 +525,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "velocidadMax"],
+    aprox: ["velocidadMax"],
     pros: [
       "Nuevo bicilíndrico de 890 cc con 120,4 CV: el Hypermotard más potente",
       "180 kg en orden de marcha sin combustible: agilidad extrema",
@@ -568,7 +568,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     version: "2025",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: 4000,
+    precioDesde: 4000, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 6,
     potenciaCv: 8.2,
     autonomiaKm: 72,
@@ -581,7 +581,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     carnet: "A1 (B con 3 años)",
     carga: "6 h (0-100 %), <3 h (25-75 %)",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "autonomiaKm"],
+    aprox: ["autonomiaKm"],
     pros: [
       "Dos baterías extraíbles de 1,3 kWh: se cargan en cualquier enchufe",
       "83 km/h de velocidad máxima: vale para rondas y vías rápidas",
@@ -623,7 +623,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     version: "2024",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: 4000,
+    precioDesde: 4000, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 1.7,
     potenciaCv: 2.3,
     autonomiaKm: 48,
@@ -636,7 +636,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     carnet: "AM",
     carga: "6 h",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "autonomiaKm", "bateriaKwh"],
+    aprox: ["autonomiaKm", "bateriaKwh"],
     pros: [
       "Carnet AM desde los 15 años: la primera moto eléctrica de muchos",
       "Batería extraíble Honda Mobile Power Pack: carga en casa",
@@ -678,7 +678,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     version: "2025",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: 4990,
+    precioDesde: 4990, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 12.5,
     potenciaCv: 17,
     autonomiaKm: 100,
@@ -691,7 +691,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     carnet: "A1 (B con 3 años)",
     carga: "0-80 % en 5 h",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "autonomiaKm"],
+    aprox: ["autonomiaKm"],
     pros: [
       "218 Nm de par: aceleración brutal, 0-50 km/h en 2,6 segundos",
       "100 km/h de velocidad máxima: el scooter eléctrico más rápido de su clase",
@@ -733,7 +733,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     version: "2025",
     cilindradaCc: null,
     categoria: "Urbana",
-    precioDesde: 4495,
+    precioDesde: 4495, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 5,
     potenciaCv: 6.8,
     autonomiaKm: 110,
@@ -746,7 +746,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     carnet: "A1 (B con 3 años)",
     carga: "~4 h",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "potenciaKw", "potenciaCv", "autonomiaKm"],
+    aprox: ["potenciaKw", "potenciaCv", "autonomiaKm"],
     pros: [
       "Estética cafe racer retro con faro redondo LED",
       "100 km/h de velocidad máxima real",
@@ -788,7 +788,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     version: "2025",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: 4799,
+    precioDesde: 4799, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 10,
     potenciaCv: 13.6,
     autonomiaKm: 130,
@@ -801,7 +801,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     carnet: "A1 (B con 3 años)",
     carga: null,
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "potenciaKw", "potenciaCv", "autonomiaKm", "bateriaKwh"],
+    aprox: ["potenciaKw", "potenciaCv", "autonomiaKm", "bateriaKwh"],
     pros: [
       "130 km de autonomía declarada: de las mejores de su clase",
       "105 km/h de velocidad máxima",

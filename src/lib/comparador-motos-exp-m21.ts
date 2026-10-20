@@ -364,7 +364,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 1350,
     categoria: "Trail",
-    precioDesde: 23299,
+    precioDesde: 23299, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 127,
     potenciaCv: 173,
     autonomiaKm: null,
@@ -377,7 +377,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "173 CV y 145 Nm: la maxitrail off-road más potente del mundo",
       "Suspensiones WP XPLOR PRO de 48 mm, totalmente regulables y con 220 mm de recorrido",
@@ -432,7 +432,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 125,
     categoria: "Naked",
-    precioDesde: 5599,
+    precioDesde: 5599, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 11,
     potenciaCv: 15,
     autonomiaKm: null,
@@ -445,7 +445,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     carnet: "A1 (también con carnet B con 3 años de antigüedad)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "15 CV al límite legal: la 125 más deportiva del segmento",
       "TFT a color con conectividad: equipamiento de moto grande",
@@ -500,7 +500,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 1802,
     categoria: "Custom",
-    precioDesde: 31230,
+    precioDesde: 31840, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 66.9,
     potenciaCv: 91,
     autonomiaKm: null,
@@ -513,7 +513,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Big Bóxer de 1.802 cc con 163 Nm: par brutal desde 3.000 rpm",
       "Carenado frontal superior: la R 18 más cómoda para viajar",
@@ -522,7 +522,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       "Euro5+ en 2025 con 5 Nm más de par que la versión anterior",
     ],
     contras: [
-      "31.230 €: la bagger alemana se paga",
+      "31.840 €: la bagger alemana se paga",
       "398 kg: moverla en parado exige técnica",
       "91 CV para 1.802 cc: potencia modesta",
       "La pantalla parabrisas elevada es opcional",
@@ -1299,7 +1299,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     version: "2025",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: 12260,
+    precioDesde: 12260, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 31,
     potenciaCv: 42,
     autonomiaKm: 130,
@@ -1312,7 +1312,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     carnet: "A2 (versión de 11 kW para A1 o carnet B)",
     carga: null,
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "42 CV y 2,6 s de 0 a 50: el scooter eléctrico más rápido del segmento",
       "130 km de autonomía real: de sobra para el día a día",
