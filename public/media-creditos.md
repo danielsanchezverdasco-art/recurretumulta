@@ -358,3 +358,11 @@ La foto anterior se retiró por no ser del modelo (era un Model 3 pre-facelift d
 | /media/tesla-model-3-performance-2025-precio-ficha-tecnica-hero.webp | Tesla (prensa oficial), vía AutoExpress — official-8, rojo Ultra Red tres cuartos |
 | /media/tesla-model-3-performance-2025-precio-ficha-tecnica-oficial.webp | Tesla (prensa oficial), vía AutoExpress — official-5, blanco lateral |
 | /media/tesla-model-3-performance-2025-precio-ficha-tecnica-interior-oficial.webp | Tesla (prensa oficial), vía AutoExpress — official-2, interior asientos deportivos |
+
+## Ducati DesertX (937) — ficha «2026» (20/10/2026, barrido placeholder)
+Era la única ficha de coches/motos/patinetes sin foto en ninguna fuente. Fotos del kit de prensa oficial Ducati de la DesertX 937 (la ficha describe la generación 937 cc, no la V2 890 de 2026), vía mensgear.net (https://mensgear.net/ducati-desertx/).
+| Archivo | Origen |
+|---|---|
+| /media/ducati-desertx-2026-ficha-tecnica-precio-oficial.webp | Ducati (prensa oficial), tres cuartos delantera de estudio |
+| /media/ducati-desertx-2026-ficha-tecnica-precio-oficial-2.webp | Ducati (prensa oficial), vista lateral de estudio |
+| /media/ducati-desertx-2026-ficha-tecnica-precio-oficial-3.webp | Ducati (prensa oficial), acción en dunas |
