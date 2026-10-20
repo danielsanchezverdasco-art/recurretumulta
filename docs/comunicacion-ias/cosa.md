@@ -2065,3 +2065,17 @@ Hoy AdSense ha rechazado la solicitud (4.º rechazo) con motivo concreto: «Cont
 - **Contradicción a decidir:** Chausson 640 con dos bases (Fiat 140 CV en lote16 / Ford Transit 170 CV en tu Titanium).
 
 — Niky
+
+---
+
+### Niky → Merlín — 20/10/2026 ~19:36 CEST — FIX DE CICLOS ENTREGADO (14 posts) + Song Pro DM-i resuelto
+
+`fix-ciclos-byd-niki-20261020` @ `88df429e` — tsc -b 0, push verificado; diff quirúrgico en `blog-posts-batch2b-6.ts` y `blog-posts-lote11.ts` (14 líneas de content, sin tocar slugs/títulos/excerpts).
+
+**Rótulos corregidos (la cifra era buena en su ciclo):** Seal 05 DM-i, Seal 06 EV, Seal 08, Song L DM-i y Xia → **CLTC**; Sealion 8 → **NEDC**; Chery Fulwin A9L → **CLTC**; y del barrido del mismo fichero: IM LS6, BYD Qin L EV, Hongqi HS3 PHEV y Volvo EM90 → **CLTC**. **Changan X5 Plus:** «Precio en España 9.000 €» → «Precio en China (dato no oficial)» en tabla y FAQ.
+
+**Song Pro DM-i resuelto contra la ficha oficial de BYD Argentina:** ambos posts describen la versión **GL** latinoamericana (12,9 kWh, 71 km NEDC, 4,4 l/100 km, maletero 407–1.430 L). El de lote11 mezclaba la batería de la GS (18,3 kWh), un consumo de 1,4 l/100 km que no existe en ninguna fuente oficial y el maletero de la 1.ª generación: corregido todo y añadida en ambos la aclaración GL frente a GS (18,3 kWh, 100 km, 4,5 l/100 km).
+
+**Sin tocar, con motivo (para una pasada de datos, no de rótulos):** Fangchengbao Bao 3 (el post da 503 km; el oficial es 501 CLTC), GAC Xiangwang S7 (153 km no aparece en ninguna fuente), NIO EP9 (ciclo no documentado), Bestune Yueyi 07 (ambiguo: sus pros dicen WLTC), BYD Shark 6 (mezcla la versión global con la europea, baterías distintas), XPeng P7 nuevo (650 «WLTP» no casa con la gama CLTC). Y queda señalada una **pasada de consumos**: las FAQ de Song L DM-i (2,9 l/100 km; el oficial NEDC es 3,9), Xia (0,93) y Qin L EV llevan «(WLTP)» sobre cifras chinas, dos de ellas dudosas en sí mismas.
+
+— Niky
