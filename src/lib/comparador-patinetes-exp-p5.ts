@@ -106,7 +106,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "precioEur"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Motor nominal de 500 W con batería de 48 V: empuje serio para su tamaño",
       "Solo 17 kg: ligero para combinarlo con transporte público",
@@ -116,6 +116,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       "App oficial con modos y bloqueo",
     ],
     contras: [
+      "Sin precio oficial: SoFlow no publica una tarifa oficial verificable del SO ONE+",
       "Carga máxima de 120 kg, por debajo del SO4 Pro Gen 2",
       "Freno de tambor delantero: menos tacto que el disco",
       "Sube pendientes de hasta el 20 %: justo en cuestas fuertes",
@@ -168,7 +169,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "precioEur"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Motor con 1.600 W de pico y 70 Nm: sube pendientes de hasta el 35 %",
       "Batería extraíble de 864 Wh con hasta 100 km declarados",
@@ -178,6 +179,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       "Neumáticos tubeless de 10 x 2,5\" con gel antipinchazos",
     ],
     contras: [
+      "Sin precio oficial: SoFlow no publica una tarifa oficial verificable del SO4 Pro GT",
       "Precio oficial en Europa aún no publicado de forma estable",
       "Peso no publicado: con 864 Wh y doble suspensión no será ligero",
       "Tanta potencia invita a usarlo fuera de vía pública: en España el límite VMP son 25 km/h",
@@ -231,7 +233,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "pesoKg", "precioEur"],
+    aprox: ["autonomiaRealKm", "pesoKg"],
     pros: [
       "Unos 15 kg: de los SoFlow más ligeros, ideal para el metro",
       "Plataforma ancha: se puede ir con los pies en paralelo",
@@ -241,6 +243,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       "Precio de acceso a la marca suiza",
     ],
     contras: [
+      "Sin precio oficial: SoFlow no publica una tarifa oficial verificable del SO2 Air Gen 3",
       "350 W nominales: justo en cuestas con conductor pesado",
       "30 km declarados se quedan en ~20 km reales",
       "Sin disco de freno: tambor + electrónico",
@@ -291,7 +294,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "precioEur"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "80 km de autonomía declarada con batería de 840 Wh (celdas Samsung): de las mayores del segmento urbano",
       "Frenos de disco hidráulicos de 120 mm delante y detrás: frenada potente y progresiva",
@@ -301,6 +304,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       "Manillar regulable en altura, cómodo para conductores de hasta 2 m",
     ],
     contras: [
+      "Sin precio oficial: Walberg no publica una tarifa oficial verificable del Egret Pro",
       "22,5 kg: pesado para subirlo por escaleras a diario",
       "5,5 horas de carga completa",
       "Precio en España no publicado de forma estable",
@@ -356,7 +360,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "precioEur", "bateriaWh"],
+    aprox: ["autonomiaRealKm", "bateriaWh"],
     pros: [
       "500 W nominales con picos de 1.502 W y 40 Nm: empuje brutal en modo Extreme",
       "Suspensión integral Ey.lastic con brazos oscilantes de un solo lado",
@@ -366,6 +370,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       "Desarrollado con Yadea y acabado Egret: homologado en Alemania y Suiza",
     ],
     contras: [
+      "Sin precio oficial: Walberg no publica una tarifa oficial verificable del Egret Ey! 1",
       "29,8 kg: es un tanque, olvídate de subirlo a pulso",
       "8 horas de carga completa",
       "Freno de tambor + electrónico: sin disco hidráulico como el Pro",
@@ -421,7 +426,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "precioEur"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "La puerta de entrada a la gama Ey!: 450 W y 55 km declarados",
       "Acabado y calidad Egret a precio contenido",
@@ -430,6 +435,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       "Ideal como primer patinete premium sin irse al Ey! 1",
     ],
     contras: [
+      "Sin precio oficial: Walberg no publica una tarifa oficial verificable del Egret Ey! 6",
       "450 W nominales: menos empuje que el Ey! 1",
       "Peso y batería no publicados por la marca",
       "Precio en España no publicado",
@@ -484,7 +490,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "pesoKg", "precioEur"],
+    aprox: ["autonomiaRealKm", "pesoKg"],
     pros: [
       "1.350 W de pico y 59 Nm: aceleración y cuestas de otro nivel",
       "Ruedas de 13\" tubeless antipinchazos: las más grandes del segmento",
@@ -494,6 +500,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       "Carga máxima de 150 kg",
     ],
     contras: [
+      "Sin precio oficial: Walberg no publica una tarifa oficial verificable del Egret GT",
       "32 kg: el más pesado del lote, transporte a pulso imposible",
       "Precio y tiempo de carga no publicados",
       "En España debe usarse limitado a 25 km/h en vía pública",
@@ -546,7 +553,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "pesoKg", "precioEur"],
+    aprox: ["autonomiaRealKm", "pesoKg"],
     pros: [
       "Motor de 1.000 W con batería de 720 Wh: de lo más potente de iSinwheel",
       "60 km de autonomía declarada y doble suspensión delantera y trasera",
@@ -611,7 +618,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "pesoKg", "precioEur", "bateriaWh"],
+    aprox: ["autonomiaRealKm", "pesoKg", "bateriaWh"],
     pros: [
       "800 W con batería de 48 V y 12,5 Ah (~600 Wh): equilibrio entre potencia y peso",
       "51 km declarados con doble suspensión",
@@ -675,7 +682,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "pesoKg", "precioEur", "bateriaWh"],
+    aprox: ["autonomiaRealKm", "pesoKg", "bateriaWh"],
     pros: [
       "800 W y neumáticos todoterreno: el más campero de la gama GT",
       "Doble suspensión delantera y trasera",
@@ -739,7 +746,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "pesoKg", "precioEur", "bateriaWh"],
+    aprox: ["autonomiaRealKm", "pesoKg", "bateriaWh"],
     pros: [
       "11,8 kg: el iSinwheel más ligero, se sube al metro sin sufrir",
       "350 W suficientes para ciudad llana",
@@ -748,6 +755,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       "Neumáticos de 8,5\" ágiles en tráfico",
     ],
     contras: [
+      "Sin precio oficial: iSinwheel no publica una tarifa oficial verificable del S9 Pro",
       "31 km declarados (~21 km reales): justo para ir y volver lejos",
       "Carga máxima de 100 kg",
       "350 W sufren en cuestas",
@@ -803,7 +811,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "pesoKg", "precioEur", "bateriaWh"],
+    aprox: ["autonomiaRealKm", "pesoKg", "bateriaWh"],
     pros: [
       "750 W con batería de ~720 Wh: el más equilibrado de la serie S10",
       "50 km declarados con 19 kg: buena relación peso/autonomía",

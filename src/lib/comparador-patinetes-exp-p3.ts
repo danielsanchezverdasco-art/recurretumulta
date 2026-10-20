@@ -2322,7 +2322,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     videoCanal: "Zerorider - la chaîne de la trottinette électrique",
     marca: "Kukirin",
     modelo: "S1 Max",
-    precioEur: 294,
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
     potenciaNominalW: 350,
     potenciaPicoW: 500,
     autonomiaKm: 39,
@@ -2350,7 +2350,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["precioEur", "tiempoCargaH", "autonomiaRealKm"],
+    aprox: ["tiempoCargaH", "autonomiaRealKm"],
     pros: [
       "16 kg y ~294 €: el KuKirin más barato y ligero",
       "25 km/h: legal como VMP en España",
@@ -2359,6 +2359,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "Perfecto para estudiantes y trayectos cortos",
     ],
     contras: [
+      "Sin precio oficial: KuKirin no publica una tarifa oficial verificable del S1 Max",
       "Ruedas de 8\" macizas: incómodo en firmes malos",
       "100 kg de carga máxima: justo",
       "7-8 horas de carga",
@@ -2387,7 +2388,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     videoCanal: "Le Vélo Urbain",
     marca: "Kukirin",
     modelo: "G2 Ultra",
-    precioEur: 680,
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
     potenciaNominalW: 1600,
     potenciaPicoW: 2000,
     autonomiaKm: 55,
@@ -2415,7 +2416,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["precioEur", "pesoKg", "tiempoCargaH", "autonomiaRealKm"],
+    aprox: ["pesoKg", "tiempoCargaH", "autonomiaRealKm"],
     pros: [
       "Doble motor de 800 W (2.000 W de pico): tracción total contenida",
       "Pantalla táctil inteligente: la más avanzada de KuKirin",
@@ -2424,7 +2425,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "50 km/h: rápido sin llegar a la locura del G4",
     ],
     contras: [
-      "~680 €: más caro que el G2 Max con menos autonomía",
+      "Sin precio oficial: KuKirin no publica una tarifa oficial verificable del G2 Ultra",
       "9 horas de carga",
       "31 kg: pesado",
       "A 50 km/h no es VMP legal en España",
@@ -2547,6 +2548,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "118 kg de carga máxima",
     ],
     contras: [
+      "Sin precio oficial: Joyor no publica una tarifa oficial verificable del LR8",
       "38,1 kg: muy pesado para su potencia",
       "Frenos de tambor: menos mordiente que el disco",
       "A 45 km/h no es VMP legal en España",
@@ -2617,6 +2619,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "Chasis de aluminio aeroespacial con plegado en 3 pasos",
     ],
     contras: [
+      "Sin precio oficial: Joyor no publica una tarifa oficial verificable del LR10",
       "Precio en Europa no publicado de forma estable",
       "Peso no publicado: se espera por encima de 30 kg",
       "A 64 km/h, ilegal en vía pública española",
