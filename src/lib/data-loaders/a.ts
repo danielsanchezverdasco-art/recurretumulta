@@ -125,6 +125,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "apollo-phantom-2": () => import("../blog-posts-patinetes-exp-p8.ts"),
     "apollo-phantom-stellar": () => import("../blog-posts-patinetes-exp-p8.ts"),
     "apollo-pro-2024": () => import("../blog-posts-patinetes-exp-p8.ts"),
+    "aprilia-esr2": () => import("../blog-posts-patinetes-exp-p13.ts"),
     "aprilia-esr2-evo": () => import("../blog-posts-patinetes-exp-p10.ts"),
     "aprilia-rs-125-2026": () => import("../blog-posts-prioridad-20261014.ts"),
     "aprilia-rs-125-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m30.ts"),

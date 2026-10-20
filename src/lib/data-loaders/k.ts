@@ -6,6 +6,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "kaabo-mantis-10-plus-v2": () => import("../blog-posts-patinetes-exp-p2.ts"),
     "kaabo-mantis-10-pro": () => import("../blog-posts-patinetes-exp-p8.ts"),
     "kaabo-mantis-8-eco-800": () => import("../blog-posts-patinetes-exp-p2.ts"),
+    "kaabo-mantis-8-plus": () => import("../blog-posts-patinetes-exp-p13.ts"),
     "kaabo-mantis-8-pro": () => import("../blog-posts-patinetes-exp-p8.ts"),
     "kaabo-mantis-urban": () => import("../blog-posts-patinetes-exp-p2.ts"),
     "kaabo-mantis-x-pro": () => import("../blog-posts-patinetes-exp-p2.ts"),

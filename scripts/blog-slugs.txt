@@ -3867,3 +3867,6 @@ cecotec-bongo-serie-z-city
 cecotec-bongo-serie-a-connected
 niu-kqi2-pro
 navee-s60
+xiaomi-pro-2
+xiaomi-1s
+xiaomi-essential
