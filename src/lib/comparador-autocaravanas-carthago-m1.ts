@@ -31,8 +31,8 @@ export const AUTOCARAVANAS_CARTHAGO_M1: Autocaravana[] = [
       "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
       "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-oficial-interior.webp",
-    videoId: null,
-    videoCanal: null,
+    videoId: "nGkKYh8G6k8",
+    videoCanal: "AUTONOTIZEN",
     largoMm: 7390, // «no oficial»: 739 cm versión Fiat Ducato según exposé de concesionario (752 cm = versión Mercedes)
     anchoMm: 2270, // «no oficial»: exposé de concesionario autorizado
     altoMm: 2950, // «no oficial»: exposé de concesionario autorizado
