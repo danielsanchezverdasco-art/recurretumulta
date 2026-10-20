@@ -6038,3 +6038,12 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/benda-chinchilla-450-2024-ficha-tecnica-precio-hunt1.webp | https://amilillagroup.com/wp-content/uploads/2026/05/A07-scaled.jpg | Benda Motorcycle (vía Amillilla Group) | desconocida |
 | /media/benda-chinchilla-450-2024-ficha-tecnica-precio-hunt2.webp | https://chinamotorworld.com/wp-content/uploads/2023/06/BENDA-Chinchilla450-_chinese-motorcycle-news_MGEA-CHINAMOTOR.jpg | China Motor World / MEGA ChinaMotor | desconocida |
 | /media/benda-chinchilla-450-2024-ficha-tecnica-precio-hunt3.webp | http://ncmotor.motorium.com.tr/assets/images/products/benda/chinchilla/4.jpg | Benda (vía NC Motor / Motorium) | desconocida |
+| /media/honda-civic-ehev-2026-precio-ficha-tecnica-hunt1.webp | https://www.car250.com/wp-content/uploads/2026/02/Honda-Civic-eHEV-RS_ext-15-1536x1024.jpg | Car250 / prensa Honda | desconocida |
+| /media/honda-civic-ehev-2026-precio-ficha-tecnica-hunt2.webp | https://www.car250.com/wp-content/uploads/2026/02/Honda-Civic-eHEV-RS_ext-26.jpg | Car250 / prensa Honda | desconocida |
+| /media/honda-civic-ehev-2026-precio-ficha-tecnica-hunt3.webp | https://www.autoapp.sg/wp-content/uploads/2025/03/autoapp-honda-civic-eHEV-4-980x653.jpg | AutoApp | desconocida |
+| /media/lynk-co-06-emp-2025-precio-ficha-tecnica-hunt1.webp | https://carnewschina.com/wp-content/uploads/2023/07/Lynk-Co-06-EM-P-get-facelift-in-China-CNC.jpg | CarNewsChina | desconocida |
+| /media/lynk-co-06-emp-2025-precio-ficha-tecnica-hunt2.webp | https://thetimeson.ru/wp-content/uploads/2023/10/b1a5da31d6383dc1d11275caa84735f4.jpg | The Times On / prensa Lynk & Co | desconocida |
+| /media/lynk-co-06-emp-2025-precio-ficha-tecnica-hunt3.webp | https://images.dailyrevs.com/0000/v3/Lynk%20Co/66f2a1b56668def9aaa2f8f9/2025-06-lynk-co-aq2ha03fi5lmnk6fd.jpeg | DailyRevs | desconocida |
+| /media/moto-morini-corsaro-750-sport-2025-ficha-tecnica-precio-hunt1.webp | https://motomorini.eu/wp-content/uploads/2024/10/corsaro-sport-profile-right-1-1920x1334.png | Moto Morini (web oficial) | desconocida |
+| /media/moto-morini-corsaro-750-sport-2025-ficha-tecnica-precio-hunt2.webp | https://www.revzilla.com/blog_content_image/image/92515/gallery/2025_moto_morini_corsaro_sport.jpg | RevZilla | desconocida |
+| /media/moto-morini-corsaro-750-sport-2025-ficha-tecnica-precio-hunt3.webp | https://nieuwsmotor.nl/wp-content/themes/yootheme/cache/70/Moto-Morini_Corsaro_Sport_2024-3-70153f88.jpeg | NieuwsMotor | desconocida |
