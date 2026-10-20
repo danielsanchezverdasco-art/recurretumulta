@@ -2,6 +2,8 @@
 // Loaders de import() dinámico para slugs que empiezan por "a".
 export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
   blog: {
+    "apollo-phantom-v4": () => import("../blog-posts-patinetes-exp-p16.ts"),
+    "apollo-city-pro-2024": () => import("../blog-posts-patinetes-exp-p16.ts"),
     "abarth-500e-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp10.ts"),
     "abarth-600e-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp10.ts"),
     "abarth-600e-scorpionissima-2025-precio-ficha-tecnica": () => import("../blog-posts-batch2b-4.ts"),

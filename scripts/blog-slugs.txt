@@ -3866,3 +3866,7 @@ pure-air-pro-lr
 egret-pro
 teverun-fighter-mini
 kugoo-kirin-m4-pro
+apollo-city-pro-2024
+apollo-phantom-v4
+gotrax-apex
+xiaomi-electric-scooter-4-go

@@ -2,6 +2,7 @@
 // Loaders de import() dinámico para slugs que empiezan por "g".
 export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
   blog: {
+    "gotrax-apex": () => import("../blog-posts-patinetes-exp-p16.ts"),
     "gac-aion-rt-2025-precio-ficha-tecnica": () => import("../blog-posts-lote2.ts"),
     "gac-aion-v-2024-precio": () => import("../blog-posts-coches-exp25.ts"),
     "gac-aion-v-2024-precio-ficha-tecnica": () => import("../blog-posts-batch2b-2.ts"),
