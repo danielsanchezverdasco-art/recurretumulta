@@ -189,6 +189,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "voyah-passion-l-2026-precio-ficha-tecnica": () => import("../blog-posts-voyah-a.ts"),
     "voyah-passion-s-2026-precio-ficha-tecnica": () => import("../blog-posts-voyah-a.ts"),
     "voyah-taishan-2026-precio-ficha-tecnica": () => import("../blog-posts-voyah-a.ts"),
+    "vsett-10-plus": () => import("../blog-posts-patinetes-exp-p11.ts"),
     "vsett-10-plus-apex": () => import("../blog-posts-patinetes-exp-p2.ts"),
     "vsett-10-plus-r": () => import("../blog-posts-patinetes-exp-p2.ts"),
     "vsett-10-plus-super": () => import("../blog-posts-patinetes-exp-p2.ts"),

@@ -45,6 +45,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "teverun-blade-gt-plus": () => import("../blog-posts-patinetes-exp-p3.ts"),
     "teverun-blade-gt-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "teverun-blade-mini-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
+    "teverun-blade-mini-pro": () => import("../blog-posts-patinetes-exp-p11.ts"),
     "teverun-blade-q": () => import("../blog-posts-patinetes-exp-p3.ts"),
     "teverun-blade-q-pro": () => import("../blog-posts-patinetes-exp-p3.ts"),
     "teverun-fighter-11": () => import("../blog-posts-patinetes-exp-p3.ts"),

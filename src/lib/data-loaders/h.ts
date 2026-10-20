@@ -41,6 +41,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "hiboy-ks4": () => import("../blog-posts-patinetes-exp-p3.ts"),
     "hiboy-max-pro": () => import("../blog-posts-patinetes-exp-p3.ts"),
     "hiboy-max-v2-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
+    "hiboy-max3": () => import("../blog-posts-patinetes-exp-p11.ts"),
     "hiboy-nex3": () => import("../blog-posts-patinetes-exp-p9.ts"),
     "hiboy-nex5": () => import("../blog-posts-patinetes-exp-p9.ts"),
     "hiboy-s2-lite": () => import("../blog-posts-patinetes-exp-p3.ts"),

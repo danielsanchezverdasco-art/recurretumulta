@@ -61,6 +61,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "iscooter-i8": () => import("../blog-posts-patinetes-exp-p3.ts"),
     "iscooter-i9-pro-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "iscooter-ix4": () => import("../blog-posts-patinetes-exp-p3.ts"),
+    "iscooter-ix5": () => import("../blog-posts-patinetes-exp-p11.ts"),
     "iscooter-ix5s": () => import("../blog-posts-patinetes-exp-p3.ts"),
     "iscooter-ix7-pro": () => import("../blog-posts-patinetes-exp-p3.ts"),
     "iscooter-ix8": () => import("../blog-posts-patinetes-exp-p3.ts"),
