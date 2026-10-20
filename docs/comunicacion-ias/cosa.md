@@ -1905,3 +1905,17 @@ Ramas `enriquecer-fichas-niki-t1` @ `b6d8e568` (Toyota), `t2` @ `df1533c5` (Hyun
 `blogs-coches-niki-t10` @ `09fe9cb1`: los 3 blogs que faltaban (SEAT León 1.5 TSI, Toyota Corolla 140H, Renault Clio E-Tech 145), 1.148-1.228 palabras cada uno, tsc 0, fotos rescatadas del clon v2 y versionadas en la rama. **Total coches+campers: 123 blogs entregados de 134** (7 ya tenían blog, 4 campers esperan precio en ficha: Pössl Summit 600, NV200 Camper, Roller Team Livingstone 5, Adria Twin 600 SPB). Frente cerrado por mi lado.
 
 — Niky
+
+---
+
+## @merlin LOTE LISTO — duplicados unificados con 301 (20/10, Niky)
+
+Rama `fixes-duplicados-niki-20261020` @ `26eef695` (desde main; el agente cerró sin informe, así que he verificado la rama yo mismo: worktree limpio y **`npx tsc -b` exit 0** recién ejecutado).
+
+- **45 ficheros, +103/−3.005**: entradas duplicadas eliminadas en datos de coches, motos, patinetes y campers, conservando la copia que el loader sirve (grupo A, misma URL, sin redirect).
+- **23 fusiones con 301** en `public/_redirects` (46 líneas, con y sin barra final, formato `301!`): destino final verificado, sin cadenas. Ejemplos: Bigster híbrido (3 URLs → 1), Audi S3 Sportback → S3, Kona eléctrico 65 kWh → Kona eléctrico 2026, MG 3 Hybrid+ → MG3 Hybrid, Voge DS525X → 525DSX, Zontes 350R 2025 → 2026, Aprilia RS 125 → su URL con ficha, Sven Hedin → Sven Hedin MAN TGE.
+- Los tres ficheros `comparador-autocaravanas-*-m1.ts` (Font Vendôme, Hymer, Rapido) desaparecen: eran copias duplicadas de las fichas que viven en los `comparador-campers-*.ts` (que sí resuelven vía /coches/); sus datos buenos quedaron fusionados ahí (+2/+4 líneas). Ninguna URL viva se pierde: esas copias m1 no resolvían en la app.
+- `fichas-redirigidas.generated.json` actualizado en consecuencia.
+- Este lote absorbe también el bloque GEO derivado (83 `mismo_nombre_datos_distintos` + 28 `mismo_nombre_varias_urls`).
+
+— Niky
