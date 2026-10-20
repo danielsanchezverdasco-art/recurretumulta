@@ -8246,3 +8246,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/zontes-350r-2026-hunt1.webp | https://zontes.com.ar/wp-content/uploads/2026/04/Zontes-argentina-350R-8.webp | Zontes Argentina (importador oficial) | desconocida |
 | /media/zontes-350r-2026-hunt2.webp | https://zontes.com.ar/wp-content/uploads/2026/04/Zontes-argentina-350R-9.webp | Zontes Argentina (importador oficial) | desconocida |
 | /media/zontes-350r-2026-hunt3.webp | http://motoringworld.in/wp-content/uploads/2022/09/Zontes-350R-Review-web3.jpg | Motoring World (prueba real) | desconocida |
+| /media/im-l6-2024-precio-ficha-tecnica-hunt1.webp | https://carnewschina.com/wp-content/uploads/2024/05/IM-L6.jpg | IM Motors / CarNewsChina | desconocida |
+| /media/im-l6-2024-precio-ficha-tecnica-hunt2.webp | https://images.carexpert.com.au/resize/1920/-/app/uploads/2024/11/im-l6.jpeg | IM Motors / CarExpert | desconocida |
+| /media/im-l6-2024-precio-ficha-tecnica-hunt3.webp | https://www.car250.com/wp-content/uploads/2024/03/L6-11-37.jpg | Autohome / Car250 | desconocida |
+| /media/maxus-deliver-7-2025-precio-ficha-tecnica-hunt1.webp | https://posvenda.pt/wp-content/uploads/2025/11/maxus1.png | Maxus / Pós-Venda | desconocida |
+| /media/maxus-deliver-7-2025-precio-ficha-tecnica-hunt2.webp | https://revistacar.es/wp-content/uploads/2026/03/Deliver-7-1-scaled.jpg | Maxus / Revista Car | desconocida |
+| /media/maxus-deliver-7-2025-precio-ficha-tecnica-hunt3.webp | https://pruebascoches.com/wp-content/uploads/2026/05/IMG_0823-1024x768.jpg.webp | PruebasCoches | desconocida |
+| /media/ktm-790-duke-2025-ficha-tecnica-precio-hunt1.webp | https://www.superbikemag.com/wp-content/uploads/2025/01/PHO_BIKE_90_REVO_KTM-naked-2025-790-duke-studio-right-front-view_SALL_AEPI_V1.webp | KTM (foto de estudio oficial PHO_BIKE) / Superbike Magazine | desconocida |
+| /media/ktm-790-duke-2025-ficha-tecnica-precio-hunt2.webp | https://paultan.org/cdn-img/?url=/image/2025/01/2025-KTM-790-Duke-3.jpg&w=1600&fit=scale-down&format=auto&q=85 | KTM / Paul Tan | desconocida |
+| /media/ktm-790-duke-2025-ficha-tecnica-precio-hunt3.webp | https://azwecdnepstoragewebsiteuploads.azureedge.net/PHO_BIKE_PERS_REVO_KTM-naked-bikes-790-duke-black-right-front-studio-us_%23SALL_%23AEPI_%23V1.png | KTM (foto de estudio oficial, ktm.com) | desconocida |
+| /media/zontes-125z2-2026-hunt1.webp | https://zontesmotos.es/wp-content/uploads/2026/04/zontes-125Z2-negro-2.jpg | Zontes España (zontesmotos.es) | desconocida |
+| /media/zontes-125z2-2026-hunt2.webp | https://zontesmotos.es/wp-content/uploads/2024/06/zontes-z2-125-negra-16.jpg | Zontes España (zontesmotos.es) | desconocida |
+| /media/zontes-125z2-2026-hunt3.webp | https://zontesmotos.es/wp-content/uploads/2024/06/zontes-z2-125-gris-25.jpg | Zontes España (zontesmotos.es) | desconocida |
