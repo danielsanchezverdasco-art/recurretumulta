@@ -5297,3 +5297,14 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/yamaha-yzf-r3-2025-ficha-tecnica-precio-hunt3.webp | https://goxee.s3.amazonaws.com/images/cars/883/936883/b/20260113203700_568593815.jpg | Mint Motorcycles | desconocida |
 | /media/aprilia-tuono-v4-2025-ficha-tecnica-precio-hunt1.webp | https://www.visordown.com/sites/default/files/2026-04/aprilia-tuono-v4_shark-grey_3-4-ant-dx_acc.jpg?width=1600 | Visordown | desconocida |
 | /media/aprilia-tuono-v4-2025-ficha-tecnica-precio-hunt2.webp | https://images5.1000ps.net/images_bikekat/2025/9-Aprilia/8727-Tuono_V4_1100/004-638720246503251952-aprilia-tuono-v4-1100.jpg | 1000PS | desconocida |
+| /media/omoda-9-shs-2025-precio-ficha-tecnica-hunt1.webp | https://www.businesscar.co.uk/tag/omoda/ | Business Car | desconocida |
+| /media/omoda-9-shs-2025-precio-ficha-tecnica-hunt2.webp | https://www.vianautomobile.es/omoda-presenta-nuevo-modelo-el-omoda-9-shs/ | Vian Automobile / Omoda (imagen oficial de prensa) | desconocida |
+| /media/omoda-9-shs-2025-precio-ficha-tecnica-hunt3.webp | https://www.dailyrevs.com/cars/2025-omoda-9-shs | DailyRevs | desconocida |
+| /media/byd-qin-plus-dm-i-2025-precio-ficha-tecnica-hunt1.webp | https://gogetcar.ru/catalog/legkovye/byd/qin_plus_dm_i/ | GoGetCar | desconocida |
+| /media/byd-qin-plus-dm-i-2025-precio-ficha-tecnica-hunt2.webp | https://mywheels.my/20250210/%E7%AC%AC%E4%BA%8C%E4%BB%A3byd%E7%A7%A6plus%E6%99%BA%E9%A9%BE%E7%89%88%E4%B8%8A%E5%B8%82-%E5%A4%96%E8%A7%82%E5%86%85%E9%A5%B0%E6%99%BA%E8%83%BD%E9%A9%BE%E9%A9%B6%E5%86%8D%E8%BF%9B%E5%8C%96/ | MyWheels Malaysia (blog del motor) | desconocida |
+| /media/byd-qin-plus-dm-i-2025-precio-ficha-tecnica-hunt3.webp | https://ncars.com.ua/gibridni-avtomobili/307-byd/qin-plus-dm-i-2025/ | NCars Ucrania | desconocida |
+| /media/yamaha-tracer-7-2025-ficha-tecnica-precio-hunt1.webp | https://www.totalmotorcycle.com/motorcycles/2025/2025-yamaha-tracer-7 | Total Motorcycle (blog del motor) | desconocida |
+| /media/yamaha-tracer-7-2025-ficha-tecnica-precio-hunt2.webp | https://www.motoplanete.us/yamaha/11299/Tracer-7-III-2025/contact.html | Motoplanete (blog del motor) | desconocida |
+| /media/yamaha-tracer-7-2025-ficha-tecnica-precio-hunt3.webp | https://www.lexhaminsurance.co.uk/blog/yamaha-tracer-7-motorcycle-review/ | Lexham Insurance | desconocida |
+| /media/kawasaki-versys-1100-se-2025-ficha-tecnica-precio-hunt1.webp | https://www.topspeed.com/this-touring-bike-might-just-be-the-ultimate-one-bike-garage/ | TopSpeed (prensa del motor) | desconocida |
+| /media/kawasaki-versys-1100-se-2025-ficha-tecnica-precio-hunt2.webp | https://kawa-go.kawasaki.es/modelo/versys-1100-se-grand-tourer-2025 | Kawasaki España - red de concesionarios kawa-go (web oficial) | desconocida |
