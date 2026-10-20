@@ -6652,3 +6652,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/govecs-e-schwalbe-l3e-2025-ficha-tecnica-precio-hunt1.webp | https://assets.adac.de/image/upload/c_scale,f_auto,q_auto,t_2:1-default,w_1500/v1/ADAC-Tests/StandardTests/2020-test-elektro-roller-125-ccm/15 | ADAC (prueba de scooter electrico 125) | desconocida |
 | /media/govecs-e-schwalbe-l3e-2025-ficha-tecnica-precio-hunt2.webp | https://ta.cleanscooter.in/i/sc/hw/schwalbe-l3e/full/schwalbe_gelb.jpg | CleanScooter / GOVECS (foto de producto) | desconocida |
 | /media/govecs-e-schwalbe-l3e-2025-ficha-tecnica-precio-hunt3.webp | https://www.lerepairedesmotards.com/img/actu/2017/nouveaute/scooter-electrique-govecs-schwalbe-l3e-profil_hd.jpg | GOVECS (foto de prensa) via Le Repaire des Motards | desconocida |
+| /media/dacia-duster-2026-eco-g-120-precio-ficha-tecnica-hunt1.webp | http://admin.otomotonews.pl/wp-content/uploads/2025/11/Dacia-Duster-Eco-G-120-Extreme.jpg | OtomoTo / Otomoto News | desconocida |
+| /media/dacia-duster-2026-eco-g-120-precio-ficha-tecnica-hunt2.webp | https://www.itransports.fr/wp-content/uploads/2026/02/Dacia-Duster-Eco-G-120-1.png | ITransports | desconocida |
+| /media/dacia-duster-2026-eco-g-120-precio-ficha-tecnica-hunt3.webp | https://img.classistatic.de/api/v1/mo-prod/images/51/51bf5c09-6593-4d5a-b262-e1a9847b7239?rule=mo-1600 | CarPoint GmbH / mobile.de | desconocida |
+| /media/mclaren-w1-2026-precio-ficha-tecnica-hunt1.webp | https://www.mclarenhouston.com/static/dealer-18539/Mclaren_w1/McL_W1_Side_V07.webp | McLaren Automotive / McLaren Houston (concesionario oficial) | desconocida |
+| /media/mclaren-w1-2026-precio-ficha-tecnica-hunt2.webp | https://autojosh.com/wp-content/uploads/2024/10/mclaren_w1_autojosh_8.jpg | McLaren Automotive / Autojosh | desconocida |
+| /media/mclaren-w1-2026-precio-ficha-tecnica-hunt3.webp | https://topgear.co.za/wp-content/uploads/2025/04/670294cfb2df3ef87a8bbe61_Original-16836-2-mclaren-w1-rear-3q-high.jpg | McLaren Automotive / Top Gear | desconocida |
+| /media/horwin-cr6-2025-ficha-tecnica-precio-hunt1.webp | https://www.go2roues.com/wp-content/uploads/2019/11/horwin-cr6-bleu-trois-quart-face-gauche.jpg.webp | Horwin / Go2Roues | desconocida |
+| /media/horwin-cr6-2025-ficha-tecnica-precio-hunt2.webp | https://www.go2roues.com/wp-content/uploads/2019/11/horwin-cr6-noir-trois-quart-face-droite.jpg | Horwin / Go2Roues | desconocida |
+| /media/horwin-cr6-2025-ficha-tecnica-precio-hunt3.webp | https://cdn-listino.inmoto.it/2023/3/10/Copia_di_CR_6_BLUE_color_a66b9752ab.jpg | Horwin / InMoto.it | desconocida |
+| /media/sunra-miku-max-2025-ficha-tecnica-precio-hunt1.webp | https://www.go2roues.com/wp-content/uploads/2020/07/sunra-miku-max-orange-cote-droit.jpg | Sunra / Go2Roues | desconocida |
+| /media/sunra-miku-max-2025-ficha-tecnica-precio-hunt2.webp | https://gr.e-scooter.co/i/su/nr/sunra-miku-max/full/Miku_max_1.jpg | E-Scooter.gr | desconocida |
+| /media/sunra-miku-max-2025-ficha-tecnica-precio-hunt3.webp | https://scoot-e.nl/wp-content/uploads/2026/02/Sunra_MIKU_Max_zijkant.png | Scoot-e.nl | desconocida |
