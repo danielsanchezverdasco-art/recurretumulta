@@ -110,7 +110,9 @@ Las entregas están previstas para finales de 2026 o principios de 2027. El Rena
 Nosotros no lo recomendaríamos como coche único salvo que nunca salgas de la ciudad: 4 plazas, 80 CV, 250 km de autonomía y carga rápida solo opcional. Como segundo coche urbano, es imbatible por precio.
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+
+
+*Fuentes: <a href=https://www.renault.es/electricos/r5-e-tech-electrico.html>Renault 5 E-Tech eléctrico (Renault España)</a>, <a href=https://www.dacia.es/modelos-hibridos-electricos/spring.html>Dacia Spring (Dacia España)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
   },
   {
     title: "Renault 4 E-Tech vs Renault 5 E-Tech 2026",
@@ -215,7 +217,9 @@ El Renault 5: 430 km WLTP con la batería de 52 kWh, frente a los 397-408 km del
 Sí, los dos son eléctricos puros con etiqueta Cero de la DGT: acceso libre a todas las ZBE.
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+
+
+*Fuentes: <a href=https://www.renault.es/electricos/r4-e-tech-electrico.html>Renault 4 E-Tech eléctrico (Renault España)</a>, <a href=https://www.renault.es/electricos/r5-e-tech-electrico.html>Renault 5 E-Tech eléctrico (Renault España)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
   },
   {
     title: "BYD Atto 2 vs Jaecoo 5 2026",
@@ -322,7 +326,9 @@ Sí: por solo 2.500 € más de tarifa obtienes 224 CV (frente a 147 CV), etique
 La batería Blade LFP de BYD es una de las más probadas del mercado, con garantía de 8 años, y tolera bien las cargas al 100 % habituales en una LFP.
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+
+
+*Fuentes: <a href=https://www.byd.com/es-es/coches-hibridos/atto-2-dm-i>BYD Atto 2 DM-i (BYD España)</a>, <a href=https://jaecoo.es/dossier-de-prensa-jaecoo-5-gasolina-y-ev/>Jaecoo 5 (dossier de prensa oficial)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
   },
   {
     title: "XPeng G6 2026 vs Tesla Model Y",
@@ -428,7 +434,9 @@ Batería de litio-ferrofosfato (LFP) en todas las versiones, de 68,5 kWh en el a
 Si viajas mucho y valoras la carga ultrarrápida, sí: es su gran ventaja diferencial. Si buscas el precio más bajo, la mayor eficiencia y la red de supercargadores, el Model Y sigue por delante.
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+
+
+*Fuentes: <a href=https://www.xpeng.com/mx/model/g6>XPeng G6 (XPeng oficial)</a>, <a href=https://www.tesla.com/es_es>Tesla España</a>.*`,
   },
   {
     title: "Leapmotor B10 vs BYD Atto 2 2026",
@@ -534,7 +542,9 @@ Se fabricará en Zaragoza desde octubre de 2026: será el primer eléctrico chin
 El Leapmotor B10: 140/168 kW en DC, frente a los 65 kW de las versiones básicas del BYD Atto 2 (el Comfort carga a 155 kW).
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+
+
+*Fuentes: <a href=https://www.leapmotor.net/models/b10-hybrid>Leapmotor B10 (Leapmotor Global)</a>, <a href=https://www.byd.com/es-es/promociones/atto-2-promocion>BYD Atto 2 (BYD España)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
   },
   {
     title: "Alpine A390 vs Skoda Peaq 2026",
@@ -642,7 +652,9 @@ Tres: uno delantero y dos traseros, con sistema Alpine Active Torque Vectoring q
 No: es un fastback deportivo de 4,61 m con cinco puertas. El Peaq sí es un SUV grande (4,87 m).
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+
+
+*Fuentes: <a href=https://prensa.alpinecars.es/a390-apertura-de-pedidos-del-nuevo-sport-fastback-de-alpine-a-partir-del-4-de-noviembre/?lang=spa>Alpine A390 (prensa oficial Alpine España)</a>, <a href=https://www.skoda.es/modelos/peaq/peaq>Skoda Peaq (Skoda España)</a>.*`,
   },
   {
     title: "Peugeot E-5008 vs Skoda Peaq 2026",
@@ -751,7 +763,9 @@ El Skoda Peaq: 935 L, el más grande de su categoría, frente a los 748 L del Pe
 Sí: además del eléctrico, el 5008 se vende con híbrido ligero de 136 CV (desde ~39.360 €) e híbrido enchufable de 195 CV (desde ~43.410 €).
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+
+
+*Fuentes: <a href=https://www.peugeot.es/gama/peugeot-5008/electrico.html>Peugeot E-5008 (Peugeot España)</a>, <a href=https://www.skoda.es/modelos/peaq/peaq>Skoda Peaq (Skoda España)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
   },
   {
     title: "Dacia Bigster Hybrid vs Jaecoo 5 2026",
@@ -859,7 +873,9 @@ Sí: el Tribrid 150 4x4 combina gasolina, electricidad y GLP desde 30.890 €. E
 En Mioveni (Rumanía), pero los componentes del sistema híbrido de 155 CV se fabrican en la planta del Grupo Renault en Valladolid.
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+
+
+*Fuentes: <a href=https://www.dacia.es/modelos-hibridos-electricos/bigster-suv/motores.html>Dacia Bigster Hybrid (Dacia España)</a>, <a href=https://jaecoo.es/dossier-de-prensa-jaecoo-5-gasolina-y-ev/>Jaecoo 5 (dossier de prensa oficial)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
   },
   {
     title: "MG4 Electric vs BYD Dolphin 2025",
@@ -967,7 +983,9 @@ Sí, ambos son eléctricos puros y llevan etiqueta Cero, así que entran en toda
 El Dolphin: 8 años o 200.000 km para la batería. El MG4 ofrece 7 años o 150.000 km de garantía general, batería incluida.
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+
+
+*Fuentes: <a href=https://news.mgmotor.eu/es/press/drive-evolution-mg4-electric-lanzamiento/>MG4 Electric (prensa oficial MG)</a>, <a href=https://www.byd.com/es-es/news-list/byd-dolphin-sube-el-liston>BYD Dolphin (BYD España)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
   },
   {
     title: "Ioniq 3 vs R5 E-Tech vs Dolphin Surf",
@@ -1084,7 +1102,9 @@ Sí, los tres son eléctricos puros y llevan la etiqueta Cero de la DGT, así qu
 El Renault 5 E-Tech por equilibrio (precio real con ayudas, 430 km, red Renault) o el Hyundai Ioniq 3 Long Range si haces viajes largos y puedes esperar a la versión de acceso. El Dolphin Surf es imbatible por precio, pero más limitado para viajar.
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+
+
+*Fuentes: <a href=https://www.hyundai.com/es/es/modelos/ioniq3/ioniq-3-condiciones-unicas.html>Hyundai IONIQ 3 (Hyundai España)</a>, <a href=https://www.renault.es/electricos/r5-e-tech-electrico.html>Renault 5 E-Tech eléctrico (Renault España)</a>, <a href=https://www.byd.com/es-es/coches-electricos/dolphin-surf>BYD Dolphin Surf (BYD España)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
   },
 
   {

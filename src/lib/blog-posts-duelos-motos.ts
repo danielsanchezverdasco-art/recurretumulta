@@ -104,7 +104,9 @@ Sí, las dos: la S01 con su batería trolley de ruedas (41 kg) y la NIU con sus 
 Sí, ambas son 100 % eléctricas y llevan <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta Cero de la DGT</a>: entran en todas las ZBE sin restricciones.
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+
+
+*Fuentes: <a href=https://www.acciona.com/es/actualidad/noticias/acciona-presenta-nueva-version-moto-silence-s-01>Silence S01 (ACCIONA, propietaria de Silence)</a>, <a href=https://community.niu.com/blog/eicma-2021-new-products-electric-motorcycle-scooter-ebike>NIU MQi GT Evo (NIU oficial)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
   },
   {
     title: "BMW CE 04 vs Zero FXE 2026",
@@ -204,7 +206,9 @@ Sí, pero con matices: la FXE tarda unas 9,7 h de serie y el CE 04 unas 4 h 20 m
 Las dos son nicho premium con depreciación incierta, pero BMW tiene red de concesionarios y servicio en toda España; Zero está creciendo (+58 % de red en 2025) pero sigue siendo minoritaria.
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+
+
+*Fuentes: <a href=https://www.bmw-motorrad.cl/es/models/urban_mobility/ce04.html>BMW CE 04 (BMW Motorrad)</a>, <a href=https://www.zeromotorcycles.com>Zero Motorcycles</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
   },
   {
     title: "Vespa Elettrica vs Piaggio 1 2026",
@@ -303,7 +307,9 @@ No realmente: la Elettrica está limitada a 45 km/h y el Piaggio 1 a 60 km/h. So
 Sí, ambas son 100 % eléctricas y llevan <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta Cero</a>: acceso sin restricciones a todas las ZBE.
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+
+
+*Fuentes: <a href=https://www.vespa.com/es_ES/Gama-Vespa/vespa-elettrica.html>Vespa Elettrica (Vespa oficial)</a>, <a href=https://wlassets.piaggio.com/wlassets/piaggio/master/tech_spec/Piaggio-1/2022/piaggio-1-ACTIVE-EN-/original/piaggio-1-ACTIVE-EN-.pdf?16>Piaggio 1 Active, ficha técnica oficial (Piaggio)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
   },
   {
     title: "Honda EM1 e 2026",
@@ -402,7 +408,9 @@ La Yamaha NEO's: 2.999 € frente a 3.999 € de la Honda EM1 e:.
 Sí, son ideales para empezar: ligeras, sencillas, baratas de mantener y con <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta Cero</a>. Eso sí, limitadas a 45 km/h: solo ciudad.
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+
+
+*Fuentes: <a href=https://www.honda.es/motorcycles/range/electric.html>Honda EM1 e: (Honda España, gama eléctrica)</a>, <a href=https://cdn2.yamaha-motor.eu/prod/product-assets/2022/EJE025/Factsheets/2022-EJE025_es-ES.pdf>Yamaha NEO's, ficha oficial (Yamaha Motor Europe)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
   },
   {
     title: "BMW CE 02 vs Super Soco CPx 2026",
@@ -502,7 +510,9 @@ La Super Soco CPx: 5.589 € frente a los ≈8.400 € de la BMW CE 02 (versión
 La CE 02: 3,0 s de 0 a 50 km/h, 132 kg y un chasis muy ágil. La CPx es más rutera y práctica que deportiva.
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+
+
+*Fuentes: <a href=https://www.press.bmwgroup.com/argentina/article/detail/T0423158ES/el-nuevo-bmw-ce-02?showMedia=video>BMW CE 02 (BMW Group PressClub)</a>, <a href=https://vmoto.lk/cpx/>Super Soco CPx (Vmoto)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
   },
   {
     title: "Zero S vs Can-Am Pulse 2026",
@@ -602,7 +612,9 @@ De serie no: es monoplaza y el asiento del pasajero es un accesorio opcional. La
 La Can-Am Pulse: 13.199 € frente a 18.295 € de la Zero S. Unos 5.000 € de diferencia.
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+
+
+*Fuentes: <a href=https://www.zeromotorcycles.com>Zero Motorcycles</a>, <a href=https://can-am.brp.com/on-road/us/en/models/motorcycles/naked/pulse.html>Can-Am Pulse (BRP oficial)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
   },
   {
     title: "F 450 R vs Hornet vs Z500: ¿cuál?",
@@ -749,6 +761,8 @@ Si tienes el A2 y buscas una moto eléctrica de verdad (no un scooter), sí: cha
 
 **También te puede interesar:** <a href=/motos/royal-enfield-flying-flea-c6-2026-ficha-tecnica-precio/>ficha de la Flying Flea C6</a> · <a href=/motos/honda-cuv-e-2025-ficha-tecnica-precio/>ficha de la Honda CUV e:</a> · <a href=/comparador-motos/>comparador de motos eléctricas</a> · <a href=/#analizador>analiza tu multa gratis</a>.
 
-`
+
+
+*Fuentes: <a href=https://flyingflea.royalenfield.com/uk/en/product/c6/>Flying Flea C6 (Royal Enfield)</a>, <a href=https://www.honda.es/motorcycles/range/electric.html>Honda CUV e: (Honda España, gama eléctrica)</a>, <a href=https://www.niu.com/en/n-series/power/>NIU NQi (NIU oficial)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`
   },
 ];
