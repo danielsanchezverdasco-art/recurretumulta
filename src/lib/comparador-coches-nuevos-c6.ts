@@ -183,7 +183,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       "Una sola plaza: el conductor siempre viaja solo, sin posibilidad de acompañante",
       "Carga útil limitada a unos 80 kg según la prensa especializada",
       "Velocidad máxima de 80 km/h y carnet B obligatorio al ser un cuadriciclo pesado",
-      "Precio oficial en España no publicado; el lanzamiento se orientó a flotas y alquiler a largo plazo",
+      "Precio oficial no publicado en España: solo el Duo anunció su apertura de pedidos (Automobile Barcelona 2025); el Bento es la versión de carga orientada a flotas",
       "Sin carga rápida en continua y sin evaluación Euro NCAP",
       "La caja de carga fija penaliza la visibilidad trasera respecto al Duo"
     ],
@@ -476,7 +476,6 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     analisisSlug: null,
     anchoMm: 1560,
     aprox: [
-      "precioDesde",
       "altoMm",
       "pesoKg"
     ],
@@ -488,7 +487,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     consumo: null,
     consumoUnidad: null,
     contras: [
-      "El precio 'desde' no incluye la batería: en propiedad suma 5.120 € y se acerca al Dacia Spring.",
+      "Desde 9.870 € según tarifa oficial de Silence en España (julio 2024), en modalidad de suscripción de batería; con batería en propiedad suma 5.120 € (14.990 €)",
       "Velocidad máxima de 45 km/h: solo sirve para ciudad, imposible salir a autovía.",
       "Sin prueba Euro NCAP y con carrocería mínima: protección limitada frente a turismos.",
       "Maletero testimonial y solo 2 plazas: no vale como único coche familiar.",
@@ -535,7 +534,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     planMantenimiento: null,
     plazas: 2,
     potenciaCv: 8,
-    precioDesde: 8800,
+    precioDesde: 9870,
     pros: [
       "Se conduce desde los 15 años con el carnet AM: ideal como primer vehículo para adolescentes.",
       "Baterías extraíbles tipo trolley que se intercambian en 30 segundos en las estaciones Silence, sin esperar cargas.",
@@ -555,7 +554,6 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     analisisSlug: null,
     anchoMm: 1560,
     aprox: [
-      "precioDesde",
       "velocidadMax",
       "altoMm",
       "pesoKg"
@@ -568,7 +566,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     consumo: null,
     consumoUnidad: null,
     contras: [
-      "Con baterías en propiedad roza los 16.800 €: ya es territorio de turismos eléctricos completos.",
+      "Desde 11.680 € según tarifa oficial de Silence en España (julio 2024), en modalidad de suscripción de batería; con baterías en propiedad roza los 16.800 €, territorio de turismos eléctricos completos",
       "Sin datos Euro NCAP: la seguridad pasiva es la propia de un cuadriciclo pesado.",
       "Solo 2 plazas y maletero mínimo: segundo coche urbano, nunca coche único.",
       "El alquiler de batería (desde 39,90 €/mes) encarece el coste total si se usa a diario.",
@@ -615,7 +613,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     planMantenimiento: null,
     plazas: 2,
     potenciaCv: 19,
-    precioDesde: 9800,
+    precioDesde: 11680,
     pros: [
       "Alcanza 85 km/h: suficiente para rondas y desplazamientos interurbanos cortos.",
       "Mismo sistema de baterías extraíbles con 149 km de autonomía homologada con dos baterías.",
@@ -710,7 +708,6 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     analisisSlug: null,
     anchoMm: 1500,
     aprox: [
-      "precioDesde",
       "bateriaKwh",
       "maleteroL",
       "parNm"
@@ -723,7 +720,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     consumo: null,
     consumoUnidad: null,
     contras: [
-      "El precio 'desde' se apoya en el Programa Auto+; sin ayudas la tarifa es muy superior.",
+      "Desde 10.700 € según tarifa oficial publicada por Invicta Electric en España (diciembre 2023, con descuentos estatales; 16.000 € sin descuentos)",
       "Sin carga rápida: entre 6 y 8 horas en enchufe doméstico para una carga completa.",
       "Solo 2 plazas y maletero limitado: carga y practicidad justas.",
       "Sin prueba Euro NCAP ni ayudas a la conducción avanzadas.",
@@ -770,7 +767,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     planMantenimiento: null,
     plazas: 2,
     potenciaCv: 14,
-    precioDesde: 8870,
+    precioDesde: 10700,
     pros: [
       "Precio oficial desde 8.870 €: el cuadriciclo pesado L7e más barato del mercado español.",
       "150 km de autonomía homologada con solo 9,2 kWh útiles: eficiencia destacable.",
@@ -789,9 +786,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     altoMm: 1585,
     analisisSlug: null,
     anchoMm: 1481,
-    aprox: [
-      "precioDesde"
-    ],
+    aprox: [],
     autonomiaKm: 170,
     bateriaKwh: 13.7,
     cargaRapidaKw: null,
@@ -800,7 +795,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     consumo: null,
     consumoUnidad: null,
     contras: [
-      "El precio de 8.870 € depende del Programa Auto+; sin ayudas la tarifa ronda los 17.000 €.",
+      "Desde 11.596 € según tarifa oficial publicada por Invicta Electric en España (nota de prensa de la marca, mayo 2025); 17.000 € sin descuentos",
       "Marca y red comercial minoritarias: repuestos y servicio con plazos inciertos.",
       "Sin prueba Euro NCAP y estructura ligera de unos 600 kg con conductor.",
       "Sin carga rápida: entre 6 y 8 horas para recuperar los 170 km de autonomía.",
@@ -847,7 +842,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     planMantenimiento: null,
     plazas: 2,
     potenciaCv: 27,
-    precioDesde: 8870,
+    precioDesde: 11596,
     pros: [
       "El cuadriciclo español con más autonomía por euro: 170 km desde 8.870 €.",
       "Velocidad máxima de 100 km/h: el único microcar de este precio que no teme a la vía rápida urbana.",
@@ -867,7 +862,6 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     analisisSlug: null,
     anchoMm: 1730,
     aprox: [
-      "precioDesde",
       "bateriaKwh"
     ],
     autonomiaKm: 262,
@@ -878,7 +872,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     consumo: 25.4,
     consumoUnidad: "kWh/100 km",
     contras: [
-      "Precio de 58.302 €: cuesta como un todoterreno premium pese a su interior espartano.",
+      "Desde 44.902 € según tarifa oficial publicada por Invicta Electric en España (diciembre 2023, con promociones y ayudas públicas descontadas); sin ayudas, 58.302 € según la prensa especializada",
       "Homologado como N1: ITV más frecuente y velocidad limitada a 90 km/h en autovía.",
       "Interior rudo sin lujos: plásticos duros y equipamiento mínimo para ese precio.",
       "Pesa 2.040 kg y su aerodinámica es la de un ladrillo: consume 25,4 kWh/100 km.",
@@ -925,7 +919,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     planMantenimiento: null,
     plazas: 5,
     potenciaCv: 163,
-    precioDesde: 58302,
+    precioDesde: 44902,
     pros: [
       "El único 4x4 puro 100 % eléctrico a la venta en España: reductora conectable y 600 Nm de par.",
       "262 km de autonomía WLTP con batería de 63 kWh y etiqueta Cero para circular por el campo sin emisiones.",
@@ -2468,7 +2462,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "Countryman D",
     tipo: "Diésel",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 40134,
     potenciaCv: 163,
     autonomiaKm: null,
     maleteroL: 450,
@@ -2503,7 +2497,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       "El diésel tiene los días contados en Europa y su valor residual es una incógnita.",
       "El 0-100 en 8,5 s no transmite sensaciones deportivas.",
       "A bajas vueltas se aprecia el traqueteo típico del diésel en un coche premium.",
-      "El precio se acerca peligrosamente al del Countryman S de gasolina, más prestacional.",
+      "Desde 40.134 € según la tarifa oficial de MINI España para el Countryman D (2.0 diésel, 163 CV; datos de la tarifa vigente, octubre 2026); se acerca al Countryman S de gasolina, más prestacional",
       "El AdBlue añade un mantenimiento extra frente a las versiones de gasolina.",
       "La oferta de versiones diésel se reduce cada año y hay menos unidades en stock."
     ],
@@ -2915,7 +2909,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "AMG GLC 43 4MATIC",
     tipo: "Híbrido ligero",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 92488,
     potenciaCv: 421,
     autonomiaKm: null,
     maleteroL: 620,
@@ -2949,7 +2943,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     contras: [
       "El sonido del 4 cilindros no tiene el carácter del antiguo V6 biturbo.",
       "El consumo real ronda los 10 l/100 km si se aprovecha la potencia.",
-      "El precio parte de unos 89.900 € y con opciones supera los 105.000 €.",
+      "Desde 92.488 € según la tarifa oficial publicada por la red de concesionarios Mercedes-Benz en España (Quadis, concesionario oficial, octubre 2026); con opciones supera los 105.000 €",
       "La complejidad del turbo eléctrico y el sistema de 48 V preocupa a largo plazo.",
       "Las suspensiones deportivas penalizan el confort en firmes degradados.",
       "Pesa casi 2 toneladas: la agilidad tiene un límite físico."
@@ -3938,7 +3932,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     consumo: null,
     consumoUnidad: null,
     contras: [
-      "Precio en España no publicado: en Reino Unido parte de 102.000 libras, un importe de superdeportivo.",
+      "La marca no publica tarifa para España: en Reino Unido parte de 102.000 libras (presentación oficial, marzo 2025); en España lo comercializa Tayre, concesionario oficial en Madrid, sin lista de precios pública",
       "Sin prueba Euro NCAP, habitual en fabricantes artesanales de bajo volumen.",
       "Habitabilidad mínima: biplaza estricto sin apenas maletero ni huecos portaobjetos.",
       "Confort limitado para uso diario: capota manual y aislamiento acústico testimonial.",
