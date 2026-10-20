@@ -244,6 +244,32 @@ El monovolumen murió en Europa devorado por los SUV —el propio Espace VI de 2
 
 Más estrenos de París: <a href=/blog/salon-paris-2026-estrenos-electricos-guia/>guía de todos los eléctricos del Salón de París 2026</a> · <a href=/comparador-coches/>Comparador de coches</a>
 
+## 1984: el año en que Renault inventó el monovolumen europeo
+
+Para entender el E-Space Concept hay que volver al **Espace original de 1984**, desarrollado junto a **Matra**. Aquella propuesta —un solo volumen, siete asientos individuales desmontables y giratorios, y un interior que podía convertirse en un salón rodante— creó un segmento que no existía en Europa. La historia está documentada en la propia retrospectiva oficial de Renault Group sobre sus coches familiares, donde el Espace de 1984 figura como el nacimiento del concepto de monovolumen. El nombre elegido lo decía todo: espacio. Y el eslogan que lo acompañó, **«voitures à vivre»** (coches para vivir), es exactamente el que el concept de 2026 recupera cuarenta y dos años después.
+
+## Qué propone el concept: electricidad al servicio del interior
+
+El E-Space Concept mide **4,7 metros** y es **100 % eléctrico**. La clave técnica de un familiar eléctrico no es la potencia —Renault no ha comunicado cifras—, sino la arquitectura: un suelo plano, sin túnel de transmisión ni depósito, permite distribuir las plazas como en el original, sin que la última fila sea un castigo. El post original recoge **7 plazas** como dato aún por confirmar a la espera de la presentación del 12 de octubre, y esa cautela es la correcta: en un concept, hasta que la marca no abre las puertas en el salón, casi todo es intención. Los guiños al de 1984 —carrocería roja, bajos grises, pilar D característico— no son nostalgia gratuita: son la manera de Renault de decir que el formato monovolumen, y no el SUV, es su respuesta familiar.
+
+## Uso real: por qué el monovolumen vuelve a tener sentido
+
+El monovolumen murió porque el SUV ofrecía imagen; pero en uso familiar puro, el monovolumen gana: suelo bajo para que los niños suban solos, puertas y accesos pensados para sillas infantiles, y volumen útil por metro de longitud muy superior. Un eléctrico de 4,7 m con esa filosofía cubriría el hueco entre el Scénic actual y los grandes SUV de 7 plazas, que son más altos, más pesados y, por tanto, menos eficientes. La limitación honesta también es clara: es un **concept sin fecha de producción**, y el propio análisis de este sitio apunta a que anticipa más la evolución de los familiares eléctricos de Renault —con la futura generación del Scénic en el horizonte— que un modelo tal cual saldrá a la venta.
+
+## Mantenimiento y costes: todavía no aplica
+
+No hay mantenimiento que analizar en un coche que no se vende: no hay intervalos, ni garantía comercial, ni precio de baterías. Lo que sí puede decirse, en términos generales, es que un familiar eléctrico de producción heredaría las ventajas conocidas del eléctrico —menos piezas móviles, frenos que duran más por la frenada regenerativa— y su principal coste a largo plazo sería, como en todos, la batería. Cualquier cifra concreta hoy sería inventada, y aquí no se inventan cifras.
+
+## Normativa: lo que un Espace eléctrico de producción tendría en España
+
+Si el concept derivara en un modelo de serie eléctrico, en España llevaría **etiqueta Cero de la DGT**, con acceso libre a las zonas de bajas emisiones de las grandes ciudades. Como concept de salón, no está homologado ni lo necesita: los prototipos de exhibición no circulan por vía pública. El marco que sí le afecta es el de los salones: su estreno está fijado para el **12 de octubre a las 8:30 h** en el pabellón 6 del Salón de París, según la información del propio post.
+
+## El contexto: E-Space frente al ID. Buzz y al Espace SUV actual
+
+El hueco que Renault explora lo ocupa hoy, casi en solitario, el Volkswagen ID. Buzz, el otro gran intento de resucitar el monovolumen en clave eléctrica. Y dentro de la propia casa, el Espace actual es un SUV híbrido de 7 plazas: el concept sugiere que Renault no da el formato por cerrado. Puedes repasar todos los estrenos del salón en nuestra <a href=/blog/salon-paris-2026-estrenos-electricos-guia/>guía de los eléctricos del Salón de París 2026</a>, comparar los familiares que ya se venden en el <a href=/comparador-coches/>comparador de coches</a> y, de paso, buscar monos en nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+**¿Merece la pena?** Como coche, no se puede comprar; como idea, es la declaración más coherente de Renault en años. **Para quién sí:** para familias que echan de menos el monovolumen de verdad y pueden esperar a ver qué llega a producción. **Para quién no:** para quien necesite un 7 plazas eléctrico este año: hoy la respuesta sigue estando en un concesionario, no en un stand.
+
 ## Preguntas frecuentes
 
 ### ¿Qué es el Renault E-Space Concept?
@@ -254,7 +280,8 @@ El estreno mundial es el **12 de octubre de 2026 a las 8:30h** en el Salón del 
 
 ### ¿El Renault E-Space llegará a producción?
 Es un concept: anticipa el lenguaje de diseño de los futuros familiares eléctricos de Renault, más que un modelo concreto a la venta.
-`,
+
+*Fuentes: <a href=https://www.renaultgroup.com/en/>Renault Group (web oficial)</a>, <a href=https://www.noticiasdelmotor.com/noticias/i/98282064/renault-presenta-e-space-concept-y-desvela-todas-sus-novedades-electricas-e-hibridas-para-el-salon-de-paris-2026>Noticias del Motor</a> (nota de prensa de Renault reproducida en el post original).*`,
 },
 {
   title: "Kia PV5: la furgoneta eléctrica",

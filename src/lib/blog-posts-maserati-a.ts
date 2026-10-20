@@ -357,6 +357,45 @@ Lleva etiqueta **C** (<a href=https://www.cupra.com/es-es/hibridos-y-electricos/
 | Acabado equilibrado | El Trofeo ofrece mucho más |
 | 5 plazas reales | Final de su vida comercial |
 
+## Levante: el SUV que Maserati necesitaba y que cerró una era
+
+El Levante, lanzado en 2016, fue el **primer SUV de Maserati**: la pieza que la marca del tridente necesitaba para sobrevivir en un mercado que ya solo compraba altos y grandes. La gama histórica de la casa sigue visible en la <a href=https://www.maserati.com/es/es>web oficial de Maserati España</a>, donde el testigo lo ha recogido el Grecale. La FAQ de este post lo confirma: **la producción del Levante terminó**, así que el Modena 2024 es, en la práctica, un coche de stock y de segunda mano, la última oportunidad de comprar el formato con el V6 de la casa.
+
+## Técnica: el V6 de 350 CV como argumento central
+
+| Dato | Levante Modena |
+|---|---|
+| Motor | V6 3.0 biturbo |
+| Potencia | 350 CV (500 Nm) |
+| Tracción | Total Q4 |
+| 0-100 km/h | 6,0 s |
+| Velocidad máxima | 251 km/h |
+| Etiqueta DGT | C |
+| Plazas | 5 |
+| Precio en España | No publicado por la marca |
+
+El Modena es el **punto medio de la gama**, y su definición está en lo que no es: no es el GT de acceso con el cuatro cilindros híbrido ligero, y no es el Trofeo de 580 CV. Es el Levante «de verdad» más asequible en espíritu: seis cilindros, **500 Nm**, tracción total **Q4** con reparto prioritario al eje trasero —la firma dinámica de Maserati, que prefiere que el coche empuje desde atrás— y **251 km/h** de punta. Los consumos no fueron publicados en este análisis, y en un V6 biturbo de SUV grande el comprador ya sabe lo que le espera sin necesidad de que le inventemos una cifra.
+
+## Uso real: gran turismo alto, no SUV familiar racional
+
+El Levante siempre fue más un gran turismo elevado que un SUV práctico: cinco plazas reales, pero un habitáculo y un maletero que no lideran el segmento, y una experiencia que se construye alrededor del sonido del V6 y del acabado italiano. En el día a día eso significa impuestos, neumáticos y combustible de coche de lujo. Quien lo compre esperando la eficiencia de un diésel alemán habrá entendido mal el producto; quien lo compre sabiendo que paga carácter, tendrá exactamente lo que buscaba.
+
+## Mantenimiento: el coste conocido de un premium italiano
+
+No hay cifras oficiales de mantenimiento enlazadas en este análisis, y las reglas de la casa mandan: no se inventan. Lo verificable es el marco: Maserati ofrece sus planes de mantenimiento en la red oficial, y fuera de garantía, un V6 biturbo con tracción total pertenece a la categoría de mantenimiento premium en piezas y horas de taller. Para una unidad de ocasión, el historial completo en servicio oficial es el documento que más valor aporta, por encima de cualquier rebaja en el precio de compra.
+
+## Normativa: etiqueta C, sin electrificación que la mejore
+
+El Modena lleva **etiqueta C de la DGT**, la de un gasolina sin hibridación suficiente para aspirar a la ECO. Eso lo deja fuera de las ventajas crecientes de las etiquetas superiores en las zonas de bajas emisiones de las grandes capitales. Es parte del trato de un modelo de final de ciclo: su ingeniería es de la era pre-electrificación de Maserati, y su encanto también.
+
+## GT, Modena o Trofeo: la escalera del Levante
+
+El propio post ordena la gama: frente al <a href=/coches/maserati-levante-gt-2024-precio-ficha-tecnica/>Levante GT</a>, el Modena gana el V6 y 20 CV más el sonido que define al coche; frente al <a href=/coches/maserati-levante-trofeo-2024-precio-ficha-tecnica/>Levante Trofeo</a>, pierde 230 CV pero también una montaña de consumo y de precio. Puedes comparar la familia en el <a href=/comparador-coches/>comparador de coches</a>, mirar SUV premium por presupuesto en <a href=/mejor-coche-por-presupuesto/>nuestra guía de presupuesto</a> y cazar monos en nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+**¿Merece la pena?** **Para quién sí:** para quien quiere el Levante con el motor correcto —el V6— sin pagar el Trofeo, y acepta comprar el final de una era con sus costes premium. **Para quién no:** para quien priorice etiqueta, eficiencia o la última tecnología: el Grecale y los SUV alemanes actuales juegan a eso; el Modena juega a otra cosa, y la juega muy bien.
+
+Queda una consideración de coleccionismo que el mercado ya está haciendo por su cuenta: el Levante es el último Maserati de su tipo con motores de gasolina puros antes de la electrificación total de la casa. Eso no convierte automáticamente cada unidad en una inversión, pero sí explica por qué las unidades con V6, historial oficial y pocos kilómetros aguantan la depreciación mejor que los SUV premium generalistas de su época. Comprarlo bien —con papeles y mantenimiento demostrado— es más importante que comprarlo barato.
+
 ## Preguntas frecuentes
 
 ### ¿Qué motor lleva el Levante Modena?
@@ -379,7 +418,7 @@ No: la producción del Levante terminó.
 
 Si te ha llegado una multa con tu Maserati, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: folleto oficial de Maserati.*`
+*Fuentes: folleto oficial de Maserati., <a href=https://www.maserati.com/es/es>Maserati España (web oficial)</a>*`
   },
   {
     "title": "Levante Trofeo: 580 CV, precio y ficha",
