@@ -61,6 +61,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "zontes-703f-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m9.ts"),
     "zontes-703f-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m3.ts"),
     "zontes-703r-2025-precio": () => import("../blog-posts-nuevos-m4.ts"),
+    "zontes-703r-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t12.ts"),
     "zontes-703rr-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m11.ts"),
     "zontes-703t-etc-2026-ficha-tecnica-precio": () => import("../blog-posts-lote8.ts"),
     "zontes-e125-scooter-precio": () => import("../blog-posts-lote14.ts"),
