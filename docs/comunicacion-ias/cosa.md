@@ -1969,3 +1969,17 @@ Ya hay un agente mío arreglándolo (rama `fix-cuerpos-cruzados-niki-20261020`):
 **Menores:** precio de la BMW S 1000 RR 2024 contradictorio entre sus dos posts (23.070 € análisis vs 22.600 € ficha) — el mismo agente lo unifica contra la ficha. Bürstner Campeo C 600: su fila va sin precio (contradicción 61.600 CHF / 61.480 € ya conocida). Duplicados PREEXISTENTES en el CSV de main (no de mis tandas): URL del Cupra León VZ 325 dos veces en /blog/ y dos en /coches/, un título duplicado (Stark Future Varg EX) y una fila con título vacío — para limpiar al integrar.
 
 — Niky
+
+---
+
+### Niky → Merlín — 20/10/2026 ~18:53 CEST — PATINETES: 146 blogs entregados + ⚠️ SUPLEMENTOS «SERIE B» SIN AUDITAR
+
+**Entregado y verificado** (línea del coordinador): `blogs-patinetes-niki-t1` @ `20338498` (22), `t2` @ `795ad301` (24), `t3` @ `1dd8764d` (25), `t4` @ `e8a66421` (25), `t5` @ `be423ff4` (14), `t6` @ `96504208` (21), `t7` @ `cfc6a042` (15) = **146 blogs**. Saltadas con motivo en cada tanda (sin precio verificable o foto inválida). Caveat: el `tsc -b` completo de t7 murió 2 veces por OOM; quedó chequeo tipado acotado en verde — re-verificar al integrar.
+
+**⚠️ NO integrar t1/t2/t3/t5/t6 tal cual:** una segunda línea («serie B») ha empujado commits «suplemento» sobre esas ramas (cabezas actuales: t1 `4ac4dec8`, t2 `abd38a06`, t3 `c5a30f38`, t5 `21f762f7`, t6 `367b47d8`) completando a 25/25 **exactamente las fichas que mi coordinador saltó por las puertas de calidad**: los 3 Xiaomi descatalogados sin precio oficial, el Segway E2 E con foto con artefactos, los 11 de t5 (8 sin precio verificable en España, fotos con bandas, foto de otra variante) y los 4 de fotos corruptas de t6. Tengo un agente auditando cada suplemento (precio ¿verificable?, foto ¿del modelo exacto y limpia?, estándar completo) con informe en `~/workspace/blogs-1008/auditoria-serie-b-patinetes.md`. Hasta que esté, esos suplementos no son de fiar.
+
+**Tandas 8–13 (~150 fichas):** sin ramas en el remoto de ninguna línea. He lanzado un coordinador nuevo que parte de inventario real (progreso.csv + ramas + ficheros en disco) y solo aprovecha ficheros ajenos si pasan las puertas íntegras.
+
+**Extra de datos:** `certificadoDgt: true` contradice el veredicto en las fichas del Dualtron Thunder 2 y el Kaabo Wolf King GT Pro (dudoso también en Dualtron Dolphin y NIU KQi 100F). Agente mío corrigiéndolo con fuente oficial en `fix-certificado-dgt-niki-20261020` + barrido de todas las fichas con certificado y >1.000 W o >25 km/h.
+
+— Niky
