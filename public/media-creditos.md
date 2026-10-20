@@ -4995,3 +4995,24 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/zeekr-001-2024-precio-ficha-tecnica-hunt1.webp | https://www.vehiclesizes.com/img/58949-zeekr-001-front-view-sleek-headlights-modern-wheels.jpg | Zeekr (foto real en exposición, vía VehicleSizes) | desconocida |
 | /media/zeekr-001-2024-precio-ficha-tecnica-hunt2.webp | https://images.carexpert.com.au/resize/1920/-/app/uploads/2021/12/zeekr_001_3.jpeg | Zeekr (material de prensa, vía CarExpert) | desconocida |
 | /media/zeekr-001-2024-precio-ficha-tecnica-hunt3.webp | https://img8.bitautoimg.com/autoalbum/files/20251010/816/202510102112007076081665143_13369240_3.jpg | Zeekr (foto de concesionario, vía Bitauto/易车) | desconocida |
+| /media/bugatti-tourbillon-2026-precio-ficha-tecnica-hunt1.webp | https://cdn.hiconsumption.com/wp-content/uploads/2024/06/2026-Bugatti-Tourbillon-Hybrid-Hypercar-0-Hero.jpg | HiConsumption | desconocida |
+| /media/bugatti-tourbillon-2026-precio-ficha-tecnica-hunt2.webp | https://www.autobics.com/wp-content/uploads/2024/06/2026-Bugatti-Tourbillon-Hypercar-Front-Quarter.jpg | Autobics | desconocida |
+| /media/bugatti-tourbillon-2026-precio-ficha-tecnica-hunt3.webp | https://luxafrique.net/wp-content/uploads/2026/01/bugatti_tourbillon_66-1024x576.jpeg | LuxAfrique | desconocida |
+| /media/ebro-s400-excellence-2025-precio-ficha-tecnica-hunt1.webp | https://carwow-es-wp-0.imgix.net/ebro-s400.jpg?auto=format&cs=tinysrgb&fit=crop&ixlib=rb-1.1.0&q=60&w=1600 | Carwow España | desconocida |
+| /media/ebro-s400-excellence-2025-precio-ficha-tecnica-hunt2.webp | https://www.autohrvatska.hr/EasyEdit/UserFiles/News/ebro-s4001600x900v1/ebro-s4001600x900v1-639214372980578166_780_439.jpeg | Auto Hrvatska | desconocida |
+| /media/ebro-s400-excellence-2025-precio-ficha-tecnica-hunt3.webp | https://cms.ebroauto.com/media/original/EBRO_S400_062_2_991fcd4b02.avif | Ebro Automóviles (prensa oficial) | desconocida |
+| /media/yamaha-mt-03-2024-ficha-tecnica-precio-hunt1.webp | https://www.totalmotorcycle.com/wp-content/uploads/2023/11/2024-Yamaha-MT-03c-1200x681.jpg | Total Motorcycle | desconocida |
+| /media/yamaha-mt-03-2024-ficha-tecnica-precio-hunt2.webp | https://yamahamotorsports.com/media/images_products/2024-mt-03/1200px/24-MT320-DBNM8-360-03-1.JPG.webp | Yamaha Motor (prensa oficial) | desconocida |
+| /media/yamaha-mt-03-2024-ficha-tecnica-precio-hunt3.webp | https://www.team-menduni.com/22605-big_default/moto-roadster-mt-03-2024.jpg | Team Menduni (concesionario oficial Yamaha) | desconocida |
+| /media/zeekr-001-fr-2024-precio-ficha-tecnica-hunt1.webp | https://files.drivedd.net/2024/11/05-ZEEKR-001-FR.jpg | DriveDD | desconocida |
+| /media/zeekr-001-fr-2024-precio-ficha-tecnica-hunt2.webp | https://www.webmotors.com.br/wp-content/uploads/2024/07/10133814/Zeekr-001-FR-1-scaled.webp | Webmotors | desconocida |
+| /media/zeekr-001-fr-2024-precio-ficha-tecnica-hunt3.webp | https://autoinfo.co.th/uploads/2024/12/1240_2024120917084038.jpg | AutoInfo (Motor Expo Tailandia) | desconocida |
+| /media/deepal-s05-2025-precio-ficha-tecnica-hunt1.webp | https://i0.wp.com/www.carandmotor.gr/sites/default/files/styles/horizontal_rectangle/public/2026-05/Deepal%20S05%20PHEV%20exterior%20silver%202.jpg?itok=yuCxFWTx&ssl=1 | Car and Motor (foto de prensa del fabricante) | desconocida |
+| /media/deepal-s05-2025-precio-ficha-tecnica-hunt2.webp | https://autopress.gr/wp-content/uploads/2026/06/Deepal-S05-PHEV-exterior-blue-2048x1246.jpg | Autopress (foto de prensa del fabricante) | desconocida |
+| /media/deepal-s05-2025-precio-ficha-tecnica-hunt3.webp | https://carselectric.gr/wp-content/uploads/2026/05/Deepal-S05-PHEV-interior-1920x1052.jpg | Cars Electric (foto de prensa del fabricante) | desconocida |
+| /media/rimac-nevera-r-2025-precio-ficha-tecnica-hunt1.webp | https://www.supercars.net/blog/wp-content/uploads/2024/10/2025-Rimac-Nevera-R-011-2160-scaled-1-1400x788.jpg | Supercars.net / Rimac Automobili | desconocida |
+| /media/rimac-nevera-r-2025-precio-ficha-tecnica-hunt2.webp | https://www.supercars.net/blog/wp-content/uploads/2024/10/2025-Rimac-Nevera-R-004-2160-scaled-1-2048x1152.jpg | Supercars.net / Rimac Automobili | desconocida |
+| /media/rimac-nevera-r-2025-precio-ficha-tecnica-hunt3.webp | https://www.carscoops.com/wp-content/uploads/2024/08/Rimac-Nevera-R-static-00015-1-2048x1080.jpg | Carscoops / Rimac Automobili | desconocida |
+| /media/zeekr-007-2025-precio-ficha-tecnica-hunt1.webp | https://paultan.org/image/2023/11/Zeekr-007-10-e1700102954853.jpg | Paultan.org | desconocida |
+| /media/zeekr-007-2025-precio-ficha-tecnica-hunt2.webp | https://image.bilnorge.no/4073241.jpg?imageId=4073241&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683 | BilNorge.no | desconocida |
+| /media/zeekr-007-2025-precio-ficha-tecnica-hunt3.webp | https://cdnmain.formacar.com/storage/images_news/00/48/65/24/2S0E0GwOU23S.jpg | Formacar.com | desconocida |
