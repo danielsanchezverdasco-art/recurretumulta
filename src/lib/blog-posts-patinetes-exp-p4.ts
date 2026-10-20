@@ -2091,6 +2091,26 @@ Sin certificado DGT verificado. Como hiperpatinete de doble motor, en España so
 
 <img src=/media/patinetes/currus-nf10-plus-3.webp alt=Currus NF10 Plus en un entorno urbano>
 
+## Currus: la marca coreana que prefirió el boca a boca a las fichas
+
+Currus construyó su reputación en el mundo de los hiperpatinetes a la manera antigua: aparatos robustos de doble motor vendidos en tiradas cortas, con una comunidad de usuarios muy activa y una comunicación comercial mínima. El NF10 Plus es el ejemplo perfecto de esa filosofía… y de su problema: la marca nunca publicó una ficha técnica completa del modelo. Lo que sabemos con certeza viene de la cadena de suministro: los talleres europeos venden su batería de repuesto de **60 V y 28 Ah (1.680 Wh)**, y ese dato, más la plataforma de doble motor que comparte con la familia NF, es casi todo lo verificable.
+
+## Lo que sí se puede afirmar (y lo que no)
+
+Con 1.680 Wh, la estimación de **60-80 km reales** que hace el análisis original es razonable para un doble motor usado con cabeza, pero debe leerse como lo que es: una estimación, no un dato del fabricante. Potencia, peso y velocidad máxima **no están publicados** y cualquier cifra que circule por foros es eso, conversación de foro. Esta honestidad importa al comprar: en un aparato sin ficha, el estado real de la unidad concreta —y sobre todo de su batería— vale más que cualquier especificación.
+
+## Comprar uno hoy: el examen pasa por la batería
+
+Descatalogado y sin red en España, un NF10 Plus es una compra de segunda mano entre entusiastas. La revisión crítica es la batería: con años y ciclos encima, un pack de 1.680 Wh puede haber perdido una parte importante de su capacidad, y sustituirlo cuesta **1.077 €** en Francia según la propia tienda de repuestos que cita la ficha. A eso se suma lo habitual en un hiperpatinete usado: holguras de dirección y plegado, estado de frenos y neumáticos, y cargador correcto para su voltaje. Sin factura ni historial, el precio debe reflejar el riesgo. La prueba mínima exigible a cualquier vendedor es una carga completa cronometrada y una salida de prueba que agote una parte significativa de la batería: en un pack sano, el voltaje cae de forma progresiva y simétrica; en uno degradado o desbalanceado, el patinete corta pronto, pierde fuerza en la primera cuesta o marca errores de la controladora. Sin esa prueba, lo prudente es presupuestar la compra como si la batería hubiera que cambiarla, y negociar en consecuencia: en un NF10 Plus, la batería no es un consumible más, es media compra.
+
+## Normativa: el mismo muro de los 25 km/h
+
+La definición oficial de la <a href=https://www.dgt.es/comunicacion/notas-de-prensa/dgt-recuerda-que-a-partir-de-22-de-enero-los-vmp-que-se-comercialicen-deberan-estar-certificados-para-su-uso>DGT</a> deja fuera a cualquier patinete cuya velocidad por diseño supere los **25 km/h**: un doble motor de esta clase no es un VMP certificable en España, y su sitio legal es el recinto privado. La <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/matricular-un-vehiculo/inscripcion-vmp/>inscripción en el Registro de vehículos personales ligeros</a>, con su etiqueta y el seguro obligatorio asociados, está pensada para los VMP que sí cumplen el manual de características; un NF10 Plus, además sin certificado, quedaría fuera incluso del régimen transitorio pensado para patinetes ordinarios anteriores a la certificación.
+
+## Frente a sus hermanos: NF y Panther
+
+La familia ayuda a situarlo. El <a href=/patinetes/currus-nf/>Currus NF</a> comparte los 1.680 Wh con 3.600 W de pico y unos 70 km/h en nuestra ficha: es, probablemente, el espejo más cercano del NF10 Plus. Y el <a href=/patinetes/currus-panther/>Currus Panther</a> sube a 2.100 Wh, 5.400 W de pico y 120 km declarados, con datos completos y verificables: es lo que el NF10 Plus quiso ser con papeles en regla interna. **Veredicto:** merece la pena solo para el entusiasta que busca la plataforma NF, sabe revisar un pack de baterías y acepta que compra sin red ni ficha. Para cualquier otro perfil, el Panther es la compra defendible y un VMP certificado, la única legal en la calle. Los monos del <a href=/juego-monos/>juego caza-monos</a>, eso sí, no necesitan certificado para aparecer por la web.
+
 ## Preguntas frecuentes
 
 ### ¿Qué se sabe del Currus NF10 Plus?
@@ -2113,7 +2133,7 @@ Solo para entusiastas que sepan lo que compran. Para los demás, el Panther tien
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://savemybattery.fr/gb/battery-for-currus-nf10-plus/412-battery-60v-28ah-car-nf10-plus.html>batería de repuesto en Save My Battery (FR)</a>.*`,
+*Fuentes: <a href=https://savemybattery.fr/gb/battery-for-currus-nf10-plus/412-battery-60v-28ah-car-nf10-plus.html>batería de repuesto en Save My Battery (FR)</a>. <a href=https://www.dgt.es/comunicacion/notas-de-prensa/dgt-recuerda-que-a-partir-de-22-de-enero-los-vmp-que-se-comercialicen-deberan-estar-certificados-para-su-uso>DGT — certificación obligatoria de los VMP</a> y <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/matricular-un-vehiculo/inscripcion-vmp/>DGT — inscripción de VMP en el Registro de vehículos personales ligeros</a>*`,
   },
   // ─────────────────────────── BRONCO (2) ───────────────────────────
   {
@@ -2189,6 +2209,26 @@ Vídeo: <a href=https://www.youtube.com/watch?v=vGR1gyS7HCQ>primer vistazo al Br
 
 <img src=/media/patinetes/bronco-xtreme-11-3.webp alt=Bronco Xtreme 11 en una recta>
 
+## Bronco Motors: ingeniería de garaje en Singapur
+
+Bronco no es un gigante: es un equipo pequeño de ingenieros de Singapur que decidió fabricar el patinete que a ellos les gustaría tener, con chasis **forjado en caliente** —un proceso caro y lento, propio de piezas de competición— y control de calidad manual unidad a unidad. Esa filosofía de baja producción explica tanto su precio en EE. UU. como su ausencia de distribución europea: no hay volumen para homologar ni red que lo sostenga. Sus vendedores lo anuncian como el patinete de serie más rápido del mercado, y con **8.400 W de pico y unos 112 km/h** la afirmación tiene base aritmética, aunque ninguna homologación la respalde.
+
+## La controladora es la verdadera protagonista
+
+El dato que separa al Xtreme 11 de la competencia no son los vatios, es la **controladora sinusoidal de 72 V y 100 A**. Las controladoras de onda cuadrada entregan la potencia a golpes, con tirones y ruido eléctrico; una sinusoidal modula la entrega de forma suave y silenciosa, lo que permite dosificar 8.400 W sin que el patinete se vuelva inconducible a baja velocidad. Sumada a la suspensión neumática en ambos ejes y a unos neumáticos de 11 pulgadas, es la razón de que las pruebas destaquen su aplomo a velocidad, un terreno donde la mayoría de hiperpatinetes dan miedo.
+
+## Uso real: un objeto de circuito, no un medio de transporte
+
+Su uso real en España es el que ya sentencia la ficha: **recintos privados y circuito**. No tiene batería ni autonomía declaradas por el fabricante —a fondo, una máquina así consume su energía en minutos, no en horas—, las luces de serie son pobres según las pruebas y su mantenimiento exige un usuario experto: pares de apriete, presión de suspensiones neumáticas y vigilancia de una instalación eléctrica de 72 V que trabaja a 100 A. Comprarlo de importación significa además asumir que no hay taller oficial ni recambios en Europa. Y un apunte que las cifras de portada esconden: plegado «rápido» no significa ligero ni cómodo de transportar, porque una máquina de 72 V con suspensión neumática y chasis forjado es un objeto grande y pesado de mover en coche o de subir a un tren, justo lo contrario de lo que se espera de un patinete como solución de última milla.
+
+## Normativa VMP: por qué no encaja, explicado por la DGT
+
+La <a href=https://www.dgt.es/comunicacion/notas-de-prensa/dgt-recuerda-que-a-partir-de-22-de-enero-los-vmp-que-se-comercialicen-deberan-estar-certificados-para-su-uso>nota oficial de la DGT</a> define el VMP como el vehículo de una plaza propulsado por motor eléctrico con velocidad máxima por diseño **entre 6 y 25 km/h**, y recuerda que los que se comercializan deben estar certificados, con prohibición de circular por aceras, travesías y vías interurbanas. Un aparato de 112 km/h no es un VMP «deslimitado»: está fuera de la categoría desde su diseño. La <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/matricular-un-vehiculo/inscripcion-vmp/>DGT ha puesto además en marcha la inscripción en el Registro de vehículos personales ligeros</a>, con etiqueta identificativa y seguro obligatorio para los VMP que sí pueden circular; nada de eso convierte en legal a un hiperpatinete de estas prestaciones en vía pública.
+
+## Rivales y veredicto: ¿merece la pena?
+
+En su propio mundo compite con el <a href=/patinetes/bronco-xtreme-vnom-11/>Bronco Xtreme VNOM 11</a>, la evolución de la casa, y con gigantes como el <a href=/patinetes/currus-panther/>Currus Panther</a> (5.400 W de pico y 2.100 Wh en nuestra ficha) o el <a href=/patinetes/dualtron-thunder/>Dualtron Thunder</a>, que al menos cuentan con más presencia comercial. **Veredicto:** como pieza de ingeniería y como curiosidad, el Xtreme 11 es fascinante y merece la pena estudiarlo. Como compra en España, no: sin distribución, sin homologación y sin uso legal en vía pública, su único comprador racional es el coleccionista que lo disfrutará en circuito privado. Para moverte de verdad por la ciudad, cualquier VMP certificado de 25 km/h es infinitamente más útil. Y conste que los monos del <a href=/juego-monos/>juego caza-monos</a> sí circulan por toda la web sin problema de homologación.
+
 ## Preguntas frecuentes
 
 ### ¿Es el patinete más rápido del mundo?
@@ -2211,7 +2251,7 @@ Como curiosidad de ingeniería, sí. Como compra en España, no hay forma racion
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://scooter.guide/reviews/bronco/>ficha de la marca en Scooter.Guide</a>.*`,
+*Fuentes: <a href=https://scooter.guide/reviews/bronco/>ficha de la marca en Scooter.Guide</a>. <a href=https://www.dgt.es/comunicacion/notas-de-prensa/dgt-recuerda-que-a-partir-de-22-de-enero-los-vmp-que-se-comercialicen-deberan-estar-certificados-para-su-uso>DGT — certificación obligatoria de los VMP</a> y <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/matricular-un-vehiculo/inscripcion-vmp/>DGT — inscripción de VMP en el Registro de vehículos personales ligeros</a>*`,
   },
   {
     slug: "bronco-xtreme-vnom-11",

@@ -1073,6 +1073,30 @@ De momento no hay planes oficiales. Pero el segmento de los todoterrenos eléctr
 
 <img src=/media/icaur-v23-2026-precio-ficha-tecnica-oficial.webp alt=iCAUR V23 vista frontal>
 
+## «Classic never fades»: la filosofía oficial de iCAUR
+
+iCAUR no esconde su jugada: el lema de la marca es «classic never fades» —lo clásico nunca pasa de moda— y su estrategia global gira en torno al diseño de inspiración clásica, la personalización y la comunidad de usuarios. El <a href=https://www.ariva.de/news/three-days-to-go-four-core-highlights-of-the-2026-icaur-12172218>comunicado de Chery Group sobre la cumbre internacional de iCAUR</a> describe ediciones personalizadas de fábrica sobre la base del V23 y un ecosistema en el que los propios clientes co-crean accesorios y versiones. Según la marca, la mitad de sus usuarios en el mundo personaliza su coche: el V23 no se vende como un electrodoméstico, se vende como un lienzo con ruedas.
+
+## Las dos versiones, con la letra pequeña de los ciclos
+
+La ficha distingue bien las dos mecánicas: **2WD de 134 CV** con batería LFP de 59,93 kWh y **4WD de 208 CV y 292 Nm** con batería NMC de 81,8 kWh. Conviene leer las autonomías con el manual de instrucciones de los ciclos chinos: las cifras que el análisis original recoge en ciclo NEDC son las más optimistas de la industria, y en uso real europeo la versión grande rondaría los 350 km que estima el propio texto. La arquitectura es la de un eléctrico moderno y sencillo —motor trasero en el 2WD, doble motor en el 4WD— sin pretensiones de deportivo: su terreno es el diseño y la vida al aire libre, no las prestaciones.
+
+## Uso real: 4 plazas como declaración de intenciones
+
+Las **4 plazas** no son un descuido, son el posicionamiento: Chery prefirió un interior espacioso para cuatro y una estética sin compromisos a un familiar de cinco. En el día a día eso significa un coche de 4,22 m fácil de aparcar, con una pantalla de 15,4 pulgadas como centro de mando y asistentes de conducción completos, pero con un maletero y una versatilidad familiar limitados por su propio concepto. Es un coche de ocio para parejas y solteros con perro, no el segundo coche familiar que resuelve todo. Y sin red europea, su uso real en España es, hoy, puramente teórico.
+
+## Mantenimiento, garantía y seguridad: lo declarado y lo pendiente
+
+La marca declara una **garantía de 8 años o 200.000 km** que ya recoge la ficha, una cifra ambiciosa incluso entre las marcas chinas y que marca el nivel de confianza de Chery en su eléctrica. El mantenimiento de un eléctrico puro como este sería mínimo —frenos longevos, líquidos y filtros— en los mercados donde la marca opera. En seguridad, el dato honesto: **Euro NCAP no lo ha evaluado**, porque no se vende en Europa; cualquier afirmación sobre su seguridad pasiva sería, por ahora, sin datos verificados.
+
+## Normativa: Cero si llegara, nada mientras tanto
+
+Si iCAUR completara la homologación europea, el V23 obtendría la **etiqueta Cero** como eléctrico puro. Hoy no hay planes oficiales para España, aunque la expansión internacional de la marca —con la serie V creciendo con los V25 y V27— hace que su llegada sea una cuestión de calendario comercial, no de producto. La propia Chery ya vende en España sus marcas Omoda y Jaecoo, la infraestructura que un desembarco de iCAUR aprovecharía.
+
+## Rivales y veredicto: ¿merece la pena?
+
+En casa tiene al <a href=/coches/icaur-03t-2026-precio-ficha-tecnica/>iCAUR 03T</a> (422 CV y desde 28.000 € en nuestra ficha) como hermano de asfalto y al futuro <a href=/coches/icaur-v27-erev-2027-precio-ficha-tecnica/>iCAUR V27 EREV</a> como hermano grande con extensor de autonomía. Fuera, su espejo occidental sería el <a href=/coches/suzuki-jimny-pro-2026-precio-ficha-tecnica/>Suzuki Jimny</a>: misma idea de caja con ruedas y carisma, filosofía opuesta en propulsión. **Veredicto:** el V23 merece la pena como concepto —diseño con alma a precio eléctrico chino— y merecerá la pena como compra el día que Chery lo venda en Europa con garantía y red. Hoy es el todoterreno eléctrico que mirar, no el que firmar. Mientras llega, el <a href=/juego-monos/>juego caza-monos</a> sí está homologado en toda la web.
+
 ## Preguntas frecuentes
 
 ### ¿Qué potencia tiene el iCAUR V23?
@@ -1090,7 +1114,7 @@ No: la marca iCAUR no opera en Europa por ahora.
 ### ¿Qué batería lleva?
 59,93 kWh LFP (2WD) u 81,8 kWh NMC (4WD).
 
-*Fuentes: <a href=https://www.cheryinternational.com>Chery Internacional</a>, paultan.org*
+*Fuentes: <a href=https://www.cheryinternational.com>Chery Internacional</a>, paultan.org, <a href=https://www.ariva.de/news/three-days-to-go-four-core-highlights-of-the-2026-icaur-12172218>Chery Group — comunicado sobre la cumbre internacional de usuarios de iCAUR (GlobeNewswire)</a>*
 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
   },
@@ -1610,6 +1634,30 @@ La clave del Jolion HEV es su transmisión **DHT** (Dedicated Hybrid Transmissio
 
 <img src=/media/haval-jolion-hev-2026-precio-ficha-tecnica-oficial.webp alt=Haval Jolion HEV vista tres cuartos>
 
+## Seguridad con nota oficial: 5 estrellas ANCAP también para el híbrido
+
+Es el dato que le faltaba a la ficha y viene del organismo competente: ANCAP evaluó el Jolion de gasolina y después sometió a la **versión híbrida** a dos pruebas destructivas adicionales —frontal offset y poste oblicuo— para comprobar la integridad de la batería y del sistema de alta tensión. El <a href=https://www.ancap.com.au/media-and-gallery/media-releases/alternative-powertrains-endorsed-with-five-star-safety>comunicado oficial de ANCAP</a> confirma que la nota de **5 estrellas** se extendió al híbrido, con un 90 % en protección de adultos, 84 % en infantil, 64 % en usuarios vulnerables y 92 % en asistentes según el informe completo. Matiz honesto: es una nota **ANCAP, no Euro NCAP**; Europa no lo ha evaluado porque Haval no vende turismos aquí, pero es una verificación independiente y exigente, no una afirmación de la marca.
+
+## La plataforma L.E.M.O.N. y el DHT, en contexto
+
+El Jolion se construye sobre la plataforma **L.E.M.O.N.** de GWM, la arquitectura ligera del grupo para sus SUV compactos, y su transmisión **DHT** es la primera híbrida dedicada con dos relaciones en el lado del motor térmico que el grupo puso en producción. En la práctica, el sistema trabaja en eléctrico puro a baja velocidad, en serie en ciudad y en paralelo en carretera, que es como se consiguen a la vez los **190 CV** y los **5,1 l/100 km** de la ficha. El maletero de **337 litros** sigue siendo el precio visible de alojar batería y depósito en un coche de 4,47 m con una batalla generosa de 2.700 mm.
+
+## Uso real: el SUV familiar que España no puede comprar
+
+Su uso real ideal es claro: familia que hace ciudad entre semana —donde el DHT pasa mucho tiempo en eléctrico y el consumo cae— y viajes el fin de semana, donde los 190 CV evitan la sensación de híbrido justo que transmiten rivales de 122-140 CV. No es enchufable, así que no hay rutina de carga ni etiqueta Cero: es el híbrido «de siempre» llevado a su mejor expresión de potencia. Sus límites son el maletero, una tracción delantera sin opción 4x4 y, en nuestro caso, la inexistencia misma de la oferta: ni precio español, ni red, ni garantía europea.
+
+## Mantenimiento de un híbrido DHT
+
+Un HEV como este concentra su mantenimiento en el motor de gasolina (aceite, filtros, bujías) y en los consumibles habituales, con la ventaja de unos frenos longevos por la frenada regenerativa y sin correa de distribución en la lista de grandes gastos. La transmisión DHT es una unidad sellada específica: fuera de una red oficial, su reparación sería el punto débil de un coche importado por libre. En los mercados donde GWM sí opera, la marca respalda estos modelos con su red y programas de mantenimiento locales, que es exactamente lo que un comprador español no tendría.
+
+## Normativa: etiqueta ECO teórica y el muro de la homologación
+
+Por su condición de híbrido no enchufable, si se homologara en Europa le correspondería la **etiqueta ECO** de la DGT, la ventaja urbana real frente a un gasolina puro. Pero sin homologación europea la etiqueta es teórica, y su nota de seguridad de referencia seguirá siendo la australiana: en Euro NCAP figura, sencillamente, como **sin datos** para este modelo y mercado.
+
+## Rivales y veredicto: ¿merece la pena?
+
+En su segmento manda el <a href=/coches/toyota-corolla-cross-200h-2025-precio-ficha-tecnica/>Toyota Corolla Cross híbrido</a>, al que el propio análisis compara: el Jolion gana en potencia y pierde en red y maletero. Dentro de casa, el <a href=/coches/haval-h6-hev-2025-precio-ficha-tecnica/>Haval H6 HEV</a> (243 CV y desde 33.800 € en nuestra ficha) es el hermano grande para quien el Jolion se queda corto. **Veredicto:** como producto, el Jolion HEV merece la pena claramente en los mercados donde se vende: potencia, consumo y una nota de seguridad verificada por un precio chino. Como compra desde España, no hay veredicto posible: es el escaparate de lo que GWM podría vender aquí si decidiera traer Haval, y mientras eso no ocurra, toca mirar —y jugar al <a href=/juego-monos/>juego caza-monos</a>— desde la barrera.
+
 ## Preguntas frecuentes
 
 ### ¿Qué potencia tiene el Jolion HEV?
@@ -1627,7 +1675,7 @@ No: Haval no opera en España; el grupo GWM vende la marca Ora.
 ### ¿Qué maletero tiene?
 Entre 337 y 390 litros según la versión.
 
-*Fuentes: <a href=https://www.gwm.com>GWM oficial</a>, gwm.com.ar*
+*Fuentes: <a href=https://www.gwm.com>GWM oficial</a>, gwm.com.ar, <a href=https://www.ancap.com.au/media-and-gallery/media-releases/alternative-powertrains-endorsed-with-five-star-safety>ANCAP — extensión de las 5 estrellas a la versión híbrida del Jolion</a>*
 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
   },
