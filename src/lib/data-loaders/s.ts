@@ -288,6 +288,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "swm-six-days-500-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m3.ts"),
     "swm-sm-500-r-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m3.ts"),
     "swm-superdual-650-2024-precio": () => import("../blog-posts-motos-exp-m29.ts"),
+    "swm-superdual-x-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t11.ts"),
     "swm-tiger-2026-precio-ficha-tecnica": () => import("../blog-posts-batch2b-5.ts"),
     "swm-tiger-suv-2026-precio-ficha": () => import("../blog-posts-lote3.ts"),
     "swm-varez-125-2023-ficha-tecnica-precio": () => import("../blog-posts-lote8.ts"),
