@@ -82,7 +82,9 @@ El **BYD Dolphin Surf** es tercero del acumulado anual con 4.334 unidades y el *
 Tesla anunció 486.532 entregas en el tercer trimestre de 2026, por encima del consenso, y en Europa sus matriculaciones de enero a agosto subieron cerca de dos tercios interanual según ACEA.
 
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: <a href=https://anfac.com>ANFAC</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
   },
   {
     title: "NIU NQi Sport: scooter eléctrico con 130 km por 1.999 €",
@@ -163,7 +165,9 @@ Navegación con Google Maps integrada, radar trasero de ángulo muerto, ABS, pan
 NIU declara 25 puntos de venta entre España y Portugal y unas 300 unidades vendidas a particulares en 2026, con una cuota del 6,5%.
 
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: <a href=https://global.niu.com/product/FQiX-150>NIU (web oficial)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
   },
   {
     title: "Flying Flea C6: la eléctrica de Royal Enfield por 5.990 €",
@@ -248,6 +252,8 @@ Del 20 al 80% en unos 65 minutos en una toma convencional.
 Su estética clásica con horquilla Girder de aluminio forjado, los 115 km/h de velocidad máxima, solo 124 kg de peso, el ABS en curva y el premio Red Dot Award 2025 de diseño.
 
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: <a href=https://flyingflea.royalenfield.com/in/en/product/c6/>Flying Flea (web oficial de Royal Enfield)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
   },
 ];

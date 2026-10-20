@@ -84,7 +84,9 @@ Nuevos colores (S en Jet Black, SR/F en Thermal, DS en Quicksand, DSR/X en Silve
 ### ¿Dónde se puede comprar en Europa?
 Solo en **concesionarios Zero europeos participantes**, hasta agotar las 20 unidades asignadas al continente.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: <a href=https://www.zeromotorcycles.com/zero-srf/>Zero Motorcycles (web oficial, SR/F)</a>, <a href=https://www.eicma.it/en/zero-motorcycles-celebrates-two-decades-with-exclusive-sr-f-and-fresh-paint-schemes/>EICMA (organizador oficial del salón de Milán)</a>.*`,
 },
 {
   title: "Honda WN7 eléctrica por 15.000 €",
@@ -174,6 +176,8 @@ Sí: la **carcasa de la batería funciona como elemento estructural**, sin un ch
 ### ¿Dónde puedo ver la ficha técnica completa?
 En la <a href=/motos/honda-wn7-electrica-precio-espana-15000/>ficha de la Honda WN7 del comparador</a>, con fotos oficiales, pros y contras y todos los datos verificados.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: <a href=https://www.honda.es/motorcycles/range/electric/wn7/overview.html>Honda España (WN7)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
 },
 ];

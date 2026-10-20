@@ -156,7 +156,9 @@ Los pedidos están abiertos desde el **1 de octubre de 2026**.
 El Hybrid+ es la opción para quien no quiere ni oír hablar de cables; su hermano enchufable ofrece más de 100 km de autonomía eléctrica y etiqueta Cero.
 
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: <a href=https://www.mgmotor.es>MG Motor España (web oficial)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
 },
 {
   title: "BYD Dolphin Surf 2026: ahora con 5 plazas por 350 € más",
@@ -233,7 +235,9 @@ La quinta plaza opcional en Boost y Comfort por 350 €, climatizador automátic
 6 años o 150.000 km para el coche y 8 años o 250.000 km para la batería.
 
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: <a href=https://www.byd.com/es>BYD España (web oficial)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
 },
 {
   title: "Dongfeng Vigo y Mage desde 26.615 €: los SUV electrificados",
@@ -318,6 +322,8 @@ Ambos llevan la **etiqueta Cero**: el Vigo por ser 100% eléctrico y el Mage por
 El importador **Salvador Caetano Auto**, con 25 concesionarios en España y almacén de recambios propio con entrega en 24-48 horas.
 
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: <a href=https://www.dongfeng-auto.es>Dongfeng España (web oficial)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
 },
 ];
