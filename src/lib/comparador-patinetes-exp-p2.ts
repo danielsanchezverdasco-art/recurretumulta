@@ -395,7 +395,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     modelo: "Bongo D40 XL Suspension Connected",
     precioEur: 386,
     potenciaNominalW: 350,
-    potenciaPicoW: 700,
+    potenciaPicoW: 800,
     autonomiaKm: 40,
     autonomiaRealKm: 27,
     velocidadMaxKmh: 25,
@@ -421,7 +421,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["precioEur", "autonomiaRealKm", "potenciaNominalW", "potenciaPicoW", "bateriaWh"],
+    aprox: ["precioEur", "autonomiaRealKm", "potenciaNominalW", "bateriaWh"],
     pros: [
       "La variante del D40 XL con suspensión: el confort que le faltaba al básico",
       "40 km declarados con batería de 360 Wh",
