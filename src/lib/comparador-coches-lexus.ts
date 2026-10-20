@@ -898,7 +898,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
     categoria: "Berlina",
     precioDesde: 66100,
     potenciaCv: 343,
-    autonomiaKm: null,
+    autonomiaKm: 465,
     maleteroL: 517,
     ceroCien: null,
     velocidadMax: null,
@@ -913,7 +913,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
       "Silencio absoluto con el refinamiento de una berlina de representación",
     ],
     contras: [
-      "Autonomía WLTP sin publicar por Lexus todavía",
+      "Autonomía WLTP oficial de 465 km: menos que algunos rivales chinos de precio similar",
       "Sin dato oficial de 0-100 ni de velocidad máxima",
       "Sin dato WLTP de consumo publicado",
       "Solo un acabado disponible (Signature): poca personalización",

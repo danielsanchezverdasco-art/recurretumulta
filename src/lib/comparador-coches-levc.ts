@@ -23,7 +23,7 @@ export const COCHES_LEVC: CocheComparador[] = [
     modelo: "TX",
     tipo: "Híbrido de autonomía extendida",
     categoria: "Monovolumen",
-    precioDesde: 87000,
+    precioDesde: 77781,
     potenciaCv: 150,
     autonomiaKm: 103,
     maleteroL: null,
@@ -40,7 +40,7 @@ export const COCHES_LEVC: CocheComparador[] = [
       "Intervalos de mantenimiento de 40.000 km, pensados para uso intensivo",
     ],
     contras: [
-      "Precio muy alto: desde unas 74.000 £ (≈87.000 €) en Reino Unido",
+      "Precio publicado en Reino Unido desde 65.916 £ (≈77.781 €), sin venta oficial en España",
       "Solo 103 km eléctricos: fuera de la ciudad vive del extensor",
       "0-100 km/h en 13,2 s: es un taxi, no un deportivo",
       "Velocidad máxima de 129 km/h",
@@ -56,7 +56,7 @@ export const COCHES_LEVC: CocheComparador[] = [
     parNm: null,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     imagen: "/media/levc-tx-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -123,7 +123,7 @@ export const COCHES_LEVC: CocheComparador[] = [
       "Intervalos de mantenimiento de 40.000 km",
     ],
     contras: [
-      "Precio no publicado por LEVC para el mercado español",
+      "LEVC no publica precio oficial de la versión Shuttle",
       "Enfocado a flotas: no es un vehículo familiar convencional",
       "0-100 km/h en 13,2 s y 129 km/h de máxima",
       "El motor-generador de gasolina enciende en trayectos largos",
@@ -272,7 +272,7 @@ export const COCHES_LEVC: CocheComparador[] = [
     modelo: "L380",
     tipo: "Eléctrico",
     categoria: "Monovolumen",
-    precioDesde: 49390,
+    precioDesde: 50653,
     potenciaCv: 269,
     autonomiaKm: 675,
     maleteroL: null,
@@ -289,7 +289,7 @@ export const COCHES_LEVC: CocheComparador[] = [
       "Versión de 4 motores y 544 CV con 805 km de autonomía disponible en China",
     ],
     contras: [
-      "Solo a la venta en China: desde 379.900 ¥ (≈49.390 €)",
+      "aprox. 50.653 € según tarifa oficial china (379.900 CNY), sin venta oficial en España",
       "Sin fecha confirmada de llegada a Europa",
       "Tamaño de furgoneta: 5.316 mm de largo, complicado en ciudad",
       "Autonomía CLTC: en ciclo europeo sería sensiblemente menor",
