@@ -1389,6 +1389,40 @@ La asignación fue por invitación directa a coleccionistas. Lleva etiqueta **EC
 | Presentado en mayo de 2026 | Mantenimiento de pieza única |
 | El más exclusivo jamás hecho | Sin mercado secundario |
 
+## Contexto: la serie de los pocos, llevada al extremo
+
+Lamborghini reserva sus creaciones más radicales a series limitadísimas que la propia casa presenta en su <a href=https://www.lamborghini.com/en-en>web oficial</a> como escaparate de diseño y tecnología: coches que adelantan el lenguaje de los modelos de serie y que se asignan a coleccionistas antes de hacerse públicos. El Fenomeno coupé fue uno de ellos, con 29 unidades. Este Roadster, presentado en mayo de 2026 según el artículo, reduce aún más la tirada: **15 unidades** con techo desmontable. No es una versión más de un modelo de gama; es el cierre descapotable de un proyecto nacido ya como pieza de colección, y su precio ni siquiera se ha anunciado oficialmente: el post recoge los rumores que lo sitúan en torno a 7 millones de dólares, y conviene repetir que es eso, un rumor, no una cifra de la marca.
+
+## Profundidad técnica: el V12 híbrido, sin techo de por medio
+
+Los datos del artículo proceden del coupé que el Roadster hereda: V12 atmosférico de 6,5 litros con **835 CV**, tres motores eléctricos que elevan el total a **1.080 CV**, tracción total y **350 km/h** de velocidad máxima en la tabla de la ficha. La hibridación en un Lamborghini de este nivel no busca ahorrar combustible: busca respuesta inmediata, tracción gestionada electrónicamente y cumplir la normativa de emisiones sin renunciar al V12 atmosférico, que es el corazón emocional del coche. Quitar el techo en un conjunto así obliga a reforzar el monocasco de carbono para no perder rigidez, un trabajo invisible que explica parte del precio y de la limitación de la serie.
+
+| Lectura práctica | Dato del post |
+|---|---|
+| Potencia total | 1.080 CV |
+| Motor térmico | V12 6.5 atmosférico, 835 CV |
+| Apoyo eléctrico | 3 motores eléctricos |
+| Velocidad máxima | 350 km/h |
+| Producción | 15 unidades |
+
+## Uso real: colección primero, conducción después
+
+El uso real de un Fenomeno Roadster se parece poco al de cualquier otro descapotable: salidas contadas, eventos, concentraciones y custodia en colección climatizada. Con 1.080 CV y tracción total es, sobre el papel, utilizable en carretera abierta, pero su valor de mercado y su irrepetibilidad condicionan cada kilómetro. La limitación honesta es que ni siquiera cabe hablar de compra normal: la asignación fue por invitación directa a coleccionistas y está agotado. Para el resto, su función es la de siempre en estas series: mostrar hasta dónde puede llegar Sant'Agata cuando el precio deja de ser una restricción.
+
+## Mantenimiento y costes de uso
+
+No hay una tabla pública de mantenimiento para una serie de 15 unidades, y sería irresponsable inventarla. Lo verificable es el principio general de estos programas: el mantenimiento lo realiza la red oficial de la marca o sus especialistas certificados, con piezas específicas de muy baja tirada y revisiones programadas aunque el coche apenas ruede, porque los fluidos y los componentes también envejecen parados. En un coche así, el historial de mantenimiento oficial no es un gasto: es parte del valor del activo y de su futura reventa entre coleccionistas.
+
+## Normativa: etiqueta ECO y homologación de serie corta
+
+La ficha le asigna **etiqueta ECO**, coherente con su condición de híbrido enchufable según los criterios de la <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/distintivo-ambiental/>DGT</a>: una curiosidad normativa en un coche de 1.080 CV, que ilustra que el distintivo clasifica la tecnología, no las prestaciones. Las series tan cortas se homologan bajo regímenes de pequeña serie, y en España una unidad matriculada pasaría su ITV como cualquier turismo según su antigüedad. Se conduce con el permiso B, aunque sobra decir que la cabeza fría es aquí un equipamiento obligatorio.
+
+## Rivales y veredicto: ¿merece la pena?
+
+Su rival natural es su propio hermano, el <a href=/coches/lamborghini-fenomeno-2025-precio-ficha-tecnica/>Fenomeno coupé</a>, y el resto de hiperdeportivos descapotables de serie ultracorta de las marcas italianas y británicas. Puedes seguir soñando en el <a href=/comparador-coches/>comparador de coches</a> y bajar a tierra con el <a href=/juego-monos/>juego caza-monos</a>.
+
+**Veredicto: ¿merece la pena?** Para quién sí: para los 15 coleccionistas invitados, que adquieren el Lamborghini descapotable más exclusivo jamás fabricado y una pieza con trayectoria de valor casi asegurada por su escasez. Para quién no: para cualquier otro perfil, por la sencilla razón de que no se puede comprar; y como ejercicio de conducción pura, el coupé ofrece lo mismo con más rigidez y por menos dinero teórico.
+
 ## Preguntas frecuentes
 
 ### ¿Cuántas unidades del Fenomeno Roadster existen?
@@ -1411,6 +1445,6 @@ El techo desmontable y una producción aún más limitada (15 frente a 29).
 
 Si te ha llegado una multa con tu Lamborghini, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: cobertura de italpassion y universomotor.*`
+*Fuentes: cobertura de italpassion y universomotor., <a href=https://www.lamborghini.com/en-en>Lamborghini — web oficial</a> y <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/distintivo-ambiental/>DGT — distintivo ambiental</a>*`
   },
 ];

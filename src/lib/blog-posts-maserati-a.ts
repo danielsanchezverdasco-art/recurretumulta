@@ -666,6 +666,40 @@ Con 12,4 l/100 km y 281 g/km, lleva etiqueta **C** (<a href=https://www.cupra.co
 | 158.100 € (km77) | Producción finalizada |
 | El último V8 en berlina | 2.035 kg |
 
+## Contexto: el Ghibli más rápido, y el último V8 de la berlina
+
+El Ghibli devolvió a Maserati al segmento de las berlinas ejecutivas, y el Trofeo es su cima y su despedida: la propia marca estructuró la gama en su <a href=https://www.maserati.com/es/es/modelos/ghibli>página oficial del Ghibli</a>, con el Trofeo coronando la familia. Su dato de presentación lo dice todo: con **326 km/h**, es la berlina más rápida de la historia de Maserati. También es, como señala el artículo, el canto del cisne del V8 en una berlina de la casa: después de él, la estrategia de la marca pasa por los V6 Nettuno y la electrificación. Eso convierte a cada unidad en un final de etapa con matrícula, un argumento que en el mercado de ocasión pesa cada vez más a medida que los V8 desaparecen de los catálogos.
+
+## Profundidad técnica: 580 CV solo al eje trasero
+
+La tabla de este artículo describe una berlina de la vieja escuela: V8 3,8 biturbo de **580 CV y 730 Nm**, tracción **trasera**, 0-100 en **4,3 segundos**, **326 km/h**, **2.035 kg** y un consumo WLTP de **12,4 l/100 km** con emisiones de **281 g/km**. La decisión técnica definitoria es enviar toda esa potencia solo atrás: sus rivales alemanes equivalentes apuestan por la tracción total para domesticar cifras parecidas, y Maserati prefirió el carácter —y la exigencia— de un eje trasero que, como advierte el post, pide respeto en mojado. En seco y en autopista abierta, esa configuración y el V8 de origen Ferrari en su concepción dan al Trofeo una personalidad que las cifras no capturan.
+
+| Lectura práctica | Dato del post |
+|---|---|
+| Motor | V8 3.8 biturbo |
+| Potencia | 580 CV, 730 Nm |
+| Tracción | Trasera |
+| Velocidad máxima | 326 km/h |
+| Precio en España | 158.100 euros (km77) |
+
+## Uso real: autopista y representación, con la etiqueta en contra
+
+Donde el Trofeo brilla es en viaje rápido por autopista y como berlina de representación con un sonido que ningún diésel ni híbrido de su segmento imita. Donde paga es en todo lo demás: 12,4 litros oficiales que en uso real deportivo serán más, 2.035 kg que se notan en rotondas y puertos, y una **etiqueta C** que limita su futuro en las zonas de bajas emisiones según los criterios de la <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/distintivo-ambiental/>DGT</a>. El artículo confirma que la producción terminó con el fin del V8, así que el mercado es ya exclusivamente el de ocasión, donde el estado y el historial mandan sobre el precio anunciado.
+
+## Mantenimiento y costes de uso
+
+Maserati no publica una tabla abierta de costes de mantenimiento para este modelo en España, y no vamos a inventarla. Lo honesto es el planteamiento: un V8 biturbo de 580 CV se mantiene en red oficial o en especialistas de la marca, con neumáticos traseros que soportan 730 Nm, frenos dimensionados para detener dos toneladas desde velocidades muy altas y revisiones cuyo coste pertenece a la categoría de las berlinas deportivas de lujo. Antes de comprar una unidad conviene exigir el historial completo y presupuestar los consumibles, porque en este segmento el mantenimiento aplazado se paga multiplicado.
+
+## Normativa: etiqueta C e ITV
+
+Con **etiqueta C**, el Ghibli Trofeo puede circular por toda España y acceder a las zonas de bajas emisiones con las restricciones que cada ordenanza municipal aplique a ese distintivo, crecientes en las grandes capitales. Como cualquier turismo, está sujeto a la ITV periódica según su antigüedad, y se conduce con el permiso B; ningún carnet especial habilita a usar 326 km/h fuera de un circuito cerrado, que es donde una velocidad así tiene sentido legal.
+
+## Rivales y veredicto: ¿merece la pena?
+
+El propio artículo lo mide con el BMW M5 y el Mercedes-AMG E 63 de su época: en velocidad punta gana el italiano; en aceleración y en uso bajo lluvia, los alemanes con tracción total juegan otra liga. Dentro de la casa, las alternativas eran el Ghibli GT híbrido y el Modena de V6, que puedes comparar en el <a href=/comparador-coches/>comparador de coches</a> junto al resto de berlinas deportivas. Y para despejarte, el <a href=/juego-monos/>juego caza-monos</a>.
+
+**Veredicto: ¿merece la pena?** Para quién sí: para quien quiere la última berlina V8 de Maserati y la más rápida de su historia, asumiendo consumo, etiqueta C y costes de deportivo de lujo; como pieza de fin de era tiene un relato sólido. Para quién no: para quien busque eficiencia, tracción total para todo el año o un valor seguro de reventa sin sobresaltos; ahí las alternativas alemanas equivalentes son la compra racional.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto costaba el Ghibli Trofeo?
@@ -688,7 +722,7 @@ No: la producción terminó con el fin del V8.
 
 Si te ha llegado una multa con tu Maserati, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: <a href=https://www.km77.com/coches/maserati/mc20/2023/datos?amp=1>precio en km77</a>, folleto oficial de Maserati.*`
+*Fuentes: <a href=https://www.km77.com/coches/maserati/mc20/2023/datos?amp=1>precio en km77</a>, folleto oficial de Maserati., <a href=https://www.maserati.com/es/es/modelos/ghibli>Maserati España — Ghibli</a> y <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/distintivo-ambiental/>DGT — distintivo ambiental</a>*`
   },
   {
     "title": "Quattroporte GT: precio y ficha técnica",
