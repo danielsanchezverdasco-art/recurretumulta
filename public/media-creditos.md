@@ -8044,3 +8044,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/horwin-ds1-2025-ficha-tecnica-precio-hunt1.webp | https://motoselectricas.tech/backend-images/blocks/banner/xl/29c9fc83aa471f96e737817857da76e9ed716a1dd98a37bbfd285e5f611b5a08/horwin-slider-ds.webp | Motoselectricas.tech (distribuidor Horwin) | desconocida |
 | /media/horwin-ds1-2025-ficha-tecnica-precio-hunt2.webp | https://motoselectricasbuzz.com/wp-content/uploads/2023/07/horwin-ds1-blanca.jpg | Motos Eléctricas Buzz (distribuidor Horwin) | desconocida |
 | /media/horwin-ds1-2025-ficha-tecnica-precio-hunt3.webp | http://motoselectricas.tech/backend-images/product/hero/full/a4e343dcf266631bb40a7e1008c8d9a2d7f2cc6456e3151a3af79e23b5bfdacb/horwin-ds1-port.webp | Motoselectricas.tech (imagen de producto de estudio del fabricante/distribuidor) | desconocida |
+| /media/audi-rs-q8-performance-2025-precio-ficha-tecnica-hunt1.webp | https://rpmweb.ca/medias/Audi_RS_Q8_performance_2025-5.jpg | Audi (prensa) vía RPMWeb | desconocida |
+| /media/audi-rs-q8-performance-2025-precio-ficha-tecnica-hunt2.webp | https://www.motoringresearch.com/wp-content/uploads/2025/07/007-Audi-RS-Q8-Performance-Review-1.jpg | Motoring Research (prueba RS Q8 Performance) | desconocida |
+| /media/audi-rs-q8-performance-2025-precio-ficha-tecnica-hunt3.webp | https://rpmweb.ca/medias/Audi_RS_Q8_performance_2025-4.jpg | Audi (prensa) vía RPMWeb | desconocida |
+| /media/chery-tiggo-7-pro-2026-precio-ficha-tecnica-hunt1.webp | https://chery.co.mz/wp-content/uploads/Tiggo-7.jpg-1.webp | Chery / CMH Chery (chery.co.mz) | desconocida |
+| /media/chery-tiggo-7-pro-2026-precio-ficha-tecnica-hunt2.webp | https://autochat.gedb.com.cn/uploadfile/202310/383d1075c9b3242.jpg | Chery International (cheryinternational.com) | desconocida |
+| /media/chery-tiggo-7-pro-2026-precio-ficha-tecnica-hunt3.webp | https://autoua.net/media/uploads2/chery/chery_t_7.jpg | Chery (prensa) vía AutoUA | desconocida |
+| /media/kawasaki-z900-2024-ficha-tecnica-precio-hunt1.webp | https://www.totalmotorcycle.com/wp-content/uploads/2023/09/2024-Kawasaki-Z900-ABS2-1200x757.jpg | Kawasaki (prensa) vía Total Motorcycle | desconocida |
+| /media/kawasaki-z900-2024-ficha-tecnica-precio-hunt2.webp | https://www.totalmotorcycle.com/wp-content/uploads/2023/09/2024-Kawasaki-Z900-ABS4-1200x901.jpg | Kawasaki (prensa) vía Total Motorcycle | desconocida |
+| /media/kawasaki-z900-2024-ficha-tecnica-precio-hunt3.webp | https://www.totalmotorcycle.com/wp-content/uploads/2023/09/2024-Kawasaki-Z900-ABS1-1200x901.jpg | Kawasaki (prensa) vía Total Motorcycle | desconocida |
+| /media/efun-deer-2025-ficha-tecnica-precio-hunt1.webp | https://www.efunmotos.com/wp-content/uploads/2025/11/DEER_NEGRA.jpg | Efun (efunmotos.com) | desconocida |
+| /media/efun-deer-2025-ficha-tecnica-precio-hunt2.webp | https://e-bakosis.gr/wp-content/uploads/2025/03/e-fun-deer-white_04.jpg | E-Bakosis / Efun (distribuidor oficial) | desconocida |
+| /media/efun-deer-2025-ficha-tecnica-precio-hunt3.webp | https://e-bakosis.gr/wp-content/uploads/2025/03/e-fun-deer-white_05.jpg | E-Bakosis / Efun (distribuidor oficial) | desconocida |
