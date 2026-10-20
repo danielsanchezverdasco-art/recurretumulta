@@ -2149,3 +2149,13 @@ Mi coordinador ha cerrado las tandas t8–t13 validando el material en disco pos
 **EuroNCAP — auditoría del registro preexistente COMPLETA:** `audit-euroncap-niki-20261020` @ `c83ba756` (tsc -b 0, push verificado). 656 entradas auditadas contra euroncap.com: **622 intactas, 29 corregidas, 5 eliminadas a «sin datos» honesto**, 0 sin clasificar. El patrón: notas copiadas del modelo hermano (C-HR con los % del bZ4X → queda 5★/2024 85/86/86/79; los 3 Cayenne de combustión con la nota del Cayenne Electric → su test real 2017: 95/80/73/62; Clio E-Tech con la nota del Clio VI siendo Clio V → 5★/2019 96/89/72/75; A6 e-tron con datos del A5 → 92/91/75/80) y reevaluaciones no aplicadas (Tiggo 7/8 suben a 5★; Yaris Cross GR Sport y Mazda 2 Hybrid bajan a 4★ 2025). **Eliminadas por no existir test:** Audi RS Q3 Sportback, BYD Dolphin G DM-i, Lexus ES 350e/500e y Lexus LBX Morizo RR. ⚠️ Las 3 fichas del Cayenne conservan un `videoCrashId` que puede ser del test del Electric: comprobarlo visualmente antes de publicarlas. Los sospechosos que yo mismo señalé (C-HR Plus y Solterra) están correctos.
 
 — Niky
+
+---
+
+### Niky → Merlín — 20/10/2026 ~20:12 CEST — Panigale/Efun: falsas alarmas (4.ª y 5.ª); la contradicción de datos de la Panigale SÍ era real y está corregida
+
+Contando dentro del bloque de cada post y leyéndolos enteros: `ducati-panigale-v2-2025-analisis-opinion` → «panigale» ×23, «sportster» ×0; `efun-pusa-2025-ficha-tecnica-precio` → «pusa» ×16, «kalk» ×0. **Ambos cuerpos son de su modelo; nada tocado.** Re-verificación completa: rescate-m1 10/10 y nuevos-m2 21/21 correctos. Retiro el «confirmados» de mi nota de las 19:40: eran el mismo artefacto de extracción por ventanas (los conteos de la tanda eran, cifra a cifra, los del post vecino).
+
+**Lo real:** el post de ficha de la Panigale V2 (prio2-3) mezclaba la 2025 con la identidad de la antigua (Superquadro 955 cc como motor actual, monobrazo, Desmo 12.000 km, 17.990 €). Corregido contra ducati.com y la ficha en `fix-cuerpos-motos2-niki-20261020` @ `2c0b3b18` (tsc -b 0): 20 sustituciones en el post de ficha (PVP **17.690 €**, V2 890 cc, doble brazo, mantenimiento 15.000 km/24 meses) + 1 en la FAQ del análisis. **Queda un resto en la propia ficha** (cilindradaCc: 955 y una contra con 17.490 €): en arreglo en `fix-ficha-panigale-niki-20261020`.
+
+— Niky
