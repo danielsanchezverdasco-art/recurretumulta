@@ -1485,7 +1485,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     modelo: "e-Access",
     version: "e-Access 2026",
     categoria: "Scooter",
-    precioDesde: 2000,
+    precioDesde: 1800, // 188.490 INR (tarifa oficial India) ÷ 106,559 (BCE 19/10/2026), redondeado a la centena
     potenciaKw: 4.1,
     potenciaCv: 5.6,
     cilindradaCc: null,
@@ -1513,6 +1513,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
       "122 kg: ligera y manejable en ciudad",
     ],
     contras: [
+      "Precio orientativo convertido desde la tarifa oficial india (188.490 INR)",
       "Solo se vende en India: sin planes confirmados para Europa",
       "71 km/h de punta: justa fuera de la ciudad",
       "4,1 kW: prestaciones modestas frente a rivales chinas",
@@ -1571,7 +1572,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     modelo: "Chetak",
     version: "Chetak 3502 2025",
     categoria: "Scooter",
-    precioDesde: 1300,
+    precioDesde: 1100, // 122.499 INR (tarifa oficial India, Chetak 3501) ÷ 106,559 (BCE 19/10/2026), redondeado a la centena
     potenciaKw: 4.2,
     potenciaCv: 5.7,
     cilindradaCc: null,
@@ -1598,6 +1599,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
       "Varias versiones de bateria (2,9 y 3,5 kWh) segun presupuesto",
     ],
     contras: [
+      "Precio orientativo convertido desde la tarifa oficial india (122.499 INR, Chetak 3501)",
       "No se vende oficialmente en Espana: solo mercado indio",
       "73 km/h de punta: justa en vias rapidas",
       "4,2 kW: prestaciones modestas",
@@ -1656,7 +1658,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     modelo: "450X",
     version: "450X 2025",
     categoria: "Scooter",
-    precioDesde: 1700,
+    precioDesde: 1500, // 157.000 INR (tarifa oficial India, versión 3,7 kWh) ÷ 106,559 (BCE 19/10/2026), redondeado a la centena
     potenciaKw: 6.4,
     potenciaCv: 8.7,
     cilindradaCc: null,
@@ -1683,6 +1685,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
       "Precio orientativo de unos 1.700 euros en India",
     ],
     contras: [
+      "Precio orientativo convertido desde la tarifa oficial india (157.000 INR, versión 3,7 kWh)",
       "No se vende en Espana: solo mercado indio",
       "90 km/h de punta: suficiente en ciudad, justa fuera",
       "La conectividad avanzada depende de servicios disponibles solo en India",
@@ -1741,7 +1744,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     modelo: "S1 Pro",
     version: "S1 Pro Gen 3 2025",
     categoria: "Scooter",
-    precioDesde: 1500,
+    precioDesde: 1700, // 184.999 INR (tarifa oficial India, versión 5,3 kWh) ÷ 106,559 (BCE 19/10/2026), redondeado a la centena
     potenciaKw: 11,
     potenciaCv: 15,
     cilindradaCc: null,
@@ -1768,6 +1771,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
       "Precio orientativo desde unos 1.500 euros en India: relacion cifras/precio imbatible",
     ],
     contras: [
+      "Precio orientativo convertido desde la tarifa oficial india (184.999 INR, versión 5,3 kWh)",
       "No se vende en Espana: solo mercado indio",
       "Los 320 km son en ciclo IDC indio, muy optimista frente al uso real",
       "Ola ha tenido problemas de calidad y servicio en India segun la prensa",

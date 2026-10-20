@@ -17,7 +17,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 125,
     categoria: "Scooter",
-    precioDesde: 3199,
+    precioDesde: 3199, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 9.2,
     potenciaCv: 12.5,
     autonomiaKm: null,
@@ -30,7 +30,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "El scooter 125 más vendido de España durante años: fiabilidad probadísima",
       "Motor eSP+ de 4 válvulas con 12,5 CV: de los más potentes y eficientes del segmento",
@@ -103,7 +103,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 125,
     categoria: "Scooter",
-    precioDesde: 4190,
+    precioDesde: 4190, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 9.6,
     potenciaCv: 13,
     autonomiaKm: null,
@@ -116,7 +116,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Ruedas de 16 pulgadas: el scooter 125 más estable y seguro en ciudad y circunvalación",
       "Motor eSP+ de 13 CV con control de tracción HSTC: el 125 de rueda alta más potente",
@@ -188,7 +188,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 125,
     categoria: "Scooter",
-    precioDesde: 3100,
+    precioDesde: 3100, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 8.3,
     potenciaCv: 11.3,
     autonomiaKm: null,
@@ -201,7 +201,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     carnet: "A1 (B+3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "El acceso más barato al mundo SH: rueda alta y calidad Honda por 3.100 €",
       "Asiento a solo 765 mm: de los scooters más accesibles para gente de baja estatura",
@@ -269,7 +269,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 125,
     categoria: "Scooter",
-    precioDesde: 5499,
+    precioDesde: 5499, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 8.8,
     potenciaCv: 12,
     autonomiaKm: null,
@@ -282,7 +282,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "El GT de los 125: presencia, aplomo y capacidad de maxiscooter de verdad",
       "Motor Blue Core de 12 CV con control de tracción: fino y eficiente",
@@ -354,7 +354,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 125,
     categoria: "Scooter",
-    precioDesde: 3599,
+    precioDesde: 3599, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 9,
     potenciaCv: 12.2,
     autonomiaKm: null,
@@ -367,7 +367,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor Blue Core de 12,2 CV con distribución variable VVA: empuja en todo el rango",
       "Control de tracción y ABS de serie: seguridad de gama alta en un 125 urbano",
@@ -435,7 +435,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 125,
     categoria: "Scooter",
-    precioDesde: 2299,
+    precioDesde: 2399, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 6,
     potenciaCv: 8.2,
     autonomiaKm: null,
@@ -448,7 +448,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     carnet: "A1 (B+3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Solo 99 kg: el scooter 125 más ligero del mercado, se mueve con un dedo",
       "2.299 €: el Yamaha 125 más barato, ideal como primera moto",
@@ -515,7 +515,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 125,
     categoria: "Scooter",
-    precioDesde: 3499,
+    precioDesde: 3499, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 11,
     potenciaCv: 15,
     autonomiaKm: 317,
@@ -528,7 +528,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     carnet: "A1 (válido con B)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "15 CV: el scooter 125 más potente del mercado generalista",
       "Estética adventure con ruedas mixtas: el único 125 con look trail de verdad",
@@ -595,7 +595,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 125,
     categoria: "Scooter",
-    precioDesde: 6250,
+    precioDesde: 6300, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: 14,
     autonomiaKm: null,
@@ -608,7 +608,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     carnet: "A1 (B+3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "El icono italiano: diseño atemporal que no pasa de moda y revaloriza como ninguna",
       "Motor iGet de 14 CV: empuje brillante para un 125 clásico",
@@ -617,7 +617,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       "La Vespa con más presencia: la GTS es la gran turismo de la gama clásica",
     ],
     contras: [
-      "6.250 €: el scooter 125 más caro del mercado, se paga el mito",
+      "6.300 €: el scooter 125 más caro del mercado, se paga el mito",
       "148 kg: pesada para moverse en parado y aparcar",
       "El mantenimiento oficial Piaggio/Vespa es de los más caros",
       "Ruedas de 12 pulgadas: menos estables que un SH en baches",

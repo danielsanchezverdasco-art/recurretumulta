@@ -421,7 +421,7 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
     version: "L1e 2025",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: 5390,
+    precioDesde: null, // GOVECS no publica tarifa oficial vigente de la e-Schwalbe L1e (verificado 20/10/2026)
     potenciaKw: 2.5,
     potenciaCv: 3.4,
     autonomiaKm: 90,
@@ -434,7 +434,7 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
     carnet: "AM",
     carga: "Batería extraíble de 2,4 kWh; carga en enchufe doméstico",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "potenciaKw", "autonomiaKm"],
+    aprox: ["potenciaKw", "autonomiaKm"],
     pros: [
       "Diseño retro que revive la mítica Schwalbe de los años 60",
       "Batería extraíble: se carga en casa sin necesidad de garaje",
@@ -444,7 +444,7 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
       "Estética única: no hay otra igual en el semáforo",
     ],
     contras: [
-      "Precio elevado (~5.390 €) para un ciclomotor de 45 km/h",
+      "Sin precio oficial vigente publicado por GOVECS",
       "45 km/h: solo ciudad",
       "Red de distribución muy limitada en España",
       "Repuestos con plazos largos al venir de Alemania",
@@ -1314,7 +1314,7 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
     version: "Cargopro 2025",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: 7431,
+    precioDesde: 7431, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 5.9,
     potenciaCv: 8,
     autonomiaKm: 120,
@@ -1327,7 +1327,7 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
     carnet: "A1",
     carga: "2 baterías fijas de 48V (4,8 kWh); carga completa en 4,5 h, rápida opcional",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "potenciaKw"],
+    aprox: ["potenciaKw"],
     pros: [
       "Baúl de 180 litros: la reina del reparto de última milla",
       "Motor central con bajo centro de gravedad: muy estable con carga",
