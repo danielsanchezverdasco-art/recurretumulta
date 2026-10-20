@@ -987,6 +987,8 @@ export const COCHES_LOTE3: CocheComparador[] = [
       costeAnualAproxEur: null,
       fuente: "Sin programa oficial publicado (Dacia, 2026)",
     },
+    fuenteNombre: "Dacia España",
+    fuenteUrl: "https://www.dacia.es/concept-cars/hipster-concept.html",
   },
   {
     id: "dongfeng-rich-6-ev-2026-precio-ficha-tecnica",

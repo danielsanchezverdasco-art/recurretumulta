@@ -2309,6 +2309,22 @@ export const COCHES_EXP8: CocheComparador[] = [
   },
   {
     id: "dacia-jogger-hybrid-155-2026-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 1,
+      ano: 2021,
+      url: "https://www.euroncap.com",
+      nota: "Prueba oficial del Jogger 2021 (1 estrella): 70 % adultos, 69 % infantil, 41 % usuarios vulnerables y 39 % asistencias; misma generación que esta versión",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        { nombre: "Revisión periódica", queSeCambia: "Aceite y filtro de aceite, filtros, chequeo del sistema híbrido y puntos de control de seguridad según el programa de mantenimiento del modelo", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Dacia España — mi mantenimiento (https://www.dacia.es/mi-mantenimiento.html)",
+    },
+    fuenteNombre: "Dacia España",
+    fuenteUrl: "https://www.dacia.es/modelos/jogger.html",
     marca: "Dacia",
     modelo: "Jogger Hybrid 155",
     tipo: "Híbrido (HEV)",
@@ -2359,6 +2375,22 @@ export const COCHES_EXP8: CocheComparador[] = [
   },
   {
     id: "dacia-logan-tce-90-2026-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 2,
+      ano: 2021,
+      url: "https://www.euroncap.com/press-media/dacia-aims-low-while-%C5%A1koda-vw-electrify/",
+      nota: "Prueba oficial del Sandero Stepway 2021 (2 estrellas); Euro NCAP indica que la valoración cubre también al Sandero berlina y al Logan de la misma generación",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        { nombre: "Revisión periódica", queSeCambia: "Aceite y filtro de aceite, filtros y puntos de control de seguridad según el programa de mantenimiento del modelo", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Dacia España — mi mantenimiento (https://www.dacia.es/mi-mantenimiento.html)",
+    },
+    fuenteNombre: "Dacia España",
+    fuenteUrl: "https://www.dacia.es/",
     marca: "Dacia",
     modelo: "Logan TCe 90",
     tipo: "Gasolina",
@@ -2409,6 +2441,22 @@ export const COCHES_EXP8: CocheComparador[] = [
   },
   {
     id: "dacia-duster-hybrid-g-150-4x4-2026-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 3,
+      ano: 2024,
+      url: "https://www.euroncap.com",
+      nota: "Prueba oficial del Duster de tercera generación (2024; el modelo probado fue el Hybrid 140): 3 estrellas, 70 % adultos, 84 % infantil, 60 % usuarios vulnerables y 57 % asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        { nombre: "Revisión periódica", queSeCambia: "Aceite y filtro de aceite, filtros, chequeo del sistema híbrido, revisión del sistema de GLP y puntos de control de seguridad según el programa de mantenimiento del modelo", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Dacia España — mi mantenimiento (https://www.dacia.es/mi-mantenimiento.html)",
+    },
+    fuenteNombre: "Dacia España",
+    fuenteUrl: "https://www.dacia.es/modelos-hibridos-electricos/duster-suv.html",
     marca: "Dacia",
     modelo: "Duster Hybrid-G 150 4x4",
     tipo: "Híbrido (GLP)",
@@ -2459,6 +2507,22 @@ export const COCHES_EXP8: CocheComparador[] = [
   },
   {
     id: "dacia-bigster-hybrid-g-150-4x4-2026-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 3,
+      ano: 2025,
+      url: "https://www.euroncap.com",
+      nota: "Valoración oficial Euro NCAP del Bigster (mayo de 2025, protocolo 2024): 3 estrellas, 69 % adultos, 85 % infantil, 60 % usuarios vulnerables y 57 % asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        { nombre: "Revisión periódica", queSeCambia: "Aceite y filtro de aceite, filtros, chequeo del sistema híbrido, revisión del sistema de GLP y puntos de control de seguridad según el programa de mantenimiento del modelo", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Dacia España — mi mantenimiento (https://www.dacia.es/mi-mantenimiento.html)",
+    },
+    fuenteNombre: "Dacia España",
+    fuenteUrl: "https://www.dacia.es/modelos-hibridos-electricos/bigster-suv.html",
     marca: "Dacia",
     modelo: "Bigster Hybrid-G 150 4x4",
     tipo: "Híbrido (GLP)",

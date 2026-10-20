@@ -564,6 +564,22 @@ export const COCHES_EXP19: CocheComparador[] = [
   },
   {
     id: "dacia-duster-2026-mild-hybrid-140-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 3,
+      ano: 2024,
+      url: "https://www.euroncap.com",
+      nota: "Prueba oficial del Duster de tercera generación (2024; el modelo probado fue el Hybrid 140): 3 estrellas, 70 % adultos, 84 % infantil, 60 % usuarios vulnerables y 57 % asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        { nombre: "Revisión periódica", queSeCambia: "Aceite y filtro de aceite, filtros y puntos de control de seguridad según el programa de mantenimiento del modelo", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Dacia España — mi mantenimiento (https://www.dacia.es/mi-mantenimiento.html)",
+    },
+    fuenteNombre: "Dacia España",
+    fuenteUrl: "https://www.dacia.es/modelos-hibridos-electricos/duster-suv.html",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -625,6 +641,22 @@ export const COCHES_EXP19: CocheComparador[] = [
   },
   {
     id: "dacia-duster-2026-hybrid-155-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 3,
+      ano: 2024,
+      url: "https://www.euroncap.com",
+      nota: "Prueba oficial del Duster de tercera generación (2024; el modelo probado fue el Hybrid 140): 3 estrellas, 70 % adultos, 84 % infantil, 60 % usuarios vulnerables y 57 % asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        { nombre: "Revisión periódica", queSeCambia: "Aceite y filtro de aceite, filtros, chequeo del sistema híbrido y puntos de control de seguridad según el programa de mantenimiento del modelo", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Dacia España — mi mantenimiento (https://www.dacia.es/mi-mantenimiento.html)",
+    },
+    fuenteNombre: "Dacia España",
+    fuenteUrl: "https://www.dacia.es/modelos-hibridos-electricos/duster-suv.html",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -686,6 +718,22 @@ export const COCHES_EXP19: CocheComparador[] = [
   },
   {
     id: "dacia-duster-2026-eco-g-120-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 3,
+      ano: 2024,
+      url: "https://www.euroncap.com",
+      nota: "Prueba oficial del Duster de tercera generación (2024; el modelo probado fue el Hybrid 140): 3 estrellas, 70 % adultos, 84 % infantil, 60 % usuarios vulnerables y 57 % asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        { nombre: "Revisión periódica", queSeCambia: "Aceite y filtro de aceite, filtros, revisión del sistema de GLP y puntos de control de seguridad según el programa de mantenimiento del modelo", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Dacia España — mi mantenimiento (https://www.dacia.es/mi-mantenimiento.html)",
+    },
+    fuenteNombre: "Dacia España",
+    fuenteUrl: "https://www.dacia.es/modelos-hibridos-electricos/duster-suv.html",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -747,6 +795,22 @@ export const COCHES_EXP19: CocheComparador[] = [
   },
   {
     id: "dacia-bigster-2026-tce-140-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 3,
+      ano: 2025,
+      url: "https://www.euroncap.com",
+      nota: "Valoración oficial Euro NCAP del Bigster (mayo de 2025, protocolo 2024): 3 estrellas, 69 % adultos, 85 % infantil, 60 % usuarios vulnerables y 57 % asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        { nombre: "Revisión periódica", queSeCambia: "Aceite y filtro de aceite, filtros y puntos de control de seguridad según el programa de mantenimiento del modelo", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Dacia España — mi mantenimiento (https://www.dacia.es/mi-mantenimiento.html)",
+    },
+    fuenteNombre: "Dacia España",
+    fuenteUrl: "https://www.dacia.es/modelos-hibridos-electricos/bigster-suv.html",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -808,6 +872,22 @@ export const COCHES_EXP19: CocheComparador[] = [
   },
   {
     id: "dacia-bigster-2026-hybrid-155-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 3,
+      ano: 2025,
+      url: "https://www.euroncap.com",
+      nota: "Valoración oficial Euro NCAP del Bigster (mayo de 2025, protocolo 2024): 3 estrellas, 69 % adultos, 85 % infantil, 60 % usuarios vulnerables y 57 % asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        { nombre: "Revisión periódica", queSeCambia: "Aceite y filtro de aceite, filtros, chequeo del sistema híbrido y puntos de control de seguridad según el programa de mantenimiento del modelo", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Dacia España — mi mantenimiento (https://www.dacia.es/mi-mantenimiento.html)",
+    },
+    fuenteNombre: "Dacia España",
+    fuenteUrl: "https://www.dacia.es/modelos-hibridos-electricos/bigster-suv.html",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,

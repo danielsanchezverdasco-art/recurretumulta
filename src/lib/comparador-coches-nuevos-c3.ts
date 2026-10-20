@@ -1537,7 +1537,8 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
       notas: "Estimación con 15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,4 l/100 km",
       estimado: true,
     },
-    fuenteNombre: "seat.es",
+    fuenteNombre: "SEAT España",
+    fuenteUrl: "https://www.seat.es/coches/leon-5-puertas",
   },
   {
     id: "seat-ibiza-2025-precio-ficha-tecnica",
@@ -1588,7 +1589,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     analisisSlug: "seat-ibiza-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
-    euroncap: { estrellas: 5, ano: 2017, url: null, nota: "5 estrellas Euro NCAP (2017)" },
+    euroncap: { estrellas: 5, ano: 2022, url: null, nota: "Prueba oficial del Ibiza (restyling) 2022 (5 estrellas): 83 % adultos, 82 % infantil, 66 % usuarios vulnerables y 70 % asistencias; misma generación que la versión 2025" },
     planMantenimiento: {
       intervalo: "15.000 km o 12 meses (lo que antes ocurra)",
       revisiones: [
@@ -1610,7 +1611,8 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
       notas: "Estimación con 15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,2 l/100 km",
       estimado: true,
     },
-    fuenteNombre: "seat.es",
+    fuenteNombre: "SEAT España",
+    fuenteUrl: "https://www.seat.es/coches/ibiza",
   },
   {
     id: "skoda-karoq-2025-precio-ficha-tecnica",
@@ -1756,7 +1758,8 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
       notas: "Estimación con 15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,3 l/100 km",
       estimado: true,
     },
-    fuenteNombre: "dacia.es",
+    fuenteNombre: "Dacia España",
+    fuenteUrl: "https://www.dacia.es/modelos/sandero.html",
   },
   {
     id: "fiat-500x-2025-precio-ficha-tecnica",

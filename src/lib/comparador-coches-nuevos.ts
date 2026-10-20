@@ -2794,6 +2794,22 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   },
   {
     id: "dacia-tribrid-150-4x4-tres-energias",
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        { nombre: "Revisión periódica", queSeCambia: "Aceite y filtro de aceite, filtros, chequeo del sistema híbrido, revisión del sistema de GLP y puntos de control de seguridad según el programa de mantenimiento del modelo", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Dacia España — mi mantenimiento (https://www.dacia.es/mi-mantenimiento.html)",
+    },
+    fuenteNombre: "Dacia España",
+    fuenteUrl: "https://www.dacia.es/hibridos/motorizacion-tribrid.html",
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
@@ -6855,10 +6871,18 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     videoId: "-aOvCbWZrLY",
     videoCanal: "carwow España (JF Calero)",
     euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin prueba EuroNCAP del Spring 2024: la única calificación (1 estrella, 2021) corresponde al modelo anterior al restyling",
+      estrellas: 1,
+      ano: 2021,
+      url: "https://www.euroncap.com",
+      nota: "Prueba oficial del Spring 2021 (1 estrella): 49 % adultos, 56 % infantil, 39 % usuarios vulnerables y 32 % asistencias; el Spring 2024 es el restyling de esa misma generación",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        { nombre: "Revisión periódica", queSeCambia: "Filtro de polen, líquido de frenos y puntos de control de seguridad (incluida la batería de tracción) según el programa de mantenimiento del modelo", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Dacia España — mi mantenimiento (https://www.dacia.es/mi-mantenimiento.html)",
     },
     opiniones: [],
     fuenteNombre: "km77",

@@ -2044,6 +2044,22 @@ export const COCHES_EXP7: CocheComparador[] = [
   },
   {
     id: "seat-ibiza-fr-15-tsi-2026-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: "https://www.euroncap.com",
+      nota: "Prueba oficial del Ibiza (restyling) 2022 (5 estrellas): 83 % adultos, 82 % infantil, 66 % usuarios vulnerables y 70 % asistencias; misma generación que la versión 2026",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 2 años (servicio flexible LongLife, PR QG1) o 15.000 km o 1 año (servicio fijo, PR QG0/QG2), lo que ocurra antes",
+      revisiones: [
+        { nombre: "Inspección / servicio de aceite", queSeCambia: "Aceite y filtro de aceite + inspección general y filtro de polen según el plan de mantenimiento", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento oficial SEAT",
+    },
+    fuenteNombre: "SEAT España",
+    fuenteUrl: "https://www.seat.es/coches/ibiza",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -2110,6 +2126,22 @@ export const COCHES_EXP7: CocheComparador[] = [
   },
   {
     id: "seat-arona-fr-15-tsi-2026-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: "https://www.euroncap.com",
+      nota: "Prueba oficial del Arona (restyling) 2022 (5 estrellas): 83 % adultos, 83 % infantil, 65 % usuarios vulnerables y 70 % asistencias; misma generación que la versión 2026",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 2 años (servicio flexible LongLife, PR QG1) o 15.000 km o 1 año (servicio fijo, PR QG0/QG2), lo que ocurra antes",
+      revisiones: [
+        { nombre: "Inspección / servicio de aceite", queSeCambia: "Aceite y filtro de aceite + inspección general y filtro de polen según el plan de mantenimiento", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento oficial SEAT",
+    },
+    fuenteNombre: "SEAT España",
+    fuenteUrl: "https://www.seat.es/coches/arona",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -2176,6 +2208,22 @@ export const COCHES_EXP7: CocheComparador[] = [
   },
   {
     id: "seat-ateca-fr-20-tdi-2026-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2016,
+      url: "https://www.euroncap.com",
+      nota: "Prueba oficial del Ateca 2016 (5 estrellas): 93 % adultos, 84 % infantil, 71 % peatones y 60 % asistencias; es la única prueba Euro NCAP del modelo (misma generación)",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 2 años (servicio flexible LongLife, PR QG1) o 15.000 km o 1 año (servicio fijo, PR QG0/QG2), lo que ocurra antes",
+      revisiones: [
+        { nombre: "Inspección / servicio de aceite", queSeCambia: "Aceite y filtro de aceite + inspección general y filtro de polen según el plan de mantenimiento", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento oficial SEAT",
+    },
+    fuenteNombre: "SEAT España",
+    fuenteUrl: "https://www.seat.es/coches/suv-ateca",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -2242,6 +2290,22 @@ export const COCHES_EXP7: CocheComparador[] = [
   },
   {
     id: "seat-leon-15-etsi-150-2026-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2020,
+      url: "https://www.euroncap.com",
+      nota: "Prueba oficial del León de cuarta generación 2020 (5 estrellas): 92 % adultos, 88 % infantil, 71 % usuarios vulnerables y 80 % asistencias; misma generación que la versión 2026",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 2 años (servicio flexible LongLife, PR QG1) o 15.000 km o 1 año (servicio fijo, PR QG0/QG2), lo que ocurra antes",
+      revisiones: [
+        { nombre: "Inspección / servicio de aceite", queSeCambia: "Aceite y filtro de aceite + inspección general y filtro de polen según el plan de mantenimiento", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento oficial SEAT",
+    },
+    fuenteNombre: "SEAT España",
+    fuenteUrl: "https://www.seat.es/coches/leon-5-puertas",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -2308,6 +2372,22 @@ export const COCHES_EXP7: CocheComparador[] = [
   },
   {
     id: "seat-ibiza-fr-10-tsi-115-2026-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: "https://www.euroncap.com",
+      nota: "Prueba oficial del Ibiza (restyling) 2022 (5 estrellas): 83 % adultos, 82 % infantil, 66 % usuarios vulnerables y 70 % asistencias; misma generación que la versión 2026",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 2 años (servicio flexible LongLife, PR QG1) o 15.000 km o 1 año (servicio fijo, PR QG0/QG2), lo que ocurra antes",
+      revisiones: [
+        { nombre: "Inspección / servicio de aceite", queSeCambia: "Aceite y filtro de aceite + inspección general y filtro de polen según el plan de mantenimiento", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento oficial SEAT",
+    },
+    fuenteNombre: "SEAT España",
+    fuenteUrl: "https://www.seat.es/coches/ibiza",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,

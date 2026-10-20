@@ -1333,13 +1333,13 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     emisionesCo2: 121,
     etiquetaDgt: "C",
     euroncap: {
-      ano: null,
-      estrellas: null,
-      nota: "Sin datos EuroNCAP verificados en esta investigación",
-      url: null
+      ano: 2022,
+      estrellas: 5,
+      nota: "Prueba oficial del Arona (restyling) 2022 (5 estrellas): 83 % adultos, 83 % infantil, 65 % usuarios vulnerables y 70 % asistencias; misma generación que la versión 2026",
+      url: "https://www.euroncap.com"
     },
-    fuenteNombre: "km77",
-    fuenteUrl: null,
+    fuenteNombre: "SEAT España",
+    fuenteUrl: "https://www.seat.es/coches/arona",
     galeria: [
       {
         alt: "SEAT Arona FR 1.0 TSI 115, vista exterior",
@@ -1367,7 +1367,18 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "Arona FR 1.0 TSI 115",
     parNm: 200,
     pesoKg: 1213,
-    planMantenimiento: null,
+    planMantenimiento: {
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento oficial SEAT",
+      intervalo: "30.000 km o 2 años (servicio flexible LongLife, PR QG1) o 15.000 km o 1 año (servicio fijo, PR QG0/QG2), lo que ocurra antes",
+      revisiones: [
+        {
+          costeAproxEur: null,
+          nombre: "Inspección / servicio de aceite",
+          queSeCambia: "Aceite y filtro de aceite + inspección general y filtro de polen según el plan de mantenimiento"
+        }
+      ]
+    },
     plazas: 5,
     potenciaCv: 116,
     precioDesde: 28250,

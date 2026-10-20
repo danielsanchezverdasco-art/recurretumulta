@@ -623,6 +623,8 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
       }],
       fuente: "Mantenimiento orientativo (misma marca)",
     },
+    fuenteNombre: "Dacia España",
+    fuenteUrl: "https://www.dacia.es/",
   },
   {
     id: "daihatsu-copen-2025",
