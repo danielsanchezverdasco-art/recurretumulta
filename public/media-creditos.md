@@ -8258,3 +8258,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/zontes-125z2-2026-hunt1.webp | https://zontesmotos.es/wp-content/uploads/2026/04/zontes-125Z2-negro-2.jpg | Zontes España (zontesmotos.es) | desconocida |
 | /media/zontes-125z2-2026-hunt2.webp | https://zontesmotos.es/wp-content/uploads/2024/06/zontes-z2-125-negra-16.jpg | Zontes España (zontesmotos.es) | desconocida |
 | /media/zontes-125z2-2026-hunt3.webp | https://zontesmotos.es/wp-content/uploads/2024/06/zontes-z2-125-gris-25.jpg | Zontes España (zontesmotos.es) | desconocida |
+| /media/im-ls6-2024-precio-ficha-tecnica-hunt1.webp | https://www.carscoops.com/wp-content/uploads/webp/2023/10/IM-Motors-LS6-1.webp | IM Motors (foto de prensa) vía Carscoops | desconocida |
+| /media/im-ls6-2024-precio-ficha-tecnica-hunt2.webp | https://www.carscoops.com/wp-content/uploads/webp/2023/10/IM-Motors-LS6-2.webp | IM Motors (foto de prensa) vía Carscoops | desconocida |
+| /media/im-ls6-2024-precio-ficha-tecnica-hunt3.webp | https://www.carscoops.com/wp-content/uploads/webp/2023/10/IM-Motors-LS6-11.webp | IM Motors vía Carscoops | desconocida |
+| /media/maxus-edeliver-5-2025-precio-ficha-tecnica-hunt1.webp | https://en.saicmaxus.com/uploads/month_202409/images/4300e92737278b13070d4a416e6070fb.jpg | SAIC Maxus (web oficial global) | desconocida |
+| /media/maxus-edeliver-5-2025-precio-ficha-tecnica-hunt2.webp | https://en.saicmaxus.com/uploads/month_202409/images/2850803d1c354e8dc9869c825853a7d2.jpg | SAIC Maxus (web oficial global) | desconocida |
+| /media/maxus-edeliver-5-2025-precio-ficha-tecnica-hunt3.webp | https://en.saicmaxus.com/uploads/month_202408/images/a6bdf09b76d55a44a26276b02e809953.jpg | SAIC Maxus (web oficial global) — render oficial del fabricante | desconocida |
+| /media/ktm-990-duke-2025-ficha-tecnica-precio-hunt1.webp | https://ultimatemotorcycling.com/wp-content/uploads/2024/04/2024-ktm-990-duke-review-3.webp | Ultimate Motorcycling (prueba 990 Duke) | desconocida |
+| /media/ktm-990-duke-2025-ficha-tecnica-precio-hunt2.webp | https://arenamotosikal.com/wp-content/uploads/2023/11/2024-KTM-990-Duke-1.jpg | KTM (foto de prensa oficial) vía Arena Motosikal | desconocida |
+| /media/ktm-990-duke-2025-ficha-tecnica-precio-hunt3.webp | https://arenamotosikal.com/wp-content/uploads/2023/11/2024-KTM-990-Duke-11.jpg | KTM (foto de prensa oficial) vía Arena Motosikal | desconocida |
+| /media/cfmoto-125nk-2026-hunt1.webp | https://cdn.inmoto.it/images/2025/05/26/093942932-d3708858-c7e7-4f5b-8572-26c3dc30741c.jpg | CFMOTO (foto de prensa) vía InMoto | desconocida |
+| /media/cfmoto-125nk-2026-hunt2.webp | https://bun.somosmoto.pe/images/models/gallery/cf-moto-125-nk-2025-gallery-a0c071.jpg | CFMOTO vía SomosMoto (galería oficial del modelo) | desconocida |
+| /media/cfmoto-125nk-2026-hunt3.webp | https://cfmoto.eu/wp-content/uploads/2025/08/125nk-my25-big-blue-600x408.jpg | CFMOTO Europa (cfmoto.eu, distribuidor oficial) | desconocida |
