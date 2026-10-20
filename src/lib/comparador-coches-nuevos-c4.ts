@@ -697,6 +697,8 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
   },
   {
     id: "hyundai-kona-n-line-2026-precio-ficha-tecnica",
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es/es/modelos/kona.html",
     marca: "Hyundai",
     modelo: "Kona N Line 2026",
     tipo: "Gasolina",
@@ -758,7 +760,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         alto: 1280,
       },
     ],
-    euroncap: { estrellas: 5, ano: 2023, url: null, nota: null },
+    euroncap: { estrellas: 4, ano: 2023, url: null, nota: "Prueba del Hyundai Kona (2ª generación), 2023" },
     planMantenimiento: {
       intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [

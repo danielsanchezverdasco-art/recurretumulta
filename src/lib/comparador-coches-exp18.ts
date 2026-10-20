@@ -6,6 +6,8 @@ import type { CocheComparador } from "./comparador-coches-data.ts";
 export const COCHES_EXP18: CocheComparador[] = [
   {
     id: "hyundai-ioniq-6-n-2026-precio-ficha-tecnica",
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es/es/modelos/ioniq6-n.html",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -26,6 +28,24 @@ export const COCHES_EXP18: CocheComparador[] = [
     bateriaKwh: 84,
     cargaRapidaKw: 240,
     etiquetaDgt: "Cero",
+    euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: null,
+      nota: "Prueba del Hyundai IONIQ 6, 2022 (misma carrocería y estructura)",
+    },
+    planMantenimiento: {
+      intervalo: "Cada 24 meses o 30.000 km (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión bienal / 30.000 km",
+          queSeCambia: "Inspección general, filtro de habitáculo y estado de la batería de alto voltaje",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Hyundai España (plan oficial para eléctricos)",
+    },
     pros: [
       "650 CV y 0-100 en 3,2 s: la berlina eléctrica más potente de Hyundai, elegida World Performance Car 2026",
       "Batería de 84 kWh con 487 km WLTP y carga de 240 kW (10-80 % en 18 minutos)",
@@ -81,6 +101,8 @@ export const COCHES_EXP18: CocheComparador[] = [
   },
   {
     id: "hyundai-nexo-2026-precio-ficha-tecnica",
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es/es/modelos/nexo.html",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -101,6 +123,24 @@ export const COCHES_EXP18: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: null,
+      nota: "Prueba del Hyundai NEXO (2ª generación), 2025",
+    },
+    planMantenimiento: {
+      intervalo: "Según el programa de mantenimiento oficial de Hyundai para vehículos de pila de combustible de hidrógeno",
+      revisiones: [
+        {
+          nombre: "Revisión programada",
+          queSeCambia: "Inspección del sistema de pila de combustible e inspección general según programa oficial",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Hyundai España (programa oficial para vehículos de hidrógeno; costes no publicados)",
+    },
     pros: [
       "826 km de autonomía WLTP: la mayor de cualquier coche de hidrógeno a la venta",
       "Repostar hidrógeno tarda unos 5 minutos, como un coche de gasolina",
@@ -156,6 +196,8 @@ export const COCHES_EXP18: CocheComparador[] = [
   },
   {
     id: "hyundai-i10-n-line-2026-precio-ficha-tecnica",
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es/es/modelos/nuevo-i10.html",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -176,6 +218,24 @@ export const COCHES_EXP18: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
+    euroncap: {
+      estrellas: 3,
+      ano: 2020,
+      url: null,
+      nota: "Prueba del Hyundai i10, 2020",
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros e inspección general",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Hyundai España",
+    },
     pros: [
       "Motor 1.0 turbo de 90 CV y 172 Nm: el urbano más divertido de su precio",
       "Estética N Line con detalles deportivos por 23.290 €",
@@ -231,6 +291,8 @@ export const COCHES_EXP18: CocheComparador[] = [
   },
   {
     id: "hyundai-kona-electrico-n-line-2026-precio-ficha-tecnica",
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es/es/modelos/kona-electrico/planenchufados.html",
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
@@ -251,6 +313,24 @@ export const COCHES_EXP18: CocheComparador[] = [
     bateriaKwh: 65.4,
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
+    euroncap: {
+      estrellas: 4,
+      ano: 2023,
+      url: null,
+      nota: "Prueba del Hyundai Kona (2ª generación), 2023",
+    },
+    planMantenimiento: {
+      intervalo: "Cada 1 año o 15.000 km (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual",
+          queSeCambia: "Inspección general, filtro de habitáculo y líquido de frenos según plan",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Hyundai España (intervalo oficial en hyundai.com/es; costes no publicados)",
+    },
     pros: [
       "440 km de autonomía WLTP con 65,4 kWh: de lo mejor del segmento B-SUV eléctrico",
       "Acabado N Line con estética deportiva y equipamiento completo",
@@ -306,6 +386,8 @@ export const COCHES_EXP18: CocheComparador[] = [
   },
   {
     id: "hyundai-i20-n-line-mhev-2026-precio-ficha-tecnica",
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es/es/modelos/i20.html",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -326,6 +408,24 @@ export const COCHES_EXP18: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
+    euroncap: {
+      estrellas: 4,
+      ano: 2021,
+      url: null,
+      nota: "Prueba del Hyundai i20, 2021",
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros e inspección general",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Hyundai España",
+    },
     pros: [
       "Microhibridación de 48 V con etiqueta ECO por 26.716 €",
       "Motor tricilíndrico turbo de 100 CV y 172 Nm: empuja bien en ciudad",
@@ -531,6 +631,8 @@ export const COCHES_EXP18: CocheComparador[] = [
   },
   {
     id: "hyundai-ioniq-5-n-line-2025-precio-ficha-tecnica",
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es/es/modelos/ioniq5.html",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -551,6 +653,24 @@ export const COCHES_EXP18: CocheComparador[] = [
     bateriaKwh: 84,
     cargaRapidaKw: 260,
     etiquetaDgt: "Cero",
+    euroncap: {
+      estrellas: 5,
+      ano: 2021,
+      url: null,
+      nota: "Prueba del Hyundai IONIQ 5, 2021",
+    },
+    planMantenimiento: {
+      intervalo: "Cada 24 meses o 30.000 km (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión bienal / 30.000 km",
+          queSeCambia: "Inspección general, filtro de habitáculo y estado de la batería de alto voltaje",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Hyundai España (plan oficial para eléctricos)",
+    },
     pros: [
       "530 km de autonomía WLTP con la batería de 84 kWh",
       "Carga ultrarrápida de 260 kW: del 10 al 80 % en 18 minutos",
@@ -681,6 +801,8 @@ export const COCHES_EXP18: CocheComparador[] = [
   },
   {
     id: "hyundai-tucson-phev-n-line-2026-precio-ficha-tecnica",
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es/es/modelos/tucson.html",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -701,6 +823,24 @@ export const COCHES_EXP18: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
+    euroncap: {
+      estrellas: 5,
+      ano: 2021,
+      url: null,
+      nota: "Prueba del Hyundai Tucson (NX4), 2021",
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros, inspección general y chequeo del sistema híbrido",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Hyundai España",
+    },
     pros: [
       "288 CV combinados: el Tucson más potente de la historia",
       "67 km de autonomía eléctrica WLTP: el día a día sin gastar gasolina",
@@ -756,6 +896,8 @@ export const COCHES_EXP18: CocheComparador[] = [
   },
   {
     id: "hyundai-kona-hibrido-n-line-2026-precio-ficha-tecnica",
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es/es/modelos/kona-hibrido.html",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -776,6 +918,24 @@ export const COCHES_EXP18: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
+    euroncap: {
+      estrellas: 4,
+      ano: 2023,
+      url: null,
+      nota: "Prueba del Hyundai Kona (2ª generación), 2023",
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros, inspección general y chequeo del sistema híbrido",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Hyundai España",
+    },
     pros: [
       "4,7 l/100 km reales: el Kona más eficiente sin enchufe",
       "Etiqueta ECO con 138 CV combinados y cambio automático de serie",
@@ -906,6 +1066,8 @@ export const COCHES_EXP18: CocheComparador[] = [
   },
   {
     id: "hyundai-tucson-hibrido-n-line-2026-precio-ficha-tecnica",
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es/es/modelos/tucson-hibrido.html",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -926,6 +1088,24 @@ export const COCHES_EXP18: CocheComparador[] = [
     bateriaKwh: 1.49,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
+    euroncap: {
+      estrellas: 5,
+      ano: 2021,
+      url: null,
+      nota: "Prueba del Hyundai Tucson (NX4), 2021",
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros, inspección general y chequeo del sistema híbrido",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Hyundai España",
+    },
     pros: [
       "239 CV con 5,8 l/100 km: el SUV híbrido más equilibrado de su tamaño",
       "Maletero de 616 litros: el más grande entre los SUV híbridos compactos",
@@ -981,6 +1161,8 @@ export const COCHES_EXP18: CocheComparador[] = [
   },
   {
     id: "hyundai-i30-n-line-2026-precio-ficha-tecnica",
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es/es/modelos/i30.html",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1001,6 +1183,24 @@ export const COCHES_EXP18: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
+    euroncap: {
+      estrellas: 5,
+      ano: 2017,
+      url: null,
+      nota: "Prueba del Hyundai i30, 2017",
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros e inspección general",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Hyundai España",
+    },
     pros: [
       "1.6 turbo de 150 CV y 250 Nm: el compacto gasolina más divertido de Hyundai",
       "0-100 en 8,9 s y 206 km/h con cambio DCT de 7 velocidades",
@@ -1056,6 +1256,8 @@ export const COCHES_EXP18: CocheComparador[] = [
   },
   {
     id: "hyundai-kona-16-tgdi-180-n-line-2026-precio-ficha-tecnica",
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es/es/modelos/kona.html",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1076,6 +1278,24 @@ export const COCHES_EXP18: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
+    euroncap: {
+      estrellas: 4,
+      ano: 2023,
+      url: null,
+      nota: "Prueba del Hyundai Kona (2ª generación), 2023",
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros e inspección general",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Hyundai España",
+    },
     pros: [
       "1.6 turbo de 179 CV con tracción total: el único Kona 4x4 de la gama",
       "0-100 en 8,4 s y 209 km/h: el Kona gasolina más rápido",

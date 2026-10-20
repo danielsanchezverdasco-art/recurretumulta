@@ -1535,6 +1535,8 @@ export const COCHES_EXP14: CocheComparador[] = [
   },
   {
     id: "hyundai-kona-electrico-135-2025-precio-ficha-tecnica",
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es/es/modelos/kona-electrico/planenchufados.html",
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
@@ -1555,6 +1557,24 @@ export const COCHES_EXP14: CocheComparador[] = [
     bateriaKwh: 48.4,
     cargaRapidaKw: 101,
     etiquetaDgt: "Cero",
+    euroncap: {
+      estrellas: 4,
+      ano: 2023,
+      url: null,
+      nota: "Prueba del Hyundai Kona (2ª generación), 2023",
+    },
+    planMantenimiento: {
+      intervalo: "Cada 1 año o 15.000 km (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual",
+          queSeCambia: "Inspección general, filtro de habitáculo y líquido de frenos según plan",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Hyundai España (intervalo oficial en hyundai.com/es; costes no publicados)",
+    },
     pros: [
       "380 km de autonomía WLTP por 38.050 €",
       "Maletero de 466 litros más frunk de 27 litros",

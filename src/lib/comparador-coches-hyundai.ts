@@ -358,6 +358,8 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
   },
   {
     id: "hyundai-ioniq-9-2026-precio-ficha-tecnica",
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es/es/modelos/ioniq9.html",
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
@@ -378,6 +380,24 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     bateriaKwh: 110.3,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: null,
+      nota: "Prueba del Hyundai IONIQ 9, 2025",
+    },
+    planMantenimiento: {
+      intervalo: "Cada 24 meses o 30.000 km (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión bienal / 30.000 km",
+          queSeCambia: "Inspección general, filtro de habitáculo y estado de la batería de alto voltaje",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Hyundai España (plan oficial para eléctricos)",
+    },
     pros: [
       "620 km de autonomía WLTP: el Hyundai eléctrico con más alcance",
       "Batería de 110,3 kWh, la mayor montada nunca por la marca",
@@ -539,6 +559,8 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
   },
   {
     id: "hyundai-nexo-2025-precio-ficha-tecnica",
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es/es/modelos/nexo.html",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -559,6 +581,24 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: null,
+      nota: "Prueba del Hyundai NEXO (2ª generación), 2025",
+    },
+    planMantenimiento: {
+      intervalo: "Según el programa de mantenimiento oficial de Hyundai para vehículos de pila de combustible de hidrógeno",
+      revisiones: [
+        {
+          nombre: "Revisión programada",
+          queSeCambia: "Inspección del sistema de pila de combustible e inspección general según programa oficial",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Hyundai España (programa oficial para vehículos de hidrógeno; costes no publicados)",
+    },
     pros: [
       "666 km de autonomía WLTP: el cero emisiones con más alcance de Hyundai",
       "Repostaje de hidrógeno en unos 5 minutos, como un coche de gasolina",
@@ -620,6 +660,8 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
   },
   {
     id: "hyundai-santa-fe-hibrido-enchufable-2026-precio-ficha-tecnica",
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es/es/modelos/nuevo-santafe-phev.html",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -640,6 +682,24 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     bateriaKwh: 13.8,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
+    euroncap: {
+      estrellas: 4,
+      ano: 2024,
+      url: null,
+      nota: "Prueba del Hyundai Santa Fe, 2024 (4 estrellas de serie; 5 con el pack opcional SmartSense)",
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros, inspección general y chequeo del sistema híbrido",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Hyundai España",
+    },
     pros: [
       "288 CV y tracción 4x4 con 54 km eléctricos: el Santa Fe más completo",
       "Etiqueta Cero: el SUV familiar de 7 plazas sin restricciones urbanas",
@@ -801,6 +861,8 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
   },
   {
     id: "hyundai-inster-cross-2026-precio-ficha-tecnica",
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es/es/modelos/inster.html",
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
@@ -821,6 +883,24 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     bateriaKwh: 49,
     cargaRapidaKw: 85,
     etiquetaDgt: "Cero",
+    euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: null,
+      nota: "Prueba del Hyundai INSTER, 2025 (rating aplicable a toda la gama INSTER)",
+    },
+    planMantenimiento: {
+      intervalo: "Cada 24 meses o 30.000 km (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión bienal / 30.000 km",
+          queSeCambia: "Inspección general, filtro de habitáculo y estado de la batería de alto voltaje",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Hyundai España (plan oficial para eléctricos)",
+    },
     pros: [
       "360 km de autonomía con 49 kWh: el eléctrico urbano con más alcance por euro",
       "Versión Cross con estética aventurera: único en su segmento",
@@ -963,6 +1043,8 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
   },
   {
     id: "hyundai-kona-16-tgdi-2025-precio-ficha-tecnica",
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es/es/modelos/kona.html",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -983,6 +1065,24 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
+    euroncap: {
+      estrellas: 4,
+      ano: 2023,
+      url: null,
+      nota: "Prueba del Hyundai Kona (2ª generación), 2023",
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros e inspección general",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Hyundai España",
+    },
     pros: [
       "150 CV turbo: el Kona de gasolina más prestacional (199 km/h, 9,8 s)",
       "250 Nm desde bajo régimen: empuja con decisión en cualquier marcha",
@@ -1144,6 +1244,8 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
   },
   {
     id: "hyundai-i20-10-tgdi-2026-precio-ficha-tecnica",
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es/es/modelos/i20.html",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1164,6 +1266,24 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
+    euroncap: {
+      estrellas: 4,
+      ano: 2021,
+      url: null,
+      nota: "Prueba del Hyundai i20, 2021",
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros e inspección general",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Hyundai España",
+    },
     pros: [
       "100 CV con microhibridación 48V y etiqueta ECO por 25.970 €",
       "1.140 kg: agilidad de utilitario de verdad",
@@ -1225,6 +1345,8 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
   },
   {
     id: "hyundai-kona-electrico-49-kwh-2026-precio-ficha-tecnica",
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es/es/modelos/kona-electrico/planenchufados.html",
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
@@ -1245,6 +1367,24 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     bateriaKwh: 48.4,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
+    euroncap: {
+      estrellas: 4,
+      ano: 2023,
+      url: null,
+      nota: "Prueba del Hyundai Kona (2ª generación), 2023",
+    },
+    planMantenimiento: {
+      intervalo: "Cada 1 año o 15.000 km (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual",
+          queSeCambia: "Inspección general, filtro de habitáculo y líquido de frenos según plan",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Hyundai España (intervalo oficial en hyundai.com/es; costes no publicados)",
+    },
     pros: [
       "380 km de autonomía por 38.050 €: el Hyundai eléctrico más barato",
       "255 Nm instantáneos: 0-100 en 9,9 s sin esfuerzo",
@@ -1306,6 +1446,8 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
   },
   {
     id: "hyundai-tucson-diesel-2025-precio-ficha-tecnica",
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es/es/modelos/tucson.html",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1326,6 +1468,24 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
+    euroncap: {
+      estrellas: 5,
+      ano: 2021,
+      url: null,
+      nota: "Prueba del Hyundai Tucson (NX4), 2021",
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros e inspección general",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Hyundai España",
+    },
     pros: [
       "5,1 l/100 km: el Tucson que menos gasta en autovía",
       "320 Nm de par: el más alto de la gama no híbrida",
@@ -1387,6 +1547,8 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
   },
   {
     id: "hyundai-ioniq-5-2026-precio-ficha-tecnica",
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es/es/modelos/ioniq5.html",
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
@@ -1407,6 +1569,24 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     bateriaKwh: 63,
     cargaRapidaKw: 180,
     etiquetaDgt: "Cero",
+    euroncap: {
+      estrellas: 5,
+      ano: 2021,
+      url: null,
+      nota: "Prueba del Hyundai IONIQ 5, 2021",
+    },
+    planMantenimiento: {
+      intervalo: "Cada 24 meses o 30.000 km (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión bienal / 30.000 km",
+          queSeCambia: "Inspección general, filtro de habitáculo y estado de la batería de alto voltaje",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Hyundai España (plan oficial para eléctricos)",
+    },
     pros: [
       "440 km WLTP con batería de 63 kWh: de lo mejor de su precio",
       "Carga rápida de 180 kW en DC",
@@ -1638,6 +1818,8 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
   },
   {
     id: "hyundai-santa-fe-hibrido-2026-precio-ficha-tecnica",
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es/es/modelos/nuevo-santafe-hev.html",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1658,6 +1840,24 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
+    euroncap: {
+      estrellas: 4,
+      ano: 2024,
+      url: null,
+      nota: "Prueba del Hyundai Santa Fe, 2024 (4 estrellas de serie; 5 con el pack opcional SmartSense)",
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros, inspección general y chequeo del sistema híbrido",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Hyundai España",
+    },
     pros: [
       "215 CV híbridos con 7 plazas de verdad",
       "Tracción total y 367 Nm de par",
@@ -1819,6 +2019,8 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
   },
   {
     id: "hyundai-bayon-10-tgdi-2025-precio-ficha-tecnica",
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es/es/modelos/bayon.html",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1839,6 +2041,24 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
+    euroncap: {
+      estrellas: 4,
+      ano: 2021,
+      url: null,
+      nota: "Prueba del Hyundai Bayon, 2021",
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros e inspección general",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Hyundai España",
+    },
     pros: [
       "26.005 €: el SUV más barato de Hyundai",
       "5,2 l/100 km con etiqueta ECO",
@@ -1900,6 +2120,8 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
   },
   {
     id: "hyundai-i30-15-tgdi-2025-precio-ficha-tecnica",
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es/es/modelos/i30.html",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1920,6 +2142,24 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
+    euroncap: {
+      estrellas: 5,
+      ano: 2017,
+      url: null,
+      nota: "Prueba del Hyundai i30, 2017",
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros e inspección general",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Hyundai España",
+    },
     pros: [
       "140 CV y 253 Nm por 30.550 €",
       "9,6 s de 0-100 y 197 km/h",
