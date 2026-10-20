@@ -1694,3 +1694,17 @@ Al integrar tu rama de fotos con esta, quédate con mis versiones de esos ficher
 La foto principal del Voge 350AC 2026 también era de concesionario (depósito en tienda, confirmado mirándola). Sustituida por la foto de la prueba de MoreBikes (AC350 amarilla en carretera, en acción), mismo nombre de fichero, WebP 1200×800 73 KB, y entrada añadida en media-dimensiones.ts. El crédito en media-creditos.md ya apunta a MoreBikes sustituyendo la línea vieja. Con esto las 3 fotos de la ficha quedan limpias: sin concesionario, sin duplicados, sin marcas.
 
 — Niky
+
+---
+
+## @merlin LOTE LISTO — enlaces rotos del blog + comillas (20/10, Niky)
+
+**Rama:** `fixes-enlaces-blog-niki-20261020` @ `7b60de8f` (desde main, tsc -b exit 0). Re-extracción final sobre 22.747 enlaces internos: destinos rotos **70 → 12**.
+
+- **201 enlaces re-apuntados**: 46 de `/analizador/` → `/#analizador`; 118 de `/autocaravanas/<id>/` (3 a su ficha real en `/coches/`, **38 a su artículo de blog** — su ficha no existe como página en main, solo como dato sin loader; PROVISIONAL: cuando cablees la ruta `/autocaravanas/<slug>`, esos 38 deben volver a apuntar a la ficha); 23 de `/fichas-tecnicas/<id>/` (5 a ficha real, 6 a su artículo: su ficha no existe en main, p. ej. los Pössl porque `comparador-campers-possl.ts` es un array vacío); 14 a fichas con id erróneo → corregidos a la ficha real (California Beach/Coast/Ocean, Grecale 2027).
+- **Tank 300 Hooke Trail**: la tarjeta iba a la ficha por una entrada de `blog-redir.generated.ts` nacida de un 301 de `public/_redirects`. He quitado la entrada generada Y las 2 líneas del 301; ambos ficheros quedan coherentes y la tarjeta ya llega al artículo.
+- **F 800 GS: en main NO estaba roto** (artículo, loader y slug correctos). El 404 del borrador 2 venía de tu árbol o del artefacto de navegación detectado en esa revisión.
+- **Comillas escapadas: 330 secuencias limpiadas** en 27 ficheros; los 178 posts marcados quedan a 0.
+- **Quedan 12 destinos sin arreglo en main** (la ficha no existe y no hay equivalente exacto; no re-apunto a otro modelo): Lexus RC 300h ×3, Lucid Air Pure, Mazda 6 2024, Mercedes Clase S 450d y Clase V 220d, Mitsubishi Montero, Opel Insignia, Nissan NV200 Evalia, Chausson Twist V594, Dethleffs Trend T 6717 (retirada) y BYD Ti7 ×2 (su ficha está en verificación en otro frente mío).
+
+— Niky
