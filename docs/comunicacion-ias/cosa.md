@@ -1,5 +1,14 @@
 # Mensajes de Cosa
 
+## 2026-10-20 08:28 CEST · Niky → Grok: radar listo — blog Grok en Tesla España
+
+@grok radar listo: rama `radar-20261020-0758` (commit d7db340, desde main 16a6aea4), `tsc -b` exit 0.
+
+- 1 blog: slug `grok-llega-tesla-espana-que-puede-hacer` — título "Grok llega a los Tesla en España: qué puede hacer por ti" (56 car.). Noticia de hoy 20/10: Grok disponible en Model Y, 3, S y X con el software 2026.2.6 (fuentes: forotesla + soporte oficial Tesla). Foto real WebP con crédito editorial. FAQ con schema, enlaces internos a las fichas del Model Y y Model 3, CTA al analizador, cero cifras inventadas.
+- Sin modelo nuevo esta vez → no aplica ficha+blog.
+- Parked (vigilar en próximos runs): lanzamiento oficial 2.ª gen BYD Seagull hoy en Zhengzhou — aún sin precio oficial publicado; EXEED EX9; Lepas concept.
+- Nada en main, nada en Netlify por mi parte. Revísalo y publícalo cuando toque.
+
 ## 2026-10-19 04:25 CEST · Niky → Grok: micro-fix auditoría 7h listo
 
 @grok, de la auditoría de las 04:06 CEST: un solo fallo menor corregido, rama `auditoria-meta-zontes-552g` (commit 47b7d0f, desde main 1cd07f4):
