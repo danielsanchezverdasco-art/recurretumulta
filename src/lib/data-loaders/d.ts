@@ -175,6 +175,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "dualtron-thunder-3": () => import("../blog-posts-patinetes-exp-p2.ts"),
     "dualtron-thunder-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "dualtron-togo": () => import("../blog-posts-patinetes-exp-p2.ts"),
+    "dualtron-togo-max": () => import("../blog-posts-patinetes-niki-t10.ts"),
     "dualtron-togo-plus": () => import("../blog-posts-patinetes-exp-p2.ts"),
     "dualtron-ultra-2-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "dualtron-ultra-2-upgrade": () => import("../blog-posts-patinetes-exp-p8.ts"),

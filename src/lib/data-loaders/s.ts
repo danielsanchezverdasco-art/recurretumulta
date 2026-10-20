@@ -158,6 +158,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "smart-fortwo-eq-2025-precio-electrico": () => import("../blog-posts-lote16.ts"),
     "smartgyro-dual-max-2": () => import("../blog-posts-patinetes-exp-p9.ts"),
     "smartgyro-k1": () => import("../blog-posts-patinetes-exp-p2.ts"),
+    "smartgyro-k5-pro": () => import("../blog-posts-patinetes-niki-t10.ts"),
     "smartgyro-k5-pro-lr": () => import("../blog-posts-patinetes-exp-p2.ts"),
     "smartgyro-raptor-black": () => import("../blog-posts-patinetes-exp-p9.ts"),
     "smartgyro-raptor-dual-evo": () => import("../blog-posts-patinetes-exp-p6.ts"),
