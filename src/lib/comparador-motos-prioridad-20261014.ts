@@ -1528,7 +1528,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     modelo: "M 1000 RR",
     version: "M 1000 RR 2026",
     categoria: "Superbike",
-    precioDesde: 42410.05,
+    precioDesde: 42220, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 155.9,
     potenciaCv: 212,
     cilindradaCc: 999,
@@ -1542,9 +1542,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-      "precioDesde"
-    ],
+    aprox: [],
     pros: [
       "Motor de 999 cc con 212 CV (155,9 kW) y 113 Nm de par",
       "Peso declarado de 193 kg en orden de marcha",
@@ -1554,7 +1552,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Precio aproximado desde 41.580 €"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
       "Garantía orientativa de modelos parecidos, no específica de esta versión",
       "Mantenimiento orientativo de un modelo similar de la misma marca",
       "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
@@ -1604,7 +1601,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     modelo: "R 12 S",
     version: "R 12 S 2026",
     categoria: "Roadster",
-    precioDesde: 22495,
+    precioDesde: 23125, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 80.1,
     potenciaCv: 109,
     cilindradaCc: 1170,
@@ -1618,9 +1615,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-      "precioDesde"
-    ],
+    aprox: [],
     pros: [
       "Motor de 1170 cc con 109 CV (80,1 kW) y 115 Nm de par",
       "Peso declarado de 220 kg en orden de marcha",
@@ -1630,7 +1625,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Precio aproximado desde 22.495 €"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
       "Garantía orientativa de modelos parecidos, no específica de esta versión",
       "Mantenimiento orientativo de un modelo similar de la misma marca",
       "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
@@ -1680,7 +1674,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     modelo: "R 18 Classic",
     version: "R 18 Classic 2025",
     categoria: "Cruiser",
-    precioDesde: 26250,
+    precioDesde: 26250, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 66.9,
     potenciaCv: 91,
     cilindradaCc: 1802,
@@ -1694,9 +1688,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-      "precioDesde"
-    ],
+    aprox: [],
     pros: [
       "Motor de 1802 cc con 91 CV (66,9 kW) y 158 Nm de par",
       "Peso declarado de 365 kg en orden de marcha",
@@ -1706,7 +1698,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Precio aproximado desde 26.250 €"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
       "Garantía orientativa de modelos parecidos, no específica de esta versión",
       "Mantenimiento orientativo de un modelo similar de la misma marca",
       "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
@@ -1756,7 +1747,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     modelo: "S 1000 XR",
     version: "S 1000 XR 2026",
     categoria: "Sport-turismo",
-    precioDesde: 21780,
+    precioDesde: 21780, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 125.0,
     potenciaCv: 170,
     cilindradaCc: 999,
@@ -1770,9 +1761,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-      "precioDesde"
-    ],
+    aprox: [],
     pros: [
       "Motor de 999 cc con 170 CV (125 kW) y 114 Nm de par",
       "Peso declarado de 223 kg en orden de marcha",
@@ -1782,7 +1771,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Precio aproximado desde 21.780 €"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
       "Garantía orientativa de modelos parecidos, no específica de esta versión",
       "Mantenimiento orientativo de un modelo similar de la misma marca",
       "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
@@ -1835,7 +1823,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     version: "Origin 2026",
     cilindradaCc: null,
     categoria: "Eléctrica",
-    precioDesde: 13799,
+    precioDesde: 13799, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 34.6,
     potenciaCv: 47,
     autonomiaKm: null,
@@ -1853,7 +1841,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     fuenteNombre: "Híbridos y Eléctricos",
     fuenteUrl: "https://www.hibridosyelectricos.com/motos/originales-motos-naked-trail-esta-marca-canadiense-han-bajado-precio-competir-con-fabricantes-tradicionales_82370_102.html",
     analisisSlug: "can-am-origin-2026-precio-ficha-tecnica",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor eléctrico con 47 CV (34.6 kW) y 72 Nm de par",
       "Se puede llevar con el carnet A2",
@@ -1862,7 +1850,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Can-Am Origin 2026: 186 kg, asiento a 820 mm",
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
       "Mantenimiento de modelo similar de la misma marca, pendiente de confirmación oficial",
       "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
       "Autonomía eléctrica por verificar en condiciones reales",
@@ -1895,7 +1882,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     version: "Pulse 2026",
     cilindradaCc: null,
     categoria: "Eléctrica",
-    precioDesde: 13199,
+    precioDesde: 13199, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 34.6,
     potenciaCv: 47,
     autonomiaKm: 160,
@@ -1913,7 +1900,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     fuenteNombre: "Híbridos y Eléctricos",
     fuenteUrl: "https://www.hibridosyelectricos.com/motos/originales-motos-naked-trail-esta-marca-canadiense-han-bajado-precio-competir-con-fabricantes-tradicionales_82370_102.html",
     analisisSlug: "can-am-pulse-2026-precio-ficha-tecnica",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor eléctrico con 47 CV (34.6 kW) y 72 Nm de par",
       "Se puede llevar con el carnet A2",
@@ -1922,7 +1909,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Can-Am Pulse 2026: 176 kg, asiento a 765 mm",
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
       "Mantenimiento de modelo similar de la misma marca, pendiente de confirmación oficial",
       "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
       "Autonomía eléctrica por verificar en condiciones reales",
@@ -1955,7 +1941,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     version: "300NK 2026",
     cilindradaCc: 292,
     categoria: "Naked",
-    precioDesde: 4500,
+    precioDesde: null, // CFMoto ya no comercializa la 300NK en España; sin tarifa oficial vigente (verificado 20/10/2026)
     potenciaKw: 20.6,
     potenciaCv: 28,
     autonomiaKm: null,
@@ -1973,7 +1959,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     fuenteNombre: "Motodinamia",
     fuenteUrl: "https://motodinamia.com/cfmoto-675sr-r/",
     analisisSlug: "cfmoto-300nk-2026-precio-ficha-tecnica",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor de 292 cc con 28 CV (20.6 kW) y 25 Nm de par",
       "Se puede llevar con el carnet A2",
@@ -1982,7 +1968,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "CFMoto 300NK 2026: 142 kg, depósito de 12 l, asiento a 780 mm",
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
+      "Sin precio oficial vigente: CFMoto ya no la comercializa en España",
       "Mantenimiento orientativo (modelo similar de la misma marca), pendiente de confirmación oficial",
       "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
       "Depósito de 12 l: justo para rutas largas",
@@ -2014,7 +2000,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     version: "300SR 2026",
     cilindradaCc: 292,
     categoria: "Deportiva",
-    precioDesde: 4500,
+    precioDesde: null, // CFMoto ya no comercializa la 300SR en España; sin tarifa oficial vigente (verificado 20/10/2026)
     potenciaKw: 21.3,
     potenciaCv: 29,
     autonomiaKm: null,
@@ -2032,7 +2018,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     fuenteNombre: "Motodinamia",
     fuenteUrl: "https://motodinamia.com/cfmoto-675sr-r/",
     analisisSlug: "cfmoto-300sr-2026-precio-ficha-tecnica",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor de 292 cc con 29 CV (21.3 kW) y 25 Nm de par",
       "Se puede llevar con el carnet A2",
@@ -2041,7 +2027,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "CFMoto 300SR 2026: 160 kg, depósito de 12 l, asiento a 785 mm",
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
+      "Sin precio oficial vigente: CFMoto ya no la comercializa en España",
       "Mantenimiento orientativo (modelo similar de la misma marca), pendiente de confirmación oficial",
       "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
       "Depósito de 12 l: justo para rutas largas",
@@ -2073,7 +2059,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     version: "650NK 2025",
     cilindradaCc: 649,
     categoria: "Naked",
-    precioDesde: 6495,
+    precioDesde: null, // CFMoto ya no comercializa la 650NK en España; sin tarifa oficial vigente (verificado 20/10/2026)
     potenciaKw: 44.9,
     potenciaCv: 61,
     autonomiaKm: null,
@@ -2091,7 +2077,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     fuenteNombre: "Motodinamia",
     fuenteUrl: "https://motodinamia.com/cfmoto-675sr-r/",
     analisisSlug: "cfmoto-650nk-2025-precio-ficha-tecnica",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor de 649 cc con 61 CV (44.9 kW) y 56 Nm de par",
       "Se puede llevar con el carnet A",
@@ -2100,7 +2086,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "CFMoto 650NK 2025: 206 kg, depósito de 17 l, asiento a 790 mm",
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
+      "Sin precio oficial vigente: CFMoto ya no la comercializa en España",
       "Mantenimiento orientativo (modelo similar de la misma marca), pendiente de confirmación oficial",
       "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
     ],
@@ -2131,7 +2117,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     version: "675SR-R 2026",
     cilindradaCc: 675,
     categoria: "Deportiva",
-    precioDesde: 7995,
+    precioDesde: 7995, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 69.9,
     potenciaCv: 95,
     autonomiaKm: null,
@@ -2149,7 +2135,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     fuenteNombre: "Motodinamia",
     fuenteUrl: "https://motodinamia.com/cfmoto-675sr-r/",
     analisisSlug: "cfmoto-675sr-r-2026-precio-ficha-tecnica",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor de 675 cc con 95 CV (69.9 kW) y 70 Nm de par",
       "Se puede llevar con el carnet A",
@@ -2158,7 +2144,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "CFMoto 675SR-R 2026: 189 kg, depósito de 15 l, asiento a 810 mm",
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
       "Mantenimiento orientativo (modelo similar de la misma marca), pendiente de confirmación oficial",
       "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
     ],
@@ -2189,7 +2174,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     version: "800MT Explore 2026",
     cilindradaCc: 799,
     categoria: "Trail",
-    precioDesde: 10995,
+    precioDesde: 10995, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 69.9,
     potenciaCv: 95,
     autonomiaKm: null,
@@ -2207,7 +2192,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     fuenteNombre: "Motor.com.co",
     fuenteUrl: "https://www.motor.com.co/amp/seccion/revista/probamos-la-cfmoto-800mt-explore-aventura-segura_18005",
     analisisSlug: "cfmoto-800mt-explore-2026-precio-ficha-tecnica",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor de 799 cc con 95 CV (69.9 kW) y 77 Nm de par",
       "Se puede llevar con el carnet A",
@@ -2216,7 +2201,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "CFMoto 800MT Explore 2026: 231 kg, depósito de 19 l, asiento a 825 mm",
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
       "Mantenimiento orientativo (modelo similar de la misma marca), pendiente de confirmación oficial",
       "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
       "231 kg en orden de marcha: pesada en maniobras en parado",
@@ -2248,7 +2232,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     version: "DesertX Rally 2025",
     cilindradaCc: 937,
     categoria: "Trail",
-    precioDesde: 23290,
+    precioDesde: 23290, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 80.9,
     potenciaCv: 110,
     autonomiaKm: null,
@@ -2266,7 +2250,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     fuenteNombre: "Motos.net",
     fuenteUrl: "https://motos.coches.net/comparativa/ducati-desertx-rally--vs-moto_guzzi-stelvio-duecento_tributo--9767-10034.htm",
     analisisSlug: "ducati-desertx-rally-2025-precio-ficha-tecnica",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor de 937 cc con 110 CV (80.9 kW) y 92 Nm de par",
       "Se puede llevar con el carnet A",
@@ -2275,7 +2259,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Ducati DesertX Rally 2025: 203 kg, depósito de 21 l, asiento a 910 mm",
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
       "Mantenimiento orientativo (modelo similar de la misma marca), pendiente de confirmación oficial",
       "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
       "Asiento a 910 mm: alto para pilotos de poca estatura",
@@ -2308,7 +2291,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     version: "Hypermotard 698 Mono RVE 2025",
     cilindradaCc: 659,
     categoria: "Naked",
-    precioDesde: 13990,
+    precioDesde: 14890, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 56.6,
     potenciaCv: 77,
     autonomiaKm: null,
@@ -2326,7 +2309,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     fuenteNombre: "Ducati",
     fuenteUrl: "https://www.ducati.com/es/es/editorial/promociones/promocion-panigale-v4-s",
     analisisSlug: "ducati-hypermotard-698-mono-rve-2025-precio-ficha-tecnica",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor de 659 cc con 77 CV (56.6 kW) y 63 Nm de par",
       "Se puede llevar con el carnet A",
@@ -2335,7 +2318,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Ducati Hypermotard 698 Mono RVE 2025: 151 kg, depósito de 12 l, asiento a 904 mm",
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
       "Mantenimiento orientativo (modelo similar de la misma marca), pendiente de confirmación oficial",
       "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
       "Asiento a 904 mm: alto para pilotos de poca estatura",
@@ -2367,7 +2349,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     version: "Monster V2 2026",
     cilindradaCc: 890,
     categoria: "Naked",
-    precioDesde: 13190,
+    precioDesde: 13190, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 81.6,
     potenciaCv: 111,
     autonomiaKm: null,
@@ -2385,7 +2367,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     fuenteNombre: "Motos.net",
     fuenteUrl: "https://motos.coches.net/fichas_tecnicas/ducati/monster/10053/",
     analisisSlug: "ducati-monster-v2-2026-precio-ficha-tecnica",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor de 890 cc con 111 CV (81.6 kW) y 91 Nm de par",
       "Se puede llevar con el carnet A",
@@ -2394,7 +2376,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Ducati Monster V2 2026: 175 kg, depósito de 14 l, asiento a 815 mm",
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
       "Mantenimiento orientativo (modelo similar de la misma marca), pendiente de confirmación oficial",
       "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
       "Depósito de 14 l: justo para rutas largas",
@@ -2483,7 +2464,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     version: "Panigale V2 S 2025",
     cilindradaCc: 890,
     categoria: "Deportiva",
-    precioDesde: 20290,
+    precioDesde: 19990, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 88.2,
     potenciaCv: 120,
     autonomiaKm: null,
@@ -2501,7 +2482,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     fuenteNombre: "Motos.net",
     fuenteUrl: "https://motos.coches.net/comparativa/kawasaki-ninja_h2-sx--vs-ducati-panigale_v4-s--8812-9769.htm",
     analisisSlug: "ducati-panigale-v2-s-2025-precio-ficha-tecnica",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor de 890 cc con 120 CV (88.2 kW) y 93 Nm de par",
       "Se puede llevar con el carnet A",
@@ -2510,10 +2491,9 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Ducati Panigale V2 S 2025: 176 kg, depósito de 15 l, asiento a 837 mm",
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
       "Mantenimiento orientativo (modelo similar de la misma marca), pendiente de confirmación oficial",
       "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Precio desde 20.290 €: segmento premium",
+      "Precio desde 19.990 €: segmento premium",
     ],
     curiosidades: [
       "2020: nace Panigale V2",
@@ -2600,7 +2580,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     version: "Scrambler 800 Full Throttle 2026",
     cilindradaCc: 803,
     categoria: "Scrambler",
-    precioDesde: 13290,
+    precioDesde: 13290, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 53.7,
     potenciaCv: 73,
     autonomiaKm: null,
@@ -2618,7 +2598,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     fuenteNombre: "Ducati",
     fuenteUrl: "https://www.ducati.com/es/es/editorial/promociones/promocion-panigale-v4-s",
     analisisSlug: "ducati-scrambler-800-full-throttle-2026-precio-ficha-tecnica",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor de 803 cc con 73 CV (53.7 kW) y 65 Nm de par",
       "Se puede llevar con el carnet A2",
@@ -2627,7 +2607,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Ducati Scrambler 800 Full Throttle 2026: 185 kg, depósito de 14 l, asiento a 795 mm",
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
       "Mantenimiento orientativo (modelo similar de la misma marca), pendiente de confirmación oficial",
       "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
       "Depósito de 14 l: justo para rutas largas",
@@ -2659,7 +2638,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     version: "Scrambler Icon 2026",
     cilindradaCc: 803,
     categoria: "Scrambler",
-    precioDesde: 11690,
+    precioDesde: 11890, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 53.6,
     potenciaCv: 73,
     autonomiaKm: null,
@@ -2677,7 +2656,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     fuenteNombre: "cdn.prod.website-files.com",
     fuenteUrl: "https://cdn.prod.website-files.com/699d23a46312c2295edaf8f9/69ce9245bdb1f47f51c5cd07_MY2025_tech%20specs_Scrambler%20Icon_ESP_no%20price.pdf",
     analisisSlug: "ducati-scrambler-icon-2026-precio-ficha-tecnica",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor de 803 cc con 73 CV (53.6 kW) y 65.2 Nm de par",
       "Se puede llevar con el carnet A",
@@ -2686,7 +2665,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Ducati Scrambler Icon 2026: 176 kg, depósito de 14.5 l, asiento a 795 mm",
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
       "Mantenimiento orientativo (modelo similar de la misma marca), pendiente de confirmación oficial",
       "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
     ],
@@ -2894,7 +2872,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     version: "Caballero 125 Rally 2025",
     cilindradaCc: 124.66,
     categoria: "Scrambler",
-    precioDesde: 5990,
+    precioDesde: 5990, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 11,
     potenciaCv: 15,
     autonomiaKm: null,
@@ -2912,7 +2890,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     fuenteNombre: "motofichas.com",
     fuenteUrl: "https://www.motofichas.com/marcas/fantic/caballero-125-rally",
     analisisSlug: "fantic-caballero-125-rally-2025-precio-ficha-tecnica",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor de 124.66 cc con 15 CV (11 kW) y 11.2 Nm de par",
       "Se puede llevar con el carnet A1 / B",
@@ -2921,7 +2899,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Fantic Caballero 125 Rally 2025: 130 kg, depósito de 12 l, asiento a 860 mm",
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
       "Mantenimiento orientativo (modelo similar de la misma marca), pendiente de confirmación oficial",
       "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
       "Asiento a 860 mm: alto para pilotos de poca estatura",
@@ -2954,7 +2931,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     version: "Caballero 500 Rally 2025",
     cilindradaCc: 463,
     categoria: "Scrambler",
-    precioDesde: 7590,
+    precioDesde: 7590, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 32.4,
     potenciaCv: 44,
     autonomiaKm: null,
@@ -2972,7 +2949,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     fuenteNombre: "motofichas.com",
     fuenteUrl: "https://www.motofichas.com/marcas/fantic/caballero-500-rally",
     analisisSlug: "fantic-caballero-500-rally-2025-precio-ficha-tecnica",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor de 463 cc con 44 CV (32.4 kW) y 42 Nm de par",
       "Se puede llevar con el carnet A2",
@@ -2981,7 +2958,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "Fantic Caballero 500 Rally 2025: 150 kg, depósito de 12 l, asiento a 860 mm",
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
       "Mantenimiento orientativo (modelo similar de la misma marca), pendiente de confirmación oficial",
       "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
       "Asiento a 860 mm: alto para pilotos de poca estatura",
@@ -3014,7 +2990,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     version: "HPS 125 2025",
     cilindradaCc: 124.2,
     categoria: "Naked",
-    precioDesde: 3999,
+    precioDesde: 3999, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 10,
     potenciaCv: 13.6,
     autonomiaKm: null,
@@ -3032,7 +3008,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     fuenteNombre: "1000PS",
     fuenteUrl: "https://www.1000ps.com/es-es/modele/12848/fb-mondial-hps-125i-abs/2025",
     analisisSlug: "fb-mondial-hps-125-2025-precio-ficha-tecnica",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor de 124.2 cc con 13.6 CV (10 kW) y 10.5 Nm de par",
       "Se puede llevar con el carnet A1 / B",
@@ -3041,7 +3017,6 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "FB Mondial HPS 125 2025: 133 kg, depósito de 9.5 l, asiento a 790 mm",
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
       "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
       "Depósito de 9.5 l: justo para rutas largas",
     ],

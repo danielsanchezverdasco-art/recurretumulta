@@ -60,7 +60,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Xiaomi",
     modelo: "Electric Scooter 4",
-    precioEur: 299,
+    precioEur: null, // Xiaomi ya no lo vende en su tienda oficial; sin PVP oficial vigente (verificado 20/10/2026)
     potenciaNominalW: 300,
     potenciaPicoW: 600,
     autonomiaKm: 35,
@@ -74,7 +74,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '10" con cámara',
     certificadoDgt: true,
     foto: "/media/patinetes/xiaomi-electric-scooter-4.webp",
-    aprox: ["autonomiaRealKm", "precioEur"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Carga en unas 5 horas: de los más rápidos de la gama Xiaomi",
       "17,2 kg: más ligero y manejable que el Scooter 5",
@@ -82,6 +82,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
       "Doble freno con KERS y modos de conducción (peatón/estándar/deportivo)",
     ],
     contras: [
+      "Sin precio oficial vigente: Xiaomi ya no lo vende en su tienda oficial",
       "35 km de autonomía: justo para ir y volver del trabajo",
       "Neumáticos con cámara: más propensos a pinchazos que los tubeless",
       "Motor de 300 W nominales: sufre en cuestas pronunciadas",
@@ -1093,7 +1094,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Xiaomi",
     modelo: "Mi Electric Scooter Pro 2",
-    precioEur: 450,
+    precioEur: null, // modelo descatalogado; sin tarifa oficial vigente (verificado 20/10/2026)
     potenciaNominalW: 300,
     potenciaPicoW: 600,
     autonomiaKm: 45,
@@ -1107,14 +1108,14 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '8.5" neumáticos',
     certificadoDgt: null,
     foto: "/media/patinetes/xiaomi-pro-2.webp",
-    aprox: ["autonomiaRealKm", "precioEur"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Autonomía declarada de 45 km, una de las mejores de su época por precio",
       "Construcción sólida de aluminio y frenada dual E-ABS + disco",
       "Gran comunidad y repuestos baratos (muy fácil de mantener)",
     ],
     contras: [
-      "Descatalogado: solo se encuentra de segunda mano o stock residual",
+      "Sin precio oficial vigente: modelo descatalogado, solo segunda mano o stock residual",
       "Sin certificado DGT (anterior al Manual VMP)",
       "Neumáticos de 8.5\" con cámara: pinchazos frecuentes",
     ],
@@ -1129,7 +1130,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Xiaomi",
     modelo: "Mi Electric Scooter 1S",
-    precioEur: 450,
+    precioEur: null, // modelo descatalogado; sin tarifa oficial vigente (verificado 20/10/2026)
     potenciaNominalW: 250,
     potenciaPicoW: 500,
     autonomiaKm: 30,
@@ -1143,14 +1144,14 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '8.5" neumáticos',
     certificadoDgt: null,
     foto: "/media/patinetes/xiaomi-1s.webp",
-    aprox: ["autonomiaRealKm", "precioEur"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Ligero (12.5 kg): fácil de subir al metro o al maletero",
       "Carga completa en 5.5 h, relativamente rápida para su gama",
       "Precio de ocasión muy bajo; repuestos abundantes",
     ],
     contras: [
-      "Descatalogado y sin certificado DGT (anterior al Manual VMP)",
+      "Sin precio oficial vigente: modelo descatalogado y sin certificado DGT",
       "Autonomía real justa (~20 km) para trayectos largos",
       "Motor de 250 W: sufre en cuestas pronunciadas",
     ],
@@ -1165,7 +1166,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Xiaomi",
     modelo: "Mi Electric Scooter Essential",
-    precioEur: 300,
+    precioEur: null, // modelo descatalogado; sin tarifa oficial vigente (verificado 20/10/2026)
     potenciaNominalW: 250,
     potenciaPicoW: 500,
     autonomiaKm: 20,
@@ -1179,14 +1180,14 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '8.5" neumáticos',
     certificadoDgt: null,
     foto: "/media/patinetes/xiaomi-essential.webp",
-    aprox: ["autonomiaRealKm", "precioEur"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "El Xiaomi más barato y ligero (12 kg)",
       "Ideal para trayectos cortos y para llevarlo a todas partes",
       "Diseño y acabados de calidad Xiaomi",
     ],
     contras: [
-      "Descatalogado; solo 20 km/h de velocidad máxima en su versión original",
+      "Sin precio oficial vigente: modelo descatalogado",
       "Autonomía real escasa (~13 km)",
       "Sin certificado DGT (anterior al Manual VMP)",
     ],
@@ -1201,7 +1202,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway",
     modelo: "Ninebot KickScooter E2 E",
-    precioEur: 219,
+    precioEur: 219.99, // tarifa oficial España (verificado 20/10/2026)
     potenciaNominalW: 250,
     potenciaPicoW: 450,
     autonomiaKm: 25,
@@ -1215,7 +1216,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '8.1"',
     certificadoDgt: true,
     foto: "/media/patinetes/segway-e2-e.webp",
-    aprox: ["autonomiaRealKm", "precioEur"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Certificado DGT: incluido en el listado de modelos homologados",
       "Precio muy asequible (~219 €) para un modelo certificado",
@@ -1237,7 +1238,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway",
     modelo: "Ninebot KickScooter E2 Plus E",
-    precioEur: 300,
+    precioEur: 299.99, // tarifa oficial España (verificado 20/10/2026)
     potenciaNominalW: 300,
     potenciaPicoW: 500,
     autonomiaKm: 25,
@@ -1251,7 +1252,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '8"',
     certificadoDgt: true,
     foto: "/media/patinetes/segway-e2-plus-e.webp",
-    aprox: ["autonomiaRealKm", "precioEur"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Certificado DGT y llega a los 25 km/h legales",
       "Motor delantero de 300 W, buena tracción en ciudad",
@@ -1273,7 +1274,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway",
     modelo: "Ninebot KickScooter E25D",
-    precioEur: 399,
+    precioEur: null, // modelo descatalogado; sin tarifa oficial vigente (verificado 20/10/2026)
     potenciaNominalW: 300,
     potenciaPicoW: 700,
     autonomiaKm: 25,
@@ -1287,14 +1288,14 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '9" no neumáticas',
     certificadoDgt: false,
     foto: "/media/patinetes/segway-e25.webp",
-    aprox: ["autonomiaRealKm", "precioEur", "potenciaPicoW", "tiempoCargaH", "bateriaWh"],
+    aprox: ["autonomiaRealKm", "potenciaPicoW", "tiempoCargaH", "bateriaWh"],
     pros: [
       "Diseño clásico Ninebot, muy fiable y probado",
       "Bluetooth y modos de conducción (limitado/estándar/deportivo)",
       "Carga máxima de 100 kg",
     ],
     contras: [
-      "Descatalogado: solo mercado de segunda mano",
+      "Sin precio oficial vigente: modelo descatalogado, solo segunda mano",
       "Sin certificado DGT (anterior al Manual VMP)",
       "Ruedas sólidas de 9\": conducción rígida",
     ],
@@ -1309,7 +1310,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway",
     modelo: "Ninebot KickScooter E45D",
-    precioEur: 499,
+    precioEur: null, // modelo descatalogado; sin tarifa oficial vigente (verificado 20/10/2026)
     potenciaNominalW: 300,
     potenciaPicoW: 700,
     autonomiaKm: 45,
@@ -1323,14 +1324,14 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '9" no neumáticas',
     certificadoDgt: false,
     foto: "/media/patinetes/segway-e45.webp",
-    aprox: ["autonomiaRealKm", "precioEur", "potenciaPicoW", "bateriaWh"],
+    aprox: ["autonomiaRealKm", "potenciaPicoW", "bateriaWh"],
     pros: [
       "Autonomía declarada de 45 km, la mejor de la serie E clásica",
       "Doble batería y gran capacidad de subida (20°)",
       "Bluetooth con color personalizable en la base",
     ],
     contras: [
-      "Descatalogado: solo mercado de segunda mano",
+      "Sin precio oficial vigente: modelo descatalogado, solo segunda mano",
       "Sin certificado DGT (anterior al Manual VMP)",
       "Carga lenta (~7.5 h) y ruedas sólidas rígidas",
     ],
@@ -1345,7 +1346,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo Serie M20",
-    precioEur: 330,
+    precioEur: 330, // tarifa oficial España (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: 500,
     autonomiaKm: 20,
@@ -1359,7 +1360,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '8.5" neumáticas',
     certificadoDgt: true,
     foto: "/media/patinetes/cecotec-bongo-serie-m20.webp",
-    aprox: ["autonomiaRealKm", "precioEur", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH"],
     pros: [
       "Certificado DGT verificado (n.º A1017 en la lista oficial)",
       "Doble sistema de frenado con regeneración",
@@ -1381,7 +1382,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo Serie M30 Connected",
-    precioEur: 339,
+    precioEur: 339, // tarifa oficial España (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 30,
@@ -1395,7 +1396,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '8.5" neumáticas',
     certificadoDgt: true,
     foto: "/media/patinetes/cecotec-bongo-serie-m30.webp",
-    aprox: ["autonomiaRealKm", "precioEur"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Certificado DGT verificado (n.º A1016 en la lista oficial)",
       "30 km de autonomía declarada y 700 W de pico por ~339 €",
@@ -1417,7 +1418,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Smartgyro",
     modelo: "K2",
-    precioEur: 510,
+    precioEur: null, // sin tarifa oficial verificada en España (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: 800,
     autonomiaKm: 45,
@@ -1431,13 +1432,14 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '10" neumáticas tubeless',
     certificadoDgt: null,
     foto: "/media/patinetes/smartgyro-k2.webp",
-    aprox: ["autonomiaRealKm", "precioEur"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Batería de 48 V y 13 Ah (624 Wh): gran autonomía para su precio",
       "Intermitentes delanteros y traseros, foco LED y app",
       "Ruedas de 10\" y suspensión delantera por horquilla",
     ],
     contras: [
+      "Sin precio oficial verificado: el PVP varía según la versión (Titán, Terra, Pro) y la tienda",
       "Versión base K2 sin certificado DGT verificado (la versión Pro Black sí: VMP A1061)",
       "Pesado (20 kg) para subirlo a diario por escaleras",
       "Batería no extraíble",
@@ -1453,7 +1455,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Smartgyro",
     modelo: "Crossover Dual X2",
-    precioEur: 869,
+    precioEur: null, // sin tarifa oficial verificada en España (verificado 20/10/2026)
     potenciaNominalW: 1000,
     potenciaPicoW: 1600,
     autonomiaKm: 45,
@@ -1467,13 +1469,14 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '10" neumáticas All Road',
     certificadoDgt: true,
     foto: "/media/patinetes/smartgyro-crossover-dual-x2.webp",
-    aprox: ["autonomiaRealKm", "precioEur"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Certificado DGT: doble motor legal con tracción desconectable",
       "Doble suspensión con amortiguadores y ruedas todoterreno de 10\"",
       "Intermitentes delanteros y traseros, muy completo en seguridad",
     ],
     contras: [
+      "Sin precio oficial verificado en la tienda de SmartGyro",
       "Pesado (26 kg): no es para cargar a diario",
       "Carga lenta (7 h) y precio ya en gama media-alta",
       "La potencia dual invita a deslimitarlo, lo que sería ilegal",
@@ -1489,7 +1492,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Smartgyro",
     modelo: "Crossover Dual Pro",
-    precioEur: 799,
+    precioEur: null, // sin tarifa oficial verificada en España (verificado 20/10/2026)
     potenciaNominalW: 800,
     potenciaPicoW: 2400,
     autonomiaKm: 60,
@@ -1503,13 +1506,14 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '10"',
     certificadoDgt: true,
     foto: "/media/patinetes/smartgyro-crossover-dual-pro.webp",
-    aprox: ["autonomiaRealKm", "precioEur", "potenciaNominalW", "pesoKg", "cargaMaxKg"],
+    aprox: ["autonomiaRealKm", "potenciaNominalW", "pesoKg", "cargaMaxKg"],
     pros: [
       "Certificado DGT: incluido en listados de homologados",
       "60 km de autonomía declarada, la mayor de Smartgyro en su momento",
       "Doble suspensión de doble pistón y triple modo de conducción",
     ],
     contras: [
+      "Sin precio oficial verificado en la tienda de SmartGyro",
       "Muy pesado y voluminoso; nada portátil",
       "Precio elevado y disponibilidad limitada en 2026",
       "2400 W de pico exigen cabeza fría: legal solo limitado a 25 km/h",
@@ -1525,7 +1529,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Woxter",
     modelo: "SmartGyro Xtreme Pro",
-    precioEur: 449,
+    precioEur: null, // modelo descatalogado; sin tarifa oficial vigente (verificado 20/10/2026)
     potenciaNominalW: null,
     potenciaPicoW: null,
     autonomiaKm: 25,
@@ -1539,13 +1543,14 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '8.5" (delantera neumática, trasera maciza)',
     certificadoDgt: null,
     foto: "/media/patinetes/woxter-smartgyro-xtreme-pro.webp",
-    aprox: ["autonomiaRealKm", "precioEur"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Marca española (Smartgyro) con servicio técnico local",
       "Rueda delantera neumática + trasera maciza: equilibrio entre confort y cero pinchazos",
       "Plegable, con pantalla multifunción y 3 marchas",
     ],
     contras: [
+      "Sin precio oficial publicado: modelo descatalogado",
       "Ficha técnica oficial incompleta (potencia y batería no publicadas)",
       "Sin certificado DGT verificado",
       "Rueda de 8.5\": menos estable que las de 10\"",
@@ -1561,7 +1566,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Denver",
     modelo: "SEL-10800F",
-    precioEur: 349,
+    precioEur: null, // modelo descatalogado; sin tarifa oficial vigente (verificado 20/10/2026)
     potenciaNominalW: 450,
     potenciaPicoW: 450,
     autonomiaKm: 30,
@@ -1575,13 +1580,14 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '10" tipo panal (antipinchazos)',
     certificadoDgt: null,
     foto: "/media/patinetes/denver-sel-1080.webp",
-    aprox: ["autonomiaRealKm", "precioEur"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Batería de 48 V y 360 Wh con carga en solo 4 horas",
       "Ruedas de 10\" tipo panal: cero pinchazos",
       "Carga máxima de 120 kg con solo 16.6 kg de peso",
     ],
     contras: [
+      "Sin precio oficial vigente: modelo descatalogado",
       "Sin certificado DGT verificado",
       "Marca danesa con poca red de servicio en España",
       "Ruedas rígidas tipo panal: menos confort que las neumáticas",
@@ -1597,7 +1603,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Pure",
     modelo: "Air Go",
-    precioEur: 449,
+    precioEur: null, // modelo descatalogado; sin tarifa oficial vigente (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: 500,
     autonomiaKm: 20,
@@ -1611,14 +1617,14 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '10" antipinchazos con líquido sellante',
     certificadoDgt: null,
     foto: "/media/patinetes/pure-air-go.webp",
-    aprox: ["autonomiaRealKm", "precioEur"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Impermeabilidad IP65: de los pocos que aguantan lluvia seria",
       "Carga completa en solo 3.5 horas",
       "Ruedas de 10\" con líquido antipinchazos de serie y chasis de acero",
     ],
     contras: [
-      "Descatalogado: solo mercado de segunda mano (~180-215 €)",
+      "Sin precio oficial vigente: descatalogado, solo mercado de segunda mano",
       "Autonomía real escasa (~14 km)",
       "Sin certificado DGT verificado",
     ],
@@ -1633,7 +1639,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Pure",
     modelo: "Air Pro (2.ª gen)",
-    precioEur: 649,
+    precioEur: null, // sin tarifa oficial verificada en España (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: 700,
     autonomiaKm: 50,
@@ -1647,7 +1653,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '10" tubeless',
     certificadoDgt: null,
     foto: "/media/patinetes/pure-air-pro.webp",
-    aprox: ["autonomiaRealKm", "precioEur", "potenciaPicoW"],
+    aprox: ["autonomiaRealKm", "potenciaPicoW"],
     pros: [
       "50 km de autonomía declarada con motor de 500 W",
       "Impermeabilidad IP65 líder en su categoría",
@@ -1656,7 +1662,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     contras: [
       "Datos técnicos oficiales de la 2.ª gen incompletos en España",
       "Sin certificado DGT verificado",
-      "Distribución limitada y precio nuevo no publicado",
+      "Sin precio oficial publicado en España",
     ],
     veredicto:
       "El Pure con más autonomía y el eterno IP65. Si aparece a buen precio de ocasión y la lluvia es tu día a día, compensa; si no, hay certificados más baratos.",
@@ -1669,7 +1675,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "E-Twow",
     modelo: "GT 2024 (Smart Edition)",
-    precioEur: 799,
+    precioEur: null, // sin tarifa oficial verificada en España (verificado 20/10/2026)
     potenciaNominalW: 700,
     potenciaPicoW: 700,
     autonomiaKm: 45,
@@ -1683,7 +1689,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '10"',
     certificadoDgt: null,
     foto: "/media/patinetes/etwow-gt-2024.webp",
-    aprox: ["autonomiaRealKm", "precioEur"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Solo 12.3 kg con 700 W y 504 Wh: la mejor relación peso/potencia del listado",
       "Marca rumana con años de experiencia y repuestos disponibles",
@@ -1691,7 +1697,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     ],
     contras: [
       "Sin certificado DGT verificado",
-      "Precio alto (~799 €) para un patinete sin suspensión",
+      "Sin precio oficial verificado: la tienda oficial de E-TWOW lista la gama GT desde 1.190 €",
       "Diseño espartano: sin intermitentes ni extras",
     ],
     veredicto:
@@ -1705,7 +1711,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "E-Twow",
     modelo: "Booster V",
-    precioEur: 899,
+    precioEur: null, // modelo descatalogado; sin tarifa oficial vigente (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: 500,
     autonomiaKm: 40,
@@ -1719,7 +1725,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '8" sólidas',
     certificadoDgt: null,
     foto: "/media/patinetes/etwow-booster-v.webp",
-    aprox: ["autonomiaRealKm", "precioEur"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Solo 10.8 kg: el más ligero de todo el comparador",
       "Carga rapidísima (2-3 h) con batería Samsung 36 V 10.5 Ah",
@@ -1728,7 +1734,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     contras: [
       "Sin certificado DGT verificado",
       "Ruedas sólidas de 8\": conducción dura en asfalto irregular",
-      "Precio nuevo no publicado; autonomía real (~27 km) justa",
+      "Sin precio oficial vigente: modelo descatalogado; autonomía real (~27 km) justa",
     ],
     veredicto:
       "El minimalista definitivo: menos de 11 kg y carga en 2.5 h. Si lo vas a cargar a pulso cada día, no hay rival; si buscas confort, mira hacia las 10 pulgadas.",
@@ -1741,7 +1747,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Inokim",
     modelo: "Light 2",
-    precioEur: 949,
+    precioEur: null, // modelo descatalogado; sin tarifa oficial vigente (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: 650,
     autonomiaKm: 30,
@@ -1755,14 +1761,14 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '8.5"',
     certificadoDgt: false,
     foto: "/media/patinetes/inokim-light-2.webp",
-    aprox: ["autonomiaRealKm", "precioEur", "potenciaNominalW", "potenciaPicoW", "tiempoCargaH", "bateriaWh", "frenos"],
+    aprox: ["autonomiaRealKm", "potenciaNominalW", "potenciaPicoW", "tiempoCargaH", "bateriaWh", "frenos"],
     pros: [
       "Marca israelí premium con acabados de alta calidad",
       "Ligero (13.7 kg) y muy compacto al plegarse",
       "Conducción suave y silenciosa, bien equilibrado",
     ],
     contras: [
-      "Descatalogado: solo segunda mano o stock residual",
+      "Sin precio oficial vigente: modelo descatalogado, solo segunda mano o stock residual",
       "Carga máxima de solo 75 kg",
       "Sin certificado DGT verificado y repuestos caros",
     ],
@@ -1777,7 +1783,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Inokim",
     modelo: "Ox Super",
-    precioEur: 1899,
+    precioEur: null, // sin tarifa oficial verificada en España (verificado 20/10/2026)
     potenciaNominalW: 1000,
     potenciaPicoW: 1300,
     autonomiaKm: 110,
@@ -1791,7 +1797,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '10"',
     certificadoDgt: null,
     foto: "/media/patinetes/inokim-ox-super.webp",
-    aprox: ["autonomiaRealKm", "precioEur", "cargaMaxKg"],
+    aprox: ["autonomiaRealKm", "cargaMaxKg"],
     pros: [
       "110 km declarados con batería de 60 V y 21 Ah: autonomía de otro nivel",
       "Doble suspensión patentada y construcción premium",
@@ -1799,7 +1805,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     ],
     contras: [
       "28 kg y 12.5 h de carga: nada portátil",
-      "Precio de gama alta (no publicado) y sin certificado DGT verificado",
+      "Sin precio oficial publicado en España y sin certificado DGT verificado",
       "Exceso de patinete para un uso urbano normal",
     ],
     veredicto:
@@ -1813,7 +1819,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Egret",
     modelo: "Ten V4",
-    precioEur: 949,
+    precioEur: null, // modelo descatalogado; sin tarifa oficial vigente (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: 800,
     autonomiaKm: 40,
@@ -1827,13 +1833,14 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '10"',
     certificadoDgt: null,
     foto: "/media/patinetes/egret-ten-v4.webp",
-    aprox: ["precioEur", "autonomiaRealKm"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Ingeniería alemana (Walberg Urban Electrics) con gran reputación de calidad",
       "Premiado por Stiftung Warentest y ADAC en sus versiones anteriores",
       "Garantía de 2 años incluyendo batería",
     ],
     contras: [
+      "Sin precio oficial vigente: modelo descatalogado por Egret",
       "Ficha técnica oficial no localizada en fuentes públicas verificables",
       "Distribución en España muy limitada y precio elevado",
       "Sin certificado DGT verificado",
@@ -1849,7 +1856,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Vsett",
     modelo: "8",
-    precioEur: 849,
+    precioEur: null, // sin tarifa oficial verificada en España (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: 600,
     autonomiaKm: 50,
@@ -1863,13 +1870,14 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '8.5" delantera neumática / 8" trasera sólida',
     certificadoDgt: false,
     foto: "/media/patinetes/vsett-8.webp",
-    aprox: ["autonomiaRealKm", "precioEur"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Batería LG de 48 V y 15.6 Ah (748 Wh): gran autonomía real",
       "Doble suspensión, doble puerto de carga y encendido por tarjeta",
       "120 kg de carga máxima y chasis de aluminio robusto",
     ],
     contras: [
+      "Sin precio oficial publicado en España",
       "Sin certificado DGT verificado",
       "Carga lenta (7-10 h con un cargador) y 19.5 kg",
       "Rueda trasera sólida: menos agarre que una neumática",
@@ -1885,7 +1893,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Vsett",
     modelo: "9+ Lite",
-    precioEur: 750,
+    precioEur: null, // sin tarifa oficial verificada en España (verificado 20/10/2026)
     potenciaNominalW: 1300,
     potenciaPicoW: 1300,
     autonomiaKm: 50,
@@ -1899,7 +1907,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '8.5" neumáticas',
     certificadoDgt: null,
     foto: "/media/patinetes/vsett-9-plus.webp",
-    aprox: ["autonomiaRealKm", "precioEur", "cargaMaxKg", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "cargaMaxKg", "tiempoCargaH"],
     pros: [
       "Doble motor (2 x 650 W): tracción y aceleración muy superiores",
       "Batería de 748 Wh y pantalla LED multifunción en color",
@@ -1908,7 +1916,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     contras: [
       "Sin certificado DGT verificado",
       "25 kg: pesado para transportarlo",
-      "Precio (~750 €) ya en gama media",
+      "Sin precio oficial publicado en España",
     ],
     veredicto:
       "El doble motor más asequible con pedigrí. Si necesitas tracción extra para cuestas y no te importa el peso, rinde muy por encima de su precio; falta el certificado.",
@@ -1921,7 +1929,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kaabo",
     modelo: "Skywalker 10H",
-    precioEur: 949,
+    precioEur: null, // sin tarifa oficial verificada en España (verificado 20/10/2026)
     potenciaNominalW: 800,
     potenciaPicoW: null,
     autonomiaKm: 65,
@@ -1935,7 +1943,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '10" neumáticas',
     certificadoDgt: false,
     foto: "/media/patinetes/kaabo-skywalker-10h.webp",
-    aprox: ["autonomiaRealKm", "precioEur"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "800 W y 65 km declarados: el más capaz de la lista en bruto",
       "Doble suspensión, doble disco y protección IP55",
@@ -1944,7 +1952,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     contras: [
       "Sin certificado DGT verificado",
       "21.4 kg y 6-8 h de carga",
-      "Precio nuevo no publicado en España (versión ECO 400: 699 €)",
+      "Sin precio oficial publicado en España",
     ],
     veredicto:
       "El todoterreno urbano por excelencia: potencia, autonomía y suspensión de verdad. Para campo y ciudad sin complejos, aunque sin certificado DGT y con peso de moto.",
@@ -1957,7 +1965,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Joyor",
     modelo: "Y10",
-    precioEur: 599,
+    precioEur: null, // sin tarifa oficial verificada en España (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: 810,
     autonomiaKm: 100,
@@ -1971,7 +1979,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '10" neumáticas',
     certificadoDgt: true,
     foto: "/media/patinetes/joyor-y10.webp",
-    aprox: ["autonomiaRealKm", "precioEur"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Certificado DGT: incluido en listados de homologados",
       "Batería de 48 V y 26 Ah (1248 Wh): hasta 100 km declarados",
@@ -1979,7 +1987,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     ],
     contras: [
       "26 kg y 13-15 h de carga: el más pesado y lento de cargar",
-      "Precio real entre 599 € (oferta) y 1099 € según tienda",
+      "Sin precio oficial estable: el precio varía mucho según la tienda (599-1.099 €)",
       "Autonomía real (~65 km) lejos de los 100 km declarados",
     ],
     veredicto:
@@ -1993,7 +2001,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "iScooter",
     modelo: "i9",
-    precioEur: 239,
+    precioEur: null, // sin tarifa oficial verificada en España (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 30,
@@ -2007,13 +2015,14 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '8.5" tipo panal (antipinchazos)',
     certificadoDgt: false,
     foto: "/media/patinetes/iscooter-i9.webp",
-    aprox: ["autonomiaRealKm", "precioEur", "potenciaPicoW"],
+    aprox: ["autonomiaRealKm", "potenciaPicoW"],
     pros: [
       "Precio rompedor (~239 €, a veces menos en oferta)",
       "Ligero (12.5 kg) con app, pantalla y control de crucero",
       "Ruedas tipo panal: cero pinchazos y IP54",
     ],
     contras: [
+      "Sin precio oficial verificado del i9 básico en la tienda oficial de iScooter",
       "Sin certificado DGT verificado",
       "Marca genérica china: servicio técnico y repuestos limitados",
       "Batería pequeña (315 Wh): autonomía real ~20 km",
