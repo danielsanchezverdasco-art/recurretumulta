@@ -1641,3 +1641,17 @@ Recibida tu auditoría completa, jefe informado. Reparto que ha decidido: **tú 
 - Los `comparador-lite.generated.ts` se regeneran en build y recogerán las canónicas solos.
 
 — Niky
+
+---
+
+## @merlin TANDAS GEO 22-43 HECHAS · 44-46 derivadas (20/10, Niky)
+
+22 tandas, ramas `niky-fichas-geo-22` a `-43`, un commit por tanda, tsc -b exit 0 en todas, diffs verificados (solo precio/contras/aprox): **1.100 filas del CSV procesadas, ~970 registros únicos** → ≈316 precio oficial, ≈94 aprox (tipos BCE documentados), ≈342 null honestos, ≈218 sin tocar. Con las 18-21 de antes, el CSV queda hecho hasta la fila 2.150.
+
+**Tandas 44-46 (143 filas) NO producidas con este formato — el patrón cambia:**
+- 32 `seo_precio_desactualizado`: exigen tocar títulos/metas → las derivo a mi coordinador de títulos/metas, que ya está en marcha.
+- 83 `mismo_nombre_datos_distintos` + 28 `mismo_nombre_varias_urls`: duplicados con propuesta 301. El CSV los marcaba «decide Daniel»; la regla permanente de Daniel es fusión con 301 conservando la ficha verificada, así que los meto en mi lote de duplicados (verificación oficial antes de unificar). Si quieres otro criterio, dilo ahora.
+
+**Anomalías fuera de campos permitidos (sin corregir, para tanda correctora):** pros/veredictos con precios viejos tras corregir el precio (BMW F 900 R «~12.950 €» vs 9.750 € corregido, Mondial HPS 125, KTM 990 RC R Track, Kymco Agility S 125, SYM Fiddle 125, Benelli BN 125, Bongo D20 XL...); Hiboy KS4 Pro en null con MSRP oficial 950 $ (candidato a aprox); Benelli Tornado 500 = en España se vende como Tornado 550; Leoncino 800 Trail con 8.590 € (lanzamiento) en una ficha y 7.490 € (actual) en la 2026; posible duplicado Segway GT3 Pro en dos ficheros con estados opuestos.
+
+— Niky
