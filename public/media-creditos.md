@@ -5621,3 +5621,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/volkswagen-tiguan-ehybrid-272-2025-precio-ficha-tecnica-hunt1.webp | https://images.dailyrevs.com/0000/v3/Volkswagen/673ea3eb126155e6e1b0aa52/2025-tiguan-r-line-volkswagen-1ihh80bvtpyfq47c.jpeg | Volkswagen (prensa) / DailyRevs | desconocida |
 | /media/volkswagen-tiguan-ehybrid-272-2025-precio-ficha-tecnica-hunt2.webp | https://images.dailyrevs.com/0000/v3/Volkswagen/673ea3eb126155e6e1b0aa52/2025-tiguan-r-line-volkswagen-1izageeeeee01tdwp2woh2v.jpeg | Volkswagen (prensa) / DailyRevs | desconocida |
 | /media/volkswagen-tiguan-ehybrid-272-2025-precio-ficha-tecnica-hunt3.webp | https://cdn.nwi-ms.com/media/rs/V/comm/V20250394055/model/front.jpg?size=XL&background=full | Volkswagen (configurador oficial) | desconocida |
+| /media/skoda-elroq-85-2025-precio-ficha-tecnica-hunt1.webp | https://www.km77.com/images/medium/8/5/1/3/koda-elroq-2025-frontal-lateral-.378513.jpg | km77 | desconocida |
+| /media/skoda-elroq-85-2025-precio-ficha-tecnica-hunt2.webp | https://www.skoda.pt/dam/images/a654f76dba3a783ad44eb81d4d1ca17be0651363/84675af8747be1a0508faf1230d95359/6926d4cf-252f-4875-adc3-7ba50d3a213f/crop:SMART/resize:828:828/skoda-elroq-m90-easy-parking-04 | Škoda (prensa oficial) | desconocida |
+| /media/skoda-elroq-85-2025-precio-ficha-tecnica-hunt3.webp | https://www.autojournal.cz/wp-content/uploads/2025/11/%C5%A0koda-Elroq-85-2025-22.jpg | Autojournal.cz | desconocida |
+| /media/soueast-dx8s-2026-precio-ficha-tecnica-hunt1.webp | https://img-1.carhao.market/dongchedi/new_cars/78896/67e6d165e5252.jpg | Dongchedi (懂车帝) | desconocida |
+| /media/soueast-dx8s-2026-precio-ficha-tecnica-hunt2.webp | https://autospot-54.ru/resources/bodies/743640e2878f834c9f67614fec8014c9f0ce747a.webp | Autospot | desconocida |
+| /media/soueast-dx8s-2026-precio-ficha-tecnica-hunt3.webp | https://s0.rbk.ru/v6_top_pics/media/img/0/66/347175026316660.webp | Autonews.ru | desconocida |
+| /media/suzuki-gsx-8tt-2025-ficha-tecnica-precio-hunt1.webp | https://soymotero.net/wp-content/uploads/2025/07/5-1.jpg | Soymotero.net | desconocida |
+| /media/suzuki-gsx-8tt-2025-ficha-tecnica-precio-hunt2.webp | https://mcn-images.bauersecure.com/wp-images/361997/999x0/2025_gsx8tt_costs_image_1.jpg | Motor Cycle News (MCN) | desconocida |
+| /media/suzuki-gsx-8tt-2025-ficha-tecnica-precio-hunt3.webp | https://www.motorcycles.news/wp-content/uploads/2025/07/Suzuki-GSX-8TT-5-1030x687.jpg | motorcycles.news | desconocida |
+| /media/voge-rr660s-2026-ficha-tecnica-precio-hunt1.webp | https://www.mundomotero.com/wp-content/uploads/2024/09/voge-rr660s-2026-8.jpg | MundoMotero | desconocida |
+| /media/voge-rr660s-2026-ficha-tecnica-precio-hunt2.webp | https://www.mundomotero.com/wp-content/uploads/2024/09/voge-rr660s-2026-1.jpg | MundoMotero | desconocida |
+| /media/voge-rr660s-2026-ficha-tecnica-precio-hunt3.webp | https://www.motofichas.com/images/articulos/voge/rr660s-2026/voge-rr660s-2026-02.jpg | MotoFichas | desconocida |
