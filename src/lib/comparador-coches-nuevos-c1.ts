@@ -200,6 +200,8 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       costeAnualAproxEur: null,
       fuente: "Estándar de mantenimiento BYD (modelo no comercializado en España)",
     },
+    fuenteNombre: "BYD (web oficial global)",
+    fuenteUrl: "https://www.byd.com",
   },
   // AUDIT 08/10/2026 (orden Daniel): nulls justificados — sin ES: precioDesde (no se vende en ES), etiquetaDgt (sin homologación ES) — no publicado por la marca: cargaRapidaKw — vídeo sin asignar (campo opcional).
   {
@@ -264,6 +266,8 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       costeAnualAproxEur: null,
       fuente: "Estándar de mantenimiento BYD EV (modelo no comercializado en España)",
     },
+    fuenteNombre: "BYD (web oficial global)",
+    fuenteUrl: "https://www.byd.com",
   },
   // AUDIT 08/10/2026 (orden Daniel): nulls justificados — sin ES: precioDesde (no se vende en ES), etiquetaDgt (sin homologación ES) — no publicado por la marca: cargaRapidaKw, pesoKg, consumo, parNm — vídeo sin asignar (campo opcional).
   {
@@ -328,6 +332,8 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       costeAnualAproxEur: null,
       fuente: "Estándar de mantenimiento BYD EV (modelo no comercializado en España)",
     },
+    fuenteNombre: "BYD (web oficial global)",
+    fuenteUrl: "https://www.byd.com",
   },
   // AUDIT 08/10/2026 (orden Daniel): nulls justificados — sin ES: precioDesde (no se vende en ES), etiquetaDgt (sin homologación ES) — no publicado por la marca: cargaRapidaKw, pesoKg, consumo — vídeo sin asignar (campo opcional).
   {
@@ -392,6 +398,8 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       costeAnualAproxEur: null,
       fuente: "Estándar de mantenimiento BYD EV (modelo no comercializado en España)",
     },
+    fuenteNombre: "BYD (web oficial global)",
+    fuenteUrl: "https://www.byd.com",
   },
   // AUDIT 08/10/2026 (orden Daniel): nulls justificados — no publicado por la marca: anchoMm, altoMm, pesoKg, consumo — vídeo sin asignar (campo opcional).
   {

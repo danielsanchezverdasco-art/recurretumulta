@@ -31,6 +31,7 @@ import { HISTORIA_M14 } from "./historia-m14.ts";
 import { HISTORIA_M15 } from "./historia-m15.ts";
 import { HISTORIA_M16 } from "./historia-m16.ts";
 import { HISTORIA_M17 } from "./historia-m17.ts";
+import { HISTORIA_ENRIQUECER_T12 } from "./historia-enriquecer-t12.ts";
 export const HISTORIA_MODELOS: Record<string, HistoriaModelo> = {
   "aion-v-2025-precio-ficha-tecnica": { lanzamiento: 2024, hitos: [{ anio: 2024, tipo: "lanzamiento", cambio: null, foto: "/media/historia-aion-v-2025-precio-ficha-tecnica-2024.webp" }] },
   "aion-ut-2025-precio-ficha-tecnica": { lanzamiento: 2025, hitos: [{ anio: 2025, tipo: "lanzamiento", cambio: null, foto: "/media/historia-aion-ut-2025-precio-ficha-tecnica-2025.webp" }] },
@@ -1703,6 +1704,7 @@ export const HISTORIA_MODELOS: Record<string, HistoriaModelo> = {
   "toyota-bz4x-224-2025-precio-ficha-tecnica": { lanzamiento: 2022, hitos: [{ anio: 2022, tipo: "lanzamiento", cambio: null, foto: "/media/historia-toyota-bz4x-224-2025-precio-ficha-tecnica-2022.webp" }, { anio: 2025, tipo: "restyling", cambio: "restyling/facelift de mitad de ciclo", foto: null }] },
   "hyundai-ioniq-9-long-range-2025-precio-ficha-tecnica": { lanzamiento: 2024, hitos: [{ anio: 2024, tipo: "lanzamiento", cambio: null, foto: "/media/historia-hyundai-ioniq-9-long-range-2025-precio-ficha-tecnica-2024.webp" }] },
   "hyundai-kona-electrico-135-2025-precio-ficha-tecnica": { lanzamiento: 2023, hitos: [{ anio: 2023, tipo: "lanzamiento", cambio: null, foto: "/media/historia-hyundai-kona-electrico-135-2025-precio-ficha-tecnica-2023.webp" }] },
+  ...HISTORIA_ENRIQUECER_T12,
 };
 export function historiaDeModelo(fichaId: string): HistoriaModelo | undefined {
   return HISTORIA_MODELOS[fichaId];

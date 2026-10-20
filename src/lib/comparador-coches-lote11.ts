@@ -126,6 +126,8 @@ export const COCHES_LOTE11: CocheComparador[] = [
       costeAnualAproxEur: null,
       fuente: "Plan oficial BYD Europa (costes de taller no publicados)",
     },
+    fuenteNombre: "BYD (web oficial global)",
+    fuenteUrl: "https://www.byd.com",
   },
   {
     id: "xpeng-p7-2025-nueva-generacion-precio-ficha-tecnica",
@@ -2360,6 +2362,8 @@ export const COCHES_LOTE11: CocheComparador[] = [
       costeAnualAproxEur: null,
       fuente: "Plan oficial BYD Europa (costes de taller no publicados)",
     },
+    fuenteNombre: "BYD (web oficial global)",
+    fuenteUrl: "https://www.byd.com",
   },
   {
     id: "byd-xia-2025-precio-ficha-tecnica",

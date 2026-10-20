@@ -322,6 +322,8 @@ export const COCHES_LOTE2: CocheComparador[] = [
       costeAnualAproxEur: null,
       fuente: "BYD (documentación oficial en China)",
     },
+    fuenteNombre: "BYD (web oficial global)",
+    fuenteUrl: "https://www.byd.com",
   },
   {
     id: "byd-han-l-2025-precio-ficha-tecnica",
