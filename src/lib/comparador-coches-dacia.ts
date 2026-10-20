@@ -1577,7 +1577,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     modelo: "Logan ECO-G 100",
     tipo: "GLP (bifuel gasolina/GLP)",
     categoria: "Berlina",
-    precioDesde: null,
+    precioDesde: 13550, // precio de salida en España (actualidadmotor),
     potenciaCv: 101,
     autonomiaKm: null,
     maleteroL: 528,

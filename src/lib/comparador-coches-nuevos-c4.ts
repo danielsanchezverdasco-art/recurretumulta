@@ -469,7 +469,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     modelo: "CX-5 2026",
     tipo: "Híbrido ligero",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 35200, // km77: CX-5 2026 desde 35.200 € en España,
     potenciaCv: 140,
     autonomiaKm: null,
     maleteroL: null,

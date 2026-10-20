@@ -585,7 +585,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/mercedes-glb-350-eq-2026-1.webp",
-    imagenInteriorOficial: "/media/mercedes-glb-350-eq-2026-3.webp",
+    imagenInteriorOficial: "", // foto oficial de interior no disponible: sin foto en ninguna fuente (auditoría 20/10/2026)
     videoId: "RvzGzHtuzhc",
     videoCanal: "La 8 Palencia",
     marca: "Mercedes-Benz",
@@ -647,13 +647,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
         ancho: 1280,
         alto: 960,
       },
-      {
-        src: "/media/mercedes-glb-350-eq-2026-3.webp",
-        alt: "Mercedes-Benz GLB 350 EQ, interior del SUV eléctrico",
-        ancho: 1280,
-        alto: 720,
-      },
-    ],
+          ],
     analisisSlug: "mercedes-glb-350-eq-2026-precio-electrico",
     euroncap: {
       estrellas: null,
@@ -685,7 +679,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mercedes-amg-cle-53-cabrio-2025-1.webp",
-    imagenInteriorOficial: "/media/mercedes-amg-cle-53-cabrio-2025-3.webp",
+    imagenInteriorOficial: "", // foto oficial de interior no disponible: sin foto en ninguna fuente (auditoría 20/10/2026)
     videoId: "LnYYZNA1EWw",
     videoCanal: "Grupo Aguinaga",
     marca: "Mercedes-Benz",
@@ -747,13 +741,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
         ancho: 1280,
         alto: 768,
       },
-      {
-        src: "/media/mercedes-amg-cle-53-cabrio-2025-3.webp",
-        alt: "Mercedes-AMG CLE 53 Cabrio, interior con asientos deportivos",
-        ancho: 1280,
-        alto: 720,
-      },
-    ],
+          ],
     analisisSlug: "mercedes-amg-cle-53-cabrio-2025-precio-descapotable",
     euroncap: {
       estrellas: null,
@@ -1809,7 +1797,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/volkswagen-e-caravelle-2026-2.webp",
-    imagenInteriorOficial: "/media/volkswagen-e-caravelle-2026-3.webp",
+    imagenInteriorOficial: "", // foto oficial de interior no disponible: sin foto en ninguna fuente (auditoría 20/10/2026)
     videoId: null,
     videoCanal: null,
     marca: "Volkswagen",
@@ -1877,13 +1865,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
         ancho: 1280,
         alto: 854,
       },
-      {
-        src: "/media/volkswagen-e-caravelle-2026-3.webp",
-        alt: "Salpicadero del Volkswagen e-Caravelle",
-        ancho: 1280,
-        alto: 852,
-      },
-    ],
+          ],
     analisisSlug: "volkswagen-e-caravelle-2026-precio-furgoneta-electrica-9-plazas",
     euroncap: {
       estrellas: null,
@@ -2018,7 +2000,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-enyaq-coupe-85x-2026-1.webp",
-    imagenInteriorOficial: "/media/skoda-enyaq-coupe-85x-2026-3.webp",
+    imagenInteriorOficial: "", // foto oficial de interior no disponible: sin foto en ninguna fuente (auditoría 20/10/2026)
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -2080,13 +2062,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
         ancho: 1280,
         alto: 854,
       },
-      {
-        src: "/media/skoda-enyaq-coupe-85x-2026-3.webp",
-        alt: "Interior del Skoda Enyaq 2025",
-        ancho: 1280,
-        alto: 852,
-      },
-    ],
+          ],
     analisisSlug: "skoda-enyaq-coupe-85x-2026-precio-suv-coupe-electrico",
     euroncap: {
       estrellas: 5,
@@ -2123,7 +2099,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-elroq-85x-2026-1.webp",
-    imagenInteriorOficial: "/media/skoda-elroq-85x-2026-3.webp",
+    imagenInteriorOficial: "", // foto oficial de interior no disponible: sin foto en ninguna fuente (auditoría 20/10/2026)
     videoId: "8BF5rcbI6pc",
     videoCanal: "pruebatucoche.es",
     marca: "Skoda",
@@ -2185,13 +2161,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
         ancho: 1280,
         alto: 720,
       },
-      {
-        src: "/media/skoda-elroq-85x-2026-3.webp",
-        alt: "Salpicadero del Skoda Elroq",
-        ancho: 1280,
-        alto: 720,
-      },
-    ],
+          ],
     analisisSlug: "skoda-elroq-85x-2026-precio-suv-electrico-compacto",
     euroncap: {
       estrellas: 5,
@@ -2228,7 +2198,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/cupra-leon-20-tdi-2026-1.webp",
-    imagenInteriorOficial: "/media/cupra-leon-20-tdi-2026-3.webp",
+    imagenInteriorOficial: "", // foto oficial de interior no disponible: sin foto en ninguna fuente (auditoría 20/10/2026)
     videoId: null,
     videoCanal: null,
     marca: "CUPRA",
@@ -2290,13 +2260,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
         ancho: 1280,
         alto: 722,
       },
-      {
-        src: "/media/cupra-leon-20-tdi-2026-3.webp",
-        alt: "Interior del CUPRA León",
-        ancho: 1280,
-        alto: 854,
-      },
-    ],
+          ],
     analisisSlug: "cupra-leon-20-tdi-2026-precio-compacto-diesel-deportivo",
     euroncap: {
       estrellas: 5,
@@ -3167,7 +3131,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/ford-f-150-raptor-2025-1.webp",
-    imagenInteriorOficial: "/media/ford-f-150-raptor-2025-3.webp",
+    imagenInteriorOficial: "", // foto oficial de interior no disponible: sin foto en ninguna fuente (auditoría 20/10/2026)
     videoId: "NSMZ9S8w8k8",
     videoCanal: "coches.net",
     marca: "Ford",
@@ -3231,13 +3195,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
         ancho: 1280,
         alto: 780,
       },
-      {
-        src: "/media/ford-f-150-raptor-2025-3.webp",
-        alt: "Interior de la Ford F-150 Raptor con asientos deportivos",
-        ancho: 1280,
-        alto: 692,
-      },
-    ],
+          ],
     analisisSlug: "ford-f-150-raptor-2025-precio-pick-up-americana",
     euroncap: {
       estrellas: null,

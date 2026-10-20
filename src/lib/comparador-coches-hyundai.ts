@@ -2083,7 +2083,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     modelo: "Tucson 1.6 TGDi 150 MHEV",
     tipo: "Híbrido ligero (MHEV 48V)",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 35195, // hyundai.es oficial: TUCSON FL 1.6T 150CV KLASS PVP 35.195 €,
     potenciaCv: 150,
     autonomiaKm: null,
     maleteroL: 620,

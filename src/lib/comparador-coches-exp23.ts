@@ -48,6 +48,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/mini-cooper-e-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mini-cooper-e-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mini-cooper-e-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Mini Cooper E", ancho: 1804, alto: 1203 },
+      { src: "/media/mini-cooper-e-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Mini Cooper E", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "mini-cooper-e-2024-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -123,6 +127,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/mini-cooper-se-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mini-cooper-se-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mini-cooper-se-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Mini Cooper SE", ancho: 1804, alto: 1203 },
+      { src: "/media/mini-cooper-se-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Mini Cooper SE", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "mini-cooper-se-2024-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -160,7 +168,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Cooper C",
     tipo: "Gasolina",
     categoria: "Urbano",
-    precioDesde: null,
+    precioDesde: 27200, // mini.es oficial 10/2026: Cooper 3 puertas desde aprox. 27.200 €,
     potenciaCv: 156,
     autonomiaKm: null,
     maleteroL: 200,
@@ -198,6 +206,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/mini-cooper-c-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mini-cooper-c-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mini-cooper-c-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Mini Cooper C", ancho: 1804, alto: 1203 },
+      { src: "/media/mini-cooper-c-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Mini Cooper C", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "mini-cooper-c-2024-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -273,6 +285,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/mini-cooper-s-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mini-cooper-s-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mini-cooper-s-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Mini Cooper S", ancho: 1920, alto: 1280 },
+      { src: "/media/mini-cooper-s-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Mini Cooper S", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "mini-cooper-s-2024-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -348,6 +364,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/mini-cooper-jcw-e-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mini-cooper-jcw-e-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mini-cooper-jcw-e-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Mini Cooper JCW E", ancho: 1804, alto: 1203 },
+      { src: "/media/mini-cooper-jcw-e-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Mini Cooper JCW E", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "mini-cooper-jcw-e-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -385,7 +405,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Cooper JCW",
     tipo: "Gasolina",
     categoria: "Urbano",
-    precioDesde: null,
+    precioDesde: 39455, // tarifa oficial de lanzamiento 2025 (prensa del motor),
     potenciaCv: 231,
     autonomiaKm: null,
     maleteroL: 200,
@@ -423,6 +443,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/mini-cooper-jcw-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mini-cooper-jcw-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mini-cooper-jcw-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Mini Cooper JCW", ancho: 1804, alto: 1203 },
+      { src: "/media/mini-cooper-jcw-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Mini Cooper JCW", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "mini-cooper-jcw-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -460,7 +484,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Cooper Cabrio S",
     tipo: "Gasolina",
     categoria: "Urbano",
-    precioDesde: null,
+    precioDesde: 35850, // tarifa oficial 2025 (prensa del motor),
     potenciaCv: 204,
     autonomiaKm: null,
     maleteroL: 160,
@@ -498,6 +522,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/mini-cooper-cabrio-s-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mini-cooper-cabrio-s-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mini-cooper-cabrio-s-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Mini Cooper Cabrio S", ancho: 1804, alto: 1203 },
+      { src: "/media/mini-cooper-cabrio-s-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Mini Cooper Cabrio S", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "mini-cooper-cabrio-s-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -535,7 +563,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Cooper Cabrio C",
     tipo: "Gasolina",
     categoria: "Urbano",
-    precioDesde: null,
+    precioDesde: 33350, // tarifa oficial 2025 (prensa del motor),
     potenciaCv: 163,
     autonomiaKm: null,
     maleteroL: 160,
@@ -573,6 +601,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/mini-cooper-cabrio-c-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mini-cooper-cabrio-c-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mini-cooper-cabrio-c-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Mini Cooper Cabrio C", ancho: 1804, alto: 1203 },
+      { src: "/media/mini-cooper-cabrio-c-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Mini Cooper Cabrio C", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "mini-cooper-cabrio-c-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -610,7 +642,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Aceman E",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 37250, // precio oficial de lanzamiento en España (fabricante/Europa Press),
     potenciaCv: 184,
     autonomiaKm: 310,
     maleteroL: 300,
@@ -648,6 +680,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/mini-aceman-e-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mini-aceman-e-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mini-aceman-e-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Mini Aceman E", ancho: 1804, alto: 1203 },
+      { src: "/media/mini-aceman-e-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Mini Aceman E", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "mini-aceman-e-2024-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -685,7 +721,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Aceman SE",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 34040, // km77 07/2026: Aceman SE desde 34.040 €,
     potenciaCv: 218,
     autonomiaKm: 405,
     maleteroL: 300,
@@ -723,6 +759,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/mini-aceman-se-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mini-aceman-se-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mini-aceman-se-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Mini Aceman SE", ancho: 1804, alto: 1203 },
+      { src: "/media/mini-aceman-se-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Mini Aceman SE", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "mini-aceman-se-2024-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -760,7 +800,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Aceman JCW E",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 43895, // tarifa oficial 2025 (prensa del motor),
     potenciaCv: 258,
     autonomiaKm: 355,
     maleteroL: 300,
@@ -798,6 +838,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/mini-aceman-jcw-e-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mini-aceman-jcw-e-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mini-aceman-jcw-e-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Mini Aceman JCW E", ancho: 1804, alto: 1203 },
+      { src: "/media/mini-aceman-jcw-e-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Mini Aceman JCW E", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "mini-aceman-jcw-e-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -835,7 +879,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Countryman SE ALL4",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 43740, // PVP España (carwow, ficha del modelo),
     potenciaCv: 313,
     autonomiaKm: 433,
     maleteroL: 460,
@@ -857,7 +901,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 494,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "5 estrellas EuroNCAP (diciembre 2024)",
       "313 CV con tracción total y 433 km de autonomía",
@@ -873,6 +917,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/mini-countryman-se-all4-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mini-countryman-se-all4-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mini-countryman-se-all4-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Mini Countryman SE ALL4", ancho: 1200, alto: 653 },
+      { src: "/media/mini-countryman-se-all4-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Mini Countryman SE ALL4", ancho: 1200, alto: 653 }
+    ],
     analisisSlug: "mini-countryman-se-all4-2024-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -910,7 +958,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Countryman JCW ALL4",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 52195, // tarifa oficial 2025 (prensa del motor),
     potenciaCv: 300,
     autonomiaKm: null,
     maleteroL: 450,
@@ -948,6 +996,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/mini-countryman-jcw-all4-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mini-countryman-jcw-all4-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mini-countryman-jcw-all4-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Mini Countryman JCW ALL4", ancho: 1200, alto: 653 },
+      { src: "/media/mini-countryman-jcw-all4-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Mini Countryman JCW ALL4", ancho: 1200, alto: 653 }
+    ],
     analisisSlug: "mini-countryman-jcw-all4-2024-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1023,6 +1075,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/land-rover-defender-110-d350-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/land-rover-defender-110-d350-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/land-rover-defender-110-d350-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Land Rover Defender 110 D350", ancho: 1804, alto: 1203 },
+      { src: "/media/land-rover-defender-110-d350-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Land Rover Defender 110 D350", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "land-rover-defender-110-d350-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1098,6 +1154,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/land-rover-defender-110-d300-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/land-rover-defender-110-d300-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/land-rover-defender-110-d300-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Land Rover Defender 110 D300", ancho: 1804, alto: 1203 },
+      { src: "/media/land-rover-defender-110-d300-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Land Rover Defender 110 D300", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "land-rover-defender-110-d300-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1173,6 +1233,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/land-rover-defender-110-p525-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/land-rover-defender-110-p525-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/land-rover-defender-110-p525-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Land Rover Defender 110 P525", ancho: 1804, alto: 1203 },
+      { src: "/media/land-rover-defender-110-p525-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Land Rover Defender 110 P525", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "land-rover-defender-110-p525-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1248,6 +1312,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/land-rover-defender-110-p400e-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/land-rover-defender-110-p400e-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/land-rover-defender-110-p400e-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Land Rover Defender 110 P400e", ancho: 1804, alto: 1203 },
+      { src: "/media/land-rover-defender-110-p400e-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Land Rover Defender 110 P400e", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "land-rover-defender-110-p400e-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1323,6 +1391,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/land-rover-defender-130-d300-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/land-rover-defender-130-d300-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/land-rover-defender-130-d300-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Land Rover Defender 130 D300", ancho: 1804, alto: 1203 },
+      { src: "/media/land-rover-defender-130-d300-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Land Rover Defender 130 D300", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "land-rover-defender-130-d300-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1398,6 +1470,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/land-rover-defender-130-p400-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/land-rover-defender-130-p400-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/land-rover-defender-130-p400-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Land Rover Defender 130 P400", ancho: 1804, alto: 1203 },
+      { src: "/media/land-rover-defender-130-p400-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Land Rover Defender 130 P400", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "land-rover-defender-130-p400-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1473,6 +1549,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/land-rover-defender-90-p400-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/land-rover-defender-90-p400-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/land-rover-defender-90-p400-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Land Rover Defender 90 P400", ancho: 1804, alto: 1203 },
+      { src: "/media/land-rover-defender-90-p400-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Land Rover Defender 90 P400", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "land-rover-defender-90-p400-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1548,6 +1628,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/land-rover-defender-octa-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/land-rover-defender-octa-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/land-rover-defender-octa-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Land Rover Defender OCTA", ancho: 1200, alto: 742 },
+      { src: "/media/land-rover-defender-octa-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Land Rover Defender OCTA", ancho: 1200, alto: 742 }
+    ],
     analisisSlug: "land-rover-defender-octa-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1623,6 +1707,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/land-rover-range-rover-p530-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/land-rover-range-rover-p530-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/land-rover-range-rover-p530-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Land Rover Range Rover P530", ancho: 1804, alto: 1203 },
+      { src: "/media/land-rover-range-rover-p530-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Land Rover Range Rover P530", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "land-rover-range-rover-p530-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1698,6 +1786,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/land-rover-range-rover-p400-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/land-rover-range-rover-p400-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/land-rover-range-rover-p400-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Land Rover Range Rover P400", ancho: 1804, alto: 1203 },
+      { src: "/media/land-rover-range-rover-p400-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Land Rover Range Rover P400", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "land-rover-range-rover-p400-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1773,6 +1865,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/land-rover-range-rover-sport-d350-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/land-rover-range-rover-sport-d350-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/land-rover-range-rover-sport-d350-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Land Rover Range Rover Sport D350", ancho: 1804, alto: 1203 },
+      { src: "/media/land-rover-range-rover-sport-d350-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Land Rover Range Rover Sport D350", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "land-rover-range-rover-sport-d350-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1848,6 +1944,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/land-rover-range-rover-sport-p550e-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/land-rover-range-rover-sport-p550e-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/land-rover-range-rover-sport-p550e-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Land Rover Range Rover Sport P550e", ancho: 1804, alto: 1203 },
+      { src: "/media/land-rover-range-rover-sport-p550e-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Land Rover Range Rover Sport P550e", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "land-rover-range-rover-sport-p550e-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1923,6 +2023,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/land-rover-range-rover-sport-sv-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/land-rover-range-rover-sport-sv-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/land-rover-range-rover-sport-sv-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Land Rover Range Rover Sport SV", ancho: 1804, alto: 1203 },
+      { src: "/media/land-rover-range-rover-sport-sv-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Land Rover Range Rover Sport SV", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "land-rover-range-rover-sport-sv-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1998,6 +2102,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/land-rover-range-rover-evoque-p270e-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/land-rover-range-rover-evoque-p270e-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/land-rover-range-rover-evoque-p270e-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Land Rover Range Rover Evoque P270e", ancho: 1804, alto: 1203 },
+      { src: "/media/land-rover-range-rover-evoque-p270e-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Land Rover Range Rover Evoque P270e", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "land-rover-range-rover-evoque-p270e-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2073,6 +2181,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/land-rover-range-rover-evoque-d200-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/land-rover-range-rover-evoque-d200-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/land-rover-range-rover-evoque-d200-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Land Rover Range Rover Evoque D200", ancho: 1804, alto: 1203 },
+      { src: "/media/land-rover-range-rover-evoque-d200-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Land Rover Range Rover Evoque D200", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "land-rover-range-rover-evoque-d200-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2148,6 +2260,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/land-rover-range-rover-velar-d300-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/land-rover-range-rover-velar-d300-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/land-rover-range-rover-velar-d300-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Land Rover Range Rover Velar D300", ancho: 1804, alto: 1203 },
+      { src: "/media/land-rover-range-rover-velar-d300-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Land Rover Range Rover Velar D300", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "land-rover-range-rover-velar-d300-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2223,6 +2339,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/land-rover-discovery-p360-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/land-rover-discovery-p360-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/land-rover-discovery-p360-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Land Rover Discovery P360", ancho: 1804, alto: 1203 },
+      { src: "/media/land-rover-discovery-p360-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Land Rover Discovery P360", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "land-rover-discovery-p360-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2298,6 +2418,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/land-rover-discovery-sport-p270e-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/land-rover-discovery-sport-p270e-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/land-rover-discovery-sport-p270e-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Land Rover Discovery Sport P270e", ancho: 1804, alto: 1203 },
+      { src: "/media/land-rover-discovery-sport-p270e-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Land Rover Discovery Sport P270e", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "land-rover-discovery-sport-p270e-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2373,6 +2497,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/land-rover-discovery-sport-d200-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/land-rover-discovery-sport-d200-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/land-rover-discovery-sport-d200-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Land Rover Discovery Sport D200", ancho: 1804, alto: 1203 },
+      { src: "/media/land-rover-discovery-sport-d200-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Land Rover Discovery Sport D200", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "land-rover-discovery-sport-d200-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2448,6 +2576,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/audi-rs3-sedan-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/audi-rs3-sedan-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/audi-rs3-sedan-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Audi RS3 Sedan", ancho: 1804, alto: 1203 },
+      { src: "/media/audi-rs3-sedan-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Audi RS3 Sedan", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "audi-rs3-sedan-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2523,6 +2655,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/audi-rs6-avant-performance-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/audi-rs6-avant-performance-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/audi-rs6-avant-performance-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Audi RS6 Avant performance", ancho: 1200, alto: 873 },
+      { src: "/media/audi-rs6-avant-performance-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Audi RS6 Avant performance", ancho: 1200, alto: 873 }
+    ],
     analisisSlug: "audi-rs6-avant-performance-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2598,6 +2734,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/audi-s3-sportback-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/audi-s3-sportback-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/audi-s3-sportback-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Audi S3 Sportback", ancho: 1200, alto: 855 },
+      { src: "/media/audi-s3-sportback-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Audi S3 Sportback", ancho: 1200, alto: 855 }
+    ],
     analisisSlug: "audi-s3-sportback-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2673,6 +2813,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/audi-sq5-sportback-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/audi-sq5-sportback-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/audi-sq5-sportback-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Audi SQ5 Sportback", ancho: 1804, alto: 1203 },
+      { src: "/media/audi-sq5-sportback-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Audi SQ5 Sportback", ancho: 1200, alto: 801 }
+    ],
     analisisSlug: "audi-sq5-sportback-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2748,6 +2892,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/audi-a5-e-hybrid-367-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/audi-a5-e-hybrid-367-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/audi-a5-e-hybrid-367-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Audi A5 e-hybrid 367", ancho: 1804, alto: 1203 },
+      { src: "/media/audi-a5-e-hybrid-367-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Audi A5 e-hybrid 367", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "audi-a5-e-hybrid-367-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2823,6 +2971,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/audi-q5-e-hybrid-367-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/audi-q5-e-hybrid-367-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/audi-q5-e-hybrid-367-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Audi Q5 e-hybrid 367", ancho: 1804, alto: 1203 },
+      { src: "/media/audi-q5-e-hybrid-367-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Audi Q5 e-hybrid 367", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "audi-q5-e-hybrid-367-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2898,6 +3050,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/audi-rs-q8-performance-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/audi-rs-q8-performance-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/audi-rs-q8-performance-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Audi RS Q8 performance", ancho: 1200, alto: 794 },
+      { src: "/media/audi-rs-q8-performance-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Audi RS Q8 performance", ancho: 1200, alto: 794 }
+    ],
     analisisSlug: "audi-rs-q8-performance-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2973,6 +3129,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/audi-q7-55-tfsi-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/audi-q7-55-tfsi-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/audi-q7-55-tfsi-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Audi Q7 55 TFSI", ancho: 1200, alto: 675 },
+      { src: "/media/audi-q7-55-tfsi-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Audi Q7 55 TFSI", ancho: 1200, alto: 675 }
+    ],
     analisisSlug: "audi-q7-55-tfsi-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -3048,6 +3208,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/bmw-m4-cs-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/bmw-m4-cs-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/bmw-m4-cs-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del BMW M4 CS", ancho: 1200, alto: 617 },
+      { src: "/media/bmw-m4-cs-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del BMW M4 CS", ancho: 1200, alto: 617 }
+    ],
     analisisSlug: "bmw-m4-cs-2024-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -3123,6 +3287,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/bmw-serie-2-active-tourer-225e-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/bmw-serie-2-active-tourer-225e-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/bmw-serie-2-active-tourer-225e-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del BMW Serie 2 Active Tourer 225e", ancho: 1804, alto: 1203 },
+      { src: "/media/bmw-serie-2-active-tourer-225e-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del BMW Serie 2 Active Tourer 225e", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "bmw-serie-2-active-tourer-225e-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -3198,6 +3366,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/bmw-m240i-xdrive-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/bmw-m240i-xdrive-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/bmw-m240i-xdrive-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del BMW M240i xDrive", ancho: 1804, alto: 1203 },
+      { src: "/media/bmw-m240i-xdrive-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del BMW M240i xDrive", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "bmw-m240i-xdrive-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -3273,6 +3445,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/bmw-x5-m60i-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/bmw-x5-m60i-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/bmw-x5-m60i-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del BMW X5 M60i", ancho: 1804, alto: 1203 },
+      { src: "/media/bmw-x5-m60i-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del BMW X5 M60i", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "bmw-x5-m60i-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -3348,6 +3524,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/mercedes-amg-cle-53-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mercedes-amg-cle-53-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mercedes-amg-cle-53-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Mercedes-Benz AMG CLE 53", ancho: 1804, alto: 1203 },
+      { src: "/media/mercedes-amg-cle-53-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Mercedes-Benz AMG CLE 53", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "mercedes-amg-cle-53-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -3423,6 +3603,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/mercedes-clase-g-450-d-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mercedes-clase-g-450-d-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mercedes-clase-g-450-d-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Mercedes-Benz Clase G 450 d", ancho: 1804, alto: 1203 },
+      { src: "/media/mercedes-clase-g-450-d-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Mercedes-Benz Clase G 450 d", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "mercedes-clase-g-450-d-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -3498,6 +3682,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/mercedes-amg-s-63-e-performance-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mercedes-amg-s-63-e-performance-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mercedes-amg-s-63-e-performance-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Mercedes-Benz AMG S 63 e-performance", ancho: 1804, alto: 1203 },
+      { src: "/media/mercedes-amg-s-63-e-performance-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Mercedes-Benz AMG S 63 e-performance", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "mercedes-amg-s-63-e-performance-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -3573,6 +3761,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/mercedes-amg-cla-45-s-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mercedes-amg-cla-45-s-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mercedes-amg-cla-45-s-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Mercedes-Benz AMG CLA 45 S", ancho: 1804, alto: 1203 },
+      { src: "/media/mercedes-amg-cla-45-s-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Mercedes-Benz AMG CLA 45 S", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "mercedes-amg-cla-45-s-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -3648,6 +3840,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/mercedes-amg-glc-63-s-e-performance-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mercedes-amg-glc-63-s-e-performance-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mercedes-amg-glc-63-s-e-performance-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Mercedes-Benz AMG GLC 63 S e-performance", ancho: 1804, alto: 1203 },
+      { src: "/media/mercedes-amg-glc-63-s-e-performance-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Mercedes-Benz AMG GLC 63 S e-performance", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "mercedes-amg-glc-63-s-e-performance-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -3723,6 +3919,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagen: "/media/volkswagen-id-buzz-gtx-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/volkswagen-id-buzz-gtx-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/volkswagen-id-buzz-gtx-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Volkswagen ID.Buzz GTX", ancho: 1200, alto: 637 },
+      { src: "/media/volkswagen-id-buzz-gtx-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Volkswagen ID.Buzz GTX", ancho: 1200, alto: 637 }
+    ],
     analisisSlug: "volkswagen-id-buzz-gtx-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,

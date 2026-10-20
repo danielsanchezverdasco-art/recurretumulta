@@ -20,6 +20,10 @@ export const COCHES_EXP19: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/renault-austral-2026-e-tech-200-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/renault-austral-2026-e-tech-200-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Renault Austral E-Tech 200", ancho: 1920, alto: 1280 },
+      { src: "/media/renault-austral-2026-e-tech-200-precio-ficha-tecnica-hero.webp", alt: "Foto del Renault Austral E-Tech 200", ancho: 1600, alto: 1066 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "Renault",
@@ -81,6 +85,10 @@ export const COCHES_EXP19: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/renault-arkana-2026-tce-140-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/renault-arkana-2026-tce-140-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Renault Arkana TCe 140", ancho: 1920, alto: 1280 },
+      { src: "/media/renault-arkana-2026-tce-140-precio-ficha-tecnica-hero.webp", alt: "Foto del Renault Arkana TCe 140", ancho: 1600, alto: 1066 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "Renault",
@@ -142,6 +150,10 @@ export const COCHES_EXP19: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/renault-symbioz-2026-e-tech-145-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/renault-symbioz-2026-e-tech-145-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Renault Symbioz E-Tech 145", ancho: 1600, alto: 1066 },
+      { src: "/media/renault-symbioz-2026-e-tech-145-precio-ficha-tecnica-hero.webp", alt: "Foto del Renault Symbioz E-Tech 145", ancho: 1600, alto: 1066 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "Renault",
@@ -203,6 +215,10 @@ export const COCHES_EXP19: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/renault-megane-e-tech-2026-lfp-67-kwh-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/renault-megane-e-tech-2026-lfp-67-kwh-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Renault Mégane E-Tech LFP 220", ancho: 1600, alto: 832 },
+      { src: "/media/renault-megane-e-tech-2026-lfp-67-kwh-precio-ficha-tecnica-hero.webp", alt: "Foto del Renault Mégane E-Tech LFP 220", ancho: 1600, alto: 1066 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "Renault",
@@ -264,6 +280,10 @@ export const COCHES_EXP19: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/renault-espace-2026-e-tech-200-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/renault-espace-2026-e-tech-200-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Renault Espace E-Tech 200", ancho: 1600, alto: 1066 },
+      { src: "/media/renault-espace-2026-e-tech-200-precio-ficha-tecnica-hero.webp", alt: "Foto del Renault Espace E-Tech 200", ancho: 1600, alto: 1066 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "Renault",
@@ -325,6 +345,10 @@ export const COCHES_EXP19: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/renault-rafale-e-tech-200-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/renault-rafale-e-tech-200-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Renault Rafale E-Tech 200", ancho: 1600, alto: 1066 },
+      { src: "/media/renault-rafale-e-tech-200-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Renault Rafale E-Tech 200", ancho: 1600, alto: 1066 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "Renault",
@@ -386,6 +410,10 @@ export const COCHES_EXP19: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/renault-5-e-tech-40-kwh-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/renault-5-e-tech-40-kwh-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Renault R5 E-Tech 40 kWh", ancho: 1600, alto: 1066 },
+      { src: "/media/renault-5-e-tech-40-kwh-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Renault R5 E-Tech 40 kWh", ancho: 1600, alto: 1066 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "Renault",
@@ -447,6 +475,10 @@ export const COCHES_EXP19: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/renault-4-e-tech-52-kwh-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/renault-4-e-tech-52-kwh-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Renault R4 E-Tech 52 kWh", ancho: 1600, alto: 832 },
+      { src: "/media/renault-4-e-tech-52-kwh-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Renault R4 E-Tech 52 kWh", ancho: 1600, alto: 1066 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "Renault",
@@ -508,6 +540,10 @@ export const COCHES_EXP19: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/renault-scenic-e-tech-60-kwh-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/renault-scenic-e-tech-60-kwh-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Renault Scenic E-Tech 60 kWh", ancho: 1600, alto: 975 },
+      { src: "/media/renault-scenic-e-tech-60-kwh-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Renault Scenic E-Tech 60 kWh", ancho: 1600, alto: 1066 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "Renault",
@@ -569,6 +605,10 @@ export const COCHES_EXP19: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/dacia-duster-2026-mild-hybrid-140-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/dacia-duster-2026-mild-hybrid-140-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Dacia Duster mild hybrid 140", ancho: 1600, alto: 1066 },
+      { src: "/media/dacia-duster-2026-mild-hybrid-140-precio-ficha-tecnica-hero.webp", alt: "Foto del Dacia Duster mild hybrid 140", ancho: 1600, alto: 1066 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "Dacia",
@@ -630,6 +670,10 @@ export const COCHES_EXP19: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/dacia-duster-2026-hybrid-155-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/dacia-duster-2026-hybrid-155-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Dacia Duster Hybrid 155", ancho: 1600, alto: 1066 },
+      { src: "/media/dacia-duster-2026-hybrid-155-precio-ficha-tecnica-hero.webp", alt: "Foto del Dacia Duster Hybrid 155", ancho: 1600, alto: 1066 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "Dacia",
@@ -691,6 +735,10 @@ export const COCHES_EXP19: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/dacia-duster-2026-eco-g-120-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/dacia-duster-2026-eco-g-120-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Dacia Duster ECO-G 120", ancho: 1600, alto: 1066 },
+      { src: "/media/dacia-duster-2026-eco-g-120-precio-ficha-tecnica-hero.webp", alt: "Foto del Dacia Duster ECO-G 120", ancho: 1600, alto: 1066 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "Dacia",
@@ -752,6 +800,10 @@ export const COCHES_EXP19: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/dacia-bigster-2026-tce-140-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/dacia-bigster-2026-tce-140-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Dacia Bigster TCe 140", ancho: 1600, alto: 1066 },
+      { src: "/media/dacia-bigster-2026-tce-140-precio-ficha-tecnica-hero.webp", alt: "Foto del Dacia Bigster TCe 140", ancho: 1600, alto: 1066 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "Dacia",
@@ -813,6 +865,10 @@ export const COCHES_EXP19: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/dacia-bigster-2026-hybrid-155-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/dacia-bigster-2026-hybrid-155-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Dacia Bigster Hybrid 155", ancho: 1600, alto: 1066 },
+      { src: "/media/dacia-bigster-2026-hybrid-155-precio-ficha-tecnica-hero.webp", alt: "Foto del Dacia Bigster Hybrid 155", ancho: 1600, alto: 1066 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "Dacia",
@@ -874,6 +930,10 @@ export const COCHES_EXP19: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/alpine-a290-rallye-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/alpine-a290-rallye-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Alpine A290 Rallye", ancho: 1600, alto: 1066 },
+      { src: "/media/alpine-a290-rallye-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Alpine A290 Rallye", ancho: 1600, alto: 1066 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "Alpine",

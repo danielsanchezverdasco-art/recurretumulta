@@ -48,6 +48,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/dr-3-0-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dr-3-0-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/dr-3-0-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del DR 3.0", ancho: 1804, alto: 1203 },
+      { src: "/media/dr-3-0-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del DR 3.0", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "dr-3-0-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -123,6 +127,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/dr-4-0-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dr-4-0-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/dr-4-0-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del DR 4.0", ancho: 1804, alto: 1203 },
+      { src: "/media/dr-4-0-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del DR 4.0", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "dr-4-0-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -198,6 +206,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/dr-5-0-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dr-5-0-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/dr-5-0-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del DR 5.0", ancho: 1804, alto: 1203 },
+      { src: "/media/dr-5-0-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del DR 5.0", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "dr-5-0-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -273,6 +285,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/dr-6-0-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dr-6-0-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/dr-6-0-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del DR 6.0", ancho: 1804, alto: 1203 },
+      { src: "/media/dr-6-0-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del DR 6.0", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "dr-6-0-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -348,6 +364,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/dr-7-0-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dr-7-0-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/dr-7-0-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del DR 7.0", ancho: 1804, alto: 1203 },
+      { src: "/media/dr-7-0-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del DR 7.0", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "dr-7-0-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -423,6 +443,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/dr-ickx-k2-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dr-ickx-k2-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/dr-ickx-k2-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del DR ICKX K2", ancho: 1804, alto: 1203 },
+      { src: "/media/dr-ickx-k2-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del DR ICKX K2", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "dr-ickx-k2-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -498,6 +522,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/dr-sportequipe-7-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dr-sportequipe-7-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/dr-sportequipe-7-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del DR Sportequipe 7", ancho: 1804, alto: 1203 },
+      { src: "/media/dr-sportequipe-7-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del DR Sportequipe 7", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "dr-sportequipe-7-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -573,6 +601,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/dr-sportequipe-8-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dr-sportequipe-8-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/dr-sportequipe-8-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del DR Sportequipe 8", ancho: 1804, alto: 1203 },
+      { src: "/media/dr-sportequipe-8-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del DR Sportequipe 8", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "dr-sportequipe-8-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -648,6 +680,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/evo-3-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/evo-3-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/evo-3-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del EVO 3", ancho: 1804, alto: 1203 },
+      { src: "/media/evo-3-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del EVO 3", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "evo-3-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -723,6 +759,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/evo-4-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/evo-4-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/evo-4-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del EVO 4", ancho: 1804, alto: 1203 },
+      { src: "/media/evo-4-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del EVO 4", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "evo-4-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -798,6 +838,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/evo-5-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/evo-5-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/evo-5-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del EVO 5", ancho: 1804, alto: 1203 },
+      { src: "/media/evo-5-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del EVO 5", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "evo-5-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -873,6 +917,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/evo-6-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/evo-6-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/evo-6-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del EVO 6", ancho: 1804, alto: 1203 },
+      { src: "/media/evo-6-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del EVO 6", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "evo-6-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -948,6 +996,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/evo-7-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/evo-7-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/evo-7-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del EVO 7", ancho: 1804, alto: 1203 },
+      { src: "/media/evo-7-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del EVO 7", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "evo-7-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1023,6 +1075,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/evo-cross-4-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/evo-cross-4-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/evo-cross-4-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del EVO Cross 4", ancho: 1804, alto: 1203 },
+      { src: "/media/evo-cross-4-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del EVO Cross 4", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "evo-cross-4-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1098,6 +1154,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/swm-g01-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/swm-g01-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/swm-g01-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del SWM G01", ancho: 1200, alto: 900 },
+      { src: "/media/swm-g01-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del SWM G01", ancho: 1200, alto: 900 }
+    ],
     analisisSlug: "swm-g01-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1173,6 +1233,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/swm-g01f-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/swm-g01f-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/swm-g01f-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del SWM G01F", ancho: 1804, alto: 1203 },
+      { src: "/media/swm-g01f-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del SWM G01F", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "swm-g01f-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1248,6 +1312,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/swm-g03f-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/swm-g03f-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/swm-g03f-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del SWM G03F", ancho: 1804, alto: 1203 },
+      { src: "/media/swm-g03f-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del SWM G03F", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "swm-g03f-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1323,6 +1391,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/swm-g05-pro-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/swm-g05-pro-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/swm-g05-pro-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del SWM G05 Pro", ancho: 1200, alto: 750 },
+      { src: "/media/swm-g05-pro-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del SWM G05 Pro", ancho: 1200, alto: 750 }
+    ],
     analisisSlug: "swm-g05-pro-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1398,6 +1470,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/baic-beijing-x55-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/baic-beijing-x55-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/baic-beijing-x55-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del BAIC Beijing X55", ancho: 1804, alto: 1203 },
+      { src: "/media/baic-beijing-x55-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del BAIC Beijing X55", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "baic-beijing-x55-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1473,6 +1549,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/baic-bj40-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/baic-bj40-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/baic-bj40-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del BAIC BJ40", ancho: 1804, alto: 1203 },
+      { src: "/media/baic-bj40-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del BAIC BJ40", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "baic-bj40-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1548,6 +1628,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/baic-bj30-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/baic-bj30-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/baic-bj30-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del BAIC BJ30", ancho: 1804, alto: 1203 },
+      { src: "/media/baic-bj30-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del BAIC BJ30", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "baic-bj30-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1623,6 +1707,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/baic-beijing-5-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/baic-beijing-5-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/baic-beijing-5-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del BAIC Beijing 5", ancho: 1804, alto: 1203 },
+      { src: "/media/baic-beijing-5-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del BAIC Beijing 5", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "baic-beijing-5-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1698,6 +1786,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/maxus-eterron-9-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/maxus-eterron-9-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/maxus-eterron-9-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Maxus eTerron 9", ancho: 1200, alto: 675 },
+      { src: "/media/maxus-eterron-9-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Maxus eTerron 9", ancho: 1200, alto: 675 }
+    ],
     analisisSlug: "maxus-eterron-9-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1773,6 +1865,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/maxus-mifa-9-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/maxus-mifa-9-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/maxus-mifa-9-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Maxus MIFA 9", ancho: 1200, alto: 546 },
+      { src: "/media/maxus-mifa-9-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Maxus MIFA 9", ancho: 1200, alto: 546 }
+    ],
     analisisSlug: "maxus-mifa-9-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1848,6 +1944,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/maxus-t60-max-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/maxus-t60-max-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/maxus-t60-max-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Maxus T60 Max", ancho: 1200, alto: 675 },
+      { src: "/media/maxus-t60-max-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Maxus T60 Max", ancho: 1200, alto: 675 }
+    ],
     analisisSlug: "maxus-t60-max-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1923,6 +2023,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/maxus-edeliver-9-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/maxus-edeliver-9-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/maxus-edeliver-9-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Maxus eDeliver 9", ancho: 1200, alto: 801 },
+      { src: "/media/maxus-edeliver-9-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Maxus eDeliver 9", ancho: 1200, alto: 801 }
+    ],
     analisisSlug: "maxus-edeliver-9-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1998,6 +2102,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/maxus-t90-ev-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/maxus-t90-ev-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/maxus-t90-ev-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Maxus T90 EV", ancho: 1200, alto: 648 },
+      { src: "/media/maxus-t90-ev-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Maxus T90 EV", ancho: 1200, alto: 648 }
+    ],
     analisisSlug: "maxus-t90-ev-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2073,6 +2181,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/maxus-edeliver-7-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/maxus-edeliver-7-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/maxus-edeliver-7-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Maxus eDeliver 7", ancho: 1200, alto: 960 },
+      { src: "/media/maxus-edeliver-7-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Maxus eDeliver 7", ancho: 1200, alto: 960 }
+    ],
     analisisSlug: "maxus-edeliver-7-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2148,6 +2260,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/mg-3-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mg-3-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mg-3-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del MG 3", ancho: 1920, alto: 1280 },
+      { src: "/media/mg-3-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del MG 3", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "mg-3-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2223,6 +2339,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/mg-3-hybrid-plus-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mg-3-hybrid-plus-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mg-3-hybrid-plus-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del MG 3 Hybrid+", ancho: 1200, alto: 675 },
+      { src: "/media/mg-3-hybrid-plus-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del MG 3 Hybrid+", ancho: 1200, alto: 675 }
+    ],
     analisisSlug: "mg-3-hybrid-plus-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2298,6 +2418,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/mg-4-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mg-4-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mg-4-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del MG 4", ancho: 1200, alto: 615 },
+      { src: "/media/mg-4-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del MG 4", ancho: 1200, alto: 615 }
+    ],
     analisisSlug: "mg-4-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2373,6 +2497,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/mg-4-xpower-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mg-4-xpower-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mg-4-xpower-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del MG 4 XPower", ancho: 1920, alto: 1280 },
+      { src: "/media/mg-4-xpower-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del MG 4 XPower", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "mg-4-xpower-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2448,6 +2576,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/mg-5-ev-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mg-5-ev-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mg-5-ev-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del MG 5 EV", ancho: 1920, alto: 1280 },
+      { src: "/media/mg-5-ev-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del MG 5 EV", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "mg-5-ev-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2523,6 +2655,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/xpeng-g7-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/xpeng-g7-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/xpeng-g7-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Xpeng G7", ancho: 1200, alto: 800 },
+      { src: "/media/xpeng-g7-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Xpeng G7", ancho: 1200, alto: 800 }
+    ],
     analisisSlug: "xpeng-g7-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2598,6 +2734,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/im-motors-l6-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/im-motors-l6-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/im-motors-l6-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del IM Motors L6", ancho: 1804, alto: 1203 },
+      { src: "/media/im-motors-l6-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del IM Motors L6", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "im-motors-l6-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2673,6 +2813,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/dfsk-500-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dfsk-500-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/dfsk-500-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del DFSK 500", ancho: 1804, alto: 1203 },
+      { src: "/media/dfsk-500-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del DFSK 500", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "dfsk-500-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2748,6 +2892,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/chery-tiggo-4-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/chery-tiggo-4-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/chery-tiggo-4-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Chery Tiggo 4", ancho: 1804, alto: 1203 },
+      { src: "/media/chery-tiggo-4-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Chery Tiggo 4", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "chery-tiggo-4-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2823,6 +2971,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/nio-et7-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/nio-et7-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/nio-et7-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Nio ET7", ancho: 1200, alto: 581 },
+      { src: "/media/nio-et7-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Nio ET7", ancho: 1200, alto: 581 }
+    ],
     analisisSlug: "nio-et7-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2898,6 +3050,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/leapmotor-a10-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/leapmotor-a10-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/leapmotor-a10-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Leapmotor A10", ancho: 1804, alto: 1203 },
+      { src: "/media/leapmotor-a10-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Leapmotor A10", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "leapmotor-a10-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2973,6 +3129,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/hongqi-hs5-phev-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/hongqi-hs5-phev-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/hongqi-hs5-phev-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Hongqi HS5 PHEV", ancho: 1804, alto: 1203 },
+      { src: "/media/hongqi-hs5-phev-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Hongqi HS5 PHEV", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "hongqi-hs5-phev-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -3048,6 +3208,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/hongqi-tiangong-08-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/hongqi-tiangong-08-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/hongqi-tiangong-08-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Hongqi Tiangong 08", ancho: 1200, alto: 900 },
+      { src: "/media/hongqi-tiangong-08-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Hongqi Tiangong 08", ancho: 1200, alto: 900 }
+    ],
     analisisSlug: "hongqi-tiangong-08-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -3123,6 +3287,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/changan-cs75-plus-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/changan-cs75-plus-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/changan-cs75-plus-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Changan CS75 Plus", ancho: 1200, alto: 900 },
+      { src: "/media/changan-cs75-plus-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan CS75 Plus", ancho: 1200, alto: 900 }
+    ],
     analisisSlug: "changan-cs75-plus-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -3198,6 +3366,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/changan-cs55-plus-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/changan-cs55-plus-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/changan-cs55-plus-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Changan CS55 Plus", ancho: 1200, alto: 900 },
+      { src: "/media/changan-cs55-plus-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan CS55 Plus", ancho: 1200, alto: 900 }
+    ],
     analisisSlug: "changan-cs55-plus-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -3273,6 +3445,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/changan-uni-k-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/changan-uni-k-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/changan-uni-k-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Changan UNI-K", ancho: 1200, alto: 900 },
+      { src: "/media/changan-uni-k-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan UNI-K", ancho: 1200, alto: 900 }
+    ],
     analisisSlug: "changan-uni-k-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -3348,6 +3524,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/changan-uni-t-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/changan-uni-t-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/changan-uni-t-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Changan UNI-T", ancho: 1200, alto: 695 },
+      { src: "/media/changan-uni-t-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan UNI-T", ancho: 1200, alto: 695 }
+    ],
     analisisSlug: "changan-uni-t-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -3423,6 +3603,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/changan-uni-v-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/changan-uni-v-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/changan-uni-v-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Changan UNI-V", ancho: 1200, alto: 900 },
+      { src: "/media/changan-uni-v-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan UNI-V", ancho: 1200, alto: 900 }
+    ],
     analisisSlug: "changan-uni-v-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -3498,6 +3682,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/changan-uni-z-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/changan-uni-z-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/changan-uni-z-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Changan UNI-Z", ancho: 1920, alto: 1280 },
+      { src: "/media/changan-uni-z-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan UNI-Z", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "changan-uni-z-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -3573,6 +3761,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/changan-cs35-plus-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/changan-cs35-plus-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/changan-cs35-plus-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Changan CS35 Plus", ancho: 1200, alto: 900 },
+      { src: "/media/changan-cs35-plus-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan CS35 Plus", ancho: 1200, alto: 900 }
+    ],
     analisisSlug: "changan-cs35-plus-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -3648,6 +3840,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/changan-eado-plus-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/changan-eado-plus-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/changan-eado-plus-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Changan Eado Plus", ancho: 1200, alto: 900 },
+      { src: "/media/changan-eado-plus-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan Eado Plus", ancho: 1200, alto: 900 }
+    ],
     analisisSlug: "changan-eado-plus-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -3723,6 +3919,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/geely-coolray-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/geely-coolray-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/geely-coolray-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Geely Coolray", ancho: 1804, alto: 1203 },
+      { src: "/media/geely-coolray-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Geely Coolray", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "geely-coolray-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,

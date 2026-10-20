@@ -53,6 +53,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/peugeot-e-3008-dual-motor-325-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/peugeot-e-3008-dual-motor-325-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/peugeot-e-3008-dual-motor-325-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Peugeot E-3008 Dual Motor", ancho: 1920, alto: 1280 },
+      { src: "/media/peugeot-e-3008-dual-motor-325-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Peugeot E-3008 Dual Motor", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "peugeot-e-3008-dual-motor-325-2026-precio-ficha-tecnica",
@@ -103,6 +107,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/peugeot-e-5008-320-dual-motor-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/peugeot-e-5008-320-dual-motor-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/peugeot-e-5008-320-dual-motor-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Peugeot E-5008 Dual Motor", ancho: 1920, alto: 1280 },
+      { src: "/media/peugeot-e-5008-320-dual-motor-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Peugeot E-5008 Dual Motor", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "peugeot-e-5008-320-dual-motor-2026-precio-ficha-tecnica",
@@ -153,6 +161,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/peugeot-e-308-sw-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/peugeot-e-308-sw-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/peugeot-e-308-sw-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Peugeot E-308 SW", ancho: 1920, alto: 1280 },
+      { src: "/media/peugeot-e-308-sw-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Peugeot E-308 SW", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "peugeot-e-308-sw-2026-precio-ficha-tecnica",
@@ -203,6 +215,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/peugeot-208-12-puretech-100-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/peugeot-208-12-puretech-100-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/peugeot-208-12-puretech-100-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Peugeot 208 PureTech 100", ancho: 1984, alto: 1200 },
+      { src: "/media/peugeot-208-12-puretech-100-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Peugeot 208 PureTech 100", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "peugeot-208-12-puretech-100-2026-precio-ficha-tecnica",
@@ -253,6 +269,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/peugeot-e-boxer-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/peugeot-e-boxer-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/peugeot-e-boxer-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Peugeot E-Boxer", ancho: 1920, alto: 1280 },
+      { src: "/media/peugeot-e-boxer-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Peugeot E-Boxer", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "peugeot-e-boxer-2026-precio-ficha-tecnica",
@@ -303,6 +323,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/peugeot-rifter-15-bluehdi-130-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/peugeot-rifter-15-bluehdi-130-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/peugeot-rifter-15-bluehdi-130-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Peugeot Rifter BlueHDi 130", ancho: 1920, alto: 1280 },
+      { src: "/media/peugeot-rifter-15-bluehdi-130-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Peugeot Rifter BlueHDi 130", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "peugeot-rifter-15-bluehdi-130-2026-precio-ficha-tecnica",
@@ -353,6 +377,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/peugeot-expert-20-bluehdi-180-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/peugeot-expert-20-bluehdi-180-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/peugeot-expert-20-bluehdi-180-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Peugeot Expert BlueHDi 180", ancho: 1920, alto: 1280 },
+      { src: "/media/peugeot-expert-20-bluehdi-180-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Peugeot Expert BlueHDi 180", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "peugeot-expert-20-bluehdi-180-2026-precio-ficha-tecnica",
@@ -403,6 +431,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/peugeot-3008-12-hybrid-136-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/peugeot-3008-12-hybrid-136-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/peugeot-3008-12-hybrid-136-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Peugeot 3008 Hybrid 136", ancho: 1920, alto: 1280 },
+      { src: "/media/peugeot-3008-12-hybrid-136-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Peugeot 3008 Hybrid 136", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "peugeot-3008-12-hybrid-136-2025-precio-ficha-tecnica",
@@ -453,6 +485,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/peugeot-5008-12-hybrid-136-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/peugeot-5008-12-hybrid-136-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/peugeot-5008-12-hybrid-136-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Peugeot 5008 Hybrid 136", ancho: 1920, alto: 1280 },
+      { src: "/media/peugeot-5008-12-hybrid-136-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Peugeot 5008 Hybrid 136", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "peugeot-5008-12-hybrid-136-2025-precio-ficha-tecnica",
@@ -503,6 +539,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/citroen-jumper-22-bluehdi-180-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/citroen-jumper-22-bluehdi-180-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/citroen-jumper-22-bluehdi-180-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Citroën Jumper BlueHDi 180", ancho: 2176, alto: 1152 },
+      { src: "/media/citroen-jumper-22-bluehdi-180-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Citroën Jumper BlueHDi 180", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "citroen-jumper-22-bluehdi-180-2026-precio-ficha-tecnica",
@@ -553,6 +593,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/citroen-c4-12-puretech-130-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/citroen-c4-12-puretech-130-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/citroen-c4-12-puretech-130-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Citroën C4 PureTech 130", ancho: 1920, alto: 1280 },
+      { src: "/media/citroen-c4-12-puretech-130-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Citroën C4 PureTech 130", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "citroen-c4-12-puretech-130-2025-precio-ficha-tecnica",
@@ -603,6 +647,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/citroen-c4-x-12-puretech-130-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/citroen-c4-x-12-puretech-130-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/citroen-c4-x-12-puretech-130-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Citroën C4 X PureTech 130", ancho: 1920, alto: 1280 },
+      { src: "/media/citroen-c4-x-12-puretech-130-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Citroën C4 X PureTech 130", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "citroen-c4-x-12-puretech-130-2025-precio-ficha-tecnica",
@@ -653,6 +701,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/citroen-c5-aircross-12-puretech-130-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/citroen-c5-aircross-12-puretech-130-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/citroen-c5-aircross-12-puretech-130-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Citroën C5 Aircross PureTech 130", ancho: 1920, alto: 1280 },
+      { src: "/media/citroen-c5-aircross-12-puretech-130-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Citroën C5 Aircross PureTech 130", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "citroen-c5-aircross-12-puretech-130-2024-precio-ficha-tecnica",
@@ -703,6 +755,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/citroen-ami-cargo-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/citroen-ami-cargo-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/citroen-ami-cargo-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Citroën Ami Cargo", ancho: 1920, alto: 1280 },
+      { src: "/media/citroen-ami-cargo-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Citroën Ami Cargo", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "citroen-ami-cargo-2026-precio-ficha-tecnica",
@@ -753,6 +809,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/opel-rocks-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/opel-rocks-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/opel-rocks-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Opel Rocks", ancho: 1920, alto: 1280 },
+      { src: "/media/opel-rocks-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Opel Rocks", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "opel-rocks-2026-precio-ficha-tecnica",
@@ -803,6 +863,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/opel-astra-12-turbo-130-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/opel-astra-12-turbo-130-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/opel-astra-12-turbo-130-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Opel Astra 1.2 Turbo 130", ancho: 1920, alto: 1280 },
+      { src: "/media/opel-astra-12-turbo-130-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Opel Astra 1.2 Turbo 130", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "opel-astra-12-turbo-130-2025-precio-ficha-tecnica",
@@ -853,6 +917,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/opel-astra-sports-tourer-12-turbo-130-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/opel-astra-sports-tourer-12-turbo-130-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/opel-astra-sports-tourer-12-turbo-130-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Opel Astra Sports Tourer 1.2 Turbo 130", ancho: 1920, alto: 1280 },
+      { src: "/media/opel-astra-sports-tourer-12-turbo-130-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Opel Astra Sports Tourer 1.2 Turbo 130", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "opel-astra-sports-tourer-12-turbo-130-2025-precio-ficha-tecnica",
@@ -903,6 +971,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/opel-mokka-12-turbo-130-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/opel-mokka-12-turbo-130-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/opel-mokka-12-turbo-130-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Opel Mokka 1.2 Turbo 130", ancho: 2048, alto: 1184 },
+      { src: "/media/opel-mokka-12-turbo-130-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Opel Mokka 1.2 Turbo 130", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "opel-mokka-12-turbo-130-2025-precio-ficha-tecnica",
@@ -953,6 +1025,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/opel-grandland-12-turbo-130-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/opel-grandland-12-turbo-130-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/opel-grandland-12-turbo-130-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Opel Grandland 1.2 Turbo 130", ancho: 1920, alto: 1280 },
+      { src: "/media/opel-grandland-12-turbo-130-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Opel Grandland 1.2 Turbo 130", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "opel-grandland-12-turbo-130-2024-precio-ficha-tecnica",
@@ -1003,6 +1079,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/opel-combo-15-diesel-130-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/opel-combo-15-diesel-130-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/opel-combo-15-diesel-130-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Opel Combo 1.5 Diésel 130", ancho: 1920, alto: 1280 },
+      { src: "/media/opel-combo-15-diesel-130-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Opel Combo 1.5 Diésel 130", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "opel-combo-15-diesel-130-2025-precio-ficha-tecnica",
@@ -1053,6 +1133,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/opel-vivaro-20-diesel-180-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/opel-vivaro-20-diesel-180-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/opel-vivaro-20-diesel-180-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Opel Vivaro 2.0 Diésel 180", ancho: 1920, alto: 1280 },
+      { src: "/media/opel-vivaro-20-diesel-180-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Opel Vivaro 2.0 Diésel 180", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "opel-vivaro-20-diesel-180-2025-precio-ficha-tecnica",
@@ -1103,6 +1187,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/opel-movano-22-diesel-180-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/opel-movano-22-diesel-180-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/opel-movano-22-diesel-180-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Opel Movano 2.2 Diésel 180", ancho: 1920, alto: 1280 },
+      { src: "/media/opel-movano-22-diesel-180-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Opel Movano 2.2 Diésel 180", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "opel-movano-22-diesel-180-2025-precio-ficha-tecnica",
@@ -1153,6 +1241,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/fiat-e-scudo-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/fiat-e-scudo-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/fiat-e-scudo-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Fiat E-Scudo", ancho: 1920, alto: 1280 },
+      { src: "/media/fiat-e-scudo-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Fiat E-Scudo", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "fiat-e-scudo-2026-precio-ficha-tecnica",
@@ -1203,6 +1295,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/fiat-e-ducato-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/fiat-e-ducato-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/fiat-e-ducato-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Fiat E-Ducato", ancho: 1920, alto: 1280 },
+      { src: "/media/fiat-e-ducato-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Fiat E-Ducato", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "fiat-e-ducato-2026-precio-ficha-tecnica",
@@ -1253,6 +1349,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/fiat-scudo-20-mjt-180-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/fiat-scudo-20-mjt-180-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/fiat-scudo-20-mjt-180-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Fiat Scudo 2.0 MultiJet 180", ancho: 1920, alto: 1280 },
+      { src: "/media/fiat-scudo-20-mjt-180-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Fiat Scudo 2.0 MultiJet 180", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "fiat-scudo-20-mjt-180-2026-precio-ficha-tecnica",
@@ -1303,6 +1403,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/fiat-ducato-22-mjt-180-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/fiat-ducato-22-mjt-180-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/fiat-ducato-22-mjt-180-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Fiat Ducato 2.2 MultiJet 180", ancho: 1920, alto: 1280 },
+      { src: "/media/fiat-ducato-22-mjt-180-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Fiat Ducato 2.2 MultiJet 180", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "fiat-ducato-22-mjt-180-2026-precio-ficha-tecnica",
@@ -1353,6 +1457,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/fiat-600-12-turbo-100-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/fiat-600-12-turbo-100-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/fiat-600-12-turbo-100-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Fiat 600 1.2 Turbo 100", ancho: 1920, alto: 1280 },
+      { src: "/media/fiat-600-12-turbo-100-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Fiat 600 1.2 Turbo 100", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "fiat-600-12-turbo-100-2024-precio-ficha-tecnica",
@@ -1403,6 +1511,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/fiat-tipo-16-mjt-130-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/fiat-tipo-16-mjt-130-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/fiat-tipo-16-mjt-130-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Fiat Tipo 1.6 MultiJet 130", ancho: 1920, alto: 1280 },
+      { src: "/media/fiat-tipo-16-mjt-130-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Fiat Tipo 1.6 MultiJet 130", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "fiat-tipo-16-mjt-130-2025-precio-ficha-tecnica",
@@ -1453,6 +1565,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/fiat-500e-cabrio-118-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/fiat-500e-cabrio-118-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/fiat-500e-cabrio-118-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Fiat 500e Cabrio", ancho: 1920, alto: 1280 },
+      { src: "/media/fiat-500e-cabrio-118-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Fiat 500e Cabrio", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "fiat-500e-cabrio-118-2025-precio-ficha-tecnica",
@@ -1503,6 +1619,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/jeep-compass-4xe-phev-195-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/jeep-compass-4xe-phev-195-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/jeep-compass-4xe-phev-195-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Jeep Compass 4xe PHEV 195", ancho: 1920, alto: 1280 },
+      { src: "/media/jeep-compass-4xe-phev-195-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Jeep Compass 4xe PHEV 195", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "jeep-compass-4xe-phev-195-2026-precio-ficha-tecnica",
@@ -1553,6 +1673,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/jeep-compass-15-e-hybrid-130-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/jeep-compass-15-e-hybrid-130-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/jeep-compass-15-e-hybrid-130-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Jeep Compass e-Hybrid 130", ancho: 1920, alto: 1280 },
+      { src: "/media/jeep-compass-15-e-hybrid-130-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Jeep Compass e-Hybrid 130", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "jeep-compass-15-e-hybrid-130-2025-precio-ficha-tecnica",
@@ -1603,6 +1727,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/jeep-compass-16-mjt-130-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/jeep-compass-16-mjt-130-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/jeep-compass-16-mjt-130-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Jeep Compass MultiJet 130", ancho: 1920, alto: 1280 },
+      { src: "/media/jeep-compass-16-mjt-130-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Jeep Compass MultiJet 130", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "jeep-compass-16-mjt-130-2024-precio-ficha-tecnica",
@@ -1653,6 +1781,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/jeep-compass-13-t-130-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/jeep-compass-13-t-130-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/jeep-compass-13-t-130-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Jeep Compass 1.3 T 130", ancho: 1920, alto: 1280 },
+      { src: "/media/jeep-compass-13-t-130-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Jeep Compass 1.3 T 130", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "jeep-compass-13-t-130-2024-precio-ficha-tecnica",
@@ -1703,6 +1835,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/jeep-compass-4xe-240-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/jeep-compass-4xe-240-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/jeep-compass-4xe-240-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Jeep Compass 4xe 240", ancho: 1920, alto: 1280 },
+      { src: "/media/jeep-compass-4xe-240-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Jeep Compass 4xe 240", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "jeep-compass-4xe-240-2025-precio-ficha-tecnica",
@@ -1753,6 +1889,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/jeep-renegade-16-multijet-130-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/jeep-renegade-16-multijet-130-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/jeep-renegade-16-multijet-130-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Jeep Renegade MultiJet 130", ancho: 1920, alto: 1280 },
+      { src: "/media/jeep-renegade-16-multijet-130-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Jeep Renegade MultiJet 130", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "jeep-renegade-16-multijet-130-2024-precio-ficha-tecnica",
@@ -1803,6 +1943,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/jeep-renegade-10-t3-120-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/jeep-renegade-10-t3-120-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/jeep-renegade-10-t3-120-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Jeep Renegade T3 120", ancho: 1920, alto: 1280 },
+      { src: "/media/jeep-renegade-10-t3-120-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Jeep Renegade T3 120", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "jeep-renegade-10-t3-120-2024-precio-ficha-tecnica",
@@ -1853,6 +1997,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/renault-5-turbo-3e-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/renault-5-turbo-3e-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/renault-5-turbo-3e-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Renault 5 Turbo 3E", ancho: 1920, alto: 1280 },
+      { src: "/media/renault-5-turbo-3e-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Renault 5 Turbo 3E", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "renault-5-turbo-3e-2026-precio-ficha-tecnica",
@@ -1903,6 +2051,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/renault-espace-2025-e-tech-200-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/renault-espace-2025-e-tech-200-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/renault-espace-2025-e-tech-200-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Renault Espace E-Tech 200", ancho: 1920, alto: 1280 },
+      { src: "/media/renault-espace-2025-e-tech-200-precio-ficha-tecnica-hero.webp", alt: "Foto del Renault Espace E-Tech 200", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "renault-espace-2025-e-tech-200-precio-ficha-tecnica",
@@ -1953,6 +2105,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/renault-trafic-e-tech-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/renault-trafic-e-tech-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/renault-trafic-e-tech-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Renault Trafic E-Tech", ancho: 1920, alto: 1280 },
+      { src: "/media/renault-trafic-e-tech-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Renault Trafic E-Tech", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "renault-trafic-e-tech-2026-precio-ficha-tecnica",
@@ -2003,6 +2159,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/renault-master-e-tech-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/renault-master-e-tech-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/renault-master-e-tech-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Renault Master E-Tech", ancho: 1920, alto: 1280 },
+      { src: "/media/renault-master-e-tech-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Renault Master E-Tech", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "renault-master-e-tech-2026-precio-ficha-tecnica",
@@ -2053,6 +2213,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/renault-captur-2026-e-tech-160-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/renault-captur-2026-e-tech-160-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/renault-captur-2026-e-tech-160-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Renault Captur E-Tech 160", ancho: 1920, alto: 1280 },
+      { src: "/media/renault-captur-2026-e-tech-160-precio-ficha-tecnica-hero.webp", alt: "Foto del Renault Captur E-Tech 160", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "renault-captur-2026-e-tech-160-precio-ficha-tecnica",
@@ -2103,6 +2267,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/renault-arkana-2026-e-tech-145-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/renault-arkana-2026-e-tech-145-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/renault-arkana-2026-e-tech-145-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Renault Arkana E-Tech 145", ancho: 1920, alto: 1280 },
+      { src: "/media/renault-arkana-2026-e-tech-145-precio-ficha-tecnica-hero.webp", alt: "Foto del Renault Arkana E-Tech 145", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "renault-arkana-2026-e-tech-145-precio-ficha-tecnica",
@@ -2153,6 +2321,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/renault-grand-kangoo-e-tech-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/renault-grand-kangoo-e-tech-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/renault-grand-kangoo-e-tech-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Renault Grand Kangoo E-Tech", ancho: 1920, alto: 1280 },
+      { src: "/media/renault-grand-kangoo-e-tech-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Renault Grand Kangoo E-Tech", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "renault-grand-kangoo-e-tech-2026-precio-ficha-tecnica",
@@ -2203,6 +2375,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/renault-trafic-20-dci-170-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/renault-trafic-20-dci-170-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/renault-trafic-20-dci-170-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Renault Trafic dCi 170", ancho: 1920, alto: 1280 },
+      { src: "/media/renault-trafic-20-dci-170-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Renault Trafic dCi 170", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "renault-trafic-20-dci-170-2026-precio-ficha-tecnica",
@@ -2253,6 +2429,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/renault-master-23-dci-180-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/renault-master-23-dci-180-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/renault-master-23-dci-180-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Renault Master dCi 180", ancho: 1920, alto: 1280 },
+      { src: "/media/renault-master-23-dci-180-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Renault Master dCi 180", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "renault-master-23-dci-180-2026-precio-ficha-tecnica",
@@ -2303,6 +2483,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/renault-captur-2026-tce-90-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/renault-captur-2026-tce-90-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/renault-captur-2026-tce-90-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Renault Captur TCe 90", ancho: 1920, alto: 1280 },
+      { src: "/media/renault-captur-2026-tce-90-precio-ficha-tecnica-hero.webp", alt: "Foto del Renault Captur TCe 90", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "renault-captur-2026-tce-90-precio-ficha-tecnica",
@@ -2353,6 +2537,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/dacia-jogger-hybrid-155-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-jogger-hybrid-155-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/dacia-jogger-hybrid-155-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Dacia Jogger Hybrid 155", ancho: 1920, alto: 1280 },
+      { src: "/media/dacia-jogger-hybrid-155-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Dacia Jogger Hybrid 155", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "dacia-jogger-hybrid-155-2026-precio-ficha-tecnica",
@@ -2403,6 +2591,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/dacia-logan-tce-90-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-logan-tce-90-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/dacia-logan-tce-90-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Dacia Logan TCe 90", ancho: 1904, alto: 1168 },
+      { src: "/media/dacia-logan-tce-90-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Dacia Logan TCe 90", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "dacia-logan-tce-90-2026-precio-ficha-tecnica",
@@ -2453,6 +2645,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/dacia-duster-hybrid-g-150-4x4-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-duster-hybrid-g-150-4x4-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/dacia-duster-hybrid-g-150-4x4-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Dacia Duster Hybrid-G 150 4x4", ancho: 1920, alto: 1280 },
+      { src: "/media/dacia-duster-hybrid-g-150-4x4-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Dacia Duster Hybrid-G 150 4x4", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "dacia-duster-hybrid-g-150-4x4-2026-precio-ficha-tecnica",
@@ -2503,6 +2699,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagen: "/media/dacia-bigster-hybrid-g-150-4x4-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-bigster-hybrid-g-150-4x4-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/dacia-bigster-hybrid-g-150-4x4-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Dacia Bigster Hybrid-G 150 4x4", ancho: 1920, alto: 1280 },
+      { src: "/media/dacia-bigster-hybrid-g-150-4x4-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Dacia Bigster Hybrid-G 150 4x4", ancho: 1920, alto: 1280 }
+    ],
     videoId: null,
     videoCanal: null,
     analisisSlug: "dacia-bigster-hybrid-g-150-4x4-2026-precio-ficha-tecnica",

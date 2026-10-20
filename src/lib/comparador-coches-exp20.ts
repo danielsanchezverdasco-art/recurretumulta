@@ -15,6 +15,10 @@ export const COCHES_EXP20: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-boxer-22-bluehdi-180-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/peugeot-boxer-22-bluehdi-180-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Peugeot Boxer 2.2 BlueHDi 180", ancho: 1920, alto: 1280 },
+      { src: "/media/peugeot-boxer-22-bluehdi-180-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Peugeot Boxer 2.2 BlueHDi 180", ancho: 1632, alto: 1088 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -65,6 +69,10 @@ export const COCHES_EXP20: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-partner-15-bluehdi-130-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/peugeot-partner-15-bluehdi-130-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Peugeot Partner 1.5 BlueHDi 130", ancho: 1920, alto: 1280 },
+      { src: "/media/peugeot-partner-15-bluehdi-130-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Peugeot Partner 1.5 BlueHDi 130", ancho: 1632, alto: 1088 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -117,6 +125,10 @@ export const COCHES_EXP20: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-2008-12-puretech-100-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/peugeot-2008-12-puretech-100-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Peugeot 2008 1.2 PureTech 100", ancho: 1920, alto: 1280 },
+      { src: "/media/peugeot-2008-12-puretech-100-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Peugeot 2008 1.2 PureTech 100", ancho: 1632, alto: 1088 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -167,6 +179,10 @@ export const COCHES_EXP20: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-308-hibrido-145-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/peugeot-308-hibrido-145-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Peugeot 308 5p Hybrid 145 e-DCS6", ancho: 1920, alto: 1280 },
+      { src: "/media/peugeot-308-hibrido-145-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Peugeot 308 5p Hybrid 145 e-DCS6", ancho: 1632, alto: 1088 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -217,6 +233,10 @@ export const COCHES_EXP20: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-expert-15-bluehdi-120-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/peugeot-expert-15-bluehdi-120-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Peugeot Expert 1.5 BlueHDi 120", ancho: 1920, alto: 1280 },
+      { src: "/media/peugeot-expert-15-bluehdi-120-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Peugeot Expert 1.5 BlueHDi 120", ancho: 1632, alto: 1088 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -269,6 +289,10 @@ export const COCHES_EXP20: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-rifter-long-15-bluehdi-130-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/peugeot-rifter-long-15-bluehdi-130-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Peugeot Rifter Long 1.5 BlueHDi 130", ancho: 1920, alto: 1280 },
+      { src: "/media/peugeot-rifter-long-15-bluehdi-130-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Peugeot Rifter Long 1.5 BlueHDi 130", ancho: 1632, alto: 1088 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -321,6 +345,10 @@ export const COCHES_EXP20: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/citroen-e-c5-aircross-long-range-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/citroen-e-c5-aircross-long-range-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Citroën ë-C5 Aircross Long Range", ancho: 1920, alto: 1280 },
+      { src: "/media/citroen-e-c5-aircross-long-range-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Citroën ë-C5 Aircross Long Range", ancho: 1632, alto: 1088 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "Citroën",
@@ -371,6 +399,10 @@ export const COCHES_EXP20: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/citroen-jumper-22-bluehdi-140-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/citroen-jumper-22-bluehdi-140-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Citroën Jumper 2.2 BlueHDi 140", ancho: 1920, alto: 1280 },
+      { src: "/media/citroen-jumper-22-bluehdi-140-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Citroën Jumper 2.2 BlueHDi 140", ancho: 1632, alto: 1088 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "Citroën",
@@ -421,6 +453,10 @@ export const COCHES_EXP20: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/citroen-berlingo-talla-xl-15-bluehdi-130-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/citroen-berlingo-talla-xl-15-bluehdi-130-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Citroën Berlingo Talla XL BlueHDi 130 EAT8", ancho: 1920, alto: 1280 },
+      { src: "/media/citroen-berlingo-talla-xl-15-bluehdi-130-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Citroën Berlingo Talla XL BlueHDi 130 EAT8", ancho: 1632, alto: 1088 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "Citroën",
@@ -471,6 +507,10 @@ export const COCHES_EXP20: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/opel-zafira-20-diesel-180-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/opel-zafira-20-diesel-180-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Opel Zafira Life 2.0 Diésel 180", ancho: 1920, alto: 1280 },
+      { src: "/media/opel-zafira-20-diesel-180-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Opel Zafira Life 2.0 Diésel 180", ancho: 1632, alto: 1088 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "Opel",
@@ -521,6 +561,10 @@ export const COCHES_EXP20: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/ds-3-e-tense-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/ds-3-e-tense-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del DS DS 3 E-TENSE 156", ancho: 1920, alto: 1280 },
+      { src: "/media/ds-3-e-tense-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del DS DS 3 E-TENSE 156", ancho: 1632, alto: 1088 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "DS",
@@ -571,6 +615,10 @@ export const COCHES_EXP20: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/ds-n4-e-tense-213-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/ds-n4-e-tense-213-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del DS DS N°4 E-TENSE 213", ancho: 1920, alto: 1280 },
+      { src: "/media/ds-n4-e-tense-213-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del DS DS N°4 E-TENSE 213", ancho: 1632, alto: 1088 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "DS",
@@ -621,6 +669,10 @@ export const COCHES_EXP20: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/ds-n4-hibrido-145-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/ds-n4-hibrido-145-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del DS DS N°4 Hybrid 145", ancho: 1920, alto: 1280 },
+      { src: "/media/ds-n4-hibrido-145-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del DS DS N°4 Hybrid 145", ancho: 1632, alto: 1088 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "DS",
@@ -671,6 +723,10 @@ export const COCHES_EXP20: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/ds-n8-long-range-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/ds-n8-long-range-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del DS DS N°8 FWD Long Range 245", ancho: 1920, alto: 1280 },
+      { src: "/media/ds-n8-long-range-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del DS DS N°8 FWD Long Range 245", ancho: 1632, alto: 1088 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "DS",
@@ -721,13 +777,17 @@ export const COCHES_EXP20: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/ds-n8-awd-350-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/ds-n8-awd-350-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del DS DS N°8 AWD Long Range 350", ancho: 1920, alto: 1280 },
+      { src: "/media/ds-n8-awd-350-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del DS DS N°8 AWD Long Range 350", ancho: 1632, alto: 1088 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "DS",
     modelo: "DS N°8 AWD Long Range 350",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 70529, // gama oficial DS España: Étoile AWD Long Range 350 desde 70.529 €,
     potenciaCv: 350,
     autonomiaKm: 688,
     maleteroL: 620,

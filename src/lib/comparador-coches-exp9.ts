@@ -2382,7 +2382,7 @@ export const COCHES_EXP9: CocheComparador[] = [
     modelo: "GLA 250 e 218 CV",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 56014, // mercedes-benz.es oficial: PDF de precios GLA, GLA 250 e PVP 56.014 €,
     potenciaCv: 218,
     autonomiaKm: 74,
     maleteroL: 385,

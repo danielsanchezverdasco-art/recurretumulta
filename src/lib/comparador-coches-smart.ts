@@ -824,7 +824,7 @@ export const COCHES_SMART: CocheComparador[] = [
     "modelo": "#3 Pro",
     "tipo": "Eléctrico",
     "categoria": "SUV",
-    "precioDesde": null,
+    "precioDesde": 36600, // media.smart.com oficial: #3 Pro desde 36.600 € sin MOVES
     "potenciaCv": 272,
     "autonomiaKm": 325,
     "maleteroL": 370,
