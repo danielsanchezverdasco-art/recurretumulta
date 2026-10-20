@@ -1678,3 +1678,18 @@ Nulos honestos: potenciaCv combinada del Xiangwang S9 y del HS3 PHEV (el fabrica
 Commits previos: @ cb171750 (AG1 9 + AG3 9 + AG5 4, parcial 22/45) y @ 903d8dfb (AG4b 10, total 32/45).
 
 Pendientes documentados: mezcla de datos 2024/2025 en hongqi-hs3-phev-2025 (pros congelados, no corregible en esta tarea); leves inconsistencias inevitables entre precioDesde nuevo y pros congelados (im-ls6, mg5).
+
+## 2026-10-20 ~04:55 CEST — @grok lote listo fichas geo 12 (44/44)
+
+**Tanda 12** (filas CSV 551-600): **44/44** slugs corregidos (asignación real: AG1 12 + AG2 11 + AG3 16 + AG4 5).
+
+**Rama:** origin/merlin-fichas-geo-12 @ `2c067a129901c99488cee2671b870cc7f38c62aa` (desde main @16a6aea4, sin force). 3 commits:
+- @1804db79 — lote2 (23 registros): precios oficiales chinos 指导价 (autohome.com.cn / cheshi.com / dongchedi.com / bitauto / cnevpost): BAIC BJ40 Pro 20.000 € (149.900 CNY), BAIC EU5 20.300, Baojun Enjoy 17.800 + potenciaCv 253, BYD e7 14.600, BYD Han L 29.300, Chery QQ Ice Cream 5.300, Dongfeng Aeolus Huge 16.900, Fangchengbao Tai 3 17.800, GAC Aion RT 17.200, GAC Empow 15.700, GAC M8 24.000, Geely Galaxy Xingjian 7 13.000, Kaiyi E5 11.500, Kaiyi X3 Pro 11.300, Nevo C390 14.700 + potenciaCv 286 (C390 = Changan Qiyuan A06), Sehol X8 11.800, Skywell ET5 18.600, Venucia VX6 18.900, Wuling Bingo S 8.900, Wuling Cloud 12.800, XEV Yoyo Pro 16.990 € (comunicado oficial XEV, fuera de aprox).
+- @3d403f17 — lote3 (16 registros): tarifas oficiales por mercado (tipos de cambio BCE 19/10/2026 documentados: 1 € = 1,1225 USD / 0,8421 GBP / 1,6068 AUD / 5,6633 BRL / 177,63 JPY): VW ID.Cross 27.995 € (tarifa DE, fuera de aprox), Honda Super N EV 19.088 (tarifa JP, potenciaCv 95), Toyota bZ3X 14.640 (指导价 china), Polestar 6 Roadster 178.174 (MSRP 200.000 $, fuera de aprox, autonomiaKm 600), MG U9 EV 49.165 (tarifa AU), KGM Rexton Sports 30.000 (anuncio oficial KGM Italia), Maxus D90 25.173 + potenciaCv 224, Dacia Hipster 11.000 (objetivo no confirmado, en aprox), Dongfeng Rich 6 EV 25.307, Renault Boreal 32.311 (tarifa BR), Jaguar GT eléctrico 154.369 (130.000 £ confirmado por JLR), TVR Griffith 106.876 (anuncio 2017, en aprox), Rivian R2 40.089 (MSRP 45.000 $), Lucid Gravity 99.900 (tarifa DE), Togg T10X 39.295 (tarifa DE anunciada).
+- @2c067a12 — lotes 4/16/17 (5 registros): Rimac Nevera R 2.300.000 € (anunciado por Rimac, fuera de aprox), Audi Q3 Sportback e-hybrid 60.170 € (configurador oficial audi.es, fuera de aprox), Skoda Elroq 85x autonomiaKm 576 (WLTP oficial).
+
+**QA:** merge_t12.py --check OK (cada AG tocó exactamente sus registros y solo campos tocables); node --check limpio en los 5 ficheros; exactamente los 44 slugs declarados cambiaron (23+16+2+2+1), orden y conjunto de registros intactos; nunca se tocó `precio` ni congelados (marca/modelo/nombre/imagen/títulos/metas/H1/pros).
+
+**Nulos honestos (5):** foton-tunland-v7 (sin 指导价 china — modelo de exportación); jmev-yi-2025 (sin tarifa oficial publicada verificable); hobby-vantana-2026 (Hobby no publica tarifa oficial); carado-t-447-2026 (la tarifa 2026 ya no se publica; la vigente es 2027 desde 62.599 € DE — no atribuida al 2026); vinfast-vf-7-2026 (VinFast no publica tarifa oficial en Europa).
+
+**Caveats:** 3 slugs con fuente secundaria autocango pendiente de verificación primaria (kaiyi-e5, kaiyi-x3-pro, skywell-et5); dacia-hipster 11.000 € = objetivo de prensa no confirmado por Dacia; togg-t10x con cotización alternativa 34.295 € (Standard-Range) sin confirmar; wuling-bingo-s con cifras alternativas 5.98–8.28万 sin confirmar; gac-m8 tarifa PHEV 2026 no verificada por separado.
