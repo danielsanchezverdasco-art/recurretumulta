@@ -1451,4 +1451,91 @@ export const COCHES_FIAT: CocheComparador[] = [
       }
     ]
   },
+  {
+    id: "fiat-multiplina-2028",
+    marca: "Fiat",
+    modelo: "Multiplina",
+    tipo: "Eléctrico",
+    categoria: "Urbano",
+    precioDesde: null,
+    potenciaCv: 20,
+    autonomiaKm: null,
+    maleteroL: null,
+    ceroCien: null,
+    velocidadMax: 90,
+    bateriaKwh: null,
+    cargaRapidaKw: null,
+    etiquetaDgt: "Cero",
+    garantiaBateriaAnos: null,
+    garantiaBateriaKm: null,
+    garantiaBateriaDegradacionPct: null,
+    largoMm: null,
+    anchoMm: null,
+    altoMm: null,
+    pesoKg: null,
+    consumo: null,
+    consumoUnidad: "kWh/100 km",
+    plazas: 4,
+    parNm: null,
+    traccion: null,
+    emisionesCo2: 0,
+    aprox: ["potenciaCv", "velocidadMax"],
+    pros: [
+      "4 plazas reales en menos de 3 metros: el eslabón perdido entre el Topolino y el 500",
+      "Categoría L7e: hasta 90 km/h y 20 CV, el doble que un cuadriciclo L6e",
+      "Diseño neo-retro fiel al 600 Multipla de 1956: faros redondos y techo de lona",
+      "Etiqueta Cero de la DGT: acceso libre a todas las ZBE",
+      "Producción prevista para 2028 dentro de la apuesta de Fiat por la micromovilidad",
+    ],
+    contras: [
+      "Prototipo: ni precio final, ni batería, ni autonomía confirmados oficialmente",
+      "El gran reto es el peso: el límite L7e son 450 kg y el prototipo lo supera",
+      "Sin fecha de venta confirmada: 2028 es la previsión, no un compromiso",
+      "Batería y autonomía sin publicar: solo se sabe que superará los 74 km del Ami",
+      "Equipamiento por definir: ni siquiera está claro si llevará aire acondicionado",
+    ],
+    imagen: "/media/fiat-multiplina-2028-hero.webp",
+    imagenOficial: "/media/fiat-multiplina-2028-oficial.webp",
+    imagenInteriorOficial: "",
+    analisisSlug: "fiat-multiplina-2028-analisis-opinion",
+    videoId: "aMA4sE7aZ7Q",
+    videoCanal: "Motor1 Italia",
+    opiniones: [],
+    costeMensual: null,
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: prototipo no probado",
+    },
+    planMantenimiento: null,
+    galeria: [
+      {
+        "src": "/media/fiat-multiplina-2028-hero.webp",
+        "alt": "Fiat Multiplina prototipo en el Salón de París 2026, vista frontal",
+        "ancho": 659,
+        "alto": 371
+      },
+      {
+        "src": "/media/fiat-multiplina-2028-oficial.webp",
+        "alt": "Fiat Multiplina prototipo, vista lateral con techo de lona",
+        "ancho": 659,
+        "alto": 371
+      },
+      {
+        "src": "/media/fiat-multiplina-2028-trasera.webp",
+        "alt": "Fiat Multiplina prototipo, vista trasera con pilotos verticales",
+        "ancho": 1200,
+        "alto": 904
+      }
+    ],
+    fuenteNombre: "hibridosyelectricos.com / Wikipedia",
+    fuenteUrl: "https://www.hibridosyelectricos.com/coches/bonito-practico-pero-pasado-peso-nuevo-familiar-electrico-fiat-debera-ponerse-dieta-entrar-en-produccion_89965_102.html",
+    confianza: "media",
+    curiosidad: {
+      texto: "El nombre Multiplina homenajea al Fiat 600 Multipla de 1956, del que se vendieron unas 240.000 unidades hasta 1967: medía 3,53 m y cabían seis personas porque el conductor iba sentado justo encima del eje delantero.",
+      fuenteNombre: "hibridosyelectricos.com",
+      fuenteUrl: "https://www.hibridosyelectricos.com/coches/bonito-practico-pero-pasado-peso-nuevo-familiar-electrico-fiat-debera-ponerse-dieta-entrar-en-produccion_89965_102.html"
+    }
+  },
 ];

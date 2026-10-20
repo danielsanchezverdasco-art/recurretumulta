@@ -322,6 +322,7 @@ byd-dolphin-2025-precio-ficha-tecnica
 byd-dolphin-active-95-2026-precio-ficha-tecnica
 byd-dolphin-g-dmi-active-2026-precio-ficha-tecnica
 byd-dolphin-g-dmi-boost-2026-precio-ficha-tecnica
+byd-dolphin-surf-2027-precio-ficha-tecnica
 byd-dolphin-surf-precio-ficha-tecnica
 byd-e7-2025-precio-ficha-tecnica
 byd-great-tang-2026-precio-ficha-tecnica
@@ -353,6 +354,7 @@ byd-song-plus-dm-i-2025-precio-ficha-tecnica
 byd-song-pro-dm-i-2025-precio-ficha-tecnica
 byd-tang-2024-precio-ficha-tecnica
 byd-tang-l-2026-precio-ficha-tecnica
+byd-ti7-2026-precio-ficha-tecnica
 byd-xia-2025-precio-ficha-tecnica
 byd-yuan-up-2025-precio-ficha-tecnica
 cadillac-celestiq-2025-precio-ficha-tecnica
@@ -717,6 +719,7 @@ fiat-e-ulysse-2024-precio-ficha-tecnica
 fiat-grande-panda-electrico-precio-ficha-tecnica
 fiat-grande-panda-ev-113-2025-precio-ficha-tecnica
 fiat-grande-panda-hibrido-2025-precio-ficha-tecnica
+fiat-multiplina-2028
 fiat-panda-pandina-2025
 fiat-pandina-2024-precio-ficha-tecnica
 fiat-scudo-20-mjt-180-2026-precio-ficha-tecnica

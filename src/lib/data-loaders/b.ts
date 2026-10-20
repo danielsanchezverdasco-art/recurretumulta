@@ -499,6 +499,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "byd-song-pro-dm-i-2025-precio-ficha-tecnica": () => import("../comparador-coches-lote11.ts"),
     "byd-tang-2024-precio-ficha-tecnica": () => import("../comparador-coches-byd.ts"),
     "byd-tang-l-2026-precio-ficha-tecnica": () => import("../comparador-coches-chinos-2026.ts"),
+    "byd-ti7-2026-precio-ficha-tecnica": () => import("../comparador-coches-byd.ts"),
     "byd-xia-2025-precio-ficha-tecnica": () => import("../comparador-coches-lote11.ts"),
     "byd-yuan-up-2025-precio-ficha-tecnica": () => import("../comparador-coches-nuevos-c1.ts"),
   },
