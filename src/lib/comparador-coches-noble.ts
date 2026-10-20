@@ -12,7 +12,7 @@ export const COCHES_NOBLE: CocheComparador[] = [
     modelo: "M500",
     tipo: "Gasolina",
     categoria: "Deportivo",
-    precioDesde: 212000,
+    precioDesde: 178100,
     potenciaCv: 550,
     autonomiaKm: null,
     maleteroL: null,
@@ -43,7 +43,7 @@ export const COCHES_NOBLE: CocheComparador[] = [
       "Producción artesanal limitada a unas 50 unidades al año en Leicester",
     ],
     contras: [
-      "Precio elevado: unas 212.000 € al cambio de las £180.000 británicas",
+      "Aprox. 178.100 € según precio oficial del fabricante (150.000 GBP), sin venta oficial en España",
       "Sin ABS, sin airbags y sin ESP: no apto para conductores poco experimentados",
       "No se vende oficialmente en España: sin red de servicio ni homologación europea",
       "Habitabilidad espartana y maletero delantero limitado",

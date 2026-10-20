@@ -1333,7 +1333,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     modelo: "Primastar Combi dCi 170",
     tipo: "Diésel",
     categoria: "Furgoneta",
-    precioDesde: 37540,
+    precioDesde: null,
     potenciaCv: 170,
     autonomiaKm: null,
     maleteroL: null,
@@ -1352,7 +1352,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     contras: [
       "Solo diésel: etiqueta C y futuro incierto en las ZBE",
       "Comportamiento y acabados de vehículo comercial",
-      "Precio desde ~37.540 €: hay monovolúmenes más refinados",
+      "Nissan no publica la tarifa oficial en España: el precio final solo se confirma en el concesionario",
       "Más de 5 metros: complicada para aparcar en ciudad",
       "Bancos traseros pesados de desmontar",
     ],
@@ -1366,7 +1366,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     parNm: 380,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precioDesde", "consumo"],
+    aprox: ["consumo"],
     imagen: "/media/nissan-primastar-combi-dci170-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
