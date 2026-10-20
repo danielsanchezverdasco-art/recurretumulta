@@ -7363,3 +7363,9 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/macbor-eight-mile-500-scr-2026-ficha-tecnica-precio-hunt1.webp | https://www.motoradn.com/wp-content/uploads/2021/11/Macbor-EightMile-500-SCRSTR-2022-24.jpg | MotorADN / kit de prensa Macbor | desconocida |
 | /media/macbor-eight-mile-500-scr-2026-ficha-tecnica-precio-hunt2.webp | https://www.motoradn.com/wp-content/uploads/2021/11/Macbor-EightMile-500-SCRSTR-2022-5-768x512.jpg | MotorADN / kit de prensa Macbor | desconocida |
 | /media/macbor-eight-mile-500-scr-2026-ficha-tecnica-precio-hunt3.webp | https://www.canariasenmoto.com/images/varias/Macbor_EightMile500_5.jpg | Canariasenmoto.com (prueba Macbor Eight Mile 500 STR y SCR) | desconocida |
+| /media/honda-grom-125-2025-ficha-tecnica-precio-hunt1.webp | https://www.autopubli.ch/Webkit/dis/inhalte/HONDA/modellimages/2025_MSX125_Grom/1920/482402_25YM_HONDA_MSX125_GROM.jpg | Honda (foto oficial 25YM) / Autopubli | desconocida |
+| /media/honda-grom-125-2025-ficha-tecnica-precio-hunt2.webp | https://engear.tv/wp-content/uploads/2024/06/25-Honda-Grom_Candy-Blue_LHP.jpg | Honda (foto oficial) / Engear | desconocida |
+| /media/honda-grom-125-2025-ficha-tecnica-precio-hunt3.webp | https://motovalencia.es/backend-images/product/gallery/lg/5366f92c9970a2cc8148b14cf678807a22790b10f2ac44739ee462349d9a807b/honda-msx125-2025-azul-candy-b214.webp | Honda (foto oficial) / Moto Valencia | desconocida |
+| /media/mg-3-2025-precio-ficha-tecnica-hunt1.webp | https://divexmotor.com/wp-content/uploads/2026/01/prueba-mg-3-gasolina-14-720x405.jpg | DivexMotor | desconocida |
+| /media/mg-3-2025-precio-ficha-tecnica-hunt2.webp | https://divexmotor.com/wp-content/uploads/2026/01/prueba-mg-3-gasolina-12.jpg | DivexMotor | desconocida |
+| /media/mg-3-2025-precio-ficha-tecnica-hunt3.webp | https://divexmotor.com/wp-content/uploads/2026/01/prueba-mg-3-gasolina-8.jpg | DivexMotor | desconocida |
