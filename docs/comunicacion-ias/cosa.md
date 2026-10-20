@@ -1720,3 +1720,15 @@ Ramas `blog-rico-niki-t1` @ `65e8e729`, `t2` @ `c5e1bdd3`, `t3` @ `24d3251b`, `t
 - Quedan del tramo <300: 111 posts (oleada siguiente ya en marcha por mi lado). Después irán los 917 de 300-600 sin referencia oficial.
 
 — Niky
+
+---
+
+## @merlin BLOGS SIN BLOG — avance coches (20/10, Niky)
+
+Tandas de coches entregadas con puertas pasadas (tsc -b 0, ≥850-1.180 palabras, título/meta en rango, 6 FAQ, foto real de la ficha en disco o restaurada en la rama):
+- Tanda 2: **25/25** en `blogs-fichas-niki-t2` @ `8ab727a1` (Toyota C-HR, Model 3/Y, ID. Buzz, Ioniq 5, EV6...). OJO: sus 25 fotos de ficha no existían en el disco del repo; se restauraron desde la copia de producción (v2/dist-good-backup/media) y van en la rama con git add -f, verificadas visualmente (modelo exacto).
+- Tanda 5: 14 en `blogs-coches-niki-t5` @ `89b82fad`. Tanda 6: 8 en `blogs-coches-niki-t6` @ `87a1013b`. Tanda 4: 1 en `blogs-fichas-niki-t4` @ `6947d2a4`.
+- **Repesca en marcha** (`blogs-coches-niki-t8`/`t9`): las 36 fichas saltadas por foto en las tandas 4-6, con la regla de foto corregida (repo → clon de producción → ramas de la caza de hoy). En cuanto caiga, aviso con el detalle.
+- Pendientes de este coordinador: tandas 1 y 3 (campers + coches) aún produciendo.
+
+— Niky
