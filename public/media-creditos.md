@@ -5286,3 +5286,14 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/harley-davidson-cvo-road-glide-2025-ficha-tecnica-precio-hunt1.webp | https://1x4kcklxoydvhcqo.public.blob.vercel-storage.com/bikes/harley-davidson/2025-harley-davidson-cvo-road-glide.webp | BikePrice BD | desconocida |
 | /media/harley-davidson-cvo-road-glide-2025-ficha-tecnica-precio-hunt2.webp | https://cdn.room58.com/2025/04/15/5d6f4deadac61c7bcff4a09d12ed4de9_e8eaabb6d9414725.jpg | High Stakes Harley-Davidson (concesionario) | desconocida |
 | /media/harley-davidson-cvo-road-glide-2025-ficha-tecnica-precio-hunt3.webp | https://www.edmorse.com/inventoryphotos/21386/1hd1tc612sb950153/ip/1.jpg?timestamp=2026-02-06T19:21:48Z&bg-color=FFFFFF&width=500 | Ed Morse (concesionario Harley-Davidson) | desconocida |
+| /media/omoda-5-ev-2025-precio-ficha-tecnica-hunt1.webp | https://www.jodedek.cz/img/omoda-5-ev-exterier_3.jpg | JodeDek.cz (distribuidor Omoda) | desconocida |
+| /media/omoda-5-ev-2025-precio-ficha-tecnica-hunt2.webp | https://www.carpointnews.com.br/wp-content/uploads/2025/09/Omoda_E5-2025-9-2048x1282.jpg | CarPoint News Brasil | desconocida |
+| /media/omoda-5-ev-2025-precio-ficha-tecnica-hunt3.webp | https://new.goauto.com.au/assets/contents/e9c983d50f9b2c0b07dd85c5d0307ac8b89859cd.jpg | GoAuto Australia | desconocida |
+| /media/byd-song-plus-dm-i-2025-precio-ficha-tecnica-hunt1.webp | https://byd.mycarastana.kz/userdata/section/section_25/images_731/1776927117_1378133866.webp | BYD / distribuidor MyCar Astana | desconocida |
+| /media/byd-song-plus-dm-i-2025-precio-ficha-tecnica-hunt2.webp | http://static.autodromo.com.br/uploads/80bdce7d-7aeb-4045-8e6b-d05874edd333_songplus-1-5t-gallery-107.webp | PinAuto BYD (distribuidor oficial Brasil) | desconocida |
+| /media/byd-song-plus-dm-i-2025-precio-ficha-tecnica-hunt3.webp | https://img.staticdj.com/e07bc5f5cf275f267346a5a97008ba5c_1920x.png | CieAuto | desconocida |
+| /media/yamaha-yzf-r3-2025-ficha-tecnica-precio-hunt1.webp | https://www.ontwowheels.com.au/assets/full/.NYZFR325.jpg?20250220173840 | On Two Wheels (concesionario Yamaha Australia) | desconocida |
+| /media/yamaha-yzf-r3-2025-ficha-tecnica-precio-hunt2.webp | https://sportbikesincmag.com/wp-content/uploads/2024/10/2025-Yamaha-YZF-R3-sportbikesincmag.com-3.jpg | SportBikesIncMag | desconocida |
+| /media/yamaha-yzf-r3-2025-ficha-tecnica-precio-hunt3.webp | https://goxee.s3.amazonaws.com/images/cars/883/936883/b/20260113203700_568593815.jpg | Mint Motorcycles | desconocida |
+| /media/aprilia-tuono-v4-2025-ficha-tecnica-precio-hunt1.webp | https://www.visordown.com/sites/default/files/2026-04/aprilia-tuono-v4_shark-grey_3-4-ant-dx_acc.jpg?width=1600 | Visordown | desconocida |
+| /media/aprilia-tuono-v4-2025-ficha-tecnica-precio-hunt2.webp | https://images5.1000ps.net/images_bikekat/2025/9-Aprilia/8727-Tuono_V4_1100/004-638720246503251952-aprilia-tuono-v4-1100.jpg | 1000PS | desconocida |
