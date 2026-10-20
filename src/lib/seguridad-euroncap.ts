@@ -16,6 +16,7 @@ import { EURONCAP_EXP18 } from "./euroncap-exp18.ts";
 import { EURONCAP_EXP19 } from "./euroncap-exp19.ts";
 import { EURONCAP_EXP20 } from "./euroncap-exp20.ts";
 import { EURONCAP_EXP21 } from "./euroncap-exp21.ts";
+import { EURONCAP_ENRIQUECER_T3 } from "./euroncap-enriquecer-t3.ts";
 
 export type SeguridadEuroNCAP = {
   /** id de la ficha en COCHES_COMPARADOR */
@@ -5906,4 +5907,5 @@ export const SEGURIDAD_EURONCAP: Record<string, SeguridadEuroNCAP> = {
   ...EURONCAP_EXP12,
   ...EURONCAP_EXP13,
   ...EURONCAP_EXP14, ...EURONCAP_EXP15, ...EURONCAP_EXP16, ...EURONCAP_EXP17, ...EURONCAP_EXP18, ...EURONCAP_EXP19, ...EURONCAP_EXP20, ...EURONCAP_EXP21,
+  ...EURONCAP_ENRIQUECER_T3,
 };

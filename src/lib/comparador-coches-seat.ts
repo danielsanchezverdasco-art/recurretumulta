@@ -89,6 +89,20 @@ export const COCHES_SEAT: CocheComparador[] = [
     ],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/seat/leon/2020/sportstourer/datos?market%5B0%5D=available&=1",
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: "https://www.euroncap.com",
+      nota: "Prueba oficial del SEAT León 2025 (5 estrellas): 88 % adultos, 86 % infantil, 81 % usuarios vulnerables y 77 % asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 2 años (servicio flexible LongLife, PR QG1) o 15.000 km o 1 año (servicio fijo, PR QG0/QG2), lo que ocurra antes",
+      revisiones: [
+        { nombre: "Inspección / servicio de aceite", queSeCambia: "Aceite y filtro de aceite + inspección general y filtro de polen según el plan de mantenimiento", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento oficial SEAT",
+    },
   },
   {
     id: "seat-ibiza-10-tsi-2026-precio-ficha-tecnica",
@@ -172,6 +186,20 @@ export const COCHES_SEAT: CocheComparador[] = [
     ],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/seat/ibiza/2021/5-puertas/estandar/ibiza-10-tsi-85-kw-115-cv-style/datos",
+    euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: "https://www.euroncap.com",
+      nota: "Prueba oficial del Ibiza (restyling) 2022 (5 estrellas): 83 % adultos, 82 % infantil, 66 % usuarios vulnerables y 70 % asistencias; misma generación que la versión 2026",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 2 años (servicio flexible LongLife, PR QG1) o 15.000 km o 1 año (servicio fijo, PR QG0/QG2), lo que ocurra antes",
+      revisiones: [
+        { nombre: "Inspección / servicio de aceite", queSeCambia: "Aceite y filtro de aceite + inspección general y filtro de polen según el plan de mantenimiento", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento oficial SEAT",
+    },
   },
   {
     id: "seat-arona-15-tsi-2026-precio-ficha-tecnica",
@@ -338,6 +366,20 @@ export const COCHES_SEAT: CocheComparador[] = [
     ],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/seat/leon/2020/5-puertas/estandar/leon-15-etsi-110-kw-150-cv-dsg-style-special-edition2/datos",
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: "https://www.euroncap.com",
+      nota: "Prueba oficial del SEAT León 2025 (5 estrellas): 88 % adultos, 86 % infantil, 81 % usuarios vulnerables y 77 % asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 2 años (servicio flexible LongLife, PR QG1) o 15.000 km o 1 año (servicio fijo, PR QG0/QG2), lo que ocurra antes",
+      revisiones: [
+        { nombre: "Inspección / servicio de aceite", queSeCambia: "Aceite y filtro de aceite + inspección general, filtro de polen y control del sistema mild-hybrid de 48 V según el plan de mantenimiento", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento oficial SEAT",
+    },
   },
   {
     id: "seat-leon-20-tdi-2026-precio-ficha-tecnica",
@@ -421,6 +463,20 @@ export const COCHES_SEAT: CocheComparador[] = [
     ],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/seat/leon/2020/5-puertas",
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: "https://www.euroncap.com",
+      nota: "Prueba oficial del SEAT León 2025 (5 estrellas): 88 % adultos, 86 % infantil, 81 % usuarios vulnerables y 77 % asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 2 años (servicio flexible LongLife, PR QG1) o 15.000 km o 1 año (servicio fijo, PR QG0/QG2), lo que ocurra antes",
+      revisiones: [
+        { nombre: "Inspección / servicio de aceite", queSeCambia: "Aceite y filtro de aceite + filtro de combustible según plan + inspección general y filtro de polen", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento oficial SEAT",
+    },
   },
   {
     id: "seat-leon-15-ehybrid-2026-precio-ficha-tecnica",
@@ -504,6 +560,20 @@ export const COCHES_SEAT: CocheComparador[] = [
     ],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/seat/leon/2020/5-puertas/ehybrid/leon-15-ehybrid-150-kw-204-cv-dsg-style2/datos",
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: "https://www.euroncap.com",
+      nota: "Prueba oficial del SEAT León 2025 (5 estrellas): 88 % adultos, 86 % infantil, 81 % usuarios vulnerables y 77 % asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 2 años (servicio flexible LongLife, PR QG1) o 15.000 km o 1 año (servicio fijo, PR QG0/QG2), lo que ocurra antes",
+      revisiones: [
+        { nombre: "Inspección / servicio de aceite", queSeCambia: "Aceite y filtro de aceite + inspección general, filtro de polen y control de la batería de alto voltaje y del sistema híbrido enchufable", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento oficial SEAT",
+    },
   },
   {
     id: "seat-ateca-15-tsi-2026-precio-ficha-tecnica",
@@ -587,6 +657,20 @@ export const COCHES_SEAT: CocheComparador[] = [
     ],
     fuenteNombre: "motorgiga",
     fuenteUrl: "https://motorgiga.com/seat/ateca/ateca-15-tsi-110-kw-150-cv-style-evo-edition/2020/precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2016,
+      url: "https://www.euroncap.com/sv/results/seat/ateca/24847",
+      nota: "Prueba oficial del Ateca 2016 (5 estrellas): 93 % adultos, 84 % infantil, 71 % peatones y 60 % asistencias; es la única prueba Euro NCAP del modelo (misma generación)",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 2 años (servicio flexible LongLife, PR QG1) o 15.000 km o 1 año (servicio fijo, PR QG0/QG2), lo que ocurra antes",
+      revisiones: [
+        { nombre: "Inspección / servicio de aceite", queSeCambia: "Aceite y filtro de aceite + inspección general y filtro de polen según el plan de mantenimiento", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento oficial SEAT",
+    },
   },
   {
     id: "seat-ateca-20-tdi-2026-precio-ficha-tecnica",

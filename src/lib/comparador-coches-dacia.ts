@@ -70,6 +70,22 @@ export const COCHES_DACIA: CocheComparador[] = [
       { "src": "/media/dacia-sandero-tce-90-2026-precio-ficha-tecnica-hero.webp", "alt": "Dacia Sandero TCe 90 2026, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-sandero-tce-90-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Sandero TCe 90 2026", "ancho": 1920, "alto": 1280 }
     ],
+    euroncap: {
+      estrellas: 2,
+      ano: 2021,
+      url: "https://www.euroncap.com/press-media/dacia-aims-low-while-%C5%A1koda-vw-electrify/",
+      nota: "Prueba oficial del Sandero Stepway 2021 (2 estrellas); Euro NCAP indica que la valoración cubre también al Sandero berlina y al Logan de la misma generación",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        { nombre: "Revisión periódica", queSeCambia: "Aceite y filtro de aceite, filtros y puntos de control de seguridad según el programa de mantenimiento del modelo", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Dacia España — mi mantenimiento (https://www.dacia.es/mi-mantenimiento.html)",
+    },
+    fuenteNombre: "Dacia España",
+    fuenteUrl: "https://www.dacia.es/modelos/sandero.html",
   },
   {
     id: "dacia-sandero-eco-g-100-2026-precio-ficha-tecnica",
@@ -284,6 +300,22 @@ export const COCHES_DACIA: CocheComparador[] = [
       { "src": "/media/dacia-sandero-stepway-tce-90-2026-precio-ficha-tecnica-hero.webp", "alt": "Dacia Sandero Stepway TCe 90 2026, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-sandero-stepway-tce-90-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Sandero Stepway TCe 90 2026", "ancho": 1920, "alto": 1280 }
     ],
+    euroncap: {
+      estrellas: 2,
+      ano: 2021,
+      url: "https://www.euroncap.com/press-media/dacia-aims-low-while-%C5%A1koda-vw-electrify/",
+      nota: "Prueba oficial del Sandero Stepway 2021 (2 estrellas): 70 % adultos, 72 % infantil, 41 % usuarios vulnerables y 42 % asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        { nombre: "Revisión periódica", queSeCambia: "Aceite y filtro de aceite, filtros y puntos de control de seguridad según el programa de mantenimiento del modelo", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Dacia España — mi mantenimiento (https://www.dacia.es/mi-mantenimiento.html)",
+    },
+    fuenteNombre: "Dacia España",
+    fuenteUrl: "https://www.dacia.es/modelos/sandero-stepway.html",
   },
   {
     id: "dacia-sandero-stepway-eco-g-100-2026-precio-ficha-tecnica",
@@ -498,6 +530,22 @@ export const COCHES_DACIA: CocheComparador[] = [
       { "src": "/media/dacia-duster-tce-130-2025-precio-ficha-tecnica-hero.webp", "alt": "Dacia Duster TCe 130 2025, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-duster-tce-130-2025-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Duster TCe 130 2025", "ancho": 1920, "alto": 1280 }
     ],
+    euroncap: {
+      estrellas: 3,
+      ano: 2024,
+      url: "https://www.euroncap.com",
+      nota: "Prueba oficial del Duster de tercera generación (2024; el modelo probado fue el Hybrid 140): 3 estrellas, 70 % adultos, 84 % infantil, 60 % usuarios vulnerables y 57 % asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        { nombre: "Revisión periódica", queSeCambia: "Aceite y filtro de aceite, filtros y puntos de control de seguridad según el programa de mantenimiento del modelo", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Dacia España — mi mantenimiento (https://www.dacia.es/mi-mantenimiento.html)",
+    },
+    fuenteNombre: "Dacia España",
+    fuenteUrl: "https://www.dacia.es/modelos/duster.html",
   },
   {
     id: "dacia-duster-tce-130-4x4-2025-precio-ficha-tecnica",
@@ -564,6 +612,22 @@ export const COCHES_DACIA: CocheComparador[] = [
       { "src": "/media/dacia-duster-tce-130-4x4-2025-precio-ficha-tecnica-hero.webp", "alt": "Dacia Duster TCe 130 4x4 2025, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-duster-tce-130-4x4-2025-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Duster TCe 130 4x4 2025", "ancho": 1920, "alto": 1280 }
     ],
+    euroncap: {
+      estrellas: 3,
+      ano: 2024,
+      url: "https://www.euroncap.com",
+      nota: "Prueba oficial del Duster de tercera generación (2024; el modelo probado fue el Hybrid 140): 3 estrellas, 70 % adultos, 84 % infantil, 60 % usuarios vulnerables y 57 % asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        { nombre: "Revisión periódica", queSeCambia: "Aceite y filtro de aceite, filtros y puntos de control de seguridad según el programa de mantenimiento del modelo", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Dacia España — mi mantenimiento (https://www.dacia.es/mi-mantenimiento.html)",
+    },
+    fuenteNombre: "Dacia España",
+    fuenteUrl: "https://www.dacia.es/modelos/duster.html",
   },
   {
     id: "dacia-duster-eco-g-100-2025-precio-ficha-tecnica",
@@ -696,6 +760,22 @@ export const COCHES_DACIA: CocheComparador[] = [
       { "src": "/media/dacia-bigster-tce-140-2025-precio-ficha-tecnica-hero.webp", "alt": "Dacia Bigster TCe 140 2025, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-bigster-tce-140-2025-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Bigster TCe 140 2025", "ancho": 1920, "alto": 1280 }
     ],
+    euroncap: {
+      estrellas: 3,
+      ano: 2024,
+      url: "https://www.euroncap.com",
+      nota: "Valoración Euro NCAP del Bigster (3 estrellas) derivada de la prueba del Duster 2024, misma plataforma, con ensayos adicionales del Bigster: 69 % adultos, 85 % infantil, 60 % usuarios vulnerables y 57 % asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        { nombre: "Revisión periódica", queSeCambia: "Aceite y filtro de aceite, filtros y puntos de control de seguridad según el programa de mantenimiento del modelo", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Dacia España — mi mantenimiento (https://www.dacia.es/mi-mantenimiento.html)",
+    },
+    fuenteNombre: "Dacia España",
+    fuenteUrl: "https://www.dacia.es/modelos/bigster.html",
   },
   {
     id: "dacia-bigster-tce-130-4x4-2025-precio-ficha-tecnica",
@@ -828,6 +908,22 @@ export const COCHES_DACIA: CocheComparador[] = [
       { "src": "/media/dacia-jogger-tce-110-2026-precio-ficha-tecnica-hero.webp", "alt": "Dacia Jogger TCe 110 2026, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-jogger-tce-110-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Jogger TCe 110 2026", "ancho": 1920, "alto": 1280 }
     ],
+    euroncap: {
+      estrellas: 1,
+      ano: 2021,
+      url: "https://www.euroncap.com",
+      nota: "Prueba oficial del Jogger 2021 (1 estrella): 70 % adultos, 69 % infantil, 41 % usuarios vulnerables y 39 % asistencias; misma generación que esta versión",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        { nombre: "Revisión periódica", queSeCambia: "Aceite y filtro de aceite, filtros y puntos de control de seguridad según el programa de mantenimiento del modelo", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Dacia España — mi mantenimiento (https://www.dacia.es/mi-mantenimiento.html)",
+    },
+    fuenteNombre: "Dacia España",
+    fuenteUrl: "https://www.dacia.es/modelos/jogger.html",
   },
   {
     id: "dacia-jogger-eco-g-120-2026-precio-ficha-tecnica",
@@ -1158,6 +1254,22 @@ export const COCHES_DACIA: CocheComparador[] = [
       { "src": "/media/dacia-spring-electric-65-2024-precio-ficha-tecnica-hero.webp", "alt": "Dacia Spring Electric 65 2024, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-spring-electric-65-2024-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Spring Electric 65 2024", "ancho": 1920, "alto": 1280 }
     ],
+    euroncap: {
+      estrellas: 1,
+      ano: 2021,
+      url: "https://www.euroncap.com",
+      nota: "Prueba oficial del Spring 2021 (1 estrella): 49 % adultos, 56 % infantil, 39 % usuarios vulnerables y 32 % asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        { nombre: "Revisión periódica del eléctrico", queSeCambia: "Inspección general y puntos de control de seguridad, filtro de habitáculo y control del sistema eléctrico y de la batería de tracción (sin cambio de aceite: motor eléctrico)", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Dacia España — mi mantenimiento (https://www.dacia.es/mi-mantenimiento.html)",
+    },
+    fuenteNombre: "Dacia España",
+    fuenteUrl: "https://www.dacia.es/modelos/spring.html",
   },
   {
     id: "dacia-duster-hybrid-140-2025-precio-ficha-tecnica",
@@ -1238,7 +1350,23 @@ export const COCHES_DACIA: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       }
-    ]
+    ],
+    euroncap: {
+      estrellas: 3,
+      ano: 2024,
+      url: "https://www.euroncap.com",
+      nota: "Prueba oficial del Duster de tercera generación (2024; el modelo probado fue el Hybrid 140): 3 estrellas, 70 % adultos, 84 % infantil, 60 % usuarios vulnerables y 57 % asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        { nombre: "Revisión periódica del híbrido", queSeCambia: "Aceite y filtro de aceite, filtros, puntos de control de seguridad + revisión del sistema eléctrico e híbrido (diagnóstico)", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Dacia España — blog oficial: mantenimiento del coche híbrido (https://www.dacia.es/blog/seguridad-consejos/mantenimiento-del-coche-hibrido-claves-ahorro-real.html)",
+    },
+    fuenteNombre: "Dacia España",
+    fuenteUrl: "https://www.dacia.es/modelos/duster.html",
   },
   {
     id: "dacia-bigster-hybrid-155-2025-precio-ficha-tecnica",
@@ -1319,7 +1447,23 @@ export const COCHES_DACIA: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       }
-    ]
+    ],
+    euroncap: {
+      estrellas: 3,
+      ano: 2024,
+      url: "https://www.euroncap.com",
+      nota: "Valoración Euro NCAP del Bigster (3 estrellas) derivada de la prueba del Duster 2024, misma plataforma, con ensayos adicionales del Bigster: 69 % adultos, 85 % infantil, 60 % usuarios vulnerables y 57 % asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        { nombre: "Revisión periódica del híbrido", queSeCambia: "Aceite y filtro de aceite, filtros, puntos de control de seguridad + revisión del sistema eléctrico e híbrido (diagnóstico)", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Dacia España — blog oficial: mantenimiento del coche híbrido (https://www.dacia.es/blog/seguridad-consejos/mantenimiento-del-coche-hibrido-claves-ahorro-real.html)",
+    },
+    fuenteNombre: "Dacia España",
+    fuenteUrl: "https://www.dacia.es/modelos/bigster.html",
   },
   {
     id: "dacia-bigster-eco-g-140-2025-precio-ficha-tecnica",
@@ -1481,7 +1625,23 @@ export const COCHES_DACIA: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       }
-    ]
+    ],
+    euroncap: {
+      estrellas: 1,
+      ano: 2021,
+      url: "https://www.euroncap.com",
+      nota: "Prueba oficial del Jogger 2021 (1 estrella): 70 % adultos, 69 % infantil, 41 % usuarios vulnerables y 39 % asistencias; misma generación que esta versión",
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        { nombre: "Revisión periódica del híbrido", queSeCambia: "Aceite y filtro de aceite, filtros, puntos de control de seguridad + revisión del sistema eléctrico e híbrido (diagnóstico)", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Dacia España — blog oficial: mantenimiento del coche híbrido (https://www.dacia.es/blog/seguridad-consejos/mantenimiento-del-coche-hibrido-claves-ahorro-real.html)",
+    },
+    fuenteNombre: "Dacia España",
+    fuenteUrl: "https://www.dacia.es/modelos/jogger.html",
   },
   {
     id: "dacia-jogger-hybrid-140-7-plazas-2025-precio-ficha-tecnica",

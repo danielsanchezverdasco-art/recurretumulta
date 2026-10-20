@@ -3234,6 +3234,14 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     largoMm: 4368, anchoMm: 1800, altoMm: 1456, pesoKg: 1346,
     consumo: 5.7, consumoUnidad: "l/100 km", plazas: 5, parNm: 250, traccion: "Delantera", emisionesCo2: 130,
     aprox: ["garantiaBateriaAnos"], imagen: "/media/seat-leon-15-tsi.webp", opiniones: [],
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: "https://www.euroncap.com",
+      nota: "Prueba oficial del SEAT León 2025 (5 estrellas): 88 % adultos, 86 % infantil, 81 % usuarios vulnerables y 77 % asistencias",
+    },
+    fuenteNombre: "SEAT España",
+    fuenteUrl: "https://www.seat.es/coches-seat/ofertas-coches-nuevos",
   },
   {
     id: "toyota-corolla-140h",
@@ -3363,6 +3371,14 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     largoMm: 4138, anchoMm: 1780, altoMm: 1552, pesoKg: 1213,
     consumo: 5.3, consumoUnidad: "l/100 km", plazas: 5, parNm: 200, traccion: "Delantera", emisionesCo2: 120,
     aprox: ["garantiaBateriaAnos"], imagen: "/media/seat-arona-10-tsi.webp", opiniones: [],
+    euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: "https://www.euroncap.com",
+      nota: "Prueba oficial del Arona (restyling) 2022 (5 estrellas): 83 % adultos, 83 % infantil, 65 % usuarios vulnerables y 70 % asistencias",
+    },
+    fuenteNombre: "SEAT España",
+    fuenteUrl: "https://www.seat.es/sobre-seat/noticias/coches/nuevos-seat-ibiza-y-arona",
   },
   {
     id: "ford-puma-10-ecoboost-mhev",
@@ -3855,7 +3871,15 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     aprox: ["consumo", "garantiaBateriaAnos", "garantiaBateriaDegradacionPct", "garantiaBateriaKm", "maleteroL"],
     imagen: "/media/seat-ibiza-2026.webp",
     opiniones: [],
+    euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: "https://www.euroncap.com",
+      nota: "Prueba oficial del Ibiza (restyling) 2022 (5 estrellas): 83 % adultos, 82 % infantil, 66 % usuarios vulnerables y 70 % asistencias; misma generación que la versión 2026",
     },
+    fuenteNombre: "SEAT España",
+    fuenteUrl: "https://www.seat.es/sobre-seat/noticias/coches/nuevos-seat-ibiza-y-arona",
+  },
   {
     id: "tesla-model-3-electrico-precio-ficha-tecnica",
     mantenimientoDIY: {
@@ -6430,6 +6454,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     opiniones: [],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com:443/coches/dacia/duster/2024/estandar/hybrid/duster-hybrid-140/datos",
+    euroncap: {
+      estrellas: 3,
+      ano: 2024,
+      url: "https://www.euroncap.com",
+      nota: "Prueba oficial del Duster de tercera generación (2024; el modelo probado fue el Hybrid 140): 3 estrellas, 70 % adultos, 84 % infantil, 60 % usuarios vulnerables y 57 % asistencias",
+    },
   },
   {
     id: "renault-5-e-tech-2024-precio-ficha-tecnica",
@@ -6778,6 +6808,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     opiniones: [],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/dacia/jogger/2022/estandar/hybrid/jogger-hybrid-140/datos",
+    euroncap: {
+      estrellas: 1,
+      ano: 2021,
+      url: "https://www.euroncap.com",
+      nota: "Prueba oficial del Jogger 2021 (1 estrella): 70 % adultos, 69 % infantil, 41 % usuarios vulnerables y 39 % asistencias; misma generación que esta versión",
+    },
   },
   {
     id: "dacia-spring-2024-precio-ficha-tecnica",
@@ -6933,6 +6969,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     opiniones: [],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/dacia/bigster/2025/estandar/estandar/datos",
+    euroncap: {
+      estrellas: 3,
+      ano: 2024,
+      url: "https://www.euroncap.com",
+      nota: "Valoración Euro NCAP del Bigster (3 estrellas) derivada de la prueba del Duster 2024, misma plataforma, con ensayos adicionales del Bigster: 69 % adultos, 85 % infantil, 60 % usuarios vulnerables y 57 % asistencias",
+    },
   },
   {
     id: "peugeot-2008-2024-precio-ficha-tecnica",
@@ -7268,6 +7310,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     opiniones: [],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/seat/ateca/2020/estandar/estandar/ateca-10-tsi-85-kw-115-cv-style-evo-edition/datos",
+    euroncap: {
+      estrellas: 5,
+      ano: 2016,
+      url: "https://www.euroncap.com/sv/results/seat/ateca/24847",
+      nota: "Prueba oficial del Ateca 2016 (5 estrellas): 93 % adultos, 84 % infantil, 71 % peatones y 60 % asistencias; es la única prueba Euro NCAP del modelo (misma generación)",
+    },
   },
   {
     id: "skoda-kamiq-2024-precio-ficha-tecnica",

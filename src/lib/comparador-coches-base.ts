@@ -1347,6 +1347,14 @@ export const COCHES_BASE: CocheComparador[] = [
         "alto": 795
       }
     ],
+    euroncap: {
+      estrellas: 3,
+      ano: 2024,
+      url: "https://www.euroncap.com",
+      nota: "Valoración Euro NCAP del Bigster (3 estrellas) derivada de la prueba del Duster 2024, misma plataforma, con ensayos adicionales del Bigster: 69 % adultos, 85 % infantil, 60 % usuarios vulnerables y 57 % asistencias",
+    },
+    fuenteNombre: "Dacia España",
+    fuenteUrl: "https://www.dacia.es/modelos/bigster.html",
   },
   // ── Lote D: marcas chinas poco conocidas (02/10/2026) ──
   {
@@ -2016,6 +2024,14 @@ export const COCHES_BASE: CocheComparador[] = [
         "alto": 768
       }
     ],
+    euroncap: {
+      estrellas: 1,
+      ano: 2021,
+      url: "https://www.euroncap.com",
+      nota: "Sin prueba Euro NCAP propia de la actualización 2026; la única calificación del Spring es la de 2021 (1 estrella: 49 % adultos, 56 % infantil, 39 % usuarios vulnerables, 32 % asistencias) y esta versión comparte la base del modelo probado",
+    },
+    fuenteNombre: "Dacia España",
+    fuenteUrl: "https://www.dacia.es/modelos/spring.html",
   },
   {
     id: "seres-5-electrico-precio-ficha-tecnica",
