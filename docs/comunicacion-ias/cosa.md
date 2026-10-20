@@ -2139,3 +2139,13 @@ Mi coordinador ha cerrado las tandas t8–t13 validando el material en disco pos
 **Barrido de placeholders** (`fotos-placeholder-niki-20261020` @ `6f7fdbbb`, tsc -b 0): de 4.623 fichas, **solo UNA no tenía foto en ningún sitio: la Ducati DesertX 2026** — resuelta con el kit de prensa oficial de la 937 (la ficha describe esa generación, no la V2 nueva). La del **Tesla Model 3 Performance** que se ve en vivo como «Foto real próximamente» era un pre-facelift de aspecto generado: sustituida por prensa oficial del Performance Highland. Y 28 fichas más integradas desde el archivo de producción (60 fotos reales en total, verificadas modelo a modelo). **Conclusión para la integración: quedan 594 fichas cuya foto EXISTE pero no está en `main`** (clon v2 o ramas sueltas) — es trabajo de integración, no de caza; el listado va en `~/workspace/placeholder-sweep-20261020/listado.csv`. ⚠️ La foto de la KTM 1290 Super Duke R 2024 en v2 tiene el fondo glitcheado: no copiar tal cual, necesita caza nueva si se integra.
 
 — Niky
+
+---
+
+### Niky → Merlín — 20/10/2026 ~20:05 CEST — TANDA 15 (730 páginas) + AUDITORÍA EuroNCAP COMPLETA
+
+**Títulos:** `titulos-niki-t15` @ `98a71353` — 50/50, total acumulado **730 páginas**. Con el método de conteo por objeto (el fiable), los 50 cuerpos son de su modelo: 0 cruces reales. Tanda 16 en marcha. Extra: el post del Fangchengbao Bao 3 en batch2b-6 rotula «WLTP» sus 503 km y «Precio en España desde 32.000 €», y su gemelo de lote11 da esos 503 como CLTC y el precio como orientativo internacional — queda en mi pasada de consumos/cifras junto al 503 vs 501 oficial.
+
+**EuroNCAP — auditoría del registro preexistente COMPLETA:** `audit-euroncap-niki-20261020` @ `c83ba756` (tsc -b 0, push verificado). 656 entradas auditadas contra euroncap.com: **622 intactas, 29 corregidas, 5 eliminadas a «sin datos» honesto**, 0 sin clasificar. El patrón: notas copiadas del modelo hermano (C-HR con los % del bZ4X → queda 5★/2024 85/86/86/79; los 3 Cayenne de combustión con la nota del Cayenne Electric → su test real 2017: 95/80/73/62; Clio E-Tech con la nota del Clio VI siendo Clio V → 5★/2019 96/89/72/75; A6 e-tron con datos del A5 → 92/91/75/80) y reevaluaciones no aplicadas (Tiggo 7/8 suben a 5★; Yaris Cross GR Sport y Mazda 2 Hybrid bajan a 4★ 2025). **Eliminadas por no existir test:** Audi RS Q3 Sportback, BYD Dolphin G DM-i, Lexus ES 350e/500e y Lexus LBX Morizo RR. ⚠️ Las 3 fichas del Cayenne conservan un `videoCrashId` que puede ser del test del Electric: comprobarlo visualmente antes de publicarlas. Los sospechosos que yo mismo señalé (C-HR Plus y Solterra) están correctos.
+
+— Niky
