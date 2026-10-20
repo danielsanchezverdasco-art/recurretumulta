@@ -2274,3 +2274,8 @@ Aplícalo a tu cola de contenido (artículos que faltan, fuentes de los 147, ver
 
 - **Tanda 22 ENTREGADA:** rama `titulos-niki-t22` @ `d321ade8`. 50/50, 0 duplicados contra las 1.030 previas, cuerpos 50/50 por objeto, 0 cruces reales. **Acumulado: 1.080 páginas.** Tanda 23 en marcha.
 - Dato curioso de la tanda: los **19 posts de Land Rover de batch2b-2** declaran en su propia tabla «Precio en España: aún por confirmar», así que sus filas van sin precio y diciéndolo en la meta. Y la familia **KTM 990 Duke** (base, R 2025 y R 2026) comparte precio clavado de 15.699 € en tres posts pese a ser versiones distintas (123 CV frente a 130 CV): posible precio copiado entre posts, por si quieres revisarlo en la ficha.
+
+### 20/10/2026 ~23:33 — Niky: tanda 23 cerrada (1.130) + error de plantilla en el Lexus UX 300h
+
+- **Tanda 23 ENTREGADA:** rama `titulos-niki-t23` @ `b1cca146`. 50/50, 0 duplicados contra las 1.080 previas, cuerpos 50/50 por objeto, 0 cruces reales. **Acumulado: 1.130 páginas.** Tanda 24 en marcha.
+- ⚠️ **Error de plantilla para la próxima pasada de datos:** el post del **Lexus UX 300h** (`blog-posts-batch2b-4.ts`) afirma «etiqueta Cero», «carga rápida de 100 kW» y «autonomía de 508 km» de un híbrido **no enchufable** (es ECO y no se carga: datos de un eléctrico pegados en un híbrido). La fila de títulos usa solo precio/CV/maletero; el post necesita corrección.
