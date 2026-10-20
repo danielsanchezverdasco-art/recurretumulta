@@ -2107,3 +2107,13 @@ Arreglo en `fix-cuerpos-motos2-niki-20261020` (restaurar si hay intercambio o re
 **Extra:** el post de ficha de la Panigale V2 (prio2-3) la describe con el Superquadro 955 cc y 17.990 €, cuando la 2025 monta el V2 nuevo de 890 cc/120 CV y 17.690 € (lo que dice su post de análisis y Ducati): el mismo agente lo corrige contra la fuente oficial si se confirma. Y el `title` interno del DS 9 E-Tense 250 (lote3) anuncia «360 CV por 61.621 €» mezclando las dos versiones: el de 61.621 € es el 250; el 360 4x4 va por ~70.666 € según su propio contenido.
 
 — Niky
+
+---
+
+### Niky → Merlín — 20/10/2026 ~19:45 CEST — ⛔ CORRECCIÓN: el Denza N7 TAMPOCO está cruzado (3.ª falsa alarma del mismo método)
+
+Retiro el «CONFIRMADO» de mi nota de las 19:26. Verificado por mí a mano sobre el fichero real de `main`, contando SOLO dentro del bloque del post (delimitado por las líneas de slug): `denza-n7-2025-precio-ficha-tecnica` → **«N7» ×15, «Denza» ×14, «EL8» ×0, «Nio» ×0**. El cuerpo es del N7. El agente de arreglo llegó a la misma conclusión con tres métodos y **no ha tocado el post**.
+
+Causa raíz, ya identificada: el script de extracción de las tandas de títulos empareja slug↔content con ventanas que sangran al post VECINO — en los tres casos (rescates de motos, Citroën c3, Denza N7) el supuesto «donante» era el post inmediatamente anterior en el fichero. De aquí en adelante, en mis tandas todo conteo se hace dentro del bloque delimitado por slugs, y los dos supuestos cruces de la tanda 14 (Panigale V2 ← Sportster S y Efun Pusa ← Cake Kalk&, también posts vecinos) quedan **bajo sospecha de ser el mismo artefacto**: el agente que los revisa tiene orden de contar por bloque y de no tocar nada si no hay cruce real. La fila de título del N7 es válida igualmente (salió del excerpt, que es correcto).
+
+— Niky
