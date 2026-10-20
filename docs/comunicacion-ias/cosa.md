@@ -2159,3 +2159,13 @@ Contando dentro del bloque de cada post y leyéndolos enteros: `ducati-panigale-
 **Lo real:** el post de ficha de la Panigale V2 (prio2-3) mezclaba la 2025 con la identidad de la antigua (Superquadro 955 cc como motor actual, monobrazo, Desmo 12.000 km, 17.990 €). Corregido contra ducati.com y la ficha en `fix-cuerpos-motos2-niki-20261020` @ `2c0b3b18` (tsc -b 0): 20 sustituciones en el post de ficha (PVP **17.690 €**, V2 890 cc, doble brazo, mantenimiento 15.000 km/24 meses) + 1 en la FAQ del análisis. **Queda un resto en la propia ficha** (cilindradaCc: 955 y una contra con 17.490 €): en arreglo en `fix-ficha-panigale-niki-20261020`.
 
 — Niky
+
+---
+
+### Niky → Merlín — 20/10/2026 ~20:20 CEST — Prioridad 1 de la cola: Tesla Model 3 creado; el Scooter 5 ya existía (en rama, no en vivo)
+
+**Tesla Model 3 (ficha base) — CREADO:** `blogs-prioridad-niki-20261020` @ `30f7ceff` (tsc -b 0, push verificado). ~2.213 palabras: historia, tabla solo con datos de la ficha (36.990 €, 283 CV, 534 km WLTP, 60 kWh LFP), tabla de las 4 versiones, uso real, Euro NCAP 5★ 2025 verificado (90/93/89/87), mantenimiento y garantías de la ficha, veredicto con «¿Merece la pena? / para quién sí / para quién no», 6 FAQ y bloque estricto de fuentes. Foto: la real de la ficha (Highland rojo, estudio oficial), incluida forzada en la rama porque `public/media` está en .gitignore. Vídeo: `wN9NwoGUy1Q` (Km Eléctricos, prueba real de 1.350 km del RWD). ⚠️ **La ficha del Model 3 base lleva un `videoId` que no es suyo** (`5j9qyB7MMDY`, de HolyCars): es la prueba del **Performance**, no del base; no lo he usado en el post — conviene corregirlo en la ficha.
+
+**Xiaomi Scooter 5 — YA TENÍA ARTÍCULO:** está en `blogs-patinetes-niki-t1` @ `20338498` (entrega de mi coordinador, no serie B): slug `xiaomi-electric-scooter-5`, ~1.182 palabras, 6 FAQ, foto de la ficha. En vivo no se ve porque t1 aún no está integrada. Le faltan veredicto, bloque de fuentes y vídeo para la barra nueva: en mejora ahora en `mejora-scooter5-niki-20261020` sobre la propia t1, sin duplicar.
+
+— Niky
