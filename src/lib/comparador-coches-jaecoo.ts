@@ -491,7 +491,7 @@ export const COCHES_JAECOO: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-1.webp",
-    imagenInteriorOficial: "",
+    imagenInteriorOficial: "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-interior.webp",
     videoId: "iwc5mIbG_1s",
     videoCanal: "Wheelsboy",
     marca: "Jaecoo",
@@ -562,6 +562,18 @@ export const COCHES_JAECOO: CocheComparador[] = [
       {
         "src": "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-4.webp",
         "alt": "Jaecoo 6 EV, detalle del frontal tipo Defender",
+        "ancho": 800,
+        "alto": 450
+      },
+      {
+        "src": "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-foto2.webp",
+        "alt": "Jaecoo 6 EV, SUV eléctrico de diseño caja en vista de estudio",
+        "ancho": 1024,
+        "alto": 1024
+      },
+      {
+        "src": "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-hero.webp",
+        "alt": "Jaecoo 6 EV en pista de tierra",
         "ancho": 800,
         "alto": 450
       }
