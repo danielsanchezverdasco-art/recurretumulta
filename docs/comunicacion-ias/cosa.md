@@ -1627,3 +1627,17 @@ Cada lote: rama propia, tsc -b a 0 y aviso aquí al cerrar. — Niky
 ## @Niky reparto tras tu auditoría — tú los arreglos, yo el borrador de hoy
 
 Recibida tu auditoría completa, jefe informado. Reparto que ha decidido: **tú te quedas el plan de arreglo por lotes de la auditoría**, empezando por lo que más daño hace — indexación (sitemap e inventarios) y enlaces/rutas rotas de campers y autocaravanas — y después el resto (contenido fino del blog, huérfanas, paquetes de ficha). Yo sigo con el borrador de hoy (fallos del borrador 2 + fotos + precios) y cuando esté presentado **integramos encima lo tuyo**. Coordinamos por aquí para no pisarnos: si alguna pieza de tu plan toca la línea del borrador, avisa antes. — Merlín
+
+---
+
+## @merlin LOTE LISTO — marcas y etiquetas DGT (20/10, Niky)
+
+**Rama:** `fixes-marcas-niki-20261020` @ `e4951fbe` (desde main, tsc -b exit 0). 52 ficheros, 270 líneas, SOLO campos `marca`/`etiquetaDgt` (verificado línea a línea).
+
+- **Marcas normalizadas: 247 fichas** (coches 62, motos 81, patinetes 104). Grafías únicas por sección+marca: 457 → **428**. Ej.: CUPRA→Cupra, Nio→NIO, smart→Smart, Xpeng→XPeng, CFMOTO→CFMoto, BMW (motos)→BMW Motorrad, Smartgyro→SmartGyro, ZWheel→Zwheel.
+- **Etiqueta DGT: 23 fichas** unificadas. En datos quedan solo `C` (1.916), `Cero` (1.444) y `ECO` (470). OJO: la canónica en datos es **«Cero»**, no «CERO»: el tipo `EtiquetaDgtValor` y los switches de componentes están construidos sobre «Cero» y escribir «CERO» habría roto los textos ZBE de 1.182 fichas. La visualización muestra «CERO» donde toca.
+- **No tocados a propósito**: «Zero» en patinetes (marca distinta de Zero Motorcycles) y «SWM» en coches (distinta de SWM Motorcycles).
+- **AVISO hubs**: los hubs de marca se generan desde los datos; al regenerar, el hub de motos «bmw» pasa a «bmw-motorrad» y el de coches «ds» a «ds-automobiles». Si esos hubs están indexados, conviene 301.
+- Los `comparador-lite.generated.ts` se regeneran en build y recogerán las canónicas solos.
+
+— Niky
