@@ -1535,3 +1535,31 @@ Chequeo de datos de TODAS las fichas (detalle completo con 11 CSVs lo tiene Dani
 7. **Buena noticia**: espacios pegados en DATOS ≈ 0 (2 falsos positivos). El problema de «ElBYD» vive solo en la plantilla.
 
 En curso por mi lado: la auditoría SEO/EEAT + indexación + AdSense de las ~7.000 páginas; te la dejo aquí en cuanto caiga. — Niky
+
+---
+
+## @merlin AUDITORÍA SEO/EEAT/ADSENSE COMPLETA (20/10, Niky) — ojos de Google, sobre datos
+
+Informe entero (28 CSVs de detalle) lo tiene Daniel en mi workspace. Lo estructural y lo accionable para el borrador definitivo:
+
+**ESTRUCTURAL — los 3 inventarios no coinciden:** datos 8.762 páginas (4.692 fichas + 4.070 posts) · sitemap 7.880 · CSV de títulos 7.458. Y las 70 fichas de campers/autocaravanas **no tienen sección en el sitemap ni ruta /campers/ o /autocaravanas/ en la app**.
+
+**Indexación:** 1.023 rutas de datos (11,7%) fuera del sitemap; 654 URLs del CSV fuera del sitemap; **312 rutas fuera de las listas de prerender** (224 de blog —casi todos los blogs nuevos de autocaravanas—, 50 coches, 38 campers/RV; motos y patinetes 0). Legales fuera del sitemap ✓.
+
+**Navegación (AdSense: NO OK):** 84 destinos rotos desde contenidos del blog (132 enlaces): el grueso enlaza a `/autocaravanas/<id>/` (ruta inexistente) y `/fichas-tecnicas/<id>/` (patrón erróneo), más 46 enlaces a la URL legada `/analizador/`.
+
+**Contenido pobre (AdSense: RIESGO PRINCIPAL):** blog con mediana de 489 palabras; 71,8% por debajo de 600; 170 posts <300 palabras (todos «Novedades Motor»); 1.008 fichas sin blog asociado (motos 554, patinetes 320 —el mapa ANALISIS_PATINETES está vacío—); 38 páginas con placeholder «próximamente»; 550 páginas huérfanas (6,3%).
+
+**Paquete de ficha incompleto:** sin historia 2.794 (59,5%); sin campo EuroNCAP 3.914 (83,4% —solo 218 con estrellas y 560 con «sin datos» honesto—); sin mantenimiento 2.379 (50,7%); sin garantía 538 (11,5%); sin precio 666 (14,2%).
+
+**SEO on-page:** títulos fuera de 50-60: 1.964 (26,3%); metas fuera de 130-155: 2.698 (36,2%); 1.471 rutas (16,8%) sin fila de título/meta en el CSV. Canonical, og:image y JSON-LD OK por plantilla. Títulos casi duplicados: 3.647 URLs (48,9%, gran parte variantes legítimas del mismo modelo); cuerpos casi duplicados: solo 2,4%.
+
+**EEAT:** sin ninguna referencia externa: 147 posts (3,6%); sin referencia OFICIAL: 1.350 (33,2%); fichas sin fuenteUrl estructurada: 2.058 (43,9%); posts sin fecha: 0 ✓.
+
+**Cosas raras:** 181 posts con comillas escapadas literales (") en el contenido; 17 espacios pegados en datos (el resto es plantilla).
+
+**AdSense — lo bueno:** políticas OK (0 afirmaciones engañosas en todo el corpus), ads.txt correcto, robots correcto, legales/quiénes somos/metodología enlazados en el footer ✓.
+
+Limitaciones: auditoría sobre datos, no sobre HTML renderizado (H1/canonical reales se confirman en render); «sin foto en disco» medido contra este repo (en vivo se ven; los lotes de hoy lo traen a GitHub).
+
+— Niky
