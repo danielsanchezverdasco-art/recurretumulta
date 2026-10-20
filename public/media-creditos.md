@@ -6059,3 +6059,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/sur-ron-light-bee-x-2025-ficha-tecnica-precio-hunt1.webp | https://voltxge.co.uk/cdn/shop/files/Sur-Ron_Light_Bee_X_2025.jpg?v=1771429655&width=1400 | Voltxge / Sur-Ron | desconocida |
 | /media/sur-ron-light-bee-x-2025-ficha-tecnica-precio-hunt2.webp | https://storage.googleapis.com/mhimg/p/4598/10314598/c30a_l.jpg | MotoHunt / Sur-Ron | desconocida |
 | /media/sur-ron-light-bee-x-2025-ficha-tecnica-precio-hunt3.webp | https://www.coolybikes.com/cdn/shop/files/sur-ron-light-bee-x-2025-5741599.webp?v=1770603714&width=460 | Coolybikes / Sur-Ron | desconocida |
+| /media/honda-hr-v-ehev-2026-precio-ficha-tecnica-hunt1.webp | https://auto-online-magazin.de/wp-content/uploads/2025/03/505243_25YM_HR-V.jpg | Auto Online Magazin | desconocida |
+| /media/honda-hr-v-ehev-2026-precio-ficha-tecnica-hunt2.webp | https://www.actualidadmotor.com/wp-content/uploads/2025/03/Honda-HR-V-eHEV-2025-0.jpg | Actualidad Motor | desconocida |
+| /media/honda-hr-v-ehev-2026-precio-ficha-tecnica-hunt3.webp | https://images.carexpert.com.au/resize/960/-/cms/v1/media/2024-12-2025-honda-hr-v-ehev-lhero-16x9-2.jpg | CarExpert | desconocida |
+| /media/lynk-co-09-mhev-2025-precio-ficha-tecnica-hunt1.webp | https://imagecdn.zigwheels.ae/large/gallery/exterior/137/2282/lynkaco-09-front-medium-view-285243.jpg | ZigWheels UAE | desconocida |
+| /media/lynk-co-09-mhev-2025-precio-ficha-tecnica-hunt2.webp | https://imagecdnsa.zigwheels.ae/large/gallery/exterior/137/2282/lynkaco-09-rear-medium-view-978871.jpg | ZigWheels UAE | desconocida |
+| /media/lynk-co-09-mhev-2025-precio-ficha-tecnica-hunt3.webp | https://images.dailyrevs.com/0000/v3/Lynk%20Co/66e7e819c360e025483c534a/2024-09-sports-edition-lynk-co-b4qee0ch1pzwan58c.jpeg | DailyRevs | desconocida |
+| /media/royal-enfield-bullet-650-2026-ficha-tecnica-precio-hunt1.webp | https://www.nepaldrives.com/uploads/posts/Royal-Enfield-Bullet-650-EICMA-2025-2-1762336863.jpg | Nepal Drives / Royal Enfield (prensa EICMA 2025) | desconocida |
+| /media/royal-enfield-bullet-650-2026-ficha-tecnica-precio-hunt2.webp | https://www.nepaldrives.com/uploads/posts/Royal-Enfield-Bullet-650-EICMA-2025-3-1762336916.jpg | Nepal Drives / Royal Enfield (prensa EICMA 2025) | desconocida |
+| /media/royal-enfield-bullet-650-2026-ficha-tecnica-precio-hunt3.webp | https://www.brm.co.nz/wp-content/uploads/2025/11/20251104024308_1.jpg | BikeReview / BRM (prensa EICMA 2025) | desconocida |
+| /media/sur-ron-ultra-bee-2025-ficha-tecnica-precio-hunt1.webp | https://sur-ronebikes.com/wp-content/uploads/2025/05/Surron-Ultra-Bee-HP-2025.webp | Sur-Ron Ebikes | desconocida |
+| /media/sur-ron-ultra-bee-2025-ficha-tecnica-precio-hunt2.webp | https://extramobility.store/wp-content/uploads/2025/11/2025-surron-ultra-bee-electric-bike.jpg | ExtraMobility | desconocida |
+| /media/sur-ron-ultra-bee-2025-ficha-tecnica-precio-hunt3.webp | https://mxrmotorsports.com.au/cdn/shop/files/Ultra_Bee_action_46.jpg?v=1757380824&width=3840 | MXR Motorsports | desconocida |
