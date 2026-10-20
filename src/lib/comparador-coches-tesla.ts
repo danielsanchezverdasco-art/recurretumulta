@@ -71,20 +71,20 @@ export const COCHES_TESLA: CocheComparador[] = [
       {
         "src": "/media/tesla-model-3-performance-2025-precio-ficha-tecnica-hero.webp",
         "alt": "Tesla Model 3 Performance rojo, vista tres cuartos delantera",
-        "ancho": 1920,
-        "alto": 1280
+        "ancho": 1600,
+        "alto": 1067
       },
       {
         "src": "/media/tesla-model-3-performance-2025-precio-ficha-tecnica-oficial.webp",
-        "alt": "Tesla Model 3 Performance blanco en carretera de montaña",
-        "ancho": 1920,
-        "alto": 1280
+        "alt": "Tesla Model 3 Performance blanco, vista lateral",
+        "ancho": 1600,
+        "alto": 1067
       },
       {
         "src": "/media/tesla-model-3-performance-2025-precio-ficha-tecnica-interior-oficial.webp",
         "alt": "Interior del Tesla Model 3 Performance",
-        "ancho": 1920,
-        "alto": 1280
+        "ancho": 1600,
+        "alto": 1067
       }
     ],
   },

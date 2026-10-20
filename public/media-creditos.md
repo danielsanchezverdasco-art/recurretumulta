@@ -350,3 +350,11 @@ Fotos reales del modelo exacto que ya servía producción desde el archivo local
 | /media/patinetes/niu-kqi1-pro-3.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
 | /media/patinetes/zero-9-1.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
 | /media/patinetes/zero-9-2.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+
+## Tesla Model 3 Performance 2025 — fotos reales (20/10/2026, barrido placeholder)
+La foto anterior se retiró por no ser del modelo (era un Model 3 pre-facelift de aspecto generado); se sustituye por prensa oficial Tesla del Model 3 Performance (Highland), vía la galería oficial de AutoExpress UK (https://www.autoexpress.co.uk/tesla/model-3/362949/new-2024-tesla-model-3-performance-officially-revealed-pictures).
+| Archivo | Origen |
+|---|---|
+| /media/tesla-model-3-performance-2025-precio-ficha-tecnica-hero.webp | Tesla (prensa oficial), vía AutoExpress — official-8, rojo Ultra Red tres cuartos |
+| /media/tesla-model-3-performance-2025-precio-ficha-tecnica-oficial.webp | Tesla (prensa oficial), vía AutoExpress — official-5, blanco lateral |
+| /media/tesla-model-3-performance-2025-precio-ficha-tecnica-interior-oficial.webp | Tesla (prensa oficial), vía AutoExpress — official-2, interior asientos deportivos |
