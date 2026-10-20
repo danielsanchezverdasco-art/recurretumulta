@@ -1313,6 +1313,46 @@ Las 29 unidades se asignaron a los mejores clientes de la marca antes de la pres
 | 2,4 s de 0-100 | 1.771 kg |
 | Presentado en agosto de 2025 | Entregas desde 2026 |
 
+## Fenomeno: la serie limitada que corona la era del Revuelto
+
+Lamborghini reserva sus creaciones más extremas para series limitadísimas que la casa presenta como escaparate de lo que Sant'Agata Bolognese es capaz de hacer, y el **Fenomeno** es la de esta generación: se presentó el **16 de agosto de 2025** y sus **29 unidades** se asignaron a los mejores clientes de la marca antes de la presentación pública, como recoge el análisis original. La gama y el mundo de la casa pueden consultarse en la <a href=https://www.lamborghini.com/>web oficial de Lamborghini</a>. Su base conceptual es la receta del Revuelto llevada al extremo, y su nombre, como el de tantos toros y fenómenos de la casa, ya anuncia que no es un coche de producción normal.
+
+## Técnica: el V12 atmosférico más potente de la casa, electrificado
+
+| Dato | Lamborghini Fenomeno |
+|---|---|
+| Motor | V12 atmosférico de 6,5 litros y 3 motores eléctricos (PHEV) |
+| Potencia del V12 | 835 CV |
+| Potencia combinada | 1.080 CV (725 Nm) |
+| Batería | 7 kWh (unos 20 km eléctricos) |
+| Tracción | Total |
+| 0-100 km/h | 2,4 s |
+| Velocidad máxima | 350 km/h |
+| Peso | 1.771 kg |
+| Unidades | 29 coupés (más 15 roadster) |
+| Precio aproximado | Unos 3 millones de euros |
+| Etiqueta DGT | ECO |
+
+El V12 de **835 CV** es, según el propio post, el atmosférico más potente jamás construido por Lamborghini, y los tres motores eléctricos elevan el conjunto a **1.080 CV**, la cifra más alta de la historia de la marca. La batería de solo **7 kWh** y unos 20 km eléctricos delata la intención: la electrificación aquí no busca eficiencia, busca respuesta instantánea y tracción total. El resultado son **2,4 segundos** de 0 a 100 y 350 km/h, con un peso de 1.771 kg que recuerda el peaje físico de combinar un V12 grande con tres motores eléctricos.
+
+## Uso real: pieza de colección entregada desde 2026
+
+Las entregas arrancan en **2026** y las 29 unidades ya tienen dueño, así que el uso real del Fenomeno será el de los hiperdeportivos de este nivel: colección climatizada, eventos de marca y salidas contadas. También existe versión descapotable, el <a href=/coches/lamborghini-fenomeno-roadster-2026-precio-ficha-tecnica/>Fenomeno Roadster</a>, con 15 unidades adicionales según la FAQ. Nada de esto convierte al coche en una maqueta: mecánicamente es un hiperdeportivo plenamente funcional, pero su escasez y su precio —unos **3 millones de euros** antes de impuestos y opciones— deciden su vida antes de que lo haga su primer propietario.
+
+## Mantenimiento: servicio oficial exclusivo, sin tarifas públicas
+
+Lamborghini no publica tarifas de mantenimiento del Fenomeno que se puedan reproducir con fuente, y no las inventamos: un coche de 29 unidades se mantiene en la red oficial de la marca, con la trazabilidad completa como condición para conservar su valor. En este nivel, lo que el propietario protege no es solo el coche, es su expediente: historial oficial, correspondencia de la unidad con los registros de la casa y conservación de su configuración original de entrega. Cualquier cifra concreta de revisiones sería especulación, y la especulación no tiene sitio en esta ficha.
+
+## Normativa: etiqueta ECO para un híbrido enchufable muy particular
+
+La ficha de este sitio asigna al Fenomeno la **etiqueta ECO de la DGT**, la que corresponde a su condición de híbrido según la clasificación española, pese a que su autonomía eléctrica de unos 20 km queda lejos de los umbrales que en otros segmentos dan acceso al distintivo Cero. Es una buena muestra de que la etiqueta resume una categoría administrativa, no el carácter del coche: nadie compra un Fenomeno por su etiqueta, pero quien lo matricule en España circulará con ese distintivo. El sistema de etiquetas puede consultarse en la <a href=https://www.dgt.es/>web oficial de la DGT</a>.
+
+## ¿Con qué compite un coche de 29 unidades? Veredicto
+
+El Fenomeno no compite en una tabla de rivales: compite en la memoria de la marca, como el Lamborghini más potente de su historia, y frente a los hiperdeportivos de serie limitada de las casas rivales, donde la moneda no es solo la potencia sino la escasez y la asignación. Dentro de su propia casa, su significado es cerrar por arriba la era abierta por el Revuelto con el V12 atmosférico definitivo. Puedes situar la gama de Sant'Agata en el <a href=/comparador-coches/>comparador de coches</a> y buscar monos en nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+**¿Merece la pena?** La pregunta no se le puede hacer al mercado, porque el mercado no puede comprarlo: estaba agotado antes de presentarse. **Para quién sí:** para los 29 clientes elegidos, que poseen el techo histórico de potencia de Lamborghini. **Para quién no:** para cualquier otro, por imposibilidad material: el Fenomeno se contempla, se estudia y se desea desde fuera, que también es parte de su función para la marca.
+
 ## Preguntas frecuentes
 
 ### ¿Cuántos caballos tiene el Fenomeno?
@@ -1335,7 +1375,7 @@ El **16 de agosto de 2025**.
 
 Si te ha llegado una multa con tu Lamborghini, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: cobertura de autocosmos y europacoche.*`
+*Fuentes: cobertura de autocosmos y europacoche., <a href=https://www.lamborghini.com/>Lamborghini (web oficial)</a>*`
   },
   {
     "title": "Fenomeno Roadster: 15 unidades, precio y ficha",

@@ -947,6 +947,43 @@ Neumáticos, frenos y software. La garantía es de <strong>2 años en el vehícu
 
 Sin PVP oficial publicado en España. Sus rivales son el <a href=/motos/super-soco-cpx-ficha-tecnica-precio/>Super Soco CPx</a> (la versión básica), el <a href=/motos/super-soco-cu-mini-2025-ficha-tecnica-precio/>Super Soco CU Mini 2025</a> y los maxi-scooters de 125 cc de gasolina.
 
+## Super Soco y Vmoto: el maxi-scooter eléctrico de la casa
+
+Super Soco es la marca de scooters eléctricos integrada en el grupo **Vmoto**, cuya web oficial —<a href=https://www.vmoto.com>vmoto.com</a>— ya figura entre las fuentes de este análisis. La familia CPx es su propuesta de maxi-scooter urbano, y el **CPx Pro** es su versión de prestaciones completas: donde el CPx básico se conforma con el uso estrictamente urbano, el Pro duplica la fórmula en potencia y batería para convertirse en un equivalente eléctrico real de los scooters de 125 de gasolina, con velocidad de vía rápida y autonomía de jornada completa.
+
+## Técnica: 7 kW, doble batería extraíble y ruedas grandes
+
+| Dato | Super Soco CPx Pro 2025 |
+|---|---|
+| Potencia | 7 kW (9,5 CV) |
+| Velocidad máxima | 115 km/h |
+| Batería | 2 baterías de 60 V, 5,4 kWh en total, extraíbles |
+| Autonomía declarada | 100 km |
+| Tiempo de carga | Unas 7 h en enchufe doméstico |
+| Peso | 143 kg |
+| Ruedas | 16 pulgadas delante y 14 detrás |
+| Carnet | A1 (válido con B con 3 años) |
+
+El salto frente al CPx básico lo cuantifica la FAQ de este post: de **4 a 7 kW**, de 90 a **115 km/h** y doble batería de serie con **5,4 kWh**. Ese conjunto cambia la categoría práctica del scooter: 115 km/h permiten salir a circunvalaciones y vías rápidas cortas con margen, algo vedado a los eléctricos urbanos de 45 o 90 km/h. Las ruedas de **16 pulgadas** delante aportan la estabilidad que el análisis destaca frente a un scooter convencional de rueda pequeña, y el motor en buje trasero libera el chasis para alojar las dos baterías.
+
+## Uso real: el eléctrico para quien no quiere renunciar a la 125
+
+El CPx Pro está pensado para el usuario de maxi-scooter de 125 que da el salto al eléctrico sin aceptar recortes: trayectos urbanos y periurbanos, con autonomía declarada de **100 km** que en uso real será menor, como en todo eléctrico, pero suficiente para varios días de desplazamientos o una jornada completa de reparto urbano. Sus límites también están declarados en el post: con la **segunda batería montada, el hueco bajo el asiento queda muy reducido**, así que el casco integral puede tener que viajar en un baúl trasero. Y la carga, de unas 7 horas, exige enchufe nocturno: las baterías son extraíbles, así que puede hacerse en casa aunque no haya garaje.
+
+## Mantenimiento: neumáticos, frenos y software, con garantía declarada
+
+El mantenimiento que el post original resume en tres palabras —neumáticos, frenos y software— es el propio de un eléctrico sin transmisión por correa de motor central ni aceite de motor que cambiar. La garantía sí está declarada y es un dato de compra importante: **2 años en el vehículo y 3 años en la batería**, con algunos distribuidores hablando de 4 años en baterías del CPx, y conviene confirmar por escrito la cobertura exacta del punto de venta. Lo que no hay son precios públicos de revisiones en España, como reconoce el análisis, y no los inventamos.
+
+## Normativa: A1 o carnet B con tres años, sin etiqueta de coche que valga
+
+El CPx Pro se conduce con el **carnet A1** o con el **carnet B con tres años de antigüedad**, como los scooters de 125 de gasolina con los que compite. Es una motocicleta eléctrica a todos los efectos legales —matriculación, seguro e ITV de motocicleta—, no un vehículo de movilidad personal. El matiz de equipamiento que el comprador debe verificar en el concesionario es el del **ABS**: la FAQ advierte de que depende del mercado, así que la versión europea concreta debe confirmarse antes de firmar, igual que la garantía de batería aplicable.
+
+## Frente al CPx básico y a las 125 de gasolina: veredicto
+
+La comparativa interna manda: el <a href=/motos/super-soco-cpx-ficha-tecnica-precio/>Super Soco CPx</a> básico es suficiente para ciudad pura, y el Pro cobra su sobreprecio en potencia, velocidad y batería. Frente a los maxi-scooters de 125 de gasolina, el CPx Pro gana en coste de energía por kilómetro, suavidad y simplicidad mecánica, y pierde en repostaje instantáneo y en red. Dentro de la propia casa, el <a href=/motos/super-soco-cu-mini-2025-ficha-tecnica-precio/>Super Soco CU Mini</a> cubre el extremo urbano y ligero opuesto. Sin PVP oficial publicado en España, la compra exige confirmar precio y condiciones en el distribuidor. Puedes comparar las opciones en el <a href=/comparador-motos/>comparador de motos</a> y buscar monos en nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+**¿Merece la pena?** **Para quién sí:** para el usuario de 125 que quiere el salto eléctrico completo, con prestaciones de vía rápida y carga doméstica con baterías extraíbles. **Para quién no:** para quien necesite guardar un casco integral bajo el asiento a diario o repostar en dos minutos: la gasolina sigue ganando en eso, y el CPx Pro lo compensa en todo lo demás.
+
 ## Preguntas frecuentes
 
 ### ¿Qué diferencia hay con el CPx normal?
