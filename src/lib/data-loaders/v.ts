@@ -193,6 +193,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "vsett-10-plus-r": () => import("../blog-posts-patinetes-exp-p2.ts"),
     "vsett-10-plus-super": () => import("../blog-posts-patinetes-exp-p2.ts"),
     "vsett-11-plus": () => import("../blog-posts-patinetes-exp-p2.ts"),
+    "vsett-11-plus-super": () => import("../blog-posts-patinetes-exp-p14.ts"),
     "vsett-11-plus-super-72": () => import("../blog-posts-patinetes-exp-p2.ts"),
     "vsett-8-plus": () => import("../blog-posts-patinetes-exp-p2.ts"),
     "vsett-9": () => import("../blog-posts-patinetes-exp-p2.ts"),

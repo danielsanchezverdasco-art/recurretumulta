@@ -80,6 +80,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "gotrax-g2-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "gotrax-g3": () => import("../blog-posts-patinetes-exp-p9.ts"),
     "gotrax-g3-plus": () => import("../blog-posts-patinetes-exp-p5.ts"),
+    "gotrax-g4": () => import("../blog-posts-patinetes-exp-p14.ts"),
     "gotrax-g5": () => import("../blog-posts-patinetes-exp-p9.ts"),
     "gotrax-g6": () => import("../blog-posts-patinetes-exp-p5.ts"),
     "gotrax-gx-zero": () => import("../blog-posts-patinetes-exp-p5.ts"),

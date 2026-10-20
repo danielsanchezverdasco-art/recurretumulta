@@ -31,6 +31,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "caterham-super-seven-600-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp10.ts"),
     "cecotec-bongo-d20-mobile": () => import("../blog-posts-patinetes-exp-p2.ts"),
     "cecotec-bongo-d20-xl-connected": () => import("../blog-posts-patinetes-exp-p2.ts"),
+    "cecotec-bongo-d30": () => import("../blog-posts-patinetes-exp-p14.ts"),
     "cecotec-bongo-d30-xl-connected": () => import("../blog-posts-patinetes-exp-p6.ts"),
     "cecotec-bongo-d40-xl-connected": () => import("../blog-posts-patinetes-exp-p2.ts"),
     "cecotec-bongo-d40-xl-suspension-connected": () => import("../blog-posts-patinetes-exp-p2.ts"),

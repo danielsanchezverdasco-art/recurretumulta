@@ -102,9 +102,11 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "joyor-lr10": () => import("../blog-posts-patinetes-exp-p3.ts"),
     "joyor-lr8": () => import("../blog-posts-patinetes-exp-p3.ts"),
     "joyor-s10-s-z": () => import("../blog-posts-patinetes-exp-p3.ts"),
+    "joyor-s5": () => import("../blog-posts-patinetes-exp-p14.ts"),
     "joyor-s5-pro": () => import("../blog-posts-patinetes-exp-p3.ts"),
     "joyor-s8-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "joyor-t10": () => import("../blog-posts-patinetes-exp-p3.ts"),
+    "joyor-y8s": () => import("../blog-posts-patinetes-exp-p14.ts"),
   },
   coche: {
     "jac-a5-plus-2025-precio-ficha-tecnica": () => import("../comparador-coches-jac.ts"),
