@@ -588,6 +588,12 @@ export const CARAVANAS_FENDT: CocheComparador[] = [
     },
     galeria: [
       {
+        src: "/media/fendt-bianco-selection-515-sg-2026-precio-ficha-tecnica-exterior-oficial.webp",
+        alt: "Fendt Bianco Selection 515 SG, vista exterior tres cuartos trasera (render oficial Fendt)",
+        ancho: 1200,
+        alto: 645,
+      },
+      {
         src: "/media/fendt-bianco-selection-515-sg-2026-precio-ficha-tecnica-oficial-2.webp",
         alt: "Camas individuales de la Fendt Bianco Selection 515 SG, foto oficial",
         ancho: 1200,

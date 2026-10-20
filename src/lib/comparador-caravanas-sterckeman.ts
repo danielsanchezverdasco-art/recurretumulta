@@ -140,10 +140,10 @@ export const CARAVANAS_STERCKEMAN: CocheComparador[] = [
     ],
     opiniones: [],
     galeria: [
-      { src: "/media/sterckeman-easy-460cp-2026-precio-ficha-tecnica-2.webp", alt: "Sterckeman Easy 460CP, dormitorio con cama de 140x195", ancho: 1067, alto: 800 },
-      { src: "/media/sterckeman-easy-460cp-2026-precio-ficha-tecnica.webp", alt: "Sterckeman Easy 460CP, salón y cocina", ancho: 1067, alto: 800 },
+      { src: "/media/sterckeman-easy-460cp-2026-precio-ficha-tecnica-2.webp", alt: "Sterckeman Easy 460CP, salón-comedor", ancho: 1067, alto: 800 },
+      { src: "/media/sterckeman-easy-460cp-2026-precio-ficha-tecnica.webp", alt: "Sterckeman Easy 460CP, vista trasera tres cuartos", ancho: 1067, alto: 800 },
       { src: "/media/sterckeman-easy-460cp-2026-precio-ficha-tecnica-interior.webp", alt: "Baño del Sterckeman Easy 460CP", ancho: 600, alto: 800 },
-      { src: "/media/sterckeman-easy-460cp-2026-precio-ficha-tecnica-3.webp", alt: "Sterckeman Easy 460CP, cocina con nevera", ancho: 600, alto: 800 },
+      { src: "/media/sterckeman-easy-460cp-2026-precio-ficha-tecnica-3.webp", alt: "Sterckeman Easy 460CP, dormitorio con cama de matrimonio", ancho: 600, alto: 800 },
       { src: "/media/fotos-reales/sterckeman-easy-460cp-2026-precio-ficha-tecnica/sterckeman-easy-460cp-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la Easy 460CP, cocina y comedor", ancho: 1920, alto: 1440 },
       { src: "/media/fotos-reales/sterckeman-easy-460cp-2026-precio-ficha-tecnica/sterckeman-easy-460cp-2026-precio-ficha-tecnica-int-2.webp", alt: "Interior de la Easy 460CP, cocina y comedor", ancho: 1280, alto: 960 },
     ],
@@ -290,8 +290,8 @@ export const CARAVANAS_STERCKEMAN: CocheComparador[] = [
     ],
     opiniones: [],
     galeria: [
-      { src: "/media/sterckeman-easy-366pe-2026-precio-ficha-tecnica-2.webp", alt: "Sterckeman Easy 366PE, salón con literas al fondo", ancho: 1200, alto: 800 },
-      { src: "/media/sterckeman-easy-366pe-2026-precio-ficha-tecnica.webp", alt: "Sterckeman Easy 366PE, dormitorio con cama de 140x190", ancho: 1067, alto: 800 },
+      { src: "/media/sterckeman-easy-366pe-2026-precio-ficha-tecnica-2.webp", alt: "Sterckeman Easy 366PE, cocina y literas", ancho: 1200, alto: 800 },
+      { src: "/media/sterckeman-easy-366pe-2026-precio-ficha-tecnica.webp", alt: "Sterckeman Easy 366PE, vista lateral", ancho: 1067, alto: 800 },
       { src: "/media/sterckeman-easy-366pe-2026-precio-ficha-tecnica-interior.webp", alt: "Baño del Sterckeman Easy 366PE", ancho: 600, alto: 800 },
       { src: "/media/sterckeman-easy-366pe-2026-precio-ficha-tecnica-3.webp", alt: "Sterckeman Easy 366PE, detalle de la cocina", ancho: 600, alto: 800 },
       { src: "/media/fotos-reales/sterckeman-easy-366pe-2026-precio-ficha-tecnica/sterckeman-easy-366pe-2026-precio-ficha-tecnica-int-1.webp", alt: "Interior de la Easy 366PE, literas", ancho: 1080, alto: 810 },
@@ -365,6 +365,7 @@ export const CARAVANAS_STERCKEMAN: CocheComparador[] = [
     ],
     opiniones: [],
     galeria: [
+      { src: "/media/sterckeman-sport-edition-496pe-2026-precio-ficha-tecnica-exterior.webp", alt: "Sterckeman Sport Edition 496PE, vista exterior lateral (foto real de distribuidor)", ancho: 1600, alto: 1200 },
       { src: "/media/fotos-reales/sterckeman-sport-edition-496pe-2026-precio-ficha-tecnica/sterckeman-sport-edition-496pe-2026-precio-ficha-tecnica-2.webp", alt: "Sterckeman Sport Edition 496PE, literas traseras", ancho: 1600, alto: 1200 },
       { src: "/media/fotos-reales/sterckeman-sport-edition-496pe-2026-precio-ficha-tecnica/sterckeman-sport-edition-496pe-2026-precio-ficha-tecnica-1.webp", alt: "Sterckeman Sport Edition 496PE, dormitorio delantero", ancho: 1200, alto: 800 },
       { src: "/media/fotos-reales/sterckeman-sport-edition-496pe-2026-precio-ficha-tecnica/sterckeman-sport-edition-496pe-2026-precio-ficha-tecnica-3.webp", alt: "Armario del Sterckeman Sport Edition 496PE", ancho: 1200, alto: 1600 },
