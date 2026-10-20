@@ -15,7 +15,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "450SR S 2025",
     cilindradaCc: null,
     categoria: "Deportiva",
-    precioDesde: 6690,
+    precioDesde: 7390, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: 47,
     autonomiaKm: null,
@@ -28,7 +28,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Basculante monobrazo, único en su segmento: estética de MotoGP por precio de A2",
       "Horquilla invertida regulable y frenos con pinza Brembo de 4 pistones delante",
@@ -78,7 +78,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "450MT 2025",
     cilindradaCc: null,
     categoria: "Trail",
-    precioDesde: 5990,
+    precioDesde: 6495, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: 42,
     autonomiaKm: null,
@@ -91,7 +91,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Diseñada por KISKA (los diseñadores de KTM y Husqvarna): estética dakariana",
       "Solo 175 kg con suspensiones KYB totalmente regulables y 200 mm de recorrido",
