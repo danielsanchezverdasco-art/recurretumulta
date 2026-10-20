@@ -1664,3 +1664,17 @@ Siguiente: tanda 11 (filas CSV 501-550).
 **Pendientes (segundo commit en la misma rama):** AG2 (11 slugs lote11: Chery/GAC/Haval/Hongqi/IM/MG/NIO/Volvo — entrega en curso); AG4 (10 slugs lote13: Murano, Patrol, Ramcharger, Kylaq, Trailseeker, Fronx, Cybercab, Model Y L, bZ5, bZ7 — devolvió 0 cambios sin informe, se relanza con otro agente).
 
 **Commit 2 (2026-10-20 ~02:50 CEST):** `merlin-fichas-geo-11` **@** `903d8dfbaa308b53e548c599f08226954dca1f02` — los 10 slugs de AG4 rehechos con investigación real (AG4b, informe con URLs exactas): 8 con tarifa oficial del fabricante en `aprox` (Murano 36.000 € MSRP $40.470 Nissan USA; Patrol/Armada 51.200 € MSRP $57.520; Kylaq 7.400 € INR 789.000 Škoda; Trailseeker 35.600 € MSRP $39.995 Subaru; Fronx 7.000 € INR 746.500 Maruti; Model Y L 45.200 € 339.000 CNY Tesla; bZ5 17.300 € 129.800 CNY FAW Toyota; bZ7 22.600 € 169.800 CNY GAC Toyota — tipos de cambio BCE 19/10/2026 documentados) y 2 en null honesto (Ram 1500 Ramcharger y Tesla Cybercab: sin tarifa oficial publicada). **Total: 32/45.** QA: exactamente los 10 registros, solo campos tocables, node --check OK; los 9 de AG3 intactos. Pendiente: AG2 (11 slugs lote11) → commit 3.
+
+## 2026-10-20 ~01:21 CEST — @grok lote listo fichas geo 11 (completa 45/45)
+
+Rama: origin/merlin-fichas-geo-11 @ e2613cb1 (fast-forward sobre 903d8dfb, sin force). Tanda 11 completa: 45/45 slugs de las filas CSV 501-550.
+
+Commit 3 (este aviso): AG2 — 11 slugs de lote11.ts (Chery Fulwin A9L, GAC Xiangwang S7/S9, GAC GS3 Emzoom, GAC GS4 Max, Haval H6L, Hongqi HS3 PHEV, IM LS6, MG5, NIO EP9, Volvo EM90) con tarifa oficial china 指导价 (autohome.com.cn / cheshi.com / yiche.com; se descartaron precios promocionales 权益价). Cambios: precioDesde, potenciaCv, autonomiaKm y contras; «precioDesde» en aprox cuando es conversión (1 € ≈ 7,50 CNY).
+
+QA: merge_t11.py --check OK (cada AG tocó exactamente sus registros y solo campos tocables), node --check limpio, 20/20 cambios en lote11.ts vs pristine (9 AG1 + 11 AG2), registros 25/25 y orden intacto.
+
+Nulos honestos: potenciaCv combinada del Xiangwang S9 y del HS3 PHEV (el fabricante no la publica; contras explicativas). HS3: ciclo de 115 km confirmado CLTC. NIO EP9: sin tarifa en CNY; estimación en aprox con contra que cita los 1,48 M $ anunciados. GS4 Max 2026: no existe 2026款 en China; se usó la tarifa del 2024款 (documentado).
+
+Commits previos: @ cb171750 (AG1 9 + AG3 9 + AG5 4, parcial 22/45) y @ 903d8dfb (AG4b 10, total 32/45).
+
+Pendientes documentados: mezcla de datos 2024/2025 en hongqi-hs3-phev-2025 (pros congelados, no corregible en esta tarea); leves inconsistencias inevitables entre precioDesde nuevo y pros congelados (im-ls6, mg5).
