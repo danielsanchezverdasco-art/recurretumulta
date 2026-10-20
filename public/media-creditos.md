@@ -8222,3 +8222,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/honda-cb300r-2025-hunt1.webp | https://ridermagazine.com/wp-content/uploads/2025/01/2024-Honda-CB300R-Review-1.jpg | Rider Magazine (fotos: Jenna Thornton) | desconocida |
 | /media/honda-cb300r-2025-hunt2.webp | https://bikeadvice.in/wp-content/uploads/2022/01/Honda-2022-CB300R-Pearl-Spartan-Red-696x385.jpg | Honda (prensa) vía BikeAdvice | desconocida |
 | /media/honda-cb300r-2025-hunt3.webp | https://ridermagazine.com/wp-content/uploads/2025/01/2024-Honda-CB300R-Review-8.jpg | Rider Magazine (fotos: Jenna Thornton) | desconocida |
+| /media/avatr-11-2024-precio-ficha-tecnica-hunt1.webp | https://images.dailyrevs.com/0000/v3/AVATR/66deddab0303ec2e42fafe74/2024-11-avatr-hd72klllllh0w5yawfnrcym.jpeg | Avatr / DailyRevs | desconocida |
+| /media/avatr-11-2024-precio-ficha-tecnica-hunt2.webp | https://static.avatr.com/pc-website/images/reev11/v1/pc/design-content_02.jpg?v=3 | Avatr (web oficial) | desconocida |
+| /media/avatr-11-2024-precio-ficha-tecnica-hunt3.webp | https://images.dailyrevs.com/0000/v3/AVATR/66deddab0303ec2e42fafe74/2024-11-avatr-hdms67777760smugf4p6kgj.jpeg | Avatr / DailyRevs | desconocida |
+| /media/aito-m8-erev-2025-precio-ficha-tecnica-hunt1.webp | https://www.carscoops.com/wp-content/uploads/2025/03/Aito-M8-8aa-1024x576.jpg | Aito / Carscoops | desconocida |
+| /media/aito-m8-erev-2025-precio-ficha-tecnica-hunt2.webp | https://carnewschina.com/wp-content/uploads/2025/01/3-9.jpg | MIIT / CarNewsChina | desconocida |
+| /media/aito-m8-erev-2025-precio-ficha-tecnica-hunt3.webp | https://wcevcar.com/static/upfiles/202504/6805bdbb4996b.webp | Wancheng EV Car (foto real de exposición) | desconocida |
+| /media/suzuki-gsx-s125-2024-ficha-tecnica-precio-hunt1.webp | https://www.suzukipress.co.uk/wp-content/uploads/2024/09/gsx-s125_black-1-1024x683.jpg | Suzuki Press UK | desconocida |
+| /media/suzuki-gsx-s125-2024-ficha-tecnica-precio-hunt2.webp | https://www.globalsuzuki.com/motorcycle/smgs/products/2024gsx-s125/img/main_ph.jpg | Suzuki Motor Corporation (Global Suzuki oficial) | desconocida |
+| /media/suzuki-gsx-s125-2024-ficha-tecnica-precio-hunt3.webp | https://www.totalmotorcycle.com/wp-content/uploads/2023/10/2024-Suzuki-GSX-S125a-768x496.jpg | Suzuki / Total Motorcycle | desconocida |
+| /media/zontes-125g1-2026-hunt1.webp | https://zontesvalencia.es/backend-images/product/360/xl/fd296e0d3c4932fd26e2bb404f0b629cfc1e18cf892ee7f762639949b11cd097/descarga-36.webp | Zontes Valencia (concesionario oficial Zontes) | desconocida |
+| /media/zontes-125g1-2026-hunt2.webp | https://zontesvalencia.es/backend-images/product/360/xl/2167bb2b9e0bdfe0c66f580c2572ce83a2058b61a002fd2f8c10cc8268c740a4/descarga-29.webp | Zontes Valencia (concesionario oficial Zontes) | desconocida |
+| /media/zontes-125g1-2026-hunt3.webp | https://zontesmotos.es/wp-content/uploads/2026/05/zontes-g1-125-verde-1.jpg | Zontes Motos España (importador oficial) | desconocida |
