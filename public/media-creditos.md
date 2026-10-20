@@ -5738,3 +5738,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/kaiyi-kunlun-2026-precio-ficha-tecnica-hunt1.webp | https://www.auro-automobile.com/wp-content/uploads/2026/02/2-2.jpg | Auro Automobile | desconocida |
 | /media/kaiyi-kunlun-2026-precio-ficha-tecnica-hunt2.webp | https://www.auro-automobile.com/wp-content/uploads/2026/02/4-2-1024x768.jpg | Auro Automobile | desconocida |
 | /media/kaiyi-kunlun-2026-precio-ficha-tecnica-hunt3.webp | https://www.djyxrauto.com/Public/uploads/image/2026-04/20260420105259a849078c56757ea1.jpg | DjyxrAuto | desconocida |
+| /media/bmw-530e-2025-precio-ficha-tecnica-hunt1.webp | https://autolifethailand.tv/wp-content/uploads/2025/03/BMW_530e_Inspiring_001.jpg | Autolifethailand.tv | desconocida |
+| /media/bmw-530e-2025-precio-ficha-tecnica-hunt2.webp | https://autolifethailand.tv/wp-content/uploads/2025/03/BMW_530e_Inspiring_002.jpg | Autolifethailand.tv | desconocida |
+| /media/bmw-530e-2025-precio-ficha-tecnica-hunt3.webp | https://autolifethailand.tv/wp-content/uploads/2025/03/BMW_530e_Inspiring_006.jpg | Autolifethailand.tv | desconocida |
+| /media/cfmoto-700cl-x-sport-2025-ficha-tecnica-precio-hunt1.webp | https://visor.ph/wp-content/uploads/2021/12/700-sport-MAIN2.jpg | Visor.ph / CFMOTO | desconocida |
+| /media/cfmoto-700cl-x-sport-2025-ficha-tecnica-precio-hunt2.webp | https://cfmotobenelux.com/wp-content/uploads/2021/10/700clx-sport-zij.jpg | CFMOTO Benelux | desconocida |
+| /media/cfmoto-700cl-x-sport-2025-ficha-tecnica-precio-hunt3.webp | https://www.webbikeworld.com/wp-content/uploads/2023/02/IMG_1674-scaled.jpg | webBikeWorld | desconocida |
+| /media/cyclone-rc-600-2025-ficha-tecnica-precio-hunt1.webp | https://gentedemoto.com/wp-content/uploads/2024/09/Cyclone-RC-600-2025-3.jpg | Gente de Moto / Cyclone | desconocida |
+| /media/cyclone-rc-600-2025-ficha-tecnica-precio-hunt2.webp | https://gentedemoto.com/wp-content/uploads/2024/09/Cyclone-RC-600-2025-2.jpg | Gente de Moto / Cyclone | desconocida |
+| /media/cyclone-rc-600-2025-ficha-tecnica-precio-hunt3.webp | https://motoringworld.in/wp-content/uploads/2024/10/Cyclone-RC600-e1727253027980-756x510.png | Motoring World / Cyclone | desconocida |
+| /media/soueast-s06-dm-2026-precio-ficha-tecnica-hunt1.webp | https://imagecdn.zigwheels.ae/large/gallery/color/117/1966/soueast-s06-color-612973.jpg | Zigwheels UAE | desconocida |
+| /media/soueast-s06-dm-2026-precio-ficha-tecnica-hunt2.webp | https://jetour.md/wp-content/uploads/2025/11/s06_1-63.png | Jetour Moldavia / Soueast | desconocida |
+| /media/soueast-s06-dm-2026-precio-ficha-tecnica-hunt3.webp | https://jetoursoueastcancun.com/wp-content/uploads/2026/01/Nuevas-fotos-Sitio-Web_25.jpg | Jetour Soueast Cancún | desconocida |
