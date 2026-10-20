@@ -82,7 +82,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 124,
     categoria: "Urbana",
-    precioDesde: 4500,
+    precioDesde: 4195, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 6.91,
     potenciaCv: 9.4,
     autonomiaKm: null,
@@ -95,7 +95,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
     carnet: "A1 (también con carnet B con 3 años de antigüedad)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "El mito desde 1961: nació como moto de un parque de atracciones",
       "Caja de 5 velocidades (la Dax tiene 4): crucero más relajado",
@@ -286,7 +286,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 755,
     categoria: "Trail",
-    precioDesde: 11100,
+    precioDesde: 9990, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 67.5,
     potenciaCv: 91.8,
     autonomiaKm: null,
@@ -299,7 +299,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "2026 estrena suspensiones Showa regulables en precarga, compresión y rebote",
       "E-Clutch disponible como opción: cambios sin maneta también en trail",
@@ -354,7 +354,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 1084,
     categoria: "Turismo",
-    precioDesde: 15275,
+    precioDesde: 15275, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 75,
     potenciaCv: 102,
     autonomiaKm: null,
@@ -367,7 +367,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "velocidadMax"],
+    aprox: ["velocidadMax"],
     pros: [
       "2026: IMU de 6 ejes con ABS en curva, control de tracción y antiwheelie",
       "Bicilíndrico de 1084 cc con 102 CV y 112 Nm: par de sobra a medio régimen",
@@ -760,7 +760,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 250,
     categoria: "Enduro",
-    precioDesde: null,
+    precioDesde: null, // sin tarifa oficial publicada (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -828,7 +828,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 689,
     categoria: "Naked",
-    precioDesde: 7799,
+    precioDesde: 7799, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 54,
     potenciaCv: 73.4,
     autonomiaKm: null,
@@ -841,7 +841,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
     carnet: "A2 (limitable a 35 kW)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "El bicilíndrico CP2 de 689 cc: el motor más divertido del segmento A2",
       "Solo 183 kg: ágil en ciudad y en curvas",
@@ -896,7 +896,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 890,
     categoria: "Sport-turismo",
-    precioDesde: 12799,
+    precioDesde: 12799, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 87.5,
     potenciaCv: 119,
     autonomiaKm: null,
@@ -909,7 +909,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Tricilíndrico CP3 de 119 CV: empuje y sonido en cualquier marcha",
       "Depósito de 19 l con 5 l/100 km: unos 380 km de autonomía",

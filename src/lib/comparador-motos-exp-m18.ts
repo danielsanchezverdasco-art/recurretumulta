@@ -16,7 +16,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 999,
     categoria: "Sport-turismo",
-    precioDesde: 28980,
+    precioDesde: 28980, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 148,
     potenciaCv: 201,
     autonomiaKm: null,
@@ -29,7 +29,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "201 CV (148 kW) a 12.750 rpm: la sport-turismo más potente que ha hecho BMW",
       "223 kg en orden de marcha: ligera para su segmento y potencia",
@@ -71,7 +71,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 999,
     categoria: "Naked",
-    precioDesde: 26950,
+    precioDesde: 26950, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 154,
     potenciaCv: 210,
     autonomiaKm: null,
@@ -84,7 +84,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "210 CV (154 kW) a 13.750 rpm: la naked más potente de BMW Motorrad",
       "199 kg en orden de marcha: relación peso/potencia de superbike",
@@ -126,7 +126,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     version: "2024",
     cilindradaCc: 313,
     categoria: "Naked",
-    precioDesde: 6050,
+    precioDesde: 6075, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 25,
     potenciaCv: 34,
     autonomiaKm: null,
@@ -139,7 +139,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Apta para el carnet A2: la puerta de entrada a BMW Motorrad",
       "34 CV ideales para aprender sin sustos",
@@ -181,7 +181,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 1802,
     categoria: "Custom",
-    precioDesde: 28930,
+    precioDesde: 28930, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 67,
     potenciaCv: 91,
     autonomiaKm: null,
@@ -194,7 +194,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Big Boxer de 1802 cc con 158 Nm a solo 3.000 rpm: empuje de tractor",
       "Estética bagger con maletas rígidas y rueda delantera de 21 pulgadas",

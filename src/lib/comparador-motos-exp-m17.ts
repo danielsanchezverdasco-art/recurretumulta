@@ -180,7 +180,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     version: "2024",
     cilindradaCc: 773,
     categoria: "Retro",
-    precioDesde: 11099,
+    precioDesde: 11099, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 35.3,
     potenciaCv: 48,
     autonomiaKm: null,
@@ -193,7 +193,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Bicilíndrico de 773 cc refrigerado por aire: carácter clásico de verdad",
       "48 CV exactos: apta para el carnet A2 sin limitación",
@@ -456,7 +456,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     version: "RE 2025",
     cilindradaCc: 776,
     categoria: "Trail",
-    precioDesde: 10699,
+    precioDesde: 10699, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 61,
     potenciaCv: 83,
     autonomiaKm: null,
@@ -469,7 +469,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Versión asfáltica de la 800: llanta delantera de 19 pulgadas más ágil en carretera",
       "Bicilíndrico de 776 cc con 83 CV y 78 Nm: suave y con bajos",
@@ -511,7 +511,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 1340,
     categoria: "Deportiva",
-    precioDesde: 19990,
+    precioDesde: 22579, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 140,
     potenciaCv: 190,
     autonomiaKm: null,
@@ -524,7 +524,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "190 CV y 150 Nm con velocidad autolimitada a 299 km/h: la leyenda sigue viva",
       "Homologación Euro5+ desde 2025 sin perder prestaciones",
@@ -536,7 +536,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
       "264 kg en orden de marcha: una sport-touring de peso pesado",
       "Postura exigente para el día a día y la ciudad",
       "Consumo elevado si se le pide lo que promete",
-      "Precio que roza los 20.000 € en la versión estándar",
+      "22.579 € en España con la campaña vigente de Suzuki",
       "La Special Edition (22.590 €) tienta a quien busque exclusividad",
     ],
     curiosidades: [
@@ -622,7 +622,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 399,
     categoria: "Naked",
-    precioDesde: 6399,
+    precioDesde: 6399, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 33,
     potenciaCv: 45,
     autonomiaKm: null,
@@ -635,7 +635,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Nuevo monocilíndrico de 399 cc con 45 CV y 39 Nm: más par y menos traqueteo",
       "Electrónica de moto grande: TFT de 5 pulgadas, launch control y 3 modos",
@@ -677,7 +677,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     version: "R Evo 2025",
     cilindradaCc: 1350,
     categoria: "Naked",
-    precioDesde: 24699,
+    precioDesde: 24699, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 140,
     potenciaCv: 190,
     autonomiaKm: null,
@@ -690,7 +690,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "V2 LC8 de 1.350 cc con 190 CV y 145 Nm: la naked más brutal del mercado",
       "Suspensiones semiactivas WP APEX de 3.ª generación en la versión Evo",

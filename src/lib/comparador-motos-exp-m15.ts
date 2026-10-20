@@ -91,7 +91,7 @@ export const MOTOS_EXP_M15: MotoComparador[] = [
     modelo: "Monster",
     version: "Monster 2026",
     categoria: "Naked",
-    precioDesde: 12990,
+    precioDesde: 13190, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 81.6,
     potenciaCv: 111,
     cilindradaCc: 890,
@@ -105,7 +105,7 @@ export const MOTOS_EXP_M15: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "111 CV del nuevo V2 de 890 cc y 4 kg menos que la generación anterior",
       "Electrónica completa: ABS en curva, DTC, antiwheelie y quickshift bidireccional",
