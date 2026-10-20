@@ -44,6 +44,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "next-mojito-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m2.ts"),
     "next-nx1-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m2.ts"),
     "next-nx2-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m2.ts"),
+    "next-nx2-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t22.ts"),
     "next-nxplus-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m2.ts"),
     "next-nxplus-ls-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m2.ts"),
     "niesmann-bischoff-ismove-69-e-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin4.ts"),
