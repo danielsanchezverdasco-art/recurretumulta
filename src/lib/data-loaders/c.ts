@@ -60,6 +60,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "cfmoto-450mt-2026-precio": () => import("../blog-posts-nuevos-m4.ts"),
     "cfmoto-450nk-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m3.ts"),
     "cfmoto-450nk-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m9.ts"),
+    "cfmoto-450nk-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t20.ts"),
     "cfmoto-450sr-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m3.ts"),
     "cfmoto-450sr-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m23.ts"),
     "cfmoto-450sr-s-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m9.ts"),

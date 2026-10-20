@@ -198,6 +198,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "ktm-rc-125-2025-precio": () => import("../blog-posts-nuevos-m4.ts"),
     "ktm-rc-390-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m2.ts"),
     "ktm-rc-390-2025-precio": () => import("../blog-posts-nuevos-m4.ts"),
+    "ktm-rc-390-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t20.ts"),
     "kugoo-kirin-g2-pro-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "kugoo-kirin-m3": () => import("../blog-posts-patinetes-exp-p9.ts"),
     "kugoo-kirin-s1-pro": () => import("../blog-posts-patinetes-exp-p9.ts"),

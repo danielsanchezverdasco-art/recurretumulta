@@ -267,6 +267,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "suzuki-swace-hybrid-2025-precio-ficha-tecnica": () => import("../blog-posts-suzuki-a.ts"),
     "suzuki-swift-2025-12-83cv-hibrido-precio-ficha-tecnica": () => import("../blog-posts-coches-exp9.ts"),
     "suzuki-swift-sport-2024-precio-ficha-tecnica": () => import("../blog-posts-suzuki-a.ts"),
+    "suzuki-v-strom-1050-de-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t20.ts"),
     "suzuki-v-strom-1050-tech-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m1.ts"),
     "suzuki-v-strom-1050de-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m7.ts"),
     "suzuki-v-strom-250sx-2025-precio": () => import("../blog-posts-nuevos-m4.ts"),

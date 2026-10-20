@@ -175,6 +175,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "bmw-r-12-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m2.ts"),
     "bmw-r-12-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m21.ts"),
     "bmw-r-12-g-s-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m8.ts"),
+    "bmw-r-12-gs-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t20.ts"),
     "bmw-r-12-gs-2026-precio-ficha": () => import("../blog-posts-lote15.ts"),
     "bmw-r-12-ninet-2024-analisis-opinion": () => import("../blog-posts-motos-rescate-m3.ts"),
     "bmw-r-12-ninet-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m21.ts"),
