@@ -34,8 +34,8 @@ export const AUTOCARAVANAS_HOBBY_M1: Autocaravana[] = [
       "/media/hobby-optima-ontour-edition-f-v65-ge-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
       "/media/hobby-optima-ontour-edition-f-v65-ge-2026-precio-ficha-tecnica-oficial-interior2.webp",
-    videoId: null,
-    videoCanal: null,
+    videoId: "iw4XSQFKytI",
+    videoCanal: "Reisemobil International",
     largoMm: 6780, // 6,78 m según fichas de la red oficial (año modelo 2026)
     anchoMm: 2230, // 2,23 m según fichas de la red oficial (año modelo 2026)
     altoMm: 2900, // 2,90 m según fichas de la red oficial (año modelo 2026)
