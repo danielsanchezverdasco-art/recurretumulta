@@ -5016,3 +5016,25 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/zeekr-007-2025-precio-ficha-tecnica-hunt1.webp | https://paultan.org/image/2023/11/Zeekr-007-10-e1700102954853.jpg | Paultan.org | desconocida |
 | /media/zeekr-007-2025-precio-ficha-tecnica-hunt2.webp | https://image.bilnorge.no/4073241.jpg?imageId=4073241&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683 | BilNorge.no | desconocida |
 | /media/zeekr-007-2025-precio-ficha-tecnica-hunt3.webp | https://cdnmain.formacar.com/storage/images_news/00/48/65/24/2S0E0GwOU23S.jpg | Formacar.com | desconocida |
+| /media/aprilia-rs-125-2024-ficha-tecnica-precio-hunt1.webp | https://images5.1000ps.net/images_bikekat/2024/9-Aprilia/10645-RS_125/008-638411759331263577-aprilia-rs-125.jpg | 1000ps.com | desconocida |
+| /media/aprilia-rs-125-2024-ficha-tecnica-precio-hunt2.webp | https://www.motorrad-bilder.at/thumbs/992x558xfarx272a2c00/slideshows/291/023797/04Aprilia_RS-125_Kingsnake-White.jpg | 1000ps.com / motorrad-bilder.at | desconocida |
+| /media/deepal-s07-2025-precio-ficha-tecnica-hunt1.webp | https://images.carexpert.com.au/resize/800/-/cms/v1/media/2025-01-2025-deepal-s07-review-hero-16-10.webp | CarExpert | desconocida |
+| /media/deepal-s07-2025-precio-ficha-tecnica-hunt2.webp | https://editorial.pxcrush.net/carsales/general/editorial/deepal-s07-1-x4ir.jpg | carsales.com.au | desconocida |
+| /media/deepal-s07-2025-precio-ficha-tecnica-hunt3.webp | https://img-ik.cars.co.za/news-site-za/images/2025/10/deepal-s07-orange-2.jpg?tr=w-800 | cars.co.za | desconocida |
+| /media/koenigsegg-gemera-2025-precio-ficha-tecnica-hunt1.webp | https://www.supercars.net/blog/wp-content/uploads/2020/03/Gemera_exterior_22_high-scaled.jpg | supercars.net | desconocida |
+| /media/koenigsegg-gemera-2025-precio-ficha-tecnica-hunt2.webp | https://uncrate.com/p/2020/03/koenigsegg-gemera-4.jpg | uncrate.com | desconocida |
+| /media/koenigsegg-gemera-2025-precio-ficha-tecnica-hunt3.webp | https://traction.gr/wp-content/uploads/2020/03/2020_koenigsegg_gemera-9-1068x601.jpg | traction.gr | desconocida |
+| /media/zeekr-007-gt-2026-precio-ficha-tecnica-hunt1.webp | https://zeekr.com.ua/pages/007gt/aestetic.webp | Zeekr Ucrania (zeekr.com.ua) | desconocida |
+| /media/zeekr-007-gt-2026-precio-ficha-tecnica-hunt2.webp | https://autoblog.md/wp-content/uploads/2025/03/Zeekr-007-GT-new-images_4.jpg | autoblog.md | desconocida |
+| /media/zeekr-007-gt-2026-precio-ficha-tecnica-hunt3.webp | https://mywheels.my/wp-content/uploads/2025/02/20250211_Zeekr_007_GT_03.jpg | mywheels.my | desconocida |
+| /media/deepal-g318-2025-precio-ficha-tecnica-hunt1.webp | https://deepal.ma/_next/image?url=%2Fimages%2Fg318%2Fexterior%2FG318_Grey_EX_Front%20_Right70.jpg&w=1080&q=75 | Deepal (deepal.ma) | desconocida |
+| /media/deepal-g318-2025-precio-ficha-tecnica-hunt2.webp | https://editorial.pxcrush.net/carsales/general/editorial/deepal-g318-06.jpg?width=1024&height=682 | carsales.com.au | desconocida |
+| /media/deepal-g318-2025-precio-ficha-tecnica-hunt3.webp | https://editorial.pxcrush.net/carsales/general/editorial/deepal-g318-02.jpg?width=1024&height=682 | carsales.com.au | desconocida |
+| /media/honda-cbr500r-2024-ficha-tecnica-precio-hunt1.webp | https://rider2stg.wpenginepowered.com/wp-content/uploads/2024/05/2024-Honda-CBR500R-Matte-Black-Metallic-1.jpg | Honda (foto de prensa, vía WomanRider) | desconocida |
+| /media/honda-cbr500r-2024-ficha-tecnica-precio-hunt2.webp | https://www.visordown.com/sites/default/files/24cbr500r.png?width=1600&aspect_ratio=16:9 | Honda (foto de prensa, vía Visordown) | desconocida |
+| /media/pagani-utopia-roadster-2026-precio-ficha-tecnica-hunt1.webp | https://cdn.shopify.com/s/files/1/0693/9957/6767/files/Pagani-Utopia-Roadster-010201-Tre-quarti-posteriore-aperta_1a4734fe-ec47-4523-befc-3df6691ae839.jpg?v=1766515872 | Pagani Automobili (foto de prensa) | desconocida |
+| /media/pagani-utopia-roadster-2026-precio-ficha-tecnica-hunt2.webp | https://cdn.prod.website-files.com/66cdb8150e3729ff5c99c0c8/66fa70e7689716374a58d10d_Pagani-Utopia-Roadster-010101-La-p-2000.jpg | Pagani Automobili (foto de prensa) | desconocida |
+| /media/pagani-utopia-roadster-2026-precio-ficha-tecnica-hunt3.webp | https://cdn.prod.website-files.com/66cdb8150e3729ff5c99c0c8/66fa70e845510ccb4442632c_Pagani-Utopia-Roadster-010503-La.jpg | Pagani Automobili (foto de prensa) | desconocida |
+| /media/zeekr-7x-2025-precio-ficha-tecnica-hunt1.webp | https://zeekr.com.ua/pages/7x/7x-second.webp | Zeekr (foto oficial, vía zeekr.com.ua) | desconocida |
+| /media/zeekr-7x-2025-precio-ficha-tecnica-hunt2.webp | https://media.whichcar.com.au/uploads/2024/11/a01a4f76-2025-zeekr-7x-4-1024x683.jpg | Zeekr (foto de prensa, vía WhichCar) | desconocida |
+| /media/zeekr-7x-2025-precio-ficha-tecnica-hunt3.webp | https://vezess2.p3k.hu/app/uploads/2024/08/zeekr-7x_exterior_17.jpg | Zeekr (foto de prensa, vía Vezess) | desconocida |
