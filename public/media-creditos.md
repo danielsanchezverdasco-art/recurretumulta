@@ -4928,3 +4928,26 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/yangwang-u8-2024-precio-ficha-tecnica-hunt3.webp | https://cyber-motors.com.ua/image/catalog/cars/Yangwang/Yangwang%20U8/Yangwang%20U8-int.jpg | ncars.com.ua / Cyber Motors | desconocida |
 | /media/benelli-tornado-400-2025-ficha-tecnica-precio-hunt1.webp | https://www.motosan.es/wp-content/uploads/2024/11/Benelli-Tornado-400-2025_00001-1024x576-1.jpg | Motosan / Benelli (foto de prensa oficial) | desconocida |
 | /media/benelli-tornado-400-2025-ficha-tecnica-precio-hunt2.webp | https://images5.1000ps.net/images_bikekat/2025/49-Benelli/12834-Tornado_400/002-638720343262874552-benelli-tornado-400.jpg?width=1200&height=675&mode=crop&scale=both&format=webp | 1000PS / Benelli (foto de prensa oficial) | desconocida |
+| /media/ds-4-2025-precio-ficha-tecnica-hunt1.webp | https://motorsactu.com/wp-content/uploads/2025/05/Nouvelle-DS-N4-2025-20261-1500x844.jpg | Motorsactu / DS Automobiles (foto de prensa oficial) | desconocida |
+| /media/ds-4-2025-precio-ficha-tecnica-hunt2.webp | https://images.prismic.io/carwow/aN-XO55xUNkB1cL-_DS_No4_2025_front_quarter.jpg?auto=format&cs=tinysrgb&fit=max&q=60 | Carwow / DS Automobiles (foto de prensa oficial) | desconocida |
+| /media/ds-4-2025-precio-ficha-tecnica-hunt3.webp | https://www.actualidadmotor.com/wp-content/uploads/2025/05/DS-N%C2%B04-interior-0.jpeg | Actualidad Motor / DS Automobiles (foto de prensa oficial) | desconocida |
+| /media/tvr-griffith-2026-precio-ficha-tecnica-hunt1.webp | https://www.carscoops.com/wp-content/uploads/2025/11/TVR_Griffith1-scaled.jpg | Carscoops / TVR (foto de prensa oficial, reveal 2017) | desconocida |
+| /media/tvr-griffith-2026-precio-ficha-tecnica-hunt2.webp | https://www.motortrend.com/uploads/sites/5/2017/09/TVR-griffith-interior-1.jpg?interpolation=lanczos-none | MotorTrend / TVR (foto de prensa oficial) | desconocida |
+| /media/tvr-griffith-2026-precio-ficha-tecnica-hunt3.webp | https://images.pistonheads.com/nimg/36718/TVR_Griffithreveal_01-L.jpg | PistonHeads / TVR (foto de prensa oficial) | desconocida |
+| /media/yangwang-u8l-2025-precio-ficha-tecnica-hunt1.webp | https://www.carscoops.com/wp-content/uploads/webp/2025/07/YangWang-U8-L-2ll-2048x1281.webp | Carscoops / Yangwang (foto de prensa oficial) | desconocida |
+| /media/yangwang-u8l-2025-precio-ficha-tecnica-hunt2.webp | https://images.dailyrevs.com/0000/v3/YangWang/68c502b85966bb840d919be9/2026-u8l-yangwang-648c60wpbwwisyex.jpeg | DailyRevs / Yangwang (foto de prensa oficial) | desconocida |
+| /media/yangwang-u8l-2025-precio-ficha-tecnica-hunt3.webp | https://images.dailyrevs.com/0000/v3/YangWang/68c502b85966bb840d919be9/2026-u8l-yangwang-64ipoassssm06u9hc7adeo7.jpeg | DailyRevs / Yangwang (foto de prensa oficial) | desconocida |
+| /media/ds-7-2025-precio-ficha-tecnica-hunt1.webp | https://st.arenaev.com/specs/ds/ds-n7-main.jpg | ArenaEV | desconocida |
+| /media/ds-7-2025-precio-ficha-tecnica-hunt2.webp | https://st.arenaev.com/specs/ds/ds-n7-front.jpg | ArenaEV | desconocida |
+| /media/ds-7-2025-precio-ficha-tecnica-hunt3.webp | https://www.manify.nl/wp-content/uploads/2026/07/N%E2%94%AC%E2%96%917_CAM034_GREY_CROPPED-1920x960.jpg | Manify.nl | desconocida |
+| /media/rivian-r2-2026-precio-ficha-tecnica-hunt1.webp | https://www.hibridosyelectricos.com/uploads/s1/10/92/61/6/rivian-r2-delantera_5_659x371.jpeg | Híbridos y Eléctricos | desconocida |
+| /media/rivian-r2-2026-precio-ficha-tecnica-hunt2.webp | https://cleantechnica.com/wp-content/uploads/2026/03/New-Rivian-R2.jpg | CleanTechnica | desconocida |
+| /media/rivian-r2-2026-precio-ficha-tecnica-hunt3.webp | https://riviantrackr.com/wp-content/uploads/2026/06/R2-Interior-June-2611-768x512.jpg | RivianTrackr | desconocida |
+| /media/voge-525r-2024-ficha-tecnica-precio-hunt1.webp | https://vogespain.es/wp-content/uploads/voge-525R-galeria-3.jpg | Voge España (importador oficial) | desconocida |
+| /media/voge-525r-2024-ficha-tecnica-precio-hunt2.webp | https://www.motonews.com.ar/wp-content/uploads/2025/04/525r-768x456.jpg | Motonews Argentina | desconocida |
+| /media/yangwang-u9-2024-precio-ficha-tecnica-hunt1.webp | https://images.hgmsites.net/lrg/yangwang-u9_100881034_l.jpg | Motor Authority | desconocida |
+| /media/yangwang-u9-2024-precio-ficha-tecnica-hunt2.webp | https://www.lautomobile.aci.it//app/uploads/2025/07/Yangwang_U9_003_resized-1536x992.jpg | L'Automobile (ACI Italia) | desconocida |
+| /media/yangwang-u9-2024-precio-ficha-tecnica-hunt3.webp | https://www.otomoto.pl:443/news/_next/image?url=https%3A%2F%2Fadmin.otomotonews.pl%2Fwp-content%2Fuploads%2F2025%2F07%2FBYD-Yangwang-U9_01.jpg&w=1920&q=80 | OTOMOTO.pl | desconocida |
+| /media/ds-n8-2025-precio-ficha-tecnica-hunt1.webp | https://api2.zoomit.ir/media/ds-n8-front-675bc24e9c30483beb69e2eb?w=1920&q=75 | DS Automobiles (foto de prensa) | desconocida |
+| /media/ds-n8-2025-precio-ficha-tecnica-hunt2.webp | https://www.actualidadmotor.com/wp-content/uploads/2024/12/ds-n8-3-1024x614.jpg.webp | ActualidadMotor (foto de prensa DS Automobiles) | desconocida |
+| /media/ds-n8-2025-precio-ficha-tecnica-hunt3.webp | https://st.arenaev.com/specs/ds/ds-n08-inter-1.jpg | arenaEV (foto de prensa DS Automobiles) | desconocida |
