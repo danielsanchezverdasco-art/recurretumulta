@@ -7219,3 +7219,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/voge-300rally-2026-ficha-tecnica-precio-hunt1.webp | https://bikeundbusiness.de/fileadmin/user_upload/voge_300-rally_04.jpg | bike & business (foto de prensa Voge) | desconocida |
 | /media/voge-300rally-2026-ficha-tecnica-precio-hunt2.webp | https://gordonsmoto.com/wp-content/uploads/2024/08/300RALLY1-400x284.jpg | Gordons Moto (concesionario Voge) | desconocida |
 | /media/voge-300rally-2026-ficha-tecnica-precio-hunt3.webp | https://www.2wo.gr//cache/com_dpfields/gallery/2/900x600/TestDrives/2025/August/VOGE_300_Rally_2025/VOGE_300_RALLY_2025_2wo-96.jpg | 2wo.gr (test Voge 300 Rally 2025) | desconocida |
+| /media/swm-g03f-2025-precio-ficha-tecnica-hunt1.webp | https://www.swmmotors.es/wp-content/uploads/2024/01/4.jpg | SWM Motors España (Grupo Shineray) | desconocida |
+| /media/swm-g03f-2025-precio-ficha-tecnica-hunt2.webp | https://swm-motors.it/wp-content/uploads/2025/04/G03F_gallery_4.jpg | SWM Motors Italia | desconocida |
+| /media/swm-g03f-2025-precio-ficha-tecnica-hunt3.webp | https://www.swm-motors.it/wp-content/uploads/2025/07/g03f_interni_dashboard.jpg | SWM Motors Italia | desconocida |
+| /media/mg-zs-ev-standard-2024-precio-ficha-tecnica-hunt1.webp | https://cdni.autocarindia.com/ExtraImages/20211008014034_MG_ZS_EV_01.jpg | MG / Autocar India | desconocida |
+| /media/mg-zs-ev-standard-2024-precio-ficha-tecnica-hunt2.webp | https://images.ctfassets.net/uaddx06iwzdz/65F3mdFLjmyMVpfjR8LUdI/846fd57406c37acf83bdd6fed3310c40/mg_zs_ev_794.jpeg | MG / AutoScout24 | desconocida |
+| /media/mg-zs-ev-standard-2024-precio-ficha-tecnica-hunt3.webp | https://images.carexpert.com.au/resize/3000/-/app/uploads/2022/10/29MG-ZS-EV7465.jpg | CarExpert | desconocida |
+| /media/ducati-hypermotard-v2-2026-ficha-tecnica-precio-hunt1.webp | https://www.maxxmoto.be/wp-content/uploads/2025/11/MY26_HYPERMOTARD_V2_STUDIO-_10__UC873973_Low.jpg | Ducati (prensa oficial) / MaxxMoto | desconocida |
+| /media/ducati-hypermotard-v2-2026-ficha-tecnica-precio-hunt2.webp | https://www.maxxmoto.be/wp-content/uploads/2025/11/MY26_HYPERMOTARD_V2_STUDIO-_7__UC873971_Low.jpg | Ducati (prensa oficial) / MaxxMoto | desconocida |
+| /media/ducati-hypermotard-v2-2026-ficha-tecnica-precio-hunt3.webp | https://www.maxxmoto.be/wp-content/uploads/2025/11/MY26_HYPERMOTARD_V2_STUDIO-_12__UC873974_Low.jpg | Ducati (prensa oficial) / MaxxMoto | desconocida |
+| /media/ktm-rc-390-2025-ficha-tecnica-precio-hunt1.webp | https://azwecdnepstoragewebsiteuploads.azureedge.net/PHO_BIKE_DET_MY24-KTM-RC-390-performance_%23SALL_%23AEPI_%23V1.png | KTM (oficial) | desconocida |
+| /media/ktm-rc-390-2025-ficha-tecnica-precio-hunt2.webp | https://images.91wheels.com/news/wp-content/uploads/2024/02/PHO_BIKE_PERS_REVO_MY24-KTM-RC-390-STUDIO-EU-90-FRONT-right_SALL_AEPI_V1.png?width=640&&q=80 | KTM (oficial) / 91Wheels | desconocida |
+| /media/ktm-rc-390-2025-ficha-tecnica-precio-hunt3.webp | https://azwecdnepstoragewebsiteuploads.azureedge.net/PHO_BIKE_90_RE_MY24-KTM-RC-390-STUDIO-BLUE-EU-90-right_%23SALL_%23AEPI_%23V1.png | KTM (oficial) | desconocida |
