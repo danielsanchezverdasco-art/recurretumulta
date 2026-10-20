@@ -36,8 +36,8 @@ export const AUTOCARAVANAS_ITINEO_M1: Autocaravana[] = [
     imagenOficial: "/media/itineo-pf600-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
       "/media/itineo-pf600-2026-precio-ficha-tecnica-oficial-interior.webp",
-    videoId: null,
-    videoCanal: null,
+    videoId: "Y8kIVGFdhnc",
+    videoCanal: "CamperOnLine",
     largoMm: 5990, // página oficial: 5,99 m
     anchoMm: 2320, // página oficial: 2,32 m
     altoMm: 2880, // página oficial: 2,88 m

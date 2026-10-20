@@ -38,8 +38,8 @@ export const AUTOCARAVANAS_KNAUS_M1: Autocaravana[] = [
       "/media/knaus-boxlife-600-mq-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
       "/media/knaus-boxlife-600-mq-2026-precio-ficha-tecnica-oficial-interior.webp",
-    videoId: null,
-    videoCanal: null,
+    videoId: "8MIaKdwxMyk",
+    videoCanal: "CamperOnLine",
     largoMm: 5990, // knaus.com
     anchoMm: 2050, // knaus.com
     altoMm: 2580, // knaus.com
