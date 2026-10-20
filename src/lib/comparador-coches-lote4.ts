@@ -101,7 +101,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
     modelo: "Nevera R",
     tipo: "Eléctrico",
     categoria: "Hiperdeportivo",
-    precioDesde: 2000000,
+    precioDesde: 2300000,
     potenciaCv: 2107,
     autonomiaKm: null,
     maleteroL: null,
@@ -123,7 +123,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
     parNm: 2650,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["precioDesde", "ceroCien"],
+    aprox: ["ceroCien"],
     pros: [
       "2.107 CV: el eléctrico de producción más potente del mundo",
       "0-100 en 1,74 s y 24 récords mundiales de aceleración",
@@ -132,7 +132,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       "Usable a diario pese a su enfoque radical",
     ],
     contras: [
-      "Precio en torno a 2 millones de euros (orientativo)",
+      "Precio base anunciado por Rimac: 2,3 millones de euros (serie limitada a 40 unidades)",
       "2.265 kg: la batería pesa lo suyo",
       "Los superricos prefieren el drama de un V12, según el propio Mate Rimac",
       "Autonomía real muy limitada si se usa su potencia",

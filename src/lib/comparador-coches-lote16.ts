@@ -2081,7 +2081,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
     modelo: "Vantana",
     tipo: "Diésel",
     categoria: "Camper",
-    precioDesde: 55900,
+    precioDesde: null,
     potenciaCv: 140,
     autonomiaKm: null,
     maleteroL: null,
@@ -2098,7 +2098,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       "Distribución K60 con camas gemelas: dormir separado sin transformar el salón",
     ],
     contras: [
-      "Precio orientativo: varía mucho según concesionario y extras",
+      "Sin tarifa oficial pública verificable: Hobby no publica lista de precios para el Vantana 2026 y el PVP lo fija cada concesionario según equipamiento (mercado DE)",
       "Etiqueta C: sin ventajas en ZBE",
       "Baño compacto: justo para uso diario prolongado",
       "Red Hobby en España más pequeña que la de Pössl o Benimar",
@@ -2114,7 +2114,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
     parNm: 340,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precioDesde", "anchoMm", "altoMm", "parNm"],
+    aprox: ["anchoMm", "altoMm", "parNm"],
     imagen: "/media/hobby-vantana-2026-1.webp",
     opiniones: [],
     costeMensual: {
@@ -2187,7 +2187,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
     modelo: "T 447",
     tipo: "Diésel",
     categoria: "Autocaravana",
-    precioDesde: 65900,
+    precioDesde: null,
     potenciaCv: 140,
     autonomiaKm: null,
     maleteroL: null,
@@ -2204,7 +2204,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       "Gran salón delantero en L para comer 5 personas",
     ],
     contras: [
-      "Precio orientativo: el PVP final depende del concesionario",
+      "Sin tarifa oficial verificable para el año modelo 2026 (Carado solo publica la lista vigente: T 447 desde 62.599 € en Alemania, año modelo 2027); el PVP final depende del concesionario",
       "Etiqueta C: sin ventajas en ZBE",
       "7,40 m de largo: solo para conductores con experiencia",
       "Acabados básicos: se nota el ajuste de precio",
@@ -2220,7 +2220,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
     parNm: 350,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precioDesde", "largoMm", "anchoMm", "altoMm", "parNm"],
+    aprox: ["largoMm", "anchoMm", "altoMm", "parNm"],
     imagen: "/media/carado-t-447-2026-1.webp",
     opiniones: [],
     costeMensual: {
