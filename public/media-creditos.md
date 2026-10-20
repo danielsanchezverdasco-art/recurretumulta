@@ -7171,3 +7171,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/honda-nx500-2026-ficha-tecnica-precio-hunt1.webp | https://www.totalmotorcycle.com/wp-content/uploads/2025/11/2026-Honda-NX500e-1536x1181.jpg | Honda (prensa oficial, vía Total Motorcycle) | desconocida |
 | /media/honda-nx500-2026-ficha-tecnica-precio-hunt2.webp | https://www.totalmotorcycle.com/wp-content/uploads/2025/11/2026-Honda-NX500f-1200x817.jpg | Honda (prensa oficial, vía Total Motorcycle) | desconocida |
 | /media/honda-nx500-2026-ficha-tecnica-precio-hunt3.webp | https://motonewsbrasil.com/wp-content/uploads/2025/05/honda-nx-500-2026-vermelha-1000x667.jpg | Honda (prensa oficial, vía MotoNews Brasil) | desconocida |
+| /media/evo-6-2026-precio-ficha-tecnica-hunt1.webp | https://www.auto-evo.com/wp-content/uploads/2026/06/evo6_grey.jpg | Automobili EVO (web oficial auto-evo.com) | desconocida |
+| /media/evo-6-2026-precio-ficha-tecnica-hunt2.webp | https://fercamvirtual.es/wp-content/uploads/2025/04/03-Evo-6.jpg | Fercam Virtual | desconocida |
+| /media/evo-6-2026-precio-ficha-tecnica-hunt3.webp | http://www.auto-evo.com/wp-content/uploads/2024/10/Interni_1920x1080.jpg | Automobili EVO (web oficial auto-evo.com) | desconocida |
+| /media/mg-cyberster-trophy-2025-precio-ficha-tecnica-hunt1.webp | https://www.completecar.ie/img/galleries/13531/mg_cyberster_2024_red_030.jpg | CompleteCar.ie | desconocida |
+| /media/mg-cyberster-trophy-2025-precio-ficha-tecnica-hunt2.webp | https://www.completecar.ie/img/galleries/13531/mg_cyberster_2024_red_038.jpg | CompleteCar.ie | desconocida |
+| /media/mg-cyberster-trophy-2025-precio-ficha-tecnica-hunt3.webp | https://www.completecar.ie/img/galleries/13531/mg_cyberster_2024_red_015.jpg | CompleteCar.ie | desconocida |
+| /media/bmw-k-1600-gt-2025-ficha-tecnica-precio-hunt1.webp | https://www.totalmotorcycle.com/wp-content/uploads/2024/07/2025-BMW-K1600GT2-1200x745.jpg | BMW Motorrad (prensa oficial, vía Total Motorcycle) | desconocida |
+| /media/bmw-k-1600-gt-2025-ficha-tecnica-precio-hunt2.webp | https://www.totalmotorcycle.com/wp-content/uploads/2024/07/2025-BMW-K1600GT1-1200x774.jpg | BMW Motorrad (prensa oficial, vía Total Motorcycle) | desconocida |
+| /media/bmw-k-1600-gt-2025-ficha-tecnica-precio-hunt3.webp | https://www.devittinsurance.com/wp-content/uploads/2025/12/IMG_3680-710x533.jpeg | Devitt Insurance | desconocida |
+| /media/cfmoto-450mt-2026-ficha-tecnica-precio-hunt1.webp | https://www.motorcycles.news/wp-content/uploads/2026/06/cfmoto-450mt-tundra-grey-01-1030x686.jpg | CFMOTO (prensa oficial, vía Motorcycles.News) | desconocida |
+| /media/cfmoto-450mt-2026-ficha-tecnica-precio-hunt2.webp | https://www.brm.co.nz/wp-content/uploads/2026/01/450MT-MY26_Outdoor_2.jpg | CFMOTO / BRM (Bike Rider Magazine NZ) | desconocida |
+| /media/cfmoto-450mt-2026-ficha-tecnica-precio-hunt3.webp | https://www.brm.co.nz/wp-content/uploads/2026/01/6_pc.jpg | CFMOTO / BRM (Bike Rider Magazine NZ) | desconocida |
