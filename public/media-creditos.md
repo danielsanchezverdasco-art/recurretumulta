@@ -6326,3 +6326,12 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/segway-e150s-2025-ficha-tecnica-precio-hunt1.webp | https://s7ap1.scene7.com/is/image/ninebotstage/assets_segway_cdn_com__product_full_E150S-black-and-brown-seat-Side-view-11 | Segway-Ninebot (web oficial) | desconocida |
 | /media/segway-e150s-2025-ficha-tecnica-precio-hunt2.webp | https://s7ap1.scene7.com/is/image/ninebotstage/assets_segway_cdn_com_customproductpages_e150s-block2-hill-14 | Segway-Ninebot (web oficial) | desconocida |
 | /media/segway-e150s-2025-ficha-tecnica-precio-hunt3.webp | https://citytweewielers.nl/wp-content/uploads/2025/09/segway-segway-e150s-elektrische-scooter-3.webp | City Tweewielers (distribuidor) | desconocida |
+| /media/skoda-superb-20-tsi-2026-precio-ficha-tecnica-hunt1.webp | https://www.autonocion.com/wp-content/uploads/2024/07/Skoda-Superb-Berlina-2024-12.jpg | Autonoción | desconocida |
+| /media/skoda-superb-20-tsi-2026-precio-ficha-tecnica-hunt2.webp | https://www.km77.com/media/fotos/skoda_superb_2024_8756_1.jpg | km77.com | desconocida |
+| /media/skoda-superb-20-tsi-2026-precio-ficha-tecnica-hunt3.webp | https://www.km77.com/media/fotos/skoda_superb_2024_8756_2.jpg | km77.com | desconocida |
+| /media/beta-alp-200-2025-ficha-tecnica-precio-hunt1.webp | https://images5.1000ps.net/images_bikekat/2024/57-Beta/1118-Alp_200/002-638412631714763785-beta-alp-200.jpg | 1000PS.net / Beta | desconocida |
+| /media/beta-alp-200-2025-ficha-tecnica-precio-hunt2.webp | https://www.betabikes.de/images/Alp/Alp_2024/Alp%20200-24/ALP%20200%20(24-650)%20(1).jpg | BetaBikes.de | desconocida |
+| /media/beta-alp-200-2025-ficha-tecnica-precio-hunt3.webp | https://www.bikescatalog.com/wp-content/uploads/2022/01/2021-Beta-Alp-200-Dirt-Bike-Front.jpg | BikesCatalog.com | desconocida |
+| /media/velca-tramontana-s-2025-ficha-tecnica-precio-hunt1.webp | https://becomove.com/wp-content/uploads/2024/11/Velca_TramontanaS_lateral_Crayon_nuevo-scaled.webp | Becomove / Velca | desconocida |
+| /media/velca-tramontana-s-2025-ficha-tecnica-precio-hunt2.webp | https://electriccity.es/wp-content/uploads/2023/04/Velca_tramontana_S_front_ritishgreen_1300x.jpg | Electric City / Velca | desconocida |
+| /media/velca-tramontana-s-2025-ficha-tecnica-precio-hunt3.webp | https://motoselectricasvalencia.com/wp-content/uploads/2020/11/Velca_TramontanaS_lateral_Negromate-1024x683.jpg | Motos Electricas Valencia / Velca | desconocida |
