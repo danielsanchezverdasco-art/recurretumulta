@@ -289,3 +289,6 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 - vw-california-ocean-2026-precio-ficha-tecnica-oficial-1.webp: Kit de prensa oficial VW, vía accamper.com.
 - vw-california-ocean-2026-precio-ficha-tecnica-interior-oficial-1.webp: Mismo interior que Coast (fuente: Motoring Research, vanreviewer.co.uk).
 - vw-california-beach-2026-precio-ficha-tecnica-interior-oficial-1.webp: Kit de prensa oficial VW, vía espaciofurgo.com (módulo cocina extraíble Beach).
+
+## Waymo robotaxis Madrid — radar 20/10/2026 (blog)
+- waymo-jaguar-i-pace-madrid-hero.webp: Alamy, vía tribunetimes.co.uk (https://tribunetimes.co.uk/). Foto real de Jaguar I-PACE blanco con Waymo Driver (LiDAR en techo, sensores laterales). Licencia desconocida.

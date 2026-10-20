@@ -6,6 +6,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "walberg-egret-ey-6": () => import("../blog-posts-patinetes-exp-p5.ts"),
     "walberg-egret-gt": () => import("../blog-posts-patinetes-exp-p5.ts"),
     "walberg-egret-pro": () => import("../blog-posts-patinetes-exp-p5.ts"),
+    "waymo-robotaxis-madrid-2027": () => import("../blog-posts-radar-20261020.ts"),
     "weinsberg-carabus-grey-edition-fire-600-mq-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin3.ts"),
     "westfalia-amundsen-2026-analisis-opinion": () => import("../blog-posts-campers-niky.ts"),
     "westfalia-columbus-2026-analisis-opinion": () => import("../blog-posts-campers-niky.ts"),
