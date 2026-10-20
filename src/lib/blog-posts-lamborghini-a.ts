@@ -1156,6 +1156,45 @@ Es el Huracán más singular y uno de los más cotizados de ocasión. Lleva etiq
 | 610 CV con tracción total | Etiqueta C |
 | Diversión fuera del asfalto | Uso off-road real limitado |
 
+## Sterrato: cuando Lamborghini decidió que el asfalto era opcional
+
+El Huracán Sterrato, presentado en **Art Basel Miami el 30 de noviembre de 2022** según la propia marca, es el primer superdeportivo todoterreno con motor V10 y tracción total, en palabras de <a href=https://www.lamborghini.com/en-en/history/huracan-sterrato>la página oficial del Sterrato en Lamborghini.com</a>. La idea venía de un concept de 2019 que parecía un ejercicio de estilo, y acabó en una serie limitada de **1.499 unidades** que cerró la saga del Huracán de combustión pura. Su nombre lo dice en italiano: *sterrato* es el camino de tierra, el firme que ningún Lamborghini de serie había pisado antes.
+
+## Técnica: 44 milímetros que cambian un superdeportivo
+
+| Dato oficial | Huracán Sterrato |
+|---|---|
+| Motor | V10 5.2 atmosférico, 610 CV (449 kW) |
+| Par | 565 Nm |
+| Altura libre | +44 mm frente al Huracán EVO |
+| 0-100 km/h | 3,4 s |
+| Velocidad máxima | 260 km/h (limitada por los neumáticos) |
+| Modos | Strada, Sport y Rally (nuevo, para baja adherencia) |
+| Sistema | LDVI con calibraciones específicas |
+| Consumo WLTP | 14,9 l/100 km |
+| CO2 WLTP | 337 g/km |
+| Precio en España | 299.515 € (según km77) |
+
+La marca detalla en su página oficial las claves: carrocería **44 mm más alta** que la del Huracán EVO para dar recorrido a la suspensión, vías ensanchadas, protección delantera de bajos, estribos y pasos de rueda reforzados, y una versión específica del **LDVI** —el cerebro dinámico del Huracán— con calibraciones de Strada y Sport propias y el nuevo modo **Rally** para superficies de baja adherencia. Los neumáticos todoterreno de tacos son los que fijan el límite de **260 km/h**: todo en este coche es un compromiso deliberado entre el circuito y la pista de tierra, y ese compromiso es exactamente el producto.
+
+## Uso real: diversión fuera del asfalto, teatro dentro de él
+
+El Sterrato no es un todoterreno —la FAQ de este post lo deja claro— y usarlo como un 4x4 sería no entenderlo: es un superdeportivo que puede seguir por una pista de grava, derrapar en tierra y llegar a la Era del evento de coches de campo sin llamar a una grúa. En asfalto conserva el V10 atmosférico de **610 CV** con su banda sonora, y paga el peaje de los neumáticos mixtos en agarre y velocidad punta. Con la producción terminada y **1.499 unidades**, su vida real hoy es la del mercado de ocasión cotizado que ya detecta el post original: se compra como pieza de colección usable, no como transporte.
+
+## Mantenimiento: V10 atmosférico en red oficial
+
+No publicamos costes porque Lamborghini no publica tarifas abiertas, y un **V10 5.2 atmosférico** de serie limitada se mantiene donde debe: en la red oficial de la marca, con el programa de mantenimiento programado de la casa y recambios de tirada corta. Lo verificable es el planteamiento de compra: en un Sterrato de ocasión, el historial oficial completo y el estado de protecciones, bajos y neumáticos específicos —su elemento diferencial— valen más que el kilometraje en la decisión. El consumo oficial de **14,9 l/100 km WLTP** completa el retrato de costes: es un V10, y se disfruta como tal.
+
+## Normativa: etiqueta C y faros que no en todos los mercados son legales
+
+El Sterrato lleva **etiqueta C de la DGT**, como recoge su ficha: 337 g/km de CO2 WLTP lo sitúan en el extremo del arco de emisiones europeo. Un detalle normativo curioso que la propia página oficial de la marca advierte: los **faros delanteros adicionales** del frontal no están homologados para uso en vía pública en todos los mercados, así que su empleo depende de la regulación de cada país. En España, como coche matriculado de serie limitada, su régimen es el de cualquier superdeportivo: ITV periódica y las restricciones de las ZBE propias de su etiqueta.
+
+## Frente al Huracán Tecnica, al STO y al 911 Dakar: veredicto
+
+Dentro de la familia, el <a href=/coches/lamborghini-huracan-tecnica-2024-precio-ficha-tecnica/>Huracán Tecnica</a> es la elección de asfalto y el <a href=/coches/lamborghini-huracan-sto-2024-precio-ficha-tecnica/>Huracán STO</a> la de circuito; el Sterrato no compite con ninguno: compite con la idea de que un superdeportivo solo sirve en carreteras perfectas. Su único rival conceptual fuera de casa es el Porsche 911 Dakar, con la misma filosofía y otra ejecución. Enfréntalos en el <a href=/comparador-coches/>comparador de coches</a> y busca monos en nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+**¿Merece la pena?** **Para quién sí:** para el coleccionista que además quiere usar el coche: 1.499 unidades, el último V10 atmosférico y un concepto sin sucesor. **Para quién no:** para quien busque el Huracán más rápido en circuito o un todoterreno de verdad: el Sterrato es, deliberadamente, ninguna de las dos cosas.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto costaba el Huracán Sterrato?
@@ -1178,7 +1217,7 @@ No: la producción terminó. Solo ocasión.
 
 Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: <a href=https://www.km77.com/coches/lamborghini/huracan/2019/datos?amp=1>precio y ficha en km77</a>.*`
+*Fuentes: <a href=https://www.km77.com/coches/lamborghini/huracan/2019/datos?amp=1>precio y ficha en km77</a>. <a href=https://www.lamborghini.com/en-en/history/huracan-sterrato>Lamborghini (página oficial del Huracán Sterrato)</a>*`
   },
   {
     "title": "Countach LPI 800-4: precio y ficha técnica",

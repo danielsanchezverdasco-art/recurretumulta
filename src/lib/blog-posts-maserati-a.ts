@@ -921,6 +921,48 @@ Es el canto del cisne del V8 Maserati en una berlina. Lleva etiqueta **C** (<a h
 | El canto del cisne del V8 | 2.000 kg en curvas |
 | Limusina y muscle car | Mantenimiento de V8 |
 
+## Quattroporte: la berlina que inventó su especie en 1963
+
+El Quattroporte nació en **1963** combinando un motor V8 con una carrocería elegante para crear, en palabras de la propia Maserati en su <a href=https://www.maserati.com/mt/en/models/quattroporte/quattroporte-trofeo>página oficial del Quattroporte Trofeo</a>, la berlina de lujo más rápida de su época. Seis generaciones después, el **Trofeo** cierra la saga como el Quattroporte más potente de la historia: el V8 más poderoso que ha llevado el modelo, con **580 CV**, modo **Corsa con launch control** y la misión de ser el canto del cisne del ocho cilindros en la berlina del tridente, como ya lo define el post original.
+
+## Técnica oficial: un V8 de 3.799 cc con cifras de superdeportivo
+
+| Dato oficial (Maserati) | Quattroporte Trofeo |
+|---|---|
+| Motor | V8 90°, 3.799 cc |
+| Potencia | 580 CV a 6.750 rpm |
+| Par | 730 Nm entre 2.250 y 5.250 rpm |
+| Cambio | Automático de 8 marchas |
+| Velocidad máxima | 326 km/h |
+| 0-100 km/h | 4,5 s |
+| Longitud | 5.262 mm |
+| Batalla | 3.171 mm |
+| Maletero | 530 litros |
+| Depósito | 80 litros |
+| Frenada 100-0 km/h | 34 m |
+| Consumo combinado (folleto) | 12,8 l/100 km |
+| CO2 | 291 g/km |
+
+Las cifras de la documentación oficial de la marca completan las del post: el Trofeo mide **5.262 mm** con una batalla de **3.171 mm** —arquitectura de limusina, no de berlina deportiva disfrazada—, carga **530 litros** de maletero y un depósito de **80 litros** pensado para grandes viajes. La frenada de **34 metros** desde 100 km/h es el dato que mejor resume su doble naturaleza: dos toneladas que se detienen como un deportivo. El modo **Corsa** afila la respuesta del cambio e intensifica el sonido del V8, y el **launch control** pone orden en los 730 Nm al salir desde parado con tracción trasera.
+
+## Uso real: viajar muy rápido, en silencio el 90 % del tiempo
+
+El Trofeo no es un coche de circuito con cuatro puertas: es una limusina que la mayor parte del tiempo se usará en modo tranquilo, con el V8 murmurando, y solo ocasionalmente desplegará sus **326 km/h** teóricos en una autopista alemana. Las plazas traseras y el maletero de 530 litros son de coche de representación. Sus límites, honestos, están en la tabla de contras de este análisis: producción finalizada, **2.000 kg** que se notan en carreteras viradas, etiqueta C y un mantenimiento de V8 que no admite talleres improvisados. Se compra, cada vez más, como pieza final de una era.
+
+## Mantenimiento: el V8 más caro de mantener es el mal mantenido
+
+No hay tarifas oficiales públicas de Maserati para este modelo y no las inventamos: un V8 biturbo de este nivel se mantiene en la red oficial, con su plan de revisiones y recambios de gama alta, y su documentación oficial de emisiones lo sitúa en **291 g/km de CO2** con un consumo combinado de unos **12,8 l/100 km** según el folleto de la marca, la primera partida de coste de uso que sí puede anticiparse. En el mercado de ocasión —su único mercado ya—, la regla es absoluta: historial oficial completo o no hay compra, porque una sola reparación mayor de un V8 Trofeo mal mantenido puede costar más que la diferencia con una unidad cuidada.
+
+## Normativa: etiqueta C para el último V8 de la casa
+
+El Quattroporte Trofeo lleva **etiqueta C de la DGT**, como recoge su ficha: ni ECO ni Cero para un V8 de gasolina puro. En la práctica, eso significa restricciones crecientes en las zonas de bajas emisiones de las grandes ciudades y el régimen de ITV ordinario de una berlina de su época. Es también una señal de época: la estrategia posterior de Maserati pasa por el eléctrico Folgore, y el Trofeo queda como el último Quattroporte de combustión pura.
+
+## Frente a sus hermanos Trofeo y al Panamera: veredicto
+
+La familia Trofeo comparte el mismo V8 de 580 CV: el Levante Trofeo lo pone en un SUV que acelera en 4,1 s y el Ghibli Trofeo en una berlina más corta que iguala los **326 km/h**, según la propia documentación de la colección Trofeo de Maserati. El Quattroporte es el buque insignia: más batalla, más representación, mismo corazón. Dentro de este sitio puedes contrastarlo con el <a href=/coches/maserati-quattroporte-modena-q4-2024-precio-ficha-tecnica/>Quattroporte Modena Q4</a> y con el <a href=/coches/maserati-quattroporte-gt-2024-precio-ficha-tecnica/>Quattroporte GT</a> en el <a href=/comparador-coches/>comparador de coches</a>, y buscar monos en nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+**¿Merece la pena?** **Para quién sí:** para quien quiera la berlina italiana más rápida jamás construida, con V8, historia desde 1963 y uso real de limusina. **Para quién no:** para quien busque eficiencia, etiqueta ECO o tecnología de última hornada: el Trofeo es el final de una era, y se paga como tal.
+
 ## Preguntas frecuentes
 
 ### ¿Qué motor lleva el Quattroporte Trofeo?
@@ -943,7 +985,7 @@ No: la producción terminó con el fin del V8.
 
 Si te ha llegado una multa con tu Maserati, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: folleto oficial de Maserati.*`
+*Fuentes: folleto oficial de Maserati. <a href=https://www.maserati.com/mt/en/models/quattroporte/quattroporte-trofeo>Maserati (página oficial del Quattroporte Trofeo)</a>*`
   },
   {
     "title": "Maserati MC20: precio, ficha y vídeo",

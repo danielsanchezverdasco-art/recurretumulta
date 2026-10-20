@@ -1836,6 +1836,43 @@ En Australia, Sudáfrica y Latinoamérica el Poer vende miles de unidades roband
 
 <img src=/media/gwm-poer-2025-precio-ficha-tecnica-oficial.webp alt=GWM Poer vista tres cuartos delantera>
 
+## Great Wall y el Poer: el pick-up como producto global
+
+El Poer —Pao en su mercado de origen— es la gran apuesta de **Great Wall Motor** en el segmento que domina medio mundo fuera de Europa: el pick-up mediano de chasis de largueros. La gama global del grupo puede consultarse en su <a href=https://www.gwm.com>web oficial, GWM</a>, la misma fuente que ya cita este análisis. La estrategia es transparente: ofrecer la herramienta de un Toyota Hilux o un Ford Ranger —misma arquitectura, misma capacidad de remolque— con un interior de SUV moderno y un precio entre un **30 y un 40 % inferior** en los mercados donde se vende, como Australia, Sudáfrica o Latinoamérica, según recoge el post original.
+
+## Técnica: por qué un pick-up de verdad sigue siendo de largueros
+
+| Dato | GWM Poer |
+|---|---|
+| Motor | 2.0 turbodiésel |
+| Potencia | 163 CV |
+| Par | 400 Nm |
+| Tracción | 4x4 con reductora y bloqueo de diferencial |
+| Cambio | Manual de 6 / automático de 8 |
+| Remolque | Hasta 3,5 t |
+| Medidas | 5.410 x 1.934 x 1.886 mm |
+| Plazas | 5 |
+
+El chasis de **largueros y travesaños** no es nostalgia: es lo que permite a un pick-up remolcar **3,5 toneladas**, cargar y soportar años de pistas sin que la carrocería sufra. La **reductora** y el bloqueo de diferencial separan a un 4x4 de trabajo de un SUV con estética aventurera: en barro, arena o una rampa con remolque, la reductora multiplica el par a baja velocidad sin castigar el embrague ni el convertidor. Los **400 Nm** del 2.0 diésel llegan donde un pick-up los necesita, abajo, y por eso sus 163 CV rinden en uso real más de lo que sugiere la cifra junto a rivales de gasolina más potentes.
+
+## Uso real: trabajo entre semana, escapada el finde
+
+El Poer está pensado para el usuario que en Australia o Latinoamérica hace con un solo vehículo lo que en España se reparte entre una furgoneta, un familiar y un todoterreno: trabajar, remolcar y viajar. El interior con pantalla táctil, cuero y asistentes que destaca el post original es su argumento frente a los pick-up espartanos tradicionales. Sus límites en clave española son claros: **5,41 metros** no caben en la mayoría de los garajes urbanos, y en Europa el pick-up paga peajes fiscales y de imagen que en otros continentes no existen. Y el límite previo a todos: **GWM no lo comercializa oficialmente en Europa**.
+
+## Mantenimiento: mecánica diésel conocida, red inexistente aquí
+
+Un 2.0 turbodiésel con cambio manual o automático convencional pertenece a la mecánica más conocida por cualquier taller multimarca: aceite, filtros, transmisión 4x4 y frenos dimensionados para remolcar. Lo que no existe es dato oficial aplicable a España, porque el modelo no se vende aquí, y no publicamos intervalos ni costes sin fuente. En los mercados donde el Poer se comercializa, el mantenimiento corresponde a la red de GWM. Para un hipotético importador, la disponibilidad de recambios específicos de carrocería y transmisión sería el coste incierto a presupuestar.
+
+## Normativa: cómo se clasificaría un pick-up así en España
+
+Sin venta oficial europea no hay homologación ni **etiqueta DGT** asignada al Poer. A modo de contexto normativo, los pick-up diésel en España se matriculan habitualmente como vehículos industriales o mixtos según su configuración, con las implicaciones de ITV, velocidad y fiscalidad que eso conlleva, y su etiqueta sería la correspondiente a un diésel moderno. Pero aplicado al Poer concreto todo eso es condicional: hoy es un modelo de otros mercados, y cualquier unidad que llegara tendría que pasar su proceso de homologación individual.
+
+## Frente a Hilux, Ranger y a su hermano Cannon Alpha: veredicto
+
+Los rivales que nombra el post original —**Toyota Hilux y Ford Ranger**— ganan en red mundial, reventa y versiones especiales; el Poer responde con equipamiento y precio en origen. Dentro de la propia casa, el <a href=/coches/gwm-cannon-alpha-2024-precio-ficha-tecnica/>GWM Cannon Alpha</a> representa el escalón mayor y más moderno de la familia pick-up del grupo, mientras la marca sí vende en Europa turismos como el <a href=/coches/gwm-ora-03-2025-precio-ficha-tecnica/>GWM Ora 03</a>. Puedes comparar el segmento en el <a href=/comparador-coches/>comparador de coches</a> y buscar monos en nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+**¿Merece la pena?** **Para quién sí:** en los mercados donde se vende, para quien necesita un pick-up de trabajo y ocio sin pagar la prima de las marcas históricas. **Para quién no:** para el comprador español actual: sin venta oficial de GWM en Europa, es una referencia de lo que China ya ofrece, no una compra posible.
+
 ## Preguntas frecuentes
 
 ### ¿Qué motor tiene el Poer?
@@ -1900,6 +1937,43 @@ Dentro, doble pantalla, asientos deportivos y el espacio habitual del H6, aunque
 El **Haval H6** ha sido durante años el SUV más vendido de China, con millones de unidades. El H6S es su hermano deportivo, para un público más joven. En España ninguno se vende oficialmente, aunque el grupo GWM opera con la marca Ora.
 
 <img src=/media/haval-h6s-2025-precio-ficha-tecnica-oficial.webp alt=Haval H6S vista tres cuartos delantera>
+
+## Haval: la marca SUV de Great Wall y el fenómeno H6
+
+Haval es la marca especializada en SUV del grupo **Great Wall Motor**, y su modelo H6 ha sido durante años el SUV más vendido de China, con millones de unidades, como recuerda el post original. La gama del grupo puede consultarse en su <a href=https://www.gwm.com>web oficial, GWM</a>, ya citada en las fuentes de este análisis. El **H6S** es la declinación deportiva de ese superventas: misma base, carrocería coupé y un público más joven. Entender el H6S exige entender esa lógica de familia: en China, un modelo que vende millones se estira en versiones para cada nicho, y el coupé es la que captura al comprador que quiere el SUV práctico sin parecer el de su padre.
+
+## Técnica: 2.0T de 211 CV o híbrido de 243 CV
+
+| Dato | Haval H6S |
+|---|---|
+| Motores | 2.0T gasolina / 1.5T híbrido |
+| Potencia | 211 CV / 243 CV combinados |
+| Par (2.0T) | 325 Nm |
+| Cambio | DCT de 7 velocidades |
+| Tracción | Delantera |
+| Medidas | 4.714 x 1.940 x 1.729 mm |
+| Plazas | 5 |
+| Carrocería | SUV coupé |
+
+El **DCT de 7 velocidades** —doble embrague— es la elección habitual del grupo para sus gasolina e híbridos: cambios rápidos y un tacto más directo que un convertidor clásico, a cambio de exigir suavidad al conductor en maniobras lentas. La versión **híbrida de 243 CV combinados** es la interesante en clave europea: más potencia que el 2.0T y, en los mercados donde se homologa, etiqueta ECO, según el post original. La contrapartida del formato coupé también está en el análisis: la caída del techo resta algo de altura en las plazas traseras frente al H6 convencional, el precio clásico de la estética SUV coupé.
+
+## Uso real: el SUV familiar que no quiere parecerlo
+
+Con **4,71 metros** y cinco plazas, el H6S cubre el mismo uso que un SUV medio europeo: familia, viajes y diario, con la doble pantalla y los asientos deportivos que cita el post como equipamiento interior. Su hábitat es el mercado chino y otros mercados de exportación del grupo; en España, como el análisis deja claro, **Haval no opera oficialmente**, aunque GWM sí está presente en Europa con otras marcas como Ora. Para un lector español, el H6S sirve para calibrar lo que el mayor fabricante de SUV de China ofrece en su casa por el segmento que aquí dominan los SUV medios coreanos y europeos.
+
+## Mantenimiento: sin venta en España, sin datos aplicables
+
+Al no comercializarse en España, **no hay intervalos ni costes de mantenimiento aplicables** que podamos publicar con fuente. En los mercados donde se vende, el mantenimiento corresponde a la red del grupo GWM, con la mecánica conocida de un gasolina turbo o un híbrido con cambio de doble embrague: aceite, filtros, líquido de transmisión según plan de la marca y frenos. Cualquier cifra en euros para España sería inventada, y en esta casa las cifras sin fuente no se publican.
+
+## Normativa: la etiqueta ECO del híbrido es de sus mercados, no española
+
+El post original precisa que la versión híbrida lleva etiqueta ECO «en los mercados donde se homologa», y ese matiz es el correcto: sin homologación europea no existe etiqueta DGT oficial para el H6S. Si el híbrido se homologara en España con la misma configuración, su arquitectura de híbrido no enchufable encajaría en la categoría de la **etiqueta ECO**, pero hoy eso es un condicional, no un dato. El gasolina 2.0T, por su parte, correspondería a la etiqueta C en ese mismo escenario hipotético.
+
+## Frente al H6, al H6 GT y a los SUV coupé europeos: veredicto
+
+La primera comparación es doméstica: el H6 convencional gana en espacio trasero y el H6S, en imagen; el <a href=/coches/haval-h6-gt-2025-precio-ficha-tecnica/>Haval H6 GT</a> explora una vía deportiva paralela dentro de la misma familia, y el <a href=/coches/gwm-haval-h6-2024-precio-ficha-tecnica/>Haval H6 de GWM</a> muestra la base de la que todo parte. Frente a los SUV coupé que sí se venden en Europa, el H6S compite sobre el papel en potencia —211 y 243 CV son cifras serias— y pierde en lo de siempre: disponibilidad, red y homologación. Puedes seguir la familia en el <a href=/comparador-coches/>comparador de coches</a> y buscar monos en nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+**¿Merece la pena?** **Para quién sí:** en sus mercados, para quien quiere el espacio del superventas H6 con una silueta coupé y la opción híbrida de 243 CV. **Para quién no:** para el comprador español de 2026: sin Haval en España, es una ventana al mercado chino, no una alternativa real en el concesionario.
 
 ## Preguntas frecuentes
 
