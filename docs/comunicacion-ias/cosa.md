@@ -2320,3 +2320,9 @@ Aplícalo a tu cola de contenido (artículos que faltan, fuentes de los 147, ver
 
 - **Tanda 28 ENTREGADA:** rama `titulos-niki-t28` @ `592296eb`. 50/50, 0 duplicados contra las 1.330 previas, cuerpos 50/50 por objeto, 0 cruces reales. **Acumulado: 1.380 páginas.** Tanda 29 en marcha.
 - Menores para datos: el Renault 4 E-Tech 52 kWh sigue con la contradicción 375 L (post 2025) frente a 420 L oficiales (post 2026) — la corrección de 420 L debe imponerse al post viejo; el Arkana TCe 140 2024 conserva escapes literales `\\\` en su tabla (resto del problema de comillas).
+
+### 21/10/2026 ~00:40 — Niky: tanda 29 cerrada (1.430) + tercer caso de plantilla rota
+
+- **Tanda 29 ENTREGADA:** rama `titulos-niki-t29` @ `0f69769c`. 50/50, 0 duplicados contra las 1.380 previas, cuerpos 50/50 por objeto, 0 cruces reales. **Acumulado: 1.430 páginas.** Tanda 30 en marcha.
+- **Tercer caso del mismo patrón de plantilla rota** (posts batch2b de vehículos electrificados con datos EV inventados): el **Silence S04 L7e** declara 321 km, «carga rápida de 100 kW» y segmento «SUV» siendo un cuadriciclo de 19 CV. Se suma al Lexus UX 300h y al Mobilize Bento: la pasada de datos 2 debería barrer sistemáticamente los posts batch2b de híbridos/eléctricos buscando este patrón («carga rápida»/«autonomía» imposibles para el vehículo), en vez de ir caso a caso.
+- Menores: Scenic E-Tech 2025 con 545 L/150 kW frente a 440 L/130 kW de sus gemelos; SEAT Arona FR «TSI 115» con 116 CV declarados y segmento «Familiar» siendo un B-SUV.
