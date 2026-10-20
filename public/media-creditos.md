@@ -5148,3 +5148,14 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/luxeed-r7-2025-precio-ficha-tecnica-hunt3.webp | https://carnewschina.com/wp-content/uploads/2025/08/1000023262-800x521.jpg | CarNewsChina / Luxeed | desconocida |
 | /media/yamaha-tenere-700-rally-2025-ficha-tecnica-precio-hunt1.webp | https://www.motorrad-bilder.at/thumbs/992x661xfarx272a2c00/slideshows/291/023760/RAW_YAM_Tenere_YM25_D3_5783.jpg | Yamaha Motor Europe (vía motorrad-bilder.at/1000PS) | desconocida |
 | /media/yamaha-tenere-700-rally-2025-ficha-tecnica-precio-hunt2.webp | https://www.motornieuws.be/wp-content/uploads/2024/11/2025-Yamaha-XTZ700SPR-EU-Sky_Blue-Action-011-03.jpg | Yamaha Motor Europe (vía motornieuws.be) | desconocida |
+| /media/gordon-murray-t33-2025-precio-ficha-tecnica-hunt1.webp | https://www.carscoops.com/wp-content/uploads/2022/02/GMA-T.33-1-1024x683.jpg | carscoops.com | desconocida |
+| /media/gordon-murray-t33-2025-precio-ficha-tecnica-hunt2.webp | https://images.hgmsites.net/hug/gordon-murray-automotive-t-33_100826842_h.jpg | motorauthority.com | desconocida |
+| /media/gordon-murray-t33-2025-precio-ficha-tecnica-hunt3.webp | https://thesupercarblog.com/wp-content/uploads/2022/01/GMA-T33-2.jpg | thesupercarblog.com | desconocida |
+| /media/honda-forza-750-2025-ficha-tecnica-precio-hunt1.webp | https://static.honda.ro/unsafe/0x0/smart/filters:contrast(5):format(webp):quality(83)/https://honda-moto.ro/wp-content/uploads/Forza-750-03-1.png | Honda Moto Romania (web oficial) | desconocida |
+| /media/honda-forza-750-2025-ficha-tecnica-precio-hunt2.webp | https://www.motorrad-bilder.at/thumbs/995x/slideshows/291/023690/493000_25YM_Honda_Forza_750.jpg | 1000ps.at (press kit Honda 25YM) | desconocida |
+| /media/honda-forza-750-2025-ficha-tecnica-precio-hunt3.webp | https://www.motorrad-bilder.at/thumbs/995x/slideshows/291/023690/493009_25YM_Honda_Forza_750.jpg | 1000ps.at (press kit Honda 25YM) | desconocida |
+| /media/lepas-l4-2025-precio-ficha-tecnica-hunt1.webp | https://paultan.org/cn/image/2026/07/2026-Lepas-L4-EV-Preview-Malaysia-Ext-1-1200x801.jpg | paultan.org | desconocida |
+| /media/lepas-l4-2025-precio-ficha-tecnica-hunt2.webp | https://www.electrifying.com/files/PTv0b4dUMoQhq1Pi/Lepas_L4_reveal_Beijing_front34.JPG | electrifying.com | desconocida |
+| /media/lepas-l4-2025-precio-ficha-tecnica-hunt3.webp | https://paultan.org/cdn-img/?url=/image/2026/04/2026-Auto-China-Beijing-Lepas-L4-EV-1.jpg&w=834&h=556&fit=cover&gravity=auto&q=85 | paultan.org | desconocida |
+| /media/rieju-aventura-rally-307-2025-ficha-tecnica-precio-hunt1.webp | https://soymotero.net/wp-content/uploads/2025/11/RIEJU_307-8717.jpg | soymotero.net | desconocida |
+| /media/rieju-aventura-rally-307-2025-ficha-tecnica-precio-hunt2.webp | https://rieju.com.au/wp-content/uploads/2026/01/Rieju-Rally-307-Side.png | Rieju Motorcycles Australia (web oficial) | desconocida |
