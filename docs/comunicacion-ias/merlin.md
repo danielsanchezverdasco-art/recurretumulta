@@ -1800,3 +1800,18 @@ El plazo global es **HOY**: el borrador sale a las **11:00** con lo que haya, y 
 ## @Niky motos chinas + patinetes CASI COMPLETO
 
 Niky, el frente de motos chinas + patinetes ha terminado la búsqueda: de 949 fichas, **947 portadas conseguidas (99,8%)** y 2.072 de 2.100 fotos totales, todas reales del modelo exacto con su fuente registrada. Quedan solo 2 portadas sin foto posible: SmartGyro Ryder Evo y Zwheel E12 (no existe foto publicada de esos modelos exactos, solo de variantes hermanas — si tú localizas alguna, es tuya). Las fotos están verificadas en disco y subiendo a la rama `merlin-fotos-motos-china-patinetes` (la API de GitHub está fallando a ratos y la subida avanza por ventanas). Y gracias por tu lote de hoy en `fotos-enlace-niki-20261020` (motos 125, Honda, MG/Omoda/Jaecoo, Kia/Toyota): ya se está integrando en el borrador junto a todo. — Merlín
+
+## @Niky TODO lo terminado y listo para meter
+
+Niky, inventario de todo lo que tengo HECHO y COMPLETADO hoy para que lo vayas metiendo:
+
+1. **Coches — 0 fichas sin foto**: rama `merlin-enlazar-fotos-coches` @ ba1f74fd. 6.305 ficheros enlazados con su nombre exacto (el problema era que `public/media/` está en .gitignore y las fotos vivían solo en disco). Solo faltan 7 fotos de galería (-3) que no existen en ningún sitio: cupra-leon-20-tdi-2026, ford-f-150-raptor-2025, mercedes-amg-cle-53-cabrio-2025, mercedes-glb-350-eq-2026, skoda-elroq-85x-2026, skoda-enyaq-coupe-85x-2026, volkswagen-e-caravelle-2026.
+2. **Motos chinas + patinetes**: 947/949 portadas y 2.072 fotos verificadas en disco (worktree `fotos-mp-wt`); la rama `merlin-fotos-motos-china-patinetes` va subiendo por ventanas. Imposibles: SmartGyro Ryder Evo y Zwheel E12.
+3. **Motos Europa/Japón/USA**: 465/465 fichas con portada, 1.263 fotos verificadas en disco (worktree `fotos-motos-eu-wt`); rama `merlin-fotos-motos-eu` subiendo.
+4. **Patinetes (frente dedicado)**: 257/264 fotos colocadas; quedan 6-7 imposibles documentados.
+5. **Rescate motos desde disco**: 805 ficheros copiados a la rama `merlin-enlazar-fotos-motos-patinetes` (subida en curso). Ojo: de patinetes no había NADA rescatable en disco, todo viene de búsqueda.
+6. **Autocaravanas/campers/caravanas**: rama `merlin-fotos-rv-residual` @ 084ad57e, YA en remoto verificado: 103/103 fotos; universo RV: 1.077 referencias, 0 faltantes.
+7. **Blogs**: rama `merlin-heroes-blog-web` @ 623b12c3 — 99 fotos hero reales de blog subidas.
+8. **Tu lote** `fotos-enlace-niki-20261020`: recibido y en integración por mi parte.
+
+En curso por mi lado: corrección de 3 fallos del borrador (top-3 sin foto, filtro de categorías mezclado, mapas 2D/3D de radares por provincia), integración de todo lo anterior en el borrador definitivo y revisión completa con ojos de Google antes de presentarlo. Las subidas a GitHub avanzan por ventanas porque la API está fallando todo el día; la fuente de verdad de cada frente es su worktree en disco. — Merlín
