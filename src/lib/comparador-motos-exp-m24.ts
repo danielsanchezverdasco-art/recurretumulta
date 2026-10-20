@@ -4066,7 +4066,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 660,
     categoria: "Deportiva",
-    precioDesde: 10495,
+    precioDesde: 10395, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 70,
     potenciaCv: 95,
     autonomiaKm: null,
@@ -4079,7 +4079,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Tricilíndrico de 660 cc con 95 CV: la deportiva A2 con más carácter",
       "Limitable a 35 kW: la única deportiva británica para el A2",
@@ -4128,7 +4128,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 398,
     categoria: "Clásica",
-    precioDesde: 5795,
+    precioDesde: 5645, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 29.5,
     potenciaCv: 40,
     autonomiaKm: null,
@@ -4141,7 +4141,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Monocilíndrico de 398 cc con 40 CV: la Triumph más asequible de la historia",
       "Acabados británicos premium en una 400: no parece una moto barata",
@@ -4191,7 +4191,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 648,
     categoria: "Custom",
-    precioDesde: 7890,
+    precioDesde: 7387, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 34.9,
     potenciaCv: 47,
     autonomiaKm: null,
@@ -4204,7 +4204,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Bicilíndrico de 648 cc con 47 CV: la custom A2 con más carácter",
       "Estética bobber de fábrica: guardabarros recortados y manillar plano",
@@ -4253,7 +4253,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 349,
     categoria: "Clásica",
-    precioDesde: 4390,
+    precioDesde: 4187, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 15,
     potenciaCv: 20.2,
     autonomiaKm: null,
@@ -4266,7 +4266,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Monocilíndrico de 349 cc con 20 CV: la Royal más ágil y urbana",
       "177 kg y asiento a 800 mm: manejable para todos",
@@ -4440,7 +4440,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 125,
     categoria: "Scooter",
-    precioDesde: 2745,
+    precioDesde: null, // la versión descrita (10,6 CV, frenada combinada sin ABS) está descatalogada; Peugeot no publica tarifa oficial para ella (verificado 20/10/2026)
     potenciaKw: 7.8,
     potenciaCv: 10.6,
     autonomiaKm: null,
@@ -4453,7 +4453,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Estilo neo-retro de los 50: el scooter con más encanto del segmento",
       "137 kg: ligero y fácil de manejar en ciudad",
@@ -4462,6 +4462,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "Múltiples versiones y colores: Bright, Dark, TT, Shadow",
     ],
     contras: [
+      "Sin precio oficial: esta versión del Django 125 ya no se comercializa en España",
       "10,6 CV: el menos potente de los 125",
       "Velocidad máxima de 90 km/h: solo para ciudad",
       "Refrigeración por aire: calienta en verano",
@@ -4564,7 +4565,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 125,
     categoria: "Naked",
-    precioDesde: 3995,
+    precioDesde: 3995, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 10.2,
     potenciaCv: 14,
     autonomiaKm: null,
@@ -4577,7 +4578,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "La primera naked de Peugeot en décadas: 14 CV con estilo felino",
       "Horquilla invertida de 41 mm y ABS de doble canal",
@@ -4751,7 +4752,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 321,
     categoria: "Scooter",
-    precioDesde: 5799,
+    precioDesde: 5699, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 21.2,
     potenciaCv: 28.8,
     autonomiaKm: null,
@@ -4764,7 +4765,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Scooter adventure de 321 cc con 28,8 CV: el rival del ADV350",
       "Estética campera con protecciones y manillar ancho",
@@ -4813,7 +4814,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 321,
     categoria: "Scooter",
-    precioDesde: 5799,
+    precioDesde: 4750, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 21.2,
     potenciaCv: 28.8,
     autonomiaKm: null,
@@ -4826,7 +4827,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "GT de 321 cc con 28,8 CV: comodidad de gran turismo en formato medio",
       "Pantalla flotante a color y conectividad",
@@ -4876,7 +4877,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 508,
     categoria: "Scooter",
-    precioDesde: 8999,
+    precioDesde: 8999, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 33.1,
     potenciaCv: 45,
     autonomiaKm: null,
@@ -4889,7 +4890,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Bicilíndrico de 508 cc con 45 CV: el maxiscooter bicilíndrico más asequible",
       "Chasis multitubular y basculante de aluminio: parte ciclo de moto",

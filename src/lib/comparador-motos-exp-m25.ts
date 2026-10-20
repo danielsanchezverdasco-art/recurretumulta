@@ -88,7 +88,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2026",
     cilindradaCc: null,
     categoria: "Deportiva",
-    precioDesde: 6690,
+    precioDesde: 7390, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: 47,
     autonomiaKm: null,
@@ -101,7 +101,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "costeAnualAproxEur"],
+    aprox: ["costeAnualAproxEur"],
     pros: [
       "Basculante monobrazo, único en su segmento: estética de MotoGP por precio de A2",
       "Horquilla invertida regulable y frenos con pinza Brembo de 4 pistones delante",
@@ -794,7 +794,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 494,
     categoria: "Naked",
-    precioDesde: 6317,
+    precioDesde: 6289, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 35.3,
     potenciaCv: 48,
     autonomiaKm: null,
@@ -807,7 +807,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "costeAnualAproxEur"],
+    aprox: ["costeAnualAproxEur"],
     pros: [
       "47,6 CV al límite del A2",
       "Llantas de radios mixtas",
@@ -946,7 +946,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 895,
     categoria: "Trail",
-    precioDesde: 9189,
+    precioDesde: 9192, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 70,
     potenciaCv: 95,
     autonomiaKm: null,
@@ -959,7 +959,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "costeAnualAproxEur"],
+    aprox: ["costeAnualAproxEur"],
     pros: [
       "Motor de 895 cc con 95 CV de origen BMW: empuje de trail grande",
       "IMU de 6 ejes Bosch: ABS y tracción en curva",
@@ -1024,7 +1024,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 494,
     categoria: "Trail",
-    precioDesde: 6787,
+    precioDesde: 5392, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 35,
     potenciaCv: 47.6,
     autonomiaKm: null,
@@ -1037,7 +1037,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "costeAnualAproxEur"],
+    aprox: ["costeAnualAproxEur"],
     pros: [
       "47,6 CV clavados en el límite del A2, con motor de 494 cc",
       "Horquilla KYB regulable y llantas de radios con neumáticos Metzeler",
@@ -1412,7 +1412,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 502,
     categoria: "Trail",
-    precioDesde: 6400,
+    precioDesde: 5990, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 35,
     potenciaCv: 47.6,
     autonomiaKm: null,
@@ -1425,7 +1425,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "velocidadMax", "costeAnualAproxEur"],
+    aprox: ["velocidadMax", "costeAnualAproxEur"],
     pros: [
       "Bicilíndrico de 499,6 cc y 47,6 CV: el tope del A2",
       "Depósito de 20 L: autonomía de gran rutera",
@@ -1492,7 +1492,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 502,
     categoria: "Trail",
-    precioDesde: 6290,
+    precioDesde: null, // la versión X ya no se comercializa en España y Benelli no publica tarifa oficial vigente para ella (verificado 20/10/2026)
     potenciaKw: 35,
     potenciaCv: 47.6,
     autonomiaKm: null,
@@ -1505,7 +1505,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "velocidadMax", "costeAnualAproxEur"],
+    aprox: ["velocidadMax", "costeAnualAproxEur"],
     pros: [
       "Versión X con rueda de 19 pulgadas y llantas de radios: más adventure",
       "Escape elevado y caballete central de serie",
@@ -1515,6 +1515,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       "Buena protección aerodinámica",
     ],
     contras: [
+      "Sin precio oficial vigente: la TRK 502 X ya no se vende en España",
       "235 kg: pesadísima para hacer campo de verdad",
       "Las suspensiones tienen más recorrido pero siguen siendo básicas",
       "47,6 CV justos para su peso en autopista",
@@ -2931,7 +2932,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 530,
     categoria: "Trail",
-    precioDesde: 6595,
+    precioDesde: 6195, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 34.6,
     potenciaCv: 47,
     autonomiaKm: null,
@@ -2944,7 +2945,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "costeAnualAproxEur"],
+    aprox: ["costeAnualAproxEur"],
     pros: [
       "Trail A2 con estética scrambler muy conseguida",
       "Motor de 530 cc con 47 CV: lleno y sin necesidad de limitar",
@@ -3089,7 +3090,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 398,
     categoria: "Naked",
-    precioDesde: 4490,
+    precioDesde: 4490, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 31.5,
     potenciaCv: 42.8,
     autonomiaKm: null,
@@ -3102,7 +3103,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "costeAnualAproxEur"],
+    aprox: ["costeAnualAproxEur"],
     pros: [
       "Bicilíndrico de 401 cc y 42,8 CV: naked neo-retro A2",
       "Doble disco delantero de 300 mm con pinzas radiales",
@@ -3252,7 +3253,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2026",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: 4490,
+    precioDesde: 4700, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 4.2,
     potenciaCv: 5.7,
     autonomiaKm: 90,
@@ -3265,7 +3266,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: "Batería extraíble Samsung de 72 V; 4 h por batería; segunda batería opcional (200 km)",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "costeAnualAproxEur"],
+    aprox: ["costeAnualAproxEur"],
     pros: [
       "95 km/h de punta con motor de 4,2 kW continuos (6,7 kW de pico)",
       "Segunda batería opcional que eleva la autonomía hasta 200 km",
@@ -3274,7 +3275,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       "Batería Samsung extraíble con 4 h de carga",
     ],
     contras: [
-      "4.490 € y la segunda batería dispara el precio",
+      "4.700 € y la segunda batería dispara el precio",
       "90 km con una batería: hay que planificar si no se compra la segunda",
       "El tacto del acelerador es brusco en modo Sport",
       "Sin ABS: frenada combinada CBS",
@@ -3493,7 +3494,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2026",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: 4799,
+    precioDesde: 4799, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 10,
     potenciaCv: 13.6,
     autonomiaKm: 130,
@@ -3506,7 +3507,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carnet: "A1 (B con 3 años)",
     carga: null,
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "potenciaKw", "potenciaCv", "autonomiaKm", "bateriaKwh", "costeAnualAproxEur"],
+    aprox: ["potenciaKw", "potenciaCv", "autonomiaKm", "bateriaKwh", "costeAnualAproxEur"],
     pros: [
       "130 km de autonomía declarada: de las mejores de su clase",
       "105 km/h de velocidad máxima",
@@ -3571,7 +3572,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2026",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: 12260,
+    precioDesde: 12260, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 31,
     potenciaCv: 42,
     autonomiaKm: 130,
@@ -3584,7 +3585,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carnet: "A2 (versión de 11 kW para A1 o carnet B)",
     carga: null,
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "costeAnualAproxEur"],
+    aprox: ["costeAnualAproxEur"],
     pros: [
       "42 CV y 2,6 s de 0 a 50: el scooter eléctrico más rápido del segmento",
       "130 km de autonomía real: de sobra para el día a día",
@@ -3649,7 +3650,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2025",
     cilindradaCc: null,
     categoria: "Urbana",
-    precioDesde: 8400,
+    precioDesde: 8425, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 11,
     potenciaCv: 15,
     autonomiaKm: 95,
@@ -3662,9 +3663,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carnet: "A1",
     carga: "Baterías extraíbles · 900 W de serie (1.500 W opcional) · 100 min del 20 al 80 % con cargador rápido",
     etiquetaDgt: "Cero",
-    aprox: [
-      "precioDesde",
-    ],
+    aprox: [],
     pros: [
       "Aceleración fulgurante en ciudad: 0-50 km/h en 3,0 s con 55 Nm instantáneos",
       "Muy ligera y manejable: 132 kg y asiento a 750 mm, control total para cualquier talla",
@@ -3674,7 +3673,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       "Entrega de potencia muy bien dosificada, sin brusquedades (motorpasionmoto)",
     ],
     contras: [
-      "Precio elevado para sus prestaciones (versión 11 kW desde ~8.400€)",
+      "Precio elevado para sus prestaciones (versión 11 kW desde 8.425 €)",
       "Sin hueco bajo el asiento: capacidad de carga nula de serie",
       "ABS solo en la rueda delantera",
       "Autonomía limitada: 95 km WMTC, y el modo Flash la devora",
@@ -3808,7 +3807,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2026",
     cilindradaCc: null,
     categoria: "Trail",
-    precioDesde: null,
+    precioDesde: null, // Zero ya no comercializa la FX en Europa (sustituida por las XB y XE); sin tarifa oficial en España (verificado 20/10/2026)
     potenciaKw: 32,
     potenciaCv: 44,
     autonomiaKm: 161,
@@ -4046,7 +4045,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2026",
     cilindradaCc: null,
     categoria: "Naked",
-    precioDesde: null,
+    precioDesde: 4849, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 3.9,
     potenciaCv: 5.3,
     autonomiaKm: 110,
@@ -4208,7 +4207,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 125,
     categoria: "Naked",
-    precioDesde: 4449,
+    precioDesde: 3999, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 10.4,
     potenciaCv: 14.2,
     autonomiaKm: null,
@@ -4221,7 +4220,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "velocidadMax", "costeAnualAproxEur"],
+    aprox: ["velocidadMax", "costeAnualAproxEur"],
     pros: [
       "Naked retro con 14,2 CV: de las 125 más potentes",
       "133 kg: muy ligera",
@@ -4231,7 +4230,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       "Versión ABS por 4.449 €",
     ],
     contras: [
-      "4.449 €: cara para una 125",
+      "3.999 €: cara para una 125",
       "El asiento a 795 mm es alto para algunos",
       "El pasajero va justo",
       "La marca es minoritaria en España",
@@ -4288,7 +4287,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 125,
     categoria: "Naked",
-    precioDesde: 3795,
+    precioDesde: 3795, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 10,
     potenciaCv: 13.6,
     autonomiaKm: null,
@@ -4301,7 +4300,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "costeAnualAproxEur"],
+    aprox: ["costeAnualAproxEur"],
     pros: [
       "Flat track 125 con estética de competición",
       "TFT personalizable de serie",
@@ -4447,7 +4446,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2026",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: 3799,
+    precioDesde: 3799, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 6.4,
     potenciaCv: 8.7,
     autonomiaKm: 100,
@@ -4460,7 +4459,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: "Dos baterías extraíbles de 72 V y 28 Ah; carga completa en 3-6 h en enchufe doméstico",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "autonomiaKm", "costeAnualAproxEur"],
+    aprox: ["autonomiaKm", "costeAnualAproxEur"],
     pros: [
       "Motor de 6,4 kW y 95 km/h: prestaciones de 125 por 3.799 €",
       "Dos baterías extraíbles de 72 V: se cargan en casa o en la oficina sin instalación",
@@ -4607,7 +4606,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2026",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: null,
+    precioDesde: null, // venta directa a flotas bajo presupuesto; Silence no publica tarifa oficial (verificado 20/10/2026)
     potenciaKw: 8,
     potenciaCv: 11,
     autonomiaKm: 88,
@@ -4850,7 +4849,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 292,
     categoria: "Deportiva",
-    precioDesde: null,
+    precioDesde: null, // descatalogada en España; CFMoto no publica tarifa oficial del modelo (verificado 20/10/2026)
     potenciaKw: 21.4,
     potenciaCv: 29,
     autonomiaKm: null,
@@ -4872,6 +4871,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       "Motor de 292 cc con 29 CV: exprime el A2 sin necesidad de limitar",
     ],
     contras: [
+      "Sin precio oficial: la 300SR ya no se comercializa en España",
       "Postura deportiva exigente para el día a día en ciudad",
       "165 kg en vacío: no es la más ligera de su segmento",
       "Plaza del pasajero testimonial, como en toda deportiva",
@@ -4928,7 +4928,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 125,
     categoria: "Naked",
-    precioDesde: 3487,
+    precioDesde: 3487, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 10.8,
     potenciaCv: 14.7,
     autonomiaKm: null,
@@ -4941,7 +4941,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "costeAnualAproxEur"],
+    aprox: ["costeAnualAproxEur"],
     pros: [
       "Scrambler 125 con 14,7 CV: de las más potentes del A1",
       "Depósito de 20 litros: autonomía de más de 500 km",
@@ -5006,7 +5006,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 554,
     categoria: "Custom",
-    precioDesde: 6499,
+    precioDesde: 6499, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 35,
     potenciaCv: 47,
     autonomiaKm: null,
@@ -5019,7 +5019,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg", "costeAnualAproxEur"],
+    aprox: ["pesoKg", "costeAnualAproxEur"],
     pros: [
       "Custom A2 con bicilíndrico de 554 cc y 47 CV, justo al límite",
       "Transmisión final por correa: silenciosa y sin mantenimiento de cadena",
@@ -5084,7 +5084,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 500,
     categoria: "Naked",
-    precioDesde: 5490,
+    precioDesde: 6490, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 35,
     potenciaCv: 48,
     autonomiaKm: null,
@@ -5097,7 +5097,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "costeAnualAproxEur"],
+    aprox: ["costeAnualAproxEur"],
     pros: [
       "Bicilíndrico de 500 cc con 48 CV: el A2 en estado puro",
       "Estética scrambler italiana con faro redondo LED",
@@ -5162,7 +5162,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 125,
     categoria: "Scooter",
-    precioDesde: 2190,
+    precioDesde: 2190, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 7.4,
     potenciaCv: 10,
     autonomiaKm: null,
@@ -5175,7 +5175,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "costeAnualAproxEur"],
+    aprox: ["costeAnualAproxEur"],
     pros: [
       "Scooter GT compacto por 2.190 €: de los más baratos con ABS",
       "Diseño moderno con faros LED integrados en el carenado",
@@ -5240,7 +5240,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 125,
     categoria: "Scooter",
-    precioDesde: 2390,
+    precioDesde: 2390, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 7.4,
     potenciaCv: 10,
     autonomiaKm: null,
@@ -5253,7 +5253,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "costeAnualAproxEur"],
+    aprox: ["costeAnualAproxEur"],
     pros: [
       "Estética retro sesentera que enamora, por 2.390 €",
       "Ligero: 127 kg, ágil entre el tráfico",
@@ -5318,7 +5318,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 125,
     categoria: "Scooter",
-    precioDesde: 3695,
+    precioDesde: 3695, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 8.1,
     potenciaCv: 11,
     autonomiaKm: null,
@@ -5331,7 +5331,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "costeAnualAproxEur"],
+    aprox: ["costeAnualAproxEur"],
     pros: [
       "Maxiscooter GT por 3.695 €, muy por debajo de los japoneses",
       "Depósito de 12 litros y parabrisas alto: pensado para viajar",
@@ -5396,7 +5396,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 125,
     categoria: "Scooter",
-    precioDesde: 2990,
+    precioDesde: 2990, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 8.2,
     potenciaCv: 11,
     autonomiaKm: null,
@@ -5409,7 +5409,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "costeAnualAproxEur"],
+    aprox: ["costeAnualAproxEur"],
     pros: [
       "Scooter compacto de rueda alta por 2.990 €",
       "11 CV con refrigeración líquida: de los más vivos del segmento",
@@ -5474,7 +5474,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2025",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: 6250,
+    precioDesde: 6250, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 7,
     potenciaCv: 9.5,
     autonomiaKm: 137,
@@ -5487,7 +5487,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: "Batería extraíble tipo trolley; carga completa en 6-8 h en enchufe doméstico",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "costeAnualAproxEur"],
+    aprox: ["costeAnualAproxEur"],
     pros: [
       "137 km de autonomía declarada: de las mejores del segmento",
       "Batería extraíble con ruedas tipo trolley: carga en cualquier enchufe",
@@ -5552,7 +5552,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2025",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: null,
+    precioDesde: null, // Silence no publica tarifa oficial de venta al público para la S02 HS (verificado 20/10/2026)
     potenciaKw: 9,
     potenciaCv: 12,
     autonomiaKm: 120,
@@ -5574,6 +5574,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       "Silenciosa, sin vibraciones y con etiqueta CERO",
     ],
     contras: [
+      "Sin precio oficial publicado por Silence para la S02 HS",
       "146 kg: pesada para mover en parado",
       "Precio superior al S02 estándar por la misma base",
       "Diseño de flota: menos aspiracional que la competencia",
@@ -5630,7 +5631,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2025",
     cilindradaCc: null,
     categoria: "Trail",
-    precioDesde: null,
+    precioDesde: null, // Energica cesó su actividad (liquidación en 2024); sin tarifa oficial vigente para España (verificado 20/10/2026)
     potenciaKw: 75,
     potenciaCv: 102,
     autonomiaKm: 256,
@@ -5652,6 +5653,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       "Hecha en Italia con experiencia de MotoE",
     ],
     contras: [
+      "Sin precio oficial vigente: Energica cesó su actividad en 2024",
       "Precio muy superior a una trail de gasolina equivalente",
       "256 km en uso combinado: los viajes largos exigen planificar cargas",
       "Peso elevado, se nota en parado",
@@ -5708,7 +5710,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2025",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: 7600,
+    precioDesde: 7600, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 3.6,
     potenciaCv: 4.9,
     autonomiaKm: 80,
@@ -5721,7 +5723,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: "Carga completa en 4 h en enchufe doméstico (batería no extraíble)",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "costeAnualAproxEur"],
+    aprox: ["costeAnualAproxEur"],
     pros: [
       "Una Vespa de verdad, con chapa de acero y diseño icónico",
       "70 km/h: ya sirve para rondas y vías rápidas urbanas",
@@ -5786,7 +5788,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 125,
     categoria: "Clásica",
-    precioDesde: 5590,
+    precioDesde: 5590, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 11,
     potenciaCv: 15,
     autonomiaKm: null,
@@ -5799,7 +5801,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "costeAnualAproxEur"],
+    aprox: ["costeAnualAproxEur"],
     pros: [
       "15 CV: exprime al máximo el límite del A1",
       "Motor Minarelli de probada fiabilidad",
@@ -5864,7 +5866,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 600,
     categoria: "Trail",
-    precioDesde: 5990,
+    precioDesde: 5990, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 40,
     potenciaCv: 54,
     autonomiaKm: null,
@@ -5877,7 +5879,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carnet: "A (limitable a 35 kW para A2)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "costeAnualAproxEur"],
+    aprox: ["costeAnualAproxEur"],
     pros: [
       "Trail monocilíndrica de 600 cc por 5.990 €: imbatible en precio",
       "54 CV y 196 kg: ligera y con empuje para el off-road ligero",

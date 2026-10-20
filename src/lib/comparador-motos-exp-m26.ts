@@ -172,7 +172,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     version: "300NK 2025",
     cilindradaCc: 292,
     categoria: "Naked",
-    precioDesde: null,
+    precioDesde: null, // descatalogada en España; CFMoto no publica tarifa oficial del modelo (verificado 20/10/2026)
     potenciaKw: 20.5,
     potenciaCv: 27.5,
     autonomiaKm: null,
@@ -194,6 +194,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
       "Una de las naked A2 más populares en España por su relación calidad-precio",
     ],
     contras: [
+      "Sin precio oficial: la 300NK ya no se comercializa en España",
       "Menos potente que rivales como la KTM Duke 390",
       "Suspensiones algo blandas para una conducción muy deportiva",
       "Velocidad máxima en torno a 139 km/h: justa para autopista",
@@ -412,7 +413,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     version: "700CL-X Adventure",
     cilindradaCc: 693,
     categoria: "Naked",
-    precioDesde: null,
+    precioDesde: null, // descatalogada en España; CFMoto no publica tarifa oficial vigente del modelo (verificado 20/10/2026)
     potenciaKw: 51.8,
     potenciaCv: 70,
     autonomiaKm: null,
@@ -2236,7 +2237,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     version: "Chinchilla 300 2025",
     cilindradaCc: 298,
     categoria: "Custom",
-    precioDesde: null,
+    precioDesde: 6000, // 125000 MXN (tarifa oficial México) ÷ 20.7481 (BCE 19/10/2026), redondeado a la centena
     potenciaKw: 22.2,
     potenciaCv: 30.2,
     autonomiaKm: null,
@@ -2249,7 +2250,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "V-twin de 298 cc con 30,2 CV: la custom pequeña con motor de verdad",
       "Transmisión final por correa, sin mantenimiento",
@@ -2258,7 +2259,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
       "Asiento a 690 mm, apto para pilotos de cualquier talla",
     ],
     contras: [
-      "No se comercializa en España: solo disponible en México",
+      "No se comercializa en España: solo disponible en México (precio estimado convertido de la tarifa oficial mexicana)",
       "129 km/h de velocidad máxima",
       "30 CV se quedan justos con pasajero y equipaje",
       "Sin red de servicio oficial en Europa",
@@ -2305,7 +2306,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     version: "Rock 300 2025",
     cilindradaCc: 298,
     categoria: "Custom",
-    precioDesde: null,
+    precioDesde: 6500, // 135000 MXN (tarifa oficial México) ÷ 20.7481 (BCE 19/10/2026), redondeado a la centena
     potenciaKw: 22.2,
     potenciaCv: 30.2,
     autonomiaKm: null,
@@ -2318,7 +2319,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg"],
+    aprox: ["precioDesde", "pesoKg"],
     pros: [
       "V-twin de 298 cc con 30,2 CV y estética rocker de los 60",
       "Depósito de 16 litros con un consumo de 28 km/l: gran autonomía",
@@ -2327,7 +2328,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
       "Faro LED redondo y cuadro digital con acabado en negro",
     ],
     contras: [
-      "No se comercializa en España: solo disponible en México",
+      "No se comercializa en España: solo disponible en México (precio estimado convertido de la tarifa oficial mexicana)",
       "30 CV justos para una custom de 177 kg",
       "Sin red de servicio oficial en Europa",
       "Estética muy de nicho: o te encanta o no es tu moto",
