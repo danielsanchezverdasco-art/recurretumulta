@@ -8178,6 +8178,7 @@ export const MEDIA_DIMENSIONS: Record<string, [number, number]> = {
   "voge-300-acx-2021-ficha-tecnica-precio-3.webp": [1200, 750],
   "voge-300rally-2026-ficha-tecnica-precio-oficial-2.webp": [1200, 900],
   "voge-300rally-2026-ficha-tecnica-precio-oficial.webp": [1200, 700],
+  "voge-350ac-2026-ficha-tecnica-precio-oficial.webp": [1200, 800],
   "voge-500dsx-2021-ficha-tecnica-precio-1.webp": [950, 578],
   "voge-500dsx-2021-ficha-tecnica-precio-2.webp": [1200, 800],
   "voge-500dsx-2021-ficha-tecnica-precio-3.webp": [1400, 933],
