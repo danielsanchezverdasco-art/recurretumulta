@@ -134,6 +134,8 @@ El estreno mundial del **E-Space Concept**, el nuevo Megane E-Tech (LFP 67 kWh, 
 Las baterías de litio-ferrofosfato son más baratas y duraderas que las NMC actuales. Masificarlas en Twingo, R5, Megane, Scenic y R4 es la vía de Renault para **bajar el precio de sus eléctricos** sin perder autonomía.
 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
-`,
+
+
+*Fuentes: <a href=https://prensa.renaultgroup.es>Renault Group España (sala de prensa oficial)</a>, <a href=https://www.renault.es>Renault España (web oficial)</a>.*`,
 },
 ];

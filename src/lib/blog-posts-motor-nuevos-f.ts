@@ -94,7 +94,9 @@ El C10 es más grande (4,74 m) y más barato, pero el Atto 3 tiene una marca má
 
 Con 218 CV bajo el pie derecho, conviene recordar que la velocidad tiene consecuencias: si te llega una <a href=https://recurretumulta.online/guias/radares>multa de radar</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
 
-Fuente oficial: <a href=https://www.leapmotor.com/es>web oficial de Leapmotor</a>.`
+Fuente oficial: <a href=https://www.leapmotor.com/es>web oficial de Leapmotor</a>.
+
+*Fuentes: <a href=https://www.leapmotor.com/es>Leapmotor España (web oficial)</a>, <a href=https://www.media.stellantis.com>Stellantis Media (sala de prensa oficial)</a>, <a href=https://www.euroncap.com>Euro NCAP</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`
   },
   {
     title: "Leapmotor T03: 18.600 €",
@@ -1750,6 +1752,8 @@ Fuentes: <a href=https://noticias.autocosmos.com.ar/2026/10/02/jetour-anticipa-e
 
 Con 903 CV hasta el trayecto al campo tiene radares: si te llega una <a href=https://recurretumulta.online/guias/radares>multa por exceso de velocidad</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
 
-Fuente oficial: <a href=https://www.jetour.es>web oficial de Jetour</a>.`
+Fuente oficial: <a href=https://www.jetour.es>web oficial de Jetour</a>.
+
+*Fuentes: <a href=https://www.jetourglobal.com>Jetour Global (web oficial)</a>, <a href=https://www.jetour.es>Jetour España (web oficial)</a>, <a href=https://www.cheryinternational.com>Chery International (web oficial)</a>.*`
   },
 ];

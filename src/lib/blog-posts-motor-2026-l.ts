@@ -68,7 +68,7 @@ Si las cuotas se aprueban, **sí**: el arancel encarecería los PHEV chinos que 
 Los principales son el **Omoda 9 SHS**, el **Jaecoo 7 SHS** y el **BYD Seal U DM-i** (enchufables, etiqueta Cero) y el **MG HS Hybrid+** (híbrido convencional, etiqueta ECO).\\n\\n*Actualización: la serie continúa con la tercera entrega, que fija el cupo en 350.000 híbridos chinos al año: <a href=/blog/cuotas-hibridos-chinos-ue-china-2026/>Cuota de 350.000 híbridos chinos: qué cambia en España</a>.*
 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
-`,
+\n\n*Fuentes: <a href=https://commission.europa.eu>Comisión Europea</a>, <a href=https://eur-lex.europa.eu>EUR-Lex (Unión Europea)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
 },
 {
   title: "Renault hará eléctricos en España",
