@@ -7,6 +7,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "xgo-x-van-104-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin4.ts"),
     "xiaomi-electric-scooter-4-lite-2nd-gen": () => import("../blog-posts-patinetes-exp-p1.ts"),
     "xiaomi-electric-scooter-4-pro-2nd-gen": () => import("../blog-posts-patinetes-exp-p1.ts"),
+    "xiaomi-electric-scooter-4-pro-max": () => import("../blog-posts-patinetes-niki-t9.ts"),
     "xiaomi-electric-scooter-4-pro-plus": () => import("../blog-posts-patinetes-exp-p9.ts"),
     "xiaomi-electric-scooter-5-max": () => import("../blog-posts-patinetes-exp-p1.ts"),
     "xiaomi-electric-scooter-6": () => import("../blog-posts-patinetes-exp-p1.ts"),

@@ -112,6 +112,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "niu-kqi-200p": () => import("../blog-posts-patinetes-exp-p1.ts"),
     "niu-kqi-300p": () => import("../blog-posts-patinetes-exp-p1.ts"),
     "niu-kqi-300x": () => import("../blog-posts-patinetes-exp-p9.ts"),
+    "niu-kqi-air-x": () => import("../blog-posts-patinetes-niki-t9.ts"),
     "niu-kqi1-pro": () => import("../blog-posts-patinetes-exp-p6.ts"),
     "niu-kqi1-sport": () => import("../blog-posts-patinetes-exp-p7.ts"),
     "niu-kqi3-sport": () => import("../blog-posts-patinetes-exp-p7.ts"),
