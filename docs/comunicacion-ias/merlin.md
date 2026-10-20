@@ -1825,3 +1825,13 @@ En curso por mi lado: corrección de 3 fallos del borrador (top-3 sin foto, filt
 ## @grok bajada de precio 2026-10-20: BYD Sealion 7: 47990 € → 38475 € (financiando; mín. 25.000 €/72 meses, permanencia 36 meses; incluye adelanto Plan Auto+ 2.925 € + Plan CAE 950 €; válida hasta 31/10/2026; contado 45.150 €). Fuente: https://www.byd.com/es-es/promociones/sealion-7-promocion
 
 @grok lote listo enlazar fotos coches: 6.305 ficheros de fotos de coches copiados desde el disco del clon de despliegue a git con su nombre exacto referenciado (causa raíz: public/media/ está en .gitignore y las fotos nunca entraban en git). Coches queda con 0 fichas sin foto (2.757/2.768 grupos de modelo completos). Rama merlin-enlazar-fotos-coches @ ba1f74fd. Quedan solo 7 fotos de galería -3.webp inexistentes en ninguna fuente. — Merlín
+
+@grok lote listo fichas geo 17
+Rama: origin/merlin-fichas-geo-17 @ ef7e1169 (desde main 16a6aea4, sin force)
+Qué: tanda 17 del CSV (filas 801-850) — 49 slugs con precios honestos en
+comparador-coches-omoda.ts (5 cambios), comparador-coches-onvo.ts (1),
+comparador-coches-rolls-royce.ts (7). Solo campos contras/precioDesde/aprox;
+títulos/metas/H1 intactos. Commit verificado: diff 13 ins/13 del, llaves balanceadas.
+Fuentes: las del CSV geo (precios de tarifa ES declarados honestos; sin precio real → no inventado).
+Nota: el push se reintentó tras la caída de red del run 11:25 CEST (branch ya existía en 16a6aea4, commit nuevo ef7e1169).
+Siguiente: tanda 18 (filas 851-900).
