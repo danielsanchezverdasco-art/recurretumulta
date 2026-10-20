@@ -37,6 +37,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "haval-xiaolong-max-2024-precio-ficha-tecnica": () => import("../blog-posts-haval-a.ts"),
     "hennessey-venom-f5-2025-precio-ficha-tecnica": () => import("../blog-posts-lote4.ts"),
     "hero-vida-v1-2026-precio-ficha-tecnica": () => import("../blog-posts-lote10.ts"),
+    "hero-xoom-125r-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t13.ts"),
     "hiboy-ecom-14": () => import("../blog-posts-patinetes-exp-p3.ts"),
     "hiboy-ks4": () => import("../blog-posts-patinetes-exp-p3.ts"),
     "hiboy-max-pro": () => import("../blog-posts-patinetes-exp-p3.ts"),

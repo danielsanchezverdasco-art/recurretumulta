@@ -118,6 +118,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "niu-mqi-gt-evo-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m14.ts"),
     "niu-mqi-gt-evo-baja-precio-octubre-2026": () => import("../blog-posts-flash-2026.ts"),
     "niu-mqi-plus-sport-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m1.ts"),
+    "niu-nqi-cargo-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t13.ts"),
     "niu-nqi-gts-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m5.ts"),
     "niu-nqi-sport-scooter-electrico-1999-euros-gama-2026": () => import("../blog-posts-motor-2026-g.ts"),
     "niu-nqix-150-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m5.ts"),

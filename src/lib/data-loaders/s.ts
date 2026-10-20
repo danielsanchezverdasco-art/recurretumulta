@@ -300,6 +300,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "sym-cruisym-300-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m12.ts"),
     "sym-fiddle-125-2026-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m3.ts"),
     "sym-fugue-125-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m12.ts"),
+    "sym-jet-evo-125-abs-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t13.ts"),
     "sym-jet-x-125-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m4.ts"),
     "sym-joymax-z-plus-300-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m4.ts"),
     "sym-maxsym-gt-400-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m12.ts"),

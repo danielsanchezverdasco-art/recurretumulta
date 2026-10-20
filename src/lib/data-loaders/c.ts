@@ -255,6 +255,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "cyclone-ra2-125-custom-precio": () => import("../blog-posts-lote14.ts"),
     "cyclone-rc-600-2025-ficha-tecnica-precio": () => import("../blog-posts-lote7.ts"),
     "cyclone-re5-2026-ficha-tecnica-precio": () => import("../blog-posts-lote7.ts"),
+    "cyclone-rt1-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t13.ts"),
     "cyclone-rx1-125-trail-precio": () => import("../blog-posts-lote14.ts"),
     "cyclone-rx2-125-2026-ficha-tecnica-precio": () => import("../blog-posts-lote7.ts"),
     "cyclone-rx6-2026-ficha-tecnica-precio": () => import("../blog-posts-lote7.ts"),

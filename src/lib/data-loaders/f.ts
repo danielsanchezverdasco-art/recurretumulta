@@ -25,6 +25,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "fb-mondial-hps-125-2025-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "fb-mondial-hps-125-precio": () => import("../blog-posts-lote14.ts"),
     "fb-mondial-hps-300-2018-ficha-tecnica-precio": () => import("../blog-posts-lote8.ts"),
+    "fb-mondial-imola-125-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t13.ts"),
     "fb-mondial-imola-125-2026-precio-ficha-tecnica": () => import("../blog-posts-lote10.ts"),
     "fb-mondial-piega-125-precio": () => import("../blog-posts-lote14.ts"),
     "felo-fw-06-2025-ficha-tecnica-precio": () => import("../blog-posts-lote9.ts"),

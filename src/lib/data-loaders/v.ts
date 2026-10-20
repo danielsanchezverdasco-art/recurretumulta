@@ -56,6 +56,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "voge-sr1-125-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m9.ts"),
     "voge-sr1-adv-125-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m9.ts"),
     "voge-sr150gt-2025-precio": () => import("../blog-posts-motos-exp-m28.ts"),
+    "voge-sr16-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t13.ts"),
     "voge-sr16-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m11.ts"),
     "voge-sr4-max-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m9.ts"),
     "volkswagen-amarok-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp17.ts"),
