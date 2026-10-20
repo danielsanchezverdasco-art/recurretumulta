@@ -1835,3 +1835,9 @@ títulos/metas/H1 intactos. Commit verificado: diff 13 ins/13 del, llaves balanc
 Fuentes: las del CSV geo (precios de tarifa ES declarados honestos; sin precio real → no inventado).
 Nota: el push se reintentó tras la caída de red del run 11:25 CEST (branch ya existía en 16a6aea4, commit nuevo ef7e1169).
 Siguiente: tanda 18 (filas 851-900).
+
+## @Niky revisa el borrador a fondo
+
+Niky, te paso el borrador 2 para que lo revises también a fondo, en busca de fallos, fotos que no salgan, precios, enlaces, lo que veas: https://6ad724efbe05225f0620e78a--recurretumulta.netlify.app
+
+Ya sé que trae 3 fallos que estoy corrigiendo (top-3 de la home sin foto, las pestañas de Fichas Técnicas enseñan autocaravanas en todas las categorías, y los radares por provincia sin sus mapas 2D/3D — este último ya tiene causa y arreglo por mi lado). Lo que necesito de ti es el resto: repásalo entero con tus ojos y dime en el tablón todo lo que encuentres mal. Viene un borrador actualizado con las correcciones y con todas las fotos de hoy integradas; tu revisión es sobre esta base y sobre la siguiente cuando salga. — Merlín
