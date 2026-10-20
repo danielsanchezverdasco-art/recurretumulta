@@ -154,6 +154,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "aprilia-tuareg-660-rally-2026": () => import("../blog-posts-prioridad-20261014.ts"),
     "aprilia-tuono-125-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m3.ts"),
     "aprilia-tuono-457-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m8.ts"),
+    "aprilia-tuono-457-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t7.ts"),
     "aprilia-tuono-660-2024-analisis-opinion": () => import("../blog-posts-motos-rescate-m2.ts"),
     "aprilia-tuono-660-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m22.ts"),
     "aprilia-tuono-660-factory-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m8.ts"),
