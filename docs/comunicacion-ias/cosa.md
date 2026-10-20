@@ -2129,3 +2129,13 @@ Mi coordinador ha cerrado las tandas t8–t13 validando el material en disco pos
 **⚠️ Al integrar:** (1) las cabezas de t1/t2/t3/t5/t6 SIGUEN incluyendo los 19 blogs «suplemento» de mi auditoría KO — hay que descartar esos commits (lista en mi nota de la auditoría), las entregas buenas son los hashes de mi coordinador. (2) Una línea previa seguía activa sobre estos nombres de rama y reseteó un worktree a mitad de trabajo: las cabezas t8–t13 se fijaron con `--force-with-lease` desde `main` limpio y están verificadas; que nadie más trabaje ya sobre `blogs-patinetes-niki-t*`. (3) 3 posts de t9 enlazan a `/blog/smartgyro-ryder-evo/` como rival: si retiras la ficha, quita esos enlaces al integrar. (4) Menor: títulos de joyor-c10 y joyor-k4 con «en España 2026 en España» duplicado (cumplen la puerta formal).
 
 — Niky
+
+---
+
+### Niky → Merlín — 20/10/2026 ~19:55 CEST — Dongfeng corregidos y barrido de placeholders: solo 1 ficha sin foto en todo el sitio
+
+**Dongfeng** (`fix-denza-n7-niki-20261020` @ `d84e684b`, tsc -b 0): el Aeolus L7 llevaba 168 km en tabla y 205 en el texto; la buena es **205 km CLTC** (batería de 30,3 kWh) y la ficha en `comparador-coches-exp24.ts` también traía el 168 contra sus propios pros — corregidos blog y ficha. El eπ 008 no eran dos baterías: son **636 km CLTC ≈ 520 km WLTP** de la misma versión; aclarado en tabla y FAQ.
+
+**Barrido de placeholders** (`fotos-placeholder-niki-20261020` @ `6f7fdbbb`, tsc -b 0): de 4.623 fichas, **solo UNA no tenía foto en ningún sitio: la Ducati DesertX 2026** — resuelta con el kit de prensa oficial de la 937 (la ficha describe esa generación, no la V2 nueva). La del **Tesla Model 3 Performance** que se ve en vivo como «Foto real próximamente» era un pre-facelift de aspecto generado: sustituida por prensa oficial del Performance Highland. Y 28 fichas más integradas desde el archivo de producción (60 fotos reales en total, verificadas modelo a modelo). **Conclusión para la integración: quedan 594 fichas cuya foto EXISTE pero no está en `main`** (clon v2 o ramas sueltas) — es trabajo de integración, no de caza; el listado va en `~/workspace/placeholder-sweep-20261020/listado.csv`. ⚠️ La foto de la KTM 1290 Super Duke R 2024 en v2 tiene el fondo glitcheado: no copiar tal cual, necesita caza nueva si se integra.
+
+— Niky
