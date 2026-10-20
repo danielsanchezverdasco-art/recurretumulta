@@ -1634,23 +1634,23 @@ Entre 337 y 390 litros según la versión.
   {
     "title": "GWM Ora 05: SUV eléctrico de 435 km",
     "slug": "gwm-ora-05-2026-precio-ficha-tecnica",
-    "excerpt": "Precio y ficha técnica del GWM Ora 05 2026: SUV eléctrico de 204 CV, 435 km WLTP, 120 kW de carga y etiqueta Cero desde 37.500 € en España.",
+    "excerpt": "Precio y ficha técnica del GWM Ora 5 2026: SUV eléctrico de 204 CV, 435 km WLTP, 120 kW de carga y etiqueta Cero desde 34.950 € en España.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "readTime": 6,
     "locale": "all",
     "keywords": ["GWM Ora 05 precio", "Ora 05 ficha técnica", "GWM Ora 5 España", "Ora 05 autonomía", "SUV eléctrico 435 km", "GWM Ora 2026"],
-    "content": `<img src=/media/gwm-ora-05-2026-precio-ficha-tecnica-hero.webp alt=GWM Ora 05 SUV eléctrico azul>
+    "content": `<img src=/media/gwm-ora-05-2026-precio-ficha-tecnica-hero.webp alt=GWM Ora 5 SUV eléctrico azul>
 
-**¿Buscas solo los datos?** <a href=/coches/gwm-ora-05-2026-precio-ficha-tecnica/>Ver la ficha técnica del GWM Ora 05</a>: precio, autonomía, carga y maletero. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+**¿Buscas solo los datos?** <a href=/coches/gwm-ora-05-2026-precio-ficha-tecnica/>Ver la ficha técnica del GWM Ora 5</a>: precio, autonomía, carga y maletero. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-El **GWM Ora 05** es el SUV eléctrico de GWM en España: **204 CV**, **435 km de autonomía WLTP**, carga rápida de **120 kW**, bomba de calor de serie y etiqueta **Cero**. Desde **37.500 €** (23.850 € con promociones y ayudas). El eléctrico chino con mejor garantía del mercado: **7 años o 150.000 km**.
+El **GWM Ora 5** es el SUV eléctrico de GWM en España: **204 CV**, **435 km de autonomía WLTP**, carga rápida de **120 kW**, bomba de calor de serie y etiqueta **Cero**. Desde **34.950 €** (23.850 € con promociones y ayudas en el acabado Explore; el Advance parte de 37.500 €). El eléctrico chino con mejor garantía del mercado: **7 años o 150.000 km**.
 
 ## Ficha técnica resumida
 
 | Concepto | Dato |
 |---|---|
-| Precio desde | 37.500 € (23.850 € con ayudas) |
+| Precio desde | 34.950 € (Explore; Advance desde 37.500 €) |
 | Potencia | 204 CV |
 | Par máximo | 260 Nm |
 | Batería | 58,3 kWh (63,1 brutos) |
@@ -1665,19 +1665,19 @@ El **GWM Ora 05** es el SUV eléctrico de GWM en España: **204 CV**, **435 km d
 | Etiqueta DGT | Cero |
 | Garantía | 7 años/150.000 km (vehículo), 8/160.000 (batería) |
 
-<a href=/coches/gwm-ora-05-2026-precio-ficha-tecnica/>Ver la ficha técnica completa del Ora 05 con galería de fotos</a>
+<a href=/coches/gwm-ora-05-2026-precio-ficha-tecnica/>Ver la ficha técnica completa del Ora 5 con galería de fotos</a>
 
 ## 435 km con eficiencia de 15,5 kWh
 
-El Ora 05 homologa **435 km WLTP** con **58,3 kWh** útiles: un consumo de **15,5 kWh/100 km** que está entre los mejores de su tamaño. Los **204 CV** dan un **0-100 en 7,7 s** solvente, y los **120 kW** en DC recuperan del 10 al 80 % en unos 30 minutos. La **bomba de calor de serie** protege la autonomía en invierno y el **V2L** permite alimentar dispositivos externos.
+El Ora 5 homologa **435 km WLTP** con **58,3 kWh** útiles: un consumo de **15,5 kWh/100 km** que está entre los mejores de su tamaño. Los **204 CV** dan un **0-100 en 7,7 s** solvente, y los **120 kW** en DC recuperan del 10 al 80 % en unos 30 minutos. La **bomba de calor de serie** protege la autonomía en invierno y el **V2L** permite alimentar dispositivos externos.
 
 Existe también una versión **híbrida de 223 CV** (1,5 + eléctrico, 5,1 l/100 km), pero pierde la etiqueta Cero.
 
-<img src=/media/gwm-ora-05-2026-precio-ficha-tecnica-interior.webp alt=Interior del GWM Ora 05>
+<img src=/media/gwm-ora-05-2026-precio-ficha-tecnica-interior.webp alt=Interior del GWM Ora 5>
 
 ## Diseño que divide opiniones
 
-El Ora 05 no pasa desapercibido: líneas redondeadas, faros expresivos y un interior colorista con doble pantalla. O lo amas o lo odias, pero nadie lo confunde con otro. Dentro, la calidad es buena y el equipamiento completo: asientos eléctricos, techo panorámico y ADAS.
+El Ora 5 no pasa desapercibido: líneas redondeadas, faros expresivos y un interior colorista con doble pantalla. O lo amas o lo odias, pero nadie lo confunde con otro. Dentro, la calidad es buena y el equipamiento completo: asientos eléctricos, techo panorámico y ADAS.
 
 ## Mantenimiento
 
@@ -1685,13 +1685,13 @@ Eléctrico puro: **revisión cada 24 meses o 30.000 km** en la red GWM España, 
 
 ## Precio y rivales
 
-Desde 37.500 € (23.850 € con ayudas), compite con el **BYD Atto 3** (más maletero, precio similar), el **MG S5 EV** (misma receta) y el **Kia EV3** (más caro). El Ora gana en garantía (7 años) y en precio con ayudas; pierde en red comercial y maletero (422 L justos).
+Desde 34.950 € (23.850 € con ayudas), compite con el **BYD Atto 3** (más maletero, precio similar), el **MG S5 EV** (misma receta) y el **Kia EV3** (más caro). El Ora gana en garantía (7 años) y en precio con ayudas; pierde en red comercial y maletero (422 L justos).
 
-<img src=/media/gwm-ora-05-2026-precio-ficha-tecnica-oficial.webp alt=GWM Ora 05 vista tres cuartos>
+<img src=/media/gwm-ora-05-2026-precio-ficha-tecnica-oficial.webp alt=GWM Ora 5 vista tres cuartos>
 
 ## Veredicto: el eléctrico con mejor garantía
 
-El Ora 05 no es el SUV eléctrico más emocionante, pero a 23.850 € con ayudas es imbatible en ecuación precio-autonomía-garantía. 435 km, 204 CV y 7 años de tranquilidad.
+El Ora 5 no es el SUV eléctrico más emocionante, pero a 23.850 € con ayudas es imbatible en ecuación precio-autonomía-garantía. 435 km, 204 CV y 7 años de tranquilidad.
 
 ¿Para quién es? Para quien busca un eléctrico familiar sin sustos y valora la garantía por encima de la marca.
 
@@ -1699,8 +1699,8 @@ El Ora 05 no es el SUV eléctrico más emocionante, pero a 23.850 € con ayudas
 
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta el GWM Ora 05?
-Desde 37.500 €, o 23.850 € con promociones y ayudas.
+### ¿Cuánto cuesta el GWM Ora 5?
+Desde 34.950 € (acabado Explore; el Advance parte de 37.500 €), o 23.850 € con promociones y ayudas.
 
 ### ¿Qué autonomía tiene?
 435 km en ciclo WLTP.
