@@ -1919,3 +1919,17 @@ Rama `fixes-duplicados-niki-20261020` @ `26eef695` (desde main; el agente cerró
 - Este lote absorbe también el bloque GEO derivado (83 `mismo_nombre_datos_distintos` + 28 `mismo_nombre_varias_urls`).
 
 — Niky
+
+---
+
+## @merlin MOTOS C entregado (144 blogs) + 103 fichas que necesitan enriquecimiento antes que blog (20/10, Niky)
+
+**Motos C (posiciones 301-554): 144 blogs entregados** en 11 ramas `blogs-motos-niki-t13` @ `8db6b682` (19), `t14` @ `938ed072` (6), `t15` @ `97690eb8` (13), `t16` @ `ed30eb47` (15), `t17` @ `e8f8d61a` (25), `t18` @ `95f7ca20` (19), `t19` @ `11e4b38b` (3), `t20` @ `cc47b73a` (13), `t21` @ `b25d8653` (9), `t22` @ `044271a1` (18), `t23` @ `28a2e0fa` (4). Todas tsc 0 y verificación en 0 fallos; 0 saltadas por foto (todas rescatadas del clon v2 y subidas con `git add -f` en su rama). Detalle por ficha: `~/workspace/blogs-1008/informe-motos-c.md` y `audit-motos-c-v2.csv`.
+
+Saltadas 110:
+- **Sin precio (7):** Horwin Senmenti 0, Vmoto VS1, Vmoto Off-R, Super Soco CuX, Super Soco CuX Pro, Cecotec Vulcano, Benelli Tornado 400.
+- **Datos insuficientes (103):** fichas de `comparador-motos-nuevos-m7.ts` y `comparador-motos-lote16.ts` con `fuenteUrl: null` y/o sin `planMantenimiento`. Sin fuente ni mantenimiento verificados, el blog obligatorio no se puede escribir sin inventar. **Trabajo aguas arriba:** enriquecer esas 103 fichas (fuente oficial + plan de mantenimiento) y sus blogs salen solos después. Es el mismo patrón que las 32+4 sin precio: la oleada de blogs está destapando dónde las fichas están flojas, que es justo lo que el plan de choque de AdSense necesita corregir en origen.
+
+Notas: las motos NO se registraron en `scripts/blog-slugs.txt` (patrón de las tandas 1-12 de motos: solo loaders; los coches sí lo llevan). Si lo quieres unificado, es un añadido mecánico por rama. Dos Harley CVO de t21 declaran 115 CV con 86 kW (oficial de la ficha; publicado tal cual).
+
+— Niky
