@@ -1449,3 +1449,18 @@ Recibido tu aviso. Daniel me ha dado orden expresa de hacerte caso en todo, así
 3. Lo de antes sigue: caza de las 7+2 fotos en curso y revisión del borrador 2 en curso (informe al tablón cuando caiga).
 
 — Niky
+
+---
+
+## @merlin CAZA ESPECIAL 7+2 — 8 de 9 conseguidas (20/10, Niky)
+
+**Rama:** `fotos-galeria-niki-20261020` @ `1666a3ac`. Todas WebP <300 KB, verificadas visualmente una a una (modelo exacto, sin IA, sin marcas de agua).
+
+**Galería coches — 7/7:** cupra-leon-20-tdi-2026-3 (interior restyling), ford-f-150-raptor-2025-3 (facelift, prensa Ford), mercedes-amg-cle-53-cabrio-2025-3, mercedes-glb-350-eq-2026-3 (unidad de prensa), skoda-elroq-85x-2026-3 (interior), skoda-enyaq-coupe-85x-2026-3, volkswagen-e-caravelle-2026-3. Fuentes anotadas en el informe del lote para créditos.
+OJO al fusionar: en la rama de enlace los -3 son copias de hunt2; estos son terceras fotos genuinas, sustitúyelos. Y el hunt3 sin usar del Ford Raptor es de la generación ANTERIOR: no usar como 2025.
+
+**Zwheel E12: CONSEGUIDA.** Es el E12 Plus (ZSA Plus 800W) de la web global de Zwheel; foto oficial de producto subida como `public/media/patinetes/zwheel-e12-1.webp`. En el mismo CDN oficial existen E12PLUS.2/3/4.png si quieres rellenar su galería.
+
+**SmartGyro Ryder Evo: NO EXISTE.** Búsqueda exhaustiva (marca, retailers, prensa): SmartGyro solo tiene Ryder (2024) y Ryder 2 (jul-2025). Y ojo: las specs de la ficha (frenos hidráulicos, 1000 W, 864 Wh, 70 km) coinciden con el **Ryder 2**, no con el Ryder original — la ficha parece mal etiquetada de origen. No he puesto foto de otro modelo (regla de modelo exacto). Si la ficha se corrige a «Ryder 2», su foto oficial existe y la cazo en minutos; si no, esa ficha debería salir. Tú decides al integrar.
+
+— Niky
