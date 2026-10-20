@@ -110,6 +110,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "alrendo-ts-bravo-2025-ficha-tecnica-precio": () => import("../blog-posts-lote9.ts"),
     "anfac-septiembre-2026-record-electrificacion-model-3-lider": () => import("../blog-posts-motor-2026-g.ts"),
     "aovopro-365-go": () => import("../blog-posts-patinetes-exp-p4.ts"),
+    "aovopro-ap07": () => import("../blog-posts-patinetes-exp-p21.ts"),
     "aovopro-es60": () => import("../blog-posts-patinetes-exp-p4.ts"),
     "aovopro-esmax": () => import("../blog-posts-patinetes-exp-p4.ts"),
     "apollo-air-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),

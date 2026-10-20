@@ -49,6 +49,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin3.ts"),
     "europa-retrasa-coche-autonomo-espana-pruebas": () => import("../blog-posts-opinion-20261014.ts"),
     "evercross-a1": () => import("../blog-posts-patinetes-exp-p9.ts"),
+    "evercross-c3": () => import("../blog-posts-patinetes-exp-p21.ts"),
     "evercross-ev08e": () => import("../blog-posts-patinetes-exp-p4.ts"),
     "evercross-ev10-max": () => import("../blog-posts-patinetes-exp-p4.ts"),
     "evercross-ev10k-pro": () => import("../blog-posts-patinetes-exp-p4.ts"),

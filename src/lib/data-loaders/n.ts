@@ -4,6 +4,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
   blog: {
     "nami-blast": () => import("../blog-posts-patinetes-exp-p3.ts"),
     "nami-blast-max": () => import("../blog-posts-patinetes-exp-p3.ts"),
+    "nami-burn-e-2-max": () => import("../blog-posts-patinetes-exp-p21.ts"),
     "nami-burn-e-3": () => import("../blog-posts-patinetes-exp-p3.ts"),
     "nami-burn-e-3-max": () => import("../blog-posts-patinetes-exp-p3.ts"),
     "nami-klima": () => import("../blog-posts-patinetes-exp-p3.ts"),

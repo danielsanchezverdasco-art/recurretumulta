@@ -203,6 +203,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "kugoo-kirin-s1-pro": () => import("../blog-posts-patinetes-exp-p9.ts"),
     "kugoo-kirin-s4": () => import("../blog-posts-patinetes-exp-p9.ts"),
     "kukirin-a1": () => import("../blog-posts-patinetes-exp-p3.ts"),
+    "kukirin-c1-pro": () => import("../blog-posts-patinetes-exp-p21.ts"),
     "kukirin-g2-max": () => import("../blog-posts-patinetes-exp-p3.ts"),
     "kukirin-g2-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "kukirin-g2-ultra": () => import("../blog-posts-patinetes-exp-p3.ts"),

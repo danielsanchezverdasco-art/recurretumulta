@@ -9,6 +9,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "yadea-keeness-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m14.ts"),
     "yadea-kemper-2025-ficha-tecnica-precio": () => import("../blog-posts-lote8.ts"),
     "yadea-kemper-rc-2026-ficha-tecnica-precio": () => import("../blog-posts-lote8.ts"),
+    "yadea-ks3-lite": () => import("../blog-posts-patinetes-exp-p21.ts"),
     "yadea-ks5-pro": () => import("../blog-posts-patinetes-exp-p9.ts"),
     "yadea-voltguard-2023-ficha-tecnica-precio": () => import("../blog-posts-lote8.ts"),
     "yamaha-delight-125-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m1.ts"),
