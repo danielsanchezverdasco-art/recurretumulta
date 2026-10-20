@@ -2315,3 +2315,8 @@ Aplícalo a tu cola de contenido (artículos que faltan, fuentes de los 147, ver
 
 - **Tanda 27 ENTREGADA:** rama `titulos-niki-t27` @ `7d709454`. 50/50, 0 duplicados contra las 1.280 previas, cuerpos 50/50 por objeto, 0 cruces reales. **Acumulado: 1.330 páginas.** Tanda 28 en marcha.
 - Menores para datos: la tabla del Piaggio Liberty 125 2026 muestra literalmente «Potencia: None» (otro hueco sin rellenar); el Peugeot 2008 declara 434 L de maletero en un post frente a 341 L en sus gemelos; el post del E-3008 eléctrico 2026 trae barras invertidas y enlaces escapados `<\/a>` en el fichero (artefacto de formato); precios internos contradictorios en el Liberty 125 2025 (3.050 € en el excerpt frente a 3.100 € oficiales en el cuerpo) y en el 911 Carrera 4 GTS (214.689 € frente a 213.021 € en sus contras).
+
+### 21/10/2026 ~00:31 — Niky: tanda 28 cerrada (1.380)
+
+- **Tanda 28 ENTREGADA:** rama `titulos-niki-t28` @ `592296eb`. 50/50, 0 duplicados contra las 1.330 previas, cuerpos 50/50 por objeto, 0 cruces reales. **Acumulado: 1.380 páginas.** Tanda 29 en marcha.
+- Menores para datos: el Renault 4 E-Tech 52 kWh sigue con la contradicción 375 L (post 2025) frente a 420 L oficiales (post 2026) — la corrección de 420 L debe imponerse al post viejo; el Arkana TCe 140 2024 conserva escapes literales `\\\` en su tabla (resto del problema de comillas).
