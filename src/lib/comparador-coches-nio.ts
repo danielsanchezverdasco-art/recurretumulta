@@ -511,7 +511,7 @@ export const COCHES_NIO: CocheComparador[] = [
     modelo: "EC6",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 46000, // no se vende en Europa; en China desde 358.000 yuanes (75 kWh, batería incluida)
+    precioDesde: 47700, // no se vende en Europa; en China desde 358.000 yuanes (75 kWh, batería incluida)
     potenciaCv: 490,
     autonomiaKm: 630, // CLTC China (batería 100 kWh); sin dato WLTP publicado
     maleteroL: null,
@@ -528,7 +528,7 @@ export const COCHES_NIO: CocheComparador[] = [
       "En China cuesta desde 358.000 yuanes: el Nio NT 2.0 más asequible",
     ],
     contras: [
-      "No se vende en Europa: solo China (Nio no ha anunciado su llegada)",
+      "Aprox. 47.700 € según tarifa oficial del fabricante en China (358.000 CNY), sin venta oficial en España",
       "La autonomía es CLTC (ciclo chino, optimista): sin dato WLTP publicado",
       "Es el hermano 'de nicho' del EL6/ES6: menos práctico y más caro que él",
       "Sin red de servicio ni Power Swap fuera de China",
@@ -592,7 +592,7 @@ export const COCHES_NIO: CocheComparador[] = [
     modelo: "EC7",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 59100, // no se vende en Europa; en China desde 488.000 yuanes (75 kWh, batería incluida)
+    precioDesde: 61100, // no se vende en Europa; en China desde 458.000 yuanes (75 kWh, batería incluida)
     potenciaCv: 653,
     autonomiaKm: 635, // CLTC China (batería 100 kWh); sin dato WLTP publicado
     maleteroL: null,
@@ -609,7 +609,7 @@ export const COCHES_NIO: CocheComparador[] = [
       "En China parte de 488.000 yuanes con batería: flagship coupé a precio contenido",
     ],
     contras: [
-      "No se vende en Europa: solo China (Nio estudia traerlo, sin fecha)",
+      "Aprox. 61.100 € según tarifa oficial del fabricante en China (458.000 CNY), sin venta oficial en España",
       "La autonomía es CLTC (ciclo chino, optimista): sin dato WLTP publicado",
       "Techo coupé: menos altura trasera y menos maletero que el EL7",
       "Sin red de servicio ni Power Swap fuera de China",
@@ -1088,9 +1088,9 @@ export const COCHES_NIO: CocheComparador[] = [
     modelo: "ET9",
     tipo: "Eléctrico",
     categoria: "Berlina",
-    precioDesde: 95400,
-    potenciaCv: 697,
-    autonomiaKm: null,
+    precioDesde: 105100,
+    potenciaCv: 707,
+    autonomiaKm: 650,
     maleteroL: 540,
     ceroCien: 4.3,
     velocidadMax: null,
@@ -1105,7 +1105,7 @@ export const COCHES_NIO: CocheComparador[] = [
       "Dirección by-wire y eje trasero direccional"
     ],
     contras: [
-      "No se vende en Europa: solo China (desde 768.000 yuanes)",
+      "Aprox. 105.100 € según tarifa oficial del fabricante en China (788.000 CNY), sin venta oficial en España",
       "Sin dato WLTP publicado: autonomía real en Europa desconocida",
       "5,33 m y 2,7 toneladas: solo para chófer",
       "Precio de Maybach sin red de servicio fuera de China",
@@ -1121,7 +1121,7 @@ export const COCHES_NIO: CocheComparador[] = [
     parNm: 700,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["maleteroL", "cargaRapidaKw", "autonomiaKm", "precioDesde"],
+    aprox: ["maleteroL", "cargaRapidaKw", "precioDesde"],
     imagen: "/media/nio-et9-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
