@@ -3283,6 +3283,38 @@ Con **45 km/h**, en España circula **limitado a 25 km/h**. Prohibido en **acera
 
 <img src=/media/patinetes/kukirin-a1-3.webp alt=KuKirin A1 en uso diario>
 
+## KuKirin: la marca que bajó el precio de la potencia
+
+KuKirin se ha hecho un nombre en Europa vendiendo patinetes eléctricos de altas prestaciones a precios muy inferiores a los de las marcas tradicionales, principalmente a través de su tienda oficial europea y de distribuidores en línea. Puedes consultar la gama y las condiciones en la web oficial enlazada en las fuentes, <a href=https://eu-kukirin.com/>KuKirin EU</a>, y contrastar el modelo con el resto de la familia en nuestra <a href=/patinetes/kukirin-a1/>ficha del KuKirin A1</a>.
+
+## Técnica en detalle: 800 W y 624 Wh por unos 439 €
+
+| Aspecto | Dato del modelo | Lectura práctica |
+|---|---|---|
+| **Motor** | 800 W | Sube cuestas urbanas que un 350 W no puede |
+| **Batería** | 48V 13Ah (624 Wh) | La cifra que explica su autonomía real |
+| **Autonomía** | 45 km declarados, ~30 km reales | Suficiente para jornadas urbanas medias |
+| **Velocidad** | 45 km/h (a limitar a 25 km/h en España) | De serie supera el límite VMP legal |
+| **Peso** | 25,5 kg | Potente, pero ya no es un patinete para subir a pulso a un quinto |
+
+El conjunto es coherente para su precio: motor con fuerza de sobra para ciudad con desnivel, batería de capacidad intermedia y un peso que todavía se puede gestionar en tramos cortos de escaleras, aunque nadie lo describiría como ligero. En el <a href=/comparador-patinetes/>comparador de patinetes</a> puedes ver que su relación potencia-precio sigue siendo su argumento imbatible.
+
+## Uso real y autonomía: para quién encaja
+
+Unos **30 km reales** dan para mucho en ciudad: ida y vuelta al trabajo para la mayoría de usuarios, recados encadenados o reparto ligero en distancias cortas. El límite aparece cuando la jornada se alarga o cuando el conductor es pesado y el recorrido tiene cuestas constantes, porque la batería de 13Ah es, como dice la ficha, su techo. La potencia de 800 W cambia la experiencia frente a un urbano básico: mantiene el ritmo en pendientes y no obliga a ayudar con el pie en cada rampa de garaje. A cambio, sus 25,5 kg castigan si hay que plegarlo y cargarlo a diario en trenes o autobuses. Y una advertencia práctica: circularás limitado a 25 km/h, así que esos 800 W se traducen en aceleración y capacidad de subida, no en velocidad legal. Si combinas trayectos largos, su hermano <a href=/patinetes/kukirin-m4-max/>KuKirin M4 Max</a>, con 874 Wh según la propia comparativa de la ficha, es el paso lógico. Entre trayecto y trayecto, puedes buscar los monos del <a href=/juego-monos/>juego caza-monos</a> ocultos en la web.
+
+## Mantenimiento y costes de uso
+
+El mantenimiento de un patinete de este tipo se centra en frenos, neumáticos, tornillería del plegado y salud de la batería. Con 800 W y más de 25 kg, las pastillas de freno y las cubiertas trabajan más que en un urbano ligero: revísalas con frecuencia y no apures una cubierta gastada, porque la frenada se alarga. La batería agradece no guardarla descargada ni exponerla a calor extremo, y cargarla siempre con su cargador original. Al comprarse mayoritariamente en línea, localiza antes un taller de movilidad eléctrica en tu ciudad que acepte mantenerlo, aunque no sea servicio oficial.
+
+## Normativa VMP en España: limitado a 25 km/h, con certificado en el horizonte
+
+En España, un patinete eléctrico es un **vehículo de movilidad personal (VMP)** si cumple la definición de la DGT: velocidad máxima por diseño entre 6 y 25 km/h, una o dos ruedas y uso por una sola persona. Además, desde el 22 de enero de 2024 los VMP que se comercializan deben contar con la **certificación** exigida por la DGT, y los modelos anteriores tienen un régimen transitorio que conviene comprobar en la <a href=https://www.dgt.es/>web oficial de la DGT</a> antes de comprar cualquier unidad.
+
+## Comparativa y veredicto
+
+Dentro de la propia gama, el A1 se defiende así: es más barato y manejable que el <a href=/patinetes/kukirin-m4-max/>KuKirin M4 Max</a>, que gana en batería (874 Wh), y más sencillo que propuestas superiores como el <a href=/patinetes/kukirin-g2-max/>KuKirin G2 Max</a>.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta?
