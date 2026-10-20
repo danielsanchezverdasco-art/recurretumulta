@@ -7996,3 +7996,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/super-soco-f01-2025-ficha-tecnica-precio-hunt1.webp | https://vmotosoco.es/wp-content/uploads/2023/05/VMotosoco-F01-Blanco.jpg | Vmoto Soco España (web oficial) | desconocida |
 | /media/super-soco-f01-2025-ficha-tecnica-precio-hunt2.webp | https://www.motomag.gr/sites/default/files/2023-02/vmoto-soco-f01-0002.JPG | Vmoto Soco (imagen de prensa oficial) vía Motomag.gr | desconocida |
 | /media/super-soco-f01-2025-ficha-tecnica-precio-hunt3.webp | https://www.motomag.gr/sites/default/files/styles/article_full/public/2023-02/vmoto-soco-f01-0003.JPG?itok=ivWTv8OM | Vmoto Soco (imagen de prensa oficial) vía Motomag.gr | desconocida |
+| /media/audi-sq5-sportback-2025-precio-ficha-tecnica-hunt1.webp | https://images.carexpert.com.au/resize/1920/-/cms/v1/media/2024-11-audi-sq5-sportback-3.jpg | Audi (prensa oficial) vía CarExpert | desconocida |
+| /media/audi-sq5-sportback-2025-precio-ficha-tecnica-hunt2.webp | https://staging.goauto.com.au/assets/contents/531690faa2a06750e6d38af03c6036607011a013.jpg | Audi (prensa oficial) vía GoAuto | desconocida |
+| /media/audi-sq5-sportback-2025-precio-ficha-tecnica-hunt3.webp | https://images.carexpert.com.au/resize/1920/-/cms/v1/media/2024-11-audi-sq5-sportback-10.jpg | Audi (prensa oficial) vía CarExpert | desconocida |
+| /media/mg7-2025-precio-ficha-tecnica-hunt1.webp | https://carnewschina.com/wp-content/uploads/2023/03/Slide-16_9-101-39-800x450.jpg | MG / SAIC vía CarNewsChina | desconocida |
+| /media/mg7-2025-precio-ficha-tecnica-hunt2.webp | https://carnewschina.com/wp-content/uploads/2023/03/Slide-16_9-101-37-800x450.jpg | Autohome vía CarNewsChina | desconocida |
+| /media/mg7-2025-precio-ficha-tecnica-hunt3.webp | https://carnewschina.com/wp-content/uploads/2023/03/Slide-16_9-101-33-800x450.jpg | MG / SAIC vía CarNewsChina | desconocida |
+| /media/bimota-tesi-h2-tera-2024-ficha-tecnica-precio-hunt1.webp | https://www.bimota.com/it/en/media_1d6ee0f41c8eeb1bee5655061c03ee08780b8f409.jpg?width=750&format=jpg&optimize=medium | Bimota (prensa oficial) | desconocida |
+| /media/bimota-tesi-h2-tera-2024-ficha-tecnica-precio-hunt2.webp | https://www.bimota.com/fr/fr/media_1fc76678028a0d4a97569834581c76f5f4a1d5bd5.jpg?width=750&format=jpg&optimize=medium | Bimota (prensa oficial) | desconocida |
+| /media/bimota-tesi-h2-tera-2024-ficha-tecnica-precio-hunt3.webp | https://www.bimota.com/it/en/media_1d07bfde48ee74b44d451dc29179703e2ff2dfcfe.jpg?width=750&format=jpg&optimize=medium | Bimota (prensa oficial) | desconocida |
+| /media/super-soco-tc50-2025-ficha-tecnica-precio-hunt1.webp | https://www.motofichas.com/images/cache/01-super-soco-tc-2019-estudio-negro-739-a.jpg | Motofichas | desconocida |
+| /media/super-soco-tc50-2025-ficha-tecnica-precio-hunt2.webp | https://www.motofichas.com/images/phocagallery/super-soco/tc/02-super-soco-tc-2019-negro-estudio.jpg | Motofichas | desconocida |
+| /media/super-soco-tc50-2025-ficha-tecnica-precio-hunt3.webp | https://www.motofichas.com/images/phocagallery/super-soco/tc/03-super-soco-tc-2019-verde-estudio.jpg | Motofichas | desconocida |
