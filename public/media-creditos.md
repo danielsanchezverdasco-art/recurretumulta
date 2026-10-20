@@ -5798,3 +5798,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/voge-cu625-2026-ficha-tecnica-precio-hunt1.webp | https://www.vogeglobal.com/wp-content/uploads/2025/07/CU625-black-l-1536x1074.webp | Voge Global (oficial) | desconocida |
 | /media/voge-cu625-2026-ficha-tecnica-precio-hunt2.webp | https://cdn.visordown.com/2025-11/voge-cu625-2026-3.jpeg?width=1600 | Visordown | desconocida |
 | /media/voge-cu625-2026-ficha-tecnica-precio-hunt3.webp | https://www.crazywheels.it/images/moto128/Voge%20CU625%202026.jpg | Crazywheels | desconocida |
+| /media/cfmoto-500sr-voom-2026-ficha-tecnica-precio-hunt1.webp | https://sgbikemart.com.sg/media/motorcycle/images/500SR_VOOM-9_kfMvWoZ.jpg | CFMoto / sgbikemart.com.sg | desconocida |
+| /media/cfmoto-500sr-voom-2026-ficha-tecnica-precio-hunt2.webp | https://www.sinbanhock.com/_next/image?url=%2Fassets%2Fmotorcycles%2Fcfmoto%2F500sr-voom.webp&w=2048&q=75 | CFMoto / sinbanhock.com | desconocida |
+| /media/cfmoto-500sr-voom-2026-ficha-tecnica-precio-hunt3.webp | https://arenamotosikal.com/wp-content/uploads/2026/03/CFMoto-500SR-Voom-8-768x512.png | Arenamotosikal | desconocida |
+| /media/chery-arrizo-5-gt-2026-precio-ficha-tecnica-hunt1.webp | https://autoreview.ru/images/gallery/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/2023/May/30/chery-arrizo5-gt-2.jpg | Autoreview | desconocida |
+| /media/chery-arrizo-5-gt-2026-precio-ficha-tecnica-hunt2.webp | https://showtime.in.ua/wp-content/uploads/2022/05/chery-anonsirovala-moshhnyj-sedan-s-dizajnom-pod-lexus-avto-novosti-ef94876.jpg | Chery (fotos de prensa) / showtime.in.ua | desconocida |
+| /media/chery-arrizo-5-gt-2026-precio-ficha-tecnica-hunt3.webp | https://avitqahu.ru/uploads/posts/2022-09/sedan-chery-arrizo-5-gt-postupil-v-prodazhu-dizajn-pod-lexus-i-moschnyj-motor-chery-6.jpg | Chery (fotos de prensa) / avitqahu.ru | desconocida |
+| /media/qjmotor-fort-125n-2026-ficha-tecnica-precio-hunt1.webp | https://www.qjak.cz/file_editor/FORT%20125%20N/02_QJMOTOR_FORT_125N_360_.jpg | QJMotor (red oficial) / qj-motor.sk | desconocida |
+| /media/qjmotor-fort-125n-2026-ficha-tecnica-precio-hunt2.webp | https://qjmotor.fr/wp-content/uploads/2025/10/FORT-125-Gray-1202x849-Top-Case-5008x3538-c-default.webp | QJMotor (web oficial) / qjmotor.fr | desconocida |
+| /media/qjmotor-fort-125n-2026-ficha-tecnica-precio-hunt3.webp | https://motox.pt/wp-content/uploads/2025/12/QJ-Motor-Fort-125N-26-1200x675.jpg | Moto X / motox.pt | desconocida |
+| /media/toyota-c-hr-plus-230-2025-precio-ficha-tecnica-hunt1.webp | https://www.massautocar.com/storage/content/image-1741924458.jpg | Toyota (fotos de prensa) / massautocar.com | desconocida |
+| /media/toyota-c-hr-plus-230-2025-precio-ficha-tecnica-hunt2.webp | https://www.massautocar.com/storage/Toyota/CH-R%2B/2025toyotac-hr04.jpg | Toyota (fotos de prensa) / massautocar.com | desconocida |
+| /media/toyota-c-hr-plus-230-2025-precio-ficha-tecnica-hunt3.webp | https://www.chasingcars.com.au/wp-content/uploads/2025/11/2026-Toyota-CH-R-Electric-front-3-4-alt.png | Chasing Cars | desconocida |
