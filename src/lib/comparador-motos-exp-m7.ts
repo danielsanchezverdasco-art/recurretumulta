@@ -14,7 +14,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "CBR600RR",
     version: "2025",
     categoria: "Deportiva",
-    precioDesde: 12700,
+    precioDesde: 13200, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 89,
     potenciaCv: 121,
     autonomiaKm: null,
@@ -27,7 +27,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "potenciaKw", "potenciaCv", "velocidadMax"],
+    aprox: ["potenciaKw", "potenciaCv", "velocidadMax"],
     pros: [
       "Vuelve la supersport de verdad: tetracilíndrico de 599 cc que estira hasta las 14.000 rpm",
       "Electrónica de superbike: IMU, ABS en curva, control de tracción HSTC, anti-wheelie y modos de motor",
@@ -36,7 +36,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       "Pantalla TFT a color con telemetría (tiempos por vuelta) y señal de frenada de emergencia ESS",
     ],
     contras: [
-      "12.700 € por una 600: la supersport más cara de su segmento",
+      "13.200 € por una 600: la supersport más cara de su segmento",
       "Postura radical de circuito: insoportable en ciudad y viajes",
       "El motor pide ir alto de vueltas: soso por debajo de 8.000 rpm",
       "Sin quickshifter de serie en la versión base",
@@ -81,7 +81,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "NT1100",
     version: "2025",
     categoria: "Turismo",
-    precioDesde: 15700,
+    precioDesde: 15700, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 73.55,
     potenciaCv: 100,
     autonomiaKm: null,
@@ -94,7 +94,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "La sport-touring más vendida de Europa: equilibrio perfecto entre comodidad y agilidad",
       "Motor de 1.084 cc con un 7 % más de par en medios en la versión 2025",
@@ -148,7 +148,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "CRF1100L Africa Twin",
     version: "2025",
     categoria: "Trail",
-    precioDesde: 14999,
+    precioDesde: 15525, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 75,
     potenciaCv: 102,
     autonomiaKm: null,
@@ -161,7 +161,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "La trail mito: 102 CV con entrega suave y par de 112 Nm desde muy abajo",
       "IMU de 6 ejes con ABS en curva, control de tracción y anti-wheelie configurables",
@@ -215,7 +215,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "XL750 Transalp",
     version: "2025",
     categoria: "Trail",
-    precioDesde: 11100,
+    precioDesde: 11100, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 67.5,
     potenciaCv: 91.8,
     autonomiaKm: null,
@@ -228,7 +228,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A (versión A2 35 kW disponible)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "El mito resucitado: la Transalp vuelve con 91,8 CV y solo 210 kg",
       "Motor bicilíndrico de 755 cc con cigüeñal a 270°: tacto y sonido adictivos",
@@ -478,7 +478,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "Rebel 1100",
     version: "2025",
     categoria: "Custom",
-    precioDesde: 11550,
+    precioDesde: 11550, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 64,
     potenciaCv: 87,
     autonomiaKm: null,
@@ -491,7 +491,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "La custom japonesa con más carácter: 87 CV y 98 Nm del motor de la Africa Twin",
       "Asiento a solo 700 mm: la custom grande más accesible para todos",
@@ -832,7 +832,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "Gold Wing",
     version: "2025",
     categoria: "Turismo",
-    precioDesde: 31500,
+    precioDesde: 31500, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 92,
     potenciaCv: 125,
     autonomiaKm: null,
@@ -845,7 +845,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "potenciaKw"],
+    aprox: ["potenciaKw"],
     pros: [
       "La reina de las touring: 1.833 cc y 125 CV de suavidad absoluta",
       "DCT de 7 velocidades: el cambio automático más refinado del mundo",
@@ -895,7 +895,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "MT-09",
     version: "2025",
     categoria: "Naked",
-    precioDesde: 11299,
+    precioDesde: 11299, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 87.5,
     potenciaCv: 119,
     autonomiaKm: null,
@@ -908,7 +908,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A (limitable a A2 35 kW)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "velocidadMax"],
+    aprox: ["velocidadMax"],
     pros: [
       "El tricilíndrico CP3 de 119 CV: el motor naked con más carácter del mercado",
       "Y-AMT: cambio automatizado opcional sin maneta de embrague",
@@ -962,7 +962,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "MT-10",
     version: "2025",
     categoria: "Naked",
-    precioDesde: 17999,
+    precioDesde: 17999, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 122,
     potenciaCv: 165.9,
     autonomiaKm: null,
@@ -975,7 +975,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "El CP4 de la R1 con 165,9 CV: la hyper naked más brutal de Yamaha",
       "IMU de 6 ejes, ABS en curva, quickshifter y control de crucero",

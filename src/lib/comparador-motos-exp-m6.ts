@@ -1816,7 +1816,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 250,
     categoria: "Trial",
-    precioDesde: 9120,
+    precioDesde: 9120, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -1829,7 +1829,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "250 2T con inyección: el equilibrio ideal del trial moderno",
       "67 kg y componentes Factory de primer nivel",
@@ -1873,7 +1873,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 125,
     categoria: "Trial",
-    precioDesde: 8500,
+    precioDesde: 9120, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -1886,7 +1886,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "125 de trial Factory: la puerta de entrada a la competición",
       "Ligera y manejable, ideal para jóvenes y pilotos ligeros",
@@ -1930,7 +1930,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 300,
     categoria: "Trial",
-    precioDesde: 8500,
+    precioDesde: null, // TRS Motorcycles no publica tarifa oficial accesible de este modelo (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -1943,7 +1943,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor 2T de 294,1 cc con bajos demoledores",
       "Solo 66 kg (68,5 con arranque eléctrico opcional)",
@@ -1953,11 +1953,12 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "TRS es la marca española del trial moderno, nacida de Jotagas"
     ],
     contras: [
+      "Sin precio oficial: TRS no publica tarifa de la One R 300, así que no mostramos ninguna cifra",
       "Sin homologación: competición pura",
       "El 300 exige técnica para no irse de las manos",
       "Mezcla al 1% con gasolina de 98 obligatoria",
       "Depósito mínimo: solo para zonas",
-      "Precio (~8.500 €) en la media-alta del trial",
+      "Componentes y planteamiento en la media-alta del trial",
       "Sin uso en carretera"
     ],
     curiosidades: [
@@ -1987,7 +1988,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 250,
     categoria: "Trial",
-    precioDesde: 8500,
+    precioDesde: null, // TRS Motorcycles no publica tarifa oficial accesible de este modelo (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -2000,7 +2001,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor 2T de 247,7 cc: dócil y preciso",
       "66 kg de peso: agilidad máxima",
@@ -2010,6 +2011,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Precio (~8.500 €) en línea con la competencia"
     ],
     contras: [
+      "Sin precio oficial: TRS no publica tarifa de la One R 250, así que no mostramos ninguna cifra",
       "Sin homologación ni etiqueta DGT",
       "El 250 se queda justo en pasos de máximo nivel",
       "Mezcla al 1% con gasolina 98",
@@ -2044,7 +2046,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 300,
     categoria: "Trial",
-    precioDesde: 9000,
+    precioDesde: null, // TRS Motorcycles no publica tarifa oficial accesible de este modelo (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -2057,7 +2059,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "La One R 300 con el acabado RR: lo máximo de TRS",
       "Componentes y detalles de competición superiores",
@@ -2067,7 +2069,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Decoración RR exclusiva"
     ],
     contras: [
-      "~9.000 €: el trial español más caro",
+      "Sin precio oficial: TRS no publica tarifa de la One RR 300, así que no mostramos ninguna cifra",
       "Las mejoras sobre la One R son sutiles para el aficionado",
       "Sin homologación",
       "Mezcla al 1% con gasolina 98",
@@ -2101,7 +2103,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 250,
     categoria: "Trial",
-    precioDesde: 8500,
+    precioDesde: null, // TRS Motorcycles no publica tarifa oficial accesible de este modelo (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -2114,7 +2116,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "El concepto trial-excursión de TRS: para salir al campo",
       "Motor 2T de 247,7 cc dócil y divertido",
@@ -2124,6 +2126,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "La forma más divertida de redescubrir el monte"
     ],
     contras: [
+      "Sin precio oficial: TRS no publica tarifa de la Xtrack 250, así que no mostramos ninguna cifra",
       "Nicho muy específico: ni trial ni trail",
       "Sin homologación para carretera abierta",
       "Mezcla 2T obligatoria",
@@ -2158,7 +2161,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 300,
     categoria: "Trial",
-    precioDesde: 9000,
+    precioDesde: null, // TRS Motorcycles no publica tarifa oficial accesible de este modelo (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -2171,7 +2174,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Arranque eléctrico de serie: adiós a la palanca en las zonas",
       "Motor 294,1 cc con la comodidad del botón",
@@ -2181,7 +2184,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Un lujo que se agradece en cada salida"
     ],
     contras: [
-      "~9.000 €: el extra del arranque se paga",
+      "Sin precio oficial: TRS no publica tarifa de la One R Electric Start, así que no mostramos ninguna cifra",
       "2,5 kg más y más complejidad eléctrica",
       "La batería añade un mantenimiento extra",
       "Sin homologación",
@@ -2215,7 +2218,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 300,
     categoria: "Trial",
-    precioDesde: 10500,
+    precioDesde: null, // Vertigo no publica tarifa oficial de este modelo (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -2228,7 +2231,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "La Vertigo más avanzada: tercera generación del modelo RS",
       "Motor 2T de 300 cc con inyección electrónica propia",
@@ -2238,7 +2241,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Para pilotos que buscan lo último en trial"
     ],
     contras: [
-      "~10.500 €: entre las trialeras más caras",
+      "Sin precio oficial: Vertigo no publica tarifa de la Nitro RS3, así que no mostramos ninguna cifra",
       "Sin homologación: competición pura",
       "Tecnología propia: menos mecánicos la conocen",
       "Repuestos específicos con plazos variables",
@@ -2269,7 +2272,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 250,
     categoria: "Trial",
-    precioDesde: 10500,
+    precioDesde: null, // Vertigo no publica tarifa oficial de este modelo (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -2282,7 +2285,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "La tecnología RS3 en la cilindrada más equilibrada",
       "250 2T con inyección: dócil y precisa",
@@ -2292,7 +2295,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "La favorita de los pilotos de nivel medio-alto"
     ],
     contras: [
-      "~10.500 €: precio premium para una 250",
+      "Sin precio oficial: Vertigo no publica tarifa de la Nitro RS3, así que no mostramos ninguna cifra",
       "Sin homologación ni etiqueta DGT",
       "Tecnología propia con servicio especializado",
       "La 300 cuesta similar y ofrece más motor",
@@ -2323,7 +2326,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 300,
     categoria: "Trial",
-    precioDesde: 9500,
+    precioDesde: null, // Vertigo no publica tarifa oficial de este modelo (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -2336,7 +2339,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "La Vertigo más accesible: puerta de entrada a la marca",
       "Motor 300 2T con el carácter Vertigo a mejor precio (~9.500 €)",
@@ -2346,6 +2349,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Base excelente para progresar en trial"
     ],
     contras: [
+      "Sin precio oficial: Vertigo no publica tarifa de la Combat Camo, así que no mostramos ninguna cifra",
       "Por debajo de la RS3 en componentes y acabados",
       "Sin homologación",
       "El 300 puede intimidar a principiantes",
@@ -2380,7 +2384,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "Dougie Lampkin 2026",
     cilindradaCc: 300,
     categoria: "Trial",
-    precioDesde: 11500,
+    precioDesde: null, // Vertigo no publica tarifa oficial de este modelo (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -2393,7 +2397,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Edición especial Dougie Lampkin: el tope de la gama Vertigo",
       "La Nitro RS3 con la preparación del 12 veces campeón del mundo",
@@ -2403,7 +2407,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Decoración y detalles únicos DL12"
     ],
     contras: [
-      "~11.500 €: la trialera más cara del mercado",
+      "Sin precio oficial: Vertigo no publica tarifa de la Nitro DL12, así que no mostramos ninguna cifra",
       "Sin homologación",
       "Las mejoras sobre la RS3 estándar son para muy pocos",
       "Repuestos de la edición con precio y plazos especiales",
