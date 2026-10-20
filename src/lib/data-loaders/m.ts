@@ -691,6 +691,11 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "minimotors-dualtron-victor-luxury-plus": () => import("../comparador-patinetes-exp-p4.ts"),
     "mv-agusta-rapido-serie-oro": () => import("../comparador-patinetes-exp-p10.ts"),
   },
+  autocaravana: {
+    "mclouis-mc4-231-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-mclouis-m1.ts"),
+    "mobilvetta-k-yacht-tekno-line-86-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-mobilvetta-m1.ts"),
+    "mooveo-tei-60fb-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-mooveo-m1.ts"),
+  },
   historia: {
     "m-hero-917-2024-precio-ficha-tecnica": () => import("../historia-lote2.ts"),
     "macbor-xr1-125-2026-ficha-tecnica-precio": () => import("../historia-lote10.ts"),

@@ -168,6 +168,11 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "evercross-h7": () => import("../comparador-patinetes-exp-p4.ts"),
     "evercross-h9": () => import("../comparador-patinetes-exp-p4.ts"),
   },
+  autocaravana: {
+    "elnagh-baron-565-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-elnagh-m1.ts"),
+    "etrusco-t-7400-sb-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-etrusco-m1.ts"),
+    "euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-euramobil-m1.ts"),
+  },
   historia: {
     "ebro-s400-2025-precio-ficha-tecnica": () => import("../historia-exp11.ts"),
     "ebro-s400-excellence-2025-precio-ficha-tecnica": () => import("../historia-exp11.ts"),

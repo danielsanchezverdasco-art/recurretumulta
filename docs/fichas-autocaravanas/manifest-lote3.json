@@ -1,0 +1,1126 @@
+{
+ "lote": "lote3",
+ "n_modelos": 50,
+ "nota": "Entrega parcial en pausa (orden usuario 19/10/2026 ~09:13 CEST). Fichas por worker con sufijo -wN; merge a ficheros canónicos por marca pendiente al reanudar.",
+ "modelos": [
+  {
+   "slug": "adria-matrix-axess-670-sl-2026-precio-ficha-tecnica",
+   "marca": "Adria",
+   "modelo": "Matrix Axess 670 SL",
+   "worker": "w1",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 1,
+   "fuentes": [
+    "https://www.adria-center.si (lista oficial de precios Adria 2026, válida hasta 01.07.2026)",
+    "Catálogo Adria 2026/2027 (dimensiones)",
+    "https://www.truckscout24.com (anuncio 'MY 26 NEW')"
+   ],
+   "curiosidad_fuente": "https://camprest.com/en/blog/motorhome-caravan-news/adria-matrix-axess-670-sl-motorhome-test",
+   "huecos": [
+    "precio null: Adria no publica PVP para España (referencias extranjeras solo en el texto con fuente)",
+    "altura 2910 mm aproximada: de la ficha del Matrix Supreme 2026 (misma carrocería), declarada como aprox.",
+    "cargaUtilKg null: la marca no la publica",
+    "consumo null: sin cifra oficial (la curiosidad cita medición independiente de Camprest: 12,4 l/100 km)"
+   ]
+  },
+  {
+   "slug": "adria-sonic-700-sl-2026-precio-ficha-tecnica",
+   "marca": "Adria",
+   "modelo": "Sonic 700 SL",
+   "worker": "w1",
+   "fichero_rama": null,
+   "sustituido": "adria-sonic-plus-i-810-scl (no existe: la gama Sonic 2026 solo incluye 600 SL, 700 DC, 700 DL y 700 SL; sin 'Plus' ni '810' según lista oficial de precios y catálogo 2026/2027)",
+   "n_fotos": 4,
+   "fotos_oficiales": 0,
+   "fuentes": [
+    "Lista oficial de precios Adria 2026 y catálogo Adria 2026/2027 (composición de la gama Sonic; dimensiones 7485 x 2320 mm)",
+    "https://www.outandaboutlive.co.uk/reviews/motorhomes/adria-sonic-plus-700-sl (curiosidad techo panorámico)"
+   ],
+   "curiosidad_fuente": "https://www.outandaboutlive.co.uk/reviews/motorhomes/adria-sonic-plus-700-sl",
+   "huecos": [
+    "precio null: Adria no publica PVP para España (referencias SI 104.826 € y PT 115.100 € solo en el texto con fuente)",
+    "altura 2950 mm aproximada: de la generación anterior con idéntica carrocería, declarada como aprox.",
+    "cargaUtilKg null: la marca no la publica",
+    "consumo null: sin cifra oficial",
+    "Fotos no oficiales: no se localizaron fotos de prensa del fabricante para el 700 SL 2026; se usan fotos de prensa de medios y de unidades del modelo exacto, todas sin marcas de agua ni entorno de concesionario"
+   ]
+  },
+  {
+   "slug": "adria-twin-sports-640-sgx-2026-precio-ficha-tecnica",
+   "marca": "Adria",
+   "modelo": "Twin Sports 640 SGX",
+   "worker": "w1",
+   "fichero_rama": null,
+   "sustituido": "adria-twin-plus-640-sgx ('Twin Plus' fue la línea 2019-2021, ya no existe; la gama Twin 2026 es Twin Supreme / Twin Sports / Twin según nota oficial adria-mobil.com)",
+   "n_fotos": 4,
+   "fotos_oficiales": 0,
+   "fuentes": [
+    "https://www.adria-mobil.com/news/new-twins-win-european-innovation-award-2025 (nota oficial: nueva gama Twin y premio)",
+    "https://www.fourgonlesite.com/fourgon-neuf/60-ans-adria-le-twin-sport-640-sgx-en-serie-speciale-anniversa (ficha técnica oficial Adria: 6,36 x 2,05 x 2,60 m, 3500/600 kg, camas, depósitos, Webasto, precio FR)",
+    "https://www.swindoncaravansgroup (verificación de unidad 'Twin Sport 640 SGX 2026')"
+   ],
+   "curiosidad_fuente": "https://www.adria-mobil.com/news/new-twins-win-european-innovation-award-2025",
+   "huecos": [
+    "precio null: Adria no publica PVP para España (referencia FR 78.800 € en catálogo, solo en el texto con fuente)",
+    "cargaUtilKg 600: publicada en la ficha técnica oficial Adria reproducida por fourgonlesite (PTAC 3500 / CU 600)",
+    "consumo null: sin cifra oficial",
+    "Fotos no oficiales: se usan fotos de prensa de medios y de unidades del modelo exacto, todas verificadas sin marcas de agua ni entorno de concesionario"
+   ]
+  },
+  {
+   "slug": "benimar-mileo-286-2026-precio-ficha-tecnica",
+   "marca": "Benimar",
+   "modelo": "Mileo 286",
+   "worker": "w2",
+   "fichero_rama": null,
+   "sustituido": "benimar-first-332 — no existe: cero resultados en catálogos oficiales, web del fabricante y prensa; se sustituye por el Mileo 286, modelo real y documentado de la misma marca",
+   "n_fotos": 4,
+   "fotos_oficiales": 0,
+   "fuentes": [
+    "https://www.caravanclub.co.uk/blog/product-and-outfit-reviews/motorhome-reviews/benimar-mileo-286/",
+    "https://www.gumtree.com/p/campervans-motorhomes/2016-benimar-mileo-286-4-berth-4-belt-habcheck-inverter/1801632439",
+    "https://www.benimar.es/en/low-profile-motorhomes/",
+    "https://www.caravantimes.co.uk/save%20for%20laters-brand/newsletter-the-all-new-benimar-mileo-from-marquis-leisure/"
+   ],
+   "curiosidad_fuente": "https://www.caravantimes.co.uk/save%20for%20laters-brand/newsletter-the-all-new-benimar-mileo-from-marquis-leisure/",
+   "huecos": [
+    "precio null: Benimar no publica tarifa oficial para España",
+    "fotos a 768 px: es la resolución disponible en el anuncio (modelo exacto, sin marcas de agua)",
+    "potencia 180 CV y cambio auto de 9 vel. corresponden a la variante 2.2 (2021+); las unidades 2016 montaban el 2.3 de 150 CV manual con MMA de 3.650 kg",
+    "cargaUtilKg 1.269 kg es la cifra de «user payload» publicada por el fabricante en su literatura (vía Caravan Club), no un cálculo"
+   ]
+  },
+  {
+   "slug": "benimar-mileo-297-2026-precio-ficha-tecnica",
+   "marca": "Benimar",
+   "modelo": "Mileo 297",
+   "worker": "w1",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 1,
+   "fuentes": [
+    "https://www.truckscout24.com (ficha de unidad 2026: 7390 x 2300 x 2890 mm, MMA 3500, Fiat Ducato 2.2 140 CV manual/auto, cama de techo eléctrica)",
+    "https://www.autoyas.com (publicación oficial de Benimar en Instagram, gama 2026)",
+    "https://www.mundovan.com (ficha de concesionario: referencia de precio 87.723 €)",
+    "http://m.motorvision.es/pdf/generados/w0157658w.pdf (cama isla 150 cm regulable en altura)"
+   ],
+   "curiosidad_fuente": "http://m.motorvision.es/pdf/generados/w0157658w.pdf",
+   "huecos": [
+    "precio null: Benimar no publica PVP en España (referencia de concesionario Mundovan 87.723 € solo en el texto con fuente)",
+    "cargaUtilKg null: la marca no la publica",
+    "consumo null: sin cifra oficial"
+   ]
+  },
+  {
+   "slug": "benimar-tessoro-440-up-2026-precio-ficha-tecnica",
+   "marca": "Benimar",
+   "modelo": "Tessoro 440 UP",
+   "worker": "w1",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 2,
+   "fuentes": [
+    "https://www.benimar.es (gama Tessoro 2027, modelo T440UP; fotos oficiales)",
+    "Catálogo oficial Benimar (PDF, agosto 2026): 'T440 UP Perfilada 6,34 m'",
+    "Instagram oficial de Benimar (motor Ford 165 CV, 4 plazas, cama eléctrica basculante, ducha independiente, frigo 150 L)",
+    "Anuncio de concesionario roulot (referencia de precio 75.595 €)"
+   ],
+   "curiosidad_fuente": "Catálogo oficial Benimar (agosto 2026) y web oficial benimar.es",
+   "huecos": [
+    "precio null: Benimar no publica PVP en España (referencia de concesionario roulot 75.595 € solo en el texto con fuente)",
+    "cargaUtilKg null: la marca no la publica",
+    "consumo null: sin cifra oficial"
+   ]
+  },
+  {
+   "slug": "burstner-elegance-i-920-g-2026-precio-ficha-tecnica",
+   "marca": "Bürstner",
+   "modelo": "Elegance I 920 G",
+   "worker": "w2",
+   "fichero_rama": null,
+   "sustituido": "burstner-aviano-i-727-g — integral descatalogado hacia 2014 sin fuente oficial disponible (solo anuncios de ocasión sin datos verificables); se sustituye por el Elegance I 920 G, integral real y documentado de la misma marca",
+   "n_fotos": 4,
+   "fotos_oficiales": 0,
+   "fuentes": [
+    "https://www.abacusmotorhomes.co.uk/vehicle/burstner-elegance-i920g-2017/pdf",
+    "https://www.motorhomedepot.com/vehicle/burstner-elegance-i920g-2022-automatic-mercedes-a-class-motorhome-for-sale"
+   ],
+   "curiosidad_fuente": "https://www.motorhomedepot.com/vehicle/burstner-elegance-i920g-2022-automatic-mercedes-a-class-motorhome-for-sale",
+   "huecos": [
+    "precio null: modelo descatalogado, sin tarifa oficial",
+    "traccion null: no declarada en la ficha consultada",
+    "potencia 150 CV según ficha 2017; las últimas unidades (2022) montaban Mercedes 170 CV automático",
+    "fotos de anuncio de ocasión del modelo exacto (no oficiales), sin marcas de agua"
+   ]
+  },
+  {
+   "slug": "burstner-ixeo-it-680-g-2026-precio-ficha-tecnica",
+   "marca": "Bürstner",
+   "modelo": "Ixeo IT 680 G",
+   "worker": "w2",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 4,
+   "fuentes": [
+    "https://www.outandaboutlive.co.uk/reviews/motorhomes/burstner-ixeo-it-680-g",
+    "https://www.abacusmotorhomes.co.uk/vehicle/burstner-ixeo-680g-2020/pdf",
+    "https://swindoncaravansgroup.com/search/details/used-burstner-ixeo-680-g-2017-mu0028/details.pdf"
+   ],
+   "curiosidad_fuente": "https://www.outandaboutlive.co.uk/reviews/motorhomes/burstner-ixeo-it-680-g",
+   "huecos": [
+    "precio null: modelo descatalogado (2018-2020), sin tarifa oficial",
+    "potenciaCv null: no publicada en las fuentes consultadas (chasis Fiat Ducato)",
+    "cotas con ligera variación según año-modelo: MY2017 6,99 m x 2,30 m / MY2020 6,90 m x 2,35 m (se consignan las del MY2020)",
+    "fotos de prensa cedidas por Bürstner a 970 px"
+   ]
+  },
+  {
+   "slug": "carado-t-338-2026-precio-ficha-tecnica",
+   "marca": "Carado",
+   "modelo": "T 338 EDITION27",
+   "worker": "w9",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 4,
+   "fuentes": [
+    "https://carado.com/es/es/autocaravanas/perfiladas/t338-ed27",
+    "https://carado.com/de/en/wls/compare/models/pdf?modelIds=3784369"
+   ],
+   "curiosidad_fuente": "https://carado.com/es/es/autocaravanas/perfiladas/t338-ed27",
+   "huecos": [
+    "cargaUtilKg null: la marca no la publica (prohibido calcularla)",
+    "consumo/par/emisiones null: no publicados por la marca",
+    "interiores: renders oficiales de la gama T338 (misma célula que la EDITION27)"
+   ]
+  },
+  {
+   "slug": "carado-v-337-2026-precio-ficha-tecnica",
+   "marca": "Carado",
+   "modelo": "V 337",
+   "worker": "w9",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 4,
+   "fuentes": [
+    "https://carado.com/es/es/autocaravanas/vans/v337",
+    "https://carado.com/de/en/wls/compare/models/pdf?modelIds=3616801",
+    "https://www.outandaboutlive.co.uk/motorhomes/news/meet-carados-slim-motorhomes-dont-sacrifice-comfort-and-practicality"
+   ],
+   "curiosidad_fuente": "https://carado.com/es/es/autocaravanas/vans/v337",
+   "huecos": [
+    "cargaUtilKg null: la marca no la publica (prohibido calcularla)",
+    "consumo/par/emisiones null: no publicados por la marca",
+    "foto exterior oficial sobre Fiat Ducato (la versión base ES es Citroën Jumper; la célula es idéntica)"
+   ]
+  },
+  {
+   "slug": "carthago-chic-c-line-i-59-xl-le-2026-precio-ficha-tecnica",
+   "marca": "Carthago",
+   "modelo": "chic c-line I 5.9 XL LE",
+   "worker": "w2",
+   "fichero_rama": null,
+   "sustituido": "carthago-chic-c-line-i-61-xl-le — denominación no verificada en la gama chic C-LINE (el «I 61 XL LE» corresponde a la chic E-LINE); se sustituye por el chic c-line I 5.9 XL LE, su equivalente XL vigente y documentado en la web oficial de Carthago",
+   "n_fotos": 4,
+   "fotos_oficiales": 0,
+   "fuentes": [
+    "https://www.carthago.com/en/motorhomes/a-class-motorhomes/chic-c-line/",
+    "https://caraworld-frontend.hst.edition-software.de/print/cw26895060-de-DE1-expose.pdf",
+    "https://www.camperis.com/camper/carthago-chic-cline-i-59-xl-le-00058065/"
+   ],
+   "curiosidad_fuente": "https://www.carthago.com/en/motorhomes/a-class-motorhomes/chic-c-line/",
+   "huecos": [
+    "precio null: Carthago no publica tarifa oficial para España (referencia: lista francesa desde ~165.900 € en versión Mercedes)",
+    "anchoMm, altoMm, pesoKg null: no publicados por el fabricante para la generación 2026",
+    "cargaUtilKg null: el fabricante no publica cifra base (depende del equipamiento)",
+    "potencia 170 CV = versión Mercedes-Benz Sprinter; la versión Fiat Ducato monta 180 CV",
+    "fotos de distribuidor de una unidad I 5.9 XL LE de generación anterior (mismo modelo y distribución; la 2026 estrena frontal «v-face» y mobiliario «Essenza»)",
+    "plazasDormir 2: camas individuales fijas; la cama basculante es opcional"
+   ]
+  },
+  {
+   "slug": "challenger-328-2026-precio-ficha-tecnica",
+   "marca": "Challenger",
+   "modelo": "328",
+   "worker": "w2",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 0,
+   "fuentes": [
+    "https://ch.challenger-motorhomes.com/pdf/7/328/de",
+    "https://ch.challenger-motorhomes.com/modell/328/",
+    "https://www.truckscout24.fr/main/search/index?search-word=challenger+p+328+etape+arctic+paket+%2F+solaranlage+%2F+4%2C1t",
+    "https://groupejean-auto.fr/fiche-technique-challenger-328/"
+   ],
+   "curiosidad_fuente": "http://camprest.com/en/blog/motorhome-caravan-news/challenger-closer-than-you-think",
+   "huecos": [
+    "precio null: Challenger no publica tarifa oficial para España",
+    "cargaUtilKg null: la marca no la publica (prohibido calcularla)",
+    "discrepancia en aguas limpias: 150 l según ficha oficial vs 105 l en anuncios de distribuidores para unidades 2026 (anotada en notas)",
+    "potencia 130 CV = versión Break manual; la Etape monta 165 CV con automático de 8 velocidades",
+    "fotos de anuncios del modelo exacto (no oficiales), sin marcas de agua, ≥1600 px"
+   ]
+  },
+  {
+   "slug": "challenger-396-2026-precio-ficha-tecnica",
+   "marca": "Challenger",
+   "modelo": "396",
+   "worker": "w3",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 3,
+   "fuentes": [
+    "https://camperonline.it/magazine/cataloghi/2019-challenger-catalogo.pdf",
+    "https://groupejean-auto.fr/fiche-technique-challenger-genesis-396/",
+    "https://www.yescapa.co.uk/campers/101199",
+    "https://www.challenger-camping-cars.fr/modele-sitemap1.xml"
+   ],
+   "curiosidad_fuente": "https://camperonline.it/magazine/cataloghi/2019-challenger-catalogo.pdf",
+   "huecos": [
+    "precioDesde null: la marca no publica PVP actual; el 396 no está en la gama 2026 (verificado en su sitemap oficial). Solo existe PVP histórico de 2018 (50.490 €).",
+    "pesoKg null: no publicado de forma verificable.",
+    "Foto exterior oficial no disponible: el fabricante no publica exteriores del 396 (fuera de gama); se usa miniatura del vídeo de presentación en feria (modelo exacto)."
+   ]
+  },
+  {
+   "slug": "chausson-630-first-line-2026-precio-ficha-tecnica",
+   "marca": "Chausson",
+   "modelo": "630 First Line",
+   "worker": "w3",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 4,
+   "fuentes": [
+    "https://www.chausson-motorhomes.com/model/630/",
+    "https://www.chausson-camping-cars.fr/modele/630/"
+   ],
+   "curiosidad_fuente": "https://www.chausson-motorhomes.com/model/630/",
+   "huecos": [
+    "Las fotos oficiales de la marca del 630 son todas interiores; no publica foto exterior del modelo en su web. Todas corresponden al floor plan exacto (el 630 Titanium 2026 comparte implantación con el 630 First Line 2025).",
+    "cargaUtilKg null: la marca no la publica."
+   ]
+  },
+  {
+   "slug": "chausson-720-etapa-2026-precio-ficha-tecnica",
+   "marca": "Chausson",
+   "modelo": "720 Etapa",
+   "worker": "w3",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 4,
+   "fuentes": [
+    "https://www.chausson-motorhomes.com/model/720/",
+    "https://www.chausson-camping-cars.fr/modele/630/",
+    "https://caraworld.de"
+   ],
+   "curiosidad_fuente": "https://caraworld.de",
+   "huecos": [
+    "precioDesde 67.490 €: es la tarifa oficial FR del 720 titanium line (base de la serie Etape); la serie especial Etape no tiene PVP separado publicado.",
+    "anchoMm, altoMm, pesoKg null: no publicados de forma verificable para la serie Etape.",
+    "Las fotos oficiales de la marca del 720 son todas interiores; no publica foto exterior del modelo en su web. Todas corresponden al floor plan exacto (el 720 Titanium 2026 comparte implantación con el 720 Etape).",
+    "cargaUtilKg null: la marca no la publica."
+   ]
+  },
+  {
+   "slug": "concorde-charisma-910-li-2026-precio-ficha-tecnica",
+   "marca": "Concorde",
+   "modelo": "Charisma 910 LI",
+   "worker": "w10",
+   "fichero_rama": null,
+   "sustituido": "concorde-charisma-890-m (layout de la generación anterior Charisma III; la gama oficial actual es 910 LI, 910 LSI, 915 LSI, 920 G...)",
+   "n_fotos": 4,
+   "fotos_oficiales": 4,
+   "fuentes": [
+    "https://www.concorde.eu/en/models/charisma/",
+    "https://www.schaffer-mobil.de/en/motorhomes/brands/concorde/charisma/",
+    "https://www.truckscout24.com/tsp/ts-209-41-667"
+   ],
+   "curiosidad_fuente": "https://www.concorde.eu/en/models/charisma/",
+   "huecos": [
+    "precioDesde null: Concorde no publica PVP (solo listas para concesionarios)",
+    "largoMm null: longitud por layout no publicada en concorde.eu; rango de gama 8,77–9,27 m",
+    "altoMm null: no publicado",
+    "cargaUtilKg null: no publicada por la marca",
+    "consumo y emisiones: no publicados"
+   ]
+  },
+  {
+   "slug": "dethleffs-just-go-t-7055-dbl-2026-precio-ficha-tecnica",
+   "marca": "Dethleffs",
+   "modelo": "Just Go T 7055 DBL",
+   "worker": "w3",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 4,
+   "fuentes": [
+    "https://www.dethleffs.de/dethleffs/01_DE/02_pdfs/00_mj26/02_wohnmobile/preisliste/de-pl-just-go-2026.pdf",
+    "https://www.dethleffs.de/wohnmobile/just-go"
+   ],
+   "curiosidad_fuente": "https://www.dethleffs.de/dethleffs/01_DE/02_pdfs/00_mj26/02_wohnmobile/preisliste/de-pl-just-go-2026.pdf",
+   "huecos": [
+    "Ninguno relevante: todos los datos técnicos y el PVP (66.999 € con IVA) proceden de la lista oficial de precios 01/2026.",
+    "cargaUtilKg null: la marca no la publica como tal."
+   ]
+  },
+  {
+   "slug": "dethleffs-trend-i-7017-eb-2026-precio-ficha-tecnica",
+   "marca": "Dethleffs",
+   "modelo": "Trend I 7017 EB",
+   "worker": "w3",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 4,
+   "fuentes": [
+    "https://www.dethleffs.de/wohnmobile/trend",
+    "https://www.accio.com/business/dethleffs-trend-t",
+    "https://www.truckscout24.es/main/search/index?search-word=dethleffs+trend+i+7017+%2Aheckbad%2Asolar%2Awr%2Adachklima%2Aahk%2A"
+   ],
+   "curiosidad_fuente": "https://www.dethleffs.de/wohnmobile/trend",
+   "huecos": [
+    "precioDesde null: la marca no publica PVP oficial del I 7017 EB (fuera de la gama 2026; sucesor: I 7057 EB). Referencia no oficial: 88.999 € según accio.com.",
+    "El modelo pertenece a la gama Trend 2020–2025 aprox.; se mantiene con nota honesta de linaje.",
+    "altoMm, pesoKg null: no publicados de forma verificable para la versión integral (no se copian los de la semi-integral).",
+    "Las fotos son oficiales de la gama Trend (la marca no publica fotos por variante individual I 7017 EB).",
+    "cargaUtilKg null: la marca no la publica."
+   ]
+  },
+  {
+   "slug": "dreamer-d62-select-2026-precio-ficha-tecnica",
+   "marca": "Dreamer",
+   "modelo": "D62 Select",
+   "worker": "w4",
+   "fichero_rama": null,
+   "sustituido": "dreamer-d62-up (asignado) -> dreamer-d62-select: el «D62 UP» no existe en la gama oficial Dreamer (verificado en dreamer-van.es el 19/10/2026; la gama solo lista D43/D43 UP, D55/D55 UP, D68/D68 UP). Sustituido por el D62 Select, modelo real de la colección 2026.",
+   "n_fotos": 0,
+   "fotos_oficiales": 0,
+   "fuentes": [
+    "https://www.dreamer-van.es/",
+    "https://www.reisemobile-staudt.de/wp-content/uploads/2025/08/DREAMER_CATA_2026_EXPORT_BD_ALL.pdf",
+    "https://ct.vanomobil.be/api/products/181/pdf/en?start=&end=",
+    "https://findmyleisurevehicle.co.uk/pdf/product/7077?signature=4279991ca4be5a05c200afa0a9a5b5303857080506284e9788351547a4577",
+    "https://www.camperonline.it/magazine/2020/05/02/camperonmatch-dreamer-select-d62-select-d68-limited/print/"
+   ],
+   "curiosidad_fuente": "https://www.reisemobile-staudt.de/wp-content/uploads/2025/08/DREAMER_CATA_2026_EXPORT_BD_ALL.pdf",
+   "huecos": [
+    "precio null: Dreamer no publica PVP oficial en España (referencia contextual: tarifa IT 2020 desde 55.300 €; distribuidor BE 2026 «desde 70.369 €»)",
+    "pesoKg null: tara no publicada por la marca para 2026",
+    "cargaUtilKg null: la marca no la publica (prohibido calcular)",
+    "0 fotos: el servicio de lectura de páginas (browser.open) y el buscador de imágenes fallaron de forma reiterada el 19/10/2026; pendiente que el coordinador aporte 4 fotos del D62 Select"
+   ]
+  },
+  {
+   "slug": "dreamer-d68-up-2026-precio-ficha-tecnica",
+   "marca": "Dreamer",
+   "modelo": "D68 UP",
+   "worker": "w4",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 4,
+   "fuentes": [
+    "https://www.dreamer-van.es/fourgon-dreamer-d68-up.php",
+    "https://www.dreamer-van.es/",
+    "https://www.truckscout24.fr/main/search/index?search-word=dreamer+select+d68+up+saphir+aufstelldach&page=2"
+   ],
+   "curiosidad_fuente": "https://www.dreamer-van.es/fourgon-dreamer-d68-up.php",
+   "huecos": [
+    "precio null: Dreamer no publica PVP oficial en España",
+    "pesoKg null: tara no publicada por la marca",
+    "cargaUtilKg null: la marca no la publica (prohibido calcular)",
+    "nota: la web oficial presenta el D68 UP como novedad de la gama 2027; ficha elaborada con los datos oficiales vigentes a 19/10/2026"
+   ]
+  },
+  {
+   "slug": "etrusco-cv-600-db-2026-precio-ficha-tecnica",
+   "marca": "Etrusco",
+   "modelo": "CV 600 DB",
+   "worker": "w4",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 0,
+   "fotos_oficiales": 0,
+   "fuentes": [
+    "https://www.etrusco.com/de/en/modeloverview?filter=semiIntegrated",
+    "https://www.etrusco.com/gb/en/press/article-2024/cv-plus",
+    "https://www.etrusco.com/it/it/stampa/articolo-2025/cv-600-sb",
+    "http://wkhtmltopdf.kohler-digital.ch/api.php?src=https://www.mobil-center.ch/print/detail/124275/etrusco-cv-600-db&dest=send&t=1789112893",
+    "https://www.truckscout24.es/main/search/index?search-word=etrusco+cv+540+db+fiat"
+   ],
+   "curiosidad_fuente": "https://www.etrusco.com/it/it/stampa/articolo-2025/cv-600-sb",
+   "huecos": [
+    "precio null: Etrusco no publica PVP oficial en España (referencia: serie CV Fiat desde 55.799 € y CV Plus desde 58.999 € en Alemania, etrusco.com)",
+    "pesoKg null: tara de 2.807 kg según distribuidor (2026), no dato oficial de marca",
+    "cargaUtilKg null: la marca no la publica (prohibido calcular)",
+    "0 fotos: el servicio de lectura de páginas y el buscador de imágenes fallaron de forma reiterada el 19/10/2026; pendiente que el coordinador aporte 4 fotos del CV 600 DB"
+   ]
+  },
+  {
+   "slug": "etrusco-i-7400-qbc-2026-precio-ficha-tecnica",
+   "marca": "Etrusco",
+   "modelo": "I 7400 QBC",
+   "worker": "w4",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 0,
+   "fotos_oficiales": 0,
+   "fuentes": [
+    "https://findmyleisurevehicle.co.uk/pdf/product/6527?signature=ddafc60dde5b001921aa9a749bba1693508385b8cf56123cd303acdafea1ea06",
+    "https://www.etrusco.com/de/en/modeloverview?filter=semiIntegrated",
+    "https://www.truckscout24.it/roulotte-camper/usato/integrato/etrusco",
+    "https://www.truckscout24.es/main/search/index?search-word=etrusco+i+7400+qbc%2C++mod.+2025%2C+4%2C4+t%2C+type+x%2C+multimed."
+   ],
+   "curiosidad_fuente": "https://findmyleisurevehicle.co.uk/pdf/product/6527?signature=ddafc60dde5b001921aa9a749bba1693508385b8cf56123cd303acdafea1ea06",
+   "huecos": [
+    "precio null: Etrusco no publica PVP oficial en España (referencia: serie I Fiat desde 78.999 € en Alemania; ficha NEC UK desde 72.290 £)",
+    "pesoKg null: tara media de 3.017 kg según distribuidor, no dato oficial de marca",
+    "cargaUtilKg null: la marca no la publica (prohibido calcular)",
+    "0 fotos: el servicio de lectura de páginas y el buscador de imágenes fallaron de forma reiterada el 19/10/2026; pendiente que el coordinador aporte 4 fotos del I 7400 QBC"
+   ]
+  },
+  {
+   "slug": "euramobil-contura-766-eb-2026-precio-ficha-tecnica",
+   "marca": "Eura Mobil",
+   "modelo": "Contura 766 EB",
+   "worker": "w5",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 1,
+   "fuentes": [
+    "https://motorhomesandcaravansltd.co.uk/product/contura-ct-766-eb-2025/",
+    "https://www.euramobil.de/category/2021/",
+    "https://www.caraworld.de/print/cw26296545-de-DE1-expose.pdf",
+    "https://suchen.mobile.de/wohnwagen/eura-mobil-contura-766-eb.html"
+   ],
+   "curiosidad_fuente": "https://www.euramobil.de/category/2021/",
+   "huecos": [
+    "precioDesde null: Eura Mobil no publica PVP oficial para España (concesionarios DE anuncian 119.800-153.579 €)",
+    "cargaUtilKg null: la marca no publica cifra de carga útil; prohibido calcularla",
+    "consumo/autonomía/par/emisiones/maletero null: no publicados por el fabricante",
+    "traccion null: no declarada en la ficha oficial",
+    "foto exterior oficial 1024x684 (<1200px): mejor disponible verificada del modelo exacto"
+   ]
+  },
+  {
+   "slug": "euramobil-profila-t-726-ef-2026-precio-ficha-tecnica",
+   "marca": "Euramobil",
+   "modelo": "Profila T 726 EF",
+   "worker": "w4",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 0,
+   "fotos_oficiales": 0,
+   "fuentes": [
+    "https://www.outandaboutlive.co.uk/motorhomes/news/buying-advice/eura-mobil-motorhomes-and-campervans-2027-essential-guide",
+    "https://suchen.mobile.de/wohnwagen/eura-mobil-profila-t.html",
+    "https://www.truckscout24.es/main/search/index?search-word=euramobil+profila+rs+730+eb+solar%2Bwechselr%2Balde%2Bfussbodenh&page=2",
+    "https://label.x.modix.de/html-vehicle-printview?source=vn&chiffre=MDX-WDDPWBMZ&locale=de&mkey=all&color=FD4F00"
+   ],
+   "curiosidad_fuente": "https://www.outandaboutlive.co.uk/motorhomes/news/buying-advice/eura-mobil-motorhomes-and-campervans-2027-essential-guide",
+   "huecos": [
+    "precio null: Eura Mobil no publica PVP oficial en España (referencia: distribuidores DE anuncian unidades 2026 Comfort Level Edition entre 129.850 y 129.950 €)",
+    "pesoKg null: tara no publicada en las fuentes consultadas",
+    "cargaUtilKg null: la marca no la publica (prohibido calcular)",
+    "discrepancia menor declarada: un anuncio anota 3 plazas para dormir frente a 4 en la mayoría de fichas; se adopta 4",
+    "0 fotos: el servicio de lectura de páginas y el buscador de imágenes fallaron de forma reiterada el 19/10/2026; pendiente que el coordinador aporte 4 fotos del Profila T 726 EF"
+   ]
+  },
+  {
+   "slug": "frankia-f-line-i-680-sg-2026-precio-ficha-tecnica",
+   "marca": "Frankia",
+   "modelo": "F-Line I 680 SG",
+   "worker": "w10",
+   "fichero_rama": null,
+   "sustituido": "frankia-f-line-i-680-qd (el layout I 680 QD no existe en el catálogo oficial vigente de la gama F-Line; los layouts de 7 m son I 680, I 680 SG y I 680 PLUS)",
+   "n_fotos": 4,
+   "fotos_oficiales": 0,
+   "fuentes": [
+    "https://findmyleisurevehicle.co.uk/pdf/product/6997?signature=629c8883237338003142ddd0af835882f68578baa201e8418fa47a3d9861472f",
+    "https://www.frankia.com/en/motorhomes-recreational-vehicles/f-line/frankia-f-line-a",
+    "https://www.outandaboutlive.co.uk/reviews/motorhomes/frankia-f-line-i-680-sg-motorhome-1",
+    "https://www.outandaboutlive.co.uk/motorhomes/reviews/frankia-together-i-740-plus-motorhome"
+   ],
+   "curiosidad_fuente": "https://www.outandaboutlive.co.uk/motorhomes/reviews/frankia-together-i-740-plus-motorhome",
+   "huecos": [
+    "precioDesde null: sin tarifa ES publicada (guía UK £130.530 en el expositor NEC 2026)",
+    "potenciaCv null: no publicada por layout (gama F-Line en Fiat Ducato 2.2 140/180 CV)",
+    "cargaUtilKg null: 1.110 kg según la ficha del expositor, no dato de marca",
+    "fotos a 1000 px (del PDF del expositor; no se localizaron originales de mayor resolución)",
+    "consumo y emisiones: no publicados"
+   ]
+  },
+  {
+   "slug": "hobby-optima-de-luxe-t70-ge-2026-precio-ficha-tecnica",
+   "marca": "Hobby",
+   "modelo": "Optima De Luxe T70 GE",
+   "worker": "w5",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 0,
+   "fuentes": [
+    "https://www.cannenburg.nl/wp-content/uploads/2019/11/2020-hobby-optima-de-luxe-t70-ge-specificaties.pdf",
+    "https://www.truckscout24.es/main/search/index?search-word=hobby+de+luxe"
+   ],
+   "curiosidad_fuente": "https://www.cannenburg.nl/wp-content/uploads/2019/11/2020-hobby-optima-de-luxe-t70-ge-specificaties.pdf",
+   "huecos": [
+    "precioDesde null: Hobby no publica PVP oficial para España",
+    "foto exterior 728x546 (<1200px): mejor exterior verificada disponible del modelo exacto (se rechazaron: foto de caravana equivocada y banner promocional del proxy)",
+    "cotas de la hoja oficial 2020; versiones 2024+ montan el Fiat 2.2 de 140 CV con cotas ligeramente distintas",
+    "consumo/autonomía/par/emisiones null: no publicados por el fabricante"
+   ]
+  },
+  {
+   "slug": "hobby-vantana-k60-ft-2026-precio-ficha-tecnica",
+   "marca": "Hobby",
+   "modelo": "Vantana K60 FT",
+   "worker": "w5",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 0,
+   "fuentes": [
+    "https://cdn.caraworld.com/bilder/e/023/420/782/cw23420782-de-ADAC-expose.pdf",
+    "https://www.truckscout24.at/main/search/index?search-word=hobby+vantana+de+luxe+k60+ft+verf%C3%BCg.%2Fsparen+sie+16.479&page=8"
+   ],
+   "curiosidad_fuente": "https://cdn.caraworld.com/bilder/e/023/420/782/cw23420782-de-ADAC-expose.pdf",
+   "huecos": [
+    "pesoKg/cargaUtilKg null: no publicados para esta versión",
+    "precioDesde null: Hobby no publica PVP oficial para España",
+    "datos de exposés de concesionario; no existe hoja oficial pública actual (gama camper histórica de Hobby)",
+    "potencia 140 CV (base documentada); el exposé ADAC indica variante de 180 CV según versión",
+    "consumo/autonomía/par/emisiones null: no publicados"
+   ]
+  },
+  {
+   "slug": "hymer-b-klasse-ml-i-780-2026-precio-ficha-tecnica",
+   "marca": "Hymer",
+   "modelo": "B-Klasse ML I 780",
+   "worker": "w5",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 1,
+   "fuentes": [
+    "https://www.hymer.com/fr/fr/camping-cars/hymer-b-klasse-masterline?utm_source=fb&utm_medium=paid&utm_campaign=120242968085870266&utm_term=120242968085880266&utm_content=120242968846940266&utm_id=120242968085880266",
+    "https://www.hymer.com/es/es/premios"
+   ],
+   "curiosidad_fuente": "https://www.hymer.com/es/es/premios",
+   "huecos": [
+    "precioDesde 165.600 € = PVP recomendado oficial Hymer para Alemania; Hymer no publica tarifa oficial para España",
+    "cargaUtilKg null: la marca no publica cifra de carga útil; prohibido calcularla",
+    "plazas 4-5 y plazasDormir 4-5 según opcionales (cama abatible, 5ª plaza); ficha con valores de serie 4/4",
+    "consumo/autonomía/par/emisiones null: no publicados por el fabricante"
+   ]
+  },
+  {
+   "slug": "hymer-free-600-campus-2026-precio-ficha-tecnica",
+   "marca": "Hymer",
+   "modelo": "Free 600 Campus",
+   "worker": "w5",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 0,
+   "fuentes": [
+    "https://WWW.HYMER.COM/gb/en/hymer-product-news-caravan-salon-duesseldorf-2019/p/46939",
+    "https://wohnmobilmarkt.adac.de/print/cw25899785-de-ADAC-expose.pdf",
+    "https://nomadaslife.es/listings/hymer-free-600-con-techo-elevable/"
+   ],
+   "curiosidad_fuente": "https://WWW.HYMER.COM/gb/en/hymer-product-news-caravan-salon-duesseldorf-2019/p/46939",
+   "huecos": [
+    "precioDesde null: edición especial de 2019 sin PVP publicado por Hymer (hoy solo mercado de ocasión)",
+    "potencia 140 CV según exposés de concesionario; la nota de prensa oficial no publica la potencia",
+    "no confundir con el Hymer Free S 600 Campus sobre Mercedes Sprinter (modelo distinto, posterior)",
+    "cargaUtilKg/consumo/par/emisiones null: no publicados"
+   ]
+  },
+  {
+   "slug": "knaus-sky-ti-700-meg-2026-precio-ficha-tecnica",
+   "marca": "Knaus",
+   "modelo": "Sky TI 700 MEG",
+   "worker": "w6",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 0,
+   "fuentes": [
+    "https://www.knaus.com (ficha técnica oficial SKY TI 700 MEG, documento de configuración Platinum Selection)",
+    "https://www.truckscout24.es (ficha versión IC-Line 2026 de distribuidor alemán: 140 CV auto, 4.000 kg, PVP 109.610 €)",
+    "https://www.alpacacamping.de/fahrzeuge/en/model/knaus-sky-ti/ (resumen técnico gama Sky TI)"
+   ],
+   "curiosidad_fuente": "https://donegalmotorhomes.com/news/knaus-at-the-motorhome-and-caravan-show-2026-nec-birmingham/",
+   "huecos": [
+    "precio null: Knaus no publica tarifa oficial en España/Alemania (referencia no oficial: 109.610 € PVP DE versión IC-Line 2026)",
+    "cargaUtilKg null: varía por configuración, no publicada de forma estable",
+    "traccion null: no declarada expresamente en la ficha consultada",
+    "fotos portada/detalle de 700 px (fotos de prensa del fabricante en baja resolución)"
+   ]
+  },
+  {
+   "slug": "knaus-van-ti-640-meg-vansation-2026-precio-ficha-tecnica",
+   "marca": "Knaus",
+   "modelo": "Van TI 640 MEG Vansation",
+   "worker": "w6",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 0,
+   "fuentes": [
+    "https://www.knaus.com/en-int/motorhomes/van-ti/vansation/640-meg/standard-equipment/ (ficha oficial de equipamiento 2026, verificada 19/10/2026)",
+    "https://www.premiummotorhomes.com/wp-content/uploads/2025/10/KNAUS-VAN-TI-VW-640-MEG-2026-VANSATION-KDD5KQT.pdf (ficha de configuración oficial 2026, variante 120 kW automática)"
+   ],
+   "curiosidad_fuente": "https://www.knaus.com/en-int/motorhomes/van-ti/vansation/640-meg/standard-equipment/",
+   "huecos": [
+    "precio null: Knaus no publica tarifa oficial en España/Alemania",
+    "traccion null: no declarada expresamente en la ficha oficial 2026",
+    "foto interior1 de 640 px (origen dealer, sin marcas de agua)"
+   ]
+  },
+  {
+   "slug": "laika-kosmo-h-1319-2026-precio-ficha-tecnica",
+   "marca": "Laika",
+   "modelo": "Kosmo H 1319",
+   "worker": "w6",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 0,
+   "fuentes": [
+    "https://www.laika.it (web oficial, gama Kosmo)",
+    "https://caraworld.hst.edition-software.de/fm/e/021/777/788/cw21777788-de-DE1-expose.pdf (ficha técnica detallada de distribuidor: dimensiones, pesos, camas, equipamiento)"
+   ],
+   "curiosidad_fuente": "https://caraworld.hst.edition-software.de/fm/e/021/777/788/cw21777788-de-DE1-expose.pdf",
+   "huecos": [
+    "precio null: Laika no publica tarifa oficial en España",
+    "pesoKg null: masa en orden de marcha no publicada de forma estable",
+    "cargaUtilKg null: no publicada por la marca",
+    "traccion null: no declarada expresamente en la ficha consultada",
+    "fotos de 640-728 px (orígenes dealer/prensa, sin marcas de agua)"
+   ]
+  },
+  {
+   "slug": "laika-kreos-h-5109-2026-precio-ficha-tecnica",
+   "marca": "Laika",
+   "modelo": "Kreos H 5109",
+   "worker": "w6",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 0,
+   "fuentes": [
+    "https://www.laika.it/it/gamma/kreos/motorhome/h-5109/ (página oficial del modelo)",
+    "https://caraworld.hst.edition-software.de/fm/e/023/418/701/cw23418701-de-DE1-expose.pdf (ficha técnica detallada de distribuidor)",
+    "https://www.campingcarlesite.com/camping-car-neuf/76298-nouvel-integral-laika-kreos-luxe-et-raffinement-sur-mercedes-sprinter-exclusivement (prensa: versión MB)"
+   ],
+   "curiosidad_fuente": "https://www.campingcarlesite.com/camping-car-neuf/76298-nouvel-integral-laika-kreos-luxe-et-raffinement-sur-mercedes-sprinter-exclusivement",
+   "huecos": [
+    "precio null: Laika no publica tarifa oficial en España (referencias no oficiales: desde 173.290 € FR / 178.500 € DE)",
+    "cargaUtilKg null: no publicada por la marca",
+    "traccion null: no declarada expresamente en la ficha consultada",
+    "fotos de 800-1024 px (orígenes dealer/prensa, sin marcas de agua)"
+   ]
+  },
+  {
+   "slug": "lmc-cruiser-740-el-2026-precio-ficha-tecnica",
+   "marca": "LMC",
+   "modelo": "Cruiser 740 EL",
+   "worker": "w10",
+   "fichero_rama": null,
+   "sustituido": "lmc-explorer-i-675-g (el Explorer I ya no figura en la gama oficial de LMC; la web del fabricante solo lista Tracer, Tourer y Cruiser)",
+   "n_fotos": 4,
+   "fotos_oficiales": 4,
+   "fuentes": [
+    "https://www.lmc-caravan.com/de/en/motorhomes/cruiser"
+   ],
+   "curiosidad_fuente": "https://www.lmc-caravan.com/de/en/motorhomes/cruiser",
+   "huecos": [
+    "precio 91.990 € = PVP recomendado en Alemania; la marca advierte que varía por país (IVA, transporte, impuestos)",
+    "cargaUtilKg null: LMC no publica carga útil como tal (prohibido calcularla)",
+    "consumo, emisiones CO2, par motor, autonomía: no publicados en la ficha oficial",
+    "plazas dormir 2 de serie (hasta 5 con techo elevable opcional)"
+   ]
+  },
+  {
+   "slug": "lmc-tourer-lift-h-664-g-2026-precio-ficha-tecnica",
+   "marca": "LMC",
+   "modelo": "Tourer Lift H 664 G",
+   "worker": "w9",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 0,
+   "fuentes": [
+    "https://camperstyle.de/lmc-tourer-lift-ford-h-664-g-wohnmobil-test-erfahrung-272322/",
+    "https://www.alpacacamping.de/fahrzeuge/es/modelo/lmc-tourer-lift-ford/"
+   ],
+   "curiosidad_fuente": "https://camperstyle.de/lmc-tourer-lift-ford-h-664-g-wohnmobil-test-erfahrung-272322/",
+   "huecos": [
+    "precio null: LMC no publica PVP oficial para España (la prensa alemana cita 83.500 € de partida en Alemania)",
+    "pesoKg: 3.035 kg según camperstyle; alpacacamping cita 3.048 kg (se usa el dato de la prueba, declarado)",
+    "cargaUtilKg null: la marca no la publica (prohibido calcularla)",
+    "consumo/par/tracción/emisiones null: no publicados por la marca (la prueba midió 9,6 l/100 km, citado en el texto)",
+    "fotos de prensa (camperstyle.de, unidad exacta del H 664 G), no oficiales de fábrica"
+   ]
+  },
+  {
+   "slug": "malibu-i-500-qb-2026-precio-ficha-tecnica",
+   "marca": "Malibu",
+   "modelo": "I 500 QB",
+   "worker": "w9",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 0,
+   "fuentes": [
+    "https://derfreistaat.de/katalogePDFs_en/malibu/malibu-motorcaravans-catalogue-2024-english.pdf",
+    "https://www.outandaboutlive.co.uk/reviews/motorhomes/malibu-i-500-qb-touring-motorhome",
+    "https://www.outandaboutlive.co.uk/motorhomes/news/buying-advice/malibu-motorhomes-2026-essential-guide"
+   ],
+   "curiosidad_fuente": "https://derfreistaat.de/katalogePDFs_en/malibu/malibu-motorcaravans-catalogue-2024-english.pdf",
+   "huecos": [
+    "precio null: Malibu no publica PVP oficial para España (la guía 2026 británica parte de 74.340 £)",
+    "cargaUtilKg null: la marca no la publica (prohibido calcularla)",
+    "consumo/par/tracción/emisiones null: no publicados por la marca",
+    "fotos de prensa (Out & About Live, unidad exacta del I 500 QB), no oficiales de fábrica",
+    "en la gama 2026 el modelo figura en el configurador oficial como «I 500 RB-QB comfort 4.2 t»"
+   ]
+  },
+  {
+   "slug": "malibu-van-diversity-640-le-k-2026-precio-ficha-tecnica",
+   "marca": "Malibu",
+   "modelo": "Van diversity 640 LE K",
+   "worker": "w9",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 4,
+   "fuentes": [
+    "https://www.malibu-carthago.com/en/camper-van/diversity-camper-van/",
+    "https://www.malibu-carthago.com/en/camper-van/diversity-camper-van/malibu-van-diversity-coupe-640-le-k-draft/",
+    "https://www.alpacacamping.de/fahrzeuge/en/model/malibu-van-diversity/"
+   ],
+   "curiosidad_fuente": "https://www.malibu-carthago.com/en/camper-van/diversity-camper-van/",
+   "huecos": [
+    "precio null: Malibu no publica PVP oficial para España",
+    "pesoKg null: la marca no publica la masa en orden de marcha (un anuncio de concesionario cita 3.144 kg, sin confirmación oficial)",
+    "cargaUtilKg null: la marca no la publica (prohibido calcularla)",
+    "consumo/par/tracción/emisiones null: no publicados por la marca",
+    "foto exterior: render oficial de la gama diversity (la marca no publica un exterior específico del 640 LE K)"
+   ]
+  },
+  {
+   "slug": "morelo-loft-82-m-2026-precio-ficha-tecnica",
+   "marca": "Morelo",
+   "modelo": "Loft 82 M",
+   "worker": "w10",
+   "fichero_rama": null,
+   "sustituido": "morelo-loft-82-lb (el layout 82 LB no figura entre los layouts oficiales actuales de la gama Loft: 78 L, 81 LB, 82 LS, 82 M, 85 LSB, 85 MB, 87 G, Alkoven)",
+   "n_fotos": 4,
+   "fotos_oficiales": 4,
+   "fuentes": [
+    "https://www.morelo-reisemobile.de/en/models/loft",
+    "https://www.alpacacamping.de/fahrzeuge/en/model/morelo-loft-liner/"
+   ],
+   "curiosidad_fuente": "https://www.morelo-reisemobile.de/en/models/loft",
+   "huecos": [
+    "largoMm null: Morelo no publica la longitud por layout; rango oficial de la gama Loft 7,99–8,39 m",
+    "altoMm null: altura total no publicada por layout",
+    "cargaUtilKg null: no publicada por la marca",
+    "precio 'desde 244.900 €' = base de la gama Loft en Alemania",
+    "consumo y emisiones: no publicados"
+   ]
+  },
+  {
+   "slug": "niesmann-bischoff-arto-88-lf-2026-precio-ficha-tecnica",
+   "marca": "Niesmann+Bischoff",
+   "modelo": "Arto 88 LF",
+   "worker": "w6",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 2,
+   "fuentes": [
+    "https://niesmann-bischoff-liner.com/fileadmin/redakteure/downloads/Daten_Preise_2026/niesmann-bischoff-arto-preisliste-DE.pdf (lista oficial de precios y datos Arto, enero 2026)",
+    "https://www.niesmann-bischoff.com/de/bilder/ (galería oficial de la marca)",
+    "https://tourstory.de/arto-88-niesmann-bischoff-liner-sprinter-residenz/ (prueba especializada: primer Arto sobre Sprinter)",
+    "https://www.camperonline.it/magazine/2018/12/05/niesmannbischoff-arto-88-lf/print/ (prueba del Arto 88 LF)"
+   ],
+   "curiosidad_fuente": "https://tourstory.de/arto-88-niesmann-bischoff-liner-sprinter-residenz/",
+   "huecos": [
+    "precio null: la marca no publica tarifa «desde» oficial para España (referencia: PVP fabricante 345.829 € en unidad configurada, distribuidor AT)",
+    "pesoKg 4500 aprox.: cifra aproximada de prensa especializada, no ficha oficial exacta",
+    "cargaUtilKg null: no publicada por la marca",
+    "traccion null: no declarada expresamente en la ficha consultada"
+   ]
+  },
+  {
+   "slug": "pilote-atlas-a696g-2026-precio-ficha-tecnica",
+   "marca": "Pilote",
+   "modelo": "Atlas A696G",
+   "worker": "w10",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 0,
+   "fuentes": [
+    "https://www.pilote-motorhome.uk/motorhomes/compact-low-profile/",
+    "https://www.outandaboutlive.co.uk/motorhomes/news/pilote-essential-guide-2024",
+    "https://www.outandaboutlive.co.uk/reviews/motorhomes/pilote-atlas-a696g-low-profile-motorhome"
+   ],
+   "curiosidad_fuente": "https://www.pilote-motorhome.uk/motorhomes/compact-low-profile/",
+   "huecos": [
+    "precioDesde null: sin tarifa ES publicada (en UK partía de £84.500-85.000 en 2024)",
+    "altoMm null: altura total no publicada para este layout",
+    "cargaUtilKg null: 485 kg según la prensa (MMM), no dato de marca",
+    "consumo y emisiones: no publicados",
+    "fotos marcadas no oficiales: son imágenes de marketing de Pilote del A696G exacto, servidas desde el anuncio verificado de una unidad 2024 (la web oficial usa URLs temporales)"
+   ]
+  },
+  {
+   "slug": "pilote-p720fgj-evidence-2026-precio-ficha-tecnica",
+   "marca": "Pilote",
+   "modelo": "P720FGJ Evidence",
+   "worker": "w7",
+   "fichero_rama": null,
+   "sustituido": "pilote-p726fgj-evidence: el modelo asignado ya no figura en el catálogo oficial vigente de Pilote (su página devuelve 404; la gama Evidence actual la forman P690D, P720FC, P720FGJ, P740FC y P740FGJ). Sustituido por el P720FGJ Evidence, misma familia Pacific Evidence y mismo esquema (salón face-face + camas gemelas sobre garaje), con ficha oficial completa.",
+   "n_fotos": 4,
+   "fotos_oficiales": 0,
+   "fuentes": [
+    "https://www.pilote.fr/profile/p720fgj-evidence/",
+    "https://www.pilote.fr/camping-cars/camping-car-evidence/",
+    "https://www.pilote.fr/camping-cars/profiles/"
+   ],
+   "curiosidad_fuente": "https://www.pilote.fr/camping-cars/camping-car-evidence/",
+   "huecos": [
+    "precio null: Pilote no publica PVP oficial en España",
+    "traccion/consumo/par null: la marca no los declara en la ficha del modelo",
+    "interior1 procede de un P720FGJ Selection 2026 (misma implantación, distinto acabado)"
+   ]
+  },
+  {
+   "slug": "pilote-vega-v630j-2026-precio-ficha-tecnica",
+   "marca": "Pilote",
+   "modelo": "Vega V630J",
+   "worker": "w7",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 2,
+   "fuentes": [
+    "https://www.pilote-motorhome.uk/panel-van/v630j/",
+    "https://www.outandaboutlive.co.uk/campervans/reviews/pilote-vega-v630j-campervan",
+    "https://tenbytourers.co.uk/caravans/motorhomes/for-sale/pilote-v630j-manual-2026-citroen-relay-van-vega-conversion-3-berth-fixed-end-double-bed-single-beds-grey/"
+   ],
+   "curiosidad_fuente": "https://www.outandaboutlive.co.uk/campervans/reviews/pilote-vega-v630j-campervan",
+   "huecos": [
+    "precio null: Pilote no publica PVP oficial en España",
+    "foto de portada de 630x420 px: es la foto de prensa oficial de Pilote, la de mayor tamaño verificable encontrada"
+   ]
+  },
+  {
+   "slug": "possl-summit-540-2026-precio-ficha-tecnica",
+   "marca": "Pössl",
+   "modelo": "Summit 540",
+   "worker": "w7",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 1,
+   "fuentes": [
+    "https://www.truckscout24.com/campervans-motorhomes-caravans/used/all/poessl?page=3",
+    "https://www.truckscout24.com/campervans-motorhomes-caravans/used/all/poessl?page=2",
+    "https://www.alpacacamping.de/fahrzeuge/en/brands/poessl/"
+   ],
+   "curiosidad_fuente": "https://www.truckscout24.com/campervans-motorhomes-caravans/used/all/poessl?page=3",
+   "huecos": [
+    "precio null: Pössl no publica PVP oficial en España",
+    "cargaUtilKg null: la marca no publica la carga útil oficial",
+    "altura 2.580 mm (Fiat) / 2.630 mm (Citroën 2026) según base; se consigna 2.580 mm",
+    "web oficial de Pössl (poessl-freizeit.de) sin respuesta durante la verificación por fallo de red; datos de documentaciones de distribuidores de unidades nuevas 2026",
+    "foto de portada: recortada la franja inferior con el rótulo del concesionario"
+   ]
+  },
+  {
+   "slug": "possl-trenta-600-r-2026-precio-ficha-tecnica",
+   "marca": "Pössl",
+   "modelo": "Trenta 600 R",
+   "worker": "w7",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 0,
+   "fuentes": [
+    "https://cdn.caraworld.com/bilder/e/024/454/253/cw24454253-de-DE1-expose.pdf",
+    "https://www.truckscout24.fr/main/search/index?search-word=p%C3%B6ssl+campster+%7C2026%7Cabstandstempomat%7Cahk%7C",
+    "https://www.alpacacamping.de/fahrzeuge/en/brands/poessl/"
+   ],
+   "curiosidad_fuente": "https://www.truckscout24.fr/main/search/index?search-word=p%C3%B6ssl+trenta+540+r+%2A+mega+preisvorteil%2A+radio%2Fmarkise",
+   "huecos": [
+    "precio null: Pössl no publica PVP oficial en España (el exposé alemán indica 71.390 € de distribuidor, no oficial)",
+    "cargaUtilKg null: la marca no publica la carga útil oficial",
+    "web oficial de Pössl (poessl-freizeit.de) sin respuesta durante la verificación por fallo de red"
+   ]
+  },
+  {
+   "slug": "rapido-896f-2026-precio-ficha-tecnica",
+   "marca": "Rapido",
+   "modelo": "896F",
+   "worker": "w7",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 1,
+   "fuentes": [
+    "https://www.feurs.ypocamp.fr/sites/default/files/node/annonce/field_pdf_vehicule/mb84247.pdf",
+    "https://www.rapido-autocaravana.es/distributeur-camping-cars-rapido.php/360-2024/666F/360-2024/V55/360-2025/I96M/360-2025/V65-XL/autocaravana_integraux_serie-8f_896f.chtml",
+    "https://www.alpacacamping.de/fahrzeuge/en/model/rapido-8f/",
+    "https://nzmcd.co.nz/reviews/motorhomes/rapido-8094df-8096-review/"
+   ],
+   "curiosidad_fuente": "https://nzmcd.co.nz/reviews/motorhomes/rapido-8094df-8096-review/",
+   "huecos": [
+    "precio null: Rapido no publica PVP oficial en España (la ficha del distribuidor parte de 85.360 €, no oficial)",
+    "cargaUtilKg null: la marca no la publica oficialmente (el distribuidor indica 400 kg, no oficial)",
+    "rapido.fr no indexa página del 896F en la colección vigente; datos de la documentación 2026 de la red de distribuidores"
+   ]
+  },
+  {
+   "slug": "rapido-c55-2026-precio-ficha-tecnica",
+   "marca": "Rapido",
+   "modelo": "C55",
+   "worker": "w8",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 2,
+   "fuentes": [
+    "https://www.rapido-camping-car.fr/sites/fin/rapido_nos-conseils_faire-le-bon-choix-de-camping-car_les-avantages-d-un-camping-car-profile.phtml",
+    "https://rando-moto.be/rapido-2025-le-point-sur-la-gamme-et-les-prix-du-neuf/",
+    "https://espritcampingcar.com/nouveaute-2021-rapido-lance-sa-gamme-compacte-la-serie-c/",
+    "https://camperlife.it/notizie/anteprime-veicoli-2021-il-semintegrale-secondo-rapido.html",
+    "https://www.alpacacamping.de/fahrzeuge/en/model/rapido-c-semi-integrated/",
+    "http://www.outandaboutlive.co.uk/reviews/motorhomes/rapido-c55-low-profile-motorhome"
+   ],
+   "curiosidad_fuente": "https://espritcampingcar.com/nouveaute-2021-rapido-lance-sa-gamme-compacte-la-serie-c/",
+   "huecos": [
+    "precio null: Rapido no publica tarifa oficial en abierto; la red FR anunciaba 2025 desde ~74.200 € (estándar) / ~79.100 € (Night Edition), citado en texto con fuente",
+    "pesoKg null: masa en orden de marcha no publicada por la marca",
+    "cargaUtilKg null: no publicada; cálculo prohibido",
+    "capacidades de agua null: no verificadas en fuente oficial para el perfilado",
+    "traccion null: no declarada por la marca en la documentación consultada",
+    "consumo/par/emisiones null: no publicados"
+   ]
+  },
+  {
+   "slug": "roller-team-kronos-294-tl-2026-precio-ficha-tecnica",
+   "marca": "Roller Team",
+   "modelo": "Kronos 294 TL",
+   "worker": "w8",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 1,
+   "fuentes": [
+    "https://www.rollerteam.com/fr/tipologia/profile/kronos-294-p-fit/",
+    "https://www.clasf.es/roller-team-295mcontinental-20-279m-en-espa%C3%B1a-40619156/",
+    "https://www.lalbacaravaning.com/espanol-en-stock-roller-team-kronos-274tl-y-294tl-2021/?lang=es",
+    "https://www.truckscout24.es/main/search/index?search-word=roller+team+294+tl+zefiro+advance"
+   ],
+   "curiosidad_fuente": "https://www.truckscout24.es/main/search/index?search-word=roller+team+294+tl+zefiro+advance",
+   "huecos": [
+    "precio null: sin tarifa oficial; red ES anuncia ~67.500-81.000 € según equipamiento, citado en texto",
+    "anchoMm/altoMm/pesoKg null: no verificados en fuente oficial (no se asume el del 274 TL)",
+    "cargaUtilKg null: no publicada; cálculo prohibido",
+    "traccion/consumo/emisiones null: no publicados",
+    "nomenclatura: la web oficial lo lista como 'Kronos 294 P Fit'; en ES se vende como '294 TL' (anotado en ficha)"
+   ]
+  },
+  {
+   "slug": "roller-team-zefiro-675-2026-precio-ficha-tecnica",
+   "marca": "Roller Team",
+   "modelo": "Zefiro 675",
+   "worker": "w8",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 2,
+   "fuentes": [
+    "https://www.rollerteammotorhomes.co.uk/tipologia/over-cab/zefiro-675/",
+    "https://findmyleisurevehicle.co.uk/pdf/product/4188?signature=7193ff5c70e2113d5016000f235209d16278adf20e928653c0cea5a1e1f5f418",
+    "https://www.caravanclub.co.uk/whats-on/awards/motorhome-design-awards/Roller-Team/",
+    "https://www.camplify.co.uk/rv/12610",
+    "https://mckinneycompetitions.com/competition/rollerteam-zefiro-675-or-45-000"
+   ],
+   "curiosidad_fuente": "https://mckinneycompetitions.com/competition/rollerteam-zefiro-675-or-45-000",
+   "huecos": [
+    "precio null: sin tarifa oficial para España; en UK desde £64.995 (fuentes citadas), no comparable",
+    "cargaUtilKg null: no publicada; cálculo prohibido",
+    "traccion null: no declarada por la marca en la documentación consultada",
+    "consumo/par/emisiones null: no publicados",
+    "gama UK: en España no hay red oficial de esta gama; se anota en la ficha"
+   ]
+  },
+  {
+   "slug": "westfalia-columbus-640-e-2026-precio-ficha-tecnica",
+   "marca": "Westfalia",
+   "modelo": "Columbus 640 E",
+   "worker": "w8",
+   "fichero_rama": null,
+   "sustituido": "westfalia-columbus-641-e",
+   "n_fotos": 4,
+   "fotos_oficiales": 1,
+   "fuentes": [
+    "https://westfalia-mobil.com/en/motorhomes/columbus-600-e/",
+    "https://www.alpacacamping.de/fahrzeuge/en/model/westfalia-columbus/",
+    "https://vanlifemag.de/westfalia-columbus-640-e-freiheit-im-grossen-vanformat-pur/",
+    "https://www.outandaboutlive.co.uk/campervans/news/westfalia-launches-compact-fixed-bed-camper-2026"
+   ],
+   "curiosidad_fuente": "https://westfalia-mobil.com/en/motorhomes/columbus-600-e/",
+   "huecos": [
+    "SUSTITUCIÓN: 'Columbus 641 E' no existe en la gama oficial 2026 (denominación de 2015); sustituido por 'Columbus 640 E', el equivalente actual con camas gemelas",
+    "precio null: Westfalia no publica PVP oficial",
+    "cargaUtilKg null: no publicada; cálculo prohibido",
+    "traccion/consumo/par/emisiones null: no publicados",
+    "motor: 120 CV de serie según web oficial; 140 CV según alpacacamping.de (anotado en ficha)"
+   ]
+  },
+  {
+   "slug": "westfalia-james-cook-ad-190-2026-precio-ficha-tecnica",
+   "marca": "Westfalia",
+   "modelo": "James Cook AD 190",
+   "worker": "w8",
+   "fichero_rama": null,
+   "sustituido": null,
+   "n_fotos": 4,
+   "fotos_oficiales": 3,
+   "fuentes": [
+    "https://westfalia-mobil.com/wp-content/uploads/2025/08/CATALOGUE_WESTFALIA_12P_JAMES-COOK_EN_WEB_2026.pdf",
+    "https://www.outandaboutlive.co.uk/motorhomes/news/westfalia-releases-details-of-all-new-james-cook-campervan",
+    "https://www.spaceroofs.co.uk/blog/a-look-at-westfalia-roofs",
+    "https://cdn.caraworld.com/bilder/e/020/839/162/cw20839162-de-DE1-expose.pdf",
+    "https://www.alpacacamping.de/fahrzeuge/en/model/westfalia-james-cook/",
+    "https://suchen.mobile.de/wohnwagen/westfalia-james-cook.html?lang=en"
+   ],
+   "curiosidad_fuente": "https://www.outandaboutlive.co.uk/motorhomes/news/westfalia-releases-details-of-all-new-james-cook-campervan",
+   "huecos": [
+    "precio null: Westfalia no publica PVP; mercado DE anuncia AD nuevos 2026 entre ~99.990 y ~149.900 €, citado en texto",
+    "cargaUtilKg null: no publicada; cálculo prohibido",
+    "altoMm 2920: del exposé de la variante AD 190 (no del catálogo base, que da varias alturas según versión); anotado",
+    "consumo/par/emisiones null: no publicados",
+    "carnet C1: MMA 4.100 kg en la versión Premium/190 CV (anotado en ficha)"
+   ]
+  }
+ ]
+}

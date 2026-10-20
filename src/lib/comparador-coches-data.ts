@@ -184,7 +184,7 @@ export interface CocheComparador {
   altoMm: number | null;
   pesoKg: number | null;
   mmaKg?: number | null;               // masa máxima autorizada (19/10/2026 campers: obligatoria si hay fuente)
-  carnetNecesario?: "B" | "B96" | "BE" | "C1" | null; // carnet requerido según MMA (19/10/2026)
+  carnetNecesario?: "B" | "B96" | "BE" | "C1" | "C" | null; // carnet requerido según MMA (19/10/2026; "C" añadido 19/10/2026: hay fichas con MMA>7.500 que lo requieren)
   cargaUtilKg?: number | null;         // carga útil: SOLO con fuente, nunca calculada (19/10/2026)
   consumo: number | null;            // WLTP
   consumoUnidad: string | null;      // "kWh/100 km" | "l/100 km"

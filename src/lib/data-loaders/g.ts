@@ -208,6 +208,10 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "gotrax-xr-elite": () => import("../comparador-patinetes-exp-p9.ts"),
     "gotrax-xr-ultra": () => import("../comparador-patinetes-exp-p9.ts"),
   },
+  autocaravana: {
+    "giottiline-siena-322-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-giottiline-m1.ts"),
+    "globecar-globescout-plus-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-globecar-m1.ts"),
+  },
   historia: {
     "gac-aion-rt-2025-precio-ficha-tecnica": () => import("../historia-lote2.ts"),
     "gac-emkoo-2025-precio-ficha-tecnica": () => import("../historia-lote1.ts"),

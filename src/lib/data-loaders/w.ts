@@ -99,6 +99,10 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "westfalia-sven-hedin-2026-precio-ficha-tecnica": () => import("../comparador-campers-westfalia.ts"),
     "westfalia-sven-hedin-man-tge-2026-precio-ficha-tecnica": () => import("../comparador-campers-man-ford.ts"),
   },
+  autocaravana: {
+    "weinsberg-carabus-grey-edition-fire-600-mq-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-weinsberg-m1.ts"),
+    "westfalia-columbus-600d-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-westfalia-m1.ts"),
+  },
   historia: {
     "wey-03-2024-precio-ficha-tecnica": () => import("../historia-modelos.ts"),
     "wey-05-2024-precio-ficha-tecnica": () => import("../historia-modelos.ts"),

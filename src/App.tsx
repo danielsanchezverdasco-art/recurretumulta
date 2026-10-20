@@ -62,6 +62,15 @@ const FichasTecnicasPage = lazy(() => import("./pages/FichasTecnicas.tsx"));
 const MotosFichaPage = lazy(() => import("./pages/MotosFicha.tsx"));
 const ComparadorPatinetesPage = lazy(() => import("./pages/ComparadorPatinetes.tsx"));
 const PatinetesFichaPage = lazy(() => import("./pages/PatinetesFicha.tsx"));
+// 19/10/2026 (router 5/6): índices y fichas de autocaravanas + índice de radares
+// (la ruta radares/:id ya la registró el agente de páginas). Lazy para no
+// engordar el chunk inicial.
+const AutocaravanasIndexPage = lazy(() => import("./pages/AutocaravanasIndex.tsx"));
+const AutocaravanasFichaPage = lazy(() => import("./pages/AutocaravanasFicha.tsx"));
+// 19/10/2026 (campers 7/9): índice y fichas de campers (/campers/ y /campers/<slug>/).
+const CampersIndexPage = lazy(() => import("./pages/CampersIndex.tsx"));
+const CampersFichaPage = lazy(() => import("./pages/CampersFicha.tsx"));
+const RadaresIndexPage = lazy(() => import("./pages/RadaresIndex.tsx"));
 const MasVendidosPage = lazy(() => import("./pages/MasVendidos.tsx"));
 const RankingsPage = lazy(() => import("./pages/Rankings.tsx"));
 const RankingsIndexPage = lazy(() =>
@@ -85,6 +94,7 @@ const GlosarioMultaPage = lazy(() => import("./pages/GlosarioMulta.tsx"));
 const MetodologiaPage = lazy(() => import("./pages/Metodologia.tsx"));
 const PoliticaEditorialPage = lazy(() => import("./pages/PoliticaEditorial.tsx"));
 const GuiaRadaresPage = lazy(() => import("./pages/guias/radares.tsx"));
+const RadarPage = lazy(() => import("./pages/RadarPage.tsx"));
 const GuiaZbePage = lazy(() => import("./pages/guias/zbe.tsx"));
 const GuiaPrescripcionPage = lazy(() => import("./pages/guias/prescripcion.tsx"));
 const GuiaViciosFormaPage = lazy(() => import("./pages/guias/vicios-forma.tsx"));
@@ -169,6 +179,13 @@ function ContentRoutes() {
       <Route path="comparador-patinetes" element={<ComparadorPatinetesPage />} />
       <Route path="comparador/mas-vendidos" element={<MasVendidosPage />} />
       <Route path="patinetes/:slug" element={<PatinetesFichaPage />} />
+      {/* 19/10/2026 (router 5/6): autocaravanas y radares, junto a las fichas */}
+      <Route path="autocaravanas" element={<AutocaravanasIndexPage />} />
+      <Route path="autocaravanas/:slug" element={<AutocaravanasFichaPage />} />
+      {/* 19/10/2026 (campers 7/9): campers, junto a las autocaravanas */}
+      <Route path="campers" element={<CampersIndexPage />} />
+      <Route path="campers/:slug" element={<CampersFichaPage />} />
+      <Route path="radares" element={<RadaresIndexPage />} />
       <Route path="rankings" element={<RankingsIndexPage />} />
       <Route path="rankings/:slug" element={<RankingsPage />} />
       <Route path="calendario-lanzamientos" element={<Navigate to="/calendario-lanzamientos-2026-2027/" replace />} />
@@ -190,6 +207,7 @@ function ContentRoutes() {
       <Route path="metodologia" element={<MetodologiaPage />} />
       <Route path="politica-editorial" element={<PoliticaEditorialPage />} />
       <Route path="guias/radares" element={<GuiaRadaresPage />} />
+      <Route path="radares/:id" element={<RadarPage />} />
       <Route path="guias/zbe" element={<GuiaZbePage />} />
       <Route path="guias/prescripcion" element={<GuiaPrescripcionPage />} />
       <Route path="guias/vicios-forma" element={<GuiaViciosFormaPage />} />

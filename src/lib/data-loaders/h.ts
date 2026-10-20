@@ -626,6 +626,12 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "hymer-free-s-600-2026-precio-ficha-tecnica": () => import("../comparador-campers-hymer.ts"),
     "hymer-grand-canyon-s-2026-precio-ficha-tecnica": () => import("../comparador-campers-sprinter.ts"),
   },
+  autocaravana: {
+    "hobby-optima-ontour-edition-f-v65-ge-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-hobby-m1.ts"),
+    "hymer-b-mc-i-600-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-hymer-m1.ts"),
+    "hymer-grand-canyon-s-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-hymer-m1.ts"),
+    "hymer-ml-t-580-4x4-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-hymer-m1.ts"),
+  },
   historia: {
     "haima-7x-2026-precio-ficha-tecnica": () => import("../historia-lote6.ts"),
     "haima-8s-2026-precio-ficha-tecnica": () => import("../historia-lote6.ts"),

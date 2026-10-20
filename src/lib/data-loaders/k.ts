@@ -531,6 +531,10 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "kukirin-m5-pro": () => import("../comparador-patinetes-exp-p3.ts"),
     "kukirin-s1-max": () => import("../comparador-patinetes-exp-p3.ts"),
   },
+  autocaravana: {
+    "knaus-boxlife-600-mq-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-knaus-m1.ts"),
+    "knaus-sky-ti-650-meg-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-knaus-m1.ts"),
+  },
   historia: {
     "kaiyi-e5-2024-precio-ficha-tecnica": () => import("../historia-lote2.ts"),
     "kaiyi-kunlun-2026-precio-ficha-tecnica": () => import("../historia-lote6.ts"),

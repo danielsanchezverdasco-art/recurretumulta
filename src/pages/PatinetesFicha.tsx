@@ -1,6 +1,7 @@
 import { lazy, Suspense, useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import CreditoFoto from "@/components/CreditoFoto.tsx";
+import AnalisisEditorial from "@/components/AnalisisEditorial.tsx";
 import { ANALISIS_PATINETES } from "@/lib/analisis-slugs.generated";
 import { hrefDesdeBlog } from "@/lib/blog-redir.generated";
 import {
@@ -464,6 +465,9 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
           </section>
           </Suspense>
         )}
+
+        {/* ── Análisis editorial único por ficha (estándar AdSense 2026-10-19) ── */}
+        <AnalisisEditorial slug={slug} />
 
         {(patinete.galeria?.length ?? 0) > 0 && (
           <Suspense fallback={null}>

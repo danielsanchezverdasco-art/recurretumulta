@@ -24,10 +24,13 @@ import {
   PATINETES_PUBLICADOS,
   type PatineteComparador,
 } from "@/lib/comparador-patinetes-data.ts";
+// Autocaravanas y campers: índice consolidado (src/lib/autocaravanas/index.ts)
+import { AUTOCARAVANAS } from "@/lib/autocaravanas";
+import type { Autocaravana } from "@/lib/autocaravanas-tipos.ts";
 
-// ── Normalización: los tres catálogos a una tarjeta común ────────────────────
+// ── Normalización: los cinco catálogos a una tarjeta común ────────────────────
 type FichaCard = {
-  kind: "coche" | "moto" | "patinete";
+  kind: "coche" | "moto" | "patinete" | "autocaravana" | "camper";
   id: string;
   marca: string;
   modelo: string;
@@ -147,17 +150,69 @@ function patineteACard(p: PatineteComparador): FichaCard {
   };
 }
 
+// Etiquetas de carrocería para autocaravanas/campers (mismo criterio que
+// el hub /autocaravanas/: pestaña "Campers" <=> tipo === "camper").
+const ETIQUETA_TIPO_AUTO: Record<string, string> = {
+  camper: "Camper",
+  perfilada: "Perfilada",
+  integral: "Integral",
+  capuchina: "Capuchina",
+};
+
+const fmtLargo = (mm: number | null) =>
+  mm == null ? "—" : `${(mm / 1000).toFixed(2).replace(".", ",")} m`;
+
+function autocaravanaACard(a: Autocaravana): FichaCard {
+  const esCamper = a.tipo === "camper";
+  return {
+    kind: esCamper ? "camper" : "autocaravana",
+    id: a.id,
+    marca: a.marca,
+    modelo: a.modelo,
+    nombreBusqueda: `${a.marca} ${a.modelo}`,
+    ruta: esCamper ? `/campers/${a.id}/` : `/autocaravanas/${a.id}/`,
+    foto: a.imagenOficial || a.imagen || null,
+    fotoAlt: `${a.marca} ${a.modelo}`,
+    precio: a.precioDesde,
+    badge: ETIQUETA_TIPO_AUTO[a.tipo] ?? a.tipo,
+    etiquetaDgt: a.etiquetaDgt,
+    specs: [
+      { v: fmtLargo(a.largoMm), l: "largo" },
+      { v: a.plazasDormir != null ? String(a.plazasDormir) : "—", l: "plazas dormir" },
+      { v: a.carnetNecesario ?? "—", l: "carnet" },
+    ],
+    detalles: [
+      { l: "Potencia", v: fmtNum(a.potenciaCv, "CV") },
+      { l: "MMA", v: fmtNum(a.mmaKg, "kg") },
+      { l: "Carga útil", v: fmtNum(a.cargaUtilKg ?? null, "kg") },
+      { l: "Plazas", v: a.plazas != null ? String(a.plazas) : "—" },
+      { l: "Vel. máx.", v: fmtNum(a.velocidadMax, "km/h") },
+      { l: "Consumo", v: a.consumo != null ? `${String(a.consumo).replace(".", ",")} ${a.consumoUnidad ?? ""}`.trim() : "—" },
+      { l: "Tracción", v: a.traccion ?? "—" },
+      { l: "Emisiones", v: fmtNum(a.emisionesCo2, "g/km") },
+      { l: "Ancho", v: fmtLargo(a.anchoMm) },
+      { l: "Alto", v: fmtLargo(a.altoMm) },
+      { l: "Peso", v: fmtNum(a.pesoKg, "kg") },
+    ],
+    autonomiaKm: null,
+    certificadoDgt: null,
+  };
+}
+
 const TODAS: FichaCard[] = [
   ...COCHES_COMPARADOR.map(cocheACard),
   ...MOTOS_PUBLICADAS.map(motoACard),
   ...PATINETES_PUBLICADOS.map(patineteACard),
+  ...AUTOCARAVANAS.map(autocaravanaACard),
 ];
 
-type Tab = "coche" | "moto" | "patinete";
+type Tab = "coche" | "moto" | "patinete" | "autocaravana" | "camper";
 const TABS: Array<{ id: Tab; label: string; plural: string }> = [
   { id: "coche", label: "Coches", plural: "coches" },
   { id: "moto", label: "Motos", plural: "motos" },
   { id: "patinete", label: "Patinetes", plural: "patinetes" },
+  { id: "autocaravana", label: "Autocaravanas", plural: "autocaravanas" },
+  { id: "camper", label: "Campers", plural: "campers" },
 ];
 
 const SELECT_CLASE =
@@ -307,9 +362,9 @@ const jsonLd = {
     {
       "@type": "CollectionPage",
       "@id": "https://recurretumulta.online/fichas-tecnicas#pagina",
-      name: "Fichas técnicas de coches, motos y patinetes 2026",
+      name: "Fichas técnicas de coches, motos, patinetes, autocaravanas y campers 2026",
       description:
-        "Índice de fichas técnicas con buscador y filtros: precio, potencia, autonomía y etiqueta DGT de cientos de modelos 2024-2026.",
+        "Índice de fichas técnicas con buscador y filtros: precio, potencia, autonomía y etiqueta DGT de cientos de modelos 2024-2026, entre coches, motos, patinetes, autocaravanas y campers.",
       url: "https://recurretumulta.online/fichas-tecnicas",
       inLanguage: "es-ES",
     },
@@ -334,9 +389,9 @@ const jsonLd = {
 
 export default function FichasTecnicasPage() {
   useSeo({
-    title: "Fichas técnicas: coches, motos y patinetes",
+    title: "Fichas técnicas: coches, motos, patinetes, autocaravanas y campers",
     description:
-      "Todas las fichas técnicas en un solo lugar: busca por marca y modelo, filtra por precio, autonomía y etiqueta DGT, y abre la ficha completa con datos verificados.",
+      "Todas las fichas técnicas en un solo lugar: coches, motos, patinetes, autocaravanas y campers. Busca por marca y modelo, filtra por precio, autonomía y etiqueta DGT, y abre la ficha completa con datos verificados.",
     canonical: "/fichas-tecnicas",
     schema: jsonLd,
   });
@@ -467,7 +522,7 @@ export default function FichasTecnicasPage() {
       </div>
 
       <main className="mx-auto max-w-6xl px-4 pb-24 pt-6 sm:px-6">
-        {/* ── Pestañas Coches / Motos / Patinetes ── */}
+        {/* ── Pestañas Coches / Motos / Patinetes / Autocaravanas / Campers ── */}
         <div className="flex gap-2" role="tablist" aria-label="Tipo de vehículo">
           {TABS.map((t) => {
             const n = TODAS.filter((f) => f.kind === t.id).length;
@@ -500,7 +555,7 @@ export default function FichasTecnicasPage() {
             type="search"
             value={q}
             onChange={(e) => { setQ(e.target.value); setVisibleCount(PAGE_SIZE); }}
-            placeholder={`Busca marca o modelo… (ej. ${tab === "coche" ? "BYD, Tucson" : tab === "moto" ? "Silence, NIU" : "Xiaomi, Segway"})`}
+            placeholder={`Busca marca o modelo… (ej. ${tab === "coche" ? "BYD, Tucson" : tab === "moto" ? "Silence, NIU" : tab === "patinete" ? "Xiaomi, Segway" : tab === "autocaravana" ? "Adria, Hymer" : "California, Nugget"})`}
             aria-label="Buscar por marca o modelo"
             className="w-full rounded-xl border border-gray-300 bg-white py-2.5 pl-10 pr-4 text-sm shadow-sm focus:border-[#cd001d] focus:outline-none focus:ring-2 focus:ring-[#cd001d]/20"
           />

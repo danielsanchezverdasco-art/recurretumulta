@@ -64,6 +64,9 @@ for (const [k, v] of CAMPER_LOADERS_TMP) { if (!COCHE_LOADERS.has(k)) COCHE_LOAD
 const MOTO_LOADERS = scanIds(/^comparador-motos-.*\.ts$/, /^comparador-motos-data\.ts$/);
 const PATINETE_LOADERS = scanIds(/^comparador-patinetes-.*\.ts$/, /^comparador-patinetes-data\.ts$/);
 const CAMPER_LOADERS = CAMPER_LOADERS_TMP; // alias para el reporte
+// 19/10/2026 (router 5/6): dominio "autocaravana" para las fichas de
+// comparador-autocaravanas-*.ts (mismo patrón que campers/coches/motos).
+const AUTOCARAVANA_LOADERS = scanIds(/^comparador-autocaravanas-.*\.ts$/, /^comparador-autocaravanas-data\.ts$/);
 
 // ── 3. Historia: id -> fichero ───────────────────────────────────────────
 const HISTORIA_LOADERS = new Map();
@@ -208,6 +211,7 @@ const DOMAINS = {
   moto: MOTO_LOADERS,
   patinete: PATINETE_LOADERS,
   camper: CAMPER_LOADERS,
+  autocaravana: AUTOCARAVANA_LOADERS,
   historia: HISTORIA_LOADERS,
   euroncap: EURONCAP_LOADERS,
   galeria: GALERIA_LOADERS,
@@ -275,12 +279,51 @@ export const COCHES_LITE: CocheLite[] = ${JSON.stringify(cochesLite)};
 `;
 writeFileSync(join(LIB, "comparador-lite.generated.ts"), liteOut);
 
+// ── 7b. AUTOCARAVANAS_LITE ─────────────────────────────────────────────
+// Subconjunto ligero de AUTOCARAVANAS_COMPARADOR para el hub /autocaravanas/.
+// Las fichas cargan el modelo completo vía el dominio "autocaravana" (§2).
+const autocaravanasLite = [];
+for (const f of files(/^comparador-autocaravanas-.*\.ts$/)) {
+  if (/^comparador-autocaravanas-data\.ts$/.test(f)) continue;
+  const text = readFileSync(join(LIB, f), "utf-8");
+  const idRe = /\bid:\s*"([^"]+)"/g;
+  let m;
+  const ids = [];
+  while ((m = idRe.exec(text)) !== null) ids.push({ id: m[1], index: m.index });
+  for (let i = 0; i < ids.length; i++) {
+    const start = text.lastIndexOf("{", ids[i].index);
+    const end = i + 1 < ids.length ? text.lastIndexOf("{", ids[i + 1].index) : text.length;
+    const block = text.slice(start, end);
+    const entry = { id: ids[i].id };
+    for (const k of ["marca", "modelo", "tipo", "imagen", "imagenOficial"]) entry[k] = strVal(block, k);
+    for (const k of ["plazas", "precioDesde"]) entry[k] = numVal(block, k);
+    autocaravanasLite.push(entry);
+  }
+}
+const autocaravanasLiteOut = `// Generado por scripts/gen-data-loaders.mjs — NO EDITAR A MANO.
+// Subconjunto ligero de AUTOCARAVANAS_COMPARADOR para el hub /autocaravanas/.
+// Las fichas cargan el modelo completo vía el dominio "autocaravana".
+export type AutocaravanaLite = {
+  id: string;
+  marca: string | null;
+  modelo: string | null;
+  tipo: string | null;
+  plazas: number | null;
+  precioDesde: number | null;
+  imagen: string | null;
+  imagenOficial: string | null;
+};
+export const AUTOCARAVANAS_LITE: AutocaravanaLite[] = ${JSON.stringify(autocaravanasLite)};
+`;
+writeFileSync(join(LIB, "autocaravanas-lite.generated.ts"), autocaravanasLiteOut);
+
 console.log("data-loaders:", {
   blog: BLOG_LOADERS.size,
   coches: COCHE_LOADERS.size,
   motos: MOTO_LOADERS.size,
   patinetes: PATINETE_LOADERS.size,
   campers: CAMPER_LOADERS.size,
+  autocaravanas: AUTOCARAVANA_LOADERS.size,
   historia: HISTORIA_LOADERS.size,
   euroncap: EURONCAP_LOADERS.size,
   galerias: GALERIA_LOADERS.size,

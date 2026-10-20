@@ -1,6 +1,7 @@
 import { lazy, Suspense, useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import CreditoFoto from "@/components/CreditoFoto.tsx";
+import AnalisisEditorial from "@/components/AnalisisEditorial.tsx";
 import {
   ArrowLeftRight,
   BatteryCharging,
@@ -658,6 +659,9 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
           </section>
           </Suspense>
         )}
+
+        {/* ── Análisis editorial único por ficha (estándar AdSense 2026-10-19) ── */}
+        <AnalisisEditorial slug={slug} />
 
         <section
           ref={spotRef}

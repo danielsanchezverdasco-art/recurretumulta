@@ -312,6 +312,9 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
   camper: {
     "nissan-nv200-camper-2026-precio-ficha-tecnica": () => import("../comparador-campers-japonesas.ts"),
   },
+  autocaravana: {
+    "niesmann-bischoff-ismove-69-e-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-niesmannbischoff-m1.ts"),
+  },
   historia: {
     "neta-aya-2025-precio-ficha-tecnica": () => import("../historia-modelos.ts"),
     "neta-gt-2024-precio-ficha-tecnica": () => import("../historia-modelos.ts"),
