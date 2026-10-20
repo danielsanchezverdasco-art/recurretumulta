@@ -35,6 +35,8 @@ export const CAMPERS_FONT_VENDOME: CocheComparador[] = [
     anchoMm: 2050,
     altoMm: 2890,
     pesoKg: 3088,
+    mmaKg: 3500,
+    carnetNecesario: "B",
     consumo: null,
     consumoUnidad: null,
     plazas: 4,

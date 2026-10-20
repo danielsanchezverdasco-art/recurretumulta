@@ -699,7 +699,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 904,
     categoria: "Trail",
-    precioDesde: 8299,
+    precioDesde: 8699,
     potenciaKw: 70,
     potenciaCv: 95,
     autonomiaKm: null,

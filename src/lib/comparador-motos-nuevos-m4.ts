@@ -1081,7 +1081,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     version: "RS 125 2026",
     cilindradaCc: 124,
     categoria: "Deportiva",
-    precioDesde: 5499,
+    precioDesde: 5799,
     potenciaKw: 11,
     potenciaCv: 15,
     autonomiaKm: 555,

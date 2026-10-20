@@ -825,7 +825,7 @@ export const COCHES_EXP19: CocheComparador[] = [
     maleteroL: 546,
     ceroCien: 9.7,
     velocidadMax: 180,
-    bateriaKwh: 1.7,
+    bateriaKwh: 1.4,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
