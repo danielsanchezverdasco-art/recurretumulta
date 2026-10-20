@@ -84,6 +84,7 @@ alpine-a290-gt-performance-2026-precio-ficha-tecnica
 alpine-a290-gt-premium-2026-precio-ficha-tecnica
 alpine-a290-gts-2026-precio-ficha-tecnica
 alpine-a290-gts-premiere-edition-2026-precio-ficha-tecnica
+alpine-a290-precio-ficha-tecnica
 alpine-a290-rallye-2026-precio-ficha-tecnica
 alpine-a390-gt-2026-precio-ficha-tecnica
 alpine-a390-gts-2026-precio-ficha-tecnica
@@ -383,6 +384,7 @@ byd-dolphin-g-dmi-active-2026-precio-ficha-tecnica
 byd-dolphin-g-dmi-boost-2026-precio-ficha-tecnica
 byd-dolphin-surf-my26-5-plazas-precio-espana
 byd-dolphin-surf-2027-segunda-generacion
+byd-dolphin-surf-precio-ficha-tecnica
 byd-great-han-1008-km-autonomia-carga-9-minutos
 byd-great-tang-2026-precio-ficha-tecnica
 byd-han-2024-precio-ficha-tecnica
@@ -544,6 +546,7 @@ cumbre-mundial-motos-seguras-zaragoza-2026
 cupra-ateca-190-2025-precio-ficha-tecnica
 cupra-ateca-vz-300-2025-precio-ficha-tecnica
 cupra-born-190-2026-precio-ficha-tecnica
+cupra-born-2024-precio-ficha-tecnica
 cupra-born-204-2026-precio-ficha-tecnica
 cupra-born-endurance-231-2026-precio-ficha-tecnica
 cupra-born-vz-326-2026-precio-ficha-tecnica
@@ -570,12 +573,14 @@ cupra-raval-plus-2026-precio-ficha-tecnica
 cupra-raval-vz-2025-precio-ficha-tecnica
 cupra-raval-vz-226-2026-precio-ficha-tecnica
 cupra-tavascan-190-2026-precio-ficha-tecnica
+cupra-tavascan-2024-precio-ficha-tecnica
 cupra-tavascan-baja-precio-octubre-2026
 cupra-tavascan-endurance-286-2026-precio-ficha-tecnica
 cupra-tavascan-vz-2025-precio-ficha-tecnica
 cupra-tavascan-vz-340-2026-precio-ficha-tecnica
 cupra-terramar-15-etsi-2026-precio-ficha-tecnica
 cupra-terramar-20-tsi-204-2026-precio-ficha-tecnica
+cupra-terramar-2024-precio-ficha-tecnica
 cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica
 cupra-terramar-vz-265-2025-precio-ficha-tecnica
 cupra-terramar-vz-ehybrid-2025-precio-ficha-tecnica
@@ -847,6 +852,7 @@ fiat-500e-cabrio-118-2025-precio-ficha-tecnica
 fiat-500e-giorgio-armani-2025-precio-ficha-tecnica
 fiat-500x-2025-precio-ficha-tecnica
 fiat-600-12-turbo-100-2024-precio-ficha-tecnica
+fiat-600-2024-precio-ficha-tecnica
 fiat-600-hybrid-110-2025-precio-ficha-tecnica
 fiat-600-sport-145cv-2025-precio-ficha-tecnica
 fiat-600e-2025-precio-ficha-tecnica
@@ -879,6 +885,7 @@ ford-explorer-electrico-awd-2025-precio-ficha-tecnica
 ford-focus-2025-precio-ficha-tecnica
 ford-focus-mhev-2025-precio-ficha-tecnica
 ford-focus-st-2025-precio-ficha-tecnica
+ford-kuga-2024-precio-ficha-tecnica
 ford-kuga-fhev-2025-precio-ficha-tecnica
 ford-kuga-phev-2025-precio-ficha-tecnica
 ford-mustang-2025-precio-ficha-tecnica
@@ -945,6 +952,7 @@ geely-galaxy-zhanjian-700-2026-precio-ficha-tecnica
 geely-monjaro-2025-precio-ficha-tecnica
 geely-preface-2025-precio-ficha-tecnica
 geely-starray-em-i-2026-precio-ficha-tecnica
+genesis-gv60-magma-2026-precio-suv-electrico-deportivo
 gotrax-eclipse
 gotrax-fusion
 gotrax-g-pro
@@ -1133,6 +1141,7 @@ hyptec-ht-2025-precio-ficha-tecnica
 hyptec-s600-2026-precio-ficha-tecnica
 hyptec-ssr-2024-precio-ficha-tecnica
 hyundai-bayon-10-tgdi-2025-precio-ficha-tecnica
+hyundai-bayon-2024-precio-ficha-tecnica
 hyundai-i10-2026-precio-ficha-tecnica
 hyundai-i10-n-line-2026-precio-ficha-tecnica
 hyundai-i20-10-tgdi-2026-precio-ficha-tecnica
@@ -1141,6 +1150,7 @@ hyundai-i20-n-line-2026-precio-ficha-tecnica
 hyundai-i20-n-line-mhev-2026-precio-ficha-tecnica
 hyundai-i30-10-tgdi-2026-precio-ficha-tecnica
 hyundai-i30-15-tgdi-2025-precio-ficha-tecnica
+hyundai-i30-2024-precio-ficha-tecnica
 hyundai-i30-n-2026-precio-ficha-tecnica
 hyundai-i30-n-line-2026-precio-ficha-tecnica
 hyundai-inster-2025-precio-ficha-tecnica
@@ -1152,6 +1162,7 @@ hyundai-ioniq-5-2026-precio-ficha-tecnica
 hyundai-ioniq-5-n-2025-precio-ficha-tecnica
 hyundai-ioniq-5-n-line-2025-precio-ficha-tecnica
 hyundai-ioniq-6-2025-precio-ficha-tecnica
+hyundai-ioniq-6-electrico-precio-ficha-tecnica
 hyundai-ioniq-6-n-2026-precio-ficha-tecnica
 hyundai-ioniq-9-2026-precio-ficha-tecnica
 hyundai-ioniq-9-long-range-2025-precio-ficha-tecnica
@@ -1167,6 +1178,7 @@ hyundai-kona-hibrido-n-line-2026-precio-ficha-tecnica
 hyundai-kona-n-line-2026-precio-ficha-tecnica
 hyundai-nexo-2025-precio-ficha-tecnica
 hyundai-nexo-2026-precio-ficha-tecnica
+hyundai-santa-fe-2024-precio-ficha-tecnica
 hyundai-santa-fe-hibrido-2026-precio-ficha-tecnica
 hyundai-santa-fe-hibrido-enchufable-2026-precio-ficha-tecnica
 hyundai-staria-diesel-2025-precio-ficha-tecnica
@@ -1272,6 +1284,7 @@ jeep-avenger-gasolina-100-2026-precio-ficha-tecnica
 jeep-compass-13-t-130-2024-precio-ficha-tecnica
 jeep-compass-15-e-hybrid-130-2025-precio-ficha-tecnica
 jeep-compass-16-mjt-130-2024-precio-ficha-tecnica
+jeep-compass-2025-precio-ficha-tecnica
 jeep-compass-4xe-240-2025-precio-ficha-tecnica
 jeep-compass-4xe-electrico-375-2026-precio-ficha-tecnica
 jeep-compass-4xe-phev-195-2026-precio-ficha-tecnica
@@ -1391,6 +1404,7 @@ kgm-torres-g15t-gasolina-2025-precio-ficha-tecnica
 kgm-torres-hev-hibrido-2026-precio-ficha-tecnica
 kia-ceed-10-tgdi-2025-precio-ficha-tecnica
 kia-ceed-15-tgdi-2025-precio-ficha-tecnica
+kia-ceed-2024-precio-ficha-tecnica
 kia-ceed-gt-line-2025-precio-ficha-tecnica
 kia-ceed-sw-2025-precio-ficha-tecnica
 kia-ceed-sw-phev-2025-precio-ficha-tecnica
@@ -1412,6 +1426,7 @@ kia-ev9-2025-precio-ficha-tecnica
 kia-ev9-gt-2026-precio-ficha-tecnica
 kia-niro-ev-2025-precio-ficha-tecnica
 kia-niro-phev-2025-precio-ficha-tecnica
+kia-picanto-2024-precio-ficha-tecnica
 kia-picanto-gt-line-2025-precio-ficha-tecnica
 kia-proceed-2025-precio-ficha-tecnica
 kia-pv5-2025-precio-ficha-tecnica
@@ -1428,6 +1443,7 @@ kia-sportage-phev-2025-precio-ficha-tecnica
 kia-stonic-10-tgdi-2026-precio-ficha-tecnica
 kia-stonic-hibrido-2026-precio-ficha-tecnica
 kia-xceed-15-mhev-2025-precio-ficha-tecnica
+kia-xceed-2024-precio-ficha-tecnica
 kia-xceed-phev-2025-precio-ficha-tecnica
 kove-450rr-2024-precio
 kove-800x-2025-precio
@@ -1778,6 +1794,7 @@ mg-cyberster-trophy-2025-precio-ficha-tecnica
 mg-hs-gasolina-2025-precio-ficha-tecnica
 mg-hs-hybrid-plus-2025-precio-ficha-tecnica
 mg-hs-hybrid-plus-225-cv-precio-espana
+mg-hs-phev-2025-precio-ficha-tecnica
 mg-marvel-r-2024-precio-ficha-tecnica
 mg-marvel-r-performance-2024-precio-ficha-tecnica
 mg-s5-ev-2026-precio-ficha-tecnica
@@ -1800,6 +1817,7 @@ mg4-electric-standard-2025-precio-ficha-tecnica
 mg4-electric-vs-byd-dolphin-2025-cual-comprar
 mg4-electric-xpower-2025-precio-ficha-tecnica
 mg4-urban-2026-precio-ficha-tecnica
+mg4-urban-electric-precio-ficha-tecnica
 mg4-xpower-2025-precio-ficha-tecnica
 mg5-electric-2025-precio-ficha-tecnica
 mg5-electric-standard-2025-precio-ficha-tecnica
@@ -1814,6 +1832,7 @@ mitsubishi-asx-130t-7dct-2026-precio-ficha-tecnica
 mitsubishi-asx-130t-mhev-2025-precio-ficha-tecnica
 mitsubishi-colt-100t-2025-precio-ficha-tecnica
 mitsubishi-colt-100t-glp-2025-precio-ficha-tecnica
+mitsubishi-colt-2024-precio-ficha-tecnica
 mitsubishi-colt-hev-2025-precio-ficha-tecnica
 mitsubishi-eclipse-cross-electrico-2025-precio-ficha-tecnica
 mitsubishi-eclipse-cross-ev-lfp-2026-precio-ficha-tecnica
@@ -2022,6 +2041,7 @@ onvo-l80-2026-precio-ficha-tecnica
 onvo-l90-2025-precio-ficha-tecnica
 onvo-l90-nio-2026-precio-ficha-tecnica
 opel-astra-12-turbo-130-2025-precio-ficha-tecnica
+opel-astra-2024-precio-ficha-tecnica
 opel-astra-diesel-130-2025-precio-ficha-tecnica
 opel-astra-electrico-2025-precio-ficha-tecnica
 opel-astra-hibrido-2025-precio-ficha-tecnica
@@ -2052,6 +2072,7 @@ opel-grandland-electrico-long-range-2025-precio-ficha-tecnica
 opel-grandland-hibrido-2025-precio-ficha-tecnica
 opel-grandland-hibrido-enchufable-2025-precio-ficha-tecnica
 opel-mokka-12-turbo-130-2025-precio-ficha-tecnica
+opel-mokka-2024-precio-ficha-tecnica
 opel-mokka-electrico-2025-precio-ficha-tecnica
 opel-mokka-gse-2025-precio-ficha-tecnica
 opel-mokka-hibrido-2025-precio-ficha-tecnica
@@ -2134,6 +2155,7 @@ polestar-2-precio-ficha-tecnica
 polestar-3-dual-motor-precio-ficha-tecnica
 polestar-3-performance-precio-ficha-tecnica
 polestar-3-precio-ficha-tecnica
+polestar-4-precio-ficha-tecnica
 polestar-4-suv-dual-motor-precio-ficha-tecnica
 polestar-4-suv-precio-ficha-tecnica
 polestar-5-performance-precio-ficha-tecnica
@@ -2462,11 +2484,13 @@ skoda-fabia-15-tsi-2026-precio-ficha-tecnica
 skoda-fabia-monte-carlo-2026-precio-ficha-tecnica
 skoda-kamiq-10-tsi-2025-precio-ficha-tecnica
 skoda-kamiq-15-tsi-2026-precio-ficha-tecnica
+skoda-kamiq-2024-precio-ficha-tecnica
 skoda-kamiq-monte-carlo-2026-precio-ficha-tecnica
 skoda-karoq-2025-precio-ficha-tecnica
 skoda-kodiaq-15-tsi-2026-precio-ficha-tecnica
 skoda-kodiaq-20-tdi-2026-precio-ficha-tecnica
 skoda-kodiaq-20-tsi-2026-precio-ficha-tecnica
+skoda-kodiaq-2024-precio-ficha-tecnica
 skoda-kodiaq-iv-2025-precio-ficha-tecnica
 skoda-kodiaq-iv-hibrido-enchufable-2026-precio-ficha-tecnica
 skoda-kodiaq-rs-2026-precio-ficha-tecnica
@@ -2490,6 +2514,7 @@ skoda-superb-combi-20-tsi-2026-precio-ficha-tecnica
 skoda-superb-combi-iv-2026-precio-ficha-tecnica
 skoda-superb-iv-hibrido-enchufable-2026-precio-ficha-tecnica
 smart-1-brabus-2025-precio-ficha-tecnica
+smart-1-precio-ficha-tecnica
 smart-1-premium-2025-precio-ficha-tecnica
 smart-1-pro-2025-precio-ficha-tecnica
 smart-1-pro-plus-2025-precio-ficha-tecnica

@@ -275,6 +275,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "byd-dolphin-g-dmi-boost-2026-precio-ficha-tecnica": () => import("../blog-posts-byd-a.ts"),
     "byd-dolphin-surf-2027-segunda-generacion": () => import("../blog-posts-radar-20261016.ts"),
     "byd-dolphin-surf-my26-5-plazas-precio-espana": () => import("../blog-posts-motor-2026-h.ts"),
+    "byd-dolphin-surf-precio-ficha-tecnica": () => import("../blog-posts-repesca-t8.ts"),
     "byd-e7-2025-precio-ficha-tecnica": () => import("../blog-posts-lote2.ts"),
     "byd-great-han-1008-km-autonomia-carga-9-minutos": () => import("../blog-posts-motor-2026-m.ts"),
     "byd-great-tang-2026-precio-ficha-tecnica": () => import("../blog-posts-byd-great-tang.ts"),

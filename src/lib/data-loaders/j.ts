@@ -53,6 +53,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "jeep-compass-13-t-130-2024-precio-ficha-tecnica": () => import("../blog-posts-coches-exp8.ts"),
     "jeep-compass-15-e-hybrid-130-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp8.ts"),
     "jeep-compass-16-mjt-130-2024-precio-ficha-tecnica": () => import("../blog-posts-coches-exp8.ts"),
+    "jeep-compass-2025-precio-ficha-tecnica": () => import("../blog-posts-repesca-t8.ts"),
     "jeep-compass-4xe-240-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp8.ts"),
     "jeep-compass-4xe-electrico-375-2026-precio-ficha-tecnica": () => import("../blog-posts-jeep-a.ts"),
     "jeep-compass-4xe-phev-195-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp8.ts"),

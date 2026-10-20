@@ -62,6 +62,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "genesis-g70-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "genesis-g80-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "genesis-gv60-2025-precio-autonomia": () => import("../blog-posts-lote13.ts"),
+    "genesis-gv60-magma-2026-precio-suv-electrico-deportivo": () => import("../blog-posts-repesca-t8.ts"),
     "genesis-gv70-2025-precio-autonomia": () => import("../blog-posts-lote13.ts"),
     "genesis-gv80-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "genesis-gv90-2027-precio-autonomia": () => import("../blog-posts-lote13.ts"),

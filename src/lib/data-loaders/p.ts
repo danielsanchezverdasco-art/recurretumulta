@@ -83,6 +83,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "polestar-3-dual-motor-precio-ficha-tecnica": () => import("../blog-posts-polestar-a.ts"),
     "polestar-3-performance-precio-ficha-tecnica": () => import("../blog-posts-polestar-a.ts"),
     "polestar-3-precio-ficha-tecnica": () => import("../blog-posts-polestar-a.ts"),
+    "polestar-4-precio-ficha-tecnica": () => import("../blog-posts-repesca-t8.ts"),
     "polestar-4-suv-dual-motor-precio-ficha-tecnica": () => import("../blog-posts-polestar-a.ts"),
     "polestar-4-suv-precio-ficha-tecnica": () => import("../blog-posts-polestar-a.ts"),
     "polestar-5-performance-precio-ficha-tecnica": () => import("../blog-posts-polestar-a.ts"),
