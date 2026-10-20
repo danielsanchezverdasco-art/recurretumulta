@@ -1699,7 +1699,7 @@ Créditos de las fotos reales incorporadas en la caza masiva del 20/10/2026 (1.6
 | /media/motos/voge-350ac-2024-ficha-tecnica-precio-3.webp | https://www.vogeglobal.com/wp-content/uploads/2024/10/AC350-grey-R.webp (Voge (web oficial)) |
 | /media/voge-350ac-2026-ficha-tecnica-precio-oficial-2.webp | https://b1944490.assetcdn.net/2.0/1944490/wp-content/uploads/sites/46/2025/03/voge-ac350-15_nc.jpg (MoreBikes (prueba Voge AC350) — SUSTITUIDA 20/10/2026: la anterior era foto de concesionario con marca de Avito) |
 | /media/voge-350ac-2026-ficha-tecnica-precio-oficial-3.webp | https://b1944490.assetcdn.net/2.0/1944490/wp-content/uploads/sites/46/2025/03/main-pic_nc.jpg (MoreBikes (prueba Voge AC350) — SUSTITUIDA 20/10/2026: la anterior duplicaba la foto 1 de la ficha del 350AC 2024) |
-| /media/voge-350ac-2026-ficha-tecnica-precio-oficial.webp | https://krasivyeavto.org/uploads/posts/2026-03/56554/thumbs/img_33_d1b3a8df.jpg (krasivyeavto.org) |
+| /media/voge-350ac-2026-ficha-tecnica-precio-oficial.webp | https://b1944490.assetcdn.net/2.0/1944490/wp-content/uploads/sites/46/2025/03/voge-ac350-4_nc.jpg (MoreBikes, prueba Voge AC350 — SUSTITUIDA 20/10/2026: la anterior era foto de concesionario) |
 | /media/motos/voge-500ac-2026-oficial-2.webp | https://cumbremotors.com.ar/wp-content/uploads/2025/10/VOGE-500AC-3_res.png (cumbremotors.com.ar) |
 | /media/motos/voge-500ac-2026-oficial-3.webp | https://motorcycles-lyon.store/wp-content/uploads/2025/01/VOGE500AC-768x481.jpg (motorcycles-lyon.store) |
 | /media/motos/voge-500ac-2026-oficial.webp | https://motoblog.com/wp-content/uploads/2021/04/Voge-500AC-15.jpeg (motoblog.com) |
