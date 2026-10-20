@@ -4886,3 +4886,27 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/xpeng-x9-2026-precio-europa-hunt1.webp | https://fleetworld.co.uk/wp-content/uploads/2026/01/Xpeng-X9.jpg | Fleet World | desconocida |
 | /media/xpeng-x9-2026-precio-europa-hunt2.webp | https://www.car250.com/wp-content/uploads/2025/08/Xpeng-X9-EREV-1.jpg | Car250 | desconocida |
 | /media/xpeng-x9-2026-precio-europa-hunt3.webp | https://s-cdn.xpeng.com/commoncms/prod/2026-03-19/789f5248d23d434094ed298209e6c873.jpg?name=New+X9+PC+P6-3 | XPeng (foto oficial) | desconocida |
+| /media/dongfeng-rich-6-ev-2026-precio-ficha-tecnica-hunt1.webp | https://d1hv7ee95zft1i.cloudfront.net/custom/car-model-variant-photo/original/dongfeng-rich-6-ev-350-65eaddc5a67ba.jpg | AutoDeal Philippines | desconocida |
+| /media/dongfeng-rich-6-ev-2026-precio-ficha-tecnica-hunt2.webp | https://wheels.ph/wp-content/uploads/2025/10/RICH_6_EV_BLANCA_webp-1.webp | Wheels.ph | desconocida |
+| /media/dongfeng-rich-6-ev-2026-precio-ficha-tecnica-hunt3.webp | https://ev.motorwatt.com/media/djcatalog2/images/item/16/dongfeng-rich-6-ev-2024_f.jpg | MotorWatt | desconocida |
+| /media/lancia-ypsilon-electric-2025-precio-ficha-tecnica-hunt1.webp | https://www.hibridosyelectricos.com/uploads/s1/83/08/58/lancia-ypsilon-2025-port3_17_2000x1126.jpeg | Híbridos y Eléctricos | desconocida |
+| /media/lancia-ypsilon-electric-2025-precio-ficha-tecnica-hunt2.webp | https://www.planetcarsz.com/img/carros/galeria/2024/04/new-lancia-ypsilon-2025-005-20240430133850-1600x1067.jpg | Planeta CarsZ | desconocida |
+| /media/lancia-ypsilon-electric-2025-precio-ficha-tecnica-hunt3.webp | https://fotos.quecochemecompro.com/lancia-ypsilon/lancia-ypsilon-lateral.jpeg?size=750x400 | ¿Qué coche me compro? | desconocida |
+| /media/velca-bora-plus-2025-ficha-tecnica-precio-hunt1.webp | https://xpert-energy.com/wp-content/uploads/Bora-Plus-White-01-580x580.png | Xpert Energy | desconocida |
+| /media/velca-bora-plus-2025-ficha-tecnica-precio-hunt2.webp | https://www.canarias.velcamotor.com/web/image/product.product/1744/image_1024/Bora%20%2B%20%2875%20km%29?unique=2e7a189 | Velca Motor Canarias (distribuidor oficial) | desconocida |
+| /media/velca-bora-plus-2025-ficha-tecnica-precio-hunt3.webp | https://xpert-energy.com/wp-content/uploads/Bora-Plus-Black-Front-01-580x580.png | Xpert Energy | desconocida |
+| /media/xpeng-g6-2025-precio-espana-hunt1.webp | https://journalauto.com/wp-content/uploads/2024/11/XPeng-G6-AV-1.jpg | Journal Auto | desconocida |
+| /media/xpeng-g6-2025-precio-espana-hunt2.webp | https://i0.wp.com/evmagz.com/wp-content/uploads/2025/03/2025-Xpeng-G6-1.jpg?resize=1024%2C564&ssl=1 | EVMagz | desconocida |
+| /media/xpeng-g6-2025-precio-espana-hunt3.webp | https://rouleur-electrique.fr/wp-content/uploads/2024/05/xpeng-g6-600x360.png | Rouleur Électrique | desconocida |
+| /media/abarth-500e-2025-precio-ficha-tecnica-hunt1.webp | https://www.actualidadmotor.com/wp-content/uploads/2025/07/Abarth-500e_56.jpeg | Actualidad Motor | desconocida |
+| /media/abarth-500e-2025-precio-ficha-tecnica-hunt2.webp | https://moparinsiders.com/wp-content/uploads/2023/05/2167896-epe5r840ic-scaled.jpeg | MoparInsiders | desconocida |
+| /media/abarth-500e-2025-precio-ficha-tecnica-hunt3.webp | https://images.carexpert.com.au/app/uploads/2024/03/2024-Abarth-500e-MY24-Stills-42.jpg | CarExpert | desconocida |
+| /media/cecotec-vulcano-2025-ficha-tecnica-precio-hunt1.webp | https://landingeditor-cdn.cecotec.cloud/product/cdcfb9a1-524e-41b4-ab09-aa2dc848b61f/210f32af-bff0-455e-9abe-1a597fad4a41/B9_DES_YZIBL4T.jpg | Cecotec (web oficial) | desconocida |
+| /media/cecotec-vulcano-2025-ficha-tecnica-precio-hunt2.webp | https://becomove.com/wp-content/uploads/2025/04/cecotec-vulcano-blancorojo_wt7fao_1.webp | Becomove | desconocida |
+| /media/cecotec-vulcano-2025-ficha-tecnica-precio-hunt3.webp | https://idealexls.com/wp-content/uploads/2026/05/3-100.png | Idealexls | desconocida |
+| /media/kia-k4-2026-precio-ficha-tecnica-hunt1.webp | https://www.everettkia.net/static/brand-kia/Custom_Pages/K4/2026/Gallery/kia_K4_2026_asset-carousel-1.jpg | Everett Kia (galería oficial) | desconocida |
+| /media/kia-k4-2026-precio-ficha-tecnica-hunt2.webp | https://www.karpkia.com/static/brand-kia/Custom_Pages/K4/2026/Gallery/kia_K4_2026_asset-carousel-13.jpg | Karp Kia (galería oficial) | desconocida |
+| /media/kia-k4-2026-precio-ficha-tecnica-hunt3.webp | https://dealerimages.dealereprocess.com/image/upload/v1766611254/1/kia/2026/K4_Sedan/Gallery/my26-k4-gallery-int4.jpg | Gerald Kia (galería oficial) | desconocida |
+| /media/xpeng-g9-2024-precio-espana-hunt1.webp | https://www.standvirtual.com/diarioautomovel/wp-content/uploads/2024/10/Xpeng-G9.jpg | Diário Automóvel / Standvirtual | desconocida |
+| /media/xpeng-g9-2024-precio-espana-hunt2.webp | https://fordreamauto.com/wp-content/uploads/2023/10/ForDreamAuto_XPENG-G9-2024_001.jpg | ForDreamAuto | desconocida |
+| /media/xpeng-g9-2024-precio-espana-hunt3.webp | https://cdn1.tt.regeljelease.nl/images/92c2b79c-6d3a-4b00-8a01-b9a6bb472b9e/full.jpg | RegeljeLease | desconocida |
