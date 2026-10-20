@@ -937,7 +937,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     galeria: [
       { src: "/media/patinetes/iscooter-i10-pro-2.webp", alt: "iScooter i10 Pro con doble suspensión", ancho: 1200, alto: 800 },
     ],
-    precioEur: null,
+    precioEur: null, // sin tarifa oficial publicada en ningún mercado (verificado 20/10/2026)
 
     certificadoDgt: null,
     videoId: null,
@@ -956,6 +956,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
       "24,45 kg: pesado",
       "Carga lenta para 720 Wh",
       "Sin certificado DGT verificado",
+      "Sin precio oficial en España: la marca no publica tarifa oficial para este modelo",
     ],
     veredicto:
       "El i10 Pro es el rutero UE de iScooter: 720 Wh, doble suspensión y 25 km/h legales. Pesa 24,45 kg, pero ofrece autonomía seria con velocidad en regla.",
@@ -991,7 +992,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     galeria: [
       { src: "/media/patinetes/kugoo-kirin-s1-pro-2.webp", alt: "Kugoo Kirin S1 Pro plegado", ancho: 1200, alto: 800 },
     ],
-    precioEur: null,
+    precioEur: null, // Kugoo no publica tarifa oficial; solo venta vía distribuidores y marketplaces (verificado 20/10/2026)
 
     certificadoDgt: null,
     videoId: null,
@@ -1009,6 +1010,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
       "30 km/h: supera el límite VMP",
       "Autonomía real de ~20 km",
       "Ruedas pequeñas",
+      "Sin precio oficial en España: la marca no publica tarifa oficial para este modelo",
     ],
     veredicto:
       "El S1 Pro es el Kugoo minimalista: 11 kg y ruedas de panal sin mantenimiento. Perfecto para llevarlo en la mano, con autonomía justa (~20 km).",
@@ -1044,7 +1046,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     galeria: [
       { src: "/media/patinetes/kugoo-kirin-s4-2.webp", alt: "Kugoo Kirin S4 en ciudad", ancho: 1200, alto: 800 },
     ],
-    precioEur: null,
+    precioEur: null, // Kugoo no publica tarifa oficial; solo venta vía distribuidores y marketplaces (verificado 20/10/2026)
 
     certificadoDgt: null,
     videoId: null,
@@ -1062,6 +1064,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
       "35 km/h: por encima del límite VMP",
       "Sin suspensión",
       "Sin certificado DGT verificado",
+      "Sin precio oficial en España: la marca no publica tarifa oficial para este modelo",
     ],
     veredicto:
       "El S4 equilibra peso y autonomía: 13,5 kg, 360 Wh y ruedas de aire de 10\". Sus 35 km/h superan el límite VMP, pero el confort es superior.",
@@ -1097,7 +1100,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     galeria: [
       { src: "/media/patinetes/evercross-a1-2.webp", alt: "Evercross A1 con doble suspensión", ancho: 1200, alto: 800 },
     ],
-    precioEur: null,
+    precioEur: null, // sin tarifa oficial publicada en ningún mercado (verificado 20/10/2026)
 
     certificadoDgt: null,
     videoId: null,
@@ -1116,6 +1119,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
       "26,85 kg: pesado",
       "Carga lenta (7-8 h)",
       "Autonomía oficial medida a 15 km/h",
+      "Sin precio oficial en España: la marca no publica tarifa oficial para este modelo",
     ],
     veredicto:
       "El A1 es el rutero honesto de Evercross: 672 Wh, triple freno y doble suspensión. Pesa 26,85 kg, pero la relación batería/precio es difícil de batir.",
@@ -1151,7 +1155,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     galeria: [
       { src: "/media/patinetes/gotrax-fusion-2.webp", alt: "Gotrax Fusion con asiento plegable", ancho: 1200, alto: 800 },
     ],
-    precioEur: null,
+    precioEur: null, // la marca no publica tarifa oficial en su tienda oficial (verificado 20/10/2026)
 
     certificadoDgt: null,
     videoId: null,
@@ -1205,7 +1209,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     galeria: [
       { src: "/media/patinetes/gotrax-xr-elite-2.webp", alt: "Gotrax XR Elite en ciudad", ancho: 1200, alto: 800 },
     ],
-    precioEur: null,
+    precioEur: null, // la marca no publica tarifa oficial en su tienda oficial (verificado 20/10/2026)
 
     certificadoDgt: null,
     videoId: null,
@@ -1240,7 +1244,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "Hiboy",
     modelo: "S2R",
-    precioEur: null,
+    precioEur: null, // Hiboy ya no comercializa este modelo en su tienda oficial (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: null,
     bateriaWh: 270,
@@ -1290,7 +1294,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kugoo",
     modelo: "Kirin M3",
-    precioEur: null,
+    precioEur: null, // Kugoo no publica tarifa oficial; solo venta vía distribuidores y marketplaces (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: null,
     bateriaWh: 468,
@@ -1324,6 +1328,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
       "22 kg de peso",
       "Rueda trasera maciza: menos confort",
       "Sin certificado DGT verificado",
+      "Sin precio oficial en España: la marca no publica tarifa oficial para este modelo",
     ],
     veredicto:
       "El Kirin M3 es el Kugoo urbano con extra de seguridad: NFC, candado integrado e IPX5 con 468 Wh. Sus 40 km/h lo sacan del marco VMP, pero como paquete es muy completo.",
@@ -1340,7 +1345,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "Inokim",
     modelo: "Quick 3",
-    precioEur: null,
+    precioEur: null, // la marca no publica tarifa oficial en su tienda oficial (verificado 20/10/2026)
     potenciaNominalW: 450,
     potenciaPicoW: 1000,
     bateriaWh: 624,
@@ -1440,7 +1445,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway",
     modelo: "Ninebot KickScooter D38E",
-    precioEur: null,
+    precioEur: null, // modelo descatalogado; Segway ya no publica tarifa oficial (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: 500,
     bateriaWh: 367,
@@ -1490,7 +1495,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway",
     modelo: "Ninebot KickScooter D28E",
-    precioEur: null,
+    precioEur: null, // modelo descatalogado; Segway ya no publica tarifa oficial (verificado 20/10/2026)
     potenciaNominalW: 300,
     potenciaPicoW: null,
     bateriaWh: 275,
@@ -1540,7 +1545,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "Gotrax",
     modelo: "G Pro",
-    precioEur: null,
+    precioEur: null, // la marca no publica tarifa oficial en su tienda oficial (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: null,
     bateriaWh: 378,
@@ -1590,7 +1595,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "Gotrax",
     modelo: "XR Ultra",
-    precioEur: null,
+    precioEur: 200, // 249 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 300,
     potenciaPicoW: 430,
     bateriaWh: 252,
@@ -1612,7 +1617,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH", "precioEur"],
     pros: [
       "12 kg: ligero",
       "25 km/h: dentro del límite VMP",
@@ -1624,6 +1629,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
       "300 W justos en cuestas",
       "Sin luz trasera de freno (según Tom's Guide)",
       "Sin certificado DGT verificado",
+      "Precio estimado desde la tarifa oficial de EE. UU. (249 $): no se vende oficialmente en España",
     ],
     veredicto:
       "El XR Ultra es el Gotrax clásico asequible: 12 kg, 25 km/h legales y batería LG. Básico pero honesto, con ~17 km reales y opción de asiento.",
@@ -1640,7 +1646,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway",
     modelo: "Ninebot KickScooter F30",
-    precioEur: null,
+    precioEur: null, // modelo descatalogado; Segway ya no publica tarifa oficial (verificado 20/10/2026)
     potenciaNominalW: 300,
     potenciaPicoW: null,
     bateriaWh: 275,
@@ -1690,7 +1696,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway",
     modelo: "Ninebot KickScooter E22E",
-    precioEur: null,
+    precioEur: null, // modelo descatalogado; Segway ya no publica tarifa oficial (verificado 20/10/2026)
     potenciaNominalW: 300,
     potenciaPicoW: 700,
     bateriaWh: 184,
@@ -1740,7 +1746,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "NIU",
     modelo: "KQi 300X",
-    precioEur: null,
+    precioEur: 799, // tarifa oficial Europa (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: 1000,
     bateriaWh: 608,
@@ -1790,7 +1796,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "Navee",
     modelo: "N65",
-    precioEur: null,
+    precioEur: null, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: 900,
     bateriaWh: 600,
@@ -1840,7 +1846,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "Inokim",
     modelo: "Quick 4 Super",
-    precioEur: null,
+    precioEur: 1700, // 1.950 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 600,
     potenciaPicoW: null,
     bateriaWh: 832,
@@ -1862,7 +1868,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH", "precioEur"],
     pros: [
       "832 Wh: la mayor batería de la gama Quick",
       "Doble suspensión de goma",
@@ -1874,6 +1880,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
       "20,7 kg de peso",
       "Carga de 8 horas",
       "Precio premium",
+      "Precio estimado desde la tarifa oficial de EE. UU. (1.950 $): no se vende oficialmente en España",
     ],
     veredicto:
       "El Quick 4 Super es el Inokim americano: 832 Wh y 38 km/h con doble suspensión de goma. Frente al Hero europeo (25 km/h), es la versión desatada.",
@@ -1890,7 +1897,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "Yadea",
     modelo: "KS5 Pro",
-    precioEur: null,
+    precioEur: null, // Yadea no publica tarifa oficial para España (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: 700,
     bateriaWh: 562,
@@ -1940,7 +1947,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "Okai",
     modelo: "Neon Pro",
-    precioEur: null,
+    precioEur: null, // OKAI no publica tarifa oficial de venta al público en su tienda (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     bateriaWh: 706,
@@ -1990,7 +1997,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "EMOVE",
     modelo: "Touring",
-    precioEur: null,
+    precioEur: 700, // 799 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 500,
     potenciaPicoW: 750,
     bateriaWh: 624,
@@ -2012,7 +2019,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH", "precioEur"],
     pros: [
       "Triple suspensión (delantera, trasera y deck)",
       "17,7 kg: muy ligero para 624 Wh",
@@ -2024,6 +2031,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
       "Ruedas de 8\": pequeñas para baches",
       "Sin certificado DGT verificado",
       "Marca de EE. UU., soporte en Europa limitado",
+      "Precio estimado desde la tarifa oficial de EE. UU. (799 $): no se vende oficialmente en España",
     ],
     veredicto:
       "El EMOVE Touring es el commuter americano: 624 Wh, 17,7 kg y triple suspensión con manillar plegable. La batería LG de 48V 13Ah lo convierte en un rutero de bolsillo.",
@@ -2040,7 +2048,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "Zero",
     modelo: "10",
-    precioEur: null,
+    precioEur: null, // sin tarifa oficial del fabricante; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 1000,
     potenciaPicoW: 1600,
     bateriaWh: 936,
@@ -2090,7 +2098,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "Zero",
     modelo: "9",
-    precioEur: null,
+    precioEur: null, // sin tarifa oficial del fabricante; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 600,
     potenciaPicoW: 1200,
     bateriaWh: 624,
@@ -2140,7 +2148,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "Gotrax",
     modelo: "G3",
-    precioEur: null,
+    precioEur: null, // la marca no publica tarifa oficial en su tienda oficial (verificado 20/10/2026)
     potenciaNominalW: 300,
     potenciaPicoW: 430,
     bateriaWh: 281,
@@ -2190,7 +2198,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "TurboAnt",
     modelo: "Thunder T1",
-    precioEur: null,
+    precioEur: null, // modelo descatalogado; TurboAnt ya no publica tarifa oficial (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: null,
     bateriaWh: 632,
@@ -2240,7 +2248,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "Xiaomi",
     modelo: "Electric Scooter 4 Pro Plus",
-    precioEur: null,
+    precioEur: null, // Xiaomi no ha anunciado precio oficial en España para este modelo (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: 960,
     bateriaWh: 490,
@@ -2290,7 +2298,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway",
     modelo: "Ninebot F40E",
-    precioEur: null,
+    precioEur: null, // modelo descatalogado; Segway ya no publica tarifa oficial (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     bateriaWh: 367,
@@ -2340,7 +2348,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "Smartgyro",
     modelo: "Dual Max 2",
-    precioEur: null,
+    precioEur: null, // SmartGyro no publica tarifa oficial; solo precios de distribuidor (verificado 20/10/2026)
     potenciaNominalW: null,
     potenciaPicoW: 1000,
     bateriaWh: 720,
@@ -2390,7 +2398,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway",
     modelo: "Ninebot E25E",
-    precioEur: null,
+    precioEur: null, // modelo descatalogado; Segway ya no publica tarifa oficial (verificado 20/10/2026)
     potenciaNominalW: 300,
     potenciaPicoW: 700,
     bateriaWh: 215,
@@ -2440,7 +2448,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "Okai",
     modelo: "Neon",
-    precioEur: null,
+    precioEur: null, // OKAI no publica tarifa oficial de venta al público en su tienda (verificado 20/10/2026)
     potenciaNominalW: 250,
     potenciaPicoW: 500,
     bateriaWh: 350,
