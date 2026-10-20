@@ -7450,3 +7450,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/kymco-agility-125-2025-ficha-tecnica-precio-hunt1.webp | https://soymotero.net/wp-content/uploads/2025/04/Agility-S-125-General-Marron-2.jpg | SoyMotero.net / Kymco | desconocida |
 | /media/kymco-agility-125-2025-ficha-tecnica-precio-hunt2.webp | https://soymotero.net/wp-content/uploads/2025/04/Agility-S-125-General-Blanco-1.jpg | SoyMotero.net / Kymco | desconocida |
 | /media/kymco-agility-125-2025-ficha-tecnica-precio-hunt3.webp | https://emmotos.com/wp-content/uploads/2024/11/galeria-agility_estudio_2400x1800_06-min.jpg | Em Motos / Kymco | desconocida |
+| /media/chery-tiggo-4-2025-precio-ficha-tecnica-hunt1.webp | https://editorial.pxcrush.net/carsales/general/editorial/chery-tiggo-4-my25-update-13.jpg?width=1024&height=682 | Chery (foto de prensa) / Carsales Australia | desconocida |
+| /media/chery-tiggo-4-2025-precio-ficha-tecnica-hunt2.webp | https://chery.kz/userdata/section/section_308/image_889/1737406381_2048764110_b.jpg | Chery Kazajistán (web oficial) | desconocida |
+| /media/chery-tiggo-4-2025-precio-ficha-tecnica-hunt3.webp | https://autotest.com.ar/wp-content/uploads/2025/09/SUV-Chery-Tiggo-4-interior-768x474.jpg | Autotest Argentina | desconocida |
+| /media/neta-l-2024-precio-ficha-tecnica-hunt1.webp | https://carnewschina.com/wp-content/uploads/2024/06/Neta_L_EV-800x450.jpg | Neta / Hozon Auto (vía CarNewsChina) | desconocida |
+| /media/neta-l-2024-precio-ficha-tecnica-hunt2.webp | https://carnewschina.com/wp-content/uploads/2024/06/Neta_L_EV-1-800x450.jpg | Neta / Hozon Auto (vía CarNewsChina) | desconocida |
+| /media/neta-l-2024-precio-ficha-tecnica-hunt3.webp | https://carnewschina.com/wp-content/uploads/2024/06/Neta_L_EV-2-800x450.jpg | Neta / Hozon Auto (vía CarNewsChina) | desconocida |
+| /media/yamaha-tmax-560-tech-max-2025-ficha-tecnica-precio-hunt1.webp | https://www.motorrad-bilder.at/thumbs/992x661xfarx272a2c00/slideshows/291/024140/2025_YAM_TMAX_TechMAX_CeramicGrey_STA_001.jpg | Yamaha (foto de prensa) / 1000PS | desconocida |
+| /media/yamaha-tmax-560-tech-max-2025-ficha-tecnica-precio-hunt2.webp | https://www.motorrad-bilder.at/thumbs/992x661xfarx272a2c00/slideshows/291/024140/2025_YAM_TMAX_TechMAX_CeramicGrey_STA_002.jpg | Yamaha (foto de prensa) / 1000PS | desconocida |
+| /media/yamaha-tmax-560-tech-max-2025-ficha-tecnica-precio-hunt3.webp | https://www.motorrad-bilder.at/thumbs/992x661xfarx272a2c00/slideshows/291/024140/2025_YAM_TMAX_TechMAX_CeramicGrey_STA_003.jpg | Yamaha (foto de prensa) / 1000PS | desconocida |
+| /media/zontes-350d-2026-ficha-tecnica-precio-hunt1.webp | https://zontes.hr/wp-content/uploads/2025/06/350D-siva-2.png | Zontes Hrvatska (importador oficial) | desconocida |
+| /media/zontes-350d-2026-ficha-tecnica-precio-hunt2.webp | https://zontes.hr/wp-content/uploads/2025/06/350D-crna-3.png | Zontes Hrvatska (importador oficial) | desconocida |
+| /media/zontes-350d-2026-ficha-tecnica-precio-hunt3.webp | https://zontes.hr/wp-content/uploads/2025/06/350D-bijela-6.png | Zontes Hrvatska (importador oficial) | desconocida |
