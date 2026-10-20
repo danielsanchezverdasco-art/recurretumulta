@@ -1012,6 +1012,37 @@ En vídeo: <a href=https://www.youtube.com/watch?v=0ACd4WFD0JU>prueba del MC20 e
 | 2,9 s y 325 km/h | Red de servicio pequeña |
 | Puertas de tijera | El Cielo le roba protagonismo |
 
+## MC20: el renacimiento de Módena con motor propio
+
+El MC20 (Maserati Corse 2020) marcó un antes y un después en la casa del tridente: primer superdeportivo de la marca con monocasco de carbono y, sobre todo, primer motor 100 % Maserati tras más de dos décadas usando bloques de origen Ferrari. El V6 Nettuno, desarrollado en Módena, es la declaración de independencia técnica de la marca, y su tecnología de precámara con doble bujía deriva directamente de la Fórmula 1. La <a href=https://www.maserati.com/pl/pl/modele/mc20>página oficial de Maserati</a> lo presenta como el inicio de su nueva era, con el coche construido íntegramente en la planta histórica de Viale Ciro Menotti. De ese proyecto nacieron después el descapotable Cielo y las versiones de competición GT2.
+
+## Técnica a fondo: carbono, Dallara y un V6 de menos de 220 kg
+
+| Concepto | Dato oficial del MC20 |
+|---|---|
+| Motor | V6 3.0 biturbo Nettuno, 630 CV / 730 Nm |
+| Monocasco de carbono | Unos 100 kg |
+| Peso total | 1.475 kg (menos de 1.500 kg) |
+| Reparto de pesos | 41 % delante / 59 % detrás |
+| 0-100 km/h / 0-200 km/h | 2,9 s / menos de 8,8 s |
+| Frenada 100-0 km/h | Menos de 33 metros |
+| Coeficiente aerodinámico | Cx inferior a 0,38 |
+| Depósito | 60 litros |
+
+Las cifras oficiales completan el retrato: un monocasco de apenas 100 kg desarrollado con Dallara, un motor que pesa menos de 220 kg y una frenada de 100 a 0 en menos de 33 metros hablan de un coche diseñado con obsesión por la masa. El reparto 41/59 y la tracción trasera con neumáticos 305/30 R20 detrás explican su carácter: es un superdeportivo de motor central a la vieja escuela, sin hibridación ni tracción total que lo domestiquen. Su consumo homologado (11,5 l/100 km en el análisis, 11,6 en la ficha oficial) y sus 261 g/km son el recordatorio de que la eficiencia no era el objetivo.
+
+## Uso real: un capricho de fin de semana, no un GT
+
+Con 100 litros de maletero trasero y 50 delante, puertas de tijera y una altura de solo 1.221 mm, el MC20 no pretende ser coche de diario: es un instrumento de conducción para carreteras de curvas y jornadas de circuito. Dicho eso, su suspensión es más tolerante de lo que sugiere su aspecto y el motor Nettuno es usable a bajo régimen, así que los desplazamientos al circuito por autovía no son un suplicio. Sus límites prácticos son los de su clase: visibilidad trasera escasa, neumáticos traseros de 305 mm con desgaste y precio acordes a sus prestaciones, y una red de servicio Maserati pequeña que obliga a planificar el mantenimiento.
+
+## Mantenimiento, costes y normativa
+
+Mantener un MC20 es mantener un superdeportivo: revisiones en servicio oficial con importes de otro orden que los de un deportivo convencional, consumibles (frenos, neumáticos 245/35 R20 y 305/30 R20) de precio elevado y un seguro acorde a 265.388 € de valor. Sin cifras oficiales cerradas que podamos citar, lo honesto es presupuestar varios miles de euros anuales si se usa con regularidad y rodadas. En normativa, lleva etiqueta C de la <a href=https://www.dgt.es>DGT</a> (gasolina sin hibridación), con las restricciones de ZBE propias de ese distintivo, e ITV de turismo. Euro NCAP no ensaya superdeportivos de tirada limitada como este: sin datos de estrellas, y su seguridad se apoya en la rigidez del monocasco de carbono.
+
+## Rivales y veredicto: ¿merece la pena?
+
+El duelo natural es italiano y electrificado: el <a href=/coches/ferrari-296-gtb-2025-precio-ficha-tecnica/>Ferrari 296 GTB</a> (830 CV híbridos y unos 300.000 € en su ficha) ofrece más potencia con ayuda eléctrica, y el <a href=/coches/mclaren-artura-2025-precio-ficha-tecnica/>McLaren Artura</a> (700 CV híbridos, 234.100 €) juega la misma carta británica. En casa, el <a href=/coches/maserati-gt2-stradale-2025-precio-ficha-tecnica/>Maserati GT2 Stradale</a> es su evolución radical de circuito. **Veredicto:** el MC20 merece la pena para quien busque el último superdeportivo puro de motor central sin hibridar, con motor propio y un precio por debajo del Ferrari equivalente; no es la compra para quien priorice la última tecnología híbrida o un uso diario razonable. Y si algún día te llega una multa a 325 km/h de punta, prueba antes nuestro <a href=/juego-monos/>juego caza-monos</a> para entrenar la vista.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto costaba el MC20?
@@ -1034,7 +1065,7 @@ Sí: <a href=https://www.youtube.com/watch?v=0ACd4WFD0JU>prueba en circuito y ca
 
 Si te ha llegado una multa con tu Maserati, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: <a href=https://www.km77.com/coches/maserati/mc20/2023/datos?amp=1>precio y ficha en km77</a>, <a href=https://www.youtube.com/watch?v=0ACd4WFD0JU>vídeo de la prueba</a>.*`
+*Fuentes: <a href=https://www.km77.com/coches/maserati/mc20/2023/datos?amp=1>precio y ficha en km77</a>, <a href=https://www.youtube.com/watch?v=0ACd4WFD0JU>vídeo de la prueba</a>. <a href=https://www.maserati.com/pl/pl/modele/mc20>Maserati (web oficial, especificaciones del MC20)</a>*`
   },
   {
     "title": "MC20 Cielo: precio y ficha del descapotable",
