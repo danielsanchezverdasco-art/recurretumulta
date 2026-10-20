@@ -593,7 +593,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     modelo: "788HS",
     tipo: "Gasolina",
     categoria: "Deportivo",
-    precioDesde: 420000,
+    precioDesde: null,
     potenciaCv: 788,
     autonomiaKm: null,
     maleteroL: 150,
@@ -610,7 +610,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
       "Sucesor espiritual del 688HS y el 765LT"
     ],
     contras: [
-      "~420.000 € de partida",
+      "Precio oficial no publicado por McLaren: 200 unidades (100 coupé + 100 spider), la prensa especializada estima ~450.000 GBP",
       "200 unidades con listas de espera",
       "Radicalidad de uso: poco confort diario",
       "Etiqueta C",
@@ -626,7 +626,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     parNm: 800,
     traccion: "Trasera",
     emisionesCo2: 280,
-    aprox: ["precioDesde", "ceroCien", "consumo", "pesoKg"],
+    aprox: ["ceroCien", "consumo", "pesoKg"],
     imagen: "/media/mclaren-788hs-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -674,7 +674,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     modelo: "GT",
     tipo: "Gasolina",
     categoria: "Deportivo",
-    precioDesde: 200000,
+    precioDesde: 199000,
     potenciaCv: 620,
     autonomiaKm: null,
     maleteroL: 570,
@@ -691,7 +691,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
       "El McLaren de ocasión más asequible"
     ],
     contras: [
-      "Descatalogado en 2024: solo ocasión",
+      "Aprox. 199.000 € según última tarifa oficial publicada del GT en Reino Unido (167.560 GBP); descatalogado en 2024, solo ocasión",
       "Menos emocionante que un 720S",
       "Interior menos especial que el exterior",
       "Etiqueta C",
@@ -755,7 +755,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     modelo: "Artura 1000GP by MSO",
     tipo: "Híbrido enchufable",
     categoria: "Deportivo",
-    precioDesde: 320000,
+    precioDesde: null,
     potenciaCv: 700,
     autonomiaKm: 33,
     maleteroL: 160,
@@ -772,8 +772,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
       "33 km eléctricos para la ciudad"
     ],
     contras: [
-      "~320.000 € por un Artura con cosmética",
-      "Solo 10 unidades, todas asignadas",
+      "Precio oficial no publicado por McLaren: edición MSO de 10 unidades, todas asignadas",
       "Sin mejoras mecánicas frente al Artura",
       "33 km eléctricos testimoniales",
       "Imposible de comprar nuevo"
@@ -788,7 +787,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     parNm: 720,
     traccion: "Trasera",
     emisionesCo2: 104,
-    aprox: ["precioDesde"],
+    aprox: [],
     imagen: "/media/mclaren-artura-1000gp-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -836,7 +835,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     modelo: "750S MCL38 Celebration Edition",
     tipo: "Gasolina",
     categoria: "Deportivo",
-    precioDesde: 330000,
+    precioDesde: null,
     potenciaCv: 750,
     autonomiaKm: null,
     maleteroL: 150,
@@ -853,7 +852,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
       "750 CV y 332 km/h con pedigrí de campeón"
     ],
     contras: [
-      "~330.000 € y las 9 unidades asignadas",
+      "Precio oficial no publicado por McLaren: solo 9 unidades, todas asignadas",
       "Sin cambios mecánicos frente al 750S",
       "Solo 9 afortunados en el mundo",
       "Etiqueta C",
@@ -869,7 +868,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     parNm: 800,
     traccion: "Trasera",
     emisionesCo2: 276,
-    aprox: ["precioDesde", "consumo"],
+    aprox: ["consumo"],
     imagen: "/media/mclaren-750s-mcl38-celebration-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
