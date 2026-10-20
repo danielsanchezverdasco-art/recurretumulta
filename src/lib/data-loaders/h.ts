@@ -206,6 +206,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "husqvarna-svartpilen-801-2026-precio-ficha": () => import("../blog-posts-lote15.ts"),
     "husqvarna-te-300-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m8.ts"),
     "husqvarna-vitpilen-125-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m2.ts"),
+    "husqvarna-vitpilen-125-2025": () => import("../blog-posts-motos-niki-t15.ts"),
     "husqvarna-vitpilen-401-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m2.ts"),
     "husqvarna-vitpilen-801-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m2.ts"),
     "hymer-b-mc-i-600-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin1.ts"),

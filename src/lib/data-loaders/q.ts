@@ -9,6 +9,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "qjmotor-fort-350-evo-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m11.ts"),
     "qjmotor-fort-4-0-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m9.ts"),
     "qjmotor-sq-200-2026-ficha-tecnica-precio": () => import("../blog-posts-lote7.ts"),
+    "qjmotor-srk-125-s-2026": () => import("../blog-posts-motos-niki-t15.ts"),
     "qjmotor-srk-125j-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m9.ts"),
     "qjmotor-srk-125s-precio-garantia": () => import("../blog-posts-lote14.ts"),
     "qjmotor-srk-400rs-4-cilindros-precio": () => import("../blog-posts-lote14.ts"),
