@@ -106,7 +106,7 @@ export const COCHES_LEVC: CocheComparador[] = [
     modelo: "TX Shuttle",
     tipo: "Híbrido de autonomía extendida",
     categoria: "Monovolumen",
-    precioDesde: null,
+    precioDesde: null, // Sin red comercial oficial de LEVC en España (venta bajo pedido a profesionales); sin tarifa pública
     potenciaCv: 150,
     autonomiaKm: 103,
     maleteroL: null,

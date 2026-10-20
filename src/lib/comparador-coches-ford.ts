@@ -1746,7 +1746,7 @@ export const COCHES_FORD: CocheComparador[] = [
     modelo: "E-Transit",
     tipo: "Eléctrico",
     categoria: "Furgoneta",
-    precioDesde: null,
+    precioDesde: null, // Tarifa oficial solo en el configurador de Ford Pro (ford.es); sin precio público de esta versión como texto indexado
     potenciaCv: 269,
     autonomiaKm: 402,
     maleteroL: null,

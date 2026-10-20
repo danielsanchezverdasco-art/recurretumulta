@@ -247,7 +247,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Cooper S",
     tipo: "Gasolina",
     categoria: "Urbano",
-    precioDesde: null,
+    precioDesde: null, // Tarifa oficial solo en el configurador de mini.es; sin precio público de esta versión como texto indexado
     potenciaCv: 204,
     autonomiaKm: null,
     maleteroL: 200,
@@ -1037,7 +1037,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Defender 110 D350",
     tipo: "Diésel",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 86600, // landrover.es oficial 10/2026: Defender 110 desde 86.600 € (acabado S, diésel)
     potenciaCv: 350,
     autonomiaKm: null,
     maleteroL: 786,
@@ -1116,7 +1116,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Defender 110 D300",
     tipo: "Diésel",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 86600, // landrover.es oficial 10/2026: Defender 110 desde 86.600 € (acabado S, diésel)
     potenciaCv: 300,
     autonomiaKm: null,
     maleteroL: 786,
@@ -1195,7 +1195,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Defender 110 P525",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 97450, // landrover.es oficial 10/2026: Defender 110 X-Dynamic SE (gasolina) desde 97.450 €
     potenciaCv: 525,
     autonomiaKm: null,
     maleteroL: 786,
@@ -1274,7 +1274,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Defender 110 P400e",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 86600, // landrover.es oficial 10/2026: Defender 110 desde 86.600 € (acabado S, híbrido)
     potenciaCv: 404,
     autonomiaKm: 43,
     maleteroL: 716,
@@ -1353,7 +1353,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Defender 130 D300",
     tipo: "Diésel",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 104000, // landrover.es oficial 10/2026: Defender 130 desde 104.000 €
     potenciaCv: 300,
     autonomiaKm: null,
     maleteroL: 389,
@@ -1432,7 +1432,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Defender 130 P400",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 104000, // landrover.es oficial 10/2026: Defender 130 desde 104.000 €
     potenciaCv: 400,
     autonomiaKm: null,
     maleteroL: 389,
@@ -1511,7 +1511,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Defender 90 P400",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 82450, // landrover.es oficial 10/2026: Defender 90 desde 82.450 €
     potenciaCv: 400,
     autonomiaKm: null,
     maleteroL: 397,
@@ -1669,7 +1669,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Range Rover P530",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 152250, // rangerover.com oficial 10/2026: Range Rover desde 152.250 € (SE)
     potenciaCv: 530,
     autonomiaKm: null,
     maleteroL: 818,
@@ -1748,7 +1748,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Range Rover P400",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 152250, // rangerover.com oficial 10/2026: Range Rover desde 152.250 € (SE)
     potenciaCv: 400,
     autonomiaKm: null,
     maleteroL: 818,
@@ -1827,7 +1827,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Range Rover Sport D350",
     tipo: "Diésel",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 101250, // rangerover.com oficial 10/2026: Range Rover Sport desde 101.250 € (S)
     potenciaCv: 350,
     autonomiaKm: null,
     maleteroL: 647,
@@ -1906,7 +1906,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Range Rover Sport P550e",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 101250, // rangerover.com oficial 10/2026: Range Rover Sport desde 101.250 € (S, híbrido)
     potenciaCv: 510,
     autonomiaKm: 113,
     maleteroL: null,
@@ -1985,7 +1985,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Range Rover Sport SV",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Range Rover Sport SV: se comercializa bajo pedido; rangerover.com no publica su precio en la página oficial de modelos
     potenciaCv: 635,
     autonomiaKm: null,
     maleteroL: null,
@@ -2064,7 +2064,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Range Rover Evoque P270e",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial pública localizada: rangerover.com solo ofrece el precio de esta versión en el configurador
     potenciaCv: 269,
     autonomiaKm: 62,
     maleteroL: 472,
@@ -2143,7 +2143,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Range Rover Evoque D200",
     tipo: "Diésel",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial pública localizada: rangerover.com solo ofrece el precio de esta versión en el configurador
     potenciaCv: 204,
     autonomiaKm: null,
     maleteroL: 591,
@@ -2222,7 +2222,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Range Rover Velar D300",
     tipo: "Diésel",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 79000, // rangerover.com oficial 10/2026: Velar Dynamic S (diésel) desde 79.000 €
     potenciaCv: 300,
     autonomiaKm: null,
     maleteroL: null,
@@ -2301,7 +2301,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Discovery P360",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial pública localizada: landrover.es solo ofrece el precio de esta versión en el configurador
     potenciaCv: 360,
     autonomiaKm: null,
     maleteroL: null,
@@ -2380,7 +2380,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Discovery Sport P270e",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial pública localizada: landrover.es solo ofrece el precio de esta versión en el configurador
     potenciaCv: 269,
     autonomiaKm: 61,
     maleteroL: null,
@@ -2459,7 +2459,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Discovery Sport D200",
     tipo: "Diésel",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial pública localizada: landrover.es solo ofrece el precio de esta versión en el configurador
     potenciaCv: 204,
     autonomiaKm: null,
     maleteroL: null,
@@ -2538,7 +2538,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "RS3 Sedan",
     tipo: "Gasolina",
     categoria: "Berlina",
-    precioDesde: null,
+    precioDesde: 90680, // audi.es oficial 10/2026: RS 3 Sedan desde 90.680 €
     potenciaCv: 400,
     autonomiaKm: null,
     maleteroL: 321,
@@ -2617,7 +2617,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "RS6 Avant performance",
     tipo: "Gasolina",
     categoria: "Familiar",
-    precioDesde: null,
+    precioDesde: null, // Sin precio «desde» publicado en audi.es (configurador de Audi España no muestra tarifa de esta versión; venta bajo pedido)
     potenciaCv: 630,
     autonomiaKm: null,
     maleteroL: 565,
@@ -3012,7 +3012,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "RS Q8 performance",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 187615, // prensa.audi.es oficial: RS Q8 performance desde 187.615 € en España
     potenciaCv: 640,
     autonomiaKm: null,
     maleteroL: 605,
@@ -3091,7 +3091,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Q7 55 TFSI",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Descatalogado: el nuevo Q7 (2026) solo se ofrece en España con motores V6 TDI; el 55 TFSI gasolina ya no tiene tarifa oficial
     potenciaCv: 340,
     autonomiaKm: null,
     maleteroL: 740,
@@ -3170,7 +3170,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "M4 CS",
     tipo: "Gasolina",
     categoria: "Deportivo",
-    precioDesde: null,
+    precioDesde: 193100, // press.bmwgroup.com oficial: BMW M4 CS, precio en España 193.100 €
     potenciaCv: 550,
     autonomiaKm: null,
     maleteroL: 440,
@@ -3249,7 +3249,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Serie 2 Active Tourer 225e",
     tipo: "Híbrido enchufable",
     categoria: "Monovolumen",
-    precioDesde: null,
+    precioDesde: 47050, // press.bmwgroup.com oficial: 225e xDrive Active Tourer desde 47.050 € en España
     potenciaCv: 245,
     autonomiaKm: 84,
     maleteroL: 406,
@@ -3328,7 +3328,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "M240i xDrive",
     tipo: "Gasolina",
     categoria: "Deportivo",
-    precioDesde: null,
+    precioDesde: 71200, // press.bmwgroup.com oficial: M240i xDrive (374 CV) 71.200 € en España
     potenciaCv: 374,
     autonomiaKm: null,
     maleteroL: 390,
@@ -3407,7 +3407,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "X5 M60i",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Tarifa oficial solo en el configurador de bmw.es; sin precio público de esta versión en lista o prensa oficial indexada
     potenciaCv: 530,
     autonomiaKm: null,
     maleteroL: 650,
@@ -3486,7 +3486,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "AMG CLE 53",
     tipo: "Gasolina",
     categoria: "Deportivo",
-    precioDesde: null,
+    precioDesde: null, // Tarifa oficial solo en la lista de precios PDF de mercedes-benz.es; precio de esta versión no verificable como texto público indexado
     potenciaCv: 449,
     autonomiaKm: null,
     maleteroL: 420,
@@ -3565,7 +3565,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "Clase G 450 d",
     tipo: "Diésel",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Tarifa oficial solo en la lista de precios PDF de mercedes-benz.es; precio de esta versión no verificable como texto público indexado
     potenciaCv: 367,
     autonomiaKm: null,
     maleteroL: 640,
@@ -3644,7 +3644,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "AMG S 63 e-performance",
     tipo: "Híbrido enchufable",
     categoria: "Berlina",
-    precioDesde: null,
+    precioDesde: null, // Tarifa oficial solo en la lista de precios PDF de mercedes-benz.es; precio de esta versión no verificable como texto público indexado
     potenciaCv: 802,
     autonomiaKm: 33,
     maleteroL: 305,
@@ -3723,7 +3723,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "AMG CLA 45 S",
     tipo: "Gasolina",
     categoria: "Berlina",
-    precioDesde: null,
+    precioDesde: null, // Descatalogado: la gama actual del CLA (mercedes-benz.es) no incluye el AMG CLA 45 S de la generación anterior; sin tarifa oficial publicada
     potenciaCv: 421,
     autonomiaKm: null,
     maleteroL: 460,
@@ -3802,7 +3802,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     modelo: "AMG GLC 63 S e-performance",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sustituido en la gama vigente: la lista de precios oficial del GLC (mercedes-benz.es) solo incluye el Mercedes-AMG GLC 53; sin tarifa del GLC 63 S
     potenciaCv: 680,
     autonomiaKm: 33,
     maleteroL: 390,

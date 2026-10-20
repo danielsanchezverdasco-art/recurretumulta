@@ -874,7 +874,7 @@ export const COCHES_NUEVOS_C5: CocheComparador[] = [
     modelo: "Eléctrico 2025",
     tipo: "Eléctrico",
     categoria: "Descapotable",
-    precioDesde: null,
+    precioDesde: null, // Sin importador oficial en España que publique tarifa del MOKE eléctrico; sin precio oficial ES
     potenciaCv: 44,
     autonomiaKm: 87,
     maleteroL: null,

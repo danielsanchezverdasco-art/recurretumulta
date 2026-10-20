@@ -417,7 +417,7 @@ export const COCHES_SMART: CocheComparador[] = [
     "modelo": "#1 Pro",
     "tipo": "Eléctrico",
     "categoria": "SUV",
-    "precioDesde": null,
+    "precioDesde": null, // Tarifa oficial solo en el configurador de smart España (es.smart.com); sin precio público de esta versión como texto indexado
     "potenciaCv": 272,
     "autonomiaKm": 310,
     "maleteroL": 288,
@@ -498,7 +498,7 @@ export const COCHES_SMART: CocheComparador[] = [
     "modelo": "#1 Pro+",
     "tipo": "Eléctrico",
     "categoria": "SUV",
-    "precioDesde": null,
+    "precioDesde": 43400, // media.smart.com oficial 09/2023: smart #1 Pro+ desde 43.400 € en España
     "potenciaCv": 272,
     "autonomiaKm": 420,
     "maleteroL": 288,
@@ -905,7 +905,7 @@ export const COCHES_SMART: CocheComparador[] = [
     "modelo": "#3 Pro+",
     "tipo": "Eléctrico",
     "categoria": "SUV",
-    "precioDesde": null,
+    "precioDesde": null, // Tarifa oficial solo en el configurador de smart España (es.smart.com); sin precio público de esta versión como texto indexado
     "potenciaCv": 272,
     "autonomiaKm": 435,
     "maleteroL": 370,

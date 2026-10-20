@@ -742,7 +742,7 @@ export const COCHES_JAC: CocheComparador[] = [
     modelo: "E40X",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // JAC no comercializa turismos oficialmente en España; sin tarifa oficial ES del e40X
     potenciaCv: 148,
     autonomiaKm: 402,
     maleteroL: 520,
@@ -825,7 +825,7 @@ export const COCHES_JAC: CocheComparador[] = [
     modelo: "JS4",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // JAC no comercializa turismos oficialmente en España; sin tarifa oficial ES del JS4
     potenciaCv: 150,
     autonomiaKm: null,
     maleteroL: null,

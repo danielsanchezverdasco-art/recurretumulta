@@ -1945,7 +1945,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     modelo: "Clase C 200",
     tipo: "Híbrido ligero",
     categoria: "Berlina",
-    precioDesde: null,
+    precioDesde: null, // Descatalogado: la lista de precios oficial del Clase C (mercedes-benz.es, 08/2026) ya no ofrece el C 200 gasolina de 204 CV (acceso actual: C 250)
     potenciaCv: 204,
     autonomiaKm: null,
     maleteroL: 455,
@@ -2026,7 +2026,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     modelo: "AMG G 63",
     tipo: "Híbrido ligero",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Tarifa oficial solo en la lista de precios PDF de mercedes-benz.es; precio de esta versión no verificable como texto público indexado
     potenciaCv: 585,
     autonomiaKm: null,
     maleteroL: 667,

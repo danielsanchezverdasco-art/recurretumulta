@@ -1113,7 +1113,7 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     tipo: "Gasolina",
     categoria: "Berlina",
     // Título ficha (sin precio, 50–60 car.): Genesis G70 2025 ficha técnica: 245 CV, 0-100 en 6,1 s
-    precioDesde: null,
+    precioDesde: null, // No se comercializa en España: Genesis llega en 2026 solo con gama eléctrica (GV60, GV70 Electrified y G80 Electrified); esta versión de combustión no se vende en España
     potenciaCv: 245,
     autonomiaKm: null,
     maleteroL: 330,
@@ -1165,7 +1165,7 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     modelo: "G80",
     tipo: "Gasolina",
     categoria: "Berlina",
-    precioDesde: null,
+    precioDesde: null, // No se comercializa en España: Genesis llega en 2026 solo con gama eléctrica (GV60, GV70 Electrified y G80 Electrified); esta versión de combustión no se vende en España
     potenciaCv: 304,
     autonomiaKm: null,
     maleteroL: 424,
@@ -1248,7 +1248,7 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     modelo: "GV80",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // No se comercializa en España: Genesis llega en 2026 solo con gama eléctrica (GV60, GV70 Electrified y G80 Electrified); esta versión de combustión no se vende en España
     potenciaCv: 304,
     autonomiaKm: null,
     maleteroL: 735,
@@ -2730,7 +2730,7 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     modelo: "EV3 GT",
     tipo: "Eléctrico",
     categoria: "SUV eléctrico deportivo",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial publicada en España (Kia España no publica precio de la versión GT; solo estimaciones de prensa)
     potenciaCv: 292,
     autonomiaKm: 501,
     maleteroL: 460,

@@ -175,7 +175,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "208 PureTech 100",
     tipo: "Gasolina",
     categoria: "Urbano",
-    precioDesde: null,
+    precioDesde: 17330, // peugeot.es oficial 10/2026: 208 Style Turbo 100 (sucesor del PureTech 100), precio al contado 17.330 €
     potenciaCv: 100,
     autonomiaKm: null,
     maleteroL: 309,
@@ -283,7 +283,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "Rifter BlueHDi 130",
     tipo: "Diésel",
     categoria: "Monovolumen",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial pública de esta motorización: media.stellantis.com solo publica precio del E-Rifter 2026 (38.220 €); el BlueHDi 130 solo consta en el configurador
     potenciaCv: 130,
     autonomiaKm: null,
     maleteroL: 775,
@@ -337,7 +337,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "Expert BlueHDi 180",
     tipo: "Diésel",
     categoria: "Furgoneta",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial pública por versión: peugeot.es solo ofrece el precio del Expert en el configurador
     potenciaCv: 180,
     autonomiaKm: null,
     maleteroL: null,
@@ -391,7 +391,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "3008 Hybrid 136",
     tipo: "Híbrido (MHEV)",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 38660, // media.stellantis.com oficial: nuevo 3008 Hybrid 136 desde 38.660 € (apertura de pedidos en España)
     potenciaCv: 136,
     autonomiaKm: null,
     maleteroL: 520,
@@ -445,7 +445,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "5008 Hybrid 136",
     tipo: "Híbrido (MHEV)",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 39660, // media.stellantis.com oficial: 5008 Hybrid 136 e-DCS6 a partir de 39.660 €
     potenciaCv: 136,
     autonomiaKm: null,
     maleteroL: 748,
@@ -499,7 +499,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "Jumper BlueHDi 180",
     tipo: "Diésel",
     categoria: "Furgoneta",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial pública por versión: citroen.es solo ofrece el precio del Jumper en el configurador
     potenciaCv: 180,
     autonomiaKm: null,
     maleteroL: null,
@@ -553,7 +553,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "C4 PureTech 130",
     tipo: "Gasolina",
     categoria: "Berlina",
-    precioDesde: null,
+    precioDesde: null, // Descatalogado en España: citroen.es solo vende el C4 en Hybrid 145/110 y ë-C4; el PureTech 130 no tiene tarifa oficial publicada
     potenciaCv: 130,
     autonomiaKm: null,
     maleteroL: 380,
@@ -607,7 +607,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "C4 X PureTech 130",
     tipo: "Gasolina",
     categoria: "Berlina",
-    precioDesde: null,
+    precioDesde: null, // Descatalogado en España: citroen.es solo vende el C4 X en Hybrid 145 y ë-C4 X; el PureTech 130 no tiene tarifa oficial publicada
     potenciaCv: 130,
     autonomiaKm: null,
     maleteroL: 510,
@@ -661,7 +661,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "C5 Aircross PureTech 130",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Modelo anterior descatalogado: citroen.es solo vende el nuevo C5 Aircross (Hybrid 145 y eléctrico); el PureTech 130 no tiene tarifa oficial publicada
     potenciaCv: 130,
     autonomiaKm: null,
     maleteroL: 580,
@@ -715,7 +715,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "Ami Cargo",
     tipo: "Eléctrico",
     categoria: "Cuadriciclo",
-    precioDesde: null,
+    precioDesde: 8390, // media.stellantis.com oficial: My Ami Cargo desde 8.390 €
     potenciaCv: 8,
     autonomiaKm: 75,
     maleteroL: 400,
@@ -769,7 +769,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "Rocks",
     tipo: "Eléctrico",
     categoria: "Cuadriciclo",
-    precioDesde: null,
+    precioDesde: null, // Opel España no publica tarifa oficial del Rocks (nuevo modelo 2025 anunciado; sin precio ES en opel.es)
     potenciaCv: 8,
     autonomiaKm: 75,
     maleteroL: null,
@@ -823,7 +823,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "Astra 1.2 Turbo 130",
     tipo: "Gasolina",
     categoria: "Compacto",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial pública de esta motorización: opel.es solo ofrece su precio en el configurador
     potenciaCv: 130,
     autonomiaKm: null,
     maleteroL: 422,
@@ -877,7 +877,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "Astra Sports Tourer 1.2 Turbo 130",
     tipo: "Gasolina",
     categoria: "Familiar",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial pública de esta motorización: opel.es solo ofrece su precio en el configurador
     potenciaCv: 130,
     autonomiaKm: null,
     maleteroL: 597,
@@ -931,7 +931,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "Mokka 1.2 Turbo 130",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial pública de esta motorización: opel.es solo ofrece su precio en el configurador
     potenciaCv: 130,
     autonomiaKm: null,
     maleteroL: 350,
@@ -985,7 +985,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "Grandland 1.2 Turbo 130",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Generación anterior descatalogada en España: el nuevo Grandland no ofrece el 1.2 Turbo 130 sin hibridar y opel.es no publica tarifa de la generación anterior
     potenciaCv: 130,
     autonomiaKm: null,
     maleteroL: 514,
@@ -1039,7 +1039,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "Combo 1.5 Diésel 130",
     tipo: "Diésel",
     categoria: "Furgoneta",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial pública de esta motorización: opel.es solo publica oferta oficial del Combo diésel 100 CV; el 130 CV solo consta en el configurador
     potenciaCv: 130,
     autonomiaKm: null,
     maleteroL: 775,
@@ -1093,7 +1093,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "Vivaro 2.0 Diésel 180",
     tipo: "Diésel",
     categoria: "Furgoneta",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial pública de esta motorización: opel.es solo ofrece su precio en el configurador
     potenciaCv: 180,
     autonomiaKm: null,
     maleteroL: null,
@@ -1147,7 +1147,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "Movano 2.2 Diésel 180",
     tipo: "Diésel",
     categoria: "Furgoneta",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial pública de esta motorización: opel.es solo ofrece su precio en el configurador
     potenciaCv: 180,
     autonomiaKm: null,
     maleteroL: null,
@@ -1201,7 +1201,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "E-Scudo",
     tipo: "Eléctrico",
     categoria: "Furgoneta",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial pública de esta motorización: fiat.es solo ofrece su precio en el configurador
     potenciaCv: 136,
     autonomiaKm: 352,
     maleteroL: null,
@@ -1255,7 +1255,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "E-Ducato",
     tipo: "Eléctrico",
     categoria: "Furgoneta",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial pública por versión: fiat.es solo ofrece el precio del E-Ducato en el configurador
     potenciaCv: 270,
     autonomiaKm: 424,
     maleteroL: null,
@@ -1309,7 +1309,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "Scudo 2.0 MultiJet 180",
     tipo: "Diésel",
     categoria: "Furgoneta",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial pública de esta motorización: fiat.es solo ofrece su precio en el configurador
     potenciaCv: 180,
     autonomiaKm: null,
     maleteroL: null,
@@ -1363,7 +1363,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "Ducato 2.2 MultiJet 180",
     tipo: "Diésel",
     categoria: "Furgoneta",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial pública de esta motorización: fiat.es solo ofrece su precio en el configurador
     potenciaCv: 180,
     autonomiaKm: null,
     maleteroL: null,
@@ -1417,7 +1417,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "600 1.2 Turbo 100",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 18950, // media.stellantis.com oficial: nuevo Fiat 600 Hybrid (100 CV) desde 18.950 € en España
     potenciaCv: 100,
     autonomiaKm: null,
     maleteroL: 385,
@@ -1471,7 +1471,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "Tipo 1.6 MultiJet 130",
     tipo: "Diésel",
     categoria: "Compacto",
-    precioDesde: null,
+    precioDesde: null, // Descatalogado en España: fiat.es ya no comercializa el Tipo; sin tarifa oficial publicada
     potenciaCv: 130,
     autonomiaKm: null,
     maleteroL: 440,
@@ -1525,7 +1525,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "500e Cabrio",
     tipo: "Eléctrico",
     categoria: "Descapotable",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial pública de esta motorización: fiat.es solo ofrece su precio en el configurador
     potenciaCv: 118,
     autonomiaKm: 320,
     maleteroL: 185,
@@ -1633,7 +1633,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "Compass e-Hybrid 130",
     tipo: "Híbrido (MHEV)",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Generación anterior descatalogada en España: corresponde a la generación anterior (4.404 mm); el nuevo Compass e-Hybrid es de 145 CV y esta versión no tiene tarifa oficial publicada
     potenciaCv: 130,
     autonomiaKm: null,
     maleteroL: 438,
@@ -1687,7 +1687,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "Compass MultiJet 130",
     tipo: "Diésel",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Generación anterior descatalogada en España: el nuevo Compass (2025) no ofrece motorización diésel y jeep.es no publica tarifa de la generación anterior
     potenciaCv: 130,
     autonomiaKm: null,
     maleteroL: 438,
@@ -1741,7 +1741,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "Compass 1.3 T 130",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Generación anterior descatalogada en España: el nuevo Compass (2025) no ofrece esta motorización y jeep.es no publica tarifa de la generación anterior
     potenciaCv: 130,
     autonomiaKm: null,
     maleteroL: 438,
@@ -1795,7 +1795,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "Compass 4xe 240",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Generación anterior descatalogada en España: corresponde a la generación anterior (4.404 mm); el nuevo Compass híbrido enchufable es de 195 CV y esta versión no tiene tarifa oficial publicada
     potenciaCv: 240,
     autonomiaKm: 50,
     maleteroL: 438,
@@ -1849,7 +1849,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "Renegade MultiJet 130",
     tipo: "Diésel",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Descatalogado en España: jeep.es ya no comercializa el Renegade; sin tarifa oficial publicada
     potenciaCv: 130,
     autonomiaKm: null,
     maleteroL: 351,
@@ -1903,7 +1903,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "Renegade T3 120",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Descatalogado en España: jeep.es ya no comercializa el Renegade; sin tarifa oficial publicada
     potenciaCv: 120,
     autonomiaKm: null,
     maleteroL: 351,
@@ -2389,7 +2389,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "Master dCi 180",
     tipo: "Diésel",
     categoria: "Furgoneta",
-    precioDesde: null,
+    precioDesde: null, // Descatalogado: la versión 2.3 dCi 180 es del Master anterior; el nuevo Master (2024) solo equipa el 2.0 diésel (105-170 CV); sin tarifa oficial de la versión antigua
     potenciaCv: 180,
     autonomiaKm: null,
     maleteroL: null,
@@ -2443,7 +2443,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "Captur TCe 90",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 21690, // EuropaPress 05/2024 (lanzamiento Renault): nuevo Captur TCe 90 evolution desde 21.690 €
     potenciaCv: 90,
     autonomiaKm: null,
     maleteroL: 422,
@@ -2551,7 +2551,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "Logan TCe 90",
     tipo: "Gasolina",
     categoria: "Berlina",
-    precioDesde: null,
+    precioDesde: null, // No se comercializa en España: Dacia España solo ofrece el Logan ECO-G 100; el TCe 90 no tiene tarifa oficial ES
     potenciaCv: 90,
     autonomiaKm: null,
     maleteroL: 528,

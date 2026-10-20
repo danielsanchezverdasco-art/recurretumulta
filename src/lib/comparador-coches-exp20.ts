@@ -25,7 +25,7 @@ export const COCHES_EXP20: CocheComparador[] = [
     modelo: "Boxer 2.2 BlueHDi 180",
     tipo: "Diésel",
     categoria: "Furgoneta",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial pública por versión: media.stellantis.com solo publica el precio de acceso del Boxer (15.300 € sin IVA); la tarifa del BlueHDi 180 solo está en el configurador
     potenciaCv: 180,
     autonomiaKm: null,
     maleteroL: null,
@@ -243,7 +243,7 @@ export const COCHES_EXP20: CocheComparador[] = [
     modelo: "Expert 1.5 BlueHDi 120",
     tipo: "Diésel",
     categoria: "Furgoneta",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial pública por versión: peugeot.es solo ofrece el precio del Expert en el configurador
     potenciaCv: 120,
     autonomiaKm: null,
     maleteroL: null,
@@ -299,7 +299,7 @@ export const COCHES_EXP20: CocheComparador[] = [
     modelo: "Rifter Long 1.5 BlueHDi 130",
     tipo: "Diésel",
     categoria: "Monovolumen",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial pública de esta motorización: media.stellantis.com solo publica precio del E-Rifter 2026 (38.220 €); el BlueHDi 130 solo consta en el configurador
     potenciaCv: 130,
     autonomiaKm: null,
     maleteroL: null,
@@ -409,7 +409,7 @@ export const COCHES_EXP20: CocheComparador[] = [
     modelo: "Jumper 2.2 BlueHDi 140",
     tipo: "Diésel",
     categoria: "Furgoneta",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial pública por versión: citroen.es solo ofrece el precio del Jumper en el configurador
     potenciaCv: 140,
     autonomiaKm: null,
     maleteroL: null,

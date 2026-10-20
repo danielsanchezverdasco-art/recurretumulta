@@ -657,7 +657,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     modelo: "Tiggo 4 Pro 1.5T",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Chery no se comercializa oficialmente en España (vía Omoda/Jaecoo/Ebro); sin tarifa oficial ES
     potenciaCv: 147,
     autonomiaKm: null,
     maleteroL: null,
@@ -721,7 +721,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     modelo: "Tiggo 7 Pro",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Chery no se comercializa oficialmente en España (vía Omoda/Jaecoo/Ebro); sin tarifa oficial ES
     potenciaCv: 197,
     autonomiaKm: null,
     maleteroL: 475,
@@ -849,7 +849,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     modelo: "V23",
     tipo: "Eléctrico",
     categoria: "Todoterreno",
-    precioDesde: null,
+    precioDesde: null, // Sin comercialización oficial en España (iCAUR no anuncia tarifa ES; solo precios en China)
     potenciaCv: 208,
     autonomiaKm: 355,
     maleteroL: null,
@@ -1553,7 +1553,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     modelo: "H6S",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // No se comercializa oficialmente en España (GWM España no importa el Haval H6s); sin tarifa oficial ES
     potenciaCv: 211,
     autonomiaKm: null,
     maleteroL: null,

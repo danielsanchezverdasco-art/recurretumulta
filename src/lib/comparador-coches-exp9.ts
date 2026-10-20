@@ -1012,7 +1012,7 @@ export const COCHES_EXP9: CocheComparador[] = [
     modelo: "Camry 2.5 Hybrid 231 CV",
     tipo: "Híbrido",
     categoria: "Berlina",
-    precioDesde: null,
+    precioDesde: null, // Descatalogado: el Camry desapareció del catálogo de Toyota España en 2025 sin sucesor
     potenciaCv: 231,
     autonomiaKm: null,
     maleteroL: null,
@@ -2944,7 +2944,7 @@ export const COCHES_EXP9: CocheComparador[] = [
     modelo: "S60 B5 250 CV",
     tipo: "Híbrido ligero",
     categoria: "Berlina",
-    precioDesde: null,
+    precioDesde: null, // Descatalogado: volvocars.com/es anuncia que ya no es posible pedir un nuevo S60 en España
     potenciaCv: 250,
     autonomiaKm: null,
     maleteroL: null,

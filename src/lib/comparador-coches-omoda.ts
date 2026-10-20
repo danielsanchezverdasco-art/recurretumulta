@@ -363,7 +363,7 @@ export const COCHES_OMODA: CocheComparador[] = [
     modelo: "S5",
     tipo: "Gasolina",
     categoria: "Berlina",
-    precioDesde: null,
+    precioDesde: null, // Omoda España no comercializa el S5 (gama ES: 5, 7 y 9); sin tarifa oficial ES
     potenciaCv: 184,
     autonomiaKm: null,
     maleteroL: 570,

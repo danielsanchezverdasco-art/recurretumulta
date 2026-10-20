@@ -628,7 +628,7 @@ export const COCHES_EXP15: CocheComparador[] = [
     modelo: "LBX Morizo RR",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // No se comercializa en España: Lexus España solo ofrece la gama LBX híbrida de 136 CV
     potenciaCv: 304,
     autonomiaKm: null,
     maleteroL: null,

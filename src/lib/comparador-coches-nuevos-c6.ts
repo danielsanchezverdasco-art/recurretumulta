@@ -227,7 +227,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     planMantenimiento: null,
     plazas: 1,
     potenciaCv: 22,
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial publicada en España (Mobilize/renault Pro no publica precio del Bento como texto accesible)
     pros: [
       "Caja de carga cerrada de 649 litros con puertas asimétricas: reparto urbano de última milla sin emisiones",
       "149 km de autonomía, suficiente para una jornada completa de reparto en ciudad",
@@ -2468,7 +2468,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "Countryman D",
     tipo: "Diésel",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Tarifa oficial solo en el configurador de mini.es; sin precio público de esta versión como texto indexado
     potenciaCv: 163,
     autonomiaKm: null,
     maleteroL: 450,
@@ -2915,7 +2915,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "AMG GLC 43 4MATIC",
     tipo: "Híbrido ligero",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sustituido en la gama vigente: la lista de precios oficial del GLC (mercedes-benz.es) solo incluye el Mercedes-AMG GLC 53; sin tarifa del GLC 43
     potenciaCv: 421,
     autonomiaKm: null,
     maleteroL: 620,

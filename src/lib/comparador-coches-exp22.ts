@@ -10,7 +10,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "3.0",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial de DR España publicada (la marca solo difunde precios en concesionarios; sin lista oficial ES)
     potenciaCv: 114,
     autonomiaKm: null,
     maleteroL: null,
@@ -89,7 +89,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "4.0",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial de DR España publicada (la marca solo difunde precios en concesionarios; sin lista oficial ES)
     potenciaCv: 114,
     autonomiaKm: null,
     maleteroL: 340,
@@ -247,7 +247,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "6.0",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial de DR España publicada (la marca solo difunde precios en concesionarios; sin lista oficial ES)
     potenciaCv: 154,
     autonomiaKm: null,
     maleteroL: null,
@@ -326,7 +326,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "7.0",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial de DR España publicada (la marca solo difunde precios en concesionarios; sin lista oficial ES)
     potenciaCv: null,
     autonomiaKm: null,
     maleteroL: null,
@@ -405,7 +405,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "ICKX K2",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial de DR España publicada (la marca solo difunde precios en concesionarios; sin lista oficial ES)
     potenciaCv: null,
     autonomiaKm: null,
     maleteroL: null,
@@ -484,7 +484,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "Sportequipe 7",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial de DR España publicada (la marca solo difunde precios en concesionarios; sin lista oficial ES)
     potenciaCv: 185,
     autonomiaKm: null,
     maleteroL: null,
@@ -563,7 +563,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "Sportequipe 8",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial de DR España publicada (la marca solo difunde precios en concesionarios; sin lista oficial ES)
     potenciaCv: null,
     autonomiaKm: null,
     maleteroL: null,
@@ -642,7 +642,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "3",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 16900, // EVO España oficial (landing evo-autoespana.es 10/2026): EVO 3 gasolina, PVP recomendado al contado 16.900 €
     potenciaCv: 114,
     autonomiaKm: null,
     maleteroL: null,
@@ -721,7 +721,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "4",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // EVO España solo publica tarifas oficiales de los modelos 3 y 7 en sus landings (evo-autoespana.es); sin precio oficial publicado de esta versión
     potenciaCv: 114,
     autonomiaKm: null,
     maleteroL: 340,
@@ -800,7 +800,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "5",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // EVO España solo publica tarifas oficiales de los modelos 3 y 7 en sus landings (evo-autoespana.es); sin precio oficial publicado de esta versión
     potenciaCv: 154,
     autonomiaKm: null,
     maleteroL: null,
@@ -879,7 +879,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "6",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // EVO España solo publica tarifas oficiales de los modelos 3 y 7 en sus landings (evo-autoespana.es); sin precio oficial publicado de esta versión
     potenciaCv: 154,
     autonomiaKm: null,
     maleteroL: null,
@@ -958,7 +958,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "7",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 31900, // EVO España oficial (landing evo-autoespana.es 10/2026): EVO 7 gasolina, PVP recomendado al contado 31.900 €
     potenciaCv: 185,
     autonomiaKm: null,
     maleteroL: null,
@@ -1037,7 +1037,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "Cross 4",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // EVO España solo publica tarifas oficiales de los modelos 3 y 7 en sus landings (evo-autoespana.es); sin precio oficial publicado de esta versión
     potenciaCv: 114,
     autonomiaKm: null,
     maleteroL: null,
@@ -1116,7 +1116,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "G01",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial de SWM España publicada (solo concesionarios; sin lista oficial ES)
     potenciaCv: 156,
     autonomiaKm: null,
     maleteroL: null,
@@ -1195,7 +1195,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "G01F",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial de SWM España publicada (solo concesionarios; sin lista oficial ES)
     potenciaCv: 156,
     autonomiaKm: null,
     maleteroL: null,
@@ -1274,7 +1274,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "G03F",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial de SWM España publicada (solo concesionarios; sin lista oficial ES)
     potenciaCv: 156,
     autonomiaKm: null,
     maleteroL: null,
@@ -1353,7 +1353,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "G05 Pro",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial de SWM España publicada (solo concesionarios; sin lista oficial ES)
     potenciaCv: 156,
     autonomiaKm: null,
     maleteroL: null,
@@ -1827,7 +1827,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "MIFA 9",
     tipo: "Eléctrico",
     categoria: "Monovolumen",
-    precioDesde: null,
+    precioDesde: null, // No figura en la gama actual de Maxus España (maxus-automotive.es, solo vehículos comerciales y pick-up)
     potenciaCv: 245,
     autonomiaKm: 435,
     maleteroL: null,
@@ -1906,7 +1906,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "T60 Max",
     tipo: "Diésel",
     categoria: "Pick-up",
-    precioDesde: null,
+    precioDesde: 29990, // maxus-automotive.es oficial 10/2026: T60 Max desde 29.990 €
     potenciaCv: 163,
     autonomiaKm: null,
     maleteroL: null,
@@ -1985,7 +1985,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "eDeliver 9",
     tipo: "Eléctrico",
     categoria: "Monovolumen",
-    precioDesde: null,
+    precioDesde: 40950, // maxus-automotive.es oficial 10/2026: eDELIVER 9 desde 40.950 €
     potenciaCv: 204,
     autonomiaKm: 350,
     maleteroL: null,
@@ -2143,7 +2143,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "eDeliver 7",
     tipo: "Eléctrico",
     categoria: "Monovolumen",
-    precioDesde: null,
+    precioDesde: null, // Fuera de la gama actual de Maxus España (maxus-automotive.es ya no lo ofrece; sustituido por el eDeliver 5)
     potenciaCv: 204,
     autonomiaKm: 320,
     maleteroL: null,
@@ -2854,7 +2854,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "Tiggo 4",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Chery no se comercializa oficialmente en España (vía Omoda/Jaecoo/Ebro); sin tarifa oficial ES
     potenciaCv: 147,
     autonomiaKm: null,
     maleteroL: 340,

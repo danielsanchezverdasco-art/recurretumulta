@@ -17,12 +17,12 @@
 | Fichas auditadas | **2.453** |
 | Hero OK | **2453 / 2.453** (100%) |
 | Fotos OK | **2447 / 2.453** |
-| Precio OK | **2231 / 2.453** |
+| Precio OK | **2260 / 2.453** |
 | Cumplen 3/3 | **2225 / 2.453** (90%) |
 | Fallos hero | 0 |
 | Fallos fotos | 6 |
-| Fallos precio (NULO-FALLO) | 121 |
-| Nulos honestos (NULO-HONESTO) | 101 |
+| Fallos precio (NULO-FALLO) | 0 |
+| Nulos honestos (NULO-HONESTO) | 193 |
 
 ## Resumen blogs
 
@@ -60,14 +60,17 @@ mini-cooper-c-2024 (27.200 €, mini.es), mini-cooper-jcw-2025 (39.455 €), min
 ### Fichas con una sola foto (6)
 `opel-corsa-12-turbo`, `toyota-yaris-120h`, `ford-puma-10-ecoboost-mhev`, `toyota-c-hr-140h`, `renault-clio-e-tech-145`, `toyota-corolla-140h`: solo existe una foto del modelo exacto en el repo, el deploy y todas las ramas (las `historia-*` son de años anteriores). Galería mínima no alcanzable con material del mismo modelo.
 
-### Precio NULO-HONESTO (101)
+### Precio NULO-HONESTO (193 tras la resolución de precios del 20/10/2026)
 El fabricante no publica tarifa oficial o el modelo no se comercializa en España/Europa (marcas chinas no importadas, precio bajo petición —Ferrari/Lamborghini/Rolls-Royce/Maserati/Aston Martin/Bentley—, modelos futuros o discontinuados). Se documenta uno a uno en la tabla con el motivo.
 
 ### Blog sin foto rescatable (1)
 `byd-ti7-2026-precio-ficha-tecnica`: su hero (`byd-ti7-2026-precio-ficha-tecnica-hero.webp`) no existe en el repo, el deploy ni ninguna rama (llegó incompleto, ver `docs/FOTOS-PENDIENTES.md`). Queda pendiente de generar la foto del modelo.
 
-### Precio NULO-FALLO (121) — pendientes de verificar en la web oficial
-El modelo se vende en España con tarifa oficial publicada pero la ficha no la trae. Por marca: Land Rover (18), Stellantis —Peugeot/Citroën/Opel/Fiat/Jeep— (30), Mercedes-Benz (8), BMW (4), Audi (4), Mini (2), smart (3), DR (7), EVO (6), SWM (4), Maxus (4), Genesis (3), Chery Tiggo 4/4 Pro/7 Pro (3), JAC (2), Aixam (2), y sueltos: Renault (2), Toyota Camry, Hyundai i30 N, Ford E-Transit/Mach-E, Volvo S60, Lexus LBX Morizo RR, Kia EV3 GT, MOKE Eléctrico, Mobilize Bento, Omoda S5, iCAUR V23, LEVC TX Shuttle, Dacia Logan TCe 90. Detalle en la tabla.
+### Precio NULO-FALLO (121) — RESUELTO el 20/10/2026 (rama `merlin-precios-coches`)
+Verificados uno a uno en la web/prensa oficial de cada marca en España:
+- **29 precios oficiales añadidos** con fuente citada en el código: Land Rover (12), BMW (3), Peugeot (3), Audi (2), EVO (2), Maxus (2), Aixam (1), Citroën (1), Fiat (1), Renault (1), smart (1).
+- **92 reclasificados a NULO-HONESTO** con motivo en el código y en la tabla: la clasificación original era demasiado optimista — la tarifa de la versión exacta no es pública como texto (solo configurador JS o PDF de lista: gran parte de los LCV Stellantis y varios Mercedes/BMW/Mini/smartpremium), la versión está descatalogada o sustituida (Jeep Compass/Renegade generación anterior, Citroën PureTech 130, Fiat Tipo, Mercedes CLA 45 S/GLC 43/63, Audi Q7 55 TFSI, Toyota Camry, Volvo S60, Hyundai i30 N, Renault Master 2.3 dCi 180), o el modelo/marca no se comercializa oficialmente en España (Chery, Haval, iCAUR, JAC turismos, LEVC, Genesis de combustión, Dacia Logan TCe 90, Lexus LBX Morizo RR, Omoda S5).
+- **0 pendientes.** Matiz: los casos "solo configurador/PDF" (p. ej. Mercedes CLE 53, S 63, AMG G 63 y G 450 d, cuya fila exacta de la lista PDF oficial no fue extraíble como texto) quedan como honestos documentados; con un navegador real podrían rescatarse del configurador oficial.
 
 ## Tabla completa de fichas (slug → hero → fotos → precio)
 
@@ -124,9 +127,9 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | aixam-e-truck-furgon-van-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | aixam-e-truck-plataforma-aluminio-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | aixam-easy-access-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| aixam-easy-access-diesel-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| aixam-easy-access-diesel-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Versión sin tarifa oficial localizada (AIXAM solo publica precios de la gama Easy/CHIC 2025 en prensa de lanzamiento) |
 | aixam-easy-chic-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| aixam-easy-chic-diesel-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| aixam-easy-chic-diesel-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | aixam-minauto-access-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | alfa-romeo-33-stradale-elettrica-750-precio-ficha-tecnica | OK | OK | OK |  |
 | alfa-romeo-33-stradale-v6-620-precio-ficha-tecnica | OK | OK | OK |  |
@@ -232,19 +235,19 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | audi-q6-e-tron-performance-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | audi-q6-sportback-e-tron-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | audi-q7-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| audi-q7-55-tfsi-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| audi-q7-55-tfsi-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Descatalogado: el nuevo Q7 (2026) solo se ofrece en España con motores V6 TDI; el 55 TFSI gasolina ya no tiene tarifa oficial |
 | audi-q8-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | audi-r8-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | audi-rs-e-tron-gt-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | audi-rs-q3-sportback-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | audi-rs-q8-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| audi-rs-q8-performance-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| audi-rs3-sedan-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| audi-rs-q8-performance-2025-precio-ficha-tecnica | OK | OK | OK |  |
+| audi-rs3-sedan-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | audi-rs3-sportback-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | audi-rs4-avant-2025 | OK | OK | OK |  |
 | audi-rs5-avant-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | audi-rs6-avant-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| audi-rs6-avant-performance-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| audi-rs6-avant-performance-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin precio «desde» publicado en audi.es (configurador de Audi España no muestra tarifa de esta versión; venta bajo pedido) |
 | audi-rs7-sportback-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | audi-s3-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | audi-s3-sportback-2025-precio-ficha-tecnica | OK | OK | OK |  |
@@ -345,20 +348,20 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | bmw-m2-coupe | OK | OK | OK |  |
 | bmw-m2-cs-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | bmw-m235-xdrive-gran-coupe-2026-precio-ficha-tecnica | OK | OK | OK |  |
-| bmw-m240i-xdrive-2026-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| bmw-m240i-xdrive-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | bmw-m3-competition-touring-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | bmw-m3-cs-touring-2025 | OK | OK | OK |  |
 | bmw-m340i-xdrive-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | bmw-m340i-xdrive-touring-2025 | OK | OK | OK |  |
 | bmw-m4-competition | OK | OK | OK |  |
-| bmw-m4-cs-2024-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| bmw-m4-cs-2024-precio-ficha-tecnica | OK | OK | OK |  |
 | bmw-m440i-xdrive-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | bmw-m5-berlina-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | bmw-m5-touring-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | bmw-serie-1-120-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | bmw-serie-1-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | bmw-serie-1-m135-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| bmw-serie-2-active-tourer-225e-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| bmw-serie-2-active-tourer-225e-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | bmw-serie-2-coupe-220i-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | bmw-serie-2-gran-coupe-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | bmw-serie-2-gran-coupe-220-2026-precio-ficha-tecnica | OK | OK | OK |  |
@@ -384,7 +387,7 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | bmw-x3-30e-xdrive-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | bmw-x3-m50-xdrive-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | bmw-x4-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| bmw-x5-m60i-2026-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| bmw-x5-m60i-2026-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Tarifa oficial solo en el configurador de bmw.es; sin precio público de esta versión en lista o prensa oficial indexada |
 | bmw-x5-xdrive40i-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | bmw-x5-xdrive50e-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | bmw-x6-m-2025 | OK | OK | OK |  |
@@ -489,11 +492,11 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | chery-q-2027-precio-ficha-tecnica | OK | OK | OK |  |
 | chery-qq-ice-cream-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | chery-tiggo-2-pro-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| chery-tiggo-4-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| chery-tiggo-4-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Chery no se comercializa oficialmente en España (vía Omoda/Jaecoo/Ebro); sin tarifa oficial ES |
 | chery-tiggo-4-csh-2026-precio-ficha-tecnica | OK | OK | OK |  |
-| chery-tiggo-4-pro-15t-2026-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| chery-tiggo-4-pro-15t-2026-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Chery no se comercializa oficialmente en España (vía Omoda/Jaecoo/Ebro); sin tarifa oficial ES |
 | chery-tiggo-7-csh-2026-precio-ficha-tecnica | OK | OK | OK |  |
-| chery-tiggo-7-pro-2026-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| chery-tiggo-7-pro-2026-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Chery no se comercializa oficialmente en España (vía Omoda/Jaecoo/Ebro); sin tarifa oficial ES |
 | chery-tiggo-8-csh-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | chery-tiggo-8-pro-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | chery-tiggo-9-2024-precio-ficha-tecnica | OK | OK | OK |  |
@@ -512,7 +515,7 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | citroen-2cv-electrico-2028 | OK | OK | OK |  |
 | citroen-ami-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | citroen-ami-buggy-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| citroen-ami-cargo-2026-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| citroen-ami-cargo-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | citroen-berlingo-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | citroen-berlingo-talla-xl-15-bluehdi-130-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | citroen-c3-2024-precio-ficha-tecnica | OK | OK | OK |  |
@@ -521,12 +524,12 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | citroen-c3-aircross-hibrido-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | citroen-c3-gasolina-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | citroen-c3-hibrido-2026-precio-ficha-tecnica | OK | OK | OK |  |
-| citroen-c4-12-puretech-130-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| citroen-c4-12-puretech-130-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Descatalogado en España: citroen.es solo vende el C4 en Hybrid 145/110 y ë-C4; el PureTech 130 no tiene tarifa oficial publicada |
 | citroen-c4-cactus-2025 | OK | OK | OK |  |
 | citroen-c4-hibrido-2026-precio-ficha-tecnica | OK | OK | OK |  |
-| citroen-c4-x-12-puretech-130-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| citroen-c4-x-12-puretech-130-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Descatalogado en España: citroen.es solo vende el C4 X en Hybrid 145 y ë-C4 X; el PureTech 130 no tiene tarifa oficial publicada |
 | citroen-c4-x-hibrido-2026-precio-ficha-tecnica | OK | OK | OK |  |
-| citroen-c5-aircross-12-puretech-130-2024-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| citroen-c5-aircross-12-puretech-130-2024-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Modelo anterior descatalogado: citroen.es solo vende el nuevo C5 Aircross (Hybrid 145 y eléctrico); el PureTech 130 no tiene tarifa oficial publicada |
 | citroen-c5-aircross-hibrido-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | citroen-c5-aircross-hibrido-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | citroen-c5-aircross-phev-2025-precio-ficha-tecnica | OK | OK | OK |  |
@@ -546,8 +549,8 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | citroen-e-jumper-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | citroen-e-jumpy-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | citroen-e-spacetourer-2026-precio-ficha-tecnica | OK | OK | OK |  |
-| citroen-jumper-22-bluehdi-140-2026-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| citroen-jumper-22-bluehdi-180-2026-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| citroen-jumper-22-bluehdi-140-2026-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial pública por versión: citroen.es solo ofrece el precio del Jumper en el configurador |
+| citroen-jumper-22-bluehdi-180-2026-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial pública por versión: citroen.es solo ofrece el precio del Jumper en el configurador |
 | citroen-jumpy-diesel-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | citroen-spacetourer-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | citroen-spacetourer-campster-2025 | OK | OK | OK |  |
@@ -626,7 +629,7 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | dacia-jogger-tce-110-7-plazas-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | dacia-lodgy-2025 | OK | OK | OK |  |
 | dacia-logan-eco-g-100-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| dacia-logan-tce-90-2026-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| dacia-logan-tce-90-2026-precio-ficha-tecnica | OK | OK | NULO-HONESTO | No se comercializa en España: Dacia España solo ofrece el Logan ECO-G 100; el TCe 90 no tiene tarifa oficial ES |
 | dacia-sandero-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | dacia-sandero-baja-precio-octubre-2026 | OK | OK | OK |  |
 | dacia-sandero-eco-g-100-2026-precio-ficha-tecnica | OK | OK | OK |  |
@@ -712,15 +715,15 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | dongfeng-vigo-electrico-precio-espana-ficha | OK | OK | OK |  |
 | donkervoort-d8-gto-jd70-r-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | donkervoort-f22-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| dr-3-0-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| dr-4-0-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| dr-3-0-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial de DR España publicada (la marca solo difunde precios en concesionarios; sin lista oficial ES) |
+| dr-4-0-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial de DR España publicada (la marca solo difunde precios en concesionarios; sin lista oficial ES) |
 | dr-5-0-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | dr-5-stilnovo-2026-precio-ficha-tecnica | OK | OK | OK |  |
-| dr-6-0-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| dr-7-0-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| dr-ickx-k2-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| dr-sportequipe-7-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| dr-sportequipe-8-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| dr-6-0-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial de DR España publicada (la marca solo difunde precios en concesionarios; sin lista oficial ES) |
+| dr-7-0-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial de DR España publicada (la marca solo difunde precios en concesionarios; sin lista oficial ES) |
+| dr-ickx-k2-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial de DR España publicada (la marca solo difunde precios en concesionarios; sin lista oficial ES) |
+| dr-sportequipe-7-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial de DR España publicada (la marca solo difunde precios en concesionarios; sin lista oficial ES) |
+| dr-sportequipe-8-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial de DR España publicada (la marca solo difunde precios en concesionarios; sin lista oficial ES) |
 | ds-3-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | ds-3-e-tense-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | ds-4-2025-precio-ficha-tecnica | OK | OK | OK |  |
@@ -741,13 +744,13 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | ebro-s800-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | ebro-s800-phev-precio-ficha-tecnica | OK | OK | OK |  |
 | ebro-s900-phev-2026-precio-ficha-tecnica | OK | OK | OK |  |
-| evo-3-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| evo-4-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| evo-5-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| evo-6-2026-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| evo-3-2025-precio-ficha-tecnica | OK | OK | OK |  |
+| evo-4-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | EVO España solo publica tarifas oficiales de los modelos 3 y 7 en sus landings (evo-autoespana.es); sin precio oficial publicado de esta versión |
+| evo-5-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | EVO España solo publica tarifas oficiales de los modelos 3 y 7 en sus landings (evo-autoespana.es); sin precio oficial publicado de esta versión |
+| evo-6-2026-precio-ficha-tecnica | OK | OK | NULO-HONESTO | EVO España solo publica tarifas oficiales de los modelos 3 y 7 en sus landings (evo-autoespana.es); sin precio oficial publicado de esta versión |
 | evo-6-hev-2026-precio-ficha-tecnica | OK | OK | OK |  |
-| evo-7-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| evo-cross-4-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| evo-7-2025-precio-ficha-tecnica | OK | OK | OK |  |
+| evo-cross-4-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | EVO España solo publica tarifas oficiales de los modelos 3 y 7 en sus landings (evo-autoespana.es); sin precio oficial publicado de esta versión |
 | evo-cuatro-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | evo-spazio-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | exeed-et5-2026-precio-ficha-tecnica | OK | OK | OK |  |
@@ -789,28 +792,28 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | fiat-500-hibrido-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | fiat-500e-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | fiat-500e-3plus1-118-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| fiat-500e-cabrio-118-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| fiat-500e-cabrio-118-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial pública de esta motorización: fiat.es solo ofrece su precio en el configurador |
 | fiat-500e-giorgio-armani-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | fiat-500x-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| fiat-600-12-turbo-100-2024-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| fiat-600-12-turbo-100-2024-precio-ficha-tecnica | OK | OK | OK |  |
 | fiat-600-2024-precio-ficha-tecnica | OK | OK | OK |  |
 | fiat-600-hybrid-110-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | fiat-600-sport-145cv-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | fiat-600e-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | fiat-doblo-12-puretech-110-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | fiat-doblo-2024-precio-ficha-tecnica | OK | OK | OK |  |
-| fiat-ducato-22-mjt-180-2026-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| fiat-ducato-22-mjt-180-2026-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial pública de esta motorización: fiat.es solo ofrece su precio en el configurador |
 | fiat-e-doblo-2024-precio-ficha-tecnica | OK | OK | OK |  |
-| fiat-e-ducato-2026-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| fiat-e-scudo-2026-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| fiat-e-ducato-2026-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial pública por versión: fiat.es solo ofrece el precio del E-Ducato en el configurador |
+| fiat-e-scudo-2026-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial pública de esta motorización: fiat.es solo ofrece su precio en el configurador |
 | fiat-e-ulysse-2024-precio-ficha-tecnica | OK | OK | OK |  |
 | fiat-grande-panda-electrico-precio-ficha-tecnica | OK | OK | OK |  |
 | fiat-grande-panda-ev-113-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | fiat-grande-panda-hibrido-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | fiat-panda-pandina-2025 | OK | OK | OK |  |
 | fiat-pandina-2024-precio-ficha-tecnica | OK | OK | OK |  |
-| fiat-scudo-20-mjt-180-2026-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| fiat-tipo-16-mjt-130-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| fiat-scudo-20-mjt-180-2026-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial pública de esta motorización: fiat.es solo ofrece su precio en el configurador |
+| fiat-tipo-16-mjt-130-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Descatalogado en España: fiat.es ya no comercializa el Tipo; sin tarifa oficial publicada |
 | fiat-tipo-2024-precio-ficha-tecnica | OK | OK | OK |  |
 | fiat-tipo-cross-hybrid-130-2024-precio-ficha-tecnica | OK | OK | OK |  |
 | fiat-tipo-sw-2025 | OK | OK | OK |  |
@@ -821,7 +824,7 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | ford-capri-ev-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | ford-e-tourneo-courier-2025 | OK | OK | OK |  |
 | ford-e-tourneo-custom-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| ford-e-transit-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| ford-e-transit-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Tarifa oficial solo en el configurador de Ford Pro (ford.es); sin precio público de esta versión como texto indexado |
 | ford-e-transit-courier-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | ford-explorer-electrico-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | ford-explorer-electrico-awd-2025-precio-ficha-tecnica | OK | OK | OK |  |
@@ -844,7 +847,7 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | ford-mustang-gt-fastback-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | ford-mustang-gtd-2025 | OK | OK | OK |  |
 | ford-mustang-mach-e-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| ford-mustang-mach-e-2026-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| ford-mustang-mach-e-2026-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Tarifa oficial solo en el configurador de ford.es; sin precio público indexado por versión en la web oficial |
 | ford-mustang-mach-e-extended-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | ford-mustang-mach-e-gt-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | ford-mustang-mach-e-rally-2025-precio-ficha-tecnica | OK | OK | OK |  |
@@ -911,12 +914,12 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | geely-preface-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | geely-starray-em-i-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | genesis-electrified-g80-2026 | OK | OK | OK |  |
-| genesis-g70-2025 | OK | OK | NULO-FALLO |  |
-| genesis-g80-2025 | OK | OK | NULO-FALLO |  |
+| genesis-g70-2025 | OK | OK | NULO-HONESTO | No se comercializa en España: Genesis llega en 2026 solo con gama eléctrica (GV60, GV70 Electrified y G80 Electrified); esta versión de combustión no se vende en España |
+| genesis-g80-2025 | OK | OK | NULO-HONESTO | No se comercializa en España: Genesis llega en 2026 solo con gama eléctrica (GV60, GV70 Electrified y G80 Electrified); esta versión de combustión no se vende en España |
 | genesis-gv60-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | genesis-gv60-magma-2026 | OK | OK | OK |  |
 | genesis-gv70-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| genesis-gv80-2025 | OK | OK | NULO-FALLO |  |
+| genesis-gv80-2025 | OK | OK | NULO-HONESTO | No se comercializa en España: Genesis llega en 2026 solo con gama eléctrica (GV60, GV70 Electrified y G80 Electrified); esta versión de combustión no se vende en España |
 | genesis-gv90-2027-precio-ficha-tecnica | OK | OK | OK |  |
 | gmc-hummer-ev-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | gmc-sierra-ev-2025-precio-ficha-tecnica | OK | OK | OK |  |
@@ -947,7 +950,7 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | haval-h6-hev-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | haval-h6-phev-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | haval-h6l-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| haval-h6s-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| haval-h6s-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | No se comercializa oficialmente en España (GWM España no importa el Haval H6s); sin tarifa oficial ES |
 | haval-h7-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Haval no comercializa el H7 en España |
 | haval-h9-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | haval-jolion-2024-precio-ficha-tecnica | OK | OK | OK |  |
@@ -1036,7 +1039,7 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | hyundai-i30-15-tgdi-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | hyundai-i30-2024-precio-ficha-tecnica | OK | OK | OK |  |
 | hyundai-i30-fastback-n-2024 | OK | OK | OK |  |
-| hyundai-i30-n-2026-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| hyundai-i30-n-2026-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Descatalogado: Hyundai cesó la producción del i30 N en Europa en 02/2024; sin tarifa oficial vigente |
 | hyundai-i30-n-line-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | hyundai-inster-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | hyundai-inster-cross-2026-precio-ficha-tecnica | OK | OK | OK |  |
@@ -1082,7 +1085,7 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | hyundai-tucson-phev-n-line-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | icar-03-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | iCar no vende en España (mercado chino) |
 | icaur-03t-2026-precio-ficha-tecnica | OK | OK | OK |  |
-| icaur-v23-2026-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| icaur-v23-2026-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin comercialización oficial en España (iCAUR no anuncia tarifa ES; solo precios en China) |
 | icaur-v25-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | icaur-v27-erev-2027-precio-ficha-tecnica | OK | OK | OK |  |
 | im-l6-2024-precio-ficha-tecnica | OK | OK | OK |  |
@@ -1112,11 +1115,11 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | iveco-daily-2025 | OK | OK | OK |  |
 | jac-a5-plus-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | jac-e30x-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| jac-e40x-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| jac-e40x-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | JAC no comercializa turismos oficialmente en España; sin tarifa oficial ES del e40X |
 | jac-ej7-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | jac-j7-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | jac-js2-pro-2024-precio-ficha-tecnica | OK | OK | OK |  |
-| jac-js4-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| jac-js4-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | JAC no comercializa turismos oficialmente en España; sin tarifa oficial ES del JS4 |
 | jac-js6-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | jac-qx-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | jac-qx-phev-2025-precio-ficha-tecnica | OK | OK | OK |  |
@@ -1154,11 +1157,11 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | jeep-avenger-electrico-156 | OK | OK | OK |  |
 | jeep-avenger-gasolina-100-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | jeep-cherokee-2026-precio-ficha-tecnica | OK | OK | OK |  |
-| jeep-compass-13-t-130-2024-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| jeep-compass-15-e-hybrid-130-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| jeep-compass-16-mjt-130-2024-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| jeep-compass-13-t-130-2024-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Generación anterior descatalogada en España: el nuevo Compass (2025) no ofrece esta motorización y jeep.es no publica tarifa de la generación anterior |
+| jeep-compass-15-e-hybrid-130-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Generación anterior descatalogada en España: corresponde a la generación anterior (4.404 mm); el nuevo Compass e-Hybrid es de 145 CV y esta versión no tiene tarifa oficial publicada |
+| jeep-compass-16-mjt-130-2024-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Generación anterior descatalogada en España: el nuevo Compass (2025) no ofrece motorización diésel y jeep.es no publica tarifa de la generación anterior |
 | jeep-compass-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| jeep-compass-4xe-240-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| jeep-compass-4xe-240-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Generación anterior descatalogada en España: corresponde a la generación anterior (4.404 mm); el nuevo Compass híbrido enchufable es de 195 CV y esta versión no tiene tarifa oficial publicada |
 | jeep-compass-4xe-electrico-375-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | jeep-compass-4xe-phev-195-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | jeep-compass-e-hybrid-145-2026-precio-ficha-tecnica | OK | OK | OK |  |
@@ -1170,8 +1173,8 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | jeep-grand-cherokee-4xe-380-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | jeep-grand-cherokee-l-2025 | OK | OK | NULO-HONESTO | Jeep no vende el Grand Cherokee L en Europa |
 | jeep-recon-2026-precio-ficha-tecnica | OK | OK | OK |  |
-| jeep-renegade-10-t3-120-2024-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| jeep-renegade-16-multijet-130-2024-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| jeep-renegade-10-t3-120-2024-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Descatalogado en España: jeep.es ya no comercializa el Renegade; sin tarifa oficial publicada |
+| jeep-renegade-16-multijet-130-2024-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Descatalogado en España: jeep.es ya no comercializa el Renegade; sin tarifa oficial publicada |
 | jeep-renegade-4xe-190-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | jeep-renegade-4xe-240-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | jeep-renegade-e-hybrid-130-2026-precio-ficha-tecnica | OK | OK | OK |  |
@@ -1229,7 +1232,7 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | kia-ev2-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | kia-ev3-air-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | kia-ev3-electrico-precio-ficha-tecnica | OK | OK | OK |  |
-| kia-ev3-gt-2026 | OK | OK | NULO-FALLO |  |
+| kia-ev3-gt-2026 | OK | OK | NULO-HONESTO | Sin tarifa oficial publicada en España (Kia España no publica precio de la versión GT; solo estimaciones de prensa) |
 | kia-ev3-gt-line-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | kia-ev3-gt-line-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | kia-ev4-2025-precio-ficha-tecnica | OK | OK | OK |  |
@@ -1294,27 +1297,27 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | lancia-ypsilon-electric-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | lancia-ypsilon-hf-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | lancia-ypsilon-hybrid-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| land-rover-defender-110-d300-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| land-rover-defender-110-d350-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| land-rover-defender-110-p400e-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| land-rover-defender-110-p525-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| land-rover-defender-130-d300-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| land-rover-defender-130-p400-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| land-rover-defender-90-p400-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| land-rover-defender-110-d300-2025-precio-ficha-tecnica | OK | OK | OK |  |
+| land-rover-defender-110-d350-2025-precio-ficha-tecnica | OK | OK | OK |  |
+| land-rover-defender-110-p400e-2025-precio-ficha-tecnica | OK | OK | OK |  |
+| land-rover-defender-110-p525-2025-precio-ficha-tecnica | OK | OK | OK |  |
+| land-rover-defender-130-d300-2025-precio-ficha-tecnica | OK | OK | OK |  |
+| land-rover-defender-130-p400-2025-precio-ficha-tecnica | OK | OK | OK |  |
+| land-rover-defender-90-p400-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | land-rover-defender-octa-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| land-rover-discovery-p360-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| land-rover-discovery-sport-d200-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| land-rover-discovery-sport-p270e-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| land-rover-discovery-p360-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial pública localizada: landrover.es solo ofrece el precio de esta versión en el configurador |
+| land-rover-discovery-sport-d200-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial pública localizada: landrover.es solo ofrece el precio de esta versión en el configurador |
+| land-rover-discovery-sport-p270e-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial pública localizada: landrover.es solo ofrece el precio de esta versión en el configurador |
 | land-rover-range-rover-electrico-2026-precio-ficha-tecnica | OK | OK | OK |  |
-| land-rover-range-rover-evoque-d200-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| land-rover-range-rover-evoque-p270e-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| land-rover-range-rover-p400-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| land-rover-range-rover-p530-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| land-rover-range-rover-sport-d350-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| land-rover-range-rover-evoque-d200-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial pública localizada: rangerover.com solo ofrece el precio de esta versión en el configurador |
+| land-rover-range-rover-evoque-p270e-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial pública localizada: rangerover.com solo ofrece el precio de esta versión en el configurador |
+| land-rover-range-rover-p400-2025-precio-ficha-tecnica | OK | OK | OK |  |
+| land-rover-range-rover-p530-2025-precio-ficha-tecnica | OK | OK | OK |  |
+| land-rover-range-rover-sport-d350-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | land-rover-range-rover-sport-electrico-2026-precio-ficha-tecnica | OK | OK | OK |  |
-| land-rover-range-rover-sport-p550e-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| land-rover-range-rover-sport-sv-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| land-rover-range-rover-velar-d300-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| land-rover-range-rover-sport-p550e-2025-precio-ficha-tecnica | OK | OK | OK |  |
+| land-rover-range-rover-sport-sv-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Range Rover Sport SV: se comercializa bajo pedido; rangerover.com no publica su precio en la página oficial de modelos |
+| land-rover-range-rover-velar-d300-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | leapmotor-a10-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | leapmotor-b01-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | leapmotor-b03-2026-precio-ficha-tecnica | OK | OK | OK |  |
@@ -1347,7 +1350,7 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | levc-l380-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | levc-tx-2024-precio-ficha-tecnica | OK | OK | OK |  |
 | levc-tx-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| levc-tx-shuttle-2024-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| levc-tx-shuttle-2024-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin red comercial oficial de LEVC en España (venta bajo pedido a profesionales); sin tarifa pública |
 | levc-vn5-2024-precio-ficha-tecnica | OK | OK | OK |  |
 | lexus-es-300h-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | lexus-es-300h-2026-precio-ficha-tecnica | OK | OK | OK |  |
@@ -1357,7 +1360,7 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | lexus-is-300h | OK | OK | OK |  |
 | lexus-lbx-2024-precio-ficha-tecnica | OK | OK | OK |  |
 | lexus-lbx-2026-precio-ficha-tecnica | OK | OK | OK |  |
-| lexus-lbx-morizo-rr-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| lexus-lbx-morizo-rr-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | No se comercializa en España: Lexus España solo ofrece la gama LBX híbrida de 136 CV |
 | lexus-lc-500-2024-precio-ficha-tecnica | OK | OK | OK |  |
 | lexus-lc-500-cabrio-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | lexus-lc-500h-2024-precio-ficha-tecnica | OK | OK | OK |  |
@@ -1474,11 +1477,11 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | maxus-deliver-7-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | maxus-edeliver-3-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | maxus-edeliver-5-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| maxus-edeliver-7-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| maxus-edeliver-9-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| maxus-edeliver-7-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Fuera de la gama actual de Maxus España (maxus-automotive.es ya no lo ofrece; sustituido por el eDeliver 5) |
+| maxus-edeliver-9-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | maxus-eterron-9-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| maxus-mifa-9-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| maxus-t60-max-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| maxus-mifa-9-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | No figura en la gama actual de Maxus España (maxus-automotive.es, solo vehículos comerciales y pick-up) |
+| maxus-t60-max-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | maxus-t90-ev-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | mazda-2-15-e-skyactiv-g-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | mazda-2-hybrid-2025-precio-ficha-tecnica | OK | OK | OK |  |
@@ -1533,27 +1536,27 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | mercedes-amg-a45-s-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | mercedes-amg-c43-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | mercedes-amg-c63-s-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| mercedes-amg-cla-45-s-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| mercedes-amg-cle-53-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| mercedes-amg-cla-45-s-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Descatalogado: la gama actual del CLA (mercedes-benz.es) no incluye el AMG CLA 45 S de la generación anterior; sin tarifa oficial publicada |
+| mercedes-amg-cle-53-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Tarifa oficial solo en la lista de precios PDF de mercedes-benz.es; precio de esta versión no verificable como texto público indexado |
 | mercedes-amg-cle-53-cabrio-2025 | OK | OK | OK |  |
 | mercedes-amg-g63-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| mercedes-amg-glc-43-2026-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| mercedes-amg-glc-63-s-e-performance-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| mercedes-amg-glc-43-2026-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sustituido en la gama vigente: la lista de precios oficial del GLC (mercedes-benz.es) solo incluye el Mercedes-AMG GLC 53; sin tarifa del GLC 43 |
+| mercedes-amg-glc-63-s-e-performance-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sustituido en la gama vigente: la lista de precios oficial del GLC (mercedes-benz.es) solo incluye el Mercedes-AMG GLC 53; sin tarifa del GLC 63 S |
 | mercedes-amg-gt-43-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | mercedes-amg-gt-suv-precio-ficha-tecnica | OK | OK | OK |  |
 | mercedes-amg-one-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| mercedes-amg-s-63-e-performance-2026-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| mercedes-amg-s-63-e-performance-2026-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Tarifa oficial solo en la lista de precios PDF de mercedes-benz.es; precio de esta versión no verificable como texto público indexado |
 | mercedes-amg-sl-63-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | mercedes-benz-amg-a-35-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | mercedes-benz-amg-a-45-s-precio-ficha-tecnica | OK | OK | OK |  |
 | mercedes-benz-amg-c-43-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | mercedes-benz-amg-c-63-s-e-performance-precio-ficha-tecnica | OK | OK | OK |  |
-| mercedes-benz-amg-g-63-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| mercedes-benz-amg-g-63-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Tarifa oficial solo en la lista de precios PDF de mercedes-benz.es; precio de esta versión no verificable como texto público indexado |
 | mercedes-benz-amg-gt-63-precio-ficha-tecnica | OK | OK | OK |  |
 | mercedes-benz-cla-200-electrico-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | mercedes-benz-cla-250-e-precio-ficha-tecnica | OK | OK | OK |  |
 | mercedes-benz-clase-a-200-precio-ficha-tecnica | OK | OK | OK |  |
-| mercedes-benz-clase-c-200-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| mercedes-benz-clase-c-200-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Descatalogado: la lista de precios oficial del Clase C (mercedes-benz.es, 08/2026) ya no ofrece el C 200 gasolina de 204 CV (acceso actual: C 250) |
 | mercedes-benz-clase-e-200-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | mercedes-benz-clase-e-220-d-precio-ficha-tecnica | OK | OK | OK |  |
 | mercedes-benz-clase-e-300-e-precio-ficha-tecnica | OK | OK | OK |  |
@@ -1584,7 +1587,7 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | mercedes-clase-b-200-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | mercedes-clase-c-200 | OK | OK | OK |  |
 | mercedes-clase-e-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| mercedes-clase-g-450-d-2026-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| mercedes-clase-g-450-d-2026-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Tarifa oficial solo en la lista de precios PDF de mercedes-benz.es; precio de esta versión no verificable como texto público indexado |
 | mercedes-cle-200-coupe-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | mercedes-e-vito-2025 | OK | OK | OK |  |
 | mercedes-eqa-250-plus-2025-precio-ficha-tecnica | OK | OK | OK |  |
@@ -1655,10 +1658,10 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | mini-cooper-e-2024-precio-ficha-tecnica | OK | OK | OK |  |
 | mini-cooper-jcw-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | mini-cooper-jcw-e-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| mini-cooper-s-2024-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| mini-cooper-s-2024-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Tarifa oficial solo en el configurador de mini.es; sin precio público de esta versión como texto indexado |
 | mini-cooper-se-2024-precio-ficha-tecnica | OK | OK | OK |  |
 | mini-countryman-c-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| mini-countryman-d-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| mini-countryman-d-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Tarifa oficial solo en el configurador de mini.es; sin precio público de esta versión como texto indexado |
 | mini-countryman-e-2026 | OK | OK | OK |  |
 | mini-countryman-jcw-all4-2024-precio-ficha-tecnica | OK | OK | OK |  |
 | mini-countryman-s-all4-2025 | OK | OK | OK |  |
@@ -1678,10 +1681,10 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | mitsubishi-grandis-hev-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | mitsubishi-outlander-phev-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | mitsubishi-space-star-2025-10-71cv-precio-ficha-tecnica | OK | OK | OK |  |
-| mobilize-bento-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| mobilize-bento-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial publicada en España (Mobilize/renault Pro no publica precio del Bento como texto accesible) |
 | mobilize-duo-45-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | mobilize-duo-80-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| moke-electrico-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| moke-electrico-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin importador oficial en España que publique tarifa del MOKE eléctrico; sin precio oficial ES |
 | morgan-plus-four-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | morgan-plus-six-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | morgan-super-3-2025-precio-ficha-tecnica | OK | OK | OK |  |
@@ -1770,24 +1773,24 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | omoda-9-shs-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | omoda-9-shs-precio-ficha-tecnica | OK | OK | OK |  |
 | omoda-c7-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| omoda-s5-2026-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| omoda-s5-2026-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Omoda España no comercializa el S5 (gama ES: 5, 7 y 9); sin tarifa oficial ES |
 | onvo-l60-2024-precio-ficha-tecnica | OK | OK | OK |  |
 | onvo-l60-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Onvo no vende en España (mercado chino) |
 | onvo-l60-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | onvo-l80-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | onvo-l90-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Onvo no vende en España (mercado chino) |
 | onvo-l90-nio-2026-precio-ficha-tecnica | OK | OK | OK |  |
-| opel-astra-12-turbo-130-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| opel-astra-12-turbo-130-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial pública de esta motorización: opel.es solo ofrece su precio en el configurador |
 | opel-astra-2024-precio-ficha-tecnica | OK | OK | OK |  |
 | opel-astra-diesel-130-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | opel-astra-electrico-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | opel-astra-hibrido-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | opel-astra-hibrido-enchufable-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| opel-astra-sports-tourer-12-turbo-130-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| opel-astra-sports-tourer-12-turbo-130-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial pública de esta motorización: opel.es solo ofrece su precio en el configurador |
 | opel-astra-sports-tourer-electrico-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | opel-astra-sports-tourer-hibrido-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | opel-astra-sports-tourer-phev-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| opel-combo-15-diesel-130-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| opel-combo-15-diesel-130-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial pública de esta motorización: opel.es solo publica oferta oficial del Combo diésel 100 CV; el 130 CV solo consta en el configurador |
 | opel-combo-electrico-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | opel-combo-xl-diesel-130-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | opel-corsa-12-100-2025-precio-ficha-tecnica | OK | OK | OK |  |
@@ -1801,7 +1804,7 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | opel-frontera-electric-precio-ficha-tecnica | OK | OK | OK |  |
 | opel-frontera-electrico-54kwh-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | opel-frontera-hibrido-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| opel-grandland-12-turbo-130-2024-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| opel-grandland-12-turbo-130-2024-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Generación anterior descatalogada en España: el nuevo Grandland no ofrece el 1.2 Turbo 130 sin hibridar y opel.es no publica tarifa de la generación anterior |
 | opel-grandland-2024-precio-ficha-tecnica | OK | OK | OK |  |
 | opel-grandland-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | opel-grandland-electrico-2025-precio-ficha-tecnica | OK | OK | OK |  |
@@ -1809,15 +1812,15 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | opel-grandland-electrico-long-range-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | opel-grandland-hibrido-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | opel-grandland-hibrido-enchufable-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| opel-mokka-12-turbo-130-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| opel-mokka-12-turbo-130-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial pública de esta motorización: opel.es solo ofrece su precio en el configurador |
 | opel-mokka-2024-precio-ficha-tecnica | OK | OK | OK |  |
 | opel-mokka-electrico-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | opel-mokka-gse-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | opel-mokka-hibrido-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| opel-movano-22-diesel-180-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| opel-movano-22-diesel-180-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial pública de esta motorización: opel.es solo ofrece su precio en el configurador |
 | opel-movano-electrico-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| opel-rocks-2026-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| opel-vivaro-20-diesel-180-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| opel-rocks-2026-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Opel España no publica tarifa oficial del Rocks (nuevo modelo 2025 anunciado; sin precio ES en opel.es) |
+| opel-vivaro-20-diesel-180-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial pública de esta motorización: opel.es solo ofrece su precio en el configurador |
 | opel-vivaro-electrico-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | opel-zafira-20-diesel-180-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | opel-zafira-electrico-2025-precio-ficha-tecnica | OK | OK | OK |  |
@@ -1830,10 +1833,10 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | peugeot-2008-2024-precio-ficha-tecnica | OK | OK | OK |  |
 | peugeot-2008-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | peugeot-2008-hibrido-145-2026-precio-ficha-tecnica | OK | OK | OK |  |
-| peugeot-208-12-puretech-100-2026-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| peugeot-208-12-puretech-100-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | peugeot-208-2026 | OK | OK | OK |  |
 | peugeot-208-hibrido-110-2026-precio-ficha-tecnica | OK | OK | OK |  |
-| peugeot-3008-12-hybrid-136-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| peugeot-3008-12-hybrid-136-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | peugeot-3008-2024-precio-ficha-tecnica | OK | OK | OK |  |
 | peugeot-3008-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | peugeot-3008-hibrido-145-2026-precio-ficha-tecnica | OK | OK | OK |  |
@@ -1847,13 +1850,13 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | peugeot-408-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | peugeot-408-hibrido-145-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | peugeot-408-phev-240-2026-precio-ficha-tecnica | OK | OK | OK |  |
-| peugeot-5008-12-hybrid-136-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| peugeot-5008-12-hybrid-136-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | peugeot-5008-hibrido-145-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | peugeot-5008-phev-195-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | peugeot-5008-phev-225-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | peugeot-508-phev-225-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | peugeot-508-sw-phev-225-2026-precio-ficha-tecnica | OK | OK | OK |  |
-| peugeot-boxer-22-bluehdi-180-2026-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| peugeot-boxer-22-bluehdi-180-2026-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial pública por versión: media.stellantis.com solo publica el precio de acceso del Boxer (15.300 € sin IVA); la tarifa del BlueHDi 180 solo está en el configurador |
 | peugeot-e-2008-electrico-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | peugeot-e-208-electrico-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | peugeot-e-208-gti-2026-precio-ficha-tecnica | OK | OK | OK |  |
@@ -1873,11 +1876,11 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | peugeot-e-partner-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | peugeot-e-rifter-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | peugeot-e-traveller-2026-precio-ficha-tecnica | OK | OK | OK |  |
-| peugeot-expert-15-bluehdi-120-2026-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| peugeot-expert-20-bluehdi-180-2026-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| peugeot-expert-15-bluehdi-120-2026-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial pública por versión: peugeot.es solo ofrece el precio del Expert en el configurador |
+| peugeot-expert-20-bluehdi-180-2026-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial pública por versión: peugeot.es solo ofrece el precio del Expert en el configurador |
 | peugeot-partner-15-bluehdi-130-2026-precio-ficha-tecnica | OK | OK | OK |  |
-| peugeot-rifter-15-bluehdi-130-2026-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| peugeot-rifter-long-15-bluehdi-130-2026-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| peugeot-rifter-15-bluehdi-130-2026-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial pública de esta motorización: media.stellantis.com solo publica precio del E-Rifter 2026 (38.220 €); el BlueHDi 130 solo consta en el configurador |
+| peugeot-rifter-long-15-bluehdi-130-2026-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial pública de esta motorización: media.stellantis.com solo publica precio del E-Rifter 2026 (38.220 €); el BlueHDi 130 solo consta en el configurador |
 | pininfarina-battista-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | polestar-2-long-range-dual-motor-precio-ficha-tecnica | OK | OK | OK |  |
 | polestar-2-long-range-precio-ficha-tecnica | OK | OK | OK |  |
@@ -1966,7 +1969,7 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | renault-captur-2024-tce-90-precio-ficha-tecnica | OK | OK | OK |  |
 | renault-captur-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | renault-captur-2026-e-tech-160-precio-ficha-tecnica | OK | OK | OK |  |
-| renault-captur-2026-tce-90-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| renault-captur-2026-tce-90-precio-ficha-tecnica | OK | OK | OK |  |
 | renault-captur-e-tech-145 | OK | OK | OK |  |
 | renault-captur-e-tech-145-2024-precio-ficha-tecnica | OK | OK | OK |  |
 | renault-clio-e-tech-145 | OK | NO | OK |  |
@@ -1981,7 +1984,7 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | renault-kangoo-blue-dci-95-2024-precio-ficha-tecnica | OK | OK | OK |  |
 | renault-kangoo-e-tech-combi-2024-precio-autonomia | OK | OK | OK |  |
 | renault-kwid-e-tech-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| renault-master-23-dci-180-2026-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| renault-master-23-dci-180-2026-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Descatalogado: la versión 2.3 dCi 180 es del Master anterior; el nuevo Master (2024) solo equipa el 2.0 diésel (105-170 CV); sin tarifa oficial de la versión antigua |
 | renault-master-e-tech-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | renault-megane-e-tech-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | renault-megane-e-tech-2026-lfp-67-kwh-precio-ficha-tecnica | OK | OK | OK |  |
@@ -2147,8 +2150,8 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | smart-1-brabus-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | smart-1-precio-ficha-tecnica | OK | OK | OK |  |
 | smart-1-premium-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| smart-1-pro-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| smart-1-pro-plus-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| smart-1-pro-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Tarifa oficial solo en el configurador de smart España (es.smart.com); sin precio público de esta versión como texto indexado |
+| smart-1-pro-plus-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | smart-1-pulse-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | smart-1-pure-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | smart-1-pure-plus-2025-precio-ficha-tecnica | OK | OK | OK |  |
@@ -2156,7 +2159,7 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | smart-3-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | smart-3-brabus-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | smart-3-pro-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| smart-3-pro-plus-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| smart-3-pro-plus-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Tarifa oficial solo en el configurador de smart España (es.smart.com); sin precio público de esta versión como texto indexado |
 | smart-5-brabus-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | smart-5-electrico-ficha-tecnica-precio | OK | OK | OK |  |
 | smart-5-premium-2025-precio-ficha-tecnica | OK | OK | OK |  |
@@ -2201,11 +2204,11 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | suzuki-swift-sport-2024-precio-ficha-tecnica | OK | OK | OK |  |
 | suzuki-vitara-14t-mild-hybrid | OK | OK | OK |  |
 | suzuki-vitara-strong-hybrid-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| swm-g01-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| swm-g01f-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| swm-g01-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial de SWM España publicada (solo concesionarios; sin lista oficial ES) |
+| swm-g01f-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial de SWM España publicada (solo concesionarios; sin lista oficial ES) |
 | swm-g03-edi-phev-2026-precio-ficha-tecnica | OK | OK | OK |  |
-| swm-g03f-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
-| swm-g05-pro-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| swm-g03f-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial de SWM España publicada (solo concesionarios; sin lista oficial ES) |
+| swm-g05-pro-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Sin tarifa oficial de SWM España publicada (solo concesionarios; sin lista oficial ES) |
 | swm-tiger-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | tank-300-2-0t-2024-precio-ficha-tecnica | OK | OK | OK |  |
 | tank-300-diesel-2025-precio-ficha-tecnica | OK | OK | OK |  |
@@ -2255,7 +2258,7 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | toyota-c-hr-phev-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | toyota-c-hr-plus-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | toyota-c-hr-plus-230-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| toyota-camry-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| toyota-camry-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Descatalogado: el Camry desapareció del catálogo de Toyota España en 2025 sin sucesor |
 | toyota-corolla-140h | OK | NO | OK |  |
 | toyota-corolla-5p-140h-2025-precio-ficha-tecnica | OK | OK | OK |  |
 | toyota-corolla-5p-140h-2026-precio-ficha-tecnica | OK | OK | OK |  |
@@ -2408,7 +2411,7 @@ El modelo se vende en España con tarifa oficial publicada pero la ficha no la t
 | volvo-ex60-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | volvo-ex60-cross-country-2026-precio-ficha-tecnica | OK | OK | OK |  |
 | volvo-ex90-2025-precio-ficha-tecnica | OK | OK | OK |  |
-| volvo-s60-b5-2025-precio-ficha-tecnica | OK | OK | NULO-FALLO |  |
+| volvo-s60-b5-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | Descatalogado: volvocars.com/es anuncia que ya no es posible pedir un nuevo S60 en España |
 | volvo-s90-b5-2025-precio-ficha-tecnica | OK | OK | NULO-HONESTO | El nuevo S90 2025 (fábrica china) no se vende en Europa |
 | volvo-v60-b4-2024-precio-ficha-tecnica | OK | OK | OK |  |
 | volvo-v60-b5-2025-precio-ficha-tecnica | OK | OK | OK |  |

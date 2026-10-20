@@ -855,7 +855,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     modelo: "i30 N 2026",
     tipo: "Gasolina",
     categoria: "Deportivo",
-    precioDesde: null,
+    precioDesde: null, // Descatalogado: Hyundai cesó la producción del i30 N en Europa en 02/2024; sin tarifa oficial vigente
     potenciaCv: 280,
     autonomiaKm: null,
     maleteroL: 395,
@@ -1463,7 +1463,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     modelo: "Mustang Mach-E 2026",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Tarifa oficial solo en el configurador de ford.es; sin precio público indexado por versión en la web oficial
     potenciaCv: 276,
     autonomiaKm: 615,
     maleteroL: 402,
