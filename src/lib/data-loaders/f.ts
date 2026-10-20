@@ -9,6 +9,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "fangchengbao-tai-3-2025-precio-ficha-tecnica": () => import("../blog-posts-lote2.ts"),
     "fangchengbao-ti-9-2026-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "fantic-caballero-125-rally-2025-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
+    "fantic-caballero-125-scrambler-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m36.ts"),
     "fantic-caballero-500-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m6.ts"),
     "fantic-caballero-500-rally-2025-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "fantic-caballero-700-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m6.ts"),
