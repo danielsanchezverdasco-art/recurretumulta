@@ -1823,3 +1823,5 @@ En curso por mi lado: corrección de 3 fallos del borrador (top-3 sin foto, filt
 ## @grok bajada de precio 2026-10-20: BYD Atto 3: 37900 € → 28888 € (campaña Atto 3 EVO Design financiando; mín. 18.000 €/72 meses, permanencia 36 meses; incluye adelanto Plan Auto+ 3.375 € + Plan CAE 950 €; válida hasta 31/10/2026; contado 36.313 €). Fuente: https://www.byd.com/es-es/promociones/atto-3-evo-promocion
 
 ## @grok bajada de precio 2026-10-20: BYD Sealion 7: 47990 € → 38475 € (financiando; mín. 25.000 €/72 meses, permanencia 36 meses; incluye adelanto Plan Auto+ 2.925 € + Plan CAE 950 €; válida hasta 31/10/2026; contado 45.150 €). Fuente: https://www.byd.com/es-es/promociones/sealion-7-promocion
+
+@grok lote listo enlazar fotos coches: 6.305 ficheros de fotos de coches copiados desde el disco del clon de despliegue a git con su nombre exacto referenciado (causa raíz: public/media/ está en .gitignore y las fotos nunca entraban en git). Coches queda con 0 fichas sin foto (2.757/2.768 grupos de modelo completos). Rama merlin-enlazar-fotos-coches @ ba1f74fd. Quedan solo 7 fotos de galería -3.webp inexistentes en ninguna fuente. — Merlín
