@@ -429,7 +429,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2T 2025",
     cilindradaCc: 125,
     categoria: "Enduro",
-    precioDesde: null,
+    precioDesde: 9990, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -442,7 +442,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "125 2T homologada Euro5: se matricula y se conduce con el A1",
       "Solo 101 kg en seco: agilidad total en zonas técnicas",
@@ -489,7 +489,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "4T 2025",
     cilindradaCc: 250,
     categoria: "Enduro",
-    precioDesde: 10650,
+    precioDesde: 10890, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -502,7 +502,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor 4T de 250 cc con base Yamaha: fiabilidad legendaria",
       "Entrega de potencia suave y progresiva, ideal para progresar",
@@ -546,7 +546,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "4T 2025",
     cilindradaCc: 304,
     categoria: "Enduro",
-    precioDesde: 10790,
+    precioDesde: 11390, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -620,7 +620,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "4T 2025",
     cilindradaCc: 450,
     categoria: "Enduro",
-    precioDesde: 11850,
+    precioDesde: 12290, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -677,7 +677,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 500,
     categoria: "Trail",
-    precioDesde: 7090,
+    precioDesde: 7090, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 29.4,
     potenciaCv: 40,
     autonomiaKm: null,
@@ -690,7 +690,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Estética scrambler vintage italiana que enamora",
       "Motor de 449 cc con 40 CV y 43 Nm: suficiente y con carácter",
@@ -731,7 +731,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 700,
     categoria: "Trail",
-    precioDesde: 9490,
+    precioDesde: 9990, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -744,7 +744,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor de 689 cc: el salto natural desde la Caballero 500",
       "Estética scrambler con prestaciones de moto grande",
@@ -755,7 +755,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     ],
     contras: [
       "Requiere carnet A: no vale el A2",
-      "Precio en oferta: la tarifa oficial es superior",
+      "9.990 € de tarifa oficial: en la franja alta de las scrambler bicilíndricas",
       "Menos protección y capacidad de carga que una trail al uso",
       "Suspensiones orientadas al estilo más que al off-road serio",
       "Consumo superior al de la 500 en uso urbano",
@@ -785,7 +785,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 300,
     categoria: "Enduro",
-    precioDesde: 10949,
+    precioDesde: null, // Sherco no publica tarifa oficial accesible en España para la 300 SE Factory (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -798,7 +798,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor 2T de 293 cc: el rey del hard enduro con par desde ralentí",
       "Solo 105 kg: ligereza extrema para zonas imposibles",
@@ -808,6 +808,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Sherco es especialista francesa en enduro y trial con gran palmarés"
     ],
     contras: [
+      "Sin precio oficial publicado: Sherco no difunde PVP en España para su gama de enduro",
       "Moto de competición: sin homologación para carretera",
       "Precio (~10.949 €) en la franja alta del enduro 2T",
       "El 300 2T exige técnica en zonas lentas para no calar",
@@ -956,7 +957,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 250,
     categoria: "Trial",
-    precioDesde: 8500,
+    precioDesde: 9120, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -969,7 +970,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "250 2T de trial con entrega dócil: la cilindrada ideal para progresar",
       "Versión Factory con componentes de competición",
@@ -1301,7 +1302,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2T 2025",
     cilindradaCc: 250,
     categoria: "Trial",
-    precioDesde: 7700,
+    precioDesde: null, // Beta no publica tarifa oficial accesible de la EVO 250 (2025); solo precios de concesionario (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -1314,7 +1315,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "250 2T: la cilindrada más equilibrada para aprender trial en serio",
       "Carácter dócil y par suficiente sin la brusquedad del 300",
@@ -1324,6 +1325,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Mantenimiento simple y barato"
     ],
     contras: [
+      "Sin precio oficial publicado: Beta no difunde tarifa pública de la gama EVO",
       "Moto de trial: sin homologación ni uso en carretera",
       "El 250 se queda corto frente al 300 en zonas de máximo nivel",
       "Mezcla 2T obligatoria",
@@ -1359,7 +1361,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2T 2025",
     cilindradaCc: 250,
     categoria: "Trial",
-    precioDesde: 8314,
+    precioDesde: null, // Beta no publica tarifa oficial accesible de la EVO 250 Factory (2025); solo precios de concesionario (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -1372,7 +1374,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "La EVO 250 con la preparación racing de los pilotos oficiales",
       "Mejoras en chasis y motor respecto a la EVO estándar",
@@ -1382,6 +1384,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Decoración Factory exclusiva"
     ],
     contras: [
+      "Sin precio oficial publicado: Beta no difunde tarifa pública de la gama EVO",
       "~600 € más que la EVO 250 estándar por mejoras sutiles",
       "Sin homologación: solo trial",
       "El extra racing no se aprovecha sin nivel alto",
@@ -1417,7 +1420,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 349,
     categoria: "Trail",
-    precioDesde: 6910,
+    precioDesde: 6910, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 26,
     potenciaCv: 35,
     autonomiaKm: null,
@@ -1430,7 +1433,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "El regreso de la mítica Alp: trial-excursión sencilla y honesta",
       "Motor 350 cc con 35 CV: suficiente para disfrutar sin complicaciones",
@@ -1474,7 +1477,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 349,
     categoria: "Trail",
-    precioDesde: 6910,
+    precioDesde: 6910, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 26,
     potenciaCv: 35,
     autonomiaKm: null,
@@ -1487,7 +1490,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "La versión scrambler de la Alp: faro redondo y estilo todo uso",
       "Ruedas de 19\" y 17\" más anchas: mejor en asfalto que la 4.0",
@@ -1585,7 +1588,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 200,
     categoria: "Enduro",
-    precioDesde: 10453,
+    precioDesde: 10453, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -1598,7 +1601,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Versión Race: la RR 200 con preparación de competición de serie",
       "Motor 2T de 200 cc: ligereza de 125 con par de 250",
@@ -1643,7 +1646,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 650,
     categoria: "Trail",
-    precioDesde: 11650,
+    precioDesde: 11650, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: 60,
     autonomiaKm: null,
@@ -1656,7 +1659,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Trail ligera de verdad: 152 kg en seco para una 600",
       "Motor 4T de 600 cc con ~60 CV: empuje sano sin excesos",
@@ -1759,7 +1762,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 300,
     categoria: "Trial",
-    precioDesde: 9120,
+    precioDesde: 9120, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -1772,7 +1775,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor 2T de 300 cc con inyección: potencia máxima del trial",
       "Solo 67 kg: ligereza extrema",
@@ -1816,7 +1819,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 250,
     categoria: "Trial",
-    precioDesde: 9120,
+    precioDesde: 9120, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -1829,7 +1832,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "250 2T con inyección: el equilibrio ideal del trial moderno",
       "67 kg y componentes Factory de primer nivel",

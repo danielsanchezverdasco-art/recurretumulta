@@ -1133,7 +1133,7 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     version: "2025",
     cilindradaCc: null,
     categoria: "Naked",
-    precioDesde: null,
+    precioDesde: 7690, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 11,
     potenciaCv: 15,
     autonomiaKm: 130,
@@ -1333,7 +1333,7 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     version: "2025",
     cilindradaCc: null,
     categoria: "Naked",
-    precioDesde: null,
+    precioDesde: 3649, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 2.5,
     potenciaCv: 3.4,
     autonomiaKm: 200,
@@ -1405,7 +1405,7 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     version: "2025",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: null,
+    precioDesde: 1695, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 0.6,
     potenciaCv: 0.8,
     autonomiaKm: 29,
@@ -1605,7 +1605,7 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     version: "City 2025",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: null,
+    precioDesde: null, // Torrot ya no comercializa la Muvi ni publica tarifa oficial vigente (verificado 20/10/2026)
     potenciaKw: 2.65,
     potenciaCv: 3.6,
     autonomiaKm: 78,
@@ -1677,7 +1677,7 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     version: "Executive L3 2025",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: null,
+    precioDesde: null, // Torrot ya no comercializa la Muvi ni publica tarifa oficial vigente (verificado 20/10/2026)
     potenciaKw: 3,
     potenciaCv: 4.1,
     autonomiaKm: 85,
@@ -1989,7 +1989,7 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     version: "2025",
     cilindradaCc: null,
     categoria: "Urbana",
-    precioDesde: 8650,
+    precioDesde: 8900, // 7.495 GBP (tarifa oficial Reino Unido) ÷ 0,84205 (BCE 19/10/2026), redondeado a la centena
     potenciaKw: 7,
     potenciaCv: 15,
     autonomiaKm: 128,
@@ -2012,7 +2012,7 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
       "Calidad de fabricación y acabados de nivel premium",
     ],
     contras: [
-      "~8.650 € al cambio: cara para una 125 equivalente",
+      "~8.900 € al cambio desde las 7.495 £ oficiales en Reino Unido: cara para una 125 equivalente",
       "141 kg: pesada para su tamaño",
       "Marca británica con presencia mínima en España",
       "Recambios y servicio complicados fuera del Reino Unido",
@@ -2060,7 +2060,7 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     version: "2025",
     cilindradaCc: null,
     categoria: "Naked",
-    precioDesde: 13500,
+    precioDesde: 13500, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 63,
     potenciaCv: 84,
     autonomiaKm: 193,
@@ -2073,7 +2073,7 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     carnet: "A",
     carga: "Batería de 10,5 kWh; carga en enchufe doméstico y puntos públicos",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "84 CV y 263 Nm: prestaciones de naked grande de gasolina",
       "0-100 km/h en 3 segundos",
@@ -2132,7 +2132,7 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     version: "2025",
     cilindradaCc: null,
     categoria: "Naked",
-    precioDesde: null,
+    precioDesde: 12490, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 63,
     potenciaCv: 84,
     autonomiaKm: 195,
