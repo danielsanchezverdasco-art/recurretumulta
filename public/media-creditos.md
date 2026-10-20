@@ -5125,3 +5125,26 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/ssc-tuatara-2025-precio-ficha-tecnica-hunt1.webp | https://pictures.topspeed.com/IMG/jpg/202002/2020-ssc-tuatara-12.jpg | TopSpeed | desconocida |
 | /media/ssc-tuatara-2025-precio-ficha-tecnica-hunt2.webp | https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2020/10/first-production-ssc-tuatara_100735087_h.jpg | HotCars | desconocida |
 | /media/ssc-tuatara-2025-precio-ficha-tecnica-hunt3.webp | https://i.gaw.to/content/photos/40/94/409462_La_SSC_Tuatara_de_1_750_chevaux_prend_son_envol.jpg | GuideAutoWeb | desconocida |
+| /media/czinger-21c-2025-precio-ficha-tecnica-hunt1.webp | https://d2cdo4blch85n8.cloudfront.net/wp-content/uploads/2021/06/Czinger-21C-Production-Specification-Vehicle-Featured-image-1568x882.jpg | Mike Shouts (foto de prensa oficial Czinger) | desconocida |
+| /media/czinger-21c-2025-precio-ficha-tecnica-hunt2.webp | https://carlifenation.com/wp-content/uploads/2025/10/Czinger-21c-front.png | Car Life Nation | desconocida |
+| /media/czinger-21c-2025-precio-ficha-tecnica-hunt3.webp | http://hdmotori.it/app/uploads/2021/06/978431.jpg | HDmotori.it | desconocida |
+| /media/honda-rebel-500-2025-ficha-tecnica-precio-hunt1.webp | https://ridermagazine.com/wp-content/uploads/2025/03/25-Honda-Rebel-500-ABS_Pearl-Beige_RF34.jpg | Rider Magazine (foto de prensa Honda) | desconocida |
+| /media/honda-rebel-500-2025-ficha-tecnica-precio-hunt2.webp | https://www.motosan.es/wp-content/uploads/2024/11/500561_25YM_Honda_CMX500_Rebel-scaled.jpg | Motosan (foto de prensa Honda) | desconocida |
+| /media/honda-rebel-500-2025-ficha-tecnica-precio-hunt3.webp | https://cdn.dealerspike.com/imglib/v1/800x600/imglib/trimsdb/24066961-0-141394181.jpg | Lloydminster Honda Powersports (foto de prensa Honda) | desconocida |
+| /media/luxeed-s7-2025-precio-ficha-tecnica-hunt1.webp | https://wcevcar.com/static/upfiles/202504/6805e7603cf7b.webp | Wancheng EV Car (wcevcar.com) | desconocida |
+| /media/luxeed-s7-2025-precio-ficha-tecnica-hunt2.webp | https://wcevcar.com/static/upfiles/202504/6805e692bb93c.webp | Wancheng EV Car (wcevcar.com) | desconocida |
+| /media/luxeed-s7-2025-precio-ficha-tecnica-hunt3.webp | https://www.car250.com/wp-content/uploads/2023/09/Huawei-Luxeed-S7-7.jpg | car250.com | desconocida |
+| /media/voge-900dsx-2025-ficha-tecnica-precio-hunt1.webp | https://images5.1000ps.net/images_bikekat/2026/617-Voge/13062-DS900X/001-639039971260218696-voge-ds900x.jpg | 1000PS | desconocida |
+| /media/voge-900dsx-2025-ficha-tecnica-precio-hunt2.webp | https://www.dam-racing.be/cdn/shop/files/Voge-DS900X-Black-4.jpg?v=1768500927 | DAM Racing | desconocida |
+| /media/voge-900dsx-2025-ficha-tecnica-precio-hunt3.webp | https://disk.cpilot.cz/gorex/2024/06/900-dsx-blue@900-dsx-blue-titulka-hlavni%40AZAvxyz2e6PBFjsaAlr6.png?h=660&w=660&webp=1 | Voge Česko (voge-cesko.cz) | desconocida |
+| /media/gordon-murray-t50-2025-precio-ficha-tecnica-hunt1.webp | https://www.supercars.net/blog/wp-content/uploads/2025/11/2025-Gordon-Murray-Automotive-T-50_1384277-1536x1024.jpg | Supercars.net / Gordon Murray Automotive | desconocida |
+| /media/gordon-murray-t50-2025-precio-ficha-tecnica-hunt2.webp | https://wheels-and-things.com/wp-content/uploads/sites/2/2020/08/Gordon-Murray-T50-14.jpg | wheels-and-things.com / Gordon Murray Automotive | desconocida |
+| /media/gordon-murray-t50-2025-precio-ficha-tecnica-hunt3.webp | https://www.jalopnik.com/jalopnik/images/ly3cyzmfdfzwih80uvbu.jpg | Jalopnik / Gordon Murray Automotive | desconocida |
+| /media/honda-forza-125-2025-ficha-tecnica-precio-hunt1.webp | https://soymotero.net/wp-content/uploads/2024/10/493152_25YM_Honda_Forza_125.jpg | Honda Motor Europe (vía soymotero.net) | desconocida |
+| /media/honda-forza-125-2025-ficha-tecnica-precio-hunt2.webp | https://www.motorrad-bilder.at/slideshows/490879/024033/493156_25YM_Honda_Forza_125.jpg | Honda Motor Europe (vía motorrad-bilder.at) | desconocida |
+| /media/honda-forza-125-2025-ficha-tecnica-precio-hunt3.webp | https://www.motoslignon.ch/wp-content/uploads/2024/10/493154_25ym_honda_forza_125_mat_pearl_pacific_blue.webp | Honda Motor Europe (vía motoslignon.ch) | desconocida |
+| /media/luxeed-r7-2025-precio-ficha-tecnica-hunt1.webp | https://st.arenaev.com/news/24/09/luxeed-r7-offic/-1242x621/arenaev_000.jpg | ArenaEV / Luxeed (Huawei-Chery) | desconocida |
+| /media/luxeed-r7-2025-precio-ficha-tecnica-hunt2.webp | https://www.auto-test-und-technik.de/wp-content/uploads/2025/10/Luxeed-R7-14.jpg | auto-test-und-technik.de / Luxeed | desconocida |
+| /media/luxeed-r7-2025-precio-ficha-tecnica-hunt3.webp | https://carnewschina.com/wp-content/uploads/2025/08/1000023262-800x521.jpg | CarNewsChina / Luxeed | desconocida |
+| /media/yamaha-tenere-700-rally-2025-ficha-tecnica-precio-hunt1.webp | https://www.motorrad-bilder.at/thumbs/992x661xfarx272a2c00/slideshows/291/023760/RAW_YAM_Tenere_YM25_D3_5783.jpg | Yamaha Motor Europe (vía motorrad-bilder.at/1000PS) | desconocida |
+| /media/yamaha-tenere-700-rally-2025-ficha-tecnica-precio-hunt2.webp | https://www.motornieuws.be/wp-content/uploads/2024/11/2025-Yamaha-XTZ700SPR-EU-Sky_Blue-Action-011-03.jpg | Yamaha Motor Europe (vía motornieuws.be) | desconocida |
