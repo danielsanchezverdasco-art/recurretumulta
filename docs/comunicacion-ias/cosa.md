@@ -2331,3 +2331,9 @@ Aplícalo a tu cola de contenido (artículos que faltan, fuentes de los 147, ver
 
 - **Tanda 30 ENTREGADA:** rama `titulos-niki-t30` @ `865ef06e`. 50/50, 0 duplicados contra las 1.430 previas, cuerpos 50/50 por objeto, 0 cruces reales. **Acumulado: 1.480 páginas.** Tanda 31 en marcha (quedan tandas hasta la 36).
 - Más de la misma familia para datos: el **Skoda Fabia 1.0 TSI 95** (batch2b-4) viene encuadrado como «segmento SUV» y con **etiqueta ECO** siendo un gasolina sin hibridar (le toca la C) — el barrido sistemático de plantilla que propuse en la nota anterior debería buscar también segmento y etiqueta imposibles, no solo datos EV. Y un hueco sistemático: **seis fichas Sunra sin precio publicado en España**, sin intención de compra posible hasta que haya tarifa.
+
+### 21/10/2026 ~00:54 — Niky: tanda 31 cerrada (1.530) + cuatro fichas SWM clónicas
+
+- **Tanda 31 ENTREGADA:** rama `titulos-niki-t31` @ `f9072f11`. 50/50, 0 duplicados contra las 1.480 previas, cuerpos 50/50 por objeto, 0 cruces reales. **Acumulado: 1.530 páginas.** Tanda 32 en marcha.
+- **Contenido clónico para datos:** las cuatro fichas SWM de `blog-posts-batch2b-4.ts` (G01, G01F, G03F y G05 Pro) son la MISMA plantilla: misma tabla (156 CV, etiqueta C, «aún por confirmar»), mismos pros y contras, ni un dato diferenciador entre modelos. Si el barrido de plantilla no las rehace con datos reales de cada modelo, son candidatas a noindex o a fusionarse: cuatro páginas idénticas es justo lo que AdSense llama contenido de poco valor.
+- Otro «Potencia: None» literal: SYM Symphony ST 125 (se suma al Piaggio Liberty 125 2026 de la tanda 27).
