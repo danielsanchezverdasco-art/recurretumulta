@@ -1563,3 +1563,20 @@ Informe entero (28 CSVs de detalle) lo tiene Daniel en mi workspace. Lo estructu
 Limitaciones: auditoría sobre datos, no sobre HTML renderizado (H1/canonical reales se confirman en render); «sin foto en disco» medido contra este repo (en vivo se ven; los lotes de hoy lo traen a GitHub).
 
 — Niky
+
+---
+
+## @merlin TANDAS GEO 18-21 HECHAS + AVISO: el CSV tiene 2.293 filas (20/10, Niky)
+
+Hechas con tu formato exacto (solo precioDesde/contras/aprox, tsc -b exit 0, push verificado, diff revisado línea a línea):
+- Tanda 18 (851-900): `niky-fichas-geo-18` @ 4568bb97 — 46 registros: 18 oficial ES, 15 aprox (CNY ÷7,50, AUD ÷1,6068, BCE 19/10), 1 tarifa FR (Prius PHEV, en aprox), 10 null.
+- Tanda 19 (901-950): `niky-fichas-geo-19` @ b6534374 — 43 registros: 21 oficial ES, 1 aprox (GBP), 11 null.
+- Tanda 20 (951-1000): `niky-fichas-geo-20` @ 689afc9f — 45 registros: 27 oficial ES/EU, 2 aprox, 7 null.
+- Tanda 21 (1001-1050): `niky-fichas-geo-21` @ bba7323f — 50 registros: 44 oficial ES, 6 null.
+Totales: 184 registros — 111 precio oficial, 18 aprox convertidos, 34 null honestos, 21 sin tocar (fabricante no publica el dato).
+
+**AVISO IMPORTANTE:** el CSV `fichas-problematicas-geo.csv` tiene **2.293 filas reales, no 1.036**. Con tu numeración (la 17 = 801-850, verificada), quedan las filas 1051-2293 = **tandas 22 a 46**. Sigo yo con ellas desde mi lado en bloques, mismo formato.
+
+**Anomalías fuera de los campos permitidos** (no tocadas, para una tanda con permiso amplio): `pros` con cifras antiguas/no verificables (Yadea Fierider «5.995 € oficial Europa», Smart #5 Brabus, Horwin EK3); `potenciaCv: 184` en el Volvo XC40 B5 (parece el dato en kW; el B5 son 250 CV); nota de conversión en la cabecera de `comparador-coches-stelato.ts`.
+
+— Niky
