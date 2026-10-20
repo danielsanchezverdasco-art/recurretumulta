@@ -4951,3 +4951,24 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/ds-n8-2025-precio-ficha-tecnica-hunt1.webp | https://api2.zoomit.ir/media/ds-n8-front-675bc24e9c30483beb69e2eb?w=1920&q=75 | DS Automobiles (foto de prensa) | desconocida |
 | /media/ds-n8-2025-precio-ficha-tecnica-hunt2.webp | https://www.actualidadmotor.com/wp-content/uploads/2024/12/ds-n8-3-1024x614.jpg.webp | ActualidadMotor (foto de prensa DS Automobiles) | desconocida |
 | /media/ds-n8-2025-precio-ficha-tecnica-hunt3.webp | https://st.arenaev.com/specs/ds/ds-n08-inter-1.jpg | arenaEV (foto de prensa DS Automobiles) | desconocida |
+| /media/lucid-gravity-2026-precio-ficha-tecnica-hunt1.webp | https://images.ctfassets.net/5ky6szwjj7ya/7HQOiqGtAavmnmbDkg30pa/e2f61371fc066eac1de6531f7204cbf6/lucid-og-gravity-world-luxury-car.webp | Lucid Motors (foto oficial) | desconocida |
+| /media/lucid-gravity-2026-precio-ficha-tecnica-hunt2.webp | https://www.motortrend.com/files/68fbb2e28c001b0002a2255e/016-2026-lucid-gravity-grand-touring.jpg?w=768&width=768&q=75&format=webp | MotorTrend | desconocida |
+| /media/lucid-gravity-2026-precio-ficha-tecnica-hunt3.webp | https://www.motortrend.com/files/6757449c715fe70008488916/003-2025-lucid-gravity-interior-dash.jpg?* | MotorTrend | desconocida |
+| /media/morbidelli-f-125-2025-ficha-tecnica-precio-hunt1.webp | https://soymotero.net/wp-content/uploads/2025/06/Morbidelli-F125-2026-9.jpg | SoyMotero (foto de prensa Morbidelli) | desconocida |
+| /media/morbidelli-f-125-2025-ficha-tecnica-precio-hunt2.webp | https://www.crazywheels.it/images/moto124/F125-2025.jpg | CrazyWheels (foto de prensa Morbidelli) | desconocida |
+| /media/morbidelli-f-125-2025-ficha-tecnica-precio-hunt3.webp | https://www.motosan.es/wp-content/uploads/2025/06/ultyikrm-1024x635.jpg | Motosan (foto de prensa Morbidelli) | desconocida |
+| /media/yangwang-u9-xtreme-2025-precio-ficha-tecnica-hunt1.webp | https://mycarheaven.com/wp-content/uploads/2025/09/YANGWANG-U9-Xtreme-front-right-view.webp | MyCarHeaven | desconocida |
+| /media/yangwang-u9-xtreme-2025-precio-ficha-tecnica-hunt2.webp | https://theevreport.com/wp-content/uploads/2025/09/GPF27458.jpg | The EV Report | desconocida |
+| /media/yangwang-u9-xtreme-2025-precio-ficha-tecnica-hunt3.webp | https://www.headlightmag.com/hlmwp/wp-content/uploads/2026/05/Yangwang-U9-Extreme-Interior-1-768x470.jpg | Headlight Magazine | desconocida |
+| /media/ebro-s400-2025-precio-ficha-tecnica-hunt1.webp | https://www.km77.com/media/fotos/ebro_s400_2025_9399_1.jpg | km77.com | desconocida |
+| /media/ebro-s400-2025-precio-ficha-tecnica-hunt2.webp | https://pruebascoches.com/wp-content/uploads/2025/05/EBRO_S400_038-scaled-e1748544894171-1024x712.jpg | PruebasCoches.com | desconocida |
+| /media/ebro-s400-2025-precio-ficha-tecnica-hunt3.webp | https://www.pruebatucoche.es/wp-content/uploads/2025/12/EBRO_s400_salpicadero.jpg | Pruebatucoche.es | desconocida |
+| /media/morbidelli-f-352-2025-ficha-tecnica-precio-hunt1.webp | https://cdn.keeway.com/mbpmoto.com/media/16969/conversions/F352_WHITE_WEB_1-md.png | Morbidelli (web oficial) | desconocida |
+| /media/morbidelli-f-352-2025-ficha-tecnica-precio-hunt2.webp | https://cdn.keeway.com/mbpmoto.com/media/16585/conversions/F352_BLUE_WEB_1-md.png | Morbidelli (web oficial) | desconocida |
+| /media/morbidelli-f-352-2025-ficha-tecnica-precio-hunt3.webp | https://www.mundomotero.com/wp-content/uploads/2024/11/morbidelli-f352-2025-3.jpg | MundoMotero.com | desconocida |
+| /media/vinfast-vf-6-2026-precio-ficha-tecnica-hunt1.webp | https://www.motorbiscuit.com/wp-content/uploads/2023/01/VinFast-VF-6.jpg | MotorBiscuit | desconocida |
+| /media/vinfast-vf-6-2026-precio-ficha-tecnica-hunt2.webp | https://static-cms-prod.vinfastauto.ph/statics/2025-04/vf-6_interior_mg_1421-enhanced-nr-copy_2.webp | VinFast (web oficial Filipinas) | desconocida |
+| /media/vinfast-vf-6-2026-precio-ficha-tecnica-hunt3.webp | https://media.auto5.vn/resize_1920x1080/files/theanh/2022/05/31/vf-6-4-114547.jpg | auto5.vn | desconocida |
+| /media/yangwang-u7-2025-precio-ficha-tecnica-hunt1.webp | https://images.carexpert.com.au/app/uploads/2024/11/yangwang-u7-2.jpg | CarExpert | desconocida |
+| /media/yangwang-u7-2025-precio-ficha-tecnica-hunt2.webp | https://autodesign.mx/wp-content/uploads/2026/01/yangwang_u7_71-scaled.jpeg | autodesign.mx | desconocida |
+| /media/yangwang-u7-2025-precio-ficha-tecnica-hunt3.webp | https://media.evkx.net/multimedia/models/yangwang/u7/u7_ev_super_4wd/interior_4b9ec_st.webp | EVKX | desconocida |
