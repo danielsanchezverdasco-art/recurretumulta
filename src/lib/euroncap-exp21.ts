@@ -1,11 +1,11 @@
 // EURONCAP EXP21 — datos EuroNCAP verificados para el lote 7 (07/10/2026).
 // Solo entran modelos con test EuroNCAP verificado. Sin test -> SIN entrada.
 // Notas: Serie 3 5★/2019 aplica al M3 Touring y al M340i (misma carrocería G20);
-// Serie 5 5★/2023 aplica al M5 Touring (misma carrocería G60); Q3 5★/2018 aplica
-// al RS Q3 Sportback; Q6 e-tron 5★/2024 aplica al SQ6 Sportback; A6 e-tron 5★/2025
-// aplica al S6 e-tron.
+// Serie 5 5★/2023 aplica al M5 Touring (misma carrocería G60); Q6 e-tron 5★/2024
+// aplica al SQ6 Sportback; A6 e-tron 5★/2025 aplica al S6 e-tron.
 // Sin entrada: X6 xDrive40d (sin test específico del X6), Clase S 450 d
-// (EuroNCAP no somete a test la Clase S por su bajo volumen).
+// (EuroNCAP no somete a test la Clase S por su bajo volumen), RS Q3 Sportback
+// (auditoría 20/10/2026: la validez del test del Q3 2018 no lo cubre).
 import type { SeguridadEuroNCAP } from "./seguridad-euroncap.ts";
 
 export const EURONCAP_EXP21: Record<string, SeguridadEuroNCAP> = {
@@ -25,9 +25,9 @@ export const EURONCAP_EXP21: Record<string, SeguridadEuroNCAP> = {
     estrellas: 5,
     anioTest: 2025,
     adulto: 88,
-    infantil: 86,
+    infantil: 84,
     peatones: 77,
-    asistencias: 81,
+    asistencias: 80,
     videoCrashId: null,
     videoAlceId: null,
   },
@@ -101,21 +101,10 @@ export const EURONCAP_EXP21: Record<string, SeguridadEuroNCAP> = {
     fichaId: "audi-a6-berlina-2026-precio-ficha-tecnica",
     estrellas: 5,
     anioTest: 2025,
-    adulto: 87,
-    infantil: 88,
-    peatones: 78,
-    asistencias: 77,
-    videoCrashId: null,
-    videoAlceId: null,
-  },
-  "audi-rs-q3-sportback-2025-precio-ficha-tecnica": {
-    fichaId: "audi-rs-q3-sportback-2025-precio-ficha-tecnica",
-    estrellas: 5,
-    anioTest: 2018,
-    adulto: 95,
-    infantil: 86,
-    peatones: 76,
-    asistencias: 85,
+    adulto: 92,
+    infantil: 91,
+    peatones: 75,
+    asistencias: 80,
     videoCrashId: null,
     videoAlceId: null,
   },

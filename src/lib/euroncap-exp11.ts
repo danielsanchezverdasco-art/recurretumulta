@@ -72,7 +72,7 @@ export const EURONCAP_EXP11: Record<string, SeguridadEuroNCAP> = {
     adulto: 95,
     infantil: 87,
     peatones: 74,
-    asistencias: 77,
+    asistencias: 71,
     videoCrashId: "dKYJAgsRYc0",
     videoAlceId: null,
   },
