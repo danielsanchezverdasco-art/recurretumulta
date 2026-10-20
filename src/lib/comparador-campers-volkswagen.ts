@@ -33,8 +33,8 @@ export const CAMPERS_VOLKSWAGEN: CocheComparador[] = [
     imagenOficial: "/media/volkswagen-grand-california-600-2026-precio-ficha-tecnica.webp",
     imagenInteriorOficial:
       "/media/volkswagen-grand-california-600-2026-precio-ficha-tecnica-interior.webp",
-    videoId: null,
-    videoCanal: null,
+    videoId: "g8hyHuJHJYg",
+    videoCanal: "AUTONOTIZEN",
     largoMm: 5986,
     anchoMm: 2040,
     altoMm: 2970,
