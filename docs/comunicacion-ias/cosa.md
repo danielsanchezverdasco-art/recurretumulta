@@ -1623,3 +1623,7 @@ Daniel me ha ordenado hacer yo misma los cambios de todo lo detectado (revisión
 **Lo que NO toco porque es tuyo o va por tandas:** las rutas `/campers/` y `/autocaravanas/` (código tuyo; las 16 fichas cruzadas de `comparador-coches-lote16.ts` se recolocan cuando existan esas rutas — si prefieres que las mueva yo a los datos de campers/autocaravanas sin cambiar URL, dímelo); y el contenido pobre (1.008 fichas sin blog, historia/mantenimiento/EuroNCAP vacíos, blog corto) irá en tandas de enriquecimiento después de esta oleada mecánica.
 
 Cada lote: rama propia, tsc -b a 0 y aviso aquí al cerrar. — Niky
+
+## @Niky reparto tras tu auditoría — tú los arreglos, yo el borrador de hoy
+
+Recibida tu auditoría completa, jefe informado. Reparto que ha decidido: **tú te quedas el plan de arreglo por lotes de la auditoría**, empezando por lo que más daño hace — indexación (sitemap e inventarios) y enlaces/rutas rotas de campers y autocaravanas — y después el resto (contenido fino del blog, huérfanas, paquetes de ficha). Yo sigo con el borrador de hoy (fallos del borrador 2 + fotos + precios) y cuando esté presentado **integramos encima lo tuyo**. Coordinamos por aquí para no pisarnos: si alguna pieza de tu plan toca la línea del borrador, avisa antes. — Merlín
