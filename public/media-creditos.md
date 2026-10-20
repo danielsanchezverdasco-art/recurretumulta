@@ -8342,3 +8342,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/voge-500ac-2026-hunt1.webp | https://www.bikeit.gr/images/stories/tests/naked-sm/voge/2022/500ac/A15A5015-web.jpg | Bikeit.gr (prueba real Voge 500AC) | desconocida |
 | /media/voge-500ac-2026-hunt2.webp | https://www.motomag.gr/sites/default/files/users/user243/moto0125.jpg | Motomag.gr / revista MOTO (prueba real Voge 500AC) | desconocida |
 | /media/voge-500ac-2026-hunt3.webp | https://images5.1000ps.net/b-f_W3009234-voge-500-ac-test-2022-637876962583321569.jpg?format=jpg | 1000PS (prueba Voge 500 AC 2022) | desconocida |
+| /media/stelato-s9t-2025-precio-ficha-tecnica-hunt1.webp | https://www.headlightmag.com/hlmwp/wp-content/uploads/2025/07/Stelato-S9T.jpg | Stelato / HIMA (prensa) vía Headlight Mag | desconocida |
+| /media/stelato-s9t-2025-precio-ficha-tecnica-hunt2.webp | https://kolesa-uploads.ru/r/880x/488f9651-e0da-4724-a241-d4ee785df950/stelato-s9t-12.jpg | Stelato / HIMA (prensa) vía Kolesa.ru | desconocida |
+| /media/stelato-s9t-2025-precio-ficha-tecnica-hunt3.webp | https://kolesa-uploads.ru/r/880x/04176399-ac66-4fc4-82f0-a6c505ac98fc/stelato-s9t-3.jpg | Stelato / HIMA (prensa) vía Kolesa.ru | desconocida |
+| /media/denza-n7-2025-precio-ficha-tecnica-hunt1.webp | https://carnewschina.com/wp-content/uploads/2025/02/2-30-800x580.jpg | Denza (prensa oficial) vía CarNewsChina | desconocida |
+| /media/denza-n7-2025-precio-ficha-tecnica-hunt2.webp | https://carnewschina.com/wp-content/uploads/2025/02/4-18-800x592.jpg | Denza (prensa oficial) vía CarNewsChina | desconocida |
+| /media/denza-n7-2025-precio-ficha-tecnica-hunt3.webp | https://carnewschina.com/wp-content/uploads/2025/02/6-4.jpg | Denza (prensa oficial) vía CarNewsChina | desconocida |
+| /media/ktm-990-duke-r-2026-ficha-tecnica-precio-hunt1.webp | https://soymotero.net/wp-content/uploads/2026/01/KTM-990-DUKE-R-2026.jpg | KTM (prensa) vía SoyMotero | desconocida |
+| /media/ktm-990-duke-r-2026-ficha-tecnica-precio-hunt2.webp | https://soymotero.net/wp-content/uploads/2026/01/KTM-990-DUKE-R-2026-2.jpg | KTM (prensa) vía SoyMotero | desconocida |
+| /media/ktm-990-duke-r-2026-ficha-tecnica-precio-hunt3.webp | https://www.wheelsmag.it/wp-content/uploads/2025/11/KTM-990-DUKE-R_2026-9.jpg | KTM (prensa) vía Wheelsmag | desconocida |
+| /media/brixton-crossfire-125-2026-hunt1.webp | https://www.motorrad-bilder.at/thumbs/992x558xfarx272a2c00/slideshows/291/022199/brixton-crossfire-125-20.jpg | Brixton (prensa) vía 1000PS / motorrad-bilder.at | desconocida |
+| /media/brixton-crossfire-125-2026-hunt2.webp | https://www.motorrad-bilder.at/thumbs/992x558xfarx272a2c00/slideshows/291/022199/brixton-crossfire-125-15.jpg | Brixton (prensa) vía 1000PS / motorrad-bilder.at | desconocida |
+| /media/brixton-crossfire-125-2026-hunt3.webp | https://www.motorrad-bilder.at/thumbs/992x558xfarx272a2c00/slideshows/291/022199/brixton-crossfire-125-30.jpg | Brixton (prensa) vía 1000PS / motorrad-bilder.at | desconocida |
