@@ -8282,3 +8282,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/qjmotor-srk-125-s-2026-hunt1.webp | https://images5.1000ps.net/images_bikekat/2026/669-QJ_Motor/11759-SRK_125_S/003-638995727541828504-qj-motor-srk-125-s.jpg | QJMotor (catálogo oficial) vía 1000PS | desconocida |
 | /media/qjmotor-srk-125-s-2026-hunt2.webp | https://www.smrzmoto.cz/media/thumbs/shop/thumb_2000x1600__ae1_5270_edit.jpg?v=1718876665 | QJMotor (foto de prensa) vía Smrzmoto.cz | desconocida |
 | /media/qjmotor-srk-125-s-2026-hunt3.webp | https://images5.1000ps.net/images_bikekat/2026/669-QJ_Motor/11759-SRK_125_S/006-638995727554601532-qj-motor-srk-125-s.jpg | QJMotor (catálogo oficial) vía 1000PS | desconocida |
+| /media/aito-m9-2025-precio-ficha-tecnica-hunt1.webp | https://images.dailyrevs.com/0000/v3/AITO/67c9662dc115ed5556ffddba/2025-m9-aito-eo7zq3llll90xh0ui5euk5b.jpeg | Aito / Autohome vía DailyRevs | desconocida |
+| /media/aito-m9-2025-precio-ficha-tecnica-hunt2.webp | https://images.dailyrevs.com/0000/v3/AITO/67c9662dc115ed5556ffddba/2025-m9-aito-eodv577778a0qm1vdj990b.jpeg | Aito / Autohome vía DailyRevs | desconocida |
+| /media/aito-m9-2025-precio-ficha-tecnica-hunt3.webp | https://global-img.bitauto.com/yhzx/20250320/447/247897044713724.jpg | Yiche vía BitAuto | desconocida |
+| /media/zeekr-x-2025-precio-ficha-tecnica-hunt1.webp | https://carnewschina.com/wp-content/uploads/2024/11/zeekr_x_2025_1536-800x450.jpg | Zeekr vía CarNewsChina | desconocida |
+| /media/zeekr-x-2025-precio-ficha-tecnica-hunt2.webp | https://carnewschina.com/wp-content/uploads/2024/11/230425_ZeekrX%E5%A0%B1%E5%83%B9%EF%BC%BF%E4%BE%86%E6%BA%90Zeekr-02-800x450.jpg | Zeekr vía CarNewsChina | desconocida |
+| /media/zeekr-x-2025-precio-ficha-tecnica-hunt3.webp | https://carnewschina.com/wp-content/uploads/2024/11/zeekr_x_2025_1536-1-800x450.jpg | Zeekr vía CarNewsChina | desconocida |
+| /media/ktm-790-adventure-2025-ficha-tecnica-precio-hunt1.webp | https://soymotero.net/wp-content/uploads/2024/11/KTM-790-ADVENTURE-2025-13.jpg | KTM (prensa) vía Soymotero | desconocida |
+| /media/ktm-790-adventure-2025-ficha-tecnica-precio-hunt2.webp | https://s7g10.scene7.com/is/image/ktm/MY25-KTM-790-ADV-news-article-6?$ogimage$ | KTM AG (oficial) | desconocida |
+| /media/ktm-790-adventure-2025-ficha-tecnica-precio-hunt3.webp | https://soymotero.net/wp-content/uploads/2024/11/KTM-790-ADVENTURE-2025-6.jpg | KTM (prensa) vía Soymotero | desconocida |
+| /media/voge-125r-2026-hunt1.webp | https://i.blogs.es/3b2d30/voge-125r-3-2023/1366_2000.jpeg | Voge (prensa) vía Motorpasión Moto | desconocida |
+| /media/voge-125r-2026-hunt2.webp | https://motomanialaquila.it/wp-content/uploads/2023/01/BRIVIDO125R7-1000x1000.jpg | Voge (prensa) vía MotoMania L'Aquila (Brivido 125R, denominación italiana del mismo modelo) | desconocida |
+| /media/voge-125r-2026-hunt3.webp | https://motos125.es/backend-images/product/gallery/lg/063308bf81be8fb4b55c1151a8948d76e7dd4f6be74d34264be4d17184e106c9/125r-accion-it-19.webp | Voge (prensa) vía Motos125.es | desconocida |
