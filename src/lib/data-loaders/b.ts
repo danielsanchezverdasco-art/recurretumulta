@@ -255,6 +255,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "bronco-xtreme-11": () => import("../blog-posts-patinetes-exp-p4.ts"),
     "bronco-xtreme-vnom-11": () => import("../blog-posts-patinetes-exp-p4.ts"),
     "bsa-bantam-350-2026-precio-ficha-tecnica": () => import("../blog-posts-lote10.ts"),
+    "bsa-scrambler-650-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m32.ts"),
     "buerstner-campeo-c-600-2026-precio-ficha-tecnica-analisis-opinion": () => import("../blog-posts-campers-eu2-a.ts"),
     "bugatti-tourbillon-2026-precio-ficha-tecnica": () => import("../blog-posts-lote4.ts"),
     "buick-electra-e5-2025-precio-ficha-tecnica": () => import("../blog-posts-lote5.ts"),
