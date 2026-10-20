@@ -5227,3 +5227,14 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/jaecoo-j7-shs-2025-precio-ficha-tecnica-hunt1.webp | https://i.bstr.es/highmotor/2025/06/jaecoo-7-shs-hibrido-enchufable-02-1220x813.jpg | Highmotor | desconocida |
 | /media/jaecoo-j7-shs-2025-precio-ficha-tecnica-hunt2.webp | https://boxcutter.co.za/wp-content/uploads/2025/05/Jaecoo-J7-SHS-in.jpg | Boxcutter | desconocida |
 | /media/jaecoo-j7-shs-2025-precio-ficha-tecnica-hunt3.webp | https://img.autotrader.co.za/38968789/Fit640x480 | AutoTrader Sudáfrica | desconocida |
+| /media/jaecoo-j8-shs-2025-precio-ficha-tecnica-hunt1.webp | https://www.actualidadmotor.com/wp-content/uploads/2026/03/JAECOO-8-SHS-precio-7.jpg | ActualidadMotor | desconocida |
+| /media/jaecoo-j8-shs-2025-precio-ficha-tecnica-hunt2.webp | https://www.actualidadmotor.com/wp-content/uploads/2026/03/JAECOO-8-SHS-precio-6.jpg | ActualidadMotor | desconocida |
+| /media/jaecoo-j8-shs-2025-precio-ficha-tecnica-hunt3.webp | https://www.planetcarsz.com/img/carros/galeria/2026/03/jaecoo-8-shs-p-2026-016-20260318140456-1600x1007.jpg | PlanetCarsZ | desconocida |
+| /media/cadillac-escalade-iq-2025-precio-ficha-tecnica-hunt1.webp | https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/MjEyNjUxNjg1NzgzODA3NDk3/2025-cadillac-escalade-iq-sport-014.jpg | Autoblog | desconocida |
+| /media/cadillac-escalade-iq-2025-precio-ficha-tecnica-hunt2.webp | https://www.cadillac.com/content/dam/cadillac/na/us/english/ux/escalade-iq/features/my25-escalade-iq-features-exterior-intro-l.jpg?imwidth=1200 | Cadillac (foto oficial) | desconocida |
+| /media/cadillac-escalade-iq-2025-precio-ficha-tecnica-hunt3.webp | https://vvio.kr/wp-content/uploads/2025/11/image-19-1024x599.png | Vvio (blog motor, Corea) | desconocida |
+| /media/honda-pcx125-2025-ficha-tecnica-precio-hunt1.webp | https://www.honda-moto.lv/files/a2025/504720_25ym_honda_pcx125.jpg | Honda (foto de prensa) | desconocida |
+| /media/honda-pcx125-2025-ficha-tecnica-precio-hunt2.webp | https://www.honda-moto.lv/files/a2025/504716_25ym_honda_pcx125.jpg | Honda (foto de prensa) | desconocida |
+| /media/honda-pcx125-2025-ficha-tecnica-precio-hunt3.webp | https://www.visordown.com/sites/default/files/2024-11/5%20(2)_0.jpeg?width=1600&aspect_ratio=16:9 | Visordown (foto de prensa Honda) | desconocida |
+| /media/harley-davidson-low-rider-st-2025-ficha-tecnica-precio-hunt1.webp | https://news.webike.net/wp-content/uploads/2025/07/1b482efaacef2739c224013106c12c5d-768x512.jpg | Webike | desconocida |
+| /media/harley-davidson-low-rider-st-2025-ficha-tecnica-precio-hunt2.webp | https://images5.1000ps.net/biebp-bb_W1053073-bild-638733098305539240.jpg?mode=max&maxwidth=800 | 1000PS | desconocida |
