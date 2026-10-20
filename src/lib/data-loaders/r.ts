@@ -57,6 +57,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "renault-captur-2026-e-tech-160-precio-ficha-tecnica": () => import("../blog-posts-coches-exp8.ts"),
     "renault-captur-2026-tce-90-precio-ficha-tecnica": () => import("../blog-posts-coches-exp8.ts"),
     "renault-captur-e-tech-145-2024-precio-ficha-tecnica": () => import("../blog-posts-renault-a.ts"),
+    "renault-clio-e-tech-145": () => import("../blog-posts-renault-a.ts"),
     "renault-clio-vi-2025-e-tech-160-precio-ficha-tecnica": () => import("../blog-posts-renault-a.ts"),
     "renault-clio-vi-tce-115-2025-precio-ficha-tecnica": () => import("../blog-posts-renault-a.ts"),
     "renault-e-space-concept-paris-2026": () => import("../blog-posts-motor-2026-k.ts"),

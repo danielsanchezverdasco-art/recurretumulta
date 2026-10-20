@@ -2247,6 +2247,7 @@ renault-captur-2025-precio-ficha-tecnica
 renault-captur-2026-e-tech-160-precio-ficha-tecnica
 renault-captur-2026-tce-90-precio-ficha-tecnica
 renault-captur-e-tech-145-2024-precio-ficha-tecnica
+renault-clio-e-tech-145
 renault-clio-vi-2025-e-tech-160-precio-ficha-tecnica
 renault-clio-vi-tce-115-2025-precio-ficha-tecnica
 renault-e-space-concept-paris-2026
