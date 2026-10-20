@@ -1216,7 +1216,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     marca: "Ducati",
     modelo: "Panigale V2",
     version: "Panigale V2 2025",
-    cilindradaCc: 955,
+    cilindradaCc: 890,
     categoria: "Deportiva",
     precioDesde: 17690,
     potenciaKw: 88,
@@ -1250,7 +1250,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     ],
     contras: [
       "120 CV frente a los 155 CV de la generación anterior con el Superquadro 955",
-      "17.490 €: cara frente a la Yamaha R9 (13.499 €) con potencia similar",
+      "17.690 €: cara frente a la Yamaha R9 (13.499 €) con potencia similar",
       "Mantenimiento Ducati con revisiones caras aunque con intervalos amplios",
       "El calor del motor en ciudad, clásico de las Ducati deportivas",
       "Depósito de 15 L justo para viajar",
@@ -1293,15 +1293,15 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.ducati.com/es/es/motocicletas/panigale/panigale-v2",
     analisisSlug: "ducati-panigale-v2-2025-analisis-opinion",
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 24 meses (lo que ocurra antes)",
       revisiones: [
         {
-          nombre: "Revisión / 12.000 km",
+          nombre: "Revisión / 15.000 km",
           queSeCambia: "Aceite + filtro de aceite + inspección general",
           costeAproxEur: null,
         },
         {
-          nombre: "Revisión / 24.000 km",
+          nombre: "Revisión / 30.000 km",
           queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías",
           costeAproxEur: null,
         },
