@@ -5061,3 +5061,22 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/zeekr-009-2026-precio-ficha-tecnica-hunt1.webp | https://www.chasingcars.com.au/wp-content/uploads/2024/11/Zeekr-009-696-crop.jpg | chasingcars.com.au (foto de prensa Zeekr) | desconocida |
 | /media/zeekr-009-2026-precio-ficha-tecnica-hunt2.webp | https://visor.ph/wp-content/uploads/2025/06/zeekr-009-main8.jpg | visor.ph (foto de prensa Zeekr, 'All New 009') | desconocida |
 | /media/zeekr-009-2026-precio-ficha-tecnica-hunt3.webp | https://www.datocms-assets.com/145936/1732186742-white-rhd-zeekr-009-right-45.jpg?auto=format | Zeekr Singapur (web oficial) / zeekrlife.com | desconocida |
+| /media/ariel-hipercar-2026-precio-ficha-tecnica-hunt1.webp | https://www.gatsbyonline.com/wp-content/uploads/2026/06/ARIEL-HIPERCAR-_-01-_-HiRes-scaled-1-1.jpg | Gatsby Online (foto oficial del prototipo Ariel) | desconocida |
+| /media/ariel-hipercar-2026-precio-ficha-tecnica-hunt2.webp | https://images.carexpert.com.au/resize/960/-/cms/v1/media/2022-09-ariel-hipercar-2.jpg | CarExpert (foto del prototipo Ariel Hipercar) | desconocida |
+| /media/ariel-hipercar-2026-precio-ficha-tecnica-hunt3.webp | https://www.planetcarsz.com/img/carros/galeria/2022/09/ariel-hipercar-2023-04-20220902160047-1920x1080.jpg | PlanetCarsZ (foto del prototipo Ariel Hipercar 2022) | desconocida |
+| /media/cfmoto-450nk-2026-ficha-tecnica-precio-hunt1.webp | https://www.atvblog.ro/wp-content/uploads/2026/05/450NK-MY26_Nebula-Black_Right.jpg | ATV Blog (foto oficial de producto CFMOTO MY26) | desconocida |
+| /media/cfmoto-450nk-2026-ficha-tecnica-precio-hunt2.webp | https://carriersport.ca/wp-content/uploads/2026/03/450nk_2026_nebulawhite_1.jpg | Carrier Sport (foto oficial de producto CFMOTO 2026) | desconocida |
+| /media/im-ls6-2025-precio-ficha-tecnica-hunt1.webp | https://www.vehiclesizes.com/img/145289-im-ls6-sleek-front-led-headlights-sporty-black-wheels-electric.jpg | VehicleSizes.com | desconocida |
+| /media/im-ls6-2025-precio-ficha-tecnica-hunt2.webp | https://www.gzqc.com.cn/uploads/20241024/b86893ba7e6bbbe91a34a2065deacc2f.jpg | gzqc.com.cn | desconocida |
+| /media/im-ls6-2025-precio-ficha-tecnica-hunt3.webp | https://www.txspapp.net/chinese/images/pictures/2025/iml6_8.jpg | txspapp.net | desconocida |
+| /media/ac-cobra-gt-roadster-2025-precio-ficha-tecnica-hunt1.webp | https://autoentusiastas.com.br/ae/wp-content/uploads/2023/05/ac-cobra-gt-2023-side.jpg | Auto Entusiastas | desconocida |
+| /media/ac-cobra-gt-roadster-2025-precio-ficha-tecnica-hunt2.webp | https://nova.engear.tv/wp-content/uploads/2023/05/AC-Cobra-GT-Roadster-05.jpg | Engear TV / Nova | desconocida |
+| /media/ac-cobra-gt-roadster-2025-precio-ficha-tecnica-hunt3.webp | https://static0.hotcarsimages.com/wordpress/wp-content/uploads/2024/03/ac-cobra-gt-roadster-quarter-front-road.jpg | Hotcars | desconocida |
+| /media/harley-davidson-pan-america-1250-special-2025-ficha-tecnica-precio-hunt1.webp | https://nrmotoco.com/wp-content/uploads/2025/02/Harley-Davidson-Pan-America-1250-Special-2025.jpg | NR Motoco | desconocida |
+| /media/harley-davidson-pan-america-1250-special-2025-ficha-tecnica-precio-hunt2.webp | https://d2bywgumb0o70j.cloudfront.net/2021/02/22/1082ec84c736da74331dbaf0f91f64e8_7e3df104939436d6.jpg | Wearnes Harley-Davidson (foto de prensa oficial H-D) | desconocida |
+| /media/im-ls7-2026-precio-ficha-tecnica-hunt1.webp | https://autonews.ir/wp-content/uploads/2026/06/iM-LS7-1.jpg | Autonews.ir | desconocida |
+| /media/im-ls7-2026-precio-ficha-tecnica-hunt2.webp | https://www.headlightmag.com/hlmwp/wp-content/uploads/2025/06/LS7_4.jpg | Headlightmag | desconocida |
+| /media/im-ls7-2026-precio-ficha-tecnica-hunt3.webp | https://www.dubicars.com/images/194c9b/w_1300x760/albahiya-international/5099974c-69e7-4d9a-a958-a52ffc1638cf.jpeg | Dubicars / Albahiya International | desconocida |
+| /media/zeekr-8x-2026-precio-ficha-tecnica-hunt1.webp | http://cnevpost.com/wp-content/uploads/2026/03/2026031613361842.jpg | CNEVPost | desconocida |
+| /media/zeekr-8x-2026-precio-ficha-tecnica-hunt2.webp | http://cnevpost.com/wp-content/uploads/2026/01/2026010902000666.jpg | CNEVPost | desconocida |
+| /media/zeekr-8x-2026-precio-ficha-tecnica-hunt3.webp | https://auto-dealer-online.ru/wp-content/uploads/2026/03/zeekr-8x-interior-brown-5.jpg | Auto Dealer Online | desconocida |
