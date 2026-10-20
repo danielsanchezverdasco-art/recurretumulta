@@ -1029,7 +1029,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "YZF-R7",
     version: "2025",
     categoria: "Deportiva",
-    precioDesde: null,
+    precioDesde: 9799, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 53.99,
     potenciaCv: 73.4,
     autonomiaKm: null,
@@ -1163,7 +1163,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "XMAX 300",
     version: "2025",
     categoria: "Scooter",
-    precioDesde: 6499,
+    precioDesde: 6499, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 20.6,
     potenciaCv: 28,
     autonomiaKm: null,
@@ -1176,7 +1176,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A2 (B+3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "El GT de 300 más equilibrado: 28 CV, 183 kg y consumos de 3 l/100 km",
       "Se conduce con el carnet B + 3 años",
@@ -1359,7 +1359,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "TMAX 560",
     version: "2025",
     categoria: "Scooter",
-    precioDesde: 13499,
+    precioDesde: 14299, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 35,
     potenciaCv: 47.6,
     autonomiaKm: null,
@@ -1372,7 +1372,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "El maxi-scooter que inventó el segmento: 47,6 CV y chasis de moto",
       "Se conduce con el A2 (35 kW exactos)",
@@ -1381,7 +1381,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       "Consumo de 4,8 l/100 km: 300 km con 15 L",
     ],
     contras: [
-      "13.499 € la base; el Tech MAX sube a 15.699 €",
+      "14.299 € la base; el Tech MAX sube a 16.299 €",
       "221 kg: pesado para moverlo en parado",
       "Mantenimiento de correa y variador más caro que un 300",
       "El baúl trasero es opcional",
@@ -2542,7 +2542,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "GSX-8R",
     version: "2025",
     categoria: "Deportiva",
-    precioDesde: 9699,
+    precioDesde: 10199, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 61,
     potenciaCv: 83,
     autonomiaKm: null,
@@ -2555,7 +2555,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Bicilíndrico en línea de 776 cc con 78 Nm de par: entrega inmediata y progresiva.",
       "Limitable para el carnet A2 (35 kW) con una electrónica que se adapta bien.",
@@ -2611,7 +2611,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "GSX-8S",
     version: "2025",
     categoria: "Naked",
-    precioDesde: 8199,
+    precioDesde: 9499, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 61,
     potenciaCv: 83,
     autonomiaKm: null,
@@ -2680,7 +2680,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "GSX-S1000",
     version: "2025",
     categoria: "Naked",
-    precioDesde: 14315,
+    precioDesde: 15169, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 111.8,
     potenciaCv: 152,
     autonomiaKm: null,
@@ -2887,7 +2887,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "GSX-R125",
     version: "2025",
     categoria: "Deportiva",
-    precioDesde: 3899,
+    precioDesde: 5369, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 11,
     potenciaCv: 15,
     autonomiaKm: null,
@@ -2956,7 +2956,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "DR-Z4SM",
     version: "2025",
     categoria: "Supermotard",
-    precioDesde: 9700,
+    precioDesde: 9699, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 28,
     potenciaCv: 38,
     autonomiaKm: null,
@@ -2969,7 +2969,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Solo 154 kg: agilidad extrema en ciudad y curvas reviradas.",
       "Monocilíndrico de 398 cc con 38 CV: perfecto para el A2 sin limitar.",
@@ -2983,7 +2983,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       "Depósito de solo 8,7 litros: autonomía limitada.",
       "Asiento alto (890 mm) y estrecho: no para todas las tallas.",
       "Vibraciones del monocilíndrico en tiradas largas.",
-      "9.700 € no es barata para una 400 monocilíndrica.",
+      "9.699 € no es barata para una 400 monocilíndrica.",
       "Protección aerodinámica nula.",
     ],
     curiosidades: [
@@ -3090,7 +3090,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "GSX-S125",
     version: "2025",
     categoria: "Naked",
-    precioDesde: 3699,
+    precioDesde: 4699, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 11,
     potenciaCv: 15,
     autonomiaKm: null,
@@ -3159,7 +3159,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "Katana",
     version: "2025",
     categoria: "Naked",
-    precioDesde: 16315,
+    precioDesde: 16315, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 112,
     potenciaCv: 152,
     autonomiaKm: null,
@@ -3172,7 +3172,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Diseño neo-retro ochentero único: la moto con más personalidad del segmento.",
       "Motor de 999 cc con 152 CV derivado de la GSX-R1000 K5.",
@@ -3228,7 +3228,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "GSX-R1000R",
     version: "2026",
     categoria: "Deportiva",
-    precioDesde: 20490,
+    precioDesde: 20999, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 143.3,
     potenciaCv: 195,
     autonomiaKm: null,
@@ -3241,7 +3241,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Tetracilíndrico de 999 cc con 195 CV y distribución variable SR-VVT: la superbike de Hamamatsu.",
       "Electrónica de carreras: 10 niveles de tracción, ABS en curva, launch control y quickshifter.",
@@ -3253,7 +3253,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     contras: [
       "195 CV exigen circuito para disfrutarse: en calle van sobrados.",
       "Postura radical: solo para pilotos comprometidos.",
-      "20.490 € sigue siendo mucho dinero.",
+      "20.999 € sigue siendo mucho dinero.",
       "El pasajero es testimonial.",
       "Consumo y mantenimiento de superbike.",
       "Sin pantalla TFT con conectividad moderna.",
@@ -3297,7 +3297,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "V-Strom 1050DE",
     version: "2026",
     categoria: "Trail",
-    precioDesde: 19254,
+    precioDesde: 17529, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 78.7,
     potenciaCv: 107,
     autonomiaKm: null,
@@ -3310,7 +3310,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "V-twin de 1.037 cc con 107 CV: suave, lleno y con carácter.",
       "Versión DE con rueda de 21 pulgadas y suspensiones KYB de largo recorrido.",
@@ -3321,7 +3321,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     ],
     contras: [
       "252 kg en orden de marcha: en campo hay que saber llevarla.",
-      "El precio de la Hamamatsu Edition (19.254 €) se acerca a las europeas.",
+      "17.529 € de tarifa oficial: se acerca a las europeas.",
       "Asiento a 880 mm: alta para pilotos bajos.",
       "El parabrisas genera turbulencias según la talla.",
       "Consumo de 5,2 l/100 km: no es la más frugal.",

@@ -145,7 +145,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
     modelo: "S 1000 RR",
     version: "2025",
     categoria: "Deportiva",
-    precioDesde: 23850,
+    precioDesde: 24530, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 154,
     potenciaCv: 210,
     autonomiaKm: null,
@@ -168,7 +168,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
       "DBC (control dinámico de frenada) y Hill Start Control Pro de serie",
     ],
     contras: [
-      "Precio desde 23.850 €: territorio de superbike premium",
+      "Precio desde 24.530 €: territorio de superbike premium",
       "Postura radical: en carretera abierta cansa en menos de una hora",
       "210 CV exigen carnet A y cabeza fría: no es una moto para novatos",
       "El control dinámico de suspensión DDC es opcional de pago",
@@ -347,7 +347,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
     modelo: "M 1000 RR",
     version: "2025",
     categoria: "Deportiva",
-    precioDesde: 42410.05,
+    precioDesde: 42410.05, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 160,
     potenciaCv: 218,
     autonomiaKm: null,
@@ -370,7 +370,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
       "194 kg en orden de marcha con llantas de carbono M",
     ],
     contras: [
-      "Precio desde 41.580 €: el doble que una S 1000 RR",
+      "Precio desde 42.410 €: el doble que una S 1000 RR",
       "Monomoplaza de serie: el paquete de pasajero es opcional",
       "218 CV solo tienen sentido en circuito; en carretera es inmanejable al límite",
       "Mantenimiento y consumibles de moto de carreras",
