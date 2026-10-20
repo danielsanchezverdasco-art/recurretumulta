@@ -1,6 +1,6 @@
 # Rescate heroes web — Lote 06 (motos exp m16/m18/m28/m29/m30 + rescates + lotes 7/8/9)
 
-Rama: `merlin-heroes-blog-lote06`
+Rama: `merlin-heroes-blog-lote06` @ 6b875bc6422482c37626a70d0c90a3fb25bd793f
 
 **Rescatados: 106/106** · Imposibles: 0
 
@@ -124,5 +124,5 @@ Nota fila yamaha-tmax-560-2024-analisis-opinion: el hero indicado en la lista es
 | harley-davidson-sportster-s-2024-analisis-opinion | motos/harley-davidson-sportster-s-2024-ficha-tecnica-precio.webp | 1920→1600 | https://commons.wikimedia.org/wiki/File:W%C3%BCrgauer_Bergrennen_Harley-Davidson_Sportster-20220911-RM-111422.jpg |
 | kawasaki-vulcan-s-2024-analisis-opinion | motos/kawasaki-vulcan-s-2024-ficha-tecnica-precio.webp | 1920→1600 | https://commons.wikimedia.org/wiki/File:Kawasaki_Vulcan_S_-_MRS_Oficina_-_Mondial_de_l%27Automobile_de_Paris_2018_-_001.jpg |
 | kawasaki-z650rs-2024-analisis-opinion | motos/kawasaki-z650rs-2024-ficha-tecnica-precio.webp | 1200→1200 | https://www.kawasaki.ca/en-ca/motorcycle/z/retro-sport/z650rs/2026-z650rs |
-| yamaha-tmax-560-2024-analisis-opinion | bmw-r-1300-rt-2025-ficha-tecnica-precio.webp | 1000→1000 | https://www.motortravel.it/bmw-r-1300-rt.html |
+| yamaha-tmax-560-2024-analisis-opinion | bmw-r-1300-rt-2025-ficha-tecnica-precio.webp | → |  |
 | zontes-552g-531cc-homologacion-china | motos/zontes-552g-2027-ficha-tecnica-precio-1.webp | 900→900 | https://motodinamia.com/zontes-552/ |
