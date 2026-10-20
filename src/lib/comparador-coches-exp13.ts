@@ -13,6 +13,22 @@ import type { CocheComparador } from "./comparador-coches-data.ts";
 export const COCHES_EXP13: CocheComparador[] = [
   {
     id: "dacia-spring-extreme-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 1,
+      ano: 2021,
+      url: "https://www.euroncap.com",
+      nota: "Prueba oficial del Spring 2021 (1 estrella): 49 % adultos, 56 % infantil, 39 % usuarios vulnerables y 32 % asistencias"
+    },
+    planMantenimiento: {
+      intervalo: "30.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        { nombre: "Revisión periódica del eléctrico", queSeCambia: "Inspección general y puntos de control de seguridad, filtro de habitáculo y control del sistema eléctrico y de la batería de tracción (sin cambio de aceite: motor eléctrico)", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Dacia España — mi mantenimiento (https://www.dacia.es/mi-mantenimiento.html)",
+    },
+    fuenteNombre: "Dacia España",
+    fuenteUrl: "https://www.dacia.es/modelos/spring.html",
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 120000,
     garantiaBateriaDegradacionPct: 75,

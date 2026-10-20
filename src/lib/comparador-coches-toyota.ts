@@ -261,6 +261,31 @@ export const COCHES_TOYOTA: CocheComparador[] = [
   },
   {
     id: "toyota-gr-supra-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP"
+    },
+    planMantenimiento: {
+      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+      revisiones: [
+        {
+          nombre: "Revisión intermedia / 15.000 km",
+          queSeCambia: "Aceite del motor + filtro de aceite + inspección general",
+          costeAproxEur: null
+        },
+        {
+          nombre: "Revisión principal / 30.000 km",
+          queSeCambia: "Aceite del motor + filtro de aceite + filtro de aire + filtro de polen + líquido de frenos (según plan) + inspección de la transmisión (según plan)",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento Toyota España (15.000 km o 12 meses)"
+    },
+    fuenteNombre: "Toyota España",
+    fuenteUrl: "https://www.toyota.es/coches/gr-supra",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -512,6 +537,31 @@ export const COCHES_TOYOTA: CocheComparador[] = [
   },
   {
     id: "toyota-c-hr-plus-2026-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: null,
+      nota: "Valoración Euro NCAP del Toyota C-HR+ extendida desde el bZ4X, su modelo socio en Euro NCAP (5 estrellas, 2025)"
+    },
+    planMantenimiento: {
+      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Inspección del sistema eléctrico y chequeo de salud de la batería de tracción + filtro de polen + inspección general (sin cambio de aceite: motor eléctrico)",
+          costeAproxEur: null
+        },
+        {
+          nombre: "Revisión / 30.000 km",
+          queSeCambia: "Inspección del sistema eléctrico y chequeo de salud de la batería de tracción + filtro de polen + líquido de frenos (según plan)",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento Toyota España para eléctricos (revisión anual o 15.000 km)"
+    },
+    fuenteNombre: "Toyota España",
+    fuenteUrl: "https://www.toyota.es/coches/c-hr-plus",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -674,6 +724,29 @@ export const COCHES_TOYOTA: CocheComparador[] = [
   },
   {
     id: "toyota-proace-city-verso-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP"
+    },
+    planMantenimiento: {
+      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+      revisiones: [
+        {
+          nombre: "Revisión intermedia / 15.000 km",
+          queSeCambia: "Aceite del motor + filtro de aceite + filtro de combustible (según plan) + inspección general",
+          costeAproxEur: null
+        },
+        {
+          nombre: "Revisión principal / 30.000 km",
+          queSeCambia: "Aceite del motor + filtro de aceite + filtro de aire + filtro de combustible + filtro de polen + líquido de frenos (según plan)",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento Toyota España (15.000 km o 12 meses)"
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -757,6 +830,29 @@ export const COCHES_TOYOTA: CocheComparador[] = [
   },
   {
     id: "toyota-proace-verso-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2015,
+      url: null,
+      nota: "Prueba Euro NCAP 2015 conjunta del Toyota Proace y sus gemelos Citroën Spacetourer y Peugeot Traveller (5 estrellas): 87 % adultos, 91 % infantil, 64 % usuarios vulnerables y 78 % asistencias"
+    },
+    planMantenimiento: {
+      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+      revisiones: [
+        {
+          nombre: "Revisión intermedia / 15.000 km",
+          queSeCambia: "Aceite del motor + filtro de aceite + filtro de combustible (según plan) + inspección general",
+          costeAproxEur: null
+        },
+        {
+          nombre: "Revisión principal / 30.000 km",
+          queSeCambia: "Aceite del motor + filtro de aceite + filtro de aire + filtro de combustible + filtro de polen + líquido de frenos (según plan)",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento Toyota España (15.000 km o 12 meses)"
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -921,6 +1017,31 @@ export const COCHES_TOYOTA: CocheComparador[] = [
   },
   {
     id: "toyota-mirai-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2021,
+      url: null,
+      nota: null
+    },
+    planMantenimiento: {
+      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+      revisiones: [
+        {
+          nombre: "Revisión intermedia / 15.000 km",
+          queSeCambia: "Inspección general + inspección del sistema de pila de combustible de hidrógeno + filtro de polen",
+          costeAproxEur: null
+        },
+        {
+          nombre: "Revisión principal / 30.000 km",
+          queSeCambia: "Inspección del sistema de pila de combustible de hidrógeno + filtro de aire + filtro de polen + líquido de frenos (según plan)",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento Toyota España (15.000 km o 12 meses)"
+    },
+    fuenteNombre: "Toyota España",
+    fuenteUrl: "https://www.toyota.es/",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1083,6 +1204,29 @@ export const COCHES_TOYOTA: CocheComparador[] = [
   },
   {
     id: "toyota-bz4x-touring-2026-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: null,
+      nota: "Valoración Euro NCAP 2025 del Toyota bZ4X renovado (5 estrellas), aplicable a la versión Touring de la misma generación"
+    },
+    planMantenimiento: {
+      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Inspección del sistema eléctrico y chequeo de salud de la batería de tracción + filtro de polen + inspección general (sin cambio de aceite: motor eléctrico)",
+          costeAproxEur: null
+        },
+        {
+          nombre: "Revisión / 30.000 km",
+          queSeCambia: "Inspección del sistema eléctrico y chequeo de salud de la batería de tracción + filtro de polen + líquido de frenos (según plan)",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento Toyota España para eléctricos (revisión anual o 15.000 km)"
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1249,6 +1393,31 @@ export const COCHES_TOYOTA: CocheComparador[] = [
   },
   {
     id: "toyota-corolla-berlina-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2019,
+      url: null,
+      nota: null
+    },
+    planMantenimiento: {
+      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+      revisiones: [
+        {
+          nombre: "Revisión intermedia / 15.000 km",
+          queSeCambia: "Aceite del motor + filtro de aceite + inspección general + chequeo del sistema híbrido",
+          costeAproxEur: null
+        },
+        {
+          nombre: "Revisión principal / 30.000 km",
+          queSeCambia: "Aceite del motor + filtro de aceite + filtro de aire + filtro de polen + líquido de frenos (según plan) + chequeo del sistema híbrido",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento Toyota España (15.000 km o 12 meses)"
+    },
+    fuenteNombre: "Toyota España",
+    fuenteUrl: "https://www.toyota.es/coches/corolla",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1431,7 +1600,23 @@ export const COCHES_TOYOTA: CocheComparador[] = [
       url: "https://news.euroncap.com/safertrucksandvans/choose-a-vehicle/toyota-proace-max---euro-ncap-2025-commercial-van-safety---5-stars/s/308b75c5-30ed-4f19-ab87-604db9d1a463",
       nota: "5 estrellas en el programa Commercial Van Safety 2025 de Euro NCAP (evaluada como gemela del Fiat E-Ducato; aplica al Proace Max desde julio de 2024)"
     },
-    planMantenimiento: null
+    planMantenimiento: {
+      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+      revisiones: [
+        {
+          nombre: "Revisión intermedia / 15.000 km",
+          queSeCambia: "Aceite del motor + filtro de aceite + filtro de combustible (según plan) + inspección general",
+          costeAproxEur: null
+        },
+        {
+          nombre: "Revisión principal / 30.000 km",
+          queSeCambia: "Aceite del motor + filtro de aceite + filtro de aire + filtro de combustible + filtro de polen + líquido de frenos (según plan)",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento Toyota España (15.000 km o 12 meses)"
+    }
   },
   {
     id: "toyota-yaris-130h-2025-precio-ficha-tecnica",
@@ -1864,6 +2049,29 @@ export const COCHES_TOYOTA: CocheComparador[] = [
   },
   {
     id: "toyota-hilux-mhev-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 3,
+      ano: 2016,
+      url: null,
+      nota: "Prueba Euro NCAP 2016 de esta generación del Hilux: 3 estrellas con el equipamiento de serie (85 % adultos, 82 % infantil, 73 % usuarios vulnerables, 25 % asistencias); con el pack de seguridad opcional, 5 estrellas"
+    },
+    planMantenimiento: {
+      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+      revisiones: [
+        {
+          nombre: "Revisión intermedia / 15.000 km",
+          queSeCambia: "Aceite del motor + filtro de aceite + filtro de combustible (según plan) + inspección general",
+          costeAproxEur: null
+        },
+        {
+          nombre: "Revisión principal / 30.000 km",
+          queSeCambia: "Aceite del motor + filtro de aceite + filtro de aire + filtro de combustible + filtro de polen + líquido de frenos (según plan)",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento Toyota España (15.000 km o 12 meses)"
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1949,6 +2157,29 @@ export const COCHES_TOYOTA: CocheComparador[] = [
   },
   {
     id: "toyota-proace-city-verso-electric-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP"
+    },
+    planMantenimiento: {
+      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Inspección del sistema eléctrico y chequeo de salud de la batería de tracción + filtro de polen + inspección general (sin cambio de aceite: motor eléctrico)",
+          costeAproxEur: null
+        },
+        {
+          nombre: "Revisión / 30.000 km",
+          queSeCambia: "Inspección del sistema eléctrico y chequeo de salud de la batería de tracción + filtro de polen + líquido de frenos (según plan)",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento Toyota España para eléctricos (revisión anual o 15.000 km)"
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -2032,6 +2263,29 @@ export const COCHES_TOYOTA: CocheComparador[] = [
   },
   {
     id: "toyota-corolla-cross-200h-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: null,
+      nota: null
+    },
+    planMantenimiento: {
+      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+      revisiones: [
+        {
+          nombre: "Revisión intermedia / 15.000 km",
+          queSeCambia: "Aceite del motor + filtro de aceite + inspección general + chequeo del sistema híbrido",
+          costeAproxEur: null
+        },
+        {
+          nombre: "Revisión principal / 30.000 km",
+          queSeCambia: "Aceite del motor + filtro de aceite + filtro de aire + filtro de polen + líquido de frenos (según plan) + chequeo del sistema híbrido",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento Toyota España (15.000 km o 12 meses)"
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
