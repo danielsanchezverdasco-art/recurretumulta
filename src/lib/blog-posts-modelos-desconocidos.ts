@@ -98,7 +98,9 @@ BYD anunció **6.000 cargadores Flash Charging fuera de China, 3.000 de ellos en
 
 Fuentes: <a href=https://www.hibridosyelectricos.com/coches/500000-coches-en-3-anos-marca-mas-joven-byd-lanza-su-primera-berlina-electrica-con-850-km-autonomia-por-29600_89050_102.html>Híbridos y Eléctricos</a>, <a href=https://testcoches.es/noticias/byd-responde-al-xiaomi-su7-el-fang-cheng-bao-formula-s-llega-a-china-con-900-km-de-autonomia-y-carga-del-10-al-70-en-cinco-minutos/>TestCoches</a>, <a href=http://ant-co.in/news/denza-trae-a-europa-su-primer-suv-con-el-bao-5-hibrido-enchufable-con-hasta-835-km-de-autonomia-20260709ab135f30e144b.html>Europa Press vía Ant-Co</a>.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: <a href=https://www.byd.com>BYD (web oficial)</a>, <a href=https://www.denza.com>Denza (web oficial)</a>.*`
   },
   {
     "title": "Yangwang U8: 1.197 CV, flota en agua, llega a Europa",
@@ -186,7 +188,9 @@ Depende de la homologación europea final: el modelo chino supera los 3.500 kg d
 
 Fuentes: <a href=https://www.somoselectricos.com/coches-electricos/byd-puede-flotar-tiene-1197-cv-es-tan-pesado-que-espana-hace-falta-carnet-camion-conducirlo/20260929120040063720.html>Somos Eléctricos</a>, <a href=https://forococheselectricos.com/noticias/byd-confirma-llegada-tercera-marca-europa-yangwang-20250721-37764.html>ForoCochesEléctricos (vía Autocar)</a>, <a href=https://soymotor.com/coches/noticias/byd-shark-denza-bao5-denza-z-yangwang-u8-u9-goodwood>SoyMotor</a>.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: <a href=https://www.byd.com>BYD (web oficial)</a>, <a href=https://www.denza.com>Denza (web oficial)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`
   },
   {
     "title": "Avatr: el familiar chino de 955 CV con Huawei dentro",
@@ -281,7 +285,9 @@ Por su división del trabajo: **Changan** pone la plataforma y la producción, *
 
 Fuentes: <a href=https://hackercar.com/estas-cosas-solo-pasan-en-china-avatr-06t-wagon-un-familiar-de-955-cv-por-30-000-euros/>HackerCar</a>, <a href=https://www.autonocion.com/motornocion/avatr-t09-changan-catl-huawei/>Autonoción</a>, <a href=https://www.hibridosyelectricos.com/coches/mide-528-metros-tiene-6-plazas-857-cv-pero-este-nuevo-suv-hibrido-chino-suena-con-parecerse-byd_89176_102.html>Híbridos y Eléctricos</a>.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: <a href=https://www.avatr.com>Avatr (web oficial)</a>, <a href=https://www.huawei.com>Huawei (web oficial)</a>, <a href=https://www.catl.com>CATL (web oficial)</a>.*`
   },
   {
     "title": "Rox 01: SUV chino Pininfarina con 1.115 km autonomía",
@@ -370,7 +376,9 @@ No hay anuncio oficial de llegada a Europa. Actualmente se comercializa en China
 
 Fuentes: <a href=https://www.youtube.com/watch?v=15mZM5Xm9WA>YouTube — reseña completa del ROX 01</a>, <a href=https://www.motorterra.com/motransa-lanzo-su-nueva-marca-rox-y-presento-el-modelo-rox-01/>Motorterra</a>.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: <a href=https://www.roxmotor.com>ROX Motor (web oficial)</a>, <a href=https://www.pininfarina.it>Pininfarina (web oficial)</a>.*`
   },
   {
     "title": "IM Motors LS6: el SUV chino rival del Tesla Model Y",
@@ -467,7 +475,9 @@ Sí: ambas pertenecen a **SAIC Motor**. MG es la marca generalista que triunfa e
 
 Fuentes: <a href=https://www.hibridosyelectricos.com/coches/antes-comprarte-tesla-model-echa-vistazo-nuevo-suv-pijo-mg-27000-con-782-km-autonomia_89221_102.html>Híbridos y Eléctricos</a>, <a href=https://formula1rd.com/los-hermanos-pijos-de-mg-ponen-precio-a-su-nuevo-suv-electrico-con-chasis-de-avion-que-reta-directamente-al-tesla-model-y/>Fórmula 1 RD</a>, <a href=https://forococheselectricos.com/noticias/im-ls6-nuevo-rival-tesla-model-y-8000-reservas-45-minutos-20260913-42074.html>ForoCochesEléctricos</a>.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: <a href=https://www.immotors.com>IM Motors (web oficial)</a>, <a href=https://www.saicmotor.com>SAIC Motor (web oficial)</a>.*`
   },
   {
     "title": "iCaur",
@@ -565,7 +575,9 @@ El V23 es eléctrico puro y compacto (4,2 m); el V25 (4,6 m) y el V27 (+5 m) usa
 
 Fuentes: <a href=https://www.autonocion.com/icaur-chery-llega-europa-espana/>Autonoción</a>, <a href=https://testcoches.es/noticias/la-duena-de-omoda-estrena-4x4-electrico-por-13-000e-con-500-km-de-autonomia/>TestCoches</a>, <a href=https://www.hibridosyelectricos.com/coches/dueno-omoda-quiere-conquistar-europa-con-suv-electrico-similar-toyota-yaris-cross-suzuki-jimny-icar-v23_79822_102.html>Híbridos y Eléctricos</a>.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: <a href=https://www.icaurglobal.com>iCaur Global (web oficial de Chery)</a>, <a href=https://www.cheryinternational.com>Chery International (web oficial)</a>.*`
   },
   {
     "title": "Li Auto i8: SUV eléctrico 6 plazas, 780 km, carga 5C",
@@ -654,7 +666,9 @@ Homologa 780 km en ciclo **CLTC** (más optimista que el WLTP europeo); en uso r
 
 Fuentes: <a href=https://cnevpost.com/2026/08/06/li-auto-launches-cheaper-entry-version-i8/>CnEVPost</a>, <a href=https://evlife.world/news/li-auto-brings-its-first-electric-car-to-europe-this-year/>EVLife</a>, <a href=https://en.wikipedia.org/wiki/Li_i8>Wikipedia</a>.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: <a href=https://www.lixiang.com>Li Auto (web oficial)</a>, <a href=https://www.catl.com>CATL (web oficial)</a>.*`
   },
   {
     "title": "ID. UNYX 09: 755 km solo para China",
@@ -740,7 +754,9 @@ La preventa abrió el **24 de septiembre de 2026** y el lanzamiento oficial en C
 ### ¿Por qué es importante este coche para Volkswagen?
 Porque la marca se hunde en China: **-26% de entregas en el primer semestre de 2026**, mínimo en 16 años. El UNYX 09 es su apuesta para recuperar el terreno perdido frente a BYD y Geely.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: <a href=https://www.volkswagen.es>Volkswagen España (web oficial)</a>, <a href=https://www.xpeng.com>XPeng (web oficial)</a>, <a href=https://www.catl.com>CATL (web oficial)</a>.*`
   },
   {
     "title": "Geely Galaxy TT: récords y 725 km",
@@ -837,7 +853,9 @@ Contra el **Xiaomi SU7** y el **Tesla Model 3**, a los que se enfrenta en tamañ
 
 Fuentes: <a href=https://electrek.co/2026/09/11/geely-tt-electric-sedan-launch-price-xiaomi-su7/>Electrek</a>, <a href=https://www.thestreet.com/automotive/china-just-launched-a-19170-electric-vehicle>TheStreet</a>, <a href=https://www.dpccars.com/blog/new-geely-galaxy-tt-first-look-everything-you-need-to-know/>DPCcars</a>.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: <a href=https://www.galaxy-geely.com>Geely Galaxy (web oficial)</a>, <a href=https://global.geely.com>Geely Global (web oficial)</a>.*`
   },
   {
     "title": "AIVA ME7: el SUV de Seres, CATL y TikTok",
@@ -930,7 +948,9 @@ Habrá dos versiones: **100 % eléctrica** y **con extensor de autonomía**. Bat
 
 Fuentes: <a href=https://carnewschina.com/2026/09/30/seres-and-catl-backed-aiva-unveils-me7-in-paris/>CarNewsChina</a>, <a href=https://newmobility.news/en/2026/10/01/yet-another-chinese-ev-brand-is-knocking-on-europes-door-aiva/>NewMobility</a>, <a href=https://www.somoselectricos.com/coches-electricos/seres-catl-estrenan-aiva-me7-espectacular-suv-coupe-inteligencia-artificial/20260930123054063764.html>SomosEléctricos</a>, <a href=https://cnevpost.com/2026/06/09/seres-saidou-launches-new-brand-aiva-ai-defined-evs/>CnEVPost</a>.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: <a href=https://en.seres.cn>Seres Group (web oficial)</a>, <a href=https://www.catl.com>CATL (web oficial)</a>.*`
   },
   {
     "title": "Battleship 700: 4x4 de 1.113 CV que flota",
@@ -1020,7 +1040,9 @@ Tiene **modo de flotación de emergencia** además de un vadeo convencional de 8
 
 Fuentes: <a href=https://carnewschina.com/2026/09/29/geelys-1113-hp-off-roader-battleship-700-to-launch-october-10/>CarNewsChina</a>, <a href=https://cnevpost.com/2026/09/15/geely-galaxy-cruiser-700-pre-sales/>CnEVPost</a>, <a href=https://carnewschina.com/2026/09/16/geelys-first-off-road-suv-galaxy-zhanjian-700-with-1113-hp-hits-43900-pre-orders-in-one-hour/>CarNewsChina</a>, <a href=https://www.youtube.com/watch?v=yW7MF3kKo2Q>Solkuno en YouTube</a>.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: <a href=https://www.galaxy-geely.com>Geely Galaxy (web oficial)</a>, <a href=https://global.geely.com>Geely Global (web oficial)</a>.*`
   },
   {
     title: "Evoke Nrgy: moto eléctrica 120 km/h",
@@ -1097,7 +1119,9 @@ Evoke estima **180 km CLTC** (Nrgy 6) y **240 km CLTC** (Nrgy 8). Son estimacion
 
 Fuentes: <a href=https://www.evokemotorcycles.com/NrgySeries>Evoke Motorcycles (oficial)</a>, <a href=https://electrek.co/2026/09/07/evokes-new-5000-electric-motorcycle-can-hit-highway-speeds-coming-to-us-eu/>Electrek</a>, <a href=https://newatlas.com/motorcycles/evoke-nrgy/>New Atlas</a>, <a href=https://www.buckcitybiker.co.uk/news/evoke-nrgy-electric-motorcycle>Buck City Biker</a>.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: <a href=https://www.evokemotorcycles.com>Evoke Motorcycles (web oficial)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`
   },
   {
     "title": "Jetour G700: 903 CV híbridos que flotan",
@@ -1187,7 +1211,9 @@ Sí: además de vadear 900 mm, la versión Ark puede **navegar con hélices** ha
 
 Fuentes: <a href=https://carnewschina.com/2026/09/30/cherys-jetour-g700-launched-with-huawei-ads-5-0/>CarNewsChina</a>, <a href=https://www.carsguide.com.au/car-news/chinas-new-landcruiser-rival-is-an-animal-2026-jetour-g700-revealed-ahead-of-potential>Carsguide</a>, <a href=https://www.youtube.com/watch?v=dp7ti7NmUKo>prueba en YouTube (PRIMA AUTO)</a>.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: <a href=https://www.jetourglobal.com>Jetour Global (web oficial)</a>, <a href=https://www.cheryinternational.com>Chery International (web oficial)</a>, <a href=https://www.huawei.com>Huawei (web oficial)</a>.*`
   },
   {
     "title": "Hongqi G919: el Clase G chino de 831 CV",
@@ -1276,7 +1302,9 @@ Sí: **chasis de largueros**, tres bloqueos de diferencial mecánicos, suspensi�
 
 Fuentes: <a href=https://autonews.gasgoo.com/articles/news/hongqis-first-hardcore-off-roader-arrives-2102694253003481089>Gasgoo</a>, <a href=https://www.freshmotors.net/articles/2026-hongqi-g919-831-hp-four-motor-erev-off-roader-pre-sale-from-52-500>Fresh Motors</a>, <a href=https://www.carscoops.com/2026/06/hongqi-g919-off-roader/>Carscoops</a>, <a href=https://en.wikipedia.org/wiki/Hongqi_G919>Wikipedia</a>, <a href=https://www.youtube.com/watch?v=wHGvjDbZBGs>CarVibes en YouTube</a>.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: <a href=https://www.hongqi-auto.com>Hongqi (web oficial global)</a>, <a href=https://hongqi.faw.cn>Hongqi FAW (web oficial en China)</a>.*`
   },
 ];
 
