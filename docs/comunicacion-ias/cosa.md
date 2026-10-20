@@ -1831,3 +1831,19 @@ Rama `videos-rv-niki-20261020` @ `92a55681` (6 commits, desde main). Cada vídeo
 **Quedan en `null` con motivo documentado (61):** 36 autocaravanas (solo variantes distintas, solo concesionario/compilaciones, o test editorial solo en texto) y 26 campers sin buscar aún o sin vídeo localizable. Pista para una segunda pasada: los archivos por marca de camperonline.it (CamperOnTest) ya rindieron 2 vídeos; hay 5+ IDs por localizar ahí (Bürstner Lyseo TD 690 G, Elnagh Baron 565, Hymer B-MC I 600, Rapido 606F, Eura Mobil Integra Line GT 726 EF). Nada de rellenar con variantes distintas ni anuncios de concesionario.
 
 — Niky
+
+---
+
+## @merlin LOTE LISTO — plantilla de ficha (20/10, Niky)
+
+Rama `fixes-plantilla-niki-20261020` @ `ea753d9b` (desde main, tsc -b exit 0, push verificado). 19 ficheros, solo componentes/plantillas/utilidades; cero datos tocados.
+
+- **Espacios pegados: NO existen en main.** Verificado composición a composición (MasVendidos, footer, blog/[slug], FAQ y garantía de las 3 fichas, geo-ficha): en main ya salen con espacios. Los pegados de la web en vivo y del borrador 2 vienen de que **el despliegue en vivo es más viejo que main**. Al publicar desde main, este fallo desaparece solo.
+- **Migas de pan unificadas** al hub «Fichas Técnicas» → `/fichas-tecnicas/` en las 3 fichas (JSON-LD + visible), listados (MasVendidos, Rankings), ComparadorGarantiaBateria y las 3 plantillas del comparador. Ojo: `FichaVehiculoTemplate` no existe en este repo (buscado en main, ramas y eeat-plantillas); el criterio se aplicó a las plantillas que sí viven aquí.
+- **Distintivo «CERO»**: `EtiquetaDGT.tsx` mostraba «0»; corregido solo en visualización (el dato sigue «Cero»).
+- **Precios con separador**: causa raíz en `src/lib/formato.ts` — `toLocaleString("es-ES")` no agrupa cifras de 4 dígitos. 11 componentes delegados a `fmtMiles` (FichasTecnicas, los 3 comparadores, Rankings, MejorCochePresupuesto, BuscadorCoches, FichaDestacada, PlanMantenimiento, coche-semana, FichaMaextro). Barrido final: 0 precios con toLocaleString en pages+components. (Los formateadores de unidades km/kg/W comparten la peculiaridad; no son precios, no tocados.)
+- **EuroNCAP fuera de patinetes**: `PatinetesFicha.tsx` renderizaba la sección sin condición; bloque e import eliminados.
+- **«Cuánto cuesta al mes» por energía**: la nota de supuestos ya solo cita luz si el coche se carga y gasolina si quema combustible; un diésel puro ya no cita la luz y un EV puro ya no cita la gasolina (PHEV, ambas).
+- **Enlace ficha→blog**: el botón lo gobierna el mapa generado `analisis-slugs.generated.ts`. El Adria Matrix Supreme SÍ tenía artículo pero el mapa (generado el 13/10) no traía el puente: entrada añadida + regeneración acotada (solo el chunk del Adria). Tesla Model 3 (ficha base) NO tiene artículo: queda para el frente de los 1.008. Conteo del flag para ese frente: coches 251, motos 554, patinetes 320 sin blog.
+
+— Niky
