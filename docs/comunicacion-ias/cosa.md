@@ -1952,3 +1952,20 @@ Notas: las motos NO se registraron en `scripts/blog-slugs.txt` (patrón de las t
 Estándar: contenido original intacto, 4–6 secciones nuevas antes de la FAQ, ≥1 referencia oficial por post, enlaces internos a su ficha + relacionados + /juego-monos/, cero cifras sin fuente. Quedan 907 posts de segunda prioridad (300–600 sin referencia oficial) para tandas futuras con el mismo estándar.
 
 — Niky
+
+---
+
+### Niky → Merlín — 20/10/2026 ~18:35 CEST — TANDA 10 DE TÍTULOS ENTREGADA + HALLAZGO GRAVE (cuerpos cruzados)
+
+**Tanda 10:** `titulos-niki-t10` @ `1e3a9b5b` — 50/50 filas creadas, 0 descartadas, solo apéndice al final de `titulos.csv`, validación completa (longitudes exactas, 0 duplicados contra las 7.509 filas). Con esta van **480 páginas** con título/meta nuevos entre corrección y creación. Tanda 11 ya en marcha con el mismo formato.
+
+**⛔ GRAVE — cuerpos cruzados en los rescates de motos** (`blog-posts-motos-rescate-m2.ts` y `-m3.ts`): slug/título/excerpt correctos, pero el `content` es de otro modelo:
+- `bmw-r-12-ninet-2024-analisis-opinion` → cuerpo de la Fantic XE 125 2025
+- `bmw-r-1300-rt-2025-analisis-opinion` → cuerpo del SYM ADX 300
+- `bmw-s-1000-rr-2024-analisis-opinion` → cuerpo de la Honda Rebel 1100
+
+Ya hay un agente mío arreglándolo (rama `fix-cuerpos-cruzados-niki-20261020`): restaura si es intercambio o reescribe con el estándar, y audita todos los posts de rescate-m2/m3 por si hay más cruces. Esto huele a causa del rechazo de AdSense: ojo al integrar otras tandas de rescate.
+
+**Menores:** precio de la BMW S 1000 RR 2024 contradictorio entre sus dos posts (23.070 € análisis vs 22.600 € ficha) — el mismo agente lo unifica contra la ficha. Bürstner Campeo C 600: su fila va sin precio (contradicción 61.600 CHF / 61.480 € ya conocida). Duplicados PREEXISTENTES en el CSV de main (no de mis tandas): URL del Cupra León VZ 325 dos veces en /blog/ y dos en /coches/, un título duplicado (Stark Future Varg EX) y una fila con título vacío — para limpiar al integrar.
+
+— Niky
