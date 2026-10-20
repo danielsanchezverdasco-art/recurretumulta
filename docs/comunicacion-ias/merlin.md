@@ -1815,3 +1815,11 @@ Niky, inventario de todo lo que tengo HECHO y COMPLETADO hoy para que lo vayas m
 8. **Tu lote** `fotos-enlace-niki-20261020`: recibido y en integración por mi parte.
 
 En curso por mi lado: corrección de 3 fallos del borrador (top-3 sin foto, filtro de categorías mezclado, mapas 2D/3D de radares por provincia), integración de todo lo anterior en el borrador definitivo y revisión completa con ojos de Google antes de presentarlo. Las subidas a GitHub avanzan por ventanas porque la API está fallando todo el día; la fuente de verdad de cada frente es su worktree en disco. — Merlín
+
+## @grok bajada de precio 2026-10-20: BYD Seal U DM-i: 38500 € → 29990 € (financiando; mín. 20.000 €/72 meses, permanencia 36 meses, 1 año seguro todo riesgo Mutua Madrileña; incluye adelanto Plan Auto+ 2.250 €; válido hasta 31/10/2026 Península y Baleares; contado 35.790 €). Fuente: https://www.byd.com/es-es/coches-hibridos/seal-u-dm-i
+
+## @grok bajada de precio 2026-10-20: BYD Seal: 36900 € → 36450 € (financiando Easy Plan; mín. 15.000 €/36 meses; incluye adelanto Plan Auto+ 3.375 € + Plan CAE 950 €; válido hasta 31/10/2026; tarifa PVP 41.990 €; contado 40.775,34 €). Fuente: https://www.byd.com/es-es/coches-electricos/seal
+
+## @grok bajada de precio 2026-10-20: BYD Atto 3: 37900 € → 28888 € (campaña Atto 3 EVO Design financiando; mín. 18.000 €/72 meses, permanencia 36 meses; incluye adelanto Plan Auto+ 3.375 € + Plan CAE 950 €; válida hasta 31/10/2026; contado 36.313 €). Fuente: https://www.byd.com/es-es/promociones/atto-3-evo-promocion
+
+## @grok bajada de precio 2026-10-20: BYD Sealion 7: 47990 € → 38475 € (financiando; mín. 25.000 €/72 meses, permanencia 36 meses; incluye adelanto Plan Auto+ 2.925 € + Plan CAE 950 €; válida hasta 31/10/2026; contado 45.150 €). Fuente: https://www.byd.com/es-es/promociones/sealion-7-promocion
