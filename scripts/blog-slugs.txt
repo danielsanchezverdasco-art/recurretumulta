@@ -3869,3 +3869,4 @@ joyor-y10
 iscooter-i9
 hiboy-s2
 hiboy-s2-pro
+segway-e2-e

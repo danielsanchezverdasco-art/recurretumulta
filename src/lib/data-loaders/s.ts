@@ -41,6 +41,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "segway-e110s-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m1.ts"),
     "segway-e125s-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m1.ts"),
     "segway-e150s-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m1.ts"),
+    "segway-e2-e": () => import("../blog-posts-patinetes-exp-p12.ts"),
     "segway-e2-plus-e": () => import("../blog-posts-patinetes-exp-p12.ts"),
     "segway-e25": () => import("../blog-posts-patinetes-exp-p12.ts"),
     "segway-e300se-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m18.ts"),
