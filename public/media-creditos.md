@@ -4910,3 +4910,21 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/xpeng-g9-2024-precio-espana-hunt1.webp | https://www.standvirtual.com/diarioautomovel/wp-content/uploads/2024/10/Xpeng-G9.jpg | Diário Automóvel / Standvirtual | desconocida |
 | /media/xpeng-g9-2024-precio-espana-hunt2.webp | https://fordreamauto.com/wp-content/uploads/2023/10/ForDreamAuto_XPENG-G9-2024_001.jpg | ForDreamAuto | desconocida |
 | /media/xpeng-g9-2024-precio-espana-hunt3.webp | https://cdn1.tt.regeljelease.nl/images/92c2b79c-6d3a-4b00-8a01-b9a6bb472b9e/full.jpg | RegeljeLease | desconocida |
+| /media/abarth-600e-2025-precio-ficha-tecnica-hunt1.webp | https://images.dailyrevs.com/0000/v3/Fiat/672085a7d969c24f981180e1/2025-abarth-600e-turismo-fiat-jvyis09yix3urfq6a.jpeg | DailyRevs (foto de prensa Abarth) | desconocida |
+| /media/abarth-600e-2025-precio-ficha-tecnica-hunt2.webp | https://images.dailyrevs.com/0000/v3/Fiat/672085a7d969c24f981180e1/2025-abarth-600e-turismo-fiat-jwq9hlllllh0jgubybtpm2p.jpeg | Simon Palfrader / DailyRevs (foto de prensa Abarth) | desconocida |
+| /media/abarth-600e-2025-precio-ficha-tecnica-hunt3.webp | https://images.dailyrevs.com/0000/v3/Fiat/672085a7d969c24f981180e1/2025-abarth-600e-turismo-fiat-jwlr47777760humd4c7kqhq.jpeg | DailyRevs (foto de prensa Abarth) | desconocida |
+| /media/nerva-spark-2026-ficha-tecnica-precio-hunt1.webp | https://www.amotomio.it/images/phocagallery/2026_Flap_Varie/Nerva_Spark_05.jpg | AMotoMio (foto de prensa Nerva) | desconocida |
+| /media/nerva-spark-2026-ficha-tecnica-precio-hunt2.webp | http://soymotero.net/wp-content/uploads/2026/09/NDP_NERVA_SPARK_46_26_11zon_26_11zon.jpg | SoyMotero (foto de prensa Nerva) | desconocida |
+| /media/renault-boreal-2026-precio-ficha-tecnica-hunt1.webp | https://motordigitalpress.com/wp-content/uploads/2026/06/MDP-Renault-Boreal-6.jpg | MotorDigitalPress | desconocida |
+| /media/renault-boreal-2026-precio-ficha-tecnica-hunt2.webp | https://www.planetcarsz.com/img/carros/galeria/2025/07/renault-boreal-2026-009-20250710171757-1280x925.jpg | PlanetCarsZ (foto de prensa Renault) | desconocida |
+| /media/renault-boreal-2026-precio-ficha-tecnica-hunt3.webp | https://img0.icarros.com/dbimg/galeriaimgmodelo/0/152555_1.webp | iCarros (foto de prensa Renault) | desconocida |
+| /media/benelli-tornado-500-2024-ficha-tecnica-precio-hunt1.webp | https://www.motorrad-bilder.at/thumbs/995x/slideshows/291/022684/04.jpg | 1000ps.de / motorrad-bilder.at | desconocida |
+| /media/benelli-tornado-500-2024-ficha-tecnica-precio-hunt2.webp | https://www.tuningblog.eu/wp-content/uploads/2023/11/Benelli-Tornado-500-A2-Fuehrerschein-Motorrad-7.jpg | tuningblog.eu | desconocida |
+| /media/ds-3-2025-precio-ficha-tecnica-hunt1.webp | https://cdn.vpauto.fr/SAXkrEo_01.jpg | VPauto.fr | desconocida |
+| /media/ds-3-2025-precio-ficha-tecnica-hunt2.webp | https://a.storyblok.com/f/311779/1920x1280/a9b0f45ff8/vms-gallery-ds3.png/m/1200x0 | Van Mossel DS / DS Automobiles | desconocida |
+| /media/ds-3-2025-precio-ficha-tecnica-hunt3.webp | https://www.annonces-automobile.com/images/data/actualite/2026/05/images/ds3-int.jpg | annonces-automobile.com | desconocida |
+| /media/yangwang-u8-2024-precio-ficha-tecnica-hunt1.webp | https://cdn.hiconsumption.com/wp-content/uploads/2023/09/2024-Yangwang-U8-1.jpg | HiConsumption | desconocida |
+| /media/yangwang-u8-2024-precio-ficha-tecnica-hunt2.webp | https://yangwangqatar.com/wp-content/uploads/2025/11/5-pc-1.jpg | Yangwang Qatar (distribuidor oficial) | desconocida |
+| /media/yangwang-u8-2024-precio-ficha-tecnica-hunt3.webp | https://cyber-motors.com.ua/image/catalog/cars/Yangwang/Yangwang%20U8/Yangwang%20U8-int.jpg | ncars.com.ua / Cyber Motors | desconocida |
+| /media/benelli-tornado-400-2025-ficha-tecnica-precio-hunt1.webp | https://www.motosan.es/wp-content/uploads/2024/11/Benelli-Tornado-400-2025_00001-1024x576-1.jpg | Motosan / Benelli (foto de prensa oficial) | desconocida |
+| /media/benelli-tornado-400-2025-ficha-tecnica-precio-hunt2.webp | https://images5.1000ps.net/images_bikekat/2025/49-Benelli/12834-Tornado_400/002-638720343262874552-benelli-tornado-400.jpg?width=1200&height=675&mode=crop&scale=both&format=webp | 1000PS / Benelli (foto de prensa oficial) | desconocida |
