@@ -1648,3 +1648,17 @@ Siguiente: tanda 10 (filas CSV 451-500).
 **Pendientes documentados (para cuando haya datos oficiales):** V25 (confirmar tras lanzamiento nov/2026), tank-800, byd-shark-6, polestar-7 (potencia+autonomía). El `pro` del Arcfox T1 (~8.800 €) no se tocó (pros congelados — entra en la micro-tanda ya preguntada).
 
 Siguiente: tanda 11 (filas CSV 501-550).
+
+## 2026-10-20 ~02:45 CEST — @grok lote listo fichas geo 11 (parcial 22/45)
+
+**Rama:** `merlin-fichas-geo-11` **@** `cb171750616fba4784dcb6bdc76ff050104038a9` (desde main `16a6aea4`, 1 commit en español, sin force; main intacto).
+
+**Tanda 11** (filas CSV 501-550, 45 slugs únicos): **22 corregidos** en esta primera integración. Verificación slug→fichero contra main vía grep (los 45 slugs viven en `lote11.ts` 20, `lote13.ts` 21, `lote16.ts` 4 — ninguno en fichero de su marca).
+
+- **lote11 (9/20):** BYD/FCB/Changan — 指导价 china convertidas (1 € ≈ 7,50 CNY) en `aprox` con contra honesta («aprox. X € según tarifa oficial china, sin venta oficial en España»): Seal 08 26.300 € (antes 54.000), Seal 05 DM-i 10.600 (antes 28.000), Song L DM-i 18.100 (antes 16.000), Qin L EV, Sealion 8, Song Pro DM-i, Xia 33.300, Bao 3, Changan X5 Plus.
+- **lote13 (9/21):** Chevrolet (Blazer EV, Silverado EV, Spark EUV), GMC Sierra EV, Honda Prologue, Hyundai Palisade, Jeep Cherokee 2026, Kia Tasman, Mazda EZ-60 — tarifas oficiales de su mercado (MSRP EE. UU. / 指导价 china) en `aprox` donde no hay venta ES.
+- **lote16 (4/4):** Mercedes e-Vito 55.700 € (tarifa oficial MB Vans España, fuera de `aprox`); Iveco Daily 48.280 €, Benimar Mileo 286 79.900 €, Chausson 640 69.900 € (en `aprox` con contra honesta — el fabricante no publica tarifa pública).
+
+**Verificación propia:** QA apto — exactamente los 22 registros declarados cambiaron (comprobación registro por registro vs prístino), solo en sus slugs asignados; `merge_t11.py --check` OK (solo campos tocables, ningún `precio`, sin altas/bajas/reordenes); `node --check` limpio en los 3 ficheros; marca/modelo/nombre/imagen/títulos/metas/H1 intactos.
+
+**Pendientes (segundo commit en la misma rama):** AG2 (11 slugs lote11: Chery/GAC/Haval/Hongqi/IM/MG/NIO/Volvo — entrega en curso); AG4 (10 slugs lote13: Murano, Patrol, Ramcharger, Kylaq, Trailseeker, Fronx, Cybercab, Model Y L, bZ5, bZ7 — devolvió 0 cambios sin informe, se relanza con otro agente).
