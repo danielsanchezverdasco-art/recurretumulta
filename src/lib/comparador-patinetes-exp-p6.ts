@@ -1804,7 +1804,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cecotec",
     marca: "Cecotec",
     modelo: "Bongo Serie Z Off Road",
-    precioEur: null,
+    precioEur: null, // Cecotec ya no lo comercializa ni publica tarifa oficial (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: null,
     autonomiaKm: null,
@@ -1838,6 +1838,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Peso no publicado; será alto",
       "Sin certificación DGT verificada",
       "La batería extraíble grande pesa lo suyo al transportarla",
+      "Sin precio oficial: Cecotec ya no lo comercializa ni publica tarifa",
     ],
     veredicto:
       "El Z Off Road es el Bongo más especial: ruedas de 12\", bambú y batería extraíble. Para amantes del campo y del diseño diferente; si buscas datos y potencia bruta, la serie Doble Z te espera.",
@@ -1867,7 +1868,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cosasdepatinetes",
     marca: "Cecotec",
     modelo: "Bongo Serie X65 Connected",
-    precioEur: null,
+    precioEur: null, // Cecotec ya no lo comercializa ni publica tarifa oficial (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: 1000,
     autonomiaKm: 65,
@@ -1930,7 +1931,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cecotec",
     marca: "Cecotec",
     modelo: "Bongo Serie X45 Sport Connected",
-    precioEur: 419,
+    precioEur: null, // Cecotec ya no lo comercializa ni publica tarifa oficial (verificado 20/10/2026)
     potenciaNominalW: 450,
     potenciaPicoW: 900,
     autonomiaKm: 45,
@@ -1948,7 +1949,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/cecotec-bongo-serie-x45-sport-connected-2.webp", alt: "Detalle del Cecotec Bongo Serie X45 Sport Connected", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/cecotec-bongo-serie-x45-sport-connected-3.webp", alt: "Cecotec Bongo Serie X45 Sport Connected en marcha", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur", "autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH"],
     pros: [
       "Solo 16 kg: ligero para 45 km declarados",
       "450 W nominales con picos de 900 W",
@@ -1964,6 +1965,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Diseño 'SUV' voluminoso para ser ligero",
       "45 km declarados se quedan en unos 30 reales",
       "Sin doble disco: disco + e-ABS",
+      "Sin precio oficial: Cecotec ya no lo comercializa ni publica tarifa vigente",
     ],
     veredicto:
       "El X45 Sport Connected es el peso ligero con autonomía: 16 kg y 45 km declarados por 419 €. Perfecto para commuting si pesas menos de 100 kg; para más peso o más certeza DGT, sube de gama.",
@@ -1993,7 +1995,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cecotec",
     marca: "Cecotec",
     modelo: "Bongo D30 XL Connected",
-    precioEur: 139,
+    precioEur: null, // Cecotec ya no lo comercializa ni publica tarifa oficial (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: 650,
     autonomiaKm: 30,
@@ -2011,7 +2013,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/cecotec-bongo-d30-xl-connected-2.webp", alt: "Detalle del Cecotec Bongo D30 XL Connected", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/cecotec-bongo-d30-xl-connected-3.webp", alt: "Cecotec Bongo D30 XL Connected aparcado", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur", "autonomiaRealKm"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Homologado por la DGT: circula legal",
       "139 € en oferta en Carrefour: el DGT más barato",
@@ -2026,7 +2028,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "30 km declarados se quedan en unos 20 reales",
       "Tiempo de carga no publicado",
       "Acabados básicos",
-      "El precio de 139 € es oferta; el PVP ronda los 239 €",
+      "Sin precio oficial: Cecotec ya no lo comercializa ni publica tarifa vigente",
     ],
     veredicto:
       "El D30 XL Connected es el chollo con papeles: homologado DGT, ruedas de 10\" y 30 km declarados por 139 € en oferta. El patinete urbano barato que sí puedes usar legalmente; no le pidas cuestas ni 120 kg.",
@@ -2056,7 +2058,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Electron Surfer",
     marca: "Speedway",
     modelo: "Leger Pro",
-    precioEur: 800,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público (verificado 20/10/2026)
     potenciaNominalW: 600,
     potenciaPicoW: 1450,
     autonomiaKm: 75,
@@ -2074,7 +2076,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/speedway-leger-pro-2.webp", alt: "Detalle del Speedway Leger Pro", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/speedway-leger-pro-3.webp", alt: "Speedway Leger Pro en una avenida", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur", "autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH"],
     pros: [
       "Batería de 1.081 Wh (52 V): 75 km declarados, una barbaridad",
       "Solo 20 kg con más de 1 kWh: récord de densidad",
@@ -2090,6 +2092,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Sin certificación DGT verificada",
       "Minimotors tiene servicio técnico limitado en España",
       "20 kg con batería enorme: si falla, la reparación es cara",
+      "Sin precio oficial en España: la marca no publica tarifa oficial para este modelo",
     ],
     veredicto:
       "El Leger Pro es el rutero definitivo: 1.081 Wh en 20 kg. Si haces 40+ km al día y no quieres cargar cada noche, no hay nada parecido. La frenada de tambor es su único pero serio.",
@@ -2116,7 +2119,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Speedway",
     modelo: "Leger",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: 1360,
     autonomiaKm: 48,
@@ -2176,7 +2179,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Guy in a Mountain",
     marca: "Speedway",
     modelo: "Mini 4 Pro",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: 1360,
     autonomiaKm: 48,
@@ -2236,7 +2239,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "escooter-haus",
     marca: "SXT",
     modelo: "Light Plus V",
-    precioEur: null,
+    precioEur: null, // SXT no publica tarifa oficial para este modelo (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: null,
     autonomiaKm: 40,
@@ -2282,7 +2285,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Freshly Charged",
     marca: "Segway",
     modelo: "SuperScooter GT3 Pro",
-    precioEur: null,
+    precioEur: 2599, // tarifa oficial España (verificado 20/10/2026)
     potenciaNominalW: 3400,
     potenciaPicoW: 7000,
     autonomiaKm: 138,
@@ -2313,7 +2316,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "53,1 kg: una moto sin asiento",
       "80 km/h: no puede circular legalmente en España",
       "Sin certificación DGT",
-      "2.699 $ en EE. UU.: precio de moto",
+      "2.599 € en la tienda oficial de Segway en España: precio de moto",
       "8 horas de carga",
       "Excesivo para cualquier uso urbano",
     ],
@@ -2328,7 +2331,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway",
     modelo: "Ninebot KickScooter F2 II",
-    precioEur: null,
+    precioEur: null, // sin tarifa oficial publicada en ningún mercado (verificado 20/10/2026)
     potenciaNominalW: 400,
     potenciaPicoW: 800,
     autonomiaKm: 45,
@@ -2360,7 +2363,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "6,5 horas de carga",
       "La autonomía real ronda los 30 km",
       "Carga máxima no publicada",
-      "Precio no publicado en España (en Amazon ronda los 500 €)",
+      "Sin precio oficial en España: Segway no publica tarifa para este modelo",
       "Sin suspensión: las ruedas de 10\" hacen lo que pueden",
     ],
     veredicto:
@@ -2385,7 +2388,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway",
     modelo: "Ninebot KickScooter F2 Pro II",
-    precioEur: 628,
+    precioEur: 499, // tarifa oficial Europa (verificado 20/10/2026)
     potenciaNominalW: 450,
     potenciaPicoW: 900,
     autonomiaKm: 65,
@@ -2403,7 +2406,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/segway-ninebot-f2-pro-ii-2.webp", alt: "Detalle del Segway Ninebot F2 Pro II", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/segway-ninebot-f2-pro-ii-3.webp", alt: "Segway Ninebot F2 Pro II en marcha", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur", "autonomiaRealKm"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Certificado DGT (B1104): legal en España",
       "65 km declarados con 460 Wh: el F2 de mayor autonomía",
@@ -2442,7 +2445,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Navee",
     modelo: "V40i",
-    precioEur: null,
+    precioEur: null, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: null,
     autonomiaKm: 40,
@@ -2505,7 +2508,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Navee",
     modelo: "V50i",
-    precioEur: null,
+    precioEur: null, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: null,
     autonomiaKm: 50,
@@ -2568,7 +2571,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Adrián Pérez",
     marca: "Navee",
     modelo: "N65i",
-    precioEur: null,
+    precioEur: null, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
     potenciaNominalW: 600,
     potenciaPicoW: 1000,
     autonomiaKm: 65,
@@ -2614,7 +2617,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "NAVEE",
     marca: "Navee",
     modelo: "V25i Pro",
-    precioEur: 309,
+    precioEur: null, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
     potenciaNominalW: 300,
     potenciaPicoW: 600,
     autonomiaKm: 25,
@@ -2632,7 +2635,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/navee-v25i-pro-2.webp", alt: "Detalle de la pantalla del Navee V25i Pro", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/navee-v25i-pro-3.webp", alt: "Navee V25i Pro en la ciudad", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur", "autonomiaRealKm"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Pantalla LED de 4\" con 14° de inclinación: se lee al sol",
       "Smart BMS con 6 protecciones de batería",
@@ -2648,6 +2651,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Certificación DGT no verificada",
       "300 W nominales: solo llano",
       "Tiempo de carga no publicado",
+      "Sin precio oficial en España: la marca no publica tarifa oficial para este modelo",
     ],
     veredicto:
       "El V25i Pro es el Navee más barato con pantalla grande: 309 € en Amazon. Para trayectos cortos y conductor ligero va perfecto; su batería de 184 Wh no da para más.",
@@ -2660,7 +2664,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "NAVEE",
     marca: "Navee",
     modelo: "V40 Pro",
-    precioEur: null,
+    precioEur: null, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
     potenciaNominalW: null,
     potenciaPicoW: 600,
     autonomiaKm: null,
@@ -2723,7 +2727,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "NIU Mobility AU & NZ",
     marca: "NIU",
     modelo: "KQi1 Pro",
-    precioEur: 399,
+    precioEur: 400, // 499 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 250,
     potenciaPicoW: 450,
     autonomiaKm: 25,
@@ -2757,6 +2761,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Carga máxima de 100 kg",
       "Ruedas de 9\": menos estables que las de 10\"",
       "Freno de tambor: frenada básica",
+      "Precio estimado desde la tarifa oficial de EE. UU. (499 $): no se vende oficialmente en España",
     ],
     veredicto:
       "El KQi1 Pro es el NIU de entrada: DGT, 15,4 kg y 399 €. Perfecto como primer patinete o para el último kilómetro; sus 250 W y 25 km declarados marcan sus límites con honestidad.",
@@ -2777,7 +2782,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Ruptor",
     modelo: "R3",
-    precioEur: null,
+    precioEur: null, // sin tarifa oficial publicada en ningún mercado (verificado 20/10/2026)
     potenciaNominalW: 800,
     potenciaPicoW: null,
     autonomiaKm: null,
@@ -2811,6 +2816,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Sistema de frenado no detallado",
       "Sin certificación DGT verificada",
       "Sin red de servicio técnico propio",
+      "Sin precio oficial en España: la marca no publica tarifa oficial para este modelo",
     ],
     veredicto:
       "El Ruptor R3 es la apuesta de Phone House: 800 W y 150 kg de carga máxima con estética agresiva. La marca es nueva y la ficha escasa, pero el respaldo de Phone House le da un plus de confianza.",
@@ -2823,7 +2829,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Ruptor",
     modelo: "R6",
-    precioEur: null,
+    precioEur: null, // sin tarifa oficial publicada en ningún mercado (verificado 20/10/2026)
     potenciaNominalW: 1600,
     potenciaPicoW: null,
     autonomiaKm: null,
@@ -2857,6 +2863,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Marca nueva sin historial de fiabilidad",
       "Sin datos de frenos ni neumáticos",
       "Disponibilidad limitada",
+      "Sin precio oficial en España: la marca no publica tarifa oficial para este modelo",
     ],
     veredicto:
       "El Ruptor R6 promete doble motor y 150 kg de carga, pero publica poquísimos datos. Solo para compradores que lo vean en tienda y lo prueben; sobre el papel es una incógnita.",
