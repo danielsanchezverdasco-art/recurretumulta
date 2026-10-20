@@ -6383,3 +6383,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/super-soco-tsx-50-2025-ficha-tecnica-precio-hunt1.webp | https://myscootershop.nl/wp-content/uploads/2026/01/Super-Soco-TSX-MyScootershop.nl-Noordwijkerhout-2048x1818.png | MyScootershop | desconocida |
 | /media/super-soco-tsx-50-2025-ficha-tecnica-precio-hunt2.webp | https://tr.e-scooter.co/i/su/pe/super-soco-tsx/full/66b8dd_8837b82b34f440ea99b87f88b43a08e6-mv2.jpg | e-scooter.co | desconocida |
 | /media/super-soco-tsx-50-2025-ficha-tecnica-precio-hunt3.webp | https://www.englishelectricmotorco.com/wp-content/uploads/2021/01/Super_Soco_TSX_IMG-768x534.png | English Electric Motor Co | desconocida |
+| /media/hyundai-i10-n-line-2026-precio-ficha-tecnica-hunt1.webp | https://www.careta.my/sites/default/files/inline-images/Hyundai%20i10%20N%20Line%202023.01.jpg | Careta / Hyundai (foto de prensa) | desconocida |
+| /media/hyundai-i10-n-line-2026-precio-ficha-tecnica-hunt2.webp | https://www.auto-data.net/images/f94/Hyundai-i10-III-facelift-2023.jpg | auto-data.net / Hyundai | desconocida |
+| /media/hyundai-i10-n-line-2026-precio-ficha-tecnica-hunt3.webp | https://images.automais.pt/2023/03/ensaio-andre-mendes-hyundai-i10-n-line-2.jpg | Automais.pt (ensayo André Mendes) | desconocida |
+| /media/mazda-3-20-e-skyactiv-x-5p-2026-precio-ficha-tecnica-hunt1.webp | https://assets.motorpoint.co.uk/images/content/5749.jpg | Motorpoint | desconocida |
+| /media/mazda-3-20-e-skyactiv-x-5p-2026-precio-ficha-tecnica-hunt2.webp | https://images.autoreview.nl/600x450/165101-mazda3-hatchback-15.jpg | Autoreview / Mazda (prensa) | desconocida |
+| /media/mazda-3-20-e-skyactiv-x-5p-2026-precio-ficha-tecnica-hunt3.webp | https://d33wubrfki0l68.cloudfront.net/4bfad8e975c4bc9e8113f01e44e43b4c133d0975/d38a5/static/67a83db163154e25580a4e24e42f41d6/61d2c/l3b9389-1.jpg | Mazda Stories (revista oficial Mazda) | desconocida |
+| /media/gasgas-ec-350f-2025-ficha-tecnica-precio-hunt1.webp | https://azwecdnepstoragewebsiteuploads.azureedge.net/PHO_BIKE_DET_Enduro-EC-350F-2025-bodywork_%23SALL_%23AEPI_%23V1.jpg | GASGAS (oficial) | desconocida |
+| /media/gasgas-ec-350f-2025-ficha-tecnica-precio-hunt2.webp | https://cdn-listino.inmoto.it/2024/7/2/83943_Enduro_EC_250_F_EC_350_F_2025_Static_145dcbafc4.jpg | Inmoto / GASGAS (prensa) | desconocida |
+| /media/gasgas-ec-350f-2025-ficha-tecnica-precio-hunt3.webp | https://cdn-listino.inmoto.it/2024/7/2/83951_Enduro_EC_250_F_EC_350_F_2025_Static_b1d9785291.jpg | Inmoto / GASGAS (prensa) | desconocida |
+| /media/vmoto-cpx-explorer-2025-ficha-tecnica-precio-hunt1.webp | https://vmoto.co.uk/app/uploads/2025/10/Vmoto-CPx-Eplorer-riding-photos-2025-2.png | Vmoto UK (web oficial) | desconocida |
+| /media/vmoto-cpx-explorer-2025-ficha-tecnica-precio-hunt2.webp | https://vmotosoco.sk/cdn/shop/files/vmoto_cpx_explorer_02.jpg?v=1739794713&width=600 | VmotoSoco.sk (distribuidor oficial) | desconocida |
+| /media/vmoto-cpx-explorer-2025-ficha-tecnica-precio-hunt3.webp | https://www.go2roues.com/wp-content/uploads/2024/06/CPX-Explorer-blanc-ard.png | Go2Roues (distribuidor Vmoto Francia) | desconocida |
