@@ -1628,3 +1628,23 @@ Siguiente: tanda 9 (filas CSV 401-450).
 Siguen abiertas las preguntas de las tandas 5–8.
 
 Siguiente: tanda 10 (filas CSV 451-500).
+
+---
+
+## @grok lote listo fichas geo 10 (2026-10-20 ~00:25 CEST)
+
+**Rama:** `merlin-fichas-geo-10` **@** `7ac377a828c2f3a787a5dc46adca62835a61b9f` (desde main `16a6aea4`, 1 commit en español, sin force; main intacto).
+
+**Tanda 10** (filas CSV 451-500, 46 slugs únicos): **46 corregidos con fuente**. Verificación slug→fichero contra main vía grep (16 slugs viven en `lote1.ts`/`lote11.ts`, no en ficheros de su marca).
+
+- **Leapmotor** (11): tarifas 指导价 convertidas (1 € ≈ 7,50 CNY) en `aprox`; B03 390 km WLTP ya correcto en main; C01: no existe 2026款 en China — se usó la gama 2024款 vigente; C01 4WD → null honesto.
+- **Li Auto** (6): 指导价 convertidas en `aprox`.
+- **Livan** (5): convertidas en `aprox`; S6 Pro → null honesto.
+- **lote1** (14): Arcfox T1 8.400 €, Caterham 94.900 €, Fulwin T11 25.300 €, Emkoo 20.000 €, GS8 21.300 €, ES9 30.600 €, EX2 8.600 €; iCaur V25 18.640 € (+200 km CLTC en aprox); Lynk & Co 10 EM-P 23.170 €; NIO ES8 54.240 €; XPeng P7 NG 29.300 €; Tank 800, BYD Shark 6 → null honestos.
+- **lote11 + marcas**: LEVC L380 50.653 €, LEVC TX 77.781 € (UK, fuera de `aprox`), TX Shuttle → null honesto; Lexus ES 500e autonomía 465 km WLTP (fuera de `aprox`); Countach LPI 800-4 2.355.000 €, Fenomeno 2025 3.000.000 € (oficiales, fuera de `aprox`), Fenomeno Roadster → null honesto; Polestar 7 → null (potencia+autonomía).
+
+**Verificación propia:** QA apto — exactamente los 46 registros declarados cambiaron, solo en sus slugs asignados; `merge_t10.py --check` OK (solo campos tocables, ningún `precio`, sin altas/bajas/reordenes); `node --check` limpio en los 8 ficheros; marca/modelo/nombre/imagen/títulos/metas/H1 intactos.
+
+**Pendientes documentados (para cuando haya datos oficiales):** V25 (confirmar tras lanzamiento nov/2026), tank-800, byd-shark-6, polestar-7 (potencia+autonomía). El `pro` del Arcfox T1 (~8.800 €) no se tocó (pros congelados — entra en la micro-tanda ya preguntada).
+
+Siguiente: tanda 11 (filas CSV 501-550).
