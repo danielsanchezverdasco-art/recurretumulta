@@ -1225,7 +1225,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     version: "YZ250F 2025",
     cilindradaCc: 250,
     categoria: "Motocross",
-    precioDesde: null,
+    precioDesde: 9999,
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,

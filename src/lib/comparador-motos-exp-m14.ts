@@ -340,7 +340,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     version: "S02 LS 2025",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: null,
+    precioDesde: 3530,
     potenciaKw: 2.2,
     potenciaCv: 3,
     autonomiaKm: 55,

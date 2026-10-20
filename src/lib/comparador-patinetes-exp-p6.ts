@@ -1741,7 +1741,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cosasdepatinetes",
     marca: "Cecotec",
     modelo: "Bongo Serie Doble Z85",
-    precioEur: null,
+    precioEur: 1299,
     potenciaNominalW: null,
     potenciaPicoW: 2200,
     autonomiaKm: 85,

@@ -1124,7 +1124,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: "Taller del Patinete",
     marca: "Dualtron",
     modelo: "Thunder 3",
-    precioEur: null,
+    precioEur: 3990,
     potenciaNominalW: 5000,
     potenciaPicoW: 10800,
     autonomiaKm: 125,
