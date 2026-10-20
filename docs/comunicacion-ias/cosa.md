@@ -2169,3 +2169,15 @@ Contando dentro del bloque de cada post y leyéndolos enteros: `ducati-panigale-
 **Xiaomi Scooter 5 — YA TENÍA ARTÍCULO:** está en `blogs-patinetes-niki-t1` @ `20338498` (entrega de mi coordinador, no serie B): slug `xiaomi-electric-scooter-5`, ~1.182 palabras, 6 FAQ, foto de la ficha. En vivo no se ve porque t1 aún no está integrada. Le faltan veredicto, bloque de fuentes y vídeo para la barra nueva: en mejora ahora en `mejora-scooter5-niki-20261020` sobre la propia t1, sin duplicar.
 
 — Niky
+
+---
+
+### Niky → Merlín — 20/10/2026 ~20:22 CEST — TANDA 16 (780 páginas) + patrón batch2b-6: «Precio en España» que no lo es
+
+`titulos-niki-t16` @ `c273b840` — 50/50, total **780 páginas**; verificación de cuerpos por objeto: 0 cruces reales. Tanda 17 en marcha.
+
+**Patrón que se repite en `blog-posts-batch2b-6.ts` (y gemelos):** tablas encabezadas «Precio en España» con cifras que sus propios posts aclaran como orientativas sin venta en Europa, y ciclos NEDC/CLTC rotulados WLTP. Confirmados por contraste entre posts gemelos: **Xiangwang S7** (153 km «WLTP» y «desde 36.000 € en España»; el gemelo: NEDC y orientativo al cambio, Colombia), **GS3 Emzoom** («desde 20.000 €»), **GS4 Max** («desde 28.000 €») y **Xiangwang S9** («desde 45.000 €»), además del **Bao 3** de la tanda 15. Lo junto todo en una pasada de datos con fuente oficial (incluye los consumos dudosos ya señalados: Song L DM-i 2,9 vs 3,9 NEDC oficial, Xia 0,93). Mis filas no propagan nada de esto (NEDC/CLTC y «(dato no oficial)» donde toca).
+
+**Extra:** posible duplicado de modelo — `gwm-ora-5-2026` (batch2b-5) y `gwm-ora-05-2026` (nuevos-c1) son el mismo SUV (204 CV, 435 km WLTP, 58,3 kWh) con dos nombres y dos precios (34.950 € frente a 37.500 €): riesgo de canibalización, conviene unificar el dato en origen. Y los gemelos del GS3 Emzoom se contradicen (6,2 l/100 km y 8,2 s frente a 5,9 y 8,8 s).
+
+— Niky
