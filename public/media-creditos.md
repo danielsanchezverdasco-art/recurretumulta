@@ -6916,3 +6916,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/kymco-people-s-125-2026-ficha-tecnica-precio-hunt1.webp | https://statics.cedscdn.it/photos/MED_HIGH/82/83/6078283_1002_kymco_people_s_125i_abs_e5_studio_009_1024x682.jpg | Kymco (vía CEDS) | desconocida |
 | /media/kymco-people-s-125-2026-ficha-tecnica-precio-hunt2.webp | https://i.blogs.es/0fcc1c/kymco-people-s-125-2021-004/1366_2000.jpg | Kymco / Blog motor Webedia | desconocida |
 | /media/kymco-people-s-125-2026-ficha-tecnica-precio-hunt3.webp | https://listing-images.motoscout24.ch/109/12339109/1346701930.jpg?w=1920&q=90 | MotoScout24 | desconocida |
+| /media/bmw-m5-touring-2026-precio-ficha-tecnica-hunt1.webp | https://www.carscoops.com/wp-content/uploads/webp/2024/08/BMW-M5-Touring-105.webp | BMW Group / Carscoops | desconocida |
+| /media/bmw-m5-touring-2026-precio-ficha-tecnica-hunt2.webp | https://www.emanualonline.com/blog/wp-content/uploads/2024/08/P90564603_highRes_the-all-new-bmw-m5-t.jpg | BMW Group (foto de prensa P90564603) | desconocida |
+| /media/bmw-m5-touring-2026-precio-ficha-tecnica-hunt3.webp | https://images.carexpert.com.au/resize/960/-/cms/v1/media/2024-08-2025-bmw-m5-touring-12.jpg | BMW Group / CarExpert | desconocida |
+| /media/mercedes-benz-eqs-450-plus-precio-ficha-tecnica-hunt1.webp | https://paultan.org/cn/image/2021/04/2022-Mercedes-Benz-EQS-91.jpg | Mercedes-Benz / Paul Tan | desconocida |
+| /media/mercedes-benz-eqs-450-plus-precio-ficha-tecnica-hunt2.webp | https://ev-database.org/img/auto/Mercedes_EQS_2024/Mercedes_EQS_2024-03.jpg | Mercedes-Benz / EV Database | desconocida |
+| /media/mercedes-benz-eqs-450-plus-precio-ficha-tecnica-hunt3.webp | https://www.motormaglanka.lk/CMS/uploads/img_cms_2025-05-01_469334_photo.png | Motor Magazine Lanka | desconocida |
+| /media/yamaha-mt-07-2026-ficha-tecnica-precio-hunt1.webp | https://yamahamotorsports.com/media/images_products/2025-25-mt-07/1920px/11-2025-MT07SGY-MLNM4-US-12-YY-002.JPG.webp | Yamaha Motor (web oficial) | desconocida |
+| /media/yamaha-mt-07-2026-ficha-tecnica-precio-hunt2.webp | https://ultimatemotorcycling.com/wp-content/uploads/2024/11/2025-yamaha-mt-07-first-look-6-696x464.webp | Yamaha Motor / Ultimate Motorcycling | desconocida |
+| /media/yamaha-mt-07-2026-ficha-tecnica-precio-hunt3.webp | https://yamahamotorsports.com/media/images_products/2025-25-mt-07/1200px/11-2025-MT07SCL-DPBMC-US-11-YY-5.JPG.webp | Yamaha Motor (web oficial) | desconocida |
+| /media/kymco-agility-s-125-2026-ficha-tecnica-precio-hunt1.webp | https://soymotero.net/wp-content/uploads/2025/04/Agility-S-125-General-Blanco-1.jpg | KYMCO / SoyMotero | desconocida |
+| /media/kymco-agility-s-125-2026-ficha-tecnica-precio-hunt2.webp | https://soymotero.net/wp-content/uploads/2025/04/Agility-S-125-General-Marron-2.jpg | KYMCO / SoyMotero | desconocida |
+| /media/kymco-agility-s-125-2026-ficha-tecnica-precio-hunt3.webp | https://cdn-listino.inmoto.it/2023/1/27/Kymco_Agility_S_125_Studio_1_efcfa36161.JPG | KYMCO / InMoto | desconocida |
