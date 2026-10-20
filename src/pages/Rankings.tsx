@@ -243,7 +243,7 @@ export default function Rankings() {
 
         <div className="mt-4">
           <PageHero
-            image="/media/rankings.webp"
+            image="/media/bmw-ix4-electrico-2026-hero.webp"
             imageAlt="Coches eléctricos en un ranking del motor"
             badge="🏆 Rankings · Novedades Motor"
             title={ranking.titulo}
@@ -455,7 +455,7 @@ export function RankingsIndex() {
 
         <div className="mt-4">
           <PageHero
-            image="/media/rankings.webp"
+            image="/media/bmw-ix4-electrico-2026-hero.webp"
             imageAlt="Coches eléctricos en un ranking del motor"
             badge="🏆 Rankings · Novedades Motor"
             title="Rankings de coches"

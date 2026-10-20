@@ -722,8 +722,8 @@ export default function ComparadorPatinetesPage() {
 
         <div className="mt-3">
           <HeroVS
-            imagen1="/media/comparador/hero-patinete-1.jpg"
-            imagen2="/media/comparador/hero-patinete-2.jpg"
+            imagen1="/media/patinetes/apollo-air.webp"
+            imagen2="/media/patinetes/aovopro-ap07.webp"
             alt1="Patinete eléctrico en la ciudad"
             alt2="Detalle de un patinete eléctrico"
             titulo="Comparador de patinetes eléctricos"

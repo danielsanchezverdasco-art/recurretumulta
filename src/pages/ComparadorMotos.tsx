@@ -372,10 +372,10 @@ export default function ComparadorMotosPage() {
       <SharedNavbar />
 
       <HeroVS
-        imagen1="/media/comparador/hero-moto-1.jpg"
-        imagen2="/media/comparador/hero-moto-2.jpg"
-        alt1="Moto eléctrica 1"
-        alt2="Moto eléctrica 2"
+        imagen1="/media/silence-s01-ficha-tecnica-precio-1.webp"
+        imagen2="/media/velca-bora-2025-ficha-tecnica-precio-1.webp"
+        alt1="Silence S01, moto eléctrica"
+        alt2="Velca Bora, moto eléctrica"
         titulo="Comparador de motos eléctricas"
         subtitulo="Compara precios, autonomía, potencia y carnet necesario de todas las motos eléctricas 2024-2026. Toca una tarjeta para girarla y ver todos los datos."
         busqueda={q}

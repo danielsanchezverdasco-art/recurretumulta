@@ -135,7 +135,7 @@ export default function MasVendidos() {
     description:
       "Ranking mensual de los coches y motos más vendidos en España con cifras reales de matriculaciones ANFAC y ANESDOR. Top por mes y acumulado 2026.",
     canonical: RUTA,
-    image: `${DOMAIN}/media/rankings.webp`,
+    image: `${DOMAIN}/media/audi-a3-sedan-2025-hero.webp`,
     schema,
   });
 
@@ -151,7 +151,7 @@ export default function MasVendidos() {
 
         <div className="mt-4">
           <PageHero
-            image="/media/rankings.webp"
+            image="/media/audi-a3-sedan-2025-hero.webp"
             imageAlt="Coches más vendidos en España en 2026"
             badge="🏆 Más vendidos · Comparadores"
             title="Los más vendidos en España"

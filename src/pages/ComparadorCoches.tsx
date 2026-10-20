@@ -518,10 +518,10 @@ export default function ComparadorCochesPage() {
       <SharedNavbar />
 
       <HeroVS
-        imagen1="/media/comparador/hero-car-1.jpg"
-        imagen2="/media/comparador/hero-car-2.jpg"
+        imagen1="/media/byd-dolphin-surf-2027-hero.webp"
+        imagen2="/media/dacia-bigster-2025-precio-ficha-tecnica-hero.webp"
         alt1="Coche eléctrico en comparativa"
-        alt2="Coche híbrido en comparativa"
+        alt2="SUV en comparativa"
         titulo="Comparador de coches eléctricos e híbridos"
         subtitulo="Compara precios, autonomía, potencia y ficha técnica de todos los modelos 2024-2026"
         busqueda={q}

@@ -59,7 +59,10 @@
     "/tal-dia-como-hoy-motor",
     "/newsletter",
     "/juego-monos",
-    "/juego-monos/bases"
+    "/juego-monos/bases",
+    "/autocaravanas",
+    "/campers",
+    "/radares"
   ],
   "provinceSlugs": [
     "madrid",
@@ -166,6 +169,10 @@
     {
       "file": "scripts/campers-slugs.txt",
       "prefix": "/coches/"
+    },
+    {
+      "file": "scripts/radares-slugs.txt",
+      "prefix": "/radares/"
     }
   ],
   "sitemapExclude": [

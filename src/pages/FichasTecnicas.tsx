@@ -476,7 +476,7 @@ export default function FichasTecnicasPage() {
       {/* Hero animado estilo guías: foto HD + degradado + entrada progresiva */}
       <div className="relative overflow-hidden">
         <DriveInImage
-          src="/media/dacia-bigster-jaecoo-5-duelo-cuerpo.webp"
+          src="/media/aion-v-vs-deepal-s05-cual-comprar-hero.webp"
           alt="Dos SUV modernos enfrentados, comparativa de fichas técnicas"
           eager={true}
           className="absolute inset-0"

@@ -4,7 +4,6 @@ import { useEffect, useMemo, useState } from "react";
 import { Link } from "react-router-dom";
 import { useSeo } from "@/hooks/use-seo.ts";
 import MARCAS from "@/lib/hub-marcas.generated.json";
-import CONTEOS from "@/lib/hub-conteos.generated.json";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 
@@ -40,7 +39,7 @@ export default function HubFichas({ categoria }: { categoria: Categoria }) {
         <nav aria-label="Migas de pan" className="text-xs text-gray-500"><Link to="/">Inicio</Link> / <span>{meta.nombre}</span></nav>
         <h1 className="text-3xl font-black text-gray-900">{meta.h1}</h1>
         <p className="text-sm text-gray-600 max-w-2xl">{meta.description}</p>
-        {lista && <p className="text-xs text-gray-500">{(CONTEOS as Record<string, number>)[categoria] ?? lista.length} fichas · {grupos.length} marcas</p>}
+        {lista && <p className="text-xs text-gray-500">{lista.length} fichas · {grupos.length} marcas</p>}
         {(MARCAS as unknown as Record<string, [string, string][]>)[categoria]?.length > 0 && (
           <section className="space-y-2"><h2 className="text-lg font-black text-gray-900">Marcas</h2>
             <ul className="flex flex-wrap gap-1.5">{(MARCAS as unknown as Record<string, [string, string][]>)[categoria].map(([s, n]) => <li key={s}><Link to={`/${categoria}/marca/${s}/`} className="block text-xs rounded-full border border-gray-200 bg-white px-2.5 py-1 hover:border-red-400">{n}</Link></li>)}</ul>
