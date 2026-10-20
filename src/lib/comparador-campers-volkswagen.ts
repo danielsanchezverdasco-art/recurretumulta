@@ -152,8 +152,8 @@ export const CAMPERS_VOLKSWAGEN: CocheComparador[] = [
     imagenOficial: "/media/volkswagen-grand-california-680-2026-precio-ficha-tecnica.webp",
     imagenInteriorOficial:
       "/media/volkswagen-grand-california-680-2026-precio-ficha-tecnica-interior.webp",
-    videoId: null,
-    videoCanal: null,
+    videoId: "NFtqsUpMhjs",
+    videoCanal: "The Caravan and Motorhome Club",
     largoMm: 6800,
     anchoMm: 2040,
     altoMm: 2840,
