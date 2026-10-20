@@ -6904,3 +6904,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/piaggio-liberty-125-2026-ficha-tecnica-precio-hunt1.webp | https://www.motocentrumhk.cz/wp-content/uploads/2025/12/piaggio_liberty_125_bianco-luna_3-4-ant-dx-1-1920x1371.jpg | Piaggio (foto oficial de prensa, EXIF Phase One) vía Motocentrum HK | desconocida |
 | /media/piaggio-liberty-125-2026-ficha-tecnica-precio-hunt2.webp | https://www.motocentrumhk.cz/wp-content/uploads/2025/12/piaggio_liberty_125_bianco-luna_lat-dx-2-900x0-c-default.jpg | Piaggio (foto oficial de prensa, EXIF Phase One) vía Motocentrum HK | desconocida |
 | /media/piaggio-liberty-125-2026-ficha-tecnica-precio-hunt3.webp | https://www.motocentrumhk.cz/wp-content/uploads/2025/12/piaggio_liberty-125_close-up_900x675_display_1.jpg-610x410-c-default.jpg | Piaggio (foto oficial) vía Motocentrum HK | desconocida |
+| /media/bmw-m340i-xdrive-2026-precio-ficha-tecnica-hunt1.webp | https://www.autocar.jp/wp-content/uploads/2025/10/BMW-M340i-xDRIVE-2025_251015_1.jpg | Autocar Japan | desconocida |
+| /media/bmw-m340i-xdrive-2026-precio-ficha-tecnica-hunt2.webp | https://www.autocar.jp/wp-content/uploads/2025/10/BMW-M340i-xDRIVE-2025_251015_3.jpg | Autocar Japan | desconocida |
+| /media/bmw-m340i-xdrive-2026-precio-ficha-tecnica-hunt3.webp | https://automacha.com/wp-content/uploads/2025/04/15.-The-New-BMW-M340i-xDrive-Edition-50-Jahre.jpg | Automacha / BMW Malaysia | desconocida |
+| /media/mercedes-benz-eqe-suv-500-precio-ficha-tecnica-hunt1.webp | https://www.evspecifications.com/images/news/19c6773/additional_1.jpg | Mercedes-Benz AG | desconocida |
+| /media/mercedes-benz-eqe-suv-500-precio-ficha-tecnica-hunt2.webp | https://www.evspecifications.com/images/news/19c6773/additional_7.jpg | Mercedes-Benz AG | desconocida |
+| /media/mercedes-benz-eqe-suv-500-precio-ficha-tecnica-hunt3.webp | https://www.evspecifications.com/images/news/19c6773/additional_3.jpg | Mercedes-Benz AG | desconocida |
+| /media/yamaha-wr250f-2025-ficha-tecnica-precio-hunt1.webp | https://yamahamotorsports.com/media/images_products/2025-wr250f-25/1200px/11-2025-WR250FS1-DPBSE-US-11-YY-11.JPG.webp | Yamaha Motor USA | desconocida |
+| /media/yamaha-wr250f-2025-ficha-tecnica-precio-hunt2.webp | https://i.goopics.net/4540hr.jpg | Yamaha Motor Australia / Rando-Moto | desconocida |
+| /media/yamaha-wr250f-2025-ficha-tecnica-precio-hunt3.webp | https://transmoto.com.au/wp-content/uploads/2025/01/20241211_YMA_25_WR250F-IKAP8102-1024x683.jpg | Transmoto / Yamaha Motor Australia | desconocida |
+| /media/kymco-people-s-125-2026-ficha-tecnica-precio-hunt1.webp | https://statics.cedscdn.it/photos/MED_HIGH/82/83/6078283_1002_kymco_people_s_125i_abs_e5_studio_009_1024x682.jpg | Kymco (vía CEDS) | desconocida |
+| /media/kymco-people-s-125-2026-ficha-tecnica-precio-hunt2.webp | https://i.blogs.es/0fcc1c/kymco-people-s-125-2021-004/1366_2000.jpg | Kymco / Blog motor Webedia | desconocida |
+| /media/kymco-people-s-125-2026-ficha-tecnica-precio-hunt3.webp | https://listing-images.motoscout24.ch/109/12339109/1346701930.jpg?w=1920&q=90 | MotoScout24 | desconocida |
