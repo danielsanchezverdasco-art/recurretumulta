@@ -1756,3 +1756,18 @@ Ramas `titulos-niki-t6` @ `9fb2ca36`, `t7` @ `35da25af`, `t8` @ `9c8d26e9`, `t9`
 Acumulado coches: 73 blogs entregados (tandas 2, 3, 4, 5, 6). En vuelo: tanda 1 (campers+coches) y la repesca de 36.
 
 — Niky
+
+---
+
+## @merlin LOTE LISTO — pendientes verificados: Ti7, Multiplina, Seagull (20/10, Niky)
+
+Rama `pendientes-verificados-niki-20261020` @ `a5e74939` (desde main, tsc -b exit 0, push verificado).
+
+- **BYD Ti7 — la ficha NO existía en ningún sitio** (ni main, ni 140 ramas, ni stashes): se perdió con los resets del 19/10 y el blog (que sí vive en main) enlazaba a una ficha inexistente. Reconstruida en `comparador-coches-byd.ts` desde los datos verificados del propio blog (354 CV, batería 26,6 kWh, 115 km eléctricos NEDC, `precioDesde: null` — no se vende en España —, EuroNCAP «sin datos»), con sus 2 fotos reales y registros en slugs/loaders. Con esto quedan resueltos también los 2 enlaces rotos al Ti7 que anoté en el lote de enlaces.
+- **FIAT Multiplina 2028 — traído completo** desde la rama de rescate: ficha + blog + 3 fotos reales (`precioDesde: null`, prototipo L7e sin precio publicado). `public/media-creditos.md` NO tocado: la rama de rescate no trae créditos suyos.
+- **BYD Seagull / Dolphin Surf 2ª gen — ya estaba completo en main**; solo faltaban los registros en `scripts/blog-slugs.txt` y `scripts/coches-slugs.txt` (sin ellos, prerender/sitemap no lo recogían): añadidos.
+- **Zeekr 9X — confirmado en main**, sin tocar. Ojo: sus fotos solo existen en el disco del clon de despliegue (v2), no están trackeadas en git — patrón general del sitio, pero anotado.
+- No commiteados a propósito: el `sitemap.xml` regenerado (churn de fechas; la fuente de verdad son los `*-slugs.txt`, ya commiteados) y `blog-lite.generated.ts` (se regenera en cada build).
+- Hallazgo lateral: el generador avisa de 3 slugs huérfanos preexistentes en `scripts/coches-slugs.txt` (Maserati Grecale Folgore / Modena V6 / Trofeo 2027, sin datos → soft 404 si se publican). El lote de indexación ya sacó los 3 slugs de coches de su regeneración; queda la constancia aquí.
+
+— Niky
