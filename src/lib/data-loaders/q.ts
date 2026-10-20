@@ -26,6 +26,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "qjmotor-srt-800-sx-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m23.ts"),
     "qjmotor-srt-800sx-2024-precio": () => import("../blog-posts-motos-exp-m28.ts"),
     "qjmotor-srt-900-sx-2026-ficha-tecnica-precio": () => import("../blog-posts-lote7.ts"),
+    "qjmotor-srt-900sx-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m40.ts"),
     "qjmotor-srv-300-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m3.ts"),
     "qjmotor-srv-600v-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m9.ts"),
     "qjmotor-svt-650-2024-precio": () => import("../blog-posts-motos-exp-m28.ts"),

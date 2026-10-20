@@ -39,6 +39,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "yamaha-rayzr-125-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m3.ts"),
     "yamaha-tenere-700-2024-analisis-opinion": () => import("../blog-posts-motos-rescate-m1.ts"),
     "yamaha-tenere-700-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m7.ts"),
+    "yamaha-tenere-700-rally-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m40.ts"),
     "yamaha-tenere-700-rally-2026-precio-ficha": () => import("../blog-posts-lote15.ts"),
     "yamaha-tenere-700-world-raid-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m7.ts"),
     "yamaha-tmax-560-2024-analisis-opinion": () => import("../blog-posts-motos-rescate-m2.ts"),
