@@ -14,7 +14,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     version: "SP 2025",
     cilindradaCc: 1000,
     categoria: "Naked",
-    precioDesde: 13450,
+    precioDesde: 13450, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 115.4,
     potenciaCv: 157,
     autonomiaKm: null,
@@ -27,7 +27,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor de 157 CV derivado de la CBR1000RR: empuje bestial en cualquier marcha",
       "Horquilla Öhlins TTX36 y pinzas Brembo Stylema de serie: frenada y aplomo de superbike",
@@ -321,7 +321,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 125,
     categoria: "Scooter",
-    precioDesde: 5500,
+    precioDesde: 5500, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 11,
     potenciaCv: 15,
     autonomiaKm: null,
@@ -334,7 +334,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "15 CV al límite legal del A1: de las 125 más rápidas (108 km/h)",
       "Parabrisas eléctrico regulable: lujo de maxiscooter",
@@ -661,7 +661,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     version: "2024",
     cilindradaCc: 471,
     categoria: "Scrambler",
-    precioDesde: 6790,
+    precioDesde: 6750, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 33.1,
     potenciaCv: 45,
     autonomiaKm: null,
@@ -674,7 +674,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Estética scrambler auténtica: la más 'retro' de la familia 500",
       "Manillar alto y postura erguida: cómoda en ciudad",
@@ -1166,7 +1166,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     version: "2024",
     cilindradaCc: 890,
     categoria: "Deportiva",
-    precioDesde: 14099,
+    precioDesde: 14099, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 87.5,
     potenciaCv: 119,
     autonomiaKm: null,
@@ -1179,7 +1179,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Estética GP de los 80 con carenado completo: la más bonita de su clase",
       "Tricilíndrico CP3 de 119 CV con electrónica completa (IMU de 6 ejes)",
@@ -1986,7 +1986,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     version: "2024",
     cilindradaCc: 451,
     categoria: "Deportiva",
-    precioDesde: 13250,
+    precioDesde: 13250, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 50.7,
     potenciaCv: 69,
     autonomiaKm: null,
@@ -1999,7 +1999,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carnet: "A2 (limitada)",
     carga: null,
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Primera moto híbrida del mundo: 451 cc + motor eléctrico",
       "Modo EV 100 % eléctrico para ciudad (hasta 65 km/h)",
@@ -2060,7 +2060,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     version: "2024",
     cilindradaCc: 451,
     categoria: "Naked",
-    precioDesde: 13250,
+    precioDesde: 13250, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 51.5,
     potenciaCv: 70,
     autonomiaKm: null,
@@ -2073,7 +2073,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carnet: "A2 (limitada)",
     carga: null,
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "potenciaCv"],
+    aprox: ["potenciaCv"],
     pros: [
       "La naked híbrida: misma tecnología que la Ninja 7 sin carenado",
       "E-Boost de hasta 70 CV durante 5 segundos",
@@ -2662,7 +2662,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 1099,
     categoria: "Deportiva",
-    precioDesde: 16699,
+    precioDesde: 16699, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 100,
     potenciaCv: 136,
     autonomiaKm: null,
@@ -2675,7 +2675,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "potenciaKw", "pesoKg"],
+    aprox: ["potenciaKw", "pesoKg"],
     pros: [
       "Sport-turismo definitiva: 136 CV con comodidad de turismo",
       "Perfecta para viajar rápido a dúo con maletas",
@@ -2872,7 +2872,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     version: "Tech 2025",
     cilindradaCc: 776,
     categoria: "Trail",
-    precioDesde: 9499,
+    precioDesde: 11239, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 61,
     potenciaCv: 83,
     autonomiaKm: null,
@@ -2886,7 +2886,6 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: [
-      "precioDesde",
     ],
     pros: [
       "Consumo real de 5,0 L/100 km de media en prueba (4,4 L/100 km homologado) (fuente: SoyMotero)",
@@ -2959,7 +2958,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     version: "2024",
     cilindradaCc: 645,
     categoria: "Trail",
-    precioDesde: 8575,
+    precioDesde: 9475, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 50,
     potenciaCv: 68,
     autonomiaKm: null,
@@ -2972,7 +2971,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carnet: "A2 (limitada)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "El V-twin de 645 cc más fiable del segmento: leyenda viva",
       "Depósito de 20 L y consumo de 4,1 l/100 km: autonomía enorme",
@@ -3032,7 +3031,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     version: "Tech 2025",
     cilindradaCc: 1050,
     categoria: "Trail",
-    precioDesde: 16649,
+    precioDesde: 16649, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 78.7,
     potenciaCv: 107,
     autonomiaKm: null,
@@ -3045,7 +3044,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "V-twin de 1037 cc con 107 CV: par infinito para viajar",
       "Versión Tech con IMU, ABS en curva y control de crucero",
@@ -3251,7 +3250,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     version: "2024",
     cilindradaCc: 400,
     categoria: "Scooter",
-    precioDesde: 8875,
+    precioDesde: 8875, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 21.3,
     potenciaCv: 29,
     autonomiaKm: null,
@@ -3264,7 +3263,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "El maxiscooter medio de referencia: comodidad de turismo",
       "29 CV suficientes para autopista a dúo",

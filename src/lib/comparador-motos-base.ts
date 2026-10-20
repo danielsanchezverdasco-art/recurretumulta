@@ -5322,7 +5322,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     version: "Norden 901 2024",
     cilindradaCc: 901,
     categoria: "Trail",
-    precioDesde: 14399,
+    precioDesde: 14949, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 77,
     potenciaCv: 105,
     autonomiaKm: null,
@@ -5335,7 +5335,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["ceroCincuenta", "pesoKg", "precioDesde"],
+    aprox: ["ceroCincuenta", "pesoKg"],
     pros: [
       "Motor bicilíndrico de 889 cc con 105 CV y 100 Nm, el probado LC8c compartido con KTM",
       "Suspensiones WP APEX ajustables con 220 mm delante y 215 mm detrás",
@@ -6531,7 +6531,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     version: "S 1000 RR 2024",
     cilindradaCc: 1000,
     categoria: "Deportiva",
-    precioDesde: 23070,
+    precioDesde: 23070, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 154,
     potenciaCv: 210,
     autonomiaKm: null,
@@ -6544,7 +6544,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax", "pesoKg", "precioDesde"],
+    aprox: ["velocidadMax", "pesoKg"],
     pros: [
       "Tetracilíndrico en línea de 999 cc con distribución variable ShiftCam y 210 CV",
       "Electrónica con modos Race Pro, control de tracción dinámico y anti-wheelie ajustables",
@@ -6623,7 +6623,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     version: "RSV4 Factory 2024",
     cilindradaCc: 1099,
     categoria: "Deportiva",
-    precioDesde: 27140,
+    precioDesde: 27140, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 159.6,
     potenciaCv: 217,
     autonomiaKm: null,
@@ -6636,7 +6636,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor V4 de 1.099 cc y 217 CV que supera la Euro5 sin perder potencia (159,6 kW a 13.000 rpm)",
       "Suspensiones semiactivas Öhlins Smart EC 2.0 de serie (horquilla NIX 43 mm + amortiguador TTX)",
@@ -6646,7 +6646,7 @@ export const MOTOS_BASE: MotoComparador[] = [
       "Par motor mejorado a 125 Nm gracias al aumento de cilindrada (+21 cc) en la generación 2021+",
     ],
     contras: [
-      "Precio elevado: en Francia se vendía por 26.499 € (no hay PVP oficial verificado en España)",
+      "Precio elevado: 27.140 € de tarifa oficial en España, en la liga de las superbikes más exclusivas",
       "Consumo realista alto: 6,9 l/100 km según datos de prensa",
       "Autonomía estimada de solo 259 km con el depósito de 18 litros",
       "Emisiones de CO2 de 160 g/km, de las más altas de su segmento",
@@ -6736,7 +6736,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     version: "F3 800 2024",
     cilindradaCc: 800,
     categoria: "Deportiva",
-    precioDesde: 26926,
+    precioDesde: null, // sin tarifa oficial publicada (verificado 20/10/2026)
     potenciaKw: 108,
     potenciaCv: 147,
     autonomiaKm: null,
@@ -6749,7 +6749,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg", "precioDesde"],
+    aprox: ["pesoKg"],
     pros: [
       "Tricilíndrico de 798 cc y 147 CV con solo 173 kg en seco: una de las mejores relaciones peso/potencia del segmento (1,18 kg/CV)",
       "La versión F3 RR 2024 incluye de serie un kit de carreras con escape Akrapovic de titanio (+8 CV, -8 kg: 155 CV para 165 kg)",
@@ -6759,7 +6759,7 @@ export const MOTOS_BASE: MotoComparador[] = [
       "Distribución con válvulas de titanio, inyectores más potentes y radiador de aceite un 5 % más eficiente",
     ],
     contras: [
-      "Precio oficial en España no publicado por la marca (la F3 RR ronda los 21.900 € en listados de concesionarios)",
+      "Precio oficial en España no publicado por la marca para la F3 800 (la actual F3 RR parte de 23.599 € en la web oficial de MV Agusta)",
       "147 CV frente a los 200+ CV de las superbikes de 1.000 cc, con precio similar",
       "Autonomía estimada de solo 270 km con consumo de 6,1 l/100 km",
       "Emisiones de CO2 de 139 g/km",
@@ -7060,7 +7060,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     version: "Downtown 350 GT 2024",
     cilindradaCc: 350,
     categoria: "Scooter",
-    precioDesde: null,
+    precioDesde: null, // sin tarifa oficial publicada (verificado 20/10/2026)
     potenciaKw: 21,
     potenciaCv: 28.5,
     autonomiaKm: null,
@@ -7073,7 +7073,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["ceroCincuenta", "precioDesde"],
+    aprox: ["ceroCincuenta"],
     pros: [
       "Motor monocilíndrico de 321 cc con 28,5 CV, apto para carnet A2",
       "Peso en orden de marcha de 185 kg, ligero para un maxiscooter",
@@ -7247,7 +7247,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     version: "RM1 2024",
     cilindradaCc: null,
     categoria: "Retro",
-    precioDesde: null,
+    precioDesde: 5930, // 4.995 GBP (tarifa oficial Reino Unido) ÷ 0,84205 (BCE 19/10/2026), redondeado a la decena
     potenciaKw: 4.4,
     potenciaCv: null,
     autonomiaKm: 129,
@@ -7261,6 +7261,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carga: "Baterías extraíbles (2 x 2,73 kWh); carga en enchufe doméstico, unas 4 h por batería",
     etiquetaDgt: "Cero",
     aprox: [
+      "precioDesde",
     ],
     pros: [
       "Baterías extraíbles de 10 kg que se cargan en cualquier enchufe doméstico, sin depender de la red pública",
@@ -7275,6 +7276,7 @@ export const MOTOS_BASE: MotoComparador[] = [
       "El estado de la batería se muestra en porcentaje y no en kilómetros estimados, más honesto porque la autonomía varía mucho entre ciudad y carretera (Move Electric).",
     ],
     contras: [
+      "Precio aproximado: Maeving no vende oficialmente en España; la cifra es la conversión de su tarifa oficial británica (4.995 GBP)",
       "Velocidad máxima de 72 km/h (45 mph): solo apta para ciudad",
       "Sin ABS: usa frenos combinados convencionales (disco delantero de 240 mm y trasero de 180 mm)",
       "Potencia pico de solo 4,4 kW (3,0 kW continuos)",
@@ -7381,7 +7383,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     version: "TC Max 2024",
     cilindradaCc: null,
     categoria: "Retro",
-    precioDesde: 4850,
+    precioDesde: 4850, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 3.9,
     potenciaCv: 5,
     autonomiaKm: 92,
@@ -7394,7 +7396,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A1",
     carga: "Enchufe doméstico: carga completa en 4,5 h",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "ceroCincuenta"],
+    aprox: ["ceroCincuenta"],
     pros: ["Estética café racer clásica con tecnología 100% eléctrica", "Batería extraíble de 72V/45Ah: se carga en un enchufe doméstico", "Hasta 95 km/h de velocidad máxima: apta para vías rápidas urbanas", "92 km de autonomía con una sola batería", "Transmisión por correa: silenciosa y sin mantenimiento", "Homologación L3e-A1: se conduce con el carnet A1"],
     contras: ["Solo 5,1 kW de potencia máxima: prestaciones justas", "92 km de autonomía: solo sirve para ciudad", "Carga lenta: 4,5 horas para una carga completa", "Batería de solo 3,2 kWh de capacidad", "Potencia de carga de apenas 720 W, sin carga rápida"],
     curiosidades: ["Es la evolución de la Super Soco TC, marca absorbida por Vmoto", "Lleva motor central con transmisión por correa, no motor en el buje como la TC", "En 2026 recibió la edición Night Edition con asiento marrón acolchado", "Pesa solo 79 kg sin la batería instalada"],
@@ -7998,7 +8000,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     version: "Chief 2024",
     cilindradaCc: 1890,
     categoria: "Custom",
-    precioDesde: 19990,
+    precioDesde: null, // sin tarifa oficial publicada (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -8011,9 +8013,9 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax", "pesoKg", "precioDesde"],
+    aprox: ["velocidadMax", "pesoKg"],
     pros: ["V-Twin Thunderstroke 111 de 1.811 cc con 146 Nm de par", "Tres modos de conducción seleccionables", "Encendido sin llave y control de crucero de serie", "Desactivación del cilindro trasero para reducir calor y consumo", "Iluminación full LED", "Asiento bajo a 662 mm, accesible para todos"],
-    contras: ["Indian no declara oficialmente la potencia del motor", "El ABS es opcional en la versión base", "Instrumentación analógica básica, sin pantalla táctil", "Red de concesionarios y servicio limitada en España", "Depósito de 15,1 litros, justo para un 1.811 cc"],
+    contras: ["Precio oficial en España no publicado de forma verificable para la Chief 2024: consultar concesionario Indian", "Indian no declara oficialmente la potencia del motor", "El ABS es opcional en la versión base", "Instrumentación analógica básica, sin pantalla táctil", "Red de concesionarios y servicio limitada en España", "Depósito de 15,1 litros, justo para un 1.811 cc"],
     curiosidades: ["El nombre Chief debutó en 1921 y celebró su centenario en 2022", "Monta el Thunderstroke 111 refrigerado por aire, un V-Twin clásico americano", "Desconecta el cilindro trasero al ralentí para no achicharrar al piloto", "De serie lleva modos de conducción, crucero y arranque sin llave"],
     imagen: "/media/motos/indian-chief-2024-ficha-tecnica-precio.webp",
     galeria: [],

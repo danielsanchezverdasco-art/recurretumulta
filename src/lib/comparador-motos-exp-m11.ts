@@ -142,7 +142,7 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     version: "700CL-X Heritage 2025",
     cilindradaCc: 693,
     categoria: "Naked",
-    precioDesde: null,
+    precioDesde: 7195, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 54.3,
     potenciaCv: 73.8,
     autonomiaKm: null,
@@ -164,7 +164,7 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
       "Precio muy inferior al de las naked retro europeas",
     ],
     contras: [
-      "Precio oficial actual no publicado: consultar concesionario",
+      "7.195 € de tarifa oficial en España: no es la naked retro más barata del segmento pese a su origen chino",
       "73,8 CV se quedan cortos frente a las naked de 90+ CV del segmento",
       "Protección aerodinámica nula en autopista",
       "La gama CL-X envejece frente a las nuevas 800NK",
@@ -646,7 +646,7 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     version: "Fort 350 EVO 2025",
     cilindradaCc: 330,
     categoria: "Scooter",
-    precioDesde: null,
+    precioDesde: 4999, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 22.1,
     potenciaCv: 30,
     autonomiaKm: null,
@@ -668,7 +668,7 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
       "6 años de garantía oficial",
     ],
     contras: [
-      "Precio oficial no publicado: consultar concesionario",
+      "4.999 € de tarifa oficial: correcto, aunque los scooter adventure rivales aprietan en precio",
       "187 kg en orden de marcha: pesado en ciudad",
       "30 CV se quedan cortos frente a los maxi-scooter de 400+",
       "La estética adventure penaliza algo la agilidad urbana",
@@ -1217,7 +1217,7 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     version: "Tango 125i Scrambler 2025",
     cilindradaCc: 125,
     categoria: "Scrambler",
-    precioDesde: null,
+    precioDesde: 3690, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -1239,7 +1239,7 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
       "Perfecta para ciudad y pistas suaves de fin de semana",
     ],
     contras: [
-      "Precio oficial no publicado",
+      "3.690 € de tarifa oficial: más cara que la Tango 125i estándar (3.569,50 €) por su estética scrambler",
       "Prestaciones modestas, como toda 125 clásica",
       "El escape alto limita las opciones de equipaje lateral",
       "Sin datos oficiales de peso y potencia publicados",

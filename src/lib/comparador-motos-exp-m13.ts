@@ -15,7 +15,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     version: "300 SEF 2025",
     cilindradaCc: 304,
     categoria: "Enduro",
-    precioDesde: null,
+    precioDesde: null, // sin tarifa oficial publicada (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -78,7 +78,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     version: "500 SEF 2025",
     cilindradaCc: 478,
     categoria: "Enduro",
-    precioDesde: null,
+    precioDesde: null, // sin tarifa oficial publicada (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -208,7 +208,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     version: "RR 480 2025",
     cilindradaCc: 478,
     categoria: "Enduro",
-    precioDesde: null,
+    precioDesde: null, // sin tarifa oficial publicada (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -271,7 +271,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     version: "Xtrainer 300 2025",
     cilindradaCc: 292,
     categoria: "Enduro",
-    precioDesde: null,
+    precioDesde: 7690, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -293,7 +293,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
       "Arranque eléctrico y mapas de potencia de serie",
     ],
     contras: [
-      "Precio oficial 2025 no publicado en España",
+      "7.690 € de tarifa oficial: precio contenido para una enduro 2T, aunque con menos equipamiento que las RR",
       "Suspensiones orientadas al confort, no a la competición pura",
       "El 2T consume y contamina más que un 4T equivalente",
       "Depósito de 8,8 L: justo para rutas largas",
