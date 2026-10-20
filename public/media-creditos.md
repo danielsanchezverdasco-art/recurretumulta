@@ -7642,3 +7642,12 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/nio-ec7-2024-precio-ficha-tecnica-hunt1.webp | https://upload.wikimedia.org/wikipedia/commons/b/b1/NIO_EC7_001.jpg | JustAnotherCarDesigner / Wikimedia Commons | CC BY-SA 4.0 |
 | /media/nio-ec7-2024-precio-ficha-tecnica-hunt2.webp | https://upload.wikimedia.org/wikipedia/commons/a/a0/%28CHN-Hubei%29_Showcar_Nio_EC7_No-plate_2024-12-04.jpg | S5A-0043 / Wikimedia Commons | CC BY 4.0 |
 | /media/nio-ec7-2024-precio-ficha-tecnica-hunt3.webp | https://upload.wikimedia.org/wikipedia/commons/2/2c/NIO_EC7_002.jpg | JustAnotherCarDesigner / Wikimedia Commons | CC BY-SA 4.0 |
+| /media/bmw-s-1000-xr-2024-ficha-tecnica-precio-hunt1.webp | https://motofomo.com/wp-content/uploads/2023/10/2024-BMW-S-1000-XR-Static-blue-rhs-with-luggage-1024x733.jpg | MotoFomo (foto de prensa BMW Motorrad) | desconocida |
+| /media/bmw-s-1000-xr-2024-ficha-tecnica-precio-hunt2.webp | https://ultimatemotorcycling.com/wp-content/uploads/2023/11/2024-bmw-s-1000-xr-first-look-20-1536x1024.webp | Ultimate Motorcycling / BMW Motorrad | desconocida |
+| /media/bmw-s-1000-xr-2024-ficha-tecnica-precio-hunt3.webp | https://www.motortravel.it/uploads/2/7/9/1/27911427/my2024-bmw-s1000xr-05_1.jpg | Markus Jahn (EXIF markus-jahn.com) vía MotorTravel | desconocida |
+| /media/indian-challenger-2025-ficha-tecnica-precio-hunt1.webp | https://assets.roadrunner.travel/img/2025/05/Challenger.jpg | RoadRUNNER Travel / Indian Motorcycle | desconocida |
+| /media/indian-challenger-2025-ficha-tecnica-precio-hunt2.webp | https://www.jalopnik.com/img/uploads/embed/it-V0MZ8F-1743339316.jpg | Jalopnik / Indian Motorcycle | desconocida |
+| /media/indian-challenger-2025-ficha-tecnica-precio-hunt3.webp | https://www.totalmotorcycle.com/wp-content/uploads/2025/01/2025-Indian-Challenger-Limited3-1200x675.jpg | Total Motorcycle / Indian Motorcycle | desconocida |
+| /media/mini-cooper-s-2024-precio-ficha-tecnica-hunt1.webp | https://mediapool.bmwgroup.com/cache/P9/202403/P90542430/P90542430-mini-cooper-s-04-2024-2250px.jpg | BMW Group PressClub / MINI | desconocida |
+| /media/mini-cooper-s-2024-precio-ficha-tecnica-hunt2.webp | https://mediapool.bmwgroup.com/cache/P9/202403/P90542416/P90542416-mini-cooper-s-04-2024-1000px.jpg | BMW Group PressClub / MINI | desconocida |
+| /media/mini-cooper-s-2024-precio-ficha-tecnica-hunt3.webp | https://mediapool.bmwgroup.com/cache/P9/202403/P90542445/P90542445-mini-cooper-s-04-2024-2250px.jpg | BMW Group PressClub / MINI | desconocida |
