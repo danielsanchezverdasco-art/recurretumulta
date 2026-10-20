@@ -1514,6 +1514,43 @@ Sin certificado DGT verificado. A **~50 km/h** no es un VMP legal en España: so
 
 <img src=/media/patinetes/evercross-ev10-max-3.webp alt=Evercross EV10 Max en una pista todoterreno>
 
+## Evercross: la marca de Amazon que vende potencia barata
+
+Evercross es una marca de movilidad eléctrica de venta directa, con tienda y gama europeas consultables en su <a href=https://evercross.eu>web oficial europea</a>, donde los modelos EV10 de calle se limitan a 25 km/h para el mercado comunitario. El EV10 Max que analiza este post es otra cosa: la versión de **1.200 W** pensada para el mercado estadounidense, sin precio oficial europeo ni distribución clara en nuestro continente. Esa dualidad explica el post entero: sobre el papel es el Evercross más potente, pero la propia marca publica poquísimos datos oficiales de esta variante, y eso en un vehículo eléctrico es una señal de prudencia, no un detalle menor.
+
+## La técnica: 1.200 W sin batería publicada
+
+| Dato | Evercross EV10 Max |
+|---|---|
+| Motor | 1.200 W |
+| Autonomía declarada | 64 km (40 millas) |
+| Autonomía real estimada | Unos 43 km |
+| Velocidad máxima | Unos 50 km/h |
+| Ruedas | 10 pulgadas neumáticas |
+| Frenos | Doble disco |
+| Batería | Sin dato oficial publicado |
+| Certificado DGT | Sin verificar |
+
+La lectura técnica es incómoda: sin capacidad de batería publicada no se puede contrastar la autonomía declarada de **64 km**, y la estimación prudente del análisis original, unos **43 km reales**, es la cifra con la que hay que trabajar. Lo que sí está bien resuelto es el equipo de seguridad activa para semejante potencia: **doble freno de disco** y neumáticos de 10 pulgadas, el mínimo exigible cuando un patinete supera los 40 km/h. Con 1.200 W, el consumo depende del puño mucho más que en un VMP urbano, y las subidas dejan de ser un problema que sí tienen sus hermanos pequeños.
+
+## Uso real: un patinete de finca y circuito, no de ciudad española
+
+Hay que decirlo sin rodeos: a unos 50 km/h, este EV10 Max no puede circular legalmente por la vía pública española, así que su uso real aquí queda reducido a espacios privados. Para trayectos urbanos legales, la propia casa ofrece alternativas limitadas como el <a href=/patinetes/evercross-h7/>Evercross H7</a>, con 45 km de autonomía declarada y 25 kg según su ficha. Quien lo importe para uso privado debe asumir además que el mantenimiento será de especialista, como ya advierte el análisis, porque no hay una red Evercross de taller en España comparable a la de las marcas asentadas. Compáralo con el resto en el <a href=/comparador-patinetes/>comparador de patinetes</a> y ameniza la lectura con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+## Mantenimiento y costes: lo que no publica la marca, no lo inventamos
+
+Evercross no publica tarifas de mantenimiento ni datos de batería de esta variante que podamos citar, y no los inventamos. Lo verificable en un patinete de doble disco y ruedas neumáticas de 10 pulgadas es el gasto ordinario de su clase: pastillas y discos de freno, neumáticos y cámaras, y el cuidado de una batería de la que ni siquiera conocemos la capacidad oficial. Antes de comprar una unidad importada conviene exigir por escrito quién responde de la garantía y de los recambios, porque el análisis original ya señala que solo compensa con garantía local y buen precio.
+
+## Normativa: VMP, 25 km/h y certificación de la DGT
+
+En España un patinete es vehículo de movilidad personal solo si su velocidad máxima por construcción no supera los **25 km/h**, no circula por aceras y cumple la certificación que exige la <a href=https://www.dgt.es>DGT</a>. El EV10 Max, a unos 50 km/h, queda fuera de esa categoría aunque se limite electrónicamente, porque la limitación debe ser de fábrica y el modelo debe contar con certificado. La conclusión normativa del post original se mantiene intacta: sin certificado DGT verificado, no es un VMP legal en España.
+
+## Frente al Evercross H7 y al Xiaomi Electric Scooter 4 Pro: veredicto
+
+Sus referencias con ficha en esta casa juegan en otra liga, la legal. El <a href=/patinetes/evercross-h7/>Evercross H7</a> declara 45 km de autonomía y pesa 25 kg según su ficha: menos potencia, pero un producto pensado para calle. El <a href=/patinetes/xiaomi-electric-scooter-4-pro/>Xiaomi Electric Scooter 4 Pro</a> figura con 55 km declarados y solo 17 kg, con el respaldo comercial de Xiaomi en España. El EV10 Max gana a ambos en potencia bruta por un margen enorme y pierde en todo lo demás que importa para circular aquí: legalidad, datos publicados y posventa.
+
+**¿Merece la pena?** Solo como capricho de uso privado con garantía local confirmada y a precio de ganga. **Para quién sí:** para quien busque potencia en recinto privado y asuma la importación. **Para quién no:** para cualquier uso urbano en España: ahí mandan los VMP certificados de 25 km/h.
+
 ## Preguntas frecuentes
 
 ### ¿Qué potencia tiene el Evercross EV10 Max?
@@ -1536,7 +1573,7 @@ Con tan pocos datos oficiales, solo si lo encuentras con garantía local y a bue
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://www.igeekphone.com/zooming-into-the-future-what-to-know-before-buying-an-evercross-electric-scooter/>análisis en iGeekPhone</a>.*`,
+*Fuentes: <a href=https://www.igeekphone.com/zooming-into-the-future-what-to-know-before-buying-an-evercross-electric-scooter/>análisis en iGeekPhone</a>., <a href=https://evercross.eu>Evercross Europa (web oficial)</a>, <a href=https://www.dgt.es>DGT (normativa VMP)</a>*`,
   },
   // ─────────────────────────── MINIMOTORS (3) ───────────────────────────
   {
