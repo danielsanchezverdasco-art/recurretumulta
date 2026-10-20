@@ -1079,6 +1079,43 @@ Con solo 10 unidades, su valor de reventa está blindado: es una pieza de museo 
 | Alerón de carbono específico | Etiqueta C |
 | Valor de colección blindado | Mantenimiento de serie limitadísima |
 
+## Contexto: el punto final de una década de V10
+
+El Huracán ha sido durante una década el modelo central de Lamborghini, y el STJ es su despedida oficial: la marca lo presentó como el último Huracán de producción, con las siglas de Super Trofeo Jota en homenaje a su campeonato monomarca, como recoge la <a href=https://www.lamborghini.com>web oficial de Lamborghini</a> al repasar la gama. Solo se fabricaron **10 unidades** numeradas sobre la base del STO, agotadas desde su presentación. Su sucesor en la gama ya no es un V10 atmosférico puro, y eso convierte al STJ en el cierre de una era mecánica completa para Sant'Agata Bolognese: después de él, ningún Lamborghini de serie volverá a sonar así sin ayuda eléctrica.
+
+## Profundidad técnica: aerodinámica y chasis, no más potencia
+
+La ficha de este artículo lo deja claro: el V10 5.2 atmosférico mantiene **640 CV y 565 Nm** con tracción trasera y un 0-100 en torno a **3,0 s**. La evolución está en otro sitio: un alerón trasero de carbono específico con mayor ángulo y nuevos deflectores delanteros que, según declara la propia marca, aumentan la carga aerodinámica alrededor de un 10 % frente al STO y recortan cerca de un segundo por vuelta en el circuito de manejo de Nardò. Suma amortiguadores regulables de tipo competición y neumáticos específicos: el STJ no es más rápido en línea recta, es más fino en curva.
+
+| Dato | Valor del post |
+|---|---|
+| Motor | V10 5.2 atmosférico |
+| Potencia | 640 CV (565 Nm) |
+| Tracción | Trasera |
+| Unidades | 10 numeradas |
+
+## Uso real: coche de circuito y de colección
+
+Su uso real es doble y ninguno es el diario: jornadas de circuito, donde su aerodinámica y su chasis regulable tienen sentido, y custodia como pieza de colección, porque 10 unidades con el título de «último Huracán» blindan su valor como ya apunta el artículo original. En ciudad es, por enfoque, incómodo y delicado, y su **etiqueta C** —la que corresponde según los criterios de la <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/distintivo-ambiental/>DGT</a>— le cierra los privilegios de las zonas de bajas emisiones.
+
+## Mantenimiento y costes de uso
+
+Lamborghini no publica una tabla pública de mantenimiento para una serie de 10 unidades, y no la vamos a inventar. Lo verificable es el contexto: un V10 atmosférico de altas vueltas con componentes de carbono y frenos de competición se mantiene en la red oficial, y el historial completo documentado por la marca es exactamente lo que sostendrá su cotización en el mercado secundario, donde ya se mueve muy por encima de cualquier precio de tarifa.
+
+## Normativa: etiqueta C e ITV ordinaria
+
+El STJ es un coche homologado para carretera con **etiqueta C**, sujeto a la ITV periódica de cualquier turismo según su antigüedad y conducible con el permiso B. Ninguna norma especial lo protege ni lo persigue: su rareza es comercial, no legal.
+
+## Rivales y veredicto: ¿merece la pena?
+
+Su comparación natural es su propio donante, el <a href=/coches/lamborghini-huracan-sto-2024-precio-ficha-tecnica/>Huracán STO</a>, y su relevo en la gama es el <a href=/coches/lamborghini-temerario-2025-precio-ficha-tecnica/>Temerario</a>, ya en otra filosofía mecánica, con el <a href=/coches/lamborghini-revuelto-2024-precio-ficha-tecnica/>Revuelto</a> como techo de la casa. Compáralos en el <a href=/comparador-coches/>comparador de coches</a> y tómate un respiro con el <a href=/juego-monos/>juego caza-monos</a>.
+
+**Veredicto: ¿merece la pena?** Como coche, el STO ofrece el 95 % de la experiencia por una fracción de su cotización actual. Como objeto histórico —el último V10 atmosférico de Lamborghini, en 10 unidades—, el STJ merece la pena para el coleccionista que lo compró nuevo; en el mercado secundario, su precio ya paga la historia, no las prestaciones.
+
+## Dos libreas y detalles de coche de carreras
+
+La presentación del STJ, según recogió la prensa especializada del lanzamiento, lo ofreció en dos libreas de inspiración deportiva: Blu Eliadi con detalles rojos y blancos, y Grigio Telesto con la misma combinación de acentos. No son colores decorativos: son los códigos visuales de los coches del Super Trofeo trasladados al coche de calle. El paquete se completa con llantas de 20 pulgadas de **tuerca central** —como las de un coche de carreras, de una sola tuerca por rueda— calzadas con neumáticos Bridgestone Potenza Race desarrollados para el modelo, y con la placa numerada que identifica cada una de las 10 unidades. Son detalles que no mejoran la ficha en un banco de potencia, pero que en un coche de despedida pesan tanto como los caballos: son la firma de que Sant'Agata quiso cerrar la saga Huracán con un objeto de colección pensado hasta en la tuerca, y no con una simple edición con adhesivos. Para el comprador de una de estas unidades, esa autenticidad de competición es exactamente lo que está pagando.
+
 ## Preguntas frecuentes
 
 ### ¿Cuántas unidades del Huracán STJ existen?
@@ -1101,7 +1138,7 @@ Unos **3,0 s** (aprox.), como el STO.
 
 Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: cobertura de motor.com.co y lubri-press.*`
+*Fuentes: cobertura de motor.com.co y lubri-press. <a href=https://www.lamborghini.com>Automobili Lamborghini — web oficial</a> y <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/distintivo-ambiental/>DGT — distintivo ambiental</a>*`
   },
   {
     "title": "Huracán Sterrato: precio y ficha del todoterreno",

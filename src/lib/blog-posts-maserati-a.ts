@@ -1091,6 +1091,44 @@ Cuesta 35.000 € más que el coupé. Lleva etiqueta **C** (<a href=https://www.
 | 3,0 s de 0-100 | Maletero de 100 l |
 | El spyder italiano más tecnológico | Techo complejo |
 
+## Contexto: el spyder del renacimiento de Maserati
+
+El MC20 marcó el regreso de Maserati a los superdeportivos de motor central con un proyecto desarrollado desde cero por la propia casa, motor incluido. La marca presenta el modelo en su <a href=https://www.maserati.com/es/es/modelos/mc20>página oficial del MC20</a>, y el Cielo es su variante a cielo abierto: «cielo» en italiano, un nombre que describe exactamente la propuesta. No es un coupé al que se le ha cortado el techo deprisa: es una versión diseñada desde el inicio del programa, con un techo de cristal retráctil que se pliega en segundos y que mantiene casi intactas las cifras del cerrado.
+
+## Profundidad técnica: el truco electrocrómico y los 85 kg
+
+Los datos de la ficha de este artículo lo resumen: V6 3.0 biturbo **Nettuno de 630 CV y 730 Nm**, tracción trasera, 0-100 en **3,0 s**, **320 km/h** de velocidad máxima y **1.560 kg** de peso. La cifra clave del Cielo es otra: solo **85 kg más que el coupé**, un sobrepeso mínimo para un spider, conseguido manteniendo el monocasco de carbono. Y su seña de identidad es el techo de cristal con tecnología electrocrómica PDLC, que pasa de transparente a opaco a voluntad: con el techo puesto puedes elegir entre ver el cielo o tener sombra, algo que ningún spider de lona puede ofrecer.
+
+| Dato | Valor del post |
+|---|---|
+| Motor | V6 Nettuno, 630 CV |
+| Peso | 1.560 kg (+85 kg vs coupé) |
+| 0-100 km/h | 3,0 s |
+| Precio en España | 300.500 € |
+| Maletero | 100 litros |
+
+## Uso real: gran turismo rápido a cielo abierto
+
+Su uso realista es el gran turismo de fin de semana por carreteras de costa y montaña, con escapadas en las que esos **100 litros de maletero** que cita la ficha obligan a viajar ligero, muy ligero. A cambio, ofrece dos coches en uno: cerrado es casi tan rápido y rígido como el coupé, y abierto suma el sonido del Nettuno sin filtros. El consumo oficial de **11,2 l/100 km** (WLTP) y su **etiqueta C** —según los criterios de la <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/distintivo-ambiental/>DGT</a>— recuerdan que no es un coche para el día a día urbano, sino para disfrutarlo cuando toca.
+
+## Mantenimiento y costes de uso
+
+Maserati no publica una tabla oficial de precios de mantenimiento del MC20 para España, y no vamos a reproducir cifras sin respaldo. El contexto verificable es el de un superdeportivo de motor central con monocasco de carbono y un mecanismo de techo complejo: mantenimiento en red oficial, neumáticos y frenos acordes a 630 CV y 320 km/h, y una revisión del sistema electrocrómico que solo la marca puede atender. Como en todo Maserati moderno, el historial oficial completo es lo que sostendrá su valor.
+
+## Normativa: etiqueta C e ITV ordinaria
+
+El MC20 Cielo lleva **etiqueta C**, con las limitaciones crecientes que las zonas de bajas emisiones aplican a ese distintivo, y está sujeto a la ITV periódica ordinaria de los turismos. Se conduce con el permiso B, aunque sus prestaciones piden la experiencia y la cabeza fría que se le suponen a quien firma un cheque de 300.500 €.
+
+## Rivales y veredicto: ¿merece la pena?
+
+Su primer rival es su hermano cerrado, el <a href=/coches/maserati-mc20-2024-precio-ficha-tecnica/>MC20 coupé</a>, 35.000 € más barato según el propio artículo, y fuera de la casa compite con los spider de motor central de las marcas británicas y alemanas. Compáralos en el <a href=/comparador-coches/>comparador de coches</a> y tómate un respiro con el <a href=/juego-monos/>juego caza-monos</a>.
+
+**Veredicto: ¿merece la pena?** Si el plan es usarlo a cielo abierto la mayor parte del tiempo, sí: los **300.500 €** compran el spider italiano más tecnológico de su clase con unas prestaciones casi idénticas a las del coupé. Si vas a rodar sobre todo en circuito o con el techo puesto, el coupé ofrece lo mismo por 35.000 € menos y con un maletero igual de testimonial pero un kilo menos de complejidad.
+
+## Nettuno: el V6 que Maserati se hizo a sí misma
+
+Buena parte del significado del MC20 está bajo su capó trasero. El motor **Nettuno** fue desarrollado por la propia Maserati para este proyecto, rompiendo con la época en la que los motores de la casa llegaban de fuera: un V6 de 3,0 litros biturbo pensado desde el inicio para ser el corazón de la nueva era deportiva de la marca. Que el Cielo monte exactamente el mismo motor que el coupé, con los mismos **630 CV**, dice mucho de la ambición del programa: el spider no es una versión descafeinada para pasear, sino el mismo superdeportivo con el techo que se abre. En una época de motores compartidos entre grupos, un V6 propio y exclusivo es un argumento de identidad que los compradores de este nivel valoran tanto como el cronómetro.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto costaba el MC20 Cielo?
@@ -1113,7 +1151,7 @@ El techo descapotable y el refuerzo estructural; la mecánica es idéntica.
 
 Si te ha llegado una multa con tu Maserati, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: <a href=https://www.km77.com/coches/maserati/mc20/2023/cielo?amp=1>precio y ficha en km77</a>.*`
+*Fuentes: <a href=https://www.km77.com/coches/maserati/mc20/2023/cielo?amp=1>precio y ficha en km77</a>. <a href=https://www.maserati.com/es/es/modelos/mc20>Maserati España — MC20</a> y <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/distintivo-ambiental/>DGT — distintivo ambiental</a>*`
   },
   {
     "title": "MC20 Notte: 50 unidades, precio y ficha",
