@@ -809,6 +809,43 @@ El mantenimiento se limita a neumáticos, frenos, kit de transmisión encapsulad
 
 Sin precio oficial en España. Sus rivales son la <a href=/motos/can-am-origin-2024-ficha-tecnica-precio/>Can-Am Origin 2024</a>, la <a href=/motos/can-am-pulse-2024-ficha-tecnica-precio/>Can-Am Pulse 2024</a> y las trail A2 de gasolina.
 
+## BRP y Can-Am: el regreso eléctrico de una marca de aventuras
+
+Can-Am es la marca de vehículos recreativos de **BRP**, el grupo canadiense detrás también de Ski-Doo y Sea-Doo, y su gama de carretera puede consultarse en la <a href=https://can-am.brp.com/on-road/2025/can-am-origin.html>ficha oficial de la Origin</a>. Tras años centrada en los tres ruedas Ryker y Spyder, la marca volvió a las dos ruedas con una plataforma eléctrica propia, y lo hizo con dos hermanas: la naked Pulse para la ciudad y esta Origin para salir de ella. La Origin no es un experimento aislado, es la mitad aventurera de una estrategia eléctrica completa, con la batería integrada en el chasis y la refrigeración líquida como señas técnicas de la casa.
+
+## La plataforma eléctrica, al detalle: 47 CV y cadena encapsulada
+
+| Dato | Can-Am Origin 2025 |
+|---|---|
+| Potencia | 35 kW (47 CV) |
+| Par | 72 Nm |
+| Batería | 8,9 kWh con refrigeración líquida |
+| Recorrido de suspensión | 255 mm (KYB) |
+| Carga Nivel 2 | 20-80 % en 50 minutos (6,6 kW) |
+| Pantalla | 10,25 pulgadas con CarPlay |
+| Peso | 187 kg |
+| Altura de asiento | 865 mm |
+
+La lectura técnica importante está en tres decisiones. La primera es la **refrigeración líquida de la batería**, que protege la autonomía y la carga cuando el calor aprieta en pistas lentas. La segunda es la **cadena encapsulada** dentro del basculante monobrazo: en una trail, la cadena es el elemento que más sufre el barro y el polvo, y aquí va protegida y con menos mantenimiento expuesto. La tercera es el par de **72 Nm** disponible desde parado, la entrega típica del eléctrico que en campo ayuda a salir de zonas lentas sin jugar con el embrague, porque no hay embrague ni marchas que gestionar.
+
+## Uso real: trail eléctrica para pistas, no para enduro extremo
+
+Con **145 km declarados en ciudad** y menos en uso mixto con campo, la Origin es una trail de escapadas de fin de semana y de rutas por pistas cercanas, no una viajera de grandes distancias: su autonomía manda planificar la ruta alrededor de un enchufe de Nivel 2. Los **187 kg** son pocos para una trail eléctrica y muchos para zonas muy técnicas, como reconoce la propia FAQ de este post, y el asiento a **865 mm** exige piernas largas o experiencia para moverla en parado. A cambio, en el día a día urbano es una A2 silenciosa, sin vibraciones y con una pantalla de 10,25 pulgadas que no tiene ninguna rival de gasolina en su segmento.
+
+## Mantenimiento: menos piezas, garantía clara y sin tarifas publicadas
+
+El post original ya marca el perímetro honesto: el mantenimiento se limita a neumáticos, frenos, el kit de transmisión encapsulado y el software, y **no hay datos públicos de precios de revisiones en España**. Lo que sí está publicado y es verificable es la garantía: **2 años en el vehículo y 5 años o 50.000 km en la batería**, la cobertura que de verdad importa en un vehículo eléctrico, porque la batería es el componente caro. Sin aceite, sin filtros de motor y sin embrague, el coste de uso previsible es el de consumibles y neumáticos, pero cualquier cifra concreta de revisión sería inventada y aquí no se publica.
+
+## Normativa: A2, versión A1 y etiqueta Cero
+
+La Origin de 35 kW se conduce con el **carnet A2**, y existe una versión de **11 kW** que la hace accesible con el **A1** y con el carnet B con tres años de antigüedad, según la normativa española de equivalencia para motocicletas de hasta 125 cc equivalentes. Como motocicleta eléctrica, le corresponde la **etiqueta Cero de la DGT**, con acceso libre a las zonas de bajas emisiones. En la ITV, una eléctrica se revisa igual que cualquier otra motocicleta en plazos, con la ventaja de no pasar prueba de emisiones ni de ruido de escape.
+
+## Frente a la Pulse y a las trail A2 de gasolina: veredicto
+
+Sus rivales naturales son su hermana <a href=/motos/can-am-pulse-2024-ficha-tecnica-precio/>Can-Am Pulse</a>, pensada para asfalto urbano, la <a href=/motos/can-am-origin-2024-ficha-tecnica-precio/>Origin del año anterior</a> y las trail A2 de gasolina de toda la vida. Frente a estas últimas, la Origin gana en tecnología, en silencio y en coste de uso urbano, y pierde en lo que pierde todo eléctrico de aventura hoy: autonomía fuera del asfalto y red de carga en zonas rurales. Puedes enfrentar las trail del mercado en el <a href=/comparador-motos/>comparador de motos</a> y entretener la espera con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+**¿Merece la pena?** Es la trail eléctrica A2 más completa y tecnológica que se puede comprar, y también una compra de nicho. **Para quién sí:** para quien haga pistas cercanas a casa o a un punto de carga, valore el silencio y quiera la plataforma más avanzada del segmento. **Para quién no:** para quien encadene jornadas largas de campo lejos de enchufes: ahí, hoy, una trail A2 de gasolina sigue siendo la herramienta correcta.
+
 ## Preguntas frecuentes
 
 ### ¿Qué carnet necesito para la Can-Am Origin?
