@@ -818,6 +818,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "byd-dolphin-active-95-2026-precio-ficha-tecnica": () => import("../historia-modelos.ts"),
     "byd-dolphin-g-dmi-active-2026-precio-ficha-tecnica": () => import("../historia-modelos.ts"),
     "byd-dolphin-g-dmi-boost-2026-precio-ficha-tecnica": () => import("../historia-modelos.ts"),
+    "byd-dolphin-surf-2027-precio-ficha-tecnica": () => import("../historia-enriquecer-t13.ts"),
     "byd-dolphin-surf-precio-ficha-tecnica": () => import("../historia-modelos.ts"),
     "byd-e7-2025-precio-ficha-tecnica": () => import("../historia-lote2.ts"),
     "byd-great-tang-2026-precio-ficha-tecnica": () => import("../historia-modelos.ts"),

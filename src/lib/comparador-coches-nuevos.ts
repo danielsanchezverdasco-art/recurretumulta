@@ -2395,6 +2395,36 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         alto: 511,
       },
     ],
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+    },
+    planMantenimiento: {
+      intervalo: "Sin intervalos fijos: Tesla recomienda mantenimiento según estado del vehículo",
+      revisiones: [
+        {
+          nombre: "Filtro de habitáculo",
+          queSeCambia: "Sustitución del filtro de aire del habitáculo (Tesla recomienda hacerlo cada 2 años)",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Líquido de frenos",
+          queSeCambia: "Comprobación periódica del estado del líquido de frenos y sustitución si es necesario",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Neumáticos y aire acondicionado",
+          queSeCambia: "Rotación de neumáticos según desgaste y sustitución periódica de la bolsa desecante del aire acondicionado según el manual de servicio de Tesla",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Tesla (tesla.com/es_es): mantenimiento según estado del vehículo, sin intervalos fijos oficiales",
+    },
+    fuenteNombre: "Tesla (web oficial global)",
+    fuenteUrl: "https://www.tesla.com/roadster",
   },
   {
     id: "xiaomi-yu7-suv-electrico-llegada-europa",
@@ -9368,6 +9398,24 @@ export const COCHES_NUEVOS: CocheComparador[] = [
       fuenteNombre: "Autonocion",
       fuenteUrl: "https://www.autonocion.com/motornocion/byd-seagull-dolphin-surf-segunda-generacion-china/",
     },
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP (segunda generación del Seagull/Dolphin Surf; el test de 2025 corresponde a la generación anterior)",
+    },
+    planMantenimiento: {
+      intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos)",
+      revisiones: [
+        {
+          nombre: "Revisión cada 24 meses / 30.000 km",
+          queSeCambia: "Inspección general + filtro de polen + líquido de frenos (según plan) + actualización de software",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Plan oficial BYD Europa para vehículos eléctricos",
+    },
   },
   {
     id: "byd-atto-3-precio-ficha-tecnica",
@@ -9456,6 +9504,18 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         alto: 560,
       },
     ],
+    planMantenimiento: {
+      intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos)",
+      revisiones: [
+        {
+          nombre: "Revisión cada 24 meses / 30.000 km",
+          queSeCambia: "Inspección general + filtro de polen + líquido de frenos (según plan) + actualización de software",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Plan oficial BYD Europa para vehículos eléctricos",
+    },
   },
   {
     id: "alpine-a290-precio-ficha-tecnica",

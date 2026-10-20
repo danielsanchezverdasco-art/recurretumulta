@@ -1820,6 +1820,8 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       costeAnualAproxEur: 75,
       fuente: "Plan de mantenimiento Tesla (sin intervalos fijos)",
     },
+    fuenteNombre: "Tesla (web oficial global)",
+    fuenteUrl: "https://www.tesla.com/modely",
   },
   {
     id: "tesla-cybercab-2026-precio-ficha-tecnica",
@@ -1910,6 +1912,8 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       costeAnualAproxEur: null,
       fuente: "Sin plan oficial publicado por la marca",
     },
+    fuenteNombre: "Tesla (web oficial global)",
+    fuenteUrl: "https://www.tesla.com/robotaxi",
   },
   {
     id: "gmc-sierra-ev-2025-precio-ficha-tecnica",

@@ -1765,6 +1765,8 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
       ],
       fuente: "Tesla",
     },
+    fuenteNombre: "Tesla España",
+    fuenteUrl: "https://www.tesla.com/es_es/models",
   },
   {
     id: "tesla-model-x-plaid-2026-precio-ficha-tecnica",
@@ -1841,6 +1843,8 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
       ],
       fuente: "Tesla",
     },
+    fuenteNombre: "Tesla España",
+    fuenteUrl: "https://www.tesla.com/es_es/modelx",
   },
   {
     id: "tesla-cybertruck-2026-precio-ficha-tecnica",
@@ -1911,5 +1915,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
       revisiones: [],
       fuente: "Tesla",
     },
+    fuenteNombre: "Tesla (web oficial global)",
+    fuenteUrl: "https://www.tesla.com/cybertruck",
   },
 ];
