@@ -301,6 +301,40 @@ El segmento profesional en España lo dominan las Berlingo y e-Partner de Stella
 
 <a href=/comparador-coches/>Comparador de coches</a> · Etiqueta Cero: entra en todas las ZBE sin restricciones.
 
+## PBV: la apuesta de Kia por construir furgonetas como plataformas
+
+La PV5 no es una furgoneta más en la gama de Kia: es el primer modelo de su estrategia **PBV (Platform Beyond Vehicle)**, con la que la marca coreana entra de lleno en el vehículo comercial eléctrico. La gama eléctrica y la filosofía de la casa pueden consultarse en la <a href=https://www.kia.com/>web oficial de Kia</a>. La idea PBV es que una misma base —la plataforma **E-GMP.S**— sirva para reparto, pasajeros, taxi o camper cambiando la carrocería y el interior, igual que un chasis industrial de toda la vida pero nacido eléctrico. Su presentación española en el Salón del Automóvil de Canarias, recogida en el post original, confirma que España está en el mapa de lanzamiento.
+
+## La técnica que importa a una flota: baterías, carga y europalé
+
+| Dato | PV5 Passenger | PV5 Cargo |
+|---|---|---|
+| Motor | Delantero, 163 CV | Delantero, 163 CV |
+| Batería | 71,2 kWh | 51,5 o 71,2 kWh |
+| Autonomía WLTP | 412 km | 297 km (51,5 kWh) |
+| Carga rápida | 10-80 % en unos 30 min | 10-80 % en unos 30 min |
+| Volumen de carga | 7 plazas | 4,4 metros cúbicos, apta para europalé |
+
+Para un profesional, las cifras decisivas no son los 163 CV: son los **30 minutos de carga rápida** que permiten recuperar la jornada en una pausa, y que la Cargo admita un **europalé**, el estándar real del reparto paletizado. La doble opción de batería tiene también lectura económica: la de 51,5 kWh basta para rutas urbanas fijas y abarata la compra, mientras que la de 71,2 kWh es la de quien hace carretera o dobles turnos.
+
+## Uso real: reparto urbano hoy, camper mañana
+
+La Cargo está pensada para el reparto de última milla y para autónomos que entran a diario en zonas de bajas emisiones, donde su condición eléctrica es una ventaja operativa y no solo ecológica. La Passenger de 7 plazas apunta a lanzaderas, VTC y familias numerosas. Y la arquitectura PBV deja la puerta abierta a las conversiones camper, un uso en el que una base eléctrica con suelo plano tiene mucho que decir. Su limitación inmediata es comercial: el **precio para España aún no está confirmado**, y en el mercado profesional el precio y el coste por kilómetro lo deciden todo.
+
+## Mantenimiento y coste total: lo que una flota sí puede dar por seguro
+
+Kia no ha publicado en este análisis una tabla de costes de mantenimiento de la PV5, y no la inventamos. Lo que sí es estructural en una furgoneta eléctrica frente a una diésel equivalente es la desaparición de aceite de motor, filtro de partículas, embrague y correas, y un desgaste de frenos menor por la frenada regenerativa; a cambio, neumáticos y la gestión de la carga pasan a ser las partidas a vigilar. Para una flota, el cálculo correcto es el de coste total de propiedad —energía, mantenimiento, impuestos y valor residual— y ahí la etiqueta Cero también suma en peajes urbanos y aparcamiento regulado según la ciudad.
+
+## Normativa: etiqueta Cero y carnet B
+
+Como eléctrica pura, la PV5 lleva **etiqueta Cero de la DGT**, con acceso libre a las zonas de bajas emisiones y ventajas en muchas ordenanzas municipales. Es además una furgoneta conducible con el **carnet B** en sus versiones de hasta 3.500 kg de masa máxima, el permiso estándar de cualquier repartidor o autónomo, sin necesidad de permisos profesionales adicionales por el mero hecho de ser eléctrica. Para empresas, conviene recordar que las ayudas y bonificaciones a vehículos comerciales eléctricos cambian por comunidad y por convocatoria: hay que verificar las vigentes en el momento de la compra, no darlas por supuestas.
+
+## Frente a Berlingo eléctrica e ID. Buzz Cargo: veredicto
+
+El post original sitúa bien el hueco: las furgonetas eléctricas de Stellantis —Berlingo y e-Partner— dominan el segmento por precio y red, y la Volkswagen ID. Buzz Cargo juega en una liga de precio superior, más de imagen que de reparto puro. La PV5 ataca el centro con argumentos de eléctrica nativa: plataforma dedicada, carga rápida de 30 minutos y modularidad PBV. Puedes comparar las alternativas que ya se venden en el <a href=/comparador-coches/>comparador de coches</a>, repasar la gama eléctrica de la marca con el <a href=/coches/kia-ev9-2024-precio-ficha-tecnica/>Kia EV9</a> como referencia de su tecnología, y buscar monos en nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+**¿Merece la pena?** Sobre el papel, es la candidata más seria a furgoneta eléctrica de referencia del reparto urbano en cuanto tenga precio español. **Para quién sí:** para autónomos y flotas con rutas urbanas o periurbanas diarias y acceso a carga en base. **Para quién no:** para quien haga rutas largas diarias sin infraestructura de carga, o necesite comprar ya con un precio cerrado: la PV5 aún debe publicar el suyo en España.
+
 ## Preguntas frecuentes
 
 ### ¿Qué autonomía tiene la Kia PV5?
@@ -314,7 +348,8 @@ Sí: la Cargo ofrece **4,4 m³** de volumen y es apta para **europalé**, con ca
 
 ### ¿Cuándo llega la Kia PV5 a España?
 Kia la ha presentado en Canarias en octubre de 2026; el calendario comercial para la península está pendiente de confirmación oficial.
-`,
+
+*Fuentes: <a href=https://www.kia.com/>Kia (web oficial)</a>, Motoraldia7 y Motor Actualidad (presentación en Canarias citada en el post original).*`,
 },
 {
   title: "París 2026: todos los eléctricos",
