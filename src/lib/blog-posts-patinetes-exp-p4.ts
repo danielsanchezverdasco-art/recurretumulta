@@ -1422,6 +1422,43 @@ Sin certificado DGT verificado. De serie va a **24 km/h** (ampliable a 30): déj
 
 <img src=/media/patinetes/evercross-ev08e-3.webp alt=Evercross EV08E en un paseo urbano>
 
+## Evercross: patinetes baratos con sillín, una fórmula propia
+
+Evercross es una marca de movilidad eléctrica de precio agresivo cuya gama se vende en Europa a través de tiendas en línea, y el EV08E es su propuesta más singular: un patinete **con sillín de serie** por unos **230 €**, un precio en el que la mayoría de rivales ni siquiera ofrece asiento como accesorio. Su planteamiento no es el del patinete ligero para combinar con el metro, es el del utilitario puro para trayectos cortos sentado, la lectura que el post original hace desde su primera línea. Dentro de la marca, el <a href=/patinetes/evercross-h5/>Evercross H5</a> ofrece 800 W y app por unos 260 € más para quien quiera prestaciones en vez de asiento.
+
+## 350 W y ruedas macizas de 8 pulgadas: sencillez por encima de todo
+
+| Dato | Evercross EV08E |
+|---|---|
+| Motor | 350 W |
+| Batería | 36V 7,8Ah (281 Wh) |
+| Autonomía declarada | 32 km |
+| Autonomía real estimada | ≈22 km |
+| Peso | ≈24,7 kg |
+| Carga máxima | 120 kg |
+| Ruedas | 8 pulgadas macizas |
+| Frenos | Doble disco |
+
+La técnica del EV08E es la de la sencillez absoluta: **350 W**, una batería de **281 Wh** y **ruedas macizas de 8 pulgadas** que eliminan los pinchazos a cambio de comodidad en firme roto, como señala el análisis original. El **doble freno de disco** está sobredimensionado para su potencia, en el buen sentido: en un vehículo barato, que el freno sobre y no falte es la decisión correcta. Los **24,7 kg** de peso son su peaje estructural: el sillín y su chasis pesan, y hacen de este patinete algo que se guarda en el garaje o el trastero, no algo que se suba a un cuarto piso sin ascensor.
+
+## Uso real: trayectos cortos sentado, sin prisa y sin aceras
+
+El EV08E es para quien hace trayectos cortos y prefiere hacerlos **sentado**: repartos de barrio, desplazamientos por urbanizaciones o paseos tranquilos a ritmo moderado, el uso que según el post original invita su sillín y que además ahorra batería. Con unos **22 km reales** de autonomía, su radio de acción es el del barrio y el pueblo, no el de la gran ciudad de punta a punta. Sus límites son igualmente claros: las ruedas pequeñas macizas castigan en adoquines y baches, no tiene app ni conectividad, y su peso lo descarta para llevarlo en transporte público o subirlo por escaleras a diario.
+
+## Mantenimiento: sin pinchazos no significa sin cuidados
+
+No hay tarifas oficiales de mantenimiento del EV08E que publicar, porque en este segmento el servicio se resuelve con recambios y talleres de movilidad, no con planes de revisiones de marca. Lo verificable por su ficha es el mapa de cuidados: las **ruedas macizas** eliminan la partida de pinchazos y cámaras, el **doble disco** exige revisar pastillas como en cualquier freno mecánico, y la batería de 281 Wh es el componente a proteger, guardándola cargada parcialmente y lejos de temperaturas extremas. El consejo práctico de este segmento es comprar solo si el vendedor ofrece recambios básicos localizables, porque un patinete de 230 € sin piezas disponibles se convierte en residuo al primer desgaste serio.
+
+## Normativa VMP: de serie cumple, deslimitado deja de cumplir
+
+El EV08E llega de serie limitado a **24 km/h**, y así cumple el requisito esencial de los vehículos de movilidad personal en España, cuya regulación oficial puede consultarse en la <a href=https://www.dgt.es/nuestros-servicios/en-detalle/vehiculos-de-movilidad-personal/>página de VMP de la DGT</a>. El propio post original avisa del punto crítico: la velocidad es ampliable a unos 30 km/h, y **deslimitarlo lo saca de la legalidad** como VMP, además de poder acarrear sanción. Sin **certificado DGT verificado**, tampoco puede darse por hecho que cumpla todos los requisitos de certificación que la normativa exige a los VMP nuevos, y circular por la **acera está prohibido** en cualquier caso.
+
+## Frente al Evercross H5 y a los patinetes sin sillín: veredicto
+
+La comparación interna la resuelve la FAQ de este post: el H5 tiene **800 W y app** por unos 260 € más; el EV08E responde con el sillín y el precio mínimo. Frente a los patinetes convencionales sin asiento de su precio, el Evercross cambia ligereza y ruedas decentes por la postura sentada y el doble disco. Puedes comparar las alternativas del mercado en el <a href=/comparador-patinetes/>comparador de patinetes</a> y buscar monos en nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+**¿Merece la pena?** Si el sillín es innegociable y el presupuesto es mínimo, cumple lo que promete por unos 230 €. **Para quién sí:** para trayectos cortos por terreno llano, con sitio para guardarlo sin cargarlo. **Para quién no:** para quien suba escaleras con él, haga más de 20 km diarios o necesite certeza total de certificación DGT: debe gastar más en un VMP certificado y ligero.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Evercross EV08E?
@@ -1444,7 +1481,7 @@ El H5 tiene 800 W y app por ~260 € más. Si el sillín es innegociable y el pr
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://www.levyelectric.com/resources/evercross-electric-scooter-complete-guide-app-setup-review>guía Evercross en Levy Electric</a>.*`,
+*Fuentes: <a href=https://www.levyelectric.com/resources/evercross-electric-scooter-complete-guide-app-setup-review>guía Evercross en Levy Electric</a>., <a href=https://www.dgt.es/nuestros-servicios/en-detalle/vehiculos-de-movilidad-personal/>DGT: vehículos de movilidad personal</a>, <a href=https://evercross.us>Evercross (tienda oficial)</a>*`,
   },
   {
     slug: "evercross-ev10-max",
@@ -2282,6 +2319,43 @@ Sin certificado DGT. Por potencia y dimensiones no encaja como VMP en España: s
 
 <img src=/media/patinetes/bronco-xtreme-vnom-11-3.webp alt=Bronco Xtreme VNOM 11 circulando de noche>
 
+## Bronco VNOM: el hiperpatinete americano de gran autonomía
+
+El Bronco Xtreme VNOM 11 es la evolución gran turismo del Xtreme 11, un hiperpatinete pensado para el mercado estadounidense que se vende en tiendas especializadas de EE. UU. como la citada en las fuentes de este post. Donde su hermano busca potencia bruta, con **8.400 W** según la comparación de la FAQ, el VNOM busca **distancia**: una batería enorme, pantalla completa y equipamiento rutero para devorar kilómetros. Es un producto de otro ecosistema normativo y de uso, el americano, donde los patinetes de altas prestaciones circulan por vías y espacios que en Europa serían impensables para un VMP.
+
+## 50 Ah: una batería del tamaño de un ciclomotor eléctrico
+
+| Dato | Bronco Xtreme VNOM 11 |
+|---|---|
+| Batería | 50 Ah |
+| Autonomía declarada | 129 km (80 millas) |
+| Autonomía real estimada | ≈86 km |
+| Ruedas | 11 pulgadas |
+| Frenos | Hidráulicos |
+| Pantalla | TFT a color con voltímetro |
+| Plataforma | 13x26 pulgadas |
+| Potencia | No publicada |
+
+La técnica del VNOM se concentra en un solo número: **50 Ah** de batería, una capacidad que en este sitio se ve en ciclomotores eléctricos, no en patinetes. Con ella declara **129 km** a ritmo moderado, cifra que el propio vendedor sustenta con sus 80 millas en esas condiciones, y que en uso mixto se traduce en los **80-90 km reales** que estima el análisis original. El resto del equipamiento es rutero de verdad: **frenos hidráulicos**, intermitentes grandes, plataforma gigante de **13x26 pulgadas** con reposapiés y pantalla TFT con voltímetro, el instrumento que en los vehículos de gran batería sirve para leer la carga real que queda.
+
+## Uso real: reparto y cruising largo en EE. UU.
+
+El VNOM está pensado para **reparto y cruising de larga distancia** en Estados Unidos, el uso que su plataforma enorme y su autonomía de ciclomotor habilitan: jornadas de trabajo o rutas que ningún patinete convencional puede encadenar sin recargar. Su contrapartida está en la propia tabla de contras: esa plataforma lo hace **poco ágil**, el peso no está publicado pero con 50 Ah será alto, y no tiene presencia ni precio oficial en Europa. Es un vehículo de nicho dentro de un nicho: el del usuario americano que quiere la máxima distancia posible sobre dos ruedas pequeñas, cueste lo que cueste en tamaño y peso.
+
+## Mantenimiento: la batería manda y los recambios son americanos
+
+No hay red ni tarifas de mantenimiento del VNOM aplicables a España que publicar, porque el producto no se distribuye en Europa. Lo verificable por su ficha es el mapa de cuidados de un hiperpatinete: **frenos hidráulicos** que exigen purgado y pastillas como los de una bicicleta potente, neumáticos de 11 pulgadas como consumible principal y una batería de 50 Ah cuyo coste de sustitución, cuando llegue, será la partida dominante del mantenimiento a largo plazo. En un vehículo sin distribución europea, cualquier avería se resuelve con piezas importadas de EE. UU., y ese es un coste estructural que el comprador español debe asumir antes de importar uno.
+
+## Normativa: fuera del marco VMP español
+
+El VNOM **no tiene certificado DGT** y, como concluye el post original, por potencia y dimensiones **no encaja como VMP en España**: su hábitat legal es Estados Unidos. La regulación española de los vehículos de movilidad personal, consultable en la <a href=https://www.dgt.es/nuestros-servicios/en-detalle/vehiculos-de-movilidad-personal/>página oficial de VMP de la DGT</a>, está pensada para patinetes ligeros de hasta 25 km/h, un mundo opuesto a un hiperpatinete de 50 Ah pensado para 129 km. Circular con algo así por vías públicas españolas no es una zona gris cómoda: es usar fuera de su marco un vehículo que aquí no tiene categoría de VMP, con las consecuencias legales y de seguro que ello implica.
+
+## Frente al Xtreme 11 y a los VMP europeos: veredicto
+
+La comparación interna es de filosofía: el **Xtreme 11** prima la potencia con 8.400 W y el VNOM prima la autonomía con 50 Ah y el equipamiento rutero. Frente a los patinetes que sí se venden en España, la comparación ni siquiera es de producto, es de categoría: aquí mandan los VMP certificados, limitados y ligeros que pueblan el <a href=/comparador-patinetes/>comparador de patinetes</a>. Y siempre queda entretener la espera con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+**¿Merece la pena?** En EE. UU., para reparto o rutas larguísimas, su batería no tiene rival directo. **Para quién sí:** para el usuario americano que necesite 80-90 km reales por carga y asuma su tamaño. **Para quién no:** para el lector español en cualquier caso: sin categoría VMP, sin distribución y sin precio europeo, el VNOM es aquí una curiosidad técnica, no una compra.
+
 ## Preguntas frecuentes
 
 ### ¿Qué autonomía tiene el VNOM 11?
@@ -2304,7 +2378,7 @@ En EE. UU. para reparto, quizá. En España es una curiosidad.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://alienrides.com/collections/electric-scooters/products/bronco-xtreme-vnom-11-electric-scooter>ficha en Alien Rides</a>.*`,
+*Fuentes: <a href=https://alienrides.com/collections/electric-scooters/products/bronco-xtreme-vnom-11-electric-scooter>ficha en Alien Rides</a>., <a href=https://www.dgt.es/nuestros-servicios/en-detalle/vehiculos-de-movilidad-personal/>DGT: vehículos de movilidad personal</a>*`,
   },
   // ─────────────────────────── E-TWOW (2) ───────────────────────────
   {
