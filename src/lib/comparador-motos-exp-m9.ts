@@ -330,7 +330,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "800MT Explore 2025",
     cilindradaCc: null,
     categoria: "Trail",
-    precioDesde: 10995,
+    precioDesde: 10995, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: 91,
     autonomiaKm: null,
@@ -343,7 +343,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Pantalla táctil TFT de 8\" con Apple CarPlay: la más grande del segmento",
       "Radar trasero de ángulo muerto, ABS en curva y 6 modos de conducción",
@@ -755,7 +755,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "525ACX 2025",
     cilindradaCc: 494,
     categoria: "Naked",
-    precioDesde: 6317,
+    precioDesde: 5487, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 35.3,
     potenciaCv: 48,
     autonomiaKm: null,
@@ -768,7 +768,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "47,6 CV al límite del A2",
       "Llantas de radios mixtas",
@@ -935,7 +935,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "300AC 2025",
     cilindradaCc: 292,
     categoria: "Naked",
-    precioDesde: 3090,
+    precioDesde: 3595, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 19.1,
     potenciaCv: 26,
     autonomiaKm: null,
@@ -948,7 +948,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Consumo de 2,9 L/100",
       "170 kg muy manejable",
@@ -996,7 +996,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "350D 2025",
     cilindradaCc: 349,
     categoria: "Scooter",
-    precioDesde: 4787,
+    precioDesde: 4787, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 27,
     potenciaCv: 36.71,
     autonomiaKm: null,
@@ -1009,7 +1009,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Potencia récord en 350 cc",
       "Parabrisas eléctrico doble",
@@ -1124,7 +1124,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "703F 2025",
     cilindradaCc: 699,
     categoria: "Trail",
-    precioDesde: 7992,
+    precioDesde: 7992, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 69.9,
     potenciaCv: 95,
     autonomiaKm: null,
@@ -1137,7 +1137,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "A2 (versión 35 kW)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Tricilíndrico de 95 CV",
       "IMU y electrónica de nivel premium",
@@ -1260,7 +1260,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "GK125 2025",
     cilindradaCc: 125,
     categoria: "Naked",
-    precioDesde: 3387,
+    precioDesde: 3587, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 10.8,
     potenciaCv: 14.7,
     autonomiaKm: null,
@@ -1273,7 +1273,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "143 kg muy ligera",
       "Depósito de 17 L",
@@ -1568,7 +1568,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "Leoncino 800 Trail 2025",
     cilindradaCc: 754,
     categoria: "Naked",
-    precioDesde: 7790,
+    precioDesde: 8590, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 56.1,
     potenciaCv: 76.2,
     autonomiaKm: null,
@@ -1581,7 +1581,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Estética scrambler muy personal",
       "Escape elevado y llantas de radios",
@@ -1594,7 +1594,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
       "Sin conectividad avanzada",
       "ABS no desconectable",
       "Ambición off-road modesta",
-      "Precio con descuento temporal",
+      "Precio de tarifa de 8.590 €: las promociones puntuales lo dejan por debajo",
     ],
     curiosidades: [
       "El motor de 754 cc es el más avanzado de la gama Benelli",
@@ -2007,7 +2007,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "E-Tango 2025",
     cilindradaCc: null,
     categoria: "Enduro",
-    precioDesde: 4187,
+    precioDesde: 4187, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 4,
     potenciaCv: 5.4,
     autonomiaKm: 80,
@@ -2020,7 +2020,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "AM",
     carga: "3 h",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "80 km de autonomía con batería LG extraíble",
       "Menos de 80 kg, muy manejable en trialeras",
@@ -2127,7 +2127,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "X-Over 357 2026",
     cilindradaCc: 329,
     categoria: "Scooter",
-    precioDesde: 4659,
+    precioDesde: 5009, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 21.5,
     potenciaCv: 29.3,
     autonomiaKm: null,
@@ -2140,7 +2140,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "29,3 CV, solvente en ciudad y autovía",
       "Hueco para dos cascos integrales bajo el asiento",
@@ -2150,7 +2150,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     ],
     contras: [
       "191 kg, no es la más ligera",
-      "Precio de lanzamiento sujeto a promoción",
+      "Precio de tarifa de 5.009 €: el de lanzamiento (4.659 €) era promocional",
       "Estética crossover que no gustará a todos",
     ],
     curiosidades: [
@@ -2253,7 +2253,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "E-Tango SM 2025",
     cilindradaCc: null,
     categoria: "Supermotard",
-    precioDesde: 4187,
+    precioDesde: 4187, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 4,
     potenciaCv: 5.4,
     autonomiaKm: 80,
@@ -2266,7 +2266,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "AM",
     carga: "3 h",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Estética supermotard con ruedas de 17 pulgadas",
       "Misma base eléctrica probada de la E-Tango",
@@ -2505,7 +2505,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "S04 L6e 2025",
     cilindradaCc: null,
     categoria: "Cuadriciclo",
-    precioDesde: 9870,
+    precioDesde: 9870, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 6,
     potenciaCv: 8,
     autonomiaKm: 175,
@@ -2518,7 +2518,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "AM",
     carga: "Baterías extraíbles con asa y ruedas; carga en enchufe doméstico",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "175 km de autonomía, líder entre cuadriciclos",
       "Baterías extraíbles tipo trolley",
@@ -2574,7 +2574,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "S04 L7e 2025",
     cilindradaCc: null,
     categoria: "Cuadriciclo",
-    precioDesde: 11680,
+    precioDesde: 11680, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: 149,
@@ -2587,7 +2587,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "B",
     carga: null,
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "90 km/h, apto para rondas y vías rápidas",
       "149 km de autonomía real urbana",
@@ -2893,7 +2893,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "125V 2025",
     cilindradaCc: 125,
     categoria: "Scooter",
-    precioDesde: 2688,
+    precioDesde: 2688, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 11,
     potenciaCv: 15,
     autonomiaKm: null,
@@ -2906,7 +2906,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Mismo precio y equipo que la 125X",
       "Enfoque urbano con mejor protección aerodinámica",

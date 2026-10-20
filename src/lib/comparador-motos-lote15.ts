@@ -13,7 +13,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 1103,
     categoria: "Deportiva",
-    precioDesde: 60000,
+    precioDesde: 60000, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 158.8,
     potenciaCv: 216,
     autonomiaKm: null,
@@ -26,7 +26,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "216 CV del V4 Desmosedici Stradale derivado de MotoGP",
       "Edición limitada a 1.000 unidades numeradas con certificado",
@@ -35,7 +35,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
       "Chasis Front Frame de aluminio como las Desmosedici de carreras",
     ],
     contras: [
-      "Precio en torno a 60.000 €: solo para coleccionistas",
+      "Precio de 60.000 €: solo para coleccionistas",
       "Postura radical e incómoda para uso en carretera",
       "Mantenimiento Desmo caro y red de servicio limitada",
     ],
@@ -89,7 +89,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 1158,
     categoria: "Trail",
-    precioDesde: 20790,
+    precioDesde: 22790, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 125,
     potenciaCv: 170,
     autonomiaKm: null,
@@ -102,7 +102,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "V4 Granturismo de 170 CV, el motor más refinado del segmento",
       "Radar delantero y trasero: crucero adaptativo y ángulo muerto",
@@ -111,7 +111,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
       "Precio con campaña oficial desde 20.790 €, muy competitivo",
     ],
     contras: [
-      "El precio de tarifa sin campaña es sensiblemente mayor",
+      "Precio de tarifa de 22.790 €: las campañas oficiales lo dejan por debajo",
       "Peso elevado para uso fuera del asfalto",
       "Consumo alto si se aprovechan los 170 CV",
     ],

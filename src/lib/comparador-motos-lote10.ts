@@ -16,7 +16,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     version: "Fort 250 Adventure 2026",
     cilindradaCc: 250,
     categoria: "Scooter",
-    precioDesde: 2600,
+    precioDesde: null, // sin tarifa oficial publicada: no se comercializa en España (verificado 20/10/2026)
     potenciaKw: 19,
     potenciaCv: 26,
     autonomiaKm: null,
@@ -29,7 +29,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Scooter aventura con estética trail: parabrisas alto y defensas de estilo off-road",
       "Motor de 250 cc con 26 CV, refrigeración líquida y normativa Euro5+",
@@ -39,7 +39,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     ],
     contras: [
       "No se comercializa en España: importarlo es complicado y sin red de talleres",
-      "Precio orientativo desde Indonesia, sin tarifa europea oficial",
+      "Sin precio oficial publicado: no se comercializa en España ni en Europa",
       "Motor de solo 26 CV: justo en carreteras rápidas",
       "Peso y tamaño de scooter grande, menos ágil en tráfico denso",
       "La marca QJMotor aún tiene red limitada en Europa para recambios",
@@ -92,7 +92,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     version: "302S",
     cilindradaCc: 302,
     categoria: "Naked",
-    precioDesde: 4200,
+    precioDesde: null, // no se comercializa en España; sin tarifa oficial localizada (verificado 20/10/2026)
     potenciaKw: 28,
     potenciaCv: 38,
     autonomiaKm: null,
@@ -105,7 +105,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Bicilíndrico de 302 cc con sonido y carácter muy italianos",
       "38 CV: en el límite del A2 sin necesidad de limitación",
@@ -114,6 +114,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
       "Mercado de ocasión amplio y barato en España",
     ],
     contras: [
+      "Sin precio oficial publicado en España: el modelo no se comercializa aquí",
       "Modelo veterano: tecnología y electrónica básicas",
       "Peso elevado para su cilindrada",
       "Consumo algo alto para una naked media",
@@ -168,7 +169,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     version: "PR3 240 Enduro Pro",
     cilindradaCc: 233,
     categoria: "Trail",
-    precioDesde: 3600,
+    precioDesde: null, // modelo descatalogado; sin tarifa oficial vigente (verificado 20/10/2026)
     potenciaKw: 14.7,
     potenciaCv: 20,
     autonomiaKm: null,
@@ -181,7 +182,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Solo 108 kg: ligereza ideal para iniciarse en el enduro",
       "Motor de 233 cc suave y dócil, perfecto para aprender",
@@ -190,6 +191,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
       "Precio contenido para una enduro homologada",
     ],
     contras: [
+      "Sin precio oficial: modelo descatalogado, solo mercado de ocasión",
       "20 CV: corta para tramos rápidos o pilotos con experiencia",
       "Sin electrónica: ni ABS ni modos de conducción",
       "Modelo veterano con actualizaciones limitadas",
@@ -396,7 +398,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     version: "Storm-S 300 ABS",
     cilindradaCc: 300,
     categoria: "Scooter",
-    precioDesde: 4199,
+    precioDesde: 4490, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 19.9,
     potenciaCv: 27,
     autonomiaKm: null,
@@ -409,7 +411,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "27 CV con refrigeración líquida: sobrado para ciudad y carretera",
       "Doble disco delantero con pinzas radiales de 4 pistones y ABS",
@@ -625,7 +627,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     version: "Hero 125",
     cilindradaCc: 125,
     categoria: "Urbana",
-    precioDesde: 3000,
+    precioDesde: 2999, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 8,
     potenciaCv: 11,
     autonomiaKm: null,
@@ -638,7 +640,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Diseño scrambler setentero con mucho carácter",
       "Precio orientativo muy asequible para su estética",
@@ -1006,7 +1008,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     version: "V4SV",
     cilindradaCc: 1200,
     categoria: "Naked",
-    precioDesde: 52000,
+    precioDesde: 52300, // 44.000 GBP (tarifa oficial Reino Unido) ÷ 0,84205 (BCE 19/10/2026), redondeado a la centena
     potenciaKw: 137.9,
     potenciaCv: 185,
     autonomiaKm: null,
@@ -1028,7 +1030,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
       "IMU de 6 ejes, control de tracción y quickshifter",
     ],
     contras: [
-      "Precio orientativo de unas 52.000 €: solo para coleccionistas",
+      "Precio orientativo convertido desde la tarifa oficial británica (44.000 GBP): solo para coleccionistas",
       "No se vende oficialmente en España",
       "Mantenimiento de superbike artesanal, carísimo",
       "193 kg en seco y ergonomía radical: no es para el día a día",
@@ -1082,7 +1084,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     version: "EN 300 Fi",
     cilindradaCc: 300,
     categoria: "Trail",
-    precioDesde: 12500,
+    precioDesde: null, // TM Racing no publica tarifa oficial para España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -1095,7 +1097,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Enduro artesanal italiana de 300 cc, 2 tiempos",
       "Fabricación casi a mano con componentes de competición",
@@ -1104,7 +1106,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
       "Exclusividad: pocas unidades al año",
     ],
     contras: [
-      "Precio orientativo de unos 12.500 €",
+      "Sin precio oficial publicado en España: TM Racing no anuncia tarifa de la EN 300",
       "Sin red oficial amplia en España",
       "Mantenimiento de 2T exigente y frecuente",
       "No es una moto para el día a día ni para viajar",
@@ -1234,7 +1236,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     version: "Vida V1 Pro",
     cilindradaCc: null,
     categoria: "Eléctrica",
-    precioDesde: 1600,
+    precioDesde: 1000, // 102.700 INR (tarifa oficial India) ÷ 106,559 (BCE 19/10/2026), redondeado a la centena
     potenciaKw: 6,
     potenciaCv: 8,
     autonomiaKm: 165,
@@ -1256,6 +1258,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
       "Precio orientativo muy bajo desde India",
     ],
     contras: [
+      "Precio orientativo convertido desde la tarifa oficial india (102.700 INR): no se vende en España",
       "No se vende en Europa: solo India y Latinoamérica",
       "80 km/h de punta: justo para vías rápidas",
       "Tiempos de carga largos (5-6 horas)",
@@ -1310,7 +1313,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     version: "RV400",
     cilindradaCc: null,
     categoria: "Eléctrica",
-    precioDesde: 1400,
+    precioDesde: 1300, // 139.950 INR (tarifa oficial India) ÷ 106,559 (BCE 19/10/2026), redondeado a la centena
     potenciaKw: 3,
     potenciaCv: 4,
     autonomiaKm: 150,
@@ -1332,6 +1335,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
       "Sonidos de escape artificiales personalizables",
     ],
     contras: [
+      "Precio orientativo convertido desde la tarifa oficial india (139.950 INR): no se vende en España",
       "No se vende en Europa: solo mercado indio",
       "3 kW: prestaciones de 125 justas",
       "85 km/h de punta",
@@ -1387,7 +1391,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     version: "iQube",
     cilindradaCc: null,
     categoria: "Eléctrica",
-    precioDesde: 3900,
+    precioDesde: 1100, // 119.236 INR (tarifa oficial India) ÷ 106,559 (BCE 19/10/2026), redondeado a la centena
     potenciaKw: 4.6,
     potenciaCv: 6.3,
     autonomiaKm: 100,
@@ -1409,6 +1413,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
       "Precio orientativo contenido para su equipamiento",
     ],
     contras: [
+      "Precio orientativo convertido desde la tarifa oficial india (119.236 INR): no se vende en España",
       "No se comercializa oficialmente en España",
       "78 km/h de punta: solo ciudad",
       "4,6 kW: prestaciones modestas",
@@ -1463,7 +1468,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     version: "S7 ABS",
     cilindradaCc: null,
     categoria: "Eléctrica",
-    precioDesde: 4500,
+    precioDesde: null, // solo se vende en Taiwán; sin tarifa oficial localizada (verificado 20/10/2026)
     potenciaKw: 7.2,
     potenciaCv: 10,
     autonomiaKm: 77,
@@ -1476,7 +1481,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     carnet: "A1",
     carga: "Baterías extraíbles e intercambiables en estaciones Ionex",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "7,2 kW: prestaciones de 125 de gasolina de verdad",
       "ABS de doble canal, raro en eléctricas urbanas",
@@ -1485,7 +1490,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
       "Kymco España: red de distribución y servicio consolidada",
     ],
     contras: [
-      "Precio orientativo: sin tarifa oficial confirmada",
+      "Sin precio oficial: solo se comercializa en Taiwán",
       "77 km: autonomía justa para más que ciudad",
       "La red de estaciones de intercambio es pequeña en España",
       "Peso elevado por las baterías",
@@ -1539,7 +1544,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     version: "RST 125",
     cilindradaCc: 124.2,
     categoria: "Naked",
-    precioDesde: 3999,
+    precioDesde: null, // modelo descatalogado; sin tarifa oficial (verificado 20/10/2026)
     potenciaKw: 11,
     potenciaCv: 15,
     autonomiaKm: null,
@@ -1552,7 +1557,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Deportiva 125 con 15 CV, el máximo del A1",
       "Chasis de doble viga de aluminio, raro en su precio",
@@ -1561,7 +1566,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
       "Estética agresiva inspirada en las Moto3",
     ],
     contras: [
-      "Modelo descatalogado: solo mercado de ocasión",
+      "Sin precio oficial: modelo descatalogado, solo mercado de ocasión",
       "Sin electrónica ni modos de conducción",
       "Postura radical: incómoda para el día a día",
       "Recambios cada vez más difíciles",
@@ -1691,7 +1696,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     version: "T8",
     cilindradaCc: null,
     categoria: "Trial",
-    precioDesde: 1162,
+    precioDesde: 1162, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 0.65,
     potenciaCv: 0.9,
     autonomiaKm: null,
@@ -1704,7 +1709,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     carnet: "AM",
     carga: "Batería de litio de 0,32 kWh, carga en unas 2 horas",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Trial eléctrica para niños: silenciosa y sin humos",
       "Solo 24 kg: manejable para los más pequeños",
@@ -1767,7 +1772,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     version: "Escape R 2026",
     cilindradaCc: null,
     categoria: "Trial",
-    precioDesde: 11676,
+    precioDesde: 11676, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 15,
     potenciaCv: 20,
     autonomiaKm: 61,
@@ -1780,7 +1785,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     carnet: "A",
     carga: "Batería de 3,5 kWh, carga completa en unas 3 horas",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Trial eléctrica de alta gama con 3,5 kWh de batería",
       "Hasta 61 km de autonomía en uso trail",

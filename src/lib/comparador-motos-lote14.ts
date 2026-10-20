@@ -15,7 +15,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     version: "KPT 400 (LF400-2)",
     cilindradaCc: 378,
     categoria: "Trail",
-    precioDesde: 6700,
+    precioDesde: null, // no se comercializa en España; sin tarifa oficial única de la marca (verificado 20/10/2026)
     potenciaKw: 30.9,
     potenciaCv: 42,
     autonomiaKm: null,
@@ -28,7 +28,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "42 CV con 378 cc: de las trail chinas más potentes aptas para el A2",
       "Depósito de 18,5 litros para una gran autonomía en ruta",
@@ -37,6 +37,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
       "Precio orientativo de ~6.700 € al cambio desde México",
     ],
     contras: [
+      "Sin precio oficial en España: no se comercializa aquí",
       "No se comercializa en España: solo disponible en Latinoamérica y Asia",
       "220 kg en seco: pesada para su cilindrada",
       "Red de servicio inexistente en Europa",
@@ -319,7 +320,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     version: "SRK 400RS",
     cilindradaCc: 399,
     categoria: "Naked",
-    precioDesde: 11000,
+    precioDesde: null, // no se comercializa en España; sin tarifa oficial localizada (verificado 20/10/2026)
     potenciaKw: 57,
     potenciaCv: 77.6,
     autonomiaKm: null,
@@ -332,7 +333,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Tetracilíndrico de 399 cc y 77,6 CV que sube hasta 14.000 rpm",
       "Sonido y tacto de superbike en una naked de media cilindrada",
@@ -341,6 +342,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
       "Precio orientativo de ~11.000 € al cambio desde Singapur",
     ],
     contras: [
+      "Sin precio oficial en España: versión no comercializada aquí",
       "No se comercializa en España: solo mercados asiáticos",
       "Hay que subirla de vueltas para sacarle partido",
       "Consumo y mantenimiento de tetracilíndrico",
@@ -395,7 +397,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     version: "250SR",
     cilindradaCc: 249,
     categoria: "Deportiva",
-    precioDesde: 3600,
+    precioDesde: null, // no se comercializa en España; sin tarifa oficial localizada (verificado 20/10/2026)
     potenciaKw: 20.1,
     potenciaCv: 27.4,
     autonomiaKm: null,
@@ -408,7 +410,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Deportiva carenada con 27,4 CV y 155 km/h de velocidad máxima",
       "ABS de doble canal y modos de conducción Sport/Eco",
@@ -417,6 +419,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
       "Precio orientativo de ~3.600 € al cambio desde México",
     ],
     contras: [
+      "Sin precio oficial en España: no se comercializa aquí",
       "No se comercializa en España: solo Latinoamérica y Asia",
       "Postura deportiva poco cómoda para el día a día",
       "Motor monocilíndrico: vibraciones a alto régimen",
@@ -471,7 +474,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     version: "250CL-X",
     cilindradaCc: 249,
     categoria: "Naked",
-    precioDesde: 4300,
+    precioDesde: null, // no se comercializa en España; sin tarifa oficial localizada (verificado 20/10/2026)
     potenciaKw: 19.5,
     potenciaCv: 26.2,
     autonomiaKm: null,
@@ -484,7 +487,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Estética neo-retro con horquilla invertida de 37 mm",
       "ABS Continental de doble canal y pantalla TFT de 5 pulgadas",
@@ -493,6 +496,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
       "Precio orientativo de ~4.300 € al cambio desde México",
     ],
     contras: [
+      "Sin precio oficial en España: no se comercializa aquí",
       "No se comercializa en España actualmente",
       "26,2 CV: menos empuje que las 300 del segmento",
       "Asiento alto para pilotos bajos",
@@ -699,7 +703,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     version: "150NK",
     cilindradaCc: 149.4,
     categoria: "Naked",
-    precioDesde: 2300,
+    precioDesde: null, // no se comercializa en España; sin tarifa oficial localizada (verificado 20/10/2026)
     potenciaKw: 8.7,
     potenciaCv: 11.8,
     autonomiaKm: null,
@@ -712,7 +716,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Naked de 150 cc con 6 marchas por ~2.300 € al cambio",
       "Solo 142 kg: muy ágil en ciudad",
@@ -721,6 +725,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
       "Consumo muy contenido",
     ],
     contras: [
+      "Sin precio oficial en España: no se comercializa aquí",
       "No se comercializa en España: solo Latinoamérica y Asia",
       "11,8 CV: justa para carretera",
       "Sin ABS (según mercados)",
@@ -851,7 +856,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     version: "KPF 150",
     cilindradaCc: 149,
     categoria: "Urbana",
-    precioDesde: 1750,
+    precioDesde: null, // no se comercializa en España; sin tarifa oficial localizada (verificado 20/10/2026)
     potenciaKw: 8.5,
     potenciaCv: 11.5,
     autonomiaKm: null,
@@ -864,7 +869,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Urbana de 150 cc por ~1.750 € al cambio: precio imbatible",
       "Solo 134 kg y 110 km/h de máxima",
@@ -873,6 +878,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
       "Ideal como primera moto o para repartidores",
     ],
     contras: [
+      "Sin precio oficial en España: no se comercializa aquí",
       "No se comercializa en España",
       "11,5 CV con refrigeración por aire: justa en cuestas",
       "Acabados básicos",
@@ -927,7 +933,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     version: "SRK 921RR",
     cilindradaCc: 921,
     categoria: "Deportiva",
-    precioDesde: 9000,
+    precioDesde: 9300, // 69.999 CNY (tarifa oficial China) ÷ 7,50 (BCE 19/10/2026), redondeado a la centena
     potenciaKw: 95,
     potenciaCv: 129.2,
     autonomiaKm: null,
@@ -949,6 +955,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
       "Precio orientativo de ~9.000 € en Europa: la deportiva grande más barata",
     ],
     contras: [
+      "Precio orientativo convertido desde la tarifa oficial china (69.999 CNY): sin PVP español",
       "Distribución europea aún limitada",
       "215 kg: pesada para una deportiva",
       "Consumo elevado si se le exige",
@@ -1535,7 +1542,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     version: "K Light 250V",
     cilindradaCc: 248.9,
     categoria: "Custom",
-    precioDesde: 3200,
+    precioDesde: 2300, // 250.000 INR (tarifa oficial India) ÷ 106,559 (BCE 19/10/2026), redondeado a la centena
     potenciaKw: 13.3,
     potenciaCv: 18.1,
     autonomiaKm: null,
@@ -1557,6 +1564,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
       "Ideal para el A2 con carnet de coche",
     ],
     contras: [
+      "Precio orientativo convertido desde la tarifa oficial india (250.000 INR): no se vende en España",
       "No se comercializa en España actualmente",
       "18,1 CV: prestaciones modestas",
       "Peso no declarado oficialmente",
