@@ -1746,3 +1746,27 @@ Pendientes documentados: mezcla de datos 2024/2025 en hongqi-hs3-phev-2025 (pros
 **Nulos honestos (7):** chery-tiggo-4-pro-15t-2026 (modelo de exportación, sin 指导价 en China); mclaren-788hs-2026 (existe — Goodwood 9/7/2026, 200 uds. — McLaren no publica precio); mclaren-artura-1000gp-2026 (existe — MSO 10 uds. — sin precio oficial); mclaren-750s-mcl38-celebration-2025 (existe — 9+9 uds. — sin precio oficial); mercedes-benz-amg-g-63 (sin tarifa pública); mitsubishi-asx-100t-2025 (descatalogada oct-2025, sustituida por 120T); nissan-primastar-combi-dci170-2026 (Nissan no publica tarifa). Todos con contra explicativa.
 
 **Pendientes/caveats:** pros congelados citan precios antiguos (grandis, asx-100t/120t, nevo-a06/q05, nio-et9 697 CV) — compensados con contras del dato oficial vigente; los pros no se tocan por regla. geely-atlas-2025 usó el gemelo chino 博越L 2.0T (218 CV) porque «Atlas» no existe como tal en China. mg7-2025 usó el 指导价 2026款 vigente (sin dato 2025 publicado). ora-03-gt: sin tarifa ES verificable (gwm-motor.es requiere navegador en vivo) → fallback honesto chino 12.900 €. nevo-q05 describe la versión EV de 405 km descatalogada en oct-2026; el precio es el 指导价 oficial vigente de la gama. eclipse-cross-ev-lfp: potencia 218 CV (160 kW) del comunicado oficial Mitsubishi Motors Europe vía prensa especializada (mejor fuente oficial disponible). noble-m500: 150.000 GBP → 178.100 € (0,8421). mclaren-gt: última tarifa oficial publicada 167.560 GBP → 199.000 € (el GT fue sustituido por el GTS; no hubo tarifa «2024»). Tipos BCE 19/10/2026: 1 € ≈ 7,50 CNY / 1,1225 USD / 0,8421 GBP.
+
+---
+
+## @grok lote listo fichas geo 16
+
+**Rama:** `merlin-fichas-geo-16` @ `0101983ee0d95b78b425f232d9f728cb923325b6` (verificado contra API por el watcher; compare vs main `16a6aea48`: ahead 6 / behind 0; 6 ficheros modificados, 0 eliminados; fast-forward, sin force; main intacto).
+
+**Tanda 16 (filas CSV 751-800):** 49 slugs únicos (tesla-roadster con 2 problemas: sin_precio + potenciaCv). 6 commits en español (c2: chinos; c3: europeos A/B en 2 commits; c4+c5; c6; nuevos.ts).
+
+**Resultados:** 36 corregidas con fuente aplicada · 13 nulos honestos (sin tarifa oficial verificable) · 1 verificada sin cambio (tesla-cybertruck: sin comercialización oficial ES, ya honesto).
+
+**Desvío justificado del brief (AG1):** el Denza D9 DM-i (78.500 €) y el Denza Z9 GT (115.000 €) **sí se venden oficialmente en España** — se confirmaron como tarifa oficial ES y salieron de `aprox`; aplicar la conversión china habría sido falso. Fuentes: motoraldia7.com/noticia/denza-llega-a-espana, coches.net/noticias/denza-llega-a-europa.
+
+**QA:** merge_t16.py --check OK (cada AG tocó solo sus registros y solo campos tocables: contras/precioDesde/potenciaCv/autonomiaKm/aprox; campo `precio` nunca tocado; ningún registro añadido/eliminado); 48 slugs cambiados, 1 sin cambio; sintaxis real con type-stripping Node 24 (6 .ts fusionados importados); balance llaves/paréntesis/corchetes OK; orden de registros intacto.
+
+**Correcciones con fuente (muestra):** nio-el8 66.400 € aprox (498.000 CNY 指导价, xcar.com.cn/laifimes); denza-n7 34.600 € aprox (259.800 CNY, autohome); aito-m7 37.300 € aprox (279.800 CNY, cheshi 23/09/2025); denza-z9-dm 44.600 € aprox (334.800 CNY, autohome); leapmotor-b01 12.000 € aprox (89.800 CNY, autohome); xiaomi-yu7 33.800 € aprox (253.500 CNY 指导价 26/06/2025, cnevpost/electrive); li-auto-l6 33.300 € aprox (249.800 CNY 指导价 16/07/2026, cnevpost); id-3-neo 35.800 € ES + 417 km (formula1rd citando VW); captur 21.690 € ES (prensa.renault.es); megane-e-tech 37.685 € ES + 500 km; espace 44.685 € ES configurador; 3008 34.630 € ES + 145 CV; e-3008 42.650 € ES + 213 CV/526 km; 408 31.720 € ES + 145 CV; c3 15.240 € ES; c5-x 40.648 €; grandland 32.900 € ES (media.stellantis.com); corsa 19.535 € ES (ofertas.opel.es); león 27.822 € ES tarifa 07/05/2026; ibiza 18.690 € ES tarifa abril 2026; karoq 25.800 € ES; sandero 13.502 € ES + 100 CV; cx-5 35.200 € ES + 141 CV; mach-e 49.206 € aprox prensa; d-max 42.600 € ES; yoyo 12.990 € aprox; silence s04 l6e 9.870 € / l7e 11.680 € ES (mediahouse.silence.eco); invicta pocco 10.700 € ES / pony 11.596 € ES / spartan 44.902 € ES; countryman-d 40.134 € ES; glc-43 92.488 € ES (quadis.es); ix4 70.900 € aprox ref. Alemania.
+
+**Nulos honestos (13):** vw-tiguan (1.5 eTSI 150 CV no verificable); renault-kangoo (TCe 130 descatalogado de gama oficial); peugeot-2008 (PureTech 100 no verificable); peugeot-308 (prensa con partidas dispares 25.070–31.470 € según fecha); fiat-500x (fiat.es sin tarifa nueva; descatalogado); hyundai-i30-n (fin de producción europea feb-2024); tesla-model-x-plaid (124.990 € era stock histórico; fin de producción Q2 2026); moke-eléctrico (sin tarifa ES; UK desde 35.995 £); mobilize-bento (sin tarifa minorista ES; versión de flotas); invicta-spartan-ev resuelto a 44.902 € ES (no es nulo); morgan-supersport (sin tarifa ES; UK desde 102.000 £); tucson-2027 (presentado 01/10/2026, sin tarifa ES); tesla-roadster (presentado 15/10/2026, producción 2028 — null precio + null potenciaCv).
+
+**Preguntas abiertas:**
+1. **NIO EL8:** la ficha describe el ES8 de 2ª gen (653 CV) — se aplicó su 指导价 (66.400 €). Si debe ser el ES8 nuevo (2025), el precio sería ~51.000 € y habría que corregir potencia/autonomía (fuera del problema declarado).
+2. **AITO M7:** `versiones[].precio` (campo no tocable por regla de la tanda) conserva la conversión antigua (37.200/50.400 €) — corregir fuera de esta tanda si se quiere coherencia.
+
+Siguiente: tanda 17 (filas CSV 801+).
