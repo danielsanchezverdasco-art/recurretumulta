@@ -555,6 +555,7 @@ cupra-formentor-vz-265-2025-precio-ficha-tecnica
 cupra-formentor-vz-333-2025-precio-ficha-tecnica
 cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica
 cupra-leon-15-tsi-2025-precio-ficha-tecnica
+cupra-leon-20-tdi-2026-precio-compacto-diesel-deportivo
 cupra-leon-2025-precio-ficha-tecnica
 cupra-leon-ehybrid-204-2025-precio-ficha-tecnica
 cupra-leon-sportstourer-20-tdi-2026-precio-ficha-tecnica
@@ -1695,6 +1696,7 @@ mazda-3-20-e-skyactiv-x-sedan-2026-precio-ficha-tecnica
 mazda-3-25-e-skyactiv-g-5p-2026-precio-ficha-tecnica
 mazda-3-25-e-skyactiv-g-sedan-2026-precio-ficha-tecnica
 mazda-6e-2025-precio-ficha-tecnica
+mazda-6e-2027-precio-bateria-lfp
 mazda-6e-long-range-2025-precio-ficha-tecnica
 mazda-cx-30-20-e-skyactiv-x-2026-precio-ficha-tecnica
 mazda-cx-30-25-e-skyactiv-g-2025-precio-ficha-tecnica
@@ -1729,6 +1731,7 @@ mclaren-gts-2025-precio-ficha-tecnica
 mclaren-w1-2026-precio-ficha-tecnica
 me-ha-llegado-una-multa-de-la-dgt-pero-el-conductor-no-era-yo-quien-paga-como-identificarlo-y-plazos-para-evitar-multas-triplicadas
 mecatecno-dragonfly-e-2025-ficha-tecnica-precio
+mercedes-amg-cle-53-cabrio-2025-precio-descapotable
 mercedes-amg-gt-43-2026-precio-ficha-tecnica
 mercedes-benz-amg-a-35-2025-precio-ficha-tecnica
 mercedes-benz-amg-a-45-s-precio-ficha-tecnica
@@ -2447,6 +2450,7 @@ skoda-elroq-50-2026-precio-ficha-tecnica
 skoda-elroq-60-2026-precio-ficha-tecnica
 skoda-elroq-85-2025-precio-ficha-tecnica
 skoda-elroq-85-2026-precio-ficha-tecnica
+skoda-elroq-85x-2026-precio-suv-electrico-compacto
 skoda-elroq-electrico-precio-ficha-tecnica
 skoda-elroq-rs-2026-precio-ficha-tecnica
 skoda-enyaq-60-2026-precio-ficha-tecnica
@@ -2454,6 +2458,7 @@ skoda-enyaq-85-2026-precio-ficha-tecnica
 skoda-enyaq-85x-2025-precio-ficha-tecnica
 skoda-enyaq-coupe-60-2026-precio-ficha-tecnica
 skoda-enyaq-coupe-85-2026-precio-ficha-tecnica
+skoda-enyaq-coupe-85x-2026-precio-suv-coupe-electrico
 skoda-enyaq-coupe-rs-2026-precio-ficha-tecnica
 skoda-enyaq-rs-2026-precio-ficha-tecnica
 skoda-epiq-2026-precio-ficha-tecnica
@@ -2812,8 +2817,11 @@ voge-sr16-2025-ficha-tecnica-precio
 voge-sr4-max-2025-ficha-tecnica-precio
 volkswagen-amarok-2026-precio-ficha-tecnica
 volkswagen-caddy-2026-precio-ficha-tecnica
+volkswagen-caddy-ehybrid-2025-precio-hibrido-enchufable-7-plazas
+volkswagen-california-ehybrid-2026-precio-camper-hibrida
 volkswagen-california-t7-2026-precio-ficha-tecnica
 volkswagen-caravelle-t7-2026-precio-ficha-tecnica
+volkswagen-e-caravelle-2026-precio-furgoneta-electrica-9-plazas
 volkswagen-golf-15-etsi-2026-precio-ficha-tecnica
 volkswagen-golf-20-tdi-2026-precio-ficha-tecnica
 volkswagen-golf-2025-precio-ficha-tecnica
@@ -2831,6 +2839,7 @@ volkswagen-id-3-neo-2026-precio-ficha-tecnica
 volkswagen-id-7-tourer-pro-2025-precio-ficha-tecnica
 volkswagen-id-aura-t6-xpeng-china
 volkswagen-id-buzz-2026-precio-ficha-tecnica
+volkswagen-id-buzz-cargo-2025-precio-furgoneta-electrica-reparto
 volkswagen-id-polo-2026-precio-ficha-tecnica
 volkswagen-id-polo-electrico-precio-espana-2026
 volkswagen-id-polo-gti-electrico-2026-precio
@@ -2844,7 +2853,9 @@ volkswagen-id4-gtx-2026-precio-ficha-tecnica
 volkswagen-id5-2026-precio-ficha-tecnica
 volkswagen-id7-2026-precio-ficha-tecnica
 volkswagen-id7-gtx-2026-precio-ficha-tecnica
+volkswagen-id7-gtx-tourer-2026-precio-familiar-electrico-deportivo
 volkswagen-id7-tourer-2026-precio-ficha-tecnica
+volkswagen-multivan-ehybrid-2026-precio-monovolumen-7-plazas
 volkswagen-multivan-t7-2026-precio-ficha-tecnica
 volkswagen-passat-variant-20-tdi-2026-precio-ficha-tecnica
 volkswagen-passat-variant-20-tsi-2026-precio-ficha-tecnica

@@ -220,6 +220,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "cupra-formentor-vz-333-2025-precio-ficha-tecnica": () => import("../blog-posts-cupra-a.ts"),
     "cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica": () => import("../blog-posts-cupra-a.ts"),
     "cupra-leon-15-tsi-2025-precio-ficha-tecnica": () => import("../blog-posts-cupra-a.ts"),
+    "cupra-leon-20-tdi-2026-precio-compacto-diesel-deportivo": () => import("../blog-posts-repesca-t9.ts"),
     "cupra-leon-2025-precio-ficha-tecnica": () => import("../blog-posts-cupra-a.ts"),
     "cupra-leon-ehybrid-204-2025-precio-ficha-tecnica": () => import("../blog-posts-cupra-a.ts"),
     "cupra-leon-sportstourer-15-tsi-150-2026-precio-ficha-tecnica": () => import("../blog-posts-batch2b-4.ts"),
