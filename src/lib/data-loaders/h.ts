@@ -71,6 +71,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "honda-cb125r-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m7.ts"),
     "honda-cb125r-2026-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m3.ts"),
     "honda-cb300r-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m19.ts"),
+    "honda-cb300r-2025": () => import("../blog-posts-motos-niki-t14.ts"),
     "honda-cb300r-2026-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m3.ts"),
     "honda-cb500-hornet-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m19.ts"),
     "honda-cb500-hornet-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m1.ts"),
