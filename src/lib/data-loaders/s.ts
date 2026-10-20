@@ -273,6 +273,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "suzuki-v-strom-650-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m1.ts"),
     "suzuki-v-strom-650-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m7.ts"),
     "suzuki-v-strom-650xt-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m20.ts"),
+    "suzuki-v-strom-800-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t18.ts"),
     "suzuki-v-strom-800-2026-precio-ficha": () => import("../blog-posts-lote15.ts"),
     "suzuki-v-strom-800-tech-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m1.ts"),
     "suzuki-v-strom-800-tech-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m20.ts"),
