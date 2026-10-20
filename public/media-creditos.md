@@ -8234,3 +8234,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/zontes-125g1-2026-hunt1.webp | https://zontesvalencia.es/backend-images/product/360/xl/fd296e0d3c4932fd26e2bb404f0b629cfc1e18cf892ee7f762639949b11cd097/descarga-36.webp | Zontes Valencia (concesionario oficial Zontes) | desconocida |
 | /media/zontes-125g1-2026-hunt2.webp | https://zontesvalencia.es/backend-images/product/360/xl/2167bb2b9e0bdfe0c66f580c2572ce83a2058b61a002fd2f8c10cc8268c740a4/descarga-29.webp | Zontes Valencia (concesionario oficial Zontes) | desconocida |
 | /media/zontes-125g1-2026-hunt3.webp | https://zontesmotos.es/wp-content/uploads/2026/05/zontes-g1-125-verde-1.jpg | Zontes Motos España (importador oficial) | desconocida |
+| /media/avatr-12-2024-precio-ficha-tecnica-hunt1.webp | https://cnevpost.com/wp-content/uploads/2024/03/2024033012180768.jpg | Avatr (prensa oficial) vía CnEVPost | desconocida |
+| /media/avatr-12-2024-precio-ficha-tecnica-hunt2.webp | https://cnevpost.com/wp-content/uploads/2024/03/2024033012180690.jpg | Avatr (prensa oficial) vía CnEVPost | desconocida |
+| /media/avatr-12-2024-precio-ficha-tecnica-hunt3.webp | https://cnevpost.com/wp-content/uploads/2024/03/2024033012180930.jpg | Avatr (prensa oficial) vía CnEVPost | desconocida |
+| /media/maxus-edeliver-3-2025-precio-ficha-tecnica-hunt1.webp | https://i.bstr.es/espaciofurgo/2022/03/maxus-edeliver-8-1024x768.jpg | EspacioFurgo (prueba real) | desconocida |
+| /media/maxus-edeliver-3-2025-precio-ficha-tecnica-hunt2.webp | https://i.bstr.es/espaciofurgo/2022/03/maxus-edeliver-7-1024x768.jpg | EspacioFurgo (prueba real) | desconocida |
+| /media/maxus-edeliver-3-2025-precio-ficha-tecnica-hunt3.webp | https://i.bstr.es/espaciofurgo/2022/03/maxus-edeliver-5-1024x768.jpg | EspacioFurgo (prueba real) | desconocida |
+| /media/suzuki-v-strom-800-tech-2026-ficha-tecnica-precio-hunt1.webp | https://moto.suzuki.es/storage/images/cwfs2ntazmgozqlwe36afsjatlzzllku5mftdoeo.jpg | Suzuki España (web oficial) | desconocida |
+| /media/suzuki-v-strom-800-tech-2026-ficha-tecnica-precio-hunt2.webp | https://moto.suzuki.es/storage/images/302kh2cv5izpquohnqd2lwzrypp4mwgdp8qakos9.jpg | Suzuki España (web oficial) | desconocida |
+| /media/suzuki-v-strom-800-tech-2026-ficha-tecnica-precio-hunt3.webp | https://moto.suzuki.es/storage/images/uliodfvc4pai1bmdjfcenylluvn8hllxg3v8algv.jpg | Suzuki España (web oficial) | desconocida |
+| /media/zontes-350r-2026-hunt1.webp | https://zontes.com.ar/wp-content/uploads/2026/04/Zontes-argentina-350R-8.webp | Zontes Argentina (importador oficial) | desconocida |
+| /media/zontes-350r-2026-hunt2.webp | https://zontes.com.ar/wp-content/uploads/2026/04/Zontes-argentina-350R-9.webp | Zontes Argentina (importador oficial) | desconocida |
+| /media/zontes-350r-2026-hunt3.webp | http://motoringworld.in/wp-content/uploads/2022/09/Zontes-350R-Review-web3.jpg | Motoring World (prueba real) | desconocida |
