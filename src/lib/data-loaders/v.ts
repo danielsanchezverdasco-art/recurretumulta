@@ -2,9 +2,12 @@
 // Loaders de import() dinámico para slugs que empiezan por "v".
 export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
   blog: {
+    "velca-bora-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m39.ts"),
     "velca-calima-s-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m1.ts"),
     "velca-nude-eon-motos-electricas-espanolas": () => import("../blog-posts-motor-2026-j.ts"),
+    "velca-one-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m39.ts"),
     "velca-tramontana-s-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m1.ts"),
+    "velca-vortex-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m39.ts"),
     "velocidad-variable-ap7-ap2-limites-paneles": () => import("../blog-posts-octubre-2026.ts"),
     "vent-baja-125-2026-precio-ficha-tecnica": () => import("../blog-posts-lote10.ts"),
     "venucia-d60-ev-2025-precio-ficha-tecnica": () => import("../blog-posts-lote5.ts"),
@@ -45,6 +48,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "voge-525acx-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m9.ts"),
     "voge-525dsx-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m3.ts"),
     "voge-525dsx-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m23.ts"),
+    "voge-525r-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m39.ts"),
     "voge-525r-naked-a2-precio": () => import("../blog-posts-lote14.ts"),
     "voge-625dsx-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m9.ts"),
     "voge-625r-naked-64-cv-precio": () => import("../blog-posts-lote14.ts"),

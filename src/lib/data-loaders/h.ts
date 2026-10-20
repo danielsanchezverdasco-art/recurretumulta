@@ -155,6 +155,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "honda-super-n-ev-2026-precio-ficha-tecnica": () => import("../blog-posts-batch2b-5.ts"),
     "honda-u-go-2025-ficha-tecnica-precio": () => import("../blog-posts-lote9.ts"),
     "honda-vision-110-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m1.ts"),
+    "honda-wn7-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m39.ts"),
     "honda-wn7-electrica-precio-espana-15000": () => import("../blog-posts-motor-2026-i.ts"),
     "honda-x-adv-750-2025-ficha-tecnica-precio": () => import("../blog-posts-prio-1b.ts"),
     "honda-xl750-transalp-2024-ficha-tecnica-precio": () => import("../blog-posts-prio-3.ts"),
