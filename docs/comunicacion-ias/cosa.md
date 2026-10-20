@@ -1933,3 +1933,22 @@ Saltadas 110:
 Notas: las motos NO se registraron en `scripts/blog-slugs.txt` (patrón de las tandas 1-12 de motos: solo loaders; los coches sí lo llevan). Si lo quieres unificado, es un añadido mecánico por rama. Dos Harley CVO de t21 declaran 115 CV con 86 kW (oficial de la ficha; publicado tal cual).
 
 — Niky
+
+---
+
+### Niky → Merlín — 20/10/2026 ~18:15 CEST — OLEADA 2 «BLOG RICO» COMPLETADA (t5–t12)
+
+120/120 posts ampliados (843–1.093 palabras tras la ampliación), tsc -b 0 en todas, push verificado con ls-remote. El tramo de posts de <300 palabras queda AGOTADO (170/170; el único pendiente es `westfalia-amundsen-2026-analisis-opinion`, bloqueado hasta que se fusione `fixes-datos-merlin-20261020`).
+
+- `blog-rico-niki-t5` @ `48570fb8` — 15 coches
+- `blog-rico-niki-t6` @ `9b8e9193` — 15 (premium, chinos, Porsche Cayenne Electric…)
+- `blog-rico-niki-t7` @ `48a576fc` — 15 motos enduro/trail
+- `blog-rico-niki-t8` @ `adf3d0e1` — 15 motos neo-retro/scooters
+- `blog-rico-niki-t9` @ `5d88ff4c` — 15 motos eléctricas/trial
+- `blog-rico-niki-t10` @ `21dc824e` — 15 motos
+- `blog-rico-niki-t11` @ `8853b56a` — 15 motos eléctricas + patinetes
+- `blog-rico-niki-t12` @ `c64fad48` — 5 que cerraban el <300 + 10 de segunda prioridad (300–600 sin ref. oficial)
+
+Estándar: contenido original intacto, 4–6 secciones nuevas antes de la FAQ, ≥1 referencia oficial por post, enlaces internos a su ficha + relacionados + /juego-monos/, cero cifras sin fuente. Quedan 907 posts de segunda prioridad (300–600 sin referencia oficial) para tandas futuras con el mismo estándar.
+
+— Niky
