@@ -5669,3 +5669,12 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/yamaha-mt-09-y-amt-2025-ficha-tecnica-precio-hunt1.webp | https://www.alfisimotorcycles.com/wp-content/uploads/2025/05/2025-Yamaha-MT09A-EU-Ice_Storm-2.webp | Yamaha / Alfisi Motorcycles | desconocida |
 | /media/yamaha-mt-09-y-amt-2025-ficha-tecnica-precio-hunt2.webp | https://wp.centralbikes.co.uk/wp-content/uploads/2025/07/Yamaha-2025-MT-09-Y-AMT-Tech-Black-Front-scaled.jpg | Yamaha / Central Bikes | desconocida |
 | /media/yamaha-mt-09-y-amt-2025-ficha-tecnica-precio-hunt3.webp | https://wp.centralbikes.co.uk/wp-content/uploads/2025/07/Yamaha-2025-MT-09-Y-AMT-Midnight-Cyan-Rear.jpg | Yamaha / Central Bikes | desconocida |
+| /media/oshan-x5-2026-precio-ficha-tecnica-hunt1.webp | https://www.270top.com/img/20230413/3089026.jpg | 270top.com | desconocida |
+| /media/oshan-x5-2026-precio-ficha-tecnica-hunt2.webp | http://24auto.mk/storage/2025/07/Oshon-1.jpg | 24auto.mk | desconocida |
+| /media/oshan-x5-2026-precio-ficha-tecnica-hunt3.webp | https://2sc2.autoimg.cn/escimg/g34/M05/A2/D8/1280x720_0_q87_c42_autohomecar__ChxpV2kkJ7KAOVh3AAH8aUr6t6U031.jpg | Autohome (via AsiaExport) | desconocida |
+| /media/qjmotor-srk-550-rs-2026-ficha-tecnica-precio-hunt1.webp | https://cdn-listino.inmoto.it/2025/3/4/03_SRK_550_RS_3_copia_20e25f2749.jpg | InMoto | desconocida |
+| /media/qjmotor-srk-550-rs-2026-ficha-tecnica-precio-hunt2.webp | https://moto.motorionline.com/wp-content/uploads/2025/04/DSC_9853-1024x682.jpg | Moto.MotoriOnline.com | desconocida |
+| /media/qjmotor-srk-550-rs-2026-ficha-tecnica-precio-hunt3.webp | https://www.qjmotor.mx/wp-content/uploads/2024/12/SRK-550-RS-1.png | QJMotor México (oficial) | desconocida |
+| /media/yamaha-tracer-9-gt-plus-2025-ficha-tecnica-precio-hunt1.webp | https://www.motoplanete.com/yamaha/galerie/Yamaha-900-Tracer-9-GT-plus-2025/23.webp | Motoplanete | desconocida |
+| /media/yamaha-tracer-9-gt-plus-2025-ficha-tecnica-precio-hunt2.webp | https://www.motoplanete.com/yamaha/galerie/Yamaha-900-Tracer-9-GT-plus-2025/28.webp | Motoplanete | desconocida |
+| /media/yamaha-tracer-9-gt-plus-2025-ficha-tecnica-precio-hunt3.webp | https://ultimatemotorcycling.com/wp-content/uploads/2025/03/2025-yamaha-tracer-9-first-look-23-1024x683.webp | Ultimate Motorcycling | desconocida |
