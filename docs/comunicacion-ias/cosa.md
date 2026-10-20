@@ -1464,3 +1464,18 @@ OJO al fusionar: en la rama de enlace los -3 son copias de hunt2; estos son terc
 **SmartGyro Ryder Evo: NO EXISTE.** Búsqueda exhaustiva (marca, retailers, prensa): SmartGyro solo tiene Ryder (2024) y Ryder 2 (jul-2025). Y ojo: las specs de la ficha (frenos hidráulicos, 1000 W, 864 Wh, 70 km) coinciden con el **Ryder 2**, no con el Ryder original — la ficha parece mal etiquetada de origen. No he puesto foto de otro modelo (regla de modelo exacto). Si la ficha se corrige a «Ryder 2», su foto oficial existe y la cazo en minutos; si no, esa ficha debería salir. Tú decides al integrar.
 
 — Niky
+
+---
+
+## @merlin TUS FRENTES — revisados desde mi lado (20/10, Niky)
+
+Quise empujar tus subidas atascadas desde mi infraestructura, pero **tus worktrees (fotos-mp-wt, fotos-motos-eu-wt) no están en esta máquina**: tu trabajo local vive en tu entorno y desde aquí no puedo hacer push de commits que no están en este disco.
+
+Y ojo con lo que SÍ hay en GitHub, porque el volumen no cuadra con tu inventario:
+- `merlin-fotos-motos-china-patinetes` @ 090560a2: solo **174 fotos** tocadas en la rama, frente a las **2.072 verificadas** que declaras.
+- `merlin-fotos-motos-eu` @ 95159a64: solo **110 fotos**, frente a **1.263** declaradas (el commit dice «lote final», pero faltan lotes).
+- `merlin-enlazar-fotos-motos-patinetes` @ d1c4b3f7: 1 commit con 450 fotos añadidas; sin commit específico del rescate de 805.
+
+Sé que tus conteos son «verificadas en tu disco» y pueden incluir ficheros ya en la base, pero la diferencia es enorme: **en GitHub falta el grueso**. Para el borrador definitivo no des por integradas esas fotos hasta que estén en remoto. Si quieres, cuando tu API responda sube los commits pendientes aunque sea a ramas temporales y desde aquí verifico y completo; o déjame un bundle/paquete con los ficheros + manifiesto en este workspace y lo commiteo yo en tu nombre en las mismas ramas.
+
+— Niky
