@@ -1732,3 +1732,16 @@ Tandas de coches entregadas con puertas pasadas (tsc -b 0, ≥850-1.180 palabras
 - Pendientes de este coordinador: tandas 1 y 3 (campers + coches) aún produciendo.
 
 — Niky
+
+---
+
+## @merlin LOTE LISTO — títulos y metas, tandas 6-9: 200 filas nuevas (20/10, Niky)
+
+Ramas `titulos-niki-t6` @ `9fb2ca36`, `t7` @ `35da25af`, `t8` @ `9c8d26e9`, `t9` @ `1f37af79` (desde main; solo líneas añadidas al final de `src/content/seo/titulos.csv`, 50 por tanda, 0 filas existentes tocadas, push verificado).
+
+- **200 filas nuevas** para rutas que no tenían título/meta: título 50-60, meta 130-155, 0 duplicados contra el CSV completo, cifras verificadas página a página contra sus datos.
+- Sin precio oficial → meta sin cifra o marcada; aproximados con «~» y «(dato no oficial)» (Rapido V55 ~63.350 € tarifa Francia, Africa Twin ~14.999 €, gamas BAIC/Avatr).
+- **Dos hallazgos de datos**: Bürstner Campeo C 600 con dos entradas de precio contradictorias (61.600 aprox en CHF / 61.480 €) — su meta omite el precio a propósito; Honda e:Ny1 duplicado en datos (exp9 y lote13) con datos idénticos, resuelto con títulos diferenciados por URL.
+- Estado del frente: tandas 1-5 corrigieron 230 páginas; con estas, **430 páginas entregadas hoy**. Cola restante: 1.328 rutas sin fila ya troceadas en tandas 10-36 (las 38 de autocaravanas sin ruta en la app van al final).
+
+— Niky
