@@ -447,6 +447,42 @@ Frenos de disco y neumáticos anchos acordes a sus 70 km/h de máxima. El peso (
 
 <img src=/media/patinetes/nami-blast-3.webp alt=Nami Blast rodando por ciudad>
 
+## Nami: la ingeniería de Michael Sha aplicada al patinete extremo
+
+Nami es el proyecto del ingeniero Michael Sha, conocido por diseñar algunos de los patinetes de altas prestaciones más respetados del mercado, y su gama se presenta en la <a href=https://www.namielectric.com>web oficial de Nami Electric</a>. Si el Burn-e es su escaparate, el Blast es su puerta de entrada a la **tracción total**: dos motores de **1.000 W**, batería de **60 V y 28 Ah (1.680 Wh)** y **60 km declarados** por **2.299 €**. Es el Nami de doble motor más barato, y su planteamiento es el contrario al de un VMP urbano: chasis robusto, batalla larga y unos **46 kg** que dejan claro que no está pensado para subir escaleras.
+
+## La técnica: doble motor y 1.680 Wh con autonomía honesta
+
+| Dato | Nami Blast |
+|---|---|
+| Motores | Doble, 1.000 W + 1.000 W |
+| Batería | 60 V 28 Ah (1.680 Wh) |
+| Autonomía declarada | 60 km |
+| Autonomía real estimada | Unos 40 km |
+| Velocidad máxima | 70 km/h |
+| Peso | Unos 46 kg |
+| Precio | 2.299 € |
+
+La lectura que ya hace el post original es la correcta: el doble motor gasta, y los 60 km declarados se quedan en **unos 40 reales** en uso mixto. A cambio, la tracción total da una aceleración y una capacidad en cuesta que un monomotor de su precio no iguala, y la estabilidad a velocidad es la seña de la casa gracias al peso y a la batalla. Los frenos de disco y los neumáticos anchos están dimensionados para sus 70 km/h, una cifra que en España solo tiene sentido fuera de la vía pública, como se explica en el apartado de normativa.
+
+## Uso real: máquina de fin de semana, no de última milla
+
+El Blast es un patinete para disfrutar en entornos permitidos y para usuarios que aceptan su logística: 46 kg no se meten en un maletero pequeño ni se suben a un tercero sin ascensor. Como transporte diario legal tiene el límite de los 25 km/h y, limitado, sigue pesando 46 kg: la peor combinación posible para intermodalidad. Su sitio es el del aficionado que quiere prestaciones de doble motor sin pagar el Burn-e. Compáralo en el <a href=/comparador-patinetes/>comparador de patinetes</a> y ameniza las paradas con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+## Mantenimiento y costes: batería grande, red pequeña
+
+Nami no publica tarifas de mantenimiento aplicables en España, y no las inventamos. Lo verificable en un doble motor de esta clase es el gasto en neumáticos y frenos acorde a su peso y velocidad, el cuidado de una batería de **1.680 Wh** (su recambio sería la partida mayor de su vida útil) y la dependencia de importadores y talleres especializados, que el propio análisis señala como red limitada. Antes de comprar, confirma quién te venderá recambios de controlador, motor y batería en España: en este segmento, ese dato vale más que 100 € de descuento.
+
+## Normativa: sin homologación DGT, 70 km/h solo fuera de la vía pública
+
+El Blast **no está homologado por la DGT** como VMP, y el post original lo dice sin rodeos: en España solo puede plantearse **limitado a 25 km/h**, sin circular por aceras y por las vías permitidas a los VMP según la normativa de la <a href=https://www.dgt.es>DGT</a>. Sus 70 km/h son para circuito o espacio privado. Un patinete sin la certificación VMP exigida a los modelos nuevos puede además tener problemas para acreditar su legalidad en un control, un riesgo que el comprador debe asumir con toda la información antes de pagar 2.299 €.
+
+## Frente al Nami Blast Max y al Burn-e 3 Max: veredicto
+
+Sus hermanos tienen ficha en esta casa y marcan el escalón siguiente: el <a href=/patinetes/nami-blast-max/>Nami Blast Max</a> sube a 3.000 W nominales con 8.400 W de pico, batería de 2.400 Wh, 100 km declarados (67 reales) y 80 km/h, con 45 kg. El <a href=/patinetes/nami-burn-e-3-max/>Nami Burn-e 3 Max</a> cuesta 4.449 € con la misma potencia de pico, 2.880 Wh, 135 km declarados (90 reales) y 105 km/h. El Blast base conserva lo esencial (doble motor y chasis Nami) por bastante menos dinero que ambos.
+
+**¿Merece la pena?** Como entrada a los patinetes de tracción total de autor, el Blast es el Nami con más sentido por euro. **Para quién sí:** para el aficionado que busque doble motor y estabilidad, con espacio privado donde explotarlo y garaje a pie de calle. **Para quién no:** para quien necesite un VMP legal, ligero y certificable para el día a día: eso es otra categoría de producto.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Nami Blast?
@@ -466,7 +502,7 @@ Unos **46 kg**: no apto para subir por escaleras.
 
 ¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: <a href=https://bikescootercity.com.au/products/nami-klima-electric-scooter>distribuidores europeos de Nami Electric</a>.*`,
+*Fuentes: <a href=https://bikescootercity.com.au/products/nami-klima-electric-scooter>distribuidores europeos de Nami Electric</a>., <a href=https://www.namielectric.com>Nami Electric (web oficial)</a>, <a href=https://www.dgt.es>DGT (normativa VMP)</a>*`,
   },
   {
     slug: "nami-blast-max",

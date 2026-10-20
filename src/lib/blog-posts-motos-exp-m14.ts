@@ -738,6 +738,44 @@ Sin aceite ni filtros: neumáticos, frenos, transmisión y software. La garantí
 
 Can-Am no publica precio oficial en España (en EE. UU. parte de 13.999 $). Sus rivales son la <a href=/motos/can-am-pulse-2024-ficha-tecnica-precio/>Can-Am Pulse 2024</a>, la <a href=/motos/can-am-origin-2024-ficha-tecnica-precio/>Can-Am Origin 2024</a> y las naked A2 de gasolina.
 
+## BRP y el regreso de Can-Am: 40 años después, en silencio
+
+Can-Am nació en los años setenta dentro del grupo canadiense Bombardier y desapareció de las motos durante cuatro décadas, hasta que BRP decidió resucitarla como marca eléctrica. La gama se presenta en la <a href=https://can-am.brp.com/on-road/2025/can-am-pulse.html>web oficial de Can-Am</a>, donde la Pulse es la naked urbana del dúo que completa la trail Origin. Su planteamiento no es el de un scooter eléctrico más: es una motocicleta de verdad, con motor Rotax E-Power de refrigeración líquida, batería estructural de **8,9 kWh** y una pantalla táctil de **10,25 pulgadas con Apple CarPlay** que no tiene ningún rival de su segmento.
+
+## La técnica: 47 CV, 72 Nm y batería que forma parte del chasis
+
+| Dato | Can-Am Pulse 2025 |
+|---|---|
+| Potencia | 35 kW (47 CV); versión 11 kW para A1 |
+| Par | 72 Nm |
+| Batería | 8,9 kWh, refrigeración líquida, estructural |
+| Autonomía urbana declarada | 160 km |
+| 0-100 km/h | 3,8 s |
+| Velocidad máxima | 129 km/h |
+| Peso | 177 kg |
+| Carga | Nivel 1 y 2 a 6,6 kW: 20-80 % en 50 min (Nivel 2) |
+| Carnet | A2 (versión 11 kW: A1) |
+
+El 0-100 en **3,8 s** la pone en territorio de naked media de gasolina, y los 72 Nm están disponibles desde cero, como en toda eléctrica. La batería estructural (forma parte del chasis) y la refrigeración líquida son soluciones de moto grande aplicadas a una A2. La contrapartida es conocida: **sin carga rápida de Nivel 3**, sus viajes se limitan a lo que dé la batería, porque una parada de carga en Nivel 2 no es un repostaje. Los modos Normal, Eco, Rain y Sport+, la marcha atrás y la frenada regenerativa completan un equipamiento impropio de su categoría.
+
+## Uso real: ciudadana brillante, viajera limitada
+
+La Pulse es una moto de ciudad y corona metropolitana excelente: silenciosa, fulgurante en semáforos y con autonomía urbana declarada de 160 km que en uso real dará para varios días de trayectos. Fuera de ahí, la velocidad máxima de 129 km/h permite autovía, pero el consumo a ritmo alto y la ausencia de carga rápida cierran la puerta a las rutas largas. Es, en resumen, una segunda moto perfecta o una primera moto urbana con aspiraciones. Compárala en el <a href=/comparador-motos/>comparador de motos</a> y ameniza las cargas con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+## Mantenimiento y garantía: 5 años de batería que dan tranquilidad
+
+El propio post recoge los datos verificables: sin aceite ni filtros de motor, el mantenimiento se reduce a neumáticos, frenos, transmisión y software, y la garantía es de **2 años en el vehículo y 5 años o 50.000 km en la batería**. BRP no ha publicado precio oficial de la Pulse en España (en EE. UU. parte de 13.999 $) ni tarifas de revisión españolas, y no las inventamos. La red BRP en España existe por sus otros productos (quads, motos de agua, nieve), un respaldo más sólido que el de muchas marcas eléctricas nuevas, aunque conviene confirmar el concesionario con servicio de motos On-Road más cercano.
+
+## Normativa: A2, versión A1 y etiqueta Cero
+
+La Pulse de 35 kW exige el **carnet A2**, y existe una versión de **11 kW accesible con el A1** o con el B con tres años, la puerta de entrada para quien venga del coche. Como motocicleta eléctrica lleva **etiqueta Cero**, con libre acceso a las ZBE. Su ITV seguirá el calendario de las motocicletas una vez matriculada en España, mercado donde su comercialización depende del despliegue de la red On-Road de BRP: antes de reservar, confirma plazos y servicio con un concesionario oficial.
+
+## Frente a la Can-Am Origin: veredicto
+
+Su hermana tiene ficha en esta casa y comparte toda la base técnica: la <a href=/motos/can-am-origin-2025-ficha-tecnica-precio/>Can-Am Origin</a> ofrece los mismos 47 CV y 72 Nm, la misma batería de 8,9 kWh y la misma carga en 50 minutos, pero en formato trail con suspensiones KYB de 255 mm de recorrido, 145 km de autonomía declarada y 187 kg. La Pulse gana en peso, en agilidad urbana y en ese 0-100 de 3,8 s; la Origin gana si tus trayectos incluyen pistas.
+
+**¿Merece la pena?** Es la naked eléctrica A2 más tecnológica del mercado y una declaración de intenciones seria de BRP. **Para quién sí:** para el urbanita que quiera una moto eléctrica de verdad, con prestaciones y equipamiento de segmento superior. **Para quién no:** para quien viaje lejos con la moto o necesite precio cerrado y red consolidada en España hoy mismo.
+
 ## Preguntas frecuentes
 
 ### ¿Qué carnet necesito para la Can-Am Pulse?

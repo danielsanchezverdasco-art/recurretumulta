@@ -2760,6 +2760,43 @@ Egret no detalla el sistema de frenado del Ey! 3 en las fichas de distribuidor. 
 
 <img src=/media/patinetes/egret-ey-3-3.webp alt=Egret Ey! 3 en una zona peatonal>
 
+## Egret y Walberg: patinetes alemanes desde 2012
+
+Egret es la marca de Walberg Urban Electrics, empresa de Hamburgo que lleva desde 2012 desarrollando patinetes eléctricos y cuya gama actual se presenta en su <a href=https://www.my-egret.com>web oficial</a>. Su fundador ha participado en los grupos europeos que definieron la regulación de los vehículos eléctricos ligeros, y esa obsesión normativa se nota en la familia Ey!: modelos pensados para homologarse en Alemania y Suiza a 20 km/h, no aparatos de potencia desbocada. El Ey! 3 es el pequeño de la casa: **350 W, 275 Wh y 18,6 kg**, el Egret para quien prioriza llevarlo en la mano frente a llegar más lejos.
+
+## La técnica: 275 Wh honestos para trayectos cortos
+
+| Dato | Egret Ey! 3 |
+|---|---|
+| Motor | 350 W |
+| Batería | 36 V 7,65 Ah (275 Wh) |
+| Autonomía declarada | 30 km |
+| Autonomía real estimada | Unos 20 km |
+| Velocidad máxima | 20 km/h |
+| Peso | 18,6 kg |
+| Tiempo de carga | 5,5 h |
+| Ruedas | 10 pulgadas |
+
+La lectura honesta de la batería es la que ya hace el post original: con **275 Wh** no hay milagro posible, y los 30 km declarados se quedan en unos 20 reales. A cambio, el conjunto pesa **18,6 kg**, es plegable y se carga en 5,5 horas en cualquier enchufe. Es un patinete de última milla en estado puro: tren o coche hasta la ciudad, y el Ey! 3 para los últimos kilómetros llanos. En cuestas fuertes, los 350 W se quedan justos, como reconoce el propio análisis en sus contras.
+
+## Uso real: el de subir escaleras sin odiarlo
+
+El Ey! 3 tiene sentido para quien combina transporte público y patinete a diario y necesita subirlo a un piso o a una oficina: ahí cada kilo cuenta, y 18,6 kg con plegado compacto es una cifra asumible. No tiene sentido para trayectos largos, para usuarios pesados en zonas con cuestas o para quien necesite llegar a 25 km/h con holgura, porque su homologación de origen es de 20 km/h. Su servicio posventa europeo es, eso sí, un argumento frente a marcas sin red. Compáralo en el <a href=/comparador-patinetes/>comparador de patinetes</a> y ameniza el trayecto con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+## Mantenimiento y costes: poco que mantener, batería que cuidar
+
+Egret no publica tarifas de mantenimiento del Ey! 3 aplicables en España, y no las inventamos. Lo verificable en un patinete de esta clase es un gasto reducido a neumáticos de 10 pulgadas, frenos y el cuidado de la batería de 275 Wh: cargarla sin dejarla descargada durante semanas y guardarla en lugar seco alarga su vida más que cualquier revisión. La ventaja de una marca europea establecida es la disponibilidad de recambios y servicio frente a importaciones sin respaldo, el factor que conviene confirmar con el vendedor antes de pagar.
+
+## Normativa: VMP en España, homologación alemana y suiza
+
+En España, el Ey! 3 circula como **vehículo de movilidad personal**: máximo **25 km/h**, prohibido circular por aceras y con la certificación VMP que exige la normativa de la <a href=https://www.dgt.es>DGT</a> para los patinetes nuevos. Su homologación alemana y suiza a 20 km/h juega a su favor en orden y seguridad, pero no sustituye a la certificación española: antes de comprarlo importado conviene verificar que la unidad concreta cumple los requisitos para circular aquí sin sanción.
+
+## Frente al Egret Ey! 7 y al Xiaomi Electric Scooter 4 Pro: veredicto
+
+Dentro de la casa, el <a href=/patinetes/egret-ey-7/>Egret Ey! 7</a> figura en esta web por 449 € como el Egret más barato, con motor Bosch y ruedas tubeless de 10 pulgadas. Fuera, el <a href=/patinetes/xiaomi-electric-scooter-4-pro/>Xiaomi Electric Scooter 4 Pro</a> cuesta 799 € según su ficha, con 446 Wh, 55 km declarados (38 reales), 17 kg y certificado DGT. El Xiaomi gana en autonomía y en papeleo español; el Ey! 3 gana en ligereza y en el respaldo de una marca europea especializada.
+
+**¿Merece la pena?** Como patinete ligero de última milla de marca europea, el Ey! 3 cumple exactamente lo que promete, ni más ni menos. **Para quién sí:** para quien recorra menos de 20 km al día por terreno llano y lo suba a pulso a diario. **Para quién no:** para quien necesite autonomía, cuestas o certificación DGT garantizada de origen: ahí el Xiaomi o el propio Ey! 7 encajan mejor.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto pesa el Egret Ey! 3?
@@ -2782,7 +2819,7 @@ Para quien quiere un Egret ligero y no necesita más de 20 km al día.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://www.digitec.ch/en/s1/product/egret-ey-3-e-scooter-20-kmh-30-km-350-w-e-scooters-standing-47502041>ficha del Ey! 3 en Digitec</a>.*`,
+*Fuentes: <a href=https://www.digitec.ch/en/s1/product/egret-ey-3-e-scooter-20-kmh-30-km-350-w-e-scooters-standing-47502041>ficha del Ey! 3 en Digitec</a>., <a href=https://www.my-egret.com>Egret / Walberg Urban Electrics (web oficial)</a>, <a href=https://www.dgt.es>DGT (normativa VMP)</a>*`,
   },
   {
     slug: "egret-ey-6",
