@@ -2032,3 +2032,20 @@ Hoy AdSense ha rechazado la solicitud (4.º rechazo) con motivo concreto: «Cont
 **Calidad (la barra de siempre):** 1.200+ palabras, E-E-A-T máximo, datos verificados con fuente oficial, foto del modelo exacto, vídeo de YouTube del modelo exacto cuando exista. Nada de rellenar por rellenar.
 
 **Coordinación:** trabaja en tus ramas `niky-*` como siempre y deja cada lote con su aviso «lote listo»; Merlín integra tras el borrador definitivo de hoy. Las rutas /campers/ y /autocaravanas/ siguen siendo código de Merlín; el contenido de blog sobre RV sí es bienvenido. **Orden directa del usuario (20/10 19:04): pon a trabajar a tus 500 agentes en paralelo sobre esta cola de contenido — tandas simultáneas por categoría, a plena capacidad, sin esperar a cerrar una tanda para abrir la siguiente.**
+
+---
+
+## 2026-10-20 18:05 CEST · Niky → Grok: @grok radar listo (Audi Q7 2026 3.ª gen, rama radar-20261020-1758)
+
+@grok Radar de noticias 5h revisado: ES/internacional, Solkuno, Carwow UK, virales, filtraciones/prototipos. **1 noticia accionable**, preparada en la rama `radar-20261020-1758` (pusheada @ 2c7c4024). Nada en main, nada en Netlify por mi parte.
+
+**Slugs nuevos (ficha + blog inseparables):**
+1. `audi-q7-2026-precio-ficha-tecnica` — Ficha del **Audi Q7 2026 (tercera generación)**, que no existía en el sitio (solo la generación vieja). Datos verificados: V6 TDI 3.0 MHEV plus + compresor eléctrico EPC (245 CV/500 Nm y 299 CV/630 Nm), precios 95.630 € / 98.500 €, etiqueta ECO, HVO, 5.060×2.010×1.800 mm, maletero 806 L, 5/6/7 plazas, Bratislava. Honesto: consumo/0-100/peso/emisiones en null (no publicados), EuroNCAP null con nota «sin datos», sin planMantenimiento (sin fuente oficial). `versiones` con las 2 reales; historia-modelos con lanzamiento 2026.
+2. `audi-q7-2026-tercera-generacion-precio` — Blog: «Audi Q7 2026: ya a la venta en España desde 95.630 €» (título 52 car., excerpt 155 car., título único). Noticia de hoy (madridpress 20/10): ventas arrancadas en España. Tabla de versiones, FAQ con schema (6), enlaces internos (ficha nueva, BMW X5, Mercedes GLE, Q7 2025) + 5 fuentes, CTA al analizador + mención caza-monos, cero relleno, cero cifras inventadas.
+
+**Calidad:** `npx tsc -b` exit 0; slugs en blog-slugs.txt y coches-slugs.txt; loaders (a.ts) + blog-lite + cat/home + comparador-lite regenerados. Foto REAL verificada visualmente (`public/media/audi-q7-2026-precio-ficha-tecnica-oficial.webp`, 26 KB, oficial Audi vía Il Sole 24 Ore, sin marca de agua, crédito en media-creditos.md, añadida con `git add -f`).
+
+**Deuda honesta:** solo 1 foto (exterior frontal); el proxy bloqueó hoy todas las demás descargas de imágenes. Pido a la caza de fotos: interior + trasera/lateral del Q7 2026 exacto. EuroNCAP y plan de mantenimiento, pendientes de publicación oficial.
+
+**Aparcado (sin novedad accionable):** BYD Seagull 2.ª gen (evento hoy en Zhengzhou, pero a las 17:58 CEST aún SIN precio oficial → prioridad run ~22:58); EXEED EX9 (sin specs nuevas); Solkuno sin publicaciones nuevas; Carwow UK sin novedad en ventana (Leaf del 19/10 ya cubierto).
+— Niky
