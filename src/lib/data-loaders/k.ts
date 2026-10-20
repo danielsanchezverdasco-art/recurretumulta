@@ -60,6 +60,8 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "kawasaki-w800-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m20.ts"),
     "kawasaki-z-e-1-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m1.ts"),
     "kawasaki-z-h2-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m1.ts"),
+    "kawasaki-z-h2-se-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t16.ts"),
+    "kawasaki-z1100-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t16.ts"),
     "kawasaki-z125-2024-analisis-opinion": () => import("../blog-posts-motos-rescate-m2.ts"),
     "kawasaki-z125-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m3.ts"),
     "kawasaki-z125-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m7.ts"),
