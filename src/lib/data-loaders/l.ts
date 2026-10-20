@@ -2,7 +2,9 @@
 // Loaders de import() dinámico para slugs que empiezan por "l".
 export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
   blog: {
+    "la-strada-regent-s-2026-analisis-opinion": () => import("../blog-posts-campers-tanda1.ts"),
     "laika-ecovip-600-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin2.ts"),
+    "laika-ecovip-performance-600-2026-precio-ficha-tecnica-analisis-opinion": () => import("../blog-posts-campers-tanda1.ts"),
     "lamborghini-countach-lpi-800-4-2024-precio-ficha-tecnica": () => import("../blog-posts-lamborghini-a.ts"),
     "lamborghini-fenomeno-2025-precio-ficha-tecnica": () => import("../blog-posts-lamborghini-a.ts"),
     "lamborghini-fenomeno-roadster-2026-precio-ficha-tecnica": () => import("../blog-posts-lamborghini-a.ts"),

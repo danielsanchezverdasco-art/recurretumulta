@@ -12,6 +12,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "westfalia-columbus-600d-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin2.ts"),
     "westfalia-kepler-2026-analisis-opinion": () => import("../blog-posts-campers-niky.ts"),
     "westfalia-sven-hedin-2026-analisis-opinion": () => import("../blog-posts-campers-niky.ts"),
+    "westfalia-sven-hedin-man-tge-2026-analisis-opinion": () => import("../blog-posts-campers-tanda1.ts"),
     "wey-03-2024-precio-ficha-tecnica": () => import("../blog-posts-wey-a.ts"),
     "wey-05-2024-precio-ficha-tecnica": () => import("../blog-posts-wey-a.ts"),
     "wey-07-2024-precio-ficha-tecnica": () => import("../blog-posts-wey-a.ts"),

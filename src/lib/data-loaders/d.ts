@@ -48,6 +48,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "dacia-spring-electric-65-2024-precio-ficha-tecnica": () => import("../blog-posts-dacia-a.ts"),
     "dacia-spring-extreme-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp13.ts"),
     "dacia-striker-2026-precio-ficha": () => import("../blog-posts-motor-2026-l.ts"),
+    "dacia-striker-hybrid-155-2026-precio-ficha-tecnica": () => import("../blog-posts-dacia-a.ts"),
     "dacia-tribrid-150-4x4-tres-energias": () => import("../blog-posts-flash-2026.ts"),
     "daihatsu-copen-2025-precio-opiniones": () => import("../blog-posts-prioridad-20261014.ts"),
     "dallara-stradale-2025-precio-ficha-tecnica": () => import("../blog-posts-lote4.ts"),

@@ -204,6 +204,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "subaru-uncharted-field-2026-precio-ficha-tecnica": () => import("../blog-posts-subaru-a.ts"),
     "subaru-uncharted-touring-2026-precio-ficha-tecnica": () => import("../blog-posts-subaru-a.ts"),
     "sunlight-a-70-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin1.ts"),
+    "sunlight-cliff-600-2026-precio-ficha-tecnica-analisis-opinion": () => import("../blog-posts-campers-tanda1.ts"),
     "sunlight-cliff-640-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin2.ts"),
     "sunlight-t-68-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin1.ts"),
     "sunra-anger-125e-2025-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m1.ts"),
