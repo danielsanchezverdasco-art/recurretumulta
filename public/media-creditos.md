@@ -7393,3 +7393,12 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/quazzar-e-divine-2025-ficha-tecnica-precio-hunt1.webp | https://www.mevmobility.pt/wp-content/uploads/2025/05/scooter-electrico-125-e-divine-quazzartech-TRES-CUARTOS-scaled-1.webp | MEV Mobility (distribuidor oficial Quazzartech en Portugal) / Quazzartech | desconocida |
 | /media/quazzar-e-divine-2025-ficha-tecnica-precio-hunt2.webp | https://www.mevmobility.pt/wp-content/uploads/2025/05/moto-electrica-adulto-quazzartech-edivine-sin-fondo-1.webp | MEV Mobility (distribuidor oficial Quazzartech en Portugal) / Quazzartech | desconocida |
 | /media/quazzar-e-divine-2025-ficha-tecnica-precio-hunt3.webp | https://motoselectricasbuzz.com/wp-content/uploads/2023/07/e-divine-negro.jpg?x71065 | Motos Eléctricas Buzz / Quazzartech | desconocida |
+| /media/mg-4-2025-precio-ficha-tecnica-hunt1.webp | https://www.autocritica.ro/wp-content/uploads/2024/02/mg-mg4-top-mobil-2048x2048.jpg | Autocritica.ro | desconocida |
+| /media/mg-4-2025-precio-ficha-tecnica-hunt2.webp | https://www.topspeed.sk/userfiles/articles/15-05/23180/gallery/crop_1280_865_mg4_ev_11.jpg | MG prensa / TopSpeed.sk | desconocida |
+| /media/mg-4-2025-precio-ficha-tecnica-hunt3.webp | https://mgmotor.com.ua/source/mg4-int1.jpg | MG Motor Ucrania (oficial) | desconocida |
+| /media/honda-sh-mode-125-2025-ficha-tecnica-precio-hunt1.webp | https://www.nextmoto.it/wp-content/uploads/2025/02/Honda-SH-Mode-125-Honda-12022025-nextmoto.it_.jpg | Honda / Nextmoto.it | desconocida |
+| /media/honda-sh-mode-125-2025-ficha-tecnica-precio-hunt2.webp | https://www.laguna.co.uk/i/15280/shmode125-a.jpg?r=6364 | Laguna Motorcycles (concesionario Honda UK) | desconocida |
+| /media/honda-sh-mode-125-2025-ficha-tecnica-precio-hunt3.webp | https://autocdn.co.uk/cdn-cgi/imagedelivery/JC4X6oe6GKVO4ZI4xd1Czg/fd7edf2c-0520-4210-36ea-5736c10e3700/raw | Newcastle Motorcycles (concesionario Honda UK) | desconocida |
+| /media/zeeho-ae6-plus-2025-ficha-tecnica-precio-hunt1.webp | https://www.go2roues.com/wp-content/uploads/2024/10/zeeho-ae6-s-plus-noir-jaune-cote-droit-1.png | Go2Roues (distribuidor Zeeho) | desconocida |
+| /media/zeeho-ae6-plus-2025-ficha-tecnica-precio-hunt2.webp | https://blog.meromoto.com/wp-content/uploads/2024/04/Zeeho-AE6-Plus-2-jpeg.webp | MeroMoto | desconocida |
+| /media/zeeho-ae6-plus-2025-ficha-tecnica-precio-hunt3.webp | https://blog.meromoto.com/wp-content/uploads/2024/04/Zeeho-AE6-Plus-1-1024x683.webp | MeroMoto | desconocida |
