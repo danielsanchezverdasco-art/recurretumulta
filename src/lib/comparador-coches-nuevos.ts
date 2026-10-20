@@ -495,6 +495,15 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         "alto": 801
       }
     ],
+    euroncap: {
+      estrellas: 4,
+      ano: 2024,
+      url: null,
+      nota: "4 estrellas Euro NCAP (2024, test del MG ZS Hybrid+): 75% adultos, 82% infantil, 73% peatones, 76% asistencias",
+    },
+    fuenteNombre: "MG Motor Europa",
+    fuenteUrl: "https://www.mgmotor.eu/es",
+
   },
   {
     id: "jaecoo-7-shs-hibrido-enchufable-precio-ficha-tecnica",
@@ -3912,6 +3921,14 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     aprox: ["parNm"],
     imagen: "/media/tesla-model-3-electrico-precio-ficha-tecnica.webp",
     opiniones: [],
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: "https://news.euroncap.com/safercars/tesla-model-3---euro-ncap-2025-results---5-stars/s/bf232c62-8a8a-435a-aa69-dbafc0a82459",
+      nota: "5 estrellas Euro NCAP (2025): 90% adultos, 93% infantil, 89% peatones, 87% asistencias",
+    },
+    fuenteNombre: "Tesla España (web oficial)",
+    fuenteUrl: "https://www.tesla.com/es_es",
     },
   {
     id: "tesla-model-y-electrico-precio-ficha-tecnica",
@@ -3969,6 +3986,14 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     aprox: ["parNm", "maleteroL"],
     imagen: "/media/tesla-model-y-electrico-precio-ficha-tecnica.webp",
     opiniones: [],
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: null,
+      nota: "5 estrellas Euro NCAP (2025): 91% adultos, 93% infantil, 86% peatones, 92% asistencias",
+    },
+    fuenteNombre: "Tesla España (web oficial)",
+    fuenteUrl: "https://www.tesla.com/es_es",
     },
   {
     id: "bmw-i4-edrive40-electrico-precio-ficha-tecnica",
@@ -4418,6 +4443,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     aprox: ["cargaRapidaKw"],
     imagen: "/media/volkswagen-id-buzz-electrico-precio-ficha-tecnica.webp",
     opiniones: [],
+
   },
   {
     id: "nissan-qashqai-e-power-205",
@@ -9235,6 +9261,13 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     opiniones: [],
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/mg/hs/2025/estandar/phev/hs-phev/datos",
+    euroncap: {
+      estrellas: 5,
+      ano: 2024,
+      url: null,
+      nota: "5 estrellas Euro NCAP (2024): 90% adultos, 85% infantil, 83% peatones, 74% asistencias",
+    },
+
   },
   {
     id: "byd-dolphin-surf-precio-ficha-tecnica",
@@ -9303,6 +9336,13 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     ],
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/byd/dolphin-surf/2025/estandar/estandar/dolphin-surf-active/datos",
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: null,
+      nota: "5 estrellas Euro NCAP (2025): 82% adultos, 86% infantil, 76% peatones, 77% asistencias",
+    },
+
   },
   {
     id: "byd-dolphin-surf-2027-precio-ficha-tecnica",

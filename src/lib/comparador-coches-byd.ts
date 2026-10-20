@@ -90,6 +90,27 @@ export const COCHES_BYD: CocheComparador[] = [
         alto: 1280,
       },
     ],
+    euroncap: {
+      estrellas: 5,
+      ano: 2023,
+      url: null,
+      nota: "5 estrellas Euro NCAP (2023): 89% adultos, 87% infantil, 85% peatones, 79% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos)",
+      revisiones: [
+        {
+          nombre: "Revisión cada 24 meses / 30.000 km",
+          queSeCambia: "Inspección general + filtro de polen + líquido de frenos (según plan) + actualización de software",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Plan oficial BYD Europa para vehículos eléctricos",
+    },
+    fuenteNombre: "BYD España (web oficial)",
+    fuenteUrl: "https://www.byd.com/es-es",
+
   },
   {
     id: "byd-seal-2024-precio-ficha-tecnica",
@@ -172,6 +193,27 @@ export const COCHES_BYD: CocheComparador[] = [
         alto: 1280,
       },
     ],
+    euroncap: {
+      estrellas: 5,
+      ano: 2023,
+      url: null,
+      nota: "5 estrellas Euro NCAP (2023): 89% adultos, 87% infantil, 82% peatones, 76% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos)",
+      revisiones: [
+        {
+          nombre: "Revisión cada 24 meses / 30.000 km",
+          queSeCambia: "Inspección general + filtro de polen + líquido de frenos (según plan) + actualización de software",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Plan oficial BYD Europa para vehículos eléctricos",
+    },
+    fuenteNombre: "BYD España (web oficial)",
+    fuenteUrl: "https://www.byd.com/es-es",
+
   },
   {
     id: "byd-seal-excellence-2024-precio-ficha-tecnica",
@@ -336,6 +378,27 @@ export const COCHES_BYD: CocheComparador[] = [
         alto: 1280,
       },
     ],
+    euroncap: {
+      estrellas: 5,
+      ano: 2023,
+      url: "https://www.euroncap.com/en/results/byd/seal-u/50187",
+      nota: "5 estrellas Euro NCAP (2023): 90% adultos, 86% infantil, 83% peatones, 77% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos)",
+      revisiones: [
+        {
+          nombre: "Revisión cada 24 meses / 30.000 km",
+          queSeCambia: "Inspección general + filtro de polen + líquido de frenos (según plan) + actualización de software",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Plan oficial BYD Europa para vehículos eléctricos",
+    },
+    fuenteNombre: "BYD España (web oficial)",
+    fuenteUrl: "https://www.byd.com/es-es",
+
   },
   {
     id: "byd-seal-6-dm-i-2025-precio-ficha-tecnica",
@@ -418,6 +481,32 @@ export const COCHES_BYD: CocheComparador[] = [
         alto: 1280,
       },
     ],
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: null,
+      nota: "5 estrellas Euro NCAP (2025): 92% adultos, 90% infantil, 84% peatones, 85% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección del sistema híbrido",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión / 30.000 km",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + líquido de frenos",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Plan oficial BYD en Europa para híbridos enchufables DM-i (intervalo 15.000 km / 12 meses desde 2024)",
+    },
+    fuenteNombre: "BYD España (web oficial)",
+    fuenteUrl: "https://www.byd.com/es-es",
+
   },
   {
     id: "byd-seal-6-dm-i-touring-2025-precio-ficha-tecnica",
@@ -582,6 +671,27 @@ export const COCHES_BYD: CocheComparador[] = [
         alto: 1280,
       },
     ],
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: "https://www.euroncap.com/assessments/2025/byd-sealion-7/",
+      nota: "5 estrellas Euro NCAP (2025): 87% adultos, 93% infantil, 76% peatones, 79% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos)",
+      revisiones: [
+        {
+          nombre: "Revisión cada 24 meses / 30.000 km",
+          queSeCambia: "Inspección general + filtro de polen + líquido de frenos (según plan) + actualización de software",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Plan oficial BYD Europa para vehículos eléctricos",
+    },
+    fuenteNombre: "BYD España (web oficial)",
+    fuenteUrl: "https://www.byd.com/es-es",
+
   },
   {
     id: "byd-sealion-7-excellence-2025-precio-ficha-tecnica",
@@ -746,6 +856,27 @@ export const COCHES_BYD: CocheComparador[] = [
         alto: 1280,
       },
     ],
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+    },
+    planMantenimiento: {
+      intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos)",
+      revisiones: [
+        {
+          nombre: "Revisión cada 24 meses / 30.000 km",
+          queSeCambia: "Inspección general + filtro de polen + líquido de frenos (según plan) + actualización de software",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Plan oficial BYD Europa para vehículos eléctricos",
+    },
+    fuenteNombre: "BYD España (web oficial)",
+    fuenteUrl: "https://www.byd.com/es-es",
+
   },
   {
     id: "byd-tang-2024-precio-ficha-tecnica",
@@ -828,6 +959,27 @@ export const COCHES_BYD: CocheComparador[] = [
         alto: 1280,
       },
     ],
+    euroncap: {
+      estrellas: 5,
+      ano: 2023,
+      url: null,
+      nota: "5 estrellas Euro NCAP (2023): 87% adultos, 87% infantil, 80% peatones, 73% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos)",
+      revisiones: [
+        {
+          nombre: "Revisión cada 24 meses / 30.000 km",
+          queSeCambia: "Inspección general + filtro de polen + líquido de frenos (según plan) + actualización de software",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Plan oficial BYD Europa para vehículos eléctricos",
+    },
+    fuenteNombre: "BYD España (web oficial)",
+    fuenteUrl: "https://www.byd.com/es-es",
+
   },
   {
     id: "byd-atto-3-evo-2025-precio-ficha-tecnica",
@@ -910,6 +1062,27 @@ export const COCHES_BYD: CocheComparador[] = [
         alto: 1280,
       },
     ],
+    euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: "https://www.euroncap.com/press-media/eight-manufacturers-achieve-euro-ncap-5-stars-in-impressive-car-line-up/",
+      nota: "Test del BYD Atto 3 (2022): 91% adultos, 89% infantil, 69% peatones, 74% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos)",
+      revisiones: [
+        {
+          nombre: "Revisión cada 24 meses / 30.000 km",
+          queSeCambia: "Inspección general + filtro de polen + líquido de frenos (según plan) + actualización de software",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Plan oficial BYD Europa para vehículos eléctricos",
+    },
+    fuenteNombre: "BYD España (web oficial)",
+    fuenteUrl: "https://www.byd.com/es-es",
+
   },
   {
     id: "byd-seal-u-ev-design-87kwh-2026-precio-ficha-tecnica",
@@ -1071,7 +1244,28 @@ export const COCHES_BYD: CocheComparador[] = [
         "ancho": 1920,
         "alto": 1280
       }
-    ]
+    ],
+    euroncap: {
+      estrellas: 5,
+      ano: 2023,
+      url: null,
+      nota: "Test del BYD Dolphin (2023): 89% adultos, 87% infantil, 85% peatones, 79% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos)",
+      revisiones: [
+        {
+          nombre: "Revisión cada 24 meses / 30.000 km",
+          queSeCambia: "Inspección general + filtro de polen + líquido de frenos (según plan) + actualización de software",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Plan oficial BYD Europa para vehículos eléctricos",
+    },
+    fuenteNombre: "BYD España (web oficial)",
+    fuenteUrl: "https://www.byd.com/es-es",
+
   },
   {
     id: "byd-dolphin-g-dmi-active-2026-precio-ficha-tecnica",

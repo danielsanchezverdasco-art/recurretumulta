@@ -805,6 +805,32 @@ export const COCHES_EXP12: CocheComparador[] = [
       },
     ],
     analisisSlug: "mg-zs-hybrid-plus-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 4,
+      ano: 2024,
+      url: null,
+      nota: "4 estrellas Euro NCAP (2024): 75% adultos, 82% infantil, 73% peatones, 76% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección general + inspección del sistema híbrido",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión 60.000 km",
+          queSeCambia: "Lo anterior + filtro de aire + líquido de frenos + bujías",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Red oficial MG España",
+    },
+    fuenteNombre: "MG Motor Europa",
+    fuenteUrl: "https://www.mgmotor.eu/es",
+
   },
   {
     id: "xiaomi-yu7-2025-precio-ficha-tecnica",

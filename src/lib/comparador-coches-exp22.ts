@@ -2253,6 +2253,9 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeAnualAproxEur: 210,
       fuente: "Plan oficial MG España",
     },
+    fuenteNombre: "MG Motor Europa",
+    fuenteUrl: "https://www.mgmotor.eu/es",
+
   },
   {
     id: "mg-4-2025-precio-ficha-tecnica",
@@ -2328,6 +2331,9 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeAnualAproxEur: 140,
       fuente: "Plan oficial MG España",
     },
+    fuenteNombre: "MG Motor Europa",
+    fuenteUrl: "https://www.mgmotor.eu/es",
+
   },
   {
     id: "mg-4-xpower-2025-precio-ficha-tecnica",

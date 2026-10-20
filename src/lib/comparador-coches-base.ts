@@ -862,6 +862,15 @@ export const COCHES_BASE: CocheComparador[] = [
         "alto": 938
       }
     ],
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+    },
+    fuenteNombre: "BYD España (web oficial)",
+    fuenteUrl: "https://www.byd.com/es-es",
+
   },
   {
     id: "ebro-s700-precio-ficha-tecnica",

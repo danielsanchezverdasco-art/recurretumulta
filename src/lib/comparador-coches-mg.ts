@@ -259,6 +259,30 @@ export const COCHES_MG: CocheComparador[] = [
     ],
     fuenteNombre: "MG Motor Europa",
     fuenteUrl: "https://www.mgmotor.eu/es",
+    euroncap: {
+      estrellas: 4,
+      ano: 2024,
+      url: null,
+      nota: "Test del MG ZS de la misma generación (2024): 75% adultos, 82% infantil, 73% peatones, 76% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección general",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión 60.000 km",
+          queSeCambia: "Lo anterior + filtro de aire + líquido de frenos + bujías",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Red oficial MG España",
+    },
+
   },
   {
     id: "mg-hs-gasolina-2025-precio-ficha-tecnica",
@@ -342,6 +366,30 @@ export const COCHES_MG: CocheComparador[] = [
     ],
     fuenteNombre: "tufichatecnica.com",
     fuenteUrl: "https://tufichatecnica.com/mg/hs/estandar/2025/mg-hs-2025-5p-15g-at7-170cv-6srw",
+    euroncap: {
+      estrellas: 5,
+      ano: 2024,
+      url: null,
+      nota: "Test del MG HS de la misma generación (2024): 90% adultos, 85% infantil, 83% peatones, 74% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección general",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Revisión 60.000 km",
+          queSeCambia: "Lo anterior + filtro de aire + líquido de frenos + bujías",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Red oficial MG España",
+    },
+
   },
   {
     id: "mg-hs-hybrid-plus-2025-precio-ficha-tecnica",

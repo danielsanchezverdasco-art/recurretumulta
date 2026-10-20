@@ -70,6 +70,9 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       costeAnualAproxEur: null,
       fuente: "Red oficial BYD España",
     },
+    fuenteNombre: "BYD España (web oficial)",
+    fuenteUrl: "https://www.byd.com/es-es",
+
   },
   // AUDIT 08/10/2026 (orden Daniel): nulls justificados — sin ES: precioDesde (no se vende en ES), etiquetaDgt (sin homologación ES) — no publicado por la marca: velocidadMax, cargaRapidaKw, pesoKg, parNm, emisionesCo2 — vídeo sin asignar (campo opcional).
   {

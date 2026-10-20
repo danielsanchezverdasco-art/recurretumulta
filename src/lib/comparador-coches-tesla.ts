@@ -87,6 +87,37 @@ export const COCHES_TESLA: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: "https://news.euroncap.com/safercars/tesla-model-3---euro-ncap-2025-results---5-stars/s/bf232c62-8a8a-435a-aa69-dbafc0a82459",
+      nota: "Test del Tesla Model 3 (2025), válido para toda la gama: 90% adultos, 93% infantil, 89% peatones, 87% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "Sin intervalos fijos: Tesla recomienda mantenimiento según estado del vehículo",
+      revisiones: [
+        {
+          nombre: "Filtro de habitáculo",
+          queSeCambia: "Sustitución del filtro de aire del habitáculo (Tesla recomienda hacerlo cada 2 años)",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Líquido de frenos",
+          queSeCambia: "Comprobación periódica del estado del líquido de frenos y sustitución si es necesario",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Neumáticos y aire acondicionado",
+          queSeCambia: "Rotación de neumáticos según desgaste y sustitución periódica de la bolsa desecante del aire acondicionado según el manual de servicio de Tesla",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Tesla (tesla.com/es_es): mantenimiento según estado del vehículo, sin intervalos fijos oficiales",
+    },
+    fuenteNombre: "Tesla España (web oficial)",
+    fuenteUrl: "https://www.tesla.com/es_es",
+
   },
   {
     id: "tesla-model-3-gran-autonomia-traccion-trasera-2026-precio-ficha-tecnica",
@@ -168,6 +199,37 @@ export const COCHES_TESLA: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: "https://news.euroncap.com/safercars/tesla-model-3---euro-ncap-2025-results---5-stars/s/bf232c62-8a8a-435a-aa69-dbafc0a82459",
+      nota: "Test del Tesla Model 3 (2025), válido para toda la gama: 90% adultos, 93% infantil, 89% peatones, 87% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "Sin intervalos fijos: Tesla recomienda mantenimiento según estado del vehículo",
+      revisiones: [
+        {
+          nombre: "Filtro de habitáculo",
+          queSeCambia: "Sustitución del filtro de aire del habitáculo (Tesla recomienda hacerlo cada 2 años)",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Líquido de frenos",
+          queSeCambia: "Comprobación periódica del estado del líquido de frenos y sustitución si es necesario",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Neumáticos y aire acondicionado",
+          queSeCambia: "Rotación de neumáticos según desgaste y sustitución periódica de la bolsa desecante del aire acondicionado según el manual de servicio de Tesla",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Tesla (tesla.com/es_es): mantenimiento según estado del vehículo, sin intervalos fijos oficiales",
+    },
+    fuenteNombre: "Tesla España (web oficial)",
+    fuenteUrl: "https://www.tesla.com/es_es",
+
   },
   {
     id: "tesla-model-y-performance-2026-precio-ficha-tecnica",
@@ -249,6 +311,37 @@ export const COCHES_TESLA: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: null,
+      nota: "Test del Tesla Model Y (2025), válido para toda la gama: 91% adultos, 93% infantil, 86% peatones, 92% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "Sin intervalos fijos: Tesla recomienda mantenimiento según estado del vehículo",
+      revisiones: [
+        {
+          nombre: "Filtro de habitáculo",
+          queSeCambia: "Sustitución del filtro de aire del habitáculo (Tesla recomienda hacerlo cada 2 años)",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Líquido de frenos",
+          queSeCambia: "Comprobación periódica del estado del líquido de frenos y sustitución si es necesario",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Neumáticos y aire acondicionado",
+          queSeCambia: "Rotación de neumáticos según desgaste y sustitución periódica de la bolsa desecante del aire acondicionado según el manual de servicio de Tesla",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Tesla (tesla.com/es_es): mantenimiento según estado del vehículo, sin intervalos fijos oficiales",
+    },
+    fuenteNombre: "Tesla España (web oficial)",
+    fuenteUrl: "https://www.tesla.com/es_es",
+
   },
   {
     id: "tesla-model-y-gran-autonomia-traccion-trasera-2026-precio-ficha-tecnica",
