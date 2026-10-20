@@ -289,3 +289,64 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 - vw-california-ocean-2026-precio-ficha-tecnica-oficial-1.webp: Kit de prensa oficial VW, vía accamper.com.
 - vw-california-ocean-2026-precio-ficha-tecnica-interior-oficial-1.webp: Mismo interior que Coast (fuente: Motoring Research, vanreviewer.co.uk).
 - vw-california-beach-2026-precio-ficha-tecnica-interior-oficial-1.webp: Kit de prensa oficial VW, vía espaciofurgo.com (módulo cocina extraíble Beach).
+
+## Barrido placeholder 20/10/2026 — fotos integradas en git (antes solo en el archivo de producción)
+
+Fotos reales del modelo exacto que ya servía producción desde el archivo local (clon v2 / dist de producción) y no constaban en el repositorio; se integran en git para que no salga el placeholder «Foto real próximamente» al reconstruir desde GitHub. URL exacta no localizada; fotos de prensa del fabricante (distribución; licencia desconocida).
+
+| Archivo | Origen |
+|---|---|
+| /media/bmw-ce-02-ficha-tecnica-precio-oficial-2.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/bmw-ce-02-ficha-tecnica-precio-oficial-3.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/bmw-ce-02-ficha-tecnica-precio-oficial.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/bmw-ce-04-ficha-tecnica-precio-oficial-2.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/bmw-ce-04-ficha-tecnica-precio-oficial-3.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/bmw-ce-04-ficha-tecnica-precio-oficial.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/motos/bmw-f-900-gs-2024-ficha-tecnica-precio-1.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/motos/bmw-f-900-gs-2024-ficha-tecnica-precio-2.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/motos/bmw-f-900-gs-2024-ficha-tecnica-precio-3.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/motos/bmw-r-1300-gs-2024-ficha-tecnica-precio.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/motos/bmw-r-18-2024-ficha-tecnica-precio-1.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/motos/bmw-r-18-2024-ficha-tecnica-precio-2.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/motos/bmw-r-18-2024-ficha-tecnica-precio-3.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/motos/bmw-s-1000-r-2024-ficha-tecnica-precio.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/motos/bmw-s-1000-xr-2024-ficha-tecnica-precio-1.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/motos/bmw-s-1000-xr-2024-ficha-tecnica-precio-2.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/motos/bmw-s-1000-xr-2024-ficha-tecnica-precio-3.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/motos/ducati-desertx-2024-ficha-tecnica-precio.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/motos/ducati-scrambler-800-icon-2024-ficha-tecnica-precio.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/motos/ducati-streetfighter-v4-2024-ficha-tecnica-precio.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/motos/harley-davidson-low-rider-s-2025-ficha-tecnica-precio-1.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/motos/harley-davidson-low-rider-s-2025-ficha-tecnica-precio-2.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/motos/harley-davidson-low-rider-s-2025-ficha-tecnica-precio-3.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/motos/harley-davidson-nightster-2024-ficha-tecnica-precio.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/motos/ktm-690-smc-r-2024-ficha-tecnica-precio.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/motos/ktm-790-adventure-2024-ficha-tecnica-precio.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/motos/suzuki-gsx-s1000-2024-ficha-tecnica-precio.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/motos/suzuki-gsx-s1000gt-ficha-tecnica-precio.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/motos/suzuki-v-strom-800de-2024-ficha-tecnica-precio.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/motos/triumph-bonneville-bobber-2024-ficha-tecnica-precio.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/motos/triumph-bonneville-t120-2024-ficha-tecnica-precio.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/motos/triumph-daytona-660-2024-ficha-tecnica-precio.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/patinetes/cecotec-bongo-d20-xl-connected-1.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/patinetes/cecotec-bongo-d20-xl-connected-2.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/patinetes/cecotec-bongo-d20-xl-connected-3.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/patinetes/cecotec-bongo-d40-xl-connected-1.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/patinetes/cecotec-bongo-d40-xl-connected-2.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/patinetes/cecotec-bongo-d40-xl-connected-3.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/patinetes/cecotec-bongo-serie-a-plus-max-45-connected-2.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/patinetes/cecotec-bongo-serie-a-plus-max-45-connected.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/patinetes/niu-kqi-200f-1.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/patinetes/niu-kqi-200f-2.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/patinetes/niu-kqi-200f-3.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/patinetes/niu-kqi-200p-1.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/patinetes/niu-kqi-200p-2.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/patinetes/niu-kqi-200p-3.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/patinetes/niu-kqi-300p-1.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/patinetes/niu-kqi-300p-2.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/patinetes/niu-kqi-300p-3.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/patinetes/niu-kqi1-pro-1.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/patinetes/niu-kqi1-pro-2.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/patinetes/niu-kqi1-pro-3.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/patinetes/zero-9-1.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
+| /media/patinetes/zero-9-2.webp | Archivo de producción recurretumulta.online (clon v2), integrado 20/10/2026 |
