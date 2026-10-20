@@ -200,7 +200,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
     modelo: "03",
     tipo: "Gasolina",
     categoria: "Berlina",
-    precioDesde: 15500, // solo China: sin precio oficial en España/Europa
+    precioDesde: 17000, // aprox.: 指导价 127.800 CNY (tarifa oficial China)
     potenciaCv: 254,
     autonomiaKm: null,
     maleteroL: null,
@@ -217,7 +217,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
       "Prueba del alce a 82,2 km/h: de lo mejor de su segmento",
     ],
     contras: [
-      "Solo se vende en China: imposible comprarlo en España",
+      "Aprox. 17.000 € según tarifa oficial del fabricante en China (127.800 CNY), sin venta oficial en España",
       "Sin versión híbrida enchufable en la gama 2.0T",
       "Interior con pantallas pero ergonomía mejorable",
       "Marca poco conocida fuera de China y Europa",
@@ -283,7 +283,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
     modelo: "03+",
     tipo: "Gasolina",
     categoria: "Berlina",
-    precioDesde: null, // solo China: sin precio oficial en España/Europa
+    precioDesde: 26500, // aprox.: 指导价 198.800 CNY (tarifa oficial China)
     potenciaCv: 265,
     autonomiaKm: null,
     maleteroL: null,
@@ -300,7 +300,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
       "Récord de vuelta en Ningbo con el 03+ TCR Cyan: 2:02.415",
     ],
     contras: [
-      "Solo se vende en China: imposible comprarlo en España",
+      "Aprox. 26.500 € según tarifa oficial del fabricante en China (198.800 CNY), sin venta oficial en España",
       "Consumo elevado para un compacto (7,4 l/100 km)",
       "Suspensión firme: incómodo en ciudad",
       "Sin etiqueta ECO ni Cero: vetado en futuras ZBE europeas",
@@ -316,7 +316,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
     parNm: 380,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["consumo"], // dato NEDC de la versión 2020, sin WLTP publicado
+    aprox: ["consumo", "precioDesde"], // dato NEDC de la versión 2020, sin WLTP publicado
     imagen: "/media/lynk-co-03-plus-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     fuenteNombre: "wikipedia.org",
@@ -383,6 +383,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
       "Maletero de 336 a 1.070 l con asientos abatidos",
     ],
     contras: [
+      "Sin tarifa oficial de precio verificable: el fabricante no publica precio de referencia para el 05 EM-P y no se vende en España",
       "Solo se vende en China: imposible comprarlo en España",
       "Sin carga rápida en continua verificada",
       "Maletero de 336 l, justo para un SUV coupé",
@@ -449,7 +450,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
     modelo: "06 EM-P",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: null, // China y Latinoamérica: sin precio oficial en España/Europa
+    precioDesde: 19700, // aprox.: 指导价 147.800 CNY (tarifa oficial China)
     potenciaCv: 299,
     autonomiaKm: 126, // eléctrica (WLTC)
     maleteroL: 280,
@@ -466,7 +467,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
       "Se vende ya en Latinoamérica (Argentina, desde 32.800 $)",
     ],
     contras: [
-      "Sin planes de venta en Europa: imposible comprarlo en España",
+      "Aprox. 19.700 € según tarifa oficial del fabricante en China (147.800 CNY), sin venta oficial en España",
       "Maletero de 280 l, muy justo para un SUV",
       "Sin carga rápida en continua: solo 6,6 kW en alterna",
       "126 km eléctricos en ciclo WLTC, menos en WLTP",
@@ -482,7 +483,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
     parNm: 578,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["par"], // 578 Nm según prensa latina; otra fuente indica 445 Nm
+    aprox: ["par", "precioDesde"], // 578 Nm según prensa latina; otra fuente indica 445 Nm
     imagen: "/media/lynk-co-06-emp-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     fuenteNombre: "autoplusdigital.com.ar",
@@ -532,7 +533,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
     modelo: "07 EM-P",
     tipo: "Híbrido enchufable",
     categoria: "Berlina",
-    precioDesde: 19800, // solo China: sin precio oficial en España/Europa
+    precioDesde: 20800, // aprox.: 指导价 155.800 CNY (tarifa oficial China)
     potenciaCv: 381,
     autonomiaKm: 126, // eléctrica (CLTC)
     maleteroL: null,
@@ -549,7 +550,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
       "Distancia entre ejes de 2.843 mm: habitabilidad de segmento D",
     ],
     contras: [
-      "La berlina no llegará a Europa: solo el familiar 07 GT (otro equipo)",
+      "Aprox. 20.800 € según tarifa oficial del fabricante en China (155.800 CNY), sin venta oficial en España",
       "126 km CLTC equivalen a unos 100 km en WLTP",
       "Peso de 1.915 kg: lastra la agilidad",
       "Sin precio ni red de servicio fuera de China",
@@ -615,7 +616,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
     modelo: "09",
     tipo: "Híbrido",
     categoria: "SUV",
-    precioDesde: 28900, // Latinoamérica: sin precio oficial en España/Europa
+    precioDesde: 35400, // aprox.: 指导价 265.800 CNY (tarifa oficial China)
     potenciaCv: 254,
     autonomiaKm: null,
     maleteroL: 269,
@@ -632,7 +633,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
       "Se vende en México, Chile y Argentina con red oficial",
     ],
     contras: [
-      "La marca confirmó que el 09 no vendrá a Europa",
+      "Aprox. 35.400 € según tarifa oficial del fabricante en China (265.800 CNY), sin venta oficial en España",
       "2.120 kg y 254 CV: prestaciones justas (8 s de 0-100)",
       "Consumo de 7,9 l/100 km: alto para un mild-hybrid",
       "Maletero de 269 l con las 7 plazas en uso",
@@ -698,9 +699,9 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
     modelo: "900 EM-P",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: 37500, // solo China: sin precio oficial en España/Europa
+    precioDesde: 41300, // aprox.: 指导价 309.900 CNY (tarifa oficial China)
     potenciaCv: 884,
-    autonomiaKm: 210, // eléctrica
+    autonomiaKm: 268, // eléctrica (CLTC, versión 2.0T de 650 kW)
     maleteroL: 281,
     ceroCien: 4.3,
     velocidadMax: 240,
@@ -715,7 +716,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
       "Pruebas de choque de tercera fila superadas con nota (CAERI)",
     ],
     contras: [
-      "Solo se vende en China: sin planes confirmados para Europa",
+      "Aprox. 41.300 € según tarifa oficial del fabricante en China (309.900 CNY), sin venta oficial en España",
       "2.820 kg: un peso que se nota en consumos y frenada",
       "5,24 m de largo: imposible de aparcar en ciudad",
       "Precio en China desde unos 37.500 €; en Europa costaría mucho más",
@@ -781,7 +782,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
     modelo: "Z10",
     tipo: "Eléctrico",
     categoria: "Berlina",
-    precioDesde: 27000, // solo China: sin precio oficial en España/Europa
+    precioDesde: 24900, // aprox.: 指导价 186.800 CNY (tarifa oficial China)
     potenciaCv: 272,
     autonomiaKm: 766, // CLTC
     maleteroL: 616,
@@ -798,7 +799,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
       "LiDAR y conducción inteligente con doble chip Orin X",
     ],
     contras: [
-      "Sin lanzamiento global confirmado: solo China por ahora",
+      "Aprox. 24.900 € según tarifa oficial del fabricante en China (186.800 CNY), sin venta oficial en España",
       "766 km CLTC equivalen a bastante menos en WLTP",
       "2.275 kg en la versión de 95 kWh",
       "Toda la gama con baterías LFP, sin NCM",

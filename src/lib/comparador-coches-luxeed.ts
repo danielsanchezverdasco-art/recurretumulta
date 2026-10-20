@@ -14,7 +14,7 @@ export const COCHES_LUXEED: CocheComparador[] = [
     modelo: "S7",
     tipo: "Eléctrico",
     categoria: "Berlina",
-    precioDesde: 31174,
+    precioDesde: 30600, // aprox.: 指导价 229.800 CNY (tarifa oficial China)
     potenciaCv: 292,
     autonomiaKm: 705,
     maleteroL: 420,
@@ -45,7 +45,7 @@ export const COCHES_LUXEED: CocheComparador[] = [
       "Precio desde ~31.200 € en China: berlina premium a precio de Tesla Model 3",
     ],
     contras: [
-      "Solo se vende en China: sin fecha para Europa ni España",
+      "Aprox. 30.600 € según tarifa oficial del fabricante en China (229.800 CNY), sin venta oficial en España",
       "Autonomía homologada en ciclo CLTC (optimista frente al WLTP)",
       "Cifra de 0-100 de la versión básica aún no publicada",
       "Maletero de 420 litros, justo para sus 4,97 metros",
@@ -97,8 +97,8 @@ export const COCHES_LUXEED: CocheComparador[] = [
     modelo: "V9",
     tipo: "Híbrido de autonomía extendida",
     categoria: "Monovolumen",
-    precioDesde: 50674,
-    potenciaCv: null,
+    precioDesde: 52000, // aprox.: 指导价 389.800 CNY (tarifa oficial China)
+    potenciaCv: 309, // 227 kW (dato oficial citado por la prensa especializada)
     autonomiaKm: 223,
     maleteroL: null,
     ceroCien: null,
@@ -119,7 +119,7 @@ export const COCHES_LUXEED: CocheComparador[] = [
     parNm: null,
     traccion: null,
     emisionesCo2: null,
-    aprox: ["precioDesde", "autonomiaKm", "altoMm"],
+    aprox: ["precioDesde", "altoMm"], // 223 km es dato WLTC oficial (manual del fabricante)
     pros: [
       "1.250 km de autonomía combinada: eléctrico en ciudad, gasolina en viaje",
       "223 km de autonomía eléctrica con la batería grande (53,4 kWh)",
@@ -128,8 +128,8 @@ export const COCHES_LUXEED: CocheComparador[] = [
       "Dirección trasera activa: radio de giro de solo 5,35 metros",
     ],
     contras: [
-      "Solo se vende en China: sin planes para Europa",
-      "Precio desde ~50.700 €: el Luxeed más caro de la gama",
+      "Aprox. 52.000 € según tarifa oficial del fabricante en China (389.800 CNY), sin venta oficial en España",
+      "Precio desde ~52.000 €: el Luxeed más caro de la gama",
       "5,36 metros de largo: muy grande para ciudad y parking",
       "Potencia y prestaciones aún sin cifras oficiales publicadas",
       "Más de 40.000 pedidos en preventa: plazos de entrega largos",
