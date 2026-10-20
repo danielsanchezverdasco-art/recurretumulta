@@ -2029,7 +2029,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Hiboy",
   modelo: "S2",
-  precioEur: 299,
+  precioEur: 300, // 390 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
   potenciaNominalW: 350,
   potenciaPicoW: 500,
   autonomiaKm: 25,
@@ -2053,6 +2053,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "Plegado rápido y peso ligero (~14.5 kg): fácil de llevar en metro o maletero"
   ],
   contras: [
+    "El precio es una estimación: conversión de la tarifa oficial de EE. UU. (390 $); Hiboy no vende oficialmente en España",
     "Autonomía real baja: unos 12-13 km frente a los 25 km declarados",
     "Batería pequeña (270 Wh): pensado para trayectos diarios de menos de 8 km",
     "Plataforma algo pequeña para pies grandes",
@@ -2111,7 +2112,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Hiboy",
   modelo: "Max3",
-  precioEur: 449,
+  precioEur: null, // descatalogado por la marca; sin tarifa oficial vigente (verificado 20/10/2026)
   potenciaNominalW: 350,
   potenciaPicoW: 500,
   autonomiaKm: 27,
@@ -2125,7 +2126,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "10\" autorreparables (mixtos: neumático + sólido)",
   certificadoDgt: false,
   foto: "/media/patinetes/hiboy-max3.webp",
-  aprox: ["autonomiaRealKm", "precioEur", "potenciaPicoW"],
+  aprox: ["autonomiaRealKm", "potenciaPicoW"],
   pros: [
     "Precio asequible cuando estaba a la venta",
     "Neumáticos de 10\" autorreparables: adiós a los pinchazos",
@@ -2135,6 +2136,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "Buena iluminación LED delantera y trasera"
   ],
   contras: [
+    "Sin precio oficial: modelo descatalogado por Hiboy y sin tarifa oficial vigente",
     "DESCATALOGADO: ya no se fabrica; lo sucede el Hiboy Max Pro",
     "Sin suspensión: incómodo en adoquines y baches",
     "Autonomía real de unos 18 km, lejos de los 27 km declarados",
@@ -2152,7 +2154,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Apollo",
   modelo: "City (2024)",
-  precioEur: 949,
+  precioEur: 1500, // 1.699 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
   potenciaNominalW: 1000,
   potenciaPicoW: 2000,
   autonomiaKm: 69,
@@ -2176,6 +2178,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "Intermitentes, app con GPS y bloqueo, y control de crucero"
   ],
   contras: [
+    "El precio es una estimación: conversión de la tarifa oficial de EE. UU. (1.699 $); Apollo no vende oficialmente en España",
     "NO se vende en España ni tiene certificado DGT",
     "Sus 51 km/h lo hacen ilegal como VMP en España",
     "Pesa 29.5 kg: imposible subirlo por escaleras a diario",
@@ -2193,7 +2196,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Apollo",
   modelo: "Air (2024)",
-  precioEur: 749,
+  precioEur: 900, // 999 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
   potenciaNominalW: 500,
   potenciaPicoW: 800,
   autonomiaKm: 50,
@@ -2217,6 +2220,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "Tres modos de conducción, apto para principiantes"
   ],
   contras: [
+    "El precio es una estimación: conversión de la tarifa oficial de EE. UU. (999 $); Apollo no vende oficialmente en España",
     "NO se vende en España ni tiene certificado DGT",
     "Sus 34 km/h superan el límite legal español de 25 km/h",
     "Carga muy lenta: de 7 a 8 horas",
@@ -2275,7 +2279,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Navee",
   modelo: "N40",
-  precioEur: 429,
+  precioEur: null, // sin tarifa oficial vigente verificable (verificado 20/10/2026)
   potenciaNominalW: 350,
   potenciaPicoW: 700,
   autonomiaKm: 40,
@@ -2289,7 +2293,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Neumáticos de 10″",
   certificadoDgt: true,
   foto: "/media/patinetes/navee-n40.webp",
-  aprox: ["autonomiaRealKm", "pesoKg", "precioEur"],
+  aprox: ["autonomiaRealKm", "pesoKg"],
   pros: [
     "Autonomía declarada de 40 km, de las mejores en su rango",
     "Motor de 350 W nominales con pico de 700 W",
@@ -2299,6 +2303,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "Luz delantera mejorada de 40 lux para circular de noche"
   ],
   contras: [
+    "Sin precio oficial: Navee no publica tarifa oficial vigente del N40",
     "Sin precio nuevo verificado actualmente en España (stock irregular)",
     "Sin evidencia pública de certificado DGT",
     "El pico de 700 W se queda justo en pendientes exigentes",
@@ -2398,7 +2403,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Dualtron",
   modelo: "Mini (estándar monomotor)",
-  precioEur: 1099,
+  precioEur: 1300, // 1.499 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
   potenciaNominalW: 500,
   potenciaPicoW: 1450,
   autonomiaKm: 65,
@@ -2422,6 +2427,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "Red de recambios y servicio oficial Minimotors en España"
   ],
   contras: [
+    "El precio es una estimación: conversión de la tarifa oficial de EE. UU. (1.499 $)",
     "SIN certificado DGT: como VMP no certificado solo puede circular hasta el 22/01/2027 (régimen transitorio del RD 52/2026)",
     "El Mini original ya no se vende nuevo en la tienda oficial española (sustituido por el Aminia y la gama Mini Special)",
     "Deslimitado alcanza 45-65 km/h: en vía pública solo es legal limitado a 25 km/h",
@@ -2480,7 +2486,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Kaabo",
   modelo: "Mantis 8 Lite",
-  precioEur: 1099,
+  precioEur: 900, // 999 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
   potenciaNominalW: 800,
   potenciaPicoW: null,
   autonomiaKm: 50,
@@ -2503,6 +2509,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "Chasis de aleación de aluminio robusto"
   ],
   contras: [
+    "El precio es una estimación: conversión de la tarifa oficial de EE. UU. (999 $)",
     "Sin certificado DGT: el distribuidor lo vende como 'vehículo exclusivo para áreas privadas'",
     "Monomotor 800W: menos tirón en cuestas que las versiones duales (Up/Origin/Plus)",
     "Ruedas de 8\": pequeñas para baches y terreno irregular",
@@ -2558,7 +2565,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Vsett",
   modelo: "10+",
-  precioEur: 1899,
+  precioEur: 2000, // 2.290 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
   potenciaNominalW: 2800,
   potenciaPicoW: 4200,
   autonomiaKm: 130,
@@ -2581,6 +2588,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "Se vende limitado a 25 km/h con certificado de importador"
   ],
   contras: [
+    "El precio es una estimación: conversión de la tarifa oficial de EE. UU. (2.290 $, versión 25,6 Ah)",
     "SIN certificado DGT verificable: el 'certificado de importador' no es el certificado de circulación de la DGT",
     "Con 2x1400W y 70-80 km/h reales no es certificable como VMP: ojo con la legalidad en vía pública",
     "Pesa 36-39 kg según batería: trasto pesado",
@@ -2636,7 +2644,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Smartgyro",
   modelo: "Ziro Blue",
-  precioEur: 399,
+  precioEur: null, // sin tarifa oficial vigente verificable (verificado 20/10/2026)
   potenciaNominalW: 500,
   potenciaPicoW: 800,
   autonomiaKm: 25,
@@ -2650,7 +2658,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Ruedas neumáticas de 10\"",
   certificadoDgt: null,
   foto: "/media/patinetes/smartgyro-ziro-blue.webp",
-  aprox: ["precioEur", "potenciaNominalW", "potenciaPicoW", "autonomiaRealKm", "tiempoCargaH", "bateriaWh"],
+  aprox: ["potenciaNominalW", "potenciaPicoW", "autonomiaRealKm", "tiempoCargaH", "bateriaWh"],
   pros: [
     "Motor Brushless de 500W nominal con buena respuesta en ciudad",
     "Alcanza los 25 km/h, el límite legal para VMP en España",
@@ -2660,6 +2668,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "Buena relación calidad-precio en su rango (~400€)"
   ],
   contras: [
+    "Sin precio oficial: Smartgyro no publica tarifa oficial vigente del Ziro Blue",
     "No apto para lluvia intensa",
     "Solo disponible en azul, un color llamativo",
     "Carga lenta: 4-5 horas",
@@ -2676,7 +2685,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "iScooter",
   modelo: "iX5",
-  precioEur: 416.99,
+  precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
   potenciaNominalW: 800,
   potenciaPicoW: 1000,
   autonomiaKm: 45,
@@ -2690,7 +2699,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Neumáticos todoterreno de 10\"",
   certificadoDgt: false,
   foto: "/media/patinetes/iscooter-ix5.webp",
-  aprox: ["precioEur", "potenciaPicoW", "autonomiaRealKm", "tiempoCargaH", "bateriaWh"],
+  aprox: ["potenciaPicoW", "autonomiaRealKm", "tiempoCargaH", "bateriaWh"],
   pros: [
     "Motor de 1000W que sube pendientes de 15-25 grados sin esfuerzo",
     "Batería de 48V 15Ah (720Wh) con hasta 45 km declarados",
@@ -2700,6 +2709,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "Plegable, con manillar y sillín regulables en altura"
   ],
   contras: [
+    "Sin precio oficial: iScooter no publica una tarifa oficial verificable del iX5",
     "45 km/h de velocidad máxima: NO es un VMP legal en España (límite 25 km/h); circular con él por vía pública expone a multa e inmovilización",
     "Sin certificado DGT (el propio vendedor reconoce que 'aún no ha solicitado' el certificado)",
     "Marca de importación sin red de servicio técnico en España; garantía complicada",
@@ -2716,7 +2726,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Cecotec",
   modelo: "Outsider DemiGod Makalu",
-  precioEur: 899.01,
+  precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
   potenciaNominalW: 800,
   potenciaPicoW: 1600,
   autonomiaKm: 30,
@@ -2730,7 +2740,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Neumáticos XL con tacos Tubeless antirreventón (Forever Wheels)",
   certificadoDgt: false,
   foto: "/media/patinetes/cecotec-outsider-demigod-makalu.webp",
-  aprox: ["precioEur", "autonomiaRealKm", "tiempoCargaH", "bateriaWh"],
+  aprox: ["autonomiaRealKm", "tiempoCargaH", "bateriaWh"],
   pros: [
     "1600W de potencia máxima: sube cualquier cuesta sin despeinarse",
     "Se vende con kit de homologación como ciclomotor (L1eB): retrovisores, portamatrículas y velocímetro",
@@ -2740,6 +2750,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "Sistema plegable Mazinger para guardarlo en espacios estrechos"
   ],
   contras: [
+    "Sin precio oficial: Cecotec no publica una tarifa oficial verificable del Outsider DemiGod Makalu",
     "Pesa 60 kg: imposible cargarlo a mano; olvídate de subirlo a un piso",
     "Suspensión algo dura en terreno roto",
     "Autonomía real (~20 km) escasa para su peso y potencia",
@@ -2757,7 +2768,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Xiaomi",
   modelo: "Electric Scooter 4 Lite (2.ª Gen)",
-  precioEur: 255,
+  precioEur: 299.99, // tarifa oficial España (verificado 20/10/2026)
   potenciaNominalW: 300,
   potenciaPicoW: 390,
   autonomiaKm: 25,
@@ -2771,7 +2782,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Neumáticos sin cámara de 10\"",
   certificadoDgt: true,
   foto: "/media/patinetes/xiaomi-electric-scooter-4-lite.webp",
-  aprox: ["precioEur", "autonomiaRealKm"],
+  aprox: ["autonomiaRealKm"],
   pros: [
     "Muy ligero (16,2 kg): fácil de subir a casa o al transporte público",
     "Precio asequible (~255 €): el más barato de la gama Xiaomi",
@@ -2796,7 +2807,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Xiaomi",
   modelo: "Electric Scooter 4 Ultra",
-  precioEur: 999.99,
+  precioEur: 999.99, // tarifa oficial España (verificado 20/10/2026)
   potenciaNominalW: 500,
   potenciaPicoW: 940,
   autonomiaKm: 70,
@@ -2810,7 +2821,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Neumáticos sin cámara de 10\" Xiaomi DuraGel autosellantes",
   certificadoDgt: true,
   foto: "/media/patinetes/xiaomi-electric-scooter-4-ultra.webp",
-  aprox: ["precioEur", "autonomiaRealKm"],
+  aprox: ["autonomiaRealKm"],
   pros: [
     "Gran autonomía: hasta 70 km declarados",
     "Potencia máxima de 940 W: sube pendientes de hasta el 25 %",
@@ -2836,7 +2847,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Xiaomi",
   modelo: "Electric Scooter 5 Plus",
-  precioEur: 499.99,
+  precioEur: 549.99, // tarifa oficial España (verificado 20/10/2026)
   potenciaNominalW: 400,
   potenciaPicoW: 900,
   autonomiaKm: 60,
@@ -2850,7 +2861,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Neumáticos sin cámara de 12\"",
   certificadoDgt: true,
   foto: "/media/patinetes/xiaomi-electric-scooter-5-plus.webp",
-  aprox: ["precioEur", "autonomiaRealKm"],
+  aprox: ["autonomiaRealKm"],
   pros: [
     "Ruedas grandes de 12\": más estabilidad y comodidad que la media",
     "Autonomía de 60 km, de las más altas de su precio",
@@ -2876,7 +2887,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Segway-Ninebot",
   modelo: "KickScooter F2 Pro E",
-  precioEur: 429,
+  precioEur: 429, // tarifa oficial España (verificado 20/10/2026)
   potenciaNominalW: 450,
   potenciaPicoW: 900,
   autonomiaKm: 55,
@@ -2890,7 +2901,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Neumáticos sin cámara de 10\" autorreparables con revestimiento de gelatina",
   certificadoDgt: true,
   foto: "/media/patinetes/segway-ninebot-f2-pro.webp",
-  aprox: ["precioEur", "autonomiaRealKm"],
+  aprox: ["autonomiaRealKm"],
   pros: [
     "Suspensión delantera de muelle (35 mm de recorrido): más confort que el F2 Plus",
     "Potencia máxima de 900 W: sube pendientes de hasta el 22 %",
@@ -2916,7 +2927,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Segway-Ninebot",
   modelo: "KickScooter ZT3 Pro E",
-  precioEur: 619.01,
+  precioEur: 749, // tarifa oficial España (verificado 20/10/2026)
   potenciaNominalW: 650,
   potenciaPicoW: 1600,
   autonomiaKm: 70,
@@ -2930,7 +2941,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Neumáticos sin cámara de 11\" todoterreno",
   certificadoDgt: true,
   foto: "/media/patinetes/segway-ninebot-zt3-pro.webp",
-  aprox: ["precioEur", "autonomiaRealKm"],
+  aprox: ["autonomiaRealKm"],
   pros: [
     "Potencia brutal: 650 W nominales y picos de 1.600 W (modo Boost)",
     "Ruedas todoterreno de 11\": baches, bordillos y caminos sin problema",
@@ -2956,7 +2967,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Navee",
   modelo: "GT3",
-  precioEur: 949,
+  precioEur: 600, // 649,99 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
   potenciaNominalW: 500,
   potenciaPicoW: 700,
   autonomiaKm: 50,
@@ -2979,6 +2990,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "Diseño plegable compacto",
   ],
   contras: [
+    "El precio es una estimación: conversión de la tarifa oficial de EE. UU. (649,99 $)",
     "No se vende actualmente en España: sin precio de referencia",
     "Autonomía contenida: 50 km declarados (~34 km reales)",
     "Carga lenta: unas 8 horas",
@@ -2995,7 +3007,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Navee",
   modelo: "ST3",
-  precioEur: 499,
+  precioEur: 600, // 649,99 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
   potenciaNominalW: 500,
   potenciaPicoW: 1000,
   autonomiaKm: 60,
@@ -3019,6 +3031,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "Manillar regulable en altura",
   ],
   contras: [
+    "El precio es una estimación: conversión de la tarifa oficial de EE. UU. (649,99 $)",
     "Pesa 24,8 kg: difícil de transportar",
     "Carga lenta: 8 horas",
     "Voluminoso pese a ser plegable",
@@ -3035,7 +3048,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "NIU",
   modelo: "KQi3 Max",
-  precioEur: 899,
+  precioEur: 899, // tarifa oficial España (verificado 20/10/2026)
   potenciaNominalW: 450,
   potenciaPicoW: 900,
   autonomiaKm: 65,
@@ -3049,7 +3062,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Neumáticos de goma de 9,5\" sin cámara, autosellantes",
   certificadoDgt: null,
   foto: "/media/patinetes/niu-kqi3-max.webp",
-  aprox: ["precioEur", "autonomiaRealKm"],
+  aprox: ["autonomiaRealKm"],
   pros: [
     "Autonomía de 65 km con batería de 608,4 Wh",
     "Motor de 450 W (900 W pico): sube pendientes del 25 %",
@@ -3075,7 +3088,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "NIU",
   modelo: "KQi 300X",
-  precioEur: 559,
+  precioEur: 799, // tarifa oficial España (verificado 20/10/2026)
   potenciaNominalW: 500,
   potenciaPicoW: 1000,
   autonomiaKm: 60,
@@ -3089,7 +3102,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Neumáticos sin cámara autosellantes de 10,5\" (26,7 cm)",
   certificadoDgt: true,
   foto: "/media/patinetes/niu-kqi300x.webp",
-  aprox: ["precioEur", "autonomiaRealKm"],
+  aprox: ["autonomiaRealKm"],
   pros: [
     "Suspensión hidráulica delantera de doble tubo (45 mm de recorrido)",
     "Motor trasero de 500 W (1.000 W pico): sube cuestas del 25 %",
@@ -3115,7 +3128,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Cecotec",
   modelo: "Bongo D30",
-  precioEur: 279,
+  precioEur: 449, // tarifa oficial España (verificado 20/10/2026)
   potenciaNominalW: 350,
   potenciaPicoW: 650,
   autonomiaKm: 30,
@@ -3129,7 +3142,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: '8,5" inflables',
   certificadoDgt: true,
   foto: "/media/patinetes/cecotec-bongo-d30.webp",
-  aprox: ["autonomiaRealKm", "precioEur", "tiempoCargaH"],
+  aprox: ["autonomiaRealKm", "tiempoCargaH"],
   pros: [
     "350 W nominales (650 W pico): supera pendientes de hasta el 15 %",
     "30 km de autonomía con batería de 270 Wh (36 V 7,5 Ah)",
@@ -3155,7 +3168,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Smartgyro",
   modelo: "Speedway",
-  precioEur: 599,
+  precioEur: 699, // tarifa oficial España (verificado 20/10/2026)
   potenciaNominalW: 500,
   potenciaPicoW: 800,
   autonomiaKm: 50,
@@ -3169,7 +3182,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: '10" Dual Grip neumáticas',
   certificadoDgt: true,
   foto: "/media/patinetes/smartgyro-speedway.webp",
-  aprox: ["autonomiaRealKm", "pesoKg", "tiempoCargaH", "precioEur"],
+  aprox: ["autonomiaRealKm", "pesoKg", "tiempoCargaH"],
   pros: [
     "500 W nominales (800 W pico) a 48 V: sube cuestas sin despeinarse",
     "50 km de autonomía con batería de 13 Ah (624 Wh)",
@@ -3183,7 +3196,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "~7 horas de carga: hay que planificar la noche",
     "Carga máxima con cifras dispares según la tienda (120-150 kg)",
     "Sin app: todo se configura en el display",
-    "PVP oficial actual no publicado (el histórico rondaba los 729 €)",
+    "PVP en tiendas oficiales ronda los 699 €",
     "Diseño veterano: lleva años en el mercado sin renovarse",
   ],
   veredicto: "Un clásico español con certificado DGT: 500 W, 50 km y triple frenada con intermitentes. Pesa y tarda en cargar, pero es de los VMP más completos por su precio histórico (~729 €). Ideal si buscas un urbano probado y legal.",
@@ -3237,7 +3250,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Smartgyro",
   modelo: "K2 Pro",
-  precioEur: 599,
+  precioEur: 799, // tarifa oficial España (verificado 20/10/2026)
   potenciaNominalW: 900,
   potenciaPicoW: 1000,
   autonomiaKm: 60,
@@ -3251,7 +3264,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: '10" tubeless neumáticas',
   certificadoDgt: true,
   foto: "/media/patinetes/smartgyro-k2-pro.webp",
-  aprox: ["autonomiaRealKm", "pesoKg", "precioEur"],
+  aprox: ["autonomiaRealKm", "pesoKg"],
   pros: [
     "900 W nominales (1000 W pico): de los VMP más potentes con certificado DGT",
     "60 km de autonomía con batería de 15 Ah (720 Wh)",
@@ -3263,7 +3276,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   contras: [
     "22 kg: pesado para moverlo a mano cada día",
     "8 horas de carga completa",
-    "PVP oficial no publicado (ronda los 700-760 € en tiendas)",
+    "PVP en tiendas oficiales ronda los 799 €",
     "Ruedas de 10\": la versión XL monta 12\" más cómodas",
     "900 W nominales: verifica la normativa municipal",
   ],
@@ -3277,7 +3290,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Dualtron",
   modelo: "Victor",
-  precioEur: 1899,
+  precioEur: 2400, // 2.699 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
   potenciaNominalW: 2400,
   potenciaPicoW: 4000,
   autonomiaKm: 100,
@@ -3302,6 +3315,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "Pantalla EY4 con app móvil",
   ],
   contras: [
+    "El precio es una estimación: conversión de la tarifa oficial de EE. UU. (2.699 $)",
     "33 kg: no es portable",
     "Carga lenta: 15 h con el cargador estándar (7,5 h con dos, 5 h con rápido)",
     "PVP oficial no publicado (1.795-2.295 € en distribuidores españoles)",
@@ -3318,7 +3332,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Dualtron",
   modelo: "Thunder 2",
-  precioEur: 3599,
+  precioEur: 3800, // 4.299 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
   potenciaNominalW: null,
   potenciaPicoW: 10080,
   autonomiaKm: 170,
@@ -3342,6 +3356,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "150 kg de carga máxima",
   ],
   contras: [
+    "El precio es una estimación: conversión de la tarifa oficial de EE. UU. (4.299 $)",
     "47,3 kg: es una moto, no un patinete portable",
     "Sin certificado DGT: no puede circular legalmente como VMP en España",
     "Deslimitado llega a 100 km/h: solo para circuito o terreno privado",
@@ -3399,7 +3414,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Kaabo",
   modelo: "Wolf King GT Pro",
-  precioEur: 3699,
+  precioEur: 3700, // 4.199 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
   potenciaNominalW: 4000,
   potenciaPicoW: 8400,
   autonomiaKm: 180,
@@ -3423,6 +3438,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "150 kg de carga máxima y pendientes de hasta 50º",
   ],
   contras: [
+    "El precio es una estimación: conversión de la tarifa oficial de EE. UU. (4.199 $)",
     "Sin certificado DGT: no es un VMP legal en España",
     "52 kg: imposible de portar",
     "~13 horas de carga completa",
@@ -3440,7 +3456,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Kaabo",
   modelo: "Wolf Warrior 11",
-  precioEur: 2699,
+  precioEur: 2700, // 2.999 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
   potenciaNominalW: 2400,
   potenciaPicoW: 5400,
   autonomiaKm: 90,
@@ -3464,6 +3480,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "150 kg de carga máxima",
   ],
   contras: [
+    "El precio es una estimación: conversión de la tarifa oficial de EE. UU. (2.999 $)",
     "Sin certificado DGT: no es un VMP legal en España",
     "Supera los 80 km/h: solo para circuito o terreno privado",
     "45 kg: no es portable",
@@ -3481,7 +3498,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Vsett",
   modelo: "11+ Super",
-  precioEur: 2599,
+  precioEur: 2700, // 2.999 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
   potenciaNominalW: 4000,
   potenciaPicoW: 6960,
   autonomiaKm: 90,
@@ -3505,6 +3522,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "Desbloqueo NFC y pantalla a color opcional",
   ],
   contras: [
+    "El precio es una estimación: conversión de la tarifa oficial de EE. UU. (2.999 $)",
     "Sin certificado DGT: no es un VMP legal en España",
     "65 kg (versión UE): el más pesado de la comparativa",
     "Hasta 21 horas de carga con el cargador incluido",
@@ -3522,7 +3540,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Apollo",
   modelo: "Phantom V3",
-  precioEur: 2099,
+  precioEur: 2100, // 2.399 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
   potenciaNominalW: 2400,
   potenciaPicoW: 3200,
   autonomiaKm: 64,
@@ -3546,6 +3564,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "App Apollo con modos y telemetría; 136 kg de carga máxima",
   ],
   contras: [
+    "El precio es una estimación: conversión de la tarifa oficial de EE. UU. (2.399 $); Apollo no vende oficialmente en España",
     "Sin certificado DGT: no es un VMP legal en España",
     "66 km/h: solo para circuito o terreno privado",
     "34,9 kg: pesado para un 'urbano'",
@@ -3563,7 +3582,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Apollo",
   modelo: "Go Stellar",
-  precioEur: 649,
+  precioEur: 1000, // 1.099 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
   potenciaNominalW: 1000,
   potenciaPicoW: 2000,
   autonomiaKm: 51,
@@ -3587,6 +3606,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "Suspensión Airflow y app Apollo con estimador de autonomía",
   ],
   contras: [
+    "El precio es una estimación: conversión de la tarifa oficial de EE. UU. (1.099 $); Apollo no vende oficialmente en España",
     "Sin certificado DGT: no es un VMP legal en España",
     "50 km/h: por encima del límite VMP",
     "Freno de tambor trasero (no disco): menos mordiente",
@@ -3604,7 +3624,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Inokim",
   modelo: "OXO",
-  precioEur: 2599,
+  precioEur: 2000, // 2.250 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
   potenciaNominalW: 2000,
   potenciaPicoW: 2600,
   autonomiaKm: 110,
@@ -3628,6 +3648,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "Velocidad punta de 64 km/h sin limitar (para uso en circuito o terreno privado)",
   ],
   contras: [
+    "El precio es una estimación: conversión de la tarifa oficial de EE. UU. (2.250 $)",
     "Precio no verificado en tiendas españolas: es un modelo de gama muy alta (miles de euros)",
     "Peso no declarado por el fabricante: los duales de esta potencia superan los 30 kg",
     "Carga completa muy lenta: unas 13 horas",
@@ -3928,7 +3949,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Hiboy",
   modelo: "S2 Max",
-  precioEur: 549,
+  precioEur: 700, // 834,99 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
   potenciaNominalW: 500,
   potenciaPicoW: 650,
   autonomiaKm: 65,
@@ -3951,6 +3972,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "App propia con bloqueo y control de crucero",
   ],
   contras: [
+    "El precio es una estimación: conversión de la tarifa oficial de EE. UU. (834,99 $); Hiboy no vende oficialmente en España",
     "Sin precio verificado en España: Hiboy vende principalmente en EE. UU. (unos 649 $)",
     "Sin red de servicio técnico ni repuestos oficiales en España",
     "Carga máxima de 100 kg: justa para usuarios pesados",
@@ -3968,7 +3990,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Hiboy",
   modelo: "Titan Pro",
-  precioEur: 649,
+  precioEur: 1800, // 1.999,99 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
   potenciaNominalW: 1500,
   potenciaPicoW: 2400,
   autonomiaKm: 129,
@@ -3992,6 +4014,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "Sube pendientes del 35%",
   ],
   contras: [
+    "El precio es una estimación: conversión de la tarifa oficial de EE. UU. (1.999,99 $); Hiboy no vende oficialmente en España",
     "47 kg de peso: no es un patinete, es una moto sin sillín; imposible de llevar a pulso",
     "Sin precio ni distribución en España: en EE. UU. ronda los 1300 $",
     "Carga completa de 8,5 a 13,5 horas según versión",
@@ -4009,7 +4032,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "TurboAnt",
   modelo: "X7 Pro",
-  precioEur: 549,
+  precioEur: 600, // 699,98 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
   potenciaNominalW: 350,
   potenciaPicoW: 500,
   autonomiaKm: 48,
@@ -4033,6 +4056,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "Neumáticos de 10\" con cámara: cómodos en ciudad",
   ],
   contras: [
+    "El precio es una estimación: conversión de la tarifa oficial de EE. UU. (699,98 $)",
     "Sin precio verificado en España: en EE. UU. ronda los 550 $",
     "Sin distribución ni servicio técnico oficial en España",
     "Motor de 350 W: justo en cuestas pronunciadas con usuarios pesados",
@@ -4050,7 +4074,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "TurboAnt",
   modelo: "V8",
-  precioEur: 499,
+  precioEur: 700, // 799,98 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
   potenciaNominalW: 450,
   potenciaPicoW: 650,
   autonomiaKm: 80,
@@ -4074,6 +4098,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "Faros LED, luz de freno y 4 luces ambientales bajo la plataforma",
   ],
   contras: [
+    "El precio es una estimación: conversión de la tarifa oficial de EE. UU. (799,98 $)",
     "21,6 kg: pesado, la doble batería se nota",
     "Sin precio verificado en España: en EE. UU. ronda los 650-800 $",
     "Sin distribución ni servicio técnico oficial en España",
@@ -4091,7 +4116,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Gotrax",
   modelo: "G4",
-  precioEur: 449,
+  precioEur: 500, // 549 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
   potenciaNominalW: 500,
   potenciaPicoW: 500,
   autonomiaKm: 40,
@@ -4115,6 +4140,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "Marca muy vendida en EE. UU. con muchas reseñas y repuestos",
   ],
   contras: [
+    "El precio es una estimación: conversión de la tarifa oficial de EE. UU. (549 $); Gotrax no vende oficialmente en España",
     "Sin precio verificado en España: en EE. UU. ronda los 699 $",
     "Sin distribución ni servicio técnico oficial en España",
     "Velocidad máxima de 32 km/h de fábrica: debe limitarse a 25 km/h en España",
@@ -4132,7 +4158,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Gotrax",
   modelo: "GMAX Ultra",
-  precioEur: 749,
+  precioEur: 700, // 799 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
   potenciaNominalW: 350,
   potenciaPicoW: 500,
   autonomiaKm: 72,
@@ -4156,6 +4182,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "Pantalla LED y plegado en un paso",
   ],
   contras: [
+    "El precio es una estimación: conversión de la tarifa oficial de EE. UU. (799 $); Gotrax no vende oficialmente en España",
     "20,9 kg: pesado para llevarlo a pulso",
     "Sin precio verificado en España: en EE. UU. ronda los 800-850 $",
     "Sin distribución ni servicio técnico oficial en España",
@@ -4215,7 +4242,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Razor",
   modelo: "E Prime III",
-  precioEur: 329,
+  precioEur: 400, // 499,99 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
   potenciaNominalW: 250,
   potenciaPicoW: 350,
   autonomiaKm: 24,
@@ -4238,6 +4265,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "Marca Razor con distribución en España",
   ],
   contras: [
+    "El precio es una estimación: conversión de la tarifa oficial de EE. UU. (499,99 $)",
     "Sin precio verificado en España: no se ha encontrado a la venta actualmente",
     "Autonomía de solo 24 km: para trayectos cortos",
     "Rueda trasera maciza de 170 mm: pequeña e incómoda en baches",
@@ -4338,7 +4366,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Smartgyro",
   modelo: "Speedway Pro",
-  precioEur: 699,
+  precioEur: 799, // tarifa oficial España (verificado 20/10/2026)
   potenciaNominalW: 800,
   potenciaPicoW: 1000,
   autonomiaKm: 60,
@@ -4352,7 +4380,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Neumáticos neumáticas de 10\"",
   certificadoDgt: true,
   foto: "/media/patinetes/smartgyro-speedway-pro.webp",
-  aprox: ["precioEur", "autonomiaRealKm"],
+  aprox: ["autonomiaRealKm"],
   pros: [
     "Certificado DGT VMP A1060 verificado en la lista oficial",
     "Doble suspensión delantera y trasera para baches y adoquines",
@@ -4378,7 +4406,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Segway-Ninebot",
   modelo: "KickScooter Max G2 E (certificado)",
-  precioEur: 1190,
+  precioEur: 799, // tarifa oficial España (verificado 20/10/2026)
   potenciaNominalW: 450,
   potenciaPicoW: 900,
   autonomiaKm: 70,
@@ -4392,7 +4420,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Neumáticos autorreparables sin cámara de 10\"",
   certificadoDgt: true,
   foto: "/media/patinetes/segway-max-g2-e-cert.webp",
-  aprox: ["precioEur", "autonomiaRealKm"],
+  aprox: ["autonomiaRealKm"],
   pros: [
     "Certificado DGT B1007 verificado en la lista oficial",
     "70 km de autonomía declarada (batería de 551 Wh)",
@@ -4403,7 +4431,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   ],
   contras: [
     "24,3 kg: de los más pesados de su categoría urbana",
-    "Precio elevado (ronda los 1.190 €)",
+    "Precio elevado para un urbano (PVP oficial 799 €)",
     "Freno de tambor delantero en lugar de disco",
     "6 horas de carga completa",
     "Sube pendientes del 22 %, mejorable para sus 900 W de pico",
@@ -4458,7 +4486,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Cecotec",
   modelo: "Bongo Y65 Connected",
-  precioEur: 515,
+  precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
   potenciaNominalW: 500,
   potenciaPicoW: 1200,
   autonomiaKm: 65,
@@ -4472,7 +4500,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Ruedas de 10\" con cámara",
   certificadoDgt: true,
   foto: "/media/patinetes/cecotec-bongo-y65.webp",
-  aprox: ["precioEur", "autonomiaRealKm", "pesoKg"],
+  aprox: ["autonomiaRealKm", "pesoKg"],
   pros: [
     "Certificado DGT VMP A1056 verificado en la lista oficial",
     "65 km de autonomía declarada (batería 48 V 13 Ah)",
@@ -4482,6 +4510,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "App Bongo con S-Driving System, telemetría y alertas",
   ],
   contras: [
+    "Sin precio oficial: Cecotec no publica una tarifa oficial verificable del Bongo Y65 Connected",
     "26 kg: pesado para su potencia",
     "Carga de 4 a 6 horas",
     "Sin pantalla integrada en el manillar",
@@ -4618,7 +4647,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "KuKirin",
   modelo: "G2 Pro (versión VMP)",
-  precioEur: 499,
+  precioEur: 499, // tarifa oficial España (verificado 20/10/2026)
   potenciaNominalW: 500,
   potenciaPicoW: 500,
   autonomiaKm: 65,
@@ -4632,7 +4661,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Neumáticos hinchables todoterreno de 9\"",
   certificadoDgt: true,
   foto: "/media/patinetes/kukirin-g2-pro.webp",
-  aprox: ["potenciaPicoW", "autonomiaRealKm", "tiempoCargaH", "precioEur"],
+  aprox: ["potenciaPicoW", "autonomiaRealKm", "tiempoCargaH"],
   pros: [
     "Certificado DGT VMP A1156 verificado en la lista oficial",
     "65 km de autonomía declarada (batería 48 V 15 Ah)",
@@ -4658,7 +4687,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Inmotion",
   modelo: "Climber",
-  precioEur: 542,
+  precioEur: 649, // tarifa oficial Europa (verificado 20/10/2026)
   potenciaNominalW: 900,
   potenciaPicoW: 1500,
   autonomiaKm: 55,
@@ -4672,7 +4701,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Neumáticos hinchables de 10\"",
   certificadoDgt: true,
   foto: "/media/patinetes/inmotion-climber.webp",
-  aprox: ["precioEur", "autonomiaRealKm"],
+  aprox: ["autonomiaRealKm"],
   pros: [
     "Certificado DGT VMP A1108 verificado en la lista oficial",
     "Doble motor 2x450 W (1.500 W de pico): sube cuestas del 36 %",
@@ -4698,7 +4727,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "iScooter",
   modelo: "i9Max",
-  precioEur: 265,
+  precioEur: 600, // 498,99 GBP (tarifa oficial Reino Unido) ÷ 0,84205 (BCE 19/10/2026), redondeado a la centena
   potenciaNominalW: 500,
   potenciaPicoW: 500,
   autonomiaKm: 40,
@@ -4722,6 +4751,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "App con control de crucero y modos 6/15/25 km/h",
   ],
   contras: [
+    "El precio es una estimación: conversión de la tarifa oficial del Reino Unido (498,99 £); sin PVP oficial en España",
     "Ruedas sólidas: menos agarre y confort que las hinchables",
     "Batería de 374 Wh: autonomía justa para trayectos largos",
     "500 W justos en cuestas con conductor pesado",
@@ -4738,7 +4768,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Dualtron",
   modelo: "Victor 60V",
-  precioEur: 1799,
+  precioEur: 2400, // 2.699 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
   potenciaNominalW: 1000,
   potenciaPicoW: 4000,
   autonomiaKm: 80,
@@ -4762,6 +4792,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "Construcción premium de Minimotors",
   ],
   contras: [
+    "El precio es una estimación: conversión de la tarifa oficial de EE. UU. (2.699 $)",
     "33,5 kg: imposible de subir a pulso por escaleras",
     "13 horas de carga con el cargador estándar",
     "1.799 €: precio de gama alta",
@@ -4778,7 +4809,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Kaabo",
   modelo: "Mantis King GT",
-  precioEur: 2695,
+  precioEur: 2400, // 2.699 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
   potenciaNominalW: 1000,
   potenciaPicoW: 4000,
   autonomiaKm: 90,
@@ -4802,6 +4833,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     "Pantalla TFT, intermitentes y carga máxima de 140 kg",
   ],
   contras: [
+    "El precio es una estimación: conversión de la tarifa oficial de EE. UU. (2.699 $)",
     "2.695 €: de los patinetes más caros del mercado",
     "33 kg de peso",
     "Carga de 6 a 12 horas según cargador",
@@ -4818,7 +4850,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Xiaomi",
     modelo: "Electric Scooter 5 Elite",
-    precioEur: 499,
+    precioEur: null, // Xiaomi no ha publicado tarifa oficial en España (verificado 20/10/2026)
     potenciaNominalW: 400,
     potenciaPicoW: 700,
     autonomiaKm: 45,
@@ -4832,7 +4864,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: "10\" tubeless de baja resistencia a la rodadura",
     certificadoDgt: true,
     foto: "/media/patinetes/xiaomi-5-elite.webp",
-    aprox: ["autonomiaRealKm", "tiempoCargaH", "precioEur"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH"],
     pros: [
       "Motor de 400 W nominales (700 W de pico) con sensor Hall: aceleración suave y silenciosa en ciudad.",
       "Autonomía declarada de 45 km, de las mejores de su rango de precio.",
@@ -4843,6 +4875,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
       "Integración con Xiaomi Home: bloqueo remoto, estadísticas de ruta y actualizaciones de firmware.",
     ],
     contras: [
+      "Sin precio oficial: Xiaomi no ha publicado la tarifa oficial del Scooter Elite en España",
       "Pesa 20 kg: no es el más ligero para subirlo por escaleras o llevarlo en el metro.",
       "Carga completa en unas 8 horas: hay que cargarlo de noche.",
       "Frenos de tambor delantero + E-ABS trasero, correctos pero sin disco: menos mordiente que rivales con freno de disco.",
@@ -4861,7 +4894,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway",
     modelo: "Ninebot E3",
-    precioEur: 549,
+    precioEur: 329, // tarifa oficial España (MediaMarkt) (verificado 20/10/2026)
     potenciaNominalW: 400,
     potenciaPicoW: 800,
     autonomiaKm: 45,
@@ -4875,7 +4908,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: "10\" tubeless autosellantes",
     certificadoDgt: null,
     foto: "/media/patinetes/segway-ninebot-e3.webp",
-    aprox: ["autonomiaRealKm", "precioEur", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH"],
     pros: [
       "Solo 17,5 kg: de los más ligeros de Segway, fácil de plegar y transportar.",
       "Doble suspensión por elastómeros delante y detrás con sistema SegRide y control de tracción (TCS).",
@@ -4889,7 +4922,6 @@ export const PATINETES_BASE: PatineteComparador[] = [
       "Carga máxima de 100 kg: si pesas más o llevas carga pesada, mira el E3 Pro.",
       "La versión internacional alcanza 32 km/h: en España los VMP deben ir limitados a 25 km/h; verifica que tu unidad europea venga limitada.",
       "Tiempo de carga oficial no publicado.",
-      "Sin PVP verificado en España.",
       "Sin certificado DGT verificado públicamente: confírmalo antes de comprarlo.",
     ],
     veredicto:
@@ -4903,7 +4935,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Navee",
     modelo: "S65C",
-    precioEur: 749,
+    precioEur: null, // variante para EE. UU./China sin tarifa oficial verificable (verificado 20/10/2026)
     potenciaNominalW: 450,
     potenciaPicoW: 900,
     autonomiaKm: 65,
@@ -4917,7 +4949,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: "10\" tubeless autosellantes",
     certificadoDgt: null,
     foto: "/media/patinetes/navee-s65c.webp",
-    aprox: ["autonomiaRealKm", "tiempoCargaH", "precioEur"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH"],
     pros: [
       "Motor de 450 W nominales (900 W de pico) y batería de 540 Wh: de lo más potente de su segmento.",
       "Autonomía declarada de 65 km (40 millas).",
@@ -4927,6 +4959,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
       "Freno de tambor delantero + E-ABS trasero con recuperación de energía.",
     ],
     contras: [
+      "Sin precio oficial: el S65C es la variante de EE. UU./China y Navee no publica una tarifa oficial verificable",
       "Velocidad máxima de 32 km/h (20 mph): supera el límite de 25 km/h de los VMP en España; para circular legalmente aquí tendría que ir limitado a 25 km/h.",
       "Pesa 27,2 kg: pesado para llevarlo a pulso o subir escaleras.",
       "Sin distribución oficial verificada en España (mercado americano): sin precio en euros y con garantía y repuestos complicados.",
@@ -4986,7 +5019,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo M40 XL",
-    precioEur: 429,
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 40,
@@ -5000,7 +5033,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '9" inflables',
     certificadoDgt: null,
     foto: "/media/patinetes/cecotec-bongo-m40.webp",
-    aprox: ["precioEur", "autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH"],
     pros: [
       "Marca española (Cecotec) con servicio técnico y repuestos en España.",
       "Velocidad limitada a 25 km/h: dentro del marco legal de los VMP en España.",
@@ -5009,6 +5042,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
       "EAN registrado (8435484073189): producto oficial, no un clon.",
     ],
     contras: [
+      "Sin precio oficial: Cecotec no publica una tarifa oficial verificable del Bongo M40 XL",
       "Potencia del motor no publicada: imposible comparar sus prestaciones con rivales.",
       "Autonomía declarada no publicada.",
       "Peso y carga máxima no publicados.",
