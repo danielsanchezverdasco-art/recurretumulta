@@ -512,7 +512,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     modelo: "750S Le Mans",
     tipo: "Gasolina",
     categoria: "Deportivo",
-    precioDesde: 350000,
+    precioDesde: null,
     potenciaCv: 750,
     autonomiaKm: null,
     maleteroL: 150,
@@ -529,7 +529,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
       "Pieza de colección instantánea"
     ],
     contras: [
-      "~350.000 € y las 50 unidades asignadas",
+      "Precio no comunicado por McLaren: las 50 unidades se adjudicaron por invitación, sin precio público",
       "Misma mecánica que el 750S estándar",
       "El HDK añade carga pero resta discreción",
       "Etiqueta C",
@@ -545,7 +545,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     parNm: 800,
     traccion: "Trasera",
     emisionesCo2: 276,
-    aprox: ["precioDesde", "consumo"],
+    aprox: ["consumo"],
     imagen: "/media/mclaren-750s-le-mans-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

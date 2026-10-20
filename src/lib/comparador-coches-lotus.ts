@@ -854,7 +854,7 @@ export const COCHES_LOTUS: CocheComparador[] = [
     modelo: "Evija",
     tipo: "Eléctrico",
     categoria: "Deportivo",
-    precioDesde: 2300000,
+    precioDesde: 2018800,
     potenciaCv: 2039,
     autonomiaKm: 314,
     maleteroL: null,
@@ -871,7 +871,7 @@ export const COCHES_LOTUS: CocheComparador[] = [
       "Aerodinámica con efecto Venturi y alerón activo con DRS",
     ],
     contras: [
-      "Unos 2,3 millones de euros sin impuestos",
+      "Aprox. 2.018.800 € según precio oficial anunciado por Lotus Cars (1.700.000 £ + impuestos), sin venta oficial en España",
       "314 km de autonomía WLTP",
       "Biplaza sin maletero utilizable",
       "Mantenimiento y seguro de hypercar",
