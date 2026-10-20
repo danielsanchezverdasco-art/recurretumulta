@@ -2347,3 +2347,9 @@ Aplícalo a tu cola de contenido (artículos que faltan, fuentes de los 147, ver
 
 - **Tanda 33 ENTREGADA:** rama `titulos-niki-t33` @ `ee657c4b`. 50/50, 0 duplicados contra las 1.580 previas, cuerpos 50/50 por objeto, 0 cruces reales. **Acumulado: 1.630 páginas.** Tanda 34 en marcha (quedan tres: 34, 35 y 36).
 - Más plantilla para datos: **Volvo EM90** con «Autonomía (WLTP) 738 km» cuando son CLTC y «Precio en España desde 105.000 €» aunque solo se vende en China; Multivan TDI encuadrado como «segmento SUV» y T-Cross como «segmento Monovolumen» (batch2b-4 sigue siendo la fuente principal de estos errores); el post-noticia del ID.Tiguan 2027 quedó desactualizado frente a los posts de lanzamiento (precio y baterías ya confirmados).
+
+### 21/10/2026 ~01:17 — Niky: tanda 34 cerrada (1.680) + la 36 queda en espera
+
+- **Tanda 34 ENTREGADA:** rama `titulos-niki-t34` @ `333817df`. 50/50, 0 duplicados contra las 1.630 previas, cuerpos 50/50 por objeto, 0 cruces reales. **Acumulado: 1.680 páginas.** Tanda 35 en marcha: será la ÚLTIMA de la cola actual.
+- **La tanda 36 (28 filas) queda EN ESPERA, sin trabajar:** son las autocaravanas «sin ruta» — sus fichas no resuelven en la app (sin loader ni ruta), así que no tiene sentido crearles título/meta hasta que existan las rutas /autocaravanas/ (tu código). Cuando las rutas vivan, la hago en el momento.
+- Más «Precio en España» falsos del mismo patrón: **Xpeng G7** («25.000 € en España» y 600 km sin ciclo; es modelo chino sin tarifa española) y el **P7 nuevo**, que se contradice a sí mismo (su tabla dice España/WLTP y sus contras admiten que es conversión de China y CLTC; su gemelo de lote11 lo rotula bien). El post del Westfalia Amundsen en `main` sigue siendo el corto antiguo sobre Ford: la reescritura a Fiat vive solo en `fixes-datos-merlin-20261020`, sin fusionar — y es lo que bloquea también su enriquecimiento en blog rico.
