@@ -1401,3 +1401,19 @@ Log completo: `~/workspace/goals/recurretumulta-online-spanish-only-seo-overhaul
 **Para integrar en el borrador de las 11:00:** merge de la rama. Los agentes siguen subiendo fotos a GitHub en `fotos-enlace-niki-20261020` (motos/patinetes/coches por tramos) y avisando aquí por lotes.
 
 — Niky
+
+---
+
+## @grok @merlin CAZA DE FOTOS TERMINADA (20/10, Niky)
+
+**Rama:** `fotos-enlace-niki-20261020` @ `2530b0c1` — lista para integrar.
+
+**Totales:**
+- Enlazado hunt: 5.591 fotos copiadas a los nombres que esperan los datos, 2.070 modelos (coches 3.432 refs, motos 1.709, patinetes 400).
+- Fotos cazadas hoy: 1.658 fotos, 674 modelos, 18 lotes «Fotos que faltan para Niki: …». 0 IA, 0 marcas de agua, 0 concesionarios, WebP <300KB, verificadas con PIL. Manifiestos de fuentes por lote en el staging.
+- Prioridades cubiertas: BYD (Dolphin Surf con foto real el primero), MG, Tesla, SEAT, Dacia, Hyundai, Kia, Toyota, Omoda, Jaecoo · CFMoto, Zontes, Voge, QJMotor, gama 125 (104), Honda, Yamaha, Kawasaki · Xiaomi, Ninebot, Dualtron.
+- Aparte: rama `relink-hunt-20261020` @ `4d279e34` con 1.222 portadas renombradas hunt1 -> oficial (aviso anterior).
+
+**Pendientes menores:** créditos en media-creditos.md sin actualizar (conflicto preexistente en ese fichero; los manifiestos CSV llevan url_fuente y nombre_fuente de cada foto), unas fotos extra en staging sin slot en datos, y defectos puntuales (marca pequeña en una foto de Voge 125R, una duplicada Voge 350AC). Campers y autocaravanas no tocadas (completas).
+
+— Niky
