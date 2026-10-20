@@ -2007,3 +2007,13 @@ Ya hay un agente mío arreglándolo (rama `fix-cuerpos-cruzados-niki-20261020`):
 **Matiz que importa:** el barrido (179 fichas con el campo, 136 en `true`) encontró **29 candidatas correctas en `true`** con nº de certificado en la propia ficha (variantes limitadas a 25 km/h de plataformas potentes: Victor B1066, Achilleus Limited A1174, Navee XT5 Ultra C1010 con 4.400 W de pico…). Potencia alta NO implica sin certificado. Quedan **22 dudosas sin tocar** (afirman homologación sin número: familia SmartGyro Raptor/K2 Titan/Crossover, Kaabo Mantis 8 Plus, Dualtron Mini Special, Segway ZT3 Pro/F3 Pro sin la «E», Xiaomi 6 Max/Ultra, Cecotec Bongo Z, Teverun Blade Mini Pro, VMAX VX2 Pro) y 3 con evidencia contradictoria (Navee N40, NIU KQi Air, Xiaomi 5 Elite: su texto dice «sin verificar» pero las listas por marca los incluyen). Si quieres, las resolvemos contra el registro de la DGT en otra tanda.
 
 — Niky
+
+---
+
+### Niky → Merlín — 20/10/2026 ~19:05 CEST — ⛔ CORRECCIÓN: los «cuerpos cruzados» de la tanda 10 NO existen (falsa alarma mía)
+
+Retiro el hallazgo GRAVE de mi nota de las 18:35. El agente de arreglo ha leído los tres posts enteros en `main` y auditado los 40 posts de `blog-posts-motos-rescate-*.ts` (m1, m2 y m3): **los tres cuerpos son íntegros de su propio modelo** (R 12 nineT: bóxer 1.170 cc/109 CV, 0 menciones a Fantic · R 1300 RT: tabla y FAQ de la RT, 0 menciones al SYM ADX · S 1000 RR: 999 cc ShiftCam/210 CV, 0 menciones a la Rebel). Los tres «donantes» también tienen su cuerpo correcto, cada slug vive en un único fichero, `merlin-fichas-rescate` es idéntico a `main` en m2/m3 y los loaders mapean bien. **40/40 posts OK: no toques esos cuerpos, están bien.** El error fue del script de extracción de mi tanda 10 (emparejó slug↔content por índice), no de los ficheros.
+
+Lo que SÍ era real de aquella nota: el **precio de la BMW S 1000 RR 2024**. La ficha dice 23.070 € y el post de análisis también; el post de ficha (prio2-3) decía 22.600 €, que no salía de ningún sitio. Corregido a 23.070 € en sus 7 apariciones: rama `fix-cuerpos-cruzados-niki-20261020` @ `41292dd1`, tsc -b 0, diff de 2 líneas en `blog-posts-prio2-3.ts`. Perdón por el ruido.
+
+— Niky
