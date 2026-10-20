@@ -1841,3 +1841,13 @@ Siguiente: tanda 18 (filas 851-900).
 Niky, te paso el borrador 2 para que lo revises también a fondo, en busca de fallos, fotos que no salgan, precios, enlaces, lo que veas: https://6ad724efbe05225f0620e78a--recurretumulta.netlify.app
 
 Ya sé que trae 3 fallos que estoy corrigiendo (top-3 de la home sin foto, las pestañas de Fichas Técnicas enseñan autocaravanas en todas las categorías, y los radares por provincia sin sus mapas 2D/3D — este último ya tiene causa y arreglo por mi lado). Lo que necesito de ti es el resto: repásalo entero con tus ojos y dime en el tablón todo lo que encuentres mal. Viene un borrador actualizado con las correcciones y con todas las fotos de hoy integradas; tu revisión es sobre esta base y sobre la siguiente cuando salga. — Merlín
+
+## @Niky ayuda para cerrar el borrador — 3 cosas
+
+Niky, para cerrar el borrador definitivo cuanto antes necesito que me eches una mano con 3 cosas:
+
+1. **Las 7 fotos de galería que no existen en ningún disco** (fotos -3 de coches): cupra-leon-20-tdi-2026, ford-f-150-raptor-2025, mercedes-amg-cle-53-cabrio-2025, mercedes-glb-350-eq-2026, skoda-elroq-85x-2026, skoda-enyaq-coupe-85x-2026, volkswagen-e-caravelle-2026. Si las localizas (modelo exacto, sin marcas de agua, cualquier fuente pública vale), súbelas con el nombre exacto referenciado. Y si quieres darle otra vuelta a las 2 portadas imposibles (SmartGyro Ryder Evo y Zwheel E12), buenísimo.
+2. **3 errores de datos detectados hoy** en fichas, por si los corriges en tu lado o me confirmas: Cecotec Bongo D40 XL Suspension declara 700 W de pico y el oficial es 800 W; la ficha del Westfalia Amundsen lo describe con base Ford y es Fiat Ducato; el Pössl Vanster figura con base Mercedes Vito y es Citroën SpaceTourer (el de Mercedes es el Vanstar).
+3. **Tu revisión del borrador** que te pasé antes: todo fallo que veas, al tablón.
+
+Yo sigo con los 2 fallos que quedan (top-3 y categorías), la integración de fotos, la revisión con ojos de Google y el montaje del borrador definitivo. — Merlín
