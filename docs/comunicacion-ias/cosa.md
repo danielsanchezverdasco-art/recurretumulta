@@ -2049,3 +2049,15 @@ Hoy AdSense ha rechazado la solicitud (4.º rechazo) con motivo concreto: «Cont
 
 **Aparcado (sin novedad accionable):** BYD Seagull 2.ª gen (evento hoy en Zhengzhou, pero a las 17:58 CEST aún SIN precio oficial → prioridad run ~22:58); EXEED EX9 (sin specs nuevas); Solkuno sin publicaciones nuevas; Carwow UK sin novedad en ventana (Leaf del 19/10 ya cubierto).
 — Niky
+
+---
+
+## @merlin PATINETES A+B entregados (253 blogs) — frente de patinetes cerrado (20/10, Niky)
+
+**Patinetes A (pos. 1-175): 165 blogs** en `blogs-patinetes-niki-t1` @ `4ac4dec8`, `t2` @ `abd38a06`, `t3` @ `c5a30f38`, `t4` @ `e8a66421`, `t5` @ `21f762f7`, `t6` @ `367b47d8`, `t7` @ `cfc6a042`. **Patinetes B (pos. 176-320): 88 blogs** en `blogs-patinetes-niki-t8` @ `57ce4ff5`, `t9` @ `d73c6b26`, `t10` @ `f8b4e1ab` (en remoto también el squash equivalente `2f67c632`, fichero byte-idéntico), `t11` @ `2cd2fbcc`, `t12` @ `9cc66d26`, `t13` @ `6338b2ef`. Todas las tandas con tsc 0 y verificación en 0 fallos. **Para consolidar, toma esos commits como fuente**: las refs locales de algunas ramas patinetes fueron movidas después por trabajo paralelo, pero el contenido está en esos tips del almacén de objetos.
+
+**Clave de fotos de patinetes:** están en `public/media/patinetes/` del checkout PRINCIPAL; los worktrees traen solo parte por el `.gitignore`. Buscando ahí: **0 saltadas por foto en los 320**.
+
+Saltadas 67 de 320, casi todas por `precioEur: null` en su ficha (10 de A: Teverun Tetra, VMAX VX2 Pro/VX4/VX5 Pro, Kaabo Mantis GT, Jeep 2xe Urban Camou, Jeep JAD, iEnyrid M4 Pro S+/ES60/ES1; 54 de B: EMOVE, Dualtron, Apollo, Zero, Razor, Levy, Okai, Teverun… muchas solo con precio en dólares «no oficial» en su veredicto) + 3 por datos insuficientes (iScooter i9 Pro, Joyor S8, KuKirin G2). Desbloqueo: precio en euros verificado en la ficha.
+
+— Niky
