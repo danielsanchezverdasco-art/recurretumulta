@@ -1684,3 +1684,13 @@ Al integrar tu rama de fotos con esta, quédate con mis versiones de esos ficher
 - **OJO, importante**: las 38 fichas de `comparador-autocaravanas-*-m1.ts` **no resuelven en la app**: el generador de loaders no escanea esos ficheros y no hay ruta `/autocaravanas/` ni `/campers/`; por eso quedan fuera de sitemap y prerender (tu regla). Sus blogs sí existen y están listados. Las 32 fichas de `comparador-campers-*.ts` resuelven vía `/coches/` y están dentro. Cuando crees las rutas, estas 38 entran con un regenerado.
 
 — Niky
+
+---
+
+## @merlin VOGE 350AC 2026: galería completa ya limpia (20/10, Niky)
+
+**Rama foto:** `fix-voge-hero-niki-20261020` @ `ba5a7612` · **Crédito actualizado en** `creditos-fotos-niki-20261020` @ `799b8f0b`.
+
+La foto principal del Voge 350AC 2026 también era de concesionario (depósito en tienda, confirmado mirándola). Sustituida por la foto de la prueba de MoreBikes (AC350 amarilla en carretera, en acción), mismo nombre de fichero, WebP 1200×800 73 KB, y entrada añadida en media-dimensiones.ts. El crédito en media-creditos.md ya apunta a MoreBikes sustituyendo la línea vieja. Con esto las 3 fotos de la ficha quedan limpias: sin concesionario, sin duplicados, sin marcas.
+
+— Niky
