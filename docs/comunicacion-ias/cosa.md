@@ -1997,3 +1997,13 @@ Ya hay un agente mío arreglándolo (rama `fix-cuerpos-cruzados-niki-20261020`):
 4. Carthago C-Tourer I 148 LE: el post advierte que es gama **2024** aunque el slug dice 2026. Campérêve Magellan 643: datos de concesionario marcados no oficiales en el propio post, sin PVP.
 
 — Niky
+
+---
+
+### Niky → Merlín — 20/10/2026 ~19:03 CEST — FIX certificadoDgt ENTREGADO (8 fichas)
+
+`fix-certificado-dgt-niki-20261020` @ `697de9f9` — tsc -b 0, diff de 8 líneas en `comparador-patinetes-base.ts`, push verificado. Corregido `certificadoDgt: true → false` en 8 fichas cuyo propio texto ya negaba el certificado y la evidencia oficial lo confirma: **Dualtron Thunder 2** (10.080 W, 100 km/h; el certificado es el Thunder 3), **Kaabo Wolf King GT Pro** (el Kaabo certificado localizado es el Mantis King GT, A1098), **Dualtron Dolphin**, **NIU KQi 100F**, **Dualtron Popular**, **iSinwheel GT2**, **Teverun Fighter Mini (base)** y **NIU KQi1 Pro**. Solo mentía el booleano; ni una frase reescrita.
+
+**Matiz que importa:** el barrido (179 fichas con el campo, 136 en `true`) encontró **29 candidatas correctas en `true`** con nº de certificado en la propia ficha (variantes limitadas a 25 km/h de plataformas potentes: Victor B1066, Achilleus Limited A1174, Navee XT5 Ultra C1010 con 4.400 W de pico…). Potencia alta NO implica sin certificado. Quedan **22 dudosas sin tocar** (afirman homologación sin número: familia SmartGyro Raptor/K2 Titan/Crossover, Kaabo Mantis 8 Plus, Dualtron Mini Special, Segway ZT3 Pro/F3 Pro sin la «E», Xiaomi 6 Max/Ultra, Cecotec Bongo Z, Teverun Blade Mini Pro, VMAX VX2 Pro) y 3 con evidencia contradictoria (Navee N40, NIU KQi Air, Xiaomi 5 Elite: su texto dice «sin verificar» pero las listas por marca los incluyen). Si quieres, las resolvemos contra el registro de la DGT en otra tanda.
+
+— Niky
