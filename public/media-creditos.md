@@ -6688,3 +6688,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/sunra-rs-125e-2025-ficha-tecnica-precio-hunt1.webp | https://img.pccomponentes.com/articles/45/453027/1133-sunra-rs-125e-scooter-electrica-matriculable-3000w-40ah-negra.jpg | PcComponentes / Sunra (foto oficial de producto) | desconocida |
 | /media/sunra-rs-125e-2025-ficha-tecnica-precio-hunt2.webp | https://soymotero.net/wp-content/uploads/2023/03/sunra_rs_125e_grupo_negra.jpg | SoyMotero / Sunra (foto de prensa) | desconocida |
 | /media/sunra-rs-125e-2025-ficha-tecnica-precio-hunt3.webp | https://sxt-scooters.de/cdn/shop/files/sunra_rs_schwarz.jpg?v=1716809308&width=1500 | SXT Scooters / Sunra (foto de producto) | desconocida |
+| /media/alpine-a290-rallye-2026-precio-ficha-tecnica-hunt1.webp | https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/alpine-a290-rallye-front-quarter-static.jpg | Autocar / Alpine | desconocida |
+| /media/alpine-a290-rallye-2026-precio-ficha-tecnica-hunt2.webp | http://hdmotori.it/app/uploads/2025/07/Alpine-A290-Rallye.jpg | HDmotori / Alpine | desconocida |
+| /media/alpine-a290-rallye-2026-precio-ficha-tecnica-hunt3.webp | https://www.rmcmotori.com/wp-content/uploads/2025/10/A290-Rallye-7.webp | RMC Motori / Alpine | desconocida |
+| /media/mclaren-gt-2024-precio-ficha-tecnica-hunt1.webp | https://www.rollsroyceofgreenwich.com/imagetag/6370/11/l/Used-2023-McLaren-GT-Luxe.jpg | Miller Motorcars | desconocida |
+| /media/mclaren-gt-2024-precio-ficha-tecnica-hunt2.webp | https://www.motorshow.in.th/wp-content/uploads/2023/09/McLaren_GT_by_MSO_4.jpg | Motorshow.in.th / McLaren | desconocida |
+| /media/mclaren-gt-2024-precio-ficha-tecnica-hunt3.webp | https://static0.carbuzzimages.com/wordpress/wp-content/uploads/gallery-images/original/707000/300/707359.jpg?q=50&fit=contain&w=3000&h=2250&dpr=1.5 | CarBuzz / McLaren | desconocida |
+| /media/super-soco-tc-max-2025-ficha-tecnica-precio-hunt1.webp | https://www.greenwit.com/wp-content/uploads/2023/06/TCMax1.jpg | Greenwit Technologies | desconocida |
+| /media/super-soco-tc-max-2025-ficha-tecnica-precio-hunt2.webp | https://static.arrajol.com/users/user466146/2021-super-soco-tc-max-cosmic-grey-1024x781.jpg | Arrajol | desconocida |
+| /media/super-soco-tc-max-2025-ficha-tecnica-precio-hunt3.webp | https://www.bikeit.gr/images/stories/new_models/super-soco/2019/tc-max/super-soco-2019-7.jpg | Bikeit.gr | desconocida |
+| /media/next-nx1-2025-ficha-tecnica-precio-hunt1.webp | https://www.motopoint.mt/wp-content/uploads/2024/04/NX1PerfilDerech.webp | MotoPoint Malta | desconocida |
+| /media/next-nx1-2025-ficha-tecnica-precio-hunt2.webp | http://zero-center.com/cdn/shop/files/NX13_4Derecho.png?v=1709109663&width=2048 | Zero Center | desconocida |
+| /media/next-nx1-2025-ficha-tecnica-precio-hunt3.webp | https://primary.jwwb.nl/public/x/r/x/temp-gpblybjptzxwpuxvoxin/nx1_11-high.jpg?enable-io=true&width=600 | MotoDream | desconocida |
