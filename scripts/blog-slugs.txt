@@ -3845,3 +3845,17 @@ can-am-pulse-ficha-tecnica-precio
 yamaha-niken-gt-2025-ficha-tecnica-precio
 peugeot-2008-2024-precio-ficha-tecnica
 geely-record-ventas-2026-almussafes
+bmw-i5-m60-xdrive-touring-2025-precio-electrico
+bmw-m3-cs-touring-2025-precio-record
+mini-countryman-s-all4-2025-precio-suv
+mini-countryman-e-2026-precio-electrico
+mercedes-glb-250-eq-2026-precio-electrico
+mercedes-glb-350-eq-2026-precio-electrico
+audi-a6-avant-2025-precio-familiar
+audi-q5-sportback-2025-precio-suv
+audi-a5-avant-2025-precio-familiar
+audi-q3-sportback-e-hybrid-2026-precio-hibrido
+audi-s5-avant-2025-precio-deportivo
+volkswagen-golf-gti-edition-50-2026-precio-edicion-50-aniversario
+cupra-formentor-vz5-2026-precio-edicion-limitada-390-cv
+genesis-electrified-g80-2026-precio-berlina-electrica-lujo

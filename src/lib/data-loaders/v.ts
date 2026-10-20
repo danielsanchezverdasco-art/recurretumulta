@@ -74,6 +74,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "volkswagen-golf-gte-272-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp14.ts"),
     "volkswagen-golf-gti-2026-precio-ficha-tecnica": () => import("../blog-posts-volkswagen-a.ts"),
     "volkswagen-golf-gti-clubsport-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp7.ts"),
+    "volkswagen-golf-gti-edition-50-2026-precio-edicion-50-aniversario": () => import("../blog-posts-sin-blog-t5.ts"),
     "volkswagen-golf-r-2026-precio-ficha-tecnica": () => import("../blog-posts-volkswagen-a.ts"),
     "volkswagen-golf-r-variant-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp17.ts"),
     "volkswagen-golf-variant-15-etsi-2026-precio-ficha-tecnica": () => import("../blog-posts-volkswagen-a.ts"),
