@@ -7462,3 +7462,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/zontes-350d-2026-ficha-tecnica-precio-hunt1.webp | https://zontes.hr/wp-content/uploads/2025/06/350D-siva-2.png | Zontes Hrvatska (importador oficial) | desconocida |
 | /media/zontes-350d-2026-ficha-tecnica-precio-hunt2.webp | https://zontes.hr/wp-content/uploads/2025/06/350D-crna-3.png | Zontes Hrvatska (importador oficial) | desconocida |
 | /media/zontes-350d-2026-ficha-tecnica-precio-hunt3.webp | https://zontes.hr/wp-content/uploads/2025/06/350D-bijela-6.png | Zontes Hrvatska (importador oficial) | desconocida |
+| /media/leapmotor-a10-2026-precio-ficha-tecnica-hunt1.webp | https://carnewschina.com/wp-content/uploads/2025/11/leapmotor_a10_official_images-1-800x450.jpg | Leapmotor (prensa oficial, vía CarNewsChina) | desconocida |
+| /media/leapmotor-a10-2026-precio-ficha-tecnica-hunt2.webp | https://carnewschina.com/wp-content/uploads/2026/02/e59bbee78987-120-800x450.png | Leapmotor (prensa oficial, vía CarNewsChina) | desconocida |
+| /media/leapmotor-a10-2026-precio-ficha-tecnica-hunt3.webp | https://carnewschina.com/wp-content/uploads/2026/02/e59bbee78987-118-800x395.png | Leapmotor (prensa oficial, vía CarNewsChina) | desconocida |
+| /media/nevo-a05-2025-precio-ficha-tecnica-hunt1.webp | https://live.staticflickr.com/65535/54836320234_abf9ef82e6_o.jpg | 2nd Opinion / Changan Philippines (Inchcape) | desconocida |
+| /media/nevo-a05-2025-precio-ficha-tecnica-hunt2.webp | https://live.staticflickr.com/65535/54836335073_e039b101fc_o.jpg | 2nd Opinion / Changan Philippines (Inchcape) | desconocida |
+| /media/nevo-a05-2025-precio-ficha-tecnica-hunt3.webp | https://live.staticflickr.com/65535/54836410230_0d37b4749e_o.jpg | 2nd Opinion / Changan Philippines (Inchcape) | desconocida |
+| /media/yamaha-xmax-300-tech-max-2025-ficha-tecnica-precio-hunt1.webp | https://www.motosan.es/wp-content/uploads/2025/01/2025-Yamaha-XMAX300ASVH-EU-Ceramic_Grey-Action-008-03-1024x576.jpg | Yamaha (prensa oficial, vía Motosan) | desconocida |
+| /media/yamaha-xmax-300-tech-max-2025-ficha-tecnica-precio-hunt2.webp | https://www.motosan.es/wp-content/uploads/2025/01/2025-Yamaha-XMAX300ASVH-EU-Ceramic_Grey-Static-005-03-1024x576.jpg | Yamaha (prensa oficial, vía Motosan) | desconocida |
+| /media/yamaha-xmax-300-tech-max-2025-ficha-tecnica-precio-hunt3.webp | https://www.motosan.es/wp-content/uploads/2025/01/2025-Yamaha-XMAX300ASVH-EU-Ceramic_Grey-Studio-007-03-1024x576.jpg | Yamaha (prensa oficial, vía Motosan) | desconocida |
+| /media/voge-sr1-125-2026-ficha-tecnica-precio-hunt1.webp | https://www.motosan.es/wp-content/uploads/2026/04/voge-SR1-galeria-5.jpg | Voge (prensa oficial, vía Motosan) | desconocida |
+| /media/voge-sr1-125-2026-ficha-tecnica-precio-hunt2.webp | https://www.motosan.es/wp-content/uploads/2026/04/voge-SR1-galeria-3.jpg | Voge (prensa oficial, vía Motosan) | desconocida |
+| /media/voge-sr1-125-2026-ficha-tecnica-precio-hunt3.webp | https://www.motosan.es/wp-content/uploads/2026/04/voge-SR1-galeria-2-1024x683.jpg | Voge (prensa oficial, vía Motosan) | desconocida |
