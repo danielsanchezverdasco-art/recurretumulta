@@ -7546,3 +7546,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/nevo-q07-2025-precio-ficha-tecnica-hunt1.webp | https://global-img.bitauto.com/yhzx/20250314/714/193551171489864.jpg | BitAuto / Changan Nevo (imagen de presentacion oficial) | desconocida |
 | /media/nevo-q07-2025-precio-ficha-tecnica-hunt2.webp | https://fordreamauto.com/wp-content/uploads/2025/06/FuDuiAuto_Changan-Nevo-Q07-2025_002.jpg | Changan Nevo (imagen oficial reproducida por Fordream Auto) | desconocida |
 | /media/nevo-q07-2025-precio-ficha-tecnica-hunt3.webp | https://changan.az/wp-content/uploads/Q07-6-1.webp | Changan Azerbaijan (distribuidor oficial Changan) | desconocida |
+| /media/changan-uni-v-2025-precio-ficha-tecnica-hunt1.webp | https://commons.wikimedia.org/wiki/Special:FilePath/Changan_UNI-V.jpg?width=1280 | Zoerides / Wikimedia Commons | CC BY-SA 4.0 |
+| /media/changan-uni-v-2025-precio-ficha-tecnica-hunt2.webp | https://commons.wikimedia.org/wiki/Special:FilePath/Changan_UNI-V_002.jpg?width=1280 | JustAnotherCarDesigner / Wikimedia Commons | CC BY-SA 4.0 |
+| /media/changan-uni-v-2025-precio-ficha-tecnica-hunt3.webp | https://commons.wikimedia.org/wiki/Special:FilePath/Changan_UNI-V_rear.jpg?width=1280 | Zoerides / Wikimedia Commons | CC BY-SA 4.0 |
+| /media/efun-tiger-2026-ficha-tecnica-precio-hunt1.webp | https://www.efunmotos.com/wp-content/uploads/2025/06/2-1.jpg | EFUN (web oficial efunmotos.com) | desconocida |
+| /media/efun-tiger-2026-ficha-tecnica-precio-hunt2.webp | https://www.efunmotos.com/wp-content/uploads/2025/05/ESTILO-URBANO.jpg | EFUN (web oficial efunmotos.com) | desconocida |
+| /media/efun-tiger-2026-ficha-tecnica-precio-hunt3.webp | https://www.efunmotos.com/wp-content/uploads/2026/01/A745304.jpg | EFUN (web oficial efunmotos.com) | desconocida |
+| /media/ktm-990-duke-r-2025-ficha-tecnica-precio-hunt1.webp | https://cdn-fastly.motorcycle.com/media/2024/10/31/15099/s-2025-ktm-990-duke-r-gallery.jpg?size=1200x628 | KTM (prensa oficial) via Motorcycle.com | desconocida |
+| /media/ktm-990-duke-r-2025-ficha-tecnica-precio-hunt2.webp | https://www.canariasenmoto.com/images/varias/2025_KTM_990_DUKE_R-5.jpg | KTM (prensa oficial) via Canariasenmoto | desconocida |
+| /media/ktm-990-duke-r-2025-ficha-tecnica-precio-hunt3.webp | https://www.canariasenmoto.com/images/varias/2025_KTM_990_DUKE_R-1.jpg | KTM (prensa oficial) via Canariasenmoto | desconocida |
+| /media/nio-et5-2025-precio-ficha-tecnica-hunt1.webp | https://commons.wikimedia.org/wiki/Special:FilePath/NIO_ET5.jpg?width=1280 | conceptphoto.info / Wikimedia Commons | CC BY 2.0 |
+| /media/nio-et5-2025-precio-ficha-tecnica-hunt2.webp | https://commons.wikimedia.org/wiki/Special:FilePath/NIO_ET5_IMG_8291.jpg?width=1280 | Alexander-93 / Wikimedia Commons | CC BY-SA 4.0 |
+| /media/nio-et5-2025-precio-ficha-tecnica-hunt3.webp | https://commons.wikimedia.org/wiki/Special:FilePath/NIO_ET5_IMG002.jpg?width=1280 | Zotyefan / Wikimedia Commons | CC BY-SA 4.0 |
