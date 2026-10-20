@@ -197,6 +197,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "vsett-8-plus": () => import("../blog-posts-patinetes-exp-p2.ts"),
     "vsett-9": () => import("../blog-posts-patinetes-exp-p2.ts"),
     "vsett-9-apex": () => import("../blog-posts-patinetes-exp-p2.ts"),
+    "vsett-9-plus-r": () => import("../blog-posts-patinetes-exp-p15.ts"),
     "vw-california-beach-2026-analisis-opinion": () => import("../blog-posts-campers-vw.ts"),
     "vw-california-coast-2026-analisis-opinion": () => import("../blog-posts-campers-vw.ts"),
     "vw-california-ocean-2026-analisis-opinion": () => import("../blog-posts-campers-vw.ts"),

@@ -13,6 +13,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "kaabo-skywalker-10": () => import("../blog-posts-patinetes-exp-p8.ts"),
     "kaabo-skywalker-10s": () => import("../blog-posts-patinetes-exp-p8.ts"),
     "kaabo-skywalker-8": () => import("../blog-posts-patinetes-exp-p8.ts"),
+    "kaabo-skywalker-8h": () => import("../blog-posts-patinetes-exp-p15.ts"),
     "kaabo-skywalker-8s": () => import("../blog-posts-patinetes-exp-p2.ts"),
     "kaabo-wolf-king-gtr": () => import("../blog-posts-patinetes-exp-p2.ts"),
     "kaabo-wolf-king-gtr-max": () => import("../blog-posts-patinetes-exp-p2.ts"),

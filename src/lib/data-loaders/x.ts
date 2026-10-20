@@ -5,6 +5,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "xev-yoyo-2025-precio-ficha-tecnica": () => import("../blog-posts-batch2b-4.ts"),
     "xev-yoyo-pro-2026-precio-ficha-tecnica": () => import("../blog-posts-lote2.ts"),
     "xgo-x-van-104-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin4.ts"),
+    "xiaomi-5-elite": () => import("../blog-posts-patinetes-exp-p15.ts"),
     "xiaomi-electric-scooter-4-lite-2nd-gen": () => import("../blog-posts-patinetes-exp-p1.ts"),
     "xiaomi-electric-scooter-4-pro-2nd-gen": () => import("../blog-posts-patinetes-exp-p1.ts"),
     "xiaomi-electric-scooter-4-pro-plus": () => import("../blog-posts-patinetes-exp-p9.ts"),

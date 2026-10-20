@@ -167,6 +167,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "dualtron-new-storm-ltd": () => import("../blog-posts-patinetes-exp-p8.ts"),
     "dualtron-pop": () => import("../blog-posts-patinetes-exp-p8.ts"),
     "dualtron-pop-dual": () => import("../blog-posts-patinetes-exp-p8.ts"),
+    "dualtron-popular": () => import("../blog-posts-patinetes-exp-p15.ts"),
     "dualtron-raptor-2": () => import("../blog-posts-patinetes-exp-p8.ts"),
     "dualtron-sonic-a": () => import("../blog-posts-patinetes-exp-p8.ts"),
     "dualtron-spider-2": () => import("../blog-posts-patinetes-exp-p2.ts"),

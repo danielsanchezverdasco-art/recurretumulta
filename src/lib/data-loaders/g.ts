@@ -82,6 +82,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "gotrax-g3-plus": () => import("../blog-posts-patinetes-exp-p5.ts"),
     "gotrax-g5": () => import("../blog-posts-patinetes-exp-p9.ts"),
     "gotrax-g6": () => import("../blog-posts-patinetes-exp-p5.ts"),
+    "gotrax-gmax-ultra": () => import("../blog-posts-patinetes-exp-p15.ts"),
     "gotrax-gx-zero": () => import("../blog-posts-patinetes-exp-p5.ts"),
     "gotrax-gx1": () => import("../blog-posts-patinetes-exp-p5.ts"),
     "gotrax-gx2": () => import("../blog-posts-patinetes-exp-p5.ts"),

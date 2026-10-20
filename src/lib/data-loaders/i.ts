@@ -38,6 +38,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "ineos-grenadier-trialmaster-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp10.ts"),
     "inmotion-air": () => import("../blog-posts-patinetes-exp-p3.ts"),
     "inmotion-air-pro": () => import("../blog-posts-patinetes-exp-p3.ts"),
+    "inmotion-climber": () => import("../blog-posts-patinetes-exp-p15.ts"),
     "inmotion-l9": () => import("../blog-posts-patinetes-exp-p3.ts"),
     "inmotion-rs-lite": () => import("../blog-posts-patinetes-exp-p3.ts"),
     "inmotion-rs-midnight": () => import("../blog-posts-patinetes-exp-p3.ts"),

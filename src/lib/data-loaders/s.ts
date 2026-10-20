@@ -49,6 +49,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "segway-ninebot-e2-pro": () => import("../blog-posts-patinetes-exp-p1.ts"),
     "segway-ninebot-e22e": () => import("../blog-posts-patinetes-exp-p9.ts"),
     "segway-ninebot-e25e": () => import("../blog-posts-patinetes-exp-p9.ts"),
+    "segway-ninebot-e3": () => import("../blog-posts-patinetes-exp-p15.ts"),
     "segway-ninebot-e3-pro": () => import("../blog-posts-patinetes-exp-p1.ts"),
     "segway-ninebot-f2-ii": () => import("../blog-posts-patinetes-exp-p6.ts"),
     "segway-ninebot-f2-pro-ii": () => import("../blog-posts-patinetes-exp-p6.ts"),

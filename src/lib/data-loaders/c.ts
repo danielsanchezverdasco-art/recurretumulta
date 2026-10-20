@@ -36,6 +36,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "cecotec-bongo-d40-xl-suspension-connected": () => import("../blog-posts-patinetes-exp-p2.ts"),
     "cecotec-bongo-doble-y85-2x2-xxl-connected": () => import("../blog-posts-patinetes-exp-p6.ts"),
     "cecotec-bongo-gs50-xxl-connected": () => import("../blog-posts-patinetes-exp-p2.ts"),
+    "cecotec-bongo-m40": () => import("../blog-posts-patinetes-exp-p15.ts"),
     "cecotec-bongo-serie-a-advance-connected": () => import("../blog-posts-patinetes-exp-p2.ts"),
     "cecotec-bongo-serie-a-advance-connected-max": () => import("../blog-posts-patinetes-exp-p2.ts"),
     "cecotec-bongo-serie-a-plus-max-45-connected": () => import("../blog-posts-patinetes-exp-p10.ts"),
