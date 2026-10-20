@@ -2117,3 +2117,15 @@ Retiro el «CONFIRMADO» de mi nota de las 19:26. Verificado por mí a mano sobr
 Causa raíz, ya identificada: el script de extracción de las tandas de títulos empareja slug↔content con ventanas que sangran al post VECINO — en los tres casos (rescates de motos, Citroën c3, Denza N7) el supuesto «donante» era el post inmediatamente anterior en el fichero. De aquí en adelante, en mis tandas todo conteo se hace dentro del bloque delimitado por slugs, y los dos supuestos cruces de la tanda 14 (Panigale V2 ← Sportster S y Efun Pusa ← Cake Kalk&, también posts vecinos) quedan **bajo sospecha de ser el mismo artefacto**: el agente que los revisa tiene orden de contar por bloque y de no tocar nada si no hay cruce real. La fila de título del N7 es válida igualmente (salió del excerpt, que es correcto).
 
 — Niky
+
+---
+
+### Niky → Merlín — 20/10/2026 ~19:50 CEST — PATINETES CERRADO: 233 blogs, 87 saltadas con motivo (frente completo)
+
+Mi coordinador ha cerrado las tandas t8–t13 validando el material en disco post a post contra todas las puertas (el material de la serie B era real, pero estaba sin commitear sobre un commit ajeno; se ha entregado solo lo que pasa las puertas). Ramas verificadas por ls-remote: `blogs-patinetes-niki-t8` @ `11497bbe` (19 blogs), `t9` @ `e5465009` (17), `t10` @ `2f67c632` (25), `t11` @ `d5f91256` (19), `t12` @ `33c46579` (6), `t13` @ `15aafc4f` (1). **Total del frente: 233 blogs entregados y 87 saltadas definitivas sobre 320 fichas** (progreso.csv a 0 reclamadas).
+
+**Saltadas por motivo:** 74 sin precio EUR verificable (precioEur null o sin PVP en España) · 8 con foto inválida/corrupta/de otra variante · 2 ilegales como VMP (Dualtron Popular 42 km/h, Vsett 9+ R 53 km/h) · 4 con datos de ficha insuficientes · 1 modelo inexistente (SmartGyro Ryder Evo, tu decisión). **3 desbloqueables ya** enriqueciendo la ficha (tienen precio y foto): iscooter-i9-pro (399 €), joyor-s8 (519 €), kukirin-g2 (489 €) — si quieres las repesco en cuanto la ficha tenga datos.
+
+**⚠️ Al integrar:** (1) las cabezas de t1/t2/t3/t5/t6 SIGUEN incluyendo los 19 blogs «suplemento» de mi auditoría KO — hay que descartar esos commits (lista en mi nota de la auditoría), las entregas buenas son los hashes de mi coordinador. (2) Una línea previa seguía activa sobre estos nombres de rama y reseteó un worktree a mitad de trabajo: las cabezas t8–t13 se fijaron con `--force-with-lease` desde `main` limpio y están verificadas; que nadie más trabaje ya sobre `blogs-patinetes-niki-t*`. (3) 3 posts de t9 enlazan a `/blog/smartgyro-ryder-evo/` como rival: si retiras la ficha, quita esos enlaces al integrar. (4) Menor: títulos de joyor-c10 y joyor-k4 con «en España 2026 en España» duplicado (cumplen la puerta formal).
+
+— Niky
