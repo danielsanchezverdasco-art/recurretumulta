@@ -1725,3 +1725,24 @@ Pendientes documentados: mezcla de datos 2024/2025 en hongqi-hs3-phev-2025 (pros
 **Nulos honestos (9):** qoros-7 (marca cesada), jmc-vigus (exportación sin 指导价), soueast-s06-dm (exportación sin 指导价), qoros-5s (producción detenida), lynk-co-05-emp (sin tarifa oficial publicada), maserati-mc20-notte (Maserati no anunció precio), mclaren-750s-le-mans (McLaren no comunicó precio), mazda-2-e-skyactiv-g (no se vende nuevo en España en 2026), mazda-mx-30-ev (retirado de Europa). Todos con contra explicativa.
 
 **Pendientes/caveats:** `maserati-grecale-folgore-2027-precio-ficha-tecnica` (fila CSV sin_precio): el slug NO existe en main @16a6aea4 — no hay ficha que corregir; Soueast S06 DM: precio oficial saudí verificado 112.585 SAR (soueast.sa) — no usado por regla de monedas (fuera de los tipos BCE documentados); GT2 Stradale 402.400 € = precio UK anunciado (£338.880, autoexpress) — sin tarifa ES; Levante Modena y Quattroporte GT con precios UK oficiales (las 350 CV ya no están en maserati.com/es); Luxeed V9 309 CV citado por yiche como dato de 智界官方 (manual PDF no accesible); MX-5: potenciaCv intacto (la gama 1.5 pasó a 136 CV — pendiente verificación oficial); bug del coordinador: los «valores actuales placeholder» de los briefs AG3/AG4 venían de un regex defectuoso en mi extracción — los AGs verificaron contra diff real, sin impacto. Tipos BCE 19/10/2026: 1 € ≈ 7,50 CNY / 1,1225 USD / 0,8421 GBP.
+
+
+## 2026-10-20 ~07:15 CEST — @grok lote listo fichas geo 15 (47/47)
+
+**Tanda 15** (filas CSV 701-750 de `docs/seo/fichas-problematicas-geo.csv`): **47/47** slugs corregidos (AG1 20 + AG2 4 + AG3 4 + AG4 9 + AG5 10). Nota: el CSV no existe en main @16a6aea4 (se descargó de completar-fichas); mapeo slug→fichero verificado 1x1 contra main vía Git Data API (47/47 encontrados, 11 ficheros; 19 slugs estaban en nuevos-c1/c2, no en los ficheros de marca).
+
+**Rama:** origin/merlin-fichas-geo-15 @ `3ea2fe58175015d40331748fa04c0494d8145cd3` (desde main @16a6aea4, sin force). 8 commits:
+- @3fe32c4d — nuevos-c1: byd/chery/icaur/geely/gwm/haval/mg (20 registros, 指导价 en aprox)
+- @4d6625ac — nuevos-c2: aito/nio/zeekr 2026 (4 registros, 指导价 en aprox)
+- @b7b961e0 — mclaren (4 registros)
+- @d20d7051 — mercedes-benz (2 registros, tarifa oficial ES)
+- @4e82dbc1 — mitsubishi (5 registros, tarifa oficial ES)
+- @1058d48e — nevo (7 registros, 指导价 en aprox)
+- @c1e85a98 — nio (3 registros)
+- @3ea2fe58 — nissan + noble (2 registros)
+
+**QA:** merge_t15.py --check OK (cada AG tocó exactamente sus registros y solo campos tocables: contras/precioDesde/potenciaCv/autonomiaKm/aprox); exactamente los 47 slugs declarados cambiaron, orden y conjunto de registros intactos; nunca se tocó `precio` ni congelados (marca/modelo/nombre/imagen/títulos/metas/H1/pros/año); validación sintáctica real con type-stripping nativo (Node 24, imports dinámicos de los 9 .ts, exports resueltos) + spot checks (zeekr-001 36.000 €/810 km, noble 178.100 €, nio-et9 105.100 €/707 CV/650 km, clase-c-200 53.878 €, eclipse LFP 218 CV/41.390 €); compare main...geo-15 ahead 8/behind 0, 9 ficheros modificados, 0 eliminados. **Faltantes resueltos con fuente:** potenciaCv Eclipse Cross EV LFP → 218 CV; autonomiaKm NIO ET9 → 650 km CLTC (+potencia 697→707 CV); autonomiaKm Zeekr 001 → 810 km CLTC.
+
+**Nulos honestos (7):** chery-tiggo-4-pro-15t-2026 (modelo de exportación, sin 指导价 en China); mclaren-788hs-2026 (existe — Goodwood 9/7/2026, 200 uds. — McLaren no publica precio); mclaren-artura-1000gp-2026 (existe — MSO 10 uds. — sin precio oficial); mclaren-750s-mcl38-celebration-2025 (existe — 9+9 uds. — sin precio oficial); mercedes-benz-amg-g-63 (sin tarifa pública); mitsubishi-asx-100t-2025 (descatalogada oct-2025, sustituida por 120T); nissan-primastar-combi-dci170-2026 (Nissan no publica tarifa). Todos con contra explicativa.
+
+**Pendientes/caveats:** pros congelados citan precios antiguos (grandis, asx-100t/120t, nevo-a06/q05, nio-et9 697 CV) — compensados con contras del dato oficial vigente; los pros no se tocan por regla. geely-atlas-2025 usó el gemelo chino 博越L 2.0T (218 CV) porque «Atlas» no existe como tal en China. mg7-2025 usó el 指导价 2026款 vigente (sin dato 2025 publicado). ora-03-gt: sin tarifa ES verificable (gwm-motor.es requiere navegador en vivo) → fallback honesto chino 12.900 €. nevo-q05 describe la versión EV de 405 km descatalogada en oct-2026; el precio es el 指导价 oficial vigente de la gama. eclipse-cross-ev-lfp: potencia 218 CV (160 kW) del comunicado oficial Mitsubishi Motors Europe vía prensa especializada (mejor fuente oficial disponible). noble-m500: 150.000 GBP → 178.100 € (0,8421). mclaren-gt: última tarifa oficial publicada 167.560 GBP → 199.000 € (el GT fue sustituido por el GTS; no hubo tarifa «2024»). Tipos BCE 19/10/2026: 1 € ≈ 7,50 CNY / 1,1225 USD / 0,8421 GBP.
