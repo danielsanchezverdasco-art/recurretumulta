@@ -119,6 +119,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "triumph-bonneville-t120-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m22.ts"),
     "triumph-daytona-660-2026-precio-ficha": () => import("../blog-posts-lote15.ts"),
     "triumph-rocket-3-storm-gt-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m8.ts"),
+    "triumph-rocket-3-storm-r-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t5.ts"),
     "triumph-scrambler-1200-xe-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m8.ts"),
     "triumph-scrambler-1200-xe-2026-precio-ficha": () => import("../blog-posts-lote15.ts"),
     "triumph-scrambler-400-x-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m2.ts"),

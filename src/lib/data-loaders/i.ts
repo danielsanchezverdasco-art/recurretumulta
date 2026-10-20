@@ -26,6 +26,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "im-motors-l6-2025-precio-ficha-tecnica": () => import("../blog-posts-batch2b-2.ts"),
     "im-motors-ls6-nuevo-suv-electrico-model-y": () => import("../blog-posts-modelos-desconocidos.ts"),
     "indian-101-scout-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m4.ts"),
+    "indian-chief-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-niki-t5.ts"),
     "indian-chief-bobber-dark-horse-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m4.ts"),
     "indian-ftr-1200-sport-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m12.ts"),
     "indian-pursuit-dark-horse-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m12.ts"),
