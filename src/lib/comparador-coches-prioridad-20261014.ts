@@ -1655,6 +1655,8 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
   },
   {
     id: "hyundai-elantra-n-2024",
+    fuenteNombre: "Hyundai N (web oficial global; modelo no comercializado en España)",
+    fuenteUrl: "https://www.hyundai-n.com/en/models/n/elantra-n",
     marca: "Hyundai",
     modelo: "Elantra N",
     tipo: "Gasolina",
@@ -1738,6 +1740,8 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
   },
   {
     id: "hyundai-i20-n-2024",
+    fuenteNombre: "Hyundai N (web oficial global)",
+    fuenteUrl: "https://www.hyundai-n.com/en/models/n/i20-n",
     marca: "Hyundai",
     modelo: "i20 N",
     tipo: "Gasolina",
@@ -1820,6 +1824,8 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
   },
   {
     id: "hyundai-i30-fastback-n-2024",
+    fuenteNombre: "Hyundai N (web oficial global)",
+    fuenteUrl: "https://www.hyundai-n.com/en/models/legacy/i30-fastback-n",
     marca: "Hyundai",
     modelo: "i30 Fastback N",
     tipo: "Gasolina",
@@ -1903,6 +1909,8 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
   },
   {
     id: "hyundai-kona-n-2023",
+    fuenteNombre: "Hyundai N (web oficial global)",
+    fuenteUrl: "https://www.hyundai-n.com/en/models/legacy/kona-n",
     marca: "Hyundai",
     modelo: "Kona N",
     tipo: "Gasolina",

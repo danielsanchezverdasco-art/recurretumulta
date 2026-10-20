@@ -209,6 +209,31 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "toyota-gr86-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP"
+    },
+    planMantenimiento: {
+      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+      revisiones: [
+        {
+          nombre: "Revisión intermedia / 15.000 km",
+          queSeCambia: "Aceite del motor + filtro de aceite + inspección general",
+          costeAproxEur: null
+        },
+        {
+          nombre: "Revisión principal / 30.000 km",
+          queSeCambia: "Aceite del motor + filtro de aceite + filtro de aire + filtro de polen + líquido de frenos (según plan)",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento Toyota España (15.000 km o 12 meses)"
+    },
+    fuenteNombre: "Toyota España",
+    fuenteUrl: "https://www.toyota.es/coches/gr86",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1067,6 +1092,31 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "toyota-corolla-sedan-140h-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2019,
+      url: null,
+      nota: "Prueba del Toyota Corolla, 2019"
+    },
+    planMantenimiento: {
+      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+      revisiones: [
+        {
+          nombre: "Revisión intermedia / 15.000 km",
+          queSeCambia: "Aceite del motor + filtro de aceite + inspección general + chequeo del sistema híbrido",
+          costeAproxEur: null
+        },
+        {
+          nombre: "Revisión principal / 30.000 km",
+          queSeCambia: "Aceite del motor + filtro de aceite + filtro de aire + filtro de polen + líquido de frenos (según plan) + chequeo del sistema híbrido",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento Toyota España (15.000 km o 12 meses)"
+    },
+    fuenteNombre: "Toyota España",
+    fuenteUrl: "https://www.toyota.es/coches/corolla-sedan",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,

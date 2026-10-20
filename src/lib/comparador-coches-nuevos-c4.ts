@@ -85,6 +85,8 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
   },
   {
     id: "toyota-land-cruiser-250-2025-precio-ficha-tecnica",
+    fuenteNombre: "Toyota España",
+    fuenteUrl: "https://www.toyota.es/coches/land-cruiser",
     marca: "Toyota",
     modelo: "Land Cruiser 250 2025",
     tipo: "Híbrido ligero",
@@ -161,6 +163,8 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
   },
   {
     id: "toyota-bz4x-2026-precio-ficha-tecnica",
+    fuenteNombre: "Toyota España",
+    fuenteUrl: "https://www.toyota.es/coches/bz4x",
     marca: "Toyota",
     modelo: "bZ4X 2026",
     tipo: "Eléctrico",

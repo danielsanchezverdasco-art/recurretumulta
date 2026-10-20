@@ -23,6 +23,7 @@ import { HISTORIA_EXP18 } from "./historia-exp18.ts";
 import { HISTORIA_EXP19 } from "./historia-exp19.ts";
 import { HISTORIA_EXP20 } from "./historia-exp20.ts";
 import { HISTORIA_EXP21 } from "./historia-exp21.ts";
+import { HISTORIA_ENRIQUECER_T9 } from "./historia-enriquecer-t9.ts";
 import { HISTORIA_M10 } from "./historia-m10.ts";
 import { HISTORIA_M11 } from "./historia-m11.ts";
 import { HISTORIA_M12 } from "./historia-m12.ts";
@@ -1703,6 +1704,7 @@ export const HISTORIA_MODELOS: Record<string, HistoriaModelo> = {
   "toyota-bz4x-224-2025-precio-ficha-tecnica": { lanzamiento: 2022, hitos: [{ anio: 2022, tipo: "lanzamiento", cambio: null, foto: "/media/historia-toyota-bz4x-224-2025-precio-ficha-tecnica-2022.webp" }, { anio: 2025, tipo: "restyling", cambio: "restyling/facelift de mitad de ciclo", foto: null }] },
   "hyundai-ioniq-9-long-range-2025-precio-ficha-tecnica": { lanzamiento: 2024, hitos: [{ anio: 2024, tipo: "lanzamiento", cambio: null, foto: "/media/historia-hyundai-ioniq-9-long-range-2025-precio-ficha-tecnica-2024.webp" }] },
   "hyundai-kona-electrico-135-2025-precio-ficha-tecnica": { lanzamiento: 2023, hitos: [{ anio: 2023, tipo: "lanzamiento", cambio: null, foto: "/media/historia-hyundai-kona-electrico-135-2025-precio-ficha-tecnica-2023.webp" }] },
+  ...HISTORIA_ENRIQUECER_T9,
 };
 export function historiaDeModelo(fichaId: string): HistoriaModelo | undefined {
   return HISTORIA_MODELOS[fichaId];

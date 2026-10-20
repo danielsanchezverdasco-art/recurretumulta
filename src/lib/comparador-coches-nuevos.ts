@@ -6,6 +6,25 @@ import type { CocheComparador } from "./comparador-coches-data";
 export const COCHES_NUEVOS: CocheComparador[] = [
   {
     id: "nuevo-hyundai-tucson-2027-presentacion-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP"
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros e inspección general",
+          costeAproxEur: null,
+        },
+      ],
+      fuente: "Hyundai España",
+    },
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es/es/modelos/tucson.html",
     mantenimientoDIY: {
         resetAceiteTitulo: "Resetear aviso de cambio de aceite",
         resetAceitePasos: ["Con el contacto dado (botón Start sin pisar el freno), pulsa 'Setup' en la pantalla táctil central (o el botón físico Setup).", "Selecciona 'Vehículo' y, en el menú lateral, 'Convenience'.", "Entra en 'Intervalo de servicio' (Service Interval).", "Pulsa 'Reset' y confirma con 'Sí' cuando pregunte si se ha cambiado el aceite. Desde aquí también puedes ajustar los km/meses del próximo aviso."],
@@ -3103,6 +3122,25 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   },
   {
     id: "hyundai-i20-baja-precio-octubre-2026",
+    euroncap: {
+      estrellas: 4,
+      ano: 2021,
+      url: null,
+      nota: "Prueba del Hyundai i20 (3ª generación), 2021"
+    },
+    planMantenimiento: {
+      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión anual / 15.000 km",
+          queSeCambia: "Aceite, filtros e inspección general",
+          costeAproxEur: null,
+        },
+      ],
+      fuente: "Hyundai España",
+    },
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es/es/modelos/i20.html",
     mantenimientoDIY: {
         resetAceiteTitulo: "Resetear aviso de cambio de aceite",
         resetAceitePasos: ["Da el contacto sin arrancar el motor.", "Con los botones del volante, navega por el menú del cuadro hasta el aviso de intervalo de servicio.", "Selecciona 'RESET' y confirma con 'Sí' cuando el sistema pregunte si se ha cambiado el aceite."],
@@ -5734,6 +5772,31 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     },
   {
     id: "toyota-gr86-24-boxer",
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP"
+    },
+    planMantenimiento: {
+      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+      revisiones: [
+        {
+          nombre: "Revisión intermedia / 15.000 km",
+          queSeCambia: "Aceite del motor + filtro de aceite + inspección general",
+          costeAproxEur: null
+        },
+        {
+          nombre: "Revisión principal / 30.000 km",
+          queSeCambia: "Aceite del motor + filtro de aceite + filtro de aire + filtro de polen + líquido de frenos (según plan)",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento Toyota España (15.000 km o 12 meses)"
+    },
+    fuenteNombre: "Toyota España",
+    fuenteUrl: "https://www.toyota.es/coches/gr86",
     mantenimientoDIY: {
         resetAceiteTitulo: "Resetear aviso de cambio de aceite",
         resetAceitePasos: ["Con la puerta cerrada y SIN pisar el freno, pulsa dos veces el botón de arranque hasta que el cuadro de instrumentos se encienda (modo ON).", "Con los botones de la parte derecha del volante, navega por la pantalla multifunción hasta el icono del engranaje (Ajustes).", "Entra en 'Vehicle Settings' manteniendo pulsado OK.", "Desplázate hasta 'Oil Maintenance' o 'Mantenimiento programado' y entra con OK.", "Selecciona 'Yes' / 'Sí' cuando pregunte si quieres reiniciar los datos y confirma con OK hasta que aparezca el mensaje de confirmación.", "Apaga el contacto. El aviso queda reiniciado."],
@@ -8499,6 +8562,29 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   // 7. Toyota Land Cruiser (nueva generación 250, 2024)
   {
     id: "toyota-land-cruiser-2024-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP"
+    },
+    planMantenimiento: {
+      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+      revisiones: [
+        {
+          nombre: "Revisión intermedia / 15.000 km",
+          queSeCambia: "Aceite del motor + filtro de aceite + inspección general (incluida la tracción 4x4)",
+          costeAproxEur: null
+        },
+        {
+          nombre: "Revisión principal / 30.000 km",
+          queSeCambia: "Aceite del motor + filtro de aceite + filtro de aire + filtro de polen + líquido de frenos (según plan) + inspección de la transmisión (según plan)",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento Toyota España (15.000 km o 12 meses)"
+    },
     mantenimientoDIY: {
         resetAceiteTitulo: "Resetear aviso de cambio de aceite",
         resetAceitePasos: ["Con la puerta cerrada y SIN pisar el freno, pulsa dos veces el botón de arranque hasta que el cuadro de instrumentos se encienda (modo ON).", "Con los botones de la parte derecha del volante, navega por la pantalla multifunción hasta el icono del engranaje (Ajustes).", "Entra en 'Vehicle Settings' manteniendo pulsado OK.", "Desplázate hasta 'Oil Maintenance' o 'Mantenimiento programado' y entra con OK.", "Selecciona 'Yes' / 'Sí' cuando pregunte si quieres reiniciar los datos y confirma con OK hasta que aparezca el mensaje de confirmación.", "Apaga el contacto. El aviso queda reiniciado."],

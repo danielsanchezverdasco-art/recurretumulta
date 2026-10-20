@@ -1271,6 +1271,31 @@ export const COCHES_EXP14: CocheComparador[] = [
   },
   {
     id: "toyota-urban-cruiser-2026-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: null,
+      nota: "Prueba Euro NCAP del Toyota Urban Cruiser (2025): Euro NCAP aplica al Urban Cruiser los resultados de su gemelo, el Suzuki e Vitara"
+    },
+    planMantenimiento: {
+      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+      revisiones: [
+        {
+          nombre: "Revisión intermedia / 15.000 km",
+          queSeCambia: "Inspección general + filtro de habitáculo + chequeo de la batería de tracción y del sistema de carga",
+          costeAproxEur: null
+        },
+        {
+          nombre: "Revisión principal / 30.000 km",
+          queSeCambia: "Inspección general + filtro de habitáculo + líquido de frenos (según plan) + chequeo de la batería de tracción y del sistema de carga",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento Toyota España (15.000 km o 12 meses)"
+    },
+    fuenteNombre: "Toyota Alemania (modelo no comercializado en España)",
+    fuenteUrl: "https://www.toyota.de/entdecke-toyota/news/toyota-urban-cruiser-startet-durch",
     garantiaBateriaAnos: 10,
     garantiaBateriaKm: 1000000,
     garantiaBateriaDegradacionPct: 70,
@@ -1337,6 +1362,31 @@ export const COCHES_EXP14: CocheComparador[] = [
   },
   {
     id: "toyota-c-hr-plus-230-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: null,
+      nota: "Rating Euro NCAP del Toyota C-HR+ (2025), extendido desde el Toyota bZ4X, el modelo en el que se basa"
+    },
+    planMantenimiento: {
+      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+      revisiones: [
+        {
+          nombre: "Revisión intermedia / 15.000 km",
+          queSeCambia: "Inspección general + filtro de habitáculo + chequeo de la batería de tracción y del sistema de carga",
+          costeAproxEur: null
+        },
+        {
+          nombre: "Revisión principal / 30.000 km",
+          queSeCambia: "Inspección general + filtro de habitáculo + líquido de frenos (según plan) + chequeo de la batería de tracción y del sistema de carga",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento Toyota España (15.000 km o 12 meses)"
+    },
+    fuenteNombre: "Toyota España",
+    fuenteUrl: "https://www.toyota.es/coches/toyota-c-hr-plus",
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
@@ -1403,6 +1453,31 @@ export const COCHES_EXP14: CocheComparador[] = [
   },
   {
     id: "toyota-bz4x-224-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: null,
+      nota: "Prueba del Toyota bZ4X actualizado, 2025"
+    },
+    planMantenimiento: {
+      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+      revisiones: [
+        {
+          nombre: "Revisión intermedia / 15.000 km",
+          queSeCambia: "Inspección general + filtro de habitáculo + chequeo de la batería de tracción y del sistema de carga",
+          costeAproxEur: null
+        },
+        {
+          nombre: "Revisión principal / 30.000 km",
+          queSeCambia: "Inspección general + filtro de habitáculo + líquido de frenos (según plan) + chequeo de la batería de tracción y del sistema de carga",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento Toyota España (15.000 km o 12 meses)"
+    },
+    fuenteNombre: "Toyota España",
+    fuenteUrl: "https://www.toyota.es/coches/bz4x",
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,

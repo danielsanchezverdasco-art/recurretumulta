@@ -928,6 +928,8 @@ const COCHES_LOTE13_B: CocheComparador[] = [
   },
   {
     id: "toyota-bz5-2026-precio-ficha-tecnica",
+    fuenteNombre: "Toyota (web oficial global; modelo exclusivo del mercado chino)",
+    fuenteUrl: "https://global.toyota/en/",
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
