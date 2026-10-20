@@ -27,6 +27,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "zeekr-x-2024-precio-ficha-tecnica": () => import("../blog-posts-zeekr-a.ts"),
     "zeekr-x-2025-precio-ficha-tecnica": () => import("../blog-posts-nuevos-c2.ts"),
     "zero-10": () => import("../blog-posts-patinetes-exp-p9.ts"),
+    "zero-11x": () => import("../blog-posts-patinetes-exp-p18.ts"),
     "zero-9": () => import("../blog-posts-patinetes-exp-p9.ts"),
     "zero-ds-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m5.ts"),
     "zero-dsr-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m5.ts"),

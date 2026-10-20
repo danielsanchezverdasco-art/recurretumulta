@@ -45,6 +45,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "jaguar-type-01-electrico-1030-cv": () => import("../blog-posts-motor-2026-l.ts"),
     "jaguar-xe-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "jaguar-xf-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
+    "jeep-2xe-adventurer": () => import("../blog-posts-patinetes-exp-p18.ts"),
     "jeep-avenger-4xe-145-2026-precio-ficha-tecnica": () => import("../blog-posts-jeep-a.ts"),
     "jeep-avenger-e-hybrid-110-2026-precio-ficha-tecnica": () => import("../blog-posts-jeep-a.ts"),
     "jeep-avenger-electric-156-2026-precio-ficha-tecnica": () => import("../blog-posts-jeep-a.ts"),

@@ -253,6 +253,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "brixton-crossfire-500-x-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m3.ts"),
     "brixton-felsberg-125-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m3.ts"),
     "bronco-xtreme-11": () => import("../blog-posts-patinetes-exp-p4.ts"),
+    "bronco-xtreme-sport": () => import("../blog-posts-patinetes-exp-p18.ts"),
     "bronco-xtreme-vnom-11": () => import("../blog-posts-patinetes-exp-p4.ts"),
     "bsa-bantam-350-2026-precio-ficha-tecnica": () => import("../blog-posts-lote10.ts"),
     "buerstner-campeo-c-600-2026-precio-ficha-tecnica-analisis-opinion": () => import("../blog-posts-campers-eu2-a.ts"),

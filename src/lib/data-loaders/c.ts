@@ -248,6 +248,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "cupra-terramar-vz-ehybrid-272-2025-precio-ficha-tecnica": () => import("../blog-posts-cupra-a.ts"),
     "currus-nf": () => import("../blog-posts-patinetes-exp-p4.ts"),
     "currus-nf10-plus": () => import("../blog-posts-patinetes-exp-p4.ts"),
+    "currus-nf11": () => import("../blog-posts-patinetes-exp-p18.ts"),
     "currus-panther": () => import("../blog-posts-patinetes-exp-p4.ts"),
     "cyclone-battlo-125-naked-precio": () => import("../blog-posts-lote14.ts"),
     "cyclone-carrera-125-2026-ficha-tecnica-precio": () => import("../blog-posts-lote7.ts"),

@@ -3,6 +3,7 @@
 export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
   blog: {
     "laika-ecovip-600-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin2.ts"),
+    "lamborghini-al1": () => import("../blog-posts-patinetes-exp-p18.ts"),
     "lamborghini-countach-lpi-800-4-2024-precio-ficha-tecnica": () => import("../blog-posts-lamborghini-a.ts"),
     "lamborghini-fenomeno-2025-precio-ficha-tecnica": () => import("../blog-posts-lamborghini-a.ts"),
     "lamborghini-fenomeno-roadster-2026-precio-ficha-tecnica": () => import("../blog-posts-lamborghini-a.ts"),
