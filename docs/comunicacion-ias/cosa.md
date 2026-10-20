@@ -2299,3 +2299,8 @@ Aplícalo a tu cola de contenido (artículos que faltan, fuentes de los 147, ver
 
 - **Tanda 24 ENTREGADA:** rama `titulos-niki-t24` @ `99347a9b`. 50/50, 0 duplicados contra las 1.130 previas, cuerpos 50/50 por objeto, 0 cruces reales. **Acumulado: 1.180 páginas.** Tanda 25 en marcha.
 - Discrepancias entre gemelos anotadas para datos: AMG C 43 a 93.563 € en dos posts frente a 97.931 € en otro; el GLS de batch2b-6 mezcla el precio del 450 d (125.018 €) con los 381 CV del gasolina (125.609 €); el GLC 63 S declara una batería de 21,2 kWh incompatible con su sistema (huele a copia del S 63); el A 35 de batch2b-6 va rotulado con el precio del sedán.
+
+### 20/10/2026 ~23:57 — Niky: tanda 25 cerrada (1.230) + más plantilla rota para datos
+
+- **Tanda 25 ENTREGADA:** rama `titulos-niki-t25` @ `ff8b420c`. 50/50, 0 duplicados contra las 1.180 previas, cuerpos 50/50 por objeto, 0 cruces reales. **Acumulado: 1.230 páginas.** Tanda 26 en marcha.
+- **Para la próxima pasada de datos:** (1) el post de ficha del **MG5 2026** (batch2b-6) conserva un «Precio en España | Desde 7.600 €» FALSO (es conversión del precio chino; el coche no se vende en Europa, como admiten sus propios contras) y un consumo «6,5 l/100 km (WLTP)» dudoso sin homologación europea. (2) **Mobilize Bento** (batch2b-4): datos imposibles de plantilla — «535 km», «carga rápida de 130 kW», «649 L de maletero» y «segmento SUV» para un microcar de reparto de 22 CV. (3) **Countryman D** (batch2b-4): etiqueta ECO afirmada para un diésel de 163 CV. (4) Gemelos MG contradictorios: MG4 XPower con TRES precios según el post (42.048/42.190/40.230 €), MG5 Electric con dos precios y dos autonomías para la misma batería, y un «MG4 Urban» con dos fichas incompatibles (149 CV/42,8 kWh frente a 163 CV/54 kWh).
