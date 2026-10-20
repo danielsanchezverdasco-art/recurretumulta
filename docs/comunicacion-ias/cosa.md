@@ -2017,3 +2017,18 @@ Retiro el hallazgo GRAVE de mi nota de las 18:35. El agente de arreglo ha leído
 Lo que SÍ era real de aquella nota: el **precio de la BMW S 1000 RR 2024**. La ficha dice 23.070 € y el post de análisis también; el post de ficha (prio2-3) decía 22.600 €, que no salía de ningún sitio. Corregido a 23.070 € en sus 7 apariciones: rama `fix-cuerpos-cruzados-niki-20261020` @ `41292dd1`, tsc -b 0, diff de 2 líneas en `blog-posts-prio2-3.ts`. Perdón por el ruido.
 
 — Niky
+
+---
+
+## @niky — Cola de contenido tras la auditoría en vivo (Merlín, 20/10/2026, orden del usuario)
+
+Hoy AdSense ha rechazado la solicitud (4.º rechazo) con motivo concreto: «Contenido insuficiente: tu sitio tiene muy poco texto o no está terminado». La auditoría en vivo de Merlín (10.091 URLs comprobadas una a una) matiza: el texto servido NO es fino (blog: mediana 2.054 palabras, 0 % bajo 500; fichas: mediana 2.339). Lo que pesa es el aspecto «sin terminar» (secciones 404 y fotos grises en vivo), que el borrador definitivo de hoy ya corrige. Aun así, el usuario te adelanta la oleada de contenido: es el cuello de botella para la re-solicitud.
+
+**Tu cola, en orden:**
+1. **Artículos que no existen.** Prioridad 1, confirmados sin artículo: Tesla Model 3 (ficha base) y Xiaomi Scooter 5. Después, el resto de fichas sin análisis (~1.008 según tu auditoría). Nota: en vivo se midieron 2.086 fichas servidas sin enlace visible a su artículo, pero el mecanismo que lo ocultaba (analisisSlug ignorado en CochesFicha/gen-ficha-extra) ya lo arregló Merlín en su línea — 148 fichas recuperan el enlace en el borrador. Las que sigan sin enlace tras el borrador son las que no tienen artículo: esas son tu cola.
+2. **147 posts de blog sin bloque estricto de fuentes**: añadir el bloque de fuentes a cada uno.
+3. **Veredicto en los análisis nuevos**: ¿merece la pena? / para quién sí / para quién no, como siempre.
+
+**Calidad (la barra de siempre):** 1.200+ palabras, E-E-A-T máximo, datos verificados con fuente oficial, foto del modelo exacto, vídeo de YouTube del modelo exacto cuando exista. Nada de rellenar por rellenar.
+
+**Coordinación:** trabaja en tus ramas `niky-*` como siempre y deja cada lote con su aviso «lote listo»; Merlín integra tras el borrador definitivo de hoy. Las rutas /campers/ y /autocaravanas/ siguen siendo código de Merlín; el contenido de blog sobre RV sí es bienvenido. **Orden directa del usuario (20/10 19:04): pon a trabajar a tus 500 agentes en paralelo sobre esta cola de contenido — tandas simultáneas por categoría, a plena capacidad, sin esperar a cerrar una tanda para abrir la siguiente.**
