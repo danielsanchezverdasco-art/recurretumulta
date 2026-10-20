@@ -7255,3 +7255,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/aprilia-rs-125-2026-ficha-tecnica-precio-hunt1.webp | https://www.totalmotorcycle.com/wp-content/uploads/2024/11/2025-Aprilia-RS125c-1200x894.jpg | Aprilia (prensa) / Total Motorcycle | desconocida |
 | /media/aprilia-rs-125-2026-ficha-tecnica-precio-hunt2.webp | https://www.totalmotorcycle.com/wp-content/uploads/2024/11/2025-Aprilia-RS125b-1200x800.jpg | Aprilia (prensa) / Total Motorcycle | desconocida |
 | /media/aprilia-rs-125-2026-ficha-tecnica-precio-hunt3.webp | https://www.totalmotorcycle.com/wp-content/uploads/2024/11/2025-Aprilia-RS125d-1200x867.jpg | Aprilia (prensa) / Total Motorcycle | desconocida |
+| /media/baic-bj30-2025-precio-ficha-tecnica-hunt1.webp | https://baic.ec/wp-content/uploads/2025/09/5.jpg | BAIC Ecuador (importador oficial) | desconocida |
+| /media/baic-bj30-2025-precio-ficha-tecnica-hunt2.webp | https://baicglobal.si/wp-content/uploads/2025/01/%E8%BD%A6%E5%B0%BE.210a108.jpg | BAIC Slovenia / Plan-net Avto (importador oficial) | desconocida |
+| /media/baic-bj30-2025-precio-ficha-tecnica-hunt3.webp | https://autera.pl/baic-web/bj30/g-int-01.webp | Autera / BAIC Polonia | desconocida |
+| /media/mitsubishi-grandis-hev-2025-precio-ficha-tecnica-hunt1.webp | https://autogreeknews.gr/wp-content/uploads/2025/07/Mitsubishi-Grandis_2025-2.jpg | AutoGreekNews (foto de prensa Mitsubishi) | desconocida |
+| /media/mitsubishi-grandis-hev-2025-precio-ficha-tecnica-hunt2.webp | https://www.headlightmag.com/hlmwp/wp-content/uploads/2025/07/Mitsubishi-Grandis_06.jpg | HeadLight Magazine (foto de prensa Mitsubishi) | desconocida |
+| /media/mitsubishi-grandis-hev-2025-precio-ficha-tecnica-hunt3.webp | https://www.car250.com/wp-content/uploads/2025/07/Mitsubishi-Grandis-13.jpg | Car250 (foto de prensa Mitsubishi) | desconocida |
+| /media/vmoto-tc-max-2025-ficha-tecnica-precio-hunt1.webp | https://cdn-listino.inmoto.it/2024/12/17/TC_Max_Black_3_copia_98ba0b37ed.jpg | InMoto (foto de estudio Vmoto) | desconocida |
+| /media/vmoto-tc-max-2025-ficha-tecnica-precio-hunt2.webp | https://cdn-listino.inmoto.it/2024/12/17/TC_Max_Black_4_copia_b386781cf5.jpg | InMoto (foto de estudio Vmoto) | desconocida |
+| /media/vmoto-tc-max-2025-ficha-tecnica-precio-hunt3.webp | https://vmoto.com/assets/Products/TC-Max/_1400xAUTO_crop_center_90_none/8318/TC-MAX-3-Nero.webp | Vmoto (web oficial) | desconocida |
+| /media/suzuki-gsx-r125-2026-ficha-tecnica-precio-hunt1.webp | https://cdn.inmoto.it/images/2026/02/12/152943025-9c3f29a7-abd9-467b-a97d-09694b9220a4.jpg | InMoto (foto Suzuki) | desconocida |
+| /media/suzuki-gsx-r125-2026-ficha-tecnica-precio-hunt2.webp | https://media.zigcdn.com/media/content/2026/Feb/69955c6c52b52.png?tr=w-930 | ZigWheels (foto Suzuki) | desconocida |
+| /media/suzuki-gsx-r125-2026-ficha-tecnica-precio-hunt3.webp | https://cdn.autopapo.com.br/box/uploads/2026/02/20150348/suzuki-gsx-r125-2026-europa-2.png | AutoPapo (foto Suzuki) | desconocida |
