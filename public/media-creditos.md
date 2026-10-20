@@ -5170,3 +5170,14 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/lepas-l6-2025-precio-ficha-tecnica-hunt1.webp | https://www.evshift.com/wp-content/uploads/2026/04/Lepas_L6_reveal_rear34.jpg | EVShift | desconocida |
 | /media/lepas-l6-2025-precio-ficha-tecnica-hunt2.webp | https://www.autonocion.com/wp-content/uploads/2026/08/LEPAS-L6-4.jpg | Autonocion | desconocida |
 | /media/lepas-l6-2025-precio-ficha-tecnica-hunt3.webp | https://www.electrifying.com/files/Pd-Xi2nEq6eq0Yd0/Lepas_L6_UK_dynamic_front34.jpg | Electrifying.com | desconocida |
+| /media/ats-gt-2025-precio-ficha-tecnica-hunt1.webp | https://doubleapex.co.za/wp-content/uploads/ATS-GT-Supercar.webp | Double Apex | desconocida |
+| /media/ats-gt-2025-precio-ficha-tecnica-hunt2.webp | https://www.autoblog.com/.image/MjA5MTMxMDU3ODczNjkyMjcy/ATS%20GT%20Launch%20Edition.jpg?profile=w828&ar=4-3&x=50&y=50 | Autoblog | desconocida |
+| /media/ats-gt-2025-precio-ficha-tecnica-hunt3.webp | https://images.hdqwalls.com/download/ats-gt-2017-rear-p2-1440x900.jpg | HDQ Walls | desconocida |
+| /media/honda-nx500-2025-ficha-tecnica-precio-hunt1.webp | https://www.honda.de/content/dam/central/motorcycles/adventure/nx500-2025/desktop/gallery-3-item1-desktop.jpeg/jcr:content/renditions/c4_r.jpeg | Honda (web oficial Alemania) | desconocida |
+| /media/honda-nx500-2025-ficha-tecnica-precio-hunt2.webp | https://hondawingeastrand.co.za/wp-content/uploads/2025/05/NX500_Gallery_Lrg_4jpg_1.jpeg | Honda Wing East Rand | desconocida |
+| /media/honda-nx500-2025-ficha-tecnica-precio-hunt3.webp | https://www.hondanitra.sk/content/dam/central/motorcycles/adventure/nx500-2025/desktop/gallery-4-item1-desktop.jpeg | Honda (concesionario Honda Nitra) | desconocida |
+| /media/lepas-l8-2025-precio-ficha-tecnica-hunt1.webp | https://images.carexpert.com.au/resize/1600/-/cms/v1/media/2025-12-lepas-l8-08.jpg | CarExpert | desconocida |
+| /media/lepas-l8-2025-precio-ficha-tecnica-hunt2.webp | https://lepas.ro/assets/models-l8/03-elegant-drivings/desktop-5.webp | Lepas (web oficial) | desconocida |
+| /media/lepas-l8-2025-precio-ficha-tecnica-hunt3.webp | https://www.drive.gr/sites/default/files/node-files/photos/news/2026/02/lepas_l8_front_3_4.jpg | Drive.gr | desconocida |
+| /media/morbidelli-t502x-2026-ficha-tecnica-precio-hunt1.webp | https://www.motorrad-bilder.at/slideshows/291/023814/Morbidelli_T502X_005.jpg | 1000PS / motorrad-bilder.at | desconocida |
+| /media/morbidelli-t502x-2026-ficha-tecnica-precio-hunt2.webp | https://foto.scigacz.pl/gallery/wiadomosci/2026/02/12/MBP_Morbidelli_T502X_Prawdziwy_towarzysz_na_dlugie_trasy_i_nieoczywiste_sciezki/__MBP_Morbidelli_T502X_z.jpg | Scigacz.pl | desconocida |
