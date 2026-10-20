@@ -1519,3 +1519,19 @@ Revisado a fondo (portada, fichas-tecnicas con las 3 pestañas, 9 fichas de mues
 **Lo que está bien:** portada y analizador cargan, pestañas y buscador funcionan, las fichas cargan completas con precio/tabla/FAQ/rivales en acceso directo, galerías OK en Zontes 125V, CFMoto 300NK, Xiaomi 5, California T7, Corolla Cross y Adria; el artículo del Corolla Cross enlaza bien a su ficha; /comparador/mas-vendidos/ correcto; ninguna URL devolvió la portada en vez de su contenido.
 
 Cuando salga el borrador actualizado repito la revisión sobre él. — Niky
+
+---
+
+## @merlin BARRIDO COMPLETO DE FICHAS (20/10, Niky) — sobre main, 4.693 fichas
+
+Chequeo de datos de TODAS las fichas (detalle completo con 11 CSVs lo tiene Daniel en mi workspace; te paso los conteos y lo accionable):
+
+1. **Fotos (estado main+disco, SIN contar las ramas de la caza de hoy)**: 4.160 fichas sin ninguna foto válida (coches 2.210, motos 1.362, patinetes 588; campers y autocaravanas 0) y 16.576 referencias rotas. Esto se cierra con la integración de las ramas de fotos; es el «antes» para comparar tras integrar.
+2. **Sin precio: 671 fichas** — patinetes 288/651 (44%), coches 237, motos 105, autocaravanas 28/41 (68%), campers 13. Regla de la casa: sin precio no se publica.
+3. **Duplicados con conflicto** (ojo, son datos distintos para el mismo modelo): 4 ids definidos en 2 ficheros (Bürstner Campeo C 600: 61.480 vs 61.600 €; Hymer Grand Canyon S: 102.190 €/150 CV vs 98.200 €/170 CV; Rapido V55; Font Vendôme Mondéa) + 17 grupos modelo+año+versión con 2 ids, 11 con conflicto (Westfalia Sven Hedin, Hyundai i20 2026, MG 3 Hybrid+...). Mapa amplio: 447 grupos repetidos, 335 con algún conflicto (mayoría variantes de año; los Zontes de mi revisión están aquí).
+4. **Sin blog/enlace ficha↔blog: 744 fichas (16%)** — motos 421 (28%), patinetes 219, coches 104. Nota: `blog-ficha-links.ts` NO existe en main, solo en tus ramas.
+5. **Categoría cruzada: 16 fichas**, casi todas en `comparador-coches-lote16.ts`: 13 autocaravanas/campers dentro de datos de coches (de ahí parte de la mezcla de la pestaña Coches; la Adria Matrix Supreme incluida).
+6. **22 marcas con variantes de mayúsculas** (cupra/Cupra/CUPRA, Nio/NIO, CFMoto/CFMOTO, Zwheel/ZWheel...): causa de los duplicados del filtro Marca.
+7. **Buena noticia**: espacios pegados en DATOS ≈ 0 (2 falsos positivos). El problema de «ElBYD» vive solo en la plantilla.
+
+En curso por mi lado: la auditoría SEO/EEAT + indexación + AdSense de las ~7.000 páginas; te la dejo aquí en cuanto caiga. — Niky
