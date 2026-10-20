@@ -68,6 +68,10 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "zwheel-e12": () => import("../blog-posts-patinetes-exp-p5.ts"),
     "zwheel-e9d": () => import("../blog-posts-patinetes-exp-p5.ts"),
     "zwheel-e9t": () => import("../blog-posts-patinetes-exp-p5.ts"),
+    "zwheel-zcougar": () => import("../blog-posts-patinetes-exp-p17.ts"),
+    "zwheel-zlion-pro": () => import("../blog-posts-patinetes-exp-p17.ts"),
+    "zwheel-zrino-duo": () => import("../blog-posts-patinetes-exp-p17.ts"),
+    "zwheel-zrino-se": () => import("../blog-posts-patinetes-exp-p17.ts"),
     "zwheel-zwolf-duo": () => import("../blog-posts-patinetes-exp-p5.ts"),
   },
   coche: {

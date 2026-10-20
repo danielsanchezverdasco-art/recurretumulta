@@ -3,6 +3,7 @@
 export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
   blog: {
     "kaabo-mantis-10-eco": () => import("../blog-posts-patinetes-exp-p2.ts"),
+    "kaabo-mantis-10-lite": () => import("../blog-posts-patinetes-exp-p17.ts"),
     "kaabo-mantis-10-plus-v2": () => import("../blog-posts-patinetes-exp-p2.ts"),
     "kaabo-mantis-10-pro": () => import("../blog-posts-patinetes-exp-p8.ts"),
     "kaabo-mantis-8-eco-800": () => import("../blog-posts-patinetes-exp-p2.ts"),
@@ -147,6 +148,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "kia-tasman-2025-precio-ficha": () => import("../blog-posts-lote13.ts"),
     "kia-xceed-15-mhev-2025-precio-ficha-tecnica": () => import("../blog-posts-kia-a.ts"),
     "kia-xceed-phev-2025-precio-ficha-tecnica": () => import("../blog-posts-kia-a.ts"),
+    "kingsong-n12-pro": () => import("../blog-posts-patinetes-exp-p17.ts"),
     "knaus-boxlife-600-mq-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin2.ts"),
     "knaus-sky-ti-650-meg-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin5.ts"),
     "koenigsegg-gemera-2025-precio-ficha-tecnica": () => import("../blog-posts-lote4.ts"),

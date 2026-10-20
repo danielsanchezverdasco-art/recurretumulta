@@ -343,6 +343,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "mv-agusta-brutale-1000-rr-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m13.ts"),
     "mv-agusta-enduro-veloce-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m13.ts"),
     "mv-agusta-enduro-veloce-2026-precio-ficha": () => import("../blog-posts-lote15.ts"),
+    "mv-agusta-rapido-serie-oro": () => import("../blog-posts-patinetes-exp-p17.ts"),
     "mv-agusta-superveloce-800-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m2.ts"),
     "mv-agusta-turismo-veloce-800-r-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m2.ts"),
   },
