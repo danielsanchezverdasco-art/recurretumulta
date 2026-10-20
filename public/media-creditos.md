@@ -8387,3 +8387,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/keeway-rkf-125-2026-hunt1.webp | https://immagini.insella.it/sites/default/files/styles/1240w_fallback/public/news_anteprima/2021/03/rkf_125_red_2.jpg | Keeway (foto de estudio, vía inSella) | desconocida |
 | /media/keeway-rkf-125-2026-hunt2.webp | https://cdn.keeway.com/keeway-3-0/media/2945/conversions/2560x2180-md.png | Keeway (web oficial keeway.com) | desconocida |
 | /media/keeway-rkf-125-2026-hunt3.webp | https://cdn.keeway.com/keeway-3-0/media/2692/conversions/2560x2180-(2)-md.png | Keeway (web oficial keeway.com) | desconocida |
+| /media/ora-ballet-cat-2024-precio-ficha-tecnica-hunt1.webp | https://wheels.ph/wp-content/uploads/2024/05/reIMG_8803.jpg | Wheels Philippines (Philstar Wheels) | desconocida |
+| /media/ora-ballet-cat-2024-precio-ficha-tecnica-hunt2.webp | https://wheels.ph/wp-content/uploads/2024/05/reIMG_8816-1024x768.jpg | Wheels Philippines (Philstar Wheels) | desconocida |
+| /media/ora-ballet-cat-2024-precio-ficha-tecnica-hunt3.webp | https://images.carexpert.com.au/resize/960/-/cms/v1/media/2022-06-ora-ballet-cat-interior-3.png | CarExpert / GWM | desconocida |
+| /media/lynk-co-08-emp-2026-precio-ficha-tecnica-hunt1.webp | https://carnewschina.com/wp-content/uploads/2024/08/image-70-800x532.png | CarNewsChina / Lynk & Co | desconocida |
+| /media/lynk-co-08-emp-2026-precio-ficha-tecnica-hunt2.webp | https://d1tjylbhswro2u.cloudfront.net/images/posts/2025/07/post27643_1.jpg?width=768&format=webp | AutoIndustriya / Lynk & Co | desconocida |
+| /media/lynk-co-08-emp-2026-precio-ficha-tecnica-hunt3.webp | https://cdn.autowereld.nl/I764012649/1280x0/lynk-co-08-1-5-more-200-km-electrisch-panorama-dak-android-auto-apple-carplay-21-lm-velgen.jpg | Autowereld | desconocida |
+| /media/bmw-f-900-gs-2025-ficha-tecnica-precio-hunt1.webp | https://ridermagazine.com/wp-content/uploads/2024/11/2025-BMW-Motorcycle-Lineup-F-900-GS-1.jpg | Rider Magazine / BMW Motorrad | desconocida |
+| /media/bmw-f-900-gs-2025-ficha-tecnica-precio-hunt2.webp | https://i00.eu/img/579/1600x1600/6rvdveww/1884282.jpg | K2 Moto / BMW Motorrad | desconocida |
+| /media/bmw-f-900-gs-2025-ficha-tecnica-precio-hunt3.webp | https://www.RevZilla.com/blog_content_image/image/93795/KevinWingPhoto-3378.jpg | RevZilla (foto Kevin Wing) / BMW Motorrad | desconocida |
+| /media/yamaha-tenere-700-extreme-2024-ficha-tecnica-precio-hunt1.webp | https://www.webbikeworld.com/wp-content/uploads/2023/10/5Yamaha-Tenere-700-Extreme.jpeg | webBikeWorld / Yamaha | desconocida |
+| /media/yamaha-tenere-700-extreme-2024-ficha-tecnica-precio-hunt2.webp | https://www.webbikeworld.com/wp-content/uploads/2023/10/2Yamaha-Tenere-700-Extreme.jpeg | webBikeWorld / Yamaha | desconocida |
+| /media/yamaha-tenere-700-extreme-2024-ficha-tecnica-precio-hunt3.webp | https://mcn-images.bauersecure.com/wp-images/219225/2024-tenere-extreme-4.jpg | Motorcycle News (MCN) / Yamaha | desconocida |
