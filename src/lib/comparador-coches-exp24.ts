@@ -1959,7 +1959,7 @@ export const COCHES_EXP24: CocheComparador[] = [
     categoria: "SUV",
     precioDesde: 10900,
     potenciaCv: 355,
-    autonomiaKm: 168,
+    autonomiaKm: 205,
     maleteroL: 413,
     ceroCien: null,
     velocidadMax: 170,
