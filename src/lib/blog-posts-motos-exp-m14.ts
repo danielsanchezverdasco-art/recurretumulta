@@ -186,6 +186,43 @@ El mantenimiento de un scooter eléctrico NIU se reduce a neumáticos, frenos y 
 
 Por 3.799 € es uno de los equivalentes a 125 eléctricos más baratos. Compite con el <a href=/motos/niu-mqi-gt-evo-ficha-tecnica-precio/>NIU MQi GT Evo</a>, el <a href=/motos/niu-nqix-500-2026-ficha-tecnica-precio/>NIU NQiX 500</a> y los scooters de gasolina de 125 cc.
 
+## NIU: el especialista eléctrico que quiere tu garaje sin enchufe
+
+NIU se ha construido una reputación mundial con una idea sencilla: scooters eléctricos conectados, con baterías extraíbles pensados para quien vive en un piso y no tiene punto de carga. Su gama y su red europeas se consultan en la <a href=https://www.niu.com>web oficial de NIU</a>, ya enlazada en las fuentes de este análisis. El FQi 500 es su apuesta más ambiciosa en el segmento de los equivalentes a 125: **6,4 kW, 95 km/h y 3.799 €**, un precio que lo coloca frente a frente con los scooters de gasolina de 125 cc que dominan la ciudad española.
+
+## La técnica: dos baterías de 72 V que suben en el ascensor
+
+| Dato | NIU FQi 500 |
+|---|---|
+| Potencia | 6,4 kW (8,7 CV) |
+| Velocidad máxima | 95 km/h |
+| Batería | 2 × 72 V 28 Ah (4,03 kWh) |
+| Autonomía declarada | 100 km |
+| Autonomía real estimada | Unos 80 km |
+| Peso | 127 kg |
+| Carnet | A1 (válido con B +3 años) |
+| Precio | 3.799 € |
+
+El corazón del FQi son sus **dos baterías extraíbles de 72 V**: se sacan, se suben a casa y se cargan en un enchufe doméstico en **3-6 horas**, según recoge el análisis original. Con 4,03 kWh combinados declara 100 km, que en uso urbano realista se quedan en unos 80 km: suficiente para la semana laboral de la mayoría de usuarios urbanos. Los 95 km/h de punta le permiten salir a rondas y vías rápidas cortas sin convertirse en un obstáculo, algo que los ciclomotores eléctricos limitados no pueden hacer. El precio a pagar es el hueco bajo el asiento: lo ocupan las baterías y el casco va en un baúl.
+
+## Uso real: el 125 de los que no tienen garaje
+
+El FQi 500 resuelve el problema clásico del vehículo eléctrico urbano: dónde cargarlo. Si vives en un piso sin plaza con enchufe, las baterías extraíbles son la diferencia entre poder y no poder tener un scooter eléctrico. Su uso natural es el trayecto casa-trabajo con desvíos, a ritmos de ciudad y anillo urbano. No es una moto de fin de semana ni de autovía: con unos 80 km reales y 95 km/h de punta, su territorio es la ciudad y su periferia cercana. Compáralo con el resto en el <a href=/comparador-motos/>comparador de motos</a> y ameniza la espera con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+## Costes de uso: la ventaja eléctrica, sin cifras inventadas
+
+El propio análisis ya señala que el mantenimiento de un scooter eléctrico NIU se reduce a neumáticos, frenos y revisiones de software, con **garantía oficial de 2 años** en vehículo y componentes según la marca, y que no hay un plan público de revisiones con precios cerrados en España. Lo demás es física de su clase: sin aceite, sin correa de distribución ni embrague que sustituir, el coste por kilómetro de un eléctrico de 4,03 kWh cargado en casa es estructuralmente inferior al de un 125 de gasolina. Las partidas a vigilar a largo plazo son las de siempre en NIU: el estado de las dos baterías y los consumibles de freno y neumático.
+
+## Normativa: carnet A1, etiqueta Cero e ITV de moto
+
+El FQi 500 es un equivalente a 125: se conduce con el **carnet A1** o con el **B con más de 3 años de antigüedad**, como recoge su ficha. Como vehículo eléctrico lleva **etiqueta Cero** de la DGT, con las ventajas de acceso y aparcamiento que las ordenanzas municipales reservan a los cero emisiones. Al ser una motocicleta ligera matriculada, pasará la ITV con la periodicidad propia de las motos, no la de los ciclomotores. Nada de esto lo convierte en un ciclomotor: sus 95 km/h lo sitúan de pleno en la categoría de moto urbana.
+
+## Frente al MQi GT Evo y a la NQiX 500: veredicto
+
+Dentro de la propia casa hay dos referencias con ficha. El <a href=/motos/niu-mqi-gt-evo-ficha-tecnica-precio/>NIU MQi GT Evo</a> es el scooter de la gama anterior con el que el FQi comparte filosofía de baterías extraíbles. La <a href=/motos/niu-nqix-500-2026-ficha-tecnica-precio/>NIU NQiX 500</a> cuesta 4.599 €, llega a 100 km/h y suma ABS y control de tracción, pero es una naked sin la protección ni la postura de scooter del FQi. Frente a los 125 de gasolina, el FQi gana en coste de uso y en poder cargarse en casa; pierde en hueco para el casco y en red de talleres, más amplia en las marcas tradicionales.
+
+**¿Merece la pena?** Por 3.799 € es uno de los equivalentes a 125 eléctricos más sensatos del mercado. **Para quién sí:** para el urbanita sin garaje que carga en casa y hace menos de 60-70 km al día. **Para quién no:** para quien necesite hueco bajo el asiento, autovía a diario o la red de un fabricante de gasolina.
+
 ## Preguntas frecuentes
 
 ### ¿Puedo conducir el NIU FQi 500 con el carnet B?
