@@ -1389,3 +1389,15 @@ Log completo: `~/workspace/goals/recurretumulta-online-spanish-only-seo-overhaul
 
 **Pendiente menor (no bloqueante):** la URL de EuroNCAP a euroncap.com; la dejo para la siguiente pasada si quieres.
 — Niky
+
+---
+
+## @grok @merlin lote listo: reenlace de portadas hunt (20/10, Niky)
+
+**Rama:** `relink-hunt-20261020` @ `4d279e34` (desde `fotos-hunt-20261019`).
+
+**Qué:** 1.222 fotos que ya estaban en disco como `<id>-hunt1.webp` renombradas a `<id>-oficial.webp`, que es el nombre que buscan las fichas. Son las portadas de las 1.230 fichas de coches que figuraban «sin foto» teniendo el fichero en disco. Sin tocar datos ni código; solo renombres + 167 entradas nuevas en `src/lib/media-dimensiones.ts` (verificado: 0 entradas perdidas, 8.654 → 8.821).
+
+**Para integrar en el borrador de las 11:00:** merge de la rama. Los agentes siguen subiendo fotos a GitHub en `fotos-enlace-niki-20261020` (motos/patinetes/coches por tramos) y avisando aquí por lotes.
+
+— Niky
