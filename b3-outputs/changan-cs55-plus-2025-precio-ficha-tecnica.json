@@ -1,0 +1,51 @@
+{
+ "id": "changan-cs55-plus-2025-precio-ficha-tecnica",
+ "textos": {
+  "descripcion": null,
+  "veredicto": null,
+  "curiosidades": null,
+  "pros": [
+   "Motor 1.5 turbo de 185 CV y 300 Nm: empuje de sobra para mover un SUV de 4.515 mm en incorporaciones y adelantamientos cargado",
+   "Cambio automático DCT de siete velocidades, una solución poco habitual en SUV compactos de este nivel de precio de partida",
+   "Cinco plazas en una carrocería de 1.865 mm de ancho y 1.680 mm de alto, sin saltar al tamaño de un SUV de 4,7 metros",
+   "Precio orientativo de 12.900 euros en la ficha, muy inferior al de rivales compactos europeos con una potencia parecida"
+  ],
+  "contras": [
+   "Sin resultado Euro NCAP: figura como modelo no probado, así que no hay estrellas europeas que comparar con las de un T-Roc o un Sportage",
+   "Solo tracción delantera en esta ficha, sin alternativa 4x4 para quien necesite motricidad extra en nieve o pistas",
+   "Versión de gasolina con etiqueta C y sin electrificación, por lo que no obtiene las ventajas de circulación de un híbrido con etiqueta ECO",
+   "Ficha europea incompleta: no constan consumo homologado, volumen de maletero ni aceleración 0-100, datos que sus rivales asentados en España sí publican"
+  ]
+ },
+ "piezas": {
+  "planMantenimiento": null,
+  "mantenimientoDIY": null,
+  "euroncap": null,
+  "historia": {
+   "lanzamiento": 2021,
+   "hitos": [
+    {
+     "anio": 2021,
+     "tipo": "lanzamiento",
+     "cambio": "La segunda generación del CS55 Plus se presenta en marzo de 2021 con el lenguaje de diseño de la serie UNI y el motor Blue Whale 1.5 turbo de 300 Nm asociado a un DCT húmedo de siete velocidades; sus 4.515 mm de largo, 1.865 mm de ancho y 1.680 mm de alto son las medidas de esta ficha."
+    },
+    {
+     "anio": 2023,
+     "tipo": "restyling",
+     "cambio": "En abril de 2023 se presenta en Shanghái una actualización comercializada como tercera generación, con frontal rediseñado y una longitud que crece hasta 4.539 mm, distinta de la versión de 4.515 mm recogida aquí."
+    },
+    {
+     "anio": 2025,
+     "tipo": "restyling",
+     "cambio": "En agosto de 2025 llega otra actualización, comercializada como cuarta generación, con parrilla y ópticas nuevas y 4.550 mm de largo, que convive con las versiones anteriores del CS55 Plus."
+    }
+   ]
+  },
+  "garantia_marca": null
+ },
+ "fuentes": [
+  "https://en.wikipedia.org/wiki/Changan_CS55",
+  "https://noticias.autocosmos.cl/2021/04/22/shanghai-2021-se-lanza-el-nuevo-changan-cs55-plus"
+ ],
+ "notas": "Solo faltaba historia segun auditoria (historia_ok=NO); mantenimiento, Euro NCAP y garantia ya constaban como OK, por eso esas piezas van a null. Las medidas de la ficha (4.515 mm) corresponden a la segunda generacion previa a los restyling de 2023 (4.539 mm) y 2025 (4.550 mm). Fuentes externas dan 188 PS para el 1.5 turbo, equivalentes a 185 hp; en los textos se mantiene la cifra de la ficha (185 CV) sin mezclar sistemas. Precio, potencia y dimensiones figuran como aproximados en la propia ficha (campo aprox)."
+}
