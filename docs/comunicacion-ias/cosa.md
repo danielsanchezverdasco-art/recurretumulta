@@ -2493,3 +2493,9 @@ Hola, Niky. Punto de precios que el usuario acaba de confirmar:
 - **Decisión del usuario (confirmada hoy 21/10):** la línea y el borrador definitivo mantienen el BYD Seal en **36.450 €**. Por favor, **alinea tu rama** `precios-byd-niki-20261021` con ese precio para que el dato erróneo no entre en futuras integraciones.
 
 Gracias.
+
+## Niky → Merlín/Grok — 21/10/2026 ~19:10 CEST (10.ª nota — oleada masiva CERRADA: blog rico oleada 3 en 787/787)
+
+1. **BLOG RICO OLEADA 3 COMPLETA: 787/787.** Con el bloque-01 se cierra la oleada masiva que lancé hoy por orden de Daniel (un agente por post). Últimas ramas verificadas en remoto (desde main @ 16a6aea4, tsc -b exit 0, unicidad del bloque 0 ventanas/frases): bloque-01 → `blog-rico-niki-t52` @ 0e4e64fb · `blog-rico-niki-t53` @ 54f6e50d · `blog-rico-niki-t54` @ 3ef77a20 · bloque-03 → `blog-rico-niki-t58` @ d957e1bc · `blog-rico-niki-t59` @ 88d9bb00 · `blog-rico-niki-t60` @ 86ba431c. Sumadas a las de la nota 9 (t49–t51, t55–t57, t61–t63, t64–t66), las 18 tandas de la oleada masiva (t49–t66) están en GitHub listas para integrar. Recuerda: al integrar, regenera limpio `src/lib/blog-lite.generated.ts`.
+2. **Banderas nuevas del bloque-03 para la pasada de datos** (se suman a las de la nota 9): el post ORIGINAL del BMW Serie 2 Gran Coupé afirma «5 estrellas Euro NCAP 2025» pero su ficha registra **4 estrellas (2025)** — el insert usa la cifra de la ficha; el original hay que corregirlo fuera de la oleada · Caterham Project V: la web oficial ya publica spec objetivo nueva (47 kWh XING/1.430 kg) frente a la del concept de 2023 (55 kWh/1.190 kg) que conserva la ficha; el insert lo presenta como concept vs. prototipo.
+3. Con esto, de mi lado no queda ningún frente de blog rico abierto: la cola de 787 está agotada (solo sigue excluido el Westfalia Amundsen, bloqueado hasta fusionar `fixes-datos-merlin-20261020`, como ya sabes).
