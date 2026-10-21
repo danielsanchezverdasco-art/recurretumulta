@@ -1,3 +1,6 @@
+// 21/10/2026 (dedupe campers, Niky): retirado el registro «pilote-v600g-2026-precio-ficha-tecnica» de este fichero.
+// Era la copia en /autocaravanas/ de una furgoneta camperizada: la versión canónica
+// vive en /campers/pilote-v600g-2026-precio-ficha-tecnica/ y la URL vieja redirige con 301 (public/_redirects).
 // Autocaravanas Pilote — lote Merlín 1 (18/10/2026). Corrección (b)(c)(d) 22:15 — textos lote 3.
 // Datos verificados: pilote.fr (web oficial: ficha del modelo V600G —«Places couchage, 2»,
 // «Charge utile, 630 kg»— + catálogo oficial de la colección 2027, válida desde 01/07/2026;
@@ -9,117 +12,6 @@
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
 export const AUTOCARAVANAS_PILOTE_M1: Autocaravana[] = [
-  {
-    id: "pilote-v600g-2026-precio-ficha-tecnica",
-    marca: "Pilote",
-    modelo: "V600G",
-    tipo: "camper",
-    categoria: "Autocaravana",
-    precioDesde: null, // Pilote no publica precios en su web ni en su catálogo; la compra es solo vía red de concesionarios
-    potenciaCv: 140,
-    autonomiaKm: null,
-    maleteroL: null,
-    ceroCien: null,
-    velocidadMax: null,
-    bateriaKwh: null,
-    cargaRapidaKw: null,
-    etiquetaDgt: "C",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
-    garantiaBateriaDegradacionPct: null,
-    imagen: "/media/pilote-v600g-2026-precio-ficha-tecnica-oficial.webp",
-    imagenOficial:
-      "/media/pilote-v600g-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial:
-      "/media/pilote-v600g-2026-precio-ficha-tecnica-oficial-interior.webp",
-    videoId: null,
-    videoCanal: null,
-    largoMm: 5990,
-    anchoMm: 2050,
-    altoMm: 2670,
-    pesoKg: null, // Pilote no publica masa en orden de marcha; sí publica "carga útil: 630 kg"
-    mmaKg: 3500,
-    carnetNecesario: "B",
-    cargaUtilKg: 630, // cifra oficial publicada por Pilote («Charge utile, 630 kg»)
-    consumo: null,
-    consumoUnidad: null,
-    plazas: 4, // oficial («Places assise, 4»)
-    plazasDormir: 2, // oficial («Places couchage, 2»)
-    parNm: null,
-    traccion: "Delantera",
-    emisionesCo2: null,
-    aprox: ["etiquetaDgt"],
-    pros: [
-      "Cama transversal trasera fija siempre hecha (hasta 150x194 cm con somier de plots Froli): no se monta ni se desmonta nada a diario",
-      "Gran soute bajo la cama con acceso directo al compartimento de gas y al depósito de agua limpia: admite bicis y bultos voluminosos sin plegar la cama",
-      "Baño 3-en-1 con tabique pivotante (novedad 2027) que separa WC/lavabo de la ducha: ducha real separada en solo 5,99 m, algo raro en este formato",
-      "Nevera de compresor a elegir entre 90 l y 138 l sin rejillas exteriores: mejor aislamiento y rendimiento con calor exterior que una trivalente de absorción",
-      "Salón para 4 con mesa sobre raíles que se desplaza y se puede montar fuera: comedor interior y exterior flexible sin piezas sueltas que guardar",
-    ],
-    contras: [
-      "Solo 2 plazas para dormir de serie; la tercera es una opción en el salón que hay que montar cada noche: justo para más de una pareja o con niños",
-      "Pilote no publica ningún precio oficial: imposible comparar la tarifa base sin pasar por concesionario",
-      "Caja manual de serie; el cambio automático (140, 160 o 180 CV) es una opción de pago en un segmento donde el automático ya es estándar en rivales",
-      "Altura total de 2,67 m con cama transversal de 194 cm de largo útil: personas muy altas pueden ir justas tanto en cama como en la ducha (790x860)",
-      "Dotación base contenida para su posicionamiento: llantas de acero de 15\", climatización manual y nevera pequeña (90 l) si no se paga la de 138 l",
-    ],
-    opiniones: [],
-    galeria: [
-      {
-        src: "/media/pilote-v600g-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Pilote V600G, vista lateral (foto oficial)",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/pilote-v600g-2026-precio-ficha-tecnica-oficial-ext2.webp",
-        alt: "Pilote V600G con techo elevable (foto oficial)",
-        ancho: 750,
-        alto: 609,
-      },
-      {
-        src: "/media/pilote-v600g-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Salón del Pilote V600G (foto oficial)",
-        ancho: 750,
-        alto: 500,
-      },
-      {
-        src: "/media/pilote-v600g-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Salón y cabina del Pilote V600G (foto oficial)",
-        ancho: 768,
-        alto: 512,
-      },
-    ],
-    descripcion: "El Pilote V600G es uno de esos campers que se entienden mejor con una cifra que con un párrafo: 630 kilos. Esa es la carga útil oficial que publica Pilote para este furgón de 5,99 metros, y es la más generosa que vas a encontrar en un camper de este tamaño sin subir de MMA. En un segmento donde la báscula suele ser el enemigo silencioso —cuatro ocupantes, agua llena, bicis y toldo, y de pronto te has comido el margen—, el V600G juega con una ventaja estructural que condiciona todo lo demás: aquí se puede cargar sin hacer cuentas de cabeza. Es el best-seller de la gama de furgones de Pilote, la marca francesa del grupo Pilote, y se entiende por qué: 5,99 m de largo, 2,05 m de ancho y 2,67 m de alto sobre Fiat Ducato 2.2 de 140 CV, un formato que se conduce como un furgón grande y se aparca sin dramas donde una autocaravana de 7 metros ya empieza a pedir sitio de más. La distribución es la clásica que funciona: cama transversal trasera fija sobre un garaje enorme, salón delantero para cuatro con mesa sobre raíles y baño compacto. Pero Pilote mete varios detalles que la elevan por encima de la media del segmento. La cama, de hasta 143 × 194 cm según la ficha oficial, lleva colchón de espuma de alta resiliencia sobre somier de láminas y está siempre hecha: no hay ritual nocturno de montar y desmontar, que es exactamente lo que separa un camper para viajar de un camper para sufrir. Debajo, la soute es de las grandes de verdad, con acceso directo al compartimento de gas y al depósito de agua limpia, pensada para bicis y bultos voluminosos. El baño es un 3-en-1 de 790 × 860 mm con WC Thetford sobre guías y lavabo escamoteable que libera una ducha amplia, y en la colección 2027 estrena un tabique pivotante que separa la zona de WC y lavabo de la ducha: una ducha separada de verdad en menos de seis metros es una rareza que hay que valorar en su justa medida. La cocina apuesta por lo práctico: cuatro cajones con freno, placa de dos fuegos con encendido piezo y nevera de compresor a elegir entre 90 y 138 litros, sin rejillas exteriores, lo que mejora el aislamiento y el rendimiento cuando aprieta el calor. La calefacción merece un apunte de calendario: las unidades 2026 montan la Truma Combi 4, mientras que la colección 2027, vigente desde el 1 de julio de 2026, incorpora de serie la Truma Combi D4 diésel, que tira del depósito de gasóleo y libera de la tiranía de las bombonas en invierno. En marcha, el Ducato 2.2 de 140 CV con cambio manual de serie es una mecánica honesta y probada; el cambio automático —disponible en 140, 160 o 180 CV— es opción de pago, y aquí Pilote va un paso por detrás de rivales que ya lo ofrecen de serie. Con 3.500 kg de MMA basta el carnet B y la tracción es delantera, lo esperable en el segmento. La vida a bordo tiene detalles pensados: la mesa del salón se desplaza sobre raíles y puede montarse fuera para comer al aire libre, el techo lleva una claraboya panorámica de 62 × 42 cm con oscurecimiento y mosquitera, y hay tomas USB y de 230 V al alcance. Los peros son los de su posicionamiento: la dotación de serie es contenida —llantas de acero de 15 pulgadas, climatización manual, nevera pequeña si no se paga la grande— y las dos plazas para dormir oficiales lo definen como un vehículo de pareja, porque la tercera plaza es una opción en el salón que obliga al montaje nocturno. En precio, Pilote no publica PVP ni en web ni en catálogo: la compra es solo vía red de concesionarios, así que comparar exige pedir oferta y no hay cifra oficial que dar. Sus rivales son los campers franceses y alemanes de 6 metros con cama transversal —Chausson, Adria, Knaus—, frente a los que el V600G esgrime su carga útil oficial de 630 kg como argumento diferencial. Es para parejas viajeras que quieren un camper de uso intensivo, que cargan bicis y material sin mirar la báscula y que valoran la cama siempre hecha por encima de la última pantalla táctil. No es para familias: con dos plazas para dormir de serie, los niños no caben en la ecuación sin pasar por la opción del salón cada noche. Cómo lo verificamos: medidas (5,99 × 2,05 × 2,67 m), 4 plazas de viaje, 2 plazas para dormir y carga útil de 630 kg proceden de la ficha oficial del modelo en pilote.fr, revisada el 18/10/2026; la novedad de la Truma Combi D4 diésel y el tabique pivotante del baño corresponden a la colección 2027 del catálogo oficial; Pilote no publica precios, por eso la ficha no incluye PVP.",
-    analisisSlug: "pilote-v600g-2026-analisis-opinion",
-    planMantenimiento: {
-      intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Fiat)",
-      revisiones: [
-        {
-          nombre: "Revisión Fiat Ducato (2 años / 40.000 km)",
-          queSeCambia:
-            "Aceite + filtro de aceite + filtro de polen + inspección general",
-          costeAproxEur: 350,
-        },
-        {
-          nombre: "Revisión célula Pilote (anual recomendada)",
-          queSeCambia:
-            "Estanqueidad, gas, electricidad, humedades y prueba de calefacción",
-          costeAproxEur: 250,
-        },
-      ],
-      costeAnualAproxEur: 600,
-      fuente: "Plan de mantenimiento Fiat Ducato + recomendaciones Pilote",
-    },
-    euroncap: null,
-    notas:
-      "La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato publicado por el fabricante: dato no oficial · en revisión.",
-    curiosidades:
-      "Pilote nació en 1962, cuando André Padiou construyó su primera caravana en el taller de ebanistería de su padre en La Limouzinière (Loira Atlántico); su primer camping-car, la capuchina R430 (1976-78), iba a llamarse «Rally» y a última hora se bautizó «Pilote». Fuente: Pilote (web oficial, «Notre histoire»): https://www.pilote.fr/notre-histoire/",
-    fuenteNombre: "Pilote (web oficial + catálogo colección 2027)",
-    fuenteUrl: "https://www.pilote.fr/fourgon/v600g-pilote/",
-  },
   {
     id: "pilote-g740fgj-evidence-2026-precio-ficha-tecnica",
     marca: "Pilote",

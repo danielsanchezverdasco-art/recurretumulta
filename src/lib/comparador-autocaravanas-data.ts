@@ -53,42 +53,34 @@ import { AUTOCARAVANAS_XGO_M1 } from "./comparador-autocaravanas-xgo-m1.ts";
 // bavaria-i740fgj-nomade, benimar-amphitryon-940, benimar-mileo-243,
 // benimar-sport-340-up, chausson-777-titanium-line, ci-horon-84-xt,
 // dethleffs-trend-t-6717-eb, fleurette-baxter-68-lmc, laika-kosmo-l-319).
+// 21/10/2026 (dedupe campers, Niky): retirados de IDS_PASAN los 12 ids de tipo
+// camper duplicados con la sección /campers/ (sus registros salen también de los
+// ficheros -m1.ts; la versión canónica vive en /campers/ y la URL de
+// /autocaravanas/ redirige con 301). Quedan 23 ids en IDS_PASAN.
 const IDS_PASAN: Set<string> = new Set([
   "adria-coral-plus-670-sl-2026-precio-ficha-tecnica",
-  "adria-twin-supreme-640-sgx-2026-precio-ficha-tecnica",
   "ahorncamp-t-690-2026-precio-ficha-tecnica",
   "burstner-lyseo-td-690-g-2026-precio-ficha-tecnica",
   "carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica",
-  "challenger-v114-start-edition-2026-precio-ficha-tecnica",
   "chausson-640-titanium-2026-precio-ficha-tecnica",
-  "dreamer-d55-fun-up-2026-precio-ficha-tecnica",
   "elnagh-baron-565-2026-precio-ficha-tecnica",
   "euramobil-integra-line-gt-il-726-ef-2026-precio-ficha-tecnica",
-  "font-vendome-mondea-2026-precio-ficha-tecnica",
   "frankia-neo-i-7-gdk-2026-precio-ficha-tecnica",
   "giottiline-siena-322-2026-precio-ficha-tecnica",
   "hobby-optima-ontour-edition-f-v65-ge-2026-precio-ficha-tecnica",
   "hymer-b-mc-i-600-2026-precio-ficha-tecnica",
-  "hymer-grand-canyon-s-2026-precio-ficha-tecnica",
   "hymer-ml-t-580-4x4-2026-precio-ficha-tecnica",
   "itineo-pf600-2026-precio-ficha-tecnica",
-  "knaus-boxlife-600-mq-2026-precio-ficha-tecnica",
   "knaus-sky-ti-650-meg-2026-precio-ficha-tecnica",
-  "laika-ecovip-600-2026-precio-ficha-tecnica",
   "mclouis-mc4-231-2026-precio-ficha-tecnica",
   "mobilvetta-k-yacht-tekno-line-86-2026-precio-ficha-tecnica",
   "niesmann-bischoff-ismove-69-e-2026-precio-ficha-tecnica",
   "pilote-g740fgj-evidence-2026-precio-ficha-tecnica",
-  "pilote-v600g-2026-precio-ficha-tecnica",
   "rapido-606f-2026-precio-ficha-tecnica",
   "rimor-superbrig-687-tc-2026-precio-ficha-tecnica",
   "roller-team-auto-roller-746-2026-precio-ficha-tecnica",
   "sunlight-a-70-2026-precio-ficha-tecnica",
-  "sunlight-cliff-640-2026-precio-ficha-tecnica",
   "sunlight-t-68-2026-precio-ficha-tecnica",
-  "weinsberg-carabus-grey-edition-fire-600-mq-2026-precio-ficha-tecnica",
-  "westfalia-columbus-600d-2026-precio-ficha-tecnica",
-  "xgo-x-van-104-2026-precio-ficha-tecnica",
 ]);
 
 export const AUTOCARAVANAS_COMPARADOR: Autocaravana[] = [

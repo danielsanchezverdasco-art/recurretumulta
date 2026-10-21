@@ -1,3 +1,6 @@
+// 21/10/2026 (dedupe campers, Niky): retirado el registro «sunlight-cliff-640-2026-precio-ficha-tecnica» de este fichero.
+// Era la copia en /autocaravanas/ de una furgoneta camperizada: la versión canónica
+// vive en /campers/sunlight-cliff-640-2026-precio-ficha-tecnica/ y la URL vieja redirige con 301 (public/_redirects).
 // Autocaravanas Sunlight — lote Merlín 1 (18/10/2026). Corrección (b)(c)(d) 22:15 — textos lote 3.
 // F9 (19/10/2026): fotos oficiales (T 68: 1 ext + 2 int; A 70: 1 ext + 2 int; Cliff 640: 1 ext + 2 int) + curiosidades.
 // T 68: datos actualizados a la página oficial vigente (masa 3.007 kg, horquilla 2.857-3.157; «Schlafplätze 2 + 3»).
@@ -243,121 +246,5 @@ Un aspecto práctico que conviene valorar es la red: al pertenecer al grupo Hyme
       "«precio de tarifa en Alemania»: 65.299 € es el PVP recomendado sin compromiso publicado por Sunlight para Alemania (la marca advierte de que en otros países varía por impuestos y tasas); en España el precio lo fija el importador. La marca no publica la carga útil del modelo. La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante: dato no oficial · en revisión.",
     fuenteNombre: "Sunlight (web oficial)",
     fuenteUrl: "https://www.sunlight.de/modelle/reisemobile/alkoven/a-70/",
-  },
-  {
-    id: "sunlight-cliff-640-2026-precio-ficha-tecnica",
-    marca: "Sunlight",
-    modelo: "Cliff 640 Adventure",
-    tipo: "camper",
-    categoria: "Autocaravana",
-    precioDesde: 60990, // precio oficial publicado por Sunlight para España (sunlight.de/es)
-    potenciaCv: 140,
-    autonomiaKm: null,
-    maleteroL: null,
-    ceroCien: null,
-    velocidadMax: null,
-    bateriaKwh: null,
-    cargaRapidaKw: null,
-    etiquetaDgt: "C",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
-    garantiaBateriaDegradacionPct: null,
-    imagen: "/media/sunlight-cliff-640-2026-precio-ficha-tecnica-oficial.webp",
-    imagenOficial:
-      "/media/sunlight-cliff-640-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial:
-      "/media/sunlight-cliff-640-2026-precio-ficha-tecnica-interior.webp",
-    videoId: null,
-    videoCanal: null,
-    largoMm: 6360,
-    anchoMm: 2050,
-    altoMm: 2610, // 2.810 mm con el techo elevable opcional
-    pesoKg: 2928, // masa en orden de marcha según sunlight.de (horquilla oficial 2.782-3.074 kg según equipamiento)
-    mmaKg: 3500, // ampliable opcionalmente a 4.250 kg de fábrica
-    carnetNecesario: "B",
-    cargaUtilKg: null, // era calculada (3.500 − 2.928): prohibido calcular; Sunlight publica 218 kg de equipamiento opcional máximo, que no es carga útil
-    consumo: null,
-    consumoUnidad: null,
-    plazas: 4,
-    plazasDormir: 2, // 2 camas de serie; 4 con cama central opcional o techo elevable
-    parNm: null,
-    traccion: "Delantera",
-    emisionesCo2: null,
-    aprox: ["etiquetaDgt"],
-    pros: [
-      "Camas gemelas traseras con acceso individual: no hay que hacer ni deshacer la cama cada día, ventaja real frente a las transversales",
-      "Garaje trasero de gran volumen con 4 anillas de sujeción: admite bicis y material deportivo (pack Adventure)",
-      "MMA ampliable a 4.250 kg como opción de fábrica: resuelve el problema de carga que tienen casi todos los camper de 6,36 m en 3,5 t",
-      "Calefacción diésel opcional Combi 4 además de la de gas de serie: permite acampar en invierno sin depender de bombonas",
-      "Precio de partida oficial publicado (60.990 € en España): poco común y competitivo para un camper alemán de 6,36 m con 4 plazas",
-    ],
-    contras: [
-      "Solo 2 camas de serie: para dormir 4 hay que pagar la cama central opcional o el techo elevable, que además eleva la altura a 2,81 m",
-      "El peso en orden de marcha ya parte de 2.928 kg (hasta 3.074 con opciones): con la MMA de 3.500 kg queda poca carga útil real sin la ampliación a 4.250 kg",
-      "Baño compacto con ducha integrada en la misma cabina del inodoro cassette: no hay ducha separada como en rivales franceses",
-      "Cambio manual de 6 marchas de serie y automático no publicado en la ficha oficial española, frente a competidores que lo ofrecen de fábrica",
-      "Nevera de compresor de 84 l algo justa para 4 personas en viajes largos; la cocina es de solo 2 fuegos a gas",
-    ],
-    opiniones: [],
-    galeria: [
-      {
-        src: "/media/sunlight-cliff-640-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Sunlight Cliff 640 Adventure, vista exterior oficial",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/sunlight-cliff-640-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Interior del Sunlight Cliff 640 Adventure, salón visto de delante hacia atrás (foto oficial)",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/sunlight-cliff-640-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Detalle de la cocina del Sunlight Cliff 640 Adventure (foto oficial)",
-        ancho: 1200,
-        alto: 1798,
-      },
-    ],
-    descripcion: `Hay un mérito del Sunlight Cliff 640 Adventure que no tiene que ver con cómo duerme ni con cómo anda: publica su precio en España. 60.990 €, negro sobre blanco en la web oficial española de la marca, una transparencia que en este sector es casi una excentricidad y que permite empezar el análisis por donde hay que empezarlo, por lo que cuesta. A partir de ahí, lo que se encuentra es un camper alemán de 6,36 metros sobre Fiat Ducato 2.2 de 140 CV, con cuatro plazas de viaje y dos camas de serie, dentro de la gama Adventure de Sunlight, la marca joven del grupo Hymer. Su baza no es el lujo: es la combinación de camas gemelas traseras y precio publicado.
-
-La distribución es el argumento central: camas gemelas en la parte trasera con acceso individual para cada ocupante, el formato que elimina el ritual diario de hacer y deshacer la cama y que en un furgón de 6,36 metros es un lujo de verdad. Entre ambas camas queda un garaje trasero de gran volumen con cuatro anillas de sujeción para bicicletas y material deportivo. Es el planteamiento ideal para parejas que viajan con equipamiento voluminoso y que ponen dormir en cama hecha por encima de todo lo demás. Las medidas —6,36 m de largo, 2,05 m de ancho y 2,61 m de alto, 2,81 m con el techo elevable opcional— lo mantienen en el terreno de lo manejable: carnet B, aparcamiento donde una autocaravana no entra y consumo de furgón grande, no de capuchina.
-
-Los datos proceden de la página oficial del modelo en sunlight.de/es, revisada el 18/10/2026. La mecánica es la estándar del segmento: Ducato 2.2 de 140 CV con cambio manual de seis marchas y tracción delantera. Y aquí conviene hablar del peso sin rodeos: la masa en orden de marcha oficial parte de 2.928 kg y puede alcanzar los 3.074 kg con opciones, dentro de una horquilla publicada por la marca. Con la MMA de 3.500 kg, el margen para cuatro ocupantes, agua y equipaje es justo, y la propia Sunlight lo reconoce ofreciendo como opción de fábrica la ampliación de la MMA a 4.250 kg, que resuelve el problema de raíz a cambio de sacarse el carnet C1. La marca no publica la carga útil como tal —los 218 kg que aparecen en su documentación son la masa máxima de equipamiento opcional, un concepto distinto—, así que la ficha muestra las cifras oficiales sin calcular.
-
-La vida a bordo es la de un camper alemán honesto: calefacción de gas de serie, con la Truma Combi 4 diésel en opción para el invierno sin depender de bombonas; nevera de compresor de 84 litros —justa para cuatro en viajes largos—; cocina de dos fuegos; y baño compacto con la ducha integrada en la cabina del WC de cassette, sin la ducha separada que ofrecen algunos rivales franceses. Para dormir cuatro hay que pasar por caja: la cama central opcional o el techo elevable —que eleva la altura a 2,81 m— son opcionales de pago, y conviene presupuestarlos desde el principio si la familia es de cuatro.
-
-En precio y rivales, los 60.990 € oficiales para España lo sitúan entre las opciones más competitivas de los campers alemanes de 6,36 m con cuatro plazas de viaje; sus rivales son los campers franceses e italianos de 6 a 6,4 m, frente a los que el Cliff juega la baza del precio publicado y de las camas gemelas. Es para parejas viajeras que quieren un camper manejable con camas siempre hechas, que cargan bicicletas o material deportivo y que valoran saber el precio antes de pisar el concesionario. No es para familias de cuatro sin pasar por los opcionales de cama, ni para quien viaja siempre a plena carga sin querer ampliar la MMA. Cómo lo verificamos: el precio de 60.990 € para España, las medidas, el motor, la horquilla de masa en orden de marcha y la ampliación opcional a 4.250 kg proceden de la página oficial del modelo en sunlight.de/es, revisada el 18/10/2026; la carga útil calculada se ha eliminado porque está prohibido calcular y la marca no la publica. El veredicto es que es el camper alemán con mejor relación transparencia-precio de su tamaño: 60.990 € publicados y camas gemelas de verdad, a cambio de un margen de peso justo que casi obliga a valorar la ampliación a 4.250 kg y de unos opcionales de cama que hay que presupuestar aparte.
-
-Otro punto a favor del Cliff es la red del grupo Hymer detrás: concesionarios en toda Europa, recambios garantizados y un valor de reventa que los campers alemanes conservan mejor que la mayoría de sus rivales. Para quien compra su primer camper, esa tranquilidad tiene un precio difícil de cuantificar pero fácil de agradecer cuando surge una avería lejos de casa. Y la opción de la MMA a 4.250 kg, aunque exija el C1, convierte al Cliff en un camper con recorrido: se compra con el B y, si la familia crece o el equipaje aumenta, se amplía sin cambiar de vehículo.`,
-    analisisSlug: "sunlight-cliff-640-2026-analisis-opinion",
-    curiosidades:
-      "Sunlight publica el PVP del Cliff 640 Adventure para España (60.990 €) en su web oficial: una transparencia casi única en el sector, donde lo habitual es remitir al concesionario sin dar cifras. Fuente: https://www.sunlight.de/es/modelos/camper-vans/cliff-adventure/cliff-640-adventure/",
-    planMantenimiento: {
-      intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Fiat)",
-      revisiones: [
-        {
-          nombre: "Revisión Fiat Ducato (2 años / 40.000 km)",
-          queSeCambia:
-            "Aceite + filtro de aceite + filtro de polen + inspección general",
-          costeAproxEur: 350,
-        },
-        {
-          nombre: "Revisión célula Sunlight (anual recomendada)",
-          queSeCambia:
-            "Estanqueidad, gas, electricidad, humedades y prueba de calefacción",
-          costeAproxEur: 250,
-        },
-      ],
-      costeAnualAproxEur: 600,
-      fuente: "Plan de mantenimiento Fiat Ducato + recomendaciones Sunlight",
-    },
-    euroncap: null,
-    notas:
-      "La carga útil calculada (572 kg = 3.500 − 2.928) se ha eliminado: está prohibido calcular y la marca no publica la carga útil del modelo (los 218 kg de su documentación son masa máxima de equipamiento opcional, otro concepto). Plazas para dormir: 2 de serie (4 con cama central opcional o techo elevable). La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante: dato no oficial · en revisión.",
-    fuenteNombre: "Sunlight (web oficial)",
-    fuenteUrl:
-      "https://www.sunlight.de/es/modelos/camper-vans/cliff-adventure/cliff-640-adventure/",
   },
 ];
