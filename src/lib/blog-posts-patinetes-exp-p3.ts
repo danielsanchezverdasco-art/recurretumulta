@@ -171,6 +171,44 @@ Como todos los hyper-scooters, el Burn-e 3 **no puede circular legalmente en Esp
 
 <img src=/media/patinetes/nami-burn-e-3-3.webp alt=Nami Burn-e 3 en carretera abierta>
 
+## Nami y la familia Burn-e: de dónde sale este modelo
+
+Nami Electric destaca en hiperpatinetes por lo contrario al patinete urbano ligero: chasis robusto y componentes sobredimensionados. El Burn-e 3 es el escalón intermedio: por encima queda el <a href=/patinetes/nami-burn-e-3-max/>Nami Burn-e 3 Max</a>, con motores de 1.500 W por rueda y batería de 2.880 Wh. Comparte plataforma con él, pero reduce motores y batería para contener —solo un poco— el precio. No es un patinete de ciudad vitaminado: es un vehículo de altas prestaciones.
+
+## Técnica a fondo: qué significan sus cifras
+
+La ficha resume el conjunto: **2.000 W nominales**, **5.040 W de pico**, batería de **72V 30Ah (2.160 Wh)**, **72 km/h** declarados, **47 kg** y neumáticos de **11 pulgadas**.
+
+| Dato | Burn-e 3 | Burn-e 3 Max | Klima Max |
+|---|---|---|---|
+| **Precio** | 4.099 € | 4.449 € | 2.449 € |
+| **Pico** | 5.040 W | 8.400 W | 5.360 W |
+| **Batería** | 2.160 Wh | 2.880 Wh | 1.800 Wh |
+| **Autonomía declarada** | 100-110 km | 120-150 km | 85-90 km |
+| **Autonomía real estimada** | ≈70 km | ≈90 km | ≈59 km |
+| **Velocidad máxima** | 72 km/h | 105 km/h | 70 km/h |
+| **Peso** | ≈47 kg | ≈47,5 kg | ≈38 kg |
+
+Dos precisiones. La autonomía declarada no sigue un ciclo WLTP —es de coches—: es cifra del fabricante en condiciones favorables; la referencia honesta es la estimación real de la ficha, **unos 70 km** en uso mixto. Y los **4.099 €** son precio europeo de referencia: al venderse en España vía importadores, sin tarifa oficial cerrada, es **orientativo**.
+
+## En la práctica: a quién le conviene y a quién no
+
+Con 47 kg, no es de última milla: no se sube por escaleras ni se combina con el metro. Su uso realista es salir rodando desde un garaje, con casco integral y protecciones, disfrutando de una plataforma estable a ritmos imposibles para un patinete ligero. Exige experiencia: 5.040 W de pico asustan a quien viene de un VMP de 25 km/h. Para trayectos urbanos cortos hay opciones mejores en el <a href=/comparador-patinetes/>comparador de patinetes</a>.
+
+## Mantenimiento y costes verificables
+
+Según la ficha, procedente del manual oficial: presión de **50 PSI (3,4 bar) como máximo** en ambas ruedas; comprobación de disco y pastillas antes de ajustar la pinza; suspensión regulable en precarga y rebote —S más duro, F más blando—. El manual reserva las reparaciones a profesionales o distribuidores Nami, prohíbe trabajar con la batería encendida o cargando y limita la limpieza a paño húmedo. Sin tarifa oficial española verificable no damos costes en euros: asume gama alta —neumáticos y pastillas de 11 pulgadas poco comunes— y pide precios antes de comprar.
+
+## Normativa VMP y DGT: sin maquillaje
+
+Un VMP legal en España está limitado a **25 km/h** y el Burn-e 3 declara **72 km/h de serie**: tal cual sale de la caja, **no es utilizable como VMP en vía pública española**. Solo podría circular limitado a 25 km/h, por carril bici o calzada permitida, nunca por aceras. Además, en la ficha el certificado DGT figura sin cumplimentar —no consta en nuestros datos—: verifícalo con el vendedor. La <a href=https://www.dgt.es/comunicacion/noticias/vmp-nuevas-reglas-nueva-formacion>DGT explica las nuevas reglas para VMP</a>: los comercializados desde enero de 2024 requieren certificado de circulación e identificación, y los anteriores disponen de una moratoria que expira el 22 de enero de 2027. Deslimitarlo en vía pública lo saca de la categoría VMP.
+
+## Comparativa y veredicto
+
+Frente al Max, ahorra 350 € renunciando a 3.360 W de pico y unos 20 km reales: con el mismo chasis, el ahorro tiene sentido. Frente al <a href=/patinetes/nami-klima-max/>Nami Klima Max</a>, paga 1.650 € más por batería y plataforma mayores, pero suma 9 kg que se notan a diario. Y mientras carga, puedes probar el <a href=/juego-monos/>juego caza-monos</a> para despejarte un rato.
+
+**Veredicto:** merece la pena solo para un perfil concreto: conductor experimentado, con garaje, que lo usará en circuito o finca privada y quiere la plataforma Burn-e sin pagar el Max. No como transporte urbano legal —a 25 km/h, un VMP certificado hace mejor ese trabajo— ni con presupuesto ajustado. Si encajas, parte de la <a href=/patinetes/nami-burn-e-3/>ficha técnica completa del Nami Burn-e 3</a> y confirma por escrito limitación, certificado y garantía.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Nami Burn-e 3?
@@ -190,7 +228,7 @@ Unos **47 kg**: piénsatelo si vives en un tercero sin ascensor.
 
 ¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: <a href=https://bikescootercity.com.au/products/nami-klima-electric-scooter>distribuidores europeos de Nami Electric</a>.*`,
+*Fuentes: <a href=https://bikescootercity.com.au/products/nami-klima-electric-scooter>distribuidores europeos de Nami Electric</a>., <a href=https://www.dgt.es/comunicacion/noticias/vmp-nuevas-reglas-nueva-formacion>DGT: VMP, nuevas reglas y nueva formación</a>*`,
   },
   {
     slug: "nami-klima",

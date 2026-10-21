@@ -520,6 +520,48 @@ Un matiz sobre el maletero: km77 publica 599 L (su propia medición), pero la **
 
 Vídeo: <a href=https://www.youtube.com/watch?v=12byL1RB7Ew>pruebatucoche.es</a> en YouTube
 
+## De SsangYong a KGM: el contexto del Torres EVX
+
+El Torres EVX es la versión eléctrica del Torres, el SUV con el que la antigua SsangYong ya había renovado su diseño antes del cambio de nombre. Tras la compra por el grupo KG en 2023, la marca pasó a llamarse KGM y en España compite por equipamiento, espacio y garantía más que por imagen. La sala de prensa oficial de KGM España lo presenta como el modelo con mayor garantía de la historia de la marca, un argumento para familias y uso profesional intensivo.
+
+## Técnica a fondo: batería Blade, carga y medidas
+
+La base combina un motor eléctrico síncrono de imán permanente con una batería LFP de BYD, química que destaca por durabilidad y estabilidad térmica. Todos los datos de la tabla proceden de la ficha del modelo en nuestro sitio y coinciden con la nota oficial de KGM España.
+
+| Dato | KGM Torres EVX |
+|---|---|
+| Potencia | 207 CV (152 kW) |
+| Par máximo | 339 Nm |
+| Batería | 80,6 kWh, LFP Blade de BYD |
+| Autonomía WLTP | 503 km mixto y 664 km urbano |
+| Consumo WLTP | 19,3 kWh/100 km |
+| Carga rápida | 120 kW, del 10 al 80 % en 30 minutos según KGM |
+| 0 a 100 km/h | 8,2 s |
+| Medidas | 4.715 x 1.890 x 1.715 mm |
+| Peso | 1.925 kg |
+| Maletero | 839 L y 1.662 L con asientos abatidos |
+| Tracción | Delantera |
+
+Dentro manda una doble pantalla de 12,3 pulgadas, según la propia marca. Repasa cada cifra directamente en su <a href=/coches/kgm-torres-evx-electrico-precio-ficha-tecnica/>ficha técnica completa del KGM Torres EVX</a>.
+
+## Uso real: autonomía honesta y para quién encaja
+
+Con honestidad: los 503 km son homologación WLTP, no una promesa para autopista en invierno. En la prueba recogida en nuestra ficha, el consumo medio fue de unos 18,7 kWh/100 km y la autonomía real estimada rondó los 350 km. Cargando en casa, ese margen sobra para el día a día familiar; en viajes, cargar del 10 al 80 % en 30 minutos ayuda, aunque 120 kW ya no es la referencia del segmento. Encaja si priorizas espacio y garantía; menos si necesitas tracción total —solo hay tracción delantera— o una red de servicio amplia. Sin enchufes a mano, la marca ofrece el <a href=/coches/kgm-torres-hev-hibrido-2026-precio-ficha-tecnica/>KGM Torres HEV híbrido</a> sobre la misma base.
+
+## Cuánto cuesta mantener el Torres EVX
+
+Un coche eléctrico no necesita aceite, correas ni escape, aunque sí sigue gastando neumáticos y frenos, y exige revisiones periódicas en servicio oficial, necesarias para mantener la garantía. Nuestra ficha recoge una estimación, no una tarifa oficial: unos 200 € al año de mantenimiento, unos 3,5 € de energía cada 100 km cargando en casa a 0,18 €/kWh y seguros orientativos de 450 € a terceros y 800 € ampliado. La cobertura sí es oficial según KGM España: 7 años o 150.000 km de garantía general y 10 años o 1.000.000 km para la batería.
+
+## Normativa: etiqueta CERO, carnet e ITV
+
+Al ser 100 % eléctrico lleva etiqueta CERO de la DGT, con las ventajas para circular por las zonas de bajas emisiones que establezca cada municipio, y se conduce con el carnet B. En ITV no hay calendario especial: primera inspección a los 4 años, después cada 2 años hasta los 10 y anual desde ahí, sin prueba de emisiones al no tener escape. En seguridad, honestidad obliga: el Torres EVX no consta ensayado por Euro NCAP, así que no tiene estrellas que mostrar.
+
+## Así queda ante la competencia: puntos fuertes y flaquezas
+
+La tabla de rivales de este artículo deja el patrón claro: frente a Skoda Elroq 60 y Kia EV3 gana en autonomía WLTP (503 km frente a 428 y 436 km) y arrasa en maletero (839 L frente a 470 y 460 L), a cambio de costar algo más que el Elroq. Su garantía de batería no tiene rival cercano. Pierde en reconocimiento de marca, velocidad de carga y tamaño de red posventa. Contrasta las cifras en el <a href=/comparador-coches/>comparador de coches</a>.
+
+**Veredicto:** ¿Merece la pena? Sí, para familias que cargan en casa, hacen muchos kilómetros y valoran espacio, autonomía WLTP y una garantía de batería excepcional por 32.700 € financiando. No, para quien necesite tracción 4x4, carga ultrarrápida, estrellas Euro NCAP verificadas o una marca asentada. Y prueba el <a href=/juego-monos/>juego caza-monos</a>.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el KGM Torres EVX en España?

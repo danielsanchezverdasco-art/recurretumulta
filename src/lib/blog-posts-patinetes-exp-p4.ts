@@ -1711,6 +1711,50 @@ Vídeo: <a href=https://www.youtube.com/watch?v=fkaNFJZgd7s>prueba del Victor Lu
 
 <img src=/media/patinetes/minimotors-dualtron-victor-luxury-plus-3.webp alt=Dualtron Victor Luxury Plus en carretera>
 
+## Un Victor pensado para riders altos
+
+La familia Victor es la gama rutera de **Dualtron**, la línea de altas prestaciones de **Minimotors**. El **Luxury Plus** la estira: **60 mm más de chasis**, pantalla **EY4** con app y batería de hasta **35 Ah**. Es para quien el Victor se le quedaba justo de talla o de autonomía. Más ligero, en la marca, tienes el <a href=/patinetes/minimotors-dualtron-eagle-pro/>Dualtron Eagle Pro</a>: 7,4 kg menos.
+
+## Profundidad técnica: qué significan 4.400 W y 2.100 Wh
+
+El doble motor suma **4.000 W nominales y 4.400 W de pico** según la ficha del sitio. No sirve para correr más en ciudad —manda el límite legal—, sino para **subir pendientes del 35 %** sin que la velocidad se desplome. La batería de **60 V** va en **28, 31 y 35 Ah**; la mayor, **2.100 Wh**.
+
+| Dato técnico | Victor Luxury Plus |
+|---|---|
+| **Motor** | Doble, 4.000 W nominales / 4.400 W de pico |
+| **Batería** | 60 V · 28/31/35 Ah · hasta 2.100 Wh |
+| **Dimensiones** | 1.170 × 620 × 1.370 mm |
+| **Altura libre** | Unos 180 mm según el manual del modelo |
+| **Suspensión** | Cartuchos delantero y trasero reemplazables |
+| **Frenos** | Disco hidráulicos + electrónico, con ABS |
+| **Carga máxima** | 120 kg |
+
+La **EY4** muestra velocidad y batería y permite ajustes desde la app. Detalle completo, en la <a href=/patinetes/minimotors-dualtron-victor-luxury-plus/>ficha técnica del Victor Luxury Plus</a>.
+
+## Uso real: autonomía honesta y el problema de los 37,4 kg
+
+La autonomía declarada es de **95-100 km**, pero la ficha la corrige a **unos 64 km reales** en uso mixto con la batería grande: planifica con esa cifra. El reverso es el peso: **37,4 kg** no se suben por escaleras ni se combinan a la ligera con tren o autobús. Vive en garaje a pie de calle y sale rodando. Para distancia diaria, el chasis alto y la rueda **tubeless de 10 pulgadas** se notan; con transporte público de por medio, es el modelo equivocado.
+
+## Mantenimiento y costes: el plan oficial, sin inventar cifras
+
+La ficha recoge el plan del manual oficial: **revisión cada 3 meses, cada 6 meses o 500 km y al año o 3.000 km**. Batería: sustitución tras **500 ciclos o 10.000 km** y, en almacenaje largo, **carga cada 60 días**. Piezas de fatiga —basculante, bisagra, tubo de dirección y tija—: ciclo de **3 años o 20.000 km**; corredera de bloqueo, **2 años o 10.000 km**. Si los frenos hidráulicos pierden fuerza, el **aceite mineral** lo sustituye el servicio oficial o un distribuidor autorizado. Sin coste anual cerrado —ni marca ni ficha lo fijan—: asume gama alta y **repuestos originales**.
+
+## Normativa VMP en España: la parte que decide la compra
+
+Claro antes de pagar: este modelo figura **sin certificado DGT verificado** en su ficha. La <a href=https://www.dgt.es/comunicacion/noticias/vmp-nuevas-reglas-nueva-formacion>DGT</a> exige **certificado de circulación** e identificación a los VMP comercializados desde el **22 de enero de 2024**, fija su velocidad máxima en **25 km/h** y permite circular a los anteriores sin certificar solo hasta el **22 de enero de 2027**. **Deslimitado llega a 85 km/h**: así ya no es un VMP, sino un vehículo para recinto privado. Nada de aceras, una sola plaza y casco siempre; comprueba la ordenanza local. Si priorizas la seguridad jurídica, mira el <a href=/patinetes/dualtron-victor/>Dualtron Victor</a>, con certificado en su versión Luxury.
+
+## Frente a sus rivales de la propia casa
+
+| Modelo | Precio | Pico | Autonomía declarada / real | Peso |
+|---|---|---|---|---|
+| **Victor Luxury Plus** | desde 1.890 € | 4.400 W | 95 km / ≈64 km | 37,4 kg |
+| **Dualtron Victor** | 1.899 € | 4.000 W | 100 km / ≈65 km | 33 kg |
+| **Dualtron Eagle Pro** | 2.100 € | 3.600 W | 65 km / ≈43 km | 30 kg |
+
+El **Victor** iguala autonomía real con menos peso y certificado, pero sin chasis alto. El **Eagle Pro** es el ágil: cuesta más y rinde menos en distancia. El Luxury Plus solo gana si talla y batería son el criterio. Y entre trayecto y trayecto, prueba el <a href=/juego-monos/>juego caza-monos</a>.
+
+**Veredicto:** **Sí, para un rider alto que hace 40-60 km diarios desde un garaje**, quiere doble motor para cuestas y acepta mantenimiento de gama alta. **No, si necesitas transporte público, escaleras o certificado DGT verificado hoy**: ahí, un modelo más ligero te dará menos problemas.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Victor Luxury Plus?
@@ -1733,7 +1777,7 @@ El Thunder es más bestia; el Luxury Plus es más rutero y alto. Para commuting 
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://vepace.com/products/dualtron-victor-luxury-plus-electric-scooter>ficha en Vepace (España)</a>.*`,
+*Fuentes: <a href=https://vepace.com/products/dualtron-victor-luxury-plus-electric-scooter>ficha en Vepace (España)</a>.; <a href=https://www.dgt.es/comunicacion/noticias/vmp-nuevas-reglas-nueva-formacion>DGT: VMP, nuevas reglas, certificación y límite de 25 km/h</a>*`,
   },
   {
     slug: "minimotors-dualtron-eagle-pro",
