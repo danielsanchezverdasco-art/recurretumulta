@@ -9895,3 +9895,11 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/voge-350ac-2026-ficha-tecnica-precio-hunt3.webp | https://super7moto.com/images/2023/NuevosModelos/Voge/350AC/VOGE_350_AC_E5_Amarilla_estudio_25.jpg | Voge España (prensa oficial, Onetron Motos) / Super7moto | desconocida |
 | /media/sxt-h20-ekfv-hunt1.webp | https://sxt-scooters.de/cdn/shop/files/ESC_H20.1_Scotex_geklappt.jpg?v=1712906489&width=1500 | SXT Scooters (tienda oficial sxt-scooters.de) | desconocida |
 | /media/sxt-h20-ekfv-hunt2.webp | https://esomoto-olten.com/cdn/shop/files/C8849DF3-3F5E-488C-9427-285121CEABF7.jpg?v=1710318955&width=713 | SXT Scooters (foto oficial de producto) / esomoto-olten.com | desconocida |
+| /media/toyota-bz4x-2025-precio-ficha-tecnica-hunt1.webp | https://www.hybrid.cz/wp-content/uploads/2025/03/2025_bZ4X_AWD_003-2-1024x682.jpg | Toyota Europe (prensa) / Hybrid.cz | desconocida |
+| /media/toyota-bz4x-2025-precio-ficha-tecnica-hunt2.webp | https://www.headlightmag.com/hlmwp/wp-content/uploads/2025/09/Toyota_bZ4X_Minorchange_Exterior_3.jpg | HeadLight Magazine | desconocida |
+| /media/toyota-bz4x-2025-precio-ficha-tecnica-hunt3.webp | https://www.headlightmag.com/hlmwp/wp-content/uploads/2025/09/Toyota_bZ4X_Minorchange_Exterior_8.jpg | HeadLight Magazine | desconocida |
+| /media/voge-sr4-max-2026-ficha-tecnica-precio-hunt1.webp | https://www.brunos-moto.com/wp-content/uploads/2023/08/VOGE_SR4_MAX_350_black_02-scaled.jpg | Voge / Brunos Moto | desconocida |
+| /media/voge-sr4-max-2026-ficha-tecnica-precio-hunt2.webp | https://vogeitaly.it/wp-content/uploads/DSC9162-scaled.jpg | Voge Italy (web oficial) | desconocida |
+| /media/voge-sr4-max-2026-ficha-tecnica-precio-hunt3.webp | https://quadis.s3.amazonaws.com/GestorQuadis/Vehiculos/VOGE_SR4%20Max_RADAR_489358/sr4blanca.jpg | Quadis (concesionario Voge) | desconocida |
+| /media/sxt-buddy-pro-ekfv-hunt1.webp | https://cdn.shopify.com/s/files/1/0832/4379/4772/files/ESCBDDYPR_Seitenansicht_links.jpg?v=1712906542 | SXT Scooters (web oficial) | desconocida |
+| /media/sxt-buddy-pro-ekfv-hunt2.webp | https://cdn.shopify.com/s/files/1/0832/4379/4772/files/ESCBDDYPR_Lenker.jpg?v=1712906542 | SXT Scooters (web oficial) | desconocida |
