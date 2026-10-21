@@ -554,6 +554,37 @@ Sin certificado DGT verificado y sin velocidad máxima publicada. Como el resto 
 
 <img src=/media/patinetes/bogist-m5-pro-plus-3.webp alt=Bogist M5 Pro+ en ruta interurbana>
 
+## La familia M5: patinetes con sillín para hacer recados
+
+Bogist orienta su gama M5 a un uso que los patinetes deportivos ignoran: ir a hacer la compra, llevar una cesta detrás y sentarse en los trayectos largos. El M5 Pro+ es el escalón de mayor autonomía de esa familia, y conserva la receta completa: sillín, cesta trasera, doble freno de disco y ruedas neumáticas de 12 pulgadas, más propias de un ciclomotor relajado que de un patinete de pie. Su venta por importadores y catálogos mayoristas, sin PVP oficial en España, marca tanto su precio como su posventa.
+
+## 720 Wh: la autonomía declarada y la que tendrás
+
+| Magnitud | Cifra del M5 Pro+ | Comentario |
+|---|---|---|
+| Autonomía declarada | 55 km | En condiciones ideales de laboratorio |
+| Autonomía real estimada | ≈37 km | Uso mixto con un adulto a bordo |
+| Energía de la batería | 720 Wh | La mayor de la gama M5 |
+| Motor | 500 W | Pensado para llano y repechos suaves |
+
+Los 720 Wh son el dato que manda: con ellos, los 37 km reales estimados superan en casi diez kilómetros al M5 Pro normal y convierten al Plus en un vehículo capaz de enlazar varios recados sin pasar por el enchufe. El peso extra de la batería mayor se nota al subirlo a un piso o al meterlo en un maletero, el precio físico de ese rango adicional que la familia paga en su modelo más pesado.
+
+## Sillín, cesta y ruedas de 12: el enfoque utilitario
+
+Ir sentado cambia el carácter del vehículo: el sillín y la cesta trasera lo acercan a la compra semanal y a los desplazamientos de barrio, y las ruedas neumáticas de 12 pulgadas perdonan los baches y las rejillas mucho mejor que las ruedas macizas pequeñas. El doble disco, a su vez, responde al peso del conjunto: frenar a un conductor sentado sobre un chasis con batería grande exige más que un tambor testimonial.
+
+## Normativa VMP: dónde queda el M5 Pro+ en España
+
+La normativa de la DGT reserva la categoría de vehículo de movilidad personal a los patinetes de una plaza, sin sillín salvo excepciones muy concretas, con velocidad máxima de 25 km/h y certificado obligatorio para los comercializados desde enero de 2024. El M5 Pro+, con sillín y 500 W, solo encaja en la vía pública limitado a 25 km/h y fuera de las aceras, y su falta de certificado DGT verificado es el punto que cualquier comprador debe resolver con el vendedor antes de pagar. En vías interurbanas y travesías manda la misma prudencia que con cualquier VMP.
+
+## M5 Pro+ o M5 Pro S: veredicto
+
+Dentro de la familia, el <a href=/patinetes/bogist-m5-pro-s/>Bogist M5 Pro S</a> marca la referencia de precio con 429 € y 40 km declarados, mientras el Plus suma rango a costa de peso. Sus medidas y componentes están desglosados en <a href=/patinetes/bogist-m5-pro-plus/>la ficha técnica del M5 Pro+</a>. **Veredicto:** si aparece a un precio cercano al del Pro S y el vendedor acredita su situación legal, el Plus es la compra con más sentido de la gama por autonomía; si el sobreprecio crece, el Pro S probado y documentado es la opción prudente. Y si el papeleo se alarga, siempre queda matar el tiempo cazando monos en el <a href=/juego-monos/>juego caza-monos</a>.
+
+## Comprar por importador: las preguntas que hay que hacer
+
+La ausencia de PVP oficial y de red propia convierte la compra del M5 Pro+ en un ejercicio de diligencia: hay que pedir por escrito la factura con los datos del vehículo, la garantía aplicable en España, la disponibilidad de batería de repuesto (es el componente que antes pedirá sustitución) y la situación del certificado de circulación. Un importador serio responde a todo eso sin evasivas; uno que solo compite en precio y desaparece tras la venta deja al comprador solo ante el primer problema. Esa diferencia de posventa vale más que los pocos euros que separan a unos vendedores de otros en los catálogos mayoristas.
+
 ## Preguntas frecuentes
 
 ### ¿Qué autonomía tiene el Bogist M5 Pro+?
@@ -576,7 +607,7 @@ Si lo encuentras al precio del Pro S, sí por el extra de rango. Si es mucho má
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://www.accio.com/plp/bogist-m5-pro>catálogo Bogist en Accio</a>.*`,
+*Fuentes: <a href=https://www.accio.com/plp/bogist-m5-pro>catálogo Bogist en Accio</a>. Normativa VMP: <a href=https://www.dgt.es>DGT</a>.*`,
   },
   // ─────────────────────────── AOVOPRO (3) ───────────────────────────
   {
@@ -1903,6 +1934,37 @@ Sin certificado DGT verificado. A **80 km/h** no es un VMP: en España solo tend
 
 <img src=/media/patinetes/currus-panther-3.webp alt=Currus Panther NF11 en una carretera abierta>
 
+## Currus: la respuesta coreana al reinado de Dualtron
+
+Currus es un fabricante coreano que se propuso disputarle el trono del hiperpatinete a Dualtron, la marca de referencia del segmento extremo, y el Panther NF11 fue su golpe sobre la mesa: doble motor, una batería Samsung descomunal y un chasis atornillado pensado para durar más que el de su rival. Nunca tuvo la red comercial de Dualtron fuera de Asia y de algunos importadores europeos, y hoy sobrevive como pieza buscada en el mercado de segunda mano por los aficionados a la categoría.
+
+## 2.100 Wh y 5.400 W: cifras de otra categoría
+
+| Magnitud del Panther | Cifra | Comparación doméstica |
+|---|---|---|
+| Batería Samsung SDI | 60 V y 35 Ah (2.100 Wh) | Como tres patinetes urbanos juntos |
+| Potencia de pico | 5.400 W | Nivel de ciclomotor serio |
+| Velocidad máxima | 80 km/h | Fuera de toda categoría VMP |
+| Autonomía declarada | 120 km | Unas 80 reales a ritmo tranquilo |
+
+Con esos números, el Panther no se mide con los patinetes de ciudad sino con las motos pequeñas, y su comportamiento lo confirma: la entrega de los dos motores exige oficio, guantes y un casco integral, porque las aceleraciones a fondo no perdonan la improvisación. Las ruedas tubeless de 11 pulgadas y los frenos hidráulicos de 160 mm son el equipamiento mínimo creíble para semejante conjunto.
+
+## 48 kg y 21 horas de carga: la factura de lo extremo
+
+La vida real con un NF11 incluye datos menos glamurosos: pesa 48 kg, lo que lo convierte en un mueble con ruedas que descarta escaleras y portales sin ascensor, y su cargador estándar tarda 21 horas en rellenar los 2.100 Wh, reducibles a unas 10 horas con dos cargadores. La suspensión hidráulica ajustable de 150 mm de recorrido, la mejor de su época, y el manillar de carbono suavizan el trato, pero la tornillería exige revisiones periódicas si se rueda con alegría.
+
+## Normativa española: un Panther no es un VMP
+
+La DGT define los vehículos de movilidad personal con un máximo de 25 km/h y sin posibilidad de circular por aceras, y un aparato capaz de 80 km/h queda fuera de esa categoría por definición. En la práctica, un Panther solo puede moverse en vías públicas limitado electrónicamente a 25 km/h, sin certificado DGT verificado que lo ampare, o en espacios privados y circuitos. Confundir ese encaje legal sale caro en sanciones, y conviene tenerlo claro antes de dejarse seducir por sus cifras.
+
+## Panther o Dualtron Thunder: veredicto
+
+El duelo natural es con el <a href=/patinetes/dualtron-thunder/>Dualtron Thunder</a>, de potencia similar, chasis menos robusto según las comparativas de la época y, a cambio, una red de repuestos muy superior. El detalle del coreano está en <a href=/patinetes/currus-panther/>la ficha del Panther</a>. **Veredicto:** como pieza de coleccionista del nacimiento de los hiperpatinetes, el NF11 tiene un valor real; como compra racional para moverse en 2026, ni hay unidades nuevas ni su encaje legal invita a ello. Para soñar con sus 80 km/h sin riesgos, mejor el <a href=/juego-monos/>juego caza-monos</a>.
+
+## El Panther como espejo de una época
+
+El NF11 documenta el momento en que los patinetes extremos se despegaron de la movilidad urbana y se convirtieron en vehículos de ocio radical, antes de que las normativas europeas ordenaran el sector. Revisar su ficha hoy (suspensión hidráulica de largo recorrido, manillar de carbono, conectividad de pantalla EY3 compartida con el ecosistema Dualtron) es repasar el catálogo de soluciones que la industria ensayó cuando nadie ponía límites. Esa condición de fósil tecnológico de una era breve es, precisamente, lo que lo mantiene cotizado entre los coleccionistas del mundillo: no habrá muchos más como él homologables ni siquiera como curiosidad.
+
 ## Preguntas frecuentes
 
 ### ¿Qué potencia tiene el Currus Panther?
@@ -1925,7 +1987,7 @@ Como pieza de coleccionista, sí. Como compra racional nueva, no hay unidades.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://www.priceboon.com/currus-nf11-the-alternative-of-choice-to-the-dualtron-thunder/>Priceboon</a> y <a href=https://scooter.guide/currus-panther-electric-scooter-review/>Scooter.Guide</a>.*`,
+*Fuentes: <a href=https://www.priceboon.com/currus-nf11-the-alternative-of-choice-to-the-dualtron-thunder/>Priceboon</a> y <a href=https://scooter.guide/currus-panther-electric-scooter-review/>Scooter.Guide</a>. Normativa VMP: <a href=https://www.dgt.es>DGT</a>.*`,
   },
   {
     slug: "currus-nf",
