@@ -1022,22 +1022,32 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "2200 W nominales y 90 km declarados con solo 30 kg",
-      "Frenos de disco + ABS y EBS: a la altura de la potencia",
-      "Batería Samsung de 60 V y 24,5 Ah en la versión LTD",
-      "Suspensión de goma delantera y trasera",
+      "Entrega 2.200 W nominales sin disparar la báscula, que se queda en 30 kg",
+      "La LTD monta batería Samsung de 60 V y 24,5 Ah, con 1.470 Wh para buscar hasta 90 km",
+      "Detenerse no es un problema: discos en ambos ejes apoyados por ABS y frenada eléctrica EBS",
+      "La suspensión en los dos ejes filtra baches que otros patinetes trasladan directos a las muñecas"
     ],
     contras: [
-      "Sin precio oficial en España",
-      "Neumáticos con cámara: conviene llevar kit antipinchazos",
-      "Versión LTD con batería grande, difícil de encontrar",
+      "Ojo legal en España: figura sin certificado DGT y sus 2.200 W rebasan lo permitido a un VMP, así que no debe usarse por vía pública como tal",
+      "A día de hoy no consta PVP oficial para el mercado español en su ficha",
+      "Las cubiertas llevan cámara interior, por lo que un pinchazo te puede dejar tirado lejos de casa",
+      "La configuración LTD, la de mayor batería, aparece con escasa disponibilidad en tiendas"
     ],
     veredicto:
-      "El Eagle Pro es el punto dulce Dualtron: 2200 W, 90 km declarados y 30 kg. Potencia seria sin el peso de las bestias de 45 kg.",
+      "Quien busque un Dualtron manejable sin renunciar a empuje serio encontrará aquí su equilibrio: mucho motor, alcance largo y un peso todavía asumible en el día a día.",
     fuenteNombre: "Catálogo oficial Minimotors 2025",
     fuenteUrl: "https://minimotors.oss-eu-central-1.aliyuncs.com/upload/Product%20Catalogue%20-%202025.8.15.pdf",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Dualtron (Bluetooth, display EY3)",
+      "aceiteTipo": "No aplica: carece de aceite de motor y de cadena; lleva motores de buje BLDC y frenos de disco",
+      "cadenaPasos": [
+        "Deja los neumáticos de 10 pulgadas a 50 psi, el valor indicado en el manual específico de este modelo, y revisa cortes o desgaste acusado",
+        "Comprueba el tacto de ambas manetas, el estado de las pastillas y que ningún disco roce al girar las ruedas en vacío",
+        "Reaprieta la tornillería del mástil, del manillar y del mecanismo de plegado, que sufre mucha vibración con el uso",
+        "Inspecciona los cartuchos de suspensión delanteros y traseros y lubrica o sustituye el elemento si pierde suavidad",
+        "Carga la batería solo entre 0 y 40 °C según el manual, sin dejarla agotada por completo ni enchufada sin vigilancia",
+        "Si vas a guardarlo tres meses o más, déjalo en un sitio seco y a temperatura ambiente, lejos del sol directo"
+      ],
+      "intervaloMantenimiento": "Revisión básica cada 3 meses; revisión completa cada 6 meses o 500 km; revisión anual al año o a los 3.000 km, según el programa de mantenimiento Dualtron"
     },
   },
   {
@@ -1265,22 +1275,33 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "2400 W nominales y 100 km declarados con solo 31,5 kg",
-      "Batería Samsung de 60 V y 30 Ah (1800 Wh)",
-      "Suspensión de goma delantera + cartucho trasero reemplazable",
-      "Frenos hidráulicos + ABS y EBS",
+      "Doble tracción con 2.400 W nominales que se nota en las rampas, sin disparar el conjunto hasta los pesos habituales de esta categoría: marca 31,5 kg",
+      "Su pack de 1.800 Wh anuncia hasta 100 km por carga, mientras la estimación real recogida en la ficha baja a unos 65 km en uso normal",
+      "Delante trabaja una suspensión de goma y detrás un cartucho intercambiable, combinación pensada para ajustar la dureza sin sustituir todo el conjunto trasero",
+      "Detenerse no es un punto débil aquí: monta hidráulicos sobre discos de 140 mm, apoyados por el ABS y la frenada eléctrica EBS"
     ],
     contras: [
-      "Chasis estrecho: menos aplomo que un Thunder",
-      "Sin precio oficial en España",
-      "Neumáticos con cámara",
+      "Legalidad en España, el punto crítico: la ficha no aporta certificado DGT y, con 2.400 W nominales, no encaja en el retrato de un VMP corriente, así que no debe darse por válido para circular por la vía pública sin verificar antes su homologación",
+      "La base de apoyo es reducida y transmite menos aplomo a ritmo alto que la de los hermanos mayores y más anchos de la propia casa",
+      "Comprarlo aquí exige buscar distribuidor, porque en los datos de la ficha no figura un precio oficial para el mercado español",
+      "Las cubiertas de 10x2,5 pulgadas llevan cámara interior, de modo que un pinchazo implica desmontar y reparar en lugar de sellar como en una tubeless"
     ],
     veredicto:
-      "El Spider Max es el peso pluma de los Dualtron potentes: 2400 W y 1800 Wh en 31,5 kg. Para quien quiere prestaciones sin cargar con 50 kilos.",
+      "Si buscas un Dualtron veloz pero todavía transportable, este encaja: reúne mucha potencia y una batería grande conteniendo el peso en 31,5 kg. Eso sí, antes de pagarlo aclara su situación legal en España, porque sin certificado DGT su uso en vía pública no está garantizado.",
     fuenteNombre: "Catálogo oficial Minimotors 2025",
     fuenteUrl: "https://minimotors.oss-eu-central-1.aliyuncs.com/upload/Product%20Catalogue%20-%202025.8.15.pdf",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Dualtron (Bluetooth, display EY4)",
+      "aceiteTipo": "Sin aceite de motor ni cadena: la tracción la dan los motores de buje. El freno hidráulico usa aceite mineral BK407 y su sustitución, si baja el rendimiento de frenada, corresponde al servicio autorizado según el manual.",
+      "cadenaPasos": [
+        "Antes de salir: comprueba acelerador, manetas, luces y que el plegado no tenga holguras; cualquier tornillo flojo en dirección o plegado se reaprieta antes de rodar.",
+        "Neumáticos de 10x2,5 pulgadas con cámara a 50 psi, la presión indicada en el manual específico del Spider Max; revisa también cortes, deformaciones y desgaste de la banda de rodadura.",
+        "Frenos hidráulicos con discos de 140 mm: vigila el grosor de las pastillas, que el disco gire sin roces y que las manetas no se noten esponjosas; si ocurre, deja de usarlo y acude al servicio técnico.",
+        "Tornillería de manillar y potencia con el par orientativo de 6 a 8 N·m que recoge el programa de mantenimiento Dualtron; revisa igualmente los tornillos del mecanismo de plegado.",
+        "Batería de 1.800 Wh (60 V y 30 Ah): cárgala solo entre 0 y 40 ºC según el manual, no la desmontes y, si vas a guardarlo una temporada larga, recárgala una vez cada 60 días.",
+        "Limpieza con un paño suave y húmedo sobre la unidad principal, sin chorros de agua a presión sobre motores, conectores ni pantalla EY4.",
+        "Firmware y ajustes desde la app Dualtron por Bluetooth con la pantalla EY4, tal como ya recoge la ficha."
+      ],
+      "intervaloMantenimiento": "Revisiones cada 3 meses; control más completo cada 6 meses o 500 km y revisión al año o a los 3.000 km, según el programa de mantenimiento de los manuales Dualtron (plataforma EY4)."
     },
   },
   {

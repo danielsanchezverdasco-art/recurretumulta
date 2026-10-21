@@ -368,18 +368,18 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
     pros: [
-      "447 km de autonomía WLTP: de los mejores compactos eléctricos",
-      "Batería de 58,4 kWh (55,4 útiles) con 100 kW de carga rápida",
-      "Consumo de solo 15 kWh/100 km, muy eficiente",
-      "Maletero de 361 litros, igual que el 308 térmico",
-      "Etiqueta Cero con acabado Allure muy completo",
+      "La variante sin emisiones de la tercera generación del 308 homologa 447 km, margen amplio para encadenar desplazamientos laborales sin visitar cargadores públicos cada día",
+      "Frente a un Volkswagen ID.3 o un Opel Astra Electric, su gasto oficial de 15 kWh cada 100 km lo coloca entre los compactos que menos consumen",
+      "Acepta recarga en corriente continua hasta 100 kW aprovechando sus 58,4 kWh, así que una parada corta en carretera devuelve bastantes kilómetros útiles",
+      "Electrificarse no le ha costado capacidad de carga: conserva 361 litros para equipaje, por lo que no exige viajar más ligero que en las versiones de combustión",
+      "Ya desde el acabado Allure llega bien dotado para el uso diario, y su distintivo Cero permite moverse sin restricciones por las zonas de bajas emisiones"
     ],
     contras: [
-      "Desde 37.350 €: caro frente a rivales chinos",
-      "9,3 s de 0 a 100: prestaciones tranquilas",
-      "1.749 kg: el peso lastra la agilidad del 308",
-      "Carga en alterna de 11 kW, sin opción de 22 kW",
-      "La versión SW eléctrica no se vende en España",
+      "Partir de 37.350 € lo sitúa en clara desventaja ante un MG4 Electric o un Cupra Born, alternativas que disputan exactamente el mismo cliente compacto",
+      "Completar el paso de 0 a 100 km/h en 9,3 segundos resulta discreto y no transmite esa respuesta fulminante que muchos esperan de un eléctrico",
+      "Con 1.749 kg sobre la báscula se muestra menos suelto en cambios de apoyo y frenadas que sus hermanos con motor térmico de esta misma carrocería",
+      "En corriente alterna se queda en 11 kW y carece de cargador opcional de 22 kW, hándicap si recargas habitualmente en postes públicos de baja potencia",
+      "Quien prefiera la carrocería familiar SW deberá renunciar a esta mecánica en España, porque aquí la oferta eléctrica se limita a la berlina de cinco puertas"
     ],
     largoMm: 4360,
     anchoMm: 1850,
@@ -427,6 +427,32 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     ],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com",
+  
+    planMantenimiento: {
+      "intervalo": "Revisión inicial a 1 año o 12.500 km; después, cada 2 años o 25.000 km, lo que ocurra antes",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión inicial",
+          "queSeCambia": "Control general del vehículo y de la eficacia de la climatización; la nota técnica indica que no se realiza recalado del estado de salud (SOH) de la batería de tracción"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión periódica",
+          "queSeCambia": "Inspección programada cada 25.000 km o 2 años, incluyendo el control de la eficacia de la climatización"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Líquido de frenos",
+          "queSeCambia": "Sustitución del líquido de frenos cada 2 años"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Filtro de habitáculo",
+          "queSeCambia": "Sustitución del filtro de habitáculo cada 25.000 km o 2 años"
+        }
+      ]
+    },
   },
   {
     id: "peugeot-308-phev-195-2026-precio-ficha-tecnica",

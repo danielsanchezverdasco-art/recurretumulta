@@ -984,16 +984,16 @@ export const COCHES_LOTE6: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "SUV con motor 1.5T Blue Whale de 188 CV desde ≈8.400 € en China",
-      "4,49 m de largo y batalla de 2.710 mm: espacio de segmento C",
-      "Marca de Changan: mecánica probada en millones de coches",
-      "Se exporta a Rusia, Oriente Medio y Latinoamérica",
+      "Su 1.5 turbo Blue Whale rinde 188 CV con 300 Nm de par, un empuje que un Nissan Qashqai o un Hyundai Kona de acceso no igualan en sus variantes básicas",
+      "En origen se anuncia desde unos 8.400 euros, importe con el que en España apenas se accede a un utilitario sencillo y aquí ya trae carrocería SUV para cinco ocupantes",
+      "Mide 4.490 mm de largo por 1.860 mm de ancho, con 2.710 mm entre ejes, así que por tamaño se sitúa más cerca de un SEAT Ateca que de un crossover urbano",
+      "Lo firma Oshan, la línea de Changan pensada para un público joven, y eso se nota en que comparte base mecánica con otros modelos del grupo ya vendidos fuera de China"
     ],
     contras: [
-      "No se vende en España: precio orientativo convertido desde China",
-      "Diseño algo conservador",
-      "Red de servicio inexistente en Europa",
-      "Sin datos EuroNCAP",
+      "Adquirirlo desde aquí exige recurrir a la importación paralela, porque ningún concesionario español lo ofrece y su tarifa en euros procede de convertir el precio chino, no de una lista local",
+      "Para este modelo concreto no existe estructura posventa europea propia, de modo que una pieza específica obligaría a pedirla al exterior y asumir plazos de espera nada europeos",
+      "Euro NCAP nunca lo ha ensayado, por lo que frente a un Kia Sportage o un MG HS ya evaluados en Europa falta esa referencia independiente para valorar su protección",
+      "El trazo exterior apuesta por lo discreto hasta pecar de anodino si se aparca junto a otros Oshan de planteamiento más coupé, y esa timidez le puede restar atractivo comercial"
     ],
     largoMm: 4490,
     anchoMm: 1860,
@@ -1070,16 +1070,19 @@ export const COCHES_LOTE6: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "SUV de 4,7 m con motor 2.0T de 233 CV y 390 Nm desde ≈12.000 €",
-      "Versiones 1.5T, 2.0T e híbrida enchufable iDD",
-      "Batalla de 2.795 mm: espacio de sobra",
-      "Pantallas triples en el salpicadero",
+      "El 2.0 turbo rinde 233 CV y empuja con 390 Nm, un nivel que un Hyundai Tucson o un Kia Sportage solo ofrecen en sus acabados más caros",
+      "Su tarifa china ronda los 12.000 € al cambio, muy por debajo de cualquier SUV europeo de 4,7 m con esta potencia",
+      "La familia mecánica da opciones reales: 1.5T de acceso, este 2.0T como tope de gasolina y una variante enchufable iDD",
+      "Entre ejes suma 2.795 mm, así que la banqueta trasera admite adultos altos sin que las rodillas rocen el respaldo delantero",
+      "El puesto de conducción apuesta por tres pantallas, un despliegue digital que los generalistas europeos suelen cobrar como paquete opcional"
     ],
     contras: [
-      "No se vende en España: precio orientativo convertido desde China",
-      "El 2.0T gasta bastante en ciudad",
-      "Red de servicio inexistente en Europa",
-      "Sin datos EuroNCAP",
+      "Oshan no lo comercializa en España: traerlo supone importarlo por cuenta propia y asumir homologación, transporte y aduanas",
+      "Ese precio tan bajo es solo una conversión desde yuanes; entre gastos de importación y margen del intermediario, la cifra final sube mucho",
+      "Toda la fuerza llega únicamente a las ruedas delanteras, y gestionar 390 Nm saliendo de un cruce mojado exige tacto con el acelerador",
+      "En recorridos urbanos cortos el 2.0 turbo bebe con ganas, justo donde un híbrido convencional de su tamaño más se luce",
+      "Euro NCAP nunca ha pasado por su banco de pruebas a este modelo, por lo que su protección queda sin contrastar bajo el protocolo europeo",
+      "Fuera de China no existe red de talleres de la marca, así que un recambio específico toca encargarlo lejos y armarse de paciencia"
     ],
     largoMm: 4699,
     anchoMm: 1890,
@@ -1242,16 +1245,16 @@ export const COCHES_LOTE6: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "SUV de 4,7 m con 190 CV (1.5T) desde ≈15.200 € en China",
-      "Marca de Dongfeng-Nissan: calidad de fabricación japonesa",
-      "Batalla de 2.756 mm y amplio equipamiento",
-      "Diseño premiado con la parrilla V-Galaxy",
+      "Con 190 CV y 260 Nm, su motor turbo de gasolina mueve este cinco plazas con soltura propia de un todocamino de mayor cilindrada.",
+      "Sus 4.691 mm de longitud y 1.905 mm de anchura le dan una planta imponente, claramente por encima en presencia de un Nissan Qashqai.",
+      "Estrenó el lenguaje V-Galaxy de la casa, con una calandra protagonista que lo distingue de Hyundai Tucson o Kia Sportage, mucho más conservadores.",
+      "Desarrollarse dentro de Dongfeng-Nissan le permitió aprovechar proveedores y procesos de la Alianza, ventaja tangible frente a fabricantes chinos totalmente independientes."
     ],
     contras: [
-      "No se vende en España: precio orientativo convertido desde China",
-      "Marca desconocida fuera de China y Oriente Medio",
-      "Solo tracción delantera",
-      "Sin datos EuroNCAP",
+      "Adquirirlo desde aquí exige importación particular: homologar, transportar y mantener el coche corre por cuenta del dueño al carecer Venucia de red española.",
+      "Confía siempre en el eje delantero para traccionar, así que quien necesite agarre extra en nieve, barro o pistas debería mirar un Tucson o un Sportage con tracción total.",
+      "EuroNCAP nunca lo sometió a sus pruebas, de modo que resulta imposible comparar su protección con la de alternativas europeas, coreanas o japonesas ya evaluadas.",
+      "Los 15.200 euros citados son una conversión orientativa del importe chino, no una tarifa española cerrada con impuestos, entrega y posventa local incluidos."
     ],
     largoMm: 4691,
     anchoMm: 1905,

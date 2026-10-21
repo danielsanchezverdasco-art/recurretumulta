@@ -169,18 +169,18 @@ export const COCHES_EXP12: CocheComparador[] = [
     cargaRapidaKw: 70,
     etiquetaDgt: "Cero",
     pros: [
-      "428 CV y 580 Nm: 0-100 en 5,8 segundos",
-      "134 km de autonomía eléctrica con batería de 34,46 kWh",
-      "7 plazas y maletero de 738 litros",
-      "Carga rápida de 70 kW en continua",
-      "Garantía de 8 años o 160.000 km según omodajaecoo.es",
+      "Con 428 CV empuja como un SUV de corte deportivo pese a ser un familiar de siete asientos, cerrando el sprint hasta 100 en 5,8 s",
+      "Sus 134 km en modo eléctrico permiten cubrir los desplazamientos de la semana sin arrancar el motor de gasolina si lo enchufas en casa",
+      "En configuración de cinco plazas el maletero llega a 738 litros, una capacidad difícil de igualar en un enchufable de este tamaño",
+      "Admite recarga en corriente continua a 70 kW, algo poco habitual entre híbridos enchufables y muy útil para recuperar autonomía en ruta",
+      "La batería queda cubierta durante 8 años o 160.000 km, un respaldo que tranquiliza frente a un Skoda Kodiaq o un Volkswagen Tayron enchufables"
     ],
     contras: [
-      "2.304 kg: el peso lastra la agilidad",
-      "4,82 metros: complicado en parkings y ciudad",
-      "Consumo real alto cuando se agota la batería",
-      "Precio de campaña de 44.490 €, la tarifa es superior",
-      "Tracción total solo en las versiones altas",
+      "Pesa 2.304 kg en orden de marcha, así que en curvas cerradas se mueve con mucha inercia y no invita a enlazar giros",
+      "Mide 4,82 m de largo y 1,93 m de ancho: entrar en plazas estrechas de garaje comunitario exige paciencia y apoyarse en las cámaras",
+      "Si dejas de enchufarlo, el gasto se aleja mucho de los 2,1 l/100 km homologados y el conjunto pierde buena parte de su ventaja",
+      "Los 44.490 € anunciados son precio de campaña marcado como aproximado en la propia ficha; la tarifa sin descuentos queda por encima",
+      "Frente a un Kia Sorento o un Hyundai Santa Fe con trayectoria más larga en España, su valor de reventa todavía está por demostrar"
     ],
     largoMm: 4820,
     anchoMm: 1930,
@@ -211,6 +211,17 @@ export const COCHES_EXP12: CocheComparador[] = [
       },
     ],
     analisisSlug: "jaecoo-j8-shs-2025-precio-ficha-tecnica",
+  
+    planMantenimiento: {
+      "intervalo": "Cada 12 meses o 15.000 km, lo que ocurra primero",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión periódica programada",
+          "queSeCambia": "Cambio de aceite de motor y filtros, revisión de frenos y comprobación general del vehículo, según las operaciones programadas del plan oficial de OMODA & JAECOO"
+        }
+      ]
+    },
   },
   {
     id: "jaecoo-7-gasolina-2025-precio-ficha-tecnica",

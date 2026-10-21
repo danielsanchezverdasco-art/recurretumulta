@@ -5,6 +5,7 @@
 // Vídeos: solo canales oficiales (Euro NCAP y km77.com en YouTube).
 
 import { EURONCAP_EXP10 } from "./euroncap-exp10.ts";
+import { EURONCAP_B4 } from "./euroncap-b4.ts";
 import { EURONCAP_EXP11 } from "./euroncap-exp11.ts";
 import { EURONCAP_EXP12 } from "./euroncap-exp12.ts";
 import { EURONCAP_EXP13 } from "./euroncap-exp13.ts";
@@ -5906,4 +5907,5 @@ export const SEGURIDAD_EURONCAP: Record<string, SeguridadEuroNCAP> = {
   ...EURONCAP_EXP12,
   ...EURONCAP_EXP13,
   ...EURONCAP_EXP14, ...EURONCAP_EXP15, ...EURONCAP_EXP16, ...EURONCAP_EXP17, ...EURONCAP_EXP18, ...EURONCAP_EXP19, ...EURONCAP_EXP20, ...EURONCAP_EXP21,
+  ...EURONCAP_B4,
 };

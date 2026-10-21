@@ -335,6 +335,37 @@ export const COCHES_NIO: CocheComparador[] = [
         "alto": 1280
       }
     ],
+  
+    planMantenimiento: {
+      "intervalo": "Según el manual oficial del EL6, no hay una revisión única anual: cada elemento sigue su propio plazo en el NIO Service Center (líquido de frenos cada 3 años; aceite de la caja de cambios cada 200.000 km; controles de refrigerante, pastillas y discos por años o kilometraje, lo que ocurra antes).",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Líquido de frenos",
+          "queSeCambia": "Sustitución del líquido de frenos cada 3 años, según el manual oficial del EL6."
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Aceite de la caja de cambios",
+          "queSeCambia": "Sustitución del aceite de la caja de cambios cada 200.000 km, según el manual oficial del EL6."
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Refrigerante",
+          "queSeCambia": "Comprobación a más tardar en el 5.º año o a los 100.000 km, lo que ocurra antes, y sustitución si es necesario; si no se sustituye, nueva comprobación cada 2 años o 40.000 km."
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Pastillas de freno",
+          "queSeCambia": "Comprobación de desgaste a más tardar en el 5.º año o a los 100.000 km, lo que ocurra antes, y sustitución si es necesario; si no se sustituyen, nueva comprobación cada 2 años o 40.000 km."
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Discos de freno",
+          "queSeCambia": "Comprobación de desgaste a más tardar en el 10.º año o a los 200.000 km, lo que ocurra antes, y sustitución si es necesario; si no se sustituyen, nueva comprobación cada 2 años o 40.000 km."
+        }
+      ]
+    },
   },
   {
     id: "nio-el7-2024-precio-ficha-tecnica",
@@ -416,6 +447,37 @@ export const COCHES_NIO: CocheComparador[] = [
         "alto": 1280
       }
     ],
+  
+    planMantenimiento: {
+      "intervalo": "Según el manual oficial del EL7: líquido de frenos cada 3 años; comprobación de refrigerante y de pastillas a más tardar al 5.º año o a los 100.000 km; comprobación de discos al 10.º año o a los 200.000 km; aceite de la caja de cambios cada 200.000 km",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Líquido de frenos",
+          "queSeCambia": "Sustitución del líquido de frenos cada 3 años, según el manual oficial del EL7"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Refrigerante",
+          "queSeCambia": "Comprobación a más tardar al 5.º año o a los 100.000 km, lo que llegue antes, y sustitución solo si no cumple el estándar de Nio; si no se cambia, nueva comprobación cada 2 años o 40.000 km"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Pastillas de freno",
+          "queSeCambia": "Comprobación de desgaste a más tardar al 5.º año o a los 100.000 km, lo que llegue antes, y sustitución solo si es necesaria; si no se cambian, nueva comprobación cada 2 años o 40.000 km"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Discos de freno",
+          "queSeCambia": "Comprobación de desgaste a más tardar al 10.º año o a los 200.000 km, lo que llegue antes, y sustitución solo si es necesaria; si no se cambian, nueva comprobación cada 2 años o 40.000 km"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Aceite de la caja de cambios",
+          "queSeCambia": "Sustitución del aceite de la caja de cambios cada 200.000 km, según el manual oficial del EL7"
+        }
+      ]
+    },
   },
   {
     id: "nio-el8-2024-precio-ficha-tecnica",

@@ -683,16 +683,16 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: null,
     pros: [
-      "41,7 kWh y 300 km eléctricos CLTC",
-      "272 CV y 320 Nm con 0-100 en 7,6 s",
-      "Autonomía total superior a 1.000 km",
-      "SUV familiar de 4,78 m",
+      "En el día a día funciona como eléctrico: la batería de 41,7 kWh da para 300 km CLTC sin arrancar el motor de gasolina",
+      "Sumando carga y depósito anuncia más de 1.000 km seguidos, justo lo que su hermano eléctrico puro no ofrece sin detenerse a enchufar",
+      "Entrega 272 CV y 320 Nm desde el eje trasero y cierra el paso a 100 km/h en 7,6 segundos, cifras impropias de un familiar tranquilo",
+      "Mide 4,78 metros y lleva cinco plazas, así que planta cara a otros EREV chinos como el Deepal S07 desde el espacio y no desde el precio europeo, porque aquí no se vende"
     ],
     contras: [
-      "Solo a la venta en China",
-      "El generador 1.5 eleva el consumo en autopista",
-      "2.090 kg: el peso lastra la eficiencia",
-      "300 km en ciclo CLTC: el WLTP equivalente sería menor",
+      "Leapmotor lo reserva al mercado chino: en España no hay forma oficial de comprarlo ni red de la marca que lo atienda",
+      "Por autovía manda el bloque 1.5 trabajando como generador y ahí el gasto de combustible crece y se pierde el silencio del modo eléctrico",
+      "Arrastrar 2.090 kg castiga consumos, frenada y agilidad, un peaje claro de montar batería grande y motor térmico a la vez",
+      "Esos 300 km eléctricos vienen del ciclo CLTC chino, muy generoso, así que trasladados a una homologación europea el alcance útil quedaría recortado"
     ],
     largoMm: 4780,
     anchoMm: 1905,
@@ -762,16 +762,16 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: null,
     pros: [
-      "SUV de 6 plazas con 292 CV y 520 km CLTC",
-      "Batería de 67,7 kWh con carga rápida",
-      "4,92 m con tres filas utilizables",
-      "0-100 en 6,37 s para un familiar de 6 plazas",
+      "Seis plazas repartidas en tres filas para familias que en Europa mirarían un Kia EV9 y aquí encuentran una propuesta china mucho más asequible, con 19500 euros como precio de partida en su mercado de origen",
+      "Su propulsor trasero rinde 292 CV y 360 Nm, una reserva de empuje sobrada para viajar con seis ocupantes sin que las incorporaciones a vías rápidas se hagan eternas",
+      "La batería de 67,7 kWh anuncia 520 km en ciclo CLTC, alcance suficiente sobre el papel para encadenar una semana de trayectos escolares y laborales sin vivir pegado al enchufe",
+      "Acelera de 0 a 100 km/h en 6,37 segundos, un registro más propio de un compacto deportivo que de un SUV de 4915 mm pensado para acomodar también a los abuelos atrás"
     ],
     contras: [
-      "No se vende en Europa",
-      "520 km CLTC equivalen a unos 430 km WLTP estimados",
-      "Tercera fila justa para adultos en viajes largos",
-      "Sin datos de maletero publicados",
+      "Leapmotor International, la sociedad impulsada junto a Stellantis, no lo ha incluido en su catálogo europeo: en España no existe concesionario que lo comercialice, lo mantenga ni lo garantice oficialmente",
+      "La autonomía homologada bajo el ciclo chino CLTC resulta optimista frente al WLTP europeo, por lo que la distancia útil en autopista quedaría sensiblemente por debajo de lo anunciado",
+      "Como sucede en casi cualquier seis plazas de este formato, los ocupantes adultos de mayor estatura irán encogidos en la última fila si el desplazamiento se alarga durante horas",
+      "La ficha carece de dato oficial de maletero, un vacío especialmente molesto en un modelo cuya compra se justifica precisamente por capacidad cuando viajan todas las plazas ocupadas"
     ],
     largoMm: 4915,
     anchoMm: 1905,

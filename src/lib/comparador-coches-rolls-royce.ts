@@ -527,18 +527,18 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
     emisionesCo2: 0,
     aprox: ["velocidadMax"],
     pros: [
-      "El primer Rolls-Royce 100 % eléctrico: 585 CV y 900 Nm en silencio total",
-      "530 km de autonomía WLTP con batería de 102 kWh",
-      "Carga rápida de 195 kW: del 10 al 80 % en 34 minutos",
-      "Etiqueta Cero de la DGT: acceso libre a todas las ZBE",
-      "El Rolls más aerodinámico de la historia (Cx 0,25) con parrilla iluminada",
+      "La propulsión eléctrica le va a Goodwood como un guante: marcha en silencio casi absoluto, entrega inmediata de 900 Nm y tracción total, y aun así firma 4,5 segundos en el 0 a 100 sin que se oiga trabajar a la mecánica.",
+      "En su año modelo 2026 sigue sin un rival eléctrico directo: un Bentley Continental GT o un Mercedes-Maybach juegan a la combustión o al híbrido, mientras este coupé circula con etiqueta Cero y entra sin restricciones en las zonas restringidas.",
+      "Pensado para gran turismo y no para trayectos cortos de escaparate: homologa 530 km, gasta 22,2 kWh/100 km pese a su envergadura y permite escapadas largas sin vivir pendiente del enchufe, algo impensable en un Rolls-Royce de otra época.",
+      "Alimentar su batería de 102 kWh no se eterniza en ruta, porque admite carga continua de hasta 195 kW: las paradas en viajes largos se acortan y el coche recupera el papel de devorador de autovías para el que nació su silueta.",
+      "Conserva intacto el ceremonial de la casa —silueta fastback de 5.475 mm de largo, presencia solemne y acabado artesanal a medida— pero lo envuelve en un automóvil sin tubo de escape y con 0 emisiones de CO2 en marcha."
     ],
     contras: [
-      "Desde unos 520.000 € en España: el eléctrico más caro del mercado",
-      "2.890 kg: el peso lastra la agilidad en carreteras reviradas",
-      "Solo 4 plazas y maletero de 368 L: poco práctico para el tamaño",
-      "Red de carga ultrarrápida necesaria para viajes largos",
-      "El Series II (2026) ya lo mejora en todo: comprarlo nuevo hoy es arriesgado",
+      "Partir de 520.000 € antes de pasar por el programa de personalización de la casa lo aleja incluso de la órbita de un Porsche Taycan Turbo muy equipado o de la mayoría de Continental GT nuevos: aquí se paga estatus, no relación potencia-precio.",
+      "Sobre la báscula marca 2.890 kg y no hay puesta a punto que lo disimule en un puerto de montaña: frena, gira y cambia de apoyo como un transatlántico muy rápido, concebido para autovía despejada y no para carreteras de curvas enlazadas.",
+      "La parte práctica queda en anécdota: solo ofrece 4 plazas y un maletero de 368 litros, poco generoso para un coche que supera los dos metros de anchura y complica tanto el equipaje de una escapada como aparcar en ciudad.",
+      "Quien busque una calificación oficial de choque para contrastarla no la encontrará: la marca no ha sometido este modelo a las pruebas de Euro NCAP, así que su seguridad estructural no tiene una nota pública que la respalde.",
+      "Fuera de la red de carga potente, su gran batería juega en su contra: sin un cargador capaz de acercarse a su techo de carga, reponer 102 kWh se vuelve una espera larga y muy poco glamurosa para un coche de este precio."
     ],
     imagen: "/media/rolls-royce-spectre-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
@@ -573,6 +573,37 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
         "alto": 1280
       }
     ],
+  
+    planMantenimiento: {
+      "intervalo": "Revisión anual cada 12 meses según la tabla oficial del Spectre (RR25) en el folleto Warranty & Maintenance Model Year 2026 de Rolls-Royce, con avisos del sistema CBS en el propio coche",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Vehicle check anual",
+          "queSeCambia": "Inspección estándar en cada servicio según el folleto oficial MY26: conexiones y latiguillos de freno, bajos, dirección, alumbrado, cinturones, batería de 12 V, neumáticos y prueba final en carretera"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Microfiltro del habitáculo",
+          "queSeCambia": "Sustitución del microfiltro cada 12 meses, según la tabla de tiempos oficial del Spectre (RR25)"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Líquido de frenos",
+          "queSeCambia": "Servicio del líquido de frenos tras aparecer el aviso a los 36 meses y, a partir de ahí, cada 24 meses, según el folleto oficial MY26"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Frenos delanteros y traseros",
+          "queSeCambia": "Intervención condicionada al indicador de desgaste de cada eje, sin intervalo fijo de tiempo o kilometraje en la documentación oficial consultada"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Agente secante de pilotos traseros y batería de telemática",
+          "queSeCambia": "Agente secante de los pilotos traseros cada 12 meses; batería de la unidad de control telemático a los 72 meses o en la sexta revisión del vehículo, según la tabla oficial MY26"
+        }
+      ]
+    },
   },
   {
     id: "rolls-royce-spectre-series-ii-2026-precio-ficha-tecnica",
@@ -1407,18 +1438,18 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
     cargaRapidaKw: 195,
     etiquetaDgt: "Cero",
     pros: [
-      "El primer Rolls-Royce 100% eléctrico",
-      "585 CV y 900 Nm en silencio absoluto",
-      "530 km de autonomía WLTP (km77)",
-      "Batería de 102 kWh útiles y 195 kW DC",
-      "Desde unos 450.000 € en España (ecoticias)",
+      "Hito fundacional de 2024: inauguró la etapa eléctrica de serie en Goodwood ocupando el hueco del gran coupé que había dejado el Wraith",
+      "Empuje sereno a la altura del emblema: 585 CV con tracción total para desplazar su silueta fastback sin estridencias ni vibraciones",
+      "Alcance pensado para grandes desplazamientos: homologa 530 km en ciclo WLTP, registro notable en un coupé de 5.475 mm",
+      "En ruta admite carga contundente: batería de 102 kWh y pico de 195 kW en corriente continua para recuperar energía sin eternizar la parada",
+      "Prestaciones de deportivo disimuladas bajo etiqueta Cero: completa el 0 a 100 en 4,5 segundos y firma 250 km/h de punta"
     ],
     contras: [
-      "2.890 kg: el peso lastra la agilidad",
-      "22,2 kWh/100 km: consumo elevado",
-      "Carga de 195 kW: mejorable en 2026",
-      "Personalización dispara el precio final",
-      "4 plazas: menos práctico que un Ghost",
+      "Su masa condiciona cada maniobra: con 2.890 kg sobre la báscula exige anticipar frenadas y se siente enorme en carreteras estrechas",
+      "Apetito energético propio de su envergadura: los 22,2 kWh/100 km homologados recortan bastante el alcance cuando se viaja rápido por autopista",
+      "Ya en 2024 su techo de recarga quedaba justo ante un Porsche Taycan o un Lucid Air, rivales eléctricos que resuelven la espera con mayor soltura",
+      "El programa Bespoke actúa como tentación permanente: cada madera, tapizado o tono encargado a medida suma sobre una tarifa de partida desde 450.000 €",
+      "Formato coupé con solo cuatro plazas: quien necesite acceder a diario a la fila trasera encontrará más sensato un Ghost berlina"
     ],
     largoMm: 5475,
     anchoMm: 2017,
@@ -1464,5 +1495,36 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
         "alto": 800
       },
     ],
+  
+    planMantenimiento: {
+      "intervalo": "Cada 12 meses o 15.000 km, lo que ocurra antes, según sistema Condition Based Service; mantenimiento programado incluido durante los primeros 4 años según el programa oficial de la marca",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión anual / Vehicle Check",
+          "queSeCambia": "Inspección completa del vehículo en cada servicio: frenos y sus conexiones, dirección, neumáticos, alumbrado, cinturones, batería de 12 V, bajos y prueba en carretera, con el alcance estándar de servicio"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Microfiltro",
+          "queSeCambia": "Sustitución del microfiltro del climatizador cada 12 meses, según la tabla específica del Spectre (RR25) en el folleto oficial de mantenimiento"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Líquido de frenos",
+          "queSeCambia": "Sustitución del líquido de frenos según la tabla del Spectre: referencia de 24 meses en el resumen de intervalos del folleto oficial, tras la primera indicación"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Frenos delanteros y traseros",
+          "queSeCambia": "Servicio de frenos delanteros y traseros únicamente cuando aparece el indicador de desgaste, sin intervalo fijo por kilometraje"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Agente secante de pilotos traseros y batería de telemática",
+          "queSeCambia": "Agente secante de los pilotos traseros cada 12 meses; batería de la unidad de control telemático a los 72 meses o en cada sexta revisión del vehículo, según folleto oficial"
+        }
+      ]
+    },
   },
 ];
