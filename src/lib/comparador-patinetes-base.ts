@@ -3254,18 +3254,18 @@ export const PATINETES_BASE: PatineteComparador[] = [
   aprox: ["autonomiaRealKm", "pesoKg", "precioEur"],
   pros: [
     "900 W nominales (1000 W pico): de los VMP más potentes con certificado DGT",
-    "60 km de autonomía con batería de 15 Ah (720 Wh)",
+    "Batería de 48 V y 15 Ah (720 Wh): Smartgyro promete hasta 60 km por carga en este K2 Pro",
     "Doble disco + regenerativa y suspensión de largo recorrido",
-    "4 intermitentes y doble foco LED delantero",
+    "4 intermitentes (2 en las empuñaduras y 2 detrás) y doble foco LED, uno alto y otro bajo",
     "App con antirrobo y 140 kg de carga máxima",
-    "Certificado DGT (VMP A1061)",
+    "Certificado DGT (VMP A1061)"
   ],
   contras: [
     "22 kg: pesado para moverlo a mano cada día",
     "8 horas de carga completa",
     "PVP oficial no publicado (ronda los 700-760 € en tiendas)",
     "Ruedas de 10\": la versión XL monta 12\" más cómodas",
-    "900 W nominales: verifica la normativa municipal",
+    "Sus 900 W nominales obligan a revisar la ordenanza de tu ciudad: hay municipios que ponen pegas a VMP tan potentes aunque lleve placa A1061"
   ],
   veredicto: "El equilibrio de Smartgyro: 900 W, 60 km y equipamiento completo con certificado DGT. En tiendas ronda los 700-760 €. Si priorizas comodidad, la versión XL con ruedas de 12\" merece la pena.",
   fuenteNombre: "Smartgyro / MediaMarkt",

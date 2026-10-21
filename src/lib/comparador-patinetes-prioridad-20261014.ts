@@ -1554,14 +1554,14 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "40 km de autonomía declarada, suficiente para el día a día",
+      "Los 26 km reales estimados de esta ficha, con 500 W y solo 16 kg, ya dan para una ida y vuelta urbana larga sin arrastrar un patinete pesado"
     ],
     contras: [
-      "Datos aún a verificar con la ficha oficial: frenos, neumáticos, carga máxima, capacidad de la batería en Wh, tiempo de carga",
-      "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Cinco huecos en su propia ficha —frenos, neumáticos, carga máxima, batería en Wh y tiempo de carga— impiden compararlo en serio con otros modelos de 500 W antes de pagarlo",
+      "El certificado DGT consta como no verificado: la ficha por sí sola no acredita que este Levy Pro pueda circular en España, así que hay que exigir el documento al vendedor",
+      "Los 799 $ citados no son un precio oficial español: sin PVP en euros confirmado, el coste final queda abierto y no sirve para cerrar un presupuesto"
     ],
-    veredicto: "El Levy Pro es un patinete eléctrico de Levy con motor de 500 W y 40 km de autonomía declarada. El precio recogido es 799 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
+    veredicto: "Levy Pro en las cifras de su propia ficha: motor de 500 W, velocidad máxima de 25 km/h y 16 kg, con 40 km declarados que bajan a 26 km reales estimados. Esa caída de 14 km entre lo declarado y lo estimado, la ausencia de carga máxima y de capacidad de batería en Wh, y un importe solo en dólares sin validar para España obligan a pedir la documentación completa —certificado DGT incluido— antes de darlo por comparable con otros patinetes de su potencia.",
     fuenteNombre: "Fuente del borrador",
     fuenteUrl: "Web oficial de Levy (buscar modelo exacto antes de publicar; no se inventa URL)",
     mantenimientoDIY: {
@@ -1798,21 +1798,32 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       { alt: "Razor E325, vista en detalle", alto: 1200, ancho: 1200, src: "/media/patinetes/razor-e325-2.webp" },
     ],
     aprox: ["autonomiaRealKm"],
-    pros: [],
-    contras: [
-      "Datos aún a verificar con la ficha oficial: frenos, neumáticos, carga máxima, capacidad de la batería en Wh, tiempo de carga",
-      "Autonomía declarada de solo 24 km: para trayectos cortos",
-      "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+    pros: [
+      "Plataforma extralarga y conjunto sobredimensionado de acero: es la variante grande de la familia E300, pensada para adolescentes corpulentos y adultos de hasta 100 kg, no para el público infantil del E100",
+      "Motor de 250 W de alto par con transmisión por cadena en la rueda trasera y acelerador de puño giratorio de goma blanda, el esquema clásico de Razor para rodar hasta 24 km/h",
+      "Ruedas neumáticas de 9 pulgadas delante y detrás según la descripción del fabricante, con más aire y más agarre que las ruedas macizas de poliuretano de los Razor de iniciación",
+      "Freno trasero accionado desde la maneta y caballete retráctil de serie: dos detalles prácticos que la propia descripción de Razor destaca para parar y aparcar sin apoyarlo contra una pared"
     ],
-    veredicto: "El Razor E325 es un patinete eléctrico de Razor con motor de 250 W y 24 km de autonomía declarada. El precio recogido es 279 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
+    contras: [
+      "Su batería sellada de plomo-ácido de 24 V rinde unos 40 minutos de uso continuo y luego pide hasta 12 horas enchufada: es la tecnología que lastra a toda esta generación frente a los patinetes de litio actuales",
+      "Pesa 24 kg y su bastidor grande no está diseñado para plegarse y cargarlo a diario: subirlo a un piso o meterlo en un maletero pequeño se convierte en un esfuerzo, no en un gesto rápido",
+      "No se ha localizado certificado de circulación de la DGT para este modelo recreativo estadounidense: si piensas usarlo fuera de recintos privados en España, aclara su situación con quien te lo venda antes de pagar",
+      "Razor no lo vende oficialmente en España y la referencia del borrador era de 279 dólares en EE. UU.: cualquier precio en euros que veas será de un importador, sin PVP oficial español con el que contrastarlo"
+    ],
+    veredicto: "El Razor E325 es el hermano mayor y extralargo de la clásica serie E de Razor: bastidor y horquilla de acero sobredimensionados, motor de 250 W por cadena con puño giratorio y batería de plomo-ácido de 24 V que las fuentes cifran en unos 40 minutos por carga, tras hasta 12 horas de recarga, para conductores de 13 años o más y hasta 100 kg. Su sitio es el paseo recreativo por el barrio o por suelo privado y liso, no el desplazamiento urbano diario en España, donde su peso, su carga lenta y la falta de certificado DGT localizado lo dejan muy por detrás de un patinete moderno de litio.",
     fuenteNombre: "Fuente del borrador",
     fuenteUrl: "Web oficial de Razor (buscar modelo exacto antes de publicar; no se inventa URL)",
     mantenimientoDIY: {
-      intervaloRevision: "Cada 6-12 meses",
-      ajusteFrenosPasos: ["Comprueba el tacto y el desgaste; ajusta o sustituye pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
+      "ajusteFrenosPasos": [
+        "El freno de este modelo es el trasero y se acciona a mano: regula la tensión del cable desde la maneta hasta que la rueda se detenga sin que la palanca llegue al puño.",
+        "Si notas que el patinete frena solo o pierde autonomía, comprueba que el freno no vaya rozando en marcha y reajústalo antes de sospechar de la batería."
+      ],
+      "aprieteTornilleria": "Reaprieta los tornillos del manillar, de la horquilla de acero y del guardacadena y revisa la tapa del compartimento de la batería bajo la plataforma; no hay bisagra de plegado que vigilar en este bastidor fijo.",
+      "intervaloRevision": "Antes de cada salida, como manda el manual de la serie: batería cargada, ruedas infladas a la presión indicada, freno trasero que responde y cadena sin ruidos extraños",
+      "trucos": [
+        "Plomo-ácido de 24 V: recarga después de cada uso hasta completar el ciclo largo que indica el manual, no lo guardes descargado ni en sitios bajo cero y, cuando se agote su vida útil, entrégalo en un punto de reciclaje de baterías de plomo, nunca a la basura doméstica.",
+        "Neumáticos neumáticos de 9 pulgadas: una presión baja hace que el E325 vaya lento y gaste antes los 40 minutos de batería, así que mírala con manómetro; y si la cadena suena seca o raspa, revisa su tensión y su estado en vez de seguir rodando."
+      ]
     },
   },
   {
@@ -1840,22 +1851,30 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "32 km de autonomía declarada, suficiente para el día a día",
+      "Motor de 500 W con transmisión por cadena y neumáticos neumáticos con cámara: entrega el par abajo y absorbe baches mejor que un patinete de ruedas macizas de su misma época"
     ],
     contras: [
-      "27 kg de peso: pesado para subir escaleras a diario",
-      "Datos aún a verificar con la ficha oficial: frenos, neumáticos, carga máxima, capacidad de la batería en Wh, tiempo de carga",
-      "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Sus 27 kg se notan de verdad: entre el chasis de acero y las dos baterías de plomo, no es un modelo para subirlo a pulso por las escaleras cada día",
+      "La cifra de 32 km queda en entredicho frente a su propio manual: para la variante con asiento E500S, Razor declara hasta 40 minutos de uso continuo por carga, no un kilometraje largo",
+      "Química de otra época: bloque de plomo-ácido sellado de 24 V, con 12 horas para la carga inicial y hasta 8 horas en las recargas posteriores según el manual",
+      "Sin precio oficial en euros ni homologación española localizada: el importe recogido es de 399 dólares y, si aparece de importación o de segunda mano, toca exigir papeles al vendedor antes de pagarlo"
     ],
-    veredicto: "El Razor E500 es un patinete eléctrico de Razor con motor de 500 W y 32 km de autonomía declarada. El precio recogido es 399 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
-    fuenteNombre: "Fuente del borrador",
-    fuenteUrl: "Web oficial de Razor (buscar modelo exacto antes de publicar; no se inventa URL)",
+    veredicto: "El Razor E500 corona la clásica familia E de Razor: 500 W según esta ficha, transmisión por cadena y planteamiento recreativo sobre superficies planas y secas, tal como lo describe el manual de su variante con asiento E500S. Ahí mandan los 40 minutos de uso continuo, los 27 kg y una recarga que puede alargarse hasta 8 horas, así que hoy encaja más como compra de segunda mano revisada a fondo que como patinete urbano homologado para el uso diario en España.",
+    fuenteNombre: "Manual del propietario Razor E500S (Razor USA, n.º de artículo 13114099), reproducido en ManualMachine",
+    fuenteUrl: "https://manualmachine.com/razor/e500s/1270302-user-manual/",
     mantenimientoDIY: {
-      intervaloRevision: "Cada 6-12 meses",
-      ajusteFrenosPasos: ["Comprueba el tacto y el desgaste; ajusta o sustituye pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
+      "ajusteFrenosPasos": [
+        "Prueba la maneta antes de salir: al apretarla, el freno debe actuar con firmeza y el interruptor de corte debe detener el motor al frenar con el acelerador dado.",
+        "Regula primero el tensor de la maneta, girándolo entre un cuarto y media vuelta hasta dejar el tacto buscado.",
+        "Si sigue habiendo holgura, afloja el tornillo de anclaje trasero y tensa el cable hasta dejar entre 37 y 44 mm entre el extremo de la funda y el anclaje; después centra el rotor entre las pastillas girando con los dedos el regulador de la pinza."
+      ],
+      "aprieteTornilleria": "Aprieta los dos tornillos del collarín de la dirección con la llave Allen de 5 mm hasta tapar la rosca de la horquilla y revisa las tuercas de eje de ambas ruedas con llaves de 10/15 mm; en la variante con asiento, comprueba además los cuatro tornillos que lo fijan al chasis.",
+      "intervaloRevision": "Comprobación previa a cada salida siguiendo la lista del manual del E500S, y revisión de cadena, freno y presión en cuanto aparezcan ruidos, holguras o una caída clara de autonomía",
+      "trucos": [
+        "Cadena: si suena a roce o chirría, el manual lo atribuye a cadena seca; lubrícala con un aceite tipo 3-en-1 o Tri-Flow y revisa tensor y cubrecadena antes de seguir rodando.",
+        "Baterías de plomo: primera carga de 12 horas y vida media declarada de unos 250 ciclos; no las guardes por encima de 24 °C ni por debajo de -23 °C (75 °F y -10 °F en el manual) y llévalas a un punto de reciclaje de plomo-ácido al agotarlas, nunca a la basura doméstica.",
+        "Neumáticos con válvula Schrader: ínflalos con una bomba de bicicleta con manómetro hasta los PSI grabados en el flanco; si pinchas, la cámara se puede parchar o sustituir, porque no son ruedas macizas."
+      ]
     },
   },
   {
@@ -1883,24 +1902,29 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "80 km de autonomía declarada, cifra de récord en su segmento",
-      "Batería de 1404 Wh, capacidad de gama alta",
-      "Motor de 5000 W nominales: potencia de sobra para cuestas",
+      "Su batería de 1.404 Wh —el paquete de 60 V y 23,4 Ah de esta primera generación Blade— sostiene los 80 km declarados y unos 52 km reales estimados, un margen pensado para rutas largas y no para recados cortos.",
+      "La tracción con doble motor, seña de la gama Blade desde antes de la alianza con Minimotors que dio nombre a Teverun, le da empuje en rampas donde un patinete urbano de un solo motor se queda sin fuelle.",
+      "Pese a limitarse a 25 km/h en esta ficha, conserva el formato de rueda grande y chasis plegable de la serie GT, pensado para rodar estable también fuera del centro urbano."
     ],
     contras: [
-      "Pesa 32 kg: no es para subirlo a mano ni meterlo en el transporte público",
-      "Datos aún a verificar con la ficha oficial: frenos, neumáticos, carga máxima, tiempo de carga",
-      "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Con 32 kg sobre la báscula, moverlo por unas escaleras o cargarlo en un maletero exige las dos manos y algo de calma: su sitio natural es el garaje, no un piso sin ascensor.",
+      "La ficha sigue sin cerrar frenos, neumáticos, carga máxima ni tiempo de carga, así que esos cuatro datos hay que exigirlos por escrito al vendedor de este Blade GT concreto antes de pagar nada.",
+      "Sin certificado DGT confirmado en su ficha: con la potencia que declara, comprueba que la unidad que te venden es la versión limitada y apta para circular en España.",
+      "No hay precio oficial en euros: la única referencia recogida son 2.299 dólares fuera del canal español, sin equivalencia verificada para comprarlo aquí."
     ],
-    veredicto: "El Teverun Blade GT es un patinete eléctrico de Teverun con motor de 5000 W y 80 km de autonomía declarada. El precio recogido es 2.299 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
+    veredicto: "El Blade GT es el modelo que expandió la serie Blade antes de que la colaboración con Minimotors rebautizara la marca como Teverun y de que en 2023 llegara su relevo, el Blade GT II, con pantalla TFT integrada, batería con BMS inteligente y app propia. Esta unidad se queda con el paquete de 60 V y 23,4 Ah (1.404 Wh), 80 km declarados y unos 52 km reales estimados, limitada a 25 km/h y con 32 kg de peso. Antes de comprarla hay que cerrar lo que la ficha deja abierto: precio oficial en euros, certificado DGT y los datos de frenos, neumáticos, carga máxima y tiempo de carga.",
     fuenteNombre: "Fuente del borrador",
     fuenteUrl: "Web oficial de Teverun (buscar modelo exacto antes de publicar; no se inventa URL)",
     mantenimientoDIY: {
-      intervaloRevision: "Cada 6-12 meses",
-      ajusteFrenosPasos: ["Comprueba el tacto y el desgaste; ajusta o sustituye pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
+      "ajusteFrenosPasos": [
+        "Comprueba que ambas ruedas se detienen sin chirridos ni recorrido muerto de maneta; unas pastillas gastadas o un disco alabeado se notan en este Blade GT como vibración al frenar bajando una rampa con carga."
+      ],
+      "aprieteTornilleria": "Reaprieta el cierre del mástil plegable, los tornillos de los brazos de suspensión y los guardabarros: con el par del doble motor, cualquier holgura en el plegado se convierte en cabeceo al acelerar.",
+      "intervaloRevision": "Primera revisión tras los primeros 500 km y después cada 6 meses si se usa a diario; el doble motor y sus 32 kg castigan tornillería y frenos más que en un patinete urbano ligero.",
+      "trucos": [
+        "Batería de 60 V: déjala entre el 20 % y el 80 % si va a estar parada varias semanas y carga siempre con su cargador de 67,2 V; el BMS protege, pero no corrige meses enchufada al 100 %.",
+        "Neumáticos tubeless de 11 pulgadas (90/65-6,5): revisa la presión cada dos semanas; con poca presión este patinete pierde autonomía y el flanco sufre en exceso al subir bordillos."
+      ]
     },
   },
   {
@@ -1928,22 +1952,27 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "35 km de autonomía declarada, suficiente para el día a día",
-      "Motor de 1000 W nominales: potencia de sobra para cuestas",
+      "Batería de 748 Wh, la capacidad de una 48 V y 15,6 Ah, con encendido por tarjeta NFC y pantalla integrada: no es el equipamiento de un urbano básico de iniciación",
+      "1.000 W nominales para un conjunto que esta ficha cifra en solo 20 kg: empuje de sobra para arrancar en rampas cortas de ciudad sin cargar con el tamaño de un Blade GT"
     ],
     contras: [
-      "Datos aún a verificar con la ficha oficial: frenos, neumáticos, carga máxima, tiempo de carga",
-      "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Frenos, neumáticos, carga máxima y tiempo de carga figuran todos sin rellenar en esta ficha: sin esos cuatro datos no se puede comprobar si la unidad es la de disco mecánico y rueda de 10×3,0 que describe el manual o cualquier otra variante de la familia Mini",
+      "La versión española de 48 V y 15,6 Ah se anuncia como certificada por la DGT, pero esta unidad concreta no trae el certificado acreditado en la ficha: hay que pedir el número de certificado al vendedor y cotejarlo antes de pagar",
+      "El único precio recogido es de 1.099 dólares, sin PVP en euros para España: hasta que un distribuidor de aquí lo confirme, no hay forma fiable de compararlo en coste con los rivales que sí se venden en euros"
     ],
-    veredicto: "El Teverun Blade Mini es un patinete eléctrico de Teverun con motor de 1000 W y 35 km de autonomía declarada. El precio recogido es 1.099 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
+    veredicto: "El Blade Mini es el escalón compacto de la familia Blade de Teverun, por debajo de los GT, y en esta ficha aparece con 1.000 W, 748 Wh y 35 km declarados que se quedan en unos 22 km reales estimados. Su atractivo está en ese formato Mini con detalles de gama superior, como el encendido NFC y, en la versión española de igual batería, las luces RGB programables y los intermitentes delanteros y traseros. Su problema es otro: conviven bajo el mismo nombre versiones base, Pro y Ultra muy distintas, y esta ficha mezcla un precio en dólares con campos clave sin rellenar, así que antes de comprarlo hay que cerrar versión exacta, certificado DGT y precio en euros.",
     fuenteNombre: "Fuente del borrador",
     fuenteUrl: "Web oficial de Teverun (buscar modelo exacto antes de publicar; no se inventa URL)",
     mantenimientoDIY: {
-      intervaloRevision: "Cada 6-12 meses",
-      ajusteFrenosPasos: ["Comprueba el tacto y el desgaste; ajusta o sustituye pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
+      "ajusteFrenosPasos": [
+        "Con el disco mecánico de la versión base, comprueba que la maneta no llegue hasta el puño y que la pastilla no roce en parado; si la frenada se alarga, toca tensar el cable o cambiar pastillas, no seguir rodando así."
+      ],
+      "aprieteTornilleria": "Revisa el cierre de plegado del mástil, anunciado con triple nivel de seguridad en la versión española, y aprieta manillar y guardabarros: una holgura en ese cierre se nota antes en la dirección que en ningún otro sitio de este Mini.",
+      "intervaloRevision": "Primera revisión de consumibles a los pocos meses de uso y después de forma periódica: el manual del Blade Mini pide vigilar rodamientos, discos, pastillas, cables, piezas de plegado, ruedas y suspensión, y sustituir lo que esté gastado antes de que falle",
+      "trucos": [
+        "Rueda con cámara de 10×3,0 en la versión base del manual: mantén la presión al día, porque rodar bajo de aire es la vía rápida al pinchazo y a perder parte de los ya justos 22 km reales estimados.",
+        "El encendido NFC también hace de antirrobo diario: comprueba que el patinete queda bloqueado al alejarte y no guardes la tarjeta de repuesto en la misma mochila con la que lo dejas aparcado."
+      ]
     },
   }
 ];

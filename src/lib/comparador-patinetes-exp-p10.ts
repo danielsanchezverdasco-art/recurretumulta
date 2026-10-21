@@ -275,26 +275,39 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
       "tiempoCargaH",
     ],
     pros: [
-      "Doble motor de 2x1500 W (3000 W nominales, 8400 W de pico)",
-      "Batería de 2016 Wh (72 V 28 Ah): hasta 150 km declarados en la versión 28 Ah",
-      "Velocidad máxima de 95 km/h (con versión limitada a 25 km/h)",
-      "Frenos de disco hidráulicos NUTT de 160 mm + frenos eléctricos",
-      'Neumáticos tubeless CST de 11" y amortiguador de dirección de serie',
-      "Carga máxima de 150 kg y columna de dirección de carbono",
+      "Dos controladores senoidales de 50 A que se ajustan por separado desde la pantalla en color: cinco modos con parámetros independientes de arranque, entrega y freno eléctrico para cada motor",
+      "Batería de 72 V y 28 Ah con celdas LG 21700 (2.016 Wh): es la versión Viper de autonomía larga dentro de la familia Burn-E",
+      "Chasis monopieza de aluminio aeronáutico 6082 soldado a mano, columna de dirección íntegra en fibra de carbono y cierre de plegado cónico patentado en acero inoxidable 304",
+      "Amortiguadores hidráulicos de muelle de 165 mm regulables en precarga y rebote, con amortiguador de dirección para domar el tren delantero a alta velocidad",
+      "Faro delantero de 2.000 lúmenes, tiras LED laterales que hacen de intermitentes y bocina de tipo motocicleta: un equipo de iluminación impropio de un patinete al uso",
+      "Discos hidráulicos de 160 mm en los dos ejes combinados con freno eléctrico de intensidad regulable entre 0 y 5 desde el display"
     ],
     contras: [
-      "3681,80 €: precio de moto, no de patinete",
-      "Pesa 47 kg: ni plegado lo mueves con facilidad",
-      "Sin certificado DGT: a 95 km/h no es un VMP legal en España",
-      "La carga completa ronda las 8 horas",
-      "Autonomía real a ritmo alegre: unos 100 km, lejos de los 150 teóricos",
-      "Recambios y servicio en España dependen del importador",
+      "3.681,80 € de tarifa: cuesta como una moto eléctrica urbana y, a diferencia de ella, no puede matricularse ni circular como vehículo",
+      "47 kg y 134,6 cm de largo incluso plegado: olvídate de subirlo a un piso sin ascensor o de meterlo en un maletero pequeño",
+      "Carece de certificado DGT y su punta de 95 km/h lo deja fuera de la categoría de VMP: su sitio es el circuito o la finca privada",
+      "Recargar los 2.016 Wh lleva unas 8 horas con el cargador incluido; acortar ese tiempo exige comprar el cargador rápido aparte",
+      "Los 150 km oficiales se miden a ritmo tranquilo; apretando el acelerador, la propia estimación de esta ficha cae a unos 100 km reales",
+      "El manual reserva las reparaciones al distribuidor oficial de NAMI y en España no hay red propia de la marca: pastillas, purgados y recambios dependen del importador que te lo vendió"
     ],
     veredicto:
-      "El Burn-E 2 Max Viper es un hyper-patinete: 3000 W, 8400 W de pico y 2016 Wh para 150 km teóricos. Por 3681,80 € y 47 kg es una máquina de disfrute en circuito o terreno privado, no un commuter: en España su encaje legal es muy limitado.",
+      "El Burn-E 2 Max Viper desciende del primer patinete de NAMI —marca fundada en 2019 por Michael Sha, exingeniero de Kaabo—: el Burn-E original, apellidado Viper, que en 2020 estrenó los controladores de onda senoidal en un patinete. Esta versión de 28 Ah conserva esa electrónica afinable al detalle y suma 8.400 W de pico, pero sus 47 kg y sus 95 km/h lo confinan en España al ámbito privado: como transporte diario legal no tiene recorrido.",
     fuenteNombre: "Voltnation",
     fuenteUrl: "https://voltnation.es/es/products/nami-burn-e2-max-viper-scooter-electrico-potencia-de-3000w-bateria-de-28ah-velocidad-97km-h-autonomia-81km-4687",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      "ajusteFrenosPasos": [
+        "Comprueba que el disco de 160 mm gira equilibrado y sin alabeo antes de tocar la pinza",
+        "Revisa que las pastillas conservan grosor suficiente para dar la potencia de frenada que exige un conjunto de 47 kg lanzado",
+        "Corrige la posición de las pastillas con los dos tornillos de la pinza, como indica el manual; el propio manual advierte de que el patinete puede montar pinzas de distinta marca según la serie"
+      ],
+      "aprieteTornilleria": "Revisa el amortiguador de dirección, fijado con tres tornillos y una tuerca (distancia de unos 20 mm entre el extremo del cilindro y el soporte, según el manual), y el cierre cónico de plegado en acero inoxidable 304: a alta velocidad cualquier holgura en la columna de carbono se nota al instante",
+      "presionNeumaticos": "Máximo de 50 psi según el manual de usuario del Burn-E; las CST tubeless de 11 pulgadas (90/65-6.5) llevan válvula para reinflar sin desmontar la rueda",
+      "trucos": [
+        "Suspensión: la precarga se regula con la tuerca bajo el muelle y el rebote con el anillo rojo superior (S, retorno más lento y duro; F, más rápido y blando); el manual avisa de que un ajuste inadecuado puede provocar pérdida de control a alta velocidad",
+        "Limpieza solo con paño húmedo, sin alcohol, gasolina ni queroseno y sin lavar con agua; patinete apagado y desenchufado, cuidando de que no entre humedad en el puerto de carga (conjunto IP55)",
+        "Nunca hagas mantenimiento con la batería encendida o en carga, y deja cualquier reparación en manos de un profesional o del distribuidor oficial de NAMI, como exige el manual"
+      ]
+    },
   },
   {
     id: "kaabo-mantis-10-lite",

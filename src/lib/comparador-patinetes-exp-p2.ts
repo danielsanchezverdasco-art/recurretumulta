@@ -905,26 +905,26 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "800 W nominales (1000 W de pico) con batería de 48 V y 15 Ah (720 Wh)",
-      "60 km declarados por 729 €",
-      "Sistema de 48 V: más eficiente que los 36 V de la gama baja",
-      "Ruedas de 10 pulgadas",
-      "Un escalón por debajo del Pro Evo en precio",
+      "Motor brushless que entrega 800 W continuos y se estira hasta los 1.000 W en los repechos, con la velocidad recortada a los 25 km/h legales",
+      "Guarda 720 Wh en su pack de 15 Ah: la marca anuncia 60 km por carga y esta ficha ya descuenta hasta 41 km en uso real",
+      "Frenada triple de verdad: un disco mecánico en cada rueda más la retención regenerativa del motor al soltar el acelerador",
+      "Versión Certificado (SG27-424) homologada por la DGT y con placa: intermitentes que se accionan desde el manillar, ledes ambientales en la base y display con toma USB",
+      "Amortiguación en ambos ejes y cierre de plegado 2.0 con doble anclaje, pensado para que el mástil no coja holgura con los kilómetros"
     ],
     contras: [
-      "Frenos sin especificar en la ficha",
-      "Sin certificado DGT verificado",
-      "El peso no está publicado",
-      "Sin doble suspensión regulable como el Pro Evo",
-      "Por 70 € más, el Pro Evo añade suspensión regulable y NFC",
+      "Pesa 23 kg: se pliega, sí, pero cargarlo por escaleras o subirlo al tren a pulso cansa desde el primer día",
+      "Recargar el pack completo lleva unas 8 horas, así que un olvido por la noche se paga al día siguiente",
+      "La estanqueidad se queda en IPX4: aguanta salpicaduras, no un chaparrón sostenido ni chorros directos",
+      "Los 60 km del anuncio salen del ensayo amable de SmartGyro —75 kg de carga, 25 °C y ritmo medio contenido—; en la calle la propia ficha lo deja en 41 km",
+      "Se queda sin el bloqueo por tarjetas NFC ni la electrónica Core Inside del Rockway EVO de 2025, y sus neumáticos Dual Grip no son tubeless como los de la familia EVO"
     ],
     veredicto:
-      "El Rockway Pro es el 800 W intermedio: 720 Wh y 60 km por 729 €. Bien si lo encuentras de oferta; a PVP, el Pro Evo le come terreno por poco más.",
+      "El Rockway Pro Certificado es el Rockway de siempre llevado a su techo: conserva el chasis que hizo popular a la gama en España, pero sube a 800 W continuos y 15 Ah frente a los 500 W y 13 Ah del Rockway a secas, y llega ya homologado con placa de la DGT. A 729 € su rival no es otro patinete, es su propio hermano EVO: renuncia a NFC y app a cambio de más motor y más batería. Si priorizas empuje y alcance sobre conectividad, este es tu Rockway; si te pesa más el antirrobo por tarjeta, mira el EVO aceptando su recorte de prestaciones.",
     fuenteNombre: "PcComponentes",
     fuenteUrl: "https://www.pccomponentes.com/",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Smartgyro Core (iOS/Android)",
-      aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
+      "actualizacionFirmware": "La documentación comercial del Pro Certificado no anuncia actualización desde app —esa es seña del EVO con SmartCore—: ante cualquier fallo de electrónica, la vía prevista por la marca es el taller oficial SmartGyro",
+      "aprieteTornilleria": "Verificación periódica de holguras, tornillería y presión de los neumáticos Dual Grip, con atención al doble anclaje del cierre 2.0; pastillas y manetas se sustituyen al primer síntoma de desgaste, tal como exige el manual de la versión certificada"
     },
   },
   {
@@ -2294,29 +2294,31 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     ],
     aprox: ["potenciaNominalW", "autonomiaRealKm", "bateriaWh"],
     pros: [
-      "Doble motor de 700 W (1400 W combinados)",
-      "Limitado a 25 km/h (48 km/h desbloqueado fuera de vía pública)",
-      "Batería de 48 V y 15,6 Ah (749 Wh): 55 km declarados",
-      "NFC para desbloqueo",
-      "Protección IPX5",
-      "29,5 kg para un doble motor",
+      "Dos motores de 700 W, uno por rueda, con botón DDM para rodar con un solo motor y estirar la carga",
+      "Batería extraíble de 48 V y 15,6 Ah (749 Wh): se saca del chasis y se carga en casa sin subir los 29,5 kg a pulso",
+      "Es la configuración pequeña de la familia Apex: por encima queda la variante de 19,2 Ah y 921 Wh",
+      "Frenos de disco hidráulicos en ambas ruedas con apoyo eléctrico, poco habituales en un chasis de rueda pequeña",
+      "Suspensión SpringR delante y detrás para asfalto roto sin pasar a un patinete de ruedas de 10 pulgadas",
+      "Arranque con tarjeta NFC y pantalla central grande: sin tu tarjeta, nadie lo pone en marcha"
     ],
     contras: [
-      "Sin precio publicado",
-      "Frenos sin especificar en la ficha",
-      "Sin certificado DGT verificado pese al límite de 25 km/h",
-      "55 km justos para un doble motor",
-      "Ruedas de 8,5 pulgadas",
+      "29,5 kg con la batería puesta: se pliega, pero subirlo a un piso sin ascensor cansa cada día",
+      "Rueda neumática de 8,5 x 3 pulgadas: en bordillos y rejillas manda la suspensión, porque hay poco balón para absorber",
+      "Con los dos motores activos, los 37 km reales de esta ficha se quedan cortos frente a lo que promete la variante de 19,2 Ah",
+      "Su certificación para la DGT no consta en la ficha, con el campo vacío: su encaje como VMP en España queda por acreditar antes de comprarlo",
+      "Los frenos hidráulicos piden purgado y revisión de pastillas: más taller que unos mecánicos de cable"
     ],
     veredicto:
-      "El 9 Apex es el doble motor domesticado: 1400 W limitados a 25 km/h con NFC e IPX5. Potencia con cabeza para la calle.",
+      "El 9 Apex es la serie 9 de Vsett puesta al día: doble motor de 700 W, batería que se extrae para cargar en casa y frenado hidráulico en el chasis compacto de 8,5 pulgadas. Su límite no es la potencia, es el peso y la batería pequeña de 749 Wh.",
     fuenteNombre: "Go Emotion",
     fuenteUrl: "https://goemotion.eu/",
     mantenimientoDIY: {
-      aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de ambas ruedas motrices",
-      trucos: [
-        "Usar el modo monomotor en llano alarga mucho la autonomía",
-      ],
+      "aprieteTornilleria": "Comprobar el cierre de plegado, los tornillos de la potencia y los ejes de las dos ruedas motrices: con tracción en ambos ejes, cualquier holgura delante se nota al acelerar",
+      "trucos": [
+        "En llano, rodar con un solo motor desde el botón DDM alarga mucho la carga de 749 Wh",
+        "Si la maneta de freno se hunde más de lo normal, toca purgar el circuito hidráulico en vez de seguir apretando",
+        "Como la batería se extrae, mejor cargarla en interior que dejar el patinete entero en un balcón o un trastero frío"
+      ]
     },
   },
   {
@@ -2593,33 +2595,33 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     ],
     aprox: ["precioEur", "potenciaNominalW", "autonomiaRealKm"],
     pros: [
-      "Doble motor de 2000 W (6960 W de pico)",
-      "Batería LG de 72 V y 35 Ah (2520 Wh): 90 km declarados",
-      "Frenos hidráulicos de 160 mm con E-ABS",
-      "Suspensión hidráulica",
-      "Neumáticos tubeless de 11 pulgadas",
-      "150 kg de carga máxima, NFC e IP54",
-      "Precio verificado en Europa: 4.199,90 €",
+      "Dos motores de 2.000 W cada uno que suman 6.960 W de pico al abrir gas a fondo",
+      "Pack LG de 72 V y 35 Ah (2.520 Wh): 90 km declarados y 61 km reales recogidos en la ficha",
+      "Discos de 160 mm en ambas ruedas con pinzas hidráulicas NUTT y apoyo eléctrico E-ABS al frenar",
+      "Suspensión hidráulica con un amortiguador delante y dos detrás para un chasis de 65 kg",
+      "Cubiertas tubeless anchas de 11×4 pulgadas, con más huella que las de los Vsett de gama inferior",
+      "Bloqueo por llave NFC, sellado IP54 y plataforma que admite hasta 150 kg entre piloto y carga",
+      "Precio europeo localizado en Evolt: 4.199,90 € para esta versión Super de 72 V, no para la de 60 V"
     ],
     contras: [
-      "Pesa 65 kg",
-      "4.199,90 €: precio de moto eléctrica",
-      "No es un VMP legal: solo circuito privado",
-      "Velocidad máxima no publicada",
-      "Tiempo de carga no publicado",
+      "65 kg en la báscula: subirlo a un coche o a un piso sin ascensor es tarea de dos personas",
+      "La factura de 4.199,90 € compite con la de motos eléctricas matriculables, y este Vsett no lo es",
+      "Su doble motor de 4.000 W nominales lo aparta de la definición de VMP: queda relegado a fincas y circuitos privados",
+      "En la fuente europea consultada para esta ficha no constan ni la velocidad punta ni las horas de carga",
+      "El modo Sport entrega su empuje por ráfagas cortas con pausa de enfriamiento, no de forma continua"
     ],
     veredicto:
-      "El 11+ Super 72V es el Vsett más extremo: 6960 W de pico y 2520 Wh LG por 4.199,90 €. Una máquina de circuito sin concesiones.",
+      "Si el 11+ de 60 V ya era rápido, este Super de 72 V juega en otra liga: 2.520 Wh de LG, pinzas NUTT y bloqueo NFC en un chasis de 65 kg que solo tiene sentido lejos de la calle, en circuito.",
     fuenteNombre: "Evolt",
     fuenteUrl: "https://evolt.eu/",
     mantenimientoDIY: {
-      aprieteTornilleria: "Revisar los anclajes de la suspensión hidráulica, la potencia del manillar, los ejes de ambas ruedas motrices y los conectores de la batería",
-      ajusteFrenosPasos: [
-        "Frenos hidráulicos de 160 mm: purgar el circuito en taller si la maneta se hunde",
-        "Revisar las pastillas cada 1.000 km: con 65 kg se devoran",
+      "ajusteFrenosPasos": [
+        "Si la maneta NUTT llega blanda hasta el puño, toca purgar el circuito hidráulico en taller antes de seguir rodando",
+        "Inspeccionar las pastillas de los discos de 160 mm cada 1.000 km: detener 65 kg desde velocidades de circuito las gasta muy rápido"
       ],
-      videoTutorialUrl: "https://www.youtube.com/embed/i-Kh0NuNN08",
-      videoTutorialTitulo: "VSETT 11+ Super: presentación (Evolt)",
+      "aprieteTornilleria": "Comprobar el apriete de los anclajes de la suspensión hidráulica (un amortiguador delante y dos detrás), la tija plegable, los ejes de los dos motores de 2.000 W y los conectores del pack de 72 V",
+      "videoTutorialTitulo": "VSETT 11+ Super: presentación (Evolt)",
+      "videoTutorialUrl": "https://www.youtube.com/embed/i-Kh0NuNN08"
     },
   },
 ];

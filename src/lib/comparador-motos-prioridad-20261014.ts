@@ -27,25 +27,26 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "precioDesde"
     ],
     pros: [
-      "Motor de 124,2 cc con 15 CV (11 kW) y 12 Nm de par",
-      "15 CV: el máximo legal para el carnet A1",
-      "Peso declarado de 144 kg en orden de marcha",
-      "Depósito de 14,5 l",
-      "Altura de asiento de 820 mm",
-      "Se puede llevar con el carnet A1",
-      "Precio aproximado desde 5.750 €"
+      "Chasis perimetral de aluminio con travesaños heredado de la competición: es la única deportiva carenada italiana de 125 con bastidor de este material",
+      "Monocilíndrico de 124,2 cc con culata DOHC de cuatro válvulas, refrigeración líquida y centralita Marelli MIUG4, homologado Euro 5+ y con los 15 CV entregados a 10.500 rpm, en el techo de la categoría A1",
+      "Frenada de moto grande: disco delantero de 300 mm con pinza radial de cuatro pistones, latiguillo metálico y ABS Bosch de doble canal con función antivuelco",
+      "Con 14,5 litros de depósito y un consumo WMTC de 2,6 l/100 km, su autonomía teórica pasa de 550 km, una cifra inalcanzable para la Yamaha YZF-R125 y su depósito de 11,5 litros",
+      "Estética calcada de la RS 660: triple óptica delantera, iluminación LED completa con intermitentes integrados y cuadro LCD preparado para Aprilia MIA por Bluetooth",
+      "Postura y medidas de deportiva auténtica —asiento a 820 mm, 1.350 mm entre ejes y 144 kg en orden de marcha— con un práctico hueco bajo el asiento capaz de guardar una tablet de 8 pulgadas",
+      "Nombre con pedigrí: la saga RS suma veinte títulos mundiales de pilotos en 125 entre 1992 y 2011, desde Alessandro Gramigni hasta Nico Terol"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
-      "Garantía orientativa de modelos parecidos, no específica de esta versión",
-      "Mantenimiento orientativo de un modelo similar de la misma marca",
-      "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "15 CV justos en vías rápidas, sobre todo con pasajero"
+      "Su precio queda entre los más altos de las deportivas A1 y, además, el de esta ficha es orientativo: figura como aproximado desde 5.750 € mientras Motofichas publica 5.800 € para la versión 2025",
+      "La posición a los semimanillares carga las muñecas en ciudad y atascos, y el asiento del acompañante es testimonial: es una deportiva para disfrutarla en solitario y en carretera de curvas",
+      "En vía rápida manda el cuentavueltas: el par máximo llega a 8.500 rpm y la potencia a 10.500 rpm, así que sin estirar marchas los adelantamientos se hacen largos, especialmente rodando a dúo",
+      "El plan de revisiones de esta ficha no procede del manual específico de la RS 125 Euro 5+: su propia fuente lo atribuye a las RS 660 y Tuono 660 de la misma casa, así que intervalos y operaciones deben confirmarse con el manual entregado junto a la moto",
+      "Tampoco consta en la ficha una garantía cerrada y específica de la RS 125 2026: la única referencia oficial localizada, del Grupo Piaggio, habla de 36 meses estándar más 12 meses de ampliación condicionada al mantenimiento en red oficial",
+      "De Euro NCAP no hay nota que rascar: ese programa califica coches, no motos, y la RS 125 nunca ha pasado por él; su red de seguridad real es el ABS Bosch de doble canal y el control de tracción desconectable estrenado en 2025"
     ],
     curiosidades: [
-      "1992: nace la RS 125 (2T)",
-      "2018: nueva generación 4T Euro 4",
-      "2021: Euro 5, versión GP Replica"
+      "1992: la primera RS 125 Extrema montaba un Rotax de dos tiempos de unos 34 CV, chasis doble viga de aluminio y basculante tipo banana, y plantaba cara a la Cagiva Mito con 173 km/h de punta",
+      "2012 marca el fin de la dos tiempos: la saga pasa a llamarse RS4 125 con motor de cuatro tiempos y en 2017 recupera el nombre RS 125 ya adaptada a la Euro 4",
+      "2021 trajo la Euro 5 con culata rediseñada, bujía de iridio y nueva línea de escape, y la decoración GP Replica que imita a las Aprilia oficiales de la categoría reina"
     ],
     imagen: "/media/aprilia-rs-125-2026-hero.webp",
     galeria: [
@@ -99,24 +100,24 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "precioDesde"
     ],
     pros: [
-      "Motor de 660 cc con 105 CV (77,2 kW) y 67 Nm de par",
-      "Peso declarado de 183 kg en orden de marcha",
-      "Depósito de 15 l",
-      "Altura de asiento de 820 mm",
-      "Se puede llevar con el carnet A",
-      "Precio aproximado desde 14.650 €"
+      "El bicilíndrico con calado a 270° procede de la bancada delantera del V4 de la RSV4 y rinde 105 CV en esta versión Euro 5+",
+      "Suspensión Öhlins completa y multirregulable —horquilla NIX 30 de 43 mm y amortiguador STX 46— que la RS 660 estándar, con Kayaba de 41 mm, no monta",
+      "Electrónica APRC con plataforma inercial de seis ejes, control de salida, ABS en curva multimapa y cinco modos de conducción",
+      "Aerodinámica de deportiva cerrada con winglets integrados y alerón bajo el frontal: Aprilia declara 240 km/h de velocidad punta para la Factory",
+      "Conjunto contenido pese al carenado integral: 183 kg lista para rodar, depósito de 15 litros y asiento situado a 820 mm del suelo",
+      "Instrumentación TFT en color de 5 pulgadas con mandos retroiluminados, un salto claro frente a la pantalla de la RS 660 anterior a 2025"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
-      "Garantía orientativa de modelos parecidos, no específica de esta versión",
-      "Mantenimiento orientativo de un modelo similar de la misma marca",
-      "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Ficha con datos pendientes de ampliación en la web oficial de la marca"
+      "El sobreprecio frente a la RS 660 estándar compra sobre todo parte ciclo Öhlins y decoración Factory: motor y base electrónica son los de su hermana carenada",
+      "Postura de semimanillares tras el carenado: en ciudad y a ritmo lento carga muñecas y cuello, justo lo contrario que la Tuono 660 Factory de manillar alto, con la que comparte motor",
+      "Plaza de pasajero breve y alta, propia de un colín afilado de deportiva: vale para trayectos cortos, no para viajar a dúo con equipaje",
+      "Una Öhlins regulable en compresión, extensión y precarga exige tiempo y mano experta; mal ajustada puede resultar seca en mal asfalto y su cuidado pide taller especializado",
+      "Esta versión de 105 CV se conduce con el carnet A: quien necesite el A2 debe buscar la variante limitada de la gama, que es otra configuración y otro precio"
     ],
     curiosidades: [
-      "2019: nace RS 660",
-      "2025: llega Factory con Öhlins y SC-Project",
-      "2026: continuidad Factory Euro5+"
+      "Mostrada como prototipo en el EICMA de 2018 y en versión de serie en 2019, la RS 660 estrenó la plataforma 660 de Noale antes que las Tuono y Tuareg de la misma base",
+      "La denominación Factory tardó en llegar a la familia 660: los seguidores la esperaban desde el anuncio de la serie y no se materializó hasta la gama 2025",
+      "El escape SC-Project figura entre los accesorios homologados de Aprilia para este modelo, no como equipo de serie de la Factory: de serie, lo que manda es la suspensión Öhlins"
     ],
     imagen: "/media/aprilia-rs-660-factory-2026-hero.webp",
     galeria: [
@@ -134,16 +135,16 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "aprilia-rs-660-factory-2026",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Controles a los 1.000, 10.000, 20.000 km y siguientes (tabla de mantenimiento Aprilia)",
-      revisiones: [
+      "costeAnualAproxEur": null,
+      "fuente": "Manual de uso y mantenimiento Aprilia RS 660 (tabla de mantenimiento programado)",
+      "intervalo": "Tabla Aprilia para la familia 660: primer control a los 1.000 km y revisiones a los 10.000 y 20.000 km, con columnas de control a los 12 y 24 meses en el manual",
+      "revisiones": [
         {
-          nombre: "Revisión periódica",
-          queSeCambia: "Controles periódicos según tabla Aprilia; cadena: controlar y lubricar cada 1.000 km",
-          costeAproxEur: null,
+          "costeAproxEur": null,
+          "nombre": "Revisiones a los 1.000, 10.000 y 20.000 km",
+          "queSeCambia": "Aceite de motor y filtro de aceite en cada revisión programada; control del juego de válvulas y filtro de aire según la tabla del manual; cadena controlada y lubricada cada 1.000 km entre revisiones"
         }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Orientativo (modelo similar RS 660 / Tuono 660, misma marca; manual Aprilia)",
+      ]
     },
   },
   {
@@ -170,24 +171,24 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "precioDesde"
     ],
     pros: [
-      "Motor de 1099 cc con 220 CV (161,8 kW) y 125 Nm de par",
-      "Peso declarado de 202 kg en orden de marcha",
-      "Depósito de 17 l",
-      "Altura de asiento de 850 mm",
-      "Se puede llevar con el carnet A",
-      "Precio aproximado desde 29.150 €"
+      "V4 a 65° de 1.099 cc que entrega 220 CV (161,8 kW) y 125 Nm, con cuerpos de mariposa de 52 mm y escape rediseñado para cumplir la Euro 5+",
+      "Suspensiones semiactivas Öhlins Smart EC 2.0 con ajuste curva a curva, el elemento que separa a esta Factory de la RSV4 base con Sachs mecánicas",
+      "Llantas de aluminio forjado y pinzas Brembo Hypure sobre doble disco delantero de 330 mm, un tren delantero pensado para tandas largas en circuito",
+      "Electrónica a-PRC predictiva con plataforma inercial de seis ejes: control de deslizamiento, anticaballito que aprende del piloto y calibración por sectores con módulo GPS",
+      "Aerodinámica trabajada en túnel de viento, con alerones integrados bajo la cúpula y superficies en el colín que suman carga y alejan calor del piloto",
+      "Decoración única Dark Kraken con sillín bicolor y plataforma Aprilia MIA de serie para enlazar el móvil y descargar los datos de cada vuelta"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
-      "Garantía orientativa de modelos parecidos, no específica de esta versión",
-      "Mantenimiento orientativo de un modelo similar de la misma marca",
-      "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Asiento alto (850 mm): complicada para pilotos de poca estatura"
+      "Los 29.150 € constan como aproximados en esta ficha y Aprilia mueve el PVP entre campañas: el importe definitivo hay que cerrarlo por escrito en el concesionario",
+      "La cobertura larga tiene letra pequeña: la ampliación de Piaggio hasta el cuarto año solo se activa si todas las revisiones se pasan en la red oficial",
+      "Un V4 de 220 CV exige disciplina de taller: cadena a controlar y engrasar cada 1.000 km y revisiones según la tabla Aprilia cada 10.000 km, con el uso en circuito acortando los plazos",
+      "Euro NCAP no ensaya motocicletas, únicamente turismos: de esta superbike no existe nota de estrellas ni informe de choque por esa vía",
+      "Postura radical de circuito y asiento a 850 mm según la ficha: en ciudad y para pilotos de poca estatura castiga muñecas, cuello y maniobras en parado"
     ],
     curiosidades: [
-      "2009: nace RSV4",
-      "2021: nueva generación",
-      "2025-2026: Factory 220 CV"
+      "2009: la RSV4 estrena el V4 a 65° de Aprilia y deja atrás la etapa bicilíndrica de la RSV Mille",
+      "2010 y 2012: Max Biaggi gana el Mundial de Superbike con la RSV4, y Sylvain Guintoli añade otro título en 2014",
+      "2021: la saga crece a 1.099 cc, y en 2025-2026 la Factory alcanza 220 CV con los alerones integrados de la generación actual"
     ],
     imagen: "/media/aprilia-rsv4-factory-2026-hero.webp",
     galeria: [
@@ -241,27 +242,27 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "precioDesde"
     ],
     pros: [
-      "Motor de 125 cc con 15 CV (11 kW) y 11 Nm de par",
-      "15 CV: el máximo legal para el carnet A1",
-      "Peso declarado de 123 kg en orden de marcha",
-      "Depósito de 7 l",
-      "Altura de asiento de 880 mm",
-      "Se puede llevar con el carnet A1",
-      "Precio aproximado desde 4.500 €"
+      "Llantas de radios de 21 pulgadas delante y 18 detrás, con neumáticos de tacos pensados para pistas y caminos",
+      "Horquilla invertida de 41 mm con 240 mm de recorrido, un planteamiento de enduro de verdad y no de trail urbano disfrazado",
+      "Discos ondulados de 260 mm delante y 220 mm detrás, con ABS Bosch dotado de función antivuelco en frenadas fuertes",
+      "Chasis de acero de doble viga, compartido con la SX pero aquí al servicio de rodar fuera del asfalto",
+      "Monocilíndrico de 124,2 cc, cuatro válvulas y refrigeración líquida, con respuesta llena en bajos y medios según Motofichas",
+      "En 2025 se puso al día con homologación Euro 5+, iluminación LED y cuadro digital a color con ordenador de a bordo",
+      "Estética minimalista de moto de campo, con placa protectora y variante gráfica Rally Tribute junto al Plata Speedway"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
-      "Garantía orientativa de modelos parecidos, no específica de esta versión",
-      "Mantenimiento orientativo de un modelo similar de la misma marca",
-      "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Depósito de solo 7 l: autonomía limitada en ruta",
-      "Asiento alto (880 mm): complicada para pilotos de poca estatura",
-      "15 CV justos en vías rápidas, sobre todo con pasajero"
+      "Los tacos que tanto ayudan en tierra penalizan sobre asfalto, sobre todo en mojado y en frenadas largas",
+      "Con solo 7 litros de depósito, una salida por pistas obliga a planear la gasolinera mucho antes que en una trail con depósito grande",
+      "La postura de enduro, con rueda delantera de 21 pulgadas, deja el asiento muy arriba: quien mida poco lo notará en cada parada y maniobra en parado",
+      "El ABS que cita la ficha técnica oficial de Aprilia es de un solo canal, un esquema más sencillo que el de doble canal de otras 125 actuales",
+      "No es una enduro de competición: Aprilia la plantea para aprender off-road, por debajo de una máquina radical de campo",
+      "Los 4.500 euros figuran en esta ficha como precio aproximado, no como PVP cerrado, así que toca confirmarlo en concesionario",
+      "A ritmos de vía rápida, con pasajero y equipaje ligero de trail, el techo del carnet A1 se hace notar en adelantamientos"
     ],
     curiosidades: [
-      "Historia RX 125: enduro ligero A1",
-      "2025: versión vigente",
-      "2026: continuidad"
+      "La gráfica Rally Tribute es un guiño directo al pasado off-road de Aprilia, la misma herencia que la marca reivindica para las RX y SX",
+      "Comparte base técnica con la SX 125 supermotard, pero se separan en lo esencial: la RX calza 21/18 con tacos y la SX, 17 pulgadas de asfalto",
+      "Su linaje en los catálogos españoles es largo: Motofichas lista generaciones de 2010-2016, 2018-2020 y 2021-2024 antes de la puesta al día Euro 5+ de 2025"
     ],
     imagen: "/media/aprilia-rx-125-2026-hero.webp",
     galeria: [
@@ -315,24 +316,24 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "precioDesde"
     ],
     pros: [
-      "Motor de 174 cc con 18 CV (13,2 kW) y 16 Nm de par",
-      "Peso declarado de 144 kg en orden de marcha",
-      "Depósito de 9 l",
-      "Asiento a 800 mm, accesible para la mayoría de tallas",
-      "Se puede llevar con el carnet A2",
-      "Precio aproximado desde 4.700 €"
+      "Monocilíndrico i-get de 174 cc con refrigeración líquida, cuatro válvulas y Start & Stop, que apaga el motor en los semáforos y rearranca al abrir gas",
+      "Horquilla Showa de 33 mm con 122 mm de recorrido y pareja de amortiguadores traseros de 102 mm con precarga regulable en cinco posiciones",
+      "Altura libre al suelo de 175 mm, propia de una trail pequeña y rara en un scooter urbano, que ayuda ante bordillos, badenes y firmes rotos",
+      "Hueco de 25 litros bajo el asiento para guardar un casco integral y toma USB en el contraescudo para cargar el móvil en marcha",
+      "Discos lobulados de 260 mm delante y 220 mm detrás con ABS monocanal, un escalón frente a la frenada combinada CBS del SR GT 125",
+      "Depósito de 9 litros alojado en el túnel central y consumo combinado de 2,6 l/100 km, con una autonomía anunciada por Aprilia de unos 350 km"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
-      "Garantía orientativa de modelos parecidos, no específica de esta versión",
-      "Mantenimiento orientativo de un modelo similar de la misma marca",
-      "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Depósito de solo 9 l: autonomía limitada en ruta"
+      "La cifra de 4.700 € es aproximada y no un PVP cerrado de 2026: entre las versiones estándar, Sport y Réplica cambian gráficos, llantas y precio final, así que el importe definitivo hay que pedirlo por versión",
+      "La conectividad Aprilia MIA es un extra opcional: de serie queda la pantalla LCD, sin gestión de llamadas ni de música desde las piñas",
+      "El hueco de 25 litros admite un casco integral, pero no todos: los de calota grande o con tomas de aire aparatosas pueden no cerrar, conviene probarlo con el casco propio",
+      "El depósito en el túnel central elimina el suelo plano: no hay plataforma libre para apoyar una bolsa entre las piernas como en un scooter urbano clásico",
+      "No le vale la convalidación del carnet B con tres años que sí aprovecha el SR GT 125: al cubicar 174 cc, el A1 se queda corto y hace falta el A2"
     ],
     curiosidades: [
-      "2022: nace SR GT",
-      "2024-2025: consolidación gama",
-      "2026: continuidad"
+      "EICMA 2021: Aprilia lo presenta en Milán como su primer scooter de planteamiento urban adventure",
+      "Primavera de 2022: arranca la venta en Europa, con producción en la planta del Grupo Piaggio de Vinh Phuc, junto a Hanói",
+      "Nace en dos cilindradas sobre el mismo chasis de doble cuna de acero: el 200 se distingue del 125 por el ABS monocanal y los discos lobulados en ambos ejes"
     ],
     imagen: "/media/aprilia-sr-gt-200-2026-hero.webp",
     galeria: [
@@ -386,27 +387,27 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "precioDesde"
     ],
     pros: [
-      "Motor de 125 cc con 15 CV (11 kW) y 11 Nm de par",
-      "15 CV: el máximo legal para el carnet A1",
-      "Peso declarado de 123 kg en orden de marcha",
-      "Depósito de 7 l",
-      "Altura de asiento de 870 mm",
-      "Se puede llevar con el carnet A1",
-      "Precio aproximado desde 4.600 €"
+      "Llantas de radios de 17 pulgadas en ambos ejes con neumáticos de asfalto 100/80 delante y 130/70 detrás: el calzado clásico supermotard, opuesto al conjunto 21/18 de tacos de su hermana enduro RX",
+      "Disco delantero de 300 mm, mayor que el de 260 mm de la RX, pensado para frenadas tardías y repetidas en ciudad y en carreteras de curvas",
+      "ABS Bosch delantero con función que impide que la rueda trasera se levante en frenadas fuertes (anti roll-over), un sistema que Aprilia estrenó en el segmento de las 125",
+      "Horquilla invertida de 41 mm con 240 mm de recorrido y monoamortiguador progresivo con 210 mm: traga bordillos, badenes y asfalto roto manteniendo la posición alta de conducción motard",
+      "Desde la actualización de 2025 monta cuadro de instrumentos a color con ordenador de a bordo e iluminación completa LED, un salto claro frente a la instrumentación de las SX anteriores",
+      "Monocilíndrico de 124,2 cc con culata de cuatro válvulas y refrigeración líquida, revisado para Euro 5 en 2021 con nueva gestión electrónica Marelli MIUG4 y una respuesta más llena a bajo régimen",
+      "Con el asiento a 870 mm queda 10 mm más baja que la RX, así que intimida un poco menos al parar en un semáforo sin renunciar al manillar ancho y la postura erguida"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
-      "Garantía orientativa de modelos parecidos, no específica de esta versión",
-      "Mantenimiento orientativo de un modelo similar de la misma marca",
-      "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Depósito de solo 7 l: autonomía limitada en ruta",
-      "Asiento alto (870 mm): complicada para pilotos de poca estatura",
-      "15 CV justos en vías rápidas, sobre todo con pasajero"
+      "Esas gomas lisas de 17 pulgadas no sirven fuera del asfalto: en tierra o en barro la SX patina justo donde la RX, con sus tacos 21/18, sigue avanzando sin despeinarse",
+      "Con 7 litros de depósito, encadenar una mañana de puertos obliga a planear la parada de gasolina, porque la reserva aparece antes que en una naked 125 de tanque grande",
+      "El asiento sigue a 870 mm y es estrecho y plano, de pura motard: en viajes largos castiga y, si eres de pierna corta, maniobrar en parado exige llegar de puntillas",
+      "Sin protección aerodinámica alguna, la autovía cansa rápido: llevas el pecho expuesto al viento y el monocilíndrico ya gira alto de vueltas para sostener cruceros legales",
+      "Ni la horquilla de 41 mm ni el amortiguador trasero admiten regulación, así que adaptar las suspensiones a tu peso o a un uso más asfáltico pasa por el taller",
+      "Cuesta 100 euros más que la RX compartiendo motor, chasis y suspensiones: lo que pagas de más es el formato supermotard de asfalto, no más potencia ni más equipamiento",
+      "La rueda trasera queda fuera del ABS a propósito, para poder derrapar al estilo supermoto; si eres novel con el A1 y te pasas con el freno trasero, el bloqueo y la caída llegan sin aviso"
     ],
     curiosidades: [
-      "Historia SX 125: saga supermotard ligera A1",
-      "2025: versión vigente",
-      "2026: continuidad"
+      "La familia SX se vende desde 2006 como sucesora de la Aprilia MX; las primeras SX 125 montaban un monocilíndrico de dos tiempos y la saga actual es ya exclusivamente de cuatro tiempos",
+      "En 2021 la SX estrenó junto a la RX el ABS con anti roll-over en su segmento y una revisión profunda del motor Euro 5: culata, árboles de levas, filtro de aire y línea de escape nuevos",
+      "La puesta al día de 2025 la homologó como Euro 5+, con pantalla a color y LED completos, y en 2026 la gama sumó un nuevo color azul sin tocar la base supermotard de ruedas de 17 pulgadas"
     ],
     imagen: "/media/aprilia-sx-125-2026-hero.webp",
     galeria: [
@@ -424,16 +425,16 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "aprilia-sx-125-2026",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Controles a los 1.000, 10.000, 20.000 km y siguientes (tabla de mantenimiento Aprilia)",
-      revisiones: [
+      "costeAnualAproxEur": null,
+      "fuente": "Manual de taller Aprilia RX 125 - SX 125 Euro 5 (tabla de mantenimiento programado); la marca no publica costes, por eso los costes quedan a null",
+      "intervalo": "Primera revisión a los 1.000 km y después cada 6.000 km (hitos de 6, 12, 18, 24 y 30 mil km según la tabla de mantenimiento programado Euro 5 de las RX/SX 125)",
+      "revisiones": [
         {
-          nombre: "Revisión periódica",
-          queSeCambia: "Controles periódicos según tabla Aprilia; cadena: controlar y lubricar cada 1.000 km",
-          costeAproxEur: null,
+          "costeAproxEur": null,
+          "nombre": "Mantenimiento programado SX 125 Euro 5",
+          "queSeCambia": "En cada hito se sustituyen aceite de motor, filtro de aceite y filtro de aire; la bujía se controla y se sustituye en hitos alternos; líquido de frenos y refrigerante se controlan en cada visita y se sustituyen periódicamente según tabla; la cadena de transmisión final se controla y lubrica con frecuencia, con control cada 1.000 km según el manual de taller"
         }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Orientativo (modelo similar RS 660 / Tuono 660, misma marca; manual Aprilia)",
+      ]
     },
   },
   {
@@ -460,24 +461,24 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "precioDesde"
     ],
     pros: [
-      "Motor de 659 cc con 80 CV (58,8 kW) y 70 Nm de par",
-      "Peso declarado de 187 kg en orden de marcha",
-      "Depósito de 18 l",
-      "Altura de asiento de 860 mm",
-      "Se puede llevar con el carnet A",
-      "Precio aproximado desde 14.050 €"
+      "Bicilíndrico de 659 cc adaptado a Euro 5+ con cuerpos de inyección de 52 mm: 80 CV a 9.250 rpm y 70 Nm a 6.500 rpm con medios más llenos que en la Tuareg original",
+      "Kayaba de 43 mm con 240 mm de recorrido delante y detrás, pero con hidráulica revisada y muelles lineales en esta Rally para aguantar ritmo fuerte en pistas rotas",
+      "Escape SC Project con silenciador de titanio de 60 mm y llantas Ergal doradas de 21 pulgadas delante y 18 detrás con cámara, pensadas para montar tacos o mousse",
+      "Electrónica APRC con modos Urban, Explore, Off Road e Individual: en Off Road el ABS trasero se desconecta y el delantero se puede anular por completo",
+      "Hija directa de la moto de Aprilia Racing que ganó la Africa Eco Race: guardabarros delantero alto, cubrecárter de aluminio más grueso y guía de cadena tipo enduro de serie",
+      "Depósito de 18 litros colocado bajo para centralizar masas y zona delantera del asiento estrecha, que ayuda a pilotar de pie pese a ser una bicilíndrica de aventura"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
-      "Garantía orientativa de modelos parecidos, no específica de esta versión",
-      "Mantenimiento orientativo de un modelo similar de la misma marca",
-      "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Asiento alto (860 mm): complicada para pilotos de poca estatura"
+      "Asiento de la Rally a 913 mm según las pruebas de referencia, muy por encima de la Tuareg estándar: en parado y en maniobras lentas exige pierna y experiencia",
+      "Los Pirelli Scorpion Rally STR de serie cumplen en asfalto y pista seca, pero en barro o tierra suelta se quedan cortos para el uso exigente que promete el apellido Rally",
+      "Las llantas con cámara ganan en campo, pero un pinchazo es más laborioso de reparar en ruta que con el sistema tubeless de la Tuareg básica",
+      "En la tarifa de 14.050 € el quickshifter sigue siendo un accesorio opcional y no viene montado de serie, pese al enfoque deportivo de esta versión",
+      "El subchasis va integrado en el chasis y no se sustituye por separado si se dobla en una caída fuerte fuera del asfalto"
     ],
     curiosidades: [
-      "2022: nace Tuareg 660",
-      "2024: llega Rally más off-road",
-      "2026: continuidad Rally"
+      "El nombre Tuareg viene de las Aprilia trail de finales de los 80 y de los 90; Noale lo recuperó al presentar la 660 en el Salón de Milán de 2021",
+      "Proyecto Back to Africa: Jacopo Cerutti y Aprilia Racing ganaron la Africa Eco Race en 2024 y repitieron en 2025 tras casi 6.000 km hasta el Lago Rosa de Dakar",
+      "La Rally de serie se desarrolló con la experiencia de GCorse y del propio Cerutti: mapa de motor más directo y suspensiones taradas para correr fuera del asfalto"
     ],
     imagen: "/media/aprilia-tuareg-660-rally-2026-hero.webp",
     galeria: [
@@ -531,19 +532,19 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "precioDesde"
     ],
     pros: [
-      "Motor de 660 cc con 105 CV (77,2 kW) y 67 Nm de par",
-      "Peso declarado de 183 kg en orden de marcha",
-      "Depósito de 15 l",
-      "Altura de asiento de 820 mm",
-      "Se puede llevar con el carnet A",
-      "Precio aproximado desde 13.650 €"
+      "Bicilíndrico en paralelo con cigüeñal calado a 270º y cuerpos de mariposa que crecen de 48 a 52 mm: así la generación Euro 5+ de la Factory llega a los 105 CV",
+      "Suspensiones Öhlins de serie —horquilla NIX 30 de 43 mm y amortiguador STX 46, ambos totalmente regulables— en lugar del conjunto Kayaba de la Tuono 660 anterior",
+      "Electrónica APRC con plataforma inercial de seis ejes, control de salida incorporado en esta renovación, ABS en curva y cambio rápido bidireccional, todo gestionado desde la TFT de 5 pulgadas",
+      "Manillar ancho y postura erguida bajo un semicarenado mínimo con triple faro LED: es la lectura naked de la plataforma 660, sin los semimanillares de la RS",
+      "Chasis y basculante de aluminio pintados en negro en esta generación, con el motor como elemento portante y el doble carenado lateral actuando como apéndice aerodinámico",
+      "Su precio aproximado de 13.650 € la enfrenta a naked medias premium como la Triumph Street Triple RS o la Yamaha MT-09 SP, no a las naked 660 básicas"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
-      "Garantía orientativa de modelos parecidos, no específica de esta versión",
-      "Mantenimiento orientativo de un modelo similar de la misma marca",
-      "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Ficha con datos pendientes de ampliación en la web oficial de la marca"
+      "Al desaparecer la Tuono 660 base en 2025, ya no hay escalón de acceso: quien quiera la naked 660 de Noale paga directamente la factura de la Factory",
+      "El semicarenado corto protege poco en autovía: a ritmo sostenido el viento castiga pecho y casco mucho más que en su hermana carenada, la RS 660",
+      "Las Öhlins se regulan a mano en precarga, compresión y extensión; no dispone de la gestión semiactiva Smart EC 2.0 de la Tuono V4 Factory",
+      "Con el asiento a 820 mm y un conjunto afinado para atacar curvas, no es la opción más cómoda para pilotos de poca estatura ni para un uso urbano tranquilo a diario",
+      "La renovación de 2025 eliminó la quilla y deja el colector de escape a la vista: gana limpieza estética, pero pierde protección baja frente a suciedad y gravilla"
     ],
     curiosidades: [
       "2020: nace Tuono 660",
@@ -602,24 +603,24 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "precioDesde"
     ],
     pros: [
-      "Motor de 298 cc con 30 CV (22,1 kW) y 25 Nm de par",
-      "Peso declarado de 170 kg en orden de marcha",
-      "Depósito de 13 l",
-      "Asiento a 700 mm, accesible para la mayoría de tallas",
-      "Se puede llevar con el carnet A2",
-      "Precio aproximado desde 6.290 €"
+      "Bicilíndrico en V de 298 cc con refrigeración líquida: en una cruiser de acceso es una rareza frente a los monocilíndricos habituales, y es lo que marca el carácter de esta Rock",
+      "30 CV (22,1 kW) y 25 Nm con caja de seis marchas: cifras de la propia ficha que la sitúan entre el paseo tranquilo y la escapada por carretera secundaria",
+      "Transmisión final por correa dentada en la familia BD300 de la que deriva, una solución más limpia y silenciosa que la cadena para rodar sin pensar en engrases",
+      "Asiento a solo 700 mm según la ficha: en parado se apoyan los pies con seguridad, algo decisivo en una bobber pensada para quien se estrena con las custom",
+      "170 kg declarados en orden de marcha, un peso contenido para maniobrar una cruiser con motor en V sin pelearse con ella en cada aparcamiento",
+      "Con sus 30 CV queda por debajo del techo de 35 kW del A2, así que no necesita kit de limitación para quien accede con ese carnet"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
-      "Garantía sin datos verificados del fabricante en las fuentes consultadas",
-      "Mantenimiento sin intervalo verificado del fabricante",
-      "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Ficha con datos pendientes de ampliación en la web oficial de la marca"
+      "Los 6.290 € están marcados en la propia ficha como aproximados (campo aprox sobre el precio), por lo que la tarifa española definitiva de la Rock 300 puede no coincidir con esa cifra",
+      "La maraña de nombres de la familia — BD300, Chinchilla, Fox o V300 según el mercado — hace difícil saber qué equipamiento de las versiones extranjeras llega tal cual a la española",
+      "Sin plan de revisiones publicado que se haya podido localizar para este modelo: ni intervalos ni costes de taller se pueden anticipar con datos del fabricante",
+      "Tampoco se ha podido confirmar una duración de garantía específica de Benda para la Rock 300 en España, más allá de la cobertura legal de cualquier moto nueva",
+      "No hay estrellas que consultar para valorar su seguridad: EuroNCAP solo ensaya turismos, así que una cruiser como esta queda fuera de ese sistema"
     ],
     curiosidades: [
-      "2024: nace Rock 300",
-      "2025-2026: continuidad",
-      "Las motos no tienen prueba EuroNCAP de coche: se indica honestamente «sin datos EuroNCAP»"
+      "Su base es la BD300 anunciada en China en 2020 y llegada a Europa en 2021 como rival directa de la Honda Rebel 300, según la prensa especializada de la época",
+      "Rock deriva de la Chinchilla 300 y comparte con ella la plataforma del motor en V, cambiando dimensiones y puesta en escena bobber, según China Motor World",
+      "La versión china del BD300 recibió en 2022 control de tracción y embrague antirrebote, mejoras que no deben darse por supuestas en la Rock 300 española sin confirmación del importador"
     ],
     imagen: "/media/benda-rock-300-2026-hero.webp",
     galeria: [
@@ -804,24 +805,24 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "precioDesde"
     ],
     pros: [
-      "Motor de 500 cc con 48 CV (35,3 kW) y 46 Nm de par",
-      "Peso declarado de 186 kg en orden de marcha",
-      "Depósito de 14 l",
-      "Asiento a 800 mm, accesible para la mayoría de tallas",
-      "Se puede llevar con el carnet A2",
-      "Precio aproximado desde 6.490 €"
+      "Carenado integral con semimanillares: es la versión deportiva cerrada de la plataforma Tornado, frente a la Naked Twin sin carenar",
+      "Frenada Brembo con doble disco delantero de 320 mm y pinzas radiales monobloque, equipo poco habitual en una deportiva A2 de este precio",
+      "Horquilla invertida Marzocchi de 41 mm regulable en precarga, compresión y extensión, adaptada en esta carenada a un uso más deportivo",
+      "Panel TFT a color de 5 pulgadas con Bluetooth, función de navegación y control TPMS de la presión de los neumáticos de serie",
+      "Firma luminosa delantera que dibuja los colmillos del león de Benelli y luz trasera integrada en los intermitentes, seña diseñada en Pesaro",
+      "Bicilíndrico Euro 5+ con embrague antirrebote y cambio de seis marchas, probado en Leoncino 500 y TRK 502 pero aquí protegido por carenado para carretera"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
-      "Garantía orientativa de modelos parecidos, no específica de esta versión",
-      "Mantenimiento orientativo de un modelo similar de la misma marca",
-      "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Ficha con datos pendientes de ampliación en la web oficial de la marca"
+      "El bloque es el bicilíndrico veterano de TRK 502 y Leoncino 500 adaptado a Euro 5+, no un motor nuevo creado solo para esta deportiva",
+      "Frente a Honda CBR500R, Kawasaki Ninja 500 o CFMoto 450 SR, Benelli parte en España con una red comercial y un valor de reventa más limitados",
+      "La postura con semimanillares y el carenado integral ganan en protección, pero restan la polivalencia trail y de carga que sí ofrece la TRK 502 X",
+      "Los 6.490 € de esta ficha figuran como importe aproximado y no como PVP cerrado de Benelli España, así que toca confirmarlo en concesionario",
+      "El plan de revisiones aportado sigue tomado de la TRK 502 como referencia orientativa, no del manual específico de la Tornado carenada"
     ],
     curiosidades: [
-      "2024: Tornado 500 recupera saga Tornado",
-      "2025: continuidad",
-      "Las motos no tienen prueba EuroNCAP de coche: se indica honestamente «sin datos EuroNCAP»"
+      "El nombre Tornado viene de la Tornado Tre 900 tricilíndrica presentada en 2000 y lanzada en 2002 para competir en Superbikes, muy distinta de esta bicilíndrica A2",
+      "Se desveló en el EICMA 2023 como modelo 2024 junto a la Tornado 400 de 399 cc, con la que comparte imagen pero no par: 46 Nm frente a 38 Nm",
+      "Fue diseñada íntegramente en el Centro de Estilo Benelli de Pesaro sobre la base de la Tornado Naked Twin 500, con la que comparte bastidor multitubular de acero"
     ],
     imagen: "/media/benelli-tornado-500-2025-hero.webp",
     galeria: [
@@ -875,24 +876,24 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "precioDesde"
     ],
     pros: [
-      "Motor de 500 cc con 48 CV (35,3 kW) y 46 Nm de par",
-      "Peso declarado de 213 kg en orden de marcha",
-      "Depósito de 20 l",
-      "Altura de asiento de 835 mm",
-      "Se puede llevar con el carnet A2",
-      "Precio aproximado desde 5.990 €"
+      "Es la TRK de carretera: llantas de aleación de 17 pulgadas en los dos ejes y neumáticos 120/70 delante y 160/60 detrás, pensados para asfalto y no para pistas",
+      "Su depósito alcanza los 20 litros, un tamaño de moto grande que permite espaciar mucho los repostajes en viajes por carretera",
+      "El bicilíndrico en línea de 499,6 cc se queda justo en el techo del A2, con una entrega suave que la hizo popular entre quienes subían de una 125",
+      "Horquilla invertida de 50 mm y doble disco delantero de 320 mm con ABS: equipo de moto superior al que entonces ofrecían la mayoría de rivales A2 económicas",
+      "Tamaño y estética de maxitrail sin serlo: frontal inspirado en las grandes GS, pantalla, cubremanos y posibilidad de montar maletas para viajar con acompañante",
+      "Trayectoria comercial probada: se presentó en 2015 como prototipo, llegó a producción para 2017 y en 2020 fue la moto más vendida de Italia"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
-      "Garantía orientativa de modelos parecidos, no específica de esta versión",
-      "Mantenimiento orientativo de un modelo similar de la misma marca",
-      "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Asiento alto (835 mm): complicada para pilotos de poca estatura"
+      "En parado se nota pesada para una A2: los 213 kg de la ficha ya son muchos y moverla en garajes o cargada con maletas exige cuidado, sobre todo si vienes de una moto ligera",
+      "Fuera del asfalto se queda corta por diseño: llanta delantera pequeña de aleación, neumático de carretera, escape bajo y escasa protección de bajos; para tierra Benelli creó después la 502 X de radios y 19 pulgadas",
+      "El asiento figura a 835 mm en esta ficha y, sumado al peso, puede intimidar en semáforos y paradas a pilotos de estatura baja que busquen apoyo firme con ambos pies",
+      "Su importe de 5.990 euros viene marcado como aproximado en los propios datos de la ficha, por lo que conviene pedir precio cerrado y equipamiento incluido antes de reservar",
+      "Las revisiones cada 6.000 km quedan cortas frente al ritmo de 12.000 km de su rival histórica Honda CB500X, así que a igual kilometraje anual pasarás más veces por taller"
     ],
     curiosidades: [
-      "2017: nace TRK 502",
-      "2020-2024: superventas trail A2",
-      "2026: continuidad Euro5+"
+      "Se mostró por primera vez como prototipo en 2015 y la versión definitiva se presentó para la temporada 2017",
+      "2020: se convierte en la moto más vendida de Italia, un hito para una trail A2 de Pesaro",
+      "La llegada de la 502 X en 2018 dejó a esta versión estándar como la opción puramente asfáltica de la familia, con llantas de palos frente a las de radios de su hermana"
     ],
     imagen: "/media/benelli-trk-502-2026-hero.webp",
     galeria: [
@@ -946,24 +947,24 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "precioDesde"
     ],
     pros: [
-      "Motor de 500 cc con 48 CV (35,3 kW) y 46 Nm de par",
-      "Peso declarado de 213 kg en orden de marcha",
-      "Depósito de 20 l",
-      "Altura de asiento de 825 mm",
-      "Se puede llevar con el carnet A2",
-      "Precio aproximado desde 6.990 €"
+      "Llanta delantera de radios de 19 pulgadas con neumático mixto 110/80, la seña que separa a esta X de la TRK 502 de asfalto y sus llantas de 17",
+      "Escape en posición alta y lateral, alejado de piedras y vadeos y compatible con caballete central, pensado para salir del asfalto sin castigarlo",
+      "Depósito de 20 litros que, unido a un consumo contenido de bicilíndrica media, permite plantear jornadas de ruta por encima de los 400 km",
+      "Horquilla invertida de 50 mm y doble disco delantero de 320 mm: parte ciclo de moto grande en una trail pensada desde el inicio para el A2",
+      "Bicilíndrico en paralelo de 499 cc con 46 Nm a 6.000 rpm y entrega lineal, justo en el techo legal del A2 sin necesidad de limitarla",
+      "Planta de maxitrail con pantalla, cubremanos, toma USB y parrilla trasera de serie: viaja cargada a dúo sin parecer una 500"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
-      "Garantía orientativa de modelos parecidos, no específica de esta versión",
-      "Mantenimiento orientativo de un modelo similar de la misma marca",
-      "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Ficha con datos pendientes de ampliación en la web oficial de la marca"
+      "Es pesada para hacer off-road de verdad: en parado, maniobrando entre piedras o levantándola tras una caída se nota que juega en otra liga que una Honda NX500",
+      "El asiento queda alto en esta versión X por la rueda de 19 y el mayor recorrido trasero, así que los pilotos de talla corta llegan al suelo con dificultad",
+      "Instrumentación mixta con tacómetro analógico y LCD pequeña, muy superada por las pantallas TFT en color de rivales recientes como la Voge 525DSX",
+      "El ABS no se puede desconectar para pista en las unidades recogidas por la prensa comparativa, un límite claro si buscas tierra más allá de la pista fácil",
+      "Los 6.990 euros de esta ficha constan como aproximados y no como PVP cerrado: hay que cerrarlos en concesionario, porque la TRK ha vivido de promociones con maletas y top case incluidos"
     ],
     curiosidades: [
-      "2018: nace TRK 502 X",
-      "2020-2024: versión adventure",
-      "2026: continuidad"
+      "2018: Benelli crea la X sobre la TRK 502 de 2017 añadiendo llantas de radios, delantera de 19 pulgadas, escape elevado y más recorrido trasero para un uso campero real",
+      "La familia TRK 502 llegó a ser la moto más vendida de Italia durante varias temporadas, un fenómeno raro para una trail A2 diseñada en Pesaro y fabricada en China por Qianjiang",
+      "Su receta fue abrir un hueco que no existía: aspecto y tamaño de maxitrail tipo GS, pero con motor de 500 cc, precio de moto media y acceso directo con el carnet A2"
     ],
     imagen: "/media/benelli-trk-502x-2026-hero.webp",
     galeria: [
@@ -1017,24 +1018,24 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "precioDesde"
     ],
     pros: [
-      "Motor de 698 cc con 70 CV (51,5 kW) y 70 Nm de par",
-      "Peso declarado de 235 kg en orden de marcha",
-      "Depósito de 20 l",
-      "Asiento a 800 mm, accesible para la mayoría de tallas",
-      "Se puede llevar con el carnet A",
-      "Precio aproximado desde 7.490 €"
+      "Bicilíndrico en línea de 698 cc estrenado en esta TRK, con 70 CV a 8.000 rpm y 70 Nm a 6.000 rpm: el empuje que le faltaba a la 502 para viajar cargado y en pareja",
+      "Depósito de 20 litros en una trail media diseñada en Pesaro para ruta larga, no solo para desplazamientos diarios",
+      "Horquilla invertida de 50 mm con 140 mm de recorrido y doble disco delantero de 320 mm con pinzas radiales de cuatro pistones",
+      "Pantalla TFT a color de 5 pulgadas con conectividad Bluetooth para avisos de llamada, equipamiento poco habitual en su franja al llegar en 2023",
+      "Chasis tubular de acero tipo trellis heredado de la TRK 502 y llantas de aleación de 17 pulgadas con neumáticos Pirelli Angel GT, en clave asfáltica frente a la 702 X de radios",
+      "Los 7.490 € de esta ficha la sitúan por debajo de trails medias japonesas de planteamiento parecido, como la Suzuki V-Strom 650"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
-      "Garantía orientativa de modelos parecidos, no específica de esta versión",
-      "Mantenimiento orientativo de un modelo similar de la misma marca",
-      "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "235 kg: pesada en parado y en maniobras lentas"
+      "Los 235 kg declarados en la ficha se notan al maniobrar en parado y en giros cerrados a baja velocidad, herencia del volumen tipo maxitrail de la familia TRK",
+      "Electrónica deliberadamente sencilla: el acelerador funciona por cable, sin mapas de motor, y la ayuda se limita al ABS de doble canal",
+      "Con llantas de 17 pulgadas en ambos ejes, fuera del asfalto queda por detrás de su hermana TRK 702 X, que monta radios y llanta delantera de 19 pulgadas",
+      "Revisiones cada 6.000 km: quien acumule muchos kilómetros al año pasará por el taller con más frecuencia que con otras trails medias de intervalos más espaciados",
+      "No hay estrellas Euro NCAP que consultar de esta moto: ese programa evalúa coches, así que la TRK 702 no tiene ninguna prueba de ese tipo publicada"
     ],
     curiosidades: [
-      "2023: nace TRK 702",
-      "2024-2025: consolidación",
-      "2026: continuidad"
+      "2021: Benelli muestra en el EICMA la TRK 800, que nunca llega a las tiendas, y el escalón por encima de la exitosa TRK 502 queda vacío",
+      "2023: entra en producción la TRK 702, diseñada en el Benelli Style Center de Pesaro y situada entre la TRK 502 y aquella 800, junto a la versión X de enfoque mixto",
+      "La receta de la 702 mezcla piezas conocidas y nuevas: toma chasis y parte ciclo de la 502, estrena el bicilíndrico de 698 cc y viste una carrocería cercana a la de la futura TRK 800"
     ],
     imagen: "/media/benelli-trk-702-2026-hero.webp",
     galeria: [
@@ -1052,16 +1053,16 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "benelli-trk-702-2026",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Intervalo de servicio cada 6.000 km",
-      revisiones: [
+      "costeAnualAproxEur": null,
+      "fuente": "Motoplanete, ficha Benelli TRK 702 2024: el motor de este modelo necesita una revisión cada 6.000 km",
+      "intervalo": "Revisión cada 6.000 km en la propia TRK 702",
+      "revisiones": [
         {
-          nombre: "Revisión cada 6.000 km",
-          queSeCambia: "Servicio periódico (orientativo, modelo similar TRK 502)",
-          costeAproxEur: null,
+          "costeAproxEur": null,
+          "nombre": "Revisión periódica de los 6.000 km",
+          "queSeCambia": "Revisión periódica del bicilíndrico de 698 cc de la TRK 702; no se ha localizado un coste cerrado en una fuente oficial, por lo que no se indica importe"
         }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Orientativo (modelo similar TRK 502, misma marca; reseña de propietario)",
+      ]
     },
   },
   {
@@ -1088,24 +1089,24 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "precioDesde"
     ],
     pros: [
-      "Motor de 350 cc con 34 CV (25 kW) y 35 Nm de par",
-      "Peso declarado de 199 kg en orden de marcha",
-      "Depósito de 13 l",
-      "Asiento a 775 mm, accesible para la mayoría de tallas",
-      "Se puede llevar con el carnet A2",
-      "Precio aproximado desde 7.690 €"
+      "Monocilíndrico de 350 cc que entrega 34 CV a 7.500 rpm y 35 Nm a 5.750 rpm, con acelerador electrónico desde la puesta al día Euro 5 de 2021",
+      "FlexCase bajo el asiento: el hueco crece de 31 a 45 litros al desplegar el fuelle, pero solo con el scooter aparcado, y así cabe un casco integral",
+      "En la generación Euro 5+ suma ABS Pro que frena teniendo en cuenta la inclinación, además de DTC, MSR y control dinámico de frenada DBC de serie",
+      "TFT en color de 6,5 pulgadas ya de serie, con multicontrolador en el manillar izquierdo y navegación por flechas mediante la app BMW Motorrad Connected",
+      "Asiento a 775 mm, rueda delantera de 15 pulgadas y doble disco de 265 mm: su carrocería angulosa de aire adventure y su parabrisas corto lo separan del C 400 GT viajero",
+      "Encaja en el permiso A2 sin limitación añadida porque sus 25 kW quedan dentro del tope, y esta ficha lo sitúa desde 7.690 euros, ya en territorio premium del scooter medio"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
-      "Garantía orientativa de modelos parecidos, no específica de esta versión",
-      "Mantenimiento orientativo de un modelo similar de la misma marca",
-      "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Ficha con datos pendientes de ampliación en la web oficial de la marca"
+      "El hueco extra del FlexCase no sirve en marcha: hay que parar y desplegarlo, así que circulando el espacio bajo el asiento vuelve a ser el de 31 litros",
+      "Ese parabrisas corto que le da imagen adventure protege poco en vías rápidas; para trayectos largos a ritmo de autovía el GT, con pantalla más alta, abriga más",
+      "Moverlo en parado exige esfuerzo: incluso con los 199 kg que declara esta ficha, no se comporta como un scooter ligero de barrio al maniobrar en un garaje",
+      "Factura premium frente a scooters A2 de potencia parecida: los 7.690 euros de partida suben rápido si se añaden Keyless Ride o el paquete Confort con puños y asiento calefactables",
+      "El monocilíndrico ensamblado por Loncin en China, según las pruebas publicadas en España, y su transmisión por correa CVT obligan a cumplir el plan BMW de aceite, filtro antipolvo del variador y correa: no es mantenimiento de scooter básico"
     ],
     curiosidades: [
-      "2018: nace C 400 X",
-      "2021: actualización",
-      "2026: continuidad"
+      "Otoño de 2017: BMW Motorrad lo presenta como su primer scooter premium de tamaño medio; en España se puso a la venta el 10 de diciembre de 2018 desde 6.850 euros",
+      "2021: el motor pasa a Euro 5 manteniendo 34 CV, estrena acelerador electrónico E-gas, ASC con calibración automática del radio y nuevas pinzas en el freno delantero",
+      "2025: con la homologación Euro 5+ llegan ABS Pro, DTC, MSR y DBC de serie, TFT de 6,5 pulgadas para todos y tres litros más de hueco bajo el asiento en el C 400 X, además de la variante Rugged en Kalamata mate"
     ],
     imagen: "/media/bmw-c-400-x-2026-hero.webp",
     galeria: [
@@ -1123,21 +1124,21 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "bmw-c-400-x-2026",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Cada año o 10.000 km (lo que ocurra primero)",
-      revisiones: [
+      "costeAnualAproxEur": null,
+      "fuente": "Manual de instrucciones BMW Motorrad C 400 X (plan de mantenimiento y confirmaciones de servicio), consultado en ManualsLib; sin costes publicados por BMW, por eso quedan a null",
+      "intervalo": "Cada año o 10.000 km (lo que ocurra primero)",
+      "revisiones": [
         {
-          nombre: "Revisión menor (10.000 km)",
-          queSeCambia: "Servicio menor según manual BMW",
-          costeAproxEur: null,
+          "costeAproxEur": null,
+          "nombre": "Revisión menor (10.000 km)",
+          "queSeCambia": "Cambio de aceite de motor con filtro, test del vehículo con el sistema de diagnosis BMW y limpieza del filtro antipolvo delantero del variador CVT, según el plan de mantenimiento del manual del C 400 X"
         },
         {
-          nombre: "Revisión mayor (20.000 km)",
-          queSeCambia: "Servicio mayor según manual BMW",
-          costeAproxEur: null,
+          "costeAproxEur": null,
+          "nombre": "Revisión mayor (20.000 km)",
+          "queSeCambia": "Además de lo anterior, revisión del cartucho del filtro de aire, comprobación del juego de válvulas y control de la correa CVT con sustitución si corresponde, operaciones recogidas en el plan de mantenimiento BMW para este modelo"
         }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Orientativo (modelo similar F 900 R / F 800 GS, misma marca; manuales/guías BMW)",
+      ]
     },
   },
   {
@@ -1317,24 +1318,25 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "precioDesde"
     ],
     pros: [
-      "Motor de 895 cc con 105 CV (77 kW) y 92 Nm de par",
-      "Peso declarado de 211 kg en orden de marcha",
-      "Depósito de 13 l",
-      "Altura de asiento de 815 mm",
-      "Se puede llevar con el carnet A",
-      "Precio aproximado desde 12.950 €"
+      "Bicilíndrico en línea de 895 cc con calado de encendido 270/450: entrega 92 Nm a 6.500 rpm y ya ofrece 87 Nm desde 4.500 rpm, así que empuja en medios sin obligarte a estirar cada marcha",
+      "La actualización Euro 5+ de 2025 convierte en equipamiento de serie lo que antes iba en paquetes: modo Dynamic, control dinámico de tracción DTC, ABS Pro para frenar inclinado y control del par de arrastre en reducciones",
+      "Horquilla invertida de 43 mm regulable en precarga, compresión y extensión desde 2025, con una postura revisada: manillar más adelantado y estriberas más altas y retrasadas que cargan el tren delantero",
+      "Llantas de aluminio 1,8 kg más ligeras y batería 0,8 kg más ligera en la generación 2025, rematadas por una pantalla TFT de 6,5 pulgadas heredada de las BMW mayores",
+      "Sobre esta misma base BMW ofrece una variante de 95 CV limitable a 48 CV para el A2; la unidad de esta ficha es la plena, de 105 CV, reservada a quien ya tiene el carnet A",
+      "Asiento de serie a 815 mm con alternativas de fábrica que bajan hasta 770 mm o suben hasta 865 mm, un margen raro en una naked de este tamaño para adaptar la moto al piloto y no al revés"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
-      "Garantía orientativa de modelos parecidos, no específica de esta versión",
-      "Mantenimiento orientativo de un modelo similar de la misma marca",
-      "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Ficha con datos pendientes de ampliación en la web oficial de la marca"
+      "Depósito de solo 13 litros —2,5 menos que su hermana rutera F 900 XR—: aunque el consumo declarado ronda los 4,2 l/100 km, en ruta larga toca planificar paradas de gasolina con más frecuencia",
+      "Naked sin contemplaciones: sin carenado que desvíe el aire en autovía y con un guardabarros trasero corto que las pruebas de 1000PS señalan por lo poco que protege de las salpicaduras",
+      "El cambio no es el más fino del segmento y el bicilíndrico se muestra algo áspero en la zona alta del cuentarrevoluciones, dos apuntes repetidos en las pruebas de 1000PS desde el modelo 2020",
+      "Los 12.950 € de esta ficha son una cifra aproximada y no la tarifa cerrada de BMW Motorrad España para 2026: antes de firmar nada hay que contrastarla con la tarifa vigente del modelo",
+      "Esta ficha no publica ningún coste de revisión —todos figuran a null— porque no hay una tarifa oficial de taller BMW que lo respalde; el gasto real dependerá del concesionario que haga el mantenimiento",
+      "Euro NCAP no ensaya motocicletas: su programa de choque evalúa turismos, por lo que para esta roadster no existe estrella alguna que mostrar, ni propia ni heredada de otro modelo"
     ],
     curiosidades: [
-      "2020: nace F 900 R (sustituye a la F 800 R)",
-      "2022: Euro 5",
-      "2025: nueva generación Euro 5+ con modo Dynamic de serie"
+      "2020: se presenta en el EICMA junto a la F 900 XR y jubila a la F 800 R; su motor no parte de cero, es el bicilíndrico de la F 850 crecido hasta los 895 cc",
+      "Su calado de encendido de 270/450 grados busca deliberadamente un tacto y un sonido más cercanos a un V-twin que a un bicilíndrico en línea convencional",
+      "2025: la puesta al día Euro 5+ aligera el conjunto unos 3 kg entre llantas y batería e integra la luz trasera y la de freno dentro de los propios intermitentes"
     ],
     imagen: "/media/bmw-f-900-r-2026-hero.webp",
     galeria: [
@@ -1352,21 +1354,21 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "bmw-f-900-r-2026",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Cada año o 10.000 km (lo que ocurra primero)",
-      revisiones: [
+      "costeAnualAproxEur": null,
+      "fuente": "Manual de instrucciones BMW Motorrad F 900 R (plan de mantenimiento, ManualsLib) y guía de mantenimiento de la F 900 R de Europe Moto (bmw.europe-moto.com): aceite y filtro cada 10.000 km, filtro de aire cada 20.000 km. Sin costes: no se ha encontrado tarifa oficial que los respalde.",
+      "intervalo": "Cada año o 10.000 km (lo que ocurra primero)",
+      "revisiones": [
         {
-          nombre: "Revisión menor (10.000 km)",
-          queSeCambia: "Servicio menor según manual BMW",
-          costeAproxEur: null,
+          "costeAproxEur": null,
+          "nombre": "Revisión menor (10.000 km)",
+          "queSeCambia": "Cambio de aceite de motor (Advantec Ultimate 5W-40) y de su filtro, revisión del estado del cartucho del filtro de aire y comprobaciones del plan de mantenimiento BMW Motorrad"
         },
         {
-          nombre: "Revisión mayor (20.000 km)",
-          queSeCambia: "Servicio mayor según manual BMW",
-          costeAproxEur: null,
+          "costeAproxEur": null,
+          "nombre": "Revisión mayor (20.000 km)",
+          "queSeCambia": "Aceite de motor y filtro nuevos y sustitución del cartucho del filtro de aire; el plan del manual incluye además entre sus tareas programadas el cambio de bujías y la sustitución del líquido de frenos de todo el sistema"
         }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Orientativo (modelo similar F 900 R / F 800 GS, misma marca; manuales/guías BMW)",
+      ]
     },
   },
   {
