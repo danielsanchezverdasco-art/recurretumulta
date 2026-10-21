@@ -2571,6 +2571,36 @@ Sin certificado DGT español verificado; es un VMP **homologado en Alemania a 20
 
 <img src=/media/patinetes/egret-ey-1-3.webp alt=Egret Ey! 1 circulando por una calle de Hamburgo>
 
+## Egret: ingeniería de Hamburgo desde 2012
+
+Egret es la marca de patinetes de Walberg Urban Electrics, una empresa de Hamburgo que lleva fabricando scooters eléctricos desde 2012, mucho antes del boom de los VMP compartidos. Esa trayectoria explica el posicionamiento del Ey! 1: no compite en precio con los fabricantes chinos de volumen, compite en construcción, frenos y acabado, con la homologación alemana como carta de presentación. En Alemania los e-scooters están limitados a 20 km/h por ley, y esa es la razón de la velocidad máxima de este modelo: no es una limitación técnica, es la configuración de su mercado de origen. La familia Ey! es su gama actual y el 1 es el tope: más potencia de pico, más autonomía declarada y el chasis con doble suspensión antichoque.
+
+## Técnica a fondo: pico de 1.512 W y triple freno
+
+| Concepto | Dato del Egret Ey! 1 |
+|---|---|
+| Motor | 500 W nominales, 1.512 W de pico |
+| Autonomía declarada | 65 km |
+| Autonomía real estimada | 40-45 km |
+| Velocidad máxima | 20 km/h (homologación alemana) |
+| Tiempo de carga | 8 horas |
+| Ruedas | Neumáticas de 10" |
+| Frenos | Triple sistema de frenado |
+
+La cifra que hay que entender es la de pico: 1.512 W momentáneos son los que sacan al Ey! 1 de un semáforo en cuesta o de un bache con carga, mientras los 500 W nominales sostienen el crucero. Con neumáticos de 10 pulgadas y doble suspensión, el conjunto está pensado para pavimentos malos, no para bajar tiempos. El punto débil objetivo es la carga: 8 horas es una noche entera, lo que lo convierte en un patinete de rutina planificada y no de uso improvisado. La autonomía real estimada (40-45 km) sigue siendo de las buenas del segmento urbano europeo.
+
+## Uso real: el patinete de quien hace siempre el mismo trayecto
+
+El Ey! 1 encaja en el usuario que hace a diario un trayecto urbano medio (5-15 km por sentido), puede cargarlo en casa o en la oficina y valora llegar sin sacudidas ni sustos de frenada. Para ese perfil, los 20 km/h de máxima rara vez son el límite real en ciudad, donde la media efectiva la marcan los semáforos. No encaja si necesitas velocidad punta legal española de 25 km/h para trayectos largos por vías interurbanas permitidas, si dependes de cargas rápidas o si el presupuesto manda: por 1.299 € hay alternativas más rápidas y baratas, aunque ninguna con esta construcción.
+
+## Mantenimiento, costes y normativa VMP en España
+
+El mantenimiento de un patinete de esta gama se concentra en neumáticos, pastillas y cables de freno, y en cuidar la batería evitando descargas completas prolongadas; la carga de 8 horas facilita cargarlo siempre al 100 % sin prisas, algo que las baterías de este formato agradecen. En España circula como VMP: la <a href=https://www.dgt.es>DGT</a> fija el límite general de 25 km/h, prohíbe circular por aceras y exige, para los vehículos comercializados, el certificado de circulación según la normativa vigente; el Ey! 1 no tiene certificado DGT español verificado, así que conviene consultar con el vendedor la documentación para circular y para una eventual inspección. Casco y normas municipales de cada ciudad completan el marco.
+
+## Rivales y veredicto: ¿merece la pena?
+
+Dentro de su propia familia, el <a href=/patinetes/egret-ey-3/>Egret Ey! 3</a> y el <a href=/patinetes/egret-ey-7/>Egret Ey! 7</a> bajan prestaciones y precio en escalones, y el propio análisis señala que el Ey! 6 cuesta 500 € menos y basta para la mayoría. Fuera de la marca, el mercado español está dominado por gamas de 25 km/h con mejor relación precio-autonomía, pero con frenos y suspensiones más modestos. **Veredicto:** el Ey! 1 merece la pena para quien prioriza seguridad activa, acabado y autonomía real en un trayecto urbano fijo, y asume los 20 km/h y las 8 horas de carga como parte del trato; no merece la pena si tu prioridad es la velocidad legal máxima o el precio por kilómetro. Y si un día te llega una multa con el patinete, ya sabes: primero el análisis, y mientras tanto, nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Egret Ey! 1?
@@ -2593,7 +2623,7 @@ El Ey! 1 tiene más pico (1.512 W) y más rango (65 km); el Ey! 6 cuesta 500 €
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://www.voylt.com/en/e-garage/e-scooter/egret-ey%21-1>ficha del Ey! 1 en Voylt</a>.*`,
+*Fuentes: <a href=https://www.voylt.com/en/e-garage/e-scooter/egret-ey%21-1>ficha del Ey! 1 en Voylt</a>. y <a href=https://www.dgt.es>DGT (normativa VMP)</a>*`,
   },
   {
     slug: "egret-ey-2",
