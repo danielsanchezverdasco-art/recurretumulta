@@ -9832,3 +9832,14 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/cfmoto-450cl-c-2026-ficha-tecnica-precio-hunt3.webp | https://cdnmedia.endeavorsuite.com/images/ThumbGenerator/Thumb.aspx?img=%2F%2Fcdnmedia.endeavorsuite.com%2Fimages%2Fcatalogs%2F24755%2Fproducts%2Fdetail%2F15df78ce-25c4-449d-89f0-99bc8de8810f.jpg&mw=930&mh=523&f=1 | CFMoto (imagen oficial de catalogo, via Carter Powersports) | desconocida |
 | /media/ienyrid-es60-hunt1.webp | https://ienyrid.eu/cdn/shop/files/iENYRID_ES60_Off_road_electric_scooter_10.jpg?v=1741853331&width=1500 | iENYRID (tienda oficial EU) | desconocida |
 | /media/ienyrid-es60-hunt2.webp | https://ienyrid.eu/cdn/shop/files/iENYRID_ES60_2400W_Dual_motor_electric_scooter_off_road_electric_scooter_for_adults_18_-min.jpg?v=1741853334&width=1600 | iENYRID (tienda oficial EU) | desconocida |
+| /media/dacia-jogger-hybrid-155-2026-precio-ficha-tecnica-hunt1.webp | https://www.km77.com/images/medium/9/1/1/5/dacia-jogger-2026-frontal-lateral.379115.jpg | km77.com | desconocida |
+| /media/dacia-jogger-hybrid-155-2026-precio-ficha-tecnica-hunt2.webp | https://www.startstop.sk/wp-content/uploads/2026/03/Dacia-Jogger-hybrid-155-Extreme-version-11.jpg | StartStop.sk | desconocida |
+| /media/dacia-jogger-hybrid-155-2026-precio-ficha-tecnica-hunt3.webp | https://cdn.caranddriving.com/f2/images/new/big/daciajoggerhybrid1551125(4).jpg | Car and Driving / Exchange and Mart | desconocida |
+| /media/kgm-torres-evx-electrico-precio-ficha-tecnica-hunt1.webp | https://theevreport.com/wp-content/uploads/2025/03/KGM-Torres-EVX-Affordable-Electric-SUV.jpg | The EV Report / KGM (foto de prensa) | desconocida |
+| /media/kgm-torres-evx-electrico-precio-ficha-tecnica-hunt2.webp | https://dolubatarya.com/uploads/2024/12/torres-evx-808636-1280_1.jpg.webp | Licarco / Dolu Batarya | desconocida |
+| /media/kgm-torres-evx-electrico-precio-ficha-tecnica-hunt3.webp | https://www.zakarauto.hu/wp-content/uploads/2025/05/kgm-torres-evx-02.jpg | Zakar Auto / KGM | desconocida |
+| /media/zontes-350e-2025-ficha-tecnica-precio-hunt1.webp | https://www.motowish.com/wp-content/uploads/2025/05/Zontes-350e-01_0-768x512.jpg | MotoWish / Zontes | desconocida |
+| /media/zontes-350e-2025-ficha-tecnica-precio-hunt2.webp | https://www.automaistv.com.br/wp-content/uploads/2024/04/zontes_e350-1320x792.jpg | AutoMais TV / Zontes | desconocida |
+| /media/zontes-350e-2025-ficha-tecnica-precio-hunt3.webp | https://zontes.gr/wp-content/uploads/006_360_E350-768x512.jpg | Zontes Grecia (zontes.gr) | desconocida |
+| /media/ienyrid-es1-hunt1.webp | https://pogocycles.pl/cdn/shop/files/iENYRID_ES1_Dual_Motor_Off-Road_Electric_Scooter.jpg?v=1759805849 | Pogo Cycles / iENYRID | desconocida |
+| /media/ienyrid-es1-hunt2.webp | https://wheelyshop.se/cdn/shop/files/ienyrid-es1-elsparkcykel-595835.jpg?v=1745561339&width=1946 | WheelyShop / iENYRID | desconocida |
