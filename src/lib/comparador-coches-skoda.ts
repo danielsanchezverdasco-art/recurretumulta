@@ -411,9 +411,9 @@ export const COCHES_SKODA: CocheComparador[] = [
   },
   {
     id: "skoda-enyaq-coupe-rs-2026-precio-ficha-tecnica",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
-    garantiaBateriaDegradacionPct: null,
+    garantiaBateriaAnos: 8,
+    garantiaBateriaKm: 160000,
+    garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/skoda-enyaq-coupe-rs-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/skoda-enyaq-coupe-rs-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
@@ -432,18 +432,18 @@ export const COCHES_SKODA: CocheComparador[] = [
     cargaRapidaKw: 185,
     etiquetaDgt: "Cero",
     pros: [
-      "340 CV, 0-100 en 5,4 s y estética coupé",
-      "575 km de autonomía: el RS con más alcance",
-      "Tracción total con dos motores",
-      "Maletero de 591 L, el mayor de los RS",
-      "El tope de gama eléctrica de Skoda"
+      "Estrena el frontal Modern Solid llegado del Elroq, con la Tech-Deck negra que esconde cámara y radar",
+      "La carrocería coupé, algo más aerodinámica que la del Enyaq RS cerrado, firma los 575 km WLTP de esta ficha",
+      "Carga en continua a 185 kW y pasa del 10 al 80 por ciento en 26 minutos en un poste rápido",
+      "Chasis rebajado 15 mm delante y 10 mm detrás, con pinzas delanteras de doble pistón",
+      "Puede remolcar hasta 1.400 kg con frenos, una cifra rara en un SUV eléctrico deportivo"
     ],
     contras: [
-      "52.485 € de precio de partida (tarifa 05/2026)",
-      "2.258 kg de peso en orden de marcha",
-      "Consumo de 16,2 kWh/100 km, el más alto de la gama",
-      "El Enyaq RS berlina es más barato y práctico",
-      "Competencia premium muy dura por este precio"
+      "La caída del techo roba altura libre en la segunda fila y capacidad de carga frente al Enyaq RS de carrocería cerrada",
+      "Pesa 2.258 kg: en un puerto de montaña la masa se nota pese a los 340 CV",
+      "Con 52.485 € de salida ya se mide con el Tesla Model Y y el Ford Mustang Mach-E",
+      "La amortiguación adaptativa DCC, lo que más afina el compromiso entre confort y deportividad, se paga aparte",
+      "Su primo Cupra Tavascan VZ comparte plataforma MEB y los mismos 340 CV con un enfoque aún más deportivo"
     ],
     largoMm: 4660,
     anchoMm: 1879,
@@ -459,15 +459,15 @@ export const COCHES_SKODA: CocheComparador[] = [
     imagen: "/media/skoda-enyaq-coupe-rs-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 2.9,
-      seguroTercerosAnual: 680,
-      seguroAmpliadoAnual: 1200,
-      mantenimientoAnual: 460,
-      costeMensualTotal: 168,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.85,
-      notas: "Estimación con 1.000 km/mes y recarga doméstica a 0,18 €/kWh; seguro y mantenimiento estimados por segmento",
-      estimado: true
+      "costeEnergia100km": 2.9,
+      "costeMensualTotal": 168,
+      "estimado": true,
+      "mantenimientoAnual": 460,
+      "notas": "Cálculo para este Coupé RS: con su consumo homologado de 16,2 kWh/100 km y 1.000 km al mes, cargar en casa a 0,18 €/kWh sale a unos 2,9 € de electricidad por cada 100 km; seguro y mantenimiento son estimación de segmento, no tarifa oficial Skoda",
+      "precioGasolinaL": 1.85,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 1200,
+      "seguroTercerosAnual": 680
     },
     galeria: [
       {
@@ -488,7 +488,25 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       }
-    ]
+    ],
+    euroncap: {
+      "ano": 2025,
+      "estrellas": 5,
+      "nota": "Calificación publicada el 19 de noviembre de 2025: 90 % en ocupantes adultos, 87 % en infantil, 77 % en usuarios vulnerables y 78 % en asistencias a la seguridad. La tabla de validez de la propia Euro NCAP incluye entre las variantes cubiertas la eléctrica RS con tracción total, la mecánica de este Coupé RS",
+      "url": "https://www.euroncap.com/en/results/skoda/enyaq/57984"
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Skoda España: páginas oficiales de mantenimiento de vehículos eléctricos y del servicio Skoda Enyaq e-Care (skoda.es). Sin precio cerrado de inspección publicado para el Enyaq renovado",
+      "intervalo": "Inspección cada 2 años, sin que el kilometraje acorte el plazo: así lo fija Skoda España para el Enyaq",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Inspección bienal del Enyaq",
+          "queSeCambia": "Comprobación de la batería de tracción y diagnóstico del software del coche, verificación de los servicios de conexión y revisión de frenos, sistema de refrigeración, propulsión, suspensión, dirección y climatización, los bloques que Skoda España enumera para sus eléctricos y para el certificado e-Care del Enyaq"
+        }
+      ]
+    },
   },
   {
     id: "skoda-octavia-rs-2026-precio-ficha-tecnica",
