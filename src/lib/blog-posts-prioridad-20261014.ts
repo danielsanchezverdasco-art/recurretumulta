@@ -5829,6 +5829,39 @@ Mantenimiento: revisión anual o cada 15.000 km. Fuente: Lexus España (programa
 
 Garantía: 3 años o 100.000 km + Lexus Relax hasta 10 años / 160.000 km con mantenimiento en red oficial. Fuente: prensa Lexus España.
 
+## Plataforma GA-F: el Land Cruiser que se puso traje
+
+Bajo la carrocería cuadrada del GX 550 hay un chasis de largueros y travesaños sobre la plataforma GA-F del grupo Toyota, la misma base que sostiene al Land Cruiser 300 y al 250. Esa arquitectura explica su doble personalidad: por dentro es un Lexus con materiales y silencio de berlina de lujo, y por debajo conserva la estructura que un todoterreno de verdad necesita para torsionar sobre piedras sin que cruja la carrocería. En Estados Unidos la gama incluye además la versión Overtrail, con neumáticos todoterreno y reglajes específicos de suspensión, que es la que mejor explota esa herencia.
+
+## El V6 biturbo y los números que importan
+
+| Magnitud | Cifra | Comentario |
+|---|---|---|
+| Potencia | **354 CV** del 3.4 V6 biturbo | Sustituye al V8 atmosférico del GX anterior |
+| 0-100 km/h | 6,5 s | Ritmo impropio de un todoterreno de largueros |
+| Consumo EPA combinado | 13,8 l/100 km | El peaje de mover semejante mole a gasolina |
+| Maletero | 292 / 1.133 / 2.178 litros | Según se usen siete, cinco o dos plazas |
+| Longitud | 4.950 mm | Formato grande incluso para el segmento |
+| Velocidad punta | 169 km/h, limitada | Pensado para autopista americana y pista |
+
+El cambio automático de diez marchas y la tracción total permanente están ahí para disimular el peso y repartir el par con calma, no para correr: el GX es un coche de crucero y de campo, y sus cifras de consumo avisan de que la factura de combustible acompañará esa filosofía kilómetro a kilómetro.
+
+## Uso real: siete plazas y sed de gasolina
+
+Con la tercera fila desplegada, el maletero se queda en 292 litros, espacio de equipaje de fin de semana para dos y poco más; el GX funciona como siete plazas ocasional y como cinco plazas muy holgado. El consumo homologado de 13,8 l/100 km en ciclo EPA —que tiende a ser más realista que el europeo— anticipa medias de dos dígitos en cualquier uso que no sea autopista tranquila, de modo que el depósito se convierte en visita frecuente a la gasolinera. Es el precio consciente de elegir motor grande de gasolina y chasis clásico en 2026.
+
+## Traerlo a España: garantía y red oficial
+
+El programa Lexus Relax descrito en su ficha —extensión hasta diez años o 160.000 km manteniendo el coche en la red oficial— está concebido para unidades vendidas por la red europea. Una unidad importada por libre desde Estados Unidos debería confirmar por escrito qué cobertura le reconoce Lexus España antes de dar por hecho ese paraguas, además de superar su homologación individual y las adaptaciones de alumbrado y emisiones que exige la normativa europea. Las revisiones anuales o cada 15.000 km que marca la marca son, eso sí, asumibles por cualquier servicio oficial con acceso a piezas del grupo Toyota.
+
+## Rivales y veredicto: el rival está en su propia casa
+
+El competidor más incómodo del GX es su primo, el <a href=/coches/toyota-land-cruiser-2026-precio-ficha-tecnica/>Toyota Land Cruiser</a>, que sí se vende en España con garantía plena; por el otro lado le aprieta el <a href=/coches/land-rover-defender-110-d300-2025-precio-ficha-tecnica/>Land Rover Defender</a>, con imagen y red europeas. **Veredicto:** el GX 550 es un todoterreno de lujo con mecánica y fiabilidad de sobra conocidas, y merece la pena para el entusiasta que lo importe sabiendo lo que firma; para el comprador que quiere entrar, pagar y circular, el Land Cruiser oficial sigue siendo la respuesta sensata. Si el papeleo te aburre, despeja la cabeza buscando monos en el <a href=/juego-monos/>juego caza-monos</a>.
+
+## Un interior pensado para ensuciarse con elegancia
+
+El habitáculo mezcla la factura de Lexus —cuero, mandos sólidos y un silencio de marcha impropio de un chasis de largueros— con detalles de todoterreno serio, como los asideros y superficies fáciles de limpiar tras una jornada de barro. La segunda fila se desplaza para dar acceso a una tercera que, como ya se ha dicho, funciona mejor como recurso ocasional que como puesto permanente en viajes largos.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Lexus GX 550?
@@ -5861,7 +5894,7 @@ Mantenimiento: revisión anual o cada 15.000 km. Fuente: Lexus España (programa
 - Misma marca: <a href=/coches/lexus-is-300h/>Lexus Is 300h</a>, <a href=/coches/lexus-lm-350h/>Lexus Lm 350h</a>, <a href=/coches/lexus-rc-300h/>Lexus Rc 300h</a>
 - Misma categoría (Todoterreno): <a href=/coches/mitsubishi-montero/>Mitsubishi Montero</a>
 
-*Fuentes: Ver fuentes. Verificar precio, EuroNCAP y mantenimiento contra fuentes oficiales antes de publicar.*
+*Fuentes: Ver fuentes. Verificar precio, EuroNCAP y mantenimiento contra fuentes oficiales antes de publicar. Web oficial: <a href=https://www.lexus.es>Lexus España</a>.*
 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
@@ -6538,6 +6571,39 @@ Mantenimiento reducido eléctrico (modelo similar Pulse / Origin): cadena silenc
 - <a href=/motos/can-am-origin-2024-ficha-tecnica-precio/>Can-Am Origin 2024</a>
 - <a href=/motos/can-am-pulse-2024-ficha-tecnica-precio/>Can-Am Pulse 2024</a>
 - <a href=/motos/can-am-pulse-ficha-tecnica-precio/>Can-Am Pulse (35 kW)</a>
+
+## Can-Am vuelve a las motos, y lo hace en eléctrico
+
+El nombre Can-Am no es nuevo sobre dos ruedas: en los años setenta la marca canadiense fabricó motos de cross y enduro que llegaron a ganar campeonatos en Estados Unidos, antes de que BRP concentrara el negocio en quads, motos de agua y vehículos recreativos. Su regreso al motociclismo llega medio siglo después y directamente en eléctrico, con dos modelos sobre la misma base Rotax E-Power: la Pulse, naked urbana, y esta Origin, que recupera precisamente el espíritu trail de aquellas máquinas de campo. Que el retorno sea con una dual sport y no con una deportiva dice mucho de a quién buscan: al usuario del A2 que quiere una moto para todo.
+
+## La ficha, leída con lupa
+
+| Dato | Valor | Por qué importa |
+|---|---|---|
+| Potencia | **47 CV** (34,6 kW) | Es el techo legal del carnet A2 |
+| Par motor | 72 Nm | En un eléctrico llega desde cero revoluciones |
+| Peso en orden de marcha | 186 kg | Contenido para una trail con batería |
+| Altura del asiento | 820 mm | Accesible para la mayoría de tallas |
+| Garantía de batería | 5 años o 50.000 km | El componente caro, cubierto más tiempo |
+
+La entrega instantánea del par cambia el tacto frente a una 500 de gasolina: no hay que buscar la zona buena del cuentavueltas para salir de una rotonda o afrontar una subida de pista, y tampoco hay embrague del que preocuparse en tráfico. A cambio, la autonomía de una eléctrica de este tamaño obliga a pensar los recorridos por el campo con el cargador en mente.
+
+## Mantenimiento eléctrico: menos piezas, otras rutinas
+
+La Origin abandona casi todo lo que se desgasta en una moto de combustión: no hay aceite de motor, bujías, filtro de aire ni válvulas que reglajar. Su cadena trabaja dentro de un cárter con tensor automático, de modo que desaparece incluso la tarea clásica de tensar y engrasar tras cada salida al campo. Lo que queda es lo de siempre en cualquier moto: neumáticos, pastillas y líquido de frenos, rodamientos y el estado de la batería, protegida por esos cinco años de cobertura oficial. Las revisiones, eso sí, deben hacerse según el manual de BRP para no perder la garantía.
+
+## Carnet A2 y normas: lo que dice la DGT
+
+Con 34,6 kW la Origin se sitúa justo bajo el límite de 35 kW del permiso A2, así que puede conducirse desde los 18 años con ese carnet, sin necesidad de limitar nada. Al ser eléctrica le corresponde la etiqueta **Cero** de la DGT, con las ventajas de acceso a zonas de bajas emisiones que eso conlleva en las ciudades españolas. Y como cualquier motocicleta, su primera ITV llega a los cuatro años de la matriculación, un trámite en el que una propulsión eléctrica sin emisiones simplifica la parte de gases a cero literal.
+
+## Origin o Pulse, y veredicto
+
+Su hermana <a href=/motos/can-am-pulse-2025-ficha-tecnica-precio/>Can-Am Pulse</a> comparte motor y batería con enfoque de asfalto puro: si tus rutas son urbanas, la Pulse es más directa; la Origin suma llanta y recorridos pensados para salir del asfalto sin complejos. **Veredicto:** la Origin merece la pena para quien busca una trail eléctrica A2 de marca con red internacional y garantía seria de batería, asumiendo el precio aproximado de 13.799 € y la autonomía propia de su formato; no es la moto para grandes travesías sin planificación de carga. Cuando pares a recargar, mata el rato con el <a href=/juego-monos/>juego caza-monos</a> y busca los monos que hemos escondido entre las fichas.
+
+## Autonomía: el dato que ordena su uso
+
+Como toda trail eléctrica de batería contenida, la Origin rinde mejor con rutas pensadas alrededor de un enchufe: la jornada ideal mezcla asfalto y pistas cerca de casa o de la base donde duerme cargando. Para travesías largas por zonas sin infraestructura, una A2 de gasolina sigue siendo la herramienta sin discusiones.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta Can-Am Origin 2026 en España?

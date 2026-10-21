@@ -298,6 +298,33 @@ Como vehículo con más de 40 km de autonomía eléctrica, le correspondería la
 <p>Wheelsboy lo prueba a fondo en este vídeo:</p>
 <p><a href=https://www.youtube.com/watch?v=nOl_nRbRmXY>Ver la prueba del Nevo E07 en YouTube (Wheelsboy)</a></p>
 
+## Nevo es Qiyuan: la marca nueva de Changan
+
+Nevo es la enseña de energías nuevas de Changan, uno de los cuatro grandes fabricantes estatales chinos, y en su mercado doméstico esos mismos coches se conocen también bajo el nombre Qiyuan. El E07 deriva del prototipo CD701 y ocupa el papel de buque insignia tecnológico y de imagen: el modelo con el que la marca demuestra músculo ante sus rivales locales. Que su gran truco sea transformarse en pick-up no es casualidad: en China los SUV enormes venden estatus, y los pick-up tienen restricciones de circulación en muchas ciudades, de modo que un vehículo que es ambas cosas a la vez esquiva normas y luce músculo en un solo producto.
+
+## El mecanismo transformer, sin humo
+
+| Paso | Qué ocurre | Límite a tener en cuenta |
+|---|---|---|
+| Se pulsa el botón | El techo de cristal trasero se desliza eléctricamente | La maniobra exige el coche detenido |
+| El portón se pliega | La zaga se abre como una caja de carga | La capacidad declarada es de **300 kg** |
+| Queda un pick-up | Espacio abierto para objetos largos o sucios | Sin la protección de un habitáculo cerrado |
+| Se revierte el proceso | Vuelve a ser un SUV de techo cerrado | La estanqueidad manda sobre el espectáculo |
+
+La transformación es real y funciona, pero su utilidad cotidiana es más estrecha que la del vídeo promocional: 300 kg de carga dan para bicicletas, material de camping o una compra voluminosa, no para competir con un pick-up de trabajo. Donde el E07 no finge es en el habitáculo cerrado, con doble pantalla y suspensión neumática en las versiones altas, un nivel de salón rodante que pocos SUV europeos de su precio teórico igualan en China.
+
+## 800 voltios y 701 km CLTC: potencia de escaparate
+
+La versión eléctrica de batería grande combina 90 kWh con una arquitectura de 800 voltios capaz de recuperar 365 km en un cuarto de hora de carga, y la variante de tracción total con 598 CV firma un 0 a 100 km/h en 3,96 segundos que avergonzaría a muchos deportivos. Esas cifras conviven con la advertencia habitual sobre el ciclo CLTC chino, que embellece autonomías: los 701 km oficiales deben leerse como un máximo de laboratorio. También existe una variante de autonomía extendida para quien no quiere depender solo del enchufe, una solución muy popular en el mercado chino actual.
+
+## Un SUV de cinco metros en la práctica
+
+Con 5.045 mm de largo y casi dos metros de ancho, el E07 es un coche pensado para avenidas chinas y aparcamientos amplios, no para cascos históricos europeos ni garajes comunitarios justos. Su venta se limita a China y a mercados de exportación como el ruso, así que verlo en España exigiría una importación individual con su homologación correspondiente y sin red de marca detrás. Ese contexto convierte sus virtudes en un ejercicio teórico para el lector europeo: sirve para medir hasta dónde está llegando la industria china en imaginación de producto, más que para tachar una opción de compra real.
+
+## Rivales y veredicto: no tiene rival, y ese es el punto
+
+En el catálogo de la propia Changan, el <a href=/coches/nevo-a07-2025-precio-ficha-tecnica/>Nevo A07</a> representa la cara sensata de la marca, y el resto de SUV transformables simplemente no existe en el mercado europeo con el que solemos comparar en el <a href=/comparador-coches/>comparador del sitio</a>. **Veredicto:** el E07 merece atención como fenómeno de ingeniería y de marketing, y su precio chino desde unos 26.000 € al cambio hace soñar; pero para un comprador español no es una alternativa adquirible, sino una ventana a lo que China ya vende en casa. Como ventana, pocas hay más espectaculares. Si te ha picado la curiosidad, en el <a href=/juego-monos/>juego caza-monos</a> hay otra caza abierta, la de los monos repartidos por la web.
+
 ## Preguntas frecuentes
 
 ### ¿Cómo se transforma el Nevo E07 en pick-up?
@@ -325,7 +352,8 @@ Como eléctrico puro, le correspondería la etiqueta Cero.
 - <a href=https://www.borderlesscar.com>BorderlessCar: cobertura del Nevo E07</a>
 
 <p>El SUV-transformer existe y cuesta 30.000 € en China. <a href=/comparador-coches/>Compara el Nevo E07 con los SUV eléctricos de España</a> y <a href=https://recurretumulta.online/#analizador>analiza tu multa gratis con nuestra IA</a>.</p>
-`,
+
+*Fuentes: web oficial de <a href=https://www.changan.com.cn>Changan</a> (casa matriz de Nevo) y normativa de la <a href=https://www.dgt.es>DGT</a>.*`,
     locale: "all",
   },
   {
