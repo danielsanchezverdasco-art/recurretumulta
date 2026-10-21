@@ -9862,3 +9862,14 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/zontes-125d-2026-ficha-tecnica-precio-hunt3.webp | https://zontesmotos.es/wp-content/uploads/2024/06/zontes-d125-azul-mate-002.jpg | Zontes España (web oficial) | desconocida |
 | /media/ienyrid-s1-hunt1.webp | https://ienyrid.co.uk/cdn/shop/files/iENYRID_S1_electric_scooter_for_teens_and_adults_1_-min.jpg?v=1764385830&width=1200 | iENYRID (tienda oficial Reino Unido) | desconocida |
 | /media/ienyrid-s1-hunt2.webp | https://ienyrid.co.uk/cdn/shop/files/iENYRID_S1_electric_scooter_for_teens_and_adults_9_-min.jpg?v=1764385830&width=1200 | iENYRID (tienda oficial Reino Unido) | desconocida |
+| /media/dacia-duster-hybrid-g-150-4x4-2026-precio-ficha-tecnica-hunt1.webp | https://www.completecar.ie/img/galleries/14615/dacia_duster_hybrid_g_150_4x4_morocco_2025_174.jpg | Dacia (foto de prensa) vía CompleteCar | desconocida |
+| /media/dacia-duster-hybrid-g-150-4x4-2026-precio-ficha-tecnica-hunt2.webp | https://www.completecar.ie/img/galleries/14615/dacia_duster_hybrid_g_150_4x4_morocco_2025_039.jpg | Dacia (foto de prensa) vía CompleteCar | desconocida |
+| /media/dacia-duster-hybrid-g-150-4x4-2026-precio-ficha-tecnica-hunt3.webp | https://www.completecar.ie/img/galleries/14615/dacia_duster_hybrid_g_150_4x4_morocco_2025_160.jpg | Dacia (foto de prensa) vía CompleteCar | desconocida |
+| /media/ebro-s800-phev-precio-ficha-tecnica-hunt1.webp | https://cms.ebroauto.com/media/large/large_Ebro_s800_PHEV_RRSS_0007_ASTURIAS_800_16324497e7.avif | Ebro (web oficial ebroauto.com) | desconocida |
+| /media/ebro-s800-phev-precio-ficha-tecnica-hunt2.webp | https://cms.ebroauto.com/media/large/large_YDRAY_Ebro_s800_PHEV_RRSS_0001_COSTA_BRAVA_800_a5cbd62795.avif | Ebro (web oficial ebroauto.com) | desconocida |
+| /media/ebro-s800-phev-precio-ficha-tecnica-hunt3.webp | https://cms.ebroauto.com/media/large/large_N28_S800_ICE_second_row_luxury_2f051df164.avif | Ebro (web oficial ebroauto.com) | desconocida |
+| /media/zontes-368k-2026-ficha-tecnica-precio-hunt1.webp | https://zontesmotos.es/wp-content/uploads/2025/04/Zontes-368K-negro-7.jpg | Zontes España (web oficial zontesmotos.es) | desconocida |
+| /media/zontes-368k-2026-ficha-tecnica-precio-hunt2.webp | https://zontesmotos.es/wp-content/uploads/2025/04/Zontes-368K-negro-5.jpg | Zontes España (web oficial zontesmotos.es) | desconocida |
+| /media/zontes-368k-2026-ficha-tecnica-precio-hunt3.webp | https://zontesmotos.es/wp-content/uploads/2025/04/Zontes-368K-pantalla.jpg | Zontes España (web oficial zontesmotos.es) | desconocida |
+| /media/sxt-light-gt-hunt1.webp | https://sxt-scooters.de/cdn/shop/files/sxt_light_gt_schwarz_lenker-display.jpg | SXT (web oficial sxt-scooters.de) | desconocida |
+| /media/sxt-light-gt-hunt2.webp | https://sxt-scooters.de/cdn/shop/files/ESCLGHTGT.1_Light_GT_Hinterrad.jpg | SXT (web oficial sxt-scooters.de) | desconocida |
