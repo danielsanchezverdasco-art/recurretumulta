@@ -10274,3 +10274,14 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/peugeot-208-2026-hunt1.webp | https://afhlcgnenq.cloudimg.io/v7/https://media-vakgarage.export.dv.nl/23466700081/image1.jpg?width=1200 | Vakgarage Frikkee (anuncio de un 208 1.2 PureTech 100 GT) | desconocida |
 | /media/peugeot-208-2026-hunt2.webp | https://parkers-images.bauersecure.com/wp-images/4010/interior-detail/1200x800/044-peugeot-208-review.jpg?mode=max&quality=90&scale=down | Parkers (Bauer Media), foto de prueba en carretera | desconocida |
 | /media/peugeot-208-2026-hunt3.webp | https://eu.cdn.autosonshow.tv/6890/18644/LC73JDS/e04.jpg?c06a2374f9135b9407c024fce703749a | Stellantis & You UK (anuncio de un 208 1.2 PureTech Allure) | desconocida |
+| /media/citroen-c3-2026-hunt1.webp | https://www.completecar.ie/img/galleries/13368/citroen_c3_019.jpg | CompleteCar.ie (fotos de prensa Citroën) | desconocida |
+| /media/citroen-c3-2026-hunt2.webp | https://www.completecar.ie/img/galleries/13368/citroen_c3_033.jpg | CompleteCar.ie (fotos de prensa Citroën) | desconocida |
+| /media/citroen-c3-2026-hunt3.webp | https://www.completecar.ie/img/galleries/13368/citroen_c3_025.jpg | CompleteCar.ie (fotos de prensa Citroën) | desconocida |
+| /media/kaabo-mantis-x-hunt1.webp | https://stormrides.nz/cdn/shop/files/kaabo-mantis-x-black_1050x700.png?v=1739500542 | Storm Rides NZ (distribuidor oficial Kaabo) | desconocida |
+| /media/kaabo-mantis-x-hunt2.webp | https://stormrides.nz/cdn/shop/files/kaabo-mantis-x-red_1200x800.png?v=1739500542 | Storm Rides NZ (distribuidor oficial Kaabo) | desconocida |
+| /media/mercedes-eqs-suv-580-2026-precio-ficha-tecnica-hunt1.webp | https://paultan.org/image/2023/10/MB-EQS-580-4M-SUV_-10.jpg | Paul Tan / paultan.org | desconocida |
+| /media/mercedes-eqs-suv-580-2026-precio-ficha-tecnica-hunt2.webp | https://paultan.org/image/2023/10/MB-EQS-580-4M-SUV_-40.jpg | Paul Tan / paultan.org | desconocida |
+| /media/mercedes-eqs-suv-580-2026-precio-ficha-tecnica-hunt3.webp | https://paultan.org/image/2023/10/MB-EQS-580-4M-SUV_-15.jpg | Paul Tan / paultan.org | desconocida |
+| /media/zero-sr-2026-ficha-tecnica-precio-hunt1.webp | https://teamthrottle.com/wp-content/uploads/2022/12/review-zero-sr.jpg | Kenny van Houttave / Team Throttle | desconocida |
+| /media/zero-sr-2026-ficha-tecnica-precio-hunt2.webp | https://teamthrottle.com/wp-content/uploads/2022/12/2022-zero-sr-review.jpg | Kenny van Houttave / Team Throttle | desconocida |
+| /media/zero-sr-2026-ficha-tecnica-precio-hunt3.webp | https://teamthrottle.com/wp-content/uploads/2022/12/zero-sr-side.jpg | Kenny van Houttave / Team Throttle | desconocida |
