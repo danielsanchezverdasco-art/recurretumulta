@@ -750,6 +750,35 @@ Sin certificado DGT verificado. De serie va a **25 km/h** (se puede subir a 31 e
 
 <img src=/media/patinetes/aovopro-365-go-3.webp alt=Aovopro 365 Go plegado junto a una mochila>
 
+## Pensado para el último kilómetro, no para cruzar la ciudad
+
+El propio nombre lo confiesa: 365 Go es el patinete de todos los días para distancias modestas. Con **281 Wh** de batería y una autonomía real de **12 a 15 km**, su hábitat es el trayecto entre la estación y la oficina, el campus universitario o el recado urbano corto. Sus **12,5 kg** permiten subirlo al tren o guardarlo bajo la mesa sin que estorbe, algo que un patinete de 20 kg no puede prometer.
+
+## 365 Go o ES60: la duda de los 230 €
+
+| Modelo | Batería | Precio orientativo | Autonomía declarada |
+|---|---|---|---|
+| Aovopro 365 Go | 281 Wh (7,8 Ah) | ~199 € | 20 km |
+| Aovopro ES60 | 378 Wh (10,5 Ah) | ~430 € | 35-40 km |
+
+Comparar ambos ayuda a decidir: el <a href=/patinetes/aovopro-es60/>Aovopro ES60</a> duplica con creces el precio a cambio de un 35 % más de batería y algo más de autonomía real. Si tus trayectos diarios suman menos de 10 km, la diferencia de precio del 365 Go se queda en tu bolsillo sin que eches de menos los kilómetros extra. La <a href=/patinetes/aovopro-365-go/>ficha del 365 Go</a> recoge el resto de datos verificados del modelo.
+
+## Normativa: lo que la DGT pide a un VMP
+
+De serie rueda a **25 km/h**, el máximo permitido para la categoría; la app deja subirlo a 31 km/h, una opción que en vía pública española lo convertiría en un vehículo no autorizado, además de mantener la prohibición absoluta de circular por aceras. La ficha no acredita **certificado de circulación DGT**, obligatorio para los VMP comercializados desde enero de 2024 según la normativa que publica la <a href=https://www.dgt.es>Dirección General de Tráfico</a>, así que conviene exigirlo al vendedor antes de pagar.
+
+## Mantenimiento mínimo, batería pequeña
+
+Una batería de 281 Wh se degrada antes si se descarga a fondo a diario: lo ideal es cargarla tras cada uso corto y mantenerla en torno a media carga si va a estar parada. Las **ruedas macizas de 8,5 pulgadas** prescinden de cámara y de hinchado, y el freno trasero de disco solo pide una revisión ocasional de pastilla y cable. Es, en conjunto, de los patinetes con menos tareas de taller del catálogo.
+
+**Veredicto:** por unos **199 €** con almacén europeo y app con bloqueo, el 365 Go merece la pena como herramienta de último kilómetro para recorridos cortos; quien haga más de 10 km diarios debería mirar directamente al ES60 o asumir cargas casi a diario. Barato, ligero y honesto en su planteamiento. Y si el trayecto se te hace corto, siempre puedes alargarlo virtualmente con el <a href=/juego-monos/>juego caza-monos</a> de la casa.
+
+## Subirlo al tren, guardarlo bajo la mesa
+
+Con **12,5 kg** y plegado compacto, el 365 Go está en el grupo de patinetes que el transporte público tolera sin dramas: entra en el hueco de los asientos abatibles, no bloquea el pasillo y se baja en marcha sin ayuda. En la oficina o en clase queda bajo la mesa cargando con su cargador mientras trabajas, un patrón de uso que explica su batería pequeña: no necesita más porque se recarga en cada extremo del trayecto.
+
+Ese mismo uso intermodal castiga zonas concretas: el mecanismo de plegado y la bisagra del mástil merecen una revisión de apriete cada cierto tiempo, y las ruedas macizas agradecen evitar los bordillos frontales que pueden doblar la horquilla. Son cuidados de cinco minutos que alargan años la vida de un patinete de este precio.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Aovopro 365 Go?
@@ -772,7 +801,7 @@ Para quien hace menos de 10 km al día y quiere gastar lo mínimo.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://couponsfromchina.com/aovopro-365go-electric-scooter-36v-10-5ah-350w-8-5inch-eu/>ficha del 365 Go en CouponsFromChina</a>.*`,
+*Fuentes: <a href=https://couponsfromchina.com/aovopro-365go-electric-scooter-36v-10-5ah-350w-8-5inch-eu/>ficha del 365 Go en CouponsFromChina</a>., <a href=https://www.dgt.es>normativa de VMP en la DGT</a>*`,
   },
   {
     slug: "aovopro-es60",
@@ -846,6 +875,40 @@ Sin certificado DGT verificado. De serie va a **25 km/h** (ampliable a 31 en aju
 
 <img src=/media/patinetes/aovopro-es60-3.webp alt=Aovopro ES60 en un carril bici urbano>
 
+## La ligereza como argumento principal
+
+Doce kilos exactos con una batería de **378 Wh** es una combinación rara en el mercado: la mayoría de patinetes con esa capacidad energética pesa dos o tres kilos más. El ES60 está pensado para quien combina patinete con metro, tren o maletero, y sube escaleras con él al hombro sin convertir cada trayecto en una sesión de gimnasio. Su **plegado en 3 segundos** refuerza ese enfoque intermodal.
+
+## ES60 frente a sus hermanos ES80 y ESMAX
+
+| Modelo | Autonomía declarada | Peso | Velocidad máxima |
+|---|---|---|---|
+| Aovopro ES60 | 35-40 km | 12 kg | 31 km/h (25 de serie) |
+| Aovopro ES80 | 35 km | 12 kg | 25 km/h |
+| Aovopro ESMAX | 43 km | — | 34 km/h |
+
+Los datos de los hermanos salen de sus propias fichas: la <a href=/patinetes/aovopro-es80/>ficha del ES80</a> marca 35 km y 12 kg, y la <a href=/patinetes/aovopro-esmax/>ficha del ESMAX</a> sube a 43 km con 34 km/h de punta. El ES60 se sitúa en el punto dulce de la gama si la prioridad es el peso, porque el ESMAX gana autonomía renunciando a parte de esa ligereza.
+
+## Legalidad: de serie cumple, el ajuste es cosa tuya
+
+El ES60 sale de la caja limitado a **25 km/h**, la velocidad máxima que define a un VMP en España, y en los ajustes puede subir a 31 km/h. Esa segunda cifra solo tendría sentido en recinto privado: en vía pública, circular por encima de 25 km/h saca al patinete de la categoría legal, con aceras siempre prohibidas. Tampoco acredita **certificado DGT** verificado según su ficha, requisito que la <a href=https://www.dgt.es>Dirección General de Tráfico</a> exige a los VMP vendidos desde enero de 2024.
+
+## Mantenimiento de un patinete ligero
+
+La batería de 378 Wh se carga en pocas horas y agradece no quedar semanas al 0 % ni al 100 %. Las **ruedas honeycomb de 8,5 pulgadas** no pinchan ni piden presión, aunque transmiten vibraciones al no haber suspensión. El freno de disco trasero es el elemento a revisar con más frecuencia si el uso es diario en ciudad.
+
+**Veredicto:** el ES60 es una compra sensata si pesa más tu espalda que tu cartera: **12 kg**, autonomía real de 20-25 km y **resistencia IP65** por unos **430 €** en almacén europeo. Si el precio se dispara en reventa, el ESMAX ofrece más autonomía por un sobreprecio moderado. Entre trayecto y trayecto, la web te propone su <a href=/juego-monos/>juego caza-monos</a> para matar el tiempo de carga.
+
+## IP65: qué significa de verdad cuando llueve
+
+La certificación **IP65** que anuncia la ficha protege frente a chorros de agua y polvo, así que un chaparrón urbano no debería ser un drama eléctrico. Otra cosa es el agarre: con ruedas honeycomb de 8,5 pulgadas y sin suspensión, la lluvia exige rebajar el ritmo, porque el firme mojado y las bandas pintadas castigan a cualquier patinete ligero. Al llegar a casa conviene secar la base y el puerto de carga antes de enchufarlo, y no cargar nunca con el conector húmedo.
+
+La **app con bloqueo** suma una capa de seguridad cuando queda aparcado en la calle: inmoviliza el motor y registra trayectos, funciones poco habituales en patinetes de este precio en almacén europeo. Combinada con un candado físico para el mástil, es la protección razonable para un vehículo que vale 430 € y se pliega en segundos.
+
+## Guardarlo en casa: 12 kg que no estorban
+
+Plegado, el ES60 cabe en un armario de escobas o bajo una cama, y sus **12 kg** permiten subirlo a un quinto sin ascensor sin llegar arriba sin aliento. Esa facilidad de almacenaje, sumada a que no hay cámara que pinchar ni presión que vigilar, lo convierte en un electrodoméstico más de la casa: se guarda, se carga y se olvida hasta el siguiente trayecto.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Aovopro ES60?
@@ -868,7 +931,7 @@ Si lo encuentras por ~430 € con envío UE y buscas ligereza, sí. Si el precio
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://www.priceboon.com/product/aovopro-es60/>prueba del ES60 en Priceboon</a>.*`,
+*Fuentes: <a href=https://www.priceboon.com/product/aovopro-es60/>prueba del ES60 en Priceboon</a>., <a href=https://www.dgt.es>normativa de VMP en la DGT</a>*`,
   },
   // ─────────────────────────── EVERCROSS (7) ───────────────────────────
   {
@@ -943,6 +1006,33 @@ Sin certificado DGT verificado. Sus **~45 km/h** lo excluyen del VMP legal: **ha
 
 <img src=/media/patinetes/evercross-h5-3.webp alt=Evercross H5 con sillín en un camino urbano>
 
+## Sentado o de pie: el sillín lo cambia todo
+
+La mayoría de patinetes obligan a ir de pie, y ahí el H5 juega otra partida. Su **sillín desmontable con amortiguación** transforma trayectos de 8-10 km en algo asumible para espalda y piernas, y su **carga máxima de 150 kg** abre la puerta a riders que la mayoría de modelos dejan fuera por límite de peso. De pie, el comportamiento es el de un patinete potente más; sentado, se acerca a una minimoto urbana de baja velocidad.
+
+## Frente a su hermano mayor, el Evercross H7
+
+| Modelo | Batería | Autonomía declarada | Peso |
+|---|---|---|---|
+| Evercross H5 | 480 Wh | ≈40 km | ≈23,6 kg |
+| Evercross H7 | 720 Wh | 45 km | 25 kg |
+
+El propio análisis original lo resume: por unos 60 € más, el H7 suma batería (720 Wh) y certificación UL2272. En la <a href=/patinetes/evercross-h7/>ficha del Evercross H7</a> constan sus 45 km declarados y 25 kg. La elección es sencilla: si tus rutas rondan los 15 km reales, el H5 basta; si te acercas a su techo de autonomía a diario, el hermano mayor amortiza la diferencia.
+
+## Normativa VMP: lo que debes saber antes de rodar
+
+El H5 declara unos **45 km/h**, y eso lo sitúa fuera de la definición legal de VMP, limitada a **25 km/h**. Para circular por vías urbanas españolas hay que limitarlo electrónicamente a esa velocidad; ni siquiera limitado puede pisar aceras ni zonas peatonales. Además, la DGT exige **certificado de circulación** a los vehículos de movilidad personal comercializados desde enero de 2024, un requisito que este modelo no acredita según la ficha, y las ordenanzas municipales pueden añadir obligaciones como el casco. La <a href=https://www.dgt.es>Dirección General de Tráfico</a> publica la normativa vigente de VMP que conviene consultar antes de comprar.
+
+## Mantenimiento: sencillo, con dos puntos de control
+
+Las **ruedas macizas de 10 pulgadas** eliminan pinchazos y revisiones de presión, a cambio de filtrar peor el firme. La batería de 480 Wh agradece cargas parciales frecuentes y evitar descargas completas prolongadas. El doble freno de disco pide vigilar pastillas si se usa el modo sentado con carga elevada, porque el conjunto pesa más que un patinete al uso.
+
+**Veredicto:** el H5 merece la pena para riders corpulentos o con trayectos medios que valoran el sillín y los **800 W** por unos **490 €**; no es recomendable si necesitas subirlo a un piso a pulso (23,6 kg) o si buscas un VMP certificado sin trámites. Y recuerda: si la limitación de velocidad te tienta, las multas por exceso en patinete también se pueden analizar; mientras tanto, el <a href=/juego-monos/>juego caza-monos</a> no tiene límite de 25 por hora.
+
+## Cargar sus 480 Wh: rutinas que alargan la batería
+
+Una batería de **480 Wh** con el cargador de serie se llena en una sesión de varias horas, típicamente aprovechando la noche, y ese ritmo pausado es también el más amable para las celdas. Dos hábitos marcan la diferencia a largo plazo: no guardar el patinete semanas enteras con la batería agotada y evitar dejarlo enchufado de forma permanente tras completar la carga. Si el H5 va a dormir una temporada, lo ideal es aparcarlo con la carga en torno a la mitad y revisar el nivel cada mes y medio aproximadamente, recargando un poco si ha caído. La app, además del bloqueo y el control de crucero que cita la ficha, permite vigilar el estado de carga sin bajar al garaje.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Evercross H5?
@@ -965,7 +1055,7 @@ El H7 tiene más batería (720 Wh) y certificación UL2272 por ~60 € más. Si 
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://www.levyelectric.com/resources/evercross-electric-scooter-complete-guide-app-setup-review>guía Evercross en Levy Electric</a>.*`,
+*Fuentes: <a href=https://www.levyelectric.com/resources/evercross-electric-scooter-complete-guide-app-setup-review>guía Evercross en Levy Electric</a>., <a href=https://www.dgt.es>normativa de VMP en la DGT</a>*`,
   },
   {
     slug: "evercross-h7",
