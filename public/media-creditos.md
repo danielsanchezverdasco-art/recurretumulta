@@ -10030,3 +10030,14 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/benelli-trk-702x-2025-ficha-tecnica-precio-hunt3.webp | https://www.benelliswiss.ch/content/dam/moteo/benelli/categories-and-models/touring/trk-702-x/m3/gallery-be/Ben_TRK_702_X_M3_action_44_2560px.jpg/jcr:content/renditions/cq5dam.web.1920.1920.jpeg | Benelli (foto oficial, galería Benelli Swiss / Moteo) | desconocida |
 | /media/aprilia-esrz-hunt1.webp | https://lcdn.mediagalaxy.ro/media/catalog/product/t/r/troapresrz24_15_1a008504.jpg | Aprilia (foto de producto oficial) vía MediaGalaxy | desconocida |
 | /media/aprilia-esrz-hunt2.webp | https://image.datart.cz/foto/ilustrace/1000/9/4/2/product_6714249.jpg | Aprilia (foto de producto oficial) vía Datart | desconocida |
+| /media/toyota-camry-2025-precio-ficha-tecnica-hunt1.webp | https://static.android.com.pl/uploads/2025/11/test-toyota-camry-xv80-recenzja-opinia-473-1536x1024.jpg | Android.com.pl (prueba en Polonia) | desconocida |
+| /media/toyota-camry-2025-precio-ficha-tecnica-hunt2.webp | https://www.automachi.com/wp-content/uploads/2024/12/Toyota-Camry-15.jpg | Automachi / KLIMS 2024 | desconocida |
+| /media/toyota-camry-2025-precio-ficha-tecnica-hunt3.webp | https://static.android.com.pl/uploads/2025/11/test-toyota-camry-xv80-recenzja-opinia-392-1280x853.jpg | Android.com.pl (prueba en Polonia) | desconocida |
+| /media/aito-m9-huawei-ficha-tecnica-precio-hunt1.webp | https://paultan.org/image/2023/12/Huawei-Aito-M9-China-launch-10-1260x660.jpg | Paul Tan / Aito (foto oficial de lanzamiento) | desconocida |
+| /media/aito-m9-huawei-ficha-tecnica-precio-hunt2.webp | https://www.car250.com/wp-content/uploads/2023/10/M9-6-2048x1365.webp | Car250 / Dongchedi (foto de prensa) | desconocida |
+| /media/aito-m9-huawei-ficha-tecnica-precio-hunt3.webp | https://cdn2.chinesecars.me/wp-content/uploads/2026/05/Aito-M9-2026-13-1024x768.jpg | ChineseCars.me (Aito M9 2026) | desconocida |
+| /media/keeway-k-light-125-2025-ficha-tecnica-precio-hunt1.webp | https://bikes.motobank.co.uk/dmarket/98/m-1817-4655-98.jpg | Poole Moto / MotoGB (foto de concesionario) | desconocida |
+| /media/keeway-k-light-125-2025-ficha-tecnica-precio-hunt2.webp | https://swiatmotocykli.pl/wp-content/uploads/2021/01/Keeway-K-Light-125-04-lewy-bok.jpg | Świat Motocykli (prueba) | desconocida |
+| /media/keeway-k-light-125-2025-ficha-tecnica-precio-hunt3.webp | https://tmimg.cz/t/i/478/478727_23.jpg | TipMoto (foto de concesionario) | desconocida |
+| /media/lamborghini-al1-hunt1.webp | https://e-patinetes.es/wp-content/uploads/2024/07/Automobili-Lamborghini-AL1-Detalle-izquierda.jpg | e-patinetes.es / Automobili Lamborghini (foto de producto) | desconocida |
+| /media/lamborghini-al1-hunt2.webp | https://e-patinetes.es/wp-content/uploads/2024/07/Automobili-Lamborghini-AL1-Detalle-derecha.jpg | e-patinetes.es / Automobili Lamborghini (foto de producto) | desconocida |
