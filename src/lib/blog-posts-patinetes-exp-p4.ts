@@ -2380,6 +2380,39 @@ Sin certificado DGT verificado. Sus **40 km/h** de punta exigen **limitarlo a 25
 
 <img src=/media/patinetes/etwow-gt-se-3.webp alt=E-TWOW GT SE circulando por un carril bici>
 
+## Una marca rumana obsesionada con el peso
+
+E-TWOW —Electric Two Wheels— es un fabricante rumano que lleva años especializándose en una sola idea: patinetes eléctricos ligeros, plegables y con repuestos disponibles en Europa. Mientras buena parte de la competencia persigue potencia bruta, la gama GT apuesta por la relación entre autonomía y kilos, y el GT SE es su versión de gran fondo: la misma filosofía urbana, pero con una batería pensada para olvidarse del cargador durante varios días de trayectos cortos.
+
+## 504 Wh en 13,2 kg: la cuenta que de verdad importa
+
+| Magnitud del GT SE | Dato | Lectura honesta |
+|---|---|---|
+| Energía de la batería | 504 Wh Samsung | Mucha para un patinete de su peso |
+| Autonomía declarada | 50 km | Cifra de laboratorio a ritmo suave |
+| Autonomía real estimada | Unos 34 km | La referencia para planificar la semana |
+| Peso total | 13,2 kg | Subible a un piso sin ascensor sin dramas |
+| Tiempo de carga | 4 horas | Una noche corta o una jornada laboral |
+| Carga máxima admitida | 125 kg | Apto para conductores corpulentos |
+
+Dividir los vatios-hora entre los kilos da la densidad práctica del conjunto, y ahí el GT SE juega en otra liga frente a los urbanos de 20 kg: cada kilo que no cargas en las escaleras se agradece dos veces al día. Esos 34 km reales, repartidos en desplazamientos urbanos típicos de 5 a 8 km, equivalen a gran parte de la semana laboral sin enchufar.
+
+## Ruedas macizas de 8 pulgadas: el trueque explicado
+
+La rueda maciza elimina el pinchazo de la ecuación, que es la avería más frecuente del patinete urbano, y a cambio traslada dos peajes: menos agarre sobre mojado y una rodadura más seca sobre adoquines y rejillas. E-TWOW compensa el segundo con doble suspensión, de modo que el confort lo trabaja la amortiguación y no el neumático. El primero no lo compensa nadie: con lluvia, la prudencia manda reducir ritmo y evitar tapas de alcantarilla y pintura vial, que con goma maciza castigan más.
+
+## Qué exige la normativa española para circular con él
+
+Como vehículo de movilidad personal, el GT SE debe circular limitado a 25 km/h, por carriles bici y calzadas autorizadas, nunca por aceras. Los VMP comercializados en España deben contar con el certificado de circulación de la DGT, y este modelo declara no tenerlo verificado: antes de comprarlo de ocasión o importado conviene exigir el certificado y la factura, porque sin esa documentación el patinete puede quedar fuera de la legalidad aunque se limite la velocidad. El casco depende de la ordenanza de cada municipio, aunque sobre ruedas macizas es una recomendación difícil de discutir.
+
+## GT SE o Booster Sport: veredicto
+
+Dentro de la propia casa, el <a href=/patinetes/etwow-booster-sport/>E-TWOW Booster Sport</a> juega la carta del crucero y la agilidad, mientras el GT SE responde con la batería grande, como puedes comprobar en <a href=/patinetes/etwow-gt-se/>la ficha del GT SE</a>. **Veredicto:** es el E-TWOW de quien encadena varios días de ciudad sin cargar y valora el peso por encima de la velocidad punta; si tu trayecto es corto y diario, pagarás por una autonomía que no vas a exprimir. Para matar el rato en el tren de vuelta, nada como echar una partida al <a href=/juego-monos/>juego caza-monos</a>.
+
+## Plegado y combinado con tren o metro
+
+El GT SE se pliega en segundos y, con sus 13,2 kg, entra en la práctica de la intermodalidad mejor que la mayoría: cabe bajo el asiento de un cercanías, en el maletero de un coche compartido o junto a la puerta de la oficina sin estorbar. Eso sí, cada ayuntamiento regula el acceso de los VMP al transporte público y algunas ciudades lo restringen en horas punta, así que la combinación tren más patinete conviene confirmarla en la normativa local antes de convertirla en rutina.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el E-TWOW GT SE?
@@ -2402,7 +2435,7 @@ Revisar tornillería cada 1.000 km y tensar el cable del tambor cuando la maneta
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://www.amazon.com/dp/B09NRHB7C8>ficha del GT SE en Amazon</a> y <a href=https://manuals.plus/asin/B0FYLJM1DQ.pdf>manual oficial</a>.*`,
+*Fuentes: <a href=https://www.amazon.com/dp/B09NRHB7C8>ficha del GT SE en Amazon</a> y <a href=https://manuals.plus/asin/B0FYLJM1DQ.pdf>manual oficial</a>. Normativa oficial: <a href=https://www.dgt.es>DGT</a>.*`,
   },
   {
     slug: "etwow-gt-se-sport",
