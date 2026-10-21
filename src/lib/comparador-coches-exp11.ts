@@ -566,18 +566,18 @@ export const COCHES_EXP11: CocheComparador[] = [
     cargaRapidaKw: 300,
     etiquetaDgt: "Cero",
     pros: [
-      "329 CV traseros con 645 km de autonomía (ciclo CLTC)",
-      "Plataforma de 800 V con carga ultrarrápida de 300 kW",
-      "5 estrellas Euro NCAP (2025): 89 % en ocupante adulto",
-      "Dirección a las cuatro ruedas y chasis digital Lingxi",
-      "En Europa se vende como MG IM5 (Reino Unido)",
+      "El único motor impulsa el eje posterior y entrega 329 CV junto a 430 Nm, suficientes para firmar 5,9 segundos en el sprint hasta 100 km/h sin recurrir a tracción total",
+      "Su batería de 74 kWh anuncia 645 km bajo homologación china y admite recargas a 300 kW gracias a una arquitectura eléctrica pensada para parar muy poco tiempo en ruta",
+      "Pese a medir 4.931 mm de largo, gira y maniobra con una agilidad impropia de su tamaño porque las ruedas traseras también cambian de ángulo y el conjunto lo coordina el sistema Lingxi",
+      "Frente a un Tesla Model 3 o un BYD Seal de planteamiento parecido, aporta un plus de exclusividad: en el Viejo Continente su gemelo viste el logotipo de MG y responde al nombre de IM5 británico",
+      "El habitáculo para cinco ocupantes y un maletero de 457 litros lo sitúan como alternativa familiar creíble ante berlinas como el Hyundai Ioniq 6 o el Polestar 2"
     ],
     contras: [
-      "No se vende en España con la marca IM",
-      "La autonomía CLTC no es comparable al WLTP europeo",
-      "Sin precio oficial para Europa",
-      "Software y asistentes orientados al mercado chino",
-      "Red de servicio inexistente en España",
+      "Quien lo quiera en nuestro país hoy lo tiene imposible por la vía oficial, porque IM Motors carece de presencia comercial española y únicamente lo distribuye MG fuera de China bajo otra denominación",
+      "Los 645 km prometidos hay que leerlos con cautela, ya que proceden del ciclo CLTC oriental, bastante más optimista que el WLTP que utilizan aquí sus rivales directos",
+      "El importe de 26.600 euros que figura en esta ficha es orientativo, al no existir tarifa confirmada para ningún mercado español ni europeo continental",
+      "Basta sentarse dentro para notar su origen pensado para conductores chinos: menús, asistente vocal y servicios conectados responden a hábitos y aplicaciones de aquel mercado",
+      "Sin red propia de talleres ni recambios en España, cualquier avería o golpe se convertiría en un problema logístico serio, agravado por unos 1.960 mm de anchura que tampoco ayudan al aparcar en garajes estrechos"
     ],
     largoMm: 4931,
     anchoMm: 1960,
@@ -608,6 +608,22 @@ export const COCHES_EXP11: CocheComparador[] = [
       },
     ],
     analisisSlug: "im-l6-2026-precio-ficha-tecnica",
+  
+    planMantenimiento: {
+      "intervalo": "Cada 12 meses o 15.000 millas, lo que ocurra antes, en su versión europea MG IM5 (Reino Unido); revisión mayor cada 2 años o 30.000 km según el manual",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión periódica anual",
+          "queSeCambia": "Inspección general del vehículo según las instrucciones de mantenimiento del manual del MG IM5, sin coste en euros publicado para España"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión mayor bienal",
+          "queSeCambia": "Revisión mayor cada 2 años o 30.000 km e incluye el cambio del líquido de frenos, recomendado cada dos años en el manual del MG IM5"
+        }
+      ]
+    },
   },
   {
     id: "im-ls6-2025-precio-ficha-tecnica",
@@ -632,18 +648,18 @@ export const COCHES_EXP11: CocheComparador[] = [
     cargaRapidaKw: 105,
     etiquetaDgt: "Cero",
     pros: [
-      "Primera generación del LS6: 314 CV traseros y 560 km CLTC",
-      "5 estrellas Euro NCAP (2025): 90 % en ocupante adulto",
-      "En Europa se vende como MG IM6 con 7 años de garantía",
-      "Versiones hasta 787 CV con 100 kWh y 3,48 s de 0-100",
-      "Carga rápida de hasta 396 kW en las versiones de 100 kWh",
+      "Empuje contundente desde el eje posterior: 314 CV y 450 Nm para firmar el 0 a 100 en 5,9 segundos sin recurrir a doble motor",
+      "Pack de 71 kWh que declara 560 km por carga, cifra que lo coloca frente a Tesla Model Y y BYD Sealion 7 en la pelea familiar",
+      "Formato grande de verdad, con 4.904 mm de largo y 1.988 mm de ancho, pensado para viajar cinco ocupantes sin apreturas laterales",
+      "Recarga en corriente continua a 105 kW, suficiente para recuperar ritmo en una parada larga sin exigir cargadores exóticos",
+      "Tarifa orientativa de 26.400 euros en origen, muy por debajo de lo que piden Hyundai Ioniq 5 o Kia EV6 de planteamiento similar"
     ],
     contras: [
-      "Sustituido por la nueva generación (chasis por cable) en 2026",
-      "No se vende en España con la marca IM",
-      "La autonomía CLTC es optimista frente al WLTP",
-      "Software pensado para el mercado chino",
-      "Sin red de servicio IM en España",
+      "En España no lo compras como IM: la vía europea pasa por MG y eso difumina identidad, equipamiento y calendario frente al original chino",
+      "Los 560 km son bajo ciclo CLTC, así que en autovía española a ritmo real la cifra útil caerá de forma clara",
+      "Peso declarado de 2.150 kg que se nota en rotondas y frenadas repetidas, lejos de la agilidad que sugiere su aceleración",
+      "Ancho de 1.988 mm complicado en garajes antiguos y calles estrechas, un peaje diario frente a un Xpeng G6 más manejable en ciudad",
+      "Menús, asistentes y ecosistema digital nacieron para China: traducción, servicios conectados y actualizaciones fuera de allí quedan en interrogante"
     ],
     largoMm: 4904,
     anchoMm: 1988,
@@ -674,6 +690,32 @@ export const COCHES_EXP11: CocheComparador[] = [
       },
     ],
     analisisSlug: "im-ls6-2025-precio-ficha-tecnica",
+  
+    planMantenimiento: {
+      "intervalo": "1 año o 20.000 km, lo que ocurra primero",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "1er año / 20.000 km",
+          "queSeCambia": "Inspección regular completa e inspección de escobillas, frenos, neumáticos, batería de 12 V, líquido de frenos, refrigerante y unidad de accionamiento eléctrico; sustitución del elemento filtrante del A/C"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "2º año / 40.000 km",
+          "queSeCambia": "Inspección regular completa e inspección de escobillas, frenos, neumáticos, batería de 12 V, refrigerante y unidad de accionamiento eléctrico; sustitución del elemento filtrante del A/C y del líquido de frenos"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "3er año / 60.000 km",
+          "queSeCambia": "Inspección regular completa e inspección de escobillas, frenos, neumáticos, batería de 12 V, líquido de frenos, refrigerante y unidad de accionamiento eléctrico; sustitución del elemento filtrante del A/C"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "4º año / 80.000 km",
+          "queSeCambia": "Inspección regular completa e inspección de escobillas, frenos, neumáticos y batería de 12 V; sustitución del elemento filtrante del A/C, del líquido de frenos, del refrigerante, del filtro de succión y del fluido de la unidad de accionamiento eléctrico"
+        }
+      ]
+    },
   },
   {
     id: "im-ls7-2026-precio-ficha-tecnica",
@@ -698,18 +740,18 @@ export const COCHES_EXP11: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
-      "Facelift 2026: 408 CV traseros con batería de 100 kWh",
-      "680 km de autonomía CLTC con plataforma de 800 V",
-      "5 estrellas Euro NCAP (2025)",
-      "Dirección a las cuatro ruedas y chasis Lizard 2.0",
-      "El Ultra llega a 787 CV con 3,48 s de 0-100",
+      "La renovación de 2026 deja la propulsión en el eje trasero con 408 CV alimentados por un paquete de 100 kWh",
+      "Declara 680 km bajo el ciclo CLTC apoyándose en una arquitectura de 800 V orientada a acortar las paradas de recarga",
+      "Sus 5.049 mm de longitud y sus cinco plazas lo sitúan frente a SUV eléctricos grandes como el Tesla Model X o el NIO ES8, con un planteamiento claramente familiar",
+      "El chasis Lizard 2.0 incorpora dirección en el eje posterior, un recurso poco habitual en un todocamino de esta envergadura que facilita maniobrar",
+      "Por encima de esta versión queda el Ultra, con 787 CV declarados y un sprint de 3,48 s que lo acerca a deportivos eléctricos puros"
     ],
     contras: [
-      "No se vende en Europa con la marca IM",
-      "5,05 metros: un SUV enorme para ciudad",
-      "Sin precio oficial para el mercado europeo",
-      "La autonomía CLTC no equivale al WLTP",
-      "Sin red de servicio en España",
+      "En los concesionarios europeos no se comercializa bajo la enseña IM Motors, así que hacerse con uno aquí no es una compra directa",
+      "Medir 5.049 mm de largo y 2.002 mm de ancho lo convierte en un coche muy incómodo para garajes urbanos españoles y calles estrechas",
+      "Los 41.100 € que constan como referencia están marcados como aproximados: no existe una tarifa oficial para España que respalde esa cantidad",
+      "La cifra de alcance procede del ciclo chino CLTC, más optimista que el WLTP europeo, así que el dato comparable en nuestro mercado sería inferior",
+      "Quien lo traiga por importación particular se quedará sin talleres oficiales de la marca en España para revisiones, recambios o reclamaciones"
     ],
     largoMm: 5049,
     anchoMm: 2002,

@@ -1038,16 +1038,16 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     fuenteNombre: "Catálogo oficial Minimotors 2025",
     fuenteUrl: "https://minimotors.oss-eu-central-1.aliyuncs.com/upload/Product%20Catalogue%20-%202025.8.15.pdf",
     mantenimientoDIY: {
-      "aceiteTipo": "No aplica: carece de aceite de motor y de cadena; lleva motores de buje BLDC y frenos de disco",
-      "cadenaPasos": [
+      "intervaloRevision": "Revisión básica cada 3 meses; revisión completa cada 6 meses o 500 km; revisión anual al año o a los 3.000 km, según el programa de mantenimiento Dualtron",
+      "presionNeumaticos": "50 PSI",
+      "trucos": [
         "Deja los neumáticos de 10 pulgadas a 50 psi, el valor indicado en el manual específico de este modelo, y revisa cortes o desgaste acusado",
         "Comprueba el tacto de ambas manetas, el estado de las pastillas y que ningún disco roce al girar las ruedas en vacío",
         "Reaprieta la tornillería del mástil, del manillar y del mecanismo de plegado, que sufre mucha vibración con el uso",
         "Inspecciona los cartuchos de suspensión delanteros y traseros y lubrica o sustituye el elemento si pierde suavidad",
         "Carga la batería solo entre 0 y 40 °C según el manual, sin dejarla agotada por completo ni enchufada sin vigilancia",
         "Si vas a guardarlo tres meses o más, déjalo en un sitio seco y a temperatura ambiente, lejos del sol directo"
-      ],
-      "intervaloMantenimiento": "Revisión básica cada 3 meses; revisión completa cada 6 meses o 500 km; revisión anual al año o a los 3.000 km, según el programa de mantenimiento Dualtron"
+      ]
     },
   },
   {
@@ -1291,17 +1291,18 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     fuenteNombre: "Catálogo oficial Minimotors 2025",
     fuenteUrl: "https://minimotors.oss-eu-central-1.aliyuncs.com/upload/Product%20Catalogue%20-%202025.8.15.pdf",
     mantenimientoDIY: {
-      "aceiteTipo": "Sin aceite de motor ni cadena: la tracción la dan los motores de buje. El freno hidráulico usa aceite mineral BK407 y su sustitución, si baja el rendimiento de frenada, corresponde al servicio autorizado según el manual.",
-      "cadenaPasos": [
+      "intervaloRevision": "Revisiones cada 3 meses; control más completo cada 6 meses o 500 km y revisión al año o a los 3.000 km, según el programa de mantenimiento de los manuales Dualtron (plataforma EY4).",
+      "presionNeumaticos": "50 PSI",
+      "trucos": [
         "Antes de salir: comprueba acelerador, manetas, luces y que el plegado no tenga holguras; cualquier tornillo flojo en dirección o plegado se reaprieta antes de rodar.",
         "Neumáticos de 10x2,5 pulgadas con cámara a 50 psi, la presión indicada en el manual específico del Spider Max; revisa también cortes, deformaciones y desgaste de la banda de rodadura.",
         "Frenos hidráulicos con discos de 140 mm: vigila el grosor de las pastillas, que el disco gire sin roces y que las manetas no se noten esponjosas; si ocurre, deja de usarlo y acude al servicio técnico.",
         "Tornillería de manillar y potencia con el par orientativo de 6 a 8 N·m que recoge el programa de mantenimiento Dualtron; revisa igualmente los tornillos del mecanismo de plegado.",
         "Batería de 1.800 Wh (60 V y 30 Ah): cárgala solo entre 0 y 40 ºC según el manual, no la desmontes y, si vas a guardarlo una temporada larga, recárgala una vez cada 60 días.",
         "Limpieza con un paño suave y húmedo sobre la unidad principal, sin chorros de agua a presión sobre motores, conectores ni pantalla EY4.",
-        "Firmware y ajustes desde la app Dualtron por Bluetooth con la pantalla EY4, tal como ya recoge la ficha."
-      ],
-      "intervaloMantenimiento": "Revisiones cada 3 meses; control más completo cada 6 meses o 500 km y revisión al año o a los 3.000 km, según el programa de mantenimiento de los manuales Dualtron (plataforma EY4)."
+        "Firmware y ajustes desde la app Dualtron por Bluetooth con la pantalla EY4, tal como ya recoge la ficha.",
+        "El freno hidráulico usa aceite mineral BK407; su sustitución, si baja el rendimiento de frenada, corresponde al servicio autorizado según el manual."
+      ]
     },
   },
   {
@@ -1383,22 +1384,31 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "2800 W nominales y 120 km declarados en 41,7 kg",
-      "Batería Samsung de 60 V y 35 Ah (2100 Wh)",
-      "Tubeless anchas de 11\" e hidráulicos + ABS y EBS",
-      "Suspensión de cartucho delantera y trasera reemplazable",
+      "Doble motor que entrega 2.800 W nominales: sale disparado desde parado y sostiene la velocidad sin desfallecer en rampas exigentes",
+      "El paquete de 2.100 Wh promete hasta 120 km por carga, con unos 78 km reales que ya permiten olvidarse del enchufe durante días",
+      "Detenerse transmite seguridad: circuito hidráulico en ambas ruedas, ayudado por ABS junto con frenada regenerativa EBS para acortar metros",
+      "Rueda generosa de 11 pulgadas sin cámara, combinada con cartuchos intercambiables delante y detrás que dejan ajustar dureza al gusto"
     ],
     contras: [
-      "A la sombra del Thunder en imagen",
-      "Sin precio oficial en España",
-      "41,7 kg: sigue siendo pesado",
+      "No lo des por legal en la calle: en su ficha no consta certificado DGT y entrega 2.800 W nominales, perfil que en España deja fuera de la vía pública a un Dualtron tan potente",
+      "Moverlo a mano cansa enseguida: sus 41,7 kg complican subirlo a un piso, guardarlo en un maletero o salvar escaleras a diario",
+      "Comprarlo aquí exige buscar importador: la marca no publica tarifa oficial española para esta versión, así que el importe final cambia según tienda",
+      "La autonomía anunciada choca con la práctica: frente a los 120 km de catálogo, la estimación real baja hasta 78 km por carga"
     ],
     veredicto:
-      "El Achilleus es el Dualtron sensato de gama alta: 2800 W, 120 km declarados y 41,7 kg. Potencia seria sin llegar a los excesos del Thunder.",
+      "Fuera de la vía pública ofrece el equilibrio buscado: empuja fuerte, frena con solvencia y recorre muchos kilómetros por carga, a cambio de cargar 41,7 kg y aceptar que no hay tarifa oficial española.",
     fuenteNombre: "Catálogo oficial Minimotors 2025",
     fuenteUrl: "https://minimotors.oss-eu-central-1.aliyuncs.com/upload/Product%20Catalogue%20-%202025.8.15.pdf",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Dualtron (Bluetooth, display EY4)",
+      "intervaloRevision": "Antes de cada salida, comprobaciones del manual del Achilleus (acelerador, frenos, presión y tornillería del plegado); revisión periódica de consumibles y ciclos de sustitución del manual: bisagra superior a los 2 años o 10.000 km y batería a los 2 años o 20.000 km",
+      "trucos": [
+        "Deja ambas cubiertas sin cámara de 11 pulgadas entre 45 y 50 psi, tal como marca el manual, y busca cortes, deformaciones o desgaste irregular antes de rodar",
+        "Acciona dos o tres veces el acelerador comprobando que vuelve solo, aprieta las manetas para notar firmeza y revisa pastillas, posibles fugas hidráulicas y estado del disco",
+        "Reaprieta tuercas y tornillos de manillar, cierre QR, bisagra de plegado y brazos basculantes; el distribuidor pide este control de tornillería y frenos al menos una vez al mes, porque la vibración y el ABS tienden a aflojarlos",
+        "Limpia los discos con un paño seco y limpio si suena un silbido al frenar, girando la rueda para repasar toda la superficie antes de decidirte a acudir al servicio técnico",
+        "Cuida el bloque de litio sin abrirlo jamás: carga solo con el cargador original, en sitio seco y ventilado, y si lo guardas más de tres meses déjalo entre el 70 y el 80 % y consérvalo seco entre 10 y 20 °C",
+        "Vigila cartuchos de suspensión, rodamientos, ruedas y piezas del plegado como consumibles; respeta los ciclos del manual y sustituye cualquier pieza deformada o agrietada en servicio autorizado"
+      ]
     },
   },
   {
@@ -2052,22 +2062,30 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "Novedad 2026: diseño renovado con IP66",
-      "1900 W de pico y 65 km declarados",
-      "Doble tambor: frenada fiable y de bajo mantenimiento",
-      "Neumáticos Flatproof autorreparables de 10\"",
+      "Carrocería revisada para 2026 con sellado IP66 frente a salpicaduras y polvo",
+      "Empuje de hasta 1900 W en punta para superar rampas urbanas sin apuros",
+      "Frenar resulta sencillo de mantener gracias a sus dos tambores y al apoyo regenerativo",
+      "Cubiertas de 10 pulgadas con sellante interno que tapona pinchazos pequeños al instante"
     ],
     contras: [
-      "Potencia nominal no publicada por Apollo",
-      "33 kg: mejorable para un urbano",
-      "Precio en España no publicado",
+      "Apollo no facilita la potencia nominal, solo declara la de pico, así que comparar resulta confuso",
+      "Con 33 kg en báscula cuesta cargarlo en escaleras o meterlo en un maletero",
+      "Todavía no consta tarifa oficial para comprarlo en España, lo que impide valorar su compra"
     ],
     veredicto:
-      "El City 2.0 es la renovación 2026 del urbano de Apollo: 1900 W de pico, IP66 y 65 km declarados. El commuter premium canadiense.",
+      "Para trayectos diarios exigentes, este Apollo de 2026 combina 864 Wh, unos 42 km útiles y 120 kg de carga admitida, a cambio de cargar con 33 kg.",
     fuenteNombre: "PR Newswire (lanzamiento Apollo 2026)",
     fuenteUrl: "https://www.prnewswire.com/news-releases/apollo-launches-its-2026-lineup-302538105.html",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Apollo (iOS/Android)",
+      "intervaloRevision": "Revisión completa cada 6 meses, según el manual de usuario Apollo City: presión de neumáticos, ajuste de frenos, apriete de tornillería y lubricación de rodamientos y suspensión",
+      "trucos": [
+        "Comprobar la presión y dejarla en 45 PSI en ambas ruedas, valor indicado en el manual de Apollo",
+        "Ajustar los frenos de tambor y comprobar que la retención regenerativa actúa al decelerar",
+        "Reapretar toda la tornillería visible, aplicando fijador azul donde el manual lo indique si alguna pieza se afloja",
+        "Limpiar y lubricar rodamientos y suspensión con grasa de litio en spray",
+        "Guardar el patinete a cubierto y cuidar su batería de 864 Wh evitando dejarlo descargado durante periodos largos",
+        "Actualizar el firmware desde la app Apollo para iOS y Android cuando la aplicación lo avise"
+      ]
     },
   },
   {
@@ -2100,22 +2118,31 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "Novedad 2026: doble motor con 2700 W de pico",
-      "El City más potente manteniendo el formato urbano",
-      "IP66 y Flatproof autorreparables de 10\"",
-      "Intermitentes y doble suspensión",
+      "Dos motores repartiéndose el trabajo y un pico declarado de 2700 W para arrancar con mucha soltura",
+      "Su batería de 864 Wh promete hasta 60 km por carga, con 39 km reales estimados en la ficha",
+      "Ruedas de 10 pulgadas con cubierta que sella sola los pinchazos, pensadas para no detener tu trayecto",
+      "Incorpora intermitentes para señalizar giros y suspensión en los dos ejes, algo poco habitual en su formato"
     ],
     contras: [
-      "Potencia nominal no publicada",
-      "37,5 kg para un urbano",
-      "Precio en España no publicado",
+      "Con 37,5 kg en báscula, moverlo a pulso por escaleras se vuelve una tarea realmente pesada",
+      "Apollo todavía no publica su potencia nominal, y tampoco hay precio oficial confirmado para España",
+      "El campo de certificado DGT aparece vacío, así que su homologación como VMP no consta en esta ficha"
     ],
     veredicto:
-      "El City Stellar lleva el doble motor al formato City 2026: 2700 W de pico y 60 km declarados. El urbano premium con nervio.",
+      "La Stellar lleva la saga City a su versión más musculosa en 2026: segundo motor, 2700 W de pico y planteamiento urbano premium, lastrada por su peso y por no constar certificación DGT publicada.",
     fuenteNombre: "PR Newswire (lanzamiento Apollo 2026)",
     fuenteUrl: "https://www.prnewswire.com/news-releases/apollo-launches-its-2026-lineup-302538105.html",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Apollo (iOS/Android)",
+      "intervaloRevision": "Puesta a punto cada 6 meses, según el manual de usuario Apollo City: revisión de presión de neumáticos, ajuste de frenos, reapriete de tornillería, lubricación de rodamientos y de suspensión",
+      "trucos": [
+        "Comprobar la presión de los neumáticos de 10 pulgadas y ajustarla a los 45 PSI que el manual Apollo City marca como presión ideal para los patinetes Apollo",
+        "Revisar el tacto y el ajuste de los dos frenos de tambor y comprobar que el freno regenerativo actúa al soltar el acelerador",
+        "Reapretar toda la tornillería visible de manillar, mástil y ejes, usando fijatornillos azul donde lo indique el manual",
+        "Limpiar los rodamientos y aplicar grasa de litio en spray, haciendo girar la rueda para repartirla; repetir la operación en la suspensión",
+        "Cuidar la batería de 864 Wh evitando dejarla descargada durante periodos largos y cargándola siempre en un lugar seco y ventilado",
+        "Inspeccionar las cubiertas autorreparables en busca de cortes o objetos clavados y retirar cualquier resto antes de seguir rodando",
+        "Actualizar el firmware desde la app Apollo (iOS/Android) cuando la aplicación avise de una versión nueva"
+      ]
     },
   },
   {
@@ -2148,22 +2175,29 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "Doble motor de 500 W (2000 W de pico) y 69 km declarados",
-      "IP66 y tubeless autorreparables de 10\"",
-      "App Apollo con navegación y antirrobo",
-      "29,5 kg: razonable para un dual",
+      "Tracción en ambos ejes gracias a sus dos propulsores, que suman 1.000 W nominales y entregan 2.000 W en puntas",
+      "La batería de 960 Wh promete hasta 69 km por carga, aunque el uso cotidiano se queda en torno a 45 km",
+      "Cubiertas de 10 pulgadas sin cámara que se sellan solas ante perforaciones pequeñas y protegen mejor frente a pinchazos",
+      "Desde el móvil puedes consultar rutas, bloquearlo a distancia y localizarlo si alguien lo mueve sin permiso"
     ],
     contras: [
-      "Doble tambor con 2000 W de pico: justo",
-      "Precio en España no publicado",
-      "La gama 2026 lo deja como modelo anterior",
+      "Frenar depende de dos tambores más la retención regenerativa, conjunto justo cuando aprovechas los 2.000 W de pico en bajadas",
+      "En el mercado español no consta tarifa oficial, así que comparar su coste frente a rivales resulta complicado",
+      "Quedó desplazado por la renovación posterior de la familia City y su ficha no recoge certificado DGT, dato a verificar antes de circular en España"
     ],
     veredicto:
-      "El City Pro 2024 es el dual urbano equilibrado de Apollo: 2000 W de pico, 69 km declarados e IP66. Una apuesta segura de la marca canadiense.",
+      "Si buscas la versión con doble tracción dentro de la familia City, esta Pro de 2024 destaca por repartir el empuje entre ambas ruedas, sostener 120 kg de carga y mantener un peso de 29,5 kg sin renunciar a una batería generosa de 960 Wh.",
     fuenteNombre: "ReviewMyPlay (ficha técnica)",
     fuenteUrl: "https://reviewmyplay.com/electric-scooter/apollo-city-pro-2024/",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Apollo (iOS/Android)",
+      "intervaloRevision": "Cada 6 meses según el manual de la gama City: revisión de presión de neumáticos, frenos, tornillería, rodamientos y suspensión",
+      "trucos": [
+        "Comprobar con bomba eléctrica la presión de ambas ruedas y ajustarla a 45 PSI, valor indicado en el manual para la gama City",
+        "Probar los dos frenos de tambor y el apoyo regenerativo, y ajustar su tacto si la distancia de detención se alarga",
+        "Reapretar la tornillería principal y aplicar fijador azul tipo Loctite en los puntos que presenten holgura",
+        "Limpiar y lubricar rodamientos y elementos de la suspensión con grasa de litio en spray",
+        "Actualizar el firmware desde la app de Apollo y revisar el estado de la batería de 960 Wh antes de periodos largos sin uso"
+      ]
     },
   },
   {

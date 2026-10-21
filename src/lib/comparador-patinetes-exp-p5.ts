@@ -1203,19 +1203,19 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
-      "Doble motor de 2 x 500 W: el doble motor más barato de Gotrax (desde 799 $)",
-      "51 km declarados",
-      "Doble disco y construcción robusta",
-      "2 años de garantía",
+      "Tracción integral con dos motores que suman 1.000 W nominales",
+      "Promete 51 km por carga; en uso real, unos 35 km",
+      "Disco en cada eje y neumáticos todoterreno de 10\"",
+      "Respaldo del fabricante durante dos años"
     ],
     contras: [
-      "En España limitado a 25 km/h",
-      "Sin distribución oficial en Europa",
-      "Peso y batería no publicados",
-      "Menos refinado que el GX1",
+      "Sin certificado DGT consignado: no lo des por válido para vía pública en España, aunque su punta sea 25 km/h",
+      "La marca no vende directamente en Europa",
+      "Peso total y capacidad en Wh quedan sin informar",
+      "Acabados un escalón por debajo del GX1"
     ],
     veredicto:
-      "El doble motor de acceso: 2 x 500 W por menos de 800 $. Si el GX1 se te va de precio y quieres tracción total, este es el atajo.",
+      "Si buscas estrenarte en la tracción total sin saltar al GX1, el GX Zero lo pone fácil: conjunto sencillo, fuerza de sobra y planteamiento pensado para pistas tranquilas.",
     fuenteNombre: "Gotrax (web oficial)",
     fuenteUrl: "https://gotrax.com/collections/best-sellers",
     mantenimientoDIY: {
@@ -1269,21 +1269,21 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
-      "Doble motor de 2 x 1.000 W: el más potente de Gotrax",
-      "97 km declarados, la mayor autonomía de la marca",
-      "Ruedas todoterreno de 11\"",
-      "Doble disco y 2 años de garantía",
-      "Carga máxima de 136 kg",
+      "Tracción en ambos ejes gracias a dos motores que suman 2.000 W nominales",
+      "Recorrido teórico que alcanza los 97 km, cifra poco habitual entre patinetes",
+      "Cubiertas de 11 pulgadas con taco pensado para salir del asfalto",
+      "Frenada apoyada en un disco para cada rueda, delante y detrás",
+      "Plataforma capaz de soportar conductores de hasta 136 kg"
     ],
     contras: [
-      "En España solo legal limitado a 25 km/h: potencia totalmente capada",
-      "Sin distribución oficial en Europa",
-      "Peso no publicado; será muy pesado",
-      "Precio alto (1.649 $) para un uso capado",
-      "Es más una moto ligera que un VMP urbano",
+      "Aunque figura limitado a 25 km/h, su potencia de 2.000 W y la falta de certificado DGT impiden tratarlo como VMP legal en España",
+      "La marca carece de red comercial propia en el mercado europeo, lo que complica compra y recambios",
+      "La ficha deja en blanco cuánto pesa, dato clave en un aparato de este tamaño",
+      "El desembolso resulta elevado si al final solo podrás aprovecharlo recortado o fuera de la calle",
+      "Por empuje y enfoque campero encaja más como vehículo de ocio en espacios privados que como transporte diario urbano"
     ],
     veredicto:
-      "La bestia de Gotrax: 2 x 1.000 W y 97 km declarados. Impresionante sobre el papel, pero en España su potencial no se puede usar legalmente en vía pública.",
+      "El GX3 apuesta todo al músculo y a rodar lejos del asfalto, con 65 km reales estimados frente a los 97 km anunciados. Esa ambición choca en España con su encaje legal, porque sin certificado DGT no es un patinete urbano al uso.",
     fuenteNombre: "Gotrax (web oficial)",
     fuenteUrl: "https://gotrax.com/collections/best-sellers",
     mantenimientoDIY: {

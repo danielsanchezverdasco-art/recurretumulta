@@ -337,18 +337,18 @@ export const COCHES_EXP8: CocheComparador[] = [
     emisionesCo2: null,
     aprox: [],
     pros: [
-      "2.0 BlueHDi de 180 CV con 400 Nm: el Expert más capaz con carga",
-      "Caja automática EAT8 disponible para trabajo intensivo",
-      "Hasta 6,6 m³ de volumen de carga en versión larga",
-      "Autonomía diésel para rutas largas sin parar a repostar",
-      "Plataforma probada compartida con Citroën Jumpy y Opel Vivaro",
+      "Reserva de fuerza para trabajar cargado a diario: 180 CV y 400 Nm dan margen en incorporaciones, adelantamientos y rampas de garaje",
+      "Comparte esqueleto con sus gemelas de Stellantis, así que recambios y talleres acostumbrados a esta familia no escasean cuando toca seguir facturando",
+      "El gasóleo encaja en jornadas repartidas entre varias localidades: repostas en minutos y sigues la ruta sin depender de un cargador en la nave",
+      "Cabina pensada para cuadrillas cortas: tres plazas delanteras permiten llevar a dos ayudantes sin recurrir a un segundo vehículo en desplazamientos cercanos",
+      "Fuera del horario laboral también sirve como base discreta para escapadas, con caja útil para bicis, material deportivo o una camperización ligera"
     ],
     contras: [
-      "Etiqueta C: vetado en un futuro en las ZBE más estrictas",
-      "Precio superior al de las versiones de 120 y 145 CV",
-      "El E-Expert es más barato de usar si hay recarga en base",
-      "Dimensiones que exigen huecos grandes para aparcar",
-      "Mantenimiento diésel más caro que el de un eléctrico",
+      "Con distintivo C queda en desventaja cuando una zona de bajas emisiones endurezca el acceso: para repartir a diario en centros muy restringidos conviene pensarlo antes",
+      "Es la variante diésel de mayor empuje y eso se paga: quien solo mueva bultos ligeros por ciudad amortizará antes una opción menos potente",
+      "Toda la fuerza pasa al eje delantero; con la caja muy cargada y el firme mojado, en salidas en cuesta puede faltar agarre",
+      "Ser diésel implica convivir con filtro de partículas y AdBlue: los trayectos ultracortos repetidos no le sientan bien ni abaratan las visitas al taller",
+      "En callejones y muelles estrechos se nota su condición de mediana: maniobrar marcha atrás sin ayuda puede volverse lento en entregas con prisa"
     ],
     imagen: "/media/peugeot-expert-20-bluehdi-180-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/peugeot-expert-20-bluehdi-180-2026-precio-ficha-tecnica-oficial.webp",
@@ -356,6 +356,17 @@ export const COCHES_EXP8: CocheComparador[] = [
     videoId: null,
     videoCanal: null,
     analisisSlug: "peugeot-expert-20-bluehdi-180-2026-precio-ficha-tecnica",
+  
+    planMantenimiento: {
+      "intervalo": "Cada 20.000 km o 1 año, lo que ocurra primero, en uso no severo",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión periódica",
+          "queSeCambia": "Cambio de aceite motor y filtro de aceite, diagnóstico electrónico, controles de seguridad y de desgaste, reposición de niveles si hace falta y actualización del indicador de mantenimiento, según describe Peugeot España para sus revisiones oficiales"
+        }
+      ]
+    },
   },
   {
     id: "peugeot-3008-12-hybrid-136-2025-precio-ficha-tecnica",
@@ -487,18 +498,18 @@ export const COCHES_EXP8: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["largoMm"],
     pros: [
-      "2.2 BlueHDi de 180 CV con 450 Nm: el Jumper más musculoso",
-      "Caja automática AT8 de 8 marchas disponible",
-      "Hasta 17 m³ de volumen y 5 toneladas de MMA en chasis",
-      "Autonomía diésel para rutas nacionales sin repostar",
-      "Red Citroën de profesionales en toda España",
+      "450 Nm de par para mover carga pesada con soltura, adelantar sin apuros y subir puertos sin quedarse clavado",
+      "Dentro de la saga de furgones grandes del grupo Stellantis, esta versión ocupa el escalón diésel con más empuje",
+      "La carrocería larga facilita cargar palés, tableros o motos, y también deja una camper con cama fija y garaje trasero",
+      "Con caja automática, los trayectos largos y el tráfico de circunvalaciones se hacen bastante menos cansados para quien conduce",
+      "Siendo diésel, resuelve jornadas de muchos kilómetros sin depender de buscar un enchufe libre a mitad de ruta"
     ],
     contras: [
-      "Etiqueta C: futuro incierto en ZBE urbanas",
-      "El ë-Jumper es más barato de operar con recarga en base",
-      "Tamaño máximo: exige experiencia para maniobrar",
-      "Mantenimiento y AdBlue propios del diésel moderno",
-      "Precio superior a las versiones de 140 CV",
+      "Llevar distintivo C deja dudas reales si tu trabajo entra cada día en zonas de bajas emisiones con restricciones crecientes",
+      "Casi seis metros de largo complican aparcar en centro urbano, girar en calles estrechas y entrar en algunos parkings",
+      "Cabina de solo tres plazas: no sirve para llevar cuadrillas más amplias sin pasar a otra configuración de carrocería",
+      "Toca convivir con AdBlue, regeneraciones del filtro y revisiones de un diésel actual, gastos que un eléctrico con base propia evita",
+      "Pagar el escalón de 180 CV solo compensa si realmente aprovechas su par; para reparto ligero y cercano, sobra potencia"
     ],
     imagen: "/media/citroen-jumper-22-bluehdi-180-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/citroen-jumper-22-bluehdi-180-2026-precio-ficha-tecnica-oficial.webp",
@@ -506,6 +517,27 @@ export const COCHES_EXP8: CocheComparador[] = [
     videoId: null,
     videoCanal: null,
     analisisSlug: "citroen-jumper-22-bluehdi-180-2026-precio-ficha-tecnica",
+  
+    planMantenimiento: {
+      "intervalo": "Cada 48.000 km o 2 años, lo que ocurra antes, según el plan de mantenimiento de la familia Boxer/Jumper; el testigo del cuadro puede adelantar el cambio de aceite si detecta degradación del lubricante en uso severo",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión periódica",
+          "queSeCambia": "Aceite de motor y filtro de aceite en cada cambio de aceite, con controles de frenos, dirección, estanqueidad de circuitos, niveles y sistema AdBlue/SCR"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Líquido de frenos",
+          "queSeCambia": "Sustitución del líquido de frenos cada 2 años, según el manual del Jumper"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Filtros de habitáculo y aire",
+          "queSeCambia": "Sustitución según plan del fabricante y entorno de uso; el manual indica duplicar la frecuencia en ambientes polvorientos o conducción urbana intensiva"
+        }
+      ]
+    },
   },
   {
     id: "citroen-c4-12-puretech-130-2025-precio-ficha-tecnica",
@@ -1037,18 +1069,18 @@ export const COCHES_EXP8: CocheComparador[] = [
     emisionesCo2: null,
     aprox: [],
     pros: [
-      "2.0 diésel de 180 CV con 400 Nm: el Vivaro más capaz",
-      "Caja automática de 8 marchas disponible",
-      "Hasta 6,6 m³ de carga y 1.400 kg de carga útil",
-      "Cabina con 3 plazas y buen confort de marcha",
-      "Autonomía diésel para rutas largas",
+      "Es la opción gasóleo con más músculo de la familia: sus 180 CV y 400 Nm mueven la furgoneta cargada sin sensación de ir forzada en puertos ni incorporaciones.",
+      "El cambio automático de ocho velocidades le quita trabajo al conductor en reparto interurbano y atascos, donde tirar de palanca cansa mucho antes de acabar la jornada.",
+      "Tras la mampara caben hasta 6,6 m³ y la carga útil llega a 1.400 kg, margen real tanto para paquetería voluminosa como para una camperización sin apurar pesos.",
+      "Delante viajan tres ocupantes en un puesto pensado para jornadas enteras, la carta de esta mediana frente a rivales como Transit Custom o Transporter y frente a sus hermanas de grupo, de las que se separa por imagen y red de Opel.",
+      "Frente a su gemela eléctrica, aquí repostas en minutos y sigues ruta, algo decisivo para quien encadena días lejos de un enchufe en la base."
     ],
     contras: [
-      "Etiqueta C frente al Vivaro eléctrico con Cero",
-      "Precio superior a las versiones de 120 y 145 CV",
-      "Dimensiones medias que exigen hueco para aparcar",
-      "Mantenimiento diésel más caro que el eléctrico",
-      "Eléctrico más rentable si hay recarga en base",
+      "Su distintivo ambiental es C, así que en zonas restringidas queda por detrás de la versión de baterías, que luce la etiqueta Cero.",
+      "Pagarás más por esta potencia que por los escalones inferiores de la misma gama, y solo compensa si de verdad aprovechas el empuje extra a plena carga.",
+      "No es una compacta disfrazada: su tamaño mediano complica aparcar en centros urbanos estrechos y entrar en garajes antiguos pensados para turismos.",
+      "Mantener un diésel moderno implica aceite, filtros y sistema anticontaminación, una factura recurrente que la eléctrica esquiva en buena parte.",
+      "Si tus rutas son cortas, previsibles y siempre duerme en la misma nave, la hermana eléctrica probablemente te salga más barata por kilómetro recorrido."
     ],
     imagen: "/media/opel-vivaro-20-diesel-180-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/opel-vivaro-20-diesel-180-2025-precio-ficha-tecnica-oficial.webp",
@@ -1056,6 +1088,17 @@ export const COCHES_EXP8: CocheComparador[] = [
     videoId: null,
     videoCanal: null,
     analisisSlug: "opel-vivaro-20-diesel-180-2025-precio-ficha-tecnica",
+  
+    planMantenimiento: {
+      "intervalo": "Cada año o cada 30.000 km, según la recomendación oficial de Opel España; la marca pide confirmar el intervalo exacto de esta versión en el manual del propietario",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión periódica oficial Opel",
+          "queSeCambia": "Sustitución del filtro de aceite y del filtro del habitáculo, revisión de la batería, cambio del líquido de frenos e inspección funcional de carrocería, neumáticos, escape, frenos, motor, chasis, luces y electrónica, según los puntos publicados por Opel España para su servicio de inspección"
+        }
+      ]
+    },
   },
   {
     id: "opel-movano-22-diesel-180-2025-precio-ficha-tecnica",

@@ -1078,16 +1078,16 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: null,
     pros: [
-      "80,3 kWh: 500 km eléctricos CLTC, récord en un EREV",
-      "1.300 km de autonomía total",
-      "536 CV (400 kW) con arquitectura de 800 V",
-      "SUV insignia de 5,25 m",
+      "Lleva una batería de 80,3 kWh enorme para un extensor de autonomía, así que cubre la rutina diaria como eléctrico puro durante 500 km CLTC sin arrancar gasolina",
+      "Estrena la serie D por todo lo alto: carrocería de 5.250 mm pensada para medirse con BMW X7 y Mercedes-Benz GLS sin complejos",
+      "Entrega 536 CV con tracción total y red de 800 V, una combinación que lo acerca a eléctricos puros caros más que a híbridos enchufables al uso",
+      "Precio estimado desde 27.400 euros para un buque insignia que en China reta directamente a Li Auto L9 y Zeekr 9X con mucho más equipamiento por euro"
     ],
     contras: [
-      "Sin fecha de lanzamiento ni precio",
-      "El peso de la doble mecánica penaliza la eficiencia",
-      "No confirmado para Europa",
-      "500 km en ciclo CLTC: el WLTP equivalente sería menor",
+      "Su llegada a concesionarios españoles sigue sin anuncio oficial, así que hoy comprarlo aquí es imposible y toca esperar a que Stellantis lo confirme",
+      "Los 500 km anunciados salen del ciclo chino CLTC, bastante generoso: en homologación WLTP la cifra real caería de forma sensible",
+      "Mantener dos sistemas propulsores completos encarece revisiones y averías, y rodar con la batería vacía dispara el gasto frente a un eléctrico puro equivalente",
+      "Con 5.250 mm de largo aparcarlo en garajes urbanos españoles será una faena diaria, y su valor de reventa como marca aún joven es una incógnita"
     ],
     largoMm: 5250,
     anchoMm: null,

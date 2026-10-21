@@ -32,18 +32,18 @@ export const COCHES_AIXAM: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
-      "Cuadriciclo ligero L6e: se conduce desde los 15 años con el permiso AM",
-      "100 % eléctrico con etiqueta Cero: acceso libre a todas las ZBE",
-      "Batería de 5,1 kWh que se recarga en un enchufe doméstico convencional",
-      "Maletero de 700 litros, excepcional para su tamaño",
-      "Solo 2,76 m de largo: aparca en cualquier hueco de la ciudad",
+      "Con el permiso AM basta para conducirlo a partir de los 15, porque está homologado como cuadriciclo ligero L6e",
+      "Propulsión totalmente eléctrica y distintivo Cero de la DGT, así que entra sin restricciones en las zonas de bajas emisiones",
+      "Su pack de 5,1 kWh se enchufa en casa como un electrodoméstico, sin necesidad de instalar un punto específico",
+      "Sorprende el volumen trasero: 700 litros para la compra semanal o las mochilas, impensable en un Citroën Ami",
+      "Frente a un Ligier JS50 o un Microcar Dué, su carta es moverse en silencio, y con 2,76 metros se cuela en cualquier hueco"
     ],
     contras: [
-      "Velocidad limitada a 45 km/h por homologación L6e",
-      "Autonomía de 90 km: solo uso urbano y periurbano",
-      "Sin carga rápida en corriente continua",
-      "Precio alto para un cuadriciclo (14.799 €)",
-      "Solo 2 plazas y equipamiento básico en el acabado Pack",
+      "El tope legal de 45 km/h lo deja fuera de vías rápidas y obliga a limitarse al entorno urbano",
+      "Con 90 kilómetros declarados por carga, cualquier desplazamiento entre municipios exige planificar muy bien la vuelta",
+      "Olvida la recarga rápida en continua: quedarte sin batería lejos de casa significa esperar enchufado a red doméstica",
+      "Los 14.799 euros de partida duelen frente a un Citroën Ami mucho más barato, aunque este Aixam va mejor equipado",
+      "Habitáculo estricto para dos ocupantes y dotación contenida en esta versión Pack, por debajo de la variante Sport"
     ],
     largoMm: 2762,
     anchoMm: 1500,
@@ -109,7 +109,26 @@ export const COCHES_AIXAM: CocheComparador[] = [
       url: null,
       nota: "Sin datos EuroNCAP: los cuadriciclos ligeros (L6e) no se someten a pruebas Euro NCAP",
     },
-    planMantenimiento: null,
+    planMantenimiento: {
+      "intervalo": "Revisión al menos una vez al año o entre 5.000 y 10.000 km, con primera revisión a los 1.000 km o al año",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Primera revisión a los 1.000 km o 1 año",
+          "queSeCambia": "Comprobación general sin cambio de aceite por ser eléctrico: niveles de líquido de frenos, frenos, neumáticos, amortiguadores, sistema eléctrico y batería de tracción"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión a los 5.000 km",
+          "queSeCambia": "Repetición de los controles anteriores más inspección de batería de tracción, fuelles, articulaciones y transmisión, además de luces y presión de neumáticos"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión a los 10.000 km y sucesivas anuales",
+          "queSeCambia": "Revisión en profundidad de frenos, suspensión, dirección, neumáticos y sistema eléctrico y de carga; la batería de tracción se comprueba en cada mantenimiento según Aixam"
+        }
+      ]
+    },
     fuenteNombre: "auto-data.net (ficha técnica eAIXAM eCity) + Aixam España",
     fuenteUrl: "https://www.auto-data.net/es/aixam-eaixam-ecity-5.1-kwh-8hp-vsd-46814",
   },
@@ -382,18 +401,18 @@ export const COCHES_AIXAM: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "El City diésel más equipado: tapicería deportiva y estética GT",
-      "Pantalla táctil 6,2\" con 6 altavoces, cámara y sensores de aparcamiento",
-      "Llantas de aleación de 16\"",
-      "Motor diésel Kubota Euro 5+ de 8 CV, sin AdBlue ni filtro de partículas",
-      "Permiso AM desde los 15 años",
+      "El GTO corona la familia City de combustión, con tapicería de guiño GT, llantas de aleación diamantada de 16 pulgadas y una presentación exterior más marcada que la de los acabados de acceso.",
+      "Su maletero declara 700 litros pese a medir solo 2.762 mm de largo y 1.500 mm de ancho, una capacidad de carga impropia de un cuadriciclo tan corto.",
+      "Trae pantalla táctil de 6,2 pulgadas con seis altavoces, además de cámara trasera y sensores que facilitan aparcarlo marcha atrás en plazas estrechas.",
+      "El motor Kubota diésel Euro 5+ rinde 8 CV, consume 3,1 l/100 km según ficha y funciona sin AdBlue ni sistema de partículas, con la ventaja frente a los e-Aixam eléctricos de repostar en minutos y no depender de un enchufe.",
+      "Al homologarse como L6e se maneja desde los 15 años con el permiso AM, por lo que llega a conductores que todavía no pueden optar al carnet B."
     ],
     contras: [
-      "17.999 €: el City diésel más caro sin más potencia",
-      "Limitado a 45 km/h como todos los L6e",
-      "Estética deportiva sin prestaciones deportivas",
-      "Por 19.699 € existe el e-Coupé GTI eléctrico con etiqueta Cero",
-      "Solo 2 plazas",
+      "Pagar 17.999 € por un L6e de 8 CV duele: es el City diésel de mayor precio y ese sobrecoste compra acabado, no empuje extra.",
+      "La homologación L6e lo deja en 45 km/h como máximo, así que queda fuera de vías rápidas y cualquier salida interurbana se vuelve muy lenta.",
+      "Viste como un GT, con llantas grandes y tapicería deportiva, pero al acelerar responde como lo que es: un cuadriciclo ligero pensado para ciudad, no un deportivo.",
+      "Dentro de la propia casa, el e-Coupé GTI eléctrico cuesta 19.699 € y luce etiqueta Cero, mientras este diésel se queda con la C; fuera, Ligier y Microcar venden L6e rivales que conviene cruzar antes de decidir.",
+      "El habitáculo admite únicamente a dos ocupantes, sin plaza trasera de emergencia ni opción familiar: si necesitas llevar a más gente, este formato no sirve."
     ],
     largoMm: 2762,
     anchoMm: 1500,
@@ -440,6 +459,27 @@ export const COCHES_AIXAM: CocheComparador[] = [
         alto: 1280,
       },
     ],
+  
+    planMantenimiento: {
+      "intervalo": "Primera revisión al año o a los 1.000 km; siguientes a los 5.000 km y a los 10.000 km, y al menos una revisión anual o cada 5.000-10.000 km según la guía oficial de Aixam España",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Primera revisión (1 año o 1.000 km)",
+          "queSeCambia": "Cambio de aceites y de filtro, medición de niveles y sustitución de los que sean necesarios, revisión de neumáticos, frenos, amortiguadores, soportes, sistema eléctrico y lunas"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión a los 5.000 km",
+          "queSeCambia": "Mismos controles que en la primera revisión y, además, comprobación de batería, fuelles, articulaciones y transmisión"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión a los 10.000 km y sucesivas",
+          "queSeCambia": "Revisión en profundidad del estado del vehículo, renovación del aceite y limpieza de las aletas del radiador de refrigeración; revisión de niveles (aceite, líquido de frenos y refrigerante), frenos, estado y presión de neumáticos, luces y batería"
+        }
+      ]
+    },
   },
   {
     id: "aixam-city-eclipse-2025-precio-ficha-tecnica",
@@ -731,18 +771,18 @@ export const COCHES_AIXAM: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
-      "Batería de 7,89 kWh y 130 km de autonomía: la mayor de la gama e-Aixam",
-      "Carrocería coupé con maletero de 1.000 litros",
-      "Etiqueta Cero: entra en todas las ZBE sin restricciones",
-      "Acabado GTI con máximo equipamiento y estética deportiva",
-      "Recarga en enchufe doméstico convencional",
+      "Con el permiso AM puedes ponerte a sus mandos sin esperar al carnet B, porque está homologado como cuadriciclo ligero L6e",
+      "Declara 130 km por carga y se alimenta en un enchufe de casa, sin depender de cargadores públicos para el uso diario; su batería suma 7,89 kWh",
+      "Anuncia 1.000 litros de maletero en una carrocería coupé de apenas 3,00 metros de largo y 425 kg, muy manejable entre calles estrechas",
+      "La etiqueta Cero de la DGT le abre el centro urbano y las zonas de bajas emisiones que vetan a los sin carnet de combustión",
+      "Frente a un Citroën Ami básico o a un Microcar de acceso, juega la carta del coupé bien equipado y con imagen deportiva GTI"
     ],
     contras: [
-      "19.699 €: el cuadriciclo ligero más caro del catálogo",
-      "Limitado a 45 km/h por homologación L6e",
-      "Sin carga rápida en corriente continua",
-      "Solo 2 plazas",
-      "El e-City Pack ofrece lo esencial por 4.900 € menos",
+      "Cuesta 19.699 €, un importe difícil de justificar si solo buscas transporte básico sin carnet; Ligier y Microcar ofrecen alternativas más sencillas",
+      "Por su homologación L6e va capado a 45 km/h, así que queda fuera de autovías y vías rápidas: su terreno natural es la ciudad",
+      "Sus 8 CV y 40 Nm mueven el conjunto en llano urbano, pero se quedan justos con dos ocupantes a bordo y pendientes pronunciadas",
+      "Únicamente viajan dos personas, por lo que no sirve como único vehículo familiar ni para llevar a un tercer pasajero ocasional",
+      "Carece de carga rápida en continua, de modo que recuperar energía fuera de casa exige una toma convencional y bastante paciencia"
     ],
     largoMm: 3000,
     anchoMm: 1500,
@@ -789,6 +829,17 @@ export const COCHES_AIXAM: CocheComparador[] = [
         alto: 1280,
       },
     ],
+  
+    planMantenimiento: {
+      "intervalo": "Revisión al menos una vez al año o entre 5.000 y 10.000 km, según la referencia oficial de Aixam para su gama, incluidos los eléctricos",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión periódica anual o por kilometraje",
+          "queSeCambia": "En el eléctrico desaparecen los cambios de aceite y filtros del motor de combustión; se comprueban batería de tracción y su rendimiento, sistema eléctrico y de carga, frenos, suspensión, dirección, neumáticos, luces y niveles, sustituyendo solo los elementos de desgaste según su estado"
+        }
+      ]
+    },
   },
   {
     id: "aixam-crossline-pack-2025-precio-ficha-tecnica",
@@ -977,18 +1028,18 @@ export const COCHES_AIXAM: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
-      "Batería de 7,89 kWh y 130 km de autonomía: el e-SUV con más rango",
-      "Pantalla táctil con CarPlay y Android Auto, cámara y sensores",
-      "Etiqueta Cero: acceso total a las ZBE",
-      "Maletero de 1.000 litros",
-      "Recarga en enchufe doméstico",
+      "Con el permiso AM ya puedes conducirlo: es un L6e pensado para quien todavía no dispone del carnet B",
+      "Su silueta crossover, más alta y protegida que la de un urbano bajo, encaja mejor con badenes y bordillos cotidianos",
+      "Los 130 km declarados con 7,89 kWh dan margen de sobra para encadenar varios días de trayectos cortos sin enchufarlo",
+      "Detrás de las dos plazas queda un hueco enorme de 1.000 litros, impropio de un vehículo de solo tres metros",
+      "El nivel Premium añade pantalla con CarPlay y Android Auto, visión trasera y avisos que facilitan cada maniobra diaria"
     ],
     contras: [
-      "19.499 €: precio de utilitario convencional",
-      "Limitado a 45 km/h",
-      "Sin carga rápida DC",
-      "Solo 2 plazas",
-      "Estética SUV sin capacidades off-road",
+      "Pagar 19.499 € se hace cuesta arriba: por ese desembolso ya existen utilitarios convencionales mucho más polivalentes para todo uso",
+      "La homologación L6e lo deja clavado en 45 km/h, vetado para autovías, autopistas y cualquier ronda rápida",
+      "No hay carga rápida en corriente continua, así que reponer la batería siempre exige paciencia y un enchufe convencional cercano",
+      "Viajan únicamente dos personas, sin fila trasera para niños ni para llevar acompañantes adicionales en desplazamientos familiares",
+      "Aunque vista de crossover, con 8 CV y tracción delantera carece de aptitudes camperas; Ligier y Microcar juegan su misma liga urbana, y un Citroën Ami resulta más básico pero también más asequible"
     ],
     largoMm: 3000,
     anchoMm: 1500,
@@ -1035,6 +1086,27 @@ export const COCHES_AIXAM: CocheComparador[] = [
         alto: 1280,
       },
     ],
+  
+    planMantenimiento: {
+      "intervalo": "Revisión anual o cada 5.000-10.000 km; primera revisión al año o a los 1.000 km, según Aixam",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Primera revisión (1 año o 1.000 km)",
+          "queSeCambia": "Comprobación de niveles, neumáticos, frenos, amortiguadores, soportes, sistema eléctrico y lunas; en la versión eléctrica desaparecen los cambios de aceite propios de un motor de combustión"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión a los 5.000 km",
+          "queSeCambia": "Repetición de los controles anteriores y revisión añadida de la batería de tracción, los fuelles, las articulaciones y la transmisión"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisiones desde los 10.000 km",
+          "queSeCambia": "Revisión en profundidad del vehículo, con control de la batería y del sistema de carga, además de frenos, suspensión, dirección y neumáticos"
+        }
+      ]
+    },
   },
   {
     id: "aixam-e-scouty-evo-2025-precio-ficha-tecnica",
