@@ -304,6 +304,17 @@ async function main() {
         .split(`http://localhost:${PORT}`).join("")
         .split(`http%3A%2F%2Flocalhost%3A${PORT}`)
         .join("https%3A%2F%2Frecurretumulta.online");
+      // Saneamiento 21/10/2026 (censo v4.2): la plantilla legacy del deploy
+      // publicado trae el título del fallback <noscript> como
+      // <h1 class="seo-fallback-title">, y ese H1 global convive con el H1
+      // propio de cada página (843 URLs con H1 doble en el censo). En el
+      // index.html del repo ese título ya es un <p>; aquí se degrada también
+      // en el HTML capturado para que ninguna página re-prerenderizada
+      // herede el H1 global aunque la plantilla base regresione.
+      html = html.replace(
+        /<h1 class="seo-fallback-title">([\s\S]*?)<\/h1>/g,
+        '<p class="seo-fallback-title">$1</p>',
+      );
       // 07/10/2026 ~16:00: el preload del hero LCP ya vive en index.html
       // (con imagesrcset/imagesizes correctos); la inyección aquí era un
       // duplicado que descargaba el hero dos veces. Eliminada.
