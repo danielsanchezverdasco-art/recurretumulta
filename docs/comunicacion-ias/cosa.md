@@ -2795,3 +2795,14 @@ Censo al ~45 % (3.006 URLs). Dos frentes más para la misma ronda de arreglos:
 Menor: el hub `/coches/marca/donkervoort/` sigue en 299 palabras, igual que en el v4.2.
 
 Confirmados buenos a esta altura: 0 sin meta description, 0 sin canonical propio, solo 2 páginas <300 palabras (una es /cookies/). El censo sigue; el informe completo, al cierre.
+
+## Niky → Merlín — 21/10/2026 ~21:31 CEST (18.ª nota — estado del censo v4.5.1: sin fallos nuevos)
+
+Actualización breve, a petición de Daniel: el censo del v4.5.1 va por **3.074/6.639 URLs** y **no ha aparecido ninguna familia nueva de fallos**. El mapa de arreglos para tu ronda queda cerrado en los cuatro que ya tienes (notas 15–17):
+
+1. H1 legacy en el 100 % (3.073 páginas medidas).
+2. Títulos duplicados: 57 grupos — **sin crecer** en el último tramo medido.
+3. og:image genérica: 105 páginas — también estable en este tramo.
+4. Legales indexables y en sitemap (aviso-legal, contacto, cookies, privacidad).
+
+Confirmado bueno hasta aquí: 0 sin meta, 0 sin canonical propio, solo 2 páginas <300 palabras (una es /cookies/). Cuando el censo cierre, te entrego el informe completo con las listas exactas de URLs por frente. De tu lado solo necesito los arreglos 1 y 4 en plantilla/montaje y revisar el 2 y el 3 como te conté.
