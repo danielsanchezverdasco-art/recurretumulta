@@ -9851,3 +9851,14 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/zontes-703rr-2026-ficha-tecnica-precio-hunt3.webp | https://images5.1000ps.net/images_bikekat/2026/618-Zontes/12856-703_RR/006-639051117806562488-zontes-703-rr.jpg | Zontes (foto oficial de catalogo) via 1000PS | desconocida |
 | /media/sxt-quick-4-hunt1.webp | https://sxt-scooters.de/cdn/shop/files/inokim_quick4_blue_1.jpg?v=1718621409 | SXT Scooters (tienda oficial sxt-scooters.de) / Inokim | desconocida |
 | /media/sxt-quick-4-hunt2.webp | https://sxt-scooters.de/cdn/shop/files/30_1500x_db558f27-8411-442e-99f7-9b032876c9b2.jpg?v=1718621391 | SXT Scooters (tienda oficial sxt-scooters.de) / Inokim | desconocida |
+| /media/dacia-logan-tce-90-2026-precio-ficha-tecnica-hunt1.webp | https://autoblog.md/wp-content/uploads/2025/10/New-2026-Dacia-Logan_2.jpg | Dacia (prensa oficial) vía Autoblog.md | desconocida |
+| /media/dacia-logan-tce-90-2026-precio-ficha-tecnica-hunt2.webp | https://autoblog.md/wp-content/uploads/2025/10/New-2026-Dacia-Logan_4.jpg | Dacia (prensa oficial) vía Autoblog.md | desconocida |
+| /media/dacia-logan-tce-90-2026-precio-ficha-tecnica-hunt3.webp | https://autoblog.md/wp-content/uploads/2025/10/New-2026-Dacia-Logan_10.jpg | Dacia (prensa oficial) vía Autoblog.md | desconocida |
+| /media/kgm-actyon-hibrido-precio-ficha-tecnica-hunt1.webp | https://images.carexpert.com.au/resize/1200/-/cms/v1/media/2026-02-kgm-actyon-hybrid-2.jpg | KGM (prensa oficial) vía CarExpert | desconocida |
+| /media/kgm-actyon-hibrido-precio-ficha-tecnica-hunt2.webp | https://images.carexpert.com.au/resize/1200/-/cms/v1/media/2026-02-kgm-actyon-hybrid-3.jpg | KGM (prensa oficial) vía CarExpert | desconocida |
+| /media/kgm-actyon-hibrido-precio-ficha-tecnica-hunt3.webp | https://cdn.kgmitalia.it/s3fs-public/2026-03/12P_ACTYON%20HYBRID_INT_RID.jpg | KGM Italia (web oficial) | desconocida |
+| /media/zontes-125d-2026-ficha-tecnica-precio-hunt1.webp | https://www.motorrad-bilder.at/slideshows/291/022688/ZT-125D_005.jpg | 1000PS (galería de prensa) | desconocida |
+| /media/zontes-125d-2026-ficha-tecnica-precio-hunt2.webp | https://zontesmotos.es/wp-content/uploads/2024/06/zontes-d125-azul-mate-011.jpg | Zontes España (web oficial) | desconocida |
+| /media/zontes-125d-2026-ficha-tecnica-precio-hunt3.webp | https://zontesmotos.es/wp-content/uploads/2024/06/zontes-d125-azul-mate-002.jpg | Zontes España (web oficial) | desconocida |
+| /media/ienyrid-s1-hunt1.webp | https://ienyrid.co.uk/cdn/shop/files/iENYRID_S1_electric_scooter_for_teens_and_adults_1_-min.jpg?v=1764385830&width=1200 | iENYRID (tienda oficial Reino Unido) | desconocida |
+| /media/ienyrid-s1-hunt2.webp | https://ienyrid.co.uk/cdn/shop/files/iENYRID_S1_electric_scooter_for_teens_and_adults_9_-min.jpg?v=1764385830&width=1200 | iENYRID (tienda oficial Reino Unido) | desconocida |
