@@ -418,6 +418,42 @@ De segunda mano, el Urus S es la puerta de entrada más razonable al mundo Urus,
 | V8 puro con sonido clásico | El más "lento" de la familia (3,5 s) |
 | La ocasión más razonable del Urus | Precios de ocasión aún altos |
 
+## El SUV que cambió las cuentas de Sant'Agata
+
+Antes del Urus, Lamborghini vivía de deportivos biplaza producidos en series cortas. Este todocamino rompió esa lógica: carrocería alta y portón trasero convirtieron el toro en vehículo familiar para fortunas que antes necesitaban dos coches. El S ocupó el escalón sensato cuando la gama de gasolina afrontaba su despedida. Su cotización se explica así: se paga el último capítulo de un fenómeno comercial que redefinió la marca, descrito en su <a href=https://www.lamborghini.com/en-en/models/urus/urus-s>página oficial del Urus S</a>.
+
+## Anatomía técnica: dónde se nota el enfoque confortable
+
+Compartir propulsor con el Performante no significa compartir carácter. La suspensión neumática adaptativa filtra juntas y badenes sin renunciar a contener balanceos, mientras la tracción total reparte empuje pensando en lluvia o nieve ligera. El cambio de ocho relaciones sostiene ese doble papel: suavidad despacio, contundencia al exigir los 850 Nm. Revisa cada cifra en la <a href=/coches/lamborghini-urus-s-2024-precio-ficha-tecnica/>ficha completa del Urus S</a>.
+
+| Elemento | Lectura práctica en el S |
+|---|---|
+| V8 4.0 biturbo, 666 CV | Reserva sobrada sin buscar récord |
+| Par máximo 850 Nm | Adelantamientos breves pese al peso |
+| 0-100 km/h en 3,5 s | Ritmo de deportivo con carrocería SUV |
+| Peso de 2.272 kg | Condiciona frenadas y desgaste |
+| Maletero de 616 litros | Capacidad real para equipaje voluminoso |
+
+Esa masa declarada manda sobre todo lo demás: neumáticos, frenos y consumos trabajan siempre contra una inercia considerable.
+
+## Uso cotidiano sin maquillaje
+
+A diario sorprende por acceso menos incómodo que en un Huracán y espacio trasero aprovechable por adultos. También incomoda donde cualquier SUV gigante incomoda: aparcamientos estrechos, garajes antiguos y una anchura de 2.018 mm que obliga a medir cada rampa. En carretera el depósito sufre: mantener cruceros alegres con 14,1 l/100 km homologados exige paradas frecuentes. Quien lo compre para trayectos cortos urbanos desperdiciará su talento y asumirá sus peores inconvenientes.
+
+## Mantener un V8 de este nivel sin cifras inventadas
+
+Aquí no caben presupuestos de SUV convencional. Neumáticos de gran diámetro, frenos dimensionados para detener más de dos toneladas y revisiones en servicio especializado forman un paquete costoso por naturaleza, sin que este texto asigne importes que ninguna fuente consultada respalde. Antes de comprar de ocasión conviene exigir historial completo, comprobar desgaste entre ejes, revisar la suspensión neumática en frío y verificar campañas aplicadas. Una unidad barata con mantenimiento diferido puede resultar la más cara: el expediente vale casi tanto como el kilometraje.
+
+## Etiqueta C y restricciones: lo que conviene asumir
+
+Su distintivo es la **C**, sin bonificaciones asociadas a electrificación. Permite circular ampliamente, pero no otorga las ventajas urbanas reservadas a etiquetas superiores cuando una zona de bajas emisiones se vuelve más estricta. El problema práctico no es entrar hoy en una ciudad, sino la evolución normativa durante años de propiedad y el coste por kilómetro derivado de emisiones de 320 g/km. Si tu rutina incluye centro urbano a diario, el salto al SE tiene sentido funcional además de prestacional.
+
+## Frente a sus hermanos: Performante y SE
+
+El <a href=/coches/lamborghini-urus-performante-2024-precio-ficha-tecnica/>Urus Performante</a> costaba 296.596 €, marcaba 3,3 s en el 0-100 y alcanzaba 306 km/h con idénticos 666 CV, orientado a quien prioriza agilidad sobre filtraje. El <a href=/coches/lamborghini-urus-se-2024-precio-ficha-tecnica/>Urus SE</a> parte de 265.895 €, suma 800 CV, declara 3,4 s, 312 km/h y 60 km eléctricos, aunque su maletero cae a 454 litros. Entre ambos, el S conserva sencillez mecánica relativa dentro de lo estratosférico y el mayor maletero, empatado con el Performante. Y cuando termines de comparar toros, cambia de registro probando nuestro <a href=/juego-monos/>juego caza-monos</a>, que se oculta por las páginas de la web.
+
+**Veredicto:** merece la pena si buscas el Urus de gasolina más equilibrado para viajar rápido con familia y equipaje, aceptando etiqueta C y gastos acordes a su peso. No encaja si necesitas ventajas de etiqueta CERO, uso urbano intensivo o la experiencia más radical de la gama: para lo primero manda el SE; para lo último, el Performante.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto costaba el Urus S nuevo?
@@ -440,7 +476,7 @@ Homologa **14,1 l/100 km** y 320 g/km de CO₂ en ciclo WLTP (km77).
 
 Si te ha llegado una multa con tu Urus, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: <a href=https://www.km77.com/coches/lamborghini/urus/2018/estandar/estandar/urus-s/datos>precio y ficha en km77</a>, <a href=https://motor.flexicar.es/superdeportivos/lamborghini-urus/>versiones del Urus en flexicar</a>.*`
+*Fuentes: <a href=https://www.km77.com/coches/lamborghini/urus/2018/estandar/estandar/urus-s/datos>precio y ficha en km77</a>, <a href=https://motor.flexicar.es/superdeportivos/lamborghini-urus/>versiones del Urus en flexicar</a>., <a href=https://www.lamborghini.com/en-en/models/urus/urus-s>Lamborghini, Urus S</a>*`
   },
   {
     "title": "Lamborghini Huracán Tecnica: precio y ficha 2024",
