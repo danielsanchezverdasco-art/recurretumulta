@@ -233,6 +233,40 @@ BYD vende en Europa el **Seal DM-i**, una berlina híbrida enchufable de posicio
 
 <img src=/media/byd-qin-l-dm-i-2025-precio-ficha-tecnica-oficial.webp alt=BYD Qin L DM-i vista lateral>
 
+## La familia Qin: el superventas silencioso de BYD
+
+La dinastía Qin es, junto al Song, el pilar de ventas de BYD en China: berlinas familiares que acumulan cientos de miles de unidades al año. El Qin L se sitúa un escalón por encima del Qin Plus en tamaño y acabado, y estrenó mundialmente la quinta generación del sistema híbrido DM-i, la misma arquitectura que después ha ido llegando al resto de la gama enchufable de la marca.
+
+Entender el Qin L es entender la estrategia de BYD en su mercado doméstico: eficiencia extrema como argumento de compra, por delante de la potencia o el diseño. El récord de eficiencia térmica superior al 46 % del motor de gasolina no es un dato de escaparate, es la base de todo el coche.
+
+## Cómo leer sus cifras: WLTC, CLTC y la doble batería
+
+| Versión | Batería | Autonomía eléctrica | Ciclo |
+|---|---|---|---|
+| Acceso | 10,08 kWh | 80 km | CLTC |
+| Batería grande | 15,87 kWh | 120 km | CLTC |
+| Consumo combinado | — | 3,8 l/100 km | WLTC |
+
+Ojo con los ciclos: la autonomía eléctrica se declara en CLTC, el ciclo chino, más benévolo que el WLTP europeo, mientras el consumo de 3,8 l/100 km se homologa en WLTC, el ciclo chino armonizado con el WLTP. En una homologación europea, los 120 km eléctricos quedarían por debajo de esa cifra, aunque seguirían siendo un dato excelente para cargar en casa y moverte en eléctrico entre semana.
+
+## Uso real: la semana laboral sin gasolina
+
+El planteamiento es el del enchufable bien entendido: enchufe nocturno, desplazamientos diarios en modo eléctrico y el motor de gasolina como red de seguridad para viajes largos. Con 218 CV y un 0-100 en 7,5 segundos no es un coche lento, y su tamaño de segmento D le da una presencia que en China se valora para uso familiar y de representación.
+
+Su mantenimiento, de venir a Europa, sería el típico de un híbrido enchufable: revisiones del motor térmico por tiempo o kilometraje y la electrónica de potencia sellada. Nada de eso aplica hoy, porque el coche no se vende aquí.
+
+## Veredicto: ¿merece la pena el Qin L DM-i?
+
+**Veredicto:** en China es, probablemente, la berlina con mejor relación eficiencia-precio del planeta, y su ausencia en Europa dice más de los aranceles y de la estrategia de BYD —que aquí empuja el <a href=/coches/byd-seal-u-dm-i-precio-ficha-tecnica/>Seal U DM-i</a> y el Seal— que del coche. Como compra en España no existe; como termómetro de hasta dónde llega la tecnología enchufable asequible, es imprescindible. Si te pica la curiosidad, compáralo en el comparador y échate una partida al <a href=/juego-monos/>juego caza-monos</a>.
+
+## Mantener un DM-i: dos sistemas, una sola lógica
+
+Un híbrido enchufable como el Qin L combina el mantenimiento de un eléctrico —sin correas de distribución en la parte eléctrica, con frenos que duran más por la frenada regenerativa— con el de un térmico convencional: aceite, filtros y revisiones periódicas del 1.5 atmosférico. La experiencia de los DM-i que BYD sí vende en Europa muestra que el coste de propiedad depende sobre todo de cuánto se enchufe: quien carga a diario mueve el motor de gasolina poco y espacia su desgaste; quien nunca carga convierte el coche en un híbrido pesado y pierde su razón de ser.
+
+## La pantalla giratoria y el interior: la firma de la casa
+
+Por dentro, el Qin L lleva la firma visual de BYD: una gran pantalla central que rota entre horizontal y vertical según la aplicación, enmarcada en un salpicadero minimalista de líneas horizontales. Es un interior pensado para el gusto chino, donde el coche se usa también como espacio de descanso y entretenimiento con el vehículo parado, y donde la conectividad con el móvil es tan importante como la propia mecánica.
+
 ## Preguntas frecuentes
 
 ### ¿Qué potencia tiene el Qin L DM-i?
@@ -375,6 +409,40 @@ El Seal 06 GT lleva el lenguaje Ocean de BYD a su expresión más agresiva: fron
 BYD vende en Europa el **Dolphin** (urbano) y el **Atto 3** (SUV), pero no tiene un compacto deportivo eléctrico. El Seal 06 GT encajaría perfecto contra el MG4 XPower o el Volkswagen ID.3 GTX. La marca no lo confirma, pero la presión del mercado podría cambiarlo.
 
 <img src=/media/byd-seal-06-gt-2025-precio-ficha-tecnica-oficial.webp alt=BYD Seal 06 GT vista delantera>
+
+## La familia Seal: el escaparate deportivo de la gama Ocean
+
+BYD ordena su oferta en dos familias, Dynasty y Ocean, y dentro de esta última el apellido Seal designa a los modelos de talante deportivo: la berlina Seal que sí se vende en Europa y este 06 GT, un compacto de cinco puertas que comparte la plataforma e-Platform 3.0 Evo y la arquitectura de 800 voltios. Es, en esencia, la respuesta china al compacto deportivo eléctrico que Europa aún está definiendo.
+
+Su planteamiento rompe la norma del segmento: donde un compacto eléctrico europeo prioriza la eficiencia urbana, el 06 GT ofrece versiones de hasta 422 CV y un maletero de 595 litros que humilla a muchos SUV.
+
+## Tres versiones: cuál tiene sentido
+
+| Versión | Potencia | Batería | Autonomía CLTC |
+|---|---|---|---|
+| Acceso | 218 CV | 59,52 kWh | 505 km |
+| Intermedia | 224 CV | 72,96 kWh | 605 km |
+| AWD | 422 CV | 72,96 kWh | 550 km |
+
+La intermedia es la compra lógica: máxima autonomía, prestaciones sobradas —7,5 segundos no es el dato de un coche lento— y el precio más contenido de las dos baterías grandes. La AWD solo se justifica si buscas un deportivo de 4,9 segundos con disfraz de compacto familiar.
+
+Recuerda que las autonomías son CLTC: en ciclo WLTP europeo todas bajarían, como ocurre con cualquier eléctrico homologado en China.
+
+## El hueco que dejaría en Europa
+
+Si BYD lo trajera, el 06 GT se cruzaría con el <a href=/coches/mg4-xpower-2025-precio-ficha-tecnica/>MG4 XPower</a>, con el <a href=/coches/volkswagen-id3-gtx-2026-precio-ficha-tecnica/>Volkswagen ID.3 GTX</a> y con el <a href=/coches/cupra-born-2024-precio-ficha-tecnica/>Cupra Born</a> de mayor potencia. Ninguno combina 800 V, 605 km de autonomía declarada y un maletero así, y esa es exactamente la razón por la que su ausencia se nota: obligaría a todos a mejorar.
+
+## Veredicto: ¿merece la pena el Seal 06 GT?
+
+**Veredicto:** sobre el papel es el compacto eléctrico deportivo más completo del mercado mundial, y su precio chino lo convierte en una provocación. En España es un ejercicio de imaginación: no se vende y BYD no lo ha confirmado para Europa. Si buscas esa fórmula hoy, MG4 XPower e ID.3 GTX son lo más parecido con papeles europeos. Y para matar la espera, el <a href=/juego-monos/>juego caza-monos</a>.
+
+## 800 voltios en un compacto: por qué es un dato serio
+
+La arquitectura de 800 V suele reservarse a coches de gama alta, y verla en un compacto de este precio es parte de la provocación del 06 GT. En la práctica significa que la batería admite potencias de carga muy superiores a las de un sistema de 400 V, con menos calor generado y una curva de carga que se mantiene alta durante más minutos: las paradas en cargador ultrarrápido se acortan justo donde más duele, en los viajes largos. Súmale la batería LFP de tipo Blade, la química que BYD monta en toda su gama por su durabilidad y su estabilidad térmica, y el conjunto técnico queda muy por encima de lo que su precio chino sugiere.
+
+## Diseño Ocean: más que un nombre bonito
+
+El apellido GT no es postureo en el 06 GT: la zaga con difusor, las llantas específicas y los asientos con sujeción lateral forman parte del paquete. La línea Ocean de BYD juega con formas fluidas inspiradas en el mar, pero esta variante endurece el gesto con un frontal más bajo y una trasera recortada que recuerda a los compactos deportivos europeos de gasolina. Es, deliberadamente, el BYD con más guiños a quien viene de un Golf GTI que a quien viene de un SUV familiar.
 
 ## Preguntas frecuentes
 

@@ -221,6 +221,42 @@ Como eléctrico puro, le correspondería la etiqueta Cero.
 <p>Walkaround del Nevo A07 en el canal JustCars:</p>
 <p><a href=https://www.youtube.com/watch?v=XQ6w7HzU7Ys>Ver el walkaround del Nevo A07 en YouTube (JustCars)</a></p>
 
+## Nevo (Qiyuan) y Changan: la marca detrás del A07
+
+Nevo es la marca de «nueva energía» de Changan, uno de los cuatro grandes fabricantes chinos, conocida en su mercado doméstico como Qiyuan. Su papel dentro del grupo es el de la etiqueta accesible y tecnológica: berlinas y SUV electrificados con precios de asalto, mientras la marca hermana Deepal apunta a un público más joven y Avatr cubre la zona premium junto a Huawei.
+
+El A07 fue su primer modelo y define la receta: coche grande —4,9 metros, tamaño de berlina ejecutiva europea—, equipamiento digital generoso y dos tecnologías de electrificación a elegir, eléctrico puro o extensor de autonomía.
+
+## EREV frente a eléctrico puro: cómo funciona el extensor
+
+| Concepto | A07 EREV | A07 eléctrico |
+|---|---|---|
+| Motor que mueve las ruedas | Eléctrico (218 CV) | Eléctrico (258 CV) |
+| Motor de gasolina | Generador de 70 kW | No tiene |
+| Autonomía eléctrica | 200 km CLTC | 515 km CLTC |
+| Autonomía total | 1.200 km | 515 km CLTC |
+| 0-100 km/h | 7,8 s | — |
+
+La clave del EREV es que el motor de gasolina nunca empuja las ruedas: funciona como un generador que recarga la batería cuando el nivel baja. El coche se conduce siempre como un eléctrico —suavidad, par inmediato, silencio—, pero conserva la libertad de repostar en cualquier gasolinera. El consumo declarado de 0,75 l/100 km es en ciclo WLTC chino y corresponde al modo de batería cargada; en uso real sin enchufar a menudo, la cifra será otra historia.
+
+## Uso real: para quién tiene sentido un EREV
+
+El perfil ideal es el de quien hace 100-150 km diarios —cubiertos de sobra por los 200 km CLTC eléctricos, que en uso real serán menos—, puede cargar en casa y viaja lejos algunos fines de semana sin querer planificar paradas de carga. Para ese uso, el extensor elimina la ansiedad sin renunciar a conducir en eléctrico a diario.
+
+Sus puntos débiles también son claros: sin red europea de la marca, con una autonomía eléctrica declarada en ciclo chino y con el mantenimiento de dos sistemas —el eléctrico y el generador térmico con sus revisiones— si llega el caso.
+
+## Veredicto: ¿merece la pena el Nevo A07?
+
+**Veredicto:** en China es una de las berlinas electrificadas con mejor relación tamaño-precio del mercado, y su fórmula EREV encaja con el uso de buena parte de los conductores europeos. En España ni se vende ni tiene fecha: lo más cercano de la familia Changan aquí es su gama a través de otras marcas del grupo, y en clave de berlina eléctrica disponible, el <a href=/coches/byd-seal-2024-precio-ficha-tecnica/>BYD Seal</a> es la referencia real. Queda como aviso de lo que viene; mientras tanto, el <a href=/juego-monos/>juego caza-monos</a> sí está disponible.
+
+## Por dentro: pantalla 2.5K y silencio de marcha
+
+El habitáculo del A07 sigue el guion de las berlinas chinas modernas: fuera botones, dentro pantallas. La central, de 15,4 pulgadas con resolución 2.5K, concentra casi todas las funciones, apoyada por un equipo de sonido de 16 altavoces que busca ese ambiente de salón que los propietarios chinos tanto valoran. Las manillas enrasadas y la silueta limpia no son solo estética: reducen el ruido aerodinámico en autopista, el escenario donde un EREV bien aislado más se acerca a la experiencia de un eléctrico puro de gama alta.
+
+## Tracción trasera: el detalle que lo separa del montón
+
+Que una berlina familiar de este precio mueva las ruedas traseras dice mucho de su arquitectura eléctrica nativa: el motor va detrás, el maletero delantero y el trasero se reparten el espacio y el comportamiento gana el tacto de una berlina clásica de propulsión. En un segmento dominado por plataformas de tracción delantera heredadas de la gasolina, es un detalle de coche diseñado desde cero como electrificado.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Nevo A07?
@@ -246,6 +282,7 @@ Como vehículo con más de 40 km de autonomía eléctrica, le correspondería la
 - <a href=https://www.autohome.com.cn/che168/carmodel>Autohome: Nevo A07, especificaciones y precios</a>
 - <a href=https://k.sina.cn>Sina Auto: lanzamiento del Nevo A07</a>
 - <a href=https://www.autonocion.com>Autonocion: la gama Nevo de Changan</a>
+- <a href=https://www.globalchangan.com>Changan Automobile, web oficial global</a>
 
 <p>Una berlina de 4,9 m por 14.400 €: <a href=/comparador-coches/>compárala con las berlinas que se venden en España</a>. Y si tienes una multa pendiente, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA antes de recurrir</a>.</p>
 `,
