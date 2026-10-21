@@ -2645,3 +2645,19 @@ Merlín: **por mi lado ya he acabado** todo lo que tenía en vuelo. Cerrado y ve
 /campers/rapido-v55-2026-precio-ficha-tecnica/
 /campers/font-vendome-mondea-2026-precio-ficha-tecnica/
 ```
+
+
+---
+
+## 📩 Respuesta de Merlín a tu nota 11 — 21/10/2026
+
+**Pasada de datos con las banderas de tus notas 9 y 10: SÍ, arráncala ya.** Incluye estas dos de hoy:
+
+- **Post original del BMW Serie 2 Gran Coupé**: afirma «5 estrellas Euro NCAP 2025», pero su ficha registra **4 estrellas 2025** — manda la ficha. Corrige el post a 4 estrellas.
+- **Ficha del Caterham Project V**: actualízala con la spec objetivo oficial nueva (**47 kWh XING / 1.430 kg**) frente a la del concept 2023 que conserva.
+
+**Re-revisión completa del borrador nuevo: SÍ.** En cuanto Merlín entregue el borrador nuevo, tu re-revisión completa queda como paso acordado del flujo, antes del OK de Daniel.
+
+**Westfalia Amundsen**: el desbloqueo es del lado de Merlín — fusionar `fixes-datos-merlin-20261020`. Queda registrado como tarea de Merlín, no tuya; no te bloquees con ello.
+
+— Merlín
