@@ -9436,3 +9436,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/segway-ninebot-gt3-e-hunt1.webp | https://www.merlin.dk/Images/1600x1200/3350873_d3b26c6d6137.png | Segway-Ninebot (foto de producto) vía Merlin Dinamarca | desconocida |
 | /media/segway-ninebot-gt3-e-hunt2.webp | https://iqmobile.ba/wp-content/uploads/2026/03/Segway-KickScooter-Ninebot-GT3-E-6.jpg | Segway-Ninebot (foto de producto) vía IQ Mobile | desconocida |
 | /media/segway-ninebot-gt3-e-hunt3.webp | https://i-phonik.fr/img/cms/Trottinettes/SEGWAY/GT3%20E/SEGWAY-GT3E-SuperScoot-Gris7.webp | Segway-Ninebot (foto de producto) vía i-Phonik | desconocida |
+| /media/citroen-c5-aircross-12-puretech-130-2024-precio-ficha-tecnica-hunt1.webp | https://images.carexpert.com.au/vehicles/source-g/6/1/61858fb5.jpg | CarExpert / Citroën (prensa) | desconocida |
+| /media/citroen-c5-aircross-12-puretech-130-2024-precio-ficha-tecnica-hunt2.webp | https://images.carexpert.com.au/resize/1200/-/app/uploads/2023/06/2023-Citroen-C5-Aircross-12.jpg | CarExpert | desconocida |
+| /media/citroen-c5-aircross-12-puretech-130-2024-precio-ficha-tecnica-hunt3.webp | https://www.auto4drive.cz/wp-content/uploads/2022/11/Citroen-c5-aircross-4.jpg | Auto4Drive | desconocida |
+| /media/lexus-ux-300h-2026-precio-ficha-tecnica-hunt1.webp | https://lexus-cms-media.s3.us-east-2.amazonaws.com/wp-content/uploads/2023/12/2025_Lexus_UXh_FSPORT_001-1024x594.jpg | Lexus (pressroom oficial USA) | desconocida |
+| /media/lexus-ux-300h-2026-precio-ficha-tecnica-hunt2.webp | https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/lexus-ux300h-review-2024-10-dash.jpg | Autocar | desconocida |
+| /media/lexus-ux-300h-2026-precio-ficha-tecnica-hunt3.webp | https://en.wheelz.me/wp-content/uploads/2023/12/2025_Lexus_UXh_FSPORT_011.webp | Wheelz.me / Lexus (prensa) | desconocida |
+| /media/ducati-diavel-v4-2026-ficha-tecnica-precio-hunt1.webp | https://images.ctfassets.net/x7j9qwvpvr5s/2iMS483z9ovCLSGvfCt8uh/bfbc8f249a1a9a5f70efaa2b5d78ba64/Ducati-Diavel-V4-overview-hero-1600x1000.jpg | Ducati (web oficial) | desconocida |
+| /media/ducati-diavel-v4-2026-ficha-tecnica-precio-hunt2.webp | https://www.cycleworld.com/resizer/cTyPNLuv0w9rxgsq5QE0sywwnhA=/1440x0/smart/cloudfront-us-east-1.images.arcpublishing.com/octane/KI2GMFQP6NGJNPICOYOYBR3IB4.jpg | Cycle World / Ducati (prensa) | desconocida |
+| /media/ducati-diavel-v4-2026-ficha-tecnica-precio-hunt3.webp | https://images.ctfassets.net/x7j9qwvpvr5s/13x6w39tTqfYhJbme8hbjj/300d6c97e1ffad609c5d839dd5647b0d/Diavel-V4-Accessoriata-cover-img-large-1920x960.jpg | Ducati (web oficial) | desconocida |
+| /media/niu-kqi-200f-hunt1.webp | https://shop.niu.com/cdn/shop/files/KQi_200F_grey.png?v=1776064661&width=1600 | NIU (tienda oficial) | desconocida |
+| /media/niu-kqi-200f-hunt2.webp | https://shop.niu.com/cdn/shop/files/folding_2.png?v=1762783686&width=750 | NIU (tienda oficial) | desconocida |
+| /media/niu-kqi-200f-hunt3.webp | https://electrek.co/wp-content/uploads/sites/3/2025/07/niu-kqi-200f-header-scooter.jpg?quality=82&strip=all&w=1600 | Electrek | desconocida |
