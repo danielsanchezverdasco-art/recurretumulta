@@ -22,6 +22,7 @@ import { Card, CardContent } from "@/components/ui/card.tsx";
 import { useSeo } from "@/hooks/use-seo.ts";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
+import { generarContenidoRadar, SLUG_COMUNIDAD } from "@/lib/radar-contenido.ts";
 
 const DOMAIN = "https://recurretumulta.online";
 // Base pública donde el sitio sirve los datos de radares (ver cabecera).
@@ -167,6 +168,7 @@ export default function RadarPage() {
   const idUnico = (id ?? "").trim();
   const [estado, setEstado] = useState<EstadoCarga>("cargando");
   const [radar, setRadar] = useState<RadarIndice | null>(null);
+  const [listaRadares, setListaRadares] = useState<RadarIndice[]>([]);
   const [mdCrudo, setMdCrudo] = useState<string>("");
 
   useEffect(() => {
@@ -193,6 +195,7 @@ export default function RadarPage() {
         const texto = await resMd.text();
         if (!cancelado) {
           setRadar(encontrado);
+          setListaRadares(lista);
           setMdCrudo(texto);
           setEstado("listo");
         }
@@ -217,7 +220,18 @@ export default function RadarPage() {
     ? `Radar en la ${radar.carretera}, pk ${radar.pk} (${radar.sentido}), ${radar.municipio} (${radar.comunidad}). Límite: ${limiteTxt}. Datos oficiales de la DGT.`
     : "Ficha de un radar de velocidad de la DGT: ubicación, límite de velocidad y datos oficiales.";
 
-  // JSON-LD BreadcrumbList: Inicio > Radares > {comunidad} > Radar {carretera} pk {pk}.
+  // Bloques editoriales generados desde los datos del propio radar
+  // (src/lib/radar-contenido.ts): ubicación explicada, cuadro oficial de
+  // sanciones para su límite, qué hacer si te caza, cercanos y FAQ. Se
+  // calculan al renderizar la ficha, en el mismo pase que la tabla de datos,
+  // para que formen parte del HTML aunque el .md tarde en cargar.
+  const contenido =
+    radar && listaRadares.length > 0 ? generarContenidoRadar(radar, listaRadares) : null;
+  const slugComunidad = radar ? SLUG_COMUNIDAD[radar.comunidad] : undefined;
+
+  // JSON-LD: BreadcrumbList (Inicio > Radares > {comunidad} > Radar) y, con el
+  // contenido generado, FAQPage con el mismo patrón que las fichas
+  // (mainEntity Question/acceptedAnswer dentro del mismo @graph).
   // useSeo() detecta que el schema ya trae BreadcrumbList y no añade otro.
   const schema = radar
     ? {
@@ -237,6 +251,18 @@ export default function RadarPage() {
               },
             ],
           },
+          ...(contenido
+            ? [
+                {
+                  "@type": "FAQPage",
+                  mainEntity: contenido.faq.map((f) => ({
+                    "@type": "Question",
+                    name: f.pregunta,
+                    acceptedAnswer: { "@type": "Answer", text: f.respuesta },
+                  })),
+                },
+              ]
+            : []),
         ],
       }
     : undefined;
@@ -381,6 +407,18 @@ export default function RadarPage() {
               </CardContent>
             </Card>
 
+            {/* Dónde está este radar (generado desde los datos de la ficha) */}
+            {contenido && (
+              <section className="mb-8" aria-label="Dónde está este radar">
+                <h2 className="text-xl font-bold mb-3">Dónde está este radar</h2>
+                {contenido.dondeEsta.map((p, i) => (
+                  <p key={i} className="text-slate-700 leading-relaxed mb-3">
+                    {p}
+                  </p>
+                ))}
+              </section>
+            )}
+
             {/* Mapa 2D */}
             <section className="mb-8" aria-label="Mapa de ubicación del radar">
               <h2 className="text-xl font-bold mb-3 flex items-center gap-2">
@@ -437,6 +475,113 @@ export default function RadarPage() {
                 className="prose prose-slate max-w-none mb-8"
                 dangerouslySetInnerHTML={{ __html: contenidoHtml }}
               />
+            )}
+
+            {contenido && (
+              <>
+                {/* Sanciones según el límite del punto (cuadro oficial DGT) */}
+                <section className="mb-8" aria-label="Multas por exceso de velocidad en este punto">
+                  <h2 className="text-xl font-bold mb-3">
+                    Si superas el límite en este punto: multas y puntos
+                  </h2>
+                  <p className="text-slate-700 leading-relaxed mb-3">{contenido.sancionIntro}</p>
+                  {contenido.sancionFilas && (
+                    <div className="overflow-x-auto mb-3">
+                      <table className="w-full text-sm border border-slate-200">
+                        <thead>
+                          <tr className="bg-slate-100 text-left">
+                            <th className="px-3 py-2 font-semibold">Velocidad registrada</th>
+                            <th className="px-3 py-2 font-semibold">Multa</th>
+                            <th className="px-3 py-2 font-semibold">Puntos</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                          {contenido.sancionFilas.map((f) => (
+                            <tr key={f.rango} className="border-t border-slate-200">
+                              <td className="px-3 py-2">{f.rango}</td>
+                              <td className="px-3 py-2">{f.importe} €</td>
+                              <td className="px-3 py-2">{f.puntos === 0 ? "Sin pérdida" : f.puntos}</td>
+                            </tr>
+                          ))}
+                        </tbody>
+                      </table>
+                    </div>
+                  )}
+                  <p className="text-slate-700 leading-relaxed">{contenido.sancionCierre}</p>
+                  <p className="text-xs text-slate-500 mt-2">
+                    Fuente: cuadro de sanciones por exceso de velocidad de la DGT (Ley de Tráfico y
+                    Seguridad Vial).
+                  </p>
+                </section>
+
+                {/* Si este radar te ha cazado */}
+                <section className="mb-8" aria-label="Qué hacer si este radar te ha multado">
+                  <h2 className="text-xl font-bold mb-3">Si este radar te ha cazado: qué hacer</h2>
+                  {contenido.cazado.map((p, i) => (
+                    <p key={i} className="text-slate-700 leading-relaxed mb-3">
+                      {p}
+                    </p>
+                  ))}
+                  <p className="text-slate-700 leading-relaxed">
+                    Puedes{" "}
+                    <a href="/#analizador" className="text-blue-700 underline hover:text-blue-900">
+                      analizar tu multa gratis con nuestra IA
+                    </a>{" "}
+                    para buscar posibles vicios de forma antes de decidir, y repasar la{" "}
+                    <Link to="/guias/radares/" className="text-blue-700 underline hover:text-blue-900">
+                      guía de radares de la DGT
+                    </Link>{" "}
+                    para entender cómo funciona cada tipo de control y qué plazos tienes.
+                  </p>
+                </section>
+
+                {/* Radares cercanos (del índice oficial) */}
+                <section className="mb-8" aria-label="Radares cercanos">
+                  <h2 className="text-xl font-bold mb-3">Radares cercanos</h2>
+                  <p className="text-slate-700 leading-relaxed mb-3">{contenido.cercanosIntro}</p>
+                  {contenido.cercanos.length > 0 && (
+                    <ul className="list-disc pl-5 space-y-1.5 text-slate-700 mb-3">
+                      {contenido.cercanos.map((c) => (
+                        <li key={c.id_unico}>
+                          <Link
+                            to={`/radares/${c.id_unico}/`}
+                            className="text-blue-700 underline hover:text-blue-900"
+                          >
+                            {c.texto}
+                          </Link>
+                        </li>
+                      ))}
+                    </ul>
+                  )}
+                  <p className="text-slate-700 leading-relaxed">
+                    <Link to="/radares/" className="text-blue-700 underline hover:text-blue-900">
+                      Ver el índice completo de radares fijos de España
+                    </Link>
+                    {slugComunidad && (
+                      <>
+                        {" · "}
+                        <Link
+                          to={`/comunidades/${slugComunidad}/`}
+                          className="text-blue-700 underline hover:text-blue-900"
+                        >
+                          Multas y radares en {radar.comunidad}
+                        </Link>
+                      </>
+                    )}
+                  </p>
+                </section>
+
+                {/* Preguntas frecuentes (con schema FAQPage en el @graph) */}
+                <section className="mb-8" aria-label="Preguntas frecuentes sobre este radar">
+                  <h2 className="text-xl font-bold mb-3">Preguntas frecuentes</h2>
+                  {contenido.faq.map((f) => (
+                    <div key={f.pregunta} className="mb-4">
+                      <h3 className="font-semibold mb-1">{f.pregunta}</h3>
+                      <p className="text-slate-700 leading-relaxed">{f.respuesta}</p>
+                    </div>
+                  ))}
+                </section>
+              </>
             )}
           </article>
         )}
