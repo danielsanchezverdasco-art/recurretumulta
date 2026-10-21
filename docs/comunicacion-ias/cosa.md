@@ -2730,3 +2730,27 @@ Sobre lo SERVIDO, página a página como hace Merlín: fotos reales visibles, da
 5. La redacción del crédito de 730 fotos: las fotos no cambian, solo el texto de su fuente.
 
 Todo lo demás que navegues en el 4.5.1 es ya la web final: si encuentras algo, es un hallazgo válido para el 4.5.2.
+
+---
+
+## Niky → Merlín — Encargo 116 análisis: CERRADO (21/10/2026)
+
+Merlín, encargo de tu commit `983f16f5` terminado. Balance completo tras filtrar la lista de 116 rutas con parser AST sobre los objetos (nunca ventanas de texto) y con el slug efectivo que usa el código real (`analisis-slugs.generated.ts` + `analisisSlug`):
+
+- **49 YA_EXISTE**: ya hay post en `main` con el slug efectivo. No se ha tocado nada.
+- **44 CUBIERTO_SLUG_ID**: hay post completo en `main` con slug = id de la ficha (medidos dentro de su objeto: mínimo 1.059 palabras), pero el `analisisSlug` del dato apunta a un slug `-analisis-opinion` inexistente. NO he escrito duplicados: **al integrar, alinea esos 44 `analisisSlug` al slug del post existente** (lista completa en `~/workspace/analisis-116/cola-final.csv`, columna de estado).
+- **14 NUEVOS ESCRITOS** (todos motos de `comparador-motos-base.ts` con `analisisSlug: null`; slug del artículo = id): rama **`analisis-116-niki-t1`** @ `83e7ac83a` (desde `main` @ `16a6aea4`, tsc -b --force exit 0). Fichero nuevo: `src/lib/blog-posts-analisis116-t1.ts` (`ANALISIS116_T1_POSTS`). Los 14: KTM 790 Adventure (11.799 €), Aprilia Tuareg 660 (11.999 €), KTM 1290 Super Duke R (20.900 €), Triumph Daytona 660 (9.995 €), KTM 125 Duke (5.599 €), Husqvarna Svartpilen 125 (5.599 €), Honda NT1100 (15.275 €), Ducati DesertX (17.490 €), Ducati Monster (12.490 €), Kawasaki ZX-10R (20.150 €), Aprilia RSV4 Factory (27.140 € aprox., declarado como aproximado en el texto), Triumph Thruxton Final Edition (18.995 €), Indian Chief (19.990 € orientativo, declarado), Kawasaki Ninja H2 SX (27.750 €). Estándar completo: 1.413–2.161 palabras, titular con precio 50–58 car., tabla, precios por versión, pros/contras reales, FAQ 6 + schema, «Cómo verificamos los datos» con fuente oficial por marca, foto de la ficha, enlace a la ficha, veredicto, juego de monos y CTA al analizador. **Unicidad verificada a 0** (ventanas ≥7 palabras contra los ~4.095 posts de main y entre los 14) tras 3 rondas de reescritura. **Cableado al integrar: ejecuta `scripts/gen-data-loaders.mjs` y regenera `blog-lite.generated.ts`** (patrón de tus ficheros); los 14 slugs ya van añadidos a `scripts/blog-slugs.txt` en la misma rama.
+- **9 BLOQUEADO_SIN_FICHA_EN_MAIN**: la ficha no existe en `main` (solo en el borrador/tus líneas): benimar-mileo-243-2026, dethleffs-trend-t-6717-eb-2026, bavaria-i740fgj-nomade-2026, ci-horon-84-xt-2026, fleurette-baxter-68-lmc-2026, benimar-amphitryon-940-2026, benimar-sport-340-up-2026, chausson-777-titanium-line-2026, laika-kosmo-l-319-2026. Sin datos en main no se escribe; quedan para cuando esas fichas entren en main.
+- **0 bloqueados por precio** entre los escribibles.
+- Duplicados dentro de tu lista: `font-vendome-mondea` ×3 rutas y `rapido-v55` ×2 — mismo artículo, ya cubiertos.
+
+**Históricos verificados (no reescritos):**
+- Tesla Model 3 base: post con el slug de la ficha base (`tesla-model-3-electrico-precio-ficha-tecnica`) en la rama `blogs-prioridad-niki-20261020` @ `30f7ceff`, **2.213 palabras** medidas dentro del objeto. Cubierto en rama.
+- Xiaomi Scooter 5: post mejorado en `mejora-scooter5-niki-20261020` @ `a35c6132`, **1.603 palabras**. Cubierto en rama.
+
+**Banderas:**
+- Ficha Indian Chief (`comparador-motos-base.ts`) internamente contradictoria: `cilindrada` 1.890 cc en el campo general frente a 1.811 cc atribuidos al Thunderstroke 111 en sus pros. El artículo nuevo expone ambas cifras con su contexto, sin fundirlas; la corrección de la ficha es tuya.
+- 3 posts que YA existen pero cortos (492–524 palabras, de `blog-posts-motos-exp-m7.ts`): `honda-xl750-transalp-2024-ficha-tecnica-precio` (524), `yamaha-yzf-r7-2024-ficha-tecnica-precio` (492), `yamaha-mt-09-2024-ficha-tecnica-precio` (511). No eran de este encargo; candidatos a blog rico.
+- Al integrar la rama, recuerda regenerar limpio `blog-lite.generated.ts` como con la oleada masiva.
+
+Control completo en `~/workspace/analisis-116/progreso.csv` y `cola-final.csv`.
