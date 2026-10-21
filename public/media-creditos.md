@@ -9762,3 +9762,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/sym-maxsym-gt-400-2026-ficha-tecnica-precio-hunt3.webp | https://motoandbiketv.gr/wp-content/uploads/2024/05/maxsymgt-1.jpg | SYM (foto oficial de prensa) vía Moto&Bike TV | desconocida |
 | /media/mv-agusta-rapido-serie-oro-hunt1.webp | https://www.mediaexpert.pl/media/cache/resolve/gallery/images/39/3965910/MV-AGUSTA-Rapido-Serie-Oro-10-Czarny-skos.jpg | MV Agusta (foto oficial de producto) vía Media Expert | desconocida |
 | /media/mv-agusta-rapido-serie-oro-hunt2.webp | https://emvagusta.com/cdn/shop/files/product-slider__rapido-serie-oro--1.jpg?v=1691375842&width=2906 | MV Agusta e-Mobility (tienda oficial e-MV Agusta) | desconocida |
+| /media/renault-trafic-e-tech-2026-precio-ficha-tecnica-hunt1.webp | https://www.automaistv.com.br/wp-content/uploads/2023/09/renault-trafic-electric-1_edited.jpg | Renault Communications / AutoMais TV | desconocida |
+| /media/renault-trafic-e-tech-2026-precio-ficha-tecnica-hunt2.webp | https://i.bstr.es/espaciofurgo/2022/09/R-DAM_1430155-1536x1152.jpg.webp | Renault (prensa, activo R-DAM) / Espacio Furgo | desconocida |
+| /media/renault-trafic-e-tech-2026-precio-ficha-tecnica-hunt3.webp | https://movilidadelectrica.com/wp-content/uploads/2023/12/unnamed.jpg | Renault (prensa) / Movilidad Eléctrica | desconocida |
+| /media/dr-5-stilnovo-2026-precio-ficha-tecnica-hunt1.webp | https://www.motorbox.com/image/dr-5-stilnovo/8/5/1/851108/851108-16x9-lg.jpg | Motorbox | desconocida |
+| /media/dr-5-stilnovo-2026-precio-ficha-tecnica-hunt2.webp | https://www.motorbox.com/image/dr-5-stilnovo/8/5/1/851109/851109-16x9-lg.jpg | Motorbox | desconocida |
+| /media/dr-5-stilnovo-2026-precio-ficha-tecnica-hunt3.webp | https://www.motorbox.com/image/dr-5-stilnovo/8/5/1/851111/851111-16x9-lg.jpg | Motorbox | desconocida |
+| /media/sym-maxsym-tl-508-2025-ficha-tecnica-precio-hunt1.webp | https://www.sym.com.es/images/modelos/med_width_1694014171sym-maxsiscooter-maxsym-tl-508-2023-test-ride.jpg | SYM España | desconocida |
+| /media/sym-maxsym-tl-508-2025-ficha-tecnica-precio-hunt2.webp | https://arenamotosikal.com/wp-content/uploads/2024/05/2024-SYM-Maxsym-TL508-6.jpg | Arena Motosikal / SYM Malaysia | desconocida |
+| /media/sym-maxsym-tl-508-2025-ficha-tecnica-precio-hunt3.webp | https://urbaanews.com/wp-content/uploads/2022/03/33-urbaanews-sym-maxsym-tl-508-euro5.jpg | Urbaanews | desconocida |
+| /media/fiat-500-iride-hunt1.webp | https://i0.wp.com/moparinsiders.com/wp-content/uploads/2021/11/Mopar-FIAT-Iride-eScooter.-Mopar-1.jpg?fit=2224%2C1252&ssl=1 | Mopar / Stellantis (prensa) vía MoparInsiders | desconocida |
+| /media/fiat-500-iride-hunt2.webp | https://www.revista-gadget.es/wp-content/uploads/2022/09/Foto_FIAT_IridePatinete_2.jpg | Mopar / Stellantis (prensa) vía Revista Gadget | desconocida |
+| /media/fiat-500-iride-hunt3.webp | http://nuevamovilidad.com/wp-content/uploads/2021/11/Mopar-500-Iride1.jpg | Mopar / Stellantis (prensa) vía Nueva Movilidad | desconocida |
