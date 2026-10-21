@@ -4759,26 +4759,26 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
     pros: [
-      "Scrambler bicilíndrica apta para el A2: 47,4 CV y 56,5 Nm",
-      "Nombre con historia: homenaje a la Big Bear Run californiana",
-      "Horquilla invertida Showa de 43 mm y doble amortiguador trasero",
-      "ABS desconectable en la rueda trasera para el off-road",
-      "184 mm de altura libre al suelo: válida para pistas",
-      "Precio de 7.387 €: la scrambler twin más barata",
+      "Encaja de serie en el tope del A2 con 47,4 CV, sin recurrir a ningún kit de limitación",
+      "El empuje de 56,5 Nm se siente lleno desde abajo, perfecto para rodar relajado enlazando curvas",
+      "Delante trabaja una invertida Showa de 43 mm, solución poco habitual en este nivel de precio",
+      "Cuando entras en tierra puedes anular el ABS trasero y dejar que la rueda deslice a tu gusto",
+      "Deja 184 mm libres bajo el motor, margen tranquilizador si te desvías hacia caminos sencillos",
+      "Por 7.387 € accedes en 2026 a una twin de aire scrambler con muy pocos rivales directos"
     ],
     contras: [
-      "214 kg en orden de marcha: pesada para el campo",
-      "47,4 CV: justa en autopista",
-      "Suspensiones traseras solo regulables en precarga",
-      "Depósito de 13,7 litros",
-      "Los acabados son sencillos frente a la competencia europea",
+      "Sobre la báscula marca 214 kg lista para rodar, peso que complica maniobras lentas entre piedras",
+      "En vías rápidas cumple con sus 47,4 CV, aunque cada adelantamiento pide anticiparse más de lo habitual",
+      "Atrás la única regulación posible es la precarga, sin ajustes hidráulicos para afinar el comportamiento",
+      "El tanque se queda en 13,7 litros, así que en rutas largas tocará repostar antes de lo deseado",
+      "Materiales y terminaciones buscan contener el coste final, quedando por detrás de rivales europeas más refinadas"
     ],
     curiosidades: [
-      "El nombre viene de la carrera Big Bear Run del desierto californiano",
-      "Eddie Mulder ganó esa carrera con 16 años sobre una Royal Enfield",
-      "Lleva placa portanúmeros como las scrambler de competición",
-      "Comparte el bicilíndrico 650 con la Interceptor y la Continental GT",
-      "Es la primera scrambler bicilíndrica de Royal Enfield",
+      "Su denominación evoca una mítica prueba disputada en pleno desierto de California, conocida como Big Bear Run",
+      "Un jovencísimo Eddie Mulder, con solo 16 años, se impuso en aquella cita pilotando una unidad de la marca",
+      "El dorsal lateral estilo portanúmeros remite directamente a las máquinas que competían lejos del asfalto",
+      "Bajo el depósito vive el mismo bloque de dos cilindros y 650 que ya animaba a Interceptor y Continental GT",
+      "Dentro del catálogo histórico de la firma, inaugura la fórmula scrambler apoyada en un motor bicilíndrico"
     ],
     imagen: "/media/royal-enfield-bear-650-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [

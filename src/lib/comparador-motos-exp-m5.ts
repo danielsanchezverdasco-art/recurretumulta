@@ -172,26 +172,26 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: [],
     pros: [
-      "Solo 131 kg: la Zero más ligera y manejable, casi como una 125",
-      "Batería extraíble: se puede cargar en casa sin garaje con punto de carga",
-      "161 km de autonomía urbana con la batería de 7,2 kWh",
-      "Estética de supermotard, divertidísima en ciudad y carreteras reviradas",
-      "44 CV con entrega inmediata: acelera como motos mucho más grandes",
-      "Ideal como segunda moto o para quien viene de una 125",
+      "Con 131 kg en orden de marcha, se mueve entre coches y por pistas con una agilidad poco habitual en una eléctrica",
+      "El pack de 7,2 kWh se desmonta, así que puedes recargarlo dentro de casa aunque aparques en la calle",
+      "Declara 161 km por carga en uso urbano, suficientes para cubrir varios días de desplazamientos cortos",
+      "Su planteamiento mezcla postura erguida, manillar ancho y un enfoque pensado para alternar asfalto con caminos sencillos",
+      "Los 44 CV llegan de golpe al abrir el gas, con esa respuesta instantánea propia de un motor eléctrico",
+      "El carnet A2 ya da acceso a ella, y su etiqueta Cero facilita circular por zonas de bajas emisiones"
     ],
     contras: [
-      "Precio no publicado en España: hay que pedir presupuesto al concesionario",
-      "Autonomía justa para salir de ruta: pensada para ciudad y cercanías",
-      "Sin carenado: en autopista el viento cansa y la autonomía se desploma",
-      "Batería de 7,2 kWh pequeña frente a sus hermanas mayores",
-      "Asiento duro y estrecho para viajes largos",
-      "Red comercial reducida: probar una antes de comprar no siempre es fácil",
+      "Zero no anuncia un importe cerrado para España en esta ficha, así que toca consultar condiciones en un distribuidor",
+      "Fuera del entorno urbano, esos 161 km se quedan cortos si pretendes enlazar localidades alejadas sin recargar",
+      "Al ir desnuda, mantener ritmos de vía rápida resulta incómodo y el consumo se dispara enseguida",
+      "Quien necesite trayectos largos echará en falta una batería con más capacidad que esos 7,2 kWh",
+      "La banqueta, pensada para moverte sobre la moto en campo, no invita a pasar horas sentado",
+      "La presencia comercial de la marca en España es limitada, lo que complica encontrar una unidad de prueba cercana"
     ],
     curiosidades: [
-      "La FX es la puerta de entrada a la gama Zero con chasis de moto grande",
-      "Su batería extraíble pesa lo suficiente para que hagan falta dos personas o una carretilla",
-      "Comparte filosofía con las supermotard: ligera, alta y nerviosa",
-      "Zero la posiciona como moto urbana con alma de enduro ligera",
+      "Dentro del catálogo de 2025, la FX ocupa el escalón de acceso sin renunciar a un planteamiento de moto adulta",
+      "Aunque el sistema permite extraer la batería, moverla no es tarea para hacer a la ligera ni en solitario",
+      "Su inspiración viene de las supermotard: altura, poco peso y reacciones rápidas para divertirse a ritmo tranquilo",
+      "La marca la plantea como una dual ligera: herramienta diaria entre semana y juguete de fin de semana fuera del asfalto"
     ],
     imagen: "/media/motos/zero-fx-2025-ficha-tecnica-precio-1.webp",
     galeria: [

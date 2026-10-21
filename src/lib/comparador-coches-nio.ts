@@ -123,6 +123,68 @@ export const COCHES_NIO: CocheComparador[] = [
         }
       ]
     },
+  
+    planMantenimiento: {
+      "intervalo": "Sin revisión anual única fijada en el manual europeo: NIO prescribe operaciones por componente según tiempo o kilometraje, a realizar en un NIO Service Center",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Líquido de frenos",
+          "queSeCambia": "Sustitución completa del líquido de frenos cada 3 años"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Refrigerante del sistema de propulsión",
+          "queSeCambia": "Comprobación como máximo al 5.º año o a los 100.000 km, lo primero que ocurra, y sustitución solo si no cumple el estándar técnico de NIO; si no se sustituye, nueva comprobación cada 2 años o 40.000 km"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Pastillas de freno",
+          "queSeCambia": "Comprobación de desgaste como máximo al 5.º año o a los 100.000 km, lo primero que ocurra, y sustitución solo si es necesaria; si no se sustituyen, nueva comprobación cada 2 años o 40.000 km"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Discos de freno",
+          "queSeCambia": "Comprobación de desgaste como máximo al 10.º año o a los 200.000 km, lo primero que ocurra, y sustitución solo si es necesaria; si no se sustituyen, nueva comprobación cada 2 años o 40.000 km"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Aceite de la caja de cambios",
+          "queSeCambia": "Sustitución cada 200.000 km"
+        }
+      ]
+    },
+  
+    planMantenimiento: {
+      "intervalo": "Sin revisión anual única fijada en el manual europeo: NIO prescribe operaciones por componente según tiempo o kilometraje, a realizar en un NIO Service Center",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Líquido de frenos",
+          "queSeCambia": "Sustitución completa del líquido de frenos cada 3 años"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Refrigerante del sistema de propulsión",
+          "queSeCambia": "Comprobación como máximo al 5.º año o a los 100.000 km, lo primero que ocurra, y sustitución solo si no cumple el estándar técnico de NIO; si no se sustituye, nueva comprobación cada 2 años o 40.000 km"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Pastillas de freno",
+          "queSeCambia": "Comprobación de desgaste como máximo al 5.º año o a los 100.000 km, lo primero que ocurra, y sustitución solo si es necesaria; si no se sustituyen, nueva comprobación cada 2 años o 40.000 km"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Discos de freno",
+          "queSeCambia": "Comprobación de desgaste como máximo al 10.º año o a los 200.000 km, lo primero que ocurra, y sustitución solo si es necesaria; si no se sustituyen, nueva comprobación cada 2 años o 40.000 km"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Aceite de la caja de cambios",
+          "queSeCambia": "Sustitución cada 200.000 km"
+        }
+      ]
+    },
   },
   {
     id: "nio-et5-touring-2025-precio-ficha-tecnica",
@@ -204,6 +266,37 @@ export const COCHES_NIO: CocheComparador[] = [
         "alto": 1280
       }
     ],
+  
+    planMantenimiento: {
+      "intervalo": "Según el manual oficial del ET5 Touring, en condiciones normales de uso: líquido de frenos cada 3 años y aceite de la caja de cambios cada 200.000 km; refrigerante, pastillas y discos se comprueban por años o kilómetros y se sustituyen solo si es necesario. El manual no publica costes, por eso costeAproxEur es null en todas las revisiones.",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Líquido de frenos",
+          "queSeCambia": "Sustitución del líquido de frenos cada 3 años"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Aceite de la caja de cambios",
+          "queSeCambia": "Sustitución del aceite de la caja de cambios cada 200.000 km"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Refrigerante",
+          "queSeCambia": "Comprobación a más tardar en el 5.º año o a los 100.000 km, lo que ocurra antes, y sustitución solo si es necesario; si no se sustituye, nueva comprobación cada 2 años o 40.000 km"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Pastillas de freno",
+          "queSeCambia": "Comprobación del desgaste a más tardar en el 5.º año o a los 100.000 km y sustitución solo si es necesario; si no se sustituyen, nueva comprobación cada 2 años o 40.000 km"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Discos de freno",
+          "queSeCambia": "Comprobación del desgaste a más tardar en el 10.º año o a los 200.000 km y sustitución solo si es necesario; si no se sustituyen, nueva comprobación cada 2 años o 40.000 km"
+        }
+      ]
+    },
   
     planMantenimiento: {
       "intervalo": "Según el manual oficial del ET5 Touring, en condiciones normales de uso: líquido de frenos cada 3 años y aceite de la caja de cambios cada 200.000 km; refrigerante, pastillas y discos se comprueban por años o kilómetros y se sustituyen solo si es necesario. El manual no publica costes, por eso costeAproxEur es null en todas las revisiones.",
@@ -509,6 +602,37 @@ export const COCHES_NIO: CocheComparador[] = [
         "alto": 1280
       }
     ],
+  
+    planMantenimiento: {
+      "intervalo": "Según el manual oficial del EL7: líquido de frenos cada 3 años; comprobación de refrigerante y de pastillas a más tardar al 5.º año o a los 100.000 km; comprobación de discos al 10.º año o a los 200.000 km; aceite de la caja de cambios cada 200.000 km",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Líquido de frenos",
+          "queSeCambia": "Sustitución del líquido de frenos cada 3 años, según el manual oficial del EL7"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Refrigerante",
+          "queSeCambia": "Comprobación a más tardar al 5.º año o a los 100.000 km, lo que llegue antes, y sustitución solo si no cumple el estándar de Nio; si no se cambia, nueva comprobación cada 2 años o 40.000 km"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Pastillas de freno",
+          "queSeCambia": "Comprobación de desgaste a más tardar al 5.º año o a los 100.000 km, lo que llegue antes, y sustitución solo si es necesaria; si no se cambian, nueva comprobación cada 2 años o 40.000 km"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Discos de freno",
+          "queSeCambia": "Comprobación de desgaste a más tardar al 10.º año o a los 200.000 km, lo que llegue antes, y sustitución solo si es necesaria; si no se cambian, nueva comprobación cada 2 años o 40.000 km"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Aceite de la caja de cambios",
+          "queSeCambia": "Sustitución del aceite de la caja de cambios cada 200.000 km, según el manual oficial del EL7"
+        }
+      ]
+    },
   
     planMantenimiento: {
       "intervalo": "Según el manual oficial del EL7: líquido de frenos cada 3 años; comprobación de refrigerante y de pastillas a más tardar al 5.º año o a los 100.000 km; comprobación de discos al 10.º año o a los 200.000 km; aceite de la caja de cambios cada 200.000 km",

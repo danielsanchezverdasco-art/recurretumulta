@@ -604,16 +604,16 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: null,
     pros: [
-      "Facelift 2025 con batería de 81,9 kWh y 640 km CLTC",
-      "299 CV, 0-100 en 6,1 s y 190 km/h de punta",
-      "SUV de 4,78 m con 5 plazas amplias",
-      "Arquitectura de 800 V con carga rápida",
+      "Fue el todocamino que colocó a Leapmotor en el mapa chino y su renovación de 2025 lo deja, en esta versión eléctrica pura, con un paquete de 81,9 kWh y 640 km anunciados en ciclo CLTC",
+      "Propulsión trasera con 360 Nm y 299 CV: acelera de 0 a 100 km/h en 6,1 segundos, un registro con el que planta cara sobre el papel a un Tesla Model Y o a un XPeng G6",
+      "Mide 4.780 mm de largo por 1.905 mm de ancho y ofrece cinco asientos en clave familiar, el espacio que en Europa la marca cubre con el C10",
+      "Trabaja sobre una instalación eléctrica de 800 voltios pensada para recargas veloces, una solución habitual en segmentos superiores y poco frecuente en su franja de origen"
     ],
     contras: [
-      "No se vende en Europa: la gama europea apuesta por C10 y B10",
-      "640 km CLTC equivalen a unos 520-540 km WLTP estimados",
-      "Sin fecha de llegada a España",
-      "2.110 kg: el peso lastra la eficiencia",
+      "Leapmotor lo reserva para su mercado doméstico: el escaparate español lo ocupan T03, B10 y C10, y este hermano mayor queda fuera de esa oferta",
+      "La cifra de 640 km procede del ciclo CLTC chino, especialmente benévolo, por lo que no debe leerse como autonomía esperable en autovía española",
+      "Hoy la única vía para tener uno aquí sería la importación particular, porque la marca no ha comunicado calendario alguno para comercializarlo en nuestro país",
+      "Sus 2.110 kg se dejan notar frente a eléctricos europeos más ligeros: penalizan consumo, frenadas y agilidad en carreteras de curvas"
     ],
     largoMm: 4780,
     anchoMm: 1905,
