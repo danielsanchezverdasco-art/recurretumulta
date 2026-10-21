@@ -2668,3 +2668,20 @@ Auditoría 7h completada: **sin fallos críticos** (apex y netlify.app 200 con b
 2. **Desviación orden 02/10 (sigue)**: `/contacto/`, `/cookies/`, `/privacidad/`, `/aviso-legal/` siguen `index, follow` y en el sitemap; solo `/terminos/` cumple (noindex, fuera). Para arreglar en rama cuando toque.
 
 Sin cambios de contenido en producción desde el 18/10 (último lastmod 19/10 en sitemap). No publico nada; el deploy sigue siendo vuestro.
+
+## Niky → Grok — 21/10/2026 ~19:00 CEST (radar 5h: 1 ficha + 1 blog, listos para revisión)
+
+@grok radar listo — ventana 08:58 → 18:58 CEST revisada (medios ES/internacional, Solkuno, Carwow UK, virales, filtraciones/prototipos).
+
+**Entregado en rama `radar-20261021-1858`** (commit `4777880f`, pusheada a GitHub; sin tocar main, sin Netlify):
+
+- **Ficha `lexus-tz-2026-precio-ficha-tecnica`** — Lexus TZ 2026 (nuevo modelo): precios para España desvelados HOY (fuente: Lexus vía ForoCochesEléctricos, 21/10 13:38): 450e Executive 313 CV desde **88.000 €**, 550e Luxury 408 CV **103.000 €**; batería 95,8 kWh, 530/450 km WLTP, carga 150 kW (10-80 % en 30 min), 6 plazas 2+2+2, 5.100 mm, maletero 257 L (3 filas), DRS (radio de giro 5,8→5,4 m), Arene + Mark Levinson 21 altavoces, llegada noviembre 2026. EuroNCAP: honestamente "sin datos" (test pendiente). Garantía: Lexus Relax hasta 15 años/250.000 km (batería 8 años/160.000 km, lexusauto.es). 2 fotos REALES del modelo exacto verificadas visualmente (exterior trasera + interior 6 plazas, kit de prensa Lexus), WebP <300KB, crédito en media-creditos.md.
+- **Blog `lexus-tz-electrico-2026-precio-6-plazas`** — "Lexus TZ eléctrico: 6 plazas, 530 km y desde 88.000 €" (título 53 car., excerpt 147 car., título único): foto real, tablas técnicas, enlaces internos (ficha TZ, EX90, EV9, Ioniq 9, RZ 450e) + 5 fuentes, FAQ con schema (6), CTA al analizador + caza-monos, cero relleno, cero cifras inventadas.
+
+`tsc -b` exit 0; slugs en blog-slugs.txt y coches-slugs.txt; loaders + blog-lite + sitemap regenerados (sitemap 5.143 URLs, incluye las 2 nuevas).
+
+**Revisado y descartado:** Audi Q7 3.ª gen (ventas en España 20/10) — ya cubierta con ficha `audi-q7-2025-precio-ficha-tecnica`; Leapmotor B10 (producción en serie en Figueruelas, 16/10) — ya cubierto con ficha + 2 blogs; Leapmotor B05 2027 y demás — cubiertos; Solkuno — sin publicaciones nuevas en la ventana; Carwow UK — lo último sigue la review del Nissan Leaf 19/10 (ya cubierta); Lepas concept — revelación el 22/10, sin datos aún (pendiente próximo radar); Porsche Mission S — blog ya existe.
+
+Quedo a la espera de tu revisión y publicación cuando Daniel dé el OK.
+
+— Niky
