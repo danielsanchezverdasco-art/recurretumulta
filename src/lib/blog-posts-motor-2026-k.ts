@@ -127,6 +127,54 @@ Ficha completa: <a href=/motos/bmw-f-450-r-2026-ficha-tecnica-precio/>BMW F 450 
 
 <img src=/media/bmw-f-450-r-naked-a2-precio-espana-2026-galeria-2.webp alt=Salpicadero TFT de una moto naked visto desde el puesto del piloto en carretera>
 
+## La familia F de BMW Motorrad: las bicilíndricas de acceso
+
+La letra F identifica en BMW Motorrad a las bicilíndricas de acceso, el escalón histórico de las F 800. La familia F 450 usa una única base de 420 cc para dos motos: la trail <a href=/motos/bmw-f-450-gs-2026-ficha-tecnica-precio/>BMW F 450 GS</a> y esta naked, que según su ficha del sitio es la BMW bicilíndrica más accesible hasta la fecha.
+
+## Profundidad técnica: qué hay detrás de las cifras
+
+El detalle diferencial es el cigüeñal calado a 135 grados, casi único en el segmento, que busca más carácter y sonido, con eje de equilibrado antivibraciones. El 80 % del par está disponible desde 3.000 rpm, según la nota oficial de BMW Motorrad.
+
+| Dato | BMW F 450 R |
+|---|---|
+| Motor | Bicilíndrico en paralelo, 420 cc |
+| Potencia | 48 CV (35 kW) a 8.750 rpm |
+| Par máximo | 43 Nm a 6.750 rpm |
+| Peso en orden de marcha | 175 kg |
+| Consumo declarado | 3,8 l/100 km |
+| Depósito y autonomía | 14 litros, más de 350 km |
+| Precio en España | Desde 6.799 € |
+
+El chasis es multitubular de acero con el motor portante, horquilla KYB de 43 mm y freno Brembo de 310 mm. La electrónica es su argumento más sólido: ABS Pro en curva, DTC, DBC, MSR y tres modos de serie. Más detalle en la <a href=/motos/bmw-f-450-r-2026-ficha-tecnica-precio/>ficha de la BMW F 450 R</a>.
+
+## Uso real: ciudad, curvas y límites honestos
+
+En ciudad juega con ventaja: 175 kg, par desde abajo y, con el Easy Ride Clutch, arrancar y cambiar sin tocar la maneta. En curvas, horquilla invertida, freno Brembo y modo Dynamic apuntan más alto que la media.
+
+Límites honestos: sin protección, en autopista el viento cansa; la Base no incluye el Shift Assistant Pro ni la suspensión Sport; y aún no hay fiabilidad demostrada.
+
+## Mantenimiento y costes de uso
+
+La ficha del sitio recoge revisiones cada 10.000 km, el estándar de BMW Motorrad según la nota oficial: intervalo más corto que el de sus rivales japonesas (12.000 km en sus fichas), y la propia ficha advierte de que la red BMW suele ser más cara. Sin tarifa oficial cerrada, no inventamos cifras: pide el plan por escrito antes de firmar. Entre revisión y revisión, prueba el <a href=/juego-monos/>juego caza-monos</a>.
+
+## Carnet A2: encaje legal sin limitación
+
+El permiso A2, según el Reglamento General de Conductores que aplica la DGT, autoriza hasta 35 kW y una relación potencia/peso máxima de 0,2 kW/kg; en motos limitadas, la original no puede superar los 70 kW. La F 450 R nace con 35 kW exactos y, con 175 kg, está justo en ese límite: sin kit que instalar ni nada que deslimitar al obtener el permiso A.
+
+## Frente a sus rivales y veredicto
+
+Con los datos de las fichas del sitio:
+
+| Modelo | Precio desde | Potencia | Peso |
+|---|---|---|---|
+| BMW F 450 R | 6.799 € | 48 CV | 175 kg |
+| <a href=/motos/honda-cb500-hornet-2025-ficha-tecnica-precio/>Honda CB500 Hornet</a> | 6.850 € | 47 CV | 188 kg |
+| <a href=/motos/kawasaki-z500-2025-ficha-tecnica-precio/>Kawasaki Z500</a> | 6.350 € | 45,4 CV | 168 kg |
+
+La Hornet cuesta casi lo mismo, pesa 13 kg más y, según su ficha, sin quickshifter ni control de tracción. La Z500 es más barata y ligera, pero con menos potencia. La BMW gana en electrónica.
+
+**Veredicto:** merece la pena si estrenas el A2 y quieres la naked más completa en seguridad y tecnología dentro del límite legal. No es para ti si manda el precio mínimo —ahí gana la Z500—, si haces mucha autopista o si planeas saltar pronto a más potencia: ya nace en su techo.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta la BMW F 450 R en España?
@@ -143,7 +191,8 @@ Un embrague centrífugo que permite **arrancar, parar y cambiar sin accionar la 
 
 ### ¿La BMW F 450 R vale para el carnet A2?
 Sí: con 48 CV cumple el límite del **carnet A2** europeo sin necesidad de limitación.
-`,
+
+*Fuentes: BMW Motorrad (nota de prensa oficial): <a href=https://www.press.bmwgroup.com/global/article/detail/T0460765EN/bmw-motorrad-presents-the-new-bmw-f-450-r?language=en>press.bmwgroup.com</a>; fichas del comparador de motos de RecurreTuMulta.online (BMW F 450 R, Honda CB500 Hornet y Kawasaki Z500); Reglamento General de Conductores (permiso A2, DGT).*`,
 },
 {
   title: "Monster 2026: 111 CV, 12.990 €",
