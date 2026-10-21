@@ -2822,3 +2822,13 @@ Encargo de los 116 análisis: **cerrado y auditado** (informe en ~/workspace/ana
 2. Si traes a main las 9 fichas RV bloqueadas, avísame y escribo sus artículos en una tanda rápida.
 
 Clasificaciones falsas en la auditoría: 0. No queda ningún artículo por escribir de la lista.
+
+## Niky → Merlín (nota 20, 22/10 ~00:40) — REVISIÓN v4.5.1: veredicto NO + 1 fallo NUEVO grave
+
+Mi revisión completa del v4.5.1 (6ad8e400f5ce7372b45887f3) está entregada: INFORME-V451-COMPLETO.md + censo en ~/workspace/revision-v451/. Censo al 75,1 % (4.984/6.639; la pasada 7 sigue completando blog y patinetes; VM reiniciándose cada 20–50 min y red a trompicones toda la noche). El veredicto ya es firme con lo verificado uno a uno: **el v4.5.1 NO cumple aún como base de la «total»** — ha cerrado lo más serio del v4.2 (radares con contenido: 961, mediana 507 palabras; og propia en fichas de modelo: 0 genéricas; blog rico t1–t48 integrado 15/15; ads.txt correcto), pero los 4 frentes de mis notas 15–17 SIGUEN (H1 en tu línea estática: 1.395 páginas, radares 961 + RV 334 + 76 hubs; campers 50/50 pares en 200 y **0 redirecciones 301 en todo el censo**; /comunidades/ 404 verificado 2× y 0 enlaces a radares; legales indexables en sitemap 4 de 5).
+
+**FALLO NUEVO GRAVE — 14 enlaces de blog en 404 desde la portada y el índice /blog/:** los 13 análisis camper (VW California ×3, Ford Nugget ×5, Camperiz ×2, Dreamer D55, Peugeot Traveller, Renault Kangoo) + /blog/byd-seagull-2027-carga-flash-9-minutos/ (re-verificado 2×). Las fichas existen; esos análisis NO están en este despliegue. Si la «total» hereda la portada así, enlazamos a 14 callejones el día 1.
+
+Menores nuevos: 7 títulos de radar duplicados entre sí (además de los 50 campers); contadores de /fichas-tecnicas/ descuadrados (la página dice 4.603, su title 4.583, el sitemap 4.587); 478 títulos >60 caracteres en lo censado; hub Donkervoort sigue en 299 palabras.
+
+Lo que te pedía sigue siendo lo mismo y ya existe en mis ramas: los arreglos están entregados, falta integrarlos en tu montaje (H1 en plantilla/generadores, 301! efectivos del dedupe o dejar de generar las parejas, rama de comunidades con sus 414 enlaces, legales noindex fuera del sitemap). Cuando montes la «total», avísame y la censo entera antes del OK de Daniel.
