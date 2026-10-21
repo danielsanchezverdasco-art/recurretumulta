@@ -373,6 +373,41 @@ El **Salón del Automóvil de París** (12-18 de octubre, Paris Expo Porte de Ve
 
 Cobertura relacionada: <a href=/blog/renault-e-space-concept-paris-2026/>Renault E-Space Concept</a> · <a href=/blog/citroen-2cv-electrico-2026-paris/>Citroën 2CV eléctrico</a> · <a href=/blog/xpeng-g9l-debut-paris-2026/>XPeng G9L</a> · <a href=/blog/liux-big-salon-paris-2026/>Liux BIG</a> · <a href=/comparador-coches/>Comparador de coches</a>
 
+## París como termómetro de la electrificación en Europa
+
+Un salón sirve para ver quién llega con un coche vendible y quién solo con un render. En París se juntan las dos Europas del eléctrico. Las europeas defienden su terreno con compactos y urbanos producidos en el continente, como el ID.Polo hecho en Martorell que cita esta guía. Las chinas ocupan pabellón con gamas completas y estrenos mundiales. Y el titular ya no es la autonomía récord, sino el precio de entrada: el 2CV eléctrico por debajo de 15.000 € o el Cupra Raval de 26.000 €.
+
+## Los estrenos, en clave técnica
+
+Sin salir de los datos que ya recoge esta guía, el mapa se lee mejor comparado:
+
+| Estreno | Dato clave del post | Lectura rápida |
+|---|---|---|
+| Citroën 2CV eléctrico | Menos de 15.000 € | El precio marca el segmento urbano |
+| Volkswagen ID.Polo | 35.070 € y 449 km | Compacto europeo hecho en Martorell |
+| Skoda Epiq | 33.100 € y 440 km | Alternativa compacta en la misma franja |
+| Cupra Raval | 26.000 € y 446 km | Precio menor con autonomía de compacto |
+| XPeng G9L | 577 CV y arquitectura de 800 V | Potencia y carga rápida como argumento |
+| DS N°7 | 740 km de autonomía | La autonomía manda en el premium |
+| Lancia Gamma | Hasta 740 km | El regreso de Lancia se apoya en el alcance |
+| Fiat Grizzly | Objetivo de unos 20.000 € | SUV con precio como reclamo principal |
+
+No todos juegan a lo mismo: unos venden precio, otros autonomía y otros, como el G9L, tecnología de carga. Toca comparar modelos del mismo segmento y para el mismo uso.
+
+## Qué significa para el comprador español
+
+Tres consecuencias prácticas. La primera: la oferta compacta crece donde más se vende, con el ID.Polo, el Epiq y el Raval entre los 26.000 € y los 35.070 €, según esta guía. La segunda: habrá alternativas sin subir de segmento si un modelo se retrasa o se encarece. Y la tercera es una advertencia: concept, estreno mundial y coche a la venta no son lo mismo. El Renault E-Space es un concept, y el propio post lo separa de los modelos con precio y autonomía anunciados. Antes de reservar, toca esperar precio final en España y fecha comercial confirmados por la marca.
+
+## Normativa que empuja estos estrenos: CO2 en la UE y ZBE en España
+
+Ninguna marca presenta esta avalancha por casualidad. La normativa europea de CO2 exige a los turismos nuevos una reducción del **55 % de emisiones frente a 2021 en el periodo 2030-2034** y del **100 % a partir de 2035**, un calendario que empuja a renovar las gamas hacia el eléctrico puro. En España, el efecto se nota con las **Zonas de Bajas Emisiones**: el acceso depende de la ordenanza de cada ciudad y de la etiqueta de la DGT, y los eléctricos puros corresponden a la etiqueta **Cero**. Un eléctrico de esta lista no solo compite en precio y autonomía, también en libertad de acceso urbano. Comprueba siempre la ordenanza de tu ciudad: dos ZBE vecinas pueden aplicar criterios distintos.
+
+## Cómo seguir cada modelo en su ficha
+
+El seguimiento se hace modelo a modelo. Consulta la <a href=/coches/volkswagen-id-polo-2026-precio-ficha-tecnica/>ficha del Volkswagen ID.Polo</a>, la <a href=/coches/cupra-raval-2026-precio-ficha-tecnica/>ficha del Cupra Raval</a> y la <a href=/coches/skoda-epiq-2026-precio-ficha-tecnica/>ficha del Skoda Epiq</a> para comparar los tres compactos. Si te interesa la ofensiva china, tienes la <a href=/coches/leapmotor-b03-2026-precio-ficha-tecnica/>ficha del Leapmotor B03</a> y la <a href=/coches/leapmotor-d19-2026-precio-ficha-tecnica/>ficha del Leapmotor D19</a>; si buscas el urbano, la <a href=/coches/citroen-2cv-electrico-2028/>ficha del Citroën 2CV eléctrico</a>, y si miras al premium, la <a href=/coches/lancia-gamma-2026-precio-ficha-tecnica/>ficha del Lancia Gamma</a> y la <a href=/coches/smart-2-2026-precio-autonomia-paris/>ficha del smart #2</a>. Y entre ficha y ficha, puedes dedicar un rato al <a href=/juego-monos/>juego caza-monos</a>, donde hay monos ocultos repartidos por distintas páginas.
+
+**Veredicto:** París 2026 merece la pena como mapa, no como lista de la compra. Lo sólido son los compactos y urbanos con precio y autonomía ya anunciados —Raval, Epiq e ID.Polo— y la presión real de las marcas chinas. Lo que todavía es promesa debe leerse como declaración de intenciones. La decisión acertada es esperar a los precios finales en España, comparar las fichas que encajen y no pagar hoy por un titular de salón.
+
 ## Preguntas frecuentes
 
 ### ¿Cuándo es el Salón de París 2026?
@@ -386,6 +421,8 @@ El **Citroën 2CV eléctrico**, con un precio objetivo por debajo de los **15.00
 
 ### ¿Hay alguna marca española en el Salón de París 2026?
 Sí: **Liux** presenta la versión de producción de su cuadriciclo **BIG**.
-`,
+
+
+*Fuentes: <a href=https://mondial-paris.com>web oficial del Salón del Automóvil de París (Mondial de l'Auto)</a>.*`,
 },
 ];

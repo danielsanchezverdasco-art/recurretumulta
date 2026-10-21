@@ -638,6 +638,41 @@ Revisiones cada 12.000 km o 12 meses. El bicilíndrico comparte base con la GSX-
 
 Su precio aproximado es de <strong>10.699 €</strong>. Compite con la <a href=/motos/honda-xl750-transalp-2025-ficha-tecnica-precio/>Honda XL750 Transalp 2025</a>, la <a href=/motos/yamaha-tenere-700-2025-ficha-tecnica-precio/>Yamaha Ténéré 700 2025</a> y la <a href=/motos/bmw-f-800-gs-2024-ficha-tecnica-precio/>BMW F 800 GS 2024</a>. La Suzuki destaca por su suavidad de motor y su precio contenido.
 
+## Contexto: de la V-Strom viajera a la Road Edition
+
+La familia V-Strom es la trail lógica de Suzuki: ni la más potente ni la más cara, pero muy equilibrada para viajar. La plataforma de 776 cc se presentó en el EICMA de 2022, entre la 650 y la 1050, primero con la DE de llanta de 21 pulgadas. La 800RE hace la lectura contraria: si casi todo será asfalto, la moto debe adaptarse a eso. De ahí su apellido, Road Edition. Tienes todos sus datos en la <a href=/motos/suzuki-v-strom-800re-2025-ficha-tecnica-precio>ficha completa de la Suzuki V-Strom 800RE</a>.
+
+## Técnica en profundidad: qué cambia de verdad
+
+El motor, compartido con la GSX-8S según la ficha, es el mismo de su hermana. Suzuki destaca en su página global oficial el cigüeñal a 270 grados, con entrega cercana a la de un bicilíndrico en V, y el Cross Balancer antivibraciones. Suma modos de conducción, control de tracción, acelerador electrónico, cambio rápido bidireccional y ABS.
+
+| Clave | V-Strom 800RE | Qué implica |
+|---|---|---|
+| Motor | 776 cc, 83 CV a 8.500 rpm | Empuje para viajar cargado |
+| Par | 78 Nm a 6.800 rpm | Respuesta sin estirar cada marcha |
+| Rueda delantera | 19 pulgadas | Más agilidad que la 21 de la DE |
+| Frenos | Pinzas radiales Nissin de 4 pistones | Frenada seria en carretera |
+| Asiento / peso | 825 mm / 223 kg | Más accesible que la DE |
+| Depósito / consumo | 20 litros / 4,4 l/100 km | Autonomía cercana a 400 km |
+
+## Uso real: rutera honesta, con límites claros
+
+Es para quien viaja por carretera, entra en ciudad a diario y enlaza escapadas con una sola moto: posición erguida, 20 litros y autonomía cercana a 400 km. No es para quien busque tierra de verdad —ahí la DE es la herramienta correcta— ni una trail ligera: 223 kg siguen pesando en parado o al dar la vuelta en una pista. La ficha señala además una carencia honesta: sin conectividad con el móvil.
+
+## Qué cuesta mantenerla a diario
+
+El dato comprobable del post es claro: el intervalo entre revisiones es de 12 meses o 12.000 km, lo primero que se cumpla, y la garantía oficial Suzuki es de 2 años. Al compartir base con la GSX-8S, el mantenimiento se sitúa en un coste medio entre las trail medias. No damos una cifra cerrada de taller porque Suzuki no publica una tarifa única consultable: varía según el taller oficial que elijas y según qué consumibles toque sustituir en cada revisión. Sí puedes anticipar los gastos lógicos de una bicilíndrica de cadena —kit de transmisión, neumáticos y pastillas— y un coste por kilómetro contenido gracias a los 4,4 l/100 km declarados.
+
+## Carnet: necesita el A, no vale el A2
+
+Aquí no hay matiz comercial. La ficha marca **carnet A** y la potencia oficial es de 61 kW (83 CV). El A2 está limitado a 35 kW, así que queda muy por encima de ese techo, y no se comercializa versión limitada de serie para el A2: la ficha señala que sus 83 CV la dejan fuera incluso limitada de serie. Tampoco la cubren el A1 ni el B con antigüedad, pensados para hasta 125 cc. Si estás con el A2, no es tu moto de momento; con el A, no necesitas adaptación alguna.
+
+## Comparativa con sus rivales y veredicto
+
+Con 10.699 € aproximados, la RE juega la carta del equilibrio asfáltico. La <a href=/motos/honda-xl750-transalp-2025-ficha-tecnica-precio/>Honda XL750 Transalp 2025</a> declara en su ficha 91,8 CV y 210 kg por 11.100 €, con versión A2 disponible. La <a href=/motos/yamaha-tenere-700-2025-ficha-tecnica-precio/>Yamaha Ténéré 700 2025</a> figura con 73,4 CV, 208 kg y 11.199 €, con un enfoque más campero. Y la <a href=/motos/bmw-f-800-gs-2024-ficha-tecnica-precio/>BMW F 800 GS 2024</a> aparece con 87 CV, 227 kg y 9.680 €. La Suzuki gana cuando el viaje es casi todo asfalto y se valora la suavidad del bicilíndrico.
+
+**Veredicto:** con el carnet A y uso rutero, merece la pena: trail media completa sin pagar el salto a las maxi-trail. No, si necesitas el A2, si la tierra es tu prioridad —para eso está la DE— o si buscas la más ligera. Y date una vuelta por el <a href=/juego-monos/>juego caza-monos</a>: está escondido por toda la web y no necesita carnet.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta la Suzuki V-Strom 800RE 2025?
@@ -661,7 +696,8 @@ Unos 400 km gracias a los 20 litros y un consumo de 4,4 l/100 km.
 *Fuentes:*
 - <a href=https://lamoto.com.ar/noticias/suzuki-v-strom-800re-precio-detalles/>La Moto — Suzuki V-Strom 800RE: fotos, potencia, precio y más</a>
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
+- <a href=https://www.globalsuzuki.com/motorcycle/smgs/products/2024v-strom800/>Suzuki Global — V-Strom 800 oficial: motor de 776 cc, llanta delantera de 19 pulgadas y pinzas radiales</a>`,
   },
   {
     title: "Suzuki Hayabusa 2026: 299 km/h de leyenda",
@@ -935,6 +971,44 @@ Revisiones según el plan KTM con intervalos de 15.000 km. Neumáticos 200 trase
 
 Su precio aproximado es de <strong>24.699 €</strong> (la estándar, 22.699 €). Sus rivales son la <a href=/motos/ducati-streetfighter-v4-s-2025-ficha-tecnica-precio/>Ducati Streetfighter V4 S 2025</a>, la <a href=/motos/aprilia-tuono-v4-factory-2025-ficha-tecnica-precio/>Aprilia Tuono V4 Factory 2025</a> y la <a href=/motos/bmw-s-1000-r-2024-ficha-tecnica-precio/>BMW S 1000 R 2024</a>. La KTM es la única V2 del grupo y la más brutal en entrega.
 
+## Treinta años de Duke: de dónde viene esta bestia
+
+La Super Duke cumple **30 años**, como recuerda el propio post, y esta 1390 es su celebración: un bicilíndrico grande, poco peso y una entrega sin filtros. KTM la presenta en su web oficial como «THE BEAST, EVOLVED». No busca ser la más cómoda ni la más barata: busca ser la referencia en par y carácter V2, como se aprecia en la <a href=/motos/ktm-1390-super-duke-r-evo-2025-ficha-tecnica-precio/>ficha completa de la KTM 1390 Super Duke R Evo</a>.
+
+## Técnica en detalle: lo que aporta la versión Evo
+
+El motor es el **V2 LC8 a 75° de 1.350 cc**, con **190 CV a 10.000 rpm y 145 Nm a 8.000 rpm** y homologación **Euro 5+** según KTM. La marca destaca el ram air con caja del filtro de unos 10 litros y una **TFT de 5 pulgadas** compatible con KTMconnect opcional y toma USB-C, datos de su página oficial.
+
+| Elemento | Dato verificado |
+|---|---|
+| Motor | V2 LC8 a 75°, 1.350 cc |
+| Potencia y par | 190 CV a 10.000 rpm / 145 Nm a 8.000 rpm |
+| Peso | 200 kg sin combustible, según la ficha del sitio |
+| Suspensiones Evo | WP APEX semiactivas de tercera generación |
+| Frenos delanteros | Brembo Stylema, discos de 320 mm |
+| Depósito y asiento | 17,5 litros / 834 mm |
+| Precio aproximado | 24.699 € |
+
+La diferencia Evo no es más potencia: son las suspensiones semiactivas, que ajustan compresión y extensión en tiempo real según la IMU. Deberían hacerla más firme en modo deportivo y algo menos seca en carretera abierta, aunque el tarado sigue siendo duro.
+
+## Uso real: potente en circuito, exigente a diario
+
+Con 190 CV para unos 200 kg, la relación peso-potencia se acerca a 1:1, como subraya KTM. Eso emociona en una tanda o en curvas enlazadas, pero penaliza en ciudad y en trayectos cortos. El asiento de 834 mm tampoco ayuda a quien busque turismo tranquilo con pasajero. Es para pilotos con experiencia, no un capricho para estrenar carnet. Entre ruta y ruta, desconecta con el <a href=/juego-monos/>juego caza-monos</a>.
+
+## Cuánto cuesta mantener una superbike así, sin inventar cifras
+
+El marco verificable del post original es: revisiones según el plan KTM con **intervalos de 15.000 km** y **garantía oficial de 4 años**. El resto, en términos generales: neumático trasero 200 de compuesto blando, pastillas Brembo Stylema y un V2 de altas prestaciones no se mantienen al precio de una naked media. No publicamos un coste cerrado porque KTM no ofrece tarifa única oficial: depende del concesionario y de los consumibles. Pide presupuesto cerrado y guarda las facturas durante la garantía.
+
+## Normativa: solo con el carnet A, sin atajos
+
+Esta KTM exige el **permiso A**. No es limitable para el A2: ese permiso fija un máximo de 35 kW y prohíbe limitar motos derivadas de un modelo con más del doble, y aquí partimos de 140 kW. El A autoriza motocicletas sin limitación y se obtiene, como mínimo, a los **20 años**, tras **dos años de A2** y el curso específico de nueve horas en autoescuela autorizada, sin examen ante la DGT. Con el B solo accedes a motos equivalentes al A1 en España, nunca a una de 190 CV.
+
+## Comparativa rápida y veredicto
+
+Según lo que recogen las fichas publicadas aquí, la <a href=/motos/ducati-streetfighter-v4-s-2025-ficha-tecnica-precio/>Ducati Streetfighter V4 S</a> declara 214 CV y 31.790 €, la <a href=/motos/aprilia-tuono-v4-factory-2025-ficha-tecnica-precio/>Aprilia Tuono V4 Factory</a> 180 CV y 22.150 €, y la <a href=/motos/bmw-s-1000-r-2024-ficha-tecnica-precio/>BMW S 1000 R</a> 165 CV y 18.510 €. La KTM, con 190 CV y 24.699 € aproximados, queda en el centro por precio y es la única V2 del grupo.
+
+**Veredicto:** merece la pena si tienes el carnet A, experiencia contrastada y buscas el empuje de un V2 grande con suspensiones semiactivas y electrónica de circuito. No merece la pena como moto única para todo, ni si tu uso es urbano, ni si el presupuesto de compra y mantenimiento te va a quedar justo. Para quien encaja, es una celebración con sentido; para quien no, la versión estándar o una rival más barata será la compra más sensata.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta la KTM 1390 Super Duke R Evo 2025?
@@ -959,7 +1033,8 @@ Los 30 años de la saga Super Duke.
 - <a href=https://motos.coches.net/comparativa/ktm-1390_super_duke-r_evo--vs-triumph-speed_triple_1200_rr_breitling--9528-9604.htm>Motos.net — comparativa KTM 1390 Super Duke R Evo</a>
 - <a href=https://www.mundomotero.com/motos/ktm/1390-super-duke-r>Mundomotero — KTM 1390 Super Duke R: precio y ficha técnica</a>
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
+- <a href=https://www.ktm.com/es-co/models/naked-bike/2025-ktm-1390-superdukerevo.html>KTM oficial — 2025 KTM 1390 Super Duke R Evo</a>`,
   },
   {
     title: "KTM 890 Adventure R 2025: reina del trail",
