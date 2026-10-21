@@ -341,23 +341,23 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
     pros: [
-      "Custom A2 auténtica con motor bicilíndrico de 449 cc y 40 CV",
-      "Asiento a solo 690 mm: accesible para pilotos de cualquier estatura",
-      "Estética custom clásica con detalles cuidados por 6.269 €",
-      "Depósito de 12 litros suficiente para el uso urbano y salidas cortas",
-      "Correa de transmisión secundaria: menos mantenimiento que la cadena",
+      "En su edición 2026 plantea una bobber para el A2 con 40 CV procedentes de un bicilíndrico de 449 cc",
+      "Con 181 kg sobre la báscula, se mueve con soltura en ciudad y al aparcar",
+      "La correa final evita engrasar y tensar como harías con una cadena convencional",
+      "Su acceso queda muy cerca del suelo gracias a un asiento situado a 690 mm",
+      "Por 6.269 euros ofrece imagen retro, dos plazas y etiqueta C para moverte a diario"
     ],
     contras: [
-      "40 CV se quedan justos en autovía con pasajero",
-      "Postura custom poco apta para viajes largos",
-      "Sin pantalla TFT ni conectividad de serie",
-      "Red de talleres más pequeña que las marcas japonesas",
-      "El segmento custom del A2 tiene rivales japonesas con mejor reventa",
+      "A plena carga y con acompañante, los adelantamientos en vía rápida exigen mucha anticipación",
+      "La posición baja propia del estilo cansa cuando encadenas muchos kilómetros seguidos",
+      "El equipamiento tecnológico va justo: olvida grandes pantallas o funciones conectadas de fábrica",
+      "Encontrar servicio oficial cerca de casa puede costar más que con fabricantes nipones asentados",
+      "Al venderla de segunda mano, probablemente retenga peor su valor frente a alternativas japonesas"
     ],
     curiosidades: [
-      "La CL-C es la línea custom de CFMoto, paralela a la naked CL-X",
-      "Su motor de 449 cc es el mismo bloque que usan las 450NK y 450SR",
-      "CFMoto diseña sus motos en colaboración con el estudio austriaco KISKA",
+      "Dentro del catálogo, esta saga cruiser es hermana de las CL-X, orientadas al planteamiento naked",
+      "Ese bicilíndrico de 449 cc también anima en la casa a la 450SR y a la 450NK",
+      "El trazo estético procede de KISKA, despacho austriaco colaborador habitual del grupo"
     ],
     imagen: "/media/cfmoto-450cl-c-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -499,23 +499,23 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
     pros: [
-      "125 con 14,55 CV, de los más potentes de su categoría",
-      "Equipamiento de lujo: TFT, arranque sin llave y modos de conducción",
-      "Precio de 3.787 € con 5 años de garantía",
-      "148 kg contenidos para su nivel de equipamiento",
-      "Válido con carnet B (+3 años)",
+      "Con 14,55 CV roza el tope legal permitido para quien lo conduce con el permiso A1",
+      "La instrumentación TFT y el acceso sin llave le dan un aire premium poco habitual en ciudad",
+      "Cuesta 3.787 €, una cantidad ajustada si se valora todo lo que trae montado de fábrica",
+      "Sus 148 kg facilitan moverlo en parado y colarse entre coches en atascos urbanos diarios",
+      "Quien tenga el carnet B desde hace tres años puede llevarlo sin sacarse otro permiso"
     ],
     contras: [
-      "Precio superior al de los 125 básicos japoneses",
-      "El equipamiento extra suma peso frente a los 125 sencillos",
-      "Red de talleres más pequeña que Kymco o Yamaha",
-      "Reventa por debajo de las marcas tradicionales",
-      "Repuestos con plazos más largos que la competencia",
+      "Pagarás más en el concesionario que por opciones japonesas sencillas pensadas solo para desplazarte",
+      "Tanta dotación acaba pesando cuando se compara frente a rivales urbanos mucho más simples",
+      "Encontrar servicio oficial resulta menos fácil porque su presencia territorial todavía es reducida",
+      "Al venderlo de segunda mano, lo habitual es recuperar menos dinero que con fabricantes asentados",
+      "Si necesitas una pieza concreta, la espera puede alargarse más que en marcas con almacén consolidado aquí"
     ],
     curiosidades: [
-      "Zontes equipa de serie lo que otras marcas cobran como extras",
-      "La D de 125D identifica su carácter deportivo dentro de la gama",
-      "Es uno de los 125 con mejor relación equipamiento/precio de España",
+      "Su planteamiento rompe la norma del segmento: casi todo viene incluido sin pasar por la lista de opciones",
+      "Esa letra final, la D, es la seña que Zontes usa para señalar su enfoque más deportivo",
+      "En el mercado español destaca porque combina dotación abundante y tarifa contenida como pocos rivales directos"
     ],
     imagen: "/media/zontes-125d-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -655,23 +655,23 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
     pros: [
-      "Deportiva de 699 cc y 95 CV con velocidad máxima anunciada de 250 km/h",
-      "Motor tricilíndrico: sonido y carácter únicos en su precio",
-      "Electrónica de primer nivel: IMU, modos, quickshifter y TFT a color",
-      "Precio de 7.688 € con 5 años de garantía y seguro incluido",
-      "Limitable al A2: deportiva grande para carnet medio",
+      "Su propulsor de tres cilindros entrega 95 CV y aporta un tacto muy distinto al de las tetracilíndricas del segmento",
+      "Por 7.688 euros resulta una alternativa a tener en cuenta frente a Honda CBR650R, Yamaha R7 y Aprilia RS 660",
+      "El paquete electrónico reúne unidad inercial, cambio rápido y pantalla TFT en color montados de fábrica",
+      "Puedes limitarla si tienes el A2 y deslimitarla después, así no necesitas cambiar de moto al sacarte el A",
+      "Anuncia 250 km/h de punta, cifras propias de máquinas situadas en un escalón de precio superior"
     ],
     contras: [
-      "214 kg en orden de marcha: pesada para una deportiva",
-      "Postura racing extrema: solo para circuito o salidas cortas",
-      "95 CV obligan a limitarla para el A2",
-      "Marca china con red de servicio aún pequeña en España",
-      "Reventa incierta frente a las japonesas",
+      "Con 214 kilos declarados, en parado y en cambios rápidos de dirección se nota más corpulenta que una R7",
+      "El manillar bajo y la postura cargada sobre el tren delantero cansan en trayectos largos por autovía",
+      "La red comercial en España todavía está creciendo, con menos talleres que las marcas consolidadas",
+      "Al venderla de segunda mano lo normal es que pierda más valor que una japonesa con más demanda",
+      "Para disfrutarla sin limitaciones necesitas el carnet A, porque su potencia queda fuera del A2 sin kit"
     ],
     curiosidades: [
-      "Es la primera deportiva tricilíndrica china vendida en España",
-      "Zontes incluye seguro en el precio en algunas promociones oficiales",
-      "Su motor de 699 cc es el de mayor cilindrada de la marca",
+      "Zontes eligió una arquitectura de tres cilindros en lugar de seguir la fórmula habitual de dos o cuatro",
+      "Dentro del catálogo de la firma, este bloque de 699 centímetros cúbicos ocupa el escalón más alto",
+      "En determinadas campañas oficiales en España el importe incluía también la póliza, algo poco habitual en deportivas"
     ],
     imagen: "/media/zontes-703rr-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -2381,28 +2381,28 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
     pros: [
-      "Equipamiento de serie increíble: maletas, defensas, cubrecárter y caballete central incluidos",
-      "Motor de 15 CV refrigerado por líquido con 6 marchas",
-      "ABS desconectable en 3 modos (ON/OFF/solo trasera OFF): único en su precio",
-      "Depósito de 14 L: gran autonomía",
-      "Asiento a 780 mm: accesible para todas las tallas",
-      "Rueda delantera de 18\" con neumáticos mixtos",
-      "3.499 € con 3 años de garantía",
+      "Viene lista para escaparte el fin de semana: baúl y maletas, protecciones laterales, plancha bajo el motor y caballete ya montados de origen",
+      "Empuja hasta el límite permitido en A1: 15 CV con refrigeración líquida y cambio de seis velocidades para ir desahogado",
+      "El antibloqueo se adapta a tu plan: activo en ambas ruedas, anulado del todo o liberando solo la trasera para la tierra",
+      "Entre repostajes pasa mucho tiempo gracias a un tanque de 14 litros pensado para rutear sin prisas",
+      "Maniobrar en parado no asusta: la banqueta queda a 780 mm y ayuda a apoyar los pies con confianza",
+      "La llanta de delante, de 18 pulgadas y con gomas mixtas, pisa con más aplomo cuando se acaba el asfalto",
+      "Cuesta 3.499 €, una cifra muy contenida para todo lo que trae, y suma cobertura oficial durante tres años"
     ],
     contras: [
-      "164 kg: pesada para una 125 trail",
-      "Marca española pequeña: red de talleres limitada",
-      "Acabados mejorables frente a japonesas",
-      "El motor no tiene el refinamiento de Honda o Yamaha",
-      "Valor de reventa inferior al de las grandes marcas",
-      "En campo exigente se queda corta frente a una enduro pura",
-      "Disponibilidad de recambios más lenta",
+      "El peso declara 164 kg, cifra que se nota al moverla en el garaje siendo solo una octavo de litro",
+      "Al ser una firma de tamaño modesto, encontrar servicio oficial fuera de las grandes ciudades cuesta más",
+      "Si la comparas con referencias niponas, algunos plásticos y ajustes transmiten una sensación menos cuidada",
+      "Su monocilíndrico cumple de sobra, pero no alcanza la suavidad ni el tacto de los motores japoneses más pulidos",
+      "Cuando toque venderla, lo normal es recuperar menos dinero que con una trail de marca global consolidada",
+      "Por pistas muy rotas llega antes su límite: no juega en la liga de una enduro especializada y ligera",
+      "Pedir ciertas piezas puede alargarse más de lo deseado si el repuesto no está en stock cercano"
     ],
     curiosidades: [
-      "Macbor es una marca española de Motos Bordoy, histórico importador de Barcelona",
-      "La EVO 2025 mejoró el motor y añadió detalles camperos manteniendo el precio",
-      "Es la trail 125 mejor equipada de serie por menos de 3.500 €",
-      "Sustituye en este lote a la KTM 125 Adventure, modelo que KTM no fabrica",
+      "Detrás de la enseña está Motos Bordoy, casa barcelonesa que pasó de importar motos ajenas a firmar las suyas propias",
+      "Para 2026 mantiene intacta su fórmula de acceso: la puedes estrenar con el A1 o con el permiso B si ya acumulas tres años de antigüedad",
+      "Aunque su estética imita a las aventureras grandes, en el día a día se usa igual para ir a trabajar que para perderse por pistas fáciles",
+      "Su planteamiento rompe el guion habitual del segmento: normalmente el equipaje y las protecciones se pagan aparte, aquí forman parte del paquete cerrado de 3.499 €"
     ],
     imagen: "/media/macbor-montana-xr1-125-evo-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -2624,26 +2624,26 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
     pros: [
-      "Trail 125 con carnet A1 (o B con 3 años): 15 CV",
-      "Precio oficial 3.595 €: de las trail 125 más baratas",
-      "Depósito de 14 litros: gran autonomía",
-      "Freno CBS de serie: más seguridad",
-      "Estética aventurera muy conseguida",
-      "Fabricada en España"
+      "Acceso directo para quien tenga el A1 o lleve tres años con el permiso B",
+      "Por 3.595 euros queda entre las opciones con aires camperos más asequibles del mercado actual",
+      "Los 14 litros del tanque permiten espaciar mucho las paradas para repostar en ruta",
+      "El sistema CBS viene incluido y ayuda a frenar de forma más equilibrada",
+      "Su silueta alta, con pico y protecciones, imita a las maxi-trail de mayor cilindrada",
+      "Procede de Figueres, de una marca catalana con larga tradición en el campo"
     ],
     contras: [
-      "138 kg en seco: pesada para una 125",
-      "15 CV justos para viajar con equipaje",
-      "Acabados sencillos acordes al precio",
-      "Suspensiones básicas para off-road serio",
-      "Vibraciones del monocilíndrico en autopista",
-      "Sin electrónica ni modos de conducción"
+      "Moverla en parado cuesta: sus 138 kilos se notan al maniobrar en garajes estrechos",
+      "Con maletas llenas, los 15 CV se quedan cortos en puertos y adelantamientos largos",
+      "Plásticos y remates son funcionales, sin lujos, como corresponde a una propuesta contenida en precio",
+      "Si buscas campo exigente, el recorrido y la regulación de sus suspensiones te sabrán a poco",
+      "A ritmo sostenido por vía rápida, el motor de un cilindro traslada zumbido a manos y pies",
+      "No esperes ayudas electrónicas avanzadas: la dotación es deliberadamente básica y analógica"
     ],
     curiosidades: [
-      "Es la trail pequeña con la que Rieju planta cara a las 125 japonesas",
-      "Su depósito de 14 litros es de los más grandes del segmento",
-      "Rieju la vende también en versión 500 para el A2",
-      "El CBS reparte la frenada entre ambos ejes al accionar la maneta"
+      "Sus 11 kW coinciden exactamente con el techo legal permitido para la categoría A1",
+      "La primera visita al taller llega pronto, a los 500 kilómetros, según su manual oficial",
+      "Luce distintivo C de la DGT, detalle relevante si circulas a diario por zonas urbanas reguladas",
+      "Pese a su aspecto de viajera experimentada, en la ficha figura una única plaza homologada"
     ],
     imagen: "/media/rieju-aventura-125-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -3104,27 +3104,27 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["precioDesde", "costeAnualAproxEur"],
     pros: [
-      "Bicilíndrico de 401 cc y 42,8 CV: naked neo-retro A2",
-      "Doble disco delantero de 300 mm con pinzas radiales",
-      "TFT de 5 pulgadas con Bluetooth y navegador turn-by-turn",
-      "Horquilla invertida de 37 mm y trasero regulable",
-      "Tarifa oficial de 4.490 €: más barata que la competencia bicilíndrica",
-      "Iluminación full LED con faro redondo de triple foco",
+      "Con 4.490 € accedes a una bicilíndrica A2 de estética clásica contemporánea sin disparar el presupuesto",
+      "Frenar transmite mucha seguridad gracias a su pareja de discos delanteros y al ABS de doble canal",
+      "La instrumentación a color enlaza con el móvil y te guía curva a curva hasta tu destino",
+      "Delante monta barras invertidas que aportan aplomo; detrás puedes ajustar la precarga a tu gusto",
+      "Ofrece 42,8 CV con una entrega llena desde abajo, perfecta tras dejar atrás una 125",
+      "Todo el alumbrado recurre a tecnología LED y el faro circular le da una firma inconfundible"
     ],
     contras: [
-      "180 kg: pesada para una 400",
-      "42,8 CV se quedan cortos frente a las 500",
-      "El asiento en voladizo es duro",
-      "Sin modos de conducción",
-      "Marca pequeña: red de servicio limitada",
-      "La reventa es una incógnita",
+      "Moverla en parado exige esfuerzo: no es precisamente una pluma para el día a día urbano",
+      "Quien busque acercarse al límite del A2 encontrará propuestas rivales con algo más de empuje",
+      "En trayectos largos el mullido del sillín se hace notar y obliga a parar antes de lo deseado",
+      "No hay mapas de motor seleccionables para adaptar la respuesta según el asfalto o la lluvia",
+      "Al ser una firma modesta, localizar un taller oficial fuera de las grandes ciudades cuesta más",
+      "Su valor futuro en el mercado de ocasión todavía genera dudas entre compradores y vendedores"
     ],
     curiosidades: [
-      "La Rebbe 401 es la hermana mayor de la Rebbe 125",
-      "Su motor bicilíndrico rinde 42,8 CV a 9.500 rpm y 34 Nm a 8.000",
-      "El escape en forma de megáfono es su seña de identidad",
-      "El TFT conmuta a fondo negativo con poca luz para no deslumbrar",
-      "Wottan es una marca española con sede en Valencia",
+      "Nació como evolución natural tras la buena acogida de su versión pequeña para el carné B",
+      "El pico de potencia llega muy arriba, a 9.500 vueltas, y el mejor empuje aparece a 8.000",
+      "Su silenciador tipo megáfono parece sacado de una preparación artesanal más que venir de serie",
+      "Al caer la tarde la pantalla cambia su presentación para resultar más amable a la vista",
+      "Detrás del proyecto está una empresa valenciana que también vende toda su gama por internet"
     ],
     imagen: "/media/wottan-rebbe-401-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -3163,6 +3163,23 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       costeAnualAproxEur: 150,
       fuente: "Manual oficial Wottan España",
     },
+  
+    mantenimientoDIY: {
+      "aceiteTipo": "El especificado en el manual oficial entregado con la moto; en cada revisión programada toca sustituir aceite y filtro de aceite. No se ha localizado una viscosidad pública verificable para la 401, así que no se consigna ninguna sin esa confirmación",
+      "cadenaPasos": [
+        "Apoya la moto en vertical o sobre caballete y gira la rueda trasera a mano para recorrer toda la cadena",
+        "Limpia los eslabones con un producto específico para cadenas con retenes y un cepillo blando, sin usar gasolina ni alta presión directa",
+        "Seca bien la transmisión antes de aplicar lubricante para cadena por la cara interior, eslabón a eslabón",
+        "Comprueba la tensión en el punto medio del ramal inferior y ajústala solo dentro del margen que indique el manual de tu unidad",
+        "Revisa desgaste de corona y piñón y alineación de la rueda trasera tras cualquier ajuste de tensión"
+      ],
+      "intervaloMantenimiento": "Primera revisión a los 1.000 km; después cada 3.000 km o 12 meses, lo que ocurra antes, según el plan recogido en la propia ficha con fuente en el manual oficial de Wottan España",
+      "trucos": [
+        "Engrasa siempre al terminar la ruta, con la cadena templada: el lubricante penetra mejor y se queda adherido",
+        "Aprovecha cada limpieza para revisar también filtro de aire y bujía según el kilometraje que marque el plan de revisiones",
+        "Anota fecha y kilómetros de cada intervención en el libro de mantenimiento: es tu prueba para la garantía y para una futura venta"
+      ]
+    },
   },
   {
     id: "horwin-sk3-2026-ficha-tecnica-precio",
@@ -3186,26 +3203,26 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: ["bateriaKwh", "velocidadMax", "carga", "costeAnualAproxEur"],
     pros: [
-      "3.690 €: scooter equivalente a 125 con motor central de 6,2 kW",
-      "Motor central con transmisión por cadena: tacto más de moto que de scooter",
-      "90 km/h de punta, válido para rondas y desplazamientos metropolitanos",
-      "Opción de segunda batería para duplicar la autonomía hasta 160 km",
-      "Frenada combinada CBS y energía FOC de gestión eficiente",
-      "Hueco bajo el asiento para el casco o la segunda batería",
+      "Por 3.690 euros plantea una alternativa eléctrica accesible para quien busca moverse sin pasar por la gasolinera",
+      "Al llevar el propulsor anclado al chasis, el reparto de masas resulta más equilibrado que en soluciones con propulsor en la rueda trasera",
+      "Alcanza 90 km/h, margen suficiente para enlazar barrios periféricos y vías rápidas urbanas sin quedarse corto",
+      "Admite montar un segundo acumulador y estirar el alcance declarado hasta los 160 km en total",
+      "El hueco bajo el asiento admite un casco cuando circulas únicamente con el acumulador principal instalado",
+      "Dispone de etiqueta Cero y acceso con carnet A1 o con permiso B si acreditas tres años de antigüedad"
     ],
     contras: [
-      "80 km con una batería: justo si se usa a diario sin segunda batería",
-      "La segunda batería encarece bastante el conjunto",
-      "Sin peso oficial publicado",
-      "Sin ABS: solo CBS",
-      "Red de concesionarios pequeña en España",
-      "Reventa incierta al ser una marca poco conocida",
+      "Con el pack de serie, los 80 km declarados obligan a planificar recargas frecuentes si tu jornada es larga",
+      "Ampliar la autonomía sale caro, porque el segundo pack se paga aparte y eleva mucho la factura final",
+      "La ficha del importador no facilita la masa en orden de marcha, dato que complica comparar con rivales",
+      "La frenada recurre únicamente a reparto combinado CBS, sin asistencia antibloqueo para detenciones sobre firme mojado",
+      "Fuera de las grandes ciudades, localizar un punto oficial Horwin cercano puede requerir desplazamientos largos",
+      "Al tratarse de una firma con escasa implantación local, el valor futuro en el mercado de ocasión resulta imprevisible"
     ],
     curiosidades: [
-      "El SK3 monta motor central en lugar del típico motor en rueda",
-      "La cadena le da una respuesta más directa que los scooters de buje",
-      "Su nombre sigue la nomenclatura deportiva de Horwin",
-      "Es uno de los pocos scooters eléctricos con opción real de doble batería",
+      "Horwin decidió alejar el propulsor de la rueda trasera y colocarlo en el centro del conjunto, decisión poco habitual en esta franja de precio",
+      "La transmisión final por cadena acerca su comportamiento al de una moto convencional frente al silencio absoluto de los bujes eléctricos",
+      "Su controlador FOC modula la entrega de energía buscando suavidad al abrir gas y un consumo más contenido en ciudad",
+      "El acumulador de 72 V y 36 Ah se extrae para recargarlo en casa en unas 4 horas, sin depender de un garaje con enchufe"
     ],
     imagen: "/media/horwin-sk3-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -3243,6 +3260,26 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       ],
       costeAnualAproxEur: 110,
       fuente: "Manual oficial Horwin España",
+    },
+  
+    mantenimientoDIY: {
+      "aceiteTipo": "No utiliza aceite de motor al ser eléctrica; emplea únicamente lubricante específico para cadena de transmisión, nunca aceite de motor de combustión",
+      "cadenaPasos": [
+        "Apoya el scooter sobre el caballete central con el contacto apagado y, por seguridad, retira la batería extraíble antes de manipular la transmisión",
+        "Gira la rueda trasera con la mano y revisa que ningún eslabón esté agarrotado, oxidado o con holgura desigual a lo largo del recorrido",
+        "Limpia la cadena con cepillo suave y desengrasante específico para cadenas, evitando chorro a presión directo sobre rodamientos y componentes eléctricos",
+        "Seca por completo con un paño sin pelusa y deja actuar unos minutos antes de aplicar el lubricante para que no salpique al rodar",
+        "Aplica lubricante para cadena en la cara interior, en pequeñas dosis, mientras giras la rueda despacio hasta completar toda la vuelta",
+        "Comprueba la tensión en el punto medio del ramal inferior y, si notas destensado anómalo o ruidos metálicos, acude a taller oficial en lugar de tensar sin útil adecuado"
+      ],
+      "intervaloMantenimiento": "Inspección oficial cada 24 meses o 10.000 km según el plan recogido en la ficha con fuente Manual oficial Horwin España; entre revisiones, control visual mensual de frenos, neumáticos, luces y transmisión",
+      "trucos": [
+        "Recarga el acumulador en un enchufe doméstico tras cada jornada en lugar de apurarlo hasta vaciarlo: cuidarás mejor sus 2,6 kWh útiles a largo plazo",
+        "Si instalas el segundo acumulador perderás el hueco para el casco, así que valora top case si necesitas guardar equipación a diario",
+        "Vigila el nivel del líquido de frenos y el grosor de pastillas en cada control mensual, porque el sistema CBS reparte la frenada pero no avisa del desgaste",
+        "Limpia el scooter con paño húmedo y contacto apagado, sin hidrolimpiadora sobre pantalla, controlador FOC ni conectores de la batería",
+        "Revisa presiones en frío con frecuencia: en un scooter ligero y eléctrico, una presión baja se nota enseguida en autonomía y estabilidad"
+      ]
     },
   },
   {

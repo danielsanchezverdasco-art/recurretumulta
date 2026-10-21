@@ -1012,26 +1012,26 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: ["bateriaKwh", "velocidadMax", "carga"],
     pros: [
-      "3.690 €: scooter equivalente a 125 con motor central de 6,2 kW",
-      "Motor central con transmisión por cadena: tacto más de moto que de scooter",
-      "90 km/h de punta, válido para rondas y desplazamientos metropolitanos",
-      "Opción de segunda batería para duplicar la autonomía hasta 160 km",
-      "Frenada combinada CBS y energía FOC de gestión eficiente",
-      "Hueco bajo el asiento para el casco o la segunda batería",
+      "Cuesta 3.690 euros y se puede conducir con el A1, también con el permiso B cuando acumulas tres años de experiencia",
+      "Sus 8,4 CV proceden de un propulsor central de 6,2 kW, configuración poco común entre los scooter urbanos enchufables",
+      "Llega hasta 90 km/h, una punta suficiente para afrontar avenidas largas y vías de circunvalación sin quedarte corto",
+      "El paquete energético de 2,6 kWh es extraíble, así que puedes subirlo a casa para ponerlo a cargar",
+      "Una recarga completa pide alrededor de cuatro horas, plazo asumible durante la noche o la jornada laboral",
+      "Viaja con dos plazas y luce etiqueta Cero, una combinación muy práctica para el día a día metropolitano"
     ],
     contras: [
-      "80 km con una batería: justo si se usa a diario sin segunda batería",
-      "La segunda batería encarece bastante el conjunto",
-      "Sin peso oficial publicado",
-      "Sin ABS: solo CBS",
-      "Red de concesionarios pequeña en España",
-      "Reventa incierta al ser una marca poco conocida",
+      "Los 80 km declarados por carga se quedan ajustados cuando encadenas varios trayectos seguidos sin enchufar",
+      "Sumar la unidad energética opcional eleva sensiblemente la factura final del conjunto",
+      "La marca no ha publicado la cifra de peso, un dato que ayudaría a valorar su agilidad real",
+      "Confía la detención al sistema combinado CBS y prescinde del antibloqueo ABS",
+      "La presencia comercial de Horwin en España todavía es limitada, con pocos puntos donde verla en directo",
+      "Al ser una firma aún poco extendida, resulta difícil anticipar cuánto conservará de valor al revenderla"
     ],
     curiosidades: [
-      "El SK3 monta motor central en lugar del típico motor en rueda",
-      "La cadena le da una respuesta más directa que los scooters de buje",
-      "Su nombre sigue la nomenclatura deportiva de Horwin",
-      "Es uno de los pocos scooters eléctricos con opción real de doble batería",
+      "Frente a la solución dominante del buje trasero, este modelo sitúa la mecánica en el centro del chasis",
+      "Transmite el empuje mediante cadena, recurso que le acerca en tacto a una moto convencional",
+      "La sigla que lo identifica mezcla letras con un solo dígito, recurso de corte sport dentro del catálogo Horwin",
+      "Viene preparado para funcionar con dos baterías, planteamiento todavía raro entre los scooter eléctricos de su tamaño"
     ],
     imagen: "/media/motos/horwin-sk3-2025-ficha-tecnica-precio-1.webp",
     galeria: [

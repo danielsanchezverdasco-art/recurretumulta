@@ -1400,25 +1400,25 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Versión X con llantas de radios y rueda de 19 pulgadas: más campera",
-      "Bicilíndrico de 698 cc y 70 CV limitable al A2",
-      "Mayor recorrido de suspensiones que la TRK 702 estándar",
-      "Neumáticos mixtos de serie",
-      "Por 8.090 €, trail A2 con auténtico espíritu off-road",
-      "Defensas y cubrecárter de serie",
+      "La rueda delantera crece hasta 19 pulgadas y monta radios, pensada para rodar por pistas de tierra",
+      "Motor bicilíndrico de 702 cc con 70 CV, apto para limitarse y circular con el carnet A2",
+      "Suspensiones con más recorrido que su hermana asfáltica, algo que se agradece cuando desaparece el pavimento",
+      "Sale de fábrica calzada con gomas mixtas listas para alternar carretera y caminos sencillos",
+      "Cuesta 8.090 euros y plantea batalla a la Honda XL750 Transalp o la Suzuki V-Strom 800 sin disparar el presupuesto",
+      "Protecciones laterales y cubrecárter vienen incluidos, detalle poco habitual en este tramo de precio dentro del segmento trail"
     ],
     contras: [
-      "Limitación a 35 kW obligatoria para el A2",
-      "Más alta y pesada que la versión estándar",
-      "En asfalto puro la 702 normal es más ágil",
-      "El asiento alto penaliza a pilotos bajos",
-      "Sin electrónica off-road avanzada",
+      "Quien tenga el carnet A2 necesitará montar la limitación correspondiente antes de poder usarla legalmente",
+      "Resulta menos manejable a baja velocidad que la variante de carretera, sobre todo en maniobras en parado",
+      "Si tu uso va a ser casi exclusivamente asfáltico, su hermana de llanta menor se mueve con más soltura entre curvas",
+      "La altura del asiento complica apoyar bien los pies a quienes miden poco",
+      "No esperes ayudas electrónicas específicas para tierra; su dotación en ese apartado se queda en lo básico"
     ],
     curiosidades: [
-      "La X es la variante adventure de la TRK 702",
-      "Monta llanta delantera de 19 pulgadas con radios",
-      "El precio oficial la sitúa 600 € por encima de la TRK 702",
-      "Es la Benelli más vendida en el segmento trail medio",
+      "Dentro de la gama Benelli, esta X de 2024 representa la apuesta más viajera y campera sobre la base 702",
+      "Su tren delantero de 19 pulgadas la acerca en planteamiento a propuestas como la CFMoto 800MT, aunque juega la carta del A2 limitable",
+      "Bajo el paraguas de QJMotor, Benelli firma una trail pensada para quien busca dar el salto desde motos más pequeñas sin renunciar a viajar lejos",
+      "Frente a la Suzuki V-Strom 800 y la Honda XL750 Transalp, su argumento diferencial pasa por combinar equipamiento de protección y un precio contenido de 8.090 euros"
     ],
     imagen: "/media/motos/benelli-trk-702x-2024-ficha-tecnica-precio-1.webp",
     galeria: [

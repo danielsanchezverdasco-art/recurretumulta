@@ -803,23 +803,23 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: ["precioDesde", "potenciaKw", "potenciaCv", "autonomiaKm", "bateriaKwh"],
     pros: [
-      "130 km de autonomía declarada: de las mejores de su clase",
-      "105 km/h de velocidad máxima",
-      "10 kW (13,6 CV) de potencia pico",
-      "Doble batería extraíble de 74 V y 27 Ah",
-      "Etiqueta Cero y coste por kilómetro mínimo",
+      "Con 130 km declarados aguantas varios días de trayectos urbanos sin enchufar",
+      "Llega hasta 105 km/h, así que las vías rápidas dejan de ser un problema",
+      "Sus 10 kW, equivalentes a 13,6 CV, empujan con una inmediatez que sorprende",
+      "Lleva dos acumuladores extraíbles bajo los pies, con 4 kWh en conjunto para recargar donde quieras",
+      "Circula con distintivo Cero, ideal para moverte libre por zonas de bajas emisiones pagando muy poco en cada desplazamiento"
     ],
     contras: [
-      "Precio desde 4.799 €",
-      "Peso elevado sin dato oficial publicado",
-      "Marca con menos implantación en el mundo moto",
-      "Tiempo de carga no publicado por la marca",
-      "Estética divisiva: o te encanta o no",
+      "Los 4.799 € de tarifa lo colocan por encima de muchos rivales equivalentes a 125",
+      "Falta un peso oficial confirmado, y eso complica comparar su agilidad sobre el papel",
+      "La red comercial de Segway en España aún es pequeña frente a marcas tradicionales de moto",
+      "Segway no facilita cuánto tarda una carga completa, un dato básico que debería publicar",
+      "Su diseño divide opiniones: hay quien lo ve moderno y quien lo encuentra demasiado sobrio"
     ],
     curiosidades: [
-      "Segway, famosa por sus transportadores personales, compite en el segmento 125 eléctrico",
-      "Sus dos baterías suman unos 4 kWh de capacidad",
-      "El E300SE acelera como un scooter de gasolina de 200 cc",
+      "La firma que popularizó aquellos vehículos autoequilibrados ahora pelea, en esta edición de 2025, en la liga de las 125 eléctricas con carnet A1",
+      "Entre los dos módulos suma 4 kWh, una cifra alta para un scooter de esta categoría",
+      "Aunque se conduce como una 125, su salida desde parado recuerda a motos de gasolina bastante más grandes"
     ],
     imagen: "/media/segway-e300se-2025-ficha-tecnica-precio-hero.webp",
     galeria: [
@@ -835,5 +835,23 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     fuenteNombre: "Segway",
     fuenteUrl: "https://www.segway.com/",
     analisisSlug: "segway-e300se-2025-ficha-tecnica-precio",
+  
+    mantenimientoDIY: {
+      "aceiteTipo": "Sin aceite de motor: es 100 % eléctrica y no hay cambio de aceite. En taller solo toca vigilar líquido de frenos, pastillas y discos.",
+      "cadenaPasos": [
+        "Comprueba la presión de los neumáticos y el desgaste del dibujo antes de salir",
+        "Revisa que ambos frenos respondan con firmeza y sin ruidos extraños al frenar",
+        "Extrae las baterías, limpia los contactos con un paño seco y vuelve a encajarlas hasta oír el clic",
+        "Pasa revista visual a luces, intermitentes, claxon y pantalla, y prueba el acelerador en parado seguro",
+        "Actualiza el firmware desde la app Segway-Ninebot y revisa si muestra algún código de error",
+        "Aprieta lo accesible sin forzar: espejos, manetas y caballete, y lubrica solo los puntos móviles que indique el manual"
+      ],
+      "intervaloMantenimiento": "Primera revisión a los 1.000 km o a los 3 meses; después, cada 2.000 km o cada 6 meses, según la guía de mantenimiento del manual oficial EMEA del E300SE.",
+      "trucos": [
+        "Si vas a dejarla parada una temporada, no la guardes con las baterías ni vacías ni al límite: déjalas a media carga y revísalas de vez en cuando",
+        "Carga siempre en un sitio seco y ventilado, lejos de frío o calor extremos, para cuidar los 4 kWh útiles",
+        "Anota fecha y kilómetros de cada revisión en el libro de mantenimiento: te servirá para la garantía y para una futura venta"
+      ]
+    },
   },
 ];
