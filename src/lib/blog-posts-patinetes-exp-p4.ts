@@ -186,6 +186,14 @@ A cambio, las ruedas macizas eliminan el pinchazo para siempre y los amortiguado
 
 **Veredicto:** merece la pena como patinete de entrada para ciudad llana y trayectos cortos, o como segunda unidad de batalla; no es el tuyo si tus rutas superan los 15 km diarios o incluyen cuestas y lluvia frecuente, caso en el que el <a href=/patinetes/bogist-c1-pro/>Bogist C1 Pro</a> rinde mejor. Datos completos en la <a href=/patinetes/bogist-m3-pro/>ficha del Bogist M3 Pro</a>, y para trayectos aburridos de sofá, nuestro <a href=/juego-monos/>juego caza-monos</a>.
 
+## Última milla: el M3 Pro y el transporte público
+
+El formato del M3 Pro cobra sentido combinado con tren o metro: un patinete de gama de entrada, plegado junto a la puerta del vagón, resuelve el kilómetro y medio entre la estación y la oficina que convierte un buen trayecto en transporte público en una caminata de veinte minutos. Ahí sus ruedas macizas y su mantenimiento casi nulo juegan a favor, porque el patinete pasa la semana en un rincón sin pedir atención. La normativa de acceso de VMP al transporte público varía según la ciudad y el operador —hay redes que lo restringen por las baterías—, así que antes de organizar tu rutina alrededor de él conviene consultar las condiciones vigentes de tu operador. Y una advertencia de convivencia: en el andén y en el vagón, el patinete se lleva plegado y en la mano, nunca circulando entre viajeros.
+
+## Como primer patinete, perdona casi todo
+
+Para debutar en la movilidad eléctrica personal, el M3 Pro tiene una virtud pedagógica: sus prestaciones modestas obligan desde el primer día a anticipar, mirar lejos y frenar con tiempo, que son exactamente los hábitos que luego salvan con cualquier VMP más rápido. Quien aprende en él difícilmente se asusta al dar el salto a máquinas superiores.
+
 ## Preguntas frecuentes
 
 ### ¿Qué velocidad alcanza el Bogist M3 Pro?
@@ -302,6 +310,14 @@ El **sillín extraíble** transforma la experiencia más de lo que sugiere la fi
 Declara 40 km y nuestra estimación real ronda los **27 km** en uso mixto. La brecha se explica sin conspiraciones: la cifra de laboratorio se obtiene con conductor ligero, ritmo constante y temperatura amable; tu calle suma paradas, cuestas, viento y un modo de velocidad alegre que exprime los **800 W de pico** en cada salida de semáforo.
 
 **Veredicto:** merece la pena si buscas potencia y la opción de ir sentado por menos que las marcas grandes, aceptando limitarlo a 25 km/h y verificar su documentación antes de pagar; no es el tuyo si necesitas un VMP certificado sin trámites ni un peso pluma para el tren. Revisa la <a href=/patinetes/bogist-c1-pro/>ficha del Bogist C1 Pro</a> junto al <a href=/patinetes/bogist-m5-pro/>Bogist M5 Pro</a>, y mientras decides, una vuelta por el <a href=/juego-monos/>juego caza-monos</a> no requiere certificado alguno.
+
+## Convivir con él: presión, frenos y batería
+
+Un patinete con ruedas hinchables de **10 pulgadas** exige vigilar la presión cada pocas semanas: rodar bajo de aire dispara el consumo, acorta la autonomía real y multiplica el riesgo de llantazo contra un bordillo. El freno de disco agradece un ajuste periódico del cable y pastillas nuevas cuando el tacto se vuelve esponjoso, un mantenimiento de bicicleta de toda la vida. La batería de litio, aunque la marca no publica su capacidad, se cuida con las reglas universales del formato: evitar guardarlo meses al 100 % o al 0 %, cargarlo a temperatura ambiente y no dejarlo al sol de agosto dentro de un coche. El sillín extraíble también merece su tornillería revisada de vez en cuando, porque un asiento que se mueve a 25 km/h convierte cualquier bache en un susto serio.
+
+## Dormir en un piso: el ritual de guardarlo
+
+Al llegar a casa, el C1 Pro se pliega y busca rincón, pero el sillín conviene desmontarlo si el espacio aprieta o si va a compartir trastero con bicicletas. Acostúmbrate a apoyarlo sin cargar el peso sobre el guardabarros trasero y a pasar un trapo por la plataforma tras los días de lluvia: la IP65 protege la electrónica, no la estética.
 
 ## Preguntas frecuentes
 

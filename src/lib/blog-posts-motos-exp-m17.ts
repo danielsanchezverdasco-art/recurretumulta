@@ -882,6 +882,14 @@ El mantenimiento sigue el plan oficial de KTM con intervalos amplios para un mon
 
 **Veredicto:** merece la pena si quieres la A2 naked más completa y divertida del mercado, con electrónica de moto mayor; no es la tuya si priorizas suavidad bicilíndrica o uso intensivo a dúo. Compara la <a href=/motos/ktm-390-duke-2025-ficha-tecnica-precio/>ficha de la 390 Duke</a> con la <a href=/motos/triumph-speed-400-2024-ficha-tecnica-precio/>Triumph Speed 400</a> y la <a href=/motos/yamaha-mt-03-2025-ficha-tecnica-precio/>Yamaha MT-03</a>, y entre moto y moto, descansa la vista en el <a href=/juego-monos/>juego caza-monos</a>.
 
+## El salto natural desde una 125
+
+Buena parte de los dueños de una 390 Duke llega desde una 125 con el carnet B convalidado o el A1 recién estrenado, y la KTM está calibrada para ese aterrizaje: la entrega del monocilíndrico es enérgica pero la electrónica —modos, control de tracción, ABS de Bosch— construye una red de seguridad que una naked de hace quince años no ofrecía. El asiento a **820 mm** y el peso contenido facilitan las maniobras en parado, que es donde los recién llegados a la cilindrada media cometen sus errores caros. En ciudad se defiende como un ciclomotor grande; en puerto de montaña aparece la moto que promete la ficha, con un chasis multitubular que invita a enlazar curvas con una precisión impropia del precio. Para el día a día solo hay que asumir dos peajes propios de toda naked: el viento en autopista y un pasajero que, en trayectos de más de media hora, empezará a negociar turnos de descanso.
+
+## Asegurar una A2 deportiva sin arruinarse
+
+Las naked de este rendimiento entran en las tarifas jóvenes de las aseguradoras como grupo de riesgo medio-alto pese a su cilindrada contenida, así que el presupuesto anual debe incluir un seguro a la altura y, si duerme en la calle, antirrobo serio: es una de las motos más deseadas por los amigos de lo ajeno en su categoría.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta la KTM 390 Duke 2025?

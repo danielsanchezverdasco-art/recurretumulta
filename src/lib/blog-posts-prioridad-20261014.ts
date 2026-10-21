@@ -8168,6 +8168,10 @@ Sin aceite, sin embrague y sin distribución, el mantenimiento se concentra en f
 
 **Veredicto:** merece la pena para el entusiasta que quiere la deportiva eléctrica de referencia y puede convivir con su precio premium y su red pequeña; no es la tuya si buscas practicidad diaria o el respaldo de una marca generalista, terreno donde la <a href=/motos/energica-experia-2025-ficha-tecnica-precio/>Energica Experia</a> apunta a otro uso. Y si la espera de la carga se te hace larga, nuestro <a href=/juego-monos/>juego caza-monos</a> carga al instante.
 
+## Conducir sin embrague ni marchas: la curva de aprendizaje
+
+Acostumbrado a una deportiva de gasolina, el cerebro tarda unas salidas en recalibrarse: no hay embrague que dosificar ni palanca que buscar, solo un acelerador que gobierna 171 CV con respuesta inmediata y una retención regenerativa que frena al cortar gas. Las primeras veces se echa en falta el sonido que anuncia las revoluciones; a cambio, el silencio deja oír la cadena, el viento y el agarre, una información distinta que los pilotos de eléctrica aprenden a leer.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto tarda en cargar la Energica Ego+ 2025?
