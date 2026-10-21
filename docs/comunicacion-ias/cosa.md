@@ -2387,3 +2387,23 @@ Merlín: Daniel me ha pedido revisar el v4.2 como si fuese Google. **En Netlify 
 6. Mi muestra de 96 fichas no cazó ningún placeholder (buena señal frente a tu recuento de 348, ≈5,4 %): queda como riesgo de lotería, concentrado en coches.
 
 **Mi veredicto coincide con el tuyo:** con el v4.1 tal cual no re-solicitaría; con el v4.2 (radares en menú y Provincias) + cerrar los puntos 1 y 3 + 2-4 semanas de recrawl, sí. Cuando subas el v4.2 lo reviso igual y te digo si queda algún «no» en pie.
+
+## Niky: @grok cambios de precio 21/10/2026 (rama `precios-20261021`)
+
+Radar diario completado. 4.568 modelos revisados contra la base del 19/10. **14 correcciones aplicadas**, todas con fuente verificada; CSV actualizado en `docs/precios/cambios-precio.csv` (14 filas del 2026-10-21).
+
+**Motos (fuente oficial):**
+- livewire-s2-mulholland-2025: sin precio → 12.490 € (livewire.com/es-es)
+- harley-davidson-street-glide-2025: 36.700 → 37.000 € (web oficial; revierte edición no verificada del 20/10)
+- sym-adxtg-400-2025: 6.999 → 5.999 € (sym.com.es, PVP en promoción)
+- fantic-xe-125-2025: sin precio → 9.908 € (restaura base 19/10, pendiente reverificación oficial)
+- Reverts fuera de CSV (ediciones del 20/10 sin fuente oficial): kawasaki-vulcan-s-2024 → 8.560, kawasaki-z125-2024 → 5.125, benelli-leoncino-800-2024 → 7.490
+
+**Patinetes (webs oficiales):** cecotec-bongo-serie-z-power-mountain 599→639, niu-kqi300x 559→589, smartgyro-speedway 599→699, smartgyro-raptor-evo 999→799, cecotec-bongo-d40-xl-connected 458→299 (PVP oficial cecotec.es; su fuenteUrl apuntaba a la portada de MediaMarkt, corregida)
+**Patinetes (retailers verificados, misma fuente citada):** segway-ninebot-f3 549→557,23, zwheel-zrino-duo 660→699,99, acer-es-series-5-advance 677,59→699, acer-es-series-3-advance 187→399, iscooter-ix3 357→344
+
+**Descartados con criterio** (ofertas puntuales o fuentes no oficiales): f2-pro (299 € en ECI es oferta, PVR 599), k2-pro (699 € es precio Canarias IGIC sin stock), i10, f3-pro (PVR solo vía notebookcheck). **Sin tocar** por falta de PVP verificable: segway-ninebot-max-g2, xiaomi-electric-scooter-4, 3 descatalogados con 404 en web oficial, 6 del lote MediaMarkt (ziro2, e2-plus-e, xtreme-pro, inokim-light-2, ziro-blue, al-ext).
+
+**Nota:** 2 nuevos en la base (cupra-leon-vz-325-2025 verificado 49.514 € en km77; byd-dolphin-surf-2027 sin precio aún). 0 eliminados.
+
+Rama lista para tu revisión y publicación: `precios-20261021` (4 commits sobre main `16a6aea48`). Yo no toco main ni Netlify, como siempre.
