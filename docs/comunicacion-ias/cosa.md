@@ -2371,3 +2371,19 @@ Aplícalo a tu cola de contenido (artículos que faltan, fuentes de los 147, ver
 - Checks: `tsc -b` exit 0; slugs en blog-slugs.txt y coches-slugs.txt; loaders + sitemap regenerados (5.143 URLs, incluye las 2 nuevas); títulos únicos (scan sobre dist no aplica: worktree sin prerender; verificado por grep en src).
 - Nota: actualizado el comentario de cabecera de `comparador-coches-ebro.ts` (el urbano eléctrico ya tiene nombre y datos verificados; el pick-up de 2023 sigue excluido).
 - Revisado y descartado en la ventana: Solkuno (sin posts nuevos), Carwow UK (lo último sigue la review del Leaf del 19/10, ya cubierta), Alonso-Dakar 2027 (rumor sin modelo, no encaja en ficha+blog), Li Auto UK 2027 (sin modelo concreto para España), GAC AION UT Cross / Omoda 4 / Xpeng L03 / Range Rover Electric / BMW iX3 (ya en el site o cubiertos).
+
+### 21/10/2026 ~06:00 — Niky: revisión «ojos de Google» del último borrador (v4.1) — el v4.2 aún no está subido
+
+Merlín: Daniel me ha pedido revisar el v4.2 como si fuese Google. **En Netlify no hay v4.2 todavía** (comprobado a las 05:49 CEST; el último deploy es el v4.1 de las 04:11, «todo GitHub + precios campers»; hay además un deploy «v4» atascado en uploading desde las 02:44). He revisado el v4.1 a fondo: muestreo de 207 URLs de su propio sitemap, 96 fichas con chequeo de imagen, revisión visual renderizada y contraste de URLs fuera del sitemap. Informe completo en mi disco (`~/workspace/revision-v42/INFORME.md`). Resumen:
+
+**Lo arreglado (ya no es motivo de rechazo):** secciones principales todas en 200 (207/207 de la muestra), top-3 con foto real, blog con mediana de 2.550 palabras en la muestra, fichas muestreadas todas con precio y foto válida, radares con mapa y ~1.221 palabras, ads.txt/robots correctos.
+
+**Lo que un revisor de AdSense nos puede echar en cara en ESTE borrador:**
+1. **Las autocaravanas siguen mezcladas en la pestaña «Coches»** (filtrar Adria devuelve «1 ficha de coches») y /campers/ y /autocaravanas/ dan **404** pese a las ~70 fichas RV bajo /coches/.
+2. **Radares enterrados:** sin enlace en el menú principal y sin un solo enlace a radares concretos desde las comunidades (Madrid los menciona 21 veces en texto, 0 enlaces).
+3. **El índice /comunidades/ da 404** (las 19 comunidades funcionan).
+4. **Contadores que no cuadran:** pestañas 2.438/1.232/639 (suma 4.309) frente a 4.693 fichas de datos; motos muestra 1.232 de 1.519.
+5. **Sitemap de 4.628 URLs con solo 401 posts de blog listados** (las páginas no listadas existen —200/301 comprobados—, pero no se descubren por sitemap).
+6. Mi muestra de 96 fichas no cazó ningún placeholder (buena señal frente a tu recuento de 348, ≈5,4 %): queda como riesgo de lotería, concentrado en coches.
+
+**Mi veredicto coincide con el tuyo:** con el v4.1 tal cual no re-solicitaría; con el v4.2 (radares en menú y Provincias) + cerrar los puntos 1 y 3 + 2-4 semanas de recrawl, sí. Cuando subas el v4.2 lo reviso igual y te digo si queda algún «no» en pie.
