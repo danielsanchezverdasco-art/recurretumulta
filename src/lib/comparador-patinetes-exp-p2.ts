@@ -1665,33 +1665,34 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     ],
     aprox: ["potenciaNominalW", "autonomiaRealKm", "tiempoCargaH"],
     pros: [
-      "Doble motor de 1000 W (3200 W de pico): tracción total seria",
-      "Batería de 60 V y 18,2 Ah (1092 Wh): 75 km declarados",
-      "Frenos semi-hidráulicos con EABS",
-      "Neumáticos anchos de 10x3 pulgadas",
-      "Protección IPX5",
-      "30 kg para un doble motor: contenido",
+      "Un motor buje en cada rueda con selección entre tracción trasera o total: en llano basta un motor y en repechos entra el delantero",
+      "Basculantes delantero y trasero con doble amortiguador de muelle, la arquitectura que distingue a los Mantis de los patinetes de horquilla recta",
+      "Pack de 60 V y 18,2 Ah alojado en la tabla, con 75 km declarados y unos 51 km reales estimados en esta ficha",
+      "Discos de 140 mm con pinzas semi-hidráulicas en ambos ejes y apoyo del freno electrónico EABS al accionar las manetas",
+      "Cubiertas neumáticas de diez por tres pulgadas, más balón que las de 2,5 habituales en este diámetro",
+      "Chasis plegable de aluminio con sellado IPX5 y 30 kg: la mitad que los 62 kg del Wolf King GTR de la propia Kaabo"
     ],
     contras: [
-      "Sin precio publicado",
-      "No es un VMP legal en España",
-      "Carga de 8-10 horas",
-      "Velocidad máxima no publicada",
-      "El doble motor dispara el consumo en ciudad",
+      "Kaabo no publica para este V2 un PVP cerrado en euros en España, así que el importe final depende del distribuidor que lo importe",
+      "Fuera del recinto privado no encaja como VMP en España: su planteamiento de 60 V y doble tracción supera el marco de 25 km/h y en la ficha no consta certificado DGT",
+      "La recarga completa pide entre ocho y diez horas con el cargador de serie, sin el doble puerto de carga rápida que sí ofrece el Mantis King GT",
+      "Rodar siempre con los dos motores recorta de forma clara el alcance: de los 75 km declarados se pasa a la estimación real de 51 km recogida en la ficha",
+      "Ser el doble motor ligero de Kaabo no lo hace portable: 30 kg a pulso siguen siendo un castigo en escaleras y transporte público"
     ],
     veredicto:
-      "El Mantis 10 Plus V2 actualiza el clásico: 3200 W de pico, 1092 Wh y semi-hidráulicos. Para quien quiere un Kaabo prestacional sin llegar a los Wolf.",
+      "El Mantis 10 Plus V2 es el Kaabo prestacional de tamaño contenido: mantiene los basculantes con doble amortiguador y los discos de 140 mm de la familia Mantis, suma una batería de 1.092 Wh y se queda en 30 kg, lejos de los Wolf grandes. La actualización de 2025 que recoge Electric Kicks añade la pantalla central KM03 con desbloqueo NFC y carga USB. Su sitio en España es el uso privado y recreativo, no el desplazamiento legal como VMP.",
     fuenteNombre: "Electric Kicks",
     fuenteUrl: "https://electrickicks.com/",
     mantenimientoDIY: {
-      aprieteTornilleria: "Revisar los anclajes de la suspensión, la potencia del manillar y los ejes de ambas ruedas motrices",
-      ajusteFrenosPasos: [
-        "Frenos semi-hidráulicos: si la maneta se hunde, purgar el circuito en taller",
-        "Revisar el desgaste de las pastillas cada 1.000 km",
+      "ajusteFrenosPasos": [
+        "Con discos de 140 mm y pinzas semi-hidráulicas, si una maneta gana recorrido o se hunde toca purgar ese circuito en taller, no tensar un cable inexistente",
+        "Comprueba el grosor de las pastillas cada 1.000 km, el intervalo ya recogido para este Mantis, y antes si notas chirrido metálico al frenar"
       ],
-      trucos: [
-        "Usar el modo monomotor en llano alarga mucho la autonomía",
-      ],
+      "aprieteTornilleria": "Repasa los pivotes de ambos basculantes, la abrazadera de plegado del mástil y los ejes de las dos ruedas motrices, que en este modelo también traccionan",
+      "trucos": [
+        "En trayectos llanos deja activo solo el motor trasero desde el botón de modo: es la forma más sencilla de acercarte a la autonomía declarada sin renunciar al delantero en cuestas",
+        "Tras rodar con humedad, seca discos, basculantes y la zona de la tabla antes de guardarlo plegado, aunque el conjunto declare IPX5"
+      ]
     },
   },
   {
@@ -1854,35 +1855,35 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     ],
     aprox: ["potenciaNominalW", "autonomiaRealKm", "tiempoCargaH"],
     pros: [
-      "Doble motor de 2000 W (13440 W de pico): lo más bestia de Kaabo",
-      "Batería extraíble de 72 V y 35 Ah Samsung/LG (2419 Wh)",
-      "180 km declarados: autonomía de moto",
-      "105-110 km/h de velocidad máxima",
-      "Frenos hidráulicos de 160 mm con E-ABS",
-      "Ruedas CST de 12 pulgadas, control de tracción y alarma",
-      "Pantalla TFT e IPX5",
+      "Controlador único 2 en 1 de 100 A con modo S que sube a 110 A, en vez de los dos controladores del Wolf King GT anterior",
+      "La batería hace también de plataforma: se extrae con asa y cierre, lleva su propio voltímetro y admite carga por dos puertos",
+      "Neumáticos CST híbridos autosellantes de 12 pulgadas con llanta desmontable, para cambiar la cubierta sin desmontar medio buje motor",
+      "Suspensión delantera hidráulica y trasera regulables con ruletas de ajuste, un planteamiento más de moto que de patinete",
+      "Control de tracción y capacidad para pendientes de 50°, con una salida de parado que Kaabo cifra en 3,5 s hasta 50 km/h",
+      "Intermitentes delante y detrás y luces de la plataforma que también actúan como luz de freno, no como simple adorno",
+      "Pantalla TFT que conserva los ajustes entre encendidos y carrocería con índice IPX5 frente a salpicaduras"
     ],
     contras: [
-      "Pesa 63 kg: no es un patinete, es una moto sin asiento",
-      "No es un VMP legal: solo circuito privado",
-      "Sin precio publicado en Europa",
-      "Carga de 8,5 horas",
-      "Mantenimiento y repuestos de otro nivel",
+      "Plegado se va a 162,9 cm de largo: entra en muy pocos maleteros y subirlo a un piso sin ascensor queda descartado",
+      "Su velocidad desborda cualquier carril bici español: no puede circular como un VMP corriente y su sitio son recintos cerrados y vías privadas",
+      "Sin los cargadores rápidos de 5 A la recarga se estira a una noche entera, así que cada salida larga hay que planificarla",
+      "No tiene aplicación móvil: todo se ajusta desde la pantalla TFT, sin telemetría ni gestión desde el teléfono",
+      "Horquilla hidráulica, controlador de 100 A y dos motores en buje exigen taller especializado en alta potencia, no una tienda de barrio"
     ],
     veredicto:
-      "El Wolf King GTR es el Kaabo definitivo: 13440 W de pico, 180 km y batería extraíble. Una máquina de circuito que deja en evidencia a cualquier patinete de calle.",
+      "El GTR no es un Wolf King con más pegatinas: Kaabo lo rehízo alrededor de un controlador único, una batería-plataforma extraíble y ruedas de 12 pulgadas con llanta desmontable. Como paso siguiente al GT, es una máquina de recinto privado para quien ya viene de un patinete potente y asume su tamaño plegado, su peso y una recarga lenta si no usa cargadores rápidos.",
     fuenteNombre: "Evolt",
     fuenteUrl: "https://evolt.eu/",
     mantenimientoDIY: {
-      aprieteTornilleria: "Revisar los anclajes de la suspensión, la potencia del manillar, los ejes de ambas ruedas motrices y los conectores de la batería extraíble",
-      ajusteFrenosPasos: [
-        "Frenos hidráulicos de 160 mm: purgar el circuito en taller si la maneta se hunde",
-        "Revisar las pastillas cada 1.000 km: con 63 kg se devoran",
+      "ajusteFrenosPasos": [
+        "Si la maneta de los discos de 160 mm se vuelve esponjosa, el purgado del circuito hidráulico debe hacerlo un taller: con este peso y esta velocidad no es un trabajo para improvisar en casa",
+        "Vigilar el grosor de las pastillas con frecuencia y sustituirlas cuando queden por debajo de 2 mm, referencia de mantenimiento citada para este modelo"
       ],
-      trucos: [
-        "La batería extraíble permite cargarla en casa sin subir los 63 kg",
-        "El control de tracción evita derrapes con 13440 W de pico",
-      ],
+      "aprieteTornilleria": "Comprobar el cierre y el asa de la batería-plataforma, el pestillo que bloquea el GTR cuando va plegado, la horquilla delantera y los ejes de los dos bujes motor antes de usar el modo S",
+      "trucos": [
+        "Extraer la batería para cargarla dentro de casa evita manipular todo el conjunto y permite consultar su voltímetro propio antes de volver a montarla",
+        "Ajustar las ruletas de la suspensión según el terreno y revisar la presión de las CST autosellantes: con la llanta desmontable, un pinchazo no obliga a desmontar medio buje"
+      ]
     },
   },
   {
@@ -1921,23 +1922,23 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     ],
     aprox: ["potenciaNominalW", "autonomiaRealKm", "tiempoCargaH"],
     pros: [
-      "Doble motor de 1100 W (4000 W de pico)",
-      "Batería LG/Samsung de 60 V y 28,8 Ah (1728 Wh): 110 km declarados",
-      "Limitado a 25 km/h (70 km/h de potencial)",
-      "Frenos hidráulicos de 140 mm con EABS",
-      "Neumáticos híbridos de 10x3 pulgadas: asfalto y tierra",
-      "Pantalla TFT de 4,2 pulgadas e IPX5",
-      "130 kg de carga máxima",
+      "Dos motores de 1.100 W con controladores de onda sinusoidal: entrega progresiva pese a los 4.000 W de pico conjuntos",
+      "Pack de 60 V y 28,8 Ah (1.728 Wh) con celdas LG o Samsung 21700 y 110 km declarados por la marca",
+      "La autonomía real estimada de 75 km deja reserva amplia para rutas largas sin depender de una carga diaria",
+      "Doble disco hidráulico de 140 mm apoyado por el freno electrónico EABS",
+      "Cubiertas híbridas de 10x3,0 pulgadas pensadas para alternar asfalto urbano y pistas de tierra",
+      "Pantalla TFT a color de 4,2 pulgadas y sellado IPX5 frente a salpicaduras",
+      "Admite hasta 130 kg de carga, un margen poco habitual en un doble motor de este formato"
     ],
     contras: [
-      "Pesa 38 kg",
-      "Sin precio publicado",
-      "Sin certificado DGT verificado pese al límite de 25 km/h",
-      "Carga de 5-8 horas",
-      "El doble motor penaliza la autonomía en ciudad",
+      "Sus 38 kg lo alejan del uso multimodal: subirlo a un tren o a un piso sin ascensor es un esfuerzo serio",
+      "El campo de precio consta vacío y no se localizó PVP oficial en euros para España con el que compararlo frente a sus rivales",
+      "El certificado consta como null en la ficha: con 2.200 W nominales y un potencial de 70 km/h fuera de limitación, su encaje como VMP certificado en España queda sin acreditar",
+      "Recargar los 1.728 Wh lleva unas 6,5 horas, así que las rutas largas hay que planificarlas con la batería llena de víspera",
+      "Rodar con ambos motores activos recorta la cifra real frente a los 110 km declarados, que solo se rozan en un uso contenido"
     ],
     veredicto:
-      "El Wolf Warrior X GT es el Wolf racional: 1728 Wh, 110 km y 25 km/h limitados. Si buscas un Kaabo gordo pero usable a diario, este es el equilibrio.",
+      "Presentado en 2023 como la actualización GT del Wolf Warrior X, este Kaabo se coloca entre el Mantis GT y el Wolf King GT: doble motor de onda sinusoidal, pantalla TFT y 1.728 Wh en un chasis de 38 kg. Es la opción para quien quiere la pegada de la familia Wolf sin saltar al formato grande, asumiendo su peso y que su certificación en España no consta acreditada en esta ficha.",
     fuenteNombre: "Evolt",
     fuenteUrl: "https://evolt.eu/",
     mantenimientoDIY: {
@@ -1986,21 +1987,21 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm", "tiempoCargaH"],
     pros: [
-      "800 W en la rueda trasera: empuje serio en 22 kg",
-      "Batería de 48 V y 14 Ah (672 Wh): 45 km declarados",
-      "Rueda trasera sólida: cero pinchazos atrás",
-      "120 kg de carga máxima",
-      "25 km/h por defecto (40 km/h desbloqueable fuera de vía pública)",
+      "Motor de 800 W situado en la rueda trasera para un conjunto de 22 kg, relación que lo aleja de los urbanos habituales de 350 a 500 W",
+      "La autonomía que recoge el manual del propio 8S, de 40 a 45 km, lo sitúa por encima del Skywalker 8 básico, limitado a 28-32 km",
+      "La rueda trasera maciza elimina el pinchazo en el eje motor, que es justo donde una reparación resulta más engorrosa",
+      "Admite hasta 120 kg de carga, un margen amplio para un patinete de ruedas de 8 pulgadas pensado para trayectos urbanos diarios",
+      "Sale limitado a 25 km/h para circular como VMP, aunque el manual recoge 40 km/h como velocidad máxima del conjunto sin esa limitación"
     ],
     contras: [
-      "Sin precio publicado en Europa",
-      "Rueda delantera de solo 8 pulgadas: baches delicados",
-      "Sin certificado DGT verificado",
-      "Carga de 4-6 horas",
-      "El Skywalker 10H ofrece más por poco más",
+      "Sin PVP en euros localizado en la web oficial ni en distribuidores españoles, así que no se puede comparar su coste con rivales vendidos aquí",
+      "Con ruedas de 8 pulgadas, la delantera hinchable sufre más en juntas, rejillas y bordillos que la de un modelo de 10 pulgadas",
+      "No consta certificado DGT para este modelo concreto, a diferencia del Mantis King GT de la propia Kaabo, que sí lo exhibe en España",
+      "Recargar lleva de 4 a 6 horas según el manual, así que un olvido por la noche deja comprometido el trayecto de la mañana siguiente",
+      "Dentro de la propia gama, el salto a un Skywalker de 10 pulgadas resulta más cómodo para quien encadene a diario firme roto"
     ],
     veredicto:
-      "El Skywalker 8S es el Kaabo compacto con genio: 800 W traseros y rueda sólida en 22 kg. Para ciudad pura, pocos le tosen.",
+      "El 8S es el Skywalker pequeño llevado al límite: motor trasero de 800 W, ruedas de 8 pulgadas y plegado hasta 1080 × 190 × 350 mm con 22 kg. Brilla en ciudad llana y en trayectos cortos; quien busque comodidad en firme roto mirará a los de 10 pulgadas.",
     fuenteNombre: "Ride Hub",
     fuenteUrl: "https://ridehub.com.au/",
     mantenimientoDIY: {

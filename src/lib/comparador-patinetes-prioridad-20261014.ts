@@ -542,24 +542,30 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "Frenos de disco (freno de disco): frenada eficaz y fácil de mantener",
-      "Suspensión doble muelle: más confort en baches y adoquines",
-      "Protección IPX4 (según ESG): resiste salpicaduras y lluvia ligera",
+      "Plataforma extralarga de 22 × 6 pulgadas —entre 3 y 5 pulgadas más que la media de su clase, según Rider Guide— que permite cambiar la postura de los pies sin bajar del patinete",
+      "Doble freno enlazado pensado para quien empieza: el pulgar acciona el regenerativo delantero y la palanca suma el disco trasero, con 17,9 pies (unos 5,5 m) de distancia de parada medida en prueba independiente",
+      "App propia HIBOY MAX por Bluetooth —distinta de la app de la serie S2— con bloqueo, estadísticas de ruta, control de crucero y arranque a patada o desde parado configurable"
     ],
     contras: [
-      "Alcanza 30 km/h: NO es un VMP legal en España; solo para circuito privado",
-      "Datos aún a verificar con la ficha oficial: tiempo de carga",
-      "Autonomía declarada de solo 15 km: para trayectos cortos",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Su punta de 30 km/h rebasa el límite de 25 km/h fijado por la DGT para los VMP, así que de serie queda fuera de la circulación por vías públicas en España",
+      "La batería de 270 Wh se queda en 9 km reales en la medición independiente, y menos aún si se abusa del modo Sport: sirve para recados cortos, no para cruzar la ciudad de punta a punta",
+      "Con solo 90 cm de la plataforma al manillar, quien pase de 1,65 m rueda encogido; los amortiguadores suenan a sonajero sobre firme roto y las ruedas macizas de 8,5 pulgadas se encajan en las grietas longitudinales",
+      "Pensado para el mercado estadounidense: su referencia conocida son 469 $ en Amazon EE. UU. y no consta versión con certificado de la DGT ni precio cerrado en euros"
     ],
-    veredicto: "El Hiboy MAX V2 es un patinete eléctrico de Hiboy con motor de 350 W y 15 km de autonomía declarada. El precio recogido es 469 $ (no oficial; en España a verificar). Ojo: con 30 km/h de velocidad máxima no es un VMP legal en España; solo para circuito privado. Varios datos están aún a verificar con la ficha oficial.",
+    veredicto: "El MAX V2 es la puerta de entrada de Hiboy al commuting con suspensión completa: motor de 350 W, plataforma sobredimensionada y una app propia que lo separa de la serie S2. Brilla en la frenada —el regenerativo delantero y el disco trasero actúan enlazados— y en los recados cortos, pero su autonomía real medida ronda los 9 km, en una cuesta del 10 % se arrastra a menos de 8 km/h de media y su velocidad punta de 30 km/h lo deja fuera de la normativa española de VMP. Encaja si buscas un primer patinete barato para trayectos breves en recinto privado; se queda corto en cuanto el recorrido crece.",
     fuenteNombre: "Electricscooterguides.com",
     fuenteUrl: "https://www.electricscooterguides.com/review/compare-the-hiboy-max-v2-and-the-razor-e300-electric-scooter",
     mantenimientoDIY: {
-      intervaloRevision: "Cada 6-12 meses",
-      ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de freno de disco; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos macizos. Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
+      "ajusteFrenosPasos": [
+        "Revisa el disco trasero y el tacto de la palanca: en el MAX V2 esa misma palanca suma el freno regenerativo delantero, así que si la frenada se alarga ajusta primero la tensión del cable y valora después unas pastillas nuevas."
+      ],
+      "aprieteTornilleria": "Reaprieta la tornillería del mástil y del cierre de plegado —la palanca que se acciona con el pie es dura y coge holgura con el uso— y comprueba también los puños roscados, que tienden a desenroscarse rodando.",
+      "intervaloRevision": "Cada 6-12 meses",
+      "trucos": [
+        "Batería de 270 Wh: si guardas el MAX V2 una temporada, el manual pide recargarla al menos cada 30 días y no dejarla ni agotada ni a tope durante semanas.",
+        "Pese a la protección IPX4, el manual desaconseja rodar con lluvia: seca la plataforma y los laterales con luces azules tras cualquier salpicadura.",
+        "Las ruedas macizas de 8,5 pulgadas no pinchan, pero sí se cortan: pásales la mano buscando cortes, grietas y piedras incrustadas."
+      ]
     },
   },
   {
@@ -587,28 +593,34 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
-      "160 km de autonomía declarada, cifra de récord en su segmento",
-      "Batería de 2880 Wh, capacidad de gama alta",
-      "Motor de 4000 W nominales con picos de 8400 W: potencia de sobra para cuestas",
-      "Carga máxima de 150 kg, apto para riders corpulentos",
-      "Frenos hidráulicos: la frenada más potente y progresiva (doble freno hidráulico + freno regenerativo)",
-      "Neumáticos sin cámara: adiós a los pinchazos por cámara de aire",
-      "Suspensión hidráulica delantera y trasera: más confort en baches y adoquines",
+      "Dos motores de 2.000 W, uno en cada rueda, con 8.400 W de pico conjuntos: la marca cronometra el paso de 0 a 48 km/h en solo 3,5 segundos",
+      "Sistema transformable sin rival en el catálogo: la tabla admite cuatro alturas —183, 213, 253 y 303 mm— para bajar el centro de gravedad en asfalto o ganar despeje fuera de él",
+      "Batería de celdas 21700 con 2.880 Wh (72 V y 40 Ah) sellada con grado IPX7, de donde salen los hasta 160 km anunciados por INMOTION",
+      "Pinzas Zoom sobre discos de 160 mm en ambos ejes, con apoyo del freno eléctrico por inversión del motor en las retenciones",
+      "Suspensión hidráulica en C regulable en 11 posiciones de dureza y con 96 mm de recorrido delante y detrás",
+      "Cubiertas de 11 por 3,5 pulgadas sin cámara interior, un formato ancho pensado para apoyar semejante empuje sin flanear",
+      "App de INMOTION por Bluetooth para consultar trayectos, estado de la batería y ajustes de conducción desde el móvil"
     ],
     contras: [
-      "Alcanza 110 km/h: NO es un VMP legal en España; solo para circuito privado",
-      "Pesa 56 kg: no es para subirlo a mano ni meterlo en el transporte público",
-      "Datos aún a verificar con la ficha oficial: tiempo de carga",
-      "Precio elevado: 3699 €",
+      "Deslimitado alcanza 110 km/h, más de cuatro veces el tope de 25 km/h de un VMP en España: su sitio legal es un recinto privado cerrado, no la vía pública",
+      "Con 56 kg en orden de marcha y 1,47 m de longitud incluso plegado, queda descartado subirlo a un piso sin ascensor o combinarlo con el metro",
+      "Llenar los 2.880 Wh lleva unas 8 horas con el cargador de serie; recortar a 4,5 horas exige comprar y conectar un segundo cargador",
+      "Los 3.699 € recogidos como precio aproximado lo colocan frente a ciclomotores eléctricos con matrícula, no frente a patinetes de uso diario"
     ],
-    veredicto: "El Inmotion RS es un patinete eléctrico de Inmotion con motor de 4000 W (8400 W de pico) y 160 km de autonomía declarada. Cuesta 3699 € (precio aproximado, no oficial). Ojo: con 110 km/h de velocidad máxima no es un VMP legal en España; solo para circuito privado. Varios datos están aún a verificar con la ficha oficial.",
+    veredicto: "El RS es la carta de presentación de INMOTION en los hiperpatinetes: doble motor de 2.000 W por rueda, una aceleración que la propia marca compara con la de Dualtron X2, Kaabo Wolf King GT Pro y NAMI Burn-e Viper, y un chasis transformable de cuatro alturas que ninguno de esos rivales ofrece. Su batería de 2.880 Wh promete hasta 160 km y su parte ciclo —discos Zoom de 160 mm y suspensión regulable en 11 clics— está dimensionada para los 110 km/h que anuncia. Justo eso lo deja fuera de juego en España como VMP: es un aparato de circuito y finca privada, pesado (56 kg) y caro (3.699 € aproximados, sin PVP oficial localizado).",
     fuenteNombre: "Alienrides.com",
     fuenteUrl: "https://alienrides.com/products/inmotion-rs-electric-scooter-pre-order",
     mantenimientoDIY: {
-      intervaloRevision: "Cada 6-12 meses",
-      ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de doble freno hidráulico + freno regenerativo; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos 11\" sin cámara."],
+      "ajusteFrenosPasos": [
+        "Controla el desgaste de las pastillas de los discos Zoom de 160 mm de ambos ejes; si la maneta gana recorrido, purga el circuito hidráulico. El freno eléctrico por inversión del motor ayuda en las retenciones, pero no sustituye a los discos."
+      ],
+      "aprieteTornilleria": "Reaprieta mástil, manillar y las palancas del sistema de tabla regulable: con cuatro posiciones entre 183 y 303 mm, cualquier holgura en ese mecanismo se nota mucho circulando rápido.",
+      "intervaloRevision": "Cada 6-12 meses",
+      "trucos": [
+        "Presión recomendada en el manual: 40 PSI para las cubiertas de 11 × 3,5 pulgadas; compruébala en frío antes de rutas largas.",
+        "Si el RS va a estar parado, el manual pide guardarlo con al menos un 60 % de carga y recargarlo cada 30-60 días.",
+        "Diseño plug-and-play de la marca: acelerador, puños, cubiertas y suspensión se desmontan para sustituirlos sin herramientas especiales."
+      ]
     },
   },
   {
@@ -636,25 +648,30 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "34 km de autonomía declarada, suficiente para el día a día",
-      "Frenos de disco: frenada eficaz y fácil de mantener",
-      "Suspensión doble goma: más confort en baches y adoquines",
-      "Protección Sin clasificación oficial (según Levy): resiste salpicaduras y lluvia ligera",
+      "Suspensión OSAP patentada y regulable: la posición baja asienta el OX en asfalto y la alta libera despeje para rodar por pistas de tierra",
+      "Basculantes de un solo brazo: reparar un pinchazo en sus neumáticos neumáticos de 10 pulgadas no obliga a desmontar la rueda entera",
+      "Motor de 800 W alimentado por 624 Wh y pensado para conductores de hasta 120 kg, un planteamiento de patinete grande y no de juguete urbano ligero",
+      "El freno de disco trabaja sobre un conjunto de 26,6 kg con plataforma ancha, combinación que da aplomo cuando el firme se rompe"
     ],
     contras: [
-      "Alcanza 45 km/h: NO es un VMP legal en España; solo para circuito privado",
-      "26,6 kg de peso: pesado para subir escaleras a diario",
-      "Datos aún a verificar con la ficha oficial: tiempo de carga",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Su techo de 45 km/h rebasa los 25 km/h que España admite para un VMP, así que fuera de recintos cerrados no puede circular como tal",
+      "La autonomía real registrada baja a 22 km frente a los 34 km declarados: un ida y vuelta largo obliga a cargar entre trayectos",
+      "Levy no le publica grado IP alguno, así que no hay certificación comprobable que respalde usarlo bajo la lluvia",
+      "Esos 26,6 kg se cargan a pulso: subirlo a un piso sin ascensor o alzarlo al maletero cansa bastante más que mover un modelo urbano de 13-15 kg"
     ],
-    veredicto: "El Inokim OX es un patinete eléctrico de Inokim con motor de 800 W y 34 km de autonomía declarada. El precio recogido es 1.499 $ (no oficial; en España a verificar). Ojo: con 45 km/h de velocidad máxima no es un VMP legal en España; solo para circuito privado. Varios datos están aún a verificar con la ficha oficial.",
+    veredicto: "El Inokim OX es la puerta de entrada a la familia OX de la marca israelí: comparte con el OX Super el basculante monobrazo y la suspensión OSAP regulable, pero se queda en un motor de 800 W, una batería de 624 Wh y 34 km declarados que en uso real bajan a 22 km. Su referencia de Levy es de 1.499 dólares, sin PVP oficial en euros para España, y su tiempo de carga sigue sin dato en la ficha. A cambio ofrece lo que casi ningún rival de su época tenía: neumáticos neumáticos de 10 pulgadas que se reparan sin desmontar la rueda y una altura de suspensión que se cambia según el terreno.",
     fuenteNombre: "Levyelectric.com",
     fuenteUrl: "https://www.levyelectric.com/compare-scooters/compare-the-joyor-f5s-electric-scooter-and-the-inokim-ox",
     mantenimientoDIY: {
-      intervaloRevision: "Cada 6-12 meses",
-      ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de frenos de disco; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos . Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
+      "ajusteFrenosPasos": [
+        "Revisa el grosor de las pastillas del freno de disco y el recorrido de la maneta; si la frenada se alarga, cambia las pastillas antes de tocar ningún otro ajuste."
+      ],
+      "aprieteTornilleria": "Repasa los tornillos de los basculantes monobrazo, los adaptadores OSAP de la suspensión y el cierre del plegado: en el OX esas tres zonas soportan todo el trabajo de la rodadura.",
+      "intervaloRevision": "Cada 6-12 meses",
+      "trucos": [
+        "Batería de 624 Wh: cárgala con su cargador original y no la guardes semanas enteras ni vacía ni al 100%; al no tener grado IP publicado, consérvalo siempre en interior seco.",
+        "Neumáticos neumáticos de 10 pulgadas: controla la presión según lo grabado en el flanco y vigila el dibujo; el basculante monobrazo facilita reparar un pinchazo sin desmontar la rueda completa."
+      ]
     },
   },
   {
@@ -682,24 +699,29 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "Solo 13,5 kg: ligero y fácil de llevar a mano",
-      "Frenos de disco (freno electrónico e-abs + disco trasero): frenada eficaz y fácil de mantener",
-      "Suspensión suspensión trasera (según enjouet): más confort en baches y adoquines",
-      "Protección IP54: resiste salpicaduras y lluvia ligera",
-      "Precio contenido: 399 €",
+      "Pesa 13,5 kg y se pliega en segundos: cabe en el maletero y se puede cargar a pulso en escaleras o andenes",
+      "La aplicación MiniRobot, por Bluetooth, añade bloqueo, control de crucero y registro de kilometraje a la pantalla LED del manillar",
+      "Rueda de 8,5 pulgadas con cubierta maciza de panal: sin cámara, sin pinchazos y sin comprobar presiones antes de salir",
+      "Frena con el sistema electrónico E-ABS delante y con disco mecánico detrás, una combinación fácil de ajustar en casa",
+      "Amortiguación únicamente trasera, suficiente para suavizar juntas y adoquín ligero en recorridos urbanos cortos"
     ],
     contras: [
-      "Alcanza 30 km/h: NO es un VMP legal en España; solo para circuito privado",
-      "Datos aún a verificar con la ficha oficial: capacidad de la batería en Wh, tiempo de carga",
+      "Desbloqueado desde la aplicación hasta 30 km/h supera el límite de 25 km/h de un VMP y, según MediaMarkt, este i9 Pro no está sujeto a declaración ante la DGT",
+      "La autonomía útil se queda en unos 16 km frente a los 25 km anunciados, y las cubiertas macizas transmiten más vibraciones que una neumática con aire"
     ],
-    veredicto: "El iScooter i9 Pro es un patinete eléctrico de iScooter con motor de 350 W y 25 km de autonomía declarada. Cuesta 399 €. Ojo: con 30 km/h de velocidad máxima no es un VMP legal en España; solo para circuito privado. Varios datos están aún a verificar con la ficha oficial.",
+    veredicto: "El i9 Pro es el escalón intermedio de la familia i9 de iScooter: se distingue del i9 básico, de 12,5 kg, por pesar un kilo más y por unos modos de conducción que llegan a 30 km/h cuando se desbloquea desde la aplicación. Con 399 €, 13,5 kg y una autonomía real cercana a 16 km, su sitio es el trayecto corto de última milla —casa, estación y oficina— manteniendo la velocidad limitada a 25 km/h en vía pública. Quien necesite más de 20 km diarios tendrá que recargar a diario o mirar un modelo con batería mayor.",
     fuenteNombre: "Geekbuying.com:443",
     fuenteUrl: "https://www.geekbuying.com:443/item/iScooter-i9-Pro-Electric-Scooter-7-5Ah-Battery-350W-Motor-507639.html",
     mantenimientoDIY: {
-      intervaloRevision: "Cada 6-12 meses",
-      ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de freno electrónico e-abs + disco trasero; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos 8,5\" de panal (sin pinchazos). Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
+      "ajusteFrenosPasos": [
+        "Si el disco trasero chirría o roza, centra la pinza aflojando sus tornillos, aprieta la maneta y reaprieta; si la frenada se alarga, tensa el cable desde el núcleo y revisa el desgaste de las pastillas, como indica el manual del i9 Pro."
+      ],
+      "aprieteTornilleria": "Revisa los tornillos del manillar, el cierre del clip de plegado y la pata de cabra; son los puntos que más se aflojan en un patinete que se pliega a diario.",
+      "intervaloRevision": "Cada 6-12 meses",
+      "trucos": [
+        "Batería de 36 V y 7,5 Ah: recarga tras cada uso sin esperar a agotarla del todo y, si lo guardas parado, vuelve a cargarla cada dos meses según el manual; el cargador pasa de rojo a verde al completar la carga.",
+        "Cubiertas macizas de panal de 8,5 pulgadas: no llevan presión que vigilar, pero sí hay que mirar el dibujo y sustituirlas cuando el taco central esté liso, porque el agarre cae antes que la carcasa."
+      ]
     },
   },
   {
@@ -727,23 +749,28 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "Frenos de disco (freno de disco trasero): frenada eficaz y fácil de mantener",
-      "Suspensión doble amortiguador: más confort en baches y adoquines",
-      "Protección IP54 (según Levy): resiste salpicaduras y lluvia ligera",
+      "Motor de 500 W: es la versión más potente de la Serie F de Joyor, por encima de los 350 W del F3 y del F5, y trabaja con una batería de 48 V en lugar de los 36 V de sus hermanos de gama.",
+      "Pantalla LCD a color multifunción con puerto USB para cargar el móvil y modo de control de crucero, un equipamiento poco habitual en un patinete de ruedas de 8 pulgadas.",
+      "Plegado muy compacto para llevar una batería de 624 Wh: según el manual de Joyor queda en 880 × 180 × 360 mm y la plataforma mide solo 16 cm de ancho."
     ],
     contras: [
-      "Datos aún a verificar con la ficha oficial: tiempo de carga",
-      "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "La autonomía útil se queda corta para su batería: esta ficha estima 17 km reales frente a los 27 km declarados, así que un trayecto largo de ida y vuelta obliga a cargar casi a diario.",
+      "Ruedas de solo 8 pulgadas: en adoquines, rejillas y bordillos pequeños el F5S se mueve más y transmite más vibraciones que un modelo de 10 pulgadas como el Joyor S5.",
+      "En esta ficha no consta certificado DGT ni precio en euros: si aparece de segunda mano o de importación, toca pedir la documentación del ejemplar concreto antes de pagarlo."
     ],
-    veredicto: "El Joyor F5S es un patinete eléctrico de Joyor con motor de 500 W y 27 km de autonomía declarada. El precio recogido es 699 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
+    veredicto: "El F5S ocupa el escalón alto de la antigua Serie F de Joyor: comparte el chasis de aluminio y las ruedas de 8 pulgadas del F5, pero sube a un motor de 500 W y a una batería de 48 V y 13 Ah (624 Wh). En la práctica es un patinete urbano de trayecto corto —17 km reales estimados y 17,3 kg— pensado para quien pliega a menudo (880 × 180 × 360 mm plegado) y valora extras como la pantalla a color con USB y el control de crucero. Su límite está en el formato: ruedas pequeñas, una velocidad contenida de 23 km/h y una ficha sin certificado DGT consignado ni precio oficial en euros.",
     fuenteNombre: "Levyelectric.com",
     fuenteUrl: "https://www.levyelectric.com/compare-scooters/compare-the-joyor-f5s-electric-scooter-and-the-inokim-ox",
     mantenimientoDIY: {
-      intervaloRevision: "Cada 6-12 meses",
-      ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de freno de disco trasero; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos 8\" macizos. Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
+      "ajusteFrenosPasos": [
+        "Revisa la maneta y el cable del freno trasero: si el recorrido se alarga o aparece un chirrido al frenar, ajusta la tensión y comprueba el desgaste antes de seguir circulando."
+      ],
+      "aprieteTornilleria": "Repasa el cierre del sistema de plegado y la palanca que bloquea la altura del manillar; en el F5S ese conjunto es el que soporta el esfuerzo cada vez que lo levantas ya plegado.",
+      "intervaloRevision": "Cada 6-12 meses, con atención especial al freno trasero y al cierre de plegado si el F5S se usa a diario en ciudad.",
+      "trucos": [
+        "Batería de 48 V y 13 Ah (624 Wh): cárgala con su cargador de 2 A —el manual de Joyor marca entre 6 y 7 horas— y evita guardarla durante semanas descargada o al 100 %.",
+        "Según el manual de la Serie F, la rueda delantera es de aire y la trasera maciza: controla la presión de la delantera y el desgaste de la trasera, que es donde actúa el freno."
+      ]
     },
   },
   {
@@ -771,17 +798,17 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "90 km de autonomía declarada, cifra de récord en su segmento",
-      "Batería de 1248 Wh, capacidad de gama alta",
-      "Frenos de disco (doble disco mecánico): frenada eficaz y fácil de mantener",
-      "Suspensión brazos basculantes delantero y trasero: más confort en baches y adoquines",
-      "Protección Sin clasificación oficial publicada: resiste salpicaduras y lluvia ligera",
+      "Su pack de 48 V y 26 Ah suma 1.248 Wh y la propia ficha rebaja el alcance útil a unos 58 km, margen pensado para quien hace ida y vuelta larga sin cargar entre trayectos",
+      "Motor único de 600 W en esta versión europea limitada a 25 km/h: no es el S8-S-Z de doble motor y 55 km/h que se vende en otros listados de Joyor",
+      "Disco mecánico en cada rueda, delante y detrás, con ajuste por cable y pastillas sustituibles sin pasar por un sistema hidráulico",
+      "Brazos basculantes con suspensión en ambos ejes y gomas todoterreno de 10 pulgadas, combinación orientada a adoquines, bordillos rebajados y pistas de tierra compacta",
+      "Sellado IP54 anunciado por Joyor para el S8 europeo, con faro delantero, luz trasera e intermitentes para circular con lluvia fina y salpicaduras"
     ],
     contras: [
-      "Datos aún a verificar con la ficha oficial: tiempo de carga",
-      "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
+      "Aun plegado sigue siendo un trasto de 24 kg según ficha, con ruedas anchas que estorban al subirlo a pisos sin ascensor o al cargarlo a diario en el maletero",
+      "La familia S8 se vende con apellidos muy distintos —S8, S8-S-Z dual y S8E con asiento— y esta ficha deja el certificado DGT en blanco: exige al comercio que te entregue por escrito la acreditación de la unidad concreta y aclara antes cuánto tarda en cargarse, porque ese dato tampoco figura"
     ],
-    veredicto: "El Joyor S8 es un patinete eléctrico de Joyor con motor de 600 W y 90 km de autonomía declarada. Cuesta 519 €. Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
+    veredicto: "El Joyor S8 europeo es la variante tranquila de la familia: un solo motor de 600 W capado a 25 km/h, batería grande de 48 V y 26 Ah y chasis con doble suspensión para trayectos largos por asfalto roto o tierra compacta. En la ficha cuesta 519 € y se le estiman 58 km reales frente al alcance máximo anunciado. Su punto débil no es la mecánica, sino la compra: hay versiones homónimas mucho más rápidas y sin el certificado DGT consignado aquí es imprescindible cerrar por escrito qué unidad recibes exactamente.",
     fuenteNombre: "Eu.joyorescooter.com",
     fuenteUrl: "https://eu.joyorescooter.com/products/eujoyor-s8",
     mantenimientoDIY: {
@@ -816,28 +843,33 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "54 km de autonomía declarada, muy por encima de la media urbana",
-      "Batería de 2016 Wh, capacidad de gama alta",
-      "Motor de 3000 W nominales: potencia de sobra para cuestas",
-      "Carga máxima de 150 kg, apto para riders corpulentos",
-      "Frenos de disco: frenada eficaz y fácil de mantener",
-      "Neumáticos sin cámara: adiós a los pinchazos por cámara de aire",
-      "Suspensión hidráulica + muelle: más confort en baches y adoquines",
+      "Configuración de dos motores de 1.500 W, uno en cada rueda, que suma los 3.000 W nominales y reparte el empuje en salidas y repechos prolongados",
+      "Pack de 72 V y 28 Ah que cuadra con los 2.016 Wh registrados: plantea rutas largas fuera del casco urbano, no el trayecto corto de última milla",
+      "Cubiertas de 11 pulgadas sin cámara interior: un pinchazo leve no desinfla la rueda al instante como ocurre en los modelos urbanos básicos",
+      "Suspensión que combina parte hidráulica y muelle para digerir firmes rotos y pistas sin que la dirección vaya rebotando a ritmo alto",
+      "Admite pilotos de hasta 150 kg sobre la plataforma, el mismo techo de carga que Kaabo mantuvo después en el Wolf King GT",
+      "Frenada confiada a discos en las dos ruedas, con pastillas visibles y sustituibles sin desmontar un sistema cerrado",
+      "Es el Wolf King original, anterior al GT de motores de 2.000 W: interesa por la fórmula inicial de Kaabo, previa a la pantalla TFT y a los controladores de onda sinusoidal"
     ],
     contras: [
-      "Alcanza 95 km/h: NO es un VMP legal en España; solo para circuito privado",
-      "Pesa 50 kg: no es para subirlo a mano ni meterlo en el transporte público",
-      "Datos aún a verificar con la ficha oficial: tiempo de carga",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Con 95 km/h de punta no encaja en la categoría legal de VMP en España, así que su uso realista es en recinto privado o circuito, nunca como patinete certificado a 25 km/h",
+      "Sus 50 kg obligan a pensarlo como máquina de garaje: entre dos personas se desplaza, pero cargarlo a un piso o a un maletero pequeño no es una operación diaria razonable",
+      "La ficha deja el tiempo de recarga sin cerrar y en un pack de este tamaño ese dato pesa: las referencias consultadas del Wolf King hablan de unas 10 horas con un cargador y unas 5 horas con dos, a confirmar con el vendedor",
+      "Sin precio oficial en euros en la ficha —solo consta la referencia de 2.999 $ recogida en el veredicto— no se puede comparar su coste en España sin pedir oferta cerrada a un distribuidor"
     ],
-    veredicto: "El Kaabo Wolf King es un patinete eléctrico de Kaabo con motor de 3000 W y 54 km de autonomía declarada. El precio recogido es 2.999 $ (no oficial; en España a verificar). Ojo: con 95 km/h de velocidad máxima no es un VMP legal en España; solo para circuito privado. Varios datos están aún a verificar con la ficha oficial.",
+    veredicto: "El Wolf King original es el hiperpatinete con el que Kaabo fijó la receta Wolf antes del GT: tracción doble de 1.500 W por rueda, pack de 72 V y 28 Ah y ruedas de 11 pulgadas sin cámara. En esta ficha manda el contraste entre los 54 km declarados y los 35 km reales, y entre su rendimiento de 95 km/h y su encaje legal nulo como VMP en España. Con 50 kg es una máquina de garaje y recinto privado para piloto experimentado, no un patinete urbano polivalente.",
     fuenteNombre: "Levyelectric.com",
     fuenteUrl: "https://www.levyelectric.com/compare-scooters/compare-the-glion-dolly-foldable-lightweight-adult-electric-scooter-and-the-kaabo-wolf-king",
     mantenimientoDIY: {
-      intervaloRevision: "Cada 6-12 meses",
-      ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de frenos de disco; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos ."],
+      "ajusteFrenosPasos": [
+        "Con el patinete apoyado y la rueda levantada, gira cada rueda de 11 pulgadas y acciona la maneta correspondiente: el disco no debe rozar de forma continua; si la maneta llega casi al puño, toca tensar el cable o cambiar pastillas antes de volver a rodar a ritmo alto."
+      ],
+      "aprieteTornilleria": "Revisa por parejas los tornillos de la tija, del manillar y del cierre de plegado: en un conjunto de 50 kg cualquier holgura en la dirección se nota enseguida al frenar desde velocidad de circuito.",
+      "intervaloRevision": "Cada 6-12 meses",
+      "trucos": [
+        "Batería de 2.016 Wh: planifica la recarga con horas por delante, no la dejes semanas al 0 % ni guardada a tope, y conserva el cargador o los cargadores originales previstos para este modelo.",
+        "Cubiertas sin cámara de 11 pulgadas: comprueba presión y flancos antes de una salida larga; al no llevar cámara interior, una pérdida lenta se detecta antes en la presión que en el aspecto."
+      ]
     },
   },
   {
@@ -865,24 +897,30 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "55 km de autonomía declarada, muy por encima de la media urbana",
-      "Frenos de disco (doble disco + freno electrónico): frenada eficaz y fácil de mantener",
-      "Suspensión muelles delanteros y traseros: más confort en baches y adoquines",
-      "Protección IP54: resiste salpicaduras y lluvia ligera",
+      "Manillar regulable en altura con tres posiciones: se adapta a conductores de distinta estatura, algo que la propia KuKirin destaca como seña de este G2 Pro frente a un mástil fijo",
+      "Seis puntos de luz en total: faro LED delantero, luz trasera que se enciende al frenar y cuatro laterales que en la prueba de ForoCochesEléctricos funcionaban también como intermitentes para señalizar los giros",
+      "Batería de 720 Wh (48 V y 15 Ah en esta ficha) con 35 km reales ya anotados: la prueba española midió que, mezclando el segundo y el tercer modo sin cuidar el consumo, cuesta bajar de esa cifra por carga",
+      "Discos mecánicos de 120 mm delante y detrás, combinados con unas ruedas todoterreno de solo 9 pulgadas: es el G2 con la rueda más pequeña de la familia, por debajo de las de 10 pulgadas del G2 Max"
     ],
     contras: [
-      "Alcanza 45 km/h: NO es un VMP legal en España; solo para circuito privado",
-      "25 kg de peso: pesado para subir escaleras a diario",
-      "Datos aún a verificar con la ficha oficial: tiempo de carga",
+      "El tercer modo desata los 45 km/h con una entrega brusca a poca velocidad, según la prueba: son 20 km/h más que el tope de 25 km/h admitido para un VMP en España, así que deslimitado su sitio es un recinto privado, no la vía pública",
+      "Plegarlo tiene truco y no es rápido: el enganche se hace a mano y solo coincide si antes subes el manillar a su posición más alta; sumado a los 25 kg de esta ficha, no es un patinete para andar subiendo y bajando escaleras cada día",
+      "Recargar de vacío a lleno exige una noche entera: el cargador de 54,6 V y 2 A necesita unas 8 horas según el manual, sin opción de carga rápida para un imprevisto entre trayectos"
     ],
-    veredicto: "El Kugoo Kirin G2 Pro es un patinete eléctrico de Kugoo Kirin con motor de 600 W y 55 km de autonomía declarada. Cuesta 770 €. Ojo: con 45 km/h de velocidad máxima no es un VMP legal en España; solo para circuito privado. Varios datos están aún a verificar con la ficha oficial.",
+    veredicto: "El G2 Pro es el escalón de acceso a la familia G2 de KuKirin: 600 W y 770 € en esta ficha, con la rueda de 9 pulgadas y la batería contenida que lo separan del G2 Max de 1.000 W. Lo suyo no es el dato bruto, sino el equipamiento poco habitual en su tamaño: manillar con tres alturas, intermitentes laterales, sillín incluido de serie en la unidad probada en España y muelles en ambos ejes. A cambio pide paciencia al cargar —unas 8 horas—, al plegarlo —enganche manual condicionado a la altura del manillar— y mesura con el tercer modo, que lo saca de la normativa de VMP.",
     fuenteNombre: "Geekmaxi.com",
     fuenteUrl: "https://www.geekmaxi.com/promotion/kugookirin-g2-pro-electric-scooter/en.html",
     mantenimientoDIY: {
-      intervaloRevision: "Cada 6-12 meses",
-      ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de doble disco + freno electrónico; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos 9\" todoterreno. Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
+      "ajusteFrenosPasos": [
+        "Comprueba pastillas y discos mecánicos de 120 mm en las dos ruedas y el tacto de ambas manetas; no toques un disco recién usado porque quema, advierte el manual, y ajusta el cable si la detención se alarga."
+      ],
+      "aprieteTornilleria": "Reaprieta tornillos y tuercas cada tres meses y revisa en concreto el cierre de plegado: en este modelo el enganche solo cuadra con el manillar en su altura máxima, así que cualquier holgura ahí se nota al instante.",
+      "intervaloRevision": "Lubricación del plegado cada 6 meses y control de tornillería cada 3 meses, según el manual de KuKirin",
+      "trucos": [
+        "Batería de 48 V: si lo dejas parado una temporada, el manual pide recargarla al menos una vez cada tres meses y guardarlo apagado, lejos de sol fuerte y humedad; el piloto del cargador pasa de rojo a verde al completar.",
+        "Ruedas sin cámara de 9 pulgadas: mantén la presión indicada y revisa el dibujo todoterreno, porque rodar bajo de aire recorta autonomía y empeora la frenada sobre firme roto.",
+        "Limpieza sin manguera a presión ni disolventes: paño suave húmedo sobre el bastidor de aleación de aluminio y acero, con el patinete apagado, sin cargar y con la tapa del puerto de carga bien cerrada."
+      ]
     },
   },
   {
@@ -910,26 +948,35 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "Certificado DGT verificado en la versión VMP: legal para circular en España",
-      "65 km de autonomía declarada, muy por encima de la media urbana",
-      "Frenos de disco (doble disco + corte de motor): frenada eficaz y fácil de mantener",
-      "Neumáticos sin cámara: adiós a los pinchazos por cámara de aire",
-      "Suspensión muelles delanteros y traseros: más confort en baches y adoquines",
-      "Protección IP54: resiste salpicaduras y lluvia ligera",
-      "Precio contenido: 489 €",
+      "Versión VMP con certificado DGT y tope a 25 km/h: es la variante pensada para vía pública en España, no el G2 global de 45 km/h",
+      "Batería de 48 V y 15,6 Ah que declara 65 km con piloto de 65 kg en llano a 25 °C; en uso real esta ficha estima 42 km",
+      "Motor de buje con 29 N·m de par y pico de 800 W sobre 500 W nominales, con dos marchas (15 y 25 km/h) para dosificar la entrega en ciudad",
+      "Discos de 160 mm delante y detrás con corte de motor al frenar y distancia de detención declarada de 4 a 6 metros",
+      "Cubiertas 10×2,75-6,5 sin cámara con dibujo todoterreno y 180 mm de altura libre: supera badenes y firme roto sin arrastrar la base",
+      "Plataforma de 460×187 mm, manillar de 650 mm de ancho y pantalla LED de 155×55 mm, con intermitentes y luz trasera que parpadea al frenar",
+      "Por 489 € reúne chasis híbrido de acero y aluminio y doble resorte delantero y trasero, un equipo poco habitual entre los VMP certificados de este precio"
     ],
     contras: [
-      "25,3 kg de peso: pesado para subir escaleras a diario",
-      "Datos aún a verificar con la ficha oficial: capacidad de la batería en Wh, tiempo de carga",
+      "25,3 kg netos y 1.258 mm de longitud aun plegado: cargarlo a pulso por escaleras sin ascensor cansa desde el primer piso",
+      "Recarga completa de 8 a 9 horas con el cargador de 54,6 V y 2 A: si agotas la batería a mediodía, no la recuperas en una pausa corta",
+      "Los 65 km son cifra de laboratorio (65 kg, llano, 25 °C y 250 kPa en las ruedas); con más peso, frío o cuestas la cifra útil se acerca a los 42 km estimados",
+      "Estanqueidad justa para salpicaduras: la ficha VMP consultada indica IPX4, así que no está pensado para rodar bajo lluvia intensa ni entre charcos profundos"
     ],
-    veredicto: "El KuKirin G2 es un patinete eléctrico de KuKirin con motor de 500 W (800 W de pico) y 65 km de autonomía declarada. Cuesta 489 €. Con certificado DGT en su versión VMP, es una compra legal y tranquila en España. Varios datos están aún a verificar con la ficha oficial.",
+    veredicto: "El KuKirin G2 de esta ficha no es el G2 internacional de 800 W y 45 km/h, sino su derivación VMP para España: motor recortado a 500 W nominales (800 W de pico y 29 N·m), velocidad capada a 25 km/h en dos marchas y batería de 48 V y 15,6 Ah con 65 km declarados en condiciones ideales. A cambio de ese recorte ganas el certificado DGT y un conjunto —discos de 160 mm, plataforma de 460×187 mm, intermitentes y doble resorte— orientado a trayectos largos en ciudad por 489 €, asumiendo 25,3 kg y recargas nocturnas de 8 a 9 horas.",
     fuenteNombre: "Eu-kukirin.com",
     fuenteUrl: "https://eu-kukirin.com/products/kukirin-g2-vmp-electric-scooter",
     mantenimientoDIY: {
-      intervaloRevision: "Cada 6-12 meses",
-      ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de doble disco + corte de motor; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos 10\" sin cámara todoterreno."],
+      "ajusteFrenosPasos": [
+        "Comprueba en parado que ambas manetas accionan los discos de 160 mm con tacto firme; si la frenada se alarga por encima de los 4-6 m declarados, tensa el cable y revisa el desgaste de las pastillas.",
+        "Verifica que el corte de motor actúa al tocar cualquiera de las dos manetas: si el motor sigue empujando al frenar, no circules y lleva el patinete a revisión."
+      ],
+      "aprieteTornilleria": "Reaprieta la tornillería del manillar de 650 mm y del cierre de plegado y comprueba que, desplegado, el conjunto de 1.258 mm no presenta holgura lateral; engrasa ligeramente el mecanismo de plegado cada 6 meses.",
+      "intervaloRevision": "Comprobación mensual de chasis, horquilla y plegado si se usa a diario; revisión completa cada 6-12 meses",
+      "trucos": [
+        "Batería de 48 V y 15,6 Ah: carga solo con el cargador original de 54,6 V y 2 A (8-9 h por carga completa); para guardarlo semanas, déjala en torno al 50-70 % y recárgala al menos cada 2-3 meses, en sitio seco y fresco.",
+        "Neumáticos 10×2,75-6,5 sin cámara: mantén 250 kPa (36 psi), que es la presión con la que se midió la autonomía declarada; por debajo de eso el G2 VMP gasta más y frena peor.",
+        "Limpieza: paño húmedo y nada de chorro a presión ni inmersión; la electrónica de esta versión solo está protegida frente a salpicaduras."
+      ]
     },
   },
   {
@@ -957,25 +1004,30 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "70 km de autonomía declarada, muy por encima de la media urbana",
-      "Motor de 1200 W nominales con picos de 1450 W: potencia de sobra para cuestas",
-      "Frenos de disco (doble disco + freno electrónico): frenada eficaz y fácil de mantener",
-      "Suspensión brazos basculantes con amortiguación delantera y trasera: más confort en baches y adoquines",
-      "Protección IPX4: resiste salpicaduras y lluvia ligera",
+      "Su batería de 52 V y 936 Wh sostiene los 70 km declarados y deja unos 45 km reales estimados en esta ficha: margen de sobra para no cargar cada día",
+      "El motor de 1.200 W nominales, con 1.450 W de pico, está orientado a rampas; KuKirin anuncia para el G3 capacidad de subida de 23°",
+      "Discos de 140 mm en las dos ruedas, apoyados por el freno electrónico, para detener con solvencia un patinete que alcanza 50 km/h",
+      "La suspensión de brazos basculantes en ambos ejes y los neumáticos todoterreno de 10,5\" delatan su planteamiento mixto: asfalto irregular y pista compacta, no solo carril urbano liso",
+      "Con certificación IPX4 aguanta salpicaduras y lluvia fina en un trayecto corto, sin que eso lo convierta en patinete para rodar bajo un chaparrón"
     ],
     contras: [
-      "Alcanza 50 km/h: NO es un VMP legal en España; solo para circuito privado",
-      "Pesa 31 kg: no es para subirlo a mano ni meterlo en el transporte público",
-      "Datos aún a verificar con la ficha oficial: tiempo de carga",
+      "Su velocidad punta de 50 km/h duplica el tope de 25 km/h exigido a un VMP en España, así que su sitio no es la vía pública",
+      "Esos 31 kg se notan en cuanto toca cargar con él: subir escaleras, levantarlo a un maletero alto o combinarlo con bus y tren dejan de ser planes razonables",
+      "Recargar los 936 Wh lleva una noche entera: las fuentes del modelo hablan de 8 a 12 horas según la versión del manual, nada de una carga rápida entre trayectos"
     ],
-    veredicto: "El KuKirin G3 es un patinete eléctrico de KuKirin con motor de 1200 W (1450 W de pico) y 70 km de autonomía declarada. Cuesta 699 €. Ojo: con 50 km/h de velocidad máxima no es un VMP legal en España; solo para circuito privado. Varios datos están aún a verificar con la ficha oficial.",
+    veredicto: "Por 699 €, el KuKirin G3 juega a todoterreno de un solo motor: 1.200 W con 1.450 W de pico, batería de 936 Wh con 70 km declarados —45 km reales estimados en esta ficha— y discos de 140 mm en las dos ruedas. Su límite no es la potencia, sino el contexto: a 50 km/h queda fuera del marco VMP español y sus 31 kg castigan cualquier uso intermodal. Encaja si tienes recorrido fuera de la vía pública, sitio fijo para guardarlo y horas por delante para cargarlo.",
     fuenteNombre: "Alphascootz.eu",
     fuenteUrl: "https://alphascootz.eu/shop/e-scooters/kukirin-g3-electric-scooter/",
     mantenimientoDIY: {
-      intervaloRevision: "Cada 6-12 meses",
-      ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de doble disco + freno electrónico; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos 10,5\" todoterreno. Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
+      "ajusteFrenosPasos": [
+        "Revisa los discos de 140 mm de delante y detrás: pastillas con margen, disco sin alabeo y maneta con tacto firme. Si el recorrido de la maneta crece, ajusta la tensión del cable y comprueba que el freno electrónico corta el motor al frenar."
+      ],
+      "aprieteTornilleria": "Además del manillar y del cierre de plegado, revisa los ejes de los brazos basculantes de la suspensión: en un patinete pensado también para pista, esos pivotes cogen holgura antes que en uno puramente urbano.",
+      "intervaloRevision": "Cada 6-12 meses",
+      "trucos": [
+        "Batería: la de 52 V y 18 Ah tarda horas en llenarse con su cargador, así que planifica cargas nocturnas completas y evita guardarla semanas seguidas al 100 % o a 0 %; almacénala en sitio seco y fresco.",
+        "Neumáticos: en los de 10,5\" con taco todoterreno, vigila el desgaste del taco central si haces mucho asfalto: es la señal de que el G3 está pagando en goma su planteamiento mixto."
+      ]
     },
   },
   {
@@ -1003,27 +1055,32 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "95 km de autonomía declarada, cifra de récord en su segmento",
-      "Motor de 3200 W nominales: potencia de sobra para cuestas",
-      "Carga máxima de 150 kg, apto para riders corpulentos",
-      "Frenos hidráulicos: la frenada más potente y progresiva (doble disco hidráulico + freno motor)",
-      "Suspensión hidráulica delantera y trasera: más confort en baches y adoquines",
-      "Protección IP54: resiste salpicaduras y lluvia ligera",
+      "Batería de 60 V y 35,2 Ah, el paquete más grande de la gama KuKirin: sostiene los 95 km declarados, con 61 km reales estimados en esta ficha",
+      "Doble motor de 1.600 W por rueda, 3.200 W en conjunto, con capacidad de subida anunciada de 38° para pistas y rampas que un patinete de un solo motor no afronta",
+      "Admite 150 kg sobre una plataforma de 64 × 30 cm, bastante más ancha que la del G4 de 11 pulgadas: el piloto corpulento apoya los dos pies con holgura",
+      "Frenos hidráulicos de cuatro pistones en ambas ruedas, con distancia de parada anunciada de 6 a 8 m: lo que toca cuando hay que detener 64 kg lanzados",
+      "Conjunto todoterreno de ruedas neumáticas de 12 pulgadas, 21 cm de altura libre al suelo y amortiguadores hidráulicos invertidos en los dos ejes, pensado para caminos de tierra",
+      "Sellado IP54 frente a salpicaduras: admite rodar tras un chaparrón ligero, pero no es un patinete para vados ni para lluvia intensa continuada"
     ],
     contras: [
-      "Alcanza 86 km/h: NO es un VMP legal en España; solo para circuito privado",
-      "Pesa 64 kg: no es para subirlo a mano ni meterlo en el transporte público",
-      "Datos aún a verificar con la ficha oficial: capacidad de la batería en Wh, tiempo de carga",
-      "Precio elevado: 2149 €",
+      "Sus tres modos llegan a 38, 70 y 86 km/h; en España eso lo deja fuera de la definición de VMP, limitada a 25 km/h, así que su uso queda restringido a espacios privados",
+      "Pesa 64 kg y plegado sigue midiendo 1425 × 640 × 668 mm: cargarlo a pulso por unas escaleras o subirlo a un autobús no es una opción, necesita maletero amplio o garaje a pie de calle",
+      "La ficha deja en blanco los vatios-hora y el tiempo de carga, y las tiendas consultadas no coinciden en la recarga (horquillas de 4-8 h y de 7-8 h según la fuente): hay que confirmarlo con el vendedor",
+      "Los 2.149 € lo colocan en territorio de doble motor premium: en la tienda KuKirin consultada cuesta más del doble que el G4 de un solo motor, pese a compartir familia"
     ],
-    veredicto: "El KuKirin G4 Max es un patinete eléctrico de KuKirin con motor de 3200 W y 95 km de autonomía declarada. Cuesta 2149 €. Ojo: con 86 km/h de velocidad máxima no es un VMP legal en España; solo para circuito privado. Varios datos están aún a verificar con la ficha oficial.",
+    veredicto: "El KuKirin G4 Max es el techo de la gama G de KuKirin: doble motor de 1.600 W por rueda, batería de 60 V y 35,2 Ah, ruedas todoterreno de 12 pulgadas y chasis para 150 kg, todo orientado a pista y a pilotos pesados, no a la ciudad. Cuesta 2.149 € y pesa 64 kg. Ojo: con modos de hasta 86 km/h no es un VMP legal en España, solo cabe en espacios privados. La ficha aún deja sin confirmar los vatios-hora y el tiempo de carga.",
     fuenteNombre: "Kukirinshop.eu",
     fuenteUrl: "https://kukirinshop.eu/spd/kg4max/KuKirin-G4Max-Electric-Scooter-21600W-60V-35-2AH-8",
     mantenimientoDIY: {
-      intervaloRevision: "Cada 6-12 meses",
-      ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de los frenos; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos. Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
+      "ajusteFrenosPasos": [
+        "Al ser hidráulicos de cuatro pistones no llevan cable que tensar: comprueba el nivel del líquido, que la maneta no se acerque al puño y el grosor de las pastillas; si la frenada se alarga, toca purgar el circuito o cambiar pastillas en un taller."
+      ],
+      "aprieteTornilleria": "Con 64 kg y uso por pista, reaprieta la tornillería del manillar, de la dirección y del mecanismo de plegado tras las primeras salidas; el cierre debe quedar sin ninguna holgura antes de rodar en los modos rápidos.",
+      "intervaloRevision": "Cada 6-12 meses",
+      "trucos": [
+        "Batería de 60 V y 35,2 Ah: cárgala siempre con su cargador original, no la dejes semanas al 0 % ni al 100 % y guárdala en un interior seco; es el componente más pesado y más caro del G4 Max.",
+        "Neumáticos de 12 pulgadas con cámara: controla la presión antes de salir a pista y revisa el dibujo; rodar bajo de presión aumenta el riesgo de llantazo y recorta la autonomía real frente a los 95 km declarados."
+      ]
     },
   },
   {
@@ -1397,21 +1454,31 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "95 km de autonomía declarada, cifra de récord en su segmento",
+      "Batería de 675 Wh (54 V y 12,5 Ah) con 95 km declarados por Inmotion, medidos según su manual con 75 kg de carga, a 25 °C y a 18 km/h en llano: margen de sobra para no cargar cada noche",
+      "Pensado para conductores altos y corpulentos: plataforma de goma un 20 % más ancha que la de rivales comparables, manillar alto y carga máxima de 140 kg según el manual y la ficha oficial",
+      "Doble suspensión, delantera y trasera, combinada con neumáticos de 10 pulgadas: filtra bordillos y asfalto roto en trayectos largos, donde otros patinetes de diario se quedan cortos",
+      "Intermitentes laterales que se activan por sensor y doble faro LED delantero en posición alta, dos detalles poco habituales en patinetes pensados solo para trayectos cortos"
     ],
     contras: [
-      "Datos aún a verificar con la ficha oficial: frenos, neumáticos, carga máxima, tiempo de carga",
-      "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "No es un patinete para subir a pulso al metro: el manual del S1 cifra su peso neto en unos 24 kg y su longitud desplegado supera los 1,30 m",
+      "La carga completa pide paciencia: unas 7 horas con un solo cargador según el manual; bajar a unas 3,5 horas exige usar la carga doble",
+      "En España no consta como certificado por la DGT: en la lista de modelos Inmotion homologados consultada solo aparece el Climber, así que del S1 hay que exigir el certificado concreto de la unidad y no darlo por hecho"
     ],
-    veredicto: "El Inmotion S1 es un patinete eléctrico de Inmotion con motor de 500 W y 95 km de autonomía declarada. El precio recogido es 999 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
-    fuenteNombre: "Fuente del borrador",
-    fuenteUrl: "Web oficial de Inmotion (buscar modelo exacto antes de publicar; no se inventa URL)",
+    veredicto: "El Inmotion S1 juega en otra liga que los patinetes ligeros de última milla: motor trasero de 500 W nominales que sube pendientes del 30 %, batería de 675 Wh, modos Eco, D y S y una plataforma ancha pensada para conductores grandes y trayectos largos. Su autonomía real recogida en esta ficha, 61 km, queda lejos de los 95 km declarados en condiciones ideales, pero sigue siendo de las más altas de su clase. A cambio, es grande, pesado de cargar a pulso y su situación frente al certificado DGT en España no está acreditada para este modelo.",
+    fuenteNombre: "Inmotion Store España (ficha del S1F) y manual de usuario del Inmotion S1",
+    fuenteUrl: "https://inmotion-store.com/es/producto/inmotion-s1f/",
     mantenimientoDIY: {
-      intervaloRevision: "Cada 6-12 meses",
-      ajusteFrenosPasos: ["Comprueba el tacto y el desgaste; ajusta o sustituye pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
+      "ajusteFrenosPasos": [
+        "Comprueba la maneta y el conjunto formado por el freno de tambor delantero y el freno eléctrico trasero: la frenada tiene que ser firme y sin ruidos extraños.",
+        "Si la distancia de frenado se alarga, no fuerces el tambor por tu cuenta: el manual remite las reparaciones al punto de venta o a service@imscv.com."
+      ],
+      "aprieteTornilleria": "Revisa los tornillos del manillar y del mástil, el anillo y el gancho de plegado trasero y que el cierre del mástil vuelve a su sitio sin holgura, tal como describe el montaje del manual.",
+      "intervaloRevision": "Comprobación antes de cada salida y mantenimiento regular recomendado por el manual del S1: si suena raro, vibra o salta un aviso, no lo uses hasta revisarlo",
+      "trucos": [
+        "Batería de 675 Wh: usa solo el cargador original de Inmotion, no cargues con el puerto o el cable mojados y, si vas a guardarlo, déjalo cargado y recárgalo a tiempo para que no se descargue del todo; el manual advierte de que el frío por debajo de 0 °C recorta autonomía y rendimiento.",
+        "Neumáticos neumáticos tubeless de 10 pulgadas, no macizos: controla la presión con un manómetro fiable —la referencia recogida para el S1 es de 40-50 psi (2,75-3,5 bar)— y usa la válvula de extensión que viene en la caja para hincharlos.",
+        "Limpieza: paño suave humedecido, sin chorro a presión ni disolventes, con el patinete apagado, el cable desenchufado y la tapa del puerto de carga cerrada, como indica el apartado de cuidado diario del manual."
+      ]
     },
   },
   {
@@ -1439,22 +1506,27 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "30 km de autonomía declarada, suficiente para el día a día",
-      "Solo 13 kg: ligero y fácil de llevar a mano",
+      "Su batería va dentro del mástil y se extrae en segundos: la cargas en casa o en la oficina sin subir el patinete entero, y puedes llevar una segunda unidad para alargar el recorrido",
+      "Triple frenada poco habitual en su peso: freno electrónico delantero, disco trasero y freno pisando el guardabarros trasero, con ruedas neumáticas de 10 pulgadas y solo 13 kg en la ficha"
     ],
     contras: [
-      "Datos aún a verificar con la ficha oficial: frenos, neumáticos, carga máxima, tiempo de carga",
-      "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Es un modelo de Levy Electric, marca de Nueva York pensada para Estados Unidos: se vende en dólares y no se ha localizado precio oficial en euros ni canal de venta oficial en España",
+      "Carece de suspensión, así que todo el confort recae en las ruedas con cámara: Levy pide llevarlas a 50-60 PSI y, a diferencia de las macizas, estas sí pueden pinchar",
+      "Con una sola batería la autonomía real de la ficha se queda en 19 km; para trayectos largos dependes de comprar y cargar con una segunda batería intercambiable"
     ],
-    veredicto: "El Levy Plus es un patinete eléctrico de Levy con motor de 350 W y 30 km de autonomía declarada. El precio recogido es 599 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
-    fuenteNombre: "Fuente del borrador",
-    fuenteUrl: "Web oficial de Levy (buscar modelo exacto antes de publicar; no se inventa URL)",
+    veredicto: "El Levy Plus es el patinete de gama larga de Levy Electric, firma neoyorquina, y su rasgo distintivo es la batería intercambiable alojada en el mástil: se retira en segundos para cargarla donde quieras o sustituirla por otra. Monta motor de 350 W, declara 30 km que en la ficha bajan a 19 km reales, pesa 13 kg y combina ruedas neumáticas de 10 pulgadas con triple frenada (electrónica delante, disco detrás y guardabarros trasero). Su punto débil en España es su origen: precio en dólares, sin importe oficial en euros localizado y sin certificado DGT acreditado en la ficha.",
+    fuenteNombre: "Levy Electric — web oficial y centro de soporte oficial",
+    fuenteUrl: "https://www.levyelectric.com/",
     mantenimientoDIY: {
-      intervaloRevision: "Cada 6-12 meses",
-      ajusteFrenosPasos: ["Comprueba el tacto y el desgaste; ajusta o sustituye pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
+      "ajusteFrenosPasos": [
+        "Comprueba la maneta que acciona a la vez el freno electrónico delantero y el disco trasero: si la frenada se alarga, ajusta el cable y revisa el desgaste de las pastillas del disco; no olvides probar también el freno de guardabarros trasero."
+      ],
+      "aprieteTornilleria": "Aprieta los tornillos del mástil y del mecanismo de plegado; Levy recomienda reapretarlos con una gota de fijador de roscas si se aflojan con el uso, y comprobar el cierre de anilla de la bisagra.",
+      "intervaloRevision": "Primera revisión preventiva a los 180 días, como indica el soporte oficial de Levy, y después cada 6-12 meses",
+      "trucos": [
+        "Batería: aprovecha que el pack se extrae del mástil y cárgalo fuera del patinete con su cargador original; evita guardarlo semanas al 0 % o al 100 % y consérvalo en sitio seco y fresco.",
+        "Neumáticos: son neumáticos con cámara de 10 pulgadas, no macizos; Levy indica mantenerlos entre 50 y 60 PSI, así que revisa la presión con manómetro antes de salir y lleva kit antipinchazos."
+      ]
     },
   },
   {
@@ -1524,22 +1596,27 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "30 km de autonomía declarada, suficiente para el día a día",
-      "Solo 15 kg: ligero y fácil de llevar a mano",
+      "Desbloqueo por NFC y luces ambientales que se personalizan en la app de OKAI: la seña Neon Lite heredada del NEON pensado para flotas compartidas",
+      "Con 288 Wh y 19 km reales estimados frente a los 30 km declarados, cubre la última milla sin pasar de 15 kg de peso total"
     ],
     contras: [
-      "Datos aún a verificar con la ficha oficial: frenos, neumáticos, carga máxima, tiempo de carga",
-      "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Sin amortiguación trasera —lo confirma el proveedor frente al ES20 en Digitec—: en adoquines y baches las ruedas de vacío de 9 pulgadas transmiten casi todo al conductor",
+      "La batería pequeña que lo hace ligero también lo limita: si tu trayecto diario supera los 19 km reales estimados, tocará cargar a mitad de jornada",
+      "Venta oficial localizada solo en dólares en okai.co —499,99 $— y sin certificado de circulación DGT verificado para España en las fuentes consultadas"
     ],
-    veredicto: "El Okai ES10 es un patinete eléctrico de Okai con motor de 350 W y 30 km de autonomía declarada. El precio recogido es 499 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
-    fuenteNombre: "Fuente del borrador",
-    fuenteUrl: "Web oficial de Okai (buscar modelo exacto antes de publicar; no se inventa URL)",
+    veredicto: "El ES10 es el Neon Lite de OKAI, la versión de acceso derivada de su NEON superventas y de su experiencia en patinetes de uso compartido. Aporta desbloqueo NFC, barra de luz y gestión por app en un conjunto de 15 kg con batería de 288 Wh, pensado para distancias cortas: 30 km declarados que en esta ficha quedan en 19 km reales estimados. A cambio renuncia a la amortiguación trasera del ES20 y su precio oficial solo consta en dólares, sin PVP español ni certificado DGT verificados.",
+    fuenteNombre: "OKAI (web oficial) — NEON Lite ES10",
+    fuenteUrl: "https://okai.co/collections/all-products/products/neon-lite-es10",
     mantenimientoDIY: {
-      intervaloRevision: "Cada 6-12 meses",
-      ajusteFrenosPasos: ["Comprueba el tacto y el desgaste; ajusta o sustituye pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
+      "ajusteFrenosPasos": [
+        "Comprueba el freno electrónico delantero desde el manillar y tensa el cable del disco trasero si la maneta gana recorrido; con resistencia IP55 puedes limpiar con paño húmedo, nunca con agua a presión sobre la barra de luz ni la zona de carga."
+      ],
+      "aprieteTornilleria": "Reaprieta la tornillería del mástil y del mecanismo de plegado y verifica que el desbloqueo NFC y la app siguen reconociendo el patinete tras cada ajuste.",
+      "intervaloRevision": "Cada 6 meses si se usa a diario en ciudad; tras las primeras salidas, revisa el freno de disco trasero y el cierre de plegado",
+      "trucos": [
+        "Batería de 288 Wh: carga con el cargador original y evita agotar el ciclo en trayectos que ya rozan los 19 km reales estimados.",
+        "Ruedas de vacío de 9 pulgadas: revisa desgaste y cortes cada mes; sin cámara no hay pinchazo clásico, pero un golpe de llanta en un bordillo sí deja el ES10 parado."
+      ]
     },
   },
   {
@@ -1567,21 +1644,30 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "40 km de autonomía declarada, suficiente para el día a día",
+      "Su firma es la luz ambiental Neon: cambia de color y de ritmo y se ajusta desde la app de OKAI, una seña de identidad que no se ve en los patinetes urbanos de su entorno",
+      "Desbloqueo por NFC con tarjeta y gestión desde la app de OKAI —bloqueo, modos de conducción, estado de la batería y registro de rutas—, herencia directa de la experiencia de OKAI fabricando patinetes para flotas compartidas",
+      "Neumáticos tubeless tipo vacío de 10 pulgadas y doble freno, eléctrico delante y de disco detrás: la combinación busca que un pinchazo no te deje tirado en un trayecto largo"
     ],
     contras: [
-      "Datos aún a verificar con la ficha oficial: frenos, neumáticos, carga máxima, tiempo de carga",
-      "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "En España su trazabilidad es la parte floja: la certificación que OKAI exhibe para el Neon Pro es la UL 2272 estadounidense y no consta certificado DGT de la unidad, así que hay que exigir al vendedor la documentación VMP antes de pagar",
+      "No es un patinete de último kilómetro para subir a pulso en cada transbordo: su planteamiento es de trayecto largo con equipamiento completo, y eso se paga en bulto al plegarlo y moverlo a mano",
+      "La referencia de compra localizada es la tienda estadounidense de OKAI, con el precio en dólares y sin PVP oficial en euros para España, por lo que el coste final aquí queda en manos del canal que lo importe"
     ],
-    veredicto: "El Okai ES30 es un patinete eléctrico de Okai con motor de 500 W y 40 km de autonomía declarada. El precio recogido es 699 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
-    fuenteNombre: "Fuente del borrador",
-    fuenteUrl: "Web oficial de Okai (buscar modelo exacto antes de publicar; no se inventa URL)",
+    veredicto: "El ES30 es el Neon Pro, el tope de la familia Neon de OKAI: un patinete pensado para trayectos largos y con equipamiento diferencial —luz ambiental personalizable, desbloqueo NFC y gestión por app— más que para plegarlo y cargarlo en cada cambio de transporte. Su carta fuerte son los neumáticos tubeless de 10 pulgadas con freno eléctrico delantero y disco trasero; su carta débil en España es la trazabilidad, porque la venta localizada es la tienda estadounidense de la marca, con certificación UL 2272 y precio en dólares, sin constancia de certificado DGT para la unidad que se ofrezca aquí.",
+    fuenteNombre: "OKAI — página oficial del Neon Pro ES30",
+    fuenteUrl: "https://okai.co/collections/kid-approved/products/neon-pro",
     mantenimientoDIY: {
-      intervaloRevision: "Cada 6-12 meses",
-      ajusteFrenosPasos: ["Comprueba el tacto y el desgaste; ajusta o sustituye pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
+      "ajusteFrenosPasos": [
+        "El freno que se ajusta a mano es el de disco trasero: revisa la tensión del cable y el desgaste de las pastillas si la maneta gana recorrido o la frenada se alarga.",
+        "El freno delantero es electrónico y no lleva pastillas que sustituir: si pierde mordida o la app marca un fallo, es trabajo de diagnóstico, no de apriete casero."
+      ],
+      "aprieteTornilleria": "Revisa el cierre de un solo clic del mástil antes de salir: tiene que bloquear sin holgura al apoyarte en el manillar; si la palanca del plegado baila, no lo fuerces y hazla revisar.",
+      "intervaloRevision": "OKAI no publica un kilometraje cerrado de revisión para el ES30: haz una comprobación periódica de frenos, cierre de plegado y ruedas, y no dejes la batería parada más de un mes sin darle una carga",
+      "trucos": [
+        "Batería con sistema BMS según OKAI: cárgala tras cada salida con su cargador oficial, muévete entre el 20 % y el 80 % en el uso diario y déjala en torno al 50 % si va a estar semanas guardada en sitio seco y fresco.",
+        "Sus neumáticos son tubeless tipo vacío de 10 pulgadas, no macizos: vigila presión y flancos, porque rodar bajo de presión recorta autonomía y castiga la llanta en los bordillos.",
+        "Limpieza con paño húmedo y sin chorro a presión, cerrando bien la tapa del puerto de carga: la electrónica, la pantalla y la luz ambiental Neon no llevan bien el agua a presión."
+      ]
     },
   },
   {
@@ -1609,22 +1695,31 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "Solo 13 kg: ligero y fácil de llevar a mano",
+      "Arranque con impulso previo: el motor de 100 W con transmisión por cadena solo entra tras rodar a unos 5 km/h, así un niño de 8 años o más no sale disparado desde parado al girar el puño.",
+      "Cuadro y horquilla de acero con rueda delantera neumática de 8 pulgadas: aguanta el uso diario infantil y filtra mejor los baches que una rueda delantera maciza."
     ],
     contras: [
-      "Datos aún a verificar con la ficha oficial: frenos, neumáticos, carga máxima, capacidad de la batería en Wh, tiempo de carga",
-      "Autonomía declarada de solo 16 km: para trayectos cortos",
-      "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+      "Batería de plomo sellado de 24 V, no de litio: el fabricante limita el uso continuo a unos 40 minutos y pide unas 12 horas de carga, así que no da para encadenar salidas largas en un mismo día.",
+      "Techo claro de uso infantil: está pensado para conductores de 8 años o más y hasta 54 kg, por lo que un adulto o un adolescente corpulento queda directamente fuera de su rango.",
+      "La versión clásica de cadena no se pliega y exige tensar y lubricar la cadena; sin ese ajuste, la rueda trasera empieza a hacer ruido y la transmisión pierde suavidad.",
+      "Pensado como producto recreativo estadounidense con certificación eléctrica UL2272, no como VMP urbano español: no consta certificado de circulación de la DGT para este modelo ni lleva el equipamiento de un patinete adulto para circular por la calzada."
     ],
-    veredicto: "El Razor E100 es un patinete eléctrico de Razor con motor de 100 W y 16 km de autonomía declarada. El precio recogido es 129 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
+    veredicto: "El Razor E100 clásico es el patinete eléctrico de iniciación de Razor: motor de 100 W con transmisión por cadena, arranque tras dar impulso con el pie y estructura de acero en talla infantil para conductores a partir de 8 años y hasta 54 kg. Su rueda delantera neumática de 8 pulgadas y su rueda trasera de uretano lo diferencian del E200, más grande y pensado para mayores de 13 años. En esta ficha no hay precio oficial en euros verificado para España, y su batería de plomo de 24 V condiciona tanto el tiempo de uso, unos 40 minutos según el fabricante, como la espera de carga.",
     fuenteNombre: "Fuente del borrador",
     fuenteUrl: "Web oficial de Razor (buscar modelo exacto antes de publicar; no se inventa URL)",
     mantenimientoDIY: {
-      intervaloRevision: "Cada 6-12 meses",
-      ajusteFrenosPasos: ["Comprueba el tacto y el desgaste; ajusta o sustituye pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
+      "ajusteFrenosPasos": [
+        "Con el patinete apagado, gira el tensor de la maneta entre un cuarto y media vuelta para ajustar el juego del cable del freno delantero, como indica el manual del E100.",
+        "Si sigue flojo o demasiado tenso, afloja el tornillo del cable con una llave de 10 mm, recoloca el cable y vuelve a apretarlo.",
+        "Comprueba que las zapatas quedan alineadas contra la llanta y sin desgaste excesivo; si están torcidas, afloja su tuerca de fijación, recolócalas, aprieta y prueba la frenada en llano antes de salir."
+      ],
+      "aprieteTornilleria": "Revisa los tornillos del manillar, la horquilla y los ejes de ambas ruedas; en la trasera, gira los tensores del eje entre un octavo y un cuarto de vuelta por igual en cada lado para tensar la cadena sin desalinear la rueda. Este modelo clásico no tiene mecanismo de plegado que revisar.",
+      "intervaloRevision": "Revisión antes de cada salida y atención a la cadena y al freno delantero en cuanto aparezca ruido, holgura o pérdida de frenada; recarga de la batería al menos una vez al mes aunque el patinete esté guardado.",
+      "trucos": [
+        "Batería de plomo de 24 V (dos bloques de 12 V): cárgala tras cada uso, no la guardes descargada y haz una recarga al mes aunque el E100 esté parado durante semanas; su lógica es la contraria a la de una batería de litio moderna.",
+        "Cadena: mantenla apenas tensa, nunca como una cuerda de piano; una cadena demasiado apretada puede partir o doblar el eje del motor, y una cadena seca se lubrica tras retirar el protector.",
+        "Rueda delantera neumática de 8 pulgadas: ínflala con una bomba de bicicleta con válvula Schrader hasta la presión grabada en el flanco; la trasera de uretano no se infla, solo se revisa por desgaste."
+      ]
     },
   },
   {
@@ -1651,21 +1746,32 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       { alt: "Razor E200, vista en detalle", alto: 1000, ancho: 1000, src: "/media/patinetes/razor-e200-2.webp" },
     ],
     aprox: ["autonomiaRealKm"],
-    pros: [],
-    contras: [
-      "Datos aún a verificar con la ficha oficial: frenos, neumáticos, carga máxima, capacidad de la batería en Wh, tiempo de carga",
-      "Autonomía declarada de solo 19 km: para trayectos cortos",
-      "Certificado DGT no verificado: confírmalo con el vendedor antes de comprar",
-      "Precio recogido en dólares y no oficial: en España, a verificar",
+    pros: [
+      "Plataforma y chasis de tamaño completo para adolescentes de 13 años o más: un escalón real por encima del E100, pensado para conductores más altos",
+      "Motor de 200 W de alto par con transmisión por cadena y acelerador de puño giratorio, un mando sencillo e intuitivo para iniciarse",
+      "Neumáticos neumáticos de 8 pulgadas delante y detrás, que absorben mejor las irregularidades que las ruedas macizas de los Razor más pequeños",
+      "Chasis y horquilla íntegramente de acero, una construcción simple y robusta para un uso recreativo en superficies lisas y secas"
     ],
-    veredicto: "El Razor E200 es un patinete eléctrico de Razor con motor de 200 W y 19 km de autonomía declarada. El precio recogido es 199 $ (no oficial; en España a verificar). Conviene confirmar el certificado DGT con el vendedor antes de comprarlo. Varios datos están aún a verificar con la ficha oficial.",
+    contras: [
+      "Batería sellada de plomo-ácido de 24 V (dos unidades de 12 V): el manual limita el uso continuo a unos 40 minutos y pide hasta 12 horas de recarga tras cada salida",
+      "Carga máxima de 70 kg según el manual del propietario: queda fuera para la mayoría de adultos, porque está dimensionado para adolescentes a partir de 13 años",
+      "No se pliega: el chasis de acero de tamaño completo y sus 19 kg registrados en esta ficha lo hacen incómodo de subir a un piso o de meter en el maletero a diario",
+      "Sin certificado DGT localizado para este modelo recreativo de origen estadounidense: antes de plantearte circular con él por vías públicas en España, confirma su situación con el vendedor"
+    ],
+    veredicto: "El Razor E200 es el patinete recreativo con el que Razor sube un peldaño desde el E100: chasis de acero de tamaño completo para mayores de 13 años, motor de 200 W por cadena con acelerador de puño y batería de plomo-ácido de 24 V que el manual cifra en unos 40 minutos de uso continuo, con recargas de hasta 12 horas y una carga máxima de 70 kg. Encaja para recorridos cortos por el barrio en superficies lisas y secas, no como patinete urbano adulto para desplazarse cada día en España.",
     fuenteNombre: "Fuente del borrador",
     fuenteUrl: "Web oficial de Razor (buscar modelo exacto antes de publicar; no se inventa URL)",
     mantenimientoDIY: {
-      intervaloRevision: "Cada 6-12 meses",
-      ajusteFrenosPasos: ["Comprueba el tacto y el desgaste; ajusta o sustituye pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
+      "ajusteFrenosPasos": [
+        "Su único freno es el trasero, accionado a mano: comprueba que el cable conserve entre 2 y 3 mm de holgura en la maneta y ajústalo siguiendo el manual si la frenada se alarga.",
+        "Si el freno roza en marcha, la autonomía cae: revisa ese arrastre antes de culpar a la batería."
+      ],
+      "aprieteTornilleria": "Reaprieta la tornillería del manillar y de la dirección y revisa la tensión de la cadena de transmisión; este E200 no tiene mecanismo de plegado que revisar.",
+      "intervaloRevision": "Antes de cada salida, según la lista previa del manual: freno, neumáticos, chasis y manillar, comprobando que ninguna pieza esté floja",
+      "trucos": [
+        "Batería de plomo-ácido: cárgala inmediatamente después de circular, con un mínimo de 12 horas aunque el piloto se ponga verde antes, sin pasar de 24 horas conectado; si no lo usas, recárgala periódicamente y nunca lo guardes a temperaturas bajo cero, porque el frío daña la batería de forma permanente.",
+        "Neumáticos neumáticos de 8 pulgadas: pierden presión con el tiempo, así que verifica el inflado antes de salir; una presión baja acorta la autonomía y hace que el patinete vaya lento."
+      ]
     },
   },
   {
