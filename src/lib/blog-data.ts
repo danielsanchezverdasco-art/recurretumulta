@@ -1101,6 +1101,44 @@ Las ordenanzas municipales a menudo tienen requisitos específicos que no siempr
 
 
 
+## Quién manda en la calle donde te denunciaron
+
+Una denuncia dentro del casco urbano no sigue el mismo circuito que una de carretera, y la clave está en el lugar exacto de los hechos. El <a href=https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722&tn=1&p=20151031>texto refundido de la Ley de Tráfico publicado en el BOE</a> atribuye a los alcaldes la sanción de las infracciones de circulación cometidas en vías urbanas, con posibilidad de delegar esa competencia. Por eso el expediente lo resuelve el ayuntamiento, aunque firmara el boletín un agente de su policía local.
+
+Esa atribución tiene límites: quedan fuera las infracciones del título IV de la misma ley, incluidas las relativas a condiciones técnicas del vehículo y al seguro obligatorio. Si los hechos ocurrieron fuera del término municipal, la competencia misma es el primer argumento a examinar.
+
+## Dos ventanas distintas que no debes confundir
+
+Buena parte de los recursos municipales se pierden por mezclar fases. Primero llega la denuncia y se abre el trámite de alegaciones; solo después, si el ayuntamiento dicta resolución sancionadora, nace la posibilidad de impugnarla:
+
+| Momento del expediente | Qué puedes hacer | Plazo verificado |
+|---|---|---|
+| Notificación de la denuncia | Formular alegaciones y proponer pruebas | 20 días naturales |
+| Notificación de la resolución sancionadora | Interponer recurso de reposición potestativo | 1 mes desde el día siguiente |
+| Resolución del recurso | Valorar la vía contencioso-administrativa | Según la notificación recibida |
+
+El plazo de reposición de **1 mes** ya aparecía en esta guía y coincide con el procedimiento ordinario de la Ley de Tráfico. El de alegaciones corre en días naturales: festivos incluidos, así que anota la fecha de notificación en el propio sobre.
+
+## Leer la notificación buscando grietas concretas
+
+Antes de redactar, subraya cuatro datos: precepto presuntamente infringido, descripción de los hechos, identificación del agente y forma de notificación. Nuestra <a href=/guias/vicios-forma/>guía de vicios de forma que anulan multas</a> desarrolla esa revisión, y el artículo sobre <a href=/blog/defectos-forma-anulan-multa-dgt/>defectos de forma que pueden tumbar una sanción</a> ayuda a distinguir un error material de una errata sin relevancia.
+
+Suma una comprobación extra: coteja el precepto citado con la ordenanza de ese ayuntamiento concreto. Una señal mal colocada según la normativa local, un número de placa ausente o una calle de otro municipio son los requisitos específicos que esta página ya señalaba. Si pides pruebas, pídelas nombradas —fotografía, informe ratificador, croquis de señalización— y guarda el justificante de registro.
+
+## Fallos que se repiten al recurrir ante un ayuntamiento
+
+El tropiezo inicial más habitual es enviar el escrito a Tráfico cuando el órgano competente era municipal: el tiempo pasa mientras el papel viaja al destinatario equivocado. Le sigue pegar una plantilla pensada para radares en una denuncia presencial, sin mencionar la ordenanza aplicable ni la actuación del agente local.
+
+También debilita el caso alegar que «no estaba allí» sin aportar un documento, o atacar solo el importe cuando existe un problema anterior de competencia. Y no olvides revisar si el asunto podía estar prescrito: para eso tienes la <a href=/guias/prescripcion/>guía de prescripción y caducidad de multas</a>.
+
+Si necesitas una estructura, parte del <a href=/blog/recurso-reposicion-multa-modelo-2026/>modelo de recurso de reposición de 2026</a> y sustituye cada apartado por los datos de tu boletín municipal.
+
+## Veredicto: cuándo compensa pelear una multa municipal
+
+**Veredicto:** merece la pena recurrir cuando detectas un defecto comprobable —competencia dudosa, notificación irregular, señalización contraria a la ordenanza, agente sin identificar o precepto mal aplicado— y puedes sostenerlo con documentos dentro de plazo. En ese escenario, pasa primero tu boletín por el <a href=/#analizador>analizador gratuito de multas</a> para ordenar qué falla y qué prueba falta antes de registrar nada.
+
+No compensa recurrir por inercia confiando en que el ayuntamiento no contestará, ni cuando reconoces los hechos, la notificación es correcta y careces de prueba en contra: allí el escrito solo retrasa lo inevitable. Y entre expediente y expediente, un respiro: en la web también vive el <a href=/juego-monos/>juego caza-monos</a>, escondido entre páginas serias para quien prefiera perseguir primates digitales a perseguir plazos administrativos.
+
 ## Preguntas frecuentes
 
 ### ¿Dónde recurro una multa de la Policía Local?
@@ -1122,7 +1160,9 @@ Acceder a la sede electrónica del Ayuntamiento y usar Cl@ve, certificado digita
 Los requisitos de las ordenanzas municipales: señalización según normativa municipal, identificación del agente con su número de placa del cuerpo local y competencia territorial (solo puede multar en su término municipal).
 
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito de multas</a> antes de pagar.`,
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito de multas</a> antes de pagar.
+
+*Fuentes: <a href=https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722&tn=1&p=20151031>texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial (BOE)</a>.*`,
   },
   {
     slug: "recurso-reposicion-multa-modelo-2026",

@@ -769,6 +769,49 @@ De ocasión, el EVO es el Huracán con mejor relación precio/prestaciones. <a h
 | 249.826 €: el coupé más barato de la gama | Maletero de solo 100 l |
 | LDVI y modos Strada/Sport/Corsa | El Temerario lo releva |
 
+## Un V10 atmosférico despidiéndose sin turbo ni enchufe
+
+Cuando Lamborghini cerró la producción del Huracán en 2024, se apagó su último V10 atmosférico en configuración clásica. El EVO resume esa etapa final: 5.204 cm³ sin sobrealimentación y la electrónica más elaborada de la familia. Su sustituto juega otra partida, porque el <a href=/coches/lamborghini-temerario-2025-precio-ficha-tecnica/>Temerario</a> recurre a un V8 biturbo híbrido enchufable. Quien valore respuesta inmediata y banda sonora encontrará aquí un carácter difícil de repetir. La marca ya lo conserva en su archivo, en <a href=https://www.lamborghini.com/es-en/historia/huracan-evo>la página oficial del Huracán EVO</a>.
+
+## Qué hace distinto al sistema LDVI
+
+La novedad profunda no está en estirar caballos, sino en anticiparse. Según Lamborghini, el LDVI pasa de reaccionar a prever: lee maniobras, entorno y modo elegido, y coordina tracción, reparto de par y eje trasero direccional. A baja velocidad ese eje gira contra el delantero acortando virtualmente la batalla; a alta velocidad gira en paralelo buscando aplomo. La aerodinámica suma con un splitter de doble paso y deflectores que multiplican por cinco la carga respecto al Huracán anterior.
+
+| Elemento | Cómo interviene |
+|---|---|
+| **Motor** | V10 5.2 atmosférico, 639 CV y 600 Nm |
+| **Cambio** | Doble embrague LDF de 7 velocidades |
+| **LDVI** | Coordina par, tracción y dirección trasera |
+| **Modos** | Strada, Sport y Corsa |
+| **Interior** | Piel, Alcantara y Carbon Skin® según acabado |
+
+El detalle queda en la <a href=/coches/lamborghini-huracan-evo-2024-precio-ficha-tecnica/>ficha técnica del Huracán EVO</a>, con precio, medidas y equipamiento.
+
+## Uso real: rapidísimo fuera, estrecho dentro
+
+Su hábitat convincente es carretera despejada o circuito, no la compra semanal. El maletero delantero se queda en 100 litros, la altura de solo 1.165 mm obliga a negociar badenes con calma y la visibilidad trasera nunca será su virtud. A cambio, la tracción total aporta una salida de curva limpia incluso con asfalto frío, algo que el EVO RWD no regala con igual facilidad. Es un coche de disfrute programado: se saca para conducirlo, no para resolver recados.
+
+## Mantenimiento y costes sin maquillaje
+
+No publicamos una cifra de revisión porque ni el post ni la ficha aportan tarifa cerrada, y en un superdeportivo depende de año, kilometraje, historial y taller. Lo verificable es otro plano: consumo WLTP de 13,7 l/100 km, neumáticos de medidas muy específicas, intervenciones que piden red oficial o especialista con utillaje de la marca y un seguro acorde a un coche de 249.826 €. Antes de comprar de ocasión, exige historial documentado e inspección previa; ahorrar ahí suele salir carísimo.
+
+## Etiqueta C: qué implica hoy para este Lamborghini
+
+Al ser gasolina puro sin hibridación, el EVO luce etiqueta **C**, como recoge su ficha. Eso lo deja en desventaja frente a un ECO o un Cero cuando una zona de bajas emisiones endurece criterios de acceso o aparcamiento. No queda fuera de todas las ciudades, pero su margen futuro es menor y conviene comprobar la ordenanza municipal antes de planificar un uso urbano habitual. Para salidas ocasionales, ese condicionante pesa muchísimo menos.
+
+## Frente a Tecnica, STO y Temerario
+
+| Modelo | Precio | Potencia | 0-100 km/h |
+|---|---|---|---|
+| **Huracán EVO** | 249.826 € | 639 CV | 2,9 s |
+| <a href=/coches/lamborghini-huracan-tecnica-2024-precio-ficha-tecnica/>Huracán Tecnica</a> | 262.042 € | 640 CV | 3,2 s |
+| <a href=/coches/lamborghini-huracan-sto-2024-precio-ficha-tecnica/>Huracán STO</a> | 338.577 € | 640 CV | 3,0 s |
+| <a href=/coches/lamborghini-temerario-2025-precio-ficha-tecnica/>Temerario</a> | 350.782 € | 920 CV | 2,7 s |
+
+El Tecnica afila la propuesta con tracción trasera, el STO cobra su enfoque radical con un maletero de apenas 38 litros y el Temerario cambia de era con 920 CV híbridos. Entre comparativa y comparativa, también puedes rastrear el toro escondido en nuestro <a href=/juego-monos/>juego caza-monos</a> desperdigado por la web.
+
+**Veredicto:** merece la pena para quien busque el Huracán más equilibrado y quiera conservar el V10 atmosférico con tracción total utilizable en carretera. No es compra sensata para uso urbano frecuente, presupuestos de mantenimiento ajustados ni quien necesite etiqueta ECO: ahí ni su precio de ocasión ni su etiqueta C juegan a favor.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto costaba el Huracán EVO nuevo?
@@ -791,7 +834,7 @@ El <a href=/coches/lamborghini-temerario-2025-precio-ficha-tecnica/>Lamborghini 
 
 Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: <a href=https://www.km77.com/coches/lamborghini/huracan/2019/datos?amp=1>precio y ficha en km77</a>.*`
+*Fuentes: <a href=https://www.km77.com/coches/lamborghini/huracan/2019/datos?amp=1>precio y ficha en km77</a>., <a href=https://www.lamborghini.com/es-en/historia/huracan-evo>Lamborghini, historia del Huracán EVO</a>*`
   },
   {
     "title": "Huracán EVO RWD: precio y ficha del tracción trasera",
