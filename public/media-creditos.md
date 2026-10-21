@@ -10329,3 +10329,14 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/skoda-fabia-2026-hunt1.webp | https://www.autojournal.cz/wp-content/uploads/2022/03/Skoda-Fabia-2022-1.jpg | AutoJournal.cz | desconocida |
 | /media/skoda-fabia-2026-hunt2.webp | https://www.autojournal.cz/wp-content/uploads/2022/03/Skoda-Fabia-2022-23.jpg | AutoJournal.cz | desconocida |
 | /media/skoda-fabia-2026-hunt3.webp | https://www.autojournal.cz/wp-content/uploads/2022/03/Skoda-Fabia-2022-27.jpg | AutoJournal.cz | desconocida |
+| /media/seat-ibiza-2026-hunt1.webp | https://jaimedepaz.com/wp-content/uploads/2026/09/IMG_9299-1-1024x768.jpeg | Autos Jaime de Paz (foto real de unidad a la venta, iPhone 13, EXIF 21/08/2026) | desconocida |
+| /media/seat-ibiza-2026-hunt2.webp | https://www.autonocion.com/wp-content/uploads/2025/10/Autonocion_Nuevo-SEAT-Ibiza-restyling-2026-27.jpg | SEAT (prensa oficial del restyling 2026, vía Autonoción) | desconocida |
+| /media/seat-ibiza-2026-hunt3.webp | https://www.autonocion.com/wp-content/uploads/2025/10/Autonocion_Nuevo-SEAT-Ibiza-restyling-2026-31.jpg | SEAT (prensa oficial del restyling 2026, vía Autonoción) | desconocida |
+| /media/super-soco-cpx-2025-ficha-tecnica-precio-hunt1.webp | https://myscootershop.nl/wp-content/uploads/2026/01/super-soco-super-soco-cpx-elektrische-scooter-2-MyScootershop.nl-Noordwijkerhout.webp | MyScooterShop.nl (foto de producto oficial VMoto/Super Soco de la CPx base) | desconocida |
+| /media/super-soco-cpx-2025-ficha-tecnica-precio-hunt2.webp | https://www.canariasenmoto.com/images/varias/SuperSoco_CPX_(35).jpg | Canariasenmoto.com (foto real de prueba, Nikon D750) | desconocida |
+| /media/super-soco-cpx-2025-ficha-tecnica-precio-hunt3.webp | https://www.2wo.gr/images/TestDrives/2021/March/Super-Soco-CPX/SuperSoco-CPX-action-1.jpg | 2WO.gr (foto real de prueba) | desconocida |
+| /media/urbanglide-100-evo-hunt1.webp | https://urbanglide.com/wp-content/uploads/2025/01/RIDE-100EVO.png | UrbanGlide (web oficial del fabricante) | desconocida |
+| /media/urbanglide-100-evo-hunt2.webp | https://lojae-s3-prd-files.radiopopular.pt/files/static/images/products/127667_4.jpg | Rádio Popular (ficha de producto Ride 100 EVO) | desconocida |
+| /media/volvo-s60-b5-2025-precio-ficha-tecnica-hunt1.webp | https://media-downloads.volvocars.com/2b275a75-2e20-4816-b0fb-b34b01088c74/s60my2025-hero.jpg?w=1920 | Volvo Cars (prensa oficial) | desconocida |
+| /media/volvo-s60-b5-2025-precio-ficha-tecnica-hunt2.webp | https://vehicle-images.carscommerce.inc/438a-110011085/7JRL12FK4RG316585/d90ef9acb49d7f631323fbcb4dfc5cce.webp | Bishop Maserati / CarsCommerce (foto real de unidad S60 B5 Core 2024) | desconocida |
+| /media/volvo-s60-b5-2025-precio-ficha-tecnica-hunt3.webp | https://apruhonice.s3.eu-central-1.amazonaws.com/79/79352eab-1dff-447a-b1cc-3743ace0a421.full.jpg | Volvista (Volvo Selekt Průhonice, foto real de unidad S60 B5 AWD Ultimate) | desconocida |
