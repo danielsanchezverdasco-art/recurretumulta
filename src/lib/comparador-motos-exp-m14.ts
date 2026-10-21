@@ -161,28 +161,28 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     pesoKg: 127,
     plazas: 2,
     carnet: "A1 (válido con B +3 años)",
-    carga: "Dos baterías extraíbles de 72 V y 28 Ah; carga completa en 3-6 h en enchufe doméstico",
+    carga: "Par de baterías de litio extraíbles de 72 V y 28 Ah (4,03 kWh en total); recarga doméstica de unas 3 h por pack",
     etiquetaDgt: "Cero",
     aprox: ["precioDesde", "autonomiaKm"],
     pros: [
-      "Motor de 6,4 kW y 95 km/h: prestaciones de 125 por 3.799 €",
-      "Dos baterías extraíbles de 72 V: se cargan en casa o en la oficina sin instalación",
-      "Frenada regenerativa y app NIU con GPS antirrobo y diagnóstico",
-      "Asiento de 760 mm y 127 kg: manejable para cualquier talla",
-      "Sube pendientes del 25%: válido para ciudades con cuestas",
+      "Homologado L3e como un 125: con el A1, o con el B de coche con tres años, puedes salir a vías rápidas a 95 km/h",
+      "El motor va alojado en la rueda trasera y entrega 230 Nm, así que arranca con brío en semáforos y no lleva correas que cambiar",
+      "Cada pack pesa 16 kg y se enchufa por separado en unas tres horas, algo práctico si vives en un piso sin garaje",
+      "Pantalla a color de 5 pulgadas, apertura por Bluetooth desde el móvil y actualizaciones OTA que llegan sin pasar por el taller",
+      "Llantas de 14 pulgadas y recorridos de suspensión de 95 mm delante y 85 mm detrás, con más aplomo en baches que un rueda pequeña"
     ],
     contras: [
-      "Sin hueco bajo el asiento: las dos baterías ocupan todo el espacio",
-      "100 km de autonomía declarada se quedan en unos 80 km reales a buen ritmo",
-      "Red de servicio NIU más pequeña que la de las marcas japonesas",
-      "La app y la conectividad son de pago a partir del tercer año",
-      "Diseño continuista respecto a la familia NQi",
+      "Frena con CBS y discos de 220 mm delante y 180 mm detrás, pero sin ABS ni control de tracción, justo lo que sí ofrece su hermano NQiX 500",
+      "Subir las dos baterías a un piso no es ligero: suman 32 kg entre ambas y recargar el par completo lleva unas seis horas",
+      "La carga máxima declarada es de solo 150 kg, un límite fácil de rozar circulando a dúo y con algo de equipaje",
+      "Bajo el asiento quedan 19,4 litros, una cifra modesta si pretendes guardar a la vez un casco integral y la compra",
+      "El servicio conectado de la aplicación está incluido durante tres años; cumplido ese plazo, NIU lo plantea ya como servicio de pago"
     ],
     curiosidades: [
-      "La serie FQi debutó en el EICMA con la promesa de llevar la conectividad NIU a un precio menor",
-      "Las baterías suman 4,03 kWh, más que muchos scooters equivalentes a 125",
-      "Comparte la filosofía de baterías extraíbles con el resto de la gama NIU",
-      "Su nombre rompe con las series M, N y R: la F es la nueva familia urbana",
+      "NIU lo enseñó en el EICMA 2024 dentro de la selección por su décimo aniversario, con una edición especial limitada a unos pocos cientos de unidades en todo el mundo",
+      "Es el escalón anterior a la familia FQiX: en 2025 aún se vendía como FQi a secas, sin la X que estrenó la generación siguiente",
+      "Sus celdas son de tipo 34145 con química NMC y LMO, un dato poco habitual que NIU sí publica en la ficha global del modelo",
+      "Bajar el caballete activa el aparcado automático, así que el scooter queda bloqueado sin tener que tocar la llave"
     ],
     imagen: "/media/motos/niu-fqi-500-2025-ficha-tecnica-precio-1.webp",
     galeria: [

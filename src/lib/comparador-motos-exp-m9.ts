@@ -30,24 +30,24 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["precioDesde"],
     pros: [
-      "Basculante monobrazo, único en su segmento: estética de MotoGP por precio de A2",
-      "Horquilla invertida regulable y frenos con pinza Brembo de 4 pistones delante",
-      "Control de tracción, modos Sport/Rain y embrague antirrebote de serie",
-      "Pantalla TFT curva de 5 pulgadas con conectividad T-box (antirrobo y seguimiento)",
-      "Precio rompedor frente a Yamaha R3 (7.999 €) y KTM RC 390 (6.749 €)",
+      "Bicilíndrico de 449,5 cc calado a 270° con doble eje de equilibrado: empuja y suena casi como un V-twin, con 39,3 Nm a 7.750 rpm",
+      "La zaga queda limpia y al aire gracias al basculante de un solo brazo y al silenciador escondido bajo el motor, como en las deportivas italianas caras",
+      "Delante manda una pinza radial Brembo M40 mordiendo un disco de 320 mm, con horquilla invertida de 37 mm ajustable en compresión y extensión",
+      "Depósito de 14 litros y unos 300 km de autonomía anunciados por la marca: más rutera de lo que su postura cerrada sugiere",
+      "Seguridad activa poco vista en el A2: al frenar a fondo la luz trasera parpadea sola (función ESS) y los faros se encienden automáticamente al oscurecer"
     ],
     contras: [
-      "179 kg en seco: algo pesada para una deportiva de 450",
-      "47 CV se quedan cortos en circuito frente a las 600",
-      "Sin IMU ni electrónica avanzada: el control de tracción es básico",
-      "El precio oficial (7.390 €) se acerca al de la competencia japonesa",
-      "Red de talleres y repuestos más pequeña que Honda o Yamaha",
+      "Sus 179 kg son en orden de marcha, no en seco: llena pesa 4 kg más que una Aprilia RS 457 y las maniobras en parado lo acusan",
+      "El par manda menos que en su rival italiana: 39,3 Nm frente a 43,5 Nm de la RS 457, y se nota saliendo de curvas lentas",
+      "Calza de serie neumáticos CST Adreno HS (110/70 delante y 150/60 detrás): cumplen en seco, pero son el primer gasto de quien entra en circuito",
+      "Es la CFMoto con la postura más cerrada: semimanillares más bajos y estriberas más altas que en cualquier hermana, y la ciudad lo cobra en muñecas y cuello",
+      "Su tarifa española de lanzamiento, 7.390 €, la dejó a menos de 200 € de la Aprilia RS 457: el descuento típico de las marcas chinas aquí no aparece"
     ],
     curiosidades: [
-      "Su alerón delantero con forma de aleta de tiburón optimiza la aerodinámica",
-      "El escape va oculto e integrado en la parte trasera, como las MotoGP",
-      "El sistema T-box permite localizar la moto y recibir avisos antirrobo en el móvil",
-      "Es la versión 'S' vitaminada de la 450SR, con suspensión y frenos mejorados",
+      "Existe una Aspar Replica limitada a 451 unidades para todo el mundo, con placa numerada y los colores del equipo con el que David Alonso ganó Moto3 en 2024",
+      "El calado a 270° del cigüeñal busca el tacto de un bicilíndrico en V de 90°, y dos ejes de equilibrado se encargan de que no vibre como uno",
+      "Desde la app CFMOTO Ride se consultan el historial de rutas y el estado de la moto, y la instrumentación admite actualizaciones de software a distancia",
+      "Bastidor y subchasis van soldados en acero al cromo-molibdeno y entre los dos suman solo 11 kg, cifra de moto de carreras pequeña"
     ],
     imagen: "/media/motos/cfmoto-450sr-s-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -70,6 +70,23 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     fuenteUrl: "https://cf-moto.es",
     analisisSlug: "cfmoto-450sr-s-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Manual del propietario oficial CFMoto 450SS (versión USA de la 450SR, cfmotousa.com) y tabla de mantenimiento de la 450SR-S basada en el manual (maintenanceschedule.com)",
+      "intervalo": "Rodaje a los 1.000 km; después, cada 5.000 km o 6 meses (lo que ocurra antes)",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión de rodaje (1.000 km)",
+          "queSeCambia": "Aceite y filtro de aceite, limpieza del filtro grueso de aceite e inspección general de frenos, refrigerante, batería y sistema eléctrico"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión periódica (cada 5.000 km / 6 meses)",
+          "queSeCambia": "Aceite y filtro de aceite, limpieza del filtro grueso y del filtro de aire, inspección de bujía, frenos y suspensiones; la tensión de cadena se revisa cada 1.000 km y se engrasa tras rodar con lluvia"
+        }
+      ]
+    },
   },
   {
     id: "cfmoto-450mt-2025-ficha-tecnica-precio",

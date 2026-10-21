@@ -32,24 +32,24 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Motor bicilíndrico de 799 cc con 95 CV: la trail china más potente del carnet A2 (limitada)",
-      "Depósito de 22,5 litros, de los más grandes del segmento trail medio",
-      "Llantas de radios sin cámara en 21\" y 18\", pensada para el off-road de verdad",
-      "Electrónica completa: modos de conducción, control de tracción y ABS desconectable",
-      "Precio de 9.995 € muy por debajo de las trail europeas y japonesas equivalentes",
+      "Horquilla invertida de 48 mm y monoamortiguador trasero con 230 mm de recorrido en cada eje, regulables en precarga, compresión y rebote para pista o asfalto",
+      "Pantalla TFT vertical de 7 pulgadas en formato roadbook de rally, con conectividad MOTOPLAY y acceso a la app CFMOTO RIDE sin coste adicional",
+      "Depósito de 22,5 litros descolgado por ambos flancos del motor: rebaja el centro de gravedad y admite un depósito trasero opcional de otros 8 litros",
+      "Frenada J.Juan con pinzas radiales sobre doble disco delantero de 320 mm, supervisada por una IMU Bosch de seis ejes con ABS en curva",
+      "Tarifa española de lanzamiento de 9.995 € en 2025 incluyendo quickshifter bidireccional, control de crucero, TPMS, cubrecárter de aluminio y doble toma USB y 12 V"
     ],
     contras: [
-      "220 kg en orden de marcha: pesada para el campo técnico",
-      "95 CV obligan a limitarla para el A2, con el coste y papeleo que eso supone",
-      "Red de concesionarios y repuestos más pequeña que Honda, Yamaha o KTM",
-      "Altura de asiento elevada: complicada para pilotos de menos de 1,70 m",
-      "Depreciación mayor que las marcas japonesas en el mercado de ocasión",
+      "Con el depósito lleno se planta en 220 kg y ese peso se paga al levantarla tras una caída en una trialera lenta o al maniobrar en parado",
+      "El asiento queda a 870 mm con la suspensión larga de 230 mm: quien no llegue a 1,75 m necesitará la posición de 830 mm o el asiento bajo opcional",
+      "En 2025 la red española de la marca estaba en plena reorganización, con Jets Marivent asumiendo la importación de motos en junio, y la cobertura fuera de las capitales era aún irregular",
+      "El quickshifter bidireccional de serie es mejorable: las pruebas del año de lanzamiento le reprochan falta de precisión al engranar marchas bajo carga",
+      "Monta de fábrica neumáticos CST Ambro A4, un escalón por debajo de los mixtos de primera marca que equiparon varias unidades de prensa durante su presentación"
     ],
     curiosidades: [
-      "Comparte la base mecánica del motor KTM 790, desarrollado junto a la marca austriaca",
-      "La X es la versión más campera de la familia 800MT, con rueda delantera de 21 pulgadas",
-      "CFMoto fabrica en China también para KTM, lo que explica el parentesco técnico",
-      "Es la trail de mayor cilindrada que CFMoto vende en España",
+      "Se dejó ver por primera vez como prototipo MT-X en el EICMA de 2023 y no llegó a producción hasta 2025, ya con el nombre definitivo de 800MT-X",
+      "Sus dos colores de lanzamiento se llaman Zephyr Blue y Nebula Black, los mismos en el catálogo español y en mercados como el australiano",
+      "Bajo el asiento rally de una sola pieza se esconde el filtro de aire, accesible en ruta para soplarlo tras una jornada entre polvo",
+      "Su bicilíndrico lleva el cigüeñal calado a 285 grados, el recurso con el que el bloque derivado del LC8c busca un tacto cercano al de un V2"
     ],
     imagen: "/media/motos/cfmoto-800mt-x-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -72,6 +72,33 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     fuenteUrl: "https://cf-moto.es",
     analisisSlug: "cfmoto-800mt-x-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Manual del propietario CFMOTO 800MT-X (modelos CF800-11 y CF800-11H), tabla de mantenimiento periódico reproducida en maintenanceschedule.com; especificación y capacidad de aceite confirmadas en el manual oficial del modelo",
+      "intervalo": "15.000 km o 12 meses para aceite y filtro en los mercados fuera de EE. UU. según el manual; lista de controles anual o cada 10.000 km",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión anual / 10.000 km",
+          "queSeCambia": "Sin cambio de piezas salvo desgaste: inspección de frenos y pastillas, dirección, suspensiones sin fugas, cadena, manguitos de refrigeración, cableado y lectura de fallos por diagnóstico"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Cambio de aceite / 15.000 km",
+          "queSeCambia": "Aceite SAE 10W-50 JASO MA2 (2,8 litros con cambio de filtro) y filtro de aceite nuevo; el manual de EE. UU. prescribe este cambio cada 5.000 km"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión de 15.000 / 30.000 km",
+          "queSeCambia": "Filtro de aire nuevo a los 15.000 km; a los 30.000 km se suman bujías NGK LMAR9AI-10 y la comprobación del juego de válvulas"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Fluidos por tiempo",
+          "queSeCambia": "Líquido de frenos cada 2 años y refrigerante cada 4 años, según la tabla periódica del manual"
+        }
+      ]
+    },
   },
   {
     id: "cfmoto-450cl-c-2025-ficha-tecnica-precio",

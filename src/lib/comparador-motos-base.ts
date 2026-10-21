@@ -240,20 +240,20 @@ export const MOTOS_BASE: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: [],
     pros: [
-      "Solo 94 kg y centro de gravedad bajísimo: facilísima de mover y de 'ratonear' entre el tráfico",
-      "Frenada con una mordida muy superior a lo habitual en el segmento (discos de 175 mm + CBS en la Active)",
-      "Batería extraíble que se carga en cualquier enchufe doméstico sin instalación",
-      "Comportamiento dinámico casi idéntico al de un scooter de gasolina",
-      "Precio contenido (3.700 €) para ser un Piaggio eléctrico",
-      "Llave electrónica por proximidad, USB, instrumentación LCD y marcha atrás",
+      "La Active es la única de la familia 1 que supera el límite de ciclomotor: 2 kW continuos, 3 kW de pico y 60 km/h con carnet A1 o con el B y tres años de experiencia",
+      "Motor integrado en la rueda trasera con 90 Nm de par: prescinde de correa de transmisión y deja la zaga especialmente estrecha para filtrar entre coches detenidos",
+      "Bajo el asiento conviven el pack de 2,3 kWh y un casco jet completo, combinación poco habitual cuando en otros urbanos eléctricos la batería se come todo ese hueco",
+      "Pantalla en color de 5,5 pulgadas con sensor crepuscular que adapta el fondo según la luz ambiente, un nivel de instrumentación impropio de un scooter de acceso",
+      "Discos de 175 mm en ambos ejes con reparto combinado CBS, configuración reservada dentro de la gama a esta versión y ausente en las variantes limitadas a 45 km/h",
+      "Arranque sin llave con mando a distancia y botón MAP en la piña derecha para alternar Eco y Sport sin soltar el manillar, además de modo Reverse para maniobrar en parado"
     ],
     contras: [
-      "El KERS solo regenera al accionar los frenos y desconecta el motor: imposible acelerar y frenar a la vez en una cuesta",
-      "Suspensiones blanditas con bastante recorrido muerto; imprecisas con piloto pesado",
-      "El modo Eco limita a 30-32 km/h: en la práctica solo se usa en emergencia",
-      "66 km de autonomía en modo Sport, justos para un uso intensivo",
-      "Ergonomía contenida: los pilotos altos van justos de espacio para los pies",
-      "Ruedas de 10 pulgadas, peor para bordillos y baches que una rueda alta",
+      "A la salida de un semáforo se echa en falta empuje inicial: la entrega viene recortada para proteger el consumo, como comprobó la prueba de SoyMotero en Madrid en 2021",
+      "Al tocar cualquier maneta la electrónica corta la entrega y entra la regeneración KERS: mantener gas en una rampa mientras sujetas con el freno, gesto típico en gasolina, aquí resulta imposible",
+      "El programa Eco recorta la punta a unos 30 km/h oficiales, 32 de marcador en la prueba citada, así que en la práctica queda relegado a estirar la carga cuando ya escasea",
+      "Recargar el pack completo exige unas seis horas en enchufe de 220 V sin opción de carga rápida, y subirlo a un piso obliga a acarrear 15 kg con asa en cada ciclo",
+      "Con batalla de solo 1.220 mm y asiento a 770 mm, quien pase de 1,80 m irá encogido: la plataforma plana ayuda, pero el hueco disponible para calzar los pies es corto",
+      "Las llantas de diez pulgadas sufren en adoquín, juntas de dilatación y socavones urbanos; un diámetro mayor filtraría bastante mejor el asfalto roto típico del centro"
     ],
     curiosidades: [
       "Tiene una edición especial diseñada por el modista Feng Chen Wang",
@@ -503,32 +503,32 @@ export const MOTOS_BASE: MotoComparador[] = [
     pesoKg: 132,
     plazas: 2,
     carnet: "A1",
-    carga: "Baterías extraíbles · 900 W de serie (1.500 W opcional) · 100 min del 20 al 80 % con cargador rápido",
+    carga: "Recarga en enchufe doméstico · cargador externo de 900 W incluido · rápido opcional de 1.500 W (20-80 % en 100 min)",
     etiquetaDgt: "Cero",
     aprox: [
       "precioDesde",
     ],
     pros: [
-      "Aceleración fulgurante en ciudad: 0-50 km/h en 3,0 s con 55 Nm instantáneos",
-      "Muy ligera y manejable: 132 kg y asiento a 750 mm, control total para cualquier talla",
-      "Diseño rompedor tipo 'e-parkourer' que no se parece a nada del mercado",
-      "Baterías extraíbles para cargar en casa sin punto de carga (desde la actualización de 2025)",
-      "Equipada: TFT 3,5\", Keyless Ride, USB-C, marcha atrás y control de tracción ASC",
-      "Entrega de potencia muy bien dosificada, sin brusquedades (motorpasionmoto)",
+      "Salida de semáforo contundente: el motor síncrono entrega 55 Nm a solo 1.000 rpm y completa el 0-50 en 3,0 segundos",
+      "Pensada para quien se estrena: asiento a 750 mm del suelo, chasis tubular de acero y basculante monobrazo trasero",
+      "La batería se divide en dos módulos de 1,96 kWh bajo el asiento, extraíbles para su mantenimiento, con recarga en toma doméstica monofásica de 230 V",
+      "Dos respuestas de serie bien distintas: Flow suaviza el acelerador para el tráfico y Surf lo afila anulando la recuperación de energía",
+      "Instrumentación mínima pero completa: pantalla TFT de 3,5 pulgadas, arranque Keyless Ride y toma USB-C para cargar el móvil",
+      "Ayudas poco vistas en una A1 eléctrica: control de estabilidad ASC, control recuperativo RSC y asistente de marcha atrás para maniobrar en parado"
     ],
     contras: [
-      "Precio elevado para sus prestaciones (versión 11 kW desde ~8.400€)",
-      "Sin hueco bajo el asiento: capacidad de carga nula de serie",
-      "ABS solo en la rueda delantera",
-      "Autonomía limitada: 95 km WMTC, y el modo Flash la devora",
-      "El cargador rápido de 1,5 kW es opcional (de serie solo 900 W)",
-      "Suspensión trasera de corto recorrido (56 mm), algo seca en baches",
+      "La factura manda: unos 8.400 € aproximados la sitúan muy por encima de scooters eléctricos A1 de planteamiento parecido",
+      "No esperes guardar el casco: bajo el asiento viven las dos baterías y no queda hueco útil para equipaje",
+      "La seguridad activa cojea atrás: el disco trasero va sin ABS; el antibloqueo actúa únicamente sobre la rueda delantera",
+      "Su hábitat acaba pronto: 95 km/h de punta y 95 km WMTC se quedan cortos si tu rutina incluye circunvalaciones largas a diario",
+      "Lo divertido se paga aparte: el modo Flash y el cargador de 1.500 W llegan con el paquete Highline, no en la versión básica",
+      "El monoamortiguador trasero trabaja con solo 56 mm de recorrido y transmite los baches con bastante sequedad"
     ],
     curiosidades: [
-      "BMW la define como 'e-parkourer': ni scooter ni moto, inspirada en el parkour urbano",
-      "Existe versión limitada a 4 kW/45 km/h conducible con carnet AM desde los 15 años",
-      "BMW lanzó una edición especial con Deus Ex Machina (CE 02 x Deus Lodge) de estilo surf californiano",
-      "Derrapar con la rueda trasera es fácil al no llevar ABS atrás, algo que los probadores destacan como divertido",
+      "Nació como Concept CE 02 en el IAA Mobility de 2021, descrito por el diseñador Alexander Buckan como un monopatín sobre dos ruedas",
+      "La versión de serie se presentó en julio de 2023, dos años después del prototipo, en pleno centenario de BMW Motorrad",
+      "No lleva cadena ni cardán: transmite la potencia mediante dos correas dentadas, una primaria y una secundaria",
+      "La variante AM de 4 kW ahorra 13 kg frente a esta (119 frente a 132) porque monta un único módulo de batería de 1,96 kWh"
     ],
     imagen: "/media/bmw-ce-02-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -550,6 +550,28 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteNombre: "BMW Motorrad España",
     fuenteUrl: "https://www.bmw-motorrad.es/es/models/urban_mobility/ce02.html",
     analisisSlug: "bmw-ce-02-vs-super-soco-cpx-cual-comprar",
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Manual del propietario oficial BMW Motorrad CE 02 (2024), capítulo Service: Running-in Check 800-1.200 km, Service cada 2 años, alcance estándar y tabla de mantenimiento",
+      "intervalo": "Revisión de rodaje entre 800 y 1.200 km; después, BMW Motorrad Service cada 2 años",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión de rodaje (800-1.200 km)",
+          "queSeCambia": "BMW Running-in Check según el manual del propietario: primera inspección programada del vehículo, sin sustituciones fijas indicadas"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "BMW Motorrad Service (cada 2 años)",
+          "queSeCambia": "Alcance estándar del manual: test con el sistema de diagnóstico BMW, inspección visual de latiguillos, pastillas y discos de freno, nivel de líquido de frenos, rodamiento de dirección, caballete lateral, entrada de aire, presiones y dibujo de neumáticos, alumbrado y estado de carga de la batería"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Operaciones de la tabla de mantenimiento",
+          "queSeCambia": "Comprobación de la tensión de las correas primaria y secundaria; las operaciones marcadas en la tabla (cambio de aceite de horquilla, sustitución de correas y cambio del líquido de frenos de todo el sistema) siguen la cadencia indicada: cada 2 años o 10.000 km, lo primero que ocurra"
+        }
+      ]
+    },
   },
   {
     id: "zero-fxe-ficha-tecnica-precio",
@@ -4007,23 +4029,23 @@ export const MOTOS_BASE: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: [],
     pros: [
-      "Una de las eléctricas más potentes del mercado: 126 kW (171 CV) de potencia máxima",
-      "Velocidad máxima limitada electrónicamente a 200 km/h",
-      "Batería de polímero de litio de 21,5 kWh: la mayor capacidad de la lista",
-      "Carga rápida por conector CCS como los coches eléctricos: al 80% en menos de una hora",
-      "Autonomía urbana declarada de 420 km (230 km en ciclo mixto)",
+      "Par de 215 Nm disponible desde parado y 0 a 100 km/h en 2,8 segundos en la versión estándar de 2024: acelera como una maxi-naked de gasolina, sin embrague ni cambio",
+      "Es la cara naked de la plataforma Ego: comparte el conjunto EMCE de 126 kW con la deportiva carenada, pero con manillar ancho, posición erguida y punta recortada a 200 km/h",
+      "Batería con 18,9 kWh útiles sobre 21,5 kWh brutos y vida declarada de 1.200 ciclos hasta conservar el 80 %: Energica anunciaba 230 km en uso combinado y 180 km en extraurbano",
+      "Recarga en corriente continua Modo 4 a razón de 6,7 km de autonomía por cada minuto enchufada, con conector CCS, y asistente de aparcamiento con marcha atrás a 2,8 km/h para moverla en parado",
+      "Parte ciclo de nivel deportivo de serie: horquilla Marzocchi de 43 mm regulable, monoamortiguador Bitubo, doble disco delantero Brembo de 330 mm y neumáticos Pirelli Diablo Rosso III"
     ],
     contras: [
-      "Energica Motor Company solicitó la liquidación judicial el 14 de octubre de 2024: no hay stock nuevo fiable ni red de posventa garantizada",
-      "Precio muy elevado: 30.214 €",
-      "Moto pesada y de gran tamaño, poco práctica para ciudad",
-      "Casi sin concesionarios en España: recambios y asistencia complicados",
-      "La batería perderá capacidad con el tiempo y la marca ya no existe: riesgo de devaluación total",
+      "Es una moto del último año de vida de la fábrica: en octubre de 2024, el día 14, el consejo de Energica aprobó entrar en liquidación judicial y la producción de Módena se detuvo, así que una unidad de 2024 nace ya sin red oficial detrás",
+      "Cuesta 30.214 € sin un concesionario cercano en España: ese importe compite con maxi-naked de gasolina que sí tienen red, recambios y reventa consolidadas",
+      "Con 270 kg en orden de marcha, maniobrarla en un garaje estrecho o cuesta arriba exige tirar del asistente de marcha atrás: no es una moto pensada para filtrar a diario entre coches",
+      "Cualquier avería electrónica o una batería degradada depende de recambios de una marca liquidada y cuyos activos se subastaron en 2025: en España no queda alternativa oficial a la que acudir",
+      "A ritmo extraurbano la autonomía declarada cae a 180 km, y los 215 Nm castigan la cadena Regina 525 y el neumático trasero: los consumibles se renuevan antes que en una naked convencional"
     ],
     curiosidades: [
-      "Fabricada en Módena, Italia, con tecnología derivada del campeonato MotoE",
-      "Su motor EMCE pesa con el inversor menos de 10 kg para 171 CV",
-      "La empresa cerró en 2024 pese a ser pionera en superbikes eléctricas",
+      "Se presentó en el EICMA de 2019 como modelo 2020 para sustituir a la Eva Streetfighter, con dos colores de lanzamiento: Stealth Grey y Rosso Corsa",
+      "Su conjunto EMCE, codesarrollado con la italiana Mavel, refrigera motor e inversor por líquido en un circuito compartido y recorta 10 kg frente al propulsor anterior refrigerado por aceite",
+      "Energica fue suministrador único de la Copa del Mundo FIM Enel MotoE durante cuatro temporadas, y esta Ribelle hereda modos Urban, Eco, Rain y Sport y cuatro mapas de frenada regenerativa de aquella experiencia en carreras"
     ],
     imagen: "/media/motos/energica-eva-ribelle-2024-ficha-tecnica-precio.webp",
     galeria: [],
@@ -4032,6 +4054,28 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteNombre: "motoselectricas.tech",
     fuenteUrl: "https://motoselectricas.tech/motos/energica/eva-ribelle",
     analisisSlug: null,
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Mantenimiento orientativo según el patrón del manual Energica Eva (revisiones a 1.000 / 10.000 / 20.000 km y 12 / 24 meses), el mismo criterio ya aplicado en las fichas Energica del comparador; el motor EMCE amplía los intervalos frente al anterior según la nota de prensa de Energica recogida por THE PACK. Sin coste: no hay tarifa oficial publicada para España.",
+      "intervalo": "Primera revisión a los 1.000 km; después cada 10.000 km o 12 meses, lo que ocurra antes (patrón del manual Energica Eva)",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión de rodaje / 1.000 km",
+          "queSeCambia": "Inspección general, tensión y engrase de la cadena Regina 525, comprobación de aprietes y diagnóstico electrónico"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión cada 10.000 km / 12 meses",
+          "queSeCambia": "Diagnóstico de batería y electrónica, pastillas y líquido de frenos, estado de los neumáticos Pirelli Diablo Rosso III y revisión de la cadena de transmisión"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión cada 20.000 km / 24 meses",
+          "queSeCambia": "Inspección completa con control del refrigerante del conjunto EMCE (motor e inversor comparten circuito líquido) y del estado de salud de la batería de 21,5 kWh"
+        }
+      ]
+    },
   },
   {
     id: "can-am-pulse-2024-ficha-tecnica-precio",
