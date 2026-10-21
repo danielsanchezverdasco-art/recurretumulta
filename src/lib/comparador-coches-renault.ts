@@ -1490,18 +1490,18 @@ export const COCHES_RENAULT: CocheComparador[] = [
     cargaRapidaKw: 150,
     etiquetaDgt: "Cero",
     pros: [
-      "625 km WLTP: el familiar eléctrico de referencia",
-      "220 CV y 7,9 s de 0-100",
-      "Carga rápida de 150 kW",
-      "Maletero de 545 L",
-      "1.842 kg: ligero para su batería",
+      "625 km WLTP con la batería de 87 kWh: autonomía de viaje largo para un familiar de 4,47 m",
+      "Coche del Año en Europa 2024, el título que relanzó el nombre Scenic en clave eléctrica",
+      "220 CV y 0-100 km/h en 7,9 s con un solo motor delantero sobre la plataforma AmpR Medium",
+      "545 L de maletero con suelo plano y techo de cristal Solarbay que se oscurece por zonas",
+      "1.842 kg: contenido para llevar 87 kWh, y se nota en que gasta 16,8 kWh/100 km homologados"
     ],
     contras: [
-      "46.950 € en acabado techno",
-      "La versión 2026 ya ofrece 642 km",
-      "Diseño menos rompedor que el R5/R4",
-      "4,47 m: no es pequeño para ciudad",
-      "Velocidad máxima sin publicar en esta ficha",
+      "46.950 € en acabado techno: el Scenic eléctrico juega en otra liga de precio que el monovolumen de combustión que sustituye",
+      "La gama 2026 ya anuncia 642 km, 17 km más que los 625 km de esta versión 2025",
+      "Visibilidad trasera pobre, el punto débil práctico que repiten las pruebas del modelo",
+      "Sin maletero delantero: todo el equipaje tiene que ir a los 545 L traseros",
+      "Con llanta de 20 pulgadas la rodadura se vuelve firme sobre baches, según las pruebas en carretera"
     ],
     largoMm: 4470,
     anchoMm: 1866,
@@ -1517,15 +1517,15 @@ export const COCHES_RENAULT: CocheComparador[] = [
     imagen: "/media/renault-scenic-e-tech-87-kwh-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 3.0,
-      seguroTercerosAnual: 450,
-      seguroAmpliadoAnual: 800,
-      mantenimientoAnual: 400,
-      costeMensualTotal: 130,
-      precioKwh: 0.18,
-      precioGasolinaL: 0.18,
-      notas: "Estimación con 1.000 km/mes, electricidad a 0,18 €/kWh y consumo WLTP de 16.8 kWh/100 km; seguro y mantenimiento estimados por segmento",
-      estimado: true
+      "costeEnergia100km": 3,
+      "costeMensualTotal": 130,
+      "estimado": true,
+      "mantenimientoAnual": 400,
+      "notas": "Cálculo hecho solo para este Scenic de 87 kWh: con su consumo homologado de 16,8 kWh/100 km, recorrer 1.000 km al mes consume unos 168 kWh, que a 0,18 €/kWh salen por unos 30 € mensuales de electricidad. El seguro y la revisión se han estimado mirando lo que pagan SUV eléctricos familiares de su tamaño, no con una tarifa cerrada de Renault.",
+      "precioGasolinaL": 0.18,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 800,
+      "seguroTercerosAnual": 450
     },
     galeria: [
       {
@@ -1546,7 +1546,30 @@ export const COCHES_RENAULT: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       }
-    ]
+    ],
+    euroncap: {
+      "ano": 2022,
+      "estrellas": 5,
+      "nota": "5 estrellas con los protocolos de 2022 (88 % adultos, 89 % infantil, 77 % usuarios vulnerables, 85 % asistencias); Euro NCAP lo evaluó de nuevo en mayo de 2024 como vehículo asociado a su gemelo de plataforma, el Renault Megane E-Tech",
+      "url": "https://www.euroncap.com/en/results/renault/scenic-e-tech/51448"
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Manual del Renault Scenic E-Tech (2024) y esquema de servicios A/B de Renault para sus eléctricos E-Tech",
+      "intervalo": "Revisión anual (servicio A) y revisión mayor cada 2 años o 30.000 km (servicio B), lo que ocurra antes",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Servicio A / 12 meses",
+          "queSeCambia": "Sustitución del filtro de habitáculo e inspección general del vehículo"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Servicio B / 2 años o 30.000 km",
+          "queSeCambia": "Cambio del líquido de frenos, cuya renovación cada 2 años marca el manual, e inspección completa del vehículo"
+        }
+      ]
+    },
   },
   {
     id: "renault-captur-e-tech-145-2024-precio-ficha-tecnica",

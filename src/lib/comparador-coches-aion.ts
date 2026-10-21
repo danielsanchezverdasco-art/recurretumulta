@@ -35,18 +35,18 @@ export const COCHES_AION: CocheComparador[] = [
     cargaRapidaKw: 180,
     etiquetaDgt: "Cero",
     pros: [
-      "510 km de autonomía WLTP con batería LFP de 75,26 kWh",
-      "Carga rápida de hasta 180 kW (10-80 % en unos 24 minutos)",
-      "5 estrellas Euro NCAP en las pruebas de seguridad",
-      "Se ensambla en Europa (Magna Steyr, Graz, Austria)",
-      "Garantía de 8 años/160.000 km y batería de 8 años/200.000 km",
+      "Segunda generación presentada en el Auto China de Pekín en abril de 2024 sobre la plataforma AEP 3.0, pensada desde el inicio como modelo global de GAC Aion",
+      "Batería LFP de 75,26 kWh con 510 km WLTP y consumo homologado de 16,7 kWh/100 km, una cifra ajustada para un SUV de 4.605 mm y tracción delantera",
+      "Admite 180 kW en continua y completa el 30-80 % en 18 minutos según coches.net; en alterna carga a 11 kW y llena la batería en unas 8,5 horas",
+      "Euro NCAP 2025 le dio un 85 % en protección infantil y equipa detección de presencia de niños, pensada para que nadie quede olvidado en las plazas traseras",
+      "Respaldos traseros reclinables hasta 137 grados, salidas de aire en el pilar B y suelo posterior prácticamente plano para viajar con tres ocupantes"
     ],
     contras: [
-      "Precio de 36.995 € en un segmento muy competido",
-      "Red comercial en España aún en construcción (29 puntos iniciales)",
-      "Sistema multimedia con menús mejorables según la prensa",
-      "Maletero de 427 litros, justo para un SUV familiar",
-      "Marca nueva en Europa: valor de reventa por demostrar",
+      "El Premium cuesta 37.995 € y el Luxury 40.595 € antes de ayudas: ya pisa el terreno del BYD Seal U y de las ofertas del Tesla Model Y",
+      "El navegador no planifica paradas de carga ni preacondiciona la batería antes de un cargador rápido, y el asistente de voz llegó sin traducir al castellano (prueba de testcoches)",
+      "No hay maletero delantero porque el tren eléctrico ocupa ese espacio, y el asiento del conductor prescinde de ajuste lumbar en un coche orientado a viajar",
+      "Sus 204 CV llegan solo al eje delantero y la tracción se queda corta si se pisa a fondo; el eje trasero torsional además rebota con sequedad en los badenes, según testcoches",
+      "GAC aterrizó en España en junio de 2026 con Grupo Invicta y promete 58 puntos en 2027; mientras la red crece, la marca carece de historial y de valor de reventa acreditado aquí"
     ],
     largoMm: 4605,
     anchoMm: 1854,
@@ -62,16 +62,15 @@ export const COCHES_AION: CocheComparador[] = [
     imagen: "/media/aion-v-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 2.97,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.6,
-      seguroTercerosAnual: 480,
-      seguroAmpliadoAnual: 950,
-      mantenimientoAnual: 320,
-      costeMensualTotal: 143,
-      notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Consumo estimado en 16,5 kWh/100 km.",
-      estimado: true,
+      "costeEnergia100km": 2.97,
+      "costeMensualTotal": 143,
+      "estimado": true,
+      "mantenimientoAnual": 320,
+      "notas": "Escenario calculado solo para este V: se parte de un consumo estimado de 16,5 kWh/100 km, a mitad de camino entre el dato homologado de 16,7 y el uso real, y de cargar en casa. La prueba de testcoches por autopista, con climatización, se fue a unos 21 kWh/100 km, así que en viaje el gasto por kilómetro sube. Ni el seguro ni los 320 € anuales de mantenimiento son tarifas de la marca: GAC no ha publicado en España el precio cerrado de su revisión bienal.",
+      "precioGasolinaL": 1.6,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 950,
+      "seguroTercerosAnual": 480
     },
     galeria: [
       {
@@ -94,6 +93,24 @@ export const COCHES_AION: CocheComparador[] = [
       },
     ],
     analisisSlug: "aion-v-2025-precio-ficha-tecnica",
+    euroncap: {
+      "ano": 2025,
+      "estrellas": 5,
+      "nota": "Prueba publicada en septiembre de 2025 sobre el Aion V Premium de volante a la izquierda: 88 % en adultos, 85 % en niños, 79 % en usuarios vulnerables y 78 % en ayudas a la conducción",
+      "url": "https://euroncap.blob.core.windows.net/media/89287/euroncap-2025-aion-v-datasheet.pdf"
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Intervalo para España: coches.net y testcoches.es; contenido de la revisión: tabla oficial de mantenimientos de GAC Motor (Aion V). Sin coste publicado para España",
+      "intervalo": "Cada 30.000 km o 2 años, lo que ocurra antes",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión de los 2 años / 30.000 km",
+          "queSeCambia": "Inspección general con diagnóstico electrónico, revisión de la batería de alto voltaje y su cableado, de frenos y del circuito de refrigeración, y sustitución del filtro del habitáculo (filtro de A/C), según la tabla oficial de mantenimiento de GAC para el Aion V"
+        }
+      ]
+    },
   },
   {
     id: "aion-ut-2025-precio-ficha-tecnica",

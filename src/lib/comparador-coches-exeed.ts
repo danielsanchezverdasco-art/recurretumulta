@@ -450,18 +450,18 @@ export const COCHES_EXEED: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "Diseño SUV coupé con Cx de solo 0,32",
-      "Motor 2.0T de 261 CV y 400 Nm con 7DCT u 8AT",
-      "Pantalla curva de 24,6 pulgadas y equipo de sonido Sony de 14 altavoces",
-      "7 modos de conducción con tracción total (nieve, barro, arena, off-road)",
-      "Nominado al World Car Awards 2026",
+      "Silueta coupé sobre la plataforma M3X desarrollada por Chery con Magna, con un Cx de 0,32 y 660 litros de maletero en 4.781 mm de largo",
+      "El Acteco 2.0 TGDI rinde 261 CV con 400 Nm de par, asociado al cambio 7DCT húmedo en China o al automático 8AT en otros mercados de exportación",
+      "Doble pantalla curva que suma 24,6 pulgadas con chip Snapdragon 8155, head-up display y sonido Sony con catorce altavoces",
+      "La tracción total añade suspensión CDC electromagnética y siete programas de conducción: Eco, Normal y Sport, más nieve, barro, arena y uso fuera del asfalto",
+      "Figura entre los 56 candidatos iniciales al World Car of the Year 2027, en la lista anunciada el 29 de septiembre de 2026"
     ],
     contras: [
-      "No se vende en España (en Europa llegará como Omoda 9)",
-      "Consumo WLTC de 8,1 l/100 km",
-      "Sin versión diésel ni híbrida ligera en la gama de gasolina",
-      "Marca sin implantación ni red de servicio en Europa",
-      "Reventa incierta fuera de sus mercados actuales",
+      "En España no lo vende Exeed: a Europa este mismo coche solo llega como Omoda 9 SHS híbrido enchufable, no con este motor de gasolina",
+      "Homologa 8,1 l/100 km en ciclo WLTC y carece de cualquier hibridación que rebaje esa cifra o le permita optar a la etiqueta ECO",
+      "La electrificación de la gama queda reservada al RX C-DM enchufable: esta versión 2.0T no ofrece ni variante diésel ni sistema microhíbrido",
+      "Exeed carece de concesionarios y de red propia de recambios en España, así que una unidad importada quedaría aquí sin cobertura oficial de la marca",
+      "Su reventa europea está sin contrastar y en China las ventas del Yaoguang de gasolina cayeron de 17.659 unidades en 2023 a 4.150 en 2025"
     ],
     largoMm: 4781,
     anchoMm: 1920,
@@ -477,16 +477,15 @@ export const COCHES_EXEED: CocheComparador[] = [
     imagen: "/media/exeed-rx-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 12.8,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.58,
-      seguroTercerosAnual: 480,
-      seguroAmpliadoAnual: 850,
-      mantenimientoAnual: 380,
-      costeMensualTotal: 232,
-      notas:
-        "Estimación con 15.000 km/año y consumo WLTC de 8,1 l/100 km (cifra china; el real urbano será mayor).",
-      estimado: true,
+      "costeEnergia100km": 12.8,
+      "costeMensualTotal": 232,
+      "estimado": true,
+      "mantenimientoAnual": 380,
+      "notas": "Cálculo propio para este 2.0T de tracción total: se parte de los 8,1 l/100 km WLTC que homologa en China y de gasolina a 1,58 €/l para recorrer 15.000 km al año; en tráfico urbano español el gasto real de combustible quedará por encima de lo estimado.",
+      "precioGasolinaL": 1.58,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 850,
+      "seguroTercerosAnual": 480
     },
     galeria: [
       {
@@ -509,6 +508,18 @@ export const COCHES_EXEED: CocheComparador[] = [
       },
     ],
     analisisSlug: "exeed-rx-2025-precio-ficha-tecnica",
+    euroncap: {
+      "ano": 2025,
+      "estrellas": 5,
+      "nota": "Prueba del gemelo Omoda 9 PHEV Premium AWD (2025), el mismo Yaoguang/RX sobre plataforma M3X que en Europa se vende como Omoda 9: 90 % en ocupantes adultos, 85 % en infantiles, 81 % en usuarios vulnerables y 80 % en asistencias a la seguridad. La versión de gasolina 2.0T de esta ficha no tiene prueba Euro NCAP propia.",
+      "url": "https://www.euroncap.com/en/results/omoda/9/55587"
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Exeed/Chery: sin plan de mantenimiento europeo localizado para esta versión de gasolina",
+      "intervalo": "Sin intervalo oficial publicado para Europa: Exeed no comercializa este RX en España",
+      "revisiones": []
+    },
   },
   {
     id: "exeed-rx-c-dm-2025-precio-ficha-tecnica",

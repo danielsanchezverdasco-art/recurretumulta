@@ -360,18 +360,18 @@ export const COCHES_EXP25: CocheComparador[] = [
     emisionesCo2: 0,
     aprox: [],
     pros: [
-      "510 km WLTP con batería LFP de 75,3 kWh: de las mayores autonomías por 37.995 €",
-      "Carga rápida de 180 kW: del 10 al 80 % en 24 minutos",
-      "5 estrellas Euro NCAP (2025) con airbag central de serie",
-      "Batería con garantía de 8 años o 200.000 km",
-      "Fabricado en Europa (Magna Steyr, Austria): escapa de los aranceles extra",
+      "Con 2.775 mm de batalla y respaldos traseros reclinables, homologa 510 km WLTP y hasta 702 km en ciudad con su batería LFP de 75,3 kWh",
+      "Recarga en corriente continua a 180 kW que completa el salto del 10 al 80 % en 24 minutos, con bomba de calor de serie para contener el consumo en invierno",
+      "Máxima puntuación en el impacto lateral con barrera dentro de su prueba Euro NCAP de septiembre de 2025, con airbag central entre los asientos delanteros",
+      "El acabado Luxury, por 40.595 €, añade nevera de 6,6 litros regulable entre −15 y +50 °C y masaje de ocho puntos en las plazas delanteras",
+      "Ensamblado en Graz por Magna Steyr para Europa, con centro europeo de recambios en Róterdam pensado para acortar los plazos de posventa"
     ],
     contras: [
-      "Diseño polarizante: o te encanta su frontal o lo odias",
-      "Maletero de 427 litros: justo para un SUV familiar de 4,6 m",
-      "Velocidad máxima limitada a 160 km/h",
-      "Red comercial en España aún pequeña (Grupo Invicta, 29 puntos iniciales)",
-      "Software y asistentes mejorables frente a rivales europeos",
+      "Su frontal cerrado y de formas cuadradas divide opiniones: la prensa española que lo ha probado lo resume como tan feo como bueno en todo lo demás",
+      "Solo 427 litros de maletero en una carrocería de 4.605 mm, y 978 litros con los asientos abatidos: menos de lo que su tamaño exterior promete a una familia",
+      "Con 1.955 kg en orden de marcha y la velocidad punta recortada a 160 km/h, no es un SUV pensado para ritmos altos y sostenidos en autopista",
+      "Grupo Invicta arranca con 29 puntos en la Península y la cobertura inicial se concentra en las grandes áreas metropolitanas: fuera de ellas, el servicio queda lejos en 2026",
+      "Casi todas las funciones pasan por la pantalla central de 14,6 pulgadas, con pocos botones físicos para el clima y errores de traducción señalados en las primeras pruebas europeas"
     ],
     imagen: "/media/gac-aion-v-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/gac-aion-v-2024-precio-ficha-tecnica-oficial.webp",
@@ -383,15 +383,15 @@ export const COCHES_EXP25: CocheComparador[] = [
     fuenteUrl: "https://www.km77.com/coches/gac/aion-v/2024/estandar/informacion",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 3.01,
-      seguroTercerosAnual: 450,
-      seguroAmpliadoAnual: 800,
-      mantenimientoAnual: 200,
-      costeMensualTotal: 121,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.55,
-      notas: "Eléctrico: consumo 16,7 kWh/100 km (WLTP, km77.com); 15.000 km/año; luz 0,18 €/kWh (España, oct-2026); seguro y mantenimiento estimados para un SUV eléctrico familiar; cifras aproximadas",
-      estimado: true,
+      "costeEnergia100km": 3.01,
+      "costeMensualTotal": 121,
+      "estimado": true,
+      "mantenimientoAnual": 200,
+      "notas": "Cálculo específico para este Aion V Premium: a 0,18 €/kWh, recorrer cien kilómetros con su consumo homologado sale por unos tres euros. Seguro y partida de mantenimiento se han estimado para un SUV eléctrico de 1.955 kg recién lanzado en España, todavía sin historial propio de siniestralidad ni tarifas cerradas de revisiones bienales.",
+      "precioGasolinaL": 1.55,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 800,
+      "seguroTercerosAnual": 450
     },
     galeria: [
       {
@@ -414,10 +414,10 @@ export const COCHES_EXP25: CocheComparador[] = [
       },
     ],
     euroncap: {
-      estrellas: 5,
-      ano: 2025,
-      url: null,
-      nota: "5 estrellas Euro NCAP (2025): 88 % adultos, 85 % niños, 79 % usuarios vulnerables y 78 % en asistencias (datos publicados por GAC)",
+      "ano": 2025,
+      "estrellas": 5,
+      "nota": "Euro NCAP, septiembre de 2025, Aion V: 88 % en ocupantes adultos, 85 % en infantiles, 79 % en usuarios vulnerables y 78 % en asistentes de seguridad",
+      "url": "https://euroncap.blob.core.windows.net/media/89287/euroncap-2025-aion-v-datasheet.pdf"
     },
     planMantenimiento: {
       intervalo: "Sin programa oficial publicado en España; orientativo 24 meses o 30.000 km (inspección)",

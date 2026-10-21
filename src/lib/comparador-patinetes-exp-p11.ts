@@ -1577,24 +1577,34 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       "autonomiaRealKm",
     ],
     pros: [
-      "Batería de 624 Wh (48 V 13 Ah): hasta 50 km declarados",
-      "Doble suspensión delantera y trasera",
-      "Frenos de disco en ambas ruedas",
-      "Intermitentes delanteros y traseros integrados",
-      "Versión UE limitada a 25 km/h",
-      "Pantalla LCD y 20,5 kg de peso contenido para su batería",
+      "Pack de 624 Wh (13 Ah a 48 V) al que Joyor atribuye una vida media de unos 1.000 ciclos de carga",
+      "Doble amortiguación en los dos ejes sobre ruedas hinchables de 10 pulgadas, pensada para firmes urbanos irregulares",
+      "Discos de freno delante y detrás combinados con intermitentes en ambos extremos del patinete",
+      "Pantalla LCD en color con puerto USB de carga y área multiindicador que alterna ODO, TRIP y voltaje en tiempo real",
+      "Tres niveles de marcha y control de crucero que se activa tras mantener el acelerador unos 5 segundos",
+      "Plataforma de 21 cm de ancho y chasis de aleación de aluminio dimensionado para conductores de hasta 120 kg"
     ],
     contras: [
-      "La versión de 45 km/h no está aprobada para circular en España ni Alemania según el propio fabricante",
-      "La carga completa puede tardar entre 5 y 8 h",
-      "Sin certificado DGT verificado en la lista oficial",
-      "489 € lo ponen a competir con marcas más conocidas",
-      "La red de servicio técnico en España es limitada",
+      "Joyor lo muestra agotado en su tienda oficial y deriva al Y10, que comparte diseño con un pack de mayor capacidad",
+      "Recargar los 13 Ah lleva entre 5 y 8 horas según la web oficial, mientras el manual de la serie Y eleva el intervalo a 7-8 horas",
+      "No consta certificado de circulación de la DGT verificado para este modelo en el listado oficial consultado",
+      "Pesa 20,5 kg y plegado sigue ocupando 115 × 21 × 43 cm: subirlo a pulso varios pisos a diario se hace cuesta arriba",
+      "La configuración rápida que Joyor vende fuera de la especificación europea queda fuera del uso permitido en España y Alemania, según avisa la propia marca"
     ],
-    veredicto: "El Y5S es el equilibrio de la serie Y de Joyor: 500 W, doble suspensión y 50 km declarados por 489 €. Asegúrate de comprar la versión UE limitada a 25 km/h, porque la de 45 km/h no es legal en España según advierte el propio fabricante. Sin sorpresas si lo usas como urbano de largo recorrido.",
+    veredicto: "Dentro de la serie Y, el Y5S es el escalón de 13 Ah: motor de 500 W capaz de afrontar rampas de 15°, doble amortiguación y un rango declarado de 40-50 km por 489 €. Su punto débil no es la ficha técnica, sino el momento de compra: la tienda oficial lo lista agotado y empuja hacia el Y10. Si aparece en un distribuidor, conviene confirmar antes que la unidad corresponde al tope europeo de 25 km/h y que el vendedor canaliza el servicio técnico oficial.",
     fuenteNombre: "Joyor (oficial UE)",
     fuenteUrl: "https://joyorscooter.com/pages/joyor-y5s-electric-scooter",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      "aprieteTornilleria": "En la revisión mensual, comprobar si los tornillos están suficientemente apretados y apretarlos si se han aflojado (manual de la serie Y, apartado 4.1)",
+      "intervaloRevision": "Cada mes: inspección del patinete y de los neumáticos y comprobación del apriete de la tornillería, según el apartado 4 del manual de la serie Y",
+      "presionNeumaticos": "La marcada en el flanco del neumático; Joyor insiste en mantenerlo bien inflado e inspeccionarlo con regularidad para evitar pinchazos por pellizco",
+      "trucos": [
+        "No agotar la batería por completo: mantenerla siempre por encima del 10 % y, para un buen rendimiento, cargada al menos al 50 %",
+        "Si se guarda durante un periodo largo, dejarla entre el 40 % y el 50 % y recargarla como mínimo una vez cada 30 días",
+        "Usar solo el cargador original Joyor correspondiente al modelo y no dejar el patinete cargando sin supervisión ni durante toda la noche",
+        "Tras un trayecto largo, esperar unos 30 minutos a que la batería se enfríe antes de ponerla a cargar"
+      ]
+    },
   },
   {
     id: "joyor-g3",
@@ -1690,13 +1700,26 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       "El sillín pone en duda su encaje como VMP en España",
       "Entre 19,5 y 24 kg según configuración: pesado para subirlo a casa",
       "La carga completa tarda entre 8 y 10 h",
-      "El modo de 45 km/h no es legal en vía pública española",
-      "Sin certificado DGT verificado",
+      "Desbloqueado alcanza 45 km/h, casi el doble del tope de 25 km/h que la norma española fija para circular como VMP",
+      "Sin certificado DGT verificado"
     ],
     veredicto: "El Y6-S es el hermano mayor del Y5S: más batería (864 Wh), asiento con suspensión y arranque por llave. Comparte su dilema: el sillín y el modo de 45 km/h complican su legalidad como VMP en España. Si lo usas limitado a 25 km/h y en ámbito privado, es un gran rutero cómodo.",
     fuenteNombre: "Joyor (tienda oficial UE)",
     fuenteUrl: "https://eu.joyorescooter.com/es/products/eujoyor-y6-s",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      "ajusteFrenosPasos": [
+        "Comprobar el desgaste de las pastillas y de los discos delantero y trasero",
+        "Si la frenada se nota débil, tensar el cable de freno y volver a probar las dos manetas"
+      ],
+      "aprieteTornilleria": "Verificar que todos los tornillos y cierres rápidos estén bien apretados antes de cada uso, como indica la guía de seguridad del manual del Y6-S",
+      "intervaloRevision": "Antes de cada salida: comprobar tornillería y cierre del plegado; revisión periódica de frenos, neumáticos y suspensión",
+      "trucos": [
+        "Cargar la batería al completo tras cada uso y evitar tanto agotarla del todo como sobrecargarla",
+        "Si va a estar parado un tiempo, guardarlo en un lugar fresco y seco con la batería entre el 50 % y el 70 % de carga",
+        "Limpiar con un paño húmedo; nunca con agua a presión ni sumergiendo el patinete",
+        "Vigilar la presión de los neumáticos hinchables de 10 pulgadas: rodar bajo de presión recorta la autonomía"
+      ]
+    },
   },
   {
     id: "cecotec-bongo-g40-xxl-connected",

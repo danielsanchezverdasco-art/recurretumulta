@@ -2743,32 +2743,33 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     ],
     aprox: ["precioEur", "autonomiaRealKm"],
     pros: [
-      "Certificado DGT (B1034): legal en España",
-      "Solo 15,4 kg: ultraligero",
-      "App de NIU con bloqueo y estadísticas",
-      "399 € en la tienda oficial europea",
-      "Protección IP54",
-      "Ideal para combinar con metro o tren",
+      "Certificado VMP B1034 del KQi1 Pro: apto para circular en España bajo la norma DGT",
+      "Chasis de acero de grado automotriz con solo 15,4 kg en báscula",
+      "Por Bluetooth, la app de NIU bloquea el KQi1 Pro y guarda estadísticas de cada trayecto",
+      "Cuatro modos en su pantalla LED: E-Save, Deportivo, Personalizado y Peatón",
+      "Sellado IP54 frente a polvo y salpicaduras, sin ser sumergible",
+      "Plegado patentado de un solo gesto y 399 € en la tienda oficial europea"
     ],
     contras: [
-      "250 W nominales: el menos potente de la lista",
-      "25 km declarados (unos 17 reales)",
-      "Batería de solo 250 Wh",
-      "Carga máxima de 100 kg",
-      "Ruedas de 9\": menos estables que las de 10\"",
-      "Freno de tambor: frenada básica",
+      "Sus 250 W nominales se quedan cortos fuera del llano urbano para conductores cercanos a 100 kg",
+      "Autonomía declarada de 25 km que la estimación de esta ficha rebaja a unos 17 km reales",
+      "Batería de 250 Wh según los datos de la ficha: margen escaso si el recorrido supera esos 17 km útiles",
+      "Techo de carga en 100 kg; el KuKirin G2 Pro, su pareja de medición, admite 20 kg más",
+      "Diámetro de rueda de 9 pulgadas: dirección más nerviosa sobre adoquines que con una de 10 pulgadas",
+      "Frenada modesta en el KQi1 Pro: tambor delantero más freno eléctrico trasero, sin disco en ningún eje"
     ],
     veredicto:
-      "El KQi1 Pro es el NIU de entrada: DGT, 15,4 kg y 399 €. Perfecto como primer patinete o para el último kilómetro; sus 250 W y 25 km declarados marcan sus límites con honestidad.",
+      "Para trayectos cortos encadenados con Metro o Cercanías, el KQi1 Pro apuesta todo a sus 15,4 kg, al certificado B1034 y a los 399 € oficiales. Quien necesite más de unos 17 km útiles por carga o afronte rampas a diario debe mirar modelos superiores de la propia gama KQi.",
     fuenteNombre: "NIU",
     fuenteUrl: "https://shopeu.niu.com",
     mantenimientoDIY: {
-      intervaloRevision: "Antes de cada uso: comprobar que todos los componentes están bien fijados",
-      trucos: [
-        "Usar solo el cargador original; no desmontar ni modificar la batería",
-        "Practicar la frenada (freno de tambor delantero + regenerativo trasero) en una zona segura antes de circular entre el tráfico",
-        "No circular con lluvia intensa ni nieve",
-      ],
+      "intervaloRevision": "Comprobar periódicamente tornillos y holguras en la zona de dirección y en el cierre que pliega el KQi1 Pro",
+      "presionNeumaticos": "Entre 45 y 50 psi para las cubiertas 9,0 × 2,3 del KQi1 Pro (dato del manual del modelo)",
+      "trucos": [
+        "Si baja la autonomía, revisa primero la presión de las ruedas: el manual la señala como causa frecuente",
+        "Completa sus 5 horas de recarga con el cargador original; no abras el módulo integrado de batería y BMS NIU Energy",
+        "Tras rodar con salpicaduras, seca el tambor delantero y los contactos antes de guardarlo plegado"
+      ]
     },
   },
   {

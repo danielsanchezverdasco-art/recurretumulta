@@ -522,15 +522,29 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
       "Motor de 400 W (840 W de pico): el más justo de la gama VMAX",
       "Batería de solo 281 Wh (36 V 7,8 Ah): 30 km teóricos, unos 20 reales",
       "Sin suspensión",
-      'Ruedas de 9": menos estables en baches que las de 10"',
+      "Cubiertas de 9 pulgadas: en rejillas, juntas de dilatación y bordillos bajos exige ir más atento que un modelo de 10 pulgadas",
       "Sin precio oficial en España",
-      "Con 120 kg de carga y 400 W, las cuestas se hacen duras",
+      "Con 120 kg de carga y 400 W, las cuestas se hacen duras"
     ],
     veredicto:
       "El VX5 Pro ST es el VMAX urbano mínimo: certificado DGT, 16,7 kg y 4 h de carga. Con 281 Wh y 400 W es para trayectos cortos y llanos; si tu ruta pasa de 15 km o tiene cuestas, mira el VX2 Pro.",
     fuenteNombre: "eJunkie",
     fuenteUrl: "https://ejunkie.de/product/vmax-vx5-pro/",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      "actualizacionFirmware": "Desde la app oficial VMAX Connect (iOS/Android), conectada por Bluetooth; el VX5 Pro usa la app con el logo blanco de VMAX",
+      "ajusteFrenosPasos": [
+        "Comprobar el funcionamiento del freno de tambor delantero y del freno electrónico regenerativo trasero",
+        "Si la frenada pierde respuesta, ajustar la tensión del cable y revisar el desgaste; si el problema persiste, acudir al servicio técnico"
+      ],
+      "aprieteTornilleria": "Revisar periódicamente que todos los tornillos y pernos estén bien apretados",
+      "intervaloRevision": "Antes de cada uso: revisar chasis, manillar y mecanismo de plegado por si hay piezas flojas o daños (manual oficial VMAX)",
+      "presionNeumaticos": "2,5-3,0 bar (36-43 PSI) según el peso del conductor; comprobar al menos una vez al mes (guía oficial VMAX del VX5)",
+      "trucos": [
+        "No agotar la batería por completo: cargarla con regularidad aunque no se use a diario y guardar el patinete en un lugar fresco y seco",
+        "Limpiar con un paño húmedo; no usar chorros de agua a presión sobre los componentes electrónicos pese a la protección IPX6",
+        "Inflar hacia el extremo alto del rango (3 bar) da hasta un 10 % más de autonomía según VMAX; hacia el extremo bajo, la marcha es más suave"
+      ]
+    },
   },
   {
     id: "iscooter-i10-max",

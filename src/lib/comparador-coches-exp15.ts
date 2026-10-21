@@ -323,8 +323,8 @@ export const COCHES_EXP15: CocheComparador[] = [
   },
   {
     id: "toyota-c-hr-gr-sport-2025-precio-ficha-tecnica",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
+    garantiaBateriaAnos: 5,
+    garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/toyota-c-hr-gr-sport-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
@@ -371,15 +371,15 @@ export const COCHES_EXP15: CocheComparador[] = [
     imagen: "/media/toyota-c-hr-gr-sport-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 8.1,
-      seguroTercerosAnual: 500,
-      seguroAmpliadoAnual: 900,
-      mantenimientoAnual: 400,
-      costeMensualTotal: 210,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.65,
-      notas: "15.000 km/año; consumo WLTP 4,9 l/100 km a 1,65 €/l; seguro y mantenimiento estimados para un SUV compacto en España",
-      estimado: true,
+      "costeEnergia100km": 8.1,
+      "costeMensualTotal": 210,
+      "estimado": true,
+      "mantenimientoAnual": 400,
+      "notas": "Estimación para el GR Sport Premiere Edition de 197 CV recorriendo 15.000 km al año: gasolina a 1,65 €/l sobre los 4,9 l/100 km WLTP homologados por esta versión; pólizas y revisiones anuales valoradas para un C-HR de silueta coupé en España",
+      "precioGasolinaL": 1.65,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 900,
+      "seguroTercerosAnual": 500
     },
     galeria: [
       {
@@ -396,6 +396,29 @@ export const COCHES_EXP15: CocheComparador[] = [
       },
     ],
     analisisSlug: "toyota-c-hr-gr-sport-2025-precio-ficha-tecnica",
+    euroncap: {
+      "ano": 2024,
+      "estrellas": 5,
+      "nota": "Euro NCAP 2024: 85 % en ocupante adulto, 86 % en ocupante infantil, 86 % en usuarios vulnerables y 79 % en asistencias a la seguridad; la calificación cubre la variante 2.0 Hybrid de tracción delantera de este GR Sport",
+      "url": "https://www.euroncap.com/en/results/toyota/c-hr/51098"
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Toyota España: mantenimiento cada 15.000 km o una vez al año, con cambio de aceite y filtros, revisión de frenos y comprobación general en la red oficial",
+      "intervalo": "Una revisión al año o cada 15.000 km, según lo primero que se cumpla",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión intermedia / 15.000 km",
+          "queSeCambia": "Aceite del motor 2.0 Hybrid y su filtro, con inspección general del vehículo, niveles y chequeo del sistema híbrido"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión principal / 30.000 km",
+          "queSeCambia": "Aceite y filtro de aceite, filtro de aire del motor, filtro de polen del habitáculo y renovación del líquido de frenos, además del chequeo híbrido de la batería"
+        }
+      ]
+    },
   },
   {
     id: "toyota-proace-verso-electric-2025-precio-ficha-tecnica",

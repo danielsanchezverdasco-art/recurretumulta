@@ -1475,18 +1475,18 @@ export const COCHES_LOTE11: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "1.5T de 174 CV y 270 Nm con cambio 7DCT: el SUV superventas de GAC",
-      "Maletero de 638 litros: de los mayores del segmento",
-      "También existe versión híbrida HEV con más de 1.000 km de autonomía",
-      "8 airbags y asistente ADiGO Pilot de nivel 2",
-      "Precio orientativo ~28.000 €: mucho SUV por el dinero",
+      "Maletero de 638 litros que crece hasta 1.586 al abatir la segunda fila, con dos metros de fondo de carga: espacio de familiar grande",
+      "El 1.5 TGDI homologa en su mercado de origen un consumo WLTC de 6,8 l/100 km y un 0-100 km/h de 8,8 segundos, con 174 CV para mover 1.540 kg",
+      "Ocho airbags que cubren diez posiciones, incluidos laterales traseros poco habituales en su clase, y ADiGO Pilot con ocho funciones de nivel 2",
+      "Puesto de conducción ADiGO Space dominado por una pantalla táctil de 14,6 pulgadas, techo panorámico con cortinilla eléctrica y batalla de 2.750 mm",
+      "Hay un Max híbrido distinto a este: el HEV de 2,0 litros Atkinson y 232 CV combinados anuncia hasta 1.250 km por depósito"
     ],
     contras: [
-      "Precio orientativo (~28.000 €): sin tarifa europea, se vende en Latinoamérica",
-      "GAC no tiene red oficial en España",
-      "Versión de gasolina: etiqueta C, sin ventajas fiscales del híbrido",
-      "Datos de consumo y aceleración sin confirmar para el 1.5T",
-      "El interior, correcto, no alcanza el nivel de los premium chinos",
+      "Comprarlo desde España exige importación por cuenta propia: su venta se concentra en China y en mercados como Chile, Argentina o Filipinas, sin homologación europea anunciada",
+      "Los 28.000 € son una conversión orientativa: en origen se lanzó entre 115.800 y 125.800 yuanes y el HEV argentino se anunció a 34.990 dólares",
+      "Esta unidad es gasolina pura con distintivo C: las ventajas del sello ECO quedan reservadas al HEV de 2,0 litros, que es otra versión con otro precio",
+      "La cobertura de cinco años o 150.000 km que la marca concede a este modelo en Argentina, Chile o Filipinas no te ampara aquí, al no existir importador español del GS4 Max",
+      "No es un GS4 desarrollado desde cero: es un Emkoo rediseñado sobre la plataforma GPMA que sustituye al GS4 anterior y al GS4 Plus, solo con tracción delantera"
     ],
     largoMm: 4700,
     anchoMm: null,
@@ -1502,16 +1502,15 @@ export const COCHES_LOTE11: CocheComparador[] = [
     imagen: "/media/gac-trumpchi-gs4-max-2026-hero.webp",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 11.2,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.6,
-      seguroTercerosAnual: 540,
-      seguroAmpliadoAnual: 990,
-      mantenimientoAnual: 450,
-      costeMensualTotal: 268,
-      notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Consumo estimado en 7 l/100 km.",
-      estimado: true,
+      "costeEnergia100km": 11.2,
+      "costeMensualTotal": 268,
+      "estimado": true,
+      "mantenimientoAnual": 450,
+      "notas": "Para este Max de gasolina se estiman 7,0 l/100 km —frente a los 6,8 WLTC declarados en China— a 1,60 €/l, con 15.000 km anuales y seguro a todo riesgo incluido en el total.",
+      "precioGasolinaL": 1.6,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 990,
+      "seguroTercerosAnual": 540
     },
     galeria: [
       {
@@ -1541,16 +1540,16 @@ export const COCHES_LOTE11: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 10.000 km (programa GAC en Latinoamérica; sin plan europeo publicado)",
-      revisiones: [
+      "costeAnualAproxEur": null,
+      "fuente": "GAC Motor — programa latinoamericano del modelo; Europa sin programa publicado",
+      "intervalo": "Cada 10.000 km o 12 meses en los mercados latinoamericanos donde se comercializa el GS4 Max; GAC no publica un programa europeo para este modelo",
+      "revisiones": [
         {
-          nombre: "Revisión anual / 10.000 km",
-          queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección general",
-          costeAproxEur: null,
-        },
-      ],
-      costeAnualAproxEur: null,
-      fuente: "GAC Motor (sin programa de mantenimiento publicado para Europa)",
+          "costeAproxEur": null,
+          "nombre": "Revisión de los 10.000 km del 1.5 TGDI",
+          "queSeCambia": "Cambio de aceite y de su filtro, sustitución del filtro de habitáculo y revisión general del vehículo"
+        }
+      ]
     },
   },
   {
@@ -1879,18 +1878,18 @@ export const COCHES_LOTE11: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "1.5T de 174 CV y 270 Nm con cambio 7DCT: el B-SUV con carácter deportivo",
-      "0-100 km/h en ~8,8 s y 5,9 l/100 km: equilibrio entre prestaciones y consumo",
-      "Diseño afilado con parrilla Star Diamond: no pasa desapercibido",
-      "Se vende en México, Bolivia, Chile y Filipinas: GAC lo lleva a todo el mundo",
-      "Precio orientativo ~20.000 €: mucho equipamiento por el dinero",
+      "Par de 270 Nm ya a 1.400 rpm: el 1.5 TGDI MegaWave de tercera generación tira con ganas en un B-SUV de solo 4,45 m",
+      "Cinco estrellas ASEAN NCAP en 2024 con 88,39 puntos: fue el primer GAC probado por ese organismo, con 36,60 puntos en protección de adultos",
+      "Faros partidos Laser Eye, tiradores eléctricos que quedan enrasados y pilotos traseros Light Dart: detalles raros de ver en su tamaño",
+      "Apple CarPlay sin cables y cámara envolvente acompañan a la pantalla central de 10,25 pulgadas en las versiones malayas del Emzoom",
+      "Consume 5,9 l/100 km en ciclo NEDC según GAC Malasia y permite arrancar el motor a distancia para llegar con el habitáculo listo"
     ],
     contras: [
-      "Precio orientativo (~20.000 €): sin tarifa europea, no se vende en España",
-      "Versión de gasolina: etiqueta C, sin hibridación",
-      "GAC no tiene red oficial en España",
-      "La versión base solo lleva 2 airbags en algunos mercados",
-      "Datos de maletero y velocidad máxima sin confirmar",
+      "Aquí no hay PVP al que agarrarse: no se vende en España y esos 20.000 € son solo una referencia orientativa de esta ficha",
+      "Importarlo por libre dejaría al dueño sin talleres oficiales de la marca en territorio español para revisiones, recambios o una reclamación",
+      "Al ser gasolina puro, sin hibridación alguna, en la DGT se quedaría con la etiqueta C y fuera de las ventajas de un ECO",
+      "En Filipinas el acabado de acceso GS de 2023 montaba únicamente dos airbags; el GB subía a cuatro y el GL llegaba hasta seis",
+      "Ni su medida es única: declara 4.410 mm el normal y 4.446 mm el de paquete R Style, y esta ficha aún no cierra maletero ni velocidad punta"
     ],
     largoMm: 4446,
     anchoMm: 1850,
@@ -1906,16 +1905,15 @@ export const COCHES_LOTE11: CocheComparador[] = [
     imagen: "/media/gac-trumpchi-gs3-emzoom-2025-hero.webp",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 9.44,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.6,
-      seguroTercerosAnual: 480,
-      seguroAmpliadoAnual: 880,
-      mantenimientoAnual: 400,
-      costeMensualTotal: 222,
-      notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Consumo homologado de 5,9 l/100 km.",
-      estimado: true,
+      "costeEnergia100km": 9.44,
+      "costeMensualTotal": 222,
+      "estimado": true,
+      "mantenimientoAnual": 400,
+      "notas": "Cuenta hecha para este Emzoom: recorrer 15.000 km al año a 5,9 l/100 km consume 885 litros; pagados a 1,60 €/l suman 1.416 € de gasolina, que se prorratean con seguro y mantenimiento en la estimación mensual.",
+      "precioGasolinaL": 1.6,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 880,
+      "seguroTercerosAnual": 480
     },
     galeria: [
       {
@@ -1939,22 +1937,22 @@ export const COCHES_LOTE11: CocheComparador[] = [
     ],
     analisisSlug: "gac-trumpchi-gs3-emzoom-2025-precio-autonomia",
     euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: el GS3 Emzoom no consta probado por Euro NCAP.",
+      "url": null
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 10.000 km (programa GAC en Latinoamérica; sin plan europeo publicado)",
-      revisiones: [
+      "costeAnualAproxEur": null,
+      "fuente": "GAC Motor en México (intervalo 10.000 km / 1 año); sin programa europeo publicado",
+      "intervalo": "Al cumplirse un año o al llegar a los 10.000 km, en el plan citado por GAC para México; no consta calendario oficial publicado para Europa",
+      "revisiones": [
         {
-          nombre: "Revisión anual / 10.000 km",
-          queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección general",
-          costeAproxEur: null,
-        },
-      ],
-      costeAnualAproxEur: null,
-      fuente: "GAC Motor (sin programa de mantenimiento publicado para Europa)",
+          "costeAproxEur": null,
+          "nombre": "Revisión de los 10.000 km y siguientes",
+          "queSeCambia": "Aceite del motor 1.5 TGDI y su filtro nuevos, filtro de habitáculo sustituido y comprobación general del coche"
+        }
+      ]
     },
   },
   {

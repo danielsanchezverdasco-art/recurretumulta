@@ -629,18 +629,18 @@ export const COCHES_WEY: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde", "autonomiaKm"],
     pros: [
-      "737 CV y 930 Nm: 0-100 en 4,4 s, el Wey más potente",
-      "Batería de hasta 80 kWh: hasta 470 km eléctricos CLTC",
-      "1.700 km de autonomía combinada",
-      "Suspensión neumática y dirección trasera",
-      "6 plazas con nevera y asientos de gravedad cero",
+      "Primer modelo de producción sobre la plataforma GWM One S: su sistema Super Hi4 combina el 2.0 turbo de 175 kW con dos motores eléctricos hasta sumar 737 CV y 930 Nm",
+      "Arquitectura de 800 V con carga 6C: la marca declara pasar del 30 al 80 % en nueve minutos y recuperar unos 200 km de autonomía en cinco minutos",
+      "Con la batería grande de 80 kWh homologa 470 km eléctricos en ciclo CLTC y hasta 1.700 km de alcance total sumando el depósito de gasolina",
+      "Suspensión neumática cerrada de doble cámara con 100 mm de recorrido y eje trasero direccional de ±10°: su radio de giro queda en solo 5,1 metros",
+      "Seis plazas en formato 2+2+2 con el asiento derecho de la segunda fila en modo gravedad cero y masaje de 22 puntos, pantalla trasera de 21,4 pulgadas y sonido de 31 altavoces"
     ],
     contras: [
-      "Lanzado en mayo de 2026: sin pruebas europeas ni historial",
-      "No se vende oficialmente en Europa: solo China",
-      "Precio convertido desde yuanes: orientativo, no oficial",
-      "5,2-5,3 m de largo: enorme para ciudad",
-      "Autonomía eléctrica CLTC: cifra orientativa, no WLTP",
+      "Presentado en Auto China 2026 y a la venta en China desde el 18 de mayo: la expansión anunciada a Eurasia y Oriente Medio aún no incluye tarifa ni red comercial para España",
+      "En origen cuesta entre 349.800 y 389.800 yuanes según versión; los 45.470 € de esta ficha son una conversión orientativa, sin un precio oficial español que la respalde",
+      "Hay dos carrocerías, de 5.205 y 5.299 mm, ambas con 2.025 mm de anchura y hasta 2.930 kg en orden de marcha: en un aparcamiento estándar español sobra coche por todas partes",
+      "Los 470 km eléctricos y los 1.700 km totales son valores CLTC chinos; en ciclo WLTC el alcance eléctrico de la versión tope baja a unos 363 km según la prensa que lo ha cubierto",
+      "Sin prueba Euro NCAP publicada y sin homologación europea: su carrocería con un 88 % de aceros de alta resistencia y sus 9 airbags aún no tienen nota de ningún organismo europeo"
     ],
     imagen: "/media/wey-v9x-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/wey-v9x-2026-precio-ficha-tecnica-oficial.webp",
@@ -650,16 +650,15 @@ export const COCHES_WEY: CocheComparador[] = [
     videoCanal: "Gilevich Sergey (GS.English)",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 5.2,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.6,
-      seguroTercerosAnual: 510,
-      seguroAmpliadoAnual: 940,
-      mantenimientoAnual: 380,
-      costeMensualTotal: 178,
-      notas:
-        "Estimación con 15.000 km/año (80 % en modo eléctrico, resto en híbrido ~7 L/100 km), recarga doméstica a 0,18 €/kWh y todo riesgo.",
-      estimado: true,
+      "costeEnergia100km": 5.2,
+      "costeMensualTotal": 178,
+      "estimado": true,
+      "mantenimientoAnual": 380,
+      "notas": "Cálculo específico para este V9X con 15.000 km anuales: se reparte el uso entre trayectos con la batería cargada y tramos con el 2.0 turbo sosteniendo la carga, cargando en casa a 0,18 €/kWh. Al no comercializarse en España, seguro y mantenimiento son partidas estimadas para un SUV híbrido enchufable de casi tres toneladas y 737 CV, todavía sin tarifas locales cerradas.",
+      "precioGasolinaL": 1.6,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 940,
+      "seguroTercerosAnual": 510
     },
     galeria: [
       {
@@ -681,5 +680,17 @@ export const COCHES_WEY: CocheComparador[] = [
         alto: 1280,
       },
     ],
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: modelo no probado",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Wey/GWM: sin plan oficial europeo publicado para el V9X",
+      "intervalo": "No publicado para Europa (modelo no comercializado en España)",
+      "revisiones": []
+    },
   },
 ];

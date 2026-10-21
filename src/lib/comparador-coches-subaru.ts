@@ -509,8 +509,8 @@ export const COCHES_SUBARU: CocheComparador[] = [
   },
   {
     id: "subaru-solterra-trek-4wd-2026-precio-ficha-tecnica",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
+    garantiaBateriaAnos: 8,
+    garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/subaru-solterra-trek-4wd-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/subaru-solterra-trek-4wd-2026-precio-ficha-tecnica-interior-oficial.webp",
@@ -530,18 +530,18 @@ export const COCHES_SUBARU: CocheComparador[] = [
     cargaRapidaKw: 150,
     etiquetaDgt: "Cero",
     pros: [
-      "343 CV y tracción total: el Subaru eléctrico más potente",
-      "509 km de autonomía WLTP con batería de 73 kWh",
-      "Carga rápida de 150 kW (10-80 % en 28 min) y 11 kW en alterna",
-      "X-Mode y gran altura libre: el único EV con genes off-road",
-      "Garantía de la batería de 8 años o 160.000 km",
+      "Doble motor y 343 CV en el acabado Trek: sprint de 5,1 s hasta los 100 km/h y 437 Nm de par",
+      "La batería de 73 kWh firma 509 km WLTP antes de volver a enchufar",
+      "En carga continua admite 150 kW: recupera el 80 % de la batería en 28 minutos",
+      "X-Mode para nieve o barro y 210 mm de altura libre, cifras de todoterreno en un eléctrico",
+      "El nuevo Solterra logró las cinco estrellas Euro NCAP en la prueba publicada en 2025"
     ],
     contras: [
-      "43.500 €: el eléctrico más caro de la gama Subaru",
-      "2.130 kg de peso: se nota en curvas enlazadas",
-      "Maletero de 452 l: menos que un E-Outback",
-      "La red de concesionarios Subaru en España es reducida",
-      "Consumo elevado si se abusa del modo Sport",
+      "El precio ya parte de 43.500 € en esta versión Trek de tracción total",
+      "Con 2.130 kg en orden de marcha, frenada y curvas enlazadas exigen anticipación",
+      "Maletero de 452 litros y ningún hueco delantero extra para guardar los cables",
+      "Solo puede remolcar 750 kg, menos de la mitad de lo que admite un Ioniq 5",
+      "Subaru tiene pocos concesionarios en España, así que la revisión anual puede quedar lejos"
     ],
     largoMm: 4690,
     anchoMm: 1860,
@@ -558,14 +558,14 @@ export const COCHES_SUBARU: CocheComparador[] = [
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 2.7,
-      "seguroTercerosAnual": 500,
-      "seguroAmpliadoAnual": 850,
-      "mantenimientoAnual": 250,
       "costeMensualTotal": 97,
-      "precioKwh": 0.18,
+      "estimado": true,
+      "mantenimientoAnual": 250,
+      "notas": "Cifra propia de este Trek: a 15,2 kWh cada 100 km y 0,18 € el kWh doméstico salen 2,7 € por cada 100 km. Sumando 15.000 km al año, seguro a terceros de 500 € y 250 € de mantenimiento se llega a unos 97 € al mes.",
       "precioGasolinaL": 1.55,
-      "notas": "EV 343 CV: consumo estimado ~15,2 kWh/100 km; recarga doméstica a 0,18 €/kWh; 15.000 km/año; seguro y mantenimiento estimados; cifras aproximadas (oct-2026)",
-      "estimado": true
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 850,
+      "seguroTercerosAnual": 500
     },
     galeria: [
       {
@@ -587,6 +587,34 @@ export const COCHES_SUBARU: CocheComparador[] = [
         "alto": 800
       }
     ],
+    euroncap: {
+      "ano": 2025,
+      "estrellas": 5,
+      "nota": "Prueba Euro NCAP 2025 del nuevo Solterra: 88 % en ocupante adulto, 85 % infantil, 80 % en usuarios vulnerables y 79 % en asistentes de seguridad",
+      "url": "https://cdn.euroncap.com/media/93100/euroncap-2025-subaru-solterra-datasheet.pdf"
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Libreta oficial de garantía y mantenimiento del Subaru Solterra / Subaru EV 2026 y Warranty and Service Handbook de Subaru Australia (intervalo 15.000 km o 12 meses)",
+      "intervalo": "Revisión cada año o cada 15.000 km recorridos",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión 15.000 km / 12 meses",
+          "queSeCambia": "Sin aceite de motor que cambiar: rotación de neumáticos e inspección de pastillas y discos de freno, latiguillos, dirección, rótulas, fuelles de transmisión y reapriete de tornillería de chasis y carrocería"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión 30.000 km / 24 meses",
+          "queSeCambia": "La inspección anual completa más la comprobación del fluido del e-transaxle y de los refrigerantes del calefactor y de la batería de tracción"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Sustituciones a largo plazo según libreta",
+          "queSeCambia": "Sustitución programada del filtro del climatizador y primera sustitución de los refrigerantes del calefactor y de la batería de tracción a los 192.000 km, y después cada 80.000 km"
+        }
+      ]
+    },
   },
   {
     id: "subaru-uncharted-field-2026-precio-ficha-tecnica",
@@ -671,8 +699,8 @@ export const COCHES_SUBARU: CocheComparador[] = [
   },
   {
     id: "subaru-uncharted-touring-2026-precio-ficha-tecnica",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
+    garantiaBateriaAnos: 8,
+    garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/subaru-uncharted-touring-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/subaru-uncharted-touring-2026-precio-ficha-tecnica-interior-oficial.webp",
@@ -692,18 +720,18 @@ export const COCHES_SUBARU: CocheComparador[] = [
     cargaRapidaKw: 150,
     etiquetaDgt: "Cero",
     pros: [
-      "343 CV y tracción total con X-Mode: el Uncharted más capaz",
-      "490 km de autonomía WLTP con batería de 77 kWh",
-      "0-100 en 5,0 s: prestaciones de deportivo",
-      "Carga rápida de 150 kW y 22 kW en alterna",
-      "El acabado más equipado de la gama Uncharted",
+      "Doble motor y 343 CV con X-Mode y 211 mm de altura libre: remolca hasta 1.500 kg, algo rarísimo en un SUV eléctrico de 4,54 m",
+      "Seguridad probada: 5 estrellas Euro NCAP 2025, con un 88 % en ocupante adulto y un 85 % en ocupante infantil",
+      "Carga como pocos en su precio: 150 kW en continua, del 10 al 80 % en unos 30 minutos, y 22 kW en alterna de serie",
+      "El Touring suma llantas de 20 pulgadas, techo panorámico y una toma de 1.500 W para alimentar aparatos fuera del coche",
+      "Pantalla de 14 pulgadas, doble cargador inalámbrico y cámara de 360 grados en un interior pensado para salir del asfalto"
     ],
     contras: [
-      "42.500 €: 5.000 € más que el Field con menos autonomía",
-      "Maletero de 404 l: se queda corto frente a rivales",
-      "La autonomía cae a 490 km con la tracción total",
-      "Red de concesionarios Subaru reducida en España",
-      "Gama y precios en España aún por confirmar del todo",
+      "42.500 € con la campaña de lanzamiento ya aplicada: cuesta 5.000 euros por encima del Field, que comparte batería y casi todo el equipamiento",
+      "El segundo motor se paga en alcance: 490 km WLTP frente a los 588 km del Field con la misma batería de 77 kWh",
+      "Maletero de 404 litros justos para cinco plazas: el Solterra de la propia casa anuncia 480 litros y carga mejor en viajes largos",
+      "Materiales del habitáculo mejorables y una suspensión con margen de mejora en carreteras bacheadas, según las primeras pruebas en España",
+      "Comprarlo exige paciencia y mapa: preventa abierta en 2026, comercialización oficial a comienzos de 2027 y una red Subaru muy pequeña en España"
     ],
     largoMm: 4535,
     anchoMm: 1870,
@@ -719,15 +747,15 @@ export const COCHES_SUBARU: CocheComparador[] = [
     imagen: "/media/subaru-uncharted-touring-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
-      "costeEnergia100km": 3.0,
-      "seguroTercerosAnual": 475,
-      "seguroAmpliadoAnual": 825,
-      "mantenimientoAnual": 250,
+      "costeEnergia100km": 3,
       "costeMensualTotal": 99,
-      "precioKwh": 0.18,
+      "estimado": true,
+      "mantenimientoAnual": 250,
+      "notas": "Estimación para el Touring de dos motores y llantas de 20 pulgadas: se parte de unos 16,5 kWh por cada 100 km, todavía sin consumo WLTP cerrado de esta versión en la ficha, y de un precio doméstico de 0,18 euros por kWh, de ahí los 3 euros por cada 100 km. El kilometraje de referencia es de 15.000 al año; seguro y mantenimiento son importes estimados en octubre de 2026, no una tarifa cerrada de Subaru España.",
       "precioGasolinaL": 1.55,
-      "notas": "EV 343 CV: consumo estimado ~16,5 kWh/100 km (dato oficial pendiente); recarga doméstica a 0,18 €/kWh; 15.000 km/año; seguro y mantenimiento estimados; cifras aproximadas (oct-2026)",
-      "estimado": true
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 825,
+      "seguroTercerosAnual": 475
     },
     galeria: [
       {
@@ -749,5 +777,28 @@ export const COCHES_SUBARU: CocheComparador[] = [
         "alto": 800
       }
     ],
+    euroncap: {
+      "ano": 2025,
+      "estrellas": 5,
+      "nota": "5 estrellas Euro NCAP 2025: 88 % en ocupante adulto, 85 % en infantil, 80 % en usuarios vulnerables y 79 % en asistentes a la seguridad (Subaru Europe; la imagen de la prueba corresponde a su gemelo Toyota C-HR+)",
+      "url": "https://www.euroncap.com/assessments/subaru/uncharted/1230/"
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Programa oficial Subaru para el Uncharted MY2026 (servicios A-E cada 15.000 km/12 meses, Capped Price Servicing de Subaru) y tabla de mantenimiento del libro oficial 2026 Subaru EV Warranty & Maintenance, p. 26; sin precios en euros publicados para España",
+      "intervalo": "Cada 15.000 km o 12 meses, lo que ocurra antes",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión A / 15.000 km o 12 meses",
+          "queSeCambia": "Inspección programada del eléctrico según la tabla oficial de Subaru: pastillas y discos de freno, latiguillos, dirección, suspensión y fuelles, rotación de neumáticos y control del filtro de habitáculo y de los refrigerantes de calefacción y de la batería de tracción"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión B / 30.000 km o 24 meses",
+          "queSeCambia": "Nueva inspección programada con el alcance de la revisión A y control adicional del líquido del transeje eléctrico (e-Transaxle), previsto en la tabla a los 24 meses; el refrigerante de la batería de tracción solo se sustituye por primera vez a los 192.000 km según esa misma tabla"
+        }
+      ]
+    },
   },
 ];

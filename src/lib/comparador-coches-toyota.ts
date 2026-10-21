@@ -1781,8 +1781,8 @@ export const COCHES_TOYOTA: CocheComparador[] = [
   },
   {
     id: "toyota-c-hr-200h-2025-precio-ficha-tecnica",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
+    garantiaBateriaAnos: 5,
+    garantiaBateriaKm: 100000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/toyota-c-hr-200h-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/toyota-c-hr-200h-2025-precio-ficha-tecnica-interior-oficial.webp",
@@ -1812,7 +1812,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
       "364 L de maletero, justo para el segmento",
       "Visibilidad trasera limitada por el diseño",
       "Plazas traseras con ventanillas pequeñas",
-      "e-CVT: tacto mejorable a fondo",
+      "Cuando se le exige a fondo, la transmisión e-CVT mantiene el motor en régimen alto y el ruido se filtra al habitáculo antes de que llegue el empuje",
       "Sin versión enchufable en esta potencia"
     ],
     largoMm: 4362,
@@ -1829,15 +1829,15 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     imagen: "/media/toyota-c-hr-200h-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 8.88,
-      seguroTercerosAnual: 500,
-      seguroAmpliadoAnual: 900,
-      mantenimientoAnual: 400,
-      costeMensualTotal: 225,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.85,
-      notas: "15.000 km/año; consumo WLTP 4,8 l/100 km a 1,85 €/l; seguro y mantenimiento estimados para un SUV compacto en España",
-      estimado: true
+      "costeEnergia100km": 8.88,
+      "costeMensualTotal": 225,
+      "estimado": true,
+      "mantenimientoAnual": 400,
+      "notas": "Cálculo para este C-HR 200H Advance: 15.000 km al año con su consumo WLTP de 4,8 l/100 km y gasolina a 1,85 €/l dan 8,88 € de combustible cada 100 km; seguro y revisión anual son estimaciones propias de este acabado, no tarifas cerradas de Toyota",
+      "precioGasolinaL": 1.85,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 900,
+      "seguroTercerosAnual": 500
     },
     galeria: [
       {
@@ -1860,7 +1860,30 @@ export const COCHES_TOYOTA: CocheComparador[] = [
       }
     ],
     fuenteNombre: "km77",
-    fuenteUrl: "https://www.km77.com/coches/toyota/c-hr/2024/estandar/estandar/c-hr-200h-advance/datos"
+    fuenteUrl: "https://www.km77.com/coches/toyota/c-hr/2024/estandar/estandar/c-hr-200h-advance/datos",
+    euroncap: {
+      "ano": 2024,
+      "estrellas": 5,
+      "nota": "5 estrellas Euro NCAP (2024): 85 % ocupantes adultos, 86 % infantil, 86 % usuarios vulnerables y 79 % asistencias a la seguridad. La valoración se aplica a todos los C-HR de esta generación",
+      "url": "https://euroncap.com/en/results/Toyota/C-HR/51098"
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Recordatorio de mantenimientos Toyota para híbridos (guiausuario.toyota.es) y Toyota España: revisión cada año o 15.000 km",
+      "intervalo": "Cada 15.000 km o 12 meses, lo que antes ocurra",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión intermedia / 15.000 km (años impares)",
+          "queSeCambia": "Aceite de motor y filtro de aceite, chequeo de salud del vehículo y chequeo del sistema híbrido, inspección de luces, estado general y batería convencional de 12 V"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión ampliada / 30.000 km (años pares)",
+          "queSeCambia": "Lo de la intermedia más filtro de polen y filtro de aire del motor, con inspección en profundidad de frenos, neumáticos y fluidos como el refrigerante del motor"
+        }
+      ]
+    },
   },
   {
     id: "toyota-hilux-mhev-2025-precio-ficha-tecnica",

@@ -8604,11 +8604,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     aprox: ["bateriaKwh"],
     pros: [
       "El Lexus más barato: premium desde 33.900 €",
-      "Consumo de solo 4,5 l/100 km",
+      "Su 1.5 híbrido de 136 CV homologa 4,5 l/100 km y emite 102 g/km de CO₂",
       "Etiqueta ECO: entra en la ciudad sin restricciones",
       "Interior con calidad y materiales de verdadero premium",
       "Maniobra de esquiva superada a 75 km/h: muy seguro",
-      "Cambio e-CVT suave, ideal para moverse por ciudad",
+      "Cambio e-CVT suave, ideal para moverse por ciudad"
     ],
     contras: [
       "Maletero de solo 332 L",
@@ -8625,6 +8625,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     opiniones: [],
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/lexus/lbx/2024/estandar/estandar/lbx/datos",
+    euroncap: {
+      "ano": 2024,
+      "estrellas": 5,
+      "nota": "5 estrellas Euro NCAP (2024): 82 % ocupantes adultos, 83 % infantil, 79 % usuarios vulnerables y 76 % asistencias a la seguridad. Variante probada: LBX Hybrid 1.5 gasolina.",
+      "url": "https://www.euroncap.com/en/results/lexus/lbx/53408"
+    },
   },
   // 9. Honda e:Ny1 (2024, nuevo modelo)
   {

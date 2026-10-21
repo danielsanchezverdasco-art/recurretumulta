@@ -429,9 +429,9 @@ export const COCHES_LIAUTO: CocheComparador[] = [
   },
   {
     id: "li-auto-i9-2026-precio-ficha-tecnica",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
-    garantiaBateriaDegradacionPct: null,
+    garantiaBateriaAnos: 8,
+    garantiaBateriaKm: 160000,
+    garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/li-auto-i9-home-2026-oficial-v2-oficial.webp",
     imagenInteriorOficial: "/media/li-auto-i9-home-2026-oficial-v2-interior.webp",
     videoId: "MISlJDjoAjA",
@@ -477,15 +477,15 @@ export const COCHES_LIAUTO: CocheComparador[] = [
     imagen: "/media/li-auto-i9-home-2026-oficial-v2-hero.webp",
     opiniones: [],
     costeMensual: {
-      "costeEnergia100km": 4.0,
-      "seguroTercerosAnual": 600,
-      "seguroAmpliadoAnual": 1100,
-      "mantenimientoAnual": 320,
+      "costeEnergia100km": 4,
       "costeMensualTotal": 158,
-      "precioKwh": 0.18,
+      "estimado": true,
+      "mantenimientoAnual": 320,
+      "notas": "Cálculo para el i9 Home: 1.500 km mensuales recorridos solo con electricidad, tarifando el kWh a 0,18 €. Como este SUV es eléctrico puro, la tarifa de gasolina del formulario no interviene en su coste. Los 49.000 € de la ficha convierten los 369.800 yuanes de su lanzamiento chino del 16 de septiembre de 2026; Li Auto no ha publicado precio para Europa.",
       "precioGasolinaL": 1.85,
-      "notas": "estimación orientativa con 1.500 km/mes en eléctrico a 0,18 €/kWh; el coche es 100 % eléctrico (el precio de la gasolina es solo referencia del campo obligatorio); el precio del coche es el oficial en China convertido a euros (sin precio europeo)",
-      "estimado": true
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 1100,
+      "seguroTercerosAnual": 600
     },
     galeria: [
       {
@@ -507,5 +507,11 @@ export const COCHES_LIAUTO: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: modelo no probado",
+      "url": null
+    },
   },
 ];

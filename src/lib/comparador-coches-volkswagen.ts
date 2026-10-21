@@ -191,18 +191,18 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     cargaRapidaKw: 200,
     etiquetaDgt: "Cero",
     pros: [
-      "683 km de autonomía WLTP: el familiar eléctrico de mayor alcance de VW",
-      "Maletero de 545 L: el formato Tourer que pedían los ex del Passat",
-      "Carga rápida de 200 kW y funciones V2L, V2H y V2G",
-      "286 CV y 545 Nm: empuje de berlina deportiva con cuerpo familiar",
-      "Etiqueta Cero, 0 g/km y Cx de 0,23: eficiencia de referencia",
+      "683 km WLTP con 86 kWh útiles: en febrero de 2024 se presentó como el primer familiar totalmente eléctrico de Volkswagen",
+      "545 litros hasta el respaldo y 1.714 litros con la banqueta abatida, y hasta 605 litros si el respaldo va en posición de carga",
+      "A 200 kW en continua recupera del 10 al 80 % en unos 28 minutos, un ritmo pensado para enlazar etapas largas de autopista",
+      "Motor trasero de 286 CV y 545 Nm sobre la plataforma MEB, con 2.971 mm de batalla que se agradecen en las plazas traseras",
+      "Cinco estrellas Euro NCAP de 2023 con un 95 % en protección de adultos, y la propia Euro NCAP extiende la nota a este familiar Pro S de 86 kWh"
     ],
     contras: [
-      "59.675 €: el familiar eléctrico más caro del segmento generalista",
-      "2.235 kg: casi 100 kg más que la berlina ID.7",
-      "180 km/h de punta limitada y 6,7 s de 0-100: no es un deportivo",
-      "Batería de 86 kWh útiles (91 bruta): el 5,5 % es búfer de seguridad",
-      "Sin versión GTX de 340 CV en el acabado Tourer básico",
+      "59.675 € de partida con la batería de 86 kWh: precio de berlina ejecutiva para un familiar de una marca generalista",
+      "Supera las 2,2 toneladas (2.235 kg) con un solo motor trasero: esa masa manda en la frenada y en las carreteras de curvas",
+      "Con 4.961 mm de largo y la trasera familiar, aparcar en garajes estrechos obliga a apoyarse en cámaras y sensores",
+      "Sin tracción total en esta versión: el 4MOTION de 340 CV es el GTX Tourer, una versión independiente y no una opción de este Pro S trasera",
+      "Casi todo pasa por la pantalla central de 15 pulgadas, incluida la climatización, y los deslizadores táctiles siguen sin convencer al conducir"
     ],
     largoMm: 4961,
     anchoMm: 1862,
@@ -219,14 +219,14 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 2.56,
-      "seguroTercerosAnual": 480,
-      "seguroAmpliadoAnual": 880,
-      "mantenimientoAnual": 300,
       "costeMensualTotal": 130,
-      "precioKwh": 0.18,
+      "estimado": true,
+      "mantenimientoAnual": 300,
+      "notas": "Estimación pensada para este Tourer Pro S: con su consumo homologado de 14,2 kWh cada cien kilómetros y la tarifa doméstica de 0,18 euros por kWh salen los 2,56 euros por cada 100 km; seguro y mantenimiento se estiman para un familiar de 4,96 metros y 2.235 kg que, según el plan ID. de Volkswagen, solo pasa por el taller cada dos años.",
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; 14,2 kWh/100 km WLTP; carga doméstica a 0,18 €/kWh; seguro a todo riesgo con franquicia; mantenimiento de eléctrico",
-      "estimado": true
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 880,
+      "seguroTercerosAnual": 480
     },
     galeria: [
       {
@@ -248,6 +248,24 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    euroncap: {
+      "ano": 2023,
+      "estrellas": 5,
+      "nota": "5 estrellas Euro NCAP (2023): 95 % en ocupantes adultos, 88 % en infantil, 83 % en usuarios vulnerables y 80 % en asistencias. La tabla de validez de la propia Euro NCAP aplica la calificación al familiar (Stationwagon) Pro S de 210 kW y 86 kWh, esta misma versión.",
+      "url": "https://www.euroncap.com/en/results/vw/id7/50196"
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Volkswagen Canarias, mantenimiento e inspección de vehículos eléctricos (modelos ID.)",
+      "intervalo": "Cada 2 años, sin límite de kilómetros",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Inspección ID. bienal",
+          "queSeCambia": "Inspección del vehículo eléctrico (electrónica, motor y carrocería) con cambio del líquido de frenos y del filtro interior, según el plan de inspección de los modelos ID. publicado por Volkswagen Canarias"
+        }
+      ]
+    },
   },
   {
     id: "volkswagen-tiguan-2024-precio-ficha-tecnica",

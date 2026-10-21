@@ -1241,17 +1241,17 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     aprox: [],
     pros: [
       "La naked 125 más tecnológica: TFT de 5\", control de tracción y válvulas variables",
-      "15 CV al límite del A1 con un motor muy vivo",
+      "Su VVA refuerza el par en baja y mantiene el empuje hasta arriba: los 15 CV se sienten llenos en toda la curva, no solo a altas vueltas",
       "Horquilla invertida de 41 mm y pinza radial",
-      "Se conduce con el carnet B + 3 años",
-      "Consumo de solo 2 l/100 km: 500 km con 10 L",
+      "Se puede llevar con el B y 3 años de antigüedad, y es la puerta de entrada a la familia Hyper Naked: estética y nombre de MT grande en formato A1",
+      "Consumo de solo 2 l/100 km: 500 km con 10 L"
     ],
     contras: [
-      "5.499 €: la naked 125 más cara del mercado",
-      "142 kg: algo pesada para una 125",
-      "El asiento a 810 mm puede ser alto para los más bajos",
-      "Por ese precio hay 300 cc con más potencia",
-      "La conectividad MyRide es básica",
+      "Sus 5.499 € son 449 € más que la Honda CB125R (5.050 €), la otra naked japonesa de 15 CV: el sobreprecio hay que justificarlo con el VVA y el control de tracción",
+      "Pesa 142 kg en orden de marcha, 12 kg más que los 130 kg de la CB125R: la diferencia se nota al maniobrarla en parado y al meterla en el garaje",
+      "El asiento queda a 810 mm del suelo sobre una carrocería ancha de masas adelantadas: quien no llegue bien apoyará de puntillas en cada semáforo",
+      "Por 1.000 € más, la propia Yamaha vende la MT-03 de 321 cc y 42 CV para el A2 (6.499 €): esta 125 cuesta casi como una moto de otro carnet rindiendo 15 CV",
+      "Su mecánica gemela, la XSR125 con el mismo motor VVA de 15 CV, sale por 5.099 €: son 400 € menos, eso sí, con cuadro LCD y horquilla de 37 mm en vez de TFT y 41 mm"
     ],
     curiosidades: [
       "Su motor con distribución variable es único en las 125",
@@ -1503,23 +1503,23 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "La deportiva 125 con estética de R1: 15 CV y válvulas variables",
-      "Chasis Deltabox y horquilla invertida de 41 mm",
-      "Se conduce con el A1 (o el B con 3 años)",
-      "Consumo de 2,13 l/100 km: más de 500 km con 11,5 L",
-      "Embrague antirrebote de serie",
+      "TFT en color de 5 pulgadas con vistas Street y Track: la segunda guarda tiempos de hasta 25 vueltas y permite ajustar el aviso de cambio",
+      "Monocilíndrico con distribución variable VVA y 124,7 cc de cilindrada: declara 15 CV a 10.000 rpm y 11,5 Nm a 8.000 rpm, justo en el techo del A1",
+      "Parte ciclo de deportiva grande: Deltabox de acero, basculante de aluminio, horquilla KYB invertida de 41 mm y disco delantero de 292 mm con pinza de anclaje radial",
+      "Control de tracción desconectable, ABS de dos canales y embrague asistido antirrebote: un paquete de ayudas raro en una carenada de 125",
+      "Homologa 2,1 l/100 km en su ficha oficial Euro5+: con 11 litros de depósito, la autonomía teórica supera los 500 km antes de repostar"
     ],
     contras: [
-      "5.899 €: la deportiva 125 más cara",
-      "144 kg: pesada para una 125",
-      "Asiento alto (825 mm) para los más bajos",
-      "Por ese precio hay 300 cc con más potencia",
-      "La electrónica es básica frente a la MT-125",
+      "Precio en lo alto del segmento: sus 5.899 € superan en 400 € a la MT-125, su hermana naked con la misma base mecánica",
+      "Maniobrar a pulso sus 144 kg cuesta más que mover una Honda CB125R, que declara 130 kg con la misma potencia máxima permitida",
+      "Ergonomía de circuito aplicada al día a día: semimanillares bajos y postura inclinada cargan las muñecas en atascos, y el pasajero va en un asiento pensado para trayectos breves",
+      "El quickshifter no viene montado de fábrica: la moto trae la preinstalación, pero el cambio rápido se paga aparte como accesorio",
+      "Asiento a 820 mm según la ficha oficial de Yamaha, con la estrechez propia de una deportiva: quien mida poco apoyará con dificultad en cada parada"
     ],
     curiosidades: [
-      "Su diseño hereda directamente el de la YZF-R1",
-      "Es la 125 deportiva más vendida de Europa",
-      "La versión 70.º Aniversario de 2025 cuesta 6.099 €",
+      "Nació en 2008 y tardó solo seis años en superar las 45.000 unidades vendidas, cifra que ya recogía la crónica de Visordown de la versión 2014",
+      "La generación vigente es la cuarta: se estrenó en 2023 y la unidad de 2025 se adapta a la Euro5+ manteniendo esa base",
+      "El neumático trasero creció con los años: las primeras R125 montaban un 130/70-17 y la medida de serie pasó después a 140/70-17"
     ],
     imagen: "/media/yamaha-yzf-r125-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -1565,17 +1565,17 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       fuente: "Manual del propietario Yamaha YZF-R125 (intervalo 6.000 km / 12 meses)",
     },
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 6.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
-      cadenaPasos: [
-        "Limpia la cadena con un trapo y limpiador específico para retenes.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión según el manual.",
+      "aceiteTipo": "10W-40 (JASO MA/MA2, API SG o superior)",
+      "cadenaPasos": [
+        "Apaga el motor y deja la transmisión en punto muerto; limpia la cadena de esta R125 pasando un trapo con limpiador apto para retenes por todo el ramal inferior",
+        "Aplica el lubricante por la cara interna girando despacio la rueda trasera con la mano, sin acercar los dedos a la corona de 48 dientes",
+        "Verifica el juego de la cadena siguiendo la medición que indica el manual del propietario para este modelo, sin dejarla más floja ni más apretada"
       ],
-      trucos: [
-        "Con 2,13 l/100 km, revisa el aceite cada 3.000 km.",
-        "Mantén la presión de los neumáticos al día.",
-      ],
+      "intervaloMantenimiento": "Cada 6.000 km o 12 meses",
+      "trucos": [
+        "Vigila el nivel de aceite con frecuencia: el cárter de la R125 solo alberga 1,15 litros, así que una bajada pequeña ya supone mucho porcentaje",
+        "Comprueba en frío las presiones de los Michelin Pilot Street, 100/80-17 delante y 140/70-17 detrás, porque la agilidad de esta deportiva se pierde enseguida si ruedan bajos"
+      ]
     },
   },
   {
