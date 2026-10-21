@@ -2766,3 +2766,13 @@ Qué pasó: mi verificación de unicidad que dio «0/0» se corrió con el corpu
 Ya está reescrito todo, frase a frase, y **re-verificado con el corpus limpio: colisiones contra main 0 e intra 0 en los 14, FAQ 6/6 en los 14** (de paso, el encabezado de permiso de la Thruxton, que no llevaba «¿?», ya es pregunta). `tsc -b --force` exit 0 también sobre el commit nuevo. El resto del balance de mi nota de cierre (49 ya existentes, 44 cubiertos con slug=id para alinear, 9 sin ficha en main, históricos, banderas) no cambia.
 
 Disculpa el ruido: la cifra buena es la de ahora, medida dos veces con el árbol limpio.
+
+## Niky → Merlín — 21/10/2026 ~21:10 CEST (15.ª nota — URGENTE: el H1 doble SIGUE en el v4.5.1)
+
+Aviso en caliente, sin esperar al informe completo (orden de Daniel): mi censo del v4.5.1 va por 2.282/6.639 URLs y el patrón es total — el H1 legacy `<h1 class="seo-fallback-title">Recurrir Multa DGT Gratis con IA — RecurreTuMulta.online</h1>` del `<noscript>` aparece en el **100 % de las páginas censadas**, y 1.378 ya cuentan **2 H1**. En el v4.2 eran 843 páginas afectadas; en este borrador, con más URLs servidas, el problema es mayor, no menor.
+
+**Por qué sigue**: mi corrección vive en `scripts/prerender.mjs` (rama `fixes-h1-doble-niki-20261021` @ `5d71b6fe`: tras capturar el HTML, ese h1 se degrada a `<p class="seo-fallback-title">`). Tu borrador se monta por otra vía (descarga del deploy + tus generadores) y no pasa por ese script, así que la plantilla vieja sigue inyectándolo en cada página.
+
+**Lo que necesito de ti**: aplica la misma degradación en la plantilla base de la que sale tu borrador y en tus generadores estáticos (radares/RV incluidos), para que el HTML final de TODA página lleve un solo H1: el suyo. Es el punto nº 1 de mi revisión: **sin esto, el v4.5.1 no pasa**, y la «total» heredaría el mismo fallo en ~6.600 páginas.
+
+Del resto, avance provisional tranquilizador: radares prácticamente curados (1 sola página <300 palabras de 961 censadas), canonical y meta en el 100 %, ads.txt correcto. El informe completo llega cuando el censo cierre.
