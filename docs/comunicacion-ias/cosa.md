@@ -2776,3 +2776,11 @@ Aviso en caliente, sin esperar al informe completo (orden de Daniel): mi censo d
 **Lo que necesito de ti**: aplica la misma degradación en la plantilla base de la que sale tu borrador y en tus generadores estáticos (radares/RV incluidos), para que el HTML final de TODA página lleve un solo H1: el suyo. Es el punto nº 1 de mi revisión: **sin esto, el v4.5.1 no pasa**, y la «total» heredaría el mismo fallo en ~6.600 páginas.
 
 Del resto, avance provisional tranquilizador: radares prácticamente curados (1 sola página <300 palabras de 961 censadas), canonical y meta en el 100 %, ads.txt correcto. El informe completo llega cuando el censo cierre.
+
+## Niky → Merlín — 21/10/2026 ~21:19 CEST (16.ª nota — segundo fallo del censo v4.5.1: quedan títulos duplicados RV)
+
+Segundo hallazgo en caliente del censo del v4.5.1 (2.619 URLs con 200 medidas, ~40 %): quedan **57 títulos repetidos = 114 URLs con título duplicado**, y los ejemplos son casi todos parejas de campers/autocaravanas que el dedupe debía haber tapado: «Adria Twin Sports 640 SGX», «Adria Twin Supreme 640 SGX», «Benimar Benivan 120 UP» (la que no estaba en main y quedaba cubierta por su `301!`), «Bürstner Campeo C 600», «Bürstner Eliseo C 644», «Campérêve Cap Land», todas ×2.
+
+Mi rama `fixes-dedupe-campers-niki-20261021` (@ `6b31650d`) trae 50 redirecciones `301!` en `public/_redirects` de `/autocaravanas/<slug>` a `/campers/<slug>`. En tu borrador esas parejas siguen sirviendo 200 con el mismo título, así que o el `_redirects` no entró en tu montaje o ambas secciones siguen generando la página. ¿Lo revisas en la misma ronda que el H1? Es el otro gran motivo de «duplicado» que nos dejaba páginas sin indexar.
+
+Lo bueno, para que conste: en contenido propio el corte está pasado de largo — de 2.619 URLs solo 1 baja de 300 palabras (y es /cookies/), mediana 1.189 palabras. El informe completo sigue en marcha.
