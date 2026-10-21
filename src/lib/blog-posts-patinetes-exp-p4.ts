@@ -2858,6 +2858,37 @@ Sin certificado DGT español verificado; homologado en Alemania a **20 km/h**. E
 
 <img src=/media/patinetes/egret-ey-6-3.webp alt=Egret Ey! 6 circulando por la ciudad>
 
+## Egret: el patinete alemán de Walberg en un mercado de clones
+
+Egret es la marca de **Walberg Urban Electrics**, una firma de Hamburgo que lleva años vendiendo patinetes premium cuando el mercado se llenó de clones baratos de especificación dudosa. Su planteamiento es el contrario al habitual: menos velocidad punta declarada y más ingeniería en lo que se usa a diario —suspensión, frenos, neumáticos e iluminación—. El Ey! 6 es el equilibrio de esa familia: el que suma la batería grande y el equipamiento completo sin irse al precio del tope de gama.
+
+## Los 55 km prometidos y los 37 reales: la cuenta de los vatios
+
+| Concepto | Dato |
+|---|---|
+| Batería | **551 Wh** (15,3 Ah) |
+| Autonomía declarada | 55 km |
+| Autonomía real estimada | **≈37 km** |
+| Carga completa | 9 horas |
+
+La diferencia no es un engaño de la marca, es física: la cifra declarada se mide a ritmo constante, con piloto ligero y sin viento. En uso mixto real —paradas, cuestas, frío, un piloto adulto— la propia ficha estima unos **37 km**, y es la cifra con la que debes planificar: con 551 Wh hay energía de sobra para el día a día urbano, siempre que la rutina de carga encaje con esas **9 horas** enchufado, es decir, carga nocturna o de jornada laboral.
+
+## Comodidad de verdad: suspensión en las dos ruedas
+
+El Ey! 6 es el único de su familia con **suspensión integral**, delantera y trasera, y se nota donde más duele: adoquines, juntas de dilatación y bordillos dejan de llegar secos a las muñecas. Los neumáticos **tubeless de 10 pulgadas con gel autosellante** reducen el pinchazo a anécdota y los **intermitentes en los extremos del manillar** —de serie, no un accesorio— resuelven el punto débil histórico de los patinetes: señalizar sin soltar las manos. El peaje es el peso: **21,6 kg** son muchos si tu rutina incluye subirlo a pulso a un tercero sin ascensor.
+
+## Mantenimiento: triple freno, gel y batería paciente
+
+El equipo de frenos combina **disco, tambor y freno electrónico**: redundancia que se agradece en mojado y que reparte el desgaste. El mantenimiento de un VMP es sencillo —presión de neumáticos, pastillas o zapatas, holguras de la dirección y plegado—, pero la batería manda en la longevidad: evitar guardarlo descargado o al 100 % durante semanas y cargarlo a temperatura ambiente alarga su vida más que cualquier otro gesto.
+
+## Normativa VMP: su punto débil es el certificado español
+
+El propio análisis del modelo lo deja claro: **no tiene certificado DGT español verificado** y está homologado en Alemania limitado a **20 km/h**. En España un VMP debe circular a un máximo de 25 km/h y nunca por la acera, y la <a href=https://www.dgt.es>DGT</a> exige su certificación conforme al manual de características técnicas para comercializarse. Traducción práctica: antes de comprarlo, exige al vendedor el certificado para España; sin él, el patinete puede darte un problema administrativo aunque mecánicamente sea impecable.
+
+## Rivales y veredicto: ¿merece la pena el Ey! 6?
+
+Dentro de su propia casa le gana la partida al Ey! 2: más batería —551 frente a 446 Wh— y cuesta **100 € menos**. **Veredicto:** por **799 €** merece la pena para el usuario que prioriza comodidad, autonomía real y seguridad activa, y acepta sus dos condiciones: los 20 km/h de la versión alemana y verificar el certificado antes de pagar. Si tu prioridad es la velocidad legal máxima de 25 km/h, mira rivales homologados en España en el comparador. Todos los datos, en la <a href=/patinetes/egret-ey-6/>ficha técnica del Egret Ey! 6</a>. Y entre trayecto y trayecto, prueba nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Egret Ey! 6?
@@ -2880,7 +2911,7 @@ El Ey! 6 tiene más batería (551 Wh frente a 446 Wh) y cuesta 100 € menos. Pa
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://www.digitec.ch/en/s1/product/egret-ey-6-e-scooter-20-kmh-55-km-450-w-e-scooters-standing-47502040>ficha del Ey! 6 en Digitec</a>.*`,
+*Fuentes: <a href=https://www.digitec.ch/en/s1/product/egret-ey-6-e-scooter-20-kmh-55-km-450-w-e-scooters-standing-47502040>ficha del Ey! 6 en Digitec</a>. Normativa oficial: <a href=https://www.dgt.es>DGT (vehículos de movilidad personal)</a>.*`,
   },
   {
     slug: "egret-ey-7",

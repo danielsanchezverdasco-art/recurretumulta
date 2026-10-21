@@ -452,6 +452,36 @@ Como eléctrico puro, le correspondería la etiqueta Cero.
 <p>Solkuno explica su sistema de conducción SDA Pilot:</p>
 <p><a href=https://www.youtube.com/watch?v=6bZpSholEgQ>Ver el sistema SDA Pilot del Nevo Q06 en YouTube (Solkuno)</a></p>
 
+## Nevo: la ofensiva eléctrica de Changan contra el Model Y
+
+Nevo es la enseña de vehículos de nueva energía de **Changan**, uno de los grandes grupos automovilísticos chinos; en su mercado doméstico, estos mismos coches se conocen como Qiyuan. El Q06, lanzado en **septiembre de 2026**, es su apuesta para el segmento más disputado del planeta: el SUV eléctrico familiar que domina el Tesla Model Y. Su estrategia no es el precio de derribo, sino el derroche tecnológico: Changan lo presenta con elementos que en Europa son exclusivos de coches que cuestan el triple.
+
+## 800 voltios y carga 6C: traducimos la jerga
+
+| Versión | Potencia | Batería |
+|---|---|---|
+| Tracción trasera | 225 kW (**306 CV**) | 63,18 kWh |
+| Tracción trasera | 245 kW | Hasta **80,02 kWh** |
+| 4WD | 330 kW (**449 CV**) | 0-100 en 4,8 s |
+
+La **carga 6C** significa que la batería admite una potencia de carga equivalente a seis veces su capacidad por hora: en la práctica, pasar del **30 al 80 % en 9 minutos** sobre la plataforma de **800 V**. Y ojo con la autonomía: los **700 km** declarados son en ciclo **CLTC**, la homologación china, sistemáticamente más optimista que la WLTP europea; en cifras europeas serían sensiblemente menos. Existe además una variante de autonomía extendida con **1.600 km totales** y 200 km eléctricos, pensada para quien no quiere depender de cargadores.
+
+## Espacio de familiar y trucos de picnic
+
+Con **4.837 mm** y una batalla de **2.940 mm**, el Q06 ofrece un maletero de **782 litros** y un frunk delantero de **196 litros** con desagüe, utilizable como nevera en escapadas. El **lidar de 256 líneas de serie** en toda la gama —algo que ni Tesla monta— alimenta su sistema de conducción asistida SDA Pilot y es, sobre el papel, su argumento más serio frente al Model Y.
+
+## ¿Llegará a Europa? Homologación, aranceles y red
+
+De momento, no: se vende solo en China y Changan estudia exportarlo. Si llega, su precio chino —desde **13,99万 yuanes, unos 18.200 €**— no será el europeo: la Unión Europea aplica derechos adicionales a los eléctricos fabricados en China, y a eso se sumarían homologación, transporte y la construcción de una red comercial y de posventa que hoy el grupo está empezando a desplegar en el continente. La historia reciente del sector enseña que el salto de precio entre China y Europa es la norma, no la excepción.
+
+## Mantenimiento de un eléctrico de 800 V: lo que se sabe
+
+Como todo eléctrico, elimina aceite, bujías y escapes, y la frenada regenerativa alarga la vida de las pastillas. La incógnita de un modelo así no es mecánica, es electrónica: lidar, pantallas y sistemas de asistencia exigen diagnóstico y calibración por la marca, algo imposible de garantizar sin red oficial en el país. Es el recordatorio habitual con los lanzamientos chinos: el coche puede ser excelente y, aun así, la compra espera a que exista quien lo mantenga.
+
+## Rivales y veredicto: ¿merece la pena el Nevo Q06?
+
+**Veredicto:** en China, el Q06 merece la pena como golpe sobre la mesa: 800 V, lidar de serie y hasta 449 CV por precios que en Europa serían de segmento inferior. Desde España, su papel hoy es el de escaparate: marca el listón que tendrán que saltar los SUV eléctricos que sí se venden aquí, empezando por el <a href=/coches/tesla-model-y-electrico-precio-ficha-tecnica/>Tesla Model Y</a>. Si te van los eléctricos chinos de altos vuelos, el <a href=/blog/nio-ec6-2026-precio-ficha-tecnica/>análisis del NIO EC6</a> es tu siguiente lectura. Todos los datos del Q06, en su <a href=/coches/nevo-q06-2026-precio-ficha-tecnica/>ficha técnica</a>. Y entre carga y carga, prueba nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Nevo Q06?
@@ -479,7 +509,8 @@ Como eléctrico puro, le correspondería la etiqueta Cero.
 - <a href=https://www.autonocion.com>Autonocion: el nuevo SUV eléctrico de Changan</a>
 
 <p>800 V y lidar de serie por 18.200 €: <a href=/comparador-coches/>compáralo con los SUV eléctricos que se venden en España</a>. Y si te llega una multa, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a>.</p>
-`,
+
+*Fuentes: web oficial de <a href=https://www.changan.com.cn>Changan</a> (casa matriz de Nevo) y normativa de la <a href=https://www.dgt.es>DGT</a>.*`,
     locale: "all",
   },
   {

@@ -8316,6 +8316,37 @@ Mantenimiento orientativo (modelo similar Caballero 700, misma marca): control d
 
 2 años de garantía legal (normativa UE).
 
+## Caballero: un nombre con medio siglo de barro
+
+Fantic es una marca italiana con el off-road en el ADN —trial y enduro han sido su casa histórica— y **Caballero** no es un nombre nuevo: es la saga con la que la firma se dio a conocer en los años setenta y que la propia ficha de este análisis fecha recuperada en **2017** con estética scrambler. La gama 125 actual aplica esa herencia al carnet de entrada: imagen retro por fuera, mecánica moderna y contenida por dentro. La Rally es su variante con ganas de salir del asfalto.
+
+## Qué hace Rally a esta Rally
+
+| Toque Rally | Para qué sirve |
+|---|---|
+| Llantas de **21 y 19 pulgadas** | Superar obstáculos y rodar por pista |
+| **ABS desconectable** | Poder bloquear la rueda trasera fuera del asfalto |
+| Protecciones específicas | Piedras, ramas y caídas tontas |
+| Asiento a **860 mm** | Postura de trail, con su peaje |
+
+La propia ficha sitúa estas novedades en la actualización 2025, con bastidor nuevo. La altura del asiento merece una advertencia honesta: 860 mm en una 125 es mucho asiento, y los pilotos de talla baja apoyarán la puntera del pie en las paradas. A cambio, los **130 kg en seco** la mantienen en el territorio de las motos que se levantan sin ayuda tras una caída en pista.
+
+## 15 CV: el techo legal del A1, bien aprovechado
+
+Su motor de **124,66 cc rinde 11 kW (15 CV) y 11,2 Nm**: exactamente el máximo que permite el carnet A1, y por tanto accesible también con el **permiso B con más de tres años de antigüedad**, como recuerda la <a href=https://www.dgt.es>DGT</a>. Eso define su uso real: ciudad sin esfuerzo, carreteras secundarias a ritmo alegre y pistas fáciles donde el peso manda más que la potencia. La autovía a fondo y el campo técnico serio quedan fuera del programa, y el propio análisis lo dice sin rodeos: es una trail de iniciación, no una enduro de competición.
+
+## Mantenimiento y garantía: lo que acompaña a la ficha
+
+Este análisis publica un plan de mantenimiento **orientativo** derivado del Caballero 700 de la misma marca —controles de aceite cada 1.000 km, cambio anual y revisiones escalonadas hasta los 40.000 km— y lo etiqueta como lo que es: una referencia, no el manual oficial de la 125. Tómalo así al presupuestar: una monocilíndrica de aire y aceite es mecánica sencilla, pero los intervalos definitivos son los del libro de mantenimiento que entregue la marca. La **garantía es de 2 años**, la legal en la UE. Y un ejercicio de transparencia que la propia ficha hace y conviene repetir: su precio de **5.990 € es de referencia no oficial** (Motofichas/Foromotos), no un PVP publicado por Fantic.
+
+## Rivales y veredicto: ¿merece la pena la Caballero 125 Rally?
+
+Su primera rival está en casa: la Caballero 125 Scrambler comparte base y estética con un enfoque más de asfalto. **Veredicto:** merece la pena si tu carnet es A1 o B, tu uso mezcla diario y pistas fáciles y la estética clásica te importa de verdad; no la merece si buscas campo serio —para eso, la XE 125 de dos tiempos de la misma casa— ni si mides poco y el asiento de 860 mm te va a amargar cada semáforo. Puedes contrastarla en la <a href=/motos/fantic-caballero-125-scrambler-2025-ficha-tecnica-precio/>ficha de la Caballero 125 Scrambler</a> y ver la suya en la <a href=/motos/fantic-caballero-125-rally-2025-ficha-tecnica-precio/>ficha técnica de la Caballero 125 Rally</a>. Y entre pista y pista, prueba nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+## Neumáticos mixtos: el compromiso que se nota cada día
+
+Una scrambler-trail vive de un compromiso: los neumáticos de tacos mixtos que la hacen creíble en pista vibran y se gastan antes en asfalto, y su agarre en mojado exige más respeto que el de una goma de carretera. Si tu uso real va a ser 90 % urbano, unas gomas más asfálticas te darán una moto más fina a diario; si las pistas son el plan de cada fin de semana, los tacos son los que te sacan del barro. Elegir bien esa primera goma vale más que cualquier accesorio del catálogo.
+
 ## Preguntas frecuentes
 
 ### ¿Se puede conducir la Caballero 125 Rally con carnet de coche?
@@ -8347,7 +8378,8 @@ Mantenimiento orientativo (modelo similar Caballero 700, misma marca): control d
 - <a href=/motos/fantic-xe-125-2025-ficha-tecnica-precio>Fantic XE 125 2T 2025</a>
 
 - <a href=/analizador/>Analizador de multas</a> — Antes de recurrir, analiza tu multa.
-`,
+
+*Fuentes: web oficial de <a href=https://www.fantic.com>Fantic Motor</a> y normativa de la <a href=https://www.dgt.es>DGT</a>.*`,
   },
   {
     slug: "fantic-caballero-500-rally-2025-precio-ficha-tecnica",
