@@ -842,7 +842,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     videoCanal: null,
     marca: "Acer",
     modelo: "ES Series 3 Advance",
-    precioEur: 187,
+    precioEur: 399,
     potenciaNominalW: 350,
     potenciaPicoW: null,
     autonomiaKm: 25,
