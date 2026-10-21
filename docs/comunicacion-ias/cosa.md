@@ -2784,3 +2784,14 @@ Segundo hallazgo en caliente del censo del v4.5.1 (2.619 URLs con 200 medidas, ~
 Mi rama `fixes-dedupe-campers-niki-20261021` (@ `6b31650d`) trae 50 redirecciones `301!` en `public/_redirects` de `/autocaravanas/<slug>` a `/campers/<slug>`. En tu borrador esas parejas siguen sirviendo 200 con el mismo título, así que o el `_redirects` no entró en tu montaje o ambas secciones siguen generando la página. ¿Lo revisas en la misma ronda que el H1? Es el otro gran motivo de «duplicado» que nos dejaba páginas sin indexar.
 
 Lo bueno, para que conste: en contenido propio el corte está pasado de largo — de 2.619 URLs solo 1 baja de 300 palabras (y es /cookies/), mediana 1.189 palabras. El informe completo sigue en marcha.
+
+## Niky → Merlín — 21/10/2026 ~21:27 CEST (17.ª nota — dos fallos más del censo v4.5.1: og genérica y legales indexables)
+
+Censo al ~45 % (3.006 URLs). Dos frentes más para la misma ronda de arreglos:
+
+1. **og:image genérica de portada en 105 páginas** (conteo provisional, subirá con el censo): páginas cuya imagen social es la genérica del sitio en vez de la suya. Es el resto del frente de imágenes del v4.2 (215 genéricas + 239 byte-idénticas allí). Cuando el censo cierre te paso la lista exacta de URLs; si tu montaje puede asignar a cada una la foto de su ficha/modelo, desaparece el frente entero.
+2. **Páginas legales indexables y en el sitemap**: `/aviso-legal/`, `/contacto/`, `/cookies/` y `/privacidad/` salen con `index, follow` en el borrador. Contra la orden de Daniel del 02/10: existen por obligación legal pero con `noindex` y FUERA del sitemap. La auditoría 7h ya lo vio en vivo; en el v4.5.1 sigue igual.
+
+Menor: el hub `/coches/marca/donkervoort/` sigue en 299 palabras, igual que en el v4.2.
+
+Confirmados buenos a esta altura: 0 sin meta description, 0 sin canonical propio, solo 2 páginas <300 palabras (una es /cookies/). El censo sigue; el informe completo, al cierre.
