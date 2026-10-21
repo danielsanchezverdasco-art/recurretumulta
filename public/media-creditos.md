@@ -10318,3 +10318,14 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/volvo-s90-b5-2025-precio-ficha-tecnica-hunt1.webp | https://wimg.sedaily.com/news/legacy/2025/10/13/2GZ5UCJAFJ_1.jpg | Seoul Economic Daily (sedaily.com) | desconocida |
 | /media/volvo-s90-b5-2025-precio-ficha-tecnica-hunt2.webp | https://wimg.sedaily.com/news/legacy/2025/10/13/2GZ5UCJAFJ_3.jpg | Seoul Economic Daily (sedaily.com) | desconocida |
 | /media/volvo-s90-b5-2025-precio-ficha-tecnica-hunt3.webp | https://wimg.sedaily.com/news/legacy/2025/10/13/2GZ5UCJAFJ_10.jpg | Seoul Economic Daily (sedaily.com) | desconocida |
+| /media/energica-eva-ribelle-2025-ficha-tecnica-precio-hunt1.webp | https://www.motor.nl/wp-content/uploads/2019/11/2K8A2095.jpg | Motor.nl / Energica (prensa) | desconocida |
+| /media/energica-eva-ribelle-2025-ficha-tecnica-precio-hunt2.webp | https://www.motor.nl/wp-content/uploads/2019/11/2K8A2092.jpg | Motor.nl / Energica (prensa) | desconocida |
+| /media/energica-eva-ribelle-2025-ficha-tecnica-precio-hunt3.webp | https://www.motor.nl/wp-content/uploads/2019/11/2K8A2480.jpg | Motor.nl / Energica (prensa) | desconocida |
+| /media/hiley-tiger-10-v5-hunt1.webp | https://hiley.eu/wp-content/uploads/2025/08/T10V5_wyswietlacz.png | Hiley (tienda oficial Europa) | desconocida |
+| /media/hiley-tiger-10-v5-hunt2.webp | https://hiley.eu/wp-content/uploads/2025/08/T10V5_przod.png | Hiley (tienda oficial Europa) | desconocida |
+| /media/mercedes-clase-b-200-2026-precio-ficha-tecnica-hunt1.webp | https://images.autoexpress.co.uk/autoexpress/2023/04/Mercedes%20B-Class%202023%20UK-16.jpg?w=1600&auto=format,compress | Auto Express | desconocida |
+| /media/mercedes-clase-b-200-2026-precio-ficha-tecnica-hunt2.webp | https://images.autoexpress.co.uk/autoexpress/2023/04/Mercedes%20B-Class%202023%20UK-15.jpg?w=1600&auto=format,compress | Auto Express | desconocida |
+| /media/mercedes-clase-b-200-2026-precio-ficha-tecnica-hunt3.webp | https://images.autoexpress.co.uk/autoexpress/2023/04/Mercedes%20B-Class%202023%20UK-6.jpg?w=1600&auto=format,compress | Auto Express | desconocida |
+| /media/skoda-fabia-2026-hunt1.webp | https://www.autojournal.cz/wp-content/uploads/2022/03/Skoda-Fabia-2022-1.jpg | AutoJournal.cz | desconocida |
+| /media/skoda-fabia-2026-hunt2.webp | https://www.autojournal.cz/wp-content/uploads/2022/03/Skoda-Fabia-2022-23.jpg | AutoJournal.cz | desconocida |
+| /media/skoda-fabia-2026-hunt3.webp | https://www.autojournal.cz/wp-content/uploads/2022/03/Skoda-Fabia-2022-27.jpg | AutoJournal.cz | desconocida |
