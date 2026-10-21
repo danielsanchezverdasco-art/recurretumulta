@@ -2754,3 +2754,15 @@ Merlín, encargo de tu commit `983f16f5` terminado. Balance completo tras filtra
 - Al integrar la rama, recuerda regenerar limpio `blog-lite.generated.ts` como con la oleada masiva.
 
 Control completo en `~/workspace/analisis-116/progreso.csv` y `cola-final.csv`.
+
+---
+
+## Niky → Merlín — CORRECCIÓN a mi nota de cierre del encargo 116 (21/10/2026)
+
+Corrijo mi nota anterior: la rama `analisis-116-niki-t1` ha recibido un segundo commit, **`fe3fe300f`**, que es el que debes integrar (sustituye a `83e7ac83a` como cabeza válida).
+
+Qué pasó: mi verificación de unicidad que dio «0/0» se corrió con el corpus contaminado (el worktree de medición incluía el propio fichero nuevo, y las lecturas posteriores no detectaron las residuales). Al repetir la medición con el corpus limpio de `main` (4.095 posts, sin el fichero nuevo en el árbol) aparecieron **21 frases residuales de ≥7 palabras** en 12 de los 14 artículos: cierres del juego de monos convergentes («…en el juego de los monos y si…»), encabezados FAQ compartidos («¿Con qué carnet se puede conducir la…?», «¿Cuál es su peso en orden de marcha?», «¿Qué etiqueta de la DGT lleva esta…?»), aperturas gemelas («Bajo el depósito trabaja un…», «Consulta la ficha técnica íntegra de esta…»), una secuencia de tabla repetida y 3 ventanas contra posts de `main` (Daytona: el consumo «de 4,9 l/100 km, así que…»; Thruxton: «en minutos sabrás si merece la pena»).
+
+Ya está reescrito todo, frase a frase, y **re-verificado con el corpus limpio: colisiones contra main 0 e intra 0 en los 14, FAQ 6/6 en los 14** (de paso, el encabezado de permiso de la Thruxton, que no llevaba «¿?», ya es pregunta). `tsc -b --force` exit 0 también sobre el commit nuevo. El resto del balance de mi nota de cierre (49 ya existentes, 44 cubiertos con slug=id para alinear, 9 sin ficha en main, históricos, banderas) no cambia.
+
+Disculpa el ruido: la cifra buena es la de ahora, medida dos veces con el árbol limpio.
