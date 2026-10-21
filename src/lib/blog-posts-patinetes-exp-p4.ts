@@ -652,6 +652,42 @@ Sin certificado DGT verificado. Sus **~34 km/h** de punta obligan a **limitarlo 
 
 <img src=/media/patinetes/aovopro-esmax-3.webp alt=Aovopro ESMAX circulando por la ciudad>
 
+## Aovopro en el segmento urbano: una marca de precio contenido
+
+Aovopro juega en la liga del patinete urbano asequible: venta por Amazon e importadores, sin PVP oficial en España. Es su tope de gama, el salto lógico si vienes de un ES80. La contrapartida, según su ficha: el soporte budget puede ser irregular, así que conviene comprar donde la garantía quede clara. Todos sus datos están en la <a href=/patinetes/aovopro-esmax/>ficha del Aovopro ESMAX</a>.
+
+## Qué aportan sus 500 W y 609 Wh sobre el papel
+
+| Dato | Aovopro ESMAX | Xiaomi Electric Scooter 5 | Segway-Ninebot Max G2 E |
+|---|---|---|---|
+| **Motor** | 500 W | 350 W | 450 W |
+| **Batería** | 609 Wh | 477 Wh | 551 Wh |
+| **Autonomía declarada** | 43 km | 60 km | 70 km |
+| **Autonomía real estimada** | ≈29 km | 40 km | 45 km |
+| **Carga** | 7 h | 9 h | 6 h |
+| **Peso** | Sin dato oficial | 20,1 kg | 24,3 kg |
+| **Certificado DGT en ficha** | Sin verificar | Sí | Sí |
+
+El ESMAX gana en potencia, pero no en autonomía real frente a esos rivales, certificados además. Puedes repasarlos en la <a href=/patinetes/xiaomi-electric-scooter-5/>ficha del Xiaomi Electric Scooter 5</a> y en la <a href=/patinetes/segway-ninebot-max-g2/>ficha del Segway-Ninebot Max G2 E</a>.
+
+## En ciudad, día a día: dónde rinde y dónde se queda corto
+
+En el día a día rinde por confort: la cuádruple suspensión filtra los baches y los neumáticos autosellantes de 10 pulgadas reducen el miedo al pinchazo. Pero frente a los **43 km** anunciados, su ficha estima **≈29 km** reales —el análisis habla de **25-30 km**—, menos aún con pendientes, frío o un conductor pesado. Y dos limitaciones pesan: el fabricante no publica el peso oficial, así que no se puede prometer que sea cómodo de subir a pulso, y la carga tarda **7 horas**.
+
+## Cuidados básicos: neumáticos, frenos y batería
+
+El mantenimiento que recogen manual y ficha no necesita cifras inventadas: revisar tornillería y estado general antes de cada uso y limpiar con un paño húmedo, sin agua a presión. El freno de tambor exige poco mantenimiento y el sellante cubre la mayoría de pinchazos, sin sustituir la revisión de los neumáticos. Con la batería: cargarla incluso sin usar el patinete, al menos cada 30-60 días, con el cargador original, evitando la descarga completa y guardándolo en un lugar seco y fresco. La app Aovopro añade bloqueo, modos de velocidad, luces, crucero y diagnóstico.
+
+## Qué exige la DGT a un VMP en España
+
+Según la <a href=https://www.dgt.es/comunicacion/notas-de-prensa/publicado-el-manual-de-caracteristicas-tecnicas-de-los-vehiculos-de-movilidad-personal/>nota de la DGT sobre el manual de características de los VMP</a>, todo VMP comercializado desde el **22 de enero de 2024** debe ser un modelo certificado, y los vendidos hasta esa fecha podrán circular hasta el **22 de enero de 2027** sin certificado. Un VMP es un vehículo de una sola plaza, con motor eléctrico y velocidad entre 6 y **25 km/h**; está prohibido circular por aceras y el casco depende de la ordenanza municipal. Aplicado al ESMAX, sin certificado verificado en su ficha y con unos 34 km/h de punta: si el ejemplar no constara en el listado de certificados de la DGT, habría que limitarlo a 25 km/h sin dar la certificación por hecho.
+
+## Frente a sus rivales y veredicto final
+
+Si entre trayecto y trayecto quieres desconectar, en esta web tienes el <a href=/juego-monos/>juego caza-monos</a> para buscar los monos escondidos. Volviendo al patinete, el ESMAX da más vatios y mejor suspensión por 300-400 € de mercado, pero pierde en autonomía real, peso conocido y certificación.
+
+**Veredicto:** merece la pena si priorizas potencia, confort y neumáticos autosellantes para trayectos de 25-30 km reales, aceptando el soporte irregular del importador. No es para ti si necesitas la certificación DGT acreditada, si vas a cargarlo a pulso sin conocer su peso oficial o si exiges más autonomía real: ahí, los rivales certificados son más seguros.
+
 ## Preguntas frecuentes
 
 ### ¿Qué diferencia hay con el Aovopro ES80?
@@ -676,7 +712,7 @@ Si haces más de 15 km al día o pesas más de 80 kg, sí: el ES80 se queda cort
 
 **Cómo verificamos:** especificaciones del manual oficial de Aovopro (500 W, 42 V 14,5 Ah, 43 km, 7 h de carga) contrastadas con la review de HoverboardsGuide y la ficha del distribuidor Aovo. Sin PVP oficial en España: el rango 300-400 € es de mercado, no oficial.
 
-*Fuentes: <a href=https://www.aovo.hu/en/products/aovo-esmax-elektromos-roller>ficha del distribuidor Aovo</a> y <a href=https://hoverboardsguide.com/aovopro-electric-scooter-review/>análisis en HoverboardsGuide</a>.*`,
+*Fuentes: <a href=https://www.aovo.hu/en/products/aovo-esmax-elektromos-roller>ficha del distribuidor Aovo</a> y <a href=https://hoverboardsguide.com/aovopro-electric-scooter-review/>análisis en HoverboardsGuide</a>y <a href=https://www.dgt.es/comunicacion/notas-de-prensa/publicado-el-manual-de-caracteristicas-tecnicas-de-los-vehiculos-de-movilidad-personal/>nota de la DGT sobre el manual de características de los VMP</a>*`,
   },
   {
     slug: "aovopro-365-go",

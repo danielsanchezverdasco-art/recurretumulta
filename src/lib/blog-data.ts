@@ -895,14 +895,41 @@ Barcelona tiene un sistema complejo de zonas de aparcamiento regulado (Àrea de 
 | DGT | B-10, B-20, B-23, AP-7, C-32 y accesos | Jefatura Provincial de Tráfico de Barcelona |
 | AMB | Vías metropolitanas fuera de Barcelona | Municipio correspondiente |
 
-
 ## También te puede interesar
 
 - <a href=/blog/multa-trafico-madrid-recurrir/>cómo recurrir una multa de tráfico en Madrid</a>
 - <a href=/blog/multa-trafico-policia-local-recurrir/>recurso contra multas de la Policía Local</a>
 - <a href=/blog/zonas-bajas-emisiones-espana-turistas-extranjeros/>guía de ZBE en España para turistas</a>
 
+## Antes de recurrir: identifica quién te sanciona en Barcelona
 
+En Barcelona conviven varias administraciones y la notificación manda: en su encabezado constan el organismo que denuncia, el expediente y el registro al que dirigirte. Si la denuncia es de la Guàrdia Urbana por una vía urbana, tramita el Ajuntament en su sede electrónica. Si procede de vías interurbanas o metropolitanas, puede intervenir la DGT o el municipio correspondiente.
+
+## Plazos en Barcelona: pagar con descuento o alegar, pero no ambas cosas
+
+La normativa estatal —DGT y texto refundido de la Ley de Tráfico en el BOE— plantea una elección clara. Tienes **20 días naturales** desde el día siguiente a la notificación para pagar con una **reducción del 50 %** o para formular alegaciones. Si pagas con reducción, renuncias a alegar: las alegaciones posteriores se tendrán por no presentadas. Si alegas, pierdes el descuento y, si se desestima tu recurso, pagarás el 100 %.
+
+| Opción en plazo voluntario | Plazo | Qué pagas | Efecto principal |
+|---|---|---|---|
+| Pago voluntario con reducción | 20 días naturales | 50 % del importe | Renuncias a alegar y el procedimiento termina |
+| Presentar alegaciones | 20 días naturales | Nada en ese momento | Pierdes el descuento; si se desestima, pagas el 100 % |
+| Identificar a otro conductor | 20 días naturales desde el requerimiento | Nada en ese momento | El procedimiento se dirige contra la persona identificada |
+
+## Identificar al conductor y presentar alegaciones, paso a paso
+
+Si no conducías tú, responde primero al requerimiento de identificación: aporta nombre, apellidos, documento de identidad, número de permiso y domicilio de quien conducía, en el plazo indicado. Después presenta las alegaciones en este orden: cita el expediente, explica el hecho que discutes, aporta la prueba —fotografías de la señalización, tique de aparcamiento, justificante de exención o documento del vehículo— y pide la anulación o el archivo. Entrega todo por la sede que indique la notificación y descarga el resguardo. Antes de decidir, contrasta tu caso en el <a href=/#analizador>analizador gratuito de multas</a> y revisa la <a href=/guias/vicios-forma/>guía de vicios de forma</a> para detectar defectos en la notificación.
+
+## Errores frecuentes que echan a perder un recurso en Barcelona
+
+El fallo más habitual es pagar con el 50 % y recurrir después, cuando la ley ya tiene esas alegaciones por no presentadas. Le siguen recurrir ante el organismo equivocado, contar solo días laborables y dejar pasar los 20 días naturales, no identificar al conductor cuando había requerimiento expreso y alegar sin prueba: decir «la señal no se veía» sin fotografía suele pesar poco. Entre recurso y recurso, tómate un minuto con el <a href=/juego-monos/>juego caza-monos</a>, pero que el descanso no te coma el plazo.
+
+## Si no pagas ni recurres: recargo, vía ejecutiva y embargo
+
+Ignorar la multa no la hace desaparecer. La ayuda de la sede del Ajuntament de Barcelona distingue el pago en periodo voluntario del de periodo ejecutivo, «con recargo e intereses, si fuera el caso», y advierte de que cuando la situación es «EMBARGO» ya no se puede generar esa copia. La deuda puede encarecerse y acabar en embargo si sigue sin atenderse. Si crees que ha prescrito, contrástalo con la <a href=/guias/prescripcion/>guía de prescripción de multas</a> antes de darlo por hecho.
+
+## Veredicto: cuándo compensa recurrir y cuándo pagar con descuento
+
+**Veredicto:** compensa recurrir cuando tienes un defecto o una prueba comprobable —matrícula mal leída, señalización contradictoria, exención aplicable, conductor distinto identificado en plazo o notificación defectuosa— y asumes que, si pierdes, pagarás el 100 %. Compensa pagar con el 50 % cuando el hecho es correcto y no tienes prueba en contra: cerrar el expediente por la mitad suele ser lo más barato y rápido. Lo que nunca compensa es no hacer nada en 20 días: pierdes el descuento y la oportunidad de alegar.
 
 ## Preguntas frecuentes
 
@@ -921,8 +948,9 @@ Los errores de lectura de matrícula por las cámaras son frecuentes con matríc
 ### ¿Qué hago si la zona de aparcamiento no estaba clara?
 Las multas de aparcamiento regulado son recurribles cuando la señalización del tipo de zona no era clara, el parquímetro estaba averiado o había discrepancia entre la señalización vertical y las marcas en el suelo.
 
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito de multas</a> antes de pagar.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito de multas</a> antes de pagar.`,
+*Fuentes: DGT (dgt.es) — qué hacer si has recibido una multa, periodo voluntario de 20 días naturales y reducción del 50 %; BOE (boe.es) — texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, arts. 93 a 95; Ajuntament de Barcelona, sede electrónica (ajuntament.barcelona.cat) — documento de pago de multas en periodo voluntario y ejecutivo, con recargo e intereses y situación de embargo.*`,
   },
   {
     slug: "multa-sin-cinturon-seguridad-recurrir",
