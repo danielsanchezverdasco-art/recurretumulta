@@ -118,70 +118,7 @@ Sí: el Atto 2 DM-i lidera las ventas de PHEV en España en 2026.
     "readTime": 5,
     "locale": "all",
     "keywords": ["BYD Sealion 05 DM-i", "Sealion 05 ficha técnica", "BYD Sealion 05 autonomía", "híbrido enchufable 2000 km", "BYD Sealion 05 precio", "Sealion 05 Europa"],
-    "content": `<img src=/media/byd-sealion-05-dm-i-2025-precio-ficha-tecnica-hero.webp alt=BYD Sealion 05 DM-i blanco en estudio>
-
-**¿Buscas solo los datos?** <a href=/coches/byd-sealion-05-dm-i-2025-precio-ficha-tecnica/>Ver la ficha técnica del BYD Sealion 05 DM-i</a>: autonomía, batería y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
-
-El **BYD Sealion 05 DM-i** es el híbrido enchufable con más autonomía del mundo: hasta **305 km en modo eléctrico** y **2.105 km de autonomía combinada** según el ciclo chino. Un SUV de **4,62 metros** con maletero de **650 litros** que en China cuesta entre **14.360 y 18.760 €**. El problema: de momento, solo se vende allí.
-
-## Ficha técnica resumida
-
-| Concepto | Dato |
-|---|---|
-| Precio | 14.360 - 18.760 € (solo China) |
-| Sistema | 1.5 gasolina (99 CV) + eléctrico (161 CV) |
-| Batería | 26,6 / 34,3 kWh (LFP Blade) |
-| Autonomía eléctrica | 220 / 305 km (CLTC) |
-| Autonomía total | 2.105 km (CLTC) |
-| Consumo | 3,1 l/100 km |
-| Maletero | 650 litros |
-| Medidas | 4.620 x 1.860 x 1.630 mm |
-| Batalla | 2.770 mm |
-| Tracción | Delantera |
-
-<a href=/coches/byd-sealion-05-dm-i-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del Sealion 05 DM-i</a>
-
-## La receta: batería grande y motor eficiente
-
-El Sealion 05 DM-i lleva la filosofía PHEV al extremo: en vez de una batería testimonial, monta **26,6 o 34,3 kWh**, cifras de eléctrico puro hace cinco años. Con la grande recorre **305 km sin gasolina** en ciclo CLTC (en WLTP serían unos 230-250 km reales). El 1.5 atmosférico de 99 CV actúa como generador eficiente y el consumo en modo híbrido es de solo **3,1 l/100 km**.
-
-Es, en la práctica, un eléctrico para el día a día y un híbrido para viajar: la combinación que muchos compradores piden y pocas marcas ofrecen a este precio.
-
-<img src=/media/byd-sealion-05-dm-i-2025-precio-ficha-tecnica-interior.webp alt=Interior del BYD Sealion 05 DM-i>
-
-## Un SUV familiar de verdad
-
-Con **4,62 metros** y **2.770 mm de batalla**, el Sealion 05 juega en la liga del Toyota RAV4 o el Hyundai Tucson, pero su maletero de **650 litros** los supera a todos. El interior sigue el lenguaje Ocean de BYD: pantalla giratoria, materiales correctos y mucho espacio en las plazas traseras.
-
-## ¿Llegará a Europa?
-
-BYD no ha confirmado su llegada. La marca ya cubre el segmento en Europa con el **Sealion 7** (eléctrico) y el **Seal U DM-i** (híbrido enchufable), así que el 05 podría quedar como modelo exclusivo chino. Si llegara con un precio en torno a los 35.000 €, reventaría el segmento de los PHEV familiares.
-
-<img src=/media/byd-sealion-05-dm-i-2025-precio-ficha-tecnica-oficial.webp alt=BYD Sealion 05 DM-i vista tres cuartos>
-
-## Preguntas frecuentes
-
-### ¿Qué autonomía tiene el Sealion 05 DM-i?
-Hasta 305 km eléctricos (CLTC) y 2.105 km combinados con la batería de 34,3 kWh.
-
-### ¿Se vende en España?
-No: de momento solo se comercializa en China.
-
-### ¿Cuánto cuesta?
-Entre 14.360 y 18.760 € al cambio en China.
-
-### ¿Qué maletero tiene?
-650 litros, uno de los mayores de su categoría.
-
-### ¿Qué consumo homologa?
-3,1 l/100 km en modo híbrido.
-
-### ¿Llegará a Europa?
-BYD no lo ha confirmado; en Europa su hueco lo cubren el Seal U DM-i y el Sealion 7.
-
-*Fuentes: <a href=https://www.byd.com>BYD oficial</a>, prensa especializada china*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
+    "content": `<img src=/media/byd-sealion-05-dm-i-2025-precio-ficha-tecnica-hero.webp alt=BYD Sealion 05 DM-i blanco en estudio>\n\n**¿Buscas solo los datos?** <a href=/coches/byd-sealion-05-dm-i-2025-precio-ficha-tecnica/>Ver la ficha técnica del BYD Sealion 05 DM-i</a>: autonomía, batería y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.\n\nEl **BYD Sealion 05 DM-i** es el híbrido enchufable con más autonomía del mundo: hasta **305 km en modo eléctrico** y **2.105 km de autonomía combinada** según el ciclo chino. Un SUV de **4,62 metros** con maletero de **650 litros** que en China cuesta entre **14.360 y 18.760 €**. El problema: de momento, solo se vende allí.\n\n## Ficha técnica resumida\n\n| Concepto | Dato |\n|---|---|\n| Precio | 14.360 - 18.760 € (solo China) |\n| Sistema | 1.5 gasolina (99 CV) + eléctrico (161 CV) |\n| Batería | 26,6 / 34,3 kWh (LFP Blade) |\n| Autonomía eléctrica | 220 / 305 km (CLTC) |\n| Autonomía total | 2.105 km (CLTC) |\n| Consumo | 3,1 l/100 km |\n| Maletero | 650 litros |\n| Medidas | 4.620 x 1.860 x 1.630 mm |\n| Batalla | 2.770 mm |\n| Tracción | Delantera |\n\n<a href=/coches/byd-sealion-05-dm-i-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del Sealion 05 DM-i</a>\n\n## La receta: batería grande y motor eficiente\n\nEl Sealion 05 DM-i lleva la filosofía PHEV al extremo: en vez de una batería testimonial, monta **26,6 o 34,3 kWh**, cifras de eléctrico puro hace cinco años. Con la grande recorre **305 km sin gasolina** en ciclo CLTC (en WLTP serían unos 230-250 km reales). El 1.5 atmosférico de 99 CV actúa como generador eficiente y el consumo en modo híbrido es de solo **3,1 l/100 km**.\n\nEs, en la práctica, un eléctrico para el día a día y un híbrido para viajar: la combinación que muchos compradores piden y pocas marcas ofrecen a este precio.\n\n<img src=/media/byd-sealion-05-dm-i-2025-precio-ficha-tecnica-interior.webp alt=Interior del BYD Sealion 05 DM-i>\n\n## Un SUV familiar de verdad\n\nCon **4,62 metros** y **2.770 mm de batalla**, el Sealion 05 juega en la liga del Toyota RAV4 o el Hyundai Tucson, pero su maletero de **650 litros** los supera a todos. El interior sigue el lenguaje Ocean de BYD: pantalla giratoria, materiales correctos y mucho espacio en las plazas traseras.\n\n## ¿Llegará a Europa?\n\nBYD no ha confirmado su llegada. La marca ya cubre el segmento en Europa con el **Sealion 7** (eléctrico) y el **Seal U DM-i** (híbrido enchufable), así que el 05 podría quedar como modelo exclusivo chino. Si llegara con un precio en torno a los 35.000 €, reventaría el segmento de los PHEV familiares.\n\n<img src=/media/byd-sealion-05-dm-i-2025-precio-ficha-tecnica-oficial.webp alt=BYD Sealion 05 DM-i vista tres cuartos>\n\n## Un Sealion de la familia Ocean que BYD reserva para China\n\nEl apellido Sealion agrupa a los SUV de la línea Ocean de BYD, reconocible en este 05 por la pantalla giratoria del análisis principal. La diferencia es comercial: el Sealion 7 eléctrico y el Seal U DM-i son los elegidos para Europa, y el 05 DM-i se ha quedado como producto chino, donde se vende entre 14.360 y 18.760 € al cambio: cifras de un coche real, medidas con las reglas de otro mercado.\n\n## La técnica DM-i, dato a dato y con el ciclo bien rotulado\n\nLa clave no es la potencia, sino el tamaño de la batería. Cada cifra puede comprobarse en <a href=/coches/byd-sealion-05-dm-i-2025-precio-ficha-tecnica/>la ficha completa del Sealion 05 DM-i con sus pros, sus contras y su plan de mantenimiento</a>.\n\n| Dato | Sealion 05 DM-i |\n|---|---|\n| Motor de gasolina | 1.5 atmosférico de 99 CV |\n| Motor eléctrico | 161 CV |\n| Potencia recogida en la ficha | 197 CV, marcada como aproximada |\n| Batería | LFP Blade de 26,6 o 34,3 kWh |\n| Autonomía eléctrica | 220 o 305 km, ciclo CLTC |\n| Autonomía combinada | 2.105 km, ciclo CLTC |\n| Aceleración 0 a 100 km/h | 8,6 s, dato aproximado de la ficha |\n| Consumo en modo híbrido | 3,1 l/100 km |\n| Maletero y plazas | 650 litros y 5 plazas |\n| Tracción | Delantera |\n\nTodas las autonomías son **CLTC**: el ciclo chino, más generoso que el europeo. El análisis principal traduce los 305 km eléctricos a unos 230-250 km WLTP, y es una estimación, no una homologación: no existe cifra WLTP porque el modelo no se ha homologado en Europa.\n\n## Uso real: eléctrico entre semana, de viaje sin planificar cargas\n\nCargando en casa, la batería de 34,3 kWh cambia el uso cotidiano de un enchufable: los trayectos diarios caben en modo eléctrico y la gasolina queda para los viajes largos. Los 650 litros y los 2.770 mm de batalla lo hacen, sobre el papel, un familiar convincente.\n\nLas limitaciones son igual de claras: tracción solo delantera, potencia de carga no publicada en la ficha —no debe darse por hecho que cargue como un eléctrico puro— y, sobre todo, que hoy no puedes comprarlo en España ni mantenerlo en una red oficial aquí.\n\n## Mantenimiento y garantía: lo verificable y lo no publicado\n\nLa ficha recoge revisiones cada **12 meses o 20.000 km**: aceite y su filtro, filtro de polen y revisión del sistema híbrido. Es el estándar atribuido a BYD para un modelo no comercializado en España, y su coste figura como no publicado: dar una cifra concreta sería inventarla. Sí consta la batería: **8 años o 200.000 km** con degradación de referencia del 70 %, datos marcados como aproximados en la ficha.\n\n## Etiqueta DGT, ITV y seguridad: el vacío de un coche sin homologación europea\n\nLa ficha deja la etiqueta DGT en blanco, y es lo correcto: sin homologación europea no hay distintivo asignado, por mucho que recuerde a modelos con etiqueta Cero. Tampoco hay ITV aplicable a un coche que no se matricula aquí por el canal oficial. Y Euro NCAP no lo ha probado, como la ficha dice expresamente: no tiene estrellas, tiene un expediente vacío.\n\n## Frente a los PHEV que sí puedes comprar aquí\n\nEl <a href=/coches/byd-seal-u-dm-i-precio-ficha-tecnica/>Seal U DM-i que BYD sí vende en España</a> parte de 34.240 € con 218 CV, 18 kWh, 80 km eléctricos y 425 litros, con etiqueta Cero. El <a href=/coches/toyota-rav4-phev-2026-precio-ficha-tecnica/>Toyota RAV4 PHEV 2026 de nuestra comparativa</a> sube a 46.500 €, 268 CV, 100 km eléctricos con 22,7 kWh y 446 litros. Y el <a href=/coches/byd-sealion-7-2025-precio-ficha-tecnica/>Sealion 7 eléctrico que BYD ofrece en Europa</a> parte de 47.990 € con 313 CV y 482 km. En autonomía eléctrica y maletero el 05 gana a todos; en poder firmar la compra, pierde contra todos. Mientras BYD decide si lo trae, la espera se pasa mejor buscando los monos escondidos en <a href=/juego-monos/>el caza-monos dedicado a cazar entre SUV como este Sealion 05</a>.\n\n**Veredicto:** ¿merece la pena el Sealion 05 DM-i? Como demostración de hacia dónde va el enchufable, sí: batería grande, consumo bajo y precio chino imbatible. ¿Para quién sí? Para quien viva en China o para el español paciente que lo vigile por si BYD lo homologa algún día. ¿Para quién no? Para quien necesite hoy un PHEV familiar en España: su compra real es el Seal U DM-i o un RAV4 PHEV.\n\n## Preguntas frecuentes\n\n### ¿Qué autonomía tiene el Sealion 05 DM-i?\nHasta 305 km eléctricos (CLTC) y 2.105 km combinados con la batería de 34,3 kWh.\n\n### ¿Se vende en España?\nNo: de momento solo se comercializa en China.\n\n### ¿Cuánto cuesta?\nEntre 14.360 y 18.760 € al cambio en China.\n\n### ¿Qué maletero tiene?\n650 litros, uno de los mayores de su categoría.\n\n### ¿Qué consumo homologa?\n3,1 l/100 km en modo híbrido.\n\n### ¿Llegará a Europa?\nBYD no lo ha confirmado; en Europa su hueco lo cubren el Seal U DM-i y el Sealion 7.\n\n*Fuentes: <a href=https://www.byd.com>BYD oficial</a>, prensa especializada china*\n\n**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
   },
   {
     "title": "BYD Qin L DM-i: berlina híbrida eficiente",
