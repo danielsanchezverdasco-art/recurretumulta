@@ -8,7 +8,7 @@ import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 import EtiquetaDGT from "@/components/EtiquetaDGT.tsx";
 import {
-  COCHES_COMPARADOR,
+  COCHES_PUBLICADOS,
   type CocheComparador,
 } from "@/lib/comparador-coches-data.ts";
 import CosaEnBanner from "@/components/CosaEnBanner.tsx";
@@ -147,8 +147,10 @@ function patineteACard(p: PatineteComparador): FichaCard {
   };
 }
 
+// Contadores (pestañas, titular y title) derivan de TODAS: solo fichas con
+// página propia publicada (sin 301 forzado), el mismo recuento que el sitemap.
 const TODAS: FichaCard[] = [
-  ...COCHES_COMPARADOR.map(cocheACard),
+  ...COCHES_PUBLICADOS.map(cocheACard),
   ...MOTOS_PUBLICADAS.map(motoACard),
   ...PATINETES_PUBLICADOS.map(patineteACard),
 ];
@@ -334,7 +336,7 @@ const jsonLd = {
 
 export default function FichasTecnicasPage() {
   useSeo({
-    title: "Fichas técnicas: coches, motos y patinetes",
+    title: `Fichas técnicas 2026: ${TODAS.length.toLocaleString("es-ES")} coches, motos y patinetes`,
     description:
       "Todas las fichas técnicas en un solo lugar: busca por marca y modelo, filtra por precio, autonomía y etiqueta DGT, y abre la ficha completa con datos verificados.",
     canonical: "/fichas-tecnicas",
