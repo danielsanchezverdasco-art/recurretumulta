@@ -10207,3 +10207,14 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/toyota-c-hr-140h-hunt1.webp | https://www.actualidadmotor.com/wp-content/uploads/2023/11/prueba-toyota-c-hr-5.jpg | Toyota / ActualidadMotor | desconocida |
 | /media/toyota-c-hr-140h-hunt2.webp | https://www.actualidadmotor.com/wp-content/uploads/2023/11/prueba-toyota-c-hr-2.jpg | Toyota / ActualidadMotor | desconocida |
 | /media/toyota-c-hr-140h-hunt3.webp | https://www.actualidadmotor.com/wp-content/uploads/2023/11/prueba-toyota-c-hr-24.jpg | Toyota / ActualidadMotor | desconocida |
+| /media/bmw-serie-8-840i-gc-2026-precio-ficha-tecnica-hunt1.webp | https://upload.wikimedia.org/wikipedia/commons/a/ae/BMW_840i_Gran_Coup%C3%A9_M_Sport_%28G16%29_front.jpg | Tokumeigakarinoaoshima / Wikimedia Commons | CC BY-SA 4.0 |
+| /media/bmw-serie-8-840i-gc-2026-precio-ficha-tecnica-hunt2.webp | https://upload.wikimedia.org/wikipedia/commons/c/ce/BMW_840i_Gran_Coup%C3%A9_M_Sport_%28G16%29_rear.jpg | Tokumeigakarinoaoshima / Wikimedia Commons | CC BY-SA 4.0 |
+| /media/bmw-serie-8-840i-gc-2026-precio-ficha-tecnica-hunt3.webp | https://upload.wikimedia.org/wikipedia/commons/a/a9/BMW_840i_Gran_Coupe_%28G16%29_Washington_DC_Metro_Area%2C_USA.jpg | OWS Photography / Wikimedia Commons | CC BY 4.0 |
+| /media/horwin-ek3-2026-ficha-tecnica-precio-hunt1.webp | https://cartown.co.nz/assets/Uploads/Gallery/ek3-02_sliderImage.jpg | CarTown NZ / Horwin | desconocida |
+| /media/horwin-ek3-2026-ficha-tecnica-precio-hunt2.webp | https://www.bikeit.gr/media/k2/galleries/36349/horwin_ek3_review_23.jpg | Bikeit.gr (prueba Horwin EK3) | desconocida |
+| /media/horwin-ek3-2026-ficha-tecnica-precio-hunt3.webp | https://www.horwin.eu/wp-content/uploads/EK_Display-1-1200x750.jpg | Horwin Europa (horwin.eu) | desconocida |
+| /media/joyor-y6s-hunt1.webp | https://joyorescooter.com/cdn/shop/files/joyor-y6-s-black-4.jpg?v=1742883775&width=1080 | Joyor (tienda oficial) — render oficial de producto | desconocida |
+| /media/joyor-y6s-hunt2.webp | https://joyorescooter.com/cdn/shop/files/joyor-y6-s-black-3.jpg?v=1742883775&width=1080 | Joyor (tienda oficial) — render oficial de producto | desconocida |
+| /media/seat-arona-10-tsi-hunt1.webp | https://api2.pedal.ir/media/wp-content-uploads-2021-04-Seat-Arona-2022-1024-03-68618b7fe3eb8e5af3d62fcc?w=1680&q=80 | SEAT (foto de prensa) / NetCarShow | desconocida |
+| /media/seat-arona-10-tsi-hunt2.webp | https://traction.gr/wp-content/uploads/2024/02/seat-arona-fr4.jpg | SEAT (foto de prensa) / TractioN | desconocida |
+| /media/seat-arona-10-tsi-hunt3.webp | http://laguiadelmotor.net/wp-content/uploads/2022/12/Arona-02_Guia_del_Motor.jpg | SEAT (foto de prensa) / La Guía del Motor | desconocida |
