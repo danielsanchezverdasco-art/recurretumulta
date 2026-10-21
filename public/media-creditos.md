@@ -9561,3 +9561,14 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/piaggio-beverly-310-2026-ficha-tecnica-precio-hunt3.webp | https://moto.motorionline.com/wp-content/uploads/2025/07/Beverly-310-HPE-16.jpg | Motorionline | desconocida |
 | /media/vmax-vx2-pro-hunt1.webp | https://electricscooterguide.com/wp-content/uploads/2024/10/vx2-pro-longterm-4-1024x771.jpg | Electric Scooter Guide | desconocida |
 | /media/vmax-vx2-pro-hunt2.webp | https://electricscooterguide.com/wp-content/uploads/2024/10/vx2-pro-longterm-2-1024x771.jpg | Electric Scooter Guide | desconocida |
+| /media/fiat-e-ducato-2026-precio-ficha-tecnica-hunt1.webp | https://cdn.caranddriving.com/f2/images/new/large/FiatEDucato0824.jpg | Fiat Professional / Car and Driving | desconocida |
+| /media/fiat-e-ducato-2026-precio-ficha-tecnica-hunt2.webp | https://viarent.hu/wp-content/uploads/2026/02/Fiat-Professional-E-Ducato-2-1920x1280.jpg | Viarent / Fiat Professional (stand IAA Transportation) | desconocida |
+| /media/fiat-e-ducato-2026-precio-ficha-tecnica-hunt3.webp | https://vanfleetworld.co.uk/wp-content/uploads/2024/08/ROAD_Fiat-E-Ducato_VFW_July24_WEB.jpg | Van Fleet World / Fiat Professional | desconocida |
+| /media/bmw-serie-1-m135-2025-precio-ficha-tecnica-hunt1.webp | https://acnews.blob.core.windows.net/imggallery/1024x768/GAZ_fef88ec5835243298e7500d8bbf295fe.webp | BMW Group / Autocosmos | desconocida |
+| /media/bmw-serie-1-m135-2025-precio-ficha-tecnica-hunt2.webp | https://acnews.blob.core.windows.net/imggallery/1024x768/GAZ_51fd1e14a56949079c1334d7bf632131.webp | BMW Group / Autocosmos | desconocida |
+| /media/bmw-serie-1-m135-2025-precio-ficha-tecnica-hunt3.webp | https://i0.wp.com/quatrorodas.abril.com.br/wp-content/uploads/2026/02/P90550948_highRes_the-all-new-bmw-m135-e1772029365988.jpg?w=1170&ssl=1 | BMW Group / Quatro Rodas | desconocida |
+| /media/triumph-trident-660-2026-ficha-tecnica-precio-hunt1.webp | https://www.totalmotorcycle.com/wp-content/uploads/2026/01/2026-Triumph-Trident-660d-1200x936.jpg | Triumph Motorcycles / Total Motorcycle | desconocida |
+| /media/triumph-trident-660-2026-ficha-tecnica-precio-hunt2.webp | https://www.totalmotorcycle.com/wp-content/uploads/2026/01/2026-Triumph-Trident-660f-1200x750.jpg | Triumph Motorcycles / Total Motorcycle | desconocida |
+| /media/triumph-trident-660-2026-ficha-tecnica-precio-hunt3.webp | https://www.cyclenews.com/wp-content/uploads/2024/10/2025-Triumph-Trident-660.jpg | Triumph Motorcycles / Cycle News | desconocida |
+| /media/kaabo-mantis-10-lite-hunt1.webp | https://ezeryders.com/cdn/shop/files/kaabo-usa-mantis-10-lite-electric-scooter-full-side-view-black_1800x1800_20c155b0-f2bc-4809-939a-b819764e3967.jpg?v=1734744551 | Kaabo USA / EZE Ryders | desconocida |
+| /media/kaabo-mantis-10-lite-hunt2.webp | https://vmtehnika.com.ua/uploads/product_galleries/76/74/w530x2_frg42jpfk_87b5e054.webp | Kaabo / VMtehnika | desconocida |
