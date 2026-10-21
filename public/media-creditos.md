@@ -8877,3 +8877,13 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/aprilia-sx-125-2026-hunt1.webp | https://passione2ruotemotostore.com/wp-content/uploads/2025/11/sx125-profilo1-C.jpg | Passione 2 Ruote Moto Store (concesionario Aprilia, foto de producto SX 125) | desconocida |
 | /media/aprilia-sx-125-2026-hunt2.webp | https://listing-images.motoscout24.ch/listing/832/20011832/1604506670.JPG?w=1920&q=90 | Leupi Moto (MotoScout24, anuncio Aprilia SX 125 E5+) | desconocida |
 | /media/aprilia-sx-125-2026-hunt3.webp | https://listing-images.motoscout24.ch/listing/832/20011832/1570278470.JPG?w=1920&q=90 | Leupi Moto (MotoScout24, anuncio Aprilia SX 125 E5+) | desconocida |
+| /media/volkswagen-id4-gtx-2026-precio-ficha-tecnica-hunt1.webp | https://aalease.nl/wp-content/uploads/2025/10/Volkswagen_ID4_GTX_2024-01@2x-1024x576.jpg | Volkswagen (foto de prensa) vía AA Lease | desconocida |
+| /media/volkswagen-id4-gtx-2026-precio-ficha-tecnica-hunt2.webp | https://stimg.cardekho.com/images/cms/carnewsimages/editorimages/643fb9e670802.jpg | Volkswagen (foto de prensa) vía CarDekho | desconocida |
+| /media/volkswagen-id4-gtx-2026-precio-ficha-tecnica-hunt3.webp | https://topelectricsuv.com/wp-content/uploads/2022/06/VW-ID.4-GTX-interior-768x576.jpg | TopElectricSUV | desconocida |
+| /media/hyundai-i10-2026-precio-ficha-tecnica-hunt1.webp | http://log.com.tr/wp-content/uploads/2023/02/hyundai-i10-2023-2.jpg | Hyundai (foto de prensa) vía Log.com.tr | desconocida |
+| /media/hyundai-i10-2026-precio-ficha-tecnica-hunt2.webp | https://www.autodata1.com/media/hyundai/pics/hyundai-i10-iii-facelift-2023-%5B44950%5D.jpg | Hyundai (foto de prensa) vía AutoData1 | desconocida |
+| /media/hyundai-i10-2026-precio-ficha-tecnica-hunt3.webp | https://images.autoreview.nl/original/04-hyundai-onthult-vernieuwde-i10-en-i10-n-line-aacb22.jpg | Hyundai (foto de prensa) vía AutoReview | desconocida |
+| /media/qjmotor-srt-800-2025-ficha-tecnica-precio-hunt1.webp | https://www.2wo.gr//cache/com_dpfields/gallery/2/900x600/News/2022/November/QJMOTOR-SRT800-2023/QJMOTOR-SRT800-8-2.jpg | QJMotor (foto oficial) vía 2wo.gr | desconocida |
+| /media/qjmotor-srt-800-2025-ficha-tecnica-precio-hunt2.webp | https://imgcdn.zigwheels.my/large/gallery/exterior/120/1858/qj-motor-srt800-slant-front-view-full-image-142048.jpg | QJMotor (foto oficial) vía ZigWheels Malaysia | desconocida |
+| /media/qjmotor-srt-800-2025-ficha-tecnica-precio-hunt3.webp | https://paultan.org/image/2022/05/QJ-Motor-SRT800-BM-23-750x500.jpg | Paul Tan (paultan.org) | desconocida |
+| /media/benda-rock-300-2026-hunt1.webp | https://yar.kurazhsport.ru/upload/iblock/c9d/9luusft2m5huk9t1lenmt2mvu36wiod9.jpg | Benda (foto oficial) vía Kurazh Sport | desconocida |
