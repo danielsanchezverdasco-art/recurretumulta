@@ -468,22 +468,21 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: [],
-    pros: [
-      "Directa para el A2 sin limitar",
-      "186 kg y asiento a 800 mm",
-      "Doble disco delantero",
-      "TFT a color",
-      "6 años de garantía",
+pros: [
+      "Bicilíndrico en línea de 400 cc, DOHC de 8 válvulas y refrigeración líquida con 41 CV y 37 Nm a 7.500 rpm: se conduce con el A2 tal cual, sin kit de limitación",
+      "En esta ficha figura a 5.699 € con 6 años de garantía, la cobertura que la prensa de lanzamiento destacaba como única entre las bicilíndricas de media cilindrada para el A2",
+      "Doble disco delantero tipo wave de 260 mm y disco trasero de 240 mm, ambos con ABS, sobre horquilla invertida y monoamortiguador trasero regulable en precarga y extensión",
+      "Pantalla TFT a color, iluminación full LED y escape 2 en 1 con silenciador bajo el motor, equipamiento que en su desembarco español no era lo habitual por este precio",
     ],
-    contras: [
-      "Horquilla sin regulación",
-      "41 CV justos en carretera",
-      "Red de talleres en crecimiento",
+contras: [
+      "Con 186 kg en orden de marcha es la naked más pesada de su clase, unos 20 kg por encima de sus rivales directas según la prensa europea de lanzamiento: se nota maniobrando en parado",
+      "La potencia máxima llega a 9.000 rpm y las pruebas publicadas señalan vibraciones en manillar y estriberas al pasar de 7.000 rpm, así que pide llevar el bicilíndrico alegre para rendir",
+      "La horquilla invertida no ofrece regulación, mientras que detrás sí hay ajuste de precarga y extensión: quien busque afinar el tren delantero no tiene margen de serie",
+      "QJ Motor solo aterrizó en España a finales de 2022, de la mano de su primera presentación de producto con esta SRK 400 en Málaga: su red comercial y de talleres sigue creciendo frente a marcas con décadas de implantación",
     ],
-    curiosidades: [
-      "Comparte plataforma con las Benelli de media cilindrada: QJMotor y Benelli son primas hermanas.",
-      "Su bicilíndrico de 400 cc nació para sustituir a las SRK 350 en China.",
-      "Con 30,5 kW se queda justo en el límite legal del A2 sin necesidad de limitación.",
+curiosidades: [
+      "Es la hermana pequeña de la SRK 700 dentro de la gama street del desembarco español de QJ Motor: misma familia SRK, pero con 400 cc y 41 CV frente a los 698 cc y 72 CV de la mayor.",
+      "Su escape 2 en 1 coloca el silenciador bajo el motor; la propia marca lo presentaba como una forma de rebajar el centro de gravedad, además de buscar un sonido más grave.",
     ],
     imagen: "/media/motos/qjmotor-srk400-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -506,6 +505,18 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/",
     analisisSlug: "qjmotor-srk400-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
+    planMantenimiento: {
+      intervalo: "Plan de mantenimiento del fabricante (detalle en las revisiones)",
+      revisiones: [
+        {
+          nombre: "Plan de mantenimiento del fabricante",
+          queSeCambia: "Según el manual de usuario oficial de la SRK 400: primera revisión a los 1.000 km, segunda a los 7.000 km y tercera y sucesivas cada 6.000 km. Si no se alcanza ese kilometraje, la revisión anual es obligatoria para mantener la garantía, siempre en la red oficial QJ Motor y con recambio original. El manual pide verificar cada 1.000 km la presión de los neumáticos y los niveles de aceite y refrigerante, y recomienda cambiar el aceite de la suspensión delantera cada 2 años.",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "https://qjmotor.es/wp-content/uploads/2023/04/MANUAL-USUARIO-SRK400.pdf",
+    },
   },
   {
     id: "qjmotor-srt-600sx-2025-ficha-tecnica-precio",
@@ -709,22 +720,22 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: [],
-    pros: [
-      "165 kg, muy ligera",
-      "40,7 CV con carácter",
-      "Consumo de 3,6 L/100",
-      "Inyección Bosch",
-      "5 años de garantía",
+pros: [
+      "Bicilíndrico de 321,8 cc con 40,7 CV a 10.500 rpm y 31 Nm a 9.000 rpm: está entre lo más potente del carnet A2 sin pasar a una 500",
+      "165 kg en orden de marcha y asiento a 760 mm: se mueve en parado y en ciudad con mucha menos intimidación que sus hermanas mayores",
+      "Horquilla invertida de 41 mm, disco delantero de 298 mm y ABS Bosch de doble canal por los 4.789 € que marca la ficha",
+      "Consumo de 3,6 l/100 km registrado en prueba y depósito de 12,5 litros: la autonomía real supera los 340 km entre repostajes",
+      "Embrague antirrebote asistido, pantalla a color de 5 pulgadas con toma USB e iluminación full LED con firma en forma de V",
     ],
-    contras: [
-      "Potencia arriba (10.500 rpm)",
-      "Asiento a 760 mm algo bajo",
-      "Pantalla básica",
+contras: [
+      "Potencia y par llegan muy arriba, a 10.500 y 9.000 rpm: para adelantar con decisión hay que bajar marchas y estirar el motor, no basta con abrir gas",
+      "Capacidad de carga casi nula para el día a día: sin hueco práctico y con un diseño al que un baúl o unas alforjas le sientan mal, como señala la prueba de Soymotero",
+      "Neumáticos Corsun Cordial de origen: en seco dan tacto y precisión, pero en mojado no transmiten la misma confianza que unos de marca más conocida",
+      "Suspensiones con poco margen de ajuste: la horquilla invertida no es regulable y el monoamortiguador trasero solo admite precarga",
     ],
-    curiosidades: [
-      "Su motor de 322 cc pesa solo 39 kg gracias a los cilindros de aluminio con tratamiento Ni-SiC.",
-      "Es la primera Voge con el nuevo bicilíndrico intermedio entre las 300 y las 500.",
-      "El escape 2 en 1 elevado le da un aire scrambler pese a ser una naked.",
+curiosidades: [
+      "Su bicilíndrico pesa solo 39 kg: los cilindros son de aluminio con tratamiento Ni-SiC y los pistones, forjados en forma de T, algo clave para dejar la moto en 165 kg.",
+      "Las siglas AC responden a Advanced Classic, la denominación de Voge para sus naked neo-retro que combinan formas tradicionales con tecnología actual, como la inyección Bosch.",
     ],
     imagen: "/media/motos/voge-350ac-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -747,6 +758,18 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     fuenteUrl: "https://vogespain.es/",
     analisisSlug: "voge-350ac-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
+    planMantenimiento: {
+      intervalo: "Plan de mantenimiento del fabricante (detalle en las revisiones)",
+      revisiones: [
+        {
+          nombre: "Plan de mantenimiento del fabricante",
+          queSeCambia: "Según el manual de usuario de la 350AC, la primera revisión es a los 1.000 km o 3 meses y las siguientes llegan cada 6.000 km o 12 meses (6.000, 12.000, 18.000 y 24.000 km), con cambio de aceite y de filtro de aceite en cada una. El líquido de frenos DOT 4 y el refrigerante se sustituyen cada 2 años, y el manual indica cambiar el filtro de combustible secundario cada 5.000 km. Sin costes: ninguna fuente consultada publica precios cerrados de estas revisiones.",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Manual de usuario Voge 350AC, código DMUSGA069VGE23, última revisión 17/05/2024, tabla de mantenimiento y sellos de revisiones, págs. 69-77 (copia consultada en Scribd)",
+    },
   },
   {
     id: "voge-525acx-2025-ficha-tecnica-precio",

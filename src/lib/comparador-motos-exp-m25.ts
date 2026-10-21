@@ -260,27 +260,23 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["pesoKg", "costeAnualAproxEur"],
-    pros: [
-      "Bicilíndrico de 693 cc y 67 CV: empuje sobrado para viajar cargado",
-      "Limitable a 35 kW: apta para el carnet A2",
-      "Asiento a 820 mm y ergonomía touring: cómoda en tiradas largas",
-      "Pantalla TFT, ABS y modos de conducción de serie",
-      "Por 6.995 € cuesta la mitad que una trail europea equivalente",
-      "Buena protección aerodinámica con pantalla regulable",
-    ],
-    contras: [
-      "240 kg en orden de marcha: pesada en parado y en campo",
-      "Las suspensiones son básicas para el peso del conjunto",
-      "Sin control de tracción desconectable para off-road",
-      "El consumo sube notablemente a ritmo alegre",
-      "Acabados mejorables en algunos plásticos",
-    ],
-    curiosidades: [
-      "Su motor deriva del bicilíndrico de la Kawasaki ER-6, fabricado por CFMoto",
-      "Es la trail más vendida de CFMoto en Europa",
-      "La versión 2025 incorpora pantalla TFT a color de serie",
-      "Pesa 240 kg: casi como una maxitrail de 1.000 cc",
-    ],
+pros: [
+  "Depósito de 20 litros: con el bicilíndrico de 693 cc y 67 CV permite plantear etapas largas sin parar cada poco a repostar",
+  "Viene viajera de serie para 2026: defensas laterales, puños calefactados, pantalla TFT de 5 pulgadas con Bluetooth y tomas USB-A y USB-C",
+  "Control de tracción desconectable y ABS de doble canal: puedes adaptar la electrónica si sales a pista, algo que la ficha anterior negaba por error",
+  "Tarifa oficial de 6.995 € y precio de lanzamiento de 6.195 € en España según la prensa especializada: difícil encontrar una trail de 700 tan equipada por ese dinero",
+  "Limitable para el A2 y con asiento de serie más bajo que la primera 700MT: la hace accesible a quien sube de una 125 o una 500",
+],
+contras: [
+  "240 kg declarados, y 258 kg con el juego completo de tres maletas: en maniobras en parado y en pista lenta se nota cada kilo",
+  "Recorridos de suspensión de 150 mm delante y 148 mm detrás: correctos en carretera y pista fácil, justos si buscas off-road serio",
+  "Con 60 Nm de par, a dúo y cargado de equipaje los adelantamientos piden bajar una marcha y planificar con tiempo",
+  "La conectividad completa con navegación y geolocalización pasa por la T-Box: conviene confirmar en el concesionario si tu unidad la incluye o es opcional",
+],
+curiosidades: [
+  "Con las tres maletas puestas pasa de 240 a 258 kg, casi el peso de una maxitrail grande pese a ser una 700",
+  "Se vende solo en dos colores en España, Nebula White y Nebula Black, sin decoraciones adicionales de fábrica",
+],
     imagen: "/media/cfmoto-700mt-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
       {
@@ -418,27 +414,23 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: [
-      "Monocilíndrico de 349 cc y 36,7 CV: de los scooters más potentes del A2",
-      "Depósito de 16 L: autonomía muy superior a la media",
-      "Equipamiento premium: TFT, keyless, parabrisas eléctrico y puños calefactables",
-      "Frenos con ABS de doble canal",
-      "Por 4.488 € ofrece lo que scooters de 6.000 €",
-      "Acabados y calidad percibida muy por encima de su precio",
-    ],
-    contras: [
-      "182 kg: pesado para mover en parado",
-      "El hueco bajo el asiento es justo para su tamaño",
-      "Carnet A2 obligatorio: no vale con el B",
-      "La pantalla TFT puede reflejar con sol directo",
-      "La reventa aún es una incógnita",
-    ],
-    curiosidades: [
-      "Zontes es la tercera marca más vendida en España tras Honda y Yamaha",
-      "El 350E monta parabrisas regulable eléctricamente, único en su precio",
-      "Su motor de 349 cc es desarrollo propio de la marca",
-      "Incluye 5 años de garantía de serie",
-    ],
+pros: [
+  "Parabrisas con servomotor eléctrico y puños calefactables regulables de serie: en un maxiscooter de 4.488 € no hay que pagar packs para salir a carretera en invierno",
+  "El depósito de 16 litros va en el túnel central y, con el consumo declarado de 3,5 l/100 km, espacía mucho las paradas en trayectos interurbanos y de circunvalación",
+  "El monocilíndrico de 349 cc entrega 38 Nm a 6.000 rpm y ofrece modos Eco y Sport desde la piña derecha, algo poco habitual en un GT de acceso al A2",
+  "La TFT no es solo un cuadro bonito: con la conectividad activada muestra llamadas entrantes, permite elegir música y ofrece navegación abreviada o espejo de la pantalla del móvil",
+  "Freno delantero J.Juan con pinza radial y disco de 268 mm, con ABS de doble canal y control de tracción para firmes de baja adherencia",
+],
+contras: [
+  "Son 182 kg en seco, y se notan al moverlo a pulso en garajes estrechos o al maniobrar entre coches aparcados, aunque suba al caballete sin gran esfuerzo",
+  "El parabrisas eléctrico solo tiene dos posiciones, sin intermedias: según la talla del piloto, la posición ideal puede quedar justo entre una y otra",
+  "Exige el carnet A2 sí o sí; quien venga del coche con el permiso B y tres años de experiencia no puede conducirlo legalmente en España",
+  "Los neumáticos CST radiales de serie son el punto que las pruebas señalan a mejorar en el primer cambio de gomas, sobre todo si se rueda mucho en mojado",
+],
+curiosidades: [
+  "La llave inteligente PKE de Zontes puede llevarse en forma de pulsera, sin necesidad de sacar ningún mando del bolsillo para arrancar o abrir el asiento",
+  "Viene preinstalado para montar cámaras de vídeo delantera y trasera y grabar las rutas, y monta de serie sensor de presión y temperatura de los neumáticos",
+],
     imagen: "/media/zontes-350e-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
       {
@@ -732,23 +724,22 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: [
-      "165 kg, muy ligera",
-      "40,7 CV con carácter",
-      "Consumo de 3,6 L/100",
-      "Inyección Bosch",
-      "5 años de garantía",
-    ],
-    contras: [
-      "Potencia arriba (10.500 rpm)",
-      "Asiento a 760 mm algo bajo",
-      "Pantalla básica",
-    ],
-    curiosidades: [
-      "Su motor de 322 cc pesa solo 39 kg gracias a los cilindros de aluminio con tratamiento Ni-SiC.",
-      "Es la primera Voge con el nuevo bicilíndrico intermedio entre las 300 y las 500.",
-      "El escape 2 en 1 elevado le da un aire scrambler pese a ser una naked.",
-    ],
+pros: [
+  "Solo 165 kg en orden de marcha: bicilíndrica y aun así muy manejable en ciudad, con cambios de dirección rápidos para una neo-retro del A2",
+  "Bicilíndrico de 322 cc con 41 CV y velocidad máxima de 160 km/h: prestaciones cercanas a las 500 de la marca sin renunciar al carnet A2",
+  "Consumo de 3,6 l/100 km con depósito de 12,5 litros e inyección Bosch: gasto bajo y autonomía útil para el día a día y escapadas",
+  "Precio de 4.789 euros con 5 años de garantía: propuesta cerrada en España, sin tener que pagar extras para salir del concesionario equipado",
+],
+contras: [
+  "La potencia máxima llega a 10.500 rpm: hay que estirar marchas y llevarla alta de vueltas para encontrar todo su carácter",
+  "Asiento a 760 mm muy accesible para pilotos bajos, pero puede resultar bajo y con postura recogida si mides mucho o haces trayectos largos",
+  "Instrumentación LCD sencilla en funciones frente a rivales con pantallas más completas: informa bien, pero no aporta conectividad destacada",
+  "Enfoque naked neo-retro sin protección aerodinámica de serie: a ritmo de autovía el viento se nota y limita el confort sostenido",
+],
+curiosidades: [
+  "AC significa Advanced Classic: es la etiqueta con la que Voge denomina a sus naked neo-retro que combinan formas clásicas con tecnología actual.",
+  "Su bicilíndrico pesa solo 39 kg gracias a los cilindros de aluminio con tratamiento Ni-SiC, una de las claves para dejar el conjunto en 165 kg.",
+],
     imagen: "/media/voge-350ac-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
       {
@@ -1196,23 +1187,23 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: [
-      "Directa para el A2 sin limitar",
-      "186 kg y asiento a 800 mm",
-      "Doble disco delantero",
-      "TFT a color",
-      "6 años de garantía",
-    ],
-    contras: [
-      "Horquilla sin regulación",
-      "41 CV justos en carretera",
-      "Red de talleres en crecimiento",
-    ],
-    curiosidades: [
-      "Comparte plataforma con las Benelli de media cilindrada: QJMotor y Benelli son primas hermanas.",
-      "Su bicilíndrico de 400 cc nació para sustituir a las SRK 350 en China.",
-      "Con 30,5 kW se queda justo en el límite legal del A2 sin necesidad de limitación.",
-    ],
+pros: [
+  "Bicilíndrico en línea DOHC de 8 válvulas con refrigeración líquida: 41 CV (30,2 kW según la ficha) y 37 Nm a 7.500 rpm, con la suavidad y el sonido de un twin frente a las monocilíndricas A2, y sin necesidad de limitación porque nace por debajo del techo de 35 kW del carnet.",
+  "Pantalla TFT a color de 5 pulgadas con dos interfaces, fondo blanco o negro, que se ajusta sola según la luz ambiental; se suman iluminación completa LED y mandos retroiluminados, un equipamiento poco habitual en una naked de 5.699 euros.",
+  "Parte ciclo con ambición: chasis multitubular de acero, horquilla invertida, doble disco delantero tipo wave de 260 mm, disco trasero de 240 mm y ABS en las dos ruedas.",
+  "Escape 2 en 1 con el silenciador colocado bajo el motor: además de firmar el sonido grave del bicilíndrico, baja el centro de gravedad y deja limpia la línea del colín.",
+  "Seis años de garantía oficial incluidos en los 5.699 euros de la ficha, y transferibles al siguiente propietario si vendes la moto antes de que caduque la cobertura.",
+],
+contras: [
+  "186 kg en orden de marcha: es de las naked A2 de 400 cc más pesadas, unos 20 kg por encima de rivales como la Z400, y eso se nota al maniobrar en parado y al cambiar de dirección rápido.",
+  "La horquilla invertida no admite regulación; quien quiera afinar el tren delantero a su peso o a un uso más deportivo tendrá que pasar por taller y cambiar componentes.",
+  "Electrónica justa para 2026: más allá del ABS y la TFT no hay control de tracción, modos de conducción ni cambio rápido, ayudas que ya empiezan a verse en la competencia.",
+  "Marca llegada a España en 2022 de la mano del Grupo Bordoy: la red comercial y de talleres sigue creciendo, y la reventa de una QJMotor usada todavía no tiene el recorrido de una japonesa equivalente.",
+],
+curiosidades: [
+  "El portamatrículas va fijado al basculante, no al colín: así la zaga, con forma de lágrima, queda flotando sobre la rueda trasera sin soportes visibles, un detalle más propio de naked de mayor cilindrada.",
+  "Se vendió en dos decoraciones muy distintas: gris con el chasis pintado en verde o negro con las llantas doradas, según recogió la prensa española en su lanzamiento.",
+],
     imagen: "/media/qjmotor-srk-400-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
       {
@@ -1586,27 +1577,23 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: [
-      "Monocilíndrico de 374 cc con estética clásica británica muy conseguida",
-      "Asiento bajo y manejable: perfecta para iniciarse",
-      "Sonido grave y carácter retro auténtico",
-      "Acabados cuidados: depósito con líneas pintadas a mano",
-      "Por 4.450 €, la custom clásica más barata",
-      "Muy económica de mantener",
-    ],
-    contras: [
-      "21 CV: justita incluso para carretera",
-      "205 kg para 21 CV: relación peso/potencia pobre",
-      "Frenos y suspensiones básicos",
-      "Sin electrónica moderna",
-      "Vibra a alto régimen",
-    ],
-    curiosidades: [
-      "La Imperiale 400 homenajea a las Benelli clásicas de los años 50",
-      "Su motor de 374 cc rinde 21 CV, fiel al espíritu retro",
-      "Es una de las custom A2 más vendidas en Italia",
-      "El depósito lleva el logo clásico de Benelli",
-    ],
+pros: [
+  "Motor de carrera larga —72,7 × 90 mm— que entrega sus 29 Nm a solo 4.500 rpm: en la Imperiale 400 de 2025 no hace falta estirar marchas para salir con soltura de un semáforo o de una rotonda",
+  "Consumo homologado de 3,1 l/100 km en la versión Euro 5 y depósito de 12 litros: la combinación está pensada para espaciar los repostajes en el uso diario, no para perseguir cifras de potencia",
+  "Asiento a 780 mm sobre un conjunto de tamaño contenido —2.170 mm de largo según las pruebas del modelo—: se llega al suelo con los dos pies, algo que en una moto de 205 kg se agradece maniobrando en parado",
+  "Caballete central de serie junto a la pata lateral, detalle cada vez más raro en 2025 y muy práctico para tensar y engrasar la cadena en casa sin caballete auxiliar",
+  "Precio de ficha de 4.450 € para una A2 con ABS de doble canal, discos de 300 mm delante y 240 mm detrás y llantas de radios de 19 y 18 pulgadas: el equipamiento de seguridad no se quedó en la Euro 4",
+],
+contras: [
+  "21 CV para mover 205 kg según la ficha: en incorporaciones a vía rápida y adelantamientos en carretera abierta hay que planificar con tiempo, porque el margen de empuje es corto",
+  "Doble amortiguador trasero con solo 55,5 mm de recorrido en la ficha técnica: fiel a la estética de los años cincuenta, pero seco ante baches seguidos y juntas de dilatación",
+  "Sin ayudas más allá del ABS: no hay control de tracción, modos de conducción ni una pantalla completa; la información va en dos esferas analógicas con pequeños insertos digitales",
+  "El monocilíndrico refrigerado por aire y el cambio de cinco velocidades transmiten el carácter —y las vibraciones— de una mecánica de otra época cuando se mantiene un ritmo alto de forma sostenida",
+],
+curiosidades: [
+  "El nombre no es un invento de marketing reciente: las Imperiale originales eran MotoBi, la marca que Giuseppe Benelli fundó en 1950 tras abandonar la empresa familiar, y que Benelli acabó comprando en 1962",
+  "El mimo retro llega a los grabados: según la prueba de Motofichas, la Imperiale lleva el león de Benelli hasta en una tapa sobre el cilindro y el logo repetido en puños, torreta y en la parte trasera del asiento del pasajero",
+],
     imagen: "/media/benelli-imperiale-400-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
       {
@@ -1902,27 +1889,23 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: [
-      "Custom 125 por 2.490 €: de las más baratas",
-      "Asiento bajo y ligera: muy manejable",
-      "Estética custom clásica",
-      "Mantenimiento baratísimo",
-      "Ideal para ciudad y paseos",
-      "Consumo mínimo",
-    ],
-    contras: [
-      "10,6 CV: de las 125 menos potentes",
-      "Muy justita fuera de ciudad",
-      "Acabados básicos",
-      "Sin electrónica",
-      "El pasajero va incómodo",
-    ],
-    curiosidades: [
-      "La K-Light 125 es la custom de acceso de Keeway",
-      "Por 2.490 € es de las motos con marchas más baratas",
-      "Su motor de 124 cc rinde 10,6 CV",
-      "Es la rival de la Macbor Eight Mile 125 en precio",
-    ],
+pros: [
+  "Precio desde 2.490 € en esta ficha 2025: una de las formas más baratas de estrenar una custom de 125 cc con marchas en España.",
+  "Se puede llevar con el carnet A1 y también con el B con más de tres años de experiencia, según la ficha, lo que amplía mucho su público.",
+  "Custom moderna y diferenciada: frente a la Superlight, más clásica y cromada, la K-Light apuesta por una silueta musculosa, escape corto e instrumentación digital de una sola esfera.",
+  "Mantenimiento claro y contenido: primera revisión a los 1.000 km y después cada 4.000 km o 12 meses, con coste anual aproximado de 160 € recogido en la ficha.",
+  "Etiqueta C de la DGT y planteamiento pensado para ciudad y paseos tranquilos, sin complicaciones electrónicas innecesarias.",
+],
+contras: [
+  "Con 10,6 CV está en la parte baja de las 125: en vías rápidas y adelantamientos hay que planificar con margen, no es una moto para viajar cargado.",
+  "No lleva ABS: recurre a frenada combinada entre ambos discos al accionar el pedal, una solución más básica que exige anticipación al frenar.",
+  "La segunda plaza es más un recurso para trayectos cortos que una invitación a viajar a dúo; en salidas largas el pasajero lo notará.",
+  "Acabados y equipamiento acordes a su precio: quien busque conectividad, ayudas electrónicas o materiales de gama superior tendrá que mirar más arriba.",
+],
+curiosidades: [
+  "Monta una combinación poco habitual en una 125: llanta de 17 pulgadas delante y de 15 pulgadas detrás, con un neumático trasero ancho que refuerza su imagen custom.",
+  "Comparte mecánica con la Superlight 125, pero se distingue por detalles como los amortiguadores traseros con botella de gas separada y el soporte de matrícula sobre la rueda trasera.",
+],
     imagen: "/media/keeway-k-light-125-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
       {
@@ -2140,27 +2123,22 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: [
-      "Clásica 125 con estética británica muy conseguida",
-      "Por 2.899 €, de las retro 125 más baratas",
-      "Ligera y manejable en ciudad",
-      "Faro redondo LED y cuadro clásico",
-      "Mantenimiento muy económico",
-      "Ideal para el día a día con estilo",
-    ],
-    contras: [
-      "11 CV: de las 125 menos potentes",
-      "Muy justita en carretera",
-      "Acabados básicos en detalles",
-      "Sin electrónica",
-      "El asiento es duro",
-    ],
-    curiosidades: [
-      "La Cromwell 125 es la puerta de entrada a la familia Cromwell",
-      "Brixton la ofrece en versión CBS (2.899 €) y ABS (3.099 €)",
-      "Su estética homenajea a las británicas de los 60",
-      "Es una de las 125 retro más vendidas en Europa",
-    ],
+pros: [
+  "Desde 2.899 € en la ficha de 2025: la vía más barata de entrar en la familia Cromwell sin renunciar a la estética británica clásica",
+  "Depósito de 14 litros y asiento a 770 mm según la web oficial de Brixton: planteamiento pensado para el día a día y para pilotos que empiezan",
+  "Luces diurnas e intermitentes LED y velocímetro con tacómetro, indicador de combustible y cuentakilómetros, equipamiento confirmado en la página oficial del modelo",
+  "Dos plazas y acceso con carnet A1, válido también con el B más tres años, con etiqueta DGT C en la ficha para moverse a diario",
+],
+contras: [
+  "Con 11 CV en la ficha, en vías rápidas y con pasajero se queda justa: su terreno natural es la ciudad y las carreteras secundarias tranquilas",
+  "Monocilíndrico refrigerado por aire con cambio de 5 velocidades: mecánica sencilla y probada, pero con poco margen para adelantar con soltura fuera de ciudad",
+  "El precio de 2.899 € corresponde a la versión CBS; quien quiera ABS tiene que pasar a la versión de 3.099 € recogida en la ficha",
+  "Sin ayudas electrónicas más allá del sistema de frenada elegido: no hay modos de conducción ni control de tracción en esta clásica de acceso",
+],
+curiosidades: [
+  "La Cromwell nació como BX 125 y cambió de nombre en 2020; Brixton es además el nombre de un barrio del sur de Londres, en línea con la inspiración británica del modelo",
+  "La web oficial la ofrece con frenada combinada CBS o con ABS, y aclara que solo la versión ABS lleva testigo de ABS en el velocímetro",
+],
     imagen: "/media/brixton-cromwell-125-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
       {
@@ -2463,27 +2441,23 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: [
-      "Naked 125 por 2.499 €: de las más baratas del mercado",
-      "Ligera y ágil: perfecta para ciudad",
-      "Diseño moderno con faro LED",
-      "Mantenimiento baratísimo",
-      "Ideal como primera moto con marchas",
-      "Consumo mínimo",
-    ],
-    contras: [
-      "12,2 CV: de las 125 menos potentes",
-      "Acabados justos para su precio",
-      "Sin electrónica",
-      "Suspensiones muy básicas",
-      "En carretera se queda corta",
-    ],
-    curiosidades: [
-      "La Rockster 125 EVO es la naked de acceso de Macbor",
-      "Por 2.499 € es de las motos con marchas más baratas de España",
-      "Macbor la actualizó a EVO en 2025",
-      "Es la rival directa de las naked 125 chinas de bajo precio",
-    ],
+pros: [
+  "En 2026 mantiene los 2.499 € de la EVO de 2025 pese al motor nuevo: sus rivales custom con 15 CV como la Zontes 125C o la Cyclone RA125 Plus ya superan los 3.000 € según las pruebas citadas",
+  "El monocilíndrico de 4 válvulas entrega 12,2 CV a 9.500 rpm y 9,9 Nm a 8.000 rpm, un 28 % más que los 9,5 CV anteriores, y se nota sobre todo al estirar marchas fuera del centro urbano",
+  "ABS de doble canal, iluminación Full LED y cuadro LCD de serie en una custom de este precio, con discos de 267 mm delante y 240 mm detrás en lugar de conformarse con frenada combinada",
+  "Asiento a solo 730 mm y depósito de 13,5 litros con un consumo probado en torno a 2,6 l/100 km: llegar al suelo es inmediato y las paradas a repostar quedan muy espaciadas para ser una 125",
+  "Es la Rockster clásica, no la Flat: manillar tipo cuerno de vaca, respaldo para el pasajero y llantas de radios, en negro, rojo o el tono Gilver, frente al manillar plano y más bajo de su hermana de 2.599 €",
+],
+contras: [
+  "Con 12,2 CV queda lejos del límite de 15 CV del A1: una Cyclone RA125 Plus o una Zontes 125C con la potencia máxima legal la dejan atrás en incorporaciones y adelantamientos en carretera abierta",
+  "Su geometría es de custom relajada, con llanta delantera de 18 pulgadas y ángulo de dirección generoso: en curvas cerradas no responde con la rapidez de una naked 125 y no hay que pedírselo",
+  "Las pruebas de la versión estándar señalan dos mandos mal resueltos para algunos conductores, el pedal de freno trasero y la palanca de cambio algo elevados, un defecto que paradójicamente no aparece en la Flat",
+  "Los amortiguadores traseros cortos se muestran secos y rebotones cuando el asfalto se rompe, algo que en la EVO 2026 sigue sin corregirse porque la parte ciclo se mantiene tal cual llegó en 2025",
+],
+curiosidades: [
+  "Es el modelo más vendido de Macbor desde su nacimiento en 2017 y su diseño se desarrolla en Barcelona, aunque la fabricación se realiza en China, según cuentan SoyMotero y Motofichas en sus pruebas.",
+  "Comparte motor, chasis y precio base con la Rockster Flat 125 EVO salvo por 100 € de diferencia: todo lo que las separa es ergonomía y estética, manillar, asiento y colores, no la mecánica.",
+],
     imagen: "/media/macbor-rockster-125-evo-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
       {
@@ -2543,27 +2517,23 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: [
-      "Bicilíndrico de 471 cc y 46,9 CV: el tope del A2 en una custom",
-      "Estética custom americana muy lograda",
-      "Asiento bajo: accesible para todos los pilotos",
-      "Buen par motor a bajo régimen",
-      "Por 5.999 €, custom A2 con motor bicilíndrico",
-      "Acabados cuidados para su precio",
-    ],
-    contras: [
-      "46,9 CV se quedan justos en autopista",
-      "Las estriberas adelantadas limitan en curvas",
-      "Suspensión trasera básica",
-      "Sin electrónica avanzada",
-      "Marca española joven: red de servicio en crecimiento",
-    ],
-    curiosidades: [
-      "Macbor es una marca española con sede en Barcelona",
-      "La Eight Mile es su familia custom, en 125 y 500 cc",
-      "Su motor bicilíndrico de 471 cc rinde 46,9 CV",
-      "El nombre homenajea a las míticas rutas americanas",
-    ],
+pros: [
+  "Con 46,9 CV a 8.500 rpm, el bicilíndrico de 471 cc roza el techo legal del A2 sin kit de limitación: al sacarse el carnet A no hay que deslimitar nada.",
+  "La Street baja el asiento a 790 mm frente a los 820 mm de la Scrambler y monta llanta delantera de 18 pulgadas de aleación, así que maniobrar en parado y girar en calles estrechas resulta menos torpe que en su hermana.",
+  "El equipamiento de frenos no va de farol: doble disco delantero de 298 mm con pinzas Nissin, disco trasero de 240 mm y ABS con tres modos, incluido desconectar solo la rueda trasera.",
+  "Depósito de 18 litros y consumo declarado de 3,9 l/100 km: las pruebas publicadas hablan de autonomías próximas a 450 km, una cifra rara en una naked retro de este precio.",
+  "Basculante monobrazo, doble escape lateral bajo y portamatrículas flotante sobre la rueda trasera le dan una silueta que no se confunde con la naked A2 japonesa de turno aparcada al lado.",
+],
+contras: [
+  "La Street recorta donde la Scrambler no: atrás solo regulas la precarga del amortiguador y los recorridos bajan a 155 mm delante y 165 mm detrás, y en baches secos con pasajero se nota el recorte.",
+  "Son 195 kg en orden de marcha para una moto pensada también para quien estrena el A2: en marcha se disimulan, pero al moverla en el garaje o en una rampa pesan desde el primer día.",
+  "A ritmo sostenido de autovía, con dos ocupantes y algo de equipaje, los 43 Nm a 6.500 rpm dejan poco margen para adelantar sin bajar una marcha y estirar el bicilíndrico.",
+  "Macbor no tiene aún la capilaridad de taller de una marca japonesa asentada: fuera de Cataluña y de las grandes ciudades conviene localizar el servicio oficial antes de comprarla, no después de la primera revisión.",
+],
+curiosidades: [
+  "Macbor es un apellido abreviado: Mac —hijo de, en gaélico— más Bor, las tres primeras letras de Bordoy, la familia que fundó Motos Bordoy en Barcelona en 1971.",
+  "Comparte el bicilíndrico de 471 cc con la Montana XR5 500 de la misma casa, pero aquí va vestido de naked setentera con faro redondo, mientras que en la trail ese mismo motor trabaja con un enfoque mucho más campero.",
+],
     imagen: "/media/macbor-eight-mile-500-street-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
       {
@@ -3023,27 +2993,23 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: [
-      "Scooter urbano por 2.890 €: de los más baratos",
-      "Marca española de Valencia",
-      "Ágil y manejable en ciudad",
-      "Mantenimiento muy económico",
-      "Ideal para el día a día",
-      "Consumo mínimo",
-    ],
-    contras: [
-      "10,9 CV: de los scooters menos potentes",
-      "Muy justito en vías rápidas",
-      "Acabados básicos",
-      "Sin electrónica",
-      "El hueco bajo el asiento es justo",
-    ],
-    curiosidades: [
-      "Wottan Motor es una empresa española de Rótova, Valencia",
-      "La Storm X es su scooter urbano clásico",
-      "Wottan vende también online con Wottan Direct",
-      "Por 2.890 € es de los scooters 125 más baratos de España",
-    ],
+pros: [
+  "Por los 2.890 € de la ficha lleva la configuración cara de la gama: motor con refrigeración líquida, 10,9 CV a 8.500 rpm, ABS y control de tracción, cuando la Storm-X básica de aire y frenada combinada CBS se anunciaba a 2.690 €.",
+  "Pantalla TFT en color con conectividad y navegación sobre mapa, llave inteligente, arranque silencioso y Start&Stop desconectable: al probarla, SoyMotero puso esa instrumentación como ejemplo del que otras marcas más caras podrían aprender.",
+  "Asiento a solo 750 mm y 142 kg en orden de marcha con 1.995 mm de longitud total: quien llega con el carnet B y tres años de antigüedad la mueve en parado y entre coches sin pelearse con ella.",
+  "Depósito de 10,5 litros en un scooter compacto de ruedas de 14 pulgadas delante y 13 detrás: con el consumo declarado de 2,2 l/100 km en su ficha técnica de 2025, las paradas a repostar quedan muy espaciadas en uso urbano.",
+  "Cofre bajo el asiento con sitio para un casco integral y apertura centralizada, más guantera delantera y toma USB: el trayecto diario no obliga a montar un baúl trasero para llevar lo básico.",
+],
+contras: [
+  "La entrega llega arriba: el par máximo se anuncia a 6.500 rpm y la potencia a 8.500 rpm, y la prueba de SoyMotero lo resume sin rodeos: se echa de menos pegada al salir de los semáforos y de las paradas.",
+  "El consumo declarado de 2,2 l/100 km no se repitió en uso real: en la prueba consultada se midieron 3,6 l/100 km en conducción alegre, con lo que la autonomía se queda en unos 292 km con el depósito de 10,5 litros.",
+  "Es compacta de verdad y eso se paga dentro: el probador de esa prueba, con 1,86 m y 100 kg, se vio encajonado a sus mandos y le costó superar los 90 km/h llaneando; los pilotos altos deben sentarse en una antes de firmar.",
+  "Hay que mirar bien qué Storm-X te están vendiendo: conviven la de aire con CBS a 2.690 € y la de refrigeración líquida con ABS y TCS a 2.890 €, y hasta la propia web oficial muestra ambos precios para el modelo en los mismos colores Dark Grey y Snow White.",
+],
+curiosidades: [
+  "Existe una Storm-X 150 con el mismo equipamiento de la Plus española, pero Wottan la reserva al mercado italiano, según contó SoyMotero al probar la 125.",
+  "Su motor, suministrado por Loncin, prescinde del motor de arranque convencional: es el propio alternador el que cumple esa función, y de ahí sale el arranque silencioso Silence Start que anuncia la marca.",
+],
     imagen: "/media/wottan-storm-x-125-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
       {
@@ -3982,25 +3948,23 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: "Carga rápida CC: 80% en menos de 1 hora; cargador AC de a bordo: ~3,5 h; toma doméstica: ~6 h",
     etiquetaDgt: "Cero",
     aprox: ["costeAnualAproxEur"],
-    pros: [
-      "Una de las eléctricas más potentes del mercado: 126 kW (171 CV) de potencia máxima",
-      "Velocidad máxima limitada electrónicamente a 200 km/h",
-      "Batería de polímero de litio de 21,5 kWh: la mayor capacidad de la lista",
-      "Carga rápida por conector CCS como los coches eléctricos: al 80% en menos de una hora",
-      "Autonomía urbana declarada de 420 km (230 km en ciclo mixto)",
-    ],
-    contras: [
-      "Energica Motor Company solicitó la liquidación judicial el 14 de octubre de 2024: no hay stock nuevo fiable ni red de posventa garantizada",
-      "Precio muy elevado: 30.214 €",
-      "Moto pesada y de gran tamaño, poco práctica para ciudad",
-      "Casi sin concesionarios en España: recambios y asistencia complicados",
-      "La batería perderá capacidad con el tiempo y la marca ya no existe: riesgo de devaluación total",
-    ],
-    curiosidades: [
-      "Fabricada en Módena, Italia, con tecnología derivada del campeonato MotoE",
-      "Su motor EMCE pesa con el inversor menos de 10 kg para 171 CV",
-      "La empresa cerró en 2024 pese a ser pionera en superbikes eléctricas",
-    ],
+pros: [
+  "El conjunto EMCE de esta última etapa declara 126 kW (171 CV) y 215 Nm sin marchas ni embrague: el 0-100 km/h oficial de la Ribelle estándar es de 2,8 segundos, con la velocidad punta capada a 200 km/h",
+  "Es de las pocas naked que carga en CCS como un coche: en corriente continua pasa del 20 al 80 % en unos 40 minutos, a razón de 6,7 km de autonomía urbana recuperados por minuto enchufada",
+  "La batería de 21,5 kWh máximos (18,9 kWh nominales) no se queda en el titular urbano de la ficha: Energica declaraba 230 km en uso combinado y 180 km en extraurbano, cifras más útiles para salir de Madrid un sábado",
+  "Parte ciclo con nombres concretos y ajustables: horquilla Marzocchi de 43 mm, monoamortiguador Bitubo, pinzas radiales Brembo sobre discos de 330 mm, ABS Bosch desconectable y control de tracción de seis niveles",
+  "Para mover sus 270 kg en garajes lleva asistente de aparcamiento marcha adelante y atrás a 2,8 km/h, y la función LPR equilibra sola la batería si la moto pasa semanas parada",
+],
+contras: [
+  "Comprarla como 2025 exige asumir el contexto: Energica acordó su liquidación judicial el 14 de octubre de 2024, así que hablamos de stock de la última etapa, no de una gama 2025 con producción normal y red comercial asentada",
+  "El rescate por inversores de Singapur anunciado en agosto de 2025 marcaba como primera prioridad reponer recambios y después retomar la producción, pero eso no equivale a tener hoy posventa en España al nivel de una marca en activo",
+  "Los 30.214 € de la ficha duelen más con ese panorama: si la reventa cae o una avería electrónica espera pieza de Módena, el coste no es el de una naked premium respaldada por una red amplia",
+  "Fuera de ciudad la autonomía se estrecha hasta los 180 km extraurbanos declarados y el peso de 270 kg se nota en puertos y maniobras, pese al asiento a 790 mm y al asistente de aparcamiento",
+],
+curiosidades: [
+  "Energica fue el suministrador único de la Copa del Mundo FIM Enel MotoE durante cuatro temporadas, de 2019 a 2022, y la Ribelle hereda el motor y la electrónica pulidos en esa Ego Corsa de carreras",
+  "En 2023 una Eva Ribelle RS con Kit Corsa Clienti corrió el Super Hooligan de MotoAmerica contra motos de combustión: fue segunda en COTA y terminó cuarta el campeonato, algo inédito para una eléctrica de serie",
+],
     imagen: "/media/energica-eva-ribelle-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
       {
@@ -4222,27 +4186,23 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["precioDesde", "velocidadMax", "costeAnualAproxEur"],
-    pros: [
-      "Naked retro con 14,2 CV: de las 125 más potentes",
-      "133 kg: muy ligera",
-      "Horquilla invertida de 40 mm y doble amortiguador",
-      "TFT personalizable, raro en el segmento",
-      "Diseño italiano con acabados de calidad",
-      "Versión ABS por 4.449 €",
-    ],
-    contras: [
-      "4.449 €: cara para una 125",
-      "El asiento a 795 mm es alto para algunos",
-      "El pasajero va justo",
-      "La marca es minoritaria en España",
-      "La reventa es complicada",
-    ],
-    curiosidades: [
-      "La HPS 125 fue el primer café racer italiano con motor DOHC de 125",
-      "Su motor lo diseñó Piaggio y lo fabrica Zongshen",
-      "El TFT cambia a fondo negativo con poca luz",
-      "Mondial es una marca italiana con historia en competición",
-    ],
+pros: [
+  "Se puede llevar con el A1 o con el carnet B con tres años de antigüedad y lleva etiqueta C de la DGT: entra en la 2025 sin exámenes extra quien ya conduce un coche, algo que la ficha deja claro desde el primer dato.",
+  "La relación entre cifras juega a su favor en ciudad: 14,2 CV (10,4 kW) para solo 133 kg y una velocidad máxima aproximada de 110 km/h según la ficha, suficiente para enlazar rondas y circunvalaciones sin ir vendida.",
+  "El cuadro TFT personalizable es su toque moderno frente a las neo-retro de relojes analógicos: información digital completa en una moto de estética clásica, un equipamiento que la ficha destaca como raro en el segmento 125.",
+  "No es una naked disfrazada de retro: llantas de radios, neumáticos mixtos, escape elevado y doble amortiguador trasero construyen una imagen scrambler coherente, rematada con horquilla invertida de 40 mm delante.",
+  "La versión de esta ficha es directamente la de ABS por 4.449 euros: no hay que pagar un escalón posterior ni conformarse con la frenada combinada de las variantes más baratas de años anteriores.",
+],
+contras: [
+  "4.449 euros en la ficha, y marcados como aproximados: es dinero de 125 premium. Quien busque solo transporte A1 barato encontrará opciones muy por debajo sin este diseño.",
+  "El asiento a 795 mm que recoge la ficha original penaliza a los más bajos: los 133 kg ayudan a maniobrar, pero llegar con los dos pies planos al suelo no está garantizado.",
+  "La parte trasera minimalista deja al pasajero justo: hay dos plazas sobre el papel, pero la HPS 2025 está pensada para ir solo casi siempre y a dúo solo en trayectos cortos.",
+  "Su techo aproximado de 110 km/h marca el límite en autovía: cumple, pero sin reserva para adelantar con carga o viento en contra, como le pasa a casi toda 125 llevada al extremo.",
+],
+curiosidades: [
+  "Su pantalla TFT cambia a fondo negativo cuando hay poca luz, un detalle de instrumentación moderna escondido en una moto de estética de los años sesenta que la propia ficha original ya recogía.",
+  "El soporte de la matrícula no va bajo el colín, sino fijado a los extremos del basculante, y el escape es doble, elevado y con las dos salidas superpuestas en un lateral.",
+],
     imagen: "/media/mondial-hps-125-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
       {

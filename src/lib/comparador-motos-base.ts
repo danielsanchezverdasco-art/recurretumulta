@@ -239,28 +239,22 @@ export const MOTOS_BASE: MotoComparador[] = [
     carga: "Batería extraíble de 15 kg con asa; 6 h en enchufe doméstico de 220 V",
     etiquetaDgt: "Cero",
     aprox: [],
-    pros: [
-      "Solo 94 kg y centro de gravedad bajísimo: facilísima de mover y de 'ratonear' entre el tráfico",
-      "Frenada con una mordida muy superior a lo habitual en el segmento (discos de 175 mm + CBS en la Active)",
-      "Batería extraíble que se carga en cualquier enchufe doméstico sin instalación",
-      "Comportamiento dinámico casi idéntico al de un scooter de gasolina",
-      "Precio contenido (3.700 €) para ser un Piaggio eléctrico",
-      "Llave electrónica por proximidad, USB, instrumentación LCD y marcha atrás",
+pros: [
+      "Con 94 kg, asiento a 770 mm y plataforma plana, la Active se mueve a pulso en un garaje y entre coches parados sin la torpeza de un 125 de gasolina.",
+      "La batería de 2,3 kWh se extrae en segundos y se carga en 6 h en un enchufe doméstico de 220 V: no necesitas plaza con punto de carga para usarla a diario.",
+      "Aunque la batería va bajo el asiento, conserva hueco para un casco jet: Piaggio lo presentaba como el único e-scooter de su categoría con esa capacidad.",
+      "Es la única versión con frenada combinada CBS y discos de 175 mm delante y detrás; la 1 básica de 45 km/h no lleva CBS.",
+      "Frente a la 1 básica, la Active sube a 60 km/h y a 2 kW (2,7 CV), así que no queda limitada a calles de 45 km/h y se defiende en vías urbanas rápidas con carnet A1 o B con 3 años.",
     ],
-    contras: [
-      "El KERS solo regenera al accionar los frenos y desconecta el motor: imposible acelerar y frenar a la vez en una cuesta",
-      "Suspensiones blanditas con bastante recorrido muerto; imprecisas con piloto pesado",
-      "El modo Eco limita a 30-32 km/h: en la práctica solo se usa en emergencia",
-      "66 km de autonomía en modo Sport, justos para un uso intensivo",
-      "Ergonomía contenida: los pilotos altos van justos de espacio para los pies",
-      "Ruedas de 10 pulgadas, peor para bordillos y baches que una rueda alta",
+contras: [
+      "La autonomía útil depende del modo: 66 km WMTC en Sport frente a 85 km en Eco. Si tu trayecto diario suma ida, vuelta y desvíos, irás justo sin cargar entremedias.",
+      "Cargar del todo lleva 6 horas y no hay carga rápida: una batería vacía a mediodía no está lista para la vuelta de la tarde.",
+      "Extraíble no significa ligera: la batería de la Active pesa 15 kg con asa, un peso serio si hay que subirla a un tercero sin ascensor cada noche.",
+      "Las ruedas de 10 pulgadas y los 60 km/h de punta marcan el límite: baches y bordillos se notan más que en un rueda alta y las rondas rápidas quedan fuera de su terreno.",
     ],
-    curiosidades: [
-      "Tiene una edición especial diseñada por el modista Feng Chen Wang",
-      "El cuadro muestra la palabra 'READY' para indicar que el motor está activo, porque no suena nada",
-      "Piaggio ya vendió un scooter eléctrico en los 90: el Zip Bimodal híbrido",
-      "La versión Active se distingue por sus amortiguadores traseros rojos",
-      "Recargar la batería completa cuesta unos 65 céntimos de euro",
+curiosidades: [
+      "Se anunció primero en TikTok, en primavera de 2021, todavía con el nombre Piaggio One, antes de su estreno mundial en Pekín el 28 de mayo de ese año.",
+      "La edición Feng Chen Wang, vista en el EICMA 2021 y a la venta desde febrero de 2022, pintaba a mano con pincel chino el agua y el fénix sobre la carrocería, con casco y colección de ropa a juego.",
     ],
     imagen: "/media/piaggio-1-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -282,6 +276,18 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteNombre: "Piaggio – página oficial del modelo",
     fuenteUrl: "https://www.piaggio.com/es_ES/models/piaggio-1/",
     analisisSlug: "vespa-elettrica-vs-piaggio-1-cual-comprar",
+    planMantenimiento: {
+      intervalo: "Plan de mantenimiento del fabricante (detalle en las revisiones)",
+      revisiones: [
+        {
+          nombre: "Plan de mantenimiento del fabricante",
+          queSeCambia: "Según la tabla de revisiones del distribuidor Piaggio en Colombia para la Piaggio 1 Active, la primera revisión es a los 1.000 km o al mes, la segunda a los 5.000 km o a los 6 meses y después cada 5.000 km (10.000, 15.000, 20.000 km...). La batería de ion-litio no requiere mantenimiento específico y conserva más del 70 % de su capacidad tras 800 ciclos completos. Sin costes verificados para España: consúltalos en un concesionario oficial antes de comprar.",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "https://piaggio-colombia.com/wp-content/uploads/2024/09/Manual-de-garantiia-Piaggio-Ajustado-17-nov-2023.pdf",
+    },
   },
   {
     id: "honda-em1-e-ficha-tecnica-precio",
@@ -4006,24 +4012,22 @@ export const MOTOS_BASE: MotoComparador[] = [
     carga: "Carga rápida CC: 80% en menos de 1 hora; cargador AC de a bordo: ~3,5 h; toma doméstica: ~6 h",
     etiquetaDgt: "Cero",
     aprox: [],
-    pros: [
-      "Una de las eléctricas más potentes del mercado: 126 kW (171 CV) de potencia máxima",
-      "Velocidad máxima limitada electrónicamente a 200 km/h",
-      "Batería de polímero de litio de 21,5 kWh: la mayor capacidad de la lista",
-      "Carga rápida por conector CCS como los coches eléctricos: al 80% en menos de una hora",
-      "Autonomía urbana declarada de 420 km (230 km en ciclo mixto)",
+pros: [
+      "Empuje de naked grande sin marchas: 126 kW (171 CV) con entrega inmediata y velocidad punta limitada a 200 km/h, cifras de la ficha que la sitúan por encima de casi cualquier eléctrica de calle de su época",
+      "Batería de 21,5 kWh, la capacidad que Energica estrenó para su gama 2020: autonomía declarada de 420 km en ciudad y 230 km en ciclo mixto según la ficha, impensable en una naked eléctrica rival",
+      "Carga rápida en corriente continua por CCS hasta el 80 % en menos de una hora según la ficha, algo que en 2024 seguían sin ofrecer la mayoría de motos eléctricas, pensadas solo para enchufe lento",
+      "Herencia directa de MotoE: Energica fue suministrador único del mundial eléctrico de 2019 a 2022 y trasladó esa experiencia a la Ribelle, con parte ciclo de primer nivel compartida con la Ego",
+      "Etiqueta Cero de la DGT y carnet A: entra en zonas de bajas emisiones sin restricciones y no consume gasolina, con el mantenimiento propio de una eléctrica",
     ],
-    contras: [
-      "Energica Motor Company solicitó la liquidación judicial el 14 de octubre de 2024: no hay stock nuevo fiable ni red de posventa garantizada",
-      "Precio muy elevado: 30.214 €",
-      "Moto pesada y de gran tamaño, poco práctica para ciudad",
-      "Casi sin concesionarios en España: recambios y asistencia complicados",
-      "La batería perderá capacidad con el tiempo y la marca ya no existe: riesgo de devaluación total",
+contras: [
+      "Comprarla en 2024 es comprar una huérfana: Energica solicitó la liquidación judicial el 14 de octubre de 2024, así que garantía, recambios y actualizaciones quedan sin respaldo claro del fabricante",
+      "30.214 € de precio en la ficha por una naked que, además, será muy difícil de revender: el cierre de la marca castiga el valor residual y asusta a cualquier segundo comprador",
+      "270 kg en orden de marcha según la ficha: en parado, aparcando y maniobrando a baja velocidad se nota todo el peso de la batería, por muy bajo que vaya el centro de gravedad",
+      "Red comercial y de asistencia mínima en España ya antes del cierre: cualquier avería electrónica o de batería obliga a buscar especialista independiente y a esperar piezas de un fabricante en liquidación",
     ],
-    curiosidades: [
-      "Fabricada en Módena, Italia, con tecnología derivada del campeonato MotoE",
-      "Su motor EMCE pesa con el inversor menos de 10 kg para 171 CV",
-      "La empresa cerró en 2024 pese a ser pionera en superbikes eléctricas",
+curiosidades: [
+      "La moto de carreras de la que desciende su tecnología, la Ego Corsa de MotoE, corría con 18 pilotos en parrilla y unos 270 km/h de punta; la Ribelle de calle se conforma con 200 km/h limitados para cuidar batería y autonomía",
+      "Su motor EMCE, codesarrollado con la italiana Mavel y adelantado de 2022 a 2021 por los problemas de suministro de la pandemia, pesa 10 kg menos que el anterior junto con el inversor, pese a entregar más potencia",
     ],
     imagen: "/media/motos/energica-eva-ribelle-2024-ficha-tecnica-precio.webp",
     galeria: [],
@@ -4032,6 +4036,18 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteNombre: "motoselectricas.tech",
     fuenteUrl: "https://motoselectricas.tech/motos/energica/eva-ribelle",
     analisisSlug: null,
+    planMantenimiento: {
+      intervalo: "Plan de mantenimiento del fabricante (detalle en las revisiones)",
+      revisiones: [
+        {
+          nombre: "Plan de mantenimiento del fabricante",
+          queSeCambia: "Mantenimiento muy espaciado propio del motor EMCE: aceite de transmisión cada 30.000 km y refrigerante de motor e inversor cada 45.000 km, además de cadena, pastillas y líquido de frenos como en cualquier moto. Sin aceite de motor, filtros ni distribución. La advertencia para una 2024 es otra: con la marca en liquidación desde octubre de 2024, ese plan solo lo puede ejecutar un taller independiente con acceso a piezas y diagnosis de Energica.",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "International Excellence / Blacktop Media, pruebas de la Eva Ribelle con motor EMCE: intervalos de 30.000 km para aceite de transmisión y 45.000 km para refrigerante",
+    },
   },
   {
     id: "can-am-pulse-2024-ficha-tecnica-precio",
