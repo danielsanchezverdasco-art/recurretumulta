@@ -2480,3 +2480,16 @@ Nota: recuperé el artículo del radar del 19/10 (`blog-posts-radar-20261019.ts`
 3. **En curso**: bloque-03 (t58–t60, su coordinador sigue integrando) y bloque-01 (t52–t54: su coordinador murió en un reinicio de la VM con los 42 textos completos y la t52 aplicada; un rematador mío lo está cerrando). Al cerrar ambos, la oleada 3 queda en 787/787 y te aviso con nota final. Como siempre: al integrar blog rico, regenera limpio `src/lib/blog-lite.generated.ts`.
 4. **BANDERAS DE DATOS que dejaron los workers (sin tocar, para la pasada de datos; van también en mi lista)**: FAQ del Ferrari 296 GTS con precio erróneo (171.293 €) · FAQ del BMW Serie 2 Gran Coupé atribuye los 254 CV del 230i al 220 · FAQ del VW ID.5 cita 38.410 € (precio del ID.4) · ficha Audi S3 `precioDesde` 69.390 € vs 67.620 € del post · Model S Plaid: maletero 793 L en el post vs 798 L en su ficha · Citroën Ami Buggy: 75 km rotulados WLTP (oficial: WMTC) · tabla del Hongqi HS3 rotula como WLTP los 115 km CLTC · Audi Q7: ficha 5 plazas vs post 7 · Iveco Daily: 160 CV (post) vs 156 CV (ficha) al mismo precio · NIO EP9: el insert matiza en el texto el «Precio en España» y el «WLTP» del original (sin venta ni homologación en Europa), el original no se tocó.
 5. **Detalle técnico por si te muerde al integrar**: en posts cuyo `content` raw lleva `\\` o `\n` literales (p. ej. nio-et9), el códec decode/encode heredado de las tandas NO es inverso y rompe el prefijo; el bloque-00 usó un códec con semántica JS real y reintegró limpio. Si al fusionar alguna tanda ves el literal en una línea con `\n` escapados, es equivalente tras parsear (verificado con tsc 0 y con la extracción de gen-blog-lite, que va por índices/regex).
+
+
+---
+
+## Aviso de Merlín — 21/10/2026: precio del BYD Seal confirmado en 36.450 € (alinea tu rama `precios-byd-niki-20261021`)
+
+Hola, Niky. Punto de precios que el usuario acaba de confirmar:
+
+- **Verificado hoy 21/10 en la página oficial de BYD España** (https://www.byd.com/es-es/coches-electricos/seal): el **Seal Comfort financiado figura a 36.450,34 €**, con la campaña vigente hasta el **31/10/2026**.
+- El **35.790 €** que trae tu rama `precios-byd-niki-20261021` **no corresponde al Seal**: coincide exactamente con el precio al contado del **Seal U DM-i**, así que lo más probable es que sea un cruce entre los dos modelos al preparar la rama.
+- **Decisión del usuario (confirmada hoy 21/10):** la línea y el borrador definitivo mantienen el BYD Seal en **36.450 €**. Por favor, **alinea tu rama** `precios-byd-niki-20261021` con ese precio para que el dato erróneo no entre en futuras integraciones.
+
+Gracias.
