@@ -305,6 +305,36 @@ En España, el hueco del Song L lo ocupa su hermano **BYD Sealion 7**, ya a la v
 
 <img src=/media/byd-song-l-ev-2025-precio-ficha-tecnica-oficial.webp alt=BYD Song L EV vista tres cuartos trasera>
 
+## La dinastía Song y la e-Platform 3.0: el contexto que falta
+
+BYD organiza su gama china en dinastías, y la Song es la que sostiene el volumen de SUV de la marca. El Song L es su interpretación deportiva: un coupé familiar construido sobre la e-Platform 3.0 con arquitectura de 800 voltios y la batería Blade de química LFP integrada en la estructura mediante el sistema Cell-to-Body. Esa integración no es un detalle de folleto: al formar parte del suelo, la batería libera espacio interior, baja el centro de gravedad y rigidez el conjunto, tres ventajas que se notan en un coche de 4,84 metros.
+
+## Las tres versiones, ordenadas por el uso que harás de ellas
+
+| Versión | Potencia | Batería | Autonomía CLTC | 0 a 100 km/h |
+|---|---|---|---|---|
+| Acceso | 204 CV | 71,8 kWh | 550 km | 8,5 s |
+| Intermedia | 313 CV | 87 kWh | 662 km | 6,9 s |
+| Tope AWD | 517 CV | 87 kWh | 602 km | 4,3 s |
+
+La tabla esconde una lección de compra: la versión con más autonomía no es la más potente, sino la intermedia de un solo motor, porque el segundo motor de la AWD consume parte de la ventaja de la batería grande. La de acceso, con sus 550 km declarados y 204 CV, cubre el uso familiar completo sin pagar ni el sobreprecio ni el peso de la batería de 87 kWh.
+
+## 662 km CLTC: la conversión mental que hay que hacer
+
+Todas las autonomías de este modelo están homologadas en el ciclo chino CLTC, notablemente más generoso que el WLTP europeo, así que esos 662 km no deben compararse directamente con los de un SUV eléctrico vendido en España. Trasladados a la escala europea, quedarían sensiblemente por debajo, en la zona alta de lo que hoy ofrecen los familiares eléctricos de aquí. La química LFP de la Blade juega a su favor en otro terreno: tolera mejor las cargas completas diarias y presume de una durabilidad que las baterías de níquel no igualan.
+
+## Coupé por fuera, familiar por batalla
+
+La silueta descendente engaña al ojo, porque los 2.930 mm de distancia entre ejes son propios de un segmento superior y dejan unas plazas traseras donde los adultos no negocian ni piernas ni cabeza como en otros SUV coupé. El portón trasero completa el planteamiento práctico, y el alerón retráctil o los tiradores enrasados recuerdan que la aerodinámica manda cuando hay que estirar cada kilovatio hora.
+
+## Song L EV o Sealion 7: veredicto
+
+En Europa, el puesto del Song L lo defiende su hermano <a href=/coches/byd-sealion-7-2025-precio-ficha-tecnica/>BYD Sealion 7</a>, que sí se vende en España con garantía y red oficial; el Song L, de momento, se queda en China. El detalle numérico completo del protagonista está en <a href=/coches/byd-song-l-ev-2025-precio-ficha-tecnica/>la ficha del Song L EV</a>. **Veredicto:** si BYD lo importara a un precio coherente con su posicionamiento chino, sería uno de los SUV eléctricos familiares más difíciles de batir en relación autonomía-precio; hasta entonces, su función es mostrar hasta dónde llega la plataforma que también sostiene a los BYD que sí puedes comprar. Entre comparativa y comparativa, el recreo está en el <a href=/juego-monos/>juego caza-monos</a>.
+
+## Cargar a 800 voltios: la infraestructura también forma parte del coche
+
+La arquitectura de 800 V promete cargas ultrarrápidas, pero la promesa se cumple solo donde existen cargadores capaces de alimentarla. En China, la red de alta potencia crece al ritmo de las ventas de eléctricos; en Europa, un Song L dependería de las redes de 350 kW de autopista, excelentes en corredores principales y escasas fuera de ellos. Es el recordatorio habitual de los eléctricos de última generación: la cifra de carga del folleto es un techo que comparten el coche, el cargador y la temperatura de la batería, y el día a día se escribe con potencias medias bastante más modestas.
+
 ## Preguntas frecuentes
 
 ### ¿Qué autonomía tiene el Song L EV?
