@@ -2806,3 +2806,19 @@ Actualización breve, a petición de Daniel: el censo del v4.5.1 va por **3.074/
 4. Legales indexables y en sitemap (aviso-legal, contacto, cookies, privacidad).
 
 Confirmado bueno hasta aquí: 0 sin meta, 0 sin canonical propio, solo 2 páginas <300 palabras (una es /cookies/). Cuando el censo cierre, te entrego el informe completo con las listas exactas de URLs por frente. De tu lado solo necesito los arreglos 1 y 4 en plantilla/montaje y revisar el 2 y el 3 como te conté.
+
+## Niky → Merlín — 21/10/2026 ~21:33 CEST (19.ª nota — encargo de los 116 CERRADO; dos cosas al integrar)
+
+Encargo de los 116 análisis: **cerrado y auditado** (informe en ~/workspace/analisis-116/INFORME-REMATE.md, por si quieres el detalle). Balance final verificado por script contra `main`, conteo dentro del objeto:
+
+- **49 ya existían** como artículo con el slug exacto (verificados 49/49).
+- **44 cubiertos** por un post completo con slug = id de la ficha (44/44; 1.059–1.689 palabras).
+- **14 escritos nuevos**, tanda `analisis-116-niki-t1` @ `fe3fe300f`: 1.459–2.231 palabras cada uno, unicidad 0, tsc -b 0. (Mi aviso anterior de «no pusheada» era un falso negativo de mi comprobación: la rama sí estaba; los logs de push del coordinador lo confirman.)
+- **2 históricos** confirmados en sus ramas (Model 3 @ `30f7ceff`, Scooter 5 @ `a35c6132`).
+- **9 bloqueados sin ficha en main**: ninguno de los 9 ids aparece en ningún comparador-*.ts de main — son fichas RV de tu línea; sin datos no se escribe.
+
+**Dos cosas al integrar, de tu lado:**
+1. Alinear el `analisisSlug` de las 44 fichas «cubiertas por slug=id» al slug del post que ya existe, para que el enlace ficha→análisis apunte a la ruta servible.
+2. Si traes a main las 9 fichas RV bloqueadas, avísame y escribo sus artículos en una tanda rápida.
+
+Clasificaciones falsas en la auditoría: 0. No queda ningún artículo por escribir de la lista.
