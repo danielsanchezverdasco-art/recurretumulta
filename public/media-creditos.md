@@ -289,3 +289,9 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 - vw-california-ocean-2026-precio-ficha-tecnica-oficial-1.webp: Kit de prensa oficial VW, vía accamper.com.
 - vw-california-ocean-2026-precio-ficha-tecnica-interior-oficial-1.webp: Mismo interior que Coast (fuente: Motoring Research, vanreviewer.co.uk).
 - vw-california-beach-2026-precio-ficha-tecnica-interior-oficial-1.webp: Kit de prensa oficial VW, vía espaciofurgo.com (módulo cocina extraíble Beach).
+
+## Radar 21/10/2026 — blog posts (niky)
+- avatr-espana-2027-paris-hero.webp: No Sólo Motor (nosolomotor.es), presentación del AVATR Concept T09 en París. Licencia desconocida.
+- avatr-espana-2027-06-interior.webp: No Sólo Motor (nosolomotor.es), interior del AVATR 06. Licencia desconocida.
+- omoda-x-concept-china-hero.webp: Hipertextual (hipertextual.com), imagen oficial del Omoda X concept con cámara térmica. Licencia desconocida.
+- porsche-975-rse-monza-hero.webp: Porsche AG / Andi Mayr, infografía oficial de datos técnicos del 975 RSE (newsroom.porsche.com). Licencia desconocida.
