@@ -362,6 +362,45 @@ Vídeo: <a href=https://www.youtube.com/watch?v=EoBCLNTaPI8>unboxing y prueba de
 
 <img src=/media/patinetes/bogist-m5-pro-3.webp alt=Bogist M5 Pro con sillín y cesta en ciudad>
 
+## Bogist y la idea detrás del M5 Pro
+
+Bogist vende por distribuidores y plataformas, sin red propia vistosa en España. Este modelo es su pieza básica del formato sentado: no pretende acompañarte bajo el brazo al metro, sino sustituir a una segunda moto en trayectos cortos. Asiento con respaldo, cesta y ruedas grandes resumen la propuesta; el dinero está en batería y motor, no en acabados premium.
+
+## Qué aporta cada componente en la práctica
+
+| Elemento | Dato | Lectura honesta |
+|---|---|---|
+| Motor | 500 W | Empuje para arrancar cargado sin ayudarte con el pie |
+| Batería | 48 V, 13 Ah, 624 Wh | La cifra que sostiene la autonomía |
+| Autonomía | 40 km declarados, unos 27 km reales | El fabricante cita hasta 60 km ideales: planifica con la estimación baja |
+| Ruedas | Neumáticas de 12 pulgadas | Menos golpe seco y más aplomo a baja velocidad |
+| Frenos | Doble disco | Coherente con el peso del conjunto más la carga |
+| Carga máxima | 150 kg | Margen poco habitual por unos 429 € |
+
+Ir sentado, acelerar en cada semáforo y llevar peso en la cesta consume más que una prueba continua en llano. Con **27 km reales** en mente, un recorrido diario de 8-10 km permite cargar cada dos o tres días sin apurar la batería. Como regla general en patinetes, lo útil suele ser el 60-70 % de lo declarado, no una medición propia de este modelo. El detalle completo está en la <a href=/patinetes/bogist-m5-pro/>ficha del Bogist M5 Pro</a>.
+
+## Uso diario: cómodo sentado, incómodo en parado
+
+Sentado, la experiencia cambia frente a un patinete clásico: las piernas descansan, la cesta libera la espalda y las ruedas de 12 pulgadas no se asustan con adoquines. El reverso aparece al aparcarlo: son **25 kg** con volumen de minimoto, inmanejables para subir tres pisos sin ascensor. Incluso plegado, ocupará hueco en recibidor o maletero. En cuestas, los 500 W ayudan, pero con carga alta y batería baja el ritmo caerá. Si debes cargarlo a pulso en transporte público, descártalo.
+
+Entre trayecto y trayecto, cambia de pantalla un rato con el <a href=/juego-monos/>juego caza-monos</a> escondido entre las páginas de la web.
+
+## Mantenimiento y costes previsibles
+
+No hay plan oficial de revisiones publicado para España, así que manda lo general: desgaste de pastillas de disco, presión y sustitución de neumáticos, y holguras de dirección tras kilómetros de baches. Controlar la presión es barato y alarga autonomía y neumático. Evita guardar la batería semanas descargada o al sol tras cargar; sus **624 Wh** perderán capacidad con los años. El riesgo real es la red: soporte testimonial en España, así que confirma quién suministra recambios antes de pagar, como con el <a href=/patinetes/bogist-c1-pro/>Bogist C1 Pro</a>.
+
+## Normativa VMP: el punto que no admite atajos
+
+La <a href=https://www.dgt.es>Dirección General de Tráfico</a> encuadra estos vehículos como vehículos de movilidad personal cuando cumplen sus condiciones: velocidad máxima de **25 km/h**, circulación prohibida por las **aceras** y certificado de circulación exigible a los VMP comercializados desde el 22 de enero de 2024, con régimen transitorio para los anteriores hasta enero de 2027 según el caso. El casco depende además de la ordenanza de tu municipio. Consulta también la <a href=/guias/patinetes-electricos/>guía de patinetes eléctricos</a>.
+
+Aquí no hay interpretación amable: de serie declara **40 km/h** y figura **sin certificado DGT verificado**. Tal cual sale de la caja no encaja como VMP en España; sin limitación efectiva y sin resolver el certificado, su terreno honesto es el espacio privado.
+
+## Frente a sus hermanos de catálogo y veredicto
+
+El rival incómodo está en casa. El <a href=/patinetes/bogist-m5-pro-s/>Bogist M5 Pro S</a> sube a **720 Wh**, monta ruedas de 12,5 pulgadas y pesa 24,2 kg, pero recorta la carga máxima a 120 kg y declara 50 km/h, también incompatible sin limitar. Si pesas mucho o llevas carga, los **150 kg** del Pro normal compensan esos vatios extra.
+
+**Veredicto:** como utilitario sentado para recados, debidamente limitado y regularizado, ofrece una relación entre batería, carga y precio difícil de igualar. No lo compres como patinete urbano legal de serie, ni si debes subirlo a diario a un piso, ni si esperas servicio técnico de marca grande. Sí encaja con garaje o ascensor, trayectos cortos con compra y un vendedor que responda por los recambios.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Bogist M5 Pro?
@@ -384,7 +423,7 @@ El Pro S tiene más batería (720 Wh); el Pro normal suele ser más barato. Si l
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://www.electricscooterguides.com/resources/bogist-m5-pro-electric-scooter-review-a-comprehensive-analysis>análisis en ElectricScooterGuides</a>.*`,
+*Fuentes: <a href=https://www.electricscooterguides.com/resources/bogist-m5-pro-electric-scooter-review-a-comprehensive-analysis>análisis en ElectricScooterGuides</a>., <a href=https://www.dgt.es>normativa de vehículos de movilidad personal de la DGT</a>*`,
   },
   {
     slug: "bogist-m5-pro-s",

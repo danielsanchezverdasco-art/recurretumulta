@@ -651,6 +651,37 @@ La **BMW F 450 R** acaba de aterrizar en el segmento más disputado del carnet A
 
 Fichas completas: <a href=/motos/bmw-f-450-r-2026-ficha-tecnica-precio/>BMW F 450 R</a> · <a href=/comparador-motos/>Comparador de motos</a> · Análisis: <a href=/blog/bmw-f-450-r-naked-a2-precio-espana-2026/>BMW F 450 R, a fondo</a>
 
+## Por qué este segmento está tan disputado
+
+Las naked A2 concentran a quien estrena carnet, a quien vuelve tras años y a quien baja de una moto grande. Honda recupera un nombre con historia —su ficha recuerda que nació con la CB600F de 1998— y comparte motor con la Rebel 500, la NX500 y la CL500. Kawasaki apela al diseño Sugomi de la familia Z, nacida en 1972 con la Z1, y comparte casi todo con la Ninja 500 salvo el carenado. BMW entra con la familia F 450, cuyo motor fabrica TVS en India y cuyo cigüeñal a 135 grados busca un sonido propio.
+
+## La tabla, ampliada con lo que no se ve en el precio
+
+| Dato | BMW F 450 R | Honda CB500 Hornet | Kawasaki Z500 |
+|---|---|---|---|
+| **Potencia en kW** | 35 kW | 34,6 kW | 33,4 kW |
+| **Horquilla** | KYB de 43 mm | Showa SFF-BP invertida | Sencilla, sin ajuste destacado |
+| **Freno delantero** | Pinza Brembo monobloque | Doble disco | Sin dato destacado en ficha |
+| **Pantalla** | TFT de 6,5 pulgadas | TFT de 5 pulgadas con conectividad | TFT solo en la versión SE |
+| **Revisión** | Cada 10.000 km | Cada 12.000 km o 12 meses | Cada 12.000 km o 12 meses |
+| **Altura de asiento** | No consta en las fichas del sitio | No consta en las fichas del sitio | No consta en las fichas del sitio |
+
+Consulta cada modelo por separado en su ficha: <a href=/motos/bmw-f-450-r-2026-ficha-tecnica-precio/>ficha de la BMW F 450 R</a>, <a href=/motos/honda-cb500-hornet-2025-ficha-tecnica-precio/>ficha de la Honda CB500 Hornet</a> y <a href=/motos/kawasaki-z500-2024-ficha-tecnica-precio/>ficha de la Kawasaki Z500</a>. Si la Kawasaki te gusta pero quieres mejor acabado, existe la <a href=/motos/kawasaki-z500-se-2025-ficha-tecnica-precio/>Kawasaki Z500 SE</a>, que según su ficha suma pantalla TFT por 6.799 €.
+
+## Uso real: ciudad, curvas y autopista
+
+En ciudad manda el peso. La BMW, con 175 kg y el Easy Ride Clutch opcional, promete arranques sin tocar la maneta, ayuda clara entre semáforos; la Honda compensa sus 188 kg con un motor probado y dócil, y la Kawasaki juega la baza de ser ligera y estrecha. En curvas, la BMW suma electrónica sensible a la inclinación y frenos de referencia, la Honda aporta horquilla invertida y doble disco, y la Kawasaki ofrece sencillez. En autopista ninguna es rutera: sin protección aerodinámica, el viento manda en las tres.
+
+## Mantenimiento y costes comparados
+
+Honda y Kawasaki piden revisión cada 12.000 km o 12 meses —la Kawasaki añade la primera a los 1.000 km—, mientras la BMW marca 10.000 km según su nota oficial. El duelo de arriba advierte de que la red BMW cobra más, y la ficha de la Honda subraya consumo bajo y mantenimiento barato. En casa, las tres usan cadena con retenes: limpieza, engrase y tensión. Honda especifica aceite 10W-30 y Kawasaki 10W-40 en sus fichas. Sin cifras cerradas de taller, la lectura honesta es que las japonesas parten con ventaja en coste por kilómetro.
+
+## Carnet A2: el límite que las iguala
+
+Las tres nacen para el mismo permiso: el A2 limita a 35 kW, y por eso la BMW declara exactamente 35 kW, la Honda 34,6 kW y la Kawasaki 33,4 kW. Ninguna necesita limitación adicional. Con la potencia topada por norma, la diferencia real la ponen el peso, la electrónica, el precio y el coste de mantenerla.
+
+**Veredicto:** no hay una ganadora única, hay una ganadora por perfil. Si estrenas A2 y quieres la moto más completa y tecnológica, la **BMW F 450 R**, asumiendo revisiones más caras y una base sin extras. Si buscas equilibrio, reventa fácil y gastos contenidos durante años, la **Honda CB500 Hornet**. Si el presupuesto es el factor decisivo y prefieres gastar la diferencia en equipamiento o en el seguro, la **Kawasaki Z500**. Y entre ficha y ficha, prueba el <a href=/juego-monos/>juego caza-monos</a> repartido por la web.
+
 ## Preguntas frecuentes
 
 ### ¿Cuál es la naked A2 más potente de las tres?
@@ -664,7 +695,9 @@ La **BMW F 450 R** con diferencia: ABS Pro en curva, control de tracción, contr
 
 ### ¿Cuál pesa menos?
 La **BMW F 450 R** (175 kg en orden de marcha), 13 kg menos que la Honda CB500 Hornet (188 kg).
-`,
+
+
+*Fuentes: <a href=https://www.press.bmwgroup.com/global/article/detail/T0460765EN/bmw-motorrad-presents-the-new-bmw-f-450-r?language=en>nota de prensa oficial de BMW Motorrad</a>, <a href=https://www.honda.es/motorcycles.html>Honda España</a> y <a href=https://www.kawasaki.es/>Kawasaki España</a>.*`,
   },
 
   {

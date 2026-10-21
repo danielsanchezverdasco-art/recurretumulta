@@ -59,6 +59,50 @@ Ficha completa: <a href=/coches/icaur-v27-erev-2027-precio-ficha-tecnica/>iCAUR 
 
 <img src=/media/icaur-v27-defender-chino-precio-espana-2027-galeria-2.webp alt=Interior de un todoterreno premium con gran pantalla táctil central y cuero marrón>
 
+## iCAUR, la vía aventurera de Chery
+
+**iCAUR** es la submarca de **Chery** pensada para el todoterreno electrificado: en China se vende como **iCar**, con el V27 a la venta desde marzo de 2026, y para Europa cambia la grafía sin cambiar la idea. Silueta recta, faros redondos, rueda de repuesto en el portón y un lema oficial, «Classic Never Fades», que resume su apuesta por el diseño clásico con tecnología actual. Su web global, <a href=https://www.icaurglobal.com/>icaurglobal.com</a>, ya lo presenta como producto internacional, aunque sin precios cerrados para nuestro mercado.
+
+La estrategia encaja en el grupo: Chery ya vende en España con Omoda y Jaecoo, y con iCAUR busca otro hueco, el del comprador que mira un Defender pero quiere etiqueta **Cero** por mucho menos dinero.
+
+## Cómo funciona su EREV, sin humo
+
+Quien mueve las ruedas es siempre la parte eléctrica. El **1.5 turbo de 143 CV** actúa como generador para recargar la batería en marcha, no como propulsor principal. Así circula a diario como un eléctrico y, en viajes largos, sigue rodando con gasolina sin depender de un cargador rápido.
+
+| Dato | iCAUR V27 |
+|---|---|
+| **Batería** | 34,3 kWh, química LFP |
+| **Potencia 2WD / 4WD** | 248 CV / 449 CV |
+| **Par máximo** | 505 Nm |
+| **Autonomía eléctrica** | 145 km, ciclo WLTP |
+| **Autonomía combinada** | 900 km, ciclo WLTP |
+| **Longitud** | 4.909 mm (5.055 mm con rueda exterior) |
+| **Etiqueta DGT prevista** | Cero |
+
+Conviene leer las cifras con su ciclo al lado: los **145 km WLTP** son la referencia útil aquí, no las cifras más optimistas de otros ciclos.
+
+## Qué significa para España: previsión, no promesa
+
+Todo lo relativo a **2027** es **previsión de prensa especializada, no confirmación oficial**. La llegada a Europa, España incluida, está anunciada para ese año, pero no hay calendario español, gama definitiva ni red asignada. Lo mismo pasa con el dinero: los **54.900 €** son un precio de lanzamiento europeo difundido por la prensa, **pendiente de confirmación oficial para España**, no un PVP cerrado.
+
+Dos incógnitas más condicionan su encaje: le correspondería la etiqueta **Cero** por superar los 40 km eléctricos, pero todavía no hay resultado **Euro NCAP** publicado, así que en seguridad toca esperar a la prueba europea sin dar por hecho ninguna estrella. Todos los datos conocidos están en la <a href=/coches/icaur-v27-erev-2027-precio-ficha-tecnica/>ficha completa del iCAUR V27</a>.
+
+## Uso real esperado
+
+Si se acerca a lo homologado, su uso natural será cargar en casa y moverse a diario sin arrancar el generador, reservando los **900 km combinados** para escapadas largas. A cambio, con casi cinco metros aparcar en el centro será una tarea seria, y un EREV sigue teniendo un motor de gasolina que mantener. Sin pruebas independientes ni propietarios en Europa, afirmar más sobre consumo real o capacidad fuera de pista sería inventar.
+
+Mientras tanto, el rato se pasa rastreando monos escondidos entre nuestras fichas con el <a href=/juego-monos/>juego caza-monos</a>.
+
+## Frente a los rivales que ya puedes comprar
+
+Su contraste más incómodo no es el Defender, sino otro EREV ya a la venta: el <a href=/coches/leapmotor-c10-reev-2025-precio-ficha-tecnica/>Leapmotor C10 REEV</a> ofrece en nuestra ficha **215 CV**, la misma autonomía eléctrica de **145 km** y precio desde **33.800 €**. Es más pequeño y menos todoterreno, pero ya se vende aquí por mucho menos. En híbrido enchufable, el <a href=/coches/jaecoo-7-shs-hibrido-enchufable-precio-ficha-tecnica/>Jaecoo 7 SHS</a> parte de **27.990 €** con **279 CV** y **90 km** eléctricos, aunque mide 4,50 metros y juega en otra liga.
+
+El referente estético sigue siendo distinto: el <a href=/coches/land-rover-defender-110-d350-2025-precio-ficha-tecnica/>Land Rover Defender 110 D350</a> de nuestra ficha es diésel, con **350 CV**, etiqueta ECO y **786 litros** de maletero. El V27 no lo iguala en tradición ni en red, pero lo ataca con etiqueta Cero y un precio anunciado muy inferior.
+
+## ¿Compensa esperar a 2027?
+
+**Veredicto:** sí merece la pena seguirlo si quieres un todoterreno grande, de imagen clásica y uso diario eléctrico, y no necesitas cambiar de coche este año: **449 CV**, tracción total y 900 km combinados no tienen hoy equivalente directo a ese precio anunciado. No compensa si necesitas comprar ya, si sufres parkings estrechos o si te inquieta estrenar marca, con posventa, reventa y Euro NCAP por demostrar. Lo sensato: esperar al precio oficial español y compararlo entonces, con datos cerrados, frente a lo que ya se vende.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el iCAUR V27 en Europa?
@@ -75,7 +119,9 @@ Al ser un EREV con más de 40 km de autonomía eléctrica, le corresponde la eti
 
 ### ¿El iCAUR V27 es el mismo que el iCar V27 de China?
 Sí: **iCAUR** es el nombre de la marca para Europa; en China se vende como **iCar V27** desde marzo de 2026.
-`,
+
+
+*Fuentes: <a href=https://www.icaurglobal.com/>web oficial de iCAUR</a> y prensa especializada citada en el texto.*`,
 },
 {
   title: "BMW F 450 R: naked A2 por 6.799 €",
