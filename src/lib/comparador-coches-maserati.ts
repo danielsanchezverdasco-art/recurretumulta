@@ -1633,18 +1633,18 @@ export const COCHES_MASERATI: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "V6 Nettuno de 630 CV con tecnología de F1",
-      "265.388 € (km77): el superdeportivo italiano accesible",
-      "1.475 kg: monocasco de carbono",
-      "2,9 s de 0-100 y 325 km/h",
-      "Puertas de tijera y diseño de Dallara",
+      "Nettuno hecho en Módena: V6 de 3,0 litros con precámara heredada de la Fórmula 1, doble bujía por cilindro y 210 CV por litro",
+      "Presentado en Módena el 9 de septiembre de 2020: el primer superdeportivo de la casa desde el MC12",
+      "Monocasco de carbono afinado con Dallara tras unas 2.000 horas de túnel de viento: 1.475 kg en total",
+      "Motor central trasero y cambio de doble embrague de ocho marchas: 325 km/h de punta",
+      "Puertas de mariposa, las primeras en un Maserati, y modos Wet, GT, Sport y Corsa en la consola de carbono"
     ],
     contras: [
-      "Etiqueta C: vetado de futuras ZBE",
-      "11,5 l/100 km y 261 g/km de CO2",
-      "Maletero de 100 (+50) litros",
-      "Red de servicio más pequeña que Ferrari/Lambo",
-      "El MC20 Cielo le roba protagonismo descapotable",
+      "Sin ninguna ayuda eléctrica: frente al McLaren Artura híbrido, su V6 trabaja solo y se queda con la etiqueta C",
+      "Homologa 261 gramos de CO₂ por kilómetro y 11,5 litros a los cien en ciclo WLTP: pasar por la gasolinera sale caro",
+      "Carga 100 litros detrás y otros 50 delante: incluso una escapada breve obliga a viajar con bolsas blandas",
+      "Mirar hacia atrás sirve de poco con la cubierta del motor central, y el aviso de ángulo muerto no siempre venía de serie",
+      "En España la red Maserati es mucho más corta que la de sus rivales italianos, así que la revisión puede quedar lejos de casa"
     ],
     largoMm: 4669,
     anchoMm: 1965,
@@ -1661,14 +1661,14 @@ export const COCHES_MASERATI: CocheComparador[] = [
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 21.28,
-      "seguroTercerosAnual": 1500,
-      "seguroAmpliadoAnual": 3800,
-      "mantenimientoAnual": 2000,
       "costeMensualTotal": 749,
-      "precioKwh": 0.18,
+      "estimado": true,
+      "mantenimientoAnual": 2000,
+      "notas": "Coupé cerrado de gasolina: recorrer 15.000 km en un año con los 11,5 litros WLTP de esta ficha y la gasolina a 1,85 euros deja 21,28 euros de combustible por cada cien; seguros y revisión anual son partidas estimadas para un Nettuno de 630 CV en España",
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año y consumo WLTP de 11,5 l/100 km (km77)",
-      "estimado": true
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 3800,
+      "seguroTercerosAnual": 1500
     },
     galeria: [
       {
@@ -1690,6 +1690,34 @@ export const COCHES_MASERATI: CocheComparador[] = [
         "alto": 800
       },
     ],
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: Euro NCAP nunca ha ensayado este coupé cerrado, así que no hay estrellas que asignarle",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Manual del propietario del Maserati MC20 (filtro de aceite nuevo en cada cambio, renovación bienal del líquido de frenos y líquido de la DCT cada 24 h de pista); intervalo de 15.000 km o 12 meses según Al Tayer Motors Maserati, concesionario oficial que cita las directrices del fabricante para el MC20, corroborado por CarsGuide; Maserati España ofrece para el MC20 su Mantenimiento Premium, que cubre los 3 primeros servicios sin publicar precios en euros",
+      "intervalo": "Cada 12 meses o cada 15.000 km recorridos, lo primero que se cumpla",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Primer servicio programado / 15.000 km o 12 meses",
+          "queSeCambia": "Aceite del V6 Nettuno y su filtro, porque el manual manda montar un filtro nuevo en cada cambio de aceite, además de la inspección programada del programa de mantenimiento del MC20"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Servicio a los 24 meses",
+          "queSeCambia": "Renovación del líquido de frenos, prevista cada dos años en el manual del MC20, junto a la revisión de los filtros de aire del motor y del climatizador en un centro autorizado"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Uso en circuito",
+          "queSeCambia": "Si el coche rueda en pista, el manual exige cambiar el líquido de la caja de doble embrague y su filtro externo cada 24 horas de uso en circuito, o antes si el monitor de vida útil lo avisa"
+        }
+      ]
+    },
   },
   {
     id: "maserati-mc20-cielo-2024-precio-ficha-tecnica",
@@ -1714,18 +1742,18 @@ export const COCHES_MASERATI: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "Techo de cristal electrocrómico: opaco o transparente",
-      "630 CV descapotables por 300.500 € (km77)",
-      "Solo 85 kg más que el coupé",
-      "3,0 s de 0-100 a cielo abierto",
-      "El spyder italiano más tecnológico",
+      "Techo retráctil de cristal con tecnología PDLC: se pliega en 12 segundos y pasa de transparente a opaco pulsando un botón",
+      "V6 Nettuno 3.0 biturbo de 630 CV y 730 Nm con encendido por precámara: descapotar no le resta ni un caballo al coupé",
+      "Su monocasco de carbono nació pensado para coupé, spyder y eléctrico, y el Cielo solo añade 65 kg al MC20 cerrado",
+      "Tracción trasera con cambio de doble embrague de ocho marchas: 3,0 segundos hasta 100 km/h y 320 km/h de velocidad punta",
+      "Debutó en mayo de 2022 con la serie PrimaSerie de unas 60 unidades en Acquamarina, un tricapa gris con mica aguamarina"
     ],
     contras: [
-      "35.000 € más que el MC20 coupé",
-      "Etiqueta C: vetado de futuras ZBE",
-      "11,2 l/100 km y 261 g/km de CO2",
-      "Maletero de 100 (+50) litros",
-      "El techo de cristal suma complejidad",
+      "La factura sube a 300.500 €: unos 35.000 € más que el MC20 coupé compartiendo motor, chasis y prestaciones",
+      "Sin electrificación alguna se queda con la etiqueta C, homologando 11,2 litros a los cien y 261 gramos de CO₂ por kilómetro",
+      "El equipaje va repartido en dos huecos de 100 y 50 litros: 150 en total y ninguno capaz de tragar una maleta grande",
+      "Al plegarse, el techo esconde el motor: se pierde la vitrina de cristal que en el coupé deja el Nettuno a la vista",
+      "Cristal electrocrómico, motor de plegado y electrónica PDLC conviven en el techo: cualquier avería ahí se paga a precio de superdeportivo"
     ],
     largoMm: 4669,
     anchoMm: 1965,
@@ -1742,14 +1770,14 @@ export const COCHES_MASERATI: CocheComparador[] = [
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 20.72,
-      "seguroTercerosAnual": 1600,
-      "seguroAmpliadoAnual": 4000,
-      "mantenimientoAnual": 2000,
       "costeMensualTotal": 759,
-      "precioKwh": 0.18,
+      "estimado": true,
+      "mantenimientoAnual": 2000,
+      "notas": "Cuenta particular de este Cielo: recorrer 15.000 km en un año quemando 11,2 litros a los cien supone 1.680 litros de gasolina; a 1,85 € por litro son 3.108 €, que con el seguro amplio de 4.000 € y los 2.000 € de mantenimiento dan los 759 € mensuales estimados.",
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año y consumo WLTP de 11,2 l/100 km (km77)",
-      "estimado": true
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 4000,
+      "seguroTercerosAnual": 1600
     },
     galeria: [
       {
@@ -1771,6 +1799,24 @@ export const COCHES_MASERATI: CocheComparador[] = [
         "alto": 800
       },
     ],
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: ni el MC20 Cielo ni el MC20 coupé han sido probados por Euro NCAP",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "CarExpert, ficha del Maserati MC20 Cielo (revisión cada 20.000 km o 24 meses); Maserati no publica costes oficiales de revisión para España",
+      "intervalo": "Al llegar a los 20.000 km o al cumplir dos años desde la revisión anterior, lo primero que ocurra",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión programada del Nettuno a los 20.000 km",
+          "queSeCambia": "Sustitución del aceite del V6 Nettuno y de su filtro, filtro de habitáculo nuevo y revisión general del spyder con diagnóstico electrónico"
+        }
+      ]
+    },
   },
   {
     id: "maserati-mc20-notte-2024-precio-ficha-tecnica",

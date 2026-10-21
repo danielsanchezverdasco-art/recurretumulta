@@ -117,18 +117,18 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "El mismo V8 de 750 CV del coupé, a cielo abierto: 0-100 en 2,8 s",
-      "Techo rígido retráctil en 11 s (hasta 50 km/h): descapotable sin renuncias",
-      "Solo 49 kg más que el coupé: 1.513 kg, ligereza de récord en un spider",
-      "332 km/h de punta con el techo quitado: el descapotable definitivo",
-      "Monocasco de carbono sin refuerzos extra: la rigidez queda intacta",
+      "El V8 M840T rinde aquí los mismos 750 CV y 800 Nm que en el cerrado, y el 0 a 100 km/h se queda en idénticos 2,8 segundos",
+      "Ocho motores eléctricos mueven su techo rígido de una sola pieza: completa el ciclo en 11 segundos y admite hacerlo circulando hasta 50 km/h",
+      "Pesa 1.513 kg en orden de marcha europeo, apenas 49 kg más que el coupé de 1.464 kg pese a todo el mecanismo del techo",
+      "Su monocasco específico MonoCage II-S no necesita refuerzos adicionales para descapotar, así que la rigidez estructural no se resiente",
+      "Mantiene los 332 km/h de velocidad punta del coupé y solo cede una décima en el 0 a 200 km/h: 7,3 segundos frente a 7,2"
     ],
     contras: [
-      "354.700 € en España: 32.300 € más que el coupé cerrado",
-      "Maletero trasero de solo 58 l con el techo plegado",
-      "12,2 l/100 km y 276 g/km de CO2: etiqueta C",
-      "A 300 km/h con el techo abierto, el viento no es para todos",
-      "Mantenimiento y seguro de superdeportivo descapotable",
+      "Abrir el cielo cuesta 32.300 €: parte de 354.700 € frente a los 322.400 € que McLaren pide por el 750S cerrado",
+      "El hueco trasero se queda en 58 litros, frente a los 210 del coupé; sumando el delantero de 150 litros, viajar ligero es obligatorio",
+      "Etiqueta C de la DGT y nada que la alivie: sin ninguna hibridación, homologa 276 gramos de CO2 por kilómetro y bebe 12,2 litros cada cien",
+      "Descapotado a alta velocidad el habitáculo queda expuesto de lleno al viento: ni el parabrisas bajo ni los contrafuertes vidriados convierten los 300 km/h en un paseo tranquilo",
+      "Pasados los tres años de mantenimiento incluido, cada revisión anual de este V8 con frenos carbocerámicos y Pirelli traseros 305/30 R20 se paga a precio de superdeportivo"
     ],
     largoMm: 4569,
     anchoMm: 1930,
@@ -145,14 +145,14 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 22.57,
-      "seguroTercerosAnual": 2300,
-      "seguroAmpliadoAnual": 5000,
-      "mantenimientoAnual": 2400,
       "costeMensualTotal": 899,
-      "precioKwh": 0.18,
+      "estimado": true,
+      "mantenimientoAnual": 2400,
+      "notas": "Cálculo hecho solo para este Spider: con 15.000 km al año y el consumo homologado de 12,2 litros, quemar gasolina a 1,85 € el litro deja el gasto en 22,57 € por cada 100 km. El seguro ampliado estimado en 5.000 € anuales y los 2.400 € de mantenimiento son orientativos para un descapotable de 354.700 €; McLaren incluía de serie las revisiones de los tres primeros años, con paso por taller al cumplir un año o 15.000 km.",
       "precioGasolinaL": 1.85,
-      "notas": "Estimación orientativa: 15.000 km/año, consumo WLTP 12,2 l/100 km (km77) a 1,85 €/l; seguro y mantenimiento típicos de superdeportivo descapotable en España. Todo aproximado.",
-      "estimado": true
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 5000,
+      "seguroTercerosAnual": 2300
     },
     galeria: [
       {
@@ -174,6 +174,29 @@ export const COCHES_MCLAREN: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: modelo no probado",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Nota de prensa oficial de McLaren Automotive del 750S (abril de 2023): plan de mantenimiento incluido de tres años e intervalo de un año o 15.000 km; contenido de las revisiones según el programa de mantenimiento programado publicado por McLaren Palm Beach, concesionario oficial de la marca",
+      "intervalo": "Un año o 15.000 km recorridos, lo primero que se cumpla; el 750S incluía de serie un plan de mantenimiento programado de tres años",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión de los 12 meses / 15.000 km",
+          "queSeCambia": "Aceite sintético y filtro de aceite del V8 M840T de 4,0 litros, filtro de aire del motor nuevo e inspección multipunto de dirección, articulaciones de suspensión, radiadores, frenos, niveles de líquidos, conexiones eléctricas, ruedas y kit reparapinchazos"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión de los 24 meses / 30.000 km",
+          "queSeCambia": "Se repiten aceite, filtro e inspección multipunto, con comprobación detallada adicional de la dirección electrohidráulica, la suspensión Proactive Chassis Control III, los radiadores y los discos carbocerámicos de 390 mm delante y 380 mm detrás"
+        }
+      ]
+    },
   },
   {
     id: "mclaren-artura-2025-precio-ficha-tecnica",

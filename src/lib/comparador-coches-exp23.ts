@@ -3484,16 +3484,16 @@ export const COCHES_EXP23: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["autonomiaKm", "maleteroL", "consumo"],
     pros: [
-      "802 CV y 1.430 Nm: la berlina más potente de Mercedes",
-      "0-100 en 3,3 s con etiqueta Cero",
-      "Tecnología híbrida derivada de la Fórmula 1",
-      "Lujo de Clase S con prestaciones de hypercar",
+      "V8 biturbo de 4,0 litros con 612 CV delante y motor eléctrico de 190 CV sobre el eje trasero: 802 CV y 1.430 Nm conjuntos",
+      "Llega a 100 km/h en 3,3 segundos pese a ser una berlina de batalla larga pensada para viajar en las plazas traseras",
+      "Dirección activa en el eje trasero y estabilización AMG Active Ride Control para mover sus 5,34 metros con una agilidad impropia de su tamaño",
+      "Batería de alto rendimiento AMG pensada para entregar potencia de forma repetida, con desarrollo ligado a la Fórmula 1"
     ],
     contras: [
-      "33 km eléctricos: la etiqueta Cero es casi un trámite",
-      "Maletero de 305 litros en una berlina de 5,34 metros",
-      "Precio de más de 200.000 €",
-      "2,6 toneladas: la agilidad tiene límites",
+      "Solo 33 km WLTP sin arrancar el V8, frente a los 113 km del S 580 e de su misma Clase S: aquí lo eléctrico apoya la potencia, no el uso diario",
+      "El maletero se queda en 305 litros por el espacio que ocupa la propulsión híbrida: escaso para el equipaje de un viaje largo con cuatro ocupantes",
+      "km77 situó su tarifa en España en 259.477 €, antes de sumar opciones de personalización casi ilimitadas",
+      "2.595 kg con conductor: ni la dirección trasera ni la estabilización activa pueden borrar esa masa en frenadas y cambios de apoyo"
     ],
     imagen: "/media/mercedes-amg-s-63-e-performance-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mercedes-amg-s-63-e-performance-2026-precio-ficha-tecnica-oficial.webp",
@@ -3503,30 +3503,38 @@ export const COCHES_EXP23: CocheComparador[] = [
     videoCanal: null,
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 9.5,
-      seguroTercerosAnual: 1100,
-      seguroAmpliadoAnual: 2000,
-      mantenimientoAnual: 1100,
-      costeMensualTotal: 377,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año combinando uso eléctrico y gasolina. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
-      estimado: true,
+      "costeEnergia100km": 9.5,
+      "costeMensualTotal": 377,
+      "estimado": true,
+      "mantenimientoAnual": 1100,
+      "notas": "Cálculo para este S 63 con 15.000 km al año: con solo 33 km en eléctrico por carga, buena parte de cada trayecto la cubre el V8 de gasolina. Las partidas de seguro, revisión e impuesto municipal son orientativas y dependen del perfil del conductor y del ayuntamiento.",
+      "precioGasolinaL": 1.65,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 2000,
+      "seguroTercerosAnual": 1100
     },
     euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP: versión AMG no probada",
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: no consta prueba publicada del Clase S W223 ni de esta versión S 63",
+      "url": null
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes)",
-      revisiones: [
-        { nombre: "Servicio A", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección del sistema híbrido", costeAproxEur: 900 },
-        { nombre: "Servicio B", queSeCambia: "Aceite + filtros + líquido de frenos + revisión de alta tensión y frenos carbocerámicos", costeAproxEur: 1500 },
-      ],
-      costeAnualAproxEur: 1100,
-      fuente: "Plan oficial Mercedes-Benz España",
+      "costeAnualAproxEur": 1100,
+      "fuente": "Plan oficial Mercedes-Benz España",
+      "intervalo": "Al cumplirse 30.000 km o al llegar a los 24 meses, lo primero que se alcance",
+      "revisiones": [
+        {
+          "costeAproxEur": 900,
+          "nombre": "Servicio A",
+          "queSeCambia": "Sustitución del aceite del V8 y de su filtro, filtro de habitáculo nuevo y chequeo del sistema híbrido trasero"
+        },
+        {
+          "costeAproxEur": 1500,
+          "nombre": "Servicio B",
+          "queSeCambia": "Aceite y filtros renovados, líquido de frenos sustituido y comprobación de la alta tensión y de los frenos carbocerámicos"
+        }
+      ]
     },
   },
   {
@@ -3634,16 +3642,16 @@ export const COCHES_EXP23: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["autonomiaKm", "maleteroL", "consumo"],
     pros: [
-      "680 CV con etiqueta Cero: el SUV compacto más potente",
-      "0-100 en 3,5 s con 1.020 Nm",
-      "Tecnología híbrida de Fórmula 1",
-      "Práctico con 390 litros de maletero",
+      "Su M139 longitudinal entrega 476 CV solo de gasolina y, sumado al motor eléctrico trasero de 204 CV, firma los 680 CV y 1.020 Nm de esta ficha",
+      "3,5 segundos hasta 100 km/h y 275 km/h de punta, siempre con la tracción total 4MATIC+ repartiendo el empuje: prestaciones de coupé deportivo en la carrocería familiar del X254",
+      "El turbocompresor eléctrico heredado de la Fórmula 1 empieza a girar antes de que lleguen los gases de escape, así que el 2.0 responde sin la espera típica de un turbo grande",
+      "Lleva dirección en las cuatro ruedas y la Electric Drive Unit trasera con cambio propio de dos relaciones, capaz de mandar par al eje delantero por el árbol de transmisión"
     ],
     contras: [
-      "33 km eléctricos: la etiqueta Cero es testimonial",
-      "4 cilindros con sonido amplificado artificialmente",
-      "2,3 toneladas y precio de superdeportivo",
-      "Complejidad mecánica máxima",
+      "Adiós al V8: el GLC 63 anterior rendía 510 CV con el biturbo M177 y este se conforma con un 2.0 de cuatro cilindros, con la banda sonora amplificada en vez del bramido de aquel ocho cilindros",
+      "Solo unos 12 km eléctricos homologados y etiqueta ECO, no Cero: la batería de 6,1 kWh que va sobre el eje trasero busca potencia instantánea, no exenciones urbanas",
+      "Con conductor incluido marca 2.310 kg en la báscula y esa masa se nota al frenar y al enlazar curvas, por mucho que el chasis 4MATIC+ la disimule",
+      "143.569 euros de tarifa en España para un conjunto con turbo eléctrico, motor trasero con su propia caja de dos marchas y el MCT de nueve: tanta pieza junta es también tanta pieza que puede fallar"
     ],
     imagen: "/media/mercedes-amg-glc-63-s-e-performance-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mercedes-amg-glc-63-s-e-performance-2025-precio-ficha-tecnica-oficial.webp",
@@ -3653,30 +3661,38 @@ export const COCHES_EXP23: CocheComparador[] = [
     videoCanal: null,
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 12.0,
-      seguroTercerosAnual: 850,
-      seguroAmpliadoAnual: 1550,
-      mantenimientoAnual: 850,
-      costeMensualTotal: 350,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año combinando uso eléctrico y gasolina. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
-      estimado: true,
+      "costeEnergia100km": 12,
+      "costeMensualTotal": 350,
+      "estimado": true,
+      "mantenimientoAnual": 850,
+      "notas": "Nota pensada solo para este GLC 63 S: los 350 euros mensuales salen de recorrer 15.000 kilómetros al año quemando gasolina a 1,65 euros el litro —con los 7,5 litros por cada cien que declara esta ficha, el combustible ronda los 12 euros por cada 100 km— y de sumar un seguro de entre 850 y 1.550 euros y 850 euros de taller al año, todo en cifras orientativas propias de un AMG de 680 caballos.",
+      "precioGasolinaL": 1.65,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 1550,
+      "seguroTercerosAnual": 850
     },
     euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP: versión AMG no probada",
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP a nombre de esta versión: no consta un ensayo publicado del GLC 63 S E Performance de Affalterbach, así que no se le asignan las estrellas de otros GLC de la gama",
+      "url": null
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes)",
-      revisiones: [
-        { nombre: "Servicio A", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección del sistema híbrido", costeAproxEur: 700 },
-        { nombre: "Servicio B", queSeCambia: "Aceite + filtros + líquido de frenos + revisión de alta tensión", costeAproxEur: 1100 },
-      ],
-      costeAnualAproxEur: 850,
-      fuente: "Plan oficial Mercedes-Benz España",
+      "costeAnualAproxEur": 850,
+      "fuente": "Plan oficial Mercedes-Benz España",
+      "intervalo": "El cuaderno ASSYST de este GLC marca visita cada 24 meses o al cumplir 30.000 kilómetros, lo que llegue primero",
+      "revisiones": [
+        {
+          "costeAproxEur": 700,
+          "nombre": "Servicio A",
+          "queSeCambia": "En la visita A toca renovar el aceite del M139 y su filtro, sustituir el filtro del habitáculo y pasar la inspección prevista para la parte híbrida de este 63 S"
+        },
+        {
+          "costeAproxEur": 1100,
+          "nombre": "Servicio B",
+          "queSeCambia": "La visita B repite el cambio de aceite y de filtros del M139, añade líquido de frenos nuevo y una revisión específica del circuito de alta tensión que alimenta el motor del eje trasero"
+        }
+      ]
     },
   },
   {

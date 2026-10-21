@@ -169,18 +169,18 @@ export const COCHES_DACIA: CocheComparador[] = [
     fuenteNombre: "hibridosyelectricos.com",
     fuenteUrl: "https://www.hibridosyelectricos.com/coches/pruebas-coches/prueba-coche-mas-vendido-dacia-sandero-motor-hibrido-155-cv-hecho-en-espana_89236_102.html",
     pros: [
-      "155 CV híbridos desde 19.890 €: el híbrido más barato del mercado español",
-      "4,2 l/100 km y 96 g/km: consumo de utilitario diésel con etiqueta ECO",
-      "Hasta un 80 % del tiempo en modo eléctrico en ciudad",
-      "Motor 1.8 fabricado en España (Valladolid): tecnología híbrida probada",
-      "Cambio automático electrificado sin embrague: confort en el día a día",
+      "Es el primer Sandero con mecánica full hybrid: 155 CV y etiqueta ECO desde 19.890 €, sin necesidad de enchufe",
+      "En ciudad puede moverse con el motor eléctrico hasta el 80 % del tiempo, según Dacia, y homologa solo 4,2 l/100 km",
+      "Su motor de gasolina 1.8 se fabrica en Valladolid y trabaja junto a dos motores eléctricos con una batería de 1,4 kWh",
+      "Con 96 g/km de CO₂ es la primera versión de Dacia que baja de la barrera de los 100 g/km",
+      "Mantiene la carrocería berlina de 4,09 m y 328 litros de maletero, pero suma cambio automático sin embrague para el tráfico diario"
     ],
     contras: [
-      "Casi 6.000 € más que el Sandero TCe 90: hay que hacer muchos km para amortizarlo",
-      "Batería de solo 1,4 kWh: sin modo eléctrico puro prolongado",
-      "Prestaciones 0-100 no publicadas por la marca en el lanzamiento",
-      "El cambio automático electrificado puede resultar ruidoso a plena carga",
-      "Entregas a partir del cuarto trimestre de 2026: lista de espera inicial",
+      "Rozando los 6.000 € más que el Sandero de gasolina de acceso, necesita muchos kilómetros de ahorro de combustible para compensar la diferencia",
+      "La batería de 1,4 kWh no se carga en una toma externa, así que los tramos solo eléctricos dependen de lo recuperado al decelerar y frenar",
+      "Sus 328 litros de maletero son los de un urbano: para viajes familiares largos se queda antes corto que un Jogger",
+      "A plena carga el conjunto híbrido puede hacerse notar en ruido, un peaje de esta transmisión automática electrificada en aceleraciones sostenidas",
+      "No estará en los concesionarios hasta el último trimestre de 2026, así que no sirve a quien necesita cambiar de coche ya"
     ],
     imagen: "/media/dacia-sandero-hybrid-155-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-sandero-hybrid-155-2026-precio-ficha-tecnica-oficial.webp",
@@ -190,28 +190,32 @@ export const COCHES_DACIA: CocheComparador[] = [
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 6.7,
-      "seguroTercerosAnual": 420,
-      "seguroAmpliadoAnual": 750,
-      "mantenimientoAnual": 400,
       "costeMensualTotal": 180,
-      "precioKwh": 0.18,
+      "estimado": true,
+      "mantenimientoAnual": 400,
+      "notas": "Estimación pensada para esta berlina híbrida: 15.000 km anuales con su consumo homologado de 4,2 l/100 km y gasolina valorada a 1,60 €/l; la póliza y las revisiones se toman como referencia orientativa del segmento urbano",
       "precioGasolinaL": 1.6,
-      "notas": "15.000 km/año; gasolina a 1,60 €/l con consumo WLTP 4,2 l/100 km; seguro y mantenimiento estimados por segmento",
-      "estimado": true
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 750,
+      "seguroTercerosAnual": 420
     },
     euroncap: {
-      estrellas: 2,
-      ano: 2021,
-      url: "https://www.euroncap.com/press-media/dacia-aims-low-while-%C5%A1koda-vw-electrify/",
-      nota: "Prueba oficial del Sandero Stepway 2021 (2 estrellas); Euro NCAP indica que la valoración cubre también al Sandero berlina y al Logan de la misma generación",
+      "ano": 2021,
+      "estrellas": 2,
+      "nota": "La berlina de cinco puertas no tuvo ensayo propio: el resultado de dos estrellas de 2021 procede del Sandero Stepway probado por Euro NCAP, que extendió esa misma valoración al Sandero y al Logan de idéntica generación",
+      "url": "https://www.euroncap.com/press-media/dacia-aims-low-while-%C5%A1koda-vw-electrify/"
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 12 meses (lo que ocurra antes)",
-      revisiones: [
-        { nombre: "Revisión periódica del híbrido", queSeCambia: "Aceite y filtro de aceite, filtros, puntos de control de seguridad + revisión del sistema eléctrico e híbrido (diagnóstico)", costeAproxEur: null },
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Dacia España — blog oficial: mantenimiento del coche híbrido (https://www.dacia.es/blog/seguridad-consejos/mantenimiento-del-coche-hibrido-claves-ahorro-real.html)",
+      "costeAnualAproxEur": null,
+      "fuente": "Guía oficial de Dacia España sobre el cuidado de sus coches híbridos (dacia.es)",
+      "intervalo": "Cada 12 meses o al llegar a 30.000 km, lo primero que ocurra",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión anual del Sandero Hybrid 155",
+          "queSeCambia": "Aceite nuevo para el motor 1.8 con su filtro, sustitución de filtros según el plan, chequeo de los puntos de seguridad y diagnosis electrónica del sistema híbrido y de su batería de 1,4 kWh"
+        }
+      ]
     },
     galeria: [
       { "src": "/media/dacia-sandero-hybrid-155-2026-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Sandero Hybrid 155 2026, vista exterior", "ancho": 1920, "alto": 1280 },

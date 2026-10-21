@@ -748,18 +748,18 @@ export const COCHES_JETOUR: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "1.5T de 170 CV y 270 Nm con cambio automático 7DCT (Sudáfrica)",
-      "Versión 2.0T XWD de 245 CV y 375 Nm con tracción total",
-      "Maletero de 574 a 1.455 litros",
-      "200 mm de distancia al suelo y 600 mm de vadeo en el XWD",
-      "El 'hermano pequeño' del T2: estética off-road en formato compacto",
+      "Acabados Edge y Aspire con el 1.5T de 170 CV y 270 Nm, caja 7DCT y tracción delantera",
+      "Xplora y Odyssey montan el 2.0T de 245 CV y 375 Nm con XWD y bloqueo electrónico del diferencial trasero",
+      "Maletero de 574 litros que crece a 1.455 abatiendo la segunda fila, más 1.600 kg de remolque con freno",
+      "200 mm de altura libre, 600 mm de vadeo y 28° de ángulo de ataque para pistas sin asfaltar",
+      "Cobertura sudafricana: 7 años o 200.000 km de garantía y motor cubierto 10 años o un millón de km al primer propietario"
     ],
     contras: [
-      "Sin red oficial en España: solo importador independiente",
-      "La versión 1.5T es solo delantera (el 4x4 es el 2.0T)",
-      "Sin datos oficiales de 0-100 publicados",
-      "Marca aún poco conocida en Europa",
-      "Precio convertido de Sudáfrica, sin precio español",
+      "Jetour carece de red comercial propia en España para el T1: la compra llegaría por importación independiente",
+      "Los 25.700 € salen de convertir los R514.900 del Edge sudafricano; no existe tarifa oficial española",
+      "Quien quiera tracción total debe pagar el 2.0T: el 1.5T de acceso mueve solo las ruedas delanteras",
+      "El Edge de entrada prescinde de la frenada autónoma y del asistente de carril que sí llevan Aspire y Odyssey",
+      "Euro NCAP todavía no lo ha sometido a sus pruebas: la única nota independiente es la de ASEAN NCAP"
     ],
     largoMm: 4705,
     anchoMm: 1967,
@@ -775,16 +775,15 @@ export const COCHES_JETOUR: CocheComparador[] = [
     imagen: "/media/jetour-t1-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 14.2,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.58,
-      seguroTercerosAnual: 480,
-      seguroAmpliadoAnual: 900,
-      mantenimientoAnual: 380,
-      costeMensualTotal: 284,
-      notas:
-        "Estimación con 15.000 km/año, consumo medio estimado de 9,0 l/100 km a 1,58 €/l y todo riesgo.",
-      estimado: true,
+      "costeEnergia100km": 14.2,
+      "costeMensualTotal": 284,
+      "estimado": true,
+      "mantenimientoAnual": 380,
+      "notas": "Cuota calculada para el T1 gasolina recorriendo 15.000 km al año con un gasto estimado de 9,0 l/100 km, pagando la gasolina a 1,58 € por litro; incluye el seguro a todo riesgo.",
+      "precioGasolinaL": 1.58,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 900,
+      "seguroTercerosAnual": 480
     },
     galeria: [
       {
@@ -808,12 +807,23 @@ export const COCHES_JETOUR: CocheComparador[] = [
     ],
     analisisSlug: "jetour-t1-2025-precio-ficha-tecnica",
     euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado (18/10/2026)",
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: el T1 no ha pasado por Euro NCAP; en ASEAN NCAP logró 5 estrellas y 87,67 puntos (protocolo 2021-2025)",
+      "url": null
     },
-    planMantenimiento: null,
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "AutoTrader Sudáfrica (costes del T1: plan de 7 años/75.000 km con intervalos de 15.000 km) y cars.co.za (lanzamiento del T1, octubre de 2025)",
+      "intervalo": "Cada 15.000 km o al cumplir un año; en Sudáfrica el precio incluía plan de servicios durante 7 años o 75.000 km",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión de los 15.000 km (y sucesivas)",
+          "queSeCambia": "Servicio programado del motor turbo de gasolina según la pauta de Jetour Sudáfrica; la marca no publica en abierto el desglose de operaciones por kilometraje, así que no se le asigna un coste en euros"
+        }
+      ]
+    },
     fuenteNombre: "cars.co.za (lanzamiento en Sudáfrica)",
     fuenteUrl: "https://www.cars.co.za/motoring-news/jetour-t1-and-t2-2025-price-specs/323205/",
   },

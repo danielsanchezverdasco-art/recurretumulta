@@ -420,18 +420,18 @@ export const COCHES_JAECOO: CocheComparador[] = [
     cargaRapidaKw: 70,
     etiquetaDgt: "Cero",
     pros: [
-      "428 CV y 134 km eléctricos: el PHEV con más autonomía eléctrica del segmento D",
-      "Carga rápida de 70 kW en continua (30-80 % en ~19 min), rara en un híbrido",
+      "Sus 134 km en modo eléctrico WLTP dejan atrás a cualquier otro enchufable de su tamaño y de su precio",
+      "Acepta 70 kW en continua y pasa del 30 al 80 % en unos 19 minutos durante una parada en ruta, algo casi inédito entre los híbridos enchufables",
       "5 o 7 plazas con maletero de 738 L: auténtico SUV familiar",
       "Suspensión electromagnética CDC y tracción total con modos off-road",
-      "Desde 54.900 €: muy por debajo de un X5 o GLE PHEV equivalentes",
+      "Desde 54.900 €: muy por debajo de un X5 o GLE PHEV equivalentes"
     ],
     contras: [
-      "2.304 kg: el peso se nota en consumo y agilidad",
-      "Velocidad máxima limitada a 180 km/h",
+      "En corriente alterna solo admite 6,6 kW: llenar en casa la batería de 34,46 kWh lleva más de cinco horas y no aprovecha una instalación trifásica",
+      "Su punta se queda en 180 km/h, corta para un conjunto de 428 CV",
       "Marca aún poco conocida en el segmento premium",
       "Con las 7 plazas desplegadas el maletero baja a 200 L",
-      "Depreciación incierta en un segmento donde la marca pesa mucho",
+      "Depreciación incierta en un segmento donde la marca pesa mucho"
     ],
     largoMm: 4820,
     anchoMm: 1930,
@@ -461,14 +461,14 @@ export const COCHES_JAECOO: CocheComparador[] = [
     ],
     costeMensual: {
       "costeEnergia100km": 5.7,
-      "seguroTercerosAnual": 550,
-      "seguroAmpliadoAnual": 1000,
-      "mantenimientoAnual": 500,
       "costeMensualTotal": 211,
-      "precioKwh": 0.18,
+      "estimado": true,
+      "mantenimientoAnual": 500,
+      "notas": "Escenario propio de esta ficha: 15.000 km anuales con tarifa doméstica de 0,18 €/kWh para las recargas y el dato WLTP de 2,1 l/100 km cuando trabaja el motor térmico; sin cargar la batería de 34,46 kWh, el gasto real sube con claridad",
       "precioGasolinaL": 1.85,
-      "notas": "mixto estimado: 2,1 l/100 km + recarga parcial en casa (0,18 EUR/kWh); 15.000 km/año",
-      "estimado": true
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 1000,
+      "seguroTercerosAnual": 550
     },
     galeria: [
       {
@@ -484,6 +484,24 @@ export const COCHES_JAECOO: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: modelo no probado (21/10/2026)",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Datos CAP del Jaecoo 8 SHS publicados por Carwow Leasey (intervalo de 12 meses / 10.000 millas) y operaciones del mantenimiento programado de OMODA & JAECOO España (omodajaecoo.es); sin precio cerrado de revisión publicado para España",
+      "intervalo": "Cada 12 meses o 16.000 km, lo que ocurra antes (10.000 millas en los datos CAP británicos del Jaecoo 8 SHS)",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión anual / 16.000 km",
+          "queSeCambia": "Cambio de aceite y de filtros, revisión de frenos y comprobación general del vehículo, las operaciones programadas que OMODA & JAECOO España incluye en sus mantenimientos"
+        }
+      ]
+    },
   },
   {
     id: "jaecoo-6-ev-2026-precio-ficha-tecnica",

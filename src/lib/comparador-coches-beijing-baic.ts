@@ -717,18 +717,18 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
-      "Récord de aerodinámica: Cx de 0,1925, el más bajo entre los coches chinos de serie",
-      "Hasta 708 km de autonomía CLTC y versión Ultra de 530 CV (3,7 s)",
-      "Plataforma de 800 V con carga rápida",
-      "Interior minimalista con AR-HUD de 68 pulgadas y chip Snapdragon 8155",
-      "Precio de derribo en China: desde unos 23.000 €",
+      "Cx de 0,1925 anunciado en 2024 como el menor de un coche de serie: puertas sin marco y alerón eléctrico activo",
+      "Frena de 100 a 0 km/h en 33,5 metros con pinzas fijas de aluminio y el sistema One-Box de Continental",
+      "Esta versión 560MAX monta una batería LFP de CATL de 64,8 kWh y declara 560 km en el ciclo chino CLTC",
+      "Delante del conductor no hay instrumentación: los datos los proyecta un AR-HUD de 68 pulgadas y el salpicadero lo domina una pantalla de 15,6 pulgadas gobernada por un Snapdragon 8155",
+      "En China costaba 176.800 yuanes al lanzarse en junio de 2024, por debajo de sus rivales directos BYD Seal y Zeekr 007"
     ],
     contras: [
-      "Sin venta oficial en España ni en Europa",
-      "Marca desconocida fuera de China",
-      "Sin videoprueba en español disponible",
-      "Sin cuadro de instrumentos tradicional (todo en la pantalla central)",
-      "Maletero de 430 litros, justo para una berlina de 4,82 metros",
+      "Arcfox carece de importador y de talleres en España: adquirir uno exigiría una importación individual sin respaldo local de la marca",
+      "Los 560 km son CLTC chinos y no existe cifra WLTP: la autonomía útil circulando en Europa quedaría por debajo de ese dato",
+      "Su 0 a 100 real es de 7,0 segundos: los 3,7 segundos corresponden al 650Ultra bimotor, no a este monomotor delantero de 252 CV",
+      "A diferencia de los 708MAX y 650Ultra de 800 voltios, el 560MAX usa arquitectura de 400 voltios y tarda hasta 23 minutos del 30 al 80 % en carga continua",
+      "Con 430 litros, el maletero queda corto en una berlina fastback de 4,82 metros de largo y 2,90 metros de batalla"
     ],
     largoMm: 4820,
     anchoMm: 1930,
@@ -744,16 +744,15 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
     imagen: "/media/arcfox-alfa-s5-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 2.7,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.6,
-      seguroTercerosAnual: 440,
-      seguroAmpliadoAnual: 850,
-      mantenimientoAnual: 260,
-      costeMensualTotal: 136,
-      notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio convertido desde yuanes.",
-      estimado: true,
+      "costeEnergia100km": 2.7,
+      "costeMensualTotal": 136,
+      "estimado": true,
+      "mantenimientoAnual": 260,
+      "notas": "Cálculo específico del 560MAX: los 2,70 euros por cada cien kilómetros equivalen a unos 15 kWh estimados con la electricidad doméstica tarificada a 0,18 euros. Ni el seguro amplio ni los 260 euros anuales de mantenimiento proceden de tarifas de Arcfox, que no opera comercialmente en España; el precio del coche resulta de convertir sus 176.800 yuanes de lanzamiento.",
+      "precioGasolinaL": 1.6,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 850,
+      "seguroTercerosAnual": 440
     },
     galeria: [
       {
@@ -776,6 +775,12 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
       },
     ],
     analisisSlug: "arcfox-alfa-s5-2024-precio-ficha-tecnica",
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: modelo no probado",
+      "url": null
+    },
   },
   {
     id: "arcfox-kaola-2024-precio-ficha-tecnica",
