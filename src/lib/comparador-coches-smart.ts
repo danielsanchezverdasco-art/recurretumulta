@@ -522,18 +522,18 @@ export const COCHES_SMART: CocheComparador[] = [
     "emisionesCo2": 0,
     "aprox": [],
     "pros": [
-      "420 km WLTP (584 km en ciudad): la autonomía de un motor más equilibrada",
-      "Batería de 66 kWh con 150 kW de carga rápida",
-      "272 CV con tracción trasera: tacto deportivo",
-      "Equipamiento completo con techo panorámico Halo",
-      "5 estrellas Euro NCAP"
+      "Nacido de la alianza entre Mercedes-Benz y Geely sobre la plataforma SEA, reinventa a smart como SUV urbano premium en solo 4,27 metros",
+      "Con 420 km homologados y recarga en continua de hasta 150 kW, su batería grande permite afrontar la semana laboral sin vivir pendiente del enchufe",
+      "El propulsor trasero entrega 272 CV y empuja con 343 Nm, firmando el salto hasta cien en 6,7 segundos con un tacto inusual entre eléctricos ciudadanos",
+      "El techo panorámico Halo y una dotación generosa ya en este acabado lo alejan del planteamiento espartano de algunos eléctricos urbanos de corte premium",
+      "En los ensayos europeos de choque logró la calificación máxima, un aval importante para un modelo pensado para llevar a cinco ocupantes a diario"
     ],
     "contras": [
-      "El Pure+ da la misma batería y autonomía por 7.800 € menos",
-      "Sin bomba de calor (la lleva el Pure+, curioso)",
-      "Batería NMC: mejor no cargarla al 100 % a diario",
-      "Maletero de 288 L",
-      "Precio actual sin confirmar en tarifa"
+      "Dentro de la propia gama existe un escalón más barato que comparte batería y alcance, dejando a esta variante en una posición incómoda para justificar el sobreprecio",
+      "Sorprende que la bomba de calor no figure en su equipamiento cuando sí aparece en el peldaño inferior, algo que penaliza el consumo durante los meses fríos",
+      "Su química NMC aconseja reservar las cargas completas para viajes largos, lo que en la práctica recorta el uso cotidiano de la autonomía máxima homologada",
+      "Un maletero de apenas 288 litros se queda corto para carrito y maletas, por debajo de lo que una familia espera frente a un MINI Aceman",
+      "La tarifa española sigue sin confirmarse en esta ficha, un vacío que impide compararlo con cifras cerradas frente a un Volvo EX30 o un DS 3 E-Tense"
     ],
     "imagen": "/media/smart-1-pro-plus-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/smart-1-pro-plus-2025-precio-ficha-tecnica-oficial.webp",
@@ -572,6 +572,17 @@ export const COCHES_SMART: CocheComparador[] = [
         "alto": 800
       }
     ]
+  
+    planMantenimiento: {
+      "intervalo": "Mantenimiento principal cada 30.000 km o 24 meses, lo que ocurra antes",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión principal (30.000 km / 24 meses)",
+          "queSeCambia": "Operaciones e inspecciones previstas en el plan de mantenimiento principal del fabricante para el smart #1 eléctrico"
+        }
+      ]
+    },
   },
   {
     id: "smart-1-premium-2025-precio-ficha-tecnica",
@@ -929,18 +940,18 @@ export const COCHES_SMART: CocheComparador[] = [
     "emisionesCo2": 0,
     "aprox": [],
     "pros": [
-      "435 km WLTP: de las mejores autonomías trasera del segmento",
-      "272 CV con tracción trasera y 0-100 en 6,5 s",
-      "Batería de 66 kWh con 150 kW de carga rápida",
-      "Diseño coupé con Cx de 0,27",
-      "Maletero de 370 L + frunk de 15 L"
+      "Sus 435 km homologados dan margen de sobra para el día a día y para escapadas de fin de semana sin vivir pendiente del cargador",
+      "El motor trasero entrega 272 CV y 343 Nm sobre la plataforma SEA de Geely, firma el sprint hasta 100 en 6,5 segundos y se nota inmediato al salir de cada rotonda",
+      "La batería de 66 kWh admite carga rápida de 150 kW, así que las paradas en ruta se resuelven en una pausa breve de café",
+      "Frente al #1, más urbano y vertical, aquí la silueta coupé y los 4.440 mm de largo le dan una presencia más viajera y deportiva",
+      "Los 370 litros de maletero y las cinco plazas lo postulan frente al Volvo EX30 como coche único para una familia pequeña"
     ],
     "contras": [
-      "El #3 Premium da 455 km con más equipamiento",
-      "Sin tracción total (reservada al Brabus de 428 CV)",
-      "Batería NMC: mejor no cargarla al 100 % a diario",
-      "Plazas traseras con techo coupé",
-      "Precio actual sin confirmar en tarifa"
+      "Quien busque el máximo alcance dentro de la gama tendrá que subir al acabado Premium, porque este Pro+ se queda como escalón intermedio",
+      "No existe opción de tracción total en esta versión; esa configuración queda reservada a la variante Brabus, más radical y costosa",
+      "Para cuidar la batería en el uso diario conviene evitar dejarla habitualmente al máximo de carga, algo que exige cierta disciplina al propietario",
+      "La caída del techo penaliza la altura libre de los pasajeros adultos que viajen en la segunda fila en trayectos largos",
+      "La tarifa vigente en España no figura confirmada en la ficha, así que toca contrastar el importe final con la red comercial antes de decidir frente a un Renault Scénic E-Tech o un Peugeot E-3008"
     ],
     "imagen": "/media/smart-3-pro-plus-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/smart-3-pro-plus-2025-precio-ficha-tecnica-oficial.webp",
@@ -1179,18 +1190,18 @@ export const COCHES_SMART: CocheComparador[] = [
       "cargaRapidaKw"
     ],
     "pros": [
-      "590 km WLTP con el equipamiento más completo de la gama trasera",
-      "363 CV, 0-100 en 6,5 s y 200 km/h",
-      "Batería de 100 kWh con arquitectura de 800 V",
-      "Interior lounge con triple pantalla y asientos de confort",
-      "Maletero de 630 L"
+      "Autonomía homologada de 590 kilómetros que permite afrontar viajes largos sin encadenar paradas constantes",
+      "Empuje de 363 CV enviado al eje posterior, con salida hasta cien en 6,5 segundos",
+      "Admite recargas de hasta 400 kW apoyándose en su plataforma de ochocientos voltios y acumulador de 100 kWh",
+      "Cabina planteada como salón rodante, con tres pantallas seguidas y butacas especialmente mullidas en trayectos largos",
+      "Ningún smart anterior fue tan grande: sus 630 litros de maletero resumen el salto de la etapa Geely"
     ],
     "contras": [
-      "57.500 €: 4.500 € más que el Pro+ con la misma mecánica",
-      "El Pulse añade la tracción total por el mismo precio",
-      "Batería NMC: mejor no cargarla al 100 % a diario",
-      "4,71 m: tamaño XL para diario urbano",
-      "A este precio hay premium alemanes eléctricos"
+      "Pagar 57.500 euros duele cuando el Pro+ recurre al mismo conjunto propulsor y resulta claramente más asequible",
+      "Por idéntica tarifa, el Pulse incorpora tracción integral, dejando a este Premium en una posición comercial incómoda",
+      "La química NMC desaconseja abusar de cargas completas si pretendes preservar la salud del acumulador con los años",
+      "Moverse a diario entre garajes estrechos se complica con 1,92 metros de anchura y 4,71 de longitud",
+      "En este escalón ya acechan Tesla Model Y, Hyundai Ioniq 5, Kia EV6 y alternativas alemanas con red consolidada"
     ],
     "imagen": "/media/smart-5-premium-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/smart-5-premium-2025-precio-ficha-tecnica-oficial.webp",

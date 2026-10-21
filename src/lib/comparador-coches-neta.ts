@@ -37,18 +37,18 @@ export const COCHES_NETA: CocheComparador[] = [
     cargaRapidaKw: 45,
     etiquetaDgt: "Cero",
     pros: [
-      "Autonomía de 401 km (CLTC) con una batería pequeña de 40,93 kWh",
-      "Carga rápida en CC: del 30 al 80 % en 30 minutos",
-      "Función V2L de 3,3 kW para alimentar aparatos eléctricos externos",
-      "Precio al cambio desde unos 9.600 €, de los eléctricos más baratos",
-      "Pantalla vertical de 14,6 pulgadas y asistencias de nivel 2",
+      "Gracias a gastar solo 10,2 kWh/100 km estira sus 40,93 kWh hasta anunciar 401 km CLTC, muy por encima de lo que ofrece un Dacia Spring",
+      "En corriente continua admite 45 kW y pasa del 30 al 80 % tras media hora de enchufe, ritmo aceptable para enlazar recados sin esperas eternas",
+      "Su salida V2L entrega 3,3 kW, recurso práctico para enchufar una cafetera, herramientas o cargar una bici lejos de cualquier enchufe doméstico",
+      "Convertido a euros parte de 9.600 €, una etiqueta que deja muy atrás el desembolso de un Citroën ë-C3 de planteamiento parecido",
+      "Una tableta vertical de 14,6 pulgadas preside el salpicadero y suma ayudas a la conducción propias del nivel 2, impropias de su precio"
     ],
     contras: [
-      "Hozon Auto está en concurso de acreedores desde junio de 2025: riesgo grave de posventa",
-      "Velocidad máxima de solo 101 km/h, no apto para autovía",
-      "Maletero de 335 litros, justo para 5 plazas",
-      "Solo 95 CV y 150 Nm: prestaciones modestas",
-      "No se vende en España: solo disponible en China y mercados de exportación",
+      "Que Hozon entrase en concurso en junio de 2025 deja en el aire recambios, garantías y valor de reventa fuera de China",
+      "Su punta se queda en 101 km/h, así que incorporarse a una autovía española exige paciencia, carril derecho y mucha anticipación",
+      "Los 335 litros quedan cortos cuando viajan cinco ocupantes con equipaje de fin de semana, pese a tratarse de una carrocería de tipo SUV",
+      "Con 95 CV y un par de 150 Nm, adelantar o subir un puerto cargado se afronta sin prisas y sin ninguna alegría",
+      "Comprarlo desde España obliga a recurrir a importación paralela, porque su comercialización oficial en nuestro mercado sencillamente no existe"
     ],
     largoMm: 4070,
     anchoMm: 1690,
@@ -96,6 +96,22 @@ export const COCHES_NETA: CocheComparador[] = [
       },
     ],
     analisisSlug: "neta-aya-2025-precio-ficha-tecnica",
+  
+    planMantenimiento: {
+      "intervalo": "Cada 1 año o 10.000 km, lo que ocurra antes",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión periódica anual o cada 10.000 km",
+          "queSeCambia": "Inspección del conjunto eléctrico (batería, motor y electrónica de control) junto con frenos, neumáticos y alumbrado; no hay aceite de motor que sustituir por ser un eléctrico puro"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Sustitución de líquidos en la revisión",
+          "queSeCambia": "Cambio de líquido de frenos y de aceite de la reductora cuando toca según el programa citado para el Neta V"
+        }
+      ]
+    },
   },
   {
     id: "neta-x-2024-precio-ficha-tecnica",

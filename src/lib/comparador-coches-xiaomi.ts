@@ -625,18 +625,18 @@ export const COCHES_XIAOMI: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
-      "505 km eléctricos CLTC: récord en un autonomía extendida",
-      "421 CV con tracción total y 0-100 en 5,5 s",
-      "1.461 km de autonomía combinada",
-      "Carga del 20 al 80 % en 18 minutos",
-      "~31.200 € en China: imbatible por precio",
+      "En modo eléctrico anuncia 505 km bajo homologación china CLTC, cifra puntera entre los EREV",
+      "Sus 421 CV llegan a las cuatro ruedas y permiten cerrar el sprint hasta 100 km/h en 5,5 segundos",
+      "Sumando depósito y batería de 76 kWh, el alcance conjunto declarado se estira hasta 1.461 km",
+      "Recuperar energía es rápido: pasar del 20 % al 80 % de carga lleva 18 minutos según la ficha",
+      "En su mercado de origen se mueve en torno a 31.200 euros, tarifa muy contenida para su tamaño y potencia"
     ],
     contras: [
-      "Solo mercado chino por ahora",
-      "El generador de gasolina entra en viajes largos",
-      "505 km son CLTC, no WLTP",
-      "4,96 m de largo para aparcar en ciudad",
-      "Sin historial de fiabilidad a largo plazo",
+      "De momento su comercialización se limita a China, sin venta confirmada fuera de ese país",
+      "En trayectos extensos entra en juego el motor de gasolina actuando como generador para seguir avanzando",
+      "Esa cifra eléctrica responde al ciclo CLTC, más optimista que el WLTP europeo, conviene interpretarla con cautela",
+      "Con 4,96 metros de longitud, maniobrar y estacionar en entornos urbanos estrechos no será su punto fuerte",
+      "Al tratarse de una propuesta recién llegada, todavía no hay recorrido suficiente para juzgar su durabilidad real"
     ],
     largoMm: 4960,
     anchoMm: 1998,
@@ -684,6 +684,10 @@ export const COCHES_XIAOMI: CocheComparador[] = [
       },
     ],
     analisisSlug: "xiaomi-skynomad-n70-max-2026-precio-ficha-tecnica",
+  
+    mantenimientoDIY: {
+      "intervaloRevision": "Tras la primera revisión del primer año, la parte eléctrica se revisa una vez al año o cada 20.000 km y el extensor cada 3 años o 30.000 km (aceite, filtro de aceite y filtro de aire); bujías cada 40.000 km y refrigerante del extensor cada 6 años o 120.000 km, según datos de Xiaomi recogidos por la prensa especializada."
+    },
   },
   {
     id: "xiaomi-skynomad-n90-max-2026-precio-ficha-tecnica",

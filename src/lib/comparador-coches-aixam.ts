@@ -668,18 +668,18 @@ export const COCHES_AIXAM: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "El coupé diésel tope de gama: máximo equipamiento de la familia",
-      "Pantalla táctil 6,2\", 6 altavoces, cámara y sensores de aparcamiento",
-      "Tapicería deportiva GT y llantas de aleación de 16\"",
-      "Maletero de 1.000 litros",
-      "Permiso AM desde los 15 años",
+      "Cuadriciclo ligero de categoría L6e que se puede conducir con licencia AM desde los 15 años, sin pasar por el carnet B de coche",
+      "Apuesta por la combustión diésel frente a la variante eléctrica de la propia gama: repostar lleva minutos, no exige enchufe doméstico y declara un gasto de solo 3,1 l/100 km",
+      "Dotación impropia de un sin carnet en este tamaño: pantalla central de 6,2 pulgadas, equipo de sonido con seis altavoces, cámara trasera y sensores que ayudan al aparcar en huecos mínimos",
+      "Midiendo apenas 3,00 metros de largo anuncia un maletero de 1.000 litros, una capacidad difícil de creer en un biplaza urbano de este formato",
+      "El guiño GTI se traduce en tapicería de corte deportivo y llantas de 16 pulgadas en aleación ligera, el acabado más vistoso dentro del catálogo de la marca francesa"
     ],
     contras: [
-      "18.999 €: el coupé diésel más caro de Aixam",
-      "Mismo motor de 8 CV y 45 km/h que el City Pack",
-      "Por 700 € más está el e-Coupé GTI eléctrico con etiqueta Cero",
-      "Solo 2 plazas",
-      "Etiqueta C",
+      "Pagar 18.999 euros por un vehículo de 8 CV cuesta de justificar, porque esa cifra ya se acerca a la de turismos urbanos auténticos que exigen carnet B",
+      "La homologación L6e lo limita todo por ley: punta recortada a 45 km/h, 400 kg de peso y un par de solo 21 Nm que se nota justo en cuanto aparece una cuesta",
+      "Las siglas GTI son puro envoltorio estético, ya que bajo la carrocería trabaja la misma mecánica modesta de los Aixam de acceso y el sobreprecio no compra ni un ápice de prestaciones",
+      "La cabina admite únicamente a dos ocupantes y el distintivo ambiental se queda en C, renunciando al acceso sin cortapisas y a las ventajas que sí regala su hermano eléctrico con etiqueta Cero",
+      "No juega solo en este nicho: Ligier y Microcar ofrecen cuadriciclos pensados para idéntico permiso AM, así que la elección final depende de acabados, red comercial y precio cerrado, no del planteamiento"
     ],
     largoMm: 3000,
     anchoMm: 1500,
@@ -946,18 +946,18 @@ export const COCHES_AIXAM: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "El SUV diésel tope de gama: pantalla táctil con CarPlay y Android Auto",
-      "Cámara trasera y sensores de aparcamiento de serie",
-      "Maletero de 1.000 litros con carrocería de 3 metros",
-      "Motor Kubota Euro 5+ de 8 CV, sin AdBlue ni filtro de partículas",
-      "Permiso AM desde los 15 años",
+      "Conducible desde los 15 años con el permiso AM, sin necesitar el carnet B, al tratarse de un cuadriciclo ligero L6e",
+      "Silueta elevada tipo crossover que lo distingue de un Ligier o un Microcar de perfil bajo y le da presencia de mini SUV urbano",
+      "Bloque Kubota diésel de 8 CV con norma Euro 5+, consumo declarado de 3,1 l/100 km y sin necesidad de AdBlue ni filtro antipartículas",
+      "Zona de carga enorme para su tamaño: 1.000 litros aprovechables en una carrocería que mide justo 3,00 metros de longitud",
+      "Dotación Premium con pantalla táctil compatible con CarPlay y Android Auto, visión trasera por cámara y avisadores acústicos al aparcar"
     ],
     contras: [
-      "18.799 € por un diésel de 8 CV limitado a 45 km/h",
-      "El e-Crossover Premium eléctrico cuesta 700 € más y lleva etiqueta Cero",
-      "Solo 2 plazas",
-      "Etiqueta C",
-      "Dimensiones contenidas para un «SUV»",
+      "Pagar 18.799 euros por 8 CV con tope legal de 45 km/h sale caro incluso dentro del mundo sin carnet",
+      "Su alternativa eléctrica en la misma carrocería cuesta 700 euros más, pero compensa con distintivo Cero frente al C de este diésel",
+      "Cabina estrictamente biplaza: si necesitas llevar a más de un acompañante tendrás que mirar a un turismo o a otro formato",
+      "A 45 km/h queda fuera de autovías y autopistas, así que su terreno real se reduce a ciudad, extrarradio y carreteras secundarias tranquilas",
+      "La estética SUV promete más de lo que entregan sus medidas: 1,50 metros de anchura y tracción delantera sin ninguna pretensión fuera del asfalto"
     ],
     largoMm: 3000,
     anchoMm: 1500,
@@ -1004,6 +1004,27 @@ export const COCHES_AIXAM: CocheComparador[] = [
         alto: 1280,
       },
     ],
+  
+    planMantenimiento: {
+      "intervalo": "Primera revisión al año o a los 1.000 km; después, revisiones periódicas al menos una vez al año o entre 5.000 y 10.000 km según uso",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Primera revisión (1 año / 1.000 km)",
+          "queSeCambia": "Cambio de aceites y de filtro, medición y reposición de niveles si hace falta, y control de neumáticos, frenos, amortiguadores, soportes, sistema eléctrico y lunas"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión a los 5.000 km",
+          "queSeCambia": "Mismos controles que en la primera revisión, añadiendo comprobación de batería, fuelles, articulaciones y transmisión"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión a los 10.000 km",
+          "queSeCambia": "Revisión en profundidad del estado general del vehículo, renovación del aceite y limpieza de las aletas del radiador de refrigeración"
+        }
+      ]
+    },
   },
   {
     id: "aixam-e-crossover-premium-2025-precio-ficha-tecnica",
@@ -1213,18 +1234,18 @@ export const COCHES_AIXAM: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "Cuadriciclo pesado L7e para trabajo: caja furgón cerrada",
-      "Motor diésel Kubota Euro 5+ de 8 CV, sin AdBlue ni filtro de partículas",
-      "Ideal para reparto urbano y última milla",
-      "3 años de garantía del vehículo",
-      "Red de más de 100 puntos de venta y posventa en España",
+      "La mercancía viaja siempre bajo techo: la caja furgón cerrada la resguarda de la lluvia y de miradas indiscretas",
+      "Al estar homologado como cuadriciclo pesado L7e, permite trabajar en reparto urbano sin pasar por el permiso B de coche",
+      "Monta un propulsor diésel Kubota de 8 CV con normativa Euro 5+, que funciona sin AdBlue y tampoco recurre a filtro de partículas",
+      "Quien compra este Aixam cuenta con 3 años de cobertura oficial para el vehículo completo",
+      "En España la marca supera los 100 puntos entre venta y posventa, algo tranquilizador si el furgón se usa a diario para trabajar"
     ],
     contras: [
-      "Ficha técnica detallada no publicada por la marca (medidas y carga)",
-      "Velocidad limitada propia de cuadriciclo pesado",
-      "Solo 2 plazas en cabina",
-      "Etiqueta C",
-      "16.999 € sin incluir matriculación",
+      "La marca no publica una tabla completa con medidas ni capacidad de carga, así que toca confirmar esos datos en el concesionario antes de firmar",
+      "Su velocidad está topada por su propia homologación, por lo que queda descartado para desplazamientos largos o para vías rápidas",
+      "Dentro solo caben dos personas, sin hueco para un tercer compañero en rutas que pidan ayudante",
+      "Lleva distintivo C de la DGT, el menos favorecido en las zonas de bajas emisiones cuando se compara con un comercial eléctrico",
+      "El precio arranca en 16.999 € y a esa cifra todavía hay que sumarle los gastos de matriculación"
     ],
     largoMm: null,
     anchoMm: null,
@@ -1271,6 +1292,27 @@ export const COCHES_AIXAM: CocheComparador[] = [
         alto: 1280,
       },
     ],
+  
+    planMantenimiento: {
+      "intervalo": "Primera revisión al año o a los 1.000 km; después a los 5.000 km y a los 10.000 km, según el calendario oficial de Aixam-Mega",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Primera revisión (1 año o 1.000 km)",
+          "queSeCambia": "Cambio de aceites y de filtro, medición de niveles y reposición de los necesarios, revisión de neumáticos, frenos, amortiguadores, soportes, sistema eléctrico y lunas"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión a los 5.000 km",
+          "queSeCambia": "Los mismos elementos de la primera revisión, añadiendo comprobación de batería, fuelles, articulaciones y transmisión"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión a los 10.000 km",
+          "queSeCambia": "Revisión en profundidad del estado del vehículo, renovación del aceite y limpieza de las aletas del radiador de la refrigeración"
+        }
+      ]
+    },
   },
   {
     id: "aixam-e-truck-furgon-van-2025-precio-ficha-tecnica",
@@ -1295,18 +1337,18 @@ export const COCHES_AIXAM: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
-      "Furgón eléctrico para reparto urbano con etiqueta Cero",
-      "Cero emisiones y acceso total a las ZBE",
-      "Coste por kilómetro muy inferior al diésel",
-      "3 años de garantía del vehículo",
-      "Red de más de 100 puntos de venta y posventa en España",
+      "Caja cerrada Van lista para cargar bultos y herramientas y salir a repartir por barrios densos sin ruido de motor térmico",
+      "Su distintivo Cero y las emisiones nulas en uso le permiten trabajar dentro de zonas restringidas donde paran a los comerciales diésel",
+      "Moverlo cuesta muy poco: la ficha estima 1,8 euros de electricidad cada cien kilómetros con recarga a 0,18 euros el kWh",
+      "Frente a su gemelo de gasóleo ahorra aceite, filtros y averías propias de la combustión al no llevar motor térmico que mantener",
+      "Llega respaldado por tres años de cobertura para el vehículo y por más de un centenar de puntos de venta y taller repartidos por España"
     ],
     contras: [
-      "Ficha técnica detallada no publicada por la marca (batería, autonomía)",
-      "20.499 €: el Aixam más caro del catálogo",
-      "Solo 2 plazas en cabina",
-      "Sin carga rápida DC publicada",
-      "Precio sin incluir matriculación",
+      "La marca deja en blanco datos clave para planificar rutas: capacidad de batería, autonomía oficial, potencia y dimensiones no figuran publicadas",
+      "Su tarifa de partida, 20.499 euros, lo convierte en el producto más caro de todo el catálogo de la marca",
+      "La cabina únicamente admite conductor y un acompañante, sin banco trasero para llevar a un tercer operario en desplazamientos cortos",
+      "No consta posibilidad de recarga rápida en corriente continua, así que recuperar energía a mitad de jornada dependerá de enchufes lentos",
+      "El importe anunciado deja fuera los gastos de matriculación, que el comprador profesional debe sumar aparte al cerrar la operación"
     ],
     largoMm: null,
     anchoMm: null,
@@ -1353,6 +1395,27 @@ export const COCHES_AIXAM: CocheComparador[] = [
         alto: 1280,
       },
     ],
+  
+    planMantenimiento: {
+      "intervalo": "Primera revisión al año o a los 1.000 km; después, control a los 5.000 km y revisiones en profundidad desde los 10.000 km, con periodicidad al menos anual, según la guía de mantenimiento publicada por Aixam en España. En la versión eléctrica no hay cambios de aceite de motor.",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Primera revisión (1 año o 1.000 km)",
+          "queSeCambia": "Inspección general adaptada a la versión eléctrica: comprobación del sistema eléctrico y de carga, niveles, neumáticos, frenos, amortiguadores, soportes y lunas; sin cambio de aceite de motor al carecer de propulsor de combustión"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión de los 5.000 km",
+          "queSeCambia": "Repetición de los controles anteriores y revisión específica de batería de tracción, fuelles, articulaciones y transmisión"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisiones desde los 10.000 km",
+          "queSeCambia": "Revisión en profundidad del conjunto, con control del rendimiento de la batería de tracción y del sistema de carga, además de frenos, suspensión, dirección y neumáticos"
+        }
+      ]
+    },
   },
   {
     id: "aixam-e-truck-plataforma-aluminio-2025-precio-ficha-tecnica",
@@ -1377,18 +1440,18 @@ export const COCHES_AIXAM: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
-      "Plataforma de aluminio abierta: versátil para carga voluminosa",
-      "Eléctrico con etiqueta Cero para reparto en ZBE",
-      "500 € más barato que la versión furgón van",
-      "Coste por kilómetro muy inferior al diésel",
-      "3 años de garantía del vehículo",
+      "La superficie descubierta de aluminio encaja con cuadrillas de jardinería, limpieza viaria u obras menores: el material se sube por un lateral sin maniobrar dentro de un habitáculo cerrado",
+      "Frente a la variante de caja tapada, aquí no manda la altura interior: un bulto alto, una escalera o vegetación recién cortada viajan sin tener que encajarlos bajo techo",
+      "Su motor eléctrico y el distintivo Cero le permiten mantener rutas de servicio dentro de zonas de bajas emisiones sin cambiar de vehículo según el barrio",
+      "La estimación recogida en esta ficha deja la energía en 1,8 € cada 100 km, un desembolso diario muy pequeño para recorridos urbanos de ida y vuelta constantes",
+      "Con 19.999 € de partida se sitúa 500 € por debajo de su hermano furgón, dinero que una pyme o un ayuntamiento puede destinar a equipar la propia caja"
     ],
     contras: [
-      "Ficha técnica detallada no publicada por la marca",
-      "Carga a la intemperie: sin protección del furgón cerrado",
-      "Solo 2 plazas en cabina",
-      "Sin carga rápida DC publicada",
-      "Precio sin incluir matriculación",
+      "Todo lo transportado queda expuesto a lluvia, polvo y miradas ajenas, y exige lona y cinchas: si llevas herramienta cara, el cerramiento del furgón aporta una tranquilidad que esta caja no da",
+      "La cabina se limita a conductor y acompañante, así que una cuadrilla de tres personas necesitará un segundo vehículo para llegar al tajo",
+      "Aixam no difunde en abierto una tabla técnica completa de esta versión, y esa falta de datos complica comparar carga útil o prestaciones antes de pedir presupuesto",
+      "En la información disponible no consta recarga rápida en corriente continua, por lo que planificar la jornada depende de cargar con calma al final del turno",
+      "El importe anunciado no incorpora los gastos de matriculación, un extra que hay que sumar al calcular la inversión final de la flota"
     ],
     largoMm: null,
     anchoMm: null,

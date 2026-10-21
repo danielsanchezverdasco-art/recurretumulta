@@ -224,8 +224,20 @@ export const COCHES_LOTE2: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 0,
     aprox: ["precioDesde"],
-    pros: ["600 km de autonomía CLTC por ~16.400 €: relación autonomía/precio imbatible", "5 metros y 2,9 m de batalla: espacio de berlina grande", "Cx de 0,198: eficiencia aerodinámica de récord", "Doble oferta EV + PHEV para todos los perfiles", "Batería LFP: segura y sin cobalto"],
-    contras: ["No se vende fuera de China: sin red ni postventa en Europa", "600 km CLTC equivalen a unos 450 km reales en uso mixto", "Marca desconocida en Europa: reventa imposible de estimar", "Software e infoentretenimiento pensados para el mercado chino", "Sin datos de seguridad Euro NCAP ni C-NCAP publicados"],
+    pros: [
+      "Con 69,2 kWh de batería y 600 km homologados en ciclo CLTC, plantea desplazamientos largos sin vivir pendiente del enchufe",
+      "Su carrocería alcanza los 5.005 mm, así que en tamaño juega por encima de un Tesla Model 3 o un BYD Seal",
+      "El precio aproximado de 16.400 euros lo coloca en territorio de utilitario europeo pese a ser una berlina familiar de cinco plazas",
+      "La química LFP de su acumulador prescinde del cobalto y encaja bien con recargas completas frecuentes en el uso cotidiano",
+      "Un coeficiente aerodinámico de 0,198, más propio de un ejercicio de túnel de viento, ayuda a contener el gasto circulando por autopista"
+    ],
+    contras: [
+      "Adquirirlo desde España obliga a recurrir a importación paralela: aquí Baojun carece de concesionarios, talleres oficiales y recambios en stock",
+      "La homologación CLTC resulta optimista frente al ciclo europeo, por lo que la autonomía útil quedará sensiblemente recortada en la práctica",
+      "Al tratarse de una firma sin presencia ni historial en nuestro mercado, anticipar cuánto se depreciará es pura especulación",
+      "Asistente de voz, servicios conectados e infoentretenimiento llegan pensados para conductores chinos, sin adaptación europea confirmada",
+      "Ningún organismo independiente europeo ha ensayado su seguridad, así que no existe nota comparable frente a la de sus rivales"
+    ],
     imagen: "/media/baojun-enjoy-2025-precio-ficha-tecnica-1.webp",
     imagenOficial: "/media/baojun-enjoy-2025-precio-ficha-tecnica-2.webp",
     imagenInteriorOficial: "/media/baojun-enjoy-2025-precio-ficha-tecnica-3.webp",
@@ -1378,8 +1390,20 @@ export const COCHES_LOTE2: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 0,
     aprox: ["precioDesde"],
-    pros: ["~14.700 €: imbatible por potencia y autonomía", "217 CV y 520 km CLTC con 62 kWh", "Maletero de 490 litros: familiar de verdad", "Respaldo de la alianza Dongfeng-Nissan", "Batería LFP: segura y duradera"],
-    contras: ["No se vende fuera de China: sin red ni postventa", "520 km CLTC son ~400 km reales", "Marca desconocida en Europa", "Diseño conservador, sin el 'efecto wow' chino", "Sin datos de seguridad Euro NCAP"],
+    pros: [
+      "Su truco familiar es tumbar los respaldos delanteros y traseros hasta dejar el habitáculo convertido en una cama plana para dormir dentro, algo que ni un BYD Atto 3 ni un MG ZS EV ofrecen de serie",
+      "Por unos 14.700 euros en China junta 217 CV, 275 Nm y tracción delantera: cifras que en Europa obligarían a pagar mucho más por un SUV eléctrico de cinco plazas",
+      "Con 62 kWh para anunciar 520 km en ciclo CLTC y 490 litros de maletero, encaja en el viaje largo en familia sin renunciar a cargar equipaje voluminoso",
+      "Detrás no hay una startup improvisada: Venucia es la enseña de Dongfeng-Nissan, así que comparte ingeniería y fábrica con un socio japonés con décadas haciendo coches",
+      "El paquete de baterías apuesta por química LFP, menos propensa a sustos térmicos y más tolerante a cargar al completo a diario que una batería ternaria convencional"
+    ],
+    contras: [
+      "En España no existe concesionario Venucia donde comprarlo, mantenerlo o reclamar una avería: cualquier unidad llegaría por importación paralela y quedaría huérfana de posventa oficial",
+      "Esos 520 km son homologación china CLTC, bastante más generosa que la WLTP europea, así que en autopista española la autonomía útil caerá de forma clara",
+      "Pese a declarar 217 CV, firma el 0 a 100 km/h en 8 segundos y solo mueve las ruedas delanteras, sin versión de tracción total como la de algunos rivales coreanos",
+      "Euro NCAP jamás lo ha estrellado en sus ensayos, por lo que quien lo importe no tendrá una nota independiente que respalde cómo protege a ocupantes y peatones",
+      "Fuera de su mercado doméstico es un completo desconocido frente a BYD o MG, y esa invisibilidad penaliza tanto la confianza del comprador como un futuro precio de reventa"
+    ],
     imagen: "/media/venucia-vx6-2024-precio-ficha-tecnica-1.webp",
     imagenOficial: "/media/venucia-vx6-2024-precio-ficha-tecnica-2.webp",
     imagenInteriorOficial: "/media/venucia-vx6-2024-precio-ficha-tecnica-3.webp",
@@ -1442,8 +1466,20 @@ export const COCHES_LOTE2: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 0,
     aprox: ["precioDesde"],
-    pros: ["~10.600 €: el SUV eléctrico más barato del mundo en su tamaño", "430 km CLTC con batería LFP de 41,9 kWh", "102 CV y 150 km/h: prestaciones de coche 'de verdad'", "Plataforma eléctrica dedicada Tianyu S", "Diseño con personalidad, entre retro y SUV"],
-    contras: ["No se vende fuera de China: sin red ni postventa en Europa", "430 km CLTC son ~330 km reales en uso mixto", "Marca desconocida en Europa y reventa imposible de estimar", "Sin datos de seguridad publicados", "Acabados correctos pero lejos de los estándares europeos"],
+    pros: [
+      "Por 10.600 € ofrece etiqueta Cero y cinco plazas en 4.265 mm, justo el hueco que en China disputan el Geely Xingyuan y el BYD Dolphin",
+      "Es el salto de la familia Bingo a formato todocamino: deja atrás el utilitario redondeado original apoyándose en la arquitectura Tianyu S",
+      "El pack LFP de 41,9 kWh firma 430 km bajo ciclo CLTC, margen sobrado sobre el papel para cubrir la semana laboral sin enchufarlo a diario",
+      "Con 102 CV, 180 Nm y 150 km/h de punta no se limita a callejear: se incorpora y mantiene ritmos de vía rápida sin quedarse vendido",
+      "Contiene el peso en 1.300 kg para un eléctrico de su talla y su silueta redondeada se aparta de tanto todocamino anguloso y clónico"
+    ],
+    contras: [
+      "Hacerse con uno desde España implica importación particular: Wuling carece aquí de concesionarios, talleres homologados y suministro organizado de recambios",
+      "La autonomía se mide con el ciclo chino CLTC, bastante generoso, así que en carretera y con la climatización puesta la distancia útil caerá de forma clara",
+      "Frente a un BYD Dolphin ya asentado fuera de China, su valor futuro aquí es una incógnita total y venderlo después costará mucho más esfuerzo",
+      "Euro NCAP jamás lo ha sometido a sus ensayos, de modo que falta una calificación independiente comparable con la de sus rivales vendidos en Europa",
+      "Materiales y ajustes interiores responden a un presupuesto muy contenido pensado para compradores chinos, y eso se percibe al tacto en puertas y salpicadero"
+    ],
     imagen: "/media/wuling-bingo-s-2025-precio-ficha-tecnica-1.webp",
     imagenOficial: "/media/wuling-bingo-s-2025-precio-ficha-tecnica-2.webp",
     imagenInteriorOficial: "/media/wuling-bingo-s-2025-precio-ficha-tecnica-3.webp",

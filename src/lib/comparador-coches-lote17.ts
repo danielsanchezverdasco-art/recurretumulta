@@ -414,18 +414,18 @@ export const COCHES_LOTE17: CocheComparador[] = [
     cargaRapidaKw: 130,
     etiquetaDgt: "0",
     pros: [
-      "462 km de autonomía WLTP: la mayor de un MINI eléctrico hasta la fecha",
-      "Batería de 64,7 kWh útiles con carga rápida de 130 kW: del 10 al 80 % en 29 minutos",
-      "Carga en alterna de 22 kW: la más rápida del segmento, ideal para puntos públicos",
-      "36.610 €: más barato que el Countryman S de gasolina equivalente",
-      "Etiqueta 0: acceso total a ZBE, aparcamiento gratis y sin parquímetro en muchas ciudades",
+      "Homologa 462 km y almacena 64,7 kWh, una reserva que permite salir de la ciudad sin planificar cada parada como una obligación",
+      "En corriente continua admite hasta 130 kW, así que una pausa breve durante un desplazamiento largo recupera una parte importante de la carga",
+      "Esta generación creció sobre la base compartida con el BMW X1, y ese salto se nota en espacio para ocupantes y en aplomo cuando toca viajar lejos",
+      "El maletero cubica 460 litros con cinco plazas utilizables, un planteamiento familiar que lo separa claramente de los MINI pequeños tradicionales",
+      "Arranca en 36.610 euros con etiqueta 0, posición que le permite competir con un Mercedes EQA sin renunciar a circular por zonas restringidas"
     ],
     contras: [
-      "204 CV y tracción delantera: menos emocionante que el SE ALL4 de 313 CV",
-      "Consumo real de 18,1 kWh/100 km en prueba: la autonomía real ronda los 320 km",
-      "1.940 kg de peso: se nota en apoyos fuertes frente al Countryman de combustión",
-      "Velocidad máxima limitada a 170 km/h: justo para autopista alemana",
-      "El interior minimalista con todo en pantalla no convence a los puristas de MINI",
+      "Pesar 1.940 kilos condiciona su comportamiento en curvas enlazadas: mantiene la trayectoria, pero ya no se siente aquel kart ligero asociado históricamente a la marca",
+      "Con un solo motor, tracción delantera y 204 CV, quien espere la contundencia de la versión con dos motores tendrá que asumir un desembolso superior",
+      "Alcanzar como máximo 170 km/h delata prioridades claras: aquí manda la eficiencia en carretera, no una vocación prestacional declarada",
+      "Derivar casi todas las funciones a la pantalla circular central obliga a mirar y tocar para ajustes cotidianos, algo que penaliza a quien echa de menos botones físicos",
+      "Sus 4.440 mm de longitud lo vuelven menos cómodo en garajes estrechos y callejeo que un Volvo EX30, más corto y pensado solo para ciudad"
     ],
     largoMm: 4440,
     anchoMm: 1843,
@@ -468,21 +468,19 @@ export const COCHES_LOTE17: CocheComparador[] = [
       nota: "5 estrellas Euro NCAP 2024 (comunicado oficial BMW Group, válido para la gama Countryman).",
     },
     planMantenimiento: {
-      intervalo: "Cada 24 meses o 30.000 km (vehículo eléctrico)",
-      revisiones: [
+      "intervalo": "Cada 2 años o 30.000 km, lo que antes ocurra; líquido de frenos cada 2 años, según manual y sistema CBS",
+      "revisiones": [
         {
-          nombre: "Inspección / 30.000 km",
-          queSeCambia: "Filtro de habitáculo + líquido de frenos + revisión batería",
-          costeAproxEur: 180,
+          "costeAproxEur": null,
+          "nombre": "Revisión periódica a los 2 años o 30.000 km",
+          "queSeCambia": "Chequeo del vehículo según directrices MINI, servicio de microfiltro y servicio de líquido de frenos cuando el CBS lo indica"
         },
         {
-          nombre: "Inspección mayor / 60.000 km",
-          queSeCambia: "Filtros + líquido de frenos + refrigerante + pastillas",
-          costeAproxEur: 320,
-        },
-      ],
-      costeAnualAproxEur: 250,
-      fuente: "MINI Service Inclusive (programa oficial mini.es)",
+          "costeAproxEur": null,
+          "nombre": "Revisión periódica a los 4 años o 60.000 km",
+          "queSeCambia": "Nuevo chequeo del vehículo según directrices MINI, servicio de microfiltro y servicio de líquido de frenos cuando el CBS lo indica"
+        }
+      ]
     },
   },
 {

@@ -282,18 +282,18 @@ export const COCHES_WULING: CocheComparador[] = [
     cargaRapidaKw: 30,
     etiquetaDgt: "Cero",
     pros: [
-      "510 km de autonomía CLTC con 50,6 kWh: récord del segmento",
-      "Carga rápida en CC: del 30 al 80 % en 30-35 minutos",
-      "Función V2L de 3,3 kW para alimentar aparatos externos",
-      "Maletero de hasta 1.450 litros abatiendo asientos",
-      "Plataforma Tianyu M con gestión térmica de la batería",
+      "Heredero crecido del Bingo de SAIC-GM-Wuling, monta un paquete de 50,6 kWh que homologa 510 km en CLTC, distancia que lo despega del modelo base y lo planta frente a eléctricos urbanos bastante más caros",
+      "Declara apenas 9,6 kWh/100 km de gasto medio, así que exprimir sus 102 CV y 180 Nm en tráfico urbano sale realmente barato si recargas en casa",
+      "Su función de descarga bidireccional entrega 3,3 kW hacia fuera: enchufas una cafetera, un taladro o un portátil y el propio coche hace de generador improvisado",
+      "Plegando la banqueta posterior despeja hasta 1.450 litros de carga, un cubo enorme para un crossover de 4.090 mm que además conserva cinco plazas utilizables",
+      "Admite corriente continua a 30 kW y rellena del 30 al 80 % en torno a media hora, pausa razonable para estirar un desplazamiento interurbano sin eternizarte"
     ],
     contras: [
-      "Velocidad máxima limitada a 140 km/h",
-      "Se llamó Bingo SUV entre 2024 y 2025: confusión de nombres",
-      "No se vende oficialmente en España",
-      "Sin maletero delantero (frunk)",
-      "Asistencias a la conducción muy básicas",
+      "El corte electrónico a 140 km/h basta para autovía legal, pero un BYD Dolphin respira con más desahogo cuando toca encadenar kilómetros y adelantamientos largos",
+      "Durante una temporada se comercializó como Bingo SUV antes de recuperar el apellido Plus, un cambio de etiqueta que enreda catálogos, recambios y búsquedas de segunda mano",
+      "Wuling no opera red propia en España, así que hacerse con uno implica importación paralela y resolver por tu cuenta homologación, seguro y posventa posterior",
+      "Delante no esconde ningún cofre auxiliar tipo frunk, de modo que cables y trastos pequeños acaban ocupando sitio en el compartimento trasero principal",
+      "Su dotación de ayudas electrónicas se queda corta frente a un Leapmotor T03 o un BYD Dolphin Surf vendidos en Europa, sin asistentes evolucionados para atascos ni para mantenerte centrado durante horas"
     ],
     largoMm: 4090,
     anchoMm: 1720,
@@ -365,18 +365,18 @@ export const COCHES_WULING: CocheComparador[] = [
     cargaRapidaKw: 30,
     etiquetaDgt: "Cero",
     pros: [
-      "460 km de autonomía con batería de 50,6 kWh",
-      "136 CV y 330 Nm: el Wuling más potente del segmento",
-      "Pantalla central de 15,6 pulgadas con Ling OS 2.0",
-      "Carga rápida en CC: del 30 al 80 % en 30 minutos",
-      "Wuling domina el 78 % del mercado eléctrico indonesio",
+      "Su carrocería alta de 4.295 mm esconde un habitáculo muy despejado para cinco ocupantes",
+      "Homologa 460 km y declara apenas 11 kWh a los cien, combinación que espacía bastante las paradas frente a un BYD Dolphin de acceso",
+      "El propulsor delantero rinde 136 CV con 330 Nm instantáneos, empuje sobrado para incorporaciones y adelantamientos sin titubeos",
+      "Preside el puesto de conducción una pantalla enorme de 15,6 pulgadas gestionada mediante el entorno Ling OS 2.0",
+      "Recuperar energía del 30 al 80 por ciento lleva media hora, ayuda práctica cuando toca encadenar etapas largas"
     ],
     contras: [
-      "En China se vende como Baojun, no como Wuling",
-      "Precio muy superior al de sus hermanos chinos",
-      "No se vende oficialmente en España",
-      "Maletero de solo 382 litros con 5 plazas",
-      "Velocidad máxima limitada a 150 km/h",
+      "España queda fuera de su mapa comercial, así que hacerse con uno obliga a recurrir a la importación paralela",
+      "En su mercado doméstico luce emblemas Baojun Yunduo, identidad distinta que entorpece localizar información, accesorios y recambios",
+      "Los 23.400 euros estimados para Europa chocan con tarifas chinas sensiblemente inferiores para un coche idéntico",
+      "Detrás de la segunda fila quedan 382 litros, volumen justo si viajan cinco personas con equipaje voluminoso",
+      "Su punta queda recortada a 150 km/h y la recarga rápida se conforma con 30 kW, registros discretos ante un Volkswagen ID.3"
     ],
     largoMm: 4295,
     anchoMm: 1850,
@@ -424,6 +424,22 @@ export const COCHES_WULING: CocheComparador[] = [
       },
     ],
     analisisSlug: "wuling-cloud-ev-2024-precio-ficha-tecnica",
+  
+    planMantenimiento: {
+      "intervalo": "Revisiones periódicas según libro de servicio oficial de Wuling Indonesia; programa Extensive Free Maintenance vigente hasta 15,5 años o 155.000 km, lo primero que se cumpla",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión periódica programada",
+          "queSeCambia": "Inspección general y sustitución programada de aceite de la reductora y filtro del climatizador, según libro de servicio oficial"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Mantenimiento acumulado hasta 105.000 km",
+          "queSeCambia": "Incluye además refrigerante y líquido de frenos; Wuling Indonesia cifra el coste total hasta ese kilometraje en 5,3 millones de IDR entre mano de obra y recambios, sin equivalencia oficial en euros"
+        }
+      ]
+    },
   },
   {
     id: "wuling-starlight-2024-precio-ficha-tecnica",

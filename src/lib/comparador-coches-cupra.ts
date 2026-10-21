@@ -405,18 +405,18 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "emisionesCo2": 9,
     "aprox": [],
     "pros": [
-      "126 km de autonomía eléctrica: de las mejores del segmento",
-      "42.340 € (km77): 204 CV con etiqueta Cero",
-      "Batería de 19,7 kWh con carga en alterna a 11 kW",
-      "En ciudad, semanas sin gastar una gota de gasolina",
-      "Maletero de 270 L, suficiente para el día a día"
+      "Homologa 126 km en modo eléctrico, cifra que lo sitúa por delante de compactos enchufables como el Volkswagen Golf eHybrid o el Peugeot 308 Hybrid para cubrir la semana laboral sin arrancar el térmico",
+      "Reúne 204 CV y 350 Nm en un cinco puertas de tracción delantera que despacha el 0 a 100 en 7,7 segundos y, aun así, conserva la etiqueta Cero de la DGT",
+      "Acepta recarga en corriente continua a 50 kW, así que una parada corta en un cargador público repone buena parte de su batería de 19,7 kWh sin convertir cada viaje en una espera eterna",
+      "Mantiene el formato bajo y manejable del León de siempre: 4.368 mm de largo y 1.467 mm de alto, sin la carrocería elevada ni el volumen visual de sus hermanos SUV de Cupra",
+      "La batería de tracción va respaldada por una cobertura de 8 años o 160.000 km, un colchón tranquilizador para quien estrena tecnología enchufable en su compacto de diario"
     ],
     "contras": [
-      "10.588 € más que el 1.5 TSI",
-      "270 L de maletero: la batería se come 110 L",
-      "Peso extra notable frente al TSI",
-      "Sin carga rápida en continua",
-      "Si no cargas a diario, pierde todo el sentido"
+      "El maletero se queda en 270 litros para cinco ocupantes: la compra grande del mes o dos maletas medianas ya obligan a abatir respaldos o a renunciar a equipaje",
+      "Arranca en 42.340 euros, un desembolso serio para un compacto que solo compensa si la mayoría de tus kilómetros salen del enchufe y no del depósito",
+      "Marca 1.673 kg en la báscula, un lastre palpable en rotondas y frenadas que ningún compacto térmico equivalente tiene que arrastrar curva tras curva",
+      "Sin plaza de garaje propia ni punto de carga en el trabajo, alimentarlo cada noche en la calle se convierte en una gestión constante que acaba cansando al más convencido",
+      "Todo el empuje llega a las ruedas delanteras: con 350 Nm disponibles casi al instante, sobre mojado o al salir fuerte de un cruce la electrónica debe recortar para no perder tracción"
     ],
     "imagen": "/media/cupra-leon-ehybrid-204-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/cupra-leon-ehybrid-204-2025-precio-ficha-tecnica-oficial.webp",
@@ -463,16 +463,40 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "url": "https://www.euroncap.com/it/results/cupra/leon/43180",
     },
     "planMantenimiento": {
-      "intervalo": "15.000 km o 12 meses (lo que ocurra antes)",
+      "fuente": "Programa de mantenimiento oficial CUPRA León y manual de instrucciones CUPRA León (servicio fijo QI4)",
+      "intervalo": "15.000 km o 12 meses, lo que ocurra antes (servicio fijo QI4); el indicador de intervalos del cuadro avisa del vencimiento",
       "revisiones": [
         {
-          "nombre": "Revisión anual / 15.000 km",
-          "queSeCambia": "Aceite del motor + filtro de aceite + filtro de polen + inspección general",
           "costeAproxEur": null,
+          "nombre": "Servicio de aceite e inspección cada 15.000 km o 12 meses",
+          "queSeCambia": "Aceite de motor y filtro de aceite, con inspección general del vehículo y puesta a cero del indicador de servicio"
         },
-      ],
-      "costeAnualAproxEur": null,
-      "fuente": "Programa de mantenimiento oficial CUPRA/SEAT",
+        {
+          "costeAproxEur": null,
+          "nombre": "Cada 2 años o 20.000 km",
+          "queSeCambia": "Filtro de polvo y polen del habitáculo"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Cada 2 años o 30.000 km",
+          "queSeCambia": "Filtro de aire del motor y limpieza de su carcasa"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Líquido de frenos: primera sustitución a los 3 años y después cada 2 años",
+          "queSeCambia": "Líquido de frenos nuevo según la especificación indicada por la marca"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Cada 4 años o 40.000 km",
+          "queSeCambia": "Bujías de encendido del motor de gasolina"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Cada 60.000 km, cambio DSG de 6 marchas del e-Hybrid",
+          "queSeCambia": "Aceite y filtro del cambio de doble embrague"
+        }
+      ]
     },
   },
   {
@@ -1014,18 +1038,18 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "emisionesCo2": 9,
     "aprox": [],
     "pros": [
-      "120 km de autonomía eléctrica con etiqueta Cero",
-      "43.480 € (km77): 204 CV enchufables",
-      "Batería de 19,7 kWh con carga a 11 kW",
-      "El Formentor más vendido en renting por su fiscalidad",
-      "En ciudad, eléctrico puro la mayoría de los días"
+      "Silueta de SUV coupé creada desde cero para Cupra, sin gemelo en SEAT, que aquí se combina con un conjunto enchufable de 204 CV y 350 Nm pensado para moverse a diario sin gastar gasolina",
+      "Sus 120 km homologados en modo eléctrico permiten cubrir los trayectos cotidianos en silencio y acceder a zonas de bajas emisiones con el distintivo Cero de la DGT en el parabrisas",
+      "El paquete de 19,7 kWh admite recarga rápida de hasta 50 kW, un recurso poco habitual entre SUV híbridos enchufables generalistas como el Kia Sportage PHEV o el Hyundai Tucson PHEV cuando surge un viaje imprevisto",
+      "Acelera de 0 a 100 km/h en 7,9 segundos y alcanza 210 km/h, cifras que lo separan de propuestas familiares más pausadas y mantienen el carácter deportivo que se espera del primer modelo propio de la marca",
+      "Con un consumo homologado de solo 0,4 l/100 km y 9 g/km de CO2 sobre el papel, resulta especialmente atractivo para empresas y autónomos que buscan un SUV de imagen sin renunciar a ventajas fiscales"
     ],
     "contras": [
-      "7.288 € más que el 1.5 eTSI",
-      "Maletero de 345 L: la batería resta 105 L",
-      "Sin carga rápida en continua",
-      "Peso extra del sistema híbrido",
-      "Sin enchufe diario, mejor el eTSI"
+      "La factura arranca en 43.480 euros, un desembolso considerable si lo comparamos con las versiones de gasolina del propio Formentor y difícil de amortizar para quien recorra pocos kilómetros al año",
+      "El hueco bajo el portón se queda en 345 litros, volumen justo para el equipaje de una familia y claramente inferior al que ofrecen alternativas enchufables de corte más práctico como el Peugeot 3008 híbrido enchufable",
+      "Sobre la báscula marca 1.717 kg con tracción delantera, así que en puertos de montaña o rotondas enlazadas se nota una inercia que no tienen los Formentor térmicos más ligeros",
+      "Todo su sentido depende de enchufarlo cada noche en casa o en la oficina; sin ese hábito, el motor de gasolina asume el esfuerzo y la promesa de eficiencia se diluye por completo",
+      "No existe variante con tracción total en esta motorización, una ausencia que penaliza a quien necesita seguridad extra sobre nieve o pistas frente a SUV enchufables con reparto a las cuatro ruedas"
     ],
     "imagen": "/media/cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica-oficial.webp",
@@ -1075,13 +1099,16 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "intervalo": "15.000 km o 12 meses (lo que ocurra antes)",
       "revisiones": [
         {
-          "nombre": "Revisión anual / 15.000 km",
-          "queSeCambia": "Aceite del motor + filtro de aceite + filtro de polen + inspección general",
           "costeAproxEur": null,
+          "nombre": "Primera revisión — 15.000 km o 12 meses",
+          "queSeCambia": "Aceite del motor y filtro de aceite nuevos, filtro de polen sustituido, inspección general del vehículo y comprobación del sistema híbrido y del estado de la batería de tracción"
         },
-      ],
-      "costeAnualAproxEur": null,
-      "fuente": "Programa de mantenimiento oficial CUPRA/SEAT",
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisiones sucesivas — cada 15.000 km o 12 meses",
+          "queSeCambia": "Repetición del servicio de cambio de aceite y filtro de aceite, renovación del filtro de polen cuando corresponda según inspección, revisión general del conjunto y verificación del sistema híbrido y de la batería de tracción"
+        }
+      ]
     },
   },
   {
@@ -1414,18 +1441,18 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "emisionesCo2": 10,
     "aprox": [],
     "pros": [
-      "45.350 € (km77): el Terramar híbrido enchufable de acceso",
-      "120 km de autonomía eléctrica con etiqueta Cero",
-      "Batería de 19,7 kWh con carga a 11 kW",
-      "4,52 m: el SUV familiar de Cupra",
-      "Maletero de aprox 400 L"
+      "Por 45.350 € es la forma más asequible de estrenar este SUV familiar enchufable de Cupra",
+      "Sus 120 km homologados en modo eléctrico dan para cubrir los trayectos diarios de una familia sin encender el motor de gasolina y luciendo distintivo Cero",
+      "Sale de la planta húngara de Győr compartiendo línea con el Audi Q3, un parentesco que se nota en ajustes y solidez general",
+      "El conjunto entrega 350 Nm desde abajo, así que mover este todocamino de cinco plazas no exige ir buscando revoluciones",
+      "La batería queda respaldada durante 8 años o 160.000 km, un colchón tranquilizador en un híbrido enchufable pensado para durar en casa"
     ],
     "contras": [
-      "Maletero menor que los 508 L del Terramar térmico",
-      "Sin carga rápida en continua",
-      "El VZ e-Hybrid 272 añade 68 CV por 7.660 € más",
-      "Peso extra del sistema híbrido",
-      "Sin enchufe diario, pierde el sentido"
+      "Firmar 1.898 kg en báscula se deja sentir en frenadas y en curvas cerradas, donde nunca llega a sentirse ligero",
+      "Para un familiar de 4.519 mm de largo, conformarse con unos 400 litros de maletero obliga a medir bien el equipaje de las vacaciones",
+      "No hay opción de siete asientos ni de tracción total en esta versión: tira solo de delante y se sienta cinco ocupantes",
+      "Parar el cronómetro en 8,3 segundos hasta los 100 km/h sabe a poco tratándose de un Cupra de 204 CV con aspiraciones deportivas",
+      "Su pico de carga en corriente continua se queda en 50 kW, cifra modesta cuando toca recuperar batería en una parada breve de autopista"
     ],
     "imagen": "/media/cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica-oficial.webp",
@@ -1472,16 +1499,26 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "url": "https://news.euroncap.com/safercars/choose-a-car/cupra-terramar---euro-ncap-2025-results---5-stars/s/1606b13e-5000-4dd7-b2cb-9ef9d2f3b868",
     },
     "planMantenimiento": {
-      "intervalo": "15.000 km o 12 meses (lo que ocurra antes)",
+      "costeAnualAproxEur": null,
+      "fuente": "https://www.cupraofficial.co/posventa/cupra-care",
+      "intervalo": "15.000 km o 12 meses, lo que ocurra antes",
       "revisiones": [
         {
-          "nombre": "Revisión anual / 15.000 km",
-          "queSeCambia": "Aceite del motor + filtro de aceite + filtro de polen + inspección general",
           "costeAproxEur": null,
+          "nombre": "Primera revisión: 15.000 km o 1 año",
+          "queSeCambia": "Aceite del motor y filtro de aceite nuevos, filtro de polen si corresponde por uso, revisión de frenos, niveles de fluidos, neumáticos, alumbrado y diagnóstico electrónico del sistema híbrido"
         },
-      ],
-      "costeAnualAproxEur": null,
-      "fuente": "Programa de mantenimiento oficial CUPRA/SEAT",
+        {
+          "costeAproxEur": null,
+          "nombre": "Segunda revisión: 30.000 km o 2 años",
+          "queSeCambia": "De nuevo aceite y filtro de aceite, sustitución de los filtros que el plan del fabricante asigne a este kilometraje, inspección de suspensión, dirección y batería, y comprobación de frenos y fluidos"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Tercera revisión: 45.000 km o 3 años",
+          "queSeCambia": "Repetición del servicio de aceite y filtro de aceite, revisión completa de frenos, suspensión y dirección, chequeo del sistema de alto voltaje y diagnóstico electrónico general del vehículo"
+        }
+      ]
     },
   },
   {

@@ -5206,24 +5206,42 @@ export const PATINETES_BASE: PatineteComparador[] = [
     foto: "/media/patinetes/kukirin-g3-pro.webp",
     aprox: ["autonomiaRealKm", "precioEur", "tiempoCargaH"],
     pros: [
-      "Doble motor con 1.200 W de pico cada uno (2.400 W combinados): de lo más potente del comparador.",
-      "Batería de 52 V y 23 Ah (1.196 Wh) con 80 km de autonomía declarada.",
-      "65 km/h de velocidad máxima.",
-      "Doble freno hidráulico y suspensión de cuatro brazos.",
-      "Neumáticos off-road de 10\" para campo y caminos.",
-      "Carga máxima de 120 kg y batería extraíble (versión 2024).",
+      "Tracción a las dos ruedas con dos motores que suman 2.400 W: empuje sobrado para pendientes duras y para acelerar sin titubeos fuera del asfalto.",
+      "El acumulador llega a 1.196 Wh y promete hasta 80 km por carga, aunque la estimación realista de la ficha se queda en 52 km.",
+      "Alcanza 65 km/h, un registro más propio de un vehículo de ocio en pista que de un patinete urbano al uso.",
+      "Para detener semejante conjunto monta frenos hidráulicos dobles junto a una suspensión de cuatro brazos orientada a absorber impactos.",
+      "Las cubiertas de tacos, en medida de 10 pulgadas, buscan agarre cuando el firme se convierte en tierra, grava o barro.",
+      "Admite hasta 120 kg sobre la plataforma y, en la revisión de 2024, la batería puede extraerse para cargarla separada del chasis."
     ],
     contras: [
-      "65 km/h: muy lejos del límite de 25 km/h; en España no puede circular por vía pública como VMP.",
-      "Sin PVP oficial en España (tienda UE desde ~1.259 € con envío desde Polonia).",
-      "Mole considerable (51 kg de peso de envío según distribuidor): nada portable.",
-      "Tiempo de carga no publicado.",
-      "Sin certificado DGT.",
+      "No es legal como VMP en España: dos motores, 2.400 W y 65 km/h rebasan los topes aplicables de 1.000 W y 25 km/h, así que queda fuera de la vía pública.",
+      "La ficha no le atribuye certificado DGT, otro motivo para no planteárselo como medio de transporte en calles o carriles españoles.",
+      "Su masa de 39,6 kg descarta subirlo a pulso a un piso o cargarlo en un maletero como rutina diaria.",
+      "Falta un precio oficial claro para nuestro mercado y la propia ficha marca su importe como aproximado, así que conviene confirmarlo con el vendedor.",
+      "El tiempo de recarga también figura como dato aproximado en la ficha, mientras la versión anterior lo daba por no publicado: no hay cifra firme que citar."
     ],
     veredicto:
-      "El KuKirin G3 Pro es un off-road de doble motor pensado para velocidad y campo (65 km/h, 80 km de autonomía), no para la ciudad española: supera con creces el límite legal de los VMP. Solo tiene sentido en circuito privado o fuera de España; para la calle, busca un VMP de 25 km/h.",
+      "Si buscas diversión lejos del tráfico, este KuKirin apuesta todo a la fuerza bruta y a rodar por tierra sin quedarte corto de empuje. Esa misma fórmula lo descarta como transporte urbano en nuestro país. Valóralo únicamente para recintos cerrados; para desplazarte legalmente necesitas un modelo homologado y limitado.",
     fuenteNombre: "Autoevolution (KuKirin G3 Pro)",
     fuenteUrl: "https://www.autoevolution.com/news/kukirin-s-g3-pro-is-a-powerful-dual-motor-e-scooter-with-a-top-speed-of-40-mph-254457.html",
+  
+    mantenimientoDIY: {
+      "intervaloRevision": "Según el manual del G3 Pro, revisa el patinete cada tres meses buscando tornillos aflojados y, si va a quedar parado, recarga la batería también cada tres meses.",
+      "presionNeumaticos": "La guía de Kugoo/KuKirin recomienda controlar la presión cada semana y mantener el valor indicado en el manual del modelo: con poca presión se pierde agarre y autonomía y crece el riesgo de pinchazo.",
+      "ajusteFrenosPasos": [
+        "Si la maneta se nota floja o con recorrido excesivo, deja de rodar hasta revisar el sistema hidráulico.",
+        "Comprueba el nivel de líquido de frenos: el manual atribuye esa flojedad a que el líquido resulte insuficiente.",
+        "Añade líquido de frenos si falta y vuelve a probar la frenada antes de salir de nuevo.",
+        "Si la sensación no se recupera, acude al servicio posventa en lugar de seguir circulando."
+      ],
+      "aprieteTornilleria": "Cada tres meses comprueba si hay tornillos sueltos y apriétalos en caso necesario, tal como pide el manual, con especial atención tras rodar por caminos irregulares.",
+      "trucos": [
+        "Cada seis meses aplica una pequeña cantidad de grasa blanca o lubricante en la zona de plegado, siguiendo el manual.",
+        "Carga la batería por completo antes del primer uso y no la dejes descargada durante los periodos de inactividad.",
+        "No lo dejes al sol fuerte ni en lugares muy húmedos durante mucho tiempo y mantén limpia su superficie.",
+        "Límpialo con un paño húmedo y evita la manguera a presión, como recomienda la guía de Kugoo/KuKirin."
+      ]
+    },
   },
   {
     id: "isinwheel-gt2",

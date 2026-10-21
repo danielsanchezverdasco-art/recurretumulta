@@ -577,18 +577,18 @@ export const COCHES_JAC: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde"],
     pros: [
-      "SUV grande (4,82 m) con 6 o 7 plazas de verdad",
-      "1.5 turbo de 184 CV y 300 Nm con cambio de doble embrague",
-      "Maletero de 418 a 2.153 litros abatiendo asientos",
-      "Asistentes de nivel 2 con radar de Huawei",
-      "Precio muy inferior a un Kodiaq o Santa Fe equivalente",
+      "Siete personas pueden viajar a la vez en sus tres filas, algo que rivales como el Skoda Kodiaq cobran bastante más caro",
+      "Con 4.825 mm de longitud se coloca en la zona alta del segmento, por encima de muchos SUV medios europeos",
+      "Su bloque sobrealimentado rinde 184 CV y desarrolla 300 Nm, cifras solventes para mover 1.660 kg con familia y equipaje",
+      "Aun usando las siete plazas conserva 418 litros para cargar, un volumen útil en escapadas largas",
+      "El importe aproximado de 23.400 euros lo sitúa muy por debajo de un Hyundai Santa Fe de tamaño parecido"
     ],
     contras: [
-      "Sin versiones híbridas ni eléctricas",
-      "Consumo de 7,9 l/100 km, alto para su potencia",
-      "Solo tracción delantera",
-      "Calidad de algunos plásticos mejorable",
-      "No se vende en Europa occidental",
+      "En esta versión concreta todo pasa por gasolina pura: no hay apoyo eléctrico ni distintivo favorable, solo etiqueta C",
+      "Declarar 7,9 l/100 km lo deja en desventaja frente a alternativas híbridas de potencia similar que gastan mucho menos",
+      "Toda la fuerza llega únicamente al eje delantero, sin opción integral para barro, nieve o pistas fáciles",
+      "Varios guarnecidos interiores se perciben sencillos al tacto si se comparan con referentes europeos del mismo tamaño",
+      "Comprarlo nuevo desde España resulta inviable por vía oficial: JAC aquí solo comercializa camiones eléctricos, no turismos"
     ],
     imagen: "/media/jac-x8-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/jac-x8-2025-precio-ficha-tecnica-oficial.webp",
@@ -629,6 +629,17 @@ export const COCHES_JAC: CocheComparador[] = [
       },
     ],
     analisisSlug: "jac-x8-2025-precio-ficha-tecnica",
+  
+    planMantenimiento: {
+      "intervalo": "Cada 10.000 km, mantenimientos preventivos según ficha oficial del JS8/X8",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Mantenimiento preventivo cada 10.000 km",
+          "queSeCambia": "Revisión preventiva prevista en el manual de garantía y mantenimiento JAC; la ficha oficial consultada confirma el intervalo pero no detalla operaciones ni coste para España"
+        }
+      ]
+    },
   },
   {
     id: "jac-rf8-phev-2026-precio-ficha-tecnica",
@@ -1264,18 +1275,18 @@ export const COCHES_JAC: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde"],
     pros: [
-      "1.5 turbo de 184 CV y 300 Nm con cambio de doble embrague",
-      "Liftback de 4,78 m: maletero de 540 a 1.650 litros",
-      "Velocidad máxima de 210 km/h",
-      "Precio chino desde ~12.800 €, imbatible por tamaño",
-      "Se vende también como Moskvitch 6 en Rusia",
+      "Su bloque 1.5 turbo entrega empuje serio para una berlina familiar: 184 CV y 300 Nm administrados por una caja de doble embrague y tracción delantera, una combinación con más brío del que suele ofrecer un Škoda Octavia de acceso",
+      "El portón trasero tipo liftback es su argumento práctico más claro: tras él aparecen 540 litros para cinco ocupantes, un planteamiento parecido al del Octavia pero en un coche que en Europa apenas se conoce",
+      "Con 210 km/h de punta declarada y 4,78 m de carrocería, no es un utilitario disfrazado: apunta a viajes largos por autovía, con margen de sobra para adelantar sin necesidad de apurar el motor",
+      "El gancho económico resulta difícil de ignorar: parte de unos 12.800 € en origen, una cifra que dejaría en evidencia a cualquier rival generalista de este tamaño si alguna vez llegara oficialmente a España",
+      "Nació en 2021 como primer sedán de la marca Sehol y hoy convive bajo varias identidades, entre ellas Moskvitch 6 en Rusia y J7 en otros mercados, lo que al menos garantiza cierta continuidad industrial fuera de China"
     ],
     contras: [
-      "Sin versiones electrificadas",
-      "No se vende en Europa occidental ni Latinoamérica",
-      "Calidad de rodadura mejorable",
-      "Red de servicio inexistente fuera de China/Rusia",
-      "Depreciación alta como modelo de nicho",
+      "Carece de alternativa electrificada en esta ficha, ni híbrida ni enchufable, y se conforma con la etiqueta C y 7 l/100 km declarados: desventaja clara cuando un Toyota Corolla híbrido entra en la comparación pensando en ciudad",
+      "Comprarlo desde España hoy es casi una quimera: no figura en la oferta oficial de turismos de JAC en Europa occidental, así que tocaría importación particular, con su papeleo, su homologación y su incertidumbre añadida",
+      "Varias valoraciones en su mercado de origen señalan una suspensión tirando a firme y unos asientos que cansan en trayectos largos, un refinamiento aún lejos del aplomo que muestran un Honda Civic o un Octavia en carretera bacheada",
+      "Fuera de China y de los países donde se ensambla, conseguir recambios y un taller que conozca bien este liftback puede convertirse en una espera larga: en España la actividad de JAC se centra en camiones, no en este turismo",
+      "Siendo un desconocido para el comprador español, su valor futuro es una incógnita poco favorable: el mercado de ocasión premia a las marcas asentadas, y un modelo llegado por importación paralela lo tiene todo en contra al revenderse"
     ],
     imagen: "/media/jac-a5-plus-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/jac-a5-plus-2025-precio-ficha-tecnica-oficial.webp",
@@ -1430,18 +1441,18 @@ export const COCHES_JAC: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde"],
     pros: [
-      "SUV compacto (4,50 m) con maletero de 485 a 1.816 litros",
-      "1.5 turbo de 150 CV y 230 Nm",
-      "Precio chino desde ~10.400 €",
-      "Consumo WLTC declarado de 7,6 l/100 km",
-      "Se vende también como KMC X5 en Irán y Moskvitch 5 en Rusia",
+      "Su tarifa en China, en torno a 10.400 euros, queda muy por debajo de lo que piden un MG ZS o un Chery Tiggo 7 Pro de potencia parecida",
+      "El bloque gasolina turboalimentado rinde 150 CV y empuja con 230 Nm, solvencia de sobra para mover a cinco ocupantes sin apuros en incorporaciones",
+      "Mide 4.505 mm de longitud y aun así reserva 485 litros para el equipaje, una capacidad generosa dentro del segmento de todocaminos compactos",
+      "Declara 7,6 l/100 km según el ciclo WLTC, un gasto contenido para un motor de gasolina sin ningún tipo de asistencia eléctrica",
+      "La misma carrocería se comercializa fuera de China como JAC JS5, como KMC X5 en Irán y como Moskvitch 5 en Rusia"
     ],
     contras: [
-      "Diseño derivado del antiguo JAC Refine S5",
-      "Sin versiones híbridas ni eléctricas",
-      "Interior con ergonomía mejorable",
-      "No se vende en Europa ni Latinoamérica",
-      "Marca Sehol en retirada frente a JAC",
+      "Hereda la base del veterano JAC Refine S5, una plataforma ya añeja que penaliza refinamiento y tacto frente a arquitecturas recientes de MG o Chery",
+      "La oferta mecánica es gasolina pura de principio a fin: nada de híbrido ligero, híbrido enchufable o versión eléctrica, y se queda con la etiqueta C",
+      "El habitáculo flojea en ergonomía, con mandos menos intuitivos y soluciones de puesto de conducción por detrás de los referentes europeos del segmento",
+      "Carece de comercialización oficial tanto en Europa como en Latinoamérica, así que hacerse con uno implica importación paralela y una posventa incierta",
+      "Sehol nació de la empresa conjunta entre JAC y Volkswagen, pero JAC ha decidido ir apagando esta marca, lo que siembra dudas sobre su continuidad"
     ],
     imagen: "/media/sehol-x6-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/sehol-x6-2024-precio-ficha-tecnica-oficial.webp",
@@ -1482,5 +1493,36 @@ export const COCHES_JAC: CocheComparador[] = [
       },
     ],
     analisisSlug: "sehol-x6-2024-precio-ficha-tecnica",
+  
+    planMantenimiento: {
+      "intervalo": "Cada 10.000 km o 6 meses, lo que ocurra primero, para aceite de motor y filtro, según el manual de garantía y mantenimiento de JAC aplicable al JS5 (denominación del X6 en otros mercados)",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión periódica",
+          "queSeCambia": "Aceite de motor y filtro de aceite en cada intervalo de 10.000 km o 6 meses, con inspección general de niveles, frenos, dirección y neumáticos"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Filtro de aire",
+          "queSeCambia": "Sustitución del elemento del filtro de aire cada 20.000 km o 12 meses según la tabla de mantenimiento periódico del manual"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Bujías",
+          "queSeCambia": "Sustitución de bujías cada 30.000 km, con comprobaciones intermedias en las revisiones de 10.000 y 20.000 km"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Líquido de frenos",
+          "queSeCambia": "Sustitución del líquido de frenos cada 40.000 km o 24 meses"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Caja automática",
+          "queSeCambia": "Sustitución del aceite de la transmisión automática y su filtro a los 60.000 km o 36 meses"
+        }
+      ]
+    },
   },
 ];

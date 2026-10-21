@@ -613,21 +613,21 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm", "pesoKg", "precioEur", "bateriaWh"],
     pros: [
-      "800 W con batería de 48 V y 12,5 Ah (~600 Wh): equilibrio entre potencia y peso",
-      "51 km declarados con doble suspensión",
-      "Neumáticos de 10\" de uso mixto, menos ruidosos que los todoterreno",
-      "App iSinwheel con modos y bloqueo",
-      "Carga máxima de 150 kg",
+      "Su motor de 800 W se nota al salir de un semáforo y al atacar repechos urbanos, donde no se viene abajo con facilidad",
+      "La batería de 600 Wh le permite prometer 51 km por carga, cifra pensada para encadenar varios desplazamientos sin buscar enchufe a diario",
+      "Ruedas de 10 pulgadas y amortiguación en los dos ejes forman un conjunto que digiere mejor adoquines, juntas y bordillos rebajados",
+      "Monta disco delante y también detrás, una pareja de frenos que aporta una mordida más contundente al detener el conjunto",
+      "Soporta hasta 150 kg sobre la plataforma y se gestiona desde la aplicación de la marca, con bloqueo y selección de modos"
     ],
     contras: [
-      "21,3 kg: sigue siendo pesado para subirlo a diario",
-      "Sin PVP oficial en España",
-      "En Europa limitado a 25 km/h",
-      "Tiempo de carga no publicado",
-      "El S10Max da más por poco más si buscas el máximo",
+      "A pulso se hace notar: esos 21,3 kg penalizan cada tramo de escaleras y cada subida al maletero",
+      "Comprarlo en España exige investigar el canal de venta, porque aquí no consta un precio oficial cerrado",
+      "El alcance utilizable se queda en unos 34 km, bastante por debajo de la cifra anunciada por la marca",
+      "La duración de una recarga completa no aparece publicada, un dato básico que debería figurar antes de decidir",
+      "En los datos disponibles no consta su certificado de circulación de la DGT, papel que conviene exigir y comprobar antes de rodar por España"
     ],
     veredicto:
-      "El punto medio de la gama S10: 800 W y ~600 Wh sin llegar al peso del S10Max. Buena opción si quieres potencia contenida y doble suspensión.",
+      "El S10Pro encaja para quien recorre distancias largas a diario y prioriza empuje, comodidad de marcha y frenada, aceptando a cambio un patinete voluminoso y pesado cuando toca cargarlo a pulso. Antes de pagarlo en España toca atar dos flecos que la propia ficha deja abiertos: el importe final y la documentación para circular con tranquilidad.",
     fuenteNombre: "iSinwheel (Amazon)",
     fuenteUrl: "https://www.amazon.com/dp/B0D8TJG2Z4/ref=as_li_ss_tl",
     mantenimientoDIY: {
@@ -805,21 +805,21 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm", "pesoKg", "precioEur", "bateriaWh"],
     pros: [
-      "750 W con batería de ~720 Wh: el más equilibrado de la serie S10",
-      "50 km declarados con 19 kg: buena relación peso/autonomía",
-      "Doble suspensión delantera",
-      "Carga máxima de 120 kg",
-      "App iSinwheel con modos y bloqueo",
+      "Con 750 W nominales arranca con brío y supera repechos urbanos cortos sin quedarse clavado",
+      "Su acumulador de unos 720 Wh promete 50 km oficiales, aunque el uso cotidiano realista se queda cerca de 34 km",
+      "Amortigua delante por partida doble, ayuda tangible al pasar bordillos, adoquines y juntas dilatadas del asfalto",
+      "Detiene el conjunto con sendos discos, uno montado en cada eje, configuración menos frecuente en este segmento",
+      "Soporta hasta 120 kg sobre la plataforma, margen generoso para conductores corpulentos o mochilas bien cargadas"
     ],
     contras: [
-      "Sin PVP oficial en España",
-      "En Europa limitado a 25 km/h",
-      "Tiempo de carga no publicado",
-      "19 kg: manejable pero no ligero",
-      "El S10Max ofrece más potencia por poco más peso",
+      "Carece de tarifa oficial comunicada para España, así que conviene contrastar vendedores antes de soltar el dinero",
+      "En su ficha no consta certificado DGT, verificación imprescindible antes de circular por vías públicas españolas",
+      "Nadie declara cuánto necesita para recargarse por completo, omisión molesta si planeas encadenar jornadas intensas",
+      "Sus 19 kg se dejan notar al subirlo a pulso hasta un tercero sin ascensor",
+      "La punta queda topada a 25 km/h, así que no esperes alegrías fuera del uso urbano tranquilo"
     ],
     veredicto:
-      "El S10 sensato: 750 W, ~720 Wh y 19 kg. Ni el más potente ni el más ligero, pero el más redondo si buscas un iSinwheel para todo.",
+      "Si priorizas recorrer más kilómetros sin arrastrar un mastodonte, este Plus ocupa un hueco muy concreto: empuje serio de 750 W, batería generosa de unos 720 Wh y 19 kg que todavía permiten moverlo a pulso entre trayecto y trayecto.",
     fuenteNombre: "iSinwheel (Amazon)",
     fuenteUrl: "https://www.amazon.com/dp/B0D8TJG2Z4/ref=as_li_ss_tl",
     mantenimientoDIY: {
@@ -931,21 +931,21 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
-      "Doble motor de 2 x 800 W: el Gotrax más potente",
-      "64 km declarados, la mayor autonomía de la marca",
-      "Doble suspensión y doble disco",
-      "2 años de garantía y certificación UL 2272",
-      "Carga máxima de 136 kg",
+      "Propulsión repartida entre ambos bujes, con 800 W por motor y 1600 W en conjunto",
+      "Promete recorrer 64 km por carga, cifra que en la práctica se queda en 43 km",
+      "Chasis con amortiguación delante y detrás junto a discos en las dos ruedas",
+      "Cobertura oficial de dos años y sello de seguridad eléctrica UL 2272",
+      "Soporta conductores de hasta 136 kg sin quedarse corto de empuje"
     ],
     contras: [
-      "En España limitado a 25 km/h en vía pública",
-      "Sin PVP ni distribución oficial en Europa",
-      "Peso y batería en Wh no publicados",
-      "Es un modelo americano: recambios complicados aquí",
-      "Para ciudad europea, potencia desaprovechada",
+      "No puede circular legalmente por vía pública en España: falta certificado DGT y entrega 1600 W",
+      "Comprarlo desde aquí exige importarlo, porque no hay precio en euros ni venta oficial europea",
+      "La ficha oficial omite cuánto pesa y tampoco desglosa la capacidad en Wh",
+      "Al ser una serie pensada para Estados Unidos, conseguir repuestos en España resulta engorroso",
+      "Tanta entrega resulta excesiva para desplazamientos urbanos cotidianos dentro del límite de 25 km/h"
     ],
     veredicto:
-      "El hermano mayor del GX1: 2 x 800 W y 64 km declarados. Una bestia pensada para EE. UU.; en España solo tiene sentido si lo importas sabiendo lo que haces.",
+      "Queda un peldaño por encima del GX1 gracias a su doble propulsión y a su mayor alcance teórico. Es un aparato de enfoque norteamericano que, importado a España, solo compensa para quien asume sus límites legales y logísticos.",
     fuenteNombre: "Gotrax (web oficial)",
     fuenteUrl: "https://gotrax.com/collections/best-sellers",
     mantenimientoDIY: {

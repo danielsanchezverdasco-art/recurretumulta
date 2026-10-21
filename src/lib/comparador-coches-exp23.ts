@@ -3709,16 +3709,16 @@ export const COCHES_EXP23: CocheComparador[] = [
     emisionesCo2: 0,
     aprox: ["pesoKg"],
     pros: [
-      "340 CV con tracción total: la furgo eléctrica más divertida",
-      "1.121 litros de maletero y hasta 7 plazas",
-      "Carga rápida de 185 kW: del 10 al 80 % en 25 minutos",
-      "Diseño retro que no pasa desapercibido",
+      "Recupera el espíritu de la Bulli clásica y lo cruza con dos motores y tracción total: 340 CV para mover una furgo familiar sin sensación de lentitud",
+      "Detrás de las cinco plazas quedan 1.121 litros útiles, una cifra que ni un Kia EV9 ni un Mercedes-Benz EQV igualan con un formato tan cúbico y aprovechable",
+      "Su batería de 79 kWh admite picos de 185 kW en corriente continua, así que las paradas en ruta se acortan frente a monovolúmenes eléctricos más conservadores al cargar",
+      "Firma 6,1 segundos en el cero a cien pese a su tamaño, y envuelve esas prestaciones en una silueta bicolor inconfundible que homenajea a la Transporter original"
     ],
     contras: [
-      "Desde 77.730 €: precio de SUV premium",
-      "2.652 kg de peso",
-      "160 km/h de velocidad máxima",
-      "20,8 kWh/100 km de consumo: la autonomía real baja en autopista",
+      "La factura arranca en 77.730 euros, por encima de lo que pide un Maxus Mifa 9 y en plena zona de SUV eléctricos premium, así que el sobreprecio del apellido GTX se paga casi como un capricho",
+      "Pesa 2.652 kilos y mide 1.985 milímetros de ancho por 1.927 de alto: entrar en parkings antiguos o callejear por centros estrechos exige mucha más atención que en un turismo",
+      "Con 20,8 kWh a los cien y 421 kilómetros homologados, un viaje largo a ritmo sostenido recorta el alcance con rapidez y obliga a planificar la recarga con margen",
+      "La punta está limitada a 160 km/h y esta configuración se queda en cinco plazas, dos límites que pesan si se esperaba un devorakilómetros familiar sin compromisos"
     ],
     imagen: "/media/volkswagen-id-buzz-gtx-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/volkswagen-id-buzz-gtx-2026-precio-ficha-tecnica-oficial.webp",

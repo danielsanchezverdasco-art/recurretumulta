@@ -719,18 +719,18 @@ export const COCHES_FIAT: CocheComparador[] = [
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
     pros: [
-      "136 CV, 344 km WLTP y etiqueta Cero por 38.557 €",
-      "Carga rápida de 100 kW: del 10 al 80 % en 30 minutos",
-      "597 L de maletero y 5 plazas: la familiar eléctrica práctica",
-      "Acceso libre a ZBE y aparcamiento bonificado",
-      "Coste por kilómetro imbatible si se carga en casa",
+      "Entre las furgonetas hermanas nacidas en Stellantis, esta defiende el escudo Fiat y su red profesional, pensada para autónomos que viven del vehículo",
+      "Sus 136 CV llegan con 270 Nm inmediatos: arranca con brío en semáforos, rotondas y rampas de garaje sin tocar una palanca de cambios",
+      "La batería de 50 kWh firma 344 km WLTP, colchón suficiente para cerrar la jornada de reparto o de recados sin buscar un cargador a mediodía",
+      "Admitiendo 100 kW en corriente continua, media hora de parada le basta para volver al 80 %, un café mientras se reorganiza la ruta siguiente",
+      "Detrás quedan 597 litros para bultos y cinco asientos utilizables a diario, combinación que sirve igual para llevar material entre semana que niños el sábado"
     ],
     contras: [
-      "14.000 € más que el Doblò diésel equivalente",
-      "344 km teóricos: en autopista real, unos 220-250 km",
-      "Velocidad máxima limitada a 130 km/h",
-      "Peso y aerodinámica de furgoneta: el consumo se dispara a 120 km/h",
-      "El E-Ulysse, por más dinero, da 8 plazas y más autonomía",
+      "Partir de 38.557 euros la deja lejos de cualquier Doblò de combustión: la cuenta solo sale con muchos kilómetros urbanos y enchufe propio en casa o en la nave",
+      "En autovía su carrocería alta, con 1.844 mm de techo, penaliza el gasto energético y esos 344 km homologados se encogen enseguida si se viaja cargado y a ritmo sostenido",
+      "La velocidad punta recortada a 130 km/h y los 11,2 segundos hasta cien delatan su vocación tranquila: no está pensada para devorar tiradas largas por autopista",
+      "Compartir órganos mecánicos con Berlingo, Rifter y Combo le resta argumentos propios: si una de sus gemelas aparece más barata cerca de ti, esta pierde buena parte de su gracia",
+      "Sus cinco plazas y un habitáculo de planteamiento laboral, con mandos y acabados de herramienta de trabajo, quedan por detrás de un monovolumen familiar al viajar lejos"
     ],
     largoMm: 4403,
     anchoMm: 1848,
@@ -778,6 +778,27 @@ export const COCHES_FIAT: CocheComparador[] = [
     ],
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/fiat/doblo/informacion?amp=1",
+  
+    planMantenimiento: {
+      "intervalo": "Primera revisión a los 20.000 km o 1 año; después, servicios programados cada 40.000 km o 2 años (40.000, 80.000, 120.000 km...), según la tabla de la versión eléctrica del manual del propietario del Doblò 2023/2024",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión inicial: 20.000 km o 1 año",
+          "queSeCambia": "Sin sustituciones mayores programadas: lectura de memorias de autodiagnóstico, comprobación de los sistemas del vehículo y de la batería de alta tensión, eficacia del aire acondicionado, limpieza de las guías inferiores de las puertas correderas, estado de cables y toma de carga, sustitución del filtro del habitáculo y reinicio del indicador de servicio"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión de los 40.000 km o 2 años",
+          "queSeCambia": "Mismas comprobaciones de diagnóstico, batería de alta tensión, cables y toma de carga y guías de puertas correderas; sustitución del filtro del habitáculo y cambio del líquido de frenos, que el manual fija cada 2 años"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisiones de los 80.000 km o 4 años y siguientes",
+          "queSeCambia": "Se repite el plan cada 40.000 km o 2 años: diagnóstico completo, revisión del sistema de alta tensión y de la toma de carga, filtro del habitáculo nuevo y líquido de frenos cada 2 años"
+        }
+      ]
+    },
   },
   {
     id: "fiat-e-ulysse-2024-precio-ficha-tecnica",

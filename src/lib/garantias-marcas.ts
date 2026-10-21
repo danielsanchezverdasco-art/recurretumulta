@@ -60,7 +60,7 @@ export const GARANTIAS_MARCAS: GarantiaMarca[] = [
   { marca: "Dualtron", categoria: "patinetes", anios: 3, km: null, nota: "Distribuidor oficial Dualtron España (Taller del Patinete): 3 años; batería y componentes de desgaste 1 año", fuente: "https://tallerdelpatinete.es/producto/dualtron-togo/" },
   { marca: "E-Twow", categoria: "patinetes", anios: 2, km: null, nota: "Distribuidor oficial E-TWOW en España (etwow.net/es): garantía de 2 años", fuente: "https://www.nomas900.org/distribuidor-oficial-en-espana-de-e-twow-patinetes-electricos-220649" },
   { marca: "Egret", categoria: "patinetes", anios: 3, km: null, nota: "3 años de garantía para el Audi electric kick scooter by Egret vendido a través de la red oficial Audi (prensa Audi España)", fuente: "http://prensa.audi.es/2023/01/18/audi-electric-kick-scooter-by-egret-estilo-y-deportividad-para-los-desplazamientos-urbanos/" },
-  { marca: "Gotrax", categoria: "patinetes", anios: 2, km: null, nota: "Política oficial de Gotrax: 2 años para patinetes de adulto pagados por 499 $ o más, tramo en el que entra el GX3, contra defectos de materiales y fabricación; piezas de desgaste con ventana de 90 días y sin límite de km indicado. Sin distribución oficial en Europa, la reclamación se canaliza por el soporte de la marca en EE. UU.", fuente: "https://gotrax.com/pages/warranty-policy" },,,
+  { marca: "Gotrax", categoria: "patinetes", anios: 2, km: null, nota: "Garantía limitada oficial GOTRAX de 2 años para patinetes eléctricos de adulto pagados a 499 dólares o más, tramo en el que encaja el GX2; cubre defectos de materiales y fabricación en chasis, motor y batería durante todo el periodo, con piezas de desgaste cubiertas solo 90 días y neumáticos, cámaras y pastillas de freno excluidos. La duración depende del precio realmente pagado, no del PVP.", fuente: "https://gotrax.com/pages/warranty-policy" },,,,
   { marca: "Hiboy", categoria: "patinetes", anios: null, km: null, nota: "sin datos oficiales", fuente: null },
   { marca: "Inmotion", categoria: "patinetes", anios: 2, km: null, nota: "Manual oficial de INMOTION IBERIA (Robotic Dreams S.L.): 2 años de garantía desde la compra", fuente: "https://www.manualslib.es/manual/81220/Inmotion-P1F.html (manual oficial INMOTION IBERIA)" },
   { marca: "Inokim", categoria: "patinetes", anios: null, km: null, nota: "sin datos oficiales", fuente: null },
@@ -96,7 +96,7 @@ export const GARANTIAS_MARCAS: GarantiaMarca[] = [
   { marca: "BMW", categoria: "coches", anios: 3, km: null, nota: null, fuente: "https://sportsweek.org/es/auto-racing/news/407330139/" },
   { marca: "BYD", categoria: "coches", anios: 6, km: 150000, nota: "batería Blade 8 años/250.000 km; motor 8 años/150.000 km", fuente: "https://www.byd.com/es-es" },
   { marca: "Changan", categoria: "coches", anios: 7, km: 160000, nota: "batería 8 años/200.000 km", fuente: "https://motor.flexicar.es/actualidad/changan/" },
-  { marca: "Chery", categoria: "coches", anios: null, km: null, nota: "sin datos oficiales", fuente: null },
+  { marca: "Chery", categoria: "coches", anios: 7, km: 150000, nota: "Referencia del grupo Chery en España a través de OMODA & JAECOO, sus marcas comercializadas aquí: garantía comercial de 7 años o 150.000 km. El Fulwin T9 no se vende oficialmente en España, por lo que esta cobertura no está confirmada para una unidad importada de China.", fuente: "https://www.omodajaecoo.es/comprar/promociones/jaecoo-7" },,,,
   { marca: "Citroën", categoria: "coches", anios: 10, km: 200000, nota: "3 años de base + hasta 10 años/200.000 km con mantenimientos en red oficial", fuente: "https://sportsweek.org/es/auto-racing/news/407330139/" },
   { marca: "Cupra", categoria: "coches", anios: 3, km: null, nota: null, fuente: "https://sportsweek.org/es/auto-racing/news/407330139/" },
   { marca: "Dacia", categoria: "coches", anios: 7, km: 150000, nota: "3 años de base + hasta 7 años/150.000 km con mantenimientos en red oficial", fuente: "https://sportsweek.org/es/auto-racing/news/407330139/" },
@@ -178,7 +178,7 @@ export const GARANTIAS_MARCAS: GarantiaMarca[] = [
   { marca: "Wey", categoria: "coches", anios: 7, km: 150000, nota: null, fuente: "https://www.hibridosyelectricos.com/coches/hasta-7-anos-garantia-servicio-postventa-calidad-gwm-llega-espana-con-deberes-hechos-antes-entregar-primer-coche_88393_102.html" },
   { marca: "Wiesmann", categoria: "coches", anios: null, km: null, nota: "sin datos oficiales", fuente: null },
   { marca: "Wuling", categoria: "coches", anios: null, km: null, nota: "sin datos oficiales", fuente: null },
-  { marca: "Xiaomi", categoria: "coches", anios: null, km: null, nota: "sin venta oficial en España; la prensa apunta a 8 años/160.000 km solo para batería y tren motriz", fuente: "https://tecnobits.com/vender-coches-de-xiaomi-en-espana/" },
+  { marca: "Xiaomi", categoria: "coches", anios: 8, km: 160000, nota: "Cobertura anunciada por Xiaomi para el sistema eléctrico y el extensor de autonomía Kunlun: 8 años o 160.000 km, lo primero que se alcance. Coincide con los campos garantiaBateriaAnos y garantiaBateriaKm del objeto (8 y 160.000, con degradación del 70 %). No es una garantía general confirmada para España: el modelo se vende por ahora solo en China.", fuente: "https://carnewschina.com/2026/07/28/xiaomi-unveils-skynomad-kunlun-erev-specs-92-octane-gas-and-5-7l-fuel-economy-ahead-of-july-30-debut/" },,
   { marca: "Xpeng", categoria: "coches", anios: 5, km: 120000, nota: null, fuente: "https://sportsweek.org/es/auto-racing/news/407330139/" },
   { marca: "Yangwang", categoria: "coches", anios: null, km: null, nota: "sin datos oficiales", fuente: null },
   { marca: "Zeekr", categoria: "coches", anios: 10, km: 120000, nota: "5+5 años con mantenimientos en red oficial", fuente: "https://coches-electricos.org/opiniones/zeekr-7x-precio-caracteristicas-y-opiniones/" },
@@ -297,6 +297,7 @@ export const GARANTIAS_MARCAS: GarantiaMarca[] = [
   { marca: "Wottan", categoria: "motos", anios: null, km: null, nota: "sin datos oficiales", fuente: null },
   { marca: "Zeeho", categoria: "motos", anios: null, km: null, nota: "sin datos oficiales", fuente: null },
   { marca: "Zontes", categoria: "motos", anios: 5, km: null, nota: "5 años de garantía oficial (3 años en algunos modelos, según la red oficial Zontes España)", fuente: "https://zontescentromadrid.es/motos/zontes/703r" },
+  { marca: "MINI", categoria: "coches", anios: 3, km: null, nota: "Garantía legal de 3 años desde la entrega y garantía comercial de reparación MINI de 36 meses sin limitación de kilómetros. Aparte, la batería de alto voltaje tiene garantía comercial de 8 años o 160.000 km si su capacidad cae por debajo del 70 %.", fuente: "https://www.mini.es/content/dam/MINI/marketDSM_ES/mini_es/Services/condiciones-garantia-mini.pdf.asset.1744032423890.pdf" },
 ];
 
 export function garantiaDeMarca(marca: string, categoria: GarantiaMarca["categoria"]): GarantiaMarca | undefined {
