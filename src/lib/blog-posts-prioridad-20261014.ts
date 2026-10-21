@@ -8142,6 +8142,32 @@ Mantenimiento orientativo (modelo similar Eva, misma marca): revisiones a 1.000 
 
 Vehículo 2 años; batería 3 años / 50.000 km (Energica UK / Bikes4Sale).
 
+## De suministrar el Mundial de MotoE a venderte su deportiva
+
+Energica se ganó el respeto del paddock suministrando las motos del Mundial de MotoE durante sus primeras temporadas: todas las unidades de la parrilla salían de su fábrica de Módena. La Ego+ es la traducción de calle de aquel laboratorio: una deportiva eléctrica sin concesiones a la nostalgia del escape, pensada para quien quiere aceleración de superbike y acepta la logística de la carga. Su ficha completa está en <a href=/motos/energica-ego-plus-2025-ficha-tecnica-precio/>la ficha de la Ego+</a>, junto a hermanas como la <a href=/motos/energica-eva-ribelle-2025-ficha-tecnica-precio/>Eva Ribelle</a>.
+
+## 171 CV y 215 Nm sin una sola gota de gasolina
+
+| Dato | Ego+ 2025 | Qué implica |
+|---|---|---|
+| Potencia | 126 kW (171 CV) | Territorio superbike, carnet A |
+| Par | 215 Nm | Empuje instantáneo desde parado |
+| Batería | Hasta 21,5 kWh | La opción grande de la casa |
+| Peso | 270 kg | Masa seria en maniobras lentas |
+| Asiento | 810 mm | Postura deportiva clásica |
+
+El par eléctrico llega sin esperar a que el motor «suba de vueltas»: abres gas y la moto ya está empujando con todo. Esa inmediatez obliga a gestionar la entrega con los modos y la electrónica, porque 215 Nm sobre una sola rueda trasera no admiten manos descuidadas saliendo de una rotonda mojada.
+
+## Cargar una deportiva: 40 minutos que cambian el plan de ruta
+
+Su carga rápida en corriente continua promete pasar del 20 al 80 % en unos 40 minutos según el fabricante, y la autonomía combinada declarada es de 246 km, con hasta 420 km en uso urbano a ritmo suave. En autopista, como en cualquier eléctrica, la cifra se acorta con el ritmo. Viajar con ella es viable en rutas medias si se planifican paradas de carga rápida; enlazar jornadas largas de autopista sigue siendo su escenario menos favorable frente a una deportiva de gasolina con red de surtidores infinita.
+
+## Mantenimiento y garantía, con la letra pequeña
+
+Sin aceite, sin embrague y sin distribución, el mantenimiento se concentra en frenos, neumáticos, cadena y revisiones del sistema eléctrico; el plan orientativo que recoge la ficha, tomado del modelo similar Eva de la misma marca, habla de revisiones a los 1.000, 10.000 y 20.000 km. La garantía declarada es de 2 años para el vehículo y 3 años o 50.000 km para la batería. Y el precio exige una advertencia honesta: los **29.140 £ son tarifa aproximada no oficial del mercado británico** para la Ego+ RS; no existe PVP publicado para España y la red de la marca en Europa es reducida.
+
+**Veredicto:** merece la pena para el entusiasta que quiere la deportiva eléctrica de referencia y puede convivir con su precio premium y su red pequeña; no es la tuya si buscas practicidad diaria o el respaldo de una marca generalista, terreno donde la <a href=/motos/energica-experia-2025-ficha-tecnica-precio/>Energica Experia</a> apunta a otro uso. Y si la espera de la carga se te hace larga, nuestro <a href=/juego-monos/>juego caza-monos</a> carga al instante.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto tarda en cargar la Energica Ego+ 2025?
@@ -8173,7 +8199,9 @@ Mantenimiento orientativo (modelo similar Eva, misma marca): revisiones a 1.000 
 - <a href=/motos/energica-eva-ribelle-2024-ficha-tecnica-precio>Energica Eva Ribelle 2024</a>
 
 - <a href=/analizador/>Analizador de multas</a> — Antes de recurrir, analiza tu multa.
-`,
+
+
+*Fuentes: <a href=https://www.energicamotor.com>web oficial de Energica Motor Company</a>.*`,
   },
   {
     slug: "energica-eva-esseesse9-plus-2025-precio-ficha-tecnica",

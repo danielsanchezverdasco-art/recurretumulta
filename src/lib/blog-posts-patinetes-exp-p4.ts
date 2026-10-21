@@ -165,6 +165,27 @@ Sin certificado DGT verificado. Con ~25-27 km/h de punta, debe limitarse a **25 
 
 <img src=/media/patinetes/bogist-m3-pro-3.webp alt=Bogist M3 Pro en una calle urbana>
 
+## 270 Wh explicados con una simple división
+
+La batería del M3 Pro guarda **270 Wh**. Si divides esa energía entre los 25 km declarados salen unos 10,8 Wh por kilómetro, un ritmo de laboratorio: conductor ligero, llano absoluto y velocidad constante. La prueba real que citamos midió unos **17 km**, es decir, un consumo cercano a 15,9 Wh/km con tráfico, arranques y un conductor de verdad. No es una estafa del fabricante; es la diferencia estándar entre el ensayo amable y la calle. Con esos 17 km útiles, su territorio natural son los desplazamientos de menos de 10 km por trayecto con carga en destino o al volver.
+
+| Magnitud | Cifra | Significado |
+|---|---|---|
+| Batería | 36 V · 7,5 Ah (270 Wh) | Energía total disponible |
+| Autonomía declarada | 25 km | Consumo teórico de 10,8 Wh/km |
+| Autonomía real estimada | ≈17 km | Consumo realista de ≈15,9 Wh/km |
+| Motor | 350 W | Suficiente en llano urbano |
+
+## Frenar con el pie: técnica obligada, no opcional
+
+El equipo de frenos es el punto que exige más honestidad: delante actúa un **freno electrónico** —útil para regenerar y recortar velocidad— y detrás solo el clásico freno de pie sobre el guardabarros, de eficacia limitada. Eso significa anticipar cada frenada, guardar más distancia, evitar bajar cuestas largas confiando solo en el pie trasero y extremar la precaución con el suelo mojado, donde las ruedas macizas de 8 pulgadas ya de por sí agarran menos que unas hinchables. No es un patinete para ir con prisas entre coches.
+
+## Ruedas macizas honeycomb y un frontal que se ve
+
+A cambio, las ruedas macizas eliminan el pinchazo para siempre y los amortiguadores visibles en ambos trenes quitan filo a los baches. El frontal con **24 LED** es desproporcionado para su gama y juega a su favor en visibilidad nocturna: en ciudad, ser visto pronto vale tanto como ver. Como VMP debe circular limitado a **25 km/h**, fuera de las aceras y cumpliendo la normativa de la DGT; no consta certificado DGT verificado, detalle a comprobar con el vendedor.
+
+**Veredicto:** merece la pena como patinete de entrada para ciudad llana y trayectos cortos, o como segunda unidad de batalla; no es el tuyo si tus rutas superan los 15 km diarios o incluyen cuestas y lluvia frecuente, caso en el que el <a href=/patinetes/bogist-c1-pro/>Bogist C1 Pro</a> rinde mejor. Datos completos en la <a href=/patinetes/bogist-m3-pro/>ficha del Bogist M3 Pro</a>, y para trayectos aburridos de sofá, nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
 ## Preguntas frecuentes
 
 ### ¿Qué velocidad alcanza el Bogist M3 Pro?
@@ -187,7 +208,7 @@ Como segundo patinete o para ciudad llana, sí. Para uso intensivo, mira el M5 P
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://www.priceboon.com/product/bogist-m3-pro/>prueba del M3 Pro en Priceboon</a>.*`,
+*Fuentes: <a href=https://www.priceboon.com/product/bogist-m3-pro/>prueba del M3 Pro en Priceboon</a>., <a href=https://www.dgt.es>normativa de VMP en la DGT</a>*`,
   },
   {
     slug: "bogist-c1-pro",
@@ -262,6 +283,26 @@ Vídeo: <a href=https://www.youtube.com/watch?v=FHz7DxgRb38>análisis del Bogist
 
 <img src=/media/patinetes/bogist-c1-pro-3.webp alt=Bogist C1 Pro con sillín circulando por carril bici>
 
+## Los tres modos, y cuál puedes usar en la calle
+
+El C1 Pro ofrece modos de **24, 32 y 45 km/h**, pero la normativa española de vehículos de movilidad personal fija el techo legal en **25 km/h**. Traducción práctica: en la vía pública solo cabe circular con el modo que no supere ese límite; las velocidades superiores quedan fuera del marco VMP y, con ellas, el patinete deja de ser un VMP a ojos de la regulación. La DGT exige además que los VMP comercializados cuenten con su certificado de circulación: este modelo **no tiene certificado DGT verificado**, así que antes de comprarlo toca exigir al vendedor la documentación y comprobar que puede limitarse correctamente.
+
+| Modo | Velocidad | Situación legal en España |
+|---|---|---|
+| Modo 1 | 24 km/h | Compatible con el límite VMP de 25 km/h |
+| Modo 2 | 32 km/h | Fuera del límite VMP |
+| Modo 3 | 45 km/h | Fuera del límite VMP |
+
+## Sentado se viaja distinto
+
+El **sillín extraíble** transforma la experiencia más de lo que sugiere la ficha: en trayectos de 8-10 km, ir sentado reduce la fatiga de piernas y espalda y libera una mano de la tensión de ir de pie sobre una plataforma corta. La doble suspensión y las ruedas hinchables de 10 pulgadas acompañan bien ese uso viajero, y la certificación **IP65** permite seguir circulando si se pone a llover sin temer por la electrónica. El precio de tanta comodidad llega al plegarlo: el conjunto con sillín pesa y abulta más, así que quien combine a diario con tren o metro debería valorar un modelo ligero sin asiento.
+
+## Autonomía: del folleto a tu calle
+
+Declara 40 km y nuestra estimación real ronda los **27 km** en uso mixto. La brecha se explica sin conspiraciones: la cifra de laboratorio se obtiene con conductor ligero, ritmo constante y temperatura amable; tu calle suma paradas, cuestas, viento y un modo de velocidad alegre que exprime los **800 W de pico** en cada salida de semáforo.
+
+**Veredicto:** merece la pena si buscas potencia y la opción de ir sentado por menos que las marcas grandes, aceptando limitarlo a 25 km/h y verificar su documentación antes de pagar; no es el tuyo si necesitas un VMP certificado sin trámites ni un peso pluma para el tren. Revisa la <a href=/patinetes/bogist-c1-pro/>ficha del Bogist C1 Pro</a> junto al <a href=/patinetes/bogist-m5-pro/>Bogist M5 Pro</a>, y mientras decides, una vuelta por el <a href=/juego-monos/>juego caza-monos</a> no requiere certificado alguno.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto corre el Bogist C1 Pro?
@@ -284,7 +325,7 @@ El C1 Pro es más potente y ligero; el M5 Pro tiene más batería y cesta. Depen
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://karrotmarket.com/ca/buy-sell/s59bshgcnzq4/>ficha del C1 Pro en Karrot</a> y <a href=https://www.youtube.com/watch?v=FHz7DxgRb38>análisis en vídeo</a>.*`,
+*Fuentes: <a href=https://karrotmarket.com/ca/buy-sell/s59bshgcnzq4/>ficha del C1 Pro en Karrot</a> y <a href=https://www.youtube.com/watch?v=FHz7DxgRb38>análisis en vídeo</a>., <a href=https://www.dgt.es>normativa de VMP en la DGT</a>*`,
   },
   {
     slug: "bogist-m5-pro",

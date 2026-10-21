@@ -860,6 +860,28 @@ Revisiones según el plan KTM con intervalos amplios para un monocilíndrico. Co
 
 Su precio aproximado es de <strong>6.399 €</strong>. Compite con la <a href=/motos/triumph-speed-400-2024-ficha-tecnica-precio/>Triumph Speed 400 2024</a>, la <a href=/motos/yamaha-mt-03-2025-ficha-tecnica-precio/>Yamaha MT-03 2025</a> y la <a href=/motos/kawasaki-z500-2025-ficha-tecnica-precio/>Kawasaki Z500 2025</a>. La KTM gana en electrónica y parte ciclo; la Triumph, en suavidad y precio.
 
+## El punto dulce del carnet A2
+
+El reglamento del A2 admite hasta 35 kW (47 CV) sin limitación previa. La 390 Duke entrega **33 kW (45 CV)** de serie, es decir, roza el techo legal sin necesidad de kits ni deslimitaciones futuras: lo que compras es lo que conduces desde el primer día. Sumando sus **165 kg**, la relación peso-potencia queda entre las mejores del segmento, y eso se traduce en una moto que perdona poco en prestaciones pero mucho en maniobra para quien sube de una 125.
+
+| Dato | 390 Duke 2025 | Lectura práctica |
+|---|---|---|
+| Potencia | 45 CV (33 kW) | Casi el máximo legal del A2 |
+| Par | 39 Nm a 7.000 rpm | Empuje utilizable sin estirar marchas |
+| Peso | 165 kg | Cambios de dirección rapidísimos |
+| Asiento | 820 mm | Accesible para la mayoría de tallas |
+| Consumo real | 3,4-3,8 l/100 km | Depósito que rinde como el de una grande |
+
+## Tres modos y un launch control en una «moto pequeña»
+
+El modo Rain suaviza la entrega para asfalto frío o mojado; Street es el equilibrio diario; Track afila la respuesta y deja jugar al control de tracción. El **launch control** en una naked A2 parece una excentricidad de catálogo, pero resume la filosofía de esta generación: trasladar electrónica de la familia Super Duke a la moto de acceso. La TFT de 5 pulgadas con conectividad completa el paquete: navegación, llamadas y música sin montar soportes externos.
+
+## Costes de propiedad sin sorpresas
+
+El mantenimiento sigue el plan oficial de KTM con intervalos amplios para un monocilíndrico de esta cilindrada, y los consumibles son de moto ligera: el neumático trasero de 150 mm, por ejemplo, cuesta una fracción del de una naked media. La **garantía oficial de 4 años** es otro argumento poco habitual en el segmento. Donde no destaca es en protección aerodinámica —es una naked pura— ni en comodidad para el pasajero en trayectos largos.
+
+**Veredicto:** merece la pena si quieres la A2 naked más completa y divertida del mercado, con electrónica de moto mayor; no es la tuya si priorizas suavidad bicilíndrica o uso intensivo a dúo. Compara la <a href=/motos/ktm-390-duke-2025-ficha-tecnica-precio/>ficha de la 390 Duke</a> con la <a href=/motos/triumph-speed-400-2024-ficha-tecnica-precio/>Triumph Speed 400</a> y la <a href=/motos/yamaha-mt-03-2025-ficha-tecnica-precio/>Yamaha MT-03</a>, y entre moto y moto, descansa la vista en el <a href=/juego-monos/>juego caza-monos</a>.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta la KTM 390 Duke 2025?
@@ -880,7 +902,7 @@ Sí: con 45 CV está dentro del límite sin necesidad de limitación.
 ### ¿Consume mucho?
 No: unos 3,4-3,8 l/100 km en uso real.
 
-*Fuentes:*
+*Fuentes:, <a href=https://www.ktm.com>web oficial de KTM</a>*
 - <a href=https://www.motoplanete.es/ktm/11028/390-Duke-2025/contact.html>Motoplanete — KTM 390 Duke 2025: ficha, precio y opinión</a>
 - <a href=https://www.plusmoto.com/ktm-390-duke-2025-que-cambia-respecto-a-la-anterior-y-a-quien-le-encaja.html>Plusmoto — KTM 390 Duke 2025: qué cambia respecto a la anterior</a>
 
