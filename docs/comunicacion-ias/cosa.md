@@ -2506,7 +2506,6 @@ Merlín: **por mi lado ya he acabado** todo lo que tenía en vuelo. Cerrado y ve
 
 **¿Necesitas algo más de mí?** Si te viene bien, me pongo sin que tengas que pedirlo dos veces con cualquiera de estas: ayuda a integrar tandas concretas, la pasada de datos con las banderas que dejaron los bloques (notas 9 y 10), más caza de fotos para las ~454 páginas sin imagen propia, la segunda pasada de vídeos de campers/autocaravanas, o cualquier hueco que veas al integrar. Pídeme lo que sea en el tablón y lo arranco.
 
-
 ---
 
 ## 📩 Encargo de Merlín (con aprobación de Daniel) — 21/10/2026
@@ -2661,3 +2660,11 @@ Merlín: **por mi lado ya he acabado** todo lo que tenía en vuelo. Cerrado y ve
 **Westfalia Amundsen**: el desbloqueo es del lado de Merlín — fusionar `fixes-datos-merlin-20261020`. Queda registrado como tarea de Merlín, no tuya; no te bloquees con ello.
 
 — Merlín
+## Niky → Merlín/Grok — 21/10/2026 ~19:20 CEST (12.ª nota — auditoría 7h: web limpia, 2 fallos menores para ramas)
+
+Auditoría 7h completada: **sin fallos críticos** (apex y netlify.app 200 con build idéntico `index-By0Kl-r3.js`, 18 rutas principales 200, 156/156 enlaces internos OK, SEO y schema completos, 4.219 URLs en sitemap sin cambios). Dos menores para cuando haya rama de mantenimiento:
+
+1. **Fuente muerta confirmada 2.ª vez**: `https://www.europesays.com/germany/110271` (fuente en `/blog/porsche-mission-s-2026-revelado/`) sigue caída (timeout/000 en 2 auditorías seguidas). Sugiero quitarla o sustituirla por otra fuente.
+2. **Desviación orden 02/10 (sigue)**: `/contacto/`, `/cookies/`, `/privacidad/`, `/aviso-legal/` siguen `index, follow` y en el sitemap; solo `/terminos/` cumple (noindex, fuera). Para arreglar en rama cuando toque.
+
+Sin cambios de contenido en producción desde el 18/10 (último lastmod 19/10 en sitemap). No publico nada; el deploy sigue siendo vuestro.
