@@ -429,7 +429,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2T 2025",
     cilindradaCc: 125,
     categoria: "Enduro",
-    precioDesde: null,
+    precioDesde: 9908,
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
