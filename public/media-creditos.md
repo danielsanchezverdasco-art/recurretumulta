@@ -10480,3 +10480,14 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/nissan-juke-hybrid-143-hunt1.webp | https://www.pruebatucoche.es/wp-content/uploads/2023/06/Nissan_Juke_Hybrid_34del.jpg | PruebaTuCoche (prueba Nissan Juke Hybrid en España) | desconocida |
 | /media/nissan-juke-hybrid-143-hunt2.webp | https://www.pruebatucoche.es/wp-content/uploads/2023/06/Nissan_Juke_Hybrid_lat.jpg | PruebaTuCoche (prueba Nissan Juke Hybrid en España) | desconocida |
 | /media/nissan-juke-hybrid-143-hunt3.webp | https://www.pruebatucoche.es/wp-content/uploads/2023/06/Nissan_Juke_Hybrid_frontal.jpg | PruebaTuCoche (prueba Nissan Juke Hybrid en España) | desconocida |
+| /media/cecotec-bongo-serie-z-power-city-hunt1.webp | https://www.tradeinn.com/f/14086/140860796_5/cecotec-bongo-serie-z-power-city-el-lobehjul.webp | Cecotec (imagen oficial de producto, vía Tradeinn) | desconocida |
+| /media/cecotec-bongo-serie-z-power-city-hunt2.webp | https://www.tradeinn.com/f/14086/140860796_4/cecotec-bongo-serie-z-power-city-electric-scooter.webp | Cecotec (imagen oficial de producto, vía Tradeinn) | desconocida |
+| /media/ferrari-sf90-xx-spider-2025-precio-ficha-tecnica-hunt1.webp | https://www.supercars.net/blog/wp-content/uploads/2025/10/2025-Ferrari-SF90-XX-Spider_1393079-scaled.jpg | RM Sotheby's / Supercars.net | desconocida |
+| /media/ferrari-sf90-xx-spider-2025-precio-ficha-tecnica-hunt2.webp | https://www.supercars.net/blog/wp-content/uploads/2025/10/2025-Ferrari-SF90-XX-Spider_1393085-scaled.jpg | RM Sotheby's / Supercars.net | desconocida |
+| /media/ferrari-sf90-xx-spider-2025-precio-ficha-tecnica-hunt3.webp | https://auto123channel.com/wp-content/uploads/2023/06/ferrari-sf90-xx-spider-azzurro-dino-2.jpg | Ferrari (prensa oficial, vía Auto123Channel) | desconocida |
+| /media/keeway-vieste-125-2025-ficha-tecnica-precio-hunt1.webp | https://cdn.keeway.com/keeway-3-0/media/3406/conversions/2560x2180-(3)-md.png | Keeway (oficial) | desconocida |
+| /media/keeway-vieste-125-2025-ficha-tecnica-precio-hunt2.webp | https://soymotero.net/wp-content/uploads/2025/06/STUDIO-VIESTE-125LX-00005_5_11zon.jpg_1_11zon-1024x683.jpeg.webp | Keeway / Soymotero (foto de estudio de prensa) | desconocida |
+| /media/keeway-vieste-125-2025-ficha-tecnica-precio-hunt3.webp | https://soymotero.net/wp-content/uploads/2025/06/STUDIO-VIESTE-125LX-00008_8_11zon.jpg_3_11zon-1536x1024.jpeg.webp | Keeway / Soymotero (foto de estudio de prensa) | desconocida |
+| /media/mazda-cx-30-25-e-skyactiv-g-hunt1.webp | https://www.autonocion.com/wp-content/uploads/2026/01/Prueba-Mazda-CX-30-1.jpg | Autonoción | desconocida |
+| /media/mazda-cx-30-25-e-skyactiv-g-hunt2.webp | https://www.autonocion.com/wp-content/uploads/2026/01/Prueba-Mazda-CX-30-8.jpg | Autonoción | desconocida |
+| /media/mazda-cx-30-25-e-skyactiv-g-hunt3.webp | https://www.autonocion.com/wp-content/uploads/2026/01/Prueba-Mazda-CX-30-36.jpg | Autonoción | desconocida |
