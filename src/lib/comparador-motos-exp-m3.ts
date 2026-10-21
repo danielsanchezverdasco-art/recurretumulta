@@ -2909,25 +2909,25 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Naked 125 con 15 CV: el máximo del A1",
-      "ABS y control de tracción de serie",
-      "Pantalla TFT de 7 pulgadas",
-      "Precio de 3.595 €, con unidades outlet en 2.895 €",
-      "Equipada como una naked grande",
-      "Muy completa para el día a día",
+      "Agota el techo permitido para circular con el A1, porque sus 15 CV aprovechan todo ese margen legal",
+      "Incorpora de origen antibloqueo en los frenos y un sistema que vigila si la rueda trasera patina",
+      "Su instrumentación recurre a un panel TFT amplio, de siete pulgadas en diagonal",
+      "Tarifa oficial de 3.595 euros y, en campaña outlet, ejemplares rebajados hasta 2.895 euros",
+      "Su dotación recuerda a motos de cilindradas superiores, no a una sencilla utilitaria de acceso",
+      "Pensada para quien entra con el B y tres años de antigüedad, sirve igual entre semana que el domingo"
     ],
     contras: [
-      "3.595 €: cara frente a otras naked 125",
-      "El control de tracción es básico",
-      "Sin modos de conducción",
-      "El peso penaliza las prestaciones",
-      "La reventa es floja",
+      "Esos 3.595 euros la dejan por encima de bastantes rivales directas dentro de las naked de 125",
+      "La ayuda electrónica que evita que patine actúa de forma sencilla, sin ajustes finos para el conductor",
+      "No encontrarás perfiles seleccionables que cambien la respuesta del motor según el uso que le des",
+      "Se nota pesada en relación con su potencia, y las aceleraciones acaban acusándolo",
+      "Al cambiar de manos en el mercado usado, cuesta defender lo pagado por ella cuando era nueva"
     ],
     curiosidades: [
-      "La NK 125 es la naked tecnológica de Mitt",
-      "Su TFT de 7 pulgadas es de las mayores del segmento",
-      "Mitt la vende con outlet en 2.895 €",
-      "El TCS es raro en una 125 de este precio",
+      "Mitt, firma española que comercializa motos de origen asiático, la colocó como su propuesta con marchas más tecnológica para noveles",
+      "Entre las 125 con cambio, pocas instrumentaciones alcanzan una diagonal tan generosa como la de su panel",
+      "La propia marca llegó a listarla en su outlet por 2.895 euros, por debajo de su tarifa habitual",
+      "Resulta llamativo encontrar control de tracción en una moto de acceso pensada para el carnet A1"
     ],
     imagen: "/media/motos/mitt-nk-125-2025-ficha-tecnica-precio-1.webp",
     galeria: [

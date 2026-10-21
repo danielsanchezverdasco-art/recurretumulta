@@ -1351,21 +1351,21 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
     pros: [
-      "56 CV por menos de 5.000 €",
-      "Marzocchi multirregulables",
-      "Control de tracción de serie",
-      "TFT con mirroring",
-      "6 años de garantía + seguro gratis",
+      "Con 56 CV aptos para el carnet A2 y una tarifa de 4.999 euros, se sitúa entre las naked más baratas de su nivel de potencia.",
+      "La suspensión delantera lleva firma Marzocchi y admite múltiples regulaciones, un componente de primer orden muy poco frecuente con este presupuesto.",
+      "Incorpora de serie ayuda electrónica para evitar pérdidas de tracción, un respaldo agradecido en mojado y en el uso diario.",
+      "El cuadro digital puede enlazarse con el teléfono y replicar su contenido, solución práctica para seguir indicaciones sin accesorios adicionales.",
+      "La cobertura oficial se prolonga durante seis años e incluye además doce meses de seguro sin desembolso extra al formalizar la compra."
     ],
     contras: [
-      "190 kg en orden de marcha",
-      "Versión full solo para carnet A",
-      "Consumo no declarado",
+      "Sobre la báscula anuncia 190 kilos lista para rodar, un peso notable si priorizas la máxima agilidad en recorridos urbanos.",
+      "Para disfrutar la variante sin limitación hace falta el permiso A, porque la configuración destinada al A2 llega capada de origen.",
+      "Todavía no se ha publicado una cifra homologada de gasto de combustible, así que la autonomía real tocará comprobarla depósito a depósito."
     ],
     curiosidades: [
-      "QJMotor es del grupo Geely (Volvo, Lotus): su red y garantía son de las más serias entre las chinas.",
-      "Se vende con 6 años de garantía y el primer año de seguro gratis incluidos en el precio.",
-      "La pantalla TFT de 5\\\" con función mirroring es única en su rango de precio.",
+      "Su fabricante ejerce de casa matriz de Benelli y pertenece a Geely, conglomerado que controla además Volvo y Lotus, un respaldo poco común entre las marcas de origen chino.",
+      "El importe anunciado ya contempla media docena de años de respaldo oficial y los primeros doce meses de póliza sin coste adicional para quien la estrena.",
+      "Su instrumentación digital de cinco pulgadas puede duplicar lo que muestra el móvil, prestación que ningún rival directo ofrece por un precio parecido."
     ],
     imagen: "/media/qjmotor-srk-600-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -1983,25 +1983,25 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
     pros: [
-      "14,5 CV: casi el máximo legal del A1",
-      "Depósito de 15 L: gran autonomía",
-      "Naked con buena presencia",
-      "Cuadro digital y faro LED",
-      "Por 3.790 €, 125 muy completa",
-      "Cómoda para el día a día",
+      "El propulsor bicilíndrico en V marca diferencias en sonido y carácter frente a los monocilíndricos habituales en esta cilindrada",
+      "Sus 14,5 CV dejan muy poco margen hasta el límite que marca la normativa para el carnet A1",
+      "Con 15 litros de capacidad en el depósito, esta Keeway permite olvidarse de la gasolinera durante bastantes trayectos",
+      "También puedes pilotarla apoyándote en el permiso B, siempre que ya sumes tres años con ese carnet",
+      "La estética tipo bobber, baja y con mucha presencia, la distingue al instante de scooters y naked de 125",
+      "Entre su instrumentación digital y su faro con tecnología LED, el equipamiento transmite una sensación bastante actual"
     ],
     contras: [
-      "3.790 €: cara frente a otras 125 chinas",
-      "El peso penaliza las prestaciones",
-      "Sin electrónica avanzada",
-      "La reventa es floja",
-      "Acabados mejorables en detalles",
+      "El desembolso inicial se sitúa por encima de lo que piden varias rivales asiáticas de idéntica cilindrada",
+      "No es una moto ligera en su categoría y esa contundencia se nota cuando buscas agilidad en ciudad",
+      "Quien espere ayudas electrónicas sofisticadas encontrará una propuesta sencilla, pensada más en lo esencial que en la tecnología",
+      "Al venderla de segunda mano probablemente recuperes menos porcentaje que con marcas japonesas más asentadas",
+      "En zonas concretas como mandos o remates cromados, la percepción de calidad queda por detrás de su aspecto general"
     ],
     curiosidades: [
-      "La RKV 125C es la naked grande de Keeway en 125",
-      "Su depósito de 15 L es de los mayores del segmento",
-      "La C de su nombre indica la versión clásica",
-      "Keeway la vende como moto polivalente A1",
+      "La letra final del apellido no es decorativa: señala su orientación clásica dentro de la familia RKV",
+      "Keeway pertenece al universo del grupo QJMotor, un gigante chino que sostiene buena parte de su catálogo europeo",
+      "Pocas 125 de estilo custom montan una arquitectura en V; ahí reside buena parte de su personalidad mecánica",
+      "Aunque su imagen mira al ocio del fin de semana, su homologación para dos ocupantes y su etiqueta C la hacen usable a diario"
     ],
     imagen: "/media/keeway-rkv-125c-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -2866,25 +2866,25 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
     pros: [
-      "Naked 125 con 15 CV: el máximo del A1",
-      "ABS y control de tracción de serie",
-      "Pantalla TFT de 7 pulgadas",
-      "Precio de 3.595 €, con unidades outlet en 2.895 €",
-      "Equipada como una naked grande",
-      "Muy completa para el día a día",
+      "Con el B y tres años de antigüedad ya puedes llevarla, sin sacarte otro carnet",
+      "Exprime hasta el último caballo permitido en el A1: sus 15 CV dan juego en ciudad y en vías rápidas",
+      "El dúo de ABS y control de tracción aporta un colchón extra si el asfalto está sucio o mojado",
+      "El cuadro TFT de 7 pulgadas concentra la información a la vista, con una pantalla impropia de una 125 de acceso",
+      "Si cazas una unidad de outlet por 2.895 €, la factura de compra baja mucho frente a los 3.595 € de tarifa",
+      "Trae de fábrica una dotación que normalmente obliga a subir de cilindrada o a pagar extras"
     ],
     contras: [
-      "3.595 €: cara frente a otras naked 125",
-      "El control de tracción es básico",
-      "Sin modos de conducción",
-      "El peso penaliza las prestaciones",
-      "La reventa es floja",
+      "A precio de tarifa queda por encima de rivales naked de 125 mucho más baratas",
+      "El control de tracción cumple, pero no esperes una electrónica refinada ni ajustable a tu gusto",
+      "No hay mapas de motor entre los que elegir según el trayecto o tu experiencia",
+      "No es precisamente una pluma para su cilindrada, y eso se nota al exprimirla en aceleración",
+      "Al venderla de segunda mano, una marca poco extendida suele pagarse peor que las más conocidas"
     ],
     curiosidades: [
-      "La NK 125 es la naked tecnológica de Mitt",
-      "Su TFT de 7 pulgadas es de las mayores del segmento",
-      "Mitt la vende con outlet en 2.895 €",
-      "El TCS es raro en una 125 de este precio",
+      "En el escaparate de Mitt, esta es la 125 que pone la tecnología por delante del resto de argumentos",
+      "Siete pulgadas de pantalla suenan a moto grande: en una naked pequeña, ese tamaño llama la atención al sentarte",
+      "La misma moto convive con dos precios: tarifa completa y una vía outlet bastante más asequible",
+      "Ver un control de tracción en una 125 pensada para empezar sigue siendo una rareza en España"
     ],
     imagen: "/media/mitt-nk-125-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -3942,24 +3942,24 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: ["costeAnualAproxEur"],
     pros: [
-      "Autonomía de referencia: 262 km declarados, la mayor entre las eléctricas de carnet A1/B",
-      "Prestaciones de moto grande: 132 Nm de par y 139 km/h de punta",
-      "Electrónica Bosch MSC con ABS y control de tracción (ABS en curva opcional)",
-      "App con modos de conducción personalizables, diagnóstico remoto y actualizaciones",
-      "Red de concesionarios en fuerte crecimiento (+58 % en 2025, más de 250 puntos en todo el mundo)",
+      "Con 262 km homologados como autonomía declarada, se coloca por delante en distancia por carga dentro de su categoría con permiso A1",
+      "Empuja como una naked de mayor cilindrada gracias a sus 132 Nm inmediatos, con techo de velocidad situado en 139 km/h",
+      "El paquete de ayudas firmado por Bosch aporta estabilidad en frenada y al abrir gas, con función adicional para apoyos inclinados como extra",
+      "Desde el móvil puedes ajustar cómo responde, revisar su estado a distancia y mantener el software al día",
+      "La marca sigue sumando distribuidores: durante 2025 la red subió un 58 % y ya supera los 250 en el planeta"
     ],
     contras: [
-      "Precio: 18.295€, muy por encima de cualquier 125 de gasolina",
-      "Carga lenta de serie (~10 h); la carga rápida es un accesorio caro",
-      "Peso elevado: 223 kg en orden de marcha",
-      "La autonomía real en autopista cae muy por debajo de la declarada",
-      "Coste elevado de reposición de la batería fuera de garantía",
+      "Cuesta 18.295 euros, una tarifa que deja muy atrás a las opciones de gasolina equivalentes a una 125",
+      "Si usas el cargador incluido tardarás unas nueve o diez horas; acortar ese tiempo exige pagar el sistema rápido aparte",
+      "Sobre la báscula marca 223 kilos, cifra alta cuando toca maniobrar en parado o en garajes estrechos",
+      "En vías rápidas el alcance práctico se reduce bastante respecto a los 262 km anunciados por la firma",
+      "Cambiar el pack energético una vez vencida su cobertura supondría un desembolso importante para el propietario"
     ],
     curiosidades: [
-      "Zero anunció carga rápida en corriente continua (CCS) para 2027, retrocompatible con las S y DS fabricadas desde 2022",
-      "En 2025 Zero creció un 89 % en ventas en Norteamérica y un 17 % en Europa y resto del mundo",
-      "Es la naked eléctrica más potente que se puede conducir con el carnet B convalidado",
-      "La batería tiene 5 años de garantía sin límite de kilometraje",
+      "Para 2027 está prevista la llegada de recarga continua mediante CCS, aplicable también a unidades S y DS producidas a partir de 2022",
+      "El ejercicio 2025 dejó subidas comerciales desiguales: Norteamérica avanzó un 89 %, mientras Europa y los demás mercados sumaron un 17 %",
+      "Entre las naked sin emisiones aptas para quien convalida el permiso B, ninguna ofrece un nivel de potencia superior en este formato",
+      "El acumulador de 15,6 kWh está respaldado durante cinco años sin tope de kilómetros recorridos"
     ],
     imagen: "/media/zero-s-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -3997,6 +3997,23 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       ],
       costeAnualAproxEur: 110,
       fuente: "Manual oficial Zero Motorcycles España",
+    },
+  
+    mantenimientoDIY: {
+      "aceiteTipo": "No aplica: motor eléctrico sin aceite de motor ni filtro de aceite que sustituir; tampoco lleva cadena que engrasar, la transmisión final es por correa",
+      "cadenaPasos": [
+        "Con la moto apagada y en frío, observa la correa por ambos lados buscando cortes, deshilachados, dientes dañados o suciedad acumulada",
+        "Retira polvo y restos con un paño seco o aire suave; mantén correa y piñones alejados de grasas, aceites y disolventes",
+        "Comprueba la tensión siguiendo el manual de Zero, por ejemplo con la aplicación Gates Carbon Drive citada en su documentación, y deja el ajuste fino al taller si sale de rango",
+        "Mira el grosor visible de las pastillas y el nivel del líquido de frenos por la mirilla, sin abrir el circuito hidráulico",
+        "Revisa presiones y dibujo de los neumáticos, tornillería accesible a simple vista y funcionamiento de luces antes de salir"
+      ],
+      "intervaloMantenimiento": "Inspección oficial cada 24 meses o 10.000 km según el plan recogido en la ficha con fuente en el manual oficial Zero; entre visitas, control visual frecuente en casa de correa, frenos y neumáticos, sin tocar el sistema de alta tensión",
+      "trucos": [
+        "Evita guardarla largos periodos con la batería muy baja y sigue las indicaciones del manual sobre estado de carga durante el almacenamiento",
+        "Carga habitualmente en enchufe doméstico y reserva la recarga rápida opcional de hasta 12,6 kW para cuando hagas muchos kilómetros seguidos",
+        "Si notas chirridos, tirones o marcas anómalas en la correa, no apliques lubricantes de cadena: acude a un servicio oficial Zero"
+      ]
     },
   },
   {
