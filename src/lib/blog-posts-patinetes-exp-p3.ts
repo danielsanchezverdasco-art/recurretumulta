@@ -263,6 +263,39 @@ El Klima **no está homologado como VMP** para circular a 65 km/h en España: la
 
 <img src=/media/patinetes/nami-klima-3.webp alt=Nami Klima circulando por la ciudad>
 
+## Nami: la marca de los patinetes sin complejos
+
+Nami Electric se hizo un nombre entre los entusiastas con el Burn-e, un hiperpatinete pensado sin mirar el precio, y el Klima nace de una constatación sencilla: no todo el mundo puede —ni quiere— cargar con 47 kilos. Recortar la fórmula a 38 kg manteniendo el doble motor y una batería seria convierte al Klima en el Nami de los que viven en un piso sin ascensor grande o combinan el patinete con el coche. Sigue sin ser un patinete ligero ni urbano en el sentido legal español, pero dentro de su especie es el sensato.
+
+## Doble motor y 1.500 Wh: los números en la calle
+
+| Dato | Klima | Traducción honesta |
+|---|---|---|
+| Motores | 2 × 1.000 W, 5.360 W de pico | Empuje de moto pequeña |
+| Batería | 60V 25Ah, 1.500 Wh | La reserva de un ciclomotor eléctrico |
+| Autonomía declarada | 65 km | En condiciones ideales de laboratorio |
+| Autonomía realista | ~44 km | Uso mixto con doble motor activo |
+| Velocidad máxima | 65 km/h | Muy lejos del límite legal español |
+| Peso | ~38 kg | Subirlo a un coche ya es ejercicio |
+
+La diferencia entre lo declarado y lo real no es un engaño de Nami: las autonomías de catálogo se miden a velocidad constante y moderada, mientras que un doble motor invita justo a lo contrario. Con 5.360 W de pico disponibles, el consumo lo escribe la mano derecha.
+
+## La verdad legal: un Klima no es un VMP en España
+
+La normativa de la DGT define el vehículo de movilidad personal con una velocidad máxima por construcción de 25 km/h. El Klima, capaz de 65 km/h, queda fuera de esa categoría tal cual sale de la caja: no puede circular por vías públicas españolas, ni por la calzada ni —nunca— por las aceras, y su lugar legal es el recinto privado o el circuito. Solo una versión limitada y con su certificado de circulación podría aspirar a tratarse como VMP, y aun así con el casco y las ordenanzas municipales como compañía. Es la advertencia que debe acompañar a cualquier compra de este tipo.
+
+## Mantener un doble motor: frenos, gomas y batería
+
+Un aparato que frena desde 65 km/h exige discos y pastillas en estado impecable, neumáticos con presión vigilada y una suspensión hidráulica ajustada al peso del piloto, cosas que el Klima permite regular y que conviene revisar tras los primeros kilómetros. La batería de 1.500 Wh se conserva mejor evitando descargas completas habituales y almacenamientos al 100 % durante semanas. La red de servicio europea de Nami es limitada, así que comprar a un distribuidor que responda por escrito en garantía no es un consejo: es parte del precio.
+
+## Klima o Burn-e: veredicto
+
+Su hermano mayor, el <a href=/patinetes/nami-burn-e-3/>Nami Burn-e 3</a>, ofrece más batería y más potencia a cambio de más peso y más dinero. **Veredicto:** el Klima merece la pena para el entusiasta que quiere prestaciones de hiperpatinete en el formato menos ingobernable posible y que tiene dónde usarlo legalmente; para circular a diario por una ciudad española, la ley manda y toca mirar patinetes VMP certificados. Mientras decides, el <a href=/juego-monos/>juego caza-monos</a> esconde sus monos a velocidades mucho más legales.
+
+## Plegado, maletero y escaleras: los 38 kilos en la práctica
+
+El Klima se pliega por el manillar para caber en el maletero de un coche mediano, y esa es la foto amable. La realidad completa incluye levantar 38 kilos hasta la altura de la cadera, buscarle un rincón donde no estorbe en casa y asumir que bajarlo por unas escaleras es una operación de dos manos y algo de maña. Frente a los patinetes urbanos de 15 kilos pierde por goleada en portabilidad; frente a su hermano Burn-e gana justo lo suficiente para que un adulto entrenado lo mueva sin ayuda. Es, en resumen, transportable a ratos, no portable a diario.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Nami Klima?
@@ -282,7 +315,7 @@ Solo **limitado a 25 km/h** según la normativa VMP.
 
 ¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: <a href=https://bikescootercity.com.au/products/nami-klima-electric-scooter>distribuidores europeos de Nami Electric</a>.*`,
+*Fuentes: <a href=https://bikescootercity.com.au/products/nami-klima-electric-scooter>distribuidores europeos de Nami Electric</a>. Normativa oficial: <a href=https://www.dgt.es>DGT</a>.*`,
   },
   {
     slug: "nami-klima-max",
@@ -539,6 +572,39 @@ A este nivel, Nami monta frenada y gomas acordes a 80 km/h: discos grandes y neu
 
 <img src=/media/patinetes/nami-blast-max-3.webp alt=Nami Blast Max en carretera>
 
+## Blast Max: el Burn-e que cambió de chasis para bajar de peso
+
+Nami construyó su reputación con el Burn-e, y el Blast Max parte de su misma receta de prestaciones extremas sobre un chasis distinto que recorta el conjunto hasta los 45 kilos. La lógica es la de la gama: por debajo, el Klima para quien busca algo más manejable; por arriba, este Blast Max para quien lo quiere todo —dos motores de 1.500 W, una batería de 2.400 Wh y una velocidad punta de 80 km/h— en un objeto que sigue llamándose patinete por cortesía del lenguaje.
+
+## 8.400 vatios en un patinete: física y cifras
+
+| Dato | Blast Max | Lectura práctica |
+|---|---|---|
+| Motores | 2 × 1.500 W, 8.400 W de pico | Aceleración de ciclomotor deportivo |
+| Batería | 60V 40Ah, 2.400 Wh | De las mayores jamás montadas en un patinete |
+| Autonomía declarada | 100 km | Cifra de laboratorio a ritmo suave |
+| Autonomía realista | ~67 km | Uso mixto sin abusar del modo sport |
+| Velocidad máxima | 80 km/h | Territorio de moto, no de VMP |
+| Peso | ~45 kg | Transportarlo es parte del ejercicio |
+
+Esas cifras explican el resto del diseño: a 80 km/h un patinete deja de ser un juguete y se convierte en un vehículo que exige frenos grandes, neumáticos anchos y una doble suspensión que mantenga las ruedas en el suelo cuando el firme se arruga.
+
+## Fuera de la ley en la vía pública: dónde puede vivir un Blast Max
+
+Con el límite de 25 km/h que la DGT fija para los vehículos de movilidad personal, el Blast Max queda fuera de la vía pública española tal como se entrega: ni calzada, ni carril bici y por supuesto ni aceras. Su hábitat legal es el recinto privado y el circuito, y allí debería tratarse con el respeto de una moto: casco integral, guantes y protecciones, porque una caída a sus velocidades no entiende de categorías administrativas. Quien busque un Nami para moverse por la ciudad tendrá que mirar a versiones limitadas y certificadas, no a este.
+
+## Una batería de 2.400 Wh: cuidados y costes reales
+
+Una batería de 40 Ah no se llena en un descanso: su carga completa es un plan nocturno, y su salud a largo plazo agradece no vivir siempre al 100 % ni apurar las descargas hasta el cero. Los consumibles tampoco son de patinete urbano: neumáticos y pastillas trabajan a ritmo de ciclomotor, y la red de servicio europea de Nami sigue siendo limitada, de modo que la garantía por escrito del distribuidor forma parte del precio aunque no aparezca en la etiqueta. Sin PVP oficial europeo, comparar presupuestos entre importadores es la única referencia sensata.
+
+## Blast Max o Burn-e 3 Max: veredicto
+
+El cara a cara natural es con su hermano <a href=/patinetes/nami-burn-e-3-max/>Nami Burn-e 3 Max</a>, de prestaciones gemelas y más recorrido comercial, frente al que el Blast Max solo gana si aparece sensiblemente más barato. **Veredicto:** merece la pena para el aficionado a las prestaciones extremas que disponga de espacio privado donde usarlo y asuma su logística; como vehículo para la calle en España, sencillamente no es legal ni práctico. Y si la velocidad se te queda en la cabeza, siempre puedes desquitarte buscando monos a ritmo humano en el <a href=/juego-monos/>juego caza-monos</a>.
+
+## ¿Y si lo limito a 25 km/h por la pantalla?
+
+Es la pregunta que todo comprador se hace, y la respuesta legal es incómoda: limitar electrónicamente un vehículo capaz de 80 km/h no lo convierte en un vehículo de movilidad personal a ojos de la normativa española. La categoría se define por la velocidad máxima de construcción y exige además cumplir el manual de características técnicas de la DGT con su certificado de circulación correspondiente. Un Blast Max limitado por software sigue siendo, administrativamente, un vehículo sin categoría para la vía pública. La única vía honesta de usarlo a diario sería una versión nacida y certificada como VMP, que es otro producto distinto.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Nami Blast Max?
@@ -558,7 +624,7 @@ Prestaciones casi idénticas; el Burn-e 3 tiene más nombre y mercado de segunda
 
 ¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: <a href=https://bikescootercity.com.au/products/nami-klima-electric-scooter>distribuidores europeos de Nami Electric</a>.*`,
+*Fuentes: <a href=https://bikescootercity.com.au/products/nami-klima-electric-scooter>distribuidores europeos de Nami Electric</a>. Normativa oficial: <a href=https://www.dgt.es>DGT</a>.*`,
   },
   // ────────────────────────── TEVERUN (7) ─────────────────────────
   {

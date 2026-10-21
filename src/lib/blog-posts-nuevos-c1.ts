@@ -450,6 +450,33 @@ El Yuan Up demuestra que se puede hacer un SUV eléctrico decente y asequible. E
 
 <img src=/media/byd-yuan-up-2025-precio-ficha-tecnica-oficial.webp alt=BYD Yuan Up vista tres cuartos>
 
+## Yuan, Atto, Dolphin: el mapa de la gama pequeña de BYD
+
+El nombre Yuan viene de la dinastía que da nombre a la serie Dynasty de BYD, la familia clásica de la marca junto a la Ocean de los Dolphin y Seal. En China el Yuan Up es el escalón de acceso a los SUV eléctricos de la casa; en Europa ese papel lo representa el Atto 2, pariente muy cercano con el que comparte planteamiento. Entender ese mapa importa porque el Yuan Up es, en el fondo, un termómetro de hasta dónde puede bajar el precio de un eléctrico bien equipado cuando se produce a escala china.
+
+## CLTC no es WLTP: cómo leer sus 401 km
+
+| Cifra | Baremo | Traducción orientativa |
+|---|---|---|
+| 401 km | Ciclo CLTC chino | El dato de la ficha china |
+| ~320-340 km | Estimación tipo WLTP | El ciclo europeo castiga más |
+| ~300 km | Uso real mixto | Lo que verás entre cargas |
+| 45,12 kWh | Batería LFP Blade | Consumo medio en torno a 15 kWh/100 km |
+
+El ciclo CLTC se rueda a velocidades medias bajas y premia a los coches urbanos, por eso sus cifras salen sistemáticamente más altas que las WLTP del mismo coche. No es que BYD mienta: es que cada mercado homologa con su propia vara de medir, y comparar 401 km CLTC con los 350 km WLTP de un rival europeo sería una comparación trucada. Con la conversión hecha, el Yuan Up queda donde debe: un urbano con autonomía de sobra para la semana laboral.
+
+## Blade LFP: la batería es el verdadero argumento
+
+La batería Blade de BYD usa química LFP (litio ferrofosfato), la misma filosofía que está conquistando los eléctricos asequibles por tres razones prácticas: tolera mejor los abusos térmicos, admite cargar al 100 % a diario sin la degradación acelerada de otras químicas y evita metales caros como el cobalto. Integrada en la e-Platform 3.0 como parte estructural del suelo, baja el centro de gravedad y explica que un SUV de 4,31 metros se sienta aplomado. Su peaje es la densidad energética: para 45 kWh hace falta más peso que con una NCM equivalente, y de ahí parte de sus 265 litros de maletero.
+
+## Si llegara a España: etiqueta, rivales y veredicto
+
+Matriculado aquí, el Yuan Up luciría la etiqueta **Cero** y seguiría el calendario de ITV de cualquier turismo eléctrico. Sus espejos europeos serían el <a href=/coches/dacia-spring-extreme-2025-precio-ficha-tecnica/>Dacia Spring</a>, más barato pero mucho más modesto en potencia y batería, el <a href=/coches/citroen-e-c3-2026-precio-ficha-tecnica/>Citroën ë-C3</a> y el propio <a href=/coches/byd-atto-2-precio-ficha-tecnica/>BYD Atto 2</a> que ya se vende en los concesionarios españoles. **Veredicto:** el Yuan Up merece la pena como demostración de lo que China ya ofrece en el acceso eléctrico; como compra desde España, la respuesta sensata hoy es el Atto 2, y el Yuan quedaría como deseo si BYD decidiera traerlo aún más barato. Mientras tanto, el <a href=/juego-monos/>juego caza-monos</a> sigue escondiendo monos entre las fichas de los eléctricos pequeños.
+
+## La prueba del clavo: seguridad de la batería Blade
+
+La batería Blade se hizo famosa por un vídeo de laboratorio que BYD convirtió en argumento comercial: una celda perforada por un clavo sin incendiarse ni explotar, la prueba que las químicas ricas en níquel suspendían con fuego. La química LFP tiene esa estabilidad térmica en su naturaleza, y la estructura de celdas largas integradas en el suelo —lo que BYD llama construcción cell-to-body en su plataforma— añade rigidez al conjunto. No convierte al Yuan Up en irrompible, pero sí explica por qué los eléctricos asequibles del mundo entero están migrando a esta química: en el acceso al mercado, la seguridad pasiva de la batería vale tanto como la autonomía. En Europa, el listón lo ponen las pruebas de Euro NCAP a las que sus hermanos de gama sí se han sometido con buenos resultados.
+
 ## Preguntas frecuentes
 
 ### ¿Qué potencia tiene el Yuan Up?
@@ -707,6 +734,39 @@ El MG7 es, objetivamente, una de las berlinas más bonitas del momento: proporci
 MG Europa apuesta todo a la electrificación: traer un 2.0 turbo gasolina sin hibridar sería un suicidio comercial y de emisiones. La marca francesa ya confirmó que el MG7 no cruzará el charco. ¿El consuelo? Los rumores apuntan a un futuro **MG7 eléctrico** que sí podría llegar. Hasta entonces, en Europa su hueco lo ocupan el **MG4** y el futuro **MG S6 EV**.
 
 <img src=/media/mg7-2025-precio-ficha-tecnica-oficial.webp alt=MG7 vista tres cuartos trasera>
+
+## MG: de Oxford a SAIC, y el MG7 como escaparate
+
+MG nació en Oxford en los años veinte como sinónimo de roadster británico asequible, quebró con el grupo Rover en 2005 y renació bajo el paraguas del gigante chino SAIC, que la ha convertido en su punta de lanza comercial en Europa. En China, sin embargo, la marca juega otra liga de imagen, y el MG7 es su escaparate: la berlina con la que demuestra que sabe hacer coches deseables con motor de gasolina antes de que la electrificación lo tape todo. Que ese escaparate no cruce a Europa dice mucho de cómo ha cambiado el mercado.
+
+## Berlina clásica en la era del SUV eléctrico
+
+| Dato | MG7 | Comentario |
+|---|---|---|
+| Longitud | 4.884 mm | Berlina grande del segmento D |
+| Motor superior | 2.0 turbo, 261 CV y 405 Nm | Sin hibridación alguna |
+| Cambio | Automático de 9 velocidades | De convertidor, a la vieja usanza |
+| Versión de acceso | 1.5T de 188 CV | El mismo traje con menos gasto |
+| Aerodinámica activa | Alerón trasero desplegable | Detalle de deportivo caro |
+| Asistentes | MG Pilot de nivel 2 | El paquete ADAS de la casa |
+
+En un mercado europeo donde la berlina generalista casi ha desaparecido, el MG7 reivindica el formato: centro de gravedad bajo, maletero de fastback y una conducción que no depende de dos toneladas de batería. Su carta de presentación es emocional, y las emisiones europeas ni siquiera le dejan jugarla.
+
+## Por qué Europa se lo pierde: emisiones y estrategia
+
+La normativa europea de CO2 penaliza la media de flota de cada fabricante, y un 2.0 turbo de gasolina sin hibridar es hoy un lastre contable para una marca que vende en Europa sobre todo eléctricos e híbridos. A eso se suma que MG ha construido su éxito europeo sobre el precio de sus cero emisiones: importar una berlina térmica de nicho, con su homologación y su red de recambios propia, chocaría con la estrategia y con la calculadora. La confirmación de la marca de que no vendrá es, en ese contexto, pura aritmética.
+
+## Si te lo importas: la letra pequeña del capricho
+
+La vía del importador independiente existe, pero conviene entrar con los ojos abiertos: homologación individual, aranceles e IVA sobre un precio chino que dejará de parecer milagroso, ausencia de garantía oficial europea para un modelo que la red ni conoce y una reventa reducida a otros entusiastas. El consuelo doméstico es el <a href=/coches/mg-4-2025-precio-ficha-tecnica/>MG4</a>, el compacto eléctrico con el que MG sí juega en España, de planteamiento opuesto pero con la misma obsesión por la relación precio-producto.
+
+## Veredicto
+
+**Veredicto:** el MG7 merece la pena como objeto de deseo y como prueba de que la berlina clásica sigue viva en China; como compra desde España, la importación solo se defiende como capricho de coleccionista informado, no como alternativa racional a lo que se vende aquí. Es el coche que nos perderemos y que quizá un día regrese electrificado. Mientras ese día llega, el <a href=/juego-monos/>juego caza-monos</a> permite cazar algo al alcance de todos los bolsillos.
+
+## Un interior de pantalla curva y asientos de deportivo
+
+Por dentro, el MG7 sigue el guion de las berlinas chinas de nueva generación: una doble pantalla curva que concentra instrumentación y entretenimiento, asientos deportivos de una pieza con reposacabezas integrado y una consola alta que separa a conductor y pasajero como en un coupé. La carrocería fastback regala una quinta puerta práctica para cargar, a cambio de una altura trasera que los pasajeros altos notarán en los viajes largos. Son los compromisos típicos del formato, envueltos en materiales que las fotos sitúan por encima de lo que su precio chino sugiere.
 
 ## Preguntas frecuentes
 
