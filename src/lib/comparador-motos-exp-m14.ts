@@ -228,24 +228,24 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: [],
     pros: [
-      "100 km/h de punta: el scooter NIU más rápido, apto para rondas",
-      "Asiento 30% más largo que la serie NQi: dos adultos viajan cómodos",
-      "Carga útil de 275 kg: admite pasajero y compra sin problemas",
-      "Pantalla LCD a color personalizable y faro halo de tercera generación",
-      "Conectividad NIU con GPS antirrobo y bloqueo electrónico de dirección",
+      "Alcanza los 100 km/h, margen suficiente para circular por rondas y vías rápidas urbanas sin ir forzado",
+      "Entrega 6,5 kW, equivalentes a 8,8 CV, y se conduce con el A1 o con el permiso B con tres años de antigüedad",
+      "Las dos baterías extraíbles de 72 V permiten cargar en un enchufe casero durante unas 5 h, sin depender de un punto fijo en el garaje",
+      "Lleva etiqueta Cero de la DGT, ventaja clara para moverse y aparcar en zonas de bajas emisiones",
+      "Desde el móvil se puede localizar gracias al GPS, pensado para disuadir robos y facilitar su recuperación"
     ],
     contras: [
-      "75 km de autonomía declarada: justa para usarla a diario a ritmo vivo",
-      "4.999 €: se acerca al precio de una 125 de gasolina con más autonomía",
-      "128 kg con baterías: pesado para moverlo en parado",
-      "La segunda batería ocupa el hueco bajo el asiento",
-      "Sin control de tracción ni ABS: frenos con regenerativa y CBS",
+      "Los 75 km declarados de autonomía se quedan escasos si el recorrido diario incluye tramos a ritmo rápido",
+      "Cuesta 4.999 €, importe que obliga a compararlo con alternativas de gasolina capaces de cubrir más distancia por uso",
+      "En parado, maniobrar con sus 128 kg exige cierta maña, sobre todo en espacios estrechos",
+      "Guardar la segunda unidad bajo el asiento resta espacio útil para el casco u otros objetos cotidianos",
+      "La frenada recurre a CBS y a la recuperación de energía, sin ABS que aporte un plus de seguridad en mojado"
     ],
     curiosidades: [
-      "Fue el scooter eléctrico más potente de NIU hasta la llegada de la serie NQiX",
-      "Su motor Bosch de 6,5 kW lo homologa como equivalente a 125",
-      "El modo E-Save estira la autonomía limitando la velocidad a 45 km/h",
-      "NIU lo presentó en el EICMA de Milán junto al prototipo del RQi",
+      "Durante un tiempo ocupó el escalón más alto de NIU en prestaciones, hasta que la familia NQiX le quitó ese trono interno",
+      "Detrás de su empuje hay un motor Bosch, socio habitual de la marca en esta generación de scooters eléctricos",
+      "Dispone de un programa E-Save que recorta el ritmo hasta 45 km/h cuando interesa ahorrar energía al máximo",
+      "Su debut público se produjo en el salón EICMA de Milán, compartiendo foco con el prototipo RQi de la casa"
     ],
     imagen: "/media/motos/niu-mqi-gt-evo-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -267,7 +267,23 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     fuenteNombre: "NIU",
     fuenteUrl: "https://www.niu.com",
     analisisSlug: "niu-mqi-gt-evo-2025-ficha-tecnica-precio",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      "aceiteTipo": "No aplica: es un scooter eléctrico, sin aceite de motor que sustituir y sin cadena de transmisión que engrasar",
+      "cadenaPasos": [
+        "Antes de salir, comprueba luces largas y cortas, luz de freno, intermitentes y claxon",
+        "Revisa presión, dibujo y posibles cortes en ambos neumáticos antes de circular",
+        "Acciona las dos manetas y verifica que el recorrido libre de freno se mantiene entre 5 y 9 mm",
+        "Inspecciona el nivel de carga y el aspecto exterior de las dos baterías extraíbles",
+        "Limpia la carrocería con agua y detergente neutro usando un paño suave, sin chorro a presión sobre el compartimento de baterías"
+      ],
+      "intervaloMantenimiento": "Primera revisión a los 2 meses o a los 500 km; después, revisión general cada 6 meses o cada 3.000 km, lo que ocurra antes, según el manual de usuario del MQi GT Evo",
+      "trucos": [
+        "Si alguna comprobación diaria sale mal, acude al concesionario en lugar de seguir circulando",
+        "Con uso intenso, con sobrecarga o por firmes en mal estado, el manual aconseja acortar el plazo entre revisiones",
+        "No enchufes el cargador si el puerto de carga está mojado: espera a que se seque por completo",
+        "Utiliza recambios originales para conservar el rendimiento previsto y la cobertura habitual del vehículo"
+      ]
+    },
   },
   {
     id: "niu-nqix-500-2025-ficha-tecnica-precio",

@@ -2086,25 +2086,25 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "14,5 CV: casi el máximo legal del A1",
-      "Depósito de 15 L: gran autonomía",
-      "Naked con buena presencia",
-      "Cuadro digital y faro LED",
-      "Por 3.790 €, 125 muy completa",
-      "Cómoda para el día a día",
+      "Su bicilíndrico en V entrega 14,5 CV, muy cerca del tope permitido para el A1",
+      "Con 15 litros de capacidad puedes espaciar bastante las paradas para repostar",
+      "Estética bobber de líneas bajas que se sale de la típica 125 urbana",
+      "Iluminación LED y pantalla digital aportan un toque actual al conjunto",
+      "Cuesta 3.790 euros y llega con un equipamiento bastante redondo para empezar",
+      "La postura relajada facilita moverse entre tráfico sin castigar la espalda"
     ],
     contras: [
-      "3.790 €: cara frente a otras 125 chinas",
-      "El peso penaliza las prestaciones",
-      "Sin electrónica avanzada",
-      "La reventa es floja",
-      "Acabados mejorables en detalles",
+      "Ese precio la sitúa por encima de varias rivales chinas de cilindrada similar",
+      "Es una moto voluminosa para su potencia, algo que se nota al exigirle ritmo",
+      "No esperes ayudas electrónicas sofisticadas ni modos de conducción configurables",
+      "En segunda mano cuesta más defender su valor que con marcas consolidadas",
+      "Algunos plásticos y remates quedan por debajo de lo que sugiere su imagen"
     ],
     curiosidades: [
-      "La RKV 125C es la naked grande de Keeway en 125",
-      "Su depósito de 15 L es de los mayores del segmento",
-      "La C de su nombre indica la versión clásica",
-      "Keeway la vende como moto polivalente A1",
+      "Dentro de la gama 125 de Keeway, esta C busca un público más custom que deportivo",
+      "Pocos modelos de acceso ofrecen un depósito tan generoso como sus 15 litros",
+      "La letra final distingue esta propuesta clásica frente a otras RKV de la casa",
+      "Nació pensando en quien accede con el B más tres años y quiere algo distinto a un scooter"
     ],
     imagen: "/media/motos/keeway-rkv-125c-2024-ficha-tecnica-precio-1.webp",
     galeria: [

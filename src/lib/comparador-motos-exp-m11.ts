@@ -1358,23 +1358,23 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Mini-scrambler de 125 cc y solo 111 kg: diversión pura",
-      "Precio de 2.499 €, de las más baratas de su estilo",
-      "Asiento a 760 mm: accesible para cualquier estatura",
-      "Consumo de 2,4-2,7 l/100 km, irrisorio",
-      "CBS/ABS, LED y cargador USB de serie",
+      "Formato mini pensado para colarse entre coches sin esfuerzo y aparcar en cualquier hueco urbano",
+      "Sus 111 kg hacen que maniobrar en parado resulte sencillísimo, incluso para quien acaba de empezar",
+      "Cuesta 2.499 €, una cifra muy contenida dentro del universo de las 125 con estética scrambler",
+      "Se puede llevar con el A1 o con el permiso B si ya acumulas tres años de experiencia",
+      "Trae iluminación LED, frenada combinada y toma USB sin necesidad de pagar extras aparte"
     ],
     contras: [
-      "11 CV y 95 km/h de punta: solo ciudad y alrededores",
-      "Ruedas de 12\" nerviosas en carretera",
-      "Sin protección aerodinámica",
-      "Marca austriaca con red pequeña en España",
-      "El tamaño mini no es para pilotos muy altos",
+      "Su techo real son 95 km/h, así que las vías rápidas quedan fuera de su terreno natural",
+      "Las ruedas pequeñas transmiten más los baches y exigen atención extra sobre firme irregular o mojado",
+      "Apenas ofrece resguardo frente al viento cuando el trayecto se alarga más de lo previsto",
+      "Quien sea muy alto encontrará una posición encogida, con poco espacio para estirar las piernas",
+      "La presencia comercial de Brixton en España sigue siendo reducida frente a las marcas generalistas"
     ],
     curiosidades: [
-      "Brixton es una marca austriaca que fabrica en China",
-      "La XS es la 'fun-bike' de la familia Crossfire: pequeña por fuera, grande en diversión",
-      "Su estética mezcla scrambler clásica con toques modernos",
+      "Brixton pertenece al grupo austriaco KSR: el diseño nace en Europa y la producción se realiza en China para contener costes",
+      "La denominación XS subraya su planteamiento de moto de ocio en miniatura dentro de la saga Crossfire",
+      "Su imagen bebe de las minimotos japonesas de los años setenta, reinterpretada con neumáticos de tacos y detalles scrambler actuales"
     ],
     imagen: "/media/motos/brixton-crossfire-125-xs-2024-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -1396,7 +1396,24 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     fuenteNombre: "MundoMotero",
     fuenteUrl: "https://www.mundomotero.com/motos/brixton/crossfire-125-xs",
     analisisSlug: "brixton-crossfire-125-xs-2024-ficha-tecnica-precio",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      "aceiteTipo": "Aceite de motor de 4 tiempos 10W-40 (el manual de KSR recomienda Liqui Moly Motorbike 4T 10W-40), con una capacidad indicada de 1,0 l; el nivel se comprueba con la varilla, sin roscarla, entre las marcas de máximo y mínimo.",
+      "cadenaPasos": [
+        "Apoya la moto en vertical y busca el tramo inferior de la cadena para medir su holgura con una regla",
+        "La holgura correcta que indica KSR está entre 10 y 20 mm; si queda fuera de ese margen, toca tensar",
+        "Afloja la tuerca del eje trasero y las contratuercas de los tensores de ambos lados del basculante",
+        "Gira los tornillos de ajuste de los dos lados exactamente lo mismo hasta dejar la holgura en su punto",
+        "Comprueba que la rueda trasera queda alineada y reaprieta la tuerca del eje y las contratuercas",
+        "Limpia y lubrica la cadena, revisa el estado del piñón y sustituye el conjunto si aparece desgaste"
+      ],
+      "intervaloMantenimiento": "Según el plan de servicio de KSR para sus 125 refrigeradas por aire: primera revisión a los 1.000 km y siguientes a los 4.000 km o 1 año, 7.000 km o 2 años, 10.000 km o 3 años y 13.000 km o 4 años, lo que llegue antes; desde los 13.000 km, inspección al menos una vez al año o cada 3.000 km. La bujía, el filtro de gasolina y el filtro de aire se sustituyen cada 7.000 km, y el líquido de frenos se cambia cada 2 años.",
+      "trucos": [
+        "Revisa el nivel de aceite en cada repostaje: el propio manual de KSR lo pide expresamente en este motor refrigerado por aire",
+        "Si ruedas a menudo por zonas polvorientas o con mal firme, adelanta los cambios de aceite, porque el manual advierte que en esas condiciones se degrada antes",
+        "Una cadena demasiado tensa castiga piñón, corona y rodamientos, y una demasiado floja puede salirse y bloquear la rueda trasera: déjala siempre dentro de los 10-20 mm",
+        "Anota cada revisión con fecha y kilometraje en el libro de servicio: KSR condiciona la garantía a cumplir el plan de mantenimiento"
+      ]
+    },
   },
   {
     id: "brixton-crossfire-500-storr-2025-ficha-tecnica-precio",

@@ -27,21 +27,21 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
     pros: [
-      "Tricilíndrico de 90 CV por 6.495 euros",
-      "0 a 100 km/h en 3,9 segundos",
-      "Quickshifter de serie",
-      "Horquilla invertida KYB regulable",
-      "Control de tracción de dos niveles",
+      "Entrar en el mundo tricilíndrico cuesta aquí 6.495 euros con 90 CV, un planteamiento que pone en apuros a rivales como la Yamaha MT-07 o la Triumph Trident 660",
+      "Su empuje permite completar la aceleración de referencia en apenas 3,9 segundos, un registro propio de motos de un escalón superior",
+      "Subir de marcha sin tocar embrague viene ya incluido de fábrica, un detalle que en la competencia suele pagarse como accesorio",
+      "Delante monta una horquilla invertida firmada por KYB con ajustes, pensada para quien quiere afinar el comportamiento en curva",
+      "La electrónica incluye un control de tracción que puedes configurar en dos intensidades según el asfalto o tu experiencia"
     ],
     contras: [
-      "Sin ride-by-wire",
-      "Asiento de 810 mm, alta para tallas bajas",
-      "La versión A2 pierde la mitad de la gracia",
+      "El acelerador funciona todavía por cable tradicional y renuncia a la gestión electrónica completa que ya ofrecen algunas rivales directas",
+      "Con el asiento colocado a 810 mm, los pilotos de menor estatura lo tendrán complicado para llegar con seguridad al suelo en parado",
+      "Pensada para el carnet A, su versión limitada para el A2 recorta tanto el carácter del motor que pierde buena parte de su atractivo"
     ],
     curiosidades: [
-      "Su tricilíndrico estira hasta las 11.000 rpm con 68 Nm a 8.250.",
-      "Llena el hueco entre la 450NK y la 800NK del catálogo.",
-      "Monta neumáticos semi-slick CST de serie.",
+      "El motor busca la zona alta con ganas y no se rinde hasta las 11.000 rpm, entregando sus 68 Nm cuando el contador marca 8.250 vueltas",
+      "Dentro de la gama naked de la marca china, este modelo se coloca justo en el escalón intermedio entre sus hermanas pequeña y grande, la 450NK y la 800NK",
+      "Sale de la caja calzada con unos CST de corte semi-slick, una elección llamativa que delata su enfoque más deportivo que utilitario"
     ],
     imagen: "/media/cfmoto-675nk-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -577,23 +577,23 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
     pros: [
-      "Scooter de 367,6 cc y 38,8 CV: potencia de maxiscooter por 4.592 €",
-      "Depósito de 17 litros para una autonomía muy amplia",
-      "Consumo declarado de 3,4-3,5 l/100 km",
-      "Asiento a 770 mm, accesible pese a su tamaño",
-      "5 años de garantía oficial",
+      "Frente a un Yamaha XMAX 300 o un Honda Forza 350, su argumento inicial es claro: prestaciones de categoría superior sin disparar la factura de compra, desde 4.592 €",
+      "El motor de 367,6 cc entrega 38,8 CV, una reserva pensada tanto para incorporarse con soltura a vías rápidas como para rodar con pasajero sin ir justo",
+      "Con un gasto declarado que se mueve entre 3,4 y 3,5 l/100 km y un depósito de 17 litros, los repostajes se espacian mucho en desplazamientos diarios por carretera",
+      "Quien llega justo al suelo agradecerá un asiento situado a 770 mm, una cota amable para un scooter de este porte cuando toca maniobrar entre coches",
+      "La cobertura oficial alcanza los 5 años, un respaldo poco habitual en este segmento que suma tranquilidad al elegir una marca todavía en crecimiento"
     ],
     contras: [
-      "Cerca de 180 kg: pesado para mover en parado",
-      "38,8 CV exigen carnet A2, no vale el B",
-      "Tamaño grande para el tráfico urbano denso",
-      "Sin datos oficiales de peso en orden de marcha publicados",
-      "Red de servicio en expansión",
+      "En parado se nota voluminoso: rondando los 180 kg, desplazarlo a pulso en un garaje estrecho exige más maña que en un scooter ligero",
+      "No podrás llevarlo únicamente con el permiso B: esos 38,8 CV lo colocan de lleno en territorio A2, requisito que descarta a muchos conductores de coche",
+      "Sus dimensiones juegan en contra al filtrar entre filas de coches parados o al buscar hueco para aparcar en calles muy saturadas",
+      "La propia ficha carece de peso oficial en orden de marcha publicado, así que cualquier comparación rigurosa frente a un Kymco X-Town queda incompleta",
+      "La cobertura de talleres todavía está creciendo en España, por lo que conviene comprobar qué servicio oficial te queda cerca antes de decidirte"
     ],
     curiosidades: [
-      "El 368K es la variante asfáltica del conocido 368G adventure",
-      "Zontes es famosa por equipar sus motos hasta arriba por poco dinero",
-      "Su pantalla TFT incluye conectividad con el móvil de serie",
+      "Comparte apellido y planteamiento con el 368G de espíritu aventurero, pero esta declinación K renuncia a esa orientación para centrarse en el asfalto y los trayectos cotidianos",
+      "La receta habitual de la casa china consiste en llenar la dotación de serie mucho más de lo esperable en su franja de precio, y este modelo sigue ese guion al pie de la letra",
+      "Entre esa dotación figura una instrumentación TFT capaz de enlazarse con tu teléfono, algo que varios rivales directos reservan a versiones superiores o a la lista de opciones"
     ],
     imagen: "/media/zontes-368k-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -2063,23 +2063,23 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
     pros: [
-      "Mini-scrambler de 125 cc y solo 111 kg: diversión pura",
-      "Precio de 2.499 €, de las más baratas de su estilo",
-      "Asiento a 760 mm: accesible para cualquier estatura",
-      "Consumo de 2,4-2,7 l/100 km, irrisorio",
-      "CBS/ABS, LED y cargador USB de serie",
+      "Con 111 kg en conjunto, maniobrar aparcado y filtrar entre coches exige muy poco esfuerzo",
+      "Cuesta 2.499 €, una cantidad contenida para estrenar una 125 con imagen scrambler diferenciada",
+      "El asiento, a 760 mm del suelo, permite apoyar bien los pies si eres de estatura baja",
+      "Consumir entre 2,4 y 2,7 l/100 km ayuda a mantener el gasto mensual muy bajo",
+      "La dotación incluye alumbrado LED, puerto USB para el teléfono y sistema CBS/ABS en la frenada"
     ],
     contras: [
-      "11 CV y 95 km/h de punta: solo ciudad y alrededores",
-      "Ruedas de 12\" nerviosas en carretera",
-      "Sin protección aerodinámica",
-      "Marca austriaca con red pequeña en España",
-      "El tamaño mini no es para pilotos muy altos",
+      "Su velocidad máxima de 95 km/h y sus 11 CV limitan mucho cualquier salida a autovía",
+      "Las llantas de 12 pulgadas reaccionan con nerviosismo ante baches y firme en mal estado",
+      "Al carecer de pantalla o carenado, el viento impacta directamente sobre pecho y casco",
+      "La implantación de Brixton en España sigue siendo reducida, con pocos puntos de venta y taller",
+      "Quien mida mucho encontrará una postura encogida por las dimensiones reducidas del conjunto"
     ],
     curiosidades: [
-      "Brixton es una marca austriaca que fabrica en China",
-      "La XS es la 'fun-bike' de la familia Crossfire: pequeña por fuera, grande en diversión",
-      "Su estética mezcla scrambler clásica con toques modernos",
+      "Brixton Motorcycles nació en Austria dentro del grupo KSR, aunque sus motos se ensamblan en China",
+      "En la familia Crossfire, la XS ocupa el escalón de acceso y apuesta por un formato compacto pensado para pasarlo bien sin complicaciones",
+      "Su diseño combina referencias retro propias del mundo scrambler con soluciones actuales como el alumbrado LED"
     ],
     imagen: "/media/brixton-crossfire-125-xs-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -3346,26 +3346,26 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: ["costeAnualAproxEur"],
     pros: [
-      "115 km de autonomía: de las mejores del segmento equivalente a 125",
-      "4.190 €: bien posicionado por autonomía y equipamiento",
-      "81 kg: ligero y ágil en ciudad",
-      "Pantalla TFT a color y buen nivel tecnológico",
-      "Distribución y servicio oficial en España",
-      "Diseño elegante de scooter europeo",
+      "Con 115 km declarados por carga, permite encadenar varios días de trayectos urbanos sin enchufar",
+      "La batería se extrae, así que recargar en casa en un enchufe normal no exige garaje propio",
+      "Sus 81 kg facilitan maniobrar aparcada, girar en calles estrechas y moverse entre coches",
+      "Admitir dos ocupantes amplía su uso más allá del desplazamiento solitario al trabajo",
+      "La etiqueta Cero ayuda a circular sin restricciones en zonas de bajas emisiones",
+      "Por 4.190 € entra en un tramo asumible para quien quiere dejar el coche en desplazamientos cortos"
     ],
     contras: [
-      "4,1 kW: potencia contenida para salir a carretera",
-      "Sin capacidad de batería publicada",
-      "80 km/h justos para vías rápidas",
-      "Marca con poca implantación aún en España",
-      "Sin ABS confirmado",
-      "La autonomía real a 80 km/h baja bastante",
+      "Los 80 km/h de punta dejan poco margen en incorporaciones a vías rápidas",
+      "Con 4,1 kW, las recuperaciones con pasajero o en pendiente se notan contenidas",
+      "La ficha no publica la capacidad de la batería, un dato clave al comparar rivales",
+      "La autonomía declarada caerá si sostienes ritmos altos durante trayectos largos",
+      "Al ser una marca aún poco extendida aquí, conviene confirmar taller cercano antes de comprar",
+      "No consta ABS confirmado en la ficha, detalle a valorar frente a otros scooters urbanos"
     ],
     curiosidades: [
-      "El G5 S sigue a la venta en España en 2026 según el listado oficial de Yadea",
-      "Yadea es líder mundial en scooters eléctricos con decenas de millones vendidos",
-      "Su red española supera los 200 puntos de venta y posventa previstos",
-      "El G5 fue uno de los primeros modelos globales de la marca",
+      "En 2026 continúa dentro del catálogo español de la marca, lo que confirma su continuidad comercial",
+      "Su planteamiento busca al conductor con carnet A1, aunque también recoge validez con B y tres años de experiencia",
+      "A diferencia de un scooter de gasolina, aquí la recarga doméstica forma parte del uso diario gracias a la batería extraíble",
+      "Yadea comparte en España el manual de este modelo con la versión G5 Pro, dentro de la misma familia G5"
     ],
     imagen: "/media/yadea-g5-s-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -3403,6 +3403,25 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       ],
       costeAnualAproxEur: 110,
       fuente: "Manual oficial Yadea España",
+    },
+  
+    mantenimientoDIY: {
+      "aceiteTipo": "No aplica: es eléctrica, sin aceite de motor que cambiar; el manual sí marca sustituir el líquido de frenos cada 2 años",
+      "cadenaPasos": [
+        "Comprueba la presión y el desgaste de ambos neumáticos antes de salir",
+        "Revisa el tacto de las manetas y el estado de pastillas y discos de freno",
+        "Verifica luces, claxon e interruptores de freno en una vuelta rápida al scooter",
+        "Mira el apriete de tuercas y tornillos visibles, con atención a ruedas y dirección",
+        "Inspecciona el conector de carga y el cable del cargador por si hubiera daños",
+        "Si algo no se puede resolver en casa, acude al Servicio de Asistencia Técnica de Yadea"
+      ],
+      "intervaloMantenimiento": "Primera revisión a los 1.000 km o 6 meses; después, cada 5.000 km o anual, lo primero que ocurra, según el manual oficial Yadea del G5 S/G5 Pro",
+      "trucos": [
+        "Para guardarla un tiempo, deja la batería en torno al 50 % en un lugar seco y ventilado",
+        "Si no la usas, recarga la batería 2-3 horas cada 2 meses, tal como indica el manual",
+        "Lávala con detergente neutro y paño suave, evitando agua a presión cerca del compartimento de la batería",
+        "Acorta los intervalos si la usas a diario con sobrecarga, baches o subidas frecuentes"
+      ]
     },
   },
   {
@@ -4402,24 +4421,24 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: ["costeAnualAproxEur"],
     pros: [
-      "100 km/h de punta: el scooter NIU más rápido, apto para rondas",
-      "Asiento 30% más largo que la serie NQi: dos adultos viajan cómodos",
-      "Carga útil de 275 kg: admite pasajero y compra sin problemas",
-      "Pantalla LCD a color personalizable y faro halo de tercera generación",
-      "Conectividad NIU con GPS antirrobo y bloqueo electrónico de dirección",
+      "En esta versión 2026 su punta de 100 km/h le permite salir de la ciudad y rodar por circunvalaciones sin quedarse corto",
+      "Con 8,8 CV y etiqueta Cero se mueve con soltura manteniendo acceso libre a zonas restringidas al tráfico",
+      "Las dos baterías extraíbles de 72 V se recargan en casa en unas 5 horas, sin depender de un garaje con punto fijo",
+      "El cuadro de instrumentos a color se configura a gusto del conductor y el faro con aro luminoso aporta identidad propia",
+      "Lleva localización por GPS y bloqueo electrónico del manillar desde la aplicación, un plus cuando duerme en la calle"
     ],
     contras: [
-      "75 km de autonomía declarada: justa para usarla a diario a ritmo vivo",
-      "4.999 €: se acerca al precio de una 125 de gasolina con más autonomía",
-      "128 kg con baterías: pesado para moverlo en parado",
-      "La segunda batería ocupa el hueco bajo el asiento",
-      "Sin control de tracción ni ABS: frenos con regenerativa y CBS",
+      "Los 75 km declarados se quedan cortos si encadenas varios trayectos largos en un mismo día",
+      "Cuesta 4.999 euros, cifra que ya invita a mirar alternativas térmicas equivalentes con depósitos mucho mayores",
+      "En báscula marca 128 kg, algo que se nota al maniobrar despacio o al aparcar en pendiente",
+      "Bajo el asiento manda la segunda batería, por lo que el espacio para guardar un casco queda muy limitado",
+      "La frenada combinada CBS y la regeneración no compensan la ausencia de ABS y de control de tracción"
     ],
     curiosidades: [
-      "Fue el scooter eléctrico más potente de NIU hasta la llegada de la serie NQiX",
-      "Su motor Bosch de 6,5 kW lo homologa como equivalente a 125",
-      "El modo E-Save estira la autonomía limitando la velocidad a 45 km/h",
-      "NIU lo presentó en el EICMA de Milán junto al prototipo del RQi",
+      "Antes de aparecer la familia NQiX, ningún otro modelo de la casa ofrecía tanta potencia como este Evo",
+      "Su propulsor eléctrico, suministrado por Bosch, entrega 6,5 kW y por eso se homologa en la categoría equivalente a 125",
+      "Con el programa E-Save activado, la velocidad queda limitada a 45 km/h a cambio de exprimir cada carga al máximo",
+      "Su debut tuvo lugar en Milán, durante el salón EICMA, compartiendo escenario con el prototipo RQi de la marca"
     ],
     imagen: "/media/niu-mqi-gt-evo-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -4457,6 +4476,25 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       ],
       costeAnualAproxEur: 110,
       fuente: "Manual oficial Niu España",
+    },
+  
+    mantenimientoDIY: {
+      "aceiteTipo": "No aplica: es un scooter eléctrico, sin aceite de motor que cambiar ni cadena de transmisión que engrasar. En taller solo cabe vigilar líquido de frenos, pastillas y discos según desgaste.",
+      "cadenaPasos": [
+        "Comprueba presión y dibujo de ambos neumáticos; el manual pide verificar la presión cada 1.000 km",
+        "Revisa que ambas manetas frenen con firmeza y observa nivel de líquido y grosor de las pastillas",
+        "Mantén la carga habitual de las dos baterías extraíbles entre el 20 % y el 80 %, usando siempre el cargador original",
+        "Si va a estar parado una temporada, guárdalo en un sitio plano, seco y ventilado con la batería en torno al 50 %",
+        "Límpialo con paño suave y detergente neutro tras extraer la batería, sin agua a presión cerca del compartimento ni del punto de carga",
+        "Acude a un centro oficial NIU en los plazos indicados para conservar la garantía y asegurar recambios originales"
+      ],
+      "intervaloMantenimiento": "Primera revisión obligatoria a los 6 meses o a los 1.000 km, lo que antes ocurra; después, una vez al año o cada 5.000 km, lo que antes ocurra, según el manual de usuario NIU MQi GT. En casa, verificación de la presión de los neumáticos cada 1.000 km.",
+      "trucos": [
+        "Carga en interior entre 10 °C y 35 °C y no dejes la carga conectada más de 24 horas, como advierte el manual",
+        "Si tras 12 horas conectada la batería no completa la carga, contacta con el distribuidor en vez de seguir forzándola",
+        "Activa el modo E-Save cuando necesites estirar los kilómetros que quedan antes de llegar a un enchufe",
+        "Planifica con antelación la visita al concesionario oficial para no saltarte ninguna revisión obligatoria"
+      ]
     },
   },
   {

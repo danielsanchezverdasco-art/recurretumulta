@@ -2716,21 +2716,21 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Tricilíndrico de 90 CV por 6.495 euros",
-      "0 a 100 km/h en 3,9 segundos",
-      "Quickshifter de serie",
-      "Horquilla invertida KYB regulable",
-      "Control de tracción de dos niveles",
+      "Por 6.495 euros ofrece un tres cilindros con 90 CV, combinación que ni la MT-07 ni la Trident 660 igualan en precio",
+      "Su sprint declarado de 3,9 segundos la planta en tiempos propios de naked con más cilindrada, como la Hornet 750",
+      "El cambio rápido para subir marchas viene ya montado de fábrica, sin pasar por la lista de opciones",
+      "Delante monta barras invertidas firmadas por KYB, con reglajes para dejarlas al gusto de cada piloto",
+      "Para contener pérdidas de tracción trasera dispone de una ayuda electrónica con dos niveles de intervención"
     ],
     contras: [
-      "Sin ride-by-wire",
-      "Asiento de 810 mm, alta para tallas bajas",
-      "La versión A2 pierde la mitad de la gracia",
+      "El acelerador va por cable mecánico, así que se queda sin gestión ride-by-wire ni modos de conducción",
+      "Quien sea de talla corta lo notará enseguida: el sillín queda colocado a 810 mm del suelo",
+      "En configuración para el carnet A2, esta naked pierde buena parte del encanto que la hace especial"
     ],
     curiosidades: [
-      "Su tricilíndrico estira hasta las 11.000 rpm con 68 Nm a 8.250.",
-      "Llena el hueco entre la 450NK y la 800NK del catálogo.",
-      "Monta neumáticos semi-slick CST de serie.",
+      "Su bloque de tres cilindros estira el giro hasta las 11.000 rpm y firma 68 Nm cuando el cuentavueltas marca 8.250",
+      "En la gama NK ocupa el escalón intermedio que quedaba libre entre la 450NK pequeña y la 800NK grande",
+      "Sale de fábrica calzada con gomas CST de perfil semi-slick, detalle deportivo raro de ver por este dinero"
     ],
     imagen: "/media/motos/cfmoto-675nk-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -2753,11 +2753,19 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/cfmoto",
     analisisSlug: "cfmoto-675nk-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      cadenaPasos: [
-        "Revisa la tensión de la cadena cada 1.000 km.",
-        "Engrasa la cadena con lubricante de alta adherencia.",
-        "Comprueba el nivel de aceite del tricilíndrico con la moto en vertical.",
+      "aceiteTipo": "Sintético SAE 10W-40, API SN o superior, JASO MA2 (especificación del manual oficial)",
+      "cadenaPasos": [
+        "Comprueba holgura y engrase cada 1.000 km, que es el intervalo que marca el manual para tensión y lubricación.",
+        "Si has rodado bajo la lluvia, revisa el engrase nada más volver, sin esperar al siguiente control programado.",
+        "Limpia primero la suciedad acumulada, aplica lubricante específico y deja que penetre antes de volver a rodar.",
+        "Ajusta la tensión si queda fuera de tolerancia y verifica también el desgaste de piñón y corona cada 10.000 km."
       ],
+      "intervaloMantenimiento": "Primera revisión a los 1.000 km y, después, aceite y filtro cada 5.000 km o 6 meses, lo que llegue antes, según el manual oficial de CFMoto; reglaje de válvulas a los 40.000 km.",
+      "trucos": [
+        "Revisa el nivel por la mirilla con la moto bien vertical y el motor ya asentado tras pararlo.",
+        "Al cambiar el filtro, la capacidad indicada en el manual es de 3,3 litros de aceite.",
+        "Anota cada intervención con fecha y kilómetros: los intervalos por tiempo cuentan aunque ruedes poco."
+      ]
     },
   },
   {

@@ -1548,26 +1548,26 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: [],
     pros: [
-      "115 km de autonomía: de las mejores del segmento equivalente a 125",
-      "4.190 €: bien posicionado por autonomía y equipamiento",
-      "81 kg: ligero y ágil en ciudad",
-      "Pantalla TFT a color y buen nivel tecnológico",
-      "Distribución y servicio oficial en España",
-      "Diseño elegante de scooter europeo",
+      "Puedes recargarla en cualquier enchufe doméstico porque su batería es extraíble y fácil de transportar",
+      "Con la autonomía declarada puedes completar varios días de trayectos urbanos seguidos sin recargar cada noche",
+      "Su peso reducido facilita moverla en parado, aparcar en huecos justos y zigzaguear entre coches",
+      "Se puede conducir con el A1 o sumando tres años de experiencia con el permiso B",
+      "La instrumentación digital en color pone un toque tecnológico poco habitual en scooters urbanos asequibles",
+      "Por su precio de partida, se coloca como alternativa interesante frente a rivales eléctricos urbanos"
     ],
     contras: [
-      "4,1 kW: potencia contenida para salir a carretera",
-      "Sin capacidad de batería publicada",
-      "80 km/h justos para vías rápidas",
-      "Marca con poca implantación aún en España",
-      "Sin ABS confirmado",
-      "La autonomía real a 80 km/h baja bastante",
+      "En autovía o circunvalaciones rápidas, su rendimiento se antoja insuficiente para rodar con soltura",
+      "La potencia disponible obliga a planificar con calma cualquier incorporación a tráfico rápido",
+      "La marca no facilita el dato de capacidad del acumulador, algo que complica comparar consumos",
+      "No consta que equipe ABS, una ausencia que conviene tener presente al frenar sobre firme deslizante",
+      "En nuestro mercado la red comercial de Yadea todavía es joven y está en fase de crecimiento",
+      "Rodando de forma continuada cerca del límite, el alcance útil por carga cae de manera apreciable"
     ],
     curiosidades: [
-      "El G5 S sigue a la venta en España en 2026 según el listado oficial de Yadea",
-      "Yadea es líder mundial en scooters eléctricos con decenas de millones vendidos",
-      "Su red española supera los 200 puntos de venta y posventa previstos",
-      "El G5 fue uno de los primeros modelos globales de la marca",
+      "Su impulsor procede de un gigante asiático especializado en vehículos eléctricos de dos ruedas a escala global",
+      "La saga G5 figura entre las propuestas con las que esta compañía inició su expansión internacional",
+      "Pese a su enfoque ciudadano, está pensada para llevar acompañante en sus desplazamientos habituales",
+      "Desmontar el pack de baterías para cargarlo en casa soluciona el problema de quien aparca en la calle"
     ],
     imagen: "/media/motos/yadea-g5-s-2025-ficha-tecnica-precio-1.webp",
     galeria: [
