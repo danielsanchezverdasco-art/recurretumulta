@@ -91,19 +91,8 @@ export const HISTORIA_EXP21: Record<string, HistoriaModelo> = {
       { anio: 2019, tipo: "lanzamiento", cambio: "segunda generación del RS Q3 y del Q3 Sportback", foto: null },
     ],
   },
-  "audi-sq6-sportback-e-tron-2025-precio-ficha-tecnica": {
-    lanzamiento: 2024,
-    hitos: [
-      { anio: 2024, tipo: "lanzamiento", cambio: "nace el Q6 e-tron sobre plataforma PPE de 800 V", foto: null },
-      { anio: 2025, tipo: "lanzamiento", cambio: "versión Sportback del SQ6 e-tron", foto: null },
-    ],
-  },
-  "audi-s6-e-tron-2025-precio-ficha-tecnica": {
-    lanzamiento: 2024,
-    hitos: [
-      { anio: 2024, tipo: "lanzamiento", cambio: "nace el A6 e-tron eléctrico; la denominación S6 pasa a ser eléctrica", foto: null },
-    ],
-  },
+  "audi-sq6-sportback-e-tron-2025-precio-ficha-tecnica": { lanzamiento: 2024, hitos: [{ anio: 2024, tipo: "lanzamiento", cambio: "En marzo, Audi estrenó mundialmente la familia Q6 e-tron como primer modelo sobre la PPE desarrollada con Porsche, con el SQ6 de 380 kW encabezando inicialmente la oferta del SUV eléctrico.", foto: null }, { anio: 2024, tipo: "lanzamiento", cambio: "El 14 de octubre, en París, llegó esta carrocería Sportback: techo 37 milímetros más bajo, coeficiente 0,26 y un SQ6 como tope, fabricado en Ingolstadt junto al resto de la serie Q6.", foto: null }, { anio: 2024, tipo: "seguridad", cambio: "Ese mismo año, EuroNCAP otorgó cinco estrellas a la familia Q6, con 91 % en adultos y 92 % en menores, resultado extensivo según Audi a Sportback y versiones S.", foto: null }, { anio: 2025, tipo: "comercializacion", cambio: "Los pedidos del Sportback se abrieron entre finales de 2024 y comienzos de 2025, con el SQ6 anunciado desde 96.200 euros en Alemania, situándolo como escaparate deportivo inicial de la plataforma PPE.", foto: null }] },
+  "audi-s6-e-tron-2025-precio-ficha-tecnica": { lanzamiento: 2024, hitos: [{ anio: 2021, tipo: "concepto", cambio: "Audi desveló en Auto Shanghai el A6 e-tron concept, un Sportback casi de serie que anticipó la plataforma PPE, la batería cercana a 100 kWh y la carga a 800 voltios.", foto: null }, { anio: 2024, tipo: "lanzamiento", cambio: "El 31 de julio de 2024 se presentó la familia definitiva y este S6 Sportback e-tron quedó como versión deportiva inicial, con dos motores, tracción total y pedidos abiertos desde septiembre.", foto: null }, { anio: 2025, tipo: "seguridad", cambio: "Euro NCAP probó el A6 e-tron en marzo de 2025 y le concedió cinco estrellas, con un 92 % en protección de ocupantes adultos y un 91 % en infantil.", foto: null }] },
   "audi-q3-sportback-35-tfsi-2026-precio-ficha-tecnica": {
     lanzamiento: 2025,
     hitos: [

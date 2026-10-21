@@ -443,18 +443,18 @@ export const COCHES_CITROEN: CocheComparador[] = [
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
     pros: [
-      "416 km de autonomía WLTP con la batería de 54 kWh (50,8 útiles)",
-      "156 CV y 260 Nm con 0-100 en 9,2 s: el ë-C4 más capaz",
-      "Carga rápida de 100 kW (10-80 % en 30 min) y 11 kW en alterna",
-      "Etiqueta Cero con el mismo maletero (380 L) que el híbrido",
-      "Función V2L: alimenta dispositivos externos con la batería del coche",
+      "Sus 416 km WLTP con 54 kWh bastan para escaparse un fin de semana sin planificar cada parada de carga",
+      "Rodar blando y en silencio: su puesta a punto busca confort, justo lo contrario del tacto firme de un MG4",
+      "Admite 100 kW en corriente continua y suma función V2L para alimentar aparatos con la energía de su batería",
+      "Etiqueta Cero de la DGT, con acceso libre a las zonas de bajas emisiones que ya vetan a la combustión",
+      "Conserva 380 litros de maletero y cinco plazas reales aunque la batería ocupa el piso de esta carrocería compacta",
     ],
     contras: [
-      "Desde 31.390 €: casi 8.000 € más que el C4 Hybrid 136",
-      "150 km/h de velocidad máxima limitada",
-      "14,9 kWh/100 km: eficiente, pero el MG4 gasta menos",
-      "La plataforma CMP nació para combustión: no es un eléctrico nativo",
-      "1.561 kg: se notan en carreteras reviradas",
+      "Parte de 31.390 euros, un salto de precio considerable frente a las versiones híbridas del propio C4",
+      "Velocidad punta recortada a 150 km/h: en viajes largos por autopista se queda antes sin fuelle que sus rivales",
+      "Esos 1.561 kilos aparecen al frenar fuerte y al enlazar curvas cerradas, pese a contar con 156 CV",
+      "Homologa 14,9 kWh/100 km, registro correcto que eléctricos nativos como el Renault Megane E-Tech igualan o mejoran",
+      "Se conforma con cuatro estrellas Euro NCAP de 2021 en un segmento donde lo habitual ya son cinco",
     ],
     largoMm: 4350,
     anchoMm: 1800,
@@ -500,6 +500,18 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 1200
       }
     ],
+    euroncap: {
+      ano: 2021,
+      estrellas: 4,
+      nota: "Euro NCAP probó en 2021 el C4 de tercera generación incluyendo la variante eléctrica ë-C4 con el equipamiento de serie: cuatro estrellas, sin alcanzar el umbral de cinco en ocupante adulto, usuarios vulnerables y asistencias; la detección de ciclistas del AEB era opcional y no formaba parte del coche evaluado.",
+      url: "https://www.euroncap.com/press-media/genesis-marks-european-launch-with-euro-ncap-top-ratings-for-g80-and-gv80/",
+    },
+    planMantenimiento: {
+      intervalo: "En el ë-C4 no hay aceite de motor que cambiar: Citroën programa las revisiones de sus eléctricos cada 2 años o al alcanzar el kilometraje máximo previsto, con diagnóstico electrónico, control del aislamiento entre batería y motor, filtro de habitáculo y estado de frenos y neumáticos. La propia ficha estima unos 350 euros al año de mantenimiento medio, cifra orientativa que conviene confirmar en la red oficial antes de firmar.",
+      revisiones: [],
+      costeAnualAproxEur: null,
+      fuente: "https://www.citroen.es/posventa/servicios/electrico.html",
+    },
   },
   {
     id: "citroen-e-c4-x-2026-precio-ficha-tecnica",

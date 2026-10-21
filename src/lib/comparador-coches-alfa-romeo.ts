@@ -275,18 +275,18 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
-      "280 CV y 0-100 en 6,2 s: el Tonale más rápido y deportivo",
-      "65 km eléctricos WLTP + etiqueta Cero: entra en todas las ZBE",
-      "Tracción total Q4 real (motor eléctrico en el eje trasero)",
-      "Carga completa en 2,5 h con el cargador de 7,4 kW",
-      "5 estrellas Euro NCAP, vigentes tras la actualización de 2025",
+      "El eje trasero lo mueve únicamente su propulsor eléctrico de 90 kW, así que la tracción integral aparece sin árbol de transmisión mecánico intermedio",
+      "Homologa 65 km sin emisiones con cada carga completa y luce etiqueta Cero, margen suficiente para encadenar desplazamientos urbanos entre semana conservando intacta la gasolina",
+      "Frente a alternativas como BMW X1 xDrive30e o Mercedes-Benz GLA 250 e, aporta 280 CV y una punta de 206 km/h con planteamiento claramente prestacional",
+      "Enchufado a 7,4 kW en alterna, su acumulador de 15,5 kWh queda listo en aproximadamente dos horas y media, un gesto viable cada noche en garaje propio",
+      "La batería queda respaldada durante ocho años o 160.000 km hasta el 70 % de capacidad, cobertura que tranquiliza pensando en reventa dentro del mercado usado",
     ],
     contras: [
-      "Maletero reducido a 385 litros por la batería",
-      "1.910 kg: el peso lastra la agilidad en curva",
-      "Desde 47.488 €: se acerca al BMW X1 xDrive30e",
-      "Sin carga rápida en corriente continua",
-      "Si no se carga a diario, el consumo real se dispara",
+      "El hueco bajo el piso recorta el volumen útil hasta 385 litros, quedando 115 litros por debajo del Tonale híbrido ligero de 160 CV",
+      "Sobre la báscula declara 1.910 kg en esta ficha, lastre perceptible al enlazar curvas cerradas pese al empuje disponible en salida",
+      "La tarifa de partida, 47.488 euros, lo sitúa ya mirando de frente a BMW X1 y Mercedes-Benz GLA en sus versiones enchufables equivalentes",
+      "No admite carga en corriente continua: fuera de casa dependerás de postes lentos de alterna, poco prácticos para recuperar autonomía durante viajes largos",
+      "Su gasto homologado de 1,3 l/100 km presupone recargar con frecuencia; sin enchufe cotidiano, el motor térmico asumirá casi todo el trabajo y la ventaja se diluye",
     ],
     largoMm: 4528,
     anchoMm: 1841,
@@ -332,6 +332,18 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    euroncap: {
+      ano: 2022,
+      estrellas: 5,
+      nota: "Cinco estrellas en la prueba de 2022, publicada el 6 de julio de 2022: 83 % en ocupante adulto, 85 % en infantil, 67 % en usuarios vulnerables y 85 % en asistencias a la conducción.",
+      url: "https://www.euroncap.com/press-media/alfa-returns-with-five-star-tonale-amongst-latest-batch-of-euro-ncap-results/",
+    },
+    planMantenimiento: {
+      intervalo: "El manual del propietario programa las revisiones del Plug-in Hybrid Q4 cada 15.000 km o cada año, con diagnosis de la batería de alta tensión en cada visita. Aceite y filtro del 1.3 se renuevan como máximo al cumplir un año, el líquido de frenos cada dos años y la correa, a los 120.000 km o seis años. La ficha estima unos 600 euros anuales de mantenimiento.",
+      revisiones: [],
+      costeAnualAproxEur: null,
+      fuente: "https://carmanuals2.com/alfa-romeo/tonale-2023-manual-del-propietario-123473/page-308/",
+    },
   },
   {
     id: "alfa-romeo-giulia-veloce-280-precio-ficha-tecnica",
@@ -1014,18 +1026,18 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     "cargaRapidaKw": null,
     "etiquetaDgt": "Cero",
     "pros": [
-      "270 CV con etiqueta Cero: el Tonale más potente y eficiente",
-      "61 km eléctricos: el commuting diario sin gastar gasolina",
-      "Tracción total Q4 de serie",
-      "6,6 s en el 0-100: prestaciones de deportivo",
-      "Batería garantizada 8 años o 160.000 km"
+      "Su eje trasero eléctrico aporta tracción integral sin árbol de transmisión, solución distinta a la de un Audi Q3 TFSI e convencional",
+      "Los 61 km homologados en modo eléctrico permiten cubrir desplazamientos laborables entre semana si lo enchufas cada noche en casa",
+      "Etiqueta Cero de la DGT con 270 CV combinados: accede a zonas restringidas donde un BMW X1 de gasolina ya penaliza",
+      "La batería de 15,5 kWh conserva cobertura oficial hasta ocho años o 160.000 km con suelo del 70 % de capacidad",
+      "Con 4,52 metros de largo mantiene cinco plazas reales y aun así firma 6,6 segundos hasta 100 km/h",
     ],
     "contras": [
-      "Desde 46.498 €: el Tonale más caro con diferencia",
-      "Maletero reducido a 385 litros por la batería",
-      "Si no se carga a diario, el consumo real se dispara",
-      "Sin carga rápida en corriente continua",
-      "1.910 kg: se nota el peso en curva"
+      "Por 46.498 euros queda muy cerca de premium alemanes mejor acabados y por encima de enchufables generalistas equivalentes",
+      "El maletero cae a 385 litros, 115 menos que el Tonale diésel de esta gama, y limita equipaje familiar voluminoso",
+      "Pesa 1.910 kg según ficha, un lastre evidente en rotondas enlazadas y en frenadas largas de puerto",
+      "No admite carga rápida en corriente continua, así que recuperar energía durante un viaje exige paradas largas en alterna",
+      "Si olvidas enchufarlo a menudo, su consumo homologado de 3,4 l/100 km deja de describir el gasto real",
     ],
     "largoMm": 4522,
     "anchoMm": 1841,
@@ -1076,7 +1088,19 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
       }
     ],
     "fuenteNombre": "km77.com",
-    "fuenteUrl": "https://www.km77.com"
+    "fuenteUrl": "https://www.km77.com",
+    euroncap: {
+      ano: 2022,
+      estrellas: 5,
+      nota: "Cinco estrellas en 2022 según Euro NCAP; la nota oficial destaca su buen comportamiento en evitación de impactos pese a carecer de airbag central.",
+      url: "https://www.euroncap.com/press-media/alfa-returns-with-five-star-tonale-amongst-latest-batch-of-euro-ncap-results/",
+    },
+    planMantenimiento: {
+      intervalo: "Según el manual del propietario del Tonale Plug-In Hybrid Q4, las revisiones siguen escalones de 15.000 km o un año, lo primero que ocurra. El aceite y su filtro nunca deben superar doce meses, el líquido de frenos se renueva cada dos años y la correa admite máximo 120.000 km o seis años. La ficha estima unos 600 euros anuales de mantenimiento; Mopar comercializa planes Service Care para cerrar ese coste por adelantado.",
+      revisiones: [],
+      costeAnualAproxEur: null,
+      fuente: "https://carmanuals2.com/alfa-romeo/tonale-2023-manual-del-propietario-123473/page-310/",
+    },
   },
   {
     id: "alfa-romeo-giulia-diesel-160-precio-ficha-tecnica",

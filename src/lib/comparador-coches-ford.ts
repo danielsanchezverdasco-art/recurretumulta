@@ -1098,18 +1098,18 @@ export const COCHES_FORD: CocheComparador[] = [
     cargaRapidaKw: 185,
     etiquetaDgt: "Cero",
     pros: [
-      "627 km WLTP: la mayor autonomía de un Ford eléctrico",
-      "Carga rápida de 185 kW: del 10 al 80 % en 26 minutos",
-      "Maletero de 572 L: el más grande de los eléctricos Ford",
-      "286 CV y 545 Nm con tracción trasera",
-      "Diseño coupé con 5 puertas: estilo sin perder practicidad",
+      "627 km WLTP con 77 kWh útiles: supera los 553 km del Cupra Tavascan Endurance, su primo MEB de idéntica potencia",
+      "Homologa 13,8 kWh/100 km, un gasto contenido para un SUV de silueta coupé que declara 2.098 kg en la báscula",
+      "El motor trasero entrega 286 CV y 545 Nm: 6,4 segundos hasta 100 km/h sin necesidad de un segundo motor",
+      "572 litros de maletero pese a la luneta inclinada, además de la consola central MegaConsole de 17 litros citada por Ford",
+      "Su pantalla central SYNC Move de 14,6 pulgadas se desliza arriba y abajo buscando el ángulo cómodo de lectura",
     ],
     contras: [
-      "El nombre Capri genera debate: poco tiene del coupé original",
-      "Comparte plataforma MEB con el Explorer y el ID.4",
-      "4,63 m de largo: más grande de lo que sugiere su estilo",
-      "2.098 kg de peso",
-      "El techo coupé resta altura libre en las plazas traseras",
+      "Desde 44.050 € queda por encima del Tavascan Endurance de 286 CV, que parte de 43.500 € compartiendo plataforma y batería",
+      "Sus 2.098 kg se notan al enlazar curvas cerradas y al detenerlo en bajadas prolongadas de puerto",
+      "Mide 4.634 mm de largo, así que aparcarlo en plazas estándar urbanas exige más maniobras de lo que sugiere su aire de coupé",
+      "La caída del techo hacia la luneta deja la segunda fila justa para adultos altos en viajes largos",
+      "Recuperar el apellido Capri tiene peaje: de coupé ligero pasa a SUV eléctrico sobre la MEB de Volkswagen, la misma base del Explorer y del ID.4",
     ],
     largoMm: 4634,
     anchoMm: 1872,
@@ -1155,6 +1155,12 @@ export const COCHES_FORD: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    planMantenimiento: {
+      intervalo: "Ford fija para el Capri eléctrico un servicio principal cada dos años, sin límite de kilometraje, según su documentación oficial; su plan Ford Protect de cinco años incluye precisamente dos revisiones programadas. Sin aceite de motor, la visita se centra en inspección, filtro de habitáculo, líquido de frenos y chequeo del sistema de alta tensión. La ficha estima unos 280 euros anuales de mantenimiento medio, cifra orientativa no oficial.",
+      revisiones: [],
+      costeAnualAproxEur: null,
+      fuente: "https://www.ford.es/content/dam/guxeu/es/documents/Clientes/Mantenimiento-y-reparaciones/Spanish_low_res.pdf",
+    },
   },
   {
     id: "ford-e-tourneo-custom-2025-precio-ficha-tecnica",
