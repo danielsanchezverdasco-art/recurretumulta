@@ -345,6 +345,44 @@ Revisiones cada 12.000 km o 12 meses tras el rodaje. Mecánica sencilla de bicil
 
 Cuesta <strong>6.699 €</strong>. Compite con la <a href=/motos/honda-cb500-hornet-2025-ficha-tecnica-precio/>Honda CB500 Hornet 2025</a>, la <a href=/motos/ktm-390-duke-2024-ficha-tecnica-precio/>KTM 390 Duke 2024</a> y la <a href=/motos/yamaha-mt-03-2025-ficha-tecnica-precio/>Yamaha MT-03 2025</a>. La Kawasaki destaca por la pantalla TFT y el tacto del bicilíndrico; la Honda, por el par.
 
+## Una Z pequeña con apellidos de familia grande
+
+La letra Z arrastra en Kawasaki una identidad marcada: naked sin carenado, postura adelantada y lenguaje Sugomi de líneas tensas. Esta SE traslada la receta al escalón de acceso sin copiar a la Z900 en tamaño ni exigencia. Frente a su antecesora de 399 cc, el salto a 451 cc busca empuje utilizable, no cifras de escaparate. Su hermana carenada, la <a href=/motos/kawasaki-ninja-500-2024-ficha-tecnica-precio/>Kawasaki Ninja 500 2024</a>, comparte propulsor: protección aerodinámica allí, manillar ancho aquí.
+
+## Qué esconde la parte ciclo cuando se mira despacio
+
+El chasis multitubular de acero explica los 172 kg y la sensación de moto estrecha entre las piernas. Delante trabaja una horquilla de 41 mm y detrás un monoamortiguador con bieletas, solución sencilla que prioriza progresividad urbana. Su único disco delantero de 310 mm parece modesto, pero el conjunto pesa poco y el tacto progresivo ayuda en mojado.
+
+| Elemento | Solución montada en esta SE |
+|---|---|
+| Motor | Bicilíndrico en línea de 451 cc |
+| Potencia y par | 45,4 CV a 9.000 rpm y 42,6 Nm |
+| Chasis | Multitubular de acero |
+| Suspensión delantera | Horquilla de 41 mm |
+| Freno delantero | Disco de 310 mm |
+| Peso y asiento | 172 kg y 785 mm |
+| Depósito y emisiones | 14 litros y 89 g/km de CO2 |
+
+La TFT no aporta caballos, aunque suma notificaciones a la vista y un puerto USB útil tras usar navegación. Contrasta cada cifra en la <a href=/motos/kawasaki-z500-se-2025-ficha-tecnica-precio/>ficha completa de la Z500 SE 2025</a>.
+
+## Rodar con ella entre semana y el domingo por la mañana
+
+En ciudad mandan asiento a 785 mm, peso contenido y entrega suave abajo, sin obligar a jugar con el embrague asistido y antirrebote. En carretera enlaza curvas medias con ritmo alegre; en autopista prolongada, la falta de carenado castiga cuello y hombros, y a dúo los 14 litros obligan a planificar paradas. No la idealices como sportiva: las suspensiones, pensadas para baches cotidianos, se sienten blandas apretando fuerte. Entre semana puedes despejar la cabeza con el <a href=/juego-monos/>juego caza-monos</a> camuflado en algún rincón de esta web.
+
+## Mantenimiento y costes sin humo comercial
+
+Las revisiones quedan cada 12.000 km o 12 meses tras el rodaje, intervalo holgado que reduce visitas al taller. Al ser un bicilíndrico sin soluciones exóticas, lo habitual es previsible: aceite, filtros, pastillas y neumático trasero en medida 150. La garantía es de 2 años ampliable a 4. La promoción GT3 citada en el análisis, con 3 años de mantenimiento y seguro en campañas concretas, debe confirmarse en concesionario: pide por escrito qué incluye.
+
+## El encaje legal dentro del permiso A2
+
+Con 33,4 kW, esta Kawasaki queda bajo el techo de 35 kW del A2: no necesita kit de limitación ni deslimitación posterior. Nace pensada para ese permiso, no es una unidad mayor recortada, y eso simplifica seguro y reventa. Su ficha le asigna etiqueta C de la DGT, relevante en zonas de bajas emisiones, donde conviene comprobar la ordenanza vigente. Si luego quieres más potencia sin salir de la familia, la <a href=/motos/kawasaki-z650-2025-ficha-tecnica-precio/>Kawasaki Z650 2025</a> es el peldaño superior.
+
+## Frente a Hornet, MT-03 y 390 Duke, sin empate diplomático
+
+La <a href=/motos/honda-cb500-hornet-2025-ficha-tecnica-precio/>Honda CB500 Hornet 2025</a> cuesta 6.850 € con 47 CV, pero pesa 188 kg, dieciséis más. La <a href=/motos/yamaha-mt-03-2025-ficha-tecnica-precio/>Yamaha MT-03 2025</a> baja a 6.499 € y 168 kg, a cambio de 42 CV desde 321 cc y pantalla LCD sencilla. La <a href=/motos/ktm-390-duke-2024-ficha-tecnica-precio/>KTM 390 Duke 2024</a> pide 6.399 € por 45 CV y 165 kg, con un monocilíndrico de carácter muy distinto. La SE, a 6.699 €, no gana por potencia ni por ligereza extrema: gana por equilibrio entre motor lleno, peso razonable y conectividad real.
+
+**Veredicto:** acierta de pleno si estrenas el A2 y quieres quedarte varios años sin echar en falta pantalla, USB ni margen en carretera. No es tu compra si manda el presupuesto y te basta la Z500 estándar, si buscas la naked más picante del segmento o si haces autopista a dúo cada fin de semana.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta la Kawasaki Z500 SE 2025?
@@ -365,7 +403,7 @@ Sí, sin limitación: tiene 45,4 CV y el límite son 47,6 CV.
 ### ¿Qué garantía tiene?
 2 años oficiales, ampliables a 4 con la Garantía Plus.
 
-*Fuentes:*
+*Fuentes:, <a href=https://www.kawasaki.es/es_es/Motorcycles/Supernaked.html>Kawasaki España</a>*
 - <a href=https://foromotos.net/threads/ficha-técnica-kawasaki-z500-se-2025.13151/>ForoMotos — Ficha técnica Kawasaki Z500 SE 2025</a>
 - <a href=https://www.motorbikemag.es/ficha-tecnica/kawasaki-z500-2024/>Motorbikemag — ficha técnica Kawasaki Z500</a>
 

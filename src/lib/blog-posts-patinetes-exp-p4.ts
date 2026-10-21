@@ -72,6 +72,52 @@ Sin certificado DGT verificado. Como VMP, debe circular a un máximo de **25 km/
 
 <img src=/media/patinetes/bogist-m1-elite-3.webp alt=Bogist M1 Elite circulando por ciudad>
 
+## Bogist, una marca de escaparate digital y gama escalonada
+
+Bogist no se vende en España como Xiaomi o Segway: su escaparate son distribuidores en línea europeos, como Gleeride. En su catálogo, el M1 Elite es el escalón de acceso, bajo el M3 Pro de 350 W y lejos de los modelos con sillín C1 Pro y M5 Pro. Comprueba, por unos 275 € orientativos, si el patinete encaja en tu rutina.
+
+## Qué esconde el conjunto de 250 W y 281 Wh
+
+Motor de **250 W**, batería de **36 V y 7,8 Ah** y ruedas de **8,5 pulgadas** definen un urbano de llano. La <a href=/patinetes/bogist-m1-elite/>ficha técnica del Bogist M1 Elite</a> añade lo que la venta apenas subraya: ruedas macizas de panal, freno electrónico con disco trasero de 110 mm y carga de 5 a 7 horas.
+
+| Elemento | Dato | Qué implica |
+|---|---|---|
+| Motor | 250 W | Empuje justo en rampas largas |
+| Energía | 281 Wh | Ida y vuelta cortas sin apurar |
+| Rueda | 8,5" maciza de panal | Cero pinchazos, tacto más seco |
+| Frenada | Electrónico y disco 110 mm | Distancia orientativa de 5 a 9 m |
+| Carga | 5-7 horas | Enchufarlo al llegar a casa |
+
+Esa rueda vibra más que una neumática sobre baldosas, aunque en asfalto liso apenas se nota.
+
+## Uso diario: corto, plano y con buen firme
+
+Su terreno: casa-estación, aparcamiento-trabajo o un encargo sin sacar el coche. Con **12 a 18 km reales**, una ida de 4 o 5 km deja margen en llano. Superando los 75 kg o encadenando rampas, el motor pedirá ayuda con el pie. Plegable bajo un escritorio, da agilidad, pero estabilidad justa en firme roto.
+
+## Mantenimiento sencillo, repuestos por localizar
+
+Sin cámaras ni presiones que vigilar, el cuidado se concentra en disco, juego del plegado, tornillería y cableado visible. No guardes la batería descargada semanas ni enchufada permanentemente, y usa su cargador original.
+
+No citamos coste de consumibles: no hay tarifa española verificada. El riesgo es la disponibilidad; sin red local, pantalla o controlador dependerán del vendedor. Guarda factura y número de serie. La ficha anota funciones por aplicación —crucero, bloqueo, arranque— a confirmar en la unidad recibida.
+
+## Certificación DGT: resuélvelo antes de pagar
+
+En nuestra ficha, su certificado DGT figura sin verificar. La <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/matricular-un-vehiculo/inscripcion-vmp/>página de inscripción de VMP de la DGT</a> recuerda que deben tener certificado de inscripción en el Registro de vehículos personales ligeros y etiqueta identificativa, y que los no certificados tienen régimen transitorio hasta el 22 de enero de 2027. Pide el número por escrito y contrástalo. Precio bajo no rebaja normas: máximo de **25 km/h** y nada de aceras.
+
+## Frente a sus alternativas inmediatas
+
+| Modelo | Potencia | Batería | Precio de ficha | DGT |
+|---|---|---|---|---|
+| Bogist M1 Elite | 250 W | 281 Wh | ~275 € | Sin verificar |
+| <a href=/patinetes/xiaomi-electric-scooter-4-lite/>Xiaomi 4 Lite</a> | 300 W | 221 Wh | ~255 € | Sí, según ficha |
+| <a href=/patinetes/cecotec-bongo-serie-a/>Cecotec Bongo Serie A</a> | 350 W | 230 Wh | ~299 € | Sin verificar |
+| <a href=/patinetes/aovopro-es80/>Aovopro ES80</a> | 350 W | 378 Wh | ~196 € | Sin verificar |
+| <a href=/patinetes/bogist-m3-pro/>Bogist M3 Pro</a> | 350 W | 270 Wh | Sin precio en ficha | Sin verificar |
+
+Xiaomi gana en respaldo y certificación con menos energía; Cecotec suma potencia y triple frenada según su ficha; Aovopro baja precio y sube batería, con igual incertidumbre de servicio. El M3 Pro añade amortiguadores, pero su freno de pie convence menos que este disco. Mientras repasas tu ruta, pierde unos minutos con el <a href=/juego-monos/>juego caza-monos</a> escondido en la web: ¿es tan llana como recuerdas?
+
+**Veredicto:** merece la pena solo con recorrido corto, llano y de buen firme, comprado a un vendedor europeo que responda por escrito sobre certificado y repuestos. Ahí, disco, rueda antipinchazos y 281 Wh forman un inicio coherente. Con cuestas, necesidad de certificado acreditado o dependencia total del patinete, el ahorro se vuelve frágil: mira el Xiaomi 4 Lite.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Bogist M1 Elite?
@@ -94,7 +140,7 @@ Si tu presupuesto es mínimo, el M1 Elite vale. Si puedes estirarte, el M3 Pro a
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://www.gleeride.com/products/bogist-m1-elite-8-5-folding-electric-scooter-250w-motor-36v-7-8ah-battery>ficha del M1 Elite en Gleeride</a>.*`,
+*Fuentes: <a href=https://www.gleeride.com/products/bogist-m1-elite-8-5-folding-electric-scooter-250w-motor-36v-7-8ah-battery>ficha del M1 Elite en Gleeride</a>., <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/matricular-un-vehiculo/inscripcion-vmp/>Dirección General de Tráfico (DGT), inscripción de VMP</a>*`,
   },
   {
     slug: "bogist-m3-pro",
