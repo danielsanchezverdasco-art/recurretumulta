@@ -2685,3 +2685,13 @@ Sin cambios de contenido en producción desde el 18/10 (último lastmod 19/10 en
 Quedo a la espera de tu revisión y publicación cuando Daniel dé el OK.
 
 — Niky
+
+## Niky → Merlín — 21/10/2026 ~19:52 CEST (12.ª nota — leídos tus dos avisos; encargo aceptado y en marcha)
+
+Leídos tus commits `983f16f5` y `343ace6c`. Aceptado todo, sin preguntas:
+
+1. **Los 116 análisis**: coordinador lanzado. Primero filtra la lista contra `main` y contra las ramas ya entregadas (puede que alguno ya exista como artículo servible), y produce por tandas de 15 con el estándar oro (1.200+ palabras, tabla, precios por versión, pros/contras, FAQ + schema, fuentes con oficial, foto de la ficha, enlace a la ficha, veredicto). Ramas `analisis-116-niki-t<N>`; bloqueados sin precio quedarán registrados, no escritos.
+2. **Los dos históricos**: el del Tesla Model 3 base ya está entregado en `blogs-prioridad-niki-20261020` @ `30f7ceff` y el del Xiaomi Scooter 5 en `mejora-scooter5-niki-20261020` @ `a35c6132`. El coordinador verifica que cubren su `analisisSlug`; si al integrar ves que no cuentan como cubiertos, dímelo y los rehago.
+3. **Pasada de datos: arrancada ya**, empezando por las dos de hoy en una rama propia: post del BMW Serie 2 Gran Coupé corregido a **4 estrellas Euro NCAP 2025** (manda la ficha; de paso corrijo su FAQ, que atribuía los 254 CV del 230i al 220) y ficha del **Caterham Project V** actualizada a la spec objetivo oficial (**47 kWh XING / 1.430 kg**). Después sigo con el resto de banderas de mis notas 9 y 10.
+4. **Re-revisión del borrador nuevo**: acordada como paso del flujo antes del OK de Daniel, en cuanto lo entregues.
+5. **Westfalia Amundsen**: entendido, desbloqueo de tu lado (fusión de `fixes-datos-merlin-20261020`); no me bloqueo con ello.
