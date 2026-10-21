@@ -1577,18 +1577,18 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde", "largoMm", "anchoMm", "altoMm"],
     pros: [
-      "SUV coupé de 4,71 m con 2.0 turbo de 211 CV y 325 Nm",
-      "Diseño deportivo con caída de techo coupé: el Haval más atractivo",
-      "Versión híbrida de 243 CV combinados disponible",
-      "Interior tecnológico con doble pantalla",
-      "Precio muy competitivo en los mercados donde se vende",
+      "Es la carrocería coupé del H6 de tercera generación, presentada en Chengdu en agosto de 2021 sobre la plataforma Lemon de GWM",
+      "Su motor GW4N20 2.0 turbo entrega los 211 CV y 325 Nm de esta ficha con un DCT húmedo de siete marchas y un 0 a 100 oficial de 6,8 segundos en China",
+      "La versión DHT suma un 1.5 turbo y un motor eléctrico hasta 243 CV y 530 Nm conjuntos, alimentados por una batería de solo 1,8 kWh",
+      "Lenguaje de diseño 'black shark', spoiler de cola y asientos deportivos integrados de tipo racing para separarse del H6 de portón recto",
+      "Se lanzó en China el 30 de octubre de 2021 en cinco versiones entre 138.900 y 164.900 yuanes; fuera se vende rebautizado como H6 GT"
     ],
     contras: [
-      "Haval no vende oficialmente en España",
-      "La caída del techo penaliza la habitabilidad trasera",
-      "Sin etiqueta ECO en la versión gasolina",
-      "Consumos WLTP no publicados para Europa",
-      "Maletero sin cifra oficial",
+      "Comprarlo en España significa importarlo: GWM no vende Haval oficialmente aquí, así que garantía, homologación y recambios quedan fuera de una red española",
+      "La caída coupé del techo resta altura para la cabeza en las plazas traseras frente al H6 convencional, que comparte su batalla de 2.738 mm",
+      "Sin nota europea de choque: Euro NCAP no lo ha probado y las cinco estrellas que luce el GT son de ANCAP Australia, obtenidas en 2022 con su protocolo",
+      "Esta versión de gasolina va sin hibridar: no le corresponde etiqueta ECO de la DGT y GWM no publica para ella un consumo WLTP europeo",
+      "Las pruebas chinas de su lanzamiento señalaron una suspensión demasiado blanda, con sacudidas en badenes que chocan con su imagen de coupé deportivo"
     ],
     imagen: "/media/haval-h6s-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/haval-h6s-2025-precio-ficha-tecnica-oficial.webp",
@@ -1600,14 +1600,23 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       { src: "/media/haval-h6s-2025-precio-ficha-tecnica-oficial.webp", alt: "Haval H6S, SUV coupé", ancho: 1600, alto: 900 },
       { src: "/media/haval-h6s-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Haval H6S", ancho: 1600, alto: 900 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: {
+      "estrellas": null,
+      "ano": null,
+      "url": null,
+      "nota": "Sin datos EuroNCAP: el H6S no consta probado por Euro NCAP; su nota de cinco estrellas de 2022 es de ANCAP (Australia)"
+    },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
-      revisiones: [
-        { nombre: "Revisión anual / 15.000 km", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección general", costeAproxEur: null },
+      "intervalo": "Cada 15.000 km recorridos o cuando se cumpla un año, para el 2.0 turbo del H6S",
+      "revisiones": [
+        {
+          "nombre": "Visita anual del H6S 2.0 turbo",
+          "queSeCambia": "Aceite nuevo para el motor GW4N20 con su filtro, filtro del habitáculo renovado y repaso de frenos, niveles y del cambio DCT de siete marchas",
+          "costeAproxEur": null
+        }
       ],
-      costeAnualAproxEur: null,
-      fuente: "Estándar de mantenimiento GWM/Haval (modelo no comercializado en España)",
+      "costeAnualAproxEur": null,
+      "fuente": "Cadencia de servicio publicada para el H6 GT en Australia, el H6S con su nombre de exportación; GWM no opera en España"
     },
   },
 ];

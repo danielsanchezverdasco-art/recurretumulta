@@ -138,9 +138,9 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
     contras: [
       "2.112 kg de peso: se notan en consumo y agilidad",
       "La autonomía eléctrica real ronda los 160 km, no los 200 WLTP",
-      "Marca aún poco conocida en España; red de servicio en construcción",
+      "Red española todavía corta frente a BMW o Mercedes: Lynk & Co está sumando concesionarios para el 08 y gran parte de la compra y la gestión pasa por su web y sus Clubs",
       "Velocidad máxima limitada a 185 km/h",
-      "Solo tracción delantera y dos acabados cerrados (Core/More)",
+      "Solo tracción delantera y dos acabados cerrados (Core/More)"
     ],
     largoMm: 4820,
     anchoMm: 1915,
@@ -156,15 +156,15 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
     imagen: "/media/lynk-co-08-phev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
-      "costeEnergia100km": 5.0,
-      "seguroTercerosAnual": 500,
-      "seguroAmpliadoAnual": 950,
-      "mantenimientoAnual": 450,
+      "costeEnergia100km": 5,
       "costeMensualTotal": 179,
-      "precioKwh": 0.18,
+      "estimado": true,
+      "mantenimientoAnual": 450,
+      "notas": "Cálculo pensado para este 08 concreto: recorrer 15.000 km al año apoyándose en su batería de 39,6 kWh y en sus 200 km eléctricos WLTP, de forma que seis de cada diez kilómetros salgan del enchufe y no del depósito. Los importes de póliza y de taller son referencias orientativas para un SUV D enchufable de 345 CV y 2.112 kg, sin ayudas descontadas",
       "precioGasolinaL": 1.85,
-      "notas": "estimado: 15.000 km/año, 60 % de los km en modo eléctrico; seguro y mantenimiento orientativos del segmento D-SUV; sin contar ayudas",
-      "estimado": true
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 950,
+      "seguroTercerosAnual": 500
     },
     galeria: [
       {
@@ -186,6 +186,24 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
         "alto": 800
       }
     ],
+    euroncap: {
+      "ano": 2025,
+      "estrellas": 5,
+      "nota": "Calificación publicada el 08/09/2025, aplicable a los PHEV Core y More 4x2 de esta ficha: 90 % en ocupante adulto, 87 % en ocupante infantil, 78 % en usuarios vulnerables y 81 % en ayudas a la conducción",
+      "url": "https://www.euroncap.com/en/results/lynk+%26+co/08/56198"
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Lynk & Co, dossier de prensa oficial del 08 (Press Kit 08): visitas programadas bienales o a los 30.000 km, adelantadas a los 20.000 km cuando predomina el motor térmico; sin coste publicado para España",
+      "intervalo": "Al cumplirse dos años o al llegar a los 30.000 km, lo primero que se alcance; si el uso principal es con el motor de combustión, la visita se adelanta a los 20.000 km",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión programada del 08 / 24 meses o 30.000 km",
+          "queSeCambia": "Visita de mantenimiento programado prevista en el dossier oficial del modelo para su gasolina 1.5 y su sistema EM-P de 39,6 kWh; Lynk & Co no publica en abierto el desglose de operaciones de esa visita ni un precio cerrado para España, así que no se le asigna coste"
+        }
+      ]
+    },
   },
   {
     id: "lynk-co-03-2025-precio-ficha-tecnica",

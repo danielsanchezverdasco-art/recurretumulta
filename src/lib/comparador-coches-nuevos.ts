@@ -8565,15 +8565,35 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   {
     id: "lexus-lbx-2024-precio-ficha-tecnica",
     mantenimientoDIY: {
-        resetAceiteTitulo: "Resetear aviso de cambio de aceite",
-        resetAceitePasos: ["Con la puerta cerrada y SIN pisar el freno, pulsa dos veces el botón de arranque hasta que el cuadro de instrumentos se encienda (modo ON).", "Con los botones de la parte derecha del volante, navega por la pantalla multifunción hasta el icono del engranaje (Ajustes).", "Entra en 'Vehicle Settings' manteniendo pulsado OK.", "Desplázate hasta 'Oil Maintenance' o 'Mantenimiento programado' y entra con OK.", "Selecciona 'Yes' / 'Sí' cuando pregunte si quieres reiniciar los datos y confirma con OK hasta que aparezca el mensaje de confirmación.", "Apaga el contacto. El aviso queda reiniciado."],
-        resetAceiteNota: "El reset solo apaga el aviso: realiza siempre el cambio de aceite y filtro antes de reiniciarlo.",
-        intervaloMantenimiento: "15.000 km o 12 meses (lo que ocurra primero)",
-        filtroPolenUbicacion: "Detrás de la guantera",
-        filtroPolenPasos: ["Abre la guantera y vacíala por completo.", "Desengancha el amortiguador lateral derecho de la guantera.", "Aprieta ambos laterales de la guantera hacia dentro para soltar los topes y déjala bajar del todo.", "Localiza la tapa rectangular del filtro detrás de la guantera y suelta sus pestañas laterales.", "Extrae el filtro viejo anotando su orientación y coloca el nuevo respetando la flecha de flujo de aire.", "Recoloca la tapa, sube la guantera y reconecta el amortiguador."],
-        filtroAirePasos: ["Abre el capó y localiza la caja del filtro de aire en el vano motor.", "Suelta los clips metálicos (o tornillos, según versión) de la tapa de la caja.", "Levanta la tapa y extrae el filtro viejo anotando su orientación.", "Limpia el interior de la caja, coloca el filtro nuevo y cierra la tapa fijando los clips.", "Cierra el capó."],
-        videoTutorialUrl: "https://www.youtube.com/watch?v=0REid2nxu2Q",
-        videoTutorialTitulo: "Yaris Cross cabin filter | The World is a Vampire",
+      "filtroAirePasos": [
+        "Con el motor frío y el LBX apagado, abre el capó y busca la caja negra del filtro junto al bloque 1.5.",
+        "Libera los clips que cierran su tapa superior —en algunas unidades van con tornillos— y levántala sin forzar el conducto.",
+        "Retira el elemento filtrante usado observando cómo encaja dentro de la caja para repetir esa orientación.",
+        "Aspira o sacude la suciedad acumulada en el fondo, asienta el filtro nuevo y baja la tapa.",
+        "Bloquea de nuevo los clips, comprueba que no queda ninguna holgura y cierra el capó del LBX."
+      ],
+      "filtroPolenPasos": [
+        "Vacía por completo la guantera del lado del acompañante y retira cualquier objeto pesado de su interior.",
+        "Suelta el pequeño amortiguador que frena la caída de esa guantera, anclado en su costado derecho.",
+        "Presiona ambos tabiques laterales hacia el centro hasta liberar los topes y deja que el cajón se descuelgue.",
+        "Justo detrás aparecerá una tapa alargada: abre sus dos pestañas y quedará visible el cartucho del filtro.",
+        "Saca el cartucho usado fijándote en hacia dónde apunta su flecha impresa e introduce el recambio en idéntica posición.",
+        "Cierra la tapa, vuelve a colgar la guantera en sus topes y engancha otra vez su amortiguador lateral."
+      ],
+      "filtroPolenUbicacion": "Oculto tras la guantera del acompañante",
+      "intervaloMantenimiento": "Cada 15.000 km recorridos o cada año natural, lo primero que se cumpla",
+      "resetAceiteNota": "Este borrado únicamente apaga el recordatorio luminoso: cambia antes el aceite y su filtro en el bloque 1.5, nunca al revés.",
+      "resetAceitePasos": [
+        "Estaciona el LBX, cierra todas las puertas y, sin tocar el pedal de freno, presiona dos veces seguidas el botón Power hasta iluminar el cuadro digital.",
+        "Mueve el cursor con las flechas del lado derecho del volante hasta dejar seleccionado el engranaje de configuración en la pantalla multifunción.",
+        "Mantén apretada la tecla OK del volante para desplegar el apartado Vehicle Settings del menú principal.",
+        "Baja por ese listado hasta localizar la línea Oil Maintenance —o su equivalente Mantenimiento programado— y accede pulsando OK.",
+        "Cuando el sistema pregunte por el reinicio de los datos de aceite, marca la opción afirmativa y valida de nuevo con OK.",
+        "Espera el mensaje final de confirmación en el cuadro y apaga después el sistema híbrido del LBX."
+      ],
+      "resetAceiteTitulo": "LBX híbrido: cómo borrar el aviso de aceite tras la revisión",
+      "videoTutorialTitulo": "Yaris Cross cabin filter | The World is a Vampire",
+      "videoTutorialUrl": "https://www.youtube.com/watch?v=0REid2nxu2Q"
     },
     marca: "Lexus",
     modelo: "LBX",
@@ -8603,19 +8623,19 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     emisionesCo2: 102,
     aprox: ["bateriaKwh"],
     pros: [
-      "El Lexus más barato: premium desde 33.900 €",
-      "Su 1.5 híbrido de 136 CV homologa 4,5 l/100 km y emite 102 g/km de CO₂",
-      "Etiqueta ECO: entra en la ciudad sin restricciones",
-      "Interior con calidad y materiales de verdadero premium",
-      "Maniobra de esquiva superada a 75 km/h: muy seguro",
-      "Cambio e-CVT suave, ideal para moverse por ciudad"
+      "Es el Lexus de menor tamaño y precio: la gama española arranca en 33.900 €",
+      "El tricilíndrico 1.5 híbrido firma 4,5 l/100 km homologados con 102 g/km de CO₂",
+      "Puesto de conducción Tazuma con cuadro digital de 12,3 pulgadas y Lexus Link Connect de 9,8",
+      "Euro NCAP le otorgó cinco estrellas en 2024, con un 82 % en protección de adultos",
+      "Su distintivo ECO de la DGT permite acceder a las zonas de bajas emisiones sin las limitaciones de un gasolina convencional",
+      "Asientos situados 1,5 cm más abajo que en su primo Yaris Cross: la postura recuerda a un turismo"
     ],
     contras: [
-      "Maletero de solo 332 L",
-      "Plazas traseras justas para adultos altos",
-      "136 CV: prestaciones contenidas, 0-100 en 9,2 s",
-      "El motor se vuelve ruidoso cuando se le exige",
-      "Las versiones altas rozan los 47.000 €",
+      "Con 332 litros, el maletero queda por debajo de los 397 que ofrece el Yaris Cross del que deriva",
+      "La segunda fila es la zona menos generosa: espacio justo cuando viajan adultos altos",
+      "Los acabados Cool y Omotenashi alcanzan 47.000 €, territorio ya de SUV premium de mayor tamaño",
+      "Al pedirle una aceleración sostenida, el conjunto e-CVT eleva mucho el régimen y el motor se hace notar en cabina",
+      "Sus 136 CV mueven los 1.275 kg con soltura en ciudad, pero el paso de 0 a 100 km/h se va a 9,2 segundos"
     ],
     imagen: "/media/lexus-lbx-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/lexus-lbx-2024-precio-ficha-tecnica-oficial.webp",
@@ -8628,7 +8648,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     euroncap: {
       "ano": 2024,
       "estrellas": 5,
-      "nota": "5 estrellas Euro NCAP (2024): 82 % ocupantes adultos, 83 % infantil, 79 % usuarios vulnerables y 76 % asistencias a la seguridad. Variante probada: LBX Hybrid 1.5 gasolina.",
+      "nota": "Cinco estrellas en la prueba de 2024: 82 % en ocupantes adultos, 83 % en protección infantil, 79 % en usuarios vulnerables de la vía y 76 % en sistemas de asistencia. Unidad ensayada: LBX híbrido 1.5 de gasolina.",
       "url": "https://www.euroncap.com/en/results/lexus/lbx/53408"
     },
   },

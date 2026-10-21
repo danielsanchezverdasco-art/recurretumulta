@@ -3709,16 +3709,16 @@ export const COCHES_EXP22: CocheComparador[] = [
     emisionesCo2: 150,
     aprox: ["precioDesde", "potenciaCv", "maleteroL", "ceroCien", "velocidadMax", "largoMm", "anchoMm", "altoMm", "consumo", "parNm", "emisionesCo2"],
     pros: [
-      "1.5 turbo de 177 CV con 0-100 en 7,9 s",
-      "SUV compacto ágil de 4,38 m",
-      "Diseño atractivo y juvenil",
-      "Geely vuelve a España con red oficial",
+      "Su 1.5 tricilíndrico turbo, codesarrollado por Geely y Volvo, entrega 177 CV y 255 Nm: mucho empuje para un SUV de segmento B",
+      "Tarda 7,9 segundos en el 0 a 100 km/h y declara 195 km/h de punta: registros más de compacto deportivo que de crossover urbano",
+      "Es el Binyue chino de 2018 con nombre de exportación: en Malasia su misma base BMA se vende como Proton X50",
+      "Formato manejable de 4,38 m con cinco plazas y etiqueta C de la DGT, apto para entrar en las ZBE sin ser híbrido"
     ],
     contras: [
-      "Precio en España aún sin confirmar",
-      "Maletero de 330 litros, justo",
-      "Sin prueba EuroNCAP publicada",
-      "Marca en relanzamiento europeo",
+      "El equipaje manda poco aquí: 330 litros de maletero para una carrocería de 4,38 m dejan corto al Coolray como coche único familiar",
+      "En España no se ha localizado precio oficial suyo: Geely presentó aquí en 2026 el Starray EM-i y el E5, y este gasolina no estaba en ese desembarco",
+      "Sin ensayo de Euro NCAP publicado para el Coolray: nadie puede citar sus estrellas porque esa prueba no consta en euroncap.com",
+      "La Geely española que lo respaldaría aún está desplegando su red —50 puntos anunciados rumbo a 80 a finales de 2026— y su garantía Care+ se anunció para su gama electrificada, no para este modelo"
     ],
     imagen: "/media/geely-coolray-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/geely-coolray-2025-precio-ficha-tecnica-oficial.webp",
@@ -3728,15 +3728,15 @@ export const COCHES_EXP22: CocheComparador[] = [
     videoCanal: null,
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 10.89,
-      seguroTercerosAnual: 450,
-      seguroAmpliadoAnual: 820,
-      mantenimientoAnual: 450,
-      costeMensualTotal: 242,
-      precioKwh: 0,
-      precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
-      estimado: true,
+      "costeEnergia100km": 10.89,
+      "costeMensualTotal": 242,
+      "estimado": true,
+      "mantenimientoAnual": 450,
+      "notas": "Estimación propia de esta versión: el litro a 1,65 € y un gasto homologado de 6,6 l/100 km dejan el combustible en 10,89 € por cada 100 km recorridos; seguros, mantenimiento e impuesto son importes orientativos que dependen del conductor y del ayuntamiento donde se matricule",
+      "precioGasolinaL": 1.65,
+      "precioKwh": 0,
+      "seguroAmpliadoAnual": 820,
+      "seguroTercerosAnual": 450
     },
     euroncap: {
       estrellas: null,
@@ -3745,13 +3745,21 @@ export const COCHES_EXP22: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no probado",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
-      revisiones: [
-        { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección de 30 puntos", costeAproxEur: 190 },
-        { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 290 },
-      ],
-      costeAnualAproxEur: 230,
-      fuente: "Plan oficial Geely España",
+      "costeAnualAproxEur": 230,
+      "fuente": "Plan oficial Geely España",
+      "intervalo": "Cada año como máximo, o al cumplir 15.000 km si se llega antes a ese kilometraje",
+      "revisiones": [
+        {
+          "costeAproxEur": 190,
+          "nombre": "Revisión 15.000 km / 12 meses",
+          "queSeCambia": "En el 1.5 turbo se renuevan aceite y su filtro, se monta filtro de polen nuevo y se revisan 30 puntos de control del coche"
+        },
+        {
+          "costeAproxEur": 290,
+          "nombre": "Revisión 30.000 km / 24 meses",
+          "queSeCambia": "A lo ya hecho en la primera visita se suman un filtro de aire del motor nuevo y la sustitución del líquido del circuito de frenos, si el plan lo marca para esta revisión"
+        }
+      ]
     },
   },
 ];

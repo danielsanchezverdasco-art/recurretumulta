@@ -863,18 +863,18 @@ export const COCHES_WULING: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
-      "Monovolumen eléctrico de 7 plazas con 500 km de autonomía",
-      "Batería de 60 kWh con carga rápida: 200 km en 15 minutos",
-      "Consumo de solo 13,6 kWh/100 km",
-      "Puertas traseras correderas: primicia en el segmento",
-      "Más largo que un Honda Odyssey (4,91 m)",
+      "Siete plazas reales en formato 2+2+3, con pasillo central de 230 mm para llegar a la tercera fila sin desplazar la segunda",
+      "Batería MAGIC LFP de 60 kWh con carga 2C: recarga entre el 30 % y el 80 % en veinte minutos y anuncia 500 km CLTC por 109.800 yuanes en China",
+      "Puertas correderas en ambos lados con los raíles escondidos bajo la línea de ventanillas, algo inédito en un monovolumen de este precio",
+      "Con la tercera fila abatida el maletero llega a 1.202 litros, y entre la segunda y la tercera fila suma cuatro anclajes ISOFIX",
+      "Suspensión trasera independiente y 13,6 kWh/100 km homologados: cifras de turismo en un monovolumen de 4,91 metros de largo"
     ],
     contras: [
-      "No se vende oficialmente en España",
-      "136 CV para un monovolumen de 7 plazas: justos",
-      "Peso y prestaciones no publicados en detalle",
-      "Red de servicio inexistente fuera de China",
-      "Sin bomba de calor confirmada",
+      "No tiene homologación ni venta oficial en Europa: solo se comercializa en China y, con el nombre de Cortez Darion, en Indonesia",
+      "Los 500 km de autonomía son del ciclo CLTC chino, más permisivo que el WLTP, así que la cifra útil en autovía será claramente menor",
+      "100 kW y 200 Nm mueven 1.810 kg y hasta siete ocupantes: el 0 a 100 km/h se queda en 12,2 segundos",
+      "La gama eléctrica china se limita al acabado Luxury de 109.800 yuanes, sin una versión EV más barata que sirva de acceso",
+      "Sin red europea de Wuling, cualquier recambio de carrocería o de la batería MAGIC dependería de importarlo desde Asia, con sus plazos"
     ],
     largoMm: 4910,
     anchoMm: 1850,
@@ -890,16 +890,15 @@ export const COCHES_WULING: CocheComparador[] = [
     imagen: "/media/wuling-starlight-730-ev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 2.45,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.6,
-      seguroTercerosAnual: 450,
-      seguroAmpliadoAnual: 840,
-      mantenimientoAnual: 300,
-      costeMensualTotal: 126,
-      notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
-      estimado: true,
+      "costeEnergia100km": 2.45,
+      "costeMensualTotal": 126,
+      "estimado": true,
+      "mantenimientoAnual": 300,
+      "notas": "Coste calculado para este 730 EV: con su consumo homologado de 13,6 kWh/100 km, cargar en casa a 0,18 €/kWh sale a 2,45 € cada 100 km. El seguro a todo riesgo de 840 € al año es una estimación española para un monovolumen eléctrico de 136 CV que hoy no se vende aquí, no una tarifa publicada por Wuling.",
+      "precioGasolinaL": 1.6,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 840,
+      "seguroTercerosAnual": 450
     },
     galeria: [
       {
@@ -922,6 +921,29 @@ export const COCHES_WULING: CocheComparador[] = [
       },
     ],
     analisisSlug: "wuling-starlight-730-ev-2025-precio-ficha-tecnica",
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: modelo no probado",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Wuling Motors Indonesia, nota oficial de postventa del Darion (Starlight 730) EV del 5/11/2025: coste total publicado solo en rupias para Indonesia (3,4 millones IDR hasta 55.000 km o 5,5 años), sin equivalente oficial en euros; por eso costeAproxEur queda en null",
+      "intervalo": "Primera revisión al cumplir 5.000 km; a partir de ahí, una cada 10.000 km",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Primera revisión / 5.000 km",
+          "queSeCambia": "Inspección inicial del Darion EV (el Starlight 730 fuera de China) según el manual del propietario; el plan periódico de Wuling para este EV trabaja sobre aceite del reductor, filtro del aire acondicionado, refrigerante y líquido de frenos"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisiones periódicas / cada 10.000 km",
+          "queSeCambia": "Sustitución programada, según kilometraje, del aceite del reductor, el filtro del habitáculo, el refrigerante y el líquido de frenos, con inspección de la batería MAGIC, el motor eléctrico y su controlador"
+        }
+      ]
+    },
   },
   {
     id: "wuling-zhiguang-ev-2025-precio-ficha-tecnica",

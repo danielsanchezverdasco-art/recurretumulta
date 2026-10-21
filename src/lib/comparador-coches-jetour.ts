@@ -45,18 +45,18 @@ export const COCHES_JETOUR: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde", "potenciaCv", "consumo"],
     pros: [
-      "4,40 metros con maletero modulable de 398 a 1.262 litros: el Jetour más urbano y práctico",
-      "1.5 turbo de 154 CV y 230 Nm con cambio DCT de 6 velocidades: mecánica probada y sencilla",
-      "AED 69.500 en Emiratos (~16.500 €): precio de utilitario por un SUV de 5 plazas",
-      "Garantía de motor de hasta 10 años o 1.000.000 km en sus mercados principales",
-      "Depósito de 45 litros y consumo declarado de 5,6 l/100 km: buena autonomía en carretera",
+      "Nació como Soueast DX5 con diseño de Pininfarina y renació en 2024 como X50, la puerta de acceso a Jetour fuera de China",
+      "Suspensión trasera multibrazo independiente, una rareza entre los B-SUV de su precio frente a MG ZS, Toyota Raize o Kia Sonet",
+      "En Emiratos se vende en acabado único Premium por 69.500 dirhams, los 16.500 euros aproximados que recoge esta ficha",
+      "Doble pantalla de 10,25 pulgadas —20,5 sumadas— con CarPlay y Android Auto inalámbricos y cuatro tomas USB en el habitáculo",
+      "El distribuidor emiratí cubre el motor diez años o un millón de kilómetros e incluye el paquete de servicio inicial"
     ],
     contras: [
-      "Sin red oficial en España: solo importador independiente",
-      "Sin versión híbrida ni eléctrica en la gama",
-      "Sin prueba Euro NCAP publicada a 18/10/2026",
-      "Marca aún poco conocida en Europa: reventa incierta",
-      "Sin datos oficiales de 0-100 ni velocidad máxima publicados",
+      "Comprarlo desde España exige acudir a la importación paralela: Jetour no comercializa el X50 aquí y garantía y recambios dependen del importador",
+      "Toda la gama X50 es el 1.5 de gasolina: con este nombre no existe variante híbrida, enchufable ni eléctrica en ningún mercado",
+      "Las versiones básicas de Filipinas se quedan en dos airbags; solo el Sport llega a cuatro y añade detector de ángulo muerto",
+      "Ni el X50 ni su base Soueast DX5 han pasado por Euro NCAP: las cinco estrellas ASEAN NCAP de Jetour corresponden al T2, otro modelo",
+      "Frente a un Toyota Raize o un Nissan Kicks perderá valor antes, y en Emiratos las piezas no críticas ya tardan una o dos semanas en llegar"
     ],
     imagen: "/media/jetour-x50-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/jetour-x50-2025-precio-ficha-tecnica-oficial.webp",
@@ -66,16 +66,15 @@ export const COCHES_JETOUR: CocheComparador[] = [
     analisisSlug: "jetour-x50-2025-precio-ficha-tecnica",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 12.6,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.58,
-      seguroTercerosAnual: 430,
-      seguroAmpliadoAnual: 790,
-      mantenimientoAnual: 320,
-      costeMensualTotal: 249,
-      notas:
-        "Estimación con 15.000 km/año, consumo medio estimado de 8,0 l/100 km a 1,58 €/l y todo riesgo.",
-      estimado: true,
+      "costeEnergia100km": 12.6,
+      "costeMensualTotal": 249,
+      "estimado": true,
+      "mantenimientoAnual": 320,
+      "notas": "Cuenta propia del X50: para 15.000 km anuales se le suponen 8,0 l/100 km —por encima de los 5,6 declarados en la ficha— valorados a 1,58 €/l, y se prorratean seguro a todo riesgo y mantenimiento hasta los 249 € mensuales.",
+      "precioGasolinaL": 1.58,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 790,
+      "seguroTercerosAnual": 430
     },
     galeria: [
       {
@@ -100,12 +99,23 @@ export const COCHES_JETOUR: CocheComparador[] = [
     fuenteNombre: "YallaMotor / ZigWheels",
     fuenteUrl: "https://www.yallamotor.com/news/jetour-x50-uae-price-features-booking-details-9664",
     euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin prueba Euro NCAP publicada a 18/10/2026.",
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: el X50 no consta en la base de resultados de Euro NCAP.",
+      "url": null
     },
-    planMantenimiento: null,
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Jetour UAE, página oficial del X50 (jetouruae.com) y ArabWheels; sin programa ni costes publicados para España",
+      "intervalo": "Cobertura del paquete de servicio de Jetour Emiratos hasta cumplir tres años o alcanzar los 30.000 km",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisiones cubiertas por el paquete emiratí",
+          "queSeCambia": "Aceite del motor 1.5 turbo y su filtro, revisión del sistema de frenos y comprobaciones rutinarias del vehículo"
+        }
+      ]
+    },
     confianza: "alta",
   },
   {
