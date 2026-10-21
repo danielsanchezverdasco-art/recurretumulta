@@ -1408,18 +1408,18 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     cargaRapidaKw: 180,
     etiquetaDgt: "Cero",
     pros: [
-      "440 km WLTP con batería de 63 kWh: de lo mejor de su precio",
-      "Carga rápida de 180 kW en DC",
-      "170 CV y 350 Nm con tracción trasera",
-      "Desde 44.670 € (tarifa 01/2026)",
-      "Etiqueta Cero y 520 L de maletero",
+      "Con 63 kWh de batería homologa 440 km WLTP gastando 15,6 kWh cada cien, registro contenido para un crossover de 4,66 metros",
+      "Admite picos de 180 kW en corriente continua, ritmo de recarga poco habitual entre familiares eléctricos de tarifa parecida en España",
+      "Entrega 170 CV con 350 Nm desde el eje trasero y regala suelo plano sin túnel, herencia directa de su arquitectura E-GMP",
+      "Suma 520 litros de maletero a cinco plazas reales y etiqueta Cero, combinación útil para viajar cargado sin vetos ambientales urbanos",
+      "La batería queda cubierta ocho años o 160.000 km hasta el 70 % de capacidad, respaldo dilatado frente a desgastes prematuros",
     ],
     contras: [
-      "44.670 €: el acceso a la gama Ioniq 5",
-      "8,5 s de 0-100: no es la versión más rápida",
-      "185 km/h de máxima, contenida",
-      "El acabado Light es el más básico",
-      "1.955 kg de peso",
+      "Sus 44.670 euros iniciales lo sitúan por encima de Renault Scenic E-Tech o Volkswagen ID.4 comparables dentro del mercado español actual",
+      "Pesa 1.955 kilos, lastre que castiga neumáticos y frenadas largas y resta agilidad cuando la carretera se retuerce entre montañas",
+      "Acelera hasta cien en 8,5 segundos y corta a 185 km/h: cumple sin más, quedando lejos de hermanos superiores del catálogo",
+      "El nivel Light recorta dotación frente a Star, Energy o N Line, así que conviene revisar partida por partida antes de firmar",
+      "Mide 1.890 mm de ancho sin contar espejos: aparcar en plazas antiguas obliga a maniobrar despacio y con atención constante",
     ],
     largoMm: 4655,
     anchoMm: 1890,
@@ -1464,7 +1464,25 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       }
-    ]
+    ],
+    euroncap: {
+      estrellas: 5,
+      ano: 2021,
+      url: "https://www.hyundai.news/newsroom/dam/eu/models/20211027_euro_ncap_rating/hyundai-ioniq-5-2021-euro-ncap-datasheet.pdf",
+      nota: "5 estrellas Euro NCAP (octubre de 2021): 88 % en ocupante adulto, 86 % en infantil, 63 % en usuarios vulnerables y 88 % en asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "Cada 2 años o 30.000 km, lo que ocurra antes (plan oficial Hyundai para IONIQ 5 e IONIQ 6)",
+      revisiones: [
+        {
+          nombre: "Revisión bienal / 30.000 km",
+          queSeCambia: "Inspección general del sistema eléctrico, estado de la batería de alto voltaje y de la auxiliar de 12 V, control de frenos y de refrigeración, y filtro de habitáculo según calendario del manual",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Hyundai Canarias, posventa oficial en hyundai.com (verificado el 22/10/2026): los IONIQ 5 e IONIQ 6 hacen los mantenimientos cada 2 años o 30.000 km, lo primero que se cumpla; Hyundai no publica un coste cerrado para esta revisión, por eso el coste queda en null",
+    },
   },
   {
     id: "hyundai-ioniq-6-2025-precio-ficha-tecnica",

@@ -552,18 +552,18 @@ export const COCHES_EXP18: CocheComparador[] = [
     cargaRapidaKw: 260,
     etiquetaDgt: "Cero",
     pros: [
-      "530 km de autonomía WLTP con la batería de 84 kWh",
-      "Carga ultrarrápida de 260 kW: del 10 al 80 % en 18 minutos",
-      "5 estrellas EuroNCAP (2021): 88 % en ocupante adulto",
-      "Maletero de 520 litros más 57 de frunk: el más práctico de su clase",
-      "Estética N Line con llantas de 20 pulgadas sin renunciar a la eficiencia",
+      "Deja la batería al 80 % en unos 18 minutos cuando partes del 10 %, gracias a picos de 260 kW en corriente continua.",
+      "Homologa 530 km WLTP gastando 17,0 kWh cada cien, un equilibrio usable a diario sin recurrir a la versión de tracción total más cara.",
+      "Su batalla de 3.000 mm se traduce en rodillas holgadas atrás y un maletero de 520 litros que traga el equipaje familiar sin trucos.",
+      "El paquete N Line suma paragolpes propios, llantas de 20 pulgadas y asientos deportivos con costuras rojas: se distingue del Ioniq 5 corriente sin pagar el salto al radical N de 650 CV.",
+      "Los 228 CV llegan solo al eje posterior con 350 Nm inmediatos: empuja limpio al salir de cada rotonda y firma 7,5 segundos hasta cien.",
     ],
     contras: [
-      "54.570 €: el N Line se acerca al precio de la versión AWD de 325 CV",
-      "La batería de 84 kWh pesa: 2.070 kg en vacío",
-      "185 km/h de velocidad máxima, limitada electrónicamente",
-      "El acabado N Line reduce algo la autonomía frente al Light (570 km)",
-      "Pantallas sin Apple CarPlay inalámbrico en las primeras unidades",
+      "Los 54.570 € de tarifa lo dejan muy cerca de la variante de tracción total de 325 CV, que resulta difícil de descartar haciendo números fríos.",
+      "Mover 2.070 kg con un solo motor se nota en frenadas largas y cambios de apoyo: no es un coche torpe, pero tampoco ligero de reacciones.",
+      "Elegir este acabado recorta alcance frente a las versiones de 84 kWh con llanta menor, que Hyundai anuncia hasta en 570 km WLTP.",
+      "El disfraz deportivo promete más que los 7,5 segundos hasta cien: su primo Kia EV6 GT-Line, con idénticos 228 CV, marca 7,3 en esa misma medición.",
+      "Con 4,66 metros de largo y 1,89 de ancho llena casi cualquier plaza estándar: aparcarlo a diario en garajes antiguos exige paciencia.",
     ],
     largoMm: 4655,
     anchoMm: 1890,
@@ -603,6 +603,23 @@ export const COCHES_EXP18: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    planMantenimiento: {
+      costeAnualAproxEur: null,
+      fuente: "Hyundai Canarias (web oficial hyundai.com) publica que solo IONIQ 5 e IONIQ 6 hacen los mantenimientos cada 2 años o 30.000 km, lo primero que se cumpla; Hyundai no publica una tarifa cerrada para esta revisión, por lo que no se da coste. Verificado el 22/10/2026",
+      intervalo: "Cada 2 años o 30.000 km, lo primero que se cumpla (pauta oficial Hyundai específica para IONIQ 5 e IONIQ 6, distinta del año o 15.000 km del resto de la gama)",
+      revisiones: [
+        {
+          costeAproxEur: null,
+          nombre: "Revisión de los 2 años o 30.000 km",
+          queSeCambia: "Inspección programada sin cambio de aceite, porque no hay motor térmico: comprobación del sistema eléctrico y de la batería auxiliar de 12 V, del circuito de refrigeración y de los frenos, cuyo líquido el manual del propietario contempla sustituir dentro del calendario de mantenimiento",
+        },
+        {
+          costeAproxEur: null,
+          nombre: "Revisiones sucesivas cada 2 años o 30.000 km adicionales",
+          queSeCambia: "Repetición de las inspecciones de refrigeración, frenos, sistema eléctrico y estado de la batería, con aviso previo en el cuadro de instrumentos cuando se acerca la visita, según publica Hyundai",
+        },
+      ],
+    },
   },
   {
     id: "kia-ev4-gt-line-fastback-2025-precio-ficha-tecnica",
@@ -702,18 +719,18 @@ export const COCHES_EXP18: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
-      "288 CV combinados: el Tucson más potente de la historia",
-      "67 km de autonomía eléctrica WLTP: el día a día sin gastar gasolina",
-      "Etiqueta Cero con 65 g/km de CO₂: exento de impuesto de matriculación",
-      "5 estrellas EuroNCAP (2021): 86 % en ocupante adulto",
-      "Maletero de 558 litros: apenas pierde espacio frente al híbrido",
+      "Sus 288 CV combinados convierten a esta variante N Line en la más prestacional del Tucson actual, con 380 Nm para incorporaciones y adelantamientos viajando con la familia y el equipaje.",
+      "Los 67 km eléctricos homologados cubren la mayoría de los trayectos laborables entre semana, siempre que el enchufe de casa o del trabajo forme parte de la rutina diaria del propietario.",
+      "A diferencia de otros enchufables que sacrifican mucho volumen, aquí quedan 558 litros útiles para el equipaje familiar sin necesidad de recurrir a un cofre de techo en vacaciones.",
+      "La etiqueta Cero de la DGT le abre las zonas de bajas emisiones y, con 65 g/km homologados, queda exento del impuesto de matriculación en España.",
+      "El habitáculo renovado reúne dos pantallas de 12,3 pulgadas bajo un único cristal y recupera mandos físicos para el climatizador, más seguros de accionar sin apartar la vista.",
     ],
     contras: [
-      "50.325 €: el PHEV cuesta 7.000 € más que el híbrido N Line",
-      "Sin enchufe en casa, el consumo real se dispara por encima de 8 l/100 km",
-      "1.832 kg: el peso se nota en frenadas y cambios de apoyo",
-      "La batería roba 58 litros de maletero frente al HEV",
-      "Carga en alterna lenta: no admite carga rápida en continua",
+      "Partir de 50.325 € coloca a este Tucson muy por encima de las versiones híbridas de su propia gama y ya en territorio de SUV enchufables con emblema premium.",
+      "Los 1.832 kg declarados penalizan agilidad y desgaste de neumáticos: en un puerto de montaña manda la prudencia de un SUV pesado, no la ligereza que sugiere el apellido N Line.",
+      "La recarga se limita a corriente alterna de hasta 7,2 kW, sin opción de carga rápida en continua, así que recuperar batería durante un viaje largo resulta poco práctico.",
+      "Quien no lo enchufe a diario arrastrará la batería descargada como lastre permanente, y el gasto de gasolina quedará lejos de los 2,9 l/100 km oficiales pensados para un uso con recargas frecuentes.",
+      "El depósito se queda en 42 litros, una cifra modesta para escapadas largas en modo híbrido que obliga a repostar con más frecuencia de la esperada en un SUV familiar.",
     ],
     largoMm: 4510,
     anchoMm: 1865,
@@ -753,6 +770,28 @@ export const COCHES_EXP18: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    planMantenimiento: {
+      costeAnualAproxEur: null,
+      fuente: "Manual del propietario oficial de Hyundai del Tucson 2025, programa de mantenimiento normal para Europa (ownersmanual.hyundai.com), y norma general publicada por Hyundai Canarias (hyundai.com): mantenimientos cada 15.000 km o un año. Verificado el 22/10/2026. Hyundai España no publica un precio cerrado oficial para las revisiones de esta versión PHEV, por lo que no se citan costes de revisión ni coste anual.",
+      intervalo: "Cada 15.000 km o 12 meses, lo primero que se cumpla (plan oficial Hyundai para este tren motriz: norma general de la marca para todos sus modelos salvo IONIQ 5 e IONIQ 6, y programa de mantenimiento normal para Europa del manual del Tucson, que fija ese mismo ritmo para el aceite del 1.6 T-GDi)",
+      revisiones: [
+        {
+          costeAproxEur: null,
+          nombre: "Revisión periódica de 15.000 km o 12 meses",
+          queSeCambia: "Aceite del motor Smartstream 1.6 T-GDi y su filtro, sustituidos en cada intervalo según el manual europeo; rotación de neumáticos en ese mismo ritmo e inspección de frenos, suspensión, dirección, sistema de refrigeración y sistemas eléctricos.",
+        },
+        {
+          costeAproxEur: null,
+          nombre: "Revisión de 30.000 km o 24 meses",
+          queSeCambia: "Nueva sustitución de aceite y filtro de motor, sustitución del filtro de aire del habitáculo según la tabla europea, inspección del filtro de aire del motor y comprobación de conductos, mangueras y conexiones de freno y de combustible.",
+        },
+        {
+          costeAproxEur: null,
+          nombre: "Revisión de 75.000 km o 60 meses",
+          queSeCambia: "Sustitución de las bujías del 1.6 T-GDi, que el manual europeo fija en 75.000 km o 60 meses, además de las operaciones periódicas de aceite, filtros e inspecciones. El líquido de la transmisión automática figura en ese manual como sin comprobación ni servicio programado.",
+        },
+      ],
+    },
   },
   {
     id: "hyundai-kona-hibrido-n-line-2026-precio-ficha-tecnica",

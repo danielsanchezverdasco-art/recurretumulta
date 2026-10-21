@@ -33,18 +33,18 @@ export const COCHES_FORD: CocheComparador[] = [
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
     pros: [
-      "376 km de autonomía WLTP con solo 43 kWh útiles: de los más eficientes del segmento",
-      "Maletero de 523 L más frunk de 43 L: más capaz que el Puma de gasolina",
-      "Carga rápida de 100 kW en continua: competitiva para su batería",
-      "Desde 28.526 € con etiqueta Cero: acceso libre a todas las ZBE",
-      "0-100 km/h en 8 s y 290 Nm: ágil en ciudad y carretera",
+      "Con 13,1 kWh/100 km homologados, este Gen-E exprime sus 46,8 kWh útiles hasta firmar 417 km WLTP sin recurrir a una batería enorme",
+      "Declara 523 litros, que crecen hasta 574 aprovechando el GigaBox bajo el piso, y suma otros 43 litros en el hueco delantero",
+      "Sus 168 CV y 290 Nm mueven solo 1.563 kg, así que despacha el sprint hasta 100 km/h en 8,0 segundos sin disparar el gasto urbano",
+      "Recuperar del 10 al 80 % en unos 23 minutos a 100 kW convierte una parada breve en carga suficiente para seguir ruta",
+      "Mide 4.214 mm, cabe en plazas de garaje pensadas para un utilitario y conserva cinco asientos con distintivo Cero de la DGT",
     ],
     contras: [
-      "Batería pequeña para viajar: la autonomía real en autopista cae",
-      "160 km/h de velocidad máxima: justito para autopista alemana",
-      "Precio alto frente al Puma EcoBoost equivalente",
-      "Acabado interior mejorable para lo que cuesta",
-      "La red de carga rápida Ford depende de socios externos",
+      "Esos 46,8 kWh se quedan cortos frente a un Kia EV3 de batería grande: en autovía sostenida la autonomía útil cae muy por debajo de lo homologado",
+      "Solo existe con tracción delantera; quien busque un empuje extra en nieve deberá mirar alternativas con dos motores y envío a ambos ejes",
+      "Los 28.526 euros de partida lo sitúan claramente por encima de su hermano EcoBoost mild-hybrid cuando se equiparan acabados y equipamiento",
+      "La seguridad validada es la del Puma de combustión: cuatro estrellas Euro NCAP de 2022, con asistencias al 69 %, lejos del pleno de rivales recientes",
+      "Su velocidad punta queda fijada en 160 km/h y la recarga a 100 kW ya no marca el ritmo entre los SUV urbanos eléctricos actuales",
     ],
     largoMm: 4214,
     anchoMm: 1805,
@@ -90,6 +90,18 @@ export const COCHES_FORD: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    planMantenimiento: {
+      costeAnualAproxEur: null,
+      fuente: "Frecuencia de servicio de 24 meses publicada en la ficha comercial de Parks Ford para el Puma Gen-E y confirmada por AutoExpress y Drive (revisión cada dos años), verificadas el 21/10/2026; Ford España no publica una tarifa cerrada de la revisión, por lo que los costes quedan en null",
+      intervalo: "Cada 24 meses (frecuencia de servicio publicada para el Puma Gen-E; las fuentes consultadas el 21/10/2026 no citan un límite de kilometraje asociado)",
+      revisiones: [
+        {
+          costeAproxEur: null,
+          nombre: "Revisión programada bienal del Gen-E",
+          queSeCambia: "Inspección en la red Ford de frenos, neumáticos, suspensión, dirección, batería de 12 V, circuito de refrigeración y sistema eléctrico de alta tensión, con comprobación del líquido de frenos y actualización de software si procede; sin aceite de motor, bujías ni escape que sustituir al ser eléctrico puro",
+        },
+      ],
+    },
   },
   {
     id: "ford-puma-st-2025-precio-ficha-tecnica",

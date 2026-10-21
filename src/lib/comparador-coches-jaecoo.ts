@@ -326,18 +326,18 @@ export const COCHES_JAECOO: CocheComparador[] = [
     cargaRapidaKw: 130,
     etiquetaDgt: "Cero",
     pros: [
-      "402 km WLTP con batería LFP de 60,9 kWh desde 35.500 € (23.066 € con Plan Auto+)",
-      "Carga rápida de 130 kW (30-80 % en 28 min) y V2L de serie",
-      "211 CV y 7,7 s en el 0-100: el Jaecoo 5 más rápido",
-      "Etiqueta Cero: acceso libre a todas las ZBE y aparcamiento bonificado",
-      "Bomba de calor y frontal carenado exclusivo del eléctrico",
+      "Su batería LFP de 60,9 kWh homologa 402 kilómetros WLTP, suficientes para cubrir una semana de trayectos urbanos sin enchufarlo a diario.",
+      "Recupera del 30 al 80 por ciento en 28 minutos gracias a sus 130 kW en continua, un pico superior al de otros mercados, donde se queda en 80 kW.",
+      "Con 211 CV y 288 Nm empuja con decisión: firma el 0 a 100 en 7,7 segundos y adelanta sin titubeos en carreteras de doble sentido.",
+      "La función V2L permite alimentar herramientas, una nevera portátil o material de camping directamente desde el puerto de carga del coche.",
+      "El distintivo Cero de la DGT abre las zonas de bajas emisiones españolas y la bomba de calor protege la autonomía cuando aprieta el invierno.",
     ],
     contras: [
-      "1.785 kg: 265 kg más que el gasolina, se notan en curvas",
-      "175 km/h de velocidad máxima: limitado para autopista",
-      "El MG S5 rival carga a 139 kW y ofrece hasta 480 km",
-      "Consumo de 16,5 kWh/100 km: mejorable frente a rivales",
-      "En viajes largos hay que planificar las paradas de carga",
+      "Frente al MG S5 eléctrico pierde la partida en viaje: su rival anuncia hasta 480 km WLTP y admite 139 kW, nueve más que este Jaecoo.",
+      "Sus 1.785 kilos condicionan el paso por rotondas y enlaces: la carrocería inclina y los frenos trabajan más que en el gasolina equivalente.",
+      "El gasto homologado de 16,5 kWh cada 100 km queda por encima de lo que firman eléctricos compactos más ligeros y aerodinámicos.",
+      "La punta se detiene en 175 km/h y en incorporaciones largas a autopista el empuje inicial se va diluyendo poco a poco.",
+      "Todavía carece de veredicto Euro NCAP propio: ni el 5 ni su variante E5 británica han pasado por el laboratorio europeo de choques.",
     ],
     largoMm: 4380,
     anchoMm: 1860,
@@ -396,6 +396,24 @@ export const COCHES_JAECOO: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    euroncap: {
+      ano: null,
+      estrellas: null,
+      nota: "Sin datos EuroNCAP: el Jaecoo 5, incluida esta versión EV (vendida como E5 en Reino Unido), no ha sido sometido a las pruebas de Euro NCAP; las cinco estrellas del Jaecoo 7 y del Omoda 5 no son transferibles a este modelo (verificado el 22/10/2026).",
+      url: null,
+    },
+    planMantenimiento: {
+      costeAnualAproxEur: null,
+      fuente: "Omoda & Jaecoo España (omodajaecoo.es) cita en sus promociones vigentes el plan de mantenimiento oficial del vehículo, con plazos y kilometrajes, e incluye los tres primeros mantenimientos en campaña, pero no publica el intervalo concreto del Jaecoo 5 EV ni tarifas de revisión (verificado el 22/10/2026)",
+      intervalo: "Sin intervalo publicado en abierto por Jaecoo España para el 5 EV (verificado el 22/10/2026): la marca confirma que existe un plan oficial con plazos y kilometrajes, pero no detalla ese intervalo en su web española",
+      revisiones: [
+        {
+          costeAproxEur: null,
+          nombre: "Revisión programada en Servicio Oficial Omoda & Jaecoo",
+          queSeCambia: "Inspección general del eléctrico: batería de alta tensión y su circuito de refrigeración, frenos, filtro del habitáculo, batería auxiliar de 12 V y actualización de software; sin cambio de aceite porque no hay motor térmico",
+        },
+      ],
+    },
   },
   {
     id: "jaecoo-8-shs-2026-precio-ficha-tecnica",

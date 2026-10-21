@@ -780,18 +780,18 @@ export const COCHES_JEEP: CocheComparador[] = [
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
     pros: [
-      "400 km WLTP: de los B-SUV eléctricos con más autonomía",
-      "Coche del Año en Europa 2023",
-      "Carga rápida de 100 kW y 11 kW en alterna",
-      "Solo 4,08 m: perfecto para la ciudad",
-      "Etiqueta Cero: acceso libre a todas las ZBE",
+      "Homologa 400 km WLTP gastando 15,5 kWh/100 km, autonomía inusual en un B-SUV eléctrico de apenas 4,084 metros",
+      "Su conjunto de 156 CV y 260 Nm mueve 1.520 kg con respuesta inmediata en ciudad, sin ruido mecánico ni cambios de marcha",
+      "Frente a Peugeot e-2008 u Opel Mokka Electric, con quienes comparte base Stellantis, se distingue por Selec-Terrain y control de descensos de serie",
+      "En corriente continua admite 100 kW y pasa del 20 al 80 % en 24 minutos según Stellantis, útil en paradas cortas de autopista",
+      "La batería de 54 kWh conserva respaldo oficial durante 8 años o 160.000 km, plazo tranquilizador si piensas quedártelo muchos años",
     ],
     contras: [
-      "Desde 38.000 € de tarifa: caro para su tamaño",
-      "Maletero de 282 litros, justo",
-      "9,0 s de 0-100 km/h",
-      "150 km/h de velocidad máxima",
-      "Plazas traseras estrechas",
+      "Los 38.000 € de tarifa duelen en un coche de 4,08 metros pensado sobre todo para uso urbano diario",
+      "Euro NCAP le dio solo tres estrellas en 2024, con 53 % en asistencias, mientras el Volvo EX30 logró cinco en su prueba",
+      "El maletero declarado en ficha queda en 282 litros, escaso para carrito infantil y equipaje de cuatro ocupantes simultáneamente",
+      "Con 9,0 segundos hasta 100 km/h y 150 km/h de punta, no esperes empuje deportivo en incorporaciones largas",
+      "Es tracción delantera y mide 1.776 mm de ancho: detrás, tres adultos viajan apretados en trayectos que superen la media hora",
     ],
     largoMm: 4084,
     anchoMm: 1776,
@@ -836,7 +836,29 @@ export const COCHES_JEEP: CocheComparador[] = [
         "ancho": 1920,
         "alto": 1280
       }
-    ]
+    ],
+    planMantenimiento: {
+      costeAnualAproxEur: null,
+      fuente: "Manual del propietario Jeep Avenger 2023, versión e Full Electric (programa de mantenimiento reproducido en carmanuals2.com y ownersmanuals2.com), verificado el 22/10/2026; Jeep España no publica una tarifa cerrada única para estas revisiones, por eso los costes quedan en null",
+      intervalo: "Cada 12.500 km o 1 año, lo primero que ocurra (programa e Full Electric del manual del propietario del Avenger 2023, que se extiende hasta 150.000 km en 12 años)",
+      revisiones: [
+        {
+          costeAproxEur: null,
+          nombre: "Revisión periódica de 12.500 km o anual",
+          queSeCambia: "No se sustituye aceite de motor al ser eléctrico: se comprueban batería de alta tensión, neumáticos y presiones, alumbrado, frenos, limpiaparabrisas y estado de la carrocería",
+        },
+        {
+          costeAproxEur: null,
+          nombre: "Cada 2 años",
+          queSeCambia: "Sustitución del líquido de frenos, con independencia del kilometraje recorrido, según el programa recogido en el manual",
+        },
+        {
+          costeAproxEur: null,
+          nombre: "Unidad de accionamiento eléctrico",
+          queSeCambia: "Sin cambio programado de su líquido en uso normal según el manual; inspección inmediata en la red Jeep si aparecen fugas o un funcionamiento irregular",
+        },
+      ],
+    },
   },
   {
     id: "jeep-compass-electric-213-2026-precio-ficha-tecnica",
