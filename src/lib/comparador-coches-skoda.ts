@@ -1404,18 +1404,16 @@ export const COCHES_SKODA: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
-      "38.300 €: el familiar definitivo",
-      "640 L de maletero",
-      "150 CV con 5,0 l/100 km",
-      "Etiqueta ECO",
-      "8,6 s de 0-100",
+      "Maletero de 640 litros en un familiar de 4.698 mm: carga bicis, carrito y maletas sin recurrir a un SUV ni abatir asientos en el uso diario",
+      "150 CV y 250 Nm con 0 a 100 km/h en 8,6 s: adelanta y se incorpora con margen incluso viajando cinco ocupantes, sin ser un RS",
+      "Consumo homologado de 5,0 l/100 km y 114 g/km con etiqueta ECO por su sistema mild-hybrid de 48 V, útil frente a restricciones urbanas",
+      "La cuarta generación revalidó las 5 estrellas Euro NCAP en 2022, con un 86 % en ocupante adulto y un 84 % en ocupante infantil",
     ],
     contras: [
-      "1.700 € más que la berlina",
-      "225 km/h: 4 menos que la berlina",
-      "114 g/km",
-      "El Superb Combi es más grande pero mucho más caro",
-      "Diseño familiar, poco emocional",
+      "Es mild-hybrid, no híbrido completo: el apoyo eléctrico de 48 V no permite circular tramos en modo eléctrico como un León o un Corolla híbrido convencional",
+      "Esta versión de 150 CV es solo de tracción delantera y cambio automático DSG: no hay opción manual ni 4x4, reservada en la gama a motores superiores",
+      "Depósito de solo 45 litros para un coche pensado para viajar cargado: obliga a repostar antes de lo esperable en rutas largas por autovía",
+      "Con 38.300 € de partida ya no es el familiar barato de antes: a igualdad de motor, un León Sportstourer o un Golf Variant entran en la misma conversación de compra",
     ],
     largoMm: 4698,
     anchoMm: 1829,
@@ -1460,7 +1458,8 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       }
-    ]
+    ],
+    euroncap: { estrellas: 5, ano: 2022, url: "https://cdn.euroncap.com/media/80164/euroncap-2022-škoda-octavia-datasheet.pdf", nota: null },
   },
   {
     id: "skoda-superb-15-tsi-2026-precio-ficha-tecnica",
