@@ -1010,6 +1010,42 @@ Revisiones cada 15.000 km según el plan KTM. El uso off-road intensivo acorta l
 
 Cuesta <strong>16.199 €</strong>. Sus rivales son la <a href=/motos/yamaha-tenere-700-2025-ficha-tecnica-precio/>Yamaha Ténéré 700 2025</a>, la <a href=/motos/honda-xl750-transalp-2025-ficha-tecnica-precio/>Honda XL750 Transalp 2025</a> y la <a href=/motos/husqvarna-norden-901-2025-ficha-tecnica-precio/>Husqvarna Norden 901 2025</a>. La KTM es la más radical en tierra; la Honda, la más rutera.
 
+## Carnet A y la puerta que el A2 le cierra
+
+La 890 Adventure R es moto de permiso A sin atajos: sus 105 CV no solo superan el límite de 35 kW del A2, sino que tampoco puede limitarse, porque la normativa del permiso A2 solo admite rebajar motos que de fábrica no superen los 70 kW (95 CV). KTM reserva el escalón intermedio a otras cilindradas de la familia Adventure, y esta R queda como el destino de quien ya ha cumplido los dos años de A2 y ha dado el salto al A completo.
+
+Conviene interiorizarlo antes de enamorarse: sin el A, ni siquiera una unidad limitada en papeles sería legal con este modelo.
+
+## WP XPLOR: suspensiones de enduro en una trail
+
+| Componente | Especificación |
+|---|---|
+| Horquilla | WP XPLOR de 48 mm |
+| Recorrido delantero | 240 mm |
+| Amortiguador | WP XPLOR con sistema PDS |
+| Recorrido trasero | 240 mm |
+| Altura libre al suelo | 263 mm |
+| Altura de asiento | 880 mm |
+| Depósito | 20 litros entre ambos flancos |
+
+El amortiguador PDS trabaja sin bieletas, una solución heredada de las KTM de enduro que simplifica el tren trasero y aguanta mejor los impactos secos de piedra. Los 240 mm de recorrido en ambos ejes sitúan a la 890 R en territorio de moto de raids vestida de trail: absorbe cortados y roderas a ritmos que en una maxitrail asfáltica serían impensables, y los 263 mm libres permiten superar obstáculos sin arrastrar el cárter, siempre que las protecciones hagan su trabajo.
+
+## Ergonomía de rally y la vida fuera del asfalto
+
+La silueta viene de la 450 Rally del Dakar: depósito bajo y partido que coloca el combustible a la altura de las rodillas, asiento estrecho y continuo para moverse de pie sin pelear con el depósito, y cúpula pequeña que no roba visión de la rueda delantera en las trialeras. De pie, las estriberas quedan donde deben y el manillar alto evita encorvarse; sentado en autovía, en cambio, la protección aerodinámica es la justa y los 880 mm de asiento filtran a los pilotos por estatura.
+
+Con 20 litros y un bicilíndrico que en pista bebe sin miramientos, la autonomía real se acorta mucho respecto a la del asfalto tranquilo: planificar repostajes forma parte del juego cuando el escenario es una etapa de tierra lejana.
+
+La electrónica ayuda sin domesticar: el ABS con modo Offroad deja bloquear la rueda trasera para pivotar en grava, y el control de tracción sensible a la inclinación permite derrapes medidos a la salida de las curvas lentas. El modo Rally, opcional, añade ajuste fino del deslizamiento para quien ya sabe lo que hace.
+
+Y como descanso entre etapas, el garaje virtual de esta web propone otro tipo de búsqueda: la de los monos ocultos en sus páginas desde el <a href=/juego-monos/>juego caza-monos</a>, que guarda un premio para el piloto que consiga cazarlos en su totalidad.
+
+## El coste de jugar en serio en la tierra
+
+Las revisiones cada 15.000 km y la garantía de 4 años dan tranquilidad mecánica, pero el presupuesto real de una 890 R incluye consumibles de guerra: neumáticos mixtos que en tierra se cuentan por miles de kilómetros y no por decenas de miles, protecciones, y el mantenimiento extra de suspensiones si el uso es intenso. La Honda y la Yamaha rivales salen más baratas de mantener; ninguna ofrece este nivel de chasis.
+
+**Veredicto:** para el piloto con carnet A que entiende «adventure» como tierra de verdad, la 890 Adventure R sigue siendo la referencia de su clase: chasis, suspensiones y electrónica de raids en formato matriculable. Para uso mayoritariamente asfáltico o viajes con pasajero y maletas, su hermana estándar o una <a href=/motos/honda-xl750-transalp-2025-ficha-tecnica-precio/>Honda XL750 Transalp</a> harán el mismo trabajo con menos exigencias físicas y económicas; la <a href=/motos/yamaha-tenere-700-2025-ficha-tecnica-precio/>Yamaha Ténéré 700</a> queda como el término medio espartano.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta la KTM 890 Adventure R 2025?
@@ -1034,7 +1070,9 @@ En tierra, sí, por suspensiones y geometría; en asfalto y confort, la estánda
 - <a href=https://www.mundomotero.com/motos/ktm/890-adventure-r>Mundomotero — KTM 890 Adventure R 2025: precio y ficha técnica</a>
 - <a href=https://www.motorbikemag.es/ficha-tecnica/ktm-890-adventure-r/>Motorbikemag — ficha técnica KTM 890 Adventure R</a>
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
+
+*Fuentes: datos oficiales del modelo en <a href=https://www.ktm.com>ktm.com, web oficial de KTM</a> y normativa de permisos de la <a href=https://www.dgt.es>DGT</a>.*`,
   },
   {
     title: "KTM 450 EXC-F 2025: enduro de carreras",
