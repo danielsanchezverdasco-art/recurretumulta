@@ -190,19 +190,18 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
       },
     ],
     aprox: [],
-    pros: [
-      "Premio de oro en la IFA 2026 a la mejor tecnología de patinete todoterreno",
-      "Evoluciona el ZT3 Pro, uno de los todoterreno más vendidos en Europa",
-      "Lanzamiento europeo previsto en octubre de 2026",
-      "La serie ZT está diseñada para estabilidad en superficies variadas",
-      "Segway promete avances en tecnología, rendimiento y experiencia de conducción",
+pros: [
+      "Motor de 2.200 W: Segway declara un 38 % más de potencia que el ZT3 Pro y capacidad para pendientes de hasta el 30 %, justo lo que se le pide a un ZT al salir de una rampa de garaje o de una calle en cuesta con el firme roto",
+      "Suspensión hidráulica de dos etapas delante y detrás, una solución muy distinta a la telescópica con muelle trasero del ZT3 Pro y pensada en el comunicado para adoquines, baches y carreteras irregulares, no para caminos de tierra en abstracto",
+      "Frenada con dos discos de 140 mm apoyados por el sistema ICBS de frenada combinada inteligente y el E-ABS: el reparto entre ambas ruedas es el punto clave cuando se frena cuesta abajo sobre una superficie desigual",
+      "Rueda delantera de 12 pulgadas y trasera de 11: ese reparto desigual busca que la delantera supere bordillos y obstáculos sin que la trasera copie cada golpe, un detalle que solo tiene sentido en este chasis mixto urbano-todoterreno",
+      "Su autonomía no sale de un modo Eco domesticado: con el estándar Real Range de Segway, basado en el protocolo de TÜV Rheinland, la cifra declarada es de 60 a 72 km según el mercado, y para España el comunicado anuncia la versión E de 25 km/h",
     ],
-    contras: [
-      "Especificaciones, precio y disponibilidad aún no publicados por Segway",
-      "Al ser todoterreno, probablemente pesará más de 30 kg",
-      "Los todoterreno consumen más: la autonomía real será menor que en un urbano",
-      "Precio previsiblemente alto al ser buque insignia",
-      "Aún no se puede comprar ni reservar en Europa",
+contras: [
+      "El precio español sigue sin anunciarse: el comunicado del 7 de octubre de 2026 dice que las tarifas por región se comunicarán cerca del inicio de ventas, así que hoy no hay forma honesta de juzgar si compensa frente al ZT3 Pro que ya se vende",
+      "La ficha técnica del ZT3 Max aún está incompleta a propósito: Segway no ha publicado su batería, su peso ni su carga máxima, tres datos que deciden si cabe en un ascensor, si se puede subir a pulso a un piso y si sirve a un conductor corpulento",
+      "A 21 de octubre de 2026 todavía no se puede comprar ni probar en España: la disponibilidad europea arranca en noviembre, primero en Alemania y Francia según la cobertura del lanzamiento, y no existe aún una sola prueba independiente con usuarios reales",
+      "La horquilla de autonomía, de 60 a 72 km, depende de la regulación de cada mercado: antes de reservarlo hay que exigir la cifra exacta de la versión española, porque la de otro país no tiene por qué coincidir con la que ruede aquí",
     ],
     veredicto:
       "El ZT3 Max es la gran apuesta todoterreno de Segway para finales de 2026, premiada en la IFA antes de salir. Aún sin ficha técnica oficial, parte de la base del ZT3 Pro, que ya era referencia. Si buscas un patinete para ciudad y caminos, espera a su lanzamiento europeo.",
@@ -550,19 +549,18 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
       },
     ],
     aprox: [],
-    pros: [
-      "50 km declarados: la mayor autonomía de la serie V de Navee",
-      "Batería de 367 Wh con solo 18,3 kg de peso total",
-      "Freno de disco trasero + E-ABS delantero",
-      "Intermitentes de serie y 120 kg de carga máxima",
-      "Sube pendientes del 18% con sus 700 W de pico",
+pros: [
+      "Con 367 Wh bajo el reposapiés se coloca como el integrante de la serie V pensado para espaciar enchufes: la ficha oficial le atribuye 50 km por carga.",
+      "Pesa 18,3 kg pese a esa batería generosa, un equilibrio que se agradece si toca subirlo a un ascensor o meterlo en el maletero entre semana.",
+      "Admite hasta 120 kg encima de la plataforma, margen útil para conductores corpulentos o para llevar mochila pesada sin ir al límite.",
+      "Combina E-ABS delante con disco detrás, reparto menos habitual en patinetes de diario, y monta cubiertas de 10 pulgadas.",
+      "Los 700 W de pico frente a los 350 W nominales le dan un empujón extra en arranques, y trae intermitentes integrados de fábrica.",
     ],
-    contras: [
-      "Sin precio oficial confirmado en España",
-      "Los 50 km se miden a 15 km/h; a 25 km/h la autonomía real ronda los 35 km",
-      "Carga lenta: 8 horas para la batería grande",
-      "Sin suspensión dedicada",
-      "Es el V más caro de la gama sin ser el más equipado en suspensión",
+contras: [
+      "Recargar esos 367 Wh lleva 8 horas según la propia ficha: si lo vacías por la tarde, queda en el enchufe toda la noche.",
+      "La ficha no consigna precio en España (precioEur vacío), así que no hay PVP oficial contrastable en la fuente enlazada para compararlo.",
+      "Carece de suspensión específica, por lo que adoquines, juntas de dilatación y bordillos bajos se notan tal cual en manillar y plataforma.",
+      "La cifra de 50 km corresponde a la medición a 15 km/h que recoge la ficha; circulando a su tope de 25 km/h esa distancia se acorta.",
     ],
     veredicto:
       "El V50i Pro es el Navee para quien no quiere cargar a diario: 50 km declarados y menos de 18,5 kg. A cambio, carga lenta y 8 horas de enchufe. Ideal si haces más de 20 km al día.",

@@ -544,25 +544,21 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     carga: "Batería extraíble Samsung de 72 V; 4 h por batería; segunda batería opcional (200 km)",
     etiquetaDgt: "Cero",
     aprox: ["precioDesde"],
-    pros: [
-      "95 km/h de punta con motor de 4,2 kW continuos (6,7 kW de pico)",
-      "Segunda batería opcional que eleva la autonomía hasta 200 km",
-      "Pantalla táctil, arranque sin llave, control de crucero y marcha atrás",
-      "Premio Red Dot de diseño: es de los scooters eléctricos más bonitos",
-      "Batería Samsung extraíble con 4 h de carga",
+pros: [
+      "Con 95 km/h declarados y acceso con el A1 —o con el B y tres años de antigüedad—, esta EK3 de 2025 no se queda encerrada en calles de 50: puede enlazar una ronda o un tramo corto de circunvalación sin circular siempre al límite.",
+      "La batería Samsung de 72 V se saca del scooter y se carga en unas 4 horas en un enchufe doméstico, así que quien aparca en la calle y vive en un piso no depende de encontrar un punto de carga público para usarla a diario.",
+      "El hueco para la segunda batería permite pasar de los 90 km declarados con una sola a unos 200 km con dos montadas, y esa modularidad deja pagar el extra únicamente si tus trayectos lo exigen, no por adelantado.",
+      "Marcha atrás, control de crucero y arranque sin llave desde la pantalla táctil: en la EK3 de 2025 son detalles que se agradecen al aparcar en batería entre coches o al maniobrar en un garaje estrecho, no un simple adorno de catálogo.",
     ],
-    contras: [
-      "4.490 € y la segunda batería dispara el precio",
-      "90 km con una batería: hay que planificar si no se compra la segunda",
-      "El tacto del acelerador es brusco en modo Sport",
-      "Sin ABS: frenada combinada CBS",
-      "La pantalla táctil con guantes es poco práctica",
+contras: [
+      "Los 4.490 € de partida ya la colocan en la zona cara de su categoría, y la segunda batería —justo la que da sentido a la cifra de 200 km— se paga aparte, por lo que el precio final se aleja bastante del de acceso.",
+      "No hay ABS, solo frenada combinada CBS: en mojado o ante una frenada de emergencia tendrás que dosificar con más cuidado que en un scooter que ya monte antibloqueo, y eso se nota si vienes de uno que sí lo llevaba.",
+      "Los 90 km con una batería son autonomía declarada, no la que obtendrás sosteniendo 80-95 km/h: si tu recorrido mezcla ciudad y vía rápida, el margen útil se estrecha y la planificación deja de ser opcional.",
+      "La pantalla táctil pierde buena parte de su gracia con guantes de invierno: acertar en los iconos cuesta y el gesto de arrancar deslizando el dedo deja de ser tan rápido como promete en parado y sin guantes.",
     ],
-    curiosidades: [
-      "Ganó el Red Dot Design Award en 2020",
-      "Se arranca deslizando el dedo por la pantalla, sin llave",
-      "Las tiras LED laterales lo hacen inconfundible de noche",
-      "La versión Deluxe lleva asiento de cuero marrón y retrovisores cromados",
+curiosidades: [
+      "El EK3 se llevó el Red Dot Design Award 2021 en la categoría de diseño de producto: no es un galardón genérico de la marca, es de este scooter concreto y de esa combinación de escudo redondeado con tiras LED horizontales.",
+      "La versión Deluxe del EK3 no cambia ni motor ni batería respecto a la estándar: se distingue solo por el acabado metalizado, el asiento en cuero marrón y los retrovisores cromados, así que pagas estética, no prestaciones.",
     ],
     imagen: "/media/motos/horwin-ek3-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -585,6 +581,18 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     fuenteUrl: "https://www.horwin.eu",
     analisisSlug: "horwin-ek3-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
+    planMantenimiento: {
+      intervalo: "Plan de mantenimiento del fabricante (detalle en las revisiones)",
+      revisiones: [
+        {
+          nombre: "Plan de mantenimiento del fabricante",
+          queSeCambia: "Horwin no publica para el EK3 una tabla oficial con intervalos en kilómetros ni costes cerrados de revisión, así que no hay cifras que dar sin inventarlas. Lo que sí prescribe la marca es cuidar la batería: usar siempre el cargador original, desconectarlo cuando la carga termina, cargar en un lugar fresco y seco y, si el scooter va a estar parado un tiempo prolongado, recargar la batería al menos una vez al mes para que no se deteriore. Horwin Europa añade que el motor eléctrico no requiere mantenimiento y que la atención periódica se concentra en el sistema de frenos. Para intervalos y presupuesto concretos de esta unidad de 2025, pide la hoja de mantenimiento al concesionario antes de comprarla.",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Horwin España — Cómo mantener y cuidar tu moto eléctrica Horwin: https://horwin.com.es/horwin/como-mantener-y-cuidar-tu-moto-electrica-horwin/",
+    },
   },
   {
     id: "horwin-cr6-2025-ficha-tecnica-precio",
@@ -798,25 +806,22 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     carga: "Batería extraíble de 72 V y 45 Ah; carga nocturna en enchufe doméstico",
     etiquetaDgt: "Cero",
     aprox: ["autonomiaKm"],
-    pros: [
-      "Estética café racer con ruedas de radios: la eléctrica A1 con más carácter",
-      "95 km/h de punta: llega donde los ciclomotores eléctricos no llegan",
-      "Batería extraíble: se carga en casa sin punto de recarga",
-      "Transmisión por correa dentada: silenciosa y sin mantenimiento",
-      "Frenos Brembo con frenada combinada",
+pros: [
+      "Su motor va montado en el centro del chasis y mueve la rueda trasera por correa dentada, así que no hay cadena que engrasar ni tensar y rodar en ciudad es especialmente silencioso.",
+      "Con 95 km/h declarados y acceso con el A1 —o con el B más tres años de antigüedad— puede enlazar rondas y tramos cortos de vía rápida, un terreno vetado a un ciclomotor eléctrico limitado a 45 km/h.",
+      "La batería de 72 V y 45 Ah, con 3,2 kWh, se extrae de su alojamiento bajo el falso depósito y se enchufa en un enchufe doméstico: quien vive en un piso sin garaje no depende de instalar un punto de recarga.",
+      "Son 101 kg para una moto de dos plazas: maniobrar en parado, meterla en un hueco de aparcamiento o dar la vuelta en una calle estrecha no exige la fuerza que pide una 125 de gasolina.",
+      "Faro redondo, ruedas de radios y silueta café racer en la 2025: tiene presencia de moto clásica de verdad, no la de un scooter eléctrico disfrazado.",
     ],
-    contras: [
-      "110 km de autonomía declarada; en uso realista unos 70-80 km",
-      "3,9 kW nominales: justa con pasajero en cuestas",
-      "Sin ABS: frenada combinada CBS",
-      "La batería es grande y pesada para subirla a casa a diario",
-      "El precio en Europa ronda los 4.500-5.000 € por prestaciones modestas",
+contras: [
+      "La autonomía oficial es de 110 km, pero esa cifra es declarada: sostener ritmos cercanos a su velocidad punta castiga mucho la batería de 3,2 kWh y obliga a planificar la vuelta con margen, no a fiarse del dato de catálogo.",
+      "No lleva ABS, solo frenada combinada CBS con pinzas Brembo: en suelo mojado o sobre pintura toca dosificar con más cabeza que en una A1 con antibloqueo.",
+      "Extraíble no significa ligera: las pruebas publicadas cifran la batería en torno a 22 kg, así que subirla a un piso sin ascensor cada noche es un esfuerzo que se nota en los brazos.",
+      "Con 3,9 kW nominales, que son 5,3 CV, cumple sobrada en llano, pero con pasajero y una cuesta prolongada la reserva se agota pronto y adelantar exige anticiparse mucho.",
     ],
-    curiosidades: [
-      "Vmoto (su matriz china) también fabrica para otras marcas europeas",
-      "La correa dentada elimina el engrase y el tensado de la cadena",
-      "Existe una edición Night con estética oscurecida",
-      "Es una de las eléctricas A1 más vendidas en Reino Unido",
+curiosidades: [
+      "Cuando se presentó en Milán, la versión con ruedas de radios costaba 200 euros más que la de llantas de aluminio, un sobreprecio puramente estético que aún define a la TC Max frente a sus hermanas.",
+      "Aunque imita a una clásica de gasolina, no tiene tubo de escape ni motor en el buje de la rueda: el propulsor va en posición central y la transmisión final es por correa, los dos detalles que la delatan como eléctrica al mirarla de cerca.",
     ],
     imagen: "/media/motos/super-soco-tc-max-2025-ficha-tecnica-precio-1.webp",
     galeria: [

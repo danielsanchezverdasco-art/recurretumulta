@@ -1095,19 +1095,18 @@ export const COCHES_BYD: CocheComparador[] = [
     bateriaKwh: 7.42,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: [
-      "Desde 25.200 €: el PHEV más barato del segmento B",
-      "40 km eléctricos: etiqueta Cero de la DGT",
-      "Autonomía total de más de 1.000 km con el depósito",
-      "Maletero de 345 litros pese a ser híbrido enchufable",
-      "Tecnología DM-i probada en millones de unidades",
+pros: [
+      "Es el escalón de acceso al que, en el lanzamiento, BYD presentó como el primer y único híbrido enchufable del segmento B: ningún Polo, Clio o Ibiza se enchufa, y este sí, con 40 km eléctricos WLTP para el trayecto corto diario.",
+      "Su Blade Battery de 7,42 kWh rinde poco en el papel, pero sumada al depósito homologa 1.020 km de autonomía total: sales de casa en eléctrico y el viaje largo no depende de encontrar un cargador libre.",
+      "Cargar es un trámite menor: con su cargador de corriente alterna de 3,3 kW pasa del 15 % al 100 % en poco menos de tres horas, así que no exige un wallbox potente para estar listo cada mañana.",
+      "En la web oficial de BYD España, el Active en color Orange Sunset figura con precio recomendado al contado de 21.725 € en Península y Baleares (oferta vigente hasta el 31/10/2026, sin gestoría, matriculación ni transporte): es la vía más barata de la gama Dolphin G DM-i.",
+      "De serie ya trae llantas de 16 pulgadas, sensores de aparcamiento delanteros y traseros, cámara trasera, pantalla central de 10,1 pulgadas con cuadro digital de 8,8, climatizador automático y el paquete de asistentes con control de crucero adaptativo, detector de ángulo muerto y alerta de tráfico cruzado con frenada.",
     ],
-    contras: [
-      "Batería pequeña (7,42 kWh): hay que cargar a diario",
-      "Sin carga rápida en continua",
-      "El motor 1.5 atmosférico se oye al exigirle",
-      "Acabado Active: equipamiento básico",
-      "Red de concesionarios aún en expansión",
+contras: [
+      "Los 40 km eléctricos del Active se agotan enseguida si tu jornada suma ida, vuelta y un desvío: frente a los 105 km WLTP del Boost, aquí el motor 1.5 de gasolina entrará a trabajar casi a diario si no cargas en destino.",
+      "No hay carga rápida en continua y la alterna se queda en 3,3 kW, la mitad que en el Boost: en un viaje largo no compensa parar a cargar, porque la batería pequeña apenas suma kilómetros en una parada razonable.",
+      "El salto al Boost no es solo de batería: el Active se queda sin V2L, sin asientos ni volante calefactables, sin pantalla de 12,8 pulgadas ni carga inalámbrica, y la cámara de 360 grados y el ecosistema de Google quedan aún más arriba, en el Comfort.",
+      "A octubre de 2026 el Dolphin G DM-i no ha sido probado por Euro NCAP, según coinciden varias publicaciones especializadas: lleva muchos asistentes de serie, pero no existe una nota independiente de choque que lo respalde.",
     ],
     largoMm: 4290,
     anchoMm: 1770,
@@ -1176,19 +1175,18 @@ export const COCHES_BYD: CocheComparador[] = [
     bateriaKwh: 18.3,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: [
-      "105 km eléctricos: el PHEV del segmento B con más autonomía EV",
-      "204 CV y 7,5 s de 0-100 km/h: el más rápido de su clase",
-      "Autonomía total de más de 1.000 km",
-      "Etiqueta Cero de la DGT con 22 g/km de CO2",
-      "Desde 27.780 €: precio rompedor para un PHEV",
+pros: [
+      "El Boost es el escalón barato a la batería grande: 18,3 kWh y 105 km eléctricos frente a los 7,42 kWh y 40 km del Active, compartiendo acumulador con los Comfort y Sport más caros",
+      "Carga en continua de 39 kW con paso del 10 al 80 % en 26 minutos y alterna de 6,6 kW: el Active se queda en 3,3 kW en alterna y no ofrece esa carga rápida",
+      "28.200 € de tarifa sin ayudas: es el precio de acceso a los 1.040 km de autonomía combinada y a la etiqueta Cero en esta gama, sin pagar el techo panorámico ni el head-up display de los acabados superiores",
+      "Suma equipo que el Active no trae: pantalla central de 12,8 pulgadas, asientos delanteros y volante calefactables, carga inalámbrica de 15 W, sonido de ocho altavoces y función V2L para alimentar aparatos externos",
+      "En uso urbano BYD declara hasta 150 km eléctricos, por encima de los 105 km del ciclo combinado, así que una semana laboral corta de trayectos en ciudad puede salir sin arrancar el motor 1.5 de gasolina",
     ],
-    contras: [
-      "Sin carga rápida en continua",
-      "El motor 1.5 atmosférico se oye al exigirle en modo híbrido",
-      "Suspensión trasera de barra de torsión",
-      "Maletero de 345 litros, sin frunk",
-      "Red de concesionarios aún en expansión",
+contras: [
+      "Los 39 kW de carga en continua resuelven una parada corta, pero quedan lejos de lo que hoy ofrece un eléctrico puro: en un viaje largo, este Boost sigue dependiendo más de la gasolina que del enchufe rápido",
+      "El salto desde el Active cuesta 3.000 € de tarifa (25.200 € frente a 28.200 €) y se paga casi entero por la batería de 18,3 kWh; quien recorra pocos kilómetros al año tardará en amortizarlo",
+      "Cámara de 360°, ecosistema Google integrado, head-up display y techo panorámico no están en el Boost: BYD los reserva al Comfort, así que este acabado se queda en un punto intermedio también en tecnología de salpicadero",
+      "Su razón de ser exige enchufe habitual: si la batería grande se deja vacía de forma sistemática, el coche arrastra el peso y el coste de un enchufable para funcionar como un híbrido convencional, y la ventaja de los 105 km eléctricos desaparece",
     ],
     largoMm: 4290,
     anchoMm: 1770,
@@ -1233,7 +1231,13 @@ export const COCHES_BYD: CocheComparador[] = [
         "ancho": 1920,
         "alto": 1280
       }
-    ]
+    ],
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin ensayo Euro NCAP del BYD Dolphin G DM-i a octubre de 2026: varias fuentes independientes consultadas confirman que este modelo concreto aún no ha sido probado. No trasladar las cinco estrellas de 2023 del BYD Dolphin eléctrico, que es otro coche distinto.",
+    },
   },
   {
     id: "byd-great-tang-2026-precio-ficha-tecnica",

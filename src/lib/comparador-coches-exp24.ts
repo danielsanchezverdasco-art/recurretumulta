@@ -1174,19 +1174,18 @@ export const COCHES_EXP24: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["precioDesde"],
-    pros: [
-      "555 km CLTC con batería LFP de 60,6 kWh por ~26.900 € en China",
-      "Intercambio de batería en 3 minutos en la red de NIO",
-      "Arquitectura de 900 V: del 10 al 80 % en unos 25 minutos",
-      "Cx de 0,229 y consumo de 12,1 kWh/100 km: el SUV más eficiente de su tamaño",
-      "Maletero de 763 litros, enorme para un SUV coupé",
+pros: [
+      "Con 12,1 kWh/100 km declarados y un Cx de 0,229, este SUV de 4.828 mm y 1.885 kg gasta como un compacto: ahí está la explicación de los 555 km CLTC con una batería LFP de solo 60,6 kWh",
+      "Si te quedas sin carga en China, no enchufas y esperas: entras en una estación de NIO, cambias la batería por otra cargada y sigues, una ventaja que ningún rival vendido en Europa ofrece hoy",
+      "326 CV y 305 Nm en el eje trasero, con el 0 a 100 km/h en 5,9 s, para un coche familiar que en China partía de unos 26.900 € aproximados con batería incluida",
+      "763 litros de maletero según la ficha en un SUV coupé de cinco plazas: la caída del techo no se ha comido la capacidad que una familia usa a diario",
+      "La arquitectura de 900 V del L60 va muy por delante de la de 400 V de los NIO de la marca principal de su época, y eso se nota en tiempos de carga y en eficiencia",
     ],
-    contras: [
-      "Solo se vende en China: sin red comercial ni de servicio en Europa",
-      "Sin datos EuroNCAP (sí tiene 5 estrellas C-NCAP, no equivalente)",
-      "La versión de acceso monta la batería pequeña; la de 85 kWh sube el precio",
-      "El swap de baterías necesita estaciones que en Europa no existen",
-      "Pantalla única central: todo se maneja desde la táctil, sin botones físicos",
+contras: [
+      "En España no puedes comprarlo ni mantenerlo: el L60 de 2024 se vendió solo en China, sin red comercial ni de servicio de Onvo en Europa",
+      "Los 555 km son CLTC, el ciclo chino, más benévolo que el WLTP europeo: quien lo importe por su cuenta debe esperar una cifra real sensiblemente menor",
+      "Su 5 estrellas C-NCAP, con un 89,2 % global, no equivalen a una prueba Euro NCAP: para el comprador europeo no existe una nota de seguridad homologable aquí",
+      "El cambio de batería solo funciona en estaciones NIO de tercera generación actualizadas y de cuarta generación; fuera de esa red china, la función estrella del coche desaparece",
     ],
     imagen: "/media/onvo-l60-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/onvo-l60-2024-precio-ficha-tecnica-oficial.webp",
@@ -1195,11 +1194,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     videoId: "oAvHQUtMxqs",
     videoCanal: "Aletech",
     opiniones: [],
-    euroncap: {
+euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Modelo solo para China, sin prueba Euro NCAP.",
     },
     planMantenimiento: {
       intervalo: "Sin programa oficial publicado para Europa; orientativo 24 meses o 30.000 km (inspección)",

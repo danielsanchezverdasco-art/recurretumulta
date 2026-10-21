@@ -29,25 +29,22 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["precioDesde"],
-    pros: [
-      "Basculante monobrazo, único en su segmento: estética de MotoGP por precio de A2",
-      "Horquilla invertida regulable y frenos con pinza Brembo de 4 pistones delante",
-      "Control de tracción, modos Sport/Rain y embrague antirrebote de serie",
-      "Pantalla TFT curva de 5 pulgadas con conectividad T-box (antirrobo y seguimiento)",
-      "Precio rompedor frente a Yamaha R3 (7.999 €) y KTM RC 390 (6.749 €)",
+pros: [
+      "Recupera lo que la 450SR de serie tuvo que recortar del prototipo SR-C21: basculante monobrazo y escape bajo y oculto, con la rueda trasera completamente a la vista; en el escaparate del A2 no hay otra deportiva que lo monte",
+      "El bicilíndrico de 449,5 cc va calado a 270° con doble eje de equilibrado, así que suena y empuja con pulso de V-twin en vez del zumbido plano de los paralelos a 180°, y se queda justo en los 47 CV que permite el carnet A2 sin limitar",
+      "La S no es solo estética frente a la base: el disco trasero crece de 220 a 240 mm y pasa a pinza de dos pistones, delante manda un disco de 320 mm con pinza Brembo y la horquilla invertida de 37 mm suma regulación de amortiguación",
+      "Postura cerrada de verdad, con semimanillares más bajos y estriberas más altas que en cualquier otra CFMoto del catálogo: en carretera de curvas se coloca como una deportiva grande, no como una 450 disfrazada",
+      "La TFT curvada de 5 pulgadas concentra control de tracción, conectividad con el móvil y funciones T-Box de localización y aviso antirrobo, y suma faros automáticos, señal ESS de frenada de emergencia y toma USB",
     ],
-    contras: [
-      "179 kg en seco: algo pesada para una deportiva de 450",
-      "47 CV se quedan cortos en circuito frente a las 600",
-      "Sin IMU ni electrónica avanzada: el control de tracción es básico",
-      "El precio oficial (7.390 €) se acerca al de la competencia japonesa",
-      "Red de talleres y repuestos más pequeña que Honda o Yamaha",
+contras: [
+      "Con los 7.390 € que publicaba la prensa española al llegar, la S pierde el argumento de ganga de la 450SR básica y se planta en el terreno de la Aprilia RS 457: el sobreprecio se paga en imagen y freno trasero, no en potencia",
+      "No hay IMU, así que ni ABS en curva ni un control de tracción fino por inclinación; su electrónica Bosch cumple, pero queda un escalón por debajo de lo que ya insinúa la competencia",
+      "La misma postura que enamora en curvas castiga en ciudad y en trayecto largo: muñecas cargadas, estriberas altas y una segunda plaza meramente testimonial pese a homologar para dos",
+      "Marca 179 kg en la ficha, cifra discreta para una deportiva que presume de ligereza, y el depósito de 14 litros deja la autonomía real en el entorno de los 300 km que declara la marca si no se abusa del gas",
     ],
-    curiosidades: [
-      "Su alerón delantero con forma de aleta de tiburón optimiza la aerodinámica",
-      "El escape va oculto e integrado en la parte trasera, como las MotoGP",
-      "El sistema T-box permite localizar la moto y recibir avisos antirrobo en el móvil",
-      "Es la versión 'S' vitaminada de la 450SR, con suspensión y frenos mejorados",
+curiosidades: [
+      "El carenado de la familia 450SR se afinó con más de 30 horas de túnel de viento, y CFMoto cifraba el empuje aerodinámico de los alerones delanteros en unos 2 kilos extra sobre el tren delantero a 120 km/h",
+      "El prototipo SR-C21 de 2021 que la anticipó llevaba suspensiones Öhlins y escape SC Project; casi todo eso se perdió al pasar a producción, salvo el monobrazo, que solo regresó con esta versión S",
     ],
     imagen: "/media/motos/cfmoto-450sr-s-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -70,6 +67,18 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     fuenteUrl: "https://cf-moto.es",
     analisisSlug: "cfmoto-450sr-s-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
+    planMantenimiento: {
+      intervalo: "Plan de mantenimiento del fabricante (detalle en las revisiones)",
+      revisiones: [
+        {
+          nombre: "Plan de mantenimiento del fabricante",
+          queSeCambia: "Según el manual de usuario de la familia 450SR, con la que la S comparte motor y plataforma: revisión de rodaje a los 1.000 km con cambio de aceite y filtro; después, aceite y filtro cada 5.000 km o 6 meses, bujía sustituida a los 10.000 km, refrigerante a los 35.000 km o 24 meses y comprobación del juego de válvulas a los 40.000 km. El intervalo se acorta a la mitad con uso severo, y las operaciones marcadas en el manual deben hacerlas en un concesionario autorizado.",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Manual de usuario CFMoto 450SR (tabla de mantenimiento periódico tras el rodaje), consultado en ManualsLib y en el PDF oficial en español de la 450SR S",
+    },
   },
   {
     id: "cfmoto-450mt-2025-ficha-tecnica-precio",
@@ -792,22 +801,22 @@ curiosidades: [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["precioDesde"],
-    pros: [
-      "47,6 CV al límite del A2",
-      "Llantas de radios mixtas",
-      "TFT de 7\" con TPMS",
-      "Kayaba delante",
-      "5 años de garantía",
+pros: [
+      "Bicilíndrico de 494 cc pensado solo para Voge, con 47,6 CV justo en el techo del A2 y un par de 44,5 Nm que empuja sin obligarte a ir siempre arriba de vueltas",
+      "Pantalla TFT de 7 pulgadas con brillo automático, Bluetooth para gestionar llamadas y aviso específico si un neumático pierde presión de golpe, algo rarísimo en una neo-retro de este precio",
+      "Rueda delantera de 19 pulgadas con llanta de radios cruzados y neumáticos de dibujo mixto: mantiene el aire scrambler sin renunciar a una pista sencilla cuando se acaba el asfalto",
+      "Depósito de 19 litros heredado de la 500 AC: con esa capacidad no tienes que planificar cada salida larga alrededor de la siguiente gasolinera",
+      "Cinco años de garantía de serie en España, un respaldo poco habitual en una A2 cuyo precio en la ficha figura como aproximado, desde 6.317 euros",
     ],
-    contras: [
-      "198 kg",
-      "Asiento alto (840 mm)",
-      "Sin modos de conducción",
+contras: [
+      "198 kg en orden de marcha son muchos para una A2 de estética ligera: en parado y maniobrando muy despacio se notan bastante más que una vez en marcha",
+      "Asiento a 840 mm del suelo: si mides poco, apoyar con seguridad en semáforos con algo de inclinación te va a costar más de la cuenta",
+      "La ficha de esta 2025 no contempla modos de conducción, así que la respuesta del bicilíndrico es fija y no puedes suavizarla desde un menú en días de lluvia",
+      "Su planteamiento es de asfalto con escapadas, no de campo: la rueda de 19 pulgadas ayuda en pistas fáciles, pero no convierte a la 525ACX en una trail para uso exigente fuera de carretera",
     ],
-    curiosidades: [
-      "Su motor de 494 cc es de uso exclusivo para Voge: no se suministra a otras marcas.",
-      "La TFT de 7\" avisa de despresurizaciones rápidas de los neumáticos.",
-      "Con 19 L de depósito es de las scrambler A2 con más autonomía.",
+curiosidades: [
+      "Las siglas AC significan Advanced Classic: es la etiqueta que Voge reserva a sus neo-retro que mezclan formas de inspiración clásica con tecnología actual",
+      "Aunque Voge es la marca premium de Loncin, este motor de 494 cc no se cede a otras marcas: según la propia presentación, nació en exclusiva para la plataforma 525",
     ],
     imagen: "/media/motos/voge-525acx-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -912,22 +921,22 @@ curiosidades: [
     carga: null,
     etiquetaDgt: "C",
     aprox: [],
-    pros: [
-      "Radar de ángulo muerto",
-      "Equipamiento premium completo",
-      "34 CV para el A2",
-      "Parabrisas eléctrico",
-      "5 años de garantía",
+pros: [
+      "El radar trasero de 2025 es su seña propia: avisa con un LED en cada retrovisor si un vehículo se queda en el ángulo muerto y hace parpadear la luz de freno ante una aproximación rápida por detrás",
+      "Motor de 349,8 cc con 34 CV y 35 Nm justo en el límite útil del A2: sirve para rondas y autovía diaria sin tener que limitar nada",
+      "Hereda de la versión T el parabrisas con regulación eléctrica y los puños y el asiento calefactables, equipo raro de ver de serie en un 350",
+      "Pantalla TFT de 7 pulgadas con navegación giro a giro, control de presión de neumáticos, arranque sin llave y cámara frontal HD que graba el trayecto",
+      "Los 5.892 € incluían 5 años de garantía y un año de seguro, un respaldo poco habitual frente a rivales japoneses de precio similar",
     ],
-    contras: [
-      "213 kg",
-      "Precio alto para un 350",
-      "Consumo no declarado",
+contras: [
+      "213 kg en orden de marcha: en marcha no estorban demasiado, pero moverla en parado dentro de un garaje estrecho sí se nota",
+      "5.892 € ya no es el precio rompedor de su lanzamiento: queda cerca de un Honda Forza 350 o un Yamaha XMAX y lejos de otros scooters chinos más baratos",
+      "Todo el sistema de radar vigila solo hacia atrás; por delante no hay aviso de colisión ni control de crucero que alivie los tramos largos de autovía",
+      "La marca no declara consumo en la ficha de esta versión, así que el coste real por depósito de 12,8 litros solo se conoce tras usarla",
     ],
-    curiosidades: [
-      "Deriva del BMW C400X: el grupo Loncin fabrica los scooters de BMW.",
-      "La versión Radar 2025 añade detección de ángulo muerto y alerta de colisión.",
-      "Su cámara frontal graba los desplazamientos como una dashcam.",
+curiosidades: [
+      "El radar de esta SR4 no se estrenó en un scooter: Voge lo trasladó desde su trail 900DSX, donde ya lo había montado antes de bajarlo al segmento A2 en 2025.",
+      "En la línea de producción del SR4 Max, piezas de aluminio fundido como el basculante trasero se verifican con una máquina industrial de rayos X, según la nota de presentación del modelo.",
     ],
     imagen: "/media/motos/voge-sr4-max-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -3242,22 +3251,22 @@ curiosidades: [
     carga: null,
     etiquetaDgt: "C",
     aprox: [],
-    pros: [
-      "Estética power-cruiser única en el A2",
-      "Bicilíndrico de 47,8 CV, al límite del A2",
-      "Depósito de 21 litros para viajar",
-      "Asiento bajo de 740 mm",
-      "Horquilla invertida y doble disco",
+pros: [
+      "Silueta de power-cruiser con depósito abultado, cola recortada y estriberas adelantadas que no se confunde con ninguna naked A2: en parado parece de mayor cilindrada de lo que es",
+      "Bicilíndrico de 499,6 cc con 47,8 CV a 8.500 rpm y 45 Nm a 5.000 rpm: exprime el límite del A2 y entrega el par pronto, sin obligar a estirar cada marcha en carretera",
+      "Depósito de 21 litros, muy por encima de lo habitual en una custom de este precio: permite espaciar las paradas en rutas largas sin ir pendiente del surtidor",
+      "Asiento a 740 mm y parte ciclo con horquilla invertida de 41 mm y doble disco delantero de 260 mm con ABS: se llega bien al suelo y la frenada no es la de una custom barata al uso",
+      "Precio de 5.890 euros en esta versión 2024, por debajo de lo que costaba en su lanzamiento español: la fórmula Diavel en pequeño sale comparativamente barata",
     ],
-    contras: [
-      "220 kg, pesada para ciudad",
-      "Postura cruiser que no es para todos",
-      "Modelo veterano frente a novedades",
+contras: [
+      "220 kg para 47,8 CV: en maniobras en parado, garajes y tráfico denso de ciudad se nota cada kilo, y no es una moto ágil entre coches",
+      "Estriberas adelantadas y postura de cruiser urbana: quien venga de una naked encontrará extraña la posición y perderá apoyo en curvas cerradas y puertos",
+      "Diseño veterano: la base es la presentada en 2018 y llegada a España en 2019, sin una renovación profunda hasta esta 2024, frente a rivales A2 más recientes",
+      "Monoamortiguador trasero con solo 50 mm de recorrido según ficha: en baches y badenes la trasera es seca, y el asiento de pasajero, sobre la cola recortada, es justo para trayectos largos a dúo",
     ],
-    curiosidades: [
-      "Su diseño bebe directamente de la Ducati Diavel.",
-      "Es de las pocas custom accesibles con carnet A2.",
-      "El motor es el bicilíndrico de 500 cc compartido con la TRK 502.",
+curiosidades: [
+      "La prensa la bautizó directamente como «mini Diavel»: Motofichas señala que su estética está claramente inspirada en la Ducati Diavel, con el depósito musculoso y la zaga mínima como señas más evidentes.",
+      "No estrenó un motor propio: SoyMotero recogió en su llegada a España que comparte el bicilíndrico de la Leoncino 500 y la TRK 502, pero con un mapa de centralita específico para la 502C.",
     ],
     imagen: "/media/motos/benelli-502c-2024-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -3285,6 +3294,18 @@ curiosidades: [
         "Engrasa la cadena con lubricante específico.",
         "Vigila el nivel de aceite del bicilíndrico.",
       ],
+    },
+    planMantenimiento: {
+      intervalo: "Plan de mantenimiento del fabricante (detalle en las revisiones)",
+      revisiones: [
+        {
+          nombre: "Plan de mantenimiento del fabricante",
+          queSeCambia: "Según la tabla de mantenimiento periódico del manual de propietario de la Benelli 502C, las revisiones se suceden a los 1.000 km, 7.000 km, 13.000 km, 19.000 km y 25.000 km, es decir, cada 6.000 km tras la primera. En el uso diario, la propia ficha recoge revisar la tensión de la cadena cada 1.000 km, engrasarla con lubricante específico y vigilar el nivel de aceite del bicilíndrico entre revisiones.",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Manual de propietario Benelli 502C, tabla de mantenimiento y ajustes periódicos (consultado en ManualsLib)",
     },
   },
   // __M9_APPEND__

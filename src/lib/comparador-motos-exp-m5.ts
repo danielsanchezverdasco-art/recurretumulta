@@ -875,27 +875,22 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     carga: "Baterías extraíbles de 4 o 6 kWh; carga en enchufe doméstico",
     etiquetaDgt: "Cero",
     aprox: ["autonomiaKm"],
-    pros: [
-      "Triciclo de reparto 100 % eléctrico con gran capacidad de carga",
-      "Doble motor de 4 kW: tracción y estabilidad superiores a un scooter",
-      "Se conduce con el carnet de coche B",
-      "Baterías extraíbles de hasta 6 kWh para jornadas largas",
-      "80 km/h suficientes para reparto urbano e interurbano",
-      "Cero emisiones: entra en zonas de bajas emisiones y áreas restringidas",
+pros: [
+      "No lleva un solo motor, sino dos, uno en cada rueda trasera y de 4 kW por rueda según la presentación del modelo: la tracción queda repartida justo donde va el peso del baúl, y ambos motores aportan frenada regenerativa al soltar el acelerador",
+      "La tercera rueda está detrás, no delante, y se suma al sistema de estabilización en parado desarrollado por la propia Silence: el repartidor puede detenerse cargado en un semáforo o en una rampa de carga sin tener que sujetar el conjunto con las piernas",
+      "La batería es extraíble y se ofrece en 4 o 6 kWh, con carga en un enchufe doméstico corriente: en una nave sin punto de carga dedicado basta retirar el pack y enchufarlo dentro, sin inmovilizar el triciclo junto a una pared",
+      "Con 88 km de autonomía declarada y 80 km/h de velocidad máxima, la versión 2025 cubre la ronda urbana completa y todavía puede enlazar un polígono o un municipio cercano por una vía rápida, sin quedarse en moto de barrio",
+      "Se conduce con el carnet B y lleva etiqueta Cero de la DGT: una empresa puede poner al manillar a personal que ya tiene permiso de coche y repartir dentro de las zonas de bajas emisiones sin pedir excepciones",
     ],
-    contras: [
-      "Precio no publicado: venta directa a flotas bajo presupuesto",
-      "Monplaza y enfocada al trabajo: sin uso lúdico posible",
-      "Tamaño y anchura de triciclo: aparcar exige más espacio",
-      "Peso elevado sin cifra oficial publicada",
-      "Autonomía real de 75-100 km según uso y carga",
-      "Red de servicio orientada a empresas, no a particulares",
+contras: [
+      "La ficha no publica precio desde: es un vehículo de venta a flotas bajo presupuesto, así que no hay forma de compararlo de un vistazo con un scooter de reparto convencional sin pedir oferta comercial",
+      "Es monoplaza por planteamiento: no hay asiento ni hueco pensado para un segundo ocupante, así que queda descartado para cualquier uso compartido o para llevar a un ayudante en la ruta",
+      "Los 88 km son autonomía declarada y la propia ficha la marca como aproximada: quien encadene entregas en el extrarradio sin una parada con enchufe en el recorrido se queda sin margen de reserva",
+      "El tren trasero de dos ruedas ocupa más anchura que un scooter al aparcar y al colarse entre coches parados, y la marcha atrás ayuda a maniobrar pero no reduce el hueco que necesita en un garaje estrecho",
     ],
-    curiosidades: [
-      "El S03 es el vehículo de última milla de Silence para paquetería",
-      "Su configuración de tres ruedas le da estabilidad con carga pesada",
-      "Comparte baterías y electrónica con el resto de la gama Silence",
-      "Varias empresas de logística españolas ya lo usan en Madrid y Barcelona",
+curiosidades: [
+      "Su presentación mundial no fue en un salón de la moto, sino en Post-Expo de Ginebra, la feria del transporte de mercancías, del 26 al 28 de septiembre de 2017: Silence acudía por primera vez a ese evento y llevó el S03 junto al S02 para que los profesionales logísticos lo probaran",
+      "Al colocar la rueda extra en el eje trasero, y no en el delantero como hacen otros triciclos, Scutum evitó cargar la dirección con ese mecanismo: la prensa especializada lo explicó como un sistema basculante patentado orientado a subir la capacidad de carga sin complicar el tren delantero",
     ],
     imagen: "/media/motos/silence-s03-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -1483,27 +1478,22 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     carga: "Batería extraíble; carga en enchufe doméstico",
     etiquetaDgt: "Cero",
     aprox: [],
-    pros: [
-      "6 kW: uno de los scooters eléctricos equivalentes a 125 más potentes",
-      "80 km/h de punta con buena aceleración",
-      "87 kg: ligero para su potencia",
-      "Yadea es el mayor fabricante mundial de dos ruedas eléctricas",
-      "Distribución oficial en España con la red de Human Mobility",
-      "Buen nivel de equipamiento y acabados",
+pros: [
+      "Su motor lateral de 6 kW (8 CV) y sus 80 km/h lo homologan como L3e, el equivalente eléctrico a un 125: no se queda vendido en rondas ni en vías urbanas rápidas, donde un ciclomotor de 45 km/h sí sufriría.",
+      "Lleva dos baterías extraíbles de 72 V y 20 Ah cada una que se cargan en un enchufe doméstico, a bordo o fuera del scooter: quien aparca en la calle o en un garaje sin punto de carga puede seguir usándolo a diario.",
+      "Con 87 kg y 1.800 mm de largo es más ligero y compacto que la mayoría de scooters 125 de gasolina, y suma detalles poco comunes en su clase como la marcha atrás y el arranque sin llave (keyless).",
+      "La frenada regenerativa devuelve energía a las baterías al decelerar y se combina con discos en ambos ejes y sistema CBS, un plus real en el tráfico urbano de paradas constantes.",
+      "Bajo el asiento cabe un casco jet y dispone de guantera con toma USB, faros LED y dos modos de conducción, Eco y Sport, para elegir entre cuidar la autonomía o aprovechar los 6 kW.",
     ],
-    contras: [
-      "4.890 €: precio alto para su autonomía de 77 km",
-      "77 km declarados: justos para un uso intensivo",
-      "Sin capacidad de batería publicada",
-      "Marca aún poco conocida en España frente a NIU o Silence",
-      "Sin ABS confirmado",
-      "Reventa incierta",
+contras: [
+      "Los 4.890 € lo dejan como el Yadea más caro del catálogo español: su propia hermana G5 S, con la misma potencia de 6 kW, se anunciaba por 4.190 €, así que parte del sobreprecio va al diseño y al equipamiento, no a las prestaciones.",
+      "La autonomía declarada en esta ficha es de 77 km, una cifra justa si el trayecto diario incluye tramos a 80 km/h o si no puedes cargar cada noche; la prensa ha citado hasta 92 km en ciclo WMTC, pero no conviene planificar sobre la cifra optimista.",
+      "No hay ABS: la frenada es combinada CBS con disco de 220 mm delante y 180 mm detrás, y en la prueba de Motorpasión Moto se echó en falta algo más de mordiente en el freno delantero.",
+      "Extraíbles no significa cómodas de cargar: son dos módulos y la prensa especializada advierte de que no son precisamente ligeros si hay que subirlos a un piso cada día; además, el asiento biplaza deja un espacio justo para el pasajero.",
     ],
-    curiosidades: [
-      "Yadea vende más de 10 millones de vehículos eléctricos al año en el mundo",
-      "El C1S Pro es su scooter insignia para Europa",
-      "En España la distribuye Human Mobility, la gente de KYMCO",
-      "Yadea invierte más de 120 millones al año en I+D",
+curiosidades: [
+      "Su carrocería no se dibujó en China: la firmó el estudio austriaco KISKA y ese diseño ganó el Red Dot Design Award en 2020, antes de que el modelo llegara a las tiendas españolas.",
+      "Tiene marcha atrás de serie, una función pensada para sacarlo de aparcamientos en batería y huecos estrechos sin empujar sus 87 kg a pulso.",
     ],
     imagen: "/media/motos/yadea-c1s-pro-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -1525,6 +1515,18 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     fuenteNombre: "Yadea España",
     fuenteUrl: "https://yadea.es/",
     analisisSlug: "yadea-c1s-pro-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Plan de mantenimiento del fabricante (detalle en las revisiones)",
+      revisiones: [
+        {
+          nombre: "Plan de mantenimiento del fabricante",
+          queSeCambia: "El manual de usuario oficial del C1S Pro no publica una tabla de intervalos ni costes de revisión: pide comprobar el nivel del líquido de frenos con el scooter en vertical, sustituir las pastillas cuando alcancen la marca de límite de desgaste, revisar el engrase de ejes y cables y acudir al servicio técnico de Yadea ante cualquier fallo de motor, controlador, cargador o batería, porque abrir esos componentes sin autorización hace perder la garantía. Sin costes verificados para España: pídelos por escrito en la red oficial antes de comprar.",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "https://yadea.es/wp-content/uploads/2022/07/manual_usuario_C1S-PRO.pdf",
+    },
   },
   {
     id: "yadea-g5-s-2025-ficha-tecnica-precio",

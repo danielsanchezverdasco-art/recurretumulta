@@ -514,27 +514,22 @@ curiosidades: [
     aprox: [
       "precioDesde",
     ],
-    pros: [
-      "Aceleración fulgurante en ciudad: 0-50 km/h en 3,0 s con 55 Nm instantáneos",
-      "Muy ligera y manejable: 132 kg y asiento a 750 mm, control total para cualquier talla",
-      "Diseño rompedor tipo 'e-parkourer' que no se parece a nada del mercado",
-      "Baterías extraíbles para cargar en casa sin punto de carga (desde la actualización de 2025)",
-      "Equipada: TFT 3,5\", Keyless Ride, USB-C, marcha atrás y control de tracción ASC",
-      "Entrega de potencia muy bien dosificada, sin brusquedades (motorpasionmoto)",
+pros: [
+      "Es la CE 02 que sí sale de la ciudad: sus 11 kW son el techo del carnet A1 y empujan hasta 95 km/h, así que puede enlazar rondas y vías rápidas cortas, algo vetado a su hermana de 4 kW limitada a 45 km/h.",
+      "El golpe de gas en Flow o Surf llega sin esperas: 55 Nm eléctricos desde parado y el 0 a 50 km/h cerrado en 3,0 segundos, que en tráfico denso vale más que cualquier cifra de velocidad punta.",
+      "Quien aparca en la calle no queda vendido: las dos baterías suman 3,92 kWh, se extraen y se pueden enchufar en un piso o en el trabajo; con el cargador rápido opcional el 20-80 % baja a 100 minutos.",
+      "Su chasis tubular de doble bucle, el basculante monobrazo y las llantas lenticulares no son postureo: con 132 kg se deja meter en huecos imposibles y aguanta bordillos y adoquín sin sentirse de juguete.",
+      "Para maniobrar a pulso ayuda la marcha atrás, y una vez en marcha suman el ASC, el arranque sin llave Keyless Ride, la pantalla TFT de 3,5 pulgadas y el USB-C para el móvil.",
     ],
-    contras: [
-      "Precio elevado para sus prestaciones (versión 11 kW desde ~8.400€)",
-      "Sin hueco bajo el asiento: capacidad de carga nula de serie",
-      "ABS solo en la rueda delantera",
-      "Autonomía limitada: 95 km WMTC, y el modo Flash la devora",
-      "El cargador rápido de 1,5 kW es opcional (de serie solo 900 W)",
-      "Suspensión trasera de corto recorrido (56 mm), algo seca en baches",
+contras: [
+      "La factura duele en clave A1: unos 8.400 euros aproximados por 95 km WMTC de autonomía homologada obligan a pagar diseño y marca, no kilómetros.",
+      "Con el cargador de 900 W de serie la recarga se hace larga; el de 1.500 W que recorta tiempos es opcional y encarece aún más el conjunto.",
+      "No esperes guardar nada en la moto: bajo el asiento mandan las baterías y no hay hueco útil, así que el casco de repuesto o la compra van a la mochila.",
+      "El ABS solo protege la rueda delantera y detrás el amortiguador recorre solo 56 mm: en frenadas fuertes sobre mojado y en baches seguidos toca ir con más tacto del deseable.",
     ],
-    curiosidades: [
-      "BMW la define como 'e-parkourer': ni scooter ni moto, inspirada en el parkour urbano",
-      "Existe versión limitada a 4 kW/45 km/h conducible con carnet AM desde los 15 años",
-      "BMW lanzó una edición especial con Deus Ex Machina (CE 02 x Deus Lodge) de estilo surf californiano",
-      "Derrapar con la rueda trasera es fácil al no llevar ABS atrás, algo que los probadores destacan como divertido",
+curiosidades: [
+      "Aunque luce placa BMW y se diseñó en Múnich, esta CE 02 sale de la planta de TVS en Hosur, en la India, de donde también salen las G 310 de la marca.",
+      "El acabado Highline se reconoce a distancia por las horquillas anodizadas en dorado y el color Petrol de contraste, un guiño estético que BMW reservó como paquete opcional.",
     ],
     imagen: "/media/bmw-ce-02-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -771,34 +766,22 @@ curiosidades: [
     aprox: [
       "pesoKg",
     ],
-    pros: [
-      "Dos baterías extraíbles: hasta 137 km WMTC y posibilidad de cargar donde quieras",
-      "Rueda alta (16\"/14\"): más estable y cómoda que un scooter de rueda pequeña",
-      "Marcha atrás y modo parking desde la piña, muy útil para aparcar",
-      "Aceleración brillante desde parado, superior a una 125 de gasolina (canariasenmoto)",
-      "Conectividad: GPS, SIM M2M y app con localización y autodiagnóstico (2 años incluidos)",
-      "Precio contenido para su nivel de equipamiento",
-      "Baterías extraíbles de 60 V y 45 Ah (18 kg cada una) que se cargan en unas 3,5 h en un enchufe doméstico: no hace falta punto de recarga (motosan.es / Electyum).",
-      "La versión CPx Pro eleva la potencia hasta 4,8 kW de pico y añade instrumentación LCD a color con económetro, además de la marcha atrás eléctrica (motosan.es).",
+pros: [
+      "La pantalla LCD panorámica de la Pro no es un adorno: el económetro muestra el consumo en amperios en tiempo real, así que aprendes en dos días qué modo y qué ritmo de puño te dejan llegar a casa sin apurar la segunda batería.",
+      "Puedes vivir sin garaje con punto de carga: cada batería de 60 V y 45 Ah pesa 18 kg, se extrae y se enchufa en casa en unas 3,5 horas; con las dos montadas homologa 137 km WMTC, frente a los 72 km con una sola.",
+      "No es un scooter de rueda pequeña disfrazado: lleva 16 pulgadas delante y 14 detrás, plataforma plana para los pies y 144 kg en orden de marcha, una combinación que se nota al pasar badenes y al salir a una ronda urbana con tráfico rápido.",
+      "La marcha atrás accionada desde la piña y los tres modos —ahorro hasta 45 km/h, óptimo hasta 70 km/h y máximo rendimiento— resuelven justo lo que más se repite con un scooter de este tamaño: maniobrar en un garaje estrecho y dosificar la carga entre semana.",
+      "El asiento del acompañante se desmonta y detrás queda una parrilla plana preparada para un baúl estándar, algo muy práctico si la Pro pasa de ir a trabajar a hacer recados o reparto ligero sin cambiar de moto.",
     ],
-    contras: [
-      "Sin ABS: solo frenada combinada CBS",
-      "Autonomía real con una batería modesta (~74 km medidos por moto125.cc en modo 1)",
-      "90 km/h de punta justos para vías rápidas",
-      "Con las dos baterías montadas se pierde el hueco bajo el asiento",
-      "El cargador hace bastante ruido por el ventilador (1xmatch)",
-      "Calidad de plásticos mejorable frente a marcas japonesas",
-      "Solo frenada combinada CBS, sin ABS: en 2026 ya es un debe frente a rivales eléctricos que montan ABS (super7moto).",
-      "Con las dos baterías montadas se pierde el hueco bajo el asiento: hay que elegir entre los 137 km de autonomía o llevar un casco jet (motospruebas.com).",
-      "El cargador hace mucho ruido por el ventilador durante la carga: mejor no dejarlo cargando de noche junto al dormitorio (es.avtotachki.com).",
+contras: [
+      "Frena con CBS, sin ABS: en mojado o sobre pintura vial tendrás que dosificar tú la frenada, cuando en 2026 ya hay rivales eléctricos de 125 que sí montan antibloqueo.",
+      "La autonomía buena exige un sacrificio claro: con las dos baterías instaladas desaparece el hueco bajo el asiento, así que toca elegir entre los 137 km homologados o guardar un casco jet dentro.",
+      "Sus 90 km/h declarados dan para rondas y accesos cortos, pero no sobran: con acompañante o viento en contra, una vía rápida se convierte en ir casi siempre a fondo.",
+      "El cargador ventila haciendo bastante ruido y cada batería pide sus 3,5 horas; si cargas las dos en casa, una detrás de otra, la Pro te obliga a organizar la noche en vez de dejarla enchufada y olvidarte.",
     ],
-    curiosidades: [
-      "Super Soco es la marca urbana de VMoto, compañía australiana que cotiza en bolsa",
-      "Existe una versión de reparto, la CPx-D, con cajón trasero y 130 km de autonomía WMTC",
-      "moto125.cc midió 91 km/h de velocidad máxima real y un coste de uso de solo 0,70 €/100 km",
-      "Lleva de serie alarma con mando a distancia y bloqueo de la rueda trasera",
-      "El CPx nació como el proyecto con el que Xiaomi quiso entrar en las motos eléctricas: la tecnológica llegó a tener un 30 % de Super Soco (motosan.es).",
-      "En la prueba de hibridosyelectricos.com alcanzó 99 km/h reales con una batería, nueve más que los 90 km/h declarados (hibridosyelectricos.com).",
+curiosidades: [
+      "El CPx se proyectó como la vía de entrada de Xiaomi en las motos eléctricas: la tecnológica llegó a controlar en torno a un 30 % de Super Soco, aunque quien acabó vendiendo el scooter en Europa fue la propia Super Soco.",
+      "Del mismo scooter existe la CPx-D pensada para reparto, con cajón trasero de serie; la base también ha dejado mediciones llamativas en prensa española, como un coste de uso de 0,70 € por cada 100 km registrado por moto125.cc.",
     ],
     imagen: "/media/super-soco-cpx-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -820,6 +803,18 @@ curiosidades: [
     fuenteNombre: "motosan.es (precio de tarifa de la CPx Pro publicado en su presentación)",
     fuenteUrl: "https://www.motosan.es/motos/nuevo-super-soco-cpx-pro-tecnologia-punta-y-muchos-detalles-de-calidad/",
     analisisSlug: "super-soco-cpx-analisis-opinion",
+    planMantenimiento: {
+      intervalo: "Plan de mantenimiento del fabricante (detalle en las revisiones)",
+      revisiones: [
+        {
+          nombre: "Plan de mantenimiento del fabricante",
+          queSeCambia: "Plan orientativo tomado del CPx probado por MotosPruebas, con la misma base mecánica que esta Pro: primera revisión a los 1.000 km y las siguientes cada 5.000 km o al año, con un coste aproximado de 35 euros por revisión en aquella prueba. Al no haber aceite de motor ni embrague que atender, el gasto se concentra en frenos, neumáticos y la comprobación de baterías, cargador y tornillería.",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "https://www.motospruebas.com/2021/09/test-ride-prueba-super-soco-cpx-2021.html",
+    },
   },
   {
     id: "pursang-e-track-ficha-tecnica-precio",

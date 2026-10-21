@@ -1465,27 +1465,21 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["precioDesde"],
-    pros: [
-      "V-twin de 448 cc con 50 CV y 45 Nm: el sonido y el carácter de una custom de verdad",
-      "Diseño bobber de guardabarros corto y depósito de lágrima: puro estilo",
-      "196 kg en seco y asiento a 720 mm: accesible y manejable",
-      "Depósito de 16 litros para una custom de este tamaño",
-      "En China cuesta unos 6.000-6.500 $: una custom V-twin por el precio de una 125 europea",
-      "La marca Benda es famosa por sus diseños rompedores (LFC 700, Darkflag)",
+pros: [
+      "Su bicilíndrico en V de 448 cc y 50 CV marca la diferencia frente a la mayoría de custom de esta cilindrada: aquí manda el pulso al ralentí y el empuje grave al salir de una rotonda, no la estirada larga.",
+      "La silueta es bobber sin medias tintas, con guardabarros trasero recortado y depósito en forma de lágrima, muy distinta a la línea más cruiser de su hermana Chinchilla 450 pese a compartir base mecánica.",
+      "Los 196 kg declarados y el asiento bajo que recoge la ficha la hacen menos intimidante en parado que una custom grande, algo que se nota al maniobrar entre coches o al apoyar los pies en un semáforo.",
+      "El depósito de 16 litros que figura en la ficha da margen para salidas de domingo sin vivir pendiente de la siguiente gasolinera, un detalle poco habitual en bobber tan recortadas de carrocería.",
     ],
-    contras: [
-      "No se vende oficialmente en España: solo importación o mercados asiáticos",
-      "Sin precio oficial europeo: la referencia china la sitúa en ≈6.500 € al cambio",
-      "Sin red de servicio ni recambios en Europa",
-      "Homologación Euro 5 para Europa por confirmar",
-      "50 CV para 196 kg: ritmo tranquilo, no esperes deportividad",
-      "Reventa inexistente en el mercado europeo",
+contras: [
+      "En España no hay venta oficial de la Napoleon 450: hacerse con una pasa por importación o por mercados asiáticos, con todo lo que eso complica la compra y la matriculación.",
+      "Los 6.500 € que muestra la ficha son una cifra aproximada, no un PVP europeo cerrado, así que el coste final puede moverse según importador, transporte y homologación.",
+      "Sin red propia de servicio ni recambios asentada en Europa, una simple caída o una pieza de desgaste puede convertirse en una espera larga si el importador no tiene stock.",
+      "Declara 50 CV, pero para el carnet A2 la ficha la limita a 35 kW: quien la quiera para ese permiso no disfrutará la versión plena hasta sacarse el A.",
     ],
-    curiosidades: [
-      "Benda presentó la Napoleon 450 en el Salón de Chongqing 2024 junto a la Chinchilla",
-      "Su V-twin a 60 grados es una rareza entre las custom chinas, casi todas monocilíndricas",
-      "El nombre rinde homenaje a Napoleón, como guiño a su ambición imperial",
-      "Benda saltó a la fama mundial con la LFC 700, una power-cruiser de 4 cilindros",
+curiosidades: [
+      "Se desveló en el Salón de Chongqing de 2024 junto a la Chinchilla 450, las dos con la misma base de 448 cc pero con carrocerías y posturas pensadas para gustos opuestos.",
+      "Su motor en V a 60 grados es una rareza en las custom chinas de media cilindrada, donde lo normal hasta ahora ha sido recurrir a un monocilíndrico mucho más sencillo.",
     ],
     imagen: "/media/benda-napoleon-450-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -1548,27 +1542,21 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["precioDesde"],
-    pros: [
-      "V-twin de 448 cc con 50 CV: custom clásica con mecánica noble",
-      "Estética cruiser tradicional con guardabarros largos y mucho cromo",
-      "198 kg en seco y asiento bajo: cómoda para el día a día",
-      "Depósito de 16 litros y consumo contenido del V-twin",
-      "Precio en China de unos 6.500 $: custom V-twin al precio de una 125 europea",
-      "Hermana de la Napoleon 450: la opción clásica frente a la bobber",
+pros: [
+      "Su V-twin propio de 448 cc entrega 37 kW (50 CV) y 45 Nm: no es un bicilíndrico en paralelo disfrazado de cruiser, es la arquitectura que pide una custom de verdad",
+      "Asiento segmentado pensado para llevar pasajero y doble amortiguador trasero visible, justo lo contrario del monoplaza flotante de la Napoleon 450 con la que comparte base",
+      "Transmisión por correa, horquilla invertida y pinza delantera de cuatro pistones con ABS de doble canal: equipamiento que en esta cilindrada suele pagarse aparte",
+      "Depósito de 16 litros y planteamiento de crucero urbano de tamaño medio, más grande y con neumáticos más anchos que la anterior Chinchilla 300",
     ],
-    contras: [
-      "No se vende oficialmente en España ni en Europa",
-      "Sin precio oficial europeo: ≈6.500 € al cambio como referencia china",
-      "Sin red de servicio ni recambios en Europa",
-      "Homologación Euro 5 para Europa por confirmar",
-      "Ritmo tranquilo: es una custom para disfrutar, no para correr",
-      "Reventa inexistente en el mercado europeo",
+contras: [
+      "En España no hay venta oficial de esta 450: los cerca de 6.500 € de la ficha son una referencia aproximada del precio chino, no un PVP que puedas firmar en un concesionario",
+      "Sin importador ni red de recambios europea confirmada para este modelo, una caída tonta puede convertirse en semanas esperando una pieza desde China",
+      "Frena con un solo disco delante para mover 198 kg: suficiente en uso tranquilo, justo si bajas un puerto cargado y con pasajero",
+      "Su evolución natural ya existe y se llama Chinchilla 500, con 476 cc, así que la 450 corre el riesgo de quedarse como versión de paso solo para su mercado de origen",
     ],
-    curiosidades: [
-      "La Chinchilla 450 se presentó junto a la Napoleon 450 en Chongqing 2024",
-      "Su nombre viene de la chinchilla, el roedor de pelaje suave: guiño a su suavidad",
-      "La versión posterior creció hasta los 476 cc como Chinchilla 500",
-      "Benda diseña todas sus motos con un estilo muy personal que rompe moldes",
+curiosidades: [
+      "Se desveló en mayo en Motor China junto a la Napoleon 450, salió en preventa el 1 de junio en China y las primeras entregas por lotes empezaron el 15 de julio, según China Motor World",
+      "En su mercado de origen se ofrecía en cinco colores —blanco, negro, gris, rojo y azul— y costaba 26.900 yuanes",
     ],
     imagen: "/media/benda-chinchilla-450-2024-ficha-tecnica-precio-1.webp",
     galeria: [

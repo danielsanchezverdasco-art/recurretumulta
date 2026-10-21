@@ -3183,17 +3183,18 @@ export const COCHES_EXP23: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: ["consumo"],
-    pros: [
-      "374 CV con etiqueta ECO: el coupé deportivo racional",
-      "0-100 en 4,4 s con tracción total",
-      "6 cilindros en línea con hibridación ligera",
-      "El último mohicano de los coupés compactos",
+pros: [
+      "El B58 de 2.998 cc sigue siendo el argumento: seis cilindros en línea, 374 CV y 500 Nm disponibles entre 1.850 y 5.000 rpm, con empuje lleno desde abajo y estirada hasta la zona alta, sin necesidad de recurrir al M2.",
+      "Arquitectura de coupé clásico en un compacto: plataforma de tracción trasera y reparto de pesos cercano al 50:50, justo lo que el Serie 1 y el Serie 2 Gran Coupé, de base de tracción delantera, no pueden ofrecer.",
+      "La tracción total xDrive no lo convierte en un tracción delantera disfrazado: reparte con criterio de coupé deportivo y permite explotar los 4,4 s de 0 a 100 km/h que recoge la ficha también saliendo de curvas lentas o con el asfalto frío.",
+      "Caja Steptronic Sport de ocho velocidades con levas en el volante, Launch Control y función Sprint, que al mantener pulsada la leva izquierda baja a la marcha más corta posible para un adelantamiento inmediato.",
+      "Con 4.548 mm de largo conserva un maletero de 390 litros y respaldo trasero abatible por partes: es un deportivo de diario y de escapada de dos, no un juguete inutilizable entre semana.",
     ],
-    contras: [
-      "Diseño polarizante",
-      "Plazas traseras solo para niños",
-      "El M2 ofrece mucho más por un salto asumible",
-      "Versión sin prueba EuroNCAP propia",
+contras: [
+      "Pesa 1.765 kg en la ficha de la prueba española del G42: para un coupé compacto es mucho, y se nota en inercias, neumáticos y frenos si encadenas curvas o entras en circuito.",
+      "Las cuatro plazas son teóricas para adultos: el acceso trasero exige contorsionarse por la puerta larga y la caída del techo recorta la altura; detrás viajan bien niños o adultos solo en trayectos cortos.",
+      "No hay cambio manual en esta generación: todo pasa por la automática de ocho velocidades, por buena que sea, algo que el purista que viene de un F22 manual echará en falta.",
+      "Su Serie 2 Coupé se quedó en cuatro estrellas Euro NCAP en 2022, no cinco: la frenada autónoma rindió solo de forma limitada ante ciclistas que cruzan o en giros, con un 64 % en asistentes y un 67 % en usuarios vulnerables.",
     ],
     imagen: "/media/bmw-m240i-xdrive-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/bmw-m240i-xdrive-2026-precio-ficha-tecnica-oficial.webp",
@@ -3213,11 +3214,11 @@ export const COCHES_EXP23: CocheComparador[] = [
       notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
       estimado: true,
     },
-    euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP: versión M240i no probada",
+euroncap: {
+      estrellas: 4,
+      ano: 2022,
+      url: "https://www.euroncap.com/press-media/euro-ncap-twenty-five-years-on-new-polo-taigo-megane-and-nx-earn-highest-accolades/",
+      nota: "Resultado Euro NCAP verificado para este modelo.",
     },
     planMantenimiento: {
       intervalo: "30.000 km o 24 meses (lo que ocurra antes, según CBS)",

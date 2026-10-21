@@ -31,25 +31,22 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: [],
-    pros: [
-      "Motor bicilíndrico de 799 cc con 95 CV: la trail china más potente del carnet A2 (limitada)",
-      "Depósito de 22,5 litros, de los más grandes del segmento trail medio",
-      "Llantas de radios sin cámara en 21\" y 18\", pensada para el off-road de verdad",
-      "Electrónica completa: modos de conducción, control de tracción y ABS desconectable",
-      "Precio de 9.995 € muy por debajo de las trail europeas y japonesas equivalentes",
+pros: [
+      "Suspensiones de 230 mm delante y detrás, con horquilla invertida de 48 mm regulable en todos los parámetros: es el salto real frente a las 800MT de 2022, que se quedaban en 160 y 150 mm de recorrido.",
+      "Depósito de 22,5 litros partido y descolgado por los laterales, al estilo de las KTM Adventure: baja el centro de gravedad en pista y permite alargar las etapas sin repostar cada dos por tres.",
+      "De serie ya trae lo que en otras trail va a la lista de opciones: quickshifter bidireccional, control de crucero, TFT vertical de 7 pulgadas, control de presión de neumáticos y cubrecárter de aluminio por 9.995 euros.",
+      "Frenada J.Juan con doble disco delantero de 320 mm y pinzas radiales de cuatro pistones, con ABS en curva gestionado por una IMU de seis ejes y modo Off-road específico.",
+      "Asiento corrido regulable entre 830 y 870 mm: en la posición baja se defiende mejor en ciudad y en la alta deja sitio para pilotar de pie sin ir encogido.",
     ],
-    contras: [
-      "220 kg en orden de marcha: pesada para el campo técnico",
-      "95 CV obligan a limitarla para el A2, con el coste y papeleo que eso supone",
-      "Red de concesionarios y repuestos más pequeña que Honda, Yamaha o KTM",
-      "Altura de asiento elevada: complicada para pilotos de menos de 1,70 m",
-      "Depreciación mayor que las marcas japonesas en el mercado de ocasión",
+contras: [
+      "Con 220 kg en orden de marcha no es la trail para trialeras ni para levantarla en solitario tras una caída en barro: en campo técnico el peso se nota enseguida.",
+      "En configuración alta el asiento queda a 870 mm, así que si mides menos de 1,70 m lo normal es llegar de puntillas en las paradas y en las maniobras a baja velocidad.",
+      "Para conducirla con el A2 hay que limitar los 95 CV, con kit, paso por ITV y deslimitación posterior: un trámite y un gasto que las rivales nacidas para el A2 no exigen.",
+      "La red comercial de CFMoto en España sigue siendo más corta que la de Honda o Yamaha, y eso se puede traducir en esperas más largas para ciertos repuestos fuera de las grandes ciudades.",
     ],
-    curiosidades: [
-      "Comparte la base mecánica del motor KTM 790, desarrollado junto a la marca austriaca",
-      "La X es la versión más campera de la familia 800MT, con rueda delantera de 21 pulgadas",
-      "CFMoto fabrica en China también para KTM, lo que explica el parentesco técnico",
-      "Es la trail de mayor cilindrada que CFMoto vende en España",
+curiosidades: [
+      "En Estados Unidos esta familia 800MT no se llama MT: se vende como Ibex 800 para no chocar con la denominación MT de Yamaha.",
+      "Admite como accesorio un depósito trasero adicional de 8 litros sobre los 22,5 litros de serie, pensado para travesías largas lejos de gasolineras.",
     ],
     imagen: "/media/motos/cfmoto-800mt-x-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -598,24 +595,22 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: [],
-    pros: [
-      "125 urbana con 15 CV al límite legal por 3.199 €",
-      "Solo 140 kg: ágil entre el tráfico y fácil de aparcar",
-      "Garantía oficial de 6 años o 50.000 km",
-      "Válida con carnet B (+3 años de antigüedad)",
-      "Consumo contenido, ideal para el día a día",
+pros: [
+      "El monocilíndrico SOHC de 4 válvulas y refrigeración líquida entrega 15 CV a 8.750 rpm y 12 Nm a 8.250 rpm, el techo legal del A1/B, y el sistema microhíbrido suma un empujón eléctrico justo en las arrancadas, donde un 125 más lo agradece en ciudad.",
+      "Nada de equipamiento pelado: de serie trae pantalla TFT de 5 pulgadas con mirroring del móvil, control de tracción, ABS de doble canal, control de presión de neumáticos TPMS, iluminación full LED y tomas USB y USB-C.",
+      "Por los 3.199 € de esta ficha de 2025 venían incluidos el baúl trasero de serie y la garantía QJ de 6 años o 50.000 km, una cobertura que en un Honda o un Yamaha de 125 ni se acerca a esa duración.",
+      "Su parte ciclo es de crossover de verdad, no solo de estética: horquilla de 40 mm con 124 mm de recorrido, pareja de amortiguadores traseros regulables en precarga con botella de gas separada y neumáticos 100/80-14 delante y 130/70-13 detrás sobre 140 kg en orden de marcha.",
+      "Pensada para el uso diario con carnet B más 3 años o A1: arranque keyless, sistema Start & Stop, freno de estacionamiento, manetas regulables, parabrisas ajustable en dos posiciones, doble guantera en el contraescudo y piñas retroiluminadas.",
     ],
-    contras: [
-      "15 CV justos para carretera abierta",
-      "Equipamiento básico frente a las 125 premium",
-      "Red de servicio más pequeña que Honda o Yamaha",
-      "Reventa modesta en ocasión",
-      "Sin pantalla TFT ni conectividad",
+contras: [
+      "El depósito se queda en 8 litros: aunque el microhíbrido ayude en las salidas, en trayectos de extrarradio o escapadas de fin de semana tocará repostar antes que con un scooter GT de depósito grande.",
+      "Bajo el asiento solo cabe un casco jet; el integral depende del baúl trasero de serie, así que sin ese top case puesto la capacidad real para dos cascos desaparece.",
+      "La ayuda eléctrica actúa en las arrancadas y QJMotor no ha publicado una cifra oficial de ahorro de consumo que la respalde: el par máximo, además, llega alto, a 8.250 rpm, y en carretera abierta esos 15 CV siguen siendo los de un 125.",
+      "Es una recién llegada a un segmento dominado por veteranos: QJMotor no desembarcó en España hasta 2022, su red es más corta que la de las japonesas consolidadas y el valor de reventa de un ATR de ocasión aún está por comprobar.",
     ],
-    curiosidades: [
-      "QJMotor ofrece 6 años de garantía, la más larga entre las marcas chinas en España",
-      "El grupo Geely respalda a QJMotor a nivel mundial",
-      "La ATR 125 es la puerta de entrada a la marca",
+curiosidades: [
+      "En su lanzamiento se presentó como el único scooter crossover de 125 con sistema microhíbrido, una ayuda eléctrica en las arrancadas que hasta entonces QJMotor ya había estrenado en su MTX 125.",
+      "Lleva sistema ABL: si frenas de forma brusca, la luz de freno se activa automáticamente para avisar a quien viene detrás y tratar de evitar una colisión por alcance, algo muy poco habitual en un 125 de 3.199 €.",
     ],
     imagen: "/media/motos/qjmotor-atr-125-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -638,6 +633,18 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es",
     analisisSlug: "qjmotor-atr-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
+    planMantenimiento: {
+      intervalo: "Plan de mantenimiento del fabricante (detalle en las revisiones)",
+      revisiones: [
+        {
+          nombre: "Plan de mantenimiento del fabricante",
+          queSeCambia: "QJMotor España no publica en la página oficial del ATR 125 ni los intervalos en kilómetros de las revisiones ni sus precios cerrados, así que no se da ninguna cifra de mantenimiento. Lo único verificable es la condición de la garantía: los 6 años, con límite de 50.000 km, solo se mantienen si se cumplen las revisiones programadas en concesionarios y talleres oficiales de la marca y se utiliza recambio original QJ Motor. Pide el plan y la tarifa por escrito en el concesionario antes de firmar.",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "https://qjmotor.es/Moto/atr-125",
+    },
   },
   {
     id: "qjmotor-fort-350-evo-2025-ficha-tecnica-precio",

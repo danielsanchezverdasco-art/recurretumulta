@@ -2047,19 +2047,17 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "traccion": "Total",
     "emisionesCo2": null,
     "aprox": [],
-    "pros": [
-      "45.760 € (km77): el Ateca con tracción total 4Drive",
-      "190 CV y 320 Nm: 0-100 en 7,2 s",
-      "212 km/h de velocidad máxima",
-      "Maletero de 485 L",
-      "El SUV veterano de Cupra, fiable y probado"
+"pros": [
+      "La tracción total 4Drive viene de serie en esta versión de 190 CV: es el Ateca de gasolina que no se queda vendido con lluvia, nieve ligera o una pista de tierra, sin tener que saltar al de 300 CV.",
+      "Con 190 CV y 320 Nm hace el 0 a 100 km/h en 7,2 s y llega a 212 km/h: prestaciones de compacto deportivo metidas en un SUV de 4,38 m que sigue entrando en cualquier garaje comunitario.",
+      "El maletero se queda en 485 litros con la tracción total, cifra usable para una familia de cinco sin recurrir a cofre de techo en cada escapada.",
+      "Parte de 45.760 € según la ficha: es la puerta de entrada al Ateca con 4Drive, por debajo del escalón de potencia que históricamente encabezaba la gama.",
     ],
-    "contras": [
-      "Modelo veterano: plataforma e interior de anterior generación",
-      "Etiqueta C",
-      "El Terramar es su sucesor natural",
-      "Sin hibridación",
-      "Consumo real alto con 4Drive"
+"contras": [
+      "Etiqueta C de la DGT y sin ningún tipo de hibridación: en ciudades con zona de bajas emisiones cada vez más restrictiva, este 190 CV envejece peor que un rival con distintivo ECO.",
+      "Es un modelo veterano derivado del SEAT Ateca de 2016: plataforma e interior corresponden a la generación anterior, y se nota frente al Formentor o al propio Terramar en pantallas y acabados.",
+      "El Terramar ya es su sucesor natural en la gama Cupra, así que compras un coche a final de ciclo: bueno para negociar precio, malo para valor residual a medio plazo.",
+      "La tracción 4Drive y el peso de un SUV de gasolina se pagan en consumo real, sobre todo en ciudad y en trayectos cortos, donde este 2.0 TSI no tiene ayuda eléctrica que lo disimule.",
     ],
     "imagen": "/media/cupra-ateca-190-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/cupra-ateca-190-2025-precio-ficha-tecnica-oficial.webp",
@@ -2097,7 +2095,25 @@ export const COCHES_CUPRA: CocheComparador[] = [
         "ancho": 1200,
         "alto": 800
       }
-    ]
+    ],
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos Euro NCAP propios: no consta un ensayo específico del Cupra Ateca 190 4Drive de 2025 en Euro NCAP. El coche del que deriva, el SEAT Ateca, obtuvo cinco estrellas en el ensayo de 2016, con un 93 % en protección de ocupantes adultos y un 84 % en infantil, pero esa valoración expiró en enero de 2023 y no debe presentarse como resultado vigente ni como nota del Cupra de 2025.",
+    },
+    planMantenimiento: {
+      intervalo: "Plan de mantenimiento del fabricante (detalle en las revisiones)",
+      revisiones: [
+        {
+          nombre: "Plan de mantenimiento del fabricante",
+          queSeCambia: "Según el programa de mantenimiento oficial de Cupra para el Ateca, el filtro de polvo y polen se sustituye cada 2 años o 20.000 km, el filtro de aire cada 2 años o 30.000 km, el líquido de frenos primero a los 3 años y después cada 2 años, y las bujías cada 4 años o 40.000 km. Para el cambio DSG figuran intervalos propios según la versión de la caja, de hasta 120.000 km en la de siete marchas referenciada en el programa. Es un programa de Cupra México, no un tarifario español: confirma intervalos y precios de cada revisión en un servicio oficial Cupra en España antes de comprar, porque no se ha encontrado un coste de revisión verificable para este mercado.",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "https://www.cupraoficial.mx/content/dam/countries/mx/cupra-website/descargas/programas/ateca/Programa_mantenimiento_CUPRA_Ateca_cars-maintenance_program-brochure-KH76-NA-03-2021.pdf",
+    },
   },
   {
     id: "cupra-ateca-vz-300-2025-precio-ficha-tecnica",
@@ -2128,19 +2144,17 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "traccion": "Total",
     "emisionesCo2": null,
     "aprox": [],
-    "pros": [
-      "300 CV y 400 Nm: 0-100 en 4,9 s, prestaciones de deportivo",
-      "56.000 € (km77): el Ateca más radical",
-      "250 km/h de velocidad máxima",
-      "Tracción total 4Drive",
-      "Maletero de 485 L intacto"
+"pros": [
+      "El salto frente al Ateca de 190 CV es brutal en línea recta: con 300 CV y 400 Nm firma 4,9 s de 0 a 100 km/h y 250 km/h de punta, cifras que en 2018 solo se veían en SUV premium mucho más caros.",
+      "Mantiene los 485 litros de maletero pese a la tracción total 4Drive y al planteamiento VZ, así que no pagas la deportividad recortando el uso familiar diario.",
+      "La combinación 2.0 TSI, DSG de siete velocidades y chasis con DCC opcional permite usarlo manso en ciudad y muy serio en puerto, sin cambiar de coche.",
+      "Al ser el CUPRA original, conserva una carrocería compacta de 4.381 mm que entra y gira mejor en ciudad que un Terramar, más grande y pesado en concepto.",
     ],
-    "contras": [
-      "Etiqueta C con 300 CV: fiscalidad dura",
-      "Modelo veterano frente al Terramar",
-      "Consumo real muy alto",
-      "El Terramar VZ 265 es más moderno por menos",
-      "Interior de anterior generación"
+"contras": [
+      "Se queda con etiqueta C de la DGT sin ningún apoyo eléctrico, mientras el Terramar ya ofrece versiones eTSI con etiqueta ECO e híbridas enchufables con etiqueta CERO.",
+      "Pagar 56.000 euros por una base que nació como SEAT Ateca en 2016 pesa: salpicadero, pantallas y mandos denuncian una generación anterior a Formentor y Terramar.",
+      "El 2.0 TSI de 300 CV exige ir con calma con el pie derecho si no quieres vivir en la gasolinera; es un motor para disfrutar, no para ahorrar en uso mixto.",
+      "Dentro de la propia casa queda en tierra de nadie: el Terramar VZ de 265 CV es más nuevo, más tecnológico y con mejor planteamiento familiar por un desembolso parecido.",
     ],
     "imagen": "/media/cupra-ateca-vz-300-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/cupra-ateca-vz-300-2025-precio-ficha-tecnica-oficial.webp",
@@ -2178,7 +2192,25 @@ export const COCHES_CUPRA: CocheComparador[] = [
         "ancho": 1200,
         "alto": 800
       }
-    ]
+    ],
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin ensayo Euro NCAP específico y verificable para el CUPRA Ateca VZ 300 en euroncap.com. El SEAT Ateca de base obtuvo cinco estrellas en 2016, pero ese resultado no se traslada automáticamente a esta versión CUPRA de 300 CV, por lo que no se le asignan estrellas propias.",
+    },
+    planMantenimiento: {
+      intervalo: "Plan de mantenimiento del fabricante (detalle en las revisiones)",
+      revisiones: [
+        {
+          nombre: "Plan de mantenimiento del fabricante",
+          queSeCambia: "Según el programa de mantenimiento de CUPRA para el Ateca, el servicio sigue el indicador del cuadro, con trabajos complementarios cerrados: filtro de polvo y polen cada 2 años o 20.000 km, filtro de aire cada 2 años o 30.000 km, líquido de frenos primero a los 3 años y después cada 2 años, y bujías cada 4 años o 40.000 km. En un VZ de 300 CV conviene no apurar aceite ni DSG y confirmar en taller oficial el intervalo concreto según el código PR de la unidad.",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "https://www.cupraoficial.mx/content/dam/countries/mx/cupra-website/descargas/programas/ateca/Programa_mantenimiento_CUPRA_Ateca_cars-maintenance_program-brochure-KH76-NA-03-2021.pdf",
+    },
   },
   {
     id: "cupra-raval-plus-2026-precio-ficha-tecnica",

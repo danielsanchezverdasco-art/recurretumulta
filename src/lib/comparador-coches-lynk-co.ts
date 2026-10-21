@@ -34,19 +34,18 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
     bateriaKwh: 17.7,
     cargaRapidaKw: null, // sin carga en continua: solo 7 kW en alterna
     etiquetaDgt: "Cero",
-    pros: [
-      "276 CV y 535 Nm: el PHEV compacto más potente de su rango de precio",
-      "75 km eléctricos WLTP con etiqueta Cero de la DGT",
-      "Desde 40.995 €: muy competitivo frente al RAV4 PHEV o el Tiguan eHybrid",
-      "5 estrellas Euro NCAP y pantalla de 15,4 pulgadas con Snapdragon 8155",
-      "Consumo homologado de 0,9 l/100 km si lo cargas a diario",
+pros: [
+      "El salto de esta versión está en el empuje: 535 Nm, 110 Nm más que el 01 original, con 276 CV según la ficha y el 0 a 100 km/h en 7,7 segundos, sin perder los 75 km eléctricos ni la etiqueta Cero",
+      "La pantalla crece de 12,7 a 15,4 pulgadas y estrena procesador Qualcomm Snapdragon 8155: era el punto flojo del primer 01 y en esta renovación el sistema multimedia por fin responde sin esperas",
+      "Gasta menos ofreciendo más: homologa 0,9 l/100 km y 20 g/km de CO₂ frente al litro y los 24 g/km del modelo anterior, siempre que se enchufe a diario para exprimir la batería de 17,7 kWh",
+      "Gama de solo dos acabados y sin lista de opciones laberíntica: el Core ya trae llantas de 19 pulgadas y tapicería ECONYL, y el More suma llantas de 20, equipo Infinity de 10 altavoces y techo panorámico",
+      "El propietario puede dar de alta su propio 01 en la plataforma de coche compartido de la marca y alquilarlo desde la app, con apertura y arranque desde el móvil, para rebajar el coste de tenerlo parado",
     ],
-    contras: [
-      "Sin carga rápida en continua: solo 7 kW en alterna (30-80 % en 2,8 h)",
-      "Maletero de 349 l, justo para un SUV de 4,54 m",
-      "Pantalla táctil sin botones físicos: ergonomía mejorable",
-      "Asistencias a la conducción algo intrusivas",
-      "Red comercial pequeña en España (Volvo la asumirá en 2027)",
+contras: [
+      "Nada de carga rápida en continua: el cargador de a bordo admite 6,6 kW en alterna, así que una carga completa roza las tres horas y en viajes largos el peso lo lleva el motor de gasolina",
+      "El maletero que declara esta ficha, 349 litros, se queda corto para un SUV de 4,54 metros que pretende ser el único coche familiar de la casa",
+      "Las ayudas a la conducción pitan y corrigen más de la cuenta, y desconectarlas obliga a bucear por los menús de la pantalla en cada arranque, porque casi no quedan botones físicos para lo habitual",
+      "La suscripción sin permanencia que lo hizo famoso ya no se ofrece con el 01 renovado, solo con el modelo anterior: quien lo estrena en 2025 pasa por la compra convencional de toda la vida",
     ],
     largoMm: 4541,
     anchoMm: 1857,
@@ -105,6 +104,18 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
         "alto": 800
       }
     ],
+    planMantenimiento: {
+      intervalo: "Plan de mantenimiento del fabricante (detalle en las revisiones)",
+      revisiones: [
+        {
+          nombre: "Plan de mantenimiento del fabricante",
+          queSeCambia: "Las condiciones oficiales de Lynk & Co en España fijan el mantenimiento programado cada 24 meses o 30.000 km, lo que ocurra antes, en un taller contratado por la marca. La revisión incluye comprobaciones de funcionamiento, seguridad y desgaste, revisión de niveles de líquidos, actualización del software y sustitución de filtros de motor y de habitáculo, bujías y correas según el intervalo que toque. La marca no publica una tarifa cerrada para el comprador particular, así que no se da ningún coste de revisión.",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "https://www.lynkco.com/es-es/terms-and-policies/business-month-to-month-20230723",
+    },
   },
   {
     id: "lynk-co-08-phev-2025-precio-ficha-tecnica",

@@ -1846,19 +1846,18 @@ export const COCHES_CITROEN: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: [
-      "Desde ~21.000 €: el SUV de 4,39 m más barato",
-      "Maletero de 460 L: enorme para su precio",
-      "1.2 Turbo de 100 CV con cadena: adiós a la correa bañada en aceite",
-      "5,9 l/100 km homologados",
-      "Suspensión confort Citroën de serie",
+pros: [
+      "Desde unos 21.000 € según la ficha para un SUV de 4.395 mm: en su tamaño y con cinco plazas, es de lo más barato que se puede estrenar sin bajar a un utilitario.",
+      "460 litros de maletero en la versión de cinco plazas: la cifra que marca la ficha supera a la de buena parte de los B-SUV y es el argumento que lo separa de su hermano, el C3 a secas.",
+      "El 1.2 Turbo de esta generación abandona la correa de distribución bañada en aceite que tantos quebraderos dio en los PureTech anteriores y pasa a cadena, con 100 CV y 205 Nm para mover 1.330 kg.",
+      "5,9 l/100 km homologados y 133 g/km de CO2: sin batería ni motor eléctrico de apoyo, el gasto se queda en lo que gastarías con un gasolina pequeño de toda la vida.",
+      "La suspensión de enfoque confort que Citroën monta de serie es su rasgo distintivo frente a rivales más secos de reacciones: en ciudad y en carreteras rotas filtra en vez de rebotar.",
     ],
-    contras: [
-      "Etiqueta C: sin hibridación",
-      "100 CV justos: 12,5 s de 0-100",
-      "Acabados básicos en el You de acceso",
-      "El Hybrid 145 solo cuesta ~4.500 € más y tiene ECO",
-      "Plásticos duros generalizados",
+contras: [
+      "Etiqueta C de la DGT y nada más: sin hibridación, este 1.2 queda fuera de las ventajas de la ECO justo cuando el Hybrid de la misma gama sí la consigue.",
+      "12,5 segundos de 0 a 100 km/h según la ficha: con cinco ocupantes y el maletero lleno, adelantar en una nacional exige planificación, no un pisotón.",
+      "El acabado You de acceso recorta donde se nota a diario: km77 recoge que ni siquiera incluye pantalla multimedia ni cámara trasera, elementos que el Plus ya incorpora.",
+      "Plásticos duros generalizados en el habitáculo: es el peaje visible de contener el precio, y se nota al tacto en puertas y consola frente a un 2008 o un Captur.",
     ],
     largoMm: 4395,
     anchoMm: 1795,
@@ -1904,6 +1903,12 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 800
       },
     ],
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos Euro NCAP para esta generación: a fecha de la consulta, Euro NCAP no ha evaluado el C3 Aircross sobre plataforma Smart Car presentado en 2024, con ninguna de sus motorizaciones. No confundir con las cinco estrellas de su antecesor de 2017, ya expiradas y de otra plataforma, ni con el cero estrellas de Latin NCAP de 2024, que corresponde a la versión brasileña con solo dos airbags y no a la europea que se vende en España.",
+    },
   },
   {
     id: "citroen-c3-gasolina-2026-precio-ficha-tecnica",
@@ -1927,19 +1932,18 @@ export const COCHES_CITROEN: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: [
-      "Desde ~16.500 €: de los urbanos más baratos",
-      "Motor 1.2 Turbo con cadena de distribución",
-      "Suspensión Advanced Comfort: baches ni los notas",
-      "4,01 m: aparca en cualquier sitio",
-      "5,6 l/100 km homologados",
+pros: [
+      "Con 4,01 m de largo y la postura de conducción sobreelevada, se cuela y aparca donde un C3 Aircross ya obliga a dar otra vuelta a la manzana.",
+      "La suspensión Citroën Advanced Comfort con topes hidráulicos progresivos viene de serie también en el acabado básico You, algo que ningún rival de este precio ofrece de entrada.",
+      "Este 1.2 Turbo de 100 CV ya no usa la correa bañada en aceite de los PureTech anteriores: la distribución es por cadena, el punto que más miedo daba al comprar un tres cilindros de Stellantis.",
+      "Homologa 5,6 l/100 km y 126 g/km de CO2 con 205 Nm de par, suficiente para moverse con soltura en ciudad sin disparar la factura de gasolina.",
+      "Desde 16.500 € según esta ficha, queda por debajo de la mayoría de utilitarios generalistas con motor turbo y cambio manual de seis marchas.",
     ],
-    contras: [
-      "Etiqueta C",
-      "Maletero de 310 L: justo",
-      "100 CV sin brillo: 11 s de 0-100",
-      "El Hybrid 110 con ECO solo cuesta ~3.000 € más",
-      "Interior muy básico en el acabado You",
+contras: [
+      "Los 100 CV se notan justos fuera de la ciudad: 11 segundos de 0 a 100 km/h y adelantamientos en nacional que hay que preparar con tiempo, sobre todo cargado.",
+      "El maletero se queda en 310 litros y la boca de carga no es especialmente baja, así que una silla de paseo grande o dos maletas rígidas ya lo llenan.",
+      "Lleva etiqueta C de la DGT: por unos 3.000 € más, el C3 Hybrid de esta misma gama consigue la ECO y ventajas reales en zonas de bajas emisiones.",
+      "El acabado You prescinde de la pantalla central de 10,25 pulgadas y lo fía todo a la Smartphone Station con tu móvil, y los plásticos del salpicadero son duros al tacto.",
     ],
     largoMm: 4015,
     anchoMm: 1755,
@@ -1985,6 +1989,24 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 800
       },
     ],
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos Euro NCAP para esta generación europea del C3 (presentada en 2023): a fecha de esta revisión no consta ensayo de choque Euro NCAP publicado en euroncap.com para el modelo. No debe aplicársele el resultado de 4 estrellas de 2017, que corresponde a la generación anterior, ni los resultados de Latin NCAP o Global NCAP de versiones de otros mercados.",
+    },
+    planMantenimiento: {
+      intervalo: "Plan de mantenimiento del fabricante (detalle en las revisiones)",
+      revisiones: [
+        {
+          nombre: "Plan de mantenimiento del fabricante",
+          queSeCambia: "Citroën articula el mantenimiento de sus térmicos en intervenciones anuales en la red oficial: su programa Citroën Tranquilidad, vigente desde abril de 2024, se renueva con cada mantenimiento satisfactorio por 1 año o 20.000 km, lo que antes suceda. En este 1.2 la distribución por cadena elimina el cambio periódico de correa de los PureTech anteriores, pero no el cambio anual de aceite y filtros ni la revisión de frenos, líquidos y neumáticos; el intervalo exacto de tu unidad manda en su guía de mantenimiento y garantías.",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Stellantis Media España, nota «Hasta 10 años zen con Citroën Tranquilidad» (programa desde el 1 de abril de 2024, renovación 1 año o 20.000 km tras cada mantenimiento en red oficial)",
+    },
   },
   {
     id: "citroen-jumpy-diesel-2026-precio-ficha-tecnica",

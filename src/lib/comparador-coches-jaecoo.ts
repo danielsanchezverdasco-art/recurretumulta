@@ -508,19 +508,18 @@ export const COCHES_JAECOO: CocheComparador[] = [
     bateriaKwh: 65.69,
     cargaRapidaKw: 80,
     etiquetaDgt: "Cero",
-    pros: [
-      "184 CV y 220 Nm: la versión trasera del SUV caja eléctrico",
-      "400 km WLTP con la batería de 65,69 kWh (MotorGuide Sri Lanka)",
-      "Carga rápida de 80 kW: del 30 al 80 % en unos 30 minutos",
-      "Maletero de 450 litros y chasis de aluminio con modo 540°",
-      "Garantía de batería publicada: 8 años o 160.000 km",
+pros: [
+      "Un solo motor, y detrás: 184 CV y 220 Nm empujando desde el eje trasero, sin el motor delantero ni el peso extra de la versión de tracción total",
+      "Batería LFP de 65,69 kWh, una química elegida por durabilidad en este modelo concreto, con garantía de batería publicada de 8 años o 160.000 km",
+      "Carga rápida de 80 kW que pasa del 30 al 80 % en unos 30 minutos y función V2L de 3,3 kW para alimentar aparatos externos desde el coche",
+      "Formato caja muy aprovechado: solo 4.342 mm de largo en esta versión trasera, 1.910 mm de ancho y aun así 450 litros de maletero para cinco ocupantes",
+      "Pantalla central de 15,6 pulgadas con procesador Qualcomm Snapdragon 8155, un hardware concreto que se nota en la rapidez del sistema frente a chips más modestos",
     ],
-    contras: [
-      "No se vende en Europa: solo Asia, Latinoamérica y Oceanía",
-      "10,5 s de 0-100: el menos prestacional de la gama",
-      "La aerodinámica de caja penaliza la autonomía en autopista",
-      "Precio convertido de China (109.800 ¥), sin precio español",
-      "Sin prueba EuroNCAP",
+contras: [
+      "10,5 segundos de 0 a 100 km/h y 150 km/h de punta: es, con diferencia, la versión lenta del 6 EV, porque la de tracción total anuncia 6,5 segundos",
+      "En España no se puede comprar: no hay precio oficial en euros ni red que lo venda aquí, y la cifra de esta ficha es una conversión desde los 109.800 yuanes de China",
+      "La carga en alterna se queda en 6,6 kW, poco para una batería de 65,69 kWh si dependes de un wallbox, y la silueta cuadrada castiga el consumo en autopista",
+      "Sin prueba EuroNCAP: no existe una nota de estrellas que respalde su seguridad, solo el equipamiento declarado por la marca en cada mercado",
     ],
     largoMm: 4342,
     anchoMm: 1910,
@@ -567,11 +566,11 @@ export const COCHES_JAECOO: CocheComparador[] = [
       }
     ],
     analisisSlug: "jaecoo-6-ev-2026-precio-ficha-tecnica",
-    euroncap: {
+euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado (18/10/2026)"
+      nota: "Sin datos EuroNCAP: el Jaecoo 6 EV / J6 no consta como modelo probado por EuroNCAP; la nota de cinco estrellas que circula de la marca corresponde al Jaecoo J7 SHS, un modelo distinto, y no es trasladable a este coche.",
     },
     planMantenimiento: null,
     fuenteNombre: "Jaecoo Tailandia (ficha oficial) + SGCarMart / Omoda&Jaecoo Singapur",
@@ -600,19 +599,18 @@ export const COCHES_JAECOO: CocheComparador[] = [
     bateriaKwh: 69.77,
     cargaRapidaKw: 80,
     etiquetaDgt: "Cero",
-    pros: [
-      "279 CV y 385 Nm: 0-100 en 6,5 s con tracción total",
-      "342 km WLTP con batería LFP de 69,77 kWh (Asphalt SG)",
-      "Carga rápida de 80 kW: del 30 al 80 % en 30 minutos",
-      "9 modos de conducción, chasis de 540° y función V2L",
-      "Garantía de batería publicada: 8 años o 160.000 km",
+pros: [
+      "No es un motor con un extra delante: el delantero aporta 95 CV y 165 Nm y el trasero, 184 CV y 220 Nm; juntos dan los 279 CV y 385 Nm de la ficha y el 0-100 km/h en 6,5 s, algo que la versión de tracción simple no puede firmar.",
+      "La batería de 69,77 kWh es la grande de la gama y en China solo se ofrecía con tracción total: con ella la ficha homologa 342 km WLTP, frente a los 501 km CLTC que el iCAR 03 AWD declaraba en su mercado de origen.",
+      "Pensado para salir del asfalto sin ser un todoterreno puro: nueve modos de conducción, cámara de 540° con chasis transparente y función V2L de 3,3 kW para alimentar equipo en una escapada.",
+      "El maletero se queda en 450 litros pese a llevar motor también delante, y suma el cofre exterior trasero: en un coche de solo 4.406 mm de largo, ese aprovechamiento se nota en uso real.",
+      "La batería LFP tiene garantía publicada de 8 años o 160.000 km, un dato comprobable en la ficha y especialmente relevante en un modelo que solo podrás traer de mercados lejanos.",
     ],
-    contras: [
-      "No se vende en Europa: solo Asia, Latinoamérica y Oceanía",
-      "Precio convertido de China (139.800 ¥ el iCar 03 4WD), sin precio español",
-      "1.875 kg de peso por la batería de 69,77 kWh",
-      "La aerodinámica de caja limita la autonomía en autopista",
-      "Sin prueba EuroNCAP",
+contras: [
+      "En España no se vende: Jaecoo lo destina a Asia, Latinoamérica y Oceanía, y el precio de la ficha es una conversión desde los 139.800 yuanes del iCAR 03 4WD chino, no un PVP español con red y posventa detrás.",
+      "Su silueta de caja cobra peaje: 23,7 kWh/100 km de consumo declarado, velocidad punta limitada a 150 km/h y una autonomía de autopista que caerá claramente por debajo de los 342 km WLTP.",
+      "Cargar no es su fuerte para ser un eléctrico de 2026: 80 kW en continua, con el 30-80 % en 30 minutos, y solo 6,6 kW en alterna según la especificación de Singapur, unas 10,5 horas para una carga completa.",
+      "Pesa 1.875 kg y, como comprobó Asphalt SG en pista de tierra, le falta articulación de ruedas para un fuera de pista serio: los nueve modos ayudan a traccionar, pero no lo convierten en un Defender eléctrico, y Euro NCAP nunca lo ha probado.",
     ],
     largoMm: 4406,
     anchoMm: 1910,
@@ -659,11 +657,11 @@ export const COCHES_JAECOO: CocheComparador[] = [
       }
     ],
     analisisSlug: "jaecoo-6-ev-awd-2026-precio-ficha-tecnica",
-    euroncap: {
+euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado (18/10/2026)"
+      nota: "Sin prueba Euro NCAP localizada para el Jaecoo J6 / iCAR 03 a 21/10/2026: en euroncap.com solo consta el Jaecoo 7 PHEV, un modelo distinto. No trasladar sus estrellas a esta versión AWD.",
     },
     planMantenimiento: null,
     fuenteNombre: "Asphalt SG / Motorist SG + Jaecoo Tailandia (ficha oficial)",

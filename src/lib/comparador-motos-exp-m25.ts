@@ -102,25 +102,21 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["precioDesde", "costeAnualAproxEur"],
-    pros: [
-      "Basculante monobrazo, único en su segmento: estética de MotoGP por precio de A2",
-      "Horquilla invertida regulable y frenos con pinza Brembo de 4 pistones delante",
-      "Control de tracción, modos Sport/Rain y embrague antirrebote de serie",
-      "Pantalla TFT curva de 5 pulgadas con conectividad T-box (antirrobo y seguimiento)",
-      "Precio rompedor frente a Yamaha R3 (7.999 €) y KTM RC 390 (6.749 €)",
+pros: [
+      "Monobrazo trasero en una A2 desde 6.690 €: es el detalle que hace que esta 450SR S de 2026 no parezca una 450 más, porque deja la rueda trasera vista y recupera el guiño al prototipo SR-C21.",
+      "La horquilla invertida regulable de esta S no es un adorno: permite ajustar el comportamiento del tren delantero, algo poco habitual cuando la potencia está limitada a 47 CV para el A2 y todo el margen está en la parte ciclo.",
+      "Pantalla TFT curva de 5 pulgadas con T-Box integrado: desde el móvil puedes localizar la moto y recibir avisos antirrobo, una función práctica si la 450SR S duerme en la calle en ciudad y no en un garaje cerrado.",
+      "Control de tracción, modos Sport y Rain y embrague antirrebote de serie: en esta 2026 vienen incluidos sin pasar por packs, y el antirrebote se nota al bajar marchas fuerte entrando en curva cuando el bicilíndrico retiene.",
     ],
-    contras: [
-      "179 kg en seco: algo pesada para una deportiva de 450",
-      "47 CV se quedan cortos en circuito frente a las 600",
-      "Sin IMU ni electrónica avanzada: el control de tracción es básico",
-      "El precio oficial (7.390 €) se acerca al de la competencia japonesa",
-      "Red de talleres y repuestos más pequeña que Honda o Yamaha",
+contras: [
+      "179 kg declarados para 47 CV: la cifra se nota en maniobras en parado y en cambios de dirección muy seguidos, donde una deportiva A2 más ligera se siente menos exigente si acabas de sacarte el A2.",
+      "Sin IMU, la electrónica es básica para lo que sugiere su estética: hay control de tracción, pero no esperes la gestión en inclinación ni la finura de una deportiva de un segmento superior.",
+      "El precio genera duda dentro de la propia información disponible: la ficha lo marca desde 6.690 € como aproximado y en la información comercial consultada aparece en 7.390 €, así que conviene confirmar el PVP final de la 2026 en concesionario antes de compararla.",
+      "La red de CFMoto en España sigue siendo más corta que la de Honda o Yamaha: si vives fuera de una capital, el taller oficial y la espera de un recambio específico de carenado pueden alargarse más de lo deseable.",
     ],
-    curiosidades: [
-      "Su alerón delantero con forma de aleta de tiburón optimiza la aerodinámica",
-      "El escape va oculto e integrado en la parte trasera, como las MotoGP",
-      "El sistema T-box permite localizar la moto y recibir avisos antirrobo en el móvil",
-      "Es la versión 'S' vitaminada de la 450SR, con suspensión y frenos mejorados",
+curiosidades: [
+      "El alerón delantero no es una aleta plana: en la S va ahuecado con forma de aleta de tiburón para canalizar el aire sobre el carenado, un detalle que CFMoto destaca también en su página oficial de la 450SR S.",
+      "El escape va escondido e integrado en la trasera en lugar de lucir un silencioso lateral grande, por eso la vista del lado del monobrazo queda tan limpia en las fotos oficiales de la 2026.",
     ],
     imagen: "/media/cfmoto-450sr-s-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -181,25 +177,22 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: [
-      "Motor bicilíndrico de 799 cc con 95 CV: la trail china más potente del carnet A2 (limitada)",
-      "Depósito de 22,5 litros, de los más grandes del segmento trail medio",
-      "Llantas de radios sin cámara en 21\" y 18\", pensada para el off-road de verdad",
-      "Electrónica completa: modos de conducción, control de tracción y ABS desconectable",
-      "Precio de 9.995 € muy por debajo de las trail europeas y japonesas equivalentes",
+pros: [
+      "Suspensiones con 230 mm de recorrido delante y detrás y horquilla invertida de 48 mm totalmente regulable: en pista rota trabaja como una trail pensada para tierra, no como una asfáltica disfrazada de campera.",
+      "El depósito de 22,5 litros va bajo y dividido en dos laterales, así que con el tanque lleno no se vuelve tan cabezona en maniobras lentas como sugiere esa capacidad sobre el papel.",
+      "Quickshifter bidireccional, embrague antirrebote e IMU Bosch de seis ejes con ABS en curva forman parte del paquete de la X, sin tener que pasar por la lista de opciones para lo esencial fuera del asfalto.",
+      "Pantalla TFT vertical de 7 pulgadas con conectividad y control de crucero: en el enlace por autovía entre dos pistas se comporta como moto de viaje, no solo como juguete de fin de semana.",
+      "Con 9.995 euros en esta ficha de 2026 queda por debajo de trail medias europeas y japonesas de planteamiento parecido, y aun así existe la posibilidad de limitarla para el carnet A2.",
     ],
-    contras: [
-      "220 kg en orden de marcha: pesada para el campo técnico",
-      "95 CV obligan a limitarla para el A2, con el coste y papeleo que eso supone",
-      "Red de concesionarios y repuestos más pequeña que Honda, Yamaha o KTM",
-      "Altura de asiento elevada: complicada para pilotos de menos de 1,70 m",
-      "Depreciación mayor que las marcas japonesas en el mercado de ocasión",
+contras: [
+      "Sus 220 kg en orden de marcha se notan al levantarla tras una caída en una trialera o al moverla en parado dentro de un garaje estrecho.",
+      "En la configuración de suspensiones largas el asiento sube hasta los 870 mm según las fichas publicadas: quien no llegue bien al suelo debería probarla con calma, y a ser posible cargada, antes de comprarla.",
+      "Limitada para el A2 pierde parte de su gracia: son 95 CV pensados para el carnet A, y la limitación suma trámite y coste sobre el precio de compra.",
+      "La red comercial de CFMoto en España sigue siendo más corta que la de Honda o Yamaha; en una ruta larga por zonas poco pobladas, encontrar un concesionario cercano no siempre es igual de fácil.",
     ],
-    curiosidades: [
-      "Comparte la base mecánica del motor KTM 790, desarrollado junto a la marca austriaca",
-      "La X es la versión más campera de la familia 800MT, con rueda delantera de 21 pulgadas",
-      "CFMoto fabrica en China también para KTM, lo que explica el parentesco técnico",
-      "Es la trail de mayor cilindrada que CFMoto vende en España",
+curiosidades: [
+      "El bicilíndrico de 799 cc desciende del LC8c que CFMoto desarrolla y fabrica en colaboración con KTM, de ahí el parecido de su depósito bajo y dividido con el de la 790 Adventure austriaca.",
+      "Admite como accesorio depósitos traseros adicionales de 8 litros por lado, pensados para travesías en las que la siguiente gasolinera queda realmente lejos.",
     ],
     imagen: "/media/cfmoto-800mt-x-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -799,22 +792,22 @@ curiosidades: [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["precioDesde", "costeAnualAproxEur"],
-    pros: [
-      "47,6 CV al límite del A2",
-      "Llantas de radios mixtas",
-      "TFT de 7\\\" con TPMS",
-      "Kayaba delante",
-      "5 años de garantía",
+pros: [
+      "La 525ACX 2026 exprime el carnet A2 sin quedarse corta: su bicilíndrico de 494 cc entrega 48 CV y 35,3 kW, justo en el techo legal de la categoría, con 165 km/h de velocidad máxima declarada.",
+      "No es una naked disfrazada de campera: las llantas de radios de uso mixto y la horquilla Kayaba delantera sostienen un planteamiento scrambler pensado para alternar asfalto con pistas fáciles sin cambiar de moto.",
+      "La pantalla TFT de 7 pulgadas con control de presión de neumáticos es equipamiento difícil de encontrar en una A2 de este precio, y aquí además avisa de despresurizaciones rápidas, no solo de una presión baja cualquiera.",
+      "El depósito de 19 litros cambia el uso diario frente a otras scrambler A2 más cortas de capacidad: menos paradas a repostar en recorridos interurbanos y más margen para escapadas de fin de semana a dúo.",
+      "Cinco años de garantía y un precio desde 6.317 euros, marcado como aproximado en la ficha, componen el argumento de compra de esta anualidad 2026: equipamiento alto sin saltar a una cilindrada que exija el carnet A.",
     ],
-    contras: [
-      "198 kg",
-      "Asiento alto (840 mm)",
-      "Sin modos de conducción",
+contras: [
+      "198 kg para una moto del A2: en maniobras en parado, al moverla en el garaje o entre coches en ciudad, la 525ACX 2026 se siente más grande de lo que sugiere su cilindrada de 494 cc.",
+      "El asiento a 840 mm deja fuera a muchos pilotos de talla baja: con esa altura, llegar con seguridad al suelo en paradas frecuentes exige probarla antes en persona, no fiarse solo de la foto.",
+      "Sin modos de conducción en 2026: quien venga de rivales A2 con electrónica más configurable echará en falta poder suavizar la respuesta en mojado o en pistas, aquí todo queda a la mano derecha.",
+      "Su enfoque mixto es también un compromiso: si el uso va a ser solo urbano y de naked ágil, el peso, la altura y el planteamiento scrambler juegan en contra frente a opciones más bajas y ligeras.",
     ],
-    curiosidades: [
-      "Su motor de 494 cc es de uso exclusivo para Voge: no se suministra a otras marcas.",
-      "La TFT de 7\\\" avisa de despresurizaciones rápidas de los neumáticos.",
-      "Con 19 L de depósito es de las scrambler A2 con más autonomía.",
+curiosidades: [
+      "Según la ficha, el motor de 494 cc de la 525ACX es de uso exclusivo para Voge y no se suministra a otras marcas, algo poco habitual en un segmento donde compartir bloques entre fabricantes es la norma.",
+      "La TFT de 7 pulgadas no se limita a mostrar la presión: avisa específicamente de despresurizaciones rápidas de los neumáticos, una alerta pensada para detectar un pinchazo en marcha antes de que se convierta en un susto.",
     ],
     imagen: "/media/voge-525acx-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -875,22 +868,22 @@ curiosidades: [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: [
-      "Radar de ángulo muerto",
-      "Equipamiento premium completo",
-      "34 CV para el A2",
-      "Parabrisas eléctrico",
-      "5 años de garantía",
+pros: [
+      "El radar trasero es su firma en esta ficha de 2026: detecta vehículos en el ángulo muerto y avisa de una posible colisión, una ayuda que en un scooter de 349 cc todavía no dan sus rivales directos del A2.",
+      "Bajo el asiento quedan 41 litros, espacio para dos cascos —uno de ellos integral— según Voge, así que el trayecto diario al trabajo no obliga a montar baúl trasero.",
+      "Pantalla TFT a color de 7 pulgadas con presión de neumáticos y navegación giro a giro, cámara frontal HD que se activa desde el manillar y arranque sin llave: el puesto de conducción es de GT grande, no de 350.",
+      "Confort de invierno sin pasar por opciones: parabrisas de altura regulable eléctricamente, puños y asiento calefactables y freno de mano, todo de serie en la SR4 Max.",
+      "Sus 34 CV (25 kW) de monocilíndrico de 349 cc llenan el carnet A2 sin limitación, y los 5.892 euros de esta ficha incluyen, según la presentación del modelo Radar, seguro y cinco años de garantía.",
     ],
-    contras: [
-      "213 kg",
-      "Precio alto para un 350",
-      "Consumo no declarado",
+contras: [
+      "213 kg en orden de marcha: en marcha no se disimulan mal, pero moverla a pulso en un garaje estrecho o en cuesta es el peaje diario de tanto equipamiento.",
+      "5.892 euros es dinero de scooter grande para un 350: la factura solo se entiende si de verdad vas a usar el radar, la calefacción y la TFT, no si buscas un A2 barato.",
+      "La ficha no declara consumo ni autonomía, y con un depósito de 12,8 litros citado en las fichas técnicas del modelo no es la compañera de los que encadenan cientos de kilómetros sin parar.",
+      "Mide 2.185 mm de largo con 1.565 mm entre ejes según esas mismas fichas: es planteamiento GT para carretera y rondas, no el scooter corto y ratonero que se cuela entre coches parados.",
     ],
-    curiosidades: [
-      "Deriva del BMW C400X: el grupo Loncin fabrica los scooters de BMW.",
-      "La versión Radar 2025 añade detección de ángulo muerto y alerta de colisión.",
-      "Su cámara frontal graba los desplazamientos como una dashcam.",
+curiosidades: [
+      "No es solo inspiración BMW: según la prensa del lanzamiento, Loncin fabrica la totalidad del scooter BMW C400, y ese proyecto conjunto es la base sobre la que Voge desarrolló su propio SR4 Max.",
+      "El trazo no salió de un departamento genérico: la prensa especializada atribuye el diseño del SR4 Max al italiano Massimo Zaniboni, autor de sus faros full LED estrechos y verticales.",
     ],
     imagen: "/media/voge-sr4-max-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -951,24 +944,22 @@ curiosidades: [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["precioDesde", "costeAnualAproxEur"],
-    pros: [
-      "Motor de 895 cc con 95 CV de origen BMW: empuje de trail grande",
-      "IMU de 6 ejes Bosch: ABS y tracción en curva",
-      "Suspensiones KYB y frenos Brembo: componentes de primer nivel",
-      "Rueda delantera de 21\": apta para off-road de verdad",
-      "Por menos de 9.200 € no hay rival con este equipamiento",
+pros: [
+      "El bicilíndrico de 895 cc entrega en esta ficha 95 CV y, según la prensa especializada, 95 Nm a 6.250 rpm: empuje de trail grande sin necesidad de estirar el motor hasta la zona alta en cada adelantamiento.",
+      "La IMU Bosch de seis ejes que estrenó la gama en 2025 sigue aquí gestionando el ABS en curva y el control de tracción según la inclinación: no es un adorno, se nota frenando inclinado sobre asfalto sucio.",
+      "Parte ciclo con nombres propios: horquilla invertida KYB de 43 mm con 194 mm de recorrido, monoamortiguador KYB de 198 mm y doble disco delantero de 305 mm con pinzas Brembo y bomba radial.",
+      "Sale de la tienda viajera, no pelada: puños y asiento calefactables, arranque sin llave, control de crucero, radar de ángulo muerto, TPMS y parabrisas regulable sin herramientas en dos posiciones.",
+      "La tarifa que recoge la ficha, 9.189 euros, deja a esta 2026 con rueda delantera de 21 pulgadas y radios tubeless por debajo de lo que cuestan maxi-trails europeas con menos equipamiento de serie.",
     ],
-    contras: [
-      "233 kg: hay que tener brazo para el campo",
-      "Asiento alto y estrecho: no es para todos los días en ciudad",
-      "Consumo de 5,5-6 l/100 km en uso alegre",
-      "La electrónica tiene curva de aprendizaje en los menús",
-      "Red de servicio aún en expansión en España",
+contras: [
+      "Los 233 kg que declara la ficha mandan: a ritmo lento por pista o maniobrando en un garaje estrecho, la 900DSX pide brazos y anticipación, no es una trail ligera disfrazada.",
+      "El asiento queda a 825 mm según la prensa del modelo: cifra razonable para una 900, pero quien no llegue bien al suelo con las dos botas sufrirá en paradas en cuesta y cargado.",
+      "Depósito de 17 litros para un bicilíndrico de 895 cc pensado para viajar: si encadenas puertos y autovía a ritmo vivo, planificarás las paradas de gasolina antes que en rivales con depósitos mayores.",
+      "Voge sigue expandiendo su red en España: antes de firmarla conviene localizar tu servicio oficial más cercano y preguntar por plazos de recambios, porque la reventa tampoco mueve los precios de una marca japonesa asentada.",
     ],
-    curiosidades: [
-      "El motor lo fabrica Loncin, socio industrial de BMW Motorrad",
-      "Es la Voge más potente del catálogo europeo",
-      "En 2025 estrenó IMU de 6 ejes, antes reservada a premium",
+curiosidades: [
+      "Loncin, la casa madre de Voge, es socia industrial de BMW desde 2005: antes de este bicilíndrico ya fabricó para los alemanes el monocilíndrico de 650 cc y el scooter C400 completo.",
+      "Lleva una cámara frontal HD integrada de serie, un extra rarísimo en una trail de este precio: graba la ruta sin montar soportes ni cámaras de acción en el casco.",
     ],
     imagen: "/media/voge-900-dsx-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -1029,24 +1020,22 @@ curiosidades: [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["precioDesde", "costeAnualAproxEur"],
-    pros: [
-      "47,6 CV clavados en el límite del A2, con motor de 494 cc",
-      "Horquilla KYB regulable y llantas de radios con neumáticos Metzeler",
-      "Control de tracción desconectable y 2 modos de conducción",
-      "Cámara frontal HD integrada que graba tus rutas",
-      "Pantalla de 7\" con navegación y conectividad Bluetooth",
+pros: [
+      "Su bicilíndrico de 494 cc usa cotas cuadradas de 68 × 68 mm y compresión 11,5:1 para entregar 44,5 Nm con una curva plana desde abajo: no gana potencia frente a la 500, gana empuje donde se usa a diario",
+      "Parte ciclo con nombres propios impropios de su precio: horquilla invertida KYB de 41 mm regulable con 150 mm de recorrido y llantas de radios tubeless 19/17 calzadas con Metzeler Tourance 110/80 y 150/70",
+      "Electrónica de moto mayor en una A2: control de tracción desconectable, ABS con intervención regulable y desconectable detrás, dos modos de entrega y embrague antirrebote",
+      "La cámara frontal integrada que graba en 1080p funciona como dashcam permanente: en un golpe o un susto en carretera tienes la secuencia guardada sin montar accesorios",
+      "Heredera de la renovación MY25: cuadro LCD a color de 7 pulgadas con panel IPS, navegación por indicaciones, piñas retroiluminadas y aviso de presión de neumáticos",
     ],
-    contras: [
-      "190 kg: no es ligera para su potencia",
-      "El asiento es alto (810 mm) para pilotos bajos",
-      "Vibraciones leves a ritmo de autopista",
-      "El parabrisas de serie protege poco a alta velocidad",
-      "Accesorios originales con precios elevados",
+contras: [
+      "El depósito se queda en 16,5 litros cuando varias rivales directas del A2 montan entre 17,5 y 20: en viajes largos toca planear las paradas de gasolina antes que con ellas",
+      "Los 190 kg declarados son en seco, así que en orden de marcha, con líquidos y gasolina, la cifra real crece: en maniobras en parado y en pistas lentas se nota más moto de la que sugiere el papel",
+      "Las pruebas publicadas le achacan vibraciones en la parte alta del cuentavueltas a ritmo de autopista y un amortiguador trasero algo duro sobre asfalto rizado",
+      "La pantalla parabrisas solo se regula a mano en dos posiciones: ajustar la protección en marcha, como permiten sistemas con una sola mano de rivales más caras, aquí no es posible",
     ],
-    curiosidades: [
-      "DSX significa 'Dual Sport X': trail polivalente",
-      "Voge es la marca premium del gigante Loncin, que fabrica motores para BMW",
-      "La cámara frontal graba en 1080p y sirve como dashcam",
+curiosidades: [
+      "Voge es la marca premium de Loncin, fabricante chino que ha producido motores para BMW Motorrad, entre ellos los de la familia F 850 GS y la G 310: la 525DSX comparte esa cadena de producción",
+      "En Italia la misma moto se presentó con otro apellido comercial: Valico 525 DSX, nombre de la familia adventure de Voge en ese mercado",
     ],
     imagen: "/media/voge-525dsx-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -1107,26 +1096,22 @@ curiosidades: [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: [
-      "Bicilíndrico de 698 cc y 73 CV: empuje de trail grande",
-      "Versión ON ROAD con llantas de 17 pulgadas: más ágil en asfalto",
-      "Limitable a 35 kW para el carnet A2",
-      "Buena protección aerodinámica y asiento cómodo",
-      "Precio de 6.299 € en promoción (PVP 6.999 €)",
-      "ABS y pantalla TFT de serie",
+pros: [
+      "Parte ciclo con apellidos italianos y alemanes: horquilla Marzocchi de 43 mm regulable en precarga, compresión y extensión, pinzas Brembo radiales de cuatro pistones sobre discos delanteros de 320 mm y ABS Bosch 9.1",
+      "El bicilíndrico de 698 cc entrega el par máximo, 67 Nm, a 6.000 rpm: en esta SRT 700 2026 eso significa recuperar a dúo sin tener que vivir pegado a la zona alta del cuentavueltas",
+      "Postura de trail con los pies más cerca del suelo que en su hermana de campo: asiento a 795 mm y llantas de aleación de 17 pulgadas en los dos ejes, que agilizan la dirección en puertos y rotondas",
+      "Viene vestida para viajar sin pasar por el catálogo de extras: puños y asiento calefactables, pantalla TFT de 5 pulgadas con conectividad y mirroring, cubremanos, defensas laterales y piñas retroiluminadas",
+      "Precio anotado en ficha para 2026 de 6.299 € frente a un PVP de 6.999 €, y con versión limitada a 35 kW para quien todavía circula con el A2 y no quiere cambiar de moto al sacarse el A",
     ],
-    contras: [
-      "Versión asfáltica: pierde capacidad off-road frente a la trail pura",
-      "73 CV exigen limitarla para el A2",
-      "El peso penaliza en ciudad",
-      "Sin llantas de radios ni neumáticos mixtos de serie",
-      "La competencia japonesa tiene mejor reventa",
+contras: [
+      "Electrónica escueta para una viajera de este precio: más allá del ABS no hay modos de conducción ni ayudas ajustables, y el embrague carece de antirrebote, algo que se nota al bajar marchas con alegría",
+      "235 kg en orden de marcha según la ficha especializada del modelo: en parado, en garaje y entre coches en ciudad toca empujar con calma; no es la trail media más ligera del escaparate",
+      "Su terreno es el asfalto y solo el asfalto: llantas de 17 pulgadas y neumáticos Pirelli Gran Turismo dejan la pista de tierra como anécdota ocasional; para campo de verdad QJMotor ya vende la 700X de radios",
+      "En segunda mano lo tendrá más difícil que una trail japonesa equivalente: QJMotor es aún una marca joven en España y su valor de reventa y su demanda de usadas están todavía en construcción",
     ],
-    curiosidades: [
-      "La variante ON ROAD monta llantas de aleación de 17 pulgadas en ambos ejes",
-      "Sustituye en catálogo a la anterior SRK 700, descatalogada en España",
-      "Su motor de 698 cc es el más grande de la gama trail QJMotor",
-      "El PVP oficial es 6.999 €, con promociones frecuentes en 6.299 €",
+curiosidades: [
+      "En la renovación Euro5+ abandonó la salida de escape baja junto al basculante y adoptó el 2 en 1 alto por el subchasis de su hermana de campo, la SRT 700X: es la forma más rápida de distinguirla de la primera SRT 700",
+      "Nació al revés que muchas trail: primero llegó a España la versión de campo, la 700X, en mayo de 2023, y meses después QJMotor sacó esta variante de carretera apoyándose en que la preventa de la X había funcionado bien",
     ],
     imagen: "/media/qjmotor-srt-700-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -1263,24 +1248,22 @@ curiosidades: [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: [
-      "125 urbana con 15 CV al límite legal por 3.199 €",
-      "Solo 140 kg: ágil entre el tráfico y fácil de aparcar",
-      "Garantía oficial de 6 años o 50.000 km",
-      "Válida con carnet B (+3 años de antigüedad)",
-      "Consumo contenido, ideal para el día a día",
+pros: [
+      "Sistema microhíbrido que echa una mano solo al arrancar: en semáforos y salidas desde parado la ATR 125 2026 responde con más inmediatez que un 125 de gasolina sin ayuda eléctrica",
+      "Pantalla TFT de 5 pulgadas con mirroring del móvil, control de tracción, ABS de doble canal, TPMS y luz de freno automática ABL: un paquete de seguridad impropio de un scooter de 3.199 euros",
+      "Con 15 CV toca el techo que permite el carnet A1 y el B con tres años de antigüedad, pero pesa solo 140 kg en orden de marcha, así que moverla entre coches o aparcarla no exige experiencia",
+      "Viene de serie con top case capaz de guardar un casco integral, mientras bajo el asiento queda hueco para un casco jet: sales del concesionario lista para ir a trabajar sin comprar accesorios",
+      "Seis años de garantía con tope de 50.000 km y, en la promoción de 2026, matrícula y seguro a terceros del primer año incluidos en los 3.199 euros",
     ],
-    contras: [
-      "15 CV justos para carretera abierta",
-      "Equipamiento básico frente a las 125 premium",
-      "Red de servicio más pequeña que Honda o Yamaha",
-      "Reventa modesta en ocasión",
-      "Sin pantalla TFT ni conectividad",
+contras: [
+      "No es un híbrido al uso: no se mueve ni un metro solo con electricidad, porque el apoyo eléctrico se limita a las arrancadas y el resto del trayecto lo hace todo el monocilíndrico de gasolina",
+      "El hueco bajo el asiento solo admite un casco jet; si llevas un integral dependes siempre del top case trasero, con lo que eso supone al aparcar en huecos justos",
+      "Los 15 CV llegan a 8.750 rpm y los 12 Nm a 8.250 rpm: para sacar lo mejor hay que llevarla alta de vueltas, y en vías rápidas con pasajero el margen para adelantar es escaso",
+      "Mantener los seis años de garantía obliga a hacer las revisiones en la red oficial QJMotor con recambio original, una red todavía más pequeña en España que la de Honda o Yamaha",
     ],
-    curiosidades: [
-      "QJMotor ofrece 6 años de garantía, la más larga entre las marcas chinas en España",
-      "El grupo Geely respalda a QJMotor a nivel mundial",
-      "La ATR 125 es la puerta de entrada a la marca",
+curiosidades: [
+      "QJMotor la presentó como el primer crossover de 125 con sistema microhíbrido, una solución que en la propia marca ya había estrenado antes el scooter MTX 125",
+      "Su luz de freno no se limita a responder a la maneta: en una frenada brusca el sistema ABL la activa automáticamente para avisar a quien viene detrás, un detalle más habitual en coches que en un 125",
     ],
     imagen: "/media/qjmotor-atr-125-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -1653,22 +1636,22 @@ curiosidades: [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: [
-      "Estética power-cruiser única en el A2",
-      "Bicilíndrico de 47,8 CV, al límite del A2",
-      "Depósito de 21 litros para viajar",
-      "Asiento bajo de 740 mm",
-      "Horquilla invertida y doble disco",
+pros: [
+      "Con 21 litros de depósito, la 502C de 2025 se desmarca de las cruiser del A2 de tanque pequeño: está pensada para una escapada de fin de semana sin vivir pendiente de la próxima gasolinera",
+      "El bicilíndrico de 500 cc entrega 47,8 CV (35,1 kW), justo en el techo del carnet A2: quien entra con ese permiso no compra una moto limitada ni recortada, sino la versión plena del modelo",
+      "Tarifa de 5.890 euros en la ficha para una bicilíndrica de 500 cc con horquilla invertida y doble disco delantero: el precio de acceso es su gancho frente a las cruiser de marcas japonesas",
+      "Cruiser de verdad y no una naked disfrazada: estriberas adelantadas, manillar ancho y asiento bajo de una pieza, una postura que dentro del catálogo A2 que se vende en España apenas tiene alternativas",
+      "La parte ciclo va un escalón por encima de lo que sugiere su precio: horquilla invertida, doble disco delantero de 280 mm y ABS, heredados de una plataforma que Benelli lleva años vendiendo",
     ],
-    contras: [
-      "220 kg, pesada para ciudad",
-      "Postura cruiser que no es para todos",
-      "Modelo veterano frente a novedades",
+contras: [
+      "220 kg para 47,8 CV: en parado, en el garaje y en maniobras lentas entre coches se nota, y es mucho peso para quien llega a la 502C como primera moto con el A2",
+      "El amortiguador trasero, de recorrido corto y tarado blando según las pruebas publicadas, es el punto flojo en carreteras bacheadas: la comodidad de la postura cruiser se resiente en los baches secos",
+      "El acompañante va justo: el colín recortado deja poco asiento para el pasajero y no hay asas a las que agarrarse, así que a dúo funciona mejor en trayectos cortos que en viajes",
+      "Es una moto de 2019 sin renovación de fondo: la unidad de 2025 hereda la misma base y el mismo bicilíndrico que ya llevaban la TRK 502 y la Leoncino 500 años atrás, frente a cruiser del A2 de lanzamiento mucho más reciente",
     ],
-    curiosidades: [
-      "Su diseño bebe directamente de la Ducati Diavel.",
-      "Es de las pocas custom accesibles con carnet A2.",
-      "El motor es el bicilíndrico de 500 cc compartido con la TRK 502.",
+curiosidades: [
+      "Sus pilotos traseros LED van separados a ambos lados del colín y la matrícula cuelga del guardabarros que abraza la rueda trasera: dos soluciones propias de las power-cruiser grandes que explican por qué casi todas las pruebas la comparan con la Ducati Diavel",
+      "Es la cuarta carrocería del mismo bicilíndrico de Benelli: antes de ser cruiser urbana en la 502C, ese motor ya se había vestido de trail en la TRK 502 y de scrambler en la Leoncino 500, cambiando ergonomía y estética sin cambiar de bloque",
     ],
     imagen: "/media/benelli-502c-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -1809,26 +1792,22 @@ curiosidades: [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: [
-      "Naked 125 de 13 CV por 2.690 €",
-      "Diseño deportivo agresivo",
-      "Ligera y manejable en ciudad",
-      "Faro LED y cuadro digital",
-      "Mantenimiento muy económico",
-      "Buena primera moto con marchas",
+pros: [
+      "En 2025 sigue en 2.690 € según esta ficha: es el argumento de la RKF, una naked con marchas y estética streetfighter sin saltar a los precios de una 125 europea o japonesa",
+      "Sus 13 CV (9,6 kW) la dejan a 2 CV del techo legal del A1, así que dentro de las Keeway 125 no es la opción recortada: es la que más se acerca a exprimir el carnet",
+      "Se puede llevar con el A1 o con el B con tres años de antigüedad y lleva etiqueta C y dos plazas, justo el perfil de quien deja el scooter pero quiere moto de verdad para diario",
+      "El mantenimiento declarado es asumible de verdad: primera revisión a los 1.000 km y después cada 4.000 km o 12 meses, con un coste anual aproximado de 160 € según el manual citado en la ficha",
+      "Al mantener en 2025 las llantas de aleación de 17 pulgadas, con 100/80 delante y 130/70 detrás, no obliga a medidas raras ni caras cuando toca cambiar neumáticos",
     ],
-    contras: [
-      "13 CV: justita en carretera",
-      "Acabados básicos",
-      "Sin ABS en algunas versiones",
-      "El asiento es duro",
-      "Prestaciones limitadas",
+contras: [
+      "La de 2025 no estrena diseño: Keeway la presentó conservando sin variaciones la estética anterior, así que quien busque novedad visual frente a una RKF de años pasados no la va a encontrar aquí",
+      "13 CV dan para ciudad y rondas con margen, pero en vías rápidas cada adelantamiento hay que planearlo: no hay reserva de potencia si el trayecto habitual incluye mucha carretera abierta",
+      "La propia ficha advierte de acabados básicos y de un asiento duro; en una moto pensada para uso diario, ese asiento se nota más en la vuelta a casa que en la foto del catálogo",
+      "Ojo al cerrar la compra: la ficha indica que hay versiones sin ABS, así que conviene confirmar por escrito qué monta la unidad concreta de 2025 que te entregan, no darlo por hecho",
     ],
-    curiosidades: [
-      "La RKF 125 es la naked deportiva de Keeway",
-      "Keeway pertenece al grupo chino Qianjiang, como Benelli",
-      "Por 2.690 € es de las naked 125 más baratas",
-      "Su diseño bebe de las streetfighter de mayor cilindrada",
+curiosidades: [
+      "La RKF 125 nació como respuesta barata a la KTM 125 Duke: en su presentación de 2018 costaba 2.799 € frente a los 4.499 € que Motofichas citaba entonces para la austriaca",
+      "Su prima de presentación fue la Benelli BN 125: ambas se mostraron juntas en 2018 como el doble ataque en 125 de marchas del grupo Qianjiang, cada una con una personalidad naked distinta",
     ],
     imagen: "/media/keeway-rkf-125-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -2198,26 +2177,20 @@ curiosidades: [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: [
-      "Scrambler 125 con estética campera muy lograda",
-      "Por 2.899 €, la scrambler 125 más barata",
-      "Neumáticos de tacos y guardabarros alto",
-      "Disponible con ABS o CBS",
-      "Muy divertida en ciudad y caminos",
-      "Mantenimiento baratísimo",
+pros: [
+      "Presupuesto de uso cerrado desde la propia ficha: 2.899 € de PVP y un coste anual aproximado de 170 €, con la primera revisión a los 1.000 km por unos 100 € y la de los 4.000 km por unos 160 € según su plan de mantenimiento.",
+      "Puedes estrenarla sin sacarte el A1: la ficha la homologa para ese carnet y también para el B con tres años de antigüedad, lleva dos plazas y viene con la etiqueta C de la DGT.",
+      "La parte campera no es solo el color de la carrocería: los neumáticos de tacos y la pequeña cúpula delantera de serie te dejan salir a una pista de tierra el fin de semana sin pasar antes por un taller a montar nada.",
+      "Mecánica deliberadamente simple en pleno 2025: monocilíndrico de 125 cc refrigerado por aire, con inyección electrónica y homologación Euro5, sin radiador que vigilar, y con la frenada a elegir entre ABS y frenada combinada CBS.",
     ],
-    contras: [
-      "11 CV: justita fuera de ciudad",
-      "Los tacos penalizan en asfalto mojado",
-      "Acabados básicos",
-      "Sin electrónica",
-      "El asiento es estrecho",
+contras: [
+      "No aprovecha el techo del A1: declara 8,1 kW (11 CV) frente a los 11 kW que permite ese carnet, y esa diferencia se paga en autovía, con viento de cara o subiendo un puerto, donde toca bajar de marcha y armarse de paciencia.",
+      "El plan de mantenimiento que trae la ficha es corto de intervalo: primera revisión a los 1.000 km y después cada 4.000 km o 12 meses. Si haces 12.000 km en un año, son tres visitas al taller en ese periodo, aunque cada una salga barata.",
+      "Los tacos que luce en las fotos son su compromiso más claro: en asfalto seco cumplen, pero sobre pintura mojada, pasos de peatones o rotondas con lluvia agarran menos que un neumático de carretera y obligan a frenar y a tumbar con más margen.",
+      "Cuadro y equipamiento de otra época, a propósito: instrumentación minimalista que combina lo analógico con una pequeña pantalla digital, sin modos de conducción, sin control de tracción y sin conectividad para el móvil.",
     ],
-    curiosidades: [
-      "La Felsberg 125 es la scrambler pequeña de Brixton",
-      "Existe la versión XC con rueda delantera más grande (2.999 €)",
-      "Su nombre homenajea a la montaña Felsberg",
-      "Los colores militares son su seña de identidad",
+curiosidades: [
+      "La Felsberg tuvo una hermana mayor con el mismo apellido: la Felsberg 250, con horquilla invertida y escape en forma de S, que la prensa de la época anunciaba por 3.899 €, mil euros más que esta 125.",
     ],
     imagen: "/media/brixton-felsberg-125-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -2674,26 +2647,22 @@ curiosidades: [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["potenciaCv", "costeAnualAproxEur"],
-    pros: [
-      "Enduro 125 con motor Minarelli: fiabilidad probada",
-      "15 CV: el máximo legal del A1",
-      "Parte ciclo de enduro de verdad",
-      "Ligera y ágil en campo",
-      "Por 3.999 €, enduro 125 española",
-      "Ideal para iniciarse en el off-road",
+pros: [
+      "Motor Minarelli de cuatro tiempos con distribución variable VVA, refrigeración líquida e inyección electrónica: entrega los 15 CV (11 kW) que esta ficha registra, justo en el techo del carnet A1, con cambio de seis velocidades y arranque eléctrico.",
+      "Ruedas de enduro de verdad, no de trail asfáltica disfrazada: 21 pulgadas delante y 18 detrás, con neumáticos 90/90-21 y 110/80-18 pensados para superar roderas y piedras donde una llanta de 17 pulgadas se quedaría clavada.",
+      "Frenada por encima de lo habitual en una 125 de campo: disco wave de 300 mm con pinza radial de cuatro pistones delante y disco wave de 200 mm detrás, según la ficha técnica oficial de Rieju.",
+      "Chasis de doble viga perimetral en acero de alta resistencia con subchasis trasero desmontable, horquilla invertida de 40 mm y monoamortiguador trasero: si doblas el subchasis en una caída por pistas, se desmonta y se sustituye sin tocar el chasis principal.",
+      "En esta ficha de 2025 sale por 3.999 euros con dos plazas, etiqueta C de la DGT y acceso con el A1 o con el carnet B y tres años de antigüedad: es la puerta de entrada al enduro sin pasar por el carnet A2.",
     ],
-    contras: [
-      "Enduro pura: incómoda en carretera",
-      "El asiento es estrecho y duro",
-      "Sin electrónica",
-      "Mantenimiento más frecuente que una naked",
-      "Los neumáticos de tacos se gastan en asfalto",
+contras: [
+      "El depósito oficial es de solo 6 litros: en una salida larga por pistas toca planificar la gasolina con mucha más antelación que en una trail 125 con depósito grande, porque fuera del asfalto no siempre hay una estación cerca.",
+      "El sillín queda a 876 mm según la ficha oficial de Rieju y es estrecho, como manda el enduro: quien mida poco llegará de puntillas en parado y quien haga carretera enlazando pistas notará la dureza a la media hora.",
+      "La propia ficha de equipamiento de Rieju marca «No» en protector de cárter y en protector de manos: para hacer campo en serio, esas dos protecciones son la primera compra extra, no un accesorio decorativo.",
+      "Su plan de mantenimiento pide revisiones cada 3.000 km o 12 meses, con la primera ya a los 500 km: usándola a diario, pasarás por el taller con más frecuencia que con una naked 125 de intervalos largos.",
     ],
-    curiosidades: [
-      "La Marathon 125 Europe monta motor Minarelli",
-      "Rieju tiene una larguísima tradición en enduro",
-      "Es la enduro 125 más vendida en España",
-      "La versión Europe cumple la Euro5",
+curiosidades: [
+      "El nombre Marathon no se inventó para esta 125 moderna: AventuraTrail sitúa el nacimiento de la primera Rieju Marathon en 1978 como moto polivalente para ciudad y caminos, y hoy figura entre las clásicas de la marca más buscadas para restaurar en España.",
+      "La ficha oficial de la Marathon declara escape de inox e intermitentes LED, pero mantiene la instrumentación digital sin conectividad de serie: en la web actual de Rieju, el sistema Rieju Connect con localización GPS aparece marcado como opcional.",
     ],
     imagen: "/media/rieju-marathon-125-europe-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -2754,27 +2723,22 @@ curiosidades: [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: [
-      "La enduro 50 con carnet AM: para empezar a los 15 años",
-      "85 kg: ligera y manejable para jóvenes",
-      "Estética de moto grande en formato 50",
-      "Precio 3.406 €: acceso al enduro por poco dinero",
-      "Fabricada en España por Rieju, en Figueres",
-      "Ideal para aprender antes de saltar al 125"
+pros: [
+      "Cambio manual de 6 marchas con embrague de verdad: el Minarelli NG de 2 tiempos y refrigeración líquida obliga a aprender a cambiar, a salir en primera y a usar el freno motor antes de dar el salto a una 125, algo que un scooter automático de carnet AM no enseña.",
+      "Una misma base para dos usos distintos: la familia MRT 50 se ofrece en clave Enduro y en clave Supermotard, compartiendo motor y chasis de doble viga perimetral de acero, así que en 2026 la elección es de ruedas y neumáticos —taco o asfalto— y no de mecánica.",
+      "85 kg en esta ficha y depósito de 6,3 litros: a ritmo de instituto, de pueblo o de pista fácil se mueve y se levanta tras una caída sin ayuda, y no vive pegada a la gasolinera entre semana.",
+      "Subchasis trasero desmontable sobre el chasis perimetral de acero de alta resistencia: en una moto pensada para aprender fuera del asfalto, poder sustituir la parte trasera tras un golpe vale más que un adorno electrónico.",
+      "Sigue en 3.406 €, el mismo importe que las fichas de la añada 2025: la 2026 no encarece la entrada a una moto de marchas fabricada en Figueres, con la carrocería afilada de la generación 2022-2026 todavía vigente.",
     ],
-    contras: [
-      "50 cc: prestaciones muy limitadas",
-      "Mezcla 2T y mantenimiento frecuente",
-      "A los 16 años se queda pequeña: el salto al 125 es inevitable",
-      "Sin potencia para carretera abierta",
-      "Asiento alto para los más jóvenes",
-      "Reventa limitada al público AM"
+contras: [
+      "Techo legal de ciclomotor: 45 km/h en las fichas técnicas consultadas. En una nacional con tráfico a 90 se convierte en un tapón rodante y los adelantamientos, sencillamente, no existen; su sitio es la ciudad, el camino y la carretera local tranquila.",
+      "Arranque a patada, sin botón en las fichas consultadas, y carburador en un motor de 2 tiempos: arrancar en frío exige pierna y maña, y el plan de esta ficha ya marca primera revisión a los 500 km y después cada 3.000 km o 12 meses.",
+      "Asiento a 860 mm en las versiones Europa y Trophy documentadas: quien llegue justo de pierna a los 15 años maniobrará de puntillas en parado, justo cuando menos experiencia tiene para sujetar la moto.",
+      "En los datos de esta ficha figura con 1 plaza: es una moto para uno solo, sin margen para llevar a nadie detrás ni para convertirla en transporte compartido entre hermanos o amigos.",
     ],
-    curiosidades: [
-      "Rieju fabrica en Figueres (Girona) desde 1942",
-      "La MRT es la saga juvenil más longeva del enduro español",
-      "Muchos pilotos de enduro empezaron en una MRT 50",
-      "Es 'Made in Spain' de verdad, no una importada remarcada"
+curiosidades: [
+      "Rieju no es una sigla técnica: sale de coser los apellidos de sus dos fundadores, RIEra y JUanola, que empezaron en Figueres fabricando accesorios de bicicleta mucho antes de hacer su primer ciclomotor.",
+      "El apellido Minarelli del motor de esta MRT viene de lejos: Rieju acordó en 1964 fabricar motores de la marca italiana bajo licencia y lanzó con ellos la Jaca, seis décadas antes de esta 50 de 2026.",
     ],
     imagen: "/media/rieju-mrt-50-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -2915,24 +2879,22 @@ curiosidades: [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["precioDesde", "costeAnualAproxEur"],
-    pros: [
-      "Trail A2 con estética scrambler muy conseguida",
-      "Motor de 530 cc con 47 CV: lleno y sin necesidad de limitar",
-      "196 kg: contenida para su cilindrada",
-      "Asiento bajo y accesible para todas las tallas",
-      "Precio ajustado frente a las scrambler europeas",
+pros: [
+      "Sale viajera del concesionario: maletas laterales y baúl trasero de aluminio incluidos de serie, sin tener que presupuestar después soportes ni portaequipajes para la primera escapada larga",
+      "Depósito de 18 litros para una bicilíndrica A2 de 47 CV: está planteada para enlazar etapas de carretera, no para vivir de trayectos cortos entre repostajes",
+      "El ABS se puede desconectar en el tren trasero desde la evolución de 2024, un detalle pensado para rodar por pista que muy pocas trail del A2 ofrecen",
+      "Con 34,6 kW (47 CV) y 45 Nm de par, aprovecha el techo legal del carnet A2 tal cual sale de fábrica: no es una moto grande limitada a posteriori",
+      "196 kg con pantalla regulable en altura, defensas, cubrecárter y toma USB de serie: el equipamiento de viaje viene cerrado de fábrica, no en la lista de opciones",
     ],
-    contras: [
-      "Suspensiones básicas sin regulación",
-      "Instrumentación simple",
-      "Sin electrónica: ni modos ni tracción",
-      "Neumáticos de origen de asfalto, no mixtos",
-      "Marca joven con red de servicio en crecimiento",
+contras: [
+      "Rueda de 17 pulgadas también delante, con neumáticos 120/70-17 y 160/60-17: su terreno es el asfalto y la pista fácil, no el off-road serio de las trail con llanta de 19 o 21",
+      "Las tres maletas de aluminio que tanto ayudan viajando estorban en ciudad: anchura extra para filtrar entre coches y más peso y volumen cada día en trayectos cortos",
+      "La electrónica va a lo práctico —ABS desconectable y cuadro TFT con Bluetooth— y no anuncia control de tracción ni modos de conducción, que sí empiezan a verse en rivales del A2",
+      "Mitt es una marca joven de Jets Marivent y su red comercial en España no tiene la capilaridad de las japonesas asentadas: conviene comprobar concesionario y recambios cerca de casa antes de comprar",
     ],
-    curiosidades: [
-      "Mitt es una marca española impulsada por el grupo Jets Marivent",
-      "TT viene de 'Touring Trail'",
-      "Su diseño scrambler la hace única entre las A2 chinas",
+curiosidades: [
+      "Se enseñó primero como prototipo en el salón Vive la Moto de Madrid de 2022 y la versión definitiva se presentó después en el EICMA de Milán, como la moto más ambiciosa de Mitt hasta ese momento",
+      "Detrás de Mitt está la española Jets Marivent, que concentra stock de motos nuevas, recambios y accesorios en una nave de 6.000 metros cuadrados en la Ciudad de la Imagen de Pozuelo de Alarcón",
     ],
     imagen: "/media/mitt-530-tt-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -3232,25 +3194,22 @@ curiosidades: [
     carga: "Batería extraíble Samsung de 72 V; 4 h por batería; segunda batería opcional (200 km)",
     etiquetaDgt: "Cero",
     aprox: ["precioDesde", "costeAnualAproxEur"],
-    pros: [
-      "95 km/h de punta con motor de 4,2 kW continuos (6,7 kW de pico)",
-      "Segunda batería opcional que eleva la autonomía hasta 200 km",
-      "Pantalla táctil, arranque sin llave, control de crucero y marcha atrás",
-      "Premio Red Dot de diseño: es de los scooters eléctricos más bonitos",
-      "Batería Samsung extraíble con 4 h de carga",
+pros: [
+      "Su motor va en posición central y mueve la rueda trasera por cadena, no en el buje como en una NIU MQi GT o una Super Soco CPX: con 6,2 kW de pico oficiales acelera de 0 a 60 km/h en seis segundos y empuja hasta 95 km/h con el par disponible desde el primer giro de puño",
+      "En la prueba española de Híbridos y Eléctricos marcó 28,19 km por kWh, unos 2,36 kWh a los 100 km: fue el scooter eléctrico más frugal de cuantos habían probado, por encima incluso del Ecooter E2 Max con 28,11 km por kWh y con menos potencia",
+      "La batería se extrae y pesa unos 17 kg según la prueba británica de 2025, así que quien vive en un piso sin enchufe en el garaje la sube a casa o a la oficina y la deja cargando entre cuatro horas y cuatro horas y media",
+      "Rueda delantera de 14 pulgadas y trasera de 13, batalla de 1.320 mm y asiento a 780 mm: en 2026 sigue siendo un scooter de suelo plano con hueco bajo el asiento para un casco jet con una sola batería y guantera delantera con toma USB",
+      "Mantiene un equipamiento raro en su franja: arranque sin llave deslizando el dedo por la pantalla, control de crucero, marcha atrás, alarma antirrobo y tiras LED también en los laterales, que son su firma cuando se le ve de noche",
     ],
-    contras: [
-      "4.490 € y la segunda batería dispara el precio",
-      "90 km con una batería: hay que planificar si no se compra la segunda",
-      "El tacto del acelerador es brusco en modo Sport",
-      "Sin ABS: frenada combinada CBS",
-      "La pantalla táctil con guantes es poco práctica",
+contras: [
+      "En 2026 sigue frenando solo con CBS, sin ABS: dos discos con reparto combinado que cumplen en ciudad, pero la Horwin no ofrece el antibloqueo que ya se espera en un scooter equivalente a 125 que roza los 95 km/h",
+      "La autonomía real queda lejos de la teórica y el cuadro no ayuda: no muestra autonomía estimada, solo porcentaje de batería, y su pantalla brillante cuesta de leer a pleno sol; en la prueba de 2025, en modo 3 por vías rápidas, la batería cayó al 15 % tras solo unos 40-48 km",
+      "La segunda batería se paga aparte y se come el hueco bajo el asiento, así que desaparece el sitio del casco; en la prueba española de 2022 el conjunto pasaba de 4.700 a 5.600 euros, y los 200 km que se le atribuyen son la cifra teórica a 45 km/h sostenidos, no un dato de uso real",
+      "El motor central tiene su peaje: la prueba española detectó tirones de cadena al rodar a velocidad constante entre el tráfico y Horwin España obliga a limpiar y lubricar esa cadena cada 1.500-3.000 km, un mantenimiento que sus rivales de buje o correa no piden; las suspensiones, además, son básicas y se descolocan rodando cerca de su punta",
     ],
-    curiosidades: [
-      "Ganó el Red Dot Design Award en 2020",
-      "Se arranca deslizando el dedo por la pantalla, sin llave",
-      "Las tiras LED laterales lo hacen inconfundible de noche",
-      "La versión Deluxe lleva asiento de cuero marrón y retrovisores cromados",
+curiosidades: [
+      "El Red Dot que luce la EK3 es el de Product Design de 2021, con gala en junio de ese año en Essen, y no el de 2020 que arrastraba el texto clonado de su pareja: Horwin Europe lo sigue mostrando en la página oficial de la serie EK.",
+      "Al apagarla, las luces no se cortan de golpe: un retardo automático las mantiene encendidas unos segundos para iluminarte el camino hasta la puerta de casa o del garaje antes de bajar del scooter, según describe la propia Horwin Europe.",
     ],
     imagen: "/media/horwin-ek3-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -3392,27 +3351,21 @@ curiosidades: [
     carga: "Batería extraíble; carga en enchufe doméstico",
     etiquetaDgt: "Cero",
     aprox: ["costeAnualAproxEur"],
-    pros: [
-      "6 kW: uno de los scooters eléctricos equivalentes a 125 más potentes",
-      "80 km/h de punta con buena aceleración",
-      "87 kg: ligero para su potencia",
-      "Yadea es el mayor fabricante mundial de dos ruedas eléctricas",
-      "Distribución oficial en España con la red de Human Mobility",
-      "Buen nivel de equipamiento y acabados",
+pros: [
+      "En esta anualidad 2026 sigue siendo el Yadea más serio para salir de la calle de barrio: motor lateral de 6 kW (8 CV) y 80 km/h de punta con solo 87 kg, así que entra en rondas y circunvalaciones sin quedarse vendido entre coches.",
+      "Las dos baterías de 72 V y 20 Ah se sacan y se cargan en un enchufe doméstico, montadas o fuera del scooter, con carga completa en unas 4 horas: quien no tiene punto de carga en el garaje no queda fuera del modelo.",
+      "No es un eléctrico pelado: arranque sin llave, dos modos Eco y Sport, marcha atrás para maniobrar y hueco bajo el asiento para un casco jet, todo de serie en el tope de gama de Yadea en España.",
+      "Detrás no hay un importador improvisado: en España lo distribuye Human Mobility, el equipo que levantó KYMCO aquí desde 1995, y eso se nota al buscar taller y recambios frente a marcas que solo venden por internet.",
     ],
-    contras: [
-      "4.890 €: precio alto para su autonomía de 77 km",
-      "77 km declarados: justos para un uso intensivo",
-      "Sin capacidad de batería publicada",
-      "Marca aún poco conocida en España frente a NIU o Silence",
-      "Sin ABS confirmado",
-      "Reventa incierta",
+contras: [
+      "4.890 € es el techo del catálogo Yadea y se pagan por una autonomía declarada en la ficha de 77 km: si tu rutina diaria se acerca a esa cifra, vivirás pendiente del cargador.",
+      "Frena con CBS y discos de 220 mm delante y 180 mm detrás, sin ABS; en las pruebas españolas las manetas se notaron duras y al freno delantero le faltó mordiente, algo a exigir en una frenada de emergencia a 80 km/h.",
+      "Extraíble no es sinónimo de cómodo: son dos módulos que hay que subir a pulso hasta casa, y las pruebas los sitúan en unos 8 kg por batería, un gesto que cansa si se repite cada noche en un piso sin ascensor.",
+      "A dúo va justo: el asiento reserva poco espacio al pasajero y, con 87 kg, a velocidad máxima el conjunto se siente ligero; es un scooter pensado para uno con acompañante ocasional, no para viajar dos a diario.",
     ],
-    curiosidades: [
-      "Yadea vende más de 10 millones de vehículos eléctricos al año en el mundo",
-      "El C1S Pro es su scooter insignia para Europa",
-      "En España la distribuye Human Mobility, la gente de KYMCO",
-      "Yadea invierte más de 120 millones al año en I+D",
+curiosidades: [
+      "Bajo el asiento esconde un interruptor magnetotérmico parecido al del cuadro de luz de casa: permite cortar el circuito y dejar el C1S Pro en hibernación eléctrica durante paradas largas.",
+      "El logotipo de Yadea va iluminado dentro del piloto trasero y el faro delantero LED tiene forma triangular, dos firmas del diseño de KISKA que ganó el Red Dot Design Award en 2020.",
     ],
     imagen: "/media/yadea-c1s-pro-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -3551,24 +3504,21 @@ curiosidades: [
     carga: null,
     etiquetaDgt: "Cero",
     aprox: ["precioDesde", "costeAnualAproxEur"],
-    pros: [
-      "42 CV y 2,6 s de 0 a 50: el scooter eléctrico más rápido del segmento",
-      "130 km de autonomía real: de sobra para el día a día",
-      "Etiqueta Cero: entra en ZBE y aparca gratis en muchas ciudades",
-      "Diseño vanguardista que no parece un scooter",
-      "Carga completa en unas 4 horas con el cargador rápido opcional",
+pros: [
+      "Su carta de presentación en 2026 sigue siendo la pantalla TFT de 10,25 pulgadas con navegación y conectividad: convierte el cuadro en una extensión del móvil y no en el relojito habitual de un scooter urbano.",
+      "El empuje llega donde más se usa en ciudad: 62 Nm de par, 42 CV y 2,6 segundos de 0 a 50 km/h según la ficha, con salida limpia en cada semáforo sin tener que pelearte con un embrague.",
+      "La batería de 8,9 kWh va plana en el suelo y eso se nota al moverla entre coches: el centro de gravedad bajísimo da una aplomada impropia de un scooter de 231 kg cuando ya estás rodando.",
+      "No hay una sola CE 04 en el catálogo: la de 42 CV es para el A2 y la variante de 11 kW permite entrar con el A1 o con el carnet B, compartiendo chasis, pantalla y etiqueta Cero de la DGT.",
     ],
-    contras: [
-      "12.260 €: el scooter más caro de su categoría",
-      "231 kg: muy pesado para un scooter",
-      "La autonomía cae en autopista a ritmo alto",
-      "Sin la carga rápida de serie, tarda más de 4 horas",
-      "El hueco bajo el asiento es justo para un casco",
+contras: [
+      "Desde 12.260 euros en esta ficha: en 2026 sigue sin haber una CE 04 barata, y cada extra que la hace más práctica —empezando por el cargador rápido— se paga aparte.",
+      "Sin ese cargador rápido opcional, llenar la batería en un enchufe doméstico ronda las 4 horas y 20 minutos; la cifra de 45 minutos del 20 al 80 % solo llega con el extra montado.",
+      "Los 231 kg están muy repartidos en marcha, pero en parado mandan ellos: meterla marcha atrás en una plaza inclinada o levantarla de un apuro en el garaje exige más brazos que con un 125 de gasolina.",
+      "Los 130 km declarados son en ciclo urbano favorable; si tu vuelta a casa es por vía rápida sostenida a 120 km/h, planifica la carga como parte de la rutina y no como una excepción.",
     ],
-    curiosidades: [
-      "Su diseño viene del concept Link presentado en 2017",
-      "La batería va en el suelo: el centro de gravedad es bajísimo",
-      "Existe una versión de 11 kW que se conduce con el A1 o el carnet B",
+curiosidades: [
+      "Las celdas de su batería son las mismas que BMW emplea en el iX, según destacó el propio consejero delegado de BMW AG, Oliver Zipse, en la presentación del modelo de serie.",
+      "El motor, refrigerado por líquido, no va en la rueda: va montado en el bastidor, entre la batería y la rueda trasera, con una arquitectura parecida a la que BMW ya usaba en sus coches electrificados.",
     ],
     imagen: "/media/bmw-ce-04-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -3631,27 +3581,21 @@ curiosidades: [
     aprox: [
       "precioDesde",
     ],
-    pros: [
-      "Aceleración fulgurante en ciudad: 0-50 km/h en 3,0 s con 55 Nm instantáneos",
-      "Muy ligera y manejable: 132 kg y asiento a 750 mm, control total para cualquier talla",
-      "Diseño rompedor tipo 'e-parkourer' que no se parece a nada del mercado",
-      "Baterías extraíbles para cargar en casa sin punto de carga (desde la actualización de 2025)",
-      "Equipada: TFT 3,5\", Keyless Ride, USB-C, marcha atrás y control de tracción ASC",
-      "Entrega de potencia muy bien dosificada, sin brusquedades (motorpasionmoto)",
+pros: [
+      "La novedad que define a esta 2025 es poder extraer las dos baterías de 1,96 kWh cada una —3,92 kWh en total— y cargarlas en casa o en la oficina, sin depender de un garaje con enchufe propio.",
+      "En semáforos no hay 125 eléctrica que la deje atrás: 55 Nm desde parado, 11 kW de pico y 0 a 50 km/h en 3,0 segundos, con una entrega limpia en los modos Flow y Surf.",
+      "Con 132 kg, asiento a solo 750 mm y ruedas de 14 pulgadas delante, se mueve entre coches y se aparca en huecos donde un scooter GT ni cabe; ideal si vienes del carnet B o del A1.",
+      "Trae detalles impropios de una urbana de acceso: marcha atrás para salir de rampas, control de tracción ASC, arranque Keyless Ride, pantalla TFT de 3,5 pulgadas y toma USB-C de serie.",
     ],
-    contras: [
-      "Precio elevado para sus prestaciones (versión 11 kW desde ~8.400€)",
-      "Sin hueco bajo el asiento: capacidad de carga nula de serie",
-      "ABS solo en la rueda delantera",
-      "Autonomía limitada: 95 km WMTC, y el modo Flash la devora",
-      "El cargador rápido de 1,5 kW es opcional (de serie solo 900 W)",
-      "Suspensión trasera de corto recorrido (56 mm), algo seca en baches",
+contras: [
+      "Los 8.400 euros aproximados la colocan muy por encima de rivales eléctricas de 125, y el paquete Highline con modo Flash y cargador de 1.500 W se paga aparte sobre el cargador de 900 W de serie.",
+      "Los 95 km WMTC se quedan cortos fuera del centro: en pruebas reales la autonomía ronda los 80 km y cae más si abusas del modo Flash o de vías rápidas a 95 km/h.",
+      "No hay hueco bajo el asiento para un casco integral, porque ese espacio lo ocupan las baterías; sin top case o mochila, la capacidad para recados es prácticamente nula.",
+      "El ABS actúa solo en la rueda delantera y el monoamortiguador trasero, con solo 56 mm de recorrido, transmite los baches con sequedad, sobre todo yendo a dúo.",
     ],
-    curiosidades: [
-      "BMW la define como 'e-parkourer': ni scooter ni moto, inspirada en el parkour urbano",
-      "Existe versión limitada a 4 kW/45 km/h conducible con carnet AM desde los 15 años",
-      "BMW lanzó una edición especial con Deus Ex Machina (CE 02 x Deus Lodge) de estilo surf californiano",
-      "Derrapar con la rueda trasera es fácil al no llevar ABS atrás, algo que los probadores destacan como divertido",
+curiosidades: [
+      "BMW la bautizó eParkourer y su diseñador, Alexander Buckan, describió el concepto de 2021 como una especie de monopatín sobre dos ruedas pensado para jóvenes que nunca habían tenido moto.",
+      "La CE 02 x Deus Lodge, creada junto a Deus Ex Machina, lleva cuatro altavoces Marshall y una mesa de DJ plegable: no es una versión de calle al uso, sino un escaparate rodante de cultura surf y skate.",
     ],
     imagen: "/media/bmw-ce-02-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -4024,25 +3968,22 @@ curiosidades: [
     carga: "Batería extraíble de 72 V y 45 Ah; carga nocturna en enchufe doméstico",
     etiquetaDgt: "Cero",
     aprox: ["autonomiaKm", "costeAnualAproxEur"],
-    pros: [
-      "Estética café racer con ruedas de radios: la eléctrica A1 con más carácter",
-      "95 km/h de punta: llega donde los ciclomotores eléctricos no llegan",
-      "Batería extraíble: se carga en casa sin punto de recarga",
-      "Transmisión por correa dentada: silenciosa y sin mantenimiento",
-      "Frenos Brembo con frenada combinada",
+pros: [
+      "Sus 95 km/h la sacan de la ciudad pura: con el A1, o con el B y tres años de antigüedad, puede enlazar rondas e interurbanos cortos donde un ciclomotor eléctrico se queda corto",
+      "La batería de 72 V y 45 Ah (3,2 kWh) va alojada en el falso depósito y se extrae: si tu garaje no tiene enchufe, la subes y la cargas de noche en una toma doméstica",
+      "Con 101 kg en orden de marcha se mueve en parado y entre coches con una facilidad que una 125 térmica equivalente no suele ofrecer",
+      "La correa dentada sustituye a la cadena: nada de engrasar ni tensar, y la marcha es tan silenciosa como cabe esperar de una eléctrica sin ese traqueteo",
+      "Etiqueta Cero de la DGT y estética café racer con ruedas de radios: entra en las zonas restringidas sin renunciar a parecer una moto clásica de verdad",
     ],
-    contras: [
-      "110 km de autonomía declarada; en uso realista unos 70-80 km",
-      "3,9 kW nominales: justa con pasajero en cuestas",
-      "Sin ABS: frenada combinada CBS",
-      "La batería es grande y pesada para subirla a casa a diario",
-      "El precio en Europa ronda los 4.500-5.000 € por prestaciones modestas",
+contras: [
+      "Los 110 km son la autonomía declarada por la marca: sostener ritmos cercanos a su punta de 95 km/h recorta esa cifra de forma sensible, así que el planeamiento de carga manda",
+      "Frena con pinzas Brembo y frenada combinada CBS, pero sin ABS: en mojado o sobre pasos de cebra pintados toca dosificar la maneta con más cabeza que en una rival antibloqueo",
+      "Extraíble no significa ligera: la batería pesa 21,9 kg según la prueba de Moto125, y subirla a diario a un piso sin ascensor acaba pasando factura",
+      "Los 3,9 kW nominales (5,3 CV) van justos a dúo: está homologada para dos plazas, pero en incorporaciones y cuestas con pasajero la reserva de potencia es escasa",
     ],
-    curiosidades: [
-      "Vmoto (su matriz china) también fabrica para otras marcas europeas",
-      "La correa dentada elimina el engrase y el tensado de la cadena",
-      "Existe una edición Night con estética oscurecida",
-      "Es una de las eléctricas A1 más vendidas en Reino Unido",
+curiosidades: [
+      "Lo que parece el depósito de gasolina es en realidad la tapa de la batería: se abre con una cerradura situada bajo el asiento y bajo ella también va el cortacorrientes",
+      "En su presentación europea convivieron dos versiones de llanta, aleación y radios, siendo la de radios la opción estética de pago que define su imagen café racer",
     ],
     imagen: "/media/super-soco-tc-max-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -4105,27 +4046,22 @@ curiosidades: [
     aprox: [
       "pesoKg",
     ],
-    pros: [
-      "Dos baterías extraíbles: hasta 137 km WMTC y posibilidad de cargar donde quieras",
-      "Rueda alta (16\"/14\"): más estable y cómoda que un scooter de rueda pequeña",
-      "Marcha atrás y modo parking desde la piña, muy útil para aparcar",
-      "Aceleración brillante desde parado, superior a una 125 de gasolina (canariasenmoto)",
-      "Conectividad: GPS, SIM M2M y app con localización y autodiagnóstico (2 años incluidos)",
-      "Precio contenido para su nivel de equipamiento",
+pros: [
+      "En la 2025 la autonomía depende de cuántos packs montes: con uno homologa 72 km WMTC y con los dos extraíbles, que suman 5,4 kWh, sube a 137 km WMTC, y cada pack se recarga en unas 3,5 horas en un enchufe doméstico sin dejar el scooter abajo",
+      "El tren de rueda alta de esta CPx —16 pulgadas delante y 14 detrás— afronta badenes, adoquín y tapas de alcantarilla con más aplomo que un eléctrico urbano de rueda de 12 pulgadas, algo que se nota a diario con sus 144 kg en orden de marcha",
+      "La marcha atrás y el modo parking se accionan desde la piña y resuelven la maniobra en aparcamientos en batería o rampas de garaje estrechas, justo donde un scooter de 90 km/h con motor en el buje trasero más se atasca",
+      "Mantiene de serie la localización por GPS con SIM M2M y la app con autodiagnóstico, con dos años de servicio incluidos según la ficha: para una 2025 de 5.589 euros es un antirrobo que la mayoría de rivales A1 cobra aparte o ni ofrece",
+      "Con 4 kW y 5,4 CV, carnet A1 y etiqueta Cero, la CPx 2025 entra en zonas de bajas emisiones y sostiene sus 90 km/h homologados en M-30 y vías de circunvalación cortas sin necesidad de subir de categoría de permiso",
     ],
-    contras: [
-      "Sin ABS: solo frenada combinada CBS",
-      "Autonomía real con una batería modesta (~74 km medidos por moto125.cc en modo 1)",
-      "90 km/h de punta justos para vías rápidas",
-      "Con las dos baterías montadas se pierde el hueco bajo el asiento",
-      "El cargador hace bastante ruido por el ventilador (1xmatch)",
-      "Calidad de plásticos mejorable frente a marcas japonesas",
+contras: [
+      "En pleno 2025 sigue sin ABS y se conforma con frenada combinada CBS: en mojado o sobre pintura vial el margen es menor que en los eléctricos A1 que ya montan antibloqueo de doble canal",
+      "Los 137 km solo llegan con las dos baterías; con una sola, la prueba citada en la ficha midió unos 74 km en modo 1, una cifra mucho más justa si encadenas ida, recados y vuelta sin recargar entre medias",
+      "Montar el segundo pack en la 2025 condena el hueco bajo el asiento: ganas autonomía pero pierdes el sitio para el casco jet que sí queda libre en la configuración de una sola batería",
+      "Los 90 km/h de punta dejan poco colchón para adelantar en vías rápidas y el ventilador del cargador hace bastante ruido durante las 3,5 horas por batería, dos pegas concretas si cargas de noche en casa",
     ],
-    curiosidades: [
-      "Super Soco es la marca urbana de VMoto, compañía australiana que cotiza en bolsa",
-      "Existe una versión de reparto, la CPx-D, con cajón trasero y 130 km de autonomía WMTC",
-      "moto125.cc midió 91 km/h de velocidad máxima real y un coste de uso de solo 0,70 €/100 km",
-      "Lleva de serie alarma con mando a distancia y bloqueo de la rueda trasera",
+curiosidades: [
+      "Del mismo chasis de la CPx salió la CPx-D de reparto, con cajón trasero y 130 km de autonomía WMTC declarados para uso profesional",
+      "En la medición citada por la ficha, moto125.cc registró 91 km/h reales —uno por encima de los 90 homologados— y un coste de uso de solo 0,70 euros cada 100 km",
     ],
     imagen: "/media/super-soco-cpx-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -4262,26 +4198,21 @@ curiosidades: [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["precioDesde", "costeAnualAproxEur"],
-    pros: [
-      "Flat track 125 con estética de competición",
-      "TFT personalizable de serie",
-      "Doble escape alto de acero inoxidable",
-      "Llantas de 19 pulgadas delante",
-      "133 kg: ligera y divertida",
-      "Diseño único en el segmento",
+pros: [
+      "Pantalla TFT a color con dos visualizaciones, Clásica y Racing, y brillo que se ajusta solo según la luz ambiental: un guiño moderno muy poco habitual en una 125 de estética de óvalo de tierra",
+      "Monocilíndrico de 124 cc con culata DOHC de cuatro válvulas y refrigeración líquida que rinde 13,6 CV, cerca del techo del carnet A1, con caja de seis velocidades para estirarlo en ciudad",
+      "Freno delantero de 280 mm con pinza radial de cuatro pistones para un conjunto de solo 133 kg: la frenada va sobrada respecto a lo que pide esta potencia",
+      "Colín afilado de aspecto monoplaza que se desmonta y esconde el asiento del pasajero, así que conserva las dos plazas de la ficha sin romper la silueta de tracker cuando vas solo",
     ],
-    contras: [
-      "13,6 CV: justita en carretera",
-      "La estética prima sobre la practicidad",
-      "El faro LED doble es flojo de noche",
-      "Sin electrónica avanzada",
-      "Marca minoritaria: reventa difícil",
+contras: [
+      "Esos 13,6 CV mandan en ciudad, pero en vías rápidas y con pasajero se nota que no hay reserva: adelantar exige planificar y bajar marchas",
+      "El alumbrado va integrado en la placa portanúmeros frontal con dos ópticas LED pequeñas, una solución de competición que de noche en carretera secundaria se queda corta",
+      "La apuesta por la imagen se paga en lo práctico: portanúmeros laterales, guardabarros envolventes y colín de carreras dejan una moto sin apenas espacio útil ni concesiones al día a día",
+      "Mondial es una marca minoritaria en España, y eso se traslada a la reventa y a la disponibilidad de recambios frente a las 125 japonesas y europeas más vendidas",
     ],
-    curiosidades: [
-      "La Flat Track 125 fue la primera Mondial con motor Euro5",
-      "Su estética imita a las motos de dirt track americanas",
-      "Monta pantalla TFT, rara en una 125 de este estilo",
-      "Los dos escapes altos son de acero inoxidable",
+curiosidades: [
+      "Lleva estampado el dorsal 57 en las placas portanúmeros en homenaje a 1957, el año en el que FB Mondial conquistó cuatro títulos mundiales, según recoge RideApart al presentar la actualización del modelo",
+      "Aunque parece monoplaza estricta, bajo el colín se esconde un segundo asiento: la propia prensa especializada lo destaca como el truco que permite llevar pasajero sin alterar su línea de dirt track",
     ],
     imagen: "/media/mondial-flat-track-125-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -4581,27 +4512,21 @@ curiosidades: [
     carga: "Baterías extraíbles de 4 o 6 kWh; carga en enchufe doméstico",
     etiquetaDgt: "Cero",
     aprox: ["autonomiaKm", "costeAnualAproxEur"],
-    pros: [
-      "Triciclo de reparto 100 % eléctrico con gran capacidad de carga",
-      "Doble motor de 4 kW: tracción y estabilidad superiores a un scooter",
-      "Se conduce con el carnet de coche B",
-      "Baterías extraíbles de hasta 6 kWh para jornadas largas",
-      "80 km/h suficientes para reparto urbano e interurbano",
-      "Cero emisiones: entra en zonas de bajas emisiones y áreas restringidas",
+pros: [
+      "El empuje no recae en una rueda: son dos motores traseros de 4 kW que suman 8 kW y 11 CV, con frenada regenerativa al decelerar, justo el esquema que necesita un triciclo que sale cargado de un muelle y frena cada pocas manzanas",
+      "La rueda que sobra va en el eje trasero y trabaja con la estabilización en parado desarrollada por Silence: al abrir el baúl en una acera en pendiente, el conjunto no depende de que el repartidor lo aguante con una pierna mientras descarga",
+      "Quitar la batería y enchufarla a una toma doméstica desdobla el trabajo en la nave: mientras el pack de 6 kWh de esta ficha se carga dentro, la S03 no queda secuestrada junto a un cargador, y también existe la opción de 4 kWh",
+      "No pide carnet de moto para empezar a trabajar: la ficha 2026 la deja en una plaza, carnet B, etiqueta Cero y 80 km/h, una combinación pensada para cubrir el centro restringido y salir después a entregar fuera de la ronda sin cambiar de vehículo",
     ],
-    contras: [
-      "Precio no publicado: venta directa a flotas bajo presupuesto",
-      "Monplaza y enfocada al trabajo: sin uso lúdico posible",
-      "Tamaño y anchura de triciclo: aparcar exige más espacio",
-      "Peso elevado sin cifra oficial publicada",
-      "Autonomía real de 75-100 km según uso y carga",
-      "Red de servicio orientada a empresas, no a particulares",
+contras: [
+      "En la ficha 2026 el precio desde viene vacío: es compra de flota bajo presupuesto, así que el coste por unidad solo se conoce pidiendo oferta, no comparando una tarifa pública como en un scooter de reparto al uso",
+      "Los 88 km figuran como autonomía declarada y la propia ficha los marca como aproximados: una jornada que se alargue con carga y tramos a su máximo de 80 km/h necesita una parada con enchufe prevista, no improvisada",
+      "Tampoco hay peso en kg publicado en esta ficha, un dato que en un triciclo de carga debería poder cruzarse antes de decidir el baúl y la ruta, y aquí simplemente no está",
+      "Es monoplaza por definición y más ancha por detrás que la S02 de dos ruedas: no sirve para llevar a un segundo operario y exige medir el hueco de aparcamiento y de paso, aunque la marcha atrás alivie la maniobra final",
     ],
-    curiosidades: [
-      "El S03 es el vehículo de última milla de Silence para paquetería",
-      "Su configuración de tres ruedas le da estabilidad con carga pesada",
-      "Comparte baterías y electrónica con el resto de la gama Silence",
-      "Varias empresas de logística españolas ya lo usan en Madrid y Barcelona",
+curiosidades: [
+      "En su presentación en Ginebra, Carlos Sotelo no habló en un acto de motos: dio una charla sobre scooters eléctricos para delivery junto a Thibault d'Ursel, de Bélgica, y Wolfgang Beecken, de Alemania, el jueves 28 de septiembre de 2017",
+      "Ya en las notas de su presentación se citaban la iluminación LED y la conexión con el teléfono para consultar la autonomía y el nivel de carga que quedaba, dos detalles poco habituales entonces en un vehículo planteado solo para trabajar",
     ],
     imagen: "/media/silence-s03-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [

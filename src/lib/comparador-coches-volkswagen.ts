@@ -1242,19 +1242,17 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     bateriaKwh: 19.7,
     cargaRapidaKw: 50,
     etiquetaDgt: "Cero",
-    pros: [
-      "272 CV y 400 Nm con etiqueta Cero: el Golf más rápido y limpio",
-      "Carga rápida de 50 kW en un enchufable: del 10 al 80 % en 25 min",
-      "Unos 100 km eléctricos reales: el commuting diario sin gasolina",
-      "Estética GTI con discreción: el sleeper perfecto",
-      "0,4 l/100 km homologados y 9 g/km de CO2",
+pros: [
+      "Con 272 CV y 400 Nm hace el 0 a 100 km/h en 6,6 segundos y, a la vez, lleva etiqueta Cero de la DGT: es el Golf que entra en la ZBE sin renunciar a apretar",
+      "Acepta carga rápida de 50 kW en corriente continua, una rareza entre los híbridos enchufables que en la práctica acorta las paradas frente a rivales que solo cargan en alterna",
+      "La batería de 19,7 kWh le da margen eléctrico de sobra para el trayecto diario casa-trabajo sin arrancar el 1.5 TSI, que es donde un GTE se defiende o se hunde",
+      "Mantiene la fórmula discreta del GTE: detalles en azul en lugar del rojo del GTI y una carrocería de Golf de siempre, sin estridencias para quien no quiere ir anunciándose",
     ],
-    contras: [
-      "Desde ~46.000 €: 8.500 € más que el GTI de gasolina",
-      "Maletero de 345 L: la batería se come 36 litros",
-      "1.668 kg: se nota el peso en tramo",
-      "Sin ayudas Moves por superar el límite en algunas versiones",
-      "El eHybrid de 204 CV hace casi lo mismo por menos dinero",
+contras: [
+      "Parte de 45.900 euros según la ficha: es mucho dinero por un Golf de cinco puertas, lo pague quien lo pague, aunque sea el más potente con etiqueta Cero",
+      "Pesa 1.668 kg y se le nota: en cambios de apoyo y frenadas largas el GTE no tiene la agilidad de un GTI de gasolina, por mucho diferencial electrónico que lleve",
+      "El maletero se queda en 345 litros porque la batería ocupa su espacio; para llevar la compra vale, para meter equipaje de cuatro ya hay que pensárselo",
+      "Si no lo enchufas a diario, pierde el sentido: sin cargar, arrastras peso extra y el consumo del gasolina se acerca al de un Golf convencional sin ninguna ventaja a cambio",
     ],
     largoMm: 4282,
     anchoMm: 1789,
@@ -1300,6 +1298,24 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
         "alto": 800
       },
     ],
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: "https://euroncap.blob.core.windows.net/media/91370/euroncap-2025-vw-golf-datasheet.pdf",
+      nota: "Resultado Euro NCAP verificado para este modelo.",
+    },
+    planMantenimiento: {
+      intervalo: "Plan de mantenimiento del fabricante (detalle en las revisiones)",
+      revisiones: [
+        {
+          nombre: "Plan de mantenimiento del fabricante",
+          queSeCambia: "Para el Golf 8 a partir del año modelo 2021, el libro de mantenimiento de Volkswagen prevé el Servicio de Inspección cada 2 años y el cambio del líquido de frenos también cada 2 años. El mismo plan incluye el cambio del filtro de polvo y polen y, en los cambios DSG con embrague bañado en aceite, contempla el cambio de aceite cada 60.000 km en algunos modelos de Golf 8, indicando que hay que confirmarlo con el asesor de servicio. En un GTE conviene no alargar esos plazos: el 1.5 TSI puede pasar días sin arrancar en uso eléctrico, pero su aceite y el líquido de frenos envejecen igual.",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "http://technikvalles.com/mantenimientos/libro_mantenimientos_2024.pdf",
+    },
   },
   {
     id: "volkswagen-polo-10-tsi-2026-precio-ficha-tecnica",

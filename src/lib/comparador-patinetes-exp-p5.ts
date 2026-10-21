@@ -1467,20 +1467,18 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       },
     ],
     aprox: ["autonomiaRealKm", "precioEur"],
-    pros: [
-      "450 W y 360 Wh por poco dinero: la gama de acceso danesa",
-      "Ruedas honeycomb de 10\": cero pinchazos",
-      "16,6 kg: ligero y plegable",
-      "Carga en 4 horas",
-      "Marca europea (InterSales, Dinamarca) con servicio en la UE",
-      "Protección IPX4",
+pros: [
+      "Conjunto cerrado y coherente para trayectos cortos: motor de 450 W, batería de 360 Wh —48 V y 7,5 Ah según la placa del manual— y velocidad máxima de 25 km/h, sin prometer cifras de patinete superior.",
+      "Las dos ruedas honeycomb de 10 pulgadas eliminan el pinchazo y la obligación de vigilar presiones: a cambio de menos filtración, el SEL-10800F puede salir del trastero y rodar sin pasar antes por el inflador.",
+      "Pesa 16,6 kg y, ya plegado, el manual lo deja en 1.080 × 480 × 510 mm, un formato asumible para subirlo a un piso, meterlo en un maletero pequeño o arrinconarlo junto a la puerta.",
+      "Recarga completa en 4 horas con su cargador de 54,6 V y 2 A: lo enchufas al llegar a casa por la tarde y a la mañana siguiente vuelve a estar listo para la misma ruta de ida y vuelta.",
+      "Frenada con dos sistemas distintos, eléctrico delante y tambor detrás, más práctica en un modelo sin pretensiones que confiarlo todo a un único freno electrónico.",
     ],
-    contras: [
-      "30 km declarados (~20 km reales)",
-      "Las ruedas de panal transmiten más vibración que las neumáticas",
-      "450 W justos en cuestas con 120 kg",
-      "Acabados básicos",
-      "Sin app ni funciones conectadas",
+contras: [
+      "La autonomía oficial es de hasta 30 km, pero la propia ficha baja la expectativa a unos 20 km reales; quien necesite más de eso al día se quedará mirando el indicador antes de llegar a casa.",
+      "El panal de las ruedas no pincha, pero tampoco amortigua como una cámara de aire: en adoquines, juntas de acera y firme rugoso, las vibraciones llegan directas a pies y manos.",
+      "Con un conductor cercano a la carga máxima de 120 kg, los 450 W quedan justos y el manual desaconseja pendientes largas y pronunciadas: no es el patinete para cuestas serias con mochila y compra.",
+      "La ficha no registra certificado DGT y el manual lo presenta para uso doméstico, advierte de no utilizarlo en vías públicas y pide comprobar la normativa local: antes de comprarlo para circular, toca verificar su situación en tu municipio.",
     ],
     veredicto:
       "El danés barato y sin complicaciones: 450 W, ruedas antipinchazos y 16,6 kg. Para quien quiere un patinete simple que no pinche nunca.",
@@ -1530,19 +1528,18 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       },
     ],
     aprox: ["autonomiaRealKm", "precioEur"],
-    pros: [
-      "Batería extraíble de 360 Wh con cerradura de llave: se carga en casa o la oficina",
-      "450 W, ruedas honeycomb antipinchazos y 16,6 kg",
-      "Carga en 4 horas",
-      "Marca europea con servicio en la UE",
-      "Protección IPX4 y plegado mecánico simple",
+pros: [
+      "Batería extraíble de 360 Wh con cerradura de llave: puedes subirla a casa o a la oficina a cargar en 4 horas, sin necesidad de tener un enchufe junto a donde dejas el patinete",
+      "Neumáticos de 10 pulgadas tipo honeycomb, de panal antipinchazos: te ahorras reparar pinchazos a cambio de una rodadura más seca",
+      "Motor de 450 W y carga máxima de 120 kg para un conjunto de 16,6 kg, cifras contenidas para moverlo plegado por escaleras o meterlo en un maletero",
+      "Freno eléctrico delantero combinado con tambor trasero, una pareja sencilla de mantener frente a soluciones solo electrónicas",
+      "Plegado mecánico simple y protección IPX4, sin app ni conectividad que configuren nada: lo despliegas y sales",
     ],
-    contras: [
-      "30 km declarados (~20 km reales)",
-      "Ruedas de panal: más vibración que las neumáticas",
-      "La batería extraíble añade un punto de desgaste en los contactos",
-      "Sin app ni conectividad",
-      "Acabados básicos",
+contras: [
+      "Autonomía declarada de 30 km frente a unos 20 km reales anotados en la propia ficha: si tu trayecto diario se acerca a esa cifra, tendrás que cargar la batería extraíble casi a diario",
+      "Las ruedas de panal transmiten más vibración que unas neumáticas con cámara, algo que se nota en aceras rugosas o adoquín pese al tamaño de 10 pulgadas",
+      "Los contactos de la batería extraíble son un punto de desgaste añadido: la ficha ya pide limpiarlos periódicamente y revisar el mecanismo de plegado cada 6 meses",
+      "Sin app ni conectividad y con acabados básicos: no hay ajustes finos desde el móvil ni extras que otros modelos sí ofrecen",
     ],
     veredicto:
       "El SEL-10800F con batería extraíble: si no tienes enchufe donde aparcas, la llave y la batería de quita y pon justifican el modelo.",

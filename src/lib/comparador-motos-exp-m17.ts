@@ -636,24 +636,21 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["precioDesde"],
-    pros: [
-      "Nuevo monocilíndrico de 399 cc con 45 CV y 39 Nm: más par y menos traqueteo",
-      "Electrónica de moto grande: TFT de 5 pulgadas, launch control y 3 modos",
-      "Chasis multitubular con suspensiones WP y freno Bybre radial",
-      "165 kg y asiento a 820 mm: accesible y divertida",
-      "Garantía oficial KTM de 4 años en la gama Street",
+pros: [
+      "El monocilíndrico de 399 cc entrega 45 CV y 39 Nm en solo 165 kg: en puertos de montaña y rondas urbanas la 2025 se mueve con una agilidad que una bicilíndrica A2 más pesada no iguala",
+      "Electrónica impropia de una A2 en esta 2025: TFT de 5 pulgadas con modo Track, tres modos de conducción —Street, Rain y Track—, launch control, control de tracción sensible a la inclinación y ABS en curva con modo Supermoto desconectable atrás",
+      "Asiento regulable entre 820 y 800 mm y depósito metálico estrecho en la entrepierna: quien mida menos de 1,70 m llega al suelo sin tener que conformarse con la versión limitada de otra marca",
+      "Freno delantero con disco de 320 mm y pinza radial de cuatro pistones, horquilla invertida WP de 43 mm y conectividad KTM Connect con navegación paso a paso de serie, sin pasar por caja",
     ],
-    contras: [
-      "Vibraciones del monocilíndrico inevitables en autovía",
-      "Suspensiones y asiento duros para el día a día",
-      "El motor pide ir alto de vueltas: por debajo de 5.000 rpm protesta",
-      "La Triumph Speed 400 cuesta unos 1.000 € menos",
-      "Manetas sin regulación y espejos sencillos para su precio",
+contras: [
+      "El Quickshifter+ bidireccional, precisamente lo que más apetece usar con este motor nervioso, es un extra de pago y no viene de serie pese a tratarse de una de las A2 más caras de su clase",
+      "Es un monocilíndrico y se nota: vibra en autovía sostenida y protesta si lo dejas caer de vueltas, así que el cambio de seis marchas trabaja casi tanto como tú",
+      "Asiento firme, posición echada hacia delante y cero protección contra el viento: para ir a dúo o enlazar dos horas de autovía, esta Duke cansa antes que sus rivales turísticas",
+      "No hay control de crucero homologado en este modelo y tampoco una IMU de seis ejes como en sus hermanas mayores; el ABS en curva funciona con sus propios sensores",
     ],
-    curiosidades: [
-      "La instrumentación celebra los 30 años de la saga Duke al arrancar",
-      "Su faro toma prestado el diseño de la 1390 Super Duke R",
-      "KTM la ha ofrecido con financiación al 0 % en campañas oficiales",
+curiosidades: [
+      "Con 165 kg en orden de marcha, esta 390 pesa menos que la primera Duke de 1994, que declaraba 168 kg con el depósito lleno pese a rendir en la misma franja de potencia",
+      "El faro y las tapas laterales afiladas copian el lenguaje de la 1390 Super Duke R, la hypernaked de la casa, aunque aquí todo cabe en un carnet A2",
     ],
     imagen: "/media/motos/ktm-390-duke-2025-ficha-tecnica-precio-hero.webp",
     galeria: [

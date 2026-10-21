@@ -1470,19 +1470,18 @@ export const COCHES_LOTE5: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: [
-      "190 CV y 260 Nm del 1.5T de origen Mitsubishi",
-      "Cambio de doble embrague de 7 velocidades",
-      "0-100 en 8,8 segundos: ágil para un SUV familiar",
-      "Maletero de 605 litros, enorme",
-      "Desde ~13.000 € en China con garantía de 3 años",
+pros: [
+      "El 1.5 turbo A415TD entrega 190 CV y 260 Nm en un SUV de 4.562 mm: cifras de compacto deportivo en un coche pensado para China interior, no para postureo urbano.",
+      "Con 1.917 mm de anchura y 2.700 mm de batalla, el habitáculo aprovecha de verdad el formato: hombros holgados delante y una banqueta trasera utilizable por adultos.",
+      "El maletero parte de 605 litros en la versión de gasolina, un volumen que en Europa obligaría a mirar un segmento por encima pagando mucho más.",
+      "El cambio de doble embrague de siete marchas y el 0 a 100 km/h en 8,8 segundos le dan una respuesta inmediata en incorporaciones, sin recurrir a un CVT.",
+      "Su precio de referencia en China, en torno a 13.000 euros al cambio según la propia ficha, deja en evidencia el sobrecoste de cualquier SUV equivalente vendido en España.",
     ],
-    contras: [
-      "No se vende en Europa",
-      "Motor de gasolina sin hibridación: consumo elevado",
-      "Diseño coupé que resta altura en las plazas traseras",
-      "Marca desconocida fuera de China y Latinoamérica",
-      "Sin versiones electrificadas",
+contras: [
+      "En España no se puede comprar nuevo: no hay red Venucia, ni homologación europea, ni recambios garantizados fuera de la importación paralela por cuenta propia.",
+      "Esta variante es gasolina pura, sin microhibridación ni etiqueta ECO de la DGT: se queda en etiqueta C y penaliza en zonas de bajas emisiones.",
+      "La caída coupé del techo, que en las fotos vende deportividad, recorta altura libre en las plazas traseras y complica meter a un adulto alto detrás.",
+      "No consta prueba Euro NCAP: al no comercializarse en Europa, quien lo importe viaja sin una referencia independiente de seguridad comparable a la de sus rivales.",
     ],
     largoMm: 4562,
     anchoMm: 1917,
@@ -1530,11 +1529,11 @@ export const COCHES_LOTE5: CocheComparador[] = [
       },
     ],
     analisisSlug: "venucia-v-online-2025-precio-ficha-tecnica",
-    euroncap: {
+euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no vendido en Europa, no probado",
+      nota: "Sin prueba Euro NCAP.",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 10.000 km, lo que antes ocurra",
@@ -1573,19 +1572,17 @@ export const COCHES_LOTE5: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: [
-      "197 CV y 300 Nm del 1.5T: la berlina china más potente de su precio",
-      "Cambio de doble embrague de 6 velocidades",
-      "Diseño deportivo con versión Max de estética agresiva",
-      "Desde ~10.500 € en China: potencia de compacto GTI por precio de utilitario",
-      "Dongfeng es uno de los grandes grupos estatales chinos",
+pros: [
+      "Motor Mach 1.5 turbo de 197 CV y 300 Nm asociado a un DCT de 6 marchas: cifras de compacto deportivo en una berlina de 4.670 mm pensada para el mercado chino.",
+      "Plataforma CMP y batalla de 2.680 mm para cinco plazas, con 1.812 mm de anchura: no es un utilitario alargado, sino una berlina compacta con medidas completas.",
+      "Precio de referencia en China desde unos 10.500 € al cambio, marcado como aproximado en la ficha: sirve para situarlo, no como PVP español.",
+      "Del Yixuan normal derivaron el EV eléctrico, el Knight de estética CTCC y la Mach Edition, así que hay gama y recorrido desde 2019, no un acabado único suelto.",
     ],
-    contras: [
-      "No se vende en Europa",
-      "Consumo elevado sin hibridación",
-      "Calidades interiores mejorables",
-      "La caja DCT de 6 marchas es menos refinada que las de 7",
-      "Marca Aeolus desconocida fuera de China",
+contras: [
+      "Sin venta oficial en España: Dongfeng comercializa aquí otros modelos como BOX, VIGO y MAGE, pero no este Yixuan, así que garantía, recambios y homologación quedarían sin red oficial para él.",
+      "Sin prueba Euro NCAP: al no venderse en Europa no hay estrellas que comparar con un León o un Corolla, y la ficha lo deja honestamente en sin datos.",
+      "Eje trasero de barra de torsión no independiente, una solución de contención de costes que chirría frente al discurso deportivo que venden sus 197 CV.",
+      "Todo gasolina sin hibridación en la versión de 197 CV: en España eso lo dejaría con etiqueta C y sin la ventaja de acceso o fiscal de un híbrido.",
     ],
     largoMm: 4670,
     anchoMm: 1812,
@@ -1633,11 +1630,11 @@ export const COCHES_LOTE5: CocheComparador[] = [
       },
     ],
     analisisSlug: "dongfeng-aeolus-yixuan-2025-precio-ficha-tecnica",
-    euroncap: {
+euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo exclusivo de China, no probado",
+      nota: "Sin prueba Euro NCAP.",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 10.000 km, lo que antes ocurra",

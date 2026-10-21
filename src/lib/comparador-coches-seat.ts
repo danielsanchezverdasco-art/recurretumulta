@@ -29,19 +29,18 @@ export const COCHES_SEAT: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: [
-      "Maletero de 620 litros (1.600 con asientos abatidos): el familiar compacto más capaz por este precio",
-      "Precio de acceso de 23.213 €: el familiar nuevo más barato del segmento C",
-      "Motor 1.5 TSI probado del Grupo VW, con amplia red de recambios",
-      "Mismo tacto de conducción que el León 5 puertas, sin penalización dinámica",
-      "Fabricado en Martorell: marca española con red de talleres extensa",
+pros: [
+      "Maletero de 620 litros en un coche de 1.392 kg: carga como un familiar grande sin arrastrar el peso de un SUV, y eso se nota en el consumo de 5,7 l/100 km",
+      "Con 23.213 € de precio de partida es la forma más barata de entrar en un familiar del segmento C con plataforma MQB Evo, la misma del Golf Variant, mucho más caro",
+      "El 1.5 TSI de 116 CV entrega sus 220 Nm entre 1.500 y 3.000 rpm, así que en uso diario y con cambio manual de seis marchas no hay que ir buscando revoluciones para adelantar en secundaria",
+      "Mide 4.642 mm, 274 mm más que el León de cinco puertas, y todo ese extra va detrás del eje trasero: las plazas traseras no pierden espacio y el maletero crece de 380 a 620 litros",
+      "Se fabrica en Martorell y comparte mecánica con medio Grupo Volkswagen: encontrar un taller que lo conozca y recambios para el 1.5 TSI no es un problema en España",
     ],
-    contras: [
-      "Etiqueta C: sin ventajas en ZBE frente a rivales híbridos",
-      "El 1.5 TSI de 116 CV se queda justo con el coche cargado y en puertos",
-      "10,7 s de 0 a 100: las prestaciones más modestas de la gama León",
-      "Interior con plásticos duros en zonas bajas, mejorable frente a rivales",
-      "SEAT centra su futuro en CUPRA: el relevo del León es una incógnita",
+contras: [
+      "Etiqueta C de la DGT: este 1.5 TSI sin hibridación no tiene las ventajas en ZBE ni en aparcamiento que sí da el 1.5 eTSI de la misma potencia con etiqueta ECO",
+      "10,7 segundos de 0 a 100 km/h en vacío se quedan cortos en cuanto viajan cinco personas y el maletero de 620 litros va lleno: en puertos y al incorporarse toca reducir y apurar las marchas",
+      "Solo tracción delantera y sin opción de cambio automático en esta versión concreta: quien quiera DSG tiene que saltar al eTSI y pagar la diferencia",
+      "128 g/km de CO2 y un depósito pensado para un uso eficiente, no para olvidarse de repostar en viajes largos cargado, cuando el consumo real se aleja del WLTP",
     ],
     largoMm: 4642,
     anchoMm: 1799,
@@ -89,6 +88,18 @@ export const COCHES_SEAT: CocheComparador[] = [
     ],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/seat/leon/2020/sportstourer/datos?market%5B0%5D=available&=1",
+    planMantenimiento: {
+      intervalo: "Plan de mantenimiento del fabricante (detalle en las revisiones)",
+      revisiones: [
+        {
+          nombre: "Plan de mantenimiento del fabricante",
+          queSeCambia: "Este León separa servicio de cambio de aceite e inspección, y el vencimiento lo avisa el indicador de intervalos del cuadro o del sistema de infotainment, en Vehículo > Estado del vehículo > Servicio. Según el código PR del coche, el cambio de aceite puede ser fijo o flexible (QI6, según el propio indicador). La guía de posventa de SEAT recomienda el Mantenimiento Oficial cada 30.000 km o 2 años, con cambio de aceite y filtro y comprobación de frenos, neumáticos, líquido de frenos, batería, luces y fugas en el compartimento motor. No reinicies el indicador entre servicios: si se pone a cero a mano, un coche con servicio flexible pasa a intervalo fijo.",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Manual del SEAT León (programa de mantenimiento, intervalos fijos/flexibles) y Guía SEAT Posventa 2020: https://www.autouserguide.com/es/asiento/Gu%C3%ADa-del-usuario-del-programa-de-mantenimiento-del-Seat-Le%C3%B3n-2026/ y https://fliphtml5.com/dwbp/samn/Gu%C3%ADa_SEAT_Posventa2020_Sevilla_Motor_0A411/",
+    },
   },
   {
     id: "seat-ibiza-10-tsi-2026-precio-ficha-tecnica",
@@ -278,19 +289,18 @@ export const COCHES_SEAT: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
-    pros: [
-      "Etiqueta ECO por 26.260 €: el León más barato con ventajas en ZBE y aparcamiento",
-      "Mismo 1.5 TSI de 150 CV con microhibridación de 48 V: 5,3 l/100 km homologados",
-      "Cambio DSG de 7 velocidades de serie: comodidad total en ciudad",
-      "8,4 s de 0 a 100: apenas pierde prestaciones frente al TSI manual",
-      "Sin enchufe ni cambios de hábitos: la hibridación más sencilla",
+pros: [
+      "Es el eTSI con nervio de verdad: 150 CV y 250 Nm desde 1.500 rpm le dejan cerrar el 0 a 100 en 8,4 s y alcanzar 217 km/h, muy lejos de los 10,7 s del hermano de 115 CV con el que comparte bloque 1.5",
+      "El sistema de 48 V trabaja donde más se nota en el día a día: arranques suaves tras el Stop&Start, apoyo eléctrico al salir de un semáforo y fases de vela con el motor apagado en retención, sin enchufes ni cables en el garaje",
+      "Homologa 5,3 l/100 km y 121 g/km de CO2 pese a ser el microhíbrido rápido de la gama, y la etiqueta ECO llega desde 26.260 € sin tener que saltar al e-HYBRID enchufable",
+      "DSG de 7 marchas de serie y sin alternativa manual: en atascos de la M-30 no hay pedal de embrague que gestionar y en carretera abierta las reducciones para adelantar son inmediatas",
+      "La hibridación ligera no le roba ni un litro al maletero: mantiene los 380 litros del León de gasolina equivalente y su peso se queda en 1.364 kg, contenido para un compacto automático electrificado",
     ],
-    contras: [
-      "La hibridación ligera apenas ahorra en autopista frente al 1.5 TSI",
-      "Más caro que el 1.5 TSI manual equivalente (unos 1.200 € de diferencia)",
-      "Batería de 48 V pequeña: no permite circular en eléctrico",
-      "Etiqueta ECO, no Cero: menos ventajas que el e-HYBRID enchufable",
-      "El maletero sigue en 380 litros, sin mejora frente al resto de la gama",
+contras: [
+      "Que no te venda nadie lo contrario: el motor de 48 V no empuja el coche por sí solo, así que en autopista a ritmo constante el ahorro frente a un 1.5 TSI sin hibridar es marginal",
+      "Si quieres 150 CV con cambio manual, en la familia eTSI no existe: el DSG es obligatorio y parte de la factura de este León viene de esa caja, no del motor",
+      "Los 380 litros se quedan cortos si vienes de mirar su propio hermano Sportstourer, que con la misma mecánica familiar anuncia 620 litros: en el cinco puertas, una sillita y dos maletas ya obligan a jugar al Tetris",
+      "Etiqueta ECO y no CERO: frente al León e-HYBRID de 204 CV pierde ventajas en las ZBE más duras y en el estacionamiento regulado de ciudades como Madrid",
     ],
     largoMm: 4368,
     anchoMm: 1800,
@@ -338,6 +348,18 @@ export const COCHES_SEAT: CocheComparador[] = [
     ],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/seat/leon/2020/5-puertas/estandar/leon-15-etsi-110-kw-150-cv-dsg-style-special-edition2/datos",
+    planMantenimiento: {
+      intervalo: "Plan de mantenimiento del fabricante (detalle en las revisiones)",
+      revisiones: [
+        {
+          nombre: "Plan de mantenimiento del fabricante",
+          queSeCambia: "Según la Guía de Posventa oficial de SEAT, el Mantenimiento Oficial se recomienda cada 30.000 km o cada 2 años, lo que antes ocurra, con el indicador de intervalos del cuadro avisando del vencimiento. La operación incluye cambio de aceite de motor y filtro y la verificación de frenos, neumáticos, líquido de frenos, batería, alumbrado, niveles de anticongelante y limpiaparabrisas y estado de correas; la propia guía advierte de que las operaciones concretas pueden variar según modelo, año y motorización, por lo que para este 1.5 eTSI DSG conviene confirmar el detalle en el servicio oficial. No se incluye coste: SEAT no publica una tarifa única verificable para esta versión.",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Guía de Posventa SEAT (Mantenimiento Oficial SEAT, frecuencia 30.000 km o 2 años): https://www.talleres.seat/content/dam/countries/es_auth-services/services/alboraya_2008/guia-posventa/Guia_Posventa_2022_alboraya_2008_07985.pdf",
+    },
   },
   {
     id: "seat-leon-20-tdi-2026-precio-ficha-tecnica",
@@ -942,19 +964,17 @@ export const COCHES_SEAT: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
-    pros: [
-      "Etiqueta ECO por 25.490 €: el León híbrido ligero más barato",
-      "5,2 l/100 km: el León gasolina más eficiente sin enchufe",
-      "DSG de 7 velocidades de serie: comodidad total en ciudad",
-      "Microhibridación de 48 V: sin cambios de hábitos ni recargas",
-      "Mismo 1.5 TSI de 4 cilindros, sin el 3 cilindros anterior"
+pros: [
+      "Es la puerta de entrada a la etiqueta ECO en el León de 2026: 25.490 € y ya con el DSG de siete marchas incluido, sin tener que subir a los 150 CV para tener automático e hibridación ligera",
+      "Homologa 5,2 l/100 km y 121 g/km de CO2 con 115 CV: para quien hace ciudad y circunvalaciones a diario, el apoyo de 48 V se nota justo en arranques y retenciones, que es donde un gasolina puro más gasta",
+      "Mantiene el maletero de 380 litros del cinco puertas pese al sistema de 48 V, y mide 4.368 mm: no hay que saltar al Sportstourer familiar si no se necesita cargar más",
+      "Su 1.5 de cuatro cilindros entrega 220 Nm, el mismo par que el 1.5 TSI 115 manual: no es un tricilíndrico recortado disfrazado de versión de acceso, sino el motor grande con la potencia contenida",
     ],
-    contras: [
-      "La hibridación ligera apenas ahorra en autopista",
-      "Más caro que el 1.5 TSI 115 manual equivalente",
-      "No permite circular en modo eléctrico",
-      "Etiqueta ECO, no Cero: menos ventajas que el e-HYBRID",
-      "Prestaciones tranquilas: pensado para eficiencia, no para correr"
+contras: [
+      "10,4 segundos de 0 a 100 km/h y 197 km/h de punta dejan claro su planteamiento: en incorporaciones cargado o adelantamientos largos se echa en falta el empuje de otra versión, no es un León para ir con prisas",
+      "El sistema de 48 V asiste y permite avanzar a vela en según qué situaciones, pero no mueve el coche solo con electricidad: quien espere silencios de híbrido convencional al salir de un semáforo se llevará una decepción",
+      "Por potencia es idéntico al 1.5 TSI 115 manual, así que lo que se paga de más es el DSG y la etiqueta ECO: si no se entra en zonas de bajas emisiones ni se quiere automático, la versión manual cumple con menos desembolso",
+      "La etiqueta es ECO, no CERO: frente al León e-HYBRID enchufable pierde las ventajas de aparcamiento y acceso asociadas a la CERO, y en autopista pura la ayuda eléctrica apenas recorta el consumo de 5,2 l/100 km homologado",
     ],
     largoMm: 4368,
     anchoMm: 1800,
@@ -1002,6 +1022,18 @@ export const COCHES_SEAT: CocheComparador[] = [
     ],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/seat/leon/2020/5-puertas/estandar/leon-15-etsi-85-kw-115-cv-dsg-style/datos",
+    planMantenimiento: {
+      intervalo: "Plan de mantenimiento del fabricante (detalle en las revisiones)",
+      revisiones: [
+        {
+          nombre: "Plan de mantenimiento del fabricante",
+          queSeCambia: "El manual del León distingue dos servicios, el de cambio de aceite y el de inspección, y ambos se anuncian en el indicador de intervalos del cuadro y del sistema multimedia. En servicio fijo QI4 el cambio de aceite toca cada 15.000 km o al año, lo que antes se cumpla; en servicio flexible QI6 manda el propio indicador, que calcula la fecha según el uso y el estilo de conducción. En la visita del eTSI se trabaja sobre el motor térmico y se comprueba el sistema de 48 V, sin que haya enchufe ni batería de tracción que mantener. Ninguna fuente oficial consultada publica una tarifa cerrada para España, por lo que no se da un coste de revisión.",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "https://carmanuals2.com/seat/leon-sportstourer-2023-manual-del-propietario-121986/page-399/",
+    },
   },
   {
     id: "seat-leon-20-tdi-115-2026-precio-ficha-tecnica",
@@ -1108,19 +1140,18 @@ export const COCHES_SEAT: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: [
-      "24.284 €: el familiar 150 CV más barato del segmento C",
-      "Maletero de 620 litros (1.600 abatido): el más capaz por este precio",
-      "150 CV y 250 Nm: prestaciones de sobra con el coche cargado",
-      "Mismo tacto que el 5 puertas, sin penalización dinámica",
-      "Fabricado en Martorell, con amplia red de talleres"
+pros: [
+      "Con 620 litros sin abatir ningún asiento, este Sportstourer carga el equipaje de unas vacaciones sin recurrir a un cofre de techo, y lo hace desde 24.284 euros con 150 CV bajo el capó.",
+      "El 1.5 TSI entrega 250 Nm y firma el 0 a 100 km/h en 8,7 segundos, así que adelantar un camión con cinco ocupantes y el maletero lleno no exige planificarlo con antelación.",
+      "Al no montar la batería de un híbrido enchufable, conserva intactos los 620 litros de maletero y solo mueve 1.397 kg, menos lastre que un familiar electrificado equivalente.",
+      "Homologa 5,7 l/100 km y se fabrica en Martorell, donde también se desarrolló esta generación: recambios, accesorios y talleres que conocen el modelo no escasean en España.",
+      "El cambio manual de seis marchas permite elegir la respuesta del 1.5 TSI en puertos y adelantamientos, algo que el DSG de las versiones eTSI de la gama no deja hacer del mismo modo.",
     ],
-    contras: [
-      "Etiqueta C: sin ventajas en ZBE",
-      "El eTSI 150 con ECO cuesta más pero compensa en ciudad",
-      "Consumo real sube a 7 l/100 km con carga y ritmo alegre",
-      "Interior con plásticos duros en zonas bajas",
-      "Revalorización peor que la de versiones híbridas"
+contras: [
+      "Es etiqueta C, no ECO: el eTSI 150 equivalente sí la lleva, y en ciudades con protocolo anticontaminación esa letra decide accesos y aparcamiento que este TSI puro no tiene.",
+      "Quien busque cambio automático no lo encontrará en este TSI sin hibridar: la opción automática de 150 CV obliga a saltar al eTSI con DSG y a asumir su sobreprecio.",
+      "El depósito es de solo 45 litros para un coche pensado para viajar cargado; en tiradas largas de autovía tocará repostar antes que en familiares con depósitos más grandes.",
+      "En las zonas bajas de puertas y consola quedan plásticos duros al tacto, un recorte que se nota al pasar la mano en un habitáculo por lo demás muy digitalizado.",
     ],
     largoMm: 4642,
     anchoMm: 1799,
@@ -1168,6 +1199,18 @@ export const COCHES_SEAT: CocheComparador[] = [
     ],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/seat/leon/2020/sportstourer/estandar/leon-sportstourer-15-tsi-110-kw-150-cv-style-special-edition/datos",
+    planMantenimiento: {
+      intervalo: "Plan de mantenimiento del fabricante (detalle en las revisiones)",
+      revisiones: [
+        {
+          nombre: "Plan de mantenimiento del fabricante",
+          queSeCambia: "SEAT no fija para este Sportstourer una única fecha cerrada: el manual del modelo distingue el servicio de cambio de aceite y la inspección, y ambos se anuncian mediante el indicador de intervalos del cuadro y del sistema de infoentretenimiento. En servicio flexible el cambio de aceite se realiza cuando el coche lo pide según el uso y el estilo de conducción, utilizando aceite LongLife; en el servicio de larga duración el cálculo del cambio no supera los dos años. No se publica precio cerrado de revisión porque ninguna fuente oficial consultada lo fija para esta versión.",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "https://carmanuals2.com/seat/leon-sportstourer-2023-manual-del-propietario-121986/page-399/",
+    },
   },
   {
     id: "seat-leon-sportstourer-15-etsi-115-2026-precio-ficha-tecnica",

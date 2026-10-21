@@ -1694,19 +1694,18 @@ export const COCHES_OPEL: CocheComparador[] = [
     bateriaKwh: 50,
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
-    pros: [
-      "Etiqueta Cero: reparte en las ZBE sin restricciones ni horarios",
-      "6,6 m³ de volumen de carga en la versión M",
-      "Carga rápida de 100 kW en continua: recarga en pausas de trabajo",
-      "136 CV y 260 Nm: ágil en reparto urbano",
-      "Coste por kilómetro muy inferior al diésel en uso intensivo",
+pros: [
+      "La batería va bajo el suelo de carga y no se come el hueco: esta versión anuncia 6,6 m³ para seguir cargando bultos como en el Vivaro de combustión",
+      "Con 260 Nm disponibles desde la primera pisada y 136 CV, sale de semáforos y rotondas cargada sin tener que apurar un motor diésel frío por la mañana",
+      "En un cargador rápido de 100 kW, Stellantis cifra en unos 38 minutos la carga de la batería de 50 kWh del 5 al 80 %, pensada para encajar en una pausa",
+      "Su etiqueta Cero de la DGT le abre las ZBE y, con 1,91 metros de altura según esta ficha, sigue siendo planteable para muchos aparcamientos subterráneos",
+      "Permite escoger entre los modos Normal, Eco y Power y ajustar la frenada regenerativa en tres niveles con levas tras el volante, útil para afinar el consumo ruta a ruta",
     ],
-    contras: [
-      "Autonomía WLTP de unos 220 km: solo para reparto urbano y periurbano",
-      "Desde 38.235 €: más caro que el Vivaro diésel equivalente",
-      "Velocidad máxima de 130 km/h",
-      "Peso y 0-100 no publicados por la marca",
-      "La autonomía cae con carga completa y frío",
+contras: [
+      "Los 220 km WLTP de esta batería de 50 kWh se quedan cortos si la ruta mezcla autovía, carga completa y frío: para ese uso está la versión de 75 kWh, no esta",
+      "Parte de 38.235 €, una factura de compra claramente superior a la de un Vivaro diésel equivalente que un autónomo tarda en amortizar solo con el ahorro por kilómetro",
+      "La velocidad máxima está limitada a 130 km/h y en esta ficha no constan ni el peso ni el 0 a 100, dos datos que una flota querría ver antes de firmar",
+      "Solo tiene 3 plazas en cabina, así que no sirve como lanzadera de equipos más grandes aunque sobre volumen atrás para herramientas y material",
     ],
     largoMm: 4981,
     anchoMm: 1924,
@@ -1754,6 +1753,24 @@ export const COCHES_OPEL: CocheComparador[] = [
     ],
     fuenteNombre: "espaciofurgo.com",
     fuenteUrl: "https://www.espaciofurgo.com/ficha/opel-vivaro-electric/",
+    euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: "https://commercial-vehicles.euroncap.com/assessments/opel/vivaro/v107/",
+      nota: "Resultado Euro NCAP verificado para este modelo.",
+    },
+    planMantenimiento: {
+      intervalo: "Plan de mantenimiento del fabricante (detalle en las revisiones)",
+      revisiones: [
+        {
+          nombre: "Plan de mantenimiento del fabricante",
+          queSeCambia: "Según la documentación de Vauxhall para el Vivaro Electric (el gemelo británico del Opel), toca inspección inicial a las 12.500 millas o al año y servicio cada 25.000 millas o 2 años, lo que ocurra antes. Opel España incluye en sus revisiones filtro de habitáculo, revisión de batería, cambio de líquido de frenos e inspección de frenos, luces y electrónica, y remite al manual del propietario para el plan exacto de cada unidad: confírmalo allí antes de pedir cita.",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "https://manuals.plus/vauxhall/2026a-vivaro-electric-including-diesel-range-manual",
+    },
   },
   {
     id: "opel-mokka-gse-2025-precio-ficha-tecnica",

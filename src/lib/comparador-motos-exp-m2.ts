@@ -28,27 +28,22 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: [],
-    pros: [
-      "Motor nuevo de 399 cc con 45 CV: más par en bajos y menos traqueteo que la generación anterior, manteniendo el carácter explosivo en la zona alta",
-      "Parte ciclo de referencia en el A2: chasis multitubular rígido con tacto de Super Duke y suspensiones WP regulables en ambos trenes",
-      "Frenada impecable: pinza Bybre de anclaje radial y ABS Bosch que interviene con discreción",
-      "Asiento a 820 mm y 165 kg con el depósito lleno: accesible para pilotos de cualquier talla",
-      "Electrónica completa: TFT de 5 pulgadas, conectividad de serie, launch control y quickshifter opcional que funciona muy bien",
-      "Consumo contenido: unos 3,8 l/100 km en uso real según las pruebas",
+pros: [
+      "Debut del LC4c de 399 cc en 2024: al alargar la carrera a 64 mm gana 39 Nm a 7.000 rpm y empuja con más continuidad saliendo de curva que el 373 cc saliente, sin perder el estirón alto que pedía la saga",
+      "Chasis nuevo en dos piezas estrenado este año, con subchasis trasero de aluminio fundido a presión y basculante curvo: se nota más aplomo con el asfalto roto y más precisión al enlazar curvas cerradas que en la Duke anterior",
+      "Horquilla WP APEX invertida de 43 mm regulable en compresión y rebote en cinco clics y monoamortiguador desplazado a la derecha, también regulable: en una A2 de 2024 poder ajustar ambos trenes de serie marca distancia frente a rivales cerrados",
+      "Salto electrónico propio de este rediseño: IMU con control de tracción y ABS en curva, modos Street y Rain, pantalla Track con cronómetro y control de salida, todo gestionado desde la TFT de 5 pulgadas con KTMconnect",
+      "Asiento rebajado a 820 mm —y a 800 mm con la configuración baja— gracias al amortiguador lateral y a la caja de aire mayor: la 2024 resulta menos intimidante en parado que la generación previa sin renunciar a hueco para moverse encima",
     ],
-    contras: [
-      "Vibraciones del monocilíndrico siempre presentes: forman parte de su personalidad, pero cansan en autovía",
-      "Suspensiones y asiento duros: no es la naked más cómoda para el día a día",
-      "El motor pide vueltas: por debajo de 5.000 rpm no le gusta ir, hay que llevarlo alegre",
-      "Precio de 6.399 €: la Triumph Speed 400 cuesta unos 1.000 € menos con un planteamiento similar",
-      "Detalles mejorables: manetas sin regulación y espejos sencillos para su precio",
-      "Ha engordado hasta los 165 kg: unos 15 kg más que la primera generación",
+contras: [
+      "El monocilíndrico sigue siendo un monocilíndrico: en ciudad a ritmo tranquilo se muestra brusco a bajas vueltas y traslada vibraciones a manillar y estriberas, algo que en trayectos largos por autovía acaba pesando",
+      "Los 6.399 euros de lanzamiento la colocan en la parte alta de las naked A2, y remata la factura que el Quickshifter+ se pague como accesorio opcional y no venga de serie pese a todo el despliegue electrónico",
+      "La comodidad quedó sacrificada en el rediseño: asiento firme, hueco de pasajero justo y suspensiones secas sobre baches urbanos hacen que no sea la compañera más amable para el uso diario intensivo",
+      "Con 165 kg en orden de marcha ya no es la pluma que fue la 390 de 2013: rodando es ágil, pero moverla en parado en un garaje estrecho exige más brazo de lo que sugiere su cilindrada",
     ],
-    curiosidades: [
-      "La instrumentación celebra los 30 años de la saga Duke con un logo conmemorativo al arrancar",
-      "Su estética toma prestado el faro de la 1390 Super Duke R, la joya de la corona de la marca",
-      "Equipa control de salida (launch control) y anti-wheelie, ayudas propias de motos mucho más gordas",
-      "KTM la ha ofrecido con financiación al 0 % en campañas oficiales en España",
+curiosidades: [
+      "KTM presentó las Duke monocilíndricas de 2024 como el mayor cambio de la gama de menos de 500 cc desde la llegada de la 125 Duke en 2011, con motor, chasis y estilo renovados a la vez",
+      "Su año de estreno coincide con los 30 años de la saga Duke iniciada en 1994, y lo celebra compartiendo lanzamiento con la 990 Duke y la 1390 Super Duke R, las otras dos novedades del aniversario",
     ],
     imagen: "/media/motos/ktm-390-duke-2024-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -64,6 +59,18 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
       intervaloMantenimiento: "1.000 km (rodaje) y después cada 7.500 km",
       aceiteTipo: "Motorex Formula 4T SAE 15W-50 (1,8 l, según ficha oficial KTM)",
       trucos: ["Filtro de aire: sustitución cada 10.000 km según la ficha técnica"],
+    },
+    planMantenimiento: {
+      intervalo: "Plan de mantenimiento del fabricante (detalle en las revisiones)",
+      revisiones: [
+        {
+          nombre: "Plan de mantenimiento del fabricante",
+          queSeCambia: "Primera revisión a los 1.000 km y después cada 10.000 km o 12 meses en la 390 Duke de 2024, un intervalo más largo que los 7.500 km de la generación anterior. Cada servicio incluye cambio de aceite y filtro —KTM prescribe Motorex Formula 4T 15W-50— y lectura de la memoria de errores con la herramienta oficial.",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "https://www.ktm.com/language-masters/en/service/maintenance/Tiempos%20de%20Mantenimiento%20KTM%20Street.pdf",
     },
   },
   {

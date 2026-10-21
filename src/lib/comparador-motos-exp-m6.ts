@@ -2618,27 +2618,22 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: [],
-    pros: [
-      "La enduro 50 con carnet AM: para empezar a los 15 años",
-      "85 kg: ligera y manejable para jóvenes",
-      "Estética de moto grande en formato 50",
-      "Precio 3.406 €: acceso al enduro por poco dinero",
-      "Fabricada en España por Rieju, en Figueres",
-      "Ideal para aprender antes de saltar al 125"
+pros: [
+      "Con 85 kg declarados en esta ficha de 2025, se mueve en parado y a baja velocidad sin la torpeza de una moto de mayor cilindrada para quien estrena el carnet AM.",
+      "Su precio de partida de 3.406 € la sitúa, dentro de las 50 de estética grande, como una vía de acceso concreta y no como un capricho de escaparate.",
+      "El depósito de mezcla separada evita andar preparando la gasolina con aceite a mano: la propia ficha recoge aceite sintético 2T y una capacidad de 1,2 L para ese depósito.",
+      "Se fabrica en Figueres por Rieju, un dato que en una 50 juvenil pesa: red y recambios no dependen de una marca importada sin presencia propia en España.",
+      "Figura con etiqueta C de la DGT y una sola plaza, un planteamiento muy claro: ciclomotard de uso individual para aprender, no moto para todo.",
     ],
-    contras: [
-      "50 cc: prestaciones muy limitadas",
-      "Mezcla 2T y mantenimiento frecuente",
-      "A los 16 años se queda pequeña: el salto al 125 es inevitable",
-      "Sin potencia para carretera abierta",
-      "Asiento alto para los más jóvenes",
-      "Reventa limitada al público AM"
+contras: [
+      "Es una 50 y esta ficha ni siquiera consigna potencia ni velocidad máxima: fuera del entorno urbano y de pistas fáciles, el margen para circular entre tráfico rápido es escaso.",
+      "El motor de dos tiempos obliga a vigilar el nivel del depósito de mezcla y a usar el aceite 2T específico que indica Rieju; descuidarlo no es una opción.",
+      "Con una sola plaza registrada, queda descartada para llevar pasajero, algo que conviene asumir antes de comprarla pensando en compartir trayectos.",
+      "Su vida útil para muchos usuarios será corta por edad: quien la compra con el AM suele mirar la 125 en cuanto cumple los requisitos, y ese salto encarece el cambio.",
     ],
-    curiosidades: [
-      "Rieju fabrica en Figueres (Girona) desde 1942",
-      "La MRT es la saga juvenil más longeva del enduro español",
-      "Muchos pilotos de enduro empezaron en una MRT 50",
-      "Es 'Made in Spain' de verdad, no una importada remarcada"
+curiosidades: [
+      "Rieju lleva fabricando en Figueres (Girona) desde 1942, según recoge la propia ficha, por lo que esta MRT 50 de 2025 no es una importada remarcada con otro nombre.",
+      "El manual citado en la ficha nombra un aceite concreto para la mezcla separada, el GRO MIX 3, en lugar de limitarse a decir aceite de dos tiempos a secas.",
     ],
     imagen: "/media/motos/rieju-mrt-50-2025-ficha-tecnica-precio-1.webp",
     galeria: [

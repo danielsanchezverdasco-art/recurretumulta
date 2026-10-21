@@ -2526,19 +2526,17 @@ export const COCHES_EXP7: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: [
-      "Diésel de 150 CV con 360 Nm",
-      "5,2 l/100 km, el Formentor más frugal",
-      "38.292 € con descuento oficial",
-      "Maletero de 450 L",
-      "Ideal para hacer muchos kilómetros",
+pros: [
+      "Sus 360 Nm hacen que este Formentor de tracción delantera se mueva en autovía con la soltura que se espera de un diésel pensado para devorar distancia, sin vivir pendiente del cambio DSG",
+      "Homologa 5,2 l/100 km y 134 g/km de CO2: es la forma de tener la silueta coupé del Formentor pagando lo mínimo posible en cada depósito",
+      "Con 4.451 mm de largo resulta más fácil de colocar en ciudad que un SUV familiar al uso, y aun así guarda 450 litros de maletero tras la segunda fila",
+      "La posición de conducción elevada y los 1.520 mm de altura dan la visibilidad de un SUV sin renunciar a la caída de techo que distingue al Formentor del Ateca",
     ],
-    contras: [
-      "Etiqueta C en un diésel",
-      "9 s de 0-100, el menos deportivo",
-      "El 1.5 eTSI es ECO por poco más",
-      "PVP oficial sube a 44.262 € en MY27",
-      "Futuro del diésel incierto",
+contras: [
+      "Lleva etiqueta C de la DGT: en la misma gama, el 1.5 eTSI mild-hybrid consigue la ECO, y eso pesa cada vez más al entrar en zonas de bajas emisiones",
+      "Tarda 9,0 segundos en el 0 a 100 km/h; con la imagen que proyecta un Formentor, quien busque el empuje de un VZ se quedará frío con estos 150 CV",
+      "Esta versión es solo de tracción delantera: no hay opción 4Drive para quien lo quiera usar en nieve o pistas con cierta asiduidad",
+      "Su PVP de 44.262 € exige hacer muchos kilómetros al año para amortizarlo frente a las alternativas de gasolina de la propia gama; con uso urbano y trayectos cortos, la cuenta no sale",
     ],
     largoMm: 4451,
     anchoMm: 1839,
@@ -2569,6 +2567,12 @@ export const COCHES_EXP7: CocheComparador[] = [
       },
     ],
     analisisSlug: "cupra-formentor-20-tdi-2026-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: "https://www.euroncap.com/en/results/cupra/formentor/57957",
+      nota: "Resultado Euro NCAP verificado para este modelo.",
+    },
   },
   {
     id: "cupra-formentor-20-tsi-204-2026-precio-ficha-tecnica",

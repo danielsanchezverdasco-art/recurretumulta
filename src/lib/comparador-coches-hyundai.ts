@@ -35,19 +35,18 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     bateriaKwh: 65.4,
     cargaRapidaKw: 101,
     etiquetaDgt: "Cero",
-    pros: [
-      "510 km de autonomía WLTP con 65,4 kWh: de lo mejor del segmento B-SUV eléctrico",
-      "Carga rápida de 101 kW en DC con preacondicionamiento de batería de serie",
-      "Maletero de 466 L: el más grande entre los SUV eléctricos compactos",
-      "204 CV y 0-100 en 8,1 s con un consumo contenido de 14,7 kWh/100 km",
-      "Etiqueta Cero: acceso libre a las ZBE de Madrid y Barcelona",
+pros: [
+      "510 km WLTP con la batería de 65,4 kWh y un consumo de 14,7 kWh/100 km según la ficha: autonomía propia de un segmento superior dentro de una carrocería de solo 4.355 mm.",
+      "Doble maletero de verdad: 466 litros detrás y otros 27 litros bajo el capó delantero, 493 litros en total, con el hueco delantero justo para dejar los cables de carga fuera del equipaje.",
+      "Entre las dos pantallas de 12,3 pulgadas conserva botones físicos para el climatizador y el multimedia, un detalle que km77 subraya y que en marcha se agradece frente a los rivales de todo táctil.",
+      "Trae función V2L interior y exterior para alimentar aparatos con la batería, modo i-PEDAL para conducir casi solo con el acelerador y preacondicionamiento de la batería antes de una carga rápida.",
+      "La banqueta trasera se abate en proporción 40:20:40 y, según las mediciones de km77, una persona de 1,85 m apoya bien los muslos detrás: no es el B-SUV justo de plazas traseras de siempre.",
     ],
-    contras: [
-      "42.450 €: unos 12.000 € más que el Kona de gasolina equivalente",
-      "Solo tracción delantera: no existe versión 4x4",
-      "172 km/h de velocidad máxima, contenida para el segmento",
-      "El acabado básico Black Line recorta equipamiento frente al Tecno",
-      "Plásticos interiores mejorables frente a rivales de precio similar",
+contras: [
+      "42.450 euros de partida por un SUV del segmento B de 4.355 mm: en cuanto se sube de acabado, la factura entra en territorio de eléctricos claramente más grandes.",
+      "Euro NCAP le dio cuatro estrellas en 2023, no cinco: sus notas más flojas fueron la protección a usuarios vulnerables, con un 64 %, y los sistemas de asistencia, con un 60 %.",
+      "La carga rápida se queda en 101 kW y la ficha técnica de Hyundai cifra el paso del 10 al 80 % en unos 45 minutos a esa potencia: en viajes largos se queda corta frente a eléctricos de carga más potente.",
+      "Solo hay tracción delantera, sin opción 4x4 en esta versión, y el interior abusa del plástico duro, con apenas una franja acolchada en las puertas según km77: flojo para lo que cuesta.",
     ],
     largoMm: 4355,
     anchoMm: 1825,
@@ -93,6 +92,18 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    planMantenimiento: {
+      intervalo: "Plan de mantenimiento del fabricante (detalle en las revisiones)",
+      revisiones: [
+        {
+          nombre: "Plan de mantenimiento del fabricante",
+          queSeCambia: "El manual del propietario del Kona Electric sitúa la revisión periódica importante cada 2 años o 30.000 km y recomienda sustituir el líquido de frenos cada dos años. Al ser eléctrico no hay aceite de motor que cambiar: la visita se centra en la batería de alto voltaje, los frenos, el filtro del habitáculo y la refrigeración. Ninguna fuente consultada publica tarifas cerradas para España, así que no se da un coste de revisión.",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "https://www.manualpdf.es/hyundai/kona-electric-2024/manual?p=176",
+    },
   },
   {
     id: "hyundai-tucson-hibrido-2026-precio-ficha-tecnica",
@@ -1164,19 +1175,17 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
-    pros: [
-      "100 CV con microhibridación 48V y etiqueta ECO por 25.970 €",
-      "1.140 kg: agilidad de utilitario de verdad",
-      "Maletero de 352 L, de los mejores del segmento B",
-      "172 Nm de par: el tricilíndrico empuja bien en ciudad",
-      "Consumo contenido gracias a la microhibridación de 48V",
+pros: [
+      "El mismo 1.0 T-GDI de 100 CV y 172 Nm con apoyo de 48V del N Line, pero por 25.970 €: son 746 € menos sin perder la etiqueta ECO",
+      "Con 1.140 kg pesa 25 kg menos que el N Line y conserva 4,065 m de largo, así que aparcar y callejear no exige pelear con el volante",
+      "352 litros de maletero en un cinco puertas de este tamaño: la compra semanal entra sin tener que abatir la banqueta 60/40",
+      "El coste mensual de la ficha parte de un consumo estimado de 5,4 l/100 km, cifra asumible para quien alterna rondas urbanas y autovía corta",
     ],
-    contras: [
-      "Prestaciones sin publicar para la versión 48V (0-100, velocidad máxima)",
-      "Tres cilindros: vibraciones perceptibles al ralentí",
-      "25.970 €: el i20 ya no es el utilitario barato de antes",
-      "Plazas traseras justas para adultos altos",
-      "La pantalla de 10,25 pulgadas solo llega en acabados altos",
+contras: [
+      "Esta ficha no publica 0-100 ni velocidad punta para el 48V, mientras el N Line gemelo sí declara 11,1 s y 183 km/h: aquí compras sin ese dato",
+      "Al ralentí el tres cilindros se nota en el volante y en los semáforos largos; el sistema de 48V suaviza arranques, pero no lo vuelve silencioso",
+      "25.970 € colocan a un utilitario de 100 CV en territorio de compacto de oferta, lejos de la idea de segundo coche barato para todo",
+      "Si quieres el cuadro y la pantalla central de 10,25 pulgadas tienes que subir de acabado: en los escalones de acceso el interior es bastante más sobrio",
     ],
     largoMm: 4065,
     anchoMm: 1775,
@@ -1222,6 +1231,18 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    planMantenimiento: {
+      intervalo: "Plan de mantenimiento del fabricante (detalle en las revisiones)",
+      revisiones: [
+        {
+          nombre: "Plan de mantenimiento del fabricante",
+          queSeCambia: "Para este i20 1.0 T-GDI 48V rige la norma general de Hyundai en España: revisión cada 15.000 km o cada año, lo primero que se cumpla, con aviso previo en el cuadro de instrumentos. Solo los IONIQ 5 e IONIQ 6 se salen de ese intervalo y pasan a 30.000 km o dos años, así que no conviene estirar los plazos del tricilíndrico turbo entre aceite y filtros.",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "https://www.hyundai.com/canarias/es/posventa/mantenimiento-y-servicios/contrato-mantenimiento",
+    },
   },
   {
     id: "hyundai-kona-electrico-49-kwh-2026-precio-ficha-tecnica",

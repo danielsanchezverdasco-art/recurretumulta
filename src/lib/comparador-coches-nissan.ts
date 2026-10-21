@@ -775,19 +775,18 @@ export const COCHES_NISSAN: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: [
-      "Hasta 9 plazas reales: la Nissan de pasajeros más grande",
-      "Motor diésel 2.0 dCi probado, con versiones de 110 y 150 CV",
-      "Consumo contenido para su tamaño: 7,0 l/100 km WLTP",
-      "Ideal para transporte de pasajeros, hoteles y familias muy numerosas",
-      "Versiones L1 y L2 para ajustar longitud y capacidad",
+pros: [
+      "Esta versión de 110 CV entrega 300 Nm ya a 1.500 rpm: en un transfer con nueve ocupantes eso pesa más que la potencia, porque mantiene el ritmo en incorporaciones y repechos sin ir cambiando sin parar.",
+      "Con 1.971 mm de alto en L1 y en L2, entra —justa, pero entra— en aparcamientos con gálibo de dos metros que dejan fuera a casi cualquier minibús de nueve plazas.",
+      "Puedes elegir batalla sin cambiar de silueta: L1 de 4.999 mm y 3.098 mm entre ejes para ciudad, o L2 de 5.399 mm y 3.498 mm si el equipaje de la tercera fila manda.",
+      "Sin las banquetas traseras libera hasta 6,0 m³ según EspacioFurgo: un día lleva al equipo completo y al siguiente hace de furgón grande para bicis, material de evento o una mudanza pequeña.",
+      "En Euro NCAP 2025 saca un 80 % en seguridad tras el accidente y el freno autónomo de serie detecta coches, peatones y ciclistas, algo nada habitual de serie en un derivado comercial.",
     ],
-    contras: [
-      "Solo diésel: etiqueta C y futuro incierto en las ZBE",
-      "110 CV para mover 9 plazas: la versión de 150 CV es más recomendable",
-      "Comportamiento y acabados de vehículo comercial",
-      "Desde 41.716 € de tarifa: hay monovolúmenes más refinados por ese precio",
-      "Tamaño (más de 5 metros) complicado para aparcar en ciudad",
+contras: [
+      "Los 110 CV son el escalón de acceso y se quedan cortos a plena carga: para autopista con nueve plazas y maletas, la propia gama empuja a la de 150 CV con 350 Nm.",
+      "Solo hay diésel y lleva etiqueta C de la DGT: sin variante ECO ni CERO, quien trabaje a diario dentro de una ZBE tiene un problema que el espacio no compensa.",
+      "Desmontar banquetas no es abatir respaldos: cada banco es pesado y voluminoso, exige dos personas y un sitio donde guardarlo, así que cambiar de 9 a 5 plazas cada día cansa.",
+      "Parte del equipamiento de seguridad que puntúa en Euro NCAP no viene de serie: los airbags de acompañante y de cortina laterales figuran como opcionales y no hay asistente de mantenimiento de carril.",
     ],
     largoMm: null,
     anchoMm: null,
@@ -833,6 +832,24 @@ export const COCHES_NISSAN: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: "https://commercial-vehicles.euroncap.com/assessments/nissan/primastar/v103/",
+      nota: "Resultado Euro NCAP verificado para este modelo.",
+    },
+    planMantenimiento: {
+      intervalo: "Plan de mantenimiento del fabricante (detalle en las revisiones)",
+      revisiones: [
+        {
+          nombre: "Plan de mantenimiento del fabricante",
+          queSeCambia: "El mantenimiento principal de esta Combi 9 2.0 dCi de 81 kW está programado cada 40.000 km o 24 meses, según los datos de ficha recogidos por TotalRenting. Es un intervalo pensado para uso profesional de kilometraje alto, pero no elimina los consumibles propios del diésel —aceite, filtros, AdBlue y neumáticos— ni conviene apurarlo si el trabajo es urbano y con trayectos cortos. Ninguna fuente consultada publica un precio cerrado de revisión para España, así que no se da una cifra: pide presupuesto en un concesionario Nissan antes de firmar.",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "https://totalrenting.es/fichas/nissan/primastar/2003-2026/combi-9-2-0dci-81kw-l1h1-1t-go/",
+    },
   },
   {
     id: "nissan-leaf-e-plus-62kwh-2023-precio-ficha-tecnica",
@@ -1342,19 +1359,18 @@ export const COCHES_NISSAN: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: [
-      "170 CV y 380 Nm: el dCi más potente para 9 plazas cargadas",
-      "Hasta 9 plazas reales con maletero detrás",
-      "Consumo de 7,9 l/100 km para su tamaño",
-      "Ideal para transporte discrecional, hoteles y clubs",
-      "Motor 2.0 dCi probadísimo de la alianza Renault-Nissan",
+pros: [
+      "Es el escalón que tiene sentido cuando la Combi va llena de verdad: sus 170 CV y 380 Nm mantienen el ritmo en autovía con nueve ocupantes, equipaje y el aire acondicionado puesto, justo donde una versión de menor potencia se queda sin reserva en incorporaciones y repechos.",
+      "El dCi 170 se ofrece también con cambio automático, una combinación muy buscada en lanzaderas de hotel y traslados al aeropuerto: el conductor llega menos cansado tras una jornada de trayectos cortos y maniobras repetidas.",
+      "Nueve plazas reales dentro de una carrocería de 5.080 mm: no necesita pasar a la batalla larga para trabajar como transporte discrecional, y eso se agradece al maniobrar en cascos urbanos y aparcamientos de hotel.",
+      "En la reevaluación Euro NCAP de 2025 para vehículos comerciales obtuvo cuatro estrellas, con un 68 % en conducción segura, un 61 % en evitación de colisiones y un 80 % en seguridad tras el accidente.",
+      "La ficha declara 7,9 l/100 km para un 2.0 diésel de este tamaño y potencia: en uso de lanzadera con recorridos largos a velocidad constante es una cifra defendible frente a un monovolumen de gasolina equivalente.",
     ],
-    contras: [
-      "Solo diésel: etiqueta C y futuro incierto en las ZBE",
-      "Comportamiento y acabados de vehículo comercial",
-      "Precio desde ~37.540 €: hay monovolúmenes más refinados",
-      "Más de 5 metros: complicada para aparcar en ciudad",
-      "Bancos traseros pesados de desmontar",
+contras: [
+      "No hay alternativa electrificada en esta versión: es diésel puro, con etiqueta C de la DGT, y su acceso futuro a las zonas de bajas emisiones más restrictivas queda en manos de la normativa municipal, no de Nissan.",
+      "Con tracción delantera y mucho peso concentrado atrás cuando va cargada, en firme mojado hay que acelerar con suavidad: la propia presión de neumáticos y el reparto de la carga influyen más que los caballos de sobra.",
+      "Los 5.080 mm de longitud y el tacto general son de furgoneta comercial: acabados duros, asientos traseros pesados de desmontar si se quiere alternar pasajeros y carga, y nada del refinamiento de un monovolumen pensado para familias.",
+      "Parte de 37.540 € según la ficha, precio aproximado y antes de equipar la unidad para trabajar: con cámara trasera y los asistentes que un servicio de pasajeros usa a diario, la factura final sube respecto a ese desde.",
     ],
     largoMm: 5080,
     anchoMm: null,
@@ -1399,6 +1415,24 @@ export const COCHES_NISSAN: CocheComparador[] = [
         "ancho": 1920,
         "alto": 1280
       }
-    ]
+    ],
+    euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: "https://commercial-vehicles.euroncap.com/assessments/nissan/primastar/",
+      nota: "Resultado Euro NCAP verificado para este modelo.",
+    },
+    planMantenimiento: {
+      intervalo: "Plan de mantenimiento del fabricante (detalle en las revisiones)",
+      revisiones: [
+        {
+          nombre: "Plan de mantenimiento del fabricante",
+          queSeCambia: "En la familia Primastar Combi con motor 2.0 dCi, el mantenimiento principal está pautado cada 40.000 km o 24 meses, lo que antes ocurra, según los datos de ficha de TotalRenting para la Combi 9 2.0 dCi. En un dCi 170 dedicado a lanzaderas conviene no apurar ese intervalo con el filtro de partículas si predominan los trayectos cortos urbanos, y confirmar siempre la pauta exacta en el libro de mantenimiento de la unidad, porque puede variar por mercado y fecha de fabricación.",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "https://totalrenting.es/fichas/nissan/primastar/2003-2026/combi-9-2-0dci-81kw-l1h1-1t-go/",
+    },
   },
 ];

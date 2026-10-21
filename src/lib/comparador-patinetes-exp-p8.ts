@@ -684,16 +684,17 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       },
     ],
     aprox: ["autonomiaRealKm"],
-    pros: [
-      "Doble motor de 450 W (900 W nominales): tracción total de verdad",
-      "Batería Samsung de 52 V y 25 Ah (1300 Wh): 60 km declarados",
-      "Doble tambor + ABS y EBS, intermitentes y doble faro",
-      "32,5 kg: contenido para un dual motor",
+pros: [
+      "Tracción a las dos ruedas con dos motores de 450 W: los 900 W nominales se reparten entre ejes y se notan al arrancar en rampa, no es un monomotor disfrazado",
+      "Batería de 1.300 Wh (52 V y 25 Ah, celdas Samsung según la ficha): es la cifra que sostiene los 60 km declarados y los 40 km reales estimados",
+      "Frenada completa para un patinete de esta potencia: doble tambor con ABS y EBS, además de intermitentes y doble faro en un segmento donde muchos rivales recortan justo ahí",
+      "32,5 kg para un dual motor con esa batería y carga máxima de 120 kg: sigue siendo pesado para subirlo a pulso, pero no entra en la liga de los Dualtron de más de 40 kg",
     ],
-    contras: [
-      "Sin tiempo de carga ni precio oficial en España",
-      "Neumáticos de 9\": menos estabilidad que los de 10\"",
-      "900 W nominales se quedan cortos frente a la gama media Dualtron",
+contras: [
+      "La ficha no recoge precio oficial en España ni tiempo de carga: con 1.300 Wh, comparar coste total y horas de enchufe exige confirmarlo antes con el distribuidor",
+      "La autonomía real estimada baja a 40 km frente a los 60 km declarados: quien necesite más de 35-40 km por salida tendrá que planear recarga intermedia",
+      "Neumáticos de 9 pulgadas con cámara: diámetro menor que el de 10 pulgadas y cámara expuesta a pinchazos, dos pegas concretas en bordillos y firme roto",
+      "Velocidad máxima limitada a 25 km/h con 900 W nominales: la potencia extra va a empuje y cuestas, no a punta, algo a tener claro si se busca un Dualtron rápido",
     ],
     veredicto:
       "El Pop Dual es el Dualtron de tracción total más accesible: dos motores, batería Samsung de 1300 Wh y 60 km declarados sin pasar de 33 kg. Ideal para quien quiere dual motor sin cargar con una bestia de 45 kg.",
@@ -1933,16 +1934,18 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       },
     ],
     aprox: ["autonomiaRealKm", "tiempoCargaH"],
-    pros: [
-      "3000 W nominales (3500 W de pico) y 80 km declarados",
-      "IP66: de los patinetes más resistentes al agua",
-      "Neumáticos PunctureGuard autorreparables de 11x4\"",
-      "Chasis y manillar rediseñados con amortiguador de dirección",
+pros: [
+      "Su batería de 1.404 Wh alimenta dos motores que suman 3.000 W nominales y 3.500 W de pico en esta ficha: no está pensado para trayectos cortos de barrio, sino para mantener ritmo con conductores de hasta 150 kg, el límite de carga que declara Apollo.",
+      "El sellado IP66 lo separa de casi todos los patinetes de altas prestaciones: está protegido contra polvo y chorros fuertes de agua, así que un chaparrón de camino a casa no es el primer problema, aunque eso no significa que sea sumergible.",
+      "Los neumáticos tubeless de 11×4 pulgadas llevan gel PunctureGuard que sella los pinchazos pequeños sobre la marcha, un alivio muy concreto cuando pinchar una rueda de este tamaño en plena calle no se resuelve en cinco minutos.",
+      "Frena con doble disco semi-hidráulico apoyado por el freno regenerativo Power RBS, de modo que en las bajadas largas la retención eléctrica descarga de trabajo a pastillas y discos en un conjunto que ya pesa 46 kg en orden de marcha.",
+      "El rediseño no es solo estético: suma amortiguador de dirección para calmar el manillar a ritmo alto y pantalla DOT 2.0 con soporte para usar el móvil, con la app de Apollo, como panel ampliado.",
     ],
-    contras: [
-      "46 kg: pesado para el día a día",
-      "12 horas de carga con cargador estándar",
-      "Precio en España no publicado",
+contras: [
+      "En España no puede circular como VMP: sus 3.000 W nominales triplican el máximo de 1.000 W que fija el Manual de características VMP de la DGT y en la ficha no consta certificado DGT, por mucho que aquí figure limitado a 25 km/h. Ojo además: la versión global de Apollo declara hasta 70 km/h, también fuera del límite VMP.",
+      "Pesa 46 kg: olvidarse de subirlo a un tren, cargarlo a un piso sin ascensor o meterlo y sacarlo del maletero a diario. El plegado ayuda a guardarlo, no a transportarlo.",
+      "La carga completa tarda unas 12 horas con el cargador estándar según esta ficha: si llegas con la batería de 1.404 Wh vacía por la noche, a la mañana siguiente no lo tendrás lleno para volver a salir.",
+      "La autonomía se queda en dos cifras muy distintas: Apollo declara 80 km y la estimación real recogida en la ficha baja a 52 km, y el precio en España no está publicado, así que ni el coste final ni el recorrido útil se pueden dar por cerrados antes de comprarlo.",
     ],
     veredicto:
       "El Phantom 2.0 es la reinvención del icono de Apollo: 3000 W, IP66 y 80 km declarados. Un hyper-patinete con acabado de gama alta.",
@@ -1982,16 +1985,18 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       },
     ],
     aprox: ["autonomiaRealKm", "tiempoCargaH"],
-    pros: [
-      "6000 W nominales y 6700 W de pico: el Apollo más potente",
-      "Frenos hidráulicos de 4 pistones a la altura",
-      "42 kg para 6000 W: ratio peso/potencia excelente",
-      "IP66 y neumáticos autorreparables de 11\"",
+pros: [
+      "Con 6.000 W nominales y 6.700 W de pico es el escalón superior de Apollo: no es un Phantom 2.0 con otro nombre, es otra liga de empuje pensada para uso cerrado",
+      "Frenada a la altura de esa potencia: hidráulicos de 4 pistones, imprescindibles cuando hay que detener 42 kg lanzados con carga de hasta 150 kg",
+      "Batería de 1.800 Wh que sostiene la ficha: 90 km declarados y unos 58 km reales estimados, cifra coherente para un patinete de esta potencia y peso",
+      "Neumáticos tubeless autorreparables de 11 pulgadas: más diámetro para absorber baches y sellado que evita quedarse tirado por un pinchazo pequeño",
+      "Sellado IP66 citado en la ficha de referencia: mejor preparado que la media de patinetes potentes para salpicaduras y polvo en uso intensivo",
     ],
-    contras: [
-      "Potencia solo aprovechable en circuito",
-      "8 horas de carga",
-      "Precio en España no publicado",
+contras: [
+      "En España como VMP la velocidad está limitada a 25 km/h y sin certificado DGT en la ficha: sus 6.000 W no se pueden aprovechar legalmente en vía pública, solo en circuito o recinto privado",
+      "42 kg reales: olvídate de subirlo a un piso sin ascensor, meterlo en un maletero pequeño o combinarlo a diario con tren y escaleras",
+      "Recarga completa en unas 8 horas: si lo vacías por la noche, necesitas dejarlo enchufado toda la noche para tenerlo listo por la mañana",
+      "Precio en España no publicado en la ficha: sin PVP oficial aquí no hay compra impulsiva ni comparación directa con un Dualtron vendido en tienda española",
     ],
     veredicto:
       "El Phantom Stellar es la bestia de Apollo: 6000 W nominales y 6700 W de pico en 42 kg. El rival canadiense de los Dualtron Thunder.",

@@ -1944,19 +1944,18 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     bateriaKwh: 50,
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
-    pros: [
-      "336 km WLTP: gran autonomía para su tamaño",
-      "Carga rápida de 100 kW en continua",
-      "Etiqueta Cero para repartir en ZBE",
-      "136 CV y 270 Nm: ágil incluso cargada",
-      "Coste por km muy inferior al diésel",
+pros: [
+      "336 km de autonomía WLTP con una batería de solo 50 kWh: para un repartidor que vuelve cada noche a la nave, es margen de sobra sin pagar por una batería mayor que no va a amortizar.",
+      "Admite carga rápida en corriente continua a 100 kW, el doble de su batería por hora: una parada corta en un cargador público salva una ruta que se alarga sin dejar la furgoneta inmovilizada media jornada.",
+      "Los 270 Nm están disponibles desde parado y con tracción delantera: saliendo de un semáforo cargada no hay que pelearse con embrague ni marchas, que es justo donde una diésel de reparto más castiga al conductor.",
+      "Etiqueta Cero de la DGT y 0 g/km de CO2: entra en las ZBE de Madrid o Barcelona sin mirar el calendario de restricciones que sí condiciona a la Partner diésel.",
+      "Mide 4.401 mm de largo y mantiene cabina de 3 plazas: aparca y gira casi como un turismo en calles estrechas, pero sigue siendo una furgoneta de trabajo y no un derivado recortado.",
     ],
-    contras: [
-      "40.864 €: más que la Partner diésel",
-      "132 km/h de velocidad máxima",
-      "La autonomía cae con carga y frío",
-      "Carga útil penalizada por la batería",
-      "Solo rentable con uso urbano intensivo",
+contras: [
+      "Desde 40.864 € según la ficha: el salto frente a la Partner de combustión solo se amortiza con muchos kilómetros urbanos y carga barata en base; con poco uso, la diésel gana la cuenta.",
+      "Velocidad máxima de 132 km/h: en autovía viaja siempre cerca de su techo, con el consumo disparado y sin reserva para adelantar camiones con soltura.",
+      "Los 336 km son WLTP y en vacío: con carga, frío y tramos de autovía la cifra real cae de forma sensible, así que las rutas interurbanas largas hay que planificarlas con cargador intermedio.",
+      "Pesa 1.759 kg por la batería de 50 kWh bajo el piso: ese peso extra se resta de la carga útil frente a la versión térmica, algo que se nota si trabajas siempre al límite de kilos.",
     ],
     largoMm: 4401,
     anchoMm: 1921,
@@ -2004,6 +2003,12 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     ],
     fuenteNombre: "massymotors (ficha oficial Peugeot)",
     fuenteUrl: "https://recursos.massymotors.co/massymotors/ficha_tecnica/peugeot/ficha_tecnica_peugeot_e-partner.pdf",
+    euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: "https://commercial-vehicles.euroncap.com/assessments/peugeot/partner/v110/",
+      nota: "Resultado Euro NCAP verificado para este modelo.",
+    },
   },
   {
     id: "peugeot-e-expert-2026-precio-ficha-tecnica",

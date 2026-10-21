@@ -517,19 +517,17 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: [
-      "Solo 33 unidades: el Alfa Romeo más exclusivo de la historia moderna",
-      "620 CV y 333 km/h: prestaciones de hiperdeportivo",
-      "Chasis monocasco de carbono del Maserati MC20 y carrocería artesanal de Touring Superleggera",
-      "Diseño homenaje al 33 Stradale de 1967, con puertas de mariposa",
-      "Entregas en marcha desde finales de 2024",
+pros: [
+      "El V6 biturbo de 3,0 litros entrega 620 CV y 730 Nm solo a las ruedas traseras: 0 a 100 km/h en 3,0 segundos y 333 km/h de punta, con cambio DCT de ocho marchas y modos Strada y Pista",
+      "Con 1.500 kg y monocasco de carbono compartido con el Maserati MC20, la relación peso-potencia queda en torno a 2,4 kg por CV, algo impensable en un Alfa de calle de hace solo una década",
+      "Ninguna de las 33 unidades es igual a otra: cada propietario configuró la suya en la Bottega Alfa Romeo y Carrozzeria Touring Superleggera la montó a mano, pieza a pieza",
+      "Las puertas de élitro y un Cx de 0,375 conseguido sin aerodinámica activa mantienen intacta la silueta limpia del 33 Stradale de 1967, sin alerones que rompan la línea",
     ],
-    contras: [
-      "Precio en torno a 1,7 M €: solo para coleccionistas",
-      "Agotado: las 33 unidades se vendieron antes de fabricarse",
-      "Sin maletero práctico ni uso diario posible",
-      "Mantenimiento de superdeportivo de colección",
-      "La versión eléctrica de 750 CV, sin datos definitivos publicados",
+contras: [
+      "Los 1,7 millones de euros de partida ya son historia: las 33 unidades se adjudicaron antes de fabricarse, así que hoy solo queda el mercado de coleccionista, si es que alguna sale a la venta",
+      "Es un biplaza de motor central pensado para Balocco, no para viajar: no hay maletero útil que declarar ni planteamiento alguno de uso diario",
+      "Los frenos carbocerámicos Brembo y cualquier pieza de esta fuoriserie se pagan a precio de superdeportivo artesanal, y el mantenimiento anual estimado de la ficha ronda los 3.000 euros",
+      "Lleva etiqueta C de la DGT: en una época de zonas de bajas emisiones, su V6 de gasolina queda fuera de los privilegios de los electrificados",
     ],
     largoMm: 4637,
     anchoMm: 1966,
@@ -575,6 +573,12 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Serie limitada artesanal sin prueba Euro NCAP.",
+    },
   },
   {
     id: "alfa-romeo-junior-ibrida-145-precio-ficha-tecnica",
@@ -1615,19 +1619,18 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     "bateriaKwh": 102,
     "cargaRapidaKw": null,
     "etiquetaDgt": "Cero",
-    "pros": [
-      "750 CV eléctricos: el Alfa más potente de la historia",
-      "Solo 33 unidades en total: exclusividad absoluta",
-      "Carrocería artesanal de Carrozzeria Touring Superleggera",
-      "450 km de autonomía WLTP con 102 kWh",
-      "Homenaje al mito de 1967 con puertas de mariposa"
+"pros": [
+      "Arquitectura de 800 voltios con batería de 102 kWh brutos y 90 útiles: unos 450 km WLTP en un fuoriserie biplaza, algo que ningún Alfa de serie limitada había ofrecido antes",
+      "Más de 750 CV con reparto vectorial de par y un 0 a 100 km/h en menos de 3 segundos, pese a declarar 310 km/h de punta en vez de los 333 km/h del V6",
+      "Monocasco de fibra de carbono con bastidor en H de aluminio y frenos Brembo carbocerámicos de 390 mm delante: la ficha oficial promete frenar de 100 a 0 km/h en menos de 33 metros",
+      "Cada una de las 33 unidades se configura en la Bottega Alfa Romeo y se monta a mano en Carrozzeria Touring Superleggera, sin dos coches iguales",
+      "Las puertas de apertura en élitro y el habitáculo casi sin botones recuperan el planteamiento del Stradale de 1967 sin convertirlo en una réplica",
     ],
-    "contras": [
-      "~1,7 M €: solo para coleccionistas",
-      "Agotado antes de fabricarse",
-      "2.100 kg: el peso lastra la agilidad",
-      "Sin uso diario posible",
-      "Datos técnicos aún sin confirmar del todo"
+"contras": [
+      "Menos de 2.100 kg frente a menos de 1.500 kg del V6: la batería se nota en inercias, neumáticos y frenos, por muy bien disimulada que esté",
+      "Precio de partida en torno a 1,7 millones de euros según la ficha, sin PVP cerrado hecho público por Alfa Romeo: la cifra final depende de la personalización de cada cliente",
+      "Las 33 unidades se asignaron en semanas en 2022, antes de mostrar el coche: quien no entrara entonces en el Club 33 solo puede esperar al mercado de coleccionista",
+      "Alfa Romeo no especificó en la presentación la potencia de recarga rápida de esta versión, un dato todavía sin confirmar para un coche de 102 kWh; y es un biplaza cerrado, sin maletero declarado en la ficha, pensado para colección más que para uso diario",
     ],
     "largoMm": 4640,
     "anchoMm": 1970,
@@ -1678,6 +1681,12 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
       }
     ],
     "fuenteNombre": "revistacar.es",
-    "fuenteUrl": "https://revistacar.es/alfa-romeo-33-stradale-todo-un-dreamcar/"
+    "fuenteUrl": "https://revistacar.es/alfa-romeo-33-stradale-todo-un-dreamcar/",
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Serie limitada artesanal: Euro NCAP no prueba este tipo de modelos.",
+    },
   }
 ];

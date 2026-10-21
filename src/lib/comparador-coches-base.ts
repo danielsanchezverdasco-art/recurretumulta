@@ -2124,20 +2124,18 @@ export const COCHES_BASE: CocheComparador[] = [
     bateriaKwh: 51.87,
     cargaRapidaKw: 167,
     etiquetaDgt: "Cero",
-    pros: [
-      "Desde 26.615 € al contado con descuentos y adelanto del Plan Auto+: de los eléctricos más baratos con 340 km WLTP",
-      "Carga DC de 167 kW (30-80% en 18 min), cifra de segmento superior",
-      "Batería LFP de 51,87 kWh: más duradera y económica que las NCM",
-      "Equipamiento de serie de gama alta: asientos eléctricos con memoria, cámara 360º, V2L de 6 kW",
-      "Garantía de 10 años sin límite de km en la batería, la mejor del mercado",
-      "Etiqueta Cero de la DGT",
+pros: [
+      "La carga en continua de hasta 167 kW pasa del 30 al 80 % en unos 18 minutos: para una batería de solo 51,87 kWh, eso convierte una parada de viaje en un café y no en una espera larga.",
+      "El maletero no es un número vacío: 500 litros, doble fondo de 72 litros bajo el piso y un frunk delantero de 49 litros como accesorio, con respaldos 60/40 que lo dejan en 1.040 litros.",
+      "El precio que se anuncia en España, 26.615 € al contado, baja de un PVP de 29.990 € gracias a la campaña de lanzamiento y al adelanto del Programa Auto+, y aun así mantiene de serie cámara de 360º y asientos eléctricos con memoria, calefacción y ventilación.",
+      "La batería es LFP de 51,87 kWh, una química elegida por durabilidad y coste, y la cubre una garantía de propulsión de 10 años sin límite de kilómetros; el coche completo tiene 7 años o 300.000 km.",
+      "Con 4,31 metros y una batalla de 2,72 metros, deja unas plazas traseras desahogadas y con el suelo plano para ser el coche principal, no solo el segundo coche de casa.",
     ],
-    contras: [
-      "El precio incluye descuentos de lanzamiento y adelanto del Plan Auto+: el PVP sin ellos es 29.990 €",
-      "Marca en construcción en España: 25 concesionarios",
-      "Sin opiniones de propietarios españoles todavía (modelos recién llegados)",
-      "Sin datos de 0-100, velocidad máxima ni consumo WLTP publicados",
-      "Un único acabado: solo se elige el color",
+contras: [
+      "El anzuelo de 26.615 € no es el precio de tarifa: sin campaña ni Programa Auto+ son 29.990 €, y financiado baja a 24.500 € a costa de entrada y 36 meses de cuotas, así que hay que comparar el coste final y no el cartel.",
+      "Los 340 km WLTP combinados dan para el día a día, pero para viajar obligan a planificar paradas; los 521 km que a veces se destacan son solo la cifra en ciclo urbano, no la mixta.",
+      "No consta todavía una prueba Euro NCAP propia del Vigo y la red española está en construcción, con 25 concesionarios anunciados y la meta de 30 a finales de 2026: comprar hoy es también apostar por esa expansión.",
+      "Hay un único acabado y solo se elige el color; además, las primeras pruebas en España señalan una dirección con demasiada desmultiplicación y unas ayudas a la conducción intrusivas a ritmo alto.",
     ],
     largoMm: 4310,
     anchoMm: null,
@@ -2184,6 +2182,24 @@ export const COCHES_BASE: CocheComparador[] = [
       }
     ],
     analisisSlug: "dongfeng-nammi-06-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos Euro NCAP del Dongfeng Vigo / Nammi 06: no se ha localizado ninguna prueba de este modelo en Euro NCAP. La valoración de 3 estrellas que circula de Dongfeng corresponde al Box / Nammi 01, un modelo distinto y más pequeño, y no debe extrapolarse al Vigo.",
+    },
+    planMantenimiento: {
+      intervalo: "Plan de mantenimiento del fabricante (detalle en las revisiones)",
+      revisiones: [
+        {
+          nombre: "Plan de mantenimiento del fabricante",
+          queSeCambia: "Dongfeng vincula la garantía ampliada en España a seguir el programa de mantenimiento del fabricante en su red oficial, con una periodicidad aproximada de cada 15.000 kilómetros o un año. Esa cadencia es la condición citada para mantener la cobertura de 10 años sin límite de kilómetros sobre motor eléctrico y batería de alta tensión en los coches matriculados desde el 1 de enero de 2026. No se ha localizado un precio cerrado y público de cada revisión del Vigo en España, por lo que no se adelanta ningún coste de revisión como oficial.",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "https://www.actualidadmotor.com/dongfeng-refuerza-su-apuesta-por-espana-con-mas-garantia-red-y-modelos/",
+    },
   },
   {
     id: "dongfeng-mage-phev-precio-espana-ficha",
@@ -2207,20 +2223,18 @@ export const COCHES_BASE: CocheComparador[] = [
     bateriaKwh: 17,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: [
-      "Desde 28.740 €: 299 CV y 89 km eléctricos por menos que casi cualquier PHEV europeo",
-      "Más de 1.200 km de autonomía total: el día a día en eléctrico, los viajes sin parar a cargar",
-      "Maletero de 525 L (1.846 L con asientos abatidos) en 4,69 m",
-      "Un único acabado completísimo: no hay que pagar paquetes",
-      "Garantía de 10 años sin límite de km en la batería",
-      "Etiqueta Cero de la DGT",
+pros: [
+      "Con 17 kWh y 89 km eléctricos en ciclo WLTC puedes encadenar la semana laboral en modo eléctrico si cargas en casa, y reservar el 1.5 turbo para los 1.200 km de autonomía total declarada",
+      "Admite carga en corriente continua a 22 kW, algo poco habitual en un enchufable de este precio: pasa del 30 al 80 % en 31 minutos según la marca",
+      "No hay catálogo de opciones que infle la factura: techo panorámico practicable, portón eléctrico, cámara de 540 grados, pantalla de 14,6 pulgadas y asientos delanteros eléctricos y calefactables vienen en el único acabado",
+      "Maletero de 525 litros con suelo plano y respaldos 60/40 en una carrocería de 4,69 metros: no sacrifica carga familiar por llevar batería y depósito",
+      "La batería y el sistema eléctrico tienen 10 años de garantía sin límite de kilometraje en España, y el coche en conjunto 7 años o 300.000 km",
     ],
-    contras: [
-      "El precio incluye descuentos de lanzamiento y adelanto del Plan Auto+: el PVP sin ellos es 31.990 €",
-      "Marca en construcción en España: 25 concesionarios",
-      "Sin opiniones de propietarios españoles todavía",
-      "Sin datos de consumo ni emisiones WLTP publicados en la nota oficial",
-      "Un único acabado: solo se elige el color",
+contras: [
+      "Los 28.740 € no son el PVP: son el precio con campañas de lanzamiento y el adelanto del Plan Auto+; el precio de lista comunicado es 31.990 €",
+      "En corriente alterna solo carga a 3,3 kW, así que llenar los 17 kWh en casa lleva unas cuatro horas y media: lento para quien no tiene toda la noche",
+      "Sin Android Auto nativo: la documentación y las pruebas citan solo Apple CarPlay, y para Android se recurre a un dispositivo externo, solución que no es lo mismo",
+      "Respaldo aún por demostrar en España: 25 concesionarios en el lanzamiento, sin propietarios locales que cuenten su experiencia y sin ningún resultado Euro NCAP publicado que respalde la seguridad pasiva",
     ],
     largoMm: 4690,
     anchoMm: null,
@@ -2267,6 +2281,24 @@ export const COCHES_BASE: CocheComparador[] = [
       }
     ],
     analisisSlug: "dongfeng-vigo-mage-phev-precio-espana-ficha",
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: no consta resultado del Dongfeng Mage PHEV en euroncap.com ni en la prensa española del lanzamiento; el modelo no ha sido probado por Euro NCAP a fecha de esta revisión.",
+    },
+    planMantenimiento: {
+      intervalo: "Dongfeng España no ha publicado un plan cerrado del Mage PHEV con precios de revisión.",
+      revisiones: [
+        {
+          nombre: "Plan de mantenimiento del fabricante",
+          queSeCambia: "Dongfeng España no ha publicado un plan cerrado del Mage PHEV con precios de revisión. Lo verificable es la condición ligada a su garantía ampliada: revisiones en la red oficial con una periodicidad aproximada de 15.000 km o un año para mantener la cobertura de 10 años de batería y motor eléctrico. Sin coste oficial publicado, cualquier cifra de mantenimiento sería una estimación y no debe presentarse como tarifa de la marca.",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "https://www.actualidadmotor.com/dongfeng-refuerza-su-apuesta-por-espana-con-mas-garantia-red-y-modelos/",
+    },
   },
   {
     id: "volkswagen-golf-8-2026-precio-ficha-tecnica",

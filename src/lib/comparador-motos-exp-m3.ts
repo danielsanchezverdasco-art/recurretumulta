@@ -687,26 +687,22 @@ curiosidades: [
     carga: null,
     etiquetaDgt: "C",
     aprox: [],
-    pros: [
-      "Bicilíndrico de 698 cc y 73 CV: empuje de trail grande",
-      "Versión ON ROAD con llantas de 17 pulgadas: más ágil en asfalto",
-      "Limitable a 35 kW para el carnet A2",
-      "Buena protección aerodinámica y asiento cómodo",
-      "Precio de 6.299 € en promoción (PVP 6.999 €)",
-      "ABS y pantalla TFT de serie",
+pros: [
+      "Parte ciclo con nombre propio por este precio: horquilla Marzocchi de 43 mm, pinzas radiales Brembo y ABS Bosch 9.1, un trío difícil de encontrar en una trail de 698 cc por 6.999 €",
+      "Las dos llantas de aleación de 17 pulgadas y el asiento a 795 mm la hacen más baja, directa y segura en asfalto que la 700X, pensada para quien no va a pisar tierra",
+      "Sale del concesionario lista para la escapada: maletas laterales y top case metálicos, defensas, cubremanos y caballete central vienen de serie, sin lista de extras obligatoria",
+      "Puños y asiento calefactables, piñas retroiluminadas y TFT de 5 pulgadas con conectividad y mirroring: equipamiento de moto viajera grande en una A2 limitable",
+      "El bicilíndrico de 698 cc, con 73 CV y 67 Nm, se limita a 35 kW para el A2 y se deslimita después, así que no obliga a cambiar de moto al sacarse el A",
     ],
-    contras: [
-      "Versión asfáltica: pierde capacidad off-road frente a la trail pura",
-      "73 CV exigen limitarla para el A2",
-      "El peso penaliza en ciudad",
-      "Sin llantas de radios ni neumáticos mixtos de serie",
-      "La competencia japonesa tiene mejor reventa",
+contras: [
+      "Su vocación es solo de carretera: con 17 pulgadas delante, neumáticos Pirelli Gran Turismo y sin llantas de radios, en pista de tierra se defiende claramente peor que la 700X",
+      "Pesa 235 kg en orden de marcha y se nota en maniobras en parado y en el día a día urbano, sobre todo para quien viene de una 125 o de una naked ligera",
+      "Electrónica contenida a propósito: más allá del ABS no hay control de tracción ni modos de conducción para ayudar a domar los 73 CV con lluvia",
+      "A la hora de revenderla, una QJMotor todavía lo tiene más difícil que una japonesa consolidada, y eso se refleja en lo que te ofrecerán por ella de segunda mano",
     ],
-    curiosidades: [
-      "La variante ON ROAD monta llantas de aleación de 17 pulgadas en ambos ejes",
-      "Sustituye en catálogo a la anterior SRK 700, descatalogada en España",
-      "Su motor de 698 cc es el más grande de la gama trail QJMotor",
-      "El PVP oficial es 6.999 €, con promociones frecuentes en 6.299 €",
+curiosidades: [
+      "En la edición 2025 el escape cambia de sitio: deja la salida baja junto al basculante y adopta el 2 en 1 alto por el subchasis que ya llevaba la 700X",
+      "Aunque mantiene la estética adventure, la rueda delantera baja a 17 pulgadas frente a la mayor de la 700X: es el detalle que delata su vocación cien por cien asfáltica",
     ],
     imagen: "/media/motos/qjmotor-srt-700-on-road-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -1924,26 +1920,21 @@ curiosidades: [
     carga: null,
     etiquetaDgt: "C",
     aprox: [],
-    pros: [
-      "Naked 125 de 13 CV por 2.690 €",
-      "Diseño deportivo agresivo",
-      "Ligera y manejable en ciudad",
-      "Faro LED y cuadro digital",
-      "Mantenimiento muy económico",
-      "Buena primera moto con marchas",
+pros: [
+      "Por 2.690 € la RKF 125 de 2024 da moto con marchas de verdad —cambio de seis velocidades y embrague multidisco— en vez de un scooter, y con estética streetfighter, faro LED y cuadro digital",
+      "Sus 13 CV (9,6 kW) encajan justo en el límite del A1 y del B con más de tres años, con etiqueta C, así que sirve tanto para estrenar carnet de moto como para llegar desde el coche",
+      "El monocilíndrico de 125 cc es refrigerado por líquido, con inyección electrónica y culata de cuatro válvulas, una arquitectura más elaborada que la de muchas 125 baratas refrigeradas por aire",
+      "El mantenimiento pautado ayuda al bolsillo: aceite cada 4.000 km tras la primera revisión a los 1.000 km, y en la cadena basta con limpieza, engrase y control de tensión, piñón y corona que puedes hacer en casa",
     ],
-    contras: [
-      "13 CV: justita en carretera",
-      "Acabados básicos",
-      "Sin ABS en algunas versiones",
-      "El asiento es duro",
-      "Prestaciones limitadas",
+contras: [
+      "La 2024 no trae el ABS que sí incorpora la actualización de 2025: su frenada recurre al sistema combinado, menos tranquilizador que un antibloqueo en una frenada de emergencia o sobre mojado",
+      "Con 13 CV el margen fuera de ciudad es corto: en vías rápidas y adelantamientos hay que planificar con el cambio y asumir que la moto está pensada sobre todo para moverse entre semáforos",
+      "El asiento resulta duro en uso prolongado y la plaza trasera es más de compromiso para un trayecto corto que para viajar dos con comodidad",
+      "Los acabados van acordes con los 2.690 €: plásticos y detalles sencillos que cumplen en el día a día, pero que quedan por detrás de naked 125 japonesas o europeas más caras",
     ],
-    curiosidades: [
-      "La RKF 125 es la naked deportiva de Keeway",
-      "Keeway pertenece al grupo chino Qianjiang, como Benelli",
-      "Por 2.690 € es de las naked 125 más baratas",
-      "Su diseño bebe de las streetfighter de mayor cilindrada",
+curiosidades: [
+      "Fuera de Europa la familia RKF tuvo una hermana mayor: en Sudamérica se vendió una versión de 180 cc rebautizada como Benelli 180S, aprovechando que Keeway y Benelli comparten grupo, Qianjiang",
+      "Su motor se anuncia dentro de la plataforma BMT desarrollada con Benelli, con tecnología multiválvula y multibujía: la versión de Keeway Reino Unido habla de tres bujías para mejorar eficiencia y respuesta",
     ],
     imagen: "/media/motos/keeway-rkf-125-2024-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -2340,26 +2331,21 @@ curiosidades: [
     carga: null,
     etiquetaDgt: "C",
     aprox: [],
-    pros: [
-      "Scrambler 125 con estética campera muy lograda",
-      "Por 2.899 €, la scrambler 125 más barata",
-      "Neumáticos de tacos y guardabarros alto",
-      "Disponible con ABS o CBS",
-      "Muy divertida en ciudad y caminos",
-      "Mantenimiento baratísimo",
+pros: [
+      "En 2024 se vendía por 2.899 € y dejaba elegir entre ABS y frenada combinada CBS sobre los mismos discos de 276 mm delante y 220 mm detrás, algo poco habitual en una 125 de este precio.",
+      "La scrambler de serie ya trae lo que otras cobran como accesorio para parecer campera: neumáticos de tacos, guardabarros alto, rejilla sobre el faro redondo y una pequeña cúpula delantera.",
+      "Su monocilíndrico de 125 cc refrigerado por aire, con inyección y homologación Euro5, prescinde de radiador y de electrónica superflua: es la mecánica que la ficha programa revisar con aceite cada 6.000 km.",
+      "Con el carnet A1 o con el B y tres años de antigüedad puedes llevarla en los cuatro colores de 2024 —Cargo Green, Timberwolf Grey, Backstage Black y el añadido Charly Brown— sin salirte del asfalto ni de una pista fácil.",
     ],
-    contras: [
-      "11 CV: justita fuera de ciudad",
-      "Los tacos penalizan en asfalto mojado",
-      "Acabados básicos",
-      "Sin electrónica",
-      "El asiento es estrecho",
+contras: [
+      "Los 11 CV a 9.000 rpm que declara la ficha se quedan cortos en cuanto enlazas dos rotondas fuera de la ciudad: en carretera abierta toca planificar cada adelantamiento.",
+      "Los tacos que tan bien quedan en foto vibran y agarran peor en asfalto mojado que un neumático mixto o de carretera, así que el uso diario en invierno pide cabeza.",
+      "La instrumentación minimalista, mitad analógica y mitad digital, va justa de información y los acabados son básicos, en línea con esos 2.899 € y no por encima de ellos.",
+      "El asiento estrecho de perfil scrambler cansa en trayectos largos a dúo, aunque la ficha homologue dos plazas.",
     ],
-    curiosidades: [
-      "La Felsberg 125 es la scrambler pequeña de Brixton",
-      "Existe la versión XC con rueda delantera más grande (2.999 €)",
-      "Su nombre homenajea a la montaña Felsberg",
-      "Los colores militares son su seña de identidad",
+curiosidades: [
+      "Antes de llamarse Felsberg, esta 125 era la Brixton BX 125 X: el cambio de nombre llegó en 2020, cuando KSR anunció a la vez la variante XC derivada de ella.",
+      "La Felsberg 125 XC no es otra moto distinta por dentro: comparte motor con esta 2024 y se diferencia por la rueda delantera mayor, el guardabarros elevado y el cubrecárter de serie.",
     ],
     imagen: "/media/motos/brixton-felsberg-125-2024-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -2554,26 +2540,21 @@ curiosidades: [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["potenciaCv"],
-    pros: [
-      "Enduro 125 con motor Minarelli: fiabilidad probada",
-      "15 CV: el máximo legal del A1",
-      "Parte ciclo de enduro de verdad",
-      "Ligera y ágil en campo",
-      "Por 3.999 €, enduro 125 española",
-      "Ideal para iniciarse en el off-road",
+pros: [
+      "El Minarelli de esta 2024 no es un 125 cualquiera: lleva distribución variable, refrigeración líquida e inyección electrónica, y entrega los 11 kW (15 CV) que la ficha marca como aproximados, justo en el techo que permite conducirla con el A1 o con el B y tres años de antigüedad.",
+      "Delante manda un disco Wave de 300 mm con pinza radial de cuatro pistones y detrás otro Wave de 200 mm, con horquilla invertida de 40 mm: es frenada y suspensión de enduro seria, no el equipo recortado habitual en una trail de 3.999 €.",
+      "Rieju declara 112 kg en seco para la Marathon 125 sobre un chasis perimetral de doble viga de acero con subchasis trasero desmontable: en una trialera lenta pesa poco al levantarla de una caída y el subchasis se puede sustituir sin tocar el chasis principal.",
+      "En 2024 costaba 3.999 € siendo una enduro diseñada y fabricada por una marca de Figueres, con escape de acero inoxidable, intermitentes LED y cuadro digital de serie según la ficha oficial de Rieju.",
     ],
-    contras: [
-      "Enduro pura: incómoda en carretera",
-      "El asiento es estrecho y duro",
-      "Sin electrónica",
-      "Mantenimiento más frecuente que una naked",
-      "Los neumáticos de tacos se gastan en asfalto",
+contras: [
+      "El depósito se queda en 6 litros según Rieju: en una salida larga por pistas toca planificar la gasolinera antes que la ruta, porque no hay margen para improvisar desvíos.",
+      "La propia ficha oficial marca «no» en protector de cárter y en protectores de manos: si la pista tiene piedra suelta, esas dos protecciones salen de tu bolsillo como primer accesorio.",
+      "El sillín figura a 876 mm en la ficha de Rieju y es estrecho, como manda el enduro: quien no llegue bien al suelo lo notará en cada parada, y a dúo por asfalto cansa mucho antes que el motor.",
+      "Los neumáticos de tacos que la hacen divertida en tierra se desgastan rápido si la usas a diario por asfalto para ir al instituto o al trabajo, y en mojado piden mucha más suavidad con el freno delantero de 300 mm.",
     ],
-    curiosidades: [
-      "La Marathon 125 Europe monta motor Minarelli",
-      "Rieju tiene una larguísima tradición en enduro",
-      "Es la enduro 125 más vendida en España",
-      "La versión Europe cumple la Euro5",
+curiosidades: [
+      "El nombre Marathon no nació con las motos: Rieju ya lo utilizaba en los años cuarenta para una de sus gamas de bicicletas, junto a la marca Emporium, décadas antes de que existiera esta 125.",
+      "Rieju es literalmente la suma de sus fundadores, RIEra y JUanola, que montaron la empresa en Figueres en 1934 fabricando accesorios para bicicletas antes de pasar a los ciclomotores.",
     ],
     imagen: "/media/motos/rieju-marathon-125-europe-2024-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -3489,26 +3470,21 @@ curiosidades: [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["precioDesde"],
-    pros: [
-      "Flat track 125 con estética de competición",
-      "TFT personalizable de serie",
-      "Doble escape alto de acero inoxidable",
-      "Llantas de 19 pulgadas delante",
-      "133 kg: ligera y divertida",
-      "Diseño único en el segmento",
+pros: [
+      "Motor de origen Piaggio muy elaborado para ser una 125: monocilíndrico de 124,2 cc con culata DOHC de 4 válvulas, refrigeración líquida, inyección y cambio de 6 marchas, con 13,6 CV a 9.750 rpm y 10,5 Nm a 8.000 rpm, cerca del límite del A1",
+      "Pantalla TFT a color impropia de una 125 de estilo retro en 2024: dos modos, Clásica y Racing, indicador de marcha engranada y sensor que ajusta el brillo e invierte la imagen al bajar la luz, pensado para túneles y noche",
+      "Parte ciclo con ambición de moto mayor: horquilla invertida de 40 mm, monoamortiguador trasero sobre basculante de aluminio, disco delantero de 280 mm con pinza radial de 4 pistones y llantas de radios de 19 pulgadas en ambos ejes",
+      "No hay otra 125 de serie en España con esta planta en 2024: placa frontal de dorsal, portanúmeros laterales y doble escape alto repartido a ambos lados, uno por flanco, en vez del silenciador único habitual del segmento",
     ],
-    contras: [
-      "13,6 CV: justita en carretera",
-      "La estética prima sobre la practicidad",
-      "El faro LED doble es flojo de noche",
-      "Sin electrónica avanzada",
-      "Marca minoritaria: reventa difícil",
+contras: [
+      "Asiento a 846 mm según la ficha de la versión 2024 con ABS: es alta para una 125 de acceso y puede intimidar a pilotos bajos o a quien llega con el carnet B, pese a pesar solo 133 kg",
+      "Depósito de solo 9,5 litros y neumáticos mixtos de dibujo dirt track: en asfalto mojado y en uso diario continuo obligan a repostar a menudo y a no fiarse igual que con una goma 100 % de carretera",
+      "El doble faro LED va escondido y en miniatura bajo la placa frontal para no romper la estética de carrera: de noche, en carreteras secundarias sin iluminar, se echa en falta un faro convencional más grande",
+      "Red comercial y de recambios de Mondial muy corta en España frente a Honda o Yamaha: en 2024 eso se traduce en esperas más largas y en una reventa más complicada fuera de las grandes ciudades",
     ],
-    curiosidades: [
-      "La Flat Track 125 fue la primera Mondial con motor Euro5",
-      "Su estética imita a las motos de dirt track americanas",
-      "Monta pantalla TFT, rara en una 125 de este estilo",
-      "Los dos escapes altos son de acero inoxidable",
+curiosidades: [
+      "El 57 de la placa frontal no es decoración al azar: recuerda 1957, el año en el que Mondial ganó cuatro títulos mundiales, el dato que repiten RideApart y WebBikeWorld al presentar el modelo.",
+      "Parece monoplaza pero no lo es: el colín trasero se desmonta con cuatro tornillos y debajo aparece el asiento del pasajero, solución que las pruebas españolas destacan para no romper la línea cuando se rueda solo.",
     ],
     imagen: "/media/motos/mondial-flat-track-125-2024-ficha-tecnica-precio-1.webp",
     galeria: [
