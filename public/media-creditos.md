@@ -10196,3 +10196,14 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/wottan-storm-x-125-2025-ficha-tecnica-precio-hunt1.webp | https://www.fuoristrada.it/wp-content/uploads/2024/07/Wottan-Storm-X-125-09-07-2024-Fuoristrada.it_.jpg | Fuoristrada.it / Wottan Motor | desconocida |
 | /media/wottan-storm-x-125-2025-ficha-tecnica-precio-hunt2.webp | http://mototarget.it/cdn/shop/files/STORM-X-01.jpg?v=1759914189 | MotoTarget (concesionario Wottan) / Wottan Motor | desconocida |
 | /media/wottan-storm-x-125-2025-ficha-tecnica-precio-hunt3.webp | https://wottanmotor.com/web/image/640767-36710887/COLORES-STORMX-2025.jpg | Wottan Motor (web oficial) | desconocida |
+| /media/bmw-serie-3-320i-2026-precio-ficha-tecnica-hunt1.webp | https://motorshow.com.br/wp-content/uploads/sites/2/2022/10/novo-bmw-320i-m-sport-4.jpg | BMW / MotorShow | desconocida |
+| /media/bmw-serie-3-320i-2026-precio-ficha-tecnica-hunt2.webp | https://motorshow.com.br/wp-content/uploads/sites/2/2022/10/novo-bmw-320i-m-sport-7.jpg | BMW / MotorShow | desconocida |
+| /media/bmw-serie-3-320i-2026-precio-ficha-tecnica-hunt3.webp | https://motorshow.com.br/wp-content/uploads/sites/2/2022/10/novo-bmw-320i-m-sport-1.jpg | BMW / MotorShow | desconocida |
+| /media/horwin-sk3-2026-ficha-tecnica-precio-hunt1.webp | https://cn.e-scooter.co/i/ho/rw/horwin-sk3/full/SK3_Blue_Q1_799x.jpg | Horwin / e-scooter.co | desconocida |
+| /media/horwin-sk3-2026-ficha-tecnica-precio-hunt2.webp | https://www.horwin.eu/wp-content/uploads/HORWIN-SK3-Limited-Edition-Europe-Vienna-1200x750.jpg | Horwin Europe (horwin.eu) | desconocida |
+| /media/horwin-sk3-2026-ficha-tecnica-precio-hunt3.webp | https://www.go2roues.com/wp-content/uploads/2022/01/horwin-sk3-gris-vue-avant-1024x1024.jpg | Horwin / Go2Roues | desconocida |
+| /media/joyor-g3-hunt1.webp | https://cdn.shopify.com/s/files/1/1163/1976/products/G3_43.5_Miles_Long-Range_Electric_Scooter_-_Black_3__41092__16893.1584502201.jpg?v=1612369742 | Joyor / FactoryPure | desconocida |
+| /media/joyor-g3-hunt2.webp | https://cdn.shopify.com/s/files/1/1163/1976/products/G3_43.5_Miles_Long-Range_Electric_Scooter_-_Black_4__57824__42462.1584502201.jpg?v=1612369742 | Joyor / FactoryPure | desconocida |
+| /media/toyota-c-hr-140h-hunt1.webp | https://www.actualidadmotor.com/wp-content/uploads/2023/11/prueba-toyota-c-hr-5.jpg | Toyota / ActualidadMotor | desconocida |
+| /media/toyota-c-hr-140h-hunt2.webp | https://www.actualidadmotor.com/wp-content/uploads/2023/11/prueba-toyota-c-hr-2.jpg | Toyota / ActualidadMotor | desconocida |
+| /media/toyota-c-hr-140h-hunt3.webp | https://www.actualidadmotor.com/wp-content/uploads/2023/11/prueba-toyota-c-hr-24.jpg | Toyota / ActualidadMotor | desconocida |
