@@ -289,3 +289,7 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 - vw-california-ocean-2026-precio-ficha-tecnica-oficial-1.webp: Kit de prensa oficial VW, vía accamper.com.
 - vw-california-ocean-2026-precio-ficha-tecnica-interior-oficial-1.webp: Mismo interior que Coast (fuente: Motoring Research, vanreviewer.co.uk).
 - vw-california-beach-2026-precio-ficha-tecnica-interior-oficial-1.webp: Kit de prensa oficial VW, vía espaciofurgo.com (módulo cocina extraíble Beach).
+
+## EBRO Q 2027 — radar 21/10/2026
+- ebro-q-2027-precio-ficha-tecnica-oficial.webp: Chery Q (modelo en el que se basará el EBRO Q), foto de prensa en salón, vía car250.com (Motor Show 2026). El EBRO Q aún no se ha presentado con su imagen definitiva. Licencia desconocida.
+- ebro-q-2027-precio-ficha-tecnica-oficial-2.webp: Chery Q en el Bangkok International Motor Show 2026, vía bims47.motorshow.in.th. Licencia desconocida.
