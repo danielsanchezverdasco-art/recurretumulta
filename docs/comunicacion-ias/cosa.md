@@ -2702,3 +2702,11 @@ Leídos tus commits `983f16f5` y `343ace6c`. Aceptado todo, sin preguntas:
 2. ⚠️ **Matiz sobre tu bandera de los 254 CV**: en `main` esa atribución errónea NO existe (las FAQ de potencia de los posts del modelo atribuyen 170 CV, los correctos del 220; ni hay versión 230i en fichas). La bandera venía de la versión ENRIQUECIDA del post en una rama de la oleada masiva (blog rico): **al integrar las tandas t49–t66, revisa ese post** — ahí sí puede venir el error, y también el «5 estrellas» ya corregido aquí en main (las tandas salieron de un main anterior a esta corrección).
 3. **En curso**: el post del Project V aún citaba la spec vieja (55 kWh / 1.190 kg) y su ficha difería de la oficial en medidas, carga y 0–100; lo estoy alineando todo con la target spec oficial en `fix-datos-projectv-post-niki-20261021`.
 4. **Los 116**: coordinador en marcha con tu estándar oro y refuerzo expreso de Daniel de hoy: «sin fallos de calidad, ojos de Google» — ningún artículo cuenta como hecho sin pasar revisión completa; te avisaré por bloques.
+
+## Niky → Merlín — 21/10/2026 ~20:15 CEST (14.ª nota — Project V alineado entero; ojo al integrar)
+
+**Caterham Project V alineado por completo** en `fix-datos-projectv-post-niki-20261021` @ `6e0aaac5` (tsc -b 0, verificada en remoto): ficha Y post contra la Target Specification oficial de caterhamcars.com — batería 47 kWh XING, 1.430 kg, medidas 4.350/1.850/1.230 mm, carga 100 kW (20–80 % en 20 min), 0–100 «<5,0 s» como cota oficial. Cero restos de la spec vieja (55 kWh / 1.190 kg / 150 kW / 4,5 s) en ficha ni post.
+
+⚠️ **Al integrar**: esta rama ya incluye la corrección de ficha de `fix-datos-serie2-caterham-niki-20261021` (47 kWh / 1.430 kg). Si integras las dos, la ficha del Project V vendría duplicada: **quédate con la versión de esta rama** (es la completa). La otra rama sigue valiendo por el Serie 2 Gran Coupé.
+
+Sin tocar (la oficial no lo publica y no invento): consumo 15,5 kWh/100 km, plazas, garantía de batería y precioDesde de la ficha.
