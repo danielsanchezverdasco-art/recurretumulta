@@ -9705,3 +9705,14 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/kymco-skytown-125-2025-ficha-tecnica-precio-hunt3.webp | https://www.kymco.es/storage/app/media/products/Sky%20Town%20125%20ABS%20-%20Version%202025/Perspectivas%20y%20referencias/1400x1400_Arena_Slider.png | Kymco España | desconocida |
 | /media/ducati-pro-3-hunt1.webp | https://liebrenaranja.com/wp-content/uploads/2023/10/PROIII_01.jpg | LiebreNaranja / foto de producto MT Distribution | desconocida |
 | /media/ducati-pro-3-hunt2.webp | https://garagem360.com.br/wp-content/uploads/2021/12/MT-Distribution-01-gallery-1920x1080-1.jpg | Garagem360 / MT Distribution | desconocida |
+| /media/renault-espace-2025-e-tech-200-precio-ficha-tecnica-hunt1.webp | https://www.auto-data.net/images/f55/Renault-Espace-VI-Phase-II-2025_1.jpg | Renault / Auto-Data.net | desconocida |
+| /media/renault-espace-2025-e-tech-200-precio-ficha-tecnica-hunt2.webp | https://www.hibridosyelectricos.com/uploads/s1/98/56/67/renault-espace-2025-interior_17_2000x1126.jpeg | Renault / Híbridos y Eléctricos | desconocida |
+| /media/renault-espace-2025-e-tech-200-precio-ficha-tecnica-hunt3.webp | https://autorai.nl/wp-content/uploads/2025/06/Renault-Espace-2025-44-1140x760.jpg | AutoRAI / Renault | desconocida |
+| /media/swm-g03-edi-phev-2026-precio-ficha-tecnica-hunt1.webp | https://www.swmmotorsmadrid.es/wp-content/uploads/2024/02/G03F_EDi_Portrait-scaled.jpg?id=4191 | SWM Motors Madrid (concesionario oficial SWM) | desconocida |
+| /media/swm-g03-edi-phev-2026-precio-ficha-tecnica-hunt2.webp | https://www.autonocion.com/wp-content/uploads/2023/12/swm-g03-EDI4.jpg | SWM / Autonoción | desconocida |
+| /media/swm-g03-edi-phev-2026-precio-ficha-tecnica-hunt3.webp | https://www.autonocion.com/wp-content/uploads/2023/12/swm-g03-EDI5.jpg | SWM / Autonoción | desconocida |
+| /media/kymco-super-dink-gt-350-2026-ficha-tecnica-precio-hunt1.webp | https://www.kymco.es/storage/app/media/products/Super%20Dink%20GT%20350%20Euro%205%20PLUS/1400x1400_Slider_negro_ok-min.png | Kymco España | desconocida |
+| /media/kymco-super-dink-gt-350-2026-ficha-tecnica-precio-hunt2.webp | https://motoseulogio.es/wp-content/uploads/2026/02/super-dink-gt-350-general-marron-3.jpg | Kymco / Motos Eulogio | desconocida |
+| /media/kymco-super-dink-gt-350-2026-ficha-tecnica-precio-hunt3.webp | https://www.kymco.es/storage/app/media/products/Super%20Dink%20GT%20350%20Euro%205%20PLUS/Modulos/SD%20GT%20350_tecnologia_nuevo_d-min.jpg | Kymco España | desconocida |
+| /media/jeep-2xe-urban-camou-hunt1.webp | https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/36/3655001/JEEP-2xe-Urban-Camou-Szaro-czarny-skos1.jpg | Jeep / Media Expert | desconocida |
+| /media/jeep-2xe-urban-camou-hunt2.webp | https://www.mediaexpert.pl/media/cache/resolve/gallery/images/72/7271516/JEEP-2xe-Urban-Camou-Szaro-czarny-skos2.jpg | Jeep / Media Expert | desconocida |
