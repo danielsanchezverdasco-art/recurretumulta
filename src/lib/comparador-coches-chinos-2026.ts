@@ -970,6 +970,24 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
     analisisSlug: "aiva-me7-seres-catl-paris-2026",
     videoId: null,
     videoCanal: null,
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: modelo no probado",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Aiva/Saidou Technology: sin plan oficial publicado (modelo no comercializado en España)",
+      "intervalo": "No publicado para Europa (modelo no comercializado en España)",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión periódica",
+          "queSeCambia": "Sin operaciones publicadas: Aiva/Saidou Technology no ha publicado manual del propietario ni plan de mantenimiento del ME7, un modelo presentado en septiembre de 2026 que aún no está a la venta (preventa prevista a principios de 2027 en China)"
+        }
+      ]
+    },
   },
   {
     id: "geely-galaxy-battleship-700-2026-precio-ficha-tecnica",

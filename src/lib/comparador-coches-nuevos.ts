@@ -2596,6 +2596,18 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         alto: 675,
       },
     ],
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: modelo no probado",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Aito/Seres: sin plan oficial europeo",
+      "intervalo": "No publicado para Europa (modelo no comercializado en España)",
+      "revisiones": []
+    },
   },
   {
     id: "yangwang-byd-u8-u9-europa-2027",

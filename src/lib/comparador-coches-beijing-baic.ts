@@ -693,6 +693,18 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
       },
     ],
     analisisSlug: "arcfox-alfa-t5-2024-precio-ficha-tecnica",
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: modelo no probado",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Arcfox/BAIC: sin plan oficial europeo",
+      "intervalo": "No publicado para Europa (modelo no comercializado en España)",
+      "revisiones": []
+    },
   },
   {
     id: "arcfox-alfa-s5-2024-precio-ficha-tecnica",
@@ -859,6 +871,18 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
       },
     ],
     analisisSlug: "arcfox-kaola-2024-precio-ficha-tecnica",
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: modelo solo para China, no probado",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Arcfox (BAIC BJEV): sin plan oficial publicado en abierto fuera de China",
+      "intervalo": "No publicado para Europa (modelo no comercializado en España)",
+      "revisiones": []
+    },
   },
   {
     id: "arcfox-kaola-s-2024-precio-ficha-tecnica",

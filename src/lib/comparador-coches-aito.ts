@@ -96,6 +96,39 @@ export const COCHES_AITO: CocheComparador[] = [
       },
     ],
     analisisSlug: "aito-m5-2024-precio-ficha-tecnica",
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: modelo no probado",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Manual del propietario AITO (China), capítulo Vehicle maintenance: tablas de primer mantenimiento y de mantenimiento periódico del EREV con extensor H15RT; sin plan oficial publicado para Europa",
+      "intervalo": "12 meses o 10.000 km (lo que ocurra antes); primera revisión del extensor a los 3 meses o 3.000 km de funcionamiento del extensor",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Primera revisión (3 meses o 3.000 km de funcionamiento del extensor)",
+          "queSeCambia": "Cambio de aceite del extensor 1.5T H15RT (grado SP o superior) y de su filtro, más inspección general del vehículo en centro AITO"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión periódica (12 meses o 10.000 km)",
+          "queSeCambia": "Aceite y filtro del extensor cada 1 año o 10.000 km de funcionamiento del extensor; inspección del sistema de escape, líneas de combustible, chasis, frenos, batería de tracción y sistema de alta tensión"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Sustituciones programadas por tiempo y kilometraje",
+          "queSeCambia": "Filtro de aire del habitáculo cada 1 año o 20.000 km; bujías del extensor cada 3 años o 30.000 km de funcionamiento; líquido de frenos cada 3 años o 60.000 km"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Operaciones de ciclo largo",
+          "queSeCambia": "Refrigerante del extensor y del sistema eléctrico cada 4 años o 100.000 km; aceite del reductor con inspección en cada revisión y sustitución según versión (3 años o 60.000 km en la caja combinada delantera; 5 años o 100.000 km en el conjunto trasero Huawei)"
+        }
+      ]
+    },
   },
   {
     id: "aito-m5-ultra-2025-precio-ficha-tecnica",
@@ -179,6 +212,34 @@ export const COCHES_AITO: CocheComparador[] = [
       },
     ],
     analisisSlug: "aito-m5-ultra-2025-precio-ficha-tecnica",
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: modelo no probado",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Manual oficial del propietario del Aito M5 2025 EREV (aito.auto, ed. 02/04/2025), tabla de mantenimiento periódico; sin plan de mantenimiento europeo publicado (modelo no comercializado en España), costes no publicados",
+      "intervalo": "Inspección general cada 12 meses o 20.000 km recorridos (lo que ocurra antes); aceite y filtro de aceite del extensor 1.5T cada 12 meses o 10.000 km de funcionamiento del extensor (lo que ocurra antes)",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión periódica / 12 meses o 20.000 km",
+          "queSeCambia": "Inspección general del vehículo (frenos, chasis, batería de tracción, sistema de carga y cableado de alta tensión) y sustitución del filtro de habitáculo"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión del extensor 1.5T / 12 meses o 10.000 km de funcionamiento del extensor",
+          "queSeCambia": "Aceite del extensor (grado SP o superior) y filtro de aceite; inspección y limpieza del filtro de aire del extensor"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Operaciones programadas por antigüedad o kilometraje",
+          "queSeCambia": "Filtro de aire del extensor: sustitución cada 2 años o 20.000 km de funcionamiento del extensor; bujías cada 3 años o 30.000 km de funcionamiento del extensor; líquido de frenos cada 3 años o 60.000 km; refrigerante del extensor y refrigerante del motor eléctrico/batería cada 4 años o 100.000 km; aceite de la reductora (Castrol BOT 805C EV): inspección en cada revisión y sustitución cada 5 años o 100.000 km"
+        }
+      ]
+    },
   },
   {
     id: "aito-m5-ultra-ev-2025-precio-ficha-tecnica",
@@ -262,6 +323,18 @@ export const COCHES_AITO: CocheComparador[] = [
       },
     ],
     analisisSlug: "aito-m5-ultra-ev-2025-precio-ficha-tecnica",
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: modelo no probado",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Aito/Seres: sin plan oficial europeo",
+      "intervalo": "No publicado para Europa (modelo no comercializado en España)",
+      "revisiones": []
+    },
   },
   {
     id: "aito-m6-2026-precio-ficha-tecnica",
@@ -345,6 +418,18 @@ export const COCHES_AITO: CocheComparador[] = [
       },
     ],
     analisisSlug: "aito-m6-2026-precio-ficha-tecnica",
+    euroncap: {
+      "estrellas": null,
+      "ano": null,
+      "url": null,
+      "nota": "Sin datos EuroNCAP: modelo no probado"
+    },
+    planMantenimiento: {
+      "intervalo": "No publicado para Europa (modelo no comercializado en España)",
+      "revisiones": [],
+      "costeAnualAproxEur": null,
+      "fuente": "Aito/Seres: sin plan oficial europeo"
+    },
   },
   {
     id: "aito-m6-ev-2026-precio-ficha-tecnica",
@@ -428,6 +513,18 @@ export const COCHES_AITO: CocheComparador[] = [
       },
     ],
     analisisSlug: "aito-m6-ev-2026-precio-ficha-tecnica",
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: modelo no probado",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Aito/Seres: sin plan oficial europeo",
+      "intervalo": "No publicado para Europa (modelo no comercializado en España)",
+      "revisiones": []
+    },
   },
   {
     id: "aito-m7-pro-2024-precio-ficha-tecnica",
@@ -511,6 +608,18 @@ export const COCHES_AITO: CocheComparador[] = [
       },
     ],
     analisisSlug: "aito-m7-pro-2024-precio-ficha-tecnica",
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: modelo no probado",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Aito/Seres: sin plan oficial europeo",
+      "intervalo": "No publicado para Europa (modelo no comercializado en España)",
+      "revisiones": []
+    },
   },
   {
     id: "aito-m7-ultra-2024-precio-ficha-tecnica",
@@ -594,6 +703,44 @@ export const COCHES_AITO: CocheComparador[] = [
       },
     ],
     analisisSlug: "aito-m7-ultra-2024-precio-ficha-tecnica",
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: el Aito M7 no ha sido probado por Euro NCAP; solo consta la prueba china C-NCAP, que no es Euro NCAP",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Manual del propietario del Aito M7 (Seres/Huawei), capítulo «Vehicle maintenance»: tabla de primer mantenimiento y tabla de mantenimiento periódico; copia traducida del manual en https://chats.chinamobil.ru/files/seres-sf5-huawei-auto-aito-m5/applicationpdf/m7-product-manual-153-228-51-76.zh-CN.en.pdf (costes de taller no publicados: a null)",
+      "intervalo": "Primera revisión a los 3 meses, con aceite y filtro del extensor a los 3 meses o 3.000 km de funcionamiento del extensor, lo que ocurra antes; después, revisiones cada 12 meses o 10.000 km, lo que ocurra antes (manual del propietario del Aito M7)",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Primera revisión (3 meses / 3.000 km de funcionamiento del extensor)",
+          "queSeCambia": "Aceite del extensor de autonomía (grado SP o superior) y filtro de aceite del extensor; inspección general del vehículo en el AITO User Center"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión periódica (12 meses / 10.000 km)",
+          "queSeCambia": "Aceite del extensor (grado SP o superior) y filtro de aceite del extensor, cada 12 meses o 10.000 km de funcionamiento del extensor; inspección de frenos, chasis, batería de tracción, sistema de carga y cableado de alta tensión"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Cada 12 meses / 20.000 km",
+          "queSeCambia": "Filtro del aire acondicionado cada 12 meses o 20.000 km; elemento del filtro de aire del extensor: revisión y limpieza cada 12 meses o 10.000 km de funcionamiento del extensor y sustitución cada 24 meses o 20.000 km de funcionamiento del extensor"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Cada 3 años / 30.000-60.000 km",
+          "queSeCambia": "Bujías del extensor cada 3 años o 30.000 km de funcionamiento del extensor; líquido de frenos cada 3 años o 60.000 km; aceite del reductor delantero (SK-CA DHTF-1), con inspección en cada revisión, cada 3 años o 60.000 km"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Cada 4-5 años / 100.000 km",
+          "queSeCambia": "Refrigerante del extensor y refrigerante general cada 4 años o 100.000 km; aceite del reductor trasero (BOT 805C EV), con inspección en cada revisión, cada 5 años o 100.000 km"
+        }
+      ]
+    },
   },
   {
     id: "aito-m7-2025-precio-ficha-tecnica",
@@ -677,6 +824,38 @@ export const COCHES_AITO: CocheComparador[] = [
       },
     ],
     analisisSlug: "aito-m7-2025-precio-ficha-tecnica",
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: modelo no probado",
+      "url": null
+    },
+    planMantenimiento: {
+      "fuente": "Manual del propietario del Aito M7 EREV (Aito/Seres, China), tablas de primera revisión y de mantenimiento periódico; sin plan oficial europeo publicado",
+      "intervalo": "Cada 12 meses o 10.000 km (lo que ocurra antes), según la tabla de mantenimiento periódico del manual del Aito M7 EREV en China",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Primera revisión / 3 meses o 3.000 km de funcionamiento del extensor",
+          "queSeCambia": "Aceite del extensor de autonomía (grado SP o superior) y filtro de aceite, e inspección general en un centro Aito"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión periódica / 12 meses o 10.000 km",
+          "queSeCambia": "Aceite y filtro de aceite del extensor de autonomía e inspección del sistema de batería de tracción y de carga, de los frenos, del chasis y de la climatización; el filtro de aire del extensor se comprueba y se limpia en cada revisión"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión / 24 meses o 20.000 km",
+          "queSeCambia": "Aceite y filtro de aceite del extensor, sustitución del filtro de aire del extensor y del filtro de climatización (este último, cada 12 meses o 20.000 km) e inspección general"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisiones a largo plazo",
+          "queSeCambia": "Bujías cada 3 años o 30.000 km de funcionamiento del extensor; líquido de frenos cada 3 años o 60.000 km; aceite de la reductora trasera con inspección en cada revisión y sustitución cada 5 años o 100.000 km; refrigerante cada 4 años o 100.000 km"
+        }
+      ]
+    },
   },
   {
     id: "aito-m7-ev-2025-precio-ficha-tecnica",
@@ -760,6 +939,18 @@ export const COCHES_AITO: CocheComparador[] = [
       },
     ],
     analisisSlug: "aito-m7-ev-2025-precio-ficha-tecnica",
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: modelo no probado",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Aito/Seres: sin plan oficial europeo",
+      "intervalo": "No publicado para Europa (modelo no comercializado en España)",
+      "revisiones": []
+    },
   },
   {
     id: "aito-m8-ev-2025-precio-ficha-tecnica",
@@ -843,5 +1034,17 @@ export const COCHES_AITO: CocheComparador[] = [
       },
     ],
     analisisSlug: "aito-m8-ev-2025-precio-ficha-tecnica",
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: modelo no probado",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Aito/Seres: sin plan oficial europeo",
+      "intervalo": "No publicado para Europa (modelo no comercializado en España)",
+      "revisiones": []
+    },
   },
 ];
