@@ -31,6 +31,7 @@ const BlogPostPage = lazy(() => import("./pages/blog/[slug].tsx"));
 const MultasIndexPage = lazy(() => import("./pages/multas/page.tsx"));
 const MultaProvinciaPage = lazy(() => import("./pages/multas/[provincia].tsx"));
 const ComunidadPage = lazy(() => import("./pages/comunidades/[ccaa].tsx"));
+const ComunidadesIndexPage = lazy(() => import("./pages/comunidades/page.tsx"));
 const PrivacidadPage = lazy(() => import("./pages/Privacidad.tsx"));
 const TerminosPage = lazy(() => import("./pages/Terminos.tsx"));
 const CookiesPage = lazy(() => import("./pages/Cookies.tsx"));
@@ -127,6 +128,7 @@ function ContentRoutes() {
       <Route path="blog/:slug" element={<BlogPostPage />} />
       <Route path="multas" element={<MultasIndexPage />} />
       <Route path="multas/:provincia" element={<MultaProvinciaPage />} />
+      <Route path="comunidades" element={<ComunidadesIndexPage />} />
       <Route path="comunidades/:ccaa" element={<ComunidadPage />} />
       <Route path="privacidad" element={<PrivacidadPage />} />
       <Route path="politica-privacidad" element={<Navigate to="/privacidad/" replace />} />
