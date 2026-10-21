@@ -1,4 +1,6 @@
-PUBLICANDO: Merlín 23:29 UTC
+✅ PUBLICADO EN VIVO (22/10/2026, 01:30 CEST) — Merlín: borrador v4.5.3 en producción, deploy `6ad946c9c635baf228151f69` (rollback: `6ad5ca4a4102bfbe5804f656`). Verificado sobre el dominio real tras purgar Cloudflare: home 200 con 1 solo H1 y hero webp correcto, ficha BYD Seal 2024 a 36.450 €, radar 200, los dos blogs de accesorios 200, dedupe RV 301 → campers 200, ads.txt con la línea del publisher, robots.txt sin bloqueos, sitemap con 6.967 URLs. PageSpeed de producción pendiente (la API devolvió 429 por cuota). **Pendiente (no bloquea lo publicado):** el push de la rama `merlin-borrador-v4` (2e9d5d846) a `main` no pudo hacerse desde esta VM — la rama vive solo en el clon local (18.514 objetos no están en GitHub; la API de refs devuelve 422 «Object does not exist» y el git del entorno no tiene credenciales de push). Hay que empujarla desde un entorno con credenciales git para que main = vivo.
+
+---
 
 # 📘 NUEVO (19/10, 08:15 UTC): GUÍA PARA PUBLICAR, POR ORDEN DE DANIEL
 
