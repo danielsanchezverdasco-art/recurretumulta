@@ -8961,3 +8961,14 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/bmw-c-400-x-2026-hunt1.webp | https://motonewsworld.com/wp-content/uploads/2024/10/2025-bmw-c-400-x-1-1000x667.jpg | BMW Motorrad (foto de prensa oficial, vía MotoNewsWorld) | desconocida |
 | /media/bmw-c-400-x-2026-hunt2.webp | https://motonewsworld.com/wp-content/uploads/2024/10/2025-bmw-c-400-x-6-1000x667.jpg | BMW Motorrad (foto de prensa oficial, vía MotoNewsWorld) | desconocida |
 | /media/bmw-c-400-x-2026-hunt3.webp | https://www.bmw-motorrad-co2moto.fr/data/upload/p90571792_highres_the-new-bmw--rpgjf.jpg | BMW Group PressClub (foto P90571792, vía BMW Motorrad CO2 Moto) | desconocida |
+| /media/audi-q3-sportback-tdi-2026-precio-ficha-tecnica-hunt1.webp | https://topelectricsuv.com/wp-content/uploads/2025/10/2026-Audi-Q3-Sportback-front-three-quarters-1024x768.jpg | TopElectricSUV (foto real en Auto Zürich 2025) | desconocida |
+| /media/audi-q3-sportback-tdi-2026-precio-ficha-tecnica-hunt2.webp | https://topelectricsuv.com/wp-content/uploads/2025/10/2026-Audi-Q3-Sportback-side-1024x680.jpg | TopElectricSUV (foto real en Auto Zürich 2025) | desconocida |
+| /media/audi-q3-sportback-tdi-2026-precio-ficha-tecnica-hunt3.webp | https://www.chasingcars.com.au/wp-content/uploads/2025/09/Audi-Q3-2026-5.jpg | Chasing Cars | desconocida |
+| /media/kia-stonic-hibrido-2026-precio-ficha-tecnica-hunt1.webp | https://images.ctfassets.net/uaddx06iwzdz/3xbeCQ3v3tNjk4VggCompP/ea8ae81e67988fd5f20bef27bdd72f31/Kia_Stonic_Modelljahr_2026_01.jpg | Kia (foto de prensa) vía AutoScout24 | desconocida |
+| /media/kia-stonic-hibrido-2026-precio-ficha-tecnica-hunt2.webp | https://images.carexpert.com.au/resize/960/-/cms/v1/media/2025-09-2026-kia-stonic702103.jpg | Kia (foto de prensa) vía CarExpert | desconocida |
+| /media/kia-stonic-hibrido-2026-precio-ficha-tecnica-hunt3.webp | https://autogreeknews.gr/wp-content/uploads/2026/04/Kia-Stonic-MY26-interior-2.jpg | Autogreeknews (prueba del 1.0 T-GDi 115 CV 7DCT) | desconocida |
+| /media/mitt-530-tt-2025-ficha-tecnica-precio-hunt1.webp | https://www.canariasenmoto.com/noticias/images/galerias/27560/MITT%20530TT-0025.jpg | Mitt / Jets Marivent vía Canariasenmoto | desconocida |
+| /media/mitt-530-tt-2025-ficha-tecnica-precio-hunt2.webp | https://enmoto.es/wp-content/uploads/2023/04/MITT-530TT-WEB-2.jpg | Mitt / Jets Marivent vía EnMoto | desconocida |
+| /media/mitt-530-tt-2025-ficha-tecnica-precio-hunt3.webp | https://i.bssl.es/plusmoto/2023/11/MITT-530TT-0194-1024x683.jpg | Plusmoto (fotos de prensa Mitt) | desconocida |
+| /media/benelli-trk-702-2026-hunt1.webp | https://images5.1000ps.net/images_bikekat/2024/49-Benelli/11404-TRK_702/001-638416021630922775-benelli-trk-702.jpg | Benelli (foto oficial de catálogo) vía 1000PS | desconocida |
+| /media/benelli-trk-702-2026-hunt2.webp | https://images.carandbike.com/cms/Benelli_TRK_702_Edited_4_d385149cac.jpg | Benelli vía carandbike | desconocida |
