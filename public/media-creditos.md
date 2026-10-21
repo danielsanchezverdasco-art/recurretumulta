@@ -9269,3 +9269,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/ktm-390-adventure-r-2026-ficha-tecnica-precio-hunt2.webp | https://www.trf.org.uk/wp-content/uploads/2025/01/MY25-KTM-390-Adventure-R-EU-Orange-90-left-768x432.jpg | KTM (foto oficial de estudio, vía TRF) | desconocida |
 | /media/ktm-390-adventure-r-2026-ficha-tecnica-precio-hunt3.webp | https://windburnedeyes.com/wp-content/uploads/2025/02/B6SFPP46RFF6LKQHVKK3B6BTTU-1024x692.jpeg | KTM (foto oficial de prensa, vía Wind Burned Eyes) | desconocida |
 | /media/fb-mondial-hps-125-2025-ficha-tecnica-precio-hunt1.webp | https://www.fb-mondial.pt/content/dam/moteo/mondial/categories---models/125-cc/hps-125cc/m3/gallery-pt-/Mon_HPS_125_GarnetRed_M3_Lprof_2560px.jpg/jcr:content/renditions/cq5dam.web.800.800.jpeg | FB Mondial (foto oficial) | desconocida |
+| /media/porsche-panamera-gts-2026-precio-ficha-tecnica-hunt1.webp | https://www.completecar.ie/img/galleries/13676/porsche_panamera_gts_2025_red_004.jpg | Porsche / CompleteCar.ie | desconocida |
+| /media/porsche-panamera-gts-2026-precio-ficha-tecnica-hunt2.webp | https://www.completecar.ie/img/galleries/13676/porsche_panamera_gts_2025_red_009.jpg | Porsche / CompleteCar.ie | desconocida |
+| /media/porsche-panamera-gts-2026-precio-ficha-tecnica-hunt3.webp | https://www.completecar.ie/img/galleries/13676/porsche_panamera_gts_2025_red_013.jpg | Porsche / CompleteCar.ie | desconocida |
+| /media/silence-s04-l6e-2025-precio-ficha-tecnica-hunt1.webp | https://cdn.autoflotte.de/thumb_945x532/media/5172/silence-s04-3.jpg | Silence / Autoflotte | desconocida |
+| /media/silence-s04-l6e-2025-precio-ficha-tecnica-hunt2.webp | https://www.kleinwagenblog.de/wp-content/uploads/2024/10/Silence-S04-2024-08.jpg | Silence / Kleinwagenblog | desconocida |
+| /media/silence-s04-l6e-2025-precio-ficha-tecnica-hunt3.webp | https://www.hwupgrade.it/immagini/SilenceS04int.webp | HWUpgrade | desconocida |
+| /media/ktm-125-duke-2026-ficha-tecnica-precio-hunt1.webp | https://azwecdnepstoragewebsiteuploads.azureedge.net/PHO_BIKE_DET_KTM-2025-naked-125-duke-static-5_%23SALL_%23AEPI_%23V1.jpg | KTM | desconocida |
+| /media/ktm-125-duke-2026-ficha-tecnica-precio-hunt2.webp | https://azwecdnepstoragewebsiteuploads.azureedge.net/PHO_BIKE_DET_KTM-2025-naked-125-duke-action-2_%23SALL_%23AEPI_%23V1.jpg | KTM | desconocida |
+| /media/ktm-125-duke-2026-ficha-tecnica-precio-hunt3.webp | https://azwecdnepstoragewebsiteuploads.azureedge.net/PHO_BIKE_DET_KTM-2025-naked-125-duke-static-2_%23SALL_%23AEPI_%23V1.jpg | KTM | desconocida |
+| /media/xiaomi-electric-scooter-5-max-hunt1.webp | https://cdn.multitronic.fi/images/prod/B/3/BHR9614EU-1.webp | Xiaomi / Multitronic | desconocida |
+| /media/xiaomi-electric-scooter-5-max-hunt2.webp | https://stage.imtest.de/wp-content/uploads/sites/7/2025/08/xiaomi-scooter-5-max.jpg | Xiaomi / IMTEST | desconocida |
+| /media/xiaomi-electric-scooter-5-max-hunt3.webp | https://digital.bg/wp-content/uploads/2025/09/xiaomi-electric-scooter-5-max-revyu-test-elektricheska-trotinetka-czena-18.jpg | Digital.bg | desconocida |
