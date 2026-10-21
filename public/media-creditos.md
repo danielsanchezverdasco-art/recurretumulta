@@ -9903,3 +9903,14 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/voge-sr4-max-2026-ficha-tecnica-precio-hunt3.webp | https://quadis.s3.amazonaws.com/GestorQuadis/Vehiculos/VOGE_SR4%20Max_RADAR_489358/sr4blanca.jpg | Quadis (concesionario Voge) | desconocida |
 | /media/sxt-buddy-pro-ekfv-hunt1.webp | https://cdn.shopify.com/s/files/1/0832/4379/4772/files/ESCBDDYPR_Seitenansicht_links.jpg?v=1712906542 | SXT Scooters (web oficial) | desconocida |
 | /media/sxt-buddy-pro-ekfv-hunt2.webp | https://cdn.shopify.com/s/files/1/0832/4379/4772/files/ESCBDDYPR_Lenker.jpg?v=1712906542 | SXT Scooters (web oficial) | desconocida |
+| /media/toyota-gr86-2025-precio-ficha-tecnica-hunt1.webp | https://emptytank.ca/wp-content/uploads/2024/07/2025_toyota_gr86_hakone_ridgegreen_001.jpg?w=1024 | Toyota USA Newsroom (prensa oficial Toyota) vía EmptyTank | desconocida |
+| /media/toyota-gr86-2025-precio-ficha-tecnica-hunt2.webp | https://tmotortrip.com/wp-content/uploads/2024/07/Toyota-GR86_Hakone_Edition-2025-1280-04.jpg | Toyota USA Newsroom (prensa oficial Toyota) vía TMotorTrip | desconocida |
+| /media/toyota-gr86-2025-precio-ficha-tecnica-hunt3.webp | https://www.conceptcarz.com/images/Toyota/toyota-gr86-hakone-special-edition_i1-1024.jpg | Toyota USA Newsroom (prensa oficial Toyota) vía Conceptcarz | desconocida |
+| /media/fiat-grande-panda-electrico-precio-ficha-tecnica-hunt1.webp | https://images.ctfassets.net/uaddx06iwzdz/7vzqtDimT1oIZB0TMLJOao/76a211b74bbbcb3870d12e2a69b5399a/Fiat_Grande_Panda_Electric_1.jpg | Fiat / Stellantis (prensa) vía AutoScout24 | desconocida |
+| /media/fiat-grande-panda-electrico-precio-ficha-tecnica-hunt2.webp | https://carwow-es-wp-0.imgix.net/FIATGrandePanda_spiralcable-scaled.jpg | Fiat / Stellantis (prensa oficial) vía Carwow España | desconocida |
+| /media/fiat-grande-panda-electrico-precio-ficha-tecnica-hunt3.webp | https://www.autotriti.gr/jpg/AUTOTRITI/1600/NEWS/Test-Fiat-Grande-Panda-Electric-(3).jpg | Autotriti (prueba Fiat Grande Panda Electric) | desconocida |
+| /media/voge-900-dsx-2026-ficha-tecnica-precio-hunt1.webp | https://fsmotos.be/images_vehicules/Voge-DS900X-Black-5_resultat_1771171293_494721.webp | Voge (oficial) vía FS Motos | desconocida |
+| /media/voge-900-dsx-2026-ficha-tecnica-precio-hunt2.webp | https://bergmansmotor.se/wp-content/uploads/2025/05/Voge-DS900X-Black-4.jpg | Voge (oficial) vía Bergmans Motor | desconocida |
+| /media/voge-900-dsx-2026-ficha-tecnica-precio-hunt3.webp | https://soymotero.net/wp-content/uploads/2025/09/Voge-900-DSX.jpg | SoyMotero.net | desconocida |
+| /media/sxt-beast-pro-hunt1.webp | https://sxt-scooters.de/cdn/shop/files/beast_pro_header.jpg?v=1713255175&width=1600 | SXT Scooters (oficial) | desconocida |
+| /media/sxt-beast-pro-hunt2.webp | https://www.maxblinker.com/img/cms/Produkty/SXT%20Beast%20Pro/sxt-beast-11.jpg | SXT Scooters (oficial) vía Maxblinker | desconocida |
