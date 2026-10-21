@@ -3845,3 +3845,17 @@ can-am-pulse-ficha-tecnica-precio
 yamaha-niken-gt-2025-ficha-tecnica-precio
 peugeot-2008-2024-precio-ficha-tecnica
 geely-record-ventas-2026-almussafes
+aprilia-rsv4-factory-2024-ficha-tecnica-precio
+aprilia-tuareg-660-2024-ficha-tecnica-precio
+ducati-desertx-2024-ficha-tecnica-precio
+ducati-monster-2024-ficha-tecnica-precio
+honda-nt1100-2024-ficha-tecnica-precio
+husqvarna-svartpilen-125-2024-ficha-tecnica-precio
+indian-chief-2024-ficha-tecnica-precio
+kawasaki-ninja-h2-sx-2024-ficha-tecnica-precio
+kawasaki-zx-10r-2024-ficha-tecnica-precio
+ktm-125-duke-2024-ficha-tecnica-precio
+ktm-1290-super-duke-r-2024-ficha-tecnica-precio
+ktm-790-adventure-2024-ficha-tecnica-precio
+triumph-daytona-660-2024-ficha-tecnica-precio
+triumph-thruxton-final-edition-2024-ficha-tecnica-precio
