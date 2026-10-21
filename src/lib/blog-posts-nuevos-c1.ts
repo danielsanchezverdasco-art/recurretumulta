@@ -785,6 +785,45 @@ Con la tarifa ya publicada (32.348-38.348 €), sus rivales naturales son el **B
 
 Eléctrico puro: **revisión cada 24 meses o 30.000 km** en la red MG España, con filtro de polen, líquido de frenos e inspección de batería. Mantenimiento mínimo y barato. *Fuente: red oficial MG España*
 
+## Por qué el S5 EV no es un ZS EV con otro nombre
+
+El ZS EV era un SUV de combustión adaptado a la electricidad: en su última renovación, el ZS se quedó solo con mecánicas híbridas. El hueco eléctrico lo ocupa un coche pensado como eléctrico desde el primer boceto. El S5 EV nace sobre la **plataforma MSP**, la arquitectura dedicada del <a href=/coches/mg-4-2025-precio-ficha-tecnica/>MG4</a>, y eso se nota en el suelo plano y el espacio interior. Quien venga del modelo anterior tiene el contraste en la <a href=/coches/mg-zs-ev-2024-precio-ficha-tecnica/>ficha del ZS EV</a>: tamaño parecido, planteamiento distinto.
+
+Tampoco parece el eléctrico barato de la casa: el diseño toma rasgos del Cyberster y el habitáculo combina una **pantalla central de 12,8 pulgadas** con instrumentación digital de 10,25, según la propia marca, que presume además del premio AUTOBEST 2026 al coche accesible con mejor tecnología de Europa.
+
+## Las dos baterías, sin mezclar ciclos
+
+Toda la gama comparte motor trasero y **350 Nm de par**. Lo que cambia es la batería, y las dos versiones sirven a perfiles muy distintos:
+
+| Dato | Standard Range | Long Range |
+|---|---|---|
+| Batería | 49 kWh | 62 kWh |
+| Potencia | 170 CV | 231 CV |
+| Autonomía homologada | 340 km WLTP | 480 km WLTP |
+
+Ojo: los 480 km son **WLTP europeos**, no CLTC chinos, y no deben compararse con autonomías de otro ciclo. La batería va en una estructura ultrafina de 110 mm que libera altura interior. En carga rápida, el pico de **139 kW en continua** deja el 10-80 % en torno a 26 minutos; en casa, lo sensato es cargar de noche. Todo el detalle está en la <a href=/coches/mg-s5-ev-2026-precio-ficha-tecnica/>ficha completa del MG S5 EV</a>.
+
+## Uso real: dónde brilla y dónde se le ven las costuras
+
+La versión de 49 kWh es un coche de diario: ciudad, cercanías y escapadas cortas sin planificar paradas. En autopista sostenida y con frío, la autonomía útil caerá de forma sensible respecto a los 340 km homologados, como en cualquier eléctrico de su tamaño; para viajes largos habituales, la Long Range es la compra lógica. A favor juegan el maletero de **453 litros** y una tracción trasera con mejor tacto que el de muchos rivales delanteros. En contra, esa tracción exige cabeza con lluvia o nieve sin neumáticos adecuados. Y un aviso honesto: los 22.090 € exigen promociones, financiación y ayudas; sin condiciones, la tarifa parte de 32.348 €.
+
+## Etiqueta Cero y costes de tenerlo en casa
+
+Al ser eléctrico puro, su distintivo es la **etiqueta Cero de la DGT**: puede entrar libremente en las zonas de bajas emisiones, con ventajas al aparcar en la zona regulada de muchas ciudades, y su coste por kilómetro es muy inferior al de un SUV de gasolina si se carga en casa. La mecánica eléctrica elimina aceite, correas y embrague, y la frenada regenerativa reduce el desgaste de las pastillas; los gastos reales se concentran en neumáticos y seguro. Mientras dura una carga rápida, por cierto, da tiempo a echar una partida al <a href=/juego-monos/>juego caza-monos</a> y a buscar los monos escondidos por la web.
+
+## Cara a cara con sus rivales de ficha
+
+| Modelo | Desde | Potencia | Autonomía WLTP | Maletero |
+|---|---|---|---|---|
+| MG S5 EV | 32.348 € | 231 CV | 480 km | 453 L |
+| <a href=/coches/omoda-5-ev-2025-precio-ficha-tecnica/>Omoda 5 EV</a> | 26.690 € | 204 CV | 430 km | 370 L |
+| <a href=/coches/kia-ev3-air-2025-precio-ficha-tecnica/>Kia EV3 Air</a> | desde 36.930 € | 204 CV | 436 km WLTP | 460 L |
+| <a href=/coches/byd-atto-3-evo-2025-precio-ficha-tecnica/>BYD Atto 3 EVO</a> | 42.990 € | 313 CV | 510 km | 490 L |
+
+El Omoda gana en tarifa, pero cede maletero y autonomía; el EV3 cobra más por un planteamiento más premium, y el Atto 3 EVO juega en otra liga de precio. El MG queda en el centro, con la mejor relación autonomía-precio del grupo en su Long Range.
+
+**Veredicto:** ¿compensa el S5 EV? Sí, para quien busca un SUV eléctrico familiar con autonomía seria, carga rápida de verdad y etiqueta Cero sin pagar precios de marca premium; la Long Range es la versión con sentido si sales de la ciudad con frecuencia. No es tu coche si necesitas tracción integral, si tu presupuesto depende del precio promocional sin financiar o si haces autopista a diario sin dónde cargar en casa o en el trabajo.
+
 ## Preguntas frecuentes
 
 ### ¿Qué autonomía tiene el MG S5 EV?
