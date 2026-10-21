@@ -3847,7 +3847,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "iScooter",
   modelo: "iX3",
-  precioEur: 357,
+  precioEur: 344,
   potenciaNominalW: 800,
   potenciaPicoW: 800,
   autonomiaKm: 40,

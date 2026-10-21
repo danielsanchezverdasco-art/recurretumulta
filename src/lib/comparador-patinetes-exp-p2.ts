@@ -11,7 +11,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo D40 XL Connected",
-    precioEur: 458,
+    precioEur: 299,
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 40,
@@ -57,7 +57,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     veredicto:
       "El D40 XL Connected es el Bongo de gran autonomía para quien quiere 40 km declarados sin subir a la Serie Z. La app Connected suma, pero la falta de suspensión y de certificado DGT verificado lo dejan un paso por detrás de sus hermanos.",
     fuenteNombre: "MediaMarkt",
-    fuenteUrl: "https://www.mediamarkt.es/",
+    fuenteUrl: "https://cecotec.es/es/patinetes-electricos/bongo-d40-xl-connected",
     mantenimientoDIY: {
       actualizacionFirmware: "A través de la app oficial de Cecotec (conectividad Bluetooth)",
       aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
