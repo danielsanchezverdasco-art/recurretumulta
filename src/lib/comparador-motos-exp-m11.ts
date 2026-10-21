@@ -95,23 +95,23 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Custom A2 auténtica con motor bicilíndrico de 449 cc y 40 CV",
-      "Asiento a solo 690 mm: accesible para pilotos de cualquier estatura",
-      "Estética custom clásica con detalles cuidados por 6.269 €",
-      "Depósito de 12 litros suficiente para el uso urbano y salidas cortas",
-      "Correa de transmisión secundaria: menos mantenimiento que la cadena",
+      "Pensada para quien estrena el A2 soñando con una cruiser de verdad: su bicilíndrico de 449 cc rinde 40 CV y empuja con suavidad desde abajo",
+      "Llegar bien al suelo marca la diferencia al maniobrar: aquí te sientas a 690 mm y mueves sus 181 kg con mucha más confianza en parado",
+      "Por 6.269 € ofrece una silueta bobber muy cuidada, con faro redondo y un depósito pulido que no parecen propios de una moto de acceso",
+      "Entre repostajes no irás agobiado en el día a día: los 12 litros dan margen de sobra para moverte por ciudad y escaparte cerca de casa",
+      "Olvídate de engrasar y tensar cada poco: la transmisión final por correa va limpia, resulta silenciosa y pide mucha menos atención rutinaria que una cadena convencional"
     ],
     contras: [
-      "40 CV se quedan justos en autovía con pasajero",
-      "Postura custom poco apta para viajes largos",
-      "Sin pantalla TFT ni conectividad de serie",
-      "Red de talleres más pequeña que las marcas japonesas",
-      "El segmento custom del A2 tiene rivales japonesas con mejor reventa",
+      "A dúo y lanzada en vía rápida se queda corta de reserva: esos 40 CV cumplen en solitario, pero adelantar con pasajero exige planificarlo con tiempo",
+      "La postura baja y adelantada enamora en trayectos breves, aunque castiga lumbares y piernas cuando enlazas varias horas seguidas de carretera",
+      "Pesa 181 kg para ser una A2 de iniciación: en marcha no molesta, pero remando marcha atrás en una rampa se nota más de lo esperado",
+      "Encontrar un servicio oficial cercano no siempre es fácil fuera de las capitales: la cobertura posventa todavía no iguala a Honda o Yamaha en España",
+      "Si piensas en venderla pronto, mira antes una Rebel 500: en el mercado de ocasión la Honda suele defender mejor su precio que esta CFMoto"
     ],
     curiosidades: [
-      "La CL-C es la línea custom de CFMoto, paralela a la naked CL-X",
-      "Su motor de 449 cc es el mismo bloque que usan las 450NK y 450SR",
-      "CFMoto diseña sus motos en colaboración con el estudio austriaco KISKA",
+      "Dentro de la familia CL, esta variante busca el rollo cruiser mientras la CL-X se queda con el papel de naked de inspiración retro",
+      "Bajo el depósito late la mecánica ya vista en otras 450 de la casa, compartida con la 450SR y la 450NK pero afinada aquí para rodar relajada",
+      "El trazo no nació solo en China: KISKA, estudio austriaco habitual en proyectos europeos, participó en dar forma al lenguaje de diseño de la marca"
     ],
     imagen: "/media/motos/cfmoto-450cl-c-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -133,7 +133,23 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     fuenteNombre: "CFMoto España",
     fuenteUrl: "https://cf-moto.es",
     analisisSlug: "cfmoto-450cl-c-2025-ficha-tecnica-precio",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      "aceiteTipo": "SAE 10W-40, API SJ o superior, JASO MA2; 2,5 litros con cambio de filtro, según el manual del propietario. Líquido de frenos DOT 4.",
+      "cadenaPasos": [
+        "No lleva cadena, lleva correa: antes de salir revísala a simple vista buscando cortes, grietas, dientes dañados o piedrecillas incrustadas, como pide el manual en la inspección diaria",
+        "Nunca la engrases ni la lubriques: el manual lo prohíbe expresamente; si se ensucia, lávala solo con agua o detergente específico para correas y sécala o sóplala después",
+        "No ajustes su tensión por tu cuenta: el manual exige medidor sónico profesional (68 Hz ± 2 Hz) y advierte de que una tensión incorrecta puede partirla; ese ajuste es trabajo de taller oficial",
+        "En cada revisión periódica haz que comprueben también polea conducida y polea de salida del motor junto con la correa, y respeta su sustitución conjunta a los 20.000 km",
+        "Tras rodar con lluvia, seca la correa cuanto antes y evita acelerones bruscos con ella mojada, siguiendo la recomendación expresa del manual para alargar su vida"
+      ],
+      "intervaloMantenimiento": "Según el manual del propietario de la 450CL-C (CF400-10US): revisión de rodaje a los 1.000 km con cambio de aceite y filtro; después, aceite y filtro cada 5.000 km o 6 meses, lo que llegue antes, con limpieza del filtro grueso. Correa: inspección y ajuste de tensión cada 5.000 km o 6 meses y sustitución a los 20.000 km. Bujía: revisión a los 5.000 km y cambio a los 10.000 km. Filtro de aire: limpieza a los 5.000 km y cambio a los 20.000 km o 24 meses. Reglaje de válvulas a los 40.000 km, refrigerante a los 35.000 km o 24 meses y líquido de frenos cada 24 meses.",
+      "trucos": [
+        "Controla el nivel por la mirilla con la moto vertical y en llano, esperando dos o tres minutos tras parar el motor: tiene que quedar en la zona central marcada en el manual",
+        "Al cambiar el aceite en casa, aprieta el tapón de vaciado magnético a 25 Nm con arandela nueva y unta con una película de aceite la junta del filtro nuevo antes de montarlo",
+        "Si ruedas por zonas polvorientas, adelanta la limpieza del filtro de aire respecto a los 5.000 km previstos: el propio manual acorta los intervalos a la mitad en uso severo",
+        "Vigila el nivel de refrigerante en el vaso de expansión con la moto recta y fría, y no abras nunca el circuito en caliente, como advierte el manual"
+      ]
+    },
   },
   {
     id: "cfmoto-700cl-x-heritage-2025-ficha-tecnica-precio",
@@ -848,23 +864,23 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "125 con 14,55 CV, de los más potentes de su categoría",
-      "Equipamiento de lujo: TFT, arranque sin llave y modos de conducción",
-      "Precio de 3.787 € con 5 años de garantía",
-      "148 kg contenidos para su nivel de equipamiento",
-      "Válido con carnet B (+3 años)",
+      "Con 124,7 cc entrega 14,55 CV, una cifra alta para moverse suelto por ciudad y circunvalaciones",
+      "La instrumentación TFT a color, el acceso sin llave física y los modos de marcha vienen incluidos de fábrica",
+      "Por 3.787 euros en 2025 ofrece un conjunto difícil de igualar sin subir mucho el presupuesto",
+      "Marca 148 kilos en la báscula, un registro razonable tratándose de un scooter tan completo",
+      "Lo pueden llevar quienes tengan el A1 y también conductores con el B y tres años de antigüedad"
     ],
     contras: [
-      "Precio superior al de los 125 básicos japoneses",
-      "El equipamiento extra suma peso frente a los 125 sencillos",
-      "Red de talleres más pequeña que Kymco o Yamaha",
-      "Reventa por debajo de las marcas tradicionales",
-      "Repuestos con plazos más largos que la competencia",
+      "Cuesta más que los modelos urbanos sencillos de las firmas japonesas de toda la vida",
+      "Tanto extra tecnológico acaba pesando más que en un 125 pensado solo para lo esencial",
+      "Su cobertura de servicio oficial todavía no alcanza a marcas como Kymco o Yamaha en España",
+      "Al venderlo de segunda mano suele perder más valor que un scooter de marca consolidada",
+      "Algunos recambios pueden tardar en llegar más de lo habitual frente a rivales con almacén local amplio"
     ],
     curiosidades: [
-      "Zontes equipa de serie lo que otras marcas cobran como extras",
-      "La D de 125D identifica su carácter deportivo dentro de la gama",
-      "Es uno de los 125 con mejor relación equipamiento/precio de España",
+      "Buena parte de su dotación se ve normalmente pagando suplemento en la competencia, aquí viene montada desde el inicio",
+      "Esa letra D final busca distinguir su enfoque más dinámico dentro de la familia 125 de la casa",
+      "En el mercado español destaca cuando se compara lo que trae de serie frente a lo que cuesta adquirirlo"
     ],
     imagen: "/media/motos/zontes-125d-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -886,7 +902,16 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     fuenteNombre: "Zontes España",
     fuenteUrl: null,
     analisisSlug: "zontes-125d-2025-ficha-tecnica-precio",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      "aceiteTipo": "Aceite para motor de 4 tiempos API SN o superior, viscosidad SAE 10W-40 o 10W-50 según el manual (en el cambio admite también 5W-40); 900 ml por cambio y 950 ml si se sustituye el cartucho del filtro de aceite.",
+      "intervaloMantenimiento": "Primera revisión a los 1.000 km o a los 3 meses; después, revisiones cada 4.000 km o al año, lo primero que llegue, según el manual del D125 y la pauta de la red Zontes para los scooter M, D y E. El manual pide revisar el nivel de aceite al menos cada 500 km, cambiar la correa cada 2 años o 20.000 km, el líquido de frenos cada 2 años y el refrigerante cada 4 años o 40.000 km.",
+      "trucos": [
+        "Comprueba el nivel con la varilla y el scooter sobre el caballete central en suelo plano, tal como indica el manual, para no falsear la lectura.",
+        "Deja el motor unos minutos a ralentí antes de salir para que el aceite recorra todo el circuito de engrase, sobre todo en frío.",
+        "Revisa presiones, frenos y alumbrado en las comprobaciones previas diarias que recoge el manual; en un urbano de uso diario se detectan así la mayoría de fallos.",
+        "Entrega el aceite usado en un punto limpio dentro de un recipiente sellado, nunca a la basura ni al suelo."
+      ]
+    },
   },
   // ── BENELLI ──
   {

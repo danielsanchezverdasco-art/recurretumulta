@@ -294,7 +294,7 @@ export const GARANTIAS_MARCAS: GarantiaMarca[] = [
   { marca: "Tinbot", categoria: "motos", anios: null, km: null, nota: "sin datos oficiales", fuente: null },
   { marca: "Tromox", categoria: "motos", anios: null, km: null, nota: "sin datos oficiales", fuente: null },
   { marca: "Vent", categoria: "motos", anios: null, km: null, nota: "sin datos oficiales", fuente: null },
-  { marca: "Wottan", categoria: "motos", anios: null, km: null, nota: "sin datos oficiales", fuente: null },
+  { marca: "Wottan", categoria: "motos", anios: 3, km: 30000, nota: "Garantía de marca según los manuales oficiales de Wottan vigentes en España: 36 meses desde la matriculación o 30.000 km, lo que antes suceda, para fallos de componentes o defectos de fabricación atendidos por el servicio técnico autorizado.", fuente: "https://wottanmotor.com/manuales/es/MANUAL-DE-USUARIO-STORM-S.pdf" },,
   { marca: "Zeeho", categoria: "motos", anios: null, km: null, nota: "sin datos oficiales", fuente: null },
   { marca: "Zontes", categoria: "motos", anios: 5, km: null, nota: "5 años de garantía oficial (3 años en algunos modelos, según la red oficial Zontes España)", fuente: "https://zontescentromadrid.es/motos/zontes/703r" },
   { marca: "MINI", categoria: "coches", anios: 3, km: null, nota: "Garantía legal de 3 años desde la entrega y garantía comercial de reparación MINI de 36 meses sin limitación de kilómetros. Aparte, la batería de alto voltaje tiene garantía comercial de 8 años o 160.000 km si su capacidad cae por debajo del 70 %.", fuente: "https://www.mini.es/content/dam/MINI/marketDSM_ES/mini_es/Services/condiciones-garantia-mini.pdf.asset.1744032423890.pdf" },

@@ -2676,26 +2676,26 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Trail 125 con carnet A1 (o B con 3 años): 15 CV",
-      "Precio oficial 3.595 €: de las trail 125 más baratas",
-      "Depósito de 14 litros: gran autonomía",
-      "Freno CBS de serie: más seguridad",
-      "Estética aventurera muy conseguida",
-      "Fabricada en España"
+      "Puedes conducirla con el A1 y también con el B si ya sumas tres años de permiso",
+      "Figura en esta ficha por 3.595 €, un importe contenido entre las trail de iniciación",
+      "Llenar sus 14 litros permite espaciar bastante las visitas a la gasolinera",
+      "La frenada combinada de serie aporta un plus de aplomo al detenerte",
+      "Su aspecto de aventurera en miniatura convence sin necesidad de exagerar el diseño",
+      "Es un producto de Figueres, ensamblado aquí en España"
     ],
     contras: [
-      "138 kg en seco: pesada para una 125",
-      "15 CV justos para viajar con equipaje",
-      "Acabados sencillos acordes al precio",
-      "Suspensiones básicas para off-road serio",
-      "Vibraciones del monocilíndrico en autopista",
-      "Sin electrónica ni modos de conducción"
+      "En seco declara 138 kg, un registro elevado frente a rivales más ligeras de igual cilindrada",
+      "Esos 15 CV se quedan escasos cuando pretendes rodar cargado en trayectos largos",
+      "La terminación es honesta pero modesta, en línea con lo ajustado de su tarifa",
+      "El conjunto de suspensiones cumple en pista fácil, pero flojea si el terreno se complica de verdad",
+      "En vías rápidas el motor de un solo cilindro transmite temblores molestos al manillar",
+      "No esperes ayudas electrónicas ni programas de motor seleccionables: aquí todo es sencillo y analógico"
     ],
     curiosidades: [
-      "Es la trail pequeña con la que Rieju planta cara a las 125 japonesas",
-      "Su depósito de 14 litros es de los más grandes del segmento",
-      "Rieju la vende también en versión 500 para el A2",
-      "El CBS reparte la frenada entre ambos ejes al accionar la maneta"
+      "Con esta trail de acceso, la casa catalana busca hacerse hueco frente a las propuestas japonesas del octavo de litro",
+      "Pocas motos de su clase ofrecen una capacidad de combustible tan generosa como la de esta Rieju",
+      "La familia Aventura no se detiene en este modelo: existe una hermana mayor pensada para quienes ya tienen el A2",
+      "Al apretar la maneta, el sistema combinado distribuye el esfuerzo de detención entre la rueda delantera y la trasera"
     ],
     imagen: "/media/motos/rieju-aventura-125-2024-ficha-tecnica-precio-1.webp",
     galeria: [

@@ -636,24 +636,24 @@ export const MOTOS_BASE: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: [],
     pros: [
-      "Autonomía de referencia: 262 km declarados, la mayor entre las eléctricas de carnet A1/B",
-      "Prestaciones de moto grande: 132 Nm de par y 139 km/h de punta",
-      "Electrónica Bosch MSC con ABS y control de tracción (ABS en curva opcional)",
-      "App con modos de conducción personalizables, diagnóstico remoto y actualizaciones",
-      "Red de concesionarios en fuerte crecimiento (+58 % en 2025, más de 250 puntos en todo el mundo)",
+      "Con 262 km declarados y una batería de 15,6 kWh, esta naked aguanta varios días de trayectos urbanos sin pasar por el enchufe",
+      "Aunque homologa para el A1 con 11 kW continuos —15 CV en la ficha—, empuja como una moto de cilindrada superior y alcanza 139 km/h",
+      "El conjunto electrónico firmado por Bosch aporta ABS y control de tracción pensados para rodar tranquilo sobre firme cambiante",
+      "Desde el móvil puedes ajustar la respuesta, consultar el estado general y recibir novedades de software sin visitar el taller",
+      "Comprarla y mantenerla resulta más sencillo ahora que la marca ha ampliado mucho su presencia comercial fuera de Estados Unidos"
     ],
     contras: [
-      "Precio: 17.280€, muy por encima de cualquier 125 de gasolina",
-      "Carga lenta de serie (~10 h); la carga rápida es un accesorio caro",
-      "Peso elevado: 223 kg en orden de marcha",
-      "La autonomía real en autopista cae muy por debajo de la declarada",
-      "Coste elevado de reposición de la batería fuera de garantía",
+      "Los 17.280 € de partida la dejan lejísimos de lo que cuesta una 125 térmica equivalente para el mismo carnet",
+      "Si te conformas con el cargador de serie toca esperar unas nueve o diez horas; acelerar ese proceso exige pagar el extra Rapid Charge",
+      "Moverla en parado se nota: son 223 kg, una cifra alta para quien viene de una utilitaria ligera de gasolina",
+      "A ritmo sostenido de autovía la cifra oficial se queda corta y la autonomía útil baja de forma clara respecto a ciudad",
+      "Cuando toque sustituir el paquete de baterías fuera del periodo cubierto, la factura puede resultar especialmente dolorosa para el bolsillo"
     ],
     curiosidades: [
-      "Zero anunció carga rápida en corriente continua (CCS) para 2027, retrocompatible con las S y DS fabricadas desde 2022",
-      "En 2025 Zero creció un 89 % en ventas en Norteamérica y un 17 % en Europa y resto del mundo",
-      "Es la naked eléctrica más potente que se puede conducir con el carnet B convalidado",
-      "La batería tiene 5 años de garantía sin límite de kilometraje",
+      "La marca trabaja en incorporar recarga rápida en corriente continua con conector CCS a partir de 2027, también aprovechable en unidades S y DS posteriores a 2022",
+      "El ejercicio 2025 dejó un salto comercial notable para Zero, con un avance especialmente fuerte en Norteamérica frente a una subida más moderada en Europa",
+      "Entre todo lo que permite llevar el B convalidado en España, pocas naked sin emisiones ofrecen una velocidad punta parecida a sus 139 km/h",
+      "El paquete energético va cubierto durante cinco años sin tope de kilómetros recorridos, un respaldo poco habitual en motos de esta categoría"
     ],
     imagen: "/media/zero-s-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -675,6 +675,23 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteNombre: "Zero Motorcycles (datos de catálogo oficial vía 1000PS)",
     fuenteUrl: "https://services.1000ps.at/PdfCreator/de/motorcyclecatalog/detail/4206-year-2026",
     analisisSlug: "zero-s-vs-can-am-pulse-cual-comprar",
+  
+    mantenimientoDIY: {
+      "aceiteTipo": "No aplica aceite de motor: es eléctrica, sin cambio de aceite ni filtro de aceite. El fluido a vigilar en cada revisión es el líquido de frenos y el estado de pastillas, neumáticos y correa",
+      "cadenaPasos": [
+        "Retira la llave y deja la moto apagada antes de tocar la transmisión, como indica el manual",
+        "Limpia correa y piñones dejándolos secos y libres de grasa o aceite; nunca lubriques la correa como si fuera una cadena",
+        "Revisa visualmente toda la correa buscando grietas, dientes dañados o desgaste y sustitúyela si aparece cualquiera de esos signos",
+        "Comprueba la tensión en el punto medio entre ambos piñones con el probador específico o con la app Gates Carbon Drive, que mide por frecuencia",
+        "Si toca ajustar, afloja la tuerca del eje trasero y mueve ambos lados por igual para mantener la rueda alineada, luego reaprieta y vuelve a medir"
+      ],
+      "intervaloMantenimiento": "Según el manual oficial Zero S/DS MY23: primera revisión a los 1.000 km o al mes; después a los 7.000 km o 6 meses, 13.000 km o 12 meses, 19.000 km o 18 meses, 25.000 km o 24 meses y 31.000 km o 30 meses; desde 37.000 km o 36 meses se repite el ciclo empezando por el escalón de 13.000 km",
+      "trucos": [
+        "Haz la comprobación de tensión siempre desde abajo: el guardabarros trasero estorba si intentas medir por arriba con el probador",
+        "Aprovecha cada revisión para mirar nivel de líquido de frenos y grosor de pastillas, que en una eléctrica duran más por la frenada regenerativa pero no son eternos",
+        "Anota kilometraje y fecha de cada revisión siguiendo la tabla del manual: en una eléctrica casi todo es inspección, y llevar el registro ayuda en garantía y reventa"
+      ]
+    },
   },
   {
     id: "horwin-ek3-ficha-tecnica-precio",
@@ -2139,28 +2156,28 @@ export const MOTOS_BASE: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Equipamiento de serie increíble: maletas, defensas, cubrecárter y caballete central incluidos",
-      "Motor de 15 CV refrigerado por líquido con 6 marchas",
-      "ABS desconectable en 3 modos (ON/OFF/solo trasera OFF): único en su precio",
-      "Depósito de 14 L: gran autonomía",
-      "Asiento a 780 mm: accesible para todas las tallas",
-      "Rueda delantera de 18\" con neumáticos mixtos",
-      "3.499 € con 3 años de garantía",
+      "No hay que gastar más tras comprarla: el lote adventure viene montado, con maletas, defensas y apoyo central",
+      "Aprovecha todo lo permitido en A1 y con el B de tres años de antigüedad: 15 CV de un bloque con refrigeración líquida",
+      "Puedes dejar el ABS activo, anularlo entero o liberar únicamente el tren posterior, algo rarísimo pagando tan poco",
+      "Con 14 litros en el depósito tardas mucho en volver a parar en una gasolinera",
+      "Quien mida poco también llega bien al suelo, porque la banqueta queda a 780 mm",
+      "Delante calza llanta de 18 pulgadas y gomas pensadas tanto para asfalto como para tierra",
+      "Cuesta 3.499 euros y la cobertura oficial se prolonga durante tres años"
     ],
     contras: [
-      "164 kg: pesada para una 125 trail",
-      "Marca española pequeña: red de talleres limitada",
-      "Acabados mejorables frente a japonesas",
-      "El motor no tiene el refinamiento de Honda o Yamaha",
-      "Valor de reventa inferior al de las grandes marcas",
-      "En campo exigente se queda corta frente a una enduro pura",
-      "Disponibilidad de recambios más lenta",
+      "Sobre la báscula marca 164 kilos, cifra alta si pensamos en una octavo de litro campera",
+      "Al ser una firma modesta de Barcelona, fuera de grandes ciudades cuesta encontrar servicio oficial cercano",
+      "Al tacto y a la vista, plásticos y ajustes quedan por debajo del estándar japonés",
+      "La mecánica suena y vibra con menos finura que la de sus rivales de Honda o Yamaha",
+      "Cuando toque venderla de segunda mano, probablemente recuperes menos que con una marca consolidada",
+      "Si el off-road se pone serio, una enduro especializada la deja atrás sin despeinarse",
+      "Pedir ciertas piezas puede implicar esperas más largas que en marcas con almacén enorme"
     ],
     curiosidades: [
-      "Macbor es una marca española de Motos Bordoy, histórico importador de Barcelona",
-      "La EVO 2025 mejoró el motor y añadió detalles camperos manteniendo el precio",
-      "Es la trail 125 mejor equipada de serie por menos de 3.500 €",
-      "Sustituye en este lote a la KTM 125 Adventure, modelo que KTM no fabrica",
+      "Detrás del nombre está Motos Bordoy, importador barcelonés de larga trayectoria que creó su propia enseña",
+      "La revisión EVO estrenada en 2025 pulió la mecánica y sumó guiños aventureros sin encarecer la tarifa",
+      "Difícil encontrar otra trail de octavo de litro tan completa de fábrica sin superar los 3.500 euros",
+      "En esta selección ocupa el hueco de una hipotética KTM 125 Adventure que la firma austriaca nunca llegó a producir"
     ],
     imagen: "/media/motos/macbor-montana-xr1-125-evo-2025-ficha-tecnica-precio.webp",
     galeria: [],
@@ -2169,6 +2186,25 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteNombre: "motorbikemag.es",
     fuenteUrl: "https://www.motorbikemag.es/prueba-macbor-montana-xr1-125-evo-2025-opinion/",
     analisisSlug: null,
+  
+    mantenimientoDIY: {
+      "aceiteTipo": "SAE 10W-40 con especificación API SG, según el manual oficial Macbor: 1,0 L en el cambio solo de aceite y 1,1 L si también se sustituye el filtro.",
+      "cadenaPasos": [
+        "Apoya la moto en el caballete central, sobre una superficie firme y nivelada, antes de intervenir.",
+        "Retira barro y suciedad con un cepillo y un paño de algodón y aplica grasa específica; el manual pide limpiar y engrasar como mínimo cada 500 km.",
+        "Mide la holgura entre la cadena y el basculante girando la rueda trasera y buscando el punto de menor recorrido libre.",
+        "Deja el recorrido libre entre 15 y 25 mm, que es el valor estándar indicado por Macbor.",
+        "Si hay que tensar, afloja la tuerca del eje trasero, actúa por igual en ambos tensores y comprueba que las marcas de cada lado coinciden.",
+        "Aprieta la tuerca del eje trasero a 70-80 Nm y revisa también el desgaste de piñón y corona."
+      ],
+      "intervaloMantenimiento": "Primera revisión a los 1.000 km y después cada 5.000 km, con revisión anual obligatoria si no se alcanza el kilometraje, según la tabla oficial de Macbor; el aceite se cambia cada 5.000 km o 1 año y el filtro de aceite cada 10.000 km o 1 año.",
+      "trucos": [
+        "Comprueba nivel de aceite, refrigerante y presión de neumáticos cada 1.000 km, tal como insiste el manual.",
+        "Tras rodar por polvo, humedad o barro, acorta los plazos: el propio manual pide aumentar la frecuencia de servicio en uso adverso.",
+        "No añadas aditivos químicos ni lubricantes con siliconas: Macbor advierte de que el embrague puede patinar.",
+        "Para conservar la garantía, el manual exige cumplir el plan en la red oficial Macbor y guardar la factura detallada de cada revisión."
+      ]
+    },
   },
   {
     id: "silence-s01-plus-ficha-tecnica-precio",

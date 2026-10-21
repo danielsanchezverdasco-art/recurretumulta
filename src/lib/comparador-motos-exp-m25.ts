@@ -1743,25 +1743,25 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
     pros: [
-      "Versión X con llantas de radios y rueda de 19 pulgadas: más campera",
-      "Bicilíndrico de 698 cc y 70 CV limitable al A2",
-      "Mayor recorrido de suspensiones que la TRK 702 estándar",
-      "Neumáticos mixtos de serie",
-      "Por 8.090 €, trail A2 con auténtico espíritu off-road",
-      "Defensas y cubrecárter de serie",
+      "Delantera de 19 pulgadas montada sobre radios, pensada para devorar pistas sin renunciar a viajar lejos",
+      "Motor de dos cilindros con 70 CV que admite limitación para circular con el A2",
+      "Suspensiones con extra de recorrido frente a su hermana asfáltica, aliadas cuando el firme se rompe",
+      "Sale de tienda calzada con gomas de uso mixto, lista para alternar carretera y tierra",
+      "Con 8.090 € en tarifa, plantea una aventura grande sin disparar el presupuesto inicial",
+      "Protecciones ya montadas al entregarla: barras laterales y plancha bajo el motor vienen incluidas"
     ],
     contras: [
-      "Limitación a 35 kW obligatoria para el A2",
-      "Más alta y pesada que la versión estándar",
-      "En asfalto puro la 702 normal es más ágil",
-      "El asiento alto penaliza a pilotos bajos",
-      "Sin electrónica off-road avanzada",
+      "Quien tenga el A2 deberá conformarse con la versión capada a 35 kW",
+      "Su porte aventurero se traduce en una moto más voluminosa y menos dócil que la 702 de carretera",
+      "Sobre asfalto liso pierde algo de agilidad respecto a su hermana de llantas de aleación",
+      "La altura del conjunto complica llegar bien al suelo si mides poco",
+      "No esperes ayudas electrónicas específicas para campo; su dotación va por lo sencillo y funcional"
     ],
     curiosidades: [
-      "La X es la variante adventure de la TRK 702",
-      "Monta llanta delantera de 19 pulgadas con radios",
-      "El precio oficial la sitúa 600 € por encima de la TRK 702",
-      "Es la Benelli más vendida en el segmento trail medio",
+      "La letra final no es decorativa: marca el salto hacia un uso más campero dentro de la familia 702",
+      "Bajo el logo italiano late ingeniería del grupo QJMotor, y se nota en detalles como la rueda delantera de 19 pulgadas sobre radios",
+      "Su terreno natural es medirse con Honda XL750 Transalp, Suzuki V-Strom 800 y CFMoto 800MT desde una barrera de entrada más amable con el carnet A2",
+      "La diferencia de tarifa frente a la versión de asfalto era de 600 €, un sobrecoste que no frenó su éxito entre las trail medias de Benelli"
     ],
     imagen: "/media/benelli-trk-702x-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -3564,23 +3564,23 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: ["precioDesde", "potenciaKw", "potenciaCv", "autonomiaKm", "bateriaKwh", "costeAnualAproxEur"],
     pros: [
-      "130 km de autonomía declarada: de las mejores de su clase",
-      "105 km/h de velocidad máxima",
-      "10 kW (13,6 CV) de potencia pico",
-      "Doble batería extraíble de 74 V y 27 Ah",
-      "Etiqueta Cero y coste por kilómetro mínimo",
+      "Pensada para enlazar barrios y rondas sin ir justa de carga: anuncia hasta 130 km por enchufe en su cifra declarada",
+      "Corre de verdad fuera del casco urbano, con una punta homologada que se planta en los 105 por hora",
+      "El empuje instantáneo entrega un pico equivalente a 13,6 CV, suficiente para moverte con soltura incluso llevando pasajero",
+      "Lleva dos acumuladores desmontables que puedes enchufar en cualquier toma doméstica, sin depender de un garaje con punto fijo",
+      "Circular sin restricciones te sale muy barato: luce distintivo Cero y el gasto energético de cada trayecto resulta contenido"
     ],
     contras: [
-      "Precio desde 4.799 €",
-      "Peso elevado sin dato oficial publicado",
-      "Marca con menos implantación en el mundo moto",
-      "Tiempo de carga no publicado por la marca",
-      "Estética divisiva: o te encanta o no",
+      "La factura inicial se coloca en 4.799 euros, una barrera seria frente a rivales térmicos equivalentes",
+      "La ficha oficial deja en blanco cuánto pesa, un vacío incómodo si maniobras a menudo en parado",
+      "En España su red motera todavía resulta reducida comparada con fabricantes tradicionales de scooters",
+      "Recuperar ambas baterías exige paciencia y planificación, nada parecido a repostar gasolina en pocos minutos",
+      "Su imagen futurista y angulosa no convence a todo el mundo: hay quien la ve demasiado rompedora"
     ],
     curiosidades: [
-      "Segway, famosa por sus transportadores personales, compite en el segmento 125 eléctrico",
-      "Sus dos baterías suman unos 4 kWh de capacidad",
-      "El E300SE acelera como un scooter de gasolina de 200 cc",
+      "Antes de fabricar motos, esta firma se hizo mundialmente conocida con vehículos de dos ruedas paralelas para desplazarse de pie",
+      "El conjunto energético guarda alrededor de cuatro kilovatios hora repartidos entre ambos módulos extraíbles situados bajo tus pies",
+      "Aunque se conduce con permiso de 125, su salida desde parado recuerda a cilindradas térmicas bastante superiores"
     ],
     imagen: "/media/segway-e300se-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -3618,6 +3618,23 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       ],
       costeAnualAproxEur: 110,
       fuente: "Manual oficial Segway España",
+    },
+  
+    mantenimientoDIY: {
+      "aceiteTipo": "No aplica: es un scooter eléctrico, sin aceite de motor que sustituir ni cadena de transmisión que engrasar",
+      "cadenaPasos": [
+        "Comprobar con regularidad presión, dibujo y posibles cortes en ambos neumáticos, y revisar que las ruedas giren libres sin ruidos",
+        "Revisar pastillas, discos y nivel del líquido de frenos, y acudir al taller si notas tacto esponjoso o pérdida de eficacia",
+        "Mantener limpios y secos los contactos de las dos baterías extraíbles y cargarlas siempre con el cargador suministrado por la marca",
+        "Repasar luces, claxon, caballete, espejos y apriete visible de tornillería, y aplicar las actualizaciones de software cuando la aplicación lo avise",
+        "Cumplir la inspección oficial cada 24 meses o 10.000 km, con revisión general y actualización de software según el plan de la ficha"
+      ],
+      "intervaloMantenimiento": "24 meses o 10.000 km (inspección), según el plan de mantenimiento de la propia ficha basado en el manual oficial de Segway España",
+      "trucos": [
+        "Si la vas a dejar parada una temporada, guárdala con carga parcial y en lugar seco y templado, no completamente descargada",
+        "Alternar el uso de ambas baterías ayuda a que envejezcan de forma pareja y a detectar pronto si una rinde menos",
+        "Una conducción suave, sin acelerones constantes a tope, alarga la autonomía real y cuida frenos y neumáticos"
+      ]
     },
   },
   {
@@ -3803,21 +3820,21 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: ["costeAnualAproxEur"],
     pros: [
-      "235 km de autonomía en ciudad",
-      "150 km/h de velocidad máxima",
-      "Carga completa en 1,4 horas",
-      "5 años de garantía con kilometraje ilimitado",
-      "Par instantáneo y cero vibraciones",
+      "En uso urbano declara 235 km por carga, margen amplio para moverte toda la semana sin depender del enchufe a diario",
+      "La punta se queda en 150 km/h, cifra que le permite afrontar autovía y adelantamientos sin ir forzada",
+      "Recuperar la batería al completo pide 1,4 h, una espera breve frente a lo habitual entre eléctricas de este tamaño",
+      "La cobertura llega a 5 años sin tope de kilómetros, respaldo poco común que también protege el pack de baterías",
+      "Empuja desde parado sin tirones ni rumorosidad mecánica, con una suavidad que en tráfico denso se agradece mucho"
     ],
     contras: [
-      "Precio de 18.710 euros",
-      "163 km de autonomía en autopista",
-      "Peso elevado típico de las eléctricas",
+      "El desembolso inicial, 18.710 euros, la sitúa lejos de naked de combustión equivalentes en planteamiento",
+      "Al salir a vía rápida el alcance baja hasta 163 km, así que los viajes largos exigen planificar paradas",
+      "Como casi toda eléctrica de baterías grandes, la báscula no es su aliada y en parado se nota corpulenta"
     ],
     curiosidades: [
-      "Es la naked de acceso a la plataforma SR de Zero.",
-      "Su precio en Canarias es de 17.200 euros por la fiscalidad.",
-      "El sistema operativo Cypher permite actualizar la moto por software.",
+      "Dentro del catálogo californiano actúa como puerta de entrada a la familia SR, heredando un planteamiento naked sin artificios",
+      "En el archipiélago canario la factura desciende a 17.200 euros, ventaja ligada al régimen fiscal insular más ligero",
+      "Su electrónica admite mejoras remotas mediante Cypher, así la moto puede ganar funciones sin pisar el taller"
     ],
     imagen: "/media/zero-sr-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -3855,6 +3872,23 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       ],
       costeAnualAproxEur: 110,
       fuente: "Manual oficial Zero Motorcycles España",
+    },
+  
+    mantenimientoDIY: {
+      "aceiteTipo": "Sin aceite de motor: es eléctrica y no hay lubricante del propulsor que cambiar; el único fluido con renovación programada es el líquido de frenos, cada 12 meses según el manual",
+      "cadenaPasos": [
+        "Antes de cada salida, echa un vistazo a la correa buscando cortes, grietas o dientes dañados y retira cualquier piedrecilla incrustada",
+        "Límpiala solo con agua y un cepillo suave, déjala siempre seca y lejos de grasas o aceites, que degradan el carbono",
+        "Mide la tensión con la app gratuita Gates Carbon Drive acercando el móvil y pulsando la correa como indica el manual",
+        "Si ajustas la tensión, afloja el eje trasero y mueve ambos lados por igual para mantener la rueda alineada, reapretando después al par indicado",
+        "Apunta la sustitución preventiva a los 37.000 km aunque visualmente parezca sana: es el límite que fija el manual del propietario"
+      ],
+      "intervaloMantenimiento": "Inspección oficial cada 24 meses o 10.000 km según consta en la propia ficha (fuente: manual Zero); el manual del propietario añade cambio de líquido de frenos cada 12 meses y sustitución de la correa a los 37.000 km",
+      "trucos": [
+        "Si va a dormir más de un mes, no la dejes por debajo del 30 % de carga y al despertarla programa una recarga completa de 24 horas, como recomienda el manual",
+        "Revisa nivel de líquido de frenos y presión de neumáticos en cada inspección casera: en una eléctrica son el mantenimiento real del día a día",
+        "Sin embrague, sin marchas y sin aceite, tu rutina se reduce a correa, frenos, neumáticos y actualizaciones de software mediante Cypher"
+      ]
     },
   },
   {
@@ -4932,27 +4966,27 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: ["costeAnualAproxEur"],
     pros: [
-      "Solo 94 kg y centro de gravedad bajísimo: facilísima de mover y de 'ratonear' entre el tráfico",
-      "Frenada con una mordida muy superior a lo habitual en el segmento (discos de 175 mm + CBS en la Active)",
-      "Batería extraíble que se carga en cualquier enchufe doméstico sin instalación",
-      "Comportamiento dinámico casi idéntico al de un scooter de gasolina",
-      "Precio contenido (3.700 €) para ser un Piaggio eléctrico",
-      "Llave electrónica por proximidad, USB, instrumentación LCD y marcha atrás",
+      "Con 94 kg en orden de marcha se aparca, se gira y se cuela entre coches sin pelearse con el manillar",
+      "Detenerse inspira confianza: monta discos de 175 mm y, en la variante Active, frenada combinada CBS",
+      "La batería de 2,3 kWh sale con asa y se enchufa en casa, en el trabajo o donde haya una toma de 220 V",
+      "A pesar del silencio eléctrico, las reacciones recuerdan a un cincuenta tradicional de combustión",
+      "Cuesta 3.700 €, cifra ajustada para un eléctrico con el escudo Piaggio en el frontal",
+      "Arranca sin llave física, ofrece toma USB, pantalla LCD y ayuda de marcha atrás para maniobrar"
     ],
     contras: [
-      "El KERS solo regenera al accionar los frenos y desconecta el motor: imposible acelerar y frenar a la vez en una cuesta",
-      "Suspensiones blanditas con bastante recorrido muerto; imprecisas con piloto pesado",
-      "El modo Eco limita a 30-32 km/h: en la práctica solo se usa en emergencia",
-      "66 km de autonomía en modo Sport, justos para un uso intensivo",
-      "Ergonomía contenida: los pilotos altos van justos de espacio para los pies",
-      "Ruedas de 10 pulgadas, peor para bordillos y baches que una rueda alta",
+      "La recuperación KERS entra únicamente frenando y corta el empuje, así que sostenerla en pendiente mientras frenas resulta imposible",
+      "Amortigua tirando a blando, con un primer tramo poco definido que se nota más si quien conduce pesa mucho",
+      "Elegir Eco deja la punta en torno a 30-32 km/h, útil casi exclusivamente para apurar carga cuando urge llegar",
+      "Declarados 66 km WMTC en Sport: sobran para recados diarios, quedan cortos si encadenas una jornada intensa",
+      "Quien sea alto encontrará la plataforma pequeña y colocará las piernas con poco margen",
+      "Con llantas de 10 pulgadas, baches y bordillos se filtran peor que en un modelo de rueda grande"
     ],
     curiosidades: [
-      "Tiene una edición especial diseñada por el modista Feng Chen Wang",
-      "El cuadro muestra la palabra 'READY' para indicar que el motor está activo, porque no suena nada",
-      "Piaggio ya vendió un scooter eléctrico en los 90: el Zip Bimodal híbrido",
-      "La versión Active se distingue por sus amortiguadores traseros rojos",
-      "Recargar la batería completa cuesta unos 65 céntimos de euro",
+      "Existió una serie limitada con intervención del diseñador de moda Feng Chen Wang",
+      "Como al arrancar no se oye absolutamente nada, el panel avisa con un luminoso READY de que ya puede rodar",
+      "Décadas atrás la marca ya probó la electricidad sobre dos ruedas con aquel Zip Bimodal de planteamiento híbrido, en los noventa",
+      "Reconocerás una Active mirando atrás: lleva los muelles posteriores pintados de rojo",
+      "Una carga entera ronda los 65 céntimos en electricidad doméstica"
     ],
     imagen: "/media/piaggio-1-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -4990,6 +5024,24 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       ],
       costeAnualAproxEur: 110,
       fuente: "Manual oficial Piaggio España",
+    },
+  
+    mantenimientoDIY: {
+      "aceiteTipo": "Sin aceite de motor y sin cadena: es eléctrica, con el motor integrado en la rueda trasera, por lo que no se le aplican las rutinas de un scooter de gasolina",
+      "cadenaPasos": [
+        "Extrae la batería de 15 kg por su asa y revisa que contactos y alojamiento estén limpios, secos y sin holguras",
+        "Comprueba presión, dibujo y posibles cortes en ambos neumáticos, especialmente sensibles por el diámetro de 10 pulgadas",
+        "Mira el nivel del líquido de frenos y el grosor de las pastillas, y verifica que la frenada no presente tacto esponjoso",
+        "Prueba luces, intermitentes, claxon, pantalla LCD, toma USB y funcionamiento de la marcha atrás con el scooter detenido",
+        "Limpia carrocería y zona del buje trasero con paño húmedo, evitando agua a presión directa sobre batería, conectores y motor",
+        "Recarga en enchufe doméstico de 220 V durante unas 6 horas con el cargador suministrado y guarda la batería fuera de temperaturas extremas"
+      ],
+      "intervaloMantenimiento": "Inspección cada 24 meses o 10.000 km, según el plan ya recogido en la propia ficha con fuente Manual oficial Piaggio España; entre revisiones, controles caseros periódicos de frenos, neumáticos, luces y batería",
+      "trucos": [
+        "Si vives en un piso sin garaje, la extracción de la batería resuelve la carga: súbela a casa en lugar de buscar un punto público",
+        "Anota cada carga completa y la autonomía real en Sport y en Eco; una caída llamativa respecto a los 66 km WMTC avisa de degradación",
+        "Antes de un bordillo o un bache acusado, reduce velocidad: con rueda de 10 pulgadas el golpe llega mucho más seco al chasis"
+      ]
     },
   },
   {

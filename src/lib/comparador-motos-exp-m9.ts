@@ -2460,21 +2460,21 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: [],
     pros: [
-      "235 km de autonomía en ciudad",
-      "150 km/h de velocidad máxima",
-      "Carga completa en 1,4 horas",
-      "5 años de garantía con kilometraje ilimitado",
-      "Par instantáneo y cero vibraciones",
+      "Rodando por ciudad anuncia hasta 235 km con cada recarga, margen amplio para encadenar varios días de trayectos sin buscar un enchufe.",
+      "Su punta de 150 km/h le permite afrontar la autovía y los adelantamientos sin sentirse corta de prestaciones.",
+      "Volver al cien por cien le lleva 1,4 h según la propia ficha, una espera asumible durante una parada larga o la jornada laboral.",
+      "La cobertura llega a 5 años y no impone límite de kilometraje, un respaldo poco habitual entre las eléctricas de su clase.",
+      "El motor entrega la fuerza al instante y rodar sin vibraciones ni ruido mecánico se agradece especialmente en tráfico urbano."
     ],
     contras: [
-      "Precio de 18.710 euros",
-      "163 km de autonomía en autopista",
-      "Peso elevado típico de las eléctricas",
+      "El desembolso inicial, 18.710 euros, queda muy por encima de lo que cuesta una naked térmica comparable.",
+      "Al salir a vía rápida la autonomía cae a 163 km, por lo que un viaje largo pide calcular antes dónde recargar.",
+      "Como casi toda eléctrica de su tamaño, acusa la báscula: moverla en parado requiere más esfuerzo del deseado."
     ],
     curiosidades: [
-      "Es la naked de acceso a la plataforma SR de Zero.",
-      "Su precio en Canarias es de 17.200 euros por la fiscalidad.",
-      "El sistema operativo Cypher permite actualizar la moto por software.",
+      "Frente a la S, su hermana menor, esta SR apuesta por más batería y más empuje, y actúa como puerta de entrada a la plataforma grande de Zero.",
+      "Comprarla en Canarias sale por 17.200 euros, diferencia que se explica por la menor carga fiscal aplicada en las islas.",
+      "Con Cypher como sistema operativo, la moto puede evolucionar mediante actualizaciones remotas de software que añaden o ajustan funciones sin visitar el taller."
     ],
     imagen: "/media/motos/zero-sr-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -2496,7 +2496,23 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     fuenteNombre: "Canariasenmoto",
     fuenteUrl: "https://www.canariasenmoto.com/noticias/zero-sr-la-moto-electrica-que-se-adapta-a-tu-carne-de-moto-30161.html",
     analisisSlug: "zero-sr-2025-ficha-tecnica-precio",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      "aceiteTipo": "No lleva aceite de motor ni filtro de aceite: es 100 % eléctrica y su propulsor no pide cambios de lubricante. El fluido que sí se vigila es el líquido de frenos DOT 4 indicado en los manuales Zero; su sustitución corresponde al taller.",
+      "cadenaPasos": [
+        "Con la moto apagada y la llave fuera, revisa la correa de carbono a simple vista y al tacto: busca cortes, dientes marcados, grietas o piedrecillas incrustadas entre la correa y las poleas.",
+        "Límpiala solo en seco, con un cepillo suave o un paño: correa y piñones deben trabajar sin grasa ni aceite, así que jamás la engrases como si fuera una cadena.",
+        "Mide la tensión con la aplicación Gates Carbon Drive, la que recomienda el propio manual de Zero: capta la frecuencia al tañer la correa y la compara con el valor de referencia.",
+        "Si toca ajustar, afloja la tuerca del eje trasero, desplaza ambos lados exactamente lo mismo para conservar la alineación de la rueda, reaprieta y vuelve a medir antes de rodar.",
+        "Si la correa chirría, salta o presenta daños visibles, aparca la moto y pide revisión en un servicio Zero: una correa de carbono dañada no se repara, se sustituye."
+      ],
+      "intervaloMantenimiento": "Programa de los manuales de usuario Zero de la plataforma SR: primera revisión a los 1.000 km o al mes; después, controles a los 7.000 km o 6 meses y a los 13.000 km o 12 meses, repitiendo desde ahí el ciclo de 13.000 km o 12 meses. Antes de cada salida, el manual pide comprobar presiones, frenos y el estado de la correa.",
+      "trucos": [
+        "Haz la rutina previa del manual antes de cada salida: nivel de líquido de frenos en ambos depósitos, tacto de maneta y pedal, presiones de neumáticos y alumbrado.",
+        "Anota en el móvil cada medición de tensión de la correa junto a su kilometraje: detectar una deriva lenta es mucho más fácil con historial que de memoria.",
+        "Después de rodar con lluvia, seca correa y poleas con un paño antes de guardar la moto; el agua no la oxida, pero la suciedad adherida sí acelera el desgaste.",
+        "Deja las actualizaciones de Cypher y cualquier aviso de la electrónica para el servicio oficial: el mantenimiento casero de esta moto es mecánico y visual, nunca de alta tensión."
+      ]
+    },
   },
   {
     id: "silence-s04-l6e-2025-ficha-tecnica-precio",
