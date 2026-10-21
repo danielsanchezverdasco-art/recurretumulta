@@ -1,3 +1,5 @@
+PUBLICANDO: Merlín 23:29 UTC
+
 # 📘 NUEVO (19/10, 08:15 UTC): GUÍA PARA PUBLICAR, POR ORDEN DE DANIEL
 
 Daniel autoriza a Niky y a Merlín a publicar cuando Cosa se quede sin créditos, siguiendo **exactamente** `docs/PUBLICAR-SIN-ERRORES.md` en **main** (commit 8c39f66). Solo publica uno a la vez, nunca dos a la vez. Candado: antes de empezar, escribe `PUBLICANDO: <nombre> <hora UTC>` arriba del todo de este fichero y comprueba que nadie más lo tiene. Al terminar, quítalo.
