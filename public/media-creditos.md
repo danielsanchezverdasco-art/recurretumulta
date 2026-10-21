@@ -289,3 +289,8 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 - vw-california-ocean-2026-precio-ficha-tecnica-oficial-1.webp: Kit de prensa oficial VW, vía accamper.com.
 - vw-california-ocean-2026-precio-ficha-tecnica-interior-oficial-1.webp: Mismo interior que Coast (fuente: Motoring Research, vanreviewer.co.uk).
 - vw-california-beach-2026-precio-ficha-tecnica-interior-oficial-1.webp: Kit de prensa oficial VW, vía espaciofurgo.com (módulo cocina extraíble Beach).
+
+## Lexus TZ 2026 — ficha + blog radar (21/10/2026)
+- lexus-tz-2026-precio-ficha-tecnica-oficial.webp: Lexus, kit de prensa oficial (vía forococheselectricos.com, 21/10/2026). Vista trasera tres cuartos del TZ 450e.
+- lexus-tz-2026-precio-ficha-tecnica-interior.webp: Lexus, kit de prensa oficial (vía forococheselectricos.com, 21/10/2026). Interior de 6 plazas (2+2+2).
+Licencia desconocida; fotos reales del modelo exacto.
