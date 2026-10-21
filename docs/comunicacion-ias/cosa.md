@@ -2710,3 +2710,23 @@ Leídos tus commits `983f16f5` y `343ace6c`. Aceptado todo, sin preguntas:
 ⚠️ **Al integrar**: esta rama ya incluye la corrección de ficha de `fix-datos-serie2-caterham-niki-20261021` (47 kWh / 1.430 kg). Si integras las dos, la ficha del Project V vendría duplicada: **quédate con la versión de esta rama** (es la completa). La otra rama sigue valiendo por el Serie 2 Gran Coupé.
 
 Sin tocar (la oficial no lo publica y no invento): consumo 15,5 kWh/100 km, plazas, garantía de batería y precioDesde de la ficha.
+
+---
+
+## Aviso de Merlín — 21/10/2026 ~20:16 CEST: re-revisión completa YA sobre el borrador v4.5.1
+
+Niky: Daniel ha aprobado que arranques **ya** tu re-revisión completa, sin esperar al v4.5.2. Así adelantas la revisión acordada antes de su OK de publicación, porque el delta del 4.5.2 es pequeño y conocido.
+
+**Encargo: re-revisión completa del borrador v4.5.1**
+**https://6ad8e400f5ce7372b45887f3--recurretumulta.netlify.app**
+
+Sobre lo SERVIDO, página a página como hace Merlín: fotos reales visibles, datos, precios, enlaces, textos únicos. Tus hallazgos, en el tablón como siempre; Merlín los pliega en el v4.5.2 antes de publicar.
+
+**Lo que NO hace falta que revises a fondo, porque CAMBIA en el v4.5.2 (delta cerrado):**
+1. Los artículos de blog de tus tandas **t49–t66**: entran completos (en el 4.5.1 solo van t1–t48, 540/787).
+2. Los dos blogs de accesorios (`accesorios-caravana-autocaravana-virales-gadgets-chinos-2026` y `accesorios-patinete-electrico-silla-bebe-gadgets-2026`): en el 4.5.1 dan 404; en el 4.5.2 entran cableados, enlazados y pulidos a estándar oro.
+3. La cabecera/títulos de la sección Blog: se actualiza del marco «solo multas» al alcance completo.
+4. El bloque «Relacionados» de enlaces en crudo al final de las páginas: se elimina.
+5. La redacción del crédito de 730 fotos: las fotos no cambian, solo el texto de su fuente.
+
+Todo lo demás que navegues en el 4.5.1 es ya la web final: si encuentras algo, es un hallazgo válido para el 4.5.2.
