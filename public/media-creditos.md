@@ -9914,3 +9914,14 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/voge-900-dsx-2026-ficha-tecnica-precio-hunt3.webp | https://soymotero.net/wp-content/uploads/2025/09/Voge-900-DSX.jpg | SoyMotero.net | desconocida |
 | /media/sxt-beast-pro-hunt1.webp | https://sxt-scooters.de/cdn/shop/files/beast_pro_header.jpg?v=1713255175&width=1600 | SXT Scooters (oficial) | desconocida |
 | /media/sxt-beast-pro-hunt2.webp | https://www.maxblinker.com/img/cms/Produkty/SXT%20Beast%20Pro/sxt-beast-11.jpg | SXT Scooters (oficial) vía Maxblinker | desconocida |
+| /media/honda-civic-ehev-2025-precio-ficha-tecnica-hunt1.webp | https://www.zavolantem.cz/wp-content/uploads/2026/01/honda_civic_ehev_2025_01-600x400.jpeg | ZaVolantem.cz (prueba del facelift) | desconocida |
+| /media/honda-civic-ehev-2025-precio-ficha-tecnica-hunt2.webp | https://www.car250.com/wp-content/uploads/2025/12/566766_Honda_Civic_e_HEV_MMC_Press_Images-copy-1-2048x1279-1.webp | Honda (foto de prensa MMC) vía Car250 | desconocida |
+| /media/honda-civic-ehev-2025-precio-ficha-tecnica-hunt3.webp | https://www.zavolantem.cz/wp-content/uploads/2026/01/honda_civic_ehev_2025_14-960x540.jpeg | ZaVolantem.cz (prueba del facelift) | desconocida |
+| /media/skoda-elroq-electrico-precio-ficha-tecnica-hunt1.webp | https://paultan.org/image/2024/10/Skoda-Elroq-74.jpg | Škoda Auto (prensa) vía Paul Tan | desconocida |
+| /media/skoda-elroq-electrico-precio-ficha-tecnica-hunt2.webp | https://www.groupfleet.com/wp-content/uploads/2024/12/elroq_dashboard_1920x1080-1024x576.jpg | Škoda Auto (prensa) vía Group Fleet | desconocida |
+| /media/skoda-elroq-electrico-precio-ficha-tecnica-hunt3.webp | https://cdn.skoda-auto.com/images/sites/frfr-v2/b2d34ff0-7eac-4cc5-a796-32101a4745d6/f69e2def37b817ec743d6b80b47c8390/ModelCharacterGalleryModule/7632a1f0aa516594d6a0e94356eefae7250acf63669750b30971a08237c5496b/Default_bp1920_1.webp | Škoda Auto (web oficial) | desconocida |
+| /media/voge-525dsx-2026-ficha-tecnica-precio-hunt1.webp | https://voge-benelux.com/fr/wp-content/uploads/2026/07/DS525X-%E9%99%A8%E7%9F%B3%E7%81%B0-scaled-e1784532774718.png | Voge Benelux (importador oficial) | desconocida |
+| /media/voge-525dsx-2026-ficha-tecnica-precio-hunt2.webp | https://voge-benelux.com/fr/wp-content/uploads/2026/01/textblock.jpg | Voge Benelux (importador oficial) | desconocida |
+| /media/voge-525dsx-2026-ficha-tecnica-precio-hunt3.webp | https://www.motortravel.it/uploads/2/7/9/1/27911427/voge-valico-525dsx-19_1.jpg | MotorTravel.it | desconocida |
+| /media/emove-cruiser-v2-hunt1.webp | https://www.voromotors.com/cdn/shop/files/DSC06842_2.jpg?v=1759865089&width=1200 | VoroMotors (web oficial) | desconocida |
+| /media/emove-cruiser-v2-hunt2.webp | https://www.voromotors.com/cdn/shop/files/DSC06902_2.jpg?v=1759865089&width=1200 | VoroMotors (web oficial) | desconocida |
