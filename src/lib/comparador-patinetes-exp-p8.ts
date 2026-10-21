@@ -336,25 +336,38 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "Doble suspensión GlideMotion de serie: el Air más cómodo hasta la fecha",
-      "45 km declarados por 399 £: la mejor relación autonomía/precio de Pure",
-      "El más ligero de la gama Air 6 (21,4 kg)",
-      "IP65, 120 kg de carga máxima y 25 km/h limitados",
+      "Pensado para días de lluvia: su sellado IP65 permite seguir rodando cuando otros patinetes se quedan guardados en casa",
+      "La amortiguación GlideMotion en ambos ejes filtra adoquines y juntas de dilatación sin convertirlo en un modelo de ocio",
+      "Con neumáticos tubeless de 10 pulgadas y protección antipinchazos, afronta bordillos urbanos con aplomo y menos paradas imprevistas",
+      "Su pico de 924 W y su tope de 25 km/h encajan con un uso diario tranquilo, admitiendo hasta 120 kg de carga"
     ],
     contras: [
-      "21,4 kg: se nota al subirlo por escaleras",
-      "Sin datos oficiales de batería en Wh ni tiempo de carga",
-      "De momento venta principal en Reino Unido",
-      "Los Pro+/Ultra dan mucho más por poco más",
+      "Aunque es el menos pesado entre sus hermanos de gama, esos 21,4 kg castigan brazos y espalda en tramos de escaleras",
+      "La ficha deja huecos importantes: no publica capacidad de batería en Wh ni cuánto dura una recarga completa",
+      "Entre lo anunciado y el uso cotidiano hay trecho: frente a 45 km oficiales, la estimación realista baja a 30 km",
+      "Para circular por España genera dudas: la velocidad encaja, pero en los datos no consta certificado DGT asignado a esta versión",
+      "Su distribución apunta sobre todo al mercado británico, así que comprarlo aquí puede exigir buscar importador o tienda especializada"
     ],
     veredicto:
-      "El Air 6 es el nuevo superventas de Pure: suspensión doble, 45 km y 399 £. Si el precio en España se mantiene parecido, será la referencia de la gama media 2025-2026.",
+      "Como puerta de entrada a la familia, este Air 6 base apuesta por comodidad y por rodar sin miedo a la lluvia, renunciando al extra de alcance de sus variantes superiores. Encaja si tus trayectos son urbanos y cortos, siempre que asumas su peso al cargarlo y verifiques antes su situación de certificación en España.",
     fuenteNombre: "Pure Electric (oficial)",
     fuenteUrl: "https://www.pureelectric.com/blogs/all/electric-scooter-buying-guide",
     mantenimientoDIY: {
-      presionNeumaticos: "Tubeless antipinchazos: revisar presión mensualmente",
-      actualizacionFirmware: "A través de la app oficial Pure Electric (iOS/Android)",
-      trucos: ["La doble suspensión llevaSilentblocks: revisar holguras cada 6 meses"],
+      "intervaloRevision": "Comprobación antes de cada salida según el manual Pure: tornillería, neumáticos y freno; limpieza con paño húmedo tras el uso y atención a holguras en cierre, mástil y bisagras",
+      "presionNeumaticos": "Mantener entre 36 y 50 psi, rango marcado en el flanco del neumático; con menos presión gana comodidad y con más presión mejora la eficiencia, según el manual Pure",
+      "ajusteFrenosPasos": [
+        "Comprobar antes de salir que el freno de tambor delantero queda correctamente ajustado",
+        "Probar la frenada a baja velocidad antes de incorporarte a la circulación",
+        "Contar con que el regenerativo trasero se reduce si la batería está llena, sobre todo al inicio de una bajada",
+        "Si notas tacto irregular u holgura en maneta, bisagra o mástil, contactar con el soporte de Pure antes de seguir usándolo"
+      ],
+      "aprieteTornilleria": "Repasar en cada salida manillar, bisagra de plegado, frenos y ejes de ambas ruedas, porque las tuercas autoblocantes pueden aflojarse con el tiempo",
+      "actualizacionFirmware": "A través de la aplicación oficial Pure Electric para iOS y Android, que también muestra velocidad, nivel de batería y autonomía estimada",
+      "trucos": [
+        "Si va a estar parado, recargar la batería al menos una vez al mes y guardarlo en un sitio seco, lejos del sol directo",
+        "Limpiar con esponja o paño ligeramente húmedo y secar después; nunca usar hidrolimpiadora ni desengrasantes agresivos",
+        "Dentro del rango indicado, bajar la presión gana comodidad y subirla gana eficiencia"
+      ]
     },
   },
   {
@@ -387,24 +400,38 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "75 km declarados: autonomía de gran turismo por 449 £",
-      "Motor de 1200 W de pico: acelera y sube cuestas sin despeinarse",
-      "Doble suspensión GlideMotion + IP65",
-      "Solo 1,6 kg más que el Air 6 base por 30 km extra",
+      "Recorre hasta 75 km por carga según Pure, con unos 50 km reales estimados: margen de sobra para varios días sin enchufar",
+      "Sus 1.200 W de pico dan salida alegre y encaran rampas urbanas con soltura",
+      "Amortiguación GlideMotion en ambos ejes e impermeabilidad IP65 para rodar tranquilo aunque el asfalto o el cielo fallen",
+      "Admite hasta 120 kg de carga y calza gomas tubeless de 10 pulgadas pensadas para esquivar pinchazos"
     ],
     contras: [
-      "23 kg: ya no es un patinete ligero",
-      "Sin datos oficiales de batería en Wh ni tiempo de carga",
-      "Venta principal en Reino Unido por ahora",
-      "El Ultra da 90 km por 100 £ más",
+      "Con 23 kg cuesta subirlo a un piso sin ascensor o meterlo en el maletero a diario",
+      "La ficha carece de capacidad en Wh y de duración oficial de recarga, dos datos clave para comparar",
+      "No consta certificado DGT en esta ficha: comprueba su homologación antes de circular por vías públicas españolas",
+      "Su comercialización se centra en Reino Unido, así que comprarlo desde España puede complicarse",
+      "Por encima queda el Ultra con mayor alcance anunciado, tentación constante si el presupuesto estira un poco más"
     ],
     veredicto:
-      "El Air 6 Pro+ es el gran rutero de Pure: 75 km y 1200 W por 449 £. Para quien hace 20+ km al día, es la compra más sensata de la gama Air 6.",
+      "Dentro de la familia Air 6, esta Pro+ ocupa el hueco intermedio con criterio: más alcance que la versión básica sin llegar al escalón Ultra. Encaja con quien acumula kilómetros cada semana y valora comodidad, estanqueidad y empuje, asumiendo su peso considerable y la escasa información oficial sobre batería y recarga.",
     fuenteNombre: "Pure Electric (oficial)",
     fuenteUrl: "https://www.pureelectric.com/blogs/all/electric-scooter-weight-limit",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial Pure Electric (iOS/Android)",
-      trucos: ["Con 75 km de autonomía, evita dejarlo meses al 100 %: guárdalo al 60 % si no lo usas"],
+      "intervaloRevision": "Antes de cada salida, chequeo rápido de presiones, frenos, luces, plegado y tornillería; cada mes o 300 km, inspección de neumáticos, cables, cargador y limpieza; cada 6 meses o 1.500 km, revisión completa de seguridad; cada año o 3.000 km, servicio completo con revisión de rodamientos y puntos de plegado, según la guía oficial de mantenimiento de Pure Electric",
+      "presionNeumaticos": "35 psi en la gama Air 6 según la guía oficial de Pure Electric, con neumáticos tubeless de 10 pulgadas; comprueba la presión antes de cada salida, porque rodar fuera de la recomendada afecta a agarre, autonomía y garantía",
+      "ajusteFrenosPasos": [
+        "Antes de salir, aprieta la maneta y comprueba que la respuesta es firme, sin tacto esponjoso ni recorrido excesivo",
+        "Verifica que el freno de tambor delantero esté correctamente regulado, como exige el manual de Pure, y que el freno eléctrico regenerativo trasero actúa al frenar",
+        "Ten en cuenta que con la batería recién cargada al completo la regeneración se reduce para protegerla, sobre todo al iniciar una bajada: el tambor debe estar a punto antes de empezar",
+        "En la revisión semestral o cada 1.500 km, revisa y ajusta ambos frenos; si aparece holgura en maneta, cierre o dirección, deja de usarlo y contacta con el soporte oficial"
+      ],
+      "aprieteTornilleria": "Repasa antes de cada trayecto manillar, bisagra de plegado, frenos y ejes de ambas ruedas; en la revisión de los 6 meses o 1.500 km aprieta la tornillería al par indicado en el manual, porque las fijaciones autoblocantes se aflojan con el uso",
+      "actualizacionFirmware": "A través de la app oficial Pure Electric (iOS/Android)",
+      "trucos": [
+        "Límpialo con un paño o esponja ligeramente húmedos y sécalo después; nunca uses hidrolimpiadora ni productos agresivos, según el manual de la marca",
+        "Si va a estar parado una temporada, guárdalo en sitio seco y alejado del sol directo y recarga la batería al menos una vez al mes",
+        "Con la autonomía real estimada de unos 50 km, planifica la recarga por uso y no por obligación diaria: espaciar enchufes simplifica la rutina sin quedarte tirado"
+      ]
     },
   },
   {
@@ -437,23 +464,36 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "90 km declarados: la máxima autonomía de Pure por 549 £",
-      "Estabilización activa de la dirección: aplomo total a 25 km/h",
-      "Doble suspensión GlideMotion + IP65 + 120 kg de carga",
-      "Motor de 1200 W de pico para cuestas exigentes",
+      "Con 90 km anunciados y unos 60 km reales estimados, encadena varios desplazamientos sin pasar por el enchufe",
+      "El sistema que centra el manillar aporta serenidad cuando el firme se rompe o aparecen baches seguidos",
+      "Conjunto pensado para uso diario duro: GlideMotion en ambos ejes, sellado IP65 y aguante hasta 120 kg",
+      "Su empuje puntual llega a 1.200 W, un extra que se nota al arrancar y al salvar pendientes urbanas"
     ],
     contras: [
-      "Peso no publicado: con esa batería rondará los 25 kg",
-      "Sin datos de tiempo de carga (serán muchas horas)",
-      "Venta principal en Reino Unido por ahora",
-      "Para ciudad pura, el Air 6 base basta y pesa menos",
+      "La ficha no recoge peso oficial, un vacío importante si toca subirlo a pulso por escaleras cada día",
+      "Tampoco figura cuánto tarda en recargar, dato clave en un modelo orientado a cubrir trayectos largos",
+      "Su comercialización se centra en el mercado británico, lo que complica probarlo o comprarlo desde España",
+      "Sin certificado DGT consignado, conviene confirmarlo antes de plantearse circular por vías públicas españolas"
     ],
     veredicto:
-      "El Air 6 Ultra es el larga distancia de Pure: 90 km declarados y dirección estabilizada activamente. Pensado para commuters de extrarradio que quieren olvidarse del cargador varios días.",
+      "Dentro de la familia Air 6, la Ultra apuesta por llegar lejos: 90 km declarados, unos 60 km reales estimados y dirección estabilizada sobre doble suspensión. Antes de decidir, toca aclarar peso, tiempo de carga y certificado DGT, ausentes en la ficha.",
     fuenteNombre: "Pure Electric (oficial)",
     fuenteUrl: "https://www.pureelectric.com/blogs/all/electric-scooter-buying-guide",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial Pure Electric (iOS/Android)",
+      "intervaloRevision": "Comprobaciones rápidas antes de cada salida; revisión mensual o cada 300 km; chequeo completo de seguridad cada seis meses o 1.500 km; servicio completo cada año o 3.000 km, según la guía oficial de Pure Electric",
+      "presionNeumaticos": "35 psi en las cubiertas tubeless de 10 pulgadas de la gama Air 6, según la guía oficial de mantenimiento de Pure Electric; comprobar la presión antes de cada salida",
+      "ajusteFrenosPasos": [
+        "Antes de salir, aprieta la maneta y comprueba que el tacto es firme y la respuesta inmediata",
+        "En el chequeo semestral o a los 1.500 km, revisa y ajusta los frenos dentro de la inspección completa de seguridad",
+        "Si tras el ajuste el tacto sigue blando o aparece recorrido muerto, acude a un servicio autorizado y usa recambios originales"
+      ],
+      "aprieteTornilleria": "Revisar tuercas, tornillos y cierres antes de cada salida, prestando atención a manillar, bisagras de plegado y ruedas; en la revisión semestral, reapretar al par que indique el manual del modelo",
+      "actualizacionFirmware": "Mediante la aplicación oficial de Pure Electric para iOS y Android, como ya recoge la propia ficha",
+      "trucos": [
+        "No apures la batería hasta vaciarla ni guardes el patinete descargado: recarga antes de que baje en exceso",
+        "Carga siempre con el cargador oficial suministrado; un cargador de otro modelo puede dañar la batería",
+        "En la revisión mensual, límpialo con un paño húmedo y revisa cables, cargador y cubiertas en busca de cortes o daños"
+      ]
     },
   },
   {

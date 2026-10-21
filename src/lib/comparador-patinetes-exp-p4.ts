@@ -218,24 +218,40 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     ],
     aprox: ["precioEur", "autonomiaKm", "autonomiaRealKm"],
     pros: [
-      "Motor de 500 W con batería de 48 V y 13 Ah (624 Wh): autonomía seria",
-      "Ruedas neumáticas de 12 pulgadas: pisan baches que otros no",
-      "Doble freno de disco: frenada contundente",
-      "Sillín con respaldo y cesta trasera: el más práctico para recados",
-      "Hasta 150 kg de carga máxima: apto para riders pesados",
+      "Empuje solvente sin disparar el coste: sus 500 W y sus 624 Wh dan recorridos útiles, con 40 km declarados y unos 27 km en uso real",
+      "El diámetro generoso de sus neumáticos hinchables, 12 pulgadas, suaviza baches y bordillos frente a ruedas compactas habituales",
+      "Detenerse no da miedo: monta disco delante y también detrás, con mordida clara cuando aprietas ambas manetas",
+      "Ir sentado cambia el planteamiento: respaldo para la espalda y cesta posterior pensada para encargos cotidianos",
+      "Admite hasta 150 kg sobre el conjunto, margen poco frecuente en este precio para perfiles grandes"
     ],
     contras: [
-      "40 km/h de punta: no es un VMP legal en España sin limitar a 25 km/h",
-      "25 kg: pesado para subirlo a casa a diario",
-      "Diseño de 'bici eléctrica sentada': poco discreto",
-      "Marca china genérica: servicio técnico en España testimonial",
-      "El tiempo de carga oficial no está publicado",
+      "Su punta declarada, 40 km/h, supera el límite de 25 km/h para VMP en España y la ficha no acredita certificado DGT: sin limitación previa no encaja como patinete legal aquí",
+      "Con 25 kg en báscula, cargarlo por escaleras o meterlo en un maletero acaba cansando cada día",
+      "La silueta, cercana a una pequeña bici con asiento, llama la atención y ocupa más que un patinete clásico de pie",
+      "Al tratarse de una firma china de distribución difusa, encontrar taller o recambios en España puede complicarse",
+      "En esta ficha no consta cuánto tarda en recargarse, un dato básico que debería venir claramente publicado"
     ],
     veredicto:
-      "El todoterreno barato de Bogist: 500 W, 624 Wh y ruedas de 12 pulgadas con sillín. Ideal para quien lo quiere todo (carga, asiento, autonomía) por ~429 €, siempre limitado a 25 km/h.",
+      "Propuesta peculiar y barata para quien prioriza ir sentado, cargar peso y rodar cómodo sobre ruedas grandes, a cambio de asumir su volumen. Por 429 € ofrece 624 Wh y doble disco, pero en España su compra solo tiene sentido con la velocidad capada a 25 km/h.",
     fuenteNombre: "ElectricScooterGuides / Usporter (UE)",
     fuenteUrl:
       "https://www.electricscooterguides.com/resources/bogist-m5-pro-electric-scooter-review-a-comprehensive-analysis",
+  
+    mantenimientoDIY: {
+      "intervaloRevision": "Lubricar la guía de plegado y los amortiguadores cada 6 meses según el manual del M5 Pro; antes de cada uso, hacer la comprobación mecánica básica de tornillería, ruedas y presión que indica ese mismo manual.",
+      "presionNeumaticos": "Comprobar antes de la primera salida y de forma periódica después; el valor correcto va indicado en el flanco del neumático, con una orientación habitual de 30-50 PSI recogida en el manual reproducido en Manuals+.",
+      "ajusteFrenosPasos": [
+        "Revisar el desgaste de las pastillas y el estado de los discos en ambos ejes",
+        "Comprobar la tensión del cable: si la línea de freno está floja o la maneta cede demasiado, ajustarla antes de circular",
+        "Limpiar el disco si está contaminado y sustituir los componentes gastados; si aparece un ruido anómalo o un bloqueo, no usarlo hasta revisarlo"
+      ],
+      "aprieteTornilleria": "Antes de usarlo, verificar todos los tornillos y piezas según el manual y reapretar cualquier elemento flojo, con atención especial al plegado, el manillar y las ruedas.",
+      "trucos": [
+        "Recargar con regularidad aunque pase tiempo parado y evitar descargar la batería por completo, guardándola en un sitio fresco y seco",
+        "Limpiar con un paño húmedo, sin chorro a presión ni productos agresivos, y mantener el puerto de carga limpio y seco",
+        "Si se almacena durante mucho tiempo, el manual del M5 Pro pide cargar la batería al menos una vez al mes"
+      ]
+    },
   },
   {
     id: "bogist-m5-pro-s",

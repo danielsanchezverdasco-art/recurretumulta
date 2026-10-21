@@ -127,18 +127,18 @@ export const COCHES_MAEXTRO: CocheComparador[] = [
     cargaRapidaKw: 390,
     etiquetaDgt: "Cero",
     pros: [
-      "Autonomía combinada de 1.333 km: 311 km WLTP eléctricos + extensor 1.5T",
-      "Carga 6C: del 10 al 80 % en solo 10,5 minutos",
-      "Versión de tres motores con 852 CV (de 0-100 en 4,7 s)",
-      "Huawei ADS 4.0 con LiDAR y dirección trasera de 16 grados con modo cangrejo",
-      "Configuraciones de 4 y 5 plazas con nivel de limusina ejecutiva",
+      "Cuando se agotan los 311 km WLTP en eléctrico no toca cazar un enchufe: entra el generador 1.5T, alimenta los motores desde la batería de 65 kWh y estira el recorrido total hasta 1.333 km combinados",
+      "Pese a semejante batería, parar a cargar dura poquísimo: admite 390 kW en continua y su sistema 6C completa el salto del 10 al 80 % en 10,5 minutos",
+      "Empuja como berlina deportiva disfrazada de limusina: 530 CV, 673 Nm y tracción a las cuatro ruedas para firmar 4,9 segundos hasta 100 km/h y 200 km/h de velocidad punta",
+      "Maniobrar sus 5.480 mm engaña menos de lo previsto, porque el tren trasero gira hasta 16 grados, permite avanzar en diagonal al estilo cangrejo y el ADS 4.0 de Huawei lee el entorno apoyado en LiDAR",
+      "Su diana son el Mercedes-Maybach Clase S y el BMW i7, y lo ataca desde atrás: se ofrece para cinco ocupantes o en variante de cuatro butacas ejecutivas independientes, pensada para viajar con chófer"
     ],
     contras: [
-      "Solo se vende en China: no hay red oficial ni homologación en Europa",
-      "Precio de partida de ~92.000 € al cambio (708.000 yuanes)",
-      "2.770 kg de peso: el EREV más pesado de su segmento",
-      "El extensor de gasolina resta pureza al concepto eléctrico",
-      "Marca nueva sin historial de fiabilidad a largo plazo",
+      "Huawei y JAC lo comercializan únicamente en su mercado doméstico, así que en España no hay concesionario HIMA que lo matricule, lo revise o se haga cargo de una avería",
+      "Los 92.040 € de esta ficha salen de convertir 708.000 yuanes, no de una tarifa para nuestro país: sumar transporte, aranceles y homologación individual encarecería mucho traer una unidad",
+      "Sumar batería grande, motores en ambos ejes y un gasolina con su depósito lo plantan en 2.770 kg repartidos en dos metros de anchura: entrar en un garaje comunitario estrecho se convierte en negociación diaria",
+      "Al trabajar el extensor desaparece el silencio absoluto del eléctrico puro y aparece un gasto de 6,39 l/100 km, además de aceite, filtros y bujías que mantener como en cualquier térmico",
+      "Estrena marca, plataforma y generador a la vez: nadie puede acreditar todavía cómo envejecen ese 1.5T ni el conjunto eléctrico tras años de uso, ni qué valor conservará de segunda mano fuera de China"
     ],
     largoMm: 5480,
     anchoMm: 2000,

@@ -445,12 +445,42 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       { alt: "Velocifero MiniMad+ de frente y de espaldas", alto: 1024, ancho: 1024, src: "/media/patinetes/velocifero-minimad-plus-3.webp" },
     ],
     aprox: ["autonomiaRealKm"],
-    pros: ["Diseño italiano que no pasa desapercibido", "Motor de 500 W con chasis reforzado", "Doble freno de disco", "45 km de autonomía declarada", "25 km/h: dentro del límite VMP español", "Se vende en España por 1199 €"],
-    contras: ["Sin certificado DGT verificado", "27 kg para un 500 W", "Tiempo de carga no publicado por la marca", "Carga máxima de 110 kg, justa", "Ruedas de tacos: ruidosas y con más rozadura en asfalto", "Marca de nicho con red de talleres limitada en España"],
-    veredicto: "El MiniMad+ es el patinete con más personalidad del lote: diseño italiano, 500 W y 25 km/h, a la venta en España por 1199 €. Le falta el certificado DGT verificado para circular con total tranquilidad.",
+    pros: [
+      "Silueta de minimoto italiana con sillín: se conduce sentado, con una postura relajada imposible sobre una tabla estrecha",
+      "Las ruedas gordas con tacos le dan agarre y presencia, a medio camino entre skate motorizado y ciclomotor pequeño",
+      "Su propulsor de 500 W mueve el conjunto con soltura sin disparar el consumo ni complicar la mecánica",
+      "Frenada repartida entre dos discos, un planteamiento bastante más serio que el disco único habitual en esta franja",
+      "Declara 45 km por carga y, aun descontando hasta los 30 km reales que recoge esta ficha, sobra para el trayecto diario típico",
+      "Cuesta 1.199 € en España y su punta de 25 km/h no sobrepasa el techo fijado para un vehículo de movilidad personal"
+    ],
+    contras: [
+      "Falta la certificación DGT verificada, así que su encaje legal para circular por España queda en entredicho pese a limitar su velocidad",
+      "Sentado y calzado con ruedas fat, el conjunto pesa 27 kg: cargarlo a un piso sin ascensor se convierte en ejercicio",
+      "La marca no publica cuánto tarda en recargarse, un dato básico que aquí tendrás que descubrir por experiencia propia",
+      "Admite hasta 110 kg entre conductor y equipaje, un margen escaso si eres corpulento o sueles llevar carga encima",
+      "El dibujo de tacos, pensado para lucir y morder fuera del asfalto liso, zumba en ciudad y lastra el rodar sobre pavimento",
+      "Al ser una firma de nicho, localizar taller, recambio o accesorio específico en España exige más búsqueda que con marcas masivas"
+    ],
+    veredicto: "Comprar el MiniMad+ es comprar carácter: una minimoto eléctrica para ir sentado, de ruedas gordas y 500 W, pensada para trayectos cortos con estilo por 1.199 €. Su asignatura pendiente no es el diseño, sino el papeleo: sin certificado DGT verificado, conviene confirmar antes dónde podrás usarla legalmente.",
     fuenteNombre: "Velocifero (oficial)",
     fuenteUrl: "https://www.velocifero.eu/prodotto/minimad-plus-arancione/",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      "intervaloRevision": "El manual consultado no fija un kilometraje concreto en las páginas revisadas: pide mantenimiento periódico frecuente, con comprobación del desgaste de las pastillas de freno y su cambio al llegar al límite de servicio",
+      "presionNeumaticos": "35 PSI en ambas ruedas; el manual indica chequear la presión semanalmente, porque hacerlo alarga la vida del neumático y reduce el consumo de batería. Los neumáticos llevan indicadores de desgaste y la profundidad mínima de banda que recoge el manual es de 1,6 mm",
+      "ajusteFrenosPasos": [
+        "Comprueba primero si la potencia de frenado ha caído, tanto en la maneta izquierda del disco delantero como en la derecha del trasero",
+        "Afloja el tornillo que sujeta el cable del freno que vas a ajustar",
+        "Tensa el cable tirando de él hasta recuperar el tacto buscado",
+        "Vuelve a apretar el tornillo que sujeta el cable y prueba la maneta antes de salir",
+        "Revisa periódicamente las pastillas y, si están demasiado desgastadas o fuera del límite de servicio, sustitúyelas en un servicio autorizado"
+      ],
+      "aprieteTornilleria": "Ambas ruedas se fijan con eje y tuerca: tras cualquier desmontaje, reaprieta la tuerca del eje en sentido horario y verifica que el disco trasero queda dentro de la pinza antes de rodar",
+      "trucos": [
+        "La batería es extraíble: desacopla el seguro del reposapiés, levántalo por completo, pon el interruptor de la batería en OFF y tira del pack para sacarlo del chasis y cargarlo fuera",
+        "Si vas a dejarlo parado mucho tiempo, guarda la batería con carga completa y vuelve a cargarla antes de reutilizar el producto tras una parada larga",
+        "No almacenes la batería cerca de fuentes de calor o fuego y evita tocar sus terminales con las manos mojadas o con elementos metálicos"
+      ]
+    },
   },
   {
     id: "velocifero-vlf-mad-1000w",

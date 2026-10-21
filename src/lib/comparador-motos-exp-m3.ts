@@ -1471,25 +1471,25 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["precioDesde", "velocidadMax"],
     pros: [
-      "Bicilíndrico de 499,6 cc y 47,6 CV: el tope del A2",
-      "Depósito de 20 L: autonomía de gran rutera",
-      "Imagen de maxitrail por precio de media",
-      "Asiento amplio y cómodo para viajar a dúo",
-      "Motor suave y con buena entrega a bajo y medio régimen",
-      "Consumo contenido: unos 4,4 l/100 km",
+      "Con 47,6 CV aprovecha justo el máximo permitido para quien lleva el carnet A2",
+      "Llantas de aleación y planteamiento asfáltico: esta 2024 busca carretera, no la pista de la versión X de radios",
+      "Los 20 litros del depósito alargan los tramos entre repostajes en viajes largos",
+      "Cuesta 6.400 euros, cifra que la planta frente a NX500, 450MT y 500DS con estética de moto grande",
+      "Posición erguida y mucho espacio para piloto y acompañante en escapadas de fin de semana",
+      "Gasta alrededor de 4,4 l/100 km, un dato amable para el bolsillo en uso diario"
     ],
     contras: [
-      "235 kg en orden de marcha: muy pesada",
-      "47,6 CV se quedan justos con pasajero y maletas en autopista",
-      "Suspensiones básicas para el peso",
-      "Sin modos de conducción ni control de tracción",
-      "La instrumentación se ha quedado anticuada",
+      "Sobre la báscula marca 235 kg, lastre que se nota maniobrando en parado y en ciudad",
+      "En autovía cargada y a dúo, los 47,6 CV piden paciencia a la hora de adelantar",
+      "El equipo de suspensiones es sencillo y va justo cuando el ritmo sube",
+      "No hay modos de motor ni ayudas electrónicas que elegir desde la piña",
+      "El cuadro se percibe de otra época frente a rivales más recientes como la Honda NX500"
     ],
     curiosidades: [
-      "La TRK 502 fue la trail más vendida en España varios años",
-      "Su motor bicilíndrico rinde 47,6 CV a 8.500 rpm y 46 Nm a 6.000",
-      "Pesa 235 kg en orden de marcha: como una 1.000",
-      "Benelli la actualizó en 2020 con nueva instrumentación y detalles",
+      "Durante varias temporadas encabezó las listas de ventas de trail en el mercado español",
+      "El bicilíndrico entrega su pico a 8.500 rpm, con 46 Nm disponibles a 6.000 rpm",
+      "Su peso recuerda al de trail de mucha mayor cilindrada, pese a sus 502 cc",
+      "En 2020 recibió un lavado de cara centrado en el cuadro de instrumentos y pequeños remates"
     ],
     imagen: "/media/motos/benelli-trk-502-2024-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -1546,25 +1546,25 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["precioDesde", "velocidadMax"],
     pros: [
-      "Versión X con rueda de 19 pulgadas y llantas de radios: más adventure",
-      "Escape elevado y caballete central de serie",
-      "Depósito de 20 L para largas distancias",
-      "Bicilíndrico suave de 47,6 CV ideal para el A2",
-      "Precio en torno a 6.290 €: la trail A2 adventure más barata",
-      "Buena protección aerodinámica",
+      "Formato adventure auténtico gracias a su llanta delantera de radios de 19 pulgadas, pensada para alternar asfalto con pistas sencillas",
+      "De serie incorpora caballete central y un escape en posición alta, dos detalles muy prácticos cuando toca viajar cargado",
+      "Con 20 L de capacidad, su depósito permite enlazar etapas largas sin parar a repostar cada poco tiempo",
+      "Su bicilíndrico de 502 cc entrega 47,6 CV con una respuesta dócil, perfecta para quien estrena el carnet A2",
+      "Sus 6.290 € la colocan como puerta de entrada al mundo trail frente a rivales como la Honda NX500, la CFMoto 450MT o la Voge 500DS",
+      "La pantalla y el carenado desvían bien el aire en carretera, algo que se agradece en desplazamientos largos"
     ],
     contras: [
-      "235 kg: pesadísima para hacer campo de verdad",
-      "Las suspensiones tienen más recorrido pero siguen siendo básicas",
-      "47,6 CV justos para su peso en autopista",
-      "El ABS no es desconectable",
-      "Asiento alto: 840 mm",
+      "Sus 235 kg en orden de marcha lastran cualquier maniobra fuera del asfalto y también al moverla en parado",
+      "Aunque gana recorrido respecto a la versión asfáltica, el conjunto de suspensiones mantiene un planteamiento sencillo y poco regulable",
+      "En autovía, esos 47,6 CV deben empujar mucho peso, por lo que los adelantamientos exigen planificación y paciencia",
+      "No existe modo de desconectar el ABS, una limitación clara si pretendes adentrarte en tierra con cierta soltura",
+      "Con el asiento situado a 840 mm del suelo, los pilotos de menor estatura llegarán al suelo con dificultad"
     ],
     curiosidades: [
-      "La X añade llantas de radios, rueda de 19 y escape alto sobre la TRK 502",
-      "Su peso en vacío es de 213 kg; en orden de marcha, 235 kg",
-      "Es la Benelli favorita de los viajeros con carnet A2",
-      "El depósito de 20 L da para más de 400 km",
+      "Frente a la TRK 502 de carretera, esta variante X cambia el enfoque con radios, escape elevado y rueda grande delante",
+      "La cifra pasa de 213 kg en vacío hasta alcanzar 235 kg cuando está lista para circular",
+      "Convertida en una superventas dentro de Benelli, marca integrada en QJMotor, es la elección viajera habitual entre motoristas con permiso A2",
+      "Esos 20 L de combustible estiran la autonomía más allá de los 400 km si mantienes un ritmo tranquilo"
     ],
     imagen: "/media/motos/benelli-trk-502x-2024-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -2442,25 +2442,25 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Clásica 250 con 16,9 CV por 3.999 €",
-      "145 kg: muy ligera",
-      "Estética retro británica muy cuidada",
-      "ABS de serie y faro LED",
-      "Consumo de solo 2,8 l/100 km",
-      "Ideal para ciudad con carnet A2",
+      "Se queda en 3.999 €, una puerta de entrada atractiva a las clásicas modernas",
+      "Con 145 kg declarados se mueve con soltura entre el tráfico urbano",
+      "Su imagen rescata códigos británicos de otra época con un acabado convincente",
+      "Frenada con ABS y alumbrado LED incluidos sin pagar extras",
+      "Pensada para quien estrena el permiso A2 y busca algo realmente manejable",
+      "Un propulsor sencillo de 250 cc que no intimida a quien empieza"
     ],
     contras: [
-      "16,9 CV: justita en carretera",
-      "Motor refrigerado por aire: sencillo pero limitado",
-      "Sin electrónica moderna",
-      "El asiento es duro",
-      "Prestaciones modestas para una 250",
+      "Esos 16,9 CV se quedan cortos fuera del entorno urbano",
+      "La refrigeración por aire limita lo que puede dar de sí este bloque",
+      "El equipamiento prescinde de ayudas electrónicas habituales en rivales recientes",
+      "Tras un buen rato, el mullido del asiento pasa factura",
+      "En adelantamientos largos conviene armarse de paciencia por su empuje contenido"
     ],
     curiosidades: [
-      "La Cromwell 250 se llamó antes Saxby 250",
-      "Su motor de 249 cc rinde 16,9 CV a 7.500 rpm",
-      "Homologa solo 71 g/km de CO2",
-      "Es la clásica A2 más barata de Brixton",
+      "Antes de llamarse Cromwell, esta Brixton se comercializó como Saxby",
+      "Forma parte del universo del grupo KSR, la casa austriaca detrás de Brixton",
+      "Su rivalidad natural mira a propuestas como la Royal Enfield Hunter 350",
+      "Lleva la etiqueta C de la DGT y ofrece espacio para dos ocupantes"
     ],
     imagen: "/media/motos/brixton-cromwell-250-2024-ficha-tecnica-precio-1.webp",
     galeria: [

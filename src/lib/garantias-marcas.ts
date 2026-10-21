@@ -298,6 +298,7 @@ export const GARANTIAS_MARCAS: GarantiaMarca[] = [
   { marca: "Zeeho", categoria: "motos", anios: null, km: null, nota: "sin datos oficiales", fuente: null },
   { marca: "Zontes", categoria: "motos", anios: 5, km: null, nota: "5 años de garantía oficial (3 años en algunos modelos, según la red oficial Zontes España)", fuente: "https://zontescentromadrid.es/motos/zontes/703r" },
   { marca: "MINI", categoria: "coches", anios: 3, km: null, nota: "Garantía legal de 3 años desde la entrega y garantía comercial de reparación MINI de 36 meses sin limitación de kilómetros. Aparte, la batería de alto voltaje tiene garantía comercial de 8 años o 160.000 km si su capacidad cae por debajo del 70 %.", fuente: "https://www.mini.es/content/dam/MINI/marketDSM_ES/mini_es/Services/condiciones-garantia-mini.pdf.asset.1744032423890.pdf" },
+  { marca: "Pure Electric", categoria: "patinetes", anios: 1, km: null, nota: "12 meses desde la compra (desde la entrega si es online) para el comprador original, sobre componentes no consumibles frente a defectos de fabricación, con uso y mantenimiento según el manual; si la normativa del país de venta fija otro periodo, se aplica ese, según la política oficial de Pure Electric", fuente: "https://www.pureelectric.com/policies/terms-of-service" },,,
 ];
 
 export function garantiaDeMarca(marca: string, categoria: GarantiaMarca["categoria"]): GarantiaMarca | undefined {

@@ -165,24 +165,24 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: ["precioDesde", "autonomiaKm"],
     pros: [
-      "Motor de 6,4 kW y 95 km/h: prestaciones de 125 por 3.799 €",
-      "Dos baterías extraíbles de 72 V: se cargan en casa o en la oficina sin instalación",
-      "Frenada regenerativa y app NIU con GPS antirrobo y diagnóstico",
-      "Asiento de 760 mm y 127 kg: manejable para cualquier talla",
-      "Sube pendientes del 25%: válido para ciudades con cuestas",
+      "Con 8,7 CV y 95 km/h de punta, rinde como un 125 de gasolina pero sale por 3.799 euros",
+      "Puedes llevarte las dos baterías a casa y recargarlas allí entre 3 y 6 horas, sin obra ni cargador de pared",
+      "Al frenar recupera parte de la energía y, desde el móvil, permite localizarla y revisar su estado",
+      "Pesa solo 127 kg y admite dos ocupantes, una combinación cómoda para moverse y aparcar en ciudad",
+      "Lleva etiqueta Cero y se conduce con el A1 o con el carné B si ya tienes tres años de antigüedad"
     ],
     contras: [
-      "Sin hueco bajo el asiento: las dos baterías ocupan todo el espacio",
-      "100 km de autonomía declarada se quedan en unos 80 km reales a buen ritmo",
-      "Red de servicio NIU más pequeña que la de las marcas japonesas",
-      "La app y la conectividad son de pago a partir del tercer año",
-      "Diseño continuista respecto a la familia NQi",
+      "Olvídate de guardar un casco bajo el sillín: ese hueco lo absorbe por completo el conjunto de baterías",
+      "La autonomía figura como declarada, con 100 km; yendo deprisa lo prudente es planificar la recarga antes",
+      "Encontrar un taller de la marca cuesta más que con fabricantes japoneses asentados desde hace décadas",
+      "Algunas funciones conectadas dejan de ser gratuitas cuando avanza la propiedad, toca revisar condiciones al comprarla",
+      "Su estética sigue la línea ya vista en otros scooters de la casa, sin un salto visual claro para 2025"
     ],
     curiosidades: [
-      "La serie FQi debutó en el EICMA con la promesa de llevar la conectividad NIU a un precio menor",
-      "Las baterías suman 4,03 kWh, más que muchos scooters equivalentes a 125",
-      "Comparte la filosofía de baterías extraíbles con el resto de la gama NIU",
-      "Su nombre rompe con las series M, N y R: la F es la nueva familia urbana",
+      "Su presentación tuvo lugar en EICMA, donde la marca la posicionó como vía de acceso más asequible a sus servicios conectados",
+      "Entre ambos módulos acumula 4,03 kWh, una capacidad generosa dentro de los scooters pensados como alternativa al 125",
+      "Mantener las baterías desmontables la alinea con el planteamiento práctico que recorre todo el catálogo de la firma",
+      "La letra inicial marca distancia frente a las gamas M, N y R, inaugurando una línea pensada para uso urbano"
     ],
     imagen: "/media/motos/niu-fqi-500-2025-ficha-tecnica-precio-1.webp",
     galeria: [

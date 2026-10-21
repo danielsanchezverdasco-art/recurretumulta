@@ -2242,25 +2242,38 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "Ruedas de 11\": las más grandes de su rango, gran confort y estabilidad",
-      "Batería de 624 Wh (48V 13Ah) con 35 km declarados",
-      "Limitado a 25 km/h de serie: respeta el límite VMP español",
-      "Freno de disco con buena mordida para su velocidad",
-      "Suspensión delantera y trasera para firmes irregulares",
-      "Carga máxima de 120 kg y chasis robusto",
+      "El diámetro de 11 pulgadas de sus neumáticos ayuda a rodar con más aplomo y a filtrar mejor las juntas del asfalto urbano",
+      "Acumula 624 Wh de energía, una reserva generosa que sostiene los 35 km de autonomía que anuncia la marca",
+      "Sale de fábrica sin superar los 25 km/h, justo el tope permitido para moverse como VMP en España",
+      "Detenerse no supone un problema: monta freno de disco acorde con su ritmo de circulación",
+      "Amortigua delante y detrás, un plus cuando el trayecto cruza adoquines, tapas o pavimento roto",
+      "Admite hasta 120 kg sobre la plataforma, margen útil para conductores corpulentos o con mochila cargada"
     ],
     contras: [
-      "Sin certificado DGT confirmado; los VMP no certificados solo pueden circular hasta el 22/01/2027",
-      "Sin PVP oficial en euros publicado por la marca",
-      "25 kg: pesado para un 500 W urbano",
-      "Marca con distribución irregular en Europa y postventa limitada",
-      "Diseño y acabados toscos frente a rivales del mismo precio",
-      "Tiempo de carga no publicado por la marca",
+      "Le falta la certificación de la DGT: sin ella, su circulación como VMP tiene fecha límite el 22/01/2027",
+      "Nadie anuncia un precio oficial en euros para comprarlo en España, así que toca fiarse de cada tienda",
+      "Pesa 25 kg pese a conformarse con 500 W, cifra incómoda si toca cargarlo a pulso a diario",
+      "Conseguir recambios o ayuda tras la compra puede costar: su red comercial europea es escasa e intermitente",
+      "La terminación se percibe basta al compararla con alternativas más cuidadas de planteamiento parecido",
+      "La ficha oficial omite cuánto tarda en recargarse por completo, un dato básico que debería constar"
     ],
-    veredicto: "El BOGIST M6 apuesta por ruedas de 11\" y batería generosa respetando los 25 km/h, así que encaja como VMP urbano. Le penalizan la falta de certificado DGT confirmado, los 25 kg y una distribución europea débil.",
+    veredicto: "Como patinete para moverse por ciudad, este M6 convence por diámetro de rueda, reserva de batería de 624 Wh —con unos 23 km reales estimados frente a los 35 km declarados— y doble amortiguación, siempre dentro del límite legal de velocidad. Su compra exige asumir tres renuncias claras: ausencia de certificación DGT acreditada, una masa elevada para subirlo a casa y un respaldo comercial en Europa todavía frágil.",
     fuenteNombre: "Geekbuying (distribuidor oficial BOGIST)",
     fuenteUrl: "https://www.geekbuying.com/item/BOGIST-URBETTER-M6-Electric-Scooter-11-Inch-48V-500W-13AH-25Km-h-Red-519492.html",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      "intervaloRevision": "Antes de cada salida conviene comprobar presión y dibujo de los neumáticos y probar los frenos; la guía oficial de Urbetter pide vigilar ambos puntos de forma regular",
+      "presionNeumaticos": "Mantener la presión en el nivel recomendado para el neumático: circular bajo de presión multiplica los pinchazos, resta agarre y desgasta antes la goma, según la guía oficial de Urbetter. Sin un valor en bares o psi confirmado específicamente para el M6, no se propone una cifra concreta",
+      "ajusteFrenosPasos": [
+        "Comprobar con regularidad que el freno de disco responde con tacto firme antes de empezar a rodar",
+        "Ajustar el freno de disco cuando pierda eficacia o la maneta gane recorrido, siguiendo lo indicado en el manual de usuario",
+        "Acudir a un profesional si hay que desmontar una rueda, porque retirarlas y reparar un pinchazo resulta complicado y un montaje incorrecto compromete la estabilidad"
+      ],
+      "trucos": [
+        "No apurar la batería hasta agotarla del todo: recargar cuando aún conserva algo de carga alarga su vida útil, según Urbetter",
+        "Guardar y cargar el patinete en interior a temperatura ambiente, y desconectar la batería si va a estar parado durante mucho tiempo",
+        "Valorar un líquido sellante antipinchazos: Urbetter lo recomienda para sellar al instante una perforación y poder continuar la marcha minimizando la pérdida de presión"
+      ]
+    },
   },
   {
     id: "nami-burn-e-2-max",

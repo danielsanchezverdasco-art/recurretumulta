@@ -2956,26 +2956,26 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Scrambler bicilíndrica apta para el A2: 47,4 CV y 56,5 Nm",
-      "Nombre con historia: homenaje a la Big Bear Run californiana",
-      "Horquilla invertida Showa de 43 mm y doble amortiguador trasero",
-      "ABS desconectable en la rueda trasera para el off-road",
-      "184 mm de altura libre al suelo: válida para pistas",
-      "Precio de 7.387 €: la scrambler twin más barata",
+      "Motor de dos cilindros pensado para quien tiene el permiso A2, con 47,4 CV disponibles",
+      "Su denominación rescata el espíritu de aquella prueba disputada en California",
+      "Delante monta una horquilla invertida firmada por Showa, con barras de 43 mm",
+      "Permite desactivar el antibloqueo atrás cuando rodamos fuera del asfalto",
+      "Deja 184 mm hasta el suelo, margen suficiente para caminos de tierra",
+      "Cuesta 7.387 euros, una tarifa muy contenida entre las bicilíndricas de estética campera"
     ],
     contras: [
-      "214 kg en orden de marcha: pesada para el campo",
-      "47,4 CV: justa en autopista",
-      "Suspensiones traseras solo regulables en precarga",
-      "Depósito de 13,7 litros",
-      "Los acabados son sencillos frente a la competencia europea",
+      "Con 214 kg lista para circular, moverse entre rocas exige esfuerzo",
+      "En vías rápidas esos 47,4 CV se quedan algo cortos",
+      "Atrás únicamente podrás ajustar la precarga de los amortiguadores",
+      "El tanque admite 13,7 litros, capacidad discreta para rutas largas",
+      "La terminación general resulta básica si la comparas con rivales del continente"
     ],
     curiosidades: [
-      "El nombre viene de la carrera Big Bear Run del desierto californiano",
-      "Eddie Mulder ganó esa carrera con 16 años sobre una Royal Enfield",
-      "Lleva placa portanúmeros como las scrambler de competición",
-      "Comparte el bicilíndrico 650 con la Interceptor y la Continental GT",
-      "Es la primera scrambler bicilíndrica de Royal Enfield",
+      "La inspiración procede de una competición histórica celebrada en pleno desierto de California",
+      "Con apenas 16 años, Eddie Mulder se impuso allí pilotando una máquina de la marca",
+      "Incorpora un portanúmeros lateral que evoca a las motos de carreras de otra época",
+      "El propulsor de 650 cc ya lo conocíamos de la Interceptor, también de la Continental GT",
+      "Nunca antes la firma había ofrecido una propuesta campera con motor de dos cilindros"
     ],
     imagen: "/media/motos/royal-enfield-bear-650-2025-ficha-tecnica-precio-1.webp",
     galeria: [

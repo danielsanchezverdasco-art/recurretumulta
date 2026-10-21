@@ -444,26 +444,26 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: [],
     pros: [
-      "2.699 €: uno de los scooters eléctricos equivalentes a 125 más baratos",
-      "Solo 87 kg: muy manejable en ciudad y fácil de aparcar",
-      "120 km de autonomía declarada, por encima de la media del segmento",
-      "80 km/h de punta: vale para rondas y accesos a la ciudad",
-      "App NIU con GPS, antirrobo y estadísticas de conducción",
-      "Diseño moderno con iluminación full LED",
+      "Su tarifa de acceso, 2.699 euros, lo deja en la zona asequible entre los equivalentes a 125 eléctricos y como alternativa a considerar frente a Silence S01 o Super Soco",
+      "Moverse con él por calles estrechas resulta muy sencillo: declara 87 kg y esa ligereza también ayuda al aparcar en zonas concurridas",
+      "Para el uso diario aguantas varios desplazamientos sin recargar cada noche, porque la marca declara 120 km por carga completa",
+      "Puedes extraer las baterías y llevártelas a casa para enchufarlas a una toma doméstica, una solución práctica si vives en un piso sin garaje propio",
+      "El móvil se convierte en mando a distancia: ubicación en el mapa, aviso antirrobo y datos de cada trayecto quedan accesibles desde la aplicación de la casa",
+      "Su punta de 80 km/h abre la puerta a usar rondas urbanas con desahogo, y el distintivo Cero facilita entrar en áreas con restricciones ambientales"
     ],
     contras: [
-      "4,1 kW: potencia justa para salir a carretera con pasajero",
-      "Acabados mejorables frente a rivales japoneses o europeos",
-      "Sin ABS: frenada combinada CBS como mucho",
-      "La autonomía real cae notablemente a 80 km/h sostenidos",
-      "Red de servicio desigual según la provincia",
-      "El asiento podría ser más cómodo para dos personas",
+      "A dúo y en subidas prolongadas la respuesta del motor se nota contenida, porque los 5,6 CV dan para la ciudad pero no sobran fuera de ella",
+      "En percepción de calidad queda un escalón por detrás de una Vespa Elettrica, sobre todo en plásticos, mandos y ajustes generales",
+      "No cuenta con antibloqueo en la frenada, así que en un apuro dependes del sistema combinado y de tu tacto con las manetas",
+      "Si encadenas tramos rápidos cerca de su velocidad tope, la autonomía útil se acorta bastante respecto a la cifra anunciada",
+      "Antes de firmar conviene localizar el taller oficial más cercano, porque la implantación de la marca no es igual en todas las provincias",
+      "El acompañante puede echar en falta más espacio y un acolchado más generoso en desplazamientos que se alarguen más de lo previsto"
     ],
     curiosidades: [
-      "NIU es el mayor fabricante mundial de scooters eléctricos inteligentes",
-      "La gama NQi fue la primera de NIU en llegar a Europa",
-      "Sus scooters se conectan a la nube y avisan al móvil si alguien los mueve",
-      "El GTS es la versión más prestacional de la familia NQi clásica",
+      "Esta familia fue la carta de presentación de la firma en el continente europeo, mucho antes de que su catálogo se diversificara tanto",
+      "Dentro del apellido NQi, las siglas GTS distinguen a la configuración pensada para quien necesita un extra de empuje fuera del casco urbano",
+      "Permanece enlazado a internet de forma constante y puede alertarte en el teléfono si detecta que alguien intenta desplazarlo sin permiso",
+      "A diferencia de otros eléctricos que fijan el acumulador al chasis, aquí la filosofía pasa por poder transportarlo a mano hasta cualquier enchufe interior"
     ],
     imagen: "/media/motos/niu-nqi-gts-2026-ficha-tecnica-precio-1.webp",
     galeria: [

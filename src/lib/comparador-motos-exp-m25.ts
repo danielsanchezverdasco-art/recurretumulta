@@ -1427,25 +1427,25 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["precioDesde", "velocidadMax", "costeAnualAproxEur"],
     pros: [
-      "Bicilíndrico de 499,6 cc y 47,6 CV: el tope del A2",
-      "Depósito de 20 L: autonomía de gran rutera",
-      "Imagen de maxitrail por precio de media",
-      "Asiento amplio y cómodo para viajar a dúo",
-      "Motor suave y con buena entrega a bajo y medio régimen",
-      "Consumo contenido: unos 4,4 l/100 km",
+      "Entrega exactamente 47,6 CV con 35 kW, el máximo permitido para circular con el carnet A2",
+      "Con 20 litros entre las piernas paras muy poco en escapadas largas y desplazamientos interurbanos",
+      "Frente a la X de radios, esta variante calza llantas de aleación y luce porte de maxitrail, pensada sobre todo para asfalto",
+      "Hay espacio de sobra para dos ocupantes en trayectos prolongados sin pelearse por los centímetros",
+      "El bicilíndrico empuja con progresividad desde abajo, ideal si das el salto desde una moto pequeña",
+      "Gasta alrededor de 4,4 litros cada cien kilómetros, cifra contenida para una trail de este tamaño"
     ],
     contras: [
-      "235 kg en orden de marcha: muy pesada",
-      "47,6 CV se quedan justos con pasajero y maletas en autopista",
-      "Suspensiones básicas para el peso",
-      "Sin modos de conducción ni control de tracción",
-      "La instrumentación se ha quedado anticuada",
+      "Moverla en parado cuesta: declara 235 kilos lista para rodar y se nota en cada maniobra lenta",
+      "Cargada hasta arriba y con acompañante, adelantar en autovía exige anticipación porque esos 47,6 CV no sobran",
+      "El equipo de suspensiones cumple sin alardes y acusa pronto los baches cuando el ritmo sube",
+      "Echo en falta ayudas electrónicas configurables: aquí no hay mapas de motor ni un control que vigile la tracción",
+      "El cuadro conserva un planteamiento veterano frente a pantallas más modernas de la CFMoto 450MT o la Voge 500DS"
     ],
     curiosidades: [
-      "La TRK 502 fue la trail más vendida en España varios años",
-      "Su motor bicilíndrico rinde 47,6 CV a 8.500 rpm y 46 Nm a 6.000",
-      "Pesa 235 kg en orden de marcha: como una 1.000",
-      "Benelli la actualizó en 2020 con nueva instrumentación y detalles",
+      "Durante varias temporadas encabezó las matriculaciones trail en nuestro país, un fenómeno raro para Benelli",
+      "Su techo de potencia llega a 8.500 vueltas, mientras el par máximo de 46 Nm aparece a 6.000 rpm",
+      "Esos 235 kilos la colocan, en báscula, junto a maxitrails de litro pese a ser una A2",
+      "La puesta al día de 2020 retocó sobre todo el cuadro de mandos y pequeños acabados estéticos"
     ],
     imagen: "/media/benelli-trk-502-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -1507,25 +1507,25 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["precioDesde", "velocidadMax", "costeAnualAproxEur"],
     pros: [
-      "Versión X con rueda de 19 pulgadas y llantas de radios: más adventure",
-      "Escape elevado y caballete central de serie",
-      "Depósito de 20 L para largas distancias",
-      "Bicilíndrico suave de 47,6 CV ideal para el A2",
-      "Precio en torno a 6.290 €: la trail A2 adventure más barata",
-      "Buena protección aerodinámica",
+      "Pocas trail pensadas para el A2 igualan su factura de partida: 6.290 €, por debajo de una Honda NX500 en planteamiento comercial",
+      "Delante monta una rueda de 19 pulgadas con llantas de radios, combinación que transmite más confianza cuando el asfalto se rompe",
+      "De serie ya incluye escape elevado y caballete central, dos elementos prácticos para viajar cargado y mantener la moto sin taller",
+      "Los 20 litros del depósito invitan a enlazar etapas largas sin planear cada parada de repostaje al detalle",
+      "Su bicilíndrico de 502 cc rinde 47,6 CV con entrega suave, potencia exacta para moverse legal con el carnet A2",
+      "En ruta se percibe una protección aerodinámica cuidada, detalle que reduce cansancio en desplazamientos largos por autovía"
     ],
     contras: [
-      "235 kg: pesadísima para hacer campo de verdad",
-      "Las suspensiones tienen más recorrido pero siguen siendo básicas",
-      "47,6 CV justos para su peso en autopista",
-      "El ABS no es desconectable",
-      "Asiento alto: 840 mm",
+      "Con 235 kg en orden de marcha resulta voluminosa en maniobras lentas y poco amiga del campo técnico de verdad",
+      "Pese al extra de recorrido, las suspensiones mantienen componentes básicos y se quedan cortas ante un uso campero exigente",
+      "A plena carga, los 47,6 CV se notan justos en autopista cuando toca adelantar con decisión y viento en contra",
+      "El sistema ABS carece de desconexión, algo que penaliza a quien quiera soltarse rodando sobre tierra suelta",
+      "Tocar suelo exige piernas largas: el asiento queda a 840 mm y puede intimidar a pilotos de talla media"
     ],
     curiosidades: [
-      "La X añade llantas de radios, rueda de 19 y escape alto sobre la TRK 502",
-      "Su peso en vacío es de 213 kg; en orden de marcha, 235 kg",
-      "Es la Benelli favorita de los viajeros con carnet A2",
-      "El depósito de 20 L da para más de 400 km",
+      "La letra X resume su receta: radios, rueda alta delantera y silenciador en alto respecto a la TRK 502 estándar",
+      "Hay dos cifras de peso que conviene no confundir: 213 kg en vacío y 235 kg ya lista para rodar",
+      "Benelli, hoy bajo el paraguas de QJMotor, ha hecho de este modelo su superventas entre quienes viajan con el A2",
+      "Entre rivales directas como la CFMoto 450MT y la Voge 500DS, su depósito permite superar los 400 km sin repostar según lo recogido en su ficha"
     ],
     imagen: "/media/benelli-trk-502x-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -2301,25 +2301,25 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
     pros: [
-      "Clásica 250 con 16,9 CV por 3.999 €",
-      "145 kg: muy ligera",
-      "Estética retro británica muy cuidada",
-      "ABS de serie y faro LED",
-      "Consumo de solo 2,8 l/100 km",
-      "Ideal para ciudad con carnet A2",
+      "Entrada asequible al mundo neo-retro: parte de 3.999 €",
+      "Líneas que evocan las británicas clásicas, con acabado convincente",
+      "Solo 145 kg en orden de marcha, muy manejable en parado",
+      "Trae de origen ABS y alumbrado LED",
+      "Gasto contenido, con 2,8 l/100 km declarados",
+      "Propuesta urbana pensada para quien estrena el A2"
     ],
     contras: [
-      "16,9 CV: justita en carretera",
-      "Motor refrigerado por aire: sencillo pero limitado",
-      "Sin electrónica moderna",
-      "El asiento es duro",
-      "Prestaciones modestas para una 250",
+      "Fuera de la ciudad el empuje se queda justo",
+      "La refrigeración por aire marca un techo técnico claro",
+      "Dotación electrónica escueta, sin ayudas de última hornada",
+      "El sillín resulta firme en recorridos prolongados",
+      "Ritmo pausado si se compara con rivales de 250 cc"
     ],
     curiosidades: [
-      "La Cromwell 250 se llamó antes Saxby 250",
-      "Su motor de 249 cc rinde 16,9 CV a 7.500 rpm",
-      "Homologa solo 71 g/km de CO2",
-      "Es la clásica A2 más barata de Brixton",
+      "En una etapa anterior se vendió bajo el nombre Saxby",
+      "El monocilíndrico de 249 cc entrega 16,9 CV al llegar a 7.500 rpm",
+      "La cifra homologada de CO2 se queda en 71 g/km",
+      "Brixton, integrada en el grupo KSR, la sitúa como su retro más accesible"
     ],
     imagen: "/media/brixton-cromwell-250-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -3823,26 +3823,26 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: ["costeAnualAproxEur"],
     pros: [
-      "Solo 131 kg: la Zero más ligera y manejable, casi como una 125",
-      "Batería extraíble: se puede cargar en casa sin garaje con punto de carga",
-      "161 km de autonomía urbana con la batería de 7,2 kWh",
-      "Estética de supermotard, divertidísima en ciudad y carreteras reviradas",
-      "44 CV con entrega inmediata: acelera como motos mucho más grandes",
-      "Ideal como segunda moto o para quien viene de una 125",
+      "Con 131 kg en orden de marcha, cambiar de carril o sortear una rotonda cuesta poquísimo esfuerzo",
+      "El pack de 7,2 kWh se desmonta, así que quien vive en un piso puede recargarlo junto a la mesa del salón",
+      "Hasta 161 km declarados dan margen de sobra para ir y volver al trabajo entre semana sin enchufarla a diario",
+      "Su silueta alta y estrecha, a mitad de camino entre enduro y supermoto, invita a enlazar curvas de puerto a ritmo alegre",
+      "Los 44 CV llegan de golpe al abrir el puño, sin marchas ni embrague que interrumpan el empuje",
+      "Pensada para el A2, encaja tanto en trayectos diarios como en escapadas cortas por pistas sencillas el fin de semana"
     ],
     contras: [
-      "Precio no publicado en España: hay que pedir presupuesto al concesionario",
-      "Autonomía justa para salir de ruta: pensada para ciudad y cercanías",
-      "Sin carenado: en autopista el viento cansa y la autonomía se desploma",
-      "Batería de 7,2 kWh pequeña frente a sus hermanas mayores",
-      "Asiento duro y estrecho para viajes largos",
-      "Red comercial reducida: probar una antes de comprar no siempre es fácil",
+      "En España la ficha deja el precio en blanco, así que tocará contactar con un distribuidor para conocer la cifra final",
+      "Fuera del entorno urbano el alcance se queda corto y obliga a planificar cada salida con el cargador en mente",
+      "Al no llevar pantalla ni protecciones, los tramos rápidos por autovía se hacen incómodos y consumen batería a mayor velocidad",
+      "Frente a otros modelos de la casa, este pack es el más contenido, y eso marca el límite en uso mixto",
+      "El asiento, plano y angosto, castiga la postura cuando el trayecto se alarga más de lo previsto",
+      "La presencia comercial de la marca aquí es escasa, por lo que verla en persona puede exigir desplazarse lejos"
     ],
     curiosidades: [
-      "La FX es la puerta de entrada a la gama Zero con chasis de moto grande",
-      "Su batería extraíble pesa lo suficiente para que hagan falta dos personas o una carretilla",
-      "Comparte filosofía con las supermotard: ligera, alta y nerviosa",
-      "Zero la posiciona como moto urbana con alma de enduro ligera",
+      "Dentro del catálogo eléctrico de la firma, esta variante actúa como escalón de acceso sin renunciar a una parte ciclo adulta",
+      "Desmontar el acumulador no es tarea de una sola persona a la ligera: su masa aconseja ayuda o un carrito auxiliar",
+      "Su planteamiento mezcla dos mundos: agilidad de moto de campo en la ciudad y aplomo juguetón sobre asfalto retorcido",
+      "Zero la define en clave dual: sirve para moverse a diario y también para perderse por caminos sin complicaciones"
     ],
     imagen: "/media/zero-fx-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -3880,6 +3880,25 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       ],
       costeAnualAproxEur: 110,
       fuente: "Manual oficial Zero Motorcycles España",
+    },
+  
+    mantenimientoDIY: {
+      "aceiteTipo": "Sin aceite de motor que cambiar: propulsión eléctrica, sin filtro de aceite ni bujías. El control se centra en líquido de frenos y desgaste de pastillas según inspección",
+      "cadenaPasos": [
+        "Quita el contacto y deja la moto apoyada de forma estable antes de tocar la transmisión",
+        "Revisa visualmente la correa dentada buscando cortes, dientes dañados, grietas o bordes deshilachados",
+        "Comprueba su tensión en el tramo superior siguiendo el procedimiento y el útil indicados en el manual del propietario",
+        "Limpia correa y poleas con agua y un poco de jabón suave; nunca apliques grasa ni aceite sobre la correa",
+        "Si tras una salida por campo queda barro o piedras entre los dientes, retíralos antes de volver a rodar",
+        "Ajusta ambos lados por igual si hay que tensar y verifica de nuevo la tensión tras una breve prueba"
+      ],
+      "intervaloMantenimiento": "24 meses o 10.000 km (inspección), según el plan ya recogido en la ficha con fuente del manual oficial Zero Motorcycles España",
+      "trucos": [
+        "Al ser eléctrica, gran parte del cuidado diario es revisar presiones, frenos y el estado de la correa antes de salir",
+        "Tras rodar por zonas polvorientas o húmedas, una limpieza temprana de la correa alarga su vida útil",
+        "Anota cada inspección de 24 meses o 10.000 km para no saltarte la actualización de software prevista en la revisión",
+        "Nunca lubriques la correa como si fuera una cadena: el manual pide mantenerla limpia y sin grasa"
+      ]
     },
   },
   {
@@ -4462,24 +4481,24 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: ["precioDesde", "autonomiaKm", "costeAnualAproxEur"],
     pros: [
-      "Motor de 6,4 kW y 95 km/h: prestaciones de 125 por 3.799 €",
-      "Dos baterías extraíbles de 72 V: se cargan en casa o en la oficina sin instalación",
-      "Frenada regenerativa y app NIU con GPS antirrobo y diagnóstico",
-      "Asiento de 760 mm y 127 kg: manejable para cualquier talla",
-      "Sube pendientes del 25%: válido para ciudades con cuestas",
+      "Por 3.799 € ofrece 8,7 CV y una punta de 95 km/h, territorio habitual de un scooter de gasolina de 125",
+      "Puedes subirte cada acumulador a casa y enchufarlo allí, sin obra ni punto de recarga comunitario",
+      "Desde el móvil consultas posición, avisos de movimiento y estado general, mientras la retención al soltar gas ayuda a recuperar energía",
+      "Quedarse a 760 mm del suelo y mover solo 127 kg facilita maniobrar en parado a conductores de estatura muy distinta",
+      "Afronta rampas con una inclinación del 25 % sin quedarse clavada, algo útil en barrios altos o garajes complicados"
     ],
     contras: [
-      "Sin hueco bajo el asiento: las dos baterías ocupan todo el espacio",
-      "100 km de autonomía declarada se quedan en unos 80 km reales a buen ritmo",
-      "Red de servicio NIU más pequeña que la de las marcas japonesas",
-      "La app y la conectividad son de pago a partir del tercer año",
-      "Diseño continuista respecto a la familia NQi",
+      "Bajo el sillín no queda sitio libre para guardar un casco, porque ambas baterías se quedan con todo ese volumen",
+      "Si circulas ligero con frecuencia, la cifra declarada de 100 km se recorta en la práctica hasta rondar los 80",
+      "Fuera de las grandes urbes, encontrar un taller de la marca puede obligarte a desplazarte más que con firmas japonesas consolidadas",
+      "Pasado el tercer año, mantener activa la conectividad completa exige pagar, un coste extra a valorar desde la compra",
+      "Su estética apenas se aparta de lo ya visto en parientes cercanos de la casa, sin un golpe visual propio para 2026"
     ],
     curiosidades: [
-      "La serie FQi debutó en el EICMA con la promesa de llevar la conectividad NIU a un precio menor",
-      "Las baterías suman 4,03 kWh, más que muchos scooters equivalentes a 125",
-      "Comparte la filosofía de baterías extraíbles con el resto de la gama NIU",
-      "Su nombre rompe con las series M, N y R: la F es la nueva familia urbana",
+      "Su presentación tuvo lugar en el salón EICMA, donde la marca lo colocó como vía de acceso a su ecosistema conectado",
+      "Entre los dos packs se alcanzan 4,03 kWh, una capacidad generosa si la comparas con rivales directos equivalentes",
+      "Al igual que ocurre en otros modelos del catálogo, aquí también puedes llevártelas contigo para enchufarlas donde quieras",
+      "La letra inicial inaugura familia propia dentro del catálogo, separándose de las denominaciones M, N o R utilizadas hasta entonces"
     ],
     imagen: "/media/niu-fqi-500-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -4518,6 +4537,25 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       costeAnualAproxEur: 110,
       fuente: "Manual oficial Niu España",
     },
+  
+    mantenimientoDIY: {
+      "aceiteTipo": "No aplica: scooter eléctrico sin aceite de motor, sin bujías ni filtro de aire de combustión y sin cadena que engrasar; el líquido de frenos y las pastillas se revisan y sustituyen solo según desgaste en la inspección oficial",
+      "cadenaPasos": [
+        "Con la moto apagada y sobre una superficie plana, extrae los dos acumuladores y examina carcasas, asas y contactos buscando golpes, humedad o suciedad acumulada",
+        "Comprueba presiones, dibujo y posibles cortes en ambos neumáticos, y gira cada rueda en vacío para detectar roces, holguras o ruidos extraños",
+        "Acciona las dos manetas varias veces, revisa el tacto de la frenada, el estado visible de las pastillas y que ninguna luz de freno deje de encenderse",
+        "Enchufa cada batería por separado en una toma doméstica con su cargador original y verifica que el proceso termina dentro del margen de 3 a 6 horas indicado en la ficha",
+        "Pasa un paño suave y seco por el compartimento de las baterías y por los bornes, sin usar agua a presión en esa zona ni en el puerto de carga",
+        "Abre la aplicación de la marca, consulta avisos y diagnóstico, instala las actualizaciones disponibles y anota fecha y kilometraje de cada control casero"
+      ],
+      "intervaloMantenimiento": "Inspección en servicio oficial cada 24 meses o 10.000 km, lo que antes ocurra, según el plan ya registrado en el propio objeto de esta ficha con fuente Manual oficial NIU España; entre visitas, controles caseros periódicos de frenos, neumáticos, luces y baterías",
+      "trucos": [
+        "Planifica las recargas completas con margen: la ficha sitúa el proceso entre 3 y 6 horas, así que dejarlas enchufadas durante la jornada laboral o por la noche evita quedarte a medias",
+        "Retira siempre los acumuladores antes de lavar el scooter y no vuelvas a enchufar nada hasta comprobar que contactos y puerto están completamente secos",
+        "Si va a estar parado una temporada, guárdalo en un lugar seco y ventilado y revisa el nivel de carga de ambos packs antes de volver a circular",
+        "Lleva un registro sencillo con presiones, frenos y cualquier aviso de la aplicación: llegar a la inspección oficial de los 24 meses o 10.000 km con ese historial facilita detectar desgastes anómalos"
+      ]
+    },
   },
   {
     id: "niu-nqi-gts-2025-ficha-tecnica-precio",
@@ -4541,26 +4579,26 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: ["costeAnualAproxEur"],
     pros: [
-      "2.699 €: uno de los scooters eléctricos equivalentes a 125 más baratos",
-      "Solo 87 kg: muy manejable en ciudad y fácil de aparcar",
-      "120 km de autonomía declarada, por encima de la media del segmento",
-      "80 km/h de punta: vale para rondas y accesos a la ciudad",
-      "App NIU con GPS, antirrobo y estadísticas de conducción",
-      "Diseño moderno con iluminación full LED",
+      "Por 2.699 euros entra de lleno entre las opciones eléctricas asequibles para moverse a diario sin gastar gasolina",
+      "Con 87 kilos resulta sencillo maniobrar entre coches y aprovechar huecos pequeños a la hora de aparcar",
+      "Promete recorrer hasta 120 kilómetros por carga según dato declarado, margen amplio para trayectos urbanos diarios",
+      "Alcanza 80 por hora, suficiente para enlazar circunvalaciones y vías de acceso sin quedarse corto",
+      "Desde el teléfono puedes localizarla, recibir avisos antirrobo y consultar cómo has conducido gracias a su aplicación",
+      "Quitar las baterías y enchufarlas en casa resuelve la recarga aunque vivas sin garaje propio"
     ],
     contras: [
-      "4,1 kW: potencia justa para salir a carretera con pasajero",
-      "Acabados mejorables frente a rivales japoneses o europeos",
-      "Sin ABS: frenada combinada CBS como mucho",
-      "La autonomía real cae notablemente a 80 km/h sostenidos",
-      "Red de servicio desigual según la provincia",
-      "El asiento podría ser más cómodo para dos personas",
+      "Sus 5,6 CV se quedan escasos cuando toca mantener ritmo fuera de ciudad llevando acompañante",
+      "Al lado de una Silence S01 o una Vespa Elettrica, ciertos plásticos y ajustes transmiten sensación más sencilla",
+      "No equipa ABS, así que en frenadas fuertes dependes únicamente de la frenada combinada",
+      "Si circulas mucho rato cerca de su techo de velocidad, la autonomía útil se resiente claramente",
+      "Dependiendo de dónde vivas, encontrar servicio oficial cercano puede costar más que con marcas tradicionales",
+      "Está homologada para dos ocupantes, aunque en trayectos largos el pasajero agradecería mullido y espacio extra"
     ],
     curiosidades: [
-      "NIU es el mayor fabricante mundial de scooters eléctricos inteligentes",
-      "La gama NQi fue la primera de NIU en llegar a Europa",
-      "Sus scooters se conectan a la nube y avisan al móvil si alguien los mueve",
-      "El GTS es la versión más prestacional de la familia NQi clásica",
+      "La familia NQi marcó el desembarco europeo de la firma, y esta variante GTS ocupa su escalón dinámico",
+      "Permanece enlazada a internet y te avisa al instante si detecta movimientos sospechosos estando aparcada",
+      "Frente a Super Soco y otros urbanos enchufables, su baza diferencial está en unas baterías que se transportan a mano",
+      "Lleva distintivo Cero de la DGT, ventaja práctica para circular y estacionar en zonas con restricciones"
     ],
     imagen: "/media/niu-nqi-gts-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -4598,6 +4636,25 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       ],
       costeAnualAproxEur: 110,
       fuente: "Manual oficial NIU España",
+    },
+  
+    mantenimientoDIY: {
+      "aceiteTipo": "No aplica: propulsión eléctrica sin aceite de motor ni bujías de encendido. El líquido de frenos se inspecciona en cada revisión y se sustituye cada 2 años; los latiguillos hidráulicos se renuevan cada 4 años, según el manual",
+      "cadenaPasos": [
+        "Comprueba presión y dibujo de ambos neumáticos y busca cortes o un desgaste irregular",
+        "Revisa el funcionamiento de luces, intermitentes, claxon y mandos antes de salir",
+        "Controla el estado del líquido de frenos y el grosor de las pastillas en ambas ruedas",
+        "Aprieta la tornillería accesible de manillar, ejes y soportes si notas holguras o vibraciones",
+        "Limpia y lubrica el caballete lateral y el central, tal como prevé la tabla oficial",
+        "Inspecciona baterías, cables visibles y puño del acelerador; ante cualquier fallo, acude al servicio oficial"
+      ],
+      "intervaloMantenimiento": "Primera inspección tras los 1.000 km iniciales; después, controles cada 3.000 km, revisión más amplia cada 6.000 km y al menos una vez al año (lo que llegue antes), según la tabla del manual de usuario del NQi GTS",
+      "trucos": [
+        "Mantén la carga habitual entre el 20 % y el 80 % para cuidar la batería, consejo recogido en el manual",
+        "Usa siempre el cargador original y carga en un lugar ventilado, nunca con el puerto de carga húmedo",
+        "Evita cargar por debajo de 0 °C y detén la carga si tras 12 horas no se ha completado",
+        "Registra fecha y kilometraje de cada inspección: mantener la garantía exige cumplir el plan previsto"
+      ]
     },
   },
   {
