@@ -2862,3 +2862,29 @@ Bloque 5 de las clónicas terminado y subido. Rama **`unicidad-fichas-niki-b5`**
 **No completadas, sin inventar:** historia vacía por no verificable en Segway Max G3 Pro, Navee V40i Pro, Zero 10X y Dualtron Mini Special; mantenimiento sin fuente pública verificable en QJMotor SRK 400 y varias marcas chinas de nicho.
 
 Siguiente paso de tu lado: integrar/revisar la rama; la publicación, con el OK de Daniel como siempre.
+
+## Niky → Merlín (nota 23, 22/10 ~05:00) — Unicidad: BLOQUE 4/6 CERRADO (131/131)
+
+Bloque 4 de las clónicas terminado y subido. Rama **`unicidad-fichas-niki-b4`** @ `f8f3d36b3` (13 commits desde `main` @ `16a6aea48`; push verificado con ls-remote por ref completa). Alcance: posiciones 394–524 de `clonicas.csv` (grupos G20–G71): 60 coches · 53 motos · 18 patinetes. Sin tocar `main`, sin publicar nada.
+
+**Validación:**
+- `npx tsc -b --force` exit **0**.
+- Solape de 7-gramas (método de la auditoría): mediana **17,8 % → 0,8 %**, máximo **100 % → 4,3 %**, **131/131 por debajo del 10 %**.
+- Piezas: mantenimiento nuevo con fuente en **66 fichas** (costes `null` sin tarifa oficial, nunca inventados); **EuroNCAP: 5 entradas verificadas** en fichero nuevo `src/lib/euroncap-b4.ts` (Peugeot e-308 4★ 2022, Smart #1 5★ 2022, Smart #3 5★ 2023, Smart #5 5★ 2025, VW ID. Buzz GTX 5★ 2022); garantía: +4 marcas netas en `garantias-marcas.ts` (287→291).
+- Detalle: `~/workspace/unicidad-fichas/reporte-b4-merlin.md` + `progreso-b4.csv` + `b4-medicion-final.json`.
+
+**Decisión que debes conocer al integrar:** las EuroNCAP de furgonetas (Citroën Jumper 5★, Opel Vivaro 4★, Peugeot Expert 4★, todas 2025) se RETIRARON: son del programa de vehículos comerciales (medallas Safe Driving/Crash Avoidance/Post Crash, sin las 4 sub-puntuaciones de turismos). Quedan honestamente «sin datos EuroNCAP»; si quieres, la medalla comercial puede ir como campo aparte en otra pasada. Mini Countryman E también quedó «sin datos» pese a existir test: recuperable en pasada de datos.
+
+**Incidencias resueltas dentro del bloque (constan en el reporte):** bug del aplicador con comentarios `//` que omitía sustituciones en silencio (cluster NIO + Leapmotor C11 EREV: corregido, re-aplicado y re-medido, NIO de 28–30 % a <4,3 %); `planMantenimiento` duplicado 2–3 veces en los NIO (deduplicado); comas acumuladas en `garantias-marcas.ts` (limpiado); Xiaomi SkyNomad N70 Max es un COCHE SUV EREV, no un patinete (convertido su DIY a `planMantenimiento`).
+
+**Banderas de datos en main (NO corregidas, para la pasada de datos):**
+1. **JAC A5 Plus: `precioDesde` = 5.000.000 €** (erróneo).
+2. QJMotor SRK600 2025 contiene datos del SRK 702; SRK600-2025 ↔ SRK 600-2026 candidata a fusión 301. Zero S 2025 ↔ Zero S sin año: duplicado probable, fusión 301.
+3. Keeway RKV 125C 2024: sin precio y autonomía imposible (500 km con 13 L); depósito contradictorio (13 vs 15 L).
+4. Gotrax GX2: objeto contradictorio (frenos hidráulicos vs mecánicos, autonomía 40 vs 30 km).
+5. Wuling Bingo S: precio de un anuncio de Alibaba sin verificar (24.439 €). Maextro S800 EREV sin precio; Baojun Xiangjing EV precio dudoso.
+6. Falsedades retiradas al reescribir: IM LS7 afirmaba «5 estrellas EuroNCAP» (el testado es el IM6); ID. Buzz GTX «hasta 7 plazas» con `plazas: 5`; trío Cupra e-Hybrid 204 con contra falso «sin carga rápida en continua» teniendo `cargaRapidaKw: 50`.
+
+**Bloqueadas honestas:** mantenimiento/garantía/EuroNCAP `null` en modelos sin venta oficial en España/Europa (Oshan, Venucia, Baojun, Maextro, Neta, Sehol…); EuroNCAP `null` con solo C-NCAP. Baojun Xiangjing PHEV: plan construido desde el EV + guías del motor PHEV (regla de modelo similar), costes `null` — revisar criterio al integrar.
+
+Siguiente paso de tu lado: integrar/revisar la rama; la publicación, con el OK de Daniel como siempre. Con este van **2 bloques cerrados de 6 (b4 + b5 = 262/787 fichas clónicas)**.
