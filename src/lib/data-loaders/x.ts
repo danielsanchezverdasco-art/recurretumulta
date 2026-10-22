@@ -45,6 +45,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "xpeng-p7-2025-nueva-generacion-precio-ficha-tecnica": () => import("../blog-posts-batch2b-6.ts"),
     "xpeng-p7-2025-precio-autonomia": () => import("../blog-posts-lote11.ts"),
     "xpeng-p7-electrico-precio-ficha-tecnica": () => import("../blog-posts-motor-nuevos-f.ts"),
+    "xpeng-p7-nueva-generacion-europa-confirmado-2026": () => import("../blog-posts-radar-20261022.ts"),
     "xpeng-p7-plus-long-range-2026-precio-ficha-tecnica": () => import("../blog-posts-nuevos-c2.ts"),
     "xpeng-p7-plus-standard-range-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp12.ts"),
     "xpeng-x9-2026-precio-europa": () => import("../blog-posts-xpeng-a.ts"),

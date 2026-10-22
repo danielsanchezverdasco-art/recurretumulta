@@ -104,6 +104,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "nissan-townstar-evalia-ev-2026-precio-ficha-tecnica": () => import("../blog-posts-nissan-a.ts"),
     "nissan-x-trail-e-4orce-2026-precio-ficha-tecnica": () => import("../blog-posts-nissan-a.ts"),
     "nissan-x-trail-e-power-2026-precio-ficha-tecnica": () => import("../blog-posts-nissan-a.ts"),
+    "nissan-z-kaze-concept-t-top-2026": () => import("../blog-posts-radar-20261022.ts"),
     "niu-fqi-500-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m14.ts"),
     "niu-fqix-150-2026-ficha-tecnica-precio": () => import("../blog-posts-nuevos-m1.ts"),
     "niu-fqix-300-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m5.ts"),

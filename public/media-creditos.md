@@ -289,3 +289,12 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 - vw-california-ocean-2026-precio-ficha-tecnica-oficial-1.webp: Kit de prensa oficial VW, vía accamper.com.
 - vw-california-ocean-2026-precio-ficha-tecnica-interior-oficial-1.webp: Mismo interior que Coast (fuente: Motoring Research, vanreviewer.co.uk).
 - vw-california-beach-2026-precio-ficha-tecnica-interior-oficial-1.webp: Kit de prensa oficial VW, vía espaciofurgo.com (módulo cocina extraíble Beach).
+- mg2-2027-precio-ficha-tecnica-oficial.webp: Concept MG Go (Goodwood 2026), vía drivespark.com (https://www.drivespark.com/four-wheelers/2026/mg-go-cyber-concepts-revealed-at-goodwood-festival-of-speed-087471.html). Licencia desconocida.
+- mg2-2027-precio-ficha-tecnica-oficial-2.webp: Concept MG Go trasera (Goodwood 2026), vía topelectricsuv.com. Licencia desconocida.
+- mg2-2027-precio-ficha-tecnica-hero.webp: Copia de la oficial (concept MG Go).
+- cupra-raval-vz-custom-abt-2026-hero.webp: Kit de prensa Cupra (Raval VZ Custom by ABT), vía autonocion.com (https://www.autonocion.com/cupra-raval-by-abt/). Licencia desconocida.
+- cupra-raval-vz-custom-abt-2026-detalle.webp: Kit de prensa Cupra (Raval VZ Custom by ABT, trasera con spoiler ABT), vía autonocion.com. Licencia desconocida.
+- xpeng-p7-2025-nueva-generacion-europa-hero.webp: Kit de prensa XPeng (nuevo P7 2ª gen), vía evmagz.com. Licencia desconocida.
+- xpeng-p7-2025-nueva-generacion-europa-2.webp: Kit de prensa XPeng (nuevo P7 2ª gen en marcha), vía drive.gr. Licencia desconocida.
+- nissan-z-kaze-concept-2026-hero.webp: Kit de prensa Nissan USA (Z Kaze concept, ZCON 2026), vía wsupercars.com. Licencia desconocida.
+- nissan-z-kaze-concept-2026-detalle.webp: Kit de prensa Nissan USA (Z Kaze concept lateral), vía wsupercars.com. Licencia desconocida.

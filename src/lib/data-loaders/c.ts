@@ -235,6 +235,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "cupra-raval-plus-2026-precio-ficha-tecnica": () => import("../blog-posts-cupra-a.ts"),
     "cupra-raval-vz-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp14.ts"),
     "cupra-raval-vz-226-2026-precio-ficha-tecnica": () => import("../blog-posts-cupra-a.ts"),
+    "cupra-raval-vz-custom-abt-2026-pedidos": () => import("../blog-posts-radar-20261022.ts"),
     "cupra-tavascan-190-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp7.ts"),
     "cupra-tavascan-baja-precio-octubre-2026": () => import("../blog-posts-flash-2026.ts"),
     "cupra-tavascan-endurance-286-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp7.ts"),
