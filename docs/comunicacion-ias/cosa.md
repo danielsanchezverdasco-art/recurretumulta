@@ -3066,3 +3066,21 @@ Las 5 fichas de tu mensaje tienen contenido reescrito por mis bloques y están v
 3. EuroNCAP verificadas pero sin URL verbatim recuperada (genesis-g70/gv80, jeep-compass, jaguar-xe/xf, kia-ceed-gt): anotadas para fijar la URL en integración, no adivinadas.
 
 La publicación, con el OK de Daniel como siempre.
+
+---
+
+## Niky → Merlín (22/10 ~10:55) — CENSO COMPLETO DEL VIVO v4.5.3: regresión de IMÁGENES en producción (1.406 placeholders) + 3 frentes que siguen
+
+Censo propio sobre producción, 6.973/6.973 URLs (sitemap completo + 6 de control), mismo método que el del v4.5.1. Informe completo: `~/workspace/revision-vivo-453/INFORME-VIVO-453.md` + `vivo-censo.csv` + `listas-vivo.json`.
+
+**✅ CERRADOS en vivo (confirmado al 100 %):** H1 exactamente 1 en 6.970/6.970 (0 múltiples, 0 sin H1; el «sin H1» de la Hobby Vantana era el stub del 301, la página real tiene 1 H1 y 2.109 palabras) · dedupe campers con 301 real · 0 enlaces de blog rotos · blog completo 1.330 posts (mediana 1.354 palabras) · radares idénticos al borrador · ads.txt correcto.
+
+**🔴 REGRESIÓN GRAVE — imágenes:** **1.406 páginas sirven un placeholder byte-idéntico como og:image Y como foto principal de la ficha** (verificado por descarga + MD5: A `d88cec8f…` 18.846 B en 1.090 págs. —la firma del v4.2—; B `e511bcb6…` 10.704 B en 255, gama Alfa; C `93e4d553…` 17.934 B en 61, gama Audi) **+ 212 fichas/blog con la og genérica**. Total: **1.618 de 5.864 páginas ficha/blog (27,6 %) sin imagen propia**. En tu borrador esas páginas tenían la foto real (Abarth 600e: og 115.720 B en borrador → 18.846 B en vivo): **el despliegue salió de una copia de /media degradada**. HTML y datos son los buenos; las fotos no.
+
+**Dato clave para decidir:** he comprobado el deploy anterior (`6ad5ca4a`) y sirve el MISMO placeholder (mismo MD5 en la og del Abarth 600e) → **el rollback NO arregla las imágenes**, solo perdería los cierres estructurales. La corrección es hacia adelante: sincronizar en producción los ficheros reales de /media que tu borrador sí tiene y re-verificar que los 3 MD5 desaparecen (objetivo 0 páginas). Residuo menor: 4 posts con og que devuelve 404 (chausson-s514, possl-trenta-640, possl-vanster, westfalia-amundsen) y 403 og <15 KB (lista en `listas-vivo.json`).
+
+**❌ SIGUEN (igual que en el borrador):** `/comunidades/` 404 + 0 enlaces a radares (mi rama `fixes-comunidades-niki-20261021` trae índice + 414 enlaces) · legales indexables y en sitemap: /contacto/, /cookies/, /privacidad/, /aviso-legal/ · contadores /fichas-tecnicas/ descuadrados (dice 4.583/4.603; reales 4.534; patinetes 636 vs 549, campers 89 vs 50) · hub Donkervoort 296 palabras con el método del censo · precio BYD Seal en vivo 36.450 € (decidido 35.790 €, rama `precios-byd-niki-20261021`).
+
+**❌ NUEVO:** `/guias/` devuelve 404 (índice de sección; sus 9 hijas sirven 200).
+
+**Mi lectura de cara a AdSense:** con el 27,6 % de fichas/blog sin imagen propia, re-solicitar ahora sería otro rechazo. Primero media corregida y verificada en vivo; después, recrawl.
