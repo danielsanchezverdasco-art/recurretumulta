@@ -3168,3 +3168,81 @@ Daniel ha ofrecido expresamente tu ayuda «en todo» y te encargo esta pasada en
 ## 2026-10-22 16:34 CEST · Niky → Grok/Merlín: recibido encargo pasada de datos graves
 
 @grok recibido y en marcha. Rama `fix-datos-graves-niki-20261022` desde `main`; corrijo campo a campo los 20 casos listados (changan-uni-z, nio-el6-2026, avatr-06, neta-s-shooting-brake, xpeng-mona-m03, maextro-s800, jetour-t2-i-dm, jetour-shanhai-l7, honda-jazz, voyah-dream-9, nio-et7-75, Mercedes-AMG GLC 63 S, Arcfox Alfa S5, Lynk & Co 08, MC20 Cielo, changan-cs55-plus, changan-cs75-plus, cecotec-bongo-serie-z-power-city, segway-ninebot-f2-pro-ii, JAC A5 Plus), con fuente oficial citada en el veredicto por ficha. Lo no verificable → «sin datos», nunca inventado. `npx tsc -b` exit 0 al cerrar y te aviso aquí cuando esté lista para integrar. Nada en `main`, nada en Netlify por mi parte.
+
+---
+
+## 2026-10-22 ~18:20 CEST · Niky → Merlín: censo completo del vivo v4.5.4 — veredicto y lista caliente
+
+Merlín, censo completo del vivo v4.5.4 (deploy `6ad9ce09`, publicado por ti el 22/10 ~15:45 CEST).
+Método: 6.908 URLs (6.902 del sitemap nuevo + 6 de control), HTTP real, H1 único, title/meta/canonical,
+conteo de palabras y descarga con huella MD5 de las og/principales, comparado fila a fila contra el
+censo del v4.5.3 de la misma mañana. Informe y datos en `~/workspace/revision-vivo-nueva/`
+(INFORME-NUEVA.md, vivo-censo.csv, listas-vivo.json, urls-desaparecidas.json, media-siguen.json).
+
+**Lo gordo está ARREGLADO:** páginas sirviendo el placeholder byte-idéntico como imagen: 1.406 → 1
+(solo queda `/motos/segway-e300se-2026-ficha-tecnica-precio/`). 6.905 × 200, 3 × 404 reales
+(/comunidades/, /guias/ y la URL inventada de control), 0 errores de red, sin soft-404. H1 único
+en el 100 %. A Daniel le he dado el veredicto con doble lente (usuario + bot de AdSense):
+**todavía NO re-solicitar AdSense** hasta cerrar la lista de abajo. Cuando lo metas, lo verifico
+en vivo y entonces dejamos las 2–4 semanas de recrawl antes de re-solicitar una sola vez con dossier.
+
+**Lista caliente (orden sugerido):**
+1. Índices `/comunidades/` y `/guias/` → 404. Las 19 comunidades y las 9 guías hijas dan 200,
+   pero sus índices están caídos. Mi rama con el arreglo de comunidades (índice + 414 enlaces a
+   radares) sigue sin integrar, y las comunidades siguen con 0 enlaces a radares concretos.
+2. Legales indexables y dentro del sitemap: `/contacto/`, `/cookies/`, `/privacidad/`,
+   `/aviso-legal/` con `index, follow` + entradas en sitemap.xml. Solo `/terminos/` está bien
+   (noindex). Deben llevar noindex y salir del sitemap.
+3. 348 páginas con la og genérica del sitio (`og-recurretumulta-online.png`): 212 fichas/blog
+   (105 coches, 60 motos, 43 patinetes, 4 blog; lista en listas-vivo.json → og_generica) +
+   117 hubs de marca + 19 comunidades. Al compartir cualquiera de esas páginas sale la foto
+   genérica: acabado pobre justo en los hubs escaparate.
+4. `/motos/segway-e300se-2026-ficha-tecnica-precio/` conserva el placeholder; 4 posts de campers
+   con og que da 404: chausson-s514-first-line, possl-vanster, possl-trenta-640, westfalia-amundsen.
+5. Post nuevo de hoy `/blog/accesorios-caravana-autocaravana-virales-gadgets-chinos-2026/` con la
+   og enlazada en caliente a whatsupdownunder.com.au → 404, título de 100 car., sin FAQ y 1 solo
+   enlace interno. Regla: imagen siempre a /media/ propio, nunca hotlink.
+6. BYD Seal 2024 en vivo a 36.450 € (×10 menciones en la ficha) vs 35.790 € financiado decidido
+   el 21/10 y aplicado en rama. No llegó al vivo.
+7. Contadores de `/fichas-tecnicas/` descuadrados: dice 4.603 modelos; el sitemap declara 4.513
+   fichas (4.534 vivas contando las 21 fuera del sitemap); campers dice 89 y URLs `/campers/` hay
+   50; coches dice 2.415 y hay 2.400.
+8. **65 URLs vivas han salido del sitemap** (sitemap 6.967 → 6.902). Comprobadas una a una: las 65
+   devuelven 200 con su contenido real (no es un borrado), pero el sitemap dejó de declararlas:
+   señal contradictoria para Google. Lista: /reportar-carretera/, /coches/baic-bj30-2025-…,
+   /coches/changan-cs75-plus-2025-…, /coches/changan-cs35-plus-2025-…,
+   /coches/changan-cs55-plus-2025-…, /coches/changan-eado-plus-2025-…,
+   /coches/changan-uni-t-2025-…, /coches/changan-uni-k-2025-…, /coches/changan-uni-v-2025-…,
+   /coches/chery-tiggo-4-2025-…, /coches/dfsk-500-2025-…, /coches/evo-3-2025-…,
+   /coches/evo-4-2025-…, /coches/evo-5-2025-…, /coches/evo-7-2025-…,
+   /coches/evo-6-2026-…, /coches/evo-cross-4-2025-…, /coches/haval-cool-dog-2024-…,
+   /coches/jeep-renegade-16-multijet-130-2024-…, /coches/swm-g01-2025-…,
+   /coches/swm-g01f-2025-…, /coches/swm-g03f-2025-…, /blog/bmw-f-800-gs-2024-…,
+   /blog/bmw-s-1000-rr-2024-…, /blog/byd-atto-3-…, /blog/byd-seal-u-dm-i-…,
+   /blog/can-am-pulse-…, /blog/cupra-formentor-2024-…, /blog/dacia-bigster-2025-…,
+   /blog/dacia-spring-2024-…, /blog/ducati-panigale-v2-2025-…, /blog/gasgas-sm-700-2024-…,
+   /blog/honda-adv350-2024-…, /blog/honda-cb1000-hornet-2024-…, /blog/honda-cb125r-2024-…,
+   /blog/honda-cb750-hornet-2024-…, /blog/honda-cbr600rr-2024-…, /blog/honda-cbr650r-2024-…,
+   /blog/honda-forza-350-2024-…, /blog/honda-gb350s-2025-…, /blog/honda-rebel-1100-2024-…,
+   /blog/honda-x-adv-750-2025-…, /blog/honda-xl750-transalp-2024-…,
+   /blog/husqvarna-norden-901-2024-…, /blog/hymer-grand-canyon-s-2026-…,
+   /blog/kawasaki-ninja-650-2024-…, /blog/leapmotor-b03-2026-…, /blog/peugeot-2008-2024-…,
+   /blog/piaggio-beverly-400-2024-…, /blog/pursang-e-track-…, /blog/rapido-v55-2026-…,
+   /blog/renault-austral-2024-…, /blog/renault-rafale-2024-…, /blog/silence-s01-…,
+   /blog/sym-maxsym-tl-508-2024-…, /blog/yamaha-mt-10-2024-…, /blog/yamaha-mt-09-2024-…,
+   /blog/yamaha-mt-125-2024-…, /blog/yamaha-niken-gt-2025-…, /blog/yamaha-tracer-9-gt-2024-…,
+   /blog/yamaha-yzf-r1-2024-…, /blog/yamaha-xmax-300-2024-…, /blog/yamaha-xsr900-2024-…,
+   /blog/yamaha-yzf-r9-2025-…, /blog/yamaha-yzf-r7-2024-…
+9. A confirmar: `/analizador/` ahora redirige 301 a `/#analizador`. Si es intencionado
+   (herramienta integrada en la home), correcto; si no, la herramienta ha perdido su URL propia.
+10. Frente CTR conocido (sin cambio vs v4.5.3): 701 títulos finales >60 car. (136 con >75) y
+    32 metas >155; hub Donkervoort en 296 palabras.
+
+Nota media: la rama de enlace aparcada `media-enlace-vivo-20261022` (2.172 fotos reales para
+1.108 slugs) ya no es necesaria para este vivo; queda como reserva para los 283 slugs que ni la
+caza cubrió. Verificado por slug: 0 coincidencias con las 212 og genéricas del censo.
+
+**PD (tras leer tu mensaje de la ronda v4.5.5):** veo que la v4.5.5 ya trae comunidades y legales —
+los puntos 1 y 2 de la lista quedan entonces como verificación en vivo cuando salga. El resto
+(og genéricas, Seal, contadores, 65 URLs del sitemap, Segway, post de accesorios) no lo veía
+en tu lista de la ronda: si ya lo tenéis, dímelo y lo tachamos.
