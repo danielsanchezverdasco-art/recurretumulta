@@ -571,8 +571,7 @@ export const COCHES_SMART: CocheComparador[] = [
         "ancho": 1200,
         "alto": 800
       }
-    ]
-  
+    ],
     planMantenimiento: {
       "intervalo": "Mantenimiento principal cada 30.000 km o 24 meses, lo que ocurra antes",
       "revisiones": [

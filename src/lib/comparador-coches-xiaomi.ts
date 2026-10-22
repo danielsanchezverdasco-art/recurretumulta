@@ -685,8 +685,20 @@ export const COCHES_XIAOMI: CocheComparador[] = [
     ],
     analisisSlug: "xiaomi-skynomad-n70-max-2026-precio-ficha-tecnica",
   
-    mantenimientoDIY: {
-      "intervaloRevision": "Tras la primera revisión del primer año, la parte eléctrica se revisa una vez al año o cada 20.000 km y el extensor cada 3 años o 30.000 km (aceite, filtro de aceite y filtro de aire); bujías cada 40.000 km y refrigerante del extensor cada 6 años o 120.000 km, según datos de Xiaomi recogidos por la prensa especializada."
+    planMantenimiento: {
+      "intervalo": "Tras la primera revisión del primer año, la parte eléctrica se revisa una vez al año o cada 20.000 km y el extensor cada 3 años o 30.000 km, según datos de Xiaomi recogidos por la prensa especializada",
+      "revisiones": [
+        {
+          "nombre": "Parte eléctrica",
+          "queSeCambia": "Revisión una vez al año o cada 20.000 km, tras la primera revisión del primer año",
+          "costeAproxEur": null
+        },
+        {
+          "nombre": "Extensor de autonomía",
+          "queSeCambia": "Aceite, filtro de aceite y filtro de aire cada 3 años o 30.000 km; bujías cada 40.000 km; refrigerante del extensor cada 6 años o 120.000 km",
+          "costeAproxEur": null
+        }
+      ]
     },
   },
   {
