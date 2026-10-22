@@ -1556,18 +1556,18 @@ export const COCHES_EXP14: CocheComparador[] = [
     cargaRapidaKw: 101,
     etiquetaDgt: "Cero",
     pros: [
-      "380 km de autonomía WLTP por 38.050 €",
-      "Maletero de 466 litros más frunk de 27 litros",
-      "Consumo de 14,6 kWh/100 km: eficiente en ciudad",
-      "Carga rápida de 101 kW en corriente continua",
-      "4 estrellas EuroNCAP del Kona (2023)",
+      "Es la puerta de entrada al Kona eléctrico: 38.050 € con 380 km WLTP y batería de 48,4 kWh",
+      "Detrás caben 466 litros y bajo el capó delantero quedan otros 27 para los cables, con banqueta abatible en proporción 40:20:40",
+      "Homologa 14,6 kWh/100 km, una cifra baja que en el uso urbano cotidiano aleja las visitas al cargador",
+      "En un poste de corriente continua pasa del 10 al 80 % en 41 minutos, y su función V2L puede alimentar aparatos externos de hasta 3,13 kVA",
+      "Hyundai cubre el coche durante cinco años sin límite de kilómetros, y la batería queda protegida ocho años con tope de 160.000 km"
     ],
     contras: [
-      "135 CV y 9,9 s de 0-100: el menos potente de la gama Kona",
-      "Sin prueba EuroNCAP específica de la versión eléctrica",
-      "La versión de 204 CV ofrece más por poco más",
-      "Hyundai no publica el porcentaje de degradación garantizado",
-      "Carga en alterna limitada a 7,2 kW en el acabado básico",
+      "Con 135 CV mueve 1.690 kg y firma 9,9 segundos hasta los 100 km/h: cumple en ciudad, sin que le sobre empuje en incorporaciones con el coche cargado",
+      "Se quedó en cuatro estrellas Euro NCAP en 2023, con solo un 60 % en asistencias a la seguridad: el organismo dijo que rozó las tres estrellas",
+      "La batería grande de 65,4 kWh eleva el alcance homologado hasta 510 km, así que estos 380 km encajan mejor en el trayecto diario que en los viajes largos",
+      "Los asistentes cansan en el uso real: las pruebas del modelo tachan de intrusivo el mantenimiento de carril y de insistente el aviso de atención al conductor",
+      "Toda la gama eléctrica es de tracción delantera, sin opción a las cuatro ruedas motrices, y su velocidad punta se corta a 162 km/h"
     ],
     largoMm: 4355,
     anchoMm: 1825,
@@ -1598,5 +1598,28 @@ export const COCHES_EXP14: CocheComparador[] = [
       },
     ],
     analisisSlug: "hyundai-kona-electrico-135-2025-precio-ficha-tecnica",
+    euroncap: {
+      "ano": 2023,
+      "estrellas": 4,
+      "nota": "La segunda generación del Kona, probada en diciembre de 2023, obtuvo cuatro estrellas, calificación que Euro NCAP aplica también a la versión eléctrica: 80 % en ocupantes adultos, 83 % en infantiles, 64 % en usuarios vulnerables y 60 % en asistencias",
+      "url": "https://news.euroncap.com/safercars/latest-news/safety-must-come-first-as-big-and-bold-suvs-continue-to-hit-the-market/s/406f5446-2a99-45ff-adc8-b4b6d2cb7403"
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Manual del propietario del Hyundai Kona Electric (2024): servicio periódico importante bienal o a los 30.000 km, con renovación bienal del líquido de frenos",
+      "intervalo": "Revisión cada dos años o 30.000 km recorridos, lo primero que llegue, según el manual del Kona Electric",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión periódica bienal del Kona Eléctrico",
+          "queSeCambia": "Inspección del sistema de alto voltaje y del estado de la batería de 48,4 kWh, sustitución del filtro del habitáculo y comprobación de frenos, neumáticos y niveles"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Renovación bienal del líquido de frenos",
+          "queSeCambia": "El manual del Kona Electric marca cambiar el líquido de frenos en ciclos de dos años, coincidiendo con esa misma visita periódica al taller"
+        }
+      ]
+    },
   },
 ];

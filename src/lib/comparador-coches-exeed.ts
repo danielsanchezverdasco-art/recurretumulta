@@ -201,18 +201,18 @@ export const COCHES_EXEED: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "Motor 2.0T de 261 CV y 400 Nm con cambio 7DCT",
-      "Batalla de 2.800 mm: habitáculo muy amplio para 5 pasajeros",
-      "Maletero de 450 a 1.456 litros abatiendo asientos",
-      "Precio al cambio desde unos 19.200 € en China",
-      "Versiones con tracción total disponibles",
+      "Es la versión larga del TX de 2019: en China se llama Lingyun y estira la batalla de 2.697 a 2.800 mm sobre la plataforma M3X de Chery y Magna",
+      "Su Acteco F4J20C de dos litros rinde 261 CV y empuja con 400 Nm ya desde 1.750 rpm, muy por encima del 1.6T de 197 CV con el que nació la gama",
+      "Los primeros 400T montaban un doble embrague húmedo de siete marchas firmado por Getrag; el rediseño posterior pasó este motor al automático 8AT de ocho velocidades desarrollado por Chery",
+      "En la prueba china C-NCAP de 2021 firmó un 93,6 % global y cinco estrellas, la mejor puntuación entre los SUV medianos evaluados allí ese año",
+      "Las versiones recientes agrupan la instrumentación y el multimedia en una doble pantalla curva que suma 24,6 pulgadas, gobernada por un Snapdragon 8155 con sistema Lion 5.0 y carga inalámbrica de 50 W para el móvil"
     ],
     contras: [
-      "No se vende en España ni en Europa",
-      "Consumo elevado en uso real para un gasolina",
-      "El DCT puede resultar brusco a baja velocidad en ciudad",
-      "Sin versión electrificada verificada en la gama TXL",
-      "Sin red de posventa en Europa",
+      "Se comercializa en China, Rusia, Chile o Emiratos, pero ningún importador lo ofrece en España: comprarlo aquí exigiría una importación individual sin red detrás",
+      "Ninguna variante lleva hibridación, así que en España se quedaría con la etiqueta C de la DGT pese a declarar hasta 8,2 l/100 km WLTC según la versión china",
+      "Las cifras cambian según el mercado: la unidad vendida en Chile rendía 245 CV y 385 Nm, lejos de los 261 CV y 400 Nm que anuncia la ficha china",
+      "La electrificación de esta misma base llegó tarde y con otro nombre: el ET5 de autonomía extendida presentado en 2025, no como una variante más del TXL",
+      "Cambia de nombre según el país (Lingyun, TXL, Xtrim en Irán o MX en el último rediseño), lo que complica localizar manuales, recambios e información fiable de cada versión"
     ],
     largoMm: 4780,
     anchoMm: 1885,
@@ -228,16 +228,15 @@ export const COCHES_EXEED: CocheComparador[] = [
     imagen: "/media/exeed-txl-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 12.8,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.58,
-      seguroTercerosAnual: 480,
-      seguroAmpliadoAnual: 850,
-      mantenimientoAnual: 380,
-      costeMensualTotal: 232,
-      notas:
-        "Estimación con 15.000 km/año y consumo WLTC de 7,1 l/100 km (cifra china NEDC/WLTC, el real será mayor).",
-      estimado: true,
+      "costeEnergia100km": 12.8,
+      "costeMensualTotal": 232,
+      "estimado": true,
+      "mantenimientoAnual": 380,
+      "notas": "Cálculo hecho sobre el 400T de esta ficha: gasolina pagada a 1,58 €/l para recorrer cada año 15.000 km quemando los 7,1 l/100 km declarados. Otras versiones chinas homologan en ciclo WLTC hasta 8,2 l/100 km, así que el gasto real de combustible puede superar lo estimado aquí.",
+      "precioGasolinaL": 1.58,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 850,
+      "seguroTercerosAnual": 480
     },
     galeria: [
       {
@@ -260,6 +259,18 @@ export const COCHES_EXEED: CocheComparador[] = [
       },
     ],
     analisisSlug: "exeed-txl-2025-precio-ficha-tecnica",
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: este modelo nunca ha sido probado por el organismo europeo. Su única referencia de choque es la china C-NCAP, donde en 2021 obtuvo cinco estrellas con un 93,6 % global.",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Sin pauta de Exeed/Chery localizada para Europa; no se trasladan los intervalos de otros mercados ni los de otros modelos del grupo",
+      "intervalo": "Sin intervalo oficial publicado para España: este gasolina no se comercializa aquí y Exeed no ha difundido una pauta europea de revisiones para el TXL",
+      "revisiones": []
+    },
   },
   {
     id: "exeed-vx-2025-precio-ficha-tecnica",
@@ -367,18 +378,18 @@ export const COCHES_EXEED: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
-      "610 CV y 920 Nm: 0-100 km/h en 5,0 segundos para un 7 plazas",
-      "180 km de autonomía eléctrica CLTC con batería CATL de 34,5 kWh",
-      "1.300 km de autonomía total con el depósito de 70 litros",
-      "Configuraciones de 6 y 7 plazas, con butacas de capitán con masaje",
-      "Etiqueta Cero de la DGT por sus más de 40 km eléctricos",
+      "El 1.5TGDI SQRH4J15 trabaja en ciclo Miller con un 44,5 % de eficiencia térmica y, sumando tres motores eléctricos y la caja DHT de 3 velocidades, el conjunto entrega 610 CV y 920 Nm",
+      "La batería CATL de 34,5 kWh anuncia 180 km eléctricos en ciclo CLTC y admite carga rápida: pasa del 30 al 80 % en unos 22 minutos",
+      "Combinando esa batería y el depósito de 70 litros supera los 1.300 km de alcance total, pensado para viajar sin planificar paradas de carga",
+      "La tercera fila se abate eléctricamente hasta quedar plana y la configuración de 6 plazas monta dos butacas independientes con calefacción, ventilación y masaje en la fila central",
+      "Triple pantalla bajo un mismo cristal (12,3 + 15,6 + 12,3 pulgadas), sonido Lion Melody de 23 altavoces y cristal doble en las ventanillas delanteras"
     ],
     contras: [
-      "Aún no llega a Europa; preventa en China desde 239.900 yuanes",
-      "Batería NMC (no LFP) con degradación más acusada a largo plazo",
-      "2.280 kg de peso en vacío",
-      "Precio estimado al cambio superior al del VX de gasolina",
-      "Sin red de servicio en España",
+      "Exeed no lo comercializa en Europa: se lanzó en China el 27 de marzo de 2025, tras una preventa abierta en Riad, y España carece de importador oficial de la marca",
+      "El precio chino bajó entre la preventa y el lanzamiento, de 239.900 a 209.900 yuanes, así que cualquier conversión a euros hecha con la cifra de preventa quedó desfasada",
+      "Pesa 2.280 kg en vacío y su masa máxima alcanza 2.805 kg: en ciudad y en curvas cerradas manda la inercia, no la cifra de potencia",
+      "Con la batería descargada homologa 6,88 l/100 km, de modo que quien no lo enchufe a diario pierde gran parte del ahorro frente al VX de gasolina",
+      "Su velocidad máxima queda en 180 km/h, una punta discreta para un SUV que declara 610 CV y tracción total permanente"
     ],
     largoMm: 5010,
     anchoMm: 1940,
@@ -394,16 +405,15 @@ export const COCHES_EXEED: CocheComparador[] = [
     imagen: "/media/exeed-vx-c-dm-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 7.0,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.58,
-      seguroTercerosAnual: 520,
-      seguroAmpliadoAnual: 900,
-      mantenimientoAnual: 420,
-      costeMensualTotal: 166,
-      notas:
-        "Estimación con 15.000 km/año en uso mixto (eléctrico + gasolina), cargando en casa a 0,18 €/kWh.",
-      estimado: true,
+      "costeEnergia100km": 7,
+      "costeMensualTotal": 166,
+      "estimado": true,
+      "mantenimientoAnual": 420,
+      "notas": "Cálculo propio para este C-DM de 2.280 kg: combina trayectos eléctricos recargados en el domicilio con el consumo de 6,88 l/100 km que homologa cuando la batería va descargada, sobre una base anual de quince mil kilómetros. Al no venderse en España, seguro y mantenimiento son importes orientativos sin tarifa oficial de Exeed detrás.",
+      "precioGasolinaL": 1.58,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 900,
+      "seguroTercerosAnual": 520
     },
     galeria: [
       {
@@ -426,6 +436,18 @@ export const COCHES_EXEED: CocheComparador[] = [
       },
     ],
     analisisSlug: "exeed-vx-c-dm-2025-precio-ficha-tecnica",
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: modelo no probado. El VX de gasolina obtuvo 5 estrellas en el C-NCAP chino de 2021 con un 92,4 %, una prueba distinta que no equivale a una calificación Euro NCAP.",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Exeed/Chery: sin plan de mantenimiento europeo localizado para la versión C-DM; no se trasladan intervalos de otros mercados ni de otros modelos de Chery",
+      "intervalo": "Sin intervalo oficial publicado para Europa: Exeed no comercializa este VX C-DM en España",
+      "revisiones": []
+    },
   },
   {
     id: "exeed-rx-2025-precio-ficha-tecnica",
@@ -544,18 +566,18 @@ export const COCHES_EXEED: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
-      "610 CV y 915 Nm: 0-100 km/h en 4,9 segundos",
-      "Hasta 195 km de autonomía eléctrica CLTC con batería LFP de CATL",
-      "La versión 2026 Global Edition anuncia 1.400 km de autonomía total",
-      "Sistema C-DM con hasta 4 motores eléctricos y tracción total",
-      "Etiqueta Cero de la DGT",
+      "Tres motores eléctricos y un 1.5 TGDI de quinta generación: dos unidades de 165 kW delante y otra trasera de 175 kW para firmar los 610 CV del sistema C-DM",
+      "Batería M3P de CATL de 34,46 kWh: 200 km eléctricos en ciclo CLTC y recarga del 30 al 80 % en veinte minutos",
+      "Se estrenó comercialmente en China el 11 de marzo de 2024 y en su variante trimotor declara 1.400 km de autonomía combinada CLTC",
+      "Puesto de conducción con pantalla curva doble de 24,6 pulgadas, procesador Snapdragon 8155, AR-HUD proyectado de 50 pulgadas y sonido Sony con catorce altavoces",
+      "Los 660 litros de maletero crecen hasta 1.783 litros abatiendo la fila trasera, en una carrocería de 4.781 mm con neumáticos 245/50 R20"
     ],
     contras: [
-      "No disponible en España todavía",
-      "Sistema de hasta 4 motores: complejidad mecánica elevada",
-      "2.175 kg de peso",
-      "El precio en Europa vía importación multiplica el chino",
-      "Sin red de talleres ni recambios en España",
+      "En España no se vende como Exeed: quien lo quiera oficial debe mirar su gemelo Omoda 9 SHS, que llega con 537 CV y red propia de concesionarios",
+      "Arquitectura difícil de mantener fuera de China: tres motores, un térmico turbo y un DHT de tres relaciones exigen diagnosis y recambios específicos de Chery",
+      "Las cifras cambian según el acabado chino: hay versiones con batería de 18,67 kWh y 100 km CLTC junto a esta de 34,46 kWh, así que importar sin verificar la variante es un riesgo",
+      "Pesa 2.175 kg pese a ser un cinco plazas: el sobrepeso de la batería y los tres motores penaliza frenos, neumáticos y consumo cuando viaja descargado",
+      "Ni la garantía de Exeed ni su calendario de revisiones tienen publicación oficial en español: una unidad de importación queda a merced de lo que pacte el importador"
     ],
     largoMm: 4781,
     anchoMm: 1920,
@@ -571,16 +593,15 @@ export const COCHES_EXEED: CocheComparador[] = [
     imagen: "/media/exeed-rx-c-dm-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 6.5,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.58,
-      seguroTercerosAnual: 500,
-      seguroAmpliadoAnual: 880,
-      mantenimientoAnual: 400,
-      costeMensualTotal: 156,
-      notas:
-        "Estimación con 15.000 km/año en uso mixto, cargando en casa a 0,18 €/kWh. Precio convertido del PVP chino.",
-      estimado: true,
+      "costeEnergia100km": 6.5,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.58,
+      "seguroTercerosAnual": 500,
+      "seguroAmpliadoAnual": 880,
+      "mantenimientoAnual": 400,
+      "costeMensualTotal": 156,
+      "notas": "Coste recalculado para el Yaoguang C-DM de 610 CV recorriendo 15.000 km al año: se combinan gasolina a 1,58 €/l y recargas domésticas valoradas a 0,18 €/kWh, partiendo del precio chino de 159.800 yuanes convertido sin sumar transporte ni aranceles de importación.",
+      "estimado": true
     },
     galeria: [
       {
@@ -603,6 +624,18 @@ export const COCHES_EXEED: CocheComparador[] = [
       },
     ],
     analisisSlug: "exeed-rx-c-dm-2025-precio-ficha-tecnica",
+    euroncap: {
+      "estrellas": 5,
+      "ano": 2025,
+      "url": "https://www.euroncap.com/en/results/omoda/9/55587",
+      "nota": "Este RX C-DM vendido en China no se ha sometido a Euro NCAP. La puntuación corresponde a su gemelo europeo, el Omoda 9 PHEV Premium AWD ensayado en 2025, con un 90 % de protección a adultos, un 85 % a menores, un 81 % a peatones y ciclistas y un 80 % en sistemas de asistencia."
+    },
+    planMantenimiento: {
+      "intervalo": "Exeed no difunde un calendario oficial de revisiones para el C-DM destinado a Europa",
+      "revisiones": [],
+      "costeAnualAproxEur": null,
+      "fuente": "Sin programa publicado por Chery/Exeed para este modelo fuera de China; no se trasladan intervalos de otros mercados"
+    },
   },
   {
     id: "exeed-sterra-et-2025-precio-ficha-tecnica",

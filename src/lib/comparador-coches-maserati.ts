@@ -1208,18 +1208,18 @@ export const COCHES_MASERATI: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "V6 3.0 biturbo de 350 CV: el verdadero sonido Maserati",
-      "267 km/h de velocidad máxima",
-      "Tracción trasera: tacto clásico de berlina deportiva",
-      "Acabado Modena con equipamiento completo",
-      "Más exclusivo que un Serie 5 o un Clase E",
+      "Su V6 de 2.979 cc lo construía Ferrari: entrega 350 CV y 500 Nm a través de un cambio automático ZF de ocho marchas",
+      "El acabado Modena llegó en julio de 2021 como el escalón deportivo intermedio de la gama, entre el GT y el Trofeo V8 de 580 CV, con el interior Dark Mirror específico del Ghibli",
+      "Propulsión trasera con reparto clásico de berlina italiana: cierra el sprint en 5,5 segundos y no se detiene hasta los 267 km/h",
+      "Es el único Maserati que Euro NCAP ha ensayado: en 2013 sacó cinco estrellas con un 95 % en protección de ocupantes adultos",
+      "Se fabricó en Grugliasco junto al Quattroporte, con el que comparte plataforma, y su silueta de coupé de cuatro puertas lo separa de cualquier Serie 5 o Clase E alemán"
     ],
     contras: [
-      "Precio en España no publicado por la marca",
-      "Etiqueta C: sin ventajas en ZBE",
-      "Consumos WLTP sin publicar para esta versión",
-      "Interior menos tecnológico que los rivales",
-      "Producción finalizada en 2024",
+      "Al carecer de electrificación le corresponde la etiqueta C, así que dentro de una ZBE no disfruta de los privilegios de un híbrido con etiqueta ECO",
+      "Sin WLTP homologado para esta versión: la estimación de costes de esta ficha supone 10,5 l/100 km y las referencias españolas del modelo citan 11,0 l/100 km",
+      "La pantalla MIA de 10,1 pulgadas del restyling anima una arquitectura nacida en 2013: en ayudas a la conducción y conectividad queda por detrás de un Clase E coetáneo",
+      "La producción se cerró en 2024 tras la serie final 334 Ultima: ya solo se consigue de ocasión y sin tarifa oficial vigente en España",
+      "Mantenerlo exige pasar por la red oficial Maserati, muy corta en España, con recambio original del Tridente en cada cupón de servicio"
     ],
     largoMm: null,
     anchoMm: null,
@@ -1242,7 +1242,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
       "costeMensualTotal": 526,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año; consumo supuesto de 10,5 l/100 km (sin dato WLTP publicado para esta versión)",
+      "notas": "Cálculo pensado solo para este Modena de gasolina: recorrer 15.000 kilómetros anuales suponiendo 10,5 litros cada cien y pagando la gasolina a 1,85 euros el litro deja 19,43 euros de combustible por cada 100 km. El total de 526 euros al mes suma además el seguro ampliado y una partida anual de mantenimiento de 1.200 euros; Maserati no publicó el consumo WLTP de esta versión, de ahí que el consumo sea supuesto y no homologado.",
       "estimado": true
     },
     galeria: [
@@ -1265,6 +1265,34 @@ export const COCHES_MASERATI: CocheComparador[] = [
         "alto": 800
       },
     ],
+    euroncap: {
+      "estrellas": 5,
+      "ano": 2013,
+      "url": "https://cdn.euroncap.com/media/5901/euroncap_maserati_ghibli_2013_5stars.pdf",
+      "nota": "Prueba publicada el 27 de noviembre de 2013 sobre el Ghibli diésel 3.0 con volante a la izquierda, de la misma generación M157 que este Modena: 95 % en adultos, 79 % en niños, 74 % en peatones y 81 % en asistentes de seguridad"
+    },
+    planMantenimiento: {
+      "intervalo": "20.000 kilómetros entre cupones, y como máximo un año entre uno y otro",
+      "revisiones": [
+        {
+          "nombre": "Cupón de servicio / 20.000 km o 12 meses",
+          "queSeCambia": "Aceite del motor y su filtro nuevos en cada cupón, filtro de polen, chequeo con Maserati Diagnosi, comprobación de fugas del intercooler y revisión de frenos, neumáticos y suspensiones según la tabla de operaciones principales del manual del Ghibli",
+          "costeAproxEur": null
+        },
+        {
+          "nombre": "Cada 2 años",
+          "queSeCambia": "Sustitución del líquido de frenos: el manual ordena inspeccionarlo en cada cupón y renovarlo cada dos años",
+          "costeAproxEur": null
+        },
+        {
+          "nombre": "Cupones intermedios del V6 3.0",
+          "queSeCambia": "Bujías de encendido y correa de alternador, bomba de agua y compresor del climatizador del V6 de 3,0 litros, cada una en el cupón que le asigna la tabla del manual (la correa se sustituye en el cuarto cupón)",
+          "costeAproxEur": null
+        }
+      ],
+      "costeAnualAproxEur": null,
+      "fuente": "Manual del propietario del Maserati Ghibli, edición 2024 (tabla de operaciones principales reproducida en manuals.plus y AutoUserGuide): cupones cada 20.000 km o 1 año, aceite y filtro en cada cupón y líquido de frenos cada 2 años. La edición europea de 2021 del mismo manual fijaba el cupón en 20.000 km o 2 años. Maserati España ofrece para el Ghibli los programas prepago Premium Service y Premium Service Plus sin publicar precios, por eso los costes quedan a null"
+    },
   },
   {
     id: "maserati-ghibli-trofeo-2024-precio-ficha-tecnica",

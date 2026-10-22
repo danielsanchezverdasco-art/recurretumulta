@@ -1685,18 +1685,18 @@ export const COCHES_CITROEN: CocheComparador[] = [
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
     pros: [
-      "Furgoneta eléctrica media con 350 km de autonomía",
-      "Hasta 1.000 kg de carga útil y 6,6 m³",
-      "Etiqueta Cero: reparte en ZBE sin restricciones",
-      "Carga rápida de 100 kW",
-      "Coste por km muy inferior al diésel en reparto urbano",
+      "Nació en 2020 sobre la plataforma EMP2 de PSA, montado en Hordain (Francia) con sus gemelos de Stellantis, y hoy se vende con el cuadro y la pantalla central de 10 pulgadas del modelo actualizado",
+      "Su motor de 136 CV y 260 Nm trabaja con tres programas —Eco de 60 kW, Normal de 80 kW y Power con todo el empuje— para no gastar de más con la caja vacía y responder cuando va llena",
+      "Con 1,89 m de alto, esta talla M entra en aparcamientos subterráneos que una ë-Jumper de 2,52 m ni puede intentar, algo decisivo para repartir en centros urbanos",
+      "La caja llega a 6,6 m³ y la trampilla Moduwork permite colar bultos largos a través del mamparo sin tener que pasar a una talla superior de furgoneta",
+      "Recupera del 20 al 80 % en unos 35 minutos en un poste de 100 kW y, con el cargador embarcado de 11 kW, Citroën cifra la carga completa de esta batería de 75 kWh en 7 horas y media"
     ],
     contras: [
-      "Desde ~42.000 €: el doble que la diésel",
-      "136 CV justos con la furgoneta cargada",
-      "130 km/h limitados",
-      "La autonomía cae mucho con carga y frío",
-      "Red de carga para furgonetas aún escasa",
+      "Cuesta 12.000 € más que la Jumpy BlueHDi 145 diésel de su misma gama, que en esta comparativa arranca en 30.000 €: solo cuadra si la ruta diaria cabe en su autonomía y se carga en la nave",
+      "Los 136 CV solo aparecen en el modo Power: en Normal el motor se queda en 80 kW y en Eco en 60 kW, así que cargada y en Eco la respuesta se nota claramente recortada",
+      "Comparte casi todo con Peugeot e-Expert, Opel Vivaro-e y Fiat E-Scudo, sus hermanas de plataforma: la elección entre ellas se decide por precio y concesionario, no por técnica",
+      "Los 350 km son la cifra WLTP de la batería de 75 kWh; Citroën vende también una de 49 kWh con 226 km, y con carga, frío y autopista la grande se aleja de su homologación, así que las rutas interurbanas largas siguen siendo terreno diésel",
+      "Depender de un poste rápido de 100 kW fuera de la nave obliga a maniobrar una furgoneta de 4.983 mm en cargadores pensados para turismos, y no todos los polígonos tienen un punto propio donde dejarla enchufada de noche"
     ],
     largoMm: 4983,
     anchoMm: 1920,
@@ -1713,14 +1713,14 @@ export const COCHES_CITROEN: CocheComparador[] = [
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 4.41,
-      "seguroTercerosAnual": 550,
-      "seguroAmpliadoAnual": 1000,
-      "mantenimientoAnual": 500,
       "costeMensualTotal": 180,
-      "precioKwh": 0.18,
+      "estimado": true,
+      "mantenimientoAnual": 500,
+      "notas": "Cuenta hecha solo para esta ë-Jumpy de 75 kWh: recorrer 15.000 km al año a los 24,5 kWh/100 km que homologa esta ficha da 4,41 € de luz por cada 100 km si se enchufa en la nave a 0,18 €/kWh. El seguro y los 500 € anuales de taller son la estimación que ya trae la ficha para un uso profesional ligero, no una tarifa cerrada que Citroën publique para flotas.",
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 24,5 kWh/100 km WLTP; carga doméstica a 0,18 €/kWh; seguro a todo riesgo con franquicia; mantenimiento de eléctrico; uso profesional ligero",
-      "estimado": true
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 1000,
+      "seguroTercerosAnual": 550
     },
     galeria: [
       {
@@ -1742,6 +1742,29 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 800
       },
     ],
+    euroncap: {
+      "ano": 2025,
+      "estrellas": 4,
+      "nota": "Euro NCAP Commercial Van 2025: 4 estrellas, con 75 % en conducción segura, 52 % en prevención de accidentes y 80 % en seguridad post-accidente. Modelo ensayado: su gemelo Opel Vivaro 2.0 diésel; Euro NCAP declara la nota aplicable al Jumpy fabricado desde julio de 2024",
+      "url": "https://news.euroncap.com/safertrucksandvans/citroen-jumpy-dispatch-euro-ncap-2025-commercial-van-safety-4-stars/s/22ca10aa-bce9-439a-88ae-3d44f8810a9f"
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Citroën España para profesionales, página de mantenimiento de vehículos eléctricos profesionales (sin aceite, filtro de aceite, embrague ni escape; certificado de capacidad de batería) e Híbridos y Eléctricos, 15/01/2025 (intervalo bienal de los eléctricos con We Care). Citroën no publica un precio cerrado de revisión para el ë-Jumpy: costes a null",
+      "intervalo": "Cada 2 años, siguiendo el programa programado que Citroën aplica a sus eléctricos desde el plan We Care de 2025; el kilometraje exacto lo fija el libro de mantenimiento de cada ë-Jumpy",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión programada bienal del ë-Jumpy",
+          "queSeCambia": "No hay aceite de motor, filtro de aceite, embrague ni escape que sustituir: se realiza el diagnóstico electrónico, se comprueba el aislamiento entre el motor eléctrico y la batería de tracción y se revisan frenos, neumáticos y circuito de refrigeración, con certificado de capacidad de la batería de tracción"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Piezas de desgaste previstas en el mantenimiento de este eléctrico",
+          "queSeCambia": "Pastillas de freno y escobillas limpiaparabrisas solo cuando su desgaste lo pide —Citroën recuerda que los frenos sufren menos por la frenada regenerativa— y renovación del líquido de frenos en el plazo que marque el libro de mantenimiento de la unidad"
+        }
+      ]
+    },
   },
   {
     id: "citroen-e-jumper-2026-precio-ficha-tecnica",

@@ -2059,16 +2059,16 @@ export const COCHES_EXP22: CocheComparador[] = [
     emisionesCo2: 0,
     aprox: ["precioDesde", "potenciaCv", "autonomiaKm", "bateriaKwh", "largoMm", "anchoMm", "altoMm", "parNm", "garantiaBateriaAnos", "garantiaBateriaKm", "garantiaBateriaDegradacionPct"],
     pros: [
-      "Furgón eléctrico mediano con etiqueta Cero",
-      "Batería de 77 kWh y unos 320 km de autonomía",
-      "Más manejable que la eDeliver 9 en ciudad",
-      "Coste por km muy bajo en reparto urbano",
+      "Es la L1H1 de la familia: sus 4.998 mm de largo y 1.990 mm de alto encierran 5,9 m³ para cargar y hasta 1.200 kg útiles llevando esta batería de 77 kWh",
+      "Se presentó en el Commercial Vehicle Show de Birmingham ocupando el hueco entre la eDeliver 3 y la eDeliver 9, y relevando a la eDeliver 3 de batalla larga",
+      "Conectada a un poste rápido de 90 kW pasa del 20 al 80 % en unos 43 minutos; enchufada a 11 kW en alterna, llenarla por completo lleva unas 8 horas",
+      "Euro NCAP la reevaluó en 2025 y le subió la nota a cinco estrellas de furgoneta comercial, con un 77 % en evitación de colisiones"
     ],
     contras: [
-      "Enfocado a profesionales",
-      "Autonomía justa con carga completa",
-      "Precio elevado sin ayudas",
-      "Sin prueba EuroNCAP publicada",
+      "Lleva la batería corta de la gama: la variante de 88 kWh anuncia hasta 370 km, frente a los 320 km homologados de esta de 77 kWh",
+      "Su velocidad punta se queda en 120 km/h, un techo justo cuando la ruta de reparto enlaza tramos largos de autovía cargada",
+      "Todo está supeditado a la mercancía: delante caben 3 ocupantes y el resto del vehículo es caja, sin segunda fila para un equipo mayor",
+      "En Austria se anunció desde 45.490 euros antes de ayudas, mientras el Deliver 7 diésel vendido en España partía de 25.830 euros"
     ],
     imagen: "/media/maxus-edeliver-7-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/maxus-edeliver-7-2025-precio-ficha-tecnica-oficial.webp",
@@ -2078,30 +2078,38 @@ export const COCHES_EXP22: CocheComparador[] = [
     videoCanal: null,
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 4.5,
-      seguroTercerosAnual: 550,
-      seguroAmpliadoAnual: 1000,
-      mantenimientoAnual: 480,
-      costeMensualTotal: 180,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.65,
-      notas: "Estimación con 20.000 km/año y recarga en base a 0,18 €/kWh. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
-      estimado: true,
+      "costeEnergia100km": 4.5,
+      "seguroTercerosAnual": 550,
+      "seguroAmpliadoAnual": 1000,
+      "mantenimientoAnual": 480,
+      "costeMensualTotal": 180,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "Presupuesto de uso pensado para un reparto que acumula 20.000 km cada año cargando en la nave a 0,18 euros el kWh: así, la electricidad sale a 4,50 euros por cada 100 km recorridos. Los 550 euros de seguro a terceros, los 1.000 del ampliado y los 480 anuales de taller, además del impuesto municipal, son magnitudes orientativas para una furgoneta de 4,998 metros y tres plazas, no una tarifa cerrada de Maxus.",
+      "estimado": true
     },
     euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      "estrellas": 5,
+      "ano": 2025,
+      "url": "https://commercial-vehicles.euroncap.com/assessments/maxus/edeliver%2B7/v047ra/",
+      "nota": "Cinco estrellas en la reevaluación Euro NCAP de 2025 para furgonetas comerciales, que no usa la escala de turismos: 67 % en conducción segura, 77 % en evitación de colisiones y 80 % en seguridad posterior al choque. Unidad ensayada: la eDeliver 7 eléctrica, de categoría N1. Su primera evaluación de ese mismo 2025 se había quedado en cuatro estrellas, con 61, 74 y 80 %."
     },
     planMantenimiento: {
-      intervalo: "20.000 km o 24 meses (lo que ocurra antes)",
-      revisiones: [
-        { nombre: "Revisión 20.000 km / 24 meses", queSeCambia: "Filtro de polen + inspección + actualización de software", costeAproxEur: 140 },
-        { nombre: "Revisión 40.000 km / 48 meses", queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería", costeAproxEur: 230 },
+      "intervalo": "Al cumplir 20.000 km recorridos o cuando hayan pasado 24 meses, lo primero que llegue",
+      "revisiones": [
+        {
+          "nombre": "Primera visita: 20.000 km o 24 meses",
+          "queSeCambia": "En cabina se sustituye el filtro que limpia el aire de conductor y acompañantes, se inspecciona la furgoneta por completo y se instala la versión más reciente de su software de a bordo",
+          "costeAproxEur": 140
+        },
+        {
+          "nombre": "Segunda visita: 40.000 km o 48 meses",
+          "queSeCambia": "Repite lo incluido en la cita anterior y suma dos trabajos propios de una eléctrica con el pack bajo el suelo: renovar el fluido del circuito de frenada y comprobar el circuito que mantiene a su temperatura la batería de 77 kWh",
+          "costeAproxEur": 230
+        }
       ],
-      costeAnualAproxEur: 170,
-      fuente: "Plan oficial Maxus España",
+      "costeAnualAproxEur": 170,
+      "fuente": "Plan oficial Maxus España"
     },
   },
   {

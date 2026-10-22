@@ -304,37 +304,12 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "traccion": "Delantera",
     "emisionesCo2": 132,
     "aprox": [],
-    "pros": [
-      "31.752 € (km77): el Cupra León más asequible",
-      "1.5 TSI de 150 CV con hibridación ligera y etiqueta ECO",
-      "Chasis Cupra con puesta a punto deportiva",
-      "Maletero de 380 L, de los mejores del segmento",
-      "Interior con pantalla de 12,9\" y acabados deportivos"
-    ],
-    "contras": [
-      "150 CV: el menos prestacional de la gama León",
-      "Etiqueta ECO, no Cero: sin acceso libre a todas las ZBE",
-      "Sin cambio manual (solo DSG)",
-      "El e-Hybrid 204 ofrece 126 km eléctricos por 10.588 € más",
-      "Consumo real en ciudad, alto para un 1.5"
-    ],
     "imagen": "/media/cupra-leon-15-tsi-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/cupra-leon-15-tsi-2025-precio-ficha-tecnica-oficial.webp",
     "imagenInteriorOficial": "/media/cupra-leon-15-tsi-2025-precio-ficha-tecnica-interior-oficial.webp",
     "videoId": null,
     "videoCanal": null,
     "opiniones": [],
-    "costeMensual": {
-      "costeEnergia100km": 12.4,
-      "seguroTercerosAnual": 420,
-      "seguroAmpliadoAnual": 850,
-      "mantenimientoAnual": 380,
-      "costeMensualTotal": 258,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.65,
-      "notas": "gasolina aprox 7,5 L/100 km a 1,65 EUR/L",
-      "estimado": true
-    },
     "galeria": [
       {
         "src": "/media/cupra-leon-15-tsi-2025-precio-ficha-tecnica-oficial.webp",
@@ -357,23 +332,54 @@ export const COCHES_CUPRA: CocheComparador[] = [
     ],
     "fuenteNombre": "auto-data.net",
     "fuenteUrl": "https://www.auto-data.net/es/cupra-leon-facelift-2024-1.5-tsi-150hp-53234",
-    "euroncap": {
-      "estrellas": 5,
-      "ano": 2020,
-      "url": "https://www.euroncap.com/it/results/cupra/leon/43180",
+    contras: [
+      "Lleva etiqueta C de la DGT: el sistema mild-hybrid de 48 V que otorga la ECO está reservado al 1.5 eTSI automático",
+      "Quien quiera cambio DSG tendrá que pagar el salto al eTSI; este 1.5 TSI solo se ofrece con el manual de seis marchas",
+      "Sus 150 CV quedan lejos del carácter Cupra pleno: el VZ 300 tarda 3,2 s menos en el 0 a 100 km/h",
+      "Por 10.588 € más, el e-Hybrid de 204 CV añade etiqueta Cero y 126 km de autonomía eléctrica homologada",
+      "Homologa una media de 5,8 l/100 km, pero el uso urbano real ronda los 7,5 l/100 km estimados en esta ficha"
+    ],
+    costeMensual: {
+      "costeEnergia100km": 12.4,
+      "costeMensualTotal": 258,
+      "estimado": true,
+      "mantenimientoAnual": 380,
+      "notas": "Cálculo propio de la ficha: consumo real estimado en torno a 7,5 litros cada 100 km y gasolina pagada a 1,65 euros por litro",
+      "precioGasolinaL": 1.65,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 850,
+      "seguroTercerosAnual": 420
     },
-    "planMantenimiento": {
-      "intervalo": "15.000 km o 12 meses (lo que ocurra antes)",
+    euroncap: {
+      "ano": 2020,
+      "estrellas": 5,
+      "nota": "Calificación de 2020 heredada de su gemelo de plataforma, el SEAT León, con ensayos adicionales realizados sobre el Cupra León",
+      "url": "https://www.euroncap.com/it/results/cupra/leon/43180"
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Libro de mantenimiento oficial SEAT/CUPRA, régimen de servicio fijo para motores de gasolina",
+      "intervalo": "Servicio fijo de Cupra para este gasolina: una revisión al año o cada 15.000 km recorridos, lo primero que se cumpla",
       "revisiones": [
         {
-          "nombre": "Revisión anual / 15.000 km",
-          "queSeCambia": "Aceite del motor + filtro de aceite + filtro de polen + inspección general",
           "costeAproxEur": null,
+          "nombre": "Revisión de los 15.000 km o del primer año",
+          "queSeCambia": "Aceite nuevo para el bloque 1.5 TSI EA211 evo con su filtro, filtro del habitáculo sustituido y chequeo de frenos, neumáticos, luces y niveles"
         },
-      ],
-      "costeAnualAproxEur": null,
-      "fuente": "Programa de mantenimiento oficial CUPRA/SEAT",
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisiones sucesivas del libro de mantenimiento",
+          "queSeCambia": "Cuando el plan de la marca lo marca se suman bujías, filtro de aire del motor y líquido de frenos; la correa de distribución de este motor se inspecciona en el servicio oficial"
+        }
+      ]
     },
+    pros: [
+      "31.752 €: es el León más barato de la gama Cupra 2025 y la forma más económica de estrenar el compacto de Martorell",
+      "Caja manual de seis velocidades con 150 CV y 250 Nm: el León de acceso se conduce con tres pedales, sin DSG",
+      "Su sprint hasta los 100 km/h se cierra en 8,9 s y la punta se queda en 215 km/h pesando solo 1.373 kg",
+      "Conserva los 380 litros de maletero de los VZ de 300 y 325 CV, sin batería que le robe espacio",
+      "Heredó del restyling de 2024 el frontal de faros triangulares y la pantalla central de 12,9 pulgadas"
+    ],
   },
   {
     id: "cupra-leon-ehybrid-204-2025-precio-ficha-tecnica",
@@ -913,37 +919,12 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "traccion": "Delantera",
     "emisionesCo2": 131,
     "aprox": [],
-    "pros": [
-      "35.883 € (PVP oficial CUPRA): el Formentor más asequible",
-      "1.5 eTSI de 150 CV con etiqueta ECO",
-      "El SUV que inventó Cupra, con chasis deportivo",
-      "Maletero de 450 L",
-      "Diseño coupé del restyling 2024, vigente"
-    ],
-    "contras": [
-      "150 CV: justo para 1,4 toneladas",
-      "Etiqueta ECO, no Cero",
-      "El e-Hybrid 204 da 120 km eléctricos por unos 7.600 € más",
-      "Plazas traseras con techo coupé",
-      "Sin tracción total en esta versión"
-    ],
     "imagen": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-oficial.webp",
     "imagenInteriorOficial": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-interior-oficial.webp",
     "videoId": null,
     "videoCanal": null,
     "opiniones": [],
-    "costeMensual": {
-      "costeEnergia100km": 12.9,
-      "seguroTercerosAnual": 440,
-      "seguroAmpliadoAnual": 880,
-      "mantenimientoAnual": 400,
-      "costeMensualTotal": 268,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.65,
-      "notas": "gasolina aprox 7,8 L/100 km a 1,65 EUR/L",
-      "estimado": true
-    },
     "galeria": [
       {
         "src": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-oficial.webp",
@@ -971,18 +952,43 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "ano": 2021,
       "url": "https://www.euroncap.com/en/results/cupra/formentor/57957",
     },
-    "planMantenimiento": {
-      "intervalo": "15.000 km o 12 meses (lo que ocurra antes)",
-      "revisiones": [
-        {
-          "nombre": "Revisión anual / 15.000 km",
-          "queSeCambia": "Aceite del motor + filtro de aceite + filtro de polen + inspección general",
-          "costeAproxEur": null,
-        },
-      ],
+    contras: [
+      "Pesa 1.482 kg y sus 250 Nm deben moverlo todo: con el coche cargado, en un adelantamiento conviene anticipar y dejar que el DSG busque la marcha corta",
+      "La etiqueta ECO no da las ventajas de la Cero de los e-Hybrid: quien quiera 120 km sin quemar gasolina paga 43.480 € por el de 204 CV, 7.597 € más que este",
+      "Sin opción de tracción total: el 4Drive queda para el VZ de 333 CV, mientras este eTSI, y hasta el VZ de 265 CV, tiran solo del eje delantero",
+      "Detrás manda la silueta: la caída coupé del techo deja poco margen sobre la cabeza de los adultos altos en los viajes largos",
+      "El gasto real se aleja del homologado: la propia estimación de costes de esta ficha trabaja con 7,8 l/100 km frente a los 5,9 l/100 km del ciclo WLTP"
+    ],
+    costeMensual: {
+      "costeEnergia100km": 12.9,
+      "costeMensualTotal": 268,
+      "estimado": true,
+      "mantenimientoAnual": 400,
+      "notas": "Cálculo propio para este eTSI suponiendo 15.000 km al año: el combustible se valora a 7,8 l/100 km reales y 1,65 € por litro, es decir 12,9 € cada 100 km; sumando la póliza amplia de 880 € y 400 € de revisiones resultan los 268 € mensuales. El precio por kWh no interviene: el sistema de 48 V no se enchufa a la red.",
+      "precioGasolinaL": 1.65,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 880,
+      "seguroTercerosAnual": 440
+    },
+    planMantenimiento: {
       "costeAnualAproxEur": null,
       "fuente": "Programa de mantenimiento oficial CUPRA/SEAT",
+      "intervalo": "Cadencia anual o cada 15.000 km, lo que se cumpla antes, para el motor 1.5 eTSI",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Primera revisión del eTSI (año 1 / 15.000 km)",
+          "queSeCambia": "Se renueva el lubricante del 1.5 junto con su filtro y el filtro de polen del habitáculo, y la inspección general repasa frenos, niveles y neumáticos"
+        }
+      ]
     },
+    pros: [
+      "Presentado en 2020, fue el primer CUPRA sin equivalente en SEAT: se diseñó y se fabrica en Martorell y toma el nombre del cabo mallorquín de Formentor",
+      "El apoyo de 48 voltios permite rodar unos metros con el térmico apagado, recuperar energía al frenar y arrancar siempre desde ese sistema, sin tirar de la batería de 12 V",
+      "Es el escalón de acceso del modelo tras el rediseño: 35.883 € y cambio DSG de siete velocidades de serie, sin alternativa manual en esta motorización",
+      "La renovación de 2024 estrenó frontal de nariz de tiburón, firma lumínica triangular, logotipo trasero iluminado y pantalla de 12,9 pulgadas en el salpicadero",
+      "Conserva íntegros los 450 litros de maletero, 105 más que los Formentor e-Hybrid, cuya batería de tracción sí ocupa espacio bajo el piso de carga"
+    ],
   },
   {
     id: "cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica",

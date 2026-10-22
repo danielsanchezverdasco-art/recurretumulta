@@ -387,18 +387,18 @@ export const COCHES_DACIA: CocheComparador[] = [
     fuenteNombre: "hibridosyelectricos.com",
     fuenteUrl: "https://www.hibridosyelectricos.com/coches/pruebas-coches/prueba-coche-mas-vendido-dacia-sandero-motor-hibrido-155-cv-hecho-en-espana_89236_102.html",
     pros: [
-      "21.290 €: el crossover híbrido más barato del mercado español",
-      "155 CV con 4,4 l/100 km y 100 g/km: potencia y eficiencia con etiqueta ECO",
-      "Estética Stepway + hibridación: la combinación más completa de la gama Sandero",
-      "Cambio automático electrificado: adiós al embrague en ciudad",
-      "Motor 1.8 fabricado en España con tecnología híbrida ya probada en el grupo",
+      "21.290 € y ya es crossover: ningún híbrido completo con carrocería elevada y distintivo ECO se vende más barato en España",
+      "Su carrocería llega a 1.535 mm de altura, 36 mm por encima de la berlina Hybrid, con protecciones Starkle —un 20 % de plástico reciclado— que disimulan los roces del uso diario",
+      "Con barras longitudinales en el techo y una posición al volante más alta, resulta más cómodo para cargar bultos arriba y para afrontar pistas o badenes sin rascar los bajos",
+      "Es el Stepway con más brío: 155 CV, 8,3 s hasta 100 km/h y 180 km/h de punta, cifras que dejan muy atrás a los Stepway TCe 90 y ECO-G 100 de la propia gama",
+      "Aun con la silueta elevada homologa 4,4 l/100 km y 100 g/km de CO₂: solo 0,2 litros más que la berlina Hybrid a cambio del aspecto crossover"
     ],
     contras: [
-      "Casi 5.500 € más que el Stepway ECO-G 100, que también lleva etiqueta ECO",
-      "El GLP sale más barato por kilómetro si haces mucha autopista",
-      "Batería de 1,4 kWh: el modo eléctrico puro es testimonial",
-      "Datos de peso y prestaciones no publicados en el lanzamiento",
-      "Entregas a partir del cuarto trimestre de 2026",
+      "La factura duele frente a su hermano de GLP: 5.470 € separan a este Hybrid de los 15.820 € del Stepway ECO-G 100, que también luce la etiqueta ECO",
+      "Quien dude entre berlina y Stepway paga 1.400 € de sobreprecio por altura e imagen: mecánica, cinco plazas y los mismos 328 litros de maletero no cambian",
+      "El disfraz de aventurero no trae tracción total: sigue siendo un delantero pensado para asfalto y pistas en buen estado, no para barro ni nieve seria",
+      "Su talón de Aquiles está en el crash test: Euro NCAP le dio dos estrellas en 2021, con un 41 % en protección de usuarios vulnerables",
+      "No hay enchufe para recargar su batería de 1,4 kWh, así que el empuje eléctrico se limita a lo que el coche recupera al frenar; en autopista sostenida manda el gasolina 1.8"
     ],
     imagen: "/media/dacia-sandero-stepway-hybrid-155-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-sandero-stepway-hybrid-155-2026-precio-ficha-tecnica-oficial.webp",
@@ -408,28 +408,32 @@ export const COCHES_DACIA: CocheComparador[] = [
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 7,
-      "seguroTercerosAnual": 430,
-      "seguroAmpliadoAnual": 750,
-      "mantenimientoAnual": 400,
       "costeMensualTotal": 184,
-      "precioKwh": 0.18,
+      "estimado": true,
+      "mantenimientoAnual": 400,
+      "notas": "Presupuesto anual pensado para la carrocería crossover: con 15.000 km recorridos, un gasto homologado de 4,4 litros a los cien y la gasolina pagada a 1,60 €/l; el seguro y las revisiones son valores medios estimados para utilitarios elevados como este",
       "precioGasolinaL": 1.6,
-      "notas": "15.000 km/año; gasolina a 1,60 €/l con consumo WLTP 4,4 l/100 km; seguro y mantenimiento estimados por segmento",
-      "estimado": true
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 750,
+      "seguroTercerosAnual": 430
     },
     euroncap: {
-      estrellas: 2,
-      ano: 2021,
-      url: "https://www.euroncap.com/press-media/dacia-aims-low-while-%C5%A1koda-vw-electrify/",
-      nota: "Prueba oficial del Sandero Stepway 2021 (2 estrellas); Euro NCAP indica que la valoración cubre también al Sandero berlina y al Logan de la misma generación",
+      "ano": 2021,
+      "estrellas": 2,
+      "nota": "El coche examinado en 2021 fue precisamente un Stepway: salió con dos estrellas y un 70 % en ocupante adulto, y Euro NCAP aplicó después ese resultado al Sandero de cinco puertas y al Logan contemporáneos",
+      "url": "https://www.euroncap.com/press-media/dacia-aims-low-while-%C5%A1koda-vw-electrify/"
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 12 meses (lo que ocurra antes)",
-      revisiones: [
-        { nombre: "Revisión periódica del híbrido", queSeCambia: "Aceite y filtro de aceite, filtros, puntos de control de seguridad + revisión del sistema eléctrico e híbrido (diagnóstico)", costeAproxEur: null },
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Dacia España — blog oficial: mantenimiento del coche híbrido (https://www.dacia.es/blog/seguridad-consejos/mantenimiento-del-coche-hibrido-claves-ahorro-real.html)",
+      "costeAnualAproxEur": null,
+      "fuente": "Artículo del blog oficial de Dacia España sobre cómo mantener un híbrido de la marca",
+      "intervalo": "Una visita al año como tope, o al cumplir 30.000 km si llegan antes",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Mantenimiento programado del Stepway Hybrid 155",
+          "queSeCambia": "Cambio del aceite del motor 1.8 y de su filtro, renovación de los filtros que toquen por kilometraje, revisión de los elementos de seguridad y comprobación electrónica del conjunto híbrido, incluida su batería de 1,4 kWh"
+        }
+      ]
     },
     galeria: [
       { "src": "/media/dacia-sandero-stepway-hybrid-155-2026-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Sandero Stepway Hybrid 155 2026, vista exterior", "ancho": 1920, "alto": 1280 },
