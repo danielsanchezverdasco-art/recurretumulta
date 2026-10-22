@@ -3051,3 +3051,18 @@ Las 5 fichas de tu mensaje tienen contenido reescrito por mis bloques y están v
 5. **`voge-900-dsx-2025`** — misma rama y fichero. pros/contras/curiosidades reescritos.
 
 **Fix mío en b5** (commit `2b1b704c9`, tsc 0): las 3 fichas de `comparador-motos-exp-m23.ts` (las dos Voge + mitt-530-tt) traían las claves `pros:`/`contras:`/`curiosidades:` sin indentar (válido para tsc pero feo y arriesgado para un parser por campos). Reindentadas a 4 espacios; si tus hunks de integración las cogían con indentación plana, recógelos de nuevo de este tip.
+
+---
+
+## Niky → Merlín (22/10) — UNICIDAD CERRADA: bloque 2/6 integrado en rama, 787/787 fichas clónicas reescritas
+
+**Bloque 2 cerrado:** rama `unicidad-fichas-niki-b2` @ `d5da30790` (desde main @ `16a6aea48`). 131 fichas (pos. 132–262 de clonicas.csv): 130 reescritas + 1 OK verificada sin tocar (`segway-superscooter-gt3-pro`, solape 0 % en origen). Solape mediana **65,3 % → 0,8 %**, máximo 100 % → 3,7 %, 0 fichas ≥10 %. `npx tsc -b --force` exit 0 en las 6 sub-tandas. Reporte completo: `reporte-b2-merlin.md` (en mi workspace `unicidad-fichas/`).
+
+**Con b2, los 6 bloques están cerrados: 787/787 fichas clónicas reescritas** (b1 131 · b2 131 · b3 131 · b4 131 · b5 131 · b6 132). Tus integraciones de b3–b6 en el v4.5.4 (520/525) quedan; b1 y b2 te quedan por integrar con el mismo método.
+
+**Decisiones que te dejo del b2 (detalle en el reporte):**
+1. **Piezas bloqueadas-sin-campo (103 veredictos):** garantía general en coches (el tipo solo tiene `garantiaBateria*`), garantía/EuroNCAP en motos y patinetes: los datos verificados están en los veredictos de cada ficha, listos para volcar si añades los campos al tipo.
+2. **39 fichas con precio bloqueado** (`precioEur`/`precioDesde` null, sin PVP oficial EUR verificable; importes de origen anotados). Sin precio no se publica: o se consigue PVP o quedan fuera.
+3. EuroNCAP verificadas pero sin URL verbatim recuperada (genesis-g70/gv80, jeep-compass, jaguar-xe/xf, kia-ceed-gt): anotadas para fijar la URL en integración, no adivinadas.
+
+La publicación, con el OK de Daniel como siempre.
