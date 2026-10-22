@@ -1,1 +1,48 @@
-{"fuentes":["https://cnevpost.com/2026/08/15/voyah-passion-s-goes-on-sale/","https://carnewschina.com/2026/08/15/voyah-passion-s-launches-with-uncut-video-to-prove-its-360-tunnel-loop-stunt-authenticity/","https://carnewschina.com/2026/07/21/voyahs-xiaomi-yu7-challenger-passion-s-to-open-pre-sales-on-july-24/","https://en.wikipedia.org/wiki/Voyah_Passion_S"],"id":"voyah-passion-s-2026-precio-ficha-tecnica","notas":"La ficha original no tiene campos descripcion, veredicto ni curiosidades, por eso quedan en null; solo se reescriben pros y contras. Euro NCAP ya estaba marcado SI en la auditoría (sin_datos), no se aporta pieza. Mantenimiento: no se localiza plan oficial verificable del Passion S (modelo lanzado en China en agosto de 2026), queda null. Garantía: no se localiza garantía oficial de Voyah en España aplicable a este modelo, que no se vende en España; las garantías publicadas para otros Voyah en España difieren entre sí en la batería (150.000/160.000 km según la fuente y el modelo), así que no se traslada ninguna. Sospechas no usadas en los textos: Wikipedia recoge una horquilla CLTC de 570-901 km y batería NMC que contradice los 630-740 km y las baterías LFP de la ficha y de CnEVPost/CarNewsChina, y algunas fuentes dan 1.656 mm de alto frente a los 1.636 mm de la ficha; se ha seguido la versión coherente de la ficha y de la prensa de lanzamiento.","piezas":{"euroncap":null,"garantia_marca":null,"historia":{"hitos":[{"anio":2026,"cambio":"Se anticipó en mayo de 2026 con el nombre provisional Voyah FE, abrió la preventa el 24 de julio y se lanzó comercialmente el 15 de agosto de 2026 en Chengdu como SUV coupé eléctrico con tres versiones: Max y Ultra traseros de 402 CV y Ultra+ AWD de 637 CV.","tipo":"lanzamiento"},{"anio":2026,"cambio":"En los días previos a su lanzamiento completó un giro de 360 grados dentro de un túnel en Wuhan, maniobra que Voyah difundió en vídeo sin cortes durante la presentación del modelo.","tipo":"lanzamiento"}],"lanzamiento":2026},"mantenimientoDIY":null,"planMantenimiento":null},"textos":{"contras":["De momento solo se vende en China desde 229.900 yuanes: los 30.532 € de esta ficha son una conversión aproximada, no un precio oficial para España ni para Europa","Los 630 km del Max y los 740 km del Ultra son homologación CLTC china, más optimista que la WLTP, así que su autonomía comparable en Europa sería sensiblemente menor","Con 5.050 mm de largo y 1.998 mm de ancho, si llegara tal cual costaría encajarlo en plazas de aparcamiento urbanas estrechas y en garajes antiguos","El maletero no consta en la ficha y la suspensión neumática queda reservada al Ultra+ AWD de 637 CV y 765 Nm, mientras los traseros de 402 CV se quedan sin ella"],"curiosidades":null,"descripcion":null,"pros":["La versión de acceso Max ya entrega 402 CV y 390 Nm con un solo motor trasero y hace el 0 a 100 km/h en 6,7 s, sin obligar a pagar la batería grande para tener empuje de sobra","Con la batería de 98,1 kWh, el Ultra de tracción trasera declara 740 km CLTC y el Ultra+ AWD se queda en 700 km, justo en el terreno donde compite el Xiaomi YU7 en China","Su arquitectura de 800 V con carga 5C promete pasar del 20 al 80 % en unos 10 minutos, una parada muy corta para un SUV coupé de 5.050 mm de largo","Los cuatro LiDAR —uno principal de 896 líneas y tres para los ángulos muertos— y el sistema Huawei Qiankun ADS 5 vienen de serie en las tres versiones, no reservados al acabado más caro"],"veredicto":null}}
+{
+ "fuentes": [
+  "https://cnevpost.com/2026/08/15/voyah-passion-s-goes-on-sale/",
+  "https://carnewschina.com/2026/08/15/voyah-passion-s-launches-with-uncut-video-to-prove-its-360-tunnel-loop-stunt-authenticity/",
+  "https://carnewschina.com/2026/07/21/voyahs-xiaomi-yu7-challenger-passion-s-to-open-pre-sales-on-july-24/",
+  "https://en.wikipedia.org/wiki/Voyah_Passion_S"
+ ],
+ "id": "voyah-passion-s-2026-precio-ficha-tecnica",
+ "notas": "La ficha original no tiene campos descripcion, veredicto ni curiosidades, por eso quedan en null; solo se reescriben pros y contras. Euro NCAP ya estaba marcado SI en la auditoría (sin_datos), no se aporta pieza. Mantenimiento: no se localiza plan oficial verificable del Passion S (modelo lanzado en China en agosto de 2026), queda null. Garantía: no se localiza garantía oficial de Voyah en España aplicable a este modelo, que no se vende en España; las garantías publicadas para otros Voyah en España difieren entre sí en la batería (150.000/160.000 km según la fuente y el modelo), así que no se traslada ninguna. Sospechas no usadas en los textos: Wikipedia recoge una horquilla CLTC de 570-901 km y batería NMC que contradice los 630-740 km y las baterías LFP de la ficha y de CnEVPost/CarNewsChina, y algunas fuentes dan 1.656 mm de alto frente a los 1.636 mm de la ficha; se ha seguido la versión coherente de la ficha y de la prensa de lanzamiento.",
+ "piezas": {
+  "euroncap": null,
+  "garantia_marca": null,
+  "historia": {
+   "hitos": [
+    {
+     "anio": 2026,
+     "cambio": "Se anticipó en mayo de 2026 con el nombre provisional Voyah FE, abrió la preventa el 24 de julio y se lanzó comercialmente el 15 de agosto de 2026 en Chengdu como SUV coupé eléctrico con tres versiones: Max y Ultra traseros de 402 CV y Ultra+ AWD de 637 CV.",
+     "tipo": "lanzamiento"
+    },
+    {
+     "anio": 2026,
+     "cambio": "En los días previos a su lanzamiento completó un giro de 360 grados dentro de un túnel en Wuhan, maniobra que Voyah difundió en vídeo sin cortes durante la presentación del modelo.",
+     "tipo": "lanzamiento"
+    }
+   ],
+   "lanzamiento": 2026
+  },
+  "mantenimientoDIY": null,
+  "planMantenimiento": null
+ },
+ "textos": {
+  "contras": [
+   "Su comercialización, por ahora, se limita al mercado chino, donde arranca en 229.900 yuanes; la cifra en euros que acompaña a esta ficha sale de convertir esa cantidad y no corresponde a ninguna tarifa anunciada para España ni para Europa",
+   "Los 630 km del Max y los 740 km del Ultra son homologación CLTC china, más optimista que la WLTP, así que su autonomía comparable en Europa sería sensiblemente menor",
+   "Con 5.050 mm de largo y 1.998 mm de ancho, si llegara tal cual costaría encajarlo en plazas de aparcamiento urbanas estrechas y en garajes antiguos",
+   "El maletero no consta en la ficha y la suspensión neumática queda reservada al Ultra+ AWD de 637 CV y 765 Nm, mientras los traseros de 402 CV se quedan sin ella"
+  ],
+  "curiosidades": null,
+  "descripcion": null,
+  "pros": [
+   "La versión de acceso Max ya entrega 402 CV y 390 Nm con un solo motor trasero: sale de parado y alcanza los cien en 6,7 segundos, sin obligar a pagar la batería grande para tener empuje de sobra",
+   "Con la batería de 98,1 kWh, el Ultra de tracción trasera declara 740 km CLTC y el Ultra+ AWD se queda en 700 km, justo en el terreno donde compite el Xiaomi YU7 en China",
+   "Trabaja con una instalación eléctrica de ochocientos voltios y admite carga 5C: rellenar entre el 20 y el 80 por ciento le lleva alrededor de diez minutos, una parada muy corta para un SUV coupé que supera los cinco metros de longitud",
+   "Los cuatro LiDAR —uno principal de 896 líneas y tres para los ángulos muertos— y el sistema Huawei Qiankun ADS 5 vienen de serie en las tres versiones, no reservados al acabado más caro"
+  ],
+  "veredicto": null
+ }
+}
