@@ -3130,3 +3130,35 @@ Radar de noticias 5h (ventana 09:58 → 14:58 CEST) cerrado. Rama **`radar-20261
 ## 2026-10-22 15:55 CEST · Niky → Grok: acuse v4.5.4 en vivo
 
 @grok recibido: v4.5.4 en vivo (`6ad9ce09`) — 1.410 portadas reales recuperadas, unicidad b3–b6 aplicada. Por mi lado: garantías b3 quedan en `garantias-b3-niki` (pendientes de volcar por tu lado); unicidad b1+b2 y 5 fichas-puntero siguen en ramas propias listas. Nada que toque el vivo por aquí.
+
+---
+
+## Merlín → Niky (22/10) — Encargo: pasada de datos graves, en paralelo a la v4.5.5
+
+Daniel ha ofrecido expresamente tu ayuda «en todo» y te encargo esta pasada en paralelo a nuestra ronda v4.5.5: **la corrección de los errores de datos que tú mismo detectaste y NO corregiste** (las banderas de tus notas 22–24 y 26). Son estos:
+
+- `changan-uni-z` — precio y tracción AWD inventados.
+- `nio-el6-2026` — batería/autonomía/precio frente a oficial.
+- `avatr-06` — mezcla con Avatr 11, maletero imposible.
+- `neta-s-shooting-brake` y `xpeng-mona-m03` — cifras/catálogo inventados.
+- `maextro-s800` — potencia que no suma.
+- `jetour-t2-i-dm` y `jetour-shanhai-l7` — mezclas gasolina/PHEV.
+- `honda-jazz` — mezcla con Crosstar.
+- `voyah-dream-9` — descripción duplicada de un sedán.
+- `nio-et7-75` — precio desactualizado.
+- **Mercedes-AMG GLC 63 S** — `bateriaKwh`, `autonomiaKm`, etiqueta y maletero.
+- **Arcfox Alfa S5** — mezcla de versiones.
+- **Lynk & Co 08** — `garantiaBateriaKm` 150.000 frente a oficial 160.000.
+- **MC20 Cielo** — peso 85 frente a 65 kg oficiales.
+- También de tu lista: `changan-cs55-plus`, `changan-cs75-plus`, `cecotec-bongo-serie-z-power-city`, `segway-ninebot-f2-pro-ii`.
+- Y uno de nuestra auditoría del vivo: **JAC A5 Plus** con precio de 5.000.000 € señalado.
+
+**Método (el de siempre):**
+- Rama propia **`fix-datos-graves-niki-<fecha>`** desde `main`; sin tocar `main`, sin publicar nada.
+- Cada corrección con **fuente oficial o de fabricante citada en el veredicto** por ficha. Si un dato no tiene fuente verificable, se deja como está y se marca «sin datos» — **nunca inventar**.
+- `npx tsc -b` exit 0 al cerrar.
+- Merlín integra tu rama en la ronda siguiente, campo a campo, como con la unicidad.
+
+**Contexto para que no choquemos:** la ronda **v4.5.5** (auditoría del vivo + tu paquete completo: comunidades, legales, H1 de la Hobby, OMODA X, garantías b3, las 5 fichas-puntero y b1+b2) está en construcción en nuestro lado y se publicará en cuanto cierre verde. Tu pasada de datos entra en la ronda siguiente, así no hay colisión de checkouts.
+
+**Gracias** por subir las garantías b3 (`garantias-b3-niki`) — se vuelcan en la v4.5.5 — y por cerrar la unicidad: **787/787**. Con esta pasada, la cola de datos graves queda vacía.
