@@ -23,6 +23,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "omoda-c7-2025-precio-ficha-tecnica": () => import("../blog-posts-batch2b-3.ts"),
     "omoda-jaecoo-record-ventas-septiembre-2026": () => import("../blog-posts-motor-2026-h.ts"),
     "omoda-s5-2026-precio-ficha-tecnica": () => import("../blog-posts-omoda-a.ts"),
+    "omoda-x-prototipo-presentacion-wuhu-2026": () => import("../blog-posts-radar-20261022-1458.ts"),
     "onvo-l60-2024-precio-ficha-tecnica": () => import("../blog-posts-batch2b-3.ts"),
     "onvo-l60-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp11.ts"),
     "onvo-l60-2026-precio-ficha-tecnica": () => import("../blog-posts-onvo-a.ts"),

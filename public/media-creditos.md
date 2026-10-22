@@ -77,6 +77,14 @@
 | /media/skoda-enyaq-coupe-85x-2026-1.webp | https://www.skoda-storyboard.com/en/press-kits/new-skoda-enyaq-press-kit-2/ | Škoda | prensa |
 | /media/skoda-enyaq-coupe-85x-2026-1-card.webp | https://www.skoda-storyboard.com/en/press-kits/new-skoda-enyaq-press-kit-2/ | Škoda | prensa |
 | /media/mercedes-amg-cle-53-cabrio-2025-1.webp | https://media.mercedes-benz.com/article/057a4c29-2698-49fb-8847-810a5bd0192e | Mercedes-AMG | prensa |
+| /media/bmw-serie-7-2027-frontal.webp | https://geeksroom.com/2026/04/bmaw-7-series-2027/145686/ | BMW (kit de prensa, vía medio) | prensa |
+| /media/bmw-serie-7-2027-lateral.webp | https://mikeshouts.com/2027-bmw-7-series-bmw-i7-neue-klasse/ | BMW (kit de prensa, vía medio) | prensa |
+| /media/lexus-tz-2026-verde-gaia.webp | https://newsroom.lexus.eu/lexus-unveils-the-tz-an-all-new-all-electric-six-seat-suv/ | Lexus (prensa oficial) | prensa |
+| /media/lexus-tz-550e-2026.webp | https://media.lexus.co.uk/images/lexus-tz-images-2026/ | Lexus UK (prensa oficial) | prensa |
+| /media/omoda-x-2026-trasera.webp | https://forococheselectricos.com/noticias/omoda-x-20261022-42538.html | Omoda (kit de prensa, vía medio) | prensa |
+| /media/omoda-x-2026-interior.webp | https://forococheselectricos.com/noticias/omoda-x-20261022-42538.html | Omoda (kit de prensa, vía medio) | prensa |
+| /media/lexus-lfa-ev-concept-trasera.webp | https://www.thesupercarblog.com/heavily-camouflaged-lexus-lfa-ev-prototype-spied-in-spain/ | Lexus (concept Electrified Sport, vía medio) | prensa |
+| /media/lexus-lfa-ev-concept-frontal.webp | https://discoverev.co.uk/ev-news/lexus-rz-450e-ev-launched | Lexus (concept Electrified Sport, vía medio) | prensa |
 | /media/mercedes-amg-cle-53-cabrio-2025-1-card.webp | https://media.mercedes-benz.com/article/057a4c29-2698-49fb-8847-810a5bd0192e | Mercedes-AMG | prensa |
 | /media/velca-vortex-2026-ficha-tecnica-precio-1.webp | https://www.velcamotor.com/velca-vortex | Velca | prensa |
 | /media/velca-vortex-2026-ficha-tecnica-precio-1-card.webp | https://www.velcamotor.com/velca-vortex | Velca | prensa |
