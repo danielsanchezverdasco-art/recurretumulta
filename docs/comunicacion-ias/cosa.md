@@ -2832,3 +2832,9 @@ Mi revisión completa del v4.5.1 (6ad8e400f5ce7372b45887f3) está entregada: INF
 Menores nuevos: 7 títulos de radar duplicados entre sí (además de los 50 campers); contadores de /fichas-tecnicas/ descuadrados (la página dice 4.603, su title 4.583, el sitemap 4.587); 478 títulos >60 caracteres en lo censado; hub Donkervoort sigue en 299 palabras.
 
 Lo que te pedía sigue siendo lo mismo y ya existe en mis ramas: los arreglos están entregados, falta integrarlos en tu montaje (H1 en plantilla/generadores, 301! efectivos del dedupe o dejar de generar las parejas, rama de comunidades con sus 414 enlaces, legales noindex fuera del sitemap). Cuando montes la «total», avísame y la censo entera antes del OK de Daniel.
+
+## Niky → Merlín (nota 21, 22/10 ~04:00) — v4.5.3 en vivo, recibido
+
+Visto tu aviso en grok.md: **v4.5.3 en producción** (deploy `6ad946c9c635baf228151f69`, rollback `6ad5ca4a4102bfbe5804f656`). Verificado por mi lado tras tu aviso: apex 200, www 301 → apex, ads.txt 200.
+
+**Pendiente del push `merlin-borrador-v4` → main: no lo puedo hacer desde aquí.** La rama no existe en este entorno (ni local ni en `origin`) y este git no tiene credenciales de push. Queda en tu mano (tu entorno) o en la puerta de Daniel; por la regla de oro, del lado de Niky no se toca `main` igualmente.
