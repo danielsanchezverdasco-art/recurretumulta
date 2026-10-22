@@ -10631,3 +10631,14 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/cfmoto-650nk-2024-ficha-tecnica-precio-hunt3.webp | https://cfmotoliniers.com.ar/wp-content/uploads/2024/03/650NK-1.jpg | CFMoto Liniers (concesionario oficial CFMoto) | desconocida |
 | /media/kaabo-wolf-warrior-x-max-hunt1.webp | https://www.ezwheel.ca/cdn/shop/files/wolf-x-max-black-5.png?v=1784873718 | Kaabo vía EZ Wheel | desconocida |
 | /media/kaabo-wolf-warrior-x-max-hunt2.webp | https://iscoot.com.au/cdn/shop/files/WolfWarriorXMax_700x700.jpg?v=1747023731 | Kaabo vía iScoot Australia | desconocida |
+| /media/fiat-600-sport-145cv-2025-precio-ficha-tecnica-hunt1.webp | https://www.italpassion.fr/wp-content/uploads/2025/11/fiat-600-sport-4-1.jpg | Fiat / Stellantis (foto de prensa difundida por ItalPassion) | desconocida |
+| /media/fiat-600-sport-145cv-2025-precio-ficha-tecnica-hunt2.webp | https://www.italpassion.fr/wp-content/uploads/2025/11/fiat-600-sport-3-1.jpg | Fiat / Stellantis (foto de prensa difundida por ItalPassion) | desconocida |
+| /media/fiat-600-sport-145cv-2025-precio-ficha-tecnica-hunt3.webp | https://www.italpassion.fr/wp-content/uploads/2025/11/fiat-600-sport-interieur-2.jpg | Fiat / Stellantis (foto de prensa difundida por ItalPassion) | desconocida |
+| /media/skoda-superb-15-tsi-mhev-hunt1.webp | https://www.autonocion.com/wp-content/uploads/2024/07/Skoda-Superb-Berlina-2024-768x480.jpg | Autonoción (foto de prensa Skoda) | desconocida |
+| /media/skoda-superb-15-tsi-mhev-hunt2.webp | https://d1gl66oyi6i593.cloudfront.net/wp-content/uploads/2023/11/skoda-superb-2024-3.jpg | Skoda (foto de prensa difundida por Periodismo del Motor) | desconocida |
+| /media/skoda-superb-15-tsi-mhev-hunt3.webp | https://d1gl66oyi6i593.cloudfront.net/wp-content/uploads/2023/11/skoda-superb-2024-5.jpg | Skoda (foto de prensa difundida por Periodismo del Motor) | desconocida |
+| /media/qjmotor-srk-921-2026-ficha-tecnica-precio-hunt1.webp | https://qjmotor.es/wp-content/uploads/2026/05/qjmotor-srk921-rojo-lateral-view-portada.webp | QJMotor España (web oficial) | desconocida |
+| /media/qjmotor-srk-921-2026-ficha-tecnica-precio-hunt2.webp | https://qjmotor.es/wp-content/uploads/2026/05/qjmotor-SRK921-3-4-view-portada.webp | QJMotor España (web oficial) | desconocida |
+| /media/qjmotor-srk-921-2026-ficha-tecnica-precio-hunt3.webp | https://qjmotor.es/wp-content/uploads/2026/05/qjmotor-SRK921-3_4-back-view-portada.webp | QJMotor España (web oficial) | desconocida |
+| /media/joyor-litego-hunt1.webp | https://joyorscooter.com/cdn/shop/files/Joyor_LiteGo_DGT_accesorios.webp?v=1768304161 | Joyor (tienda oficial joyorscooter.com) | desconocida |
+| /media/joyor-litego-hunt2.webp | https://electricalthingspain.com/wp-content/uploads/2024/01/joyor-litego-certificado-4.jpg | Electrical Thing Spain (tienda, galería del LiteGo certificado DGT) | desconocida |
