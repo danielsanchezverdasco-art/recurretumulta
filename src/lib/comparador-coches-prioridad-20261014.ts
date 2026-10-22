@@ -130,8 +130,19 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     traccion: null,
     emisionesCo2: null,
     aprox: ["precioDesde"],
-    pros: ["120 CV (88 kW)", "Maletero de 350 l", "5 estrellas EuroNCAP (2010)", "5 plazas", "Desde 24.900 € (aprox. no oficial)"],
-    contras: ["Modelo descatalogado: solo disponible de ocasión", "Precio aproximado no oficial (no es PVP)"],
+    pros: [
+      "El 1.4 TB de 120 CV mueve este compacto de 4.351 mm hasta 195 km/h y completa el 0 a 100 en 9,4 segundos",
+      "Selector Alfa DNA con modos Dynamic, Normal y All Weather, presente en toda la gama Giulietta que km77 describe para 2016",
+      "Maletero de 350 litros en la carrocería de cinco puertas que en 2010 tomó el relevo del Alfa Romeo 147",
+      "En su ensayo Euro NCAP de 2010 logró un 97 % en protección de adultos y fue el familiar pequeño mejor valorado de aquel año",
+      "Manillas traseras ocultas y el scudetto triangular delantero le dan aire de cupé sin renunciar a sus cinco plazas"
+    ],
+    contras: [
+      "La planta de Cassino lo fabricó por última vez el 22 de diciembre de 2020, así que hoy cualquier unidad a la venta es ya usada",
+      "Euro NCAP volvió a examinarlo en 2017 con criterios más duros y su calificación cayó a tres estrellas, con un 72 % en adultos y un 56 % en niños",
+      "Esos 350 litros de carga quedan por debajo de los 380 litros de un Volkswagen Golf coetáneo y de los 420 litros de un Peugeot 308",
+      "Los 24.900 euros que figuran aquí son una estimación sin tarifa oficial que la respalde, porque Alfa Romeo dejó de venderlo nuevo en 2020"
+    ],
     imagen: "/media/alfa-romeo-giulietta-2025-hero.webp",
     imagenOficial: "/media/alfa-romeo-giulietta-2025-2.webp",
     imagenInteriorOficial: "",
@@ -182,8 +193,17 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     traccion: null,
     emisionesCo2: null,
     aprox: ["precioDesde"],
-    pros: ["105 CV (77 kW)", "Maletero de 270 l", "5 estrellas EuroNCAP (2008)", "Desde 15.900 € (aprox. no oficial)"],
-    contras: ["Modelo descatalogado: solo disponible de ocasión", "Precio aproximado no oficial (no es PVP)"],
+    pros: [
+      "Motor 1.4 MultiAir atmosférico de 105 CV (77 kW) con Start&Stop y cambio manual de seis marchas: dentro de la gama MultiAir era la variante sin turbo, frente a las de 135 y 170 CV sobrealimentadas",
+      "Selector Alfa DNA con tres modos —Dynamic, Normal y All Weather— que actúa sobre la respuesta del motor, la dirección, los frenos y el control de estabilidad, algo inédito en un utilitario de 2008",
+      "Cinco estrellas Euro NCAP en 2008 con 36 de 37 puntos en protección de ocupantes adultos, la puntuación que lo situó en lo más alto de su segmento en seguridad pasiva",
+      "Tres puertas y 4,06 m de largo con 270 l de maletero: Alfa Romeo lo planteó como utilitario premium frente al MINI y al entonces futuro Audi A1, no como un Clio más"
+    ],
+    contras: [
+      "La producción en Mirafiori (Turín) terminó en 2018 tras una década a la venta, así que todo MiTo disponible hoy es de ocasión y con años encima: el estado del MultiAir y su historial de revisiones se comprueban unidad a unidad",
+      "Los 15.900 € de esta ficha son una referencia aproximada del mercado de segunda mano, no un PVP: sin venta de nuevo desde 2018, cada unidad se valora por año, acabado y kilometraje reales",
+      "Solo existió con carrocería de tres puertas y esta versión homologa cuatro plazas: el acceso a la banqueta trasera y el espacio atrás quedan por debajo de un utilitario de cinco puertas de su época"
+    ],
     imagen: "/media/alfa-romeo-mito-2025-hero.webp",
     imagenOficial: "/media/alfa-romeo-mito-2025-2.webp",
     imagenInteriorOficial: "",
@@ -234,8 +254,19 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     traccion: null,
     emisionesCo2: null,
     aprox: ["precioDesde"],
-    pros: ["150 CV (110 kW)", "Maletero de 425 l", "5 estrellas EuroNCAP (2020)", "5 plazas", "Desde 34.200 € (aprox. no oficial)"],
-    contras: ["Precio aproximado no oficial (no es PVP)"],
+    pros: [
+      "El 1.5 TFSI de 150 CV (110 kW) del 35 TFSI, con hibridación ligera MHEV y cambio S tronic de siete velocidades, lleva a este Sedán hasta 224 km/h y firma el 0 a 100 en 8,4 segundos",
+      "Maletero de 425 litros, 45 más que los 380 del A3 Sportback, en la carrocería de tres volúmenes con la que Audi estrenó el formato berlina en el segmento compacto premium en 2013",
+      "En el ensayo Euro NCAP de 2020 logró las cinco estrellas, con un 89 % en protección de ocupantes adultos y un 81 % en ocupantes infantiles",
+      "Con 4.495 mm de largo y cinco plazas es la berlina de acceso a la gama Audi, un escalón por debajo del A4 en tamaño y precio",
+      "La actualización de 2024 estrenó tienda de aplicaciones a bordo y amplió las zonas y tonalidades de la iluminación ambiental del habitáculo"
+    ],
+    contras: [
+      "Los 34.200 euros de esta ficha son una estimación sin tarifa oficial detrás: en el lanzamiento del restyling, Audi tarifó el Sedán 35 TFSI S tronic en 37.510 euros",
+      "Las plazas traseras solo resultan correctas para dos adultos de estatura media, según las pruebas publicadas del modelo actualizado en 2024",
+      "El maletero se abre con tapa y no con portón, así que cargar bultos altos es menos práctico que en el Sportback pese a sus 425 litros",
+      "Equipar bien la unidad sale caro: en la tarifa de lanzamiento del restyling, el paquete confort costaba 1.905 euros y el paquete premium, 3.405 euros"
+    ],
     imagen: "/media/audi-a3-sedan-2025-hero.webp",
     imagenOficial: "/media/audi-a3-sedan-2025-2.webp",
     imagenInteriorOficial: "",
@@ -286,8 +317,19 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     traccion: null,
     emisionesCo2: null,
     aprox: ["precioDesde"],
-    pros: ["150 CV (110 kW)", "Maletero de 505 l", "5 estrellas EuroNCAP (2015)", "5 plazas", "Desde 42.900 € (aprox. no oficial)"],
-    contras: ["Precio aproximado no oficial (no es PVP)"],
+    pros: [
+      "Versión 35 TFSI de acceso a la gama B9: 150 CV (110 kW) de gasolina con tracción delantera, que esta ficha cifra en 8,6 segundos de 0 a 100 km/h y 210 km/h de velocidad máxima",
+      "Maletero de 505 litros y 1.510 litros con el respaldo abatido en proporción 40/20/40: al presentarse en 2015 era el familiar premium más capaz de su segmento, con portón y cubre-equipajes eléctricos de serie",
+      "Cinco estrellas Euro NCAP en la prueba de 2015, con un 87 % en protección infantil y el galardón Euro NCAP Advanced por el freno multicolisión y el Audi pre sense city de serie, operativo hasta 85 km/h",
+      "Generación B9 sobre la plataforma MLB Evo: hasta 120 kg más ligera que el A4 anterior pese a crecer en tamaño, y primera de la familia A4 en ofrecer el Audi virtual cockpit",
+      "Coeficiente aerodinámico de 0,26 en la carrocería Avant, el mejor entre los familiares de su clase cuando llegó, pensado para recortar consumo y ruido de rodadura en autopista"
+    ],
+    contras: [
+      "No existe un A4 Avant nuevo en 2025: Audi presentó su relevo en 2024 ya como A5 Avant sobre la plataforma PPC, al reservar entonces los números pares para los eléctricos, así que hoy solo queda stock final o unidades de ocasión",
+      "Los 42.900 euros de esta ficha son una estimación señalada como aproximada y no una tarifa vigente: sin PVP oficial del A4 Avant en 2025, el importe real depende del año, el acabado y los kilómetros de cada unidad concreta",
+      "La calificación de cinco estrellas data de 2015 y se obtuvo sobre una berlina 2.0 TDI S tronic, no sobre este familiar de gasolina: con el protocolo actual, mucho más exigente, esa nota antigua no es comparable con la de un modelo probado hoy",
+      "Es el escalón gasolina de 150 CV dentro de un B9 que también ofreció 190 y 252 CV: con las cinco plazas ocupadas y el maletero lleno, los adelantamientos en carretera secundaria piden anticipación"
+    ],
     imagen: "/media/audi-a4-avant-2025-hero.webp",
     imagenOficial: "/media/audi-a4-avant-2025-2.webp",
     imagenInteriorOficial: "",
@@ -338,8 +380,19 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     traccion: null,
     emisionesCo2: null,
     aprox: ["precioDesde"],
-    pros: ["450 CV (331 kW)", "Maletero de 505 l", "0–100 km/h en 4,1 s", "5 estrellas EuroNCAP (2015)", "5 plazas"],
-    contras: ["Precio aproximado no oficial (no es PVP)"],
+    pros: [
+      "V6 biturbo de 2,9 litros con 450 CV y 600 Nm: son 170 Nm más que el V8 atmosférico de 4,2 litros del RS 4 B8 al que sustituye",
+      "Acelera de 0 a 100 km/h en 4,1 segundos con tracción quattro y cambio tiptronic de ocho marchas, sin renunciar a sus cinco plazas",
+      "Maletero de 505 litros en la carrocería Avant de 4.782 mm: mantiene la practicidad diaria que define a este familiar desde 1999",
+      "Pasos de rueda 30 mm más anchos que los de un A4 Avant y detalles inspirados en el quattro IMSA GTO en la cuarta generación del modelo",
+      "La carrocería A4 B9 de la que parte logró en Euro NCAP 2015 un 90 % en protección de adultos y un 87 % en niños, aunque el RS 4 no se ensayó por separado"
+    ],
+    contras: [
+      "Los 104.850 euros indicados constan en la propia ficha como cifra aproximada, no como PVP oficial cerrado de Audi España para este año",
+      "Al pasar del V8 atmosférico del B8 al V6 biturbo se gana par, pero se pierde la subida hasta las 8.250 rpm y el carácter sonoro de aquel motor",
+      "Su velocidad máxima queda limitada electrónicamente a 250 km/h, por debajo de los 290 km/h del RS 4 Competition Plus y de los 300 km/h del edition 25 years",
+      "Presentado en Fráncfort en 2017, su habitáculo y su sistema MMI acusan los años frente al BMW M3 Touring, su rival familiar directo desde 2022"
+    ],
     imagen: "/media/audi-rs4-avant-2025-hero.webp",
     imagenOficial: "/media/audi-rs4-avant-2025-2.webp",
     imagenInteriorOficial: "",
@@ -390,8 +443,17 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     traccion: null,
     emisionesCo2: null,
     aprox: ["precioDesde"],
-    pros: ["354 CV (260 kW)", "Maletero de 505 l", "0–100 km/h en 4,7 s", "5 plazas", "Desde 78.900 € (aprox. no oficial)"],
-    contras: ["Sin datos EuroNCAP para esta versión", "Precio aproximado no oficial (no es PVP)"],
+    pros: [
+      "V6 3.0 TFSI de nuevo desarrollo con turbocompresor de doble entrada: los 354 CV (260 kW) y 500 Nm entre 1.370 y 4.500 rpm con los que Audi España lanzó este S4 Avant en 2016, dejando atrás el compresor volumétrico del anterior S4 B8",
+      "Los 4,7 segundos de 0 a 100 km/h y los 250 km/h limitados que recoge esta ficha, con cambio tiptronic de ocho velocidades y tracción quattro permanente sobre un chasis con reglaje específico S frente al A4 Avant convencional",
+      "Formato familiar de verdad: cinco puertas, cinco plazas y 505 litros de maletero en la versión de gasolina, para cargar como un A4 Avant y correr como el escalón deportivo intermedio de la gama B9",
+      "Su segunda vida europea fue única en el segmento: desde 2019 el S4 de aquí pasó a un V6 TDI de 347 CV y 700 Nm con compresor eléctrico alimentado por la red de 48 voltios, pensado para viajar rápido por autopista con etiqueta ECO",
+      "Ha quedado como pieza de una época cerrada: por encima de cualquier A4 B9 de cuatro cilindros y por debajo del RS 4 Avant, y su relevo en la nueva generación ya no se llama S4, sino S5 Avant de gasolina con 367 CV"
+    ],
+    contras: [
+      "Euro NCAP nunca probó un S4 Avant como versión independiente: las cinco estrellas de 2015 son del A4 B9 de base, con un 90 % en protección de adultos y un 87 % en niños, así que atribuírselas a este S sería engañoso y la ficha lo mantiene correctamente sin estrellas propias",
+      "Ya no se compra nuevo con el nombre S4 y los 78.900 € de esta ficha figuran como aproximados en el propio registro: quedan lejos de los 74.880 € que Audi pidió en España por el Avant de gasolina en 2016 y tampoco coinciden con la tarifa posterior del TDI, así que cada unidad de ocasión se negocia por estado, año y kilometraje reales"
+    ],
     imagen: "/media/audi-s4-avant-2025-hero.webp",
     imagenOficial: "/media/audi-s4-avant-2025-2.webp",
     imagenInteriorOficial: "",
@@ -442,8 +504,18 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: 0,
     aprox: [],
-    pros: ["326 CV (240 kW)", "Maletero de 500 l", "0–100 km/h en 6,1 s", "5 estrellas EuroNCAP (2021)", "5 plazas"],
-    contras: ["Precio aproximado no oficial (no es PVP)"],
+    pros: [
+      "Versión de acceso del iX, el buque insignia eléctrico que BMW derivó del prototipo Vision iNext y produce en Dingolfing, concebido desde cero para propulsión eléctrica y no como adaptación de un X5 térmico",
+      "Sus dos motores eDrive de quinta generación suman 326 CV y 630 Nm con tracción total y aceleran en 6,1 segundos hasta 100 km/h, un empuje notable para un conjunto de 2.440 kg",
+      "La unidad evaluada por Euro NCAP en 2021 fue precisamente un xDrive40: obtuvo cinco estrellas con un 91 % en protección de adultos y destacó por el airbag interactivo situado entre conductor y acompañante delantero",
+      "Batería útil de 71 kWh con 424 km de autonomía WLTP según la ficha y carga en continua a 150 kW, que es la potencia propia de esta versión frente a los 200 kW del xDrive50",
+      "Habitáculo de cinco plazas con estructura de aluminio y jaula de carbono para el compartimento de pasajeros, y un maletero de 500 litros pese a llevar la batería bajo el suelo"
+    ],
+    contras: [
+      "Sus 2.440 kg y sus 4.953 mm de longitud lo orientan a viajar cómodo por carretera, no a enlazar curvas con la agilidad de un BMW térmico mucho más ligero",
+      "Quedarse en 424 km de autonomía penaliza frente a su hermano xDrive50, para el que BMW homologó hasta 630 km con una batería de 105 kWh",
+      "El precio recogido en la ficha es una aproximación no oficial y no el PVP de BMW España para el xDrive40, por lo que la cifra final debe confirmarse en concesionario"
+    ],
     imagen: "/media/bmw-ix-xdrive40-2025-hero.webp",
     imagenOficial: "/media/bmw-ix-xdrive40-2025-2.webp",
     imagenInteriorOficial: "",
@@ -496,8 +568,19 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: 287,
     aprox: ["precioDesde", "emisionesCo2"],
-    pros: ["625 CV (460 kW)", "Maletero de 580 l", "0–100 km/h en 3,8 s", "5 plazas", "Desde 168.000 € (aprox. no oficial)"],
-    contras: ["Sin datos EuroNCAP para esta versión", "Precio aproximado no oficial (no es PVP)"],
+    pros: [
+      "V8 M TwinPower Turbo de 4,4 litros con 625 CV a 6.000 rpm y 750 Nm entre 1.800 y 5.800 rpm",
+      "Primer X6 M con tecnología de 48 V: motor eléctrico de 12 CV integrado en la caja M Steptronic de ocho velocidades",
+      "Acelera de 0 a 100 km/h en 3,9 s pese a sus 2.445 kg, con tracción total M xDrive",
+      "Heredero del primer Sports Activity Coupé de 2008: silueta coupé sobre un SUV de 4.948 mm de largo",
+      "Maletero de 580 litros para cinco ocupantes, volumen aprovechable en un SUV coupé de este enfoque"
+    ],
+    contras: [
+      "Consumo WLTP de 12,7 l/100 km y 287 g/km de CO₂: el gasto por kilómetro acompaña a sus 625 CV",
+      "La caída del techo tipo coupé penaliza la altura en las plazas traseras y la visibilidad posterior frente a un X5 M",
+      "2.445 kg de peso: una masa muy alta para un modelo que se vende por agilidad",
+      "Sin prueba Euro NCAP publicada para esta versión y precio de 168.000 € marcado en la propia ficha como aproximado no oficial"
+    ],
     imagen: "/media/bmw-x6-m-2025-hero.webp",
     imagenOficial: "/media/bmw-x6-m-2025-2.webp",
     imagenInteriorOficial: "",
@@ -550,8 +633,19 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     traccion: null,
     emisionesCo2: null,
     aprox: ["precioDesde"],
-    pros: ["110 CV (81 kW)", "Maletero de 358 l", "4 estrellas EuroNCAP (2014)", "5 plazas", "Desde 18.900 € (aprox. no oficial)"],
-    contras: ["Modelo descatalogado: solo disponible de ocasión", "Precio aproximado no oficial (no es PVP)"],
+    pros: [
+      "Presentado en 2014 y fabricado en exclusiva mundial en Villaverde (Madrid), su seña fueron los Airbump: paneles laterales con cápsulas de aire pensados para absorber los roces típicos de aparcamiento",
+      "Citroën recortó unos 200 kg frente al C4 berlina con soluciones como el capó de aluminio, y con los 110 CV de esta ficha firma 10,8 s en el 0 a 100 y 184 km/h en un coche de 4.157 mm",
+      "Maletero de 358 litros ampliable a 1.170 litros abatiendo la banqueta trasera, mucho volumen para un crossover de 4.157 mm pensado para ciudad",
+      "En la prueba Euro NCAP de 2014 logró un 82 % en ocupantes adultos, un 79 % en niños y un 80 % en usuarios vulnerables, sus tres notas fuertes dentro de las cuatro estrellas",
+      "La puesta al día de 2018 le trajo la suspensión con Amortiguadores Progresivos Hidráulicos y los asientos Advanced Comfort, el paquete de confort con el que la saga superó las 440.000 unidades vendidas"
+    ],
+    contras: [
+      "El C4 de 2020 tomó su relevo en la misma planta de Villaverde y el Cactus salió de la gama europea, así que hoy este PureTech 110 solo aparece en el mercado de ocasión",
+      "Los 18.900 euros de la ficha no corresponden a ninguna tarifa oficial en vigor: sin gama nueva desde 2020, esa cifra solo orienta sobre lo que puede pedirse por una unidad usada",
+      "Las lunas traseras del diseño original solo se entreabren de compás, sin bajar, y con el respaldo trasero monobloque de las versiones básicas no se puede abatir una sola parte para combinar carga larga y pasajero",
+      "Euro NCAP lo dejó en cuatro estrellas en 2014 por la seguridad activa: solo un 56 % en asistencia, porque la unidad probada carecía de frenada autónoma de emergencia y de ayuda de carril"
+    ],
     imagen: "/media/citroen-c4-cactus-2025-hero.webp",
     imagenOficial: "/media/citroen-c4-cactus-2025-2.webp",
     imagenInteriorOficial: "",
@@ -602,8 +696,17 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     traccion: null,
     emisionesCo2: null,
     aprox: ["precioDesde"],
-    pros: ["102 CV (75 kW)", "Maletero de 207 l", "7 plazas", "Desde 14.900 € (aprox. no oficial)"],
-    contras: ["Modelo descatalogado: solo disponible de ocasión", "Sin datos EuroNCAP para esta versión", "Precio aproximado no oficial (no es PVP)"],
+    pros: [
+      "Siete plazas reales en solo 4.498 mm: es el monovolumen familiar que Dacia lanzó en 2012 y fabricó en la planta de Renault en Tánger",
+      "Con la tercera fila en uso quedan 207 litros de maletero, que suben a 827 litros al abatirla y a 2.617 litros con todos los asientos traseros plegados",
+      "El motor SCe de 102 CV, incorporado en 2015 en sustitución del MPI de 85 CV, lo lleva hasta 170 km/h con un 0 a 100 en 12,0 segundos",
+      "Su fórmula de espacio máximo por euro funcionó durante casi una década, hasta que Dacia la trasladó en 2021 al Jogger, su sustituto de siete plazas"
+    ],
+    contras: [
+      "En el ensayo de Euro NCAP de 2012 se quedó en tres estrellas, con un 72 % en protección de adultos, un 77 % en niños y solo un 44 % en peatones",
+      "Dacia lo sustituyó por el Jogger en 2021 y dejó de venderlo en Europa a principios de 2022, así que cualquier unidad disponible hoy es de segunda mano",
+      "Los 14.900 euros de esta ficha son una estimación de ocasión sin tarifa oficial detrás, porque el Lodgy lleva años fuera del catálogo de coches nuevos"
+    ],
     imagen: "/media/dacia-lodgy-2025-hero.webp",
     imagenOficial: "/media/dacia-lodgy-2025-2.webp",
     imagenInteriorOficial: "",
@@ -654,8 +757,16 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     traccion: null,
     emisionesCo2: null,
     aprox: ["precioDesde"],
-    pros: ["64 CV (47 kW)", "Maletero de 210 l", "Desde 24.900 € (aprox. no oficial)"],
-    contras: ["No se vende oficialmente en España", "Sin datos EuroNCAP para esta versión", "Precio aproximado no oficial (no es PVP)"],
+    pros: [
+      "Su motor KF es un tricilíndrico turbo de 658 cc que entrega 64 CV y 92 Nm, justo en el techo de potencia de los kei japoneses, con cambio manual de cinco marchas o CVT",
+      "Mide 3.395 mm de largo, a solo cinco milímetros del máximo kei de 3,4 metros, y aun así es un biplaza de techo rígido retráctil eléctrico",
+      "La segunda generación estrenó en 2014 la estructura D-Frame y el sistema Dress-Formation, con 13 paneles de resina de los que 11 se pueden intercambiar entre los diseños Robe, XPLAY, Cero y GR Sport"
+    ],
+    contras: [
+      "Daihatsu cesó la venta de coches nuevos en Europa el 31 de enero de 2013, más de un año antes de que esta generación debutara en Japón, así que en España toca importarlo y mantenerlo sin red oficial de la marca",
+      "Euro NCAP no ha publicado ninguna prueba de este modelo concebido para el mercado japonés, por lo que no existen estrellas ni porcentajes comparables con los de un descapotable vendido en Europa",
+      "Los 24.900 euros figuran en la ficha como importe aproximado, porque Daihatsu no publica tarifa española para esta segunda generación, que nunca se ha vendido aquí de forma oficial"
+    ],
     imagen: "/media/daihatsu-copen-2025-hero.webp",
     imagenOficial: "/media/daihatsu-copen-2025-2.webp",
     imagenInteriorOficial: "",
@@ -706,8 +817,19 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: ["precioDesde"],
-    pros: ["130 CV (96 kW)", "Maletero de 550 l", "3 estrellas EuroNCAP (2016)", "5 plazas", "Desde 24.000 € (aprox. no oficial)"],
-    contras: ["Precio aproximado no oficial (no es PVP)"],
+    pros: [
+      "Su 1.5 FireFly T4 de 130 CV y 240 Nm suma un motor eléctrico de 48 voltios y 15 kW integrado en el cambio DCT de siete velocidades, con arranque y aparcamiento en eléctrico gracias a los modos e-launch y e-parking",
+      "El maletero de 550 litros del SW lleva doble fondo orientable, huecos laterales, cuatro ganchos y toma de 12 voltios, y con los respaldos 60:40 abatidos forma un suelo plano para objetos de hasta 1,80 metros",
+      "Con 4.571 mm es unos 20 centímetros más largo que el Tipo de cinco puertas junto al que debutó en Ginebra en 2016, y un ocupante de 1,90 metros cabe con espacio correcto en sus plazas traseras",
+      "El sistema de 48 voltios le otorga la etiqueta ECO de la DGT y, según Fiat, permite circular con el motor de gasolina apagado hasta un 62 % del ciclo urbano WLTP, con un consumo en esta ficha de 5,0 l/100 km",
+      "Forma parte del proyecto Ægea diseñado en Italia y fabricado por Tofaş en Bursa, que devolvió a Fiat al segmento C bajo el lema «Skills, no frills» y ganó el Autobest Best Buy Car 2016"
+    ],
+    contras: [
+      "Euro NCAP lo calificó con tres estrellas en 2016, con un 82 % en protección de adultos, un 60 % en niños y solo un 25 % en asistentes a la conducción; la cuarta estrella requería el pack de seguridad opcional con frenada autónoma",
+      "Los 24.000 euros señalados como punto de partida son una estimación sin tarifa oficial detrás, así que no equivalen al PVP de un Tipo SW Hybrid nuevo en España",
+      "Esta versión Hybrid va siempre con tracción delantera y cambio automático DCT de siete velocidades: no existe opción de tracción total ni de caja manual con el 1.5 de 130 CV",
+      "Las fichas de época sitúan esta versión SW 1.5 Hybrid entre 2022 y 2024, por lo que hablar de un Tipo SW 2025 nuevo exige contrastar el stock real antes de dar por vigente la oferta"
+    ],
     imagen: "/media/fiat-tipo-sw-2025-hero.webp",
     imagenOficial: "/media/fiat-tipo-sw-2025-hero.webp", // 17/10/2026: la -2 es el interior; portada = exterior
     imagenInteriorOficial: "",
@@ -744,8 +866,8 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     bateriaKwh: 13.6,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
+    garantiaBateriaAnos: 8,
+    garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     largoMm: 5063,
     anchoMm: 2004,
@@ -758,8 +880,19 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: 71,
     aprox: [],
-    pros: ["457 CV (336 kW)", "Maletero de 635 l", "0–100 km/h en 6,0 s", "7 plazas", "Desde 83.762 €"],
-    contras: ["Sin prueba EuroNCAP publicada para el Explorer PHEV"],
+    pros: [
+      "V6 EcoBoost de 3,0 litros apoyado por un motor eléctrico de 100 CV, con caja automática de diez marchas: 457 CV y 825 Nm conjuntos, la combinación con la que Ford lo presentó en Europa como su híbrido más potente",
+      "Siete plazas en tres filas dentro de 5.063 mm de carrocería de origen estadounidense: es el Explorer que Ford trajo a Europa solo como enchufable, en acabados ST-Line y Platinum, sin versiones de gasolina o diésel en su gama europea",
+      "Arrastra hasta 2.500 kg con freno y suma tracción total inteligente con gestión del terreno de siete modos: sirve para llevar una caravana grande o un barco y seguir avanzando fuera del asfalto, no solo para subir bordillos",
+      "Etiqueta Cero de la DGT gracias a sus 42 km de autonomía eléctrica, con modos EV Auto, EV Now, EV Later y EV Charge para gastar, guardar o recargar la batería de 13,6 kWh cuando convenga al trayecto",
+      "Salpicadero de SUV americano de su época: pantalla vertical de 10,1 pulgadas con SYNC 3, cuadro digital de 12,3 pulgadas y sonido B&O de catorce altavoces en el equipamiento de lanzamiento europeo"
+    ],
+    contras: [
+      "Sin nota Euro NCAP para este Explorer enchufable: la calificación de cinco estrellas de 2024 corresponde al Explorer eléctrico nuevo, un modelo distinto y mucho más pequeño, así que no debe atribuírsele a este V6",
+      "Sus 2.004 mm de anchura y 2.466 kg se notan en garajes, calles estrechas y aparcamientos españoles: tiene planta de SUV estadounidense y aquí eso se paga en maniobras a diario",
+      "La parte eléctrica es de primera generación enchufable: 42 km homologados y sin carga rápida en corriente continua, con 5 horas y 50 minutos en un enchufe doméstico de 230 V para reponer la batería, según el material de Ford reproducido por Carblue",
+      "Desde 83.762 euros en esta ficha y ya marcado como descatalogado: comprarlo hoy en España pasa por el stock restante o por el mercado de ocasión, no por pedirlo nuevo a fábrica"
+    ],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/ford/explorer/2020/estandar/plug-in-hybrid/explorer-30-phev-awd-platinum/datos",
     imagen: "/media/ford-explorer-phev-2023-hero.webp",
@@ -812,8 +945,19 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: 0,
     aprox: ["bateriaKwh", "autonomiaKm", "pesoKg"],
-    pros: ["580 CV (426 kW)", "Maletero de 400 l", "0–100 km/h en 4,0 s", "5 plazas", "Desde 49.780 $ (EE.UU., oficial 2025)"],
-    contras: ["No se vende oficialmente en España", "Sin datos EuroNCAP para esta versión"],
+    pros: [
+      "Mega Power Frunk de 400 litros con cuatro tomas de corriente y suelo con desagüe: al no llevar motor térmico bajo el capó, guarda delante lo que en un F-150 de gasolina es el vano motor, y Ford lo presenta como el maletero delantero más grande de una pick-up eléctrica",
+      "Pro Power Onboard de hasta 9,6 kW con tomas en el frunk, la cabina y la caja: funciona como generador de obra y, con Intelligent Backup Power y la batería extendida, Ford calcula que puede alimentar una casa una media de tres días durante un apagón",
+      "Doble motor con tracción total, 580 CV y 1.051 Nm de par instantáneo con la batería extendida de 131 kWh: deja el sprint hasta los cien en unos cuatro segundos pese a superar las tres toneladas, algo impensable en el F-150 térmico del que hereda la carrocería",
+      "Capacidad de trabajo de pick-up grande sin asteriscos: hasta 10.000 libras de remolque, unas 4,5 toneladas, con el paquete Max Trailer Tow en las versiones Flash y Lariat, según la propia Ford",
+      "Es la versión eléctrica de la pick-up más vendida de Estados Unidos y en su mercado parte de 49.780 dólares en 2025: frente a experimentos de marcas nuevas como el Cybertruck o el Rivian R1T, aquí hay un F-Series con la red y los recambios de Ford detrás"
+    ],
+    contras: [
+      "Ford no lo vende oficialmente en España ni en Europa: hacerse con uno exige importación individual desde Norteamérica, sin precio europeo publicado ni red comercial que lo haya vendido aquí",
+      "Sus 5.911 mm de largo, 2.032 mm de ancho y 3.127 kg lo hacen desproporcionado para las calles, los garajes y los aparcamientos españoles, pensados para turismos y SUV de medidas europeas",
+      "Sin nota Euro NCAP ni prueba publicada en euroncap.com: la prensa especializada recuerda que ni ANCAP ni Euro NCAP lo han calificado porque su masa máxima supera los 3.500 kg, y en Estados Unidos el IIHS le dio en 2025 su nota más baja, Poor, en el choque frontal de solape moderado",
+      "Batería enorme de 131 kWh con una carga rápida de solo 155 kW según su propia ficha: reponer un paquete así lleva su tiempo, y remolcando un remolque alto la autonomía puede caer a la mitad en autopista, el punto débil reconocido de esta generación de pick-ups eléctricas"
+    ],
     fuenteNombre: "Ford USA (showroom oficial)",
     fuenteUrl: "https://en.wikipedia.org/wiki/Ford_F-150_Lightning",
     imagen: "/media/ford-f-150-lightning-2025-hero.webp",
@@ -866,8 +1010,20 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 149,
     aprox: ["pesoKg", "altoMm", "emisionesCo2"],
-    pros: ["200 CV (147 kW)", "Maletero de 311 l", "0–100 km/h en 6,5 s", "5 plazas", "Desde 27.433 €"],
-    contras: ["Sin prueba EuroNCAP específica para la variante ST"],
+    pros: [
+      "Tricilíndrico 1.5 EcoBoost de Ford Performance con 200 CV a 6.000 rpm y 320 Nm entre 1.600 y 4.000 rpm: el restyling sumó un 10 % de par sobre los 290 Nm anteriores y mantiene la desactivación de un cilindro a carga parcial",
+      "Diferencial autoblocante mecánico Quaife disponible en el Performance Pack, acompañado de launch control y testigo luminoso de cambio en el cuentarrevoluciones: hardware de circuito raro en un utilitario del segmento B",
+      "Solo cambio manual de seis velocidades y modos Normal, Sport y Track, con muelles traseros vectoriales patentados por Ford y dirección de relación 12:1 pensada para enlazar curvas, no para aparcar sin esfuerzo",
+      "Puesta al día de 2022 exclusiva de esta etapa final: asientos Performance de desarrollo propio con respaldo integrado y 14 regulaciones, cuadro digital de 12,3 pulgadas, faros Matrix LED y el verde ST Mean Green heredado del Puma ST",
+      "Formato de cinco puertas con 311 litros de maletero y cinco plazas reales en 4.091 mm y 1.205 kg: firma los 6,5 segundos en la aceleración hasta 100 km/h sin dejar de servir como coche único para diario"
+    ],
+    contras: [
+      "Ya no se puede encargar nuevo: la cadena de Colonia montó el último Fiesta el 7 de julio de 2023 y cerró 47 años de saga, así que toda compra de este ST de 2023 es de ocasión o de stock residual",
+      "Sin opción automática en toda su vida comercial: quien busque un deportivo urbano con dos pedales tendrá que irse al Volkswagen Polo GTI con DSG, porque aquí la palanca manual es obligatoria",
+      "Etiqueta C de la DGT y nada de electrificación: homologa 6,7 l/100 km y 149 g/km de CO2 en WLTP, sin la etiqueta ECO que sí lucen los Fiesta 1.0 EcoBoost Hybrid de su misma gama",
+      "El autoblocante Quaife no venía de serie: sin el Performance Pack opcional, la tracción se resuelve con un diferencial abierto ayudado por el frenado selectivo de la rueda interior, así que conviene comprobar el equipamiento de cada unidad usada",
+      "La variante ST nunca pasó por Euro NCAP: las cinco estrellas de 2017 corresponden al Fiesta de base con el protocolo de entonces, motivo por el que esta ficha deja las estrellas a null y cita ese resultado solo como referencia"
+    ],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/ford/fiesta/2022/5-puertas/st/datos?amp=1",
     imagen: "/media/ford-fiesta-st-2023-hero.webp",
@@ -920,8 +1076,19 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     traccion: "Delantera / Total opcional",
     emisionesCo2: null,
     aprox: ["pesoKg", "consumo"],
-    pros: ["238 CV (175 kW)", "Maletero de 1383 l", "0–100 km/h en 7,0 s", "5 plazas", "Desde 28.145 $ (EE.UU., oficial 2025)"],
-    contras: ["No se vende oficialmente en España", "Sin datos EuroNCAP para esta versión"],
+    pros: [
+      "Chasis monocasco sobre la plataforma C2 que comparte con el Bronco Sport y el Escape, así que se conduce como un SUV y no como un pick-up de largueros",
+      "El 2.0 EcoBoost turbo de 238 CV y 376 Nm, con automática de ocho marchas y tracción total opcional, es la opción para quien descarta el híbrido 2.5 de 191 CV",
+      "Caja FLEXBED de 4,5 pies con portón multiposición, anclajes que también sirven de abrebotellas y ranuras para separar la carga con tablas",
+      "El rediseño de 2025 estrena de serie una pantalla central de 13,2 pulgadas con SYNC 4 y Apple CarPlay y Android Auto inalámbricos, frente a las 8 pulgadas anteriores",
+      "Con 5.072 mm de largo es 282 mm más corto que un Ranger, parte en EE. UU. de 28.145 dólares y remolca hasta 4.000 libras con el paquete 4K Tow"
+    ],
+    contras: [
+      "Ford no lo comercializa en España ni en Europa: hacerse con uno exige importarlo de Norteamérica y asumir transporte, homologación y matriculación sobre el precio americano",
+      "Euro NCAP nunca lo ha sometido a su protocolo, así que no hay una calificación europea comparable a la de un pick-up vendido aquí",
+      "Su caja de 4,5 pies y su remolque máximo de 4.000 libras quedan por debajo de las 5.000 libras de su único rival directo en EE. UU., el Hyundai Santa Cruz",
+      "Los 9,0 l/100 km aproximados de este EcoBoost penalizan frente al Maverick híbrido, que Ford anuncia en EE. UU. con 42 mpg en ciudad"
+    ],
     fuenteNombre: "Ford USA (showroom oficial)",
     fuenteUrl: "https://www.fredbeansford.net/showroom/2025/Ford/Maverick/Truck.htm",
     imagen: "/media/ford-maverick-2025-hero.webp",
@@ -974,8 +1141,20 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: null,
     aprox: ["largoMm", "anchoMm", "altoMm", "pesoKg", "consumo"],
-    pros: ["815 CV (599 kW)", "0–100 km/h en 3,4 s", "Desde 398.500 € (España)"],
-    contras: ["Sin datos EuroNCAP para esta versión", "Maletero a verificar", "Precio muy alto"],
+    pros: [
+      "Dirk Müller lo bajó a 6:57,685 en Nürburgring: primer coche de una marca americana por debajo de siete minutos en el Nordschleife",
+      "V8 de 5,2 litros sobrealimentado con 815 CV y 900 Nm, cárter seco inédito en un Mustang de calle y corte a 7.650 rpm con escape de titanio",
+      "Cambio de doble embrague de ocho marchas montado detrás, sobre el eje trasero, con árbol de carbono y reparto de pesos cercano al 50/50",
+      "Suspensión trasera inboard tipo pushrod de Multimatic con amortiguadores DSSV, rebaja de unos 40 mm en modo Track y aerodinámica activa con DRS",
+      "Derivado del Mustang GT3 de competición: carrocería de carbono terminada a mano por Multimatic en Ontario y frenos carbocerámicos Brembo con neumáticos de 325 mm delante y 345 mm detrás"
+    ],
+    contras: [
+      "En España parte de 398.500 euros, más de 100.000 euros por encima de los 286.470 euros de su rival natural, el Porsche 911 GT3 RS",
+      "Solo tiene dos plazas y donde iría el maletero van la suspensión trasera y la refrigeración del transeje, así que no queda espacio útil para equipaje",
+      "Consume 19,6 l/100 km según esta ficha y, pese a tanta fibra de carbono, el peso declarado ronda los 1.970 kg",
+      "Ford no ha publicado prueba Euro NCAP del GTD: no confundirlo con el Mustang de 2017, que era otra generación y otro coche",
+      "Se compra por solicitud con cupo muy limitado y la prensa española sigue señalando entregas europeas retrasadas y homologación por cerrar en varios países"
+    ],
     fuenteNombre: "Ford (comunicado oficial) / km77",
     fuenteUrl: "https://carculturetv.com/industry/2025-ford-mustang-gtd-revealed/",
     imagen: "/media/ford-mustang-gtd-2025-hero.webp",
@@ -1082,8 +1261,18 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: ["precioDesde", "anchoMm"],
-    pros: ["170 CV (125 kW)", "5 plazas", "Desde 75.000 € (aprox. no oficial)"],
-    contras: ["Sin datos EuroNCAP para esta versión", "Maletero a verificar", "Precio aproximado no oficial (no es PVP)"],
+    pros: [
+      "Con 5.340 mm sobre la batalla larga del Transit Custom, esta Plus gana en la zaga lo que la Nugget corta de 4,97 metros no puede ofrecer: un aseo fijo con inodoro y lavabo abatible tras mampara de privacidad",
+      "Camperización de Westfalia en tres zonas con cocina trasera en L: placa de dos fuegos, fregadero y nevera de compresor quedan separados del salón, frente a la cocina lateral de una Volkswagen California",
+      "Viaja con cinco plazas homologadas en la ficha y duerme a cuatro entre la cama de la banqueta de tres plazas y la segunda cama doble del techo, con asientos delanteros giratorios para montar el comedor",
+      "El EcoBlue diésel de 170 CV y 390 Nm es la mecánica alta de la Nugget: en la tabla española de 2025 recogida por EspacioFurgo, la larga de 170 CV con automático de ocho marchas es justamente la versión de 75.000 euros"
+    ],
+    contras: [
+      "Su cifra de partida figura como estimación en la propia ficha y la fuente citada es una página del Transit Custom furgón de CarExpert, no una tarifa de la Nugget Plus ya camperizada por Westfalia: conviene exigir presupuesto cerrado por escrito",
+      "En euroncap.com no consta ensayo con estrellas de esta camper: su base furgón logró en 2024 la calificación Platinum de Euro NCAP para comerciales por sus asistentes, que no equivale a estrellas de turismo ni valida la transformación habitable",
+      "No esperes un maletero medible como el de un furgón vacío: con aseo, cocina y las dos camas montados, la carga se reparte por armarios y huecos camper, y por eso la ficha deja ese volumen sin cifra",
+      "Pagar el baño a bordo cuesta maniobrabilidad diaria: esos 5.340 mm pesan en plazas de aparcamiento estándar y el conjunto camper entra peor en garajes bajos que una Nugget corta pensada también como coche familiar"
+    ],
     fuenteNombre: "CarExpert (datos Ford Transit Custom 125 kW)",
     fuenteUrl: "https://www.carexpert.com.au/ford/transit-custom/2023-2l-combi-fwd-diesel-automatic-js5ossok20230401",
     imagen: "/media/ford-transit-nugget-plus-2025-hero.webp",

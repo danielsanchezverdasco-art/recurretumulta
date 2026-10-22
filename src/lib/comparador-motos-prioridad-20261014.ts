@@ -2833,21 +2833,22 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "ducati-scrambler-icon-2026-precio-ficha-tecnica",
     aprox: ["precioDesde"],
     pros: [
-      "Motor de 803 cc con 73 CV (53.6 kW) y 65.2 Nm de par",
-      "Se puede llevar con el carnet A",
-      "Precio aproximado no oficial desde 11.690 €",
-      "Garantía: Garantía Ducati 2 años (24 meses) en modelos parecidos (toda la gama Ducati; ampliación oficial Factory Ever Red +12/24…",
-      "Ducati Scrambler Icon 2026: 176 kg, depósito de 14.5 l, asiento a 795 mm",
+      "Las cubiertas del depósito se desmontan y se cambian: entre colores de serie como el '62 Yellow y kits como Rio Celeste o Velvet Red suma nueve decoraciones sin repintar la moto",
+      "176 kg sin combustible y asiento plano a 795 mm —780 mm con el asiento bajo opcional— la hacen más ligera y accesible que la Full Throttle de la misma gama",
+      "La generación Next-Gen estrenó TFT en color de 4,3 pulgadas, iluminación completa LED y control de tracción de cuatro niveles desconectable, manteniendo el faro redondo con la X diurna",
+      "El Desmodue en L refrigerado por aire entrega el par de 65,2 Nm a 7.000 rpm con Ride by Wire y modos Road y Sport, un planteamiento pensado para ciudad y carretera abierta, no para buscar tiempos",
+      "En esta ficha figura desde 11.690 € como importe aproximado, unos 1.600 € por debajo de la Full Throttle, a cambio de renunciar a su escape Termignoni y a su quickshifter de serie"
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
-      "Mantenimiento orientativo (modelo similar de la misma marca), pendiente de confirmación oficial",
-      "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
+      "Ni el Ducati Quick Shift ni la conectividad con el móvil vienen montados de serie: en la Icon son extras, a diferencia de la Full Throttle, que ya incluye el cambio rápido",
+      "Frenada delantera con un único disco de 330 mm: suficiente en el uso diario para el que nace la Icon, pero sin el margen de una pareja de discos en conducción cargada o deportiva",
+      "El bicilíndrico refrigerado por aire desprende calor perceptible en paradas y atascos, un peaje clásico del Desmodue que sus rivales de refrigeración líquida evitan",
+      "El precio que muestra esta ficha es una referencia aproximada, no un PVP oficial cerrado para España, y el plan de mantenimiento recogido es orientativo hasta confirmarlo en taller oficial Ducati"
     ],
     curiosidades: [
-      "2015: renace Scrambler Icon",
-      "2023: nueva generación con TFT y modos de conducción",
-      "2026: continuidad Euro 5+",
+      "1962: la Scrambler original nace a petición de los hermanos Berliner, importadores de Ducati en Estados Unidos, y se produce hasta 1975",
+      "2014-2015: Ducati la presenta en la World Ducati Week de 2014 y la relanza en 2015 dentro del universo Land of Joy, con la leyenda Born in 1962 en el tapón del depósito de la primera Icon",
+      "2023: la segunda generación pierde 4 kg, estrena bastidor y basculante revisados y pasa de la instrumentación clásica a la TFT en color actual, con continuidad Euro 5+ en 2026"
     ],
     imagen: "/media/ducati-scrambler-icon-2026-ficha-tecnica-precio-hero.webp",
     galeria: [
@@ -2891,21 +2892,21 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "ducati-streetfighter-v4-s-2026-precio-ficha-tecnica",
     aprox: [],
     pros: [
-      "Motor de 1103 cc con 214 CV (157.4 kW) y 120 Nm de par",
-      "Se puede llevar con el carnet A",
-      "Precio oficial desde 32.490 €",
-      "Garantía: Garantía Ducati 2 años (24 meses) en modelos parecidos (toda la gama Ducati; ampliación oficial Factory Ever Red +12/24…",
-      "Ducati Streetfighter V4 S 2026: 199 kg, depósito de 16 l, asiento a 850 mm",
+      "Desmosedici Stradale V4 a 90° de 1.103 cc con 214 CV a 13.500 rpm, cigüeñal contrarrotante y orden de encendido Twin Pulse heredados de la Desmosedici de MotoGP",
+      "Trompetas de admisión de longitud variable (25 mm en configuración corta y 80 mm en larga) que dejan a esta naked a solo 2 CV de la Panigale V4",
+      "La letra S significa Öhlins por partida triple: horquilla NIX30, amortiguador TTX36 y amortiguador de dirección, todos con gestión electrónica Smart EC 3.0",
+      "Llantas de aluminio forjado de cinco radios y batería de litio: 189 kg en seco y una relación peso/potencia de 1,13 CV/kg",
+      "Frenada Brembo Hypure con discos delanteros de 330 mm y sistema Race eCBS, sobre el nuevo basculante simétrico hueco de doble brazo"
     ],
     contras: [
-      "Mantenimiento orientativo (modelo similar de la misma marca), pendiente de confirmación oficial",
-      "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Precio desde 32.490 €: segmento premium",
+      "Sin carenado que te cobije: los 214 CV empujan contra pecho y casco, y el par máximo no llega hasta las 11.250 rpm, así que exige llevar el V4 alto de vueltas",
+      "Asiento a 850 mm y depósito de solo 16 litros: postura comprometida para pilotos bajos y paradas frecuentes si se exprime el motor en carretera de curvas",
+      "Con 32.490 € de partida es una naked de presupuesto de superbike, y su Desmo Service desmodrómico no es una revisión al uso de una naked convencional"
     ],
     curiosidades: [
-      "2020: nace Streetfighter V4",
-      "2023-2025: evoluciones",
-      "2026: continuidad",
+      "2019: antes de presentarse en el EICMA, el prototipo con decoración pixelada del Centro Stile corrió la subida a Pikes Peak con Carlin Dunne; llegó a los concesionarios en la primavera de 2020",
+      "2025: la nueva generación aplica la Fight Formula sobre la séptima generación de la Panigale V4 y abandona el basculante monobrazo clásico por uno simétrico de doble brazo",
+      "Con el escape de competición Ducati Performance by Akrapovič, la prensa especializada cifra la potencia máxima en 226 CV, la cifra más alta alcanzada por una Streetfighter V4"
     ],
     imagen: "/media/ducati-streetfighter-v4-s-2026-ficha-tecnica-precio-hero.webp",
     galeria: [
@@ -2949,23 +2950,24 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "energica-ego-plus-2025-precio-ficha-tecnica",
     aprox: [],
     pros: [
-      "Motor eléctrico con 171 CV (126 kW) y 215 Nm de par",
-      "Se puede llevar con el carnet A",
-      "Precio aproximado no oficial: 29.140 £ (referencia Reino Unido, sin PVP en España)",
-      "Garantía: Vehículo 2 años; batería 3 años / 50.000 km (Energica UK / Bikes4Sale).",
-      "Energica Ego+ 2025: 270 kg, asiento a 810 mm",
+      "215 Nm instantáneos y sprint de 2,8 segundos hasta 100 km/h en la Ego+ estándar (2,6 s en la RS): empuje de superbike sin jugar con embrague ni cambio",
+      "Pack de 21,5 kWh máximos frente a los 13,4 kWh de la Ego básica, con 400 km anunciados en ciudad y carga rápida en continua que deja el 80 % en unos 40 minutos",
+      "Electrónica pulida en Módena y en carrera: cuatro modos de conducción, cuatro mapas de regeneración, control de tracción de seis niveles y asistente para maniobrar marcha atrás a 2,8 km/h",
+      "Parte ciclo acorde con el carenado italiano: horquilla Marzocchi de 43 mm, doble disco delantero Brembo de 330 mm y monoamortiguador trasero Bitubo, según la ficha técnica recogida por MotorcycleDB",
+      "Cobertura publicada por Energica para esta familia: la moto completa durante dos años y el pack de litio durante tres años o 50.000 km, lo primero que ocurra"
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
-      "Mantenimiento orientativo (modelo similar de la misma marca), pendiente de confirmación oficial",
-      "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Autonomía eléctrica por verificar en condiciones reales",
+      "El importe de 29.140 £ que circula viene de un listado británico recogido por Bikes4Sale y no es una tarifa española: para esta Ego+ 2025 no consta PVP cerrado en España, así que convertirlo a euros sería solo orientativo",
+      "Pesa 270 kg en orden de la ficha, y eso se nota en maniobras lentas y cambios de dirección frente a una deportiva de gasolina; además, los 400 km urbanos anunciados bajan a 180 km fuera de ciudad en los datos de Energica UK",
+      "Comprarla en 2025 exige mirar la marca, no solo la moto: Energica entró en liquidación judicial el 14 de octubre de 2024 y fue rescatada en agosto de 2025 por inversores de Singapur, con el reinicio de la producción aún por confirmar, así que recambios y servicio hay que verificarlos antes de pagar",
+      "El plan que trae esta ficha, con revisión a 10.000 km heredada de la Eva, convive con los intervalos largos del motor EMCE que cita la prensa especializada (aceite de transmisión en torno a 30.000 km y refrigerante en torno a 45.000 km): el calendario exacto de esta unidad hay que pedirlo por escrito, sin costes cerrados",
+      "Valorar su seguridad con una nota Euro NCAP sería un error de categoría: ese organismo no ensaya motos, y aquí lo que cuenta es el ABS Bosch combinado con el eABS y el control de tracción, no una estrella pensada para coches"
     ],
     curiosidades: [
-      "2015 aprox.: Energica presenta la Ego como deportiva eléctrica de producción. Fecha exacta a verificar.",
-      "2020 aprox.: Llega la batería + de 21,5 kWh con más autonomía y carga rápida. Fecha exacta a verificar.",
-      "2025: Ego+ RS en catálogo con motor HSM de 126 kW y 0–100 en 2,6 s según datos del fabricante recogidos por prensa especializada.",
-      "Etiqueta Cero de la DGT: entra en las ZBE sin restricciones",
+      "La Ego es el primer modelo de Energica, fundada en Módena en 2014: se mostró en el EICMA de Milán ese año y entró en producción en serie en 2015, cuando casi ninguna marca grande vendía una superbike eléctrica de calle",
+      "Entre 2019 y 2022 todas las motos de la Copa del Mundo FIM Enel MotoE fueron Energica Ego Corsa: Dorna cerró en 2022 esa etapa de suministrador único tras cuatro temporadas completas",
+      "La gama 2020 estrenó el pack de 21,5 kWh que define a esta Ego+: Energica anunciaba entonces 400 km en ciudad, 230 km en uso combinado y 180 km en carretera, frente al alcance mucho menor de la batería pequeña de 13,4 kWh",
+      "El motor EMCE, codesarrollado con Mavel y estrenado en 2021, recortó en torno a 10 kg al conjunto; con él, la versión RS firmó 2,6 segundos en el 0 a 100 km/h, dos décimas menos que la Ego+ convencional"
     ],
     imagen: "/media/energica-ego-plus-2025-ficha-tecnica-precio-hero.webp",
     galeria: [
@@ -3009,22 +3011,23 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "energica-eva-esseesse9-plus-2025-precio-ficha-tecnica",
     aprox: [],
     pros: [
-      "Motor eléctrico con 109 CV (80 kW) y 200 Nm de par",
-      "Se puede llevar con el carnet A",
-      "Precio aproximado no oficial: 24.590 £ (referencia Reino Unido, sin PVP en España)",
-      "Garantía: Vehículo 2 años; batería 3 años / 50.000 km (Energica UK).",
-      "Energica Eva EsseEsse9+ 2025: 260 kg, asiento a 810 mm",
+      "La naked clásica de Módena: faro redondo con corona de aluminio mecanizado, asiento corrido acanalado de inspiración café racer y postura erguida pensada para rodar a dúo, muy lejos del carenado integral de la Ego+",
+      "Su PMAC refrigerado por aceite entrega 80 kW (109 CV) y sube el par hasta 200 Nm frente a los 180 Nm de la EsseEsse9 básica, con el 0 a 100 km/h en 3,0 segundos y la punta limitada a 200 km/h",
+      "El salto de la versión + está en la batería: 21,5 kWh máximos y 18,9 kWh nominales de polímero de litio, con autonomías declaradas de 400 km en ciudad, 230 km en uso mixto y 180 km en extraurbano",
+      "Admite carga rápida en corriente continua por CCS de serie, algo rarísimo en una naked eléctrica: la ficha técnica de la marca cifra el ritmo en 400 km de autonomía recuperada por hora, y el cargador de a bordo en alterna rinde 3 kW",
+      "Parte ciclo a la altura del precio: horquilla Marzocchi de 43 mm, doble disco delantero Brembo de 330 mm con pinzas radiales, ABS Bosch desconectable combinado con el eABS propio y asistente de maniobra Park Assistant para mover sus 260 kg adelante y atrás a paso de peatón"
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
-      "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Autonomía eléctrica por verificar en condiciones reales",
+      "260 kg en orden de marcha para una naked sin carenado: se notan en las maniobras en parado, en los giros lentos y al exigirle al amortiguador trasero en carreteras rotas",
+      "La cifra de 400 km solo vale en ciudad: en extraurbano la propia marca la deja en 180 km, así que una ruta rápida de fin de semana exige planificar la parada de carga rápida sí o sí",
+      "Comprarla nueva en España en 2025 es un ejercicio de arqueología comercial: no se localiza tarifa oficial vigente de la marca para nuestro mercado y las referencias publicadas bailan entre los 20.894 euros del lanzamiento de la versión de 21,5 kWh y los 26.850 euros citados por prensa española en 2024, además de las 24.590 libras del distribuidor británico",
+      "El riesgo no es la moto, es el después: Energica entró en liquidación judicial el 14 de octubre de 2024 y no fue rescatada hasta agosto de 2025 por inversores de Singapur, con un plan de reinicio que prioriza los recambios; antes de pagar, conviene tener por escrito qué taller en España la mantendrá"
     ],
     curiosidades: [
-      "2018 aprox.: Energica lanza la Eva EsseEsse9 como naked eléctrica con estética retro. Fecha exacta a verificar.",
-      "2021 aprox.: Versión + con batería de 21,5 kWh y más autonomía. Fecha exacta a verificar.",
-      "2025: Eva EsseEsse9+ en catálogo con 80 kW, 200 Nm y 0–100 en 3,0 s según datos del fabricante.",
-      "Etiqueta Cero de la DGT: entra en las ZBE sin restricciones",
+      "EsseEsse9 se lee SS9: es la denominación moderna de la Via Emilia, la calzada que el cónsul romano Marco Emilio Lepido mandó construir en el 187 a. C. entre Rímini y Piacenza atravesando el Motor Valley italiano",
+      "Se desveló en el EICMA de 2017 y debutó en Estados Unidos en el CES de Las Vegas de enero de 2018 como tercer modelo de la casa, tras la Ego y la Eva, y como su primera propuesta de estética clásica",
+      "La variante + nació con la gama 2020 presentada en el EICMA de 2019: mantenía los 109 CV pero estrenaba la batería grande y un color propio, el Modena Yellow, junto al Shocking Blue y al Metal Black",
+      "La batería grande no salió de un despacho: Energica la desarrolló mientras era suministrador único del Mundial de MotoE, experiencia que la marca citó como origen directo del salto de capacidad de toda la gama 2020"
     ],
     imagen: "/media/energica-eva-esseesse9-plus-2025-ficha-tecnica-precio-hero.webp",
     galeria: [
@@ -3068,23 +3071,23 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "fantic-caballero-125-rally-2025-precio-ficha-tecnica",
     aprox: ["precioDesde"],
     pros: [
-      "Motor de 124.66 cc con 15 CV (11 kW) y 11.2 Nm de par",
-      "Se puede llevar con el carnet A1 / B",
-      "Precio aproximado no oficial desde 5.990 €",
-      "Garantía: 2 años de garantía legal (normativa UE).",
-      "Fantic Caballero 125 Rally 2025: 130 kg, depósito de 12 l, asiento a 860 mm",
+      "Monocilíndrico Minarelli de 124,66 cc con distribución variable VVA: 15 CV a 10.000 rpm y 11,2 Nm a 7.750 rpm, una combinación poco habitual en una 125 de estética retro",
+      "Pensada para salir del asfalto: llantas de radios de 21 pulgadas delante y 19 detrás con Pirelli Scorpion Rally STR, 200 mm de recorrido de suspensión y 280 mm de altura libre al suelo",
+      "ABS Continental de doble canal desconectable con modos Street y All Terrain, un equipamiento rarísimo en el segmento A1 y muy útil cuando la pista se complica",
+      "Embrague antirrebote que pide un 20 % menos de esfuerzo en la maneta y cambio de seis marchas, una ayuda real en ciudad para quien la conduce con el carnet B",
+      "Consumo homologado de solo 2,0 l/100 km según Motofichas, que estira el depósito en color arena mucho más de lo que sugiere su capacidad"
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
-      "Mantenimiento orientativo (modelo similar de la misma marca), pendiente de confirmación oficial",
-      "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Asiento a 860 mm: alto para pilotos de poca estatura",
-      "Depósito de 12 l: justo para rutas largas",
+      "Los 860 mm de asiento no son un capricho estético: llegan del recorrido extra y de la rueda delantera de 21 pulgadas, y dejan fuera a quien busque una 125 baja como la Deluxe, que se queda en 820 mm",
+      "Es la Caballero 125 más cara de la gama, con 5.990 euros frente a los 5.590 euros de la Scrambler, pagando sobre todo parte ciclo y estética Rally con idéntico motor de 15 CV",
+      "La horquilla invertida de 41 mm no admite reglajes y solo la precarga del amortiguador trasero es ajustable, un límite claro si se quiere afinar la moto para rodar por tierra",
+      "La pantalla LCD de 3,5 pulgadas no ofrece conectividad, un recorte difícil de justificar en una moto de 2025 de casi 6.000 euros pensada también para el uso diario",
+      "El plan de revisiones de esta ficha sigue apoyado en una Caballero 700 tomada como referencia y no en el manual propio de la 125 Rally, así que intervalos y costes quedan pendientes de confirmación en el concesionario"
     ],
     curiosidades: [
-      "2017 aprox.: Fantic recupera la saga Caballero con estética scrambler. Fecha exacta a verificar.",
-      "2023 aprox.: La gama Caballero 125 se actualiza con nueva base técnica. Fecha exacta a verificar.",
-      "2025: Caballero 125 Rally 2025 con bastidor nuevo, llantas de 21 y 19 pulgadas y ABS desconectable según prensa especializada.",
+      "El nombre Caballero nació con un ciclomotor todoterreno de 50 cc presentado en el Salón de Milán de noviembre de 1969 y producido desde la primavera de 1970, según la ficha histórica de OTTW",
+      "Su estética bebe directamente de la Caballero 125 RC de 1974 a 1976, el modelo histórico que Enduro Magazine señala como referencia de diseño de toda la gama actual",
+      "Para 2025 estrena bastidor monoviga de acero al cromo-molibdeno 30 mm más estrecho, nuevo escape y motor adaptado a la Euro5+, con tijas de aluminio mecanizado en lugar de piezas de fundición"
     ],
     imagen: "/media/fantic-caballero-125-rally-2025-ficha-tecnica-precio-hero.webp",
     galeria: [
@@ -3128,23 +3131,23 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "fantic-caballero-500-rally-2025-precio-ficha-tecnica",
     aprox: ["precioDesde"],
     pros: [
-      "Motor de 463 cc con 44 CV (32.4 kW) y 42 Nm de par",
-      "Se puede llevar con el carnet A2",
-      "Precio aproximado no oficial desde 7.590 €",
-      "Garantía: 2 años de garantía legal (normativa UE).",
-      "Fantic Caballero 500 Rally 2025: 150 kg, depósito de 12 l, asiento a 860 mm",
+      "El salto de 2025 está en el motor: Minarelli lo diseña y lo ensambla en Italia, crece a 463 cc con doble árbol de levas, radiador de aceite y pistón forjado, y entrega 44 CV a 8.000 rpm y 42 Nm a 7.000 rpm cumpliendo la Euro5+.",
+      "Frente a la Scrambler y la Deluxe, la Rally monta llantas de 21 pulgadas delante y 17 detrás, suspensiones de largo recorrido regulables en ambos trenes, guardabarros delantero grande y rejilla sobre el faro LED: es la Caballero pensada para salir del asfalto.",
+      "La electrónica va mucho más allá del escaparate retro: acelerador electrónico con dos modos de conducción, plataforma inercial con ABS en curva desconectable del todo o solo en el tren trasero, embrague antirrebote y escape Arrow.",
+      "El nuevo chasis monoviga de acero, con basculante de aluminio de sección variable, deja la moto 30 mm más estrecha que su antecesora y estrena un asiento de funda menos deslizante que por fin se abre con la llave.",
+      "En esta ficha figura con 150 kg para sus 44 CV, una relación que explica su agilidad en pistas frente a trail A2 bastante más pesadas, y la prensa especializada le atribuye un consumo de solo 3,6 l/100 km."
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
-      "Mantenimiento orientativo (modelo similar de la misma marca), pendiente de confirmación oficial",
-      "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Asiento a 860 mm: alto para pilotos de poca estatura",
-      "Depósito de 12 l: justo para rutas largas",
+      "La factura también es la más alta de las Caballero 500 de 2025: los 7.590 € de la Rally quedan por encima de los 7.090 € de la Scrambler y de los 7.290 € de la Deluxe que lista motofichas, y en la ficha esa cifra sigue marcada como aproximada, no como PVP cerrado.",
+      "El cuadro es una pantalla LCD de 3,5 pulgadas sin conectividad: no hay navegación ni avisos del móvil en una Caballero que, en cambio, sí lleva plataforma inercial y ABS en curva.",
+      "Para viajar por pistas manda el depósito: son 12 litros, así que incluso con el consumo contenido del Minarelli tocará planear los repostajes con más margen que en una trail pensada para devorar kilómetros.",
+      "La combinación de rueda delantera de 21 pulgadas y suspensiones de largo recorrido complica las paradas a quien no llegue bien al suelo: esta Rally no es la Caballero más amable para pilotos bajitos, y menos todavía con el firme suelto.",
+      "En uso campero serio quedan deberes, según la prueba de 1000PS: el colector va relativamente desprotegido ante piedras grandes y la palanca del freno trasero no es plegable, justo lo que más sufre en una caída en tierra."
     ],
     curiosidades: [
-      "2019 aprox.: La familia Caballero crece con la versión 500. Fecha exacta a verificar.",
-      "2023 aprox.: Evolución de la gama Caballero 500. Fecha exacta a verificar.",
-      "2025: Caballero 500 Rally 2025 con motor Minarelli de 463 cc, 44 CV y normativa Euro5+ según prensa especializada.",
+      "1969: el Caballero original nace en Barzago como una 49 cc de dos tiempos con motor Minarelli pensada para los jóvenes italianos, en plena fiebre de las scrambler y del enduro.",
+      "Tras las Scrambler y Flat Track, la Rally se sumó a la gama 500 como la versión más campera: basculante de aluminio que ahorraba unos 3 kg frente al de acero, horquilla de 43 mm de mayor recorrido, protecciones para radiador y cárter y escapes Arrow.",
+      "En 2025 el monocilíndrico deja atrás la etapa anterior: pasa a diseñarlo Minarelli y a ensamblarse en Italia, sube de cilindrada hasta los 463 cc y estrena radiador de aceite, acelerador electrónico y plataforma inercial."
     ],
     imagen: "/media/fantic-caballero-500-rally-2025-ficha-tecnica-precio-hero.webp",
     galeria: [
@@ -3152,12 +3155,21 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
-      revisiones: [
-        { nombre: "Revisión anual", queSeCambia: "Mantenimiento orientativo (modelo similar Caballero 700, misma marca): control de nivel de aceite cada 1.000 km, cambio de aceite anual,…", costeAproxEur: null },
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Mantenimiento orientativo (modelo similar Caballero 700, misma marca): control de nivel de aceite cada 1.000 km, cambio de aceite anual, revisiones a 1.000 /…",
+      "costeAnualAproxEur": null,
+      "fuente": "Manual de usuario de la Fantic Caballero 500 alojado en pieces-fantic.com (primer servicio a los 1.000 km y resto cada 5.000 km) y prueba offroad de la Caballero 500 Rally 2025 de 1000PS, que confirma el intervalo de servicio de 5.000 km. Sin costes: ninguna fuente consultada publica tarifas de revisión.",
+      "intervalo": "Primera revisión a los 1.000 km y siguientes cada 5.000 km",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión de rodaje (1.000 km)",
+          "queSeCambia": "Primera inspección al terminar el rodaje según el manual de la Caballero 500; desde ese momento el nivel de aceite del motor se comprueba cada 1.000 km."
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisiones periódicas (cada 5.000 km)",
+          "queSeCambia": "El plan del manual programa cambio de aceite de motor y de filtro de aceite con periodicidad anual, revisión del circuito de combustible, del filtro de aire y de la bujía, control del juego de válvulas y del sistema de refrigeración, cuyo líquido se cambia cada 3 años."
+        }
+      ]
     },
   },
   // ── FB MONDIAL HPS 125 2025 ─────────────────────────────
@@ -3188,21 +3200,23 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "fb-mondial-hps-125-2025-precio-ficha-tecnica",
     aprox: ["precioDesde"],
     pros: [
-      "Motor de 124.2 cc con 13.6 CV (10 kW) y 10.5 Nm de par",
-      "Se puede llevar con el carnet A1 / B",
-      "Precio aproximado no oficial desde 3.999 €",
-      "Garantía: 3 años de garantía FB Mondial + 2 años de extensión gratuita = 5 años en total (fb-mondial.es, condiciones:…",
-      "FB Mondial HPS 125 2025: 133 kg, depósito de 9.5 l, asiento a 790 mm",
+      "Monocilíndrico Piaggio de 124,2 cc con culata DOHC de cuatro válvulas, refrigeración líquida e inyección Dellorto Euro 5: entrega 13,6 CV a 9.750 rpm con cambio de seis marchas, muy cerca del techo que permite la categoría A1",
+      "Su firma visual es inconfundible entre las retro de 125: doble escape elevado por el lateral derecho, llantas de radios con neumáticos mixtos, asiento en dos alturas y horquilla invertida conviviendo con dos amortiguadores traseros clásicos con botella separada",
+      "Con el A1 se conduce desde el primer día y con el permiso B con tres años de antigüedad llega por convalidación, pero aquí el carnet es casi lo de menos: lo que se compra es una scrambler-café de autor, no una 125 genérica de transporte",
+      "Cobertura larga y verificable en la web española de la marca: tres años de garantía FB Mondial más dos de extensión gratuita hasta sumar cinco, condicionada a mantenerla en distribuidor oficial con recambios originales, a no superar 50.000 km ni dedicarla a uso comercial",
+      "Pesa 133 kg en orden de marcha y frena con disco delantero de 280 mm y pinza radial de cuatro pistones con latiguillos metálicos, un conjunto impropio de una 125 de estilo; a ello suma un gasto de apenas 2,4 l/100 km en ciclo combinado según la ficha de 1000PS"
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
-      "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Depósito de 9.5 l: justo para rutas largas",
+      "Los 3.999 € de esta ficha llevan la marca de aproximados y no un PVP cerrado publicado por Moteo Motor España para la HPS 125 de 2025, así que la cifra definitiva hay que cerrarla en concesionario antes de firmar nada",
+      "No busques una nota de Euro NCAP para juzgarla: ese programa somete a choque coches y nunca ha ensayado una motocicleta, y en la HPS la seguridad la ponen el ABS de esta versión 2025 y esa pinza radial delantera, no una estrella",
+      "El depósito se queda en 9,5 litros frente a los 12 de una Fantic Caballero 125: en escapadas largas toca parar antes que con la rival, aunque el gasto contenido de 2,4 l/100 km estira cada repostaje hasta rondar los 395 km teóricos que calcula 1000PS",
+      "El manillar ancho y unos retrovisores que sobresalen todavía más complican filtrar entre coches, y el asiento, ancho además de bajo, obliga a abrir las piernas: en la prueba de SoyMotero la altura efectiva resultó mayor de lo que sugiere su cifra sobre el papel",
+      "Su motor pide vueltas para darlo todo, con la potencia máxima a 9.750 rpm, y en autovía las cuestas se notan incluso jugando con sus seis marchas; además, los neumáticos de dibujo mixto que exige la estética scrambler no ofrecen el agarre de un compuesto cien por cien de asfalto"
     ],
     curiosidades: [
-      "2017 aprox.: FB Mondial relanza la HPS 125 como modelo hipster. Fecha exacta a verificar.",
-      "2021 aprox.: La HPS 125 se actualiza con instrumentación TFT y ABS. Fecha exacta a verificar.",
-      "2025: HPS 125i ABS 2025 con 13,6 CV, 133 kg y consumo declarado de 2,4 l/100 km según 1000PS.",
+      "FB son las iniciales de Fratelli Boselli, los hermanos fundadores: la casa dominó el Mundial entre 1949 y 1957 con cinco títulos de pilotos y cinco de marcas, empezando por el de Nello Pagani en 125 en 1949",
+      "HPS abrevia Hipster: entre 2014 y 2015 los bocetos de Boselli y Galli dieron forma a la Hipster 125 y la Hipster 250, el modelo con el que la marca renació tras cerrar en 1979 y que se presentó en Intermot como scrambler para el A1",
+      "La generación Euro 5 mantiene la inyección Dellorto y versiones con frenada combinada CBS o con ABS sobre el mismo disco delantero de 280 mm; la ficha de 1000PS para la HPS 125i ABS de 2025 conserva los 13,6 CV, los 133 kg y esos 2,4 l/100 km"
     ],
     imagen: "/media/fb-mondial-hps-125-2025-ficha-tecnica-precio-hero.webp",
     galeria: [
@@ -3210,12 +3224,26 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
-      revisiones: [
-        { nombre: "Revisión anual", queSeCambia: "Revisiones a 1.000 / 6.000 / 12.000 / 18.000 / 24.000 km + anual; aceite del motor en cada revisión; filtro de aceite según tabla del…", costeAproxEur: null },
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Revisiones a 1.000 / 6.000 / 12.000 / 18.000 / 24.000 km + anual; aceite del motor en cada revisión; filtro de aceite según tabla del manual; cadena cada 500…",
+      "costeAnualAproxEur": null,
+      "fuente": "Manual del propietario HPS125 CBS/ABS Euro 5 (fb-mondial.es): tabla de mantenimiento periódico con hitos a 1.000/6.000/12.000/18.000/24.000 km y nota de control anual; desde los 30.000 km se repite el ciclo desde los 6.000 km",
+      "intervalo": "Primera revisión a los 1.000 km y después a los 6.000, 12.000, 18.000 y 24.000 km, con control anual cuando no se alcance el kilometraje (manual Euro 5 de la HPS 125)",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisiones programadas 1.000-24.000 km",
+          "queSeCambia": "Aceite del motor SAE 10W-40 en todas las revisiones y filtro de aceite según la tabla del manual; además se comprueban bujía, juego de válvulas, ralentí de la inyección, filtro de aire (limpieza o cambio según tabla), refrigerante, frenos y diagnosis EFI/ABS con la herramienta Mondial"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Cadena de transmisión",
+          "queSeCambia": "Comprobación de tensión, alineación y estado con engrase cada 500 km, fuera del calendario de revisiones del taller"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Líquidos por tiempo",
+          "queSeCambia": "Líquido de frenos DOT 4 cada dos años, latiguillos de freno cada cuatro años y refrigerante cada tres años, según la tabla de mantenimiento periódico del manual"
+        }
+      ]
     },
   },
 ];
