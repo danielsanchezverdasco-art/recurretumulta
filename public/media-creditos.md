@@ -10491,3 +10491,14 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/mazda-cx-30-25-e-skyactiv-g-hunt1.webp | https://www.autonocion.com/wp-content/uploads/2026/01/Prueba-Mazda-CX-30-1.jpg | Autonoción | desconocida |
 | /media/mazda-cx-30-25-e-skyactiv-g-hunt2.webp | https://www.autonocion.com/wp-content/uploads/2026/01/Prueba-Mazda-CX-30-8.jpg | Autonoción | desconocida |
 | /media/mazda-cx-30-25-e-skyactiv-g-hunt3.webp | https://www.autonocion.com/wp-content/uploads/2026/01/Prueba-Mazda-CX-30-36.jpg | Autonoción | desconocida |
+| /media/ferrari-daytona-sp3-2025-precio-ficha-tecnica-hunt1.webp | https://www.magnetomagazine.com/app/uploads/2025/09/2024-Ferrari-Daytona-SP3_1379770.jpg | RM Sotheby's / Magneto Magazine | desconocida |
+| /media/ferrari-daytona-sp3-2025-precio-ficha-tecnica-hunt2.webp | https://cdn.rmsothebys.com/9/a/5/6/d/0/9a56d02d8ce6fa8bc536fe48821191f6c50edfbd.jpg | RM Sotheby's | desconocida |
+| /media/ferrari-daytona-sp3-2025-precio-ficha-tecnica-hunt3.webp | https://cdn.rmsothebys.com/7/9/e/2/d/7/79e2d7560bc638f711b5c67afbf6b1055145d45c.webp | RM Sotheby's | desconocida |
+| /media/navee-gt5-pro-hunt1.webp | https://image.alza.cz/Foto/CommodityLegend/legends/SP/SPTnave014/assets/6a984308695d94ef65480f4f/orig.png?width=1250 | Alza.cz (ficha de producto NAVEE GT5 Pro) | desconocida |
+| /media/navee-gt5-pro-hunt2.webp | https://percte.eu/image/cache/catalog/ext4oc/13/691485_2-1602163-800x800.jpg | Percte.eu (ficha de producto NAVEE GT5 Pro) | desconocida |
+| /media/suzuki-vitara-14t-mild-hybrid-hunt1.webp | https://images.67degreescdn.co.uk/p4oHa4Kh_eMLbc6NEGJQhHG9Gmg=/1440x756/smart/486/3/500563/d9382afc3f911d579476a7c49798e15ddf9d214c_-iwa_images-202509-_full_vitara--white--ultra--manual--1-.jpg | Eastbourne Motoring Centre (EMC Group), concesionario Suzuki | desconocida |
+| /media/suzuki-vitara-14t-mild-hybrid-hunt2.webp | https://autoblog.md/wp-content/uploads/2024/04/New-2024-Suzuki-Vitara-facelift_8.jpg | Autoblog.md (galería de prensa del Vitara facelift 2024) | desconocida |
+| /media/suzuki-vitara-14t-mild-hybrid-hunt3.webp | https://images.dailyrevs.com/0000/v3/Suzuki/6778ebdcdc959ff21909ea6f/2024-vitara-uk-version-suzuki-avpes0hwyt8pt3tvv.jpeg | DailyRevs (galería Suzuki Vitara UK 2024) | desconocida |
+| /media/wottan-sixteen-125-2025-ficha-tecnica-precio-hunt1.webp | https://www.wottanmotor.com/web/image/718609-f1d0fecc/Wottan-Sixteen-125-Scooter-crossover-compacto-urbano---Wottan-Motor-%287%29.jpg | Wottan Motor (web oficial) | desconocida |
+| /media/wottan-sixteen-125-2025-ficha-tecnica-precio-hunt2.webp | https://cdn-listino.inmoto.it/2025/7/24/IMG_7485_fc476aeb34.JPG | InMoto / Sport Network (listino Wottan Sixteen 125) | desconocida |
+| /media/wottan-sixteen-125-2025-ficha-tecnica-precio-hunt3.webp | https://cdn-listino.inmoto.it/2025/7/24/IMG_7486_e9358d11fd.JPG | InMoto / Sport Network (listino Wottan Sixteen 125) | desconocida |
