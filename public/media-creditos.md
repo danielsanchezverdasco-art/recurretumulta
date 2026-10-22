@@ -10740,3 +10740,15 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/joyor-k4-hunt1.webp | https://cdn.shopify.com/s/files/1/0633/9297/3021/files/joyor-k4-electric-scooter_2.jpg?v=1718950455 | OOLACTIVE, distribuidor oficial Joyor en la UE (CDN oficial de la ficha de producto K4) | desconocida |
 | /media/joyor-k4-hunt2.webp | https://cdn.shopify.com/s/files/1/0633/9297/3021/files/joyor-k4-electric-scooter_1.jpg?v=1718950455 | OOLACTIVE, distribuidor oficial Joyor en la UE (CDN oficial de la ficha de producto K4) | desconocida |
 | /media/joyor-k4-hunt3.webp | https://cdn.shopify.com/s/files/1/0633/9297/3021/files/joyor-k4-electric-scooter_5.jpg?v=1718950455 | OOLACTIVE, distribuidor oficial Joyor en la UE (CDN oficial de la ficha de producto K4) | desconocida |
+| /media/fiat-500e-3plus1-118-2025-precio-ficha-tecnica-hunt1.webp | https://www.wyborkierowcow.pl/wp-content/uploads/2022/03/Fiat-500-dodatkowe-drzwi.jpg | Wybór Kierowców | desconocida |
+| /media/fiat-500e-3plus1-118-2025-precio-ficha-tecnica-hunt2.webp | https://autogreeknews.gr/wp-content/uploads/2022/08/fiat-500-31.jpg | Fiat / Stellantis (foto de prensa la Prima Oro Rosa) vía AutoGreekNews | desconocida |
+| /media/fiat-500e-3plus1-118-2025-precio-ficha-tecnica-hunt3.webp | https://www.wyborkierowcow.pl/wp-content/uploads/2021/12/Fiat-500e-31-2021-test-bok-02-1-768x512.jpg | Wybór Kierowców | desconocida |
+| /media/porsche-718-cayman-gt4-rs-hunt1.webp | https://www.porscheclubgb.com/getmedia/817a2634-53e9-48da-be3e-e26ee0504e54/PCGB22_0796_fine_1.jpg | Porsche Club Great Britain | desconocida |
+| /media/porsche-718-cayman-gt4-rs-hunt2.webp | https://cdn.elferspot.com/wp-content/uploads/2025/11/06/s351vd_15-scaled.jpg?class=xl | Elferspot (anuncio de unidad 2023) | desconocida |
+| /media/porsche-718-cayman-gt4-rs-hunt3.webp | https://www.vegasautogallery.com/imagetag/2775/7/f/Used-2023-Porsche-718-Cayman-GT4-RS-1691883558.jpg | Vegas Auto Gallery (unidad 2023 en venta) | desconocida |
+| /media/qjmotor-sq-350-2025-ficha-tecnica-precio-hunt1.webp | https://qjmotor.es/wp-content/uploads/2026/07/qjmotor-SQ350-plata-perfil-lateral-derecha-opt-1.jpg | QJMotor España | desconocida |
+| /media/qjmotor-sq-350-2025-ficha-tecnica-precio-hunt2.webp | https://qjmotor.es/wp-content/uploads/2026/07/SQ-350-PLATA_3-4_SIN-PARABRISES_softshadow-scaled.png | QJMotor España | desconocida |
+| /media/qjmotor-sq-350-2025-ficha-tecnica-precio-hunt3.webp | https://qjmotor.es/wp-content/uploads/2026/07/SQ-350-NEGRA_3-4_SIN-PARABRISES_hardshadow-scaled.png | QJMotor España | desconocida |
+| /media/joyor-e8-s-hunt1.webp | https://trotinetesportugal.com/wp-content/uploads/2024/07/joyor-e8-s-02.jpg | Joyor (imagen oficial del fabricante) vía Trotinetes Portugal | desconocida |
+| /media/joyor-e8-s-hunt2.webp | https://trotinetesportugal.com/wp-content/uploads/2024/07/joyor-e8-s-01.jpg | Joyor (imagen oficial del fabricante) vía Trotinetes Portugal | desconocida |
+| /media/joyor-e8-s-hunt3.webp | https://trotinetesportugal.com/wp-content/uploads/2024/07/joyor-e8-s-03.jpg | Joyor (imagen oficial del fabricante) vía Trotinetes Portugal | desconocida |
