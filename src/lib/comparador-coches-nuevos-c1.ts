@@ -681,18 +681,18 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde"],
     pros: [
-      "1.5 turbo de 147 CV y 210 Nm con cambio CVT: mecánica probada y fiable",
-      "El SUV de acceso de Chery: precio rompedor en los mercados donde se vende",
-      "Pantalla táctil de 10,25\" y cuadro digital en un SUV asequible",
-      "Garantía de motor de por vida en varios mercados",
-      "Versión híbrida ligera MHEV disponible con 145 CV",
+      "El 1.5 turbo de 147 CV y 210 Nm es el mismo bloque que Chery monta en el Omoda 5, aquí unido a un cambio CVT y a la tracción delantera",
+      "Desciende del Tiggo 5x estrenado en China en 2017 sobre la plataforma T1X, y fuera también se ha vendido como DR 5.0 en Italia o Tenet T4 en Rusia",
+      "En Australia arranca en 23.990 dólares drive-away con una garantía de siete años sin tope de kilómetros, y CarsGuide lo señala como el SUV más barato del país",
+      "Doble pantalla de 10,25 pulgadas y conectividad inalámbrica para Android Auto y Apple CarPlay; el acabado Ultimate añade cámara de 360 grados y cargador de móvil sin cables",
+      "Maletero de 380 litros en 4,35 m de carrocería y una fila trasera con salidas de aire y puerto USB donde viajan dos adultos de 1,83 m"
     ],
     contras: [
-      "No se comercializa en España: Chery vende aquí Omoda y Jaecoo",
-      "Prestaciones modestas: el 1.5T prioriza la economía",
-      "Sin etiqueta ECO en la versión gasolina pura",
-      "Calidades interiores mejorables frente a rivales europeos",
-      "Red de servicio Chery inexistente en España",
+      "Con el emblema de Chery no se vende en España: su gemelo para nuestro mercado es el Ebro s400 híbrido, ensamblado en la antigua planta de Nissan en Barcelona",
+      "Carece de stop/start y CarExpert midió que en tráfico urbano el gasto se dispara frente a los 7,3 l/100 km que homologa en Australia",
+      "La dirección es tan ligera que CarExpert la compara con un videojuego, y el asistente de mantenimiento de carril interviene más de la cuenta",
+      "Al exigirle en una cuesta, el CVT deja el motor girando alto con un sonido agudo y la respuesta al acelerador resulta irregular en maniobras lentas",
+      "Su 1.5T no tiene nota propia de Euro NCAP: las cuatro estrellas europeas de 2025 corresponden al Tiggo 4 híbrido y la unidad ensayada fue un Ebro s400"
     ],
     imagen: "/media/chery-tiggo-4-pro-15t-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/chery-tiggo-4-pro-15t-2026-precio-ficha-tecnica-oficial.webp",
@@ -704,14 +704,23 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       { src: "/media/chery-tiggo-4-pro-15t-2026-precio-ficha-tecnica-oficial.webp", alt: "Chery Tiggo 4 Pro, vista tres cuartos delantera", ancho: 1600, alto: 900 },
       { src: "/media/chery-tiggo-4-pro-15t-2026-precio-ficha-tecnica-interior.webp", alt: "Interior del Chery Tiggo 4 Pro", ancho: 1600, alto: 900 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: {
+      "estrellas": null,
+      "ano": null,
+      "url": null,
+      "nota": "Sin datos Euro NCAP para este 1.5T de gasolina: la nota de 2025 es del Tiggo 4 híbrido, con el Ebro s400 como unidad probada"
+    },
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que antes ocurra)",
-      revisiones: [
-        { nombre: "Revisión anual / 10.000 km", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección general", costeAproxEur: null },
+      "intervalo": "Cada 10.000 km o al cumplirse un año, lo primero que suceda",
+      "revisiones": [
+        {
+          "nombre": "Revisión de los 10.000 km o del primer año",
+          "queSeCambia": "Cambio del aceite del motor y de su filtro, filtro de habitáculo nuevo y una inspección general del conjunto",
+          "costeAproxEur": null
+        }
       ],
-      costeAnualAproxEur: null,
-      fuente: "Estándar de mantenimiento Chery (modelo no comercializado en España)",
+      "costeAnualAproxEur": null,
+      "fuente": "Referencia de servicio de Chery para el Tiggo 4 Pro de exportación; el modelo carece de programa español al no comercializarse aquí"
     },
   },
   // AUDIT 08/10/2026 (orden Daniel): nulls justificados — N/A: autonomiaKm, bateriaKwh, cargaRapidaKw, garantiaBateriaAnos, garantiaBateriaKm, garantiaBateriaDegradacionPct — sin ES: precioDesde (no se vende en ES), etiquetaDgt (sin homologación ES) — no publicado por la marca: ceroCien, velocidadMax, pesoKg, consumo, emisionesCo2 — vídeo sin asignar (campo opcional).

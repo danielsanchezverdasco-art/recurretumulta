@@ -888,18 +888,18 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
     cargaRapidaKw: 30,
     etiquetaDgt: "Cero",
     pros: [
-      "El monovolumen eléctrico más barato de Arcfox: desde unos 14.000 € en China",
-      "Misma mecánica que el Kaola: 500 km CLTC y carga rápida en 26 minutos",
-      "V2L y V2V de serie",
-      "Garantía de 5 años o 120.000 km y componentes eléctricos de por vida",
-      "Diseño moderno con techo flotante y tiradores ocultos",
+      "Lanzado el 7 de agosto de 2024 como SUV compacto de cinco plazas: sustituye las dos butacas traseras del Kaola original por una banqueta convencional y baja el precio de partida a 109.800 yuanes",
+      "Conserva la puerta corredera eléctrica del lado derecho, con un escalón de solo 340 mm, un asidero infantil a 0,7 m del suelo y 1.025 mm de espacio entre filas",
+      "Batería LFP de CATL de 58,8 kWh: necesita unos 26 minutos para pasar del 30 al 80 % de carga y admite descarga V2L y V2V para alimentar aparatos externos o a otro coche eléctrico",
+      "Carrocería con un 62,1 % de aceros de alta resistencia e interior casi sin aldehídos ni benceno, con materiales de contacto antibacterianos pensados para bebés",
+      "En China se vendió con garantía de vehículo de cinco años o 120.000 km y cobertura de por vida para los componentes eléctricos, además del cargador doméstico gratuito"
     ],
     contras: [
-      "Sin venta oficial en España ni en Europa",
-      "Versión simplificada del Kaola: menos equipamiento",
-      "163 CV justos con el coche cargado",
-      "Marca desconocida fuera de China",
-      "Sin videoprueba en español disponible",
+      "Arcfox no lo comercializa fuera de China: quien lo quiera en España tendría que importarlo por su cuenta y asumir recambios y asistencia sin red local de BAIC",
+      "La quinta plaza es un añadido pobre: la banqueta gana un asiento central que, según CarNewsChina, ni siquiera parece disponer de reposacabezas propio",
+      "Hereda sin cambios el motor delantero de 120 kW del Kaola de 2023: con 1.800 kg en orden de marcha, el 0 a 100 km/h se va a unos 11 segundos",
+      "Los 500 km son del ciclo chino CLTC y no existe homologación WLTP con la que compararlo en Europa frente a su rival directo, el BYD Yuan Plus",
+      "Se vende como SUV, pero por fuera es el Kaola de siempre: silueta de monovolumen, puerta corredera y, como único cambio visible, el color de la zona sobre las ventanillas"
     ],
     largoMm: 4500,
     anchoMm: 1870,
@@ -915,16 +915,15 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
     imagen: "/media/arcfox-kaola-s-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 2.6,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.6,
-      seguroTercerosAnual: 400,
-      seguroAmpliadoAnual: 750,
-      mantenimientoAnual: 240,
-      costeMensualTotal: 119,
-      notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio convertido desde yuanes.",
-      estimado: true,
+      "costeEnergia100km": 2.6,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.6,
+      "seguroTercerosAnual": 400,
+      "seguroAmpliadoAnual": 750,
+      "mantenimientoAnual": 240,
+      "costeMensualTotal": 119,
+      "notas": "Nota rehecha para el Kaola S: sus 2,60 euros por cada cien kilómetros salen de gastar unos 14,4 kWh, muy cerca de los 14,7 kWh/100 km que homologa en ciclo CLTC. El seguro amplio y los 240 euros anuales de revisiones son importes estimados por esta ficha, no tarifas publicadas por Arcfox, y los 14.274 euros de partida equivalen a los 109.800 yuanes del acabado AIR chino.",
+      "estimado": true
     },
     galeria: [
       {
@@ -947,5 +946,11 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
       },
     ],
     analisisSlug: "arcfox-kaola-s-2024-precio-ficha-tecnica",
+    euroncap: {
+      "estrellas": null,
+      "ano": null,
+      "url": null,
+      "nota": "Sin datos EuroNCAP: modelo no probado"
+    },
   },
 ];

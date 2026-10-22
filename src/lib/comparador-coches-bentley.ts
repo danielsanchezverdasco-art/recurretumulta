@@ -575,8 +575,8 @@ export const COCHES_BENTLEY: CocheComparador[] = [
   },
   {
     id: "bentley-continental-gtc-mulliner-2026-precio-ficha-tecnica",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
+    garantiaBateriaAnos: 8,
+    garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bentley-continental-gtc-mulliner-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/bentley-continental-gtc-mulliner-2026-precio-ficha-tecnica-interior.webp",
@@ -596,18 +596,18 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
-      "El descapotable definitivo de Bentley: 782 CV con artesanía Mulliner a medida",
-      "El Continental más caro de la gama: exclusividad absoluta garantizada",
-      "Personalización Mulliner: cada unidad puede ser única en el mundo",
-      "Misma mecánica Ultra Performance Hybrid del GTC Speed",
-      "Etiqueta Cero con 78 km eléctricos",
+      "Su techo de lona de siete arcos tarda 19 segundos en plegarse, puede accionarse en marcha hasta 48 km/h y se ofrece en siete colores, incluido el tweed",
+      "Parrilla Floating Diamond cromada, faros con reflector de cristal tallado y llantas de 22 pulgadas en gris tungsteno con emblemas que se mantienen siempre verticales",
+      "Interior en tres tonos con la perforación de diamante Mulliner extendida hasta el cubrecapota, visible cada vez que se viaja a cielo abierto",
+      "Asientos delanteros Wellness con ajuste postural y climatización automática, y llaves forradas en cuero entregadas en una caja a juego con la tapicería elegida",
+      "Comparte con el GTC Speed el V8 híbrido de 782 CV y 1.000 Nm, puede circular en eléctrico hasta 140 km/h y lleva etiqueta Cero"
     ],
     contras: [
-      "413.410 € de partida: territorio Rolls-Royce Dawn en precio",
-      "El acabado Mulliner no mejora prestaciones ni dinámica",
-      "Maletero de 134 L y 2.636 kg",
-      "Plazos de entrega largos por fabricación a medida",
-      "Sin carga rápida en continua",
+      "Parte de 413.410 € sin opciones y queda por encima de otros descapotables V8 de gran turismo como el Aston Martin DB12 Volante o el Ferrari Roma Spider",
+      "Todo lo que Mulliner suma aquí es cromo, costuras y pintura: la mecánica es la misma del GTC Speed y acelera igual que aquel, en 3,4 segundos hasta los 100 km/h",
+      "Con solo 134 litros de maletero, el equipaje de un fin de semana para dos ya va justo cuando la capota ocupa su hueco trasero",
+      "Pesa 2.636 kg en orden de marcha y su punta queda limitada a 285 km/h, lejos de los 335 km/h que alcanza el coupé GT Mulliner con idéntico motor",
+      "La batería solo acepta carga en alterna de hasta 11 kW y tarda unas 2¾ horas en llenarse: sin carga rápida, en un viaje largo apenas se recupera energía en paradas cortas"
     ],
     largoMm: 4895,
     anchoMm: 1966,
@@ -623,15 +623,15 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     imagen: "/media/bentley-continental-gtc-mulliner-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
-      "costeEnergia100km": 8.0,
-      "seguroTercerosAnual": 1500,
-      "seguroAmpliadoAnual": 3200,
-      "mantenimientoAnual": 1800,
+      "costeEnergia100km": 8,
       "costeMensualTotal": 740,
-      "precioKwh": 0.18,
+      "estimado": true,
+      "mantenimientoAnual": 1800,
+      "notas": "Estimación pensada para este descapotable Mulliner: si se aprovechan sus 78 km eléctricos cargando en casa a 11 kW, el coste por kilómetro baja mucho; si no se enchufa, manda el V8. Seguro y mantenimiento son los de un Bentley de más de 400.000 €.",
       "precioGasolinaL": 1.65,
-      "notas": "estimación: el tope de gama descapotable eleva seguro y mantenimiento",
-      "estimado": true
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 3200,
+      "seguroTercerosAnual": 1500
     },
     galeria: [
       {
@@ -653,6 +653,29 @@ export const COCHES_BENTLEY: CocheComparador[] = [
         "alto": 800
       }
     ],
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: no consta ninguna prueba publicada de Euro NCAP para el Continental GTC ni para ninguna generación anterior del Continental",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Planes de servicio Bentley: intervalo de 12 meses o 16.000 km (CarExpert, planes oficiales de Bentley; intervalo confirmado en la prueba del Continental GTC Speed de carsales.com.au)",
+      "intervalo": "Al llegar a los 12 meses o a los 16.000 km, lo primero que ocurra",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión periódica anual",
+          "queSeCambia": "Aceite del V8 4.0 y filtros, con inspección de una amplia lista de componentes por técnicos formados por Bentley"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Operaciones incluidas en los planes de servicio de la marca",
+          "queSeCambia": "Líquido de frenos y batería de la llave, además del aceite y los filtros, siempre con recambios originales Bentley"
+        }
+      ]
+    },
   },
   {
     id: "bentley-flying-spur-2026-precio-ficha-tecnica",

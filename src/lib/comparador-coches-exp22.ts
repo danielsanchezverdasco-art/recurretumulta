@@ -2734,16 +2734,16 @@ export const COCHES_EXP22: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde", "potenciaCv", "maleteroL", "largoMm", "anchoMm", "altoMm", "parNm"],
     pros: [
-      "1.6 turbo de 147 CV con buen empuje",
-      "SUV compacto de 4,32 m, ideal para ciudad",
-      "Chery ya tiene red oficial en España",
-      "Garantía amplia de la marca",
+      "Motor ACTECO 1.5 turbo de 147 CV: entrega los 210 Nm entre 1.750 y 4.000 rpm, así que adelanta sin necesidad de estirar las marchas",
+      "El Tiggo 4 Pro Urban con volante a la derecha logró las cinco estrellas de ANCAP, con un 88 % en protección de ocupantes adultos",
+      "Su origen es el Tiggo 5x chino de 2017: fuera de China se rebautizó Tiggo 4 y el rediseño de 2024 le puso la franja LED trasera a todo lo ancho",
+      "Chery Australia lo cubre con siete años de garantía sin tope de kilómetros y otros siete de revisiones con precio cerrado"
     ],
     contras: [
-      "Etiqueta C en la versión gasolina",
-      "Sin prueba EuroNCAP del Tiggo 4",
-      "Consumo mejorable en ciudad",
-      "Maletero de 340 litros, justo",
+      "Sin hibridación alguna se queda con la etiqueta C de la DGT, mientras su hermano CSH luce la ECO",
+      "En las pruebas argentinas el gasto urbano rondó los 11 l/100 km: este turbo bebe más en ciudad que en carretera",
+      "Los 340 litros de maletero quedan cortos cuando viajan sus cinco ocupantes con el equipaje de unas vacaciones",
+      "La prueba Euro NCAP de diciembre de 2025, con cuatro estrellas, corresponde al Tiggo 4 híbrido CSH, no a esta versión de gasolina"
     ],
     imagen: "/media/chery-tiggo-4-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/chery-tiggo-4-2025-precio-ficha-tecnica-oficial.webp",
@@ -2753,30 +2753,38 @@ export const COCHES_EXP22: CocheComparador[] = [
     videoCanal: null,
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 12.38,
-      seguroTercerosAnual: 440,
-      seguroAmpliadoAnual: 800,
-      mantenimientoAnual: 440,
-      costeMensualTotal: 258,
-      precioKwh: 0,
-      precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
-      estimado: true,
+      "costeEnergia100km": 12.38,
+      "seguroTercerosAnual": 440,
+      "seguroAmpliadoAnual": 800,
+      "mantenimientoAnual": 440,
+      "costeMensualTotal": 258,
+      "precioKwh": 0,
+      "precioGasolinaL": 1.65,
+      "notas": "Los 258 € mensuales salen de sumar 1.857 € al año de gasolina (15.000 km a 12,38 € cada 100 km, con el litro a 1,65 €), 800 € de seguro amplio y 440 € de mantenimiento anual; son estimaciones de esta ficha, no tarifas cerradas de ningún taller.",
+      "estimado": true
     },
     euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      "estrellas": null,
+      "ano": null,
+      "url": null,
+      "nota": "Sin datos EuroNCAP para esta versión de gasolina: la unidad examinada en diciembre de 2025 fue el Tiggo 4 híbrido CSH, que obtuvo cuatro estrellas"
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
-      revisiones: [
-        { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección de 30 puntos", costeAproxEur: 180 },
-        { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 270 },
+      "intervalo": "Cada 15.000 km o cada año, lo primero que llegue, según el calendario que Chery publica para el Tiggo 4 Pro en Australia",
+      "revisiones": [
+        {
+          "nombre": "Primera visita del 1.5 turbo, al año o a los 15.000 km",
+          "queSeCambia": "Aceite nuevo para el motor turbo y su filtro, filtro de habitáculo sustituido y repaso de niveles, frenos y neumáticos",
+          "costeAproxEur": null
+        },
+        {
+          "nombre": "Segunda visita, a los 30.000 km o a los dos años",
+          "queSeCambia": "Se repite el cambio de aceite y de filtros y se añaden el filtro de aire del motor y la renovación del líquido de frenos",
+          "costeAproxEur": null
+        }
       ],
-      costeAnualAproxEur: 220,
-      fuente: "Plan oficial Chery España",
+      "costeAnualAproxEur": null,
+      "fuente": "Intervalo de Chery Australia para el Tiggo 4 Pro; Chery no publica plan ni precios de revisiones para España"
     },
   },
   {

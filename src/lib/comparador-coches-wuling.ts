@@ -780,18 +780,18 @@ export const COCHES_WULING: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
-      "Monovolumen de 7 plazas con 125 km eléctricos: etiqueta Cero",
-      "1.100 km de autonomía total con el sistema Lingxi Power 3.0",
-      "Puertas traseras correderas: primicia en el segmento",
-      "Consumo de solo 5,3 l/100 km con la batería descargada",
-      "Función V2L para alimentar aparatos externos",
+      "En China la versión PHEV Luxury cuesta 103.800 yuanes: siete plazas y enchufe por precio de utilitario europeo",
+      "Batalla de 2.910 mm con 3.331 mm de longitud interior útil y tercera fila reclinable hasta 127 grados",
+      "El maletero crece de 315 a 1.202 litros abatiendo y volteando la tercera fila con su plegado tipo magia",
+      "Puerta lateral corredera eléctrica con la guía oculta bajo la ventanilla y asientos delanteros reclinables 180 grados",
+      "Más de 70.000 unidades vendidas en China: líder entre los monovolúmenes de menos de 150.000 yuanes durante 11 meses"
     ],
     contras: [
-      "No se vende oficialmente en España",
-      "Potencia combinada no publicada por la marca",
-      "La versión eléctrica cuesta más que la híbrida enchufable",
-      "Red de servicio inexistente fuera de China",
-      "Prestaciones modestas para 1,8 toneladas",
+      "Sin importador oficial en España: solo llegaría por importación paralela, sin red que haga efectiva su garantía",
+      "Los 125 km eléctricos y los 1.100 km combinados se midieron con el ciclo CLTC de China; homologados en Europa rendirían bastante menos",
+      "SGMW no publica la potencia combinada ni el 0 a 100 de esta versión: del motor 1.5 atmosférico solo constan 78 kW",
+      "Solo 315 litros de maletero con la tercera fila levantada: la familia al completo viaja casi sin equipaje",
+      "La versión eléctrica pura sale más cara que este híbrido enchufable: 109.800 yuanes frente a 103.800"
     ],
     largoMm: 4910,
     anchoMm: 1850,
@@ -807,16 +807,15 @@ export const COCHES_WULING: CocheComparador[] = [
     imagen: "/media/wuling-starlight-730-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 5.2,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.58,
-      seguroTercerosAnual: 450,
-      seguroAmpliadoAnual: 840,
-      mantenimientoAnual: 380,
-      costeMensualTotal: 167,
-      notas:
-        "Estimación con 15.000 km/año, 60 % en modo eléctrico (recarga doméstica a 0,18 €/kWh) y 40 % en gasolina a 1,58 €/l, todo riesgo.",
-      estimado: true,
+      "costeEnergia100km": 5.2,
+      "costeMensualTotal": 167,
+      "estimado": true,
+      "mantenimientoAnual": 380,
+      "notas": "Nota calculada solo para este monovolumen: se reparte el uso entre trayectos con la batería Shenlian de 20,5 kWh cargada en casa y viajes largos quemando gasolina, porque un siete plazas enchufable rara vez vive siempre en eléctrico. Cuando la carga se agota, la referencia es el consumo oficial de 5,3 l/100 km en ciclo CLTC. Los 380 euros anuales de mantenimiento son una estimación de esta ficha y no una tarifa SGMW: la marca no publica precios de revisión en Europa.",
+      "precioGasolinaL": 1.58,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 840,
+      "seguroTercerosAnual": 450
     },
     galeria: [
       {
@@ -839,6 +838,24 @@ export const COCHES_WULING: CocheComparador[] = [
       },
     ],
     analisisSlug: "wuling-starlight-730-2025-precio-ficha-tecnica",
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: modelo no probado",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Wuling Indonesia (wuling.id), nota oficial de posventa del Darion del 5 de noviembre de 2025: coste total publicado de 12,6 millones de rupias hasta los 42.500 km (5,5 años), sin equivalente oficial en euros",
+      "intervalo": "Primera revisión a los 5.000 km; las siguientes se espacian 7.500 km, según el plan oficial de Wuling para el Darion PHEV, nombre del Starlight 730 en Indonesia",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisiones periódicas del PHEV (cada 7.500 km desde los 5.000 km)",
+          "queSeCambia": "Aceite de motor y su filtro, aceite de la transmisión híbrida DHT, bujías, filtro de aire del motor, filtro del habitáculo, líquido de frenos, refrigerante del motor y del sistema híbrido y filtro del cánister de carbono, según la relación oficial de piezas publicada por Wuling Indonesia para el Darion PHEV"
+        }
+      ]
+    },
   },
   {
     id: "wuling-starlight-730-ev-2025-precio-ficha-tecnica",
