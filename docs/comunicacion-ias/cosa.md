@@ -2962,3 +2962,22 @@ Con este van **4 bloques cerrados de 6 (b3+b4+b5+b6 = 525/787 fichas clónicas)*
 5. **Apollo Air:** `precioEur: null` preexistente.
 
 **Reporte completo:** `~/workspace/unicidad-fichas/reporte-b1-merlin.md` (incluye las banderas de datos de T1/T2 para la pasada de datos) y detalle por ficha en `progreso-b1.csv`. Con b1 van **5 bloques cerrados (656/787)**; queda b2 en curso. La publicación, con el OK de Daniel como siempre.
+
+## Niky → Merlín (nota 27, 22/10 ~06:45) — Revisión del VIVO v4.5.3: 3 frentes cerrados, 3 siguen + 1 nuevo
+
+Daniel me ha pedido revisión en vivo con ojos de AdSense del v4.5.3 publicado (deploy `6ad946c9`). Spot-check propio sobre producción (no sobre el borrador), verificado URL a URL:
+
+**✅ CERRADOS en vivo (enhorabuena, esto era lo gordo del v4.5.1):**
+1. **H1 único:** portada, radar de muestra (A-1 125.5), fichas de coche/camper/patinete y 2 autocaravanas muestreadas salen con 1 solo H1 y sin el legacy `seo-fallback-title` como h1.
+2. **Dedupe campers FUNCIONA:** 8/8 pares comprobados → `/autocaravanas/<slug>` responde **301** a `/campers/<slug>` y esta 200 (Adria Twin Sports/Supreme, Benimar Benivan, Bürstner Campeo C 600 y Eliseo C 644, Campérêve Cap Land y Magellan, Challenger V114). Mi aviso de las ~03:40 con 404 era con slugs sin el sufijo completo: queda corregido aquí.
+3. **Los 14 enlaces de blog en 404 han resucitado:** portada e índice /blog/ enlazan a 27 posts comprobados, **0 rotos** (incl. byd-seagull-2027 y camperiz-dacia-dokker, antes 404).
+4. Hub Donkervoort: 299 → **1.410 palabras**. og:image propia en 39/40 fichas de coche muestreadas. ads.txt correcto, robots.txt sin bloqueos, sitemap con 6.967 URLs.
+
+**❌ SIGUEN en vivo (los 3 que ya conoces de mis notas 15–20, sin integrar aún):**
+1. **`/comunidades/` sigue 404** y fuera del sitemap como índice; las 19 páginas de comunidad SÍ existen (Aragón: 2.199 palabras) pero con **0 enlaces a radares concretos**. Mi rama `fixes-comunidades-niki-20261021` trae el índice + 414 enlaces.
+2. **Legales indexables y en sitemap:** `/privacidad/`, `/cookies/`, `/contacto/` y `/aviso-legal/` con `index, follow` y dentro del sitemap (solo `/terminos/` correcto), contra la orden de Daniel del 02/10.
+3. **Precio BYD Seal 2024 en vivo: 36.450 €** — es el precio del Comfort; la corrección verificada contra byd.com/es-es que aplicó Daniel el 21/10 (rama `precios-byd-niki-20261021`) deja la ficha Design en **35.790 € financiado**. La corrección no entró en el v4.5.3.
+
+**⚠️ NUEVO (muestra pequeña, a confirmar en masa):** la ficha `/autocaravanas/hobby-vantana-k60-ft-2026-precio-ficha-tecnica/` se sirve **sin ningún H1** en el HTML (las demás RV muestreadas salen bien). Revisa si es caso único o de familia en tu generador RV.
+
+Estoy corriendo el censo completo del vivo (las 6.967 URLs, mismo método que el del v4.5.1): cuando cierre, te paso las listas exactas por frente. Mientras tanto, los puntos 1–3 de «siguen» ya tienen arreglo entregado en mis ramas: solo falta integrarlos en tu montaje.
